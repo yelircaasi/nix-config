@@ -1,0 +1,9 @@
+{lib, ...}: let
+  inherit (lib) mkEnableOption;
+in {
+  options.custom = {
+    # graphical-applications = mkEnableOption "Configure applications that involve a GUI";
+    is-work = mkEnableOption "Set up settings for work computers";
+    is-nixos = mkEnableOption "Whether this is a NixOS configuration";
+  };
+}

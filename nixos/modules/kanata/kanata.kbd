@@ -1,0 +1,136 @@
+(defsrc
+
+esc            f1   f2   f3   f4             f5    f6    f7    f8          f9   f10  f11   f12
+grv       1      2    3      4      5       6     7      8     9      0       -      =    bspc       
+tab       q      w    e      r      t       y     u      i     o      p       [      ]       \         
+caps      a      s    d      f      g       h     j      k     l      ;       '          enter        
+lsft      z      x    c      v      b       n     m      ,     .      /                   rsft           up 
+lctl      lmet   lalt             spc                  ralt        rmet                   rctl      lft down rght
+
+)
+
+(deflayer default
+
+caps           f1   f2   f3   f4               f5      f6     f7    f8          f9   f10  f11   f12
+grv       1      2    3      4       5       6       7       8     9      0       -      =     bspc       
+tab       q      w    e      r       t       y       u       i     o      @punct  [      ]        \          
+@hybrctl  a      s    d      f       @german h       j       k     l      ;       '           enter        
+lsft      z      x    c      @vimnav b       @number @spcl   ,     .      /                    rsft               up
+lctl      lmet   lalt             spc                     ralt        rmet                     rctl          lft down rght
+
+)
+
+(deflayer vimnav
+
+-             -     -   -     -             -     -    -     -          -    -    -    -
+-       -      -    -      -      -       -     -      -     -      -      -      -    -       
+-       -      -    -      -      -       -     -      -     -      -      -      -    -          
+-       -      -    -      -      -       lft   down   up    rght   -      -           -        
+-       -      -    -      -      -       -     -      -     -      -                  -         -
+-       -      -             -                                      -      -           -       - - -
+
+)
+
+(deflayer germanmode
+
+-             -     -   -     -             -     -    -     -          -    -    -    -
+-       -      -    -      -      -       -     -      -     -      -      -      -    -       
+-       -      -    -      -      -       -     @u     -     @o     -      -      -    -          
+-       @a     -    -      -      -       -     -      -     -      -      -           -        
+@gshift -      -    -      -      -       -     -      -     -      -                  @gshift   -
+-       -      -             -                                      -      -           -       - - -
+
+)
+
+(deflayer germanmodecaps
+
+-             -     -   -     -             -     -    -     -          -    -    -    -
+-       -      -    -      -      -       -     -      -     -      -      -      -    -       
+-       -      -    -      -      -       -     @U     -     @O     -      -      -    -          
+-       @A     -    -      -      -       -     -      -     -      -      -           -        
+-       -      -    -      -      -       -     -      -     -      -                  -         -
+-       -      -             -                                      -      -           -       - - -
+
+)
+
+(deflayer freq_unicode
+
+-             -     -   -     -             -     -    -     -          -    -    -    -
+-       -      -    -      -      -       -     -      -     -      -      -      -    -       
+-       -      -    -      -      -       -     @U     -     @O     -      -      -    -          
+-       @A     -    -      -      -       -     -      -     -      -      -           -        
+-       -      -    -      -      -       -     -      -     -      -                  -         -
+-       -      -             -                                      -      -           -       - - -
+
+)
+
+(deflayer numbers
+
+-             -     -   -     -             -     -    -     -          -    -    -    -
+-       -      -    -      -      -       -     -      -     -      -      -      -    -       
+-       -      7    8      9      -       -     -      -     -      -      -      -    -          
+-       -      4    5      6      -       -     -      -     -      -      -           -        
+-       0      1    2      3      -       -     -      -     -      -                  -         -
+-       -      -             -                                      -      -           -       - - -
+
+)
+
+(deflayer punctuationetc
+
+-             -     -   -     -                 -     -    -     -          -    -    -    -
+-       -       -       -      -      -       -     -      -     -      -      -      -    -       
+-       S-,     S-.     S-[    S-]    -       -     -      -     -      -      -      -    -          
+-       S-9     S-0     [      ]      -       -     -      -     -      -      -           -        
+-       @angleL @angleR 2      3      -       -     -      -     -      -                  -         -
+-       -      -             -                                          -      -           -       - - -
+
+)
+
+(deflayer ascii_special
+
+-             -     -   -     -             -     -    -     -          -    -    -    -
+-       -      -      -     -      -       -     -      -     -      -      -      -    -       
+-       S-\    S-7    S-8   S-9    S-grv   -     -      -     -      -      -      -    -          
+-       \      S-4    S-5   S-6    grv     -     -      -     -      -      -           -        
+-       -      S-1    S-2   S-3    -       -     -      -     -      -                  -         -
+-       -      -                 -                                   -      -           -       - - -
+
+)
+
+(defalias
+    hybrctl (tap-hold-press 200 200 esc lctl)
+    vimnav  (tap-hold-press 200 200 v (layer-toggle vimnav))
+    german  (tap-hold-press 200 200 g (layer-toggle germanmode))
+    gshift  (tap-hold-press 200 200 S-g (layer-toggle germanmodecaps))
+    number  (tap-hold-press 200 200 n (layer-toggle numbers))
+    spcl    (tap-hold-press 200 200 m (layer-toggle ascii_special))
+    punct   (tap-hold-press 200 200 p (layer-toggle punctuationetc))
+    a (unicode ä)
+    o (unicode ö)
+    u (unicode ü)
+    A (unicode Ä)
+    O (unicode Ö)
+    U (unicode Ü)
+
+    angleL (unicode ⟨)
+    angleR (unicode ⟩)
+    tblh (unicode ─)
+    tblv (unicode ┐)
+    tblx1 (unicode x)
+    tblx2 (unicode x)
+    tblx3 (unicode x)
+    tblx4 (unicode x)
+    tblx5 (unicode x)
+    tblx6 (unicode x)
+    tblx7 (unicode x)
+    tblx8 (unicode x)
+    tblx9 (unicode x)
+    tblx10 (unicode x)
+    tblx11 (unicode x)
+    tblx12 (unicode x)
+    tblx13 (unicode x)
+    tblx14 (unicode x)
+    tblx15 (unicode x)
+    tblx16 (unicode x)
+    tblx17 (unicode x)
+)

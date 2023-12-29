@@ -1,22 +1,3 @@
-# { 
-#   inputs,
-#   lib,
-#   config,
-#   pkgs,
-#   custom,
-#   ...
-# }:
-# let
-#   # […]
-#   nix-nvim = builtins.fetchGit {
-#     url = "https://framagit.org/vegaelle/nix-nvim" ;
-#     ref = "master" ;
-#     rev = "d058d9f9130b1d4a580885c12cd3cefaeab475a0" ;
-#   };
-# in
-# {
-#   imports = [ (import "${nix-nvim}") ];
-# }
 { pkgs, lib, ... }:
 let
   vim-plugins = import ./plugins.nix { inherit pkgs lib; };
@@ -29,18 +10,17 @@ in {
   #   }))
   # ];
   home.packages = with pkgs; [
-    nodePackages.pyright #nixos-unstable.nodePackages.pyright
     tree-sitter #nixos-unstable.tree-sitter 
     code-minimap #nixos-unstable.code-minimap
-    luaPackages.lua-lsp 
     rnix-lsp 
+    vscode-langservers-extracted # nixos-unstable.vscode-langservers-extracted
+    luaPackages.lua-lsp 
+    nodePackages.pyright #nixos-unstable.nodePackages.pyright
     nodePackages.vim-language-server
     nodePackages.yaml-language-server nodePackages.bash-language-server
     nodePackages.vscode-json-languageserver-bin
     nodePackages.vscode-html-languageserver-bin
     nodePackages.vscode-css-languageserver-bin
-    vscode-langservers-extracted # nixos-unstable.vscode-langservers-extracted
-    rnix-lsp
   ];
   programs.neovim = {
     enable = true;

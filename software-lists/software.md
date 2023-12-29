@@ -1,5 +1,7 @@
 # Software List
 
+https://github.com/lucc/nvimpager 
+
 [read](https://www.reddit.com/r/unixporn/comments/5o1mic/what_display_manager_do_you_guys_use/)
 ## Minimalist Set
 
@@ -173,7 +175,7 @@ ew: command to run command outside of current directory without explicitly chang
 
 #### Search
 
-* [fzf](https://github.com/junegunn/fzf) | [skim](https://github.com/lotabout/skim) | [fzy](https://github.com/jhawthorn/fzy)
+* [fzf](https://github.com/junegunn/fzf) | [zf](https://github.com/natecraddock/zf) | [skim](https://github.com/lotabout/skim) | [fzy](https://github.com/jhawthorn/fzy)
 * [fz.sh](https://github.com/mrjohannchang/fz.sh) (for zsh)
 * [ack](https://beyondgrep.com/) | [frawk](https://github.com/ezrosent/frawk) | [sift](https://github.com/svent/sift) | [ugrep](https://github.com/Genivia/ugrep)
 * [vgrep](https://github.com/vrothberg/vgrep)

@@ -19,6 +19,7 @@
   -  https://github.com/rtfpessoa/diff2html-cli - Parse git diffs as JSON and generate pretty HTML.
   -  https://github.com/dandavison/delta - A syntax-highlighter for git and diff output.
   -  https://github.com/serhack/pdf-diff - A tool for visualizing differences between two pdf files. Mainly dedicated to editors that usually spends a lot of hours on several pdf. (requires poppler-utils)
+  -  https://www.freecodecamp.org/news/compare-two-files-in-linux-using-vim/ - vimdiff
   -  [Wdiff](https://www.gnu.org/software/wdiff/) - The GNU wdiff program is a front end to diff for comparing files on a word per word basis. It collects the diff output and uses it to produce a nicer display of word differences between the original files.
   -  https://github.com/Wilfred/difftastic - Syntax-aware structured diff tool.
   -  [Meld](https://meldmerge.org/) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects. (Gnome tool)

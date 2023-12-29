@@ -9,7 +9,8 @@
   imports = [
     ../features/development/git
     ../features/development/wezterm
-    ../features/development/neovim-from-zero
+    ../features/development/neovim
+    ../features/development/zsh
     # If you want to use home-manager modules from other flakes (such as nix-colors):
     # inputs.nix-colors.homeManagerModule
 
@@ -17,6 +18,7 @@
     # ./nvim.nix
   ];
 
+  
   # nixpkgs = {
   #   # You can add overlays here
   #   overlays = [

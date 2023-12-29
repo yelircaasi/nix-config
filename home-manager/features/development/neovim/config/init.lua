@@ -42,6 +42,12 @@ g.mapleader = " "
 -- -- misc utils
 local scopes = {o = vim.o, b = vim.bo, w = vim.wo}
 
+require("config-lsp")
+require("schwarzwald").load()
+-- require("bamboo").load()
+
+-- require("config-none-ls")
+
 -- local function opt(scope, key, value)
 --     scopes[scope][key] = value
 --     if scope ~= "o" then
@@ -91,116 +97,116 @@ local scopes = {o = vim.o, b = vim.bo, w = vim.wo}
 
 -- -- nvim-dev-webicons
 
--- require "nvim-web-devicons".setup {
---      default = true;
---     override = {
---         html = {
---             icon = "",
---             color = "#DE8C92",
---             name = "html"
---         },
---         css = {
---             icon = "",
---             color = "#61afef",
---             name = "css"
---         },
---         js = {
---             icon = "",
---             color = "#EBCB8B",
---             name = "js"
---         },
---         ts = {
---             icon = "ﯤ",
---             color = "#519ABA",
---             name = "ts"
---         },
---         kt = {
---             icon = "󱈙",
---             color = "#ffcb91",
---             name = "kt"
---         },
---         png = {
---             icon = " ",
---             color = "#BD77DC",
---             name = "png"
---         },
---         jpg = {
---             icon = " ",
---             color = "#BD77DC",
---             name = "jpg"
---         },
---         jpeg = {
---             icon = " ",
---             color = "#BD77DC",
---             name = "jpeg"
---         },
---         mp3 = {
---             icon = "",
---             color = "#C8CCD4",
---             name = "mp3"
---         },
---         mp4 = {
---             icon = "",
---             color = "#C8CCD4",
---             name = "mp4"
---         },
---         out = {
---             icon = "",
---             color = "#C8CCD4",
---             name = "out"
---         },
---         Dockerfile = {
---             icon = "",
---             color = "#b8b5ff",
---             name = "Dockerfile"
---         },
---         rb = {
---             icon = "",
---             color = "#ff75a0",
---             name = "rb"
---         },
---         vue = {
---             icon = "﵂",
---             color = "#7eca9c",
---             name = "vue"
---         },
---         py = {
---             icon = "",
---             color = "#a7c5eb",
---             name = "py"
---         },
---         toml = {
---             icon = "",
---             color = "#61afef",
---             name = "toml"
---         },
---         lock = {
---             icon = "",
---             color = "#DE6B74",
---             name = "lock"
---         },
---         zip = {
---             icon = "",
---             color = "#EBCB8B",
---             name = "zip"
---         },
---         xz = {
---             icon = "",
---             color = "#EBCB8B",
---             name = "xz"
---         },
---         deb = {
---             icon = "",
---             color = "#a3b8ef",
---             name = "deb"
---         },
---         rpm = {
---             icon = "",
---             color = "#fca2aa",
---             name = "rpm"
---         }
---     }
--- }
+require "nvim-web-devicons".setup {
+     default = true;
+    override = {
+        html = {
+            icon = "",
+            color = "#DE8C92",
+            name = "html"
+        },
+        css = {
+            icon = "",
+            color = "#61afef",
+            name = "css"
+        },
+        js = {
+            icon = "",
+            color = "#EBCB8B",
+            name = "js"
+        },
+        ts = {
+            icon = "ﯤ",
+            color = "#519ABA",
+            name = "ts"
+        },
+        kt = {
+            icon = "󱈙",
+            color = "#ffcb91",
+            name = "kt"
+        },
+        png = {
+            icon = " ",
+            color = "#BD77DC",
+            name = "png"
+        },
+        jpg = {
+            icon = " ",
+            color = "#BD77DC",
+            name = "jpg"
+        },
+        jpeg = {
+            icon = " ",
+            color = "#BD77DC",
+            name = "jpeg"
+        },
+        mp3 = {
+            icon = "",
+            color = "#C8CCD4",
+            name = "mp3"
+        },
+        mp4 = {
+            icon = "",
+            color = "#C8CCD4",
+            name = "mp4"
+        },
+        out = {
+            icon = "",
+            color = "#C8CCD4",
+            name = "out"
+        },
+        Dockerfile = {
+            icon = "",
+            color = "#b8b5ff",
+            name = "Dockerfile"
+        },
+        rb = {
+            icon = "",
+            color = "#ff75a0",
+            name = "rb"
+        },
+        vue = {
+            icon = "﵂",
+            color = "#7eca9c",
+            name = "vue"
+        },
+        py = {
+            icon = "",
+            color = "#a7c5eb",
+            name = "py"
+        },
+        toml = {
+            icon = "",
+            color = "#61afef",
+            name = "toml"
+        },
+        lock = {
+            icon = "",
+            color = "#DE6B74",
+            name = "lock"
+        },
+        zip = {
+            icon = "",
+            color = "#EBCB8B",
+            name = "zip"
+        },
+        xz = {
+            icon = "",
+            color = "#EBCB8B",
+            name = "xz"
+        },
+        deb = {
+            icon = "",
+            color = "#a3b8ef",
+            name = "deb"
+        },
+        rpm = {
+            icon = "",
+            color = "#fca2aa",
+            name = "rpm"
+        }
+    }
+}
 
 -- -- Bufferline
 
@@ -750,162 +756,7 @@ local scopes = {o = vim.o, b = vim.bo, w = vim.wo}
 -- require("colorizer").setup()
 -- require("neoscroll").setup()
 
--- -- Lspconfig
--- function on_attach(client, bufnr)
---     local function map(...)
---         vim.api.nvim_buf_set_keymap(bufnr, ...)
---     end
 
---     local function buf_set_option(...)
---         vim.api.nvim_buf_set_option(bufnr, ...)
---     end
-
---     buf_set_option("omnifunc", "v:lua.vim.lsp.omnifunc")
-
---     -- Mappings
---     local opts = {noremap = true, silent = true}
---     map("n", "gD", "<Cmd>lua vim.lsp.buf.declaration()<CR>", opts)
---     map("n", "gd", "<Cmd>lua vim.lsp.buf.definition()<CR>", opts)
---     map("n", "K", "<Cmd>lua vim.lsp.buf.hover()<CR>", opts)
---     map("n", "gi", "<cmd>lua vim.lsp.buf.implementation()<CR>", opts)
---     map("n", "<C-k>", "<cmd>lua vim.lsp.buf.signature_help()<CR>", opts)
---     map("n", "<leader>wa", "<cmd>lua vim.lsp.buf.add_workspace_folder()<CR>", opts)
---     map("n", "<leader>wr", "<cmd>lua vim.lsp.buf.remove_workspace_folder()<CR>", opts)
---     map("n", "<leader>wl", "<cmd>lua print(vim.inspect(vim.lsp.buf.list_workspace_folders()))<CR>", opts)
---     map("n", "<leader>D", "<cmd>lua vim.lsp.buf.type_definition()<CR>", opts)
---     map("n", "<leader>rn", "<cmd>lua vim.lsp.buf.rename()<CR>", opts)
---     map("n", "gr", "<cmd>lua vim.lsp.buf.references()<CR>", opts)
---     map("n", "<leader>e", "<cmd>lua vim.lsp.diagnostic.show_line_diagnostics()<CR>", opts)
---     map("n", "[d", "<cmd>lua vim.lsp.diagnostic.goto_prev()<CR>", opts)
---     map("n", "]d", "<cmd>lua vim.lsp.diagnostic.goto_next()<CR>", opts)
---     map("n", "<leader>q", "<cmd>lua vim.lsp.diagnostic.set_loclist()<CR>", opts)
---     map("n", "ga", "<cmd>lua vim.lsp.buf.code_action()<CR>", opts)
-
---     -- Set some keybinds conditional on server capabilities
---     if client.server_capabilities.document_formatting then
---         map("n", "<leader>f", "<cmd>lua vim.lsp.buf.formatting()<CR>", opts)
---     elseif client.server_capabilities.document_range_formatting then
---         map("v", "<leader>f", "<cmd>lua vim.lsp.buf.range_formatting()<CR>", opts)
---     end
--- end
-
-local lspconf = require "lspconfig"
--- local servers = {"pyright" , "bashls", "rls", "jsonls", "rnix", "eslint"}
-local servers = {"pylsp" , "bashls", "rls", "jsonls"}
-local capabilities = require('cmp_nvim_lsp').default_capabilities()
-
-for k, lang in pairs(servers) do
-    lspconf[lang].setup {
-        root_dir = vim.loop.cwd,
-        on_attach = on_attach,
-        capabilities = capabilities,
-    }
-  end
-
--- -- Enable diagnostics
--- vim.lsp.handlers["textDocument/publishDiagnostics"] = vim.lsp.with(
---   vim.lsp.diagnostic.on_publish_diagnostics, {
---     virtual_text = true,
---     signs = true,
---     update_in_insert = true,
---   }
--- )
-
--- lua lsp settings
-
-lspconf.lua_ls.setup {
-    cmd = {"lua-lsp"},
-    root_dir = function()
-        return vim.loop.cwd()
-    end,
-    on_attach = on_attach,
-    settings = {
-        Lua = {
-            runtime = {
-                version = "LuaJIT",
-                path = vim.split(package.path, ";")
-            },
-            diagnostics = {
-                globals = {"vim"}
-            },
-            workspace = {
-                library = {
-                    [vim.fn.expand("$VIMRUNTIME/lua")] = true,
-                    [vim.fn.expand("$VIMRUNTIME/lua/vim/lsp")] = true
-                }
-            },
-            telemetry = {
-                enable = false
-            }
-        }
-    }
-}
-
-lspconf.jsonls.setup { 
-    cmd = {"json-languageserver"},
-    root_dir = function()
-        return vim.loop.cwd()
-    end,
-    on_attach = on_attach,
-}
-
-lspconf.pylsp.setup{
-    on_attach = custom_attach,
-    settings = {
-      
-      pylsp = {
-        plugins = {
-          autopep8 = { enabled = false },
-          yapf = { enabled = false },
-    
-          black = {
-            enabled = true,
-            line_length = 100
-          },
-          pyls_isort = {
-            enabled = true,
-          },
-          pylsp_mypy = {
-            enabled = true,
-            strict = true,
-          },
-          rope = {
-            enabled = true,
-          },
-          ruff = {
-            enabled = false,
-          },
-          jedi_completion = {
-            fuzzy = true,
-          },
-          pylint = {
-            enabled = true, 
-            executable = "pylint" 
-          },
-        },
-      },
-      flags = {
-        debounce_text_changes = 200,
-      },
-      capabilities = capabilities,
-    }
-  }
-
--- require "lspconfig".html.setup { 
---     cmd = {"html-languageserver"},
---     root_dir = function()
---         return vim.loop.cwd()
---     end,
---     on_attach = on_attach,
--- }
-
--- require "lspconfig".cssls.setup { 
---     cmd = {"css-languageserver"},
---     root_dir = function()
---         return vim.loop.cwd()
---     end,
---     on_attach = on_attach,
--- }
 
 -- -- Compe
 -- vim.o.completeopt = "menuone,noselect"

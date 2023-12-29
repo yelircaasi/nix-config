@@ -1,5 +1,39 @@
-# { pkgs, lib }:
-
+{ pkgs, lib }:
+{
+  py-lsp-nvim = pkgs.vimUtils.buildVimPlugin {
+    pname = "py-lsp-nvim";
+    version = "v0.0.2";
+    src = pkgs.fetchFromGitHub {
+        owner = "HallerPatrick";
+        repo = "py_lsp.nvim";
+        rev = "5b2bd6433a2dbab76d54d58ccc1d1e89b220091c";
+        sha256 = "sha256-YOYrumIYlWcZBL1LSeBWseb/0G4n8obcll6wPwaXqpM=";
+    };
+    meta.homepage = "https://github.com/sheoak/vim-bepoptimist";
+    };
+    schwarzwald = pkgs.vimUtils.buildVimPlugin {
+    pname = "schwarzwald";
+    version = "v0.0.0";
+    src = pkgs.fetchFromGitHub {
+        owner = "yelircaasi";
+        repo = "schwarzwald.nvim";
+        rev = "fa299519a6144aec9cc9bcb5cbccf57f5d3346a8";
+        sha256 = "sha256-ExkaZstOiGua9Cnpans3YQB91Ek7YxRSCtGYrVAU9yM=";
+    };
+    meta.homepage = "https://github.com/yelircaasi/schwarzwald.nvim";
+    };
+    bamboo = pkgs.vimUtils.buildVimPlugin {
+    pname = "bamboo";
+    version = "v0.0.0";
+    src = pkgs.fetchFromGitHub {
+        owner = "ribru17";
+        repo = "bamboo.nvim";
+        rev = "934d2224f60ed61820a35f091f35486fca4f529f";
+        sha256 = "sha256-7u+vLrFkK5Ck7hTt6By5TsdmR7d/HLfp9cU+h1qINyM=";
+    };
+    meta.homepage = "https://github.com/ribru17/bamboo.nvim";
+    };
+}
 # {
 #   vim-bepoptimist = pkgs.vimUtils.buildVimPlugin rec {
 #     pname = "vim-bepoptimist";

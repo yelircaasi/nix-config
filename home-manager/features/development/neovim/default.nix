@@ -1,4 +1,4 @@
-{ pkgs, lib, ... }:
+{ inputs, pkgs, lib, ... }:
 let
   vim-plugins = import ./plugins.nix { inherit pkgs lib; };
   # nixos-master = import (builtins.fetchTarball https://github.com/NixOS/nixpkgs/archive/master.tar.gz) {};
@@ -10,6 +10,8 @@ in {
   #   }))
   # ];
   home.packages = with pkgs; [
+    # vimPlugins.none-ls-nvim
+
     python310Packages.python-lsp-server
     python310Packages.pylsp-mypy
     python310Packages.pyls-isort
@@ -17,7 +19,9 @@ in {
     python310Packages.pylsp-rope
     python310Packages.python-lsp-ruff
     python310Packages.pylint
+    vim-plugins.py-lsp-nvim
 
+    
     tree-sitter #nixos-unstable.tree-sitter 
     code-minimap #nixos-unstable.code-minimap
     # rnix-lsp 
@@ -38,14 +42,51 @@ in {
     vimAlias = true;
     vimdiffAlias = true;
     plugins = with pkgs.vimPlugins; [
-      luasnip
-      cmp_luasnip
-      cmp-path
       fidget-nvim
       neodev-nvim
-
-      friendly-snippets
       
+      # colorscheme
+      vim-plugins.schwarzwald
+      # vim-plugins.bamboo
+
+      # lsp & related
+      none-ls-nvim
+      nvim-lspconfig
+      
+
+      # python
+      nvim-dap-python
+
+      # nix
+      vim-nix
+      
+      # markdown
+      
+
+      # git
+      neogit
+      
+
+      # snippets
+      friendly-snippets
+      # vim-vsnip
+      cmp_luasnip
+      luasnip
+       
+      # completion
+      nvim-cmp
+      cmp-nvim-lsp
+      cmp-path
+      
+      # debugging
+      nvim-dap
+      nvim-dap-ui
+      
+      vim-plugins.py-lsp-nvim
+      
+      nvim-web-devicons
+
+      nvim-tree-lua
       # csv-vim
       # vim-surround  # fix config
       # vim-repeat
@@ -61,7 +102,6 @@ in {
       # editorconfig-vim
       # vim-markdown
       # ansible-vim
-      vim-nix
       # robotframework-vim
       # # vimspector
       # vim-plugins.vim-bepoptimist
@@ -74,20 +114,15 @@ in {
       # nvim-colorizer-lua
       
       nvim-treesitter.withAllGrammars # nixos-unstable.vimPlugins.nvim-treesitter.withAllGrammars
-      nvim-lspconfig
       # pkgs.vimPlugins.lsp_extensions-nvim # nixos-unstable.vimPlugins.lsp_extensions-nvim
       # # completion-nvim
-      nvim-cmp
-      cmp-nvim-lsp
       # lspkind-nvim
       # gitsigns-nvim
-      neogit
       # pkgs.vimPlugins.diffview-nvim # nixos-unstable.vimPlugins.diffview-nvim
       # pkgs.vimPlugins.bufferline-nvim # nixos-unstable.vimPlugins.bufferline-nvim
       # nvim-autopairs
       # pkgs.vimPlugins.galaxyline-nvim # nixos-unstable.vimPlugins.galaxyline-nvim
       # vim-closetag
-      # vim-vsnip
       # # nvim-tree-lua
       # neo-tree-nvim
       # nvim-web-devicons
@@ -113,6 +148,20 @@ in {
       # vim-plugins.hydra-nvim
     ];
 
-    extraConfig = "lua << EOF\n" + builtins.readFile ./init.lua + "\nEOF";
+    # extraConfig = "lua << EOF\n" + builtins.readFile ./init.lua + "\nEOF";
   };
+
+  # xdg.configFile."nvim".source = builtins.path {
+  #     path = ./config;
+  #     name = "nvim-config";
+  # };
+  xdg.configFile.nvim = {  
+    source = ./config;  
+    recursive = true;  
+  };
+  # xdg.configFile."nvim" = { source = ./nvim; recursive = true; } ;
+
+  # xdg.configFile."nvim/init.lua".source = ./init.lua ;
+  # home.file."${xdg.configHome}"."nvim/lua" = { source = ./lua; recursive= true; } ;
+  
 }

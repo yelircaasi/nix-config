@@ -8,8 +8,8 @@
 }: {
   imports = [
     ../features/development/git
-    ../features/development/wezterm
-    ../features/development/neovim
+    ../features/gui/wezterm
+    ../features/development/neovim #-gaelle
     ../features/development/zsh
     # If you want to use home-manager modules from other flakes (such as nix-colors):
     # inputs.nix-colors.homeManagerModule

@@ -1,6 +1,16 @@
 { pkgs, lib }:
 
 {
+  schwarzwald = pkgs.vimUtils.buildVimPlugin {
+    pname = "schwarzwald";
+    version = "v0.0.0";
+    src = pkgs.fetchFromGitHub {
+        owner = "yelircaasi";
+        repo = "schwarzwald.nvim";
+        rev = "fa299519a6144aec9cc9bcb5cbccf57f5d3346a8";
+        sha256 = "sha256-ExkaZstOiGua9Cnpans3YQB91Ek7YxRSCtGYrVAU9yM=";
+    };
+  };
   vim-bepoptimist = pkgs.vimUtils.buildVimPlugin rec {
     pname = "vim-bepoptimist";
     version = "v2.1.1";

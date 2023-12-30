@@ -45,12 +45,20 @@ in {
       fidget-nvim
       neodev-nvim
       
+      
       # colorscheme
       vim-plugins.schwarzwald
       # vim-plugins.bamboo
 
+      # file browsing
+      neo-tree-nvim
+
+      # terminal
+      toggleterm-nvim
+      
       # lsp & related
-      none-ls-nvim
+      # none-ls-nvim
+      vim-plugins.none-ls
       nvim-lspconfig
       
 
@@ -87,6 +95,8 @@ in {
       nvim-web-devicons
 
       nvim-tree-lua
+      telescope-nvim
+      nvim-treesitter.withAllGrammars # nixos-unstable.vimPlugins.nvim-treesitter.withAllGrammars
       # csv-vim
       # vim-surround  # fix config
       # vim-repeat
@@ -108,12 +118,10 @@ in {
       # vim-plugins.nvim-base16  # the one packaged in nixpkgs is different
       # popup-nvim
       # plenary-nvim
-      telescope-nvim
       # telescope-symbols-nvim
       # # telescope-media-files  # doesn't support wayland yet
       # nvim-colorizer-lua
       
-      nvim-treesitter.withAllGrammars # nixos-unstable.vimPlugins.nvim-treesitter.withAllGrammars
       # pkgs.vimPlugins.lsp_extensions-nvim # nixos-unstable.vimPlugins.lsp_extensions-nvim
       # # completion-nvim
       # lspkind-nvim
@@ -124,7 +132,6 @@ in {
       # pkgs.vimPlugins.galaxyline-nvim # nixos-unstable.vimPlugins.galaxyline-nvim
       # vim-closetag
       # # nvim-tree-lua
-      # neo-tree-nvim
       # nvim-web-devicons
       # vim-devicons
       # # vim-auto-save  # ?

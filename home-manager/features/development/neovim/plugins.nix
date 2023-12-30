@@ -11,7 +11,7 @@
     };
     meta.homepage = "https://github.com/sheoak/vim-bepoptimist";
     };
-    schwarzwald = pkgs.vimUtils.buildVimPlugin {
+  schwarzwald = pkgs.vimUtils.buildVimPlugin {
     pname = "schwarzwald";
     version = "v0.0.0";
     src = pkgs.fetchFromGitHub {
@@ -19,10 +19,10 @@
         repo = "schwarzwald.nvim";
         rev = "fa299519a6144aec9cc9bcb5cbccf57f5d3346a8";
         sha256 = "sha256-ExkaZstOiGua9Cnpans3YQB91Ek7YxRSCtGYrVAU9yM=";
-    };
+  };
     meta.homepage = "https://github.com/yelircaasi/schwarzwald.nvim";
     };
-    bamboo = pkgs.vimUtils.buildVimPlugin {
+  bamboo = pkgs.vimUtils.buildVimPlugin {
     pname = "bamboo";
     version = "v0.0.0";
     src = pkgs.fetchFromGitHub {
@@ -32,7 +32,29 @@
         sha256 = "sha256-7u+vLrFkK5Ck7hTt6By5TsdmR7d/HLfp9cU+h1qINyM=";
     };
     meta.homepage = "https://github.com/ribru17/bamboo.nvim";
+  };
+  none-ls = pkgs.vimUtils.buildVimPlugin {
+    pname = "none-ls.nvim";
+    version = "2023-12-22";
+    src = pkgs.fetchFromGitHub {
+        owner = "nvimtools";
+        repo = "none-ls.nvim";
+        rev = "e7382de51b4cf629e56f1fa18192e716e5ba8145";
+        sha256 = "sha256-XvOLC4N/fcoKQcpQXecwDJSAfF4z9pkszMjoMtWldNY=";
     };
+    meta.homepage = "https://github.com/nvimtools/none-ls.nvim/";
+  };
+#   XXX = pkgs.vimUtils.buildVimPlugin {
+#     pname = "";
+#     version = "";
+#     src = pkgs.fetchFromGitHub {
+#         owner = "";
+#         repo = "";
+#         rev = "";
+#         sha256 = "";
+#     };
+#     meta.homepage = "";
+#   };
 }
 # {
 #   vim-bepoptimist = pkgs.vimUtils.buildVimPlugin rec {

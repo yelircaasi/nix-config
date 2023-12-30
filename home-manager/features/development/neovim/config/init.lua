@@ -47,6 +47,13 @@ require("schwarzwald").load()
 -- require("bamboo").load()
 
 -- require("config-none-ls")
+require("config-neotree")
+require("config-toggleterm")
+
+require("neogit")
+require("nvim-web-devicons")
+-- require("friendly-snippets")
+-- require("tree-sitter")
 
 -- local function opt(scope, key, value)
 --     scopes[scope][key] = value

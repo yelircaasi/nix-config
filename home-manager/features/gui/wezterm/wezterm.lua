@@ -14,10 +14,13 @@ end
 config.hide_tab_bar_if_only_one_tab = true
 config.enable_tab_bar = false
 
---config.font = wezterm.font 'FiraCode Nerd Font Mono'
+config.font = wezterm.font_with_fallback {
+    'FiraCode Nerd Font Mono',
+    'Unifont',
+}
 config.font_size = 10.0
 
-config.color_scheme = "schwarzwald"
+-- config.color_scheme = "schwarzwald"
 
 config.colors = {
         -- The default text color

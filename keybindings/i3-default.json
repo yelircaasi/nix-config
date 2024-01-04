@@ -1,0 +1,38 @@
+{
+    "$source": "https://i3wm.org/docs/userguide.html#_default_keybindings",
+    "$accessed": "2024-01-03",
+    "$mod": "alt",
+    "focus parent": "",
+    "stacked layout": "",
+    "dmenu": "",
+    "full screen": "",
+    "left": "",
+    "down": "",
+    "up": "",
+    "right": "",
+    "toggle tiling/floating": "",
+    "move left": "",
+    "move down": "",
+    "move up": "",
+    "move right": "",
+    "kill window": [
+        {
+            "modifiers": [
+                "$mod",
+                "shift"
+            ],
+            "main": [
+                "q"
+            ]
+        }
+    ],
+    "open terminal": "",
+    "tabbed layout": "",
+    "default layout": "",
+    "resize mode": "",
+    "exit i3": "",
+    "restart i3": "",
+    "split horizontal": "",
+    "split vertical": "",
+    "": ""
+}

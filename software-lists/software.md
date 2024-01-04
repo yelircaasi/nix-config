@@ -1,5 +1,52 @@
 # Software List
 
+https://github.com/lucc/nvimpager
+
+https://git-scm.com/docs/gitk 
+
+https://ghaiklor.github.io/terminal-canvas/ 
+
+https://devicon.dev/ 
+
+https://github.com/cue-lang
+
+https://git.sr.ht/~cdv/scfg-rs 
+
+https://github.com/projectfluent/fluent
+
+https://github.com/ttytm/wthrr-the-weathercrab
+
+https://github.com/ulyssa/iamb 
+
+https://gitlab.com/mildlyparallel/pscircle
+
+https://github.com/paul-nameless/tg
+
+https://github.com/aandrew-me/tgpt
+
+https://github.com/lukesmithxyz/mutt-wizard
+
+https://github.com/OpenRC/openrc
+    
+
+[Conky](https://conky.cc/) - Conky is a free, light-weight system monitor for X, that displays any kind of information on your desktop.
+
+https://acidwords.com/posts/2016-07-26-hacking-mupdf-custom-background-colors.html
+
+[Browser Ricing](https://www.notion.so/Browser-Ricing-55d69da80b4543f5979926bd7906f9df?pvs=21)
+
+[Icons, Theming, Fonts](https://www.notion.so/Icons-Theming-Fonts-ced89db4476d422fb67fc9148ab9147e?pvs=21)
+
+https://github.com/bevry/dorothy
+
+https://nwg-piotr.github.io/nwg-shell/ *********
+
+https://fsd.it/shop/fonts/pragmatapro/ 
+
+https://github.com/Lxtharia/minegrub-theme
+
+→ https://github.com/fosslife/awesome-ricing
+
 https://github.com/lucc/nvimpager 
 
 [read](https://www.reddit.com/r/unixporn/comments/5o1mic/what_display_manager_do_you_guys_use/)

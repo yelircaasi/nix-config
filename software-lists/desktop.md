@@ -754,3 +754,29 @@ rofi-wayland, wofi, bemenu, fuzzel, tofi.
     
 
 ---
+Display Manager, Login, Lockscreen, Boot, etc.
+
+## **Display manager - Console**
+
+- [CDM](https://github.com/evertiro/cdm) - A ultra-minimalistic, yet full-featured login manager written in Bash.
+- [Console TDM](https://github.com/dopsi/console-tdm) - An extension for xinit written in pure Bash.
+- [Ly](https://github.com/cylgom/ly) - Ly is a lightweight, TUI (ncurses-like) display manager for Linux.
+- [nodm](https://github.com/spanezz/nodm) - A minimalistic display manager for automatic logins.
+
+## **Display manager - Graphic**
+
+- [Entrance](https://enlightenment.org/) - An EFL based display manager, highly experimental.
+- [GDM](https://wiki.gnome.org/Projects/GDM) - The GNOME display manager.
+- [LightDM](http://www.freedesktop.org/wiki/Software/LightDM) - A cross-desktop display manager, can use various front-ends written in any toolkit.
+- [LXDM](http://sourceforge.net/projects/lxdm/) - The LXDE display manager. Can be used independent of the LXDE desktop environment.
+- [MDM](https://github.com/linuxmint/mdm) - The MDM display manager, used in Linux Mint, a fork of GDM 2.
+- [SDDM](https://github.com/sddm/sddm) - The QML-based display manager and successor to KDE4’s kdm; recommended for Plasma 5 and LXQt.
+- [SLiM](http://sourceforge.net/projects/slim.berlios/) - Lightweight and elegant graphical login solution. (Discontinued)
+- [XDM](http://www.x.org/archive/X11R7.5/doc/man/man1/xdm.1.html) - The X display manager with support for XDMCP, and host chooser.
+- Lock screen: [xsecurelock](https://github.com/google/xsecurelock)
+
+[rEFInd](https://www.rodsbooks.com/refind/) - rEFInd is a fork of the rEFIt boot manager. Like rEFIt, rEFInd can auto-detect your installed EFI boot loaders and it presents a pretty GUI menu of boot options. → great resource https://www.rodsbooks.com/refind/ 
+
+[Login Manager Settings](https://realmazharhussain.github.io/gdm-settings/) - A settings app for GNOME’s Login Manager, GDM.
+
+https://github.com/betterlockscreen/betterlockscreen

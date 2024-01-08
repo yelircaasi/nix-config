@@ -271,7 +271,7 @@ https://en.wikipedia.org/wiki/LyX
   - [sent](https://github.com/Correia-jpv/fucking-awesome-cli-apps/blob/main/tools.suckless.org/sent) - Simple plaintext presentation tool.
   - [slides](https://github.com/maaslalani/slides) - A markdown presentation tool.
   - [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY Presentation Micro-Framework
-  - ([hacker-slides](https://github.com/msoedov/hacker-slides)) https://github.com/rga2/hacker-slides,  - Reveal.js based presentation tool
+  - ([hacker-slides](https://github.com/msoedov/hacker-slides))[hacker-slides,](https://github.com/rga2/hacker-slides,) - Reveal.js based presentation tool
   - [impress.js](https://github.com/impress/impress.js) - presentation framework based on the power of CSS3 transforms and transitions
   - [mithril-slides](https://github.com/wulab/mithril-slides) - A Keynote-inspired presentation app written with Mithril
   - [](https://mithril.js.org/)
@@ -310,7 +310,7 @@ GUI LaTeX Editor
 * [auctex](https://www.gnu.org/software/auctex/) [link](http://git.savannah.gnu.org/cgit/auctex.git)
 * [TeXstudio](https://www.texstudio.org/) - TeXstudio’s goal is to make writing LaTeX documents as easy and comfortable as possible. [link](https://github.com/texstudio-org/texstudio)
 * [Texmaker](http://www.xm1math.net/texmaker/) - Free cross-platform LaTeX editor. [code](https://www.xm1math.net/texmaker/download.html)
-* https://github.com/TeXworks/texworks - [TeXworks](https://www.tug.org/texworks/) - TeXworks is an environment for authoring TeX (LaTeX, ConTeXt, etc) documents, with a Unicode-based, TeX-aware editor, integrated PDF viewer, and a clean, simple interface accessible to casual and non-technical users.
+*[texworks](https://github.com/TeXworks/texworks)- [TeXworks](https://www.tug.org/texworks/) - TeXworks is an environment for authoring TeX (LaTeX, ConTeXt, etc) documents, with a Unicode-based, TeX-aware editor, integrated PDF viewer, and a clean, simple interface accessible to casual and non-technical users.
 * [LyX](https://www.lyx.org/) - Mature document editor that renders into LaTeX.
 * [GNOME LaTeX](https://gitlab.gnome.org/swilmet/gnome-latex) - GNOME LaTeX is a LaTeX editor for the GNOME desktop.
 * [Gummi](https://github.com/alexandervdm/gummi) - Simple latex editor with templates, spell check, and wizards.

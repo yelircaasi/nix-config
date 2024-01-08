@@ -8,7 +8,7 @@
   ...
 }: {
   imports = [
-    ./common
+    ./components/common
     
 
     # If you want to use home-manager modules from other flakes (such as nix-colors):
@@ -18,6 +18,9 @@
     # ./nvim.nix
   ];
 
+  programs.zsh.enable = false;
+  programs.wezterm.enable = false ;
+  
   nixpkgs = {
     # You can add overlays here
     overlays = [
@@ -44,9 +47,11 @@
     username = "isaac";
     homeDirectory = "/home/isaac";
     # https://nixos.wiki/wiki/FAQ/When_do_I_update_stateVersion
-    home.stateVersion = "23.11";
+    stateVersion = "23.11";
     packages = with pkgs; [
       docker
+      kanata
+      libGL
 
     ];
 
@@ -60,9 +65,9 @@
   # Nicely reload system units when changing configs
   systemd.user.startServices = "sd-switch";
 
-  # (in common) xdg.configFile."kanata/kanata.kbd".source = ../. + ./nixos/modules/kanata/kanata.kbd ;
-  xdg.configFile."kanata/kanata.kbd".source = ../. + ./nixos/modules/kanata/kanata.kbd ;
-  xdg.configFile."nitrogen/bg-saved.cfg".source = ./features/desktop/x11/nitrogen/bg-saved.cfg ;
+  # (in common) xdg.configFile."kanata/kanata.kbd".source = ../. + ./nixos/components/kanata/kanata.kbd ;
+  xdg.configFile."kanata/kanata.kbd".source = ../nixos/components/kanata/kanata.kbd ;
+  xdg.configFile."nitrogen/bg-saved.cfg".source = ./environments/x11/wallpaper/nitrogen/bg-saved.cfg ;
   
 
 }

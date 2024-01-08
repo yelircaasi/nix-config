@@ -13,9 +13,9 @@ lctl      lmet   lalt             spc                  ralt        rmet         
 
 caps           f1   f2   f3   f4               f5      f6     f7    f8          f9   f10  f11   f12
 grv       1      2    3      4       5       6       7       8     9      0       -      =     bspc       
-tab       q      w    e      r       t       y       u       i     o      @punct  [      ]        \          
-@hybrctl  a      s    d      f       @german h       j       k     l      ;       '           enter        
-lsft      z      x    c      @vimnav b       @number @spcl   ,     .      /                    rsft               up
+tab       q      w    e      r       t       y       u       i     o      p       @aspcl @nspcl   \              
+@hybrctl  a      s    d      f       @german h       j       k     l      @number @punct      enter        
+lsft      z      x    c      @vimnav b       n       m       ,     .      /                    rsft               up
 lctl      lmet   lalt             spc                     ralt        rmet                     rctl          lft down rght
 
 )
@@ -97,14 +97,28 @@ lctl      lmet   lalt             spc                     ralt        rmet      
 
 )
 
+(deflayer nonascii_special
+
+-              -     -     -     -             -     -    -     -          -    -    -    -
+-       -       -        -     -    -     -     -      -     -      -      -      -    -       
+-       @arrowL @arrowR  -     -    -     -     -      -     -      -      -      -    -          
+-       -       -        -     -    -     -     -      -     -      -      -           -        
+-       -       -        -     -    -     -     -      -     -      -                  -         -
+-       -       -                 -                                   -      -           -       - - -
+
+)
+
 (defalias
     hybrctl (tap-hold-press 200 200 esc lctl)
     vimnav  (tap-hold-press 200 200 v (layer-toggle vimnav))
     german  (tap-hold-press 200 200 g (layer-toggle germanmode))
     gshift  (tap-hold-press 200 200 S-g (layer-toggle germanmodecaps))
-    number  (tap-hold-press 200 200 n (layer-toggle numbers))
-    spcl    (tap-hold-press 200 200 m (layer-toggle ascii_special))
-    punct   (tap-hold-press 200 200 p (layer-toggle punctuationetc))
+    
+    number  (tap-hold-press 200 200 ; (layer-toggle numbers))
+    punct   (tap-hold-press 200 200 ' (layer-toggle punctuationetc))
+    aspcl    (tap-hold-press 200 200 [ (layer-toggle ascii_special))
+    nspcl    (tap-hold-press 200 200 ] (layer-toggle nonascii_special))
+    
     a (unicode ä)
     o (unicode ö)
     u (unicode ü)
@@ -116,8 +130,8 @@ lctl      lmet   lalt             spc                     ralt        rmet      
     angleR (unicode ⟩)
     tblh (unicode ─)
     tblv (unicode ┐)
-    tblx1 (unicode x)
-    tblx2 (unicode x)
+    arrowL (unicode ←)
+    arrowR (unicode →)
     tblx3 (unicode x)
     tblx4 (unicode x)
     tblx5 (unicode x)

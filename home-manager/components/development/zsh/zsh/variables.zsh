@@ -1,4 +1,5 @@
 export PATH="/home/isaac/.local/bin:/home/isaac/.local/go:$PATH"
+export LD_LIBRARY_PATH="/usr/local/lib:/usr/lib/x86_64-linux-gnu"
 export XCURSOR_PATH="/usr/share/icons/:$XCURSOR_PATH"
 export EDITOR="nvim"
 

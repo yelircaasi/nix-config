@@ -85,7 +85,7 @@ https://github.com/AstroNvim/astrocommunity.git
 
 https://github.com/avegancafe/VimStudio 
 
-- https://github.com/ThePrimeagen/init.lua theprimeagen -
+-[init.lua](https://github.com/ThePrimeagen/init.lua)theprimeagen -
 
 https://github.com/rebelot/dotfiles
 
@@ -97,14 +97,14 @@ https://github.com/pgosar/CyberNvim
     
     → see Nix page
     
-    1. https://github.com/gvolpe/neovim-flake 
+    1.[neovim-flake](https://github.com/gvolpe/neovim-flake)
     2. https://github.com/BirdeeHub/nixCats-nvim
     3. https://framagit.org/vegaelle/nix-nvim
     4. https://github.com/jordanisaacs/neovim-flake
     5. https://github.com/nix-community/nixvim
     6. https://github.com/Quoteme/neovim-flake
     7. https://github.com/NixNeovim/NixNeovim
-    8. https://github.com/nix-community/nixvim https://nix-community.github.io/nixvim/
+    8.[nixvim](https://github.com/nix-community/nixvim)https://nix-community.github.io/nixvim/
     9. https://juuso.dev/blogPosts/modular-neovim/modular-neovim-with-nix.html 
     10. https://primamateria.github.io/blog/neovim-nix/
     
@@ -499,22 +499,22 @@ https://github.com/pgosar/CyberNvim
     https://neovim.discourse.group/t/looking-to-confirm-my-config-structure-is-sound/4229 
     
 - Starter configs
-    1. https://github.com/VonHeikemen/lsp-zero.nvim https://github.com/VonHeikemen/lsp-zero.nvim/blob/v2.x/doc/md/tutorial.md
+    1.[lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim)https://github.com/VonHeikemen/lsp-zero.nvim/blob/v2.x/doc/md/tutorial.md
     2. https://github.com/nvim-lua/kickstart.nvim
     3. https://github.com/IfCodingWereNatural/minimal-nvim
-    4. https://github.com/frans-johansson/lazy-nvim-starter 
-    5. https://github.com/LunarVim/Neovim-from-scratch 
+    4.[lazy-nvim-starter](https://github.com/frans-johansson/lazy-nvim-starter)
+    5.[Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch)
     6. https://github.com/LunarVim/nvim-basic-ide
-    7. https://github.com/alpha2phi/neovim-for-beginner 
-    8. https://github.com/alpha2phi/neovim-101 
-    9. https://github.com/alpha2phi/neovim-pde 
-    10. https://github.com/alpha2phi/modern-neovim 
+    7.[neovim-for-beginner](https://github.com/alpha2phi/neovim-for-beginner)
+    8.[neovim-101](https://github.com/alpha2phi/neovim-101)
+    9.[neovim-pde](https://github.com/alpha2phi/neovim-pde)
+    10.[modern-neovim](https://github.com/alpha2phi/modern-neovim)
     
-    https://github.com/NormalNvim/NormalNvim 
+   [NormalNvim](https://github.com/NormalNvim/NormalNvim)
     
-    https://github.com/nvim-lua/kickstart.nvim 
+   [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
     
-    https://github.com/NvChad/basic-config 
+   [basic-config](https://github.com/NvChad/basic-config)
     
     [nvimdev/dope: a modern structure neovim config template write in lua](https://github.com/nvimdev/dope)
     
@@ -522,21 +522,21 @@ https://github.com/pgosar/CyberNvim
     
     1. https://github.com/nvim-lua/kickstart.nvim
 - top non-nix configs
-    1. https://github.com/doom-neovim/doom-nvim 
+    1.[doom-nvim](https://github.com/doom-neovim/doom-nvim)
         
         https://github.com/doom-neovim/doom-nvim
         
-        https://github.com/Fryuni/doom-nvim 
+       [doom-nvim](https://github.com/Fryuni/doom-nvim)
         
         https://github.com/molleweide/doom-nvim
         
         https://github.com/LambertGreen/doom-nvim
         
-    2. https://github.com/artart222/CodeArt 
-    3. https://github.com/ldelossa/nvim-ide - [A full featured IDE layer for Neovim. Heavily inspired by VSCode](https://github.com/ldelossa/nvim-ide)
-    4. https://github.com/UTFeight/vimacs 
-    5. https://github.com/nyoom-engineering/nyoom.nvim (fennel)
-    6. https://github.com/crivotz/nv-ide 
+    2.[CodeArt](https://github.com/artart222/CodeArt)
+    3.[nvim-ide](https://github.com/ldelossa/nvim-ide)- [A full featured IDE layer for Neovim. Heavily inspired by VSCode](https://github.com/ldelossa/nvim-ide)
+    4.[vimacs](https://github.com/UTFeight/vimacs)
+    5.[nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim)(fennel)
+    6.[nv-ide](https://github.com/crivotz/nv-ide)
     7. https://github.com/ericwq/nvide
     8. LazyVim
         
@@ -598,25 +598,25 @@ https://github.com/pgosar/CyberNvim
     16. [CosmicNvim/CosmicNvim: CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!](https://github.com/CosmicNvim/CosmicNvim)
     17. https://github.com/VapourNvim/VapourNvim
     18. [LunarVim/Neovim-from-scratch: 📚 A Neovim config designed from scratch to be understandable](https://github.com/LunarVim/Neovim-from-scratch/)
-    19. https://github.com/tjdevries/config_manager 
-    20. https://github.com/MiaadTeam/lesvim 
-    21. https://github.com/rafi/vim-config 
+    19.[config_manager](https://github.com/tjdevries/config_manager)
+    20.[lesvim](https://github.com/MiaadTeam/lesvim)
+    21.[vim-config](https://github.com/rafi/vim-config)
     22. https://github.com/VapourNvim/VapourNvim
-    23. https://github.com/cstsunfu/.sea.nvim 
-    24. https://github.com/askfiy/nvim 
+    23.[.sea.nvim](https://github.com/cstsunfu/.sea.nvim)
+    24.[nvim](https://github.com/askfiy/nvim)
     25. https://github.com/cunderw/nvim
     26. https://github.com/jrychn/moduleVim
-    27. https://github.com/davidosomething/dotfiles/tree/dev/nvim 
-    28. https://github.com/kutsan/dotfiles 
-    29. https://github.com/folke/dot/tree/master/nvim 
-    30. https://github.com/yutkat/dotfiles 
-    31. https://github.com/SeniorMars/dotfiles 
+    27.[dotfiles/tree/dev/nvim](https://github.com/davidosomething/dotfiles/tree/dev/nvim)
+    28.[dotfiles](https://github.com/kutsan/dotfiles)
+    29.[dot/tree/master/nvim](https://github.com/folke/dot/tree/master/nvim)
+    30.[dotfiles](https://github.com/yutkat/dotfiles)
+    31.[dotfiles](https://github.com/SeniorMars/dotfiles)
     32. [Ecovim](https://github.com/ecosse3/nvim)
     33. https://github.com/b0o/nvim-conf
     
     1. kodo NVIM FRAMEWORK https://github.com/chadcat7/kodo
     
-    https://github.com/hardhackerlabs/oh-my-nvim 
+   [oh-my-nvim](https://github.com/hardhackerlabs/oh-my-nvim)
     
     [Doom NeoVim Video](https://www.youtube.com/watch?v=xdj2XraR9W0&pp=ygUJZG9vbS5udmlt)
     
@@ -641,11 +641,11 @@ https://github.com/pgosar/CyberNvim
      https://github.com/albingroen/quick.nvim
     
 - other configs
-    1. https://github.com/abhigyanmadhukalya/dotfiles 
-    2. https://github.com/alpha2phi/dotfiles/tree/main/config 
-    3. https://github.com/craftzdog/dotfiles-public 
+    1.[dotfiles](https://github.com/abhigyanmadhukalya/dotfiles)
+    2.[dotfiles/tree/main/config](https://github.com/alpha2phi/dotfiles/tree/main/config)
+    3.[dotfiles-public](https://github.com/craftzdog/dotfiles-public)
     4. https://github.com/Perigord-Kleisli/Perigord-Nvim
-    5. https://github.com/avimitin/nvim Avimitin
+    5.[nvim](https://github.com/avimitin/nvim)Avimitin
     6. minimal and archived:
         
         https://github.com/Theory-of-Everything/nii-nvim
@@ -662,8 +662,8 @@ https://github.com/pgosar/CyberNvim
     13. Ecovim https://github.com/ecosse3/nvim
     14. [ray-x/nvim: Blazing fast neovim setup with 150+ plugins.](https://github.com/ray-x/nvim)
     15. https://github.com/vimlab/neojs
-    16. https://github.com/OxygeNvim/OxygeNvim 
-    17. https://github.com/nullchilly/CatNvim (written in C) 
+    16.[OxygeNvim](https://github.com/OxygeNvim/OxygeNvim)
+    17.[CatNvim](https://github.com/nullchilly/CatNvim)(written in C) 
     18. https://github.com/jHwls/dotfiles
     19. https://github.com/alex35mil/dotfiles
     20. https://github.com/hkupty/dotfiles
@@ -672,7 +672,7 @@ https://github.com/pgosar/CyberNvim
     23. https://github.com/arturgoms/nvim
     24. [bkad/nvimconfig: neovim config files](https://github.com/bkad/nvimconfig)
     25. https://github.com/TheSafdarAwan/nvim_conf
-    26. https://github.com/danymat/champagne 
+    26.[champagne](https://github.com/danymat/champagne)
     27. https://www.reddit.com/r/neovim/comments/12l2fw6/sharing_my_neovim_config_the_product_of_countless/ 
     28. https://www.reddit.com/r/neovim/comments/12lsjxu/sharing_my_neovim_configuration_still_struggle_to 
     29. https://www.reddit.com/r/neovim/comments/12e4iv4/can_anyone_recommend_a_good_github_dotfiles_repos 
@@ -685,11 +685,11 @@ https://github.com/pgosar/CyberNvim
     36. [amiof/lvim: my lvim config](https://github.com/amiof/lvim)
     37. [daknuett/neovim-config: This is my private neovim configuration. Should be in ~/.config/nvim - neovim-config - Gitea: Git with a cup of tea](https://daknuett.eu/gitea/daknuett/neovim-config)
     38. [KoBruhh nvim config](https://github.com/KoBruhh/nvim)
-    39. https://github.com/linrongbin16/lin.nvim 
+    39.[lin.nvim](https://github.com/linrongbin16/lin.nvim)
     
-    https://github.com/ChristianChiarulli/nvim 
+   [nvim](https://github.com/ChristianChiarulli/nvim)
     
-    https://github.com/curist/dotvim 
+   [dotvim](https://github.com/curist/dotvim)
     
     https://gitlab.com/bikobi/neovim-config 
     
@@ -699,31 +699,31 @@ https://github.com/pgosar/CyberNvim
     
     https://git.sr.ht/~trevdev/ 
     
-    https://github.com/vsedov/nvim 
+   [nvim](https://github.com/vsedov/nvim)
     
     https://github.com/redas24/nvim
     
-    https://github.com/AlphabetsAlphabets/nvim 
+   [nvim](https://github.com/AlphabetsAlphabets/nvim)
     
-    https://github.com/vloe/nvim 
+   [nvim](https://github.com/vloe/nvim)
     
-    https://github.com/bibjaw/myneovim 
+   [myneovim](https://github.com/bibjaw/myneovim)
     
-    https://github.com/bibjaw99/workstation 
+   [workstation](https://github.com/bibjaw99/workstation)
     
     https://github.com/data-lex/dotfiles
     
-    https://github.com/cpow/cpow-dotfiles 
+   [cpow-dotfiles](https://github.com/cpow/cpow-dotfiles)
     
-    https://github.com/glepnir/nvim 
+   [nvim](https://github.com/glepnir/nvim)
     
-    https://github.com/milanglacier/nvim 
+   [nvim](https://github.com/milanglacier/nvim)
     
-    https://github.com/redas24/nvim 
+   [nvim](https://github.com/redas24/nvim)
     
     https://mzte.de/git/LordMZTE/dotfiles 
     
-    https://github.com/justinlime/dotfiles/tree/main/.config/nvim 
+   [dotfiles/tree/main/.config/nvim](https://github.com/justinlime/dotfiles/tree/main/.config/nvim)
     
     https://git.sr.ht/~trevdev/nvim 
     
@@ -733,17 +733,17 @@ https://github.com/pgosar/CyberNvim
     
     https://neovim.discourse.group/t/nvim-u-for-modular-config/4320 
     
-    https://github.com/bibjaw99/workstation/tree/master/.config%2Fnvim 
+   [workstation/tree/master/.config%2Fnvim](https://github.com/bibjaw99/workstation/tree/master/.config%2Fnvim)
     
     https://neovim.discourse.group/t/nvim-u-for-modular-config/4320 
     
-    https://github.com/menuRivera/nvim 
+   [nvim](https://github.com/menuRivera/nvim)
     
     https://github.com/isaksamsten/nvim-config
     
-    https://github.com/isaksamsten/nvim-config - perfect LaTeX → [video](https://www.youtube.com/watch?v=HVcTPeitxmw)
+   [nvim-config](https://github.com/isaksamsten/nvim-config)- perfect LaTeX → [video](https://www.youtube.com/watch?v=HVcTPeitxmw)
     
-    https://github.com/nferhat/nvim ***
+   [nvim](https://github.com/nferhat/nvim)***
     
     https://github.com/fitrh/init.nvim
     
@@ -761,7 +761,7 @@ https://github.com/pgosar/CyberNvim
     
     https://github.com/vinnyA3/neovim-config
     
-    https://github.com/vsedov/nvim vsedov
+   [nvim](https://github.com/vsedov/nvim)vsedov
     
     https://github.com/nvimdev/dope
     
@@ -831,7 +831,7 @@ https://github.com/pgosar/CyberNvim
         
 - oldvim configs
     
-    https://github.com/tpope/vim-sensible.git - good for server and shared machines
+   [vim-sensible.git](https://github.com/tpope/vim-sensible.git)- good for server and shared machines
     
     1. https://github.com/wolandark/wim
     2. [→ LeafVim video](https://www.youtube.com/watch?v=-0iTsWGZxsI)
@@ -840,7 +840,7 @@ https://github.com/pgosar/CyberNvim
         
     - [The Ultimate Vim Distribution](http://vim.spf13.com/) - spf13-vim is a distribution of vim plugins and resources for Vim, GVim and MacVim.
     
-    https://github.com/GideonWolfe/vim.reaper - good for ricing, but only in Vimscript
+   [vim.reaper](https://github.com/GideonWolfe/vim.reaper)- good for ricing, but only in Vimscript
     
 - config management & switching
     - NVIM_APPNAME - part of official nvim, used by nvims and lazyman
@@ -853,7 +853,7 @@ https://github.com/pgosar/CyberNvim
         
         https://lazyman.dev/ 
         
-        *** https://github.com/doctorfree/nvim-lazyman 
+        ***[nvim-lazyman](https://github.com/doctorfree/nvim-lazyman)
         
     - nvims - simpler approach that lazyman, less comprehensive, but more lightweight
         
@@ -1207,7 +1207,7 @@ https://github.com/pgosar/CyberNvim
         
         https://github.com/NTBBloodbath/cheovim
         
-        https://github.com/NTBBloodbath/cheovim *********
+       [cheovim](https://github.com/NTBBloodbath/cheovim)*********
         
     - neoconf.nvim
         
@@ -1221,7 +1221,7 @@ https://github.com/pgosar/CyberNvim
         
     - ?
         
-        https://github.com/saccarosium/projectconf.nvim 
+       [projectconf.nvim](https://github.com/saccarosium/projectconf.nvim)
         
     - Deprecated
         

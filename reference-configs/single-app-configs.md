@@ -28,7 +28,7 @@
     
     https://www.reddit.com/r/unixporn/comments/13gz5kq/hyprland_my_summer_rice/ 
     
-    https://github.com/s-prechtl/dotfiles https://www.reddit.com/r/unixporn/comments/135crcm/hyprland_took_me_about_10h/   
+   [dotfiles](https://github.com/s-prechtl/dotfiles)https://www.reddit.com/r/unixporn/comments/135crcm/hyprland_took_me_about_10h/   
     
 - riverwm
     
@@ -42,3 +42,13 @@
 - OSX
     
     [Mathias Bynens's](https://github.com/mathiasbynens/dotfiles) - .files, including ~/.osx — sensible hacker defaults for OS X
+
+
+
+  [polybar](https://github.com/tuffgniuz/polybar)tuffgniuz
+  [i3](https://github.com/tuffgniuz/i3)tuffgniuz
+  [picom.conf](https://github.com/tuffgniuz/picom.conf)tuffgniuz
+  [firefox-css](https://github.com/tuffgniuz/firefox-css)tuffgniuz
+  [kitty](https://github.com/tuffgniuz/kitty)tuffgniuz
+  [fish.config](https://github.com/tuffgniuz/fish.config)tuffgniuz
+  - [mybash](https://github.com/ChrisTitusTech/mybash)

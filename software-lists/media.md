@@ -65,7 +65,7 @@
 - [ytmdesktop](https://ytmdesktop.app/)
 * [muCLIar](https://github.com/aayush1205/muCLIar) - YouTube automator bringing you your music right on your CLI. - YouTube in CLI via Selenium and Chromedriver
 ### YouTube GUI Frontend
-* [FreeTube](https://github.com/FreeTubeApp/FreeTube) → https://github.com/FreeTubeApp/FreeTube/issues/1864 https://github.com/FreeTubeApp/FreeTube/issues/1864, https://docs.freetubeapp.io/usage/keyboard-shortcuts/
+* [FreeTube](https://github.com/FreeTubeApp/FreeTube) →[FreeTube/issues/1864](https://github.com/FreeTubeApp/FreeTube/issues/1864)https://github.com/FreeTubeApp/FreeTube/issues/1864, https://docs.freetubeapp.io/usage/keyboard-shortcuts/
 * [PlasmaTube](https://apps.kde.org/plasmatube/) - Kirigami-based YouTube client for Linux Desktop and Mobile with built-in ad-blocking and privacy features.
 * [red](https://github.com/keshavbhatt/red) - YouTube desktop client
 * [minitube](https://github.com/flaviotordini/minitube) - youtube client
@@ -252,12 +252,12 @@
 * [PipeWire](https://pipewire.org/) - PipeWire is a project that aims to greatly improve handling of audio and video under Linux. https://github.com/mikeroyal/PipeWire-Guide
 * [Alsamixer](https://github.com/alsa-project) - ALSA mixer with curses interfaces - found in https://github.com/alsa-project/alsa-utils
 * [Pulse Audio](https://wiki.ubuntu.com/PulseAudio) - Improve Linux Audio with customized Profiles.
-* https://github.com/GeorgeFilipkin/pulsemixer - CLI and curses mixer for PulseAudio.
+*[pulsemixer -](https://github.com/GeorgeFilipkin/pulsemixer -)CLI and curses mixer for PulseAudio.
 
 ## Mixed / Miscellaneous
 * [lotc](https://github.com/ranelpadon/lord-of-the-clips/) - (Lord Of The Clips) Video downloader, trimmer, and merger using the terminal. Supports YouTube, Facebook, Reddit, Twitter, etc. Downloads/trims at multiple points. Merges multiple clips. - excellent interface, written in Python
-* https://github.com/karlstav/cava - Cava is a Cross-platform Audio Visualizer.
-* (U) https://github.com/sdushantha/kunst - rewrite for wayland (wayland stack dependencies)
+*[cava](https://github.com/karlstav/cava)- Cava is a Cross-platform Audio Visualizer.
+* (U)[kunst](https://github.com/sdushantha/kunst)- rewrite for wayland (wayland stack dependencies)
     * [glava](https://github.com/jarcode-foss/glava) - OpenGL audio spectrum visualizer - also X11
     * (U ← X11) https://github.com/nikp123/xava
 (\* \[\]\(https://github.com/\w+/[^) ]+) 

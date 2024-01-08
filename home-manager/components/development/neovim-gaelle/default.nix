@@ -1,7 +1,7 @@
 { pkgs, lib, ... }:
 let
   vim-plugins = import ./plugins.nix { inherit pkgs lib; };
-  # nixos-master = import (builtins.fetchTarball https://github.com/NixOS/nixpkgs/archive/master.tar.gz) {};
+  # nixos-master = import (builtins.fetchTarball[nixpkgs/archive/master.tar.gz)](https://github.com/NixOS/nixpkgs/archive/master.tar.gz)){};
   # nixos-unstable = import <unstable> {};
 in {
   # nixpkgs.overlays = [

@@ -7,10 +7,10 @@
   ...
 }: {
   imports = [
-    ../features/development/git
-    ../features/gui/wezterm
-    ../features/development/neovim #-gaelle
-    ../features/development/zsh
+    ../development/git
+    ../gui/wezterm
+    ../development/neovim #-gaelle
+    ../development/zsh
     # If you want to use home-manager modules from other flakes (such as nix-colors):
     # inputs.nix-colors.homeManagerModule
 
@@ -60,7 +60,7 @@
   # Nicely reload system units when changing configs
   systemd.user.startServices = "sd-switch";
 
-  # xdg.configFile."kanata/kanata.kbd".source = .../. + ./nixos/modules/kanata/kanata.kbd ;
+  # xdg.configFile."kanata/kanata.kbd".source = .../. + ./nixos/components/kanata/kanata.kbd ;
   
 
 }

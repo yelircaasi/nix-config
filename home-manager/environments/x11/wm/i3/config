@@ -132,14 +132,15 @@ floating_modifier $mod
 
 # flatpak applications
 #bindsym $mod+Return exec i3-sensible-terminal
-bindsym $mod+Return exec flatpak run org.wezfurlong.wezterm
+bindsym $mod+Return exec wezterm
+#bindsym $mod+Return exec flatpak run org.wezfurlong.wezterm
 bindsym $mod+b exec flatpak run org.mozilla.firefox
 #bindsym $mod+c exec flatpak run org.chromium.Chromium --enable-features=WebUIDarkMode --force-dark-mode
 bindsym $mod+c exec flatpak run com.github.Eloston.UngoogledChromium --enable-features=WebUIDarkMode --force-dark-mode
 bindsym $mod+f exec flatpak run engineer.atlas.Nyxt
 
 # nix applications
-bindsym $mod+v exec code
+bindsym $mod+v exec flatpak run com.vscodium.codium
 bindsym $mod+Shift+v exec code ~/dockerfiles
 
 # fix two-monitor setup

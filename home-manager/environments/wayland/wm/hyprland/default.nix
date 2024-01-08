@@ -1,7 +1,7 @@
 { lib, config, pkgs, ... }: {
   imports = [
-    ../common
-    ../common/wayland-wm
+    ../components/common
+    ../components/common/wayland-wm
 
     ./basic-binds.nix
     ./hyprbars.nix

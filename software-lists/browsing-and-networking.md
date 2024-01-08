@@ -72,7 +72,7 @@
 * [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists from the command line.
 * [socialscan](https://github.com/iojw/socialscan) - Python library and CLI for accurately querying username and email usage on online platforms.
 * [cli-arxiv](https://github.com/knguyenanhoa/cli-arxiv) - CLI tool for exploring arXiv.
-* https://github.com/jarun/ddgr - DuckDuckGo from the terminal
+*[ddgr -](https://github.com/jarun/ddgr -)DuckDuckGo from the terminal
 * [tuxi](https://github.com/Bugswriter/tuxi) - A CLI tool that scrapes Google search results and SERPs that provides instant and concise answers.
 * [googlr](https://github.com/Astranno/googlr) - Command line tool that lets you search Google from your terminal.
 * [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
@@ -153,7 +153,7 @@
 ### Bluetooth
 ‣ - A TUI-based Bluetooth connection manager, which can interact with Bluetooth adapters and devices. It aims to be a replacement to most Bluetooth managers, like blueman.
 ### SSH, Tunnels
-* https://github.com/six-ddc/hss - An interactive parallel ssh client featuring autocomplete and asynchronous execution. Never type the annoying ssh commands again.
+*[hss -](https://github.com/six-ddc/hss -)An interactive parallel ssh client featuring autocomplete and asynchronous execution. Never type the annoying ssh commands again.
 * [mosh](https://github.com/mobile-shell/mosh) - Remote SSH client that achieve good responsiveness in presence of intermittent connectivity and roaming.
 * [pssh](https://github.com/lilydjwg/pssh) - PSSH provides parallel versions of OpenSSH and related tools. Included are pssh, pscp, prsync, pnuke, and pslurp. The project includes psshlib which can be used within custom applications.
 * [sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
@@ -200,15 +200,15 @@
 * [slugify](https://github.com/benlinton/slugify) - Command that converts filenames and directories to a web friendly format
 ### Firewalls
 * (PG) [FireHOL](https://firehol.org/) - Linux firewall (`iptables`) manager for humans.
-* (PG) https://github.com/firewalld/firewalld - Firewalld provides a dynamically managed firewall with support for network or firewall zones to define the trust level of network connections or interfaces.
+* (PG)[firewalld -](https://github.com/firewalld/firewalld -)Firewalld provides a dynamically managed firewall with support for network or firewall zones to define the trust level of network connections or interfaces.
 * (PG) [GuFW](https://gufw.org/) - One of the easiest firewalls in the world of Linux.
-* (PG) https://github.com/evilsocket/opensnitch - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
+* (PG)[opensnitch -](https://github.com/evilsocket/opensnitch -)OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 * (PG) [Portmaster](https://safing.io/) - Portmaster is a free and open-source application firewall that does the heavy lifting for you. Restore privacy and take back control over all your computer’s network activity.
 ### Crawling, Scraping, Downloading
 * [Coursaros](https://github.com/SpyridonLaz/Coursaros) -  [Download videos and subtitles from https://edx.org to your computer easily.](https://github.com/SpyridonLaz/Coursaros)**
 * [aria2](https://aria2.github.io/)
 * [scrapeghost/](https://github.com/jamesturk/scrapeghost/) - extend with other LLMs
-* https://github.com/aria2/aria2 - Lightweight and easy-to-use download utility; it supports HTTP/HTTPS, FTP, SFTP, BitTorrent, Metalink and multiple sources; cross-platform.
+*[aria2 -](https://github.com/aria2/aria2 -)Lightweight and easy-to-use download utility; it supports HTTP/HTTPS, FTP, SFTP, BitTorrent, Metalink and multiple sources; cross-platform.
 * https://www.httrack.com/
 * [clauneck](https://github.com/serpapi/clauneck)
 * [cli](https://github.com/httpie/cli) - [httpie](http://httpie.org/) A command line HTTP client, a user-friendly cURL replacement.

@@ -29,17 +29,17 @@ rofi-wayland, wofi, bemenu, fuzzel, tofi.
         
         Web Greeter [https://jezerm.github.io/web-greeter-page/](https://jezerm.github.io/web-greeter-page/) 
         
-         https://github.com/JezerM/nody-greeter (same look as web-greeter, but faster)
+        [nody-greeter](https://github.com/JezerM/nody-greeter)(same look as web-greeter, but faster)
         
-        https://github.com/JezerM/sea-greeter 
+       [sea-greeter](https://github.com/JezerM/sea-greeter)
         
         https://github.com/tobiohlala/lightdm-tiny-greeter
         
-        https://github.com/matijaskala/lightdm-webengine-greeter 
+       [lightdm-webengine-greeter](https://github.com/matijaskala/lightdm-webengine-greeter)
         
         https://github.com/Xubuntu/lightdm-gtk-greeter
         
-        https://github.com/prikhi/lightdm-mini-greeter 
+       [lightdm-mini-greeter](https://github.com/prikhi/lightdm-mini-greeter)
         
         https://github.com/elementary/greeter
         
@@ -217,18 +217,18 @@ rofi-wayland, wofi, bemenu, fuzzel, tofi.
     
     - **Local Search, Launchers (GUI)**
         - [ ]  [https://docs.xfce.org/apps/catfish/start](https://docs.xfce.org/apps/catfish/start) - Catfish is a versatile file searching tool.
-        - [ ]  https://github.com/cboxdoerfer/fsearch  - A fast file search utility for Unix-like systems based on GTK+3. Wildcard support, RegEx support, Filter support.
-        - [ ]  https://github.com/Ulauncher/Ulauncher/ - [Ulauncher](https://ulauncher.io/) - Ulauncher is a fast application launcher for Linux. It’s is written in Python, using GTK+.
-        - [ ]  https://github.com/cerebroapp/cerebro - [Cerebro](https://cerebroapp.com/) - Open-source productivity booster with a brain / MacOS-Spotlight alternative.
+        - [ ] [fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK+3. Wildcard support, RegEx support, Filter support.
+        - [ ] [Ulauncher/](https://github.com/Ulauncher/Ulauncher/)- [Ulauncher](https://ulauncher.io/) - Ulauncher is a fast application launcher for Linux. It’s is written in Python, using GTK+.
+        - [ ] [cerebro](https://github.com/cerebroapp/cerebro)- [Cerebro](https://cerebroapp.com/) - Open-source productivity booster with a brain / MacOS-Spotlight alternative.
     - ☒☐ App and Task Launchers
         - [ ]  [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of “entry point” for running and integrating AppImages.
-        - [ ]  https://github.com/keshavbhatt/mkcron - cron editor for desktop
+        - [ ] [mkcron](https://github.com/keshavbhatt/mkcron)- cron editor for desktop
     
     https://github.com/svenstaro/rofi-calc
     
     https://github.com/firecat53/networkmanager-dmenu
     
-    https://github.com/nyyManni/dmenu-wayland 
+   [dmenu-wayland](https://github.com/nyyManni/dmenu-wayland)
     
 - Bars (or widgets)
     
@@ -307,13 +307,13 @@ rofi-wayland, wofi, bemenu, fuzzel, tofi.
     https://github.com/phuhl/linux_notification_center
     
     - [ ]  https://github.com/dunst-project/dunst
-    - [ ]  https://github.com/variadico/noti - Monitor a process and trigger a notification.
-    - [ ]  https://github.com/dschep/ntfy - Cross-platform Python utility that enables you to automatically get desktop notifications on demand or when long running commands complete. It can as well send push notifications to your phone once a particular command completes.
-    - [ ]  https://github.com/jml/undistract-me - A command line program that plays a sound or sends a notification when a long command has finished running in the command line.
-    - [ ]  https://github.com/keephq/keep - Simple alerting tool, with declarative syntax and builtin providers.
+    - [ ] [noti -](https://github.com/variadico/noti -)Monitor a process and trigger a notification.
+    - [ ] [ntfy -](https://github.com/dschep/ntfy -)Cross-platform Python utility that enables you to automatically get desktop notifications on demand or when long running commands complete. It can as well send push notifications to your phone once a particular command completes.
+    - [ ] [undistract-me -](https://github.com/jml/undistract-me -)A command line program that plays a sound or sends a notification when a long command has finished running in the command line.
+    - [ ] [keep -](https://github.com/keephq/keep -)Simple alerting tool, with declarative syntax and builtin providers.
     - [ ]  [https://catlight.io/](https://catlight.io/) - status notifier for developers. Checks the status of continuous delivery builds and shows desktop notifications.
-    - [ ]  https://github.com/jml/undistract-me - Notifies you when long-running terminal commands complete.
-    - [ ]  https://github.com/jafarlihi/sysm - Makes your system play custom sounds when any configured system or external event happens.
+    - [ ] [undistract-me -](https://github.com/jml/undistract-me -)Notifies you when long-running terminal commands complete.
+    - [ ] [sysm -](https://github.com/jafarlihi/sysm -)Makes your system play custom sounds when any configured system or external event happens.
 - Openers (like xdg-open)
     
     ********* https://github.com/BachoSeven/mimi
@@ -336,7 +336,7 @@ rofi-wayland, wofi, bemenu, fuzzel, tofi.
 - Compositors
     - [ ]  Picom
     
-    https://github.com/dccsillag/picom fork
+   [picom](https://github.com/dccsillag/picom)fork
     
     https://github.com/jonaburg/picom
     
@@ -359,7 +359,7 @@ rofi-wayland, wofi, bemenu, fuzzel, tofi.
     
     [https://github.com/ikz87/picom-shaders](https://github.com/ikz87/picom-shaders)
     
-    https://github.com/Fmstrat/glassit-linux - not needed due to picom
+   [glassit-linux](https://github.com/Fmstrat/glassit-linux)- not needed due to picom
     
 - Comparison
     
@@ -387,7 +387,7 @@ rofi-wayland, wofi, bemenu, fuzzel, tofi.
     
     https://github.com/klaxalk/i3-layout-manager
     
-    https://github.com/stumpwm/stumpwm [http://stumpwm.github.io/](http://stumpwm.github.io/) (X11, CL)
+   [stumpwm](https://github.com/stumpwm/stumpwm)[http://stumpwm.github.io/](http://stumpwm.github.io/) (X11, CL)
     
     [https://pypi.org/project/xpywm/](https://pypi.org/project/xpywm/)
     
@@ -517,7 +517,7 @@ rofi-wayland, wofi, bemenu, fuzzel, tofi.
     
 - Wayland Compositors
     
-    https://github.com/stumpwm/mahogany (Wayland, CL)
+   [mahogany](https://github.com/stumpwm/mahogany)(Wayland, CL)
     
     https://github.com/mora-unie-youer/noway
     
@@ -527,7 +527,7 @@ rofi-wayland, wofi, bemenu, fuzzel, tofi.
     
     https://github.com/taiwins/taiwins
     
-    https://github.com/OmegaRogue/way-cooler[http://way-cooler.org/](http://way-cooler.org/) 
+   [way-cooler[http://way-cooler.org/](http://way-cooler.org/)](https://github.com/OmegaRogue/way-cooler[http://way-cooler.org/](http://way-cooler.org/))
     
     [https://github.com/hyprland-community/awesome-hyprland#plugins](https://github.com/hyprland-community/awesome-hyprland#plugins) 
     
@@ -535,7 +535,7 @@ rofi-wayland, wofi, bemenu, fuzzel, tofi.
     
     https://github.com/MaxVerevkin/river-luatile
     
-    https://github.com/prmadev/algae - river in rust 
+   [algae](https://github.com/prmadev/algae)- river in rust 
     
     [https://github.com/riverwm/river](https://github.com/riverwm/river)
     
@@ -547,7 +547,7 @@ rofi-wayland, wofi, bemenu, fuzzel, tofi.
     
     [newM](https://github.com/jbuchermn/newm)
     
-    https://github.com/amirography/algae RiverWM config in Rust
+   [algae](https://github.com/amirography/algae)RiverWM config in Rust
     
     [riverwm/river: A dynamic tiling Wayland compositor](https://github.com/riverwm/river)
     
@@ -555,7 +555,7 @@ rofi-wayland, wofi, bemenu, fuzzel, tofi.
     
     https://gitlab.com/snakedye/kile - layout generator for RiverWM
     
-    https://github.com/djpohly/dwl 
+   [dwl](https://github.com/djpohly/dwl)
     
     [kuruczgy/kiwmi: My fork of kiwmi](https://github.com/kuruczgy/kiwmi)
     
@@ -623,7 +623,7 @@ rofi-wayland, wofi, bemenu, fuzzel, tofi.
     - [Kröhnkite](https://github.com/esjeon/krohnkite) - A dynamic tiling extension for KWin.
     - [Pop!_OS Shell](https://github.com/pop-os/shell) - Pop Shell is a keyboard-driven auto-tiling window manager that run on top of the GNOME shell.
     - ☒☐ Arcan + suite
-        - [ ]  https://github.com/letoram/arcan [https://arcan-fe.com/](https://arcan-fe.com/)  [https://github.com/letoram](https://github.com/letoram)
+        - [ ] [arcan](https://github.com/letoram/arcan)[https://arcan-fe.com/](https://arcan-fe.com/)  [https://github.com/letoram](https://github.com/letoram)
         - [ ]  ‣
         - [ ]  https://github.com/letoram/durden
         - [ ]  [https://github.com/letoram/arcan/wiki](https://github.com/letoram/arcan/wiki)
@@ -694,9 +694,9 @@ rofi-wayland, wofi, bemenu, fuzzel, tofi.
             - [ ]  SwayWM
             - [ ]  
         
-        https://github.com/majestrate/wterm 
+       [wterm](https://github.com/majestrate/wterm)
         
-        https://github.com/natpen/awesome-wayland 
+       [awesome-wayland](https://github.com/natpen/awesome-wayland)
         
         https://github.com/Horus645/swww
         

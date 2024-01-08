@@ -2,7 +2,7 @@
 
 https://github.com/redas24/dotcommon 
 
-******** https://github.com/casjay-dotfiles/scripts casjay-dotfiles https://github.com/dfmgr 
+********[scripts](https://github.com/casjay-dotfiles/scripts)casjay-dotfiles https://github.com/dfmgr 
 
 https://gitlab.com/anhvo8836/scripts
 

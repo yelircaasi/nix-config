@@ -1,7 +1,13 @@
 # Software List
 
-https://github.com/lucc/nvimpager
+https://github.com/alex35mil/NeoHub
+-> https://wiki.hyprland.org/Useful-Utilities/
+-> https://arewewaylandyet.com/
 
+https://github.com/FlafyDev/combined-manager ***
+
+https://github.com/lucc/nvimpager
+https://github.com/ron-rs/ron
 https://git-scm.com/docs/gitk 
 
 https://ghaiklor.github.io/terminal-canvas/ 
@@ -27,7 +33,10 @@ https://github.com/aandrew-me/tgpt
 https://github.com/lukesmithxyz/mutt-wizard
 
 https://github.com/OpenRC/openrc
-    
+  
+https://github.com/FlafyDev/flutter_background_bar
+
+https://github.com/FlafyDev/epub_reader
 
 [Conky](https://conky.cc/) - Conky is a free, light-weight system monitor for X, that displays any kind of information on your desktop.
 
@@ -75,16 +84,16 @@ package for [nix](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/)) | [
 
 ## Multiplexer
 * [zellij](https://github.com/zellij-org/zellij) | [tmux](https://github.com/tmux/tmux)
-* https://github.com/tmate-io/tmate - A fork of tmux that allows to share the terminal with other users. AFAIK, it connects to a centralized server to establish the connection. Someone may see this inconvenient for privacy issues. - https://manpages.org/tmate
-* https://github.com/napisani/procmux - A TUI utility for running multiple commands in parallel in easily switchable terminals.
-* https://github.com/pvolok/mprocs - similar to procmux
-* https://github.com/crigler/dtach - A program written in C that emulates the detach feature of screen.
-* https://github.com/spolu/warp - Secure and simple terminal sharing. - fork and update?
+*[tmate -](https://github.com/tmate-io/tmate -)A fork of tmux that allows to share the terminal with other users. AFAIK, it connects to a centralized server to establish the connection. Someone may see this inconvenient for privacy issues. - https://manpages.org/tmate
+*[procmux -](https://github.com/napisani/procmux -)A TUI utility for running multiple commands in parallel in easily switchable terminals.
+*[mprocs](https://github.com/pvolok/mprocs)- similar to procmux
+*[dtach -](https://github.com/crigler/dtach -)A program written in C that emulates the detach feature of screen.
+*[warp -](https://github.com/spolu/warp -)Secure and simple terminal sharing. - fork and update?
 * [screen](https://www.gnu.org/software/screen/) - GNU terminal multiplexer - Terminal multiplexer that split a physical terminal between several processes, typically interactive shells. - just use a bit to have used it
-* https://github.com/deadpixi/mtm - Micro Terminal Multiplexer - Simple but usable, stable and minimalistic terminal multiplexer. - just try
+*[mtm -](https://github.com/deadpixi/mtm -)Micro Terminal Multiplexer - Simple but usable, stable and minimalistic terminal multiplexer. - just try
 
 * Shell: [bash](https://www.gnu.org/software/bash/) | [zsh]() | [fish]() | [nushell]() | [xonsh]() | [elvish]() | [hilbish]() | [dash]() | [ion](https://doc.redox-os.org/ion-manual/) | [cosh](https://github.com/tomhrr/cosh) | [oil](https://www.oilshell.org/) | [yash](https://github.com/magicant/yash) | [es](https://github.com/wryun/es-shell) | [shell-plus-plus](https://github.com/alexst07/shell-plus-plus)
-* [devshell](https://github.com/numtide/devshell) | [devenv](https://devenv.sh/) | [devbox](https://github.com/jetpack-io/devbox) | [lorri](https://github.com/nix-community/lorri) | [lorelei](https://github.com/shajra/direnv-nix-lorelei)
+* [devshell](https://github.com/numtide/devshell) | [devenv](https://devenv.sh/) | [devbox](https://github.com/jetpack-io/devbox) | [lorri](https://github.com/nix-community/lorri) | [lorelei](https://github.com/shajra/direnv-nix-lorelei) | [mise](https://github.com/jdx/mise)
 * [nix-direnv](https://github.com/nix-community/nix-direnv) | [direnv](https://direnv.net/) - see also [direnv standard library](https://direnv.net/man/direnv-stdlib.1.html#codeuse-nix-code)
 * [nixify](https://github.com/kampka/nixify)
 * [wget]()
@@ -359,7 +368,7 @@ ew: command to run command outside of current directory without explicitly chang
 
 * [bleachbit](https://www.bleachbit.org/) | [czkawka](https://qarmin.github.io/czkawka/)
 * [xdg-ninja]() (Haskell!) | [rmlint](https://rmlint.readthedocs.io/)
-* [organize-rt](https://gitlab.com/simonsan/organize-rt) | [organize-cli](https://github.com/ManrajGrover/organize-cli) | [classifier](https://github.com/bhrigu123/classifier) | [organizer](https://gitlab.gnome.org/aviwad/organizer)
+* [organize-rt](https://gitlab.com/simonsan/organize-rt) | [organize-cli](https://github.com/ManrajGrover/organize-cli) | [classifier](https://github.com/br\\  ';igu123/classifier) | [organizer](https://gitlab.gnome.org/aviwad/organizer)
 * [backdown](https://github.com/Canop/backdown) | [fdupes](https://github.com/adrianlopezroche/fdupes)
 * [detox](https://github.com/dharple/detox)
 * [mat2](https://0xacab.org/jvoisin/mat2)
@@ -478,7 +487,7 @@ ew: command to run command outside of current directory without explicitly chang
   - [asciiquarium](https://github.com/cmatsuoka/asciiquarium) - Enjoy the mysteries of the sea from the safety of your own terminal!
   - [termsaver](https://github.com/brunobraga/termsaver) - termsaver to enjoy fancy ASCII screensavers like matrix, clock, starwars, and a couple of not-safe-for-work screens.
   - [screensaver](https://github.com/gillstrom/screensaver) - Start the screensaver.
-  - [pokeget-rs](https://github.com/talwat/pokeget-rs) https://github.com/talwat/pokeget - Display sprites of pokemon.
+  - [pokeget-rs](https://github.com/talwat/pokeget-rs)[pokeget](https://github.com/talwat/pokeget)- Display sprites of pokemon.
   - [sl](https://github.com/mtoyoda/sl) - A steam locomotive traverses the screen from right to left if `sl` is typed instead of `ls`.
   - [genact](https://github.com/svenstaro/genact): A nonsense activity generator.
 * Generation

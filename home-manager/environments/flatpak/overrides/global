@@ -1,0 +1,6 @@
+[Context]
+filesystems=/home/isaac/.local/share/fonts;/home/isaac/.icons:ro;/usr/share/icons:ro;/home/isaac/.themes:ro;/usr/share/themes:ro;host-etc
+
+[Environment]
+ICON_THEME=Adwaita-dark
+GTK_THEME=Adwaita-dark

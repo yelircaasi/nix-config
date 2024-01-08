@@ -1,0 +1,6 @@
+[Context]
+filesystems=/usr/share/themes:ro;/home/isaac/.themes
+
+[Environment]
+ICON_THEME=Adwaita-dark
+GTK_THEME=Adwaita-dark

@@ -140,8 +140,8 @@ bindsym $mod+c exec flatpak run com.github.Eloston.UngoogledChromium --enable-fe
 bindsym $mod+f exec flatpak run engineer.atlas.Nyxt
 
 # nix applications
-bindsym $mod+v exec flatpak run com.vscodium.codium
-bindsym $mod+Shift+v exec code ~/dockerfiles
+#bindsym $mod+v exec flatpak run com.vscodium.codium
+#bindsym $mod+Shift+v exec code ~/dockerfiles
 
 # fix two-monitor setup
 # bindsym $mod+\ twoscreen

@@ -60,7 +60,9 @@ in {
       # none-ls-nvim
       vim-plugins.none-ls
       nvim-lspconfig
-      
+
+      #formatting
+      conform-nvim
 
       # python
       nvim-dap-python
@@ -94,7 +96,7 @@ in {
       
       nvim-web-devicons
 
-      nvim-tree-lua
+      # nvim-tree-lua
       telescope-nvim
       nvim-treesitter.withAllGrammars # nixos-unstable.vimPlugins.nvim-treesitter.withAllGrammars
       # csv-vim

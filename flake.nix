@@ -46,12 +46,6 @@
       
       "betsy" = home-manager.lib.homeManagerConfiguration {
         pkgs = nixpkgs.legacyPackages.x86_64-linux; # Home-manager requires 'pkgs' instance
-        # system = "x86_64-linux";
-        # username = "isaac";
-        # homeDirectory = "/home/isaac";
-        # configuration = ./home-config/hosts/hank.nix;
-        # stateVersion = "23.11";
-        
         
         extraSpecialArgs = {inherit inputs outputs;};
         # > Our main home-manager configuration file <
@@ -62,11 +56,6 @@
       
       "hank" = home-manager.lib.homeManagerConfiguration {
         pkgs = nixpkgs.legacyPackages.x86_64-linux; # Home-manager requires 'pkgs' instance
-        # system = "x86_64-linux";
-        # username = "isaac";
-        # homeDirectory = "/home/isaac";
-        # configuration = ./home-config/hosts/hank.nix;
-        # stateVersion = "23.11";
         
         extraSpecialArgs = {inherit inputs outputs;};
         # > Our main home-manager configuration file <

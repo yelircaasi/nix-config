@@ -9,7 +9,7 @@
 }: {
   imports = [
     ./components/common
-    ./environment/flatpak
+    ./environments/flatpak
   ];
 
   programs.zsh.enable = false;

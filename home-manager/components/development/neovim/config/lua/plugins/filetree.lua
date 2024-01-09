@@ -16,7 +16,8 @@ neotree.setup({
     --   end , -- this sorts files and directories descendantly
     default_component_configs = {
       container = {
-        enable_character_fade = true
+        enable_character_fade = true,
+        right_padding = 0
       },
       indent = {
         indent_size = 2,
@@ -53,14 +54,14 @@ neotree.setup({
       git_status = {
         symbols = {
           -- Change type
-          added     = "", -- or "✚", but this is redundant info if you use git_status_colors on the name
-          modified  = "", -- or "", but this is redundant info if you use git_status_colors on the name
+          added     = "", -- or "✚", but this is redundant info if you use git_status_colors on the name
+          modified  = "", -- or "", but this is redundant info if you use git_status_colors on the name
           deleted   = "✖",-- this can only be used in the git_status source
-          renamed   = "R",-- this can only be used in the git_status source; originally \u{f83d}
+          renamed   = "",-- this can only be used in the git_status source; originally \u{f83d}
           -- Status type
           untracked = "",
           ignored   = "",
-          unstaged  = "U", -- originally \u{f83d}
+          unstaged  = "", -- originally \u{f83d}
           staged    = "",
           conflict  = "",
         }

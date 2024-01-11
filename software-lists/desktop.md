@@ -69,25 +69,17 @@ rofi-wayland, wofi, bemenu, fuzzel, tofi.
     https://github.com/coastalwhite/lemurs
     
 - Logout Menu
-    
     https://github.com/ArtsyMacaw/wlogout
-    
     https://github.com/loserMcloser/waylogout
-    
     https://github.com/AMNatty/wleave
     
 - Lock Screen
-    
     https://github.com/BachoSeven/slock
-    
     https://github.com/bakkeby/slock-flexipatch
-    
     https://github.com/betterlockscreen/betterlockscreen
     
 - Launchers, Menus
-    
-    https://github.com/Biont/sway-launcher-desktop
-    
+    - [sway-launcher-desktop](https://github.com/Biont/sway-launcher-desktop)
     - [Albert](https://github.com/ManuelSchneid3r/albert) `C++` `X11`
     - [Kupfer](http://engla.github.io/kupfer/) `Python` `X11`
     - [bashrun2](http://henning-bekel.de/bashrun2/) `Bash` `terminal`

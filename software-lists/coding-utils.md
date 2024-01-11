@@ -101,7 +101,7 @@ train models.
 
 ## Code Analysis / Refactoring / Formatting Tools
 * [Sourcegraph](https://sourcegraph.com/search) → Cody
-*[tokei](https://github.com/XAMPPRocky/tokei)- code summarizer
+* [tokei](https://github.com/XAMPPRocky/tokei)- code summarizer
     
     → compare[cloc -](https://github.com/AlDanial/cloc -)Count Lines of Code  compare with tokei
     
@@ -124,20 +124,20 @@ train models.
 
 ## Debugging
 * [Valgrind](http://valgrind.org/) - Valgrind is a GPL’d system for debugging and profiling Linux programs.
-*[gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard)- Modular visual interface for GDB.
-*[rr -](https://github.com/rr-debugger/rr -)Debug the recording, deterministically, as many times as you want. https://rr-project.org/
-*[rebound -](https://github.com/shobrook/rebound -)Command-line debugger that instantly fetches Stack Overflow results when you get a compiler error.  - fork and update?
+* [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard)- Modular visual interface for GDB.
+* [rr -](https://github.com/rr-debugger/rr -)Debug the recording, deterministically, as many times as you want. https://rr-project.org/
+* [rebound -](https://github.com/shobrook/rebound -)Command-line debugger that instantly fetches Stack Overflow results when you get a compiler error.  - fork and update?
 * https://trunk.io/pricing
 
 ## Snippets
 * https://espanso.org/
 * https://tldr.sh/  → see clients, web apps and tools
 * https://github.com/out-of-cheese-error/the-way-
-*[snipkit-](https://github.com/lemoony/snipkit-)looks really look, interesting concept  (Go)
-*[qc](https://github.com/qownnotes/qc)looks great, need to try
-*[pet-](https://github.com/knqyf263/pet-) need to compare with the-way
-*[tldr-sh-client -](https://github.com/raylee/tldr-sh-client -)A fully-functional bash client for tldr, simplified and community-driven man pages → move to qol
-*[snips -](https://github.com/srijanshetty/snips -)Command line tool to manage snippets of code. Node
+* [snipkit-](https://github.com/lemoony/snipkit-)looks really look, interesting concept  (Go)
+* [qc](https://github.com/qownnotes/qc)looks great, need to try
+* [pet-](https://github.com/knqyf263/pet-) need to compare with the-way
+* [tldr-sh-client -](https://github.com/raylee/tldr-sh-client -)A fully-functional bash client for tldr, simplified and community-driven man pages → move to qol
+* [snips -](https://github.com/srijanshetty/snips -)Command line tool to manage snippets of code. Node
 
 ## Documentation
 * https://github.com/freeCodeCamp/devdocs
@@ -154,27 +154,27 @@ train models.
 * [Docusaurus](https://docusaurus.io/)
 * [Daux.io](https://dauxio.github.io/) - uses PHP and Composer
 * [GitBook](https://www.gitbook.com/)
-*[docsify/](https://github.com/docsifyjs/docsify/)- [Docsify](https://docsify.js.org/)
-*[zest](https://github.com/zestdocs/zest)- unmaintained, but fork and update?
+* [docsify/](https://github.com/docsifyjs/docsify/)- [Docsify](https://docsify.js.org/)
+* [zest](https://github.com/zestdocs/zest)- unmaintained, but fork and update?
 
 ## Syntax Highlighting
 * [Welcome! — Pygments](https://pygments.org/) (Python)
 * https://gitlab.com/saalen/highlight  http://www.andre-simon.de/doku/highlight/highlight.php (C++)
-*[chroma](https://github.com/alecthomas/chroma)(Go)
+* [chroma](https://github.com/alecthomas/chroma)(Go)
 * https://highlightjs.org/ (JavaScript)
-*[syntect](https://github.com/trishume/syntect)(Rust)
+* [syntect](https://github.com/trishume/syntect)(Rust)
 
 ## Logs
-*[multitail -](https://github.com/folkertvanheusden/multitail -)A command to open multiple log files in a single terminal window and monitor them in real-time.
-*[logdissect/ -](https://github.com/dogoncouch/logdissect/ -)CLI utility and Python API for analyzing log files and other data. ([MIT](https://github.com/dogoncouch/logdissect/blob/master/LICENSE)) - fork, update, and extend!
-*[lnav](https://github.com/tstack/lnav)- [The Logfile Navigator](https://github.com/tstack/lnav) - An advanced and colorful log file viewer with TUI interface.
+* [multitail -](https://github.com/folkertvanheusden/multitail -)A command to open multiple log files in a single terminal window and monitor them in real-time.
+* [logdissect/ -](https://github.com/dogoncouch/logdissect/ -)CLI utility and Python API for analyzing log files and other data. ([MIT](https://github.com/dogoncouch/logdissect/blob/master/LICENSE)) - fork, update, and extend!
+* [lnav](https://github.com/tstack/lnav)- [The Logfile Navigator](https://github.com/tstack/lnav) - An advanced and colorful log file viewer with TUI interface.
 
 ## Code Modeling and Visualization
 * [Graphviz](https://graphviz.org/)
 * https://www.rawgraphs.io/
 * https://github.com/thebjorn/pydeps
 * [PlantUML](https://sourceforge.net/p/plantuml/code/HEAD/tree/tags/plantuml-1.2023.2/) https://sourceforge.net/projects/plantuml/
-*[mermaid](https://github.com/mermaid-js/mermaid)http://mermaid.js.org/
+* [mermaid](https://github.com/mermaid-js/mermaid)http://mermaid.js.org/
 * https://github.com/umlet/umlet
 * https://invent.kde.org/sdk/umbrello  https://apps.kde.org/umbrello/
 * [Gaphor](https://gaphor.org/) - A simple and fast software and systems modeling tool. https://gaphor.org/en/
@@ -186,16 +186,16 @@ train models.
 * [git-semver[git-semver](https://github.com/markchalloner/git-semver](https://github.com/markchalloner/git-semver[git-semver](https://github.com/markchalloner/git-semver)) - A git plugin to make Semantic Versioning 2.0.0 and Change Log management easier.
 
 ## SSH Web Interface / Admin Tools
-* **[WebSSH2](https://github.com/billchurch/WebSSH2)**: A web based SSH2 client using xterm.js, socket.io, and ssh2.
-* **[TermPair](https://github.com/cs01/termpair)**: View and control terminals from your browser with end-to-end encryption
-* **[webssh](https://github.com/huashengdun/webssh)**: Web based ssh client.
-* **[Go SSH Web Client](https://github.com/wuchihsu/go-ssh-web-client)**: A simple SSH web client using Go, WebSocket and Xterm.js.
-* **[SSH Web Client](https://github.com/roke22/PHP-SSH2-Web-Client)**: SSH Web Client with PHP.
-* **[Bastillion](https://www.bastillion.io/)**: Bastillion is an open-source web-based SSH console that centrally manages administrative access to systems.
-* **[Selenoid UI](https://github.com/aerokube/selenoid-ui)**: Simple UI for the scalable golang implementation of Selenium Hub named Selenoid. We use XTerm for streaming logs over websockets from docker containers.
-* **[SSHy](https://github.com/stuicey/SSHy)**: HTML5 Based SSHv2 Web Client with E2E encryption utilising xterm.js, SJCL & websockets. - old and unmaintained
-* **[Laravel Ssh Web Client](https://github.com/roke22/Laravel-ssh-client)**: Laravel server inventory with ssh web client to connect at server using xterm.js
-* **[Render](https://render.com/)**: Platform-as-a-service for your apps, websites, and databases using xterm.js to provide a command prompt for user containers and for streaming build and runtime logs. (Freemium)
+* ** [WebSSH2](https://github.com/billchurch/WebSSH2)**: A web based SSH2 client using xterm.js, socket.io, and ssh2.
+* ** [TermPair](https://github.com/cs01/termpair)**: View and control terminals from your browser with end-to-end encryption
+* ** [webssh](https://github.com/huashengdun/webssh)**: Web based ssh client.
+* ** [Go SSH Web Client](https://github.com/wuchihsu/go-ssh-web-client)**: A simple SSH web client using Go, WebSocket and Xterm.js.
+* ** [SSH Web Client](https://github.com/roke22/PHP-SSH2-Web-Client)**: SSH Web Client with PHP.
+* ** [Bastillion](https://www.bastillion.io/)**: Bastillion is an open-source web-based SSH console that centrally manages administrative access to systems.
+* ** [Selenoid UI](https://github.com/aerokube/selenoid-ui)**: Simple UI for the scalable golang implementation of Selenium Hub named Selenoid. We use XTerm for streaming logs over websockets from docker containers.
+* ** [SSHy](https://github.com/stuicey/SSHy)**: HTML5 Based SSHv2 Web Client with E2E encryption utilising xterm.js, SJCL & websockets. - old and unmaintained
+* ** [Laravel Ssh Web Client](https://github.com/roke22/Laravel-ssh-client)**: Laravel server inventory with ssh web client to connect at server using xterm.js
+* ** [Render](https://render.com/)**: Platform-as-a-service for your apps, websites, and databases using xterm.js to provide a command prompt for user containers and for streaming build and runtime logs. (Freemium)
 
 ## ML/AI
 → [The Ultimate Coding Setup for Data Science](https://youtu.be/TdbeymTcYYE) use conda for environments and pip(/poetry) for installation
@@ -206,9 +206,9 @@ train models.
 
 * [llm](https://github.com/simonw/llm)
 * https://github.com/PrefectHQ/marvin
-*[katib](https://github.com/kubeflow/katib)(hyperparameter tuning)
+* [katib](https://github.com/kubeflow/katib)(hyperparameter tuning)
 * https://github.com/IllDepence/unarXive
-*[einops](https://github.com/arogozhnikov/einops)https://arogozhnikov.github.io/2023/07/13/retrospective-thoughts-on-einops.html
+* [einops](https://github.com/arogozhnikov/einops)https://arogozhnikov.github.io/2023/07/13/retrospective-thoughts-on-einops.html
 * https://github.com/dmlc/xgboost
 
 ## Web and App Development → [What Is JWT and Why Should You Use JWT](https://www.youtube.com/watch?v=7Q17ubqLfaM) - YouTube
@@ -235,7 +235,7 @@ train models.
 * [BlueZ](http://www.bluez.org/) - Official Linux Bluetooth protocol stack.
 * [Zerotier](https://my.zerotier.com/) - Zerotier is a program that creates a Virtual Network for only your devices with end to end encryption over the internet. By default Zerotier will manage your virtual network but you can switch to a self-managed network if you prefer.
 * https://hocus.dev/ - cloud dev environments, pre-built, free for individual use
-*[SparkleShare -](https://github.com/hbons/SparkleShare -)An Open Source collaboration and sharing tool https://www.sparkleshare.org/ [Nix](https://search.nixos.org/packages?channel=23.05&from=0&size=50&sort=relevance&type=packages&query=sparkleshare)
+* [SparkleShare -](https://github.com/hbons/SparkleShare -)An Open Source collaboration and sharing tool https://www.sparkleshare.org/ [Nix](https://search.nixos.org/packages?channel=23.05&from=0&size=50&sort=relevance&type=packages&query=sparkleshare)
 * [heroku](https://www.heroku.com/)
 * https://github.com/hocus-dev/hocus
 * https://www.pushbullet.com/   [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API - requires Facebook or Google
@@ -243,73 +243,73 @@ train models.
 ### Static Site
 * [Hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
     * [gohugo.io](https://gohugo.io/)
-*[nanoc -](https://github.com/nanoc/nanoc -)Static site generator written in Ruby; extremely powerful and customizable; support many formats to generate HTML content.
-*[surge -](https://github.com/sintaxi/surge -)Static web publishing on surge.sh CDN.
-*[metalsmith -](https://github.com/metalsmith/metalsmith -)An extremely simple static site generator; all functionalities are provided by plugins that can be combined and chained; written and extendable in Javascript.
+* [nanoc -](https://github.com/nanoc/nanoc -)Static site generator written in Ruby; extremely powerful and customizable; support many formats to generate HTML content.
+* [surge -](https://github.com/sintaxi/surge -)Static web publishing on surge.sh CDN.
+* [metalsmith -](https://github.com/metalsmith/metalsmith -)An extremely simple static site generator; all functionalities are provided by plugins that can be combined and chained; written and extendable in Javascript.
 * [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - Zero-Config CLI to Deploy Static Websites to IPFS [IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System).
 ### Wiki
 - ~~☒ Wiki~~
     - [x]  [Mycorrhiza Wiki](https://github.com/bouncepaw/mycorrhiza) - A lightweight file-system wiki engine that uses Git for keeping history.
 ### HTTP Client / REST Client
-*[httpie -](https://github.com/httpie/httpie -)HTTPie is a command line HTTP client, a user-friendly cURL replacement
-*[http-prompt](https://github.com/eliangcs/http-prompt)- Interactive HTTP client featuring autocomplete and syntax highlighting.
-*[ain](https://github.com/jonaslu/ain)- HTTP client with a simple format to organize API endpoints.
+* [httpie -](https://github.com/httpie/httpie -)HTTPie is a command line HTTP client, a user-friendly cURL replacement
+* [http-prompt](https://github.com/eliangcs/http-prompt)- Interactive HTTP client featuring autocomplete and syntax highlighting.
+* [ain](https://github.com/jonaslu/ain)- HTTP client with a simple format to organize API endpoints.
 ### HTTP Server
-*[serve](https://github.com/vercel/serve)- Serve static files (https, CORS, GZIP compression, etc).
-*[simplehttp](https://github.com/snwfdhmp/simplehttp)- Easily serve a local directory over HTTP. - try with planager
+* [serve](https://github.com/vercel/serve)- Serve static files (https, CORS, GZIP compression, etc).
+* [simplehttp](https://github.com/snwfdhmp/simplehttp)- Easily serve a local directory over HTTP. - try with planager
 * [shell2http](https://github.com/msoap/shell2http)- Shell script based HTTP server. - try with planager
-*[httplab -](https://github.com/gchaincl/httplab -)The interactive web server, let you inspect HTTP requests and forge responses.
-*[hflow -](https://github.com/comradequinn/hflow -)A command-line, debugging http/s proxy server.
-*[balls -](https://github.com/jneen/balls -)Bash on Balls
+* [httplab -](https://github.com/gchaincl/httplab -)The interactive web server, let you inspect HTTP requests and forge responses.
+* [hflow -](https://github.com/comradequinn/hflow -)A command-line, debugging http/s proxy server.
+* [balls -](https://github.com/jneen/balls -)Bash on Balls
 ### Socket
-*[neoss](https://github.com/PabloLec/neoss)- User-friendly and detailed socket statistics.
-*[iola](https://github.com/pvarentsov/iola)- Socket client with REST API.
+* [neoss](https://github.com/PabloLec/neoss)- User-friendly and detailed socket statistics.
+* [iola](https://github.com/pvarentsov/iola)- Socket client with REST API.
 ### Server, Deployment
-*[dog [-](https://github.com/ogham/dog [-)DNS lookup client *(better `dig`)](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6#doghttpsgithubcomoghamdog-dns-lookup-client-_better-dig_)*[dog](https://github.com/vschwaberow/dog)- looks good
-*[cowyo -](https://github.com/schollz/cowyo -)Feature rich wiki webserver for minimalists. - planager?
+* [dog [-](https://github.com/ogham/dog [-)DNS lookup client *(better `dig`)](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6#doghttpsgithubcomoghamdog-dns-lookup-client-_better-dig_)* [dog](https://github.com/vschwaberow/dog)- looks good
+* [cowyo -](https://github.com/schollz/cowyo -)Feature rich wiki webserver for minimalists. - planager?
 * https://github.com/openresty/lua-nginx-module
 * [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests - like Httpie, but faster
-*[fenix](https://github.com/coreybutler/fenix)[Fenix Web Server](https://fenixwebserver.com/) - A multi-host local static web server with push-button sharing (desktop app).
-*[vesper - Vesper](https://github.com/chris-rock/vesper - Vesper)is a HTTP framework for Bash/Unix Shell
-*[simplehttp Fastest](https://github.com/snwfdhmp/simplehttp Fastest)and simplest way to start serving a local directory over http.
-*[serve -](https://github.com/zeit/serve -)Serves a static site, single page application, or just a static file, and provides a neat interface for listing the directory's contents.
-*[shipit -](https://github.com/sapegin/shipit -)Minimalistic SSH deployment
+* [fenix](https://github.com/coreybutler/fenix)[Fenix Web Server](https://fenixwebserver.com/) - A multi-host local static web server with push-button sharing (desktop app).
+* [vesper - Vesper](https://github.com/chris-rock/vesper - Vesper)is a HTTP framework for Bash/Unix Shell
+* [simplehttp Fastest](https://github.com/snwfdhmp/simplehttp Fastest)and simplest way to start serving a local directory over http.
+* [serve -](https://github.com/zeit/serve -)Serves a static site, single page application, or just a static file, and provides a neat interface for listing the directory's contents.
+* [shipit -](https://github.com/sapegin/shipit -)Minimalistic SSH deployment
 ### Frameworks
 * https://hypermedia.systems/
 * https://cordova.apache.org/
-*[taipy](https://github.com/Avaiga/taipy)- Turns Data and AI algorithms into full web applications in no time.
+* [taipy](https://github.com/Avaiga/taipy)- Turns Data and AI algorithms into full web applications in no time.
 * https://trunkrs.dev/
 * https://github.com/falconry/falcon
 * [Devilbox](https://github.com/cytopia/devilbox) - The devilbox is a modern and highly customisable dockerized PHP stack supporting full LAMP and MEAN and running on all major platforms. The main goal is to easily switch and combine any version required for local development.
 * [PonyORM - Python ORM with beautiful query syntax](https://ponyorm.org/)
 * https://nuxt.com/blog/introducing-nuxt-devtools
-*[typo3](https://github.com/TYPO3/typo3)- [The TYPO3 Project and Community – Open Source CMS](https://typo3.org/)
+* [typo3](https://github.com/TYPO3/typo3)- [The TYPO3 Project and Community – Open Source CMS](https://typo3.org/)
 ### Testing / Mocking
-*[tsung -](https://github.com/processone/tsung -)A multi-protocol distributed load testing tool that can be used to stress HTTP, WebDAV, SOAP, PostgreSQL, MySQL, LDAP and Jabber/XMPP servers.
-*[loadtest](https://github.com/alexfernandez/loadtest)- Run load tests.
+* [tsung -](https://github.com/processone/tsung -)A multi-protocol distributed load testing tool that can be used to stress HTTP, WebDAV, SOAP, PostgreSQL, MySQL, LDAP and Jabber/XMPP servers.
+* [loadtest](https://github.com/alexfernandez/loadtest)- Run load tests.
 * [Mockoon](https://mockoon.com/) - an API / HTTP REST mocking desktop application
 ### Server Benchmarking
 * [apachebench (ab)](http://httpd.apache.org/docs/2.2/programs/ab.html)- server benchmarking tool
 * [siege](http://www.joedog.org/siege-home/)
-*[phantomas -](https://github.com/macbre/phantomas -)website perf evaluation tool
+* [phantomas -](https://github.com/macbre/phantomas -)website perf evaluation tool
 * https://github.com/rakyll/hey
 * https://github.com/httperf/httperf
 * [vegeta](https://github.com/tsenart/vegeta)
 * [wrk](https://github.com/wg/wrk)
 ### Misc
-*[nativefier -](https://github.com/jiahaog/nativefier -)Make any web page a desktop application.
+* [nativefier -](https://github.com/jiahaog/nativefier -)Make any web page a desktop application.
     * https://sass-lang.com/
-*[caniuse-cmd](https://github.com/sgentle/caniuse-cmd)- Search [caniuse.com](https://github.com/Correia-jpv/fucking-awesome-cli-apps/blob/main/caniuse.com) about browser support of features.
-*[xpe -](https://github.com/charmparticle/xpe -)A commandline xpath tool that is easy to use.
-*[snallygaster -](https://github.com/hannob/snallygaster -)Tool to scan for secret files on HTTP servers.
-*[strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli)- Strip comments from CSS.
+* [caniuse-cmd](https://github.com/sgentle/caniuse-cmd)- Search [caniuse.com](https://github.com/Correia-jpv/fucking-awesome-cli-apps/blob/main/caniuse.com) about browser support of features.
+* [xpe -](https://github.com/charmparticle/xpe -)A commandline xpath tool that is easy to use.
+* [snallygaster -](https://github.com/hannob/snallygaster -)Tool to scan for secret files on HTTP servers.
+* [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli)- Strip comments from CSS.
 * https://github.com/fractarchy/fractarchy-cms
-*[urlhunter -](https://github.com/utkusen/urlhunter -)Recon tool that allows searching on URLs that are exposed via shortener services.
+* [urlhunter -](https://github.com/utkusen/urlhunter -)Recon tool that allows searching on URLs that are exposed via shortener services.
 * https://todomvc.com/
 * [Neocities](https://neocities.org/) - GeoCities for the modern world. ([BSD 2-clause](https://github.com/neocities/neocities/blob/master/LICENSE.txt))
 * https://vercel.com/pricing
-*[localtunnel](https://github.com/localtunnel/localtunnel)- Expose your localhost to the world for easy testing and sharing.
-*[ergo](https://github.com/cristianoliveira/ergo) - The management of multiple local services running over different ports made easy.
+* [localtunnel](https://github.com/localtunnel/localtunnel)- Expose your localhost to the world for easy testing and sharing.
+* [ergo](https://github.com/cristianoliveira/ergo) - The management of multiple local services running over different ports made easy.
 * [https://ngrok.com/ -](https://ngrok.com/) https://github.com/ngrok - Secure introspectable tunnels to localhost.
 * [Insomnia](https://insomnia.rest/) - A simple, beautiful, and free REST API client. (paid service)
 * https://vitepress.dev/ (from  https://wiki.nikiv.dev/, https://wiki.nikiv.dev/free[knowledge](https://github.com/nikitavoloboev/knowledge))

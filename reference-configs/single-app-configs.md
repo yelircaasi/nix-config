@@ -1,5 +1,6 @@
 # Single-App Configs
 
+[alanRizzo](https://github.com/alanRizzo/dot-files)
 - fennel
     
     Im doing this awesomewm config in fennel: https://gitlab.com/Erik.Lundstedt/dotconfigfiles/-/tree/master/.config/awesome

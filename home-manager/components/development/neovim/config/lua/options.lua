@@ -1,36 +1,50 @@
+local vim_opts = function(options)
+    if options ~= nil then
+        for scope, table in pairs(options) do
+	    for setting, value in pairs(table) do
+                vim[scope][setting] = value
+            end
+        end
+    end
+end
 
-local opt = vim.opt
+vim.opt.shortmess:append("sIW")
 
+vim_opts({
+    opt = {
+        hidden = true,
+        ignorecase = true,
+        splitbelow = true,
+        splitright = true,
+        termguicolors = true,
+        number = true,
+        relativenumber = true,
+        numberwidth = 2,
+        undofile = true,
+        -- textwidth = 88,
+        wrap = false,
+        cursorline = true,
+        colorcolumn = "+1",
+        
+        mouse = "a",
+        spelllang = "en,fr",
+        
+        signcolumn = "yes",
+        cmdheight = 1,
+        
+        updatetime = 250, -- update interval for gitsigns
+        clipboard = "unnamedplus",
+        
+        -- for indenline
+        expandtab = true,
+        shiftwidth = 4,
+        
+        -- folding
+        foldlevelstart = 50,  -- open most folds by default
+        foldnestmax = 2,  -- 2 nested fold max
+        
+        -- concealing
+        conceallevel = 2,
+    },
+})
 
-opt.hidden = true
-opt.ignorecase = true
-opt.splitbelow = true
-opt.splitright = true
-opt.termguicolors = true
-opt.number = true
-opt.relativenumber = true
-opt.numberwidth = 2
-opt.undofile = true
--- textwidth = 88
--- wrap = true
-opt.cursorline = true
-opt.colorcolumn = "+1"
-
-opt.mouse = "a"
-opt.spelllang = "en,fr"
-
-opt.signcolumn = "yes"
-opt.cmdheight = 1
-
-opt.updatetime = 250 -- update interval for gitsigns
-opt.clipboard = "unnamedplus"
-
--- for indenline
-opt.expandtab = true
-opt.shiftwidth = 4
-
--- folding
-opt.foldlevelstart = 50  -- open most folds by default
-opt.foldnestmax = 2  -- 2 nested fold max
-
-return opt

@@ -63,7 +63,7 @@ https://mailinabox.email/
 * [Tutanota](https://tutanota.com/) - Encrypted email at no cost with support for business accounts. ([GNU GPLv3](https://github.com/tutao/tutanota/blob/master/LICENSE.txt))
 * [tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh.
 * [Mutt](http://www.mutt.org/) - A terminal based mail client with vim keybindings and great flexibility and customizability.
-*[neomutt](https://github.com/neomutt/neomutt)- https://neomutt.org/
+* [neomutt](https://github.com/neomutt/neomutt)- https://neomutt.org/
 * https://www.betterbird.eu/
 * [Thunderbird](https://www.thunderbird.net/en-US/)
 
@@ -79,18 +79,18 @@ sgnal-cli (https://www.dinotools.de/2020/02/13/nachrichten-per-signal-von-der-ko
 * [Fractal](https://wiki.gnome.org/Apps/Fractal) - Fractal is a Matrix messaging app for GNOME written in Rust. Its interface is optimized for collaboration in large groups, such as free software projects.
 * [NeoChat](https://apps.kde.org/neochat/) - NeoChat is a Matrix client. It allows you to send text messages, videos and audio files to your family, colleagues and friends using the Matrix protocol.
 ## WhatsApp
-*[WhatsGo](https://github.com/WinterSunset95/WhatsGo)- whatsapp CLI
+* [WhatsGo](https://github.com/WinterSunset95/WhatsGo)- whatsapp CLI
 * [WBOT](https://github.com/vasani-arpit/WBOT) - A simple CLI based BOT for WhatsApp™ in NodeJS. reply to your friends quickly and have fun along the way.
-*[nchat](https://github.com/d99kris/nchat)- whatsapp
-*[mudslide](https://github.com/robvanderleek/mudslide)- whatsapp CLI
-*[Baileys](https://github.com/WhiskeySockets/Baileys)- https://whiskeysockets.github.io/Baileys/  - WhatsApp API
-*[whatsie](https://github.com/keshavbhatt/whatsie)- whatsapp client
+* [nchat](https://github.com/d99kris/nchat)- whatsapp
+* [mudslide](https://github.com/robvanderleek/mudslide)- whatsapp CLI
+* [Baileys](https://github.com/WhiskeySockets/Baileys)- https://whiskeysockets.github.io/Baileys/  - WhatsApp API
+* [whatsie](https://github.com/keshavbhatt/whatsie)- whatsapp client
 ## Messaging, Unfree
 * [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free.
 * [Skype](https://www.skype.com/en/) - Skype keeps the world talking, for free.
 * https://github.com/AstroCB/Messenger-CLI
 * https://github.com/Alex-Rose/fb-messenger-cli
-*[caprine](https://github.com/sindresorhus/caprine)- Messenger client
+* [caprine](https://github.com/sindresorhus/caprine)- Messenger client
 
 ## Lemmy.rs
 Jerboa for Android
@@ -102,7 +102,7 @@ Fedilab
 * [Discover](https://trigg.github.io/Discover/) - Yet another Discord overlay for Linux written in Python using GTK3.
 * [JMusicBot](https://jmusicbot.com/) - A Discord music bot that’s easy to set up and run yourself.
 * [Red Discord Bot](https://index.discord.red/) - Red Discord Bot is a self-hosted music/chat/trivia bot that can run on a Raspberry Pi and a variety of OS’s. It’s extensible through a system of “Cogs” that allow it to do more.
-*[WebCord -](https://github.com/SpacingBat3/WebCord -)A Discord and Fosscord web-based client made with the electron.
+* [WebCord -](https://github.com/SpacingBat3/WebCord -)A Discord and Fosscord web-based client made with the electron.
 * https://cancel.fm/ripcord/
 * https://betterdiscord.app/ 
 * https://github.com/ayn2op/discordo
@@ -130,7 +130,7 @@ Fedilab
 * https://rambox.app/
 * https://github.com/TheGoddessInari/hamsket
 * [Ferdium](https://ferdium.org/) - Fork of Ferdi/Franz. Ferdium is a desktop app that helps you organize how you use your favourite apps by combining them into one application.
-*[electronim](https://github.com/manusa/electronim)- all-in-one messging
+* [electronim](https://github.com/manusa/electronim)- all-in-one messging
 * [PingMe](https://github.com/kha7iq/pingme) - Sends messages or alerts to multiple messaging platforms & email, including Slack, Telegram, Mattermost, WeChat and others.
 * https://pidgin.im/
 * https://ferdium.org/
@@ -152,8 +152,8 @@ Fedilab
 * [Tox](https://tox.chat/) - Encrypted and distributed messaging platform with voice, video, and screen sharing. ([GNU GPLv3](https://github.com/TokTok/c-toxcore/blob/master/COPYING))
 * [Ring](https://ring.cx/) - Telephone, teleconferencing, and media sharing through a distributed service. ([GNU GPLv3](https://ring.cx/en/about/practical))
 * https://nostr.com/
-*[mumble](https://github.com/mumble-voip/mumble)- voice chat
-    *[botamusique](https://github.com/azlux/botamusique)- music bot for mumble
+* [mumble](https://github.com/mumble-voip/mumble)- voice chat
+    * [botamusique](https://github.com/azlux/botamusique)- music bot for mumble
 * [ssh-chat](https://github.com/shazow/ssh-chat) - Custom SSH server written in Go. Instead of a shell, you get a chat prompt.
 * [utopia](https://u.is/en)
 * [Discourse](https://discourse.org/) - Community forum

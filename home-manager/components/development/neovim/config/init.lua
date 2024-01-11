@@ -6,6 +6,7 @@ g.mapleader = " "
 
 -- basics
 require("options")
+require("mappings")
 
 -- plugins without custom config
 require("neogit")
@@ -20,6 +21,7 @@ require("plugins.bufferline")
 require("plugins.lsp")
 require("plugins.completion")
 require("plugins.quickfix")
+require("plugins.markdown")
 
 -- color theme
 require("schwarzwald").load()

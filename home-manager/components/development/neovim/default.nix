@@ -37,6 +37,7 @@ in {
   ];
   programs.neovim = {
     enable = true;
+    defaultEditor = true;
     package = pkgs.neovim-unwrapped; #nixos-unstable.neovim-unwrapped;
     viAlias = true;
     vimAlias = true;
@@ -96,6 +97,10 @@ in {
       
       nvim-web-devicons
 
+      # specific filetypes
+      vim-markdown
+      vimtex
+
       # nvim-tree-lua
       telescope-nvim
       nvim-treesitter.withAllGrammars # nixos-unstable.vimPlugins.nvim-treesitter.withAllGrammars
@@ -112,7 +117,6 @@ in {
       # vim-easy-align
       # vim-table-mode
       # editorconfig-vim
-      # vim-markdown
       # ansible-vim
       # robotframework-vim
       # # vimspector

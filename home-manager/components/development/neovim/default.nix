@@ -31,14 +31,18 @@ in {
     # nodePackages.vim-language-server
     nodePackages.yaml-language-server 
     nodePackages.bash-language-server
-    nodePackages.vscode-json-languageserver-bin
+    vscode-langservers-extracted
+    #nodePackages.vscode-json-languageserver-bin
     # nodePackages.vscode-html-languageserver-bin
     # nodePackages.vscode-css-languageserver-bin
   ];
   programs.neovim = {
     enable = true;
     defaultEditor = true;
-    package = pkgs.neovim-unwrapped; #nixos-unstable.neovim-unwrapped;
+    withPython3 = true;
+    withNodeJs = true;
+    withRuby = false;
+    package = pkgs.neovim-unwrapped; #.override { configure = { opt = with pkgs.vimPlugins; [ vim-sleuth ]; }; };
     viAlias = true;
     vimAlias = true;
     vimdiffAlias = true;

@@ -39,8 +39,12 @@
 
 local lspconf = require "lspconfig"
 -- local servers = {"pyright" , "bashls", "rls", "jsonls", "rnix", "eslint"}
-local servers = {"pylsp" , "bashls", "rls", "jsonls"}
+local servers = {"pylsp" , "bashls", "rls"}
 local capabilities = require('cmp_nvim_lsp').default_capabilities()
+
+-- for LSPs to use snippet completion (from lspconfig docs)
+--local capabilities = vim.lsp.protocol.make_client_capabilities()
+--capabilities.textDocument.completion.completionItem.snippetSupport = true
 
 for k, lang in pairs(servers) do
     lspconf[lang].setup {
@@ -48,7 +52,8 @@ for k, lang in pairs(servers) do
         on_attach = on_attach,
         capabilities = capabilities,
     }
-  end
+end
+
 
 -- -- Enable diagnostics
 -- vim.lsp.handlers["textDocument/publishDiagnostics"] = vim.lsp.with(
@@ -90,11 +95,12 @@ lspconf.lua_ls.setup {
 }
 
 lspconf.jsonls.setup { 
-    cmd = {"json-languageserver"},
-    root_dir = function()
-        return vim.loop.cwd()
-    end,
+--    cmd = {"vscode-json-language-server"},
+--    root_dir = function()
+--        return vim.loop.cwd()
+--    end,
     on_attach = on_attach,
+    capabilities = capabilities,
 }
 
 lspconf.pylsp.setup{

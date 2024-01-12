@@ -1,0 +1,47 @@
+{
+    "$source": "https://i3wm.org/docs/userguide.html#_default_keybindings",
+    "$accessed": "2024-01-03",
+    "$mod": "alt",
+    "open terminal": {
+        "scope": {
+            "programs": [ "global" ],
+            "modes": null
+        },
+        "keys": [
+            {
+                "modifier": [ "$mod" ]
+            },
+            {
+                "set": [ "enter" ]
+            }
+        ]
+    },
+    "tabbed layout": {
+        "scope": {
+            "programs": [ "" ],
+            "modes": null
+        },
+        "keys": [
+            {
+                "modifier": [ "" ]
+            },
+            {
+                "set": [ "" ]
+            }
+        ]
+    },
+    "exit i3": {
+        "scope": {
+            "programs": [ "global" ],
+            "modes": null
+        },
+        "keys": [
+            {
+                "modifier": [ "$mod", "shift" ]
+            },
+            {
+                "set": [ "q" ]
+            }
+        ]
+    }
+}

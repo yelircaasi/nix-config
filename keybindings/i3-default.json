@@ -3,95 +3,311 @@
     "$accessed": "2024-01-03",
     "$mod": "alt",
     "focus parent": {
-        "scope": {"programs": [""], "modes": null}, 
-        
-        "keys": [{"modifier": [""]}, {"set": [""]}]
+        "scope": {
+            "programs": [ "" ],
+            "modes": null
+        },
+        "keys": [
+            {
+                "modifier": [ "" ]
+            },
+            {
+                "set": [ "" ]
+            }
+        ]
     },
     "stacked layout": {
-        "scope": {"programs": [""], "modes": null}, 
-        
-        "keys": [{"modifier": [""]}, {"set": [""]}]
+        "scope": {
+            "programs": [ "" ],
+            "modes": null
+        },
+        "keys": [
+            {
+                "modifier": [ "" ]
+            },
+            {
+                "set": [ "" ]
+            }
+        ]
     },
     "dmenu": {
-        "scope": {"programs": [""], "modes": null}, 
-        
-        "keys": [{"modifier": [""]}, {"set": [""]}]
+        "scope": {
+            "programs": [ "" ],
+            "modes": null
+        },
+        "keys": [
+            {
+                "modifier": [ "" ]
+            },
+            {
+                "set": [ "" ]
+            }
+        ]
     },
     "full screen": {
-        "scope": {"programs": [""], "modes": null}, 
-        "keys": [{"modifier": [""]}, {"set": [""]}]
+        "scope": {
+            "programs": [ "" ],
+            "modes": null
+        },
+        "keys": [
+            {
+                "modifier": [ "" ]
+            },
+            {
+                "set": [ "" ]
+            }
+        ]
     },
     "left": {
-        "scope": {"programs": [""], "modes": null}, 
-        "keys": [{"modifier": [""]}, {"set": [""]}]
+        "scope": {
+            "programs": [ "" ],
+            "modes": null
+        },
+        "keys": [
+            {
+                "modifier": [ "" ]
+            },
+            {
+                "set": [ "" ]
+            }
+        ]
     },
     "down": {
-        "scope": {"programs": [""], "modes": null}, 
-        "keys": [{"modifier": [""]}, {"set": [""]}]
+        "scope": {
+            "programs": [ "" ],
+            "modes": null
+        },
+        "keys": [
+            {
+                "modifier": [ "" ]
+            },
+            {
+                "set": [ "" ]
+            }
+        ]
     },
     "up": {
-        "scope": {"programs": [""], "modes": null}, 
-        "keys": [{"modifier": [""]}, {"set": [""]}]
+        "scope": {
+            "programs": [ "" ],
+            "modes": null
+        },
+        "keys": [
+            {
+                "modifier": [ "" ]
+            },
+            {
+                "set": [ "" ]
+            }
+        ]
     },
     "right": {
-        "scope": {"programs": [""], "modes": null}, 
-        "keys": [{"modifier": [""]}, {"set": [""]}]
+        "scope": {
+            "programs": [ "" ],
+            "modes": null
+        },
+        "keys": [
+            {
+                "modifier": [ "" ]
+            },
+            {
+                "set": [ "" ]
+            }
+        ]
     },
     "toggle tiling/floating": {
-        "scope": {"programs": [""], "modes": null}, 
-        "keys": [{"modifier": [""]}, {"set": [""]}]
+        "scope": {
+            "programs": [ "" ],
+            "modes": null
+        },
+        "keys": [
+            {
+                "modifier": [ "" ]
+            },
+            {
+                "set": [ "" ]
+            }
+        ]
     },
     "move left": {
-        "scope": {"programs": [""], "modes": null}, 
-        "keys": [{"modifier": [""]}, {"set": [""]}]
+        "scope": {
+            "programs": [ "" ],
+            "modes": null
+        },
+        "keys": [
+            {
+                "modifier": [ "" ]
+            },
+            {
+                "set": [ "" ]
+            }
+        ]
     },
     "move down": {
-        "scope": {"programs": [""], "modes": null}, 
-        "keys": [{"modifier": [""]}, {"set": [""]}]
+        "scope": {
+            "programs": [ "" ],
+            "modes": null
+        },
+        "keys": [
+            {
+                "modifier": [ "" ]
+            },
+            {
+                "set": [ "" ]
+            }
+        ]
     },
     "move up": {
-        "scope": {"programs": [""], "modes": null}, 
-        "keys": [{"modifier": [""]}, {"set": [""]}]
+        "scope": {
+            "programs": [ "" ],
+            "modes": null
+        },
+        "keys": [
+            {
+                "modifier": [ "" ]
+            },
+            {
+                "set": [ "" ]
+            }
+        ]
     },
     "move right": {
-        "scope": {"programs": [""], "modes": null}, 
-        "keys": [{"modifier": [""]}, {"set": [""]}]
+        "scope": {
+            "programs": [ "" ],
+            "modes": null
+        },
+        "keys": [
+            {
+                "modifier": [ "" ]
+            },
+            {
+                "set": [ "" ]
+            }
+        ]
     },
     "kill window": {
-        "scope": {"programs": [""], "modes": null}, 
-        "keys": [{"modifier": [""]}, {"set": [""]}]
+        "scope": {
+            "programs": [ "" ],
+            "modes": null
+        },
+        "keys": [
+            {
+                "modifier": [ "" ]
+            },
+            {
+                "set": [ "" ]
+            }
+        ]
     },
     "open terminal": {
-        "scope": {"programs": ["global"], "modes": null}, 
-        "keys": [{"modifier": ["$mod"]}, {"set": ["enter"]}]
+        "scope": {
+            "programs": [ "global" ],
+            "modes": null
+        },
+        "keys": [
+            {
+                "modifier": [ "$mod" ]
+            },
+            {
+                "set": [ "enter" ]
+            }
+        ]
     },
     "tabbed layout": {
-        "scope": {"programs": [""], "modes": null}, 
-        "keys": [{"modifier": [""]}, {"set": [""]}]
+        "scope": {
+            "programs": [ "" ],
+            "modes": null
+        },
+        "keys": [
+            {
+                "modifier": [ "" ]
+            },
+            {
+                "set": [ "" ]
+            }
+        ]
     },
     "default layout": {
-        "scope": {"programs": [""], "modes": null}, 
-        "keys": [{"modifier": [""]}, {"set": [""]
-        }]
+        "scope": {
+            "programs": [ "" ],
+            "modes": null
+        },
+        "keys": [
+            {
+                "modifier": [ "" ]
+            },
+            {
+                "set": [ "" ]
+            }
+        ]
     },
     "resize mode": {
-        "scope": {"programs": [""], "modes": null}, 
-        "keys": [{"modifier": [""]}, {"set": [""]}]
+        "scope": {
+            "programs": [ "" ],
+            "modes": null
+        },
+        "keys": [
+            {
+                "modifier": [ "" ]
+            },
+            {
+                "set": [ "" ]
+            }
+        ]
     },
     "exit i3": {
-        "scope": {"programs": ["global"], "modes": null}, 
-        "keys": [{"modifier": ["$mod", "shift"]}, {"set": ["q"]}]
+        "scope": {
+            "programs": [ "global" ],
+            "modes": null
+        },
+        "keys": [
+            {
+                "modifier": [ "$mod", "shift" ]
+            },
+            {
+                "set": [ "q" ]
+            }
+        ]
     },
     "restart i3": {
-        "scope": {"programs": [""], "modes": null}, 
-        "keys": [{"modifier": [""]}, {"set": [""]}]
+        "scope": {
+            "programs": [ "" ],
+            "modes": null
+        },
+        "keys": [
+            {
+                "modifier": [ "" ]
+            },
+            {
+                "set": [ "" ]
+            }
+        ]
     },
     "split horizontal": {
-        "scope": {"programs": [""], "modes": null}, 
-        "keys": [{"modifier": [""]}, {"set": [""]}]
+        "scope": {
+            "programs": [ "" ],
+            "modes": null
+        },
+        "keys": [
+            {
+                "modifier": [ "" ]
+            },
+            {
+                "set": [ "" ]
+            }
+        ]
     },
     "split vertical": {
-        "scope": {"programs": [""], "modes": null}, 
-        "keys": [{"modifier": [""]}, {"set": [""]}]
+        "scope": {
+            "programs": [ "" ],
+            "modes": null
+        },
+        "keys": [
+            {
+                "modifier": [ "" ]
+            },
+            {
+                "set": [ "" ]
+            }
+        ]
     }
 }

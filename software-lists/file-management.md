@@ -33,6 +33,7 @@
 * [pcmanfm](https://github.com/lxde/pcmanfm)
 
 ## Other
+* [filebrowser](https://github.com/filebrowser/filebrowser) (web-based)
 * [CloudCommander](https://cloudcmd.io/)
 * [catcli](https://github.com/deadc0de6/catcli)
 

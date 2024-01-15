@@ -1,9 +1,9 @@
 # Coding Utils
 
 ## Miscellaneous
-* [autocomplete](https://github.com/withfig/autocomplete)
-* [todocheck](https://github.com/preslavmihaylov/todocheck) - Static code analyzer for annotated TODO comments.
-* [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) - Detect the indentation of code. - but necessary?
+*  [autocomplete](https://github.com/withfig/autocomplete)
+*  [todocheck](https://github.com/preslavmihaylov/todocheck) - Static code analyzer for annotated TODO comments.
+*  [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) - Detect the indentation of code. - but necessary?
 
 ## AI Assistants ([video](https://www.youtube.com/watch?v=7h732qLxtAk),[masterclass](https://www.youtube.com/watch?v=iO1mwxPNP5A))
 * [Cody](https://sourcegraph.com/cody/chat)
@@ -38,7 +38,13 @@ train models.
   - [Cohere](https://cohere.ai/). A set of LLMs to generate text, summarize it, classify and retrieve it. → https://dashboard.cohere.com/welcome/register
 
 ## Project Templates and Generation
-* [copier](https://github.com/copier-org/copier) | [cookiecutter](https://github.com/audreyr/cookiecutter) | [yeoman](https://yeoman.io/) | [kickstart](https://github.com/Keats/kickstart) | [proji](https://github.com/nikoksr/proji) | [boilr](https://github.com/tmrts/boilr) | [nunu](https://github.com/go-nunu/nunu)
+*  [copier](https://github.com/copier-org/copier) | 
+   [yeoman](https://yeoman.io/) | 
+   [kickstart](https://github.com/Keats/kickstart) | 
+  [cookiecutter](https://github.com/audreyr/cookiecutter) | 
+  [proji](https://github.com/nikoksr/proji) (in Go, old) | 
+  [boilr](https://github.com/tmrts/boilr) (in Go, even older) | 
+  [nunu](https://github.com/go-nunu/nunu) - CLI for building Go applications
 
 ## Build Tools
 * [cmake](https://github.com/Kitware/CMake)
@@ -51,10 +57,10 @@ train models.
 * [pants](https://www.pantsbuild.org/)
 
 ### Task Scripting
-* [make](https://www.gnu.org/software/make/)
-* [just](https://github.com/casey/just)
+*  [make](https://www.gnu.org/software/make/)
+*  [just](https://github.com/casey/just)
 * [fmake](https://github.com/bharatvaj/fmake)
-* [mxflow-cli](https://github.com/metaory/mxflow-cli)
+*  [mxflow-cli](https://github.com/metaory/mxflow-cli)
 
 ## Command Running and Automation
 * [cron](https://opensource.com/article/21/7/cron-linux)
@@ -72,13 +78,13 @@ train models.
 * [profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
 ## Formatting
-* [treefmt](https://github.com/numtide/treefmt)
-* [uncrustify](https://github.com/uncrustify/uncrustify/)
+*  [treefmt](https://github.com/numtide/treefmt)
+*  [uncrustify](https://github.com/uncrustify/uncrustify/)
 
 ## Testing
-* [squ](https://github.com/opensibyl/squ)
-* [pvcheck](https://github.com/claudio-unipv/pvcheck)
-* [cucumber](https://cucumber.io/docs), [gherkin](https://cucumber.io/docs/gherkin/)
+*  [squ](https://github.com/opensibyl/squ)
+*  [pvcheck](https://github.com/claudio-unipv/pvcheck)
+*  [cucumber](https://cucumber.io/docs), [gherkin](https://cucumber.io/docs/gherkin/)
 
 ## Code Navigation
 * [ctags](https://github.com/universal-ctags/ctags) | [cscope](http://cscope.sourceforge.net/)
@@ -100,23 +106,20 @@ train models.
 ## 
 
 ## Code Analysis / Refactoring / Formatting Tools
-* [Sourcegraph](https://sourcegraph.com/search) → Cody
-* [tokei](https://github.com/XAMPPRocky/tokei)- code summarizer
-    
-    → compare[cloc -](https://github.com/AlDanial/cloc -)Count Lines of Code  compare with tokei
-    
-* [https://github.com/boyter/scc - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
-* [ack](https://beyondgrep.com/) - A grep-like search tool optimized for source code.
-* [fastmod](https://github.com/facebookincubator/fastmod) - A tool to assist you with large-scale codebase refactors, and it supports most of codemod's options. It is focused on improving the use case "I want to use interactive mode to make sure my regex is correct, and then I want to apply the regex everywhere". 
+*  [Sourcegraph](https://sourcegraph.com/search) → Cody
+*  [tokei](https://github.com/XAMPPRocky/tokei)- code summarizer
+  -  → compare [cloc](https://github.com/AlDanial/cloc) - Count Lines of Code  compare with tokei
+  -  → compare [scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
+*  [ripsecrets](https://github.com/sirwart/ripsecrets) - A command-line tool to prevent committing secret keys into your source code
+*  [fastmod](https://github.com/facebookincubator/fastmod) - A tool to assist you with large-scale codebase refactors, and it supports most of codemod's options. It is focused on improving the use case "I want to use interactive mode to make sure my regex is correct, and then I want to apply the regex everywhere". 
     * [Codemod](Codemod - probably not, just compare with fastmod
-* [lexis](https://github.com/k4m4/lexis - word counting made easy. Retrieve the number of words in a string or stdin.
-* [cppcheck](https://github.com/danmar/cppcheck/ - Static analysis tool for C/C++ code providing unique code analysis to detect bugs and focuses on detecting undefined behaviour and dangerous coding constructs.
-* [Gource](https://github.com/acaudwell/Gource https://www.youtube.com/@gourceryt/featured
-* [ripsecrets](https://github.com/sirwart/ripsecrets - A command-line tool to prevent committing secret keys into your source code
-* [restructor](https://strlen.com/restructor/
+* 󱐋󱐋󱐋 [tag](https://github.com/aykamko/tag) - Instantly jump to your ag matches. Abandoned; fork and update and package for Nix
+*  [Gource](https://github.com/acaudwell/Gource) [on YouTube](https://www.youtube.com/@gourceryt/featured)
+* LLL [lexis](https://github.com/k4m4/lexis) - word counting made easy. Retrieve the number of words in a string or stdin.
+* [cppcheck](https://github.com/danmar/cppcheck/) - Static analysis tool for C/C++ code providing unique code analysis to detect bugs and focuses on detecting undefined behaviour and dangerous coding constructs.
+* [restructor](https://strlen.com/restructor/) - probably not usable, but very interesting conceptually
 * [cspell](https://cspell.org/
 * [Frama-C](https://git.frama-c.com/pub/frama-c/) - Open-source extensible and collaborative platform dedicated to source-code analysis of C software. Frama-C can assist from the navigation through unfamiliar projects up to the certification of critical software. (OCAML) - experimental C++ support
-* [tag](https://github.com/aykamko/tag) - Instantly jump to your ag matches. Abandoned? Fork and update?
 * Platforms
   - [Codecov](https://codecov.io/) - Continuous Code Coverage
   * [Deepsource](https://deepsource.com/)  - the code health platform

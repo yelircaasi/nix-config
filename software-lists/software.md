@@ -126,7 +126,7 @@ package for [nix](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/)) | [
 
 ### Custom Scripts and Tools
 
-* [lspath]() - list all available binaries on $PATH
+* [lspath]() - list all available binaries on \$PATH
 * [nvfetch]() - all relevant GPU information at-a-glance
 * [rlvtree]() - 'relevant tree' - tree command showing only the information I care about; configurable
 * [pysum]() - provide a comparison of all (selected in config file) Python directories
@@ -160,14 +160,14 @@ ew: command to run command outside of current directory without explicitly chang
 
 ### Core Command-Line Tools
 
-* [uutils-coreutils-noprefix]() ([source](https://github.com/uutils/coreutils))
-* [moreutils](https://joeyh.name/code/moreutils/)
-* [util-linux]()
+*  [uutils-coreutils-noprefix]() ([source](https://github.com/uutils/coreutils))
+*  [moreutils](https://joeyh.name/code/moreutils/)
+*  [util-linux]()
 * [toybox]()
-* [just]() | [makesure](https://github.com/xonixx/makesure)
-* [make]()
-* [eza](https://github.com/eza-community/eza) | [lsd](https://github.com/lsd-rs/lsd) | [colorls](https://github.com/athityakumar/colorls) | [nat](https://github.com/willdoescode/nat)
-* [tre](https://github.com/dduan/tre) | [tree](https://gitlab.com/OldManProgrammer/unix-tree) | [termtree](https://github.com/rust-cli/termtree)
+*  [just]() | [makesure](https://github.com/xonixx/makesure)
+*  [make]()
+*  [eza](https://github.com/eza-community/eza) | [lsd](https://github.com/lsd-rs/lsd) | [colorls](https://github.com/athityakumar/colorls) | [nat](https://github.com/willdoescode/nat)
+*  [tre](https://github.com/dduan/tre) | [tree](https://gitlab.com/OldManProgrammer/unix-tree) | [termtree](https://github.com/rust-cli/termtree)
 * [as-tree](https://github.com/jez/as-tree)
 * [ictree](https://github.com/NikitaIvanovV/ictree)
 * [ckit](https://github.com/fpgmaas/ckit)
@@ -243,6 +243,7 @@ ew: command to run command outside of current directory without explicitly chang
 * [find-up-cli](https://github.com/sindresorhus/find-up-cli)
 * [paragrep](https://github.com/bmc/paragrep)
 * [spot](https://github.com/rauchg/spot)
+*  [ack](https://beyondgrep.com/) - A grep-like search tool optimized for source code.
 
 #### Data Wrangling
 
@@ -442,18 +443,15 @@ ew: command to run command outside of current directory without explicitly chang
 
 ### Luxury, Fun
 
-* [pipes-rs](https://github.com/lhvy/pipes-rs)
-* [Pipeseroni](https://pipeseroni.github.io/) 
-* [pipes.sh](http://pipes.sh/)
-* [pipes.js](https://github.com/Oman395/pipes.js)
-* [dna_bash](https://github.com/clyde80/dna_bash)
-* [cmatrix](https://github.com/abishekvashok/cmatrix)
-* [fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000)
+*  [pipes-rs](https://github.com/lhvy/pipes-rs) | [Pipeseroni](https://pipeseroni.github.io/) | [pipes.sh](http://pipes.sh/) | [pipes.js](https://github.com/Oman395/pipes.js)
+*  [dna_bash](https://github.com/clyde80/dna_bash)
+*  [cmatrix](https://github.com/abishekvashok/cmatrix)
+*  [fetch-master-6000](https://github.com/anhsirk0/fetch-master-6000)
 * [LinuxLogo](https://sourceforge.net/projects/linuxlogo/)
-* [cbonsai](https://gitlab.com/jallbrit/cbonsai)
-* [gof-rs](https://github.com/omagdy7/gof-rs)
-* [cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
-* [edex-ui](https://github.com/GitSquared/edex-ui)
+*  [cbonsai](https://gitlab.com/jallbrit/cbonsai)
+*  [gof-rs](https://github.com/omagdy7/gof-rs)
+*  [cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
+*  [edex-ui](https://github.com/GitSquared/edex-ui)
 * [gambit](https://github.com/maaslalani/gambit)
 * [matrix-webcam](https://github.com/joschuck/matrix-webcam) - Take your video conference from within the matrix. * USE FOR TEAMS, CONTRIBUTE TO NEXT STEPS * package for NixOS
     - [v4l2loopback](https://github.com/umlaeute/v4l2loopback)

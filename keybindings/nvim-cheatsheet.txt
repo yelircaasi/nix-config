@@ -1,0 +1,8 @@
+:redir > ~/nixos-config/keybindings/nvim-user-commands.txt!
+:verbose com
+:redir END
+
+:redir > ~/nixos-config/keybindings/nvim-mappings.txt!
+:verbose map
+:redir END
+

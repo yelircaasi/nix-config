@@ -44,7 +44,8 @@ vim_opts({
         foldnestmax = 2,  -- 2 nested fold max
         
         -- concealing
-        conceallevel = 2,
+        conceallevel = 1, -- nice because JSON quotes are hidden,
+                          -- but character position is fixed
     },
 })
 

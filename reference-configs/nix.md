@@ -1,6 +1,7 @@
 # Nix Configurations
 
-See also [nixpkgs maintainer list](https://github.com/NixOS/nixpkgs/blob/master/maintainers/maintainer-list.nix).
+-> [search](https://github.com/search?q=home-manager+qutebrowser+nix+language%3ANix&type=code&l=Nix) 
+-> See also [nixpkgs maintainer list](https://github.com/NixOS/nixpkgs/blob/master/maintainers/maintainer-list.nix).
 
 - [a-schaefers](https://github.com/a-schaefers/nix-config.old)
 
@@ -24,6 +25,8 @@ See also [nixpkgs maintainer list](https://github.com/NixOS/nixpkgs/blob/master/
 - [budevg](https://github.com/budevg/nix-conf)
 
 - ******** [ch1bo](https://github.com/ch1bo/dotfiles) - nixos flake, home manager, z, bash, emacs, git, gpg, haskell, urxvt, vim, colortable
+
+- [crystal](https://github.com/chadcat7/crystal)chadcat7 - perfect nixos (flake) - awesome - [chadcat7 fuyu](https://github.com/chadcat7/fuyu/tree/the-awesome-config) // hyprland, zsh, wezterm, ncmpcpp, picom ([fdev31 fork](https://github.com/fdev31/picom/tree/animation-pr)), nvim ([config](https://github.com/chadcat7/lodo)) [dwm](https://github.com/chadcat7/dwm) [st](https://github.com/chadcat7/st)
 
 - [ChrisTitusTech](https://github.com/ChrisTitusTech/nixos-titus)
 
@@ -137,6 +140,7 @@ See also [nixpkgs maintainer list](https://github.com/NixOS/nixpkgs/blob/master/
 - [samueldr](https://gitlab.com/samueldr/nixos-configuration)
 
 - [shaunsingh](https://github.com/shaunsingh) - Legendary (Nix, Nvim, and Nyxt)
+  - [shaun-singh](https://github.com/shaunsingh/nix-darwin-dotfiles) [Reddt](https://www.reddit.com/r/unixporn/comments/11st101/swaywmnyxt_friendship_ended_with_backlights/)
 
 - [sherubthakur](https://github.com/sherubthakur/dotfiles) 
   - nixos, kitty, zsh, oh-my-zsh, nushell, neovim, xmonad, taffybar, picom, betterlockscreen, rofi, deadd, eww, firefox, home manager

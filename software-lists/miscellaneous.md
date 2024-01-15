@@ -2,13 +2,13 @@
 
 ## Best
 
-* [timeago](https://pub.dev/packages/timeago)
-* [jrnl](https://jrnl.sh/en/stable/)
-* [wtf](https://github.com/wtfutil/wtf)
-* [khard](https://github.com/lucc/khard)
-* [remarkable](https://github.com/jonschlinkert/remarkable)
-* [kiwix-desktop](https://github.com/kiwix/kiwix-desktop) [kiwix apps](https://kiwix.org/en/applications/) [kiwix](https://kiwix.org/en/) - offline wikipedia
-* [peaclock](https://github.com/octobanana/peaclock) - nice terminal clock
+* [timeago](https://pub.dev/packages/timeago) - dart library for converting time to human-readable format ->
+*  [jrnl](https://jrnl.sh/en/stable/) - command-line notepad
+*  [wtf](https://github.com/wtfutil/wtf) - personal information dashboard for the terminal
+*  [khard](https://github.com/lucc/khard) - TUI vcard (contact book) manager (in Python)
+*  [remarkable](https://github.com/jonschlinkert/remarkable) - JS markdown parser
+*  [kiwix-desktop](https://github.com/kiwix/kiwix-desktop) [kiwix apps](https://kiwix.org/en/applications/) [kiwix](https://kiwix.org/en/) - offline wikipedia, maybe most relevant to Elsie
+*  [peaclock](https://github.com/octobanana/peaclock) - nice terminal clock
 
 ## Miscellaneous
 * [undollar](https://github.com/xtyrrell/undollar) - undollar bites the dollar sign off the tip of the command you just pasted into your terminal
@@ -17,10 +17,10 @@
 
 
 ## Books and Reading
-* [zathura](https://pwmt.org/projects/zathura/) + [mupdf](https://mupdf.com/) | [apvlv](https://github.com/naihe2010/apvlv) | [llpp](https://repo.or.cz/w/llpp.git) (suupports synctex) | [qpdfview](https://launchpad.net/qpdfview) (also supports synctex)
+*  [zathura](https://pwmt.org/projects/zathura/) + [mupdf](https://mupdf.com/) | [apvlv](https://github.com/naihe2010/apvlv) | [llpp](https://repo.or.cz/w/llpp.git) (supports synctex) | [qpdfview](https://launchpad.net/qpdfview) (also supports synctex)
 * [wike](https://github.com/hugolabe/Wike)
-* [koreader](https://koreader.rocks/) | [bookworm](https://babluboy.github.io/bookworm/) | [calibre](https://calibre-ebook.com/) + [calibre-web](https://github.com/janeczku/calibre-web) | [evince](https://wiki.gnome.org/Apps/Evince) | [foliate](https://johnfactotum.github.io/foliate/) | [okular](https://okular.kde.org/)
-* [pockyt](https://github.com/arvindch/pockyt)
+*  [koreader](https://koreader.rocks/) | [bookworm](https://babluboy.github.io/bookworm/) | [calibre](https://calibre-ebook.com/) + [calibre-web](https://github.com/janeczku/calibre-web) | [evince](https://wiki.gnome.org/Apps/Evince) | [foliate](https://johnfactotum.github.io/foliate/) | [okular](https://okular.kde.org/)
+* [pockyt](https://github.com/arvindch/pockyt) 
 
 ## Editing, Document Creation
 * [scribus](https://github.com/scribusproject/scribus)

@@ -1,0 +1,177 @@
+
+
+    Name              Args Address Complete    Definition
+    CmpStatus         0                        <Lua 79: /nix/store/0wdqprychn34pah5nagnszj1vnjqlfk6-lua5.1-nvim-cmp-2023-11-06/plugin/cmp.lua:57>
+                                               Check status of cmp sources
+	Last set from Lua
+    DapContinue       0                        <Lua 81: /nix/store/2x5k3vrhzbr4z69cd0zip0cv8n91s3n9-vimplugin-nvim-dap-2023-11-17/plugin/dap.lua:20>
+	Last set from Lua
+    DapLoadLaunchJSON 0                        <Lua 90: /nix/store/2x5k3vrhzbr4z69cd0zip0cv8n91s3n9-vimplugin-nvim-dap-2023-11-17/plugin/dap.lua:27>
+	Last set from Lua
+    DapRestartFrame   0                        <Lua 91: /nix/store/2x5k3vrhzbr4z69cd0zip0cv8n91s3n9-vimplugin-nvim-dap-2023-11-17/plugin/dap.lua:28>
+	Last set from Lua
+    DapSetLogLevel    1            <Lua function> <Lua 83: /nix/store/2x5k3vrhzbr4z69cd0zip0cv8n91s3n9-vimplugin-nvim-dap-2023-11-17/plugin/dap.lua:9>
+	Last set from Lua
+    DapShowLog        0                        split | e /home/isaac/.cache/nvim/dap.log | normal! G
+	Last set from Lua
+    DapStepInto       0                        <Lua 87: /nix/store/2x5k3vrhzbr4z69cd0zip0cv8n91s3n9-vimplugin-nvim-dap-2023-11-17/plugin/dap.lua:24>
+	Last set from Lua
+    DapStepOut        0                        <Lua 88: /nix/store/2x5k3vrhzbr4z69cd0zip0cv8n91s3n9-vimplugin-nvim-dap-2023-11-17/plugin/dap.lua:25>
+	Last set from Lua
+    DapStepOver       0                        <Lua 86: /nix/store/2x5k3vrhzbr4z69cd0zip0cv8n91s3n9-vimplugin-nvim-dap-2023-11-17/plugin/dap.lua:23>
+	Last set from Lua
+    DapTerminate      0                        <Lua 89: /nix/store/2x5k3vrhzbr4z69cd0zip0cv8n91s3n9-vimplugin-nvim-dap-2023-11-17/plugin/dap.lua:26>
+	Last set from Lua
+    DapToggleBreakpoint 0                      <Lua 84: /nix/store/2x5k3vrhzbr4z69cd0zip0cv8n91s3n9-vimplugin-nvim-dap-2023-11-17/plugin/dap.lua:21>
+	Last set from Lua
+    DapToggleRepl     0                        <Lua 85: /nix/store/2x5k3vrhzbr4z69cd0zip0cv8n91s3n9-vimplugin-nvim-dap-2023-11-17/plugin/dap.lua:22>
+	Last set from Lua
+    DoMatchParen      0                        call s:DoMatchParen()
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/plugin/matchparen.vim line 206
+!|  Explore           *    0c ?    dir         call netrw#Explore(<count>,0,0+<bang>0,<q-args>)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/plugin/netrwPlugin.vim line 65
+!|  Hexplore          *    0c ?    dir         call netrw#Explore(<count>,1,2+<bang>0,<q-args>)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/plugin/netrwPlugin.vim line 67
+!   Inspect           0                        <Lua 40: /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/plugin/nvim.lua:1>
+                                               Inspect highlights and extmarks at the cursor
+	Last set from Lua
+    InspectTree       0    0c ?                <Lua 47: /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/plugin/nvim.lua:9>
+                                               Inspect treesitter language tree for buffer
+	Last set from Lua
+!|  Lexplore          *    0c ?    dir         call netrw#Lexplore(<count>,<bang>0,<q-args>)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/plugin/netrwPlugin.vim line 72
+    LspInfo           0                        <Lua 92: /nix/store/rqx1j41vmdmwxqipf925ih9miy4qcxfj-vimplugin-nvim-lspconfig-2023-11-19/plugin/lspconfig.lua:63>
+                                               Displays attached, active, and configured language servers
+	Last set from Lua
+    LspLog            0                        <Lua 95: /nix/store/rqx1j41vmdmwxqipf925ih9miy4qcxfj-vimplugin-nvim-lspconfig-2023-11-19/plugin/lspconfig.lua:153>
+                                               Opens the Nvim LSP client log.
+	Last set from Lua
+    LspRestart        ?            <Lua function> <Lua 99: /nix/store/rqx1j41vmdmwxqipf925ih9miy4qcxfj-vimplugin-nvim-lspconfig-2023-11-19/plugin/lspconfig.lua:89>
+                                               Manually restart the given language client(s)
+	Last set from Lua
+    LspStart          ?            <Lua function> <Lua 97: /nix/store/rqx1j41vmdmwxqipf925ih9miy4qcxfj-vimplugin-nvim-lspconfig-2023-11-19/plugin/lspconfig.lua:69>
+                                               Manually launches a language server
+	Last set from Lua
+    LspStop           ?            <Lua function> <Lua 101: /nix/store/rqx1j41vmdmwxqipf925ih9miy4qcxfj-vimplugin-nvim-lspconfig-2023-11-19/plugin/lspconfig.lua:123>
+                                               Manually stops the given language client(s)
+	Last set from Lua
+    LuaSnipListAvailable 0                     <Lua 65: /nix/store/97mc162glnbc2l84b7c2ri6kzjb6ww29-vimplugin-luasnip-2023-11-13/plugin/luasnip.lua:66>
+	Last set from Lua
+    LuaSnipUnlinkCurrent 0                     <Lua 64: /nix/store/97mc162glnbc2l84b7c2ri6kzjb6ww29-vimplugin-luasnip-2023-11-13/plugin/luasnip.lua:61>
+	Last set from Lua
+!|  Man               *       ?    <Lua function> <Lua 45: /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/plugin/man.lua:6>
+	Last set from Lua
+    MatchDebug        0                        call matchit#Match_debug()
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 92
+    Neogit            *            <Lua function> <Lua 78: /nix/store/smjyydj67nsw92ak3x92wlmzj7722aw7-vimplugin-neogit-2023-11-18/plugin/neogit.lua:3>
+                                               Open Neogit
+	Last set from Lua
+    NeogitResetState  *                        <Lua 66: /nix/store/smjyydj67nsw92ak3x92wlmzj7722aw7-vimplugin-neogit-2023-11-18/plugin/neogit.lua:15>
+                                               Reset any saved flags
+	Last set from Lua
+    Neotree           *            custom      lua require("neo-tree.command")._command(<f-args>)
+	Last set from /nix/store/80wj809ihvza7di8k4168n68avqlqn6j-vimplugin-neo-tree.nvim-2023-11-18/plugin/neo-tree.vim line 5
+    NetUserPass       *                        call NetUserPass(<f-args>)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/plugin/netrwPlugin.vim line 60
+    NetrwC            *                        call s:NetrwSetChgwin(<q-args>)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/autoload/netrw.vim line 6710
+!   NetrwClean        0                        call netrw#Clean(<bang>0)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/plugin/netrwPlugin.vim line 76
+    NetrwKeepj        *                        keepj <args>
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/autoload/netrw.vim line 592
+!   NetrwMB           *            file        call s:NetrwBookmark(<bang>0,<f-args>)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/autoload/netrw.vim line 6709
+    NetrwSettings     0                        call netrwSettings#NetrwSettings()
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/plugin/netrwPlugin.vim line 75
+!|  Nexplore          *                        call netrw#Explore(-1,0,0,<q-args>)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/plugin/netrwPlugin.vim line 70
+!   NixEdit           *                        call nix#edit(<q-args>)
+	Last set from /nix/store/9f5pw5h5nd3xdx72ii5529ay43jflsfx-vimplugin-vim-nix-2023-07-29/plugin/nix.vim line 1
+    NoMatchParen      0                        call s:NoMatchParen()
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/plugin/matchparen.vim line 207
+    Nread             *    1c ?                let s:svpos= winsaveview()|call netrw#NetRead(<count>,<f-args>)|call winrestview(s:svpos)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/plugin/netrwPlugin.vim line 58
+    Nsource           *                        let s:svpos= winsaveview()|call netrw#NetSource(<f-args>)|call winrestview(s:svpos)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/plugin/netrwPlugin.vim line 61
+    Ntree             ?                        call netrw#SetTreetop(1,<q-args>)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/plugin/netrwPlugin.vim line 62
+    Nwrite            *    %                   let s:svpos= winsaveview()|<line1>,<line2>call netrw#NetWrite(<f-args>)|call winrestview(s:svpos)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/plugin/netrwPlugin.vim line 59
+!|  Pexplore          *                        call netrw#Explore(-2,0,0,<q-args>)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/plugin/netrwPlugin.vim line 71
+    PlenaryBustedDirectory +       file        lua require('plenary.test_harness').test_directory_command([[<args>]])
+	Last set from /nix/store/5ks2k8lcdxgf6bbc0lpxy2yicbi13xfk-lua5.1-plenary.nvim-2023-10-11/plugin/plenary.vim line 6
+    PlenaryBustedFile 1            file        lua require('plenary.test_harness').test_file([[<args>]])
+	Last set from /nix/store/5ks2k8lcdxgf6bbc0lpxy2yicbi13xfk-lua5.1-plenary.nvim-2023-10-11/plugin/plenary.vim line 3
+    PyRun             *                        lua require'py_lsp'.py_run(<f-args>)
+	Last set from /nix/store/bjgcr2jp5cj7ycjx9al3g6h6f5qf99wb-vimplugin-py-lsp-nvim-v0.0.2/plugin/py_lsp.vim line 9
+    Rexplore          0                        if exists("w:netrw_rexlocal")|call s:NetrwRexplore(w:netrw_rexlocal,exists("w:netrw_rexdir")? w:netrw_rexdir
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/autoload/netrw.vim line 6711
+!|  Sexplore          *    0c ?    dir         call netrw#Explore(<count>,1,0+<bang>0,<q-args>)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/plugin/netrwPlugin.vim line 66
+|   TOhtml            0    %                   :call tohtml#Convert2HTML(<line1>, <line2>)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/plugin/tohtml.vim line 231
+|   TSBufDisable      1            custom      lua require'nvim-treesitter.configs'.commands.TSBufDisable['run<bang>'](<f-args>)
+	Last set from Lua
+|   TSBufEnable       1            custom      lua require'nvim-treesitter.configs'.commands.TSBufEnable['run<bang>'](<f-args>)
+	Last set from Lua
+|   TSBufToggle       1            custom      lua require'nvim-treesitter.configs'.commands.TSBufToggle['run<bang>'](<f-args>)
+	Last set from Lua
+|   TSConfigInfo      0                        lua require'nvim-treesitter.configs'.commands.TSConfigInfo['run<bang>'](<f-args>)
+	Last set from Lua
+|   TSDisable         +            custom      lua require'nvim-treesitter.configs'.commands.TSDisable['run<bang>'](<f-args>)
+	Last set from Lua
+|   TSEditQuery       +            custom      lua require'nvim-treesitter.configs'.commands.TSEditQuery['run<bang>'](<f-args>)
+	Last set from Lua
+|   TSEditQueryUserAfter +         custom      lua require'nvim-treesitter.configs'.commands.TSEditQueryUserAfter['run<bang>'](<f-args>)
+	Last set from Lua
+|   TSEnable          +            custom      lua require'nvim-treesitter.configs'.commands.TSEnable['run<bang>'](<f-args>)
+	Last set from Lua
+!|  TSInstall         +            custom      lua require'nvim-treesitter.install'.commands.TSInstall['run<bang>'](<f-args>)
+	Last set from Lua
+!|  TSInstallFromGrammar +         custom      lua require'nvim-treesitter.install'.commands.TSInstallFromGrammar['run<bang>'](<f-args>)
+	Last set from Lua
+|   TSInstallInfo     0                        lua require'nvim-treesitter.info'.commands.TSInstallInfo['run<bang>'](<f-args>)
+	Last set from Lua
+!|  TSInstallSync     +            custom      lua require'nvim-treesitter.install'.commands.TSInstallSync['run<bang>'](<f-args>)
+	Last set from Lua
+|   TSModuleInfo      ?            custom      lua require'nvim-treesitter.info'.commands.TSModuleInfo['run<bang>'](<f-args>)
+	Last set from Lua
+|   TSToggle          +            custom      lua require'nvim-treesitter.configs'.commands.TSToggle['run<bang>'](<f-args>)
+	Last set from Lua
+|   TSUninstall       +            custom      lua require'nvim-treesitter.install'.commands.TSUninstall['run<bang>'](<f-args>)
+	Last set from Lua
+|   TSUpdate          *            custom      lua require'nvim-treesitter.install'.commands.TSUpdate['run<bang>'](<f-args>)
+	Last set from Lua
+|   TSUpdateSync      *            custom      lua require'nvim-treesitter.install'.commands.TSUpdateSync['run<bang>'](<f-args>)
+	Last set from Lua
+    Telescope         *            <Lua function> <Lua 105: /nix/store/1a19s3cnx0p2c6kk5lbvawxpbw0cw054-lua5.1-telescope.nvim-2023-11-16/plugin/telescope.lua:107>
+	Last set from Lua
+    TermExec          *    0c ?    <Lua function> <Lua 15: /nix/store/1pw5ygm34alxpks2q5a11j4yapviw6bi-vim-pack-dir/pack/myNeovimPackages/start/toggleterm.nvim/lua/toggleterm.lua:403>
+	Last set from Lua
+!   TermSelect        0                        <Lua 4: /nix/store/1pw5ygm34alxpks2q5a11j4yapviw6bi-vim-pack-dir/pack/myNeovimPackages/start/toggleterm.nvim/lua/toggleterm.lua:381>
+	Last set from Lua
+|   Texplore          *    0c ?    dir         call netrw#Explore(<count>,0,6        ,<q-args>)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/plugin/netrwPlugin.vim line 69
+    ToggleTerm        *    0c ?    <Lua function> <Lua 17: /nix/store/1pw5ygm34alxpks2q5a11j4yapviw6bi-vim-pack-dir/pack/myNeovimPackages/start/toggleterm.nvim/lua/toggleterm.lua:409>
+	Last set from Lua
+    ToggleTermSendCurrentLine ?                <Lua 20: /nix/store/1pw5ygm34alxpks2q5a11j4yapviw6bi-vim-pack-dir/pack/myNeovimPackages/start/toggleterm.nvim/lua/toggleterm.lua:429>
+	Last set from Lua
+    ToggleTermSendVisualLines ? .              <Lua 18: /nix/store/1pw5ygm34alxpks2q5a11j4yapviw6bi-vim-pack-dir/pack/myNeovimPackages/start/toggleterm.nvim/lua/toggleterm.lua:417>
+	Last set from Lua
+    ToggleTermSendVisualSelection ? .          <Lua 19: /nix/store/1pw5ygm34alxpks2q5a11j4yapviw6bi-vim-pack-dir/pack/myNeovimPackages/start/toggleterm.nvim/lua/toggleterm.lua:423>
+	Last set from Lua
+    ToggleTermSetName ?    0c ?                <Lua 21: /nix/store/1pw5ygm34alxpks2q5a11j4yapviw6bi-vim-pack-dir/pack/myNeovimPackages/start/toggleterm.nvim/lua/toggleterm.lua:433>
+	Last set from Lua
+!   ToggleTermToggleAll 0                      <Lua 13: /nix/store/1pw5ygm34alxpks2q5a11j4yapviw6bi-vim-pack-dir/pack/myNeovimPackages/start/toggleterm.nvim/lua/toggleterm.lua:413>
+	Last set from Lua
+    Tutor             ?            custom      call tutor#TutorCmd(<q-args>)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/plugin/tutor.vim line 6
+|   UpdateRemotePlugins 0                      call remote#host#UpdateRemotePlugins()
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/plugin/rplugin.vim line 67
+!|  Vexplore          *    0c ?    dir         call netrw#Explore(<count>,1,4+<bang>0,<q-args>)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/plugin/netrwPlugin.vim line 68
+    VimtexInverseSearch *                      call call('vimtex#view#inverse_search_cmd', s:parse_args(<q-args>))
+	Last set from /nix/store/h6y0q5bclmsdpawspabbzc7nvlcwf1b7-vimplugin-vimtex-2023-11-15/plugin/vimtex.vim line 12
+    Vimuntar          ?            file        call tar#Vimuntar(<q-args>)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/plugin/tarPlugin.vim line 50

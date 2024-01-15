@@ -1,0 +1,100 @@
+
+
+n  gO          *@:call <SNR>51_show_toc()<CR>
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/ftplugin/help.vim line 93
+x  #           * y?\V<C-R>"<CR>
+                 Nvim builtin
+	Last set from Lua
+o  %             <Plug>(MatchitOperationForward)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 73
+x  %             <Plug>(MatchitVisualForward)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 71
+n  %             <Plug>(MatchitNormalForward)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 69
+n  &           * :&&<CR>
+                 Nvim builtin
+	Last set from Lua
+x  *           * y/\V<C-R>"<CR>
+                 Nvim builtin
+	Last set from Lua
+n  Y           * y$
+                 Nvim builtin
+	Last set from Lua
+o  [%            <Plug>(MatchitOperationMultiBackward)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 81
+x  [%            <Plug>(MatchitVisualMultiBackward)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 79
+n  [%            <Plug>(MatchitNormalMultiBackward)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 77
+o  ]%            <Plug>(MatchitOperationMultiForward)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 82
+x  ]%            <Plug>(MatchitVisualMultiForward)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 80
+n  ]%            <Plug>(MatchitNormalMultiForward)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 78
+x  a%            <Plug>(MatchitVisualTextObject)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 85
+x  gx            <Plug>NetrwBrowseXVis
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/plugin/netrwPlugin.vim line 88
+n  gx            <Plug>NetrwBrowseX
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/plugin/netrwPlugin.vim line 82
+o  g%            <Plug>(MatchitOperationBackward)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 74
+x  g%            <Plug>(MatchitVisualBackward)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 72
+n  g%            <Plug>(MatchitNormalBackward)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 70
+n  <Plug>PlenaryTestFile * :lua require('plenary.test_harness').test_file(vim.fn.expand("%:p"))<CR>
+	Last set from /nix/store/5ks2k8lcdxgf6bbc0lpxy2yicbi13xfk-lua5.1-plenary.nvim-2023-10-11/plugin/plenary.vim line 9
+s  <Plug>luasnip-jump-prev * <Lua 62: /nix/store/97mc162glnbc2l84b7c2ri6kzjb6ww29-vimplugin-luasnip-2023-11-13/plugin/luasnip.lua:57>
+	Last set from Lua
+s  <Plug>luasnip-jump-next * <Lua 61: /nix/store/97mc162glnbc2l84b7c2ri6kzjb6ww29-vimplugin-luasnip-2023-11-13/plugin/luasnip.lua:54>
+	Last set from Lua
+s  <Plug>luasnip-prev-choice * <Lua 60: /nix/store/97mc162glnbc2l84b7c2ri6kzjb6ww29-vimplugin-luasnip-2023-11-13/plugin/luasnip.lua:51>
+	Last set from Lua
+s  <Plug>luasnip-next-choice * <Lua 59: /nix/store/97mc162glnbc2l84b7c2ri6kzjb6ww29-vimplugin-luasnip-2023-11-13/plugin/luasnip.lua:48>
+	Last set from Lua
+s  <Plug>luasnip-expand-snippet * <Lua 58: /nix/store/97mc162glnbc2l84b7c2ri6kzjb6ww29-vimplugin-luasnip-2023-11-13/plugin/luasnip.lua:45>
+	Last set from Lua
+s  <Plug>luasnip-expand-or-jump * <Lua 57: /nix/store/97mc162glnbc2l84b7c2ri6kzjb6ww29-vimplugin-luasnip-2023-11-13/plugin/luasnip.lua:42>
+	Last set from Lua
+   <Plug>luasnip-expand-repeat * <Lua 55: /nix/store/97mc162glnbc2l84b7c2ri6kzjb6ww29-vimplugin-luasnip-2023-11-13/plugin/luasnip.lua:35>
+	Last set from Lua
+n  <Plug>luasnip-delete-check * <Lua 53: /nix/store/97mc162glnbc2l84b7c2ri6kzjb6ww29-vimplugin-luasnip-2023-11-13/plugin/luasnip.lua:28>
+	Last set from Lua
+x  <Plug>NetrwBrowseXVis * :<C-U>call netrw#BrowseXVis()<CR>
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/plugin/netrwPlugin.vim line 90
+n  <Plug>NetrwBrowseX * :call netrw#BrowseX(netrw#GX(),netrw#CheckIfRemote(netrw#GX()))<CR>
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/plugin/netrwPlugin.vim line 84
+x  <Plug>(MatchitVisualTextObject)   <Plug>(MatchitVisualMultiBackward)o<Plug>(MatchitVisualMultiForward)
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 66
+o  <Plug>(MatchitOperationMultiForward) * :<C-U>call matchit#MultiMatch("W",  "o")<CR>
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 63
+o  <Plug>(MatchitOperationMultiBackward) * :<C-U>call matchit#MultiMatch("bW", "o")<CR>
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 62
+x  <Plug>(MatchitVisualMultiForward) * :<C-U>call matchit#MultiMatch("W",  "n")<CR>m'gv``
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 61
+x  <Plug>(MatchitVisualMultiBackward) * :<C-U>call matchit#MultiMatch("bW", "n")<CR>m'gv``
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 60
+n  <Plug>(MatchitNormalMultiForward) * :<C-U>call matchit#MultiMatch("W",  "n")<CR>
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 59
+n  <Plug>(MatchitNormalMultiBackward) * :<C-U>call matchit#MultiMatch("bW", "n")<CR>
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 58
+o  <Plug>(MatchitOperationBackward) * :<C-U>call matchit#Match_wrapper('',0,'o')<CR>
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 55
+o  <Plug>(MatchitOperationForward) * :<C-U>call matchit#Match_wrapper('',1,'o')<CR>
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 54
+x  <Plug>(MatchitVisualBackward) * :<C-U>call matchit#Match_wrapper('',0,'v')<CR>m'gv``
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 53
+x  <Plug>(MatchitVisualForward) * :<C-U>call matchit#Match_wrapper('',1,'v')<CR>:if col("''") != col("$") | exe ":normal! m'" | endif<CR>gv``
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 51
+n  <Plug>(MatchitNormalBackward) * :<C-U>call matchit#Match_wrapper('',0,'n')<CR>
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 50
+n  <Plug>(MatchitNormalForward) * :<C-U>call matchit#Match_wrapper('',1,'n')<CR>
+	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 49
+n  <C-Bslash>  * <Cmd>execute v:count . "ToggleTerm"<CR>
+                 Toggle Terminal
+	Last set from Lua
+n  <C-L>       * <Cmd>nohlsearch|diffupdate|normal! <C-L><CR>
+                 Nvim builtin
+	Last set from Lua

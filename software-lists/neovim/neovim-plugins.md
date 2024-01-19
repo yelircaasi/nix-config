@@ -13,11 +13,11 @@ Key:
 ## to sort
 
 
-    
+
 ## misc
 - [TreePin](https://github.com/KaitlynEthylia/TreePin) - A lightweight neovim plugin for pinning fragments of code to the screen. 
 ### Scheduling
-* [sche.nvim](https://github.com/Cassin01/sche.nvim)  
+* [sche.nvim](https://github.com/Cassin01/sche.nvim)
 ### Dates
 - [nvim-relative-date](https://github.com/Gelio/nvim-relative-date)
 - [vim-speeddating](https://github.com/tpope/vim-speeddating)
@@ -1043,7 +1043,7 @@ operations you otherwise manually do using the site. Love it.
 ### Jira
 - [jira.nvim](https://github.com/Funk66/jira.nvim)
 - [jira-nvim](https://github.com/Arekkusuva/jira-nvim)
-- [jira-vim](https://github.com/paulkass/jira-vim)
+- [jira-vim](https://github.com/paulkass/jira-vim) - best functionality of theJira plugins; may be worth updating. Or I could simply make a plugin to wrap the CLI in Go
 - [neovim-jira](https://wakatime.com/neovim-jira) 
 
 

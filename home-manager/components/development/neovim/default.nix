@@ -1,40 +1,41 @@
 { inputs, pkgs, lib, ... }:
 let
-  vim-plugins = import ./plugins.nix { inherit pkgs lib; };
-  # nixos-master = import (builtins.fetchTarball[nixpkgs/archive/master.tar.gz)](https://github.com/NixOS/nixpkgs/archive/master.tar.gz)){};
-  # nixos-unstable = import <unstable> {};
+  neovim-nightly = inputs.neovim-nightly-overlay.packages.${pkgs.system}.neovim;
+  custom = import ./plugins.nix { inherit pkgs lib; };
+  py310 = pkgs.python310Packages;
+  node = pkgs.nodePackages;
 in {
-  # nixpkgs.overlays = [
-  #   (import (builtins.fetchTarball {
-  #     url = https://github.com/nix-community/neovim-nightly-overlay/archive/master.tar.gz;
-  #   }))
-  # ];
   home.packages = with pkgs; [
-    # vimPlugins.none-ls-nvim
-
-    python310Packages.python-lsp-server
-    python310Packages.pylsp-mypy
-    python310Packages.pyls-isort
-    python310Packages.python-lsp-black
-    python310Packages.pylsp-rope
-    python310Packages.python-lsp-ruff
-    python310Packages.pylint
-    vim-plugins.py-lsp-nvim
-
-    
+    # miscelaneous external utils
     tree-sitter #nixos-unstable.tree-sitter 
     code-minimap #nixos-unstable.code-minimap
-    # rnix-lsp 
-    # vscode-langservers-extracted # nixos-unstable.vscode-langservers-extracted
+
+    # general-purpose language server
+    efm-langserver           # diagnostic-languageserver
+ 
+    # python language server + plugins
+    py310.python-lsp-server  # alt: node.pyright
+    py310.pylsp-mypy
+    py310.pyls-isort
+    py310.python-lsp-black
+    py310.pylsp-rope
+    py310.python-lsp-ruff
+    py310.pytest
+    py310.pylint
+    py310.pytest-cov
+    py310.coverage
+    black
+    mypy
+    
+    #custom.py-lsp-nvim
+
+    # other language servers
+    nil                      # alt: rnix-lsp 
     luaPackages.lua-lsp 
-    # nodePackages.pyright #nixos-unstable.nodePackages.pyright
-    # nodePackages.vim-language-server
-    nodePackages.yaml-language-server 
-    nodePackages.bash-language-server
+    node.vim-language-server
+    node.yaml-language-server 
+    node.bash-language-server
     vscode-langservers-extracted
-    #nodePackages.vscode-json-languageserver-bin
-    # nodePackages.vscode-html-languageserver-bin
-    # nodePackages.vscode-css-languageserver-bin
   ];
   programs.neovim = {
     enable = true;
@@ -42,143 +43,329 @@ in {
     withPython3 = true;
     withNodeJs = true;
     withRuby = false;
-    package = pkgs.neovim-unwrapped; #.override { configure = { opt = with pkgs.vimPlugins; [ vim-sleuth ]; }; };
+    package = neovim-nightly; #pkgs.neovim-unwrapped;
     viAlias = true;
     vimAlias = true;
     vimdiffAlias = true;
     plugins = with pkgs.vimPlugins; [
-      fidget-nvim
-      neodev-nvim
-      
-      
+      # general-purpose / dependency plugins
+      plenary-nvim
+      mini-nvim
+
+      # training and development
+      vim-be-good
+      lush-nvim
+      nvim-luapad
+      custom.hawtkeys-nvim
+      custom.nx-nvim
+
+      # ui general
+      nui-nvim               # alt: dressing-nvim, guihua-lua
+      noice-nvim
+      telescope-ui-select-nvim
+      custom.popui-nvim
+
+      # keybinding
+      legendary-nvim
+      which-key-nvim         # training wheels
+      hydra-nvim
+      custom.keymap-amend-nvim
+
+      # dashboard, startup
+      dashboard-nvim
+
+      # status line
+      lualine-nvim           # alt: neirline-nvim
+      nvim-navic
+
+      # buffer line
+      bufferline-nvim
+
+      # tab line
+      tabby-nvim
+ 
+      # notifications
+      nvim-notify            # alt_fidget-nvim
+
+      # neorg (org-mode for nvim)
+      neorg    # alt: zk-nvim (or complement?), orgmode-nvim
+      neorg-telescope
+
+      # additional modes
+      zen-mode-nvim
+
+      # icons
+      nvim-web-devicons
+
       # colorscheme
-      vim-plugins.schwarzwald
-      # vim-plugins.bamboo
+      custom.schwarzwald
 
       # file browsing
-      neo-tree-nvim
+      neo-tree-nvim          # alts: fm-nvim (with xplr), nnn-vim,
+      oil-nvim               #       triptych.nvim, tfm.nvim,
+      custom.nvim-genghis    # nvim-tree-lua, nvim-tree-lua
 
       # terminal
-      toggleterm-nvim
+      toggleterm-nvim        # nvim-toggleterm-lua, terminal-nvim, vim-floaterm, neoterm-lua
+      nvim-unception
+      term-edit-nvim
+      custom.wezterm-nvim           # kitty-runner-nvim
+
+      # code running, compiling
+      sniprun
+      custom.toggletasks-nvim       # jaq-nvim
+      custom.code-runner-nvim  # alt: runner-nvim
+      custom.compiler-nvim          # yabs-nvim
+      custom.yarepl-nvim
+      custom.iron-nvim
+      molten-nvim
+
+      # task runner
+      overseer-nvim          # vs-tasks
+
+      # multiplexer, etc.
+      smart-splits-nvim
+      custom.zellij-nav-nvim  # Navigator-nvim, #custom.zellij-nvim, nvim, neomux, tmux-nvim, tmux-awesome-manager-nvim, nvimux
+      custom.windex-nvim
       
+      # project and config management
+      neoconf-nvim
+      custom.projectmgr-nvim        # projections-nvim, workspaces-nvim, neoproj
+      custom.nvim-gfold-lua
+      custom.memento-nvim
+      nvim-config-local      # nvim-projectconfig
+ 
       # lsp & related
-      # none-ls-nvim
-      vim-plugins.none-ls
+      custom.none-ls  # installing, but not being found at runtime; try latest version
       nvim-lspconfig
+      lspkind-nvim
+      efmls-configs-nvim     # diagnosticls-configs-nvim
+      nlsp-settings-nvim
+      lspsaga-nvim
+      lsp_signature-nvim
+      vim-illuminate
 
-      #formatting
-      conform-nvim
+      # other popup, menu
+      wilder-nvim
+ 
+      # syntax highlighting
+      nvim-treesitter.withAllGrammars # nixos-unstable.vimPlugins.nvim-treesitter.withAllGrammars
+      custom.hlargs-nvim
 
-      # python
-      nvim-dap-python
-
-      # nix
-      vim-nix
-      
-      # markdown
-      
-
-      # git
-      neogit
-      
+      # treesitter extenions
+      nvim-treesitter-context
+      custom.agrolens-nvim
 
       # snippets
       friendly-snippets
-      # vim-vsnip
-      cmp_luasnip
       luasnip
-       
+      ultisnips
+      telescope-ultisnips-nvim
+      nvim-snippy
+ 
       # completion
       nvim-cmp
       cmp-nvim-lsp
       cmp-path
-      
+      cmp_luasnip
+ 
       # debugging
       nvim-dap
-      nvim-dap-ui
-      
-      vim-plugins.py-lsp-nvim
-      
-      nvim-web-devicons
+      nvim-dap-ui            # alt: telescope-dap-nvim
+ 
+      # quickfix
+      nvim-bqf               # alt: qqf-nvim
+      custom.qfview-nvim            # alt: nvim-pqf
+      custom.neowell-lua  # ?
+      trouble-nvim
 
-      # specific filetypes
-      vim-markdown
-      vimtex
+      #formatting, linting
+      conform-nvim           # alt: format-nvim, nvim-strict, guard-nvim, format-on-save-nvim, neoformat, formatter-nvim
+      lsp-format-nvim        # ?
+      nvim-lint
 
-      # nvim-tree-lua
+      # refactoring
+      refactoring-nvim
+
+      # folding
+      pretty-fold-nvim       # alt: fold-cycle-nvim, nvim-ufo, nvim-origima, 
+
+      # testing and coverage
+      neotest                # alt: nvim-test
+      nvim-coverage
+
+      # comments
+      comment-nvim
+      todo-comments-nvim
+
+      # clipboard
+      nvim-neoclip-lua   # deferred-clipboard-nvim, vim-wayland-clipboard (wl-clipboard)
+      clipboard-image-nvim
+ 
+      # git
+      neogit                 # alt: nvim-tinygit
+      lazygit-nvim
+      gitsigns-nvim
+      diffview-nvim
+      git-blame-nvim         # #custom.nvim-blame-line
+      custom.git-sessions-nvim
+      gitlinker-nvim
+ 
+      # editing enhancements,
+      text-case-nvim
+      ssr
+      treesj
+      dial-nvim
+      live-command-nvim
+      renamer-nvim
+      custom.yanky-nvim
+      custom.sibling-swap-nvim
+      custom.moveline-nvim
+      custom.part-edit-nvim
+      boole-nvim
+      sort-nvim
+      smartcolumn-nvim        # alts: deadcolumn-nvim, virtcolumn-nvim 
+      trim-nvim
+      vim-sneak
+      indent-blankline-nvim
+
+
+      # searching, fuzzy finding
+      custom.harpoon2
+      custom.spaceport-nvim
+      custom.telescope-alternate-nvim
+      custom.improved-search-nvim
+      custom.highlight-current-n-nvim         # hlsearch-nvim
+      custom.search-nvim
       telescope-nvim
-      nvim-treesitter.withAllGrammars # nixos-unstable.vimPlugins.nvim-treesitter.withAllGrammars
-      # csv-vim
-      # vim-surround  # fix config
-      # vim-repeat
-      # # vim-speeddating  # makes statusline buggy??
-      # vim-commentary
-      # vim-unimpaired
-      # vim-sleuth  # adjusts shiftwidth and expandtab based on the current file
-      # vim-startify
-      # vim-multiple-cursors
-      # gundo-vim
-      # vim-easy-align
-      # vim-table-mode
-      # editorconfig-vim
-      # ansible-vim
-      # robotframework-vim
-      # # vimspector
-      # vim-plugins.vim-bepoptimist
-      # vim-plugins.nvim-base16  # the one packaged in nixpkgs is different
-      # popup-nvim
-      # plenary-nvim
-      # telescope-symbols-nvim
-      # # telescope-media-files  # doesn't support wayland yet
-      # nvim-colorizer-lua
-      
-      # pkgs.vimPlugins.lsp_extensions-nvim # nixos-unstable.vimPlugins.lsp_extensions-nvim
-      # # completion-nvim
-      # lspkind-nvim
-      # gitsigns-nvim
-      # pkgs.vimPlugins.diffview-nvim # nixos-unstable.vimPlugins.diffview-nvim
-      # pkgs.vimPlugins.bufferline-nvim # nixos-unstable.vimPlugins.bufferline-nvim
-      # nvim-autopairs
-      # pkgs.vimPlugins.galaxyline-nvim # nixos-unstable.vimPlugins.galaxyline-nvim
-      # vim-closetag
-      # # nvim-tree-lua
-      # nvim-web-devicons
-      # vim-devicons
-      # # vim-auto-save  # ?
-      # vim-plugins.neoscroll-nvim
-      # vim-plugins.zenmode-nvim
-      # # minimap-vim
-      # vim-plugins.indent-blankline-nvim  # using my own derivation because the nixpkgs still uses the master branch
-      # vim-easymotion
-      # quick-scope
-      # matchit-zip
-      # targets-vim
-      # neoformat
-      # vim-numbertoggle
-      # # vim-markdown-composer
-      # vimwiki
-      # pkgs.vimwiki-markdown
-      # vim-python-pep8-indent
-      # lsp_signature-nvim
-      # rust-tools-nvim
-      # vim-plugins.keymap-layer-nvim
-      # vim-plugins.hydra-nvim
-    ];
+      telescope-frecency-nvim
+      telescope-zoxide
+      telescope-fzf-native-nvim
+      telescope-zf-native-nvim
+      telescope-vim-bookmarks-nvim
+      telescope-symbols-nvim
+      telescope-sg
+      telescope-project-nvim
+      telescope-media-files-nvim
+      telescope-lsp-handlers-nvim    # ?
+      telescope-live-grep-args-nvim  # ?
+      nvim-hlslens
+      auto-hlsearch-nvim
 
-    # extraConfig = "lua << EOF\n" + builtins.readFile ./init.lua + "\nEOF";
+      # search and replace
+      substitute-nvim        # alts: search-repace-nvim, nvim-spectre
+      custom.nvim-alt-substitute
+      replacer-nvim          # alt: nvim-search-and-replace
+      custom.rgflow-nvim
+      custom.nvim-rg                # vim-ripgrep
+      custom.muren-nvim
+      custom.sad-nvim
+
+      # macros
+      sqlite-lua  # dependency of neocomposer
+      custom.neocomposer-nvim
+
+      # pairs and textobjs
+      nvim-surround
+      nvim-treesitter-textsubjects
+      nvim-treesitter-textobjects
+      autoclose-nvim
+      rainbow-delimiters-nvim
+      custom.ultimate-autopair-nvim  # alt: nvim-autopairs
+      custom.nvim-various-textobjs
+      custom.sentiment-nvim
+
+      # navigation
+      custom.navigator-lua
+      numb-nvim
+      dropbar-nvim
+      leap-nvim
+      flash-nvim
+
+      # outline
+      symbols-outline-nvim           # alt: #custom.outline-nvim
+      nvim-lint
+
+      # miscellaneous utils
+      custom.nvim-regexplainer    # #custom.hypersonic-nvim
+      custom.quicknote-nvim
+      custom.carbon-now-nvim
+      nvim-colorizer-lua
+      venn-nvim
+      distant-nvim
+      compiler-explorer-nvim
+      hologram-nvim
+      image-nvim
+      flatten-nvim
+      urlview-nvim
+
+      # python
+      nvim-dap-python
+      custom.py-lsp-nvim
+      custom.hydrovim
+      custom.jupyter-kernel-nvim
+      custom.jupytext-nvim
+      custom.nvim-ipy
+      custom.swenv-nvim
+      custom.f-string-toggle-nvim
+      nvim-treesitter-pyfold
+      conjure
+      cmp-conjure
+
+      # markdown
+      mkdnflow-nvim
+      vim-markdown
+      markdown-preview-nvim  # alt: peek-nvim
+      glow-nvim
+      nvim-FeMaco-lua
+      custom.markdowny-nvim
+
+      # json
+      nvim-jqx
+
+      # nix
+      vim-nix
+      telescope-manix
+      nix-develop-nvim
+
+      # rust
+      rustaceanvim
+
+      # other language / tool support
+      flutter-tools-nvim
+      nvim-nu
+ 
+      # tex
+      vimtex
+      cmp-latex-symbols
+      nabla-nvim
+      telescope-nvim
+ 
+      # plugin development, neovim internals
+      neodev-nvim
+      custom.nvim-luaref
+ 
+      # minimap
+      minimap-vim
+
+      # github
+      octo-nvim
+      telescope-github-nvim
+
+      # ai assistance
+      custom.codegpt-nvim
+      ChatGPT-nvim
+      copilot-lua
+
+      # productivity
+      custom.taskwarrior-nvim
+      custom.xit-nvim
+
+    ];
   };
 
-  # xdg.configFile."nvim".source = builtins.path {
-  #     path = ./config;
-  #     name = "nvim-config";
-  # };
   xdg.configFile.nvim = {  
     source = ./config;  
     recursive = true;  
   };
-  # xdg.configFile."nvim" = { source = ./nvim; recursive = true; } ;
-
-  # xdg.configFile."nvim/init.lua".source = ./init.lua ;
-  # home.file."${xdg.configHome}"."nvim/lua" = { source = ./lua; recursive= true; } ;
-  
 }

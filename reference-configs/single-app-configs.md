@@ -1,5 +1,7 @@
 # Single-App Configs
 
+- [startpages](https://www.reddit.com/r/startpages/ )
+- [make firefox great again](ff video https://youtu.be/dwZpjKH8nbo?si=8C4JJvXkJjpWF5a3 )
 [alanRizzo](https://github.com/alanRizzo/dot-files)
 - fennel
   - [awesomewm config in fennel](https://gitlab.com/Erik.Lundstedt/dotconfigfiles/-/tree/master/.config/awesome)

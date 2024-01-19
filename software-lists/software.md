@@ -1,5 +1,7 @@
 # Software List
 
+https://github.com/nickgerace/gfold
+- [](https://dev.to/shricodev/top-5-underrated-open-source-projects-that-no-one-talks-about-2gki )
 https://github.com/alex35mil/NeoHub
 -> https://wiki.hyprland.org/Useful-Utilities/
 -> https://arewewaylandyet.com/

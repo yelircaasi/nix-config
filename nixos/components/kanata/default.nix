@@ -1,5 +1,8 @@
 { config, pkgs, lib, inputs, ... }:
 {
+  environment.systemPackages = with pkgs; [
+    kanata
+  ];
   services.kanata = {
     enable = true;
     # package = pkgs.rustPlatform.buildRustPackage {

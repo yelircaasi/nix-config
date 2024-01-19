@@ -15,6 +15,66 @@
 - [lanej  ](https://github.com/lanej/dotfiles) - ck, alacritty, bash, bat, scripts, bspwm, ctags, fish, git, i3, iterm, kitty, nvim, oni, polybar, powerline, python, qute, ruby, sh, spotify-player, termite, vim, zsh
 - [nickjj](https://github.com/nickjj/dotfiles) [post](https://nickjanetakis.com/blog/the-tools-i-use) - zsh, vim, ruby, git, tmux, zsh
 - [theooo](https://codeberg.org/theooo/wayland) - dunst, foot, rofi, sway, waybar
+- [xero](https://github.com/xero/dotfiles) - 
+- [vallen217](https://github.com/vallen217/dotfiles) - 
+- [sspaeti](https://github.com/sspaeti/dotfiles) - 
+- [nitestack](https://github.com/nitestack/dotfiles) - 
+- [solidiquis](https://github.com/solidiquis/dotfiles) - 
+- [bibjaw99](https://github.com/bibjaw99/workstation) - 
+- [linuxdabbler](https://github.com/linuxdabbler/personal-dot-files/tree/master/config) - 
+- [linuxdabbler (Gitlab profile)](https://github.com/linuxdabbler)  - 
+- [nitestack](https://github.com/linuxdabbler/personal-dot-files) - 
+- [alt-f4-llc !!!](https://github.com/ALT-F4-LLC/dotfiles-nixos) - 
+- [oxalica](https://github.com/oxalica/nil) - 
+- [linuxdabbler](https://gitlab.com/linuxdabbler/dotfiles) - 
+- [jason-goon](https://github.com/Jason-Goon/dwm_dotfiles) - 
+- [szelwiga](https://github.com/Szelwiga/dots) - 
+- [tectonic-typesetting](https://github.com/tectonic-typesetting/tectonic) - 
+- [nyxfr](https://github.com/nyxfr/.dotfiles) - btop, cava, dunst, fish, hypr, kitty, mc, neofetch, nvim, paru, rofi, swaybg, swaylock, tmux, waybar, wlogout, starship, scripts, fonts
+- [jakoolit](https://github.com/JaKooLit/Hyprland-Dots) - editorconfig, scripts, kvantum, btop, cava, kitty, qt5ct, qt6ct, rofi, swappy, swaylock, swaync, wal, waybar, wlogout
+- [magnotec1 !!!](https://github.com/Magnotec1/photosynthesis-dots) - firefox, kitty, neofetch, polybar, rofi, startpage
+- [argosatcore](https://codeberg.org/argosatcore/Deb_Dots) - debian, sway, emacs, bash, vim, inputrc, environment.d, foot, fuzzel, kanshi, libreoffice, mako, mpd, mpv, nvim, sway, swayimg, swaylock, waybar, wlogout, mimeapps.list
+- [chadcat7/crystal](https://github.com/chadcat7/crystal) - 
+- [kannakalyan05](https://github.com/kannakalyan05/hyprland) - 
+- [justinlime](https://github.com/justinlime/dotfiles) - 
+- [vidfurlan](https://github.com/VidFurlan/Dotfiles) - 
+- [edu-flores](https://github.com/edu-flores/linux-dotfiles) - automated theme switching, alacritty, dunst, i3, picom, polybar, rofi, zsh, scripts
+- [kelpwave](https://github.com/kelpwave/river-dots) - 
+- [Riverwm video](https://www.youtube.com/watch?v=MwnK6arB2Rc)) - 
+- [chasyxx](https://github.com/Chasyxx/bspwm-purple) - 
+- [ashenoy463](https://github.com/ashenoy463/dotfiles) - 
+- [rifsxd](https://github.com/rifsxd/oh-my-awesomewm-dots) - 
+- [alexvzyl](https://github.com/AlexvZyl/.dotfiles) - 
+- [myterminal](https://github.com/myTerminal/dotfiles) - 
+- [mandri97](https://github.com/Mandri97/dotfiles) - 
+- [**Riverwm with Yambar**](https://www.reddit.com/r/UsabilityPorn/s/oE9xxCZZJq ) - 
+- [lauriset](https://github.com/lauriset) - 
+- [nord hyprland](https://github.com/clamsfeel2/dots)  - 
+- [tentypematus](https://gitlab.com/TenTypekMatus/tokyonight-dots) i3, alacritty, fish, BetterDiscord, gtk, hypr, neofetch, nvim, polybar, rofi, picom
+- [mizzunet](https://github.com/mizzunet/dots) - 
+- [alexmuxika](https://github.com/AlexMuxika/configs) - 
+- [rx-py](https://github.com/rx-py/i3wm-dotfi) - 
+- [crzjp](https://codeberg.org/crzjp/dotfiles) - 
+- [euro20179](https://github.com/Euro20179/.files) - 
+- [soldoestech](hyprland https://github.com/SolDoesTech/HyprV2/tree/main) - 
+- [ipg0](https://github.com/ipg0/dotfiles-hypr) - 
+- [noriaku](https://github.com/noriaku/dotfiles-arch) - 
+- [aworldc](https://www.github.com/Aworldc/dots) - 
+- [husseinhareb](https://github.com/husseinhareb/my-dotfiles) - 
+- [xinux-org](https://github.com/xinux-org/configs) - 
+- [datsfelipe](https://github.com/datsfilipe/dotfiles) - 
+- [waffle87](https://github.com/waffle87/dots/tree/kepler → see other branches) - 
+- [mariasol0s](https://github.com/MariaSolOs/dotfiles) - 
+- [jjba-projects](https://gitlab.com/jjba-projects/dotfiles) - 
+- [karshprime](https://github.com/karshPrime/dotfiles) - 
+- [alexmuxika](https://raw.githubusercontent.com/AlexMuxika/configs/main/init) - 
+- [mahmoudk1000/awedots](https://github.com/mahmoudk1000/awedots) - 
+- [mahmoudk1000/startpage](https://github.com/mahmoudk1000/startpage) - 
+- [mahmoudk1000](https://github.com/mahmoudk1000/dotfiles) - 
+- [muppetcode](https://github.com/muppetcode/dotfiles-manjaro) - 
+- [tottitov](https://github.com/Tottitov/.dotfiles) - 
+- [nonamescm](https://github.com/nonamescm/dotfiles) - 
+- [iil4](https://github.com/ii14/dotfiles) - 
 
 ## hyprland
   - [1arsna1](https://github.com/1Arsna1/HyprStream.git) [Reddit](https://www.reddit.com/r/unixporn/comments/12v4zyn/hyprland_i_think_i_installed_some_melware/)

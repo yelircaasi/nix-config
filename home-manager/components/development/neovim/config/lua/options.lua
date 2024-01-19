@@ -12,7 +12,7 @@ vim.opt.shortmess:append("sIW")
 
 vim_opts({
     opt = {
-        hidden = true,
+        hidden = false,
         ignorecase = true,
         splitbelow = true,
         splitright = true,

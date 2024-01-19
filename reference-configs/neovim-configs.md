@@ -4,6 +4,8 @@
 
 ## Sort 
 
+- [mateiadrielrafael](https://github.com/Mateiadrielrafael/everything-nix)
+
 - [GUI](https://yutkat.github.io/my-neovim-pluginlist/#gui)
 
 

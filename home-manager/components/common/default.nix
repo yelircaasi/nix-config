@@ -53,6 +53,8 @@
 
   # };
   home.packages = with pkgs; [
+    wget
+    
     (writers.writePython3Bin 
       "viewhm" 
       {
@@ -115,7 +117,8 @@
         print()
         list_directory(HOME / ".config")
       ''
-      )
+    )
+    
   ];
   
   # Enable home-manager and git

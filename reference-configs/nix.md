@@ -1,5 +1,6 @@
 # Nix Configurations
 
+https://github.com/LamprosPitsillos/nixos-config
 -> [search](https://github.com/search?q=home-manager+qutebrowser+nix+language%3ANix&type=code&l=Nix) 
 -> See also [nixpkgs maintainer list](https://github.com/NixOS/nixpkgs/blob/master/maintainers/maintainer-list.nix).
 
@@ -101,6 +102,8 @@
 
 - [lovesegfault](https://github.com/lovesegfault/nix-config)
 
+- [mateiadrielrafael](https://github.com/Mateiadrielrafael/everything-nix)
+
 - [Misterio77](https://github.com/misterio77/nix-config)
 
 - ********* [notusknot](https://github.com/notusknot/dotfiles-nix)-
@@ -145,7 +148,7 @@
 - [sherubthakur](https://github.com/sherubthakur/dotfiles) 
   - nixos, kitty, zsh, oh-my-zsh, nushell, neovim, xmonad, taffybar, picom, betterlockscreen, rofi, deadd, eww, firefox, home manager
 
-- [smravec](https://github.com/smravec/nixos-config)- [Reddit - ***Minimalistic [Sway] + waybar + Nixos (full silent boot)](https://www.reddit.com/r/unixporn/comments/124yjwy/minimalistic_sway_waybar_nixos_full_silent_boot/)
+- [smravec](https://github.com/smravec/nixos-config)- [Reddit - !!!Minimalistic [Sway] + waybar + Nixos (full silent boot)](https://www.reddit.com/r/unixporn/comments/124yjwy/minimalistic_sway_waybar_nixos_full_silent_boot/)
 
 - [strager](https://github.com/strager/dotfiles) 
   - → nice green, firefox, fish, zsh, fzf, git, nix, ssh, systemd, tmux, vim, xmonad, gnome-terminal
@@ -153,6 +156,8 @@
 - [talyz](https://github.com/talyz/nixos-config)
 
 - [tars0x9752](https://github.com/tars0x9752/home)
+
+- [tentypekmatus](https://gitlab.com/TenTypekMatus/nixos-infra) - nixos with nvidia (?)
 
 - [therealpxc](https://github.com/therealpxc/pxc.nix.d)
 

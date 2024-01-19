@@ -9,8 +9,8 @@
 {
   imports =
     [ # Include the results of the hardware scan.
-      ../hardware-configurations/betsy-hardware-configuration.nix
-      ./modules/kanata
+      ./hardware-configurations/betsy-hardware-configuration.nix
+      ./components/kanata
     ];
 
   # Bootloader.
@@ -58,16 +58,6 @@
     fira-code-symbols
     nerdfix
 
-    vim # Do not forget to add an editor to edit configuration.nix! The Nano editor is also installed by default.
-    git
-    wget
-    kanata
-    nyxt
-    neovim
-    # lite-xl
-    wezterm
-    kitty
-    alacritty
     waybar
     mako
     libnotify

@@ -50,6 +50,7 @@ in {
     plugins = with pkgs.vimPlugins; [
       # lazy loading
       lazy-nvim
+      custom.lazy-nix-helper-nvim
 
       # general-purpose / dependency plugins
       plenary-nvim

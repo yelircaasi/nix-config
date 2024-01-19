@@ -1,5 +1,5 @@
-nvim_dap = require("nvim-dap")
-nvim_dap_ui = require("nvim-dap-ui")
+nvim_dap = require("dap")
+nvim_dap_ui = require("dapui")
 
 
 

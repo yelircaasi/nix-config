@@ -1,6 +1,17 @@
 { pkgs, lib }:
 {
-  neorg = pkgs.vimUtils.buildVimPlugin {
+  lazy-nix-helper-nvim = pkgs.vimUtils.buildVimPlugin {
+    name = "lazy-nix-helper.nvim";
+    version = "v0.4.0";
+    src = pkgs.fetchFromGitHub {
+        owner = "b-src";
+        repo = "lazy-nix-helper.nvim";
+        rev = "63b20ed071647bb492ed3256fbda709e4bfedc45";
+        sha256 = "sha256-TBDZGj0NXkWvJZJ5ngEqbhovf6RPm9N+Rmphz92CS3Q=";
+    };
+    meta.homepage = "https://github.com/b-src/lazy-nix-helper.nvim";
+  };
+   neorg = pkgs.vimUtils.buildVimPlugin {
     name = "neorg";
     version = "v7.0.0";
     src = pkgs.fetchFromGitHub {

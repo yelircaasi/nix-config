@@ -48,13 +48,18 @@ in {
     vimAlias = true;
     vimdiffAlias = true;
     plugins = with pkgs.vimPlugins; [
+      # lazy loading
+      lazy-nvim
+
       # general-purpose / dependency plugins
       plenary-nvim
       mini-nvim
       custom.core-nvim
 
-      # training and development
+      # training
       vim-be-good
+
+      # development
       lush-nvim
       nvim-luapad
       custom.hawtkeys-nvim
@@ -72,8 +77,10 @@ in {
       hydra-nvim
       custom.keymap-amend-nvim
 
-      # dashboard, startup
+      # startscreen
       dashboard-nvim
+      # colorscheme
+      custom.schwarzwald
 
       # status line
       lualine-nvim           # alt: neirline-nvim
@@ -88,8 +95,8 @@ in {
       # notifications
       nvim-notify            # alt_fidget-nvim
 
-      # neorg (org-mode for nvim)
-      neorg    # alt: zk-nvim (or complement?), orgmode-nvim
+      # org (org-mode for nvim)
+      custom.neorg    # alt: zk-nvim (or complement?), orgmode-nvim
       neorg-telescope
 
       # additional modes
@@ -97,9 +104,6 @@ in {
 
       # icons
       nvim-web-devicons
-
-      # colorscheme
-      custom.schwarzwald
 
       # file browsing
       neo-tree-nvim          # alts: fm-nvim (with xplr), nnn-vim,
@@ -112,7 +116,7 @@ in {
       term-edit-nvim
       custom.wezterm-nvim           # kitty-runner-nvim
 
-      # code running, compiling
+      # execution (code running, compiling)
       sniprun
       custom.toggletasks-nvim       # jaq-nvim
       custom.code-runner-nvim  # alt: runner-nvim
@@ -136,16 +140,6 @@ in {
       custom.memento-nvim
       nvim-config-local      # nvim-projectconfig
  
-      # lsp & related
-      custom.none-ls  # installing, but not being found at runtime; try latest version
-      nvim-lspconfig
-      lspkind-nvim
-      efmls-configs-nvim     # diagnosticls-configs-nvim
-      nlsp-settings-nvim
-      lspsaga-nvim
-      lsp_signature-nvim
-      vim-illuminate
-
       # other popup, menu
       wilder-nvim
  
@@ -153,7 +147,7 @@ in {
       nvim-treesitter.withAllGrammars # nixos-unstable.vimPlugins.nvim-treesitter.withAllGrammars
       custom.hlargs-nvim
 
-      # treesitter extenions
+      # treesitter extensions
       nvim-treesitter-context
       custom.agrolens-nvim
 
@@ -163,6 +157,16 @@ in {
       ultisnips
       telescope-ultisnips-nvim
       nvim-snippy
+ 
+      # lsp & related
+      custom.none-ls  # installing, but not being found at runtime; try latest version
+      nvim-lspconfig
+      lspkind-nvim
+      efmls-configs-nvim     # diagnosticls-configs-nvim
+      nlsp-settings-nvim
+      lspsaga-nvim
+      lsp_signature-nvim
+      vim-illuminate
  
       # completion
       nvim-cmp
@@ -266,15 +270,17 @@ in {
       sqlite-lua  # dependency of neocomposer
       custom.neocomposer-nvim
 
-      # pairs and textobjs
-      nvim-surround
-      nvim-treesitter-textsubjects
-      nvim-treesitter-textobjects
+      # pairs
       autoclose-nvim
       rainbow-delimiters-nvim
       custom.ultimate-autopair-nvim  # alt: nvim-autopairs
-      custom.nvim-various-textobjs
       custom.sentiment-nvim
+
+      # textobjs
+      nvim-surround
+      nvim-treesitter-textsubjects
+      nvim-treesitter-textobjects
+      custom.nvim-various-textobjs
 
       # navigation
       custom.navigator-lua
@@ -285,7 +291,6 @@ in {
 
       # outline
       symbols-outline-nvim           # alt: #custom.outline-nvim
-      nvim-lint
 
       # miscellaneous utils
       custom.nvim-regexplainer    # #custom.hypersonic-nvim
@@ -295,10 +300,12 @@ in {
       venn-nvim
       distant-nvim
       compiler-explorer-nvim
-      hologram-nvim
-      image-nvim
       flatten-nvim
       urlview-nvim
+
+      # media
+      hologram-nvim
+      image-nvim
 
       # python
       nvim-dap-python

@@ -1,6 +1,17 @@
 { pkgs, lib }:
 {
-  py-lsp-nvim = pkgs.vimUtils.buildVimPlugin {
+  neorg = pkgs.vimUtils.buildVimPlugin {
+    name = "neorg";
+    version = "v7.0.0";
+    src = pkgs.fetchFromGitHub {
+        owner = "nvim-neorg";
+        repo = "neorg";
+        rev = "a6ec80f455f948e122e669ff6039bc977427b158";
+        sha256 = "sha256-km3uiYm9kPhm1wZerXEIWpv6jO3zOQTIZAkiybNBpaA=";
+    };
+    meta.homepage = "https://github.com/HallerPatrick/py_lsp.nvim";
+  };
+   py-lsp-nvim = pkgs.vimUtils.buildVimPlugin {
     name = "py_lsp.nvim";
     version = "v0.0.2";
     src = pkgs.fetchFromGitHub {

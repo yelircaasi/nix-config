@@ -639,15 +639,15 @@
     };
     meta.homepage = "https://github.com/synaptiko/xit.nvim";
   };
-  # = pkgs.vimUtils.buildVimPlugin {
-  #  name = "";
-  #  version = "";
-  #  src = pkgs.fetchFromGitHub {
-  #      owner = "";
-  #      repo = "";
-  #      rev = "";
-  #      sha256 = "";
-  #  };
-  #  meta.homepage = "";
-  #}; 
+  core-nvim = pkgs.vimUtils.buildVimPlugin {
+    name = "core.nvim";
+    version = "2023-10-12";
+    src = pkgs.fetchFromGitHub {
+        owner = "niuiic";
+        repo = "core.nvim";
+        rev = "e6aeba879abb3026db26eca863858e3801c87e94";
+        sha256 = "sha256-oIxsND49xgmGKas7Id3F7vdsd5abDuUnqu6V5SBItE4=";
+    };
+    meta.homepage = "https://github.com/niuiic/core.nvim";
+  }; 
 }

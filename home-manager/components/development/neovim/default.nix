@@ -51,6 +51,7 @@ in {
       # general-purpose / dependency plugins
       plenary-nvim
       mini-nvim
+      custom.core-nvim
 
       # training and development
       vim-be-good

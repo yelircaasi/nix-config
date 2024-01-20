@@ -3,9 +3,10 @@
   lib,
   config,
   pkgs,
-  custom,
+  g,
   ...
-}: {
+}: 
+{
     imports = [
       ./components/common
     ];

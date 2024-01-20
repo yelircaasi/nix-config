@@ -4,6 +4,7 @@
   lib,
   config,
   pkgs,
+  g,
   ...
 }: {
   imports = [
@@ -52,6 +53,7 @@
   #   ];
 
   # };
+
   home.packages = with pkgs; [
     wget
     
@@ -116,6 +118,7 @@
         list_directory(HOME)
         print()
         list_directory(HOME / ".config")
+        print("${g.color.bg}")
       ''
     )
     

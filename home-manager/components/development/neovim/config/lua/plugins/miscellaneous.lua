@@ -8,5 +8,18 @@ compiler_explorer = require("compiler-explorer")
 flatten = require("flatten")
 urlview = require("urlview")
 
+-- colorizer
+colorizer.setup()
+
+--[[{
+  "nix",
+  'css';
+  'javascript';
+  html = {
+    mode = 'foreground';
+  }
+})a
+--]]
+
 return regexplainer, quicknote, carbon_now, colorizer, venn, distant, compiler_explorer, flatten, urlvew
 

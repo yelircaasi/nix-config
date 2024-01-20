@@ -4,6 +4,5 @@
     ./shared.nix
     ./betsy
     ./hank
-
   ];
 }

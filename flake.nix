@@ -20,22 +20,16 @@
     # nix-colors.url = "github:misterio77/nix-colors";
   };
 
-  outputs = 
-  {
+  outputs = {
     self,
     nixpkgs,
     home-manager,
     ...
-  } @ inputs:
-
-  let
+  } @ inputs: let
     inherit (self) outputs;
-    overlays = [ inputs.neovim-nightly-overlay.overlay ];
+    overlays = [inputs.neovim-nightly-overlay.overlay];
     g = import ./global-inputs;
-    
-  in
-  {
-
+  in {
     nixosConfigurations = {
       betsy = nixpkgs.lib.nixosSystem {
         specialArgs = {inherit inputs outputs g;};
@@ -50,19 +44,17 @@
     };
 
     homeConfigurations = {
-      
       "betsy" = home-manager.lib.homeManagerConfiguration {
         pkgs = nixpkgs.legacyPackages.x86_64-linux;
         extraSpecialArgs = {inherit inputs outputs g;};
-        modules = [ ./home-manager/betsy.nix ];
+        modules = [./home-manager/betsy.nix];
       };
-      
+
       "hank" = home-manager.lib.homeManagerConfiguration {
         pkgs = nixpkgs.legacyPackages.x86_64-linux;
         extraSpecialArgs = {inherit inputs outputs g;};
-        modules = [ ./home-manager/hank.nix ];
+        modules = [./home-manager/hank.nix];
       };
-
     };
   };
 }

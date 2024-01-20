@@ -13,8 +13,8 @@
   ];
 
   programs.zsh.enable = false;
-  programs.wezterm.enable = false ;
-  
+  programs.wezterm.enable = false;
+
   nixpkgs = {
     config = {
       allowUnfree = true;
@@ -34,11 +34,10 @@
       '')
     ];
     sessionVariables = {
-      EDITOR = "nvim" ;
+      EDITOR = "nvim";
     };
-
   };
-  
+
   # Enable home-manager and git
   # (in common) programs.home-manager.enable = true;
   # (in common) programs.git.enable = true;
@@ -47,8 +46,6 @@
   systemd.user.startServices = "sd-switch";
 
   # (in common) xdg.configFile."kanata/kanata.kbd".source = ../. + ./nixos/components/kanata/kanata.kbd ;
-  xdg.configFile."kanata/kanata.kbd".source = ../nixos/components/kanata/kanata.kbd ;
-  xdg.configFile."nitrogen/bg-saved.cfg".source = ./environments/x11/wallpaper/nitrogen/bg-saved.cfg ;
-  
-
+  xdg.configFile."kanata/kanata.kbd".source = ../nixos/components/kanata/kanata.kbd;
+  xdg.configFile."nitrogen/bg-saved.cfg".source = ./environments/x11/wallpaper/nitrogen/bg-saved.cfg;
 }

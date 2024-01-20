@@ -5,33 +5,30 @@
   pkgs,
   g,
   ...
-}: 
-{
-    imports = [
-      ./components/common
+}: {
+  imports = [
+    ./components/common
+  ];
+
+  nixpkgs = {
+    config = {
+      allowUnfree = true;
+    };
+  };
+
+  home = {
+    username = "isaac";
+    homeDirectory = "/home/isaac";
+    stateVersion = "23.11";
+    packages = with pkgs; [
+      # xplr
+      # lazygit
+      # bat
+      # fd
+      # fzf
+      # sd
     ];
+  };
 
-    nixpkgs = {
-      config = {
-        allowUnfree = true;
-      };
-    };
-
-    home = {
-      username = "isaac";
-      homeDirectory = "/home/isaac";
-      stateVersion = "23.11";
-      packages = with pkgs; [
-        # xplr
-        # lazygit
-        # bat
-        # fd
-        # fzf
-        # sd
-      ];
-
-  
-    };
-
-    systemd.user.startServices = "sd-switch";
+  systemd.user.startServices = "sd-switch";
 }

@@ -7,5 +7,5 @@
   ...
 }: {
   xsession.windowManager.i3.enable = true;
-  xsession.windowManager.i3.extraConfig = builtins.readFile ./config ;
+  xsession.windowManager.i3.extraConfig = builtins.readFile ./config;
 }

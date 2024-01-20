@@ -1,5 +1,10 @@
-{ config, pkgs, lib, inputs, ... }:
 {
+  config,
+  pkgs,
+  lib,
+  inputs,
+  ...
+}: {
   environment.systemPackages = with pkgs; [
     kanata
   ];

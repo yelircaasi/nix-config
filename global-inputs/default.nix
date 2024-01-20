@@ -1,5 +1,5 @@
-{
-  key = import ./keybindings {};
-  color = import ./colors {};
-  lib = import ./util;
+rec {
+  lib = import ./lib;
+  key = import ./keybindings {lib = lib;};
+  color = import ./colors {lib = lib;};
 }

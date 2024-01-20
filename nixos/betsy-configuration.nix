@@ -1,4 +1,10 @@
-{ inputs, lib, config, pkgs, ... }:
+{
+  inputs,
+  lib,
+  config,
+  pkgs,
+  ...
+}:
 # let
 #   unstableTarball =
 #     fetchTarball {
@@ -7,11 +13,11 @@
 #     };
 # in
 {
-  imports =
-    [ # Include the results of the hardware scan.
-      ./hardware-configurations/betsy-hardware-configuration.nix
-      ./components/kanata
-    ];
+  imports = [
+    # Include the results of the hardware scan.
+    ./hardware-configurations/betsy-hardware-configuration.nix
+    ./components/kanata
+  ];
 
   # Bootloader.
   boot.loader.systemd-boot.enable = true;
@@ -31,7 +37,7 @@
   # To make nix3 commands consistent with your flake
   nix.registry = (lib.mapAttrs (_: flake: {inherit flake;})) ((lib.filterAttrs (_: lib.isType "flake")) inputs);
 
-      # This will additionally add your inputs to the system's legacy channels
+  # This will additionally add your inputs to the system's legacy channels
   # Making legacy nix commands consistent as well, awesome!
   nix.nixPath = ["/etc/nix/path"];
   environment.etc =
@@ -48,7 +54,7 @@
     # Deduplicate and optimize nix store
     auto-optimise-store = true;
   };
-    
+
   # List packages installed in system profile. To search, run:
   # $ nix search wget
   environment.systemPackages = with pkgs; [
@@ -65,12 +71,13 @@
     rofi-wayland
     networkmanagerapplet
     # eww
-    (waybar.overrideAttrs (oldAttrs: {
-      mesonFlags = oldAttrs.mesonFlags ++ [ "-Dexperimental=true" ];
+    (
+      waybar.overrideAttrs (oldAttrs: {
+        mesonFlags = oldAttrs.mesonFlags ++ ["-Dexperimental=true"];
       })
     )
   ];
-  
+
   environment.sessionVariables = {
     WLR_NO_HARDWARE_CURSORS = "1";
     NIXOS_OZONE_WL = "1";
@@ -130,8 +137,6 @@
     pulseaudio.enable = false;
   };
 
-
-
   # Enable sound with pipewire.
   sound.enable = true;
   security.rtkit.enable = true;
@@ -155,7 +160,7 @@
   users.users.isaac = {
     isNormalUser = true;
     description = "Isaac Riley";
-    extraGroups = [ "networkmanager" "wheel" ];
+    extraGroups = ["networkmanager" "wheel"];
     packages = with pkgs; [
       firefox
       neofetch
@@ -167,11 +172,10 @@
       zsh
       xonsh
       # nushell
-    #  thunderbird
+      #  thunderbird
     ];
-    
   };
-  
+
   # This setups a SSH server. Very important if you're setting up a headless system.
   # Feel free to remove if you don't need it.
   services.openssh = {
@@ -188,7 +192,7 @@
     enableNvidiaPatches = true;
     xwayland.enable = true;
   };
-  
+
   # https://nixos.wiki/wiki/FAQ/When_do_I_update_stateVersion
   system.stateVersion = "23.11";
 }

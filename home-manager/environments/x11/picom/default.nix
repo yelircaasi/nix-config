@@ -1,7 +1,4 @@
-{
-  inputs,
-  ...
-}: {
+{inputs, ...}: {
   xsession.windowManager.i3.enable = true;
   services.picom.settings = {
     backend = "glx";

@@ -6,11 +6,11 @@
   custom,
   ...
 }: {
-  programs.wezterm.enable = lib.mkDefault true ;
+  programs.wezterm.enable = lib.mkDefault true;
   # programs.wezterm.extraConfig = builtins.readFile ./wezterm.lua ;
   # programs.wezterm.enableZshIntegration= true ;
-  
-  xdg.configFile."wezterm/wezterm.lua".source = ./wezterm.lua ;
+
+  xdg.configFile."wezterm/wezterm.lua".source = ./wezterm.lua;
   # programs.wezterm.colorSchemes = {
   #   schwarzwald = {
 
@@ -59,8 +59,6 @@
   #       "white"
   #     ];
 
-
   #   };
   # };
-    
 }

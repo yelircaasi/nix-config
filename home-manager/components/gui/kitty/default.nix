@@ -7,7 +7,7 @@
   ...
 }: {
   programs.kitty.enable = true;
-  programs.kitty.extraConfig = builtins.readFile ./kitty ;
+  programs.kitty.extraConfig = builtins.readFile ./kitty;
   # xdg.configFile."wezterm\wezterm.lua".source = ./wezterm.lua ;
   # programs.wezterm.colorSchemes = {
   #   schwarzwald = {
@@ -57,8 +57,6 @@
   #       "white"
   #     ];
 
-
   #   };
   # };
-    
 }

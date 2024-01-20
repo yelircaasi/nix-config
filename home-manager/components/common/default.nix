@@ -19,7 +19,6 @@
     # ./nvim.nix
   ];
 
-  
   # nixpkgs = {
   #   # You can add overlays here
   #   overlays = [
@@ -56,12 +55,13 @@
 
   home.packages = with pkgs; [
     wget
-    
-    (writers.writePython3Bin 
-      "viewhm" 
+
+    (
+      writers.writePython3Bin
+      "viewhm"
       {
-        libraries = [ python311 ] ;
-      } 
+        libraries = [python311];
+      }
       ''
         import os
         from pathlib import Path
@@ -118,19 +118,16 @@
         list_directory(HOME)
         print()
         list_directory(HOME / ".config")
-        print("${g.color.bg}")
+        print("${g.color.}")
       ''
     )
-    
   ];
-  
+
   # Enable home-manager and git
   programs.home-manager.enable = true;
-  
+
   # Nicely reload system units when changing configs
   systemd.user.startServices = "sd-switch";
 
   # xdg.configFile."kanata/kanata.kbd".source = .../. + ./nixos/components/kanata/kanata.kbd ;
-  
-
 }

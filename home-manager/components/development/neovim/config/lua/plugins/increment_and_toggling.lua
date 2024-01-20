@@ -1,3 +1,10 @@
+local augend = require("dial.augend")
+local config = require("dial.config") 
+
+-- keymaps
+vim.keymap.set("v", "<C-a>", require("dial.map").inc_visual("visual"), {noremap = true})
+vim.keymap.set("v", "<C-x>", require("dial.map").dec_visual("visual"), {noremap = true})
+
 vim.keymap.set("n", "<C-a>", function()
     require("dial.map").manipulate("increment", "normal")
 end)
@@ -23,8 +30,8 @@ vim.keymap.set("v", "g<C-x>", function()
     require("dial.map").manipulate("decrement", "gvisual")
 end)
 
-local augend = require("dial.augend")
-require("dial.config").augends:register_group{
+-- config
+config.augends:register_group{
   default = {
     augend.integer.alias.decimal,
     augend.integer.alias.hex,
@@ -43,7 +50,7 @@ require("dial.config").augends:register_group{
     augend.constant.alias.Alpha,
   },
 }
-require("dial.config").augends:register_group{
+config.augends:register_group{
   default = {
     -- uppercase hex number (0x1A1A, 0xEEFE, etc.)
     augend.integer.new{
@@ -54,7 +61,7 @@ require("dial.config").augends:register_group{
     },
   },
 }
-require("dial.config").augends:register_group{
+config.augends:register_group{
   default = {
     -- date with format `yyyy/mm/dd`
     augend.date.new{
@@ -67,7 +74,7 @@ require("dial.config").augends:register_group{
     },
   },
 }
-require("dial.config").augends:register_group{
+config.augends:register_group{
   default = {
     -- uppercase hex number (0x1A1A, 0xEEFE, etc.)
     augend.constant.new{
@@ -82,7 +89,7 @@ require("dial.config").augends:register_group{
     },
   },
 }
-require("dial.config").augends:register_group{
+config.augends:register_group{
   default = {
     -- uppercase hex number (0x1A1A, 0xEEFE, etc.)
     augend.hexcolor.new{
@@ -90,7 +97,7 @@ require("dial.config").augends:register_group{
     },
   },
 }
-require("dial.config").augends:register_group{
+config.augends:register_group{
   default = {
     -- uppercase hex number (0x1A1A, 0xEEFE, etc.)
     augend.user.new{
@@ -106,7 +113,5 @@ require("dial.config").augends:register_group{
   },
 }
 
--- change augends in VISUAL mode
-vim.keymap.set("v", "<C-a>", require("dial.map").inc_visual("visual"), {noremap = true})
-vim.keymap.set("v", "<C-x>", require("dial.map").dec_visual("visual"), {noremap = true})
+return augend, config
 

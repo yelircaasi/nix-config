@@ -1,3 +1,16 @@
+local lspconf = require "lspconfig"
+local null_ls = require("null-ls")
+local lspkind = require("lspkind")
+local efmls_configs = require("efmls-configs")
+local nlspsettings = require("nlspsettings")
+local lspsaga = require("lspsaga")
+local lsp_signiature = require("lsp_signature")
+local illuminate = require("illuminate")
+
+-- local servers = {"pyright" , "bashls", "rls", "jsonls", "rnix", "eslint"}
+local servers = {"pylsp" , "bashls", "rls"}
+local capabilities = require('cmp_nvim_lsp').default_capabilities()
+
 -- -- Lspconfig
 -- function on_attach(client, bufnr)
 --     local function map(...)
@@ -36,11 +49,6 @@
 --         map("v", "<leader>f", "<cmd>lua vim.lsp.buf.range_formatting()<CR>", opts)
 --     end
 -- end
-
-local lspconf = require "lspconfig"
--- local servers = {"pyright" , "bashls", "rls", "jsonls", "rnix", "eslint"}
-local servers = {"pylsp" , "bashls", "rls"}
-local capabilities = require('cmp_nvim_lsp').default_capabilities()
 
 -- for LSPs to use snippet completion (from lspconfig docs)
 --local capabilities = vim.lsp.protocol.make_client_capabilities()
@@ -146,15 +154,6 @@ lspconf.pylsp.setup{
     }
 }
 
--- require 'py_lsp'.setup {
---     -- This is optional, but allows to create virtual envs from nvim
---     auto_source = true,
---     language_server = "pylsp",
---     source_strategies = {"default", "poetry", "conda", "system"},
---     host_python = "/usr/bin/env python3",
---     default_venv_name = ".venv" -- For local venv
--- }
-
 -- require "lspconfig".html.setup { 
 --     cmd = {"html-languageserver"},
 --     root_dir = function()
@@ -171,4 +170,7 @@ lspconf.pylsp.setup{
 --     on_attach = on_attach,
 -- }
 
-return lspconfig
+
+
+return lspconfig, none_ls, lspkind, efmls_configs, nlspsettings, lspsaga, lsp_signature, illuminate
+

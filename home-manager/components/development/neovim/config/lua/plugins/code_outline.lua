@@ -1,4 +1,4 @@
-outline = require("symbols-outline")
+local outline = require("symbols-outline")
 
 
 return outline

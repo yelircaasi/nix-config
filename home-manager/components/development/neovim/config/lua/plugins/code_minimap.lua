@@ -1,4 +1,4 @@
-minimap_opts = vim.g
+local minimap_opts = vim.g
 
 -- minimap_opts. ...
 

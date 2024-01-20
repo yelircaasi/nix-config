@@ -1,0 +1,956 @@
+
+==============================================================================
+clipboard-image: require("clipboard-image.health").check()
+
+Checking dependencies ~
+- ERROR wl-clipboard is not installed
+
+==============================================================================
+compiler: require("compiler.health").check()
+
+compiler.nvim ~
+- Neovim Version: v0.10.0-dev-78b000c
+- WARNING Neovim nightly is not officially supported and may have breaking changes.
+- OK `git` is installed: Used for core functionality such as cloning compiler.nvim
+- WARNING `gcc` is not installed: Used to call the C compiler.
+- WARNING `g++` is not installed: Used to call the C++ compiler.
+- WARNING `csc` is not installed: Used to call the C# compiler.
+- WARNING `dotnet` is not installed: Used to call the C# compiler for .csproj files.
+- WARNING `javac` is not installed: Used to call the java compiler.
+- WARNING `nasm` is not installed: Used to call the assembly compiler.
+- WARNING `rustc` is not installed: Used to call the rust compiler.
+- OK `python` is installed: Used to call the python interpreter.
+- WARNING `nuitka3` is not installed: Used to call the python machine code compiler.
+- WARNING `pyinstaller` is not installed: Used to call the python bytecode compiler.
+- WARNING `ruby` is not installed: Used to call the ruby interpreter.
+- OK `node` is installed: nil
+- WARNING `tsc` is not installed: nil
+- WARNING `make` is not installed: Used to call the make interpreter.
+
+==============================================================================
+compiler-explorer: require("compiler-explorer.health").check()
+
+compiler-explorer.nvim report ~
+- OK neovim has version 0.7 or later
+- OK curl executable was found.
+- OK GET https://godbolt.org/api/languages successful. Server is reachable.
+
+==============================================================================
+conform: require("conform.health").check()
+
+conform.nvim report ~
+- Log file: /home/isaac/.local/state/nvim/conform.log
+
+==============================================================================
+diffview: require("diffview.health").check()
+
+Checking plugin dependencies ~
+- OK nvim-web-devicons installed.
+
+Checking VCS tools ~
+- The plugin requires at least one of the supported VCS tools to be valid.
+- OK Git found.
+- OK Git is up-to-date. (2.42.0)
+- WARNING Configured `hg_cmd` is not executable: 'hg'
+
+==============================================================================
+distant: require("distant.health").check()
+
+distant.nvim ~
+- ERROR distant not installed
+- ERROR unable to retrieve distant CLI version
+
+==============================================================================
+efmls-configs: require("efmls-configs.health").check()
+
+- ERROR The healthcheck report for "efmls-configs" plugin is empty.
+
+==============================================================================
+hydra: require("hydra.health").check()
+
+Hydra: Checking settings ~
+- OK             `timeoutlen` (value: 1000) is set to a good value.
+          
+
+==============================================================================
+jupytext: require("jupytext.health").check()
+
+jupytext.nvim ~
+- ERROR Jupytext is not available
+  - ADVICE:
+    - Install jupytext via `pip install jupytext`
+
+==============================================================================
+lazy: require("lazy.health").check()
+
+lazy.nvim ~
+- OK Git installed
+- WARNING found existing packages at `/nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages`
+- OK packer_compiled.lua not found
+- ERROR No plugins loaded. Did you forget to run `require("lazy").setup()`?
+
+==============================================================================
+lspsaga: require("lspsaga.health").check()
+
+Lspsaga.nvim report ~
+- OK `tree-sitter` found 
+- OK tree-sitter `markdown` parser found
+- OK tree-sitter `markdown_inline` parser found
+
+==============================================================================
+mkdp: health#mkdp#check
+
+- Platform: linux
+- Nvim Version: NVIM v0.10.0-dev-78b000c
+  Build type: Release
+  LuaJIT 2.1.1693350652
+  Run "nvim -V1 -v" for more info
+- Node version: v18.18.2
+- Script: /nix/store/v5l1l39rms2sankwjlrwlkshg24yyini-vimplugin-markdown-preview.nvim-2023-10-17/app/server.js
+- Script exists: 1
+- OK Using node
+
+==============================================================================
+molten: require("molten.health").check()
+
+molten-nvim ~
+- OK NeoVim >=0.9
+- OK Python >=3.10
+- OK Python package pynvim found
+- ERROR Python package jupyter-client not found
+  - ADVICE:
+    - pip install jupyter-client
+- WARNING Python package cairosvg not found
+  - ADVICE:
+    - pip install cairosvg
+- WARNING Python package pnglatex not found
+  - ADVICE:
+    - pip install pnglatex
+- WARNING Python package plotly not found
+  - ADVICE:
+    - pip install plotly
+- WARNING Python package kaleido not found
+  - ADVICE:
+    - pip install kaleido
+- WARNING Python package pyperclip not found
+  - ADVICE:
+    - pip install pyperclip
+
+==============================================================================
+navigator: require("navigator.health").check()
+
+- ERROR Failed to run healthcheck for "navigator" plugin. Exception:
+  ...eovimPackages/start/navigator.lua/lua/navigator/util.lua:7: module 'guihua.util' not found:
+  	no field package.preload['guihua.util']
+  	no file '/nix/store/fil9z2hnrak3b37fj4n0ki2n0n3fwrni-luajit-2.1.1693350652-env/share/lua/5.1/guihua/util.lua'
+  	no file '/nix/store/fil9z2hnrak3b37fj4n0ki2n0n3fwrni-luajit-2.1.1693350652-env/share/lua/5.1/guihua/util/init.lua'
+  	no file '/nix/store/rhrv0p012cwgqh4w7krbw0mhslqa5bp7-luajit2.1-magick-1.6.0-1/share/lua/5.1/guihua/util/init.lua'
+  	no file '/nix/store/rhrv0p012cwgqh4w7krbw0mhslqa5bp7-luajit2.1-magick-1.6.0-1/share/lua/5.1/guihua/util.lua'
+  	no file '/nix/store/llaa063gy3mw4hv0jr1svh22l16m7nqj-vimplugin-projectmgr.nvim-2023-08-26/plugin/../lua/projectmgr/deps/lua-guihua/util/init.lua'
+  	no file '/nix/store/fil9z2hnrak3b37fj4n0ki2n0n3fwrni-luajit-2.1.1693350652-env/lib/lua/5.1/guihua/util.so'
+  	no file '/nix/store/fil9z2hnrak3b37fj4n0ki2n0n3fwrni-luajit-2.1.1693350652-env/lib/lua/5.1/guihua.so'
+  
+
+==============================================================================
+neoconf: require("neoconf.health").check()
+
+neoconf.nvim ~
+- OK **treesitter-nvim** is installed
+- OK **TreeSitter jsonc** parser is installed
+- OK **neodev.nvim** is installed
+- OK **lspconfig** is installed
+- OK **lspconfig jsonls** is installed
+- OK **lspconfig lua_ls** is installed
+
+==============================================================================
+noice: require("noice.health").check()
+
+noice.nvim ~
+- OK **Neovim** >= 0.8.0
+- OK **vim.go.lazyredraw** is not enabled
+- OK **nvim-notify** is installed
+- OK **TreeSitter vim** parser is installed
+- OK **TreeSitter regex** parser is installed
+- OK **TreeSitter lua** parser is installed
+- OK **TreeSitter bash** parser is installed
+- OK **TreeSitter markdown** parser is installed
+- OK **TreeSitter markdown_inline** parser is installed
+
+==============================================================================
+null-ls: require("null-ls.health").check()
+
+- no sources registered
+
+==============================================================================
+nvim: require("nvim.health").check()
+
+Configuration ~
+- OK no issues found
+
+Runtime ~
+- OK $VIMRUNTIME: /nix/store/m7k2068yjz3jcf5hr7z6cnacsd2cj7w5-neovim-unwrapped-78b000c/share/nvim/runtime
+
+Performance ~
+- OK Build type: Release
+
+Remote Plugins ~
+- OK Up to date
+
+terminal ~
+- key_backspace (kbs) terminfo entry: `key_backspace=^H`
+- key_dc (kdch1) terminfo entry: `key_dc=\E[3~`
+- $VTE_VERSION="7401"
+- $TERM_PROGRAM="kgx"
+- $COLORTERM="truecolor"
+
+==============================================================================
+nvim-treesitter: require("nvim-treesitter.health").check()
+
+Installation ~
+- OK `tree-sitter` found 0.20.8 (parser generator, only needed for :TSInstallFromGrammar)
+- OK `node` found v18.18.2 (only needed for :TSInstallFromGrammar)
+- OK `git` executable found.
+- ERROR `cc` executable not found.
+  - ADVICE:
+    - Check that any of { vim.NIL, "cc", "gcc", "clang", "cl", "zig" } is in your $PATH or set the environment variable CC or `require"nvim-treesitter.install".compilers` explicitly!
+- OK Neovim was compiled with tree-sitter runtime ABI version 14 (required >=13). Parsers must be compatible with runtime ABI.
+
+OS Info:
+{
+  machine = "x86_64",
+  release = "6.1.63",
+  sysname = "Linux",
+  version = "#1-NixOS SMP PREEMPT_DYNAMIC Mon Nov 20 10:52:19 UTC 2023"
+} ~
+
+Parser/Features         H L F I J
+  - ada                 ✓ ✓ ✓ . .
+  - agda                ✓ . ✓ . .
+  - apex                ✓ ✓ ✓ . .
+  - arduino             ✓ ✓ ✓ ✓ ✓
+  - astro               ✓ ✓ ✓ ✓ ✓
+  - authzed             ✓ . . . ✓
+  - awk                 ✓ . . . ✓
+  - bash                ✓ ✓ ✓ . ✓
+  - bass                ✓ ✓ ✓ ✓ ✓
+  - beancount           ✓ . ✓ . .
+  - bibtex              ✓ . ✓ ✓ .
+  - bicep               ✓ ✓ ✓ ✓ ✓
+  - bitbake             ✓ ✓ ✓ ✓ ✓
+  - blueprint           ✓ . . . .
+  - c                   ✓ ✓ ✓ ✓ ✓
+  - c_sharp             ✓ ✓ ✓ . ✓
+  - cairo               ✓ ✓ ✓ ✓ ✓
+  - capnp               ✓ ✓ ✓ ✓ ✓
+  - chatito             ✓ ✓ ✓ ✓ ✓
+  - clojure             ✓ ✓ ✓ . ✓
+  - cmake               ✓ . ✓ ✓ .
+  - comment             ✓ . . . .
+  - commonlisp          ✓ ✓ ✓ . .
+  - cooklang            ✓ . . . .
+  - corn                ✓ ✓ ✓ ✓ .
+  - cpon                ✓ ✓ ✓ ✓ ✓
+  - cpp                 ✓ ✓ ✓ ✓ ✓
+  - css                 ✓ . ✓ ✓ ✓
+  - csv                 ✓ . . . .
+  - cuda                ✓ ✓ ✓ ✓ ✓
+  - cue                 ✓ ✓ ✓ ✓ ✓
+  - d                   ✓ . ✓ ✓ ✓
+  - dart                ✓ ✓ ✓ ✓ ✓
+  - devicetree          ✓ ✓ ✓ ✓ ✓
+  - dhall               ✓ . ✓ . ✓
+  - diff                ✓ . . . .
+  - dockerfile          ✓ . . . ✓
+  - dot                 ✓ . . . ✓
+  - doxygen             ✓ . . ✓ ✓
+  - dtd                 ✓ ✓ ✓ . ✓
+  - ebnf                ✓ . . . .
+  - eds                 ✓ . ✓ . .
+  - eex                 ✓ . . . ✓
+  - elixir              ✓ ✓ ✓ ✓ ✓
+  - elm                 ✓ . . . ✓
+  - elsa                ✓ ✓ ✓ ✓ ✓
+  - elvish              ✓ . . . ✓
+  - embedded_template   ✓ . . . ✓
+  - erlang              ✓ . ✓ . .
+  - fennel              ✓ ✓ ✓ . ✓
+  - firrtl              ✓ ✓ ✓ ✓ ✓
+  - fish                ✓ ✓ ✓ ✓ ✓
+  - foam                ✓ ✓ ✓ ✓ ✓
+  - forth               ✓ ✓ ✓ ✓ ✓
+  - fortran             ✓ . ✓ ✓ .
+  - fsh                 ✓ . . . .
+  - func                ✓ . . . .
+  - fusion              ✓ ✓ ✓ ✓ .
+  - gdscript            ✓ ✓ ✓ ✓ ✓
+  - git_config          ✓ . . . .
+  - git_rebase          ✓ . . . ✓
+  - gitattributes       ✓ ✓ . . ✓
+  - gitcommit           ✓ . . . ✓
+  - gitignore           ✓ . . . .
+  - gleam               ✓ ✓ ✓ ✓ ✓
+  - glimmer             ✓ ✓ ✓ ✓ .
+  - glsl                ✓ ✓ ✓ ✓ ✓
+  - gn                  ✓ ✓ ✓ ✓ ✓
+  - go                  ✓ ✓ ✓ ✓ ✓
+  - godot_resource      ✓ ✓ ✓ . .
+  - gomod               ✓ . . . ✓
+  - gosum               ✓ . . . .
+  - gowork              ✓ . . . ✓
+  - gpg                 ✓ . . . ✓
+  - graphql             ✓ . . ✓ ✓
+  - groovy              ✓ . . . ✓
+  - gstlaunch           ✓ . . . .
+  - hack                ✓ . . . .
+  - hare                ✓ ✓ ✓ ✓ ✓
+  - haskell             ✓ . ✓ . ✓
+  - haskell_persistent  ✓ . ✓ . .
+  - hcl                 ✓ . ✓ ✓ ✓
+  - heex                ✓ ✓ ✓ ✓ ✓
+  - hjson               ✓ ✓ ✓ ✓ ✓
+  - hlsl                ✓ ✓ ✓ ✓ ✓
+  - hocon               ✓ . . . ✓
+  - hoon                ✓ ✓ ✓ . .
+  - html                ✓ ✓ ✓ ✓ ✓
+  - htmldjango          ✓ . ✓ ✓ ✓
+  - http                ✓ . . . ✓
+  - hurl                ✓ . ✓ ✓ ✓
+  - ini                 ✓ . ✓ . .
+  - ispc                ✓ ✓ ✓ ✓ ✓
+  - janet_simple        ✓ ✓ ✓ . ✓
+  - java                ✓ ✓ ✓ ✓ ✓
+  - javascript          ✓ ✓ ✓ ✓ ✓
+  - jq                  ✓ ✓ . . ✓
+  - jsdoc               ✓ . . . .
+  - json                ✓ ✓ ✓ ✓ .
+  - json5               ✓ . . . ✓
+  - jsonc               ✓ ✓ ✓ ✓ ✓
+  - jsonnet             ✓ ✓ ✓ . .
+  - julia               ✓ ✓ ✓ ✓ ✓
+  - kconfig             ✓ ✓ ✓ ✓ ✓
+  - kdl                 ✓ ✓ ✓ ✓ ✓
+  - kotlin              ✓ ✓ ✓ . ✓
+  - kusto               ✓ . . . ✓
+  - lalrpop             ✓ ✓ . . ✓
+  - latex               ✓ . ✓ . ✓
+  - ledger              ✓ . ✓ ✓ ✓
+  - leo                 ✓ . . . ✓
+  - linkerscript        ✓ ✓ ✓ ✓ ✓
+  - liquidsoap          ✓ ✓ ✓ ✓ .
+  - llvm                ✓ . . . .
+  - lua                 ✓ ✓ ✓ ✓ ✓
+  - luadoc              ✓ . . . .
+  - luap                ✓ . . . .
+  - luau                ✓ ✓ ✓ ✓ ✓
+  - m68k                ✓ ✓ ✓ . ✓
+  - make                ✓ . ✓ . ✓
+  - markdown            ✓ . ✓ ✓ ✓
+  - markdown_inline     ✓ . . . ✓
+  - matlab              ✓ ✓ ✓ ✓ ✓
+  - menhir              ✓ . . . ✓
+  - mermaid             ✓ . . . .
+  - meson               ✓ . ✓ . ✓
+  - mlir                ✓ ✓ . . .
+  - nasm                ✓ . . . ✓
+  - nickel              ✓ . . ✓ .
+  - nim                 ✓ ✓ ✓ . ✓
+  - nim_format_string   ✓ . . . ✓
+  - ninja               ✓ . ✓ ✓ .
+  - nix                 ✓ ✓ ✓ . ✓
+  - norg                ✓ . ✓ . ✓
+  - nqc                 ✓ ✓ ✓ ✓ ✓
+  - objc                ✓ ✓ ✓ ✓ ✓
+  - objdump             ✓ . . . ✓
+  - ocaml               ✓ ✓ ✓ ✓ ✓
+  - ocaml_interface     ✓ ✓ ✓ ✓ ✓
+  - ocamllex            ✓ . . . ✓
+  - odin                ✓ ✓ ✓ ✓ ✓
+  - org                 . . . . .
+  - pascal              ✓ ✓ ✓ ✓ ✓
+  - passwd              ✓ . . . .
+  - pem                 ✓ . ✓ . ✓
+  - perl                ✓ . ✓ . ✓
+  - php                 ✓ ✓ ✓ ✓ ✓
+  - phpdoc              ✓ . . . .
+  - pioasm              ✓ . . . ✓
+  - po                  ✓ . ✓ . ✓
+  - pod                 ✓ . . . .
+  - poe_filter          ✓ . ✓ ✓ ✓
+  - pony                ✓ ✓ ✓ ✓ ✓
+  - prisma              ✓ . ✓ . .
+  - promql              ✓ . . . ✓
+  - proto               ✓ . ✓ . .
+  - prql                ✓ . . . ✓
+  - psv                 ✓ . . . .
+  - pug                 ✓ . . . ✓
+  - puppet              ✓ ✓ ✓ ✓ ✓
+  - purescript          ✓ ✓ . . ✓
+  - pymanifest          ✓ . . . ✓
+  - python              ✓ ✓ ✓ ✓ ✓
+  - ql                  ✓ ✓ ✓ ✓ ✓
+  - qmldir              ✓ . . . ✓
+  - qmljs               ✓ . ✓ . .
+  - query               ✓ ✓ ✓ ✓ ✓
+  - r                   ✓ ✓ . ✓ ✓
+  - racket              ✓ . ✓ . ✓
+  - rasi                ✓ ✓ ✓ ✓ .
+  - re2c                ✓ ✓ ✓ ✓ ✓
+  - regex               ✓ . . . .
+  - rego                ✓ . . . ✓
+  - requirements        ✓ . . . ✓
+  - rnoweb              ✓ . ✓ . ✓
+  - robot               ✓ . ✓ ✓ .
+  - ron                 ✓ ✓ ✓ ✓ ✓
+  - rst                 ✓ ✓ . . ✓
+  - ruby                ✓ ✓ ✓ ✓ ✓
+  - rust                ✓ ✓ ✓ ✓ ✓
+  - scala               ✓ ✓ ✓ . ✓
+  - scfg                ✓ . . . ✓
+  - scheme              ✓ . ✓ . ✓
+  - scss                ✓ . ✓ ✓ .
+  - slint               ✓ . . ✓ .
+  - smali               ✓ ✓ ✓ ✓ ✓
+  - smithy              ✓ . . . .
+  - snakemake           ✓ ✓ ✓ . ✓
+  - solidity            ✓ . ✓ . .
+  - soql                ✓ . . . .
+  - sosl                ✓ . . . .
+  - sparql              ✓ ✓ ✓ ✓ ✓
+  - sql                 ✓ . . ✓ ✓
+  - squirrel            ✓ ✓ ✓ ✓ ✓
+  - ssh_config          ✓ ✓ ✓ ✓ ✓
+  - starlark            ✓ ✓ ✓ ✓ ✓
+  - strace              ✓ . . . ✓
+  - supercollider       ✓ ✓ ✓ ✓ ✓
+  - surface             ✓ . ✓ ✓ ✓
+  - svelte              ✓ . ✓ ✓ ✓
+  - swift               ✓ ✓ . ✓ .
+  - sxhkdrc             ✓ . ✓ . ✓
+  - systemtap           ✓ ✓ ✓ . ✓
+  - t32                 ✓ ✓ ✓ ✓ ✓
+  - tablegen            ✓ ✓ ✓ ✓ ✓
+  - teal                ✓ ✓ ✓ ✓ ✓
+  - templ               ✓ . . . ✓
+  - terraform           ✓ . ✓ ✓ ✓
+  - textproto           ✓ . ✓ ✓ .
+  - thrift              ✓ ✓ ✓ ✓ ✓
+  - tiger               ✓ ✓ ✓ ✓ ✓
+  - tlaplus             ✓ ✓ ✓ . ✓
+  - todotxt             ✓ . . . .
+  - toml                ✓ ✓ ✓ ✓ ✓
+  - tsv                 ✓ . . . .
+  - tsx                 ✓ ✓ ✓ ✓ ✓
+  - turtle              ✓ ✓ ✓ ✓ ✓
+  - twig                ✓ . . . ✓
+  - typescript          ✓ ✓ ✓ ✓ ✓
+  - typoscript          ✓ . ✓ ✓ ✓
+  - udev                ✓ ✓ . . ✓
+  - ungrammar           ✓ ✓ ✓ ✓ ✓
+  - unison              ✓ . . . ✓
+  - usd                 ✓ ✓ ✓ ✓ .
+  - uxntal              ✓ ✓ ✓ ✓ ✓
+  - v                   ✓ ✓ ✓ ✓ ✓
+  - vala                ✓ . ✓ . .
+  - verilog             ✓ ✓ ✓ . ✓
+  - vhs                 ✓ . . . .
+  - vim                 ✓ ✓ ✓ . ✓
+  - vimdoc              ✓ . . . ✓
+  - vue                 ✓ . ✓ ✓ ✓
+  - wgsl                ✓ . ✓ ✓ .
+  - wgsl_bevy           ✓ . ✓ ✓ .
+  - wing                ✓ ✓ ✓ . .
+  - xcompose            ✓ ✓ . . ✓
+  - xml                 ✓ ✓ ✓ ✓ ✓
+  - yaml                ✓ ✓ ✓ ✓ ✓
+  - yang                ✓ . ✓ ✓ ✓
+  - yuck                ✓ ✓ ✓ ✓ ✓
+  - zig                 ✓ . ✓ ✓ ✓
+
+  Legend: H[ighlight], L[ocals], F[olds], I[ndents], In[j]ections
+         +) multiple parsers found, only one will be used
+         x) errors found in the query, try to run :TSUpdate {lang} ~
+
+==============================================================================
+provider.clipboard: require("provider.clipboard.health").check()
+
+Clipboard (optional) ~
+- WARNING No clipboard tool found. Clipboard registers (`"+` and `"*`) will not work.
+  - ADVICE:
+    - :help |clipboard|
+
+==============================================================================
+provider.node: require("provider.node.health").check()
+
+Node.js provider (optional) ~
+- Node.js: v18.18.2
+  
+- Nvim node.js host: /nix/store/igwky8azf5762mfbc76j48prdjl3hj6i-neovim-78b000c/bin/nvim-node
+- OK Latest "neovim" npm/yarn/pnpm package is installed: 4.10.1
+  
+
+==============================================================================
+provider.perl: require("provider.perl.health").check()
+
+Perl provider (optional) ~
+- Disabled (loaded_perl_provider=0).
+
+==============================================================================
+provider.python: require("provider.python.health").check()
+
+Python 3 provider (optional) ~
+- Using: g:python3_host_prog = "/nix/store/igwky8azf5762mfbc76j48prdjl3hj6i-neovim-78b000c/bin/nvim-python3"
+- Executable: /nix/store/igwky8azf5762mfbc76j48prdjl3hj6i-neovim-78b000c/bin/nvim-python3
+- Python version: 3.11.6
+- pynvim version: 0.4.3
+- OK Latest pynvim is installed.
+
+Python virtualenv ~
+- OK no $VIRTUAL_ENV
+
+==============================================================================
+provider.ruby: require("provider.ruby.health").check()
+
+Ruby provider (optional) ~
+- Disabled (loaded_ruby_provider=0).
+
+==============================================================================
+py_lsp: require("py_lsp.health").check()
+
+py_lsp.nvim Report ~
+- ERROR No client attached
+- ERROR Setup is incorrect
+
+==============================================================================
+rainbow-delimiters: require("rainbow-delimiters.health").check()
+
+- No custom configuration; see :help |rb-delimiters-setup| for information.
+
+==============================================================================
+renamer: require("renamer.health").check()
+
+Checking required plugins... ~
+- OK "plenary" installed.
+- Found all required plugins.
+
+Chechking whether setup was made... ~
+- WARNING "renamer.setup()" not called. Please make sure setup is done before using the plugin.
+- ERROR No LSP client found for the current file, but "renamer" requires one to work.
+
+==============================================================================
+rustaceanvim: require("rustaceanvim.health").check()
+
+Checking for Lua dependencies ~
+- OK [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) installed.
+
+Checking external dependencies ~
+- ERROR       rust-analyzer: not found.
+        rustaceanvim requires [rust-analyzer](https://rust-analyzer.github.io/).
+        Required by the LSP client.
+        
+- WARNING       Cargo: not found.
+        Install [Cargo](https://doc.rust-lang.org/cargo/) for extended capabilities.
+              The Rust package manager.
+        Required by rust-analyzer for non-standalone files, and for debugging features.
+        Not required in standalone files.
+      
+        
+- WARNING       rustc: not found.
+        Install [rustc](https://doc.rust-lang.org/rustc/what-is-rustc.html) for extended capabilities.
+              The Rust compiler.
+        Called by `:RustLsp explainError`.
+      
+        
+
+Checking config ~
+- OK vim.g.rustaceanvim is not set
+- OK No errors found in config.
+
+Checking for conflicting plugins ~
+- ERROR lspconfig.rust_analyzer has been setup. This will likely lead to conflicts with the rustaceanvim LSP client.
+
+==============================================================================
+sad: require("sad.health").check()
+
+Binaries ~
+- ERROR sad is not installed.
+- fzf installed
+- fd installed.
+- WARNING delta is not installed
+- WARNING Some binaries are not installed, please check if your $HOME/go/bin or $GOBIN $exists and in your $PATH
+
+Sad Plugin Check ~
+- OK guihua: plugin is installed
+- OK All plugin installed
+
+==============================================================================
+sniprun: health#sniprun#check
+
+Installation ~
+- WARNING Rust toolchain not available
+  - ADVICE:
+    - [optionnal] Install the rust toolchain https://www.rust-lang.org/tools/install
+- OK sniprun binary found at /nix/store/4w7npmfk58zpkmzx5z1mafxiknbp6qr3-sniprun-bin-1.3.8/bin/sniprun
+- OK Sent a ping to the sniprun binary
+- OK sniprun binary runs correctly
+
+==============================================================================
+telescope: require("telescope.health").check()
+
+Checking for required plugins ~
+- OK plenary installed.
+- OK nvim-treesitter installed.
+
+Checking external dependencies ~
+- OK rg: found ripgrep 13.0.0
+- OK fd: found fd 8.7.1
+
+===== Installed extensions ===== ~
+
+Telescope Extension: `ultisnips` ~
+- No healthcheck provided
+
+==============================================================================
+telescope-manix: require("telescope-manix.health").check()
+
+Checking for Lua dependencies ~
+- OK [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) installed.
+
+Checking external dependencies ~
+- ERROR       manix: not found.
+        haskell-tools.nvim requires [manix](https://github.com/mlvzk/manix).
+        Required as a backend for the Nix documentation search.
+        
+
+==============================================================================
+ultimate-autopair: require("ultimate-autopair.health").check()
+
+ultimate-autopair ~
+- OK all test in category `ext_cond` have passed
+- OK all test in category `ext_suround` have passed
+- OK all test in category `simple` have passed
+- OK all test in category `newline` have passed
+- OK all test in category `close` have passed
+- OK all test in category `ext_filetype` have passed
+- OK all test in category `backspace` have passed
+- OK all test in category `ext_fly` have passed
+- OK all test in category `multiline` have passed
+- OK all test in category `rfaswarp` have passed
+- OK all test in category `filter` have passed
+- OK all test in category `fastwarp` have passed
+- OK all test in category `options` have passed
+- OK all test in category `ext_cmdtype` have passed
+- OK all test in category `ext_alpha` have passed
+- OK all test in category `string` have passed
+- OK all test in category `tabout` have passed
+- OK all test in category `space2` have passed
+- OK all test in category `utf8` have passed
+- OK all test in category `ext_tsnode` have passed
+- OK all test in category `space` have passed
+- OK all test in category `ext_escape` have passed
+
+==============================================================================
+vim.lsp: require("vim.lsp.health").check()
+
+- LSP log level : WARN
+- Log path: /home/isaac/.local/state/nvim/lsp.log
+- Log size: 28060 KB
+
+vim.lsp: Active Clients ~
+- No active clients
+
+==============================================================================
+vim.treesitter: require("vim.treesitter.health").check()
+
+- Nvim runtime ABI version: 14
+- OK Parser: ada        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-ada/parser/ada.so
+- OK Parser: agda       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-agda/parser/agda.so
+- OK Parser: apex       ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-apex/parser/apex.so
+- OK Parser: arduino    ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-arduino/parser/arduino.so
+- OK Parser: astro      ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-astro/parser/astro.so
+- OK Parser: authzed    ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-authzed/parser/authzed.so
+- OK Parser: awk        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-awk/parser/awk.so
+- OK Parser: bash       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-bash/parser/bash.so
+- OK Parser: bass       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-bass/parser/bass.so
+- OK Parser: beancount  ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-beancount/parser/beancount.so
+- OK Parser: bibtex     ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-bibtex/parser/bibtex.so
+- OK Parser: bicep      ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-bicep/parser/bicep.so
+- OK Parser: bitbake    ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-bitbake/parser/bitbake.so
+- OK Parser: blueprint  ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-blueprint/parser/blueprint.so
+- OK Parser: c          ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-c/parser/c.so
+- OK Parser: c_sharp    ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-c_sharp/parser/c_sharp.so
+- OK Parser: cairo      ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-cairo/parser/cairo.so
+- OK Parser: capnp      ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-capnp/parser/capnp.so
+- OK Parser: chatito    ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-chatito/parser/chatito.so
+- OK Parser: clojure    ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-clojure/parser/clojure.so
+- OK Parser: cmake      ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-cmake/parser/cmake.so
+- OK Parser: comment    ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-comment/parser/comment.so
+- OK Parser: commonlisp ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-commonlisp/parser/commonlisp.so
+- OK Parser: cooklang   ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-cooklang/parser/cooklang.so
+- OK Parser: corn       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-corn/parser/corn.so
+- OK Parser: cpon       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-cpon/parser/cpon.so
+- OK Parser: cpp        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-cpp/parser/cpp.so
+- OK Parser: css        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-css/parser/css.so
+- OK Parser: csv        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-csv/parser/csv.so
+- OK Parser: cuda       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-cuda/parser/cuda.so
+- OK Parser: cue        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-cue/parser/cue.so
+- OK Parser: d          ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-d/parser/d.so
+- OK Parser: dart       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-dart/parser/dart.so
+- OK Parser: devicetree ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-devicetree/parser/devicetree.so
+- OK Parser: dhall      ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-dhall/parser/dhall.so
+- OK Parser: diff       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-diff/parser/diff.so
+- OK Parser: dockerfile ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-dockerfile/parser/dockerfile.so
+- OK Parser: dot        ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-dot/parser/dot.so
+- OK Parser: doxygen    ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-doxygen/parser/doxygen.so
+- OK Parser: dtd        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-dtd/parser/dtd.so
+- OK Parser: ebnf       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-ebnf/parser/ebnf.so
+- OK Parser: eds        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-eds/parser/eds.so
+- OK Parser: eex        ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-eex/parser/eex.so
+- OK Parser: elixir     ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-elixir/parser/elixir.so
+- OK Parser: elm        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-elm/parser/elm.so
+- OK Parser: elsa       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-elsa/parser/elsa.so
+- OK Parser: elvish     ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-elvish/parser/elvish.so
+- OK Parser: embedded_template ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-embedded_template/parser/embedded_template.so
+- OK Parser: erlang     ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-erlang/parser/erlang.so
+- OK Parser: fennel     ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-fennel/parser/fennel.so
+- OK Parser: firrtl     ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-firrtl/parser/firrtl.so
+- OK Parser: fish       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-fish/parser/fish.so
+- OK Parser: foam       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-foam/parser/foam.so
+- OK Parser: forth      ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-forth/parser/forth.so
+- OK Parser: fortran    ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-fortran/parser/fortran.so
+- OK Parser: fsh        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-fsh/parser/fsh.so
+- OK Parser: func       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-func/parser/func.so
+- OK Parser: fusion     ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-fusion/parser/fusion.so
+- OK Parser: gdscript   ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-gdscript/parser/gdscript.so
+- OK Parser: git_config ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-git_config/parser/git_config.so
+- OK Parser: git_rebase ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-git_rebase/parser/git_rebase.so
+- OK Parser: gitattributes ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-gitattributes/parser/gitattributes.so
+- OK Parser: gitcommit  ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-gitcommit/parser/gitcommit.so
+- OK Parser: gitignore  ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-gitignore/parser/gitignore.so
+- OK Parser: gleam      ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-gleam/parser/gleam.so
+- OK Parser: glimmer    ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-glimmer/parser/glimmer.so
+- OK Parser: glsl       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-glsl/parser/glsl.so
+- OK Parser: gn         ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-gn/parser/gn.so
+- OK Parser: go         ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-go/parser/go.so
+- OK Parser: godot_resource ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-godot_resource/parser/godot_resource.so
+- OK Parser: gomod      ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-gomod/parser/gomod.so
+- OK Parser: gosum      ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-gosum/parser/gosum.so
+- OK Parser: gowork     ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-gowork/parser/gowork.so
+- OK Parser: gpg        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-gpg/parser/gpg.so
+- OK Parser: graphql    ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-graphql/parser/graphql.so
+- OK Parser: groovy     ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-groovy/parser/groovy.so
+- OK Parser: gstlaunch  ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-gstlaunch/parser/gstlaunch.so
+- OK Parser: hack       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-hack/parser/hack.so
+- OK Parser: hare       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-hare/parser/hare.so
+- OK Parser: haskell    ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-haskell/parser/haskell.so
+- OK Parser: haskell_persistent ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-haskell_persistent/parser/haskell_persistent.so
+- OK Parser: hcl        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-hcl/parser/hcl.so
+- OK Parser: heex       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-heex/parser/heex.so
+- OK Parser: hjson      ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-hjson/parser/hjson.so
+- OK Parser: hlsl       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-hlsl/parser/hlsl.so
+- OK Parser: hocon      ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-hocon/parser/hocon.so
+- OK Parser: hoon       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-hoon/parser/hoon.so
+- OK Parser: html       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-html/parser/html.so
+- OK Parser: htmldjango ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-htmldjango/parser/htmldjango.so
+- OK Parser: http       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-http/parser/http.so
+- OK Parser: hurl       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-hurl/parser/hurl.so
+- OK Parser: ini        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-ini/parser/ini.so
+- OK Parser: ispc       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-ispc/parser/ispc.so
+- OK Parser: janet_simple ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-janet_simple/parser/janet_simple.so
+- OK Parser: java       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-java/parser/java.so
+- OK Parser: javascript ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-javascript/parser/javascript.so
+- OK Parser: jq         ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-jq/parser/jq.so
+- OK Parser: jsdoc      ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-jsdoc/parser/jsdoc.so
+- OK Parser: json       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-json/parser/json.so
+- OK Parser: json5      ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-json5/parser/json5.so
+- OK Parser: jsonc      ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-jsonc/parser/jsonc.so
+- OK Parser: jsonnet    ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-jsonnet/parser/jsonnet.so
+- OK Parser: julia      ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-julia/parser/julia.so
+- OK Parser: kconfig    ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-kconfig/parser/kconfig.so
+- OK Parser: kdl        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-kdl/parser/kdl.so
+- OK Parser: kotlin     ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-kotlin/parser/kotlin.so
+- OK Parser: kusto      ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-kusto/parser/kusto.so
+- OK Parser: lalrpop    ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-lalrpop/parser/lalrpop.so
+- OK Parser: latex      ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-latex/parser/latex.so
+- OK Parser: ledger     ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-ledger/parser/ledger.so
+- OK Parser: leo        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-leo/parser/leo.so
+- OK Parser: linkerscript ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-linkerscript/parser/linkerscript.so
+- OK Parser: liquidsoap ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-liquidsoap/parser/liquidsoap.so
+- OK Parser: llvm       ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-llvm/parser/llvm.so
+- OK Parser: lua        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-lua/parser/lua.so
+- OK Parser: luadoc     ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-luadoc/parser/luadoc.so
+- OK Parser: luap       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-luap/parser/luap.so
+- OK Parser: luau       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-luau/parser/luau.so
+- OK Parser: m68k       ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-m68k/parser/m68k.so
+- OK Parser: make       ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-make/parser/make.so
+- OK Parser: markdown   ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-markdown/parser/markdown.so
+- OK Parser: markdown_inline ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-markdown_inline/parser/markdown_inline.so
+- OK Parser: matlab     ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-matlab/parser/matlab.so
+- OK Parser: menhir     ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-menhir/parser/menhir.so
+- OK Parser: mermaid    ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-mermaid/parser/mermaid.so
+- OK Parser: meson      ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-meson/parser/meson.so
+- OK Parser: mlir       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-mlir/parser/mlir.so
+- OK Parser: nasm       ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-nasm/parser/nasm.so
+- OK Parser: nickel     ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-nickel/parser/nickel.so
+- OK Parser: nim        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-nim/parser/nim.so
+- OK Parser: nim_format_string ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-nim_format_string/parser/nim_format_string.so
+- OK Parser: ninja      ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-ninja/parser/ninja.so
+- OK Parser: nix        ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-nix/parser/nix.so
+- OK Parser: norg       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-norg/parser/norg.so
+- OK Parser: nqc        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-nqc/parser/nqc.so
+- OK Parser: objc       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-objc/parser/objc.so
+- OK Parser: objdump    ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-objdump/parser/objdump.so
+- OK Parser: ocaml      ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-ocaml/parser/ocaml.so
+- OK Parser: ocaml_interface ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-ocaml_interface/parser/ocaml_interface.so
+- OK Parser: ocamllex   ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-ocamllex/parser/ocamllex.so
+- OK Parser: odin       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-odin/parser/odin.so
+- OK Parser: org        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-org/parser/org.so
+- OK Parser: pascal     ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-pascal/parser/pascal.so
+- OK Parser: passwd     ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-passwd/parser/passwd.so
+- OK Parser: pem        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-pem/parser/pem.so
+- OK Parser: perl       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-perl/parser/perl.so
+- OK Parser: php        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-php/parser/php.so
+- OK Parser: phpdoc     ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-phpdoc/parser/phpdoc.so
+- OK Parser: pioasm     ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-pioasm/parser/pioasm.so
+- OK Parser: po         ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-po/parser/po.so
+- OK Parser: pod        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-pod/parser/pod.so
+- OK Parser: poe_filter ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-poe_filter/parser/poe_filter.so
+- OK Parser: pony       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-pony/parser/pony.so
+- OK Parser: prisma     ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-prisma/parser/prisma.so
+- OK Parser: promql     ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-promql/parser/promql.so
+- OK Parser: proto      ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-proto/parser/proto.so
+- OK Parser: prql       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-prql/parser/prql.so
+- OK Parser: psv        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-psv/parser/psv.so
+- OK Parser: pug        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-pug/parser/pug.so
+- OK Parser: puppet     ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-puppet/parser/puppet.so
+- OK Parser: purescript ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-purescript/parser/purescript.so
+- OK Parser: pymanifest ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-pymanifest/parser/pymanifest.so
+- OK Parser: python     ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-python/parser/python.so
+- OK Parser: ql         ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-ql/parser/ql.so
+- OK Parser: qmldir     ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-qmldir/parser/qmldir.so
+- OK Parser: qmljs      ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-qmljs/parser/qmljs.so
+- OK Parser: query      ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-query/parser/query.so
+- OK Parser: r          ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-r/parser/r.so
+- OK Parser: racket     ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-racket/parser/racket.so
+- OK Parser: rasi       ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-rasi/parser/rasi.so
+- OK Parser: re2c       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-re2c/parser/re2c.so
+- OK Parser: regex      ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-regex/parser/regex.so
+- OK Parser: rego       ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-rego/parser/rego.so
+- OK Parser: requirements ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-requirements/parser/requirements.so
+- OK Parser: rnoweb     ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-rnoweb/parser/rnoweb.so
+- OK Parser: robot      ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-robot/parser/robot.so
+- OK Parser: ron        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-ron/parser/ron.so
+- OK Parser: rst        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-rst/parser/rst.so
+- OK Parser: ruby       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-ruby/parser/ruby.so
+- OK Parser: rust       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-rust/parser/rust.so
+- OK Parser: scala      ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-scala/parser/scala.so
+- OK Parser: scfg       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-scfg/parser/scfg.so
+- OK Parser: scheme     ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-scheme/parser/scheme.so
+- OK Parser: scss       ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-scss/parser/scss.so
+- OK Parser: slint      ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-slint/parser/slint.so
+- OK Parser: smali      ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-smali/parser/smali.so
+- OK Parser: smithy     ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-smithy/parser/smithy.so
+- OK Parser: snakemake  ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-snakemake/parser/snakemake.so
+- OK Parser: solidity   ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-solidity/parser/solidity.so
+- OK Parser: soql       ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-soql/parser/soql.so
+- OK Parser: sosl       ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-sosl/parser/sosl.so
+- OK Parser: sparql     ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-sparql/parser/sparql.so
+- OK Parser: sql        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-sql/parser/sql.so
+- OK Parser: squirrel   ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-squirrel/parser/squirrel.so
+- OK Parser: ssh_config ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-ssh_config/parser/ssh_config.so
+- OK Parser: starlark   ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-starlark/parser/starlark.so
+- OK Parser: strace     ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-strace/parser/strace.so
+- OK Parser: supercollider ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-supercollider/parser/supercollider.so
+- OK Parser: surface    ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-surface/parser/surface.so
+- OK Parser: svelte     ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-svelte/parser/svelte.so
+- OK Parser: swift      ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-swift/parser/swift.so
+- OK Parser: sxhkdrc    ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-sxhkdrc/parser/sxhkdrc.so
+- OK Parser: systemtap  ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-systemtap/parser/systemtap.so
+- OK Parser: t32        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-t32/parser/t32.so
+- OK Parser: tablegen   ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-tablegen/parser/tablegen.so
+- OK Parser: teal       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-teal/parser/teal.so
+- OK Parser: templ      ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-templ/parser/templ.so
+- OK Parser: terraform  ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-terraform/parser/terraform.so
+- OK Parser: textproto  ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-textproto/parser/textproto.so
+- OK Parser: thrift     ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-thrift/parser/thrift.so
+- OK Parser: tiger      ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-tiger/parser/tiger.so
+- OK Parser: tlaplus    ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-tlaplus/parser/tlaplus.so
+- OK Parser: todotxt    ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-todotxt/parser/todotxt.so
+- OK Parser: toml       ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-toml/parser/toml.so
+- OK Parser: tsv        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-tsv/parser/tsv.so
+- OK Parser: tsx        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-tsx/parser/tsx.so
+- OK Parser: turtle     ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-turtle/parser/turtle.so
+- OK Parser: twig       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-twig/parser/twig.so
+- OK Parser: typescript ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-typescript/parser/typescript.so
+- OK Parser: typoscript ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-typoscript/parser/typoscript.so
+- OK Parser: udev       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-udev/parser/udev.so
+- OK Parser: ungrammar  ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-ungrammar/parser/ungrammar.so
+- OK Parser: unison     ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-unison/parser/unison.so
+- OK Parser: usd        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-usd/parser/usd.so
+- OK Parser: uxntal     ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-uxntal/parser/uxntal.so
+- OK Parser: v          ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-v/parser/v.so
+- OK Parser: vala       ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-vala/parser/vala.so
+- OK Parser: verilog    ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-verilog/parser/verilog.so
+- OK Parser: vhs        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-vhs/parser/vhs.so
+- OK Parser: vim        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-vim/parser/vim.so
+- OK Parser: vimdoc     ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-vimdoc/parser/vimdoc.so
+- OK Parser: vue        ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-vue/parser/vue.so
+- OK Parser: wgsl       ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-wgsl/parser/wgsl.so
+- OK Parser: wgsl_bevy  ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-wgsl_bevy/parser/wgsl_bevy.so
+- OK Parser: wing       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-wing/parser/wing.so
+- OK Parser: xcompose   ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-xcompose/parser/xcompose.so
+- OK Parser: xml        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-xml/parser/xml.so
+- OK Parser: yaml       ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-yaml/parser/yaml.so
+- OK Parser: yang       ABI: 13, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-yang/parser/yang.so
+- OK Parser: yuck       ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-yuck/parser/yuck.so
+- OK Parser: zig        ABI: 14, path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/vimplugin-treesitter-grammar-zig/parser/zig.so
+- OK Parser: bash       ABI: 14, path: /nix/store/m7k2068yjz3jcf5hr7z6cnacsd2cj7w5-neovim-unwrapped-78b000c/lib/nvim/parser/bash.so
+- OK Parser: c          ABI: 14, path: /nix/store/m7k2068yjz3jcf5hr7z6cnacsd2cj7w5-neovim-unwrapped-78b000c/lib/nvim/parser/c.so
+- OK Parser: lua        ABI: 14, path: /nix/store/m7k2068yjz3jcf5hr7z6cnacsd2cj7w5-neovim-unwrapped-78b000c/lib/nvim/parser/lua.so
+- OK Parser: markdown   ABI: 14, path: /nix/store/m7k2068yjz3jcf5hr7z6cnacsd2cj7w5-neovim-unwrapped-78b000c/lib/nvim/parser/markdown.so
+- OK Parser: python     ABI: 14, path: /nix/store/m7k2068yjz3jcf5hr7z6cnacsd2cj7w5-neovim-unwrapped-78b000c/lib/nvim/parser/python.so
+- OK Parser: query      ABI: 14, path: /nix/store/m7k2068yjz3jcf5hr7z6cnacsd2cj7w5-neovim-unwrapped-78b000c/lib/nvim/parser/query.so
+- OK Parser: vim        ABI: 14, path: /nix/store/m7k2068yjz3jcf5hr7z6cnacsd2cj7w5-neovim-unwrapped-78b000c/lib/nvim/parser/vim.so
+- OK Parser: vimdoc     ABI: 14, path: /nix/store/m7k2068yjz3jcf5hr7z6cnacsd2cj7w5-neovim-unwrapped-78b000c/lib/nvim/parser/vimdoc.so
+
+==============================================================================
+vimtex: health#vimtex#check
+
+VimTeX ~
+- OK Vim version should have full support!
+- WARNING bibtex is not executable!
+  - ADVICE:
+    - bibtex is required for cite completions.
+- WARNING biber is not executable!
+  - ADVICE:
+    - Biber is often required so this may give unexpected problems.
+- OK General viewer should work properly!
+- ERROR |g:vimtex_compiler_method| (`latexmk`) is not executable!
+
+==============================================================================
+which-key: require("which-key.health").check()
+
+WhichKey: checking conflicting keymaps ~
+- OK No conflicting keymaps found
+
+==============================================================================
+zellij: require("zellij.health").check()
+
+zellij.nvim report ~
+- Using binary 'zellij'
+- ERROR Binary not found
+
+==============================================================================
+zf-native: require("zf-native.health").check()
+
+Installation ~
+- libzf library path: /nix/store/p9qvh3q36z2hhdp6ml2lwhr7iswf9zr1-vim-pack-dir/pack/myNeovimPackages/start/telescope-zf-native.nvim/lua/../lib/libzf-linux-x64.so
+- OK libzf path is valid
+
+Configuration
+  - zf telescope file sorter enabled
+    - highlights: true
+    - filename score priority: true
+  - zf telescope generic sorter enabled
+    - highlights: true
+    - filename score priority: false ~
+

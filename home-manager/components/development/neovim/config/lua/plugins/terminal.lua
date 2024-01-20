@@ -1,4 +1,8 @@
 toggleterm = require("toggleterm")
+unception = require("unception")
+term_edit = require("term-edit")
+wezterm = require("wezterm")
+
 toggleterm.setup({
     -- -- size can be a number or function which is passed the current terminal
     -- size = function(term)
@@ -64,4 +68,4 @@ toggleterm.setup({
     --   end
     -- },
 })
-return toggleterm
+return toggleterm, unception, term_edit, wezterm

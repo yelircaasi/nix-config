@@ -1,7 +1,7 @@
 { pkgs, lib }:
 {
   lazy-nix-helper-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "lazy-nix-helper.nvim";
+    pname = "lazy-nix-helper.nvim";
     version = "v0.4.0";
     src = pkgs.fetchFromGitHub {
         owner = "b-src";
@@ -12,7 +12,7 @@
     meta.homepage = "https://github.com/b-src/lazy-nix-helper.nvim";
   };
    neorg = pkgs.vimUtils.buildVimPlugin {
-    name = "neorg";
+    pname = "neorg";
     version = "v7.0.0";
     src = pkgs.fetchFromGitHub {
         owner = "nvim-neorg";
@@ -23,7 +23,7 @@
     meta.homepage = "https://github.com/HallerPatrick/py_lsp.nvim";
   };
    py-lsp-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "py_lsp.nvim";
+    pname = "py_lsp.nvim";
     version = "v0.0.2";
     src = pkgs.fetchFromGitHub {
         owner = "HallerPatrick";
@@ -33,8 +33,19 @@
     };
     meta.homepage = "https://github.com/HallerPatrick/py_lsp.nvim";
   };
+  neotest = pkgs.vimUtils.buildVimPlugin {
+    pname = "neotest";
+    version = "2024-01-15";
+    src = pkgs.fetchFromGitHub {
+        owner = "nvim-neotest";
+        repo = "neotest";
+        rev = "dcdb40ea48f9c7b67a5576f6bb2e5f63ec15f2c0";
+        sha256 = "sha256-bHM+5NP4O1O6sbNdtYVB1ymfF1YZmL+OYNzxwPKoiVo=";
+    };
+    meta.homepage = "ihttps://github.com/nvim-neotest/neotest";
+  };
   schwarzwald = pkgs.vimUtils.buildVimPlugin {
-    name = "schwarzwald.nvim";
+    pname = "schwarzwald.nvim";
     version = "v0.0.0";
     src = pkgs.fetchFromGitHub {
         owner = "yelircaasi";
@@ -44,31 +55,52 @@
     };
     meta.homepage = "https://github.com/yelircaasi/schwarzwald.nvim";
   };
-  
+  marks-nvim = pkgs.vimUtils.buildVimPlugin {
+    pname = "marks.nvim";
+    version = "2024-01-07";
+    src = pkgs.fetchFromGitHub {
+        owner = "chentoast";
+        repo = "marks.nvim";
+        rev = "74e8d01b2a2131b6e46354cffc553aa7f81bcf5b";
+        sha256 = "sha256-4nvOqDUvV9zga7OqJDsHYWxchC6qiFG5Fkb2l8bVJEI=";
+    };
+    meta.homepage = "https://github.com/chentoast/marks.nvim";
+  };
   none-ls = pkgs.vimUtils.buildVimPlugin {
-    name = "none-ls.nvim";
-    version = "2023-12-22";
+    pname = "none-ls.nvim";
+    version = "2024-01-19";
     src = pkgs.fetchFromGitHub {
         owner = "nvimtools";
         repo = "none-ls.nvim";
-        rev = "cf81e765460f722a381e5f3f5e3cbdce88398517";
-        sha256 = "sha256-Cig6XLYoR3VJ/BXxjEfLYTIIB+7ne4K35F27sO9FCi8=0";
+        rev = "e64f03f3f77bd6854c3b3c5cfffcc806a0c0f66a";
+        sha256 = "sha256-0aFJDvmGf9lJNNmSP/w/0tnq8ZANvAZhpYFgczswJho=";
     };
     meta.homepage = "https://github.com/nvimtools/none-ls.nvim/";
   };
+  hlsearch-nvim = pkgs.vimUtils.buildVimPlugin {
+    pname = "hlsearch.nvim";
+    version = "2024-01-10";
+    src = pkgs.fetchFromGitHub {
+        owner = "nvimdev";
+        repo = "hlsearch.nvim";
+        rev = "fdeb60b890d15d9194e8600042e5232ef8c29b0e";
+        sha256 = "sha256-ibizMO16T/SwZIcl+zckbpDHMYQovKPEB5iO2YBRj74=";
+    };
+    meta.homepage = "https://github.com/nvimdev/hlsearch.nvim";
+  };
   harpoon2 = pkgs.vimUtils.buildVimPlugin {
-    name = "harpoon2";
+    pname = "harpoon";
     version = "2024-01-06";
     src = pkgs.fetchFromGitHub {
         owner = "ThePrimeagen";
-        repo = "core.nvim";
+        repo = "harpoon";
         rev = "2cd4e03372f7ee5692c8caa220f479ea07970f17";
         sha256 = "sha256-r+D6537a3pTBH6OmoWW6+q3uhrZJT928qh1XDCLkE6U=";
     };
     meta.homepage = "https://github.com/ThePrimeagen/harpoon/tree/harpoon2";
   };
   popui-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "popui.nvim";
+    pname = "popui.nvim";
     version = "2023-11-26";
     src = pkgs.fetchFromGitHub {
         owner = "hood";
@@ -79,7 +111,7 @@
     meta.homepage = "https://github.com/hood/popui.nvim";
   };
   hawtkeys-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "hawtkeys.nvim";
+    pname = "hawtkeys.nvim";
     version = "2024-01-15";
     src = pkgs.fetchFromGitHub {
         owner = "tris203";
@@ -90,7 +122,7 @@
     meta.homepage = "https://github.com/tris203/hawtkeys.nvim";
   };
   nx-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "nx.nvim";
+    pname = "nx.nvim";
     version = "2023-04-13";
     src = pkgs.fetchFromGitHub {
         owner = "tenxsoydev";
@@ -101,7 +133,7 @@
     meta.homepage = "https://github.com/Equilibris/nx.nvim";
   };
   markdowny-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "markdowny.nvim";
+    pname = "markdowny.nvim";
     version = "2023-02-18";
     src = pkgs.fetchFromGitHub {
         owner = "antonk52";
@@ -112,7 +144,7 @@
     meta.homepage = "https://github.com/antonk52/markdowny.nvim";
   };
   nvim-genghis = pkgs.vimUtils.buildVimPlugin {
-    name = "nvim-genghis";
+    pname = "nvim-genghis";
     version = "2024-01-03";
     src = pkgs.fetchFromGitHub {
         owner = "chrisgrieser";
@@ -123,7 +155,7 @@
     meta.homepage = "https://github.com/chrisgrieser/nvim-genghis";
   };
   keymap-amend-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "keymap-amend.nvim";
+    pname = "keymap-amend.nvim";
     version = "2022-09-22";
     src = pkgs.fetchFromGitHub {
         owner = "anuvyklack";
@@ -134,7 +166,7 @@
     meta.homepage = "https://github.com/anuvyklack/keymap-amend.nvim";
   };
   wezterm-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "wezterm.nvim";
+    pname = "wezterm.nvim";
     version = "2023-11-02";
     src = pkgs.fetchFromGitHub {
         owner = "willothy";
@@ -145,7 +177,7 @@
     meta.homepage = "https://github.com/willothy/wezterm.nvim";
   };
   toggletasks-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "toggletasks.nvim";
+    pname = "toggletasks.nvim";
     version = "2023-03-08";
     src = pkgs.fetchFromGitHub {
         owner = "jedrzejboczar";
@@ -156,7 +188,7 @@
     meta.homepage = "https://github.com/jedrzejboczar/toggletasks.nvim";
   };
   code-runner-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "code_runner.nvim";
+    pname = "code_runner.nvim";
     version = "2023-11-18";
     src = pkgs.fetchFromGitHub {
         owner = "CRAG666";
@@ -167,7 +199,7 @@
     meta.homepage = "https://github.com/CRAG666/code_runner.nvim";
   };
   compiler-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "compiler.nvim";
+    pname = "compiler.nvim";
     version = "2024-01-09";
     src = pkgs.fetchFromGitHub {
         owner = "Zeioth";
@@ -178,7 +210,7 @@
     meta.homepage = "https://github.com/Zeioth/compiler.nvim";
   };
   yarepl-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "yarepl.nvim";
+    pname = "yarepl.nvim";
     version = "2023-11-18";
     src = pkgs.fetchFromGitHub {
         owner = "milanglacier";
@@ -189,7 +221,7 @@
     meta.homepage = "https://github.com/milanglacier/yarepl.nvim";
   };
   iron-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "iron.nvim";
+    pname = "iron.nvim";
     version = "2023-07-13";
     src = pkgs.fetchFromGitHub {
         owner = "Vigemus";
@@ -199,19 +231,30 @@
     };
     meta.homepage = "https://github.com/Vigemus/iron.nvim";
   };
-  zellij-nav-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "";
-    version = "";
-    src = pkgs.fetchFromSourcehut {
-        owner = "~swaits";
-        repo = "zellij-nav.nvim";
-        rev = "c9f64ec7314509226889df6f61cd3b8a479e146b";
-        sha256 = "sha256-0j9HEkLYjqwQJJ0wk75cixXdpN0xH2D7M//GWU06obg=";
+  zellij-nvim = pkgs.vimUtils.buildVimPlugin {
+    pname = "zellij.nvim";
+    version = "2023-12-03";
+    src = pkgs.fetchFromGitHub {
+        owner = "Lilja";
+        repo = "zellij.nvim";
+        rev = "483c855ab7a3aba60e522971991481807ea3a47b";
+        sha256 = "sha256-z5wUoW2+KjW0LFyVNHF78xZJQN+3ATBPKZzaT4+7ip4=";
     };
-    meta.homepage = "https://git.sr.ht/~swaits/zellij-nav.nvim";
+    meta.homepage = "https://github.com/Lilja/zellij.nvim";
   };
+  #zellij-nav-nvim = pkgs.vimUtils.buildVimPlugin {
+  #  pname = "zellij-nav.nvim";
+  #  version = "";
+  #  src = pkgs.fetchFromSourcehut {
+  #      owner = "~swaits";
+  #      repo = "zellij-nav.nvim";
+  #      rev = "c9f64ec7314509226889df6f61cd3b8a479e146b";
+  #      sha256 = "sha256-0j9HEkLYjqwQJJ0wk75cixXdpN0xH2D7M//GWU06obg=";
+  #  };
+  #  meta.homepage = "https://git.sr.ht/~swaits/zellij-nav.nvim";
+  #};
   windex-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "windex.nvim";
+    pname = "windex.nvim";
     version = "2022-07-13";
     src = pkgs.fetchFromGitHub {
         owner = "declancm";
@@ -222,7 +265,7 @@
     meta.homepage = "https://github.com/declancm/windex.nvim";
   };
   projectmgr-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "projectmgr.nvim";
+    pname = "projectmgr.nvim";
     version = "2023-08-26";
     src = pkgs.fetchFromGitHub {
         owner = "charludo";
@@ -232,19 +275,8 @@
     };
     meta.homepage = "https://github.com/charludo/projectmgr.nvim";
   };
-  nvim-gfold-lua = pkgs.vimUtils.buildVimPlugin {
-    name = "pretty-fold.nvim";
-    version = "2022-07-20";
-    src = pkgs.fetchFromGitHub {
-        owner = "anuvyklack";
-        repo = "pretty-fold.nvim";
-        rev = "a7d8b424abe0eedf50116c460fbe6dfd5783b1d5";
-        sha256 = "sha256-PQPZw0qXwMtpVE4uSxR3xUvkHE9iG4T+ZwgV6H9pUjo=";
-    };
-    meta.homepage = "https://github.com/anuvyklack/pretty-fold.nvim";
-  };
   memento-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "memento.nvim";
+    pname = "memento.nvim";
     version = "2022-03-18";
     src = pkgs.fetchFromGitHub {
         owner = "gaborvecsei";
@@ -255,7 +287,7 @@
     meta.homepage = "https://github.com/gaborvecsei/memento.nvim";
   };
   hlargs-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "hlargs.nvim";
+    pname = "hlargs.nvim";
     version = "2024-01-07";
     src = pkgs.fetchFromGitHub {
         owner = "m-demare";
@@ -266,7 +298,7 @@
     meta.homepage = "https://github.com/m-demare/hlargs.nvim";
   };
   agrolens-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "agrolens.nvim";
+    pname = "agrolens.nvim";
     version = "2024-01-12";
     src = pkgs.fetchFromGitHub {
         owner = "desdic";
@@ -277,7 +309,7 @@
     meta.homepage = "https://github.com/desdic/agrolens.nvim";
   };
   qfview-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "qfview.nvim";
+    pname = "qfview.nvim";
     version = "2023-09-09";
     src = pkgs.fetchFromGitHub {
         owner = "ashfinal";
@@ -288,7 +320,7 @@
     meta.homepage = "https://github.com/ashfinal/qfview.nvim";
   };
   neowell-lua = pkgs.vimUtils.buildVimPlugin {
-    name = "NeoWell.lua";
+    pname = "NeoWell.lua";
     version = "2023-05-11";
     src = pkgs.fetchFromGitHub {
         owner = "nyngwang";
@@ -299,7 +331,7 @@
     meta.homepage = "https://github.com/nyngwang/NeoWell.lua";
   };
   git-sessions-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "git-sessions.nvim";
+    pname = "git-sessions.nvim";
     version = "2023-02-01";
     src = pkgs.fetchFromGitHub {
         owner = "TimotheeSai";
@@ -310,7 +342,7 @@
     meta.homepage = "https://github.com/TimotheeSai/git-sessions.nvim";
   };
   yanky-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "yanky.nvim";
+    pname = "yanky.nvim";
     version = "2023-11-27";
     src = pkgs.fetchFromGitHub {
         owner = "gbprod";
@@ -321,7 +353,7 @@
     meta.homepage = "https://github.com/gbprod/yanky.nvim";
   };
   sibling-swap-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "sibling-swap.nvim";
+    pname = "sibling-swap.nvim";
     version = "2023-12-13";
     src = pkgs.fetchFromGitHub {
         owner = "Wansmer";
@@ -331,19 +363,30 @@
     };
     meta.homepage = "https://github.com/Wansmer/sibling-swap.nvim";
   };
-  moveline-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "moveline.nvim";
-    version = "2023-07-06";
+  move-nvim = pkgs.vimUtils.buildVimPlugin {
+    pname = "move.nvim";
+    version = "2023-04-21";
     src = pkgs.fetchFromGitHub {
-        owner = "willothy";
-        repo = "moveline.nvim";
-        rev = "570603637be8af20e97b91cf554fef29cab73ca6";
-        sha256 = "sha256-hq/n48JC1EgJbmb6b/1jQ8MNhbcsJD3wIYaKE1UiU30=";
+        owner = "fedepujol";
+        repo = "move.nvim";
+        rev = "d663b74b4e38f257aae757541c9076b8047844d6";
+        sha256 = "sha256-t1JxAwFZb2IceaVfxgg1JeXYDVmPOFjSr2RMa+BoS1s=";
     };
-    meta.homepage = "https://github.com/willothy/moveline.nvim";
+    meta.homepage = "https://github.com/fedepujol/move.nvim";
   };
+  #moveline-nvim = pkgs.vimUtils.buildVimPlugin {
+  #  pname = "moveline.nvim";
+  #  version = "2023-07-06";
+  #  src = pkgs.fetchFromGitHub {
+  #      owner = "willothy";
+  #      repo = "moveline.nvim";
+  #      rev = "570603637be8af20e97b91cf554fef29cab73ca6";
+  #      sha256 = "sha256-hq/n48JC1EgJbmb6b/1jQ8MNhbcsJD3wIYaKE1UiU30=";
+  #  };
+  #  meta.homepage = "https://github.com/willothy/moveline.nvim";
+  #};
   part-edit-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "";
+    pname = "part-edit.nvim";
     version = "2023-07-18";
     src = pkgs.fetchFromGitHub {
         owner = "niuiic";
@@ -354,7 +397,7 @@
     meta.homepage = "https://github.com/niuiic/part-edit.nvim";
   };
   spaceport-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "spaceport.nvim";
+    pname = "spaceport.nvim";
     version = "2024-01-13";
     src = pkgs.fetchFromGitHub {
         owner = "CWood-sdf";
@@ -365,7 +408,7 @@
     meta.homepage = "https://github.com/CWood-sdf/spaceport.nvim";
   };
   telescope-alternate-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "telescope-alternate.nvim";
+    pname = "telescope-alternate.nvim";
     version = "2024-01-04";
     src = pkgs.fetchFromGitHub {
         owner = "otavioschwanck";
@@ -376,7 +419,7 @@
     meta.homepage = "https://github.com/otavioschwanck/telescope-alternate.nvim";
   };
   improved-search-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "improved-search.nvim";
+    pname = "improved-search.nvim";
     version = "2023-12-21";
     src = pkgs.fetchFromGitHub {
         owner = "backdround";
@@ -387,7 +430,7 @@
     meta.homepage = "https://github.com/backdround/improved-search.nvim";
   };
   highlight-current-n-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "highlight-current-n.nvim";
+    pname = "highlight-current-n.nvim";
     version = "2023-06-26";
     src = pkgs.fetchFromGitHub {
         owner = "rktjmp";
@@ -398,7 +441,7 @@
     meta.homepage = "https://github.com/rktjmp/highlight-current-n.nvim";
   };
   search-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "search.nvim";
+    pname = "search.nvim";
     version = "2023-12-04";
     src = pkgs.fetchFromGitHub {
         owner = "FabianWirth";
@@ -409,7 +452,7 @@
     meta.homepage = "https://github.com/FabianWirth/search.nvim";
   };
   nvim-alt-substitute = pkgs.vimUtils.buildVimPlugin {
-    name = "nvim-alt-substitute";
+    pname = "nvim-alt-substitute";
     version = "2023-07-28";
     src = pkgs.fetchFromGitHub {
         owner = "chrisgrieser";
@@ -420,7 +463,7 @@
     meta.homepage = "https://github.com/chrisgrieser/nvim-alt-substitute";
   };
   rgflow-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "rgflow.nvim";
+    pname = "rgflow.nvim";
     version = "2024-01-04";
     src = pkgs.fetchFromGitHub {
         owner = "mangelozzi";
@@ -431,7 +474,7 @@
     meta.homepage = "https://github.com/mangelozzi/rgflow.nvim";
   };
   nvim-rg = pkgs.vimUtils.buildVimPlugin {
-    name = "nvim-rg";
+    pname = "nvim-rg";
     version = "2023-12-02";
     src = pkgs.fetchFromGitHub {
         owner = "duane9";
@@ -442,7 +485,7 @@
     meta.homepage = "https://github.com/duane9/nvim-rg";
   };
   muren-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "muren.nvim";
+    pname = "muren.nvim";
     version = "2023-08-26";
     src = pkgs.fetchFromGitHub {
         owner = "AckslD";
@@ -453,7 +496,7 @@
     meta.homepage = "https://github.com/AckslD/muren.nvim";
   };
   sad-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "sad.nvim";
+    pname = "sad.nvim";
     version = "2023-03-13";
     src = pkgs.fetchFromGitHub {
         owner = "ray-x";
@@ -464,7 +507,7 @@
     meta.homepage = "https://github.com/ray-x/sad.nvim";
   };
   neocomposer-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "NeoComposer.nvim";
+    pname = "NeoComposer.nvim";
     version = "2023-11-26";
     src = pkgs.fetchFromGitHub {
         owner = "ecthelionvi";
@@ -475,7 +518,7 @@
     meta.homepage = "https://github.com/ecthelionvi/NeoComposer.nvim";
   };
   ultimate-autopair-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "ultimate-autopair.nvim";
+    pname = "ultimate-autopair.nvim";
     version = "2024-01-18";
     src = pkgs.fetchFromGitHub {
         owner = "altermo";
@@ -486,7 +529,7 @@
     meta.homepage = "https://github.com/altermo/ultimate-autopair.nvim";
   };
   nvim-various-textobjs = pkgs.vimUtils.buildVimPlugin {
-    name = "nvim-various-textobjs";
+    pname = "nvim-various-textobjs";
     version = "2024-01-14";
     src = pkgs.fetchFromGitHub {
         owner = "chrisgrieser";
@@ -497,7 +540,7 @@
     meta.homepage = "https://github.com/chrisgrieser/nvim-various-textobjs";
   };
   sentiment-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "sentiment.nvim";
+    pname = "sentiment.nvim";
     version = "2023-04-21";
     src = pkgs.fetchFromGitHub {
         owner = "utilyre";
@@ -508,7 +551,7 @@
     meta.homepage = "https://github.com/utilyre/sentiment.nvim";
   };
   navigator-lua = pkgs.vimUtils.buildVimPlugin {
-    name = "navigator.lua";
+    pname = "navigator.lua";
     version = "2023-12-04";
     src = pkgs.fetchFromGitHub {
         owner = "ray-x";
@@ -519,7 +562,7 @@
     meta.homepage = "https://github.com/ray-x/navigator.lua";
   };
   nvim-regexplainer = pkgs.vimUtils.buildVimPlugin {
-    name = "nvim-regexplainer";
+    pname = "nvim-regexplainer";
     version = "2023-10-15";
     src = pkgs.fetchFromGitHub {
         owner = "bennypowers";
@@ -530,7 +573,7 @@
     meta.homepage = "https://github.com/bennypowers/nvim-regexplainer";
   };
   quicknote-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "quicknote.nvim";
+    pname = "quicknote.nvim";
     version = "2023-10-13";
     src = pkgs.fetchFromGitHub {
         owner = "RutaTang";
@@ -541,7 +584,7 @@
     meta.homepage = "https://github.com/RutaTang/quicknote.nvim";
   };
   carbon-now-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "carbon-now.nvim";
+    pname = "carbon-now.nvim";
     version = "2023-11-11";
     src = pkgs.fetchFromGitHub {
         owner = "ellisonleao";
@@ -552,7 +595,7 @@
     meta.homepage = "https://github.com/ellisonleao/carbon-now.nvim";
   };
   hydrovim = pkgs.vimUtils.buildVimPlugin {
-    name = "hydrovim";
+    pname = "hydrovim";
     version = "2023-05-07";
     src = pkgs.fetchFromGitHub {
         owner = "smzm";
@@ -563,7 +606,7 @@
     meta.homepage = "https://github.com/smzm/hydrovim";
   };
   jupyter-kernel-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "jupyter-kernel.nvim";
+    pname = "jupyter-kernel.nvim";
     version = "2023-10-24";
     src = pkgs.fetchFromGitHub {
         owner = "lkhphuc";
@@ -574,7 +617,7 @@
     meta.homepage = "https://github.com/lkhphuc/jupyter-kernel.nvim";
   };
   jupytext-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "jupytext.nvim";
+    pname = "jupytext.nvim";
     version = "2024-01-03";
     src = pkgs.fetchFromGitHub {
         owner = "GCBallesteros";
@@ -584,8 +627,9 @@
     };
     meta.homepage = "https://github.com/GCBallesteros/jupytext.nvim";
   };
+  /*
   nvim-ipy = pkgs.vimUtils.buildVimPlugin {
-    name = "nvim-ipy";
+    pname = "nvim-ipy";
     version = "2021-09-23";
     src = pkgs.fetchFromGitHub {
         owner = "bfredl";
@@ -595,8 +639,9 @@
     };
     meta.homepage = "https://github.com/bfredl/nvim-ipy";
   };
+  */
   swenv-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "swenv.nvim";
+    pname = "swenv.nvim";
     version = "2023-12-13";
     src = pkgs.fetchFromGitHub {
         owner = "AckslD";
@@ -607,7 +652,7 @@
     meta.homepage = "https://github.com/AckslD/swenv.nvim";
   };
   f-string-toggle-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "f-string-toggle.nvim";
+    pname = "f-string-toggle.nvim";
     version = "2023-09-09";
     src = pkgs.fetchFromGitHub {
         owner = "roobert";
@@ -618,7 +663,7 @@
     meta.homepage = "https://github.com/roobert/f-string-toggle.nvim";
   };
   nvim-luaref = pkgs.vimUtils.buildVimPlugin {
-    name = "nvim-luareg";
+    pname = "nvim-luareg";
     version = "2022-02-17";
     src = pkgs.fetchFromGitHub {
         owner = "milisims";
@@ -629,7 +674,7 @@
     meta.homepage = "https://github.com/milisims/nvim-luaref";
   };
   codegpt-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "codegpt.nvim";
+    pname = "codegpt.nvim";
     version = "2023-05-01";
     src = pkgs.fetchFromGitHub {
         owner = "dpayne";
@@ -640,7 +685,7 @@
     meta.homepage = "https://github.com/dpayne/CodeGPT.nvim";
   };
   taskwarrior-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "taskwarrior.nvim";
+    pname = "taskwarrior.nvim";
     version = "2023-12-14";
     src = pkgs.fetchFromGitHub {
         owner = "ribelo";
@@ -651,7 +696,7 @@
     meta.homepage = "https://github.com/ribelo/taskwarrior.nvim";
   };
   xit-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "xit.nvim";
+    pname = "xit.nvim";
     version = "2023-12-30";
     src = pkgs.fetchFromGitHub {
         owner = "synaptiko";
@@ -662,7 +707,7 @@
     meta.homepage = "https://github.com/synaptiko/xit.nvim";
   };
   core-nvim = pkgs.vimUtils.buildVimPlugin {
-    name = "core.nvim";
+    pname = "core.nvim";
     version = "2023-10-12";
     src = pkgs.fetchFromGitHub {
         owner = "niuiic";

@@ -1,5 +1,5 @@
-comment = require("Comment")
-todo_comments = require("todo-comments")
+local comment = require("Comment")
+local todo_comments = require("todo-comments")
 
 return comment, todo_comments
 

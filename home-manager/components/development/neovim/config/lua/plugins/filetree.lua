@@ -1,4 +1,7 @@
-neotree = require("neo-tree")
+local neotree = require("neo-tree")
+local oil = require("oil")
+local genghis = require("genghis")
+
 neotree.setup({
     close_if_last_window = true, -- Close Neo-tree if it is the last window left in the tab
     popup_border_style = "rounded",
@@ -217,4 +220,6 @@ neotree.setup({
       }
     }
 })
-return neotree
+
+return neotree, oil, genghis
+

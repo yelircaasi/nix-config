@@ -1,4 +1,4 @@
-bufline = require("bufferline")
+local bufline = require("bufferline")
 
 return bufline
 

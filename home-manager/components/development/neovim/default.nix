@@ -1,7 +1,7 @@
 { inputs, pkgs, lib, ... }:
 let
   neovim-nightly = inputs.neovim-nightly-overlay.packages.${pkgs.system}.neovim;
-  custom = import ./plugins.nix { inherit pkgs lib; };
+  custom = import ./custom-plugins.nix { inherit pkgs lib; };
   py310 = pkgs.python310Packages;
   node = pkgs.nodePackages;
 in {
@@ -9,11 +9,13 @@ in {
     # miscelaneous external utils
     tree-sitter #nixos-unstable.tree-sitter 
     code-minimap #nixos-unstable.code-minimap
+    gawk
 
     # general-purpose language server
     efm-langserver           # diagnostic-languageserver
  
     # python language server + plugins
+    python310
     py310.python-lsp-server  # alt: node.pyright
     py310.pylsp-mypy
     py310.pyls-isort
@@ -24,6 +26,11 @@ in {
     py310.pylint
     py310.pytest-cov
     py310.coverage
+    py310.pynvim
+    #py310.jupyter-client
+    py310.jupyter
+    py310.ipython
+    py310.ipykernel
     black
     mypy
     
@@ -69,7 +76,6 @@ in {
       # ui general
       nui-nvim               # alt: dressing-nvim, guihua-lua
       noice-nvim
-      telescope-ui-select-nvim
       custom.popui-nvim
 
       # keybinding
@@ -80,6 +86,7 @@ in {
 
       # startscreen
       dashboard-nvim
+
       # colorscheme
       custom.schwarzwald
 
@@ -94,7 +101,7 @@ in {
       tabby-nvim
  
       # notifications
-      nvim-notify            # alt_fidget-nvim
+      nvim-notify            # alt: fidget-nvim
 
       # org (org-mode for nvim)
       custom.neorg    # alt: zk-nvim (or complement?), orgmode-nvim
@@ -106,7 +113,7 @@ in {
       # icons
       nvim-web-devicons
 
-      # file browsing
+    # file browsing
       neo-tree-nvim          # alts: fm-nvim (with xplr), nnn-vim,
       oil-nvim               #       triptych.nvim, tfm.nvim,
       custom.nvim-genghis    # nvim-tree-lua, nvim-tree-lua
@@ -119,7 +126,6 @@ in {
 
       # execution (code running, compiling)
       sniprun
-      custom.toggletasks-nvim       # jaq-nvim
       custom.code-runner-nvim  # alt: runner-nvim
       custom.compiler-nvim          # yabs-nvim
       custom.yarepl-nvim
@@ -127,41 +133,41 @@ in {
       molten-nvim
 
       # task runner
-      overseer-nvim          # vs-tasks
-
+      overseer-nvim               # vs-tasks
+      custom.toggletasks-nvim     # nvim-moonicipal, jaq-nvim
+ 
       # multiplexer, etc.
       smart-splits-nvim
-      custom.zellij-nav-nvim  # Navigator-nvim, #custom.zellij-nvim, nvim, neomux, tmux-nvim, tmux-awesome-manager-nvim, nvimux
+      custom.zellij-nvim     # (not working) custom.zellij-nav-nvim, Navigator-nvim, #, nvim, neomux, tmux-nvim, tmux-awesome-manager-nvim, nvimux
       custom.windex-nvim
-      
+
       # project and config management
       neoconf-nvim
       custom.projectmgr-nvim        # projections-nvim, workspaces-nvim, neoproj
-      custom.nvim-gfold-lua
       custom.memento-nvim
       nvim-config-local      # nvim-projectconfig
  
       # other popup, menu
       wilder-nvim
- 
-      # syntax highlighting
-      nvim-treesitter.withAllGrammars # nixos-unstable.vimPlugins.nvim-treesitter.withAllGrammars
+
+      # syntax highlighting - other
       custom.hlargs-nvim
 
-      # treesitter extensions
+      # treesitter and extensions
+      nvim-treesitter.withAllGrammars # nixos-unstable.vimPlugins.nvim-treesitter.withAllGrammars
       nvim-treesitter-context
       custom.agrolens-nvim
 
       # snippets
-      friendly-snippets
       luasnip
+      friendly-snippets
       ultisnips
       telescope-ultisnips-nvim
       nvim-snippy
  
       # lsp & related
-      custom.none-ls  # installing, but not being found at runtime; try latest version
       nvim-lspconfig
+      custom.none-ls  # installing, but not being found at runtime; try latest version
       lspkind-nvim
       efmls-configs-nvim     # diagnosticls-configs-nvim
       nlsp-settings-nvim
@@ -197,7 +203,7 @@ in {
       pretty-fold-nvim       # alt: fold-cycle-nvim, nvim-ufo, nvim-origima, 
 
       # testing and coverage
-      neotest                # alt: nvim-test
+      custom.neotest                # alt: nvim-test
       nvim-coverage
 
       # comments
@@ -226,8 +232,8 @@ in {
       renamer-nvim
       custom.yanky-nvim
       custom.sibling-swap-nvim
-      custom.moveline-nvim
-      custom.part-edit-nvim
+      custom.move-nvim        # alt: custom.moveline-nvim
+        #custom.part-edit-nvim
       boole-nvim
       sort-nvim
       smartcolumn-nvim        # alts: deadcolumn-nvim, virtcolumn-nvim 
@@ -237,13 +243,9 @@ in {
 
 
       # searching, fuzzy finding
-      custom.harpoon2
-      custom.spaceport-nvim
-      custom.telescope-alternate-nvim
-      custom.improved-search-nvim
-      custom.highlight-current-n-nvim         # hlsearch-nvim
-      custom.search-nvim
       telescope-nvim
+      custom.telescope-alternate-nvim
+      telescope-ui-select-nvim
       telescope-frecency-nvim
       telescope-zoxide
       telescope-fzf-native-nvim
@@ -255,8 +257,14 @@ in {
       telescope-media-files-nvim
       telescope-lsp-handlers-nvim    # ?
       telescope-live-grep-args-nvim  # ?
+      #custom.harpoon2
+      custom.marks-nvim
+      custom.spaceport-nvim
+      custom.improved-search-nvim
+      custom.highlight-current-n-nvim         # hlsearch-nvim
+      custom.search-nvim
       nvim-hlslens
-      auto-hlsearch-nvim
+      custom.hlsearch-nvim
 
       # search and replace
       substitute-nvim        # alts: search-repace-nvim, nvim-spectre
@@ -309,15 +317,16 @@ in {
       image-nvim
 
       # python
+      neotest-python
       nvim-dap-python
       custom.py-lsp-nvim
       custom.hydrovim
       custom.jupyter-kernel-nvim
       custom.jupytext-nvim
-      custom.nvim-ipy
+      #custom.nvim-ipy
       custom.swenv-nvim
       custom.f-string-toggle-nvim
-      nvim-treesitter-pyfold
+      nvim-treesitter-pyfold  # configured in treesitter file
       conjure
       cmp-conjure
 
@@ -348,7 +357,6 @@ in {
       vimtex
       cmp-latex-symbols
       nabla-nvim
-      telescope-nvim
  
       # plugin development, neovim internals
       neodev-nvim
@@ -369,7 +377,8 @@ in {
       # productivity
       custom.taskwarrior-nvim
       custom.xit-nvim
-
+/*
+ */
     ];
   };
 

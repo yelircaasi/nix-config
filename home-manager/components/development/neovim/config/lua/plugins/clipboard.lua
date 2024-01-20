@@ -1,5 +1,5 @@
-neoclip = require("neoclip")
-image_clipboard = require("clipboard-image")
+local neoclip = require("neoclip")
+local image_clipboard = require("clipboard-image")
 
 return neoclip, image_clipboard
 

@@ -1,5 +1,5 @@
+local devicons = require("nvim-web-devicons")
 
-devicons = require "nvim-web-devicons"
 devicons.setup {
     default = true;
    override = {
@@ -113,4 +113,6 @@ devicons.setup {
        }
    }
 }
+
 return devicons
+

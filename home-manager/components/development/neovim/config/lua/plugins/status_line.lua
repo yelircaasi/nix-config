@@ -1,5 +1,5 @@
-lualine = require("lualine")
-navic = require("nvim-navic")
+local lualine = require("lualine")
+local navic = require("nvim-navic")
 
 return lualine, navic
 

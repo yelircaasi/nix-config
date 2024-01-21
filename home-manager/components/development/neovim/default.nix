@@ -2,6 +2,7 @@
   inputs,
   pkgs,
   lib,
+  g,
   ...
 }: let
   neovim-nightly = inputs.neovim-nightly-overlay.packages.${pkgs.system}.neovim;
@@ -383,9 +384,9 @@ in {
       /**/
     ];
   };
-
-  xdg.configFile.nvim = {
-    source = ./config;
+  xdg.configFile."./nvim/init.lua".text = g.lib.readAndInterpolate g ./config/init.lua;
+  xdg.configFile."./nvim/lua" = {
+    source = ./config/lua;
     recursive = true;
   };
 }

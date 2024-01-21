@@ -72,11 +72,11 @@ require("plugins.productivity")
 require("schwarzwald").load()
 
 -- temporary overrides to be adjusted in color theme
-vim.cmd("highlight NormalFloat         guibg=#000800")
-vim.cmd("highlight NeoTreeEndOfBuffer  guibg=#000800 guifg=#000800")
-vim.cmd("highlight NeoTreeNormal       guibg=#000800")
-vim.cmd("highlight NeoTreeNormalNC     guibg=#000800")
-vim.cmd("highlight NeoTreeWinSeparator guibg=#000800")
-vim.cmd("highlight NeoTreeVertSplit    guibg=#900000")
-vim.cmd("highlight Terminal            guibg=#000800")
+vim.cmd("highlight NormalFloat         guibg=$C_NormalFloat$")
+vim.cmd("highlight NeoTreeEndOfBuffer  guibg=$C_NeoTreeEndOfBufferBg$ guifg=$C_NeoTreeEndOfBufferFg$")
+vim.cmd("highlight NeoTreeNormal       guibg=$C_NeoTreeNormal$")
+vim.cmd("highlight NeoTreeNormalNC     guibg=$C_NeoTreeNormalNC$")
+vim.cmd("highlight NeoTreeWinSeparator guibg=$C_NeoTreeWinSeparator$")
+vim.cmd("highlight NeoTreeVertSplit    guibg=$C_NeoTreeVertSplit$")
+vim.cmd("highlight Terminal            guibg=$C_Terminal$")
 

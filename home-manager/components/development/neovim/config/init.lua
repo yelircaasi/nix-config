@@ -70,6 +70,7 @@ require("plugins.productivity")
 
 -- color theme
 require("schwarzwald").load()
+-- require("colors").load()
 
 -- temporary overrides to be adjusted in color theme
 vim.cmd("highlight NormalFloat         guibg=$C_NormalFloat$")

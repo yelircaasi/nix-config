@@ -49,3 +49,5 @@ vim_opts({
     },
 })
 
+vim.loader.enable()
+

@@ -16,8 +16,6 @@
       url = "github:nix-community/home-manager/release-23.11";
       inputs.nixpkgs.follows = "nixpkgs";
     };
-
-    # nix-colors.url = "github:misterio77/nix-colors";
   };
 
   outputs = {
@@ -29,32 +27,59 @@
     inherit (self) outputs;
     overlays = [inputs.neovim-nightly-overlay.overlay];
     g = import ./global-inputs;
+
+    makeNixosConfig = {
+      name,
+      shell ? "bash",
+      windowManager ? null,
+    } @ deviceConfig:
+      nixpkgs.lib.nixosSystem {
+        specialArgs = {inherit inputs outputs g deviceConfig;};
+        modules = [./nixos/${name}-configuration.nix];
+      };
+
+    makeHomeManagerConfig = {
+      name,
+      shell ? "bash",
+      windowManager ? null,
+    } @ deviceConfig:
+      home-manager.lib.homeManagerConfiguration {
+        pkgs = nixpkgs.legacyPackages.x86_64-linux;
+        extraSpecialArgs = {inherit inputs outputs g deviceConfig;};
+        modules = [./home-manager/${name}.nix];
+      };
+
+    makeNixosConfigurations = deviceDeclarationList:
+      builtins.foldl'
+      (acc: configSet: let name = configSet.name; in acc // {"${name}" = (makeNixosConfig configSet);})
+      {}
+      deviceDeclarationList;
+
+    makeHomeManagerConfigurations = deviceDeclarationList:
+      builtins.foldl'
+      (acc: configSet: let name = configSet.name; in acc // {"${name}" = (makeHomeManagerConfig configSet);})
+      {}
+      deviceDeclarationList;
+
+    deviceDeclarations = [
+      {
+        name = "betsy";
+        shell = "bash";
+        windowManager = "hyprland";
+      }
+      {
+        name = "hank";
+        shell = "bash";
+        windowManager = "i3";
+      }
+      {
+        name = "malina";
+        shell = "bash";
+        windowManager = null;
+      }
+    ];
   in {
-    nixosConfigurations = {
-      betsy = nixpkgs.lib.nixosSystem {
-        specialArgs = {inherit inputs outputs g;};
-        # > Our main nixos configuration file <
-        modules = [./nixos/betsy-configuration.nix];
-      };
-      hank = nixpkgs.lib.nixosSystem {
-        specialArgs = {inherit inputs outputs g;};
-        # > Our main nixos configuration file <
-        modules = [./nixos/hank-configuration.nix];
-      };
-    };
-
-    homeConfigurations = {
-      "betsy" = home-manager.lib.homeManagerConfiguration {
-        pkgs = nixpkgs.legacyPackages.x86_64-linux;
-        extraSpecialArgs = {inherit inputs outputs g;};
-        modules = [./home-manager/betsy.nix];
-      };
-
-      "hank" = home-manager.lib.homeManagerConfiguration {
-        pkgs = nixpkgs.legacyPackages.x86_64-linux;
-        extraSpecialArgs = {inherit inputs outputs g;};
-        modules = [./home-manager/hank.nix];
-      };
-    };
+    nixosConfigurations = makeNixosConfigurations deviceDeclarations;
+    homeConfigurations = makeHomeManagerConfigurations deviceDeclarations;
   };
 }

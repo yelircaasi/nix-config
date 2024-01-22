@@ -4,6 +4,8 @@
   config,
   pkgs,
   custom,
+  g,
+  deviceConfig,
   ...
 }: {
   programs.wezterm.enable = lib.mkDefault true;

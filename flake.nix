@@ -27,39 +27,7 @@
     inherit (self) outputs;
     overlays = [inputs.neovim-nightly-overlay.overlay];
     g = import ./global-inputs;
-
-    makeNixosConfig = {
-      name,
-      shell ? "bash",
-      windowManager ? null,
-    } @ deviceConfig:
-      nixpkgs.lib.nixosSystem {
-        specialArgs = {inherit inputs outputs g deviceConfig;};
-        modules = [./nixos/${name}-configuration.nix];
-      };
-
-    makeHomeManagerConfig = {
-      name,
-      shell ? "bash",
-      windowManager ? null,
-    } @ deviceConfig:
-      home-manager.lib.homeManagerConfiguration {
-        pkgs = nixpkgs.legacyPackages.x86_64-linux;
-        extraSpecialArgs = {inherit inputs outputs g deviceConfig;};
-        modules = [./home-manager/${name}.nix];
-      };
-
-    makeNixosConfigurations = deviceDeclarationList:
-      builtins.foldl'
-      (acc: configSet: let name = configSet.name; in acc // {"${name}" = (makeNixosConfig configSet);})
-      {}
-      deviceDeclarationList;
-
-    makeHomeManagerConfigurations = deviceDeclarationList:
-      builtins.foldl'
-      (acc: configSet: let name = configSet.name; in acc // {"${name}" = (makeHomeManagerConfig configSet);})
-      {}
-      deviceDeclarationList;
+    helpers = import ./helper-functions.nix {inherit nixpkgs home-manager g inputs outputs;};
 
     deviceDeclarations = [
       {
@@ -79,7 +47,7 @@
       }
     ];
   in {
-    nixosConfigurations = makeNixosConfigurations deviceDeclarations;
-    homeConfigurations = makeHomeManagerConfigurations deviceDeclarations;
+    nixosConfigurations = helpers.makeNixosConfigurations deviceDeclarations;
+    homeConfigurations = helpers.makeHomeManagerConfigurations deviceDeclarations;
   };
 }

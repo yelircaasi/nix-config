@@ -1,17 +1,14 @@
 {
-  nixpkgs,
-  home-manager,
-  g,
   inputs,
-  outputs,
+  g,
 }: rec {
   makeNixosConfig = {
     name,
     shell ? "bash",
     windowManager ? null,
   } @ deviceConfig:
-    nixpkgs.lib.nixosSystem {
-      specialArgs = {inherit inputs outputs g deviceConfig;};
+    inputs.nixpkgs.lib.nixosSystem {
+      specialArgs = {inherit inputs g deviceConfig;};
       modules = [./nixos/${name}-configuration.nix];
     };
 
@@ -20,9 +17,9 @@
     shell ? "bash",
     windowManager ? null,
   } @ deviceConfig:
-    home-manager.lib.homeManagerConfiguration {
-      pkgs = nixpkgs.legacyPackages.x86_64-linux;
-      extraSpecialArgs = {inherit inputs outputs g deviceConfig;};
+    inputs.home-manager.lib.homeManagerConfiguration {
+      pkgs = inputs.nixpkgs.legacyPackages.x86_64-linux;
+      extraSpecialArgs = {inherit inputs g deviceConfig;};
       modules = [./home-manager/${name}.nix];
     };
 

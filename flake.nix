@@ -24,10 +24,9 @@
     home-manager,
     ...
   } @ inputs: let
-    inherit (self) outputs;
-    overlays = [inputs.neovim-nightly-overlay.overlay];
+
     g = import ./global-inputs;
-    helpers = import ./helper-functions.nix {inherit nixpkgs home-manager g inputs outputs;};
+    helpers = import ./helper-functions.nix {inherit inputs g;};
 
     deviceDeclarations = [
       {
@@ -46,6 +45,7 @@
         windowManager = null;
       }
     ];
+
   in {
     nixosConfigurations = helpers.makeNixosConfigurations deviceDeclarations;
     homeConfigurations = helpers.makeHomeManagerConfigurations deviceDeclarations;

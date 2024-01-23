@@ -1,0 +1,141 @@
+
+# ~/.bashrc: executed by bash(1) for non-login shells.
+# see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
+# for examples
+
+# don't put duplicate lines or lines starting with space in the history.
+# See bash(1) for more options
+HISTCONTROL=ignoreboth
+
+# append to the history file, don't overwrite it
+shopt -s histappend
+
+# for setting history length see HISTSIZE and HISTFILESIZE in bash(1)
+HISTSIZE=1000
+HISTFILESIZE=2000
+
+# check the window size after each command and, if necessary,
+# update the values of LINES and COLUMNS.
+shopt -s checkwinsize
+
+# If set, the pattern "**" used in a pathname expansion context will
+# match all files and zero or more directories and subdirectories.
+#shopt -s globstar
+
+# make less more friendly for non-text input files, see lesspipe(1)
+[ -x /usr/bin/lesspipe ] && eval "$(SHELL=/bin/sh lesspipe)"
+
+# enable color support of ls and also add handy aliases
+if [ -x /usr/bin/dircolors ]; then
+        test -r ~/.dircolors && eval "$(dircolors -b ~/.dircolors)" || eval "$(dircolors -b)"
+        alias ls='ls --color=auto'
+        #alias dir='dir --color=auto'
+        #alias vdir='vdir --color=auto'
+
+        alias grep='grep --color=auto'
+        alias fgrep='fgrep --color=auto'
+        alias egrep='egrep --color=auto'
+fi
+
+# colored GCC warnings and errors
+#export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
+
+# some more ls aliases
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+
+# Add an "alert" alias for long running commands.  Use like so:
+#   sleep 10; alert
+
+# Alias definitions.
+# You may want to put all your additions into a separate file like
+# ~/.bash_aliases, instead of adding them here directly.
+# See /usr/share/doc/bash-doc/examples in the bash-doc package.
+
+if [ -f ~/.bash_aliases ]; then
+        . ~/.bash_aliases
+fi
+
+if command -v zoxide >/dev/null; then
+        eval "$(zoxide init bash)"
+fi
+. "$HOME/.cargo/env"
+
+export PATH="/home/isaac/.nix-profile/bin:/home/isaac/.local/bin:/home/isaac/.local/go:$PATH"
+#export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/usr/local/lib:/usr/lib/x86_64-linux-gnu"
+export XCURSOR_PATH="/usr/share/icons/:$XCURSOR_PATH"
+export EDITOR="nvim"
+
+
+export XDG_CONFIG_DIR="$HOME/.config"
+export XDG_DESKTOP_DIR="$HOME/Temporary/Empty"
+export XDG_DOWNLOAD_DIR="$HOME/Temporary"
+export XDG_TEMPLATES_DIR="$HOME/Learning/templates"
+export XDG_PUBLICSHARE_DIR="$HOME/Temporary/Public"
+export XDG_DOCUMENTS_DIR="$HOME/Temporary"
+export XDG_MUSIC_DIR="$HOME/Media/Music"
+export XDG_PICTURES_DIR="$HOME/Media/Pictures"
+#export XDG_VIDEOS_DIR="$HOME/Media/Videos"
+export cf="$HOME/.config"
+
+
+export DOCKER_OPTS="-it --rm --dns 8.8.8.8 --dns 8.8.4.4"
+#export HTTP_PROXY="http://127.0.0.1:3128/"
+#export http_proxy="http://127.0.0.1:3128/"
+
+# for icons
+export XCURSOR_PATH="$HOME/.icons:$HOME/.nix-profile/share/icons:$XCURSOR_PATH"
+
+cl() {
+    cd $1 && ls $2 $3
+}
+
+# single-key aliases
+alias c="clear"
+
+# enable color support of ls and also add handy aliases
+if [ -x /usr/bin/dircolors ]; then
+    test -r ~/.dircolors && eval "$(dircolors -b ~/.dircolors)" || eval "$(dircolors -b)"
+    alias ls='ls --color=auto'
+    #alias dir='dir --color=auto'
+    #alias vdir='vdir --color=auto'
+
+    alias grep='grep --color=auto'
+    alias fgrep='fgrep --color=auto'
+    alias egrep='egrep --color=auto'
+fi
+
+# colored GCC warnings and errors
+#export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
+
+# some more ls aliases
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+
+# common commands
+alias chog="sudo chown -R isaac . & sudo chgrp -R isaac . "
+
+# Add an "alert" alias for long running commands.  Use like so:
+#   sleep 10; alert
+
+alias vim="nvim"
+alias vi="/usr/bin/vimi.tiny"
+alias rezsh="source ~/.zshrc"
+alias zshrc="nvim ~/.zshrc"
+alias i3c="nvim ~/.config/i3/config"
+alias i3cc="code ~/.config/i3/config"
+alias strshp="nvim ~/.config/starship.toml"
+alias wztrm="nvim ~/.config/wezterm/wezterm.lua"
+# docker aliases
+alias dri="docker run $DOCKER_OPTS"
+alias dric="docker run --runtime=nvidia --gpus=all $DOCKER_OPTS"
+alias dockerlsi="docker image list -f \"dangling=false\""
+alias dockerrmdi="docker rmi $(docker images -f "dangling=true" -q)"
+
+
+alias zshalias="nvim $HOME/.config/zsh/aliases.zsh"
+alias zshvar="nvim $HOME/.config/zsh/variables.zsh"
+alias zshfunc="nvim $HOME/.config/zsh/functions.zsh"
+alias zshprompt="nvim $HOME/.config/zsh/prompt.zsh"

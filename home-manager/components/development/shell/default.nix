@@ -8,7 +8,7 @@
   ...
 }: {
   imports = [
-    ./zsh
+    #./zsh
   ];
 
   # nixpkgs = {
@@ -58,9 +58,12 @@
     ga = "git add .";
     alej = "alejandra";
   };
+  
+  home.file."./.bashrc".source = ./bashrc ;
 
   home.packages = with pkgs; [
     bash
+    #glibc
 
     (
       writers.writeBashBin

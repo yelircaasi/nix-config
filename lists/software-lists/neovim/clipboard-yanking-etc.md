@@ -1,0 +1,10 @@
+- [nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup)
+- [smartyank.nvim](https://github.com/ibhagwan/smartyank.nvim)
+- [nvim-neoclip.lua](https://github.com/AckslD/nvim-neoclip.lua)
+- [yanky.nvim](https://github.com/gbprod/yanky.nvim)
+- [ctrlp-yank](https://github.com/wsdjeg/ctrlp-yank)
+- [clipboard-image.nvim](https://github.com/ekickx/clipboard-image.nvim)
+- [vim-swap](https://github.com/machakann/vim-swap)
+- [vim-oscyank](https://github.com/ojroques/vim-oscyank)
+   [UnconditionalPaste yank and paste](https://github.com/vim-scripts/UnconditionalPaste yank and paste)
+

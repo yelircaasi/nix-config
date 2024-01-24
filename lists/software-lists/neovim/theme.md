@@ -1,0 +1,130 @@
+### themes
+- [Abstract-cs](https://github.com/Abstract-IDE/Abstract-cs)
+- [vim-aylin](https://github.com/AhmedAbdulrahman/vim-aylin)
+- [tokyonight.nvim](https://github.com/folke/tokyonight.nvim)
+- [no-clown-fiesta.nvim](https://github.com/aktersnurra/no-clown-fiesta.nvim)
+- [nordic.nvim](https://github.com/AlexvZyl/nordic.nvim)
+- [nordic.nvim](https://github.com/andersevenrud/nordic.nvim)
+- [telescope-themes](https://github.com/andrew-george/telescope-themes)
+- [nord-vim](https://github.com/arcticicestudio/nord-vim)
+- [astrotheme](https://github.com/AstroNvim/astrotheme)
+- [nvim-enfocado](https://github.com/artart222/nvim-enfocado)
+- [moonbow.nvim](https://github.com/arturgoms/moonbow.nvim)
+- [ayu-vim](https://github.com/ayu-theme/ayu-vim)
+- [nvim](https://github.com/catppuccin/nvim) (catpuccin)
+- [aura-theme](https://github.com/baliestri/aura-theme)
+- [vim.git embark-theme](https://github.com/embark-theme/vim.git embark-theme)
+- [theme-vim](https://github.com/hardhackerlabs/theme-vim)
+- [papercolor-theme](https://github.com/NLKNguyen/papercolor-theme)
+- [github-nvim-theme](https://github.com/projekt0n/github-nvim-theme)
+- [vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors)
+- [vim-nightfly-colors](https://github.com/bluz71/vim-nightfly-colors)
+- [vim-nightfly-guicolors](https://github.com/bluz71/vim-nightfly-guicolors)
+- [iceberg.vim](https://github.com/cocopon/iceberg.vim)
+- [nvim-biscuits](https://github.com/code-biscuits/nvim-biscuits)
+- [vim](https://github.com/dracula/vim)
+- [palenight.vim](https://github.com/drewtempelmeyer/palenight.vim)
+- [neosolarized.nvim](https://github.com/svrana/neosolarized.nvim)
+- [grail](https://github.com/chama-chomo/grail)
+- [gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim)
+- [nightfox.nvim](https://github.com/EdenEast/nightfox.nvim)
+- [onedark.nvim](https://github.com/ful1e5/onedark.nvim)
+- [molokai](https://github.com/Gabirel/molokai)
+- [ctrlp-colorscheme](https://github.com/hara/ctrlp-colorscheme)
+- [NeoSolarized](https://github.com/icymind/NeoSolarized)
+- [nvim-juliana](https://github.com/kaiuri/nvim-juliana)
+- [onedark.vim](https://github.com/joshdick/onedark.vim)
+- [oh-my-monokai.nvim](https://github.com/justinsgithub/oh-my-monokai.nvim)
+- [seoul](https://github.com/junegunn/seoul)256.vim.git
+- [13824-naysayer88](https://plugins.jetbrains.com/plugin/13824-naysayer88) not found, but outstanding color theme!
+- [lvim-colorscheme](https://github.com/lvim-tech/lvim-colorscheme)
+- [neotest-deno](https://github.com/markemmons/neotest-deno)
+- [zenbones.nvim](https://github.com/mcchrish/zenbones.nvim)
+- [vscode.nvim](https://github.com/Mofiqul/vscode.nvim)
+- [dracula.nvim](https://github.com/Mofiqul/dracula.nvim)
+- [tokyodark.nvim](https://github.com/tiagovla/tokyodark.nvim)
+- [monokai.nvim](https://github.com/tanvirtin/monokai.nvim)
+- [molokai](https://github.com/tomasr/molokai)
+- [tokyonight.nvim](https://github.com/Zeioth/tokyonight.nvim) theme
+- [miasma.nvim](https://github.com/xero/miasma.nvim)
+- [newpaper.nvim](https://github.com/yorik1984/newpaper.nvim)
+- [oh-lucy.nvim](https://github.com/Yazeed1s/oh-lucy.nvim)
+- [hydrangea-vim](https://github.com/yuttie/hydrangea-vim)
+- [monokai-pro.nvim](https://github.com/loctvl842/monokai-pro.nvim)
+- [zazen](https://github.com/zaki/zazen) ﻿
+- [vim-handmade-hero](https://github.com/CreaturePhil/vim-handmade-hero)
+- [colorschemes](https://github.com/lunarvim/colorschemes)
+- [horizon.nvim](https://github.com/lunarvim/horizon.nvim)
+- [vim-solarized](https://github.com/lifepillar/vim-solarized)8.git
+- [mellow.nvim](https://github.com/kvrohit/mellow.nvim)
+- [awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes)
+- [synthwave](https://github.com/lunarvim/synthwave)84.nvim.git
+- [onedark.nvim](https://github.com/navarasu/onedark.nvim)
+- [everforest-nvim](https://github.com/neanias/everforest-nvim)
+- [darkplus.nvim](https://github.com/lunarvim/darkplus.nvim)
+- [onedark.nvim](https://github.com/lukas-reineke/onedark.nvim)
+- [onedarker.nvim](https://github.com/lunarvim/onedarker.nvim)
+- [jellybeans.vim](https://github.com/nanotech/jellybeans.vim)
+- [neovim-ayu](https://github.com/Shatur/neovim-ayu)
+- [material.nvim](https://github.com/marko-cerovac/material.nvim)
+- [github-colors](https://github.com/lourenci/github-colors)
+- [neo-hybrid.vim](https://github.com/rafi/neo-hybrid.vim)
+- [primer.nvim](https://github.com/LunarVim/primer.nvim)
+- [kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim)
+- [gruvbox-baby](https://github.com/luisiacc/gruvbox-baby)
+- [lunar.nvim](https://github.com/lunarvim/lunar.nvim)
+- [oxocarbon.nvim](https://github.com/nyoom-engineering/oxocarbon.nvim)
+- [night-owl.nvim](https://github.com/oxfist/night-owl.nvim)
+- [onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim)
+- [sonokai](https://github.com/sainnhe/sonokai)
+- [gruvbox-material](https://github.com/sainnhe/gruvbox-material)
+- [edge](https://github.com/sainnhe/edge)
+- [nvim-tundra](https://github.com/sam4llis/nvim-tundra)
+- [neovim](https://github.com/rose-pine/neovim)
+- [onenord.nvim](https://github.com/rmehri01/onenord.nvim)
+- [nord.nvim](https://github.com/shaunsingh/nord.nvim)
+- [srcery-vim](https://github.com/srcery-colors/srcery-vim)
+- [vim-material](https://github.com/SpaceVim/vim-material)
+- [vim-hybrid](https://github.com/w0ng/vim-hybrid)
+- [bluloco.nvim](https://github.com/uloco/bluloco.nvim)
+- [color-schemes](https://neoland.dev/color-schemes) 
+- [bamboo.nvim](https://github.com/ribru17/bamboo.nvim)
+- [nightsky.vim](https://github.com/nvimdev/nightsky.vim)
+- [oceanic-material](https://github.com/nvimdev/oceanic-material) 
+- [zephyr-nvim](https://github.com/nvimdev/zephyr-nvim)
+- [vim-one](https://github.com/rakr/vim-one)
+- [mellifluous.nvim](https://github.com/ramojus/mellifluous.nvim)
+- [sweetie.nvim](https://github.com/NTBBloodbath/sweetie.nvim)
+- ## Blue Base
+- ### Nord
+- @@@
+- ### Material
+- @@@
+- ### Tokyo Night
+- @@@
+- [nvim](https://github.com/catppuccin/nvim)
+- ### Neon
+- [neon](https://github.com/rafamadriz/neon)
+- ### Rose pine
+- @@@
+- ### Dracula
+- @@@
+- ### Carbon
+- @@@
+- ### Doom
+- ### VS Code
+- @@@
+- ## Warm Color Base
+- ### Gruvbox
+- @@@
+- ### Everblush
+- [everblush.nvim](https://github.com/Everblush/everblush.nvim)
+- ## Black Base
+- ### Onedark
+- @@@
+- ### GitHub
+- @@@
+- ### Hybrid
+- ### Melange
+- [melange-nvim](https://github.com/savq/melange-nvim)
+ 

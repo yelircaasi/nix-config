@@ -733,3 +733,62 @@
 - [] [typst.nvim](https://github.com/SeniorMars/typst.nvim)
 - [] [render.nvim](https://github.com/SeniorMars/render.nvim)
 - [] [typst-preview.nvim](https://github.com/niuiic/typst-preview.nvim)
+
+
+#### [Neovim Lua Development](https://yutkat.github.io/my-neovim-pluginlist/#neovim-lua-development)
+- ## Lua Development
+- ### Plugin Template
+- [nvim-plugin-template](https://github.com/ellisonleao/nvim-plugin-template)
+- [neovim-plugin-boilerplate](https://github.com/shortcuts/neovim-plugin-boilerplate)
+- [nvim-lua-plugin-template](https://github.com/nvim-lua/nvim-lua-plugin-template)
+- [plugin-template.nvim](https://github.com/m00qek/plugin-template.nvim)
+- ### LSP
+- [lua-language-server](https://github.com/sumneko/lua-language-server)
+- ### Lint
+- [selene](https://github.com/Kampfkarren/selene)
+- [luacheck](https://github.com/lunarmodules/luacheck)
+- ### Formatter
+- [StyLua](https://github.com/JohnnyMorganz/StyLua)
+- [LuaFormatter](https://github.com/Koihik/LuaFormatter)
+- ### LuaRocks
+- @@@
+- [rocks-git.nvim](https://github.com/nvim-neorocks/rocks-git.nvim)
+- ### GitHub Actions
+- [lua-typecheck-action](https://github.com/mrcjkb/lua-typecheck-action)
+- ## Neovim Lua Development
+- @@@
+- [lreload.nvim](https://github.com/notomo/lreload.nvim)
+- [tracebundler.nvim](https://github.com/notomo/tracebundler.nvim)
+- ## Neovim Lua REPL
+- @@@
+- [nrepl.nvim](https://github.com/ii14/nrepl.nvim)
+- ## Development Tools
+- [nlua.nvim](https://github.com/tjdevries/nlua.nvim)
+- ## Log
+- [debuglog](https://github.com/smartpde/debuglog)
+- ## Print
+- [lua-schema.nvim](https://github.com/dokwork/lua-schema.nvim)
+- ## Debug
+- [debugwin.nvim](https://github.com/woosaaahh/debugwin.nvim)
+- ## Testing
+- [plenary.nvim(PlenaryBustedDirectory)](https://github.com/nvim-lua/plenary.nvim)
+- [vusted](https://github.com/notomo/vusted)
+- [runes.nvim](https://github.com/hkupty/runes.nvim)
+- [keymap-tester.nvim](https://github.com/Sam-programs/keymap-tester.nvim)
+- ## Help
+- [mini.doc](https://github.com/echasnovski/mini.doc)
+- ## runtimepath
+- [runtimetable.nvim](https://github.com/notomo/runtimetable.nvim)
+- ## Fennel
+- [aniseed](https://github.com/Olical/aniseed)
+- [zest.nvim](https://github.com/tsbohc/zest.nvim)
+- [hibiscus.nvim](https://github.com/udayvir-singh/hibiscus.nvim)
+- [nvim-antifennel](https://github.com/beardedsakimonkey/nvim-antifennel)
+- [fennel-repl.nvim](https://github.com/gpanders/fennel-repl.nvim)
+- [nvim-laurel](https://github.com/aileot/nvim-laurel)
+- [nfnl](https://github.com/Olical/nfnl)
+- [fennel-repl.nvim](https://github.com/HiPhish/fennel-repl.nvim)
+- ## Rust
+- ## FFI
+- [nvim-oxi](https://github.com/noib3/nvim-oxi)
+

@@ -42,4 +42,11 @@
 - [renamer.nvim](https://github.com/filipdutescu/renamer.nvim)
 - [muren.nvim](https://github.com/AckslD/muren.nvim)
    [lvim-move](https://github.com/lvim-tech/lvim-move)
+## null-ls fork
+- [null-ls.nvim](https://github.com/neovim-stuff/null-ls.nvim)
+- [null-ls.nvim](https://github.com/edanisko/null-ls.nvim)
+### Rename
+- [inc-rename.nvim](https://github.com/smjonas/inc-rename.nvim)
+- [treesitter-renamer.nvim](https://github.com/metalelf0/treesitter-renamer.nvim)
+- [neo-rename.nvim](https://github.com/luckasRanarison/neo-rename.nvim)
 

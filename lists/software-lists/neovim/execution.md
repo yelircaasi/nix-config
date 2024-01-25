@@ -16,4 +16,9 @@
 - [vim-slime: A vim plugin to give you some slime. (Emacs)](https://github.com/jpalardy/vim-slime)
 - [iron.nvim](https://github.com/milanglacier/iron.nvim)
  [lab.nvim](https://github.com/0x100101/lab.nvim)
+### notebook
+- [jupytext.vim](https://github.com/goerz/jupytext.vim)
+   [jupyter-vim](https://github.com/jupyter-vim/jupyter-vim)
+- [magma-nvim](https://github.com/meatballs/magma-nvim)
+- [vim-jukit](https://github.com/luk400/vim-jukit)
 

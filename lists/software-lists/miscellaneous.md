@@ -14,6 +14,7 @@
 * [undollar](https://github.com/xtyrrell/undollar) - undollar bites the dollar sign off the tip of the command you just pasted into your terminal
 * [Decoder](https://apps.gnome.org/app/com.belmoussaoui.Decoder/) - Fancy yet simple QR Codes scanner and generator.
 * [pick-color-picker](https://kryogenix.org/code/pick/)
+- [utf8.nvim](https://github.com/uga-rosa/utf8.nvim)
 
 
 ## Books and Reading
@@ -330,3 +331,11 @@ GUI LaTeX Editor
 * [monaco-editor](https://github.com/microsoft/monaco-editor) - Github code repository for underlying browser-based editor - hack around with
 * [codebox](https://github.com/CodeboxIDE/codebox) - just ack around with, check out
 * [CoCalc](https://cocalc.com/): Lots of free software pre-installed, to chat, collaborate, develop, program, publish, research, share, teach, in C++, HTML, Julia, Jupyter, LaTeX, Markdown, Python, R, SageMath, Scala, … - just check out
+## Luarock
+- [vim2rockspec](https://github.com/teto/vim2rockspec)
+#### [Service](https://yutkat.github.io/my-neovim-pluginlist/#service)
+- [nvim-docsearch](https://github.com/dzfrias/nvim-docsearch)
+## Config share
+- [dotfyle](https://github.com/codicocodes/dotfyle)
+- drawing / other special effects
+- [nabla.nvim](https://github.com/jbyuki/nabla.nvim)

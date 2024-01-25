@@ -37,3 +37,5 @@
 - [bye-nerdfont.nvim](https://github.com/dullmode/bye-nerdfont.nvim)
 - [fontresizer.nvim](https://github.com/abcdefg233/fontresizer.nvim)
 
+- [nvim-spinetta](https://github.com/javio7/nvim-spinetta)
+

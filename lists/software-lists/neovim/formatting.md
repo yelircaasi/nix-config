@@ -38,4 +38,7 @@
 - [guard.nvim) → [guard-collection](https://github.com/nvimdev/guard-collection)
  
 - [format-installer.nvim](https://github.com/PlatyPew/format-installer.nvim)
+### Formatting
+- [nvim-type-fmt](https://github.com/yioneko/nvim-type-fmt)
+- [lsp-query-format.nvim](https://github.com/aznhe21/lsp-query-format.nvim)
 

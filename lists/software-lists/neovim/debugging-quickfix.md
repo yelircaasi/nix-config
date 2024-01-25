@@ -32,4 +32,15 @@
 - [turbosalva.nvim](https://github.com/SFToro/turbosalva.nvim)
 ### stack trace analyze
 - [infer.nvim](https://github.com/vigoux/infer.nvim)
+    
+- [qf_helper.nvim](https://github.com/stevearc/qf_helper.nvim)
+- [qf.nvim](https://github.com/ten3roberts/qf.nvim)
+- [qfheight.nvim](https://github.com/delphinus/qfheight.nvim)
+- [NeoWell.lua](https://github.com/nyngwang/NeoWell.lua)
+- [quickfix_actually.nvim](https://github.com/izo0x90/quickfix_actually.nvim)
+- [unionbuf.nvim](https://github.com/notomo/unionbuf.nvim)
+- [qfview.nvim](https://github.com/ashfinal/qfview.nvim)
+- [qf-virtual-text.nvim](https://github.com/hfn92/qf-virtual-text.nvim)
+- ### Syntax
+- [qf-format.nvim](https://github.com/BenSeefeldt/qf-format.nvim)
 

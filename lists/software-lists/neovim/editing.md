@@ -316,4 +316,49 @@
 - [nvim-multi-cursor](https://github.com/lincheney/nvim-multi-cursor)
 - ## Incremental selection
 - [nvim-treesitter(Incremental selection)](https://github.com/nvim-treesitter/nvim-treesitter)
+- jumping / within-file navigation / peeking
+- [vim-move](https://github.com/matze/vim-move)
+- [ctrlp-jumps](https://github.com/DeaR/ctrlp-jumps)
+- [numb.nvim](https://github.com/nacro90/numb.nvim)
+- [quick-scope](https://github.com/kepbod/quick-scope)
+- [pounce.nvim](https://github.com/rlane/pounce.nvim)
+- ## Jump
+- [curstr.nvim](https://github.com/notomo/curstr.nvim)
+- [nvim-better-n](https://github.com/jonatan-branting/nvim-better-n)
+- [nvim-jump-mode](https://github.com/rwblokzijl/nvim-jump-mode)
+- [squirrel.nvim](https://github.com/xiaoshihou514/squirrel.nvim)
+- ### Error
+- [error-jump.nvim](https://github.com/Dr-42/error-jump.nvim)
+- ### Brackets
+- [tabtree.nvim](https://github.com/roobert/tabtree.nvim)
+#### [Macro](https://yutkat.github.io/my-neovim-pluginlist/#macro)
+- [persistent-macros.nvim](https://github.com/kensleDev/persistent-macros.nvim)
+- [bookmacro](https://github.com/bignos/bookmacro)
+- [macrothis.nvim](https://github.com/desdic/macrothis.nvim)
+- [recursive-macro.nvim](https://github.com/jake-stewart/recursive-macro.nvim)
+- [telescope-macros.nvim](https://github.com/1riz/telescope-macros.nvim)
+- [nvim-macroni](https://github.com/jesseleite/nvim-macroni)
+- [ma-pur-ma.nvim](https://github.com/FredTheDino/ma-pur-ma.nvim)
+- ### Word Motion
+- [wb-only-current-line.nvim](https://github.com/yutkat/wb-only-current-line.nvim)
+### LinkedEditingRange
+- [nvim-linkedit](https://github.com/hrsh7th/nvim-linkedit)
+- ### Jump number
+- [refgo.nvim](https://github.com/prichrd/refgo.nvim)
+- ### Go to File
+- [lua-gf.nvim](https://github.com/rohanorton/lua-gf.nvim)
+- ### Delete word
+- [delete-word-to-chars.nvim](https://github.com/yutkat/delete-word-to-chars.nvim)
+- [ Join](https://yutkat.github.io/my-neovim-pluginlist/#split--join)
+- [joinery.nvim](https://github.com/kizza/joinery.nvim)
+- [join.nvim](https://github.com/uga-rosa/join.nvim)
+- [interlaced.nvim](https://github.com/tanloong/interlaced.nvim)
+- ### Edit History
+- [edit-list.nvim](https://github.com/Sharonex/edit-list.nvim)
+- [timewarp.nvim](https://github.com/l-bowman/timewarp.nvim)
+- selection
+- [wildfire.nvim](https://github.com/sustech-data/wildfire.nvim)
+- [vim-highlighturl](https://github.com/itchyny/vim-highlighturl)
+- [wildfire.vim](https://github.com/gcmt/wildfire.vim)
+- [vim-expand-region](https://github.com/terryma/vim-expand-region)
 

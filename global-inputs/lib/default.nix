@@ -6,7 +6,7 @@ let
   };
   findAllPlaceholders = fileString: getMatches (splitFileString fileString);
   getNewValues = globalSet: placeholderList: b.map (lookUpPlaceholder globalSet) placeholderList;
-  splitFileString = fileString: (b.split "([$][CK]_[[:alnum:]]*[$])" fileString);
+  splitFileString = fileString: (b.split "([$][CK]_[[:alnum:]_]*[$])" fileString);
   getMatches = splitList: b.map b.head (filterMatches splitList);
   filterMatches = matchList: b.filter (item: (b.typeOf item) == "list") matchList;
   stripPlaceholder = phString: b.substring 3 (b.stringLength phString - 4) phString;

@@ -170,4 +170,6 @@
 - ### access control
 - [gatekeeper.nvim](https://github.com/augustocdias/gatekeeper.nvim)
 - [bufignore.nvim](https://github.com/sQVe/bufignore.nvim)
+-- ## Buffer
+- [libbuf.nvim](https://github.com/matu3ba/libbuf.nvim)
 

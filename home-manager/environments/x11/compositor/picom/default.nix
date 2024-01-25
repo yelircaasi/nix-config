@@ -1,5 +1,5 @@
 {inputs, ...}: {
-  xsession.windowManager.i3.enable = true;
+  #xsession.windowManager.i3.enable = true;
   services.picom.settings = {
     backend = "glx";
     glx-no-stencil = true;

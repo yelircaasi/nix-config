@@ -18,16 +18,6 @@
   base0F = "#3E965B"; # deprecated, opening/closing embedded language tags, e.g. <?php ?>
 in rec {
   #-------------------------------------------------------------------------------
-  NormalFloat = base00;
-  NeoTreeEndOfBufferBg = base00;
-  NeoTreeEndOfBufferFg = base00;
-  NeoTreeNormal = base00;
-  NeoTreeNormalNC = base00;
-  NeoTreeWinSeparator = base00;
-  NeoTreeVertSplit = "#900000";
-  Terminal = base00;
-
-  #-------------------------------------------------------------------------------
   # defaults to be used unless overriden; basically just intuitive aliases =======
   bg = base00;
   fg = base05;
@@ -37,6 +27,356 @@ in rec {
   windowBorder = defaultBorder;
   #lines-inactive = lib.colorAverage bg defaultBorder;
   lineSeparator = defaultBorder;
+  #-------------------------------------------------------------------------------
+  NormalFloat = bg;
+  NeoTreeEndOfBufferBg = bg;
+  NeoTreeEndOfBufferFg = bg;
+  NeoTreeNormal = bg;
+  NeoTreeNormalNC = bg;
+  NeoTreeWinSeparator = bg;
+  NeoTreeVertSplit = "#900000";
+  Terminal = bg;
+
+  #-------------------------------------------------Neovim default highlight groups
+  SpecialKey     = "xxx ctermfg=81 guifg=Cyan";
+  EndOfBuffer    = "xxx links to NonText";
+  TermCursor     = "xxx cterm=reverse gui=reverse";
+  TermCursorNC   = "xxx cleared";
+  NonText        = "xxx ctermfg=12 gui=bold guifg=Blue";
+  Directory      = "xxx ctermfg=159 guifg=Cyan";
+  ErrorMsg       = "xxx ctermfg=15 ctermbg=1 guifg=White guibg=Red";
+  IncSearch      = "xxx cterm=reverse gui=reverse";
+  Search         = "xxx ctermfg=0 ctermbg=11 guifg=Black guibg=Yellow";
+  CurSearch      = "xxx links to Search";
+  MoreMsg        = "xxx ctermfg=121 gui=bold guifg=SeaGreen";
+  ModeMsg        = "xxx cterm=bold gui=bold";
+  LineNr         = "xxx ctermfg=11 guifg=Yellow";
+  LineNrAbove    = "xxx links to LineNr";
+  LineNrBelow    = "xxx links to LineNr";
+  CursorLineNr   = "xxx cterm=underline ctermfg=11 gui=bold guifg=Yellow";
+  CursorLineSign = "xxx links to SignColumn";
+  CursorLineFold = "xxx links to FoldColumn";
+  Question       = "xxx ctermfg=121 gui=bold guifg=Green";
+  StatusLine     = "xxx cterm=bold,reverse gui=bold,reverse";
+  StatusLineNC   = "xxx cterm=reverse gui=reverse";
+  WinSeparator   = "xxx links to VertSplit";
+  VertSplit      = "xxx links to Normal";
+  Title          = "xxx ctermfg=225 gui=bold guifg=Magenta";
+  Visual         = "xxx ctermbg=242 guibg=DarkGrey";
+  VisualNC       = "xxx cleared";
+  WarningMsg     = "xxx ctermfg=224 guifg=Red";
+  WildMenu       = "xxx ctermfg=0 ctermbg=11 guifg=Black guibg=Yellow";
+  Folded         = "xxx ctermfg=14 ctermbg=242 guifg=Cyan guibg=DarkGrey";
+  FoldColumn     = "xxx ctermfg=14 ctermbg=242 guifg=Cyan guibg=Grey";
+  DiffAdd        = "xxx ctermbg=4 guibg=DarkBlue";
+  DiffChange     = "xxx ctermbg=5 guibg=DarkMagenta";
+  DiffDelete     = "xxx ctermfg=12 ctermbg=6 gui=bold guifg=Blue guibg=DarkCyan";
+  DiffText       = "xxx cterm=bold ctermbg=9 gui=bold guibg=Red";
+  SignColumn     = "xxx ctermfg=14 ctermbg=242 guifg=Cyan guibg=Grey";
+  Conceal        = "xxx ctermfg=7 ctermbg=242 guifg=LightGrey guibg=DarkGrey";
+  SpellBad       = "xxx ctermbg=9 gui=undercurl guisp=Red";
+  SpellCap       = "xxx ctermbg=12 gui=undercurl guisp=Blue";
+  SpellRare      = "xxx ctermbg=13 gui=undercurl guisp=Magenta";
+  SpellLocal     = "xxx ctermbg=14 gui=undercurl guisp=Cyan";
+  Pmenu          = "xxx ctermfg=0 ctermbg=13 guibg=Magenta";
+  PmenuSel       = "xxx ctermfg=242 ctermbg=0 guibg=DarkGrey";
+  PmenuKind      = "xxx links to Pmenu";
+  PmenuKindSel   = "xxx links to PmenuSel";
+  PmenuExtra     = "xxx links to Pmenu";
+  PmenuExtraSel  = "xxx links to PmenuSel";
+  PmenuSbar      = "xxx ctermbg=248 guibg=Grey";
+  PmenuThumb     = "xxx ctermbg=15 guibg=White";
+  TabLine        = "xxx cterm=underline ctermfg=15 ctermbg=242 gui=underline";
+  guibg          = "DarkGrey";
+  TabLineSel     = "xxx cterm=bold gui=bold";
+  TabLineFill    = "xxx cterm=reverse gui=reverse";
+  CursorColumn   = "xxx ctermbg=242 guibg=Grey40";
+  CursorLine     = "xxx cterm=underline guibg=Grey40";
+  ColorColumn    = "xxx ctermbg=1 guibg=DarkRed";
+  QuickFixLine   = "xxx links to Search";
+  Whitespace     = "xxx links to NonText";
+  NormalNC       = "xxx cleared";
+  MsgSeparator   = "xxx links to StatusLine";
+  #NormalFloat    = "xxx links to Pmenu";
+  MsgArea        = "xxx cleared";
+  FloatBorder    = "xxx links to WinSeparator";
+  WinBar         = "xxx cterm=bold gui=bold";
+  WinBarNC       = "xxx links to WinBar";
+  Cursor         = "xxx guifg=bg guibg=fg";
+  FloatTitle     = "xxx links to Title";
+  lCursor        = "xxx guifg=bg guibg=fg";
+  Normal         = "xxx cleared";
+  Substitute     = "xxx links to Search";
+  FloatShadow    = "xxx guibg=Black blend=80";
+  FloatShadowThrough = "xxx guibg=Black blend=100";
+  RedrawDebugNormal = "xxx cterm=reverse gui=reverse";
+  RedrawDebugClear = "xxx ctermbg=11 guibg=Yellow";
+  RedrawDebugComposed = "xxx ctermbg=10 guibg=Green";
+  RedrawDebugRecompose = "xxx ctermbg=9 guibg=Red";
+  Error          = "xxx ctermfg=15 ctermbg=9 guifg=White guibg=Red";
+  Todo           = "xxx ctermfg=0 ctermbg=11 guifg=Blue guibg=Yellow";
+  String         = "xxx links to Constant";
+  Constant       = "xxx ctermfg=13 guifg=#ffa0a0";
+  Character      = "xxx links to Constant";
+  Number         = "xxx links to Constant";
+  Boolean        = "xxx links to Constant";
+  Float          = "xxx links to Number";
+  Function       = "xxx links to Identifier";
+  Identifier     = "xxx cterm=bold ctermfg=14 guifg=#40ffff";
+  Conditional    = "xxx links to Statement";
+  Statement      = "xxx ctermfg=11 gui=bold guifg=#ffff60";
+  Repeat         = "xxx links to Statement";
+  Label          = "xxx links to Statement";
+  Operator       = "xxx links to Statement";
+  Keyword        = "xxx links to Statement";
+  Exception      = "xxx links to Statement";
+  Include        = "xxx links to PreProc";
+  PreProc        = "xxx ctermfg=81 guifg=#ff80ff";
+  Define         = "xxx links to PreProc";
+  Macro          = "xxx links to PreProc";
+  PreCondit      = "xxx links to PreProc";
+  StorageClass   = "xxx links to Type";
+  Type           = "xxx ctermfg=121 gui=bold guifg=#60ff60";
+  Structure      = "xxx links to Type";
+  Typedef        = "xxx links to Type";
+  Tag            = "xxx links to Special";
+  Special        = "xxx ctermfg=224 guifg=Orange";
+  SpecialChar    = "xxx links to Special";
+  Delimiter      = "xxx links to Special";
+  SpecialComment = "xxx links to Special";
+  Debug          = "xxx links to Special";
+  DiagnosticError = "xxx ctermfg=1 guifg=Red";
+  DiagnosticWarn = "xxx ctermfg=3 guifg=Orange";
+  DiagnosticInfo = "xxx ctermfg=4 guifg=LightBlue";
+  DiagnosticHint = "xxx ctermfg=7 guifg=LightGrey";
+  DiagnosticOk   = "xxx ctermfg=10 guifg=LightGreen";
+  DiagnosticUnderlineError = "xxx cterm=underline gui=underline guisp=Red";
+  DiagnosticUnderlineWarn = "xxx cterm=underline gui=underline guisp=Orange";
+  DiagnosticUnderlineInfo = "xxx cterm=underline gui=underline guisp=LightBlue";
+  DiagnosticUnderlineHint = "xxx cterm=underline gui=underline guisp=LightGrey";
+  DiagnosticUnderlineOk = "xxx cterm=underline gui=underline guisp=LightGreen";
+  DiagnosticVirtualTextError = "xxx links to DiagnosticError";
+  DiagnosticVirtualTextWarn = "xxx links to DiagnosticWarn";
+  DiagnosticVirtualTextInfo = "xxx links to DiagnosticInfo";
+  DiagnosticVirtualTextHint = "xxx links to DiagnosticHint";
+  DiagnosticVirtualTextOk = "xxx links to DiagnosticOk";
+  DiagnosticFloatingError = "xxx links to DiagnosticError";
+  DiagnosticFloatingWarn = "xxx links to DiagnosticWarn";
+  DiagnosticFloatingInfo = "xxx links to DiagnosticInfo";
+  DiagnosticFloatingHint = "xxx links to DiagnosticHint";
+  DiagnosticFloatingOk = "xxx links to DiagnosticOk";
+  DiagnosticSignError = "xxx links to DiagnosticError";
+  DiagnosticSignWarn = "xxx links to DiagnosticWarn";
+  DiagnosticSignInfo = "xxx links to DiagnosticInfo";
+  DiagnosticSignHint = "xxx links to DiagnosticHint";
+  DiagnosticSignOk = "xxx links to DiagnosticOk";
+  DiagnosticDeprecated = "xxx cterm=strikethrough gui=strikethrough guisp=Red";
+  DiagnosticUnnecessary = "xxx links to Comment";
+  Comment        = "xxx ctermfg=14 guifg=#80a0ff";
+  at_text          = "xxx cleared";
+  at_text_literal  = "xxx links to Comment";
+  at_text_reference = "xxx links to Identifier";
+  at_text_title    = "xxx links to Title";
+  at_text_uri      = "xxx links to Underlined";
+  Underlined     = "xxx cterm=underline ctermfg=81 gui=underline guifg=#80a0ff";
+  at_text_underline = "xxx links to Underlined";
+  at_text_todo     = "xxx links to Todo";
+  at_comment       = "xxx links to Comment";
+  at_punctuation   = "xxx links to Delimiter";
+  at_constant      = "xxx links to Constant";
+  at_constant_builtin = "xxx links to Special";
+  at_constant_macro = "xxx links to Define";
+  at_define        = "xxx links to Define";
+  at_macro         = "xxx links to Macro";
+  at_string        = "xxx links to String";
+  at_string_escape = "xxx links to SpecialChar";
+  at_string_special = "xxx links to SpecialChar";
+  at_character     = "xxx links to Character";
+  at_character_special = "xxx links to SpecialChar";
+  at_number        = "xxx links to Number";
+  at_boolean       = "xxx links to Boolean";
+  at_float         = "xxx links to Float";
+  at_function      = "xxx links to Function";
+  at_function_builtin = "xxx links to Special";
+  at_function_macro = "xxx links to Macro";
+  at_parameter     = "xxx links to Identifier";
+  at_method        = "xxx links to Function";
+  at_field         = "xxx links to Identifier";
+  at_property      = "xxx links to Identifier";
+  at_constructor   = "xxx links to Special";
+  at_conditional   = "xxx links to Conditional";
+  at_repeat        = "xxx links to Repeat";
+  at_label         = "xxx links to Label";
+  at_operator      = "xxx links to Operator";
+  at_keyword       = "xxx links to Keyword";
+  at_exception     = "xxx links to Exception";
+  at_variable      = "xxx links to Identifier";
+  at_type          = "xxx links to Type";
+  at_type_definition = "xxx links to Typedef";
+  at_storageclass  = "xxx links to StorageClass";
+  at_namespace     = "xxx links to Identifier";
+  at_include       = "xxx links to Include";
+  at_preproc       = "xxx links to PreProc";
+  at_debug         = "xxx links to Debug";
+  at_tag           = "xxx links to Tag";
+  at_lsp           = "xxx cleared";
+  at_lsp_type_class = "xxx links to Structure";
+  at_lsp_type_comment = "xxx links to Comment";
+  at_lsp_type_decorator = "xxx links to Function";
+  at_lsp_type_enum = "xxx links to Structure";
+  at_lsp_type_enumMember = "xxx links to Constant";
+  at_lsp_type_function = "xxx links to Function";
+  at_lsp_type_interface = "xxx links to Structure";
+  at_lsp_type_macro = "xxx links to Macro";
+  at_lsp_type_method = "xxx links to Function";
+  at_lsp_type_namespace = "xxx links to Structure";
+  at_lsp_type_parameter = "xxx links to Identifier";
+  at_lsp_type_property = "xxx links to Identifier";
+  at_lsp_type_struct = "xxx links to Structure";
+  at_lsp_type_type = "xxx links to Type";
+  at_lsp_type_typeParameter = "xxx links to Typedef";
+  at_lsp_type_variable = "xxx links to Identifier";
+  MatchParen     = "xxx ctermbg=6 guibg=DarkCyan";
+  Ignore         = "xxx ctermfg=0 guifg=bg";
+  NvimInternalError = "xxx ctermfg=9 ctermbg=9 guifg=Red guibg=Red";
+  NvimAssignment = "xxx links to Operator";
+  NvimPlainAssignment = "xxx links to NvimAssignment";
+  NvimAugmentedAssignment = "xxx links to NvimAssignment";
+  NvimAssignmentWithAddition = "xxx links to NvimAugmentedAssignment";
+  NvimAssignmentWithSubtraction = "xxx links to NvimAugmentedAssignment";
+  NvimAssignmentWithConcatenation = "xxx links to NvimAugmentedAssignment";
+  NvimOperator   = "xxx links to Operator";
+  NvimUnaryOperator = "xxx links to NvimOperator";
+  NvimUnaryPlus  = "xxx links to NvimUnaryOperator";
+  NvimUnaryMinus = "xxx links to NvimUnaryOperator";
+  NvimNot        = "xxx links to NvimUnaryOperator";
+  NvimBinaryOperator = "xxx links to NvimOperator";
+  NvimComparison = "xxx links to NvimBinaryOperator";
+  NvimComparisonModifier = "xxx links to NvimComparison";
+  NvimBinaryPlus = "xxx links to NvimBinaryOperator";
+  NvimBinaryMinus = "xxx links to NvimBinaryOperator";
+  NvimConcat     = "xxx links to NvimBinaryOperator";
+  NvimConcatOrSubscript = "xxx links to NvimConcat";
+  NvimOr         = "xxx links to NvimBinaryOperator";
+  NvimAnd        = "xxx links to NvimBinaryOperator";
+  NvimMultiplication = "xxx links to NvimBinaryOperator";
+  NvimDivision   = "xxx links to NvimBinaryOperator";
+  NvimMod        = "xxx links to NvimBinaryOperator";
+  NvimTernary    = "xxx links to NvimOperator";
+  NvimTernaryColon = "xxx links to NvimTernary";
+  NvimParenthesis = "xxx links to Delimiter";
+  NvimLambda     = "xxx links to NvimParenthesis";
+  NvimNestingParenthesis = "xxx links to NvimParenthesis";
+  NvimCallingParenthesis = "xxx links to NvimParenthesis";
+  NvimSubscript  = "xxx links to NvimParenthesis";
+  NvimSubscriptBracket = "xxx links to NvimSubscript";
+  NvimSubscriptColon = "xxx links to NvimSubscript";
+  NvimCurly      = "xxx links to NvimSubscript";
+  NvimContainer  = "xxx links to NvimParenthesis";
+  NvimDict       = "xxx links to NvimContainer";
+  NvimList       = "xxx links to NvimContainer";
+  NvimIdentifier = "xxx links to Identifier";
+  NvimIdentifierScope = "xxx links to NvimIdentifier";
+  NvimIdentifierScopeDelimiter = "xxx links to NvimIdentifier";
+  NvimIdentifierName = "xxx links to NvimIdentifier";
+  NvimIdentifierKey = "xxx links to NvimIdentifier";
+  NvimColon      = "xxx links to Delimiter";
+  NvimComma      = "xxx links to Delimiter";
+  NvimArrow      = "xxx links to Delimiter";
+  NvimRegister   = "xxx links to SpecialChar";
+  NvimNumber     = "xxx links to Number";
+  NvimFloat      = "xxx links to NvimNumber";
+  NvimNumberPrefix = "xxx links to Type";
+  NvimOptionSigil = "xxx links to Type";
+  NvimOptionName = "xxx links to NvimIdentifier";
+  NvimOptionScope = "xxx links to NvimIdentifierScope";
+  NvimOptionScopeDelimiter = "xxx links to NvimIdentifierScopeDelimiter";
+  NvimEnvironmentSigil = "xxx links to NvimOptionSigil";
+  NvimEnvironmentName = "xxx links to NvimIdentifier";
+  NvimString     = "xxx links to String";
+  NvimStringBody = "xxx links to NvimString";
+  NvimStringQuote = "xxx links to NvimString";
+  NvimStringSpecial = "xxx links to SpecialChar";
+  NvimSingleQuote = "xxx links to NvimStringQuote";
+  NvimSingleQuotedBody = "xxx links to NvimStringBody";
+  NvimSingleQuotedQuote = "xxx links to NvimStringSpecial";
+  NvimDoubleQuote = "xxx links to NvimStringQuote";
+  NvimDoubleQuotedBody = "xxx links to NvimStringBody";
+  NvimDoubleQuotedEscape = "xxx links to NvimStringSpecial";
+  NvimFigureBrace = "xxx links to NvimInternalError";
+  NvimSingleQuotedUnknownEscape = "xxx links to NvimInternalError";
+  NvimSpacing    = "xxx links to Normal";
+  NvimInvalidSingleQuotedUnknownEscape = "xxx links to NvimInternalError";
+  NvimInvalid    = "xxx links to Error";
+  NvimInvalidAssignment = "xxx links to NvimInvalid";
+  NvimInvalidPlainAssignment = "xxx links to NvimInvalidAssignment";
+  NvimInvalidAugmentedAssignment = "xxx links to NvimInvalidAssignment";
+  NvimInvalidAssignmentWithAddition = "xxx links to NvimInvalidAugmentedAssignment";
+  NvimInvalidAssignmentWithSubtraction = "xxx links to NvimInvalidAugmentedAssignment";
+  NvimInvalidAssignmentWithConcatenation = "xxx links to NvimInvalidAugmentedAssignment";
+  NvimInvalidOperator = "xxx links to NvimInvalid";
+  NvimInvalidUnaryOperator = "xxx links to NvimInvalidOperator";
+  NvimInvalidUnaryPlus = "xxx links to NvimInvalidUnaryOperator";
+  NvimInvalidUnaryMinus = "xxx links to NvimInvalidUnaryOperator";
+  NvimInvalidNot = "xxx links to NvimInvalidUnaryOperator";
+  NvimInvalidBinaryOperator = "xxx links to NvimInvalidOperator";
+  NvimInvalidComparison = "xxx links to NvimInvalidBinaryOperator";
+  NvimInvalidComparisonModifier = "xxx links to NvimInvalidComparison";
+  NvimInvalidBinaryPlus = "xxx links to NvimInvalidBinaryOperator";
+  NvimInvalidBinaryMinus = "xxx links to NvimInvalidBinaryOperator";
+  NvimInvalidConcat = "xxx links to NvimInvalidBinaryOperator";
+  NvimInvalidConcatOrSubscript = "xxx links to NvimInvalidConcat";
+  NvimInvalidOr  = "xxx links to NvimInvalidBinaryOperator";
+  NvimInvalidAnd = "xxx links to NvimInvalidBinaryOperator";
+  NvimInvalidMultiplication = "xxx links to NvimInvalidBinaryOperator";
+  NvimInvalidDivision = "xxx links to NvimInvalidBinaryOperator";
+  NvimInvalidMod = "xxx links to NvimInvalidBinaryOperator";
+  NvimInvalidTernary = "xxx links to NvimInvalidOperator";
+  NvimInvalidTernaryColon = "xxx links to NvimInvalidTernary";
+  NvimInvalidDelimiter = "xxx links to NvimInvalid";
+  NvimInvalidParenthesis = "xxx links to NvimInvalidDelimiter";
+  NvimInvalidLambda = "xxx links to NvimInvalidParenthesis";
+  NvimInvalidNestingParenthesis = "xxx links to NvimInvalidParenthesis";
+  NvimInvalidCallingParenthesis = "xxx links to NvimInvalidParenthesis";
+  NvimInvalidSubscript = "xxx links to NvimInvalidParenthesis";
+  NvimInvalidSubscriptBracket = "xxx links to NvimInvalidSubscript";
+  NvimInvalidSubscriptColon = "xxx links to NvimInvalidSubscript";
+  NvimInvalidCurly = "xxx links to NvimInvalidSubscript";
+  NvimInvalidContainer = "xxx links to NvimInvalidParenthesis";
+  NvimInvalidDict = "xxx links to NvimInvalidContainer";
+  NvimInvalidList = "xxx links to NvimInvalidContainer";
+  NvimInvalidValue = "xxx links to NvimInvalid";
+  NvimInvalidIdentifier = "xxx links to NvimInvalidValue";
+  NvimInvalidIdentifierScope = "xxx links to NvimInvalidIdentifier";
+  NvimInvalidIdentifierScopeDelimiter = "xxx links to NvimInvalidIdentifier";
+  NvimInvalidIdentifierName = "xxx links to NvimInvalidIdentifier";
+  NvimInvalidIdentifierKey = "xxx links to NvimInvalidIdentifier";
+  NvimInvalidColon = "xxx links to NvimInvalidDelimiter";
+  NvimInvalidComma = "xxx links to NvimInvalidDelimiter";
+  NvimInvalidArrow = "xxx links to NvimInvalidDelimiter";
+  NvimInvalidRegister = "xxx links to NvimInvalidValue";
+  NvimInvalidNumber = "xxx links to NvimInvalidValue";
+  NvimInvalidFloat = "xxx links to NvimInvalidNumber";
+  NvimInvalidNumberPrefix = "xxx links to NvimInvalidNumber";
+  NvimInvalidOptionSigil = "xxx links to NvimInvalidIdentifier";
+  NvimInvalidOptionName = "xxx links to NvimInvalidIdentifier";
+  NvimInvalidOptionScope = "xxx links to NvimInvalidIdentifierScope";
+  NvimInvalidOptionScopeDelimiter = "xxx links to NvimInvalidIdentifierScopeDelimiter";
+  NvimInvalidEnvironmentSigil = "xxx links to NvimInvalidOptionSigil";
+  NvimInvalidEnvironmentName = "xxx links to NvimInvalidIdentifier";
+  NvimInvalidString = "xxx links to NvimInvalidValue";
+  NvimInvalidStringBody = "xxx links to NvimStringBody";
+  NvimInvalidStringQuote = "xxx links to NvimInvalidString";
+  NvimInvalidStringSpecial = "xxx links to NvimStringSpecial";
+  NvimInvalidSingleQuote = "xxx links to NvimInvalidStringQuote";
+  NvimInvalidSingleQuotedBody = "xxx links to NvimInvalidStringBody";
+  NvimInvalidSingleQuotedQuote = "xxx links to NvimInvalidStringSpecial";
+  NvimInvalidDoubleQuote = "xxx links to NvimInvalidStringQuote";
+  NvimInvalidDoubleQuotedBody = "xxx links to NvimInvalidStringBody";
+  NvimInvalidDoubleQuotedEscape = "xxx links to NvimInvalidStringSpecial";
+  NvimInvalidDoubleQuotedUnknownEscape = "xxx links to NvimInvalidValue";
+  NvimInvalidFigureBrace = "xxx links to NvimInvalidDelimiter";
+  NvimInvalidSpacing = "xxx links to ErrorMsg";
 
   # applications
   # terminal
@@ -329,89 +669,89 @@ in rec {
       hl.lsp = {
         ['@lsp.mod.readonly'] = { link = '@constant' },
         ['@lsp.mod.typeHint'] = { link = '@type' },
-        ['@lsp.type.boolean'] = { link = '@boolean' },
-        ['@lsp.type.builtinAttribute'] = { link = '@attribute' },
-        ['@lsp.type.builtinConstant'] = { link = '@constant.builtin' },
-        ['@lsp.type.builtinType'] = { link = '@type.builtin' },
-        ['@lsp.type.class.markdown'] = {},
+        ['@lsp_type_boolean'] = { link = '@boolean' },
+        ['@lsp_type_builtinAttribute'] = { link = '@attribute' },
+        ['@lsp_type_builtinConstant'] = { link = '@constant.builtin' },
+        ['@lsp_type_builtinType'] = { link = '@type.builtin' },
+        ['@lsp_type_class.markdown'] = {},
         -- disable comment highlighting, see the following issue:
         -- https://github.com/LuaLS/lua-language-server/issues/1809
-        ['@lsp.type.comment'] = {},
-        ['@lsp.type.decorator'] = { link = '@attribute' },
-        ['@lsp.type.derive'] = { link = '@constructor' },
-        ['@lsp.type.deriveHelper'] = { link = '@attribute' },
-        ['@lsp.type.enum'] = { link = '@type' },
-        ['@lsp.type.enumMember'] = { link = '@constant' },
-        ['@lsp.type.escapeSequence'] = { link = '@string.escape' },
-        ['@lsp.type.formatSpecifier'] = { link = '@punctuation.special' },
-        ['@lsp.type.generic'] = { link = '@text' },
-        ['@lsp.type.interface'] = { link = '@type' },
-        ['@lsp.type.keyword'] = { link = '@keyword' },
-        ['@lsp.type.lifetime'] = { link = '@storageclass' },
-        ['@lsp.type.macro'] = { link = 'Macro' },
-        ['@lsp.type.magicFunction'] = { link = '@function.builtin' },
-        ['@lsp.type.method'] = { link = '@method' },
-        ['@lsp.type.namespace'] = { link = '@namespace' },
-        ['@lsp.type.number'] = { link = '@number' },
-        ['@lsp.type.operator'] = { link = '@operator' },
+        ['@lsp_type_comment'] = {},
+        ['@lsp_type_decorator'] = { link = '@attribute' },
+        ['@lsp_type_derive'] = { link = '@constructor' },
+        ['@lsp_type_deriveHelper'] = { link = '@attribute' },
+        ['@lsp_type_enum'] = { link = '@type' },
+        ['@lsp_type_enumMember'] = { link = '@constant' },
+        ['@lsp_type_escapeSequence'] = { link = '@string.escape' },
+        ['@lsp_type_formatSpecifier'] = { link = '@punctuation.special' },
+        ['@lsp_type_generic'] = { link = '@text' },
+        ['@lsp_type_interface'] = { link = '@type' },
+        ['@lsp_type_keyword'] = { link = '@keyword' },
+        ['@lsp_type_lifetime'] = { link = '@storageclass' },
+        ['@lsp_type_macro'] = { link = 'Macro' },
+        ['@lsp_type_magicFunction'] = { link = '@function.builtin' },
+        ['@lsp_type_method'] = { link = '@method' },
+        ['@lsp_type_namespace'] = { link = '@namespace' },
+        ['@lsp_type_number'] = { link = '@number' },
+        ['@lsp_type_operator'] = { link = '@operator' },
         -- don't highlight cpp operators, the LSP is too generous with these
-        ['@lsp.type.operator.cpp'] = {},
-        ['@lsp.type.parameter'] = { link = '@parameter' },
-        ['@lsp.type.property'] = { link = '@property' },
-        ['@lsp.type.selfKeyword'] = { link = '@variable.builtin' },
-        ['@lsp.type.selfTypeKeyword'] = { link = '@type' },
-        ['@lsp.type.string'] = { link = '@string' },
-        ['@lsp.type.typeAlias'] = { link = '@type.definition' },
-        ['@lsp.type.typeParameter'] = { link = '@type' },
-        ['@lsp.type.unresolvedReference'] = {
+        ['@lsp_type_operator.cpp'] = {},
+        ['@lsp_type_parameter'] = { link = '@parameter' },
+        ['@lsp_type_property'] = { link = '@property' },
+        ['@lsp_type_selfKeyword'] = { link = '@variable.builtin' },
+        ['@lsp_type_selfTypeKeyword'] = { link = '@type' },
+        ['@lsp_type_string'] = { link = '@string' },
+        ['@lsp_type_typeAlias'] = { link = '@type.definition' },
+        ['@lsp_type_typeParameter'] = { link = '@type' },
+        ['@lsp_type_unresolvedReference'] = {
           [cfg.diagnostics.undercurl and 'undercurl' or 'underline'] = true,
           sp = c.red,
         },
-        ['@lsp.type.variable'] = {}, -- use treesitter styles for regular variables
+        ['@lsp_type_variable'] = {}, -- use treesitter styles for regular variables
         -- ...except for rust, which benefits from this (the above is mostly only
         -- an issue with interpreted languages)
-        ['@lsp.type.variable.rust'] = colors.Fg,
-        ['@lsp.typemod.class.defaultLibrary'] = { link = '@type.builtin' },
-        ['@lsp.typemod.enum.defaultLibrary'] = { link = '@type.builtin' },
-        ['@lsp.typemod.enumMember.defaultLibrary'] = {
+        ['@lsp_type_variable.rust'] = colors.Fg,
+        ['@lsp_type_od.class.defaultLibrary'] = { link = '@type.builtin' },
+        ['@lsp_type_od.enum.defaultLibrary'] = { link = '@type.builtin' },
+        ['@lsp_type_od.enumMember.defaultLibrary'] = {
           link = '@constant.builtin',
         },
-        ['@lsp.typemod.function.defaultLibrary'] = { link = '@function.builtin' },
-        ['@lsp.typemod.function.readonly'] = { link = '@method' },
+        ['@lsp_type_od.function.defaultLibrary'] = { link = '@function.builtin' },
+        ['@lsp_type_od.function.readonly'] = { link = '@method' },
         -- For things like `#![allow(unused_variables, unused_mut)]` in Rust
-        ['@lsp.typemod.generic.attribute'] = { link = '@keyword' },
-        ['@lsp.typemod.keyword.async'] = { link = '@keyword.coroutine' },
-        ['@lsp.typemod.keyword.injected'] = { link = '@keyword' },
-        ['@lsp.typemod.macro.defaultLibrary'] = { link = '@function.builtin' },
-        ['@lsp.typemod.method.defaultLibrary'] = { link = '@function.builtin' },
-        ['@lsp.typemod.method.readonly'] = { link = '@method' },
-        ['@lsp.typemod.operator.injected'] = { link = '@operator' },
-        ['@lsp.typemod.parameter.mutable'] = {
+        ['@lsp_type_od.generic.attribute'] = { link = '@keyword' },
+        ['@lsp_type_od.keyword.async'] = { link = '@keyword.coroutine' },
+        ['@lsp_type_od.keyword.injected'] = { link = '@keyword' },
+        ['@lsp_type_od.macro.defaultLibrary'] = { link = '@function.builtin' },
+        ['@lsp_type_od.method.defaultLibrary'] = { link = '@function.builtin' },
+        ['@lsp_type_od.method.readonly'] = { link = '@method' },
+        ['@lsp_type_od.operator.injected'] = { link = '@operator' },
+        ['@lsp_type_od.parameter.mutable'] = {
           fg = util.blend(c.purple, c.coral, 0.2),
         },
-        ['@lsp.typemod.parameter.readonly'] = {
+        ['@lsp_type_od.parameter.readonly'] = {
           fg = util.blend(c.yellow, c.coral, 0.375),
         },
-        ['@lsp.typemod.property.readonly'] = {
+        ['@lsp_type_od.property.readonly'] = {
           fg = util.blend(c.cyan, c.green, 0.5),
         },
-        ['@lsp.typemod.string.injected'] = { link = '@string' },
-        ['@lsp.typemod.struct.defaultLibrary'] = { link = '@type.builtin' },
-        ['@lsp.typemod.type.defaultLibrary'] = { link = '@type.builtin' },
-        ['@lsp.typemod.typeAlias.defaultLibrary'] = { link = '@type.builtin' },
-        ['@lsp.typemod.variable.callable'] = { link = '@function' },
-        ['@lsp.typemod.variable.constant.rust'] = { link = '@constant' },
-        ['@lsp.typemod.variable.defaultLibrary'] = { link = '@variable.builtin' },
-        ['@lsp.typemod.variable.global'] = { link = '@variable.global' },
-        ['@lsp.typemod.variable.injected'] = { link = '@variable' },
-        ['@lsp.typemod.variable.mutable'] = {
+        ['@lsp_type_od.string.injected'] = { link = '@string' },
+        ['@lsp_type_od.struct.defaultLibrary'] = { link = '@type.builtin' },
+        ['@lsp_type_od.type.defaultLibrary'] = { link = '@type.builtin' },
+        ['@lsp_type_od.typeAlias.defaultLibrary'] = { link = '@type.builtin' },
+        ['@lsp_type_od.variable.callable'] = { link = '@function' },
+        ['@lsp_type_od.variable.constant.rust'] = { link = '@constant' },
+        ['@lsp_type_od.variable.defaultLibrary'] = { link = '@variable.builtin' },
+        ['@lsp_type_od.variable.global'] = { link = '@variable.global' },
+        ['@lsp_type_od.variable.injected'] = { link = '@variable' },
+        ['@lsp_type_od.variable.mutable'] = {
           fg = util.blend(c.fg, c.green, 0.625),
         },
-        ['@lsp.typemod.variable.static'] = { fg = light_blue },
-        ['@lsp.typemod.variable.static.rust'] = {},
+        ['@lsp_type_od.variable.static'] = { fg = light_blue },
+        ['@lsp_type_od.variable.static.rust'] = {},
         -- workaround to get good static variable highlights in rust
-        ['@lsp.mod.static.rust'] = { link = '@lsp.typemod.variable.static' },
-        ['@lsp.typemod.method.static.rust'] = { link = '@function' },
+        ['@lsp.mod.static.rust'] = { link = '@lsp_type_od.variable.static' },
+        ['@lsp_type_od.method.static.rust'] = { link = '@function' },
       }
     end
   else

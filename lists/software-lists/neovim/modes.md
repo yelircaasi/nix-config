@@ -29,3 +29,5 @@
 - [Zazen.nvim](https://github.com/Manas140/Zazen.nvim)
 - [not-zen.nvim](https://github.com/catgoose/not-zen.nvim)
 
+- [readline.nvim](https://github.com/hiberabyss/readline.nvim)
+

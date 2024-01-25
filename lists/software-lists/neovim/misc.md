@@ -266,4 +266,155 @@
 #### [Market place](https://yutkat.github.io/my-neovim-pluginlist/#market-place)
 - [nvim-market](https://github.com/tamton-aquib/nvim-market)
 - [activate.nvim](https://github.com/roobert/activate.nvim)
+#### [Command](https://yutkat.github.io/my-neovim-pluginlist/#command)
+- [nvim-conv](https://github.com/simonefranza/nvim-conv)
+- [nvim-eswpoch](https://github.com/hlucco/nvim-eswpoch)
+- [live-command.nvim](https://github.com/smjonas/live-command.nvim)
+- [AdvancedNewFile.nvim](https://github.com/Mohammed-Taher/AdvancedNewFile.nvim)
+- [spectur.nvim](https://github.com/nkhlmn/spectur.nvim)
+- [nvim-misc](https://github.com/njaczko/nvim-misc)
+- [comdrop.nvim](https://github.com/dchiluisac/comdrop.nvim)
+- [arrayify.nvim](https://github.com/Seth-Buchanan/arrayify.nvim)
+- [whereami.nvim](https://github.com/ragnarok22/whereami.nvim)
+- [jobber.nvim](https://github.com/mr55p-dev/jobber.nvim)
+- [nvim-F](https://github.com/tenfyzhong/nvim-F)
+- ### mkdir
+- [mkdir.nvim](https://github.com/jghauser/mkdir.nvim)
+- [automkdir.nvim](https://github.com/mateuszwieloch/automkdir.nvim)
+- ### sort
+- [sort.nvim](https://github.com/sQVe/sort.nvim)
+- [sortrequires.nvim](https://github.com/haolian9/sortrequires.nvim)
+- ### Redirect to scratch buffer
+- [nredir.nvim](https://github.com/sbulav/nredir.nvim)
+- ### Shell Command
+- [easypick.nvim](https://github.com/axkirillov/easypick.nvim)
+- [pipe.nvim](https://github.com/jake-stewart/pipe.nvim)
+- ### sudo
+- [sudo_write.nvim](https://github.com/haolian9/sudo_write.nvim)
+- ### quit
+- [confirm-quit.nvim](https://github.com/yutkat/confirm-quit.nvim)
+- [barrier.nvim](https://github.com/haolian9/barrier.nvim)
+#### [Command Line](https://yutkat.github.io/my-neovim-pluginlist/#command-line)
+- [cmdbuf.nvim](https://github.com/notomo/cmdbuf.nvim)
+- [wilder.nvim](https://github.com/gelguy/wilder.nvim)
+- [emcl.nvim](https://github.com/delphinus/emcl.nvim)
+- [telescope-commandeer.nvim](https://github.com/CriticalEdge/telescope-commandeer.nvim)
+- [cmdline.nvim](https://github.com/vzze/cmdline.nvim)
+- [telescope-cmdline.nvim](https://github.com/jonarrien/telescope-cmdline.nvim)
+- [recmdwin.nvim](https://github.com/hachy/recmdwin.nvim)
+- ### GUID
+- [guid.nvim](https://github.com/ds1sqe/guid.nvim)
+#### [Diff](https://yutkat.github.io/my-neovim-pluginlist/#diff)
+- [compare-remotes.nvim](https://github.com/aaron-p1/compare-remotes.nvim)
+- [telescope-diff.nvim](https://github.com/jemag/telescope-diff.nvim)
+- [Register](https://yutkat.github.io/my-neovim-pluginlist/#register)
+- [nvim-compare-with-clipboard](https://github.com/antosha417/nvim-compare-with-clipboard)
+- [diff-register.nvim](https://github.com/ksuimraoShare/diff-register.nvim)
+#### [Calculation](https://yutkat.github.io/my-neovim-pluginlist/#calculation)
+- [quickmath.nvim](https://github.com/jbyuki/quickmath.nvim)
+- [calculator.nvim](https://github.com/vzze/calculator.nvim)
+- [dentaku.nvim](https://github.com/rapan931/dentaku.nvim)
+- [based.nvim](https://github.com/trmckay/based.nvim)
+- [qalc.nvim](https://github.com/Apeiros-46B/qalc.nvim)
+- ## Command Line UI
+- [noice.nvim](https://github.com/folke/noice.nvim)
+- ### command line completion
+- [command-completion.nvim](https://github.com/smolck/command-completion.nvim)
+- ### History
+- [telescope-smart-history.nvim](https://github.com/nvim-telescope/telescope-smart-history.nvim)
+- [history-ignore.nvim](https://github.com/yutkat/history-ignore.nvim)
+#### [Spell check](https://yutkat.github.io/my-neovim-pluginlist/#spell-check)
+- ### Spell
+- [spellsync.nvim](https://github.com/RKBethke/spellsync.nvim)
+- [download-lang-files.nvim](https://github.com/Jan9103/download-lang-files.nvim)
+- [spellfile.nvim](https://github.com/cuducos/spellfile.nvim)
+- ### Spellcheck
+- [prosesitter.nvim](https://github.com/dvdsk/prosesitter.nvim)
+- [typos.nvim](https://github.com/poljar/typos.nvim)
+- [spellbound.nvim](https://github.com/superDross/spellbound.nvim)
+- [nvimwordlist](https://github.com/norseghost/nvimwordlist)
+- [spell.nvim](https://github.com/MenBrial/spell.nvim)
+- [cspell.nvim](https://github.com/davidmh/cspell.nvim)
+- ### Vale
+- [vale.nvim](https://github.com/marcelofern/vale.nvim)
+#### [Dictionary](https://yutkat.github.io/my-neovim-pluginlist/#dictionary)
+- [cmp-dictionary](https://github.com/uga-rosa/cmp-dictionary)
+- [dictionary.nvim](https://github.com/PaysanCorrezien/dictionary.nvim)
+#### [Abbreviation](https://yutkat.github.io/my-neovim-pluginlist/#abbreviation)
+- [abbreinder.nvim](https://github.com/0styx0/abbreinder.nvim)
+- [scrap.nvim](https://github.com/Mateiadrielrafael/scrap.nvim)
+- [electric-quotes.nvim](https://github.com/shadyalfred/electric-quotes.nvim)
+- ## Location
+#### [ftdetect(Filetype detector)](https://yutkat.github.io/my-neovim-pluginlist/#ftdetectfiletype-detector)
+- [detect-language.nvim](https://github.com/spywhere/detect-language.nvim)  
+#### [ftplugin](https://yutkat.github.io/my-neovim-pluginlist/#ftplugin)
+- [ftconf.nvim](https://github.com/prichrd/ftconf.nvim)  
+#### [Encoding](https://yutkat.github.io/my-neovim-pluginlist/#encoding)
+- [encodings.nvim](https://github.com/sjjwantfish/encodings.nvim)   ****
+#### [Errorformat](https://yutkat.github.io/my-neovim-pluginlist/#errorformat)
+- * [neomakery.nvim](https://github.com/faergeek/neomakery.nvim)  
+#### [checkhealth](https://yutkat.github.io/my-neovim-pluginlist/#checkhealth)
+- [executable-checker.nvim](https://github.com/Davidyz/executable-checker.nvim)   ****
+#### [Save](https://yutkat.github.io/my-neovim-pluginlist/#save)
+- [AutoSave.nvim](https://github.com/Pocco81/AutoSave.nvim)
+- [save.nvim](https://github.com/boorboor/save.nvim)
+- [auto-save.nvim](https://github.com/stefanwatt/auto-save.nvim)
+- [sos.nvim](https://github.com/tmillr/sos.nvim)
+- [Revolver](https://github.com/Fildo7525/Revolver)
+- [autosave.nvim](https://github.com/mogulla3/autosave.nvim)
+- [autosave.nvim](https://github.com/0x00-ketsu/autosave.nvim)
+- [NeoSave.nvim](https://github.com/ecthelionvi/NeoSave.nvim)
+- [savior.nvim](https://github.com/willothy/savior.nvim)
+- [Cursor Position](https://yutkat.github.io/my-neovim-pluginlist/#cursor-position)
+- [remember.nvim](https://github.com/vladdoster/remember.nvim)
+- [NeoView.nvim](https://github.com/ecthelionvi/NeoView.nvim)
+- [nvim-hooklinesinker](https://github.com/Enrique-ZA/nvim-hooklinesinker)
+#### [Backup](https://yutkat.github.io/my-neovim-pluginlist/#backup)
+- [telescope-file-history.nvim](https://github.com/dawsers/telescope-file-history.nvim)   ****
+#### [Boot Arguments](https://yutkat.github.io/my-neovim-pluginlist/#boot-arguments)
+- [actually.nvim](https://github.com/mong8se/actually.nvim)
+- [fileline.nvim](https://github.com/lewis6991/fileline.nvim)
+#### [Mouse](https://yutkat.github.io/my-neovim-pluginlist/#mouse)
+- [gesture.nvim](https://github.com/notomo/gesture.nvim)  
+#### [Generate documentation](https://yutkat.github.io/my-neovim-pluginlist/#generate-documentation)
+- * [dooku.nvim](https://github.com/Zeioth/dooku.nvim)  
+- ## LICENSE
+- [nvim-license](https://github.com/KronsyC/nvim-license)
+#### [Context Header](https://yutkat.github.io/my-neovim-pluginlist/#context-header)
+    - [contextprint.nvim](https://github.com/polarmutex/contextprint.nvim)
+    - [nvim-treesitter-context](https://github.com/romgrk/nvim-treesitter-context)
+### CodeLens
+- [nvim-extra-codelens](https://github.com/phenax/nvim-extra-codelens)
+- [clh.nvim](https://github.com/SvSchen/clh.nvim)
+### logMessage
+- [control-panel.nvim](https://github.com/mhanberg/control-panel.nvim)
+### Semantic Token
+- ### Code Block Separater
+- [separator.nvim](https://github.com/yantongl/separator.nvim)
+### url
+- [urlview.nvim](https://github.com/axieax/urlview.nvim)
+- ## gx
+- [nvim-gx](https://github.com/josa42/nvim-gx)
+| [gx-extended.nvim](https://github.com/rmagatti/gx-extended.nvim)
+| [lua-gf.nvim](https://github.com/mrjones2014/lua-gf.nvim)
+| [BetterGx.nvim](https://github.com/TobinPalmer/BetterGx.nvim)
+| [gx.nvim](https://github.com/xuanan92/gx.nvim)
+- search / cd-style filesystem navigation
+- [project.nvim](https://github.com/ahmedkhalf/project.nvim)
+### Grammar
+- [dante.nvim](https://github.com/S1M0N38/dante.nvim)
+### Ignore
+- [nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook)
+### Global variables
+- [hlglobals.nvim](https://github.com/vhminh/hlglobals.nvim)
+### Command
+- [alias.nvim](https://github.com/FredeEB/alias.nvim)
+- yank / paste / clipboard
+### Jira
+- [jira.nvim](https://github.com/Funk66/jira.nvim)
+- [jira-nvim](https://github.com/Arekkusuva/jira-nvim)
+- [jira-vim](https://github.com/paulkass/jira-vim) - best functionality of theJira plugins; may be worth updating. Or I could simply make a plugin to wrap the CLI in Go
+- [neovim-jira](https://wakatime.com/neovim-jira) 
+- ### File tracking
+- [ax.nvim](https://github.com/mikeslattery/ax.nvim)
 

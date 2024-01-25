@@ -1,3 +1,4 @@
+- [styler.nvim](https://github.com/folke/styler.nvim)  
 - theming, colors
 - [lsp-colors.nvim](https://github.com/folke/lsp-colors.nvim) deprecated
 - [vim-css-color](https://github.com/ap/vim-css-color)
@@ -110,4 +111,6 @@
 - [beacon.nvim](https://github.com/rainbowhxch/beacon.nvim)
 - ### Error highlight
 - [securitree.nvim](https://github.com/GeekMasher/securitree.nvim)
+
+- [gradient.nvim](https://github.com/oleksiiluchnikov/gradient.nvim)
 

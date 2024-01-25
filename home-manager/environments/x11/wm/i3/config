@@ -43,10 +43,10 @@ font pango:monospace 8
 # Start XDG autostart .desktop files using dex. See also
 # https://wiki.archlinux.org/index.php/XDG_Autostart
 #exec killall picom
-exec --no-startup-id kanata -c $HOME/.config/kanata/kanata.kbd
-exec --no-startup-id twoscreen
+exec --no-startup-id $HOME/.nix-profile/bin/kanata -c $HOME/.config/kanata/kanata.kbd
+exec --no-startup-id $HOME/.local/bin/twoscreen
+#exec --no-startup-id $HOME/.nix-profile/bin/nitrogen --restore
 exec --no-startup-id dex --autostart --environment i3
-exec --no-startup-id nitrogen --restore
 exec --no-startup-id lxpolkit
 #exec --no-startup-id killall picom; DISPLAY=":0" picom -b --config /home/isaac/.config/picom/config
 #exec killall picom && exec_always --no-startup-id picom --experimental-backends --config ~/.config/picom/config
@@ -89,9 +89,8 @@ set $refresh_i3status killall -SIGUSR1 i3status
 # ##############################################################################
 # ###### COLORS ################################################################
 # ##############################################################################
-#01120a
 # class                 border  backgr. text    indicator child_border
-client.focused          #4c7899 #01502b #ffffff #2e9ef4   #285577
+client.focused          #003000 #000800 #ffffff #2e9ef4   #285577
 client.focused_inactive #333333 #01120a #ffffff #484e50   #5f676a
 client.unfocused        #333333 #01120a #888888 #292d2e   #222222
 client.urgent           #2f343a #900000 #ffffff #900000   #900000
@@ -102,8 +101,6 @@ client.placeholder      #000000 #0c0c0c #ffffff #000000   #0c0c0c
 #client.unfocused        #333333 #222222 #888888 #292d2e   #222222
 #client.urgent           #2f343a #900000 #ffffff #900000   #900000
 #client.placeholder      #000000 #0c0c0c #ffffff #000000   #0c0c0c
-
-
 
 client.background #ffffff
 
@@ -132,8 +129,9 @@ floating_modifier $mod
 
 # flatpak applications
 #bindsym $mod+Return exec i3-sensible-terminal
-bindsym $mod+Return exec wezterm
-#bindsym $mod+Return exec flatpak run org.wezfurlong.wezterm
+bindsym $mod+w exec wezterm
+bindsym $mod+Shift+b exec kitty
+bindsym $mod+Return exec flatpak run org.wezfurlong.wezterm
 bindsym $mod+b exec flatpak run org.mozilla.firefox
 #bindsym $mod+c exec flatpak run org.chromium.Chromium --enable-features=WebUIDarkMode --force-dark-mode
 bindsym $mod+c exec flatpak run com.github.Eloston.UngoogledChromium --enable-features=WebUIDarkMode --force-dark-mode
@@ -144,7 +142,7 @@ bindsym $mod+f exec flatpak run engineer.atlas.Nyxt
 #bindsym $mod+Shift+v exec code ~/dockerfiles
 
 # fix two-monitor setup
-# bindsym $mod+\ twoscreen
+bindsym $mod+\ twoscreen
 # workflow
 bindsym $mod+Shift+n exec nlqcode
 
@@ -194,7 +192,7 @@ bindsym $mod+semicolon fullscreen toggle
 
 # change container layout (stacked, tabbed, toggle split)
 bindsym $mod+s layout stacking
-bindsym $mod+w layout tabbed
+bindsym $mod+shift+w layout tabbed
 bindsym $mod+e layout toggle split
 
 # toggle tiling / floating
@@ -243,7 +241,7 @@ bindsym $mod+Shift+c reload
 bindsym $mod+Shift+r restart
 # exit i3 (logs you out of your X session)
 #bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"
-bindsym $mod+shift+e exec i3-msg exit
+bindsym $mod+Shift+e exec i3-msg exit
 
 # resize window (you can also use the mouse for that)
 mode "resize" {
@@ -274,10 +272,12 @@ bindsym $mod+r mode "resize"
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
-bar {
-        status_command i3status
-}
+#bar {
+#        status_command i3status
+#}
 
 # keyboard layouts
-bindsym $mod+i exec setxkbmap -layout us -variant intl
-bindsym $mod+u exec setxkbmap -layout us
+#bindsym $mod+i exec setxkbmap -layout us -variant intl
+#bindsym $mod+u exec setxkbmap -layout us
+exec --no-startup-id $HOME/.nix-profile/bin/nitrogen --restore
+

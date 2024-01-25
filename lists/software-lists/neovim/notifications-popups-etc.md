@@ -18,3 +18,10 @@
 - [nvim-update-time](https://github.com/StonyBoy/nvim-update-time)
 - [pretty_hover](https://github.com/Fildo7525/pretty_hover)
 
+- [noice.nvim(notify)](https://github.com/folke/noice.nvim)
+
+#### [Message](https://yutkat.github.io/my-neovim-pluginlist/#message)
+- [messages.nvim](https://github.com/AckslD/messages.nvim)
+- [hlmsg.nvim](https://github.com/notomo/hlmsg.nvim)
+- [bmessages.nvim](https://github.com/ariel-frischer/bmessages.nvim)
+

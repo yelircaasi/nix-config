@@ -121,7 +121,7 @@ alias chog="sudo chown -R isaac . & sudo chgrp -R isaac . "
 #   sleep 10; alert
 
 alias vim="nvim"
-alias vi="/usr/bin/vimi.tiny"
+alias vi="/usr/bin/vim.tiny"
 alias rezsh="source ~/.zshrc"
 alias zshrc="nvim ~/.zshrc"
 alias i3c="nvim ~/.config/i3/config"

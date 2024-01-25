@@ -10,6 +10,9 @@
   imports = [
     ./components/common
     ./environments/flatpak
+    ./environments/x11/wm/i3
+    ./environments/x11/wallpaper/nitrogen
+    ./environments/x11/compositor/picom
   ];
 
   programs.zsh.enable = false;
@@ -47,5 +50,5 @@
 
   # (in common) xdg.configFile."kanata/kanata.kbd".source = ../. + ./nixos/components/kanata/kanata.kbd ;
   xdg.configFile."kanata/kanata.kbd".source = ../nixos/components/kanata/kanata.kbd;
-  xdg.configFile."nitrogen/bg-saved.cfg".source = ./environments/x11/wallpaper/nitrogen/bg-saved.cfg;
+  #xdg.configFile."nitrogen/bg-saved.cfg".source = ./environments/x11/wallpaper/nitrogen/bg-saved.cfg;
 }

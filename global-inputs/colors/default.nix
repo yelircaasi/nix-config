@@ -1,5 +1,12 @@
 {lib}: let
-  # base - follows the general base16 structure
+  # color hue alias layer =======================================================
+  blueNormal = "";
+  blueDim = "";
+  blueBright = "";
+
+  # colorscheme definitiion layer ===============================================
+
+  # base - follows the general base16 structure ---------------------------------
   base00 = "#000800"; # "#031A16"; # background
   base01 = "#002000"; # "#0B342D"; # lighter background
   base02 = "#184E45"; # selection background
@@ -16,18 +23,20 @@
   base0D = "#96883E"; # functions, methods, attribute ids, headings
   base0E = "#4C963E"; # keywords, storage, selector, markup italic, diff changed
   base0F = "#3E965B"; # deprecated, opening/closing embedded language tags, e.g. <?php ?>
-in rec {
-  #-------------------------------------------------------------------------------
-  # defaults to be used unless overriden; basically just intuitive aliases =======
+
+  # semantic alias layer ---------------------------------------------------------
   bg = base00;
   fg = base05;
+  text = fg;
   defaultBorder = base01;
 
   # general
   windowBorder = defaultBorder;
   #lines-inactive = lib.colorAverage bg defaultBorder;
   lineSeparator = defaultBorder;
-  #-------------------------------------------------------------------------------
+
+in rec {
+  #------------------------------------------------------------------------------- currently being used; need to refactor
   NormalFloat = bg;
   NeoTreeEndOfBufferBg = bg;
   NeoTreeEndOfBufferFg = bg;

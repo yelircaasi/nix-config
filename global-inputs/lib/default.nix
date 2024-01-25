@@ -13,17 +13,14 @@ let
   lookUpPlaceholder = globalSet: placeholder: let
     setName = mapPlaceholderType placeholder;
     attrName = stripPlaceholder placeholder;
-  in
-    globalSet."${setName}"."${attrName}";
+  in globalSet."${setName}"."${attrName}";
   mapPlaceholderType = phString: let
     typeName = b.substring 1 1 phString;
-  in
-    placeholderTypes."${typeName}";
+  in placeholderTypes."${typeName}";
+
 in
   (import ./color_utils.nix)
   // rec {
-    # interpolateColors = globals: filePath: "TO DO";
-    # interpolateKeybinds = globals: filePath: "TO DO";
     readAndInterpolate = globalSet: filePath: let
       fileString = b.readFile filePath;
       placeholders = findAllPlaceholders fileString;
@@ -34,11 +31,4 @@ in
       fileString;
     colorsFromTOML = x: "TO DO";
     keybindingsFromJSON = x: "TO DO";
-    #interpolateFile = attrSet: fileString: (interpolatePlaceholders (findAllPlaceholders fileString) fileString);
-    #interpolatePlaceholders = placeholderList: fileString:
-    #  b.replaceString
-    #   (formatPlaceholders placeholderList)
-    #   (retrieveFromGlobalAttrSet attrSet placeholderList)
-    #   fileString;
-    #formatPlaceholders = sep: placeholderList: b.map (formatPlaceholders sep) placeholderList;
-  }
+}

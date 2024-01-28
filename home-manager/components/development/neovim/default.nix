@@ -106,7 +106,7 @@ in {
       tabby-nvim
 
       # notifications
-      nvim-notify # alt: fidget-nvim
+      nvim-notify # alt: fidget-nvim, notifier.nvim
 
       # org (org-mode for nvim)
       custom.neorg # alt: zk-nvim (or complement?), orgmode-nvim
@@ -123,13 +123,13 @@ in {
       oil-nvim #       triptych.nvim, tfm.nvim,
       custom.nvim-genghis # nvim-tree-lua, nvim-tree-lua
 
-      # terminal
+      # terminal ----------------------------------------------------
       toggleterm-nvim # nvim-toggleterm-lua, terminal-nvim, vim-floaterm, neoterm-lua
       nvim-unception
       term-edit-nvim
       custom.wezterm-nvim # kitty-runner-nvim
 
-      # execution (code running, compiling)
+      # execution (code running, compiling) --------------------------
       sniprun
       custom.code-runner-nvim # alt: runner-nvim
       custom.compiler-nvim # yabs-nvim
@@ -137,7 +137,7 @@ in {
       custom.iron-nvim
       molten-nvim
 
-      # task runner
+      # task runner --------------------------------------------------
       overseer-nvim # vs-tasks
       custom.toggletasks-nvim # nvim-moonicipal, jaq-nvim
 
@@ -163,14 +163,14 @@ in {
       nvim-treesitter-context
       custom.agrolens-nvim
 
-      # snippets
+      # snippets ------------------------------------------------------
       luasnip
       friendly-snippets
       ultisnips
       telescope-ultisnips-nvim
       nvim-snippy
 
-      # lsp & related
+      # lsp & related ------------------------------------------------
       nvim-lspconfig
       custom.none-ls # installing, but not being found at runtime; try latest version
       lspkind-nvim
@@ -180,17 +180,17 @@ in {
       lsp_signature-nvim
       vim-illuminate
 
-      # completion
+      # completion --------------------------------------------------
       nvim-cmp
       cmp-nvim-lsp
       cmp-path
       cmp_luasnip
 
-      # debugging
+      # debugging --------------------------------------------------
       nvim-dap
       nvim-dap-ui # alt: telescope-dap-nvim
 
-      # quickfix
+      # quickfix ----------------------------------------------------
       nvim-bqf # alt: qqf-nvim
       custom.qfview-nvim # alt: nvim-pqf
       custom.neowell-lua # ?
@@ -201,23 +201,24 @@ in {
       lsp-format-nvim # ?
       nvim-lint
 
-      # refactoring
+      # refactoring --------------------------------------------------
       refactoring-nvim
 
       # folding
       pretty-fold-nvim # alt: fold-cycle-nvim, nvim-ufo, nvim-origima,
 
-      # testing and coverage
+      # testing and coverage -----------------------------------------
       custom.neotest # alt: nvim-test
       nvim-coverage
 
-      # comments
+      # comments -----------------------------------------------------
       comment-nvim
       todo-comments-nvim
 
-      # clipboard
+      # clipboard ----------------------------------------------------
       nvim-neoclip-lua # deferred-clipboard-nvim, vim-wayland-clipboard (wl-clipboard)
       clipboard-image-nvim
+      custom.yanky-nvim
 
       # git
       neogit # alt: nvim-tinygit
@@ -235,7 +236,6 @@ in {
       dial-nvim
       live-command-nvim
       renamer-nvim
-      custom.yanky-nvim
       custom.sibling-swap-nvim
       custom.move-nvim # alt: custom.moveline-nvim
       #custom.part-edit-nvim

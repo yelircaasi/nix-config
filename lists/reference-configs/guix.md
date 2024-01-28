@@ -1,5 +1,8 @@
 
 # Guix Configurations
+- [Guix Sway](https://www.youtube.com/watch?v=OYbenLOm3Js)
+- [migalmoreno](https://github.com/migalmoreno/guix-config)
+- [daviwil](https://config.daviwil.com/desktop)
 - [aartaka](https://github.com/aartaka/guix-config)
 - [akagi](https://git.sr.ht/~akagi/guixrc)
 - [alam0rt](https://github.com/alam0rt/guix-config)

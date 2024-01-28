@@ -1,5 +1,8 @@
 # Single-App Configs
 
+- [polybar](https://pastebin.com/dtF6nFBZ)
+- [eww](https://www.reddit.com/r/unixporn/comments/19cv7wu/oc_custom_nodejs_website_that_displays_the/?share_id=wPog8ryMtWtsYjVXWwDTS&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=10) (see Drive, Betsy)
+- [nyxt](https://github.com/aartaka/nyxt-config)
 - [startpages](https://www.reddit.com/r/startpages/ )
 - [make firefox great again](ff video https://youtu.be/dwZpjKH8nbo?si=8C4JJvXkJjpWF5a3 )
 [alanRizzo](https://github.com/alanRizzo/dot-files)

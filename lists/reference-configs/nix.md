@@ -1,8 +1,37 @@
 # Nix Configurations
 
-https://github.com/LamprosPitsillos/nixos-config
--> [search](https://github.com/search?q=home-manager+qutebrowser+nix+language%3ANix&type=code&l=Nix) 
--> See also [nixpkgs maintainer list](https://github.com/NixOS/nixpkgs/blob/master/maintainers/maintainer-list.nix).
+- [martijnboers](https://github.com/martijnboers/nixos)
+- [hlissner](https://github.com/hlissner/dotfiles)
+- [ryan4yin](https://github.com/ryan4yin/nix-config/)
+- [fufexan](https://github.com/fufexan/dotfiles)
+- [boj](https://github.com/boj/nixos-config)
+- [pnotequalnp nix dots with sops]( https://github.com/pnotequalnp/dotfiles/tree/473a4a76219f4fe6701524ad8973898fd31ab62c)
+- [baitinq](https://github.com/baitinq/nixos-config )
+- [jonringer](https://github.com/jonringer/nixpkgs-config)
+- [jonringer](https://github.com/jonringer/nixpkgs-config)
+- [coffee-is-power](https://github.com/coffee-is-power/nix-configuration)
+- [ryan4yin](https://github.com/ryan4yin/nix-config)
+- [ribosomerocker](https://git.sr.ht/~ribosomerocker/nixos-config)
+- [mahmoudk1000](https://github.com/mahmoudk1000/nix-config)
+- [nix-config/home/misterio/pleione.nix at main · Misterio77/nix-config](https://github.com/Misterio77/nix-config/blob/main/home/misterio/pleione.nix)
+- [nix-config/flake.nix at main · Misterio77/nix-config](https://github.com/Misterio77/nix-config/blob/main/flake.nix)
+- [nix-config/home/misterio/features/desktop/hyprland/hyprbars.nix at main · Misterio77/nix-config](https://github.com/Misterio77/nix-config/blob/main/home/misterio/features/desktop/hyprland/hyprbars.nix)
+- [nix-config/home/misterio at main · Misterio77/nix-config](https://github.com/Misterio77/nix-config/tree/main/home/misterio)
+- [nixos-config/homemanager/browsers.nix at main · novoid/nixos-config](https://github.com/novoid/nixos-config/blob/main/homemanager/browsers.nix)
+- [nixos-config/home/modules/cli/tmux.nix at master · Philipp-M/nixos-config](https://github.com/Philipp-M/nixos-config/blob/master/home/modules/cli/tmux.nix)
+- [nixos-config/configuration.nix at master · Philipp-M/nixos-config](https://github.com/Philipp-M/nixos-config/blob/master/configuration.nix)
+- [calops/nix: Personal NixOS and Home Manager configuration](https://github.com/calops/nix/tree/main)
+- [calops/nix: Personal NixOS and Home Manager configuration](https://github.com/calops/nix)
+- [colemickens/nixcfg: NixOS and Home-Manager configs for my devices. dotfiles, but way better](https://github.com/colemickens/nixcfg)
+- [jakehamilton/config: One Nix flake to rule them all.](https://github.com/jakehamilton/config)  
+- [matt1432](https://git.nelim.org/matt1432/nixos-configs/src/branch/master/devices/binto/modules/gpu-replay.nix)
+- [foo-dogsquared](https://github.com/foo-dogsquared/nixos-config/blob/refs%2Fheads%2Fmaster/configs%2Fhome-manager%2Ffoo-dogsquared%2Fmodules%2Fdotfiles.nix )
+- nix config critique https://www.reddit.com/r/NixOS/s/TI2bPmWUYW 
+- [CT Nix config video](https://www.notion.so/Scratch-a73e54b64dc04d50b797cb1347cd18f7?pvs=21)
+- [HeinzDev](https://github.com/HeinzDev/Hyprland-dotfiles (nix) )
+- [JaKooLit](https://github.com/JaKooLit/NixOS-configs)
+
+- [LamprosPitsillos](https://github.com/LamprosPitsillos/nixos-config) -> [search](https://github.com/search?q=home-manager+qutebrowser+nix+language%3ANix&type=code&l=Nix) -> See also [nixpkgs maintainer list](https://github.com/NixOS/nixpkgs/blob/master/maintainers/maintainer-list.nix).
 
 - [a-schaefers](https://github.com/a-schaefers/nix-config.old)
 
@@ -33,8 +62,7 @@ https://github.com/LamprosPitsillos/nixos-config
 
 - [cleverca22](https://github.com/cleverca22/nixos-configs)
 
-- ***************** [contrun](https://github.com/contrun/dotfiles) 
-  - nix flake, ammonite shell, ansible, haskell, cabal, nextcloud, alacritty, aria2, atuin, autokey, calibre, copyq, con, dunst, fcitx. fcron, foot, i3, i3blocks, i3status-rust, i3status, kakoune with lsp, karabiner, kupfer, latexmk, luakit, midnight commander, mpv, mutt, nixpkgs, nvim, nvimpager, papis, parcellite, fish, pry (ruby), qpdfview, qutebrowser, ranger, rclone, rofi, sslh, sway, sxkhd, syncthing-gtk, systemd, terminator, termite, termonad, tilda, todoman, tridactyl, uzbl, vdirsyncer, wezterm, xkeysnail, xmobar, youtube-dl, zathura, screenkey
+- ***************** [contrun](https://github.com/contrun/dotfiles) - nix flake, ammonite shell, ansible, haskell, cabal, nextcloud, alacritty, aria2, atuin, autokey, calibre, copyq, con, dunst, fcitx. fcron, foot, i3, i3blocks, i3status-rust, i3status, kakoune with lsp, karabiner, kupfer, latexmk, luakit, midnight commander, mpv, mutt, nixpkgs, nvim, nvimpager, papis, parcellite, fish, pry (ruby), qpdfview, qutebrowser, ranger, rclone, rofi, sslh, sway, sxkhd, syncthing-gtk, systemd, terminator, termite, termonad, tilda, todoman, tridactyl, uzbl, vdirsyncer, wezterm, xkeysnail, xmobar, youtube-dl, zathura, screenkey
 
 - [coreyoconnor](https://github.com/coreyoconnor/nix_configs)
 

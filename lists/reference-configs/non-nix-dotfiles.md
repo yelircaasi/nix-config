@@ -1,90 +1,110 @@
 # Non-Nix Dotfiles
 
 ## Bare
+- [Riverwm with Yambar](https://www.reddit.com/r/UsabilityPorn/s/oE9xxCZZJq ) - 
+- [alexmuxika](https://github.com/AlexMuxika/configs) -  [init](https://raw.githubusercontent.com/AlexMuxika/configs/main/init) - 
+- [alexvzyl](https://github.com/AlexvZyl/.dotfiles) - 
+- [alt-f4-llc !!!](https://github.com/ALT-F4-LLC/dotfiles-nixos)
+- [Anomalocaridid](https://github.com/Anomalocaridid/dotfiles)
 - [Aquarius0715](https://github.com/Aquarius0715/HomeDirectory) - dbus, emacs, intellij idea, ipython, java, ssh, vim, vimware, Xauthority, xsession, zsh, gstreamer, ibus
+- [argosatcore](https://codeberg.org/argosatcore/Deb_Dots) - debian, sway, emacs, bash, vim, inputrc, environment.d, foot, fuzzel, kanshi, libreoffice, mako, mpd, mpv, nvim, sway, swayimg, swaylock, waybar, wlogout, mimeapps.list
+- [ashenoy463](https://github.com/ashenoy463/dotfiles) - 
+- [aworldc](https://www.github.com/Aworldc/dots) - 
+- [BA_usr](https://gitlab.com/BA_usr/dotfiles-for-hyperland/)
 - [BeelzebubOfGluttony  ](https://github.com/BeelzebubOfGluttony/dotfiles) - kitty, dunst, polybar, firefox, rofi, ranger, neovim (nvchad), cascadia code, iosevka term, nerdfont, weather icons, materia
-- [Elteoremadebeethoven](https://github.com/Elteoremadebeethoven?tab=repositories) - nvim, manim, i3, i3blocks, rofi, lunarvim, manim-revealjs, 
-- [Fedora-Titus](https://github.com/ChrisTitusTech/Fedora-Titus) - 
-- [Stardust-kyun ](https://github.com/Stardust-kyun/dotfiles) - endeavorOS, awesomewm, nemo, librewolf, st, bash, vim, gtk. Xresources, picom
-- [Tottitov ](https://github.com/Tottitov/dotfiles) - beets, dunst, firefox, fontconfig, foot, git, gnnupam, gtk, kanshi, mbsync @@@, mpd, mpv, msmtp @@@, mutt, ncmcpp, newsboat, nvim, pipewire, river, scripts, shell, tofi, transmission, tremc @@@, vim, waybar, whipper, zsh
 - [berthosefin  ](https://github.com/berthosefin/dotfiles) - keybind list, lightdm, webkit2 greeter, xfce, i3-gaps, rofi, ulauncher, polybar, picom-jonabug-git, lxappearance, nordic-darker, nord-darker icons, roboto font, iosevka custom, thunar, ranger, firefox, brave, htop, tlp (power manager), viewnior, feh, pulseaudio, alacritty, zsh, file-roller, dunst, gimp, vim, vscodium, ncmcpp, rythmbox, mixxx, clementine, mpv, vlc, polkit-gnome, scrot, feh, pywal
+- [bibjaw99](https://github.com/bibjaw99/workstation) - 
+- [chadcat7/crystal](https://github.com/chadcat7/crystal) - 
+- [chasyxx](https://github.com/Chasyxx/bspwm-purple) - 
 - [cherrynoize  ](https://github.com/cherrynoize/dash-dotfiles) dark-light color switcher, Xresources, bash, feh, git, inputrc, vim, xinit, zsh, alacritty, bash-git-prompt, bspwm, conky, dunst, fish, neofetch, nvim, picom, polybar, ranger, redshift, rofi, sxhkd, vlc, starship
+- [command-z-z](https://github.com/command-z-z/Arch-dotfiles)
+- [crzjp](https://codeberg.org/crzjp/dotfiles) - 
 - [danielgafni](https://github.com/danielgafni/dotfiles) - zsh, hyprland nvidia launcher, alacritty, btoop, common, eww, helix, hypr, kitty, mako, nvim, ranger, sheldon, swaylock, waybar, wlogout, wofi, zathura, zellij, starship, zoomus
 - [danielo515](https://github.com/danielo515?tab=repositories) - neovim
-- [drewgrif](https://github.com/drewgrif/dotfiles) - bash, dwm, scripts, polybar, pulseaudio, alacritty, bspwm, dk, sxhkd, dunst, i3, kitty, neofetch, nvim, picom, polybar, qtile, rofi, suckless, sway, waybar, wofi
-- [lanej  ](https://github.com/lanej/dotfiles) - ck, alacritty, bash, bat, scripts, bspwm, ctags, fish, git, i3, iterm, kitty, nvim, oni, polybar, powerline, python, qute, ruby, sh, spotify-player, termite, vim, zsh
-- [nickjj](https://github.com/nickjj/dotfiles) [post](https://nickjanetakis.com/blog/the-tools-i-use) - zsh, vim, ruby, git, tmux, zsh
-- [theooo](https://codeberg.org/theooo/wayland) - dunst, foot, rofi, sway, waybar
-- [xero](https://github.com/xero/dotfiles) - 
-- [vallen217](https://github.com/vallen217/dotfiles) - 
-- [sspaeti](https://github.com/sspaeti/dotfiles) - 
-- [nitestack](https://github.com/nitestack/dotfiles) - 
-- [solidiquis](https://github.com/solidiquis/dotfiles) - 
-- [bibjaw99](https://github.com/bibjaw99/workstation) - 
-- [linuxdabbler](https://github.com/linuxdabbler/personal-dot-files/tree/master/config) - 
-- [linuxdabbler (Gitlab profile)](https://github.com/linuxdabbler)  - 
-- [nitestack](https://github.com/linuxdabbler/personal-dot-files) - 
-- [alt-f4-llc !!!](https://github.com/ALT-F4-LLC/dotfiles-nixos) - 
-- [oxalica](https://github.com/oxalica/nil) - 
-- [linuxdabbler](https://gitlab.com/linuxdabbler/dotfiles) - 
-- [jason-goon](https://github.com/Jason-Goon/dwm_dotfiles) - 
-- [szelwiga](https://github.com/Szelwiga/dots) - 
-- [tectonic-typesetting](https://github.com/tectonic-typesetting/tectonic) - 
-- [nyxfr](https://github.com/nyxfr/.dotfiles) - btop, cava, dunst, fish, hypr, kitty, mc, neofetch, nvim, paru, rofi, swaybg, swaylock, tmux, waybar, wlogout, starship, scripts, fonts
-- [jakoolit](https://github.com/JaKooLit/Hyprland-Dots) - editorconfig, scripts, kvantum, btop, cava, kitty, qt5ct, qt6ct, rofi, swappy, swaylock, swaync, wal, waybar, wlogout
-- [magnotec1 !!!](https://github.com/Magnotec1/photosynthesis-dots) - firefox, kitty, neofetch, polybar, rofi, startpage
-- [argosatcore](https://codeberg.org/argosatcore/Deb_Dots) - debian, sway, emacs, bash, vim, inputrc, environment.d, foot, fuzzel, kanshi, libreoffice, mako, mpd, mpv, nvim, sway, swayimg, swaylock, waybar, wlogout, mimeapps.list
-- [chadcat7/crystal](https://github.com/chadcat7/crystal) - 
-- [kannakalyan05](https://github.com/kannakalyan05/hyprland) - 
-- [justinlime](https://github.com/justinlime/dotfiles) - 
-- [vidfurlan](https://github.com/VidFurlan/Dotfiles) - 
-- [edu-flores](https://github.com/edu-flores/linux-dotfiles) - automated theme switching, alacritty, dunst, i3, picom, polybar, rofi, zsh, scripts
-- [kelpwave](https://github.com/kelpwave/river-dots) - 
-- [Riverwm video](https://www.youtube.com/watch?v=MwnK6arB2Rc)) - 
-- [chasyxx](https://github.com/Chasyxx/bspwm-purple) - 
-- [ashenoy463](https://github.com/ashenoy463/dotfiles) - 
-- [rifsxd](https://github.com/rifsxd/oh-my-awesomewm-dots) - 
-- [alexvzyl](https://github.com/AlexvZyl/.dotfiles) - 
-- [myterminal](https://github.com/myTerminal/dotfiles) - 
-- [mandri97](https://github.com/Mandri97/dotfiles) - 
-- [**Riverwm with Yambar**](https://www.reddit.com/r/UsabilityPorn/s/oE9xxCZZJq ) - 
-- [lauriset](https://github.com/lauriset) - 
-- [nord hyprland](https://github.com/clamsfeel2/dots)  - 
-- [tentypematus](https://gitlab.com/TenTypekMatus/tokyonight-dots) i3, alacritty, fish, BetterDiscord, gtk, hypr, neofetch, nvim, polybar, rofi, picom
-- [mizzunet](https://github.com/mizzunet/dots) - 
-- [alexmuxika](https://github.com/AlexMuxika/configs) - 
-- [rx-py](https://github.com/rx-py/i3wm-dotfi) - 
-- [crzjp](https://codeberg.org/crzjp/dotfiles) - 
-- [euro20179](https://github.com/Euro20179/.files) - 
-- [soldoestech](hyprland https://github.com/SolDoesTech/HyprV2/tree/main) - 
-- [ipg0](https://github.com/ipg0/dotfiles-hypr) - 
-- [noriaku](https://github.com/noriaku/dotfiles-arch) - 
-- [aworldc](https://www.github.com/Aworldc/dots) - 
-- [husseinhareb](https://github.com/husseinhareb/my-dotfiles) - 
-- [xinux-org](https://github.com/xinux-org/configs) - 
 - [datsfelipe](https://github.com/datsfilipe/dotfiles) - 
-- [waffle87](https://github.com/waffle87/dots/tree/kepler → see other branches) - 
-- [mariasol0s](https://github.com/MariaSolOs/dotfiles) - 
+- [deepaknegilachu](https://codeberg.org/deepaknegilachu/.dotfiles)
+- [distilledx](https://github.com/distilledx/dotfiles)
+- [drewgrif](https://github.com/drewgrif/dotfiles) - bash, dwm, scripts, polybar, pulseaudio, alacritty, bspwm, dk, sxhkd, dunst, i3, kitty, neofetch, nvim, picom, polybar, qtile, rofi, suckless, sway, waybar, wofi
+- [edu-flores](https://github.com/edu-flores/linux-dotfiles) - automated theme switching, alacritty, dunst, i3, picom, polybar, rofi, zsh, scripts
+- [Elteoremadebeethoven](https://github.com/Elteoremadebeethoven?tab=repositories) - nvim, manim, i3, i3blocks, rofi, lunarvim, manim-revealjs, 
+- [euro20179](https://github.com/Euro20179/.files) - 
+- [Fedora-Titus](https://github.com/ChrisTitusTech/Fedora-Titus) - 
+- [gnulinux-projects](https://gitlab.com/gnulinux-projects/My_Linux_Files)
+- [husseinhareb](https://github.com/husseinhareb/my-dotfiles) - 
+- [iil4](https://github.com/ii14/dotfiles) - 
+- [ipg0](https://github.com/ipg0/dotfiles-hypr) - 
+- [jakoolit](https://github.com/JaKooLit/Hyprland-Dots) - editorconfig, scripts, kvantum, btop, cava, kitty, qt5ct, qt6ct, rofi, swappy, swaylock, swaync, wal, waybar, wlogout
+- [jason-goon](https://github.com/Jason-Goon/dwm_dotfiles) - 
 - [jjba-projects](https://gitlab.com/jjba-projects/dotfiles) - 
+- [jjba-projectsk](https://gitlab.com/jjba-projects/dotfiles)
+- [justinlime](https://github.com/justinlime/dotfiles) - 
+- [jwalke23](https://github.com/jwalke23/mydotfiles)
+- [kannakalyan05](https://github.com/kannakalyan05/hyprland) - 
 - [karshprime](https://github.com/karshPrime/dotfiles) - 
-- [alexmuxika](https://raw.githubusercontent.com/AlexMuxika/configs/main/init) - 
+- [kelpwave](https://github.com/kelpwave/river-dots) - 
+- [kernelpanic95](https://github.com/kernelpanic95/dotfiles)
+- [lanej  ](https://github.com/lanej/dotfiles) - ck, alacritty, bash, bat, scripts, bspwm, ctags, fish, git, i3, iterm, kitty, nvim, oni, polybar, powerline, python, qute, ruby, sh, spotify-player, termite, vim, zsh
+- [lauriset](https://github.com/lauriset) - 
+- [linuxdabbler (Gitlab profile)](https://github.com/linuxdabbler)  - 
+- [linuxdabbler](https://github.com/linuxdabbler/personal-dot-files/tree/master/config) - 
+- [linuxdabbler](https://gitlab.com/linuxdabbler/dotfiles) - 
+- [magnotec1 !!!](https://github.com/Magnotec1/photosynthesis-dots) - firefox, kitty, neofetch, polybar, rofi, startpage
+- [mahmoudk1000](https://github.com/mahmoudk1000/dotfiles) - 
 - [mahmoudk1000/awedots](https://github.com/mahmoudk1000/awedots) - 
 - [mahmoudk1000/startpage](https://github.com/mahmoudk1000/startpage) - 
-- [mahmoudk1000](https://github.com/mahmoudk1000/dotfiles) - 
+- [mandri97](https://github.com/Mandri97/dotfiles) - 
+- [mariasol0s](https://github.com/MariaSolOs/dotfiles) - 
+- [martinbaillie](https://github.com/martinbaillie/dotfiles)
+- [maydayv7](https://github.com/maydayv7/dotfiles)
+- [meain](https://github.com/meain/dotfiles/blob/refs%2Fheads%2Fmaster/nyxt%2F.config%2Fnyxt%2Fconfig.lisp)
+- [mizzunet](https://github.com/mizzunet/dots) - 
 - [muppetcode](https://github.com/muppetcode/dotfiles-manjaro) - 
-- [tottitov](https://github.com/Tottitov/.dotfiles) - 
+- [myagko](https://github.com/myagko/dotfiles)
+- [myterminal](https://github.com/myTerminal/dotfiles) - 
+- [nickjj](https://github.com/nickjj/dotfiles) [post](https://nickjanetakis.com/blog/the-tools-i-use) - zsh, vim, ruby, git, tmux, zsh
+- [nitestack](https://github.com/linuxdabbler/personal-dot-files) 
+- [nitestack](https://github.com/nitestack/dotfiles) - 
+- [nmdra](https://nmdra.github.io) [gh](https://github.com/nmdra/Dotfiles) [uses](https://nmdra.github.io/uses/)
 - [nonamescm](https://github.com/nonamescm/dotfiles) - 
-- [iil4](https://github.com/ii14/dotfiles) - 
+- [nord hyprland](https://github.com/clamsfeel2/dots)  - 
+- [noriaku](https://github.com/noriaku/dotfiles-arch) - 
+- [nyxfr](https://github.com/nyxfr/.dotfiles) - btop, cava, dunst, fish, hypr, kitty, mc, neofetch, nvim, paru, rofi, swaybg, swaylock, tmux, waybar, wlogout, starship, scripts, fonts
+- [Onizuka893](https://github.com/Onizuka893/dotfiles)
+- [oxalica](https://github.com/oxalica/nil) - 
+- [rifsxd](https://github.com/rifsxd/oh-my-awesomewm-dots) - 
+- [Riverwm video](https://www.youtube.com/watch?v=MwnK6arB2Rc)) - 
+- [rx-py](https://github.com/rx-py/i3wm-dotfi) - 
+- [seraph036](https://github.com/seraph036/nekravol)
+- [soldoestech](hyprland https://github.com/SolDoesTech/HyprV2/tree/main) - 
+- [solidiquis](https://github.com/solidiquis/dotfiles) - 
+- [ssamin69](https://github.com/ssamin69/new-dots)
+- [sspaeti](https://github.com/sspaeti/dotfiles) - 
+- [Stardust-kyun ](https://github.com/Stardust-kyun/dotfiles) - endeavorOS, awesomewm, nemo, librewolf, st, bash, vim, gtk. Xresources, picom
+- [stephan.raabe](https://gitlab.com/stephan.raabe)
+- [szelwiga](https://github.com/Szelwiga/dots) - 
+- [tectonic-typesetting](https://github.com/tectonic-typesetting/tectonic) - 
+- [tentypematus](https://gitlab.com/TenTypekMatus/tokyonight-dots) i3, alacritty, fish, BetterDiscord, gtk, hypr, neofetch, nvim, polybar, rofi, picom
+- [theooo](https://codeberg.org/theooo/wayland) - dunst, foot, rofi, sway, waybar
+- [Tottitov ](https://github.com/Tottitov/dotfiles) - beets, dunst, firefox, fontconfig, foot, git, gnnupam, gtk, kanshi, mbsync @@@, mpd, mpv, msmtp @@@, mutt, ncmcpp, newsboat, nvim, pipewire, river, scripts, shell, tofi, transmission, tremc @@@, vim, waybar, whipper, zsh
+- [tottitov](https://github.com/Tottitov/.dotfiles) - 
+- [ValdezFOmar](https://github.com/ValdezFOmar/.dotfiles)
+- [vallen217](https://github.com/vallen217/dotfiles) - 
+- [vidfurlan](https://github.com/VidFurlan/Dotfiles) - 
+- [waffle87](https://github.com/waffle87/dots/tree/kepler → see other branches) - 
+- [xero](https://github.com/xero/dotfiles) - 
+- [xinux-org](https://github.com/xinux-org/configs) - 
 
 ## hyprland
+
   - [1arsna1](https://github.com/1Arsna1/HyprStream.git) [Reddit](https://www.reddit.com/r/unixporn/comments/12v4zyn/hyprland_i_think_i_installed_some_melware/)
   - [alyanser](https://github.com/alyanser/dotfiles) - arch wayland, fontconfig, gtk-3.0, hypr, mpd, ncmcpp, nvim, waybar, wofi, xremap, bash, inputrc
   - [amadeusWM](https://github.com/AmadeusWM/hyprland-winter)
   - [anhvo8836](https://gitlab.com/anhvo8836/hyprland)
-  - [axenide Dotfiles](https://github.com/Axenide/Dotfiles)hyprland
+  - [axenide Dotfiles](https://github.com/Axenide/Dotfiles) - hyprland
   - [axenide Dots-2023-03-28](https://github.com/Axenide/Dots-2023-03-28) [Reddit](https://www.reddit.com/r/unixporn/comments/124ta5r/hyprland_this_is_the_longest_i_have_gone_without/) hyprland
   - [chiefdinkan](https://github.com/chiefdinkan/dotfiles) [Reddit](https://www.reddit.com/r/unixporn/comments/12s2l1p/hyprlandwaybarrofi_visuosymmetriphilia/)
   - [chrisTitusTech](https://github.com/ChrisTitusTech/hyprland-titus)- dunst, hyprland, kitty, pipewire, rofi, swaylock, waybar, wlogout
+  - [darshanCommits](https://github.com/darshanCommits/dotfiles) - [scripts](https://github.com/darshanCommits/Linux-Scripts-Dots) Wallpaper: [I see a door and I want to paint it black](https://github.com/darshanCommits/Linux-Scripts-Dots/blob/master/goatv2.png) GTK: [Dracula](https://draculatheme.com/gtk) Music Player: [MusicMeister](https://greeed-music.netlify.app/) [Git Repo](https://github.com/darshanCommits/musicMeister.git) That goofy app: [Jadoo](https://greeed-jadoo.netlify.app/) [Git Repo](https://github.com/darshanCommits/Jadoo.git/) - foot, helix, hyprland, keyd, mako, rofi, waybar, wezterm, yazi, zathura, zsh, mimeapps, surfing-keys.js
   - [end-4](https://github.com/end-4/dotfiles) 
   - [end-4](https://github.com/end-4/dotfiles) 
   - [error-404](https://github.com/ERROR-404-NULL-NOT-FOUND/librepad-dotfiles) [Reddit](https://www.reddit.com/r/unixporn/comments/12nah01/hyprland_beneath_the_surface/)
@@ -96,6 +116,7 @@
   - [illegitimiate-egg](https://github.com/illegitimate-egg/dotfiles-improved) [Reddit](https://www.reddit.com/r/unixporn/comments/12sel5t/hyprland_black_white_rice/)
   - [imRlyQt wallpad](https://github.com/ImRlyQt/wallpad)ImRlyQt - hyprland, kitty, waybar, waybar, wofi, zsh, p10k
   - [imrayy](https://github.com/ImRayy/dotfiles) [Reddit](https://www.reddit.com/r/unixporn/comments/12dbp8v/hyprland_my_first_rice)
+  - [JaKooLit](https://github.com/JaKooLit/Hyprland-Dots)
   - [joshM-Yoru](https://github.com/JoshM-Yoru/dotfiles) - tmux, catpuccin, cava, snippets, hypr, kitty, lvim, neofetch, neovim, sway, swaylock, waybar, wofi, youtubemusic (ytmdesktop), zathura, kitty, picom, starship, zsh
   - [k0SS4](https://github.com/K0SS4/.dotfiles) [Reddit](https://www.reddit.com/r/unixporn/comments/12sel5t/hyprland_black_white_rice/)
   - [linuxdotexe](https://github.com/linuxdotexe/.dotfiles) [Reddit](https://www.reddit.com/r/unixporn/comments/1246eeo/kde_first_rice_nord_minimal_and_simple_just_a/) hyprland
@@ -107,6 +128,7 @@
   - [my-new-desktop-hyprland](https://christitus.com/my-new-desktop-hyprland) 
   - [oman395](https://github.com/Oman395/hyprland-dots) [Reddit](https://www.reddit.com/r/unixporn/comments/12qpcmz/hyprland_did_you_know_lofi_girl_made_a_synthwave/)
   - [parapsychic](https://github.com/parapsychic/dot-files/) [Reddit](https://www.reddit.com/r/unixporn/comments/12rx8gr/hyprland_finally_moved_to_wayland_still_havent/)
+  - [prasanthrangan](https://github.com/prasanthrangan/hyprdots) [video](https://www.youtube.com/watch?v=WuZ2T6D_9yI)
   - [prettykool](https://github.com/prettykool/dots)prettykool - with drop-shadow - [eww](https://github.com/elkowar/eww), [hyprland,](https://github.com/hyprwm/Hyprland) [emacs,](https://www.gnu.org/software/emacs/) [rofi,](https://github.com/davatorium/rofi) [swww,](https://github.com/Horus645/swww) [nnn,](https://github.com/jarun/nnn) [zathura,](https://git.pwmt.org/pwmt/zathura) [alacritty,](https://github.com/alacritty/alacritty) [newsboat,](https://github.com/newsboat/newsboat) [ncmpcpp,](https://github.com/ncmpcpp/ncmpcpp) [opensuse tumbleweed](https://get.opensuse.org/tumbleweed/)
   - [proxzima](https://github.com/PROxZIMA/.dotfiles/)PROxZIMA - archcraft, vscode, neovim, firefox, zsh, btop, ryzen 7, nvidia, hyprland, kitty, tokyonight-dark-bl-lb, tokyonight-moon icons, caskadiyacove nerd font, trivago
   - [shvedes](https://github.com/shvedes/dotfiles) - arch, hyprland, dunst swaybg, alacritty, thunar, neovim, firefox, chrome, fish, mpv, rofi
@@ -115,6 +137,7 @@
   - [thuanowa](https://github.com/thuanowa/dotfiles) - neovim, bash, git, vim, hyprland, ssh, wofi, tmux, editorconfig, ripgrep, crontab, vscode, surfingkeys.js, touchcursor, nvchad, lazyvim, fish, foot, zellij, alacritty, git, helix, ssh, npm,
   - [unixrises](https://github.com/Qeatrix/UnixRises) [Reddit](https://www.reddit.com/r/unixporn/comments/11clpem/hyprland_serenity_dark/) hyprland
   - [visual-dawg](https://github.com/Visual-Dawg/space_dots)
+  - [VladimirPapazov88](https://github.com/VladimirPapazov88/Everforest-Hyprland)
   - [wayland-dotfiles](https://github.com/liamrahum/wayland-dotfiles) [Reddit](https://www.reddit.com/r/unixporn/comments/12uad6j/hyprland_waylands_looking_promising)
   - [yelojello](https://github.com/yelojello/hyprlandcfg) [Reddit](https://www.reddit.com/r/unixporn/comments/12ta6d3/hyprland_new_to_arch_heres_my_rice/)
   - [yousifm](https://github.com/yousifm/dotfiles) [reddit](https://www.reddit.com/r/unixporn/comments/132yzuw/hyprland_catppuccin_everything/)
@@ -134,12 +157,13 @@
   - [arch-linux-configs](https://github.com/akaminer11/arch-linux-configs)nvim and i3 - alacritty, i3, nvim, picom, scripts, terminator, vifm, wallpapers
   - [calinLeafShade](https://github.com/CalinLeafshade/dots)CalinLeafshade - x11, alacritty, bash, dunst, gtk, i3, mpd, ncmcpp, nvim, picom, polybar, redshift, rofi, termite, wallpapers
   - [chiarelloNicolo](https://github.com/ChiarelloNicolo/dotfiles) [Reddit](https://www.reddit.com/r/unixporn/comments/112iink/i3wmpolybar_first_simple_rice/)
-  - [cloud-computer ](https://github.com/cloud-computer/dotfiles) - for running on desktop and in the cloud, Docker install scripts, [acpi](https://github.com/dortania/Getting-Started-With-ACPI) (hardware stuff), alsa-utils, apt-file, apt-utils, arandr, asciinema, autoconf, autorandr, bat, bc, build-essential, cargo, cava, cmake, matrix, colorized-logs, curl, dbus-x11, dnsmasq, dnsutils, [docker.io](http://docker.io/), exa, feh, fzf, ffmpeg, figlet, fonts-font-awesome, fonts-noto-color-emoji, g++, gcc, gimp, git, golang-go, gtk-theme-switch, gtk+3.0, htop, i3 dunst-, i3blocks, iftop, iputils-ping, jq, keychain, ksnip, libnotify-bin, libnss3-tools, libterm-readkey-perl, lsb-release, maim, make, man-db, mpd, mpv, nano, ncdu, ncmpcpp, neovim, net-tools, netcat-openbsd, numlockx, openssl, openvpn, pavucontrol-qt, pcmanfm, perl, pipx, pkg-config, pulseaudio, pulseaudio-module-zeroconf, pulsemixer, python3, python3-pip, ranger, redshift, ruby, slop, software-properties-common, ssh, sshpass, strace, stress, sudo, tig, tigervnc-scraping-server, tigervnc-standalone-server, tmux, transmission-cli, transmission-common, transmission-daemon, tree, unclutter-xfixes, vcsh, vim, wdiff, wmctrl, xauth, xautolock, xclip, xdotool, xinit, xinput, xorg, xsel, xserver-xorg, xterm, zathura, zsh, alacritty, arc (archiver), aws-cli, bandwhich, beekeeper studio, bluetuith, chrome, discord, dive, docker-compose, dunst, fastfetch, gh, gotop, gping, i3lock, i3 extras, invidtui, jobber, jump, kdenlive, lazyvim, mopidy, nerd fonts, nodejs, novnc, op, picom, pywal, speedtest, thorium, timeago, tldr, ueberzugapp, vscode, shfmt, vs-wal, xava, xcolor, yarn, openvpn, clipboard-cli, diff-so-fancy, github-email, http-server, imgur-uploader-cli, localtunnel, nativefier, nodemon, rebase-editor
   - [chick2d](https://github.com/Chick2D/dotfiles) [reddit](https://www.reddit.com/r/unixporn/comments/12s7ril/i3gaps_first_time_using_i3_ever/)  [i3 config](https://qubix.s-ul.eu/PRg0ci3e) [Polybar](https://qubix.s-ul.eu/7GSq9OIQ) [Picom](https://qubix.s-ul.eu/IMKVjH1E) 
+  - [cloud-computer ](https://github.com/cloud-computer/dotfiles) - for running on desktop and in the cloud, Docker install scripts, [acpi](https://github.com/dortania/Getting-Started-With-ACPI) (hardware stuff), alsa-utils, apt-file, apt-utils, arandr, asciinema, autoconf, autorandr, bat, bc, build-essential, cargo, cava, cmake, matrix, colorized-logs, curl, dbus-x11, dnsmasq, dnsutils, [docker.io](http://docker.io/), exa, feh, fzf, ffmpeg, figlet, fonts-font-awesome, fonts-noto-color-emoji, g++, gcc, gimp, git, golang-go, gtk-theme-switch, gtk+3.0, htop, i3 dunst-, i3blocks, iftop, iputils-ping, jq, keychain, ksnip, libnotify-bin, libnss3-tools, libterm-readkey-perl, lsb-release, maim, make, man-db, mpd, mpv, nano, ncdu, ncmpcpp, neovim, net-tools, netcat-openbsd, numlockx, openssl, openvpn, pavucontrol-qt, pcmanfm, perl, pipx, pkg-config, pulseaudio, pulseaudio-module-zeroconf, pulsemixer, python3, python3-pip, ranger, redshift, ruby, slop, software-properties-common, ssh, sshpass, strace, stress, sudo, tig, tigervnc-scraping-server, tigervnc-standalone-server, tmux, transmission-cli, transmission-common, transmission-daemon, tree, unclutter-xfixes, vcsh, vim, wdiff, wmctrl, xauth, xautolock, xclip, xdotool, xinit, xinput, xorg, xsel, xserver-xorg, xterm, zathura, zsh, alacritty, arc (archiver), aws-cli, bandwhich, beekeeper studio, bluetuith, chrome, discord, dive, docker-compose, dunst, fastfetch, gh, gotop, gping, i3lock, i3 extras, invidtui, jobber, jump, kdenlive, lazyvim, mopidy, nerd fonts, nodejs, novnc, op, picom, pywal, speedtest, thorium, timeago, tldr, ueberzugapp, vscode, shfmt, vs-wal, xava, xcolor, yarn, openvpn, clipboard-cli, diff-so-fancy, github-email, http-server, imgur-uploader-cli, localtunnel, nativefier, nodemon, rebase-editor
   - [clyde80](https://github.com/clyde80/i3-configuration) [black, green, and white rice](https://imgur.com/gallery/CNCaK)
   - [crivotz ](https://github.com/crivotz/dot_files)- i3, zinit, tmux, tmuxinator, st, kitty, polybar, ranger, rofi, wezterm
   - [desktop-config](https://github.com/Zedjones/desktop-config)Zedjones - moded i3lock, pywal, node-did, vim, zsh with pure prompt, 
   - [direwolf-arch-rice](https://github.com/ibrahimbutt/direwolf-arch-rice)- (old) dconf, i3, polybar, ranger
+  - [f1rq](https://github.com/f1rq/dotfiles)
   - [gideonwolfe](https://github.com/GideonWolfe/dots)- i3-gaps, fish, firefox, chameleon (color switch script), dunst, polybar, picom, rofi, xmenu, neovim, latex, gnuplot, matplotlib, bashtop, gotop, s-tui, zathura, nautilus, ranger, pavucontrol, khal, khard, peaclock, cava, dijo,
   - [jessfraz](https://github.com/jessfraz/dotfiles) - fontconfig, gnupg, i3, irssi, urxvt, slack, yubikey, bash, docker, gtk, inputrc, systemd, slim, x11, modprobe, pulse, ssh, sysctl, motd, systemd, mpd, gnupg
   - [joshrandall8478](https://github.com/joshrandall8478/kde-rice)joshrandall8748 - arch, kitty, yaquake, latte-dock, Breeze theme, kitty, ranger, i3lock-fancy, zathura, rofi, jetbrains font
@@ -147,17 +171,24 @@
   - [kaiec](https://github.com/kaiec/dotfiles) - bash, doom emacs, mutt, offlineimap, reveal.js, screenlayout, taskwarrior, timewarrior, tmux, urxvt, vim, xkb, inputrc, todo.txt, notmuch-mutt, xonsh, zsh, conky, i3, i3blocks, i3status, khal, kitty, neovim, polybar, powerline-shell, rofi, vdirsyncer, vifm, wtf, zathura, flake8, mimeapps, msmtp, offlineimap
   - [knyfic/kgruvbox](https://github.com/knyfic/kgruvbox)- tty-clock, kitty, spicetify, cava, i3-gaps, dunst, dmenu, polybar,
   - [l00sed](https://github.com/l00sed/.dotfiles-public)100sed - dotter, xresources, alacritty, arbtt, bash, coc, compton, dBug, flake8, fusuma, i3, .inputrc, kitty, pipe-viewer, python, ripgrep, rofi, screenkey, scripts, tmate, tmux, vim, zsh
+  - [LASER-WOLF](https://github.com/LASER-WOLF/dotfiles) - i3, picom, feh, good notes, mplayer, vim, bash, urxvt, rofi, fonts
   - [liamrahum](https://github.com/liamrahum/dotfiles)i3
   - [lordmzte](https://git.mzte.de/LordMZTE/dotfiles) - rust, ssh, nvim, zig, nvim in zig and fennel,
   - [lsdrfrx](https://github.com/lsdrfrx/dotfiles) - i3, kitty, lvim, polybar, ranger, xborder, picom
   - [mauromotion ](https://github.com/mauromotion/dotfiles) - [beautiful green/gray](https://github.com/mauromotion/dotfiles) - TauonMusicBox, bash, dunst, fish, i3, kitty, nvim, nvim_mauro, picom, polybar, pulse, rofi, tmux, wezterm, zsh - almost perfect stack
   - [osx-dotfiles](https://github.com/madeline-xoxo/osx-dotfiles) [Reddit](https://www.reddit.com/r/unixporn/comments/1227ydn/i3wm_picom_aquaish/) i3
+  - [ParallaxWave $$$](https://github.com/ParallaxWave/blood_i3)
+  - [ParallaxWave $$$](https://github.com/ParallaxWave/minimal_nord_i3)
+  - [ParallaxWave $$$$$$$$$](https://github.com/ParallaxWave/material_green_i3)
+  - [ParallaxWave](https://github.com/ParallaxWave/dotfiles) - i3gaps, compton, rofi, vim, tint2
   - [penguinRice](https://github.com/p3nguin-kun/penguinRice)
   - [percybolmer](https://github.com/percybolmer/dotfiles) - i3, nvim, polybar, git, tmux, zsh
   - [phantas0s](https://github.com/Phantas0s/.dotfiles) - Arch Linux with i3 / nvim / tmux / urxvt / zsh
+  - [ranjan](https://codeberg.org/ranjan/dotfiles)
   - [rtisma](https://github.com/rtisma/i3-dotfiles)rtisma - dunst, i3, i3status, compton.conf, urxvt, Xresources, xsettings, ncmcpp
   - [seniorMars ](https://github.com/SeniorMars/dotfiles) - neovim, i3, zsh, flameshot, neomutt, alacritty, tex, firefox
   - [seniorMars](https://github.com/SeniorMars/dotfiles) - i3, picom, nvim, flameshot, zsh, neomutt, alacritty, gruvbox, zathura, feh, tmux, neofetch, gotop, cmus, pipessh, vis, firefox, BetterDiscord, [vis](https://github.com/martanne/vis)
+  - [shenawy29](https://github.com/shenawy29/.dotfiles)
   - [shiro69420](https://github.com/Shiro69420/dotfiles) - i3, kitty, neofetch, nitrogen, picom, polybar
   - [sommaa](https://github.com/sommaa/dots)- ubuntu, x11, picom, polybar, rofi, neovim, dunst, astronvim, i3-gaps, kitty, zsh, p10k, zathura, ranger, nala, spicetify, ePapirus-Dark, xborders, i3_alternating_layout, [firefox css](https://github.com/sommaa/Mantis/tree/main/dots/chrome), [nighttab](https://addons.mozilla.org/it/firefox/addon/nighttab/)
   - [sweet_i3](https://github.com/Siryu6/sweet_i3) [Reddit](https://www.reddit.com/r/i3wm/comments/emfsor/i3gaps_sweet_i3gaps_conf_with_polybar_rofi_with/) i3
@@ -172,8 +203,11 @@
   - [willPower3309](https://github.com/WillPower3309/dotfiles) - plasma, i3-gaps, compton (tryone), rofi, oh-my-zsh, latte dock, feh, conky-cairo, flashfocus, unimatix, redshift, unclutter
 
 ## sway
+
   - [1amsimple](https://github.com/1amSimp1e/dots)1amsimple - firefox vscodium, webcord, alacritty, kitty, lazygit, neofetch, nvim, starship, ranger, spicetify, sway, tmux
   - [aspectsides](https://github.com/aspectsides/dotfiles) - [WezTerm](https://wezfurlong.org/wezterm/)) with tmux-like keybindings, [Neovim](https://neovim.io/),) JetBrains IdeaVim config, [Taskwarrior](https://taskwarrior.org/), [Starship](https://starship.rs/)Firefox[Oxocarbon](https://github.com/nyoom-engineering/oxocarbon.nvim)) theme, [sway](https://swaywm.org/)**
+  - [cleggacus](https://github.com/cleggacus/sway-ricey-boi)
+  - [Facundo-c-c](https://github.com/Facundo-c-c/Solus-sway-dotfiles)
   - [hkupty ](https://github.com/hkupty/dotfiles) - kitty, nvim, sway, waybar
   - [kislball](https://github.com/kislball/dotfiles) [Reddit](https://www.reddit.com/r/unixporn/comments/111j6h4/sway_bocchi_the_ricer/)
   - [krudjan](https://gitlab.com/Krudjan/dotfiles) [Reddit](https://www.reddit.com/r/unixporn/comments/b7rgch/sway_gruvbox_themed_setup/)
@@ -215,6 +249,7 @@
   - [devraza](https://github.com/devraza/aweful)
   - [edjubert](https://github.com/edjubert/dotfiles) - githooks, kvantum, alacritty, awesomewm, neovide+lunarvim, conky, deadd, dwm (chadwm), eww, fish, fontconfig, fusuma, go scripts, gtk, hypr, lvim, lxsession, mpd, mpv, ncmcpp, nvim, omf, picom, qt5, rofi, scripts, sway, swww, waybar, wlogout
   - [elenapan](https://github.com/elenapan/dotfiles) [Reddit](https://www.reddit.com/r/unixporn/comments/a900p7/awesome_mechanical_love/)
+  - [euclidianAce/dotfiles](https://github.com/euclidianAce/dotfiles/tree/main) - awesomewm, scripts, colors, firefox, git, kitty, nix-shells, neovim, wezterm, zathura, bash, tmux
   - [gboncoffee](https://github.com/gboncoffee/home) [Reddit](https://www.reddit.com/r/unixporn/comments/zd854t/awesome_recently_moved_from_xmonad_because_i_like/)
   - [goodBoyNeon](https://github.com/GoodBoyNeon/dotfiles) - alacritty, awesomewm, btop, dmenu, fish, neofetch, nitrogen, neovim, picom, polybar, starship, tmux
   - [joepigott ](https://github.com/joepigott/dotfiles) - awesome, wibar & naughty (awesome modules), picom, polybar, rofi, zathura, kitty, nvim
@@ -237,8 +272,10 @@
   - [zazedd](https://github.com/zazedd/.dotfiles) [Reddit](https://www.reddit.com/r/unixporn/comments/1250f66/awesomewm_iceberg/)
 
 ## bspwm
+
   - [abxh](https://github.com/abxh/dotfiles) bspwm, dunst, kitty, mpv, nvim, picom, polybar, qutebrowser, rofi, scripts, sxhkd, xorg, zathura, zsh, stow
   - [alexMeuer](https://github.com/AlexMeuer/dotfiles) - void linux, alacritty, astronvim, bspwm, dunst, fish, kitty, lvim, nap, polybar, ranger, river, rofi, sxhkd
+  - [Anormix](https://github.com/Anormix/dotfiles)
   - [barbaross93](https://github.com/Barbaross93/Muspelheim)- Void Linux, [Herbstluftwm](https://github.com/herbstluftwm/herbstluftwm), [alacritty](https://github.com/alacritty/alacritty) [zsh](https://www.zsh.org/) [qutebrowser](https://github.com/qutebrowser/qutebrowser) [yambar](https://codeberg.org/dnkl/yambar), Fonts: [spleen](https://github.com/fcambus/spleen) for , primary text, [Cozette](https://github.com/slavfox/Cozette) for terminal icons, and [Siji](https://github.com/stark/siji) for bar icons, [cmus](https://github.com/cmus/cmus) [lf](https://github.com/gokcehan/lf) [vim](https://github.com/vim/vim) [mutt](https://gitlab.com/muttmua/mutt) [remind](https://git.skoll.ca/Skollsoft-Public/Remind) with [wyrd](https://gitlab.com/wyrd-calendar/wyrd/) [taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) [vit](https://github.com/vit-project/vit) [weechat](https://github.com/weechat/weechat) [newsboat](https://github.com/newsboat/newsboat) [rofi](https://github.com/davatorium/rofi) [tiramisu](https://github.com/Sweets/tiramisu) [picom](https://github.com/yshui/picom) [xsecurelock](https://github.com/google/xsecurelock) [alduin](https://github.com/AlessandroYorba/Alduin)
   - [cybi00000](https://github.com/cybi00000/Normie-rice)blue and green - [bspwm](https://github.com/baskerville/bspwm), [Arch](https://archlinux.org/) [Alacritty](https://github.com/alacritty/alacritty) [zsh](https://wiki.archlinux.org/index.php/Zsh) [eww](https://github.com/elkowar/eww) [picom](https://github.com/yshui/picom) [Waterfox](https://www.waterfox.net/) [rofi](https://github.com/davatorium/rofi) [Polybar](https://github.com/polybar/polybar) [Dunst](https://github.com/dunst-project/dunst) [Wallpaper](https://raw.githubusercontent.com/cybi00000/Normie-rice/main/Dot%20files/house.jpg) [Pfetch-btw](https://github.com/FedericoAntoniazzi/pfetch-btw) [Ranger](https://github.com/ranger/ranger) [Zathura](https://pwmt.org/projects/zathura) [Spicetify](https://spicetify.app/)
   - [dochi77](https://gitlab.com/dochi77/arch-rices)
@@ -255,6 +292,7 @@
   - [rexDoisPontoZero](https://github.com/RexDoisPontoZero/bspwm-dotfiles) [Reddit](https://www.reddit.com/r/unixporn/comments/xh5eab/bspwm_any_suggestions/)
   - [siduck](https://github.com/siduck/dotfiles) - bspwm, st, ncmcpp, mpd, ncmcpp-ueberzug, mpc, neovim, gtk, polybar, fluxbox, openbox
   - [singularisArt](https://github.com/SingularisArt/Singularis) - bspwm, polybar, xmenu, rofi, kdeconnect, flameshot, giph, slop, xclip, kitty, neomutt, Telegram desktop, nctelegram, discord, cordless, weechat, tuir, rainbowstream, kdeconnect-sms, how2, NeoVim, Qalculate!, gnuplot, Anki, dijo, manuskript, Ugene, pymol, GROMACS, Desmos-Destkop, celestia, inkscape, Goobook, Calcurse, castero, newsboat, ncmpcpp, mpd, tetris-terminal, tty-solitaire, bs, bsdgames, dopewars, Cures of War, pipes.sh, rain.sh, unimatrix, asciiquarium, bonsai.sh, termtracker, genact, ckb-next, baobab, diskonaut, dust, dunst, zathura, lf, gpick, s-tui, gotop, bashtop, glances, iotop, nmon, atop, powertop, nvtop, kmon, dnstop, ethstatus, jnettop, nload, bmon, termshark, cointop, mop, stonks, synonym, mapscii, translate-shell, wtfuitil, iponmap - finder, Pass, Rofi, pywal (haishoku, colorthief, and colorz python modules for pywal backends), Chameleon, Zathura-Pywal, qutewal, oomox, lxappearance, Archdroid Icons, qt5ct, qtcurve-qt5, qt5-styleplugins, Pywalfox, pywal
+  - [SuvanshRao](https://github.com/SuvanshRao/dotfiles [neofetch](https://github.com/SuvanshRao/dotfiles/blob/main/neofetch/config.conf) [bspwm](https://github.com/SuvanshRao/dotfiles/blob/main/bspwm/bspwmrc) [polybar](https://github.com/SuvanshRao/dotfiles/tree/main/polybar) [picom](https://github.com/SuvanshRao/dotfiles/blob/main/picom/picom.sample.conf) [sxhkdrc](https://github.com/SuvanshRao/dotfiles/blob/main/sxhkd/sxhkdrc))
   - [swiftyChicken](https://github.com/SwiftyChicken/dotfiles) [Reddit](https://www.reddit.com/r/unixporn/comments/haogs0/bspwm_i_have_spent_too_much_time_on_this/)
   - [tanbinislam34](https://gitlab.com/Tanbinislam34/dotfiles) - arch, bspwm, st, alacritty, neofetch, neovim, firefox
   - [vaughnValle](https://github.com/VaughnValle/blue-sky)- alacritty, bspwm, dunst, picom, polybar, slim, slimlock, spicetify+dribblish, wallpapers, vim, picom, spotify-client, sxhkd, rofi
@@ -320,11 +358,13 @@
   - [pin/netbsd](https://codeberg.org/pin/netbsd) pin - alacritty, elvish, feather, d, gtk, iamb, lsd, macchina, marswm, qt6ct, redshift, spotify-player, tuifeed, weathercrab, vim, git, xinit, dua,
   - [pin/void-musl](https://codeberg.org/pin/void-musl) pin - alacritty, gtk, leftwm, neofetch, pcmanfm, vim, bash, xinit, X11, dracut, modprobe
   - [pyratebeard](https://gitlab.com/pyratebeard/dotfiles)  2bwm (floating wm), cmus (music player), cron, dmenu, dunst, git, gpg (encrypt and sign tool), latexmk, lightdm, lynx, mpv (video player), mutt, newsboat (rss reader), qutebrowser, tmux, tuir, urxvt, vim, xbindkeys (key grabbing tool), xinit (x system initialiser), zathura, zsh
+  - [rdbo](https://github.com/rdbo/sigma-linux)
   - [rebelot](https://github.com/rebelot/dotfiles) tmux, vim, yabai, zsh
+  - [s0la](https://github.com/s0la/orw/tree/master/dotfiles/.config) thunar, x11, alacritty, cava, dunst, gtk, mpd, ncmcpp, newsboat, neovim, openbox, picom, qutebrowser, rofi, sxiv, termite, tint2, tmux, vifm, xfce4, zathura, compton, i3lock, [video](https://www.youtube.com/watch?v=oIlOsT4qPXw&list=PLvxw6g7kMvV_gelBLBgRU6g4fLKz5ogWk)
   - [squagels](https://github.com/squagels/dots)squagels - xinit, zsh, gtk3, openbox, picom, polybar, rofi
   - [tcmmichaelb139](https://github.com/tcmmichaelb139/.dotfiles) [Reddit](https://www.reddit.com/r/unixporn/comments/11nxpwh/yabai_tokyo_nice_looks_too_good/)
+  - [tetzng/dotfiles: my dotfiles](https://github.com/tetzng/dotfiles) - fish, neovim, wezterm, macos
   - [whatsthatsmell](https://github.com/whatsthatsmell/dots) - alfred, bacom, broot, cargo, rust, gh-prs, gitui, iterm, lazygit, ripgrep, vifm, nvim, vimium, zsh, tmux, alacritty, starship
-
 
 ## ?
   - [cpow](https://github.com/cpow/cpow-dotfiles)- tmux, nvim

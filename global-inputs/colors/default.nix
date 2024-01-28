@@ -7,34 +7,54 @@
   # colorscheme definitiion layer ===============================================
 
   # base - follows the general base16 structure ---------------------------------
-  base00 = "#000800"; # "#031A16"; # background
-  base01 = "#002000"; # "#0B342D"; # lighter background
-  base02 = "#184E45"; # selection background
-  base03 = "#2B685E"; # comments, invisibles, line highlighting
-  base04 = "#5F9C92"; # dark foreground (used for status bars)
-  base05 = "#81B5AC"; # default foreground, caret, delimiters, operators
-  base06 = "#A7CEC8"; # light foreground (not often used)
-  base07 = "#D2E7E4"; # light background (not often used)
-  base08 = "#3E9688"; # variables, xml tags, markup link text, markup lists, diff deleted
-  base09 = "#3E7996"; # integers, boolean, constants, xml attributes, markup link url
-  base0A = "#3E4C96"; # classes, Markup Bold, Search Text Background
-  base0B = "#883E96"; # strings, inherited class, markup code, diff inserted
-  base0C = "#963E4C"; # support, regular expressions, escape characters, markup quotes
-  base0D = "#96883E"; # functions, methods, attribute ids, headings
-  base0E = "#4C963E"; # keywords, storage, selector, markup italic, diff changed
-  base0F = "#3E965B"; # deprecated, opening/closing embedded language tags, e.g. <?php ?>
+  #base00 = "#000800"; # "#031A16"; # background
+  #base01 = "#002000"; # "#0B342D"; # lighter background
+  #base02 = "#184E45"; # selection background
+  #base03 = "#2B685E"; # comments, invisibles, line highlighting
+  #base04 = "#5F9C92"; # dark foreground (used for status bars)
+  #base05 = "#81B5AC"; # default foreground, caret, delimiters, operators
+  #base06 = "#A7CEC8"; # light foreground (not often used)
+  #base07 = "#D2E7E4"; # light background (not often used)
+  #base08 = "#3E9688"; # variables, xml tags, markup link text, markup lists, diff deleted
+  #base09 = "#3E7996"; # integers, boolean, constants, xml attributes, markup link url
+  #base0A = "#3E4C96"; # classes, Markup Bold, Search Text Background
+  #base0B = "#883E96"; # strings, inherited class, markup code, diff inserted
+  #base0C = "#963E4C"; # support, regular expressions, escape characters, markup quotes
+  #base0D = "#96883E"; # functions, methods, attribute ids, headings
+  #base0E = "#4C963E"; # keywords, storage, selector, markup italic, diff changed
+  #base0F = "#3E965B"; # deprecated, opening/closing embedded language tags, e.g. <?php ?>
 
   # semantic alias layer ---------------------------------------------------------
   bg = base00;
+  bgAccent = base01;
+  bgSelection = base02;
   fg = base05;
   text = fg;
   defaultBorder = base01;
+
+  dim = "";
+  dimmer = "";
+  dimmest = "";
+  bright = "";
+  brighter = "";
+  brightest = "";
+
+  brightFromBackground = "";
+  
+  syntaxBrackets = dimmest;
+  syntaxDelimiters = dimmest;
+  syntaxKeywordDefault = brightFromBackground;
+
 
   # general
   windowBorder = defaultBorder;
   #lines-inactive = lib.colorAverage bg defaultBorder;
   lineSeparator = defaultBorder;
 
+  # refer to: https://neovim.io/doc/user/lsp.html
+  #           https://neovim.io/doc/user/syntax.html
+  #           https://gist.github.com/swarn/fb37d9eefe1bc616c2a7e476c0bc0316
+  #           https://github.com/nvim-treesitter/nvim-treesitter/blob/master/README.md
 in rec {
   #------------------------------------------------------------------------------- currently being used; need to refactor
   NormalFloat = bg;

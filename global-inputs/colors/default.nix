@@ -7,12 +7,12 @@
   # colorscheme definitiion layer ===============================================
 
   # base - follows the general base16 structure ---------------------------------
-  #base00 = "#000800"; # "#031A16"; # background
-  #base01 = "#002000"; # "#0B342D"; # lighter background
-  #base02 = "#184E45"; # selection background
+  base00 = "#000800"; # "#031A16"; # background
+  base01 = "#002000"; # "#0B342D"; # lighter background
+  base02 = "#184E45"; # selection background
   #base03 = "#2B685E"; # comments, invisibles, line highlighting
   #base04 = "#5F9C92"; # dark foreground (used for status bars)
-  #base05 = "#81B5AC"; # default foreground, caret, delimiters, operators
+  base05 = "#81B5AC"; # default foreground, caret, delimiters, operators
   #base06 = "#A7CEC8"; # light foreground (not often used)
   #base07 = "#D2E7E4"; # light background (not often used)
   #base08 = "#3E9688"; # variables, xml tags, markup link text, markup lists, diff deleted

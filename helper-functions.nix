@@ -4,7 +4,8 @@
 }: rec {
   makeNixosConfig = {
     name,
-    shell ? "bash",
+    defaultShell ? "bash",
+    shells ? ["bash"],
     windowManager ? null,
   } @ deviceConfig:
     inputs.nixpkgs.lib.nixosSystem {

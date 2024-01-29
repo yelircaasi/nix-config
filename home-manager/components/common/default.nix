@@ -1,8 +1,6 @@
 #  that are shared across all devices
 {
   inputs,
-  lib,
-  config,
   pkgs,
   g,
   deviceConfig,

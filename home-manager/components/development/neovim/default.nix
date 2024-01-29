@@ -1,12 +1,11 @@
 {
   inputs,
   pkgs,
-  lib,
   g,
   ...
 }: let
   neovim-nightly = inputs.neovim-nightly-overlay.packages.${pkgs.system}.neovim;
-  custom = import ./custom-plugins.nix {inherit pkgs lib;};
+  custom = import ./custom-plugins.nix {inherit pkgs;};
   py310 = pkgs.python310Packages;
   node = pkgs.nodePackages;
 in {

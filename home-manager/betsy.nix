@@ -1,9 +1,8 @@
 {
   inputs,
-  lib,
-  config,
   pkgs,
   g,
+  deviceConfig,
   ...
 }: {
   imports = [

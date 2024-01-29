@@ -14,7 +14,8 @@
 
   makeHomeManagerConfig = {
     name,
-    shell ? "bash",
+    defaultShell ? "bash",
+    shells ? ["bash"],
     windowManager ? null,
   } @ deviceConfig:
     inputs.home-manager.lib.homeManagerConfiguration {

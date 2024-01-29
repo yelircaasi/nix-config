@@ -6,10 +6,15 @@
   g,
   deviceConfig,
   ...
-}: {
-  imports = [
-    #./zsh
-  ];
+}: 
+let 
+  # shared = import ./shared-assets {inputs};
+  resolveShellImport = shellNames: map (name: ./${name}) shellNames;
+in {
+  imports = inputs.nixpkgs.lib.unique ([
+    ./common
+  ] ++ (resolveShellImport deviceConfig.shells));
+
 
   # nixpkgs = {
   #   # You can add overlays here

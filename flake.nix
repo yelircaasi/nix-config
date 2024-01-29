@@ -30,17 +30,20 @@
     deviceDeclarations = [
       {
         name = "betsy";
-        shell = "bash";
+        defaultShell = "bash";
+        shells = ["bash"];
         windowManager = "hyprland";
       }
       {
         name = "hank";
-        shell = "bash";
+        defaultShell = "bash";
+        shells = ["bash"];
         windowManager = "i3";
       }
       {
         name = "malina";
-        shell = "bash";
+        defaultShell = "bash";
+        shells = ["bash"];
         windowManager = null;
       }
     ];

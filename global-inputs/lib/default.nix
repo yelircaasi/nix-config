@@ -13,11 +13,12 @@ let
   lookUpPlaceholder = globalSet: placeholder: let
     setName = mapPlaceholderType placeholder;
     attrName = stripPlaceholder placeholder;
-  in globalSet."${setName}"."${attrName}";
+  in
+    globalSet."${setName}"."${attrName}";
   mapPlaceholderType = phString: let
     typeName = b.substring 1 1 phString;
-  in placeholderTypes."${typeName}";
-
+  in
+    placeholderTypes."${typeName}";
 in
   (import ./color_utils.nix)
   // rec {
@@ -31,4 +32,4 @@ in
       fileString;
     colorsFromTOML = x: "TO DO";
     keybindingsFromJSON = x: "TO DO";
-}
+  }

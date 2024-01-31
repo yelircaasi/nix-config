@@ -10,7 +10,13 @@
   } @ deviceConfig:
     inputs.nixpkgs.lib.nixosSystem {
       specialArgs = {inherit inputs g deviceConfig;};
-      modules = [./nixos/${name}-configuration.nix];
+      modules = [
+        ./nixos/${name}-configuration.nix
+        inputs.nix-snapd.nixosModules.default
+        {
+          services.snap.enable = true;
+        }
+      ];
     };
 
   makeHomeManagerConfig = {

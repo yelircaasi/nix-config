@@ -6,15 +6,14 @@
   g,
   deviceConfig,
   ...
-}: 
-let 
+}: let
   # shared = import ./shared-assets {inputs};
   resolveShellImport = shellNames: map (name: ./${name}) shellNames;
 in {
   imports = inputs.nixpkgs.lib.unique ([
-    ./common
-  ] ++ (resolveShellImport deviceConfig.shells));
-
+      ./common
+    ]
+    ++ (resolveShellImport deviceConfig.shells));
 
   # nixpkgs = {
   #   # You can add overlays here
@@ -63,8 +62,8 @@ in {
     ga = "git add .";
     alej = "alejandra";
   };
-  
-  home.file."./.bashrc".source = ./bashrc ;
+
+  home.file."./.bashrc".source = ./bashrc;
 
   home.packages = with pkgs; [
     bash

@@ -7,6 +7,6 @@
   ...
 }: {
   xdg.configFile."./nitrogen/bg-saved.cfg".source = ./bg-saved.cfg;
-  
-  home.packages = with pkgs; [ nitrogen ];
+
+  home.packages = with pkgs; [nitrogen];
 }

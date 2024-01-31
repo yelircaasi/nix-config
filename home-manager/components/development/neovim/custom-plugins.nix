@@ -1,6 +1,4 @@
-{
-  pkgs,
-}: {
+{pkgs}: {
   lazy-nix-helper-nvim = pkgs.vimUtils.buildVimPlugin {
     pname = "lazy-nix-helper.nvim";
     version = "v0.4.0";

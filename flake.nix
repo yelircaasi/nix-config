@@ -44,7 +44,7 @@
         name = "hank";
         defaultShell = "bash";
         shells = ["bash"];
-        windowManager = "i3";
+        windowManager = "hyprland";
       }
       {
         name = "malina";

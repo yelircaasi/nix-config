@@ -5,20 +5,20 @@
 }: {
   imports = [
     ./components/common
-    ./environments/flatpak
-    ./environments/x11/wm/i3
-    ./environments/x11/wallpaper/nitrogen
-    ./environments/x11/compositor/picom
+    #./environments/flatpak
+    #./environments/x11/wm/i3
+    #./environments/x11/wallpaper/nitrogen
+    #./environments/x11/compositor/picom
   ];
-
-  programs.zsh.enable = false;
-  programs.wezterm.enable = false;
-
+  
   nixpkgs = {
     config = {
       allowUnfree = true;
     };
   };
+
+  #programs.zsh.enable = false;
+  #programs.wezterm.enable = false;
 
   home = {
     username = "isaac";
@@ -27,7 +27,7 @@
     packages = with pkgs; [
       docker
       kanata
-      libGL
+      #libGL
       (writeShellScriptBin "test-hm" ''
         echo "this runs successfully!"
       '')

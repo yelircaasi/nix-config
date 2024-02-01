@@ -60,9 +60,8 @@ fi
 if command -v zoxide >/dev/null; then
         eval "$(zoxide init bash)"
 fi
-. "$HOME/.cargo/env"
 
-export PATH="/home/isaac/.nix-profile/bin:/home/isaac/.local/bin:/home/isaac/.local/go:$PATH"
+export PATH="/home/isaac/.nix-profile/bin:/home/isaac/.local/bin:$PATH"
 #export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/usr/local/lib:/usr/lib/x86_64-linux-gnu"
 export XCURSOR_PATH="/usr/share/icons/:$XCURSOR_PATH"
 export EDITOR="nvim"

@@ -3,4 +3,6 @@
   g,
   deviceConfig,
   ...
-}: {}
+}: {
+
+}

@@ -1,8 +1,8 @@
 {
   inputs,
   lib,
-  config,
   pkgs,
+  config,
   ...
 }:
 # let
@@ -15,7 +15,7 @@
 {
   imports = [
     # Include the results of the hardware scan.
-    ./hardware-configurations/betsy-hardware-configuration.nix
+    ./hardware-configurations/hank-hardware-configuration.nix
     ./components/kanata
   ];
 
@@ -55,6 +55,8 @@
     auto-optimise-store = true;
   };
 
+  services.xserver.videoDrivers = ["nvidia"];
+  
   # List packages installed in system profile. To search, run:
   # $ nix search wget
   environment.systemPackages = with pkgs; [
@@ -63,7 +65,13 @@
     fira-code-nerdfont
     fira-code-symbols
     nerdfix
+    
+    docker
+    podman
+    nvidia-docker
+    nvidia-podman
 
+    hyprland
     waybar
     mako
     libnotify
@@ -121,6 +129,7 @@
   # Enable the GNOME Desktop Environment.
   services.xserver.displayManager.gdm.enable = true;
   services.xserver.desktopManager.gnome.enable = true;
+  
 
   # Configure keymap in X11
   services.xserver = {
@@ -132,8 +141,24 @@
   services.printing.enable = true;
 
   hardware = {
-    opengl.enable = true;
-    nvidia.modesetting.enable = true;
+    opengl = {
+      enable = true;
+      driSupport = true;
+      driSupport32Bit = true;
+    };
+    nvidia = {
+      modesetting.enable = true;
+      #open = true;
+      nvidiaSettings = true;
+      package = config.boot.kernelPackages.nvidiaPackages.beta;
+      prime = {
+        sync.enable = true;
+    
+        # Make sure to use the correct Bus ID values for your system!
+        nvidiaBusId = "PCI:1:0:0";
+        intelBusId = "PCI:0:2:0";
+    };
+    };
     pulseaudio.enable = false;
   };
 
@@ -163,6 +188,7 @@
     extraGroups = ["networkmanager" "wheel"];
     packages = with pkgs; [
       home-manager
+    
       firefox
       neofetch
       # wezterm
@@ -193,6 +219,7 @@
     enableNvidiaPatches = true;
     xwayland.enable = true;
   };
+
 
   # https://nixos.wiki/wiki/FAQ/When_do_I_update_stateVersion
   system.stateVersion = "23.11";

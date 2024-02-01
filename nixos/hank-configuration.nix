@@ -207,6 +207,17 @@
     )
   ];
 
+  virtualisation = {
+    docker = {
+      enable = true;
+      enableNvidia = true;
+    };
+    podman = {
+      enable = true;
+      enableNvidia = true;
+    };
+  };
+
   environment.sessionVariables = {
     WLR_NO_HARDWARE_CURSORS = "1";
     NIXOS_OZONE_WL = "1";

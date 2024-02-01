@@ -89,12 +89,25 @@ in {
       "hm"
       ''
         __current=$PWD
-        cd $HOME/nixos-config
+        cd $HOME/nix-config
         git add .
         home-manager switch --flake .#${deviceConfig.name}
         cd $__current
       ''
     )
+
+    (
+      writers.writeBashBin
+      "nrs"
+      ''
+        __current=$PWD
+        cd $HOME/nix-config
+        git add .
+        sudo nixos-rebuild switch --flake .#${deviceConfig.name}
+        cd $__current
+      ''
+    )
+
 
     (
       writers.writePython3Bin

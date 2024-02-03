@@ -7,15 +7,16 @@
     defaultShell ? "bash",
     shells ? ["bash"],
     windowManager ? null,
+    additionalModules,
   } @ deviceConfig:
     inputs.nixpkgs.lib.nixosSystem {
       specialArgs = {inherit inputs g deviceConfig;};
       modules = [
         ./nixos/${name}-configuration.nix
-        inputs.nix-snapd.nixosModules.default {
-          services.snap.enable = true;
-        }
-      ];
+        #inputs.nix-snapd.nixosModules.default {
+        #  services.snap.enable = true;
+        #}
+      ] ++ additionalModules;
     };
 
   makeHomeManagerConfig = {
@@ -23,11 +24,12 @@
     defaultShell ? "bash",
     shells ? ["bash"],
     windowManager ? null,
+    additionalModules ? []
   } @ deviceConfig:
     inputs.home-manager.lib.homeManagerConfiguration {
       pkgs = inputs.nixpkgs.legacyPackages.x86_64-linux;
       extraSpecialArgs = {inherit inputs g deviceConfig;};
-      modules = [./home-manager/${name}.nix];
+      modules = [./home-manager/${name}.nix] ++ additionalModules;
     };
 
   makeNixosConfigurations = deviceDeclarationList:

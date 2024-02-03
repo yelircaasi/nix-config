@@ -10,7 +10,7 @@
     #./environments/x11/wallpaper/nitrogen
     #./environments/x11/compositor/picom
   ];
-  
+
   nixpkgs = {
     config = {
       allowUnfree = true;

@@ -33,6 +33,6 @@
   };
 
   systemd.user.startServices = "sd-switch";
-  
+
   xdg.configFile."kanata/kanata.kbd".source = ../nixos/components/kanata/kanata.kbd;
 }

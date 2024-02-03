@@ -49,7 +49,6 @@
       alejandra
       python310
       poetry
-
     ];
   };
 

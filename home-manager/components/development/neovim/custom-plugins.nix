@@ -32,6 +32,17 @@
     };
     meta.homepage = "https://github.com/HallerPatrick/py_lsp.nvim";
   };
+  gx-extended-nvim = pkgs.vimUtils.buildVimPlugin {
+    pname = "gx-extended.nvim";
+    version = "2023-11-22";
+    src = pkgs.fetchFromGitHub {
+      owner = "rmagatti";
+      repo = "gx-extended.nvim";
+      rev = "d16db818020a6695fef1423b470d9e54eed6c2a2";
+      sha256 = "sha256-p5vT+6G5RX7puA9C5mO2P/fYSFzQ+BWMhWmMPGz7MDA=";
+    };
+    meta.homepage = "https://github.com/rmagatti/gx-extended.nvim";
+  };
   neotest = pkgs.vimUtils.buildVimPlugin {
     pname = "neotest";
     version = "2024-01-15";

@@ -46,6 +46,8 @@ vim_opts({
         -- concealing
         conceallevel = 1, -- nice because JSON quotes are hidden,
                           -- but character position is fixed
+
+        -- commands
     },
 })
 

@@ -37,8 +37,13 @@ in {
     py310.ipykernel
     black
     mypy
+    isort
 
-    #custom.py-lsp-nvim
+    # lua
+    stylua
+
+    # nix
+    alejandra
 
     # other language servers
     nil # alt: rnix-lsp
@@ -60,29 +65,28 @@ in {
     vimdiffAlias = true;
     plugins = with pkgs.vimPlugins; [
       # lazy loading
-      lazy-nvim
-      custom.lazy-nix-helper-nvim
+      #lazy-nvim
+      #custom.lazy-nix-helper-nvim
 
       # general-purpose / dependency plugins
       plenary-nvim
       mini-nvim
-      custom.core-nvim
+      #custom.core-nvim
 
       # training
-      vim-be-good
+      #vim-be-good
 
       # development
-      lush-nvim
-      nvim-luapad
-      custom.hawtkeys-nvim
-      custom.nx-nvim
+      #lush-nvim
+      #nvim-luapad
 
       # ui general
-      nui-nvim # alt: dressing-nvim, guihua-lua
-      noice-nvim
-      custom.popui-nvim
+      #nui-nvim # alt: dressing-nvim, guihua-lua
+      #noice-nvim
+      #custom.popui-nvim
 
       # keybinding
+      custom.hawtkeys-nvim
       legendary-nvim
       which-key-nvim # training wheels
       hydra-nvim
@@ -188,6 +192,7 @@ in {
       # debugging --------------------------------------------------
       nvim-dap
       nvim-dap-ui # alt: telescope-dap-nvim
+      #custom.nx-nvim
 
       # quickfix ----------------------------------------------------
       nvim-bqf # alt: qqf-nvim
@@ -300,6 +305,7 @@ in {
       dropbar-nvim
       leap-nvim
       flash-nvim
+      custom.gx-extended-nvim
 
       # outline
       symbols-outline-nvim # alt: #custom.outline-nvim
@@ -384,8 +390,11 @@ in {
     ];
   };
   xdg.configFile."./nvim/init.lua".text = g.lib.readAndInterpolate g ./config/init.lua;
-  xdg.configFile."./nvim/lua" = {
-    source = ./config/lua;
+  xdg.configFile."./nvim/lua/plugins" = {
+   source = ./config/lua/plugins;
     recursive = true;
   };
+  xdg.configFile."./nvim/lua/colors.lua".text = g.lib.readAndInterpolate g ./config/lua/colors.lua;
+  xdg.configFile."./nvim/lua/mappings.lua".text = g.lib.readAndInterpolate g ./config/lua/mappings.lua;
+  xdg.configFile."./nvim/lua/options.lua".source = ./config/lua/options.lua;
 }

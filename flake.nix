@@ -39,18 +39,25 @@
         defaultShell = "bash";
         shells = ["bash"];
         windowManager = "hyprland";
+        additionalModules = [];
       }
       {
         name = "hank";
         defaultShell = "bash";
         shells = ["bash"];
         windowManager = "hyprland";
+        additionalModules = [
+          #inputs.nix-snapd.nixosModules.default {
+          #  services.snap.enable = true;
+          #}
+        ];
       }
       {
         name = "malina";
         defaultShell = "bash";
         shells = ["bash"];
         windowManager = null;
+        additionalModules = [];
       }
     ];
   in {

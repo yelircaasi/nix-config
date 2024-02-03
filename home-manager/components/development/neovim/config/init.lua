@@ -1,4 +1,3 @@
-
 local cmd = vim.cmd
 local g = vim.g
 
@@ -12,8 +11,8 @@ require("mappings")
 require("neogit")
 
 -- custom plugin config, named semantically rather than using plugin name
-require("plugins.training")
-require("plugins.ui")
+--require("plugins.training")
+--require("plugins.ui")
 require("plugins.keybinding")
 require("plugins.icons")
 require("plugins.filetree")
@@ -69,15 +68,4 @@ require("plugins.org")
 require("plugins.productivity")
 
 -- color theme
-require("schwarzwald").load()
--- require("colors").load()
-
--- temporary overrides to be adjusted in color theme
-vim.cmd("highlight NormalFloat         guibg=$C_NormalFloat$")
-vim.cmd("highlight NeoTreeEndOfBuffer  guibg=$C_NeoTreeEndOfBufferBg$ guifg=$C_NeoTreeEndOfBufferFg$")
-vim.cmd("highlight NeoTreeNormal       guibg=$C_NeoTreeNormal$")
-vim.cmd("highlight NeoTreeNormalNC     guibg=$C_NeoTreeNormalNC$")
-vim.cmd("highlight NeoTreeWinSeparator guibg=$C_NeoTreeWinSeparator$")
-vim.cmd("highlight NeoTreeVertSplit    guibg=$C_NeoTreeVertSplit$")
-vim.cmd("highlight Terminal            guibg=$C_Terminal$")
-
+require("colors")

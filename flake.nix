@@ -4,13 +4,13 @@
   inputs = {
     # Nixpkgs
     nixpkgs = {
-      url = "github:nixos/nixpkgs/f4a8d6d5324c327dcc2d863eb7f3cc06ad630df4";
-      #url = "github:nixos/nixpkgs/nixos-23.11";
+      url = "github:nixos/nixpkgs/b8b232ae7b8b144397fdb12d20f592e5e7c1a64d";
+      #url = "github:nixos/nixpkgs/nixos-unstable";
     };
 
     # Home Manager
     home-manager = {
-      url = "github:nix-community/home-manager/10cd9c53115061aa6a0a90aad0b0dde6a999cdb9";
+      url = "github:nix-community/home-manager/230836bb7ca318aec7bad8442954da611d06a172";
       #url = "github:nix-community/home-manager/release-23.11";
       inputs.nixpkgs.follows = "nixpkgs";
     };

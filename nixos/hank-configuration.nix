@@ -163,7 +163,7 @@ in
       #open = true;
       nvidiaSettings = true;
       powerManagement.enable = true;
-      package = config.boot.kernelPackages.nvidiaPackages.beta;
+      package = config.boot.kernelPackages.nvidiaPackages.stable;
       prime = {
         sync.enable = true;
         #offload.enable = true;
@@ -229,7 +229,7 @@ in
   };
   programs.hyprland = {
     enable = true;
-    enableNvidiaPatches = true;
+    # deprecated: enableNvidiaPatches = true;
     xwayland.enable = true;
   };
 

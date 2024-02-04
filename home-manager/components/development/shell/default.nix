@@ -75,6 +75,7 @@ in {
     g = "git status";
     ga = "git add .";
     alej = "alejandra";
+    cudaenv = "sudo docker run --gpus all -it --rm --dns 8.8.8.8 --dns 8.8.4.4 --name nlq -v /home/isaac/repos:/root/repos -v /home/isaac/data:/root/data -v /home/isaac/.ssh:/root/.ssh -v /home/isaac/.config/pypoetry:/root/.config/pypoetry -v /home/isaac/.cache/torch:/root/.cache/torch -v /home/isaac/.cache/huggingface:/root/.cache/huggingface nvidia:poetry";
   };
 
   #home.file."./.bashrc".source = ./bashrc;
@@ -94,11 +95,6 @@ in {
         home-manager switch --flake .#${deviceConfig.name}
         cd $__current
       ''
-    )
-    (
-      writers.writeBashBin
-      "cudaenv"
-      "sudo docker run --runtime=nvidia --gpus all -it --rm --dns 8.8.8.8 --dns 8.8.4.4 --name nlq -v /home/isaac/repos:/root/repos -v /home/isaac/data:/root/data -v /home/isaac/.ssh:/root/.ssh -v /home/isaac/.config/pypoetry:/root/.config/pypoetry -v /home/isaac/.cache/torch:/root/.cache/torch -v /home/isaac/.cache/huggingface:/root/.cache/huggingface nvidia:poetry"
     )
     (
       writers.writeBashBin

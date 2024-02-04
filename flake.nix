@@ -18,10 +18,10 @@
     };
 
     # Snap
-    nix-snapd = {
-      url = "github:io12/nix-snapd";
-      inputs.nixpkgs.follows = "nixpkgs";
-    };
+    #nix-snapd = {
+    #  url = "github:io12/nix-snapd";
+    #  inputs.nixpkgs.follows = "nixpkgs";
+    #};
   };
 
   outputs = {
@@ -47,9 +47,7 @@
         shells = ["bash"];
         windowManager = "hyprland";
         additionalModules = [
-          #inputs.nix-snapd.nixosModules.default {
-          #  services.snap.enable = true;
-          #}
+          #inputs.nix-snapd.nixosModules.default { services.snap.enable = true; }
         ];
       }
       {

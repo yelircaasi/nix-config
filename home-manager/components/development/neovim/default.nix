@@ -32,9 +32,9 @@ in {
     py310.coverage
     py310.pynvim
     #py310.jupyter-client
-    py310.jupyter
+    #py310.jupyter
     py310.ipython
-    py310.ipykernel
+    #py310.ipykernel
     black
     mypy
     isort
@@ -330,8 +330,8 @@ in {
       nvim-dap-python
       custom.py-lsp-nvim
       custom.hydrovim
-      custom.jupyter-kernel-nvim
-      custom.jupytext-nvim
+      #custom.jupyter-kernel-nvim
+      #custom.jupytext-nvim
       #custom.nvim-ipy
       custom.swenv-nvim
       custom.f-string-toggle-nvim

@@ -1,8 +1,8 @@
 local dap_python = require("dap-python")
 local py_lsp = require("py_lsp")
 -- local hydrovim = require("hydrovim")
-local jupyter_kernel = require("jupyter_kernel")
-local jupytext = require("jupytext")
+-- local jupyter_kernel = require("jupyter_kernel")
+-- local jupytext = require("jupytext")
 -- local ipy = require("ipy")
 local swenv = require("swenv")
 local f_string_toggle = require("f-string-toggle")
@@ -27,8 +27,7 @@ vim.g["conjure#mapping#doc_word"] = false
 vim.g["conjure#mapping#doc_word"] = "gk"
 
 -- Reset it to the default unprefixed K (note the special table wrapped syntax)
-vim.g["conjure#mapping#doc_word"] = {"K"}
+vim.g["conjure#mapping#doc_word"] = { "K" }
 
-
-return dap_python, py_lsp, jupyter_kernel, jupytext, swenv, f_string_toggle --, conjure
-
+return dap_python, py_lsp, swenv, f_string_toggle --, conjure
+-- return dap_python, py_lsp, jupyter_kernel, jupytext, swenv, f_string_toggle --, conjure

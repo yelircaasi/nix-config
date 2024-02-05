@@ -12,9 +12,12 @@
     ../development/cli-utils/tui-file-browser/nnn
     ../development/cli-utils/tui-file-browser/xplr
     ../development/cli-utils/tui-file-browser/yazi
-    ../gui/wezterm
-    ../development/neovim #-gaelle
+    ../development/neovim
     ../development/shell
+    ../gui/terminal-emulator/wezterm
+    ../gui/browser/nyxt
+    ../gui/browser/qutebrowser
+    ../gui/browser/ungoogled-chromium
   ];
 
   home = {

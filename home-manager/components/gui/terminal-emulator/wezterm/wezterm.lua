@@ -1,5 +1,10 @@
+local io = require("io")
+local os = require("os")
+
 -- Pull in the wezterm API
 local wezterm = require("wezterm")
+local mux = wezterm.mux
+local act = wezterm.action
 
 -- This table will hold the configuration.
 local config = {}
@@ -101,61 +106,15 @@ config.colors = {
 	quick_select_match_fg = { Color = "#ffffff" },
 }
 
+wezterm.on("gui-startup", function(cmd)
+	local tab, pane, window = mux.spawn_window(cmd or {})
+	window:gui_window():maximize()
+end)
+
 -- For example, changing the color scheme:
 -- config.color_scheme = 'AdventureTime'
 
 -- and finally, return the configuration to wezterm
-
----------------------------------------------------------------------------------------------------
--- local io = require 'io'
--- local os = require 'os'
--- local act = wezterm.action
-
--- local function open_text_in_vim (window, pane)
---   -- Retrieve the current viewport's text.
---   --
---   -- Note: You could also pass an optional number of lines (eg: 2000) to
---   -- retrieve that number of lines starting from the bottom of the viewport.
---   local viewport_text = pane:get_lines_as_text()
-
---   -- Create a temporary file to pass to vim
---   local name = os.tmpname()
---   local f = io.open(name, 'w+')
---   f:write(viewport_text)
---   f:flush()
---   f:close()
-
---   -- Open a new window running vim and tell it to open the file
---   window:perform_action(
---     act.SpawnCommandInNewWindow {
---       args = { 'vim', name },
---     },
---     pane
---   )
-
---   -- Wait "enough" time for vim to read the file before we remove it.
---   -- The window creation and process spawn are asynchronous wrt. running
---   -- this script and are not awaitable, so we just pick a number.
---   --
---   -- Note: We don't strictly need to remove this file, but it is nice
---   -- to avoid cluttering up the temporary directory.
---   wezterm.sleep_ms(1000)
---   os.remove(name)
--- end
-
--- config.keys = {
---   {
---     key = 'W',
---     mods = 'ALT',
---     action = wezterm.action.SendString('Hello there'),
---   },
--- }
-char = "​aasdsdfg"
-
------------------------------------------------------------------------------
-local io = require("io")
-local os = require("os")
-local act = wezterm.action
 
 wezterm.on("trigger-vim-with-visible-text", function(window, pane)
 	-- Retrieve the current viewport's text.
@@ -200,6 +159,34 @@ config.keys = {
 		mods = "ALT",
 		action = wezterm.action.SendString("Hello there"),
 	},
+	{
+		key = "t",
+		mods = "CMD|SHIFT",
+		action = act.ShowTabNavigator,
+	},
+
+	{
+		key = "t",
+		mods = "SHIFT|ALT",
+		action = act.SpawnTab("CurrentPaneDomain"),
+	},
+	-- Create a new tab in the default domain
+	-- { key = 't', mods = 'SHIFT|ALT', action = act.SpawnTab 'DefaultDomain' },
+	-- Create a tab in a named domain
+	{
+		key = ",",
+		mods = "CMD",
+		action = act.SpawnCommandInNewTab({
+			cwd = os.getenv("WEZTERM_CONFIG_DIR"),
+			set_environment_variables = {
+				TERM = "screen-256color",
+			},
+			args = {
+				"/usr/local/bin/nvim",
+				os.getenv("WEZTERM_CONFIG_FILE"),
+			},
+		}),
+	},
 
 	-- Currently this function logs the output of the last command run, provided it is less than 30 lines long and does not contain the characters '❯''.
 	{
@@ -229,6 +216,6 @@ config.keys = {
 	},
 }
 
-print(config.keys)
+-- print(config.keys)
 
 return config

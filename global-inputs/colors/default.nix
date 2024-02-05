@@ -68,9 +68,7 @@
   base0D = "#96883E"; # functions, methods, attribute ids, headings
   base0E = dijon; # keywords, storage, selector, markup italic, diff changed
   base0F = maroon; # deprecated, opening/closing embedded language tags, e.g. <?php ?>
-
   #
-
 in rec {
   # semantic alias layer ---------------------------------------------------------
   bg = base00;

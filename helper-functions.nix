@@ -11,9 +11,11 @@
   } @ deviceConfig:
     inputs.nixpkgs.lib.nixosSystem {
       specialArgs = {inherit inputs g deviceConfig;};
-      modules = [
-        ./nixos/${name}-configuration.nix
-      ] ++ additionalModules;
+      modules =
+        [
+          ./nixos/${name}-configuration.nix
+        ]
+        ++ additionalModules;
     };
 
   makeHomeManagerConfig = {
@@ -21,7 +23,7 @@
     defaultShell ? "bash",
     shells ? ["bash"],
     windowManager ? null,
-    additionalModules ? []
+    additionalModules ? [],
   } @ deviceConfig:
     inputs.home-manager.lib.homeManagerConfiguration {
       pkgs = inputs.nixpkgs.legacyPackages.x86_64-linux;

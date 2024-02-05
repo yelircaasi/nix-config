@@ -14,8 +14,7 @@
 # in
 let
   swayfx-nightly = inputs.swayfx.packages.${pkgs.system}.swayfx-unwrapped;
-in
-{
+in {
   imports = [
     # Include the results of the hardware scan.
     ./hardware-configurations/hank-hardware-configuration.nix
@@ -69,7 +68,6 @@ in
     nvidia-docker
     nvidia-podman
     #distrobox
-
 
     #sway
     swayfx-nightly
@@ -232,6 +230,10 @@ in
     # deprecated: enableNvidiaPatches = true;
     xwayland.enable = true;
   };
+  #programs.swayfx-nightly = { # incorrect -> need to create an overlay for swayfx
+  #  enable = true;
+  #  xwayland.enable = true;
+  #};
 
   # https://nixos.wiki/wiki/FAQ/When_do_I_update_stateVersion
   system.stateVersion = "23.11";

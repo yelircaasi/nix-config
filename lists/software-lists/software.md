@@ -168,13 +168,13 @@ ew: command to run command outside of current directory without explicitly chang
 * [toybox]()
 *  [just]() | [makesure](https://github.com/xonixx/makesure)
 *  [make]()
-*  [eza](https://github.com/eza-community/eza) | [lsd](https://github.com/lsd-rs/lsd) | [colorls](https://github.com/athityakumar/colorls) | [nat](https://github.com/willdoescode/nat)
-*  [tre](https://github.com/dduan/tre) | [tree](https://gitlab.com/OldManProgrammer/unix-tree) | [termtree](https://github.com/rust-cli/termtree)
+*   [eza](https://github.com/eza-community/eza) | [lsd](https://github.com/lsd-rs/lsd) | [colorls](https://github.com/athityakumar/colorls) | [nat](https://github.com/willdoescode/nat)
+*  [tre](https://github.com/dduan/tre) |  [tree](https://gitlab.com/OldManProgrammer/unix-tree) | [termtree](https://github.com/rust-cli/termtree)
 * [as-tree](https://github.com/jez/as-tree)
 * [ictree](https://github.com/NikitaIvanovV/ictree)
 * [ckit](https://github.com/fpgmaas/ckit)
 * [runner](https://github.com/sudoerp/runner)
-* [topalias](https://github.com/meteoritt/topalias)
+*  [topalias](https://github.com/meteoritt/topalias)
 * [nap](https://github.com/maaslalani/nap) | [boom](https://github.com/holman/boom)
 * [ad](https://github.com/tanrax/terminal-AdvancedNewFile)
 * [rm-improved](https://github.com/nivekuil/rip) (rip) | [trashy](https://github.com/oberblastmeister/trashy) | [trash-cli](https://github.com/andreafrancia/trash-cli) | [t](https://github.com/adamheins/t) (wraps trash-cli) | [safe-rm](https://code.launchpad.net/safe-rm) | [brash](https://github.com/zakariagatter/brash) | 
@@ -186,8 +186,8 @@ ew: command to run command outside of current directory without explicitly chang
 * [ov](https://github.com/noborus/ov) | [most](https://linux.die.net/man/1/most)
 * [hhighlighter](https://github.com/paoloantinori/hhighlighter) | [cope](https://github.com/lotrfan/cope)
 * [luneta](https://github.com/fbeline/luneta) (written in D!)
-* [broot](https://github.com/Canop/broot)
-* [zoxide](https://github.com/ajeetdsouza/zoxide) | [z.lua](https://github.com/skywind3000/z.lua) | [z](https://github.com/rupa/z)
+* 󰄬 [broot](https://github.com/Canop/broot)
+* 󰄬 [zoxide](https://github.com/ajeetdsouza/zoxide) | [z.lua](https://github.com/skywind3000/z.lua) | [z](https://github.com/rupa/z)
 * [jump](https://github.com/gsamokovarov/jump)
 * [commacd](https://github.com/shyiko/commacd)
 * [up](https://github.com/shannonmoeller/up) | [bd](https://github.com/vigneshwaranr/bd)
@@ -215,7 +215,7 @@ ew: command to run command outside of current directory without explicitly chang
 * [await](https://github.com/slavaGanzin/await)
 * [ikill](https://github.com/pombadev/ikill) | [fkill-cli](https://github.com/sindresorhus/fkill-cli) | 
 * [projectable](https://github.com/dzfrias/projectable)
-* [pazi](https://github.com/euank/pazi) | [ff](https://github.com/akymos/ff) | [smartcd](https://github.com/CodesOfRishi/smartcd) | [lazy-cd](https://github.com/pedramamini/lazy-cd) | [pm](https://github.com/Angelmmiguel/pm) | [fastdiract](https://github.com/dp12/fastdiract) | [goto](https://github.com/iridakos/goto) | [h](https://github.com/zimbatm/h)
+*  [pazi](https://github.com/euank/pazi) | [ff](https://github.com/akymos/ff) | [smartcd](https://github.com/CodesOfRishi/smartcd) | [lazy-cd](https://github.com/pedramamini/lazy-cd) | [pm](https://github.com/Angelmmiguel/pm) | [fastdiract](https://github.com/dp12/fastdiract) | [goto](https://github.com/iridakos/goto) | [h](https://github.com/zimbatm/h)
 * [peco](https://github.com/peco/peco)
 * [conan](https://github.com/mirage/conan)
 
@@ -233,19 +233,18 @@ ew: command to run command outside of current directory without explicitly chang
 
 #### Search
 
-* [fzf](https://github.com/junegunn/fzf) | [zf](https://github.com/natecraddock/zf) | [skim](https://github.com/lotabout/skim) | [fzy](https://github.com/jhawthorn/fzy)
+* 󰄬 [fzf](https://github.com/junegunn/fzf) | [zf](https://github.com/natecraddock/zf) | [skim](https://github.com/lotabout/skim) | [fzy](https://github.com/jhawthorn/fzy)
 * [fz.sh](https://github.com/mrjohannchang/fz.sh) (for zsh)
-* [ack](https://beyondgrep.com/) | [frawk](https://github.com/ezrosent/frawk) | [sift](https://github.com/svent/sift) | [ugrep](https://github.com/Genivia/ugrep)
+* 󰄬  [ack](https://beyondgrep.com/) | [frawk](https://github.com/ezrosent/frawk) | [sift](https://github.com/svent/sift) | [ugrep](https://github.com/Genivia/ugrep)
 * [vgrep](https://github.com/vrothberg/vgrep)
-* [fd](https://github.com/sharkdp/fd) | [lf.sh](https://github.com/suewonjp/lf.sh)
-* [ag](https://github.com/ggreer/the_silver_searcher)
-* [rg](https://github.com/BurntSushi/ripgrep)
-* [rga](https://github.com/phiresky/ripgrep-all)
+* 󰄬 [fd](https://github.com/sharkdp/fd) | [lf.sh](https://github.com/suewonjp/lf.sh)
+* 󰄬 [ag](https://github.com/ggreer/the_silver_searcher)
+* 󰄬 [rg](https://github.com/BurntSushi/ripgrep)
+* 󰄬 [rga](https://github.com/phiresky/ripgrep-all)
 * [fselect](https://github.com/jhspetersson/fselect)
 * [find-up-cli](https://github.com/sindresorhus/find-up-cli)
 * [paragrep](https://github.com/bmc/paragrep)
 * [spot](https://github.com/rauchg/spot)
-*  [ack](https://beyondgrep.com/) - A grep-like search tool optimized for source code.
 
 #### Data Wrangling
 

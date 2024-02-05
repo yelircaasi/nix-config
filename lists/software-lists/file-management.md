@@ -1,12 +1,12 @@
 # File Management
 
 ## TUI File Managers
-* [xplr](https://github.com/sayanarijit/xplr)
+* 󰄬 [xplr](https://github.com/sayanarijit/xplr)
+* 󰄬 [yazi](https://github.com/sxyazi/yazi)
+* 󰄬 [nnn](https://github.com/jarun/nnn)
 * [TUIFIManager](https://github.com/GiorgosXou/TUIFIManager)
 * [felix](https://github.com/kyoheiu/felix)
-* [yazi](https://github.com/sxyazi/yazi)
 * [vifm](https://github.com/vifm/vifm)
-* [nnn](https://github.com/jarun/nnn)
 * [fm](https://github.com/mistakenelf/fm)
 * [twf](https://github.com/wvanlint/twf)
 * [mc](https://www.midnight-commander.org/)

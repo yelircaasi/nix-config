@@ -5,7 +5,7 @@
   blueDarker = "#13446C";
 
   lightGray = "#D3D3D3";
- 
+
   Normal = "";
   Dim = "";
 
@@ -18,16 +18,14 @@
 
   gray = "#808080";
 
-
   greenPale = "#20A45A"; # "#8C997E";
   greenPaleBright = "#3CB371";
 
   yellowPale = "#CBC383";
   goldDull = "#96883E";
   dimmedTeal = "#3A766C";
-  dijon        = "#69541F";
-  darkSalmon   = "#E9967A";
-  
+  dijon = "#69541F";
+  darkSalmon = "#E9967A";
 
   silver = "#C0C0C0";
   maroon = "#800000";
@@ -51,7 +49,6 @@
   myWhite = "#9a9a9a";
   myWhiteBright = "#cdcdcd";
 
-
   # colorscheme definitiion layer ===============================================
 
   # base - follows the general base16 structure ---------------------------------
@@ -60,7 +57,7 @@
   base02 = "#184E45"; # selection background
   base03 = darkMahogany; # comments, invisibles, line highlighting
   base04 = blueDarker; # dark foreground (used for status bars)
-  base05 = gray  ; # default foreground, caret, delimiters, operators
+  base05 = gray; # default foreground, caret, delimiters, operators
   base06 = silver; # light foreground (not often used)
   base07 = greenPale; # light background (not often used)
   base08 = mellowPurple; # variables, xml tags, markup link text, markup lists, diff deleted
@@ -72,8 +69,9 @@
   base0E = dijon; # keywords, storage, selector, markup italic, diff changed
   base0F = maroon; # deprecated, opening/closing embedded language tags, e.g. <?php ?>
 
-  # 
-  
+  #
+
+in rec {
   # semantic alias layer ---------------------------------------------------------
   bg = base00;
   bgAccent = base01;
@@ -103,8 +101,6 @@
   #           https://neovim.io/doc/user/syntax.html
   #           https://gist.github.com/swarn/fb37d9eefe1bc616c2a7e476c0bc0316
   #           https://github.com/nvim-treesitter/nvim-treesitter/blob/master/README.md
-
-in rec {
   #------------------------------------------------- Terminal colors
   terminalColor00 = myBlack; # black
   terminalColor01 = myRed; # red
@@ -123,7 +119,7 @@ in rec {
   terminalColor0E = myCyanBright; # bright cyan
   terminalColor0F = myWhiteBright; # bright white
 
- #------------------------------------------------------------------------------- currently being used; need to refactor
+  #------------------------------------------------------------------------------- currently being used; need to refactor
   # nvim_NormalFloat = bg;
   # nvim_NeoTreeEndOfBufferBg = bg;
   # nvim_NeoTreeEndOfBufferFg = bg;
@@ -139,7 +135,7 @@ in rec {
   nvim_NormalFloat_bg = bg;
   nvim_NormalNC_fg = nvim_Normal_fg;
   nvim_NormalNC_bg = nvim_Normal_bg;
-/*
+  /*
   nvim_SpecialKey = blueNormal; # "xxx ctermfg=81 guifg=Cyan";
   nvim_Directory = blueNormal; # "xxx ctermfg=159 guifg=Cyan";
   nvim_NonText = ""; #      "xxx ctermfg=12 gui=bold guifg=Blue";
@@ -199,9 +195,9 @@ in rec {
   nvim_Underlined = ""; # "xxx cterm=underline ctermfg=81 gui=underline guifg=#80a0ff";
   nvim_MatchParen = ""; # "xxx ctermbg=6 guibg=DarkCyan";
   nvim_NvimInternalError = ""; # "xxx ctermfg=9 ctermbg=9 guifg=Red guibg=Red";
-*/
+  */
 
-/*
+  /*
   nvim_TermCursorNC = { bg = $C_TermCursorNC$ };
   nvim_Cursor = 'TermCursorNC';
   nvim_lCursor = 'TermCursorNC';
@@ -525,8 +521,8 @@ in rec {
   nvim_IndentBlanklineChar = 'IblIndent', -- Deprecated?
   nvim_IndentBlanklineSpaceChar = 'IndentBlanklineChar';
   nvim_IndentBlanklineSpaceCharBlankline = 'IndentBlanklineChar';
-*/
-    #-------------------------------------------------Neovim default highlight groups
+  */
+  #-------------------------------------------------Neovim default highlight groups
   /*
   CEndOfBuffer =  "xxx links to NonText";
   TermCursor =   "xxx cterm=reverse gui=reverse";
@@ -807,7 +803,7 @@ in rec {
   NvimInvalidDoubleQuotedUnknownEscape = "xxx links to NvimInvalidValue";
   NvimInvalidFigureBrace = "xxx links to NvimInvalidDelimiter";
   NvimInvalidSpacing = "xxx links to ErrorMsg";
-  */ 
+  */
 
   # applications
   # terminal

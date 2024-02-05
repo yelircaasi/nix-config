@@ -8,7 +8,10 @@
 }: {
   imports = [
     ../development/git
-    ../development/cli-utils/bat
+    ../development/cli-utils/core
+    ../development/cli-utils/tui-file-browser/nnn
+    ../development/cli-utils/tui-file-browser/xplr
+    ../development/cli-utils/tui-file-browser/yazi
     ../gui/wezterm
     ../development/neovim #-gaelle
     ../development/shell

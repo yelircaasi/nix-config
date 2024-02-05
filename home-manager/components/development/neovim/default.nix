@@ -391,7 +391,7 @@ in {
   };
   xdg.configFile."./nvim/init.lua".text = g.lib.readAndInterpolate g ./config/init.lua;
   xdg.configFile."./nvim/lua/plugins" = {
-   source = ./config/lua/plugins;
+    source = ./config/lua/plugins;
     recursive = true;
   };
   xdg.configFile."./nvim/lua/colors.lua".text = g.lib.readAndInterpolate g ./config/lua/colors.lua;

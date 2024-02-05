@@ -38,7 +38,7 @@ train models.
   - [Cohere](https://cohere.ai/). A set of LLMs to generate text, summarize it, classify and retrieve it. → https://dashboard.cohere.com/welcome/register
 
 ## Project Templates and Generation
-*  [copier](https://github.com/copier-org/copier) | 
+  [copier](https://github.com/copier-org/copier) | 
    [yeoman](https://yeoman.io/) | 
    [kickstart](https://github.com/Keats/kickstart) | 
   [cookiecutter](https://github.com/audreyr/cookiecutter) | 

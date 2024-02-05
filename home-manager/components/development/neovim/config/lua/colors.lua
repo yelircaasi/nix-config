@@ -3,11 +3,11 @@
 --vim.api.nvim_set_hl(0, 'Error', { fg = "#ffffff", undercurl = true })
 --vim.api.nvim_set_hl(0, 'Cursor', { reverse = true })
 
-vim.cmd("highlight clear")
+--vim.cmd("highlight clear")
 vim.cmd("syntax reset")
 --vim.g.colors_name = 'melange'
 
-local bg = vim.opt.background:get()
+-- local bg = vim.opt.background:get()
 
 -- package.loaded['melange/palettes/' .. bg] = nil -- Only needed for development
 --local palette = require('melange/palettes/' .. bg)
@@ -48,9 +48,23 @@ local strikethrough = enable_font_variants
 for name, attrs in pairs({
 	---- :help highlight-default -------------------------------
 
-	Normal = { bg = "$C_nvim_Normal_bg$", fg = "$C_nvim_Normal_fg$" },
-	NormalFloat = { bg = "$C_nvim_NormalFloat_bg$", fg = "$C_nvim_NormalFloat_fg$" },
+	Normal = { bg = "$C_nvim.Normal.bg$", fg = "$C_nvim.Normal.fg$" },
+	NormalFloat = { bg = "$C_nvim.NormalFloat.bg$", fg = "$C_nvim.NormalFloat.fg$" },
 	NormalNC = "Normal",
+
+	Special = { fg = "$C_nvim.Special.fg$" },
+
+	Identifier = { fg = "$C_nvim.Identifier.fg$" },
+	["@variable"] = { fg = "$C_nvim.at_variable.fg$" },
+	Function = { fg = "$C_nvim.Function.fg$" },
+	Statement = { fg = "$C_nvim.Statement.fg$" },
+	Directory = { fg = "$C_nvim.Directory.fg$" },
+	String = { fg = "$C_nvim.String.fg$" },
+	Comment = { fg = "$C_nvim.Comment.fg$" },
+	PreProc = { fg = "$C_nvim.PreProc.fg$" },
+	Operator = { fg = "$C_nvim.Operator.fg$" },
+	Delimiter = { fg = "$C_nvim.Delimiter.fg$" },
+	NeotreeFileName = { fg = "$C_nvim.NeotreeFileName.fg$" },
 }) do
 	if type(attrs) == "table" then
 		vim.api.nvim_set_hl(0, name, attrs)

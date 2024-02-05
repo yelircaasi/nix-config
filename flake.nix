@@ -41,7 +41,7 @@
     home-manager,
     ...
   } @ inputs: let
-    g = import ./global-inputs;
+    g = import ./global-inputs {inherit inputs;};
     helpers = import ./helper-functions.nix {inherit inputs g;};
 
     deviceDeclarations = [

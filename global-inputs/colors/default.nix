@@ -11,7 +11,7 @@
 
   darkGreen1 = "#000800";
   darkGreen2 = "#002000";
-  darkGreen3 = "#";
+  darkGreen3 = "#003000";
 
   #purple = "#8B008B";
   mellowPurple = "#B087B8";
@@ -78,12 +78,25 @@ in rec {
   text = fg;
   defaultBorder = base01;
 
-  dim = "";
-  dimmer = "";
-  dimmest = "";
-  bright = "";
-  brighter = "";
-  brightest = "";
+  dim = myGreen;
+  dimmer = "#123622";
+  dimmest = "#333933";
+  bright = myRed;
+  brighter = myGreen;
+  brightest = myCyan;
+
+  special = darkMahogany;
+  identifier = myBlueBright;
+  variable = myBlue;
+  function = brighter;
+  statement = myRed;
+  directory = myBlue;
+  string = gray;
+  comment = dimmest;
+  preproc = dimmer;
+  operator = dim;
+  delimiter = dimmer;
+  filename = myWhite;
 
   brightFromBackground = "";
 
@@ -127,398 +140,412 @@ in rec {
   # nvim_NeoTreeVertSplit = "#900000";
   # nvim_Terminal = bg;
 
-  nvim_Normal_fg = fg;
-  nvim_Normal_bg = bg;
-  nvim_NormalFloat_fg = fg;
-  nvim_NormalFloat_bg = bg;
-  nvim_NormalNC_fg = nvim_Normal_fg;
-  nvim_NormalNC_bg = nvim_Normal_bg;
+  nvim = {
+    Normal = {inherit fg bg;};
+    NormalFloat = {inherit fg bg;};
+    NormalNC = {inherit fg bg;};
+
+    Special = { fg = special; };
+
+    Identifier = { fg = identifier; };
+    at_variable = { fg = variable; };
+    Function = { fg = function; };
+    Statement = { fg = statement; };
+    Directory = { fg = directory; };
+    String = { fg = string; };
+    Comment = { fg = comment; };
+    PreProc = { fg = preproc; };
+    Operator = { fg = operator; };
+    Delimiter = { fg = delimiter; };
+    NeotreeFileName = { fg = filename; };
+  };
+
   /*
-  nvim_SpecialKey = blueNormal; # "xxx ctermfg=81 guifg=Cyan";
-  nvim_Directory = blueNormal; # "xxx ctermfg=159 guifg=Cyan";
-  nvim_NonText = ""; #      "xxx ctermfg=12 gui=bold guifg=Blue";
-  nvim_ErrorMsg = ""; # "xxx ctermfg=15 ctermbg=1 guifg=White guibg=Red";
-  nvim_Search = ""; # "xxx ctermfg=0 ctermbg=11 guifg=Black guibg=Yellow";
-  nvim_MoreMsg = ""; # "xxx ctermfg=121 gui=bold guifg=SeaGreen";
-  nvim_LineNr = ""; # "xxx ctermfg=11 guifg=Yellow";
-  nvim_CursorLineNr = ""; # "xxx cterm=underline ctermfg=11 gui=bold guifg=Yellow";
-  nvim_Question = ""; # "xxx ctermfg=121 gui=bold guifg=Green";
-  nvim_Title = ""; # "xxx ctermfg=225 gui=bold guifg=Magenta";
-  nvim_Visual = ""; # "xxx ctermbg=242 guibg=DarkGrey";
-  nvim_WarningMsg = ""; # "xxx ctermfg=224 guifg=Red";
-  nvim_WildMenu = ""; # "xxx ctermfg=0 ctermbg=11 guifg=Black guibg=Yellow";
-  nvim_Folded = ""; # "xxx ctermfg=14 ctermbg=242 guifg=Cyan guibg=DarkGrey";
-  nvim_FoldColumn = ""; # "xxx ctermfg=14 ctermbg=242 guifg=Cyan guibg=Grey";
-  nvim_DiffAdd = ""; # "xxx ctermbg=4 guibg=DarkBlue";
-  nvim_DiffChange = ""; # "xxx ctermbg=5 guibg=DarkMagenta";
-  nvim_DiffDelete = ""; # "xxx ctermfg=12 ctermbg=6 gui=bold guifg=Blue guibg=DarkCyan";
-  nvim_DiffText = ""; # "xxx cterm=bold ctermbg=9 gui=bold guibg=Red";
-  nvim_SignColumn = ""; # "xxx ctermfg=14 ctermbg=242 guifg=Cyan guibg=Grey";
-  nvim_Conceal = ""; # "xxx ctermfg=7 ctermbg=242 guifg=LightGrey guibg=DarkGrey";
-  nvim_SpellBad = ""; # "xxx ctermbg=9 gui=undercurl guisp=Red";
-  nvim_SpellCap = ""; # "xxx ctermbg=12 gui=undercurl guisp=Blue";
-  nvim_SpellRare = ""; # "xxx ctermbg=13 gui=undercurl guisp=Magenta";
-  nvim_SpellLocal = ""; # "xxx ctermbg=14 gui=undercurl guisp=Cyan";
-  nvim_Pmenu = ""; # "xxx ctermfg=0 ctermbg=13 guibg=Magenta";
-  nvim_PmenuSel = ""; # "xxx ctermfg=242 ctermbg=0 guibg=DarkGrey";
-  nvim_RedrawDebugClear = ""; # "xxx ctermbg=11 guibg=Yellow";
-  nvim_RedrawDebugComposed = ""; # "xxx ctermbg=10 guibg=Green";
-  nvim_RedrawDebugRecompose = ""; # "xxx ctermbg=9 guibg=Red";
-  nvim_Error = ""; # "xxx ctermfg=15 ctermbg=9 guifg=White guibg=Red";
-  nvim_Todo = ""; # "xxx ctermfg=0 ctermbg=11 guifg=Blue guibg=Yellow";
-  nvim_guibg = ""; # "DarkGrey";
-  nvim_String = ""; # "xxx links to Constant";
-  nvim_Constant = ""; # "xxx ctermfg=13 guifg=#ffa0a0";
-  nvim_PmenuSbar = ""; # "xxx ctermbg=248 guibg=Grey";
-  nvim_PmenuThumb = ""; # "xxx ctermbg=15 guibg=White";
-  nvim_CursorColumn = ""; # "xxx ctermbg=242 guibg=Grey40";
-  nvim_CursorLine = ""; # "xxx cterm=underline guibg=Grey40";
-  nvim_ColorColumn = ""; # "xxx ctermbg=1 guibg=DarkRed";
-  nvim_Identifier = ""; # "xxx cterm=bold ctermfg=14 guifg=#40ffff";
-  nvim_Statement = ""; # "xxx ctermfg=11 gui=bold guifg=#ffff60";
-  nvim_PreProc = ""; # "xxx ctermfg=81 guifg=#ff80ff";
-  nvim_Type = ""; # "xxx ctermfg=121 gui=bold guifg=#60ff60";
-  nvim_Special = ""; # "xxx ctermfg=224 guifg=Orange";
-  nvim_DiagnosticError = ""; # "xxx ctermfg=1 guifg=Red";
-  nvim_DiagnosticWarn = ""; # "xxx ctermfg=3 guifg=Orange";
-  nvim_DiagnosticInfo = ""; # "xxx ctermfg=4 guifg=LightBlue";
-  nvim_DiagnosticHint = ""; # "xxx ctermfg=7 guifg=LightGrey";
-  nvim_DiagnosticOk = ""; # "xxx ctermfg=10 guifg=LightGreen";
-  nvim_DiagnosticUnderlineError = ""; # "xxx cterm=underline gui=underline guisp=Red";
-  nvim_DiagnosticUnderlineWarn = ""; # "xxx cterm=underline gui=underline guisp=Orange";
-  nvim_DiagnosticUnderlineHint = ""; # "xxx cterm=underline gui=underline guisp=LightGrey";
-  nvim_DiagnosticUnderlineOk = ""; # "xxx cterm=underline gui=underline guisp=LightGreen";
-  nvim_Comment = ""; # "xxx ctermfg=14 guifg=#80a0ff";
-  nvim_DiagnosticDeprecated = ""; # "xxx cterm=strikethrough gui=strikethrough guisp=Red";
-  nvim_Underlined = ""; # "xxx cterm=underline ctermfg=81 gui=underline guifg=#80a0ff";
-  nvim_MatchParen = ""; # "xxx ctermbg=6 guibg=DarkCyan";
-  nvim_NvimInternalError = ""; # "xxx ctermfg=9 ctermbg=9 guifg=Red guibg=Red";
+  SpecialKey = blueNormal; # "xxx ctermfg=81 guifg=Cyan";
+  Directory = blueNormal; # "xxx ctermfg=159 guifg=Cyan";
+  NonText = ""; #      "xxx ctermfg=12 gui=bold guifg=Blue";
+  ErrorMsg = ""; # "xxx ctermfg=15 ctermbg=1 guifg=White guibg=Red";
+  Search = ""; # "xxx ctermfg=0 ctermbg=11 guifg=Black guibg=Yellow";
+  MoreMsg = ""; # "xxx ctermfg=121 gui=bold guifg=SeaGreen";
+  LineNr = ""; # "xxx ctermfg=11 guifg=Yellow";
+  CursorLineNr = ""; # "xxx cterm=underline ctermfg=11 gui=bold guifg=Yellow";
+  Question = ""; # "xxx ctermfg=121 gui=bold guifg=Green";
+  Title = ""; # "xxx ctermfg=225 gui=bold guifg=Magenta";
+  Visual = ""; # "xxx ctermbg=242 guibg=DarkGrey";
+  WarningMsg = ""; # "xxx ctermfg=224 guifg=Red";
+  WildMenu = ""; # "xxx ctermfg=0 ctermbg=11 guifg=Black guibg=Yellow";
+  Folded = ""; # "xxx ctermfg=14 ctermbg=242 guifg=Cyan guibg=DarkGrey";
+  FoldColumn = ""; # "xxx ctermfg=14 ctermbg=242 guifg=Cyan guibg=Grey";
+  DiffAdd = ""; # "xxx ctermbg=4 guibg=DarkBlue";
+  DiffChange = ""; # "xxx ctermbg=5 guibg=DarkMagenta";
+  DiffDelete = ""; # "xxx ctermfg=12 ctermbg=6 gui=bold guifg=Blue guibg=DarkCyan";
+  DiffText = ""; # "xxx cterm=bold ctermbg=9 gui=bold guibg=Red";
+  SignColumn = ""; # "xxx ctermfg=14 ctermbg=242 guifg=Cyan guibg=Grey";
+  Conceal = ""; # "xxx ctermfg=7 ctermbg=242 guifg=LightGrey guibg=DarkGrey";
+  SpellBad = ""; # "xxx ctermbg=9 gui=undercurl guisp=Red";
+  SpellCap = ""; # "xxx ctermbg=12 gui=undercurl guisp=Blue";
+  SpellRare = ""; # "xxx ctermbg=13 gui=undercurl guisp=Magenta";
+  SpellLocal = ""; # "xxx ctermbg=14 gui=undercurl guisp=Cyan";
+  Pmenu = ""; # "xxx ctermfg=0 ctermbg=13 guibg=Magenta";
+  PmenuSel = ""; # "xxx ctermfg=242 ctermbg=0 guibg=DarkGrey";
+  RedrawDebugClear = ""; # "xxx ctermbg=11 guibg=Yellow";
+  RedrawDebugComposed = ""; # "xxx ctermbg=10 guibg=Green";
+  RedrawDebugRecompose = ""; # "xxx ctermbg=9 guibg=Red";
+  Error = ""; # "xxx ctermfg=15 ctermbg=9 guifg=White guibg=Red";
+  Todo = ""; # "xxx ctermfg=0 ctermbg=11 guifg=Blue guibg=Yellow";
+  guibg = ""; # "DarkGrey";
+  String = ""; # "xxx links to Constant";
+  Constant = ""; # "xxx ctermfg=13 guifg=#ffa0a0";
+  PmenuSbar = ""; # "xxx ctermbg=248 guibg=Grey";
+  PmenuThumb = ""; # "xxx ctermbg=15 guibg=White";
+  CursorColumn = ""; # "xxx ctermbg=242 guibg=Grey40";
+  CursorLine = ""; # "xxx cterm=underline guibg=Grey40";
+  ColorColumn = ""; # "xxx ctermbg=1 guibg=DarkRed";
+  Identifier = ""; # "xxx cterm=bold ctermfg=14 guifg=#40ffff";
+  Statement = ""; # "xxx ctermfg=11 gui=bold guifg=#ffff60";
+  PreProc = ""; # "xxx ctermfg=81 guifg=#ff80ff";
+  Type = ""; # "xxx ctermfg=121 gui=bold guifg=#60ff60";
+  Special = ""; # "xxx ctermfg=224 guifg=Orange";
+  DiagnosticError = ""; # "xxx ctermfg=1 guifg=Red";
+  DiagnosticWarn = ""; # "xxx ctermfg=3 guifg=Orange";
+  DiagnosticInfo = ""; # "xxx ctermfg=4 guifg=LightBlue";
+  DiagnosticHint = ""; # "xxx ctermfg=7 guifg=LightGrey";
+  DiagnosticOk = ""; # "xxx ctermfg=10 guifg=LightGreen";
+  DiagnosticUnderlineError = ""; # "xxx cterm=underline gui=underline guisp=Red";
+  DiagnosticUnderlineWarn = ""; # "xxx cterm=underline gui=underline guisp=Orange";
+  DiagnosticUnderlineHint = ""; # "xxx cterm=underline gui=underline guisp=LightGrey";
+  DiagnosticUnderlineOk = ""; # "xxx cterm=underline gui=underline guisp=LightGreen";
+  Comment = ""; # "xxx ctermfg=14 guifg=#80a0ff";
+  DiagnosticDeprecated = ""; # "xxx cterm=strikethrough gui=strikethrough guisp=Red";
+  Underlined = ""; # "xxx cterm=underline ctermfg=81 gui=underline guifg=#80a0ff";
+  MatchParen = ""; # "xxx ctermbg=6 guibg=DarkCyan";
+  NvimInternalError = ""; # "xxx ctermfg=9 ctermbg=9 guifg=Red guibg=Red";
   */
 
   /*
-  nvim_TermCursorNC = { bg = $C_TermCursorNC$ };
-  nvim_Cursor = 'TermCursorNC';
-  nvim_lCursor = 'TermCursorNC';
-  nvim_CursorIM = 'TermCursorNC';
-  nvim_TermCursor = 'TermCursorNC';
+  TermCursorNC = { bg = $C_TermCursorNC$ };
+  Cursor = 'TermCursorNC';
+  lCursor = 'TermCursorNC';
+  CursorIM = 'TermCursorNC';
+  TermCursor = 'TermCursorNC';
 
-  nvim_ColorColumn = { bg = $C_ColorColumn$ };
-  nvim_CursorColumn = 'ColorColumn';
-  nvim_CursorLine = 'ColorColumn';
-  nvim_VertSplit = { fg = $C_$ };
-  nvim_WinSeparator = { fg = $C_$ };
+  ColorColumn = { bg = $C_ColorColumn$ };
+  CursorColumn = 'ColorColumn';
+  CursorLine = 'ColorColumn';
+  VertSplit = { fg = $C_$ };
+  WinSeparator = { fg = $C_$ };
 
-  nvim_LineNr = { fg = $C_$ };
-  nvim_CursorLineNr = { fg = $C_$ };
+  LineNr = { fg = $C_$ };
+  CursorLineNr = { fg = $C_$ };
 
-  nvim_Folded = { fg = $C_$, bg = $C_$ };
-  nvim_FoldColumn = 'LineNr';
-  nvim_SignColumn = 'LineNr';
+  Folded = { fg = $C_$, bg = $C_$ };
+  FoldColumn = 'LineNr';
+  SignColumn = 'LineNr';
 
-  nvim_Pmenu = 'NormalFloat';
-  nvim_PmenuSel = { bg = $C_$ };
-  nvim_PmenuSbar = 'Pmenu';
-  nvim_PmenuThumb = 'PmenuSel';
+  Pmenu = 'NormalFloat';
+  PmenuSel = { bg = $C_$ };
+  PmenuSbar = 'Pmenu';
+  PmenuThumb = 'PmenuSel';
 
-  nvim_StatusLine = 'NormalFloat';
-  nvim_StatusLineNC = { fg = a.com, bg = $C_$ };
-  nvim_WildMenu = 'NormalFloat';
+  StatusLine = 'NormalFloat';
+  StatusLineNC = { fg = a.com, bg = $C_$ };
+  WildMenu = 'NormalFloat';
 
-  nvim_TabLine = 'StatusLineNC';
-  nvim_TabLineFill = 'StatusLine';
-  nvim_TabLineSel = { bg = a.float, bold = bold };
+  TabLine = 'StatusLineNC';
+  TabLineFill = 'StatusLine';
+  TabLineSel = { bg = a.float, bold = bold };
 
-  nvim_MatchParen = { fg = $C_$ };
-  nvim_Search = { fg = a.bg, bg = $C_$ };
-  nvim_Substitute = { bg = $C_$ };
-  nvim_QuickFixLine = {};
-  nvim_IncSearch = {};
-  nvim_Visual = { bg = $C_$ };
-  nvim_VisualNOS = {};
+  MatchParen = { fg = $C_$ };
+  Search = { fg = a.bg, bg = $C_$ };
+  Substitute = { bg = $C_$ };
+  QuickFixLine = {};
+  IncSearch = {};
+  Visual = { bg = $C_$ };
+  VisualNOS = {};
 
-  nvim_Conceal = { fg = $C_$ };
-  nvim_Whitespace = { fg = $C_$ };
-  nvim_EndOfBuffer = {};
-  nvim_NonText = 'Whitespace';
-  nvim_SpecialKey = 'Whitespace';
+  Conceal = { fg = $C_$ };
+  Whitespace = { fg = $C_$ };
+  EndOfBuffer = {};
+  NonText = 'Whitespace';
+  SpecialKey = 'Whitespace';
 
-  nvim_Directory = { fg = $C_$ };
-  nvim_Title = { fg = $C_$ };
-  nvim_ErrorMsg = { bg = $C_$ };
-  nvim_ModeMsg = { fg = $C_$ };
-  nvim_MsgArea = {};
-  nvim_MsgSeparator = {};
-  nvim_MoreMsg = { fg = $C_$ };
-  nvim_WarningMsg = { fg = $C_$ };
-  nvim_Question = 'MoreMsg';
+  Directory = { fg = $C_$ };
+  Title = { fg = $C_$ };
+  ErrorMsg = { bg = $C_$ };
+  ModeMsg = { fg = $C_$ };
+  MsgArea = {};
+  MsgSeparator = {};
+  MoreMsg = { fg = $C_$ };
+  WarningMsg = { fg = $C_$ };
+  Question = 'MoreMsg';
 
   ---- :help :diff -------------------------------------------
 
-  nvim_DiffAdd = { bg = $C_$ };
-  nvim_DiffChange = { bg = $C_$ };
-  nvim_DiffDelete = { bg = $C_$ };
-  nvim_DiffText = { bg = $C_$ };
+  DiffAdd = { bg = $C_$ };
+  DiffChange = { bg = $C_$ };
+  DiffDelete = { bg = $C_$ };
+  DiffText = { bg = $C_$ };
 
-  nvim_DiffAdded = 'DiffAdd';
-  nvim_DiffRemoved = 'DiffDelete';
+  DiffAdded = 'DiffAdd';
+  DiffRemoved = 'DiffDelete';
 
   ---- :help spell -------------------------------------------
 
-  nvim_SpellBad = { fg = $C_$ };
-  nvim_SpellCap = { fg = $C_$ };
-  nvim_SpellLocal = { fg = $C_$ };
-  nvim_SpellRare = { fg = $C_$ };
+  SpellBad = { fg = $C_$ };
+  SpellCap = { fg = $C_$ };
+  SpellLocal = { fg = $C_$ };
+  SpellRare = { fg = $C_$ };
 
   ---- :help group-name --------------------------------------
 
-  nvim_Comment = { fg = a.com, italic = italic };
-  nvim_Identifier = { fg = $C_$ };
-  nvim_Function = { fg = $C_$ };
-  nvim_Constant = { fg = $C_$ };
-  nvim_String = { fg = $C_$ };
-  nvim_Character = { fg = $C_$ };
-  nvim_Number = { fg = $C_$ };
-  nvim_Boolean = 'Number';
-  nvim_Float = {};
+  Comment = { fg = a.com, italic = italic };
+  Identifier = { fg = $C_$ };
+  Function = { fg = $C_$ };
+  Constant = { fg = $C_$ };
+  String = { fg = $C_$ };
+  Character = { fg = $C_$ };
+  Number = { fg = $C_$ };
+  Boolean = 'Number';
+  Float = {};
 
-  nvim_Statement = { fg = $C_$ };
-  nvim_Conditional = {};
-  nvim_Repeat = {};
-  nvim_Label = {};
-  nvim_Operator = { fg = $C_$ };
-  nvim_Keyword = {};
-  nvim_Exception = {};
+  Statement = { fg = $C_$ };
+  Conditional = {};
+  Repeat = {};
+  Label = {};
+  Operator = { fg = $C_$ };
+  Keyword = {};
+  Exception = {};
 
-  nvim_PreProc = { fg = $C_$ };
-  nvim_Include = {};
-  nvim_Define = {};
-  nvim_Macro = {};
-  nvim_PreCondit = {};
+  PreProc = { fg = $C_$ };
+  Include = {};
+  Define = {};
+  Macro = {};
+  PreCondit = {};
 
-  nvim_Type = { fg = $C_$ };
-  nvim_StorageClass = {};
-  nvim_Structure = {};
-  nvim_Typedef = {};
+  Type = { fg = $C_$ };
+  StorageClass = {};
+  Structure = {};
+  Typedef = {};
 
-  nvim_Special = { fg = $C_$ };
-  nvim_SpecialChar = {};
-  nvim_Tag = {};
-  nvim_Delimiter = { fg = $C_$ };
-  nvim_SpecialComment = {};
-  nvim_Debug = {};
+  Special = { fg = $C_$ };
+  SpecialChar = {};
+  Tag = {};
+  Delimiter = { fg = $C_$ };
+  SpecialComment = {};
+  Debug = {};
 
-  nvim_Underlined = { underline = underline };
-  nvim_Bold = { bold = bold };
-  nvim_Italic = { italic = italic };
+  Underlined = { underline = underline };
+  Bold = { bold = bold };
+  Italic = { italic = italic };
 
-  nvim_Ignore = { fg = $C_$ };
-  nvim_Error = { bg = $C_$ };
-  nvim_Todo = { fg = a.com, bold = bold };
+  Ignore = { fg = $C_$ };
+  Error = { bg = $C_$ };
+  Todo = { fg = a.com, bold = bold };
 
   # ---- :help nvim-treesitter-highlights (external plugin) ----
 
-  nvim_at_boolean = {};
-  nvim_at_number = {};
-  nvim_at_number.float = {};
+  at_boolean = {};
+  at_number = {};
+  at_number.float = {};
 
-  nvim_at_character = {};
-  nvim_at_character.special = {};
-  nvim_at_string = {};
-  nvim_at_string_documentation = { fg = $C_$ };
-  nvim_at_string_escape = { fg = $C_$ };
-  nvim_at_string_regexp = { fg = $C_$ };
-  nvim_at_string_special = { fg = $C_$ };
-  nvim_at_string_special_symbol = { fg = a.fg, italic = italic };
-  nvim_at_string_special_path = { fg = $C_$ };
-  nvim_at_string_special_url = '@string_special.path';
+  at_character = {};
+  at_character.special = {};
+  at_string = {};
+  at_string_documentation = { fg = $C_$ };
+  at_string_escape = { fg = $C_$ };
+  at_string_regexp = { fg = $C_$ };
+  at_string_special = { fg = $C_$ };
+  at_string_special_symbol = { fg = a.fg, italic = italic };
+  at_string_special_path = { fg = $C_$ };
+  at_string_special_url = '@string_special.path';
 
-  nvim_at_keyword = {};
-  nvim_at_keyword_conditional = {};
-  nvim_at_keyword_conditional.ternary = {};
-  nvim_at_keyword_coroutine = {};
-  nvim_at_keyword_debug = {};
-  nvim_at_keyword_directive = 'PreProc';
-  nvim_at_keyword_directive.define = {};
-  nvim_at_keyword_exception = {};
-  nvim_at_keyword_function = 'PreProc';
-  nvim_at_keyword_import = 'PreProc';
-  nvim_at_keyword_operator = {};
-  nvim_at_keyword_repeat = {};
-  nvim_at_keyword_return = {};
-  nvim_at_keyword_storage = {};
+  at_keyword = {};
+  at_keyword_conditional = {};
+  at_keyword_conditional.ternary = {};
+  at_keyword_coroutine = {};
+  at_keyword_debug = {};
+  at_keyword_directive = 'PreProc';
+  at_keyword_directive.define = {};
+  at_keyword_exception = {};
+  at_keyword_function = 'PreProc';
+  at_keyword_import = 'PreProc';
+  at_keyword_operator = {};
+  at_keyword_repeat = {};
+  at_keyword_return = {};
+  at_keyword_storage = {};
 
   # --- NOTE: Queries for these highlight groups are really hacky.
   # --- Inaccurate syntax highlighting is worse than no highlighting at all;
-  nvim_at_constant = 'Identifier';
-  nvim_at_constant_builtin = 'Constant';
-  nvim_at_constant_macro = 'Constant';
-  nvim_at_module = 'Identifier';
-  nvim_at_module_builtin = '@module';
-  nvim_at_label = { fg = $C_$ };
-  nvim_at_variable = 'Identifier';
-  nvim_at_variable_builtin = '@string_special.symbol';
-  nvim_at_variable_parameter = {};
-  nvim_at_variable_member = {};
+  at_constant = 'Identifier';
+  at_constant_builtin = 'Constant';
+  at_constant_macro = 'Constant';
+  at_module = 'Identifier';
+  at_module_builtin = '@module';
+  at_label = { fg = $C_$ };
+  at_variable = 'Identifier';
+  at_variable_builtin = '@string_special.symbol';
+  at_variable_parameter = {};
+  at_variable_member = {};
 
-  nvim_at_type = {};
-  nvim_at_type_builtin = {};
-  nvim_at_type_definition = {};
-  nvim_at_type_qualifier = 'Statement';
-  nvim_at_attribute = {};
-  nvim_at_property = {};
+  at_type = {};
+  at_type_builtin = {};
+  at_type_definition = {};
+  at_type_qualifier = 'Statement';
+  at_attribute = {};
+  at_property = {};
 
-  nvim_at_function = {};
-  nvim_at_function_builtin = {};
-  nvim_at_function_macro = {};
-  nvim_at_function_method = {};
-  nvim_at_constructor = {};
+  at_function = {};
+  at_function_builtin = {};
+  at_function_macro = {};
+  at_function_method = {};
+  at_constructor = {};
 
-  nvim_at_punctuation_bracket = {};
-  nvim_at_punctuation_delimiter = { fg = $C_$ };
-  nvim_at_punctuation_special = {};
+  at_punctuation_bracket = {};
+  at_punctuation_delimiter = { fg = $C_$ };
+  at_punctuation_special = {};
 
-  nvim_at_comment = {};
-  nvim_at_comment_documentation = { fg = a.com, nocombine = true };
-  nvim_at_comment_error = 'Todo';
-  nvim_at_comment_note = 'Todo';
-  nvim_at_comment_todo = 'Todo';
-  nvim_at_comment_warning = 'Todo';
+  at_comment = {};
+  at_comment_documentation = { fg = a.com, nocombine = true };
+  at_comment_error = 'Todo';
+  at_comment_note = 'Todo';
+  at_comment_todo = 'Todo';
+  at_comment_warning = 'Todo';
 
-  nvim_at_markup = {};
-  nvim_at_markup_heading = 'Title';
-  nvim_at_markup_italic = { italic = italic };
-  nvim_at_markup_strong = { bold = bold };
-  nvim_at_markup_strike = { strikethrough = strikethrough };
-  nvim_at_markup_underline = { underline = underline };
-  nvim_at_markup_quote = 'Comment';
-  nvim_at_markup_math = {}, -- TODO
-  nvim_at_markup_environment = {};
-  nvim_at_markup_link = { underline = underline };
-  nvim_at_markup_link_label = {};
-  nvim_at_markup_link_url = '@string_special.url';
-  nvim_at_markup_raw = { fg = $C_$ };
-  nvim_at_markup_raw_block = {};
-  nvim_at_markup_list = 'Delimiter';
-  nvim_at_markup_list_checked = {};
-  nvim_at_markup_list_unchecked = {};
+  at_markup = {};
+  at_markup_heading = 'Title';
+  at_markup_italic = { italic = italic };
+  at_markup_strong = { bold = bold };
+  at_markup_strike = { strikethrough = strikethrough };
+  at_markup_underline = { underline = underline };
+  at_markup_quote = 'Comment';
+  at_markup_math = {}, -- TODO
+  at_markup_environment = {};
+  at_markup_link = { underline = underline };
+  at_markup_link_label = {};
+  at_markup_link_url = '@string_special.url';
+  at_markup_raw = { fg = $C_$ };
+  at_markup_raw_block = {};
+  at_markup_list = 'Delimiter';
+  at_markup_list_checked = {};
+  at_markup_list_unchecked = {};
 
-  nvim_at_diff_plus = 'DiffAdd';
-  nvim_at_diff_minus = 'DiffDelete';
-  nvim_at_diff_delta = 'DiffChange';
+  at_diff_plus = 'DiffAdd';
+  at_diff_minus = 'DiffDelete';
+  at_diff_delta = 'DiffChange';
 
-  nvim_at_tag = {};
-  nvim_at_tag_attribute = '@label';
-  nvim_at_tag_delimiter = 'Delimiter';
+  at_tag = {};
+  at_tag_attribute = '@label';
+  at_tag_delimiter = 'Delimiter';
 
   # ---- :help diagnostic-highlight ----------------------------
 
-  nvim_DiagnosticError = { fg = $C_$ };
-  nvim_DiagnosticWarn = { fg = $C_$ };
-  nvim_DiagnosticInfo = { fg = $C_$ };
-  nvim_DiagnosticHint = { fg = $C_$ };
-  nvim_DiagnosticOk = { fg = $C_$ };
-  nvim_DiagnosticUnderlineError = { undercurl = undercurl, sp = $C_$ };
-  nvim_DiagnosticUnderlineWarn = { undercurl = undercurl, sp = $C_$ };
-  nvim_DiagnosticUnderlineInfo = { undercurl = undercurl, sp = $C_$ };
-  nvim_DiagnosticUnderlineHint = { undercurl = undercurl, sp = $C_$ };
-  nvim_DiagnosticUnderlineOk = { undercurl = undercurl, sp = $C_$ };
-  nvim_DiagnosticVirtualTextError = {};
-  nvim_DiagnosticVirtualTextWarn = {};
-  nvim_DiagnosticVirtualTextInfo = {};
-  nvim_DiagnosticVirtualTextHint = {};
-  nvim_DiagnosticVirtualTextOk = {};
-  nvim_DiagnosticFloatingError = {};
-  nvim_DiagnosticFloatingWarn = {};
-  nvim_DiagnosticFloatingInfo = {};
-  nvim_DiagnosticFloatingHint = {};
-  nvim_DiagnosticFloatingOk = {};
-  nvim_DiagnosticSignError = {};
-  nvim_DiagnosticSignWarn = {};
-  nvim_DiagnosticSignInfo = {};
-  nvim_DiagnosticSignHint = {};
-  nvim_DiagnosticSignOk = {};
+  DiagnosticError = { fg = $C_$ };
+  DiagnosticWarn = { fg = $C_$ };
+  DiagnosticInfo = { fg = $C_$ };
+  DiagnosticHint = { fg = $C_$ };
+  DiagnosticOk = { fg = $C_$ };
+  DiagnosticUnderlineError = { undercurl = undercurl, sp = $C_$ };
+  DiagnosticUnderlineWarn = { undercurl = undercurl, sp = $C_$ };
+  DiagnosticUnderlineInfo = { undercurl = undercurl, sp = $C_$ };
+  DiagnosticUnderlineHint = { undercurl = undercurl, sp = $C_$ };
+  DiagnosticUnderlineOk = { undercurl = undercurl, sp = $C_$ };
+  DiagnosticVirtualTextError = {};
+  DiagnosticVirtualTextWarn = {};
+  DiagnosticVirtualTextInfo = {};
+  DiagnosticVirtualTextHint = {};
+  DiagnosticVirtualTextOk = {};
+  DiagnosticFloatingError = {};
+  DiagnosticFloatingWarn = {};
+  DiagnosticFloatingInfo = {};
+  DiagnosticFloatingHint = {};
+  DiagnosticFloatingOk = {};
+  DiagnosticSignError = {};
+  DiagnosticSignWarn = {};
+  DiagnosticSignInfo = {};
+  DiagnosticSignHint = {};
+  DiagnosticSignOk = {};
 
-  nvim_DiagnosticDeprecated = { DiagnosticUnderlineError };
-  nvim_DiagnosticUnnecessary = { fg = a.com, undercurl = undercurl };
+  DiagnosticDeprecated = { DiagnosticUnderlineError };
+  DiagnosticUnnecessary = { fg = a.com, undercurl = undercurl };
 
   # ---- :help lsp-highlight -----------------------------------
 
-  nvim_LspReferenceText = 'Visual';
-  nvim_LspReferenceRead = 'Visual';
-  nvim_LspReferenceWrite = 'Visual';
+  LspReferenceText = 'Visual';
+  LspReferenceRead = 'Visual';
+  LspReferenceWrite = 'Visual';
 
-  nvim_TODO: lsp-highlight-codelens
+  TODO: lsp-highlight-codelens
 
   # ---- :help lsp-semantic-highlight --------------------------
 
-  nvim_at_lsp_type_class = 'Structure';
-  nvim_at_lsp_type_comment = 'Comment';
-  nvim_at_lsp_type_decorator = 'Function';
-  nvim_at_lsp_type_enum = 'Structure';
-  nvim_at_lsp_type_enumMember = 'Constant';
-  nvim_at_lsp_type_function = 'Function';
-  nvim_at_lsp_type_interface = 'Structure';
-  nvim_at_lsp_type_macro = 'Function';
-  nvim_at_lsp_type_method = 'Function';
-  nvim_at_lsp_type_namespace = { fg = $C_$ };
-  nvim_at_lsp_type_parameter = { fg = a.fg, bold = bold };
-  nvim_at_lsp_type_property = 'Identifier';
-  nvim_at_lsp_type_struct = 'Structure';
-  nvim_at_lsp_type_type = 'Type';
-  nvim_at_lsp_type_typeParameter = 'TypeDef';
-  nvim_at_lsp_type_variable = 'Identifier';
+  at_lsp_type_class = 'Structure';
+  at_lsp_type_comment = 'Comment';
+  at_lsp_type_decorator = 'Function';
+  at_lsp_type_enum = 'Structure';
+  at_lsp_type_enumMember = 'Constant';
+  at_lsp_type_function = 'Function';
+  at_lsp_type_interface = 'Structure';
+  at_lsp_type_macro = 'Function';
+  at_lsp_type_method = 'Function';
+  at_lsp_type_namespace = { fg = $C_$ };
+  at_lsp_type_parameter = { fg = a.fg, bold = bold };
+  at_lsp_type_property = 'Identifier';
+  at_lsp_type_struct = 'Structure';
+  at_lsp_type_type = 'Type';
+  at_lsp_type_typeParameter = 'TypeDef';
+  at_lsp_type_variable = 'Identifier';
 
   # ---- :help vimtex-syntax-reference (external plugin) -------
 
-  nvim_texOptSep = '@punctuation.delimiter';
-  nvim_texOptEqual = 'Operator';
-  nvim_texFileArg = 'Constant';
-  nvim_texTitleArg = { bold = bold };
-  nvim_texRefArg = 'Constant';
+  texOptSep = '@punctuation.delimiter';
+  texOptEqual = 'Operator';
+  texFileArg = 'Constant';
+  texTitleArg = { bold = bold };
+  texRefArg = 'Constant';
 
-  nvim_texMathCmd = 'Function';
-  nvim_texMathSymbol = 'Operator';
-  nvim_texMathZone = 'TSMath';
-  nvim_texMathDelimZone = 'TSPunctDelimiter';
-  nvim_texMathDelim = 'Delimiter';
-  nvim_texMathEnvArgName = 'PreProc';
+  texMathCmd = 'Function';
+  texMathSymbol = 'Operator';
+  texMathZone = 'TSMath';
+  texMathDelimZone = 'TSPunctDelimiter';
+  texMathDelim = 'Delimiter';
+  texMathEnvArgName = 'PreProc';
 
   # --- neo-tree highlights  :help neo-tree-highlights ---
 
-  nvim_NeoTreeCursorLine   = { bg = $C_$ },-- temporary overrides to be adjusted in color theme
-  nvim_NeoTreeEndOfBuffer  = { guibg=$C_NeoTreeEndOfBufferBg$ guifg=$C_NeoTreeEndOfBufferFg$ };
-  nvim_NeoTreeNormal       = { guibg=$C_NeoTreeNormal$ };
-  nvim_NeoTreeNormalNC     = { guibg=$C_NeoTreeNormalNC$ };
-  nvim_NeoTreeWinSeparator = { guibg=$C_NeoTreeWinSeparator$ };
-  nvim_NeoTreeVertSplit    = { guibg=$C_NeoTreeVertSplit$ };
-  nvim_Terminal            = { guibg=$C_Terminal$ };
+  NeoTreeCursorLine   = { bg = $C_$ },-- temporary overrides to be adjusted in color theme
+  NeoTreeEndOfBuffer  = { guibg=$C_NeoTreeEndOfBufferBg$ guifg=$C_NeoTreeEndOfBufferFg$ };
+  NeoTreeNormal       = { guibg=$C_NeoTreeNormal$ };
+  NeoTreeNormalNC     = { guibg=$C_NeoTreeNormalNC$ };
+  NeoTreeWinSeparator = { guibg=$C_NeoTreeWinSeparator$ };
+  NeoTreeVertSplit    = { guibg=$C_NeoTreeVertSplit$ };
+  Terminal            = { guibg=$C_Terminal$ };
 
 
   --- netrw: there's no comprehensive list of highlights... --
 
-  nvim_#-- netrwClassify = 'Delimiter';
-  nvim_#-- netrwTreeBar = 'Delimiter';
-  nvim_#-- netrwExe = { fg = $C_$ };
-  nvim_#-- netrwSymLink = { fg = $C_$ };
+  #-- netrwClassify = 'Delimiter';
+  #-- netrwTreeBar = 'Delimiter';
+  #-- netrwExe = { fg = $C_$ };
+  #-- netrwSymLink = { fg = $C_$ };
 
   ---- :h gitsigns (external plugin) -------------------------
 
-  nvim_GitSignsAdd = { fg = $C_$ };
-  nvim_GitSignsChange = { fg = $C_$ };
-  nvim_GitSignsDelete = { fg = $C_$ };
-  nvim_GitSignsCurrentLineBlame = { fg = $C_$ };
+  GitSignsAdd = { fg = $C_$ };
+  GitSignsChange = { fg = $C_$ };
+  GitSignsDelete = { fg = $C_$ };
+  GitSignsCurrentLineBlame = { fg = $C_$ };
 
-  nvim_SignifySignAdd = 'GitSignsAdd';
-  nvim_SignifySignChange = 'GitSignsChange';
-  nvim_SignifySignDelete = 'GitSignsDelete';
+  SignifySignAdd = 'GitSignsAdd';
+  SignifySignChange = 'GitSignsChange';
+  SignifySignDelete = 'GitSignsDelete';
 
   # ---- :h ibl.highlights (external plugin) -------------------
-  nvim_IblIndent = { fg = a.sel, nocombine = true };
+  IblIndent = { fg = a.sel, nocombine = true };
   DiagnosticUnderlineInfo = "xxx cterm=underline gui=underline guisp=LightBlue";
-  nvim_IblWhitespace = 'IblIndent';
-  nvim_IndentBlanklineChar = 'IblIndent', -- Deprecated?
-  nvim_IndentBlanklineSpaceChar = 'IndentBlanklineChar';
-  nvim_IndentBlanklineSpaceCharBlankline = 'IndentBlanklineChar';
+  IblWhitespace = 'IblIndent';
+  IndentBlanklineChar = 'IblIndent', -- Deprecated?
+  IndentBlanklineSpaceChar = 'IndentBlanklineChar';
+  IndentBlanklineSpaceCharBlankline = 'IndentBlanklineChar';
   */
   #-------------------------------------------------Neovim default highlight groups
   /*

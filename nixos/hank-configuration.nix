@@ -12,9 +12,10 @@
 #       sha256 = "154x7mk2mxjza0djnq35n22539n740rwz12my77nqmq5a94jjf30";#6f5e4666837c63e29ce0e7fe997561fd218f5a9c8af28193f92e861a1bbb2a56";#0miapcdim1ifz69q3wlakid8y8gxc5srkzp7w2ff4qvwhdk4cpkg";
 #     };
 # in
-let
-  swayfx-nightly = inputs.swayfx.packages.${pkgs.system}.swayfx-unwrapped;
-in {
+# let
+#   swayfx-nightly = inputs.swayfx.packages.${pkgs.system}.swayfx-unwrapped;
+# in 
+{
   imports = [
     # Include the results of the hardware scan.
     ./hardware-configurations/hank-hardware-configuration.nix
@@ -70,7 +71,8 @@ in {
     #distrobox
 
     #sway
-    swayfx-nightly
+    # swayfx-nightly
+    swayfx
     hyprland
     waybar
     mako
@@ -140,11 +142,11 @@ in {
   # Enable the GNOME Desktop Environment.
   services.xserver.displayManager.gdm.enable = true;
   services.xserver.desktopManager.gnome.enable = true;
-
   # Configure keymap in X11
-  services.xserver = {
+
+  services.xserver.xkb = {
     layout = "us";
-    xkbVariant = "";
+    variant = "";
   };
 
   # Enable CUPS to print documents.
@@ -230,10 +232,10 @@ in {
     # deprecated: enableNvidiaPatches = true;
     xwayland.enable = true;
   };
-  #programs.swayfx-nightly = { # incorrect -> need to create an overlay for swayfx
-  #  enable = true;
-  #  xwayland.enable = true;
-  #};
+  programs.sway = { # incorrect -> need to create an overlay for swayfx
+    enable = true;
+    package = pkgs.swayfx;
+  };
 
   # https://nixos.wiki/wiki/FAQ/When_do_I_update_stateVersion
   system.stateVersion = "23.11";

@@ -22,11 +22,10 @@
     };
 
     # SwayFX
-
-    swayfx = {
-      url = "github:WillPower3309/swayfx/f0ecffe593574593ec99c104fa12e4bfd593b0f2";
-      inputs.nixpkgs.follows = "nixpkgs";
-    };
+    # swayfx = {
+    #   url = "github:WillPower3309/swayfx/f0ecffe593574593ec99c104fa12e4bfd593b0f2";
+    #   inputs.nixpkgs.follows = "nixpkgs";
+    # };
 
     # Snap
     #nix-snapd = {

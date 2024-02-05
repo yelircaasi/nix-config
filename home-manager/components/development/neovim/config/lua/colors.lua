@@ -53,6 +53,7 @@ for name, attrs in pairs({
 	NormalNC = "Normal",
 
 	Special = { fg = "$C_nvim.Special.fg$" },
+	CursorLine = { bg = "$C_nvim.CursorLine.bg$" },
 
 	Identifier = { fg = "$C_nvim.Identifier.fg$" },
 	["@variable"] = { fg = "$C_nvim.at_variable.fg$" },

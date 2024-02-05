@@ -81,8 +81,8 @@ in {
       #nvim-luapad
 
       # ui general
-      #nui-nvim # alt: dressing-nvim, guihua-lua
-      #noice-nvim
+      nui-nvim # alt: dressing-nvim, guihua-lua
+      noice-nvim
       #custom.popui-nvim
 
       # keybinding

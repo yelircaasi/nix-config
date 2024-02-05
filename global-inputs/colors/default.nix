@@ -146,6 +146,7 @@ in rec {
     NormalNC = {inherit fg bg;};
 
     Special = { fg = special; };
+    CursorLine = { bg = bgAccent; };
 
     Identifier = { fg = identifier; };
     at_variable = { fg = variable; };

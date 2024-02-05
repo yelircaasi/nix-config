@@ -12,7 +12,7 @@ require("neogit")
 
 -- custom plugin config, named semantically rather than using plugin name
 --require("plugins.training")
---require("plugins.ui")
+require("plugins.ui")
 require("plugins.keybinding")
 require("plugins.icons")
 require("plugins.filetree")

@@ -1,5 +1,41 @@
 # Non-Nix Dotfiles
 
+## Raw - to sort
+https://github.com/AlphaTechnolog/eww-dotfiles
+https://git.sr.ht/~hollow/dotfiles/tree
+https://github.com/smravec/.dotfiles-hyprland - hyprland, fish, alacritty, eww, vim, mpd, pipewire
+https://git.wych.dev/elal/dotfiles
+https://github.com/gh0stzk/dotfiles
+https://github.com/Axarva/dotfiles-2.0
+https://github.com/siduck/chadwm
+https://github.com/end-4/dots-hyprland
+https://github.com/Syndrizzle/hotfiles
+https://github.com/janleigh/dotfiles
+https://github.com/rxyhn/tokyo
+https://github.com/adi1090x/widgets
+https://github.com/linkfrg/dotfiles
+https://github.com/sioodmy/dotfiles
+https://github.com/juminai/dotfiles
+https://github.com/dharmx/vile
+https://github.com/beyond9thousand/dotfiles
+https://github.com/ikz87/dots-2.0
+https://github.com/lauroro/hyprland-dotfiles
+https://github.com/Jesuarzm/Dotfiles
+https://github.com/TesterTech/eww-from-scratch [video](https://www.youtube.com/watch?v=rYlXF722RNw)
+https://github.com/TesterTech/rice-i3-from-scratch-pywal
+https://github.com/inphormatic/dotfiles
+https://github.com/TesterTech/swaywm-eww
+https://github.com/Snxwman/rancid
+https://github.com/AymanLyesri/hyprland-conf
+https://github.com/S4NKALP/dotfile
+https://github.com/husseinhareb/hyprland-eww
+https://github.com/Evangelospro/dotfiles
+https://github.com/S4NKALP/gh0stzk-dotfile
+https://github.com/husseinhareb/my-dotfiles
+https://github.com/BeelzebubOfGluttony/dotfiles/tree
+https://github.com/BeelzebubOfGluttony/dotFiles2.0
+https://github.com/rusty-electron/dotfiles [video](https://www.youtube.com/watch?v=cAm2kKakN5U)
+
 ## Bare
 - [Riverwm with Yambar](https://www.reddit.com/r/UsabilityPorn/s/oE9xxCZZJq ) - 
 - [alexmuxika](https://github.com/AlexMuxika/configs) -  [init](https://raw.githubusercontent.com/AlexMuxika/configs/main/init) - 

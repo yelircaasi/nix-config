@@ -39,4 +39,7 @@
 - [christitustech/mybash](https://github.com/ChrisTitusTech/mybash)
 - [titus-conky](https://github.com/ChrisTitusTech/titus-conky) - conky
 - [Titus bash](https://github.com/ChrisTitusTech/mybash)
+- [DT Starship](https://gitlab.com/dwt1/dotfiles/-/blob/e0277a1031f1493deca9ac8acfebe187d6dc1bf3/.config/starship.toml)
+- [DT EWW](https://gitlab.com/dwt1/dotfiles/-/tree/e0277a1031f1493deca9ac8acfebe187d6dc1bf3/.config/eww/bar)
+- [DT Qutebrowser](https://gitlab.com/dwt1/dotfiles/-/tree/e0277a1031f1493deca9ac8acfebe187d6dc1bf3/.config/qutebrowser)
 -

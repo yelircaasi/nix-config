@@ -1,5 +1,5 @@
 # Nix Configurations
-
+- [notusknot](https://github.com/notusknot/dotfiles-nix)
 - [martijnboers](https://github.com/martijnboers/nixos)
 - [hlissner](https://github.com/hlissner/dotfiles)
 - [ryan4yin](https://github.com/ryan4yin/nix-config/)

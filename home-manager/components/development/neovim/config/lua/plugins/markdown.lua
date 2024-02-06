@@ -10,6 +10,10 @@ vim.g.vim_markdown_folding_level = 2
 vim.g.tex_conceal = 1
 vim.g.vim_markdown_math = 1
 
+-- fix gx -> I want a deeper understanding of what this syntax really means,
+-- but for now it fixes the annoying issue with markdown links not opening
+vim.cmd("nnoremap <Plug> <Plug>Markdown_OpenUrlUnderCursor")
+
 -- markdown-preview
 -- " set to 1, nvim will open the preview window after entering the Markdown buffer
 -- default: 0
@@ -40,14 +44,14 @@ vim.g.mkdp_open_to_the_world = 0
 -- Useful when you work in remote Vim and preview on local browser.
 -- For more details see: https://github.com/iamcco/markdown-preview.nvim/pull/9
 -- default empty
-vim.g.mkdp_open_ip = ''
+vim.g.mkdp_open_ip = ""
 
 -- specify browser to open preview page
 -- for path with space
 -- valid: `/path/with\ space/xxx`
 -- invalid: `/path/with\\ space/xxx`
 -- default: ''
-vim.g.mkdp_browser = ''
+vim.g.mkdp_browser = ""
 
 -- set to 1, echo preview page URL in command line when opening preview page
 -- default is 0
@@ -56,7 +60,7 @@ vim.g.mkdp_echo_preview_url = 0
 -- a custom Vim function name to open preview page
 -- this function will receive URL as param
 -- default is empty
-vim.g.mkdp_browserfunc = ''
+vim.g.mkdp_browserfunc = ""
 
 -- options for Markdown rendering
 -- mkit: markdown-it options for rendering
@@ -73,45 +77,45 @@ vim.g.mkdp_browserfunc = ''
 -- content_editable: if enable content editable for preview page, default: v:false
 -- disable_filename: if disable filename header for preview page, default: 0
 vim.g.mkdp_preview_options = {
-    mkit = {},
-    katex = {},
-    uml = {},
-    maid = {},
-    disable_sync_scroll = 0,
-    sync_scroll_type = 'middle',
-    hide_yaml_meta = 1,
-    sequence_diagrams = {},
-    flowchart_diagrams = {},
-    content_editable = false,
-    disable_filename = 0,
-    toc = {}
+	mkit = {},
+	katex = {},
+	uml = {},
+	maid = {},
+	disable_sync_scroll = 0,
+	sync_scroll_type = "middle",
+	hide_yaml_meta = 1,
+	sequence_diagrams = {},
+	flowchart_diagrams = {},
+	content_editable = false,
+	disable_filename = 0,
+	toc = {},
 }
 
 -- use a custom Markdown style. Must be an absolute path
 -- like '/Users/username/markdown.css' or expand('~/markdown.css')
-vim.g.mkdp_markdown_css = ''
+vim.g.mkdp_markdown_css = ""
 
 -- use a custom highlight style. Must be an absolute path
 -- like '/Users/username/highlight.css' or expand('~/highlight.css')
-vim.g.mkdp_highlight_css = ''
+vim.g.mkdp_highlight_css = ""
 
 -- use a custom port to start server or empty for random
-vim.g.mkdp_port = ''
+vim.g.mkdp_port = ""
 
 -- preview page title
 -- ${name} will be replace with the file name
-vim.g.mkdp_page_title = '「${name}」'
+vim.g.mkdp_page_title = "「${name}」"
 
 -- use a custom location for images
 vim.g.mkdp_images_path = "/home/user/.markdown_images"
 
 -- recognized filetypes
 -- these filetypes will have MarkdownPreview... commands
-vim.g.mkdp_filetypes = {'markdown'}
+vim.g.mkdp_filetypes = { "markdown" }
 
 -- set default theme (dark or light)
 -- By default the theme is defined according to the preferences of the system
-vim.g.mkdp_theme = 'dark'
+vim.g.mkdp_theme = "dark"
 
 -- combine preview window
 -- default: 0
@@ -123,72 +127,69 @@ vim.g.mkdp_combine_preview = 0
 -- only when g:mkdp_combine_preview is 1
 vim.g.mkdp_combine_preview_auto_refresh = 1
 
-
 -- glow
-
 
 -- femaco
 
 femaco.setup({
-  -- should prepare a new buffer and return the winid
-  -- by default opens a floating window
-  -- provide a different callback to change this behaviour
-  -- @param opts: the return value from float_opts
-  prepare_buffer = function(opts)
-    local buf = vim.api.nvim_create_buf(false, false)
-    return vim.api.nvim_open_win(buf, true, opts)
-  end,
-  -- should return options passed to nvim_open_win
-  -- @param code_block: data about the code-block with the keys
-  --   * range
-  --   * lines
-  --   * lang
-  float_opts = function(code_block)
-    return {
-      relative = 'cursor',
-      width = clip_val(5, 120, vim.api.nvim_win_get_width(0) - 10),  -- TODO how to offset sign column etc?
-      height = clip_val(5, #code_block.lines, vim.api.nvim_win_get_height(0) - 6),
-      anchor = 'NW',
-      row = 0,
-      col = 0,
-      style = 'minimal',
-      border = 'rounded',
-      zindex = 1,
-    }
-  end,
-  -- return filetype to use for a given lang
-  -- lang can be nil
-  ft_from_lang = function(lang)
-    return lang
-  end,
-  -- what to do after opening the float
-  post_open_float = function(winnr)
-    vim.wo.signcolumn = 'no'
-  end,
-  -- create the path to a temporary file
-  create_tmp_filepath = function(filetype)
-    return os.tmpname()
-  end,
-  -- if a newline should always be used, useful for multiline injections
-  -- which separators needs to be on separate lines such as markdown, neorg etc
-  -- @param base_filetype: The filetype which FeMaco is called from, not the
-  -- filetype of the injected language (this is the current buffer so you can
-  -- get it from vim.bo.filetyp).
-  ensure_newline = function(base_filetype)
-    return false
-  end,
-  -- Return true if the indentation should be normalized. Useful when the
-  -- injected language inherits indentation from the construction scope (e.g. an
-  -- inline multiline sql string). If true, the leading indentation is detected,
-  -- stripped, and restored before/after editing.
-  --
-  -- @param base_filetype: The filetype which FeMaco is called from, not the
-  -- filetype of the injected language (this is the current buffer, so you can
-  -- get it from vim.bo.filetype).
-  normalize_indent = function (base_filetype)
-    return false
-  end
+	-- should prepare a new buffer and return the winid
+	-- by default opens a floating window
+	-- provide a different callback to change this behaviour
+	-- @param opts: the return value from float_opts
+	prepare_buffer = function(opts)
+		local buf = vim.api.nvim_create_buf(false, false)
+		return vim.api.nvim_open_win(buf, true, opts)
+	end,
+	-- should return options passed to nvim_open_win
+	-- @param code_block: data about the code-block with the keys
+	--   * range
+	--   * lines
+	--   * lang
+	float_opts = function(code_block)
+		return {
+			relative = "cursor",
+			width = clip_val(5, 120, vim.api.nvim_win_get_width(0) - 10), -- TODO how to offset sign column etc?
+			height = clip_val(5, #code_block.lines, vim.api.nvim_win_get_height(0) - 6),
+			anchor = "NW",
+			row = 0,
+			col = 0,
+			style = "minimal",
+			border = "rounded",
+			zindex = 1,
+		}
+	end,
+	-- return filetype to use for a given lang
+	-- lang can be nil
+	ft_from_lang = function(lang)
+		return lang
+	end,
+	-- what to do after opening the float
+	post_open_float = function(winnr)
+		vim.wo.signcolumn = "no"
+	end,
+	-- create the path to a temporary file
+	create_tmp_filepath = function(filetype)
+		return os.tmpname()
+	end,
+	-- if a newline should always be used, useful for multiline injections
+	-- which separators needs to be on separate lines such as markdown, neorg etc
+	-- @param base_filetype: The filetype which FeMaco is called from, not the
+	-- filetype of the injected language (this is the current buffer so you can
+	-- get it from vim.bo.filetyp).
+	ensure_newline = function(base_filetype)
+		return false
+	end,
+	-- Return true if the indentation should be normalized. Useful when the
+	-- injected language inherits indentation from the construction scope (e.g. an
+	-- inline multiline sql string). If true, the leading indentation is detected,
+	-- stripped, and restored before/after editing.
+	--
+	-- @param base_filetype: The filetype which FeMaco is called from, not the
+	-- filetype of the injected language (this is the current buffer, so you can
+	-- get it from vim.bo.filetype).
+	normalize_indent = function(base_filetype)
+		return false
+	end,
 })
 
 return mkdnflow, markdown_preview, glow, femaco, markdowny
-

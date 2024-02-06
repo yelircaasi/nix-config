@@ -7,6 +7,7 @@ local gx_extended = require("gx-extended")
 
 gx_extended.setup({
 	extensions = {
+		-- READ BELOW AS A TUTORIAL
 		--{ -- match github repos in lazy.nvim plugin specs
 		--  patterns = { '*/plugins/**/*.lua' },
 		--  name = "neovim plugins",
@@ -19,4 +20,5 @@ gx_extended.setup({
 		--}
 	},
 })
+
 return navigator, numb, dropbar, leap, flash, gx_extended

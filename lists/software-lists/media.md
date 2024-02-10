@@ -147,6 +147,7 @@
 * [qView](https://github.com/jurplel/qView) - Practical and minimal image viewer
 * [qimgv](https://github.com/easymodo/qimgv)
 * [ueberzugpp](https://github.com/jstkdng/ueberzugpp)
+* (2) [resvg](https://github.com/RazrFalcon/resvg)
 ### Image Conversion / Compression / Upscaling
 * [imgp](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator.
 * [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing.

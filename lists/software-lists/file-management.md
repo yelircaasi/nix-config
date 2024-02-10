@@ -12,7 +12,6 @@
 * [mc](https://www.midnight-commander.org/)
 * [lf](https://github.com/gokcehan/lf)
 * [fman](https://github.com/nore-dev/fman)
-* [clifm](https://github.com/leo-arch/clifm)
 * [fff](https://github.com/dylanaraps/fff)
 * [ranger](https://github.com/ranger/ranger)
 * [joshuto](https://github.com/kamiyaa/joshuto)
@@ -21,6 +20,9 @@
 * [goful](https://github.com/anmitsu/goful)
 * [dmenufm](https://github.com/huijunchen9260/dmenufm)
 * [cfiles](https://github.com/mananapr/cfiles)
+
+## CLI File Manager
+* (2) [clifm](https://github.com/leo-arch/clifm) | ( ) [walk](https://github.com/antonmedv/walk)
 
 ## GUI File Managers
 * [xplorer](https://github.com/kimlimjustin/xplorer)

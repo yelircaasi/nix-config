@@ -209,7 +209,8 @@ in {
       refactoring-nvim
 
       # folding
-      pretty-fold-nvim # alt: fold-cycle-nvim, nvim-ufo, nvim-origima,
+      # pretty-fold-nvim # alt: fold-cycle-nvim, nvim-ufo, nvim-origima,
+      nvim-ufo
 
       # testing and coverage -----------------------------------------
       custom.neotest # alt: nvim-test

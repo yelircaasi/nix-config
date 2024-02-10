@@ -25,6 +25,7 @@
 
 ## Nix configs
 
+- [jakehamilton](https://github.com/jakehamilton/neovim) -  very thorough, current, quite advanced Nix features
 - [neovim-flake](https://github.com/gvolpe/neovim-flake)
 - https://github.com/BirdeeHub/nixCats-nvim
 - https://framagit.org/vegaelle/nix-nvim

@@ -22,6 +22,8 @@ rofi-wayland, wofi, bemenu, fuzzel, tofi.
 
 → make settings in NixOS for each and make choice of which one to use dependent on a single keyword in the main config file
 
+(2) [ego](https://github.com/intgr/ego)
+
 ---
 
 - Desktop Managers + Greeters

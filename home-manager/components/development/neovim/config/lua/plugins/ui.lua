@@ -43,7 +43,6 @@ vim.api.nvim_set_keymap("n", ",m", ':lua require"popui.marks-manager"()<CR>', { 
 vim.api.nvim_set_keymap("n", ",r", ':lua require"popui.references-navigator"()<CR>', { noremap = true, silent = true })
 
 -- noice
-
 local edge_aligned_border_style = {
 	top_left = "🭽",
 	top = "▔",

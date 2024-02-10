@@ -9,7 +9,13 @@ flatten = require("flatten")
 urlview = require("urlview")
 
 -- colorizer
-colorizer.setup()
+colorizer.setup({
+	{},
+	{
+		names = false,
+		mode = "foreground",
+	},
+})
 
 --[[{
   "nix",
@@ -22,4 +28,3 @@ colorizer.setup()
 --]]
 
 return regexplainer, quicknote, carbon_now, colorizer, venn, distant, compiler_explorer, flatten, urlvew
-

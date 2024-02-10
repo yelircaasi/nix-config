@@ -92,6 +92,11 @@
     docker = {
       enable = true;
       enableNvidia = true;
+      #rootless = {
+      #  enable = true;
+      #  setSocketVariable = true;
+      #};
+
     };
     podman = {
       enable = true;
@@ -198,7 +203,7 @@
   users.users.isaac = {
     isNormalUser = true;
     description = "Isaac Riley";
-    extraGroups = ["networkmanager" "wheel"];
+    extraGroups = ["networkmanager" "wheel" "docker"];
     packages = with pkgs; [
       home-manager
 

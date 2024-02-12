@@ -42,6 +42,10 @@
 * [invidious](https://github.com/iv-org/invidious)
 * [rumble.com](https://rumble.com/)
 * [Odysee](https://odysee.com/)
+* [redlib instances](https://github.com/redlib-org/redlib-instances/blob/main/instances.md) [status site](https://stats.uptimerobot.com/mpmqAs1G2Q)
+* [nitter instances](https://github.com/zedeus/nitter/wiki/Instances)
+* [imginn](https://imginn.com/)
+*
 
 ## Search
 * [MetaGer](https://metager.de/en) - Private search engine created by a non-profit that uses green electricity for its servers. 

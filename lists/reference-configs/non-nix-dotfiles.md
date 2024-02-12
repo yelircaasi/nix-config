@@ -1,5 +1,7 @@
 # Non-Nix Dotfiles
 
+[unixporn-dots.github.io](https://unixporn-dots.github.io/)
+
 ## Single-app
 [alphaTechnolog eww](https://github.com/AlphaTechnolog/eww-dotfiles) - 
 [testertech eww](https://github.com/TesterTech/eww-from-scratch [video](https://www.youtube.com/watch?v=rYlXF722RNw) - 
@@ -240,7 +242,7 @@ Robert Duchesneau RiverWM dotfiles) -
   - [lsdrfrx](https://github.com/lsdrfrx/dotfiles) - i3, kitty, lvim, polybar, ranger, xborder, picom
   - [mauromotion ](https://github.com/mauromotion/dotfiles) - [beautiful green/gray](https://github.com/mauromotion/dotfiles) - TauonMusicBox, bash, dunst, fish, i3, kitty, nvim, nvim_mauro, picom, polybar, pulse, rofi, tmux, wezterm, zsh - almost perfect stack
   - [osx-dotfiles](https://github.com/madeline-xoxo/osx-dotfiles) [Reddit](https://www.reddit.com/r/unixporn/comments/1227ydn/i3wm_picom_aquaish/) i3
-  - [ParallaxWave $$$](https://github.com/ParallaxWave/blood_i3)
+  - [ParallaxWave $$$$$$$$$](https://github.com/ParallaxWave/blood_i3)
   - [ParallaxWave $$$](https://github.com/ParallaxWave/minimal_nord_i3)
   - [ParallaxWave $$$$$$$$$](https://github.com/ParallaxWave/material_green_i3)
   - [ParallaxWave](https://github.com/ParallaxWave/dotfiles) - i3gaps, compton, rofi, vim, tint2
@@ -381,6 +383,7 @@ Robert Duchesneau RiverWM dotfiles) -
   - [basilioss](https://github.com/basilioss/dotfiles) - [dwm](https://github.com/basilioss/dwm), [alacritty](https://github.com/zenixls2/alacritty), [dmenu](https://github.com/basilioss/dmenu), [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme), [NvChad](https://github.com/NvChad/NvChad), [zathura](https://pwmt.org/projects/zathura/), [Tauon Music Box](https://github.com/Taiko2k/TauonMusicBox), [mpv](https://mpv.io/), [nsxiv](https://nsxiv.codeberg.page/), git, glow, keepmenu, nvim, nvchad, espanso, alacritty, botton, dunst, gdu, mpv, neofetch, newsboat, paru, picom, starship, sxhkd, tmux, warpd, x11, zathura, zk, zsh, betterlockscreen
   - [chrisTitusTech](https://github.com/ChrisTitusTech/dwm-titus)
   - [christianChiarulli ](https://github.com/ChristianChiarulli/Machfiles) → [post](https://www.chrisatmachine.com/posts/01-macos-developer-setup) amd-ucode, pacman-contrib, arc-gtk-theme, blueman, bluez, bluez-utils, brave-bin, cava-git, chromium, cmatrix, cmus, colorpicker, cowsay, cups, dialog, discord, docker, dosfstools, dunst, efibootmgr, element-desktop-nightly-bin, fd, feh, figlet, flameshot, fnm-bin, fzf, gimp, git, github-cli, glances, gotop, gping, grub, htop, kdenlive, kvantum-theme-arc, lazygit, librewolf-bin, libxft-bgra, linux, linux-firmware, linux-headers, lxappearance, mediainfo, mpv, mtools, nautilus, ncdu, ncmpcpp, neofetch, neovide-bin, network-manager-applet, networkmanager, newsboat, nmon, noto-fonts-emoji, npm, ntfs-3g, nvidia, nvidia-settings, nvtop, obs-studio, obs-multi-rtmp, openssh, os-prober, pamixer, pandoc-bin, pasystray, pavucontrol, pcloudcc-git, picom-ibhagwan-git, prettier, python-pip, ranger, reflector, rofi, ruby, scrcpy, screenkey, session-desktop-bin, shfmt, signal-desktop-beta-bin, skippy-xd-git, slock, snownews, solidity, spotify, stow, syncthing, telegram-desktop-bin, tree, ttf-dejavu, ttf-joypixels, ttf-ms-fonts, ttf-ubraille, ttf-unifont, ueberzug, unzip, ventoy-bin, vi, vim, virtualbox, virtualbox-bin-guest-iso, vscodium-bin, vscodium-bin-marketplace, wget, wireless_tools, wpa_supplicant, xbanish, xcape, xclip, xorg-bdftopcf, xorg-docs, xorg-font-util, xorg-fonts-100dpi, xorg-fonts-75dpi, xorg-iceauth, xorg-mkfontscale, xorg-server-devel, xorg-server-xephyr, xorg-server-xnest, xorg-server-xvfb, xorg-sessreg, xorg-smproxy, xorg-x11perf, xorg-xbacklight, xorg-xcmsdb, xorg-xcursorgen, xorg-xdpyinfo, xorg-xdriinfo, xorg-xev, xorg-xgamma, xorg-xhost, xorg-xinit, xorg-xinput, xorg-xkbevd, xorg-xkbutils, xorg-xkill, xorg-xlsatoms, xorg-xlsclients, xorg-xpr, xorg-xprop, xorg-xrandr, xorg-xrefresh, xorg-xset, xorg-xsetroot, xorg-xvinfo, xorg-xwayland, xorg-xwd, xorg-xwininfo, xorg-xwud, xterm, yapf, yarn, youtube-dl, zathura, zip, zsh, zsh-completions-git
+    [chyanurag](https://github.com/chyanurag/dotfiles)
   - [erik.Lundstedt](https://gitlab.com/Erik.Lundstedt/dotconfigfiles) - zsh, arduino, logseq, ncmcpp, emacs, textadept, oomox, kodi, java, scripts (fennel, perl), jq,[kristall,](https://github.com/MasterQ32/kristall,)conky, lua, xinit, inputrc, git-modules, Xdefaults, Xresources, scratchpads, [j](https://www.jsoftware.com/#/), barscript, amfora, dmenu + dmscripts, udiskie, st (variations), surf,  tydras, Kvantum, [aerc](https://aerc-mail.org/), awesome,[catgirl,](https://github.com/deifactor/catgirl), emacs, doublecmd, fnlFetch, fzf, hilbish, icons, kde colour, kitty, luakit, luamark, miniterm, mopidy, neon-logout, newsboat, qt5ct, [snownews](https://sourceforge.net/projects/snownews/), ssh, tmux, [tuifeed](https://github.com/veeso/tuifeed), tym, [wallset](https://github.com/terroo/wallset) →[oguri,](https://github.com/vilhalmer/oguri,) wezterm, xbindkeys, xpls, yadm, kate + katevi, ncpamixer
   - [fitrh](https://github.com/fitrh/dotfiles) - good script collection, fish, nvim, effishient,  alacritty, berrywm, bottom, dunst, dwm, foot, fuzzel, git, kitty, lf, mako, picom, river, rofi, starship, sxhkd, tmux, xmobar, xmonad, yambar,
   - [fmash16 ](https://github.com/fmash16/dotfiles) - [dark green](https://www.reddit.com/r/unixporn/comments/irur6n/dwm_minimalist_suckless_darkpastelgreen_themed/) - dwm, st, zsh, Comic Sans, picom, ranger, zathura suckless surf with tabbed tmux, firefox custom css
@@ -401,6 +404,7 @@ Robert Duchesneau RiverWM dotfiles) -
   - [VoidLinux-FreeBSD](https://github.com/willgreen946/VoidLinux-FreeBSD) [Reddit](https://www.reddit.com/r/unixporn/comments/12v4ixj/dwl_fully_riced_now_feeling_content/)
 
 ## other
+  - [3r3bu5x9](https://github.com/3r3bu5x9/prismatic-night)
   - [ahmetb](https://github.com/ahmetb/dotfiles) - macOS, but vim, tmux, editorconfig, vim, git, copilot-cli, karabiner, ssh, vscode, zsh, gnupg, go scripts
   - [alex35mil ](https://github.com/alex35mil/dotfiles) - neovim, zellij (with custom tools), zsh, alacritty, raycast, starship, btop, direnv, git, lazygit, karabiner (macos)
   - [bluebyt](https://github.com/bluebyt/Wayfire-dots)- [Wayfire](https://github.com/WayfireWM/wayfire), [Waybar](https://github.com/Alexays/Waybar), [eww](https://github.com/elkowar/eww), [Mako](https://github.com/emersion/mako), [Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme), [Tela-circle-icon-theme](https://github.com/vinceliuice/Tela-circle-icon-theme#tela-circle-icon-theme), [Fish shell](https://github.com/fish-shell/fish-shell), [Startship prompt](https://starship.rs/), [nitch](https://github.com/ssleert/nitch), [SwayOSD](https://github.com/ErikReider/SwayOSD), [Text editor](https://apps.gnome.org/TextEditor/), [Ulauncher](https://ulauncher.io/), [Grimshot-pv](https://github.com/ferdiebergado/grimshot-pv), [Xava](https://github.com/nikp123/xava#programming-opengl-shaders), [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp), [G4music](https://github.com/neithern/g4music), Caskaydiacove nerd font
@@ -430,6 +434,7 @@ Robert Duchesneau RiverWM dotfiles) -
   - [tcmmichaelb139](https://github.com/tcmmichaelb139/.dotfiles) [Reddit](https://www.reddit.com/r/unixporn/comments/11nxpwh/yabai_tokyo_nice_looks_too_good/)
   - [tetzng/dotfiles: my dotfiles](https://github.com/tetzng/dotfiles) - fish, neovim, wezterm, macos
   - [whatsthatsmell](https://github.com/whatsthatsmell/dots) - alfred, bacom, broot, cargo, rust, gh-prs, gitui, iterm, lazygit, ripgrep, vifm, nvim, vimium, zsh, tmux, alacritty, starship
+    [yusa](https://codeberg.org/yusa/dotfiles)
 
 ## ?
   - [cpow](https://github.com/cpow/cpow-dotfiles)- tmux, nvim

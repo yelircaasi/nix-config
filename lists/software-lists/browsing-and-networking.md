@@ -1,31 +1,31 @@
 # Browsing and Networking
 
 ## Keyboard-Navigable Hackable GUI Browser
-* [nyxt]()
-* [qutebrowser](https://github.com/qutebrowser/qutebrowser)
-* [vieb]()
-* [luakit]()
-* [vimb]() | [wyeb]()
+* (1) [nyxt]()
+* (1) [qutebrowser](https://github.com/qutebrowser/qutebrowser)
+* (4) [vieb]()
+* (2) [luakit]()
+* (4) [vimb]() | [wyeb]()
 
 ## Mainstream-Style Browser
-* [librewolf]() | [firefox]() | [floorp]() | [waterfox]()
-* [ungoogled-chromium]() | [chromium]() | [thorium]() | [brave]() | [vivaldi]() | * [iridium](https://github.com/iridium-browser/iridium-browser)
+* (4) [librewolf]() | (1) [firefox]() | (2) [floorp]() | (4) [waterfox]()
+* (1) [ungoogled-chromium]() | (6) [chromium]() | (6) [thorium]() | (4) [brave]() | (6) [vivaldi]() | (4) [iridium](https://github.com/iridium-browser/iridium-browser)
 
 ## Old-School Browser
-* [Pale Moon]()
-* [Basilisk]()
-* [Otter]()
+* (4) [Pale Moon]()
+* (4) [Basilisk]()
+* (4) [Otter]()
 
 ## Esoteric Browser
-* [ladybird]()
-* [midori](https://github.com/goastian/midori-desktop)
-* [min]()
-* [falkon]()
-* [epiphany]()
-* [lrrh]()
-* [raphael](https://github.com/MidnightBSD/raphael)
-* [hskit]()
-* [webkitten](https://github.com/kattrali/webkitten)
+* ( ) [ladybird]()
+* ( ) [midori](https://github.com/goastian/midori-desktop)
+* ( ) [min]()
+* ( ) [falkon]()
+* ( ) [epiphany]()
+* ( ) [lrrh]()
+* ( ) [raphael](https://github.com/MidnightBSD/raphael)
+* ( ) [hskit]()
+* ( ) [webkitten](https://github.com/kattrali/webkitten)
 
 ## Maximal-Privacy Browser
 * [tor]()

@@ -34,13 +34,13 @@
 
 * Terminal Development Environment
   - (1) [neovim](https://neovim.io/)
-  - (1) [wezterm](https://github.com/wez/wezterm) | [kitty]() | [alacritty]() | [waveterm]() - need to 
-package for [nix](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/)) | [hyper](https://hyper.is/) | [tabby](https://github.com/eugeny/tabby) | [extraterm](https://github.com/sedwards2009/extraterm) | [contour](https://github.com/contour-terminal/contour) | [blackbox](https://gitlab.gnome.org/raggesilver/blackbox) | [terminology](https://www.enlightenment.org/about-terminology) | [tym](https://github.com/endaaman/tym) | [termonad](https://github.com/cdepillabout/termonad) | [rxvt-unicode-unwrapped-emoji](https://search.nixos.org/packages?channel=23.11&from=0&size=50&sort=relevance&type=packages&query=urxvt) | [commas](https://github.com/CyanSalt/commas) | [kermit-terminal](https://github.com/orhun/kermit) | [foot](https://codeberg.org/dnkl/foot/) (wayland-only) | [wayst](https://github.com/91861/wayst) (wayland-only)
+  - (1) [wezterm](https://github.com/wez/wezterm) | (1) [kitty]() | (1) [alacritty]() | (5) [waveterm]() - need to package for [nix](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/)) | [hyper](https://hyper.is/) | (4) [tabby](https://github.com/eugeny/tabby) | [extraterm](https://github.com/sedwards2009/extraterm) | [contour](https://github.com/contour-terminal/contour) | [blackbox](https://gitlab.gnome.org/raggesilver/blackbox) | [terminology](https://www.enlightenment.org/about-terminology) | [tym](https://github.com/endaaman/tym) | [termonad](https://github.com/cdepillabout/termonad) | [rxvt-unicode-unwrapped-emoji](https://search.nixos.org/packages?channel=23.11&from=0&size=50&sort=relevance&type=packages&query=urxvt) | [commas](https://github.com/CyanSalt/commas) | [kermit-terminal](https://github.com/orhun/kermit) | [foot](https://codeberg.org/dnkl/foot/) (wayland-only) | [wayst](https://github.com/91861/wayst) (wayland-only)
   - (4) [tdrop](https://github.com/noctuid/tdrop) | [dropterm](https://github.com/Subbeh/dropterm)
   - (3) [electerm](https://electerm.html5beta.com/)
   - (1) [starship]() | [oh-my-posh](https://ohmyposh.dev/)
   - (2) [xdg-utils](https://search.nixos.org/packages?channel=unstable&show=xdg-utils&from=0&size=50&sort=relevance&type=packages&query=xdg-open)
   - (2) [handlr-regex](https://github.com/Anomalocaridid/handlr-regex)
+  - (2) [nix-prefetch-github](https://search.nixos.org/packages?channel=23.11&show=nix-prefetch-github&from=0&size=50&sort=relevance&type=packages&query=nix-prefetch-github)
 
 ## Multiplexer
 * (2) [zellij](https://github.com/zellij-org/zellij) | (2) [tmux](https://github.com/tmux/tmux)
@@ -86,7 +86,7 @@ package for [nix](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/)) | [
 * ( ) [nvfetch]() - all relevant GPU information at-a-glance
 * ( ) [rlvtree]() - 'relevant tree' - tree command showing only the information I care about; configurable
 * ( ) [pysum]() - provide a comparison of all (selected in config file) Python directories
-* ( ) [flakesummary]() - at-a-glance info o all (selected in config file) Nix flakes
+* ( ) [flakesummary]() - at-a-glance info on all (selected in config file) Nix flakes
 * ( ) [ggs]() - 'global git status' - view date of last commit of all (selected in config file) local git repositories
 * ( ) [ggsr]() - 'global git status remote' - view date of last commit on all 
 * ( ) [q2single]() - script version of [to-single-quotes-cli](https://github.com/sindresorhus/to-single-quotes-cli)
@@ -111,8 +111,8 @@ package for [nix](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/)) | [
 - (5) [open-in-editor](https://github.com/dandavison/open-in-editor)
 - ( ) [Metadata Cleaner](https://metadatacleaner.romainvigier.fr/) - This tool allows you to view metadata in your files and to get rid of it, as much as possible.
 - (2) [azuredatastudio](https://github.com/Microsoft/azuredatastudio): A data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
-- ( ) [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer is a graphical interface to configure the GRUB2/BURG settings and menuentries. [tutorial](https://www.linuxfordevices.com/tutorials/linux/grub-customizer-tutorial)
-- ( ) [gramps](https://github.com/gramps-project/gramps) [Gramps](https://gramps-project.org/blog/) - Research, organize and share your family tree with Gramps.
+- (5) [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer is a graphical interface to configure the GRUB2/BURG settings and menuentries. [tutorial](https://www.linuxfordevices.com/tutorials/linux/grub-customizer-tutorial)
+- (2) [gramps](https://github.com/gramps-project/gramps) [Gramps](https://gramps-project.org/blog/) - Research, organize and share your family tree with Gramps.
 - ( ) [emoji-keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Virtual keyboard-like emoji picker for Linux.
 - ( ) [Daily Reddit Wallpaper](https://federicotorrielli.github.io/Daily-Reddit-Wallpaper/) - Change your wallpaper to the most upvoted image of the day from /r/wallpapers or any other subreddit on system startup.
 
@@ -122,7 +122,6 @@ package for [nix](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/)) | [
 * (2)  [moreutils](https://joeyh.name/code/moreutils/)
 * (2)  [util-linux]()
 * (4) [toybox]()
-* (2)  [just]() | (2) [makesure](https://github.com/xonixx/makesure)
 * (2) [xc](https://github.com/joerdav/xc)
 * (2)  [make]()
 * (1)   [eza](https://github.com/eza-community/eza) | [lsd](https://github.com/lsd-rs/lsd) | [colorls](https://github.com/athityakumar/colorls) | [nat](https://github.com/willdoescode/nat)
@@ -131,6 +130,7 @@ package for [nix](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/)) | [
 * (2) [ictree](https://github.com/NikitaIvanovV/ictree)
 * (5) [ckit](https://github.com/fpgmaas/ckit)
 * (5) [runner](https://github.com/sudoerp/runner)
+* (2) [ea](https://github.com/dduan/ea)
 * (2)  [topalias](https://github.com/meteoritt/topalias)
 * (2) [nap](https://github.com/maaslalani/nap) | (5) [boom](https://github.com/holman/boom)
 * (5) [ad](https://github.com/tanrax/terminal-AdvancedNewFile)
@@ -138,7 +138,6 @@ package for [nix](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/)) | [
 * (5)[RecoverPy](https://github.com/PabloLec/RecoverPy)
 * (2) [rmw](https://github.com/theimpossibleastronaut/rmw/)
 * (5) [unix-permissions](https://github.com/ehmicky/unix-permissions)
-* ( ) [fclones](https://github.com/pkolaczk/fclones)
 * ( ) [progress](https://github.com/Xfennec/progress) | [pv](https://codeberg.org/a-j-wood/pv)
 * ( ) [ov](https://github.com/noborus/ov) | [most](https://linux.die.net/man/1/most)
 * ( ) [hhighlighter](https://github.com/paoloantinori/hhighlighter) | [cope](https://github.com/lotrfan/cope)
@@ -157,6 +156,7 @@ package for [nix](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/)) | [
 * (2) [hr](https://github.com/LuRsT/hr)
 * ( ) [rebound](https://github.com/shobrook/rebound)
 * (2) [exiftool](https://github.com/exiftool/exiftool)
+* (5) [mimetype](https://github.com/gabriel-vasile/mimetype)
 * ( ) [chars](https://github.com/boinkor-net/chars)
 * ( ) [hyperfine](https://github.com/sharkdp/hyperfine) | [temci](https://github.com/parttimenerd/temci)
 * ( ) [procs](https://github.com/dalance/procs)
@@ -165,14 +165,13 @@ package for [nix](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/)) | [
 * ( ) [guesswidth](https://github.com/noborus/guesswidth)
 * ( ) [erdtree](https://github.com/solidiquis/erdtree)
 * ( ) [rng](https://github.com/nickolasburr/rng)
-* ( ) [xcp](https://github.com/tarka/xcp) | [pycp](https://github.com/your-tools/pycp)
-* ( ) [procs](https://github.com/dalance/procs)
-* ( ) [parallel](https://git.savannah.gnu.org/cgit/parallel.git) | [mprocs](https://github.com/pvolok/mprocs)
-* ( ) [ts](https://github.com/xenogenesi/task-spooler)
-* ( ) [ts](https://github.com/justanhduc/task-spooler) (for GPU also)
-* ( ) [await](https://github.com/slavaGanzin/await)
+* (2) [xcp](https://github.com/tarka/xcp) | [pycp](https://github.com/your-tools/pycp)
+* (2) [procs](https://github.com/dalance/procs)
+* (2) [parallel](https://git.savannah.gnu.org/cgit/parallel.git) 
+* (4) [ts](http://vicerveza.homeunix.net/~viric/soft/ts/)
+* (4) [ts](https://github.com/justanhduc/task-spooler) (for GPU also)
+* (2) [await](https://github.com/slavaGanzin/await)
 * (2.5) [ikill (could use updating)](https://github.com/pombadev/ikill) | [fkill-cli](https://github.com/sindresorhus/fkill-cli) | 
-* ( ) [projectable](https://github.com/dzfrias/projectable)
 * ( )  [pazi](https://github.com/euank/pazi) | [ff](https://github.com/akymos/ff) | [smartcd](https://github.com/CodesOfRishi/smartcd) | [lazy-cd](https://github.com/pedramamini/lazy-cd) | [pm](https://github.com/Angelmmiguel/pm) | [fastdiract](https://github.com/dp12/fastdiract) | [goto](https://github.com/iridakos/goto) | [h](https://github.com/zimbatm/h)
 * ( ) [peco](https://github.com/peco/peco)
 * (2) [conan](https://github.com/mirage/conan)
@@ -239,7 +238,7 @@ package for [nix](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/)) | [
 
 ##### Markdown
 - (5) [frogmouth](https://github.com/Textualize/frogmouth) | (2) [glow](https://github.com/charmbracelet/glow) | [mdcat](https://github.com/swsnr/mdcat) | [tmv](https://github.com/axiros/terminal_markdown_viewer)
-- ( ) [marked-terminal](https://github.com/mikaelbr/marked-terminal) | [mdt](https://github.com/robolab-pavia/mdt)
+- (5) [mdt](https://github.com/robolab-pavia/mdt)
 - ( ) [grip](https://github.com/joeyespo/grip) - Preview markdown files as GitHub would render them.
 - ( ) [lowdown](https://github.com/kristapsdz/lowdown) - Markdown translator (HTML5, roff, LaTeX, gemini, OpenDocument, and terminal output)
 - ( ) [doctoc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files.
@@ -254,13 +253,12 @@ package for [nix](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/)) | [
 - ( ) [jd](https://github.com/josephburnett/jd)
 - ( ) [jql](https://github.com/yamafaktory/jql)
 - ( ) [jqp](https://github.com/noahgorstein/jqp)
-- ( ) [jc](https://github.com/kellyjonbrazil/jc) | [jo](https://github.com/jpmens/jo)
+- (2) [jc](https://github.com/kellyjonbrazil/jc) | [jo](https://github.com/jpmens/jo)
 - ( ) [crosshash](https://github.com/httpie/crosshash)
-- ( ) [fx](https://github.com/antonmedv/fx) | [jless](https://github.com/PaulJuliusMartinez/jless)
+- (2) [fx](https://github.com/antonmedv/fx) | [jless](https://github.com/PaulJuliusMartinez/jless)
 - (2) [gron](https://github.com/tomnomnom/gron)
-- ( ) [jj](https://github.com/anki-code/jj)
-- ( ) [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli)
-- ( ) [zet](https://github.com/yarrow/zet)
+- (2) [jj](https://github.com/anki-code/jj)
+- (5) [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli)
 ##### PDF
 - (2) [xpdfreader](https://www.xpdfreader.com/download.html)
 - (->) [pdf-writer](https://github.com/typst/pdf-writer) (rust library)
@@ -298,6 +296,7 @@ package for [nix](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/)) | [
 - (3) [NestedText](https://nestedtext.org/en/latest/)
 
 ##### Multiple Formats / Conversion
+- (2) [zet](https://github.com/yarrow/zet)
 - (2.5) [ansi2html](https://github.com/pycontribs/ansi2html) | (2.5) [ansi2html](https://hackage.haskell.org/package/Ansi2Html) | (2.5) [HTML-FromANSI](https://metacpan.org/dist/HTML-FromANSI) | (6) [aha](https://github.com/theZiz/aha)
 - (2) [coloried-logs](https://github.com/kilobyte/colorized-logs)
 - (3) [nestedtextto](https://github.com/AndydeCleyre/nestedtextto)
@@ -342,6 +341,7 @@ package for [nix](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/)) | [
 * (3) [musort](https://github.com/tdeerenberg/Musort)
 * (3) [yyyymmdd](https://github.com/kaihendry/yyyymmdd)
 * (2) [symlinks](https://github.com/brandt/symlinks)
+* (2) [fclones](https://github.com/pkolaczk/fclones)
 
 #### Moving and Renaming
 
@@ -352,7 +352,7 @@ package for [nix](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/)) | [
 
 * (2) [vale](https://vale.sh/) - use as an LSP for prose in nvim
 * (2) [alex](https://github.com/wooorm/alex)
-* ( ) [pick](https://github.com/mptre/pick) | [choose](https://github.com/jagprog5/choose) | [shmenu](https://github.com/duclos-cavalcanti/shmenu)
+* (4) [pick](https://github.com/mptre/pick) | [choose](https://github.com/jagprog5/choose) | (6) [shmenu](https://github.com/duclos-cavalcanti/shmenu)
 * (2.5) [atuin](https://github.com/atuinsh/atuin) | [hishtory](https://github.com/ddworken/hishtory) | [muc](https://github.com/nate-sys/muc) | [bevel](https://github.com/NorfairKing/bevel) (Haskell!) | [resh](https://github.com/curusarn/resh) | [bashhub-client](https://github.com/rcaloras/bashhub-client) | [mcfly](https://github.com/cantino/mcfly) + [mcfly-fzf](https://github.com/bnprks/mcfly-fzf) | [hstr](https://github.com/dvorka/hstr)
 * ( ) [file](https://search.nixos.org/packages?channel=23.11&show=file&from=0&size=50&sort=relevance&type=packages&query=file+type) | [filetype](https://search.nixos.org/packages?channel=23.11&show=python311Packages.filetype&from=0&size=50&sort=relevance&type=packages&query=file+type)
 
@@ -409,7 +409,7 @@ package for [nix](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/)) | [
 * (3) [kestrel](https://github.com/finfet/kestrel)
 
 ### Luxury, Fun
-
+* (2) [display3d](https://github.com/redpenguinyt/display3d)
 * (2)  [pipes-rs](https://github.com/lhvy/pipes-rs) | [Pipeseroni](https://pipeseroni.github.io/) | [pipes.sh](http://pipes.sh/) | [pipes.js](https://github.com/Oman395/pipes.js)
 * (2)  [dna_bash](https://github.com/clyde80/dna_bash)
 * (2)  [cmatrix](https://github.com/abishekvashok/cmatrix)
@@ -431,7 +431,7 @@ package for [nix](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/)) | [
 * (2) [dotacat](https://gitlab.scd31.com/stephen/dotacat)
 * (2) [lolcat](https://github.com/IchMageBaume/clolcat)
 * (5) [rainbow](https://github.com/raincoats/rainbow)
-* ( ) Cowsay family
+* Cowsay family
   - (6) [rank-amateur-cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - A program that generates a ASCII art of a cow with a bubble containing the specified message (I provide the Wikipedia link since at the moment the link to the author's homepage results to be unreachable).
   - (6) [cowsay](https://github.com/piuccio/cowsay)
   - (2) [cowsay](https://github.com/cowsay-org/cowsay)
@@ -440,7 +440,7 @@ package for [nix](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/)) | [
   - (6) [yosay](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
   - (6) [ricksay](https://github.com/roma-guru/ricksay) - Quotes from Rick and Morty.
   - (6) [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
-* ( ) Decoration, Screensavers
+* Decoration, Screensavers
   - (5) [cli-fireplace](https://github.com/dolsup/cli-fireplace) - Shows digital fireplace.
   - (3) [ctree](https://github.com/gleich/ctree) - A Christmas tree right from your terminal.
   - (3) [YuleLog](https://github.com/Duroktar/YuleLog) - Christmas Yule Log fireplace.
@@ -462,46 +462,41 @@ package for [nix](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/)) | [
 * Games
   - (5) [maze_solver_rust](https://github.com/Vlamonster/maze_solver_rust) - Generate, display and solve mazes in an animated way in the terminal.
 * Quotes, Messages, Welcomes
-  - ( ) [pyjokes](https://github.com/pyjokes/pyjokes) - One line jokes for programmers (jokes as a service).
+  - (2) [pyjokes](https://github.com/pyjokes/pyjokes) - One line jokes for programmers (jokes as a service).
   - (5) [quote-cli](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
-  - ( ) [fortune-mod](https://github.com/shlomif/fortune-mod) - Shows a random fortune.
-  - ( ) [welcome.sh](https://github.com/G2-Games/welcome.sh) - A nice little script that greets you on every launch, with some helpful (and customizable!) information.
-  - ( ) [fortune](https://github.com/bmc/fortune) - Generates random messages feched from a quotation database.
+  - (2) [fortune-mod](https://github.com/shlomif/fortune-mod) - Shows a random fortune.
+  - (5) [welcome.sh](https://github.com/G2-Games/welcome.sh) - A nice little script that greets you on every launch, with some helpful (and customizable!) information.
+  - (6) [fortune](https://github.com/bmc/fortune) - Generates random messages feched from a quotation database.
 * Cool Effects
-  - ( ) [no-more-secrets](https://github.com/bartobri/no-more-secrets)
+  - (5) [no-more-secrets](https://github.com/bartobri/no-more-secrets)
 * Educational, Nerd Stuff
-  - ( ) [sha256-animation](https://github.com/in3rsha/sha256-animation)
+  - (5) [sha256-animation](https://github.com/in3rsha/sha256-animation)
 
 ### Nix Cheats
-
 * (3) [Flatpak](https://flatpak.org/) + [flatseal]()
 * (3) [AppImage](https://appimage.org/) + [appimagepool](https://github.com/prateekmedia/appimagepool)?
 
 ### Programming Language Specific
-
-* ( ) [poetry](https://python-poetry.org/nodejs)
+* (2) [poetry](https://python-poetry.org/nodejs)
 * ( ) [nodejs_21](https://nodejs.org/en)
 * ( ) [bun](https://bun.sh/)
-* ( ) [android-studio](https://search.nixos.org/packages?channel=unstable&show=android-studio&from=0&size=50&sort=relevance&type=packages&query=android+studio)
+* (2) [android-studio](https://search.nixos.org/packages?channel=unstable&show=android-studio&from=0&size=50&sort=relevance&type=packages&query=android+studio)
 * ( ) [plumbum](https://github.com/tomerfiliba/plumbum)
 * ( ) [ward](https://ward.readthedocs.io/en/latest/)
 * ( ) [cattrs](https://catt.rs/en/stable/index.html)
 * ( ) [nodemon](https://www.npmjs.com/package/nodemon)
+- (4) [marked-terminal](https://github.com/mikaelbr/marked-terminal)
 
 ### Other Programming Utilities
-
 * (3) [upx](https://upx.github.io/)
 
-
 ## Core Set
-
 * ( ) [renovate](https://github.com/renovatebot/renovate)
 * ( ) [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli)
 * ( ) [checksum.sh](https://github.com/gavinuhma/checksum.sh)
 
 
 ## Extended Set
-
 * ( ) [appflowy](https://www.appflowy.io/)
 * ( ) [compiler-explorer](https://github.com/compiler-explorer/compiler-explorer)
 * ( ) [rstudio](https://www.rstudio.com/products/RStudio)
@@ -514,7 +509,6 @@ package for [nix](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/)) | [
 ### Development Tools
 
 #### Containers, Orchestration, CI
-
 * (2) [ctop](https://github.com/bcicen/ctop)
 * (1) [docker](https://www.docker.com/)
 * (2) [slimtoolkit](https://slimtoolkit.org/)
@@ -581,13 +575,15 @@ package for [nix](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/)) | [
 
 ## Nvidia-only
 
-* ( ) [zenith-nvidia](https://github.com/bvaisvil/zenith) (for devices with Nvidia)
-* ( ) [nvitop](https://github.com/XuehaiPan/nvitop) | [nvtop](https://github.com/Syllo/nvtop)
-
+* (2) [zenith-nvidia](https://github.com/bvaisvil/zenith) (for devices with Nvidia)
+* (2.5) [nvitop](https://github.com/XuehaiPan/nvitop) | [nvtop](https://github.com/Syllo/nvtop)
+* (2) [gpustat]()
 
 ## Tuxedo-only
 
-* ( ) [tuxedo-rs](https://github.com/AaronErhardt/tuxedo-rs), [tailor-gui](https://search.nixos.org/packages?channel=23.11&show=tailor-gui&from=0&size=50&sort=relevance&type=packages&query=tuxedo+control)
+* (3) [tuxedo-rs](https://github.com/AaronErhardt/tuxedo-rs)
+* (2) [tailor-gui](https://search.nixos.org/packages?channel=23.11&show=tailor-gui&from=0&size=50&sort=relevance&type=packages&query=tuxedo+control)
+* (6) [tuxedo-control-center]()
 
 ## Xorg-only
 
@@ -639,4 +635,4 @@ package for [nix](https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/)) | [
 * ( ) [](https://nwg-piotr.github.io/nwg-shell/ *********
 * ( ) [](https://fsd.it/shop/fonts/pragmatapro/ 
 * ( ) [](https://github.com/lucc/nvimpager 
-
+* ( ) [](https://github.com/Lxtharia/minegrub-theme)

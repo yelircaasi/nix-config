@@ -57,17 +57,18 @@ train models.
 * [pants](https://www.pantsbuild.org/)
 
 ### Task Scripting
+* (2) [makesure](https://github.com/xonixx/makesure)
 *  [make](https://www.gnu.org/software/make/)
-*  [just](https://github.com/casey/just)
+* (2)  [just](https://github.com/casey/just)
 * [fmake](https://github.com/bharatvaj/fmake)
 *  [mxflow-cli](https://github.com/metaory/mxflow-cli)
-
 ## Command Running and Automation
-* [cron](https://opensource.com/article/21/7/cron-linux)
-* [fcron](http://fcron.free.fr/)
-* [actiona](https://github.com/Jmgr/actiona)
-* [sake](https://github.com/alajmo/sake)
-* [foy](https://github.com/zaaack/foy)
+* (6) [cron](https://opensource.com/article/21/7/cron-linux)
+* (2) [fcron](http://fcron.free.fr/)
+* (4) [cronutils](https://github.com/google/cronutils)
+* (5) [actiona](https://github.com/Jmgr/actiona)
+* (2) [sake](https://github.com/alajmo/sake)
+* ( ) [foy](https://github.com/zaaack/foy)
 
 ## License
 * [license-up](https://github.com/nikitavoloboev/license-up) | [mklicense](https://github.com/cezaraugusto/mklicense) | [legit](https://github.com/captainsafia/legit) | [licins](https://github.com/dogoncouch/licins) | [upnup](https://github.com/tomit4/upnup)
@@ -78,13 +79,14 @@ train models.
 * [profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
 ## Formatting
-*  [treefmt](https://github.com/numtide/treefmt)
-*  [uncrustify](https://github.com/uncrustify/uncrustify/)
+* (2)  [treefmt](https://github.com/numtide/treefmt)
+* (2)  [treefmt-nix](https://github.com/numtide/treefmt-nix)
+* (4)  [uncrustify](https://github.com/uncrustify/uncrustify/)
 
 ## Testing
-*  [squ](https://github.com/opensibyl/squ)
-*  [pvcheck](https://github.com/claudio-unipv/pvcheck)
-*  [cucumber](https://cucumber.io/docs), [gherkin](https://cucumber.io/docs/gherkin/)
+* (5)  [squ](https://github.com/opensibyl/squ)
+* (5)  [pvcheck](https://github.com/claudio-unipv/pvcheck)
+* (3)  [cucumber](https://cucumber.io/docs), [gherkin](https://cucumber.io/docs/gherkin/)
 
 ## Code Navigation
 * [ctags](https://github.com/universal-ctags/ctags) | [cscope](http://cscope.sourceforge.net/)

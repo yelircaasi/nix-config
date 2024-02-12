@@ -14,13 +14,19 @@
 * ( ) [undollar](https://github.com/xtyrrell/undollar) - undollar bites the dollar sign off the tip of the command you just pasted into your terminal
 * ( ) [Decoder](https://apps.gnome.org/app/com.belmoussaoui.Decoder/) - Fancy yet simple QR Codes scanner and generator.
 * ( ) [pick-color-picker](https://kryogenix.org/code/pick/)
-* ( ) [utf8.nvim](https://github.com/uga-rosa/utf8.nvim)
-
 
 ## Books and Reading
-* ( )  [zathura](https://pwmt.org/projects/zathura/) + [mupdf](https://mupdf.com/) | [apvlv](https://github.com/naihe2010/apvlv) | [llpp](https://repo.or.cz/w/llpp.git) (supports synctex) | [qpdfview](https://launchpad.net/qpdfview) (also supports synctex)
+* ( )  [zathura](https://pwmt.org/projects/zathura/) + [mupdf](https://mupdf.com/) 
+   | [apvlv](https://github.com/naihe2010/apvlv) 
+   | [llpp](https://repo.or.cz/w/llpp.git) (supports synctex) 
+   | [qpdfview](https://launchpad.net/qpdfview) (also supports synctex)
 * ( ) [wike](https://github.com/hugolabe/Wike)
-* ( )  [koreader](https://koreader.rocks/) | [bookworm](https://babluboy.github.io/bookworm/) | [calibre](https://calibre-ebook.com/) + [calibre-web](https://github.com/janeczku/calibre-web) | [evince](https://wiki.gnome.org/Apps/Evince) | [foliate](https://johnfactotum.github.io/foliate/) | [okular](https://okular.kde.org/)
+* ( )  [koreader](https://koreader.rocks/) 
+   | [bookworm](https://babluboy.github.io/bookworm/) 
+   | [calibre](https://calibre-ebook.com/) + [calibre-web](https://github.com/janeczku/calibre-web) 
+   | [evince](https://wiki.gnome.org/Apps/Evince) 
+   | [foliate](https://johnfactotum.github.io/foliate/) 
+   | [okular](https://okular.kde.org/)
 * ( ) [pockyt](https://github.com/arvindch/pockyt) 
 
 ## Editing, Document Creation
@@ -84,7 +90,8 @@
 
 
 ## GUI Calculator
-* ( ) [qalculate-qt](https://github.com/Qalculate/qalculate-qt) [👉](https://stackoverflow.com/questions/1675992/how-do-i-set-a-background-color-for-the-whole-window-of-a-qt-application) | [qalqulate-gtk](https://github.com/Qalculate/qalculate-gtk)
+* ( ) [qalculate-qt](https://github.com/Qalculate/qalculate-qt) [👉](https://stackoverflow.com/questions/1675992/how-do-i-set-a-background-color-for-the-whole-window-of-a-qt-application) 
+   | [qalqulate-gtk](https://github.com/Qalculate/qalculate-gtk)
 * ( ) [DevWidgets](https://github.com/gumbarros/DevWidgets) [👉](https://gumbarros.github.io/DevWidgets/#/home)
 * ( ) [ConvertAll](https://github.com/doug-101/ConvertAll) [👉](http://convertall.bellz.org/) - A program that can convert many units of measurement to other units.
 * ( ) [Geogebra](https://github.com/geogebra/geogebra) [download site](https://www.geogebra.org/download) - The graphing calculator for functions, geometry, algebra, calculus, statistics and 3D mathematics. - built with SwingFX
@@ -128,7 +135,8 @@
 * (2) [reddio](https://gitlab.com/aaronNG/reddio) - A command-line interface for Reddit written in POSIX sh.
 * (5) [redlib](https://github.com/redlib-org/redlib)
 * (6) [rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal.
-* ( ) [haxor-news](https://github.com/donnemartin/haxor-news) | [hn-cli](https://github.com/rafaelrinaldi/hn-cli)
+* ( ) [haxor-news](https://github.com/donnemartin/haxor-news) 
+   | [hn-cli](https://github.com/rafaelrinaldi/hn-cli)
 * ( ) [meetup-cli](https://github.com/specious/meetup-cli) - Meetup.com client.
 * ( ) [facebook-cli](https://github.com/specious/facebook-cli) - Facebook command line tool
 * ( ) [rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal.
@@ -150,8 +158,11 @@
 * ( ) [datadash](https://github.com/keithknott26/datadash)
 * ( ) [rare](https://github.com/zix99/rare)
 * ( ) [gnuplot](http://www.gnuplot.info/)
-* ( ) [spark](https://github.com/holman/spark) | [sprak.fish](https://github.com/jorgebucaran/spark.fish) | [sparkly-cli](https://github.com/sindresorhus/sparkly-cli)
-* ( ) [blessed-terminal](https://github.com/georgi-l95/blessed-terminal) | [blessed-contrib](https://github.com/dzxt/blessed-contrib)
+* ( ) [spark](https://github.com/holman/spark) 
+   | [sprak.fish](https://github.com/jorgebucaran/spark.fish) 
+   | [sparkly-cli](https://github.com/sindresorhus/sparkly-cli)
+* ( ) [blessed-terminal](https://github.com/georgi-l95/blessed-terminal) 
+   | [blessed-contrib](https://github.com/dzxt/blessed-contrib)
 * ( ) [graphviz](https://graphviz.org/)
 * ( ) [plotext](https://github.com/piccolomo/plotext)
 * ( ) [plotille](https://github.com/tammoippen/plotille)
@@ -212,8 +223,18 @@
 ## News
 * ( ) [getnews.tech](https://github.com/omgimanerd/getnews.tech) (via [newsapi](https://newsapi.org/))
 *### RSS
-* ( ) [newsboat](https://github.com/newsboat/newsboat) | [tt-rss](https://tt-rss.org/) | [FeedTheMonkey](https://github.com/jeena/FeedTheMonkey) | [NewsFlash](https://apps.gnome.org/app/com.gitlab.newsflash/) | [fluent-reader](https://hyliu.me/fluent-reader/)
-  | [Akregator](https://apps.kde.org/akregator/) | [rssguard](https://github.com/martinrotter/rssguard) | | [rss-cli](https://github.com/Clortox/rss-cli) | [rreader](https://github.com/rainygirl/rreader) | [canto-curses](https://github.com/themoken/canto-curses) | [nom](https://github.com/guyfedwards/nom)
+* ( ) [newsboat](https://github.com/newsboat/newsboat) 
+   | [tt-rss](https://tt-rss.org/) 
+   | [FeedTheMonkey](https://github.com/jeena/FeedTheMonkey) 
+   | [NewsFlash](https://apps.gnome.org/app/com.gitlab.newsflash/) 
+   | [fluent-reader](https://hyliu.me/fluent-reader/)
+  
+   | [Akregator](https://apps.kde.org/akregator/) 
+   | [rssguard](https://github.com/martinrotter/rssguard) 
+   | | [rss-cli](https://github.com/Clortox/rss-cli) 
+   | [rreader](https://github.com/rainygirl/rreader) 
+   | [canto-curses](https://github.com/themoken/canto-curses) 
+   | [nom](https://github.com/guyfedwards/nom)
 
 ## Maps
 * ( ) [mercator -](https://github.com/mrusme/mercator -) OpenStreetMap but as terminal user interface (TUI) program.
@@ -284,15 +305,12 @@
 * ( ) [DeckTape](https://github.com/astefanutti/decktape) - DeckTape is a high-quality PDF exporter for HTML presentation frameworks.
 * ( ) [sent](https://git.suckless.org/sent/log.html) - Simple plaintext presentation tool.
 * ( ) [tpp](http://www.ngolde.de/tpp.html)
-* Spreadsheet
-
-* Other
-
 
 ## Fonts
 - [getnf](https://github.com/ronniedroid/getnf)
 - [fonttools](https://github.com/fonttools/fonttools) (also usable for ascii art)
-- [](https://fontba.se/) (not FOSS)
+- [fontbase](https://fontba.se/) (not FOSS)
+- [fontforge](https://fontforge.org/en-US/)
 
 ### GUI Markdown Editor
 * ( ) [zettlr](https://github.com/Zettlr/Zettlr) [site](https://www.zettlr.com/)  - looks phenomenal

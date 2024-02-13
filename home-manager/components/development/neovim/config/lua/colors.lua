@@ -19,22 +19,22 @@ vim.cmd("syntax reset")
 
 -- See https://github.com/neovim/neovim/pull/7406
 --[[
-vim.g.terminal_color_0 = "$C_terminalColor00$"
-vim.g.terminal_color_1 = "$C_terminalColor01$"
-vim.g.terminal_color_2 = "$C_terminalColor02$"
-vim.g.terminal_color_3 = "$C_terminalColor03$"
-vim.g.terminal_color_4 = "$C_terminalColor04$"
-vim.g.terminal_color_5 = "$C_terminalColor05$"
-vim.g.terminal_color_6 = "$C_terminalColor06$"
-vim.g.terminal_color_7 = "$C_terminalColor07$"
-vim.g.terminal_color_8 = "$C_terminalColor08$"
-vim.g.terminal_color_9 = "$C_terminalColor09$"
-vim.g.terminal_color_10 = "$C_terminalColor0A$"
-vim.g.terminal_color_11 = "$C_terminalColor0B$"
-vim.g.terminal_color_12 = "$C_terminalColor0C$"
-vim.g.terminal_color_13 = "$C_terminalColor0D$"
-vim.g.terminal_color_14 = "$C_terminalColor0E$"
-vim.g.terminal_color_15 = "$C_terminalColor0F$"
+vim.g.terminal_color_0 = "$color.terminalColor00$"
+vim.g.terminal_color_1 = "$color.terminalColor01$"
+vim.g.terminal_color_2 = "$color.terminalColor02$"
+vim.g.terminal_color_3 = "$color.terminalColor03$"
+vim.g.terminal_color_4 = "$color.terminalColor04$"
+vim.g.terminal_color_5 = "$color.terminalColor05$"
+vim.g.terminal_color_6 = "$color.terminalColor06$"
+vim.g.terminal_color_7 = "$color.terminalColor07$"
+vim.g.terminal_color_8 = "$color.terminalColor08$"
+vim.g.terminal_color_9 = "$color.terminalColor09$"
+vim.g.terminal_color_10 = "$color.terminalColor0A$"
+vim.g.terminal_color_11 = "$color.terminalColor0B$"
+vim.g.terminal_color_12 = "$color.terminalColor0C$"
+vim.g.terminal_color_13 = "$color.terminalColor0D$"
+vim.g.terminal_color_14 = "$color.terminalColor0E$"
+vim.g.terminal_color_15 = "$color.terminalColor0F$"
 --]]
 local enable_font_variants = true
 --vim.g.melange_enable_font_variants == nil or vim.g.melange_enable_font_variants
@@ -48,24 +48,24 @@ local strikethrough = enable_font_variants
 for name, attrs in pairs({
 	---- :help highlight-default -------------------------------
 
-	Normal = { bg = "$C_nvim.Normal.bg$", fg = "$C_nvim.Normal.fg$" },
-	NormalFloat = { bg = "$C_nvim.NormalFloat.bg$", fg = "$C_nvim.NormalFloat.fg$" },
+	Normal = { bg = "<||color.nvim.Normal.bg||>", fg = "<||color.nvim.Normal.fg||>" },
+	NormalFloat = { bg = "<||color.nvim.NormalFloat.bg||>", fg = "<||color.nvim.NormalFloat.fg||>" },
 	NormalNC = "Normal",
 
-	Special = { fg = "$C_nvim.Special.fg$" },
-	CursorLine = { bg = "$C_nvim.CursorLine.bg$" },
+	Special = { fg = "<||color.nvim.Special.fg||>" },
+	CursorLine = { bg = "<||color.nvim.CursorLine.bg||>" },
 
-	Identifier = { fg = "$C_nvim.Identifier.fg$" },
-	["@variable"] = { fg = "$C_nvim.at_variable.fg$" },
-	Function = { fg = "$C_nvim.Function.fg$" },
-	Statement = { fg = "$C_nvim.Statement.fg$" },
-	Directory = { fg = "$C_nvim.Directory.fg$" },
-	String = { fg = "$C_nvim.String.fg$" },
-	Comment = { fg = "$C_nvim.Comment.fg$" },
-	PreProc = { fg = "$C_nvim.PreProc.fg$" },
-	Operator = { fg = "$C_nvim.Operator.fg$" },
-	Delimiter = { fg = "$C_nvim.Delimiter.fg$" },
-	NeotreeFileName = { fg = "$C_nvim.NeotreeFileName.fg$" },
+	Identifier = { fg = "<||color.nvim.Identifier.fg||>" }, --$color.nvim.Identifier.fg$" },
+	["@variable"] = { fg = "<||color.nvim.at_variable.fg||>" },
+	Function = { fg = "<||color.nvim.Function.fg||>" },
+	Statement = { fg = "<||color.nvim.Statement.fg||>" },
+	Directory = { fg = "<||color.nvim.Directory.fg||>" },
+	String = { fg = "<||color.nvim.String.fg||>" },
+	Comment = { fg = "<||color.nvim.Comment.fg||>" },
+	PreProc = { fg = "<||color.nvim.PreProc.fg||>" },
+	Operator = { fg = "<||color.nvim.Operator.fg||>" },
+	Delimiter = { fg = "<||color.nvim.Delimiter.fg||>" },
+	NeotreeFileName = { fg = "<||color.nvim.NeotreeFileName.fg||>" },
 }) do
 	if type(attrs) == "table" then
 		vim.api.nvim_set_hl(0, name, attrs)

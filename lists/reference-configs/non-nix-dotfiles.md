@@ -8,6 +8,15 @@
 [deepaknegilachu](https://codeberg.org/deepaknegilachu/.dotfiles - yambar) - 
 
 ## Raw - to sort
+* ( ) [](https://github.com/redas24/dotcommon )
+* ( ) [](https://gitlab.com/anhvo8836/dracula)
+* ( ) [](https://github.com/ryanb/dotfiles)
+* ( ) [](https://github.com/romeovs/creep)
+* ( ) [](https://github.com/d0nut-dev/u-ricing)
+* ( ) [](https://github.com/laurigates/dotfiles)
+* ( ) [](https://github.com/denysdovhan/dotfiles)
+* ( ) [](https://github.com/dotphiles/dotphiles)
+
 [hollow](https://git.sr.ht/~hollow/dotfiles/tree) - 
 [elal](https://git.wych.dev/elal/dotfiles) - 
 [gh0stzk](https://github.com/gh0stzk/dotfiles) - 

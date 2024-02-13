@@ -16,7 +16,6 @@
 
 (5) - some rewriting or packaging necessary (but to be added)
 
-[read](https://www.reddit.com/r/unixporn/comments/5o1mic/what_display_manager_do_you_guys_use/)
 
 ## By Layer
 ### Minimalist Set
@@ -1184,3 +1183,6 @@ https://jaspervdj.be/hakyll/ - Haskell static site generator
 * ( ) [](https://fsd.it/shop/fonts/pragmatapro/)
 * ( ) [](https://github.com/lucc/nvimpager)
 * ( ) [](https://github.com/Lxtharia/minegrub-theme)
+* ( ) [read](https://www.reddit.com/r/unixporn/comments/5o1mic/what_display_manager_do_you_guys_use/)
+* ( ) [Git Bare Repository - A Better Way To Manage Dotfiles - YouTube](https://www.youtube.com/watch?v=tBoLDpTWVOM)
+* ( ) [FlafyDev/flutter_workspaces_2](https://github.com/FlafyDev/flutter_workspaces_2) - 

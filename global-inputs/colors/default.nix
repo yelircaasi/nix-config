@@ -145,20 +145,20 @@ in rec {
     NormalFloat = {inherit fg bg;};
     NormalNC = {inherit fg bg;};
 
-    Special = { fg = special; };
-    CursorLine = { bg = bgAccent; };
+    Special = {fg = special;};
+    CursorLine = {bg = bgAccent;};
 
-    Identifier = { fg = identifier; };
-    at_variable = { fg = variable; };
-    Function = { fg = function; };
-    Statement = { fg = statement; };
-    Directory = { fg = directory; };
-    String = { fg = string; };
-    Comment = { fg = comment; };
-    PreProc = { fg = preproc; };
-    Operator = { fg = operator; };
-    Delimiter = { fg = delimiter; };
-    NeotreeFileName = { fg = filename; };
+    Identifier = {fg = identifier;};
+    at_variable = {fg = variable;};
+    Function = {fg = function;};
+    Statement = {fg = statement;};
+    Directory = {fg = directory;};
+    String = {fg = string;};
+    Comment = {fg = comment;};
+    PreProc = {fg = preproc;};
+    Operator = {fg = operator;};
+    Delimiter = {fg = delimiter;};
+    NeotreeFileName = {fg = filename;};
   };
 
   /*

@@ -10,21 +10,18 @@ urlview = require("urlview")
 
 -- colorizer
 colorizer.setup({
-	{},
+	{
+		"nix",
+		"css",
+		"javascript",
+		html = {
+			mode = "foreground",
+		},
+	},
 	{
 		names = false,
 		mode = "foreground",
 	},
 })
-
---[[{
-  "nix",
-  'css';
-  'javascript';
-  html = {
-    mode = 'foreground';
-  }
-})a
---]]
 
 return regexplainer, quicknote, carbon_now, colorizer, venn, distant, compiler_explorer, flatten, urlvew

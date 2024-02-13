@@ -14,7 +14,7 @@
 # in
 # let
 #   swayfx-nightly = inputs.swayfx.packages.${pkgs.system}.swayfx-unwrapped;
-# in 
+# in
 {
   imports = [
     # Include the results of the hardware scan.
@@ -96,7 +96,6 @@
       #  enable = true;
       #  setSocketVariable = true;
       #};
-
     };
     podman = {
       enable = true;
@@ -237,7 +236,8 @@
     # deprecated: enableNvidiaPatches = true;
     xwayland.enable = true;
   };
-  programs.sway = { # incorrect -> need to create an overlay for swayfx
+  programs.sway = {
+    # incorrect -> need to create an overlay for swayfx
     enable = true;
     package = pkgs.swayfx;
   };

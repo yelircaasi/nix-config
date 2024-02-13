@@ -42,9 +42,10 @@
 - [HeinzDev](https://github.com/HeinzDev/Hyprland-dotfiles (nix) ) - 
 - [IllustratedMan-code dotfiles](https://github.com/IllustratedMan-code/dotfiles) ********* - (nix), hyprland, gnuplot, doom emacs, dunst, eww, gtk, i3, kitty, 
 - [IllustratedMan-code nixconfig](https://github.com/IllustratedMan-code/nixconfig) *********  - nix (flake)
-- [JonathanReeve](https://github.com/JonathanReeve/dotfiles) ********* 
+- [JonathanReeve](https://github.com/JonathanReeve/dotfiles) ********* doom-emacs, R, cachix, sway colors, nushell, gnome, hyprland, python, waybar
+  - 
   - nixos, cachix, doom emacs, r, cachix, sway, nushell, gnome, home manager
-  - interesting nushel files
+  - interesting nushell files
 - [jonringer](https://github.com/jonringer/nixpkgs-config)
   - good use of conditionals
 - [jakehamilton/config](https://github.com/jakehamilton/config)

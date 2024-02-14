@@ -48,24 +48,24 @@ local strikethrough = enable_font_variants
 for name, attrs in pairs({
 	---- :help highlight-default -------------------------------
 
-	Normal = { bg = "<||color.nvim.Normal.bg||>", fg = "<||color.nvim.Normal.fg||>" },
-	NormalFloat = { bg = "<||color.nvim.NormalFloat.bg||>", fg = "<||color.nvim.NormalFloat.fg||>" },
+	Normal = { bg = "<| color.nvim.Normal.bg |>", fg = "<| color.nvim.Normal.fg |>" },
+	NormalFloat = { bg = "<| color.nvim.NormalFloat.bg |>", fg = "<| color.nvim.NormalFloat.fg |>" },
 	NormalNC = "Normal",
 
-	Special = { fg = "<||color.nvim.Special.fg||>" },
-	CursorLine = { bg = "<||color.nvim.CursorLine.bg||>" },
+	Special = { fg = "<| color.nvim.Special.fg |>" },
+	CursorLine = { bg = "<| color.nvim.CursorLine.bg |>" },
 
-	Identifier = { fg = "<||color.nvim.Identifier.fg||>" }, --$color.nvim.Identifier.fg$" },
-	["@variable"] = { fg = "<||color.nvim.at_variable.fg||>" },
-	Function = { fg = "<||color.nvim.Function.fg||>" },
-	Statement = { fg = "<||color.nvim.Statement.fg||>" },
-	Directory = { fg = "<||color.nvim.Directory.fg||>" },
-	String = { fg = "<||color.nvim.String.fg||>" },
-	Comment = { fg = "<||color.nvim.Comment.fg||>" },
-	PreProc = { fg = "<||color.nvim.PreProc.fg||>" },
-	Operator = { fg = "<||color.nvim.Operator.fg||>" },
-	Delimiter = { fg = "<||color.nvim.Delimiter.fg||>" },
-	NeotreeFileName = { fg = "<||color.nvim.NeotreeFileName.fg||>" },
+	Identifier = { fg = "<| color.nvim.Identifier.fg |>" }, --$color.nvim.Identifier.fg$" },
+	["@variable"] = { fg = "<| color.nvim.at_variable.fg |>" },
+	Function = { fg = "<| color.nvim.Function.fg |>" },
+	Statement = { fg = "<| color.nvim.Statement.fg |>" },
+	Directory = { fg = "<| color.nvim.Directory.fg |>" },
+	String = { fg = "<| color.nvim.String.fg |>" },
+	Comment = { fg = "<| color.nvim.Comment.fg |>" },
+	PreProc = { fg = "<| color.nvim.PreProc.fg |>" },
+	Operator = { fg = "<| color.nvim.Operator.fg |>" },
+	Delimiter = { fg = "<| color.nvim.Delimiter.fg |>" },
+	NeotreeFileName = { fg = "<| color.nvim.NeotreeFileName.fg |>" },
 }) do
 	if type(attrs) == "table" then
 		vim.api.nvim_set_hl(0, name, attrs)

@@ -1,5 +1,7 @@
 # Web Apps
 
+* ( ) [farside](https://farside.link/)
+
 ## AI Tools and Information Resources
 * ( ) [ChatG_](https://chat.openai.com/chat) ([read](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html))
 * ( ) [phind]()

@@ -33,13 +33,13 @@
 
   makeNixosConfigurations = deviceDeclarationList:
     builtins.foldl'
-    (acc: configSet: let name = configSet.name; in acc // {"${name}" = makeNixosConfig configSet;})
+    (configsAttrSet: configSet: let name = configSet.name; in configsAttrSet // {"${name}" = makeNixosConfig configSet;})
     {}
     deviceDeclarationList;
 
   makeHomeManagerConfigurations = deviceDeclarationList:
     builtins.foldl'
-    (acc: configSet: let name = configSet.name; in acc // {"${name}" = makeHomeManagerConfig configSet;})
+    (configsAttrSet: configSet: let name = configSet.name; in configsAttrSet // {"${name}" = makeHomeManagerConfig configSet;})
     {}
     deviceDeclarationList;
 }

@@ -32,6 +32,20 @@ in
       (getNewValues globalSet placeholders)
       fileString;
 
+    readAndInterpolateFiles = globalSet: pathInfo: dotfileNameList:
+    # pathInfo = { xdgAttrName = "..."; relativeDir = ./...; fileSuffix = "...";};
+      builtins.foldl'
+      (
+        xdgConfigFileSet: dotfileName: let
+          slashFullName = "/${dotfileName}${pathInfo.fileSuffix}";
+          xdgAttrName = pathInfo.xdgAttrName + slashFullName;
+          fullRelPath = pathInfo.relativeDir + slashFullName;
+        in
+          xdgConfigFileSet // {"${xdgAttrName}".text = readAndInterpolate globalSet fullRelPath;}
+      )
+      {}
+      dotfileNameList;
+
     colorsFromTOML = x: "TO DO";
 
     keybindingsFromJSON = x: "TO DO";

@@ -43,30 +43,35 @@
     g = import ./global-inputs {inherit inputs;};
     helpers = import ./helper-functions.nix {inherit inputs g;};
 
+    defaultDeviceDeclaration = {};
+
     deviceDeclarations = [
-      {
-        name = "betsy";
-        defaultShell = "bash";
-        shells = ["bash"];
-        windowManager = "hyprland";
-        additionalModules = [];
-      }
-      {
-        name = "hank";
-        defaultShell = "bash";
-        shells = ["bash"];
-        windowManager = "hyprland";
-        additionalModules = [
-          #inputs.nix-snapd.nixosModules.default { services.snap.enable = true; }
-        ];
-      }
-      {
-        name = "malina";
-        defaultShell = "bash";
-        shells = ["bash"];
-        windowManager = null;
-        additionalModules = [];
-      }
+      (defaultDeviceDeclaration
+        // {
+          name = "betsy";
+          defaultShell = "bash";
+          shells = ["bash"];
+          windowManager = "hyprland";
+          additionalModules = [];
+        })
+      (defaultDeviceDeclaration
+        // {
+          name = "hank";
+          defaultShell = "bash";
+          shells = ["bash"];
+          windowManager = "hyprland";
+          additionalModules = [
+            #inputs.nix-snapd.nixosModules.default { services.snap.enable = true; }
+          ];
+        })
+      (defaultDeviceDeclaration
+        // {
+          name = "malina";
+          defaultShell = "bash";
+          shells = ["bash"];
+          windowManager = null;
+          additionalModules = [];
+        })
     ];
   in {
     nixosConfigurations = helpers.makeNixosConfigurations deviceDeclarations;

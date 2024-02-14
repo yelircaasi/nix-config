@@ -7,4 +7,3 @@ local git_sessions = require("git-sessions")
 local gitlinker = require("gitlinker")
 
 return neogit, lazygit, gitsigns, diffview, gitblame, git_sessions, gitlinker
-

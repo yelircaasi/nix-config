@@ -21,7 +21,7 @@ Python Development Setup:
 * [ ] fix neotree fold/unfold glitch, git status refreshing
 * [ ] disable confirmation to close
 * [ ] revisit folding
-* [ ] configure keys to save
+* [ ] configure more comfortable key for save, end-of-line
 * [ ] add ergonomic escape (via kanata?)
 * [ ] fix git blame line background color (normal background color)
 * [ ] remove lint / LSP message background
@@ -74,17 +74,17 @@ Python Development Setup:
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
 
-## Neogit
 
-* [ ] read documentation
-* [ ] read code
-* [ ] plugin installed and imported
-* [ ] basic config
-* [ ] config perfected
-* [ ] list default highlight groups in nix-config
-* [ ] list default keybinds in nix-config
-* [ ] list custom highlight groups in nix-config
-* [ ] list custom keybinds in nix-config
+
+
+
+
+
+
+
+
+
+
 
 ## UI
 
@@ -282,7 +282,7 @@ Python Development Setup:
 
 ## Buffer Line
 
-###
+### bufferline.nvim
 
 * [ ] read documentation
 * [ ] read code
@@ -296,7 +296,7 @@ Python Development Setup:
 
 ## Tab Line
 
-###
+### tabby.nvim
 
 * [ ] read documentation
 * [ ] read code
@@ -310,7 +310,7 @@ Python Development Setup:
 
 ## Notifications
 
-###
+### nvim-notify
 
 * [ ] read documentation
 * [ ] read code
@@ -326,7 +326,7 @@ Python Development Setup:
 
 ## Modes
 
-###
+### zen-mode.nvim
 
 * [ ] read documentation
 * [ ] read code
@@ -341,7 +341,67 @@ Python Development Setup:
 
 ## Execution
 
-###
+### sniprun
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### code-runner.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### compiler.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### yarepl.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### iron.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### molten.nvim
 
 * [ ] read documentation
 * [ ] read code
@@ -356,7 +416,19 @@ Python Development Setup:
 
 ## Task Runner
 
-###
+### overseer.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### toggletasks.nvim
 
 * [ ] read documentation
 * [ ] read code
@@ -371,7 +443,31 @@ Python Development Setup:
 
 ## Multiplexer
 
-###
+### smart-splits.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### zellij.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### windex.nvim
 
 * [ ] read documentation
 * [ ] read code
@@ -386,7 +482,43 @@ Python Development Setup:
 
 ## Projects
 
-###
+### neoconf.vim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### projectmgr.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### memento.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### nvim-config-local
 
 * [ ] read documentation
 * [ ] read code
@@ -401,7 +533,7 @@ Python Development Setup:
 
 ## Menus (other)
 
-###
+### wilder.nvim
 
 * [ ] read documentation
 * [ ] read code
@@ -416,7 +548,31 @@ Python Development Setup:
 
 ## Treesitter and Extensions
 
-###
+### treesitter.withAllGrammars (from Nix)
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### nvim-treesitter-context
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### agrolens.nvim
 
 * [ ] read documentation
 * [ ] read code
@@ -431,7 +587,7 @@ Python Development Setup:
 
 ## Highlighting (other)
 
-###
+### hlargs.nvim
 
 * [ ] read documentation
 * [ ] read code
@@ -446,7 +602,55 @@ Python Development Setup:
 
 ## Snippets
 
-###
+### luasnip
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### friendly-snippets
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### ultisnips
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### telescope-ultisnips.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### nvim-snippy
 
 * [ ] read documentation
 * [ ] read code
@@ -461,7 +665,91 @@ Python Development Setup:
 
 ## LSP
 
-###
+### nvim-lspconfig
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### none-ls.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### lspkind.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### efmls-configs.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### nlsp-settings.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### lspsaga.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### lsp-signature.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### vim-illuminate
 
 * [ ] read documentation
 * [ ] read code
@@ -476,7 +764,44 @@ Python Development Setup:
 
 ## Completion
 
-###
+
+### nvim-cmp
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### cmp-nvim-lsp
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### cmp-path
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### cmp_luasnip
 
 * [ ] read documentation
 * [ ] read code
@@ -491,7 +816,19 @@ Python Development Setup:
 
 ## Debugging
 
-###
+### nvim-dap
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### nvim-dap-ui
 
 * [ ] read documentation
 * [ ] read code
@@ -506,7 +843,43 @@ Python Development Setup:
 
 ## Quickfix
 
-###
+### nvim-bqf
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### qfview.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### neowell.lua
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### trouble.nvim
 
 * [ ] read documentation
 * [ ] read code
@@ -521,7 +894,31 @@ Python Development Setup:
 
 ## Formatting and Linting
 
-###
+### confirm.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### lsp-format.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### nvim-lint
 
 * [ ] read documentation
 * [ ] read code
@@ -536,7 +933,7 @@ Python Development Setup:
 
 ## Refactoring (other)
 
-###
+### refactoring.nvim
 
 * [ ] read documentation
 * [ ] read code
@@ -551,7 +948,31 @@ Python Development Setup:
 
 ## Folding
 
-###
+### fold-cycle.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### pretty-fold.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### nvim-ufo
 
 * [ ] read documentation
 * [ ] read code
@@ -566,7 +987,19 @@ Python Development Setup:
 
 ## Testing and Coverage
 
-###
+### neotest
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### nvim-coverage
 
 * [ ] read documentation
 * [ ] read code
@@ -581,7 +1014,19 @@ Python Development Setup:
 
 ## Comments
 
-###
+### Comment.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### todo-comments.nvim
 
 * [ ] read documentation
 * [ ] read code
@@ -596,7 +1041,31 @@ Python Development Setup:
 
 ## Clipboard
 
-###
+### nvim-neoclip-lua
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### clipboard-image.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### yanky.nvim
 
 * [ ] read documentation
 * [ ] read code
@@ -611,7 +1080,79 @@ Python Development Setup:
 
 ## Git
 
-###
+### neogit
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### lazygit.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### gitsigns.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### diffview.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### git-blame.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### git-sessions.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### gitlinker.nvim
 
 * [ ] read documentation
 * [ ] read code
@@ -626,7 +1167,176 @@ Python Development Setup:
 
 ## Editing
 
-###
+### text-case.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### ssr
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### treesj
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+<!-- ### dial.nvim -->
+<!---->
+<!-- * [ ] read documentation -->
+<!-- * [ ] read code -->
+<!-- * [ ] plugin installed and imported -->
+<!-- * [ ] basic config -->
+<!-- * [ ] config perfected -->
+<!-- * [ ] list default highlight groups in nix-config -->
+<!-- * [ ] list default keybinds in nix-config -->
+<!-- * [ ] list custom highlight groups in nix-config -->
+<!-- * [ ] list custom keybinds in nix-config -->
+
+### live-command.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### renamer.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### sibling-swap.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### part-edit.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### move.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### boole.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### sort.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### smartcolumn.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### trim.nvim
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+### vim-sneak
+
+* [ ] read documentation
+* [ ] read code
+* [ ] plugin installed and imported
+* [ ] basic config
+* [ ] config perfected
+* [ ] list default highlight groups in nix-config
+* [ ] list default keybinds in nix-config
+* [ ] list custom highlight groups in nix-config
+* [ ] list custom keybinds in nix-config
+
+
+### indent-blankline.nvim
 
 * [ ] read documentation
 * [ ] read code
@@ -641,7 +1351,7 @@ Python Development Setup:
 
 ## Increment and Toggling
 
-###
+### dial.nvim
 
 * [ ] read documentation
 * [ ] read code

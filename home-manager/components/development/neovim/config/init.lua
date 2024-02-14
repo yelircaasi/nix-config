@@ -7,9 +7,6 @@ g.mapleader = " "
 require("options")
 require("mappings")
 
--- plugins without custom config
-require("neogit")
-
 -- custom plugin config, named semantically rather than using plugin name
 --require("plugins.training")
 require("plugins.ui")

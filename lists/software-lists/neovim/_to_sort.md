@@ -9,6 +9,13 @@ Key:
 * 7 ### probably not
 * 8 ### obsoleted by another plugin
 * 9 ### inherently obsolete
+
+## Luarock
+* ( ) [vim2rockspec](https://github.com/teto/vim2rockspec)
+#### [Service](https://yutkat.github.io/my-neovim-pluginlist/#service)
+* ( ) [nvim-docsearch](https://github.com/dzfrias/nvim-docsearch)
+## Config share
+* ( ) [dotfyle](https://github.com/codicocodes/dotfyle)
 ### jumplist
 * ( ) [portal.nvim](https://github.com/cbochs/portal.nvim)
 * ( ) [bufjump.nvim](https://github.com/kwkarlwang/bufjump.nvim)
@@ -19,7 +26,7 @@ Key:
 * ( ) [telescope-jumps.nvim](https://github.com/amiroslaw/telescope-jumps.nvim)
 * ( ) [filestack.nvim](https://github.com/jake-stewart/filestack.nvim)
 ## Mac
-* ( ) [incolla.nvim](https://github.com/mattdibi/incolla.nvim)
+* (6) [incolla.nvim](https://github.com/mattdibi/incolla.nvim)
 ### etc
 * ( ) [hologram.nvim](https://github.com/edluffy/hologram.nvim)
 * ( ) [wrangler.nvim](https://github.com/willothy/wrangler.nvim)
@@ -56,7 +63,6 @@ Key:
 #### [Reload Configuration](https://yutkat.github.io/my-neovim-pluginlist/#reload-configuration)
 * ( ) [reloader.nvim](https://github.com/milkias17/reloader.nvim)
 * ( ) [live-reload.nvim](https://github.com/mskelton/live-reload.nvim)
-#### [Zenn](https://yutkat.github.io/my-neovim-pluginlist/#concentrationpomodorozenn)
 #### [IDE feature](https://yutkat.github.io/my-neovim-pluginlist/#ide-feature)
 * ( ) [intergrater.nvim](https://github.com/AbaoFromCUG/intergrater.nvim)  
 ## Exec

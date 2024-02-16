@@ -601,7 +601,8 @@ train models.
 * (4) [cronutils](https://github.com/google/cronutils)
 * (5) [actiona](https://github.com/Jmgr/actiona)
 * (2) [sake](https://github.com/alajmo/sake)
-* ( ) [foy](https://github.com/zaaack/foy)
+* (4) [foy](https://github.com/zaaack/foy)
+* (4) [jobber](https://github.com/dshearer/jobber)
 
 ## License
 * [license-up](https://github.com/nikitavoloboev/license-up) 
@@ -955,6 +956,7 @@ https://jaspervdj.be/hakyll/ - Haskell static site generator
    | [keeweb](https://keeweb.info/) 
    | [pa](https://github.com/biox/pa) 
    | [keydex](https://github.com/shikaan/keydex)
+* ( ) [keepmenu](https://github.com/firecat53/keepmenu)
 * ( ) [ots](https://github.com/sniptt-official/ots) 
    | [Secrets](https://apps.gnome.org/Secrets/) 
    | [SpicyPass](https://github.com/JFreegman/SpicyPass)

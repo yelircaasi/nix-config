@@ -18,7 +18,7 @@ Python Development Setup:
     * [ ] best way to view html cov files? -> shortcut to open in given browser -> configure xdg-open or find extension
     * [ ] generate in-source annotations for untested code? (supported by pytest-cov)
 * [ ] get wezterm panes and tabs working: shortcuts for opening and navigations
-* [ ] fix neotree fold/unfold glitch, git status refreshing
+* [ ] fix neotree fold/unfold glitch, git status refreshing -> [this](https://github.com/nvim-neo-tree/neo-tree.nvim/issues/209)
 * [ ] disable confirmation to close
 * [ ] revisit folding
 * [ ] configure more comfortable key for save, end-of-line
@@ -767,6 +767,7 @@ Python Development Setup:
 
 ### nvim-cmp
 
+* [ ] [fix menu colors in config](https://github.com/hrsh7th/nvim-cmp/discussions/1200)
 * [ ] read documentation
 * [ ] read code
 * [ ] plugin installed and imported

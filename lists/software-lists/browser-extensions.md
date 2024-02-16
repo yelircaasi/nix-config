@@ -37,7 +37,8 @@
 * ( ) Enhancer for YouTube™ → port to indie browsers
 ## Privacy
 * ( ) Decentraleyes
-* ( ) Languages
+
+## Languages
   * ( ) Zhongwen Chinese Popup Dictionary
   * ( ) Inkah
   * ( ) Simple Translate
@@ -50,6 +51,7 @@
 * ( ) [Better than Bookmarks](https://www.gettoby.com/)
 ## Reader
 * ( ) [darkreader](https://github.com/darkreader/darkreader) -
+* (2) [simplyread](https://njw.name/simplyread/)
 ## Appearance
 * ( ) [treestyletab](https://github.com/piroor/treestyletab)
 * ( ) [RaitaroH/YouTube-DeepDark: Videos should only be watched in the dark. May the dark be kinder on thine eyes. (YouTube dark theme)](https://github.com/RaitaroH/YouTube-DeepDark)

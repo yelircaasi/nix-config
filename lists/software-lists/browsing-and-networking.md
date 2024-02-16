@@ -1,12 +1,16 @@
 # Browsing and Networking
 
+## ?
+
+* ( ) [slimerjs](https://slimerjs.org/)
+*
 ## Keyboard-Navigable Hackable GUI Browser
 * (1) [nyxt]()
 * (1) [qutebrowser](https://github.com/qutebrowser/qutebrowser)
-* (4) [vieb]()
 * (2) [luakit]()
-* (4) [vimb]() 
-   | [wyeb]()
+* (4,5) [vimb]() 
+   | (5) [wyeb]()
+* (4) [vieb]()
 
 ## Mainstream-Style Browser
 * (4) [librewolf]() 
@@ -26,45 +30,47 @@
 * (4) [Otter]()
 
 ## Esoteric Browser
-* ( ) [ladybird]()
-* ( ) [midori](https://github.com/goastian/midori-desktop)
-* ( ) [min]()
-* ( ) [falkon]()
-* ( ) [epiphany]()
-* ( ) [lrrh]()
-* ( ) [raphael](https://github.com/MidnightBSD/raphael)
-* ( ) [hskit]()
-* ( ) [webkitten](https://github.com/kattrali/webkitten)
+* (4) [ladybird]()
+* (5) [min]()
+* (6) [midori](https://github.com/goastian/midori-desktop)
+* (6) [falkon]()
+* (6) [epiphany]()
+* (6) [badwolf](https://hacktivis.me/projects/badwolf) - interesting and lightweight, but no vi mode
+* (6) [lrrh]()
+* (6) [raphael](https://github.com/MidnightBSD/raphael)
+* (6) [hskit](https://github.com/isovector/hskit)
+* (6) [webkitten](https://github.com/kattrali/webkitten)
 
 ## Maximal-Privacy Browser
-* ( ) [tor]()
-* ( ) [icecat]()
+* (2) [tor]()
+* (5) [icecat]()
 
 ## Terminal GUI Browsers
-* ( ) [carbonyl](https://github.com/fathyb/carbonyl)
-* ( ) [browsh](https://github.com/browsh-org/browsh)
+* (5) [carbonyl](https://github.com/fathyb/carbonyl)
+* (2) [browsh](https://github.com/browsh-org/browsh)
 
 ## TUI Browser
-* ( ) [elinks](https://github.com/rkd77/elinks)
-* ( ) [lynx]()
-* ( ) [w3m]()
-* ( ) [links]()
-* ( ) [edbrowse]()
+* (2.5) [elinks](https://github.com/rkd77/elinks)
+   | (2.5) [lynx]()
+   | (2.5) [w3m]()
+   | (2.5) [links2]()
+* (5) [w3m-mee](http://pub.ks-and-ks.ne.jp/prog/w3mmee/)
+* (2) [edbrowse]()
 
 ## CLI Browser (truly minimalist)
-* ( ) [reader](https://github.com/mrusme/reader)
-* ( ) [graphene](https://github.com/atsepkov/Graphene)
-* ( ) [hget](https://github.com/bevacqua/hget)
+* (2) [reader](https://github.com/mrusme/reader)
+* (5) [graphene](https://github.com/atsepkov/Graphene)
+* (5) [hget](https://github.com/bevacqua/hget)
 
 ## Gemini and Other Non-Web Protocols -> see [ths guide](https://geminiquickst.art/)
-* ( ) [Bombadillo ](https://tildegit.org/sloum/Bombadillo)- A non-web browser, designed for a growing list of protocols operating outside of the web. Currently supports Gemini, Finger and Gopher.
-* ( ) [min](https://github.com/a-h/min) - A Gemini browser with Vim style keyboard navigation, client certificate support and history and bookmarks saved in TSV files.
-* ( ) [asuka](https://git.sr.ht/~julienxx/asuka) - A Gemini Project client written in Rust with NCurses.
-* ( ) [gplaces](https://github.com/dimkr/gplaces) - Simple but powerful terminal Gemini client.
-* ( ) [Gremlin](https://github.com/actuday6418/gremlin) - Gemini browser for the terminal.
-* ( ) [Amfora](https://github.com/makeworld-the-better-one/amfora) - Amfora aims to be the best looking Gemini client with the most features. It does not support Gopher or other non-Web protocols.
-* ( ) [Romulus](https://github.com/LukeEmmet/Romulus) - A cross platform Gemini console client in C# with a simple user interface, interactive menus and mouse support.
-* ( ) [Telescope](https://github.com/omar-polo/telescope) - Gemini client with UI that is strongly inspired from Emacs and W3M.
+* (4) [Bombadillo ](https://tildegit.org/sloum/Bombadillo)- A non-web browser, designed for a growing list of protocols operating outside of the web. Currently supports Gemini, Finger and Gopher.
+* (4) [min](https://github.com/a-h/min) - A Gemini browser with Vim style keyboard navigation, client certificate support and history and bookmarks saved in TSV files.
+* (4) [asuka](https://git.sr.ht/~julienxx/asuka) - A Gemini Project client written in Rust with NCurses.
+* (4) [gplaces](https://github.com/dimkr/gplaces) - Simple but powerful terminal Gemini client.
+* (4) [Gremlin](https://github.com/actuday6418/gremlin) - Gemini browser for the terminal.
+* (4) [Amfora](https://github.com/makeworld-the-better-one/amfora) - Amfora aims to be the best looking Gemini client with the most features. It does not support Gopher or other non-Web protocols.
+* (4) [Romulus](https://github.com/LukeEmmet/Romulus) - A cross platform Gemini console client in C# with a simple user interface, interactive menus and mouse support.
+* (4) [Telescope](https://github.com/omar-polo/telescope) - Gemini client with UI that is strongly inspired from Emacs and W3M.
 
 ## Search
 → [Saying Goodbye to DuckDuckGo... Here's some Alternatives! - YouTube](https://www.youtube.com/watch?v=g--hr4F1S4w)
@@ -73,103 +79,111 @@
 
 → https://www.comparitech.com/blog/vpn-privacy/best-private-search-engine/ 
 
-* ( ) [searxng](https://dalf.github.io/searxng/)
-* ( ) [s](https://github.com/zquestz/s) - Web search from the terminal. Just opens in your browser.
-* ( ) [socli](https://github.com/gautamkrishnar/socli) - Stack overflow command line client written in Python. Search and browse stack overflow without leaving the terminal
-* ( ) [arch-wiki](https://github.com/deadhead420/arch-wiki) - Search the Arch Wiki anywhere from the command line.
-* ( ) [awesome-cli](https://github.com/umutphp/awesome-cli) - Awesome CLI is a simple command line tool to give you a fancy command line interface to dive into Awesome lists.
-* ( ) [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists from the command line.
-* ( ) [socialscan](https://github.com/iojw/socialscan) - Python library and CLI for accurately querying username and email usage on online platforms.
-* ( ) [cli-arxiv](https://github.com/knguyenanhoa/cli-arxiv) - CLI tool for exploring arXiv.
-*[ddgr -](https://github.com/jarun/ddgr -)DuckDuckGo from the terminal
-* ( ) [tuxi](https://github.com/Bugswriter/tuxi) - A CLI tool that scrapes Google search results and SERPs that provides instant and concise answers.
-* ( ) [googlr](https://github.com/Astranno/googlr) - Command line tool that lets you search Google from your terminal.
-* ( ) [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
-* ( ) [surfraw](https://gitlab.com/surfraw/Surfraw) - browse specific site and search the web from your terminal without browser.
+* (2) [searxng](https://dalf.github.io/searxng/)
+* (2) [s](https://github.com/zquestz/s) - Web search from the terminal. Just opens in your browser.
+* (2) [socli](https://github.com/gautamkrishnar/socli) - Stack overflow command line client written in Python. Search and browse stack overflow without leaving the terminal
+* (4) [arch-wiki](https://github.com/deadhead420/arch-wiki) - Search the Arch Wiki anywhere from the command line.
+* (2.5.5.5.5.5) [awesome-cli](https://github.com/umutphp/awesome-cli) - Awesome CLI is a simple command line tool to give you a fancy command line interface to dive into Awesome lists.
+   | (2.5) [awesome-finder](https://github.com/mingrammer/awesome-finder) - Search the awesome lists from the command line.
+* (2) [socialscan](https://github.com/iojw/socialscan) - Python library and CLI for accurately querying username and email usage on online platforms.
+* (2) [cli-arxiv](https://github.com/knguyenanhoa/cli-arxiv) - CLI tool for exploring arXiv.
+* (2) [ddgr -](https://github.com/jarun/ddgr -)DuckDuckGo from the terminal
+* (2) [tuxi](https://github.com/Bugswriter/tuxi) - A CLI tool that scrapes Google search results and SERPs that provides instant and concise answers.
+* (6) [googlr](https://github.com/Astranno/googlr) - Command line tool that lets you search Google from your terminal.
+* (2,5) [googler](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
+* (2) [surfraw](https://gitlab.com/surfraw/Surfraw) - browse specific site and search the web from your terminal without browser.
 
 ## Adblocking, Security, Privacy Tools
 ### VPN
-* ( ) [CyberGhost](https://www.cyberghostvpn.com/en_US/) - CyberGhost VPN allows you to surf the Internet freely, as if in disguise, regardless of the type of application you use and from where you log in.
-* ( ) [ExpressVPN](https://www.expressvpn.com/) - ExpressVPN is the worlds fastest VPN service. It is both safe and reliable to watch and stream movies abroad, or simply access your favourite sites.
-* ( ) [IVPN](https://www.ivpn.net/) - IVPN offers a secure VPN service to privacy minded individuals including multi-hop technology and fast bandwidth.
-* ( ) [Mozilla VPN](https://www.mozilla.org/en-US/products/vpn/) - Protect your web history, feel safer on public Wi-Fi, and limit ad tracking by increasing the security of your network connection.
-* ( ) [Mullvad](https://mullvad.net/en/) - Mullvad is a VPN service that helps keep your online activity, identity, and location private.
-* ( ) [NordVPN](https://nordvpn.com/) - NordVPN gives you military-grade protection online, and you can access all your favorite sites without restriction.
-* ( ) [OpenVPN](https://openvpn.net/) - OpenVPN is a virtual private network (VPN) system that implements techniques to create secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities. It implements both client and server applications.
-* ( ) [Private Internet Access](https://www.privateinternetaccess.com/) - Private Internet Access provides state of the art, multi-layered security with advanced privacy protection using VPN tunneling.
-* ( ) [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy.
-* ( ) [PureVPN](https://www.purevpn.com/) - PureVPN is much more than your usual VPN services provider. It offers unparalleled security and anonymity, making it your only choice for a secure online browsing experience.
-* ( ) [Surfshark](https://surfshark.com/) - All you need in a VPN and more in one easy-to-use app.
-* ( ) [Tailscale](https://tailscale.com/) - Tailscale is a WireGuard-based app that makes secure, private networks easy for teams of any scale.
-* ( ) [Windscribe](https://windscribe.net/) - Browse the web privately as it was meant to be.
-* ( ) [WireGuard](https://www.wireguard.com/) - WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPsec, while avoiding the massive headache.
-* ( ) [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based "VPN for poors"
-* ( ) [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based VPN.
+* (4) [CyberGhost](https://www.cyberghostvpn.com/en_US/) - CyberGhost VPN allows you to surf the Internet freely, as if in disguise, regardless of the type of application you use and from where you log in.
+* (6) [ExpressVPN](https://www.expressvpn.com/) - ExpressVPN is the worlds fastest VPN service. It is both safe and reliable to watch and stream movies abroad, or simply access your favourite sites.
+* (4) [IVPN](https://www.ivpn.net/) - IVPN offers a secure VPN service to privacy minded individuals including multi-hop technology and fast bandwidth.
+* (4) [Mozilla VPN](https://www.mozilla.org/en-US/products/vpn/) - Protect your web history, feel safer on public Wi-Fi, and limit ad tracking by increasing the security of your network connection.
+* (4) [Mullvad](https://mullvad.net/en/) - Mullvad is a VPN service that helps keep your online activity, identity, and location private.
+* (6) [NordVPN](https://nordvpn.com/) - NordVPN gives you military-grade protection online, and you can access all your favorite sites without restriction.
+* (4) [OpenVPN](https://openvpn.net/) - OpenVPN is a virtual private network (VPN) system that implements techniques to create secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities. It implements both client and server applications.
+* (4) [Private Internet Access](https://www.privateinternetaccess.com/) - Private Internet Access provides state of the art, multi-layered security with advanced privacy protection using VPN tunneling.
+* (2) [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy.
+* (4) [PureVPN](https://www.purevpn.com/) - PureVPN is much more than your usual VPN services provider. It offers unparalleled security and anonymity, making it your only choice for a secure online browsing experience.
+* (4) [Surfshark](https://surfshark.com/) - All you need in a VPN and more in one easy-to-use app.
+* (4) [Tailscale](https://tailscale.com/) - Tailscale is a WireGuard-based app that makes secure, private networks easy for teams of any scale.
+* (4) [Windscribe](https://windscribe.net/) - Browse the web privately as it was meant to be.
+* (4) [WireGuard](https://www.wireguard.com/) - WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPsec, while avoiding the massive headache.
+* (2) [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based VPN.
 ### Proxy
-* ( ) [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - DNS proxy with support for encrypted DNS protocols,cross platform.
-* ( ) [ngrok](https://ngrok.com/) - Reverse proxy for sharing localhost
-* ( ) [Privoxy](https://www.privoxy.org/) - Privoxy is a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk.
-* ( ) [ProxyChains](https://proxychains.sourceforge.net/) - A tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.
-* ( ) [hflow](https://github.com/comradequinn/hflow) - A command-line, debugging http/s proxy server.
-* ( ) [Shadowsocks](https://shadowsocks.org/) - A secure socks5 proxy, designed to protect your Internet traffic.
-* ( ) [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive HTTPS proxy.
+* (4) [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - DNS proxy with support for encrypted DNS protocols,cross platform.
+* (4) [ngrok](https://ngrok.com/) - Reverse proxy for sharing localhost
+* (4) [Privoxy](https://www.privoxy.org/) - Privoxy is a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk.
+* (4) [ProxyChains](https://proxychains.sourceforge.net/) - A tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.
+* (4) [hflow](https://github.com/comradequinn/hflow) - A command-line, debugging http/s proxy server.
+* (4) [Shadowsocks](https://shadowsocks.org/) - A secure socks5 proxy, designed to protect your Internet traffic.
+* (4) [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive HTTPS proxy.
 ### Adblocking
-* ( ) [hblock](https://github.com/hectorm/hblock) - Hosts-file based adblocker
-* ( ) [maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
-* ( ) [Pi-Hole](https://pi-hole.net/) - Network-wide ad blocking via your own Linux hardware, using DNS filtering and re-direction Pi-Hole can block ads on a whole network, so Smartphones and Game Consoles can benefit from it in addition to computers.
+* (2) [hblock](https://github.com/hectorm/hblock) - Hosts-file based adblocker
+* (2) [maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
+* (2) [Pi-Hole](https://pi-hole.net/) - Network-wide ad blocking via your own Linux hardware, using DNS filtering and re-direction Pi-Hole can block ads on a whole network, so Smartphones and Game Consoles can benefit from it in addition to computers.
 ### Miscellaneous
-* ( ) [user.js/](https://github.com/arkenfox/user.js/)
-* ( ) [i2pd](https://github.com/PurpleI2P/i2pd) - I2P daemon written in C++.
-* ( ) [noiszy](https://noiszy.com/#how-it-works)
+* (2) [user.js/](https://github.com/arkenfox/user.js/)
+* (3) [i2pd](https://github.com/PurpleI2P/i2pd) - I2P daemon written in C++.
+* (2) [noiszy](https://noiszy.com/#how-it-works)
+### Security etc.
+* (->) [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - [A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings)
+* (4) [TRASA](https://trasa.io/)**: Zero trust access to Web, SSH, RDP, and Database services.
+* (2) [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy.
+### Firewalls
+* (PG) [FireHOL](https://firehol.org/) - Linux firewall (`iptables`) manager for humans.
+* (PG)[firewalld -](https://github.com/firewalld/firewalld -)Firewalld provides a dynamically managed firewall with support for network or firewall zones to define the trust level of network connections or interfaces.
+* (PG) [GuFW](https://gufw.org/) - One of the easiest firewalls in the world of Linux.
+* (PG)[opensnitch -](https://github.com/evilsocket/opensnitch -)OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
+* (PG) [Portmaster](https://safing.io/) - Portmaster is a free and open-source application firewall that does the heavy lifting for you. Restore privacy and take back control over all your computer’s network activity.
 
 ## Networking, SSH
-* ( ) [OpenSSH](https://www.openssh.com/) - OpenSSH Secure Shell Server and Client.
-* ( ) [iprange](https://github.com/firehol/iprange) - A very fast command line utility for processing IP lists (merge, compare, exclude, etc).
-* ( ) [FireQoS](https://docs.netdata.cloud/collectors/tc.plugin/#tcplugin) - Linux QoS (`tc`) manager for humans.
+* (2) [OpenSSH](https://www.openssh.com/) - OpenSSH Secure Shell Server and Client.
+* (4) [iprange](https://github.com/firehol/iprange) - A very fast command line utility for processing IP lists (merge, compare, exclude, etc).
+* (4) [FireQoS](https://docs.netdata.cloud/collectors/tc.plugin/#tcplugin) - Linux QoS (`tc`) manager for humans.
+* (4) [hss -](https://github.com/six-ddc/hss -)An interactive parallel ssh client featuring autocomplete and asynchronous execution. Never type the annoying ssh commands again.
+* (4) [mosh](https://github.com/mobile-shell/mosh) - Remote SSH client that achieve good responsiveness in presence of intermittent connectivity and roaming.
+* (4) [pssh](https://github.com/lilydjwg/pssh) - PSSH provides parallel versions of OpenSSH and related tools. Included are pssh, pscp, prsync, pnuke, and pslurp. The project includes psshlib which can be used within custom applications.
+* (2) [sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
+* (2) [wishlist](https://github.com/charmbracelet/wishlist) - With Wishlist you can have a single entrypoint for multiple SSH endpoints.
+* (2) [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the ssh.
+* (4) [tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client) - Connect to local servers from anywhere.
+* (4) [bore](https://github.com/ekzhang/bore) - A simple CLI tool for making tunnels to localhost.
 ### Internet Connectivity Manager
-* ( ) [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - Command line WiFi connection manager.
-* ( ) [NetworkManager](https://github.com/NetworkManager/NetworkManager) - https://networkmanager.dev/
-* ( ) [nmtui](https://github.com/heftig/NetworkManager/blob/master/tui/nmtui.c) - Text User Interface for controlling NetworkManager
+* (6) [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - Command line WiFi connection manager.
+* (4) [network-manager-applet](https://gitlab.gnome.org/GNOME/network-manager-applet/)
+* (2) [NetworkManager](https://github.com/NetworkManager/NetworkManager) - https://networkmanager.dev/
+* (2) [nmtui](https://github.com/heftig/NetworkManager/blob/master/tui/nmtui.c) - Text User Interface for controlling NetworkManager
 ### Internet Testing - Speed, Bandwidth, Connectivity / Monitoring / Scanning
-* ( ) [Angry IP Scanner](https://angryip.org/) - Fast and friendly network scanner.
-* ( ) [bandwhich](https://github.com/imsnif/bandwhich) - Track bandwidth utilization by process.
-* ( ) [bitly-client](https://github.com/specious/bitly-client) - Bitly client.
-* ( ) [bmon](https://github.com/tgraf/bmon) - Real-time network bandwidth monitor and rate estimator with human-friendly visual output
-* ( ) [brok](https://github.com/smallhadroncollider/brok) - Find broken links in text documents.
-* ( ) [cli](https://github.com/httpie/cli)
-* ( ) [deadlink](https://github.com/nschloe/deadlink) - Parses text files for HTTP URLs and checks if they are still valid. Good to use on markdown documentation files.
-* ( ) [fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com.
-* ( ) [gping](https://github.com/orf/gping) - ping but with graph, cross platform.
-* ( ) [is-reachable-cli](https://github.com/beatfreaker/is-reachable-cli) - Check if hostnames are reachable or not.
-* ( ) [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
-* ( ) [isitup](https://github.com/lord63/isitup) - Check whether a website is up or down
-* ( ) [mtr](https://github.com/traviscross/mtr) - The functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
-* ( ) [NetData](https://my-netdata.io/) - Next-gen web based real-time performance and health monitoring for physical and virtual servers, containers and IoT devices. It is also a distributed `statsd` server with automatic visualization for APM (applications performance monitoring).
-* ( ) [prettyping](https://github.com/denilsonsa/prettyping) - Making the output of `ping` prettier, more colorful, more compact, and easier to read.
-* ( ) [reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
-* ( ) [speed-test](https://github.com/sindresorhus/speed-test) - `speedtest-net` wrapper with different UI.
-* ( ) [speedtest-cli](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
-* ( ) [speedtest.net](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
-* ( ) [web-check](https://github.com/Lissy93/web-check)
-* ( ) [vl](https://github.com/ellisonleao/vl) - URL link checker on text documents
-* ( ) [vnStat](https://humdi.net/vnstat/) - vnStat is a console-based network traffic monitor that uses the network interface statistics provided by the kernel as information source. This means that vnStat won’t actually be sniffing any traffic and also ensures light use of system resources regardless of network traffic rate.
-
-* ( ) [speedtest.net](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
-* ( ) [http-tanker](https://github.com/PierreKieffer/http-tanker) - Terminal application used for API testing; easily create, manage and execute http requests from the terminal.
-* ( ) [linkchecker](https://github.com/linkchecker/linkchecker) - Check links in web documents or full websites.
-* ( ) [lychee](https://github.com/lycheeverse/lychee) - Fast, async, resource-friendly link checker written in Rust.
-* ( ) [siege](https://github.com/JoeDog/siege) - An http load testing and benchmarking utility designed to let web developers stress their code.
+* (2.5) [Angry IP Scanner](https://angryip.org/) - Fast and friendly network scanner.
+* (2) [bandwhich](https://github.com/imsnif/bandwhich) - Track bandwidth utilization by process.
+* (4) [bitly-client](https://github.com/specious/bitly-client) - Bitly client.
+* (2) [bmon](https://github.com/tgraf/bmon) - Real-time network bandwidth monitor and rate estimator with human-friendly visual output
+* (2.5) [brok](https://github.com/smallhadroncollider/brok) - Find broken links in text documents.
+* (4) [httpie cli](https://github.com/httpie/cli)
+* (2) [deadlink](https://github.com/nschloe/deadlink) - Parses text files for HTTP URLs and checks if they are still valid. Good to use on markdown documentation files.
+* (4) [fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com.
+* (2.5) [gping](https://github.com/orf/gping) - ping but with graph, cross platform.
+* (2.5) [is-reachable-cli](https://github.com/beatfreaker/is-reachable-cli) - Check if hostnames are reachable or not.
+* (4) [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
+* (2.5) [isitup](https://github.com/lord63/isitup) - Check whether a website is up or down
+* (4) [mtr](https://github.com/traviscross/mtr) - The functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
+* (4) [NetData](https://my-netdata.io/) - Next-gen web based real-time performance and health monitoring for physical and virtual servers, containers and IoT devices. It is also a distributed `statsd` server with automatic visualization for APM (applications performance monitoring).
+* (2) [prettyping](https://github.com/denilsonsa/prettyping) - Making the output of `ping` prettier, more colorful, more compact, and easier to read.
+* (4) [reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
+* (4) [speed-test](https://github.com/sindresorhus/speed-test) - `speedtest-net` wrapper with different UI.
+* (4) [speedtest-cli](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
+* (4) [speedtest.net](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
+* (4) [web-check](https://github.com/Lissy93/web-check)
+* (4) [vl](https://github.com/ellisonleao/vl) - URL link checker on text documents
+* (4) [vnStat](https://humdi.net/vnstat/) - vnStat is a console-based network traffic monitor that uses the network interface statistics provided by the kernel as information source. This means that vnStat won’t actually be sniffing any traffic and also ensures light use of system resources regardless of network traffic rate.
+* (4) [speedtest.net](https://github.com/ddsol/speedtest.net) - Test internet connection speed and ping using speedtest.net.
+* (4) [http-tanker](https://github.com/PierreKieffer/http-tanker) - Terminal application used for API testing; easily create, manage and execute http requests from the terminal.
+* (4) [linkchecker](https://github.com/linkchecker/linkchecker) - Check links in web documents or full websites.
+* (2) [lychee](https://github.com/lycheeverse/lychee) - Fast, async, resource-friendly link checker written in Rust.
+* (4) [siege](https://github.com/JoeDog/siege) - An http load testing and benchmarking utility designed to let web developers stress their code.
 ### Bluetooth
-‣ - A TUI-based Bluetooth connection manager, which can interact with Bluetooth adapters and devices. It aims to be a replacement to most Bluetooth managers, like blueman.
-### SSH, Tunnels
-*[hss -](https://github.com/six-ddc/hss -)An interactive parallel ssh client featuring autocomplete and asynchronous execution. Never type the annoying ssh commands again.
-* ( ) [mosh](https://github.com/mobile-shell/mosh) - Remote SSH client that achieve good responsiveness in presence of intermittent connectivity and roaming.
-* ( ) [pssh](https://github.com/lilydjwg/pssh) - PSSH provides parallel versions of OpenSSH and related tools. Included are pssh, pscp, prsync, pnuke, and pslurp. The project includes psshlib which can be used within custom applications.
-* ( ) [sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
-* ( ) [wishlist](https://github.com/charmbracelet/wishlist) - With Wishlist you can have a single entrypoint for multiple SSH endpoints.
-* ( ) [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the ssh.
-* ( ) [tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client) - Connect to local servers from anywhere.
-* ( ) [bore](https://github.com/ekzhang/bore) - A simple CLI tool for making tunnels to localhost.
+* (2) [bluetuith](https://github.com/darkhz/bluetuith) - A TUI-based Bluetooth connection manager, which can interact with Bluetooth adapters and devices. It aims to be a replacement to most Bluetooth managers, like blueman.
 ### Miscellaneous
 * ( ) [acmetool](https://github.com/hlandau/acmetool) - Automatic certificate acquisition for ACME (Let's Encrypt).
 * ( ) [certificate-ripper](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
@@ -189,10 +203,6 @@
 * ( ) [Wireshark](https://www.wireshark.org/) - Packet analyzer for network troubleshooting and analysis. ([GNU GPLv2](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=blob_plain;f=COPYING;hb=HEAD))
 * ( ) [HTTP Toolkit](https://httptoolkit.tech/) - an HTTP inspection & debugging desktop application
 * ( ) [sslh](https://github.com/yrutschle/sslh)
-### Security etc.
-* ( ) [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - [A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings)
-* ( ) [TRASA](https://trasa.io/)**: Zero trust access to Web, SSH, RDP, and Database services.
-* ( ) [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy.
 ### Network Tech (to sort)
 * ssh
 * ssl
@@ -207,12 +217,6 @@
 * ( ) [trurl](https://github.com/curl/trurl)
 * ( ) [wireshark](https://gitlab.com/wireshark/wireshark) - Wireshark is the world’s foremost network protocol analyzer. It lets you see what’s happening on your network at a microscopic level. It is the de facto (and often de jure) standard across many industries and educational institutions.
 * ( ) [slugify](https://github.com/benlinton/slugify) - Command that converts filenames and directories to a web friendly format
-### Firewalls
-* (PG) [FireHOL](https://firehol.org/) - Linux firewall (`iptables`) manager for humans.
-* (PG)[firewalld -](https://github.com/firewalld/firewalld -)Firewalld provides a dynamically managed firewall with support for network or firewall zones to define the trust level of network connections or interfaces.
-* (PG) [GuFW](https://gufw.org/) - One of the easiest firewalls in the world of Linux.
-* (PG)[opensnitch -](https://github.com/evilsocket/opensnitch -)OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
-* (PG) [Portmaster](https://safing.io/) - Portmaster is a free and open-source application firewall that does the heavy lifting for you. Restore privacy and take back control over all your computer’s network activity.
 ### Crawling, Scraping, Downloading
 * ( ) [Coursaros](https://github.com/SpyridonLaz/Coursaros) -  [Download videos and subtitles from https://edx.org to your computer easily.](https://github.com/SpyridonLaz/Coursaros)**
 * ( ) [aria2](https://aria2.github.io/)
@@ -235,7 +239,7 @@
 
 ## Misc Web
 * ( ) [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
-* ( ) [Servo, the parallel browser engine](https://servo.org/)
+* (7) [Servo, the parallel browser engine](https://servo.org/)
 * ( ) [bashblog](https://github.com/cfenollosa/bashblog) - A Bash script that handles blog posting
 * ( ) [CloudClip](https://github.com/skywind3000/CloudClip) - Your own clipboard in the cloud, copy and paste text with gist between different systems
 * ( ) [readability](https://github.com/mozilla/readability)

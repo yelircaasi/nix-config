@@ -1,14 +1,18 @@
 # Miscellaneous
 
+Idea: get stylus drawing / writing tablet and set it up with rnote and also with a handwriting recognition engine that I train on my handwriting, so that I can write on the pad as an alternative to typing on the keyboard.
 ## Best
 
-* ( ) [timeago](https://pub.dev/packages/timeago) - dart library for converting time to human-readable format ->
-*  [jrnl](https://jrnl.sh/en/stable/) - command-line notepad
-*  [wtf](https://github.com/wtfutil/wtf) - personal information dashboard for the terminal
-*  [khard](https://github.com/lucc/khard) - TUI vcard (contact book) manager (in Python)
+* (2)  [jrnl](https://jrnl.sh/en/stable/) - command-line notepad
+* (2)  [wtf](https://github.com/wtfutil/wtf) - personal information dashboard for the terminal
+* (2)  [khard](https://github.com/lucc/khard) - TUI vcard (contact book) manager (in Python)
 *  [remarkable](https://github.com/jonschlinkert/remarkable) - JS markdown parser
-*  [kiwix-desktop](https://github.com/kiwix/kiwix-desktop) [kiwix apps](https://kiwix.org/en/applications/) [kiwix](https://kiwix.org/en/) - offline wikipedia, maybe most relevant to Elsie
-*  [peaclock](https://github.com/octobanana/peaclock) - nice terminal clock
+* (2) [peaclock](https://github.com/octobanana/peaclock) - nice terminal clock
+
+## Language-Specific Libraries
+* (2) [kiwix-desktop](https://github.com/kiwix/kiwix-desktop) [kiwix apps](https://kiwix.org/en/applications/) [kiwix](https://kiwix.org/en/) - offline wikipedia, maybe most relevant to Elsie
+* (4) [timeago](https://pub.dev/packages/timeago) - dart library for converting time to human-readable format ->
+* (3) [egui_graphs](https://github.com/blitzarx1/egui_graphs)
 
 ## Miscellaneous
 * ( ) [undollar](https://github.com/xtyrrell/undollar) - undollar bites the dollar sign off the tip of the command you just pasted into your terminal
@@ -16,27 +20,27 @@
 * ( ) [pick-color-picker](https://kryogenix.org/code/pick/)
 
 ## Books and Reading
-* ( )  [zathura](https://pwmt.org/projects/zathura/) + [mupdf](https://mupdf.com/) 
+* (2)  [zathura](https://pwmt.org/projects/zathura/) + [mupdf](https://mupdf.com/) 
    | [apvlv](https://github.com/naihe2010/apvlv) 
    | [llpp](https://repo.or.cz/w/llpp.git) (supports synctex) 
    | [qpdfview](https://launchpad.net/qpdfview) (also supports synctex)
-* ( ) [wike](https://github.com/hugolabe/Wike)
-* ( )  [koreader](https://koreader.rocks/) 
+* (5) [wike](https://github.com/hugolabe/Wike)
+* (2)  [koreader](https://koreader.rocks/) 
    | [bookworm](https://babluboy.github.io/bookworm/) 
    | [calibre](https://calibre-ebook.com/) + [calibre-web](https://github.com/janeczku/calibre-web) 
    | [evince](https://wiki.gnome.org/Apps/Evince) 
    | [foliate](https://johnfactotum.github.io/foliate/) 
    | [okular](https://okular.kde.org/)
-* ( ) [pockyt](https://github.com/arvindch/pockyt) 
+* (5) [pockyt](https://github.com/arvindch/pockyt) 
 
 ## Editing, Document Creation
 * ( ) [scribus](https://github.com/scribusproject/scribus)
-* ( ) [xournalpp](https://xournalpp.github.io/)
+* (2) [xournalpp](https://xournalpp.github.io/)
 * ( ) [sigil](https://sigil-ebook.com/)
 * ( ) [LibreOffice Draw]()
 * ( ) [pdfarranger](https://github.com/pdfarranger/pdfarranger)
 * ( ) [pdfslicer](https://junrrein.github.io/pdfslicer/)
-* ( ) [luatex](https://gitlab.lisn.upsaclay.fr/texlive/luatex)
+* (2) [luatex](https://gitlab.lisn.upsaclay.fr/texlive/luatex)
 * ( ) [contextgarden](https://wiki.contextgarden.net/Main_Page)
 *### Reference Management
 * ( ) [scholarref](https://src.adamsgaard.dk/scholarref/) ([post](https://adamsgaard.dk/scholarref.html))
@@ -71,7 +75,7 @@
 * ( ) [libqalculate](https://github.com/Qalculate/libqalculate)
 * ( ) [dateutils](https://github.com/hroptatyr/dateutils)
 * ( ) [speedcrunch](https://bitbucket.org/heldercorreia/speedcrunch/) [link](https://bitbucket.org/heldercorreia/speedcrunch/) [link](https://heldercorreia.bitbucket.io/speedcrunch/)
-* ( ) [Qalculate](https://github.com/Qalculate/libqalculate)
+* (2) [Qalculate](https://github.com/Qalculate/libqalculate)
 * ( ) [bitwise](https://github.com/mellowcandle/bitwise)
 * ( ) [dtool](https://github.com/guoxbin/dtool)
 * ( ) [bc](https://www.gnu.org/software/bc/manual/html_mono/bc.html)
@@ -191,39 +195,38 @@
 * ( ) [Binary Clock](https://github.com/tom-on-the-internet/binary-clock) - Displays a clock where numbers are represented with blue and gray dots with binary encoding.
 
 ## Drawing
+* (2) [D2]()
 * ( ) [ASCII_Art_Paint](https://github.com/Kirilllive/ASCII_Art_Paint)
 * ( ) [vectr](https://vectr.com/)
 * ( ) [diagrams.net](https://app.diagrams.net/)
 * ( ) [js-sequence-diagrams](https://bramp.github.io/js-sequence-diagrams/)
 * ( ) [tldraw](https://tldraw.com/)
-* ( ) [excalidraw](https://excalidraw.com/) ([read](https://offbyone.us/posts/why-is-excalidraw-so-good/))
+* (2) [excalidraw](https://excalidraw.com/) ([read](https://offbyone.us/posts/why-is-excalidraw-so-good/))
 * ( ) [asciieditor](https://github.com/akirbaes/asciieditor)
 * ( ) [roughjs](https://roughjs.com/)
 * ( ) [Karbon](https://www.calligra.org/karbon/) - An open source vector drawing program.
-* ( ) [Ipe](http://ipe.otfried.org/) - Ipe is a LaTeX powered drawing editor for creating figures and presentations in PDF format. - https://ipe.otfried.org/
-* ( ) [Inkscape](https://inkscape.org/en/) - A powerful, free design tool for you , whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery.
+* (2) [Ipe](http://ipe.otfried.org/) - Ipe is a LaTeX powered drawing editor for creating figures and presentations in PDF format. - https://ipe.otfried.org/
+* (2) [Inkscape](https://inkscape.org/en/) - A powerful, free design tool for you , whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery.
 * ( ) [knotter](https://gitlab.com/mattbas/Knotter [Knotter](https://knotter.mattbas.org/Knotter) - A Program designed solely to help design and create Celtic Knots.
-* ( ) [Inkscape](https://inkscape.org/) for favicon
-* ( ) [rnote](https://github.com/flxzt/rnote
+* (2) [rnote](https://github.com/flxzt/rnote) -> even better if I get a USB stylus pad such as [this](https://www.amazon.de/-/en/Deco-Fun-Graphics-Learning-Distance/dp/B093TC1XCZ)
 * ( ) [vym](https://github.com/insilmaril/vym
 * ( ) [heimer](https://github.com/juzzlin/Heimer
 * ( ) [freeplane](https://github.com/freeplane/freeplane - https://docs.freeplane.org/
-* ( ) [inkscape](https://inkscape.org/
 * ( ) [draw](https://github.com/maaslalani/draw) - draw is an simple drawing tool in the terminal. Hold your mouse down and move it across the screen to draw anything you want!
 * ( ) [swappy](https://github.com/jtheoof/swappy
 
 ## Dashboard
-* ( ) [devdash](ttps://thedevdash.com/)
-* ( ) [wtf](https://github.com/wtfutil/wtf)
+* (2) [devdash](ttps://thedevdash.com/)
+* (2) [wtf](https://github.com/wtfutil/wtf)
 
 ## Finance
 * ( ) [cointop](https://github.com/miguelmota/cointop)
 * ( ) [CurrencyConv](https://github.com/keshavbhatt/CurrencyConv)
 
 ## News
-* ( ) [getnews.tech](https://github.com/omgimanerd/getnews.tech) (via [newsapi](https://newsapi.org/))
+* (2) [getnews.tech](https://github.com/omgimanerd/getnews.tech) (via [newsapi](https://newsapi.org/))
 *### RSS
-* ( ) [newsboat](https://github.com/newsboat/newsboat) 
+* (2.5) [newsboat](https://github.com/newsboat/newsboat) 
    | [tt-rss](https://tt-rss.org/) 
    | [FeedTheMonkey](https://github.com/jeena/FeedTheMonkey) 
    | [NewsFlash](https://apps.gnome.org/app/com.gitlab.newsflash/) 
@@ -276,7 +279,7 @@
 * ( ) [latexmk](https://www.cantab.net/users/johncollins/latexmk/)
 * ( ) []([simtex](https://github.com/iaacornus/simtex) - simtex (simplified LaTeX) allows you to convert your markdown or text lectures into LaTeX file with one command, configured with simple .json file.
 * ( ) [tectonic](https://github.com/tectonic-typesetting/tectonic)
-* ( ) [](https://yihui.org/tinytex/)
+* ( ) [tinytex](https://yihui.org/tinytex/)
 * ( ) [tlmgrlookup](https://github.com/jpfairbanks/tlmgrlookup)
 ### Jupyter & Notebook-related
 * ( ) [voila-gallery](https://github.com/voila-gallery)
@@ -313,46 +316,36 @@
 - [fontforge](https://fontforge.org/en-US/)
 
 ### GUI Markdown Editor
-* ( ) [zettlr](https://github.com/Zettlr/Zettlr) [site](https://www.zettlr.com/)  - looks phenomenal
-* ( ) [Remarkable](https://github.com/jamiemcg/Remarkable) - A capable markdown editor that uses a variant of GitHub Flavored Markdown (GFM). - fork and update (call Markdawn? Markdon?)
-* ( ) [remarkable](https://github.com/jamiemcg/remarkable) - hack for Python 3
-* ( ) [marktext](https://github.com/marktext/marktext) → advanced features, look at them and copy where possible
-* ( ) [Ghost Writer](https://ghostwriter.kde.org/) - A distraction-free Markdown editor for Windows and Linux.
-* ( ) [marker](https://github.com/fabiocolacio/Marker) - Marker is a markdown editor for linux made with GTK+-3.0.
-* ( ) [marktext](https://github.com/marktext/marktext) - MarkText is a free and open-source realtime preview markdown editor which support both CommonMark Spec and GitHub Flavored Markdown Spec. It is a concise text editor, dedicated to improving your writing efficiency.
-* ( ) [retext](https://github.com/retext-project/retext) - A Simple but powerful editor for Markdown and reStructuredText.
-- [Typora](https://typora.io/) - A Minimal markdown editor.
+* (5) [zettlr](https://github.com/Zettlr/Zettlr) [site](https://www.zettlr.com/)  - looks phenomenal
+* (5) [remarkable](https://github.com/jamiemcg/Remarkable) - A capable markdown editor that uses a variant of GitHub Flavored Markdown (GFM). - fork and update (call Markdawn? Markdon?)
+* (5) [marktext](https://github.com/marktext/marktext) → advanced features, look at them and copy where possible
+* (5) [Ghost Writer](https://ghostwriter.kde.org/) - A distraction-free Markdown editor for Windows and Linux.
+* (5) [marker](https://github.com/fabiocolacio/Marker) - Marker is a markdown editor for linux made with GTK+-3.0.
+* (5) [retext](https://github.com/retext-project/retext) - A Simple but powerful editor for Markdown and reStructuredText.
+- (6) [Typora](https://typora.io/) - minimal, CSS styling beautiful, but not FOSS
 
 ###GUI LaTeX Editor
-* ( ) [vim-latex](https://vim-latex.sourceforge.net/) - try to re-create what I like in Neovim
-* ( ) [auctex](https://www.gnu.org/software/auctex/) [link](http://git.savannah.gnu.org/cgit/auctex.git)
-* ( ) [TeXstudio](https://www.texstudio.org/) - TeXstudio’s goal is to make writing LaTeX documents as easy and comfortable as possible. [link](https://github.com/texstudio-org/texstudio)
-* ( ) [Texmaker](http://www.xm1math.net/texmaker/) - Free cross-platform LaTeX editor. [code](https://www.xm1math.net/texmaker/download.html)
-* ( ) [texworks](https://github.com/TeXworks/texworks)- [TeXworks](https://www.tug.org/texworks/) - TeXworks is an environment for authoring TeX (LaTeX, ConTeXt, etc) documents, with a Unicode-based, TeX-aware editor, integrated PDF viewer, and a clean, simple interface accessible to casual and non-technical users.
-* ( ) [LyX](https://www.lyx.org/) - Mature document editor that renders into LaTeX.
-* ( ) [GNOME LaTeX](https://gitlab.gnome.org/swilmet/gnome-latex) - GNOME LaTeX is a LaTeX editor for the GNOME desktop.
-* ( ) [Gummi](https://github.com/alexandervdm/gummi) - Simple latex editor with templates, spell check, and wizards.
+* (2) [vim-latex](https://vim-latex.sourceforge.net/) - try to re-create what I like in Neovim
+* (2) [auctex](https://www.gnu.org/software/auctex/) [link](http://git.savannah.gnu.org/cgit/auctex.git)
+* (6) [TeXstudio](https://www.texstudio.org/) - TeXstudio’s goal is to make writing LaTeX documents as easy and comfortable as possible. [link](https://github.com/texstudio-org/texstudio)
+* (5) [Texmaker](http://www.xm1math.net/texmaker/) - Free cross-platform LaTeX editor. [code](https://www.xm1math.net/texmaker/download.html)
+* (5) [texworks](https://github.com/TeXworks/texworks)- [TeXworks](https://www.tug.org/texworks/) - TeXworks is an environment for authoring TeX (LaTeX, ConTeXt, etc) documents, with a Unicode-based, TeX-aware editor, integrated PDF viewer, and a clean, simple interface accessible to casual and non-technical users.
+* (5) [LyX](https://www.lyx.org/) - Mature document editor that renders into LaTeX.
+* (6) [GNOME LaTeX](https://gitlab.gnome.org/swilmet/gnome-latex) - GNOME LaTeX is a LaTeX editor for the GNOME desktop.
+* (6) [Gummi](https://github.com/alexandervdm/gummi) - Simple latex editor with templates, spell check, and wizards.
 
 ## Web IDE / Notebook
-* ( ) [godbolt](https://godbolt.org/) Compiler Explorer [gh](https://github.com/compiler-explorer/compiler-explorer) Amazing tool, need to use this for RosettaProjects and read about how it works~~
-* ( ) [devsession](https://devsession.is/)
-* ( ) [phcode](https://phcode.dev/)  - looks good
-* ( ) [Replit](https://replit.com/): Collaborative browser based IDE with support for 50+ different languages. - good for painlessly trying things out
-* ( ) [](https://github.com/theia-ide/theia) Theia is a cloud & desktop IDE framework implemented in TypeScript. - looks nice, worth a try
-* ( ) [Eclipse Orion](https://orionhub.org/): A modern, open source software development environment that runs in the cloud. Code, deploy, and run in the cloud.
-* ( ) [Eclipse Che](http://www.eclipse.org/che): Developer workspace server, cloud IDE, and Eclipse next-generation IDE. (runs on k8s)
-* ( ) [ml-workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based development environment for machine learning and data science. [ml-tooling/ml-workspace: 🛠 All-in-one web-based IDE specialized for machine learning and data science.](https://github.com/ml-tooling/ml-workspace) → fork and update
-* ( ) [github.dev](https://github.dev/github/dev) - good for github repos
-* ( ) [idx](https://idx.dev/)  - follow
-* ( ) [dagshub](https://dagshub.com/)
-* ( ) [monaco-editor](https://github.com/microsoft/monaco-editor) - Github code repository for underlying browser-based editor - hack around with
-* ( ) [codebox](https://github.com/CodeboxIDE/codebox) - just ack around with, check out
-* ( ) [CoCalc](https://cocalc.com/): Lots of free software pre-installed, to chat, collaborate, develop, program, publish, research, share, teach, in C++, HTML, Julia, Jupyter, LaTeX, Markdown, Python, R, SageMath, Scala, … - just check out
-## Luarock
-- [vim2rockspec](https://github.com/teto/vim2rockspec)
-#### [Service](https://yutkat.github.io/my-neovim-pluginlist/#service)
-- [nvim-docsearch](https://github.com/dzfrias/nvim-docsearch)
-## Config share
-- [dotfyle](https://github.com/codicocodes/dotfyle)
-- drawing / other special effects
-- [nabla.nvim](https://github.com/jbyuki/nabla.nvim)
+* (2) [godbolt](https://godbolt.org/) Compiler Explorer [gh](https://github.com/compiler-explorer/compiler-explorer) Amazing tool, need to use this for RosettaProjects and read about how it works~~
+* (4) [devsession](https://devsession.is/)
+* (3) [phcode](https://phcode.dev/)  - looks good
+* (2) [Replit](https://replit.com/): Collaborative browser based IDE with support for 50+ different languages. - good for painlessly trying things out
+* (4) [](https://github.com/theia-ide/theia) Theia is a cloud & desktop IDE framework implemented in TypeScript. - looks nice, worth a try
+* (4) [Eclipse Orion](https://orionhub.org/): A modern, open source software development environment that runs in the cloud. Code, deploy, and run in the cloud.
+* (4) [Eclipse Che](http://www.eclipse.org/che): Developer workspace server, cloud IDE, and Eclipse next-generation IDE. (runs on k8s)
+* (5) [ml-workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based development environment for machine learning and data science. [ml-tooling/ml-workspace: 🛠 All-in-one web-based IDE specialized for machine learning and data science.](https://github.com/ml-tooling/ml-workspace) → fork and update
+* (3) [github.dev](https://github.dev/github/dev) - good for github repos
+* (6) [idx](https://idx.dev/)  - follow
+* (3) [dagshub](https://dagshub.com/)
+* (6) [monaco-editor](https://github.com/microsoft/monaco-editor) - Github code repository for underlying browser-based editor - hack around with
+* (4) [codebox](https://github.com/CodeboxIDE/codebox) - just ack around with, check out
+* (4) [CoCalc](https://cocalc.com/): Lots of free software pre-installed, to chat, collaborate, develop, program, publish, research, share, teach, in C++, HTML, Julia, Jupyter, LaTeX, Markdown, Python, R, SageMath, Scala, … - just check out

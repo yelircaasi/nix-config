@@ -1,5 +1,9 @@
 #### [Completion](https://yutkat.github.io/my-neovim-pluginlist/#completion)
  
+ [cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp)
+ [cmp-path](https://github.com/hrsh7th/cmp-path)
+ [cmp_luasnip](https://github.com/saadparwaiz1/cmp_luasnip)
+ [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
 * ( ) [completor](https://github.com/maralla/completor.vim) - async autocomplete with support for omni and semantic completion.
 * ( ) [cmp-ai](https://github.com/tzachar/cmp-ai)
 * ( ) [cmp-async-path](https://github.com/FelipeLema/cmp-async-path)
@@ -26,10 +30,6 @@
 * ( ) [cmp-neurogenesis](https://github.com/jordanvieler/cmp-neurogenesis)
 * ( ) [cmp-npm](https://github.com/David-Kunz/cmp-npm)
 * ( ) [cmp-nvim-lsp-document-symbol](https://github.com/hrsh7th/cmp-nvim-lsp-document-symbol)
- [cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp)
- [cmp-path](https://github.com/hrsh7th/cmp-path)
- [cmp_luasnip](https://github.com/saadparwaiz1/cmp_luasnip)
- [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
 * ( ) [cmp-nvim-lsp-signature-help](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help)
 * ( ) [cmp-nvim-lua](https://github.com/hrsh7th/cmp-nvim-lua)
 * ( ) [cmp-nvim-tags](https://github.com/quangnguyen30192/cmp-nvim-tags)

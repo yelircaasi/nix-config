@@ -9,6 +9,8 @@
     #./environments/x11/wm/i3
     #./environments/x11/wallpaper/nitrogen
     #./environments/x11/compositor/picom
+
+    ./environments/wayland/wm/hyprland
   ];
 
   nixpkgs = {

@@ -37,41 +37,117 @@
   outputs = {
     self,
     nixpkgs,
-    home-manager,
+home-manager,
     ...
   } @ inputs: let
     g = import ./global-inputs {inherit inputs;};
-    helpers = import ./helper-functions.nix {inherit inputs g;};
+    helpers = import ./helper-functions.nix {inherit inputs g ;};
 
-    defaultDeviceDeclaration = {};
+    mkDeviceDeclaration = declaration: {
+        defaultShell = "bash";
+        otherShells = [];
+        compositors = [];
+        desktopEnvironments = [];
+        nvidia = false;
+        pipewire = true;
+        jack = true;
+        networkmanager = true;
+        wayland = false;
+        x11 = false;
+        ssh-server = true;
+        docker = false;
+        podman = false;
+        printing = false;
+        extraGroups = ["networkmanager" "wheel"];
+        extraSystemPackageNames = [];
+        additionalModules = [];
+    } // declaration;
 
     deviceDeclarations = [
-      (defaultDeviceDeclaration
-        // {
+      (mkDeviceDeclaration {
           name = "betsy";
+          description = "Personal laptop - Tuxedo Aura 15";
           defaultShell = "bash";
-          shells = ["bash"];
-          windowManager = "hyprland";
+          otherShells = ["bash"];
+          windowManagers = ["hyprland" "sway" "swayfx"];
           additionalModules = [];
         })
-      (defaultDeviceDeclaration
-        // {
+      (mkDeviceDeclaration {
           name = "hank";
+          description = "Work laptop - Tuxedo Stellaris 15 (with NVIDIA GeForce RTX 3080 GPU)";
           defaultShell = "bash";
-          shells = ["bash"];
-          windowManager = "hyprland";
-          additionalModules = [
-            #inputs.nix-snapd.nixosModules.default { services.snap.enable = true; }
-          ];
+          otherShells = ["bash"];
+          compositors = ["hyprland" "sway" "swayfx"];
+          desktopEnvironments = ["gnome"];
+          nvidia = true;
+          pipewire = true;
+          jack = false;
+          networkmanager = true;
+          wayland = true;
+          x11 = true;
+          ssh-server = true;
+          docker = true;
+          podman = true;
+          printing = true;
         })
-      (defaultDeviceDeclaration
-        // {
-          name = "malina";
+/*
+        (mkDeviceDeclaration {
+          name = "elsie";
+          description = "Dell Inspiron 14 - old, underpowered, and 32-bit (i686), used primarily for reading and note-taking while traveling; also good for experimentation";
           defaultShell = "bash";
           shells = ["bash"];
-          windowManager = null;
+          windowManager = [];
           additionalModules = [];
         })
+      (mkDeviceDeclaration {
+          name = "malina";
+          description = "Raspberry Pi 3b+, aarch64 - non-GUI, primarily home server";
+          defaultShell = "bash";
+          otherShells = ["bash"];
+          compositors = [];
+          additionalModules = [];
+        })
+      (mkDeviceDeclaration {
+          name = "khmara";
+          description = "Linode cloud device";
+          defaultShell = "bash";
+          otherShells = ["bash"];
+          compositors = [];
+          additionalModules = [];
+        })
+      (mkDeviceDeclaration {
+          name = "doxie";
+          description = "Lightweight non-GUI development environment, suitable for use containers (see yelircaasi/nix on Dockerhub)";
+          defaultShell = "bash";
+          otherShells = ["bash"];
+          compositors = [];
+          additionalModules = [];
+        })
+      (mkDeviceDeclaration {
+          name = "delilah";
+          description = "Lightweight non-GUI environment, primarily for experimentation";
+          defaultShell = "bash";
+          otherShells = ["bash"];
+          compositors = [];
+          additionalModules = [];
+        })
+      (mkDeviceDeclaration {
+          name = "ferris";
+          description = "nix-on-Droid on LineageOS running on Fairphone 4";
+          defaultShell = "bash";
+          otherShells = ["bash"];
+          compositors = [];
+          additionalModules = [];
+        })
+      (mkDeviceDeclaration {
+          name = "charlie";
+          description = "nix-mobile on Fairphone 4";
+          defaultShell = "bash";
+          otherShells = ["bash"];
+          compositors = [];
+          additionalModules = [];
+        })
+*/ 
     ];
   in {
     nixosConfigurations = helpers.makeNixosConfigurations deviceDeclarations;

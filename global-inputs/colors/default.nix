@@ -164,60 +164,110 @@ in rec {
     Delimiter = {fg = delimiter;};
     NeotreeFileName = {fg = filename;};
 
-    Search = { fg = "#8AA88A"; bg = "#003600"; };
-    CurSearch = { fg = "#809880"; bg = "#002600"; };
-    StatusLine = { fg = "#000a00"; bg = "#809880"; };
-    StatusLineNC = { fg = "#000a00"; bg = "#809880"; };
-    Visual = { fg = "#061815"; bg = "#0d8f77"; };
-    Folded = { inherit fg; bg = "#001300"; };
-    DiffAdd = { fg = "#668366"; bg = "#002200"; };
-    DiffChange = { fg = "#7f86f3"; bg = "#050a58"; };
-    DiffDelete = { fg = "#d5776f"; bg = "#380905"; };
-    DiffText = { fg = "#050a58"; bg = "#7f86f3"; };
-    Pmenu = { fg = "#505ad6"; bg = "#000800"; };
-    PmenuSel = { fg = "#737df1"; bg = "#002600"; };
-    PmenuThumb = { fg = "#888888"; bg = "#777777"; };
-    CursorColumn = { bg = "#000e00"; };
-    CursorLine = { bg = "#000e00"; };
-    ColorColumn = { bg = "#9b73f1"; };
-    WinBar = { fg = "#dddddd"; inherit bg; };
-    WinBarNC = { fg = "#dddddd"; inherit bg; };
-    FloatShadow = { bg = "#002600"; };
-    FloatShadowThrough = { bg = "#118811"; };
-    MatchParen = { fg = "#180322"; bg = "#51136e"; };
-    RedrawDebugClear = { bg = "#dddddd"; };
-    RedrawDebugComposed = { bg = "#dddddd"; };
-    RedrawDebugRecompose = { bg = "#dddddd"; };
-    Error = { fg = error; inherit bg; };
+    Search = {
+      fg = "#8AA88A";
+      bg = "#003600";
+    };
+    CurSearch = {
+      fg = "#809880";
+      bg = "#002600";
+    };
+    StatusLine = {
+      fg = "#000a00";
+      bg = "#809880";
+    };
+    StatusLineNC = {
+      fg = "#000a00";
+      bg = "#809880";
+    };
+    Visual = {
+      fg = "#061815";
+      bg = "#0d8f77";
+    };
+    Folded = {
+      inherit fg;
+      bg = "#001300";
+    };
+    DiffAdd = {
+      fg = "#668366";
+      bg = "#002200";
+    };
+    DiffChange = {
+      fg = "#7f86f3";
+      bg = "#050a58";
+    };
+    DiffDelete = {
+      fg = "#d5776f";
+      bg = "#380905";
+    };
+    DiffText = {
+      fg = "#050a58";
+      bg = "#7f86f3";
+    };
+    Pmenu = {
+      fg = "#505ad6";
+      bg = "#000800";
+    };
+    PmenuSel = {
+      fg = "#737df1";
+      bg = "#002600";
+    };
+    PmenuThumb = {
+      fg = "#888888";
+      bg = "#777777";
+    };
+    CursorColumn = {bg = "#000e00";};
+    CursorLine = {bg = "#000e00";};
+    ColorColumn = {bg = "#9b73f1";};
+    WinBar = {
+      fg = "#dddddd";
+      inherit bg;
+    };
+    WinBarNC = {
+      fg = "#dddddd";
+      inherit bg;
+    };
+    FloatShadow = {bg = "#002600";};
+    FloatShadowThrough = {bg = "#118811";};
+    MatchParen = {
+      fg = "#180322";
+      bg = "#51136e";
+    };
+    RedrawDebugClear = {bg = "#dddddd";};
+    RedrawDebugComposed = {bg = "#dddddd";};
+    RedrawDebugRecompose = {bg = "#dddddd";};
+    Error = {
+      fg = error;
+      inherit bg;
+    };
 
-    SpecialKey = { fg = "#491d5e";};
-    NonText = { fg = "#191d4c";};
-    ErrorMsg = { fg = error;};
-    MoreMsg = { fg = "#1db6c5";};
-    ModeMsg = { fg = "#376808";};
-    LineNr = { fg = "#002b00";};
-    Question = { fg = "#402967";};
-    WarningMsg = { fg = warn;};
-    SignColumn = { fg = "#1b8984"; };
-    Conceal = { inherit fg bg; };
-    QuickFixLine = { fg = "#A30101";};
-    Special = { fg = "#49125e";};
-    DiagnosticError = { fg = error;};
-    DiagnosticFloatingWarn = { fg = warn;};
-    DiagnosticWarn = { fg = warn;};
-    DiagnosticFloatingInfo = { fg = info;};
-    DiagnosticInfo = { fg = info;};
-    DiagnosticFloatingHint = { fg = hint;};
-    DiagnosticHint = { fg = hint;};
-    DiagnosticFloatingOk = { fg = info;};
-    DiagnosticOk = { fg = info;};
-    Added = { fg = "#368366";};
-    at_diff_minus = { fg = "#d5776f";};
-    Removed = { fg = "#d5776f";};
-    Changed = { fg = "#7f86f3";};
-    CmpItemAbbrDeprecatedDefault = { fg = "#ffffff";};
-    CmpItemKindDefault = { fg = "#eeeeee";};
-
+    SpecialKey = {fg = "#491d5e";};
+    NonText = {fg = "#191d4c";};
+    ErrorMsg = {fg = error;};
+    MoreMsg = {fg = "#1db6c5";};
+    ModeMsg = {fg = "#376808";};
+    LineNr = {fg = "#002b00";};
+    Question = {fg = "#402967";};
+    WarningMsg = {fg = warn;};
+    SignColumn = {fg = "#1b8984";};
+    Conceal = {inherit fg bg;};
+    QuickFixLine = {fg = "#A30101";};
+    Special = {fg = "#49125e";};
+    DiagnosticError = {fg = error;};
+    DiagnosticFloatingWarn = {fg = warn;};
+    DiagnosticWarn = {fg = warn;};
+    DiagnosticFloatingInfo = {fg = info;};
+    DiagnosticInfo = {fg = info;};
+    DiagnosticFloatingHint = {fg = hint;};
+    DiagnosticHint = {fg = hint;};
+    DiagnosticFloatingOk = {fg = info;};
+    DiagnosticOk = {fg = info;};
+    Added = {fg = "#368366";};
+    at_diff_minus = {fg = "#d5776f";};
+    Removed = {fg = "#d5776f";};
+    Changed = {fg = "#7f86f3";};
+    CmpItemAbbrDeprecatedDefault = {fg = "#ffffff";};
+    CmpItemKindDefault = {fg = "#eeeeee";};
 
     RainbowDelimiter1 = "#2b1400";
     RainbowDelimiter2 = "#4f473b";

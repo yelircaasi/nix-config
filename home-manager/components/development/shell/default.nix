@@ -8,60 +8,18 @@
   ...
 }: let
   # shared = import ./shared-assets {inputs};
-  resolveShellImport = shellNames: map (name: ./${name}) shellNames;
+  resolveShellImport = deviceConfig: map (name: ./${name}) ([deviceConfig.defaultShell] ++ deviceConfig.otherShells);
 in {
   imports = inputs.nixpkgs.lib.unique ([
       ./common
     ]
-    ++ (resolveShellImport deviceConfig.shells));
+    ++ (resolveShellImport deviceConfig));
 
   programs.starship = {
     enable = true;
     # Configuration written to ~/.config/starship.toml
-    settings = {
-      # add_newline = false;
-
-      # character = {
-      #   success_symbol = "[➜](bold green)";
-      #   error_symbol = "[➜](bold red)";
-      # };
-
-      # package.disabled = true;
-    };
+    settings = {};
   };
-  # nixpkgs = {
-  #   # You can add overlays here
-  #   overlays = [
-  #     # If you want to use overlays exported from other flakes:
-  #     # neovim-nightly-overlay.overlays.default
-
-  #     # Or define it inline, for example:
-  #     # (final: prev: {
-  #     #   hi = final.hello.overrideAttrs (oldAttrs: {
-  #     #     patches = [ ./change-hello-to-hi.patch ];
-  #     #   });
-  #     # })
-  #   ];
-  #   # Configure your nixpkgs instance
-  #   config = {
-  #     # Disable if you don't want unfree packages
-  #     allowUnfree = true;
-  #     # Workaround for https://github.com/nix-community/home-manager/issues/2942
-  #     allowUnfreePredicate = _: true;
-  #   };
-  # };
-
-  # home = {
-  #   username = "isaac";
-  #   homeDirectory = "/home/isaac";
-  #   # https://nixos.wiki/wiki/FAQ/When_do_I_update_stateVersion
-  #   home.stateVersion = "23.11";
-  #   packages = with pkgs; [
-  #     docker
-
-  #   ];
-
-  # };
 
   programs.bash.enable = true;
 
@@ -74,8 +32,10 @@ in {
     c = "clear";
     g = "git status";
     ga = "git add .";
-    alej = "alejandra";
-    cudaenv = "sudo docker run --gpus all -it --rm --dns 8.8.8.8 --dns 8.8.4.4 --name nlq -v /home/isaac/repos:/root/repos -v /home/isaac/data:/root/data -v /home/isaac/.ssh:/root/.ssh -v /home/isaac/.config/pypoetry:/root/.config/pypoetry -v /home/isaac/.cache/torch:/root/.cache/torch -v /home/isaac/.cache/huggingface:/root/.cache/huggingface nvidia:poetry";
+    gs = "git status";
+    gcm = "git commit -m";
+    alej = "alejandra .";
+    cudaenv = "docker run --gpus all -it --rm --dns 8.8.8.8 --dns 8.8.4.4 --name nlq -v /home/isaac/repos:/root/repos -v /home/isaac/data:/root/data -v /home/isaac/.ssh:/root/.ssh -v /home/isaac/.config/pypoetry:/root/.config/pypoetry -v /home/isaac/.cache/torch:/root/.cache/torch -v /home/isaac/.cache/huggingface:/root/.cache/huggingface nvidia:poetry";
   };
 
   #home.file."./.bashrc".source = ./bashrc;

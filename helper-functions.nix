@@ -4,31 +4,59 @@
 }: rec {
   makeNixosConfig = {
     name,
-    defaultShell ? "bash",
-    shells ? ["bash"],
-    windowManager ? null,
+    description,
+    defaultShell,
+    otherShells,
+    compositors,
+    desktopEnvironments,
+    nvidia,
+    pipewire,
+    jack,
+    networkmanager,
+    wayland,
+    x11,
+    ssh-server,
+    docker,
+    podman,
+    printing,
+    extraGroups,
+    extraSystemPackageNames,
     additionalModules,
   } @ deviceConfig:
     inputs.nixpkgs.lib.nixosSystem {
-      specialArgs = {inherit inputs g deviceConfig; };#lib = inputs.nixpkgs.lib; };
+      specialArgs = {inherit inputs g deviceConfig;}; #lib = inputs.nixpkgs.lib; };
       modules =
         [
-          ./nixos/${name}-configuration.nix
+          ./nixos/${deviceConfig.name}-configuration.nix
         ]
         ++ additionalModules;
     };
 
   makeHomeManagerConfig = {
     name,
-    defaultShell ? "bash",
-    shells ? ["bash"],
-    windowManager ? null,
-    additionalModules ? [],
+    description,
+    defaultShell,
+    otherShells,
+    compositors,
+    desktopEnvironments,
+    nvidia,
+    pipewire,
+    jack,
+    networkmanager,
+    wayland,
+    x11,
+    ssh-server,
+    docker,
+    podman,
+    printing,
+    extraGroups,
+    extraSystemPackageNames,
+    additionalModules,
   } @ deviceConfig:
     inputs.home-manager.lib.homeManagerConfiguration {
       pkgs = inputs.nixpkgs.legacyPackages.x86_64-linux;
-      extraSpecialArgs = {inherit inputs g deviceConfig; };#lib = inputs.nixpkgs.lib; };
-      modules = [./home-manager/${name}.nix] ++ additionalModules;
+      extraSpecialArgs = {inherit inputs g deviceConfig;}; #lib = inputs.nixpkgs.lib; };
+      modules = [./home-manager/${deviceConfig.name}.nix] ++ additionalModules;
     };
 
   makeNixosConfigurations = deviceDeclarationList:

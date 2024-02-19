@@ -1,5 +1,6 @@
 {lib}: let
-  adapt = import ./app-specific-keyname-formatters.nix;
+  adapters = import ./app-specific-keyname-formatters.nix;
+  convert = appName: keyName: adapters.${appName} keyName;
 in rec {
   # ============================================================================
   common = {
@@ -26,7 +27,7 @@ in rec {
       nerdFontFavorites = "?";
     };
 
-    # modifies the key pressed next; does not need to be held
+    # modifies the key pressed next; does not need to be held -> rename to prefix?
     layerStickyMods = {
     };
   };
@@ -48,6 +49,23 @@ in rec {
     };
     bar = {};
     widgets = {};
+  };
+
+  hyprland = rec {
+    mod = convert "hyprland" desktop.wm.mod;
+    modAlias = "$mainMod";
+    left = common.move.left;
+    down = common.move.down;
+    up = common.move.up;
+    right = common.move.right;
+    killActive = {
+      mod = modAlias;
+      base = convert "hyprland" common.base.kill;
+    };
+  };
+
+  sway = {
+    mod = convert desktop.wm.mod sway;
   };
 
   # ============================================================================

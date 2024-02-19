@@ -1,9 +1,41 @@
-{
-  i3-sway = keyname:
-    {
-      ctrl = "mod1";
-    }
-    .${keyname};
+let
+  getKeyName = keyNameAttrSet: keyName: keyNameAttrSet.${keyName};
+in {
+  sway = getKeyName {
+    ctrl = "mod1";
+  };
 
-  nvim = keyname: {}.${keyname};
+  nvim = getKeyName {};
+
+  hyprland = getKeyName {
+    super = "SUPER";
+    a = "A";
+    b = "B";
+    c = "C";
+    d = "D";
+    e = "E";
+    f = "F";
+    g = "G";
+    h = "H";
+    i = "I";
+    j = "J";
+    k = "K";
+    l = "L";
+    m = "M";
+    n = "N";
+    o = "O";
+    p = "P";
+    q = "Q";
+    r = "R";
+    s = "S";
+    t = "T";
+    u = "U";
+    v = "V";
+    w = "W";
+    x = "X";
+    y = "Y";
+    z = "Z";
+  };
+
+  kanata = getKeyName {};
 }

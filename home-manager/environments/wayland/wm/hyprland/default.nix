@@ -1,13 +1,27 @@
-{ inputs, pkgs, g, ... }: {
+{
+  inputs,
+  pkgs,
+  g,
+  ...
+}: {
+  imports = [
+  ];
   # Additional dependencies
   home.packages = with pkgs; [
     # custom.screenshot
     hyprland-autoname-workspaces
     hyprpicker # color picker
     wlogout
+    hyprpaper
     # mpvpaper # Live wallpaper
     # scratchpad
   ];
+
+  xdg.configFile."./hypr/hyprpaper.conf".text = ''
+    preload = /home/isaac/Pictures/river2.jpg
+    wallpaper = eDP-2,/home/isaac/Pictures/river2.jpg
+    wallpaper = HDMI-A-1,/home/isaac/Pictures/river2.jpg
+  '';
 
   wayland.windowManager.hyprland =
     # let
@@ -17,196 +31,197 @@
       enable = true;
       # catppuccin.enable = true;
       plugins = [
-       # inputs.hyprland-plugins.packages.${pkgs.system}.hyprtrails
+        # inputs.hyprland-plugins.packages.${pkgs.system}.hyprtrails
       ];
-      settings =
-        {
-          # Execute your favorite apps at launch
-          exec-once = [
-            "wezterm"
-            ## Set up live wallpaper
-            ## https://moewalls.com/pixel-art/cyberpunk-rain-city-pixel-live-wallpaper/
-            # "mpvpaper -o 'no-audio loop' HDMI-A-1 '/etc/nixos/assets/wallpaper.mp4'"
-            # "eww open bar"
-            # "hyprland-autoname-workspaces"
-            ## "armcord"
-            # "steam -silent"
-          ];
+      settings = {
+        # Execute your favorite apps at launch
+        exec-once = [
+          "wezterm"
+          "hyprpaper"
+          # "hyprland-autoname-workspaces"
+          ## Set up live wallpaper
+          ## https://moewalls.com/pixel-art/cyberpunk-rain-city-pixel-live-wallpaper/
+          # "mpvpaper -o 'no-audio loop' HDMI-A-1 '/etc/nixos/assets/wallpaper.mp4'"
+          # "eww open bar"
+          ## "armcord"
+          # "steam -silent"
+        ];
 
-          general = {
-            gaps_in = 5;
-            gaps_out = 20;
-            border_size = 2;
-            # "col.active_border" = "0xee$lavenderAlpha 0xee${accent}Alpha 45deg";
-            # "col.inactive_border" = "0xaa$overlay0Alpha 0xaa$mantleAlpha 45deg";
+        general = {
+          gaps_in = 5;
+          gaps_out = 20;
+          border_size = 2;
+          # "col.active_border" = "0xee$lavenderAlpha 0xee${accent}Alpha 45deg";
+          # "col.inactive_border" = "0xaa$overlay0Alpha 0xaa$mantleAlpha 45deg";
 
-            layout = "dwindle";
-            cursor_inactive_timeout = 60;
-          };
-
-          decoration = {
-            # See https://wiki.hyprland.org/Configuring/Variables/ for more
-            rounding = 10;
-
-            blur = {
-              enabled = true;
-              size = 3;
-              passes = 1;
-            };
-
-            drop_shadow = true;
-            shadow_range = 4;
-            shadow_render_power = 3;
-            "col.shadow" = "$base";
-          };
-
-          animations = {
-            enabled = true;
-
-            # Some default animations, see https://wiki.hyprland.org/Configuring/Animations/ for more
-            bezier = "myBezier, 0.05, 0.9, 0.1, 1.05";
-
-            animation = [
-              "windows, 1, 7, myBezier"
-              "windowsOut, 1, 7, default, popin 80%"
-              "border, 1, 10, default"
-              "borderangle, 1, 8, default"
-              "fade, 1, 7, default"
-              "workspaces, 1, 6, default"
-            ];
-          };
-
-          dwindle = {
-            # See https://wiki.hyprland.org/Configuring/Dwindle-Layout/ for more
-            pseudotile = true; # master switch for pseudotiling. Enabling is bound to mainMod + P in the keybinds section below
-            preserve_split = true; # you probably want this
-          };
-
-          # See https://wiki.hyprland.org/Configuring/Master-Layout/ for more
-          master.new_is_master = true;
-
-          # See https://wiki.hyprland.org/Configuring/Variables/ for more
-          gestures.workspace_swipe = false;
-
-          group = {
-            "col.border_active" = "0xee$yellowAlpha";
-            "col.border_inactive" = "0xaa$overlay0Alpha 0xaa$yellowAlpha 45deg";
-            "col.border_locked_active" = "0xee$yellowAlpha 0xee$redAlpha 45deg";
-            "col.border_locked_inactive" = "0xaa$overlay0Alpha 0xaa$redAlpha 45deg";
-            groupbar = {
-              text_color = "$text";
-            };
-          };
-
-          misc = {
-            disable_hyprland_logo = true;
-            disable_splash_rendering = true;
-            enable_swallow = true;
-            swallow_regex = "^(org.wezfurlong.wezterm)$";
-          };
-
-          # Window rules
-          windowrulev2 = [
-            "float, class:^(wlogout|pavucontrol|nmtui)$"
-            "workspace 1, class:^(lutris)$"
-            "workspace 2, class:^(nyxt)$"
-            "workspace 3, class:^(filemanager)$"
-            "workspace 4 silent, class:^(ArmCord)$"
-            "workspace 5, title:^(Spotify.*)$"
-            # Inhibit idle on fullscreen programs where keyboard/mouse may not be used for a while
-            "idleinhibit fullscreen, class:^(FreeTube)$"
-          ];
-
-          "$mainMod" = "SUPER";
-
-          "$opener" = "handlr launch";
-          "$term" = "$opener x-scheme-handler/terminal --";
-
-          # Vim-style homerow direction keys
-          "$left" = "h";
-          "$down" = "j";
-          "$up" = "k";
-          "$right" = "l";
-
-          "$menu" = "fuzzel";
-
-          "$scratchpad" = "scratchpad -m '$menu --dmenu'";
-
-          # Example binds, see https://wiki.hyprland.org/Configuring/Binds/ for more
-          bind = inputs.nixpkgs.lib.flatten [
-            "$mainMod, Return, exec, $term"
-            "$mainMod, Q, killactive,"
-            "$mainMod SHIFT, Q, exec, wlogout"
-            # Run in shell to ensure file manager sees environment variables
-            # TODO: figure out how to un-hard-code shell
-            # TODO: figure out how to open selected file when exiting without hard-coding xplr
-            "$mainMod, N, exec, $term --class=filemanager -- fish -c 'handlr open (xplr)'"
-            "$mainMod, V, togglefloating,"
-            "$mainMod, R, exec, pkill $menu || $menu"
-            "$mainMod, W, exec, wezterm"
-            "$mainMod, P, pseudo, # dwindle"
-            "$mainMod, S, togglesplit, # dwindle"
-            "$mainMod, D, exec, hyprctl keyword general:layout dwindle"
-            "$mainMod, M, exec, hyprctl keyword general:layout master"
-            "$mainMod, O, exec, $opener x-scheme-handler/https"
-            "$mainMod, G, togglegroup"
-            "$mainMod, F, fullscreen"
-            "$mainMod, C, exec, hyprpicker --autocopy"
-            "$mainMod SHIFT, G, lockactivegroup, toggle"
-            "$mainMod, bracketleft, changegroupactive, b"
-            "$mainMod, bracketright, changegroupactive, f"
-            ", Print, exec, screenshot.sh"
-            ", XF86AudioPlay, exec, playerctl play-pause"
-            "CTRL ALT, delete, exec, hyprctl kill"
-            "$mainMod, Z, exec, $scratchpad"
-            "$mainMod SHIFT, Z, exec, $scratchpad -g"
-
-            # Move focus with mainMod + direction keys
-            # Move active window with mainMod + SHIFT + direction keys
-            (builtins.map
-              (key:
-                let
-                  dir = (builtins.elemAt (inputs.nixpkgs.lib.strings.stringToCharacters key) 1);
-                in
-                [
-                  "$mainMod, ${key}, movefocus, ${dir}"
-                  "$mainMod SHIFT, ${key}, movewindoworgroup, ${dir}"
-                ]
-              )
-              [ "$left" "$down" "$up" "$right" ])
-
-            # Switch workspaces with mainMod + [0-9]
-            # Move active window to a workspace with mainMod + SHIFT + [0-9]
-            (builtins.genList
-              (x:
-                let
-                  ws = x + 1;
-                  key = toString (inputs.nixpkgs.lib.trivial.mod ws 10);
-                in
-                [
-                  "$mainMod, ${key}, workspace, ${toString ws}"
-                  "$mainMod SHIFT, ${key}, movetoworkspace, ${toString ws}"
-                ]
-              )
-              10)
-
-            # Scroll through existing workspaces with mainMod + scroll
-            "$mainMod, mouse_down, workspace, e+1"
-            "$mainMod, mouse_up, workspace, e-1"
-          ];
-
-          "$LMB" = "mouse:272";
-          "$RMB" = "mouse:275";
-
-          bindm = [
-            # Move/resize windows with mainMod + LMB/RMB and dragging
-            "$mainMod, $LMB, movewindow"
-            "$mainMod, $RMB, resizewindow"
-          ];
-
+          layout = "dwindle";
+          cursor_inactive_timeout = 60;
         };
-      extraConfig = #hypr
+
+        decoration = {
+          # See https://wiki.hyprland.org/Configuring/Variables/ for more
+          rounding = 5;
+
+          blur = {
+            enabled = true;
+            size = 3;
+            passes = 1;
+          };
+
+          drop_shadow = true;
+          shadow_range = 4;
+          shadow_render_power = 3;
+          "col.shadow" = "$base";
+        };
+
+        animations = {
+          enabled = true;
+
+          # Some default animations, see https://wiki.hyprland.org/Configuring/Animations/ for more
+          bezier = "myBezier, 0.05, 0.9, 0.1, 1.05";
+
+          animation = [
+            "windows, 1, 7, myBezier"
+            "windowsOut, 1, 7, default, popin 80%"
+            "border, 1, 10, default"
+            "borderangle, 1, 8, default"
+            "fade, 1, 7, default"
+            "workspaces, 1, 6, default"
+          ];
+        };
+
+        dwindle = {
+          # See https://wiki.hyprland.org/Configuring/Dwindle-Layout/ for more
+          pseudotile = true; # master switch for pseudotiling. Enabling is bound to mainMod + P in the keybinds section below
+          preserve_split = true; # you probably want this
+        };
+
+        # See https://wiki.hyprland.org/Configuring/Master-Layout/ for more
+        master.new_is_master = true;
+
+        # See https://wiki.hyprland.org/Configuring/Variables/ for more
+        gestures.workspace_swipe = false;
+
+        group = {
+          "col.border_active" = "0xee$yellowAlpha";
+          "col.border_inactive" = "0xaa$overlay0Alpha 0xaa$yellowAlpha 45deg";
+          "col.border_locked_active" = "0xee$yellowAlpha 0xee$redAlpha 45deg";
+          "col.border_locked_inactive" = "0xaa$overlay0Alpha 0xaa$redAlpha 45deg";
+          groupbar = {
+            text_color = "$text";
+          };
+        };
+
+        misc = {
+          disable_hyprland_logo = true;
+          disable_splash_rendering = true;
+          enable_swallow = true;
+          swallow_regex = "^(org.wezfurlong.wezterm)$";
+        };
+
+        # Window rules
+        windowrulev2 = [
+          "float, class:^(wlogout|pavucontrol|nmtui)$"
+          "workspace 1, class:^(lutris)$"
+          "workspace 2, class:^(nyxt)$"
+          "workspace 3, class:^(filemanager)$"
+          "workspace 4 silent, class:^(ArmCord)$"
+          "workspace 5, title:^(Spotify.*)$"
+          # Inhibit idle on fullscreen programs where keyboard/mouse may not be used for a while
+          "idleinhibit fullscreen, class:^(FreeTube)$"
+        ];
+
+        # "$mainMod" = "SUPER";
+        "${g.key.hyprland.modAlias}" = "${g.key.hyprland.mod}";
+
+        "$opener" = "handlr launch";
+        "$term" = "$opener x-scheme-handler/terminal --";
+
+        # Vim-style homerow direction keys
+        "$left" = "${g.key.hyprland.left}";
+        "$down" = "${g.key.hyprland.down}";
+        "$up" = "${g.key.hyprland.up}";
+        "$right" = "${g.key.hyprland.right}";
+
+        "$menu" = "fuzzel";
+
+        "$scratchpad" = "scratchpad -m '$menu --dmenu'";
+
+        # Example binds, see https://wiki.hyprland.org/Configuring/Binds/ for more
+        bind = inputs.nixpkgs.lib.flatten [
+          "$mainMod, Return, exec, $term"
+          "${g.key.hyprland.killActive.mod}, ${g.key.hyprland.killActive.base}, killactive,"
+          "$mainMod SHIFT, Q, exec, wlogout"
+          # Run in shell to ensure file manager sees environment variables
+          # TODO: figure out how to un-hard-code shell
+          # TODO: figure out how to open selected file when exiting without hard-coding xplr
+          "$mainMod, N, exec, $term --class=filemanager -- fish -c 'handlr open (xplr)'"
+          "$mainMod, V, togglefloating,"
+          "$mainMod, R, exec, pkill $menu || $menu"
+          "$mainMod, W, exec, wezterm"
+          "$mainMod, P, pseudo, # dwindle"
+          "$mainMod, S, togglesplit, # dwindle"
+          "$mainMod, D, exec, hyprctl keyword general:layout dwindle"
+          "$mainMod, M, exec, hyprctl keyword general:layout master"
+          "$mainMod, O, exec, $opener x-scheme-handler/https"
+          "$mainMod, G, togglegroup"
+          "$mainMod, F, fullscreen"
+          "$mainMod, C, exec, hyprpicker --autocopy"
+          "$mainMod SHIFT, G, lockactivegroup, toggle"
+          "$mainMod, bracketleft, changegroupactive, b"
+          "$mainMod, bracketright, changegroupactive, f"
+          ", Print, exec, screenshot.sh"
+          ", XF86AudioPlay, exec, playerctl play-pause"
+          "CTRL ALT, delete, exec, hyprctl kill"
+          "$mainMod, Z, exec, $scratchpad"
+          "$mainMod SHIFT, Z, exec, $scratchpad -g"
+
+          # Move focus with mainMod + direction keys
+          # Move active window with mainMod + SHIFT + direction keys
+          (builtins.map
+            (
+              key: let
+                dir = builtins.elemAt (inputs.nixpkgs.lib.strings.stringToCharacters key) 1;
+              in [
+                "$mainMod, ${key}, movefocus, ${dir}"
+                "$mainMod SHIFT, ${key}, movewindoworgroup, ${dir}"
+              ]
+            )
+            ["$left" "$down" "$up" "$right"])
+
+          # Switch workspaces with mainMod + [0-9]
+          # Move active window to a workspace with mainMod + SHIFT + [0-9]
+          (builtins.genList
+            (
+              x: let
+                ws = x + 1;
+                key = toString (inputs.nixpkgs.lib.trivial.mod ws 10);
+              in [
+                "$mainMod, ${key}, workspace, ${toString ws}"
+                "$mainMod SHIFT, ${key}, movetoworkspace, ${toString ws}"
+              ]
+            )
+            10)
+
+          # Scroll through existing workspaces with mainMod + scroll
+          "$mainMod, mouse_down, workspace, e+1"
+          "$mainMod, mouse_up, workspace, e-1"
+        ];
+
+        "$LMB" = "mouse:272";
+        "$RMB" = "mouse:275";
+
+        bindm = [
+          # Move/resize windows with mainMod + LMB/RMB and dragging
+          "$mainMod, $LMB, movewindow"
+          "$mainMod, $RMB, resizewindow"
+        ];
+      };
+      extraConfig =
+        #hypr
         ''
+          monitor=eDP-2,1920x1080@240,0x0,1
+          monitor=HDMI-A-1,2560x1440@60,1920x0,1
           # Does not show up when defined in settings for some reason
           # plugin {
           #   hyprtrails {
@@ -229,11 +244,10 @@
     };
 
   xdg.configFile = {
-    "hyprland-autoname-workspaces/config.toml".source =
-      let
-        tomlFormat = pkgs.formats.toml { };
-        # palette = pkgs.custom.catppuccin-palette.${config.catppuccin.flavour};
-      in
+    "hyprland-autoname-workspaces/config.toml".source = let
+      tomlFormat = pkgs.formats.toml {};
+      # palette = pkgs.custom.catppuccin-palette.${config.catppuccin.flavour};
+    in
       tomlFormat.generate "hyprland-autoname-workspaces-config" {
         version = pkgs.hyprland-autoname-workspaces.version;
 
@@ -339,7 +353,7 @@
         #   "10" = "十";
         # };
       };
-/*
+    /*
     # For screenshot.sh
     "swappy/config".source =
       let
@@ -353,5 +367,6 @@
           text_font = fonts.sansSerif.name;
         };
       };
- */ };
+    */
+  };
 }

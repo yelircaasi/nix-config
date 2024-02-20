@@ -6,7 +6,7 @@
 }: let
   neovim-nightly = inputs.neovim-nightly-overlay.packages.${pkgs.system}.neovim;
   custom = import ./custom-plugins.nix {inherit pkgs;};
-  py310 = pkgs.python310Packages;
+  py = pkgs.python310Packages;
   node = pkgs.nodePackages;
 in {
   home.packages = with pkgs; [
@@ -20,21 +20,21 @@ in {
 
     # python language server + plugins
     python310
-    py310.python-lsp-server # alt: node.pyright
-    py310.pylsp-mypy
-    py310.pyls-isort
-    py310.python-lsp-black
-    py310.pylsp-rope
-    py310.python-lsp-ruff
-    py310.pytest
-    py310.pylint
-    py310.pytest-cov
-    py310.coverage
-    py310.pynvim
-    #py310.jupyter-client
-    #py310.jupyter
-    py310.ipython
-    #py310.ipykernel
+    py.python-lsp-server # alt: node.pyright
+    py.pylsp-mypy
+    py.pyls-isort
+    py.python-lsp-black
+    py.pylsp-rope
+    py.python-lsp-ruff
+    py.pytest
+    py.pylint
+    py.pytest-cov
+    py.coverage
+    py.pynvim
+    #py.jupyter-client
+    #py.jupyter
+    py.ipython
+    #py.ipykernel
     black
     mypy
     isort

@@ -56,5 +56,5 @@
 
   mkPrecompiledJsPlugin = {}: {}; # https://github.com/bytenode/bytenode
 
-  mkPrecompiledNvimConfig = nvimConfigDir: {}
+  mkPrecompiledNvimConfig = nvimConfigDir: {};
 }

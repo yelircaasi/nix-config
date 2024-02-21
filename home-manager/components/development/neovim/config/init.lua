@@ -6,6 +6,7 @@ g.mapleader = " "
 -- basics
 require("options")
 require("mappings")
+require("colors")
 
 -- custom plugin config, named semantically rather than using plugin name
 --require("plugins.training")

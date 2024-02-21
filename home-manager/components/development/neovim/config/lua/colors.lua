@@ -52,6 +52,8 @@ for name, attrs in pairs({
 	NormalFloat = { bg = "<| color.nvim.NormalFloat.bg |>", fg = "<| color.nvim.NormalFloat.fg |>" },
 	NormalNC = "Normal",
 
+	WinSeparator = { bg = "<| color.nvim.WinSeparator.bg |>", fg = "<| color.nvim.WinSeparator.fg |>" },
+	-- VertSplit = { bg = "<|color.nvim.VertSplit.bg |>", fg = "<|color.nvim.VertSplit.fg |>" },
 	-- Special = { fg = "<|%color.nvim.Special |>" },
 	-- CursorLine = { bg = "<|%color.nvim.CursorLine.bg |>" },
 
@@ -70,6 +72,7 @@ for name, attrs in pairs({
 	-- inheriting background from default Nvim* colors
 	Search = { fg = "<| color.nvim.Search.fg |>", bg = "<| color.nvim.Search.bg |>" },
 	CurSearch = { fg = "<| color.nvim.CurSearch.fg |>", bg = "<| color.nvim.CurSearch.bg |>" },
+
 	StatusLine = { fg = "<| color.nvim.StatusLine.fg |>", bg = "<| color.nvim.StatusLine.bg |>" },
 	StatusLineNC = { fg = "<| color.nvim.StatusLineNC.fg |>", bg = "<| color.nvim.StatusLineNC.bg |>" },
 	Visual = { fg = "<| color.nvim.Visual.fg |>", bg = "<| color.nvim.Visual.bg |>" },

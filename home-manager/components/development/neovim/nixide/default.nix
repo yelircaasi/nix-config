@@ -11,8 +11,10 @@
   # flakes: nix-config, nix-utils (from current global-inputs.lib), nixide (nvim configurable, hm-compatible), clinix (hm config / shell env for opinionated and configurable CLI dev-environment), nixmacs (like nixide, but emacs instead of nvim -> precompile / somehow accelerate elisp?)
   programs.yannix = {
     enable = true;
-    nvimPackage = {};
-    nightly = true;
+    nvimPackage = {
+      stable = true;
+      customBuildOptions = {};
+    };
     isDefaultEditor = true;
     documentation = {
       outputMarkdown = true;

@@ -174,11 +174,11 @@ in rec {
     };
     StatusLine = {
       fg = "#000a00";
-      bg = "#809880";
+      bg = "#202328"; #"#809880";
     };
     StatusLineNC = {
       fg = "#000a00";
-      bg = "#809880";
+      bg = "#202328"; #"#809880";
     };
     Visual = {
       fg = "#061815";
@@ -247,6 +247,8 @@ in rec {
     MoreMsg = {fg = "#1db6c5";};
     ModeMsg = {fg = "#376808";};
     LineNr = {fg = "#002b00";};
+    # VertSplit = {fg = "#002b00"; inherit bg; };
+    WinSeparator = {fg = "#002b00"; inherit bg; };
     Question = {fg = "#402967";};
     WarningMsg = {fg = warn;};
     SignColumn = {fg = "#1b8984";};

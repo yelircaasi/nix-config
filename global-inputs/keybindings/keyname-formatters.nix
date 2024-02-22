@@ -1,6 +1,7 @@
 let
   getKeyName = keyNameAttrSet: keyName: keyNameAttrSet.${keyName};
 in {
+  aliases = {
   sway = getKeyName {
     ctrl = "mod1";
   };
@@ -38,4 +39,10 @@ in {
   };
 
   kanata = getKeyName {};
+  
+  # convert = appName: keyName: adapters.${appName} keyName;
+
+  wezterm = getKeyName {};
+
+  hyprland = getKeyName {};
 }

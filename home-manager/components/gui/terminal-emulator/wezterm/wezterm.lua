@@ -160,16 +160,16 @@ config.keys = {
 		action = wezterm.action.SendString("Hello there"),
 	},
 	{
-		key = "t",
+		key = "T",
 		mods = "CMD|SHIFT",
 		action = act.ShowTabNavigator,
 	},
 
-	{
-		key = "t",
-		mods = "SHIFT|ALT",
-		action = act.SpawnTab("CurrentPaneDomain"),
-	},
+	-- {
+	-- 	key = "T",
+	-- 	mods = "SHIFT|ALT",
+	-- 	action = act.SpawnTab("CurrentPaneDomain"),
+	-- },
 	-- Create a new tab in the default domain
 	-- { key = 't', mods = 'SHIFT|ALT', action = act.SpawnTab 'DefaultDomain' },
 	-- Create a tab in a named domain
@@ -182,7 +182,7 @@ config.keys = {
 				TERM = "screen-256color",
 			},
 			args = {
-				"/usr/local/bin/nvim",
+				"nvim",
 				os.getenv("WEZTERM_CONFIG_FILE"),
 			},
 		}),

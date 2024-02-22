@@ -34,33 +34,23 @@
         # inputs.hyprland-plugins.packages.${pkgs.system}.hyprtrails
       ];
       settings = {
-        # Execute your favorite apps at launch
         exec-once = [
           "wezterm"
           "hyprpaper"
-          # "pkill waybar || waybar"
-          # "hyprland-autoname-workspaces"
-          ## Set up live wallpaper
-          ## https://moewalls.com/pixel-art/cyberpunk-rain-city-pixel-live-wallpaper/
-          # "mpvpaper -o 'no-audio loop' HDMI-A-1 '/etc/nixos/assets/wallpaper.mp4'"
-          # "eww open bar"
-          ## "armcord"
-          # "steam -silent"
         ];
 
         general = {
           gaps_in = 5;
           gaps_out = 20;
           border_size = 2;
-          "col.active_border" = "rgb(003366)"; # "0xee$lavenderAlpha 0xee${accent}Alpha 45deg";
-          "col.inactive_border" = "rgb(242424)"; # "0xaa$overlay0Alpha 0xaa$mantleAlpha 45deg";
+          "col.active_border" = "rgb(002400)"; # "0xee$lavenderAlpha 0xee${accent}Alpha 45deg";
+          "col.inactive_border" = "rgb(162016)"; # "0xaa$overlay0Alpha 0xaa$mantleAlpha 45deg";
 
           layout = "dwindle";
           cursor_inactive_timeout = 60;
         };
 
         decoration = {
-          # See https://wiki.hyprland.org/Configuring/Variables/ for more
           rounding = 5;
 
           blur = {
@@ -77,10 +67,7 @@
 
         animations = {
           enabled = true;
-
-          # Some default animations, see https://wiki.hyprland.org/Configuring/Animations/ for more
           bezier = "myBezier, 0.05, 0.9, 0.1, 1.05";
-
           animation = [
             "windows, 1, 7, myBezier"
             "windowsOut, 1, 7, default, popin 80%"
@@ -92,17 +79,11 @@
         };
 
         dwindle = {
-          # See https://wiki.hyprland.org/Configuring/Dwindle-Layout/ for more
           pseudotile = true; # master switch for pseudotiling. Enabling is bound to mainMod + P in the keybinds section below
           preserve_split = true; # you probably want this
         };
-
-        # See https://wiki.hyprland.org/Configuring/Master-Layout/ for more
         master.new_is_master = true;
-
-        # See https://wiki.hyprland.org/Configuring/Variables/ for more
         gestures.workspace_swipe = false;
-
         group = {
           "col.border_active" = "0xee$yellowAlpha";
           "col.border_inactive" = "0xaa$overlay0Alpha 0xaa$yellowAlpha 45deg";
@@ -120,7 +101,6 @@
           swallow_regex = "^(org.wezfurlong.wezterm)$";
         };
 
-        # Window rules
         windowrulev2 = [
           "float, class:^(wlogout|pavucontrol|nmtui)$"
           "workspace 1, class:^(lutris)$"

@@ -37,13 +37,14 @@
   outputs = {
     self,
     nixpkgs,
-home-manager,
+    home-manager,
     ...
   } @ inputs: let
     g = import ./global-inputs {inherit inputs;};
-    helpers = import ./helper-functions.nix {inherit inputs g ;};
+    helpers = import ./helper-functions.nix {inherit inputs g;};
 
-    mkDeviceDeclaration = declaration: {
+    mkDeviceDeclaration = declaration:
+      {
         defaultShell = "bash";
         otherShells = [];
         compositors = [];
@@ -61,36 +62,37 @@ home-manager,
         extraGroups = ["networkmanager" "wheel"];
         extraSystemPackageNames = [];
         additionalModules = [];
-    } // declaration;
+      }
+      // declaration;
 
     deviceDeclarations = [
       (mkDeviceDeclaration {
-          name = "betsy";
-          description = "Personal laptop - Tuxedo Aura 15";
-          defaultShell = "bash";
-          otherShells = ["bash"];
-          windowManagers = ["hyprland" "sway" "swayfx"];
-          additionalModules = [];
-        })
+        name = "betsy";
+        description = "Personal laptop - Tuxedo Aura 15";
+        defaultShell = "bash";
+        otherShells = ["bash"];
+        windowManagers = ["hyprland" "sway" "swayfx"];
+        additionalModules = [];
+      })
       (mkDeviceDeclaration {
-          name = "hank";
-          description = "Work laptop - Tuxedo Stellaris 15 (with NVIDIA GeForce RTX 3080 GPU)";
-          defaultShell = "bash";
-          otherShells = ["bash"];
-          compositors = ["hyprland" "sway" "swayfx"];
-          desktopEnvironments = ["gnome"];
-          nvidia = true;
-          pipewire = true;
-          jack = false;
-          networkmanager = true;
-          wayland = true;
-          x11 = true;
-          ssh-server = true;
-          docker = true;
-          podman = true;
-          printing = true;
-        })
-/*
+        name = "hank";
+        description = "Work laptop - Tuxedo Stellaris 15 (with NVIDIA GeForce RTX 3080 GPU)";
+        defaultShell = "bash";
+        otherShells = ["bash"];
+        compositors = ["hyprland" "sway" "swayfx"];
+        desktopEnvironments = ["gnome"];
+        nvidia = true;
+        pipewire = true;
+        jack = false;
+        networkmanager = true;
+        wayland = true;
+        x11 = true;
+        ssh-server = true;
+        docker = true;
+        podman = true;
+        printing = true;
+      })
+      /*
         (mkDeviceDeclaration {
           name = "elsie";
           description = "Dell Inspiron 14 - old, underpowered, and 32-bit (i686), used primarily for reading and note-taking while traveling; also good for experimentation";
@@ -147,7 +149,7 @@ home-manager,
           compositors = [];
           additionalModules = [];
         })
-*/ 
+      */
     ];
   in {
     nixosConfigurations = helpers.makeNixosConfigurations deviceDeclarations;

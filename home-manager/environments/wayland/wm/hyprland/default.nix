@@ -38,6 +38,7 @@
         exec-once = [
           "wezterm"
           "hyprpaper"
+          # "pkill waybar || waybar"
           # "hyprland-autoname-workspaces"
           ## Set up live wallpaper
           ## https://moewalls.com/pixel-art/cyberpunk-rain-city-pixel-live-wallpaper/
@@ -51,8 +52,8 @@
           gaps_in = 5;
           gaps_out = 20;
           border_size = 2;
-          # "col.active_border" = "0xee$lavenderAlpha 0xee${accent}Alpha 45deg";
-          # "col.inactive_border" = "0xaa$overlay0Alpha 0xaa$mantleAlpha 45deg";
+          "col.active_border" = "rgb(003366)"; # "0xee$lavenderAlpha 0xee${accent}Alpha 45deg";
+          "col.inactive_border" = "rgb(242424)"; # "0xaa$overlay0Alpha 0xaa$mantleAlpha 45deg";
 
           layout = "dwindle";
           cursor_inactive_timeout = 60;
@@ -105,8 +106,8 @@
         group = {
           "col.border_active" = "0xee$yellowAlpha";
           "col.border_inactive" = "0xaa$overlay0Alpha 0xaa$yellowAlpha 45deg";
-          "col.border_locked_active" = "0xee$yellowAlpha 0xee$redAlpha 45deg";
-          "col.border_locked_inactive" = "0xaa$overlay0Alpha 0xaa$redAlpha 45deg";
+          "col.border_locked_active" = "rgb(003366)"; # "0xee$yellowAlpha 0xee$redAlpha 45deg";
+          "col.border_locked_inactive" = "rgb(242424)"; # "0xaa$overlay0Alpha 0xaa$redAlpha 45deg";
           groupbar = {
             text_color = "$text";
           };

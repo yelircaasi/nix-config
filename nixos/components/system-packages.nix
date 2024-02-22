@@ -12,17 +12,10 @@
     fira-code-symbols
     nerdfix
 
-    waybar
     mako
     libnotify
     swww
-    rofi-wayland
     networkmanagerapplet
     # eww
-    (
-      waybar.overrideAttrs (oldAttrs: {
-        mesonFlags = oldAttrs.mesonFlags ++ ["-Dexperimental=true"];
-      })
-    )
   ];
 }

@@ -248,7 +248,10 @@ in rec {
     ModeMsg = {fg = "#376808";};
     LineNr = {fg = "#002b00";};
     # VertSplit = {fg = "#002b00"; inherit bg; };
-    WinSeparator = {fg = "#002b00"; inherit bg; };
+    WinSeparator = {
+      fg = "#002b00";
+      inherit bg;
+    };
     Question = {fg = "#402967";};
     WarningMsg = {fg = warn;};
     SignColumn = {fg = "#1b8984";};

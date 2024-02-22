@@ -11,6 +11,9 @@
     #./environments/x11/compositor/picom
 
     ./environments/wayland/wm/hyprland
+    ./environments/wayland/launcher/fuzzel
+    ./environments/wayland/bar/waybar
+    ./environments/theming/gtk
   ];
 
   nixpkgs = {

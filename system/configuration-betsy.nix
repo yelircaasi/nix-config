@@ -6,5 +6,6 @@
   ...
 }: {
   imports = [
-    ./config-constructor.nix 
+    ./config-constructor.nix
+  ];
 }

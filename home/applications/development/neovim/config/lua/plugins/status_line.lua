@@ -108,17 +108,17 @@ local navic = require("nvim-navic")
 -- Color table for highlights
 -- stylua: ignore
 local colors = {
-  bg       = '#202328',
-  fg       = '#bbc2cf',
-  yellow   = '#ECBE7B',
-  cyan     = '#008080',
-  darkblue = '#081633',
-  green    = '#98be65',
-  orange   = '#FF8800',
-  violet   = '#a9a1e1',
-  magenta  = '#c678dd',
-  blue     = '#51afef',
-  red      = '#ec5f67',
+  bg       = '<| color.nvim.StatusLine.bg |>',
+  fg       = '#455684', --'#bbc2cf',
+  yellow   = '#8c5e26', --'#ECBE7B',
+  cyan     = '#004c4d', --'#008080',
+  darkblue = '#11306e', --'#081633',
+  green    = '#445a26', --'#98be65',
+  orange   = '#b35f00', --'#FF8800',
+  violet   = '#372b87', --'#a9a1e1',
+  magenta  = '#541a66', --'#c678dd',
+  blue     = '#0f67a3', --'#51afef',
+  red      = '#720e13', --'#ec5f67',
 }
 
 local conditions = {
@@ -275,7 +275,7 @@ ins_left({
 		return msg
 	end,
 	icon = " LSP:",
-	color = { fg = "#ffffff", gui = "bold" },
+	color = { fg = colors.cyan, gui = "bold" },
 })
 
 -- Add components to right sections

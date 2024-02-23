@@ -40,7 +40,7 @@
     home-manager,
     ...
   } @ inputs: let
-    g = import ./global-inputs {inherit inputs;};
+    g = import ./global-defs {inherit inputs;};
     helpers = import ./helper-functions.nix {inherit inputs g;};
 
     mkDeviceDeclaration = declaration:
@@ -66,6 +66,7 @@
       // declaration;
 
     deviceDeclarations = [
+      # TODO: change this into an attribute set
       (mkDeviceDeclaration {
         name = "betsy";
         description = "Personal laptop - Tuxedo Aura 15";

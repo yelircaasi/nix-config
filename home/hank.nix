@@ -4,16 +4,16 @@
   ...
 }: {
   imports = [
-    ./components/common
+    ./applications/common
     #./environments/flatpak
     #./environments/x11/wm/i3
     #./environments/x11/wallpaper/nitrogen
     #./environments/x11/compositor/picom
 
-    ./environments/wayland/wm/hyprland
-    ./environments/wayland/launcher/fuzzel
-    ./environments/wayland/bar/waybar
-    ./environments/theming/gtk
+    ./desktop-environment/wayland/wm/hyprland
+    ./desktop-environment/wayland/launcher/fuzzel
+    ./desktop-environment/wayland/bar/waybar
+    ./desktop-environment/theming/gtk
   ];
 
   nixpkgs = {
@@ -45,5 +45,5 @@
   # Nicely reload system units when changing configs
   systemd.user.startServices = "sd-switch";
 
-  xdg.configFile."kanata/kanata.kbd".source = ../nixos/components/kanata/kanata.kbd;
+  xdg.configFile."kanata/kanata.kbd".source = ../system/modules/kanata/kanata.kbd;
 }

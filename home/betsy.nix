@@ -6,7 +6,7 @@
   ...
 }: {
   imports = [
-    ./components/common
+    ./applications/common
   ];
 
   nixpkgs = {
@@ -34,5 +34,5 @@
 
   systemd.user.startServices = "sd-switch";
 
-  xdg.configFile."kanata/kanata.kbd".source = ../nixos/components/kanata/kanata.kbd;
+  xdg.configFile."kanata/kanata.kbd".source = ../system/modules/kanata/kanata.kbd;
 }

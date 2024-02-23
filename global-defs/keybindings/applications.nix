@@ -1,24 +1,8 @@
-{lib}: let
+let
+  p = import ./primitives.nix;
+  keys = p.keys;
   convertTo = import ./keyname-formatters.nix;
-in rec {
-  keys = {
-
-  };
-  # ============================================================================
-  common = {
-    move = {
-      left = "h";
-      down = "j";
-      up = "k";
-      right = "l";
-    };
-    base = {
-      kill = "q";
-      copy = "c";
-      paste = "p";
-    };
-  };
-
+in {
   # ============================================================================
   kanata = {
     # modify the key(s) pressed next - must be held down
@@ -35,40 +19,27 @@ in rec {
   };
 
   # ============================================================================
-  desktop = {
-    wm = rec {
-      mod = "super";
-      kill = {
-        inherit mod;
-        base = common.kill;
-      };
-      launch = {
-        firefox = {
-          mod = "";
-          base = "";
-        };
-      };
-    };
-    bar = {};
-    widgets = {};
-  };
 
-  # TODO: refactor to move all app-specific into their own file and all general into their own file, then import both into default.nix
-  hyprland = let rn = convertTo.hyprland in rec { 
-    mod = rn desktop.wm.mod;
-    modAlias = "$mainMod";
-    left = rn common.move.left;
-    down = rn common.move.down;
-    up = rn common.move.up;
-    right = rn common.move.right;
+  # TODO: refactor to move all app-specific into their own file and all p into their own file, then import both into default.nix
+  hyprland = let
+    rn = convertTo.hyprland;
+  in rec {
+    mod = rn p.desktop.wm.mod;
+    modAlias = "$mainMod"; # unnecessary? remove?
+    left = rn p.move.left;
+    down = rn p.move.down;
+    up = rn p.move.up;
+    right = rn p.move.right;
     killActive = {
-      mod = rn modAlias;
-      base = rn common.base.kill;
+      mod = modAlias;
+      base = rn p.generalBase.kill;
     };
   };
 
-  sway = let rn = convertTo.sway in rec {
-    mod = rn desktop.wm.mod;
+  sway = let
+    rn = convertTo.sway;
+  in rec {
+    mod = rn p.desktop.wm.mod;
   };
 
   # ============================================================================
@@ -92,12 +63,10 @@ in rec {
         base = rn keys.v;
       };
       copyToClipboardAlt2 = {
-        mod = rn keys.;
-        base = rn keys.;
+        base = rn keys.copy;
       };
       pasteFromClipboardAlt2 = {
-        mod = rn keys.;
-        base = rn keys.;
+        base = rn keys.paste;
       };
       copyToPrimarySelection = {
         mod = rn keys.;
@@ -326,11 +295,11 @@ in rec {
 
 
     };
-    kitty = let rn = convertTo.kitty; in { 
+    kitty = let rn = convertTo.kitty; in {
       # https://sw.kovidgoyal.net/kitty/actions/
       # https://sw.kovidgoyal.net/kitty/conf/
     };
-    alacritty = let rn = convertTo.alacritty; in { 
+    alacritty = let rn = convertTo.alacritty; in {
       # https://github.com/alacritty/alacritty/wiki/Keyboard-mappings
       # https://github.com/alacritty/alacritty/blob/master/extra/man/alacritty.5.scd#keyboard
     };
@@ -348,13 +317,7 @@ in rec {
     tym = { # https://github.com/endaaman/tym?tab=readme-ov-file#customizing-keymap
     };
     blackbox = {};
-    */ 
-
-
-
-
-    
-
+  */
 
   # ============================================================================
   nvim = {
@@ -369,7 +332,7 @@ in rec {
   idea = {};
   # ============================================================================
   browser = rec {
-    commonBrowser = {};   
+    commonBrowser = {};
     nyxt = let rn = convertTo.nyxt; in {};
     qutebrowser = let rn = convertTo.qutebrowser; in {};
     chromium = let rn = convertTo.chromium; in {};
@@ -378,13 +341,10 @@ in rec {
     vimb = let rn = convertTo.vimb; in {};
     brave = let rn = convertTo.brave; in {};
     icecat = let rn = convertTo.icecat; in {};
-
   };
   # ============================================================================
   cli = {};
   # ============================================================================
   tui = {};
   # ============================================================================
-
-  
 }

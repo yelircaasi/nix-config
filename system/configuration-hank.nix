@@ -7,7 +7,7 @@
 }: {
   imports = [
     # Include the results of the hardware scan.
-    ./config-from-device-config.nix
+    ./config-constructor.nix
     ./landscape-client
   ];
 }

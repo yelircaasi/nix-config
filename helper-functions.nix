@@ -27,7 +27,7 @@
       specialArgs = {inherit inputs g deviceConfig;}; #lib = inputs.nixpkgs.lib; };
       modules =
         [
-          ./nixos/${deviceConfig.name}-configuration.nix
+          ./system/configuration-${deviceConfig.name}.nix
         ]
         ++ additionalModules;
     };
@@ -56,7 +56,7 @@
     inputs.home-manager.lib.homeManagerConfiguration {
       pkgs = inputs.nixpkgs.legacyPackages.x86_64-linux;
       extraSpecialArgs = {inherit inputs g deviceConfig;}; #lib = inputs.nixpkgs.lib; };
-      modules = [./home-manager/${deviceConfig.name}.nix] ++ additionalModules;
+      modules = [./home/${deviceConfig.name}.nix] ++ additionalModules;
     };
 
   makeNixosConfigurations = deviceDeclarationList:

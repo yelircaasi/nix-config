@@ -6,6 +6,5 @@
   ...
 }: {
   imports = [
-    ./config-from-device-config.nix
-  ];
+    ./config-constructor.nix 
 }

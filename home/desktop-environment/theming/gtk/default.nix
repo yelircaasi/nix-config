@@ -1,17 +1,18 @@
 {
   inputs,
-  pkgs, 
+  pkgs,
   g,
   ...
-}: let extraCfg = {
-  gtk-application-prefer-dark-theme = 1;
-};
-extraCss = ''
-  * {
-  background-color: #000800;
-  color: #ffffff; 
-}
-'';
+}: let
+  extraCfg = {
+    gtk-application-prefer-dark-theme = 1;
+  };
+  extraCss = ''
+      * {
+      background-color: #000800;
+      color: #ffffff;
+    }
+  '';
 in {
   gtk = {
     enable = true;
@@ -33,4 +34,3 @@ in {
     gtk4.extraCss = extraCss;
   };
 }
-

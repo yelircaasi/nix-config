@@ -6,27 +6,27 @@
   ...
 }: {
   imports = [
-    ./hardware-configurations/${deviceConfig.name}-hardware-configuration.nix
-    ./components/compositor/hyprland.nix
-    ./components/compositor/sway.nix
-    ./components/compositor/swayfx.nix
-    ./components/desktop-environment/gnome
-    ./components/desktop-environment/xfce
-    ./components/desktop-environment/kde
-    ./components/kanata
-    ./components/windowing-protocol/wayland.nix
-    ./components/windowing-protocol/x11.nix
-    ./components/containers.nix
-    ./components/hardware.nix
-    ./components/miscellaneous-services.nix
-    ./components/networking.nix
-    ./components/nvidia.nix
-    ./components/security.nix
-    ./components/sound.nix
-    ./components/ssh.nix
-    ./components/system-packages.nix
-    ./components/users.nix
-    ./components/variables.nix
+    ./hardware-configurations/hardware-configuration-${deviceConfig.name}.nix
+    ./modules/compositor/hyprland.nix
+    ./modules/compositor/sway.nix
+    ./modules/compositor/swayfx.nix
+    ./modules/desktop-environment/gnome
+    ./modules/desktop-environment/xfce
+    ./modules/desktop-environment/kde
+    ./modules/kanata
+    ./modules/windowing-protocol/wayland.nix
+    ./modules/windowing-protocol/x11.nix
+    ./modules/containers.nix
+    ./modules/hardware.nix
+    ./modules/miscellaneous-services.nix
+    ./modules/networking.nix
+    ./modules/nvidia.nix
+    ./modules/security.nix
+    ./modules/sound.nix
+    ./modules/ssh.nix
+    ./modules/system-packages.nix
+    ./modules/users.nix
+    ./modules/variables.nix
   ];
 
   boot.loader.systemd-boot.enable = true;

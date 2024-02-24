@@ -44,6 +44,7 @@ in {
 
     # nix
     alejandra
+    nixd
 
     # other language servers
     nil # alt: rnix-lsp
@@ -122,8 +123,9 @@ in {
       nvim-web-devicons
 
       # file browsing
-      neo-tree-nvim # alts: fm-nvim (with xplr), nnn-vim,
-      oil-nvim #       triptych.nvim, tfm.nvim,
+      # problem with fm-nvim:
+      neo-tree-nvim # alts: fm-nvim (with xplr), ### nnn-vim, -> make nvim-xplr using fm-nvim and joshuto.nvim as basis, integrate with plugins
+      oil-nvim #       ### triptych.nvim, ### tfm.nvim,
       custom.nvim-genghis # nvim-tree-lua, nvim-tree-lua
 
       # terminal ----------------------------------------------------

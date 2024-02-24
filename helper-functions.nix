@@ -59,15 +59,13 @@
       modules = [./home/${deviceConfig.name}.nix] ++ additionalModules;
     };
 
-  makeNixosConfigurations = deviceDeclarationList:
-    builtins.foldl'
-    (configsAttrSet: configSet: let name = configSet.name; in configsAttrSet // {"${name}" = makeNixosConfig configSet;})
-    {}
-    deviceDeclarationList;
+  makeNixosConfigurations = deviceDeclarationAttrSet:
+    builtins.mapAttrs
+    (name: configSet: makeNixosConfig configSet)
+    deviceDeclarationAttrSet;
 
-  makeHomeManagerConfigurations = deviceDeclarationList:
-    builtins.foldl'
-    (configsAttrSet: configSet: let name = configSet.name; in configsAttrSet // {"${name}" = makeHomeManagerConfig configSet;})
-    {}
-    deviceDeclarationList;
+  makeHomeManagerConfigurations = deviceDeclarationAttrSet:
+    builtins.mapAttrs
+    (name: configSet: makeHomeManagerConfig configSet)
+    deviceDeclarationAttrSet;
 }

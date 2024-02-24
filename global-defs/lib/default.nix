@@ -49,4 +49,14 @@ in
     colorsFromTOML = x: "TO DO";
 
     keybindingsFromJSON = x: "TO DO";
+
+    listNeighboringImports = _:
+      map
+      (file: ./. + "/${file}")
+      (
+        lib.strings.filter
+        (file: ! lib.strings.hasPrefix "." file && file != "default.nix")
+        (builtins.attrNames (builtins.readDir ./.))
+      );
+
   }

@@ -1,4 +1,4 @@
-local lspconf = require "lspconfig"
+local lspconf = require("lspconfig")
 local null_ls = require("null-ls")
 local lspkind = require("lspkind")
 local efmls_configs = require("efmls-configs")
@@ -8,8 +8,9 @@ local lsp_signiature = require("lsp_signature")
 local illuminate = require("illuminate")
 
 -- local servers = {"pyright" , "bashls", "rls", "jsonls", "rnix", "eslint"}
-local servers = {"pylsp" , "bashls", "rls"}
-local capabilities = require('cmp_nvim_lsp').default_capabilities()
+local servers = { "pylsp", "bashls", "rls" }
+local capabilities = require("cmp_nvim_lsp").default_capabilities()
+local root_pattern = lspconf.util.root_pattern
 
 -- -- Lspconfig
 -- function on_attach(client, bufnr)
@@ -55,13 +56,12 @@ local capabilities = require('cmp_nvim_lsp').default_capabilities()
 --capabilities.textDocument.completion.completionItem.snippetSupport = true
 
 for k, lang in pairs(servers) do
-    lspconf[lang].setup {
-        root_dir = vim.loop.cwd,
-        on_attach = on_attach,
-        capabilities = capabilities,
-    }
+	lspconf[lang].setup({
+		root_dir = vim.loop.cwd,
+		on_attach = on_attach,
+		capabilities = capabilities,
+	})
 end
-
 
 -- -- Enable diagnostics
 -- vim.lsp.handlers["textDocument/publishDiagnostics"] = vim.lsp.with(
@@ -74,87 +74,94 @@ end
 
 -- lua lsp settings
 
-lspconf.lua_ls.setup {
-    cmd = {"lua-lsp"},
-    root_dir = function()
-        return vim.loop.cwd()
-    end,
-    on_attach = on_attach,
-    settings = {
-        Lua = {
-            runtime = {
-                version = "LuaJIT",
-                path = vim.split(package.path, ";")
-            },
-            diagnostics = {
-                globals = {"vim"}
-            },
-            workspace = {
-                library = {
-                    [vim.fn.expand("$VIMRUNTIME/lua")] = true,
-                    [vim.fn.expand("$VIMRUNTIME/lua/vim/lsp")] = true
-                }
-            },
-            telemetry = {
-                enable = false
-            }
-        }
-    }
-}
+lspconf.lua_ls.setup({
+	cmd = { "lua-lsp" },
+	root_dir = function()
+		return vim.loop.cwd()
+	end,
+	on_attach = on_attach,
+	settings = {
+		Lua = {
+			runtime = {
+				version = "LuaJIT",
+				path = vim.split(package.path, ";"),
+			},
+			diagnostics = {
+				globals = { "vim" },
+			},
+			workspace = {
+				library = {
+					[vim.fn.expand("$VIMRUNTIME/lua")] = true,
+					[vim.fn.expand("$VIMRUNTIME/lua/vim/lsp")] = true,
+				},
+			},
+			telemetry = {
+				enable = false,
+			},
+		},
+	},
+})
 
-lspconf.jsonls.setup { 
---    cmd = {"vscode-json-language-server"},
---    root_dir = function()
---        return vim.loop.cwd()
---    end,
-    on_attach = on_attach,
-    capabilities = capabilities,
-}
+lspconf.jsonls.setup({
+	--    cmd = {"vscode-json-language-server"},
+	--    root_dir = function()
+	--        return vim.loop.cwd()
+	--    end,
+	on_attach = on_attach,
+	capabilities = capabilities,
+})
 
-lspconf.pylsp.setup{
-    on_attach = custom_attach,
-    settings = {
-      
-      pylsp = {
-        plugins = {
-          autopep8 = { enabled = false },
-          yapf = { enabled = false },
-    
-          pyls_black = {
-            enabled = true,
-            line_length = 100
-          },
-          pyls_isort = {
-            enabled = true,
-          },
-          pylsp_mypy = {
-            enabled = true,
-            strict = true,
-          },
-          rope = {
-            enabled = false,
-          },
-          ruff = {
-            enabled = false,
-          },
-          jedi_completion = {
-            fuzzy = true,
-          },
-          pylint = {
-            enabled = true, 
-            executable = "pylint" 
-          },
-        },
-      },
-      flags = {
-        debounce_text_changes = 200,
-      },
-      capabilities = capabilities,
-      formatCommand = {"black", "&&", "isort"}
-    }
-}
+lspconf.nixd.setup({
+	cmd = { "nixd" },
+	filetypes = { "nix" },
+	root_dir = root_pattern(".nixd.json", "flake.nix", ".git"),
+	single_file_support = true,
+})
 
--- require "lspconfig".html.setup { 
+lspconf.pylsp.setup({
+	on_attach = custom_attach,
+	settings = {
+
+		pylsp = {
+			plugins = {
+				autopep8 = { enabled = false },
+				yapf = { enabled = false },
+
+				pyls_black = {
+					enabled = true,
+					line_length = 100,
+				},
+				pyls_isort = {
+					enabled = true,
+				},
+				pylsp_mypy = {
+					enabled = true,
+					strict = true,
+				},
+				rope = {
+					enabled = false,
+				},
+				ruff = {
+					enabled = false,
+				},
+				jedi_completion = {
+					fuzzy = true,
+				},
+				pylint = {
+					enabled = true,
+					executable = "pylint",
+				},
+			},
+		},
+		flags = {
+			debounce_text_changes = 200,
+		},
+		capabilities = capabilities,
+		formatCommand = { "black", "&&", "isort" },
+	},
+})
+
+-- require "lspconfig".html.setup {
 --     cmd = {"html-languageserver"},
 --     root_dir = function()
 --         return vim.loop.cwd()
@@ -162,7 +169,7 @@ lspconf.pylsp.setup{
 --     on_attach = on_attach,
 -- }
 
--- require "lspconfig".cssls.setup { 
+-- require "lspconfig".cssls.setup {
 --     cmd = {"css-languageserver"},
 --     root_dir = function()
 --         return vim.loop.cwd()
@@ -170,7 +177,4 @@ lspconf.pylsp.setup{
 --     on_attach = on_attach,
 -- }
 
-
-
 return lspconfig, none_ls, lspkind, efmls_configs, nlspsettings, lspsaga, lsp_signature, illuminate
-

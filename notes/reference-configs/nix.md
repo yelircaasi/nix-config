@@ -2,6 +2,8 @@
 
 ## Sources, Collections
 - -> nix config critique https://www.reddit.com/r/NixOS/s/TI2bPmWUYW 
+- -> ags https://github.com/search?q=ags+language%3ANix+&type=repositories
+-
 
 ## Top
 - [AmadeusWM *********](https://github.com/AmadeusWM/nixos-dots)

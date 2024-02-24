@@ -24,7 +24,7 @@ in {
   hyprland = let
     rn = convertTo.hyprland;
   in rec {
-    mod = rn p.desktop.wm.mod;
+    mod = rn p.desktop.compositor.mod;
     modAlias = "$mainMod"; # unnecessary? remove?
     left = rn p.move.left;
     down = rn p.move.down;
@@ -529,7 +529,7 @@ in {
   sway = let
     rn = convertTo.sway;
   in rec {
-    mod = rn p.desktop.wm.mod;
+    mod = rn p.desktop.compositor.mod;
     fx = {
       # keybinds specific to swayfx
     };

@@ -1,4 +1,5 @@
 rec {
+  # notes: best format should be universal, so maybe something that contains
   keys = {
     super = "SUPER";
     a = "a";
@@ -29,18 +30,18 @@ rec {
     z = "z";
   };
   move = {
-    left = "h";
-    down = "j";
-    up = "k";
-    right = "l";
+    left = keys.h;
+    down = keys.j;
+    up = keys.k;
+    right = keys.l;
   };
   generalBase = {
-    kill = "q";
-    copy = "c";
-    paste = "p";
+    kill = keys.q;
+    copy = keys.q;
+    paste = keys.q;
   };
   desktop = {
-    wm = rec {
+    compositor = rec {
       mod = "super";
       kill = {
         inherit mod;
@@ -48,12 +49,63 @@ rec {
       };
       launch = {
         firefox = {
-          mod = "";
+          mod = keys.ph;
           base = "";
         };
+      };
+      switchToWindow = {};
+      switchToWorkspace = {};
+      changeLayoutTo = {};
+      moveWindowToWorkspace = {};
+      moveWorkspace = {
+        left = {};
+        right = {};
+      };
+      switchToMode = {
+        tiling = {};
+        floating = {};
+        stacking = {};
       };
     };
     bar = {};
     widgets = {};
   };
+  terminal = {
+    newPane = {
+      right = {};
+      left = {};
+      above = {};
+      below = {};
+    };
+    newTab = {
+      atPosition = {};
+      atStart = {};
+      atEnd = {};
+    };
+    goToTab = {
+      position = {
+        _0 = {};
+        _1 = {};
+      };
+      prev = {};
+      next = {};
+    };
+    navigatePane = {
+      right = {};
+      left = {};
+      up = {};
+      down = {};
+    };
+    closePane = {
+      current = {};
+      byNumber = {};
+    };
+    closeTab = {
+      current = {};
+      byNumber = {};
+    };
+    changePaneLayoutTo = {};
+    showTabBar = {};
+  };
+  browser = {};
 }

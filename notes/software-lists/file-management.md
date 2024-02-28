@@ -26,19 +26,21 @@
 * (2) [clifm](https://github.com/leo-arch/clifm) | ( ) [walk](https://github.com/antonmedv/walk)
 
 ## GUI File Managers
-* ( ) [xplorer](https://github.com/kimlimjustin/xplorer)
-* ( ) [mucommander](https://github.com/mucommander/mucommander)
-* ( ) [thunar](https://docs.xfce.org/xfce/thunar/start)
-* ( ) [doublecmd](https://github.com/doublecmd/doublecmd)
-* ( ) [nemo](https://github.com/linuxmint/nemo)
-* ( ) [spacefm](https://github.com/thermitegod/spacefm)
-* ( ) [dolphin](https://apps.kde.org/dolphin/)
-* ( ) [pcmanfm](https://github.com/lxde/pcmanfm)
+* (6) [xplorer](https://github.com/kimlimjustin/xplorer)
+* (4) [mucommander](https://github.com/mucommander/mucommander)
+* (2) [thunar](https://docs.xfce.org/xfce/thunar/start)
+* (4) [doublecmd](https://github.com/doublecmd/doublecmd) - interesting because written in Pascal, but unclear whether I can even customize the gui colors (bar, sides, etc)
+* (2) [nemo](https://github.com/linuxmint/nemo)
+* (2) [nautilus]()
+* (2) [spacefm](https://github.com/thermitegod/spacefm) - need to package for Nix and include plugins, but looks quite promising
+* (2) [dolphin](https://apps.kde.org/dolphin/)
+* (2) [pcmanfm](https://github.com/lxde/pcmanfm)
+* (2) [pcmanfm-qt]()
 
 ## Other
-* ( ) [filebrowser](https://github.com/filebrowser/filebrowser) (web-based)
-* ( ) [CloudCommander](https://cloudcmd.io/)
-* ( ) [catcli](https://github.com/deadc0de6/catcli)
+* (2) [filebrowser](https://github.com/filebrowser/filebrowser) (web-based)
+* (4) [CloudCommander](https://cloudcmd.io/)
+* (2) [catcli](https://github.com/deadc0de6/catcli)
 
 ## Compression and Extraction
 * ( ) [bzip3](https://github.com/kspalaiologos/bzip3)

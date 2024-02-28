@@ -1,0 +1,6 @@
+{
+    "workbench.colorTheme": "Gruvbox Material Dark",
+    "explorer.confirmDragAndDrop": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.titleBarStyle": "custom"
+}

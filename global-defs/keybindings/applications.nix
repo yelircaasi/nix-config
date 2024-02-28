@@ -1112,7 +1112,133 @@ in {
   # ============================================================================
   browser = rec {
     commonBrowser = {};
-    nyxt = let rn = convertTo.nyxt; in {};
+    nyxt = let
+      rn = convertTo.nyxt;
+    in {
+      set-url = {};
+      reload-current-buffer = {};
+      set-url-new-buffer = {};
+      switch-buffer-previous = {};
+      history-backwards = {};
+      history-forwards = {};
+      follow-hint = {};
+      follow-hint-new-buffer = {};
+      quit = {};
+      execute-command = {};
+      describe-bindings = {};
+
+      run-action-on-return = {};
+      set-action-on-return = {};
+      toggle-mark-forwards = {};
+      mark-all = {};
+      unmark-all = {};
+      toggle-mark-all = {};
+      toggle-attributes-display = {};
+
+      list-messages = {};
+
+      scroll-down = {};
+      scroll-up = {};
+      scroll-page-down = {};
+      scroll-page-up = {};
+      scroll-to-bottom = {};
+      scroll-to-top = {};
+
+      set-url = {};
+      set-url-new-buffer = {};
+      make-buffer-focus = {};
+      switch-buffer = {};
+      switch-buffer-next = {};
+      switch-buffer-previous = {};
+      copy = {};
+      paste = {};
+      copy-url = {};
+      copy-title = {bind = "${keys.alt}+${keys.c} ${keys.t}";};
+      copy-placeholder = {};
+      copy-hint-url = {};
+      copy-username = {};
+      copy-password = {};
+      copy-password-prompt-details = {};
+      paste-from-clipboard-ring = {};
+      show-system-information = {};
+      follow-hint = {};
+      follow-hint-new-buffer-focus = {};
+      follow-hint-new-buffer = {};
+
+      history-forwards = {};
+      history-backwards = {};
+      history-forwards-query = {};
+      history-backwards-query = {};
+      history-forwards-all-query = {};
+      history-all-query = {};
+
+      search-buffer = {};
+      search-buffers = {};
+      remove-search-marks = {};
+
+      bookmark-current-url = {};
+      bookmark-buffer-url = {};
+      bookmark-url = {};
+      bookmark-hint = {};
+      set-url-from-bookmark = {};
+      delete-bookmark = {};
+      list-bookmarks = {};
+      import-bookmarks-from-html = {};
+      bookmark-frequent-visits-mode = {};
+
+      annotate-current-url = {};
+      annotate-highlighted-text = {};
+      show-annotation = {};
+      show-annotation = {};
+      show-annotations = {};
+      show-annotations-for-current-url = {};
+
+      enable-modes = {};
+      disable-modes = {};
+      toggle-mode = {};
+
+      no-image-mode = {};
+      no-script-mode = {};
+      no-webgl-mode = {};
+
+      jump-to-heading = {};
+      previous-heading = {};
+      next-heading = {};
+      jump-to-heading-buffers = {};
+
+      go-next = {};
+      go-previous = {};
+      go-up = {};
+      go-to-homepage = {};
+
+      spell-check-word = {};
+      spell-check-word-at-cursor = {};
+      spell-check-suggest-word = {};
+      spell-check-highlighted-word = {};
+      spell-check-list-languages = {};
+      spell-check-text-input = {};
+
+      visual-mode = {};
+      select-paragraph = {};
+      toggle-mark = {};
+      forward-char = {};
+      backward-char = {};
+      forward-word = {};
+      backward-word = {};
+      forward-line = {};
+      backward-line = {};
+      beginning-line = {};
+      end-line = {};
+      forward-sentence = {};
+      backward-sentence = {};
+
+      forward-char-with-selection = {};
+      backward-char-with-selection = {};
+      forward-line-with-selection = {};
+      backward-line-with-selection = {};
+
+      # continue from https://nyxt.atlas.engineer/documentation#automation
+    };
     qutebrowser = let rn = convertTo.qutebrowser; in {};
     chromium = let rn = convertTo.chromium; in {};
     firefox = let rn = convertTo.firefox; in {};

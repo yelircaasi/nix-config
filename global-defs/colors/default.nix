@@ -36,6 +36,7 @@ in rec {
   # nvim_Terminal = bg;
   inherit (p) bg fg;
 
+  # ide
   nvim = {
     #=UI Backgrounds========================================================================================================
     #=Syntax================================================================================================================
@@ -195,4 +196,41 @@ in rec {
     statusline = {
     };
   };
+  emacs = {};
+  idea = {};
+
+  # widgets, bar, etc.
+  waybar = {};
+  ags = {};
+
+  # cli
+  bat = {};
+  spotify-tui = {};
+
+  # desktop environment theming framework
+  gtk = {};
+  # https://gitlab.gnome.org/GNOME/nautilus/-/blob/main/src/resources/style.css
+  # https://github.com/hugolabe/Wike/blob/caf8644d3251e5a1a1ae7269411cf082e1c5a9cb/data/gtk/style.css
+  # https://github.com/tsujan/Kvantum
+  # https://gitlab.gnome.org/GNOME/gedit/-/tree/master/gedit/resources/css
+  kvantum = {};
+
+  # gui file browsers
+  thunar = {};
+  mucommander = {};
+  pcmanfm = {};
+  pcmanfm-qt = {};
+  spacefm = {};
+  nautilus = {};
+  nemo = {};
+  dolphin = {};
+  filebrowser = {};
+
+  # browsers
+  qutebrowser = {};
+  nyxt = {};
+  ungoogled-chromium = {};
+  luakit = {};
+  vimb = {};
+  vieb = {};
 }

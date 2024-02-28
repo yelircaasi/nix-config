@@ -11,8 +11,8 @@
       src = pkgs.fetchFromGitHub {
         owner = "yelircaasi";
         repo = "landscape-client-nixos";
-        rev = "acc65b738465efa5de1993386d418977b98ef694";
-        sha256 = "sha256-jvKCE7qyixRyEeLlKABXOF5yTwT0QJg3Wnd2DE6eFvg=";
+        rev = "1b09962787a2d4d35f78b2795d7709474474535f";
+        sha256 = "sha256-/zD1GB4POqjEqIzb8LzDyAt9vR4fGinNM+YTqwAy11o=";
       };
 
       nativeBuildInputs = with pkgs; [

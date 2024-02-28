@@ -1,6 +1,6 @@
 {pkgs, ...}: {
   environment.systemPackages = with pkgs; [
-    kanata
+    kanata-with-cmd
   ];
   services.kanata = {
     enable = true;

@@ -26,117 +26,97 @@
       extraSystemPackageNames = [];
       additionalModules = [];
     };
-    deviceDeclarations = {
-      betsy =
-        defaultDeclaration
-        // {
-          name = "betsy";
-          description = "Personal laptop - Tuxedo Aura 15";
-          defaultShell = "bash";
-          otherShells = ["bash"];
-          windowManagers = ["hyprland" "sway" "swayfx"];
-          additionalModules = [];
-        };
-      hank =
-        defaultDeclaration
-        // {
-          name = "hank";
-          description = "Work laptop - Tuxedo Stellaris 15 (with NVIDIA GeForce RTX 3080 GPU)";
-          defaultShell = "bash";
-          otherShells = ["bash"];
-          compositors = ["hyprland" "sway" "swayfx"];
-          desktopEnvironments = ["gnome"];
-          nvidia = true;
-          pipewire = true;
-          jack = false;
-          networkmanager = true;
-          wayland = true;
-          x11 = true;
-          ssh-server = true;
-          docker = true;
-          podman = true;
-          printing = true;
-        };
-      elsie =
-        defaultDeclaration
-        // {
-          name = "elsie";
-          description = "Dell Inspiron 14 - old, underpowered, and 32-bit (i686), used primarily for reading and note-taking while traveling; also good for experimentation";
-          defaultShell = "bash";
-          shells = ["bash"];
-          windowManager = [];
-          additionalModules = [];
-        };
-      malina =
-        defaultDeclaration
-        // {
-          name = "malina";
-          description = "Raspberry Pi 3b+, aarch64 - non-GUI, primarily home server";
-          defaultShell = "bash";
-          otherShells = ["bash"];
-          compositors = [];
-          additionalModules = [];
-        };
-      khmara =
-        defaultDeclaration
-        // {
-          name = "khmara";
-          description = "Linode cloud device";
-          defaultShell = "bash";
-          otherShells = ["bash"];
-          compositors = [];
-          additionalModules = [];
-        };
-      doxie =
-        defaultDeclaration
-        // {
-          name = "doxie";
-          description = "Lightweight non-GUI development environment, suitable for use containers (see yelircaasi/nix on Dockerhub)";
-          defaultShell = "bash";
-          otherShells = ["bash"];
-          compositors = [];
-          additionalModules = [];
-        };
-      delilah =
-        defaultDeclaration
-        // {
-          name = "delilah";
-          description = "Lightweight non-GUI environment, primarily for experimentation";
-          defaultShell = "bash";
-          otherShells = ["bash"];
-          compositors = [];
-          additionalModules = [];
-        };
-      ferris =
-        defaultDeclaration
-        // {
-          name = "ferris";
-          description = "nix-on-Droid on LineageOS running on Fairphone 4";
-          defaultShell = "bash";
-          otherShells = ["bash"];
-          compositors = [];
-          additionalModules = [];
-        };
-      charlie =
-        defaultDeclaration
-        // {
-          name = "charlie";
-          description = "nix-mobile on Fairphone 4";
-          defaultShell = "bash";
-          otherShells = ["bash"];
-          compositors = [];
-          additionalModules = [];
-        };
-      jamie =
-        defaultDeclaration
-        // {
-          name = "jamie";
-          description = "nix-mobile on Pinephone64";
-          defaultShell = "bash";
-          otherShells = ["bash"];
-          compositors = [];
-          additionalModules = [];
-        };
+    deviceDeclarations = mylib.updateAttrsWith defaultDeclaration {
+      betsy = {
+        name = "betsy";
+        description = "Personal laptop. Tuxedo Aura 15";
+        defaultShell = "bash";
+        otherShells = ["bash"];
+        windowManagers = ["hyprland" "sway" "swayfx"];
+        additionalModules = [];
+      };
+      hank = {
+        name = "hank";
+        description = "Work laptop. Tuxedo Stellaris 15 (with NVIDIA GeForce RTX 3080 GPU)";
+        defaultShell = "bash";
+        otherShells = ["bash"];
+        compositors = ["hyprland" "sway" "swayfx"];
+        desktopEnvironments = ["gnome"];
+        nvidia = true;
+        pipewire = true;
+        jack = false;
+        networkmanager = true;
+        wayland = true;
+        x11 = true;
+        ssh-server = true;
+        docker = true;
+        podman = true;
+        printing = true;
+      };
+      elsie = {
+        name = "elsie";
+        description = "Dell Inspiron 14. Old, underpowered, and 32-bit (i686), used primarily for reading and note-taking while traveling; also good for experimentation";
+        defaultShell = "bash";
+        shells = ["bash"];
+        windowManager = [];
+        additionalModules = [];
+      };
+      malina = {
+        name = "malina";
+        description = "Raspberry Pi 3b+, aarch64 - non-GUI, primarily home server";
+        defaultShell = "bash";
+        otherShells = ["bash"];
+        compositors = [];
+        additionalModules = [];
+      };
+      khmara = {
+        name = "khmara";
+        description = "Linode cloud device";
+        defaultShell = "bash";
+        otherShells = ["bash"];
+        compositors = [];
+        additionalModules = [];
+      };
+      doxie = {
+        name = "doxie";
+        description = "Lightweight non-GUI development environment, suitable for use containers (see yelircaasi/nix on Dockerhub)";
+        defaultShell = "bash";
+        otherShells = ["bash"];
+        compositors = [];
+        additionalModules = [];
+      };
+      delilah = {
+        name = "delilah";
+        description = "Lightweight non-GUI environment, primarily for experimentation";
+        defaultShell = "bash";
+        otherShells = ["bash"];
+        compositors = [];
+        additionalModules = [];
+      };
+      ferris = {
+        name = "ferris";
+        description = "nix-on-Droid on LineageOS running on Fairphone 4";
+        defaultShell = "bash";
+        otherShells = ["bash"];
+        compositors = [];
+        additionalModules = [];
+      };
+      charlie = {
+        name = "charlie";
+        description = "nix-mobile on Fairphone 4";
+        defaultShell = "bash";
+        otherShells = ["bash"];
+        compositors = [];
+        additionalModules = [];
+      };
+      jamie = {
+        name = "jamie";
+        description = "nix-mobile on Pinephone64";
+        defaultShell = "bash";
+        otherShells = ["bash"];
+        compositors = [];
+        additionalModules = [];
+      };
     };
 
     g = import ./global-defs {inherit inputs;}; # -> move g.lib to nixos-utils flake

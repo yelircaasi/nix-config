@@ -81,3 +81,44 @@ Having things organized this way means that it is easier to get a sense, at a gl
 ## Keybindings
 
 Coming soon...
+
+## Roadmap
+
+- [ ] Add user `nixtest` to be able to try out things without interfering with the main user, `isaac`
+- [ ] examine why I only have 2/3 of the hard drive
+- [ ] add sops-nix (first try in test user or in container, with inconsequential secrets)
+- [ ] package and build cosmic-files to see if it is worth using
+- [ ] look into having different apps used in different environments (compositors / pop!OS when it arrives)
+- [ ] see how good I can get Thunar
+      https://github.com/search?q=repo%3Axfce-mirror%2Fthunar%20css&type=code
+      https://github.com/wochap/nix-config/blob/16381ebb2a781c0d8330027b7387d7026cc1d7cd/modules/nixos/programs/gui/thunar/default.nix#L4
+      https://github.com/MatthiasBenaets/nixos-config/blob/117d3168c85198ee47b8d9152b7ee293d93f5849/modules/programs/thunar.nix#L9
+      https://github.com/donovanglover/nix-config/blob/6d047a956776724fa234d04f3d761f8a914e8b52/modules/thunar.nix#L4
+      https://github.com/RGBCube/NixOSConfiguration/blob/050c0bc884bcbb0d0aa75d6c8ac1448484473e81/modules/thunar.nix#L4
+      https://github.com/elohmeier/ptsd/blob/49f2a1c2a3e2693f4af8dc6beaffc222c9d11927/modules/home/xfce95.nix#L43
+      https://github.com/maxbrunet/dotfiles/blob/022082eb3cea788802d1b3ae3dd125330fe9be81/nix/nixos.nix#L124
+      https://github.com/Sigmanificient/dotfiles/blob/48f645ed8971275f9aab280005eb361dcf755ee0/home/thunar/default.nix#L4
+      https://github.com/chiivo/nixos-dotfiles/blob/42e490aae6ef998b0bdde01fb3f8fa7163f1b122/configuration.nix#L88 
+      https://github.com/bnjmnt4n/system/blob/c9d5406a55b96fe562c9f4149091fa027ee24a8a/lib/commands.nix#L12
+      https://github.com/cor/nixos-config/blob/64973034f428bd1a3b4682725e0f9e961dfd3985/modules/thunar.nix
+      https://github.com/bnjmnt4n/system/blob/c9d5406a55b96fe562c9f4149091fa027ee24a8a/hosts/raspy/bnjmnt4n.nix#L30 
+      https://github.com/matejc/helper_scripts/blob/57aa247cfec9ce0fd3b5d00af0709926fc0def7b/dotfiles/settings-wsl.nix#L23
+      https://github.com/mahmoudk1000/nix-config/blob/07ef6705f384c767094cf84fb1a6166185d4f0bc/modules/services/sxhkd.nix#L22
+- [ ] spacefm
+      https://github.com/ksevelyar/idempotent-desktop/blob/c7251ecf774c451bf8d092d6bcff0346f8227bbb/users/shared/spacefm/spacefm.conf
+      use this: https://github.com/thermitegod/spacefm, with this as template: https://github.com/NixOS/nixpkgs/blob/nixos-23.05/pkgs/applications/file-managers/spacefm/default.nix#L57
+      figure out how to add plugins via Nix: https://github.com/IgnorantGuru/spacefm/wiki/Plugins, https://github.com/db-inf/spacefm-plugins, https://github.com/KeithDHedger/SpaceFM-Plugins (maybe best to just build it, import a plugin, and observe where the plugin goes)
+- [ ] pcmanfm
+      https://github.com/kyleraykbs/Kyle-NixOS-Config/blob/98918cdddc6094ea52b89310b8e5436857775a97/modules/home/pcmanfm.nix#L9
+      https://github.com/kmjayadeep/nixdots/blob/675a7aecfe3fe5f15d5d074977eaf6042a17018c/home/xdg.nix#L13
+      https://github.com/matejc/helper_scripts/blob/57aa247cfec9ce0fd3b5d00af0709926fc0def7b/nixes/homemanager/contexts/wsl.nix#L53
+      https://github.com/hervyqa/swayhome/blob/7db3f2de6a6ef8c3f524c2711a1f2bab73bdfa4f/home/xdg/mimeapps.nix#L20
+- [ ] pcmanfm-qt - pcmanfm is good for theming with gtk; use this to get qt options working
+      https://github.com/mogria/nixos-config/blob/33482ac91bbb502802160c47d2bf013841d6d222/apps/pcmanfm.nix#L4
+      https://github.com/corytertel/nix-configuration/blob/841d1ea8738d935bb79b56237d223b739ec16e11/overlays/pcmanfm-qt.nix#L4
+      https://github.com/makefu/nixos-config/blob/8576c64f5f4c3dce870c626664183c5b3d3196a7/2configs/tools/pcmanfm-extra.nix#L4
+- [ ] look at ghostty
+      [example](https://github.com/cor/nixos-config/commit/64973034f428bd1a3b4682725e0f9e961dfd3985)
+- [ ] get riverwm working
+      https://github.com/devins2518/dotfiles/blob/f114c55f40d96965c83a03251e239969e02249ff/HM/river.nix#L24
+

@@ -1,6 +1,16 @@
 rec {
   # notes: best format should be universal, so maybe something that contains
+  syntax = {
+    "action" = "someActionTaken";
+    "description" = "additional notes, as needed (optional)";
+    "command" = "the command that is executed";
+    "type" = "one of: single, modified, chord";
+    "keys" = "attrSet containg 'key' for single, 'mod' and 'base' / 'bases' for modified, [] for chord (where each entry is of the type modified)";
+  };
+  # keysAlternative = "${key} | ${mod}+${base} | ${mod}+${base}+${base} | ${chord1} ${chord2} | ${chord1} ${chord2} ${chord3}";
+
   keys = {
+    ph = "PLACEHOLDER";
     super = "SUPER";
     a = "a";
     b = "b";
@@ -108,4 +118,59 @@ rec {
     showTabBar = {};
   };
   browser = {};
+  ide = {
+    writeFile = {};
+    writeAndQuit = {};
+
+    # terminal
+    openTerminal = {};
+    closeTerminal = {};
+
+    # file exploration
+    openFileTree = {};
+    closeFileTree = {};
+    openFloatingFileBrowser = {};
+    closeFloatingFileBrowser = {};
+
+    # opening files
+    openFileInSplitLeft = {};
+    openFileInSplitRight = {};
+    openFileInSplitAbove = {};
+    openFileInSplitBelow = {};
+
+    # navigation between files
+    goToNextBuffer = {};
+    goToPreviousBuffer = {};
+    goToNextTab = {};
+    goToPreviousTab = {};
+    goToWindowRight = {};
+    goToWindowLeft = {};
+    goToWindowAbove = {};
+    goToWindowBelow = {};
+    resizeSplitLeft = {};
+    resizeSplitRight = {};
+    resizeSplitUp = {};
+    resizeSplitDown = {};
+
+    # linting, formatting, testing, etc. and related navigation
+    lintFullDirectory = {};
+    typeCheckFullDirectory = {};
+    runAllTests = {};
+    goToLintOrTestOutput = {};
+    openFileFromLintOrTestOutput = {};
+    incrementValueUnderCursor = {};
+    openLinkInBrowser = {};
+    pickBuffer = {};
+
+    # refactoring
+
+    # snippets
+
+    # autocomplete
+
+    # code actions (first need to configure lspsaga)
+    ## https://github.com/aznhe21/actions-preview.nvim
+
+    # quickfix
+  };
 }

@@ -5,10 +5,13 @@
 }: {
   imports = [
     ./applications/common
+    ./applications/work-garbage
     #./environments/flatpak
     #./environments/x11/wm/i3
     #./environments/x11/wallpaper/nitrogen
     #./environments/x11/compositor/picom
+
+    ./applications/gui/editor-and-ide/vscodium
 
     ./desktop-environment/wayland/wm/hyprland
     ./desktop-environment/wayland/launcher/fuzzel
@@ -31,7 +34,7 @@
     stateVersion = "23.11";
     packages = with pkgs; [
       docker
-      kanata
+      # kanata
       #libGL
       (writeShellScriptBin "test-hm" ''
         echo "this runs successfully!"

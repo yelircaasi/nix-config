@@ -1,10 +1,5 @@
-{
-  lib,
-  config,
-  pkgs,
-  ...
-}: {
-  home.packages = [jira-cli-go];
+{pkgs, ...}: {
+  home.packages = [pkgs.azure-cli];
   #xdg.configFile.jira = {
   #  source = ./jira;
   #  recursive = true;

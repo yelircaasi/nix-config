@@ -2,6 +2,10 @@
   inputs,
   g,
 }: rec {
+  updateAttrsWith = defaultSet: setOfSets:
+    builtins.mapAttrs
+    (name: configSet: defaultSet // configSet)
+    setOfSets;
   makeNixosConfig = {
     name,
     description,

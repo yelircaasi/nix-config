@@ -18,6 +18,8 @@
     ../gui/browser/nyxt
     ../gui/browser/qutebrowser
     ../gui/browser/ungoogled-chromium
+    ../gui/browser/vieb
+    # ../gui/browser/firefox
   ];
 
   home = {

@@ -11,12 +11,14 @@
     #./environments/x11/wallpaper/nitrogen
     #./environments/x11/compositor/picom
 
-    ./applications/gui/editor-and-ide/vscodium
+    # ./applications/gui/editor-and-ide/vscodium
 
     ./desktop-environment/wayland/wm/hyprland
     ./desktop-environment/wayland/launcher/fuzzel
     ./desktop-environment/wayland/bar/waybar
     ./desktop-environment/theming/gtk
+
+    #./desktop-environment/hyprland-ags.nix
   ];
 
   nixpkgs = {

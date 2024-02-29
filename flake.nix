@@ -130,20 +130,20 @@
   inputs = {
     # Nixpkgs
     nixpkgs = {
-      url = "github:nixos/nixpkgs/b8b232ae7b8b144397fdb12d20f592e5e7c1a64d";
+      url = "github:nixos/nixpkgs/44c70a37071aff4360ff5453fb04e107680d1f70";
       #url = "github:nixos/nixpkgs/nixos-unstable";
     };
 
     # Home Manager
     home-manager = {
-      url = "github:nix-community/home-manager/230836bb7ca318aec7bad8442954da611d06a172";
+      url = "github:nix-community/home-manager/2f3367769a93b226c467551315e9e270c3f78b15";
       #url = "github:nix-community/home-manager/release-23.11";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
     # Neovim
     neovim-nightly-overlay = {
-      url = "github:nix-community/neovim-nightly-overlay/1da2e054a16309d7d7f7669438c8b9a5ef1b4642";
+      url = "github:nix-community/neovim-nightly-overlay/ba07638ead045e7e2ecf9415727a694ad7cb7a66";
       inputs.nixpkgs.follows = "nixpkgs";
     };
 

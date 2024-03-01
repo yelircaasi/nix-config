@@ -1,8 +1,12 @@
 {
+  pkgs,
   lib,
   deviceConfig,
   ...
 }: {
+  environment.systemPackages = with pkgs; [
+    networkmanagerapplet
+  ];
   networking.hostName = "nixos-${deviceConfig.name}"; # Define your hostname.
   # networking.wireless.enable = true;  # Enables wireless support via wpa_supplicant.
 

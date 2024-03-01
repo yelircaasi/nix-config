@@ -20,21 +20,20 @@
 
 ## Screenshot and Screen Recording / Screencasting / Streaming / etc.
 * https://github.com/flameshot-org/flameshot
-* ( ) [to-html](https://github.com/Aloso/to-html) [(2) Render a terminal as HTML with `to-html` : rust](https://www.reddit.com/r/rust/comments/juhbo3/render_a_terminal_as_html_with_tohtml/) -> do I need to hack this for WezTerm etc.?
-* ( ) [screenkey](https://gitlab.com/screenkey/screenkey)
-* ( ) [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
-* ( ) [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder. https://asciinema.org/
-* ( ) [carbon-now-cli -  Beautiful](https://github.com/mixn/carbon-now-cli -  Beautiful) images of your code — from right inside your terminal.
-* ( ) [streamlink](https://github.com/streamlink/streamlink) - Extract streams from various websites to a video player of your choosing.
-* ( ) [Flameshot](https://flameshot.org/) - Powerful yet simple to use screenshot software.
-* ( ) [asciinema](https://asciinema.org/) - Terminal session recorder.
+* (2) [to-html](https://github.com/Aloso/to-html) [(2) Render a terminal as HTML with `to-html` : rust](https://www.reddit.com/r/rust/comments/juhbo3/render_a_terminal_as_html_with_tohtml/) -> do I need to hack this for WezTerm etc.?
+* (2) [screenkey](https://gitlab.com/screenkey/screenkey)
+* (5) [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
+* (2) [shot-scraper](https://github.com/simonw/shot-scraper)
+* (2) [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder. https://asciinema.org/
+* (2) [carbon-now-cli -  Beautiful](https://github.com/mixn/carbon-now-cli -  Beautiful) images of your code — from right inside your terminal.
+* (2) [streamlink](https://github.com/streamlink/streamlink) - Extract streams from various websites to a video player of your choosing.
+* (2) [Flameshot](https://flameshot.org/) - Powerful yet simple to use screenshot software.
 * ( ) [ffscreencast](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
 * ( ) [swordfish-rs](https://github.com/vim-zz/swordfish-rs) - Mimics real person behavior with realtime typing into terminal; uses a screenplay where text and timings are specified.
 * ( ) [menyoki](https://menyoki.cli.rs/) - Screen{shot,cast} and perform ImageOps on the command line.
-* ( ) [ffscreencast](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
 
 ## Terminal Image/Video Viewing
-* ( ) [feh](https://git.finalrewind.org/feh) - "X11 image viewer aimed mostly at console users" (cit.); with no fancy GUI, it is controlled via commandline arguments and configurable key/mouse actions.
+* (6) [feh](https://git.finalrewind.org/feh) - "X11 image viewer aimed mostly at console users" (cit.); with no fancy GUI, it is controlled via commandline arguments and configurable key/mouse actions.
 * ( ) [viu](https://github.com/atanunq/viu)
 * ( ) [viuer](https://github.com/atanunq/viuer)
 * ( ) [libsixel](https://github.com/saitoha/libsixel)

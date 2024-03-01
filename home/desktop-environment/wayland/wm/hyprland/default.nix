@@ -11,8 +11,11 @@
     # custom.screenshot
     hyprland-autoname-workspaces
     hyprpicker # color picker
-    wlogout
-    hyprpaper
+    wlogout # move
+    hyprpaper # move
+    mako # move
+    libnotify # move
+    swww # move
     # mpvpaper # Live wallpaper
     # scratchpad
   ];

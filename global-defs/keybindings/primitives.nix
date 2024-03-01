@@ -40,12 +40,12 @@ rec {
     y = "y";
     z = "z";
   };
-  layerShifter = {
-    default = ""; # keys.insert;
-    number = ""; # keys.semicolon;
-    parentheses = ""; # keys.rightSquareBracket;
-    asciiSpecial = ""; # keys.leftSquareBracket;
-    international = ""; # keys.backslash;
+  layers = {
+    default = {}; # keys.insert;
+    number = {}; # keys.semicolon;
+    parentheses = {}; # keys.rightSquareBracket;
+    asciiSpecial = {}; # keys.leftSquareBracket;
+    international = {}; # keys.backslash;
   };
   hybridModifiers = {
     "${keys.capslock}" = {
@@ -56,15 +56,15 @@ rec {
       tap = keys.ph;
       hold = keys.ph;
     };
-    "${keys._2}"= {
+    "${keys._2}" = {
       tap = keys.ph;
       hold = keys.ph;
     };
-    "${keys._3}"= {
+    "${keys._3}" = {
       tap = keys.ph;
       hold = keys.ph;
     };
-    "${keys._4}"= {
+    "${keys._4}" = {
       tap = keys.ph;
       hold = keys.ph;
     };
@@ -75,6 +75,7 @@ rec {
     "${keys._6}" = {
       tap = keys.ph;
       hold = keys.ph;
+    };
     "${keys._7}" = {
       tap = keys.ph;
       hold = keys.ph;
@@ -211,7 +212,6 @@ rec {
       tap = keys.ph;
       hold = keys.ph;
     };
-
   };
   bigramHybridRemaps = {
     "${keys.q}${keys.w}" = {};
@@ -238,6 +238,7 @@ rec {
     "${keys.y}${keys.w}" = {};
     "${keys.w}${keys.w}" = {};
     "${keys.p}${keys.w}" = {};
+    "${keys.p}${keys.q}" = {};
     "${keys.p}${keys.w}" = {};
   };
 
@@ -319,7 +320,25 @@ rec {
     changePaneLayoutTo = {};
     showTabBar = {};
   };
-  browser = {};
+  browser = rec {
+    browserMod = keys.altGr;
+    newTab = {};
+    newBuffer = {};
+    closeTab = {};
+    closeBuffer = {};
+    goToTabN = builtins.foldl' (n: {
+      "_${n}" = {
+        mod = browserMod;
+        base = n;
+      };
+    }) {} [0 1 2 3 4 5 6 7 8 9];
+    goToBookmarkN = builtins.foldl' (n: {
+      "_${n}" = {
+        mod = keys.b;
+        base = n;
+      };
+    }) {} [0 1 2 3 4 5 6 7 8 9];
+  };
   ide = {
     writeFile = {};
     writeAndQuit = {};

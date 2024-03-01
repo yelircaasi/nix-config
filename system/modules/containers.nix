@@ -12,6 +12,7 @@
     (lib.mkIf (deviceConfig.podman && deviceConfig.nvidia) nvidia-podman)
   ];
   virtualisation = {
+    containers.cdi.dynamic.nvidia.enable = deviceConfig.nvidia;
     docker = {
       enable = deviceConfig.docker;
       enableNvidia = deviceConfig.docker && deviceConfig.nvidia;
@@ -22,7 +23,7 @@
     };
     podman = {
       enable = deviceConfig.podman;
-      enableNvidia = deviceConfig.podman && deviceConfig.nvidia;
+      # enableNvidia = deviceConfig.podman && deviceConfig.nvidia;
     };
   };
 }

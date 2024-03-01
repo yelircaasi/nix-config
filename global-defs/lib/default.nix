@@ -21,7 +21,7 @@
   in
     lib.attrsets.getAttrFromPath attrPath globalSet;
 in
-  (import ./color_utils.nix)
+  (import ./color_utils.nix lib)
   // rec {
     readAndInterpolate = globalSet: filePath: let
       fileString = b.readFile filePath;
@@ -58,5 +58,4 @@ in
         (file: ! lib.strings.hasPrefix "." file && file != "default.nix")
         (builtins.attrNames (builtins.readDir ./.))
       );
-
   }

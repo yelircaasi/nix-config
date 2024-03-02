@@ -16,7 +16,7 @@
 
   sops.secrets.example_key = {
     # owner = "isaac";
-    path = "%r/test.txt";
+    path = "/home/isaac/Downloads/test.txt";
   };
   sops.secrets.azure = {
     sopsFile = ./azure.sh;

@@ -9,6 +9,11 @@ in {
 
   home.packages = with pkgs; [
     (
+      writeShellScriptBin "test-hm" ''
+        echo "this runs successfully!"
+      ''
+    )
+    (
       writers.writeBashBin
       "hm"
       ''

@@ -15,9 +15,11 @@
 
     # ./applications/gui/editor-and-ide/vscodium
 
-    ./desktop-environment/wayland/wm/hyprland
-    ./desktop-environment/wayland/launcher/fuzzel
-    ./desktop-environment/wayland/bar/waybar
+    #./desktop-environment/widgets/ags
+
+    ./desktop-environment/compositor/hyprland
+    ./desktop-environment/launcher/fuzzel
+    ./desktop-environment/widgets/bar/waybar
     ./desktop-environment/theming/gtk
 
     #./desktop-environment/hyprland-ags.nix
@@ -40,9 +42,6 @@
       docker
       # kanata
       #libGL
-      (writeShellScriptBin "test-hm" ''
-        echo "this runs successfully!"
-      '')
     ];
     sessionVariables = {
       EDITOR = "nvim";

@@ -1,47 +1,11 @@
-{pkgs, ...}: let
-  writePython3BinSdtlib = binName: scriptPath:
-    pkgs.writers.writePython3Bin binName {libraries = [pkgs.python311];}
-    builtins.readFile
-    scriptPath;
+{
+  pkgs,
+  deviceConfig,
+  ...
+}: let
+  writers = import ./bin-writers.nix {inherit pkgs;};
 in {
-  /*
-  https://github.com/NixOS/nixpkgs/blob/fcba479b3379331077ab893e4129024474c553f5/pkgs/build-support/writers/scripts.nix
-  https://github.com/NixOS/nixpkgs/blob/8fdcb826154d5aac4642a97a4b8c9241e2a16dc8/pkgs/build-support/trivial-builders/default.nix#L54
-  makeScriptWriter { interpreter, check ? "" }: nameOrPath: content: ...
-
-  writeBash = makeScriptWriter { interpreter = "${pkgs.bash}/bin/bash"; }
-  makeScriptWriter { interpreter = "${pkgs.dash}/bin/dash"; } "hello" "echo hello world"
-
-  writeSimpleC = makeBinWriter { compileScript = name: "gcc -o $out $contentPath"; }
-  makeBinWriter = { compileScript, strip ? true }: nameOrPath: content:
-
-  writeBash
-  writeBashBin
-  writeDash
-  writeDashBin
-  writeFish
-  writeFishBin
-  writeHaskell
-  writeHaskellBin
-  writeNu -> https://github.com/nushell/nu_scripts
-  writeNuBin
-  writeRuby
-  writeRubyBin
-  writeLua
-  writeLuaBin
-  writeRust
-  writeRustBin
-  writeJS
-  writeJSBin
-  writePerl
-  writePerlBin
-  writePython3
-  writePython3Bin
-
-
-
-
-  */
+  /**/
 
   home.packages = with pkgs; [
     (
@@ -67,8 +31,9 @@ in {
       ''
     )
 
-    (writePython311BinStdlib "viewhm" ./viewhm.py)
-    (writers.writeRustBin "lspath" (builtins.readFile ./lspath.rs))
+    (writers.writePython3NoDepsBin "viewhm" ./viewhm.py)
+    /*
+      (writers.writeRustBin "lspath" (builtins.readFile ./lspath.rs))
     (writers.writeBin "pysummary" (builtins.readFile ./pysummary.py))
     (writers.writeBin "gitsummary" (builtins.readFile ./gitsummary.lua))
     (writers.writeBin "ggs" (builtins.readFile ./ggs.lua))
@@ -97,5 +62,10 @@ in {
     (writers.writeBin "cudahelper" (builtins.readFile ./cudahelper.py))
     (writers.writeBin "langsummary" (builtins.readFile ./langsummary.hs))
     (writers.writeBin "flaketree" (builtins.readFile ./flaketree.hs))
+    (writers.writeRustBin "tempenvrc" (builtins.readFile ./tempenvrc.rs))
+    (writers.writePythonNoDepsBin "recoversops" (builtins.readFile ./recoversops.py))
+    # (writers.writePythonNoDepsBin "encryptsops" (builtins.readFile ./encryptsops.py))
+
+    */
   ];
 }

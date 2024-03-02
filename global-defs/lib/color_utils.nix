@@ -3,7 +3,15 @@
 in rec {
   # https://github.com/Misterio77/nix-colors/blob/b92df8f5eb1fa20d8e09810c03c9dc0d94ef2820/lib/core/conversions.nix#L87
   # https://colordesigner.io/convert
+  # https://www.hsluv.org/implementations/
+  # https://en.wikipedia.org/wiki/CIELAB_color_space
+  # https://www.hsluv.org/
+  # https://blog.frame.io/2020/02/03/color-spaces-101/
+  # https://de.wikipedia.org/wiki/Liste_der_Farbr%C3%A4ume
+  # https://bottosson.github.io/posts/colorpicker/ -> new spaces
+  # https://github.com/purenix-org/purenix
 
+  /*
   HexCharToInt = hexChar:
     {
       "0" = 0;
@@ -129,7 +137,7 @@ in rec {
   h, s, l = 0, 100, 50  # Pure red
   r, g, b = hsl_to_rgb(h, s, l)
   print(f"HSL: ({h}, {s}, {l}) -> RGB: ({r}, {g}, {b})")
-  */
+  
   HexToHSL = hexString: RGBToHSL (HexToRGB hexString);
 
   interpolateEuclideanRGB = rgb1: rgb2: {
@@ -187,4 +195,5 @@ in rec {
     saturation = 0;
     lightness = 0;
   };
+  */
 }

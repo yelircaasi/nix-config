@@ -7,12 +7,15 @@
   extraCfg = {
     gtk-application-prefer-dark-theme = 1;
   };
-  extraCss = ''
+  extraCss3 = builtins.readFile ./gtk3.css;
+  extraCss4 = builtins.readFile ./gtk4.css;
+  /* ''
       * {
       background-color: #000800;
       color: #ffffff;
     }
   '';
+  */
 in {
   gtk = {
     enable = true;
@@ -30,7 +33,7 @@ in {
     };
     gtk3.extraConfig = extraCfg;
     gtk4.extraConfig = extraCfg;
-    gtk3.extraCss = extraCss;
-    gtk4.extraCss = extraCss;
+    gtk3.extraCss = extraCss3;
+    gtk4.extraCss = extraCss4;
   };
 }

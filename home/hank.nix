@@ -6,6 +6,8 @@
   imports = [
     ./applications/common
     ./applications/work-garbage
+
+    ./sops
     #./environments/flatpak
     #./environments/x11/wm/i3
     #./environments/x11/wallpaper/nitrogen
@@ -50,5 +52,5 @@
   # Nicely reload system units when changing configs
   systemd.user.startServices = "sd-switch";
 
-  xdg.configFile."kanata/kanata.kbd".source = ../system/modules/kanata/kanata.kbd;
+  xdg.configFile."kanata/kanata.kbd".source = ../system/modules/input/kanata/kanata.kbd;
 }

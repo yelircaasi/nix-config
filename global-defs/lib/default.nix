@@ -21,7 +21,7 @@
   in
     lib.attrsets.getAttrFromPath attrPath globalSet;
 in
-  (import ./color_utils.nix lib)
+  (import ./color_utils.nix {inherit lib;})
   // rec {
     readAndInterpolate = globalSet: filePath: let
       fileString = b.readFile filePath;

@@ -34,5 +34,5 @@
 
   systemd.user.startServices = "sd-switch";
 
-  xdg.configFile."kanata/kanata.kbd".source = ../system/modules/kanata/kanata.kbd;
+  xdg.configFile."kanata/kanata.kbd".source = ../system/modules/input/kanata/kanata.kbd;
 }

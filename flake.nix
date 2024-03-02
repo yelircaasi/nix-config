@@ -147,6 +147,12 @@
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
+    # Secret management via sops
+    sops-nix = {
+      url = "github:Mic92/sops-nix/a1c8de14f60924fafe13aea66b46157f0150f4cf";
+      inputs.nixpkgs.follows = "nixpkgs";
+    };
+
     # nix-utils
     # nix-utils = {
     #   url = "github:yelircaasi/nix-utils/...";

@@ -54,5 +54,5 @@ in {
   # Nicely reload system units when changing configs
   systemd.user.startServices = "sd-switch";
 
-  # xdg.configFile."kanata/kanata.kbd".source = .../. + ./nixos/components/kanata/kanata.kbd ;
+  # xdg.configFile."kanata/kanata.kbd".source = .../. + ./nixos/components/input/kanata/kanata.kbd ;
 }

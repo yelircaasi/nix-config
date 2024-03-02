@@ -4,6 +4,7 @@
   ];
   services.kanata = {
     enable = true;
+    package = pkgs.kanata-with-cmd;
     # package = pkgs.rustPlatform.buildRustPackage {
     #   pname = "kanata";
     #   version = "1.3.0-git";

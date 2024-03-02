@@ -7,7 +7,15 @@ HOME = Path("/home/isaac")
 CLEAR = "\033[0m"
 RED = "\033[0;31m"
 BLUE = "\033[0;34m"
-exempt = {".cache", ".config", "Knecon", "Learning", "Documents", "Downloads", "OLD"}
+exempt = {
+    ".cache",
+    ".config",
+    "Knecon",
+    "Learning",
+    "Documents",
+    "Downloads",
+    "OLD",
+}
 
 
 def red(s: str) -> None:

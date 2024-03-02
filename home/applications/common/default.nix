@@ -19,7 +19,7 @@
     ../gui/browser/qutebrowser
     ../gui/browser/ungoogled-chromium
     ../gui/browser/vieb
-    # ../gui/browser/firefox
+    #../gui/browser/firefox
   ];
 
   home = {

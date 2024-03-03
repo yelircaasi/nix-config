@@ -89,7 +89,9 @@ Coming soon...
 - [ ] add sops-nix (first try in test user or in container, with inconsequential secrets)
       - [x] first get working with dummy strings
       - [ ] add real secrets
-- [ ] package and build cosmic-files to see if it is worth using
+- [x] get sddm working with chili theme
+- [ ] learn how to set default file browser
+- [ ] add gtk2 theme and ensure that kde/qt apps are working with it
 - [ ] look into having different apps used in different environments (compositors / pop!OS when it arrives)
 - [ ] learn about how icons work on NixOS
       - [ ] [wiki](https://nixos.wiki/wiki/Packaging/Icons)
@@ -100,6 +102,7 @@ Coming soon...
       - [ ] [wiki](https://nixos.wiki/wiki/Fonts)
       - [ ] [discourse](https://discourse.nixos.org/t/manually-install-icon-pack/9064)
       - [ ] figure out the deal with /run/current-system/sw/share/X11/fonts 
+- [ ] package and build cosmic-files to see if it is worth using
 - [ ] see how good I can get Thunar
       https://github.com/search?q=repo%3Axfce-mirror%2Fthunar%20css&type=code
       https://github.com/wochap/nix-config/blob/16381ebb2a781c0d8330027b7387d7026cc1d7cd/modules/nixos/programs/gui/thunar/default.nix#L4

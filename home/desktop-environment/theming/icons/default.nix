@@ -1,3 +1,3 @@
 {pkgs, ...}: {
-  xdg.icons.enable = true;
+  # xdg.icons.enable = true;
 }

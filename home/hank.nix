@@ -14,6 +14,7 @@
     #./environments/x11/compositor/picom
 
     # ./applications/gui/editor-and-ide/vscodium
+    ./applications/gui/file-browser/thunar
 
     #./desktop-environment/widgets/ags
 

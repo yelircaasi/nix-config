@@ -13,6 +13,7 @@
     ./modules/desktop-environment/gnome
     ./modules/desktop-environment/xfce
     ./modules/desktop-environment/kde
+    ./modules/gui-file-browser/thunar.nix
     ./modules/input/kanata
     ./modules/windowing-protocol/wayland.nix
     ./modules/windowing-protocol/x11.nix

@@ -67,6 +67,8 @@ in {
   writeRakuBin = ;
   writeTS = ;
   writeTSBin  = ;
+  writeOcaml = ;
+  writeOcamlBin = ;
   writeIdris = ;
   writeIdrisBin = ;
   writeAgda = ;

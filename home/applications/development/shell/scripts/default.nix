@@ -38,7 +38,11 @@ in {
 
     (writers.writePython3NoDepsBin "viewhm" ./viewhm.py)
     /*
-      (writers.writeRustBin "lspath" (builtins.readFile ./lspath.rs))
+    (writers.writeRustBin "lspath" (builtins.readFile ./lspath.rs))
+    (writers.writeRustBin "mimesummary" (builtins.readFile ./mimesummary.rs))
+    (writers.writeRustBin "desktopsummary" (builtins.readFile ./desktopsummary.rs))
+    (writers.writeRustBin "servicesummary" (builtins.readFile ./servicesummary.rs))
+    (writers.writeRustBin "lspath" (builtins.readFile ./lspath.rs))
     (writers.writeBin "pysummary" (builtins.readFile ./pysummary.py))
     (writers.writeBin "gitsummary" (builtins.readFile ./gitsummary.lua))
     (writers.writeBin "ggs" (builtins.readFile ./ggs.lua))

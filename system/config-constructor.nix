@@ -17,6 +17,7 @@
     ./modules/windowing-protocol/wayland.nix
     ./modules/windowing-protocol/x11.nix
     ./modules/containers.nix
+    ./modules/display-manager.nix
     ./modules/hardware.nix
     ./modules/miscellaneous-services.nix
     ./modules/networking.nix

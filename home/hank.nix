@@ -20,7 +20,11 @@
     ./desktop-environment/compositor/hyprland
     ./desktop-environment/launcher/fuzzel
     ./desktop-environment/widgets/bar/waybar
+
     ./desktop-environment/theming/gtk
+    ./desktop-environment/theming/qt
+    ./desktop-environment/theming/fonts
+    ./desktop-environment/theming/icons
 
     #./desktop-environment/hyprland-ags.nix
   ];

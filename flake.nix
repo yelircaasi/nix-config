@@ -32,7 +32,7 @@
         description = "Personal laptop. Tuxedo Aura 15";
         defaultShell = "bash";
         otherShells = ["bash"];
-        windowManagers = ["hyprland" "sway" "swayfx"];
+        # windowManagers = ["hyprland" "sway" "swayfx"];
         additionalModules = [];
       };
       hank = {

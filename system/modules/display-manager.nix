@@ -13,6 +13,7 @@
   ];
   # services.xserver.displayManager.lightdm.enable = true;
   # services.xserver.displayManager.lightdm.greeter.package = pkgs.lightdm-gtk-greeter;
+  # services.xserver.displayManager.lightdm.greeter.name = "lightdm-gtk-greeter";
   # services.xserver.displayManager.lightdm.greeters.gtk.enable = true;
 
   # services.xserver.displayManager.sddm = {
@@ -37,15 +38,20 @@
   # services.xserver.displayManager.sddm.enableHidpi = true;
   # services.xserver.displayManager.sddm.wayland.enable = true;
 
+  # services.xserver.displayManager.job = {
+  # logToFile = true;
+  # execCmd = "${pkgs.lightdm}/bin/lightdm";
+  # };
+
   services.xserver.displayManager.gdm = {
     enable = true;
-    # wayland = true;
-    # autoLogin.delay = 10;
+    wayland = true;
+    #   # autoLogin.delay = 10;
   };
   # services.xserver.desktopManager.gnome.enable = false;
 
-  services.xserver.displayManager.defaultSession = "hyprland";
-  services.xserver.displayManager.hiddenUsers = ["landscape"];
+  # services.xserver.displayManager.defaultSession = "hyprland";
+  # services.xserver.displayManager.hiddenUsers = ["landscape"];
   # services.xserver.displayManager.autoLogin.enable = true;
   # services.xserver.displayManager.autoLogin.user = "isaac";
 

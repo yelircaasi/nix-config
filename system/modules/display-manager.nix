@@ -38,10 +38,10 @@
   # services.xserver.displayManager.sddm.enableHidpi = true;
   # services.xserver.displayManager.sddm.wayland.enable = true;
 
-  # services.xserver.displayManager.job = {
-  # logToFile = true;
-  # execCmd = "${pkgs.lightdm}/bin/lightdm";
-  # };
+  services.xserver.displayManager.job = {
+    logToFile = true;
+    # execCmd = "${pkgs.lightdm}/bin/lightdm";
+  };
 
   services.xserver.displayManager.gdm = {
     enable = true;
@@ -50,8 +50,8 @@
   };
   # services.xserver.desktopManager.gnome.enable = false;
 
-  # services.xserver.displayManager.defaultSession = "hyprland";
-  # services.xserver.displayManager.hiddenUsers = ["landscape"];
+  services.xserver.displayManager.defaultSession = "hyprland";
+  services.xserver.displayManager.hiddenUsers = ["landscape"];
   # services.xserver.displayManager.autoLogin.enable = true;
   # services.xserver.displayManager.autoLogin.user = "isaac";
 

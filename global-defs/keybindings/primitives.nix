@@ -40,12 +40,100 @@ rec {
     y = "y";
     z = "z";
   };
-  layers = {
-    default = {}; # keys.insert;
-    number = {}; # keys.semicolon;
-    parentheses = {}; # keys.rightSquareBracket;
-    asciiSpecial = {}; # keys.leftSquareBracket;
-    international = {}; # keys.backslash;
+  commands = {};
+  layers = rec {
+    physical = {}; #() keys; # map every key name to itself
+    default = physical // {}; # keys.insert;
+    number =
+      default
+      // {
+        ${keys.z} = 0;
+        ${keys.x} = 1;
+        ${keys.c} = 2;
+        ${keys.s} = 3;
+        ${keys.d} = 4;
+        ${keys.f} = 5;
+        ${keys.w} = 6;
+        ${keys.e} = 7;
+        ${keys.r} = 8;
+        ${keys.z} = 9;
+      }; # keys.semicolon;
+    parentheses = default // {}; # keys.rightSquareBracket;
+    asciiSpecial =
+      default
+      // {
+        ${keys.ph} = keys.exclamation;
+        ${keys.ph} = keys.at;
+        ${keys.ph} = keys.octothorpe;
+        ${keys.ph} = keys.dollar;
+        ${keys.ph} = keys.percent;
+        ${keys.ph} = keys.caret;
+        ${keys.ph} = keys.ampersand;
+        ${keys.ph} = keys.asterisk;
+        ${keys.ph} = keys.hyphen;
+        ${keys.ph} = keys.equals;
+        ${keys.ph} = keys.underscore;
+        ${keys.ph} = keys.plus;
+        ${keys.ph} = keys.tilde;
+        ${keys.ph} = keys.backtick;
+        ${keys.ph} = keys.semicolon;
+        ${keys.ph} = keys.colon;
+        ${keys.ph} = keys.singleQuote;
+        ${keys.ph} = keys.doubleQuote;
+        ${keys.ph} = keys.comma;
+        ${keys.ph} = keys.period;
+        ${keys.ph} = keys.lessThan;
+        ${keys.ph} = keys.greaterThan;
+        ${keys.ph} = keys.slash;
+        ${keys.ph} = keys.question;
+        ${keys.ph} = keys.backslash;
+        ${keys.ph} = keys.pipe;
+      }; # keys.leftSquareBracket;
+    unicodeFavorites = default // {};
+    international = default // {}; # keys.backslash;
+  };
+  layerAccess = {
+    physical = {};
+    default = {};
+    number = {};
+    parentheses = {};
+    asciiSpecial = {};
+    unicodeFavorites = {};
+    international = {};
+  };
+  simpleRemaps = {
+    ${keys.printScreen} = commands.ph;
+    ${keys.scrollLock} = commands.ph;
+    ${keys.pause} = commands.ph;
+    ${keys.insert} = commands.ph;
+    ${keys.delete} = commands.ph;
+    ${keys.home} = commands.ph;
+    ${keys.end} = commands.ph;
+    ${keys.pageUp} = commands.ph;
+    ${keys.numLock} = commands.ph;
+    ${keys.numSlash} = commands.ph;
+    ${keys.numAsterisk} = commands.ph;
+    ${keys.numHyphen} = commands.ph;
+    ${keys.numEscape} = commands.ph;
+    ${keys.numAltGr} = commands.ph;
+    ${keys.num1} = commands.ph;
+    ${keys.num2} = commands.ph;
+    ${keys.num3} = commands.ph;
+    ${keys.num4} = commands.ph;
+    ${keys.num5} = commands.ph;
+    ${keys.num6} = commands.ph;
+    ${keys.num7} = commands.ph;
+    ${keys.num8} = commands.ph;
+    ${keys.num9} = commands.ph;
+    ${keys.num0} = commands.ph;
+    ${keys.num1} = commands.ph;
+    ${keys.numDot} = commands.ph;
+    ${keys.numEnter} = commands.ph;
+    ${keys.numPlus} = commands.ph;
+    ${keys.ph} = commands.ph;
+    ${keys.ph} = commands.ph;
+    ${keys.ph} = commands.ph;
+    ${keys.ph} = commands.ph;
   };
   hybridModifiers = {
     "${keys.capslock}" = {

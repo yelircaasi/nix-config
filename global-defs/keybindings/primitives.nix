@@ -47,21 +47,54 @@ rec {
     number =
       default
       // {
-        ${keys.z} = 0;
-        ${keys.x} = 1;
-        ${keys.c} = 2;
-        ${keys.s} = 3;
-        ${keys.d} = 4;
-        ${keys.f} = 5;
-        ${keys.w} = 6;
-        ${keys.e} = 7;
-        ${keys.r} = 8;
-        ${keys.z} = 9;
+        /*
+        q0  w1  e2  r3  t4
+         a5  s6  d7  f8  g9
+        */
+        ${keys.q} = 0;
+        ${keys.w} = 1;
+        ${keys.e} = 2;
+        ${keys.r} = 3;
+        ${keys.t} = 4;
+        ${keys.a} = 5;
+        ${keys.s} = 6;
+        ${keys.d} = 7;
+        ${keys.f} = 8;
+        ${keys.g} = 9;
       }; # keys.semicolon;
-    parentheses = default // {}; # keys.rightSquareBracket;
+    parentheses =
+      default
+      // {
+        /*
+        q[  w]  e<  r>  t❬  y❭  u  i  o  p
+         a{  s}  d(  f)  g⸨  h⸩  j«  k»  l‹  ;›
+          z  x  c  v  b  n  m
+        */
+        ${keys.q} = keys.leftSquareBracket;
+        ${keys.w} = keys.rightSquareBracket;
+        ${keys.e} = keys.lessThan;
+        ${keys.r} = keys.greaterThan;
+        ${keys.t} = keys.leftAngled; # ❬
+        ${keys.y} = keys.rightAngled; # ❭
+        ${keys.a} = keys.leftCurly;
+        ${keys.s} = keys.rightCurly;
+        ${keys.d} = keys.leftRound;
+        ${keys.f} = keys.rightRound;
+        ${keys.g} = keys.leftDoubleRound; # ⸨
+        ${keys.h} = keys.rightDoubleRound; # ⸩
+        ${keys.z} = keys.leftFrenchQuoteDouble; # «
+        ${keys.x} = keys.rightFrenchQuoteDouble; # »
+        ${keys.c} = keys.leftFrenchQuoteSingle; # ‹
+        ${keys.b} = keys.rightFrenchQuoteDouble; # ›
+      }; # keysbrightSquareBracket;
     asciiSpecial =
       default
       // {
+        /*
+        q@  w\  e%  r|  t  y  u  i  o  p
+         a$  s*  d~  f_  g&  h  j  k  l  ;
+          z!  x^  c#  v`  b  n  m  ,  .  /
+        */
         ${keys.ph} = keys.exclamation;
         ${keys.ph} = keys.at;
         ${keys.ph} = keys.octothorpe;
@@ -76,23 +109,48 @@ rec {
         ${keys.ph} = keys.plus;
         ${keys.ph} = keys.tilde;
         ${keys.ph} = keys.backtick;
-        ${keys.ph} = keys.semicolon;
-        ${keys.ph} = keys.colon;
-        ${keys.ph} = keys.singleQuote;
-        ${keys.ph} = keys.doubleQuote;
-        ${keys.ph} = keys.comma;
-        ${keys.ph} = keys.period;
-        ${keys.ph} = keys.lessThan;
-        ${keys.ph} = keys.greaterThan;
-        ${keys.ph} = keys.slash;
-        ${keys.ph} = keys.question;
+        # ${keys.ph} = keys.semicolon;
+        # ${keys.ph} = keys.colon;
+        # ${keys.ph} = keys.singleQuote;
+        # ${keys.ph} = keys.doubleQuote;
+        # ${keys.ph} = keys.comma;
+        # ${keys.ph} = keys.period;
+        # ${keys.ph} = keys.lessThan;
+        # ${keys.ph} = keys.greaterThan;
+        # ${keys.ph} = keys.slash;
+        # ${keys.ph} = keys.question;
         ${keys.ph} = keys.backslash;
         ${keys.ph} = keys.pipe;
       }; # keys.leftSquareBracket;
-    unicodeFavorites = default // {};
-    international = default // {}; # keys.backslash;
+    unicodeFavorites =
+      default
+      // {
+        /*
+        q  w  e  r  t  y  u  i  o  p
+         a  s  d  f  g  h  j  k  l  ;
+          z  x  c  v  b  n  m  ,  .  /
+        */
+      };
+    international =
+      default
+      // {
+        /*
+        q  w  e  r  t  y  u  i  o  p
+         a  s  d  f  g  h  j  k  l  ;
+          z  x  c  v  b  n  m  ,  .  /
+        */
+      }; # keys.backslash;
+    cyrillic =
+      default
+      // {
+        /*
+        q  w  e  r  t  y  u  i  o  p  [  ]  \
+         a  s  d  f  g  h  j  k  l  ;  '
+          z  x  c  v  b  n  m  ,  .  /
+        */
+      };
   };
-  layerAccess = {
+  layerAccessKeys = {
     physical = {};
     default = {};
     number = {};
@@ -100,6 +158,7 @@ rec {
     asciiSpecial = {};
     unicodeFavorites = {};
     international = {};
+    cyrillic = {};
   };
   simpleRemaps = {
     ${keys.printScreen} = commands.ph;
@@ -335,24 +394,50 @@ rec {
     down = keys.j;
     up = keys.k;
     right = keys.l;
+    downOrLeftAlt = keys.squareBracketLeft;
+    upOrRightAlt = keys.squareBracketRight;
   };
-  generalBase = {
+  modModifier = {
+    sideEffect = keys.shift;
+  };
+  sem = {
     kill = keys.q;
-    copy = keys.q;
-    paste = keys.q;
+    killPart = keys.backslash;
+    copy = keys.c;
+    paste = keys.v;
+    hide = keys.m; # masquer, mache unsichtbar :)
+    new = keys.n;
+    newPart = keys.t;
+    decrease = keys.hyphen;
+    increase = keys.plus;
+    fullscreen = keys.f;
+    search = keys.slash;
+    explore = keys.e;
+    reload = keys.r;
+    clear = keys.p; # purge
   };
-  desktop = {
+  desktop = let
+    mod = keys.super;
+  in {
     compositor = rec {
-      mod = "super";
-      kill = {
+      logoutMenu = {};
+      launcher = {};
+      lockScreen = {};
+      killActive = {
         inherit mod;
-        base = generalBase.kill;
+        base = sem.kill;
       };
       launch = {
+        defaultTerminal = {};
+        defaultBrowser = {};
+        defaultFileBrowserGUI = {};
+        defaultFileBrowserTUI = {};
         firefox = {
           mod = keys.ph;
           base = "";
         };
+        wezterm = {};
+        kitty = {};
       };
       switchToWindow = {};
       switchToWorkspace = {};
@@ -366,10 +451,77 @@ rec {
         tiling = {};
         floating = {};
         stacking = {};
+        # layoutDwindle = {};
+        # layoutMaster = {};
+        # fullscreen = {};
+      };
+      toggleMode = {
+        tiling = {};
+        floating = {};
+        stacking = {};
+        horizontalVsVertical = {};
+        tilingLayout = {
+          dwindle = {};
+          recursiveSplit = {};
+          master = {};
+          centralColumn = {};
+          predefined1 = {};
+          predefined2 = {};
+          predefined3 = {};
+        };
+        fullscreen = {};
+        pseudotile = {};
+      };
+      goToScreen = {
+        builtIn = {};
+        external1 = {};
+        external2 = {};
+      };
+      window = {
+        goLeft = {};
+        goRight = {};
+        goUp = {};
+        goDown = {};
+        moveLeft = {};
+        moveRight = {};
+        moveUp = {};
+        moveDown = {};
+        resizeActiveLeft = {};
+        resizeActiveRight = {};
+        resizeActiveUp = {};
+        resizeActiveDown = {};
+        resetSizes = {};
+      };
+      group = {
+        goToPrevious = {};
+        goToNext = {};
+        goTo1 = {};
+        goTo2 = {};
+        goTo3 = {};
+        lockActive = {};
+      };
+      workspace = {
+        goToPrevious = {};
+        goToNext = {};
+        goTo1 = {};
+        goTo2 = {};
+        goTo3 = {};
+        goTo4 = {};
+        goTo5 = {};
+        goTo6 = {};
+        goTo7 = {};
+      };
+      colorPicker = {
+        copyCurrent = {};
+      };
+      screenshot = {};
+      mediaPlayer = {
+        playOrPause = {};
       };
     };
-    bar = {};
-    widgets = {};
+    widgets = {
+      bar = {};
+    };
   };
   terminal = {
     newPane = {
@@ -422,7 +574,7 @@ rec {
     }) {} [0 1 2 3 4 5 6 7 8 9];
     goToBookmarkN = builtins.foldl' (n: {
       "_${n}" = {
-        mod = keys.b;
+        mod = keys.alt;
         base = n;
       };
     }) {} [0 1 2 3 4 5 6 7 8 9];

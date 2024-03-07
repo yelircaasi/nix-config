@@ -15,6 +15,7 @@
 
     # ./applications/gui/editor-and-ide/vscodium
     ./applications/gui/file-browser/thunar
+    ./applications/development/ds-ml
 
     #./desktop-environment/widgets/ags
 

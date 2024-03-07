@@ -125,6 +125,7 @@
   in {
     nixosConfigurations = mylib.makeNixosConfigurations deviceDeclarations;
     homeConfigurations = mylib.makeHomeManagerConfigurations deviceDeclarations;
+    devShells = mylib.makeDevShells deviceDeclarations;
   };
 
   inputs = {

@@ -72,4 +72,6 @@
     builtins.mapAttrs
     (name: configSet: makeHomeManagerConfig configSet)
     deviceDeclarationAttrSet;
+
+  makeDevShells = deviceDeclarationAttrSet: {};
 }

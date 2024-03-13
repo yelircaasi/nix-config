@@ -83,13 +83,22 @@ Having things organized this way means that it is easier to get a sense, at a gl
 Coming soon...
 
 ## Roadmap
-
-- [ ] Add user `nixtest` to be able to try out things without interfering with the main user, `isaac`
-- [ ] examine why I only have 2/3 of the hard drive
+- [ ] get colors and keybindings working just enough to successfully run nrs and hm
+- [ ] fix colors in gtk css files
+- [ ] get colors and keybindings working with proper formatting, libraries, and modularity (for apps already defined)
+- [ ] get wezterm fully set up with colors and keybindings
+- [ ] get vieb fully set up with colors and keybindings
+- [ ] get qutebrowser fully set up with colors and keybindings
+- [ ] get nyxt fully set up with colors and keybindings
+- [ ] get domain-specific CSS working on vieb
+- [ ] get domain-specific CSS working on qutebrowser
+- [ ] get domain-specific CSS working on nyxt
+-
 - [ ] add sops-nix (first try in test user or in container, with inconsequential secrets)
       - [x] first get working with dummy strings
       - [ ] add real secrets
-- [x] get sddm working with chili theme
+- [N] get sddm working with chili theme
+- [ ] Add user `nixtest` to be able to try out things without interfering with the main user, `isaac`
 - [ ] learn how to set default file browser
 - [ ] add gtk2 theme and ensure that kde/qt apps are working with it
 - [ ] look into having different apps used in different environments (compositors / pop!OS when it arrives)
@@ -97,6 +106,7 @@ Coming soon...
       - [ ] [wiki](https://nixos.wiki/wiki/Packaging/Icons)
       - [ ] look through /run/current-system/sw/share/icons 
       - [ ] 
+- [ ] examine why I only have 2/3 of the hard drive
 - [ ] select icon themes ([see here](https://itsfoss.com/best-icon-themes-ubuntu-16-04/))
 - [ ] learn about fonts on NixOS
       - [ ] [wiki](https://nixos.wiki/wiki/Fonts)
@@ -110,7 +120,7 @@ Coming soon...
       https://github.com/donovanglover/nix-config/blob/6d047a956776724fa234d04f3d761f8a914e8b52/modules/thunar.nix#L4
       https://github.com/RGBCube/NixOSConfiguration/blob/050c0bc884bcbb0d0aa75d6c8ac1448484473e81/modules/thunar.nix#L4
       https://github.com/elohmeier/ptsd/blob/49f2a1c2a3e2693f4af8dc6beaffc222c9d11927/modules/home/xfce95.nix#L43
-      https://github.com/maxbrunet/dotfiles/blob/022082eb3cea788802d1b3ae3dd125330fe9be81/nix/nixos.nix#L124
+      https://github.com/maxbrunet/dotfiles/blob/022082eb3cea788802d1b3ae3dd125330fe9be81/nix/nixos.nix#L124 -> good xdg mime example
       https://github.com/Sigmanificient/dotfiles/blob/48f645ed8971275f9aab280005eb361dcf755ee0/home/thunar/default.nix#L4
       https://github.com/chiivo/nixos-dotfiles/blob/42e490aae6ef998b0bdde01fb3f8fa7163f1b122/configuration.nix#L88 
       https://github.com/bnjmnt4n/system/blob/c9d5406a55b96fe562c9f4149091fa027ee24a8a/lib/commands.nix#L12

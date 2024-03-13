@@ -137,7 +137,7 @@ in rec {
   h, s, l = 0, 100, 50  # Pure red
   r, g, b = hsl_to_rgb(h, s, l)
   print(f"HSL: ({h}, {s}, {l}) -> RGB: ({r}, {g}, {b})")
-  
+
   HexToHSL = hexString: RGBToHSL (HexToRGB hexString);
 
   interpolateEuclideanRGB = rgb1: rgb2: {

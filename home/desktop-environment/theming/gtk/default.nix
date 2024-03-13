@@ -9,7 +9,8 @@
   };
   extraCss3 = builtins.readFile ./gtk3.css;
   extraCss4 = builtins.readFile ./gtk4.css;
-  /* ''
+  /*
+     ''
       * {
       background-color: #000800;
       color: #ffffff;

@@ -10,8 +10,21 @@ rec {
   # keysAlternative = "${key} | ${mod}+${base} | ${mod}+${base}+${base} | ${chord1} ${chord2} | ${chord1} ${chord2} ${chord3}";
 
   keys = {
+    # enum-like attrset to ensure internal uniformity of key naming conventions
+
     ph = "PLACEHOLDER";
     super = "SUPER";
+    alt = "ALT";
+    ctrl = "CTRL";
+    lctrl = "LCTRL";
+    rctrl = "RCTRL";
+    altGr = "ALTGR";
+    lsuper = "LSUPER";
+    rsuper = "RSUPER";
+    shift = "SHIFT";
+    lshift = "LSHIFT";
+    rshift = "RSHIFT";
+    tab = "TAB";
 
     a = "a";
     b = "b";
@@ -39,8 +52,103 @@ rec {
     x = "x";
     y = "y";
     z = "z";
+
+    _0 = "_0";
+    _1 = "_1";
+    _2 = "_2";
+    _3 = "_3";
+    _4 = "_4";
+    _5 = "_5";
+    _6 = "_6";
+    _7 = "_7";
+    _8 = "_8";
+    _9 = "_9";
+
+    exclamationMark = "EXCLAMATIONMARK";
+    at = "AT";
+    backtick = "BACKTICK";
+    tilde = "TILDE";
+    octothorpe = "OCTOTHORPE";
+    dollar = "DOLLAR";
+    percent = "PERCENT";
+    caret = "CARET";
+    ampersand = "AMPERSAND";
+    asterisk = "ASTERISK";
+    leftParenthesis = "LEFTPARENTHESIS";
+    rightParenthesis = "RIGHTPARENTHESIS";
+    hyphen = "HYPHEN";
+    underscore = "UNDERSCORE";
+    equals = "EQUALS";
+    plus = "PLUS";
+    singleQuote = "SINGLEQUOTE";
+    doubleQuote = "DOUBLEQUOTE";
+    semicolon = "SEMICOLON";
+    colon = "COLON";
+    squareBracketLeft = "SQUAREBRACKETLEFT";
+    squareBracketRight = "SQUAREBRACKETRIGHT";
+    curlyBracketLeft = "CURLYBRACKETLEFT";
+    curlyBracketRight = "CURLYBRACKETRIGHT";
+    backslash = "BACKSLASH";
+    pipe = "PIPE";
+    comma = "COMMA";
+    period = "PERIOD";
+    slash = "SLASH";
+    questionMark = "QUESTIONMARK";
+    lessThan = "LESSTHAN";
+    greaterThan = "GREATERTHAN";
+
+    escape = "ESCAPE";
+    capsLock = "CAPSLOCK";
+
+    f1 = "f1";
+    f2 = "f2";
+    f3 = "f3";
+    f4 = "f4";
+    f5 = "f5";
+    f6 = "f6";
+    f7 = "f7";
+    f8 = "f8";
+    f9 = "f9";
+    f10 = "f10";
+    f11 = "f11";
+    f12 = "f12";
+
+    insert = "INSERT";
+    home = "HOME";
+    end = "END";
+    pageUp = "PAGEUP";
+    pageDown = "PAGEDOWN";
+    delete = "DELETE";
+
+    leftArrow = "LEFT";
+    rightArrow = "RIGHT";
+    upArrow = "UP";
+    downArrow = "DOWN";
+
+    printScreen = "PRINTSCREEN";
+    scrollLock = "SCROLLLOCK";
+    pause = "PAUSE";
+
+    num0 = "NUM0";
+    num1 = "NUM1";
+    num2 = "NUM2";
+    num3 = "NUM3";
+    num4 = "NUM4";
+    num5 = "NUM5";
+    num6 = "NUM6";
+    num7 = "NUM7";
+    num8 = "NUM8";
+    num9 = "NUM9";
+    numLock = "NUMLOCK";
+    numSlash = "NUMSLASH";
+    numAsterisk = "NUMASTERISK";
+    numHyphen = "NUMHYPHEN";
+    numPlus = "NUMPLUS";
+    numReturn = "NUMRETURN";
+    numPeriod = "NUMPERIOD";
   };
-  commands = {};
+
+  commands = {ph = "PLACEHOLDER";};
   layers = rec {
     physical = {}; #() keys; # map every key name to itself
     default = physical // {}; # keys.insert;
@@ -70,45 +178,45 @@ rec {
          a{  s}  d(  f)  g⸨  h⸩  j«  k»  l‹  ;›
           z  x  c  v  b  n  m
         */
-        ${keys.q} = keys.leftSquareBracket;
-        ${keys.w} = keys.rightSquareBracket;
+        ${keys.q} = keys.squareBracketLeft;
+        ${keys.w} = keys.squareBracketRight;
         ${keys.e} = keys.lessThan;
         ${keys.r} = keys.greaterThan;
-        ${keys.t} = keys.leftAngled; # ❬
-        ${keys.y} = keys.rightAngled; # ❭
-        ${keys.a} = keys.leftCurly;
-        ${keys.s} = keys.rightCurly;
-        ${keys.d} = keys.leftRound;
-        ${keys.f} = keys.rightRound;
-        ${keys.g} = keys.leftDoubleRound; # ⸨
-        ${keys.h} = keys.rightDoubleRound; # ⸩
-        ${keys.z} = keys.leftFrenchQuoteDouble; # «
-        ${keys.x} = keys.rightFrenchQuoteDouble; # »
-        ${keys.c} = keys.leftFrenchQuoteSingle; # ‹
-        ${keys.b} = keys.rightFrenchQuoteDouble; # ›
-      }; # keysbrightSquareBracket;
+        # ${keys.t} = keys.leftAngled; # ❬
+        # ${keys.y} = keys.rightAngled; # ❭
+        ${keys.a} = keys.curlyBracketLeft;
+        ${keys.s} = keys.curlyBracketRight;
+        ${keys.d} = keys.leftParenthesis;
+        ${keys.f} = keys.rightParenthesis;
+        # ${keys.g} = keys.leftDoubleRound; # ⸨
+        # ${keys.h} = keys.rightDoubleRound; # ⸩
+        # ${keys.z} = keys.leftFrenchQuoteDouble; # «
+        # ${keys.x} = keys.rightFrenchQuoteDouble; # »
+        # ${keys.c} = keys.leftFrenchQuoteSingle; # ‹
+        # ${keys.b} = keys.rightFrenchQuoteDouble; # ›
+      };
     asciiSpecial =
       default
       // {
         /*
-        q@  w\  e%  r|  t  y  u  i  o  p
-         a$  s*  d~  f_  g&  h  j  k  l  ;
-          z!  x^  c#  v`  b  n  m  ,  .  /
+        q@  w\  e%  r|  t-  y  u  i  o  p
+         a$  s*  d=  f_  g&  h  j  k  l  ;
+          z~  x^  c#  v`  b!  n  m  ,  .  /
         */
-        ${keys.ph} = keys.exclamation;
-        ${keys.ph} = keys.at;
-        ${keys.ph} = keys.octothorpe;
-        ${keys.ph} = keys.dollar;
-        ${keys.ph} = keys.percent;
-        ${keys.ph} = keys.caret;
-        ${keys.ph} = keys.ampersand;
-        ${keys.ph} = keys.asterisk;
-        ${keys.ph} = keys.hyphen;
-        ${keys.ph} = keys.equals;
-        ${keys.ph} = keys.underscore;
-        ${keys.ph} = keys.plus;
-        ${keys.ph} = keys.tilde;
-        ${keys.ph} = keys.backtick;
+        ${keys.b} = keys.exclamationMark;
+        ${keys.q} = keys.at;
+        ${keys.c} = keys.octothorpe;
+        ${keys.a} = keys.dollar;
+        ${keys.e} = keys.percent;
+        ${keys.x} = keys.caret;
+        ${keys.g} = keys.ampersand;
+        ${keys.s} = keys.asterisk;
+        ${keys.t} = keys.hyphen;
+        ${keys.d} = keys.equals;
+        ${keys.f} = keys.underscore;
+        ${keys.h} = keys.plus;
+        ${keys.z} = keys.tilde;
+        ${keys.v} = keys.backtick;
         # ${keys.ph} = keys.semicolon;
         # ${keys.ph} = keys.colon;
         # ${keys.ph} = keys.singleQuote;
@@ -119,9 +227,9 @@ rec {
         # ${keys.ph} = keys.greaterThan;
         # ${keys.ph} = keys.slash;
         # ${keys.ph} = keys.question;
-        ${keys.ph} = keys.backslash;
-        ${keys.ph} = keys.pipe;
-      }; # keys.leftSquareBracket;
+        ${keys.w} = keys.backslash;
+        ${keys.r} = keys.pipe;
+      };
     unicodeFavorites =
       default
       // {
@@ -173,8 +281,6 @@ rec {
     ${keys.numSlash} = commands.ph;
     ${keys.numAsterisk} = commands.ph;
     ${keys.numHyphen} = commands.ph;
-    ${keys.numEscape} = commands.ph;
-    ${keys.numAltGr} = commands.ph;
     ${keys.num1} = commands.ph;
     ${keys.num2} = commands.ph;
     ${keys.num3} = commands.ph;
@@ -185,17 +291,13 @@ rec {
     ${keys.num8} = commands.ph;
     ${keys.num9} = commands.ph;
     ${keys.num0} = commands.ph;
-    ${keys.num1} = commands.ph;
-    ${keys.numDot} = commands.ph;
-    ${keys.numEnter} = commands.ph;
+    ${keys.numPeriod} = commands.ph;
+    ${keys.numReturn} = commands.ph;
     ${keys.numPlus} = commands.ph;
-    ${keys.ph} = commands.ph;
-    ${keys.ph} = commands.ph;
-    ${keys.ph} = commands.ph;
     ${keys.ph} = commands.ph;
   };
   hybridModifiers = {
-    "${keys.capslock}" = {
+    "${keys.capsLock}" = {
       tap = keys.escape;
       hold = keys.ctrl;
     };
@@ -247,11 +349,11 @@ rec {
       tap = keys.ph;
       hold = keys.ph;
     };
-    "${keys.leftSquareBracket}" = {
+    "${keys.squareBracketLeft}" = {
       tap = keys.ph;
       hold = keys.ph;
     };
-    "${keys.rightSquareBracket}" = {
+    "${keys.squareBracketRight}" = {
       tap = keys.ph;
       hold = keys.ph;
     };
@@ -376,17 +478,15 @@ rec {
     "${keys.q}${keys.m}" = {};
     "${keys.q}${keys.y}" = {};
     "${keys.q}${keys.singleQuote}" = {};
-    "${keys.q}${keys.leftSquareBracket}" = {};
-    "${keys.q}${keys.rightSquareBracket}" = {};
+    "${keys.q}${keys.squareBracketLeft}" = {};
+    "${keys.q}${keys.squareBracketRight}" = {};
     "${keys.q}${keys.comma}" = {};
     "${keys.q}${keys.v}" = {};
     "${keys.v}${keys.w}" = {};
     "${keys.p}${keys.w}" = {};
     "${keys.y}${keys.w}" = {};
     "${keys.w}${keys.w}" = {};
-    "${keys.p}${keys.w}" = {};
     "${keys.p}${keys.q}" = {};
-    "${keys.p}${keys.w}" = {};
   };
 
   move = {
@@ -566,19 +666,24 @@ rec {
     newBuffer = {};
     closeTab = {};
     closeBuffer = {};
-    goToTabN = builtins.foldl' (n: {
-      "_${n}" = {
-        mod = browserMod;
-        base = n;
-      };
-    }) {} [0 1 2 3 4 5 6 7 8 9];
-    goToBookmarkN = builtins.foldl' (n: {
-      "_${n}" = {
-        mod = keys.alt;
-        base = n;
-      };
-    }) {} [0 1 2 3 4 5 6 7 8 9];
+    goToTabN = builtins.foldl' (s: n:
+      s
+      // {
+        "_${builtins.toString n}" = {
+          mod = browserMod;
+          base = builtins.toString n;
+        };
+      }) {} [1 2 3 4 5 6 7 8 9];
+    goToBookmarkN = builtins.foldl' (s: n:
+      s
+      // {
+        "_${builtins.toString n}" = {
+          mod = keys.alt;
+          base = builtins.toString n;
+        };
+      }) {} [1 2 3 4 5 6 7 8 9];
   };
+  # goToTabN = lib.attrSets.genAttrs (name:
   ide = {
     writeFile = {};
     writeAndQuit = {};

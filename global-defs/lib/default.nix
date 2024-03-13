@@ -58,4 +58,16 @@ in
         (file: ! lib.strings.hasPrefix "." file && file != "default.nix")
         (builtins.attrNames (builtins.readDir ./.))
       );
+
+    complexNixSetToJSON = attrSet: let
+      evalValues = complexSet:
+        lib.attrSets.mapAttrs
+        (name: value:
+          if (builtins.typeOf value) == "set"
+          then evalValues
+          else value)
+        complexSet;
+      evaluated = evalValues attrSet;
+    in
+      builtins.toJSON evaluated;
   }

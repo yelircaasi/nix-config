@@ -1,9 +1,12 @@
 {lib}: let
-  general = import ./primitives.nix;
-  apps = import ./applications.nix;
+  primitives = import ./primitives.nix;
+  applications = import ./applications.nix {inherit lib;};
+  overrides = import ./overrides.nix;
 in
-  {
-    inherit general;
-    # inherit (apps);
-  }
-  // apps
+  # {
+  #   inherit general;
+  #   # inherit (apps);
+  # }
+  primitives
+  // applications
+  // overrides

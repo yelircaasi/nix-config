@@ -80,7 +80,8 @@
     };
 
     hyprland = {
-      super = "SUPER";
+      ${keys.super} = "SUPER";
+      ${keys.shift} = "SHIFT";
       # mainMod = "$mainMod"
       inherit (alphabetUppercase);
     };

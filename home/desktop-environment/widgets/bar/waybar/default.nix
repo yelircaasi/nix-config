@@ -18,7 +18,7 @@
 
   programs.waybar = {
     enable = true;
-    style = g.lib.readAndInterpolate g ./waybar.css;
+    style = g.utils.readAndInterpolate g ./waybar.css;
     systemd.enable = true;
   };
 }

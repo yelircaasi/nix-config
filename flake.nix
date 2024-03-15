@@ -119,7 +119,7 @@
       };
     };
 
-    g = import ./global-defs {lib = inputs.nixpkgs.lib;}; # -> move g.lib to nixos-utils flake
+    g = import ./global-defs {lib = inputs.nixpkgs.lib;}; # -> move g.utils to nixos-utils flake
     mylib = import ./helper-functions.nix {inherit inputs g;}; # move to nixos-utils flake (called mylib)
     # mylib = inputs.nix-helpers;
   in {

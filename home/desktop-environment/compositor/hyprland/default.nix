@@ -116,16 +116,16 @@
         ];
 
         # "$mainMod" = "SUPER";
-        "${g.key.hyprland.modAlias}" = "${g.key.hyprland.mod}";
+        "$mainMod" = "${g.key.hyprland.mod}";
 
         "$opener" = "handlr launch";
         "$term" = "$opener x-scheme-handler/terminal --";
 
         # Vim-style homerow direction keys
-        "$left" = "${g.key.hyprland.left}";
-        "$down" = "${g.key.hyprland.down}";
-        "$up" = "${g.key.hyprland.up}";
-        "$right" = "${g.key.hyprland.right}";
+        "$left" = "${g.key.hyprland.left.base}";
+        "$down" = "${g.key.hyprland.down.base}";
+        "$up" = "${g.key.hyprland.up.base}";
+        "$right" = "${g.key.hyprland.right.base}";
 
         "$menu" = "fuzzel";
 
@@ -134,7 +134,7 @@
         # Example binds, see https://wiki.hyprland.org/Configuring/Binds/ for more
         bind = inputs.nixpkgs.lib.flatten [
           "$mainMod, Return, exec, $term"
-          "${g.key.hyprland.killActive.mod}, ${g.key.hyprland.killActive.base}, killactive,"
+          "$mainMod, ${g.key.hyprland.killActive.base}, killactive,"
           "$mainMod SHIFT, Q, exec, wlogout"
           # Run in shell to ensure file manager sees environment variables
           # TODO: figure out how to un-hard-code shell

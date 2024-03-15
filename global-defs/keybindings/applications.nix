@@ -82,254 +82,269 @@ in {
   # TODO: refactor to move all app-specific into their own file and all p into their own file, then import both into default.nix
   hyprland = let
     scope = "global";
-    mod = "SUPER"; #p.desktop.compositor.mod;
-    modAlias = "$mainMod"; # unnecessary? remove?
-    left = "H"; #p.move.left;
-    down = "J"; #p.move.down;
-    up = "K"; #p.move.up;
-    right = "L"; #p.move.right;
-    killActive = {
-      mod = modAlias;
-      base = "Q"; #p.generalBase.kill;
-    };
-  in rec {
-    /*
-    hyprland = format.hyprland (rec {
-      mod = p.mods.compositor;
-      modAlias = "$mainMod"; # unnecessary? remove?
-      left = rn p.move.left;
-      down = rn p.move.down;
-      up = rn p.move.up;
-      right = rn p.move.right;
+    mod = keys.super; #p.desktop.compositor.mod;
+    # modAlias = "$mainMod"; # unnecessary? remove?
+    # left = "H"; #p.move.left;
+    # down = "J"; #p.move.down;
+    # up = "K"; #p.move.up;
+    # right = "L"; #p.move.right;
+  in
+    format.hyprland rec {
+      /*
+      hyprland = format.hyprland (rec {
+        mod = p.mods.compositor;
+        modAlias = "$mainMod"; # unnecessary? remove?
+              killActive = {
+          mod = modAlias;
+          base = rn p.generalBase.kill;
+        };
+
+        );
+      */
+      # ❯ hyprctl binds
+      inherit mod;
       killActive = {
-        mod = modAlias;
-        base = rn p.generalBase.kill;
+        inherit mod;
+        base = "Q"; #p.generalBase.kill;
+      };
+      left = {
+        inherit mod;
+        base = p.sem.left;
+      };
+      down = {
+        inherit mod;
+        base = p.sem.down;
+      };
+      up = {
+        inherit mod;
+        base = p.sem.up;
+      };
+      right = {
+        inherit mod;
+        base = p.sem.right;
       };
 
-      );
-    */
-    # ❯ hyprctl binds
-    launchTerminal = {
-      inherit scope;
-      key = keys.return;
-      # dispatcher = "exec";
-      # arg = "handlr launch x-scheme-handler/terminal --";
-    };
-    launchGuiFileManager = {
-      inherit scope;
-    };
-    launchTuiFileManager = {
-      inherit scope;
-      key = keys.n;
-      # dispatcher = "exec";
-      # arg = "handlr launch x-scheme-handler/terminal -- --class=filemanager -- fish -c 'handlr open (xplr)'";
-    };
-    toggleFloating = {
-      inherit scope;
-      key = keys.v;
-      # dispatcher = "togglefloating";
-      # arg = "";
-    };
-    launchLauncher = {
-      inherit scope;
-      key = keys.r;
-      # dispatcher = "exec";
-      # arg = "pkill fuzzel || fuzzel";
-    };
-    pseudo = {
-      inherit scope;
-      key = "";
-      # dispatcher = "pseudo";
-      # arg = "";
-    };
-    switchLayoutDwindle = {
-      inherit scope;
-      key = keys.d;
-      # dispatcher = "exec";
-      # arg = "hyprctl keyword general:layout dwindle";
-    };
-    switchLayoutMaster = {
-      inherit scope;
-      key = keys.m;
-      # dispatcher = "exec";
-      # arg = "hyprctl keyword general:layout master";
-    };
-    httpsLauncher = {
-      inherit scope;
-      key = keys.o;
-      # dispatcher = "exec";
-      # arg = "handlr launch x-scheme-handler/https";
-    };
-    toggleGroup = {
-      inherit scope;
-      key = keys.g;
-      # dispatcher = "togglegroup";
-      # arg = "";
-    };
-    toggleFullscreen = {
-      inherit scope;
-      key = keys.f;
-      # dispatcher = "fullscreen";
-      # arg = "";
-    };
-    hyprpickerAutocoopy = {
-      inherit scope;
-      key = "C";
-      # dispatcher = "exec";
-      # arg = "hyprpicker - -autocopy";
-    };
-    lockActiveGroup = {
-      inherit scope;
-      key = "G";
-      # dispatcher = "lockactivegroup";
-      # arg = "toggle";
-    };
-    changeActiveGroupBackward = {
-      inherit scope;
-      key = "bracketleft";
-      # dispatcher = "changegroupactive";
-      # arg = keys.b;
-    };
-    changeActiveGroupForward = {
-      inherit scope;
-      key = "bracketright";
-      # dispatcher = "changegroupactive";
-      # arg = keys.f;
-    };
-    screenshot = {
-      inherit scope;
-      key = "Print";
-      # dispatcher = "exec";
-      # arg = "screenshot.sh";
-    };
-    playAudio = {
-      inherit scope;
-      # key = keys.XF86AudioPlay;
-      # dispatcher = "exec";
-      # arg = "playerctl play-pause";
-    };
-    killHyprland = {
-      inherit scope;
-      modmask = 12;
-      key = keys.delete;
-      # dispatcher = "exec";
-      # arg = "hyprctl kill";
-    };
-    goToWorkspace = {
-      inherit scope;
-    };
-    moveToWorkspace = {
-      inherit scope;
-    }; #<shift><n>:  N
-    launchLauncherMenuMode = {
-      inherit scope;
-      key = keys.z;
-      # dispatcher = "exec";
-      # arg = "scratchpad -m 'fuzzel --dmenu'";
-    };
+      launchTerminal = {
+        inherit scope;
+        key = keys.return;
+        # dispatcher = "exec";
+        # arg = "handlr launch x-scheme-handler/terminal --";
+      };
+      launchGuiFileManager = {
+        inherit scope;
+      };
+      launchTuiFileManager = {
+        inherit scope;
+        key = keys.n;
+        # dispatcher = "exec";
+        # arg = "handlr launch x-scheme-handler/terminal -- --class=filemanager -- fish -c 'handlr open (xplr)'";
+      };
+      toggleFloating = {
+        inherit scope;
+        key = keys.v;
+        # dispatcher = "togglefloating";
+        # arg = "";
+      };
+      launchLauncher = {
+        inherit scope;
+        key = keys.r;
+        # dispatcher = "exec";
+        # arg = "pkill fuzzel || fuzzel";
+      };
+      pseudo = {
+        inherit scope;
+        key = "";
+        # dispatcher = "pseudo";
+        # arg = "";
+      };
+      switchLayoutDwindle = {
+        inherit scope;
+        key = keys.d;
+        # dispatcher = "exec";
+        # arg = "hyprctl keyword general:layout dwindle";
+      };
+      switchLayoutMaster = {
+        inherit scope;
+        key = keys.m;
+        # dispatcher = "exec";
+        # arg = "hyprctl keyword general:layout master";
+      };
+      httpsLauncher = {
+        inherit scope;
+        key = keys.o;
+        # dispatcher = "exec";
+        # arg = "handlr launch x-scheme-handler/https";
+      };
+      toggleGroup = {
+        inherit scope;
+        key = keys.g;
+        # dispatcher = "togglegroup";
+        # arg = "";
+      };
+      toggleFullscreen = {
+        inherit scope;
+        key = keys.f;
+        # dispatcher = "fullscreen";
+        # arg = "";
+      };
+      hyprpickerAutocoopy = {
+        inherit scope;
+        key = "C";
+        # dispatcher = "exec";
+        # arg = "hyprpicker - -autocopy";
+      };
+      lockActiveGroup = {
+        inherit scope;
+        key = "G";
+        # dispatcher = "lockactivegroup";
+        # arg = "toggle";
+      };
+      changeActiveGroupBackward = {
+        inherit scope;
+        key = "bracketleft";
+        # dispatcher = "changegroupactive";
+        # arg = keys.b;
+      };
+      changeActiveGroupForward = {
+        inherit scope;
+        key = "bracketright";
+        # dispatcher = "changegroupactive";
+        # arg = keys.f;
+      };
+      screenshot = {
+        inherit scope;
+        key = "Print";
+        # dispatcher = "exec";
+        # arg = "screenshot.sh";
+      };
+      playAudio = {
+        inherit scope;
+        # key = keys.XF86AudioPlay;
+        # dispatcher = "exec";
+        # arg = "playerctl play-pause";
+      };
+      killHyprland = {
+        inherit scope;
+        # modmask = 12;
+        key = keys.delete;
+        # dispatcher = "exec";
+        # arg = "hyprctl kill";
+      };
+      goToWorkspace = {
+        inherit scope;
+      };
+      moveToWorkspace = {
+        inherit scope;
+      }; #<shift><n>:  N
+      launchLauncherMenuMode = {
+        inherit scope;
+        key = keys.z;
+        # dispatcher = "exec";
+        # arg = "scratchpad -m 'fuzzel --dmenu'";
+      };
 
-    launchLauncherMenuModeG = {
-      inherit scope;
-      key = keys.z;
-      # dispatcher = "exec";
-      # arg = "scratchpad -m 'fuzzel --dmenu' -g";
-    };
-    moveFocusLeft = {
-      inherit scope;
-      key = keys.h;
-      # dispatcher = "movefocus";
-      # arg = keys.l;
-    };
-    moveWindowOrGroupLeft = {
-      inherit scope;
-      key = keys.h;
-      # dispatcher = "movewindoworgroup";
-      # arg = keys.l;
-    };
-    moveFocusDown = {
-      inherit scope;
-      key = keys.j;
-      # dispatcher = "movefocus";
-      # arg = keys.d;
-    };
-    moveWindowOrGroupDown = {
-      inherit scope;
-      key = keys.j;
-      # dispatcher = "movewindoworgroup";
-      # arg = keys.d;
-    };
-    moveFocusUp = {
-      inherit scope;
-      key = keys.k;
-      # dispatcher = "movefocus";
-      # arg = "u";
-    };
-    moveWindowOrGroupUp = {
-      inherit scope;
-      key = keys.k;
-      # dispatcher = "movewindoworgroup";
-      # arg = "u";
-    };
-    moveFocusRight = {
-      inherit scope;
-      key = keys.l;
-      # dispatcher = "movefocus";
-      # arg = keys.r;
-    };
-    moveWindowOrGroupRight = {
-      inherit scope;
-      key = keys.l;
-      # dispatcher = "movewindoworgroup";
-      # arg = keys.r;
-    };
-    resizeActivate = {
-      inherit scope;
-      modmask = 72;
-      key = keys.r;
-      # dispatcher = "   submap";
-      # arg = "resize";
-    };
-    resizeActiveRight = {
-      inherit scope;
-      bindFlag = "e";
-      submap = "resize";
-      key = keys.l;
-      # dispatcher = "resizeactive";
-      # arg = 10 0;
-    };
-    resizeActiveLeft = {
-      inherit scope;
-      bindFlag = "e";
-      submap = "resize";
-      key = keys.h;
-      # dispatcher = "   resizeactive";
-      # arg = -10 0;
-    };
-    resiveActiveUp = {
-      inherit scope;
-      bindFlag = "e";
-      submap = "resize";
-      key = keys.k;
-      # dispatcher = "resizeactive";
-      # arg = 0 - 10;
-    };
-    resiveActiveDown = {
-      inherit scope;
-      bindFlag = "e";
-      submap = "resize";
-      key = keys.j;
-      # dispatcher = "resizeactive";
-      # arg = 0 10;
-    };
+      launchLauncherMenuModeG = {
+        inherit scope;
+        key = keys.z;
+        # dispatcher = "exec";
+        # arg = "scratchpad -m 'fuzzel --dmenu' -g";
+      };
+      moveFocusLeft = {
+        inherit scope;
+        key = keys.h;
+        # dispatcher = "movefocus";
+        # arg = keys.l;
+      };
+      moveWindowOrGroupLeft = {
+        inherit scope;
+        key = keys.h;
+        # dispatcher = "movewindoworgroup";
+        # arg = keys.l;
+      };
+      moveFocusDown = {
+        inherit scope;
+        key = keys.j;
+        # dispatcher = "movefocus";
+        # arg = keys.d;
+      };
+      moveWindowOrGroupDown = {
+        inherit scope;
+        key = keys.j;
+        # dispatcher = "movewindoworgroup";
+        # arg = keys.d;
+      };
+      moveFocusUp = {
+        inherit scope;
+        key = keys.k;
+        # dispatcher = "movefocus";
+        # arg = "u";
+      };
+      moveWindowOrGroupUp = {
+        inherit scope;
+        key = keys.k;
+        # dispatcher = "movewindoworgroup";
+        # arg = "u";
+      };
+      moveFocusRight = {
+        inherit scope;
+        key = keys.l;
+        # dispatcher = "movefocus";
+        # arg = keys.r;
+      };
+      moveWindowOrGroupRight = {
+        inherit scope;
+        key = keys.l;
+        # dispatcher = "movewindoworgroup";
+        # arg = keys.r;
+      };
+      resizeActivate = {
+        inherit scope;
+        # modmask = 72;
+        key = keys.r;
+        # dispatcher = "   submap";
+        # arg = "resize";
+      };
+      resizeActiveRight = {
+        inherit scope;
+        bindFlag = "e";
+        submap = "resize";
+        key = keys.l;
+        # dispatcher = "resizeactive";
+        # arg = 10 0;
+      };
+      resizeActiveLeft = {
+        inherit scope;
+        bindFlag = "e";
+        submap = "resize";
+        key = keys.h;
+        # dispatcher = "   resizeactive";
+        # arg = -10 0;
+      };
+      resiveActiveUp = {
+        inherit scope;
+        bindFlag = "e";
+        submap = "resize";
+        key = keys.k;
+        # dispatcher = "resizeactive";
+        # arg = 0 - 10;
+      };
+      resiveActiveDown = {
+        inherit scope;
+        bindFlag = "e";
+        submap = "resize";
+        key = keys.j;
+        # dispatcher = "resizeactive";
+        # arg = 0 10;
+      };
 
-    resizeReset = {
-      inherit scope;
-      submap = "resize";
-      key = "escape";
-      # dispatcher = "submap";
-      # arg = "reset";
+      resizeReset = {
+        inherit scope;
+        submap = "resize";
+        key = "escape";
+        # dispatcher = "submap";
+        # arg = "reset";
+      };
     };
-  };
 
   sway = let
     scope = "global";

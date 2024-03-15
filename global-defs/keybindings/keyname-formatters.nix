@@ -1,6 +1,19 @@
 {lib}: let
   keys = (import ./primitives.nix).keys;
+
+  withDefault = defaultValue: attrSet: attrName:
+    if builtins.elem attrName (builtins.attrNames attrSet)
+    then attrSet.${attrName}
+    else defaultValue;
+
   getKeyName = keyNameAttrSet: keyName: keyNameAttrSet.${keyName};
+
+  getKeyNameWithDefault = keyNameAttrSet: keyName: withDefault keyName keyNameAttrSet keyName;
+
+  getKeyNameFor = attrNames: keyNameAttrSet: keyName:
+    if (builtins.elem keyName (builtins.attrNames keyNameAttrSet))
+    then (keyNameAttrSet.${keyName})
+    else keyName;
 
   alphabet = with keys; [a b c d e f g h i j k l m n o p q r s t u v w x y z];
   alphabetToLowercase = lib.attrsets.genAttrs (name: lib.strings.toLower name) alphabet;
@@ -29,19 +42,21 @@
   in "${prefix}${conjunction}${mod}";
 
   formatWeztermBinding = weztermLegend: weztermBindingSet: let
-    weztermBinding = (getKeyName weztermLegend) weztermBindingSet;
-    prefix = lib.mkdDefault weztermBinding.prefix;
-    mod = lib.mkDefault weztermBinding.mod;
-    base = getWeztermName weztermBinding.base;
+    weztermLookup = getKeyNameWithDefault weztermLegend;
+    weztermBinding = lib.attrsets.mapAttrs (name: value: weztermLookup value) weztermBindingSet;
+    prefix = withDefault keys.none weztermBinding "prefix";
+    mod = withDefault keys.none weztermBinding "mod";
+    base = weztermBinding.base;
     action = weztermBinding.commandText;
     mods = makeWeztermMods prefix mod;
-  in {
+  in rec {
     inherit weztermBinding;
     luaString = "{ key = ${base}, mods = ${mods}, action = ${action} }";
   };
 
   # nvim
   makeVimString = nvimBinding: "";
+
   formatNvimBinding = nvimLegend: nvimBindingSet: let
     nvimBinding = (getKeyName nvimLegend) nvimBindingSet;
     mode = "";
@@ -53,7 +68,7 @@
   };
 
   # convertwezterm = weztermLegend: weztermMappings: lib.attrsets.mapAttrs (formatWeztermBinding nameMaps.wezterm);
-  convertApp = appBindingConverter: appMappingSet: lib.attrsets.mapAttrs appBindingConverter appMappingSet;
+  convertApp = appBindingConverter: appMappingDefinitions: lib.attrsets.mapAttrs appBindingConverter appMappingDefinitions;
 
   nameMaps = {
     sway = {
@@ -72,18 +87,33 @@
 
     kanata = {
       inherit (alphabetLowercase);
+
+      ${keys.none} = "NONE";
     };
 
-    wezterm = {};
+    wezterm =
+      keys
+      // {
+        LEADER = "LEADER";
+
+        ${keys.shift} = "SHIFT";
+        ${keys.super} = "SUPER";
+      };
   };
 in
-  (lib.attrsets.genAttrs
-    (name: mkFormatter name) [
+  (
+    lib.attrsets.genAttrs
+    [
       "sway"
       "hyprland"
       "kanata"
-    ])
+    ]
+    (name: mkFormatter name)
+    # (name: "hello_${name}")
+  )
   // {
-    nvim = convertApp (formatNvimBinding nameMaps.nvim);
-    wezterm = convertApp (formatWeztermBinding nameMaps.wezterm);
+    nvim = convertApp (name: value: (formatNvimBinding nameMaps.nvim) value);
+    wezterm = convertApp (name: value: (formatWeztermBinding nameMaps.wezterm) value);
+
+    # wezterm = let wtFormatter = formatWeztermBinding nameMaps.wezterm; in lib.attrsets.mapAttrs wtFormatter;
   }

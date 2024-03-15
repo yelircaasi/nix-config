@@ -11,6 +11,7 @@ rec {
 
   keys = {
     # enum-like attrset to ensure internal uniformity of key naming conventions
+    none = "NONE";
 
     ph = "PLACEHOLDER";
     super = "SUPER";
@@ -64,6 +65,12 @@ rec {
     _8 = "_8";
     _9 = "_9";
 
+    return = "RETURN";
+    space = "SPACE";
+    newline = "NEWLINE"; #                     "\n"
+    carriageReturn = "CARRIAGERETURN"; #       "\r"
+    tabulation = "TABULATION"; #               "\t"
+    backspace = "BACKSPACE";
     exclamationMark = "EXCLAMATIONMARK";
     at = "AT";
     backtick = "BACKTICK";
@@ -146,6 +153,8 @@ rec {
     numPlus = "NUMPLUS";
     numReturn = "NUMRETURN";
     numPeriod = "NUMPERIOD";
+    copy = "COPY";
+    paste = "PASTE";
   };
 
   commands = {ph = "PLACEHOLDER";};
@@ -490,12 +499,6 @@ rec {
   };
 
   move = {
-    left = keys.h;
-    down = keys.j;
-    up = keys.k;
-    right = keys.l;
-    downOrLeftAlt = keys.squareBracketLeft;
-    upOrRightAlt = keys.squareBracketRight;
   };
   modModifier = {
     sideEffect = keys.shift;
@@ -515,6 +518,12 @@ rec {
     explore = keys.e;
     reload = keys.r;
     clear = keys.p; # purge
+    left = keys.h;
+    down = keys.j;
+    up = keys.k;
+    right = keys.l;
+    downOrLeftAlt = keys.squareBracketLeft;
+    upOrRightAlt = keys.squareBracketRight;
   };
   desktop = let
     mod = keys.super;

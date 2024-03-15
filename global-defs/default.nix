@@ -1,5 +1,5 @@
 {lib}: rec {
-  lib = import ./lib {inherit lib;};
+  utils = import ./utils {inherit lib;};
   key = import ./keybindings {inherit lib;};
   color = import ./colors {inherit lib;};
 }

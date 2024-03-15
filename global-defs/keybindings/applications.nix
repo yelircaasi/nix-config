@@ -6,7 +6,7 @@ in {
   # ============================================================================
   kanata = format.kanata rec {
     tapTypes = {
-      key = "key";
+      simple = "simple";
       layerSwitch = "layerSwitch";
       multi = "multi";
       tapDance = "tapDance";
@@ -24,18 +24,18 @@ in {
               type = "key";
             };
             hold = keys.super;
-            prefix = null;
-            command = null;
+            prefix = keys.none;
+            command = keys.none;
           };
           "${keys.ph}" = {
-            alias = "";
+            alias = keys.none;
             tap = {
-              value = "";
+              value = keys.none;
               type = "layerSwitch";
             };
-            hold = "";
-            prefix = "";
-            command = "";
+            hold = keys.none;
+            prefix = keys.none;
+            command = keys.none;
           };
           # modifiers = {
           #   "${keys.ph}" = {
@@ -112,108 +112,108 @@ in {
     launchTerminal = {
       inherit scope;
       key = keys.return;
-      dispatcher = "exec";
-      arg = "handlr launch x-scheme-handler/terminal --";
+      # dispatcher = "exec";
+      # arg = "handlr launch x-scheme-handler/terminal --";
     };
     launchGuiFileManager = {
       inherit scope;
     };
     launchTuiFileManager = {
       inherit scope;
-      key = keys.N;
-      dispatcher = "exec";
-      arg = "handlr launch x-scheme-handler/terminal -- --class=filemanager -- fish -c 'handlr open (xplr)'";
+      key = keys.n;
+      # dispatcher = "exec";
+      # arg = "handlr launch x-scheme-handler/terminal -- --class=filemanager -- fish -c 'handlr open (xplr)'";
     };
     toggleFloating = {
       inherit scope;
-      key = keys.V;
-      dispatcher = "togglefloating";
-      arg = "";
+      key = keys.v;
+      # dispatcher = "togglefloating";
+      # arg = "";
     };
     launchLauncher = {
       inherit scope;
-      key = keys.R;
-      dispatcher = "exec";
-      arg = "pkill fuzzel || fuzzel";
+      key = keys.r;
+      # dispatcher = "exec";
+      # arg = "pkill fuzzel || fuzzel";
     };
     pseudo = {
       inherit scope;
       key = "";
-      dispatcher = "pseudo";
-      arg = "";
+      # dispatcher = "pseudo";
+      # arg = "";
     };
     switchLayoutDwindle = {
       inherit scope;
-      key = keys.D;
-      dispatcher = "exec";
-      arg = "hyprctl keyword general:layout dwindle";
+      key = keys.d;
+      # dispatcher = "exec";
+      # arg = "hyprctl keyword general:layout dwindle";
     };
     switchLayoutMaster = {
       inherit scope;
-      key = keys.M;
-      dispatcher = "exec";
-      arg = "hyprctl keyword general:layout master";
+      key = keys.m;
+      # dispatcher = "exec";
+      # arg = "hyprctl keyword general:layout master";
     };
     httpsLauncher = {
       inherit scope;
-      key = keys.O;
-      dispatcher = "exec";
-      arg = "handlr launch x-scheme-handler/https";
+      key = keys.o;
+      # dispatcher = "exec";
+      # arg = "handlr launch x-scheme-handler/https";
     };
     toggleGroup = {
       inherit scope;
-      key = keys.G;
-      dispatcher = "togglegroup";
-      arg = "";
+      key = keys.g;
+      # dispatcher = "togglegroup";
+      # arg = "";
     };
     toggleFullscreen = {
       inherit scope;
       key = keys.f;
-      dispatcher = "fullscreen";
-      arg = "";
+      # dispatcher = "fullscreen";
+      # arg = "";
     };
     hyprpickerAutocoopy = {
       inherit scope;
       key = "C";
-      dispatcher = "exec";
-      arg = "hyprpicker - -autocopy";
+      # dispatcher = "exec";
+      # arg = "hyprpicker - -autocopy";
     };
     lockActiveGroup = {
       inherit scope;
       key = "G";
-      dispatcher = "lockactivegroup";
-      arg = "toggle";
+      # dispatcher = "lockactivegroup";
+      # arg = "toggle";
     };
     changeActiveGroupBackward = {
       inherit scope;
       key = "bracketleft";
-      dispatcher = "changegroupactive";
-      arg = keys.b;
+      # dispatcher = "changegroupactive";
+      # arg = keys.b;
     };
     changeActiveGroupForward = {
       inherit scope;
       key = "bracketright";
-      dispatcher = "changegroupactive";
-      arg = keys.f;
+      # dispatcher = "changegroupactive";
+      # arg = keys.f;
     };
     screenshot = {
       inherit scope;
       key = "Print";
-      dispatcher = "exec";
-      arg = "screenshot.sh";
+      # dispatcher = "exec";
+      # arg = "screenshot.sh";
     };
     playAudio = {
       inherit scope;
-      key = keys.XF86AudioPlay;
-      dispatcher = "exec";
-      arg = "playerctl play-pause";
+      # key = keys.XF86AudioPlay;
+      # dispatcher = "exec";
+      # arg = "playerctl play-pause";
     };
     killHyprland = {
       inherit scope;
       modmask = 12;
       key = keys.delete;
-      dispatcher = "exec";
-      arg = "hyprctl kill";
+      # dispatcher = "exec";
+      # arg = "hyprctl kill";
     };
     goToWorkspace = {
       inherit scope;
@@ -223,111 +223,111 @@ in {
     }; #<shift><n>:  N
     launchLauncherMenuMode = {
       inherit scope;
-      key = keys.Z;
-      dispatcher = "exec";
-      arg = "scratchpad -m 'fuzzel --dmenu'";
+      key = keys.z;
+      # dispatcher = "exec";
+      # arg = "scratchpad -m 'fuzzel --dmenu'";
     };
 
     launchLauncherMenuModeG = {
       inherit scope;
-      key = keys.Z;
-      dispatcher = "exec";
-      arg = "scratchpad -m 'fuzzel --dmenu' -g";
+      key = keys.z;
+      # dispatcher = "exec";
+      # arg = "scratchpad -m 'fuzzel --dmenu' -g";
     };
     moveFocusLeft = {
       inherit scope;
-      key = keys.H;
-      dispatcher = "movefocus";
-      arg = keys.l;
+      key = keys.h;
+      # dispatcher = "movefocus";
+      # arg = keys.l;
     };
     moveWindowOrGroupLeft = {
       inherit scope;
-      key = keys.H;
-      dispatcher = "movewindoworgroup";
-      arg = keys.l;
+      key = keys.h;
+      # dispatcher = "movewindoworgroup";
+      # arg = keys.l;
     };
     moveFocusDown = {
       inherit scope;
-      key = keys.J;
-      dispatcher = "movefocus";
-      arg = keys.d;
+      key = keys.j;
+      # dispatcher = "movefocus";
+      # arg = keys.d;
     };
     moveWindowOrGroupDown = {
       inherit scope;
-      key = keys.J;
-      dispatcher = "movewindoworgroup";
-      arg = keys.d;
+      key = keys.j;
+      # dispatcher = "movewindoworgroup";
+      # arg = keys.d;
     };
     moveFocusUp = {
       inherit scope;
-      key = keys.K;
-      dispatcher = "movefocus";
-      arg = "u";
+      key = keys.k;
+      # dispatcher = "movefocus";
+      # arg = "u";
     };
     moveWindowOrGroupUp = {
       inherit scope;
-      key = keys.K;
-      dispatcher = "movewindoworgroup";
-      arg = "u";
+      key = keys.k;
+      # dispatcher = "movewindoworgroup";
+      # arg = "u";
     };
     moveFocusRight = {
       inherit scope;
-      key = keys.L;
-      dispatcher = "movefocus";
-      arg = keys.r;
+      key = keys.l;
+      # dispatcher = "movefocus";
+      # arg = keys.r;
     };
     moveWindowOrGroupRight = {
       inherit scope;
-      key = keys.L;
-      dispatcher = "movewindoworgroup";
-      arg = keys.r;
+      key = keys.l;
+      # dispatcher = "movewindoworgroup";
+      # arg = keys.r;
     };
     resizeActivate = {
       inherit scope;
       modmask = 72;
-      key = keys.R;
-      dispatcher = "   submap";
-      arg = "resize";
+      key = keys.r;
+      # dispatcher = "   submap";
+      # arg = "resize";
     };
     resizeActiveRight = {
       inherit scope;
       bindFlag = "e";
       submap = "resize";
-      key = keys.L;
-      dispatcher = "resizeactive";
-      arg = 10 0;
+      key = keys.l;
+      # dispatcher = "resizeactive";
+      # arg = 10 0;
     };
     resizeActiveLeft = {
       inherit scope;
       bindFlag = "e";
       submap = "resize";
-      key = keys.H;
-      dispatcher = "   resizeactive";
-      arg = -10 0;
+      key = keys.h;
+      # dispatcher = "   resizeactive";
+      # arg = -10 0;
     };
     resiveActiveUp = {
       inherit scope;
       bindFlag = "e";
       submap = "resize";
-      key = keys.K;
-      dispatcher = "resizeactive";
-      arg = 0 - 10;
+      key = keys.k;
+      # dispatcher = "resizeactive";
+      # arg = 0 - 10;
     };
     resiveActiveDown = {
       inherit scope;
       bindFlag = "e";
       submap = "resize";
-      key = keys.J;
-      dispatcher = "resizeactive";
-      arg = 0 10;
+      key = keys.j;
+      # dispatcher = "resizeactive";
+      # arg = 0 10;
     };
 
     resizeReset = {
       inherit scope;
       submap = "resize";
       key = "escape";
-      dispatcher = "submap";
-      arg = "reset";
+      # dispatcher = "submap";
+      # arg = "reset";
     };
   };
 
@@ -335,7 +335,7 @@ in {
     scope = "global";
     rn = format.sway;
   in rec {
-    mod = rn p.desktop.compositor.mod;
+    mod = keys.super;
     fx = {
       # keybinds specific to swayfx
     };
@@ -348,638 +348,636 @@ in {
   hikari = {};
 
   # ============================================================================
-  terminal = {
-    wezterm = let
-      weztermLeader = {
-        mod = keys.alt;
-        modPhys = keys.q;
-        modPhysAlt = keys.rightSquareBracket;
-        base = keys.w;
-        name = "LEADER";
-      };
-      leader = weztermLeader.name;
-      weztermAction = "act";
-    in
-      format.wezterm {
-        inherit weztermLeader weztermAction;
-        copyToClipboard = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = p.sem.copy;
-          commandText = "${weztermAction}.CopyTo 'Clipboard'";
-        };
-        pasteFromClipboard = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = p.sem.paste;
-          commandText = "${weztermAction}.PasteFrom 'Clipboard'";
-        };
-        copyToClipboardAlt = {
-          scope = "wezterm::normal";
-          base = keys.copy;
-          commandText = "${weztermAction}.CopyTo 'Clipboard'";
-        };
-        pasteFromClipboardAlt = {
-          scope = "wezterm::normal";
-          base = keys.paste;
-          commandText = "${weztermAction}.PasteFrom 'Clipboard'";
-        };
-        hide = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = p.sem.hide;
-          commandText = "${weztermAction}.Hide";
-        };
-        spawnWindow = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = p.sem.new;
-          commandText = "${weztermAction}.SpawnWindow";
-        };
-        toggleFullScreen = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = keys.return;
-          commandText = "${weztermAction}.ToggleFullScreen";
-        };
-        decreaseFontSize = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = p.sem.decrease;
-          commandText = "${weztermAction}.DecreaseFontSize";
-        };
-        increaseFontSize = {
-          scope = "wezterm::normal";
-          prefix = keys.ctrl;
-          base = p.sem.increase;
-          commandText = "${weztermAction}.IncreaseFontSize";
-        };
-        resetFontSize = {
-          scope = "wezterm::normal";
-          prefix = keys.ctrl;
-          mod = keys.modModifier.sideEffect;
-          base = keys._0;
-          commandText = "${weztermAction}.ResetFontSize";
-        };
-        spawnTabCurrentPaneDomain = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          mod = keys.shift;
-          base = keys.t;
-          commandText = "${weztermAction}.SpawnTab 'CurrentPaneDomain'";
-        };
-        spawnTabHome = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = keys.t;
-          commandText = "${weztermAction}.SpawnTab 'Home'";
-        };
-        closeCurrentTabWithConfirm = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = p.sem.quitPart;
-          commandText = "${weztermAction}.CloseCurrentTab{ confirm = true }";
-        };
-        activateTab0 = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = keys._1;
-          commandText = "${weztermAction}.ActivateTab(0)";
-        };
-        activateTab1 = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = keys._2;
-          commandText = "${weztermAction}.ActivateTab(1)";
-        };
-        activateTab2 = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = keys._3;
-          commandText = "${weztermAction}.ActivateTab(2)";
-        };
-        activateTab3 = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = keys._4;
-          commandText = "${weztermAction}.ActivateTab(3)";
-        };
-        activateTab4 = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = keys._5;
-          commandText = "${weztermAction}.ActivateTab(4)";
-        };
-        activateTab5 = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = keys._6;
-          commandText = "${weztermAction}.ActivateTab(5)";
-        };
-        activateTab6 = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = keys._7;
-          commandText = "${weztermAction}.ActivateTab(6)";
-        };
-        activateTab7 = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = keys._8;
-          commandText = "${weztermAction}.ActivateTab(7)";
-        };
-        activateLastTab = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = keys._9;
-          commandText = "${weztermAction}.ActivateTab(-1)";
-        };
-        activatePreviousTab = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = keys.move.downOrLeftAlt;
-          commandText = "${weztermAction}.ActivateTabRelative(-1)";
-        };
-        activatePreviousTabAlt = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          mod = keys.shift;
-          base = keys.tab;
-          commandText = "${weztermAction}.ActivateTabRelative(-1)";
-        };
-        activatePreviousTabAlt2 = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = keys.pageUp;
-          commandText = "${weztermAction}.ActivateTabRelative(-1)";
-        };
-        activateNextTab = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = keys.move.upOrRightAlt;
-          commandText = "${weztermAction}.ActivateTabRelative(1)";
-        };
-        activateNextTabAlt = {
-          scope = "wezterm::normal";
-          mods = leader;
-          base = keys.tab;
-          commandText = "${weztermAction}.ActivateTabRelative(1)";
-        };
-        activateNextTabAlt2 = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = keys.pageDown;
-          commandText = "${weztermAction}.ActivateTabRelative(1)";
-        };
-        moveTabDown = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          mod = keys.shift;
-          base = keys.base.downOrLeftAlt;
-          commandText = "${weztermAction}.MoveTabRelative(-1)";
-        };
-        moveTabUp = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          mod = keys.shift;
-          base = keys.move.upOrRightAlt;
-          commandText = "${weztermAction}.MoveTabRelative(1)";
-        };
-        scrollPageUp = {
-          scope = "wezterm::normal";
-          # prefix = leader;
-          base = keys.pageUp;
-          commandText = "${weztermAction}.ScrollByPage(-1)";
-        };
-        scrollPageDown = {
-          scope = "wezterm::normal";
-          # prefix = leader;
-          base = keys.pageDown;
-          commandText = "${weztermAction}.scrollByPage(1)";
-        };
-        reloadConfiguration = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = p.sem.reload;
-          commandText = "${weztermAction}.ReloadConfiguration";
-        };
-        clearScrollbackScrollbackOnly = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = p.sem.clear;
-          commandText = "${weztermAction}.ClearScrollback 'ScrollbackOnly'";
-        };
-        showDebugOverlay = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = p.sem.explore;
-          commandText = "${weztermAction}.ShowDebugOverlay";
-        };
-        activateCommandPalette = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          mod = keys.shift;
-          base = keys.e;
-          commandText = "${weztermAction}.ActivateCommandPalette";
-        };
-        charSelect = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = keys.u;
-          commandText = "${weztermAction}.CharSelect{ copy_on_select = true, copy_to =  'ClipboardAndPrimarySelection'}";
-        };
-        searchCurrentSelectionOrEmpty = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = p.sem.search;
-          commandText = "${weztermAction}.Search 'CurrentSelectionOrEmptyString'";
-        };
-        activateCopyMode = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          mod = keys.shift;
-          base = p.sem.copy;
-          commandText = "${weztermAction}.ActivateCopyMode";
-        };
-        quickSelect = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = keys.space;
-          commandText = "${weztermAction}.QuickSelect";
-        };
-        splitVerticalInCurrentPaneDomain = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = keys.quote;
-          commandText = "${weztermAction}.SplitVertical{ domain =  'CurrentPaneDomain' }";
-        };
-        splitHorizontalInCurrentPaneDomain = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = keys.hyphen;
-          commandText = "${weztermAction}.SplitHorizontal{ domain =  'CurrentPaneDomain' }";
-        };
-        adjustPaneSizeLeft = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          mod = keys.shift;
-          base = keys.h;
-          commandText = "${weztermAction}.AdjustPaneSize{ 'Left', 1 }";
-        };
-        adjustPaneSizeRight = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          mod = keys.shift;
-          base = keys.l;
-          commandText = "${weztermAction}.AdjustPaneSize{ 'Right', 1 }";
-        };
-        adjustPaneSizeUp = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          mod = keys.shift;
-          base = keys.k;
-          commandText = "${weztermAction}.AdjustPaneSize{ 'Up', 1 }";
-        };
-        adjustPaneSizeDown = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          mod = keys.shift;
-          base = keys.j;
-          commandText = "${weztermAction}.AdjustPaneSize{ 'Down', 1 }";
-        };
-        activatePaneDirectionLeft = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = keys.h;
-          commandText = "${weztermAction}.ActivatePaneDirection 'Left' }";
-        };
-        activatePaneDirectionRight = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = keys.l;
-          commandText = "${weztermAction}.ActivatePaneDirection 'Right' }";
-        };
-        activatePaneDirectionUp = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = keys.k;
-          commandText = "${weztermAction}.ActivatePaneDirection 'Up' }";
-        };
-        activatePaneDirectionDown = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = keys.j;
-          commandText = "${weztermAction}.ActivatePaneDirection 'Down' }";
-        };
-        togglePaneZoomState = {
-          scope = "wezterm::normal";
-          prefix = leader;
-          base = keys.z;
-          commandText = "${weztermAction}.TogglePaneZoomState";
-        };
-        copyModeMoveToStartOfNextLine = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('MoveToStartOfNextLine')";
-        };
-        copyModeClose = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('Close')";
-        };
-        copyModeMoveToEndOfLineContent = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('MoveToEndOfLineContent')";
-        };
-        copyModeJumpReverse = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('JumpReverse')";
-        };
-        copyModeMoveToStartOfLine = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('MoveToStartOfLine')";
-        };
-        copyModeJumpAgain = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('JumpAgain')";
-        };
-        copyModeJumpBackwardPrevCharFalse = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode({ JumpBackward = { prev_char = false } })";
-        };
-        copyModeMoveMoveToScrollbackBottom = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('MoveToScrollbackBottom')";
-        };
-        copyModeMoveToViewportTop = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('MoveToViewportTop')";
-        };
-        copyModeMoveToViewportBottom = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('MoveToViewportBottom')";
-        };
-        copyModeMoveToViewportMiddle = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('MoveToViewportMiddle')";
-        };
-        copyModeMoveToSelectionOtherEndHoriz = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('MoveToSelectionOtherEndHoriz')";
-        };
-        copyModeJumpBackwardPrevCharTrue = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode({ JumpBackward = { prev_char = true } })";
-        };
-        copyModeMoveSetSelectionModeLine = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode({ setSelectionMode = 'Line' })";
-        };
-        copyModeMoveBackwardWord = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('MoveBackwardWord')";
-        };
-        copyModePageUp = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('PageUp')";
-        };
-        copyModeMoveByPageHalf = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode({ MoveByPage = 0.5)";
-        };
-        copyModeMoveForwardWordEnd = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('MoveForwardWordEnd')";
-        };
-        copyModePageDown = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('PageDown')";
-        };
-        copyModeMoveToScrollbackTop = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('MoveToScrollbackTop')";
-        };
-        copyModeMoveLeft = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('MoveLeft')";
-        };
-        copyModeMoveDown = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('MoveDown')";
-        };
-        copyModeMoveUp = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('MoveUp')";
-        };
-        copyModeMoveRight = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('MoveRight')";
-        };
-        copyModeMoveToStartOfLineContent = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('MoveToStartOfLineContent')";
-        };
-        copyModeMoveToSelectionOtherEnd = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('MoveToSelectionOtherEnd')";
-        };
-        copyModeJumpForwardPrevCharTrue = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('{ JumpForward = { prev_char = true } }')";
-        };
-        copyModeMoveByPageMinusHalf = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode({ MoveByPage = -0.5 })";
-        };
-        copyModeSetSelectionModeCell = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode({ SetSelectionMode = 'Cell' })";
-        };
-        copyModeSetSelectionModeBlock = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode({ SetSelectionMode = 'Block' })";
-        };
-        copyModeMoveForwardWord = {
-          scope = "wezterm::copyMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('MoveForwardWord')";
-        };
-        searchModePriorMatch = {
-          scope = "wezterm::searchMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('Priormatch')";
-        };
-        searchModeNextMatch = {
-          scope = "wezterm::searchMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('NextMatch')";
-        };
-        searchModeClose = {
-          scope = "wezterm::searchMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('Close')";
-        };
-        searchModeClearPattern = {
-          scope = "wezterm::searchMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('ClearPattern')";
-        };
-        searchModeCycleMatchType = {
-          scope = "wezterm::searchMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('CycleMatchType')";
-        };
-        searchModePriorMatchPage = {
-          scope = "wezterm::searchMode";
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('PriorMatchPage')";
-        };
-        searchModeNextMatchPage = {
-          scope = "wezterm::searchMode";
-          prefix = leader;
-          mod = keys.ph;
-          base = keys.ph;
-          commandText = "${weztermAction}.CopyMode('NextMatchPage')";
-        };
-      };
-
-    /*
-
-      * /
+  wezterm = let
+    weztermLeader = {
+      mod = keys.alt;
+      modPhys = keys.q;
+      modPhysAlt = keys.squareBracketRight;
+      base = keys.w;
+      name = "LEADER";
     };
-    */
-    kitty = let
-      rn = format.kitty;
-    in {
+    leader = weztermLeader.name;
+    weztermAction = "act";
+  in
+    format.wezterm {
+      # inherit weztermLeader weztermAction;
+      copyToClipboard = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = p.sem.copy;
+        commandText = "${weztermAction}.CopyTo 'Clipboard'";
+      };
+      pasteFromClipboard = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = p.sem.paste;
+        commandText = "${weztermAction}.PasteFrom 'Clipboard'";
+      };
+      copyToClipboardAlt = {
+        scope = "wezterm::normal";
+        base = keys.copy;
+        commandText = "${weztermAction}.CopyTo 'Clipboard'";
+      };
+      pasteFromClipboardAlt = {
+        scope = "wezterm::normal";
+        base = keys.paste;
+        commandText = "${weztermAction}.PasteFrom 'Clipboard'";
+      };
+      hide = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = p.sem.hide;
+        commandText = "${weztermAction}.Hide";
+      };
+      spawnWindow = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = p.sem.new;
+        commandText = "${weztermAction}.SpawnWindow";
+      };
+      toggleFullScreen = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = keys.return;
+        commandText = "${weztermAction}.ToggleFullScreen";
+      };
+      decreaseFontSize = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = p.sem.decrease;
+        commandText = "${weztermAction}.DecreaseFontSize";
+      };
+      increaseFontSize = {
+        scope = "wezterm::normal";
+        prefix = keys.ctrl;
+        base = p.sem.increase;
+        commandText = "${weztermAction}.IncreaseFontSize";
+      };
+      resetFontSize = {
+        scope = "wezterm::normal";
+        prefix = keys.ctrl;
+        mod = p.modModifier.sideEffect;
+        base = keys._0;
+        commandText = "${weztermAction}.ResetFontSize";
+      };
+      spawnTabCurrentPaneDomain = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        mod = keys.shift;
+        base = keys.t;
+        commandText = "${weztermAction}.SpawnTab 'CurrentPaneDomain'";
+      };
+      spawnTabHome = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = keys.t;
+        commandText = "${weztermAction}.SpawnTab 'Home'";
+      };
+      closeCurrentTabWithConfirm = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = p.sem.killPart;
+        commandText = "${weztermAction}.CloseCurrentTab{ confirm = true }";
+      };
+      activateTab0 = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = keys._1;
+        commandText = "${weztermAction}.ActivateTab(0)";
+      };
+      activateTab1 = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = keys._2;
+        commandText = "${weztermAction}.ActivateTab(1)";
+      };
+      activateTab2 = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = keys._3;
+        commandText = "${weztermAction}.ActivateTab(2)";
+      };
+      activateTab3 = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = keys._4;
+        commandText = "${weztermAction}.ActivateTab(3)";
+      };
+      activateTab4 = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = keys._5;
+        commandText = "${weztermAction}.ActivateTab(4)";
+      };
+      activateTab5 = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = keys._6;
+        commandText = "${weztermAction}.ActivateTab(5)";
+      };
+      activateTab6 = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = keys._7;
+        commandText = "${weztermAction}.ActivateTab(6)";
+      };
+      activateTab7 = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = keys._8;
+        commandText = "${weztermAction}.ActivateTab(7)";
+      };
+      activateLastTab = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = keys._9;
+        commandText = "${weztermAction}.ActivateTab(-1)";
+      };
+      activatePreviousTab = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = p.sem.downOrLeftAlt;
+        commandText = "${weztermAction}.ActivateTabRelative(-1)";
+      };
+      activatePreviousTabAlt = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        mod = keys.shift;
+        base = keys.tab;
+        commandText = "${weztermAction}.ActivateTabRelative(-1)";
+      };
+      activatePreviousTabAlt2 = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = keys.pageUp;
+        commandText = "${weztermAction}.ActivateTabRelative(-1)";
+      };
+      activateNextTab = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = p.sem.upOrRightAlt;
+        commandText = "${weztermAction}.ActivateTabRelative(1)";
+      };
+      activateNextTabAlt = {
+        scope = "wezterm::normal";
+        mods = leader;
+        base = keys.tab;
+        commandText = "${weztermAction}.ActivateTabRelative(1)";
+      };
+      activateNextTabAlt2 = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = keys.pageDown;
+        commandText = "${weztermAction}.ActivateTabRelative(1)";
+      };
+      moveTabDown = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        mod = keys.shift;
+        base = p.sem.downOrLeftAlt;
+        commandText = "${weztermAction}.MoveTabRelative(-1)";
+      };
+      moveTabUp = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        mod = keys.shift;
+        base = p.sem.upOrRightAlt;
+        commandText = "${weztermAction}.MoveTabRelative(1)";
+      };
+      scrollPageUp = {
+        scope = "wezterm::normal";
+        # prefix = leader;
+        base = keys.pageUp;
+        commandText = "${weztermAction}.ScrollByPage(-1)";
+      };
+      scrollPageDown = {
+        scope = "wezterm::normal";
+        # prefix = leader;
+        base = keys.pageDown;
+        commandText = "${weztermAction}.scrollByPage(1)";
+      };
+      reloadConfiguration = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = p.sem.reload;
+        commandText = "${weztermAction}.ReloadConfiguration";
+      };
+      clearScrollbackScrollbackOnly = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = p.sem.clear;
+        commandText = "${weztermAction}.ClearScrollback 'ScrollbackOnly'";
+      };
+      showDebugOverlay = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = p.sem.explore;
+        commandText = "${weztermAction}.ShowDebugOverlay";
+      };
+      activateCommandPalette = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        mod = keys.shift;
+        base = keys.e;
+        commandText = "${weztermAction}.ActivateCommandPalette";
+      };
+      charSelect = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = keys.u;
+        commandText = "${weztermAction}.CharSelect{ copy_on_select = true, copy_to =  'ClipboardAndPrimarySelection'}";
+      };
+      searchCurrentSelectionOrEmpty = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = p.sem.search;
+        commandText = "${weztermAction}.Search 'CurrentSelectionOrEmptyString'";
+      };
+      activateCopyMode = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        mod = keys.shift;
+        base = p.sem.copy;
+        commandText = "${weztermAction}.ActivateCopyMode";
+      };
+      quickSelect = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = keys.space;
+        commandText = "${weztermAction}.QuickSelect";
+      };
+      splitVerticalInCurrentPaneDomain = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = keys.singleQuote;
+        commandText = "${weztermAction}.SplitVertical{ domain =  'CurrentPaneDomain' }";
+      };
+      splitHorizontalInCurrentPaneDomain = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = keys.hyphen;
+        commandText = "${weztermAction}.SplitHorizontal{ domain =  'CurrentPaneDomain' }";
+      };
+      adjustPaneSizeLeft = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        mod = keys.shift;
+        base = keys.h;
+        commandText = "${weztermAction}.AdjustPaneSize{ 'Left', 1 }";
+      };
+      adjustPaneSizeRight = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        mod = keys.shift;
+        base = keys.l;
+        commandText = "${weztermAction}.AdjustPaneSize{ 'Right', 1 }";
+      };
+      adjustPaneSizeUp = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        mod = keys.shift;
+        base = keys.k;
+        commandText = "${weztermAction}.AdjustPaneSize{ 'Up', 1 }";
+      };
+      adjustPaneSizeDown = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        mod = keys.shift;
+        base = keys.j;
+        commandText = "${weztermAction}.AdjustPaneSize{ 'Down', 1 }";
+      };
+      activatePaneDirectionLeft = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = keys.h;
+        commandText = "${weztermAction}.ActivatePaneDirection 'Left' }";
+      };
+      activatePaneDirectionRight = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = keys.l;
+        commandText = "${weztermAction}.ActivatePaneDirection 'Right' }";
+      };
+      activatePaneDirectionUp = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = keys.k;
+        commandText = "${weztermAction}.ActivatePaneDirection 'Up' }";
+      };
+      activatePaneDirectionDown = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = keys.j;
+        commandText = "${weztermAction}.ActivatePaneDirection 'Down' }";
+      };
+      togglePaneZoomState = {
+        scope = "wezterm::normal";
+        prefix = leader;
+        base = keys.z;
+        commandText = "${weztermAction}.TogglePaneZoomState";
+      };
+      copyModeMoveToStartOfNextLine = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('MoveToStartOfNextLine')";
+      };
+      copyModeClose = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('Close')";
+      };
+      copyModeMoveToEndOfLineContent = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('MoveToEndOfLineContent')";
+      };
+      copyModeJumpReverse = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('JumpReverse')";
+      };
+      copyModeMoveToStartOfLine = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('MoveToStartOfLine')";
+      };
+      copyModeJumpAgain = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('JumpAgain')";
+      };
+      copyModeJumpBackwardPrevCharFalse = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode({ JumpBackward = { prev_char = false } })";
+      };
+      copyModeMoveMoveToScrollbackBottom = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('MoveToScrollbackBottom')";
+      };
+      copyModeMoveToViewportTop = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('MoveToViewportTop')";
+      };
+      copyModeMoveToViewportBottom = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('MoveToViewportBottom')";
+      };
+      copyModeMoveToViewportMiddle = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('MoveToViewportMiddle')";
+      };
+      copyModeMoveToSelectionOtherEndHoriz = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('MoveToSelectionOtherEndHoriz')";
+      };
+      copyModeJumpBackwardPrevCharTrue = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode({ JumpBackward = { prev_char = true } })";
+      };
+      copyModeMoveSetSelectionModeLine = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode({ setSelectionMode = 'Line' })";
+      };
+      copyModeMoveBackwardWord = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('MoveBackwardWord')";
+      };
+      copyModePageUp = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('PageUp')";
+      };
+      copyModeMoveByPageHalf = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode({ MoveByPage = 0.5)";
+      };
+      copyModeMoveForwardWordEnd = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('MoveForwardWordEnd')";
+      };
+      copyModePageDown = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('PageDown')";
+      };
+      copyModeMoveToScrollbackTop = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('MoveToScrollbackTop')";
+      };
+      copyModeMoveLeft = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('MoveLeft')";
+      };
+      copyModeMoveDown = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('MoveDown')";
+      };
+      copyModeMoveUp = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('MoveUp')";
+      };
+      copyModeMoveRight = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('MoveRight')";
+      };
+      copyModeMoveToStartOfLineContent = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('MoveToStartOfLineContent')";
+      };
+      copyModeMoveToSelectionOtherEnd = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('MoveToSelectionOtherEnd')";
+      };
+      copyModeJumpForwardPrevCharTrue = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('{ JumpForward = { prev_char = true } }')";
+      };
+      copyModeMoveByPageMinusHalf = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode({ MoveByPage = -0.5 })";
+      };
+      copyModeSetSelectionModeCell = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode({ SetSelectionMode = 'Cell' })";
+      };
+      copyModeSetSelectionModeBlock = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode({ SetSelectionMode = 'Block' })";
+      };
+      copyModeMoveForwardWord = {
+        scope = "wezterm::copyMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('MoveForwardWord')";
+      };
+      searchModePriorMatch = {
+        scope = "wezterm::searchMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('Priormatch')";
+      };
+      searchModeNextMatch = {
+        scope = "wezterm::searchMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('NextMatch')";
+      };
+      searchModeClose = {
+        scope = "wezterm::searchMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('Close')";
+      };
+      searchModeClearPattern = {
+        scope = "wezterm::searchMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('ClearPattern')";
+      };
+      searchModeCycleMatchType = {
+        scope = "wezterm::searchMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('CycleMatchType')";
+      };
+      searchModePriorMatchPage = {
+        scope = "wezterm::searchMode";
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('PriorMatchPage')";
+      };
+      searchModeNextMatchPage = {
+        scope = "wezterm::searchMode";
+        prefix = leader;
+        mod = keys.ph;
+        base = keys.ph;
+        commandText = "${weztermAction}.CopyMode('NextMatchPage')";
+      };
+    };
+
+  /*
+
+    * /
+  };
+  */
+  kitty =
+    # format.kitty
+    {
       # https://sw.kovidgoyal.net/kitty/actions/
       # https://sw.kovidgoyal.net/kitty/conf/
     };
-    alacritty = let
-      rn = format.alacritty;
-    in {
+  alacritty =
+    # format.alacritty;
+    {
       # https://githucodeb.com/alacritty/alacritty/wiki/Keyboard-mappings
       # https://github.com/alacritty/alacritty/blob/master/extra/man/alacritty.5.scd#keyboard
     };
-    waveterm = {
-      # https://docs.waveterm.dev/reference/keyboard
-    };
-    tabby = {};
-    foot = {
-      # https://codeberg.org/dnkl/foot/src/branch/master/foot.ini
-    };
-    extraterm = {};
-    hyper = {
-      # https://hyper.is/
-    };
-    wayst = {};
-    commas = {};
-    urxvt = {};
-    tym = {
-      # https://github.com/endaaman/tym?tab=readme-ov-file#customizing-keymap
-    };
-    blackbox = {};
+  waveterm = {
+    # https://docs.waveterm.dev/reference/keyboard
   };
+  tabby = {};
+  foot = {
+    # https://codeberg.org/dnkl/foot/src/branch/master/foot.ini
+  };
+  extraterm = {};
+  hyper = {
+    # https://hyper.is/
+  };
+  wayst = {};
+  commas = {};
+  urxvt = {};
+  tym = {
+    # https://github.com/endaaman/tym?tab=readme-ov-file#customizing-keymap
+  };
+  blackbox = {};
   # ============================================================================
   nvim = {
     # https://neovim.io/doc/user/quickref.html
@@ -992,7 +990,7 @@ in {
       # leftRightMotions # https://neovim.io/doc/user/quickref.html#Q_lr
       left = {
         scope = "nvimNormal";
-        mod = null;
+        mod = keys.none;
         base = keys.h;
         numPrefix = true; # optNumPrefix vs reqNumPrefix
       };
@@ -1163,10 +1161,9 @@ in {
   # ============================================================================
   idea = {};
   # ============================================================================
-  browser = rec {
-    nyxt = let
-      rn = format.nyxt;
-    in {
+  nyxt =
+    # format.nyxt
+    {
       set-url = {};
       reload-current-buffer = {};
       set-url-new-buffer = {};
@@ -1354,14 +1351,27 @@ in {
 
       # continue from https://nyxt.atlas.engineer/documentation#automation
     };
-    qutebrowser = let rn = format.qutebrowser; in {};
-    chromium = let rn = format.chromium; in {};
-    firefox = let rn = format.firefox; in {};
-    luakit = let rn = format.luakit; in {};
-    vimb = let rn = format.vimb; in {};
-    brave = let rn = format.brave; in {};
-    icecat = let rn = format.icecat; in {};
-  };
+  qutebrowser =
+    # format.qutebrowser
+    {};
+  chromium =
+    # format.chromium
+    {};
+  firefox =
+    # format.firefox
+    {};
+  luakit =
+    # format.luakit
+    {};
+  vimb =
+    # format.vimb
+    {};
+  brave =
+    # format.brave
+    {};
+  icecat =
+    # format.icecat
+    {};
   # ============================================================================
   cli = {};
   # ============================================================================

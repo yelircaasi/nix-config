@@ -126,6 +126,17 @@
     nixosConfigurations = mylib.makeNixosConfigurations deviceDeclarations;
     homeConfigurations = mylib.makeHomeManagerConfigurations deviceDeclarations;
     devShells = mylib.makeDevShells deviceDeclarations;
+    packages.x86_64-linux = {
+      # TODO: ADD flake-utils.lib.eachDefaultSystem
+      colors = {
+        json = builtins.toJSON g.color;
+        nix = g.color;
+      };
+      keys = {
+        json = builtins.toJSON g.key;
+        nix = g.key;
+      };
+    };
   };
 
   inputs = {

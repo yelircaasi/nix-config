@@ -1,0 +1,7 @@
+{
+  inputs,
+  g,
+  deviceConfig,
+  ...
+}: {
+}

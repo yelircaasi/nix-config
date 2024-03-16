@@ -1,8 +1,0 @@
-{
-  inputs,
-  g,
-  deviceConfig,
-  ...
-}: {
-
-}

@@ -2,43 +2,76 @@
   inputs,
   g,
 }: rec {
+  updateAttrsWith = defaultSet: setOfSets:
+    builtins.mapAttrs
+    (name: configSet: defaultSet // configSet)
+    setOfSets;
   makeNixosConfig = {
     name,
-    defaultShell ? "bash",
-    shells ? ["bash"],
-    windowManager ? null,
+    description,
+    defaultShell,
+    otherShells,
+    compositors,
+    desktopEnvironments,
+    nvidia,
+    pipewire,
+    jack,
+    networkmanager,
+    wayland,
+    x11,
+    ssh-server,
+    docker,
+    podman,
+    printing,
+    extraGroups,
+    extraSystemPackageNames,
+    additionalModules,
   } @ deviceConfig:
     inputs.nixpkgs.lib.nixosSystem {
-      specialArgs = {inherit inputs g deviceConfig;};
-      modules = [
-        ./nixos/${name}-configuration.nix
-        #inputs.nix-snapd.nixosModules.default {
-        #  services.snap.enable = true;
-        #}
-      ];
+      specialArgs = {inherit inputs g deviceConfig;}; #lib = inputs.nixpkgs.lib; };
+      modules =
+        [
+          ./system/configuration-${deviceConfig.name}.nix
+        ]
+        ++ additionalModules;
     };
 
   makeHomeManagerConfig = {
     name,
-    defaultShell ? "bash",
-    shells ? ["bash"],
-    windowManager ? null,
+    description,
+    defaultShell,
+    otherShells,
+    compositors,
+    desktopEnvironments,
+    nvidia,
+    pipewire,
+    jack,
+    networkmanager,
+    wayland,
+    x11,
+    ssh-server,
+    docker,
+    podman,
+    printing,
+    extraGroups,
+    extraSystemPackageNames,
+    additionalModules,
   } @ deviceConfig:
     inputs.home-manager.lib.homeManagerConfiguration {
       pkgs = inputs.nixpkgs.legacyPackages.x86_64-linux;
-      extraSpecialArgs = {inherit inputs g deviceConfig;};
-      modules = [./home-manager/${name}.nix];
+      extraSpecialArgs = {inherit inputs g deviceConfig;}; #lib = inputs.nixpkgs.lib; };
+      modules = [./home/${deviceConfig.name}.nix] ++ additionalModules;
     };
 
-  makeNixosConfigurations = deviceDeclarationList:
-    builtins.foldl'
-    (acc: configSet: let name = configSet.name; in acc // {"${name}" = makeNixosConfig configSet;})
-    {}
-    deviceDeclarationList;
+  makeNixosConfigurations = deviceDeclarationAttrSet:
+    builtins.mapAttrs
+    (name: configSet: makeNixosConfig configSet)
+    deviceDeclarationAttrSet;
 
-  makeHomeManagerConfigurations = deviceDeclarationList:
-    builtins.foldl'
-    (acc: configSet: let name = configSet.name; in acc // {"${name}" = makeHomeManagerConfig configSet;})
-    {}
-    deviceDeclarationList;
+  makeHomeManagerConfigurations = deviceDeclarationAttrSet:
+    builtins.mapAttrs
+    (name: configSet: makeHomeManagerConfig configSet)
+    deviceDeclarationAttrSet;
+
+  makeDevShells = deviceDeclarationAttrSet: {};
 }

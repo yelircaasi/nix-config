@@ -46,9 +46,8 @@
   };
 
   services.xserver.displayManager.gdm = {
-    enable = true;
-    wayland = true;
-    #   # autoLogin.delay = 10;
+    enable = false;
+    # wayland = true;
   };
   # services.xserver.desktopManager.gnome.enable = false;
 

@@ -4,6 +4,7 @@
   ...
 }: {
   environment.systemPackages = with pkgs; [
+    hyprland
     # sddm
     # where-is-my-sddm-theme
     # sddm-chili-theme

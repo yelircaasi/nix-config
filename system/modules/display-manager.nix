@@ -5,7 +5,7 @@
 }: {
   environment.systemPackages = with pkgs; [
     hyprland
-    gnome.gdm
+    # gnome.gdm
     # sddm
     # where-is-my-sddm-theme
     # sddm-chili-theme
@@ -40,11 +40,12 @@
   # services.xserver.displayManager.sddm.enableHidpi = true;
   # services.xserver.displayManager.sddm.wayland.enable = true;
 
-  services.xserver.displayManager.job = {
-    logToFile = true;
-    # execCmd = "${pkgs.lightdm}/bin/lightdm";
-  };
+  # services.xserver.displayManager.job = {
+  #   logToFile = true;
+  #   # execCmd = "${pkgs.lightdm}/bin/lightdm";
+  # };
 
+  services.xserver.displayManager.startx.enable = true;
   services.xserver.displayManager.gdm = {
     enable = false;
     # wayland = true;
@@ -52,7 +53,7 @@
   # services.xserver.desktopManager.gnome.enable = false;
 
   # services.xserver.displayManager.defaultSession = "hyprland";
-  services.xserver.displayManager.hiddenUsers = ["landscape"];
+  # services.xserver.displayManager.hiddenUsers = ["landscape"];
   # services.xserver.displayManager.autoLogin.enable = true;
   # services.xserver.displayManager.autoLogin.user = "isaac";
 

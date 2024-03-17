@@ -2,56 +2,56 @@
 /* GTK NAMED COLORS
    ----------------
    use responsibly! */
-/* widget text/foreground color */
-@define-color theme_fg_color #d8dee9;
-/* text color for entries, views and content in general */
-@define-color theme_text_color #d8dee9;
-/* widget base background color */
-@define-color theme_bg_color #434c5e;
-/* text widgets and the like base background color */
-@define-color theme_base_color #3b4252;
-/* base background color of selections */
-@define-color theme_selected_bg_color #81a1c1;
-/* text/foreground color of selections */
-@define-color theme_selected_fg_color #fefefe;
-/* base background color of disabled widgets */
-@define-color insensitive_bg_color #404859;
-/* text foreground color of disabled widgets */
-@define-color insensitive_fg_color #8e95a4;
-/* disabled text widgets and the like base background color */
-@define-color insensitive_base_color #3b4252;
-/* widget text/foreground color on backdrop windows */
-@define-color theme_unfocused_fg_color #8e95a4;
-/* text color for entries, views and content in general on backdrop windows */
-@define-color theme_unfocused_text_color #d8dee9;
-/* widget base background color on backdrop windows */
-@define-color theme_unfocused_bg_color #434c5e;
-/* text widgets and the like base background color on backdrop windows */
-@define-color theme_unfocused_base_color #3d4455;
-/* base background color of selections on backdrop windows */
-@define-color theme_unfocused_selected_bg_color #81a1c1;
-/* text/foreground color of selections on backdrop windows */
-@define-color theme_unfocused_selected_fg_color #fefefe;
-/* widgets main borders color */
-@define-color borders #262a34;
-/* widgets main borders color on backdrop windows */
-@define-color unfocused_borders #292d38;
-/* these are pretty self explicative */
-@define-color warning_color #c3674a;
-@define-color error_color #b84f59;
-@define-color success_color #63adc2;
-@define-color fg_color #d8dee9;
-@define-color text_color #d8dee9;
-@define-color bg_color #434c5e;
-@define-color base_color #3b4252;
-@define-color selected_bg_color #81a1c1;
-@define-color selected_fg_color #fefefe;
-@define-color unfocused_fg_color #8e95a4;
-@define-color unfocused_text_color #d8dee9;
-@define-color unfocused_bg_color #434c5e;
-@define-color unfocused_base_color #3d4455;
-@define-color unfocused_selected_bg_color #81a1c1;
-@define-color unfocused_selected_fg_color #fefefe;
+/* widget text/foreground color                                               #d8dee9 */
+@define-color theme_fg_color "<| color.gtk.theme.fg |>";
+/* text color for entries, views and content in general                       #d8dee9 */
+@define-color theme_text_color "<| color.gtk.theme.text |>";
+/* widget base background color                                               #434c5e */
+@define-color theme_bg_color "<| color.gtk.theme.bg |>";
+/* text widgets and the like base background color                            #3b4252 */
+@define-color theme_base_color "<| color.gtk.base |>";
+/* base background color of selections                                        #81a1c1 */
+@define-color theme_selected_bg_color "<| color.gtk.selected.bg |>";
+/* text/foreground color of selections                                        #fefefe */
+@define-color theme_selected_fg_color "<| color.gtk.selected.fg |>";
+/* base background color of disabled widgets                                  #404859 */
+@define-color insensitive_bg_color "<| color.gtk.insensitive.bg |>";
+/* text foreground color of disabled widgets                                  #8e95a4 */
+@define-color insensitive_fg_color "<| color.gtk.insensitive.fg |>";
+/* disabled text widgets and the like base background color                   #3b4252 */
+@define-color insensitive_base_color "<| color.gtk.insensitive.base |>";
+/* widget text/foreground color on backdrop windows                           #8e95a4 */
+@define-color theme_unfocused_fg_color "<| color.gtk.unfocused.bg |>";
+/* text color for entries, views and content in general on backdrop windows   #d8dee9 */
+@define-color theme_unfocused_text_color "<| color.gtk.unfocused.fg |>";
+/* widget base background color on backdrop windows                           #434c5e */
+@define-color theme_unfocused_bg_color "<| color.gtk.unfocused.bg |>";
+/* text widgets and the like base background color on backdrop windows        #3d4455 */
+@define-color theme_unfocused_base_color "<| color.gtk.unfocused.bg |>";
+/* base background color of selections on backdrop windows                    #81a1c1 */
+@define-color theme_unfocused_selected_bg_color "<| color.gtk.selected.bg |>";
+/* text/foreground color of selections on backdrop windows                    #fefefe */
+@define-color theme_unfocused_selected_fg_color "<| color.gtk.selected.fg |>";
+/* widgets main borders color                                                 #262a34*/
+@define-color borders "<| color.gtk.borders.normal |>";
+/* widgets main borders color on backdrop windows                             #292d38*/
+@define-color unfocused_borders "<| color.gtk.borders.unfocused |>";
+/* these are pretty self explicative  */
+@define-color warning_color "<| color.gtk.warning |>"; /*                     #c3674a */
+@define-color error_color "<| color.gtk.error |>"; /*                         #b84f59 */
+@define-color success_color "<| color.gtk.success |>"; /*                     #63adc2*/
+@define-color fg_color "<| color.gtk.fg |>"; /*                               #d8dee9*/
+@define-color text_color "<| color.gtk.test |>"; /*                           #d8dee9*/
+@define-color bg_color "<| color.gtk.bg |>"; /*                               #434c5e */
+@define-color base_color "<| color.gtk.base |>"; /*                           #3b4252 */
+@define-color selected_bg_color "<| color.gtk.selected.bg |>"; /*             #81a1c1 */
+@define-color selected_fg_color "<| color.gtk.selected.fg |>"; /*             #fefefe */
+@define-color unfocused_fg_color "<| color.gtk.unfocused.fg |>"; /*           #8e95a4 */
+@define-color unfocused_text_color "<| color.gtk.text |>"; /*                 #d8dee9*/
+@define-color unfocused_bg_color "<| color.gtk.unfocused.bg |>"; /*           #434c5e*/
+@define-color unfocused_base_color "<| color.gtk.unfocused.base |>"; /*       #3d4455  */
+@define-color unfocused_selected_bg_color "<| color.gtk.unfocused.selected.bg |>"; /* #81a1c1 */
+@define-color unfocused_selected_fg_color "<| color.gtk.unfocused.selected.fg |>"; /* #fefefe */
 /* these colors are exported for the window manager and shouldn't be used in applications,
 read if you used those and something break with a version upgrade you're on your own... */
 @define-color wm_title shade(#d8dee9, 1.8);
@@ -68,69 +68,70 @@ read if you used those and something break with a version upgrade you're on your
 @define-color wm_button_active_color_b shade(#434c5e, 0.89);
 @define-color wm_button_active_color_c shade(#434c5e, 0.9);
 @define-color content_view_bg #3b4252;
-@define-color text_view_bg #3b4252;
-@define-color budgie_tasklist_indicator_color #81a1c1;
-@define-color budgie_tasklist_indicator_color_active #81a1c1;
-@define-color STRAWBERRY_100 #ff8c82;
-@define-color STRAWBERRY_300 #ed5353;
-@define-color STRAWBERRY_500 #c6262e;
-@define-color STRAWBERRY_700 #a10705;
-@define-color STRAWBERRY_900 #7a0000;
-@define-color ORANGE_100 #ffc27d;
-@define-color ORANGE_300 #ffa154;
-@define-color ORANGE_500 #f37329;
-@define-color ORANGE_700 #cc3b02;
-@define-color ORANGE_900 #a62100;
-@define-color BANANA_100 #fff394;
-@define-color BANANA_300 #ffe16b;
-@define-color BANANA_500 #f9c440;
-@define-color BANANA_700 #d48e15;
-@define-color BANANA_900 #ad5f00;
-@define-color LIME_100 #d1ff82;
-@define-color LIME_300 #9bdb4d;
-@define-color LIME_500 #68b723;
-@define-color LIME_700 #3a9104;
-@define-color LIME_900 #206b00;
-@define-color MINT_100 #89ffdd;
-@define-color MINT_300 #43d6b5;
-@define-color MINT_500 #28bca3;
-@define-color MINT_700 #0e9a83;
-@define-color MINT_900 #007367;
-@define-color BLUEBERRY_100 #8cd5ff;
-@define-color BLUEBERRY_300 #64baff;
-@define-color BLUEBERRY_500 #3689e6;
-@define-color BLUEBERRY_700 #0d52bf;
-@define-color BLUEBERRY_900 #002e99;
-@define-color BUBBLEGUM_100 #fe9ab8;
-@define-color BUBBLEGUM_300 #f4679d;
-@define-color BUBBLEGUM_500 #de3e80;
-@define-color BUBBLEGUM_700 #bc245d;
-@define-color BUBBLEGUM_900 #910e38;
-@define-color GRAPE_100 #e4c6fa;
-@define-color GRAPE_300 #cd9ef7;
-@define-color GRAPE_500 #a56de2;
-@define-color GRAPE_700 #7239b3;
-@define-color GRAPE_900 #452981;
-@define-color COCOA_100 #a3907c;
-@define-color COCOA_300 #8a715e;
-@define-color COCOA_500 #715344;
-@define-color COCOA_700 #57392d;
-@define-color COCOA_900 #3d211b;
-@define-color SILVER_100 #fafafa;
-@define-color SILVER_300 #d4d4d4;
-@define-color SILVER_500 #abacae;
-@define-color SILVER_700 #7e8087;
-@define-color SILVER_900 #555761;
-@define-color SLATE_100 #95a3ab;
-@define-color SLATE_300 #667885;
-@define-color SLATE_500 #485a6c;
-@define-color SLATE_700 #273445;
-@define-color SLATE_900 #0e141f;
-@define-color BLACK_100 #666;
-@define-color BLACK_300 #4d4d4d;
-@define-color BLACK_500 #333;
-@define-color BLACK_700 #1a1a1a;
-@define-color BLACK_900 #000;
+@define-color text_view_bg "<|  |>"#3b4252;
+/*
+@define-color budgie_tasklist_indicator_color "<|  |>"#81a1c1;
+@define-color budgie_tasklist_indicator_color_active "<|  |>"#81a1c1;
+@define-color STRAWBERRY_100 "<|  |>"#ff8c82;
+@define-color STRAWBERRY_300 "<|  |>"#ed5353;
+@define-color STRAWBERRY_500 "<|  |>"#c6262e;
+@define-color STRAWBERRY_700 "<|  |>"#a10705;
+@define-color STRAWBERRY_900 "<|  |>"#7a0000;
+@define-color ORANGE_100 "<|  |>"#ffc27d;
+@define-color ORANGE_300 "<|  |>"#ffa154;
+@define-color ORANGE_500 "<|  |>"#f37329;
+@define-color ORANGE_700 "<|  |>"#cc3b02;
+@define-color ORANGE_900 "<|  |>"#a62100;
+@define-color BANANA_100 "<|  |>"#fff394;
+@define-color BANANA_300 "<|  |>"#ffe16b;
+@define-color BANANA_500 "<|  |>"#f9c440;
+@define-color BANANA_700 "<|  |>"#d48e15;
+@define-color BANANA_900 "<|  |>"#ad5f00;
+@define-color LIME_100 "<|  |>"#d1ff82;
+@define-color LIME_300 "<|  |>"#9bdb4d;
+@define-color LIME_500 "<|  |>"#68b723;
+@define-color LIME_700 "<|  |> "#3a9104;
+@define-color LIME_900 "<|  |>"#206b00;
+@define-color MINT_100 "<|  |>"#89ffdd;
+@define-color MINT_300 "<|  |>"#43d6b5;
+@define-color MINT_500 "<|  |>"#28bca3;
+@define-color MINT_700 "<|  |>"#0e9a83;
+@define-color MINT_900 "<|  |>"#007367;
+@define-color BLUEBERRY_100 "<|  |>"#8cd5ff;
+@define-color BLUEBERRY_300 "<|  |>"#64baff;
+@define-color BLUEBERRY_500 "<|  |>"#3689e6;
+@define-color BLUEBERRY_700 "<|  |>"#0d52bf;
+@define-color BLUEBERRY_900 "<|  |>"#002e99;
+@define-color BUBBLEGUM_100 "<|  |>"#fe9ab8;
+@define-color BUBBLEGUM_300 "<|  |>"#f4679d;
+@define-color BUBBLEGUM_500 "<|  |>"#de3e80;
+@define-color BUBBLEGUM_700 "<|  |>"#bc245d;
+@define-color BUBBLEGUM_900 "<|  |>"#910e38;
+@define-color GRAPE_100 "<|  |>"#e4c6fa;
+@define-color GRAPE_300 "<|  |>"#cd9ef7;
+@define-color GRAPE_500 "<|  |>"#a56de2;
+@define-color GRAPE_700 "<|  |>"#7239b3;
+@define-color GRAPE_900 "<|  |>"#452981;
+@define-color COCOA_100 "<|  |>"#a3907c;
+@define-color COCOA_300 "<|  |>"#8a715e;
+@define-color COCOA_500 "<|  |>"#715344;
+@define-color COCOA_700 "<|  |>"#57392d;
+@define-color COCOA_900 "<|  |>"#3d211b;
+@define-color SILVER_100 "<|  |>"#fafafa;
+@define-color SILVER_300 "<|  |>"#d4d4d4;
+@define-color SILVER_500 "<|  |>"#abacae;
+@define-color SILVER_700 "<|  |>"#7e8087;
+@define-color SILVER_900 "<|  |>"#555761;
+@define-color SLATE_100 "<|  |>"#95a3ab;
+@define-color SLATE_300 "<|  |>"#667885;
+@define-color SLATE_500 "<|  |>"#485a6c;
+@define-color SLATE_700 "<|  |>"#273445;
+@define-color SLATE_900 "<|  |>"#0e141f;
+@define-color BLACK_100 "<|  |>"#666;
+@define-color BLACK_300 "<|  |>"#4d4d4d;
+@define-color BLACK_500 "<|  |>"#333;
+@define-color BLACK_700 "<|  |>"#1a1a1a;
+@define-color BLACK_900 "<|  |>"#000; */
 /*****************
 * Drawing mixins *
 *****************/

@@ -4,13 +4,13 @@
   lib,
   deviceConfig,
   ...
-}: lib.mkIf device.config.nvidia {
+}: lib.mkIf deviceConfig.nvidia {
   environment.systemPackages = with pkgs; [
     cudaPackages.cuda_nvcc
   ];
   # extraModulePackages =
-  services.xserver.videoDrivers = lib.mkIf deviceConfig.nvidia ["nvidia"];
-  hardware.nvidia = lib.mkIf deviceConfig.nvidia {
+  services.xserver.videoDrivers = ["nvidia"];
+  hardware.nvidia = {
     modesetting.enable = true;
     nvidiaSettings = true;
     powerManagement.enable = true;

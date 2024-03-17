@@ -5,6 +5,7 @@
 }: {
   environment.systemPackages = with pkgs; [
     hyprland
+    gnome.gdm
     # sddm
     # where-is-my-sddm-theme
     # sddm-chili-theme

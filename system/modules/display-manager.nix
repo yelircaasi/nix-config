@@ -4,7 +4,7 @@
   ...
 }: {
   environment.systemPackages = with pkgs; [
-    hyprland
+    # hyprland
     # sddm
     # where-is-my-sddm-theme
     # sddm-chili-theme
@@ -51,7 +51,7 @@
   };
   # services.xserver.desktopManager.gnome.enable = false;
 
-  services.xserver.displayManager.defaultSession = "hyprland";
+  # services.xserver.displayManager.defaultSession = "hyprland";
   services.xserver.displayManager.hiddenUsers = ["landscape"];
   # services.xserver.displayManager.autoLogin.enable = true;
   # services.xserver.displayManager.autoLogin.user = "isaac";

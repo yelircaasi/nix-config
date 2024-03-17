@@ -10,6 +10,7 @@
     extraGroups = [
       "networkmanager"
       "wheel"
+      "uinput"
       (lib.mkIf deviceConfig.docker "docker")
     ];
     packages = with pkgs; [

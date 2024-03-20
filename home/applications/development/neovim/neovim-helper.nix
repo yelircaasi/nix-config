@@ -1,6 +1,7 @@
 {
   pkgs,
   lib,
+  neovimConfig,
   fullConfig,
   g,
   neovim-nightly,
@@ -12,20 +13,16 @@
   languages = import ./languages {inherit pkgs lib g;};
   getLangs = tmp: tmp;
   getFeats = tmp: tmp;
+  langs = getLangs neovimConfig;
+  feats = getFeats neovimConfig;
 
-  selectPackages = neovimConfig: let
-    langs = getLangs neovimConfig;
-    feats = getFeats neovimConfig;
-  in
+  selectPackages = neovimConfig:
     builtins.concatLists (
       (map (langName: languages.${langName}.packages) langs)
       ++ (map (featName: features.${featName}.packages) feats)
     );
 
-  createNeovimHMProgramSet = neovimConfig: let
-    langs = getLangs neovimConfig;
-    feats = getFeats neovimConfig;
-  in {
+  createNeovimHMProgramSet = neovimConfig: {
     enable = true;
     defaultEditor = true;
     withPython3 = true;
@@ -41,22 +38,45 @@
     );
   };
 
-  createNeovimLuaFiles = neovimConfig: features: languages: let
-    langs = getLangs neovimConfig;
-    feats = getFeats neovimConfig;
-  in
+  createNeovimLuaFiles = neovimConfig: features: languages:
+  #TODO: refactor
     (import ./config-base-files {inherit neovimConfig;})
     // (lib.attrsets.mapAttrs' (
-        _: origValue:
-        # every value or attrSets `languages` and `features` must have attributes `subpathString` ( -> key in xdg.configFile) and mkLuaConfig (function taking (optional) list of languages and returning Lua file)
-          lib.mkIf (builtins.typeOf origValue.subpathString)
-          == "string"
+        featName: origValue:
+          lib.mkIf (builtins.elem featName feats)
           {
-            name = origValue.subpathString;
+            name = "./nvim/lua/features/${featName}.lua"; # need to fix to create path automatically?
+            value = origValue.mkLuaConfig {};
+          }
+      )
+      features)
+    // (lib.attrsets.mapAttrs' (
+        langName: origValue:
+          lib.mkIf (builtins.elem langName langs)
+          {
+            name = "./nvim/lua/languages/${langName}.lua"; # need to fix to create path automatically?
             value = origValue.mkLuaConfig {inherit languages;};
           }
       )
-      (features // languages)); # no overlap between attrNames
+      languages)
+    // (lib.attrsets.mapAttrs' (
+        featName: origValue:
+          lib.mkIf ((builtins.elem featName feats) && (builtins.hasAttr "mkOptionalPackage" origValue))
+          {
+            name = "./nvim/pack/features/opt/${featName}"; # need to fix to create path automatically?
+            value = origValue.mkOptionalPackage {};
+          }
+      )
+      features)
+    // (lib.attrsets.mapAttrs' (
+        langName: origValue:
+          lib.mkIf ((builtins.elem langName feats) && (builtins.hasAttr "mkOptionalPackage" origValue))
+          {
+            name = "./nvim/pack/features/opt/${langName}"; # need to fix to create path automatically?
+            value = origValue.mkOptionalPackage {};
+          }
+      )
+      languages); # no overlap between attrNames
 in
   {
     pkgs,

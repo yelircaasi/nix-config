@@ -83,10 +83,15 @@ Having things organized this way means that it is easier to get a sense, at a gl
 Coming soon...
 
 ## Roadmap
-- [ ] get colors and keybindings working just enough to successfully run nrs and hm
+- [x] get colors and keybindings working just enough to successfully run nrs and hm
+- [ ] get nvim to build after refactoring
 - [ ] fix colors in gtk css files
-- [ ] get colors and keybindings working with proper formatting, libraries, and modularity (for apps already defined)
+- [ ] add colors to global matplotlib config
 - [ ] get wezterm fully set up with colors and keybindings
+- [ ] clean up all code in global-defs keybindings
+- [ ] clean up all code in global-defs colors
+- [ ] add lazy loading to nvim
+- [ ] get colors and keybindings working with proper formatting, libraries, and modularity (for apps already defined)
 - [ ] get vieb fully set up with colors and keybindings
 - [ ] get qutebrowser fully set up with colors and keybindings
 - [ ] get nyxt fully set up with colors and keybindings
@@ -112,6 +117,8 @@ Coming soon...
       - [ ] [wiki](https://nixos.wiki/wiki/Fonts)
       - [ ] [discourse](https://discourse.nixos.org/t/manually-install-icon-pack/9064)
       - [ ] figure out the deal with /run/current-system/sw/share/X11/fonts 
+
+
 - [ ] package and build cosmic-files to see if it is worth using
 - [ ] see how good I can get Thunar
       https://github.com/search?q=repo%3Axfce-mirror%2Fthunar%20css&type=code

@@ -38,10 +38,12 @@
     );
   };
 
+  base = import ./config-base-files {inherit neovimConfig;};
+
   createNeovimLuaFiles = neovimConfig: features: languages:
   #TODO: refactor
-    (import ./config-base-files {inherit neovimConfig;})
-    // (lib.attrsets.mapAttrs' (
+  # (import ./config-base-files {inherit neovimConfig;})
+    (lib.attrsets.mapAttrs' (
         featName: origValue:
           lib.mkIf (builtins.elem featName feats)
           {
@@ -76,7 +78,16 @@
             value = origValue.mkOptionalPackage {};
           }
       )
-      languages); # no overlap between attrNames
+      languages)
+    // (let
+      args = {inherit features languages;};
+    in {
+      "./nvim/init.lua".text = base.makeInitLuaFile args;
+      "./nvim/lua/commands.lua".text = base.makeCommandsLuaFile args;
+      "./nvim/lua/colors.lua".text = base.makeColorsLuaFile args; # add high and low contrast variants to opt folder
+      "./nvim/lua/opts.lua".text = base.makeOptsLuaFile args;
+      "./nvim/lua/mappings.lua".text = base.makeMappingsLuaFile args;
+    }); # no overlap between attrNames
 in
   {
     pkgs,

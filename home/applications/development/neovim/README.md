@@ -19,6 +19,9 @@ Roadmap
       https://github.com/BirdeeHub/nixCats-nvim/blob/main/nix/builder/vim-pack-dir.nix
       https://neovim.io/doc/user/repeat.html#packages
 
+      use xdg.dataDir to add plugins to ~/.local/share/nvim/site? nah ->
+      HOME/.config/nvim/pack/languages/opt/haskell/plugin/init.lua
+
       see also :help packages
 
         packpath=
@@ -28,6 +31,7 @@ Roadmap
         /etc/profiles/per-user/isaac/share/nvim/site/after
         /etc/xdg/nvim
         /etc/xdg/nvim/after
+        HOME/.config/nvim
         HOME/.local/share/nvim/site
         HOME/.local/share/nvim/site/after
         HOME/.local/state/nix/profile/etc/xdg/nvim

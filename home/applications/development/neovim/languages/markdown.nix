@@ -11,7 +11,13 @@ in {
 
   plugins =
     (with pkgs.vimPlugins; [
-      ])
+      mkdnflow-nvim
+      vim-markdown
+      markdown-preview-nvim # alt: peek-nvim
+      glow-nvim
+      nvim-FeMaco-lua
+    ])
     ++ (with custom; [
-      ]);
+      markdowny-nvim
+    ]);
 }

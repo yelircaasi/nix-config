@@ -11,7 +11,8 @@ in {
 
   plugins =
     (with pkgs.vimPlugins; [
-      ])
+      rustaceanvim
+    ])
     ++ (with custom; [
       ]);
 }

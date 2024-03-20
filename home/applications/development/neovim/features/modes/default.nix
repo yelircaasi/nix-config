@@ -1,0 +1,5 @@
+{pkgs, ...}: {
+  subpathString = "";
+  mkLuaConfig = {languages}: ''
+  '';
+}

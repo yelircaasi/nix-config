@@ -11,7 +11,8 @@ in {
 
   plugins =
     (with pkgs.vimPlugins; [
-      ])
+      nvim-jqx
+    ])
     ++ (with custom; [
       ]);
 }

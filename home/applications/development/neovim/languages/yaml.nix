@@ -7,6 +7,7 @@
   custom = import ../plugins/custom-plugins.nix {inherit pkgs;};
 in {
   packages = with pkgs; [
+    node.yaml-language-server
   ];
 
   plugins =

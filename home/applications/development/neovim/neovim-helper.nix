@@ -29,6 +29,21 @@
     withNodeJs = true;
     withRuby = false;
     package = neovim-nightly; #pkgs.neovim-unwrapped;
+    /*
+       ( ... .override {
+        configure = {
+          packages.myPlugins = with pkgs.vimPlugins; {
+          start = [
+            vim-go # already packaged plugin
+            easygrep # custom package
+          ];
+          opt = [];
+        };
+        # ...
+      };
+     }
+    )
+    */
     viAlias = true;
     vimAlias = true;
     vimdiffAlias = true;

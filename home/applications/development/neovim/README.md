@@ -12,17 +12,29 @@ neovim
 Roadmap
 
 - [ ] sort plugins into language and feature folders, including custom plugin packages
-- [ ] get building
+- [ ] get building - minimal viable refactor
+- [ ] move to import-list-based system instead of one tight and Procrustean function? maybe leave it for now and keep the option option to allow for more complexity and variation
+- [ ] read through nixCats source code
+- [ ] write down questions on nixCats source code
+- [ ] answer all questions on nixCats source code
+- [ ] try out nixCats by running it as a flake
 - [ ] implement lazy loading: "so, for lazy loading, the plugins can be in pack/*/opt/
       and then you vim.cmd([[packadd! plugindirname]]) 
       on an autocommand"
       https://github.com/BirdeeHub/nixCats-nvim/blob/main/nix/builder/vim-pack-dir.nix
       https://neovim.io/doc/user/repeat.html#packages
 
+      !!!!!! https://ryantm.github.io/nixpkgs/languages-frameworks/vim/
+      https://nixos.org/manual/nixpkgs/unstable/#managing-plugins-with-vim-packages
+      https://github.com/NixOS/nixpkgs/blob/master/pkgs/applications/editors/vim/plugins/vim-utils.nix#L173
+
       use xdg.dataDir to add plugins to ~/.local/share/nvim/site? nah ->
       HOME/.config/nvim/pack/languages/opt/haskell/plugin/init.lua
 
       see also :help packages
+
+      https://www.lazyvim.org/extras/lang/markdown
+      read through: https://www.lazyvim.org/extras
 
         packpath=
         /etc/profiles/per-user/isaac/etc/xdg/nvim

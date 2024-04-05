@@ -55,3 +55,11 @@
 - [yoctocell](https://hg.sr.ht/~yoctocell/guixrc/browse/yoctocell/home)
 - [yvesoundi](https://github.com/yveszoundi/guix-config)
 - [zzkt](https://github.com/zzkt/guix)
+
+
+
+guix [https://fishinthecalculator.me/blog/secrets-management-with-sops-guix.html](https://fishinthecalculator.me/blog/secrets-management-with-sops-guix.html)
+guix [https://github.com/abcdw/rde](https://github.com/abcdw/rde)
+guix [https://guix.gnu.org/manual/fr/html_node/index.html#Top](https://guix.gnu.org/manual/fr/html_node/index.html%23Top)
+guix [https://guix.gnu.org/manual/ru/html_node/index.html#Top](https://guix.gnu.org/manual/ru/html_node/index.html%23Top)
+guix [https://trop.in/rde/](https://trop.in/rde/)

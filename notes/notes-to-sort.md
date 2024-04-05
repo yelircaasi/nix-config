@@ -1,5 +1,9 @@
 # Sort2.md
 
+https://protesilaos.com/emacs/denote
+
+https://fasttext.cc/docs/en/aligned-vectors.html
+
 Btw I use obsidian for work only, in our shared work obsidian vault
 
 - We use a canva and have multiple notes spread out on this canva with dataview showing tasks fetched by the tasks plugin
@@ -211,4 +215,5 @@ Keeps me from getting distracted from my current task when new tasks arrive (ema
 ### **B4mbus*February 9, 2024 10:59 PM*February 9, 2024 10:59 PM**
 
 Ill ping you in about 7 because Im off to sleep soon, haha, I wont forget because my ADHD is curious of pings and I can just mark your message as unread so Ill see the ping :p
+
 

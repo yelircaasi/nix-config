@@ -86,3 +86,30 @@
 * ( ) [Etherpad](http://etherpad.org/) - Collaborative document editing in real-time. ([Apache License 2.0](https://github.com/ether/etherpad-lite/blob/develop/LICENSE))
 * ( ) [typst](https://typst.app/)
 
+
+webapp [Atlas: wikipedia-20231101-en](https://atlas.nomic.ai/map/475c26d7-b142-4795-9887-02b6eeb18dc0/0d312be6-a3bb-4586-b6b7-53dcd0cbefa5)
+webapp [Collaboration costs less with Coda, we price differently - Coda](https://coda.io/product/collaboration-costs-less-with-coda)
+webapp [For news junkies: The easiest ways to get through any article paywall (that I know of) : r/Piracy](ghttps://www.reddit.com/r/Piracy/comments/stws33/for_news_junkies_the_easiest_ways_to_get_through/)
+webapp [FrontPage](http://www.fitnesse.org/)
+webapp [Home — Bluesky](https://staging.bsky.app/)
+webapp [Raise and spend money with full transparency. - Open Collective](https://opencollective.com/)
+webapp [Startseite - rheinneckar.social](https://rheinneckar.social/home)
+webapp [Troubleshooters.Com](http://troubleshooters.com/troubleshooters.htm%23x10021)
+webapp [https://bibli-open.heidelberg.de/Mein-Konto](https://bibli-open.heidelberg.de/Mein-Konto)
+webapp [https://bibliotheken.komm.one/mannheim/de-de/Mein-Konto](https://bibliotheken.komm.one/mannheim/de-de/Mein-Konto)
+webapp [https://blueskyweb.xyz/](https://blueskyweb.xyz/)
+webapp [https://codestats.net/](https://codestats.net/)
+webapp [https://github.com/mathix420/free-the-web-apps](https://github.com/mathix420/free-the-web-apps)
+webapp [https://github.com/sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) 
+webapp [https://imgupscaler.com/](https://imgupscaler.com/)
+webapp [https://www.google.com/search?client=firefox-b-d&q=free+ai+upscale+image+resolution](https://www.google.com/search?client%3Dfirefox-b-d%26q%3Dfree%2Bai%2Bupscale%2Bimage%2Bresolution)
+webapp [https://www.upscale.media/](https://www.upscale.media/) →
+https://github.com/mathix420/free-the-web-apps
+
+dev website https://devhints.io/
+
+https://www.strangeloopcanon.com/
+
+https://directory.fsf.org/wiki/Main_Page
+
+https://www.tweag.io/blog/

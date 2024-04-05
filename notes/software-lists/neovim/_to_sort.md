@@ -135,3 +135,17 @@ Key:
 * ( ) [black](https://github.com/psf/black)
 * ( ) [open-browser.vim](https://github.com/tyru/open-browser.vim)
 
+## Sort
+https://github.com/simonhughxyz/NeovimConfig
+https://www.reddit.com/r/neovim/s/hltku8Jv35 vim-tmux-navigator with wezterm
+https://github.com/adelarsq/image_preview.nvim
+https://neovimcraft.com/plugin/3rd/image.nvim 
+https://github.com/edluffy/hologram.nvim
+https://github.com/chase/awrit
+IDEA: Write concealer for Lua, Julia code to show 〉or similar instead of end : ❯ ,  › , »
+https://github.com/nvimdev/dashboard-nvim/wiki/Ascii-Header-Text
+nvim https://github.com/julienvincent/nvim-paredit
+https://www.reddit.com/r/neovim/comments/1bsow29/browsing_the_internet_from_neovim/?rdt=62837
+https://github.com/altermo/nwm
+https://thevaluable.dev/vim-create-text-objects/
+

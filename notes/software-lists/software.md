@@ -1136,6 +1136,7 @@ https://jaspervdj.be/hakyll/ - Haskell static site generator
 
 *## To Sort
 
+https://github.com/wick3dr0se/grimcap
 * -> [hyprland recommendations](https://wiki.hyprland.org/Useful-Utilities/)
 * -> [wayland list *********](https://arewewaylandyet.com/)
 * -> [Browser Ricing](https://www.notion.so/Browser-Ricing-55d69da80b4543f5979926bd7906f9df?pvs=21)

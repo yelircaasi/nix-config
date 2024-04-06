@@ -1,5 +1,14 @@
 # WMs, Compositors, Bars, Menus, Launchers, Notifications, Widgets, Lockscreen, etc.
 
+- Ideal Setup:
+    1. Minimal use of mouse
+    2. Unified, consistent, ergonomic keybindings
+    3. Multiple layouts and configurations for different tasks
+    4. Configurations well-documented and backed up, easy to reproduce with a few commands
+    5. Aesthetically pleasing - unified color scheme (and ability to switch between themes)
+    6. Privacy and security
+    7. Maximized efficiency and productivity: work at the speed of thought, minimizing clutter & drag
+    8. Reliable, solid system - no breakage
 ---
 
 # Desktop Meta - WMs, Compositors, Bars, Notifications, Launchers, etc.
@@ -313,7 +322,7 @@ Wayland recommended stack:
 - https://opensource.com/article/18/8/getting-started-i3-window-manager 
 - https://awesomewm.org/ 
 - https://www.reddit.com/r/unixporn/comments/130h37f/bspwm_how_is_it/ 
-* ( ) [ ]  [xmonad](https://xmonad.org/documentation.html) → [remove dock](https://www.notion.so/Config-d0658f0bfd30465c8d87406aa2b63490?pvs=21) and remove bar, also remove [window bars](https://stackoverflow.com/questions/71204126/how-to-remove-the-title-bar-of-gnome-applications)?
+* ( ) [ ]  [xmonad](https://xmonad.org/documentation.html) → remove dock and remove bar, also remove [window bars](https://stackoverflow.com/questions/71204126/how-to-remove-the-title-bar-of-gnome-applications)?
 * ( ) [→ install](https://xmonad.org/INSTALL.html)
 * ( ) [guide](https://beginners-guide-to-xmonad.readthedocs.io/index.html)
 * ( ) [dwm-flexipatch](https://github.com/bakkeby/dwm-flexipatch)

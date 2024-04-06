@@ -3534,7 +3534,646 @@ Groteske Aufklärung
 
 - G.C
     
-    [G.C Notes](https://www.notion.so/G-C-Notes-ad023ad3b3f945f798aec3b1d0909bfb?pvs=21)
+    G.C Notes
+        ¿Por qué las políticas de Dania no funcionarían aqui? ¿Cuales son las diferencias fundamentales entre Dania y EEUU?
+
+        ---
+
+        ¿Cual es el fundamento filosófico del debate sobre la libertad y la no discriminación?
+
+        ---
+
+        ¿Por qué algunos paises son corruptos, mientras otros no lo son?
+
+        ---
+
+        ---
+
+        Guys, before we all start politicizing a tragedy to advance an agenda, let’s remember that this is just the price of freedom. Maybe it’s true that it doesn’t happen as often in other places, but I think that’s what people mean when they talk about American Exceptionalism. There’s absolutely nothing we can do about any of this except ban gay marriage, and if other countries don’t have as many mass shootings, it’s just because their men are too feminized. Of course, it’s probably fake news anyway. But to signal my own virtue, I want to let you know that I am sending lots of thoughts and prayers to all affected, and I’m even writing a letter to Santa so he can do something about it, too.
+
+        ---
+
+        I love comedy, so of course I love listening to all the outrage about meddling in our elections. The hypocrisy is perfect, but the irony gets even better when we ignore the only effective defense against foreign influence in our elections - education. Should it be any surprise that a nation raised on a steady diet of propaganda and knee-jerk nationalism falls for somebody else’s propaganda? The problem with uneducated democracies (even make-believe democracies) is that the same cultivated ignorance that makes the masses easy to control makes them susceptible to deception by anyone. Past a critical mass of ignorance, it only gets worse. And as a rule, we only learn the hard way.
+
+        ---
+
+        теорія суспільного вибора
+
+        ---
+
+        Here’s the thing. If you vote for the lesser of two evils, you still vote for an evil. I’m not interested in voting for evils, and I don’t, plain and simple. If the electoral system serves up a choice between two terrible candidates, the system is broken, possibly beyond repair. I still think electoral reform is one of the most important issues facing our country. The way to snap out of a negative-sum equilibrium is not to buy into it and keep playing the same game that got you into it.
+
+        ---
+
+        Is it legitimate (or an ad hominem attack) to trace donations to public figures?
+
+        ---
+
+        ---
+
+        A basic principle of modern state capitalism is that cost and risk are socialized while profit is privatized. - Noam Chomsky
+
+        ---
+
+        ---
+
+        La técnica del poder del régimen neoliberal adopta una forma sutíl. No se apodera directamente del individuo. Por el contrario, se ocupa de que el individuo actúe de tal modo que reproduzca por sí mismo el entramo de dominación que es interpretado por él como libertad. - Byung-Chul Han
+
+        ---
+
+        ---
+
+        Conservatism consists of exactly one proposition, to wit: There must be in-groups whom the law protects but does not bind, alongside out-groups whom the law binds but does not protect. There is nothing more to it, and there never has been, in any place or time.
+
+        ---
+
+        Reclam
+
+        ---
+
+        Die blinden Flecken des liberalen Politikverständnisses aus marxistischer Sicht:
+
+        ---
+
+        1) Die Bedingtheit der Politik: Politik stellt keine autonome Sphäre dar, sondern wird als Teil des Überbaus durch die ökonomische Basis bestimmt.
+
+        ---
+
+        2) Eine lediglich formale Vorstellung von Freiheit und Gleichheit: Politik ist Legitimation und Reproduktion der (unfreien und ungleichen) bestehenden Ordnung.
+
+        ---
+
+        3) Ausbeutung: Die rechtliche Verfasstheit der Gesellschaft lässt die unfaire Ausnutzung sozialer Abhängigkeitsverhältnisse zu.
+
+        ---
+
+        4) Entfremdung: Die vom Liberalismus propagierten gesellschaftlichen (Rechts-)Verhältnisse machen eine sinnhafte Identifikation der Menschen unm:oglich und erzeugen ein Gefühl des Machtverlusts.
+
+        ---
+
+        5) Der Liberalismus verkennt die Bedeutung notwending falschen Bewusstseins als Strukturmerkmal kapitalistischer Gesellschaften und Hindernis eines radikalen Wandels.
+
+        ---
+
+        Die Frage der Gerechtigkeit: Zu beobachten sind eine einseitige Konzentration auf Verteilungsfragen und die unhinterfragte Voraussetzung der Umstände der Gerechtigkeit.
+
+        ---
+
+        Die Schwachstellen des Liberalismus aus kommunitaristischer Sicht:
+
+        ---
+
+        1) Atomismus
+
+        ---
+
+        2) Individualistische Methodik
+
+        ---
+
+        3) Paradigma der liberalen >Neutralität<
+
+        ---
+
+        4) Unterscheidung zwischen Ethik und Moral
+
+        ---
+
+        5) Verkennung der Gefahr, die vom mangelnden Zusammenhalt in der modernen Gesellschaft ausgeht
+
+        ---
+
+        Blinde Flecken des liberalen Politikverständnisses aus feministischer Perspektive
+
+        ---
+
+        1) >>Geschlechtsneutrale<< anlyse der Gleichheit
+
+        ---
+
+        2) Unkrtische Unterscheidung von Öffentlichem und Privatem
+
+        ---
+
+        3) Fragwürdiges Legitimitätskriterium der >>freiwilligen Zustimmung<<
+
+        ---
+
+        4) Dominanz der Normen der Zweigeschlechtlichkeit und Heterosexualität
+
+        ---
+
+        Blinde Flecken des Liberalismus aus poststrukturalistischer Perspektive
+
+        ---
+
+        1) Kritik des Rationalismus: gegen die Annahme der Machtfreiheit des vernüftigen Argumentierens
+
+        ---
+
+        2) Kritik des Individualismus: gegen die Annahme eines autonomen und vernünftigen Subjekts
+
+        ---
+
+        3) Kritik des Normativismus: gegen die Annahme der MAchtfreiheit universalistischer Normen und vernünftiger Rechtfertigungen
+
+        ---
+
+        **Gedanken / Notizen**
+
+        ---
+
+        [Corey Robin on the Left and state power](https://twitter.com/CoreyRobin/status/1259162092835348480?s=20)
+
+        ---
+
+        [Is a society organized around the price signal consistent with freedom?](https://t.co/RZDfoys0DW?amp=1)
+
+        ---
+
+        [I assume Corey has read this, since he reads everything, but for everybody else, Daniel Luban has a fantastic and relevant piece on Hayak and 'spontaneous order' theory here:](https://t.co/7xewXvIHhD?amp=1)
+
+        ---
+
+        Reading @zachdcarter's bio of Keynes, The Price of Peace, a second time (in between I read much of the Skidelsky) is even better than the first. It's just come out, and I highly recommend it. Thoroughly enjoyable.
+
+        ---
+
+        [Police ride-along](https://twitter.com/ess_trainor/status/1269748616895348738?s=20)
+
+        ---
+
+        [This from @KeeangaYamahtta expertly moves us from the Rodney King riots to today and to a politics beyond, showing how virtually all of the leadership, across the two parties, is complicit in our moment. Highly recommend.](https://www.newyorker.com/news/our-columnists/how-do-we-change-america)
+
+        ---
+
+        White academics need to go read #Blackintheivory on Twitter. You need to do it now. It may be cause some uncomfortable self reflection (but it won't be nearly as painful as actually experiencing all these stories) for you but it is important that you do it.
+
+        ---
+
+        [This is how I, a 45-year-old white woman and mother of 6, currently at her peak Karen power, went from assuming police work was a necessary part of functional communities, to becoming a passionate advocate for #abolishthepolice #defundthepolice, over the course of one week.](https://twitter.com/designmom/status/1270038204754919424?s=20)
+
+        ---
+
+        As a former professional athlete and cisgender woman who competed against trans athletes at the highest levels of my sport, let me make this clear: you have zero right to be asking this question.
+
+        ---
+
+        Capitalism is actually good and fine because after any horrific human rights abuses are unpopular the market corrects itself by implementing the least amount of reform necessary to placate the desperate and ignorant
+
+        ---
+
+        [One underestimated driver of Americanization is that Americans have found the most comfortable way of living with their own posthistoricity. Discuss.](https://twitter.com/AntonJaegermm/status/1270381165556482048?s=20)
+
+        ---
+
+        I have more in common with people who share none of my policy objectives but who share my prepolitical commitments than I do with those who share my policy objectives but don't care how we achieve them.
+
+        Decency matters.
+
+        ---
+
+        White people: "don't judge the past by our contemporary standards." WHOSE past & contemporary standards? pretty sure Black, Indigenous people, & others brutalized by white violence didn't think it was ethical or cool in 1619, 1862, 1890, 1955... what took white people so long?
+
+        ---
+
+        On a superficial level, the civil war was about slavery. When you learn more, you see that there were many economic, political, and cultural factors that contributed to it. When you dig even deeper, you see that all those things were actually still just slavery.
+
+        ---
+
+        [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547)
+
+        ---
+
+        [Everything Could Be Free](https://nplusonemag.com/online-only/online-only/everything-could-be-free/)
+
+        ---
+
+        [Wer befiehlt, bezahlt nicht: Der Philosoph Peter Sloterdijk über die Demokratie heute und morgen](https://www.nzz.ch/feuilleton/peter-sloterdijk-ueber-gegenwart-und-zukunft-der-demokratie-ld.1511466)
+
+        ---
+
+        [Alexander Zevin and Tariq Ali: Liberalism at Large](https://player.fm/series/london-review-bookshop-podcast/alexander-zevin-and-tariq-ali-liberalism-at-large)
+
+        ---
+
+        https://www.patreon.com/posts/reichstag-fire-37837568
+
+        ---
+
+        [How Do We Change America?](https://www.newyorker.com/news/our-columnists/how-do-we-change-america)
+
+        ---
+
+        [Freedom Now - Gourevitch & Robin](https://www.journals.uchicago.edu/doi/10.1086/708919)
+
+        ---
+
+        [8 Myths and Atrocities About Christopher Columbus and Columbus Day](https://indiancountrytoday.com/archive/8-myths-and-atrocities-about-christopher-columbus-and-columbus-day-D4RHJ-PJLkaQC_BQVRNUBg)
+
+        ---
+
+        I know “Defund the Police” seems radical and scary but “Dissolve Police Departments Then Rebuild Them as One Small Facet in a Network of Specialized Services So Police Aren’t Called To Handle Problems They’re Woefully Ill-equipped to Solve” isn’t as easy to chant.
+
+        ---
+
+        If the police did their jobs, everyone woud trust them. Ain’t no song called Fuck The Fire Department.
+
+        ---
+
+        [Audacious recommendation: Rename a base Longstreet ... one of the best, perhaps the best, Confederate generals who renounced racist politics and worked for reconstruction. Note: there are no Longstreet statues because of his renunciation of confederate ideals.](https://twitter.com/MikePelletti/status/1271131506875027459?s=20)
+
+        ---
+
+        [“I don’t want positive discrimination, because positive discrimination is like giving me crutches after breaking my legs. Don’t break my legs. Dismantle institutional racism.”](https://twitter.com/mehdirhasan/status/1271837207565869058?s=20)
+
+        ---
+
+        All this hand-wringing about #CHAZ, and yet the rich in Seattle already have AZs: Broadmoor, Highlands, Blue Ridge, etc. They just don't give away food and let everyone in to theirs.
+
+        ---
+
+        [The End of Black Politics. Black leaders regularly fail to rise to the challenges that confront young people.](https://www.nytimes.com/2020/06/13/opinion/sunday/black-politicians-george-floyd-protests.html?smid=tw-share)
+
+        ---
+
+        [Confessions of a Former Bastard Cop](https://medium.com/@OfcrACab/confessions-of-a-former-bastard-cop-bb14d17bc759)
+
+        ---
+
+        [Fuck your gender norms: how Western colonisation brought unwanted binaries to Igbo culture](https://gal-dem.com/colonialism-nigeria-gender-norms-lgbtq-igbo/)
+
+        ---
+
+        https://gal-dem.com/
+
+        ---
+
+        [Flash Webinars on Policing Research](http://jenniferdoleac.com/flash-webinars-on-policing-research/)
+
+        ---
+
+        [@anastasiawils has this excellent piece explaining why we should step back to question approaches that fail to see the forest for the trees. It is a detailed critique of why marginalism may not be objective in the face of systemic issues like policing.](https://developingeconomics.org/2020/06/15/abolition-will-not-be-randomized/)
+
+        ---
+
+        Imagine looking at everything going on in our country and thinking "Yep this is preferable to a monarchy." The fact is that in a democracy, each man is a king and can wield political power over you. How does one gain independence from a mob? Short answer: you can't.
+
+        ---
+
+        [In 1865, Black people all over the South were saying this Union officials: Do not abolish slavery and leave us landless and disenfranchised. Do not force us to work for our former masters and call that freedom. Do not allow the law replace the master. 1/3](https://twitter.com/DrIbram/status/1274009353482313734?s=20)
+
+        ---
+
+        [Cop garbage man idea](https://twitter.com/Seinfeld2000/status/1269659341692350465?s=20)
+
+        ---
+
+        [Here are the books that were recommend to me by my father, John H. Bracey, for white people interested in fighting racism. 1. Carol Anderson, White Rage: the Unspoken Truth of our Racial Divide, 2017](https://twitter.com/MagisterBracey/status/1277049569319280646?s=20)
+
+        ---
+
+        [I've been disappointed that so much of the current conversation about whiteness has totally ignored the foundational work on the subject.](https://twitter.com/JBooth_history/status/1277416990840434688?s=20)
+
+        ---
+
+        [Yes, I read the Bret Stephens piece. Ho hum. Yes, the intolerant left is a threat. Stipulated.](https://twitter.com/RadioFreeTom/status/1279536145903345665?s=20)
+
+        ---
+
+        Every so often people complain that I post political things in PL circles. The thing is, I've noticed that the definition of what is "political" is itself a political decision.
+
+        ---
+
+        [OK. Time for a thread on masks. Anti-maskers (who should be as reviled as anti-vaxxers) keep citing research studies showing masks aren't that effective at protecting wearers from becoming infected. You need to know why the anti-maskers are wrong. It's a basic mistake](https://twitter.com/AkivaMCohen/status/1283756648092360704?s=20)
+
+        ---
+
+        Economics is 50% class war, 40% math, and the balance out-of-date psychology, sociology and anthropology.
+
+        My condolences for having to fight that battle from the inside.
+
+        ---
+
+        The field of economics is to capitalism as clergy is to feudalism.
+
+        ---
+
+        Why does BLM have to answer for looters but the NRA never has to answer for mass shootings? :: I have noticed this as well. My current working theory is that it all comes back to empathy.
+
+        ---
+
+        [Capitalism vs Racism: The Truth About The BLM Protests & Defunding The Police.](https://www.youtube.com/watch?v=3u2SClvGKYM&feature=youtu.be)
+
+        ---
+
+        [Intelligence: a history](https://aeon.co/essays/on-the-dark-history-of-intelligence-as-domination)
+
+        ---
+
+        [The Neoliberal Looting of America](https://www.nytimes.com/2020/07/02/opinion/private-equity-inequality.html)
+
+        ---
+
+        [In a historic break with decades of policy, the Federal Reserve announced Thursday that it will no longer deliberately keep millions of Americans unemployed at all times.](https://nymag.com/intelligencer/2020/08/jerome-powell-speech-federal-reserve-inflation.html?utm_campaign=di&utm_medium=s1&utm_source=tw)
+
+        ---
+
+        > One of the most anti-black social policies in the US, FYI. Structural unemployment maintained an underclass of ‘surplus populations’, on top of inequities in quality of & access to education in Black communities that faced cycles of dispossession & displacement.
+
+        ---
+
+        > This is what structural racism looks like. And mainstream econ has nothing to say about any these issues. Instead we are still trying to test whether discrimination actually exists.
+
+        ---
+
+        [As terrible as R*wl*ng has been (and yeah ok read other books)...she did really nail the portrayals of higher ed, a thread:](https://twitter.com/crystaljjlee/status/1304653160573591552?s=20)
+
+        ---
+
+        If you know people with kids, and you want a good insight into their *actual* politics, have a conversation with them about "the good schools" and "the bad schools" in their area.
+
+        ---
+
+        [H.R. McMaster Tries to Wish Away His Old Boss Donald Trump](https://www.thedailybeast.com/hr-mcmaster-tries-to-wish-away-his-old-boss-donald-trump?ref=home)
+
+        ---
+
+        [(2008, Мишель А.) Идея государства.pdf](https://vk.com/doc5787984_425281493?hash=15e6057b46eebb58e2&dl=b9a865e8962ce6af0f)
+
+        ---
+
+        https://en.wikipedia.org/wiki/Gun_Nation
+
+        ---
+
+        https://evonomics.com/why-free-market-ideology-is-a-double-lie/
+
+        ---
+
+        [Kooperatyzm – ideologia organizującej się gospodarczo demokracji. Historia i aktualność — Biennale Warszawa](https://biennalewarszawa.pl/kooperatyzm-ideologia-organizujacej-sie/)
+
+        ---
+
+        [2008_Erokhov_I_A__Sovremennye_politicheskie_teorii Krizis_normativnosti.](https://vk.com/doc30601958_483029503?hash=e2fb66865d44b28ce9&dl=bebd6f750bd0b22b0e)
+
+        ---
+
+        [2011_Duglas_Nort_i_dr__Nasilie_i_sotsialnye_poryadki](https://vk.com/doc30601958_459205856?hash=28744ec312a4de8da1&dl=27178952ba26523ff4)
+
+        ---
+
+        [2014_Allen_R_S__Britanskaya_promyshlennaya_revolyutsia_v_globalnoy_kartine_mira](https://vk.com/doc30601958_486367513?hash=3bebeb0df915f2ec23&dl=ec76beef998e723670)
+
+        ---
+
+        [2014_Maykl_Mann_Vlast_v_XXI_stoletii_Besedy_s_Dzhonom_A_Khollom.pdf](https://vk.com/doc30601958_439698056?hash=40b217b1b0397e1490&dl=53a9826dfa70008008)
+
+        ---
+
+        [Anarchism in GB (RU)](https://vk.com/wall-169634550_3534)
+
+        ---
+
+        [How Russia Is Not Ruled Reflections on Russian Political Development.pd](https://vk.com/doc348852382_467999658?hash=37e8efd6e717137e08&dl=31fcc3c570609e5e09)
+
+        ---
+
+        [The Palestine-Israel Conflict A Basic Introduction.epub](https://vk.com/doc348852382_467999669?hash=14ee53ff372efbeae7&dl=18a3548b5518ae9c91)
+
+        ---
+
+        **[Федор Мухин: Про либертарианство](https://vk.com/podcast-172694106_456239191)**
+
+        ---
+
+        [Хайек Ф. Судьбы либерализма в XX веке.pdf](https://vk.com/doc129658462_485863736?hash=f118a9139f9fa165ed&dl=c3c26d1c2ce4154db6)
+
+        ---
+
+        [Digital Rebellion The Birth of the Cyber Left.pdf](https://vk.com/doc348852382_475067994?hash=95b78e3b2970d66efe&dl=34bbf8a41dee53e206)
+
+        ---
+
+        [Shebarshin_L_-_Ruka_Moskvy_Razvedka_ot_rastsveta_do_razvala](https://vk.com/doc30601958_563082658?hash=0a16e83f00400f5e13&dl=efb53987ff5202340d)
+
+        ---
+
+        [Sport, Nationalism, and Globalization](https://vk.com/doc348852382_475067991?hash=5eaea753de00cb40ed&dl=75e157b8f3bea04c57)
+
+        ---
+
+        **[Даниил Григорьев: Ошибка либералов](https://vk.com/podcast-172694106_456239190)**
+
+        ---
+
+        **[История Левого движения в Германии. Часть 1](https://vk.com/podcast-172694106_456239193)**
+
+        ---
+
+        [Кеннеди П. - Взлеты и падения великих держав. 2018. pdf](https://vk.com/doc35528094_481660376?hash=4e0de53e33b5cec10f&dl=fc5f8b440366f61405)
+
+        ---
+
+        [КНИГИ ПО ИСТОРИИ ГОСУДАРСТВА И ПРАВА](https://vk.com/wall-56611080_120928)
+
+        ---
+
+        b-ok search: "Hayek collaborative"
+
+        ---
+
+        https://rangevoting.org/
+
+        ---
+
+        https://www.currentaffairs.org/
+
+        ---
+
+        [Why You Should Be a Socialist - Online E-Book Reader](https://libro.eb20.net/Reader/rdr.aspx?b=209625114)
+
+        ---
+
+        Grapes of Wrath, chapter 5 - excellent political writing
+
+        ---
+
+        Gandhi's 7 social sins:
+
+        2) Pleasure without conscience
+
+        4) Commerce without morality
+
+        6) Worship without sacrifice
+
+        8) Rights without responsibilities (added by grandsom Arun)
+
+        ---
+
+        On Faith: Trumpism is a cult
+
+        ---
+
+        Jul 25, 2020
+
+        ---
+
+        We all know the old saying, “Those who do not know the past are condemned to repeat it.” The fact this saying is so well-known doesn’t mean it’s trite or false. It isn’t. It’s too, too true. Trumpism is a cult and not knowing the history of cults makes one, or one’s society, condemned to be victimized by a cult and a cult leader.
+
+        ---
+
+        Our English word cult comes from the Latin “cultus,” which meant the care and devotion of the gods. For the Greeks and Romans, it was always the gods, plural. One of earliest cults common among the Greeks and Romans was the “hero cult,” the worship of a human who was the product of a god mating with a human woman — Heracles was the son of Zeus and Alcmene, for example. A cult hero might also be a mortal who had received special favor from the gods and was, in effect, brought into their family. There were also cults dedicated to specific nature gods, each having his or her own shrine and special location. The city of Rome had hundreds of such shrines/temples, each one having its specific group of devout followers and temple keepers. The same was true across the whole empire. It was chaos.
+
+        ---
+
+        The early Christian “catholic” church, during its first several centuries, had to figure out how to somehow accommodate this age-old habit of cults for gods and heroes. “Catholic” was originally just the Greek word for “universal” and it was used by the Roman government and Roman law; it referred to the church under the bishop of Rome as “Catholic,” meaning “Universal” throughout the empire. This was seen as a way to unify the hugely varying religious beliefs and rituals of so many widely different peoples living under Roman law.
+
+        ---
+
+        But these old cults were very, very powerful phenomena and they did, indeed, contribute to inter-group distrust and violence. The human tendency to become a member of a cult is truly ancient, one could even say primordial. The early Church of Rome (and Constantinople) came up with a solution of genius: the acceptance and encouragement of the “Cult of the Saints.”
+
+        ---
+
+        Saints were defined (and still are defined) in Catholic teaching as humans whose lives were highly exemplary and heroic, and in death, they occupy and position closer to God than humans in general. And similar to the ancient pagan gods and heroes, the saints could then (and can now) intercede and provide special assistance to those who venerate them. Saint Mary, the mother of Jesus, is certainly the best-known saint and the very first one.
+
+        ---
+
+        You might justifiably ask, “How much of this old stuff has anything to do with Donald Trump and Trumpism in America?” And I have to answer, “A lot, a heck of a lot.” As almost everyone knows, the Cult of the Saints is something that has always been flatly and violently condemned in Protestantism all the way back to Luther and Calvin. OK, they had their reasons, I get it. But this means that the difference between types of honor and devotion has also been lost — leaving one and one’s society wide open for an attack of cultism on an exposed flank. In our case, it’s on the right flank.
+
+        ---
+
+        The distinction that has been lost is God alone is to be worshiped while the saints and heroes are only to be revered, given reverence. Built into this distinction is an awareness that we must take great care regarding to whom and how we give our devotion and unwavering support. The problem with cults and cultism is, and has always been, absolute worship is given to objects of worship that are somewhat or highly unworthy.
+
+        ---
+
+        We hear over and over again from the religious right that Trump has “been chosen by God” to lead this country. The fact such a statement is almost exactly the same as affirming “the divine right of kings” doesn’t bother Trump supporters. It is worth remembering the idea was, long ago, that a king is put there by God himself in the divinely ordained system to rule over men (out-of-date gender gaffes intended). Any and all cult leaders of today make use of this socio-psychological-religious construct — even leaders of purely secular and/or atheist and/or fascist, totalitarian groups.
+
+        ---
+
+        For all of these reasons, this word “cult” now has a largely negative connotation — and for good reason. Cults are indeed very dangerous things. This past December, one of the world’s foremost authorities on cults, Steven Hassan, published a book titled “The Cult of Trump” with the subtitle “A Leading Cult Expert Explains how the President uses Mind Control.” It is a disturbing but important book.
+
+        ---
+
+        The problem of cults has been around a long, long time. In a very real sense, Christianity itself was founded and spread in order to overcome the power of cults. It was no mere accident that one of the newest and most widespread cults in the time of Jesus was the Emperor Cult, whereby each Roman emperor was proclaimed a “divi filius,” “son of god,” on a divine mission to rule; sacrifices to his divine spirit were mandatory in temples throughout the entire empire. Many early Christians got in big trouble for refusing to do it. It was no mere coincidence that Jesus was called Son of God: He was, via instruction by example, the polar opposite in every way to the “sons of god” who were absolute rulers of the violent Roman state.
+
+        ---
+
+        It’s not easy to deprogram the minds of cult members. We’ve known this for a long time now. Looking back in history, we can see clearly that it took Christianity hundreds of years to deprogram the minds of the peoples of the Roman empire. We cannot allow the minds and government of Americans to revert back to a form of politics that is 2,000 years out-of-date.
+
+        ---
+
+        Religion and politics don’t mix well together. The genius of the American Constitution was, in no small degree, the recognition of this crucial fact. This is not to say religion is unimportant. Quite the opposite. It is to say that religion is so powerful, we have to find a way to keep it out of elections and separate from the state.
+
+        ---
+
+        “Everything old is new again,” as the greatest political satirist in the English language, Jonathan Swift, said in his apropos essay “Political Lying” (printed in 1710). As Hassan has shown in excruciating detail, the core supporters of Trump have become members of a cult, in the clinical psychological-religious sense of the term. The Democratic Party and the American people have to realize this is a big part of what we are up against.
+
+        ---
+
+        The cult of Trumpism must be stopped. This is no ordinary election.
+
+        ---
+
+        John Nassivera is a former professor who retains affiliation with Columbia University’s Society of Fellows in the Humanities. He lives in Vermont and part time in Mexico.
+
+        ---
+
+        institutions of justice:
+
+        ---
+
+        - clear title to land
+
+        ---
+
+        - access to and justice in the courts
+
+        ---
+
+        - freedom of association
+
+        ---
+
+        - freedom for exchange
+
+        ---
+
+        - moral ecology
+
+        ---
+
+        State's role in development:
+
+        ---
+
+        - focus on outcomes
+
+        ---
+
+        - focus on means: no crowding out civil institutions
+
+        ---
+
+        - curtail perverse incentives
+
+        ---
+
+        law: things that can't continue, don't
+
+        ---
+
+        Feminist rhetoric buys into the idea that traditionally male endeavors are more valuable, and devalues other contributions to society that are traditionally female. --> societal measures of value
+
+        ---
+
+        Сколько влияния может оказать один обычный человек в демократии? Как функтионирует идеальная демократия в этом отношении?
+
+        ---
+
+        richtige Rolle der Regierung
+
+        ---
+
+        Что средний человек должен делать?
+
+        ---
+
+        Как управляется большое общество, в котором все почти равно образованы?
+
+        ---
+
+        - -> политическая теория
+
+        ---
+
+        In Defense of Marriage
+
+        ---
+
+        Die Nervöse Republik
+
+        ---
+
+        Was die Welt bewegt (Spiegel 2016):
+
+        ---
+
+        How to get money out of politics?
+
+        ---
+
+        What does it mean for the gov to "have no place" doing something?
+
+        ---
+
+        - empower parents of poorer children to educate their children
+
+        ---
+
+        - empower civil institutions, not compete with them
+
+        ---
     
     - Reading List
         
@@ -12250,7 +12889,1052 @@ Groteske Aufklärung
     
 - G.D
     
-    [G.D Notes](https://www.notion.so/G-D-Notes-97dbda71e40d43258aaa4521fa3647e1?pvs=21)
+    G.D Notes
+        5 components of a functioning market:
+
+        ---
+
+        Information flow
+
+        ---
+
+        Property rights
+
+        ---
+
+        Trust (enforcement of contracts)
+
+        ---
+
+        Externalities curtailed
+
+        ---
+
+        Competition
+
+        ---
+
+        What is economic justice? What are the most important theories of economic justice?
+
+        **G.D - thoughts**
+
+        ---
+
+        What are the other factors influencing the culture of health? How many of them are considered “standard” economic objects of study?
+
+        ---
+
+        What are the economic benefits of trains?
+
+        ---
+
+        Are all goods Giffen goods as p-->0?
+
+        ---
+
+        Assuming that certain traits are generally considered to be the most attractive, what are the externalities of being good-looking?
+
+        ---
+
+        To what extent are people penalized for good looks? What does this imply about their actua amount relative to the socially optimal amount?
+
+        ---
+
+        Correlation between hours worked and income?
+
+        ---
+
+        What is the economic impact of big events like the World Cup on a region?
+
+        ---
+
+        What explains the differences in price at different locations?
+
+        ---
+
+        Price discrimination for different values of college majors
+
+        ---
+
+        What is the most efficient way to reduce simulation in football?
+
+        ---
+
+        - bonus for honest play
+
+        ---
+
+        - post-game tape analysis with fines
+
+        ---
+
+        - referee training?
+
+        ---
+
+        - instant replay review
+
+        ---
+
+        **How effective is it, in curtailing one’s present-bias, to think of oneself as living in the future?**
+
+        ---
+
+        **What kinds of commitment devices work and which do not?**
+
+        ---
+
+        **How universal is the emotionl cyclical phenomenon in life?**
+
+        ---
+
+        **What does self-perception have to do with economic theory?**
+
+        ---
+
+        **Given that people care so much about relative status, why is it that they generally do not move from richer, more-educated to poorer, less-educated countries?**
+
+        ---
+
+        It will be important to control for one’s level of overall accomplishment; equal ineptitude in a large number of areas should not equate to a uniformly high level of ability over a large number of areas.
+
+        ---
+
+        Applications and relevance:
+
+        ---
+
+        - One’s chosen degree of versatility, or the variety and level of one’s accomplishments, is a personal decision all must make. To the extent that parents exert influence and education is publically funded and regulated, it is also an important social decision. Because it necessarily involves tradeoffs and because it can have far-reaching effects, this is a decision that should be reached with maximum information. There are inherent value judgments involved, but given a fixed set of subjective values, one can use quantified research to inform the decision by determining which methods will be effective in achieving one’s desired ends.
+
+        ---
+
+        Other Notes:
+
+        ---
+
+        - This idea has potential to be applied to organizations and groups of people, rather than on an individual level, as well. That will be another promising area for future research.
+
+        ---
+
+        Risk-aversion and the afterlife:
+
+        ---
+
+        One of the most interesting ideas I have thought about is how risk-aversion relates to religion, and in particular to the afterlife. One way that sacrifice can be defined is as giving up something in the present trusting in greater rewards to come. In that sense, it may be possible to measure the degree of one’s certainty in the reality of the afterlife and in one’s future reward. (The two would be difficult to decompose).
+
+        ---
+
+        If it is true that greater faith leads one to sacrifice relatively more, or at least to a willingness to sacrifice relatively more, it may be feasible to construct an index of faith. This would take into account the value of one’s possessions and resources and the relative value of the portion with which one would be willing to part.
+
+        ---
+
+        It would be instruct to learn, given that the implicit assumptions of this model are accurate, how much weight different types of people give to the consideration of an afterlife in their current life decisions. In addition to contributing to (or perhaps giving rise to) the field of religio-economics, this would make a significant contribution to the field of the psychology of religion.
+
+        ---
+
+        The risk of sacrifice on a subjective individual level could be measured as (1-faith), if it were measured on a scale from 0 to 1. Thus, those who have what might be called “perfect faith” or even “perfect knowledge” would see no risk in sacrifice. Those who have no faith, that is, who do not consider the reality of an afterlife to be even a remote possibility, are naturally absolutely averse to the risk of sacrifice.
+
+        ---
+
+        An interesting complication is an individual’s concept of the character of God. The above model implies a loving God, i.e. one who rewards sacrifice. However, I hypothesize that belief in a detached, indifferent, or malicious God is significantly less correlated with a willingness to sacrifice for his sake.
+
+        ---
+
+        4 ways to spend money: own money/ somebody else's money on oneself / someone else
+
+        ---
+
+        Hayek - meaning of value
+
+        ---
+
+        - -> experts on welfare policy
+
+        ---
+
+        Joshua Slokeham: metaphor for entrepreneur
+
+        ---
+
+        When is enough enough?
+
+        ---
+
+        private property plays a role in human happiness through its role in deep interpersonal relationships
+
+        ---
+
+        conservtative approach: make clear moral and economic arguments that cut through sentimentality
+
+        ---
+
+        Wirtschaft der akad. Veröffentlichung
+
+        ---
+
+        **People often intuitively misidentify causes in everyday life. One example could be a belief that race, rather than qualification, were the cause of a rejection. How can one improve everyday thinking skills, prhaps borrowing from rigorous econometric theory, to mmore accurately identify causal relationships?**
+
+        ---
+
+        **What is the correlation between soccer and overall GPA?**
+
+        ---
+
+        **What are the models in which the utility of others does matter?**
+
+        ---
+
+        **Economics and psychology seem to have created the cool new hybrid. What is the next hot cross-subject combination?**
+
+        ---
+
+        **How can we avoid or overcome the labelling effect associated with testing and grades? How pronounced is that effect?**
+
+        ---
+
+        **To what extent is early success a predictor for later success? How often do people change, both drastically and permanently?**
+
+        ---
+
+        **What determines which topics we devote the most mental time and energy to? Why does it sometimes seem so irrational?**
+
+        ---
+
+        **How to divide study time (between 2 exams, for example)**
+
+        ---
+
+        **I, like many people, tend to make big goals and plans and not achieve them. How can economic theory help me to make sense of this and solve the problem?**
+
+        ---
+
+        **To what extent is academia distanced from reality, or the “real world”? How could this be shown or measured? In which respects is this true?**
+
+        ---
+
+        **There seems to be a trade-off between choosing not to worry about something that bothers you and taking the time and effort to learn more about it. How could I model this and optimize the model?**
+
+        ---
+
+        **What are other possible aplications for the basic concept of the Gini coefficient?**
+
+        ---
+
+        **How can one measure the effect of first impressions?**
+
+        ---
+
+        rent-seeking behavior
+
+        ---
+
+        poverty is the natural state, not wealth; we never need to wonder how poverty is attained
+
+        ---
+
+        Money is an IV for freedom.
+
+        ---
+
+        What are the statistics on the macroeconomies of the world?
+
+        ---
+
+        2 Welfare Theorems
+
+        ---
+
+        - relationships and thin-slicing
+
+        ---
+
+        - doctor-patient relationship and likelihood of suing
+
+        ---
+
+        - locked door: priming
+
+        ---
+
+        - speed-dating: conscious vs. other impulses, long-term vs immediate attraction
+
+        ---
+
+        - inability to describe how we behave in the moment
+
+        ---
+
+        - storytelling problem: too quick to come up with explanations
+
+        ---
+
+        - Warren Harding error-triggers in words, appearance
+
+        ---
+
+        - implicit association
+
+        ---
+
+        - race IAT
+
+        ---
+
+        - conscious vs subconscious attitudes, sometimes incompatible
+
+        ---
+
+        - height & career success
+
+        ---
+
+        implied volatility
+
+        ---
+
+        immiserizing growth
+
+        ---
+
+        Quantification of different skill sets - what kind of a model would be best for screening candidates?
+
+        ---
+
+        - would reduce illicit discrimination, but over-quantify
+
+        ---
+
+        What is the economic impact of hired sign-waving protestors (at construction sites of controversial projjects, etc.)?
+
+        ---
+
+        Study of how ownership and property rights improve behavior
+
+        ---
+
+        How much are people willing to sacrifice in this life for the next? How can this be quantified?
+
+        ---
+
+        - historical data
+
+        ---
+
+        - ”faith parameter” - relationship (positive) to faith
+
+        ---
+
+        Why do people self-educate relatively little? Is self-education an inferior or superior good? What could increase demand for self-education?
+
+        ---
+
+        - benefits of formally-recognized education
+
+        ---
+
+        - ”minimum mentality” seems prevalent
+
+        ---
+
+        - higher utility return of other uses for leisure time
+
+        ---
+
+        - present bias may play a role
+
+        ---
+
+        How does the use of data-based evaluation systems distort the incentives of the educational system in America? How could incentives be improved? What arguments can be made for and against centralied control? What better ways are there to evaluate achievement?
+
+        ---
+
+        In online music streaming, do the losses to the artists exceed the benefits?
+
+        ---
+
+        What is the true value of a college education?
+
+        ---
+
+        How can I determine the ideal allocation of sleep to study to work?
+
+        ---
+
+        Dating entails tremendous uncertainties. Of girls A, B, and C, all of whom are risky possibilities, what are the deciding factors? Why are people generally so risk-averse in this respect? What are some good approaches to minimizing risk?
+
+        ---
+
+        I suspect that a majority of YSA members attend church to meet members of the opposite sex. How could I test this?
+
+        ---
+
+        What causes the exchange rate to fluctuate so much?
+
+        ---
+
+        Are there any studies or evidence on whether knowiing and understanding time-inconsistent behavior models actually changes behavior? How could we test that?
+
+        ---
+
+        What would a model look like that was analogous to a present-bias model but biased toward another occasion, such as a wedding day or holiday? Some of this sounds reminiscent of state-dependent preferences.
+
+        ---
+
+        Can you discount the present too much (as opposed to the future)?
+
+        ---
+
+        I propose that there is an optimal expected lifetime EL* given that:
+
+        ---
+
+        - people want to live longer, rather than shorter
+
+        ---
+
+        - people want certain aspects to their lifestyle that both shorten the length but make it more enjoyable at the time
+
+        ---
+
+        - they ultimately find a balance between the two that results to a population life expectancy
+
+        ---
+
+        Why do people laugh more at someone who is already well-established as a humorist,compared to a newcomer (controlling for quality of humor)?
+
+        ---
+
+        How does decision faigue apply to me?
+
+        ---
+
+        What am I giving up in the future for my present consumption and pleasure?
+
+        ---
+
+        - health
+
+        ---
+
+        - income
+
+        ---
+
+        - length of life
+
+        ---
+
+        - certain accomplishments (esp. intellectual)
+
+        ---
+
+        Questions:
+
+        ---
+
+        - What is the correlation between well-roundedness and life satisfaction, achievement, innovation, social success, personal views and values, and emothional health?
+
+        ---
+
+        - What is the correlation between well-roundedness and lifelong employment / length of unemployment?
+
+        ---
+
+        - Which systems of education achieve the highest degree of well-roundedness?
+
+        ---
+
+        - What incentivizes and disincentivizes, individuals to invest in well-roundedness?
+
+        ---
+
+        - What kinds of policies can lead to a more well-rounded populace?
+
+        ---
+
+        - To what extent has well-roundedness changed over time?
+
+        ---
+
+        - How does this change (aside from becoming more complex) when another dimension, expertise, is added and accounted for?
+
+        ---
+
+        - etc.
+
+        ---
+
+        Family is valuable both intrinsically and instrumentally.
+
+        ---
+
+        externalities
+
+        ---
+
+        To what extent is free information flow impeded by the colossal amounts of information available?
+
+        ---
+
+        BYU development group, Ballard Center, evaluations
+
+        ---
+
+        What is the conjunction between educational philosophy and eductional research?
+
+        ---
+
+        Is justice to be found in the history of illiteracy?
+
+        ---
+
+        Wha are researchers at mid- and bottom-ranked universities like? Are they satisfied? Do they want to "move up"? What is systematically different about them compared to top-ranked researchers?
+
+        ---
+
+        What do successful researchers have in common?
+
+        ---
+
+        What do un-/less successful researchers have in common?
+
+        ---
+
+        Who are my best models for successful researchers? How do I decide what kind of career is most important for me?
+
+        ---
+
+        Questions for research:
+
+        ---
+
+        Why do students try to minimize learning relative to grades/tuition?
+
+        ---
+
+        How do grades/grading systems distort incentive to learn?
+
+        ---
+
+        How does the labor market disincentivize well-roundedness?
+
+        ---
+
+        Which outcomes are associated with well-roundedness (polymathy)?
+
+        ---
+
+        What correlates with intrinsically motivated learning?
+
+        ---
+
+        What contributes to it?
+
+        ---
+
+        Premises (possible):
+
+        ---
+
+        - It is desirable to be well-informed and well-rounded; versatility is a good.
+
+        ---
+
+        - Specialization necessarily entails a tradeoff in well-roundedness, at least at any given level of expertise. (This one could be further examined.)
+
+        ---
+
+        Definitions (most likely with an index):
+
+        ---
+
+        - Versatility
+
+        ---
+
+        - Success - perceived individual, professional, social
+
+        ---
+
+        Hypotheses: Versatility leads to
+
+        ---
+
+        - greater personal satisfaction
+
+        ---
+
+        - improved relationships
+
+        ---
+
+        - greater ability to take advantage of opportunities
+
+        ---
+
+        - increased and improved innovation
+
+        ---
+
+        - higher income and greater professional success
+
+        ---
+
+        - etc.
+
+        ---
+
+        Methodology:
+
+        ---
+
+        - Versatility Index: I will devise an original algorithm to assign a nuerical value to an in
+
+        ---
+
+        - Data collection: A survey will be most effective. Depending on the desired data, the search can be narrowed, or at least sorted, by profession
+
+        ---
+
+        - Analysis: The statistical methods of econometrics will be the primary apparatus. Of primary interest is the causal relationship between versatility and the factors listed above, and as such it will be important to control for reverse causation and common-causal variables.
+
+        ---
+
+        [Economic History](http://eh.net/)
+
+        ---
+
+        types of economic experiments:
+
+        ---
+
+        lab
+
+        ---
+
+        artefactual
+
+        ---
+
+        framed field
+
+        ---
+
+        natural field
+
+        ---
+
+        ---
+
+        property rights
+
+        ---
+
+        information
+
+        ---
+
+        contract rights
+
+        ---
+
+        curtailment of externalities
+
+        ---
+
+        [Economic Methodology: A Historical Introduction](https://libgen.is/book/index.php?md5=B268E08FD50167F99E6BC50B04BBD549)
+
+        ---
+
+        [BE Guide](https://www.behavioraleconomics.com/the-be-guide/the-behavioral-economics-guide-2019/)
+
+        ---
+
+        labor value
+
+        ---
+
+        monopsony
+
+        ---
+
+        Poor Inc.:
+
+        ---
+
+        globale Entwicklung
+
+        ---
+
+        markets and good character - markets only system compatible with good character?
+
+        ---
+
+        character<-->liberty
+
+        ---
+
+        Peter Principle
+
+        ---
+
+        Public adult education a "worthwhile" public good?
+
+        ---
+
+        How should globalism's losers respond?
+
+        ---
+
+        Given the small odds of business success, does irrationality play an important role in the free market?
+
+        ---
+
+        migration patterns throughout history and now, carrying capacity of land
+
+        ---
+
+        Theory of Games and Economic Behavior
+
+        ---
+
+        Wagner's Law
+
+        ---
+
+        What causes recessions?
+
+        ---
+
+        What did different types of people experience during the recession?
+
+        ---
+
+        How do airlines and similar companies choose risk cutoffs?
+
+        ---
+
+        крупная для меня экономическая проблема: проблема апатии
+
+        ---
+
+        In which realms is there a tendency toward monopoly, and in which a tendency toward competition (--> plurality or oligarchy)? When they are both active, which factors affect which prevails?
+
+        ---
+
+        **[lessons from game theory - Cerca con Google](https://www.google.com/search?q=lessons+from+game+theory&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)**
+
+        ---
+
+        What should everyone know about economic theory?
+
+        ---
+
+        - -> What does it contribute? What does it change? How does it help one to see the world differently? What is it missing?
+
+        ---
+
+        tax scale for companies to incentivize higher wages, using a scale relative to mean wages in the industry
+
+        ---
+
+        **Lesen:**
+
+        ---
+
+        Amartya Sen
+
+        ---
+
+        Raj Chetty
+
+        ---
+
+        Esther Duflo
+
+        ---
+
+        learn for 580:
+
+        ---
+
+        Appendix A of book
+
+        ---
+
+        341 stuff (reread book Understanding Analysis)
+
+        ---
+
+        **Books:**
+
+        ---
+
+        Men to Match My Mountains: The Opening of the Far West (Irving Stone)
+
+        ---
+
+        Kingdom of the Saints: The Story of Brigham Young and the Mormons
+
+        ---
+
+        ---
+
+        **Articles:**
+
+        ---
+
+        Ideology as Opinion: Polarization in a Spatial Model of Common-Value Elections (McMurray)
+
+        ---
+
+        ---
+
+        **Econ - Thoughts**
+
+        ---
+
+        basics of capitalism and alternative economic systems
+
+        ---
+
+        What is the correlation between income and obesity? what about income and health?
+
+        ---
+
+        ---
+
+        **Econ - People**
+
+        ---
+
+        Colin Camerer
+
+        ---
+
+        Walras
+
+        ---
+
+        William Stanley Jevons
+
+        ---
+
+        Carl Menger
+
+        ---
+
+        Edgeworth
+
+        ---
+
+        Gustav Fechner
+
+        ---
+
+        Ernst Weber
+
+        ---
+
+        Wilhelm Wundt
+
+        ---
+
+        J B Watson
+
+        ---
+
+        B F Skinner
+
+        ---
+
+        Paul Smuelson
+
+        ---
+
+        Clark Hull
+
+        ---
+
+        George Katona
+
+        ---
+
+        Ward Edwards
+
+        ---
+
+        Herbert Simon
+
+        ---
+
+        Eric Wanner
+
+        ---
+
+        Sloan Foundation
+
+        ---
+
+        Dorothy Ross
+
+        ---
+
+        Vernon Smith
+
+        ---
+
+        R Duncan Luce
+
+        ---
+
+        Patrick Suppes
+
+        ---
+
+        David Krantz
+
+        ---
+
+        Jimmie Savage
+
+        ---
+
+        von Neumann
+
+        ---
+
+        Morgenstern
+
+        ---
+
+        Tversky
+
+        ---
+
+        Thaler
+
+        ---
+
+        Foundations of Measurement
+
+        ---
+
+        Gérard Debreu
+
+        ---
+
+        1952 Santa Monica Conference
+
+        ---
+
+        Robert Thrall
+
+        ---
+
+        Clyde Coombs
+
+        ---
+
+        Thurstone
+
+        ---
+
+        Friedman
+
+        ---
+
+        Wallis
+
+        ---
+
+        Allais
+
+        ---
+
+        Paul Slovic
+
+        ---
+
+        Sarah Lichtenstein
+
+        ---
+
+        Kahneman
+
+        ---
+
+        Rohen d'Aiglepierre
+
+        ---
+
+        Lawrence Katz
+
+        ---
+
+        Marcela Escobari
+
+        ---
+
+        Michael Fairbanks
+
+        ---
+
+        ---
+
+        **Econ - Orgs**
+
+        ---
+
+        Sage Foundation
+
+        ---
+
+        ---
+
+        **G.D - Papers**
+
+        ---
+
+        Paul Holland
+
+        ---
+
+        Phillip & Sewall Wright
+
+        ---
+
+        Wright (1928)
+
+        ---
+
+        Reiersol (1941)
+
+        ---
+
+        Wald (1940)
+
+        ---
+
+        Durbin (1954)
+
+        ---
+
+        simultaneous equations model
+
+        ---
+
+        Angrist and Krueger (2001)
+
+        ---
+
+        Stock and Trebbi (2003)
+
+        ---
+
+        Morgan (1990)
+
+        ---
     
     - Books
         
@@ -15964,7 +17648,1047 @@ Groteske Aufklärung
     
 - G.E
     
-    [IPA](https://www.notion.so/IPA-989d49e4510a44739145c403c2569128?pvs=21)
+    * IPA
+            - IPA
+            
+            IPA
+            
+            ---
+            
+            [IPA Chart](http://www.ipachart.com/)
+            
+            ---
+            
+            [Sounds of Speech](http://soundsofspeech.uiowa.edu/index.html#english)
+            
+            ---
+            
+            [Interactive IPA Chart](http://www.ipachart.com/)
+            
+            ---
+            
+            [Help:IPA - Wikipedia](https://en.wikipedia.org/wiki/Help:IPA)
+            
+            ---
+            
+            [Квиз по МФА - Hojas de cálculo de Google](https://docs.google.com/spreadsheets/d/1QL-HCcDg8jv8kGKOBtEGiNg5waRyGUTiK3DDgf6KpOA/edit?usp=drive_web&ouid=111044199545816314492)
+            
+            ---
+            
+            [AFI](https://docs.google.com/spreadsheets/d/1TZ4pvVbKtxGTVRWnEiuU8TZUgOikjHmYcO7JYoZgGJo/edit#gid=0)
+            
+            ---
+            
+            [Мфа](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82)
+            
+            ---
+            
+            [IPA](http://web.uvic.ca/ling/resources/ipa/charts/IPAlab/IPAlab.htm)
+            
+            ---
+            
+            [International Phonetic Alphabet - Wikipedia](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)
+            
+            ---
+            
+            [Apprendre la phonétique et la prononciation en ligne.](https://easypronunciation.com/fr/)
+            
+            ---
+            
+            [Traducteur phonétique anglais en ligne](https://easypronunciation.com/fr/english-phonetic-transcription-converter)
+            
+            ---
+            
+            [(4) Reading a Text Transcribed in IPA - DocsBay](https://www.nslijhs.com/4-Reading-a-Text-Transcribed-in-IPA)
+            
+            ---
+            
+            - [**IPA Phonetic Transcription of English Text | toPhonetics](https://tophonetics.com/)
+            
+            ---
+            
+            [IPA transcription practice](http://linguistics.berkeley.edu/~kjohnson/English_Phonetics/)
+            
+            ---
+            
+            [International Phonetic Alphabet (IPA)](https://www.omniglot.com/writing/ipa.htm)
+            
+            ---
+            
+            [IPA for Language Learning - basic phonetics (Linguistics lessons for language learners)](http://www.nativlang.com/linguistics/ipa-pronunciation-lessons.php)
+            
+            ---
+            
+            [L'alphabet phonétique international (A.P.I.) - EspaceFrancais.com](http://www.espacefrancais.com/lalphabet-phonetique-international-api/)
+            
+            ---
+            
+            [Transcription Phonétique de l'Anglais avec l'API | toPhonetics](https://tophonetics.com/fr/)
+            
+            ---
+            
+            [Lista de símbolos del Alfabeto Fonético Internacional (AFI / IPA) del inglés, ¡con sonidos! ~ Inglesk](http://www.inglesk.com/2016/10/lista-simbolos-afi-ipa-audio.html)
+            
+            ---
+            
+            - [********Liste der IPA-Zeichen – Wikipedia](https://de.wikipedia.org/wiki/Liste_der_IPA-Zeichen)
+            
+            ---
+            
+            - [********Sound Recordings | International Phonetic Association](https://www.internationalphoneticassociation.org/content/sound-recordings)
+            
+            ---
+            
+            - [********NWatS MAp](http://www.lfsag.unito.it/ark/trm_map.html)
+            
+            ---
+            
+            [LFSAG - Laboratorio di Fonetica Sperimentale 'Arturo Genre'](http://www.lfsag.unito.it/ipa/index.html)
+            
+            ---
+            
+            [L'alphabet phonétique international [API] (1) | Apprendre le français avec TV5MONDE](http://apprendre.tv5monde.com/fr/apprendre-francais/lalphabet-phonetique-international-api-1)
+            
+            ---
+            
+            [Таблица МФА для русского языка — Википедия](https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0_%D0%9C%D0%A4%D0%90_%D0%B4%D0%BB%D1%8F_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0)
+            
+            ---
+            
+            [L'alphabet phonétique international [API] (1) | Apprendre le français avec TV5MONDE](http://apprendre.tv5monde.com/fr/apprendre-francais/lalphabet-phonetique-international-api-1)
+            
+            ---
+            
+            [Мфа](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82)
+            
+            ---
+            
+            [AFI](https://docs.google.com/spreadsheets/d/1TZ4pvVbKtxGTVRWnEiuU8TZUgOikjHmYcO7JYoZgGJo/edit#gid=0)
+            
+            ---
+            
+            [IPA](http://web.uvic.ca/ling/resources/ipa/charts/IPAlab/IPAlab.htm)
+            
+            ---
+            
+            [IPA Chart with Sounds | International Phonetic Alphabet Sounds](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/)
+            
+            ---
+            
+            [Russian IPA Chart with video for each sound!](https://easypronunciation.com/en/russian-letters-pronunciation-ipa-chart)
+            
+            ---
+            
+            [Alphabet phonétique français avec vidéo pour chaque son !](https://easypronunciation.com/fr/french-letters-pronunciation-ipa-chart)
+            
+            ---
+            
+            [Lernen einer Fremdsprache: Aussprache von Wörtern. Lautschrift.](https://easypronunciation.com/de/)
+            
+            ---
+            
+            [Phonetisches Alphabet für Amerikanisches Englisch mit Video](https://easypronunciation.com/de/american-english-pronunciation-ipa-chart)
+            
+            ---
+            
+            [Category:International Phonetic Alphabet help - Wikipedia](https://en.wikipedia.org/wiki/Category:International_Phonetic_Alphabet_help)
+            
+            ---
+            
+            [Categoria:!Alfabeto fonético internacional – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Categoria:!Alfabeto_fon%C3%A9tico_internacional)
+            
+            ---
+            
+            [IPA stories](https://home.cc.umanitoba.ca/~krussll/138/practice/texts/texts.htm)
+            
+            ---
+            
+            [texts in ipa - Поиск в Google](https://www.google.com/search?q=texts+in+ipa&rlz=1C5CHFA_enUS800US800&oq=texts+in+ipa&aqs=chrome..69i57j0l5.3687j0j4&sourceid=chrome&ie=UTF-8)
+            
+            ---
+            
+            [IPA Source Free Texts](https://www.ipasource.com/free)
+            
+            ---
+            
+            https://www.uni-hildesheim.de/media/fb3/deutsche_sprache/UEbungskompendium_Phonologie_WS_2010_2011.pdf
+            
+            ---
+            
+            [PHONETIQUE Apprendre à prononcer le français](http://phonetique.free.fr/index.htm)
+            
+            ---
+            
+            [https://phonetique.uqam.ca/upload/files/LIN1621/Hiver_2015/Exercices_transcription_corrigé.pdf](https://phonetique.uqam.ca/upload/files/LIN1621/Hiver_2015/Exercices_transcription_corrig%C3%A9.pdf)
+            
+            ---
+            
+            [L'alphabet phonétique international (A.P.I.) - EspaceFrancais.com](https://www.espacefrancais.com/lalphabet-phonetique-international-api/)
+            
+            ---
+            
+            https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118519639.wbecpx175
+            
+            ---
+            
+            [Phonetics For Fanatics | Pencil Puzzles Based on the International Phonetic Alphabet (IPA) for ESL Students](https://phoneticsforfanatics.com/)
+            
+            ---
+            
+            [Conlanging videos - YouTube](https://www.youtube.com/playlist?list=PLduA6tsl3gygfiWmGAhhHb4-HAqP6I63l)
+            
+            ---
+            
+            [Lewis Carroll's Alice's Adventures in Wonderland – in the International Phonetic Alphabet](http://www.evertype.com/books/alice-en-fonipa.html)
+            
+            ---
+            
+            [Praat: doing Phonetics by Computer](http://fonsg3.hum.uva.nl/praat/)
+            
+            ---
+            
+            ---
+            
+            ---
+            
+            IPA
+            
+            ---
+            
+            https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/illustrations-of-the-ipa?sort=titleSort%3Aasc&pageNum=5&searchWithinIds=90FB09AEC185BE05D8C0826FED60CB0C&productType=JOURNAL_ARTICLE&template=cambridge-core%2Fjournal%2Farticle-listings%2Flistings-wrapper&hideArticleJournalMetaData=false&displayNasaAds=false
+            
+            ---
+            
+            https://scholars.sil.org/kenneth_s_olson/ipa_illustrations
+            
+            ---
+            
+            https://www.phon.ucl.ac.uk/home/wells/greek.htm
+            
+            ---
+            
+            http://www.webtopos.gr/eng/languages/greek/gre_ipa_3.htm
+            
+            ---
+            
+            http://archive.phonetics.ucla.edu/Language/SWH/swh_word-list_1973_03.html
+            
+            ---
+            
+            https://en.wikipedia.org/wiki/Help:IPA/Swahili
+            
+            ---
+            
+            [Journal of the International Phonetic Association | Cambridge Core](https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association#)
+            
+            ---
+            
+            [Illustrations of the IPA article collection](https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/illustrations-of-the-ipa)
+            
+            ---
+            
+            [Illustrations of the IPA - books](https://b-ok.cc/s/?q=illustrations+of+the+ipa)
+            
+            ---
+            
+            ɕ
+            
+            ---
+            
+            [ScienceHub #06: Компьютерная лингвистика](https://postnauka.ru/tv/19248)
+            
+            ---
+            
+            [Speechlab - Max-Planck-Institute for Psycholinguistics](https://www.mpi.nl/world/tg/speechlab/speechlab.html)
+            
+            ---
+            
+            ---
+            
+            ---
+            
+        - IPA Transcriptions
+            
+            # EN-AM
+            
+            ---
+            
+            # [ðə ˈnɔɹθ ˌwɪnd ən ə ˈsʌn wɚ dɪsˈpjuɾɪŋ ˈwɪtʃ wəz ðə ˈstɹɑŋɡɚ, wɛn ə ˈtɹævlɚ ˌkem əˈlɑŋ ˈɹæpt ɪn ə ˈwɔɹm ˈklok.ðe əˈɡɹid ðət ðə ˈwʌn hu ˈfɚst səkˈsidəd ɪn ˈmekɪŋ ðə ˈtɹævlɚ ˈtek ɪz ˈklok ˌɑf ʃʊd bi kənˈsɪdɚd ˈstɹɑŋɡɚ ðən ðɪ ˈʌðɚ.ðɛn ðə ˈnɔɹθ ˌwɪnd ˈblu əz ˈhɑɹd əz hi ˈkʊd, bət ðə ˈmɔɹ hi ˈblu ðə ˈmɔɹ ˈklosli dɪd ðə ˈtɹævlɚ ˈfold hɪz ˈklok əˈɹaʊnd hɪm;ˌæn ət ˈlæst ðə ˈnɔɹθ ˌwɪnd ˌɡev ˈʌp ði əˈtɛmpt. ˈðɛn ðə ˈsʌn ˈʃaɪnd ˌaʊt ˈwɔɹmli ənd ɪˈmidiətli ðə ˈtɹævlɚ ˈtʊk ˌɑf ɪz klok.ən ˈso ðə ˈnɔɹθ ˌwɪnd wəz əˈblaɪʒ tɪ kənˈfɛs ðət ðə ˈsʌn wəz ðə ˈstɹɑŋɡɚ əv ðə ˈtu]
+            
+            ---
+            
+            ---
+            
+            # EN-AU
+            
+            ---
+            
+            # ðə ˈnoːθ ˈwɪ̝̃nd æ̃n̪ ðə ˈsɐ̃n wə dɪsˈpj̊ʉ̟ːɾɪŋ ˈwɪ̝tʃ w̥əz ðə ˈst̠ɹɔ̃ŋgə, wẽn ə ˈt̠ɹ̥ævɫ̩ə ˈk̟ʰæɪ̃m əˌlɔ̃ŋ ˈɹæp ̚t ɪ̃n ə ˈwõːm ˈkl̥əʉk. ˌðæɪ əˈɡ̟ɹᵊid̪ ̚ ðət̪ ̚ ðə ˈwɐ̃n hʉː ˈfɜːs sə̝kˌsᵊiːdəd ɪ̃m ˈmæɪk̟ɪ̃ŋ ðə ˈt̠ɹ̥ævl̴̩ə tʰ̩æɪk hɪ̝z̥ ˌkl̥əʉk ˈɔf ˌʃʊbːiː kə̃nˌsɪ̝dəd̥ ̚ ˈst̠ɹɔ̃ŋɡə ðə̃n̪ ðiː ˈɐðə. ðẽn̪ ðə ˈnoːθ ˈwɪ̝̃n ˈblʉː əz̥ ˈhɐːɾ əz̥ hiː ˈkʰʊd bət̪ ðɘ ˈmoː hiː blʉː ðɘ moː ˈkl̥əʉsl̥ᵊiː dɪd̪ ̚ ðə ˈtɹ̥ævlə ˈfɔoʊd ɪz̥ ˈkl̥əuk əˈɹæɔ̃nd hɪ̃m ˌæ̃nd ət ˈlɐːst ðə ˈnoːθ ˈwɪ̝̃nn ˈgæɪv ˌɐp ðiː əˈtʰẽmp ̚t. ˈðẽn̪ ðə ˈsɐ̃n ˈʃɔ̃n ˌæɔʔ ˈwõːmlᵊiː ˌæ̃n ə̃ˈmᵊiːɾiːəʔlᵊiː ðə ˈt̠ɹ̥ævlə ˈtʰʊkʰ ˌɔf hɪ̝z̥ ˈl̥əʉk̚. æ̃n ˈsəʉðə ˈnoːθ ˈwɪ̝̃nd wəz əˈblɑedʒ tə kə̃ɱˈfes ðət̪ ðə ˈsɐ̃n wəz ðə ˈst̠ɹɔ̃ŋğəɹ əv ðə ˈtʰʉː
+            
+            ---
+            
+            ---
+            
+            ---
+            
+            # RU
+            
+            ---
+            
+            ---
+            
+            ---
+            
+            # DE
+            
+            ---
+            
+            # [aɪns ˈʃtʁɪtn̩ zɪç ˈnɔɐ̯tvɪnt ʊntˈz̥ɔnə | veːɐ̯ fɔn ˈiːnː ˈbaɪdn̩ voːl deːɐ̯ ˈʃtɛɐ̯kəʁə ˈvɛːʁə | als aɪn ˈvandəʁɐ | deːɐ̯ ɪn ˈaɪnː ˈvaːɐ̯mn̩ ˈmantl̩ gəˈhʏlt vaːɐ̯ | dəs ˈveːgəs daˈheːɐ̯kaːm ‖ ziː ˈvʊɐ̯dn̩ ˈaɪnɪç | das ˈdeːɐ̯jeːnɪgə fʏɐ̯ deːn ˈʃtɛɐ̯kəʁən ˈgɛltn̩ ˈzɔltə | deːɐ̯ deːn ˈvandəʁɐ ˈtsvɪŋ̍ ˈvʏɐ̯də | ˈzaɪnː ˈmantl̩ ˈaptsʊˌneːmː ‖ deːɐ̯ ˈnɔɐ̯tvɪnt bliːs mɪt ˈalɐ maxt | ˈaːbɐ jeˈmeːɐ̯ eːɐ̯ bliːs | ˈdɛsto ˈfɛstɐ ˈhʏltə zɪç deːɐ̯ ˈvandəʁɐ ɪn ˈzaɪnː ˈmantl̩ aɪn ‖ ˈɛntlɪç gaːp deːɐ̯ ˈnɔɐ̯tvɪnt deːn kampf aʊf ‖ nuːn ɛɐ̯ˈvɛɐ̯mtə diː ˈzɔnə diː lʊft mɪt ˈiːɐ̯n̩ ˈfʁɔɪntlɪçn̩ ˈʃtʁaːln̩ | ʊnt ʃoːnaːx ˈveːnɪgŋ̍ aʊgŋ̍ˈblɪkŋ̍ tsoːk deːɐ̯ ˈvandəʁɐ ˈzaɪnː ˈmantl̩ aʊs ‖ daː ˈmʊstə deːɐ̯ ˈnɔɐ̯tvɪnt ˈtsuːgeːbm̩ | das diː ˈzɔnə fɔn ˈiːnː ˈbaɪdn̩ deːɐ̯ ˈʃtɛɐ̯kəʁə vaːɐ̯]
+            
+            ---
+            
+            ---
+            
+            ---
+            
+            ---
+            
+            ---
+            
+            ---
+            
+            # FR
+            
+            ---
+            
+            # la biz e lə sɔlɛʲ sə dispytɛ ‖ ʃakɛ̃ asyrɑ̃ kilɛtɛ lə ply fɔ̈ʁ̞ ‖ kɑ̃t ilzɔ̃ vy ɛ̃ vwɑjaʒœ ki savɑ̃sɛ ‖ ɑ̃vlope dɑ̃ sɔ̃ mɑ̃to ‖ iː sɔ̃ tɔ̃be dakɔ̈ʁ̥ kə səlɥi ki aʁivʁe ləpʁ̥əmje a lə lɥi fɛʁote ‖ səʁə ʁəɡaʁde kɔ̈m lə ply fɔ̈ʁ ‖ alɔ̈ʁ̞ la biz sɛ̝ miz a sufle də tut se fɔ̈ʁ̞s ‖ mɛ ply ɛl suflɛ ply lə vwɑjaʒœʁ̞ sɛʁɛ sɔ̃ mɑ̃totʊʁ̞ də lɥi ‖ finalmɑ̃ ɛl ʁənõsa lə lɥi fɛʁote ‖ alɔ̈ʁ̞ lə vwɑjaʒœ ʁeʃofe ota sɔ̃ mɑ̃to ‖ ɛ̃si la biz dy ʁəkɔnɛt kə lə sɔlɛʲ ɛtɛ lə ply fɔ̈ʁ̞
+            
+            ---
+            
+            ---
+            
+            # ES
+            
+            ---
+            
+            ---
+            
+            ---
+            
+            # PT
+            
+            ---
+            
+            ---
+            
+            ---
+            
+            # IT
+            
+            ---
+            
+            ---
+            
+            ---
+            
+            # AR
+            
+            ---
+            
+            # kaanat rijħu ʃʃamaali tatadʒaadalu waʃʃamsa fij ʔajjin minhumaa kaanat ʔaqwaa min alʔuxraa | wa ʔid-d bi-musaafirin jatˤluʕu mutalaffiʕan biʕabaaʔatin samijka ‖ fa tafaqataa ʔalaa ʔtibaari ssaabiqi fij ʕidʒbaari lmusaafiri ʕalaa xalʕi ʕabaaʔatihi lʔaqwaa ‖ ʕasˤafati rijħu ʃʃamaali biʔaqsˤaa ma statˤaaʕat min quwwa ‖ wa laakin kullumaa zdaada lʕasˤf izdaada lmusaafiru tadaθθuran biʕabaaʔatih | ʔilaa ʔan ʔusqitˤa fij jadi rrijħ fa taxallat ʕan muħaawalatihaa ‖ baʕdaʔid_din satˤaʕati ʃʃamsu bidifʔihaa | fa maakaana min almusaafiri ʔillaa ʔan xalaʕa ʕabaaʔatahu ʕalaa ttauw ‖ wa haakad_da idˤtˤurat rijħu ʃʃamaali ʔilaa liʕtiraafi biʔanna ʃʃamsa kaanat hija lʔaqwaa
+            
+            ---
+            
+            ---
+            
+            # ZH
+            
+            ---
+            
+            ---
+            
+            ---
+            
+            # HR
+            
+            ---
+            
+            ---
+            
+            ---
+            
+            # NL
+            
+            ---
+            
+            # də ˈnoːɾdəʋɪnt ɛn də ˈzɔn | ɦɑdə ən dɪsˈkʏsi oːvəɾ də ˈfɾaːχ | ˈʋi fɑn ɦʏn ˈtʋeːə də ˈstɛɾəkstə ʋɑs | tun əɾ ˈjœyst imɑnt foːɾˈbɛi kʋam | di ən ˈdɪkə ˈʋɑɾmə ˈjɑs aːnɦɑt ‖ zə spɾaːkə ˈɑf | dɑt ʋi də foːɾbɛiχɑŋəɾ dəɾtu zʌu ˈkɾɛiχə zəɲ ˈjɑs œy tə tɾɛkə | də ˈstɛɾkəkstə zʌu zɛin ‖ də ˈnoːɾdəʋɪnt bəχɔn œyt ˈɑlə mɑχ tə ˈblaːzə ‖ maːɾ u ˈɦɑɾdəɾ i ˈblis | dɛs tə ˈdɪχtəɾ də foːɾbɛiχɑŋəɾ zəɲ jɑz ɔm zɪχ ˈɦeːn tɾɔk ‖ tənˈslɔtə χɑf tə noːɾdəʋɪnt ət maːɾ ˈɔp ‖ fəɾˈfɔlχənz bəχɔn də ˈzɔn | ˈkɾɑχtəχ tə ˈstɾaːlə | ɛn ɔˈmɪdələk daːɾɔp | tɾɔk tə foːɾbɛiχɑŋəɾ zəɲ ˈjɑz œyt ‖ də ˈnoːɾdəʋɪnt kɔn tun slɛχs bəˈʔaːmə | dɑtə ˈzɔn də ˈstɛɾəkstə ʋɑs
+            
+            ---
+            
+            ---
+            
+            # PL
+            
+            ---
+            
+            ---
+            
+            ---
+            
+            # SV
+            
+            ---
+            
+            # nùːɖanˌvɪndən ɔ ˈsuːlən ˈtvɪ́stadə əŋ ˈɡɔŋ ɔm vɛm ɑv ˈdɔm sɔm vɑ ˈstàɹkast ‖ ˈʝɵst ˈdoː kɔm ən ˈvàndɹaɹə ˈvɛːɡən ˈfɹam | ˈɪ̀nˌsveːpt i ən ˈvaɹm ˈkàpa ‖ dɔm kɔm doː øvəˈɹɛns ɔm | at dɛn sɔm ˈfœ̞ʂʈ kɵndə fo vàndɹaɹən at tɑ ˈɑːv sɛʝ ˈkàpanm han skɵlə ˈànˌseːs vɑɹa ˈstàrkarə ɛn dɛn ˈàndɹa ‖ doː ˈblóːstə ˈnùːɖanˌvɪndən so ˈhoːʈ han ˈnɔ̀nˌsɪn ˈkɵ̀ndə | mɛn ʝʉ̟ ˈhòːɖaɹə han ˈblòːstə | dɛstʊ ˈɛ̀ːtarə ˈèːptə ˈvàndrarən ˈkàpan ˈɔm səʝ | ɔ tɪ ˈsist gɑv ˈnùɖan | vɪndən ˈɵp fœ̞ˈʂøːkət ‖ doː lɛːt ˈsuːlən sina ˈstɹòːlaɹ ˈɧiːna ˈheːlt ˈvarmt | ɔ ˈʝènast tuɡ ˈvàndɹaɹən ˈɑːv sɛʝ ˈkàpan | ɔ so vɑ ˈnùːɖanˌvɪndən ˈtvɵ̀ŋən at ˈèːrˌɕɛna | at ˈsuːlən vɑ dɛn ˈstàrkastə ɑv dɔm ˈtvoː
+            
+            ---
+            
+            ---
+            
+            ---
+            
+            ---
+            
+            ---
+            
+            ---
+            
+            ---
+            
+            ---
+            
+            ---
+            
+            # HE-MO
+            
+            ---
+            
+            # ˈruaħ hattsaˈfon |
+            
+            ---
+            
+            # vehaʃʃemeʃ | hitvakeˈħu beneˈhem | ˈmi meˈhem ħaˈzak joˈter ‖ ɡameˈru | ki ʔet hannitsaˈħon | jinˈħal | ˈmi ʃejjatsˈlijaħ lifˈʃot meˈʕal ʕoˈver ˈʔoraħ ʔet beɡaˈdav ʔel ɡuˈfo ‖ ˈʔaz | histaˈʕer ʕaˈlav haˈruaħ | beˈjeter ˈʕoz | ˈʔaχ haʔaˈdam | miʃʃhehoˈsif hakˈkor leʕannoˈto | laˈvaʃ meˈʕil ʕelˈjon ʕal beɡaˈdav ‖ noˈʔaʃ mimˈmennu haˈruaħ | umesaˈro biˈde haʃˈʃemeʃ ‖ teħilˈla | zaˈraħ ʕaˈlav haʃˈʃemeʃ berakˈkut ‖ vehaʔaˈdam heˈsir ʔet biɡˈdo haʕelˈjon meʕaˈlav ‖ hiɡˈbir haʃˈʃemeʃ ʔet ħumˈmo | ˈʕad ʃeˈlo jaˈχol haʔaˈdam laʕaˈmod bifˈne haʃʃaˈrav | ufaˈʃat ˈʔet beɡaˈdav | veniχˈnas leˈtoχ hannaˈhar | ʃehaˈja bekirˈvat maˈkom keˈdej lirˈħots bemejˈmav
+            
+            ---
+            
+            ---
+            
+            ---
+            
+            ---
+            
+            # HI
+            
+            ---
+            
+            # ʊt̪ːəɾi həʋɑ ɔɾ suɾədʒ ɪs bɑt̪ pəɾ dʒʱəɡəɽ ɾəhe t̪e ki həm d̪onõ mẽ zjɑd̪ɑ bəlʋɑn kɔn hɛ ‖ ɪt̪ne mẽ ɡəɾəm tʃoɡɑ pɛhne ek mʊsɑfɪɾ ʊd̪ʱəɾ ɑ nɪklɑ ‖ həʋɑ ɔɾ suɾədʒ d̪onõ ɪs bɑt̪ pəɾ ɾɑzi ho ɡəje ki d̪onõ mẽ se dʒo pɛhle mʊsɑfɪɾ kɑ tʃoɡɑ ʊt̪əɾʋɑ deɡɑ ʋəhi zjɑd̪ɑ bəlʋɑn səmdʒʱɑ dʒɛse dʒɛse əpnɑ zoɾ bəɽhɑt̪i ɡəji ʋɛse ʋɛse mʊsɑfɪɾ əpne bəd̪ən pəɾ tʃoɡe ko ɔɾ bʱi zjɑd̪ɑ kəs kəɾ ləpeʈt̪ɑ ɡəjɑ ‖ ənt̪ mẽ həʋɑ ne əpni koʃɪʃ bənd̪ kəɾ d̪i ‖ pʰɪɾ suɾədʒ t̪ezi ke sɑt̪ʰ nɪklɑ ɔɾ mʊsɑfɪɾ ne t̪ʊɾənt̪ əpnɑ tʃoɡɑ ʊt̪ɑɾ d̪ɪjɑ ‖ ɪs lɪje həʋɑ ko mɑnnɑ pəɽɑ ki ʊn d̪onõ mẽ suɾədʒ hi zjɑd̪ɑ bəlʋɑn hɛ
+            
+            ---
+            
+        - IPA Transcriptions 2
+            
+            **1**
+            
+            ---
+            
+            **broad**
+            
+            ---
+            
+            ðə ˈnoɹθ ˌwɪnd ən (ð)ə ˈsʌn wɚ dɪsˈpjutɪŋ ˈwɪtʃ wəz ðə ˈstɹɑŋɡɚ, wɛn ə ˈtɹævəlɚ ˌkem əˈlɑŋ ˈɹæpt ɪn ə ˈwoɹm ˈklok.ðe əˈɡɹid ðət ðə ˈwʌn hu ˈfɚst səkˈsidəd ɪn ˈmekɪŋ ðə ˈtɹævəlɚ ˈtek ɪz ˈklok ˌɑf ʃʊd bi kənˈsɪdɚd ˈstɹɑŋɡɚ ðən ðɪ ˈəðɚ.ðɛn ðə ˈnoɹθ ˌwɪnd ˈblu əz ˈhɑɹd əz i ˈkʊd, bət ðə ˈmoɹ hi ˈblu ðə ˈmoɹ ˈklosli dɪd ðə ˈtɹævlɚ ˈfold hɪz ˈklok əˈɹaʊnd ɪm;ˌæn ət ˈlæst ðə ˈnoɹθ ˌwɪnd ˌɡev ˈʌp ði əˈtɛmpt. ˈðɛn ðə ˈsʌn ˈʃaɪnd ˌaʊt ˈwoɹmli ənd ɪˈmidiətli ðə ˈtɹævlɚ ˈtʊk ˌɑf ɪz ˈklok.ən ˈso ðə ˈnoɹθ ˌwɪnd wəz əˈblaɪʒ tɪ kənˈfɛs ðət ðə ˈsʌn wəz ðə ˈstɹɑŋɡɚ əv ðə ˈtu.
+            
+            ---
+            
+            **narrow**
+            
+            ---
+            
+            ðə ˈnɔɹθ ˌwɪnd ən ə ˈsʌn wɚ dɪsˈpjuɾɪŋ ˈwɪtʃ wəz ðə ˈstɹɑŋɡɚ, wɛn ə ˈtɹævlɚ ˌkem əˈlɑŋ ˈɹæpt ɪn ə ˈwɔɹm ˈklok.ðe əˈɡɹid ðət ðə ˈwʌn hu ˈfɚst səkˈsidəd ɪn ˈmekɪŋ ðə ˈtɹævlɚ ˈtek ɪz ˈklok ˌɑf ʃʊd bi kənˈsɪdɚd ˈstɹɑŋɡɚ ðən ðɪ ˈʌðɚ.ðɛn ðə ˈnɔɹθ ˌwɪnd ˈblu əz ˈhɑɹd əz hi ˈkʊd, bət ðə ˈmɔɹ hi ˈblu ðə ˈmɔɹ ˈklosli dɪd ðə ˈtɹævlɚ ˈfold hɪz ˈklok əˈɹaʊnd hɪm;ˌæn ət ˈlæst ðə ˈnɔɹθ ˌwɪnd ˌɡev ˈʌp ði əˈtɛmpt. ˈðɛn ðə ˈsʌn ˈʃaɪnd ˌaʊt ˈwɔɹmli ənd ɪˈmidiətli ðə ˈtɹævlɚ ˈtʊk ˌɑf ɪz klok.ən ˈso ðə ˈnɔɹθ ˌwɪnd wəz əˈblaɪʒ tɪ kənˈfɛs ðət ðə ˈsʌn wəz ðə ˈstɹɑŋɡɚ əv ðə ˈtu.
+            
+            ---
+            
+            **?**
+            
+            ---
+            
+            ðə ˈnoɹθ
+            
+            ---
+            
+            ˌwɪnd ən ə ˈsʌn wə˞ dɪsˈpjutɪŋ ˈwɪtʃ wəz ðə ˈstɹɑŋɡə˞ | wɛn ə
+            
+            ---
+            
+            ˈtɹævələ˞ ˌkem əˈlɑŋ ˈɹæpt ɪn ə ˈwoɹm ˈklok ‖ ðe əˈɡɹid ðət də ˈwʌn hu
+            
+            ---
+            
+            ˈfə˞st səkˈsidəd ɪn ˈmekɪŋ ðə ˈtɹævlə˞ ˈtek ɪz ˈklok ˌɑf ʃʊd bi
+            
+            ---
+            
+            kənˈsɪdə˞d ˈstɹɑŋɡə˞ ðən ðɪ ˈəðə˞ ‖ ðɛn ðə ˈnoɹθ ˌwɪnd ˈblu əz ˈhɑɹd
+            
+            ---
+            
+            əz hi ˈkʊd | bət ðə ˈmoɹ hi ˈblu ðə ˈmoɹ ˈkosli dɪd ðə ˈtɹævlə˞ ˈfold
+            
+            ---
+            
+            hɪz ˈklok əˈɹaʊnd hɪm; ˌæn ət ˈlæst ðə ˈnoɹθ ˌwɪnd ˌɡev ˈʌp ði əˈtɛmpt
+            
+            ---
+            
+            ‖ ˈðɛn ðə ˈsʌn ˈʃaɪnd ˌaʊt ˈwoɹmli | ənd ɪˈmidiətli ðe ˈtɹævlə˞ ˈtʊk
+            
+            ---
+            
+            ˌɑf ɪz ˈklok ‖ ən ˈso ðə ˈnoɹθ ˌwɪnd wəz əˈblaɪʒ tɪ kənˈfɛs ðət ðə
+            
+            ---
+            
+            ˈsʌn wəz ðə ˈstɹɑŋɡə˞ əv ðə ˈtu
+            
+            ---
+            
+            ---
+            
+            **2**
+            
+            ---
+            
+            **broad**
+            
+            ---
+            
+            ---
+            
+            **narrow**
+            
+            ---
+            
+            ---
+            
+            **3**
+            
+            ---
+            
+            **broad**
+            
+            ---
+            
+            ---
+            
+            **narrow**
+            
+            ---
+            
+            ---
+            
+            **?**
+            
+            ---
+            
+            [aɪns ˈʃtʁɪtn̩ zɪç ˈnɔɐ̯tvɪnt ʊntˈz̥ɔnə | veːɐ̯ fɔn ˈiːnː ˈbaɪdn̩ voːl deːɐ̯ ˈʃtɛɐ̯kəʁə ˈvɛːʁə | als aɪn ˈvandəʁɐ | deːɐ̯ ɪn ˈaɪnː ˈvaːɐ̯mn̩ ˈmantl̩ gəˈhʏlt vaːɐ̯ | dəs ˈveːgəs daˈheːɐ̯kaːm ‖ ziː ˈvʊɐ̯dn̩ ˈaɪnɪç | das ˈdeːɐ̯jeːnɪgə fʏɐ̯ deːn ˈʃtɛɐ̯kəʁən ˈgɛltn̩ ˈzɔltə | deːɐ̯ deːn ˈvandəʁɐ ˈtsvɪŋ̍ ˈvʏɐ̯də | ˈzaɪnː ˈmantl̩ ˈaptsʊˌneːmː ‖ deːɐ̯ ˈnɔɐ̯tvɪnt bliːs mɪt ˈalɐ maxt | ˈaːbɐ jeˈmeːɐ̯ eːɐ̯ bliːs | ˈdɛsto ˈfɛstɐ ˈhʏltə zɪç deːɐ̯ ˈvandəʁɐ ɪn ˈzaɪnː ˈmantl̩ aɪn ‖ ˈɛntlɪç gaːp deːɐ̯ ˈnɔɐ̯tvɪnt deːn kampf aʊf ‖ nuːn ɛɐ̯ˈvɛɐ̯mtə diː ˈzɔnə diː lʊft mɪt ˈiːɐ̯n̩ ˈfʁɔɪntlɪçn̩ ˈʃtʁaːln̩ | ʊnt ʃoːnaːx ˈveːnɪgŋ̍ aʊgŋ̍ˈblɪkŋ̍ tsoːk deːɐ̯ ˈvandəʁɐ ˈzaɪnː ˈmantl̩ aʊs ‖ daː ˈmʊstə deːɐ̯ ˈnɔɐ̯tvɪnt ˈtsuːgeːbm̩ | das diː ˈzɔnə fɔn ˈiːnː ˈbaɪdn̩ deːɐ̯ ˈʃtɛɐ̯kəʁə vaːɐ̯]
+            
+            ---
+            
+            **?**
+            
+            ---
+            
+            aɪns ˈʃtʁɪtn zɪç ˈnɔʁtvɪnt ʊn ˈzɔnə | veʁ fən im ˈbaɪdn vol dəʁ ʃtɛʁkəʁə veʁə | als aɪn
+            
+            ---
+            
+            ˈvandəʁəʁ | dɛʁ ɪ aɪn ˈvaʁm ˈmantl ɡəˌhʏlt vaʁ | dəs ˈveɡəs daˈheʁkaːm ‖ zɪ vʊʁdn ˈaɪnɪç | das ˈdeʁjenɪɡə fʏʁ dən ˈʃteʁkəʁən ˌɡɛltn zɔltə | dɛʁ dən ˈvandəʁəʁ ˈtsvɪŋŋ vʏʁdə | zaɪm ˈmantl ˈaptsʊˌnemm ‖ dɛʁ ˈnɔʁtvɪm ˈblis mɪt ˈaləʁ ˈmaχt | abəʁ je ˈmeʁ ɛʁ ˈblis | dɛsto ˈfɛstəʁ ˈhʏltə ziç dəʁ ˈvandəʁəʁ ɪn zaɪm ˈmantl aɪn ‖ ˈɛntlɪç ɡaːp dəʁ ˈnɔʁtvɪn dəŋ ˈkampf ˈaʊf ‖ nun ɛʁˈvɛʁmtə dɪ ˈzɔnə dɪ ˈlʊfp mɪt iʁn ˈfrɔɪntlɪçn ʃtʁaːln | ʊn ʃonaχ ˈvenɪɡŋ ˈaʊɡŋˌblɪkŋ tsok dəʁ ˈvandəʁəʁ zaɪm ˈmantl aʊs ‖ da mʊstə dəʁ ˈnɔʁtvɪn ˈtsuɡebm | das dɪˈzɔnə fən im ˈbaɪdn dəʁ ʃtɛʁkərə vaʁ
+            
+            ---
+            
+            ---
+            
+            ---
+            
+            **4**
+            
+            ---
+            
+            **broad**
+            
+            ---
+            
+            ---
+            
+            **narrow**
+            
+            ---
+            
+            ---
+            
+            **5**
+            
+            ---
+            
+            **broad**
+            
+            ---
+            
+            ---
+            
+            **narrow**
+            
+            ---
+            
+            ---
+            
+            **?**
+            
+            ---
+            
+            la biz e lə sɔlɛʲ
+            
+            ---
+            
+            sə dispytɛ ‖ ʃakɛ̃ asyrɑ̃ kilɛtɛ lə ply fɔ̈ʁ̞ ‖ kɑ̃t ilzɔ̃ vy ɛ̃
+            
+            ---
+            
+            vwɑjaʒœ ki savɑ̃sɛ ‖ ɑ̃vlope dɑ̃ sɔ̃ mɑ̃to ‖ iː sɔ̃ tɔ̃be dakɔ̈ʁ̥ kə
+            
+            ---
+            
+            səlɥi ki aʁivʁe ləpʁ̥əmje a lə lɥi fɛʁote ‖ səʁə ʁəɡaʁde kɔ̈m lə ply
+            
+            ---
+            
+            fɔ̈ʁ ‖ alɔ̈ʁ̞ la biz sɛ̝ miz a sufle də tut se fɔ̈ʁ̞s ‖ mɛ ply ɛl
+            
+            ---
+            
+            suflɛ ply lə vwɑjaʒœʁ̞ sɛʁɛ sɔ̃ mɑ̃totʊʁ̞ də lɥi ‖ finalmɑ̃ ɛl ʁənõsa
+            
+            ---
+            
+            lə lɥi fɛʁote ‖ alɔ̈ʁ̞ lə sɔlɛʲ kɔmɑ̃sa bʁ̥ije ‖ e o bu dɛ̹̃ mɔmɑ̃ lə
+            
+            ---
+            
+            vwɑjaʒœ ʁeʃofe ota sɔ̃ mɑ̃to ‖ ɛ̃si la biz dy ʁəkɔnɛt kə lə sɔlɛʲ ɛtɛ
+            
+            ---
+            
+            lə ply fɔ̈ʁ̞
+            
+            ---
+            
+            ---
+            
+            **6**
+            
+            ---
+            
+            **broad**
+            
+            ---
+            
+            ---
+            
+            **narrow**
+            
+            ---
+            
+            ---
+            
+            **7**
+            
+            ---
+            
+            **broad**
+            
+            ---
+            
+            ---
+            
+            **narrow**
+            
+            ---
+            
+            ---
+            
+            **8**
+            
+            ---
+            
+            **broad**
+            
+            ---
+            
+            ---
+            
+            **narrow**
+            
+            ---
+            
+            ---
+            
+            **9**
+            
+            ---
+            
+            **broad**
+            
+            ---
+            
+            ---
+            
+            **narrow**
+            
+            ---
+            
+            ---
+            
+            **?**
+            
+            ---
+            
+            kaanat rijħu ʃʃamaali tatadʒaadalu waʃʃamsa fij ʔajjin minhumaa kaanat ʔaqwaa min
+            
+            ---
+            
+            alʔuxraa | wa ʔid-d bi-musaafirin jatˤluʕu mutalaffiʕan biʕabaaʔatin
+            
+            ---
+            
+            samijka ‖ fa tafaqataa ʔalaa ʔtibaari ssaabiqi fij ʕidʒbaari
+            
+            ---
+            
+            lmusaafiri ʕalaa xalʕi ʕabaaʔatihi lʔaqwaa ‖ ʕasˤafati rijħu ʃʃamaali
+            
+            ---
+            
+            biʔaqsˤaa ma statˤaaʕat min quwwa ‖ wa laakin kullumaa zdaada lʕasˤf
+            
+            ---
+            
+            izdaada lmusaafiru tadaθθuran biʕabaaʔatih | ʔilaa ʔan ʔusqitˤa fij
+            
+            ---
+            
+            jadi rrijħ fa taxallat ʕan muħaawalatihaa ‖ baʕdaʔid_din satˤaʕati
+            
+            ---
+            
+            ʃʃamsu bidifʔihaa | fa maakaana min almusaafiri ʔillaa ʔan xalaʕa
+            
+            ---
+            
+            ʕabaaʔatahu ʕalaa ttauw ‖ wa haakad_da idˤtˤurat rijħu ʃʃamaali ʔilaa
+            
+            ---
+            
+            liʕtiraafi biʔanna ʃʃamsa kaanat hija lʔaqwaa
+            
+            ---
+            
+            ---
+            
+            **10**
+            
+            ---
+            
+            **broad**
+            
+            ---
+            
+            ---
+            
+            **narrow**
+            
+            ---
+            
+            ---
+            
+            **11**
+            
+            ---
+            
+            **broad**
+            
+            ---
+            
+            ---
+            
+            **narrow**
+            
+            ---
+            
+            ---
+            
+            **12**
+            
+            ---
+            
+            **broad**
+            
+            ---
+            
+            ---
+            
+            **narrow**
+            
+            ---
+            
+            ---
+            
+            **13**
+            
+            ---
+            
+            **broad**
+            
+            ---
+            
+            ---
+            
+            **narrow**
+            
+            ---
+            
+            ---
+            
+            **14**
+            
+            ---
+            
+            **broad**
+            
+            ---
+            
+            ---
+            
+            **narrow**
+            
+            ---
+            
+            ---
+            
+            **?**
+            
+            ---
+            
+            də ˈnoːɾdəʋɪnt ɛn də ˈzɔn | ɦɑdə ən dɪsˈkʏsi oːvəɾ də ˈfɾaːχ | ˈʋi fɑn ɦʏn ˈtʋeːə də
+            
+            ---
+            
+            ˈstɛɾəkstə ʋɑs | tun əɾ ˈjœyst imɑnt foːɾˈbɛi kʋam | di ən ˈdɪkə
+            
+            ---
+            
+            ˈʋɑɾmə ˈjɑs aːnɦɑt ‖ zə spɾaːkə ˈɑf | dɑt ʋi də foːɾbɛiχɑŋəɾ dəɾtu zʌu
+            
+            ---
+            
+            ˈkɾɛiχə zəɲ ˈjɑs œy tə tɾɛkə | də ˈstɛɾkəkstə zʌu zɛin ‖ də
+            
+            ---
+            
+            ˈnoːɾdəʋɪnt bəχɔn œyt ˈɑlə mɑχ tə ˈblaːzə ‖ maːɾ u ˈɦɑɾdəɾ i ˈblis |
+            
+            ---
+            
+            dɛs tə ˈdɪχtəɾ də foːɾbɛiχɑŋəɾ zəɲ jɑz ɔm zɪχ ˈɦeːn tɾɔk ‖ tənˈslɔtə
+            
+            ---
+            
+            χɑf tə noːɾdəʋɪnt ət maːɾ ˈɔp ‖ fəɾˈfɔlχənz bəχɔn də ˈzɔn | ˈkɾɑχtəχ
+            
+            ---
+            
+            tə ˈstɾaːlə | ɛn ɔˈmɪdələk daːɾɔp | tɾɔk tə foːɾbɛiχɑŋəɾ zəɲ ˈjɑz œyt
+            
+            ---
+            
+            ‖ də ˈnoːɾdəʋɪnt kɔn tun slɛχs bəˈʔaːmə | dɑtə ˈzɔn də ˈstɛɾəkstə ʋɑs
+            
+            ---
+            
+            ---
+            
+            15
+            
+            ---
+            
+            ---
+            
+            16a
+            
+            ---
+            
+            ---
+            
+            16b
+            
+            ---
+            
+            ---
+            
+            16c
+            
+            ---
+            
+            nùːɖanˌvɪndən ɔ ˈsuːlən ˈtvɪ́stadə əŋ ˈɡɔŋ ɔm vɛm ɑv ˈdɔm sɔm vɑ ˈstàɹkast ‖ ˈʝɵst
+            
+            ---
+            
+            ˈdoː kɔm ən ˈvàndɹaɹə ˈvɛːɡən ˈfɹam | ˈɪ̀nˌsveːpt i ən ˈvaɹm ˈkàpa ‖ dɔm kɔm doː øvəˈɹɛns ɔm | at dɛn sɔm ˈfœ̞ʂʈ kɵndə fo vàndɹaɹən at tɑ ˈɑːv sɛʝ ˈkàpanm han skɵlə ˈànˌseːs vɑɹa ˈstàrkarə ɛn dɛn ˈàndɹa ‖ doː ˈblóːstə ˈnùːɖanˌvɪndən so ˈhoːʈ han ˈnɔ̀nˌsɪn ˈkɵ̀ndə | mɛn ʝʉ̟
+            
+            ---
+            
+            ˈhòːɖaɹə han ˈblòːstə | dɛstʊ ˈɛ̀ːtarə ˈèːptə ˈvàndrarən ˈkàpan ˈɔm səʝ | ɔ tɪ ˈsist gɑv ˈnùɖan | vɪndən ˈɵp fœ̞ˈʂøːkət ‖ doː lɛːt ˈsuːlən sina ˈstɹòːlaɹ ˈɧiːna ˈheːlt ˈvarmt | ɔ ˈʝènast tuɡ ˈvàndɹaɹən ˈɑːv sɛʝ ˈkàpan | ɔ so vɑ ˈnùːɖanˌvɪndən ˈtvɵ̀ŋən at ˈèːrˌɕɛna | at ˈsuːlən
+            
+            ---
+            
+            vɑ dɛn ˈstàrkastə ɑv dɔm ˈtvoː
+            
+            ---
+            
+            ---
+            
+            **17**
+            
+            ---
+            
+            ---
+            
+            **18a**
+            
+            ---
+            
+            ---
+            
+            **18b**
+            
+            ---
+            
+            ˈruaħ hattsaˈfon | vehaʃʃemeʃ | hitvakeˈħu beneˈhem | ˈmi meˈhem ħaˈzak joˈter ‖ ɡameˈru
+            
+            ---
+            
+            | ki ʔet hannitsaˈħon | jinˈħal | ˈmi ʃejjatsˈlijaħ lifˈʃot meˈʕal ʕoˈver ˈʔoraħ ʔet beɡaˈdav ʔel ɡuˈfo ‖ ˈʔaz | histaˈʕer ʕaˈlav haˈruaħ | beˈjeter ˈʕoz | ˈʔaχ haʔaˈdam | miʃʃhehoˈsif hakˈkor leʕannoˈto | laˈvaʃ meˈʕil ʕelˈjon ʕal beɡaˈdav ‖ noˈʔaʃ mimˈmennu haˈruaħ |
+            
+            ---
+            
+            umesaˈro biˈde haʃˈʃemeʃ ‖ teħilˈla | zaˈraħ ʕaˈlav haʃˈʃemeʃ berakˈkut ‖ vehaʔaˈdam heˈsir ʔet biɡˈdo haʕelˈjon meʕaˈlav ‖ hiɡˈbir haʃˈʃemeʃ ʔet ħumˈmo | ˈʕad ʃeˈlo jaˈχol haʔaˈdam laʕaˈmod bifˈne haʃʃaˈrav | ufaˈʃat ˈʔet beɡaˈdav | veniχˈnas leˈtoχ hannaˈhar | ʃehaˈja bekirˈvat maˈkom keˈdej lirˈħots bemejˈmav
+            
+            ---
+            
+            ---
+            
+            **19a**
+            
+            ---
+            
+            ---
+            
+            **19b**
+            
+            ---
+            
+            ʊt̪ːəɾi həʋɑ ɔɾ suɾədʒ ɪs bɑt̪ pəɾ dʒʱəɡəɽ ɾəhe t̪e ki həm d̪onõ mẽ zjɑd̪ɑ bəlʋɑn kɔn
+            
+            ---
+            
+            hɛ ‖ ɪt̪ne mẽ ɡəɾəm tʃoɡɑ pɛhne ek mʊsɑfɪɾ ʊd̪ʱəɾ ɑ nɪklɑ ‖ həʋɑ ɔɾ
+            
+            ---
+            
+            suɾədʒ d̪onõ ɪs bɑt̪ pəɾ ɾɑzi ho ɡəje ki d̪onõ mẽ se dʒo pɛhle mʊsɑfɪɾ
+            
+            ---
+            
+            kɑ tʃoɡɑ ʊt̪əɾʋɑ deɡɑ ʋəhi zjɑd̪ɑ bəlʋɑn səmdʒʱɑ dʒɛse dʒɛse əpnɑ zoɾ
+            
+            ---
+            
+            bəɽhɑt̪i ɡəji ʋɛse ʋɛse mʊsɑfɪɾ əpne bəd̪ən pəɾ tʃoɡe ko ɔɾ bʱi zjɑd̪ɑ
+            
+            ---
+            
+            kəs kəɾ ləpeʈt̪ɑ ɡəjɑ ‖ ənt̪ mẽ həʋɑ ne əpni koʃɪʃ bənd̪ kəɾ d̪i ‖
+            
+            ---
+            
+            pʰɪɾ suɾədʒ t̪ezi ke sɑt̪ʰ nɪklɑ ɔɾ mʊsɑfɪɾ ne t̪ʊɾənt̪ əpnɑ tʃoɡɑ
+            
+            ---
+            
+            ʊt̪ɑɾ d̪ɪjɑ ‖ ɪs lɪje həʋɑ ko mɑnnɑ pəɽɑ ki ʊn d̪onõ mẽ suɾədʒ hi
+            
+            ---
+            
+            zjɑd̪ɑ bəlʋɑn hɛ
+            
+            ---
+            
+            ---
+            
+            **19c**
+            
+            ---
+            
+            ---
+            
+            ---
+            
+            **20**
+            
+            ---
+            
+            ---
+            
+            **21**
+            
+            ---
+            
+            ---
+            
+            **22**
+            
+            ---
+            
+            ---
+            
+            **23**
+            
+            ---
+            
+            ---
+            
+            **24**
+            
+            ---
+            
+            ---
+            
+            **25**
+            
+            ---
+            
+            ---
+            
+            **26**
+            
+            ---
+            
+
+        [Квиз по МФА (doc)](https://docs.google.com/document/d/19bF_hHuDFGjzX01ZEicN4mA8MJlHKRNSQaAZ6Fz_eo8/edit?usp=sharing)
+
+        [Квиз по МФА (gsheet)](https://docs.google.com/spreadsheets/d/1QL-HCcDg8jv8kGKOBtEGiNg5waRyGUTiK3DDgf6KpOA/edit?usp=sharing)
+
+        [Квиз по МФА (doc2)](https://docs.google.com/document/d/1Y1BFapn66PkJ2Yi-XbbYTTpwY69xPDkAB-bXV75kJzg/edit?usp=sharing)
+
+        [AFI](https://docs.google.com/spreadsheets/d/1TZ4pvVbKtxGTVRWnEiuU8TZUgOikjHmYcO7JYoZgGJo/edit?usp=sharing)
     
     - Reading List
         
@@ -19873,7 +22597,96 @@ Groteske Aufklärung
         - Accept the answer and adjust your views accordingly, building upon the new knowledge but continuing to examine it.
     - 
     
-    [Worldviews](https://www.notion.so/Worldviews-cb0250a6fa114126a45146b23601384d?pvs=21)
+    * Worldviews
+        **Religious**
+
+        - **Monotheistic**
+
+        Christian
+
+        - Deistic / theistic
+        - Catholic
+        - Orthodox
+        - Protestant
+        - Restorationist
+        - Nestorian
+        - Coptic
+
+        Jewish
+
+        Islamic
+
+        - Shiite
+        - Sunni
+
+        Zoroastrian
+
+        Satanist
+
+        - **Polytheistic**
+
+        Buddhist
+
+        Hindu
+
+        Shinto
+
+        **Indifferent**
+
+        “It doen’t matter; I just want to live life”
+
+        **Agnostic**
+
+        - “All the religions are right.”
+        - “It is impossible to know.”
+        - 
+
+        **Atheistic**
+
+        - belief or non-belief in morality (from what source? as an independent reality or a human construct?
+
+        **Extrareligious/independent/nontraditional religionist**
+
+        **Other:**
+
+        - hedonism
+        - satanism
+
+        **Fundamental Questions to Be Answered by a Worldview:**
+
+        What is truth? How can I know it?
+
+        Is there a God or gods?
+
+        What is my identity?
+
+        What constitutes happiness?
+
+        Where am I from? What is my source?
+
+        What are the meaning and purpose of this life? What do I need to do?
+
+        Will I continue to exist after death? If so, in what form? What be be the nature of my continued existence?
+
+        What is my relationship to the rest of the human race?
+
+        Is there an absolute morality? How can I know it?
+
+        What are the origin and destiny of the earth?
+
+        How did the earth and the universe come about?
+
+        What is my eternal potential?
+
+        What is the destiny of those who believe differently?
+
+        Is there absolute right and wrong? If so, what defines it?
+
+        What are the relevance and importance of knowledge and learning? Which kinds of learning and the highest and most important?
+
+        What is human progress? What is my role in it?
+
+        [Worldviews](https://www.notion.so/Worldviews-cb0250a6fa114126a45146b23601384d?pvs=21)
     
     - Researchers
         
@@ -20049,7 +22862,210 @@ Groteske Aufklärung
             - phrasé
         5. Pour chaque erreur, rejouer l’unité au moins 4 fois correctement
     
-    [A Mind for Numbers](https://www.notion.so/A-Mind-for-Numbers-79bc865ae66247ac9e7159dfc38a517a?pvs=21)
+    **A Mind for Numbers**
+
+        Introductory Page
+
+        - The Law of Serendipity: Lady Luck favors the one who tries.
+
+        Foreword:
+
+        - story of Henri Poincare
+        - outline: importance of alternating breaks and intense study
+        - self-deception; ways to hold your focus and space out your practice; how to condense key ideas so you can hold them more easily in your mind
+        - promised ability to learn both more effectively and with less frustration
+
+        Preface
+
+        - 
+
+        A Note to the Reader
+
+        - 
+
+        2. Easy Does It
+
+        - focused mode vs. diffuse mode: tight vs. loose pinball machine
+        - ”don’t jump into the water before learning how to swim”
+        - don’t try to force creativity
+        - embrace confusion, then get over it
+
+        3. Learning is Creating
+
+        - example of Thomas Edison and Salvador Dali
+        - learn from errors
+        - there are deep connections between technical, scientific, and artistic creativity
+        - diffuse mode - go back and forth to master material
+        - diffuse mode activators: gym, soccer, sports, run, walk, dance, drive, draw, paint,
+
+        4. Chunking and Avoiding Illusions of Competence
+
+        - top-down learning: big picture
+        - bottom-up learning: chunking
+        - chunking process: focused attention, understanding, practice
+        - different between focused and diffuse learning
+        - organize, chunk, apply
+        - recall material outside your usual place of study
+        - review important material daily to keep it at the tip of your tongue
+
+        interleaving vs. overlearning (variety of problems in a study session, moving on after you master one area)
+
+        - (aside) - actively seek good advice
+
+        5. Preventing Procrastination
+
+        - just get started
+        - focus on the enjoyable parts of a task and the benefits of finishing
+        - set aside time for focused studies
+        - procrastination is a poison or drug that can be addictive
+
+        6. Zombies Everywhere
+
+        - 4-part cycle: cue, routine, reward, belief
+        - mental contrasting
+        - focus on process, not product
+        - Pomodoro
+        - train yourself to ignore the distraction series
+
+        7. Chunking versus Choking
+
+        - create mental “chunks”
+
+        8. Tools, Tips, and Tricks
+
+        - put yourself in a place with few interruptions
+        - ignore distracting thoughts by letting them just drift past
+        - if your attitude is troubled, reframe your focus by shifting attention from the negative to the positive
+        - realize it’s normal to sit down with a few negative thoughts about getting to work
+
+        9. Procrastination Zombie Wrap-Up
+
+        - keep track of goals in my planner to see what works and doesn’t
+        - commit yourself to certain routines and tasks each day
+        - write your planned tasks out the night before, so that your brain has time to dwell on your goals to help ensure success
+        - arrange your work into a series of small challenges and give yourself rewards
+        - delay rewards until you have finished a task
+        - watch for procrastination cues
+        - put yourself in new surroundings with few procrastination cues
+        - don’t blame external factors
+        - gain trust in your new system - work hard, relax hard, without feelings of guilt
+        - have backup plans and don’t fall apart if you relapse
+        - eat your frogs first
+
+        10. Enhancing Your Memory
+
+        - memory palace technique
+        - be creative in your memorization techniques, and disciplined as well
+        - understand before you memorize
+
+        11. More Memory Tips
+
+        - metaphors can help you learn new ideas quickly
+        - repetition is critical and helps you firm up what you want to memorize
+        - meaningful groups and abbreviations allow you to simplify and chunk
+        - stories are useful in trying to help you retain what you are trying to learn
+        - writing and speaking help with memorization
+        - exercise is critical in helping to develop new connections between neurons
+
+        12. Learning to Appreciate Your Talent
+
+        - once you truly have something mastered, you don’t have to consciously understand every step of the process every time
+        - sometimes being “slow” can have its advantages, including in creativity
+        - don’t be intimidated to work with students who grasp material more quickly than I do
+        - part of the key to creativity is being able to switch from full focus to a dreamy diffuse mode
+        - don’t force yourself to focus, just learn to want to engage in the task at hand
+        - sometimes whe you’re stuck, it helps to just move away from a problem or sleep on it, then come back to it later
+
+        13. Sculpting Your Brain
+
+        - initial failure does not need to be permanent
+        - learning to abstract key ideas can be a great source of success
+        - metaphors and physical analogies can bring together knowledge from very different spheres
+        - keep your mind open to learning new things; don’t be quick to label yourself; well-roundedness is power
+
+        14. Developing the Mind’s Eye through Equation Problems
+
+        - remeber that equations are just a way of abstracting and simplifying concepts, so learn to see their deeper meaning
+        - use your “mind’s eye”
+        - transfer: the ability to take what you learn and apply it to something else
+        - it’s important to really grasp the concept, because that will make transfer easier
+        - dn’t try to multitask
+
+        15. Renaissance Learning
+
+        - learn to learn on your own, and take responsibility for your own learning
+        - examples: Ben Carson, William Kamkwamba, Snatiago Ramon y Cajal
+        - take advantage of the opportunity to learn from great teachers
+        - go above and beyond required class material
+        - don’t pay attention to “intellectua snipers” (those who are excessively negative and prone to put you down)
+        - realize the advantages of a “slower” way of thinking - seeing the forest from the trees, noticing detail, etc.
+        - learn to use negatively-perceived qualities and harness them for learning
+
+        16. Avoiding Overconfidence
+
+        - work problems and test yourself without looking at the answers to avoid “illusions of competence”
+        - take regular looks at the “big-picture”; do “reality checks” to avoid fixation
+        - find valuable brainstorming partners, who can be blunt, critical, and who sometimes think differently than you do
+        - check and review your work regularly and at different times and in different settings
+        - “The Strength of Weak Ties”
+        - think about what equations mean, so that the math and your inuition match; see the underlying story and avoid the “plug and chug” method
+
+        17. Test Taking
+
+        - learn by testing yourselftest-preparation checklist:
+        - make a serious effort to understand the text
+        - work with classmates on homework problems and check solutions with others
+        - attempt to outline every homework problem solution before working with classmates
+        - participate actively in homework group discussions
+        - consult with the instructor or teaching assistant when having trouble with something
+        - understand all homework problems when they are handed in
+        - ask in class for explanations of homework problems that aren’t clear to me
+        - carefully go through study guides and make sure I can do everything on it
+        - attempt to outline lots of problem solutions quickly, without spending time on the algebra and calclulations
+        - go over the study guide and problems with classmates and quiz each other
+        - attend the review session and ask questions
+        - get a reasonable night’s sleep before the test
+        - hard-start-jump-to-easy technique
+        - distiguish between good worry and bad worry
+        - be excited for tests, not scared of them
+        - mindfulness: distinguish between naturally arising thoughts and emotional projections
+        - practice taking tests in realistic environments
+        - pause, shift your attention, and check answers using a big-picture perspective
+        - put yourself under stressful practice situations
+        - think about the problem before solving it
+
+        18. Unlock Your Potential
+
+        - patient persistence: working knowledgeably with your brain’s strengths and weaknesses
+        - result of weeks of consistent effort: sturdy neural structures
+        - cramming and nonstop intense focused work are sub-ideal
+        - learning is by nature hypocritical
+        - true learning is being able to put complicated ideas in simple terms
+        - know your default settings
+        - 10 main ideas:
+        1. use recall
+        2. test yourself
+        3. chunk your problems - make the solution so automatic that “it all comes up in a flash”
+        4. space your repitition
+        5. Alternate different problem-solving techniques during your practice
+        6. Take breaks
+        7. Use explanatory questioning and simple analogies
+        8. Focus
+        9. Eat your frogs first
+        10. Make a mental contrast - envision the future
+            - 10 rules of bad studying
+        11. passive rereading
+        12. letting highlights overwhelm
+        13. merely glancing at a problem’s solution and thinking you know you how to do it
+        14. waiting until the last minute to study
+        15. repeatedly solving problems of the same type that you already know how to solve
+        16. letting study sessions with friends turn into chat sessions
+        17. neglecting to read the textbook before you start working problems
+        18. not checking with your instructors to clear up points of confusion
+        19. thinking you can learn deeply when you are being constantly distracted
+        20. not getting enough sleep
+            - get good at something, and then see how you like it
+
     
     - Best Researchers
         
@@ -20120,7 +23136,25 @@ Groteske Aufklärung
         subsumption theory, advance organizers - David Ausubel
         
     
-    [Research Ideas](https://www.notion.so/Research-Ideas-fa69f85980e94e38b3beff4262e8d26f?pvs=21)
+    * [Research Ideas]()
+| x | y |
+| --- | --- |
+| éducation bien équilibrée | l'innovation |
+|  | qualité de vie, bonheur |
+|  | réussite (dans la carrière, académique, général) |
+|  | revenu |
+|  |  |
+| valeur des connaissances linguistiques |  |
+|  |  |
+| méthodes d'apprentissage | auto-enseignement |
+|  |  |
+| facteurs | compromis entre différents domaines d'étude/de vie |
+| compromis entre différents domaines d'étude/de vie | facteurs |
+|  |  |
+| facteurs | la formation des opinions |
+|  |  |
+| préférences, origine | status et mentalité d'intello |
+|  |  |
     
     - Pedagogy
         

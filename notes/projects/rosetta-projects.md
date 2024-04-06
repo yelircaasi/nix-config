@@ -2101,7 +2101,7 @@ https://github.com/RodneyShag/HackerRank_solutions
             ---
             
     
-    [Rosetta Code (make folder)](https://www.notion.so/Rosetta-Code-make-folder-a4d1689a3eeb4d78bd60e3ee4f6804ee?pvs=21)
+    Rosetta Code (make folder)
     
     - Datasets
         

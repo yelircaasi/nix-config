@@ -1139,8 +1139,183 @@ https://jaspervdj.be/hakyll/ - Haskell static site generator
 https://github.com/wick3dr0se/grimcap
 * -> [hyprland recommendations](https://wiki.hyprland.org/Useful-Utilities/)
 * -> [wayland list *********](https://arewewaylandyet.com/)
-* -> [Browser Ricing](https://www.notion.so/Browser-Ricing-55d69da80b4543f5979926bd7906f9df?pvs=21)
-* -> [Icons, Theming, Fonts](https://www.notion.so/Icons-Theming-Fonts-ced89db4476d422fb67fc9148ab9147e?pvs=21)
+* -> [Browser Ricing]()
+         https://github.com/excalith/excalith-start-page
+
+         https://userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme
+
+         - [ ]  try Selenium on:
+            - [ ]  chrome-extension://hncgkmhphmncjohllpoleelnibpmccpj/manage.html
+            - [ ]  chrome-extension://clngdbkpkpeebahjckkjfobafhncgmne/edit.html
+            - [ ]  moz-extension://fcb928ab-a898-4c47-9f85-2ff701b6e9dc/manage.html
+            - [ ]  moz-extension://ae95df29-277d-4ee3-aeb6-e4e84dfebada/manage.html
+            - [ ]  edge:  extension://clngdbkpkpeebahjckkjfobafhncgmne/manage.html
+            - [ ]  edge: extension://hncgkmhphmncjohllpoleelnibpmccpj/manage.html
+            - [ ]  https://selenium-python.readthedocs.io/installation.html
+            - [ ]  https://userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme
+
+         https://github.com/M4cs/foxify-cli
+
+         https://www.reddit.com/r/linuxquestions/comments/tfa8n6/chromium_dark_theme_on_flatpak/ 
+
+         https://github.com/akshat46/FlyingFox - work with old version of Firefox? fork old version? https://flyingfox.netlify.app/ [reddit](https://www.reddit.com/r/unixporn/comments/glbl4v/oc_its_not_normal_to_want_my_firefox_to_sit_on_my/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=10&utm_content=share_button)
+
+         https://github.com/tridactyl/tridactyl
+
+         https://github.com/muckSponge/MaterialFox → great rreference
+
+         https://github.com/openstyles/stylus
+
+         https://github.com/stylish-userstyles/stylish
+
+         https://github.com/openstyles/stylus/wiki/UserCSS
+
+         https://github.com/FirefoxBar/xStyle
+
+         [Customizing Colors - Tailwind CSS](https://tailwindcss.com/docs/customizing-colors)
+
+         - Sites to make custom CSS for:
+            - Notion
+            - GitHub
+            - gitlab
+            - stack overflow
+            - stackexchange
+            - Wikipedia
+            - not YouTube unless I get AdBlock sorted
+            - all mdbook sites
+            - all docs I use frequently - python, rust, kotlin, julIa, etc
+            - email (Gmail, Proton, etc)
+            - Discord
+            - Element
+            - Reddit
+            - Fediverse site
+            - LibGen sites, Anna’s archive
+            - BGA
+            - Overleaf
+            - google page, google docs, suite, drive
+            - teams, outlook
+            - nextcloud
+            - fsf, Linux foundation, etc
+            - 
+            
+            Apps
+            
+            - freetube
+            - 
+
+         https://addons.mozilla.org/en-US/firefox/addon/re-style/ 
+
+         https://wiki.archlinux.org/title/Firefox/Tweaks 
+
+         https://github.com/sekuji/mad-darkness
+
+         https://github.com/Arsemy/chromium-tokyonight
+
+         https://stackoverflow.com/questions/22193369/run-chrome-extensions-using-command-prompt 
+
+         https://superuser.com/questions/1540252/how-to-run-chrome-chromium-extension-from-terminal-line-extension 
+
+         → Write own extension to load stylesheets into mainstream browsers via command line
+
+         https://book.huihoo.com/creating-applications-with-mozilla/mozilla-chp-4-sect-3.html 
+
+         https://book.huihoo.com/creating-applications-with-mozilla/ 
+
+         https://www.userchrome.org/ 
+
+         https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions 
+
+         https://developer.chrome.com/docs/extensions/mv3/ 
+
+         https://chromium.googlesource.com/chromium/src.git/+/refs/heads/main/ui/native_theme/ → look into fixing
+
+         https://github.com/brave/brave-core https://github.com/brave/brave-core/tree/master/ui/webui/resources  
+
+         https://github.com/BachoSeven/startpage
+
+         https://github.com/Axenide/StartPage
+
+         https://github.com/p3nguin-kun/penguinFox 
+
+         https://github.com/p3nguin-kun/penguinFox-Librewolf
+
+         https://gitlab.com/GasparVardanyan/solarized
+
+         https://github.com/soup-bowl/Modoki-Firefox [[XFCE4] Chicago95 + Vaporvave = Awesome : unixporn](https://www.reddit.com/r/unixporn/comments/112oexs/xfce4_chicago95_vaporvave_awesome/)
+* -> [Icons, Theming, Fonts]()
+         - [ ]  Patch my own font (Conda logo, Nvidia logo) → https://github.com/ryanoasis/nerd-fonts#font-patcher
+         - **Desktop Customization**
+            - **Desktop Icon Packs**
+               - [Candy Icons](https://github.com/EliverLara/candy-icons) - An icon theme colored with sweet gradients.
+               - [Flat Remix](https://github.com/daniruiz/Flat-Remix) - Flat Remix is an icon theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.
+               - [Fluent Icon Theme](https://github.com/vinceliuice/Fluent-icon-theme) - Fluent icon theme for linux desktops.
+               - [La Capitaine Icon Theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - A macOS and Material design inspired icon theme designed to fit into most desktop environments.
+               - [Moka Icon Theme](https://snwh.org/moka) - Moka was created with simplicity in mind. With the use simple geometry & bright colours.
+               - [Numix Icon Theme](https://github.com/numixproject/numix-icon-theme) - A flat icon theme that comes in two varieties, Numix Main, and Numix circle.
+               - [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - SVG icon theme for Linux systems, based on Paper with a few extras like (hardcode-tray support, kde-color-scheme support, libreoffice icon theme, filezilla theme, smplayer themes, …) and other modifications. The theme is available for GTK and KDE.
+               - [Qogir Icon Theme](https://github.com/vinceliuice/Qogir-icon-theme) - A flat colorful design icon theme for linux desktops.
+               - [Reversal Icon Theme](https://github.com/yeyushengfan258/Reversal-icon-theme) - A colorful design icon theme for linux desktops.
+               - [Tela Icon Theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme.
+               - [WhiteSur Icon Theme](https://github.com/vinceliuice/WhiteSur-icon-theme) - MacOS Big Sur style icon theme for linux desktops.
+               - [Zafiro Icons](https://github.com/zayronxio/Zafiro-icons) - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white.
+            - **Desktop Themes**
+               - [Ant Theme](https://github.com/EliverLara/Ant) - Ant is a flat GTK theme for Ubuntu and other GNOME-based Linux desktops it comes in three varieties: vanilla, Bloody, or Dracula.
+               - [Arc Theme](https://github.com/jnsh/arc-theme) - A flat theme with transparent elements.
+               - [Catppuccin](https://github.com/catppuccin) - Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes.
+               - [Dracula](https://draculatheme.com/gtk) - A dark theme using the awesome Dracula color pallete.
+               - [Flat Remix](https://github.com/daniruiz/Flat-Remix-GTK) - Flat Remix is a GTK application theme inspired by material design.
+               - [Graphite](https://github.com/vinceliuice/Graphite-gtk-theme) - Graphite GTK theme.
+               - [Gruvbox](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme) - A GTK theme based on the Gruvbox colour palette.
+               - [Kimi](https://github.com/EliverLara/Kimi) - Kimi is a light Gtk3.20+ theme.
+               - [Layan](https://github.com/vinceliuice/Layan-gtk-theme) - Layan is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Budgie, etc.
+               - [Material Ocean Theme](https://github.com/material-ocean/material-ocean) - A material design theme with oceanic colors(GTK, QT).
+               - [Mojave GTK Theme](https://github.com/vinceliuice/Mojave-gtk-theme) - Mojave is a Mac OSX like theme for GTK 3, GTK 2 and GNOME-Shell which supports GTK 3 and GTK 2 based desktop environments like GNOME, Pantheon, XFCE, Mate, etc.
+               - [Nordic](https://github.com/EliverLara/Nordic) - Dark Gtk3.20+ theme created using the awesome Nord color pallete.
+               - [Orchis theme](https://github.com/vinceliuice/Orchis-theme) - Orchis is a Material Design theme for GNOME/GTK based desktop environments.
+               - [Qogir](https://github.com/vinceliuice/Qogir-theme) - Qogir is a flat Design theme for GTK.
+               - [Sweet](https://github.com/EliverLara/Sweet) - Light and dark colorful Gtk3.20+ theme.
+               - [WhiteSur GTK Theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS Big Sur like theme for GNOME desktops.
+         - Font management
+            - [FIGlet](https://github.com/cmatsuoka/figlet) - Not exactly a font manager, but a nice program for making large letters out of ordinary text; an astonishing number of different fonts is available.
+            - [toilet](https://github.com/cacalabs/toilet) - A program that tries to improve `FIGlet`; can load FIGlet fonts; supports Unicode input and output, colour fonts and output, and various output formats, including HTML, IRC and ANSI; uses `libcaca` to produce nice textual effects.
+         - GTK Themes, Icons, etc.
+            
+            https://www.erikdubois.be/listing/ 
+            
+            https://www.erikdubois.be/downloads/ 
+            
+            https://github.com/vinceliuice/Fluent-gtk-theme
+            
+            https://github.com/vinceliuice/Fluent-icon-theme
+            
+
+         > fonts from Cneude
+
+         https://gradience.readthedocs.io/en/latest/ 
+
+         [FontForge](https://fontforge.github.io/) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux.
+
+         [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - This script fixes hardcoded tray icons in Linux by automatically detecting your default theme, the right icon size, the hard-coded applications, the right icons for each indicator and fix them.
+
+         - **`163⭐`**  **`15🍴`**[google-font-installer](https://github.com/lordgiotto/google-font-installer)) - Download and install Google Web Fonts on your local machine.
+
+         [Cursor themes - ArchWiki](https://wiki.archlinux.org/title/Cursor_themes)
+
+         [How to change mouse cursor theme? : i3wm](https://www.reddit.com/r/i3wm/comments/3su58i/how_to_change_mouse_cursor_theme/)
+
+         https://github.com/tsujan/Kvantum
+
+         [How to Install Nerd Fonts on Linux - ByteXD](https://bytexd.com/how-to-install-nerd-fonts-on-linux/)
+
+         [Flatpak App Changing Cursor Theme And Size (Is This Normal Behavior?) : flatpak](https://www.reddit.com/r/flatpak/comments/rxnyh7/flatpak_app_changing_cursor_theme_and_size_is/)
+
+         https://www.reddit.com/r/neovim/comments/13vudj5/what_is_this_font_used_from_the_everforest_repo 
+
+         Terminess Nerd Font
+
+         Iosevka, Source Sans Pro
+
+         *** https://github.com/loichyan/nerdfix
 * -> [awesome-ricing](https://github.com/fosslife/awesome-ricing)
 * ( ) [](https://github.com/nickgerace/gfold)
 * ( ) [](https://github.com/alex35mil/NeoHub)

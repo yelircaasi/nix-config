@@ -58,7 +58,7 @@
 * ( ) [meli](https://git.meli.delivery/meli/meli) - BSD/Linux terminal email client with support for multiple accounts and Maildir / mbox / notmuch / IMAP / JMAP.
 * ( ) [nmail](https://github.com/d99kris/nmail) - nmail is a console-based email client for Linux and macOS with a user interface similar to alpine / pine.
 * ( ) [pymailgen](https://github.com/toolleeo/pymailgen) - Starting from the content of a CSV file and a template text file, pymailgen generates a list of emails to be sent out using a command-line SMTP client.
-* ( ) [skiff](https://skiff.com/ -  discussed [here](https://www.notion.so/Communication-Social-f45cf2d271c24674952c39b6bae0eb62?pvs=21) (along with Proton)
+* ( ) [skiff](https://skiff.com/ -  discussed [here](<find video>) (along with Proton)
 * ( ) [sup](https://github.com/sup-heliotrope/sup) - MUA written in Ruby; specifically developed for accounts with "a lot of emails"; nice thread-based presentation.
 * ( ) [tmpmail](https://github.com/sdushantha/tmpmail) - A command line utility written in POSIX sh that allows you to create a temporary email address and receive emails to the temporary email address.
 

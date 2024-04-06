@@ -179,7 +179,7 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
 * ( ) [clock-cli-rs](https://github.com/TianyiShi2001/clock-cli-rs)
 *### Clock
 * ( ) [cliclock](https://github.com/nbyouri/cliclock)
-* ( ) [clock scripts](https://www.notion.so/Using-or-Going-to-Try-2be75f392b1a418dba6c9c8e3768b203?pvs=21)
+* ( ) [clock scripts]()
 * ( ) [tty-clock](https://github.com/xorg62/tty-clock)
 *### Pomodoro
 * ( ) [simple script](https://gist.github.com/bashbunni/3880e4194e3f800c4c494de286ebc1d7) - [My CLI Pomodoro is Better Than Yours](https://youtu.be/GfQjJBtO-8Y)

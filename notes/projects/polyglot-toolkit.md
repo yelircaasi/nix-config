@@ -498,7 +498,7 @@ https://www.analyticsvidhya.com/blog/2020/08/top-4-sentence-embedding-techniques
 
 https://openreview.net/forum?id=SyK00v5xx
 
-[Language-agnostic BERT Sentence Embedding](https://www.notion.so/Language-agnostic-BERT-Sentence-Embedding-2dc6bab8ee67467ab57fb5db8fde3bc3?pvs=21)
+Language-agnostic BERT Sentence Embedding
 
 https://huggingface.co/setu4993/LaBSE
 
@@ -597,7 +597,7 @@ https://www.google.com/search?q=transformers+for+sequence+alignment&ie=UTF-8&oe=
     
     [A complete guide to transfer learning from English to other Languages using Sentence Embeddings BERT Models](https://towardsdatascience.com/a-complete-guide-to-transfer-learning-from-english-to-other-languages-using-sentence-embeddings-8c427f8804a9) 
     
-    [Language-agnostic BERT Sentence Embedding](https://www.notion.so/Language-agnostic-BERT-Sentence-Embedding-2dc6bab8ee67467ab57fb5db8fde3bc3?pvs=21)
+    Language-agnostic BERT Sentence Embedding
     
 - Existing Aligners
     - nltk
@@ -797,7 +797,7 @@ https://www.google.com/search?q=transformers+for+sequence+alignment&ie=UTF-8&oe=
     
 - Data Sources, Corpora
     
-    → [https://www.notion.so/isaacriley/0-c52468cde8624b45a7858083cede5914](https://www.notion.so/c52468cde8624b45a7858083cede5914?pvs=21) 
+    → Recursos por idioma
     
     - [OPUS Corpus](https://opus.nlpl.eu/)
         - OPUS OpenSubtitles
@@ -1648,7 +1648,7 @@ does HFCC approach gain from mapping not to a single <UNK> token, but instead to
     
     **[Word Alignment by Fine-tuning Embeddings on Parallel Corpora](https://arxiv.org/abs/2101.08231)**
     
-    **[¡¡Atención para las Redes Neuronales, Claramente Explicadas!!!](https://www.notion.so/Scratch-a73e54b64dc04d50b797cb1347cd18f7?pvs=21)**
+    ¡¡Atención para las Redes Neuronales, Claramente Explicadas!!!
     
     https://www.researchgate.net/figure/Comparison-of-the-proposed-algorithm-with-Gale-and-Church-algorithm-for-a-text-where-the_fig2_1871685 
     
@@ -2142,13 +2142,6 @@ Name ideas: GrecRomancer (from Necromancer
 
 To do: Divide into smaller sub-projects.
 
-# Data Sources
-
-[Podium Arts](https://www.notion.so/Podium-Arts-0299f8f55c8249f9b687b84adac8a502?pvs=21)
-
-[Latinitium](https://www.notion.so/Latinitium-e56d01c16f7d464a896c941edda67ebc?pvs=21)
-
-[Latinum](https://www.notion.so/Latinum-eababad94cfb40f5a659255b6f187d4f?pvs=21)
 
 # Data Ideas
 
@@ -2191,7 +2184,7 @@ Align at word level by pre-trained ASR:
     - [ ]  **[FORCED ALIGNMENT WITH WAV2VEC2](https://pytorch.org/audio/main/tutorials/forced_alignment_tutorial.html)**
     - [ ]  [Audio-to-text alignment for speech recognition with very limited resources](http://www.xavieranguera.com/papers/IS2014_phonealignment.pdf)
     - [ ]  **Text-to-Speech Alignment for Imperfect Transcriptions**
-    - [ ]  [ALIGNMENT OF SPEECH TO HIGHLY IMPERFECT TEXT TRANSCRIPTIONS](https://www.notion.so/grecromancer-Classics-TTS-888e80b8bc28417d9c1b204186dd0864?pvs=21)
+    - [ ]  ALIGNMENT OF SPEECH TO HIGHLY IMPERFECT TEXT TRANSCRIPTIONS
     - [ ]  [Weakly-supervised text-to-speech alignment confidence measure](https://aclanthology.org/C16-1192.pdf)
     - [ ]  https://github.com/as-ideas/DeepForcedAligner
     - [ ]  **[NeuFA: Neural Network Based End-to-End Forced Alignment with Bidirectional Attention Mechanism](https://arxiv.org/abs/2203.16838)**

@@ -226,7 +226,7 @@
 * ( ) [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Music player from GNOME.
 * ( ) [Strawberry](https://www.strawberrymusicplayer.org/) - Strawberry is a fork of Clementine aimed at music collectors and audiophiles. It’s written in C++ using the Qt toolkit.
 * ( ) [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) - Watch torrent movies instantly.
-* ( ) [Tauon Music Box](https://www.notion.so/Using-or-Going-to-Try-2be75f392b1a418dba6c9c8e3768b203?pvs=21)
+* ( ) [Tauon Music Box]()
 * ( ) [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.
 #### Radio
 - [RadioTray-NG](https://github.com/ebruck/radiotray-ng) - An Internet radio player for Linux.

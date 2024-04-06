@@ -210,10 +210,14 @@
     
 - shortcuts
     
-    [Understand Vim Mappings and Create Your Own Shortcuts! – all drops](https://alldrops.info/posts/vim-drops/2018-05-15_understand-vim-mappings-and-create-your-own-shortcuts/) [neovim - How can I configure shortcut keys in all modes of vim? - Super User](https://superuser.com/questions/1702308/how-can-i-configure-shortcut-keys-in-all-modes-of-vim) [(3) Can you use "chords" or "hyper keys" in Vim? : vim](https://www.reddit.com/r/vim/comments/iqumac/can_you_use_chords_or_hyper_keys_in_vim/) [Vim Keyboard Shortcuts](https://scaron.info/blog/vim-keyboard-shortcuts.html) [VIM Keyboard Shortcuts Cheatsheet - Make Tech Easier](https://www.maketecheasier.com/cheatsheet/vim-keyboard-shortcuts/)
+    [Understand Vim Mappings and Create Your Own Shortcuts! – all drops](https://alldrops.info/posts/vim-drops/2018-05-15_understand-vim-mappings-and-create-your-own-shortcuts/) 
+    [neovim - How can I configure shortcut keys in all modes of vim? - Super User](https://superuser.com/questions/1702308/how-can-i-configure-shortcut-keys-in-all-modes-of-vim) 
+    [(3) Can you use "chords" or "hyper keys" in Vim? : vim](https://www.reddit.com/r/vim/comments/iqumac/can_you_use_chords_or_hyper_keys_in_vim/) [Vim Keyboard Shortcuts](https://scaron.info/blog/vim-keyboard-shortcuts.html) 
+    [VIM Keyboard Shortcuts Cheatsheet - Make Tech Easier](https://www.maketecheasier.com/cheatsheet/vim-keyboard-shortcuts/)
     
 - [*[see for key shortcuts] ecosse3/nvim: A non-minimal Neovim config built to work most efficiently with Frontend Development - React & Vue.js](https://github.com/ecosse3/nvim)
-- [Reddit - I made NVIM work with VSCode keybindings](https://www.reddit.com/r/neovim/comments/vuh7ky/i_made_nvim_work_with_vscode_keybindings/) [Thread - **Remapping <ESC> in neovim**](https://www.notion.so/Scratch-a73e54b64dc04d50b797cb1347cd18f7?pvs=21)
+- [Reddit - I made NVIM work with VSCode keybindings](https://www.reddit.com/r/neovim/comments/vuh7ky/i_made_nvim_work_with_vscode_keybindings/) 
+- Thread - **Remapping <ESC> in neovim**
 - other relevant tools
     
     [https://github.com/atanunq/viu](https://github.com/atanunq/viu) [https://www.arewesixelyet.com/](https://www.arewesixelyet.com/) [https://github.com/MordechaiHadad/bob](https://github.com/MordechaiHadad/bob) [https://github.com/returntocorp/semgrep](https://github.com/returntocorp/semgrep) [treefmt](https://numtide.github.io/treefmt/) [https://gist.github.com/mlow/e381292da7521561fe723ac4bdc59275](https://gist.github.com/mlow/e381292da7521561fe723ac4bdc59275) (nvim dockerfile) [https://gist.github.com/mlow/e381292da7521561fe723ac4bdc59275](https://gist.github.com/mlow/e381292da7521561fe723ac4bdc59275) nvim Dockerfile
@@ -224,11 +228,11 @@
     
 - TeX
     
-    [https://github.com/anufrievroman/vim-tex-kawaii](https://github.com/anufrievroman/vim-tex-kawaii) [How I take notes as a Math major using Vim + LaTeX How I take notes as a Math major using Vim + LaTeX How I take notes as a Math major using Vim + LaTeX](https://youtu.be/DOtM1mrWjUo) [Reddit - Using Neovim, latex, and a terminal pdf-viewer](https://www.reddit.com/r/neovim/comments/11xakb9/using_neovim_latex_and_a_terminal_pdfviewer/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=10&utm_content=share_button) [add command ToPDF · jdhao/nvim-config@33270f3](https://github.com/jdhao/nvim-config/commit/33270f32579672e43c8b6f8d5b64ef0e4e99d20e) [Supercharged LaTeX using Vim/Neovim, VimTeX, and snippets | ejmastnak](https://www.ejmastnak.com/tutorials/vim-latex/intro/) [vim-latex-live-preview - Vim Awesome](https://vimawesome.com/plugin/vim-latex-live-preview) [**Sessions and Markdown in Lua Config of NeoVim for Writing LaTeX**](https://www.youtube.com/watch?v=RZArcHFMUnY) [emakman/neovim-latex-previewer: A LaTeX Previewer for Neovim](https://github.com/emakman/neovim-latex-previewer) [(2) Latex: vim or neovim : vim](https://www.reddit.com/r/vim/comments/y5nk1t/latex_vim_or_neovim/) [LaTeX in NeoVim](https://youtu.be/HVcTPeitxmw)
+    [https://github.com/anufrievroman/vim-tex-kawaii](https://github.com/anufrievroman/vim-tex-kawaii) 
+    [How I take notes as a Math major using Vim + LaTeX How I take notes as a Math major using Vim + LaTeX How I take notes as a Math major using Vim + LaTeX](https://youtu.be/DOtM1mrWjUo) [Reddit - Using Neovim, latex, and a terminal pdf-viewer](https://www.reddit.com/r/neovim/comments/11xakb9/using_neovim_latex_and_a_terminal_pdfviewer/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=10&utm_content=share_button) [add command ToPDF · jdhao/nvim-config@33270f3](https://github.com/jdhao/nvim-config/commit/33270f32579672e43c8b6f8d5b64ef0e4e99d20e) [Supercharged LaTeX using Vim/Neovim, VimTeX, and snippets | ejmastnak](https://www.ejmastnak.com/tutorials/vim-latex/intro/) [vim-latex-live-preview - Vim Awesome](https://vimawesome.com/plugin/vim-latex-live-preview) [**Sessions and Markdown in Lua Config of NeoVim for Writing LaTeX**](https://www.youtube.com/watch?v=RZArcHFMUnY) [emakman/neovim-latex-previewer: A LaTeX Previewer for Neovim](https://github.com/emakman/neovim-latex-previewer) [(2) Latex: vim or neovim : vim](https://www.reddit.com/r/vim/comments/y5nk1t/latex_vim_or_neovim/) [LaTeX in NeoVim](https://youtu.be/HVcTPeitxmw)
     
 - Jupyter
     
-    → see [here](https://www.notion.so/7bd88a09334c44e783f38937f9377c31?pvs=21)
     
 - other langs
     
@@ -640,8 +644,6 @@ pyde, gode, rde, etc
 [PSA: Now you can set global highlight groups (ie. Normal) using Lua : r/neovim](https://www.reddit.com/r/neovim/comments/sihuq7/psa_now_you_can_set_global_highlight_groups_ie/)
 
 [Advent of Code in neovim : neovim](https://www.reddit.com/r/neovim/comments/18b0jww/advent_of_code_in_neovim/)
-
-[Neovim](https://www.notion.so/cbee9334d30e468bbd0094b4e708c996?pvs=21)
 
 [How do ya'll run, execute and debug programs like in an IDE? : neovim](https://www.reddit.com/r/neovim/comments/15bztcj/how_do_yall_run_execute_and_debug_programs_like/)
 

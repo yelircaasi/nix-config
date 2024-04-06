@@ -25,5 +25,5 @@ plt: how do RosettaCode, XinY, Hyperpolyglot, X by Example, etc. do it?
 
 proj [Nixide: Uses, Dosage, Side Effects, FAQ - MedicinesFAQ](https://www.medicinesfaq.com/brand/nixide)
 proj [floresta - Wiktionary, the free dictionary](https://en.wiktionary.org/wiki/floresta)
-proj [nebokrai (horizon, +consilium, ganttouchthis, taskifist, roadmapper)](https://www.notion.so/nebokrai-horizon-consilium-ganttouchthis-taskifist-roadmapper-2d3a6d104fb348c0b63b58087aada71b?pvs%3D21)
+proj [nebokrai (horizon, +consilium, ganttouchthis, taskifist, roadmapper)]()
 proj paralllel-text-finisher explicit_latex_head explicit_latex_body explicit_latex_full

@@ -2,7 +2,7 @@
 
 ## References
 
-[Vim Reference (book)](https://www.notion.so/Control-Center-9a8902a16a57486fac35c714d62fe583?pvs=21)
+Vim Reference (book)
 
 ## Reading List
 

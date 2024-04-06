@@ -12,6 +12,89 @@ https://github.com/hyprland-community/awesome-hyprland
 https://nwg-piotr.github.io/nwg-shell/
 
 ## Sort
+- ******** [](https://www.youtube.com/@unixbhaskar/videos) *********
+
+[MEDevel.com](https://medevel.com/)
+
+[Track Awesome List Updates Daily](https://www.trackawesomelist.com/)
+
+[Feed | StackShare](https://stackshare.io/feed)
+
+[https://softwarerecs.stackexchange.com/](https://softwarerecs.stackexchange.com/)
+
+The New Stack
+
+- ** [](https://uses.tech/)
+
+[Uses - Just Some Dev](https://www.iamdeveloper.com/pages/uses/)
+
+[https://github.com/wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
+
+[https://github.com/tvanantwerp/awesome-uses](https://github.com/tvanantwerp/awesome-uses)
+
+[Software I use as a programmer 👩‍💻 #technology #programming #software #career #productivity](https://youtube.com/shorts/TBXZNx4S8vk?feature%3Dshare)
+
+[https://trolologuy.github.io/useful-tools/](https://trolologuy.github.io/useful-tools/)
+
+[The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+
+[DT Command Line Playlist](https://www.youtube.com/playlist?list%3DPL5--8gKSku174EnRTbP4DzU2W80Q1vqtm)
+
+[Code Resources | Matthew Rhone dot Dev](https://matthewrhone.dev/resources/)
+
+[https://github.com/axyl-os/axyl-iso/releases](https://github.com/axyl-os/axyl-iso/releases)
+
+[https://gitlab.com/garuda-linux/](https://gitlab.com/garuda-linux/)
+
+[https://github.com/hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)
+
+[https://github.com/Correia-jpv/fucking-awesome-cli-apps](https://github.com/Correia-jpv/fucking-awesome-cli-apps)
+
+[https://github.com/kodsnack/awesome-tools](https://github.com/kodsnack/awesome-tools)
+
+[https://github.com/areknawo/awesome-productivity-software](https://github.com/areknawo/awesome-productivity-software)
+
+[https://github.com/jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)
+
+[https://github.com/ishanvyas22/awesome-open-source-systems](https://github.com/ishanvyas22/awesome-open-source-systems)
+
+[https://github.com/jhasse/clicolors](https://github.com/jhasse/clicolors)
+
+[https://github.com/iruzo/pxmenu](https://github.com/iruzo/pxmenu)
+
+[https://no-color.org/](https://no-color.org/)
+
+[LinuxLinks](https://www.linuxlinks.com/)
+
+[HPR In-Depth Series: Lightweight Apps](https://www.google.com/url?q=http://hackerpublicradio.org/series.php?id%3D11)
+
+[https://github.com/Barbaross93/Muspelheim](https://github.com/Barbaross93/Muspelheim)
+
+[The Open Source software I'm using in 2023 - Part 1!](https://www.youtube.com/watch?v%3DoLrwk07zZ0Y)
+
+[https://www.youtube.com/@AwesomeOpenSource](https://www.youtube.com/@AwesomeOpenSource)
+
+[(2) Vim-based desktop apps : vim](https://www.reddit.com/r/vim/comments/zacm9i/vimbased_desktop_apps/)
+
+[https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list)
+
+[Big Pile of Vim-like](https://vim.reversed.top/)
+
+- [ ]  → look at KDE Apps (and Gnome and [](https://www.xfce.org/projects)
+
+[http://suckless.org/other_projects/](https://www.google.com/url?q=http://suckless.org/other_projects/)
+
+[https://r-pufky.github.io/docs/index.html](https://r-pufky.github.io/docs/index.html)
+
+[https://gist.github.com/sts10/daadbc2f403bdffad1b6d33aff016c0a](https://gist.github.com/sts10/daadbc2f403bdffad1b6d33aff016c0a)
+
+[https://golangexample.com/](https://golangexample.com/)
+
+[https://www.libhunt.com/](https://www.libhunt.com/)
+
+**[OPEN SOURCE alternatives to the MOST POPULAR productivity apps!](https://www.youtube.com/watch?v%3DP8accXNcwjs)**
+
+[https://github.com/catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) → see list of software
 https://github.com/Haruno19/fuzzy-c-means-processing
 https://github.com/Haruno19/c-halloc
 linux https://learnbyexample.gumroad.com/l/cli_coreutils 

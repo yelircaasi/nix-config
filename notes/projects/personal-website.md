@@ -18,8 +18,7 @@ Want something better than Hostinger
     - [ ]  matrix types
     - [ ]  proglang table
     - [ ]  scalable webpage graphic of family tree of programming languages
-        - Links
-            - **[The Briefest Genealogy of Programming Languages](http://www.martinrinehart.com/pages/genealogy-programming-languages.html)**
+        - Links            - [The Briefest Genealogy of Programming Languages](http://www.martinrinehart.com/pages/genealogy-programming-languages.html)
             - Genealogy of Programming Languages.pdf on Drive
             - https://en.wikipedia.org/wiki/Generational_list_of_programming_languages
             - https://en.wikipedia.org/wiki/History_of_programming_languages
@@ -30,9 +29,7 @@ Want something better than Hostinger
 - Study Notes (port from LaTeX versions)
 
 ## Learning
-
-- [ ]  [Build and deploy a portfolio website [Full Tutorial Course]](https://www.youtube.com/watch?v=_xkSvufmjEs)
-- [ ]  look at all examples in list of personal websites
-- [ ]  read https://www.codingflicks.com/2020/08/simple-website-design-using-html-and-css.html
-- [ ]  look at web books for notes
-- [ ]  look into mathjax, hugo, jekyll, and [unbuch](https://github.com/mrtzh/unbuch) for static site generation
+- [ ]  [Build and deploy a portfolio website [Full Tutorial Course]](https://www.youtube.com/watch?v=_xkSvufmjEs)- [ ]  look at all examples in list of personal websites
+     - [ ]  read https://www.codingflicks.com/2020/08/simple-website-design-using-html-and-css.html
+     - [ ]  look at web books for notes
+     - [ ]  look into mathjax, hugo, jekyll, and [unbuch](https://github.com/mrtzh/unbuch) for static site generation

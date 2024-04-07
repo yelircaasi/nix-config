@@ -61,9 +61,7 @@ import Data.Maybe (catMaybes)
 main :: IO ()
 main = do
   jsonContent <- BS.readFile "yourFile.json"
-  case decode jsonContent of
-    Nothing -> putStrLn "Failed to parse JSON data."
-    Just appData -> processAppData appData
+  case decode jsonContent of* Nothing -> putStrLn "Failed to parse JSON data."* Just appData -> processAppData appData
 
 processAppData :: AppData -> IO ()
 processAppData appData = do

@@ -2,13 +2,11 @@
 
 Elsie Guix
 
-
-[ ] read docs
-[ ] install qutebrowser
-[ ] install zathura
+* [ ] read docs
+     * [ ] install qutebrowser
+     * [ ] install zathura
 Old - Alpine
-Install Nix
-https://www.macktronics.com/nixpkg-alpine.html
+Install Nix* https://www.macktronics.com/nixpkg-alpine.html
 
 apk add curl
 
@@ -39,8 +37,7 @@ sh <(curl -L <https://nixos.org/nix/install>) --daemon
 
 
 #https://byteshiva.medium.com/building-a-simple-web-server-with-nix-flake-b755a25faf2b
-
-[GNU Guix, транзакційний менеджер пакунків і дистрибутив — GNU Guix]https://guix.gnu.org/uk/)
+* [GNU Guix, транзакційний менеджер пакунків і дистрибутив — GNU Guix]https://guix.gnu.org/uk/)
 
 
 

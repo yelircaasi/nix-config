@@ -1,12 +1,8 @@
 # Pictrix and Clavix Shared Notes
-
-https://github.com/oxalica/nil - nix language server in rust
-
-https://github.com/nix-community/rnix-lsp - WIP language server for Nix (in Rust)
-
-https://github.com/nix-community/nixd - Nix language server (in C++)
-
-https://github.com/nerdypepper/statix - static linter (in Rust)
+* https://github.com/oxalica/nil - nix language server in rust
+* https://github.com/nix-community/rnix-lsp - WIP language server for Nix (in Rust)
+* https://github.com/nix-community/nixd - Nix language server (in C++)
+* https://github.com/nerdypepper/statix - static linter (in Rust)
 
 good list of apps: https://github.com/lra/mackup/, starship, etc
 

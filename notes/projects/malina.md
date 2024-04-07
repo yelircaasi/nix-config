@@ -12,52 +12,31 @@
 2) Alpine Server (no DE)
  read: https://github.com/garrym/raspberry-pi-alpine 
 
-
-https://blog.svedr.in/posts/how-to-run-an-arm-vm-on-a-x86-host/ 
+* https://blog.svedr.in/posts/how-to-run-an-arm-vm-on-a-x86-host/ 
 
 → https://duckduckgo.com/?q=run+arm64+vm&ia=web 
-
-https://www.graalvm.org/latest/reference-manual/native-image/ 
-
-https://graalvm.github.io/native-build-tools/latest/gradle-plugin.html 
-
-https://www.graalvm.org/22.0/reference-manual/native-image/ARM64/ 
-
-https://bell-sw.com/blog/static-images-with-liberica-native-image-kit/ 
-
-https://bell-sw.com/announcements/2021/10/22/the-new-liberica-native-image-kit-21-3-based-on-liberica-17-and-11-is-out/ 
-
-https://bell-sw.com/blog/static-images-with-liberica-native-image-kit/ 
-
-https://hub.docker.com/r/bellsoft/liberica-openjdk-alpine-musl 
-
-https://stmxcsr.com/micro/raspberry-signal-client.html 
-
-https://github.com/bell-sw/Liberica/blob/master/docker/repos/liberica-openjre-alpine/17/Dockerfile 
-
-https://www.docker.com/blog/multi-arch-images/ 
-
-https://stmxcsr.com/micro/raspberry-signal-client.html 
-
-https://github.com/lwesterhof/semaphore
-
-https://signald.org/  https://gitlab.com/signald/signald 
-
-https://erlangen-sheppy.medium.com/setting-up-signal-cli-on-linux-7831b27c0790 
-
-https://github.com/Sidneys1/signal-bot 
+* https://www.graalvm.org/latest/reference-manual/native-image/ 
+* https://graalvm.github.io/native-build-tools/latest/gradle-plugin.html 
+* https://www.graalvm.org/22.0/reference-manual/native-image/ARM64/ 
+* https://bell-sw.com/blog/static-images-with-liberica-native-image-kit/ 
+* https://bell-sw.com/announcements/2021/10/22/the-new-liberica-native-image-kit-21-3-based-on-liberica-17-and-11-is-out/ 
+* https://bell-sw.com/blog/static-images-with-liberica-native-image-kit/ 
+* https://hub.docker.com/r/bellsoft/liberica-openjdk-alpine-musl 
+* https://stmxcsr.com/micro/raspberry-signal-client.html 
+* https://github.com/bell-sw/Liberica/blob/master/docker/repos/liberica-openjre-alpine/17/Dockerfile 
+* https://www.docker.com/blog/multi-arch-images/ 
+* https://stmxcsr.com/micro/raspberry-signal-client.html 
+* https://github.com/lwesterhof/semaphore
+* https://signald.org/  https://gitlab.com/signald/signald 
+* https://erlangen-sheppy.medium.com/setting-up-signal-cli-on-linux-7831b27c0790 
+* https://github.com/Sidneys1/signal-bot 
 
 
-
-https://github.com/boxdot/gurk-rs 
-
-https://github.com/signalapp/libsignal 
-
-https://github.com/whisperfish/libsignal-service-rs 
-
-https://github.com/whisperfish/presage/
-
-https://rust-lang.github.io/rustup/cross-compilation.html 
+* https://github.com/boxdot/gurk-rs 
+* https://github.com/signalapp/libsignal 
+* https://github.com/whisperfish/libsignal-service-rs 
+* https://github.com/whisperfish/presage/
+* https://rust-lang.github.io/rustup/cross-compilation.html 
 
 
 
@@ -71,7 +50,7 @@ https://rust-lang.github.io/rustup/cross-compilation.html
 
 
 4) NixOS Pi
- read https://github.com/nix-community/nixos-generators ********* 
+ read https://github.com/nix-community/nixos-generators ***** 
  read https://discourse.nixos.org/t/nixos-image-for-raspberry-pi-3b-armv7/18430 
  read https://nix.dev/tutorials/nixos/installing-nixos-on-a-raspberry-pi.html 
  read (slightly outdated) https://nixos.wiki/wiki/NixOS_on_ARM/Raspberry_Pi 

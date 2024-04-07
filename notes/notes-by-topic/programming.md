@@ -33,8 +33,8 @@ prog  [redas24/idiomatic.js: Principles of Writing Consistent, Idiomatic JavaScr
 prog  [tqdm/tqdm: :zap: A Fast, Extensible Progress Bar for Python and CLI](https://github.com/tqdm/tqdm)
 prog  [xkcd: Python Environment](https://xkcd.com/1987/) 
 prog  bücher19133390 Wcm 2 JAVA Bloc 24.11.2023 HBloch, Joshua: Effective Java10031889 Oel 5 Lang 24.11.2023 HLangenscheidt Taschenwörterbuch...19112688 Tdk Sigg 24.11.2023 HSigg, Timm: Grundlagen der Differenzialgleichunge...20391708 15 Garc 24.11.2023 HGarcía Márquez, G...: Cien anos de soledad13056508 Oel 2 Meye 24.11.2023 HMeyer, Thomas: Grund- und Aufbauwortschatz Griechisch21177628 Wcm 2 JAVASCRIPT Hor 24.11.2023 HHorstmann, Cay: JavaScript für Ungeduldige21218611 Oem 5 Lang 24.11.2023 HLangenscheidt Taschenwörterbuch Latein22102016 Mcl 1 Csik 24.11.2023 HCsikszentmihalyi,...: Flow20367667 Wcm 2 KOTLIN Szwi 24.11.2023 HSzwillus, Karl: Kotlin16123449 Tcn Jaen 24.11.2023 HJänich, Klaus: Lineare Algebra19340869 Mcl 1 Hamm 24.11.2023 HHammer, Matthias: Micro Habits08099468 17 Prim 24.11.2023 HPrima lectio15283163 Tcn Raes 24.11.2023 HRäsch, Thoralf: Lineare Algebra II21138741 Wcm 2 JAVASCRIPT Hav 24.11.2023 HHaverbeke, Marijn: JavaScript
-prog ## **[Making Snake Boot Sector Game in Assembly (x86) - YouTube](https://www.youtube.com/watch?v%3DtHO5x_Ha6pE)**
-prog ## **wezterm-python-pdf-reader - write a terminal PDF reader for wezterm using python, matplotlib, and matplotlib, together with python pdf library and matplotlib-backend-wezterm**
+prog ## [Making Snake Boot Sector Game in Assembly (x86) - YouTube](https://www.youtube.com/watch?v%3DtHO5x_Ha6pE)
+prog ## wezterm-python-pdf-reader - write a terminal PDF reader for wezterm using python, matplotlib, and matplotlib, together with python pdf library and matplotlib-backend-wezterm
 prog History of X11 [yt](https://www.youtube.com/watch?v%3DR-N-fgKWYGU)
 prog [8 ways JavaScript is just... different. - YouTube](ghttps://www.youtube.com/watch?v%3DkYAe7qDGOJw)
 prog [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html%23Pattern-Matching)

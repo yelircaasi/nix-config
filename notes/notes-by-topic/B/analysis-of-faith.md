@@ -9,8 +9,7 @@ Quotes
 “Never let us be guilty of sacrificing any portion of truth on the altar of peace.” ~ J. C. Ryle
 
 “As a matter of honor, one man owes it to another to manifest the truth.” ~ Thomas Aquinas
-
-https://www.reddit.com/r/exmormon/comments/6xf27s/email_exchange_between_1st_counselor_in_sp_and/
+* https://www.reddit.com/r/exmormon/comments/6xf27s/email_exchange_between_1st_counselor_in_sp_and/
 
 Upshot:
 
@@ -18,7 +17,7 @@ Church epistemology is flawed. The church’s truth claims do not make a compell
 
 Intro:
 
-**Introduction: Why does this matter? On Maps**
+Introduction: Why does this matter? On Maps
 
 Driving around with an outdated, inaccurate GPS map is frustrating. Ideally, we want accurate maps to guide us, and the same is true of our beliefs, or at least is true in my case. Going through life with incorrect beliefs can be harmless, and sometimes even pleasant when the map is augmented with fantasies, but it can lead to problems. Pokemon Go can be fun, but it’s not for serious trips. Cognitive dissonance from the discrepancies between an incorrect map and the terrain it is supposed to describe is a burden in itself, and an incorrect map of life can lead to the wrong destination, or at least time spent chasing destinations that do not exist or that are quite different than the map shows. Whatever the benefits of an inaccurate map may be, I want to travel through life with the right map. There may not be a perfect map, and a correct map may not be able to answer all of the questions a false map could potentially answer, but I don’t want to be given wrong directions and guided to nonexistent destinations. I would prefer a limited but correct map, even one that seems incomplete, to one that does not match the reality I am traveling in.
 
@@ -28,14 +27,14 @@ This is, of course, a story where you already know how it ends. I probably would
 
 I should also note that this is a problem-oriented document. I was raised fully aware of the good and uplifting aspects of the church, but my path toward disbelief involved many new facts and perspectives that I hadn’t been fully aware of before, and that is why I focus here on the problems, rather than the good and beautiful aspects that every member knows and loves. My faith journey has not been a willful fixation on the negative, but rather an attempt to see the whole picture. My experience having been what it has, many of the new things I have learned have been the problematic aspects that are absent in everyday experience in the church, and they are a large part of what I write about here.
 
-**1: Why We Believe What We Believe and How We Know What We Know**
+1: Why We Believe What We Believe and How We Know What We Know
 
 - epistemology
 - -my reasoning: maximum likelihood
 - psychology of belief
 - -probability and presumption (also Mark Twain's quote)
 
-**1.1 On Epistemology**
+1.1 On Epistemology
 
 - lay down basic rules for arriving at truth
 - non-contradiction
@@ -49,14 +48,12 @@ The most important idea in my search for truth is the idea of truth itself. It�
 
 This implies that perceptions can be wrong. Believing or wishing something does not make it so. I have to accept truth as independent of what I believe or wish to believe, and that is where the rules of logic come into play as a means of arriving at truth.
 
-**On Apologetics and Motivated Reasoning**
+On Apologetics and Motivated Reasoning
 
 - address common apologetic objections and tactics
 - ex hypothesi approach: 	-http://mormoncurtain.com/topic_apologists.html
-
-http://www.mormoninformation.com/pro_lds.htm
-
-http://www.mormonthink.com/glossary/apologist.htm
+* http://www.mormoninformation.com/pro_lds.htm
+* http://www.mormonthink.com/glossary/apologist.htm
 
 Assuming the desired conclusion and then gathering and interpreting evidence to fit is not honest, nor is it valid. Attacking those who doubt or disbelieve is not valid. An argument needs to be met and discussed on its own merits.
 
@@ -68,7 +65,7 @@ This is worth mentioning because I need to specify beforehand what is sound reas
 
 The Backfire Effect is worth mentioning. Essentially, it is the tendency
 
-**On Spiritual Experiences as a Means for Discovering Truth**
+On Spiritual Experiences as a Means for Discovering Truth
 
 An important concept here, and maybe the central concept, is the idea of spiritual experiences as a source of truth. I have been taught from a young age about the witness of the Holy Ghost and I built my life around the testimony I had received and the way I was taught to interpret it. It was fairly recently that I fully realized that there are some problems with this epistemology that I can’t ignore.
 
@@ -88,13 +85,13 @@ To be clear, I’m not discounting anyone’s spiritual experiences. They are an
 
 Even dreams and visions cannot establish universal truth because the world has seen many dreams and visions that contradict each other. Some visions are induced by hallucinogens or illness, but it is not necessary to explain away every instance. Most faiths, the LDS faith included, need to deny a large number of others’ attested divine visitations just as their own are denied by many others. This becomes a contest of credibility, and if we decide that some claims of divine manifestations are worthy of investigation, the internal and external consistency of a religion’s truth claims matter. This is where a study of the particulars of a religion’s claims becomes important. If the religion makes claims about its truthfulness that cannot stand up to close scrutiny, the already tenuous claim that spiritual manifestations are enough becomes even less defensible, and an open-minded truth seeker is better off looking elsewhere for truth. The basic principle is that if something appears to be a human invention and bears multiple telltale signs of a human invention, it very probably is. To use one of the faith’s own metaphors, a wise man builds upon a firm foundation, and a foundation riddled with cracks is not a firm foundation for one hoping to see things as they really are. I will discuss some historical realities about the Judeo-Christian tradition and the LDS church in particular to discuss whether their claims are supported by their own respective histories.
 
-**2. The Historical Record and Religious Truth Claims**
+2. The Historical Record and Religious Truth Claims
 
 - history of Abrahamic religions and religion in general
 - -change in Christianity from a radical pacifist religion to religion of power
 - -
 
-**2.1 On Methods of Historical Evaluation**
+2.1 On Methods of Historical Evaluation
 
 It is common practice to defend early church leaders and reconcile disturbing discrepancies in order to maintain belief. The problem with this is that it is clearly motivated reasoning. Even if everything can be satisfactorily explained away, which I personally do not find to be the case, we are still left with some troubling problems. If the historical, unwhitewashed Joseph Smith is historically indistinguaishable from a fraud, and if the church today is functionally indistinguishable from other manmade and mortal-run churches, what is a reasonable person to conclude? A spiritual witness is hugely problematic, as discussed earlier, and the history, while fascinating and not without its admirable and remarkable moments, at best does not compel belief, and in my view powerfully discourages it.
 
@@ -126,9 +123,9 @@ This begs the question: How could Joseph Smith, and “uneducated farmboy” wri
 - protestant overtones
 - 11 witnesses
 
-**3. Science and Religious Truth Claims**
+3. Science and Religious Truth Claims
 
-**3.1 Scientific Method and Belief**
+3.1 Scientific Method and Belief
 
 Because it is often easier to determine when something is not true than when it is actually true, the scientific method has proven the most reliable way for arriving at truth. Its basic process is to formulate a hypothesis and then collect information to confirm or falsify it. Falsified hypotheses include Ptolemy’s geocentric hypothesis, the self-evident flat-earth hypothesis (supported by Thales and Democritus, for example), Aristotle’s hypothesis of spontaneous generation, the Blank Slate hypothesis of Aquinas, Locke, and others, and Newton’s clockwork universe. These were not hypotheses advanced by fools or malicious deceivers; they represented the best scientists of their times and worked with what they had. Many of the theories were important stepping stones on the way to another theory that was closer to the truth. These hypotheses were generally considered self-evident and credible by the experts of their day, but were later shown to be false. The important lesson they hold for us is that sometimes correct reasoning leads to unexpected and even undesired conclusions. Sometimes they faced profound opposition. Socrates, Rhazes, Galileo Galilei, Servetus, Avenzoar, Lanfranchi, and many others have faced persecution for their discoveries and work, often because it threatening existing religious and political authorities. But this leads us to ask why it is that good scientists will accept falsification of their hypotheses, but religious people often do not? Is it hubris, or stubbornness, or willful ignorance? Is it because spiritual feelings trump all reason?
 
@@ -138,7 +135,7 @@ Science is pragmatic. While it is not flawless, and its practicioners certainly 
 
 My religion, as impossible as it is to prove or disprove, does not have a shortage of truth claims that are falsifiable. There is a never-ending debate about interpretation and limited understanding in the past, but it is worth looking at some of the truth claims that have been made, what we have learned about them, and how they have changed over time.
 
-**3.2 Science and the Bible**
+3.2 Science and the Bible
 
 The Bible makes a number of falsifiable truth claims that have in fact been falsified, and many of the specific claims have come to be interpreted more generally. The most damning claims are the early events of the Bible, such as Noah’s Ark and the Tower of Babel. the astronomy of the Bible is also a clear product of its times, rather than the product of divine omniscience.
 
@@ -157,9 +154,9 @@ The Bible makes a number of falsifiable truth claims that have in fact been fals
 
 → Islamic and other apologetics and close parallels
 
-**3.3 Science and the Book of Mormon**
+3.3 Science and the Book of Mormon
 
-**3.4 Science and the Doctrine and Covenants and Pearl of Great Price**
+3.4 Science and the Doctrine and Covenants and Pearl of Great Price
 
 - importance of origins and foundations:
 - Judaism -> Christianity -> Early Mormonism -> Contemporary Mormonism: Can Christianity be true if Judaism is false? Can Mormonism be true if Christianity is false? Can current Mormonism be true if earlier Mormonism was false? Problem of continuity in religion
@@ -178,7 +175,7 @@ objections to religion:
 - indistinguishability from a man-made church; like Judaism, Islam, etc., began with a high concentration of miracles and is shrouded by legend and myth, but those remarkable occurences seem to have stopped today
 - --miracles not distinguishable from remarkable and rare miracles
 
-**4. On Theology**
+4. On Theology
 
 Churches are not just groups of people who like to get together; each church has its own set of beliefs that form a more-or-less coherent worldview for its members. There
 
@@ -194,7 +191,7 @@ Churches are not just groups of people who like to get together; each church has
 - --temple work
 - --ethnocentrism and tiny percentage of the world's population with access to the true church
 
-**5. The LDS Church Today**
+5. The LDS Church Today
 
 It would be neglectful to look only at the church in the past without giving the church we know today due consideration. There are very good people in the church, and some very good people who choose to belong, and while they are familiar with the problems they arbitrarily choose to believe. Many see this as their best possible option, and others, such as Richard Lyman Bushman, see belief as a moral choice.
 
@@ -240,7 +237,7 @@ What good does the church do for me if it is not literally the OTC with God's au
 
 What if the church is true and I am wrong? (Does God look at the heart, or is He the more legalistic God we sometimes imagine?)
 
-**5. The Big Picture and Conclusions Drawn**
+5. The Big Picture and Conclusions Drawn
 
 The church, and religion in general, have all the telltale signs of being man-made and man-directed. The existence of some kind of Supreme Entity is harder to reason about, and remains a possibility to be open about. Currently, the best explanation of the world I know is found in the theories science has rigorously tested and found to be in accordance with the truth. Religion does not provide a consistent moral foundation for human life, and its falsifiable claims and predictions about the world have not fared well throughout time. Religion has changed as human society has changed, and while it has made worthwhile contributions to human flourishing, its values have been influenced from the outside. The spirituality that is often found in religion is often beneficial, but the supposition that it is inseparable from religion appears false.
 
@@ -250,6 +247,6 @@ The fact that not all phenomena do have a clear explanation is not a good eviden
 
 There is one weakness to all this logic. It may be that God is not a God of logic, and he has set up the world in such a way that reason generally leads toward disbelief (especially toward traditional religion), as is certainly the case in the balance of scientists and other intellectuals. It may be that he inspired his prophets to utter falsehoods in order to test our faith. It may be that he rigged the decay of carbon atoms and planted dinosaur fossils in the earth in order to deceive those who dare question. But then why does he deceive or allow to be deceived the billions of his children who have received spiritual manifestations of the truthfulness of the wrong church? I don't think much of a hypothetical God who gives his children reason and intellect only to then lead them away from the truth, and who doesn't provide a clear way to receive even a spiritual manifestation of the truth. If that is the kind of arbitrary and untrustworthy being who governs the universe, I am not inclined to have trust in him. Fortunately, it is much more probable, given the facts, that he does not exist, just as thousands of other Gods do not exist. As noted, the existence of any kind of God as a force or higher power is much more difficult to ascertain.
 
-**Notes**
+Notes
 
-**Further Reading**
+Further Reading

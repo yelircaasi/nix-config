@@ -1,123 +1,62 @@
 # Software to Sort
-## Ricing
-https://github.com/adi1090x/widgets
-https://github.com/outfoxxed/hy3
-https://github.com/mahkoh/jay
-https://github.com/MrVivekRajan/Grub-Themes
-[wallpaper mountain lake](https://media.discordapp.net/attachments/1071922148991574056/1209591503836422224/aholmes_canada.cleaned.jpg?ex=66159f5f&is=66032a5f&hm=328996956fe6d340af05baa8a1575ec23eec9fb482de03a00141c1a9fa63c950&)
-VanillaOS wallpaper channel
-https://github.com/mathix420/dotfiles/blob/master/beeper.css
-https://github.com/dawsers/hyprscroller
-https://github.com/hyprland-community/awesome-hyprland
-https://nwg-piotr.github.io/nwg-shell/
+## Ricing* https://github.com/adi1090x/widgets* https://github.com/outfoxxed/hy3* https://github.com/mahkoh/jay* https://github.com/MrVivekRajan/Grub-Themes
+* [wallpaper mountain lake](https://media.discordapp.net/attachments/1071922148991574056/1209591503836422224/aholmes_canada.cleaned.jpg?ex=66159f5f&is=66032a5f&hm=328996956fe6d340af05baa8a1575ec23eec9fb482de03a00141c1a9fa63c950&)
+VanillaOS wallpaper channel* https://github.com/mathix420/dotfiles/blob/master/beeper.css* https://github.com/dawsers/hyprscroller* https://github.com/hyprland-community/awesome-hyprland* https://nwg-piotr.github.io/nwg-shell/
 
 ## Sort
-- ******** [](https://www.youtube.com/@unixbhaskar/videos) *********
-
-[MEDevel.com](https://medevel.com/)
-
-[Track Awesome List Updates Daily](https://www.trackawesomelist.com/)
-
-[Feed | StackShare](https://stackshare.io/feed)
-
-[https://softwarerecs.stackexchange.com/](https://softwarerecs.stackexchange.com/)
+- ** [](https://www.youtube.com/@unixbhaskar/videos) ***
+* [MEDevel.com](https://medevel.com/)
+* [Track Awesome List Updates Daily](https://www.trackawesomelist.com/)
+* [Feed | StackShare](https://stackshare.io/feed)
+* [https://softwarerecs.stackexchange.com/](https://softwarerecs.stackexchange.com/)
 
 The New Stack
 
 - ** [](https://uses.tech/)
-
-[Uses - Just Some Dev](https://www.iamdeveloper.com/pages/uses/)
-
-[https://github.com/wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
-
-[https://github.com/tvanantwerp/awesome-uses](https://github.com/tvanantwerp/awesome-uses)
-
-[Software I use as a programmer 👩‍💻 #technology #programming #software #career #productivity](https://youtube.com/shorts/TBXZNx4S8vk?feature%3Dshare)
-
-[https://trolologuy.github.io/useful-tools/](https://trolologuy.github.io/useful-tools/)
-
-[The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-
-[DT Command Line Playlist](https://www.youtube.com/playlist?list%3DPL5--8gKSku174EnRTbP4DzU2W80Q1vqtm)
-
-[Code Resources | Matthew Rhone dot Dev](https://matthewrhone.dev/resources/)
-
-[https://github.com/axyl-os/axyl-iso/releases](https://github.com/axyl-os/axyl-iso/releases)
-
-[https://gitlab.com/garuda-linux/](https://gitlab.com/garuda-linux/)
-
-[https://github.com/hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)
-
-[https://github.com/Correia-jpv/fucking-awesome-cli-apps](https://github.com/Correia-jpv/fucking-awesome-cli-apps)
-
-[https://github.com/kodsnack/awesome-tools](https://github.com/kodsnack/awesome-tools)
-
-[https://github.com/areknawo/awesome-productivity-software](https://github.com/areknawo/awesome-productivity-software)
-
-[https://github.com/jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)
-
-[https://github.com/ishanvyas22/awesome-open-source-systems](https://github.com/ishanvyas22/awesome-open-source-systems)
-
-[https://github.com/jhasse/clicolors](https://github.com/jhasse/clicolors)
-
-[https://github.com/iruzo/pxmenu](https://github.com/iruzo/pxmenu)
-
-[https://no-color.org/](https://no-color.org/)
-
-[LinuxLinks](https://www.linuxlinks.com/)
-
-[HPR In-Depth Series: Lightweight Apps](https://www.google.com/url?q=http://hackerpublicradio.org/series.php?id%3D11)
-
-[https://github.com/Barbaross93/Muspelheim](https://github.com/Barbaross93/Muspelheim)
-
-[The Open Source software I'm using in 2023 - Part 1!](https://www.youtube.com/watch?v%3DoLrwk07zZ0Y)
-
-[https://www.youtube.com/@AwesomeOpenSource](https://www.youtube.com/@AwesomeOpenSource)
-
-[(2) Vim-based desktop apps : vim](https://www.reddit.com/r/vim/comments/zacm9i/vimbased_desktop_apps/)
-
-[https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list)
-
-[Big Pile of Vim-like](https://vim.reversed.top/)
-
+* [Uses - Just Some Dev](https://www.iamdeveloper.com/pages/uses/)
+* [https://github.com/wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
+* [https://github.com/tvanantwerp/awesome-uses](https://github.com/tvanantwerp/awesome-uses)
+* [Software I use as a programmer 👩‍💻 #technology #programming #software #career #productivity](https://youtube.com/shorts/TBXZNx4S8vk?feature%3Dshare)
+* [https://trolologuy.github.io/useful-tools/](https://trolologuy.github.io/useful-tools/)
+* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+* [DT Command Line Playlist](https://www.youtube.com/playlist?list%3DPL5--8gKSku174EnRTbP4DzU2W80Q1vqtm)
+* [Code Resources | Matthew Rhone dot Dev](https://matthewrhone.dev/resources/)
+* [https://github.com/axyl-os/axyl-iso/releases](https://github.com/axyl-os/axyl-iso/releases)
+* [https://gitlab.com/garuda-linux/](https://gitlab.com/garuda-linux/)
+* [https://github.com/hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)
+* [https://github.com/Correia-jpv/fucking-awesome-cli-apps](https://github.com/Correia-jpv/fucking-awesome-cli-apps)
+* [https://github.com/kodsnack/awesome-tools](https://github.com/kodsnack/awesome-tools)
+* [https://github.com/areknawo/awesome-productivity-software](https://github.com/areknawo/awesome-productivity-software)
+* [https://github.com/jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)
+* [https://github.com/ishanvyas22/awesome-open-source-systems](https://github.com/ishanvyas22/awesome-open-source-systems)
+* [https://github.com/jhasse/clicolors](https://github.com/jhasse/clicolors)
+* [https://github.com/iruzo/pxmenu](https://github.com/iruzo/pxmenu)
+* [https://no-color.org/](https://no-color.org/)
+* [LinuxLinks](https://www.linuxlinks.com/)
+* [HPR In-Depth Series: Lightweight Apps](https://www.google.com/url?q=http://hackerpublicradio.org/series.php?id%3D11)
+* [https://github.com/Barbaross93/Muspelheim](https://github.com/Barbaross93/Muspelheim)
+* [The Open Source software I'm using in 2023 - Part 1!](https://www.youtube.com/watch?v%3DoLrwk07zZ0Y)
+* [https://www.youtube.com/@AwesomeOpenSource](https://www.youtube.com/@AwesomeOpenSource)
+* [(2) Vim-based desktop apps : vim](https://www.reddit.com/r/vim/comments/zacm9i/vimbased_desktop_apps/)
+* [https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list)
+* [Big Pile of Vim-like](https://vim.reversed.top/)
 - [ ]  → look at KDE Apps (and Gnome and [](https://www.xfce.org/projects)
-
-[http://suckless.org/other_projects/](https://www.google.com/url?q=http://suckless.org/other_projects/)
-
-[https://r-pufky.github.io/docs/index.html](https://r-pufky.github.io/docs/index.html)
-
-[https://gist.github.com/sts10/daadbc2f403bdffad1b6d33aff016c0a](https://gist.github.com/sts10/daadbc2f403bdffad1b6d33aff016c0a)
-
-[https://golangexample.com/](https://golangexample.com/)
-
-[https://www.libhunt.com/](https://www.libhunt.com/)
-
-**[OPEN SOURCE alternatives to the MOST POPULAR productivity apps!](https://www.youtube.com/watch?v%3DP8accXNcwjs)**
-
-[https://github.com/catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) → see list of software
-https://github.com/Haruno19/fuzzy-c-means-processing
-https://github.com/Haruno19/c-halloc
+* [http://suckless.org/other_projects/](https://www.google.com/url?q=http://suckless.org/other_projects/)
+* [https://r-pufky.github.io/docs/index.html](https://r-pufky.github.io/docs/index.html)
+* [https://gist.github.com/sts10/daadbc2f403bdffad1b6d33aff016c0a](https://gist.github.com/sts10/daadbc2f403bdffad1b6d33aff016c0a)
+* [https://golangexample.com/](https://golangexample.com/)
+* [https://www.libhunt.com/](https://www.libhunt.com/)
+* [OPEN SOURCE alternatives to the MOST POPULAR productivity apps!](https://www.youtube.com/watch?v%3DP8accXNcwjs)
+* [https://github.com/catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) → see list of software* https://github.com/Haruno19/fuzzy-c-means-processing* https://github.com/Haruno19/c-halloc
 linux https://learnbyexample.gumroad.com/l/cli_coreutils 
 software cli https://github.com/01mf02/jaq
-software https://github.com/raphamorim/rio
-https://eradman.com/entrproject/
-https://github.com/carapace-sh/carapace-bin
-https://castget.johndal.com/ 
-https://github.com/01mf02/jaq
-https://github.com/charmbracelet/freeze
-https://topiary.tweag.io/
-https://sr.ht/~bptato/chawan/ (written in Nim!)
-https://www.tweag.io/blog/2023-10-05-cli-ux-in-topiary/
-https://www.tweag.io/blog/2023-11-16-announcing-organist/
-https://github.com/Elvyria/Mixxc
-https://github.com/cococry/lyssa
-https://libgen.rs/search.php?&req=emacs&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
-[aphrodite-terminal-theme](https://github.com/win0err/aphrodite-terminal-theme) — Minimalistic Aphrodite theme (prompt) for sexy terminals that works in bash, fish and zsh → prompts
+software https://github.com/raphamorim/rio* https://eradman.com/entrproject/* https://github.com/carapace-sh/carapace-bin* https://castget.johndal.com/ * https://github.com/01mf02/jaq* https://github.com/charmbracelet/freeze* https://topiary.tweag.io/* https://sr.ht/~bptato/chawan/ (written in Nim!)* https://www.tweag.io/blog/2023-10-05-cli-ux-in-topiary/* https://www.tweag.io/blog/2023-11-16-announcing-organist/* https://github.com/Elvyria/Mixxc* https://github.com/cococry/lyssa* https://libgen.rs/search.php?&req=emacs&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+* [aphrodite-terminal-theme](https://github.com/win0err/aphrodite-terminal-theme) — Minimalistic Aphrodite theme (prompt) for sexy terminals that works in bash, fish and zsh → prompts
 - [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather.
 sw  [LL](https://www.linuxlinks.com/)
 sw  [https://github.com/flick0/ags-sootspirits](https://github.com/flick0/ags-sootspirits)
 sw  [yokoffing/Betterfox: Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.](https://github.com/yokoffing/Betterfox)
-sw ## **[GitHub - YaLTeR/niri: A scrollable-tiling Wayland compositor.](https://github.com/YaLTeR/niri)**
+sw ## [GitHub - YaLTeR/niri: A scrollable-tiling Wayland compositor.](https://github.com/YaLTeR/niri)
 sw ### [https://terminaltrove.com/](https://terminaltrove.com/)
 sw - [* Gabriella439/turtle: Shell programming, Haskell style](ghttps://github.com/Gabriella439/turtle)
 sw Radion, internet radio client in Bash [](https://www.reddit.com/r/commandline/s/q7nN51fBVY)
@@ -253,11 +192,11 @@ sw [eikenb/terminal-colors: Utility to test color capabilities of terminal.](ght
 sw [elParaguayo/qtile-widget-livefootballscores: Qtile widget to display live football scores](ghttps://github.com/elParaguayo/qtile-widget-livefootballscores)
 sw [ericfreese/rat: Compose shell commands to build interactive terminal applications](https://github.com/ericfreese/rat)
 sw [eth-sri/lmql at c3194466d786838f0dee50dda48a4ec90ab39f53](https://github.com/eth-sri/lmql/tree/c3194466d786838f0dee50dda48a4ec90ab39f53)
-sw [fabric ](https://github.com/Fabric-Development/fabric)**[fabric](https://github.com/Fabric-Development/fabric)** 
+sw [fabric ](https://github.com/Fabric-Development/fabric)[fabric](https://github.com/Fabric-Development/fabric) 
 sw [facebook/hermes: A JavaScript engine optimized for running React Native.](https://github.com/facebook/hermes)
 sw [fcitx/fcitx5: maybe a new fcitx.](https://github.com/fcitx/fcitx5)
 sw [files/libcore at main · elementary/files](https://github.com/elementary/files/tree/main/libcore)
-sw [flutter blog post ](http://matthiasnehlsen.com/blog/2022/05/15/switched-to-flutter-lost-10-kilos/)**[How I switched to Flutter and lost 10 kilos](http://matthiasnehlsen.com/blog/2022/05/15/switched-to-flutter-lost-10-kilos/)** 
+sw [flutter blog post ](http://matthiasnehlsen.com/blog/2022/05/15/switched-to-flutter-lost-10-kilos/)[How I switched to Flutter and lost 10 kilos](http://matthiasnehlsen.com/blog/2022/05/15/switched-to-flutter-lost-10-kilos/) 
 sw [fox-toolkit.org](http://www.fox-toolkit.org/)
 sw [fuzzypixelz/Hustle: Haskell implementation of the KDL Document Language](ghttps://github.com/fuzzypixelz/Hustle)
 sw [gRPC - Wikipedia](https://en.wikipedia.org/wiki/GRPC)
@@ -416,7 +355,7 @@ sw [https://github.com/julianpoy/recipesage](https://github.com/julianpoy/recipe
 sw [https://github.com/jumper047/librera-sync](https://github.com/jumper047/librera-sync) 
 sw [https://github.com/kando-menu/kando](https://github.com/kando-menu/kando)
 sw [https://github.com/kando-menu/kando](https://github.com/kando-menu/kando) 
-sw [https://github.com/kraanzu/dooit](https://github.com/kraanzu/dooit) **Elevate Your Task Management With Ease** 
+sw [https://github.com/kraanzu/dooit](https://github.com/kraanzu/dooit) Elevate Your Task Management With Ease 
 sw [https://github.com/kraanzu/smassh](https://github.com/kraanzu/smassh)
 sw [https://github.com/kraanzu/smassh](https://github.com/kraanzu/smassh)
 sw [https://github.com/kushall09/victorconky](https://github.com/kushall09/victorconky) 
@@ -459,7 +398,7 @@ sw [https://github.com/project-gauntlet/gauntlet](https://github.com/project-gau
 sw [https://github.com/pypa/pipx](https://github.com/pypa/pipx) try Debian? Gentoo? 
 sw [https://github.com/pythops/bluetui](https://github.com/pythops/bluetui)
 sw [https://github.com/pyx-project/pyx](https://github.com/pyx-project/pyx) 
-sw [https://github.com/ralphbean/bugwarrior](https://github.com/ralphbean/bugwarrior) Compare sourcehut, codeberg, gitlab to github -> which have something analogous to an organization? (Important for mirroring my organizations -> otherwise separate account? Stay on Github? All in same account? Nah, there MUST be a way)**Steve Oualline - Wicked Cool Perl Scripts : Useful Perl Scripts That Solve Difficult Problems** 
+sw [https://github.com/ralphbean/bugwarrior](https://github.com/ralphbean/bugwarrior) Compare sourcehut, codeberg, gitlab to github -> which have something analogous to an organization? (Important for mirroring my organizations -> otherwise separate account? Stay on Github? All in same account? Nah, there MUST be a way)Steve Oualline - Wicked Cool Perl Scripts : Useful Perl Scripts That Solve Difficult Problems 
 sw [https://github.com/ralphbean/prioritize](https://github.com/ralphbean/prioritize) 
 sw [https://github.com/redpenguinyt/display3d](https://github.com/redpenguinyt/display3d) 
 sw [https://github.com/redpenguinyt/display3d](https://github.com/redpenguinyt/display3d) lock screen 
@@ -639,7 +578,7 @@ sw [swayfx/flake.nix at master · WillPower3309/swayfx](ghttps://github.com/Will
 sw [swaywm/sway: i3-compatible Wayland compositor](ghttps://github.com/swaywm/sway)
 sw [systemd_in_suse_linux_enterprise_12_white_paper.pdf](ghttps://documentation.suse.com/external-tree/en-us/sles/12-SP4/systemd_in_suse_linux_enterprise_12_white_paper.pdf)
 sw [taichi-dev/taichi: Productive & portable high-performance programming in Python.](ghttps://github.com/taichi-dev/taichi)
-sw [tampermonkey](https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/)**[How to Use Tampermonkey to Improve a Website's UI – Example Using freeCodeCamp](https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/)** 
+sw [tampermonkey](https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/)[How to Use Tampermonkey to Improve a Website's UI – Example Using freeCodeCamp](https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/) 
 sw [taskfile ](https://taskfile.dev/)
 sw [tchx84/Portfolio: A minimalist file manager for those who want to use Linux mobile devices.](ghttps://github.com/tchx84/Portfolio)
 sw [toast](https://ui.toast.com/)

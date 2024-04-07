@@ -51,10 +51,7 @@ Use cell selection in the table, including multiple
 For all options and actions, support mouse click and vim-style keybindings (including number modifiers!)
 
 *   click / space bar to toggle boilerplate in a cell (space bar when selected)
-
-https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html
-
-https://www.phoenixframework.org/
-
-https://github.com/orgs/alpha2phi/repositories
+* https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html
+* https://www.phoenixframework.org/
+* https://github.com/orgs/alpha2phi/repositories
 

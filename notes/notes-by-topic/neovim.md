@@ -7,9 +7,9 @@ nvim  [Auto-import? · Issue #34 · python-lsp/python-lsp-server](ghttps://githu
 nvim  [https://github.com/LGUG2Z/helix-vim](https://github.com/LGUG2Z/helix-vim)
 nvim  [https://vhyrro.github.io/](https://vhyrro.github.io/)
 nvim  [xvzftube/nvim-lua-for-ds: A simple neovim config for data science](ghttps://github.com/xvzftube/nvim-lua-for-ds)
-nvim ## **[Cool shortcuts to become a neovim wizard.](https://www.reddit.com/r/neovim/s/EHI2tlRrKP)**
+nvim ## [Cool shortcuts to become a neovim wizard.](https://www.reddit.com/r/neovim/s/EHI2tlRrKP)
 nvim * [Entire Neovim Manual](https://www.youtube.com/watch?v%3DrT-fbLFOCy0)
-nvim **[using neovim as a machine learning engineer](ghttps://www.reddit.com/r/neovim/comments/1bf9e8t/using_neovim_as_a_machine_learning_engineer)**
+nvim [using neovim as a machine learning engineer](ghttps://www.reddit.com/r/neovim/comments/1bf9e8t/using_neovim_as_a_machine_learning_engineer)
 nvim [10 Questions with Vim’s creator, Bram Moolenaar](https://www.binpress.com/vim-creator-bram-moolenaar-interview/)
 nvim [A Morlock's Guide to Lua, Part 3: Using Lua to Configure Nvim](https://neovim.substack.com/p/a-morlocks-guide-to-lua-part-3-using)
 nvim [A guide to modern Web Development with (Neo)vim](https://www.freecodecamp.org/news/a-guide-to-modern-web-development-with-neo-vim-333f7efbf8e2/)
@@ -159,34 +159,15 @@ nvim nix py python neovim nixos [](https://www.reddit.com/r/NixOS/s/bUsuKtHM9W)
 nvim norg Norg-Tutorial/norg_tutorial.md at main · pysan3/Norg-Tutorial
 
 Neovim
-Sort
-https://substack.com/@exosyphon *********
-https://ofirgall.github.io/learn-nvim/chapters/00-why-should-i-learn.html
-→ eventually move to NixNeovim , possible, or nixCats
-https://github.com/BirdeeHub/nixCats-nvim/blob/d8f8b8f183f87d57170ff2b11b4f89be082ec709/nix/builder/default.nix#L133 → way to distinguish between start and opt plugins
-https://github.com/Neelfrost/nvim-config
-https://github.com/VonHeikemen/nvim-starter
-https://andrewcourter.substack.com/p/configure-linting-formatting-and
-https://marketsplash.com/tutorials/neovim/how-to-customize-neovim-settings/
-https://blog.theodorc.no/posts/top5-nvim-plugins/
-https://www.notonlycode.org/neovim-lua-config/
-https://harrisoncramer.me/building-a-gitlab-client-for-neovim/ https://github.com/harrisoncramer/gitlab.nvim
-https://github.com/symphorien/vim-nixhash/
-https://github.com/VonHeikemen/nvim-starter/tree/01-base
-https://hiphish.github.io/blog/2021/12/05/managing-vim-plugins-without-plugin-manager/
-https://vi.stackexchange.com/questions/36509/how-do-i-install-a-package-in-neovim-without-a-package-manager
-→ https://duckduckgo.com/?q=how+to+build+a+plugin+in+neovim&ia=web
-https://www.linode.com/docs/guides/write-a-neovim-plugin-with-lua/
-https://squiggly-lines.bearblog.dev/how-to-write-a-neovim-plugin/
-https://vonheikemen.github.io/devlog/es/tools/neovim-plugins-to-get-started/
-https://dev.to/evilcel3ri/how-i-wrote-my-first-neovim-plugin-357h
+Sort* https://substack.com/@exosyphon ****** https://ofirgall.github.io/learn-nvim/chapters/00-why-should-i-learn.html
+→ eventually move to NixNeovim , possible, or nixCats* https://github.com/BirdeeHub/nixCats-nvim/blob/d8f8b8f183f87d57170ff2b11b4f89be082ec709/nix/builder/default.nix#L133 → way to distinguish between start and opt plugins* https://github.com/Neelfrost/nvim-config* https://github.com/VonHeikemen/nvim-starter* https://andrewcourter.substack.com/p/configure-linting-formatting-and* https://marketsplash.com/tutorials/neovim/how-to-customize-neovim-settings/* https://blog.theodorc.no/posts/top5-nvim-plugins/* https://www.notonlycode.org/neovim-lua-config/* https://harrisoncramer.me/building-a-gitlab-client-for-neovim/ https://github.com/harrisoncramer/gitlab.nvim* https://github.com/symphorien/vim-nixhash/* https://github.com/VonHeikemen/nvim-starter/tree/01-base* https://hiphish.github.io/blog/2021/12/05/managing-vim-plugins-without-plugin-manager/* https://vi.stackexchange.com/questions/36509/how-do-i-install-a-package-in-neovim-without-a-package-manager
+→ https://duckduckgo.com/?q=how+to+build+a+plugin+in+neovim&ia=web* https://www.linode.com/docs/guides/write-a-neovim-plugin-with-lua/* https://squiggly-lines.bearblog.dev/how-to-write-a-neovim-plugin/* https://vonheikemen.github.io/devlog/es/tools/neovim-plugins-to-get-started/* https://dev.to/evilcel3ri/how-i-wrote-my-first-neovim-plugin-357h
 
-
-https://github.com/metakirby5/codi.vim/
+* https://github.com/metakirby5/codi.vim/
 Roadmap
-[ ] get all lua plugins installed and imported with nix
-[ ] package other plugins with external dependencies
-[ ] read through python-focused links
+* [ ] get all lua plugins installed and imported with nix
+* [ ] package other plugins with external dependencies
+* [ ] read through python-focused links
 Python
 reddit
 
@@ -224,8 +205,7 @@ alpha2phi
 
  neovim-for-minimalist
 
- https://github.com/alpha2phi/dotfiles
-https://github.com/knight-byte/Vim-Configuration
+ https://github.com/alpha2phi/dotfiles* https://github.com/knight-byte/Vim-Configuration
 
  https://github.com/LunarVim/Neovim-from-scratch
 
@@ -290,49 +270,41 @@ blog posts
 distros
 
  Python | LazyVim
-[ ] Create JSON document of all key shortcuts, their corresponding command, their scope, and their origin
-[ ] go through these: https://nvimluau.dev/
-[ ] Read through CyberNvim source code and documentation
-[ ] Read through nixCats source code and documentation
-[ ] Read through kickstart.nvim source code and codumentation
-[ ] Read Mouseless book section on Neovim
-[ ] Read Vim book (Robbins & Hannah)
-[ ] Read through Neovim docs
+* [ ] Create JSON document of all key shortcuts, their corresponding command, their scope, and their origin
+* [ ] go through these: https://nvimluau.dev/* [ ] Read through CyberNvim source code and documentation
+* [ ] Read through nixCats source code and documentation
+* [ ] Read through kickstart.nvim source code and codumentation
+* [ ] Read Mouseless book section on Neovim
+* [ ] Read Vim book (Robbins & Hannah)
+* [ ] Read through Neovim docs
 PDE Features → look through plugin list here, read through entire https://github.com/pgosar/CyberNvim
-[ ] togglable terminal
-[ ] file explorer
-[ ] advanced and ergonomic search and replace
-[ ] semantic and symbolic code navigation
-[ ] refactoring support & previews → https://github.com/ThePrimeagen/refactoring.nvim
-[ ] quickfix window, ability
-[ ] LSP automatic feedback - lspconfig vs ‣
-[ ] completion → https://www.reddit.com/r/neovim/comments/u5uupd/whats_the_best_plugin_for_autocompletion/
-[ ] debugging support
-[ ] formatters - https://github.com/stevearc/conform.nvim
-[ ] pytest integration → https://github.com/nvim-neotest/neotest
-[ ] perfectly tuned color theme
-[ ] ability to switch between high-contrast and low-contrast variants of the same colorscheme
-[ ] AI code assistant integration (& also more general AI)
-[ ] multicursor
-[ ] lazy loading for efficiency
-[ ] excellent markdown support and previewing https://github.com/iamcco/markdown-preview.nvim https://github.com/toppair/peek.nvim https://github.com/ellisonleao/glow.nvim (maybe more interesting as an example of an integration plugin) https://jdhao.github.io/2019/01/15/markdown_edit_preview_nvim/ https://github.com/kat0h/bufpreview.vim this
-[ ] concealing https://github.com/Jxstxs/conceal.nvim https://github.com/liiyung/conceal_nvim https://github.com/preservim/vim-markdown tps://github.com/vimwiki/vimwiki
-[ ] workflow automation
-[ ] beautiful, coherent interface
-[ ] perfect colorscheme → use this to get highlight groups: :redir > file :hi : redir END
-[ ] ‣
-[ ] finely-tuned mappings
-[ ] Nix support https://github.com/LnL7/vim-nix/
-[ ] good json linting and formatting support
-[ ] https://stackoverflow.com/questions/40028755/format-certain-json-objects-on-one-line
-[ ] maybe https://mischavandenburg.com/zet/neovim-zettelkasten/
-[ ] code running: maybe https://github.com/benlubas/molten-nvim https://github.com/MarcHamamji/runner.nvim
-[ ] syncable LaTeX editing via zathura and synctex vimtex https://github.com/lervag/vimtex https://www.ejmastnak.com/tutorials/vim-latex/intro/ https://github.com/latex-lsp/texlab https://github.com/frabjous/knap https://github.com/jakewvincent/texmagic.nvim https://vi.stackexchange.com/questions/41551/vimtex-how-to-run-vimtexcompile-on-start-using-lua → see here https://github.com/Neelfrost/nvim-config/blob/main/init.lua
+* [ ] togglable terminal
+* [ ] file explorer
+* [ ] advanced and ergonomic search and replace
+* [ ] semantic and symbolic code navigation
+* [ ] refactoring support & previews → https://github.com/ThePrimeagen/refactoring.nvim
+* [ ] quickfix window, ability
+* [ ] LSP automatic feedback - lspconfig vs ‣* [ ] completion → https://www.reddit.com/r/neovim/comments/u5uupd/whats_the_best_plugin_for_autocompletion/* [ ] debugging support
+* [ ] formatters - https://github.com/stevearc/conform.nvim
+* [ ] pytest integration → https://github.com/nvim-neotest/neotest
+* [ ] perfectly tuned color theme
+* [ ] ability to switch between high-contrast and low-contrast variants of the same colorscheme
+* [ ] AI code assistant integration (& also more general AI)
+* [ ] multicursor
+* [ ] lazy loading for efficiency
+* [ ] excellent markdown support and previewing https://github.com/iamcco/markdown-preview.nvim https://github.com/toppair/peek.nvim https://github.com/ellisonleao/glow.nvim (maybe more interesting as an example of an integration plugin) https://jdhao.github.io/2019/01/15/markdown_edit_preview_nvim/ https://github.com/kat0h/bufpreview.vim this
+* [ ] concealing https://github.com/Jxstxs/conceal.nvim https://github.com/liiyung/conceal_nvim https://github.com/preservim/vim-markdown tps://github.com/vimwiki/vimwiki
+* [ ] workflow automation
+* [ ] beautiful, coherent interface
+* [ ] perfect colorscheme → use this to get highlight groups: :redir > file :hi : redir END
+* [ ] ‣* [ ] finely-tuned mappings
+* [ ] Nix support https://github.com/LnL7/vim-nix/* [ ] good json linting and formatting support
+* [ ] https://stackoverflow.com/questions/40028755/format-certain-json-objects-on-one-line
+* [ ] maybe https://mischavandenburg.com/zet/neovim-zettelkasten/* [ ] code running: maybe https://github.com/benlubas/molten-nvim https://github.com/MarcHamamji/runner.nvim
+* [ ] syncable LaTeX editing via zathura and synctex vimtex https://github.com/lervag/vimtex https://www.ejmastnak.com/tutorials/vim-latex/intro/ https://github.com/latex-lsp/texlab https://github.com/frabjous/knap https://github.com/jakewvincent/texmagic.nvim https://vi.stackexchange.com/questions/41551/vimtex-how-to-run-vimtexcompile-on-start-using-lua → see here https://github.com/Neelfrost/nvim-config/blob/main/init.lua
 Vim Roadmap 🌱
 Neorg
-
-[x] change border characters (in plugins) to remove ugly edge: chars = { "🭽", "▔", "🭾", "▕", "🭿", "▁", "🭼", "▏" }
-[ ] migrate node.js to bun → →
+* [x] change border characters (in plugins) to remove ugly edge: chars = { "🭽", "▔", "🭾", "▕", "🭿", "▁", "🭼", "▏" }* [ ] migrate node.js to bun → →
 Curation, Collections
 
  neovimcraft
@@ -345,11 +317,9 @@ Curation, Collections
 
  → get dots from r/vimporn
 
- https://vimcolorschemes.com/ ***
-https://dotfyle.com/
+ https://vimcolorschemes.com/ **** https://dotfyle.com/
 
- https://www.reddit.com/r/neovim/comments/15axbwl/dotfyle_updates_auto_generate_a_readme_for_your/
-https://neovimcraft.com/
+ https://www.reddit.com/r/neovim/comments/15axbwl/dotfyle_updates_auto_generate_a_readme_for_your/* https://neovimcraft.com/
 
  https://nvim-awesome.vercel.app/
 
@@ -380,7 +350,7 @@ General Sites and Resources
 
  https://neovim.discourse.group/top?period=quarterly
 
- → https://github.com/neovim/neovim/wiki/Related-projects ***************************
+ → https://github.com/neovim/neovim/wiki/Related-projects *******
 People, Media
 
  https://gist.github.com/nat-418
@@ -503,7 +473,7 @@ add vimscript to notes, work through Learn VimScript the Hard Way
  https://www.youtube.com/watch?v=8q_VPqA-KLs - Setting up Neovim
 LLM, AI
 
- Local LLMs in Neovim: gen.nvim ********* → search on topic as well
+ Local LLMs in Neovim: gen.nvim ***** → search on topic as well
 
  https://github.com/Exafunction/codeium.vim
 
@@ -777,7 +747,7 @@ Top 1S
 
  Neovim - Tips, Distros, Configuration and Demo
 
- **Integrating a shell SCRIPT into Nvim (NO plugins required) *****
+ Integrating a shell SCRIPT into Nvim (NO plugins required) ***
 
  A history of outliners
 
@@ -842,9 +812,7 @@ Neovide build error → fonts
 linking with `cc` failed: exit status: 1
   |
   = note: LC_ALL="C" PATH="/home/isaac/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/x86_64-unknown-linux-gnu/bin:/home/isaac/.nix-profile/bin:/home/isaac/.local/bin:/home/isaac/.nvm/versions/node/v21.0.0/bin:/home/isaac/.nix-profile/bin:/home/isaac/.local/bin:/home/isaac/.cargo/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin" VSLANG="1033" "cc" "-m64" "/tmp/rustcgL8co2/symbols.o" "/tmp/cargo-installxRn5uk/release/deps/neovide-786b4640db1c2a02.toml-0b5f81c85d84f4f4.toml.b3a4a82c0d178aad-cgu.00.rcgu.o.rcgu.o" "-Wl,--as-needed" "-L" "/tmp/cargo-installxRn5uk/release/deps" "-L" "/tmp/cargo-installxRn5uk/release/build/skia-bindings-6f212e8d5ec679a7/out/skia" "-L" "/home/isaac/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/x86_64-unknown-linux-gnu/lib" "-Wl,-Bstatic" "/tmp/rustcgL8co2/libskia_bindings-231c023c6201a80b.rlib" "/home/isaac/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/x86_64-unknown-linux-gnu/lib/libcompiler_builtins-df2fb7f50dec519a.rlib" "-Wl,-Bdynamic" "-ldl" "-ldl" "-ldl" "-lstdc++" "-lfontconfig" "-lfreetype" "-lgcc_s" "-lutil" "-lrt" "-lpthread" "-lm" "-ldl" "-lc" "-Wl,--eh-frame-hdr" "-Wl,-z,noexecstack" "-L" "/home/isaac/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/x86_64-unknown-linux-gnu/lib" "-o" "/tmp/cargo-installxRn5uk/release/deps/neovide-786b4640db1c2a02" "-Wl,--gc-sections" "-pie" "-Wl,-z,relro,-z,now" "-Wl,-O1" "-Wl,--strip-all" "-nodefaultlibs"
-  = note: /usr/bin/ld: cannot find -lfontconfig: No such file or directory
-          /usr/bin/ld: cannot find -lfreetype: No such file or directory
-          collect2: error: ld returned 1 exit status
+  = note: /usr/bin/ld: cannot find -lfontconfig: No such file or directory*       /usr/bin/ld: cannot find -lfreetype: No such file or directory*       collect2: error: ld returned 1 exit status
 error: could not compile `neovide` (bin "neovide") due to previous error
 error: failed to compile `neovide v0.11.2 (<https://github.com/neovide/neovide#85234dc3>)`, intermediate artifacts can be found at `/tmp/cargo-installxRn5uk`.
 To reuse those artifacts with a future compilation, set the environment variable `CARGO_TARGET_DIR` to that path.
@@ -894,139 +862,35 @@ ricing
  https://www.reddit.com/r/neovim/comments/14ofbar/oc_neovim_rice/
 
 Neovim - sort
-********* gen.nvim
-https://github.com/Nitestack/dotfiles/tree/master/home%2Fprivate_dot_config%2Fexact_nvim
-https://github.com/letieu/nvim-config
-https://github.com/monadplus/nvim
-https://linrongbin16.github.io/lin.nvim.dev/
-https://m.youtube.com/@adibhanna
-https://github.com/dharmx/track.nvim
-https://github.com/xero/miasma.nvim
-https://www.reddit.com/r/vimporn/comments/15h3e14/miasmanvim_lots_of_dotsfiles_updates/
-esp nvim https://github.com/probe2k/bspwm_rice
-https://github.com/chrisgrieser/nvim-scissors
-https://www.murilopereira.com/the-values-of-emacs-the-neovim-revolution-and-the-vscode-gorilla/
-https://www.reddit.com/r/neovim/comments/xa4ca6/best_way_to_validate_and_format_json_files/
-https://vi.stackexchange.com/questions/16906/how-to-format-json-file-in-vim
-https://stackoverflow.com/questions/30691466/what-is-difference-between-vims-clipboard-unnamed-and-unnamedplus-settings
-https://dotfyle.com/neovim/plugins/top
-https://github.com/mpas/marp-nvim
-https://github.com/2KAbhishek/bare-minimum
-https://github.com/2KAbhishek/nvim2k
-https://github.com/tomiis4/.dotfiles/tree/old/
-https://github.com/EnriqueBravo115/nvim
-https://github.com/gmr458/nvim
-https://github.com/BugLight/my-nvim-config
-https://www.reddit.com/r/NixOS/comments/104l0w9/comment/j362asl/ nix nvim laziness discussion
-https://www.reddit.com/r/NixOS/comments/108fwwh/tradeoffs_of_using_home_manager_for_neovim_plugins/
-https://github.com/orhnk/vimacs
-https://github.com/SHTRAMPANTUNC/MyNvim
-Understanding Neovim #1 - Installation
-https://github.com/NTBBloodbath/daylight.nvim
-https://www.reddit.com/r/neovim/comments/nfm8ub/javakotlin_developers_that_use_neovim_as_their/
-comment-box plugin https://www.reddit.com/r/neovim/s/wB58sNKQB5
-https://github.com/nvimtools/none-ls.nvim
-https://github.com/colemickens/nixcfg
-https://github.com/jamespwilliams/neovim-go-nix-develop
-https://github.com/natecraddock/workspaces.nvim
-https://m.youtube.com/@vhyrro
-https://www.reddit.com/r/neovim/comments/tcusd9/best_plugin_for_per_project_config_changes_and/?rdt=36609
-https://github.com/VidFurlan/nvim
-macro nvim https://github.com/Bekaboo/nvim
-https://psakalo.substack.com/p/simplify-your-neovim-config-navigation
-https://psakalo.substack.com/p/my-take-on-neovim-vs-emacs-vs-vs
-nvim advice https://www.reddit.com/r/neovim/s/2rR61kbRTU
-https://github.com/datsfilipe/datsnvim
-https://github.com/stevearc/conform.nvim
-https://github.com/asapbuddy/neovim-flake
-https://jdhao.github.io/2023/07/22/neovim-pylsp-setup/
-hn pyright https://news.ycombinator.com/item?id=34224315
-https://neovimcraft.com/plugin/jordanisaacs/neovim-flake
-https://neovimcraft.com/plugin/akinsho/nvim-toggleterm.lua
-bot-commands channel on Neorg Discord
-https://github.com/BirdeeHub/nixCats-nvim#alternative--similar-projects
-https://github.com/BirdeeHub/nixCats-nvim
-https://www.playfulpython.com/configuring-neovim-as-a-python-ide/
+***** gen.nvim* https://github.com/Nitestack/dotfiles/tree/master/home%2Fprivate_dot_config%2Fexact_nvim* https://github.com/letieu/nvim-config* https://github.com/monadplus/nvim* https://linrongbin16.github.io/lin.nvim.dev/* https://m.youtube.com/@adibhanna* https://github.com/dharmx/track.nvim* https://github.com/xero/miasma.nvim* https://www.reddit.com/r/vimporn/comments/15h3e14/miasmanvim_lots_of_dotsfiles_updates/
+esp nvim https://github.com/probe2k/bspwm_rice* https://github.com/chrisgrieser/nvim-scissors* https://www.murilopereira.com/the-values-of-emacs-the-neovim-revolution-and-the-vscode-gorilla/* https://www.reddit.com/r/neovim/comments/xa4ca6/best_way_to_validate_and_format_json_files/* https://vi.stackexchange.com/questions/16906/how-to-format-json-file-in-vim* https://stackoverflow.com/questions/30691466/what-is-difference-between-vims-clipboard-unnamed-and-unnamedplus-settings* https://dotfyle.com/neovim/plugins/top* https://github.com/mpas/marp-nvim* https://github.com/2KAbhishek/bare-minimum* https://github.com/2KAbhishek/nvim2k* https://github.com/tomiis4/.dotfiles/tree/old/* https://github.com/EnriqueBravo115/nvim* https://github.com/gmr458/nvim* https://github.com/BugLight/my-nvim-config* https://www.reddit.com/r/NixOS/comments/104l0w9/comment/j362asl/ nix nvim laziness discussion* https://www.reddit.com/r/NixOS/comments/108fwwh/tradeoffs_of_using_home_manager_for_neovim_plugins/* https://github.com/orhnk/vimacs* https://github.com/SHTRAMPANTUNC/MyNvim
+Understanding Neovim #1 - Installation* https://github.com/NTBBloodbath/daylight.nvim* https://www.reddit.com/r/neovim/comments/nfm8ub/javakotlin_developers_that_use_neovim_as_their/
+comment-box plugin https://www.reddit.com/r/neovim/s/wB58sNKQB5* https://github.com/nvimtools/none-ls.nvim* https://github.com/colemickens/nixcfg* https://github.com/jamespwilliams/neovim-go-nix-develop* https://github.com/natecraddock/workspaces.nvim* https://m.youtube.com/@vhyrro* https://www.reddit.com/r/neovim/comments/tcusd9/best_plugin_for_per_project_config_changes_and/?rdt=36609* https://github.com/VidFurlan/nvim
+macro nvim https://github.com/Bekaboo/nvim* https://psakalo.substack.com/p/simplify-your-neovim-config-navigation* https://psakalo.substack.com/p/my-take-on-neovim-vs-emacs-vs-vs
+nvim advice https://www.reddit.com/r/neovim/s/2rR61kbRTU* https://github.com/datsfilipe/datsnvim* https://github.com/stevearc/conform.nvim* https://github.com/asapbuddy/neovim-flake* https://jdhao.github.io/2023/07/22/neovim-pylsp-setup/
+hn pyright https://news.ycombinator.com/item?id=34224315* https://neovimcraft.com/plugin/jordanisaacs/neovim-flake* https://neovimcraft.com/plugin/akinsho/nvim-toggleterm.lua
+bot-commands channel on Neorg Discord* https://github.com/BirdeeHub/nixCats-nvim#alternative--similar-projects* https://github.com/BirdeeHub/nixCats-nvim* https://www.playfulpython.com/configuring-neovim-as-a-python-ide/
 vim prezis https://www.reddit.com/r/neovim/comments/18ftufi/which_software_do_you_use_to_create_presentations
 Understanding Neovim series https://www.youtube.com/watch?v=87AXw9Quy9U&list=PLx2ksyallYzW4WNYHD9xOFrPRYGlntAft&pp=iAQB
-Neovim video https://www.youtube.com/watch?v=87AXw9Quy9U&list=PLx2ksyallYzW4WNYHD9xOFrPRYGlntAft&pp=iAQB
-https://codeberg.org/jcowgar/nvim-lazyvim/src/branch/main/lua/plugins/neorg.lua
-https://neovim.io/doc/user/starting.html
-https://github.com/teto/home/blob/af268c23b2ab4ac1c2d8a0e40daeca81cb320268/config/nixpkgs/overlays/neovim.nix
-https://github.com/gerazov/ollama-chat.nvim
-https://daler.github.io/dotfiles/vim.html
-https://github.com/danielo515/haxe-nvim
-https://github.com/pwnwriter/pwnvim
-https://github.com/b-src/lazy-nix-helper.nvim
-https://www.reddit.com/r/neovim/comments/12xundc/c_dev_environment_in_pure_lua_based_plugins/
-{ "🭽", "▔", "🭾", "▕", "🭿", "▁", "🭼", "▏" }
-https://www.reddit.com/r/neovim/comments/172uiu1/yazi_a_new_tui_program_combines_rangernnnlf/
-https://www.reddit.com/r/NixOS/comments/14e57dc/nvim_plugins/
-https://rsdlt.github.io/posts/rust-nvim-ide-guide-walkthrough-development-debug/#cargo-power-with-terminal-access
-https://www.reddit.com/r/neovim/comments/15flmbm/wasm_plugins_finally_maybe_lol/
-nvim wasm https://github.com/neovim/neovim/issues/23579
-https://schimana.net/2021/neovim-teil-4-alle-plugins-meiner-beispiel-config-erklaert/
-https://gitlab.com/Overloader/home-manager/-/tree/master/vim?ref_type=heads
-https://github.com/craftzdog/solarized-osaka.nvim
+Neovim video https://www.youtube.com/watch?v=87AXw9Quy9U&list=PLx2ksyallYzW4WNYHD9xOFrPRYGlntAft&pp=iAQB* https://codeberg.org/jcowgar/nvim-lazyvim/src/branch/main/lua/plugins/neorg.lua* https://neovim.io/doc/user/starting.html* https://github.com/teto/home/blob/af268c23b2ab4ac1c2d8a0e40daeca81cb320268/config/nixpkgs/overlays/neovim.nix* https://github.com/gerazov/ollama-chat.nvim* https://daler.github.io/dotfiles/vim.html* https://github.com/danielo515/haxe-nvim* https://github.com/pwnwriter/pwnvim* https://github.com/b-src/lazy-nix-helper.nvim* https://www.reddit.com/r/neovim/comments/12xundc/c_dev_environment_in_pure_lua_based_plugins/
+{ "🭽", "▔", "🭾", "▕", "🭿", "▁", "🭼", "▏" }* https://www.reddit.com/r/neovim/comments/172uiu1/yazi_a_new_tui_program_combines_rangernnnlf/* https://www.reddit.com/r/NixOS/comments/14e57dc/nvim_plugins/* https://rsdlt.github.io/posts/rust-nvim-ide-guide-walkthrough-development-debug/#cargo-power-with-terminal-access* https://www.reddit.com/r/neovim/comments/15flmbm/wasm_plugins_finally_maybe_lol/
+nvim wasm https://github.com/neovim/neovim/issues/23579* https://schimana.net/2021/neovim-teil-4-alle-plugins-meiner-beispiel-config-erklaert/* https://gitlab.com/Overloader/home-manager/-/tree/master/vim?ref_type=heads* https://github.com/craftzdog/solarized-osaka.nvim
 From 0 to IDE in Neovim from Scratch https://www.youtube.com/watch?v=zHTeCSVAFNY
-Neovim Lua Plugin From Scratch https://www.youtube.com/watch?v=n4Lp4cV8YR0&t=113s&pp=2AFxkAIBygURTmVvdmltIGx1YSBwbHVnaW4%3D
-https://github.com/goerz/jupytext.vim
-https://github.com/GCBallesteros/jupytext.nvim
-Neovim Lua Plugin From Scratch - YouTube https://www.youtube.com/watch?v=n4Lp4cV8YR0&pp=ygURTmVvdmltIGx1YSBwbHVnaW4%3D
-https://github.com/Quoteme/neovim-flake
-https://github.com/BirdeeHub/nixCats-nvim $$$$$$$$$
-https://github.com/ldelossa/nvim-ide
-https://github.com/MunifTanjim/nougat.nvim
-https://github.com/GCBallesteros/jupytext.nvim
-https://github.com/ayamir/nvimdots
-https://primamateria.github.io/blog/neovim-nix/
-Vimeagen
-https://github.com/svermeulen/nvim-teal-maker
-https://github.com/danielo515/haxe-nvim
-https://github.com/danielo515/kickstart.hx
-5 nvim plugins https://m.youtube.com/watch?v=NJDu_53T_4M&pp=ygUKbmVvdmltIGJxZg%3D%3D
-https://github.com/neph-iap/easycolor.nvim
-https://www.reddit.com/r/vim/comments/172agcg/vim_website_redesigned_in_figma/
-https://www.reddit.com/r/vim/comments/65ivlu/best_mail_client_with_vim_like_keybindings/
-https://github.com/MunifTanjim/nui.nvim
-https://github.com/nvim-orgmode/orgmode
-https://github.com/NuiCpp/Nui
-https://github.com/HakonHarnes/img-clip.nvim Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst.
-https://github.com/TobinPalmer/pastify.nvim
-https://dotfyle.com/this-week-in-neovim/58
-https://github.com/noib3/nvim-oxi
-https://www.reddit.com/r/neovim/comments/18xtumq/poopnvim_embrace_the_code_smell/
-https://m.youtube.com/results?sp=mAEA&search_query=neovim+nix
+Neovim Lua Plugin From Scratch https://www.youtube.com/watch?v=n4Lp4cV8YR0&t=113s&pp=2AFxkAIBygURTmVvdmltIGx1YSBwbHVnaW4%3D* https://github.com/goerz/jupytext.vim* https://github.com/GCBallesteros/jupytext.nvim
+Neovim Lua Plugin From Scratch - YouTube https://www.youtube.com/watch?v=n4Lp4cV8YR0&pp=ygURTmVvdmltIGx1YSBwbHVnaW4%3D* https://github.com/Quoteme/neovim-flake* https://github.com/BirdeeHub/nixCats-nvim $$$$$$$$$* https://github.com/ldelossa/nvim-ide* https://github.com/MunifTanjim/nougat.nvim* https://github.com/GCBallesteros/jupytext.nvim* https://github.com/ayamir/nvimdots* https://primamateria.github.io/blog/neovim-nix/
+Vimeagen* https://github.com/svermeulen/nvim-teal-maker* https://github.com/danielo515/haxe-nvim* https://github.com/danielo515/kickstart.hx
+5 nvim plugins https://m.youtube.com/watch?v=NJDu_53T_4M&pp=ygUKbmVvdmltIGJxZg%3D%3D* https://github.com/neph-iap/easycolor.nvim* https://www.reddit.com/r/vim/comments/172agcg/vim_website_redesigned_in_figma/* https://www.reddit.com/r/vim/comments/65ivlu/best_mail_client_with_vim_like_keybindings/* https://github.com/MunifTanjim/nui.nvim* https://github.com/nvim-orgmode/orgmode* https://github.com/NuiCpp/Nui* https://github.com/HakonHarnes/img-clip.nvim Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst.* https://github.com/TobinPalmer/pastify.nvim* https://dotfyle.com/this-week-in-neovim/58* https://github.com/noib3/nvim-oxi* https://www.reddit.com/r/neovim/comments/18xtumq/poopnvim_embrace_the_code_smell/* https://m.youtube.com/results?sp=mAEA&search_query=neovim+nix
 Neovim Lua From Scratch - YouTube
-Translation Alignment Editor UGARIT
-https://github.com/ziontee113/deliberate.nvim/
-neovim plugins video https://m.youtube.com/watch?v=1f7l2-Fap2s&pp=ygUPbmVvdmltIHRlcm1pbmFs
-https://github.com/stevearc/conform.nvim
-https://github.com/pgosar/CyberNvim
-https://github.com/vimjoyer
-https://github.com/vimjoyer/nixconf
-zellij-nav.nvim
-https://github.com/krehwell/dotfiles/blob/728a25f4d8eb8a93a72e9c31237dd1022c452b5c/.config%2Fnvim%2Flua%2Fkrehwell%2Fplugins%2Finit.lua#L48 clipboard
-https://github.com/loctvl842/nvim
-https://github.com/altermo/nxwm
-https://langserver.org/
-https://vi-word.up.railway.app/
-custom lsp format https://github.com/xero/dotfiles/commit/a5a65df503be1456650b9aaebb5ffa0cdc8f21fc#diff-93da02ebea8df64527f86b7aade95fa82d243b23a18cd4b8004e591db618a9c9
-https://www.speedtyper.dev/
-https://dotfiles.substack.com/p/31-andrew-courter
-https://dotfyle.com/
+Translation Alignment Editor UGARIT* https://github.com/ziontee113/deliberate.nvim/
+neovim plugins video https://m.youtube.com/watch?v=1f7l2-Fap2s&pp=ygUPbmVvdmltIHRlcm1pbmFs* https://github.com/stevearc/conform.nvim* https://github.com/pgosar/CyberNvim* https://github.com/vimjoyer* https://github.com/vimjoyer/nixconf
+zellij-nav.nvim* https://github.com/krehwell/dotfiles/blob/728a25f4d8eb8a93a72e9c31237dd1022c452b5c/.config%2Fnvim%2Flua%2Fkrehwell%2Fplugins%2Finit.lua#L48 clipboard* https://github.com/loctvl842/nvim* https://github.com/altermo/nxwm* https://langserver.org/* https://vi-word.up.railway.app/
+custom lsp format https://github.com/xero/dotfiles/commit/a5a65df503be1456650b9aaebb5ffa0cdc8f21fc#diff-93da02ebea8df64527f86b7aade95fa82d243b23a18cd4b8004e591db618a9c9* https://www.speedtyper.dev/* https://dotfiles.substack.com/p/31-andrew-courter* https://dotfyle.com/
 load settings depending on environment variables -> query env vars in init.lua?
-pyde, gode, rde, etc
-https://github.com/dense-analysis/ale
-https://github.com/pysan3/Norg-Tutorial
-https://github.com/pysan3/Norg-Tutorial/blob/main/norg_tutorial.md
-Ultimate Quickfix List Guide - YouTube
-https://microsoft.github.io/language-server-protocol/implementors/servers/
-https://www.youtube.com/watch?v=ZWWxwwUsPNw Primeagen video 1
+pyde, gode, rde, etc* https://github.com/dense-analysis/ale* https://github.com/pysan3/Norg-Tutorial* https://github.com/pysan3/Norg-Tutorial/blob/main/norg_tutorial.md
+Ultimate Quickfix List Guide - YouTube* https://microsoft.github.io/language-server-protocol/implementors/servers/* https://www.youtube.com/watch?v=ZWWxwwUsPNw Primeagen video 1
 LSP Basics in Neovim
 quick.nvim v2.0 Update (Native LSP is Here!)
-lsp.zero video
-https://www.reddit.com/r/Kotlin/comments/18z53or/anyone_is_using_anything_other_than_intellij_idea/
+lsp.zero video* https://www.reddit.com/r/Kotlin/comments/18z53or/anyone_is_using_anything_other_than_intellij_idea/
 Vhyrro #7 LSP
 Neorg Update Video
 Vhyrro opt video
@@ -1075,39 +939,25 @@ Commits · folke/lazy.nvim
 Commits · nvim-neorg/neorg-telescope
 Commits · HallerPatrick/py_lsp.nvim
 Per project settings in nvim. I recently started using nvim as my… | by Dan Reeves | Medium
-manage nvim configs per project at DuckDuckGo
-https://github.com/daenikon/marknav.nvim
-https://github.com/ParallaxWave/nvim
-boringcomment.nvim https://www.reddit.com/r/neovim/s/vFszbEpCbS
-https://github.com/SzAkos04/neovim
-https://github.com/Robitx/gp.nvim
+manage nvim configs per project at DuckDuckGo* https://github.com/daenikon/marknav.nvim* https://github.com/ParallaxWave/nvim
+boringcomment.nvim https://www.reddit.com/r/neovim/s/vFszbEpCbS* https://github.com/SzAkos04/neovim* https://github.com/Robitx/gp.nvim
 favorite tricks using Neovim https://www.reddit.com/r/neovim/s/5xGvEARvKO
 Project based config in vim - DEV Community
 jreybert/vimagit: Ease your git workflow within Vim
 "🭿" U+1FB7F: Right And Lower One Eighth Block (Unicode Character)
-Elteoremadebeethoven (Alexander Vázquez)
-https://github.com/fwcd/kotlin-language-server
-https://alpha2phi.medium.com/neovim-for-beginners-kotlin-1854312f51c
+Elteoremadebeethoven (Alexander Vázquez)* https://github.com/fwcd/kotlin-language-server* https://alpha2phi.medium.com/neovim-for-beginners-kotlin-1854312f51c
 (3) Vim coding practice? : vim
 vimUtils.buildVimPlugin with build step - Google Search
 hanschen/vim-ipython-cell: Seamlessly run Python code in IPython from Vim
-Pylint configuration | Codeac
-https://github.com/fwcd/kotlin-language-server
-Pakrohk-DotFiles/NvPak: A clean config for neovim to be of particular complexity
-https://github.com/tetzng/dotfiles/tree/main/.config/nvim
-https://github.com/danielmiessler/.dotfiles - neovim + lazyvim, zsh
-https://github.com/nvim-lua/wishlist → https://github.com/nvim-lua/wishlist/projects/
+Pylint configuration | Codeac* https://github.com/fwcd/kotlin-language-server
+Pakrohk-DotFiles/NvPak: A clean config for neovim to be of particular complexity* https://github.com/tetzng/dotfiles/tree/main/.config/nvim* https://github.com/danielmiessler/.dotfiles - neovim + lazyvim, zsh* https://github.com/nvim-lua/wishlist → https://github.com/nvim-lua/wishlist/projects/
 neovimcraft
-How to do 90% of what plugins do with just vim
-https://practical.li/neovim/introduction/fennel/
+How to do 90% of what plugins do with just vim* https://practical.li/neovim/introduction/fennel/
 NeoVim Plugins You Don't Want To Miss
-5 nvim plugins
-https://github.com/neovim/neovim/wiki/Related-projects#gui
-Reddit - Treesitter vs LSP. Differences ans overlap
-https://vonheikemen.github.io/devlog/tools/neovim-plugins-to-get-started/
+5 nvim plugins* https://github.com/neovim/neovim/wiki/Related-projects#gui
+Reddit - Treesitter vs LSP. Differences ans overlap* https://vonheikemen.github.io/devlog/tools/neovim-plugins-to-get-started/
 Ideas:
 → Juventas (full-features Jupyter Notebook)
-→ JIRA Ticket editor, analogous to oil.nvim
-https://github.com/VonHeikemen/nvim-starter/tree/01-base
+→ JIRA Ticket editor, analogous to oil.nvim* https://github.com/VonHeikemen/nvim-starter/tree/01-base
 
 

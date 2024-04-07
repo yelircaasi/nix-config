@@ -5,19 +5,19 @@
 * [Programming Language Jam Results](https://blog.repl.it/pljamresults?ref=newsletter)
 * http://people.eecs.berkeley.edu/~bh/v3ch5/langi.html
 * [Numerical Analysis & Statistics: MATLAB, R, NumPy, Julia - Hyperpolyglot](https://hyperpolyglot.org/numerical-analysis2)
-If you're looking for languages that allow you to think "close to the metal" and offer high performance while also being enjoyable to program in, here are a few options:
-1. Rust: Rust is a systems programming language that emphasizes safety, performance, and concurrency. It offers low-level control over memory and hardware resources while preventing common programming errors like null pointer dereferences and data races. Rust has a strong and expressive type system, excellent tooling, and a supportive community. It combines the joy of high-level programming with the performance and control typically associated with lower-level languages.
-2. Swift: Although primarily known as a language for iOS and macOS development, Swift is also a general-purpose programming language that is expressive, safe, and offers excellent performance. It was designed with a focus on modern programming patterns, type safety, and memory management. Swift's syntax is clean and easy to read, making it enjoyable to work with. It provides a good balance between low-level control and high-level abstractions.
-3. Go: Go, also known as Golang, is a statically-typed language developed by Google. It is designed for simplicity, readability, and scalability. Go combines low-level features like memory management and lightweight threads (goroutines) with a straightforward and expressive syntax. It has built-in support for concurrency, making it efficient for high-performance applications. Go's focus on simplicity and ease of use contributes to a pleasant programming experience.
-4. Julia: Julia is a high-level, high-performance language specifically designed for scientific computing and data analysis. It provides a dynamic programming model while achieving performance comparable to statically-typed languages. Julia offers extensive mathematical libraries and a friendly syntax that feels closer to a scripting language. It allows you to write code that is both performant and easy to understand, making it enjoyable for scientific computing tasks.
-5. Nim: Nim is a statically-typed, systems programming language that aims to combine high-level features with performance and low-level control. It offers a clean and expressive syntax similar to Python while providing efficient code generation. Nim supports compile-time metaprogramming, allowing you to generate code and optimize at compile-time. It is known for its readability, ease of use, and compile-time execution capabilities.
-These languages strike a balance between performance, low-level control, and enjoyable programming experiences. Each has its own unique features, so you may want to explore them further to determine which best fits your requirements and preferences.
-**[Imagining the Ideal Language for Writing Free Software - Daniel Sockwell](https://www.youtube.com/watch?v=MCKozTfcWr4)**
-* https://blog.logrocket.com/comparing-rust-vs-zig-performance-safety-more/
-**[Why is Julia faster than C++ for quicksort?](https://discourse.julialang.org/t/why-is-julia-faster-than-c-for-quicksort/102669)**
+* If you're looking for languages that allow you to think "close to the metal" and offer high performance while also being enjoyable to program in, here are a few options:
+* 1. Rust: Rust is a systems programming language that emphasizes safety, performance, and concurrency. It offers low-level control over memory and hardware resources while preventing common programming errors like null pointer dereferences and data races. Rust has a strong and expressive type system, excellent tooling, and a supportive community. It combines the joy of high-level programming with the performance and control typically associated with lower-level languages.
+* 2. Swift: Although primarily known as a language for iOS and macOS development, Swift is also a general-purpose programming language that is expressive, safe, and offers excellent performance. It was designed with a focus on modern programming patterns, type safety, and memory management. Swift's syntax is clean and easy to read, making it enjoyable to work with. It provides a good balance between low-level control and high-level abstractions.
+* 3. Go: Go, also known as Golang, is a statically-typed language developed by Google. It is designed for simplicity, readability, and scalability. Go combines low-level features like memory management and lightweight threads (goroutines) with a straightforward and expressive syntax. It has built-in support for concurrency, making it efficient for high-performance applications. Go's focus on simplicity and ease of use contributes to a pleasant programming experience.
+* 4. Julia: Julia is a high-level, high-performance language specifically designed for scientific computing and data analysis. It provides a dynamic programming model while achieving performance comparable to statically-typed languages. Julia offers extensive mathematical libraries and a friendly syntax that feels closer to a scripting language. It allows you to write code that is both performant and easy to understand, making it enjoyable for scientific computing tasks.
+* 5. Nim: Nim is a statically-typed, systems programming language that aims to combine high-level features with performance and low-level control. It offers a clean and expressive syntax similar to Python while providing efficient code generation. Nim supports compile-time metaprogramming, allowing you to generate code and optimize at compile-time. It is known for its readability, ease of use, and compile-time execution capabilities.
+* These languages strike a balance between performance, low-level control, and enjoyable programming experiences. Each has its own unique features, so you may want to explore them further to determine which best fits your requirements and preferences.
+
+* [Imagining the Ideal Language for Writing Free Software - Daniel Sockwell](https://www.youtube.com/watch?v=MCKozTfcWr4)
+* https://blog.logrocket.com/comparing-rust-vs-zig-performance-safety-more/* [Why is Julia faster than C++ for quicksort?](https://discourse.julialang.org/t/why-is-julia-faster-than-c-for-quicksort/102669)
 * https://chetanbhasin.com/articles/write-yourself-a-scheme-in-rust-parsing-part-1 
 * [Rust vs Julia in scientific computing](https://mo8it.com/blog/rust-vs-julia/)
-**[Why Static Typing Came Back • Richard Feldman • GOTO 2022](https://www.youtube.com/watch?v=Tml94je2edk)**
+* [Why Static Typing Came Back • Richard Feldman • GOTO 2022](https://www.youtube.com/watch?v=Tml94je2edk)
 * [Zig is FASTER and SAFER than Rust | Prime Reacts - YouTube](https://www.youtube.com/watch?v=CbQVR4v5PZw)
 * [Rust vs 7 Other Languages You Probably Haven't Tried - YouTube](https://www.youtube.com/watch?v=eaPxH86885M)
 * [The Perfect Programming Language - YouTube](https://www.youtube.com/watch?v=tDexugp8EmM)
@@ -55,7 +55,7 @@ These languages strike a balance between performance, low-level control, and enj
 * https://sweetcode.io/calling-java-code-from-cc-transparently/
 * https://stackoverflow.com/questions/65851854/how-to-build-java-native-executable-files-for-linux
 * https://softwareengineering.stackexchange.com/questions/274332/java-has-the-jvm-what-does-c-have
-does Java leave the JVM when calling C code?
+* does Java leave the JVM when calling C code?
 * [Troubleshooting Java](https://libgen.is/book/index.php?md5=A3A192E2465FD70E645FF8FE21B784D0)
 * [Java: The Complete Reference](http://library.lol/main/843EBFA6FC316F0002244B2B765589DE)
 * https://www.baeldung.com/java-functional-programming
@@ -67,7 +67,7 @@ does Java leave the JVM when calling C code?
 * https://docs.oracle.com/en/java/javase/17/
 * [Fundamentals of Java Programming_Mitsunori Ogihara_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-89491-1)
 * [Java in Two Semesters_Quentin Charatan, Aaron Kans_4th ed. 2019](http://link.springer.com/openurl?genre=book&isbn=978-3-319-99420-8)
-Java. Der Grundkurs
+* Java. Der Grundkurs
 * https://www.youtube.com/c/javaplatform
 * https://inside.java/
 * [97 Things Every Java Programmer Should Know: Collective Wisdom from the Experts](http://library.lol/main/DA37A0D818FE67BD33B1EA7BBC9A9019)
@@ -134,7 +134,7 @@ Java. Der Grundkurs
 * https://rosettacode.org/wiki/Inverted_index#Java
 * https://www.java67.com/2013/08/ata-structures-in-java-programming-array-linked-list-map-set-stack-queue.html
 * https://www.w3schools.in/java-tutorial/program-structure/
-Illuminating Java
+* Illuminating Java
 * [Introduction to Data Structures & Algorithms in Java](https://www.lynda.com/Java-tutorials/Introduction-Data-Structures-Algorithms-Java/656821-2.html?srchtrk=index%3a18%0alinktypeid%3a2%0aq%3aJava%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
 * [Introduction to Java Programming – Part 1 | edX](https://www.edx.org/course/introduction-java-programming-part-1-hkustx-comp102-1x-6?utm_source=sailthru&utm_medium=email&utm_campaign=newsletter_student_actives_20180116)
 * [Java](http://www.dmc.fmph.uniba.sk/public_html/doc/Java/)
@@ -150,18 +150,18 @@ Illuminating Java
 * https://www.udemy.com/course/java-for-absolute-beginners-c/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-j3N8bzvk3CcY9Wux9u3YKQ&utm_medium=udemyads&utm_source=aff-campaign
 * https://www.udemy.com/course/introduction-to-docker-for-java-developers/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-ka7fewWnIQuDABzSsO9yIQ&utm_medium=udemyads&utm_source=aff-campaign
 * https://codingbat.com/java
-Introduction to algorithms http://www.sfs.uni-tuebingen.de/~dg/l1.html
-Algorithm Analysis http://www.sfs.uni-tuebingen.de/~dg/l2.html
-Elementary Data Structures http://www.sfs.uni-tuebingen.de/~dg/l3.html
-Abstract Data Types http://www.sfs.uni-tuebingen.de/~dg/l4.html
-Recursion and Trees http://www.sfs.uni-tuebingen.de/~dg/l5.html
-Elementary Sorting Methods http://www.sfs.uni-tuebingen.de/~dg/l6.html
+* Introduction to algorithms http://www.sfs.uni-tuebingen.de/~dg/l1.html
+* Algorithm Analysis http://www.sfs.uni-tuebingen.de/~dg/l2.html
+* Elementary Data Structures http://www.sfs.uni-tuebingen.de/~dg/l3.html
+* Abstract Data Types http://www.sfs.uni-tuebingen.de/~dg/l4.html
+* Recursion and Trees http://www.sfs.uni-tuebingen.de/~dg/l5.html
+* Elementary Sorting Methods http://www.sfs.uni-tuebingen.de/~dg/l6.html
 
 ## > https://www.programiz.com/java-programming
 * https://docs.oracle.com/javase/tutorial/
-Intro to CS II (Java): http://www.cs.bu.edu/~snyder/cs112/
-Programming Using Java (book): http://math.hws.edu/javanotes/
-Programmierkurs Java: http://www.programmierkurs-java.de/
+* Intro to CS II (Java): http://www.cs.bu.edu/~snyder/cs112/
+* Programming Using Java (book): http://math.hws.edu/javanotes/
+* Programmierkurs Java: http://www.programmierkurs-java.de/
 * http://www.learnjavaonline.org/
 * http://www.cs.bu.edu/~snyder/cs112/CourseMaterials/JavaStyleNotes.html
 * https://www.jetbrains.com/idea/documentation/
@@ -171,7 +171,7 @@ Programmierkurs Java: http://www.programmierkurs-java.de/
 * https://developer.ibm.com/series/intro-to-java-programming/
 * https://programmingbydoing.com/
 * https://javarush.ru/
-Curso de Java desde 0: https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk
+* Curso de Java desde 0: https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk
 * https://introcs.cs.princeton.edu/java/home/
 * [Inside the Java virtual machine | Bill Venners | download](https://b-ok.cc/book/491894/3b19eb)
 * [Java theory and practice – Build Smart. Build Secure. IBM Developer](https://developer.ibm.com/series/java-theory-and-practice/)
@@ -193,42 +193,42 @@ Curso de Java desde 0: https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEV
 * [Java RU](https://vk.com/wall-178774705_5)
 * [Java](https://www.newsletter.datasciencecentral.com/click.html?x=a62e&lc=ub8&mc=j&s=jFaI&u=F&y=9&z=wNH2RV&)
 * [books on JVM](https://libgen.is/search.php?req=java+virtual+machine&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
-Think Java: How to Think Like a Computer Scientist (Allen B. Downey, Chris Mayfield)
-Java Data Structures and Algorithms (Christopher Fox)
-Sams Teach yourself Java in 24 Hours [8th ed.] (Rogers Cadenhead (2018))
+* Think Java: How to Think Like a Computer Scientist (Allen B. Downey, Chris Mayfield)
+* Java Data Structures and Algorithms (Christopher Fox)
+* Sams Teach yourself Java in 24 Hours [8th ed.] (Rogers Cadenhead (2018))
 * [Основы программирования на Java](https://vk.com/videos-178774705?section=album_11)
 * [JavaWebAndMore](https://www.youtube.com/user/AngelusGer88/playlists)
 * [7 Reasons to Choose Java for Blockchain Technology](http://datascience.getresponse360.com/click.html?x=a62e&lc=u9L&mc=j&s=jFaI&u=F&y=7&z=w5XKuh&)
 * [Apache TVM](https://tvm.apache.org/)
-**[Effective Java | Joshua Bloch | download](https://de1lib.org/book/3483158/b61e1a)**
-**[Hands-On Design Patterns with Java - Learn Design Patterns That Enable the Building of Large-Scale Software Architectures. | Edward Lavieri | download](https://de1lib.org/book/5407784/30758c)**
+* [Effective Java | Joshua Bloch | download](https://de1lib.org/book/3483158/b61e1a)
+* [Hands-On Design Patterns with Java - Learn Design Patterns That Enable the Building of Large-Scale Software Architectures. | Edward Lavieri | download](https://de1lib.org/book/5407784/30758c)
 * http://libgen.rs/search.php?&req=learning+java&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
 * https://github.com/Apress/adv-topics-in-java
-Idea: Java desktop gui for drawing best-fit line in a cloud of points & evaluating the fit
-**[Java by Dissection](http://library.lol/main/097B9C052207B00DD0C024819241FB2E)**
-**[Java Design Patterns List | opencodez](https://www.opencodez.com/java/java-design-patterns-list.htm)**
-**[Java Exercise 50 Questions for Beginners | coll | download](https://de1lib.org/book/5553556/044888?dsource=recommend)**
-**[Java Interview Notes: 700 Java Interview Questions Answered | M Jolly. | download](https://de1lib.org/book/2972268/460314?dsource=recommend)**
-**[Java Programming for absolute beginners: A Quick Course for Mastering the Basics of Java | Lara, Elinda [Lara, Elinda] | download](https://de1lib.org/book/11853753/b684f7)**
+* Idea: Java desktop gui for drawing best-fit line in a cloud of points & evaluating the fit
+* [Java by Dissection](http://library.lol/main/097B9C052207B00DD0C024819241FB2E)
+* [Java Design Patterns List | opencodez](https://www.opencodez.com/java/java-design-patterns-list.htm)
+* [Java Exercise 50 Questions for Beginners | coll | download](https://de1lib.org/book/5553556/044888?dsource=recommend)
+* [Java Interview Notes: 700 Java Interview Questions Answered | M Jolly. | download](https://de1lib.org/book/2972268/460314?dsource=recommend)
+* [Java Programming for absolute beginners: A Quick Course for Mastering the Basics of Java | Lara, Elinda [Lara, Elinda] | download](https://de1lib.org/book/11853753/b684f7)
 * [Java SE Specifications](https://docs.oracle.com/javase/specs/)
-**[Java: Regex Crash Course - The Ultimate Beginner's Course to Learning Java Regular Expressions in Under 12 Hours | Eprogramy, Java | download](https://de1lib.org/book/2646584/c51563?dsource=recommend)**
-**[Java: The Complete Reference, Eleventh Edition | Herbert Schildt | download](https://de1lib.org/book/3697965/3cb076?dsource=recommend)**
-**[Learn Functional Programming in Java - Full Course](https://www.freecodecamp.org/news/functional-programming-in-java-course/)**
-**[Programmieren lernen mit Java: Aktuell zu Java 8 und mit dem WindowBuilder - Ausgabe 2015](https://de1lib.org/book/2648311/f2d8de)**
-**[Learn Java in One Day and Learn It Well | Jamie Chan | download](https://de1lib.org/book/3591732/43af75?dsource=recommend)**
-**[Learn Java the Easy Way: A Hands-On Introduction to Programming | Bryson Payne | download](https://de1lib.org/book/3497709/4ab4a3?dsource=recommend)**
-**[Lerne Java in einem Video - Das Java All in One Tutorial - YouTube](https://www.youtube.com/watch?v=s6i1Ou6R7vk)**
-**[Mastering Java 11 - Develop Modular and Secure Java Applications Using Concurrency and Advanced JDK Libraries | Edward Lavieri | download](https://de1lib.org/book/5276951/94bd46)**
-**[Mastering JavaFX 10 - Build Advanced and Visually Stunning Java Applications | Sergey Grinev | download](https://de1lib.org/book/5441594/64c7e1)**
-**[Wicked Cool Java: Code Bits, Open Source Libraries, and Project Ideas | Brian Eubanks D. | download](https://de1lib.org/book/487779/6675cf?dsource=recommend)**
+* [Java: Regex Crash Course - The Ultimate Beginner's Course to Learning Java Regular Expressions in Under 12 Hours | Eprogramy, Java | download](https://de1lib.org/book/2646584/c51563?dsource=recommend)
+* [Java: The Complete Reference, Eleventh Edition | Herbert Schildt | download](https://de1lib.org/book/3697965/3cb076?dsource=recommend)
+* [Learn Functional Programming in Java - Full Course](https://www.freecodecamp.org/news/functional-programming-in-java-course/)
+* [Programmieren lernen mit Java: Aktuell zu Java 8 und mit dem WindowBuilder - Ausgabe 2015](https://de1lib.org/book/2648311/f2d8de)
+* [Learn Java in One Day and Learn It Well | Jamie Chan | download](https://de1lib.org/book/3591732/43af75?dsource=recommend)
+* [Learn Java the Easy Way: A Hands-On Introduction to Programming | Bryson Payne | download](https://de1lib.org/book/3497709/4ab4a3?dsource=recommend)
+* [Lerne Java in einem Video - Das Java All in One Tutorial - YouTube](https://www.youtube.com/watch?v=s6i1Ou6R7vk)
+* [Mastering Java 11 - Develop Modular and Secure Java Applications Using Concurrency and Advanced JDK Libraries | Edward Lavieri | download](https://de1lib.org/book/5276951/94bd46)
+* [Mastering JavaFX 10 - Build Advanced and Visually Stunning Java Applications | Sergey Grinev | download](https://de1lib.org/book/5441594/64c7e1)
+* [Wicked Cool Java: Code Bits, Open Source Libraries, and Project Ideas | Brian Eubanks D. | download](https://de1lib.org/book/487779/6675cf?dsource=recommend)
 * [1000 Java Questions & Answers](https://www.sanfoundry.com/java-questions-answers-freshers-experienced/)
 * [Java Notes for Professionals](http://libgen.rs/book/index.php?md5=696DE042EE28E06D3C12834248946A2C)
 * [Einführung in Java: Ideal für Studium und Ausbildung [1 ed.]](http://libgen.rs/book/index.php?md5=3665E1F4269E7642EF0609014A13D8DC)
 * [Java Asynchronous Programming](https://www.youtube.com/watch?v=rUbZcRgaSY4)
-**[Структуры данных и алгоритмы JAVA. 2-е издание [2013] Роберт Лафоре.pdf](https://vk.com/doc44301783_595603890?hash=2a3ae9a884ef9d04c2&dl=5017868bd3fb5b14f5)**
-**[Sams Teach Yourself Java in 21 Days (Covers Java 11/12) [8 ed.]](http://libgen.rs/book/index.php?md5=56D359890E435BD14024E627B8F60F49)**
-**[Sams Teach yourself Java in 24 Hours [8th ed.]](http://libgen.rs/book/index.php?md5=D09A156B28CE3A26EFD211FE0A9C6991)**
-**https://github.com/asdfjkl/jerry**
+* [Структуры данных и алгоритмы JAVA. 2-е издание [2013] Роберт Лафоре.pdf](https://vk.com/doc44301783_595603890?hash=2a3ae9a884ef9d04c2&dl=5017868bd3fb5b14f5)
+* [Sams Teach Yourself Java in 21 Days (Covers Java 11/12)
+* [8 ed.]](http://libgen.rs/book/index.php?md5=56D359890E435BD14024E627B8F60F49)
+* [Sams Teach yourself Java in 24 Hours [8th ed.]](http://libgen.rs/book/index.php?md5=D09A156B28CE3A26EFD211FE0A9C6991)* https://github.com/asdfjkl/jerry
 * [PHP: Manual do PHP - Manual](https://www.php.net/manual/pt_BR/index.php)
 * [Java - Como Programar.pdf](https://en.de1lib.org/book/2838647/237896)
 * [Java in a Nutshell - A Desktop Quick Reference](https://de.de1lib.org/book/3717825/aeb93e)
@@ -240,7 +240,7 @@ Idea: Java desktop gui for drawing best-fit line in a cloud of points & evaluati
 * [Калькулятор любых выражений на Java . Часть 1 . Обратная польская нотация](https://www.youtube.com/watch?v=6AMp0zH7x7M)
 * https://deeplearning4j.konduit.ai/nd4j/reference
 * [FastJSON](https://github.com/alibaba/fastjson)
-deeplearning4j
+* deeplearning4j
 * [neureka](https://gleethos.github.io/neureka/index.html)
 * [la4j](https://github.com/vkostyukov/la4j)
 * [colt](https://github.com/jenetics/colt)
@@ -253,17 +253,17 @@ deeplearning4j
 * https://www.geeksforgeeks.org/image-processing-in-java-changing-orientation-of-image/?ref=rp
 * https://www.greenfoot.org/overview
 * [Ian F. Darwin - Java Cookbook - Problems and Solutions for Java Developers (final release).](https://libgen.is/book/index.php?md5=0F97E455A02E6F168767C004952156F0)
-**[Java 17 Quick Syntax Reference: A Pocket Guide to the Java SE Language, APIs, and Library](http://library.lol/main/C49BA12C2BE20BB58BE0EC5C9A145236)**
-**[Java quick syntax reference](http://library.lol/main/5D021FB042F5CC24B80671F86EE4AFFC)** 
+* [Java 17 Quick Syntax Reference: A Pocket Guide to the Java SE Language, APIs, and Library](http://library.lol/main/C49BA12C2BE20BB58BE0EC5C9A145236)
+* [Java quick syntax reference](http://library.lol/main/5D021FB042F5CC24B80671F86EE4AFFC) 
 * [Java: A Beginner’s Guide, Seventh Edition](https://www.amazon.com/Java-Beginners-Seventh-Herbert-Schildt/dp/1259589315?tag=javamysqlanta-20)
-Java: The Complete Reference, Eleventh Edition: By Herbert Schildt
+* Java: The Complete Reference, Eleventh Edition: By Herbert Schildt
 
 ## DB
 * [MongoDB Questions and Answers](https://www.sanfoundry.com/1000-mongodb-questions-answers/)
-**[SQL in 10 Minutes a Day, Sams Teach Yourself [5th ed.]](http://libgen.rs/book/index.php?md5=7EDF120EABDA725C3194CB9FDBDFA11C)**
+* [SQL in 10 Minutes a Day, Sams Teach Yourself [5th ed.]](http://libgen.rs/book/index.php?md5=7EDF120EABDA725C3194CB9FDBDFA11C)
 * [SQL RU](https://vk.com/wall-16108331_160096)
 * [SQL vs NoSQL or MySQL vs MongoDB](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=14)
-What is your preferred graph query language? ||| Cypher - 26,6 % || GQL - 22,5 % || Gremlin - 16,5 % || SPARQL/SPARQL* - 34,4 %
+* What is your preferred graph query language? ||| Cypher - 26,6 % || GQL - 22,5 % || Gremlin - 16,5 % || SPARQL/SPARQL* - 34,4 %
 * [7 NoSQL Databases You Must Consider](http://datascience.getresponse360.com/click.html?x=a62e&lc=u9b&mc=j&s=jFaI&u=F&y=q&z=wNMDuIG&)
 * [Использование баз данных](https://vk.com/wall-16108331_154121)
 * https://www.jetbrains.com/datagrip/
@@ -316,7 +316,7 @@ What is your preferred graph query language? ||| Cypher - 26,6 % || GQL - 22,5 %
 * [Perform a query with multiple WHERE clauses using SQLite in Android Studio - Stack Overflow](https://stackoverflow.com/questions/38160298/perform-a-query-with-multiple-where-clauses-using-sqlite-in-android-studio)
 * [Practical SQLite Commands That You Don't Want To Miss](http://www.sqlitetutorial.net/sqlite-commands/)
 * [Programming with Databases in Python using SQLite – Analytics Vidhya – Medium](https://medium.com/analytics-vidhya/programming-with-databases-in-python-using-sqlite-4cecbef51ab9)
-PSQL documentation
+* PSQL documentation
 * [Python Advanced: Python and SQL](https://www.python-course.eu/sql_python.php)
 * [Python Script to Count Tables, Columns and Rows in SQLite Database | Page 1/2 Full](https://pagehalffull.wordpress.com/2012/11/14/python-script-to-count-tables-columns-and-rows-in-sqlite-database/)
 * [python sqlite return list of table names - Поиск в Google](https://www.google.com/search?rlz=1C1GCEA_enUS768US768&ei=-frNW-XgLJ_A0PEPyqOV8AE&q=python+sqlite+return+list+of+table+names&oq=python+sqlite+return+list+of+table+names&gs_l=psy-ab.3..33i21k1.74063.74878.0.75134.7.7.0.0.0.0.293.590.0j2j1.3.0....0...1c.1.64.psy-ab..4.3.589...0i22i30k1j33i22i29i30k1.0.JQMFiYJEFUQ)
@@ -360,7 +360,7 @@ PSQL documentation
 * [SQLite - Overview - Tutorialspoint](https://www.tutorialspoint.com/sqlite/sqlite_overview.htm)
 * [Data science skills: Is NoSQL better than SQL?](https://www.siliconrepublic.com/careers/data-science-skills-sql)
 * [Data modeling - Wikipedia](https://en.wikipedia.org/wiki/Data_modeling)
-* [Data Modeling 101](http://www.agiledata.org/essays/dataModeling101.html)
+* [Data Modeling 101](http://www.agileddata.org/essays/dataModeling101.html)
 * [What is Data Modeling | Introduction for Business Analysts](http://business-analysis-excellence.com/what-is-data-modeling/)
 * [Vertabelo Database Modeler](https://www.vertabelo.com/blog/data-warehouse-modeling-star-schema-vs-snowflake-schema/)
 * [(1) Explain Star Schema & Snow Flake Design - YouTube](https://www.youtube.com/watch?v=KUwOcip7Zzc)
@@ -396,13 +396,13 @@ PSQL documentation
 * [How to easily run Postgres in Docker](https://www.youtube.com/watch?v=iZDbENJrl4I)
 * [Fuzzy](https://www.freecodecamp.org/news/fuzzy-string-matching-with-postgresql/)
 * https://b-ok.cc/s/postgresql
-pgadmin
+* pgadmin
 * [Intro To PostgreSQL Databases With PgAdmin For Beginners](https://www.youtube.com/watch?v=s_ktDCayPao)
-psycopg2
+* psycopg2
 * [psycopg docs](https://www.psycopg.org/docs/)
-MongoDB
+* MongoDB
 * https://www.w3schools.com/python/python_mongodb_getstarted.asp
-**[8 Key Data Structures That Power Modern Databases - YouTube](https://www.youtube.com/watch?v=W_v05d_2RTo)**
+* [8 Key Data Structures That Power Modern Databases - YouTube](https://www.youtube.com/watch?v=W_v05d_2RTo)
 * [Simon Riggs, Gianni Ciolli - PostgreSQL 14 Administration Cookbook: Over 175 proven recipes for database administrators to manage enterprise databases effectively, 3rd Edition](https://libgen.is/book/index.php?md5=E41E5BBE8E8BF285CBF3486F6278F9CB)
 * https://www.freecodecamp.org/news/learn-nosql-in-3-hours/
 
@@ -410,8 +410,7 @@ MongoDB
 * https://matthewrhone.dev/resources/haskell/ 
 * https://serokell.io/blog/top-haskell-open-source-projects-for-linux 
 * https://serokell.io/blog/best-haskell-open-source-projects 
-* https://www.reddit.com/r/haskell/comments/2u0oho/haskell_project_ideas/ 
-**[Debunking Haskell Myths and Stereotypes](https://www.youtube.com/watch?v=J_C37aFcgXk)**
+* https://www.reddit.com/r/haskell/comments/2u0oho/haskell_project_ideas/ * [Debunking Haskell Myths and Stereotypes](https://www.youtube.com/watch?v=J_C37aFcgXk)
 * https://github.com/haskell-beginners-2022/course-plan
 * [Get Programming with Haskell](http://library.lol/main/9B59CB8C668782D7A592B36CA94E7E3F)
 * [haskell.pdf](https://homepages.dcc.ufmg.br/~camarao/fp/haskell.pdf)
@@ -439,14 +438,14 @@ MongoDB
 * [Компилятор GHC языка Haskell: теория языков программирования в работе | Виталий Брагилевский](https://www.youtube.com/watch?v=DS0dgYVnHy4&list=PL-_cKNuVAYAW_Bw-9QKMKJuNz6LSceLqo)
 * [Haskell quesiton on Reddit](https://www.reddit.com/r/haskell/comments/6segl8/why_should_anyone_use_haskell/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 * [Haskell | Physics.Math.Code.Books](https://vk.com/topic-51126445_36552646)
-The Haskell Wiki: http://wiki.haskell.org/
-The Haskell Wikibook: http://en.wikibooks.org/wiki/Haskell
-FP Complete’s School of Haskell: https://www.schoolofhaskell.com/
-Stephen Diehl’s What I Wish I Knew When Learning Haskell: http://dev.stephendiehl.com/hask/
-Chris Allen’s List of Learning Haskell Resources: https://github.com/bitemyapp/learnhaskell
-Bob Ippolito’s Getting Started with Haskell: http://bob.ippoli.to/archives/2013/01/11/getting-started-with-haskell/
-Albert Y.C. Lai’s Haskell Notes and Examples: http://www.vex.net/~trebla/haskell/index.xhtml
-Learning Haskell Resources on the Haskell Wiki: https://wiki.haskell.org/Learning_Haskell
+* The Haskell Wiki: http://wiki.haskell.org/
+* The Haskell Wikibook: http://en.wikibooks.org/wiki/Haskell
+* FP Complete’s School of Haskell: https://www.schoolofhaskell.com/
+* Stephen Diehl’s What I Wish I Knew When Learning Haskell: http://dev.stephendiehl.com/hask/
+* Chris Allen’s List of Learning Haskell Resources: https://github.com/bitemyapp/learnhaskell
+* Bob Ippolito’s Getting Started with Haskell: http://bob.ippoli.to/archives/2013/01/11/getting-started-with-haskell/
+* Albert Y.C. Lai’s Haskell Notes and Examples: http://www.vex.net/~trebla/haskell/index.xhtml
+* Learning Haskell Resources on the Haskell Wiki: https://wiki.haskell.org/Learning_Haskell
 * [Haskell Books & Documentation](https://www.haskell.org/documentation/)
 * [Damir Cavar’s Haskell code page | Damir Cavar’s Homepage](http://damir.cavar.me/code/haskell.html)
 * [functional programming - Getting started with Haskell - Stack Overflow](https://stackoverflow.com/questions/1012573/getting-started-with-haskell?rq=1)
@@ -459,15 +458,15 @@ Learning Haskell Resources on the Haskell Wiki: https://wiki.haskell.org/Learnin
 * [Haskell - Haskell Fan Site](https://crypto.stanford.edu/~blynn/haskell/)
 * [Data.List Recursion Illustrated - colah's blog](https://colah.github.io/posts/2015-02-DataList-Illustrated/)
 * haskell Docs: https://www.haskell.org/documentation/
-Learning Haskell: http://learn.hfm.io/
-A Gentle Introduction to Haskell: https://www.haskell.org/tutorial/
+* Learning Haskell: http://learn.hfm.io/
+* A Gentle Introduction to Haskell: https://www.haskell.org/tutorial/
 * happy Learn Haskell Tutorial: https://www.happylearnhaskelltutorial.com/
-Yet Another Haskell Tutorial: http://en.wikibooks.org/wiki/Haskell/YAHT/Preamble
+* Yet Another Haskell Tutorial: http://en.wikibooks.org/wiki/Haskell/YAHT/Preamble
 * [kirel/detexify-hs-backend: Detexify Backend written in Haskell](https://github.com/kirel/detexify-hs-backend)
-Morpheus Tutorials: Haskell Playlist
-search: more strongly typed haskell
-**[You want to learn Haskell. This is why.](https://www.youtube.com/watch?v=va3kJ1YBBXo)**
-**[Retrocomputing with Clash: Haskell for FPGA Hardware Design](http://library.lol/main/0049672C1D6B9F53CFF4D0660A89B951)**
+* Morpheus Tutorials: Haskell Playlist
+* search: more strongly typed haskell
+* [You want to learn Haskell. This is why.](https://www.youtube.com/watch?v=va3kJ1YBBXo)
+* [Retrocomputing with Clash: Haskell for FPGA Hardware Design](http://library.lol/main/0049672C1D6B9F53CFF4D0660A89B951)
 * haskell the craft g functional programming
 * https://www.stephanschiffels.de/posts/2021-03-24-Haskell-CLI 
 * https://github.com/chshersh/iris 
@@ -478,29 +477,28 @@ search: more strongly typed haskell
 * [Введение в Haskell - YouTube](https://www.youtube.com/watch?v=4fmE7UmlDEs)
 * [Object Oriented Programming in Haskell - Well-Typed: The Haskell Consultants](https://www.well-typed.com/blog/2018/03/oop-in-haskell/)
 * [haskell datatypes at DuckDuckGo](https://duckduckgo.com/?q=haskell+datatypes&ia=web)
-**[Haskell Quick Syntax Reference: A Pocket Guide to the Language, APIs, and Library](http://library.lol/main/291213B16C51806F9A86AC30D43E1F0E)**
-**[Haskell Quick Syntax Reference: A Pocket Guide to the Language, APIs, and Library](http://library.lol/main/291213B16C51806F9A86AC30D43E1F0E)** 
+* [Haskell Quick Syntax Reference: A Pocket Guide to the Language, APIs, and Library](http://library.lol/main/291213B16C51806F9A86AC30D43E1F0E)
+* [Haskell Quick Syntax Reference: A Pocket Guide to the Language, APIs, and Library](http://library.lol/main/291213B16C51806F9A86AC30D43E1F0E) 
 * https://www.haskell.org/documentation/ 
 
 ## Fortran
 * [Introduction to Programming with Fortran_Ian Chivers, Jane Sleightholme_4th ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-75502-1)
 * https://ourcodingclub.github.io/tutorials/fortran-intro/
 * [Fortran Series](https://www.youtube.com/watch?v=05N6PecJw-E&list=PLOU8LxhyFylLS298Sea2-gYvO5Lj8HZsP)
-Fortran90 Docs: https://www.fortran90.org/
+* Fortran90 Docs: https://www.fortran90.org/
 * [DJ's Office Hours](https://youtube.com/c/DJsOfficeHours) (Fortran)
 * https://fortran-lang.discourse.group/
 
 ## Golang
-**[100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)** 
+* [100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them) 
 * https://golang.org/
 * https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go
 * [How to Write Go Code - The Go Programming Language](https://golang.org/doc/code.html)
 * [Is there a future in machine learning in Go? : golang](https://www.reddit.com/r/golang/comments/anbjin/is_there_a_future_in_machine_learning_in_go/)
 * [The Go Programming Language](https://golang.org/)
-**[Go for Java Programmers: Learn the Google Go Programming Language](http://library.lol/main/FF965022B2127BB4E418C5DA0A3E444F)**
+* [Go for Java Programmers: Learn the Google Go Programming Language](http://library.lol/main/FF965022B2127BB4E418C5DA0A3E444F)
 * [Go Language Programming Practical Basics Tutorial - YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeF3hP0wQoSxpkqgRcgxMqX)
-**[Software Development with Go. Cloud-Native Programming using Golang with Linux and Docker](http://library.lol/main/68E1C74705DB100822BB2D210EABE7F2)  ***********
-**[Software Development with Go. Cloud-Native Programming using Golang with Linux and Docker](http://library.lol/main/68E1C74705DB100822BB2D210EABE7F2)** 
+* [Software Development with Go. Cloud-Native Programming using Golang with Linux and Docker](http://library.lol/main/68E1C74705DB100822BB2D210EABE7F2)  ****** [Software Development with Go. Cloud-Native Programming using Golang with Linux and Docker](http://library.lol/main/68E1C74705DB100822BB2D210EABE7F2) 
 * [How The Go Programming Language Helps Docker and the Container Ecosystem - The New Stack](https://thenewstack.io/go-programming-language-helps-docker-container-ecosystem/)
 * [The One BIG Reason to Learn Google's Go Language](https://youtu.be/rQQcIGqp0OU)
 * https://www.heise.de/news/KI-optimiert-Compiler-in-Googles-MLGO-Framework-fuer-LLVM-7164737.html
@@ -518,17 +516,17 @@ Fortran90 Docs: https://www.fortran90.org/
 * https://fossandcrafts.org/episodes/47-what-is-lisp.html
 * [Lisp in Vim - Susam Pal](https://susam.net/blog/lisp-in-vim.html)
 * [GitHub - vlime/vlime: A Common Lisp dev environment for Vim (and Neovim)](https://github.com/vlime/vlime)
-It's OK to not be inspired by Lisp. :)
-Then I got a deeper enlightenment at the design of Common Lisp. The number of times I've told a colleague, "wow, they've really thought of everything," is staggering. Common Lisp is one of the few languages that took a rigorous, comprehensive, no-nonsense approach to full-lifecycle program development: from rapid development, to programmer ergonomics, to grander architecture. When I'm writing Lisp, I feel like I'm taking a stroll through cerebral space, not assembling obscure incantations that some UNIX beard in the 1970s tele-typewrote in a manual page.
-Some people write Go not because they like anything about the language, but because they like the tooling. Some people write Python not because they like anything about the language, but because they get to hang out with hip influencers at PyCon and be a part of an in-crowd, and such acceptance is very gratifying and socially fulfilling. Different strokes for different folks as they say.
-I also like Lisp because I can use static typing at Haskell's level a la carte with Coalton. Having fully dynamic typing, and fully static typing, as I see fit, side by side in the same program, is very useful to me. (This sort of thing can only even happen in Lisp in the first place!)
+* It's OK to not be inspired by Lisp. :)
+* Then I got a deeper enlightenment at the design of Common Lisp. The number of times I've told a colleague, "wow, they've really thought of everything," is staggering. Common Lisp is one of the few languages that took a rigorous, comprehensive, no-nonsense approach to full-lifecycle program development: from rapid development, to programmer ergonomics, to grander architecture. When I'm writing Lisp, I feel like I'm taking a stroll through cerebral space, not assembling obscure incantations that some UNIX beard in the 1970s tele-typewrote in a manual page.
+* Some people write Go not because they like anything about the language, but because they like the tooling. Some people write Python not because they like anything about the language, but because they get to hang out with hip influencers at PyCon and be a part of an in-crowd, and such acceptance is very gratifying and socially fulfilling. Different strokes for different folks as they say.
+* I also like Lisp because I can use static typing at Haskell's level a la carte with Coalton. Having fully dynamic typing, and fully static typing, as I see fit, side by side in the same program, is very useful to me. (This sort of thing can only even happen in Lisp in the first place!)
 * [Why Lisp Is One Of The Most Productive Programming Languages - YouTube](https://www.youtube.com/watch?v=AfY_zGR_QBI)
 * [Clojure](https://github.com/TheAlgorithms/Clojure)
 * [fluentpython/lispy: Learning with Peter Norvig's lis.py interpreter](https://github.com/fluentpython/lispy)
 * [Reddit - Racket koans: Learn Racket by doing: Practice language features by fixing topic-oriented unit tests.](https://www.reddit.com/r/lisp/comments/v3h7fw/racket_koans_learn_racket_by_doing_practice/?utm_medium=android_app&utm_source=share)
 * https://fossandcrafts.org/episodes/47-what-is-lisp.html
-Write Yourself a Scheme in 48 Hours: https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours
-Write Yourself a Scheme 2.0: https://wespiser.com/writings/wyas/home.html
+* Write Yourself a Scheme in 48 Hours: https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours
+* Write Yourself a Scheme 2.0: https://wespiser.com/writings/wyas/home.html
 * https://lispcookbook.github.io/cl-cookbook/web-scraping.html
 * https://common-lisp.net/documentation
 * https://lisp-lang.org/
@@ -537,7 +535,7 @@ Write Yourself a Scheme 2.0: https://wespiser.com/writings/wyas/home.html
 * [Introduction to Scheme Programming](https://www.youtube.com/watch?v=6k78c8EctXI&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=5)
 * https://web.mit.edu/scheme_v9.2/doc/index.html
 * https://groups.csail.mit.edu/mac/ftpdir/scheme-7.5/7.5.17/doc-html/
-The Lisp 1.5 Manual
+* The Lisp 1.5 Manual
 * http://damir.cavar.me/code/scheme.html
 * [Beautiful Racket by Matthew Butterick](https://beautifulracket.com/)
 * [Simply Scheme](https://people.eecs.berkeley.edu/~bh/pdf/)
@@ -545,18 +543,17 @@ The Lisp 1.5 Manual
 * [Racket Cheat Sheet](https://docs.racket-lang.org/racket-cheat/index.html)
 * [kkwok/jupyter-mit-scheme - Docker Hub](https://hub.docker.com/r/kkwok/jupyter-mit-scheme/)
 * [The Scheme Programming Language, 3rd Edition](https://www.scheme.com/tspl3/)
-schemers.org: Documents: Standards: R5RS
+* schemers.org: Documents: Standards: R5RS
 * [Premier cours de programmation avec Schéme: du fonctionnel pur aux objets avec DrRacket | Jean-Paul Roy | download](https://b-ok.cc/book/2352854/1c7192)
 * [Should I learn Scheme or Racket? - Quora](https://www.quora.com/Should-I-learn-Scheme-or-Racket)
 * [The Scheme Programming Language](http://groups.csail.mit.edu/mac/projects/scheme/)
 * [What are the advantages of using Racket over other programming languages? Is Racket ever used for commercial projects or applications? - Quora](https://www.quora.com/What-are-the-advantages-of-using-Racket-over-other-programming-languages-Is-Racket-ever-used-for-commercial-projects-or-applications#:~:text=Racket has advanced linguistic support,and cheaply within the program.)
 * [Wie man Computern das Ableiten beibringt oder: Warum Lisp? - YouTube](https://www.youtube.com/watch?v=EyhL1DNrSME)
-The Little Schemer – 4th Edition
+* The Little Schemer – 4th Edition
 * [Lisp | Physics.Math.Code.Books](https://vk.com/topic-51126445_36552644)
 
 ## [Maxima](https://maxima.sourceforge.io/) - Maxima is a system for the manipulation of symbolic and numerical expressions, including differentiation, integration, Taylor series, Laplace transforms, ordinary differential equations, systems of linear equations, and much more.
-* https://janet.guide/
-**[Babashka book](https://book.babashka.org/)**
+* https://janet.guide/* [Babashka book](https://book.babashka.org/)
 * https://norvig.github.io/paip-lisp/#/ 
 * [IT Муравейник – про Common Lisp на русском языке!](https://www.youtube.com/@40Ants?app=desktop)
 * https://www.classcentral.com/report/best-lisp-courses* 
@@ -614,26 +611,25 @@ The Little Schemer – 4th Edition
 ## JavaScript and TypeScript
 * [JavaScript: Algoritmos + Estruturas de Dados (6h)](https://youtube.com/playlist?list=PLpfKv2Mn_c-HTFozSx8iplzzBlQJnPs2j)
 * [JS Stuff](https://www.reddit.com/user/SkillupGenie)
-**[Free ebooks for .NET & JavaScript Developers | Syncfusion](https://www.syncfusion.com/succinctly-free-ebooks)**
-**[JavaScript Everywhere: Building Cross-Platform Applications with GraphQL, React, React Native, and Electron | Adam D. Scott | download](https://de1lib.org/book/5351763/959436?dsource=recommend)**
-**[The Joy of JavaScript | Luis Atencio | download](https://de1lib.org/book/11640760/e13a3b?dsource=recommend)**
+* [Free ebooks for .NET & JavaScript Developers | Syncfusion](https://www.syncfusion.com/succinctly-free-ebooks)
+* [JavaScript Everywhere: Building Cross-Platform Applications with GraphQL, React, React Native, and Electron | Adam D. Scott | download](https://de1lib.org/book/5351763/959436?dsource=recommend)
+* [The Joy of JavaScript | Luis Atencio | download](https://de1lib.org/book/11640760/e13a3b?dsource=recommend)
 * https://github.com/kripken/ammo.js
 * https://github.com/privatenumber/cleye
 * https://github.com/GoogleChromeLabs/squoosh
-Book: [JS RegEx](https://learnbyexample.github.io/learn_js_regexp/)
+* Book: [JS RegEx](https://learnbyexample.github.io/learn_js_regexp/)
 
-## **`271⭐`**  **`21🍴`** [Bible.Js CLI](https://github.com/BibleJS/BibleApp)) - Bible.
+##    [Bible.Js CLI](https://github.com/BibleJS/BibleApp)) - Bible.
 
-## **`1047⭐`**  **`83🍴`** [football-cli](https://github.com/ManrajGrover/football-cli)) - Get live scores, fixtures, standings of almost every football competition/league.
+##    [football-cli](https://github.com/ManrajGrover/football-cli)) - Get live scores, fixtures, standings of almost every football competition/league.
 
-## **`78⭐`**  **`2🍴`** [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot)) - Traverse the Mandelbrot fractal.
+##    [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot)) - Traverse the Mandelbrot fractal.
 
-## **`125⭐`**  **`5🍴`** [sparkly-cli](https://github.com/sindresorhus/sparkly-cli)) - Generate sparklines ▁▂▃▅▂▇..
+##    [sparkly-cli](https://github.com/sindresorhus/sparkly-cli)) - Generate sparklines ▁▂▃▅▂▇..
 * https://github.com/JoshuaKGoldberg/TypeStat
 * https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html?utm_source=tldrnewsletter
 * [JS Neural Networks](https://youtu.be/Rs_rAxEsAvI)
-**[Learn Enough JavaScript to Be Dangerous: Write Programs, Publish Packages, and Develop Interactive Websites with JavaScript](http://library.lol/main/9D1C4DDAB3855237C8AB77C5E47E2654)** 
-**[JavaScript from Beginner to Professional: Learn JavaScript quickly by building fun, interactive, and dynamic web apps, games, and pages](http://library.lol/main/D98C1CE8FBFB93F938EFFC61759A5A8D)** 
+* [Learn Enough JavaScript to Be Dangerous: Write Programs, Publish Packages, and Develop Interactive Websites with JavaScript](http://library.lol/main/9D1C4DDAB3855237C8AB77C5E47E2654) * [JavaScript from Beginner to Professional: Learn JavaScript quickly by building fun, interactive, and dynamic web apps, games, and pages](http://library.lol/main/D98C1CE8FBFB93F938EFFC61759A5A8D) 
 * [Deno — A modern runtime for JavaScript and TypeScript](https://deno.land/)
 * [Bun — A fast all-in-one JavaScript runtime](https://bun.sh/)
 * [Learn JavaScript for Beginners – JS Basics Handbook](https://www.freecodecamp.org/news/learn-javascript-for-beginners/)
@@ -646,7 +642,7 @@ Book: [JS RegEx](https://learnbyexample.github.io/learn_js_regexp/)
 * [TypeScript: The starting point for learning TypeScript](https://www.typescriptlang.org/docs/handbook/)
 * [5 NPM Alternatives You Should Try - DEV Community](https://dev.to/devland/5-npm-alternatives-you-should-try-a28)
 * [Clements, David Mark - Node Cookbook](https://libgen.is/book/index.php?md5=D09A3194F385EC9513892A95F59382DC)
-**[Hands-On Functional Programming with TypeScript: Explore functional and reactive programming to create robust and testable TypeScript applicatons](http://library.lol/main/3D1518EAA1FFE2570360F403B3368925)**
+* [Hands-On Functional Programming with TypeScript: Explore functional and reactive programming to create robust and testable TypeScript applicatons](http://library.lol/main/3D1518EAA1FFE2570360F403B3368925)
 
 ## Kotlin
 * http://libgen.is/search.php?&req=kotlin&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
@@ -730,28 +726,27 @@ Book: [JS RegEx](https://learnbyexample.github.io/learn_js_regexp/)
 * [The Programming Language Lua](https://www.lua.org/home.html)
 * [Lua: download](https://www.lua.org/download.html)
 * [lua-users wiki: Tables Tutorial](http://lua-users.org/wiki/TablesTutorial)
-Remember that this structure is a starting point, and you can adapt it based on your project's specific needs and preferences. It's essential to maintain a logical and organized structure to make your project more maintainable and understandable for yourself and others who might contribute to or use your code.
-1. **`README.md`**: It's a best practice to include a README file that provides an overview of your project, installation instructions, usage examples, and any other pertinent information.
-2. **`docs/`**: This directory can be used to store project documentation, such as API references, guides, or any other relevant documentation files.
-3. **`tests/`**: This directory is reserved for unit tests. It can contain test scripts or subdirectories to organize tests for different components of your codebase.
-4. **`src/`**: This directory is where you place your Lua source code files. It can contain different subdirectories based on the organization and structure of your code. One common practice is to have a **`modules/`** directory to store reusable Lua modules that encapsulate specific functionalities.
-5. **`assets/`**: This directory is used to store static assets such as images, sounds, or other files that your project relies on. Organize the assets according to their types or categories to maintain a clean structure.
-6. **`config.lua`**: This file can hold configuration settings and constants for your project. It's often used to store variables that may change across different environments or deployment scenarios.
-7. **`main.lua`**: This file serves as the entry point of your Lua application. It typically contains the main logic or function calls to start and run your program.
-Let's explore each component in more detail:
+* Remember that this structure is a starting point, and you can adapt it based on your project's specific needs and preferences. It's essential to maintain a logical and organized structure to make your project more maintainable and understandable for yourself and others who might contribute to or use your code.
+* 1. `README.md`: It's a best practice to include a README file that provides an overview of your project, installation instructions, usage examples, and any other pertinent information.
+* 2. `docs/`: This directory can be used to store project documentation, such as API references, guides, or any other relevant documentation files.
+* 3. `tests/`: This directory is reserved for unit tests. It can contain test scripts or subdirectories to organize tests for different components of your codebase.
+* 4. `src/`: This directory is where you place your Lua source code files. It can contain different subdirectories based on the organization and structure of your code. One common practice is to have a `modules/` directory to store reusable Lua modules that encapsulate specific functionalities.
+* 5. `assets/`: This directory is used to store static assets such as images, sounds, or other files that your project relies on. Organize the assets according to their types or categories to maintain a clean structure.
+* 6. `config.lua`: This file can hold configuration settings and constants for your project. It's often used to store variables that may change across different environments or deployment scenarios.
+* 7. `main.lua`: This file serves as the entry point of your Lua application. It typically contains the main logic or function calls to start and run your program.
+* Let's explore each component in more detail:
 ```
-luaCopy code
-project/
+* luaCopy code
+* project/
   |- main.lua          -- The entry point of your application
   |- config.lua        -- Configuration file for your project
   |- assets/           -- Directory for storing static assets (images, sounds, etc.)
-  |- src/              -- Directory for your Lua source code
-      |- modules/      -- Directory for your custom Lua modules
+  |- src/              -- Directory for your Lua source code*   |- modules/      -- Directory for your custom Lua modules
   |- tests/            -- Directory for unit tests
   |- docs/             -- Directory for documentation
   |- README.md         -- Project README file
 ```
-The structure of a Lua project can vary depending on the specific requirements, frameworks, or libraries being used. However, there are some common conventions and practices that can be followed to organize a Lua project. Here's a standard structure that you can use as a starting point:
+* The structure of a Lua project can vary depending on the specific requirements, frameworks, or libraries being used. However, there are some common conventions and practices that can be followed to organize a Lua project. Here's a standard structure that you can use as a starting point:
 * [Algebraic Data Types in Lua](https://mrcjkb.dev/posts/2023-08-17-lua-adts.html)
 * https://github.com/MhadhbiXissam/pythonicLua 
 * https://github.com/scoder/lupa 
@@ -780,7 +775,7 @@ The structure of a Lua project can vary depending on the specific requirements, 
 * https://www.cpan.org/
 * http://www-igm.univ-mlv.fr/~dr/XPOSE/PerlVsPython/
 * http://camelbones.sourceforge.net/docs/index.html
-ActivePerl User Guide
+* ActivePerl User Guide
 * [CamelBones - Documentation](http://camelbones.sourceforge.net/docs/index.html)
 * https://stackoverflow.com/questions/73667/how-can-i-start-an-interactive-console-for-perl
 * [Installation und ein Anfang mit Perl](https://de.perlmaven.com/installation-und-ein-anfang-mit-perl)
@@ -795,25 +790,24 @@ ActivePerl User Guide
 * [Library - www.perl.org](https://www.perl.org/books/library.html)
 * [perlintro - perldoc.perl.org](http://perldoc.perl.org/perlintro.html)
 * [Perl — Википедия](https://ru.wikipedia.org/wiki/Perl)
-Perl - kurz und gut
+* Perl - kurz und gut
 * https://raku.guide/
 * [Library Genesis: Peteris Krumins - Perl One-Liners: 130 Programs That Get Things Done](http://libgen.rs/book/index.php?md5=9CA2A82EE44E703454B088BC62933D18)
 
-## https://github.com/cmatsuoka/asciiquarium - Enjoy the mysteries of the sea from the safety of your own terminal!
-**[Raku Fundamentals : A Primer with Examples, Projects, and Case Studies](http://library.lol/main/8FFF5971961E4BE29C265396BDCF39D2)**
-**[Raku Recipes: A Problem-Solution Approach](http://library.lol/main/27E6D009FA818D326139DA82C76A4BB9)**
-**[Beginning Raku, A Two Day Course](http://library.lol/main/EDBB29E720B468871BEC312F78F0659F)**
-**[Perl 6 Fundamentals : A Primer with Examples, Projects, and Case Studies](http://library.lol/main/FF72A922A297EF6089337D34239EEED3)**
-**[Learning Perl 6: Keeping the Easy, Hard, and Impossible within Reach](http://library.lol/main/679AAF40C6220B63E09BA437D9583028)**
-**[Perl 6 Deep Dive](http://library.lol/main/CF97914AFA6A9E5451EF93EA979298FC)**
-**[Perl 6 Quick Syntax Reference: A Pocket Guide to the Language, the Core Modules, and the Community](http://library.lol/main/5C6CA58FF276E689CDCC95FD5AECFED2)**
-**[Think Perl 6: How to Think Like a Computer Scientist](http://library.lol/main/5AD7E196E1AD768DD3BFD33BC2886B73)**
-**[Perl 6 at a Glance](http://library.lol/main/5B94CBDA5C09B7AD1BE2E7035D8EEDF7)**
-**[Raku syntax I miss in other languages - Leon Timmermans](https://www.youtube.com/watch?v=elalwvfmYgk)**
-**[Raku for Beginners - Bruce Gray - TPRC 2023](https://www.youtube.com/watch?v=eb-j1rxs7sc)**
-**[Raku: The Programming Language You Didn't Know You Needed](https://www.youtube.com/watch?v=LEFVQaSgJ60)**
-**[An introduction to Perl6](https://www.youtube.com/watch?v=Q-t073TOFyw)**
-**[Perl 6 Quick Syntax Reference: A Pocket Guide to the Language, the Core Modules, and the Community](http://library.lol/main/5C6CA58FF276E689CDCC95FD5AECFED2)** 
+## https://github.com/cmatsuoka/asciiquarium - Enjoy the mysteries of the sea from the safety of your own terminal!* [Raku Fundamentals : A Primer with Examples, Projects, and Case Studies](http://library.lol/main/8FFF5971961E4BE29C265396BDCF39D2)
+* [Raku Recipes: A Problem-Solution Approach](http://library.lol/main/27E6D009FA818D326139DA82C76A4BB9)
+* [Beginning Raku, A Two Day Course](http://library.lol/main/EDBB29E720B468871BEC312F78F0659F)
+* [Perl 6 Fundamentals : A Primer with Examples, Projects, and Case Studies](http://library.lol/main/FF72A922A297EF6089337D34239EEED3)
+* [Learning Perl 6: Keeping the Easy, Hard, and Impossible within Reach](http://library.lol/main/679AAF40C6220B63E09BA437D9583028)
+* [Perl 6 Deep Dive](http://library.lol/main/CF97914AFA6A9E5451EF93EA979298FC)
+* [Perl 6 Quick Syntax Reference: A Pocket Guide to the Language, the Core Modules, and the Community](http://library.lol/main/5C6CA58FF276E689CDCC95FD5AECFED2)
+* [Think Perl 6: How to Think Like a Computer Scientist](http://library.lol/main/5AD7E196E1AD768DD3BFD33BC2886B73)
+* [Perl 6 at a Glance](http://library.lol/main/5B94CBDA5C09B7AD1BE2E7035D8EEDF7)
+* [Raku syntax I miss in other languages - Leon Timmermans](https://www.youtube.com/watch?v=elalwvfmYgk)
+* [Raku for Beginners - Bruce Gray - TPRC 2023](https://www.youtube.com/watch?v=eb-j1rxs7sc)
+* [Raku: The Programming Language You Didn't Know You Needed](https://www.youtube.com/watch?v=LEFVQaSgJ60)
+* [An introduction to Perl6](https://www.youtube.com/watch?v=Q-t073TOFyw)
+* [Perl 6 Quick Syntax Reference: A Pocket Guide to the Language, the Core Modules, and the Community](http://library.lol/main/5C6CA58FF276E689CDCC95FD5AECFED2) 
 
 ## Prolog
 * [PROLOG Cheat Sheet](http://www.cs.oswego.edu/~odendahl/coursework/notes/prolog/synopsis/)
@@ -835,14 +829,14 @@ Perl - kurz und gut
 * [RStudio Cheatsheets](https://rstudio.com/resources/cheatsheets/)
 * [Открытое образование - R для лингвистов: программирование и анализ данных](https://courses.openedu.ru/courses/course-v1:hse+RLING+spring_2019/courseware)
 * [R | Physics.Math.Code.Books](https://vk.com/topic-51126445_36435576)
-R for Everyone
+* R for Everyone
 * https://www.syncfusion.com/ebooks/r-programming_succinctly
 * https://towardsdatascience.com/animating-your-data-visualizations-like-a-boss-using-r-f94ae20843e3
-R для лингвистов https://openedu.ru/course/hse/RLING/ https://courses.openedu.ru/courses/course-v1:hse+RLING+spring_2019/progress
-R Language Tutorials: http://www.endmemo.com/r/index.php
+* R для лингвистов https://openedu.ru/course/hse/RLING/ https://courses.openedu.ru/courses/course-v1:hse+RLING+spring_2019/progress
+* R Language Tutorials: http://www.endmemo.com/r/index.php
 * [R for Data Science: Import, Tidy, Transform, Visualize, and Model Data | Hadley Wickham, Garrett Grolemund | download](https://b-ok.cc/book/2850613/b8f661?dsource=recommend)
 * [A Beginner's Guide to R_Alain Zuur, Elena N. Ieno, Erik Meesters_2009](http://link.springer.com/openurl?genre=book&isbn=978-0-387-93837-0)
-R for Everyone
+* R for Everyone
 * [TriMatch: An R Package for Propensity Score Matching of Non-binary Treatments](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.444.232&rep=rep1&type=pdf)
 * https://rdrr.io/snippets/ (run R online)
 * https://cran.r-project.org/web/packages/CBPS/CBPS.pdf
@@ -928,29 +922,27 @@ R for Everyone
 * [Statistical Analysis and Data Display: An Intermediate Course with Examples in R | Richard M. Heiberger, Burt Holland | download](https://b-ok.cc/book/2647188/b97fb5)
 * [STHDA - Accueil](http://www.sthda.com/french/)
 * [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html#Density%20Plot)
-**[Статистический анализ и визуализация данных с помощью R](https://vk.com/doc44301783_610996081?hash=13c1cfb2ebea814cb4&dl=bb20899e4d048be74c)**
+* [Статистический анализ и визуализация данных с помощью R](https://vk.com/doc44301783_610996081?hash=13c1cfb2ebea814cb4&dl=bb20899e4d048be74c)
 * [R Programming Questions and Answers – Overview of R – 1](https://www.sanfoundry.com/r-programming-questions-answers-overview/)
 * https://www.sanfoundry.com/1000-r-programming-questions-answers/
 * https://data-flair.training/blogs/r-programming-quiz-part-1/
 * https://data-flair.training/blogs/r-multiple-choice-questions-and-answers/
 * https://codescracker.com/exam/showtest.php?subid=24
 * [The Art of R Programming: A Tour of Statistical Software Design](https://de.de1lib.org/book/1220151/dace69)
-Advanced R
-Practical Data Science with R
-R in a Nutshell
+* Advanced R
+* Practical Data Science with R
+* R in a Nutshell
 * [R Internals](https://cran.r-project.org/doc/manuals/r-release/R-ints.html)
 * [Library Genesis: Rick J. Scavetta, Boyan Angelov - Python and R for the Modern Data Scientist: The Best of Both Worlds](https://libgen.is/book/index.php?md5=445FBB1F48C9C19103ABF25236A22AFB)
 * https://www.bigbookofr.com/
 * [Jd Long; Paul Teetor - R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics](https://libgen.is/book/index.php?md5=90F504CD8C373954505E788F9E8AB5CA)
 * [R Graphics Cookbook Practical Recipes for Visualizing Data](https://libgen.is/book/index.php?md5=C18698222DC746FDDAD3E4D75C695990)
-**[R 4 Quick Syntax Reference: A Pocket Guide to the Language, API’s and Library](http://library.lol/main/FE67CA67C6334B445E28F9AFAD0E090B)** 
-**[R Quick Syntax Reference: A Pocket Guide to the Language, APIs and Library](http://library.lol/main/5B5ACA469F6C3200FEA94AA5586CDB27)** 
+* [R 4 Quick Syntax Reference: A Pocket Guide to the Language, API’s and Library](http://library.lol/main/FE67CA67C6334B445E28F9AFAD0E090B) * [R Quick Syntax Reference: A Pocket Guide to the Language, APIs and Library](http://library.lol/main/5B5ACA469F6C3200FEA94AA5586CDB27) 
 
 ## Rust
 * https://doc.rust-lang.org/stable/book/ 
 * https://doc.rust-lang.org/stable/rust-by-example/ 
-* https://rust-lang-nursery.github.io/rust-cookbook/ 
-**[How to Learn Rust](https://www.youtube.com/watch?v=2hXNd6x9sZs)**
+* https://rust-lang-nursery.github.io/rust-cookbook/ * [How to Learn Rust](https://www.youtube.com/watch?v=2hXNd6x9sZs)
 
 ## Web
 * https://actix.rs/
@@ -996,7 +988,7 @@ R in a Nutshell
 * https://learnxinyminutes.com/docs/rust/
 * https://doc.rust-lang.org/std/string/struct.String.html#method.split
 * https://www.dotnetperls.com/join-rust
-replace .abridge-...poetry-env.py with faster command (Rust binary)
+* replace .abridge-...poetry-env.py with faster command (Rust binary)
 * [uutils/coreutils: Cross-platform Rust rewrite of the GNU coreutils](https://github.com/uutils/coreutils)
 * https://rustpython.github.io/
 * [Reddit - [OC] A Spotify terminal user interface written in Rust](https://www.reddit.com/r/unixporn/comments/dekj2i/oc_a_spotify_terminal_user_interface_written_in/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=10&utm_content=share_button)
@@ -1019,8 +1011,8 @@ replace .abridge-...poetry-env.py with faster command (Rust binary)
 * https://book.iced.rs/
 * [Ferris Talk #8: Wasm loves Rust – WebAssembly und Rust jenseits des Browsers](https://www.heise.de/amp/hintergrund/Ferris-Talk-8-Wasm-loves-Rust-WebAssembly-und-Rust-jenseits-des-Browsers-7064040.html)
 * [How to build a window manager in Rust - YouTube](https://www.youtube.com/watch?v=xRvIyN09UKc)
-Technical Notes — PyOxidizer 0.6.0 documentationISO/IEC 9899:1999 - n1256.pdf
-ParthPant/chess-rs
+* Technical Notes — PyOxidizer 0.6.0 documentationISO/IEC 9899:1999 - n1256.pdf
+* ParthPant/chess-rs
 * [Learn Rust - Rust Programming Language](https://www.rust-lang.org/learn)
 * https://oxidizeyour.life/
 * https://docs.rs/clap/latest/clap/
@@ -1077,35 +1069,34 @@ ParthPant/chess-rs
 * [Library Genesis: Steve Klabnik, Carol Nichols - The Rust Programming Language](https://libgen.is/book/index.php?md5=71E1DED8F44F9E62A6C9414181E07851)
 * [Library Genesis: Vigneshwer Dhinakaran - Rust Cookbook](https://libgen.is/book/index.php?md5=D2E80F535EB22A920BB793FE3EB926DA)
 * [Library Genesis: Джим Блэнди, Джейсон Орендорф - Программирование на языке Rust](https://libgen.is/book/index.php?md5=1D8713E39F4D66606D5A4318B9B5E16B)
-Miscellaneous
-Rust Docs
+* Miscellaneous
+* Rust Docs
 * [rust-lang/rustlings: Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings/)
 * [rust-ndarray/ndarray: ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations](https://github.com/rust-ndarray/ndarray)
 * [rustup.rs - The Rust toolchain installer](https://rustup.rs/)
 * [std - Rust](https://doc.rust-lang.org/std/index.html)
 * [The Rust Programming Language - The Rust Programming Language](https://doc.rust-lang.org/book/)
-Tutorials & Courses
+* Tutorials & Courses
 * https://blog.meilisearch.com/
 * [rustenv · PyPI](https://pypi.org/project/rustenv/)
-* [Rust Tutorial: An Introduction to Rust for JavaScript Devs](https://www.sitepoint.com/rust-tutorial-introduction-javascript-devs/)
-**https://github.com/PaddiM8/kalker**
-**[federico-terzi/espanso: Cross-platform Text Expander written in Rust](https://github.com/federico-terzi/espanso)**
-**[Fullstack Rust | Nate Murray | download](https://de1lib.org/book/5557795/539e21?dsource=recommend)**
+* [Rust Tutorial: An Introduction to Rust for JavaScript Devs](https://www.sitepoint.com/rust-tutorial-introduction-javascript-devs/)* https://github.com/PaddiM8/kalker
+* [federico-terzi/espanso: Cross-platform Text Expander written in Rust](https://github.com/federico-terzi/espanso)
+* [Fullstack Rust | Nate Murray | download](https://de1lib.org/book/5557795/539e21?dsource=recommend)
 * http://arewelearningyet.com/neural-networks/
 * https://github.com/tauri-apps/wry
 * https://tauri.studio/en/
 * https://github.com/v1nam/travelling_salesman
 * https://lib.rs/science/ml
 * [https://www.reddit.com/r/rust/comments/aofkg4/neural_networks_what_crates_to_use](https://www.reddit.com/r/rust/comments/aofkg4/neural_networks_what_crates_to_use/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
-**[Practical Machine Learning With Rust: Creating Intelligent Applications In Rust | Joydeep Bhattacharjee | download](https://de1lib.org/book/5304256/0ff807?dsource=recommend)**
-**[Practical Rust Projects: Building Game, Physical Computing, and Machine Learning Applications | Shing LYu | download](https://de1lib.org/book/5461329/7b0c0e?dsource=recommend)**
+* [Practical Machine Learning With Rust: Creating Intelligent Applications In Rust | Joydeep Bhattacharjee | download](https://de1lib.org/book/5304256/0ff807?dsource=recommend)
+* [Practical Rust Projects: Building Game, Physical Computing, and Machine Learning Applications | Shing LYu | download](https://de1lib.org/book/5461329/7b0c0e?dsource=recommend)
 * [Solving Sudokus Like A Human](https://youtu.be/EXAPZUMj_sU)
-**[The Complete Rust Programming Reference Guide | Rahul Sharma; Vesa Kaihlavirta; Claus Matzinger | download](https://de1lib.org/book/5213943/242d55?dsource=recommend)**
-**[The Rust Programming Language | Steve Klabnik; Carol Nichols | download](https://de1lib.org/book/5236575/3e3e64?dsource=recommend)**
-**[Rust Web Programming: A hands-on guide to developing fast and secure web apps with the Rust programming language](http://library.lol/main/4541B151DBE6B8CB852D810BBE53C8ED)**
+* [The Complete Rust Programming Reference Guide | Rahul Sharma; Vesa Kaihlavirta; Claus Matzinger | download](https://de1lib.org/book/5213943/242d55?dsource=recommend)
+* [The Rust Programming Language | Steve Klabnik; Carol Nichols | download](https://de1lib.org/book/5236575/3e3e64?dsource=recommend)
+* [Rust Web Programming: A hands-on guide to developing fast and secure web apps with the Rust programming language](http://library.lol/main/4541B151DBE6B8CB852D810BBE53C8ED)
 * [DevInsideYou](https://www.youtube.com/channel/UCSBUwLT9zXhUalKfJrc2q2A)
-The Book of R: A First Course in Programming and Statistics
-The Complete Rust Programming Reference Guide
+* The Book of R: A First Course in Programming and Statistics
+* The Complete Rust Programming Reference Guide
 * [The Downside of Rust - YouTube](https://www.youtube.com/watch?v=pmt0aaquh4o)
 * [From Julia to Rust](https://miguelraz.github.io/blog/juliatorust/index.html)
 * https://dev.to/donaldsebleung/containers-from-first-principles-with-rust-2211
@@ -1118,40 +1109,32 @@ The Complete Rust Programming Reference Guide
 * https://www.arewelearningyet.com/
 * https://github.com/UgurcanAkkok/AreWeRustYet
 * https://github.com/mattsse/voyager
----
 * https://github.com/stevepryde/thirtyfour
----
 * https://github.com/jakeswenson/notion
----
 * https://github.com/jw/styrus
----
 * https://github.com/LukeMathWalker/zero-to-production
 * https://github.com/makepad/makepad
----
 * https://www.areweguiyet.com/
----
 * https://www.arewelearningyet.com/
----
 * https://github.com/UgurcanAkkok/AreWeRustYet
 * https://rustacean-station.org/ 
 * https://rustexp.lpil.uk/ (Rust regex editor and tester)
-**[Rust, Modern Solutions to Modern Problems](https://www.youtube.com/watch?app=desktop&v=pNWKI6xtveQ)**
+* [Rust, Modern Solutions to Modern Problems](https://www.youtube.com/watch?app=desktop&v=pNWKI6xtveQ)
 * https://github.com/redas24/webserc (Rust learning)
 * https://michael-f-bryan.github.io/cheat-sheets/Rust/rust_interop.html 
 * https://github.com/rust-lang/rustlings 
 * https://www.reddit.com/r/rust/comments/zdgtdi/rust_for_mobile_development/ 
 * [Interactive Rust in a REPL and Jupyter Notebook with EVCXR | Depth-First](https://depth-first.com/articles/2020/09/21/interactive-rust-in-a-repl-and-jupyter-notebook-with-evcxr/)
-**[Rust Language 🦀 Crash Course for beginners](https://www.youtube.com/watch?v=nweNM-TQYfs)**
-**[Rust Tutorial Full Course](https://www.youtube.com/watch?v=ygL_xcavzQ4)**
-* https://fasterthanli.me/articles/rust-the-wrong-people-are-resigning 
-**[Rust Functions Are Weird (But Be Glad)](https://www.youtube.com/watch?v=SqT5YglW3qU)**
+* [Rust Language 🦀 Crash Course for beginners](https://www.youtube.com/watch?v=nweNM-TQYfs)
+* [Rust Tutorial Full Course](https://www.youtube.com/watch?v=ygL_xcavzQ4)
+* https://fasterthanli.me/articles/rust-the-wrong-people-are-resigning * [Rust Functions Are Weird (But Be Glad)](https://www.youtube.com/watch?v=SqT5YglW3qU)
 * [show_notes - Rust](https://newrustacean.com/show_notes/)
 * [New Rustacean: A Podcast About Learning Rust](https://newrustacean.com/)
 * [Elm - delightful language for reliable web applications](https://elm-lang.org/)
 * [Notes on a smaller Rust - Without boats, dreams dry up](https://without.boats/blog/notes-on-a-smaller-rust/)
 * [Язык программирования Rust - Язык программирования Rust](https://doc.rust-lang.ru/book/)
 * [Experiment Introduction - The Rust Programming Language](https://rust-book.cs.brown.edu/)
-**[All Rust features explained](https://www.youtube.com/watch?v=784JWR4oxOI)**
+* [All Rust features explained](https://www.youtube.com/watch?v=784JWR4oxOI)
 * [All Rust features explained - YouTube](https://www.youtube.com/watch?v=784JWR4oxOI)
 * [Rust is being destroyed from the inside - YouTube](https://www.youtube.com/watch?v=QEnuzwCWpgQ)
 * [Easy functional programming techniques in Rust for everyone | Technorage](https://deepu.tech/functional-programming-in-rust/)
@@ -1182,12 +1165,11 @@ The Complete Rust Programming Reference Guide
 * [ScalaIO FR](https://www.youtube.com/channel/UCyiLZ70zZnb-t8n7TTxghhA)
 * [Scala](https://www.newsletter.datasciencecentral.com/click.html?x=a62e&lc=ubW&mc=j&s=jFaI&u=F&y=J&z=wS4P8Fz&)
 * [A Beginner's Guide to Scala, Object Orientation and Functional Program_mJoihnng Hunt_2nd ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-75771-1)
-Scala in Action
+* Scala in Action
 * [Learning Scala](https://b-ok.cc/s/?q=Learning+Scala)
 * https://databricks.com/blog/2021/12/03/scala-at-scale-at-databricks.html
-**[Introduction - Scala Succinctly Ebook | Syncfusion](https://www.syncfusion.com/succinctly-free-ebooks/scala-succinctly/introduction)**
-* [Let’s Code Real World App Using Purely Functional Techniques (in Scala) - YouTube](https://www.youtube.com/watch?v=m40YOZr1nxQ)
-**https://twitter.github.io/scala_school/**
+* [Introduction - Scala Succinctly Ebook | Syncfusion](https://www.syncfusion.com/succinctly-free-ebooks/scala-succinctly/introduction)
+* [Let’s Code Real World App Using Purely Functional Techniques (in Scala) - YouTube](https://www.youtube.com/watch?v=m40YOZr1nxQ)* https://twitter.github.io/scala_school/
 * [Язык Scala, сложности поддержки Scala в IDE и Play Framework 2.0](https://www.youtube.com/watch?v=r2tzd7-LXdI&list=PL-_cKNuVAYAVR22Vkj3pE1kWMPGkZoXfI)
 * [Scala Cookbook: Recipes for Object-Oriented and Functional Programming](http://libgen.is/book/index.php?md5=007C952965B3B4C2F3AD9F9A726D506D)
 * [Alvin Alexander - Scala Cookbook: Recipes for Object-Oriented and Functional Programming](https://libgen.is/book/index.php?md5=007C952965B3B4C2F3AD9F9A726D506D)
@@ -1202,7 +1184,7 @@ Scala in Action
 ## C#, F#, etc.
 * [Format Your .NET Code with Git Hooks | by Randula Koralage | Medium](https://randulakoralage82.medium.com/format-your-net-code-with-git-hooks-a0dc33f68048)
 * [Setting up pre-commit hooks for a .NET project](https://andrewnt.dev/setting-up-pre-commit-hooks-for-a-net-project)
-**[C# 10 Quick Syntax Reference: A Pocket Guide to the Language, APIs, and Library](http://library.lol/main/54DADB506E4A640AFAB2C33D1C30ACC9)** 
+* [C# 10 Quick Syntax Reference: A Pocket Guide to the Language, APIs, and Library](http://library.lol/main/54DADB506E4A640AFAB2C33D1C30ACC9) 
 
 ## Zig
 * https://github.com/ratfactor/ziglings 
@@ -1261,8 +1243,7 @@ Scala in Action
 * [which programming languages were created in Germany - Google Search](https://www.google.com/search?q=which+programming+languages+were+created+in+Germany&client=firefox-b-d&sxsrf=AJOqlzU0zXhyW4thgJjFbBE1kuNhACZ8Aw:1677324252888&ei=3O_5Y4rhNYSZlQfY6YtY&start=10&sa=N&ved=2ahUKEwiKv5Dix7D9AhWETOUKHdj0AgsQ8tMDegQIAxAE&biw=1717&bih=757&dpr=1)
 
 ## To Sort
-* https://aplusplus.net/appintro.html
-    **[Learn Bosque Programming: Discover the world's first regularized programming language](http://library.lol/main/1A5B5A5FE1F0E9EE563709DE169DB4E6)**
+* https://aplusplus.net/appintro.html    * [Learn Bosque Programming: Discover the world's first regularized programming language](http://library.lol/main/1A5B5A5FE1F0E9EE563709DE169DB4E6)
 * [C# Programming Examples](https://www.sanfoundry.com/csharp-programming-examples/)
 * [Clojure by Example](https://kimh.github.io/clojure-by-example/#about-this-page)
 * https://bigzaphod.github.io/COW/
@@ -1279,8 +1260,7 @@ Scala in Action
 * [Introduction | Gen](https://probcomp.github.io/Gen/)
 * [Nim in Action | Dominik Picheta | download](https://b-ok.cc/book/3615638/f732fd)
 * [Esolang, the esoteric programming languages wiki](https://esolangs.org/wiki/Main_Page)
-* https://www.zhubert.com/blog/2015/03/09/smalltalk-best-practices/
-    Smalltalk: the language and its implementation
+* https://www.zhubert.com/blog/2015/03/09/smalltalk-best-practices/* Smalltalk: the language and its implementation
 * [SAS](https://www.newsletter.datasciencecentral.com/click.html?x=a62e&lc=ubu&mc=j&s=jFaI&u=F&y=r&z=wwpTvTC&)
 * [Clojure for the Brave and True Learn the Ultimate Language and Become a Better Programmer.epub](https://vk.com/doc348852382_454531075?hash=b1d8d7ad6e77bec9dd&dl=01d4503d7e34ee4e01)
 * [Incanter: Statistical Computing and Graphics Environment for Clojure](http://incanter.org/)
@@ -1303,8 +1283,7 @@ Scala in Action
 * [Wolfram|Alpha: Examples by Topic](https://www.wolframalpha.com/examples/?wal_campaign=%7B%22Action%22%3A%22Email%20Link%20Clicked%22%2C%22User%22%3A%220d118be0-dc70-46f7-b8d0-214dfd289cc9%22%2C%22Series%22%3A%22%22%2C%22Template%22%3A%22Welcome%20To%20Wolfram%20Alpha%22%2C%22Version%22%3A1%7D)
 * https://tgraph.io/Osnovy-XML-dlya-nachinayushchih-10-16
 * [XML - Schemas - Tutorialspoint](https://www.tutorialspoint.com/xml/xml_schemas.htm)
-* [Converting a DTD into a Schema](https://www.informit.com/articles/article.aspx?p=24614)
-    **https://www.eolang.org/**
+* [Converting a DTD into a Schema](https://www.informit.com/articles/article.aspx?p=24614)    * https://www.eolang.org/
 * https://www.quora.com/How-secure-is-Ada-the-programming-language
 * https://github.com/syuilo/aiscript
 
@@ -1312,8 +1291,7 @@ Scala in Action
 * https://coq.inria.fr/ 
 * [Agda Docs](https://agda.readthedocs.io/en/v2.6.0.1/getting-started/what-is-agda.html)
 * https://ocaml.org/ 
-* https://www.idris-lang.org/ 
-**["Idris: Practical Dependent Types with Practical Examples" by Brian McKenna](https://www.youtube.com/watch?v=4i7KrG1Afbk)**
+* https://www.idris-lang.org/ * ["Idris: Practical Dependent Types with Practical Examples" by Brian McKenna](https://www.youtube.com/watch?v=4i7KrG1Afbk)
 * https://github.com/srush/GPU-Puzzles
 * https://hylang.org/ 
 * https://kcl-lang.io/ 
@@ -1326,8 +1304,7 @@ Scala in Action
 
 ## [Awk Exercises](https://url6652.creators.gumroad.com/ls/click?upn=56j1UXPh1eye3mggAaGeSozoLopcIBtaMY6kC1OjuuTsfLN2qgVtxzs2YbF6MethLxlGP0muRNAH-2Bv6El5EZMb3Cbpk84ETXrpgYOMuYf9c-3Dd6GN_Ok-2F1QZUoWNfwArWx1OpnKP3rAR9xqW9UxFasc9TFWJtpfu3uN9QXWSEVAiG0giAEROyvE0zQOoXOiiMDVg4Fsq8w6Zs8rGdSbMZD2aBXb5i4uoFNj8XsEA7mtMBFVWqsHQLLA9n-2FyBw-2B740Etvomb821njsZo-2FgP0zcqnJjpUTUsJZFzEBz3QJ-2BAbvJzuYwk5N-2FuivlVvEu5roljSBqYyh6TJgBLGmtbjdXyAjgr5b7vBC0YxiNMYbhh8IiWv6YcBPE15JUhTxIKXmIQIY37-2BQ3qJu4F-2BR2R53fPKVQF3sofeI0bLfmF5sjqG9iGUVD6SZMgVBEtCnxReaXZTK8WuktyqrZl-2FkgR7ftH0UzNF-2Bp-2BFEbFUwjS-2BpURpwUIdd-2BAPd001-2FDdo6o2DiGZ61VHOFz0MlOgr6vw2udTmFHCjgBC-2BinWwlaiwHUDwRQ-2BBSGVcFuQum8gYDjNX9tB2-2BQNV0b2C7NRvtCgxRwCDrYJgSGLzPY6BXIWvVORqF8EgxPhkAMUv2uCUu9YoNpPHl7KUalgoZOShZBLETlo7YUBBfI-3D) — 80+ exercises for `GNU awk`
 * [gluon-lang/gluon: A static, type inferred and embeddable language written in Rust.](https://github.com/gluon-lang/gluon)
-* https://www.rubykoans.com/ 
-**[Programming Phoenix LiveView: Interactive Elixir Web Programming Without Writing Any JavaScript](http://library.lol/main/9C5056C39C0169040C815A75688A4BAB)** 
+* https://www.rubykoans.com/ * [Programming Phoenix LiveView: Interactive Elixir Web Programming Without Writing Any JavaScript](http://library.lol/main/9C5056C39C0169040C815A75688A4BAB) 
 * http://people.inf.elte.hu/divip/AgdaTutorial/Index.html 
 * https://wiki.portal.chalmers.se/agda/pmwiki.php 
 * [Introduction to Agda](https://www.youtube.com/playlist?list=PLB7F836675DCE009C)
@@ -1392,8 +1369,8 @@ Scala in Action
 * [NeshHari/XMonad: XMonad Starter Kit](https://github.com/NeshHari/XMonad#haskell-cheat-sheet)
 * https://github.com/beekeeper-studio/beekeeper-studio
 * https://github.com/LemonAppDev/konsist
-* https://dhall-lang.org/  ******
-* https://soliditylang.org/  ******
+* https://dhall-lang.org/  **
+* https://soliditylang.org/  **
 * https://catala-lang.org/ ***
 * https://github.com/scala-native/scala-native
 * https://livescript.net/ 
@@ -1404,7 +1381,7 @@ Scala in Action
 * https://github.com/astrolang/astro
 * https://pyret.org/index.html 
 * https://docs.luaplusplus.org/overview/what-is-lua++ https://github.com/luapp-org https://github.com/luapp-org/luapp 
-try Kotlin Native for some of the CLI tools I am writing? https://kotlinlang.org/docs/native-overview.html 
+* try Kotlin Native for some of the CLI tools I am writing? https://kotlinlang.org/docs/native-overview.html 
 
 ## [ ]  https://github.com/kdl-org/kdl
 
@@ -1429,17 +1406,17 @@ try Kotlin Native for some of the CLI tools I am writing? https://kotlinlang.org
 * https://github.com/trishume/syntect
 * https://groups.csail.mit.edu/mac/users/gjs/6.945/readings/Steele-MIT-April-2017.pdf 
 * [https://www.google.com/search?q=embed janet in rust&ie=utf-8&oe=utf-8&client=firefox-b-m](https://www.google.com/search?q=embed%20janet%20in%20rust&ie=utf-8&oe=utf-8&client=firefox-b-m) 
-**No Nonsense Monad & Functor - The foundation of Functional Programming** https://www.youtube.com/watch?v=e6tWJD5q8uw 
+No Nonsense Monad & Functor - The foundation of Functional Programming https://www.youtube.com/watch?v=e6tWJD5q8uw 
 * https://blog.logrocket.com/when-to-use-rust-when-to-use-golang/ 
 * https://blog.logrocket.com/getting-up-to-speed-with-rust/ 
-**Haskell: Monads. A 5-minute introduction** https://www.youtube.com/watch?v=_Gk_lwhJMzk 
+Haskell: Monads. A 5-minute introduction https://www.youtube.com/watch?v=_Gk_lwhJMzk 
 * https://cstack.github.io/db_tutorial/ 
 * http://www.om-language.org/ 
-The Golang Garbage Collector https://youtu.be/gPxFOMuhnUU?si=YY8ftnqc-Qutm4nb 
-**A closer look at garbage collection in Go, William Kennedy** https://youtu.be/sJgJqzYxrks?si=rxeYDMBnSEY3d9io 
-cli language discussion https://www.reddit.com/r/commandline/comments/fxydic/what_is_the_ideal_language_for_clis/?rdt=63173 
+* The Golang Garbage Collector https://youtu.be/gPxFOMuhnUU?si=YY8ftnqc-Qutm4nb 
+A closer look at garbage collection in Go, William Kennedy https://youtu.be/sJgJqzYxrks?si=rxeYDMBnSEY3d9io 
+* cli language discussion https://www.reddit.com/r/commandline/comments/fxydic/what_is_the_ideal_language_for_clis/?rdt=63173 
 * https://andrewbrookins.com/technology/building-implicit-interfaces-in-python-with-protocol-classes/ 
-JIT Compiler for CPython https://m.youtube.com/watch?v=HxSHIpEQRjs 
+* JIT Compiler for CPython https://m.youtube.com/watch?v=HxSHIpEQRjs 
 * https://dlang.org/ 
 * https://www.roc-lang.org/ 
 * https://elm-lang.org/ 
@@ -1458,12 +1435,12 @@ JIT Compiler for CPython https://m.youtube.com/watch?v=HxSHIpEQRjs
 * https://www.roc-lang.org/  $$$$$$$$$
 * [https://en.wikipedia.org/wiki/Lambda_calculus](https://en.wikipedia.org/wiki/Lambda_calculus?wprov=sfla1)
 * https://shenlanguage.org/professional.html 
-rust survival guide https://www.youtube.com/watch?v=usJDUSrcwqI 
-funktionale Architektur https://www.heise.de/news/software-architektur-tv-Funktionale-Architektur-mit-Mike-Sperber-9338550.html 
-**Garbage Collection Semantics - GopherCon SG 2019** https://youtu.be/q4HoWwdZUHs?si=i54ujh3ycSrlm4DE 
-Talk against JS https://m.youtube.com/watch?v=wKU65gV6FSA 
+* rust survival guide https://www.youtube.com/watch?v=usJDUSrcwqI 
+* funktionale Architektur https://www.heise.de/news/software-architektur-tv-Funktionale-Architektur-mit-Mike-Sperber-9338550.html 
+Garbage Collection Semantics - GopherCon SG 2019 https://youtu.be/q4HoWwdZUHs?si=i54ujh3ycSrlm4DE 
+* Talk against JS https://m.youtube.com/watch?v=wKU65gV6FSA 
 * https://www.freecodecamp.org/news/learn-bun-a-faster-node-js-alternative 
-**Memory management in golang** https://youtu.be/G1SP9uDJD0g?si=WutilJNhEiXtOAlQ 
+Memory management in golang https://youtu.be/G1SP9uDJD0g?si=WutilJNhEiXtOAlQ 
 * https://www.analyticsinsight.net/8-data-structures-you-should-know-for-javascript-programming/ 
 * https://thenewstack.io/bjarne-stroustrups-plan-for-bringing-safety-to-c/ 
 * [Learning Rust Live - 16-bit VM](https://www.youtube.com/watch?v=DgVLRImMhL0)

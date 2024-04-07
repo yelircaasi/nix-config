@@ -27,8 +27,7 @@ NixOS + i3
 NixOS + sway
 NixOS + Hyprland
 
-
-https://github.com/dbnicholson/deb-ostree-builder → ?
+* https://github.com/dbnicholson/deb-ostree-builder → ?
 
 sudo apt install
 sudo apt update && sudo apt upgrade
@@ -58,13 +57,7 @@ sudo vim /etc/netplan/00-installer-config-wifi.yaml
 #  wifis: {}
 network:
   version: 2
-  wifis:
-    wlp4s0:
-      optional: true
-      access-points:
-        HappyWifiHappyLifi:
-          password: Tairnbach2021!
-      dhcp4: true
+  wifis:* wlp4s0:*   optional: true*   access-points:*     HappyWifiHappyLifi:*       password: Tairnbach2021!*   dhcp4: true
 '
 
 sudo netplan apply
@@ -108,9 +101,7 @@ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o 
 
 sudo chmod a+r /etc/apt/keyrings/docker.gpg
 
-echo "deb [arch="$(dpkg --print-architecture)" signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \
-      "$(. /etc/os-release && echo "$VERSION_CODENAME")" stable" | \
-      sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+echo "deb [arch="$(dpkg --print-architecture)" signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \*   "$(. /etc/os-release && echo "$VERSION_CODENAME")" stable" | \*   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
 
 sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
@@ -261,10 +252,8 @@ cd .local/share/fonts
 rm *Windows*
 fc-cache -fv
 try https://flathub.org/apps/org.upscayl.Upscayl  
-
-https://flathub.org/apps/org.otfried.Ipe 
-
-https://flathub.org/apps/com.github.GradienceTeam.Gradience 
+* https://flathub.org/apps/org.otfried.Ipe 
+* https://flathub.org/apps/com.github.GradienceTeam.Gradience 
 
 
 
@@ -1816,7 +1805,7 @@ zramctl
 /usr/bin
 X11 ⇒ .
 411toppm
-[
+* [
 aa-enabled
 aa-exec
 aa-features-abi
@@ -2425,8 +2414,7 @@ host
 hostid
 hostname
 hostnamectl
-htop
-httpx
+htop* httpx
 hwe-support-status
 i3
 i3-config-wizard
@@ -3966,49 +3954,36 @@ vieb_10.4.0_amd64.deb
 
 
 NIXPKGS_ALLOW_UNFREE=1 nix profile install --impure --override-input nixpkgs nixpkgs/nixos-23.11 --show-trace github:nix-community/nixGL#nixGLNvidia 
-
-https://github.com/NixOS/nixpkgs/issues/122671 
+* https://github.com/NixOS/nixpkgs/issues/122671 
 
 
 
 
 
 Teams CLI creation?
-
-https://github.com/fossteams/teams-cli 
-
-https://github.com/fossteams 
+* https://github.com/fossteams/teams-cli 
+* https://github.com/fossteams 
 
 
-
-https://learn.microsoft.com/en-us/graph/api/resources/teams-api-overview?view=graph-rest-1.0 
-
-https://learn.microsoft.com/en-us/graph/use-the-api 
-
-https://learn.microsoft.com/en-us/graph/overview 
-
-https://developer.microsoft.com/en-us/graph/
+* https://learn.microsoft.com/en-us/graph/api/resources/teams-api-overview?view=graph-rest-1.0 
+* https://learn.microsoft.com/en-us/graph/use-the-api 
+* https://learn.microsoft.com/en-us/graph/overview 
+* https://developer.microsoft.com/en-us/graph/
 
 
-
-https://www.c-sharpcorner.com/article/managing-microsoft-teams-with-office-365-cli-commands/ 
-
-https://pnp.github.io/ 
-
-https://github.com/pnp/cli-microsoft365 
+* https://www.c-sharpcorner.com/article/managing-microsoft-teams-with-office-365-cli-commands/ 
+* https://pnp.github.io/ 
+* https://github.com/pnp/cli-microsoft365 
 
 
 
 
 
 /var/snap/landscape-client/common/etc/landscape-client.conf  : 
-
-[client]
+* [client]
 log_level = info
-url = 
-https://landscape.knecon.com/message-system
-ping_url = 
-https://landscape.knecon.com/ping
+url = * https://landscape.knecon.com/message-system
+ping_url = * https://landscape.knecon.com/ping
 data_path = /var/lib/landscape/client
 computer_title = stellaris15
 account_name = standalone
@@ -4037,35 +4012,20 @@ pixel_data = list(image.getdata())
 avg_pixel = sum(pixel_data) / len(pixel_data)
 
 
----
-
-https://i3wm.org/docs/repositories.html
-
-[DT](https://www.youtube.com/watch?v=AHvwxc62lDQ&t=135s)
-
-https://github.com/thexavier666/i3_ubuntu_server
-
-https://www.hackification.io/blog/2020/10/09/installing-the-i3-tiling-window-manager-on-ubuntu-server/
-
-https://kifarunix.com/install-i3-windows-manager-on-ubuntu/
-
-https://www.linuxfordevices.com/tutorials/ubuntu/install-i3-window-manager
-
-https://linux.how2shout.com/how-to-install-i3-window-manager-ubuntu-20-04-or-debian-11/
-
-https://linuxways.net/ubuntu/how-to-install-i3-on-ubuntu/
-
-https://askubuntu.com/questions/1440313/ubuntu-server-22-10-failed-to-start-session
-
-https://askubuntu.com/questions/1397503/i3-radius-dependancy-issues
-
-https://unix.stackexchange.com/questions/593534/changing-i3-startup-terminal
-
-http://docs.qtile.org/en/latest/manual/install/ubuntu.html
-
-https://vpsie.com/knowledge-base/how-to-install-qtile-on-ubuntu-20-04-lts/
-
-[Work On Ubuntu FASTER and MORE EFFICIENTLY with tiling window managersTiling Window Managers - In this video I'll explain what they are, why I think using tiling window managers is more efficient, and show how to install 2 of my favorites on Ubuntu Linux.
+* https://i3wm.org/docs/repositories.html
+* [DT](https://www.youtube.com/watch?v=AHvwxc62lDQ&t=135s)
+* https://github.com/thexavier666/i3_ubuntu_server
+* https://www.hackification.io/blog/2020/10/09/installing-the-i3-tiling-window-manager-on-ubuntu-server/
+* https://kifarunix.com/install-i3-windows-manager-on-ubuntu/
+* https://www.linuxfordevices.com/tutorials/ubuntu/install-i3-window-manager
+* https://linux.how2shout.com/how-to-install-i3-window-manager-ubuntu-20-04-or-debian-11/
+* https://linuxways.net/ubuntu/how-to-install-i3-on-ubuntu/
+* https://askubuntu.com/questions/1440313/ubuntu-server-22-10-failed-to-start-session
+* https://askubuntu.com/questions/1397503/i3-radius-dependancy-issues
+* https://unix.stackexchange.com/questions/593534/changing-i3-startup-terminal
+* http://docs.qtile.org/en/latest/manual/install/ubuntu.html
+* https://vpsie.com/knowledge-base/how-to-install-qtile-on-ubuntu-20-04-lts/
+* [Work On Ubuntu FASTER and MORE EFFICIENTLY with tiling window managersTiling Window Managers - In this video I'll explain what they are, why I think using tiling window managers is more efficient, and show how to install 2 of my favorites on Ubuntu Linux.
 
 For the demo of installing i3 on Ubuntu, skip to 4:28
 
@@ -4080,8 +4040,7 @@ Lemonbar documentation: https://github.com/LemonBoy/bar
 
 i3wm: https://github.com/i3/i3
 bspwm: https://github.com/baskerville/bspwmhttps://www.youtube.com/watch?v=-PGlrtoFXK4](https://www.youtube.com/watch?v=-PGlrtoFXK4)
-
-https://tecadmin.net/installing-lightdm-on-ubuntu/
+* https://tecadmin.net/installing-lightdm-on-ubuntu/
 
 ```jsx
 sudo apt update && sudo apt upgrade
@@ -4110,15 +4069,12 @@ echo 'export TERMINAL="/usr/bin/kitty"' >> ~/.bashrc && source ~/.bashrc
 
 ```
 
----
 
 → replace dmenu with rofi: https://gist.github.com/panicwithme/60d371ed85378154bf990fd1092a72c1
 
 ## Mantis
-
-https://github.com/sommaa/Mantis
-
-https://averagelinuxuser.com/ssh-into-virtualbox/#connect-to-virtualbox-from-the-guest-os *********
+* https://github.com/sommaa/Mantis
+* https://averagelinuxuser.com/ssh-into-virtualbox/#connect-to-virtualbox-from-the-guest-os *****
 
 ```bash
 sudo apt install
@@ -4141,8 +4097,7 @@ echo "exec i3" >> ~/.xinitrc
 
 sudo apt install build-essential
 
--------------------------------------------------------------
-sudo apt-get install virtualbox-guest-additions-iso
+----------------------------------------------------------sudo apt-get install virtualbox-guest-additions-iso
 
 #sudo add-apt-repository ppa:spvkgn/zathura-mupdf
 sudo vim /etc/apt/sources.list 
@@ -4162,8 +4117,7 @@ git checkout v0.9.0
 make CMAKE_BUILD_TYPE=Release
 sudo make install
 
--------------------------------------------------------------
-#=====>
+----------------------------------------------------------#=====>
 #cd ~/pkgs/
 #git clone --depth=1 https://github.com/adi1090x/rofi.git
 #cd rofi
@@ -4189,8 +4143,7 @@ chmod +x xborders
 pip install -r requirements.txt
 ./xborders --help
 
------------------------------------------------------------------
-# HERE IS WHERE IT GETS TRICKY
+--------------------------------------------------------------# HERE IS WHERE IT GETS TRICKY
 
 #sudo apt-get install python3-pip git
 #pip3 install i3ipc
@@ -4198,14 +4151,12 @@ pip install -r requirements.txt
 # add to i3 config:
 #exec --no-startup-id /path/to/alternating_layouts.py
 
-#---
-/usr/lib/apt/apt-helper download-file https://debian.sur5r.net/i3/pool/main/s/sur5r-keyring/sur5r-keyring_2023.02.18_all.deb keyring.deb SHA256:a511ac5f10cd811f8a4ca44d665f2fa1add7a9f09bef238cdfad8461f5239cc4
+#/usr/lib/apt/apt-helper download-file https://debian.sur5r.net/i3/pool/main/s/sur5r-keyring/sur5r-keyring_2023.02.18_all.deb keyring.deb SHA256:a511ac5f10cd811f8a4ca44d665f2fa1add7a9f09bef238cdfad8461f5239cc4
 sudo apt install ./keyring.deb
 echo "deb http://debian.sur5r.net/i3/ $(grep '^DISTRIB_CODENAME=' /etc/lsb-release | cut -f2 -d=) universe" | sudo tee /etc/apt/sources.list.d/sur5r-i3.list
 sudo apt update
 sudo apt install i3
-#---
-
+#
 cd ~/pkgs
 git clone https://github.com/sommaa/Mantis.git
 cd Mantis/dots

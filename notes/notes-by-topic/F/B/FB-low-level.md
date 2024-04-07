@@ -14,7 +14,7 @@
 * https://exercism.org/tracks/x86-64-assembly/exercises/allergies/solutions
 * https://exercism.org/tracks/x86-64-assembly/exercises/rotational-cipher/solutions
 * https://exercism.org/tracks/x86-64-assembly/exercises/matching-brackets/solutions
-* [https://exercism.org/tracks/x86-64-assembly/exercises/reverse-string/solutions](https://exercism.org/tracks/x86-64-assembly/exercises/reverse-string/solutions/solutions)
+* https://exercism.org/tracks/x86-64-assembly/exercises/reverse-string/solutions/solutions
 * https://exercism.org/tracks/x86-64-assembly/exercises/rna-transcription/solutions
 * https://exercism.org/tracks/x86-64-assembly/exercises/pangram/solutions
 * https://exercism.org/tracks/x86-64-assembly/exercises/grains/solutions
@@ -28,19 +28,19 @@
 * https://de.wikipedia.org/wiki/Grand_Unified_Bootloader 
 
 ## LLVM
-**[Использование платформы LLVM для динамической генерации машинного кода](http://libgen.is/book/index.php?md5=D0A6B907C268A7CF3D45A62FA9EC53CA)**
-**[Обфусцирующий компилятор на базе LLVM](http://libgen.is/book/index.php?md5=A00CCAC8CC106F5C071829434E5854CF)**
-**[LLVM Cookbook](http://libgen.is/book/index.php?md5=41DDD204391262C262E0B0247529D322)**
-**[LLVM essentials : become familiar with the LLVM infrastructure and start using LLVM libraries to design a compiler](http://libgen.is/book/index.php?md5=71E61E36EA62E1F8EAAB1DCD7DC35BFC)**
-**[Implementing a language with LLVM](http://libgen.is/book/index.php?md5=8A915FAB4A56BB13A4957C562FB7AB9E)**
-**[Implement an imperative language compiler in Haskell using LLVM](http://libgen.is/book/index.php?md5=AF4D8B5F67FE7C451A28E4985B8B49C0)**
-**[Kaleidoscope - Implementing a Language with LLVM in Objective Caml](http://libgen.is/book/index.php?md5=EFAF50A983AE7876D5E882CACFF3FFC7)**
-**[Learn LLVM 12: A beginner's guide to learning LLVM compiler tools and core libraries with C++ [1 ed.]](http://libgen.is/book/index.php?md5=B2EDD27AF2BD9994BE659E84F6A364C7)**
-**[LLVM Techniques, Tips, and Best Practices: Clang and Middle-End Libraries](http://libgen.is/book/index.php?md5=31DFB992C6884FC446073DA8F4CEB9C3)**
-**[LLVM essentials : become familiar with the LLVM infrastructure and start using LLVM libraries to design a compiler](http://libgen.is/book/index.php?md5=71E61E36EA62E1F8EAAB1DCD7DC35BFC)**
-**[LLVM. инфраструктура для разработки компиляторов](http://library.lol/main/CA2D4A415DC0BC98DE2D488E13B8C711)**
-**[Getting Started with LLVM Core Libraries: Get to grips with LLVM essentials and use the core libraries to build advanced tools](http://libgen.is/book/index.php?md5=8B9B19F1DA135A51E7307B6B49900CD1)**
-**[https://mlir.llvm.org](https://mlir.llvm.org/)**
+* [Использование платформы LLVM для динамической генерации машинного кода](http://libgen.is/book/index.php?md5=D0A6B907C268A7CF3D45A62FA9EC53CA)
+* [Обфусцирующий компилятор на базе LLVM](http://libgen.is/book/index.php?md5=A00CCAC8CC106F5C071829434E5854CF)
+* [LLVM Cookbook](http://libgen.is/book/index.php?md5=41DDD204391262C262E0B0247529D322)
+* [LLVM essentials : become familiar with the LLVM infrastructure and start using LLVM libraries to design a compiler](http://libgen.is/book/index.php?md5=71E61E36EA62E1F8EAAB1DCD7DC35BFC)
+* [Implementing a language with LLVM](http://libgen.is/book/index.php?md5=8A915FAB4A56BB13A4957C562FB7AB9E)
+* [Implement an imperative language compiler in Haskell using LLVM](http://libgen.is/book/index.php?md5=AF4D8B5F67FE7C451A28E4985B8B49C0)
+* [Kaleidoscope - Implementing a Language with LLVM in Objective Caml](http://libgen.is/book/index.php?md5=EFAF50A983AE7876D5E882CACFF3FFC7)
+* [Learn LLVM 12: A beginner's guide to learning LLVM compiler tools and core libraries with C++ [1 ed.]](http://libgen.is/book/index.php?md5=B2EDD27AF2BD9994BE659E84F6A364C7)
+* [LLVM Techniques, Tips, and Best Practices: Clang and Middle-End Libraries](http://libgen.is/book/index.php?md5=31DFB992C6884FC446073DA8F4CEB9C3)
+* [LLVM essentials : become familiar with the LLVM infrastructure and start using LLVM libraries to design a compiler](http://libgen.is/book/index.php?md5=71E61E36EA62E1F8EAAB1DCD7DC35BFC)
+* [LLVM. инфраструктура для разработки компиляторов](http://library.lol/main/CA2D4A415DC0BC98DE2D488E13B8C711)
+* [Getting Started with LLVM Core Libraries: Get to grips with LLVM essentials and use the core libraries to build advanced tools](http://libgen.is/book/index.php?md5=8B9B19F1DA135A51E7307B6B49900CD1)
+* [https://mlir.llvm.org](https://mlir.llvm.org/)
 
 ## Reading List (1)
 
@@ -87,9 +87,9 @@ instruction set
 * [Integrierter Schaltkreis – Wikipedia](https://de.wikipedia.org/wiki/Integrierter_Schaltkreis)
 * [Intel-Sicherheitslücke: Was in einem Computer so passiert](http://www.faz.net/aktuell/wirtschaft/diginomics/intel-sicherheitsluecke-was-in-einem-computer-so-passiert-15376904.html)
 * [Interstices - Explorez les sciences du numérique - Accueil](https://interstices.info/jcms/jalios_5127/accueil)
-**[Introduction to SR Flip Flop](https://www.youtube.com/watch?v=HZg7fNu-l24&list=WL&index=277)**
-**[Jacob Sorber](https://www.youtube.com/c/JacobSorber)**
-**[Jak pracuje Hardware](https://www.youtube.com/watch?v=IrIkwmuGNoU&list=WL&index=140)**
+* [Introduction to SR Flip Flop](https://www.youtube.com/watch?v=HZg7fNu-l24&list=WL&index=277)
+* [Jacob Sorber](https://www.youtube.com/c/JacobSorber)
+* [Jak pracuje Hardware](https://www.youtube.com/watch?v=IrIkwmuGNoU&list=WL&index=140)
 Jak pracuje Hardwarede rudydabel
 * [Lecture Notes for Digital Electronics](http://pages.uoregon.edu/rayfrey/DigitalNotes.pdf)
 * [Les bases de l’informatique et de la programmation](https://www.enseignement.polytechnique.fr/profs/informatique/Francois.Morain/TC/X2005/Poly/polyX05.pdf)
@@ -105,37 +105,30 @@ Jak pracuje Hardwarede rudydabel
 * [Math Mutation: 46: The World's Simplest Computer](http://mathmutation.blogspot.com/2011/12/46-worlds-simplest-computer.html)
 * [Microsoft PowerPoint - Transistor Bipolaire [Mode de compatibilité]](http://users.polytech.unice.fr/~lorenz/Transistor_Bipolaire.pdf)
 * [Nuitka Home](http://nuitka.net/)
-**[Onur Mutlu Lectures](https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g)**
+* [Onur Mutlu Lectures](https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g)
 * [Operation Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [Ordinateur tout un programme - C&#39;est pas sorcier - YouTube](https://www.youtube.com/watch?v=c96KP5jZVYk)
 * [Rechnerarchitektur - Alle Themen besser sortiert auf www.thesimpleclub.de](https://www.youtube.com/watch?v=0Exik_Q3kDk&list=PLgZuSc7xewdcRWq0xieAjPzwcL5BdnSQT)
-**[rudydabel](https://www.youtube.com/user/rudydabel)**
+* [rudydabel](https://www.youtube.com/user/rudydabel)
 * https://www.nasm.us/doc/
 * https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html
-**[Expanded Main Page - OSDev Wiki](https://wiki.osdev.org/Main_Page)**
+     * [Expanded Main Page - OSDev Wiki](https://wiki.osdev.org/Main_Page)
 * [Game Physics (in Assembler) - Computerphile - YouTube](https://www.youtube.com/watch?v=Kalmryn9_sE)
-**[Introduction to x64 Assembly](https://software.intel.com/content/www/us/en/develop/articles/introduction-to-x64-assembly.html)**
-**[Library Genesis: Dennis Andriesse - Practical Binary Analysis. Build Your Own Linux Tools for Binary Instrumentation, Analysis, and Disassembly](http://libgen.rs/book/index.php?md5=919D2F827FCF602321C0F61AD3FB8E08)**
-**[Library Genesis: Jürgen Walter (auth.) - Mikrocomputertechnik mit der 8051-Controller-Familie: Hardware, Assembler, C](http://libgen.rs/book/index.php?md5=4B00D6B5C3141DFBB603E346D657F74F)**
-**[Library Genesis: Юров В.И. - Assembler](http://libgen.rs/book/index.php?md5=829AE04CC30DB94E7DF63986064F1A37)**
-**[Low Level Systems Programming in High Level Julia | Todd Green - YouTube](https://www.youtube.com/watch?v=AaQ7XuAR2yY)**
+* [Introduction to x64 Assembly](https://software.intel.com/content/www/us/en/develop/articles/introduction-to-x64-assembly.html)
+* [Library Genesis: Dennis Andriesse - Practical Binary Analysis. Build Your Own Linux Tools for Binary Instrumentation, Analysis, and Disassembly](http://libgen.rs/book/index.php?md5=919D2F827FCF602321C0F61AD3FB8E08)
+* [Library Genesis: Jürgen Walter (auth.) - Mikrocomputertechnik mit der 8051-Controller-Familie: Hardware, Assembler, C](http://libgen.rs/book/index.php?md5=4B00D6B5C3141DFBB603E346D657F74F)
+* [Library Genesis: Юров В.И. - Assembler](http://libgen.rs/book/index.php?md5=829AE04CC30DB94E7DF63986064F1A37)
+* [Low Level Systems Programming in High Level Julia | Todd Green - YouTube](https://www.youtube.com/watch?v=AaQ7XuAR2yY)
 * [Making an OS (x86) - CPU, Assembly, Booting - YouTube](https://www.youtube.com/watch?v=MwPjvJ9ulSc)
-**[NASM - The Netwide Assembler](https://www.nasm.us/doc/)**
+* [NASM - The Netwide Assembler](https://www.nasm.us/doc/)
 * [Onur Mutlu Lectures](https://www.youtube.com/c/OnurMutluLectures/playlists)
-**[PC Assembly Book](https://pacman128.github.io/pcasm/)**
-**[Semiconductors - Physics inside Transistors and Diodes - YouTube](https://www.youtube.com/watch?v=hrpPKCDLRN0)**
-**https://www.nand2tetris.org/software**
-**https://pypi.org/project/vm-translator/**
-**https://pypi.org/project/hack-assembler/**
-**https://www.nandgame.com/**
-**http://libgen.rs/search.php?req=Klaus+dembowski&open=0&res=25&view=simple&phrase=1&column=author**
-**Heidelberg: Klaus Dembowski: Die Computer-Werkstatt**
-**https://aur.archlinux.org/packages/nand2tetris/**
-**[Nanometer-Scale Ge-Based Adaptable Transistors Providing Programmable Negative Differential Resistance Enabling Multivalued Logic](https://pubs.acs.org/doi/10.1021/acsnano.1c06801)**
+* [PC Assembly Book](https://pacman128.github.io/pcasm/)
+* [Semiconductors - Physics inside Transistors and Diodes - YouTube](https://www.youtube.com/watch?v=hrpPKCDLRN0)* https://www.nand2tetris.org/software* https://pypi.org/project/vm-translator/* https://pypi.org/project/hack-assembler/* https://www.nandgame.com/* http://libgen.rs/search.php?req=Klaus+dembowski&open=0&res=25&view=simple&phrase=1&column=author
+Heidelberg: Klaus Dembowski: Die Computer-Werkstatt* https://aur.archlinux.org/packages/nand2tetris/* [Nanometer-Scale Ge-Based Adaptable Transistors Providing Programmable Negative Differential Resistance Enabling Multivalued Logic](https://pubs.acs.org/doi/10.1021/acsnano.1c06801)
 
 ## Reading List (5)
 
-## [********project euler in NASM - Поиск в Google](https://www.google.com/search?q=project+euler+in+NASM&rlz=1C5CHFA_enUS800US800&oq=project+euler+in+NASM&aqs=chrome..69i57j33.3608j0j4&sourceid=chrome&ie=UTF-8)
+## [****project euler in NASM - Поиск в Google](https://www.google.com/search?q=project+euler+in+NASM&rlz=1C5CHFA_enUS800US800&oq=project+euler+in+NASM&aqs=chrome..69i57j33.3608j0j4&sourceid=chrome&ie=UTF-8)
 * [AidanFray/ProjectEuler_x86_Assembler: Some Project Euler challenges coded in x86 NASM Assembler](https://github.com/AidanFray/ProjectEuler_x86_Assembler)
 * [jfmatt-zz/euler-asm: Project Euler in x86 assembly](https://github.com/jfmatt-zz/euler-asm)
 * [Large number (Project Euler #10)](https://forum.nasm.us/index.php?topic=1675.0)
@@ -271,13 +264,13 @@ Derek Banas Assembly Language Tutorial
 * [Art of Assembly Language Programming and HLA by Randall Hyde](http://www.plantation-productions.com/Webster/HighLevelAsm/HLADoc/index.html)
 * [strace Introduction](http://www.brendangregg.com/blog/2014-05-11/strace-wow-much-syscall.html)
 * [NASM - The Netwide Assembler](https://www.nasm.us/xdoc/2.14.02/html/nasmdoc0.html)
-**[Sega Game Coding in Assembly - Computerphile](https://www.youtube.com/watch?v=GH94fKtGr0M&list=WL&index=1437)**
-**[x86 Assembly Crash Course](https://www.youtube.com/watch?v=75gBFiFtAb8&list=WL&index=459&t=174s)**
-**[How assembly language loops work](https://www.youtube.com/watch?v=ZYJIakkcLYw&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=52)**
+* [Sega Game Coding in Assembly - Computerphile](https://www.youtube.com/watch?v=GH94fKtGr0M&list=WL&index=1437)
+* [x86 Assembly Crash Course](https://www.youtube.com/watch?v=75gBFiFtAb8&list=WL&index=459&t=174s)
+* [How assembly language loops work](https://www.youtube.com/watch?v=ZYJIakkcLYw&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=52)
 * [circuit simulator online - Поиск в Google](https://www.google.com/search?rlz=1C1GCEA_enUS820US820&ei=TDPOW-74A6nD0PEP3rqA6Ao&q=circuit+simulator+online&oq=circuit+simulator+online&gs_l=psy-ab.3..0i7i30k1j0i203k1j0i30k1l8.7368.11304.0.12185.17.17.0.0.0.0.310.1950.0j8j2j1.11.0....0...1c.1.64.psy-ab..8.9.1507...0i7i30i19k1j0i19k1j0i7i10i30i19k1.0.HaKQR0_au8A)
 * [Design of Digital Circuits - Lecture 11: Microarchitecture](https://youtu.be/_pRC1gM1UCU)
-**[Design of Digital Circuits - Lecture 11: Microarchitecture (ETH Zürich, Spring 2018)](https://www.youtube.com/watch?v=_pRC1gM1UCU&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=102)**
-**[Design of Digital Circuits - Lecture 11: Microarchitecture (ETH Zürich, Spring 2019)](https://www.youtube.com/watch?v=A8ssg3HTzVA&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=103)**
+* [Design of Digital Circuits - Lecture 11: Microarchitecture (ETH Zürich, Spring 2018)](https://www.youtube.com/watch?v=_pRC1gM1UCU&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=102)
+* [Design of Digital Circuits - Lecture 11: Microarchitecture (ETH Zürich, Spring 2019)](https://www.youtube.com/watch?v=A8ssg3HTzVA&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=103)
 * [Education - All About Circuits](https://www.allaboutcircuits.com/education/)
 * [How do integrated circuits work? - Explain that Stuff](http://www.explainthatstuff.com/integratedcircuits.html)
 * http://math.hws.edu/TMCM/java/labs/xLogicCircuitsLab1.html
@@ -286,7 +279,7 @@ Derek Banas Assembly Language Tutorial
 * https://www.allaboutcircuits.com/textbook/direct-current/
 * https://www.allaboutcircuits.com/textbook/experiments/chpt-3/a-very-simple-computer/
 * https://www.britannica.com/technology/computer-circuitry
-**[NAND/NOR circuits](https://www.youtube.com/watch?v=JaZrrDAkB5s&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=129)**
+     * [NAND/NOR circuits](https://www.youtube.com/watch?v=JaZrrDAkB5s&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=129)
 * [Online Circuit Simulator with SPICE](http://www.partsim.com/simulator)
 * how were the first compilers made?
 * [Compiler Construction Course](https://cs.nyu.edu/courses/spring11/G22.2130-001/)
@@ -307,7 +300,7 @@ Compilers: Principles, Techniques, and Tools, 2nd Edition
 * [Electricity Tutorial](https://www.swansontec.com/set.html)
 * [Elektriciteit en Magnetisme](https://www.nikhef.nl/~jo/em/index.html)
 * [Elektronik Kompendium](https://www.elektronik-kompendium.de/)
-**[Elektrotechnik in 5 Minuten by Alexander Stöger](https://www.youtube.com/channel/UCKC9gZw2CxA8y9sgBA58Wnw)**
+* [Elektrotechnik in 5 Minuten by Alexander Stöger](https://www.youtube.com/channel/UCKC9gZw2CxA8y9sgBA58Wnw)
 * [ElProCus - Electronic Projects for Engineering Students - ElProCus is an educational website on electronic projects for ECE and EEE students.](https://www.elprocus.com/)
 * [Fundamentals of Electrical Engineering I](https://www.ece.rice.edu/~dhj/courses/elec241/col10040.pdf)
 * http://www.ibiblio.org/kuphaldt/electricCircuits/
@@ -373,7 +366,7 @@ Wie funktioniert ein Computer?
 * [what-happens-when](https://github.com/alex/what-happens-when)
 
 ## Reading List (6)
-**[Wie funktionieren Programmiersprachen? (+Arduino/C-Tutorial)](https://www.youtube.com/watch?v=vO-0czLZ6_E&list=WL&index=409)**
+* [Wie funktionieren Programmiersprachen? (+Arduino/C-Tutorial)](https://www.youtube.com/watch?v=vO-0czLZ6_E&list=WL&index=409)
 * [Code Binaire - Conversion Traduction - Logiciel en Ligne](https://www.dcode.fr/code-binaire)
 * [Exploring Binary - Binary Numbers, Binary Code, and Binary Logic](http://www.exploringbinary.com/)
 * [How do logic gates work? - Explain that Stuff](http://www.explainthatstuff.com/logicgates.html)
@@ -426,8 +419,7 @@ Rechnerorganisation und Rechnerentwurf (Patterson & Hennessey)
 * https://www.youtube.com/user/TheWizadro
 * [TheWizardo](https://www.youtube.com/user/TheWizadro)
 * http://programminggroundup.blogspot.com/
-* http://it-uroki.ru/
-**[Tony Gambacorta](https://www.youtube.com/channel/UCGbeTQOPHwFikUlme8Txzvw)**
+* http://it-uroki.ru/* [Tony Gambacorta](https://www.youtube.com/channel/UCGbeTQOPHwFikUlme8Txzvw)
 * [disassembler.io](https://onlinedisassembler.com/static/home/index.html)
 * https://onlinedisassembler.com/static/home/index.html
 * https://www.onworks.net/programs/objdump-online?amp=0
@@ -442,7 +434,7 @@ Rechnerorganisation und Rechnerentwurf (Patterson & Hennessey)
 * [¿Cómo trabaja el transistor? - Quora](https://es.quora.com/C%C3%B3mo-trabaja-el-transistor)
 * [(2) What is a Transistor? - Quora](https://www.quora.com/What-is-a-Transistor-2)
 * [#04 - Le Transistor, l'invention qui a révolutionné le Monde - Le Point](https://youtu.be/Q3_wIWSN2D8)
-**[Building logic gates from MOSFET transistors](https://www.youtube.com/watch?v=1rZyGL1K5QI&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=128)**
+* [Building logic gates from MOSFET transistors](https://www.youtube.com/watch?v=1rZyGL1K5QI&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=128)
 * [Buscar - transistor - Quora](https://es.quora.com/search?q=transistor)
 * [How does a transistor work?](http://www.physlink.com/Education/AskExperts/ae430.cfm)
 * http://users.polytech.unice.fr/~lorenz/Transistor_Bipolaire.pdf
@@ -455,10 +447,10 @@ Rechnerorganisation und Rechnerentwurf (Patterson & Hennessey)
 * https://www.quora.com/What-is-a-Transistor-2
 * https://www.thoughtco.com/what-is-a-transistor-2698913
 * [logic gates from transistors](https://m.youtube.com/watch?v=sTu3LwpF6XI)
-**[Making logic gates from transistors](https://www.youtube.com/watch?v=sTu3LwpF6XI&list=WL&index=380)**
+* [Making logic gates from transistors](https://www.youtube.com/watch?v=sTu3LwpF6XI&list=WL&index=380)
 * [Making your own 4 bit computer from transistors - YouTube](https://www.youtube.com/watch?v=xISG4nGTQYE)
 * [Quelle est la différence entre un relais et un transistor ? - Quora](https://fr.quora.com/Quelle-est-la-diff%C3%A9rence-entre-un-relais-et-un-transistor)
-**[Silicon, Diodes, and Transistors (Bits in Hardware)](https://www.youtube.com/watch?v=eXYN2e5kDdw&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=127)**
+* [Silicon, Diodes, and Transistors (Bits in Hardware)](https://www.youtube.com/watch?v=eXYN2e5kDdw&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=127)
 * [Transistors](http://hyperphysics.phy-astr.gsu.edu/hbase/Solids/trans.html)
 * [transistors - memory for the simplest possible computer (Pi0K) - Electrical Engineering Stack Exchange](https://electronics.stackexchange.com/questions/210057/memory-for-the-simplest-possible-computer-pi0k)
 * [Transistors and CMOS Logic - An Introduction to Semiconductor Physics, Technology, and Industry](https://www.anandtech.com/show/8223/an-introduction-to-semiconductor-physics-technology-and-industry/2)
@@ -533,14 +525,14 @@ Compilateurs avec C++ | Jacques Menu | download
 ## [**Lets Build - 8 Bit Computer Part 1 Introduction - YouTube](https://www.youtube.com/watch?v=bCVT1BtlZn0)
 * [Architecture des ordinateurs- Leçon 1 - YouTube](https://www.youtube.com/watch?v=UP61XnKW2eg)
 * [Arithmetik in Computern - Grundlagen Rechnerarchitektur](https://www.youtube.com/watch?v=0Exik_Q3kDk&list=PLgZuSc7xewdd9UiqudDJTqRiCpR6p7maj)
-**[Así funciona: la radio](https://www.youtube.com/watch?v=FlgRxp-O6pc&list=WL&index=290)**
+* [Así funciona: la radio](https://www.youtube.com/watch?v=FlgRxp-O6pc&list=WL&index=290)
 * [Binary number - Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
 * [Bits und Bytes: Binärziffern 0 und 1 - Arithmetik in Computern 1 ● Gehe auf SIMPLECLUB.DE/GO - YouTube](https://www.youtube.com/watch?v=0Exik_Q3kDk&list=PLgZuSc7xewdcRWq0xieAjPzwcL5BdnSQT)
 * [Boolean algebra - Wikipedia](https://en.wikipedia.org/wiki/Boolean_algebra)
 * [Building an Analog Computer](https://www.clear.rice.edu/elec301/Projects99/anlgcomp/)
 * [Comment fonctionne un ordinateur ?](https://www.culture-informatique.net/comment-ca-marche-un-ordinateur/)
 * [Comment fonctionne un ordinateur ? - lehollandaisvolant.net](https://lehollandaisvolant.net/tuto/computer/)
-**[Computer History Museum](https://www.youtube.com/user/ComputerHistory)**
+* [Computer History Museum](https://www.youtube.com/user/ComputerHistory)
 * [Computer science - Wikipedia](https://en.wikipedia.org/wiki/Computer_science#Computer_architecture_and_computer_engineering)
 * [Computer Science Unplugged](http://csunplugged.org/)
 * [Computer Simulators](http://billr.incolor.com/computer_simulators.htm)
@@ -554,17 +546,16 @@ Compilateurs avec C++ | Jacques Menu | download
 * [csunplugged es](http://csunplugged.org/wp-content/uploads/2014/12/unpluggedTeachersDec2008-Spanish-master-ar-12182008.pdf)
 * [Execution (computing) - Wikipedia](https://en.wikipedia.org/wiki/Execution_(computing))
 * [F.M.H. Studios](https://www.youtube.com/channel/UCyCkNRtYHN_okkwPqeam6aA)
-**[Fetch Decode Execute Cycle in more detail](https://www.youtube.com/watch?v=jFDMZpkUWCw&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=100)**
+* [Fetch Decode Execute Cycle in more detail](https://www.youtube.com/watch?v=jFDMZpkUWCw&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=100)
 * [Flip-flop](https://it.wikipedia.org/wiki/Flip-flop)
 * [Free Binary Translator | Translate Binary Code to Text - BinaryTranslator.com](http://www.binarytranslator.com/)
 * [Getting started with the Raspberry Pi - Introduction | Raspberry Pi Projects](https://projects.raspberrypi.org/en/projects/raspberry-pi-getting-started)
 * [Ghidra](https://ghidra-sre.org/) (reverse engineering tool)
-**[hawa0643](https://www.youtube.com/user/hawa0643)**
+* [hawa0643](https://www.youtube.com/user/hawa0643)
 * [how cpu interprets instructions - YouTube](https://www.youtube.com/results?search_query=how+cpu+interprets+instructions)
-**[How do computers read code?](https://www.youtube.com/watch?v=QXjU9qTsYCc&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=137)**
+* [How do computers read code?](https://www.youtube.com/watch?v=QXjU9qTsYCc&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=137)
 * [How the ARM32 kernel starts](https://www.reddit.com/r/programming/comments/id6ooq/how_the_arm32_kernel_starts/)
 
----
 
 ## Other People’s Projects
 * https://os.phil-opp.com/  - notes on writing an OS in Rust
@@ -612,31 +603,26 @@ Compilateurs avec C++ | Jacques Menu | download
 * [I made an entire OS that only runs Tetris](https://www.youtube.com/watch?v=FaILnmUYS_U)
 * [Programming my 8-bit breadboard computer](https://www.youtube.com/watch?v=9PPrrSyubG0)
 * [Simplest possible homebrew 8-bit Z8 computer](https://www.youtube.com/watch?v=CS44XJt_gYc)
-* [Simplest possible homebrew Z80 8-bit computer - YouTube](https://www.youtube.com/watch?v=CS44XJt_gYc)
-    **[The Fetch-Execute Cycle: What's Your Computer Actually Doing?](https://www.youtube.com/watch?v=Z5JC9Ve1sfI&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=101)**
+* [Simplest possible homebrew Z80 8-bit computer - YouTube](https://www.youtube.com/watch?v=CS44XJt_gYc)    * [The Fetch-Execute Cycle: What's Your Computer Actually Doing?](https://www.youtube.com/watch?v=Z5JC9Ve1sfI&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=101)
 * [The Fetch-Execute Cycle: What's Your Computer Actually Doing? - YouTube](https://www.youtube.com/watch?v=Z5JC9Ve1sfI)
 * [Complete Home-Built 8-bit CPU + Computer with graphics and sound made from scratch using 74HC Logic](https://www.youtube.com/watch?v=g_ZaioqF1B0)
 * [Simplest possible homebrew Z80 8-bit computer](https://www.youtube.com/watch?v=CS44XJt_gYc&t=3s)
 * [Lets Build - 8 Bit Computer Part 1 Introduction](https://www.youtube.com/watch?v=bCVT1BtlZn0&t=14s)
 * [Top 10 Craziest Assembly Language Instructions](https://www.youtube.com/watch?v=Wz_xJPN7lAY)
 * [Operating System Basics - YouTube](https://www.youtube.com/watch?v=9GDX-IyZ_C8)
-* [The Gigatron TTL Computer without a Microprocessor - YouTube](https://www.youtube.com/watch?v=_2uXqTi42LI)
-    **[“Hello, world” from scratch on a 6502 — Part 1](https://www.youtube.com/watch?v=LnzuMJLZRdU&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=85)**
+* [The Gigatron TTL Computer without a Microprocessor - YouTube](https://www.youtube.com/watch?v=_2uXqTi42LI)    * [“Hello, world” from scratch on a 6502 — Part 1](https://www.youtube.com/watch?v=LnzuMJLZRdU&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=85)
 * [EightZero: Building an 8-bit Computer From Zero](https://www.youtube.com/watch?v=cKoRRA4MyM4)
 * [TRONIK AVENTUR N°50 - CREER ORDINATEUR A 4 BITS - ADDITION - COMPUTER HOME MADE - YouTube](https://www.youtube.com/watch?v=kCRN0DL8U9A)
-* [How a CPU Works - YouTube](https://www.youtube.com/watch?v=cNN_tTXABUA)
-    **[Cómo funciona una CPU](https://www.youtube.com/watch?v=cNN_tTXABUA&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=99)**
+* [How a CPU Works - YouTube](https://www.youtube.com/watch?v=cNN_tTXABUA)    * [Cómo funciona una CPU](https://www.youtube.com/watch?v=cNN_tTXABUA&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=99)
 * [x86 Assembly Crash Course - YouTube](https://www.youtube.com/watch?v=75gBFiFtAb8)
-* [Modern x64 Assembly 1: Beginning Assembly Programming](https://www.youtube.com/watch?v=rxsBghsrvpI)
-    **[Why should I learn assembly language in 2020? (complete waste of time?)](https://www.youtube.com/watch?v=iYRl50gtprA&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=37)**
+* [Modern x64 Assembly 1: Beginning Assembly Programming](https://www.youtube.com/watch?v=rxsBghsrvpI)    * [Why should I learn assembly language in 2020? (complete waste of time?)](https://www.youtube.com/watch?v=iYRl50gtprA&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=37)
 * [x86 Assembly: Hello World! - YouTube](https://www.youtube.com/watch?v=HgEGAaYdABA)
 * [What Is Assembly Language? - YouTube](https://www.youtube.com/watch?v=1FXhjErUz58)
-
-**[Compilers: Innovation from the Bottom-Up—Viral Shah & Keno Fischer on TechLifeSkills w/Tanmay Ep. 20](https://www.youtube.com/watch?v=mWAiCI43nqA&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=61&t=14s)**
+* [Compilers: Innovation from the Bottom-Up—Viral Shah & Keno Fischer on TechLifeSkills w/Tanmay Ep. 20](https://www.youtube.com/watch?v=mWAiCI43nqA&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=61&t=14s)
 
 
 ## Books
-**[Computer Fundamentals and Programming in C (RMK)](http://library.lol/main/5451DA2A154B586763B5853C6103B79B)**
+     * [Computer Fundamentals and Programming in C (RMK)](http://library.lol/main/5451DA2A154B586763B5853C6103B79B)
 * [The Art of 64-Bit Assembly, Volume 1: x86-64 Machine Organization and Programming](http://libgen.rs/book/index.php?md5=C398EF04EFA5F287DEDF5823F66E2E15)
 * [Digital Circuit Design for Computer Science Students: An Introductory Textbook](https://en.de1lib.org/book/2113498/8b17a8)
 * [Dive Into Systems | No Starch Press](https://nostarch.com/dive-systems)
@@ -655,11 +641,11 @@ Compilateurs avec C++ | Jacques Menu | download
 * [Dem Computer ins Hirn geschaut: Informatik entdecken, verstehen und querdenken](https://b-ok.cc/book/3395994/702ba3)
 * [Computerhardware für Anfänger – Wikibooks, Sammlung freier Lehr-, Sach- und Fachbücher](https://de.wikibooks.org/wiki/Computerhardware_f%C3%BCr_Anf%C3%A4nger)
 * [x86-64_Assembly_Language_Programming_with_Ubuntu_2019_Ed_Jorgensen.pdf](https://vk.com/doc10943591_611739633?hash=4dbcc3250e34cc6c90&dl=8d3eb4cbfeee94f847)
-**[The anatomy of a compiler](http://library.lol/main/4D02C33EF0677E8AA96976D6CC9A9162)**
+* [The anatomy of a compiler](http://library.lol/main/4D02C33EF0677E8AA96976D6CC9A9162)
 * [Usborne introduction to Machine Code for beginners [1983].pdf](https://vk.com/doc44301783_619170478?hash=000facf5d2c218b683&dl=084d943509589eeddb)
 * [Designing Digital Systems With SystemVerilog.pdf](https://vk.com/doc348852382_473199607?hash=05569d305d0aed5dd9&dl=ae42d4d1be79c0e858)
-**^ [The Intel Microprocessors](http://library.lol/main/95EFF0E41BC82379161DF0C63EC6FA9A)**
-**[The Intel microprocessors: 8086/8088, 80186/80188, 80286, 80386, 80486, Pentium, Pentium Pro processor, Pentium II, Pentium III, Pentium 4, and Core2 with 64-bit extensions: architecture, programming, and interfac](http://library.lol/main/25F0EE11544F6D593C817B9182103DEE)ing**
+^ [The Intel Microprocessors](http://library.lol/main/95EFF0E41BC82379161DF0C63EC6FA9A)
+* [The Intel microprocessors: 8086/8088, 80186/80188, 80286, 80386, 80486, Pentium, Pentium Pro processor, Pentium II, Pentium III, Pentium 4, and Core2 with 64-bit extensions: architecture, programming, and interfac](http://library.lol/main/25F0EE11544F6D593C817B9182103DEE)ing
 * [Betriebssystem: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/Betriebssystem)
 * [Langage Assembleur PC](https://pacman128.github.io/static/pcasm-book-french.pdf)
 * [X86 Assembly/NASM Syntax - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/X86_Assembly/NASM_Syntax)
@@ -673,14 +659,12 @@ Compilateurs avec C++ | Jacques Menu | download
 * https://www.jjj.de/fxt/fxtbook.pdf - Matters Computational
 * [Advanced Design and Implementation of Virtual Machines | Xiao-Feng Li | download](https://b-ok.cc/book/2846674/db8410)
 
-
 ## Examples and Collections
 * [Largest proper divisor of n - Rosetta Code](http://www.rosettacode.org/wiki/Largest_proper_divisor_of_n#X86_Assembly)
 * [Category:ARM Assembly - Rosetta Code](http://www.rosettacode.org/wiki/Category:ARM_Assembly)
 * [Category:MIPS Assembly - Rosetta Code](http://www.rosettacode.org/wiki/Category:MIPS_Assembly)
 * [Category:6502 Assembly - Rosetta Code](http://www.rosettacode.org/wiki/Category:6502_Assembly)
 * [Category:8086 Assembly - Rosetta Code](http://www.rosettacode.org/wiki/Category:8086_Assembly)
-
 
 ## 1-Shot Reading
 
@@ -756,9 +740,9 @@ FPGAs
 
 
 ## Disassembly
-* [********disassembler.io](https://onlinedisassembler.com/static/home/index.html)
+* [****disassembler.io](https://onlinedisassembler.com/static/home/index.html)
 * [**tools - Is there any disassembler to rival IDA Pro? - Reverse Engineering Stack Exchange](https://reverseengineering.stackexchange.com/questions/1817/is-there-any-disassembler-to-rival-ida-pro)
-* [********ODA - The Online Disassembler](https://onlinedisassembler.com/odaweb/)
+* [****ODA - The Online Disassembler](https://onlinedisassembler.com/odaweb/)
 * [The 101 of ELF files on Linux: Understanding and Analysis - Linux Audit](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/)
 * [**The Top 53 Disassembler Open Source Projects](https://awesomeopensource.com/projects/disassembler)
 * [** ==> x86 Disassembly/Disassemblers and Decompilers - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/X86_Disassembly/Disassemblers_and_Decompilers)
@@ -777,26 +761,13 @@ FPGAs
 ## Python
 * [[dis — Disassembler for Python bytecode — Python 3.8.4rc1 documentation](https://docs.python.org/3/library/dis.html#:~:text=The dis module supports the,in the file Include%2Fopcode.&text=No guarantees are made that,changed between versions of Python.)](https://docs.python.org/3/library/dis.html#:~:text=The%20dis%20module%20supports%20the,in%20the%20file%20Include%2Fopcode.&text=No%20guarantees%20are%20made%20that,changed%20between%20versions%20of%20Python.))
 
----
 * [What is Microarchitecture?](https://www.computerhope.com/jargon/m/microarchitecture.htm)
 * [Контроллеры (ПЛК)](https://vk.com/wall-16108331_152245)
 * [Программирование ПЛК (Программируемый логический контроллер)](https://vk.com/wall-16108331_152139)
 * [Рабочий цикл контроллера (ПЛК)56 переглядів](https://vk.com/video-16108331_456267607?list=e780dc7b2fcec6a2e4)
 * [cea-sec/miasm: Reverse engineering framework in Python](https://github.com/cea-sec/miasm)
-**[PC Hardware Explained: The illustrated guide to personal computer components in 2022](http://library.lol/main/F2E13C7E8F9EA53918D5E13671E4CF0C)** 
-**[Essential Computer Hardware: The Illustrated Guide to Understanding Computer Hardware](http://library.lol/main/87B08BF4B62F2FA93AF1745A2ABD62B6)** 
-**[Computer Arithmetic: Algorithms and Hardware Implementations](http://library.lol/main/B7871F2CDA2CC780274EED5C06E1E285)** 
-**[Computer Science: The Hardware, Software and Heart of IT](http://library.lol/main/20312EDB01D6FA249C583E660FF77110)**
-**[The Architecture of Computer Hardware, Systems Software, & Networking: An Information Technology Approach, 4th Edition](http://library.lol/main/ED88650DDD0C8ABF9E3DC1F07E0CD825)** 
-**[Computer Organization and Design Fundamentals. Examining Computer Hardware from the Bottom to the Top](http://library.lol/main/9AE6356A95587F2142F65478135E0501)** 
-**[A+ Guide to Computer Hardware](http://library.lol/main/C3D83B755E363CD800F678348A83E803)** 
-**[The Hardware Hacker: Adventures in Making and Breaking Hardware](http://library.lol/main/AF6E995E14874665C08834AD582AE471)** 
-**[Handmade Electronic Music: The Art of Hardware Hacking](http://library.lol/main/B49BE9587F13E82535D421EA7D8FE41D)** 
-**[Cryptography Arithmetic: Algorithms and Hardware Architectures](http://library.lol/main/A9C74B2323D02F2D7DA0E2F8DCD2738D)** 
-**[Introduction To Computer Organisation - An Under-the-Hood Look at Hardware and x86-64 Assembly](http://library.lol/main/0E4377FB561B05A618466AE1E5B7928C)** 
-**[Thinking Machines: Machine Learning and Its Hardware Implementation](http://library.lol/main/F6F18E517390C42F86D9A53B3C712CB2)**
-**[The Art of Writing Efficient Programs: An advanced programmer's guide to efficient hardware utilization and compiler optimizations using C++](http://library.lol/main/7FD4FB5F0DA703AC9C346E086A2C601C)** 
-**[examples](http://library.lol/main/7FD4FB5F0DA703AC9C346E086A2C601C)** 
-**[The All New Illustrated Guide to Everything Sold in Hardware Stores](http://library.lol/main/097FA1B5C41176BEADA2F6AEE8AAB300)**
+* [PC Hardware Explained: The illustrated guide to personal computer components in 2022](http://library.lol/main/F2E13C7E8F9EA53918D5E13671E4CF0C) * [Essential Computer Hardware: The Illustrated Guide to Understanding Computer Hardware](http://library.lol/main/87B08BF4B62F2FA93AF1745A2ABD62B6) * [Computer Arithmetic: Algorithms and Hardware Implementations](http://library.lol/main/B7871F2CDA2CC780274EED5C06E1E285) * [Computer Science: The Hardware, Software and Heart of IT](http://library.lol/main/20312EDB01D6FA249C583E660FF77110)
+* [The Architecture of Computer Hardware, Systems Software, & Networking: An Information Technology Approach, 4th Edition](http://library.lol/main/ED88650DDD0C8ABF9E3DC1F07E0CD825) * [Computer Organization and Design Fundamentals. Examining Computer Hardware from the Bottom to the Top](http://library.lol/main/9AE6356A95587F2142F65478135E0501) * [A+ Guide to Computer Hardware](http://library.lol/main/C3D83B755E363CD800F678348A83E803) * [The Hardware Hacker: Adventures in Making and Breaking Hardware](http://library.lol/main/AF6E995E14874665C08834AD582AE471) * [Handmade Electronic Music: The Art of Hardware Hacking](http://library.lol/main/B49BE9587F13E82535D421EA7D8FE41D) * [Cryptography Arithmetic: Algorithms and Hardware Architectures](http://library.lol/main/A9C74B2323D02F2D7DA0E2F8DCD2738D) * [Introduction To Computer Organisation - An Under-the-Hood Look at Hardware and x86-64 Assembly](http://library.lol/main/0E4377FB561B05A618466AE1E5B7928C) * [Thinking Machines: Machine Learning and Its Hardware Implementation](http://library.lol/main/F6F18E517390C42F86D9A53B3C712CB2)
+* [The Art of Writing Efficient Programs: An advanced programmer's guide to efficient hardware utilization and compiler optimizations using C++](http://library.lol/main/7FD4FB5F0DA703AC9C346E086A2C601C) * [examples](http://library.lol/main/7FD4FB5F0DA703AC9C346E086A2C601C) * [The All New Illustrated Guide to Everything Sold in Hardware Stores](http://library.lol/main/097FA1B5C41176BEADA2F6AEE8AAB300)
 * https://hackaday.com/2023/06/18/learning-x86_64-assembly-by-building-a-gui-from-scratch/ 
 look into Risc-V

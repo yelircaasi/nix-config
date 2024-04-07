@@ -1,7 +1,6 @@
 # Note: this file includes all possible configuration options.
 # Sane people's configurations typically use just a subset of these.
-
-[base] # follows the general base16 structure
+* [base] # follows the general base16 structure
 color00 = "#XXXXXX" # "#031A16" background
 color01 = "#XXXXXX" # "#0B342D" lighter background
 color02 = "#XXXXXX" # "#184E45" selection background
@@ -22,8 +21,7 @@ color0F = "#XXXXXX" # "#3E965B" deprecated, opening/closing embedded language ta
 defaultborder = ""
 
 
-# defaults to be used unless overriden; basically just intuitive aliases #######
-[general]
+# defaults to be used unless overriden; basically just intuitive aliases #######* [general]
 background1 = "$color00"
 background2 = "$color01"
 foreground = "$"
@@ -32,12 +30,10 @@ lines-inactive = "$"
 separator-lines = "$"
 
 # applications
-[terminal]
+     * [terminal]
+* [terminal.wezterm]
 
-[terminal.wezterm]
-
-# syntax highlighting rules ####################################################
-[syntax-colors]
+# syntax highlighting rules ####################################################* [syntax-colors]
 thing = "$"
 action = "$"
 type = "$"
@@ -50,8 +46,7 @@ string = "$"
 eyecatcher = "$"
 deemphasized = "$"
 
-# language-specific overrides ##################################################
-[markdown]
+# language-specific overrides ##################################################* [markdown]
 header1 = "$"
 header2 = "$"
 header3 = "$"
@@ -62,34 +57,22 @@ number = "$itemizer"
 bullet = "$itemizer"
 quote = "$"
 inline-quote = "$"
+* [latex]
+* [c]
+* [rust]
 
-[latex]
-
-[c]
-
-[rust]
-
-
-[nim]
-
-[zig]
-
-[python]
+* [nim]
+* [zig]
+* [python]
 background = "{$background1}"
-
-[cython]
-
-[julia]
-
-[ruby]
-
-[websites]
-
-[[websites.wikipedia]]
+* [cython]
+* [julia]
+* [ruby]
+* [websites]
+* [[websites.wikipedia]]
 
 
-
-[[websites.gitlab]]
+* [[websites.gitlab]]
 
 
 # app-specific overrides #######################################################

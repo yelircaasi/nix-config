@@ -1,22 +1,17 @@
 # Nix
-
-https://www.golem.de/news/redis-cloud-ki-javascript-nginx-ersatz-in-rust-und-container-ersatz-mit-nix-2403-183524.html 
+* https://www.golem.de/news/redis-cloud-ki-javascript-nginx-ersatz-in-rust-und-container-ersatz-mit-nix-2403-183524.html 
 
 pkgs.nix-tree 
-
-https://www.reddit.com/r/NixOS/s/seSy4UDEuR 
-
-https://t.me/nixos_en/114808?single
-
-https://tinkering.xyz/installing-nixos/ 
+* https://www.reddit.com/r/NixOS/s/seSy4UDEuR 
+* https://t.me/nixos_en/114808?single
+* https://tinkering.xyz/installing-nixos/ 
 
 go through all xdg options on mynixos
 
 Create nand2tetris for NixOS → add to nixpkgs
 
 amazing Nix videos (config and secrets) https://www.youtube.com/@Emergent_Mind 
-
-https://search.nixos.org/packages?channel=23.11&show=nix-tree&from=0&size=50&sort=relevance&type=packages&query=nix-tree
+* https://search.nixos.org/packages?channel=23.11&show=nix-tree&from=0&size=50&sort=relevance&type=packages&query=nix-tree
 ```nix
 { lib, pkgs, neovimUtils, wrapNeovimUnstable, neovim-nightly-src, ... }:
 

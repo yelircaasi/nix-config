@@ -1,12 +1,11 @@
 # Linux and Shell
----
 
 ## Books
 
 ## General
-    **[Linux Bible](http://library.lol/main/68A63FA40A301299F4B21CB8899414D8)** 
-    **[Linux: The Ultimate Guide](http://library.lol/main/297F517AF8B6698C77D1F5EDA1DD6BA3)** 
-    **[Linux Command Line and Shell Scripting Bible](http://library.lol/main/83D73257C1AFD8DE91F3CA52DE118FCF)** 
+* [Linux Bible](http://library.lol/main/68A63FA40A301299F4B21CB8899414D8) 
+* [Linux: The Ultimate Guide](http://library.lol/main/297F517AF8B6698C77D1F5EDA1DD6BA3) 
+* [Linux Command Line and Shell Scripting Bible](http://library.lol/main/83D73257C1AFD8DE91F3CA52DE118FCF) 
 
 ## Shell & Specific Shell Tools
 * [Computing from the Command Line](https://learnbyexample.github.io/cli-computing/) (book)
@@ -16,15 +15,13 @@
 * [GNU Awk](https://learnbyexample.github.io/learn_gnuawk/) (book)
 
 ## Kernel, Low-Level
-    **[Linux Kernel Programming: A comprehensive guide to kernel internals, writing kernel modules, and kernel synchronization](http://library.lol/main/5101B7A38854D9EBD359C9A74D2686EF)**
-    **[Foundations  of Linux Debugging, Disassembling, and Reversing: Analyze Binary Code, 
-    Understand Stack Memory Usage, and Reconstruct C/C++ Code with Intel x64](http://library.lol/main/7C3D6AAD13BD65F99F5981D8CA04728B)** 
+* [Linux Kernel Programming: A comprehensive guide to kernel internals, writing kernel modules, and kernel synchronization](http://library.lol/main/5101B7A38854D9EBD359C9A74D2686EF)
+
+**[Foundations  of Linux Debugging, Disassembling, and Reversing: Analyze Binary Code, 
+* Understand Stack Memory Usage, and Reconstruct C/C++ Code with Intel x64](http://library.lol/main/7C3D6AAD13BD65F99F5981D8CA04728B)** 
 
 ## Specific Topics
-    **[The anatomy of the modern window manager](http://library.lol/main/C392F948ADD053F40ABE01AACE37ED57)**
-
-## 
----
+* [The anatomy of the modern window manager](http://library.lol/main/C392F948ADD053F40ABE01AACE37ED57)
 
 ## LinuxTube
 * [Diolinux](https://www.youtube.com/@Diolinux) 
@@ -72,23 +69,22 @@ learn systemd and its controversies and alternatives
 * https://en.wikipedia.org/wiki/Linux_console
 * https://explainshell.com/
 * https://github.com/xtermjs/xterm.js/
-* http://www.linusakesson.net/programming/tty/
-**[read -r - Google Search](https://www.google.com/search?client=firefox-b-d&q=read+-r)**
+* http://www.linusakesson.net/programming/tty/* [read -r - Google Search](https://www.google.com/search?client=firefox-b-d&q=read+-r)
 * [The Linux Kernel - Explained in an Easy to Understand Way - LinuxForDevices](https://www.linuxfordevices.com/tutorials/linux/linux-kernel)
 learn the basics and theory behind booting and boot systems
-**[Mastering Linux Device Driver Development: Write custom device drivers to support computer peripherals in Linux operating systems](http://library.lol/main/1AADA903BA5864B644936811371911A0)**
-**[Linux Kernel Programming Part 2 - Char Device Drivers and Kernel Synchronization](http://library.lol/main/F3C3DD0F5D1B8400A53F04F6120E1497)**
-**[Essential Linux Device Drivers](http://library.lol/main/818F44C26B71502D7F8FE76C8E14544A)**
-**[Linux Device Drivers](http://library.lol/main/A6E50843003816AE68F62BD0E0DD39D6)**
-**[Baeldung on Linux](https://www.baeldung.com/linux/)**
-**[ls -al output is -rw------T](https://www.unix.com/unix-for-dummies-questions-and-answers/21352-ls-al-output-rw-t.html)**
-**[How to Change Group Ownership of a File (System Administration Guide: Security Services)](https://docs.oracle.com/cd/E19683-01/816-4883/6mb2joat3/index.html)**
+     * [Mastering Linux Device Driver Development: Write custom device drivers to support computer peripherals in Linux operating systems](http://library.lol/main/1AADA903BA5864B644936811371911A0)
+* [Linux Kernel Programming Part 2 - Char Device Drivers and Kernel Synchronization](http://library.lol/main/F3C3DD0F5D1B8400A53F04F6120E1497)
+* [Essential Linux Device Drivers](http://library.lol/main/818F44C26B71502D7F8FE76C8E14544A)
+* [Linux Device Drivers](http://library.lol/main/A6E50843003816AE68F62BD0E0DD39D6)
+* [Baeldung on Linux](https://www.baeldung.com/linux/)
+* [ls -al output is -rw------T](https://www.unix.com/unix-for-dummies-questions-and-answers/21352-ls-al-output-rw-t.html)
+* [How to Change Group Ownership of a File (System Administration Guide: Security Services)](https://docs.oracle.com/cd/E19683-01/816-4883/6mb2joat3/index.html)
 * http://www.linusakesson.net/programming/tty/
 * [gnome - Dead keys no longer work in some applications since Ubuntu Jammy - Ask Ubuntu](https://askubuntu.com/questions/1404613/dead-keys-no-longer-work-in-some-applications-since-ubuntu-jammy)
-**[Signatures couldn't be verified - public key - Ubuntu 20.04 Focal · Issue #1181 · nodesource/distributions](https://github.com/nodesource/distributions/issues/1181)**
-**[Set Up SSH Keys on Ubuntu 20.04](https://www.cloudpanel.io/tutorial/set-up-ssh-keys-on-ubuntu-20-04/)**
-**[apt - How do I fix the GPG error "NO_PUBKEY"? - Ask Ubuntu](https://askubuntu.com/questions/13065/how-do-i-fix-the-gpg-error-no-pubkey)**
-**[tree: ignore directories with patterns](https://zaiste.net/posts/tree-ignore-directories-patterns/)**
+* [Signatures couldn't be verified - public key - Ubuntu 20.04 Focal · Issue #1181 · nodesource/distributions](https://github.com/nodesource/distributions/issues/1181)
+* [Set Up SSH Keys on Ubuntu 20.04](https://www.cloudpanel.io/tutorial/set-up-ssh-keys-on-ubuntu-20-04/)
+* [apt - How do I fix the GPG error "NO_PUBKEY"? - Ask Ubuntu](https://askubuntu.com/questions/13065/how-do-i-fix-the-gpg-error-no-pubkey)
+* [tree: ignore directories with patterns](https://zaiste.net/posts/tree-ignore-directories-patterns/)
 
 ## Reading List - To Sort (1)
 * https://peropesis.org/
@@ -102,7 +98,7 @@ learn the basics and theory behind booting and boot systems
 * https://tldp.org/LDP/Bash-Beginners-Guide/html/Bash-Beginners-Guide.html
 * https://devhints.io/bash
 * https://linux.die.net/man/1/bash
-**[Jürgen Wolf - Shell-Programmierung: Das umfassende Handbuch, 3. Auflage](http://libgen.rs/book/index.php?md5=7CCFBFA22DBC4A22AD79BA5189BEE788)**
+     * [Jürgen Wolf - Shell-Programmierung: Das umfassende Handbuch, 3. Auflage](http://libgen.rs/book/index.php?md5=7CCFBFA22DBC4A22AD79BA5189BEE788)
 * [Arch Linux Books](http://libgen.is/search.php?req=arch+linux&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 * [Building Embedded Linux Systems [2 ed.]](http://libgen.is/book/index.php?md5=A2E20D7FF8A88E34C33CCBAA218E53EC)
 * [Внутреннее устройство Linux [2016]](https://vk.com/doc576778753_560263169?hash=e719984355c032cd87&dl=8476340203234f884e)
@@ -113,16 +109,17 @@ learn the basics and theory behind booting and boot systems
 * [Einführung in Unix/Linux für Naturwissenschaftler: Effizientes wissenschaftliches Arbeiten mit der Unix-Kommandozeile](https://de1lib.org/book/2921072/bad464)
 * [The Definitive Guide to Linux Network Programming](http://library.lol/main/04DA144B319B513163311B32B3D9168D)
 * [Linux-Server](https://de1lib.org/book/11841081/888599)
-**[Ubuntu Linux Unleashed 2021 Edition](https://de1lib.org/book/11841555/5076c8)**
+* [Ubuntu Linux Unleashed 2021 Edition](https://de1lib.org/book/11841555/5076c8)
 * [Linux Pocket Guide: Essential Commands](https://b-ok.cc/book/2724628/b03b09)
-**[Library Genesis: Brennon Thomas - The Cyber Plumber’s Handbook: The definitive guide to SSH tunneling, port redirection, and bending traffic like a boss.](http://libgen.rs/book/index.php?md5=DD1C99F471FE1600CC5B271D71DE12A8)**
-**[Library Genesis: Daniel J. Barrett, Richard E. Silverman, Robert G. Byrnes - SSH, The Secure Shell: The Definitive Guide](http://libgen.rs/book/index.php?md5=961787C66EF4F3856D42BA250F3E58C9)**
-**[Library Genesis: Michael W. Lucas - SSH Mastery: OpenSSH, PuTTY, Tunnels and Keys](http://libgen.rs/book/index.php?md5=33923FAC709AAAD53014216282CFAE39)**
+* [Library Genesis: Brennon Thomas - The Cyber Plumber’s Handbook: The definitive guide to SSH tunneling, port redirection, and bending traffic like a boss.](http://libgen.rs/book/index.php?md5=DD1C99F471FE1600CC5B271D71DE12A8)
+* [Library Genesis: Daniel J. Barrett, Richard E. Silverman, Robert G. Byrnes - SSH, The Secure Shell: The Definitive Guide](http://libgen.rs/book/index.php?md5=961787C66EF4F3856D42BA250F3E58C9)
+* [Library Genesis: Michael W. Lucas - SSH Mastery: OpenSSH, PuTTY, Tunnels and Keys](http://libgen.rs/book/index.php?md5=33923FAC709AAAD53014216282CFAE39)
 * [Linux API. Исчерпывающее руководство](https://en.de1lib.org/book/17302644/a858d6)
 * [Linux. Установка, настройка, администрирование](https://en.de1lib.org/book/2209987/95574b?dsource=recommend)
 * [Linux. Администрирование и системное программирование](https://en.de1lib.org/book/2294376/13c4f0?dsource=recommend)
 * https://abarrak.gitbook.io/linux-sysops-handbook
-* [Linux Kernel source code - Haevily Commented (Kernel Version 0.12) [2019 ed.]](http://libgen.is/book/index.php?md5=002593EDE5F8004A784483A0FAF4AE29)
+* [Linux Kernel source code - Haevily Commented (Kernel Version 0.12)
+            * [2019 ed.]](http://libgen.is/book/index.php?md5=002593EDE5F8004A784483A0FAF4AE29)
 * [The Art of Linux Kernel Design: Illustrating the Operating System Design Principle and Implementation [1 ed.]](http://libgen.is/book/index.php?md5=D23976F913AE0A19FF94173BBD642123)
 * [Linux Kernel Programming: A comprehensive guide to kernel internals, writing kernel modules, and kernel synchronization](http://libgen.is/book/index.php?md5=5101B7A38854D9EBD359C9A74D2686EF)
 * [Linux Kernel Programming Part 2 - Char Device Drivers and Kernel Synchronization](http://libgen.is/book/index.php?md5=F3C3DD0F5D1B8400A53F04F6120E1497)
@@ -140,8 +137,7 @@ learn the basics and theory behind booting and boot systems
 * [Linux Kernel Crash Book Everything you need to know](http://libgen.is/book/index.php?md5=4235C4ACAAE3F9CEA960CA6FB25D0138)
 * [Concrete Architecture of the Linux Kernel](http://libgen.is/book/index.php?md5=4E15C97E21A8F49742CF467593AC4C6A)
 * https://effective-shell.com/
-* [github.com/dwmkerr/effective-shell](http://github.com/dwmkerr/effective-shell)
-**https://www.freecodecamp.org/news/how-to-install-arch-linux/**
+* [github.com/dwmkerr/effective-shell](http://github.com/dwmkerr/effective-shell)* https://www.freecodecamp.org/news/how-to-install-arch-linux/
 * https://wiki.archlinux.org/
 * https://www.kali.org/docs/introduction/what-is-kali-linux/
 * https://wiki.gentoo.org/wiki/Handbook:Main_Page
@@ -173,10 +169,10 @@ Shell Scripting (Robbins & Beebe)
 * [Linux | Physics.Math.Code.Books](https://vk.com/topic-51126445_32152962)
 What can't you do with shell scripting?
 * [Путівник про Linux](https://linuxguide.rozh2sch.org.ua/)
-**[Learning the Linux File System](https://www.youtube.com/watch?v=HIXzJ3Rz9po&list=WL&index=410)**
-**[Linux File System/Structure Explained!](https://www.youtube.com/watch?v=HbgzrKJvDRw&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=147)**
-**[Ubuntu 18.10 vs Fedora 29 - a different focus.](https://www.youtube.com/watch?v=LELgtzzu7sQ&list=WL&index=440)**
-**[Unix vs Linux](https://www.youtube.com/watch?v=jowCUo_UGts&list=WL&index=392)**
+* [Learning the Linux File System](https://www.youtube.com/watch?v=HIXzJ3Rz9po&list=WL&index=410)
+* [Linux File System/Structure Explained!](https://www.youtube.com/watch?v=HbgzrKJvDRw&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=147)
+* [Ubuntu 18.10 vs Fedora 29 - a different focus.](https://www.youtube.com/watch?v=LELgtzzu7sQ&list=WL&index=440)
+* [Unix vs Linux](https://www.youtube.com/watch?v=jowCUo_UGts&list=WL&index=392)
 The Linux Command Line
 * [A Guide To The Best Laptops For Linux 2019 - Make A Website Hub](https://makeawebsitehub.com/best-laptops-linux/#best-laptops-for-linux)
 * [Best Linux laptops of 2019: the top open-source notebooks | TechRadar](https://www.techradar.com/news/best-linux-laptops)
@@ -190,23 +186,19 @@ The Linux Command Line
 * [Best 10 Laptops for Linux – Linux Hint](https://linuxhint.com/best_10_laptops_linux/)
 * [5 Awesome Linux Laptops You Can Buy Right Now](https://www.makeuseof.com/tag/three-awesome-linux-laptops-can-buy-right-now/)
 * [10 Places to Buy Linux Laptops in 2019](https://itsfoss.com/get-linux-laptops/)
-
-## [*Pop OS Review: Is This Beautiful Linux Distribution Worth Your Time?](https://itsfoss.com/pop-os-linux-review/)
-**Git**
-**[Git Commands With Examples | Git Tutorial | Git Branching & Merging | DevOps Training | Edureka](https://www.youtube.com/watch?v=b5oQZdzA37I&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=18)**
+* [*Pop OS Review: Is This Beautiful Linux Distribution Worth Your Time?](https://itsfoss.com/pop-os-linux-review/)
+Git
+     * [Git Commands With Examples | Git Tutorial | Git Branching & Merging | DevOps Training | Edureka](https://www.youtube.com/watch?v=b5oQZdzA37I&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=18)
 * [GitHub action to automatically add blog posts to your profile](https://www.reddit.com/r/programming/comments/iga8ki/github_action_to_automatically_add_blog_posts_to/)
-**[Clean Pull Request Instructions](https://gist.github.com/MarcDiethelm/7303312)**
+* [Clean Pull Request Instructions](https://gist.github.com/MarcDiethelm/7303312)
 * https://system76.com/laptops
-* https://system76.com/laptops/galp5/configure
-**https://www.zdnet.com/pictures/10-super-sweet-laptops-that-come-with-linux-pre-installed/6/**
-**https://www.zdnet.com/pictures/10-super-sweet-laptops-that-come-with-linux-pre-installed/7/**
+* https://system76.com/laptops/galp5/configure* https://www.zdnet.com/pictures/10-super-sweet-laptops-that-come-with-linux-pre-installed/6/* https://www.zdnet.com/pictures/10-super-sweet-laptops-that-come-with-linux-pre-installed/7/
 ZaReason UltraLap 6440
 ZaReason Verix-9100
 
 ## Reading List - To Sort  (4)
 * https://news.lenovo.com/pressroom/press-releases/lenovo-launches-linux-ready-thinkpad-and-thinkstation-pcs-preinstalled-with-ubuntu/#:~:text=Lenovo%20Launches%20Linux%2DReady%20ThinkPad%20and%20ThinkStation%20PCs%20Preinstalled%20with%20Ubuntu,-23%20September%202020&text=September%2023%2C%202020%20%E2%80%93%20Today%2C,Ubuntu%C2%AE%20LTS%20operating%20system.
-* https://kofler.info/linux-notebook/
-**https://support.lenovo.com/us/en/solutions/pd031426-linux-for-personal-systems**
+* https://kofler.info/linux-notebook/* https://support.lenovo.com/us/en/solutions/pd031426-linux-for-personal-systems
 * [https://www.google.com/search?q=best+pre-installed+linux+machine](https://www.google.com/search?q=best+pre-installed+linux+machine&rlz=1C5CHFA_enUS800US800&oq=best+&aqs=chrome.0.69i59l3j69i57j69i61j69i65l2j69i61.2605j0j4&sourceid=chrome&ie=UTF-8)
 * https://github.com/pop-os
 * https://pop.system76.com/
@@ -214,8 +206,8 @@ ZaReason Verix-9100
 * https://www.google.com/search?q=pros+and+cons+of+debian
 * https://www.datamation.com/open-source/7-reasons-to-use-debian-and-3-reasons-not-to.html
 * https://distrowatch.com/search.php?ostype=All&category=All&origin=All&basedon=Debian&notbasedon=None&desktop=All&architecture=All&package=All&rolling=All&isosize=All&netinstall=All&language=All&status=Active#simple
-**[Linux Action News](https://linuxactionnews.com/)**
-**Linux User (Zeitschrift)**
+     * [Linux Action News](https://linuxactionnews.com/)
+Linux User (Zeitschrift)
 * https://www.tecmint.com/learn-nano-text-editor-in-linux/
 * https://www.lifewire.com/beginners-guide-to-nano-editor-3859002
 * https://www.howtogeek.com/howto/42980/the-beginners-guide-to-nano-the-linux-command-line-text-editor/
@@ -278,8 +270,8 @@ Kroah-Hartman (Linux LL)
 * http://www.hypexr.org/linux_scp_help.php
 * https://askubuntu.com/questions/157381/in-ssh-how-do-i-mv-to-my-local-system
 * [Scripting Bash – Scripting OS X](https://scriptingosx.com/bash/)
-**[Joe Collins](https://www.youtube.com/user/BadEditPro)**
-**[Shell Scripting Tutorial](https://www.youtube.com/watch?v=hwrnmQumtPw&list=WL&index=442)**
+* [Joe Collins](https://www.youtube.com/user/BadEditPro)
+* [Shell Scripting Tutorial](https://www.youtube.com/watch?v=hwrnmQumtPw&list=WL&index=442)
 * [ajeetdsouza/zoxide: A fast cd command that learns your habits](https://github.com/ajeetdsouza/zoxide)
 * [Anki Bash Decks](https://ankiweb.net/shared/decks/bash)
 * [Anki Linux Decks](https://ankiweb.net/shared/decks/linux)
@@ -303,14 +295,14 @@ Kroah-Hartman (Linux LL)
 * [Introduction to SLURM Tools - YouTube](https://www.youtube.com/watch?v=U42qlYkzP9k)
 * [Slurm Basics - YouTube](https://www.youtube.com/watch?v=49DzPT9HFJM)
 * [Convenient SLURM Commands | FAS Research Computing](https://www.rc.fas.harvard.edu/resources/documentation/convenient-slurm-commands/)
-**mkdir -p nonexistent/newfolder/**
+mkdir -p nonexistent/newfolder/
 * [https://www.reddit.com/r/vim/comments/1x3my7/vimtronner_is_a_multiplayer_realtime_commandline/](https://www.reddit.com/r/vim/comments/1x3my7/vimtronner_is_a_multiplayer_realtime_commandline/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 * [https://www.reddit.com/r/vim/comments/a7wusl/vim_games/](https://www.reddit.com/r/vim/comments/a7wusl/vim_games/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 * [Distrobox (GitHub Repo)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2F89luca89%2Fdistrobox%3Futm_source=tldrnewsletter/1/0100017d7ae10a75-bd5bba8d-5af5-4460-af01-771de58cb29d-000000/cBZk341BWtzRuL7Sph_cBFk3YxQuZalfsBOpPv5Zf8Y=226)
 * https://github.com/ibus/ibus/wiki
 * https://utcc.utoronto.ca/~cks/space/blog/unix/XKeyboardRemappingNotes
 * [Unix-for-corpus-users.pdf](http://www2.port.ac.uk/media/contacts-and-departments/slas/corpus-linguistics/Unix-for-corpus-users.pdf)
-**[Loops - Shell Scripting Tutorial](https://www.shellscript.sh/loops.html)**
+* [Loops - Shell Scripting Tutorial](https://www.shellscript.sh/loops.html)
 * https://www.freecodecamp.org/news/how-to-transfer-files-between-servers-in-linux-using-scp-and-ftp/
 * [VimGenius](http://www.vimgenius.com/)
 * [YBlog - Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
@@ -362,8 +354,7 @@ Vimtutor in MacVim app
 * https://laptrinhx.com/vim-support-for-julia-1370938118/
 * [Vim Cheat Sheet](https://vim.rtorr.com/)
 * https://coderwall.com/p/s1i5pw/latex-with-vim
-* https://github.com/onivim/oni2
-**https://developer.ibm.com/articles/l-vim-script-1/**
+* https://github.com/onivim/oni2* https://developer.ibm.com/articles/l-vim-script-1/
 * https://vim.fandom.com/wiki/Use_Vim_like_an_IDE
 * https://github.com/DamZiobro/vim-ide
 use vim like an IDE
@@ -453,7 +444,7 @@ fish (shell)
 * [Formation Red Hat Enterprise Linux 1/2 : Réussir la certification RHCSA](https://www.youtube.com/watch?v=vm_wTTrnlbo&list=PL1aYsXmhJ1We3Fb-jo_HndFSpeKmFRWeB)
 * [→ https://www.youtube.com/results?search_query=продвинутый+курс+linux+](https://www.youtube.com/results?search_query=%D0%BF%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D1%8B%D0%B9+%D0%BA%D1%83%D1%80%D1%81+linux+)
 * [Tutorial: Building the Simplest Possible Linux System - Rob Landley, se-instruments.com](https://www.youtube.com/watch?v=Sk9TatW9ino&t=2067s)
-**[Minimal Linux Live: The 7MB Linux OS](https://www.youtube.com/watch?v=01LknbMXqF8)**
+* [Minimal Linux Live: The 7MB Linux OS](https://www.youtube.com/watch?v=01LknbMXqF8)
 * [Maîtriser le Shell Unix | Commandes Linux](https://www.youtube.com/watch?v=rqC_gvktVkc&list=PLAM-SVky60yhI5HXtgAnlGaG-2IolmZ-1)
 * [Curso Linux desde Cero 2022](https://www.youtube.com/watch?v=cAYFG_ZcM2s&list=PLParEH_BP8I0zA8RcXg6joiP4_t9hehi8)
 * [Ubuntu Linux](https://www.youtube.com/watch?v=swpxE9Q2y84&list=PLucm8g_ezqNqh_9TMx-ST1pTEXSbgJlTy) PT
@@ -466,7 +457,7 @@ fish (shell)
 * [Linux kernel Development - YouTube](https://www.youtube.com/watch?v=598Xe7OsPuU)
 * [Introduction to Linux Kernel Architecture - YouTube](https://www.youtube.com/watch?v=yQ1XPe6gbK8)
 * [Kernel Basics - YouTube](https://www.youtube.com/watch?v=rTcnTOXf_jM)
-**[InfinitelyGalactic](https://www.youtube.com/user/InfinitelyGalactic)**
+* [InfinitelyGalactic](https://www.youtube.com/user/InfinitelyGalactic)
 * [Moving to zsh, part 6 – Customizing the zsh Prompt](https://scriptingosx.com/2019/07/moving-to-zsh-06-customizing-the-zsh-prompt/)
 * http://www.bash2zsh.com/
 * https://wiki.archlinux.org/title/zsh
@@ -498,352 +489,197 @@ get kate ide?
 * https://crux.nu/Main/Handbook3-7 
 * https://www.yoctoproject.org/ 
 
-# **Reddit**
-
-## [AlmaLinux](https://www.reddit.com/r/AlmaLinux/)
-
-## [Arch Linux](https://www.reddit.com/r/archlinux/)
-
-## [Asahi Linux](https://www.reddit.com/r/AsahiLinux/)
-
-## [AwesomeWM](https://www.reddit.com/r/awesomewm/)
-
-## [CentOS](https://www.reddit.com/r/CentOS/)
-
-## [Cinnamon DE](https://www.reddit.com/r/CinnamonDE/)
-
-## [Command Line](https://www.reddit.com/r/commandline/)
-
-## [Debian](https://www.reddit.com/r/debian/)
-
-## [Deepin](https://www.reddit.com/r/deepin/)
-
-## [elementary OS](https://www.reddit.com/r/elementaryos/)
-
-## [EndeavourOS](https://www.reddit.com/r/EndeavourOS/)
-
-## [Fedora](https://www.reddit.com/r/Fedora/)
-
-## [FreeBSD](https://www.reddit.com/r/freebsd/)
-
-## [Garuda Linux](https://www.reddit.com/r/GarudaLinux/)
-
-## [Gentoo Linux](https://www.reddit.com/r/Gentoo/)
-
-## [GNOME](https://www.reddit.com/r/gnome/)
-
-## [Haiku](https://www.reddit.com/r/haikuOS/)
-
-## [i3 Window Manager](https://www.reddit.com/r/i3wm/)
-
-## [Kali Linux](https://www.reddit.com/r/Kalilinux/)
-
-## [KDE](https://www.reddit.com/r/kde/)
-
-## [Kubuntu](https://www.reddit.com/r/Kubuntu/)
-
-## [Linux4Noobs](https://www.reddit.com/r/linux4noobs/)
-
-## [Linux](https://www.reddit.com/r/linux/)
-
-## [Linux From Scratch](https://www.reddit.com/r/linuxfromscratch/)
-
-## [Linux Gaming](https://www.reddit.com/r/linux_gaming/)
-
-## [Linux Hardware](https://www.reddit.com/r/linuxhardware/)
-
-## [Linux Kernel](https://www.reddit.com/r/kernel/)
-
-## [Linux Mint](https://www.reddit.com/r/linuxmint/)
-
-## [Linux Questions](https://www.reddit.com/r/linuxquestions/)
-
-## [Manjaro](https://www.reddit.com/r/ManjaroLinux/)
-
-## [Nix](https://www.reddit.com/r/Nix/)
-
-## [NixOS](https://www.reddit.com/r/NixOS/)
-
-## [Open Source](https://www.reddit.com/r/opensource/)
-
-## [openSUSE](https://www.reddit.com/r/openSUSE/)
-
-## [Pop!_OS](https://www.reddit.com/r/pop_os/)
-
-## [Qubes OS](https://www.reddit.com/r/Qubes/)
-
-## [Red Hat](https://www.reddit.com/r/redhat/)
-
-## [Rocky Linux](https://www.reddit.com/r/RockyLinux/)
-
-## [Slackware](https://www.reddit.com/r/slackware/)
-
-## [Solus Project](https://www.reddit.com/r/SolusProject/)
-
-## [Sway Window Manager](https://www.reddit.com/r/swaywm/)
-
-## [Tails](https://www.reddit.com/r/tails/)
-
-## [Ubuntu](https://www.reddit.com/r/Ubuntu/)
-
-## [Unix Porn](https://www.reddit.com/r/unixporn/)
-
-## [Void Linux](https://www.reddit.com/r/voidlinux/)
-
-## [Whonix](https://www.reddit.com/r/Whonix/)
-
-## [Xfce](https://www.reddit.com/r/xfce/)
-
-## [Xubuntu](https://www.reddit.com/r/xubuntu/)
-
-## [Zorin OS](https://www.reddit.com/r/zorinos/)
+# Reddit
+* [AlmaLinux](https://www.reddit.com/r/AlmaLinux/)
+* [Arch Linux](https://www.reddit.com/r/archlinux/)
+* [Asahi Linux](https://www.reddit.com/r/AsahiLinux/)
+* [AwesomeWM](https://www.reddit.com/r/awesomewm/)
+* [CentOS](https://www.reddit.com/r/CentOS/)
+* [Cinnamon DE](https://www.reddit.com/r/CinnamonDE/)
+* [Command Line](https://www.reddit.com/r/commandline/)
+* [Debian](https://www.reddit.com/r/debian/)
+* [Deepin](https://www.reddit.com/r/deepin/)
+* [elementary OS](https://www.reddit.com/r/elementaryos/)
+* [EndeavourOS](https://www.reddit.com/r/EndeavourOS/)
+* [Fedora](https://www.reddit.com/r/Fedora/)
+* [FreeBSD](https://www.reddit.com/r/freebsd/)
+* [Garuda Linux](https://www.reddit.com/r/GarudaLinux/)
+* [Gentoo Linux](https://www.reddit.com/r/Gentoo/)
+* [GNOME](https://www.reddit.com/r/gnome/)
+* [Haiku](https://www.reddit.com/r/haikuOS/)
+* [i3 Window Manager](https://www.reddit.com/r/i3wm/)
+* [Kali Linux](https://www.reddit.com/r/Kalilinux/)
+* [KDE](https://www.reddit.com/r/kde/)
+* [Kubuntu](https://www.reddit.com/r/Kubuntu/)
+* [Linux4Noobs](https://www.reddit.com/r/linux4noobs/)
+* [Linux](https://www.reddit.com/r/linux/)
+* [Linux From Scratch](https://www.reddit.com/r/linuxfromscratch/)
+* [Linux Gaming](https://www.reddit.com/r/linux_gaming/)
+* [Linux Hardware](https://www.reddit.com/r/linuxhardware/)
+* [Linux Kernel](https://www.reddit.com/r/kernel/)
+* [Linux Mint](https://www.reddit.com/r/linuxmint/)
+* [Linux Questions](https://www.reddit.com/r/linuxquestions/)
+* [Manjaro](https://www.reddit.com/r/ManjaroLinux/)
+* [Nix](https://www.reddit.com/r/Nix/)
+* [NixOS](https://www.reddit.com/r/NixOS/)
+* [Open Source](https://www.reddit.com/r/opensource/)
+* [openSUSE](https://www.reddit.com/r/openSUSE/)
+* [Pop!_OS](https://www.reddit.com/r/pop_os/)
+* [Qubes OS](https://www.reddit.com/r/Qubes/)
+* [Red Hat](https://www.reddit.com/r/redhat/)
+* [Rocky Linux](https://www.reddit.com/r/RockyLinux/)
+* [Slackware](https://www.reddit.com/r/slackware/)
+* [Solus Project](https://www.reddit.com/r/SolusProject/)
+* [Sway Window Manager](https://www.reddit.com/r/swaywm/)
+* [Tails](https://www.reddit.com/r/tails/)
+* [Ubuntu](https://www.reddit.com/r/Ubuntu/)
+* [Unix Porn](https://www.reddit.com/r/unixporn/)
+* [Void Linux](https://www.reddit.com/r/voidlinux/)
+* [Whonix](https://www.reddit.com/r/Whonix/)
+* [Xfce](https://www.reddit.com/r/xfce/)
+* [Xubuntu](https://www.reddit.com/r/xubuntu/)
+* [Zorin OS](https://www.reddit.com/r/zorinos/)
 
 # Community
 *Join the CLI lover community.*
-
-## [/r/commandline](https://www.reddit.com/r/commandline) - This is for anything regarding the command line, in any operating system.
-
-## [/r/osxterminal](https://www.reddit.com/r/osxterminal) - Tips for using terminal.app in macOS.
-
-## [/r/zsh/](https://www.reddit.com/r/zsh/) - Everything on zsh.
-
-## [/r/unixporn/](https://www.reddit.com/r/unixporn/) - Everything on unix.
-
-## [#bash](https://webchat.freenode.net/?channels=bash) - Bash IRC channel on freenode.
-
-## [Stack Overflow](https://stackoverflow.com/questions/tagged/terminal) - Terminal tagged questions.
+* [/r/commandline](https://www.reddit.com/r/commandline) - This is for anything regarding the command line, in any operating system.
+* [/r/osxterminal](https://www.reddit.com/r/osxterminal) - Tips for using terminal.app in macOS.
+* [/r/zsh/](https://www.reddit.com/r/zsh/) - Everything on zsh.
+* [/r/unixporn/](https://www.reddit.com/r/unixporn/) - Everything on unix.
+* [#bash](https://webchat.freenode.net/?channels=bash) - Bash IRC channel on freenode.
+* [Stack Overflow](https://stackoverflow.com/questions/tagged/terminal) - Terminal tagged questions.
 
 ### Companies and Organizations
-
-## [Aleph Objects](https://www.alephobjects.com/) - Respects Your Freedom (RYF) certified 3D printer built with libre hardware and software.
-
-## [Libiquity](http://www.libiquity.com/) - Designs and develops embedded software and firmware systems.
-
-## [Purism](https://puri.sm/) - Privacy, security, and freedom focused computers and software.
-
-## [Raptor Computing Systems](https://raptorcs.com/) - Desktops, motherboards, and other parts utilizing the IBM POWER9 processor and OpenBMC firmware.
-
-## [Technoethical](https://tehnoetic.com/) - Laptops, adapters, and mobile devices compatible with free operating systems.
-
-## [ThinkPenguin](https://www.thinkpenguin.com/) - Modern laptops, desktops, and printers that contain no proprietary software.
-
-## [Vikings](https://vikings.net/) - Hosting company powered by Libreboot firmware, libre software, and green energy that also sells hardware.
-
-## [https://framasoft.org/en/ →](https://framasoft.org/en/) https://degooglisons-internet.org/en/
+* [Aleph Objects](https://www.alephobjects.com/) - Respects Your Freedom (RYF) certified 3D printer built with libre hardware and software.
+* [Libiquity](http://www.libiquity.com/) - Designs and develops embedded software and firmware systems.
+* [Purism](https://puri.sm/) - Privacy, security, and freedom focused computers and software.
+* [Raptor Computing Systems](https://raptorcs.com/) - Desktops, motherboards, and other parts utilizing the IBM POWER9 processor and OpenBMC firmware.
+* [Technoethical](https://tehnoetic.com/) - Laptops, adapters, and mobile devices compatible with free operating systems.
+* [ThinkPenguin](https://www.thinkpenguin.com/) - Modern laptops, desktops, and printers that contain no proprietary software.
+* [Vikings](https://vikings.net/) - Hosting company powered by Libreboot firmware, libre software, and green energy that also sells hardware.
+* [https://framasoft.org/en/ →](https://framasoft.org/en/) https://degooglisons-internet.org/en/
 
 ## Resources FOSS
 
 ### Articles
-
-## [Free Software](https://en.wikipedia.org/wiki/Free_software) - Wikipedia entry on the topic of free software.
-
-## ['Libre' Software: Turning Fads into Institutions?](https://www.sciencedirect.com/science/article/pii/S0048733302000033) - Academic article presenting an economic analysis of libre software and its sustainability.
-
-## [Software Freedom](https://devuan.org/os/free-software) - Short, simple explanation of why free software is important from Devuan.
+* [Free Software](https://en.wikipedia.org/wiki/Free_software) - Wikipedia entry on the topic of free software.
+* ['Libre' Software: Turning Fads into Institutions?](https://www.sciencedirect.com/science/article/pii/S0048733302000033) - Academic article presenting an economic analysis of libre software and its sustainability.
+* [Software Freedom](https://devuan.org/os/free-software) - Short, simple explanation of why free software is important from Devuan.
 
 ### Blogs
-
-## [BrainBlasted's Privacy and Free Software Blog](https://brainblasted.gitlab.io/) - Practical look at issues involving free software and privacy.
+* [BrainBlasted's Privacy and Free Software Blog](https://brainblasted.gitlab.io/) - Practical look at issues involving free software and privacy.
 
 ### Businesses
-
-## [Bytemark](https://www.bytemark.co.uk/company/manifesto/) - Transparent UK hosting company that offers a 50% discount for anyone publishing free software.
+* [Bytemark](https://www.bytemark.co.uk/company/manifesto/) - Transparent UK hosting company that offers a 50% discount for anyone publishing free software.
 
 ### Discovery
-
-## [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) - Over 15,000 free software packages.
-
-## [Free GNU/Linux Distributions](https://www.gnu.org/distros/free-distros.html) - Entirely free distributions.
-
-## [freepost](https://freepo.st/) - Everything related to free culture.
+* [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) - Over 15,000 free software packages.
+* [Free GNU/Linux Distributions](https://www.gnu.org/distros/free-distros.html) - Entirely free distributions.
+* [freepost](https://freepo.st/) - Everything related to free culture.
 
 ### Events
-
-## [LibrePlanet](https://libreplanet.org/) - Annual conference on free software.
-
-## [Software Freedom Day](https://en.wikipedia.org/wiki/Software_Freedom_Day) - Annual worldwide celebration of free software with the aim of increasing awareness of free software and its virtues.
+* [LibrePlanet](https://libreplanet.org/) - Annual conference on free software.
+* [Software Freedom Day](https://en.wikipedia.org/wiki/Software_Freedom_Day) - Annual worldwide celebration of free software with the aim of increasing awareness of free software and its virtues.
 
 ### Licensing
-
-## [FOSSology](https://www.fossology.org/) - License compliance toolkit for software projects.
-
-## [gplenforced.org](https://gplenforced.org/) - Community-oriented GPL enforcement.
+* [FOSSology](https://www.fossology.org/) - License compliance toolkit for software projects.
+* [gplenforced.org](https://gplenforced.org/) - Community-oriented GPL enforcement.
 
 ### Organizations
-
-## [April](https://www.april.org/) - Promouvoir et défendre le logiciel libre.
-
-## [Digital Freedom Foundation](https://en.wikipedia.org/wiki/Digital_Freedom_Foundation) - Promotes access to knowledge via technology.
-
-## [Framasoft](https://framasoft.org/) - Network dedicated to globally promoting free software, innovative projects, and a world of sharing and cooperation.
-
-## [Free Software Foundation](https://www.fsf.org/) - Nonprofit with a worldwide mission to promote computer user freedom.
-
-## [Free Software Movement Karnataka](https://fsmk.org/) - Group in Bengaluru, India that spreads awareness about free software.
-
-## [Free Software Movement of India](http://fsmi.in/) - Coalition of free software organizations in India.
-
-## [FSF India](http://gnu.org.in/) - Indian sister site for the FSF.
-
-## [FSFE](https://fsfe.org/) - European sister site for the FSF.
-
-## [FSFLA](http://www.fsfla.org/ikiwiki/) - Latin American sister site for the FSF.
-
-## [GNU](https://www.gnu.org/) - Home of the GNU/Linux operating system.
-
-## [Open Source Hardware Association](https://www.oshwa.org/) - Promotes hardware that respects user freedom.
-
-## [Outreachy](https://www.outreachy.org/) - Helps people from underrepresented backgrounds find internships with FOSS software companies.
-
-## [Peers](https://peers.community/) - Community that helps support and grow free projects.
-
-## [Software Freedom Conservancy](https://sfconservancy.org/) - Charity that helps promote, improve, develop, and defend free, libre, and open source software projects.
-
-## [Software Freedom Law Center](https://www.softwarefreedom.org/) - Provider of no-cost legal services to free, libre, and open source software creators.
-
-## [Snowdrift.coop](https://snowdrift.coop/) - Crowdmatching for public goods.
-
-## [TuxFamily](https://www.tuxfamily.org/) - No cost hosting and other services for libre projects.
+* [April](https://www.april.org/) - Promouvoir et défendre le logiciel libre.
+* [Digital Freedom Foundation](https://en.wikipedia.org/wiki/Digital_Freedom_Foundation) - Promotes access to knowledge via technology.
+* [Framasoft](https://framasoft.org/) - Network dedicated to globally promoting free software, innovative projects, and a world of sharing and cooperation.
+* [Free Software Foundation](https://www.fsf.org/) - Nonprofit with a worldwide mission to promote computer user freedom.
+* [Free Software Movement Karnataka](https://fsmk.org/) - Group in Bengaluru, India that spreads awareness about free software.
+* [Free Software Movement of India](http://fsmi.in/) - Coalition of free software organizations in India.
+* [FSF India](http://gnu.org.in/) - Indian sister site for the FSF.
+* [FSFE](https://fsfe.org/) - European sister site for the FSF.
+* [FSFLA](http://www.fsfla.org/ikiwiki/) - Latin American sister site for the FSF.
+* [GNU](https://www.gnu.org/) - Home of the GNU/Linux operating system.
+* [Open Source Hardware Association](https://www.oshwa.org/) - Promotes hardware that respects user freedom.
+* [Outreachy](https://www.outreachy.org/) - Helps people from underrepresented backgrounds find internships with FOSS software companies.
+* [Peers](https://peers.community/) - Community that helps support and grow free projects.
+* [Software Freedom Conservancy](https://sfconservancy.org/) - Charity that helps promote, improve, develop, and defend free, libre, and open source software projects.
+* [Software Freedom Law Center](https://www.softwarefreedom.org/) - Provider of no-cost legal services to free, libre, and open source software creators.
+* [Snowdrift.coop](https://snowdrift.coop/) - Crowdmatching for public goods.
+* [TuxFamily](https://www.tuxfamily.org/) - No cost hosting and other services for libre projects.
 
 ### Other Lists
-
-## [Awesome Humane Tech](https://github.com/engagingspaces/awesome-humane-tech) - List of projects focusing on ethics, transparency, and privacy.
-
-## [Awesome Self-Hosted](https://github.com/Kickball/awesome-selfhosted) - List of FLOSS network services and web applications which can be hosted locally.
-
-## [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) - List of free software sysadmin tools.
+* [Awesome Humane Tech](https://github.com/engagingspaces/awesome-humane-tech) - List of projects focusing on ethics, transparency, and privacy.
+* [Awesome Self-Hosted](https://github.com/Kickball/awesome-selfhosted) - List of FLOSS network services and web applications which can be hosted locally.
+* [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) - List of free software sysadmin tools.
 
 ### People
-
-## [Maxime Lathuilière](https://maxlath.eu/) - Reorganizing information and resources through libre software to enable a free society.
+* [Maxime Lathuilière](https://maxlath.eu/) - Reorganizing information and resources through libre software to enable a free society.
 
 ### Talks
-
-## [Agustín Benito: Free Software, Beyond Software (TEDxLaLaguna)](https://www.youtube.com/watch?v=_2Qq072wIDk) (Español)
-
-## [Eben Moglen: How I Discovered Free Software](https://www.youtube.com/watch?v=uKxzK9xtSXM)
-
-## [Prof. Nagarjuna G: Free Software for Digital India](https://www.youtube.com/watch?v=O1A4UZqPtMQ)
-
-## [Richard Stallman: Free Software, Free Society (TEDxGeneva 2014)](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
-
-## [Stephen Fry: Free Software](https://www.youtube.com/watch?v=YGbMbF0mdPU)
-
-## [Wrishiraj Kaushik: I Am Not a Free Software Guy](https://www.youtube.com/watch?v=KQCC5oSfAYo)
+* [Agustín Benito: Free Software, Beyond Software (TEDxLaLaguna)](https://www.youtube.com/watch?v=_2Qq072wIDk) (Español)
+* [Eben Moglen: How I Discovered Free Software](https://www.youtube.com/watch?v=uKxzK9xtSXM)
+* [Prof. Nagarjuna G: Free Software for Digital India](https://www.youtube.com/watch?v=O1A4UZqPtMQ)
+* [Richard Stallman: Free Software, Free Society (TEDxGeneva 2014)](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
+* [Stephen Fry: Free Software](https://www.youtube.com/watch?v=YGbMbF0mdPU)
+* [Wrishiraj Kaushik: I Am Not a Free Software Guy](https://www.youtube.com/watch?v=KQCC5oSfAYo)
 
 ### Documentaries
 
 ## 2019: [Hacking for the Commons, by Philippe Borrel](https://vimeo.com/channels/1540870/393778517).
 
-## **Linux News, Apps, and more:**
-
-## [9To5Linux](https://9to5linux.com/)
-
-## [AllTop](https://linux.alltop.com/)
-
-## [ArchiveOS](https://archiveos.org/linux/)
-
-## [Are We Anti-Cheat Yet?](https://areweanticheatyet.com/)
-
-## [Dedoimedo](https://www.dedoimedo.com/)
-
-## [DistroTube](https://distrotube.com/)
-
-## [DistroWatch](https://distrowatch.com/)
-
-## [FAMILUG](https://www.familug.org/)
-
-## [GamingOnLinux](https://www.gamingonlinux.com/)
-
-## [How-To Geek](https://www.howtogeek.com/t/linux/)
-
-## [ITSFOSS](https://itsfoss.com/)
-
-## [Lemmy c/Linux](https://lemmy.ml/c/linux)
-
-## [Liliputing](https://liliputing.com/)
-
-## [Linoxide](https://linoxide.com/)
-
-## [Linux Gaming Central](https://linuxgamingcentral.com/)
-
-## [LinuxHandbook](https://linuxhandbook.com/)
-
-## [LinuxLinks](https://www.linuxlinks.com/)
-
-## [Linux official](https://www.linux.com/)
-
-## [LinuxSmartphones](https://linuxsmartphones.com/)
-
-## [LinuxStans](https://linuxstans.com/)
-
-## [Linux Timeline](https://github.com/FabioLolix/LinuxTimeline/releases)
-
-## [LWN](https://lwn.net/)
-
-## [Make use of](https://www.makeuseof.com/service/linux/)
-
-## [Nixcraft forum](https://www.nixcraft.com/)
-
-## [Nixcraft](https://www.cyberciti.biz/)
-
-## [Noobslab](https://www.noobslab.com/)
-
-## [OMG!Linux](https://www.omglinux.com/)
-
-## [OMG!Ubuntu](https://www.omgubuntu.co.uk/)
-
-## [Open Source](https://opensource.com/)
-
-## [Phoronix](https://www.phoronix.com/)
-
-## [ProtonDB](https://www.protondb.com/)
-
-## [Repology](https://repology.org/)
-
-## [Slashdot](https://linux.slashdot.org/)
-
-## [TecMint](https://www.tecmint.com/)
-
-## [Ubuntu Geek](https://www.ubuntugeek.com/)
-
-## [UbuntuHandbook](https://ubuntuhandbook.org/)
-
-## [Unixmen](https://www.unixmen.com/)
-
-## [Webupd8](http://www.webupd8.org/)
-
-## [WineDB](https://appdb.winehq.org/)
+## Linux News, Apps, and more:
+* [9To5Linux](https://9to5linux.com/)
+* [AllTop](https://linux.alltop.com/)
+* [ArchiveOS](https://archiveos.org/linux/)
+* [Are We Anti-Cheat Yet?](https://areweanticheatyet.com/)
+* [Dedoimedo](https://www.dedoimedo.com/)
+* [DistroTube](https://distrotube.com/)
+* [DistroWatch](https://distrowatch.com/)
+* [FAMILUG](https://www.familug.org/)
+* [GamingOnLinux](https://www.gamingonlinux.com/)
+* [How-To Geek](https://www.howtogeek.com/t/linux/)
+* [ITSFOSS](https://itsfoss.com/)
+* [Lemmy c/Linux](https://lemmy.ml/c/linux)
+* [Liliputing](https://liliputing.com/)
+* [Linoxide](https://linoxide.com/)
+* [Linux Gaming Central](https://linuxgamingcentral.com/)
+* [LinuxHandbook](https://linuxhandbook.com/)
+* [LinuxLinks](https://www.linuxlinks.com/)
+* [Linux official](https://www.linux.com/)
+* [LinuxSmartphones](https://linuxsmartphones.com/)
+* [LinuxStans](https://linuxstans.com/)
+* [Linux Timeline](https://github.com/FabioLolix/LinuxTimeline/releases)
+* [LWN](https://lwn.net/)
+* [Make use of](https://www.makeuseof.com/service/linux/)
+* [Nixcraft forum](https://www.nixcraft.com/)
+* [Nixcraft](https://www.cyberciti.biz/)
+* [Noobslab](https://www.noobslab.com/)
+* [OMG!Linux](https://www.omglinux.com/)
+* [OMG!Ubuntu](https://www.omgubuntu.co.uk/)
+* [Open Source](https://opensource.com/)
+* [Phoronix](https://www.phoronix.com/)
+* [ProtonDB](https://www.protondb.com/)
+* [Repology](https://repology.org/)
+* [Slashdot](https://linux.slashdot.org/)
+* [TecMint](https://www.tecmint.com/)
+* [Ubuntu Geek](https://www.ubuntugeek.com/)
+* [UbuntuHandbook](https://ubuntuhandbook.org/)
+* [Unixmen](https://www.unixmen.com/)
+* [Webupd8](http://www.webupd8.org/)
+* [WineDB](https://appdb.winehq.org/)
 
 # Guides
-
-## [Bash Official Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
-
-## [Bash Hackers Wiki](https://wiki.bash-hackers.org/)
-
-## [Greg Wooledge's (aka "greycat") wiki](https://mywiki.wooledge.org/). Specifically [Bash Guide](https://mywiki.wooledge.org/BashGuide), [Bash FAQ](https://mywiki.wooledge.org/BashFAQ) and [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls)
-
-## [Google's Shell Style Guide](https://google.github.io/styleguide/shell.xml)
-
-## [The Linux Documentation Project: Bash Programming - Intro/How-to](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
-
-## [The Linux Documentation Project: Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/)
-
-## [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
-
-## [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
-
-## [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
-
-## [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
-
-## [A guide to learn bash](https://github.com/Idnan/bash-guide)
-
-## [Shell Field Guide](https://raimonster.com/scripting-field-guide/)
-
-## [bash-guide](https://github.com/Idnan/bash-guide) - Guide to learn bash.
-
-## [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
+* [Bash Official Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
+* [Bash Hackers Wiki](https://wiki.bash-hackers.org/)
+* [Greg Wooledge's (aka "greycat") wiki](https://mywiki.wooledge.org/). Specifically [Bash Guide](https://mywiki.wooledge.org/BashGuide), [Bash FAQ](https://mywiki.wooledge.org/BashFAQ) and [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls)
+* [Google's Shell Style Guide](https://google.github.io/styleguide/shell.xml)
+* [The Linux Documentation Project: Bash Programming - Intro/How-to](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
+* [The Linux Documentation Project: Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/)
+* [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
+* [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+* [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
+* [A guide to learn bash](https://github.com/Idnan/bash-guide)
+* [Shell Field Guide](https://raimonster.com/scripting-field-guide/)
+* [bash-guide](https://github.com/Idnan/bash-guide) - Guide to learn bash.
+* [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
 
 ## https://cmdchallenge.com/  - Presents small shell challenge with user submitted solutions.
 
@@ -851,15 +687,10 @@ get kate ide?
 * [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)**
 
 ## Hardware Resources
-
-## [disaster.radio](https://disaster.radio/) - Off-grid, solar-powered, long-range mesh network built on free software and affordable, open hardware.
-
-## [h-node](https://h-node.org/) - Database of hardware that works with a fully free operating system.
-
-## [Linux Preloaded](https://linuxpreloaded.com/) - Hand-picked list of vendors from many regions that sell computers preinstalled with free software.
-
-## [Respects Your Freedom Hardware Certification](https://www.fsf.org/resources/hw/endorsement/criteria) - Requirements to qualify for the Free Software Foundation's RYF certification.
-**[Learning the UNIX Operating System](http://library.lol/main/16B2C707EE31783CF27916D163CD896B)**
+* [disaster.radio](https://disaster.radio/) - Off-grid, solar-powered, long-range mesh network built on free software and affordable, open hardware.
+* [h-node](https://h-node.org/) - Database of hardware that works with a fully free operating system.
+* [Linux Preloaded](https://linuxpreloaded.com/) - Hand-picked list of vendors from many regions that sell computers preinstalled with free software.
+* [Respects Your Freedom Hardware Certification](https://www.fsf.org/resources/hw/endorsement/criteria) - Requirements to qualify for the Free Software Foundation's RYF certification.* [Learning the UNIX Operating System](http://library.lol/main/16B2C707EE31783CF27916D163CD896B)
 * [bash Cookbook](https://libgen.is/book/index.php?md5=D30E555779831E7DF78ECE12D142F170)
 * https://github.com/neo-sh/neosh
 * CUDA, etc.
@@ -868,84 +699,45 @@ get kate ide?
 * https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/contents.html 
 * https://github.com/nvidia/cuda-samples
 * https://developer.nvidia.com/cuda-python 
-
-## [CUDA-X](https://developer.nvidia.com/gpu-accelerated-libraries#deep-learning)
-
-## [Math Libraries](https://developer.nvidia.com/gpu-accelerated-libraries#linear-algebra)
-
-## [cuBLAS](https://developer.nvidia.com/cublas) - https://docs.nvidia.com/cuda/cublas/index.html
-
-## [cuFFT](https://developer.nvidia.com/cufft) - [docs](https://docs.nvidia.com/cuda/cufft/index.html)
-
-## [CUDA Math Library](https://developer.nvidia.com/cuda-math-library)
-
-## [cuRAND](https://developer.nvidia.com/curand) - [docs](https://docs.nvidia.com/cuda/curand/index.html)
-
-## [cuSOLVER](https://developer.nvidia.com/cusolver) - [docs](https://docs.nvidia.com/cuda/cusolver/index.html)
-
-## [cuSPARSE](https://developer.nvidia.com/cusparse) - [docs](https://docs.nvidia.com/cuda/cusparse/index.html)
-
-## [cuTENSOR](https://developer.nvidia.com/cutensor) - [docs](https://docs.nvidia.com/cuda/cutensor/index.html)
-
-## [AmgX](https://developer.nvidia.com/amgx)
-
-## [Deep Learning](https://developer.nvidia.com/gpu-accelerated-libraries#deep-learning)
-
-## **[NVIDIA cuDNN](https://developer.nvidia.com/cudnn) - [docs](https://docs.nvidia.com/cudnn/index.html)**
-
-## **[NVIDIA TensorRT™](https://developer.nvidia.com/tensorrt) - [docs]() ([Triton](https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/index.html))**
-
-## **[NVIDIA Riva]() - [docs](https://docs.nvidia.com/riva/index.html)**
-
-## **[NVIDIA DeepStream SDK](https://developer.nvidia.com/deepstream-sdk) - [docs](https://docs.nvidia.com/metropolis/deepstream/dev-guide/index.html)**
-
-## **[NVIDIA DALI](https://developer.nvidia.com/DALI) - [docs](https://docs.nvidia.com/deeplearning/dali/user-guide/docs/index.html)**
-
-## [Partner Libraries](https://developer.nvidia.com/gpu-accelerated-libraries#partner-libraries)
-
-## **[OpenCV](https://developer.nvidia.com/opencv)**
-
-## **[FFmpeg](https://developer.nvidia.com/ffmpeg)**
-
-## **[ArrayFire](https://developer.nvidia.com/arrayfire)**
-
-## **[MAGMA](https://developer.nvidia.com/magma)**
-
-## **[IMSL Fortran Numerical Library](https://developer.nvidia.com/imsl-fortran-numerical-library)**
-
-## **[Gunrock](https://developer.nvidia.com/https://gunrock.github.io/docs/)**
-
-## **[CHOLMOD](https://developer.nvidia.com/cholmod)**
-
-## **[Triton Ocean SDK](https://developer.nvidia.com/triton-ocean-sdk)**
-
-## **[CUVIlib](https://cuvilib.com/)**
-
-## [Parallel Algorithms](https://developer.nvidia.com/gpu-accelerated-libraries#parallel-alg)
-
-## **[Thrust](https://developer.nvidia.com/thrust) - [docs](https://docs.nvidia.com/cuda/thrust/index.html)**
-
-## [Image and Video Libraries](https://developer.nvidia.com/gpu-accelerated-libraries#signal)
-
-## [nvJPEG](https://developer.nvidia.com/nvjpeg)
-
-## **[NVIDIA Performance Primitives](https://developer.nvidia.com/npp) - [docs](https://docs.nvidia.com/cuda/npp/index.html)**
-
-## **[NVIDIA Video Codec SDK](https://developer.nvidia.com/nvidia-video-codec-sdk)**
-
-## **[NVIDIA Optical Flow SDK](https://developer.nvidia.com/opticalflow-sdk)**
-
-## [Communication Libraries](https://developer.nvidia.com/gpu-accelerated-libraries#comm)
-
-## **[NVSHMEM](https://developer.nvidia.com/nvshmem) - [docs](https://docs.nvidia.com/nvshmem/index.html)**
-
-## **[NCCL](https://developer.nvidia.com/nccl) - [docs](https://docs.nvidia.com/deeplearning/nccl/user-guide/docs/index.html)**
-
-## **[CUDA Toolkit](https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html)**
-
-## **[NVIDIA HPC SDK](https://developer.nvidia.com/hpc-sdk)**
-
-## [NVCC](https://docs.nvidia.com/cuda/cuda-compiler-driver-nvcc/index.html)
+* [CUDA-X](https://developer.nvidia.com/gpu-accelerated-libraries#deep-learning)
+* [Math Libraries](https://developer.nvidia.com/gpu-accelerated-libraries#linear-algebra)
+* [cuBLAS](https://developer.nvidia.com/cublas) - https://docs.nvidia.com/cuda/cublas/index.html
+* [cuFFT](https://developer.nvidia.com/cufft) - [docs](https://docs.nvidia.com/cuda/cufft/index.html)
+* [CUDA Math Library](https://developer.nvidia.com/cuda-math-library)
+* [cuRAND](https://developer.nvidia.com/curand) - [docs](https://docs.nvidia.com/cuda/curand/index.html)
+* [cuSOLVER](https://developer.nvidia.com/cusolver) - [docs](https://docs.nvidia.com/cuda/cusolver/index.html)
+* [cuSPARSE](https://developer.nvidia.com/cusparse) - [docs](https://docs.nvidia.com/cuda/cusparse/index.html)
+* [cuTENSOR](https://developer.nvidia.com/cutensor) - [docs](https://docs.nvidia.com/cuda/cutensor/index.html)
+* [AmgX](https://developer.nvidia.com/amgx)
+* [Deep Learning](https://developer.nvidia.com/gpu-accelerated-libraries#deep-learning)
+* [NVIDIA cuDNN](https://developer.nvidia.com/cudnn) - [docs](https://docs.nvidia.com/cudnn/index.html)
+* [NVIDIA TensorRT™](https://developer.nvidia.com/tensorrt) - [docs]() ([Triton](https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/index.html))
+* [NVIDIA Riva]() - [docs](https://docs.nvidia.com/riva/index.html)
+* [NVIDIA DeepStream SDK](https://developer.nvidia.com/deepstream-sdk) - [docs](https://docs.nvidia.com/metropolis/deepstream/dev-guide/index.html)
+* [NVIDIA DALI](https://developer.nvidia.com/DALI) - [docs](https://docs.nvidia.com/deeplearning/dali/user-guide/docs/index.html)
+* [Partner Libraries](https://developer.nvidia.com/gpu-accelerated-libraries#partner-libraries)
+* [OpenCV](https://developer.nvidia.com/opencv)
+* [FFmpeg](https://developer.nvidia.com/ffmpeg)
+* [ArrayFire](https://developer.nvidia.com/arrayfire)
+* [MAGMA](https://developer.nvidia.com/magma)
+* [IMSL Fortran Numerical Library](https://developer.nvidia.com/imsl-fortran-numerical-library)
+* [Gunrock](https://developer.nvidia.com/https://gunrock.github.io/docs/)
+* [CHOLMOD](https://developer.nvidia.com/cholmod)
+* [Triton Ocean SDK](https://developer.nvidia.com/triton-ocean-sdk)
+* [CUVIlib](https://cuvilib.com/)
+* [Parallel Algorithms](https://developer.nvidia.com/gpu-accelerated-libraries#parallel-alg)
+* [Thrust](https://developer.nvidia.com/thrust) - [docs](https://docs.nvidia.com/cuda/thrust/index.html)
+* [Image and Video Libraries](https://developer.nvidia.com/gpu-accelerated-libraries#signal)
+* [nvJPEG](https://developer.nvidia.com/nvjpeg)
+* [NVIDIA Performance Primitives](https://developer.nvidia.com/npp) - [docs](https://docs.nvidia.com/cuda/npp/index.html)
+* [NVIDIA Video Codec SDK](https://developer.nvidia.com/nvidia-video-codec-sdk)
+* [NVIDIA Optical Flow SDK](https://developer.nvidia.com/opticalflow-sdk)
+* [Communication Libraries](https://developer.nvidia.com/gpu-accelerated-libraries#comm)
+* [NVSHMEM](https://developer.nvidia.com/nvshmem) - [docs](https://docs.nvidia.com/nvshmem/index.html)
+* [NCCL](https://developer.nvidia.com/nccl) - [docs](https://docs.nvidia.com/deeplearning/nccl/user-guide/docs/index.html)
+* [CUDA Toolkit](https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html)
+* [NVIDIA HPC SDK](https://developer.nvidia.com/hpc-sdk)
+* [NVCC](https://docs.nvidia.com/cuda/cuda-compiler-driver-nvcc/index.html)
 
 ## Drivers
 Torch install

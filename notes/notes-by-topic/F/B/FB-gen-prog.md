@@ -3,67 +3,67 @@
 ## Reading List
 
 ## Reading List Projects
-1. Sort (-2)
-2. Sort (-1)
-3. Sort (0)
-4. Sort (1)
-5. Sort (2)
-6. Sort (3)
-7. Sort (4)
-8. Sort (5)
-9. Sort (6)
-10. Sort (7)
-11. Sort (8)
-12. Sort (9)
-13. Sort (10)
-14. Sort (11)
-15. Sort (12)
-16. Sort (13)
-17. Sort (14)
-18. Sort (15)
-19. Sort (16)
-20. Sort (17)
-21. Sort (18)
-22. Sort (19)
-23. Sort (20)
-24. Sort (21)
-25. Sort (22)
-26. Sort (23)
-27. Sort (24)
-28. Sort (25)
-29. Sort (26)
-30. Sort (27)
-31. Prog Langs / Compiler / Interpreter / Parser
-32. Gen CS
-33. Hacking
-34. Practice
-35. Graphics
-36. Media
-37. Boot
-38. Math Expression Parsing
-39. FCC
-40. Encodings
-41. Quantum
-42. History
-43. Algorithms
-44. Regex
-45. Misc
-46. Docker and k8s
-47. Paradigms and Language Comparison
-48. Anki
-49. OS
-50. Meta Topics
-51. Links to Follow
-52. Courses
-53. Low-Level
-54. Boot
-55. Tasks/Challenges
-56. Cheatsheets
-57. Misc
-58. Resources
-59. Privacy and Cryptography
-60. Git
-61. Aesthetics
+* Sort (-2)
+* Sort (-1)
+* Sort (0)
+* Sort (1)
+* Sort (2)
+* Sort (3)
+* Sort (4)
+* Sort (5)
+* Sort (6)
+* Sort (7)
+* Sort (8)
+* Sort (9)
+* Sort (10)
+* Sort (11)
+* Sort (12)
+* Sort (13)
+* Sort (14)
+* Sort (15)
+* Sort (16)
+* Sort (17)
+* Sort (18)
+* Sort (19)
+* Sort (20)
+* Sort (21)
+* Sort (22)
+* Sort (23)
+* Sort (24)
+* Sort (25)
+* Sort (26)
+* Sort (27)
+* Prog Langs / Compiler / Interpreter / Parser
+* Gen CS
+* Hacking
+* Practice
+* Graphics
+* Media
+* Boot
+* Math Expression Parsing
+* FCC
+* Encodings
+* Quantum
+* History
+* Algorithms
+* Regex
+* Misc
+* Docker and k8s
+* Paradigms and Language Comparison
+* Anki
+* OS
+* Meta Topics
+* Links to Follow
+* Courses
+* Low-Level
+* Boot
+* Tasks/Challenges
+* Cheatsheets
+* Misc
+* Resources
+* Privacy and Cryptography
+* Git
+* Aesthetics
 
 ## Sort (7)
 * https://coding-challenge.lighthouselabs.ca/register
@@ -156,15 +156,13 @@
     Ремесло программиста. Практика написания хорошего кода (Гудлиф П.)
 * [Оформление программного кода, А. В. Столяров (2019)](http://www.stolyarov.info/books/pdf/codestyle2.pdf)
 
-### ******** danistefanovic/build-your-own-x: 🤓 Build your own (insert technology here)
+### **** danistefanovic/build-your-own-x: 🤓 Build your own (insert technology here)
 * [Computing with Data. An Introduction to the Data Industry.](https://www.abebooks.de/servlet/BookDetailsPL?bi=30531170284&cm_sp=SEARCHREC-_-WIDGET-L-_-BDP-R&searchurl=kn%3DComputing%2Bwith%2BData%26sortby%3D17)
 * [From Nand to Tetris Part 1](https://youtube.com/playlist?list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI)
 * [From Nand to Tetris Part 2](https://youtube.com/playlist?list=PLrDd_kMiAuNmllp9vuPqCuttC1XL9VyVh)
 
 ## Sort (9)
-* https://www.buecher.de/shop/englische-buecher/the-elements-of-computing-systems/nisan-noamschocken-shimon/products_products/detail/prod_id/23304349/
-    **[Concepts, techniques, and models of computer programming](http://library.lol/main/DB945BB2247838385EA4A7FC1EBA38F5)**
-    **[Programmation : Concepts, techniques et modèles](http://library.lol/main/0D56FE10B972B21589F3ED9A3B3F25DE)**
+* https://www.buecher.de/shop/englische-buecher/the-elements-of-computing-systems/nisan-noamschocken-shimon/products_products/detail/prod_id/23304349/    * [Concepts, techniques, and models of computer programming](http://library.lol/main/DB945BB2247838385EA4A7FC1EBA38F5)    * [Programmation : Concepts, techniques et modèles](http://library.lol/main/0D56FE10B972B21589F3ED9A3B3F25DE)
 * [Scrum UA](https://vk.com/wall-55985842_18991)
 * [Structure and Interpretation of Computer Programs: SICP (Coding Tech)](https://www.youtube.com/watch?v=f7s8_PGpVT0)
 * [UC Berkeley CS 61A The Structure and Interpretation of Computer Programs, Spring 2010](https://www.youtube.com/watch?v=4leZ1Ca4f0g&list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9)
@@ -182,10 +180,7 @@
 * [Computing with Data. An Introduction to the Data Industry.](https://www.abebooks.de/servlet/BookDetailsPL?bi=30531170284&cm_sp=SEARCHREC-_-WIDGET-L-_-BDP-R&searchurl=kn%3DComputing%2Bwith%2BData%26sortby%3D17)
 * [From Nand to Tetris Part 1](https://youtube.com/playlist?list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI)
 * [From Nand to Tetris Part 2](https://youtube.com/playlist?list=PLrDd_kMiAuNmllp9vuPqCuttC1XL9VyVh)
-* [Guidelines for collaboration](https://github.com/SciML/ColPrac)
-    **[Software Project Survival Guide](http://library.lol/main/7A9256D6418E5D3E67C7F55D0014C414)**
-    **[Code Complete](http://library.lol/main/649C8EEE28C38CA1E062691E45DC9883)**
-    **[Kod doskonały. Jak tworzyć oprogramowanie pozbawione błędów](http://library.lol/main/0263B253ECE9F789989F127844F510EC)**
+* [Guidelines for collaboration](https://github.com/SciML/ColPrac)    * [Software Project Survival Guide](http://library.lol/main/7A9256D6418E5D3E67C7F55D0014C414)    * [Code Complete](http://library.lol/main/649C8EEE28C38CA1E062691E45DC9883)    * [Kod doskonały. Jak tworzyć oprogramowanie pozbawione błędów](http://library.lol/main/0263B253ECE9F789989F127844F510EC)
     Seth Godin lizard brain (talk)
 * [Soft Skills. The Software Developer's Life Manual](http://library.lol/main/C4F27D7FE389148D78C5C350581D1429)
 * [http://library.lol/main/76E9CCF61C1947992F35ABDDD0DE3EDD)](http://library.lol/main/76E9CCF61C1947992F35ABDDD0DE3EDD))
@@ -316,7 +311,7 @@
 * https://github.com/uthcode/learntosolveit
 * [edureka!](https://www.youtube.com/user/edurekaIN)
 
-### *******Programming Languages - Hyperpolyglot
+### ***Programming Languages - Hyperpolyglot
 
 ### *free-programming-books/free-programming-books.md at master · EbookFoundation/free-programming-books · GitHub
 
@@ -347,8 +342,7 @@
 * http://loup-vaillant.fr/tutorials/from-imperative-to-functional
 * http://videolectures.net/Top/Computer_Science/
 * https://a16z.com/
-* https://bookflow.ru/chto-programmistu-nuzhno-delat-dlya-sovershenstvovaniya-svoih-navykov/
-    **https://console.paperspace.com/gradient**
+* https://bookflow.ru/chto-programmistu-nuzhno-delat-dlya-sovershenstvovaniya-svoih-navykov/    * https://console.paperspace.com/gradient
 * https://en.wikipedia.org/wiki/Generational_list_of_programming_languages
 * https://en.wikipedia.org/wiki/Non-English-based_programming_languages
 * https://lehollandaisvolant.net/tuto/#divers
@@ -486,10 +480,10 @@
     Oracle VirtualBox
     Parallels Desktop
     VMWare Fusion
-    **Functional**
+    Functional
 * [Thoughts on Functional Programming Podcast by Eric Normand](https://castbox.fm/channel/id2369186?utm_campaign=i_share_ch&utm_medium=dlink&utm_source=i_share&country=fr)
 * ["The Joy of Functional Programming (for Data Science)"](https://youtu.be/bzUmK0Y07ck)
-    **OO**
+    OO
 * [Goodbye, Object Oriented Programming - Charles Scalfani - Medium](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
 * https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/
 * https://www.geeksforgeeks.org/oops-object-oriented-design/
@@ -506,8 +500,7 @@
 * [JIRA Development Cookbook](http://library.lol/main/A832D0A7E1C0A701E3AB2274531144AC)
 * [Jira 8 Administration Cookbook](http://library.lol/main/C136E7A20F1C4602A9D9E72F0D5AC344)
 * http://www.artima.com/weblogs/viewpost.jsp?thread=331531
-* [Nishan Boring repo](https://github.com/nishan-chatterjee/the-boring-repository)
-    **[Cloud resources](https://svai.gitbook.io/research-to-the-people/hacking-on-the-cloud/getting-set-up-on-google-cloud)**
+* [Nishan Boring repo](https://github.com/nishan-chatterjee/the-boring-repository)    * [Cloud resources](https://svai.gitbook.io/research-to-the-people/hacking-on-the-cloud/getting-set-up-on-google-cloud)
     Cloud Computing: Concepts, Technology, Architecture
     Cloud Computing For Dummies, 2nd Edition
     Cloud Computing (Marinescu)
@@ -663,7 +656,7 @@
 * [История языков программирования](http://psciences.net/main/sciences/computer_sciences/articles/istyazprog.html)
 * [История языков программирования - YouTube](https://www.youtube.com/watch?v=0IkaXvwjDf8)
 * [История языков программирования — Википедия](https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D1%8F%D0%B7%D1%8B%D0%BA%D0%BE%D0%B2_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
-* [Historia de idiomas de programación *********](https://www.levenez.com/lang/lang_a4.pdf)
+* [Historia de idiomas de programación *****](https://www.levenez.com/lang/lang_a4.pdf)
 * [History of Programming Languages](http://alumni.cs.ucr.edu/~vladimir/cs181/history.pdf)
 * http://psciences.net/main/sciences/computer_sciences/articles/istyazprog.html
 * http://alumni.cs.ucr.edu/~vladimir/cs181/history.pdf
@@ -689,27 +682,14 @@
 * https://tldr.tech/newsletter
 * https://www.idgshop.de/pcwelt/pcwelt-plus-magazin-hefte-einzel-ausgaben
 * https://www.youtube.com/user/videosfromIAS
-    **Information: A Historical Companion**
+    Information: A Historical Companion
 * [Informatique I [MCIL1] - YouTube](https://www.youtube.com/playlist?list=PLUPAifVWZeKNiehAi8cELQohn71Zz2aDO)
-* [La rivoluzione silenziosa. Le grandi idee dell'informatica alla base dell'era digitale](http://libgen.is/book/index.php?md5=6806E6DE5D3588DE13DF0459D2854CF8)
-    **[Math for Programmers: 3D Graphics, Machine Learning and Simulations with Python | Paul Orland | download](https://de1lib.org/book/9735044/6fa09d?dsource=recommend)**
-    **[OpenTechSchool :: Learning Materials](https://learn.opentechschool.org/)**
-* [Prüfungstrainer Informatik: 500 Fragen und Antworten für das Bachelor-Studium](https://de1lib.org/book/687903/057c84?dsource=recommend)
-    **[Tech Talks - YouTube](https://www.youtube.com/playlist?list=PLseEp7p6EwibKzGiX5nt2m4mHIbrlPVva)**
+* [La rivoluzione silenziosa. Le grandi idee dell'informatica alla base dell'era digitale](http://libgen.is/book/index.php?md5=6806E6DE5D3588DE13DF0459D2854CF8)    * [Math for Programmers: 3D Graphics, Machine Learning and Simulations with Python | Paul Orland | download](https://de1lib.org/book/9735044/6fa09d?dsource=recommend)    * [OpenTechSchool :: Learning Materials](https://learn.opentechschool.org/)
+* [Prüfungstrainer Informatik: 500 Fragen und Antworten für das Bachelor-Studium](https://de1lib.org/book/687903/057c84?dsource=recommend)    * [Tech Talks - YouTube](https://www.youtube.com/playlist?list=PLseEp7p6EwibKzGiX5nt2m4mHIbrlPVva)
 * [Tracks – JetBrains Academy](https://hyperskill.org/tracks)
 * [Unit 2.1: Binary Numbers | Coursera](https://www.coursera.org/learn/build-a-computer/lecture/zY2v8/unit-2-1-binary-numbers)
 * [Daedalus Community - YouTube](https://www.youtube.com/c/DaedalusCommunity/playlists)
-    Introduction to Theory of Computation - YouTube
-    **[10 Tipps für Programmieranfänger - YouTube](https://www.youtube.com/watch?v=fKAbQOAG9RM)**
-    **[4 Programming Paradigms In 40 Minutes - YouTube](https://www.youtube.com/watch?v=cgVVZMfLjEI)**
-    **[coding adventures – sharing thoughts and ideas in the coding universe!](http://codingadventures.org/)**
-    **[Computational thinking | MIT 18.S191 Fall 2020 - YouTube](https://www.youtube.com/playlist?list=PLP8iPy9hna6Q2Kr16aWPOKE0dz9OnsnIJ)**
-    **[Computational Thinking | MIT 18.S191/6.S083 Spring 2021 - YouTube](https://www.youtube.com/playlist?list=PLP8iPy9hna6T56GkMHEdSrjCCheNuEwI0)**
-    **[Computational Thinking and Programming](https://github.com/comp-think)**
-    **[Computational Thinking and Programming | The CTP Book](https://github.com/comp-think)**
-    **[Cours Conception d'Architectures de Processeurs MCIL4 - YouTube](https://www.youtube.com/playlist?list=PLUPAifVWZeKOfiwjHAbJfAOdWGeDnNiCi)**
-    **[DevProjects: Learn programming by building projects](https://www.codementor.io/projects)**
-    **[Electronique Numérique [MCIL2] - YouTube](https://www.youtube.com/playlist?list=PLUPAifVWZeKOKTc33966X6uegDJ5e0-If)**
+    Introduction to Theory of Computation - YouTube    * [10 Tipps für Programmieranfänger - YouTube](https://www.youtube.com/watch?v=fKAbQOAG9RM)    * [4 Programming Paradigms In 40 Minutes - YouTube](https://www.youtube.com/watch?v=cgVVZMfLjEI)    * [coding adventures – sharing thoughts and ideas in the coding universe!](http://codingadventures.org/)    * [Computational thinking | MIT 18.S191 Fall 2020 - YouTube](https://www.youtube.com/playlist?list=PLP8iPy9hna6Q2Kr16aWPOKE0dz9OnsnIJ)    * [Computational Thinking | MIT 18.S191/6.S083 Spring 2021 - YouTube](https://www.youtube.com/playlist?list=PLP8iPy9hna6T56GkMHEdSrjCCheNuEwI0)    * [Computational Thinking and Programming](https://github.com/comp-think)    * [Computational Thinking and Programming | The CTP Book](https://github.com/comp-think)    * [Cours Conception d'Architectures de Processeurs MCIL4 - YouTube](https://www.youtube.com/playlist?list=PLUPAifVWZeKOfiwjHAbJfAOdWGeDnNiCi)    * [DevProjects: Learn programming by building projects](https://www.codementor.io/projects)    * [Electronique Numérique [MCIL2] - YouTube](https://www.youtube.com/playlist?list=PLUPAifVWZeKOKTc33966X6uegDJ5e0-If)
 * https://www.deeplearningwizard.com/
 * [Binary number - Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
 * [Code Binaire - Conversion Traduction - Logiciel en Ligne](https://www.dcode.fr/code-binaire)
@@ -770,8 +750,7 @@
 * [Skript zur Vorlesung Parallele Algorithmen](https://b-ok.cc/book/1353030/1467d5)
 * [Introduction to Parallel Computing_Roman Trobec, Boštjan Slivnik, Patricio Bulić, Borut Robič_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-98833-7)
 * [Multithreading Architecture](http://library.lol/main/70F06C2E80F6223F77DCEFEBFD83ECEB)
-* https://github.com/Kadir94
-    **[Google Cloud Platform](https://www.youtube.com/c/googlecloudplatform)**
+* https://github.com/Kadir94    * [Google Cloud Platform](https://www.youtube.com/c/googlecloudplatform)
 * https://b-ok.cc/s/?q=Cloud+Computing&yearFrom=2012
 * [Data Center Networks: Topologies, Architectures and Fault-Tolerance Characteristics | Yang Liu, Jogesh K. Muppala, Malathi Veeraraghavan, Dong Lin, Mounir Hamdi (auth.) | download](https://b-ok.cc/book/2172668/a0bb8c)
 * [External data: Drive, Sheets, and Cloud Storage - Colaboratory](https://colab.research.google.com/notebooks/io.ipynb#scrollTo=eikfzi8ZT_rW)
@@ -852,10 +831,12 @@
 * https://lelivros.love/book/baixar-livro-metodologia-de-pesquisa-para-ciencia-da-computacao-raul-sidnei-wazlawick-em-pdf-epub-e-mobi/
 * http://book.kbsu.ru/
 * [Algorithms and Theory of Computation Handbook, Second Edition, Volume 1: General](http://libgen.rs/book/index.php?md5=5BB041917EFF5A45C3C4EE98F25C4FE9)
-* [Data Structures series) [2 ed.]](http://libgen.rs/book/index.php?md5=5BB041917EFF5A45C3C4EE98F25C4FE9)
+* [Data Structures series)
+            * [2 ed.]](http://libgen.rs/book/index.php?md5=5BB041917EFF5A45C3C4EE98F25C4FE9)
     Computers and Computation
 * [Algorithms and Theory of Computation Handbook, Second Edition, Volume 2: Special](http://libgen.rs/book/index.php?md5=729778F120A1B0A6AFB64DC95177B24A)
-* [Data Structures series) [2nd Revised edition]](http://libgen.rs/book/index.php?md5=729778F120A1B0A6AFB64DC95177B24A)
+* [Data Structures series)
+            * [2nd Revised edition]](http://libgen.rs/book/index.php?md5=729778F120A1B0A6AFB64DC95177B24A)
     Computer Science Mathematics
 * [Encyclopedia of Algorithms](http://library.lol/main/9F95B6FDE848B3842FFD86F03250A2AF)
     Invitation to Computer Science
@@ -874,25 +855,19 @@
 * https://computersciencewiki.org/index.php/Welcome
 * [Data Structures Easy to Advanced Course](https://youtu.be/RBSGKlAvoiM)
 * [Hash Tables and Hash Functions](https://www.youtube.com/watch?v=KyUTuwz_b7Q)
-* [3. Non-fungible Tokens (NFTs)](https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/)
-    **[Como funcionaria um algoritmo para prevenir tentativas de enganar bloqueios de palavras (strings)?](https://sg-links.stackoverflow.email/ls/click?upn=FhKQFemTFIJzn5ywFPMHvuUjwMv-2BBhBHqs97P9ba0BEvnQ2HJIO-2FmsVXCbgXZ5nZBSj5awxqdJ3aWERJj6pl5-2BMrXX2-2B3ci0h1wlRS3WDQQ-3DQZGJ_Ok-2F1QZUoWNfwArWx1OpnKP3rAR9xqW9UxFasc9TFWJt2p-2BoSs6-2B2pi664yyZOd8r-2FUcG72mM9F5QB8jryvhMBi5oZW60hikiVN6edAdhwbnwlYjkwX7niQtq5gYql7DgTIozE-2FjxjHb8ZLSl-2BvU3zyblpk-2FnmAQxGUqOYKW09rLl6PwDTdkjjHXAQsHlT8QFvsw2hOPqmB84hXvX-2B3nz-2BDmnz1934iUlkRSMZPWISoAiwJnweVhDSOfk9HLoADLREhT8KoYEE-2Fjw8rqzgNYPLLxeHh0kdlQyfYQAPDn4-2Bh8yeTnWKy9Wt38xAjsqHiWW2J5UUmLbFQuf1nCcQXstQPrW9BPHhAIQwunNminBgwx40yZYTFnh00Ic56KYbBjQGDPad5wb7xArc0fSn7oiXZMua5J6-2BRxCvOyzYhMmhXGgTShQOz980Ra9V86oBTNa9-2F0zjEFDoEM7D5TkvphDY3HQY2-2FxsxGhnhBsWJPkZ8RrZ5R9F1jtQ84pcjXb5XvckhL2UtiONG-2BK4I6rhfbtUw-3D-3D)**
+* [3. Non-fungible Tokens (NFTs)](https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/)    * [Como funcionaria um algoritmo para prevenir tentativas de enganar bloqueios de palavras (strings)?](https://sg-links.stackoverflow.email/ls/click?upn=FhKQFemTFIJzn5ywFPMHvuUjwMv-2BBhBHqs97P9ba0BEvnQ2HJIO-2FmsVXCbgXZ5nZBSj5awxqdJ3aWERJj6pl5-2BMrXX2-2B3ci0h1wlRS3WDQQ-3DQZGJ_Ok-2F1QZUoWNfwArWx1OpnKP3rAR9xqW9UxFasc9TFWJt2p-2BoSs6-2B2pi664yyZOd8r-2FUcG72mM9F5QB8jryvhMBi5oZW60hikiVN6edAdhwbnwlYjkwX7niQtq5gYql7DgTIozE-2FjxjHb8ZLSl-2BvU3zyblpk-2FnmAQxGUqOYKW09rLl6PwDTdkjjHXAQsHlT8QFvsw2hOPqmB84hXvX-2B3nz-2BDmnz1934iUlkRSMZPWISoAiwJnweVhDSOfk9HLoADLREhT8KoYEE-2Fjw8rqzgNYPLLxeHh0kdlQyfYQAPDn4-2Bh8yeTnWKy9Wt38xAjsqHiWW2J5UUmLbFQuf1nCcQXstQPrW9BPHhAIQwunNminBgwx40yZYTFnh00Ic56KYbBjQGDPad5wb7xArc0fSn7oiXZMua5J6-2BRxCvOyzYhMmhXGgTShQOz980Ra9V86oBTNa9-2F0zjEFDoEM7D5TkvphDY3HQY2-2FxsxGhnhBsWJPkZ8RrZ5R9F1jtQ84pcjXb5XvckhL2UtiONG-2BK4I6rhfbtUw-3D-3D)
 * [The Computer Book: From the Abacus to Artificial Intelligence, 250 Milestones in the History of Computer Science | Simson L. Garfinkel, Rachel H. Grunspan | download](https://b-ok.cc/book/3707593/1bd75a)
 * https://www.freecodecamp.org/news/free-online-programming-cs-courses/
 * https://www.freecodecamp.org/news/big-o-notation/
 * [KIT Playlists](https://www.youtube.com/c/KITWEBCAST/playlists)
 * [[Tribune] Les machines n’apprennent pas](https://www.usinenouvelle.com/article/tribune-les-machines-n-apprennent-pas.N642748)
 * [Action language - Wikipedia](https://en.wikipedia.org/wiki/Action_language)
-    **Article on Turing, complexity, and saltwater desalinization**
-    **[Brown; color is weird](https://www.youtube.com/watch?v=wh4aWZRtTwU&list=WL&index=1474)**
+    Article on Turing, complexity, and saltwater desalinization    * [Brown; color is weird](https://www.youtube.com/watch?v=wh4aWZRtTwU&list=WL&index=1474)
 * [Decades-Old Computer Science Conjecture Solved in Two Pages](https://www.quantamagazine.org/mathematician-solves-computer-science-conjecture-in-two-pages-20190725/)
 * [Economics of Composable, Reusable Analytic Modules](http://datascience.getresponse360.com/click.html?x=a62e&lc=usU&mc=j&s=jFaI&u=F&y=1&z=wuoKefF&)
 * [Geek & Chic: Analytics redefining fashion instincts](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=54de772da4&e=b34ab4e857)
-* [Google Interview Process](https://habr.com/en/post/489698/)
-    **[How do non-euclidean games work? | Bitwise](https://www.youtube.com/watch?v=lFEIUcXCEvI&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=58)**
-    **[Il Dittatore del Deep Web - Creepypasta #95](https://www.youtube.com/watch?v=oRFkCQ4hFzI&list=WL&index=412)**
-    **[Intro to ROOT Tutorial Lesson 0 - Getting Started](https://www.youtube.com/watch?v=s9PTrWOnDy8&list=WL&index=395)**
-    Matthias Horx Die Zeit, Computer und KI
-    **[The Myth of the Machine: Technics and Human Development](http://library.lol/main/8831A5CF68597BB522C9EC4B357CC0F7)**
+* [Google Interview Process](https://habr.com/en/post/489698/)    * [How do non-euclidean games work? | Bitwise](https://www.youtube.com/watch?v=lFEIUcXCEvI&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=58)    * [Il Dittatore del Deep Web - Creepypasta #95](https://www.youtube.com/watch?v=oRFkCQ4hFzI&list=WL&index=412)    * [Intro to ROOT Tutorial Lesson 0 - Getting Started](https://www.youtube.com/watch?v=s9PTrWOnDy8&list=WL&index=395)
+    Matthias Horx Die Zeit, Computer und KI    * [The Myth of the Machine: Technics and Human Development](http://library.lol/main/8831A5CF68597BB522C9EC4B357CC0F7)
 * [Top 10 Technology Trends for 2020](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=53cc2fdfda&e=b34ab4e857)
 * [Top 10 Technology Trends of 2019](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=b17f92433c&e=b34ab4e857)
 * [Visually Explained: What Companies Get Wrong About Failure?](https://www.datasciencecentral.com/profiles/blogs/visually-explained-what-companies-get-wrong-about-failure)
@@ -908,8 +883,7 @@
 * [Как создать надёжные пароли и защищать систему с их помощью | GeekBrains - образовательный портал](https://geekbrains.ru/posts/kak-sozdat-nadyozhnye-paroli-i-zashchishchat-sistemu-s-ih-pomoshchyu?utm_source=email&utm_medium=email&utm_campaign=digest_act_300420&utm_term=1890716&utm_content=digestp&sc_src=email_1890716&sc_lid=136872156&sc_uid=7CHG1cUjE5&sc_llid=342652&sc_customer=3388920)
 * [Квантовая криптография. Хеширование. Цифровая подпись](https://www.youtube.com/watch?v=xphEhrrdqaM&list=PL-_cKNuVAYAUVoBoI-XqbvzPxtDB_1NRi)
 * [Классическая Криптография](https://vk.com/wall-16108331_150831)
-    Криптология и секретная связь. Сделано в СССР
-    **[Принципы шифрования и криптографии. Расшифруйте послание!](https://www.youtube.com/watch?v=YtFM-smD9fQ&list=WL&index=381)**
+    Криптология и секретная связь. Сделано в СССР    * [Принципы шифрования и криптографии. Расшифруйте послание!](https://www.youtube.com/watch?v=YtFM-smD9fQ&list=WL&index=381)
     Программно-аппаратные средства обеспечения информационной безопасности [2019] Душкин
 * [Сложность вычислений и основы криптографии | Дмитрий Ицыксон](https://www.youtube.com/watch?v=VLowyJEVFac&list=PL-_cKNuVAYAWh_47wfVOicbNF5Ayt2Rs8)
 * [Сложность вычислений и основы криптографии | Эдуард Гирш](https://www.youtube.com/watch?v=oKzBUIr9M-o&list=PL-_cKNuVAYAWsWtxWzS3rLLZ32aFLNN3r)
@@ -936,8 +910,7 @@
 * [Постигая Agile: ценности, принципы, методологии](http://library.lol/main/917A0BDC7B2D9C989D419ABEA2F7C2B0)
 * [Código Limpo: Habilidades Práticas do Agile Software](http://library.lol/main/887A3FBF9FDB69AB5F1604F7B2A680E8)
 * [Scrum. Praktyczny przewodnik po najpopularniejszej metodyce Agile](http://library.lol/main/FDC5357B7D39AEAD1CD064F410CC210E)
-    Jira Book
-    **[Architecting for Scale: How to Maintain High Availability and Manage Risk in the Cloud](http://library.lol/main/903C9F6FC42748423D2109B8452EDF50)**
+    Jira Book    * [Architecting for Scale: How to Maintain High Availability and Manage Risk in the Cloud](http://library.lol/main/903C9F6FC42748423D2109B8452EDF50)
 
 ## Graphics
     Fundamentals of Computer Graphics
@@ -1161,8 +1134,7 @@
 * [What is ' and why google search replaces it with apostrophe? - Stack Overflow](https://stackoverflow.com/questions/29314231/what-is-39-and-why-google-search-replaces-it-with-apostrophe)
 * [Writing non-ASCII text to file | Python Adventures](https://pythonadventures.wordpress.com/2012/12/02/writing-non-ascii-text-to-file/)
 * [Explain it like I'm five: Python and Unicode? : Python](https://www.reddit.com/r/Python/comments/1g62eh/explain_it_like_im_five_python_and_unicode/)
-    ---
-
+    
 ## Quantum
 * [Grundlegende Algorithmen: Einführung in den Entwurf und die Analyse effizienter Algorithmen](https://b-ok.cc/book/2099038/13eab0)
 * [A Beginner’s Guide To Quantum Computing - YouTube](https://www.youtube.com/watch?v=JRIPV0dPAd4)
@@ -1181,22 +1153,21 @@
 * Python, Quantum Assembly Language and IBM QExperience | Vladimir Silva | download
 * [Natural Computing: DNA, Quantum Bits, and the Future of Smart Machines](https://b-ok.cc/book/2064066/07dded)
 * https://www.coursera.org/learn/quantum-computing-lfmu
-* **[A Beginner’s Guide To Quantum Computing](https://www.youtube.com/watch?v=JRIPV0dPAd4&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=34)**
-* **[A Beginner’s Guide To Quantum Computing](https://www.youtube.com/watch?v=JRIPV0dPAd4&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=34)**
-* **[Building the Bits and Qubits](https://www.youtube.com/watch?v=F8U1d2Hqark&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=45)**
+* [A Beginner’s Guide To Quantum Computing](https://www.youtube.com/watch?v=JRIPV0dPAd4&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=34)
+* [A Beginner’s Guide To Quantum Computing](https://www.youtube.com/watch?v=JRIPV0dPAd4&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=34)
+* [Building the Bits and Qubits](https://www.youtube.com/watch?v=F8U1d2Hqark&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=45)
 * [Compact Representations for the Design of Quantum Logic.pdf](https://vk.com/doc348852382_464088013?hash=ffb77ba18d9ef83ea5&dl=8c46ab07386bddb601)
 * [Graduate Student Solves Quantum Verification Problem](https://www.quantamagazine.org/graduate-student-solves-quantum-verification-problem-20181008/)
-* **[L’ordinateur quantique est-il le prochain paradigme de l’informatique ? | The Flares](https://www.youtube.com/watch?v=3GCAF0x8cV0&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=2)**
+* [L’ordinateur quantique est-il le prochain paradigme de l’informatique ? | The Flares](https://www.youtube.com/watch?v=3GCAF0x8cV0&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=2)
 * [New State of Matter to Boost Quantum Computers](https://www.reddit.com/r/compsci/comments/dvcyov/new_state_of_matter_to_boost_quantum_computers/)
 * [Principles of Quantum Artificial Intelligence.pdf](https://vk.com/doc348852382_471615320?hash=7edb6e7b807e267ed2&dl=8a9d53bf7640dac90b)
-* **[The Mathematics of Quantum Computers | Infinite Series](https://www.youtube.com/watch?v=IrbJYsep45E&list=WL&index=371)**
-* **Will Quantum Computers break encryption?**
+* [The Mathematics of Quantum Computers | Infinite Series](https://www.youtube.com/watch?v=IrbJYsep45E&list=WL&index=371)
+* Will Quantum Computers break encryption?
 * [Квантовая информатика](https://vk.com/wall-51126445_41509)
 * [Quantum Computing for Computer Architects (Synthesis Lectures on Computer Architecture)](http://library.lol/main/A7EE4D629BCD17740B77B8AC0082BB48)
 * [Quanteninformation (Bruß)](http://library.lol/main/A7EE4D629BCD17740B77B8AC0082BB48)
 * [Morgan Claypool Quantum Computer Science](http://library.lol/main/73A9FCFC6E91EA1D0A97CE2C7041343F)
-    ---
-
+    
 ## History
 * https://fr.wikipedia.org/wiki/Histoire_des_ordinateurs
 * [A Brief History of the Personal Computer | HowStuffWorks](https://computer.howstuffworks.com/history-of-the-personal-computer.htm)
@@ -1216,8 +1187,7 @@
 * [(5) La historia y la evolución de los ordenadores - YouTube](https://www.youtube.com/watch?v=lsAeTXNQyIA)
 * [(7) HISTORIA DE LA COMPUTADORA - YouTube](https://www.youtube.com/watch?v=ATxKmDHfWWI)
 * [(7) Historia do computador em minutos - YouTube](https://www.youtube.com/watch?v=F3qWg1JBPZg)
-    ---
-
+    
 ### **Who Invented the Computer?
 * [Computer History Online](http://www.weller.to/)
 * [Computergeschichte - YouTube - YouTube](https://www.youtube.com/playlist?list=PLC3B4155A75F91B07)
@@ -1256,8 +1226,7 @@
 * [(30) Evolução da Informática - Dos primeiros computadores à internet - YouTube](https://www.youtube.com/watch?v=Sx1Z_MGwDS8)
 * [(5) La historia y la evolución de los ordenadores - YouTube](https://www.youtube.com/watch?v=lsAeTXNQyIA)
 * [(7) HISTORIA DE LA COMPUTADORA - YouTube](https://www.youtube.com/watch?v=ATxKmDHfWWI)
-    ---
-
+    
 ### **Who Invented the Computer?
 * [1940 | Timeline of Computer History | Computer History Museum](https://www.computerhistory.org/timeline/1940/)
 * [Computergeschichte - YouTube - YouTube](https://www.youtube.com/playlist?list=PLC3B4155A75F91B07)
@@ -1266,23 +1235,22 @@
 * https://www.computerhope.com/issues/ch000984.htm
 * https://www.domusweb.it/it/design/2018/03/19/il-calcolatore-elea-9003-di-ettore-sottsass-funziona-ancora.html
 * [La Historia del Computador - YouTube](https://www.youtube.com/watch?v=h1wRsbwnvDI)
-* **[¿Alguna vez te has preguntado cómo Bitcoin(y otras criptomonedas) realmente funcionan?](https://www.youtube.com/watch?v=bBC-nXj3Ng4&list=WL&index=403)**
-* **[¿Qué es eso del problema P versus NP?](https://www.youtube.com/watch?v=UR2oDYZ-Sao&list=WL&index=249)**
-* **[[общая семантика] О понятии абстрагирования](https://www.youtube.com/watch?v=ZtPNSuWwsnA&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=159)**
-    ---
-
+* [¿Alguna vez te has preguntado cómo Bitcoin(y otras criptomonedas) realmente funcionan?](https://www.youtube.com/watch?v=bBC-nXj3Ng4&list=WL&index=403)
+* [¿Qué es eso del problema P versus NP?](https://www.youtube.com/watch?v=UR2oDYZ-Sao&list=WL&index=249)
+* [[общая семантика] О понятии абстрагирования](https://www.youtube.com/watch?v=ZtPNSuWwsnA&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=159)
+    
 ### **commentaires de Ruddahbagga sur ELI5: What is information?
 * [/r/buildapc - Planning on building a computer but need some advice? This is the place to ask!](https://www.reddit.com/r/buildapc/)
 * [A Guide To Parsing: Algorithms And Terminology](https://tomassetti.me/guide-parsing-algorithms-terminology/)
 * [A Technical Introduction to Blockchain - Better Programming - Medium](https://medium.com/better-programming/a-technical-introduction-to-blockchain-22ab05308151)
-* **Big O Notation**
+* Big O Notation
 * [Coding Theory - Algorithms, Architectures, and Applications](https://b-ok.cc/book/437612/054fae?dsource=recommend)
-* **[DigiDigger](https://www.youtube.com/c/DigiDigger)**
+* [DigiDigger](https://www.youtube.com/c/DigiDigger)
 * [edgarredondo.com](http://edgarredondo.com/sistemas-complejidad-tipo-1-teoria-del-caos-complejidad-tipo-2/)
 * [Execution (computing) - Wikipedia](https://en.wikipedia.org/wiki/Execution_(computing))
-* **[Formale Sprachen #30 - CYK-Algorithmus](https://www.youtube.com/watch?v=GNHuct1Lj1E&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=82)**
+* [Formale Sprachen #30 - CYK-Algorithmus](https://www.youtube.com/watch?v=GNHuct1Lj1E&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=82)
 * [Geoffrey Nunberg - Timeline of Information](http://people.ischool.berkeley.edu/~nunberg/timeline.html)
-* **[Great Impractical Ideas in Computer Science: PowerPoint Programming](https://www.youtube.com/watch?v=_3loq22TxSc&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=139)**
+* [Great Impractical Ideas in Computer Science: PowerPoint Programming](https://www.youtube.com/watch?v=_3loq22TxSc&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=139)
 * [How do programs draw to the screen?](https://www.reddit.com/r/AskProgramming/comments/id6mta/how_do_programs_draw_to_the_screen/)
 * [How Do Touchscreens Work? - YouTube](https://www.youtube.com/watch?v=wKuqNuzM1oM)
 * http://abcnews.go.com/Technology/10-tech-visionaries-innovators/story?id=14681441
@@ -1299,23 +1267,23 @@
 * [Kontextfreie Grammatik – Wikipedia](https://de.wikipedia.org/wiki/Kontextfreie_Grammatik)
 * [La machine de Turing | Intelligence Artificielle 4](https://youtu.be/zlPWnNxBUCY)
 * [Lambda calculus - Lambda Calculus](https://crypto.stanford.edu/~blynn/lambda/)
-* **[P versus NP y la complejidad computacional Zoo](https://www.youtube.com/watch?v=YX40hbAHx3s&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=55)**
-* **[P vs NP - Passe-science #18](https://www.youtube.com/watch?v=8TrIW-4kfRg&list=WL&index=313)**
+* [P versus NP y la complejidad computacional Zoo](https://www.youtube.com/watch?v=YX40hbAHx3s&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=55)
+* [P vs NP - Passe-science #18](https://www.youtube.com/watch?v=8TrIW-4kfRg&list=WL&index=313)
 * [parsing eine zusammenfassung pdf - Поиск в Google](https://www.google.com/search?q=parsing+eine+zusammenfassung+pdf&rlz=1C5CHFA_enUS800US800&oq=parsing+eine+zusammenfassung+pdf&aqs=chrome..69i57.6255j0j4&sourceid=chrome&ie=UTF-8)
-* **[Parsing Explained - Computerphile](https://www.youtube.com/watch?v=bxpc9Pp5pZM&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=140)**
+* [Parsing Explained - Computerphile](https://www.youtube.com/watch?v=bxpc9Pp5pZM&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=140)
 * [parsing.pdf](http://www.cip.ifi.lmu.de/~bruder/ma/HF/cl/parsing/parsing.pdf)
 * [pdfcomments: extract comments from PDF](https://github.com/hoffmangroup/pdfcomments)
 * [Self-replicating Python code | Quine](https://www.youtube.com/watch?v=a-zEbokJAgY)
-* **[Short Lesson - Compilation vs Interpretation](https://www.youtube.com/watch?v=JNMy969SjyU&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=33)**
+* [Short Lesson - Compilation vs Interpretation](https://www.youtube.com/watch?v=JNMy969SjyU&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=33)
 * [Step-by-Step visual compiller](https://www.reddit.com/r/learnjava/comments/dnbf20/stepbystep_visual_compiller/)
 * [Turing Equivalent vs. Turing Complete](https://scienceblogs.com/goodmath/2007/01/05/turing-equivalent-vs-turing-co)
 * [Turingmaschine – Wikipedia](https://de.wikipedia.org/wiki/Turingmaschine#Formale_Definition)
 * [TypeIt - Type accent marks, diacritics and foreign letters online](http://www.typeit.org/)
-* **[What Is Dynamic Programming and How To Use It](https://www.youtube.com/watch?v=vYquumk4nWw&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=3)**
+* [What Is Dynamic Programming and How To Use It](https://www.youtube.com/watch?v=vYquumk4nWw&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=3)
 * [Wireshark · Go Deep.](https://www.wireshark.org/)
 * [Кельтон В., Лоу А. - Имитационное моделирование. Классика CS. 3-е изд. (Классика Computer Science) - 2004.djvu](https://vk.com/doc44301783_453645369?hash=849bd9db9777deab31&dl=51ce9c45b46d03b720)
 * [Конечный автомат — Википедия](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82)
-* **[Лекция 22: Формальная семантика языков функционального программирования](https://www.youtube.com/watch?v=eIoZ7FbIKhw&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=156)**
+* [Лекция 22: Формальная семантика языков функционального программирования](https://www.youtube.com/watch?v=eIoZ7FbIKhw&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=156)
 * [Ликбез: коды, исправляющие ошибки | Александр Шень](https://www.youtube.com/watch?v=DNCpIo1Gjco&list=PL-_cKNuVAYAWUa8VYEouryCuqkx_d4Z0E)
 * [Набор символов — Википедия](https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B1%D0%BE%D1%80_%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%BE%D0%B2)
 * [Сложность бесконечных слов](https://www.youtube.com/watch?v=wH6mA3T7PbE&list=PL-_cKNuVAYAXP1qp5Y3Q6r0-8d5DxP-H5)
@@ -1325,8 +1293,7 @@
 * [Функциональное программирование | Александр Кубенский](https://www.youtube.com/watch?v=V_umQOqZvKs&list=PL-_cKNuVAYAX_vMWzbtmC_DmcDDW7oVRE)
 * [Что такое биткоин и как он на самом деле работает?](https://vk.com/wall-32342123_81271)
 * [Создание децентрализованных приложений на блокчейн - Помощь в программировании искусственного интеллекта](https://craftappmobile.com/)
-* ---
-
+* 
 ## Algorithms
 * [Algorithms through Puzzles](https://drive.google.com/file/d/19YhWHo6-J8pK7_HVaB9sEwDly7FRFOse/view?usp=sharing)
 * [Quickselect - Wikipedia](https://en.wikipedia.org/wiki/Quickselect)
@@ -1359,19 +1326,15 @@
     Основы современных алгоритмов Макконнелл Дж (McConnell J.J.)
 * http://www.algorist.com/
 * [The Fast Fourier Transform (FFT): Most Ingenious Algorithm Ever? - YouTube](https://www.youtube.com/watch?v=h7apO7q16V0)
-    **1. Алгоритмы и структуры данных. Введение | Технострим**
-* [1. Алгоритмы и структуры данных. Введение | Технострим - YouTube](https://www.youtube.com/watch?v=eqWzZGNO_XM&list=PLrCZzMib1e9pDxHYzmEzMmnMMUK-dz0_7)
-    **[15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg&list=WL&index=528)**
-    **[A Breakthrough in Graph Theory - Numberphile](https://www.youtube.com/watch?v=Tnu_Ws7Llo4&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=51)**
-    **[A google and amazon interview question with a really clever solution](https://www.youtube.com/watch?v=qTRW7ELhhME&list=WL&index=1372)**
+    1. Алгоритмы и структуры данных. Введение | Технострим
+* [1. Алгоритмы и структуры данных. Введение | Технострим - YouTube](https://www.youtube.com/watch?v=eqWzZGNO_XM&list=PLrCZzMib1e9pDxHYzmEzMmnMMUK-dz0_7)    * [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg&list=WL&index=528)    * [A Breakthrough in Graph Theory - Numberphile](https://www.youtube.com/watch?v=Tnu_Ws7Llo4&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=51)    * [A google and amazon interview question with a really clever solution](https://www.youtube.com/watch?v=qTRW7ELhhME&list=WL&index=1372)
 * [algor](https://vk.com/wall-16108331_143570)
     Algorithm Design Manual
 * [Algorithmen DE](https://visualgo.net/de)
 * [Algorithmic Game Theory](https://b-ok.cc/book/1175211/2a7be7)
 * [Algorithmique : Techniques fondamentales de programmation | Sébastien Rohaut | download](https://b-ok.cc/book/1236005/463716)
 * [Algorithms (Sedgewick & Wayne)](https://algs4.cs.princeton.edu/home/)
-* [Algorithms 4E Sedgewick](https://algs4.cs.princeton.edu/home/)
-    **[Algorithms Course - Graph Theory Tutorial from a Google Engineer](https://www.youtube.com/watch?v=09_LlHjoEiY&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=59)**
+* [Algorithms 4E Sedgewick](https://algs4.cs.princeton.edu/home/)    * [Algorithms Course - Graph Theory Tutorial from a Google Engineer](https://www.youtube.com/watch?v=09_LlHjoEiY&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=59)
 * [Algorithms for programmers: ideas and source code | Arndt J. | download](https://b-ok.cc/book/437076/eef026)
 * [Algorithms in a Nutshell: A Practical Guide | George T. Heineman, Gary Pollice, Stanley Selkow | download](https://b-ok.cc/book/2694702/1d9a2b)
 * [Algorithms In Machine Learning Paradigms](http://93.174.95.29/main/2CABB01CD817B32B1DAC33EB4412D63B)
@@ -1380,32 +1343,25 @@
 * [Blog Cyberini: Algoritmos](https://www.blogcyberini.com/search/label/Algoritmos?max-results=10)
 * [Data Structures and Algorithm Analysis in C++, 3rd Edition | Dr. Clifford A. Shaffer | download](https://b-ok.cc/book/1192132/4f6da2)
 * [Data Structures and Algorithms in C++ | Adam Drozdek | download](https://b-ok.cc/book/2315271/c157bc)
-* [Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles | Narasimha Karumanchi | download](https://b-ok.cc/book/2855973/aaf467?dsource=recommend)
-    **[DATA STRUCTURES you MUST know (as a Software Developer)](https://www.youtube.com/watch?v=sVxBVvlnJsM&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=146&t=142s)**
-    **[Data Structures: Trees](https://www.youtube.com/watch?v=oSWTXtMglKE&list=WL&index=377)**
+* [Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles | Narasimha Karumanchi | download](https://b-ok.cc/book/2855973/aaf467?dsource=recommend)    * [DATA STRUCTURES you MUST know (as a Software Developer)](https://www.youtube.com/watch?v=sVxBVvlnJsM&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=146&t=142s)    * [Data Structures: Trees](https://www.youtube.com/watch?v=oSWTXtMglKE&list=WL&index=377)
 * [Encyclopedia of Algorithms | Ming-Yang Kao (Editor) | download](https://b-ok.cc/book/2802275/b0a515)
 * [Encyclopedia of information science and technology | Mehdi Khosrow-Pour | download](https://b-ok.cc/book/436960/1612ca?dsource=recommend)
-* [Foundations of Discrete Mathematics with Algorithms and Programming | Sriraman Sridharan, R. Balakrishnan | download](https://b-ok.cc/book/3629818/559c96?dsource=recommend)
-    **[How Binary Search Makes Computers Much, Much Faster](https://www.youtube.com/watch?v=KXJSjte_OAI&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=64)**
+* [Foundations of Discrete Mathematics with Algorithms and Programming | Sriraman Sridharan, R. Balakrishnan | download](https://b-ok.cc/book/3629818/559c96?dsource=recommend)    * [How Binary Search Makes Computers Much, Much Faster](https://www.youtube.com/watch?v=KXJSjte_OAI&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=64)
 * [How to Think About Algorithms](https://book4you.org/book/502895/e12dac?dsource=recommend)
 * http://jeffe.cs.illinois.edu/teaching/algorithms/
 * https://coursera.org/specialization/algorithms
 * https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about
 * https://www.zhubert.com/blog/2012/11/21/the-algorithm-design-manual/
 * [igraph – Network analysis software](https://igraph.org/)
-    Introduction to Algorithms ./
-    **[Los Algoritmos Tras la Primera Imagen de un Agujero Negro | Feat. QuantumFracture](https://www.youtube.com/watch?v=pTXCs3A6NEM&list=WL&index=568)**
+    Introduction to Algorithms ./    * [Los Algoritmos Tras la Primera Imagen de un Agujero Negro | Feat. QuantumFracture](https://www.youtube.com/watch?v=pTXCs3A6NEM&list=WL&index=568)
     Neo4j
 * [networkx.org](http://networkx.org/)
 * [Problems on algorithms | Ian Parberry | download](https://b-ok.cc/book/464115/9b5e62?dsource=recommend)
     pykg2vec
 * [Stepik - Математическая логика и теория алгоритмов](https://stepik.org/course/48679)
 * [subsequence matching algorithms - Поиск в Google](https://www.google.com/search?q=subsequence+matching+algorithms&rlz=1C5CHFA_enUS800US800&oq=subsequence+matching+algorithms&aqs=chrome..69i57j0l2.4970j0j9&sourceid=chrome&ie=UTF-8)
-* [The Algorithm Design Manual](http://www.algorist.com/)
-    **[Timo Bingmann](https://www.youtube.com/c/TimoBingmann)**
-    TinkerPop
-    **[Top Algorithms for the Coding Interview (for software engineers)](https://www.youtube.com/watch?v=PnnsDf3zEMw&list=WL&index=394)**
-    **[Why is Radix Sort so Fast? Part 3 Comparison and Code, Radix Sort vs QuickSort](https://www.youtube.com/watch?v=TPpWvpnQq5s&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=54)**
+* [The Algorithm Design Manual](http://www.algorist.com/)    * [Timo Bingmann](https://www.youtube.com/c/TimoBingmann)
+    TinkerPop    * [Top Algorithms for the Coding Interview (for software engineers)](https://www.youtube.com/watch?v=PnnsDf3zEMw&list=WL&index=394)    * [Why is Radix Sort so Fast? Part 3 Comparison and Code, Radix Sort vs QuickSort](https://www.youtube.com/watch?v=TPpWvpnQq5s&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=54)
 * [Алгоритмические применения древесных декомпозиций | Федор Фомин](https://www.youtube.com/watch?v=F1Wml6ayRpY&list=PL-_cKNuVAYAVc-vBx2fQnjy7F18vzi9NK)
 * [Алгоритмы для NP-трудных задач](https://www.youtube.com/watch?v=P_YNGE4mbE8&list=PL-_cKNuVAYAUV2ChK_qb93NDXe7CDYv-P)
 * [Алгоритмы для NP-трудных задач (2013)](https://www.youtube.com/watch?v=QBS1N9LU4tI&list=PL-_cKNuVAYAWpKLONs_YYrEwH7KrSPn9u)
@@ -1425,8 +1381,7 @@
     Алгоритмы. Справочник с примерами на C, C++, Java и Python
 * [Курс "Алгоритмы и структуры данных"](https://vk.com/wall-16108331_150221)
 * [Матроиды и параметризованные алгоритмы](https://www.youtube.com/watch?v=yGMi6ObL25o&list=PL-_cKNuVAYAX-r648qpgkXXJ3hyW6VskQ)
-* [Онлайн-алгоритмы для управления буфером: конкурентный анализ | Сергей Николенко](https://www.youtube.com/watch?v=pcKQjqavZ-U&list=PL-_cKNuVAYAUN2rsO6-cM0A32Aguo7BIh)
-    **[Основы Программирования - #1 - Логика. Алгоритмы](https://www.youtube.com/watch?v=_J-3nt9bhbI&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=32)**
+* [Онлайн-алгоритмы для управления буфером: конкурентный анализ | Сергей Николенко](https://www.youtube.com/watch?v=pcKQjqavZ-U&list=PL-_cKNuVAYAUN2rsO6-cM0A32Aguo7BIh)    * [Основы Программирования - #1 - Логика. Алгоритмы](https://www.youtube.com/watch?v=_J-3nt9bhbI&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=32)
 * [Параметризованные алгоритмы](https://www.youtube.com/watch?v=LuhPRMn4SRQ&list=PL-_cKNuVAYAUTZWj2o-ZnPUM5yYrHYq51)
 * [Параметризованные алгоритмы](https://www.youtube.com/watch?v=xRqNxlrwXtg&list=PL-_cKNuVAYAUXg0Pv4xhL32qL5Igo7Lr-)
     Учись писать, читать и понимать алгоритмы, Паронджанов Владимир (2012)
@@ -1450,9 +1405,9 @@
 * [Regular Expression Reference: Special Groups](https://www.regular-expressions.info/refadv.html)
 * [Debuggex: Online visual regex tester. JavaScript, Python, and PCRE.](https://www.debuggex.com/)
 * The f' part tells Python to format the string by inserting the value of n in place of {n}. The double curly braces are just a way of escaping the curly braces. So if n = 4, for example, your string would be: 'a{4}b{4}'.
-* **Regular Expressions (Regex) Tutorial: How to Match Any Pattern of Text**
-* **[Regular Expressions in R](https://www.youtube.com/watch?v=9K4N6MO_R1Y&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=87)**
-* **[C++ Tutorial 19 : C++ Regular Expressions](https://www.youtube.com/watch?v=9K4N6MO_R1Y&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=87)**
+* Regular Expressions (Regex) Tutorial: How to Match Any Pattern of Text
+* [Regular Expressions in R](https://www.youtube.com/watch?v=9K4N6MO_R1Y&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=87)
+* [C++ Tutorial 19 : C++ Regular Expressions](https://www.youtube.com/watch?v=9K4N6MO_R1Y&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=87)
 * [Is it possible to reference characteristics of capture groups, like their length, within the same regex? I'm working in Python, so we're dealing with Perl-like syntax.](https://www.reddit.com/r/regex/comments/d85u1n/is_it_possible_to_reference_characteristics_of/)
 * It's beyond the scope of regular expressions, but it's relatively easy to do with Python string formatting:
 * f'a{{{n}}}b{{{n}}}'
@@ -1481,8 +1436,7 @@
 * [Regex Match equal amount of two characters - Stack Overflow](https://stackoverflow.com/questions/39704916/regex-match-equal-amount-of-two-characters)
 * [RegEx source](https://bitbucket.org/mrabarnett/mrab-regex/src/default/regex_3/_regex_core.py)
 * [Regex Tutorial - The Question Mark Makes the Preceding Token Optional](http://www.regular-expressions.info/optional.html)
-* ---
-
+* 
 ## Misc
 * [Kubernetes for Full-Stack Developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
 * https://www.freecodecamp.org/news/the-docker-handbook/
@@ -1504,9 +1458,7 @@
 * [A tour of the Kubernetes source code - IBM Developer](https://developer.ibm.com/articles/a-tour-of-the-kubernetes-source-code/)
 * [COMO ENTENDER E UTILIZAR DOCKER?](https://youtu.be/OIKhrLozFMg)
 * [Docker – Tutorial, Folge 2: Docker installieren (Linux) // deutsch - YouTube](https://www.youtube.com/watch?v=-UNAvc9jOsw&list=PL6QrD7_cU23li4myvLoicA663wx1bmzQi&index=4&t=16s)
-* [Docker playlist](https://youtube.com/playlist?list=PL5GusAoXMAEzCrlXZPGpUoZaVz20M_Vu3)
-    **[raffraffraff/docker-remarkable: Build and run a Remarkable docker container](https://github.com/raffraffraff/docker-remarkable)**
-    **[Docker на практике](http://libgen.rs/book/index.php?md5=24BEFCB16ADE6A3D458174AB8F0919FC)**
+* [Docker playlist](https://youtube.com/playlist?list=PL5GusAoXMAEzCrlXZPGpUoZaVz20M_Vu3)    * [raffraffraff/docker-remarkable: Build and run a Remarkable docker container](https://github.com/raffraffraff/docker-remarkable)    * [Docker на практике](http://libgen.rs/book/index.php?md5=24BEFCB16ADE6A3D458174AB8F0919FC)
 * [Docker can slow down your code and distort your benchmarks](https://pythonspeed.com/articles/docker-performance-overhead/)
 * [The Docker & Container Ecosystem | The New Stack](https://thenewstack.io/ebooks/docker-and-containers/the-docker-container-ecosystem/)
 * [Three Ways to Create Dockernized LaTeX Environment | by Shinichi Okada | Towards Data Science](https://towardsdatascience.com/three-ways-to-create-dockernized-latex-environment-2534163ee0c4)
@@ -1532,76 +1484,71 @@
 * https://en.wikipedia.org/wiki/Programming_paradigm
 * https://en.wikipedia.org/wiki/Programming_paradigm
 * [Функциональное программирование | Евгений Кирпичёв](https://www.youtube.com/watch?v=jEozVIGSDMU&list=PL-_cKNuVAYAWoMkUIhmaiJihYxirYrLbc)
-    ---
-
+    
 ## Anki
 * [Janki Method Refined | Jack Kinsella](http://www.jackkinsella.ie/articles/janki-method-refined)
 * [Janki Method | Jack Kinsella](http://www.jackkinsella.ie/articles/janki-method)
 * [Ospalh’s Anki2 addons](https://ospalh.github.io/anki-addons/)
-    ---
-
+    
 ### *Streamlining Anki with LaTeX | cathy wu
 * [scaling - Anki: Displayed size does not match specified size - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/394311/anki-displayed-size-does-not-match-specified-size)
 * [fontsize - Anki - LaTeX, Math Font Size, & DeclareMathSizes - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/108418/anki-latex-math-font-size-declaremathsizes)
 * [Decks - AnkiWeb](https://ankiweb.net/decks/)
 * [(de)](https://ankiweb.net/shared/info/1574741184)
-* **[[anki-help] Importing Quizlet decks into Anki - WiseGuy - com.googlegroups.ankisrs - MarkMail](http://markmail.org/message/2hlc4x4v72czrryu)**
-* **[Anki Manual](https://apps.ankiweb.net/docs/manual.html#adding-cards-and-notes)**
-* **[Anki Manuale Utente](https://web.archive.org/web/20160423223801/http://192.167.9.6/Anki_ITA/Manual_ITA.htm)**
-* **[Anki Tips: What I Learned Making 10,000 Flashcards - rs.io](http://rs.io/anki-tips/)**
-* **[Anki: Make Your Own Deck: The Basics | Your Awesome Memory](https://yourawesomememory.com/content/anki-make-your-own-deck-basics)**
-* **[Chord Symbols to piano keys - AnkiWeb](https://ankiweb.net/shared/info/946752090)**
-* **[Complete Pop/Jazz Chords - AnkiWeb](https://ankiweb.net/shared/info/839456194)**
-* **[Create Anki Cards Quickly using CSV - YouTube](https://www.youtube.com/watch?v=BwGNP3GXmxg)**
-* **[Ear Training: Dissonant Intervals (harmonic) - AnkiWeb](https://ankiweb.net/shared/info/2051888923)**
-* **[GitHub - dae/anki: Anki for desktop computers](https://github.com/dae/anki)**
-* **[How to Automatically Generate Vocabulary Flashcards with Google Translate and Anki - Art of Memory Blog](https://blog.artofmemory.com/vocabulary-flashcards-google-translate-anki-4561.html)**
-* **[How to make high quality Anki cards quickly | Managing Med-School](https://managingmedicine.org/2013/05/14/how-to-make-high-quality-anki-cards-quickly/)**
-* **[Importing lists into Anki - YouTube](https://www.youtube.com/watch?v=IhUQyZYAbtY)**
-* **[Italian Musical Terms - AnkiWeb](https://ankiweb.net/shared/info/797763840)**
-* **[Joe's Ear: intervals, chords, scales - AnkiWeb](https://ankiweb.net/shared/info/1231313502)**
-* **[Modes training - AnkiWeb](https://ankiweb.net/shared/info/1494466816)**
-* **[Physics of Music and Sound - AnkiWeb](https://ankiweb.net/shared/info/1604035179)**
-* **[S02 - Anki Decks &amp; Views: 01 Creating a deck and getting organised with sub-decks - YouTube](https://www.youtube.com/watch?v=2i1krBznenQ)**
-* **[scienceofimagination / How to Create and Manipulate Decks in Anki](http://scienceofimagination.pbworks.com/w/page/25479284/How%20to%20Create%20and%20Manipulate%20Decks%20in%20Anki)**
-* **[Code : anki](https://code.launchpad.net/anki)**
-* **[Anki Manual](https://apps.ankiweb.net/docs/manual.html)**
-* **[Anki Syntax Highlighting](https://ankiweb.net/shared/info/1463041493)**
-* **[GitHub - badlydrawnrob/anki: Learn to code with Anki — flashcards and themes for all learning levels. Master your programming language of choice!](https://github.com/badlydrawnrob/anki)**
-* **[Reddit - Anki - Anki 2.1: Code (Syntax) formatting?](https://www.reddit.com/r/Anki/comments/alpszi/anki_21_code_syntax_formatting/)**
-* **[Sparkle - Anki Flashcards to facilitate your programming mastery](https://www.reddit.com/r/Anki/comments/d6rdk1/sparkle_anki_flashcards_to_facilitate_your/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)**
-    ---
-
-### ****Anki machen (+ar. Verbforme): Stammform (Verb) – Wikipedia**
-* **[Probability Theory and Mathematical Statistics - AnkiWeb](https://ankiweb.net/shared/info/1296010623)**
-* **[基本数学术语 Fundamental Math Vocabulary: English–Chinese - AnkiWeb](https://ankiweb.net/shared/info/1225334140)**
-* **Mathematical Statistics**
-* **Machine Learning (DE)**
-* **Machine Learning**
-* **Topology**
-* **Combinatorics**
-* **Semantics**
-* **Deep Learning**
-* **Analysis**
-* **Diff EQ**
-    ---
-
-## OS
-    **[Linux: a Portable Operating System (Master of Science Thesis)](http://libgen.li/ads.php?md5=5a9073ee2d3bb0d68f5895857e9cf9ca)**
-* **[Linux: This Book Includes 4 Manuscripts. The Underground Bible to the UNIX Operating System with Tools On Security and Kali Hacking to Understand Computer Programming, Data Science and Command Line](http://libgen.li/ads.php?md5=9cc7a6d227d5363a7e9036a8ec9893e4)**
-* **[Linux for Beginners: The Ultimate Practical Guide to Operating System, Command Line and Programming. Improve your Computer Skills and Become a Computing Expertise.](http://libgen.li/ads.php?md5=76aec583971f5b63f96a97a3c08a5725)**
-* **[Linux Operating System: Introduction To Linux Operating System: Linux System Administrator](http://libgen.li/ads.php?md5=ef4dd51b6564eac0ecab1d8f53c753ea)**
-* **[Practical System Programming with C: Pragmatic Example Applications in Linux and Unix-Based Operating Systems](http://libgen.li/ads.php?md5=2cc93231c0eefb6c4141459954c71621)**
-* **[Linux: Learn the Ultimate Strategies to Master Operating System and Command Line. Improve Your Computer Programming Skills and Start Codi](http://libgen.li/ads.php?md5=e6368f0c4b13d3ec5fcbdb002b6e7258)**
-* **[Operating Systems/ Betriebssysteme Bilingual Edition: English - German/ Zweisprachige Ausgabe: Englisch - Deutsch](http://libgen.li/ads.php?md5=bd6e5e78c7f9c063df0098e5d4809c31)**
-* **[Operating Systems: Three Easy Pieces](http://libgen.li/ads.php?md5=133d518e3f69f4caaead32c569ae6c49)**
-* **[Survey of Operating Systems](http://libgen.li/ads.php?md5=e24c060de4e3b177d36e69cb72cc862d)**
-* **[Operating Systems: Internals and Design Principles](http://libgen.li/ads.php?md5=5b0c7356751347504e2f6ce19e42d218)**
-* **[The Art of Linux Kernel Design: Illustrating the Operating System Design Principle and Implementation](http://libgen.li/ads.php?md5=d23976f913ae0a19ff94173bbd642123)**
-* **[Embedded operating systems: a practical approach](http://libgen.li/ads.php?md5=4269524be215a1d0262f301283b04eb1)**
-* **[Betriebssysteme kompakt: Grundlagen, Daten, Speicher, Dateien, Prozesse und Kommunikation](http://libgen.li/ads.php?md5=e1268cb4775d8a06dd6f3485828ff9e7)**
-* **[Grundkurs Betriebssysteme: Architekturen, Betriebsmittelverwaltung, Synchronisation, Prozesskommunikation, Virtualisierung](http://libgen.li/ads.php?md5=3f4f40f1c3f02715d065a37543f757c1)**
-* **[Linux with Operating System Concepts](http://libgen.li/ads.php?md5=6b2354b55956b65913212bed0d43dfd8)**
+* [[anki-help] Importing Quizlet decks into Anki - WiseGuy - com.googlegroups.ankisrs - MarkMail](http://markmail.org/message/2hlc4x4v72czrryu)
+* [Anki Manual](https://apps.ankiweb.net/docs/manual.html#adding-cards-and-notes)
+* [Anki Manuale Utente](https://web.archive.org/web/20160423223801/http://192.167.9.6/Anki_ITA/Manual_ITA.htm)
+* [Anki Tips: What I Learned Making 10,000 Flashcards - rs.io](http://rs.io/anki-tips/)
+* [Anki: Make Your Own Deck: The Basics | Your Awesome Memory](https://yourawesomememory.com/content/anki-make-your-own-deck-basics)
+* [Chord Symbols to piano keys - AnkiWeb](https://ankiweb.net/shared/info/946752090)
+* [Complete Pop/Jazz Chords - AnkiWeb](https://ankiweb.net/shared/info/839456194)
+* [Create Anki Cards Quickly using CSV - YouTube](https://www.youtube.com/watch?v=BwGNP3GXmxg)
+* [Ear Training: Dissonant Intervals (harmonic) - AnkiWeb](https://ankiweb.net/shared/info/2051888923)
+* [GitHub - dae/anki: Anki for desktop computers](https://github.com/dae/anki)
+* [How to Automatically Generate Vocabulary Flashcards with Google Translate and Anki - Art of Memory Blog](https://blog.artofmemory.com/vocabulary-flashcards-google-translate-anki-4561.html)
+* [How to make high quality Anki cards quickly | Managing Med-School](https://managingmedicine.org/2013/05/14/how-to-make-high-quality-anki-cards-quickly/)
+* [Importing lists into Anki - YouTube](https://www.youtube.com/watch?v=IhUQyZYAbtY)
+* [Italian Musical Terms - AnkiWeb](https://ankiweb.net/shared/info/797763840)
+* [Joe's Ear: intervals, chords, scales - AnkiWeb](https://ankiweb.net/shared/info/1231313502)
+* [Modes training - AnkiWeb](https://ankiweb.net/shared/info/1494466816)
+* [Physics of Music and Sound - AnkiWeb](https://ankiweb.net/shared/info/1604035179)
+* [S02 - Anki Decks &amp; Views: 01 Creating a deck and getting organised with sub-decks - YouTube](https://www.youtube.com/watch?v=2i1krBznenQ)
+* [scienceofimagination / How to Create and Manipulate Decks in Anki](http://scienceofimagination.pbworks.com/w/page/25479284/How%20to%20Create%20and%20Manipulate%20Decks%20in%20Anki)
+* [Code : anki](https://code.launchpad.net/anki)
+* [Anki Manual](https://apps.ankiweb.net/docs/manual.html)
+* [Anki Syntax Highlighting](https://ankiweb.net/shared/info/1463041493)
+* [GitHub - badlydrawnrob/anki: Learn to code with Anki — flashcards and themes for all learning levels. Master your programming language of choice!](https://github.com/badlydrawnrob/anki)
+* [Reddit - Anki - Anki 2.1: Code (Syntax) formatting?](https://www.reddit.com/r/Anki/comments/alpszi/anki_21_code_syntax_formatting/)
+* [Sparkle - Anki Flashcards to facilitate your programming mastery](https://www.reddit.com/r/Anki/comments/d6rdk1/sparkle_anki_flashcards_to_facilitate_your/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+    
+### **Anki machen (+ar. Verbforme): Stammform (Verb) – Wikipedia
+* [Probability Theory and Mathematical Statistics - AnkiWeb](https://ankiweb.net/shared/info/1296010623)
+* [基本数学术语 Fundamental Math Vocabulary: English–Chinese - AnkiWeb](https://ankiweb.net/shared/info/1225334140)
+* Mathematical Statistics
+* Machine Learning (DE)
+* Machine Learning
+* Topology
+* Combinatorics
+* Semantics
+* Deep Learning
+* Analysis
+* Diff EQ
+    
+## OS    * [Linux: a Portable Operating System (Master of Science Thesis)](http://libgen.li/ads.php?md5=5a9073ee2d3bb0d68f5895857e9cf9ca)
+* [Linux: This Book Includes 4 Manuscripts. The Underground Bible to the UNIX Operating System with Tools On Security and Kali Hacking to Understand Computer Programming, Data Science and Command Line](http://libgen.li/ads.php?md5=9cc7a6d227d5363a7e9036a8ec9893e4)
+* [Linux for Beginners: The Ultimate Practical Guide to Operating System, Command Line and Programming. Improve your Computer Skills and Become a Computing Expertise.](http://libgen.li/ads.php?md5=76aec583971f5b63f96a97a3c08a5725)
+* [Linux Operating System: Introduction To Linux Operating System: Linux System Administrator](http://libgen.li/ads.php?md5=ef4dd51b6564eac0ecab1d8f53c753ea)
+* [Practical System Programming with C: Pragmatic Example Applications in Linux and Unix-Based Operating Systems](http://libgen.li/ads.php?md5=2cc93231c0eefb6c4141459954c71621)
+* [Linux: Learn the Ultimate Strategies to Master Operating System and Command Line. Improve Your Computer Programming Skills and Start Codi](http://libgen.li/ads.php?md5=e6368f0c4b13d3ec5fcbdb002b6e7258)
+* [Operating Systems/ Betriebssysteme Bilingual Edition: English - German/ Zweisprachige Ausgabe: Englisch - Deutsch](http://libgen.li/ads.php?md5=bd6e5e78c7f9c063df0098e5d4809c31)
+* [Operating Systems: Three Easy Pieces](http://libgen.li/ads.php?md5=133d518e3f69f4caaead32c569ae6c49)
+* [Survey of Operating Systems](http://libgen.li/ads.php?md5=e24c060de4e3b177d36e69cb72cc862d)
+* [Operating Systems: Internals and Design Principles](http://libgen.li/ads.php?md5=5b0c7356751347504e2f6ce19e42d218)
+* [The Art of Linux Kernel Design: Illustrating the Operating System Design Principle and Implementation](http://libgen.li/ads.php?md5=d23976f913ae0a19ff94173bbd642123)
+* [Embedded operating systems: a practical approach](http://libgen.li/ads.php?md5=4269524be215a1d0262f301283b04eb1)
+* [Betriebssysteme kompakt: Grundlagen, Daten, Speicher, Dateien, Prozesse und Kommunikation](http://libgen.li/ads.php?md5=e1268cb4775d8a06dd6f3485828ff9e7)
+* [Grundkurs Betriebssysteme: Architekturen, Betriebsmittelverwaltung, Synchronisation, Prozesskommunikation, Virtualisierung](http://libgen.li/ads.php?md5=3f4f40f1c3f02715d065a37543f757c1)
+* [Linux with Operating System Concepts](http://libgen.li/ads.php?md5=6b2354b55956b65913212bed0d43dfd8)
 * [Reddit - fox32os - multitasking operating system for a custom architecture](https://www.reddit.com/r/osdev/comments/10kjs3x/fox32os_multitasking_operating_system_for_a/)
 * https://github.com/arizonahanson/starlight-os
 * [main-qimg-0a42529bf99de9597196b4c910128189-c (JPEG Image, 775 × 493 pixels)](https://qph.cf2.quoracdn.net/main-qimg-0a42529bf99de9597196b4c910128189-c)
@@ -1646,17 +1593,12 @@
 * https://cs50.harvard.edu/college/2019/fall/
 * [Informatica generale](https://www.youtube.com/playlist?list=PL27E7ADECF58950DA)
 * [Informatique](https://www.youtube.com/watch?v=YUUKZqNneEE&list=PLie7a1OUTSagveVvyORBGKgovTTgjVdmD)
-* [Информатика](https://vk.com/wall-16108331_155508)
-    **[A Practical Approach to Compiler Construction](http://libgen.rs/book/index.php?md5=37877A0A3E6D4C7913BDA9977CB69A58)**
-    **[Formale Sprachen, abstrakte Automaten und Compiler: Lehr- und Arbeitsbuch für Grundstudium und Fortbildung](http://libgen.rs/book/index.php?md5=5ADE808648A5E4DF40CD7291F6BF5E78)**
-    **[Write Your Own Compiler](http://library.lol/main/A26A5975375A5E0CBA831268E78018EF)**
+* [Информатика](https://vk.com/wall-16108331_155508)    * [A Practical Approach to Compiler Construction](http://libgen.rs/book/index.php?md5=37877A0A3E6D4C7913BDA9977CB69A58)    * [Formale Sprachen, abstrakte Automaten und Compiler: Lehr- und Arbeitsbuch für Grundstudium und Fortbildung](http://libgen.rs/book/index.php?md5=5ADE808648A5E4DF40CD7291F6BF5E78)    * [Write Your Own Compiler](http://library.lol/main/A26A5975375A5E0CBA831268E78018EF)
 * [Grundbegriffe der Informatik, Vorlesung, WS 2020/21](https://www.youtube.com/watch?v=OK39MSCt54o&list=PLfk0Dfh13pBPs9TN7uhkFhJfmM9PaxaZ8)
-    **The Nature of Code**
+    The Nature of Code
 * [CS 320 - Concepts of Programming Languages](http://www.cs.bu.edu/fac/snyder/cs320/)
 * [INF4820](https://www.youtube.com/channel/UCufkSSu1trzm9nB-jYOPuvw)
-* [IN2040 – Funksjonell programmering](https://www.youtube.com/channel/UCJdgUH8ByKHNhA_FlTVIbzg)
-    **[Introduction to Compiler Design](http://libgen.rs/book/index.php?md5=9BD57A48450569E5AE20296FCD23064F)**
-    **[Let’s build a Compiler](http://libgen.rs/book/index.php?md5=E3C0FAE0C2C0F747BE305C83E837ACFA)**
+* [IN2040 – Funksjonell programmering](https://www.youtube.com/channel/UCJdgUH8ByKHNhA_FlTVIbzg)    * [Introduction to Compiler Design](http://libgen.rs/book/index.php?md5=9BD57A48450569E5AE20296FCD23064F)    * [Let’s build a Compiler](http://libgen.rs/book/index.php?md5=E3C0FAE0C2C0F747BE305C83E837ACFA)
 * [Теоретическая информатика | Александр Охотин](https://www.youtube.com/watch?v=IIKffaoU9nk&list=PL-_cKNuVAYAUl_rC3XH9MX63wyX600pcp)
 * [Теоретическая информатика | Александр Охотин](https://www.youtube.com/watch?v=ajCG2gBlW3Y&list=PL-_cKNuVAYAXbN083ii8cakfJpy5iGNxu)
 * [Vorlesungsaufzeichnung Theoretische Informatik | Hochschule Osnabrück](https://www.hs-osnabrueck.de/prof-dr-karsten-morisse/vorlesungsaufzeichnung-theoretische-informatik/)
@@ -1683,11 +1625,8 @@
 * [Electronics for Beginners: A Practical Introduction to Schematics, Circuits, and Microcontrollers](http://library.lol/main/83F62DC54FD565C48EE927AEB0F8EBDB)
 * https://github.com/Apress/learn-to-program-w-assembly
 
-## Boot
-    **[The BIOS companion](http://library.lol/main/BBB4B14C71ACAEF74426BEFBFA25402D)**
-    **[Beyond BIOS: Developing with the Unified Extensible Firmware Interface](http://library.lol/main/99ACD9F82FDDF5996238C6596D66AA5A)** 
-* https://coreboot.org/ 
-    **[Harnessing the Uefi Shell: Moving the Platform Beyond Dos](http://library.lol/main/9F60269484B41B81E4CCCE4FD78C05E7)**
+## Boot    * [The BIOS companion](http://library.lol/main/BBB4B14C71ACAEF74426BEFBFA25402D)    * [Beyond BIOS: Developing with the Unified Extensible Firmware Interface](http://library.lol/main/99ACD9F82FDDF5996238C6596D66AA5A) 
+* https://coreboot.org/     * [Harnessing the Uefi Shell: Moving the Platform Beyond Dos](http://library.lol/main/9F60269484B41B81E4CCCE4FD78C05E7)
 
 ## Tasks/Challenges
     E-olymp — один из крупнейших украинских сайтов для изучения информатики и подготовки к олимпиадам.
@@ -1703,7 +1642,7 @@
     GeeksforGeeks — имеет лучшую коллекцию статей, объяснений и решений по теме алгоритмов и структурам данных. По ссылке вы можете увидеть пример того, как сложный вопрос разбивается на более простые части, объяснение и код решения. Если вы готовитесь к собеседованию, советуем вам использовать этот сайт, чтобы подготовиться и освежить сложные темы в изучении алгоритмов.
     Codeforces — российская платформа для соревнований по программированию, на которой регулярно проводятся турниры, в которых участвуют одни из лучших программистов в мире. Если вы начинающий кодер, задания, скорее всего, будут слишком сложны для вас — вот пример из недавнего соревнования. Для решения этих задач обычно требуются передовые знания в области математики и алгоритмов. Цель Codeforces — предложить разработчикам удобную платформу для создания, проведения и обсуждения соревнований по программированию.
 
-### [********Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
+### [****Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 
 ### [> By language](http://rosettacode.org/wiki/Category:Programming_Languages)
 
@@ -1877,7 +1816,7 @@
 * https://www.meetup.com/
 
 ## Privacy and Cryptography
-    **using VPNs for privacy.**
+    using VPNs for privacy.
 * [kssytsrk/nx-freestance-handler: nx-freestance-handler, a redirector from the mainstream sites (Youtube, Twittter, Instagram, Reddit) to their privacy-supporting mirrors](https://github.com/kssytsrk/nx-freestance-handler)
 * [20 most secure email providers to use in 2023 - PrivacySavvy](https://privacysavvy.com/email/best/secure-email-providers/)
 * [10 Best Private and Secure Email Services for 2023](https://restoreprivacy.com/email/secure/)
@@ -1890,9 +1829,7 @@
 * [Ditch VSCode Spyware For VSCodium](https://youtu.be/iq6hbY_fzYg)
 * https://joinpeertube.org/
     Gnoppix
-    AdBlocker Ultimate
-    **[RSA (cryptosystem) - Wikipedia](https://en.wikipedia.org/wiki/RSA_(cryptosystem))**
-    **[Rabin fingerprint - Wikipedia](https://en.wikipedia.org/wiki/Rabin_fingerprint)**
+    AdBlocker Ultimate    * [RSA (cryptosystem) - Wikipedia](https://en.wikipedia.org/wiki/RSA_(cryptosystem))    * [Rabin fingerprint - Wikipedia](https://en.wikipedia.org/wiki/Rabin_fingerprint)
 
 ## Git
 * [Git tutorial — Tuto git](https://gdevops.gitlab.io/tuto_git/index.html)
@@ -1920,7 +1857,7 @@
 
 
 ## Books Projects
-1. Sort through and eventually delete this page
+* Sort through and eventually delete this page
 *Darwin Among the Machines* and *Turing’s Cathedral*
 Software Architect’s Handbook: Become a successful software architect by implementing effective architecture concepts
 Облачные архитектуры разработка устойчивых и экономичных облачных приложений.pdf
@@ -1940,7 +1877,7 @@ Pragmatic Programmers Functional Programming Bundle
 * https://github.com/matiassingers/awesome-readme
 
 ## Learning
-**[The BEST Coding Interview Roadmap in 2023 (free)](https://www.youtube.com/watch?v=jgQjes7MgTM)**
+     * [The BEST Coding Interview Roadmap in 2023 (free)](https://www.youtube.com/watch?v=jgQjes7MgTM)
 
 ## General Educational Resources
 → [top resources insta](https://www.instagram.com/p/CqQQ2C5jUUa/?igshid=MDJmNzVkMjY=)
@@ -1954,7 +1891,7 @@ Pragmatic Programmers Functional Programming Bundle
 * https://www.freecodecamp.org/
 * https://github.com/jwasham/coding-interview-university
 
-## [*******Developer Roadmaps](https://roadmap.sh/roadmaps)
+## [***Developer Roadmaps](https://roadmap.sh/roadmaps)
 * https://zetcode.com/
 * [GeeksforGeeks | A computer science portal for geeks](https://www.geeksforgeeks.org/)
 * https://www.freecodecamp.org/learn
@@ -2017,13 +1954,13 @@ Pragmatic Programmers Functional Programming Bundle
 * [Derek Banas](https://www.youtube.com/user/derekbanas) (***)
 * [Computer Science Center](https://compscicenter.ru/)
 * [Computer Science Center](https://www.youtube.com/c/CompscicenterRu)
-* https://roadmap.sh/ *********
+* https://roadmap.sh/ *****
 * [NLogSpace (esp. formal languages)](https://www.youtube.com/user/leifaktor)
 * [Carlos Andres Delgado](https://www.youtube.com/user/carlosUnivalle)
 * [Хекслет](https://www.youtube.com/user/HexletUniversity)
 * [Franneck](https://www.youtube.com/user/FranneckLP)
 * [Code Bullet](https://www.youtube.com/c/CodeBullet)
-**[Software Quality](https://www.youtube.com/playlist?list=PLEMXAbCVnmY4JbNByvpgEzWsLRKVaF_pk)**
+* [Software Quality](https://www.youtube.com/playlist?list=PLEMXAbCVnmY4JbNByvpgEzWsLRKVaF_pk)
 * [APDaga's DumpBox](https://www.apdaga.com/)
 * [Pico Bianco](https://www.youtube.com/channel/UCJGgu88qagSi145Q7LCe9KA)
 * https://coderwall.com/
@@ -2035,7 +1972,7 @@ Pragmatic Programmers Functional Programming Bundle
 * [Notions et concepts base informatique](https://www.culture-informatique.net/)
 * [Onigiri](https://www.youtube.com/c/OnigiriScience)
 * [overVolt](https://www.youtube.com/channel/UCw6ekhAtFahKr7gImCIoYwg)
-* [Plan CS *********](https://vk.com/@physics_math-detalnyi-plan-samoobrazovaniya-v-computer-science-za-15-goda)
+* [Plan CS *****](https://vk.com/@physics_math-detalnyi-plan-samoobrazovaniya-v-computer-science-za-15-goda)
 * [Tutorials | Daniel Miessler](https://danielmiessler.com/study/)
 * [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai)
 * [Академия Яндекса - YouTube](https://www.youtube.com/channel/UCTUyoZMfksbNIHfWJjwr5aQ/playlists)
@@ -2092,9 +2029,10 @@ Pragmatic Programmers Functional Programming Bundle
 * https://www.youtube.com/c/Geekific/playlists
 * [https://www.programiz.com](https://www.programiz.com/)
 
-## [********Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)
+## [****Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)
 
-## ** https://exercism.io/my/tracks
+##
+* https://exercism.io/my/tracks
 * https://www.asmarterwaytolearn.com/
 * http://libgen.rs/search.php?&req=a+smarter+way+to+learn&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
 * [Interactive Tutorials](https://github.com/ronreiter/interactive-tutorials)
@@ -2135,8 +2073,7 @@ Ivy: [https://deep-ivy-ltd.breezy.hr/,](https://deep-ivy-ltd.breezy.hr/) https:/
 * https://github.com/tweag 
 * https://taskflow.github.io/ 
 * https://cloud.google.com/assured-open-source-software/docs/supported-packages 
-* https://moonrepo.dev/ 
-**[TOML: Tom's Obvious Minimal Language](https://toml.io/en/)**
+* https://moonrepo.dev/ * [TOML: Tom's Obvious Minimal Language](https://toml.io/en/)
 * https://github.com/jdxcode/rtx
 * https://github.com/twpayne/chezmoi
 * https://llvm.org/docs/index.html
@@ -2283,56 +2220,56 @@ person ansidev's blog
 *[devtalk](https://devtalk.com/) -* Discussion forum around many different development topics/languages, ran as a joint venture between a lot of great programming publishers like Manning and Pragmatic Bookshelf.
 *[dev.to](https://dev.to/) -* Popular development community with an open source back end that was created as an alternative to Medium.
 * https://thenewstack.io/ 
-1. https://thenewstack.io/
-2. https://abstractexpr.com/
-3. https://gutier.io/
-4. [Essential Reading](https://rhodesmill.org/brandon/essential-reading/)
-5. https://isthisit.nz/ 
-6. https://humanreadablemag.com/ 
-7. https://hackaday.com/
-8. https://spectrum.ieee.org/
-9. https://flet.dev/
-10. [Homepage - MarkTechPost](https://www.marktechpost.com/)
-11. https://medevel.com/ 
-12. [*******Gitter](https://gitter.im/home/explore)
-13. https://www.developpez.com/ 
-14. https://dev.to/t/explainlikeimfive
-15. https://plainenglish.io/
-16. https://www.planetgeek.ch/category/book/
-17. [Overflow Blog](https://stackoverflow.blog/)
-18. https://www.heise.de/developer/
-19. [cleancoder.com](http://cleancoder.com/)
-20. https://thenewstack.io/
-21. https://www.golem.de/
-22. https://openwebinars.net/blog/
-23. https://www.coriers.com/
-24. http://www.marekrei.com/blog/
-25. [OpenGenus](https://iq.opengenus.org/)
-26. [*DevURLs – World's simplest developer news aggregator](https://devurls.com/)
-27. https://opensource.com/
-28. [Stackshare](https://stackshare.io/onboarding/welcome)
-29. https://www.oreilly.com/ideas
-30. https://lobste.rs/
-31. https://dev.to/
-32. https://blog.joseluisq.net/
-33. https://hackaday.com/
-34. https://janakiev.com/
-35. [Samuel Evans-Powell](http://sevanspowell.net/posts/learning-nasm-on-macos.html)
-36. [The Verge](https://www.theverge.com/)
-37. [Jousef Murad](https://www.youtube.com/channel/UCNm2TzhsV5wGlFIAcpCx9hQ)
-38. http://cognitivemedium.com/
-39. [CODE BLOG – Программирование и IT – Python – C# – Шванов Вадим](https://shwanoff.ru/)
-40. [News, Tips, and Advice for Technology Professionals - TechRepublic](https://www.techrepublic.com/)
-41. [Hacker News](https://news.ycombinator.com/news)
-42. https://dou.ua/
-43. https://www.reddit.com/r/regex/
-44. http://www.techtarget.com/network
-45. https://habr.com/
-46. https://www.computerra.ru/
-47. [For learning, refreshing, or just for fun!](https://www.reddit.com/r/dailyprogrammer/)
-48. [Programming Praxis | A collection of etudes, updated weekly, for the education and enjoyment of the savvy programmer](https://programmingpraxis.com/)
-49. [uidotdev](https://www.youtube.com/channel/UCbAn7pVK2VIyo-UysfWGdZQ)
-50. [$$$Brendan Fortuner – Medium](https://medium.com/@bfortuner)
+* https://thenewstack.io/
+* https://abstractexpr.com/
+* https://gutier.io/
+* [Essential Reading](https://rhodesmill.org/brandon/essential-reading/)
+* https://isthisit.nz/ 
+* https://humanreadablemag.com/ 
+* https://hackaday.com/
+* https://spectrum.ieee.org/
+* https://flet.dev/
+* [Homepage - MarkTechPost](https://www.marktechpost.com/)
+* https://medevel.com/ 
+* [***Gitter](https://gitter.im/home/explore)
+* https://www.developpez.com/ 
+* https://dev.to/t/explainlikeimfive
+* https://plainenglish.io/
+* https://www.planetgeek.ch/category/book/
+* [Overflow Blog](https://stackoverflow.blog/)
+* https://www.heise.de/developer/
+* [cleancoder.com](http://cleancoder.com/)
+* https://thenewstack.io/
+* https://www.golem.de/
+* https://openwebinars.net/blog/
+* https://www.coriers.com/
+* http://www.marekrei.com/blog/
+* [OpenGenus](https://iq.opengenus.org/)
+* [*DevURLs – World's simplest developer news aggregator](https://devurls.com/)
+* https://opensource.com/
+* [Stackshare](https://stackshare.io/onboarding/welcome)
+* https://www.oreilly.com/ideas
+* https://lobste.rs/
+* https://dev.to/
+* https://blog.joseluisq.net/
+* https://hackaday.com/
+* https://janakiev.com/
+* [Samuel Evans-Powell](http://sevanspowell.net/posts/learning-nasm-on-macos.html)
+* [The Verge](https://www.theverge.com/)
+* [Jousef Murad](https://www.youtube.com/channel/UCNm2TzhsV5wGlFIAcpCx9hQ)
+* http://cognitivemedium.com/
+* [CODE BLOG – Программирование и IT – Python – C# – Шванов Вадим](https://shwanoff.ru/)
+* [News, Tips, and Advice for Technology Professionals - TechRepublic](https://www.techrepublic.com/)
+* [Hacker News](https://news.ycombinator.com/news)
+* https://dou.ua/
+* https://www.reddit.com/r/regex/
+* http://www.techtarget.com/network
+* https://habr.com/
+* https://www.computerra.ru/
+* [For learning, refreshing, or just for fun!](https://www.reddit.com/r/dailyprogrammer/)
+* [Programming Praxis | A collection of etudes, updated weekly, for the education and enjoyment of the savvy programmer](https://programmingpraxis.com/)
+* [uidotdev](https://www.youtube.com/channel/UCbAn7pVK2VIyo-UysfWGdZQ)
+* [$$$Brendan Fortuner – Medium](https://medium.com/@bfortuner)
 
 ## YouTube
 * https://www.youtube.com/@KIT-Lehre-und-Wissen/playlists 
@@ -2361,40 +2298,40 @@ Th Morpheus Tutorials
 * [Code 2020](https://youtube.com/@Code2020)
 * [Informatik - simpleclub](https://www.youtube.com/c/TheSimpleInformatics)
 * https://www.youtube.com/user/briantwill/playlists
-**[Up and Atom](https://www.youtube.com/c/UpandAtom)**
-**[Aaron Jack](https://www.youtube.com/c/AaronJack)**
-**[Andy Sterkowitz](https://www.youtube.com/c/AndySterkowitz)**
-**[Next Day Video](https://www.youtube.com/c/NextDayVideo)**
-**[Niklas Steenfatt](https://www.youtube.com/c/NiklasSteenfatt)**
-**[Pasja informatyki](https://www.youtube.com/c/Pasjainformatykitutoriale)**
-**[Paul Stringer's Mobile Tech](https://www.youtube.com/c/ExpertTalksMobile)**
-**[TechLead](https://www.youtube.com/c/TechLead)**
-**[javidx9](https://www.youtube.com/c/javidx9)**
-**[JCharisTech & J-Secur1ty](https://www.youtube.com/channel/UC2wMHF4HBkTMGLsvZAIWzRg)**
-**[Metosin](https://www.youtube.com/c/Metosin)**
-**[Corey Schafer](https://www.youtube.com/c/Coreyms)**
-**[Creel](https://www.youtube.com/c/WhatsACreel)**
-**[CS Dojo](https://www.youtube.com/c/CSDojo)**
-**[Dai xination](https://www.youtube.com/user/xination2001)**
-**[DorianDotSlash](https://www.youtube.com/c/Doriandotslash)**
-**[EducationAboutStuff](https://www.youtube.com/channel/UCwe4KT7J7C-HiJ9JLRDnecg)**
-**[Engineer Man](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ)**
-**[Hilfesteller](https://www.youtube.com/user/Hilfesteller)**
-**[NDC Conferences](https://www.youtube.com/c/NDCConferences)**
-**[Programación ATS](https://www.youtube.com/c/Programaci%C3%B3nATS)**
-**[SEPL Goethe University Frankfurt](https://www.youtube.com/channel/UCpSoGwyH5yHHvQut3x6c_2g)**
-**[Codecademy](https://www.youtube.com/c/codecademy)**
-**[CodeEmporium](https://www.youtube.com/channel/UC5_6ZD6s8klmMu9TXEB_1IA)**
-**[CodeParade](https://www.youtube.com/c/CodeParade)**
-**[Coding Tech](https://www.youtube.com/c/CodingTech)**
-**[Healthy Software Developer](https://www.youtube.com/c/JaymeEdwardsMedia)**
-**[freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)**
-**[GOTO Conferences](https://www.youtube.com/c/GotoConferences)**
-**[Nerdisch](https://www.youtube.com/channel/UC0Ez864V-I_Z0-FfFI2Xlfg)**
-**[Franneck](https://www.youtube.com/user/FranneckLP)**
-**[hackerdashery](https://www.youtube.com/c/hackerdashery)**
-**[HackerRank](https://www.youtube.com/c/HackerrankOfficial)**
-**[HackUCF](https://www.youtube.com/channel/UCmCAVPGJTOrOc-Ux7Y0DHiw)**
+     * [Up and Atom](https://www.youtube.com/c/UpandAtom)
+* [Aaron Jack](https://www.youtube.com/c/AaronJack)
+* [Andy Sterkowitz](https://www.youtube.com/c/AndySterkowitz)
+* [Next Day Video](https://www.youtube.com/c/NextDayVideo)
+* [Niklas Steenfatt](https://www.youtube.com/c/NiklasSteenfatt)
+* [Pasja informatyki](https://www.youtube.com/c/Pasjainformatykitutoriale)
+* [Paul Stringer's Mobile Tech](https://www.youtube.com/c/ExpertTalksMobile)
+* [TechLead](https://www.youtube.com/c/TechLead)
+* [javidx9](https://www.youtube.com/c/javidx9)
+* [JCharisTech & J-Secur1ty](https://www.youtube.com/channel/UC2wMHF4HBkTMGLsvZAIWzRg)
+* [Metosin](https://www.youtube.com/c/Metosin)
+* [Corey Schafer](https://www.youtube.com/c/Coreyms)
+* [Creel](https://www.youtube.com/c/WhatsACreel)
+* [CS Dojo](https://www.youtube.com/c/CSDojo)
+* [Dai xination](https://www.youtube.com/user/xination2001)
+* [DorianDotSlash](https://www.youtube.com/c/Doriandotslash)
+* [EducationAboutStuff](https://www.youtube.com/channel/UCwe4KT7J7C-HiJ9JLRDnecg)
+* [Engineer Man](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ)
+* [Hilfesteller](https://www.youtube.com/user/Hilfesteller)
+* [NDC Conferences](https://www.youtube.com/c/NDCConferences)
+* [Programación ATS](https://www.youtube.com/c/Programaci%C3%B3nATS)
+* [SEPL Goethe University Frankfurt](https://www.youtube.com/channel/UCpSoGwyH5yHHvQut3x6c_2g)
+* [Codecademy](https://www.youtube.com/c/codecademy)
+* [CodeEmporium](https://www.youtube.com/channel/UC5_6ZD6s8klmMu9TXEB_1IA)
+* [CodeParade](https://www.youtube.com/c/CodeParade)
+* [Coding Tech](https://www.youtube.com/c/CodingTech)
+* [Healthy Software Developer](https://www.youtube.com/c/JaymeEdwardsMedia)
+* [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
+* [GOTO Conferences](https://www.youtube.com/c/GotoConferences)
+* [Nerdisch](https://www.youtube.com/channel/UC0Ez864V-I_Z0-FfFI2Xlfg)
+* [Franneck](https://www.youtube.com/user/FranneckLP)
+* [hackerdashery](https://www.youtube.com/c/hackerdashery)
+* [HackerRank](https://www.youtube.com/c/HackerrankOfficial)
+* [HackUCF](https://www.youtube.com/channel/UCmCAVPGJTOrOc-Ux7Y0DHiw)
 * [Технострим Mail.Ru Group](https://www.youtube.com/user/TPMGTU)
 * [ФКН ВШЭ](https://www.youtube.com/c/%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD)
 * [Академия Яндекса](https://www.youtube.com/channel/UCTUyoZMfksbNIHfWJjwr5aQ/playlists)
@@ -2458,9 +2395,9 @@ the technium
 
 ## [** [D] Does anyone know of any good ML podcasts I can listen to while at work? : MachineLearning](https://www.reddit.com/r/MachineLearning/comments/eoljno/d_does_anyone_know_of_any_good_ml_podcasts_i_can/)
 * https://podcasts.apple.com/us/podcast/oreilly-data-show-podcast/id944929220
-**[Pocho Costa](https://mytuner-radio.com/da/podcast/inteligencia-artificial-pocho-costa-1447402113)**
-**[Pocho Costa](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2Nob2Nvc3RhLmNvbS9zZXJpZXMvaW50ZWxpZ2VuY2lhLWFydGlmaWNpYWwvZmVlZC8)**
-**[Cabeça de Lab - LuizaLabs | Magalu](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9hNGZlOWY4L3BvZGNhc3QvcnNz)**
+     * [Pocho Costa](https://mytuner-radio.com/da/podcast/inteligencia-artificial-pocho-costa-1447402113)
+* [Pocho Costa](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2Nob2Nvc3RhLmNvbS9zZXJpZXMvaW50ZWxpZ2VuY2lhLWFydGlmaWNpYWwvZmVlZC8)
+* [Cabeça de Lab - LuizaLabs | Magalu](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9hNGZlOWY4L3BvZGNhc3QvcnNz)
 * herzbergs Hörsaal. Informatik studieren mit den Ohren
 
 
@@ -2516,11 +2453,9 @@ search "Gradient" on spotify or other podcast search engine
 * https://www.youtube.com/@adibhanna 
 
 ## Gen Prog Misc & Meta
-* https://www.stylewarning.com/posts/quantum-interpreter/ 
-**[The Tragedy of systemd](https://www.youtube.com/watch?app=desktop&v=o_AIw9bGogo)**
+* https://www.stylewarning.com/posts/quantum-interpreter/ * [The Tragedy of systemd](https://www.youtube.com/watch?app=desktop&v=o_AIw9bGogo)
 * [Transistor 1953 Documentary](https://www.youtube.com/watch?app=desktop&v=V9xUQWo4vN0)
-* https://www.theregister.com/AMP/2023/02/10/googles_go_programming_language_telemetry_debate/ 
-**[Linux Audio Explained (ALSA vs PulseAudio vs JACK vs Pipewire Explained)](https://www.youtube.com/watch?app=desktop&v=HxEXMHcwtlI)**
+* https://www.theregister.com/AMP/2023/02/10/googles_go_programming_language_telemetry_debate/ * [Linux Audio Explained (ALSA vs PulseAudio vs JACK vs Pipewire Explained)](https://www.youtube.com/watch?app=desktop&v=HxEXMHcwtlI)
 * https://ublue.it/making-your-own/ 
 * https://www.reddit.com/r/linuxmemes/comments/v4nl8x/listening_to_the_kernels_soul/ 
 * https://distrowatch.com/index-mobile.php
@@ -2614,10 +2549,8 @@ read Implementing Programming Languages
 * [Category Theory for Programming](https://arxiv.org/pdf/2209.01259.pdf)
 * [Handouts](https://www.ics.uci.edu/~pattis/ICS-33/handouts.html)
 
-## [********hmemcpy/milewski-ctfp-pdf: Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source](https://github.com/hmemcpy/milewski-ctfp-pdf)
-**[Fundamentals of Software Architecture: An Engineering Approach](http://library.lol/main/6B74DC7529E0DA638669B04943B309B6)** 
-**[Linux: Das umfassende Handbuch](http://library.lol/main/ACC8321ABFC2CA38D1B2A1703DD0A2BA)** 
-**[64-Bit Assembler Programmierung unter Linux](https://www.thalia.de/shop/home/artikeldetails/A1058736107)**
+## [****hmemcpy/milewski-ctfp-pdf: Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source](https://github.com/hmemcpy/milewski-ctfp-pdf)
+* [Fundamentals of Software Architecture: An Engineering Approach](http://library.lol/main/6B74DC7529E0DA638669B04943B309B6) * [Linux: Das umfassende Handbuch](http://library.lol/main/ACC8321ABFC2CA38D1B2A1703DD0A2BA) * [64-Bit Assembler Programmierung unter Linux](https://www.thalia.de/shop/home/artikeldetails/A1058736107)
 * [Linux. Der kompakte Grundkurs. So lernen Sie das Linux-System grundlegend kennen](https://www.thalia.de/shop/home/artikeldetails/A1060319206)
 * https://www.heise.de/ratgeber/Programmieren-In-Assembler-hacken-wie-vor-40-Jahren-8928090.html 
 
@@ -2670,7 +2603,6 @@ Prinzipien des Softwaredesigns
 * https://lexfridman.com/
 * https://www.drorpoleg.com/ 
 
----
 
 ## Best Tips and Hacks
 * [https://careercutler.substack.com/p/the-top-7-software-engineering-workflow](https://careercutler.substack.com/p/the-top-7-software-engineering-workflow?utm_source=tldrnewsletter)
@@ -2685,7 +2617,7 @@ Prinzipien des Softwaredesigns
 FOSS contributions: Rust NLP, Julia NLP, Rasa, C++ GUI, Torch NLP
 
 ## Practice
-* https://github.com/ByteByteGoHq/system-design-101 *********
+* https://github.com/ByteByteGoHq/system-design-101 *****
 * [7 Habits I've Picked Up From Senior Software Developers](https://youtu.be/zivngNtLiuY)
 
 ## →
@@ -2720,8 +2652,7 @@ Excel Challenge Problem
 * https://www.sanfoundry.com/
 * https://www.freecodecamp.org/news/10-common-coding-interview-problems-solved/
 
-## Small Projects
-**https://itp.nyu.edu/classes/cc-f21/little-coding-project-kaleidoscope/**
+## Small Projects* https://itp.nyu.edu/classes/cc-f21/little-coding-project-kaleidoscope/
 * [Project Based Curriculum Lesson Plans](https://docs.google.com/spreadsheets/d/1KXEJvgnAziiePMp2Ovf_ssDqCFFWYuycXWBNp91k3qM/edit#gid=561004611)
 * [5 Projects Every Programmer Should Try - YouTube](https://www.youtube.com/watch?v=jOFco1xuIeo&feature=youtu.be)
 
@@ -2735,7 +2666,7 @@ Excel Challenge Problem
 * https://console.paperspace.com/teukn6ij6/projects
 GraphicsMagick GM Utility
 * https://github.com/Textualize/rich-cli
-* https://opensource.com/ *********
+* https://opensource.com/ *****
 * [Play with Docker](https://www.docker.com/play-with-docker)
 * [Diagram Software and Flowchart Maker](https://www.diagrams.net/)
 * https://paketo.io/docs/ 
@@ -2798,8 +2729,7 @@ Kopec Explains Software
 
 ## 1S reading
 * https://www.jetbrains.com/lp/devecosystem-2022/
-* https://www.freecodecamp.org/news/file-systems-architecture-explained/
-**[hdmi](https://www.quora.com/q/source-code/How-does-a-single-wire-control-every-pixel-on-an-entire-TV-screen-How-can-it-convey-enough-information-for-that-many-pi?ch=99&share=7b9bf8c1&srid=HPb8)**
+* https://www.freecodecamp.org/news/file-systems-architecture-explained/* [hdmi](https://www.quora.com/q/source-code/How-does-a-single-wire-control-every-pixel-on-an-entire-TV-screen-How-can-it-convey-enough-information-for-that-many-pi?ch=99&share=7b9bf8c1&srid=HPb8)
 * https://www.quora.com/How-does-open-source-software-gets-funded/answer/Andreas-Gei%C3%9Finger-1
 * [Enhance your understanding of pull requests](https://email.axosoft.com/e2t/tc/VWTcC_5KZXsfVvYGsW7zSr5VW5g6HvJ4gXmvtN8_nRGc3p_97V1-WJV7CgBljW1WhfbF6wlsLqW5kNfyC1B-kCDW2Y0Klb1mBJWZW4ldV1V8nHFDnVhGHqz3mKG4YW9dQ_vP7tgG7CV_46kZ3wb1CcW7DjdHc7yzWmcW6zN6yp7m1W0WW8GlRGq3D2826N1GTVCWCM2pQW48MjSF8zx1zcW3j4wCL7d4wqJW2CX2Db2QcXq1W5r1MQZ1wl9CrN4CjtRM2z1QnW3zpjRY4dMJcBW4VhBdF6sYgrkW7KXgW68tml6_W36jyNJ4ZG-WhW1y6bcc2XjBQ8W8YsR5C5Snm83W6m4tdt8wfwc_W2hJjCF4ptGrj3h381)
 * [Virtual environments for Python, Ruby and Java](https://medium.com/@bhagavathidhass/virtual-environments-for-python-ruby-and-java-87743478ae38)
@@ -2842,21 +2772,11 @@ The Embedded Pattern (1-to-1, 1-to-many, and many-to-many)The Partial Embed Patt
 * [terminal - What causes this green background in ls output? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/94498/what-causes-this-green-background-in-ls-output)
 * https://dzone.com/refcardz/designing-quality-software
 * https://dzone.com/refcardz/refactoring-patterns
-**[How Deno’s Founder Is Rebuilding the Runtime of the Web](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=885c7973ff&e=b5a8df9a4a)** This article provides an overview of the Deno JavaScript/TypeScript  runtime and its features, highlighting its improved security, simplified  module system, and better developer experience compared to Node.js.
-**[Beautiful Branchless Binary Search](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=f825542ccb&e=b5a8df9a4a)** This post explains how to implement a branchless binary search algorithm
- that is both faster and more power-efficient than traditional binary search algorithms. It provides a detailed  alkthrough of the implementation and offers benchmarks to showcase its effectiveness.
-**[Thoughtworks Technology Radar 28](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=2f07685780&e=b5a8df9a4a)** A latest issue of the Technology Radar which is an opinionated guide to technology frontiers.
-**[The future of programming: Research at CHI 2023](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=9fce33eaae&e=b5a8df9a4a)** Research on programming tools published at CHI 2023.
-**[Navigating the High Cost of AI Compute](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=8045e2278a&e=b5a8df9a4a)**The generative AI boom is compute-bound and, as a result, a predominant factor driving the industry is simply the cost of training and inference.
-**[How LinkedIn Adopted A GraphQL Architecture for Product Development](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=debd7c2b1a&e=b5a8df9a4a)** In our previous post on GraphQL, we explained how LinkedIn uses GraphQL to expedite the process of onboarding new use-cases for external API 
-partners. In this blog post, we will cover how the GraphQL layer is architected for use by our internal engineers to build member and customer facing applications. Specifically, we will dive into some of the architectural choices that are unique to LinkedIn and why we chose each one of them.
-**[Avoiding the Rewrite Trap](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=cdbca5b89f&e=b5a8df9a4a)**Before you commit to rewriting an old system, here are some reasons it's (almost always) a bad idea.
-**[CLI tricks every developer should know](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=7c2af18da5&e=b5a8df9a4a)** Learn some tips, tricks, and tools for mastering the command line from GitHub’s own developers.
-**[Using ChatGPT as a technical writing assistant](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=1ec1f7ac36&e=b5a8df9a4a)** An experienced technical author explores using ChatGPT to assist with a  number of writing projects. He finds ChatGPT can provide time-savings through drafts and prompting for additional content, but lacks accuracy and depth - as well as suffering from bubbly optimism. Overall it is 
-useful if you work iteratively, asking for small chunks with well-crafted prompts.
-**[Bootstrapping Uber’s Infrastructure on arm64 with Zig](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=343f76acc7&e=b5a8df9a4a)** In November 2021 we decided to evaluate arm64 for Uber. Most of our services are written in either Go or Java, but our build systems only supported compiling to x86_64. Today, thanks to Open Source collaboration, Uber has a system-independent (hermetic) build toolchain 
-that seamlessly powers multiple architectures. We used this toolchain to  bootstrap our arm64 hosts. This post is a story with how we went about it, our early thinking, problems, some achievements, and next steps.
-**[eBay’s Blazingly Fast Billion-Scale Vector Similarity Engine](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=fea573defd&e=b5a8df9a4a)** This article takes a look at the architecture we constructed for  vector-based similarity, meeting the scale using data sharding, partitioning and replication, and features including attribute-based features and a pluggable ANN backend based on index building, recall accuracy, latencies and memory footprint. 
+     * [How Deno’s Founder Is Rebuilding the Runtime of the Web](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=885c7973ff&e=b5a8df9a4a) This article provides an overview of the Deno JavaScript/TypeScript  runtime and its features, highlighting its improved security, simplified  module system, and better developer experience compared to Node.js.* [Beautiful Branchless Binary Search](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=f825542ccb&e=b5a8df9a4a) This post explains how to implement a branchless binary search algorithm
+ that is both faster and more power-efficient than traditional binary search algorithms. It provides a detailed  alkthrough of the implementation and offers benchmarks to showcase its effectiveness.* [Thoughtworks Technology Radar 28](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=2f07685780&e=b5a8df9a4a) A latest issue of the Technology Radar which is an opinionated guide to technology frontiers.* [The future of programming: Research at CHI 2023](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=9fce33eaae&e=b5a8df9a4a) Research on programming tools published at CHI 2023.* [Navigating the High Cost of AI Compute](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=8045e2278a&e=b5a8df9a4a)The generative AI boom is compute-bound and, as a result, a predominant factor driving the industry is simply the cost of training and inference.* [How LinkedIn Adopted A GraphQL Architecture for Product Development](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=debd7c2b1a&e=b5a8df9a4a) In our previous post on GraphQL, we explained how LinkedIn uses GraphQL to expedite the process of onboarding new use-cases for external API 
+partners. In this blog post, we will cover how the GraphQL layer is architected for use by our internal engineers to build member and customer facing applications. Specifically, we will dive into some of the architectural choices that are unique to LinkedIn and why we chose each one of them.* [Avoiding the Rewrite Trap](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=cdbca5b89f&e=b5a8df9a4a)Before you commit to rewriting an old system, here are some reasons it's (almost always) a bad idea.* [CLI tricks every developer should know](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=7c2af18da5&e=b5a8df9a4a) Learn some tips, tricks, and tools for mastering the command line from GitHub’s own developers.* [Using ChatGPT as a technical writing assistant](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=1ec1f7ac36&e=b5a8df9a4a) An experienced technical author explores using ChatGPT to assist with a  number of writing projects. He finds ChatGPT can provide time-savings through drafts and prompting for additional content, but lacks accuracy and depth - as well as suffering from bubbly optimism. Overall it is 
+useful if you work iteratively, asking for small chunks with well-crafted prompts.* [Bootstrapping Uber’s Infrastructure on arm64 with Zig](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=343f76acc7&e=b5a8df9a4a) In November 2021 we decided to evaluate arm64 for Uber. Most of our services are written in either Go or Java, but our build systems only supported compiling to x86_64. Today, thanks to Open Source collaboration, Uber has a system-independent (hermetic) build toolchain 
+that seamlessly powers multiple architectures. We used this toolchain to  bootstrap our arm64 hosts. This post is a story with how we went about it, our early thinking, problems, some achievements, and next steps.* [eBay’s Blazingly Fast Billion-Scale Vector Similarity Engine](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=fea573defd&e=b5a8df9a4a) This article takes a look at the architecture we constructed for  vector-based similarity, meeting the scale using data sharding, partitioning and replication, and features including attribute-based features and a pluggable ANN backend based on index building, recall accuracy, latencies and memory footprint. 
 * https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/
 * https://www.freecodecamp.org/news/level-up-developer-portfolio/
 * https://www.freecodecamp.org/news/your-developer-career-questions-answered/
@@ -2876,8 +2796,7 @@ that seamlessly powers multiple architectures. We used this toolchain to  bootst
 * https://rasa.com/docs/rasa/docker/deploying-in-docker-compose
 * https://www.rath.org/matlab-is-a-terrible-programming-language.html
 * [encoding - How to convert a file to utf-8 in Python? - Stack Overflow](https://stackoverflow.com/questions/191359/how-to-convert-a-file-to-utf-8-in-python)
-* how does SVG work internally?
-**https://www.ionos.de/digitalguide/online-marketing/verkaufen-im-internet/microsoft-visio-alternativen/**
+* how does SVG work internally?* https://www.ionos.de/digitalguide/online-marketing/verkaufen-im-internet/microsoft-visio-alternativen/
 * http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html
 * https://plato.stanford.edu/entries/turing-machine/
 * http://mishadoff.com/blog/clojure-design-patterns/
@@ -2900,7 +2819,7 @@ that seamlessly powers multiple architectures. We used this toolchain to  bootst
 * [Branchless Programming: Why "If" is Sloowww... and what we can do about it! - YouTube](https://www.youtube.com/watch?v=bVJ-mWWL7cE)
 * [Code Practices - part 3 of 5 - YouTube](https://www.youtube.com/watch?v=2-G5WTghjYk&list=PL28704BC3557868CB&index=4)
 * [Build systems - Intro and Make](https://youtu.be/rF--wOD4H8I)
-**[What is a cryptocurrency Explained with animations](https://www.youtube.com/watch?v=wHWz6dboFhI)**
+* [What is a cryptocurrency Explained with animations](https://www.youtube.com/watch?v=wHWz6dboFhI)
 * [Functional Design Patterns - Scott Wlaschin - YouTube](https://www.youtube.com/watch?v=srQt1NAHYC0)
 * [Clean Code - Uncle Bob / Lesson 6 - YouTube](https://www.youtube.com/watch?v=l-gF0vDhJVI&t=1471s)
 * [Faster than Rust and C++: the PERFECT hash table - YouTube](https://www.youtube.com/watch?v=DMQ_HcNSOAI)
@@ -2935,9 +2854,9 @@ that seamlessly powers multiple architectures. We used this toolchain to  bootst
 * [Shimon Schocken: The self-organizing computer course - YouTube](https://www.youtube.com/watch?v=iE7YRHxwoDs)
 * [C Programming: Makefiles - YouTube](https://www.youtube.com/watch?v=GExnnTaBELk)
 * [2022 Predictions](https://www.youtube.com/watch?v=LOpFYMPXqE4)
-**[Don't Write Comments](https://www.youtube.com/watch?v=Bf7vDBBOBUA)**
+* [Don't Write Comments](https://www.youtube.com/watch?v=Bf7vDBBOBUA)
 Code strukturieren // deutsch
-**[How I make science animations](https://www.youtube.com/watch?v=yaa13eehgzo)**
+     * [How I make science animations](https://www.youtube.com/watch?v=yaa13eehgzo)
 
 ## People
 * https://github.com/Anaphory
@@ -2961,7 +2880,7 @@ Igor Zhirkov (interests)
 ## Media, Channels
 * https://refactoring.guru/uk
 * [VD](https://thevaluable.dev/page/about/)
-**[Сообщества свободного ПО](https://telegra.ph/Soobshchestva-svobodnogo-PO-07-24)**
+* [Сообщества свободного ПО](https://telegra.ph/Soobshchestva-svobodnogo-PO-07-24)
 * [Journal of Open Source Software](https://joss.theoj.org/)
 * https://www.derstandard.de/web/innovationen 
 * https://engineersjournal.substack.com/archive
@@ -3003,8 +2922,7 @@ Igor Zhirkov (interests)
 * [ACME 2022-2023 Materials](https://acme.byu.edu/2022-2023-materials)
 **Reddit - recommendation of a hands-on programming language course
 * https://github.com/academic-resources/stared-repos
-**[Machine Learning Foundations Course – Regression Analysis](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=522e67d953&e=b5a8df9a4a)** This course is designed to help you build a solid foundation in machine learning, focusing on core concepts and in-depth explanations of regression analysis, which is often overlooked in other courses. Whether  you're a beginner or someone looking to strengthen your understanding of machine learning, this course is for you!
-**[How To Build A Control Plane To Manage Kubernetes Clusters With kcp?](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=1548b0c657&e=b5a8df9a4a)** kcp is a Kubernetes cluster that cannot even run Pods (container). Instead, it is a specialized Kubernetes distribution that acts as a control plane for Kubernetes clusters.
+     * [Machine Learning Foundations Course – Regression Analysis](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=522e67d953&e=b5a8df9a4a) This course is designed to help you build a solid foundation in machine learning, focusing on core concepts and in-depth explanations of regression analysis, which is often overlooked in other courses. Whether  you're a beginner or someone looking to strengthen your understanding of machine learning, this course is for you!* [How To Build A Control Plane To Manage Kubernetes Clusters With kcp?](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=1548b0c657&e=b5a8df9a4a) kcp is a Kubernetes cluster that cannot even run Pods (container). Instead, it is a specialized Kubernetes distribution that acts as a control plane for Kubernetes clusters.
 * https://www.guru99.com/agile-testing-course.html
 * [GitHub - donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer)
 * https://github.com/Developer-Y/cs-video-courses
@@ -3027,15 +2945,7 @@ Igor Zhirkov (interests)
 
 ## Projects, Tools, Libraries
 * [orsinium-labs/python-lambda-calculus: Lambda Calculus things implemented on Python](https://github.com/orsinium-labs/python-lambda-calculus)
-**[Mojo](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=506258937d&e=b5a8df9a4a)** A new programming language for all AI developers. Mojo combines the usability of Python with the performance of C, unlocking unparalleled programmability of AI hardware and extensibility of AI models.
-**[mlc-llm](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=b0444df446&e=b5a8df9a4a)** Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
-**[Trawler](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=a704dd8458&e=b5a8df9a4a)** PowerShell script to help Incident Responders discover adversary persistence mechanisms.
-**[tutim](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=30a93f90cc&e=b5a8df9a4a)** The open-source wizard form infrastructure for web applications.
-**[nango](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=d9ac2ed1a5&e=b5a8df9a4a)** Pre-built OAuth flows & secure token management for 90+ APIs.
-**[Teletrace](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=4e35a87f18&e=b5a8df9a4a)** Open-Source Tracing Platform.
-**[IntelliNode](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=5904481f92&e=b5a8df9a4a)** Unified access to various AI models, such as ChatGPT, Diffusion, Cohere, and others, using a few Javascript lines.
-**[rustic](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=6cffd8871f&e=b5a8df9a4a)** Fast, encrypted, deduplicated backups powered by Rust.
-**[Tempo](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=35a3c6cd2b&e=b5a8df9a4a)** Low latency, cross-platform, end-to-end typesafe APIs.
+* [Mojo](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=506258937d&e=b5a8df9a4a) A new programming language for all AI developers. Mojo combines the usability of Python with the performance of C, unlocking unparalleled programmability of AI hardware and extensibility of AI models.* [mlc-llm](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=b0444df446&e=b5a8df9a4a) Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.* [Trawler](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=a704dd8458&e=b5a8df9a4a) PowerShell script to help Incident Responders discover adversary persistence mechanisms.* [tutim](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=30a93f90cc&e=b5a8df9a4a) The open-source wizard form infrastructure for web applications.* [nango](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=d9ac2ed1a5&e=b5a8df9a4a) Pre-built OAuth flows & secure token management for 90+ APIs.* [Teletrace](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=4e35a87f18&e=b5a8df9a4a) Open-Source Tracing Platform.* [IntelliNode](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=5904481f92&e=b5a8df9a4a) Unified access to various AI models, such as ChatGPT, Diffusion, Cohere, and others, using a few Javascript lines.* [rustic](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=6cffd8871f&e=b5a8df9a4a) Fast, encrypted, deduplicated backups powered by Rust.* [Tempo](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=35a3c6cd2b&e=b5a8df9a4a) Low latency, cross-platform, end-to-end typesafe APIs.
 * https://github.com/HigherOrderCO/HVM
 * http://www.gnuplot.info/
 * https://hub.docker.com/
@@ -3088,12 +2998,13 @@ look for books and articles on the psychology of wealth and inequality
 question-driven development
 interesting OSes: Theseus, Redox, Fuchsia, Minix, Genode, Tock, Medley Interlisp, Mezzano(on old laptop?), Interim OS (also a language), Chrysalisp, Urbit OS, House OS
 parallax
-**“Code is like humor. When you have to explain it, it’s bad.” – Cory House**
+“Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ## Very Best Resources
 * [The Twelve-Factor App](https://12factor.net/config)
 * https://roadmap.sh/
-*** *** https://up-for-grabs.net/#/
+
+* https://up-for-grabs.net/#/
 * http://showthedocs.com/
 * [The ReadME Project · Meet the people behind the projects you love](https://github.com/readme)
 * https://semver.org/
@@ -3122,7 +3033,7 @@ FreeCodeCamp
 * https://ourcodingclub.github.io/
 
 ## Books
-**[Purely functional data structures](http://library.lol/main/B9CFBFBDDF11107F53D1EE7448006453)**
+     * [Purely functional data structures](http://library.lol/main/B9CFBFBDDF11107F53D1EE7448006453)
 * [in a month of lunches](http://libgen.rs/search.php?&req=in+a+month+of+lunches&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 * [Learning GNU Emacs, 3rd Edition](http://libgen.rs/book/index.php?md5=7004AB179B2C98B3AE18B445429B14DB)
 * [docker](http://libgen.rs/search.php?&req=docker&phrase=1&view=simple&column=def&sort=year&sortmode=DESC&page=1)
@@ -3148,7 +3059,7 @@ Introduction to Computer Ognization (Plantz)
 * [Art of Debugging | No Starch Press](https://nostarch.com/debugging.htm)
 * [An Artist's Guide to Programming | No Starch Press](https://nostarch.com/artists-guide-programming)
 * [All books on bookdown.org | Bookdown](https://bookdown.org/home/archive/)
-* http://elementsofprogramming.com/eop.pdf *********
+* http://elementsofprogramming.com/eop.pdf *****
 * https://github.com/trimstray/the-book-of-secret-knowledge
 * http://libgen.is/search.php?&req=quantum+computer+science&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
 * [Computer Science: The Hardware, Software and Heart of IT](http://library.lol/main/20312EDB01D6FA249C583E660FF77110)
@@ -3167,11 +3078,11 @@ IT-Handbuch fuer Fachinformatiker*innen
 * http://elementsofprogramming.com/
 * [The Real History of the End of the World: Apocalyptic Predictions from Revelation and Nostradamus to Y2K and 2012](http://library.lol/main/AA75B071B0CEDA5DCE73DB031263D782)
 * [Responding to Crises in the Modern Infrastructure: Policy Lessons from Y2K](http://library.lol/main/7241108C3602019DDFBC1E868398D1A3)
-**[Hands-On Blockchain for Python Developers: Gain blockchain programming skills to build decentralized applications using Python](http://library.lol/main/A4B9876BCB404887E4B282472451D89F)**
-**[Цифровые технологии в финансовой сфере (на примере криптовалют). Неизбежность или осознанный выбор Российской Федерации. Монография](http://library.lol/main/D4841B6D4794D72D4D17A934DB2D0FD8)**
-**[Python для программирования криптовалют](http://library.lol/main/B80BAA94A38F4B26FF049D3428CE5A9A)**
-**[Эволюционная теория происхождения денег в экономической науке в свете появления криптовалют](http://library.lol/main/F4E9DE9A5CD79387195EB2CAE80A33F4)**
-**[Феномен криптовалюты Биткоин. Построение математических моделей децентрализованных информационных систем, реализующих функции платежных систем криптовалют. Подходы к комплексной оценке безопасности, в том числе оценке криптографической стойкости](http://library.lol/main/759BF15E4977BFB12324FA7D7BD16A71)**
+* [Hands-On Blockchain for Python Developers: Gain blockchain programming skills to build decentralized applications using Python](http://library.lol/main/A4B9876BCB404887E4B282472451D89F)
+* [Цифровые технологии в финансовой сфере (на примере криптовалют). Неизбежность или осознанный выбор Российской Федерации. Монография](http://library.lol/main/D4841B6D4794D72D4D17A934DB2D0FD8)
+* [Python для программирования криптовалют](http://library.lol/main/B80BAA94A38F4B26FF049D3428CE5A9A)
+* [Эволюционная теория происхождения денег в экономической науке в свете появления криптовалют](http://library.lol/main/F4E9DE9A5CD79387195EB2CAE80A33F4)
+* [Феномен криптовалюты Биткоин. Построение математических моделей децентрализованных информационных систем, реализующих функции платежных систем криптовалют. Подходы к комплексной оценке безопасности, в том числе оценке криптографической стойкости](http://library.lol/main/759BF15E4977BFB12324FA7D7BD16A71)
 Operating Systems: Three Easy Pieces
 Building your Mouseless Development Environment → https://flurly.com/p/mouseless-book
 * [Algorithms: Notes for Professionals](http://libgen.rs/book/index.php?md5=57D05F9FD1FAC34B2E73FAD96E41D910)
@@ -3186,14 +3097,13 @@ Duden Informatik A-Z
 * [Algebraic Graph Algorithms. A Practical Guide Using Python](http://library.lol/main/C78AC442979F4B22338698399C13D319)
 * [Algorithms for Optimization](http://library.lol/main/1BE77112D9E4058CBDBEEDFC2C46FE27)
 * http://classicproblems.com/
-* http://progopedia.com/
-**[Exercises for Programmers: 57 Challenges to Develop Your Coding Skills](http://library.lol/main/7D9BDD6DB6819D63938CE33865DC4FC5)**
+* http://progopedia.com/* [Exercises for Programmers: 57 Challenges to Develop Your Coding Skills](http://library.lol/main/7D9BDD6DB6819D63938CE33865DC4FC5)
 Language Server Protocol and Implementation: Supporting Language-Smart Editing and Programming Tools
 Think Like a Programmer (Spraul)
 Coding for Fun (Wolmeringer)
 Why Programs Fail (Zeller)
 Library Genesis: Matthew Justice - How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine
-**[Artificial Life Models in Software](http://library.lol/main/AE11D3B9C747AE9619EAB789F87AEF21)**
+     * [Artificial Life Models in Software](http://library.lol/main/AE11D3B9C747AE9619EAB789F87AEF21)
 * [Library Genesis: Дональд Эрвин Кнут (Donald E. Knuth) - Искусство программирования](https://libgen.is/book/index.php?md5=047ACE01CA77647FC56B11B5CB71106C)
 * [Library Genesis: Кнут Д. - Искусство программирования](https://libgen.is/book/index.php?md5=EC055AE8A9DFD6092361C9E8C08BD03D)
 * [Library Genesis: Дональд Эрвин Кнут (Donald E. Knuth) - Искусство программирования](https://libgen.is/book/index.php?md5=43804842BC09D811020914B939C65CF9)
@@ -3205,10 +3115,10 @@ Library Genesis: Matthew Justice - How Computers Really Work: A Hands-On Guide t
 Ремесло программиста
 Численные методы и программирование
 Git для профессионального программиста
-**[Software Development : An Open Source Approach](http://library.lol/main/9860DD42AC234585B304A54A9F31E707)**
-**[Software Architecture Metrics: Case Studies to Improve the Quality of Your Architecture](http://library.lol/main/46F1A1DE3F82D6808CBFFE4ED9E19DD4)**
-**[Learning Git: A Hands-On and Visual Guide to the Basics of Git](http://library.lol/main/132B5A0C37892FDC796A9BB32339A22D)**
-**[Continuous Delivery Pipelines: How to Build Better Software Faster](http://library.lol/main/530A5C5EC4798C9CBF5A2E58588B5DA9)**
+     * [Software Development : An Open Source Approach](http://library.lol/main/9860DD42AC234585B304A54A9F31E707)
+* [Software Architecture Metrics: Case Studies to Improve the Quality of Your Architecture](http://library.lol/main/46F1A1DE3F82D6808CBFFE4ED9E19DD4)
+* [Learning Git: A Hands-On and Visual Guide to the Basics of Git](http://library.lol/main/132B5A0C37892FDC796A9BB32339A22D)
+* [Continuous Delivery Pipelines: How to Build Better Software Faster](http://library.lol/main/530A5C5EC4798C9CBF5A2E58588B5DA9)
 * [The universal history of computing : from the abacus to the quantum computer](http://library.lol/main/F353744182E1438656EE1A1A9CD0C023)
 * [The Universal History of Numbers: From Prehistory to the Invention of the Computer [1 ed.]](http://libgen.is/book/index.php?md5=A4CFADF7BA318C397AA55FA6B7FAC7FF)
 * [The Universal History of Computing: From the Abacus to the Quantum Computer *[1 ed.]](http://libgen.is/book/index.php?md5=6C498B73E9E9E9D3BD6EAE98F850600B)
@@ -3240,7 +3150,6 @@ the universal computer
 * https://code.visualstudio.com/docs/remote/containers
 * [VS Code Top 10 Profi-Tipps](https://www.youtube.com/watch?v=eO_IFx6mR4E)
 
----
 * [MLOps vs. DevOps: the similarities and differences](https://www.datasciencecentral.com/profiles/blogs/mlops-vs-devops-the-similarities-and-differences)
 * [Как разобраться в Computer Science самостоятельно](https://vk.com/@weekkey-kak-razobratsya-v-computer-science-samostoyatelno)
 Geogrebra, SymPy, P5.js, Processing lang
@@ -3250,17 +3159,17 @@ Geogrebra, SymPy, P5.js, Processing lang
 * http://www.pdelfino.com.br/ 
 * https://www.dioptricdesign.com/ 
 
-## **[Hexlet](https://en.hexlet.io/)**: Practical programming courses (JavaScript, PHP, Unix, databases, functional programming). A steady path from the first line of code to the first job.
+## [Hexlet](https://en.hexlet.io/): Practical programming courses (JavaScript, PHP, Unix, databases, functional programming). A steady path from the first line of code to the first job.
 * https://github.com/preslavmihaylov/booknotes
 * https://www.youtube.com/@IogaMaster 
 * https://github.com/prmadev 
-************* https://m7.rs/
+***** https://m7.rs/
 → https://git.sr.ht/~misterio/ 
-************* https://david-peter.de/ 
+***** https://david-peter.de/ 
 
 ## ☒ CLI/TUI Building Libraries
 → https://github.com/shadawck/awesome-cli-frameworks
-all ****** unless otherwise indicated
+all ** unless otherwise indicated
 
 ## JS
 
@@ -3318,41 +3227,42 @@ all ****** unless otherwise indicated
 * https://github.com/wong2/pick
 * https://ceccopierangiolieugenio.github.io/pyTermTk/ 
 
-## ☒ **GUI Development**
+## ☒ GUI Development
 
-## [ ]  ******** https://azul.rs/
+## [ ]  **** https://azul.rs/
 
-## [ ]  ********  https://tauri.app/
+## [ ]  ****  https://tauri.app/
 
-## [ ]  ******* [wxPython](https://wxpython.org/index.html)
+## [ ]  *** [wxPython](https://wxpython.org/index.html)
 
-## [ ]  *******https://github.com/qt/qtbase
+## [ ]  ***https://github.com/qt/qtbase
 
-## [ ]  ******* https://github.com/GNOME/gtk
+## [ ]  *** https://github.com/GNOME/gtk
 
-## [ ]  ******* https://github.com/ocornut/imgui
+## [ ]  *** https://github.com/ocornut/imgui
 
-## [ ]  ****** https://www.tcl.tk/, [tkinter](https://docs.python.org/3/library/tkinter.html)
+## [ ] 
+* https://www.tcl.tk/, [tkinter](https://docs.python.org/3/library/tkinter.html)
 
-## [ ]  **** **[PHP App Server](https://github.com/cubiclesoft/php-app-server/)**: Create lightweight, installable almost-native applications for desktop OSes. ExecTerminal (nicely wraps the xterm.js Terminal), TerminalManager, and RunProcessSDK are self-contained, reusable ES5+ compliant Javascript components.
+## [ ]  ** [PHP App Server](https://github.com/cubiclesoft/php-app-server/)**: Create lightweight, installable almost-native applications for desktop OSes. ExecTerminal (nicely wraps the xterm.js Terminal), TerminalManager, and RunProcessSDK are self-contained, reusable ES5+ compliant Javascript components.
 
 ## ☒ Programming Languages, Specific Code Libraries
 
 ## ☒ Multiple
 
-### [ ]  ******* ‣ [A fast programming language detector](https://github.com/monkslc/hyperpolyglot) -
+### [ ]  *** ‣ [A fast programming language detector](https://github.com/monkslc/hyperpolyglot) -
 
-### [ ]  ******* ‣ [Language Savant. If your repository's language is being reported incorrectly, send us a pull request!](https://github.com/github-linguist/linguist)
+### [ ]  *** ‣ [Language Savant. If your repository's language is being reported incorrectly, send us a pull request!](https://github.com/github-linguist/linguist)
 
-### [ ]  ******** flex
+### [ ]  **** flex
 
-### [ ]  ******** bison
+### [ ]  **** bison
 
-### [ ]  ******** byacc
+### [ ]  **** byacc
 
-### [ ]  ******** llvm
+### [ ]  **** llvm
 
-### [ ]  ******* https://www.bouml.fr/
+### [ ]  *** https://www.bouml.fr/
 
 ### [ ]  **** ‣ - Manage multiple runtime versions with a single CLI tool. - probably no because Nix is superior, but still interesting to try out
 
@@ -3364,39 +3274,39 @@ all ****** unless otherwise indicated
     → debug custom prompt in Python
     → https://discuss.python.org/t/announce-pybi-and-posy/23021
 
-### [ ]  ********* https://sh.readthedocs.io/en/latest/
+### [ ]  ***** https://sh.readthedocs.io/en/latest/
 
-### [ ]  ********* poetry2nix
+### [ ]  ***** poetry2nix
 
-### [ ]  ********* [Scipy](https://scipy.org/install.html) - SciPy is a Python-based ecosystem of open-source software for mathematics, science, and engineering.
+### [ ]  ***** [Scipy](https://scipy.org/install.html) - SciPy is a Python-based ecosystem of open-source software for mathematics, science, and engineering.
 
-### [ ]  ********* ‣ (polyglot FFI)
+### [ ]  ***** ‣ (polyglot FFI)
 
-### [ ]  ********* [pypi-command-line](https://github.com/wasi-master/pypi-command-line) - A powerful, colorful, beautiful command-line-interface for pypi.org.
+### [ ]  ***** [pypi-command-line](https://github.com/wasi-master/pypi-command-line) - A powerful, colorful, beautiful command-line-interface for pypi.org.
 
-### [ ]  ********* [Python re(gex)? exercises](https://github.com/learnbyexample/TUI-apps/tree/main/PyRegexExercises) - TUI application intended to help you practice Python regular expressions; there are more than 100 exercises covering both the builtin re and third-party regex module.
+### [ ]  ***** [Python re(gex)? exercises](https://github.com/learnbyexample/TUI-apps/tree/main/PyRegexExercises) - TUI application intended to help you practice Python regular expressions; there are more than 100 exercises covering both the builtin re and third-party regex module.
 
-### [ ]  ********* [pire](https://github.com/johannestaas/pire) - Python Interactive Regular Expressions.
+### [ ]  ***** [pire](https://github.com/johannestaas/pire) - Python Interactive Regular Expressions.
 
-### [ ]  ******** ‣
+### [ ]  **** ‣
 
-### [ ]  ********  ‣ - at least look at and use ideas
+### [ ]  ****  ‣ - at least look at and use ideas
 
-### [ ]  ******** [Ipython](https://ipython.org/) - Powerful Python shell.
+### [ ]  **** [Ipython](https://ipython.org/) - Powerful Python shell.
 
-### [ ]  ******** bpython
+### [ ]  **** bpython
 
-### [ ]  ******** ptpython
+### [ ]  **** ptpython
 
-### [ ]  ******** ‣
+### [ ]  **** ‣
 
-### [ ]  ******** ‣
+### [ ]  **** ‣
 
-### [ ]  ******** [Jupyter Notebook](https://jupyter.org/) - An open source program that provides interactive data and scientific computing information across over 40 programming languages.
+### [ ]  **** [Jupyter Notebook](https://jupyter.org/) - An open source program that provides interactive data and scientific computing information across over 40 programming languages.
 
-### [ ]  ******** [pyutils](https://wannabe.guru.org/pydocs/pyutils/index.html)
+### [ ]  **** [pyutils](https://wannabe.guru.org/pydocs/pyutils/index.html)
 
-### [ ]  ******* ‣
+### [ ]  *** ‣
 
 ### [ ]  *** pyenv - inferior to Nix, but good to know
 
@@ -3408,54 +3318,54 @@ all ****** unless otherwise indicated
 
 ## ☒ Database
 
-### [ ]  ********* [PostgreSQL](https://www.postgresql.org/download/) - PostgreSQL is a powerful, open source object-relational database system with more than 15 year development. PostgreSQL is not controlled by any corporation or other private entity and the source code is available free of charge.
+### [ ]  ***** [PostgreSQL](https://www.postgresql.org/download/) - PostgreSQL is a powerful, open source object-relational database system with more than 15 year development. PostgreSQL is not controlled by any corporation or other private entity and the source code is available free of charge.
 
-### [ ]  ********* [pgcli](https://www.pgcli.com/) - Pgcli is a command line interface for Postgres with auto-completion and syntax highlighting.
+### [ ]  ***** [pgcli](https://www.pgcli.com/) - Pgcli is a command line interface for Postgres with auto-completion and syntax highlighting.
 
-### [ ]  ********* [Sqlite](https://sqlite.org/download.html) - SQLite is an in-process library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine.
+### [ ]  ***** [Sqlite](https://sqlite.org/download.html) - SQLite is an in-process library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine.
 
-### [ ]  ********* [Sqlite Browser](https://sqlitebrowser.org/) - Visually create, manage, and view sqlite database files.
+### [ ]  ***** [Sqlite Browser](https://sqlitebrowser.org/) - Visually create, manage, and view sqlite database files.
 
-### [ ]  ********* ‣ - A terminal spreadsheet multitool for exploring and arranging data (csv/json/xml/xls/yaml/etc)
+### [ ]  ***** ‣ - A terminal spreadsheet multitool for exploring and arranging data (csv/json/xml/xls/yaml/etc)
 
-### [ ]  ******** [Percona MongoDB](https://www.percona.com/software/mongo-database/percona-server-for-mongodb) - Percona Server for MongoDB provides all features and benefits of MongoDB Community Server.
+### [ ]  **** [Percona MongoDB](https://www.percona.com/software/mongo-database/percona-server-for-mongodb) - Percona Server for MongoDB provides all features and benefits of MongoDB Community Server.
 
-### [ ]  ******** [Percona Monitoring](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Percona Monitoring and Management (PMM) is a free and open-source platform for managing and monitoring MySQL, MariaDB and MongoDB performance. You can run PMM in your own environment for maximum security and reliability. It provides thorough time-based analysis for MySQL, MariaDB and MongoDB servers to ensure that your data works as efficiently as possible.
+### [ ]  **** [Percona Monitoring](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Percona Monitoring and Management (PMM) is a free and open-source platform for managing and monitoring MySQL, MariaDB and MongoDB performance. You can run PMM in your own environment for maximum security and reliability. It provides thorough time-based analysis for MySQL, MariaDB and MongoDB servers to ensure that your data works as efficiently as possible.
 
-### [ ]  ******** https://graphql.org/
-    ### [ ]  ******** [strawberry](https://github.com/strawberry-graphql/strawberry)
+### [ ]  **** https://graphql.org/
+    ### [ ]  **** [strawberry](https://github.com/strawberry-graphql/strawberry)
 
-### [ ]  ******** [MariaDB](https://mariadb.org/) - One of the most popular database servers. Made by the original developers of MySQL.
+### [ ]  **** [MariaDB](https://mariadb.org/) - One of the most popular database servers. Made by the original developers of MySQL.
 
-### [ ]  ******** [sqlline](https://github.com/julianhyde/sqlline) - Shell for issuing SQL to relational databases via JDBC (multiline, completion, highlighting, dialect support)
+### [ ]  **** [sqlline](https://github.com/julianhyde/sqlline) - Shell for issuing SQL to relational databases via JDBC (multiline, completion, highlighting, dialect support)
 
-### [ ]  ******** [QT Creator](https://www.qt.io/qt-features-libraries-apis-tools-and-ide/) - Fully-stocked cross-platform integrated development environment for easy creation of connected devices, UIs and applications.
+### [ ]  **** [QT Creator](https://www.qt.io/qt-features-libraries-apis-tools-and-ide/) - Fully-stocked cross-platform integrated development environment for easy creation of connected devices, UIs and applications.
 
-### [ ]  ******** [MongoDB](https://www.mongodb.com/) - MongoDB is a free and open-source cross-platform document-oriented database program, uses JSON-like documents with schemas.
+### [ ]  **** [MongoDB](https://www.mongodb.com/) - MongoDB is a free and open-source cross-platform document-oriented database program, uses JSON-like documents with schemas.
 
-### [ ]  ******** [CouchDB](https://couchdb.apache.org/) - Seamless multi-master sync, that scales from Big Data to Mobile, with an Intuitive HTTP/JSON API and designed for Reliability.
+### [ ]  **** [CouchDB](https://couchdb.apache.org/) - Seamless multi-master sync, that scales from Big Data to Mobile, with an Intuitive HTTP/JSON API and designed for Reliability.
 
-### [ ]  ******** ‣ ‣‣ ([OmniDB](https://github.com/OmniDB/OmniDB)) - Browser-based tool that visually create, manage, and view databases.
+### [ ]  **** ‣ ‣‣ ([OmniDB](https://github.com/OmniDB/OmniDB)) - Browser-based tool that visually create, manage, and view databases.
 
-### [ ]  ******** ‣ - Postgres client with autocompletion and syntax highlighting.
+### [ ]  **** ‣ - Postgres client with autocompletion and syntax highlighting.
 
-### [ ]  ******** ‣ - Redis client with autocompletion and syntax highlighting.
+### [ ]  **** ‣ - Redis client with autocompletion and syntax highlighting.
 
-### [ ]  ******** ‣ - Universal SQL client with autocompletion and syntax highlighting.
+### [ ]  **** ‣ - Universal SQL client with autocompletion and syntax highlighting.
 
-### [ ]  ******* [DBeaver](https://dbeaver.io/) - A universal database client supporting multiple platforms and databases.
+### [ ]  *** [DBeaver](https://dbeaver.io/) - A universal database client supporting multiple platforms and databases.
 
-### [ ]  ******* [Cassandra](https://cassandra.apache.org/) - Apache Cassandra database is the right choice when you need scalability and high availability without compromising performance. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data.
+### [ ]  *** [Cassandra](https://cassandra.apache.org/) - Apache Cassandra database is the right choice when you need scalability and high availability without compromising performance. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data.
 
-### [ ]  ******* [xmlstarlet](http://xmlstar.sourceforge.net/) - Old but powerful tool for command-line XML formatting, filtering, and manipulation.
+### [ ]  *** [xmlstarlet](http://xmlstar.sourceforge.net/) - Old but powerful tool for command-line XML formatting, filtering, and manipulation.
 
-### [ ]  ******* [Kexi](https://calligra.org/kexi/) - Kexi is an open source visual database applications creator, a long-awaited competitor for programs like MS Access or Filemaker.
+### [ ]  *** [Kexi](https://calligra.org/kexi/) - Kexi is an open source visual database applications creator, a long-awaited competitor for programs like MS Access or Filemaker.
 
 ### [ ]  bp<<<[mycli](https://www.mycli.net/)
 
 ## ☒ Java, JVM
 
-### [ ]  ********* openjdk
+### [ ]  ***** openjdk
 
 ### [ ]  [U] sdkman
 
@@ -3467,46 +3377,46 @@ all ****** unless otherwise indicated
 
 ## ☒ CL
 
-### [ ]  ********* [sbcl](http://www.sbcl.org/)
+### [ ]  ***** [sbcl](http://www.sbcl.org/)
 
 ## ☒ Lua
 
-### [ ]  ********* [lua-sh: calling shell commands as functions](https://zserge.com/posts/luash/)
+### [ ]  ***** [lua-sh: calling shell commands as functions](https://zserge.com/posts/luash/)
 
 ## ☒ Perl family
 
-### [ ]  ******** ‣
+### [ ]  **** ‣
 
 ## ☒ JS, TS
 
-### [ ]  ********* Bun
+### [ ]  ***** Bun
 
-### [ ]  ******** ‣ [Pencil](https://pencil.evolus.vn/) - An open-source GUI prototyping tool that’s available for ALL platforms.
+### [ ]  **** ‣ [Pencil](https://pencil.evolus.vn/) - An open-source GUI prototyping tool that’s available for ALL platforms.
 
-### [ ]  ******** ‣ - A little agent that removes the node_modules folder of non-active projects
+### [ ]  **** ‣ - A little agent that removes the node_modules folder of non-active projects
 
 ### [ ]  ‣
 
 ## ☒ C, C++
 
-### [ ]  ********* clang
+### [ ]  ***** clang
 
-### [ ]  ********* gcc
+### [ ]  ***** gcc
 
 ## ☒ Haskell
 
-### [ ]  ********* ghc, ghci
+### [ ]  ***** ghc, ghci
 
 ## ☒ Other
 
-### [ ]  ********* ‣ - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable - extend to regexes of other languages
+### [ ]  ***** ‣ - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable - extend to regexes of other languages
 
-### [ ]  ******** [KLEE](https://klee.github.io/)
+### [ ]  **** [KLEE](https://klee.github.io/)
     ### [ ]  http://klee.github.io/releases/docs/v1.3.0/
 
-### [ ]  ******* https://strlen.com/lobster/
+### [ ]  *** https://strlen.com/lobster/
 
-### [ ]  ******* [Workbench](https://apps.gnome.org/app/re.sonny.Workbench/) - Workbench goal is to let you experiment with GNOME technologies, no matter if tinkering for the first time or building and testing a custom GTK widget.
+### [ ]  *** [Workbench](https://apps.gnome.org/app/re.sonny.Workbench/) - Workbench goal is to let you experiment with GNOME technologies, no matter if tinkering for the first time or building and testing a custom GTK widget.
 * https://darklua.com/ 
 * https://github.com/criblio/js2bin
 * https://github.com/fosskers/aura https://fosskers.github.io/aura/philosophy.html

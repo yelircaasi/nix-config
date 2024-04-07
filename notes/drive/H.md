@@ -1525,7 +1525,7 @@ Beginner with Zhuyin
 
 Bescherelle Le chinois pour tous
 
-********Learn to Read ZH with Pictures.pdf
+****Learn to Read ZH with Pictures.pdf
 50 текстов для чтения
 
 美国反对美国 (America vs America).gsheet
@@ -3856,10 +3856,8 @@ Vocabulary for the Lessons.pdf
 A Grammar of the Telugu Language.pdf
 
 ## G. Periodismo
-### Attuali a leggere e rimuovere
-    LMD 06.2018
-
-    LMD 10.2018.pdf
+### Attuali a leggere e rimuovere* LMD 06.2018
+* LMD 10.2018.pdf
 
 Im Netz der Nachricht.pdf
 
@@ -4090,12 +4088,9 @@ Grand livre de cuisine.pdf
 L’ARTE DI MANGIAR BENE.pdf
 
 ## L. Atlética
-### _Lectura
-    German Football Machine.fb2
-
-    Physical demands of different positions in FA Premier League soccer.pdf
-
-    Player Position.pdf
+### _Lectura* German Football Machine.fb2
+* Physical demands of different positions in FA Premier League soccer.pdf
+* Player Position.pdf
 
 Creatividad - atlética.gdoc
 

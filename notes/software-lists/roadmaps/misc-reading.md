@@ -110,19 +110,19 @@ Handbook of Image Processing and Computer Vision. Volume 2. From Image to Patter
 
 Handbook of Image Processing and Computer Vision. Volume 3. From Pattern to Object.pdf
 
-**Learn Computer Vision Using OpenCV. With Deep Learning CNNs and RNNs.pdf**
+Learn Computer Vision Using OpenCV. With Deep Learning CNNs and RNNs.pdf
 
-**Learning OpenCV 4 Computer Vision with** Python 3.pdf
+Learning OpenCV 4 Computer Vision with Python 3.pdf
 
-**Mastering Computer Vision with TensorFlow 2.x.pdf**
+Mastering Computer Vision with TensorFlow 2.x.pdf
 
-**OCR with OpenCV, Tesseract, and Python - Intro to OCR.pdf**
+OCR with OpenCV, Tesseract, and Python - Intro to OCR.pdf
 
-**OCR with OpenCV, Tesseract, and Python.pdf**
+OCR with OpenCV, Tesseract, and Python.pdf
 
-**Practical Machine Learning for Computer Vision.pdf**
+Practical Machine Learning for Computer Vision.pdf
 
-**TensorFlow 2.0 Computer Vision Cookbook.pdf**
+TensorFlow 2.0 Computer Vision Cookbook.pdf
 
 Domain Adaptation in Computer Vision with Deep Learning.pdf
 
@@ -287,11 +287,7 @@ Thoughtful Machine Learning with Python.pdf
 Guide to NumPy (2006).pdf
 
 Learning Spark.pdf
-
-[Cómo piensa el mundo: Una historia global de la filosofía](http://libgen.is/book/index.php?md5=F35F69441D1DCD56F291FD08F8D924C1)
-
-[Freedom Regained: The Possibility of Free Will](http://libgen.is/book/index.php?md5=0D98029B92814E72172E47AB4956C861)
-
-[Ich denke, also will ich: Philosophie des freien Willens](http://libgen.is/book/index.php?md5=5083FDA578AC337D0E4EB679C58F6FF8)
-
-**[драйв (UK)](https://vk.com/wall-55985842_18948)**
+* [Cómo piensa el mundo: Una historia global de la filosofía](http://libgen.is/book/index.php?md5=F35F69441D1DCD56F291FD08F8D924C1)
+* [Freedom Regained: The Possibility of Free Will](http://libgen.is/book/index.php?md5=0D98029B92814E72172E47AB4956C861)
+* [Ich denke, also will ich: Philosophie des freien Willens](http://libgen.is/book/index.php?md5=5083FDA578AC337D0E4EB679C58F6FF8)
+* [драйв (UK)](https://vk.com/wall-55985842_18948)

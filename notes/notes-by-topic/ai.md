@@ -1,22 +1,13 @@
 # AI
-
-https://github.com/stitionai/devika
-
-[What Is A Transformer?](https://www.youtube.com/watch?v=wjZofJX0v4M) 3b1b
-
-https://thegradient.pub/mamba-explained/ 
-
-https://github.com/gptscript-ai/gptscript
-
-https://github.com/OpenInterpreter/open-interpreter
-
-https://github.com/thinkany-ai/rag-search 
-
-https://github.com/jasonppy/VoiceCraft
-
-https://github.com/semanser/codel
-
-https://theaibreakdown.beehiiv.com/
+* https://github.com/stitionai/devika
+* [What Is A Transformer?](https://www.youtube.com/watch?v=wjZofJX0v4M) 3b1b
+* https://thegradient.pub/mamba-explained/ 
+* https://github.com/gptscript-ai/gptscript
+* https://github.com/OpenInterpreter/open-interpreter
+* https://github.com/thinkany-ai/rag-search 
+* https://github.com/jasonppy/VoiceCraft
+* https://github.com/semanser/codel
+* https://theaibreakdown.beehiiv.com/
 ai  [https://www.jaided.ai/easyocr/documentation/](https://www.jaided.ai/easyocr/documentation/)
 ai : knowledge assimilation - how to quantify and formulate the concept of surprise?
 ai AL and Ethics

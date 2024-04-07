@@ -1,41 +1,25 @@
 - category__window_managers
   - i3
-
   - hyprland
-
   - dwm
-
   - awesome
-
 
 - category__terminal_emulators
   - kitty
 
-
   - wezterm
-
   - st
-
   - alacritty
-
 - category__desktop_meta_nonwm
   - picom
 
-
 - category__in_terminal
   - neovim
-
   - vim
-
 
 - category__browser_gui
   - qutebrowser
-
   - vieb
-
   - luakit
-
-
 - category__document_reader
   - zathura
-

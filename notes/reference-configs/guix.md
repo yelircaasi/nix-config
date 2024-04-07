@@ -41,7 +41,7 @@
 - [nicolas-graves](https://github.com/nicolas-graves/dotfiles)
 - [pusherofbrooms](https://github.com/pusherofbrooms/guix-config)
 - [ray1729](https://github.com/ray1729/guix-config)
-- [rde](https://git.sr.ht/~abcdw/rde) ********* [gh mirror](https://github.com/abcdw/rde)
+- [rde](https://git.sr.ht/~abcdw/rde) ***** [gh mirror](https://github.com/abcdw/rde)
 - [reallanta](https://github.com/RealLanta/guix-config)
 - [ryan4yin](https://github.com/ryan4yin/guix-config)
 - [see XADE](https://codeberg.org/XADE) in Nix configs

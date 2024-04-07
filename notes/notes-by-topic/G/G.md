@@ -57,16 +57,14 @@ Gli origini del sexismo
 - abuso
 list dilemmas (instinct vs. welfare) that are our evolutionary inheritance
 économie du travail, capital humain et la philosophie de l'éducation
-- -> основы педагогики
-http://fee.org/articles/networks-topple-scientific-dogma/
+- -> основы педагогики* http://fee.org/articles/networks-topple-scientific-dogma/
 3 Factors are making it harder to publish erroneous studies:
 Intrepid experts doing follow-up work
 More intense competition among scientists
 Amateurs getting more involved and checking
 Peer review can perpetuate groupthink, the cartelization of knowledge, and the compounding of biases.
 Expert opinion is often the result of a close, exclusive group. Relying on authority is necessary in a specialized world to a certain degree, but we should gnerally question authority.
-An “army” of networked people, including amateurs, is ideal for bringing about a paradigm shift.
-[Why Most Published Research Findings are False](http://robotics.cs.tamu.edu/RSS2015NegativeResults/pmed.0020124.pdf)
+An “army” of networked people, including amateurs, is ideal for bringing about a paradigm shift.* [Why Most Published Research Findings are False](http://robotics.cs.tamu.edu/RSS2015NegativeResults/pmed.0020124.pdf)
 Какие имеются научные объяснения закона убывающей предельной полезности? (B4)
 - неврология дофаминовых рецепторов, насыщение - что определяет когда появится опять желание/нужда?
 Why are we attracted to muscular, fit bodies? Or what are the benefits of athleticism? (B1)
@@ -202,7 +200,7 @@ Is it possible for two wrongs (such as irresponsible sex and abortion) to make a
 Many artists, perhaps even the majority, are tortured individuals. Which is the cause and which is the effect? Does the causal relationship go both ways? Is imbalance the greatest cause of unhappiness artists?
 Why is pornography so addictive and epidemic when physical sexual activity (as opposed to visual or mental stimulation) is (reportedly) more gratifying and pleasurable?
 ¿A cuales preguntas economía puede reponder? ¿Cuales peguntas estan todavia abiertas?
-**Modernism:**
+Modernism:
 - sense of alienation and existential anxiety in a world that increasingly favors collectivity
 - “How can I contribute positively to the whole while retaining my own sense of self?”
 - Is an autnomous identity even possible?
@@ -211,26 +209,23 @@ Why is pornography so addictive and epidemic when physical sexual activity (as o
 - complete nihilism, or perhaps merely accepting alternative views as valid
 - indeterminacy of modernist narratives symbolized resistance to reductivism: meaning does emerge, but less directly
 - ambiguity = richness → limitless interpretative possibilities
-Lebenszyklus: Was machen wann? Warum? Wir ordnet man optimal seine Selbstbildung? Wie erreicht man ein Gleichgewicht?
-[Die Blaue Hand](https://www.youtube.com/channel/UC2jpCDc1dESIZQj1D_guwZg)
+Lebenszyklus: Was machen wann? Warum? Wir ordnet man optimal seine Selbstbildung? Wie erreicht man ein Gleichgewicht?* [Die Blaue Hand](https://www.youtube.com/channel/UC2jpCDc1dESIZQj1D_guwZg)
 Forscher, die ich nachahmen will / gute Beispiele:
 learn "zone of appropriateness"
 find balance between self and culture
 Какие в жизни базовые потребости?
-History of Sex in the United States
-https://artsdorient.com/
+History of Sex in the United States* https://artsdorient.com/
 The 5000 Year Leap: A Miracle That Changed the World
 The Heavens Are Open
 On Murder Considered as One of the Fine Arts
 origins and determinants of opinion
-[1001 Inventions: Muslim Heritage](https://b-ok.cc/book/3706548/b8a892)
+* [1001 Inventions: Muslim Heritage](https://b-ok.cc/book/3706548/b8a892)
 Human Universals (Brown)
 Destiny Disrupted
----
 Nietzsche - der letzte Mensch
 Meinungs vershiedenheiten zwischen Menschen und ihre Urspr"unge
 Inherente "Besonderheit" und Selbstbild (Identit"at) der Menschen, die wesentlich anders sehen und eine groBe Idee Bef"urworten
-**Подкаст Бі-Бі-Сі про тотожність**
+Подкаст Бі-Бі-Сі про тотожність
 Коли зустрічаються дві людини, зустрічаються водночас шість: особи як бачать самі себе, особи як бачать самі себе й особи як спражнє є.
 Люди часто тримаються суперечливих тотожностей.
 Тотожність є центральний пошук у житті всіх.
@@ -373,8 +368,7 @@ Russian film Leviathan
 Snowden Affair
 How much has the refugee crisis increased human trafficking?
 Which states transfer the most money to which states?
-Make a list of questions for clear and thorough analysis of situaations and choices.
-http://www.keepright.net/17points.htm
+Make a list of questions for clear and thorough analysis of situaations and choices.* http://www.keepright.net/17points.htm
 ФСБ
 замерзшие конфликты
 Путиновская доктрина
@@ -404,11 +398,8 @@ Problems from too little morality:
 8. Information asymmetry
 9. Wrist-slap penalties
 10. Inequality
----
-insidious onset
-http://www.effectivethinking.org/2012/01/the-effective-thinking-blog/
-mori
-http://www.psychologos.ru/articles/view/kak_delat_svoe_myshlenie_chetkim_i_osmyslennym_vop_zn_
+insidious onset* http://www.effectivethinking.org/2012/01/the-effective-thinking-blog/
+mori* http://www.psychologos.ru/articles/view/kak_delat_svoe_myshlenie_chetkim_i_osmyslennym_vop_zn_
 Idea Notes Fall 2015
 Outsmarting Your Biases (HBR May 2015, 65-71)
 - distinction between System 1 and System 2 (impulsive vs. rational thinking)
@@ -526,19 +517,18 @@ language for specific (practical) purposes
 allowing risk-taking behavior
 rewarding innovation and creativity
 Good checklist for intrinsically-motivated learning activities:
-- **Does the technique appeal to the genuine interests of your students? Is it relevant to their lives?**
-- **Do you present the technique in a positive, enthusiastic manner?**
-- **Are the students clearly aware of the purpose of the technique?**
-- **Do students have some choice in:**
-**a) choosing some aspect of the technique?**
-**b)Determining how they go about fulfilling the goals of the technique?**
-- **Does the technique encourage students to discover for themselves certain principles or rules (rather than simply being “told”?)**
-- **Does it encourage students in some way to develop or use effective strategies of learning and communication?**
-- **Does it contribute – at least to some extent- to students’ ultimate autonomy and independence (from you)**
-- **Does it foster cooperative negotiation with other students in the class? Is it truly interactive?**
-- **Does the technique present a “reasonable challenge”?**
-- **Do students receive sufficient feedback on their performance (from each other or from you)**
-https://hbr.org/2016/03/learning-to-learn
+- Does the technique appeal to the genuine interests of your students? Is it relevant to their lives?
+- Do you present the technique in a positive, enthusiastic manner?
+- Are the students clearly aware of the purpose of the technique?
+- Do students have some choice in:
+a) choosing some aspect of the technique?
+b)Determining how they go about fulfilling the goals of the technique?
+- Does the technique encourage students to discover for themselves certain principles or rules (rather than simply being “told”?)
+- Does it encourage students in some way to develop or use effective strategies of learning and communication?
+- Does it contribute – at least to some extent- to students’ ultimate autonomy and independence (from you)
+- Does it foster cooperative negotiation with other students in the class? Is it truly interactive?
+- Does the technique present a “reasonable challenge”?
+- Do students receive sufficient feedback on their performance (from each other or from you)* https://hbr.org/2016/03/learning-to-learn
 Becoming good at learning on your feet requires 4 skils:
 aspiriation - think positively about learning, envision benefits
 self-awareness - know your weaknesses and failings, ad let it motivate you
@@ -547,14 +537,12 @@ vulnerability - accept being bad at something when you begin; be willing to take
 Drive by Daniel Pink - the 3 most powerful motivators:
 1) The prospect of mastery
 2) Autonomy
-3) Purpose
-http://www.forbes.com/sites/erikaandersen/2013/03/09/the-secret-to-getting-really-really-good-at-something/
+3) Purpose* http://www.forbes.com/sites/erikaandersen/2013/03/09/the-secret-to-getting-really-really-good-at-something/
 The will to master is natural. What stops us:
 The discomfort of learning
 Doubt in our ability to master the material.
-The key lies in our assumptions about ourselves and the process.
-[http://www.smithsonianmag.com/innovation/why-are-finlands-schools-successful-49859555/?no-ist - Finnish Educators do whatever it takes to ensure that children succeed. Education is geared toward preparing children for the real world. The human element is more important than statistics. Teacher competition and data-driven analysis are not the Finnish way.](http://www.smithsonianmag.com/innovation/why-are-finlands-schools-successful-49859555/?no-ist)
-[http://en.wikipedia.org/wiki/Education_in_Finland - Characterisitics of Finnish Education:](http://en.wikipedia.org/wiki/Education_in_Finland)
+The key lies in our assumptions about ourselves and the process.* [http://www.smithsonianmag.com/innovation/why-are-finlands-schools-successful-49859555/?no-ist - Finnish Educators do whatever it takes to ensure that children succeed. Education is geared toward preparing children for the real world. The human element is more important than statistics. Teacher competition and data-driven analysis are not the Finnish way.](http://www.smithsonianmag.com/innovation/why-are-finlands-schools-successful-49859555/?no-ist)
+* [http://en.wikipedia.org/wiki/Education_in_Finland - Characterisitics of Finnish Education:](http://en.wikipedia.org/wiki/Education_in_Finland)
 - equal basic education for all
 - fully subsidized school lunch for all
 - highly competent teachers
@@ -576,8 +564,7 @@ The key lies in our assumptions about ourselves and the process.
 - no high-stakes tests
 - free transportation and student healthcare
 - “Free Education” for anyone who imply wants to take a course to learn
-[https://www.youtube.com/watch?v=VhH78NnRpp0&list=PLzsi_E489-gUXFVuciYEgO3AyrPMVAjxP -](https://www.youtube.com/watch?v=VhH78NnRpp0&list=PLzsi_E489-gUXFVuciYEgO3AyrPMVAjxP)
-http://www.businessinsider.com/finland-education-school-2011-12#there-is-only-one-mandatory-standardized-test-in-finland-taken-when-children-are-16-4
+* [https://www.youtube.com/watch?v=VhH78NnRpp0&list=PLzsi_E489-gUXFVuciYEgO3AyrPMVAjxP -](https://www.youtube.com/watch?v=VhH78NnRpp0&list=PLzsi_E489-gUXFVuciYEgO3AyrPMVAjxP)* http://www.businessinsider.com/finland-education-school-2011-12#there-is-only-one-mandatory-standardized-test-in-finland-taken-when-children-are-16-4
 - Only one standardized exam at 16
 - Finland spends about 30% less per student than the United States
 - 66% college attendance
@@ -591,8 +578,8 @@ http://www.businessinsider.com/finland-education-school-2011-12#there-is-only-on
 - salary on par with that of other college graduates
 - no merit pay or teachers
 - teachers effectively have the same status as doctors and lawyers
-[http://www.oph.fi/english/education_system - Official insider description](http://www.oph.fi/english/education_system)
-[http://starylev.com.ua/club/article/7-pryncypiv-finskoyi-osvity - 7 принципів:](http://starylev.com.ua/club/article/7-pryncypiv-finskoyi-osvity)
+* [http://www.oph.fi/english/education_system - Official insider description](http://www.oph.fi/english/education_system)
+* [http://starylev.com.ua/club/article/7-pryncypiv-finskoyi-osvity - 7 принципів:](http://starylev.com.ua/club/article/7-pryncypiv-finskoyi-osvity)
 рівність
 безкоштовність
 індивідуальний підхід
@@ -614,332 +601,182 @@ pursuing happiness
 ?Cómo es el sistema educacional en Holandia?
 ## Other
 - people
-    
-    [Ian Morris](http://libgen.is/search.php?&req=Ian+Morris&phrase=1&view=simple&column=author&sort=year&sortmode=DESC)
-    
-    https://timjackson.org.uk/
-    
-    Джефри Горер
-    
-    Светлана Лурье
-    
-    Michael Novak
-    
-    Luigi Taparelli
-    
-    [Lancelot Hogben - Wikipedia](https://en.wikipedia.org/wiki/Lancelot_Hogben)
-    
-    **[ORIVEL François - Auteurs - Canal-U](https://www.canal-u.tv/auteurs/orivel_francois/videos#element_2)**
-    
-    **[ulrich steinvorth](https://libgen.is/search.php?req=ulrich+steinvorth&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)**
-    
+* [Ian Morris](http://libgen.is/search.php?&req=Ian+Morris&phrase=1&view=simple&column=author&sort=year&sortmode=DESC)
+* https://timjackson.org.uk/
+* Джефри Горер
+* Светлана Лурье
+* Michael Novak
+* Luigi Taparelli
+* [Lancelot Hogben - Wikipedia](https://en.wikipedia.org/wiki/Lancelot_Hogben)
+* [ORIVEL François - Auteurs - Canal-U](https://www.canal-u.tv/auteurs/orivel_francois/videos#element_2)
+* [ulrich steinvorth](https://libgen.is/search.php?req=ulrich+steinvorth&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)* 
 
 - Books
-    
-    Дьявол - Минуа
-    
-    Les relations paradoxales entre état et liberté
-    
-    Капитализмы поневоле
-    
-    Доверие - основа общества
-    
-    Сравнительная политика
-    
-    Нациоолнализм - Як
-    
-    Dissent on Core Beliefs
-    
-    Stress in the Modern World
-    
-    The Order of Public Reason
-    
-    A Nazi Legacy
-    
-    The Opposite of Hate
-    
-    Демократия - Канфора
-    
-    Понять империю
-    
-    Cognitive Gadgets
-    
-    Europe - Normal Davies
-    
-    Religion in Human Evolution
-    
-    Status Anxiety
-    
-    The Evolution of Money
-    
-    La constitution, Representing Communities
-    
-    Culture Matters
-    
-    Internationalization of Higher Education
-    
-    A Culture of Growth
-    
-    Policing and Punishment in London
-    
-    Before the Bobbies
-    
-    Complete Infidel's Guide to ISIS
-    
-    Culture Matters
-    
-    The Laws of Human Nature
-    
-    Black Mass, False Dawn → references
-    
-    Креативный класс - Ричард Флорида
-    
-    Идея культуры - Иглтон
-    
-    [Encyclopedia of World Trade From Ancient Times to the Present (4 Volumes Set).pdf](https://vk.com/doc348852382_487146325?hash=25c772f48f18955aab&dl=187a358363bc3de498)
-    
-    Метаморфозы власти
-    
-    Европа перед катастрофой
-    
-    Как миграция меняет наш мир
-    
-    Социологика политика
-    
-    Краткая история пьянства
-    
-    Электронные деньги
-    
-    Мифологическое мышление и символическое потребление
-    
-    История проституции
-    
-    Политические сети
-    
-    Иран во втором десятилетии
-    
-    Что такое маскулинность
-    
-    Осознанное неподчинение
-    
-    Как избежать ресурсного проклятия
-    
-    Империи: логика господства над миром
-    
-    О господстве Бурье
-    
-    Потребление как символический процесс
-    
-    Биология добра и зла
-    
-    Психология города
-    
-    Деиндивидуализация
-    
-    Промывка мозгов
-    
-    Секс в человеческой любви
-    
-    Промискуитет и современное общество
-    
-    Ислам после коммунизма
-    
-    Ген власти
-    
-    О природе человека
-    
-    Мораль и разум
-    
-    Україна з неба
-    
-    Гіркі жнива
-    
-    Культурный конструкт
-    
-    Мудрость толпы
-    
-    Правда - Макдоналд
-    
-    Die autoritäre Revolte
-    
-    Россия и душа Востока
-    
-    [The Psychology of Money](https://vk.com/doc44301783_609162238?hash=2b5ec47cb9910fb3f3&dl=6d3e412ee711cbc9c4)
-    
-    [Pornografia del terrorismo](http://library.lol/main/E66A62CF94631D72856679BAB9CCAEA3)
-    
-    [Языковая политика, конфликты и согласие / Отв. ред. Е.И. Филиппова, С.В. Соколовский.](https://vk.com/video?w=wall-154516093_63995)
-    
-    https://it.wikipedia.org/wiki/Mircea_Eliade
-    
-    [Alcohol Textbook](http://libgen.is/book/index.php?md5=3149374AED2B1783A4BAF45F1960D9D4)
-    
-    [http://libgen.rs/search.php?req=Маслов+Алексей+&open=0&res=25&view=simple&phrase=1&column=def](http://libgen.rs/search.php?req=%D0%9C%D0%B0%D1%81%D0%BB%D0%BE%D0%B2+%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9+&open=0&res=25&view=simple&phrase=1&column=def)
-    
-    [https://ru.wikipedia.org/wiki/Маслов,_Алексей_Александрович](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%BB%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87)
-    
-    [Заклятые друзья. История мнений, фантазий, контактов, взаимо(не)понимания России и США](https://vk.com/wall-80080904_12167)
-    
-    [Beликий уравнитель — Вальтер Шайдель](https://vk.com/wall-154516093_63668)
-    
-    [Why society is a complex matter: meeting 21st century challenges with a new kind of science](http://library.lol/main/99E6E6054A7CB9812D19BBF2D7324159)
-    
-    - ****‘The Intellectual Life of the British Working Classes’ by Jonathan Rose | Ceasefire Magazine**
-    
-    [Inmates Are Running the Asylum, The: Why High-Tech Products Drive Us Crazy and How to Restore the Sanity](https://de1lib.org/book/2166397/a3da57)
-    
-    [Library Genesis: Daniel L. Everett - Dark Matter of the Mind: The Culturally Articulated Unconscious](http://libgen.rs/book/index.php?md5=0444919A1AAE81C63F182D454E05073B)
-    
-    [Library Genesis: Daniel L. Everett - Linguagem: A história da maior invenção da humanidade](http://libgen.rs/book/index.php?md5=D6D7D291D0D52F70AEEFDCA6B3223BE3)
-    
-    best novels on apocalyptic climate change
-    
-    http://libgen.rs/search.php?&req=capitalism&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
-    
-    Israel: A Simple Guide to the Most Misunderstood Country on Earth
-    
-    [На этот раз все будет иначе. Восемь столетий финансового безрассудства](https://vk.com/wall-154516093_63092)
-    
-    [(PDF) Virtual And Immortal Human Or Sunset Of The Homo Sapiens Civilization](https://www.researchgate.net/publication/351921070_Virtual_And_Immortal_Human_Or_Sunset_Of_The_Homo_Sapiens_Civilization)
-    
-    [Happycratie](https://b-ok.cc/book/5484660/ce2547)
-    
-    [NL hist & cult](https://vk.com/wall-56611080_78794)
-    
-    [§ 1 Світогляд людини, його суть, структура та історичні типи](http://library.nlu.edu.ua/POLN_TEXT/4%20KURS/4/1/01H1R1_1.htm)
-    
-    [Juegos en que participamos: Psicología de las relaciones humanas](https://b-ok.cc/book/3553261/9f059c)
-    
-    Ein neues Menschenbild?
-    
-    **Fabrikarbeit und Familienleben - Anno 1914, Tag 2 - YouTube**
-    
-    **[Blue Collar Intellectuals: When the Enlightened and the Everyman Elevated America: Daniel J. Flynn: 9781610170208: Amazon.com: Books](https://www.amazon.com/Blue-Collar-Intellectuals-Enlightened-Everyman/dp/1610170202)**
-    
-    **Review: The Intellectual Life of the British Working Classes by Jonathan Rose | Books | The Guardian**
-    
-    **[Dzhared_M_Daymond_-_Pochemu_nam_tak_nravitsya_sex_-_2013.pdf](https://vk.com/doc30601958_450774125?hash=3aa17729da5139045a&dl=810e3ca1800769885e)**
-    
+* Дьявол - Минуа
+* Les relations paradoxales entre état et liberté
+* Капитализмы поневоле
+* Доверие - основа общества
+* Сравнительная политика
+* Нациоолнализм - Як
+* Dissent on Core Beliefs
+* Stress in the Modern World
+* The Order of Public Reason
+* A Nazi Legacy
+* The Opposite of Hate
+* Демократия - Канфора
+* Понять империю
+* Cognitive Gadgets
+* Europe - Normal Davies
+* Religion in Human Evolution
+* Status Anxiety
+* The Evolution of Money
+* La constitution, Representing Communities
+* Culture Matters
+* Internationalization of Higher Education
+* A Culture of Growth
+* Policing and Punishment in London
+* Before the Bobbies
+* Complete Infidel's Guide to ISIS
+* Culture Matters
+* The Laws of Human Nature
+* Black Mass, False Dawn → references
+* Креативный класс - Ричард Флорида
+* Идея культуры - Иглтон
+* [Encyclopedia of World Trade From Ancient Times to the Present (4 Volumes Set).pdf](https://vk.com/doc348852382_487146325?hash=25c772f48f18955aab&dl=187a358363bc3de498)
+* Метаморфозы власти
+* Европа перед катастрофой
+* Как миграция меняет наш мир
+* Социологика политика
+* Краткая история пьянства
+* Электронные деньги
+* Мифологическое мышление и символическое потребление
+* История проституции
+* Политические сети
+* Иран во втором десятилетии
+* Что такое маскулинность
+* Осознанное неподчинение
+* Как избежать ресурсного проклятия
+* Империи: логика господства над миром
+* О господстве Бурье
+* Потребление как символический процесс
+* Биология добра и зла
+* Психология города
+* Деиндивидуализация
+* Промывка мозгов
+* Секс в человеческой любви
+* Промискуитет и современное общество
+* Ислам после коммунизма
+* Ген власти
+* О природе человека
+* Мораль и разум
+* Україна з неба
+* Гіркі жнива
+* Культурный конструкт
+* Мудрость толпы
+* Правда - Макдоналд
+* Die autoritäre Revolte
+* Россия и душа Востока
+* [The Psychology of Money](https://vk.com/doc44301783_609162238?hash=2b5ec47cb9910fb3f3&dl=6d3e412ee711cbc9c4)
+* [Pornografia del terrorismo](http://library.lol/main/E66A62CF94631D72856679BAB9CCAEA3)
+* [Языковая политика, конфликты и согласие / Отв. ред. Е.И. Филиппова, С.В. Соколовский.](https://vk.com/video?w=wall-154516093_63995)
+* https://it.wikipedia.org/wiki/Mircea_Eliade
+* [Alcohol Textbook](http://libgen.is/book/index.php?md5=3149374AED2B1783A4BAF45F1960D9D4)
+* [http://libgen.rs/search.php?req=Маслов+Алексей+&open=0&res=25&view=simple&phrase=1&column=def](http://libgen.rs/search.php?req=%D0%9C%D0%B0%D1%81%D0%BB%D0%BE%D0%B2+%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9+&open=0&res=25&view=simple&phrase=1&column=def)
+* [https://ru.wikipedia.org/wiki/Маслов,_Алексей_Александрович](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%BB%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87)
+* [Заклятые друзья. История мнений, фантазий, контактов, взаимо(не)понимания России и США](https://vk.com/wall-80080904_12167)
+* [Beликий уравнитель — Вальтер Шайдель](https://vk.com/wall-154516093_63668)
+* [Why society is a complex matter: meeting 21st century challenges with a new kind of science](http://library.lol/main/99E6E6054A7CB9812D19BBF2D7324159)
+* - **‘The Intellectual Life of the British Working Classes’ by Jonathan Rose | Ceasefire Magazine
+* [Inmates Are Running the Asylum, The: Why High-Tech Products Drive Us Crazy and How to Restore the Sanity](https://de1lib.org/book/2166397/a3da57)
+* [Library Genesis: Daniel L. Everett - Dark Matter of the Mind: The Culturally Articulated Unconscious](http://libgen.rs/book/index.php?md5=0444919A1AAE81C63F182D454E05073B)
+* [Library Genesis: Daniel L. Everett - Linguagem: A história da maior invenção da humanidade](http://libgen.rs/book/index.php?md5=D6D7D291D0D52F70AEEFDCA6B3223BE3)
+* best novels on apocalyptic climate change
+* http://libgen.rs/search.php?&req=capitalism&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+* Israel: A Simple Guide to the Most Misunderstood Country on Earth
+* [На этот раз все будет иначе. Восемь столетий финансового безрассудства](https://vk.com/wall-154516093_63092)
+* [(PDF) Virtual And Immortal Human Or Sunset Of The Homo Sapiens Civilization](https://www.researchgate.net/publication/351921070_Virtual_And_Immortal_Human_Or_Sunset_Of_The_Homo_Sapiens_Civilization)
+* [Happycratie](https://b-ok.cc/book/5484660/ce2547)
+* [NL hist & cult](https://vk.com/wall-56611080_78794)
+* [§ 1 Світогляд людини, його суть, структура та історичні типи](http://library.nlu.edu.ua/POLN_TEXT/4%20KURS/4/1/01H1R1_1.htm)
+* [Juegos en que participamos: Psicología de las relaciones humanas](https://b-ok.cc/book/3553261/9f059c)
+* Ein neues Menschenbild?
+* Fabrikarbeit und Familienleben - Anno 1914, Tag 2 - YouTube
+* [Blue Collar Intellectuals: When the Enlightened and the Everyman Elevated America: Daniel J. Flynn: 9781610170208: Amazon.com: Books](https://www.amazon.com/Blue-Collar-Intellectuals-Enlightened-Everyman/dp/1610170202)
+* Review: The Intellectual Life of the British Working Classes by Jonathan Rose | Books | The Guardian
+* [Dzhared_M_Daymond_-_Pochemu_nam_tak_nravitsya_sex_-_2013.pdf](https://vk.com/doc30601958_450774125?hash=3aa17729da5139045a&dl=810e3ca1800769885e)* 
 
 Ruut Veenhoven
 
 Yi-Fu Tuan, Geograf
 
 Es gibt kein persönliches Glück. Jegliches Glück gründet sich auf die Beziehungen zu anderen.
+* [eric weiner](http://libgen.is/search.php?req=Eric+weiner&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def) 
+* [лингвистика](http://libgen.io/search.php?&req=%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+* [Advertising and Society](http://libgen.io/search.php?req=advertising+society&open=0&res=25&view=simple&phrase=1&column=def)
 
-[eric weiner](http://libgen.is/search.php?req=Eric+weiner&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def) 
-
-[лингвистика](http://libgen.io/search.php?&req=%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
-
-[Advertising and Society](http://libgen.io/search.php?req=advertising+society&open=0&res=25&view=simple&phrase=1&column=def)
-
-
-https://periscopic.com/#!/impacts 
+* https://periscopic.com/#!/impacts 
 
 Brandolini s Law
-
-[Цифрова залежність - допамін для бідних. - YouTube](https://www.youtube.com/watch?v=P8Aq0OgZpsI)
-
-[Le Dessous des Cartes - ARTE](https://youtube.com/@LeDessousdesCartesARTE)
+* [Цифрова залежність - допамін для бідних. - YouTube](https://www.youtube.com/watch?v=P8Aq0OgZpsI)
+* [Le Dessous des Cartes - ARTE](https://youtube.com/@LeDessousdesCartesARTE)
 
 Welt Almanach und Atlas 2021
 
 Théorie des jeux — Wikipédia
-
-[Казахстан: обнуление, пенсионная реформа и лидер нации | Нур-Султан, Байконур и ядерный полигон](https://youtu.be/FdlLASue4GE)
-
-[How America Got Hooked On Useless Corporate Consulting](https://youtu.be/fu6x6dy7oKA)
-
-https://www.deutschland.de/de
+* [Казахстан: обнуление, пенсионная реформа и лидер нации | Нур-Султан, Байконур и ядерный полигон](https://youtu.be/FdlLASue4GE)
+* [How America Got Hooked On Useless Corporate Consulting](https://youtu.be/fu6x6dy7oKA)
+* https://www.deutschland.de/de
 
 - Book Idea: The West
-    
-    Chapter 1: Who Cares? Why the Concept of the West Matters
-    
-    Chapter 2: Since When? A History of the Conception of “The West”
-    
-    Chapter3: As Opposed to What?
-    
-    Chapter 4: Pro: The Strongest Case for the West
-    
-    Chapter5: Contra: The Strongest Case against the West
-    
-    Chapter 6: Cui Bono? Understanding Who Benefits from Dishonest Definitions
-    
-    Chapter 7: A Better Way: Ideas for a More Precise Terminology
-    
-- **[**http://www.socialsciencespace.com/about-socialsciencebites/](http://www.socialsciencespace.com/about-socialsciencebites/)**
-
-**http://nl.in-mind.org/**
+* Chapter 1: Who Cares? Why the Concept of the West Matters
+* Chapter 2: Since When? A History of the Conception of “The West”
+* Chapter3: As Opposed to What?
+* Chapter 4: Pro: The Strongest Case for the West
+* Chapter5: Contra: The Strongest Case against the West
+* Chapter 6: Cui Bono? Understanding Who Benefits from Dishonest Definitions
+* Chapter 7: A Better Way: Ideas for a More Precise Terminology* 
+- [http://www.socialsciencespace.com/about-socialsciencebites/](http://www.socialsciencespace.com/about-socialsciencebites/)**
+* http://nl.in-mind.org/
 
 power laws
-
-[How to understand power - Eric Liu - YouTube](https://www.youtube.com/watch?v=c_Eutci7ack)
+* [How to understand power - Eric Liu - YouTube](https://www.youtube.com/watch?v=c_Eutci7ack)
 
 → How to define rationality and value?
 
 Was macht einen einzelnen Menschen aus?
-
-https://ourworldindata.org/
+* https://ourworldindata.org/
 
 network effects
-
-[Soziale Institutionen zwischen Markt und Moral: Führungs- und Handlungskontexte](http://library.lol/main/10D90BB2565137298CD73D414DCC76B8)
-
-[http://www.bitbybitbook.com/en/preface/](http://www.bitbybitbook.com/de/preface/) ***
+* [Soziale Institutionen zwischen Markt und Moral: Führungs- und Handlungskontexte](http://library.lol/main/10D90BB2565137298CD73D414DCC76B8)
+* [http://www.bitbybitbook.com/en/preface/](http://www.bitbybitbook.com/de/preface/) ***
 
 - 1s video / audio
-    
-    [El lado oscuro de Disney](http://library.lol/main/94B5EA262E29CF6DF61DCF210086233C)
-    
-    [Senegal: el paraíso sexual de las abuelas europeas | Sinfiltros.com - YouTube](https://www.youtube.com/watch?v=zjwXmk6sS_4)
-    
-    [Studie zum DDR-Leistungssport - "Was da zutage kommt, ist ziemlich erschütternd" (Archiv)](https://www.deutschlandfunkkultur.de/studie-zum-ddr-leistungssport-was-da-zutage-kommt-ist.966.de.html?dram:article_id=374245)
-    
-    [Yuval Harari on Sapiens - Econlib](http://www.econtalk.org/yuval-harari-on-sapiens/)
-    
-    **[L Histoire au Quotidien La vie à l époque de Louis XIV HD 720p - YouTube](https://www.youtube.com/watch?v=zfZcNl49_IA)**
-    
+* [El lado oscuro de Disney](http://library.lol/main/94B5EA262E29CF6DF61DCF210086233C)
+* [Senegal: el paraíso sexual de las abuelas europeas | Sinfiltros.com - YouTube](https://www.youtube.com/watch?v=zjwXmk6sS_4)
+* [Studie zum DDR-Leistungssport - "Was da zutage kommt, ist ziemlich erschütternd" (Archiv)](https://www.deutschlandfunkkultur.de/studie-zum-ddr-leistungssport-was-da-zutage-kommt-ist.966.de.html?dram:article_id=374245)
+* [Yuval Harari on Sapiens - Econlib](http://www.econtalk.org/yuval-harari-on-sapiens/)
+* [L Histoire au Quotidien La vie à l époque de Louis XIV HD 720p - YouTube](https://www.youtube.com/watch?v=zfZcNl49_IA)* 
 - 1s reading
-    
-    [Почему люди ведут себя как придурки — Нож](https://knife.media/types-of-people/)
-    
-    [Varanasi – Store norske leksikon](https://snl.no/Varanasi)
-    
-    [How to Fix American Stupidity | Time](https://time.com/4937675/how-to-fix-american-stupidity/)
-    
-    https://mathoverflow.net/questions/175847/how-does-one-justify-funding-for-mathematics-research
-    
-    [Wholesome, witty and woke: The unproblematic comedy of John Mulaney | The Spinoff](https://thespinoff.co.nz/tv/27-01-2020/wholesome-witty-and-woke-the-unproblematic-comedy-of-john-mulaney/)
-    
-    [Doping: DDR - Sport - Gesellschaft - Planet Wissen](https://www.planet-wissen.de/gesellschaft/sport/doping_gefaehrliche_mittel/pwiedopinginderddr100.html)
-    
-    **[Bullismo e cyberbullismo, vicini nel dolore ma diversi nella grammatica - Wired](https://www.wired.it/play/libri/2018/09/26/bullismo-cyberbullismo-grammatica/)**
-    
+* [Почему люди ведут себя как придурки — Нож](https://knife.media/types-of-people/)
+* [Varanasi – Store norske leksikon](https://snl.no/Varanasi)
+* [How to Fix American Stupidity | Time](https://time.com/4937675/how-to-fix-american-stupidity/)
+* https://mathoverflow.net/questions/175847/how-does-one-justify-funding-for-mathematics-research
+* [Wholesome, witty and woke: The unproblematic comedy of John Mulaney | The Spinoff](https://thespinoff.co.nz/tv/27-01-2020/wholesome-witty-and-woke-the-unproblematic-comedy-of-john-mulaney/)
+* [Doping: DDR - Sport - Gesellschaft - Planet Wissen](https://www.planet-wissen.de/gesellschaft/sport/doping_gefaehrliche_mittel/pwiedopinginderddr100.html)
+* [Bullismo e cyberbullismo, vicini nel dolore ma diversi nella grammatica - Wired](https://www.wired.it/play/libri/2018/09/26/bullismo-cyberbullismo-grammatica/)* 
 - Media, Resources, Orgs
-    
-    http://www.collectionreperes.com/
-    
-
-**[James Williams: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/g/James%20Williams)**
-
-**[Cass R. Sunstein](https://libgen.is/search.php?req=Cass+Sunstein&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)**
-
-**[Is Rational Choice Theory All of Social Science?](https://b-ok.cc/book/1106156/65ddb2)**
-
-**[Jared_Diamond_-_Armas_Germes_e_Aco.pdf](https://vk.com/doc448658071_468279178?hash=7f3b65fb3e16c8ed84&dl=7eaf87360ad774deea)**
-
-**[The Return of Grand Theory in the Human Sciences.pdf](https://vk.com/doc375659_510894900?hash=c2199d15e488ac3859&dl=f6ae7340bd0d069501)**
-
-**http://www.jareddiamond.org/Jared_Diamond/My_Books.html**
-
-**[The Action Research Planner_Stephen Kemmis, Robin McTaggart, Rhonda Nixon_2014](http://link.springer.com/openurl?genre=book&isbn=978-981-4560-67-2)**
+* http://www.collectionreperes.com/* 
+* [James Williams: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/g/James%20Williams)
+* [Cass R. Sunstein](https://libgen.is/search.php?req=Cass+Sunstein&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+* [Is Rational Choice Theory All of Social Science?](https://b-ok.cc/book/1106156/65ddb2)
+* [Jared_Diamond_-_Armas_Germes_e_Aco.pdf](https://vk.com/doc448658071_468279178?hash=7f3b65fb3e16c8ed84&dl=7eaf87360ad774deea)
+* [The Return of Grand Theory in the Human Sciences.pdf](https://vk.com/doc375659_510894900?hash=c2199d15e488ac3859&dl=f6ae7340bd0d069501)
+* http://www.jareddiamond.org/Jared_Diamond/My_Books.html
+* [The Action Research Planner_Stephen Kemmis, Robin McTaggart, Rhonda Nixon_2014](http://link.springer.com/openurl?genre=book&isbn=978-981-4560-67-2)
 
 On the Logic of the Social Sciences
-
-**[Джаред Даймонд](https://knigavuhe.org/author/dzhared-dajjmond/)**
-
-**[Захаров, А. В. Теория игр в общественных науках](https://vk.com/doc18158033_521946395?hash=9acb2b29715a6217c0&dl=4bfe7432b4584b6fc7)**
+* [Джаред Даймонд](https://knigavuhe.org/author/dzhared-dajjmond/)
+* [Захаров, А. В. Теория игр в общественных науках](https://vk.com/doc18158033_521946395?hash=9acb2b29715a6217c0&dl=4bfe7432b4584b6fc7)
 
 Brasiliana Itaú
 

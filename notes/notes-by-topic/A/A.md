@@ -52,7 +52,7 @@
 
 ## Áreas de estudio
 
-**B. Filosofía - el estudio del pensamiento**
+B. Filosofía - el estudio del pensamiento
 
 ****A. General
 
@@ -68,7 +68,7 @@ F. Estética - el estudio de
 
 G. Áreas especializadas - encuesta filosófica y examinación de las áreas de lenguaje, derecho, mente, religión, ciencia, historia, lógica, matemática, etc.
 
-(**Religión - el estudio de Dios y la relación con Él, así como el estudio del significado y proposito de la existencia**
+(Religión - el estudio de Dios y la relación con Él, así como el estudio del significado y proposito de la existencia
 
 A. General
 
@@ -80,9 +80,9 @@ D. Historia de la religión - el estudio cronológico de religión y de la relac
 
 E. Religión práctica - la aplicación de creancias religiosas a la vida cotidiana
 
-F. Religiones del mundo - el estudio de las varias fes y de sus instituciones y **historias)**
+F. Religiones del mundo - el estudio de las varias fes y de sus instituciones y historias)
 
-**Matemática - el estudio de cantidad, estructura, espacio, cambio, demostración (en un sentido práctico, la teoría pura subyacente a las ciencias)**
+Matemática - el estudio de cantidad, estructura, espacio, cambio, demostración (en un sentido práctico, la teoría pura subyacente a las ciencias)
 
 ****A. General
 
@@ -104,7 +104,7 @@ I. Estatistíca - el estudio de datos y inferencia
 
 J. Matemáticas superiores - ramas conteniendas resultados y análisis demostrados de las ramas demás
 
-**Ciencias naturales físicias - el estudio de realidad por medio de empiricismo, esp. lo que se refiere al mundo inanimado**
+Ciencias naturales físicias - el estudio de realidad por medio de empiricismo, esp. lo que se refiere al mundo inanimado
 
 ****A. General
 
@@ -118,7 +118,7 @@ E. Astronomía - el estudio del cosmos
 
 F. Geografía - el estudio de la tierra, esp. de sus formaciones, cuerpos de agua y regiones climáticas
 
-**Ciencias naturales biológicas - el estudio de la vida por medio de empiricismo**
+Ciencias naturales biológicas - el estudio de la vida por medio de empiricismo
 
 ****A. General
 
@@ -138,7 +138,7 @@ H. Bioquímica  - el estudio de las procesos y las estructuras químicos de org
 
 I. Neurociencia - el estudio de la función y la estructura del cerebro
 
-**Tecnología - la aplicación humana de la ciencia**
+Tecnología - la aplicación humana de la ciencia
 
 ****A. General
 
@@ -152,7 +152,7 @@ E. Medecina - el tratamiento científico de la enfermedad y otros desórdenes, a
 
 F. Fabricación - el uso de máquinas para fabricar productos
 
-**Ciencias sociales y humanas**
+Ciencias sociales y humanas
 
 ****A. General
 
@@ -170,7 +170,7 @@ G. Psicología - el estudio del pensamiento y del sentimiento humanos
 
 H. Pedagogía - el estudio de la enseñanza y del aprendizaje
 
-**Humanidades - expresión humana**
+Humanidades - expresión humana
 
 ****A. General
 
@@ -198,7 +198,7 @@ L. Atlética - el estudio de rendimiento físico y
 
 M. Danza - el estudio del movimiento y de la expresión físicos
 
-**Salúd física**
+Salúd física
 
 A. General
 
@@ -212,7 +212,7 @@ E. Fuerza - la capacidad de mover pesos y realizar cambios físicos en su ambio
 
 F. Flexibilidad - la augnebtación de su rango de moción
 
-**Práctica - aplicación diaria de conocimientos y habilidades**
+Práctica - aplicación diaria de conocimientos y habilidades
 
 ****A. General
 
@@ -232,9 +232,9 @@ H. Viaje - estudio del mundo por experencia personal
 
 I. Autoconocencia, autodesarrolla y autogerencia - estudio de sí mismo y trabajo en sí mismo, esp. en la esfera de carácter
 
-**______________________________________________________________________________**
+______________________________________________________________________________
 
-**Lista estándar (sin descripciones)**
+Lista estándar (sin descripciones)
 
 B. Filosofía
 
@@ -422,597 +422,163 @@ I. Autoconocencia, autodesarrolla y autogerencia
 
 - Sort
     
-    Norman Cohn's 1957 book The Pursuit of the Millennium.
-    
-    ---
-    
-    http://www.oxfordtoday.ox.ac.uk/opinion/forget-your-delusions-and-be-happy-advises-john-gray
-    
-    ---
-    
+    Norman Cohn's 1957 book The Pursuit of the Millennium.    * http://www.oxfordtoday.ox.ac.uk/opinion/forget-your-delusions-and-be-happy-advises-john-gray
     Malaparte 1949 The Skin
-    
-    ---
-    
     Alexander Herzen
-    
-    ---
-    
     Louis Blanc
-    
-    ---
-    
     Schopenhauer to US economist Nouriel Roubini, the poet Wallace Stevens, British historian Norman Cohn, Italian poet Giacomo Leopardi
-    
-    ---
-    
     John Cowper Powys
-    
-    ---
-    
-    ---
-    
+        
     Mme de Staël
-    
-    ---
-    
     yobs
-    
-    ---
-    
     JA Baker ornithologist
-    
-    ---
-    
     Orwell and Ballard, Herzen and Borges, Ford Madox Ford and Llewelyn Powys
-    
-    ---
-    
-    ---
-    
+        
     Straw Dogs
-    
-    ---
-    
     Jacques Monod
-    
-    ---
-    
     E.O.Wilson
-    
-    ---
-    
     James Lovelock, Gaia
-    
-    ---
-    
     Morrison
-    
-    ---
-    
     Jared Diamond
-    
-    ---
-    
     Leonard C. Lewin
-    
-    ---
-    
     Margulis
-    
-    ---
-    
     Bill Joy
-    
-    ---
-    
     Illich
-    
-    ---
-    
     Brian J. Ford
-    
-    ---
-    
     Sagan
-    
-    ---
-    
     Russell on scientific method in regard to human life
-    
-    ---
-    
     Falsifiability with Darwin and Einstein
-    
-    ---
-    
     Wallace Stevens
-    
-    ---
-    
     R.G. Collingwood
-    
-    ---
-    
     Bernd Heinrich
-    
-    ---
-    
     Cathars
-    
-    ---
-    
     Tertullian
-    
-    ---
-    
     Nietzsche
-    
-    ---
-    
     Schoenberg
-    
-    ---
-    
     de Chirico
-    
-    ---
-    
     David Hume
-    
-    ---
-    
     Kant
-    
-    ---
-    
     Schopenhauer
-    
-    ---
-    
     Lou Andreas-Salome
-    
-    ---
-    
     Piazza Carlo Alberto
-    
-    ---
-    
     Dionysus
-    
-    ---
-    
     Heidegger
-    
-    ---
-    
     “Looking for meaning in history is like looking for patterns in clouds.”
-    
-    ---
-    
     Nagarjuna
-    
-    ---
-    
     Chuang-Tzu
-    
-    ---
-    
     Jey Tsong Khapa
-    
-    ---
-    
     Averroes
-    
-    ---
-    
     Maimonides
-    
-    ---
-    
     Gelassenhiet (Heidegger)
-    
-    ---
-    
     John Aspinall
-    
-    ---
-    
     postmodernism ~ fad in anthropocentrism
-    
-    ---
-    
     Protagoras
-    
-    ---
-    
     A.C. Graham
-    
-    ---
-    
     Spinoza
-    
-    ---
-    
     Bhagavad Gita
-    
-    ---
-    
     bushido warriors, Edo Japan
-    
-    ---
-    
     halobacteria
-    
-    ---
-    
     Gaudi
-    
-    ---
-    
     N.K. Sandars
-    
-    ---
-    
     Gregory Bateson
-    
-    ---
-    
     Gunaratana
-    
-    ---
-    
     G.C. Lichtenberg
-    
-    ---
-    
     E.M. Cioran
-    
-    ---
-    
     Kark Kraus
-    
-    ---
-    
     Richard Rudgley
-    
-    ---
-    
     Havelock Ellis
-    
-    ---
-    
     Rex Warner The Aerodrome
-    
-    ---
-    
     Nikolai Federov
-    
-    ---
-    
     Tsiolovsky
-    
-    ---
-    
     J.H. Prynne
-    
-    ---
-    
     Hans Moravec
-    
-    ---
-    
     Anton Mesmer
-    
-    ---
-    
     Jean Charcot
-    
-    ---
-    
     Catal Huyuk
-    
-    ---
-    
     Guy Debord
-    
-    ---
-    
     Vaneigem
-    
-    ---
-    
     Fourier
-    
-    ---
-    
     Thomas de Quincey
-    
-    ---
-    
     Samuel Butler
-    
-    ---
-    
     Theodore Kaczynski
-    
-    ---
-    
     Mark Ward
-    
-    ---
-    
     George Dyson
-    
-    ---
-    
     Santayana
-    
-    ---
-    
     Joseph Brodsky
-    
-    ---
-    
     Sisyphus
-    
-    ---
-    
     Robert Graves
-    
-    ---
-    
-    ---
-    
+        
     Black Mass
-    
-    ---
-    
     Herman Melville - American nationalism
-    
-    ---
-    
     Arthur Koestler
-    
-    ---
-    
     Jean-Aubry
-    
-    ---
-    
     John Ashbery
-    
-    ---
-    
     Holly Stevens
-    
-    ---
-    
     Norman Lewis
-    
-    ---
-    
     Stefan Zweig
-    
-    ---
-    
     Gareth Jones
-    
-    ---
-    
     Joseph Roth
-    
-    ---
-    
     Eugene Marais
-    
-    ---
-    
     Eugene Lyons
-    
-    ---
-    
     Sebastian Haffner
-    
-    ---
-    
     Adam Fergusson
-    
-    ---
-    
     W Scheidel
-    
-    ---
-    
     F J Friesen
-    
-    ---
-    
     Frank Kermode
-    
-    ---
-    
     When Prophecy Fails
-    
-    ---
-    
     The Mind of the Moralist
-    
-    ---
-    
     Seneca - Epistles
-    
-    ---
-    
     Mark Edmundson
-    
-    ---
-    
     J.G. Ballard
-    
-    ---
-    
     Patrick Leigh Fermor
-    
-    ---
-    
     Max Picard
-    
-    ---
-    
     William Empson
-    
-    ---
-    
     Richard Jefferies
-    
-    ---
-    
     Ford Madox Ford
-    
-    ---
-    
     Alyse Gregory
-    
-    ---
-    
     Malcolm Elwyn
-    
-    ---
-    
     Georges Simenon
-    
-    ---
-    
     Beckett
-    
-    ---
-    
     The Birth of Tragedy
-    
-    ---
-    
     Robinson Jeffers
-    
-    ---
-    
     Czeslaw Milosz
-    
-    ---
-    
     Louis MacNeice
-    
-    ---
-    
-    ---
-    
+        
     Black Mass
-    
-    ---
-    
     Paul Boyer
-    
-    ---
-    
 - .
 
 Spencer W. Kimball:
 
----
-
 “Life gives to all the choice. You can satisfy yourself with mediocrity if you wish. You can be common, ordinary, dull, colorless, or you can channel your life so that it will be clean, vibrant, useful, progressive, colorful, and rich.”
-
----
-
----
 
 “The more we serve our fellowmen in appropriate ways, the more substance there is to our souls. We become more significant individuals as we serve others. We become more substantive as we serve others—indeed, it is easier to “find” ourselves because there is so much more of us to find!”
 
----
-
----
-
 “It's not possible that the problems of this world be resolved by the pesimists and sceptics whose horizons are guided by the obvious realities. We need men and women who think of things that have never been thought of and who dream of things that have never been dreamed of, and who ask, "Why not?"
-
----
-
----
 
 “Make no small plans. They have no magic to stir men's souls.”
 
----
-
----
-
 “Your life is your own, to develop or to destroy. You can blame others little and yourself almost totally if that life is not a productive, worthy, full, and abundant one.”
-
----
-
----
 
 “They who reach down into the depths of life where, in the stillness, the voice of God is heard, have the stabilizing power which carries them poised and serene through the hurricane of difficulties.”
 
----
-
----
-
 “Whoever said that sin was not fun? Whoever claimed that Lucifer was not handsome, persuasive, easy, friendly? Sin is attractive and desirable. Transgression wears elegant gowns and sparkling apparel. It is highly perfumed; it has attractive features, a soft voice. It is found in educated circles and sophisticated groups. It provides sweet and comfortable luxuries. Sin is easy and has a big company of pleasant companions. It promises immunity from restrictions, temporary freedoms. It can momentarily satisfy hunger, thirst, desire, urges, passions, wants without immediately paying the price. But, it begins tiny, and grows to monumental proportions - drop by drop, inch by inch.”
-
----
-
----
 
 “We must eliminate the individual tendency to selfishness that snares the soul, shrinks the heart, and darkens the mind.”
 
----
-
----
-
 “The abundant life begins from within and then moves outward to other individuals. If there is richness and righteousness in us, then we can make a difference in the lives of others, just as key individuals have influenced the lives of each of us for good and made us richer than we otherwise would have been.”
-
----
-
----
 
 “A highly trained scientist who is also a perfected man may eventually create a world and people it, but a dissolute unrepentant, unbelieving one will never be such a creator even in eternities.
 
----
-
----
-
 Secular knowledge, important as it may be, can never save a soul nor open the celestial kingdom nor create a world nor make a man a god, but it can be most helpful to that man who, placing first things first, has found the way to eternal life and who can now bring into play all knowledge to be his tool and servant.”
-
----
-
----
-
----
 
 Thomas Sowell
 
----
-
----
-
 From time to time, I get a letter from some aspiring young writer, asking about how to write or how to get published. My usual response is that the only way I know to become a good writer is to be a bad writer and keep on improving. However, even after you reach the point where you are writing well—and that can take many years—the battle is not over.
-
----
-
----
 
 People who want to be complimentary sometimes tell me that I have a “gift” for writing. But it is hard for me to regard as a gift something that I worked at for more than a decade—unsuccessfully—before finally breaking into print. Nor was this a case of unrecognized talent. It was a case of quickly recognized incompetence.
 
----
-
----
-
----
-
 As cited by Thomas Sowell:
-
----
-
----
 
 ...I wish that I may never think the smiles of the great and powerful a sufficient inducement to turn aside from the straight path of honesty and the convictions of my own mind.--David Ricardo1
 
@@ -1054,75 +620,47 @@ John Randolph, Collected Letters of John Randolph of Roanoke to Dr. John Brocken
 
 Jeam-Baptiste Say, An Economist in Troubled Times: Writings Selected and Translated by R. R. Palmer (Princeton: Princeton University Press, 1997), p. 154.
 
----
-
----
-
----
-
 Isaac Newton on how he arrived at his insights: “By keeping the problem constantly before my mind.”
-
----
-
----
 
 “Breakthroughs demand obsession.” - John McMillan
 
----
-
----
-
 “If I have made any valuable discoveries, it has been owing more to patient attention than to any other talent.” - Isaac Newton
-
----
 ## Alte Büchernotizen
 
 A
 
 B
-
-[Notas - How to Not Be Wrong](https://docs.google.com/document/d/1vA1GTS8Ni_0hizKrZfRlCJIQNPijn4KRQ7_oUzXCaA8/edit?usp=sharing)
+* [Notas - How to Not Be Wrong](https://docs.google.com/document/d/1vA1GTS8Ni_0hizKrZfRlCJIQNPijn4KRQ7_oUzXCaA8/edit?usp=sharing)
 
 C
 
 All of Statistics
 
 Statistics for Linguists
-
-[Notas - Прикладна економетрика / МАТЕМАТИЧНА СТАТИСТИКА](https://docs.google.com/document/d/1GeIL1sN67ekz0_qg8R2NC6mLd4_S9ebMjkCVbHPvlJ0/edit?usp=sharing)
+* [Notas - Прикладна економетрика / МАТЕМАТИЧНА СТАТИСТИКА](https://docs.google.com/document/d/1GeIL1sN67ekz0_qg8R2NC6mLd4_S9ebMjkCVbHPvlJ0/edit?usp=sharing)
 
 D
 
 E
 
 F
-
-[Vorkurs Informatik (Müller & Weichert)](https://docs.google.com/spreadsheets/d/1uBs0sM5veBZ-64xmTbi-TQs0Q3t3Kfptcc-4Sv4X9n4/edit#gid=0)
-
-[Speech and Language Processing (Martin and Jurafsky)](https://docs.google.com/spreadsheets/d/1QuIFPdJl9ZhciUuDkuKMI9msvhEs6BCdQdsdc9K1S-0/edit#gid=0)
-
-[Foundations of Statistical Natural Language Processing (Manning and Schütze)](https://docs.google.com/spreadsheets/d/1YmQE_jrv-nyQiY6aalSvMb5yYZqPu9iOH5tsBoQtkyE/edit#gid=0)
-
-[C Programmieren für Dummies (Gookin)](https://docs.google.com/spreadsheets/d/1FQdJBft_Lszk3G5ymQo3LxBrJrCVbhAgnexwyPFw8PY/edit#gid=0)
-
-[Einführung in Java (Günster)](https://docs.google.com/spreadsheets/d/1Uvik6C-5BVTCBRVkYvvInRY_QJFpP6MIDty3qJgpe-g/edit#gid=0)
-
-[Введение в информационный поиск](https://docs.google.com/spreadsheets/d/1pZ1JYCdZBy2LDaTgVuRRWbhjqAx-874GOYI7p2XRzk8/edit?usp=sharing)
+* [Vorkurs Informatik (Müller & Weichert)](https://docs.google.com/spreadsheets/d/1uBs0sM5veBZ-64xmTbi-TQs0Q3t3Kfptcc-4Sv4X9n4/edit#gid=0)
+* [Speech and Language Processing (Martin and Jurafsky)](https://docs.google.com/spreadsheets/d/1QuIFPdJl9ZhciUuDkuKMI9msvhEs6BCdQdsdc9K1S-0/edit#gid=0)
+* [Foundations of Statistical Natural Language Processing (Manning and Schütze)](https://docs.google.com/spreadsheets/d/1YmQE_jrv-nyQiY6aalSvMb5yYZqPu9iOH5tsBoQtkyE/edit#gid=0)
+* [C Programmieren für Dummies (Gookin)](https://docs.google.com/spreadsheets/d/1FQdJBft_Lszk3G5ymQo3LxBrJrCVbhAgnexwyPFw8PY/edit#gid=0)
+* [Einführung in Java (Günster)](https://docs.google.com/spreadsheets/d/1Uvik6C-5BVTCBRVkYvvInRY_QJFpP6MIDty3qJgpe-g/edit#gid=0)
+* [Введение в информационный поиск](https://docs.google.com/spreadsheets/d/1pZ1JYCdZBy2LDaTgVuRRWbhjqAx-874GOYI7p2XRzk8/edit?usp=sharing)
 
 G
 
 Kleine Geschichte der Ukraine
-
-[Ukraine (Schlögel)](https://docs.google.com/spreadsheets/d/1eJ7ruWmaENaShA5cFhEQw-H3vpYNR5fpXidEOFohpH4/edit?usp=sharing)
-
-[Notas - Kapital](https://docs.google.com/document/d/1SPBCNLqNIN2yc4OUFW1gRY6I2UCAtfEvFXbWnRa8er4/edit?usp=sharing)
-
-[Notas - You Are Not so Smart](https://docs.google.com/document/d/1TRJC3DTLydK2EtMUx6jwe2fx1l_lvrrsBRBAgum0IPg/edit?usp=sharing)
-
-[Notas - Système 1, Système 2](https://docs.google.com/document/d/1mXaim_urWJd2nqEcyqC1LSmBqOLcKIlF_oC223LXVgs/edit?usp=sharing)
+* [Ukraine (Schlögel)](https://docs.google.com/spreadsheets/d/1eJ7ruWmaENaShA5cFhEQw-H3vpYNR5fpXidEOFohpH4/edit?usp=sharing)
+* [Notas - Kapital](https://docs.google.com/document/d/1SPBCNLqNIN2yc4OUFW1gRY6I2UCAtfEvFXbWnRa8er4/edit?usp=sharing)
+* [Notas - You Are Not so Smart](https://docs.google.com/document/d/1TRJC3DTLydK2EtMUx6jwe2fx1l_lvrrsBRBAgum0IPg/edit?usp=sharing)
+* [Notas - Système 1, Système 2](https://docs.google.com/document/d/1mXaim_urWJd2nqEcyqC1LSmBqOLcKIlF_oC223LXVgs/edit?usp=sharing)
 ## Notes
 
-**Learning / Lifestyle**
+Learning / Lifestyle
 
 Long-term goals provide vision; short-term goals provide focus
 
@@ -1325,8 +863,7 @@ To what extent are normative statements about what all people should do and be m
 holiness != moral virtue
 
 Mereshkovsky, Tikhol the Sworded (?)
-
-https://en.wikipedia.org/wiki/Dmitry_Merezhkovsky
+* https://en.wikipedia.org/wiki/Dmitry_Merezhkovsky
 
 what causes ambition?
 
@@ -1347,10 +884,8 @@ The Philosopher’s Zone
 Attributliste bearbeiten und aktualisieren
 
 Plan für persönliche Entwicklung aufschreiben und erneuern
-
-[Periódicos](https://docs.google.com/spreadsheets/d/1NZidjAJ29Z4KVzHmWJYnS379j6l1RB6TCa9T5y2nttQ/edit?authuser=0#gid=442784009)
-
-[Revistas](https://docs.google.com/spreadsheets/d/1Dtf1r47v65DBBmvXpqJxlYLIaFH3IUNT8fvBmQhL2DM/edit?authuser=0#gid=2069174289)
+* [Periódicos](https://docs.google.com/spreadsheets/d/1NZidjAJ29Z4KVzHmWJYnS379j6l1RB6TCa9T5y2nttQ/edit?authuser=0#gid=442784009)
+* [Revistas](https://docs.google.com/spreadsheets/d/1Dtf1r47v65DBBmvXpqJxlYLIaFH3IUNT8fvBmQhL2DM/edit?authuser=0#gid=2069174289)
 
 Ethos of different professions / occupations --> attitude toward others (non-experts, uninitiated)
 
@@ -1363,8 +898,7 @@ how to systematically organize, store, update, and expand the corpus of human kn
 - -> differences in views of human progress and its purposes by worldview
 
 Find best thought leaders by language, topic, & country
-
-[[Create 2nd Twitter account with](http://ex.ua/)
+* [[Create 2nd Twitter account with](http://ex.ua/)
 
 email and follow thought leaders, celebrities, etc.
 
@@ -1381,8 +915,7 @@ make a list of the most important cultural figures, traditions, assumptions, all
 Idée de show télé: Interviews avec des gens aléatoires, quesions de la philosophie: la sagesse des foules
 
 Write MM, YYYY CV, cover letter as a commitment & planning device
-
-[Информационный Вкус | Философские, социальные, психологические аспекты](http://moral.infotaste.com/)
+* [Информационный Вкус | Философские, социальные, психологические аспекты](http://moral.infotaste.com/)
 
 Douglas Hofstadter polymath
 
@@ -1419,46 +952,33 @@ make a test schedule for languages, ideas, formulas, etc
 Для этого случая, мы сделали подборку каналов для самообразования и изучении себя как индивидуальной личности
 
 Арзамас - проект, посвященный истории культуры. Здесь расскажут о литературе, искусстве и других гуманитарных науках. Ресурс выпускает подкасты и аудиолекции, есть возможность слушать их через приложение.
-
-[https://www.youtube.com/channel/UCVgvnGSFU41kIhEc09az..](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCVgvnGSFU41kIhEc09aztEg&post=-30435555_600&cc_key=)
+* [https://www.youtube.com/channel/UCVgvnGSFU41kIhEc09az..](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCVgvnGSFU41kIhEc09aztEg&post=-30435555_600&cc_key=)
 
 Центр Архэ - популяризаторы науки и культуры. Они проводят лекции, кинопоказы документальных фильмов и презентации научных книг.
-
-[https://www.youtube.com/channel/UCY41Iz96tJZMEp1qyLH-..](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCY41Iz96tJZMEp1qyLH-LYQ&post=-30435555_600&cc_key=)
+* [https://www.youtube.com/channel/UCY41Iz96tJZMEp1qyLH-..](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCY41Iz96tJZMEp1qyLH-LYQ&post=-30435555_600&cc_key=)
 
 ПостНаука - это проект о современной науке и ученых, которые ее создают. На этом сайте собраны лекции исследователей и преподавателей, которые простыми словами объясняют сложные вещи.
-
-[https://www.youtube.com/user/postnauka](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fuser%2Fpostnauka&post=-30435555_600&cc_key=)
+* [https://www.youtube.com/user/postnauka](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fuser%2Fpostnauka&post=-30435555_600&cc_key=)
 
 Сириус - занимается развитием и поддержкой одаренных детей. Он набирает студентов круглый год, и почти месяц дети от 10 до 17 лет проходят интенсивный курс по развитию навыков.
-
-[https://www.youtube.com/channel/UCSVY5ZY6Zk-Wbr08sTmj..](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCSVY5ZY6Zk-Wbr08sTmjqMw&post=-30435555_600&cc_key=)
+* [https://www.youtube.com/channel/UCSVY5ZY6Zk-Wbr08sTmj..](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCSVY5ZY6Zk-Wbr08sTmjqMw&post=-30435555_600&cc_key=)
 
 Синхронизация - занимается созданием онлайн-курсов про культуру, философию и психологию.
-
-[https://www.youtube.com/c/Синхронизация/featured](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fc%2F%25D0%25A1%25D0%25B8%25D0%25BD%25D1%2585%25D1%2580%25D0%25BE%25D0%25BD%25D0%25B8%25D0%25B7%25D0%25B0%25D1%2586%25D0%25B8%25D1%258F%2Ffeatured&post=-30435555_600&cc_key=)
+* [https://www.youtube.com/c/Синхронизация/featured](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fc%2F%25D0%25A1%25D0%25B8%25D0%25BD%25D1%2585%25D1%2580%25D0%25BE%25D0%25BD%25D0%25B8%25D0%25B7%25D0%25B0%25D1%2586%25D0%25B8%25D1%258F%2Ffeatured&post=-30435555_600&cc_key=)
 
 Лекторий Достоевский - выпускает бесплатные лекции, подкасты и проводит вебинары про литературу, культуру и историю. Это образовательная медиатека для слушателей всех возрастов.
-
-[https://www.youtube.com/channel/UCPw03nFJLTYHF_ltJUcT..](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCPw03nFJLTYHF_ltJUcTV8A&post=-30435555_600&cc_key=)
+* [https://www.youtube.com/channel/UCPw03nFJLTYHF_ltJUcT..](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCPw03nFJLTYHF_ltJUcTV8A&post=-30435555_600&cc_key=)
 
 Лекторий ВШЭ - на канале Высшей школы экономики собраны лекции и дискуссии экспертов и преподавателей университета.
-
-[https://www.youtube.com/user/hse](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fuser%2Fhse&post=-30435555_600&cc_key=)
+* [https://www.youtube.com/user/hse](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fuser%2Fhse&post=-30435555_600&cc_key=)
 
 Теории и практики - просветительское медиа для личностного и профессионального роста. На сайте есть статьи и подкасты про карьеру, культуру и отношения.
-
-[https://www.youtube.com/channel/UCBXZ7z2XneLuUMf8raYZ..](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCBXZ7z2XneLuUMf8raYZfAg&post=-30435555_600&cc_key=)
+* [https://www.youtube.com/channel/UCBXZ7z2XneLuUMf8raYZ..](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCBXZ7z2XneLuUMf8raYZfAg&post=-30435555_600&cc_key=)
 
 ##
----
-
 - Organizations and Conferences
+        * https://www.youtube.com/@StrangeLoopConf
     
-    https://www.youtube.com/@StrangeLoopConf
-    
-
----
 
 - Book List - To Sort
     
@@ -1685,8 +1205,7 @@ make a test schedule for languages, ideas, formulas, etc
     Kratka povijest ljudske rase - Cook
     
     Povijest povijesti - Burrow
-    
-    [Korporatizam - Grupp](https://kupdf.net/download/jeffrey-grupp-korporatizam_5a1c6b5be2b6f50f030b284c_pdf)
+        * [Korporatizam - Grupp](https://kupdf.net/download/jeffrey-grupp-korporatizam_5a1c6b5be2b6f50f030b284c_pdf)
     
     Die Geschichte des Handwerks
     
@@ -1697,30 +1216,19 @@ make a test schedule for languages, ideas, formulas, etc
     Wie man unsere Zivilisation wieder aufbaut, wenn man sich mit seiner Zeitmaschine verfahren hat
     
     Moderne Technologie - Lynch
+        * [10 книг, которые расширят ваш кругозор, пока вы вынуждены находиться в самоизоляции](https://vk.com/wall-104184663_240029)
+        * ["by comparison"](http://libgen.rs/search.php?req=by+comparison&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+        * http://www.theatlantic.com/international/archive/2013/12/this-woman-read-one-book-from-every-country-in-the-world-here-are-her-favorites/282634/
+        * [Hippocrene](https://libgen.is/search.php?&req=hippocrene&phrase=1&view=simple&column=def&sort=def&sortmode=ASC&page=1)
+        * [Where Mathematics, Computer Science, Linguistics and Biology Meet](https://libgen.is/book/index.php?md5=E563823EEA64DD4370CA5C7FA62A7137)
     
-    [10 книг, которые расширят ваш кругозор, пока вы вынуждены находиться в самоизоляции](https://vk.com/wall-104184663_240029)
-    
-    ["by comparison"](http://libgen.rs/search.php?req=by+comparison&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
-    
-    http://www.theatlantic.com/international/archive/2013/12/this-woman-read-one-book-from-every-country-in-the-world-here-are-her-favorites/282634/
-    
-    [Hippocrene](https://libgen.is/search.php?&req=hippocrene&phrase=1&view=simple&column=def&sort=def&sortmode=ASC&page=1)
-    
-    [Where Mathematics, Computer Science, Linguistics and Biology Meet](https://libgen.is/book/index.php?md5=E563823EEA64DD4370CA5C7FA62A7137)
-    
-    buecher.de Int*****...****in!
-    
-    ["without tears" books](https://b-ok.cc/s/without%20tears)
-    
-    http://ebooks.grsu.by/
-    
-    [For Books: http://www.oxfordreference.com/browse?t1=ORO:AHU00001ORO](http://www.oxfordreference.com/browse?t1=ORO:AHU00001ORO)
-    
-    [Bill Bryson books](https://libgen.is/search.php?&req=bill+bryson&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
-    
-    [брайсон books](https://libgen.is/search.php?req=%D0%B1%D1%80%D0%B0%D0%B9%D1%81%D0%BE%D0%BD&open=0&res=25&view=simple&phrase=1&column=def)
-    
-    [Nordic Academic Press](https://b-ok.cc/s/Nordic%20Academic%20Press)
+    buecher.de Int*...****in!
+        * ["without tears" books](https://b-ok.cc/s/without%20tears)
+        * http://ebooks.grsu.by/
+        * [For Books: http://www.oxfordreference.com/browse?t1=ORO:AHU00001ORO](http://www.oxfordreference.com/browse?t1=ORO:AHU00001ORO)
+        * [Bill Bryson books](https://libgen.is/search.php?&req=bill+bryson&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
+        * [брайсон books](https://libgen.is/search.php?req=%D0%B1%D1%80%D0%B0%D0%B9%D1%81%D0%BE%D0%BD&open=0&res=25&view=simple&phrase=1&column=def)
+        * [Nordic Academic Press](https://b-ok.cc/s/Nordic%20Academic%20Press)
     
     Common Knowledge (Grote)
     
@@ -1729,16 +1237,11 @@ make a test schedule for languages, ideas, formulas, etc
     Das große Buch der Allgemeinbildung
     
     Denkanstöße 2019 (2018, 2017, ...)
-    
-    [die großen Fragen](https://libgen.is/search.php?req=die+gro%C3%9Fen+fragen&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
-    
-    [DK Books](https://vk.com/wall308867621_9828)
-    
-    [Electronic library. Download books free. Finding books](https://b-ok.cc/s/?q=&yearFrom=&yearTo=&language=arabic&extension=&t=0)
-    
-    [Hans Rosling](https://libgen.is/search.php?req=Hans+Rosling&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
-    
-    [histoire d'un](http://libgen.io/search.php?req=histoire+d%27un&open=0&res=25&view=simple&phrase=1&column=def)
+        * [die großen Fragen](https://libgen.is/search.php?req=die+gro%C3%9Fen+fragen&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+        * [DK Books](https://vk.com/wall308867621_9828)
+        * [Electronic library. Download books free. Finding books](https://b-ok.cc/s/?q=&yearFrom=&yearTo=&language=arabic&extension=&t=0)
+        * [Hans Rosling](https://libgen.is/search.php?req=Hans+Rosling&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+        * [histoire d'un](http://libgen.io/search.php?req=histoire+d%27un&open=0&res=25&view=simple&phrase=1&column=def)
     
     History in Literature
     
@@ -1746,94 +1249,63 @@ make a test schedule for languages, ideas, formulas, etc
     
     how to. Wie man's hinkriegt
     
-    - ********Обговорення | Serial Books &amp; Magazines
+    - ****Обговорення | Serial Books &amp; Magazines
     - **explore recommendations
     
     1,000 Books to Read before You Die
     
     1. Эволюция человека. 2 тома. Двухтомник «Эволюция человека» отвечает на многие вопросы, давно интересующие человека разумного. Что значит- быть человеком? Когда и почему мы стали людьми? В чем мы превосходим наших соседей по планете, а в чем — уступаем им? И как нам лучше использовать главное свое отличие и достоинство — огромный, сложно устроенный мозг? Один из способов — вдумчиво прочесть эту книгу. Александр Марков — доктор биологических наук, ведущий научный сотрудник Палеонтологического института РАН. Его книга об эволюции живых существ «Рождение сложности» (2010) стала событием в научно-популярной литературе и получила широкое признание читателей.2.Мир, полный демонов: Наука — как свеча во тьме» Книга астрофизика и популяризатора науки Карла Сагана, впервые опубликованная в 1995 году. Цель книги — объяснить научный метод для широкого круга людей, и воодушевить их подходить к новой информации критически, и скептически мыслить. В книге рассказывается, какими методами можно отличить науку, которая работает, от псевдонаучных идей. Саган объясняет, что если на рассмотрение предлагаются новые идеи, то они должны испытываться посредством скептического мышления, и четко отвечать на задаваемые вопросы. Отличная книга для зимнего чтения.3.«Чёрное облако» Научно-фантастический роман известного английского астрофизика и писателя Фреда Хойла. В романе достаточно детально разбираются некоторые вопросы, связанные с исследованиями. Это связано с тем, что Хойл описывал знакомую ему среду. В частности, даже приводится использующий дифференциальное исчисление расчёт Вейхарта о времени приближения Облака. Идеи этого расчёта позже послужили основой для некоторых олимпиадных задач (например, для выездных олимпиад МФТИ). Кроме этого, в романе нелицеприятно нарисованы все без исключения профессиональные политики. Эту книгу рекомендовал Ричард Докинз для расширения сознания, вместо каннабиса или других психоактивов.4. "В поисках памяти" Книга посвящена истории возникновения и развития науки и биологической основе человеческой психики. Автор книги разъясняет революционные достижения современной биологии и проливает свет на то, как бихевиоризм, когнитивная психология породили новую науку. Великолепная книга от отличного автора. Она захватит Ваше внимание сразу, ибо интересные биографические детали жизни Эрика Канделя, вплетаются с научными исследованиями, которые он проводит. Книга начинается с воспоминаний о детстве автора в оккупированной нацистами Вене и описывает научную карьеру Канделя, от его раннего увлечения историей и психоанализом до новаторских работ в области изучения клеточных и молекулярных механизмов памяти, за которые он удостоился Нобелевской премии. Эта книга — о поиске биологических основ человеческой памяти.5. «Бойня номер пять, или Крестовый поход детей» Автобиографический роман Курта Воннегута о бомбардировке Дрездена во время Второй мировой войны. Великолепная научно-фантастическая книга. Она может многим показаться очень странной, но она достойна прочтения. Может показаться, что ее писал шизофреник. Концовка книги заканчивается словами: "Пьюти фьют." Это очень запоминается, хотя она была прочитана давно. После бомбардировок порта Пёрл-Харбор Курт Воннегут добровольно вступил в ряды вооружённых сил США и участвовал во Второй мировой войне. В 1944 году он попал в плен во время Арденнской контрнаступательной операции немецких войск и был направлен в Дрезден, где вместе с другими военнопленными работал на заводе, производящем солодовый сироп с витаминами для беременных женщин. И именно в Дрездене Воннегуту было суждено приобрести свой самый страшный военный опыт. 13—14 февраля 1945 года он стал свидетелем бомбардировки Дрездена авиацией союзнических войск. Курт Воннегут оказался в числе семи американских военнопленных, выживших в тот день в Дрездене. Пленных на ночь запирали на неработающей городской скотобойне номер 5, а во время бомбёжки уводили в подвал, в котором хранились мясные туши. Настоящих бомбоубежищ в городе почти не было, поскольку Дрезден не был стратегически важной целью. Чудом избежав гибели от своих же самолётов, Воннегут в полной мере познал ужас войны, когда вместе с другими пленными ему пришлось разбирать руины и вытаскивать из-под обломков тысячи трупов. Воннегут был освобождён войсками Красной Армии в мае 1945 года. По мнению писателя, бомбардировка Дрездена не была вызвана военной необходимостью. Большинство погибших при этой операции были мирными жителями, были разрушены жилые кварталы, погибли памятники архитектуры. Воннегут, будучи, бесспорно, против нацизма, не признаёт, что разгром Дрездена был «наказанием» за преступления нацистов. Роман подвергся цензуре в США, он был занесён в список «вредных» книг и изымался из библиотек. 6. Удовольствие от x Увлекательная экскурсия в мир математики от одного из лучших преподавателей в мире. Стивен Строгац — математик мирового уровня, преподаватель прикладной математики в Корнелльском университете США (один из ведущих технических вузов мира). Обладатель большого числа наград, как в области математики, так и в области преподавания. В 2010 году Стивен Строгац написал серию статей об основах математики для газеты The New York Times. Статьи вызвали бурю восторга. Каждая колонка становилась самым популярным материалом в газете и собирала сотни комментариев. Читатели просили еще, и Стивен не подвел — появилась эта книга, в которую вошли как уже опубликованные части, так и совершенно новые главы. Математика пронизывает все в этом мире, включая нас самих, но, к сожалению, мало кто понимает этот универсальный язык настолько хорошо, чтобы по достоинству оценить его мудрость и красоту. Стивен Строгац — тот самый учитель математики, о котором вы мечтали в школе. Учитель, который способен зажечь искру интереса и привить любовь к своему предмету на всю жизнь. В этой невероятно легкой и увлекательной книге, он дает всем нам второй шанс познакомиться с математикой. Цитаты из книги: "Что в итоге? Я проведу вас от арифметики до высшей математики, чтобы те, кто хотел получить второй шанс, смогли им воспользоваться. Эта книга не сделает вас экспертом в математике. Зато поможет разобраться в том, что изучает математика и почему она так увлекательна для тех, кто это понял." Эту книгу можно прочитать за один вечер. Она захватывает от начала до конца. Загадки и математические подробности в увлекательной манере автора, ждут Вас на протяжении всей книги. Хороший выбор для тех, кто решил в 2017 начать хоть что-то читать. Она не оставит равнодушным никого, ибо она интересна людям с абсолютно разными уровнями знаний, или даже без каких-либо знаний.
-    
-    [10 важнейших монументальных трудов человечества!](https://vk.com/wall-30328106_201174)
-    
-    [100 Most Influential Since WWII](https://www.goodreads.com/list/show/38381.TLS_The_Hundred_Most_Influential_Books_Since_the_Second_World_War)
+        * [10 важнейших монументальных трудов человечества!](https://vk.com/wall-30328106_201174)
+        * [100 Most Influential Since WWII](https://www.goodreads.com/list/show/38381.TLS_The_Hundred_Most_Influential_Books_Since_the_Second_World_War)
     
     100 preguntas sobre ...
-    
-    [18 Classic Books Every Man Should Read (or Re-Read) in 2018 | The Manual](https://www.themanual.com/culture/classic-books-every-man-should-read/?utm_source=k1&utm_medium=cpc&utm_campaign=manualtraffic&kwp_0=744147&kwp_4=2607146&kwp_1=1106492)
+        * [18 Classic Books Every Man Should Read (or Re-Read) in 2018 | The Manual](https://www.themanual.com/culture/classic-books-every-man-should-read/?utm_source=k1&utm_medium=cpc&utm_campaign=manualtraffic&kwp_0=744147&kwp_4=2607146&kwp_1=1106492)
     
     50 cosas que hay que saber sobre ...
-    
-    [A ciência de Leonardo da Vinci - um mergulho profundo na mente do grande gênio da Renascença | Fritjof Capra | download](https://b-ok.cc/book/2552811/f580f8)
+        * [A ciência de Leonardo da Vinci - um mergulho profundo na mente do grande gênio da Renascença | Fritjof Capra | download](https://b-ok.cc/book/2552811/f580f8)
     
     Alle mensen heten Janus
     
     An Incomplete Education
-    
-    [And That's a Fact!](https://b-ok.cc/s/?q=And+That%27s+a+Fact%21)
-    
-    [Antonia Macaro](https://libgen.is/search.php?req=Antonia%20Macaro&column[]=author)
-    
-    [Antonia Macaro](http://libgen.io/search.php?req=Antonia+Macaro&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
-    
-    [Biografie](http://libgen.io/search.php?&req=Biografie&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
+        * [And That's a Fact!](https://b-ok.cc/s/?q=And+That%27s+a+Fact%21)
+        * [Antonia Macaro](https://libgen.is/search.php?req=Antonia%20Macaro&column[]=author)
+        * [Antonia Macaro](http://libgen.io/search.php?req=Antonia+Macaro&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+        * [Biografie](http://libgen.io/search.php?&req=Biografie&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
     
     Blink
-    
-    [Book Recommendations from Nassim Taleb](https://fs.blog/2012/02/book-recommendations-from-nassim-taleb/)
-    
-    [Bücher: Verlagsprogramm, Reihen, Neuerscheinungen, Werkausgaben,Themen und Genres bei Suhrkamp - Suhrkamp Insel](https://www.suhrkamp.de/buecher/)
-    
-    [campus Einführungen](https://libgen.is/search.php?req=campus+Einf%C3%BChrungen&open=0&res=25&view=simple&phrase=1&column=def)
-    
-    https://www.bibliotecadigsan.com/
-    
-    https://www.knoxschools.org/cms/lib/TN01917079/Centricity/Domain/1785/AP%20Nonfiction%20Reading%20List.pdf
-    
-    https://www.onleihe.de/rems-murr/frontend/welcome,51-0-0-100-0-0-1-0-0-0-0.html
-    
-    [in a nutshell](https://libgen.is/search.php?req=in+a+nutshell&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
-    
-    [Isaac Asimov](http://libgen.io/search.php?&req=Isaac+Asimov&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
-    
-    [Knigi](https://vk.com/wall-155276174_47)
-    
-    [Libros recomendación](https://m.facebook.com/media/set/?set=a.153309029134178&type=3&fbclid=IwAR3LhF42M23WJXuXeZ435VuAc7uQyVgqfwiW2wMx-MKduAYYLy_u9DINqcc)
-    
-    [Literary Saloon](http://www.complete-review.com/saloon/)
+        * [Book Recommendations from Nassim Taleb](https://fs.blog/2012/02/book-recommendations-from-nassim-taleb/)
+        * [Bücher: Verlagsprogramm, Reihen, Neuerscheinungen, Werkausgaben,Themen und Genres bei Suhrkamp - Suhrkamp Insel](https://www.suhrkamp.de/buecher/)
+        * [campus Einführungen](https://libgen.is/search.php?req=campus+Einf%C3%BChrungen&open=0&res=25&view=simple&phrase=1&column=def)
+        * https://www.bibliotecadigsan.com/
+        * https://www.knoxschools.org/cms/lib/TN01917079/Centricity/Domain/1785/AP%20Nonfiction%20Reading%20List.pdf
+        * https://www.onleihe.de/rems-murr/frontend/welcome,51-0-0-100-0-0-1-0-0-0-0.html
+        * [in a nutshell](https://libgen.is/search.php?req=in+a+nutshell&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+        * [Isaac Asimov](http://libgen.io/search.php?&req=Isaac+Asimov&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
+        * [Knigi](https://vk.com/wall-155276174_47)
+        * [Libros recomendación](https://m.facebook.com/media/set/?set=a.153309029134178&type=3&fbclid=IwAR3LhF42M23WJXuXeZ435VuAc7uQyVgqfwiW2wMx-MKduAYYLy_u9DINqcc)
+        * [Literary Saloon](http://www.complete-review.com/saloon/)
     
     Lolecules. The Elements and the Architecture of Everything
-    
-    [MEGA Libros españoles](https://mega.nz/#F!ueQQXYIA!T4mMT9mlAqmQnkrQJDFOsg)
+        * [MEGA Libros españoles](https://mega.nz/#F!ueQQXYIA!T4mMT9mlAqmQnkrQJDFOsg)
     
     Metaphors We Live By
     
     My Ideal Bookshelf
-    
-    [My List Goodreads](https://www.goodreads.com/review/list/53558304)
+        * [My List Goodreads](https://www.goodreads.com/review/list/53558304)
     
     Neue Karte der Weltwunder
-    
-    [Of Cigarettes, High Heels, and Other Interesting Things_Marcel Danesi_3rd ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-1-349-95348-6)
-    
-    [Oxford Dictionary of](https://b-ok.cc/s/?q=Oxford+Dictionary+of+&e=1)
-    
-    [Pandemic Reading List](https://www.loa.org/news-and-views/1617-a-reading-list-for-the-most-deadly-pandemic-in-human-history)
-    
-    [routledge handbook of](https://libgen.is/search.php?req=routledge+handbook+of+&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
-    
-    [Sachbücher](https://vk.com/wall255845441_3782)
-    
-    [Sieben Alternativen zu Amazon](http://www.taz.de/!5025935/)
+        * [Of Cigarettes, High Heels, and Other Interesting Things_Marcel Danesi_3rd ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-1-349-95348-6)
+        * [Oxford Dictionary of](https://b-ok.cc/s/?q=Oxford+Dictionary+of+&e=1)
+        * [Pandemic Reading List](https://www.loa.org/news-and-views/1617-a-reading-list-for-the-most-deadly-pandemic-in-human-history)
+        * [routledge handbook of](https://libgen.is/search.php?req=routledge+handbook+of+&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+        * [Sachbücher](https://vk.com/wall255845441_3782)
+        * [Sieben Alternativen zu Amazon](http://www.taz.de/!5025935/)
     
     Signs & Symbols Sourcebook
-    
-    [Simvoly](https://vk.com/wall-124609314_118751)
-    
-    [Spisok Knig](https://vk.com/wall234218980_886)
-    
-    [Steven Pinker](https://libgen.is/search.php?&req=Steven+Pinker&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
-    
-    [stevens' handbook](https://libgen.is/search.php?&req=stevens%27+handbook&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+        * [Simvoly](https://vk.com/wall-124609314_118751)
+        * [Spisok Knig](https://vk.com/wall234218980_886)
+        * [Steven Pinker](https://libgen.is/search.php?&req=Steven+Pinker&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
+        * [stevens' handbook](https://libgen.is/search.php?&req=stevens%27+handbook&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
     
     Surfaces and Essences
     
@@ -1842,8 +1314,7 @@ make a test schedule for languages, ideas, formulas, etc
     The Dictionary of Cultural Literacy
     
     The Greatest Minds and Ideas of All Time
-    
-    [The Greatest Minds and Ideas of All Time: Will Durant: 9780743235532: Amazon.com: Books](https://www.amazon.com/gp/product/0743235533/ref=s9u_cartx_gw_i4?ie=UTF8&fpl=fresh&pd_rd_i=0743235533&pd_rd_r=511762c9-2656-11e8-b4af-bb8759a2f7d7&pd_rd_w=oZl2O&pd_rd_wg=qIECD&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=QV6R2TT7ZQPPW6FVKF2Q&pf_rd_t=36701&pf_rd_p=0d036f2a-db56-478a-b511-f59f2469d474&pf_rd_i=desktop)
+        * [The Greatest Minds and Ideas of All Time: Will Durant: 9780743235532: Amazon.com: Books](https://www.amazon.com/gp/product/0743235533/ref=s9u_cartx_gw_i4?ie=UTF8&fpl=fresh&pd_rd_i=0743235533&pd_rd_r=511762c9-2656-11e8-b4af-bb8759a2f7d7&pd_rd_w=oZl2O&pd_rd_wg=qIECD&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=QV6R2TT7ZQPPW6FVKF2Q&pf_rd_t=36701&pf_rd_p=0d036f2a-db56-478a-b511-f59f2469d474&pf_rd_i=desktop)
     
     The Hedgehog, the Fox, and the Magister's Pox
     
@@ -1854,112 +1325,66 @@ make a test schedule for languages, ideas, formulas, etc
     Vergessene Erfindungen
     
     Very Short Introduction Series
-    
-    [Very Short Introduction to](https://b-ok.cc/s/?q=Very+Short+Introduction+to)
-    
-    [vey short introduction to ___](http://libgen.io/search.php?req=Very+Short+Introduction+to&open=0&res=25&view=simple&phrase=1&column=def)
-    
-    [ТОП-10 книг последних лет, которые помогут стать более эрудированным человеком](https://vk.com/wall-37160097_96916)
-    
-    http://www.lecturasinegoismo.com/
-    
-    [Very Short Introductions (incl. Logic)](https://vk.com/wall-25153764_262953)
-    
-    [Дух і Літера](https://duh-i-litera.com/)
-    
-    [Searching for Wisdom: Frank Buytendijk’s Recommended Reading List by Frank Buytendijk - BeyeNETWORK](http://www.b-eye-network.com/channels/5567/view/16772)
-    
-    [Conway, F. and Siegelman, J. (2005).](https://email.mg2.substack.com/c/eJxNkUtr5DAMgH9NfAyWH3kcfCiUgb3spe05KLaSmiZOsJ0O6a9fZ2YPBSHraYlPFjPNWzzNvqXMLjXkcycT6J4WypkiOxLFwTsDfQdCCeaMctDpjvk0TJFoRb-YHA9i-zEu3mL2W3g0KJCKfRpqHe_E2EwwtlZLmGjC3ineuxGxa-A5Fg_nKVgy9E3x3AKxxXzmvKdKvlTiVuR-v9e44s8WarutJTDvRe1xc4fNxeKq0RxkC81VL2-eKvn68X7rKtFYXPfiQdv1lxepbPl95Xsp9K_Iy9ufvyX6-6v_wrwRXACXQoCQWkMNdasdTpNW1E9cce2E5i1NJBotSXDSleLrLOp0jCmj_brWZtH4hGjrWEe_0FlK5ovgI1cADuVdj-DzOVDAcSH3ZJufF3rQHmYKFMvl3IDZQAONgkZr3fbtk2WBLxVA3wvOynC3la5gLIa8xbRjROcT_QMMcKJx)
-    
-    [Flowers, F.A. (2015).](https://email.mg2.substack.com/c/eJxNkTtv5CAQgH-NKS2exi4oIkUrpUmTu9qahbGDYoMFeFe-X3943UQaDcx79I2FgnNMh9liLuRUYzk2NAGfecFSMJE9Yxq9M2zoGZecOCMd61VPfB6nhLiCX0xJO5Jtvy_eQvExvAokE5J8G6ooA8Glow611nc7UTibgUY9OCausbA7j8GiwQemIwYki_kuZcuNeGv4rcrz-WxhhX8xtDau1TFvVW0put2W-mNSS95RNqgzX9w8NuL9759b3_DOwrpVi-l-OK2EdcvHGR8EV788b18fn2fer1bdJcQbTjmjgnPGhVKsZa1WDqZJSRwmKqlyXFGNE_JOCeQUVSPpOvM27_dcwP6ca5NkfAawbWqTX_CoKfNJ8BWrAMf6rnvw5RgxwH1Bd7Et14VetMcZA6Z6OTdCMaxjnWSdUkoP-mJZ4QvJ2DBwSupwF2tVMBZCiSlvkMD5jP8B38uhsg)
+        * [Very Short Introduction to](https://b-ok.cc/s/?q=Very+Short+Introduction+to)
+        * [vey short introduction to ___](http://libgen.io/search.php?req=Very+Short+Introduction+to&open=0&res=25&view=simple&phrase=1&column=def)
+        * [ТОП-10 книг последних лет, которые помогут стать более эрудированным человеком](https://vk.com/wall-37160097_96916)
+        * http://www.lecturasinegoismo.com/
+        * [Very Short Introductions (incl. Logic)](https://vk.com/wall-25153764_262953)
+        * [Дух і Літера](https://duh-i-litera.com/)
+        * [Searching for Wisdom: Frank Buytendijk’s Recommended Reading List by Frank Buytendijk - BeyeNETWORK](http://www.b-eye-network.com/channels/5567/view/16772)
+        * [Conway, F. and Siegelman, J. (2005).](https://email.mg2.substack.com/c/eJxNkUtr5DAMgH9NfAyWH3kcfCiUgb3spe05KLaSmiZOsJ0O6a9fZ2YPBSHraYlPFjPNWzzNvqXMLjXkcycT6J4WypkiOxLFwTsDfQdCCeaMctDpjvk0TJFoRb-YHA9i-zEu3mL2W3g0KJCKfRpqHe_E2EwwtlZLmGjC3ineuxGxa-A5Fg_nKVgy9E3x3AKxxXzmvKdKvlTiVuR-v9e44s8WarutJTDvRe1xc4fNxeKq0RxkC81VL2-eKvn68X7rKtFYXPfiQdv1lxepbPl95Xsp9K_Iy9ufvyX6-6v_wrwRXACXQoCQWkMNdasdTpNW1E9cce2E5i1NJBotSXDSleLrLOp0jCmj_brWZtH4hGjrWEe_0FlK5ovgI1cADuVdj-DzOVDAcSH3ZJufF3rQHmYKFMvl3IDZQAONgkZr3fbtk2WBLxVA3wvOynC3la5gLIa8xbRjROcT_QMMcKJx)
+        * [Flowers, F.A. (2015).](https://email.mg2.substack.com/c/eJxNkTtv5CAQgH-NKS2exi4oIkUrpUmTu9qahbGDYoMFeFe-X3943UQaDcx79I2FgnNMh9liLuRUYzk2NAGfecFSMJE9Yxq9M2zoGZecOCMd61VPfB6nhLiCX0xJO5Jtvy_eQvExvAokE5J8G6ooA8Glow611nc7UTibgUY9OCausbA7j8GiwQemIwYki_kuZcuNeGv4rcrz-WxhhX8xtDau1TFvVW0put2W-mNSS95RNqgzX9w8NuL9759b3_DOwrpVi-l-OK2EdcvHGR8EV788b18fn2fer1bdJcQbTjmjgnPGhVKsZa1WDqZJSRwmKqlyXFGNE_JOCeQUVSPpOvM27_dcwP6ca5NkfAawbWqTX_CoKfNJ8BWrAMf6rnvw5RgxwH1Bd7Et14VetMcZA6Z6OTdCMaxjnWSdUkoP-mJZ4QvJ2DBwSupwF2tVMBZCiSlvkMD5jP8B38uhsg)
     
     Grattan-Guinness, I. (1975). Wiener on the Logics of Russell and Schröder. An Account of his Doctoral Thesis, and of his Discussions of it with Russell. Annals of Science 32, pp. 103-132.
-    
-    [Heims, S.J. (1980).](https://email.mg2.substack.com/c/eJxNkU2P3CAMhn9NOEZgvpIDh5WqkXrpZbfniAEni5pABGRH6a8vmdlDJcuA_Rpbj52tuKR8mj2VSi431XNHE_FRVqwVMzkK5il4w8aBgQDijfBskAMJZZoz4mbDamo-kOzHfQ3O1pDis0AwLsinEUzrwXoBOA-gqJod095rzUfpOEr_amsPHzA6NPiF-UwRyWo-a91Lx986uDV7PB693ezfFHuXthZY9ub2nPzhartRUEAHRuV46fktYMd__P64DR2oZs5uewswPYzXK2Mb9OuSjBzkt-Q7-Pb-81dL_P-hIsEABUY5AAMuJetZr6W38ywFjjMVVHqQVOOMoCRHoCg7QbcF-nLcS7XuzzU2ySYUa12f-xxWPJtkuQg-cw3g1M7tiKGeE0Z7X9G_2NbXhp60pwUj5rY5P9lqmGJKMCWl1KN-sWzwuWBsHIGS1tynVhWNs7GmXHabrQ8F_wHmCaHD)
-    
-    [Kanterian, E. (2007).](https://email.mg2.substack.com/c/eJxNUT1vxCAM_TXHGPGdMDC0qiJ16dJ26BQRcFLUBCIgPaW_vuSuQyXL2M_P2Hq2psAc06G3mAs63VCODXSAa16gFEhoz5AG7zRRHaGcIqe5I53okM_DlABW4xdd0g5o28fFW1N8DLcGThhHn1rJjk6jcEoQaTtCnJTTyI2wfJxUS-V9rNmdh2BBwzekIwZAi_4sZcsX9nChfbXr9dqY1fzE0Ni4VmDeqttSdLstNXrEWPT980ffnXzWe7iwp_e3M5XVrFm3CpC2U2eWoC76fVIUo-KP8gc-vD6_1ML_DyXymmJKMKOUUCYEaUjTCmemSXBQE-ZYOCpwCxNQKRhQDOLC8TrTJu9jLsZ-nWujpH02xjapSX6Bo1LmU8FbrQo41Hfdgy_HAMGMC7i7tuV-oZvawwwBUr2cG0zRRBLJiRRCtKq9a1nFZ5wQpShGdbiLtStoa0KJKW8mGecz_ALwYqLJ)
-    
-    [Monk, R. (1990).](https://email.mg2.substack.com/c/eJxNkU1v5CAMhn9NOEaYjyQcOFSqRtrLXtqeIwJOippABKSj9NcvmelhJcuA_Rpbj60puMR06j3mQi43lnNHHfCeVywFEzkyptE7DWoAJhhxWjgY5EB8HueEuBm_6pIOJPsxrd6a4mN4FAjggnzqiQEH04lJsRmsVTNzHGZAKfqedtP0bGsO5zFY1PiN6YwByao_S9lzw18adqt2v99bs5mfGFobtxpY9ur2FN1hS71REBSkUlJden7z2PDXj_fb0LCumjXbXgPQD-p6JayDfl8SxZn8lfwGX97-_K2J_z_siNeMMqCcMWBcSmih7aUz8ywFqpkKKh2TtMcZWSc5MoqyEXRbWJuPKRdjv66xSdI-G2Pb1Ca_4lkly0XwkasAx3puR_DlHDGYaUX3ZFueG3rQHhcMmOrm3GiKhg46AZ2Uslf9k2WFzwWAUoyS2tzFWhW0NaHElHeTjPMZ_wEWo6Ho)
-    
-    [Montagnini, L. (2017).](https://email.mg2.substack.com/c/eJxNkU1v5CAMhn9NOEZA-EgOHFpVU_Wwc9ldqbeIgElRE4iAdJT99UtmeqhkGbBfY-ux0QXmmA61xVzQ6cZybKAC3PICpUBCe4Y0eqvI0BPKKLKKWdLzHvk8ugSwar-oknZA2z4t3ujiY7gXMNIx9KEccVpMwjAAx42zhnEz9JNlvZWil_bRVu_WQzCg4AvSEQOgRX2UsuWme2ropdrtdmv1qv_F0Jq41sC8VbelaHdT6u0ZS3l9fae_rqe-u3houpe_fy59Q0U1o9etBojsh_OVoA76dUqGjvJvyXfw6ffbtSZ-fiiQVxRTgjtKCe04Jy1pJbfaOc5gcJhhbinHEhxQwTugGHjD8DrTNu9TLtp8nmOjpHzW2rSpTX6Bo0rmk-A9VwGO9Vz34MsxQtDTAvbBtjw2dKc9zhAg1c3ZURdFBBGMCM65HOSDZYXfMUKGgWJUm9tYq4IyOpSY8qaTtj7Df-hKpB0)
-    
-    [Nasar, S. (1998).](https://email.mg2.substack.com/c/eJxNkU-PpSAMwD-NHA1UQDxwmGTzkr3MZXbPBqE6ZBQM4Ly4n37xeZmkKfQfLb9aU3CJ6dR7zIVcaiznjjrgM69YCiZyZEyjd5oNigEH4jR3TAlFfB7nhLgZv-qSDiT7Ma3emuJjeBVw1nHyqZFyLiijYJRSYqBO9pNUMEuOwzBN4m5rDucxWNT4jemMAcmqP0vZc9O9NfCo8nw-W7OZfzG0Nm7VsexV7Sm6w5Z6Y1wwCYoDvfK7h8em-_X3z0M1IK3Z9mqxXg2XlbBO-X3Fhw7ED8_bx-_3K-_HU_IW4jVQYLQDYNAJwVrW9sKZeRb1HzPlVDgQtMcZQYoOgaJoON0WaPMx5WLs1zU2SdpnY2yb2uRXPGvKchF8xSrAsZ7bEXw5RwxmWtHdbMu9oRftccGAqW7OjaZoJpnkTAoh-qG_WVb4HWdsGICS2tzFWhW0NaHElHeTjPMZ_wMaGaEv)
-    
-    [Wiener, N. (1953).](https://email.mg2.substack.com/c/eJxNUU2P3CAM_TXhGIGBBA4cVqpG6qWX3Z4jBpwsagIRkB2lv75kZg-VLGOenz_07GzFJeXT7KlUcrmpnjuaiI-yYq2YyVEwT8EbphUDAcQb4ZmSioQyzRlxs2E1NR9I9uO-BmdrSPFZIBgX5NMMTlLJ7J0q72bdIjeOAIpZrVC71ug51h4-YHRo8AvzmSKS1XzWupeOv3Vwa_Z4PHq72b8p9i5tDVj25vac_OFqiygMMHJKFbv4_Baw4z9-f9xUB0MzZ7e9AWxU-vplbIt-XRTNQX5TvsG395-_WuL_hgMJBigwygEYcClZz_pRejvPUqCeqaDSg6QjzgiD5AgUZSfotkBfjnup1v251ibZhGKt63Ofw4pnoyyXgs9cE3Bq73bEUM8Jo72v6F_a1teFnmpPC0bM7XJ-stWwgQ2CDVLKUY8vLZv4XDCmNVDShvvUqqJxNtaUy26z9aHgP9VZobI)
-    
-    https://de1lib.org/s/duden%20basiswissen
+        * [Heims, S.J. (1980).](https://email.mg2.substack.com/c/eJxNkU2P3CAMhn9NOEZgvpIDh5WqkXrpZbfniAEni5pABGRH6a8vmdlDJcuA_Rpbj52tuKR8mj2VSi431XNHE_FRVqwVMzkK5il4w8aBgQDijfBskAMJZZoz4mbDamo-kOzHfQ3O1pDis0AwLsinEUzrwXoBOA-gqJod095rzUfpOEr_amsPHzA6NPiF-UwRyWo-a91Lx986uDV7PB693ezfFHuXthZY9ub2nPzhartRUEAHRuV46fktYMd__P64DR2oZs5uewswPYzXK2Mb9OuSjBzkt-Q7-Pb-81dL_P-hIsEABUY5AAMuJetZr6W38ywFjjMVVHqQVOOMoCRHoCg7QbcF-nLcS7XuzzU2ySYUa12f-xxWPJtkuQg-cw3g1M7tiKGeE0Z7X9G_2NbXhp60pwUj5rY5P9lqmGJKMCWl1KN-sWzwuWBsHIGS1tynVhWNs7GmXHabrQ8F_wHmCaHD)
+        * [Kanterian, E. (2007).](https://email.mg2.substack.com/c/eJxNUT1vxCAM_TXHGPGdMDC0qiJ16dJ26BQRcFLUBCIgPaW_vuSuQyXL2M_P2Hq2psAc06G3mAs63VCODXSAa16gFEhoz5AG7zRRHaGcIqe5I53okM_DlABW4xdd0g5o28fFW1N8DLcGThhHn1rJjk6jcEoQaTtCnJTTyI2wfJxUS-V9rNmdh2BBwzekIwZAi_4sZcsX9nChfbXr9dqY1fzE0Ni4VmDeqttSdLstNXrEWPT980ffnXzWe7iwp_e3M5XVrFm3CpC2U2eWoC76fVIUo-KP8gc-vD6_1ML_DyXymmJKMKOUUCYEaUjTCmemSXBQE-ZYOCpwCxNQKRhQDOLC8TrTJu9jLsZ-nWujpH02xjapSX6Bo1LmU8FbrQo41Hfdgy_HAMGMC7i7tuV-oZvawwwBUr2cG0zRRBLJiRRCtKq9a1nFZ5wQpShGdbiLtStoa0KJKW8mGecz_ALwYqLJ)
+        * [Monk, R. (1990).](https://email.mg2.substack.com/c/eJxNkU1v5CAMhn9NOEaYjyQcOFSqRtrLXtqeIwJOippABKSj9NcvmelhJcuA_Rpbj60puMR06j3mQi43lnNHHfCeVywFEzkyptE7DWoAJhhxWjgY5EB8HueEuBm_6pIOJPsxrd6a4mN4FAjggnzqiQEH04lJsRmsVTNzHGZAKfqedtP0bGsO5zFY1PiN6YwByao_S9lzw18adqt2v99bs5mfGFobtxpY9ur2FN1hS71REBSkUlJden7z2PDXj_fb0LCumjXbXgPQD-p6JayDfl8SxZn8lfwGX97-_K2J_z_siNeMMqCcMWBcSmih7aUz8ywFqpkKKh2TtMcZWSc5MoqyEXRbWJuPKRdjv66xSdI-G2Pb1Ca_4lkly0XwkasAx3puR_DlHDGYaUX3ZFueG3rQHhcMmOrm3GiKhg46AZ2Uslf9k2WFzwWAUoyS2tzFWhW0NaHElHeTjPMZ_wEWo6Ho)
+        * [Montagnini, L. (2017).](https://email.mg2.substack.com/c/eJxNkU1v5CAMhn9NOEZA-EgOHFpVU_Wwc9ldqbeIgElRE4iAdJT99UtmeqhkGbBfY-ux0QXmmA61xVzQ6cZybKAC3PICpUBCe4Y0eqvI0BPKKLKKWdLzHvk8ugSwar-oknZA2z4t3ujiY7gXMNIx9KEccVpMwjAAx42zhnEz9JNlvZWil_bRVu_WQzCg4AvSEQOgRX2UsuWme2ropdrtdmv1qv_F0Jq41sC8VbelaHdT6u0ZS3l9fae_rqe-u3houpe_fy59Q0U1o9etBojsh_OVoA76dUqGjvJvyXfw6ffbtSZ-fiiQVxRTgjtKCe04Jy1pJbfaOc5gcJhhbinHEhxQwTugGHjD8DrTNu9TLtp8nmOjpHzW2rSpTX6Bo0rmk-A9VwGO9Vz34MsxQtDTAvbBtjw2dKc9zhAg1c3ZURdFBBGMCM65HOSDZYXfMUKGgWJUm9tYq4IyOpSY8qaTtj7Df-hKpB0)
+        * [Nasar, S. (1998).](https://email.mg2.substack.com/c/eJxNkU-PpSAMwD-NHA1UQDxwmGTzkr3MZXbPBqE6ZBQM4Ly4n37xeZmkKfQfLb9aU3CJ6dR7zIVcaiznjjrgM69YCiZyZEyjd5oNigEH4jR3TAlFfB7nhLgZv-qSDiT7Ma3emuJjeBVw1nHyqZFyLiijYJRSYqBO9pNUMEuOwzBN4m5rDucxWNT4jemMAcmqP0vZc9O9NfCo8nw-W7OZfzG0Nm7VsexV7Sm6w5Z6Y1wwCYoDvfK7h8em-_X3z0M1IK3Z9mqxXg2XlbBO-X3Fhw7ED8_bx-_3K-_HU_IW4jVQYLQDYNAJwVrW9sKZeRb1HzPlVDgQtMcZQYoOgaJoON0WaPMx5WLs1zU2SdpnY2yb2uRXPGvKchF8xSrAsZ7bEXw5RwxmWtHdbMu9oRftccGAqW7OjaZoJpnkTAoh-qG_WVb4HWdsGICS2tzFWhW0NaHElHeTjPMZ_wMaGaEv)
+        * [Wiener, N. (1953).](https://email.mg2.substack.com/c/eJxNUU2P3CAM_TXhGIGBBA4cVqpG6qWX3Z4jBpwsagIRkB2lv75kZg-VLGOenz_07GzFJeXT7KlUcrmpnjuaiI-yYq2YyVEwT8EbphUDAcQb4ZmSioQyzRlxs2E1NR9I9uO-BmdrSPFZIBgX5NMMTlLJ7J0q72bdIjeOAIpZrVC71ug51h4-YHRo8AvzmSKS1XzWupeOv3Vwa_Z4PHq72b8p9i5tDVj25vac_OFqiygMMHJKFbv4_Baw4z9-f9xUB0MzZ7e9AWxU-vplbIt-XRTNQX5TvsG395-_WuL_hgMJBigwygEYcClZz_pRejvPUqCeqaDSg6QjzgiD5AgUZSfotkBfjnup1v251ibZhGKt63Ofw4pnoyyXgs9cE3Bq73bEUM8Jo72v6F_a1teFnmpPC0bM7XJ-stWwgQ2CDVLKUY8vLZv4XDCmNVDShvvUqqJxNtaUy26z9aHgP9VZobI)
+        * https://de1lib.org/s/duden%20basiswissen
     
     Lógica filosófica (Wittgenstein)
-    
-    [Historia visual de la inteligencia](http://library.lol/main/6BEBFABBBDCD83E175D668F17E239598)
+        * [Historia visual de la inteligencia](http://library.lol/main/6BEBFABBBDCD83E175D668F17E239598)
     
 - Reading 0
-    
-    [30 secondes (livres)](http://libgen.is/search.php?&req=30+secondes&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
-    
-    **[The Math Behind Music and Sound Synthesis](https://www.youtube.com/watch?v=Y7TesKMSE74)**
-    
-    https://www.technologyreview.it/cosa-sognano-i-bambini-una-nuova-tecnologia-lo-rivela/ 
+        * [30 secondes (livres)](http://libgen.is/search.php?&req=30+secondes&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+        * [The Math Behind Music and Sound Synthesis](https://www.youtube.com/watch?v=Y7TesKMSE74)
+        * https://www.technologyreview.it/cosa-sognano-i-bambini-una-nuova-tecnologia-lo-rivela/ 
     
     Not Overthinking podcast
     
     Deep Dive with Ali Abdaal
     
     How Math Has Changed the Shape of Gerrymandering | Quanta Magazine
-    
-    https://www.wired.co.uk/article/best-sci-fi-books 
-    
-    [History is far more predictably deterministic than we would prefer to believe, sorry but it's a fact - YouTube](https://www.youtube.com/watch?v=CSfrfnCeaXM)
-    
-    [THIS Is Why Americans Are So Obsessed With Guns (It's not what you expect) - YouTube](https://www.youtube.com/watch?v=zcMrDGs71v8)
-    
-    [Is Religion All That Bad? | Genetically Modified and CosmicSkeptic - YouTube](https://www.youtube.com/watch?v=1LpYh3bKA9w)
-    
-    [THE GREATEST BRIEF EVER FILED - YouTube](https://www.youtube.com/watch?v=LxTWonQvXkw)
-    
-    [The "Just One More" Paradox - YouTube](https://www.youtube.com/watch?v=_FuuYSM7yOo)
-    
-    [The Lafferty Family | Under the Banner of Heaven | FX - Invidious](https://y.com.sb/watch?v=l4wgbDGYVQY)
-    
-    [DOES YOUR FLAG FAIL? Grey Grades The State Flags! - Invidious](https://y.com.sb/watch?v=l4w6808wJcU)
-    
-    [Why Is American Patriotism So Weird? - YouTube](https://www.youtube.com/watch?v=3kn0Wc3tShc)
-    
-    [Bad Dialogue vs Good Dialogue ROUND 2 (Writing Advice) - YouTube](https://www.youtube.com/watch?v=Aw4Xo03OvxM)
-    
-    [Ist das Deutsch oder kann das weg? (Diana Marossek -Science Slam) - YouTube](https://www.youtube.com/watch?v=GBVxDy2wx-g)
-    
-    [Building EXCEPTIONAL speakers using MODERN TECHNIQUES - Invidious](https://y.com.sb/watch?v=XEspOD1NHr0)
-    
-    [INTIMIDADE É UMA MERDA - YouTube](https://www.youtube.com/watch?v=ZbDXA6DHG2g)
-    
-    [Understanding Never Gonna Give You Up - YouTube](https://www.youtube.com/watch?v=v0su7FiNLVg)
-    
-    [The Art of Linear Programming - YouTube](https://www.youtube.com/watch?v=E72DWgKP_1Y)
-    
-    [Deconstructing Ben Shapiro on Religion - YouTube](https://www.youtube.com/watch?v=2nvwpVoBgLQ)
-    
-    [What is the difference between vacuous and trivial proof? - Quora](https://www.quora.com/What-is-the-difference-between-vacuous-and-trivial-proof)
-    
-    [Herbert A. Simon - Wikipedia](https://en.wikipedia.org/wiki/Herbert_A._Simon)
-    
-    [The PHYSICS of CONSCIOUSNESS - Richard Dawkins & Brian Greene - YouTube](https://www.youtube.com/watch?v=dgXcBbIGCWw)
-    
-    [Siete tipos de Ateismo](http://libgen.rs/book/index.php?md5=E27DE226C3D4190BBB43664A439B7DDA)
-    
-    [Die dunkle Wahrheit über Wikipedia Simplicissimus Simplicissimus Verificada • • 226.682 visualizaciones hace 7 horas Nuevo](https://www.youtube.com/watch?v=d9UgRIPWP4w)
-    
-    [docutr.com](http://docutr.com/)
+        * https://www.wired.co.uk/article/best-sci-fi-books 
+        * [History is far more predictably deterministic than we would prefer to believe, sorry but it's a fact - YouTube](https://www.youtube.com/watch?v=CSfrfnCeaXM)
+        * [THIS Is Why Americans Are So Obsessed With Guns (It's not what you expect) - YouTube](https://www.youtube.com/watch?v=zcMrDGs71v8)
+        * [Is Religion All That Bad? | Genetically Modified and CosmicSkeptic - YouTube](https://www.youtube.com/watch?v=1LpYh3bKA9w)
+        * [THE GREATEST BRIEF EVER FILED - YouTube](https://www.youtube.com/watch?v=LxTWonQvXkw)
+        * [The "Just One More" Paradox - YouTube](https://www.youtube.com/watch?v=_FuuYSM7yOo)
+        * [The Lafferty Family | Under the Banner of Heaven | FX - Invidious](https://y.com.sb/watch?v=l4wgbDGYVQY)
+        * [DOES YOUR FLAG FAIL? Grey Grades The State Flags! - Invidious](https://y.com.sb/watch?v=l4w6808wJcU)
+        * [Why Is American Patriotism So Weird? - YouTube](https://www.youtube.com/watch?v=3kn0Wc3tShc)
+        * [Bad Dialogue vs Good Dialogue ROUND 2 (Writing Advice) - YouTube](https://www.youtube.com/watch?v=Aw4Xo03OvxM)
+        * [Ist das Deutsch oder kann das weg? (Diana Marossek -Science Slam) - YouTube](https://www.youtube.com/watch?v=GBVxDy2wx-g)
+        * [Building EXCEPTIONAL speakers using MODERN TECHNIQUES - Invidious](https://y.com.sb/watch?v=XEspOD1NHr0)
+        * [INTIMIDADE É UMA MERDA - YouTube](https://www.youtube.com/watch?v=ZbDXA6DHG2g)
+        * [Understanding Never Gonna Give You Up - YouTube](https://www.youtube.com/watch?v=v0su7FiNLVg)
+        * [The Art of Linear Programming - YouTube](https://www.youtube.com/watch?v=E72DWgKP_1Y)
+        * [Deconstructing Ben Shapiro on Religion - YouTube](https://www.youtube.com/watch?v=2nvwpVoBgLQ)
+        * [What is the difference between vacuous and trivial proof? - Quora](https://www.quora.com/What-is-the-difference-between-vacuous-and-trivial-proof)
+        * [Herbert A. Simon - Wikipedia](https://en.wikipedia.org/wiki/Herbert_A._Simon)
+        * [The PHYSICS of CONSCIOUSNESS - Richard Dawkins & Brian Greene - YouTube](https://www.youtube.com/watch?v=dgXcBbIGCWw)
+        * [Siete tipos de Ateismo](http://libgen.rs/book/index.php?md5=E27DE226C3D4190BBB43664A439B7DDA)
+        * [Die dunkle Wahrheit über Wikipedia Simplicissimus Simplicissimus Verificada • • 226.682 visualizaciones hace 7 horas Nuevo](https://www.youtube.com/watch?v=d9UgRIPWP4w)
+        * [docutr.com](http://docutr.com/)
     
     how does knowledge and content filtering and accumulation work in practice? how should it ideally work?
-    
-    https://vk.com/le_kinzhal
-    
-    [Library Genesis](https://libgen.is/search.php?&req=QuickStudy&phrase=1&view=simple&column=def&sort=year&sortmode=DESC) QuickStudy Guides
-    
-    [TheCollector | Ancient & Modern History, Art, Philosophy](https://www.thecollector.com/)
-    
-    [Интересный Подкаст](https://open.spotify.com/show/4IaAQZHUZpHdfX3JQUWH2w?si=RTtVlo94R72O-lByqmoWRw&utm_source=native-share-menu)
+        * https://vk.com/le_kinzhal
+        * [Library Genesis](https://libgen.is/search.php?&req=QuickStudy&phrase=1&view=simple&column=def&sort=year&sortmode=DESC) QuickStudy Guides
+        * [TheCollector | Ancient & Modern History, Art, Philosophy](https://www.thecollector.com/)
+        * [Интересный Подкаст](https://open.spotify.com/show/4IaAQZHUZpHdfX3JQUWH2w?si=RTtVlo94R72O-lByqmoWRw&utm_source=native-share-menu)
     
 - Reading / Viewing List (1-50)
     1. Book Idea: Professional Insights for Life - What Different Fields Can Tell Us about Thinking and Living
@@ -2106,7 +1531,7 @@ make a test schedule for languages, ideas, formulas, etc
     39. https://danielmiessler.com/site-archives/
     40. https://danielmiessler.com/podcast/
     41. https://yandex.ru/q/loves/experts/
-    42. **[The Biggest Ideas in the Universe! - YouTube](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX)**
+    42. [The Biggest Ideas in the Universe! - YouTube](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX)
     43. [Beck Wissen](http://libgen.rs/search.php?&req=beck+wissen&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
     44. http://libgen.rs/search.php?&req=de+agostini&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=10
     45. https://www.bollatiboringhieri.it/
@@ -2418,7 +1843,7 @@ make a test schedule for languages, ideas, formulas, etc
     42. [Best Books Podcasts (2018)](https://shereads.com/best-podcasts-for-book-lovers/)
     43. https://github.com/hackerkid/Mind-Expanding-Books
     44. http://home.edo.tu-dortmund.de/~hoffmann/Links.html
-    45. ********What are the most intellectually stimulating websites of which you know? What about them is intellectually stimulating?
+    45. ****What are the most intellectually stimulating websites of which you know? What about them is intellectually stimulating?
     46. [197 Educational YouTube Channels You Should Know About - Teachers With Apps](https://www.teacherswithapps.com/197-educational-youtube-channels-know/)
 
 - Blog Ideas
@@ -2441,14 +1866,13 @@ make a test schedule for languages, ideas, formulas, etc
     
     Amateur/unprofessional opinions
     
-    **Isaac Riley - Ideas and Opinions / Thoughts and Opinions**
+    Isaac Riley - Ideas and Opinions / Thoughts and Opinions
     
-    **Entries:**
+    Entries:
     
 
 - Top Resources
-    
-    https://sciencecast.org/welcome 
+        * https://sciencecast.org/welcome 
     
 - Plan maestro
     
@@ -2464,7 +1888,7 @@ make a test schedule for languages, ideas, formulas, etc
     
 - Visión
     
-    **Allgemeine Vision**
+    Allgemeine Vision
     
     Principios y carácter: ****Véase Atributos
     
@@ -2509,7 +1933,7 @@ make a test schedule for languages, ideas, formulas, etc
     - In Defense of Intuition
     - Dealing with Ambiguity (the Tension between absolute morality, the basic human desire for absolutes, and multiple perspectives, uncertainty, etc.)
     
-    **Noms de Plume**
+    Noms de Plume
     
     Newcomer's Guide to the Alt Right
     
@@ -2517,7 +1941,7 @@ make a test schedule for languages, ideas, formulas, etc
     
     How to Totally Destroy, Obliterate, and Annihilate the Left - A Cultural Crusader's Handbook
     
-    **Ideas**
+    Ideas
     
     Dead Souls-style take on U.S. (cf. Death of a Salesman)
     
@@ -2661,1494 +2085,774 @@ make a test schedule for languages, ideas, formulas, etc
     7. Hubski: Hubski is a discussion platform that focuses on high-quality discussions and conversations, with an emphasis on thoughtful and respectful dialogue.
     8. Tildes: Tildes is a community-driven platform that focuses on fostering intelligent and engaging discussions on a wide range of topics, from politics to technology and beyond.
 - Pensadores importantes
-    
-    [Columnistas de PS](https://docs.google.com/spreadsheets/d/1j5vfA-_DOAUiSjub6FCqMgwnQWVEZ4waXyrwWoQJulU/edit#gid=774566759)
+        * [Columnistas de PS](https://docs.google.com/spreadsheets/d/1j5vfA-_DOAUiSjub6FCqMgwnQWVEZ4waXyrwWoQJulU/edit#gid=774566759)
     
 - Sitios generales sobre ideas
-    
-    [http://wikipedia.org](http://wikipedia.org/)
-    
-    [https://www.wikiwand.com](https://www.wikiwand.com/)
-    
-    https://zestedesavoir.com/
-    
-    [Mark Tech Post](https://www.marktechpost.com/)
-    
-    [Хабаров](https://khabaroff.com/archive/)
-    
-    [Bibnum](http://www.bibnum.education.fr/)
-    
-    [3 Quarks Daily](https://www.3quarksdaily.com/)
-    
-    [Preposterous Universe](https://www.preposterousuniverse.com/podcast/)
-    
-    https://fs.blog/mental-models/
-    
-    http://uk.unionpedia.org/
-    
-    [Cola da Web](http://www.coladaweb.com/)
-    
-    http://dovidka.biz.ua/
-    
-    [Gazette littéraire - Journal créé en 2009 autour du désir de voyager au travers des livres.](http://www.gazettelitteraire.com/)
-    
-    [LEXILOGOS - Dictionnaires, Cartes, Documents en ligne - Langues &amp; Pays](https://www.lexilogos.com/index.htm)
-    
-    - ********Sites web recommandés
-    
-    https://openmindplatform.org/app-user/#_=_
-    
-    [List of online encyclopedias - Wikipedia](https://en.wikipedia.org/wiki/List_of_online_encyclopedias)
-    
-    https://www.project-syndicate.org/
-    
-    [LEXILOGOS - Dictionnaires, Cartes, Documents en ligne - Langues &amp; Pays](https://www.lexilogos.com/index.htm)
-    
-    [TEDxTalks by language](http://tedxtalks.ted.com/pages/languages)
-    
-    [TED: Ideas worth spreading](https://www.ted.com/)
-    
-    [100 principais sites para pesquisas científicas e acadêmicas](https://blog.even3.com.br/principais-sites-para-pesquisas-cientificas-e-academicas/)
-    
-    [Versus | Entdecke mehr als 5 Millionen Vergleiche](https://versus.com/de)
-    
-    [AnswerThePublic.com: that free visual keyword research &amp; content ideas tool](https://answerthepublic.com/)
-    
-    http://videolectures.net/
-    
-    [OpenEdition : four platforms for electronic resources in the humanities and social sciences: OpenEdition Books, Revues.org, Hypotheses, Calenda](http://www.openedition.org/)
-    
-    [Hypotheses | Platform for academic blogs in the humanities and social sciences](http://hypotheses.org/)
-    
-    [ideas4all. A rede social das ideias.](https://www.ideas4all.com//)
-    
-    [On Being with Krista Tippett — The Big Questions of Meaning](http://www.onbeing.org/)
-    
-    [Brain Pickings | An inventory of the meaningful life.](https://www.brainpickings.org/)
-    
-    [GRW](http://www.globalroadwarrior.com/)
-    
-    [Cadmus](http://cadmusjournal.org/)
-    
-    [Eruditio](http://eruditio.worldacademy.org/)
-    
-    [Aeon | ideas and culture](https://aeon.co/)
-    
-    http://www.creativitypost.com/
-    
-    https://lt.org/
-    
-    http://tetw.org/
-    
-    [3quarksdaily:](http://www.3quarksdaily.com/)
-    
-    [Intellectual Takeout | Feed Your Mind](http://www.intellectualtakeout.org/)
-    
-    [Welcome to Less Wrong](http://lesswrong.com/)
-    
-    [VirtualSalt](http://virtualsalt.com/)
-    
-    [BestThinking](https://www.bestthinking.com/)
-    
-    [OpenIDEO](http://www.openideo.com/)
-    
-    [Farnam Street](https://www.farnamstreetblog.com/)
-    
-    [Partners - FORA.tv](http://events.fora.tv/partners)
-    
-    [Big Think | Videos, articles, and tips to help you succeed, from the world&#39;s leading experts](http://bigthink.com/)
-    
-    [Hidden Brain : NPR](http://www.npr.org/series/423302056/hidden-brain)
-    
-    [World Academy of Art and Science](http://www.worldacademy.org/home-demo/index.html)
-    
-    https://www.thegreatideas.org/
-    
-    [Perspectives from The Economist Intelligence Unit (EIU)](http://perspectives.eiu.com/)
-    
-    [Вопросы и ответы](https://thequestion.ru/)
-    
-    [Главная - Русская историческая библиотека](http://rushist.com/)
-    
-    [Мудрый Философ | Философия, культура, религия](http://www.mudriyfilosof.ru/)
-    
-    [N+1: научные статьи, новости, открытия](https://nplus1.ru/)
-    
-    [«ШколаЖизни.ру» - ежедневный познавательный журнал](http://shkolazhizni.ru/)
-    
-    http://otetrad.ru/
-    
-    [litteratur.ch | Lesen, sehen, hören, nachdenken – schreiben](https://blog.litteratur.ch/WordPress/)
-    
-    [Nachdenkseiten](http://www.nachdenkseiten.de/)
-    
-    http://neue-aufklaerung.de/index.htm
-    
-    [La Vie des idées](http://www.laviedesidees.fr/)
-    
-    http://www.cultivonsnous.fr/
-    
-    [Home - Lecture2Go](https://lecture2go.uni-hamburg.de/web/vod/l2gos)
-    
-    [Lesswrong - Сайт рационалистов:](http://lesswrong.ru/)
-    
-    [Где искать техническую литературу ? Подборка полезных ссылок](https://vk.com/@physics_math-gde-iskat-tehnicheskuu-literaturu-podborka-poleznyh-ssylok)
-    
-    [Lesswrong.com](http://lesswrong.com/)
-    
-    [Cultivez votre savoir – Érudit](https://www.erudit.org/fr/)
-    
-    [Culture générale - Toutes les réponses aux questions que vous ne vous poseriez pas !](https://www.culture-generale.fr/)
-    
-    [Choses à Savoir - Développez votre culture générale](https://www.chosesasavoir.com/)
-    
-    [Accueil - 1000 idées de culture générale1000 idées de culture générale | Le site du manuel](https://1000-idees-de-culture-generale.fr/)
-    
-    [Canal Académie](http://www.canalacademie.com/)
-    
-    [Canal-U](https://www.canal-u.tv/)
-    
-    [De Conceptos.com](http://deconceptos.com/)
-    
-    [Universo Racionalista | Um Mundo Novo De Conhecimento](http://www.universoracionalista.org/)
-    
-    [Revista Galileu](http://revistagalileu.globo.com/)
-    
-    [Megacurioso](http://www.megacurioso.com.br/)
-    
-    [Significados](https://www.significados.com.br/)
-    
-    [Studenti](https://www.studenti.it/)
-    
-    [Libre - associazione di idee](http://www.libreidee.org/)
-    
-    [Riflessioni.it - Dove il Web Riflette!](http://www.riflessioni.it/)
-    
-    [موقع دخلك بتعرف](https://dkhlak.com/)
-    
-    [Naslovna - Školski](https://skolski.hrt.hr/)
-    
-    [NRK Skole – Lærerike programmer og klipp](https://www.nrk.no/skole/)
-    
-    [Pensamiento Crítico – Pensamiento Crítico para una acción solidaria. Comprender el mundo para transformarlo](http://www.pensamientocritico.org/)
-    
-    [Il Club dei Libri » Il Blog](http://www.ilclubdeilibri.com/il-blog/)
-    
-    [Clube dos Livros](http://www.clubedoslivros.pt/)
-    
-    [Clube do Livro | Um clube de leitura e para discussão de vários temas](https://clubedolivro.wordpress.com/)
-    
-    [Forum de Livraddict](https://www.livraddict.com/forum/)
-    
-    [Librairie Le Forum du Livre](https://www.librairieforumdulivre.fr/)
-    
-    [Rue des livres &gt; Annuaire des sites Internet](http://www.rue-des-livres.com/annuaire/)
-    
-    [Obsesión de libros!](https://booksobsesion.wordpress.com/)
-    
-    [Rue des livres](http://www.rue-des-livres.com/)
-    
-    [UNIVESP (PT)](https://www.youtube.com/user/univesptv)
-    
-    [Cinque cose belle](https://www.cinquecosebelle.it/)
-    
-    [Caminhos](https://caminhos.eu/)
-    
-    [Importancia](https://www.importancia.org/)
-    
-    http://skepdic.com/
-    
-    [rationalwiki](https://rationalwiki.org/wiki/Main_Page)
-    
-    [ORBITER | Where Science Meets Meaning](http://orbitermag.com/)
-    
-    [Alternative Transport](https://alternativetransport.wordpress.com/)
-    
-    https://es.wikipedia.org/wiki/Wikipedia:Portada
-    
-    http://stackoverflow.com/
-    
-    https://de.wikipedia.org/wiki/Portal:Gesprochene_Wikipedia/Kategorien
-    
-    http://wikimindmap.com/
-    
-    https://brainly.com.br/
-    
-    http://www.vice.com/fr
-    
-    https://samharris.org/
-    
-    http://qi.com/feed
-    
-    http://publicdomainreview.org/
-    
-    https://arzamas.academy/
-    
-    http://lifehacker.ru/
-    
-    http://inet.livejournal.com/
-    
-    http://thedb.ru/
-    
-    http://studopedia.org/
-    
-    http://www.pm-magazin.de/
-    
-    http://www.wissen.de/
-    
-    http://www.geo.de/
-    
-    http://www.theintelligence.de/
-    
-    https://de.jakubmarian.com/
-    
-    https://courses.prometheus.org.ua/dashboard
-    
-    http://www.npblog.com.ua/
-    
-    [Энциклопедии и Словари: (Символы,Знаки,Эмблемы)](https://vk.com/wall-123642573_149)
-    
-    [10 лекций TED, которые способны изменить вашу жизнь](https://vk.com/wall-172266857_361)
-    
-    [10 простейших вещей, которые мы путаем еще со школы](https://vk.com/wall-36047336_75627)
-    
-    [Azbuka_sistemnogo_myshlenia_D_Medouz.pdf](https://vk.com/doc29588442_497185702?hash=2e4c4162c23cf88e76&dl=137e601be095d27732)
-    
-    [Сайты, где можно потренировать мозги](https://vk.com/wall-51788541_50632)
-    
-    [Увлекательные видео от Ted Ed](https://vk.com/wall-37160097_290946)
-    
-    [Где искать техническую литературу ? Подборка полезных ссылок](https://vk.com/@physics_math-gde-iskat-tehnicheskuu-literaturu-podborka-poleznyh-ssylok)
-    
-    [Огромнейший список информационно-образовательных ресурсов на все темы.](https://vk.com/wall-36047336_78686)
-    
-    [Подборка одних из лучших видео ted-ed](https://vk.com/wall-124609314_90558)
-    
-    [Подборка переводов за февраль](https://vk.com/@newochem-podborka-feb-2019)
-    
-    [Bloghemia | Página de Difusión del Arte y la Ciencia](https://www.bloghemia.com/)
-    
-    http://encyklopedia.pwn.pl/
-    
-    http://www.portalcafebrasil.com.br/
-    
-    http://www.sapere.it/sapere.html
-    
-    http://www.treccani.it/
-    
-    https://encyklopedia.pwn.pl/
-    
-    https://geek.hr/
-    
-    https://knigavuhe.com/author/dzhared-dajjmond/
-    
-    https://mail.uni-stuttgart.de/owa/#path=/mail
-    
-    https://skolski.hrt.hr/
-    
-    https://snl.no/Den_store_franske_encyklopedien
-    
-    https://thequestion.ru/
-    
-    https://www.bing.com/
-    
-    https://www.icloud.com/
-    
-    https://www.institut-pandore.com/
-    
-    http://www.regardsurlemonde.fr/blog/
-    
-    http://www.scienceshumaines.com/
-    
-    http://www.reader.fr/
-    
-    http://www.ebrumagazine.com/
-    
-    http://www.muyinteresante.com.mx/
-    
-    https://www.saberespractico.com/
-    
-    http://www.elcultural.com/
-    
-    http://obloghumanista.blogspot.com/
-    
-    https://descomplica.com.br/blog/
-    
-    http://www.suapesquisa.com/
-    
-    http://marcobesozzi.blogspot.com/
-    
-    https://geek.hr/znanost/
-    
-    http://desconversa.com.br/
-    
-    [On Being with Krista Tippett — The Big Questions of Meaning](http://www.onbeing.org/)
-    
-    [Brain Pickings | An inventory of the meaningful life.](https://www.brainpickings.org/)
-    
-    https://fs.blog/
-    
-    [GRW](http://www.globalroadwarrior.com/)
-    
-    [Cadmus](http://cadmusjournal.org/)
-    
-    [Eruditio](http://eruditio.worldacademy.org/)
-    
-    [Aeon | ideas and culture](https://aeon.co/)
-    
-    http://www.creativitypost.com/
-    
-    https://lt.org/
-    
-    http://tetw.org/
-    
-    [3quarksdaily:](http://www.3quarksdaily.com/)
-    
-    [Intellectual Takeout | Feed Your Mind](http://www.intellectualtakeout.org/)
-    
-    [Welcome to Less Wrong](http://lesswrong.com/)
-    
-    [VirtualSalt](http://virtualsalt.com/)
-    
-    [BestThinking](https://www.bestthinking.com/)
-    
-    [OpenIDEO](http://www.openideo.com/)
-    
-    [Farnam Street](https://www.farnamstreetblog.com/)
-    
-    [Partners - FORA.tv](http://events.fora.tv/partners)
-    
-    [Big Think | Videos, articles, and tips to help you succeed, from the world's leading experts](http://bigthink.com/)
-    
-    [Hidden Brain : NPR](http://www.npr.org/series/423302056/hidden-brain)
-    
-    [World Academy of Art and Science](http://www.worldacademy.org/home-demo/index.html)
-    
-    https://www.thegreatideas.org/
-    
-    [Perspectives from The Economist Intelligence Unit (EIU)](http://perspectives.eiu.com/)
-    
-    https://openmindplatform.org/app-user/#_=_
-    
-    [Вопросы и ответы](https://thequestion.ru/)
-    
-    [Главная - Русская историческая библиотека](http://rushist.com/)
-    
-    [Мудрый Философ | Философия, культура, религия](http://www.mudriyfilosof.ru/)
-    
-    [N+1: научные статьи, новости, открытия](https://nplus1.ru/)
-    
-    [«ШколаЖизни.ру» - ежедневный познавательный журнал](http://shkolazhizni.ru/)
-    
-    http://otetrad.ru/
-    
-    [Online-Lexika](https://www.spektrum.de/lexikon/)
-    
-    [litteratur.ch | Lesen, sehen, hören, nachdenken – schreiben](https://blog.litteratur.ch/WordPress/)
-    
-    https://www.achgut.com/
-    
-    [Nachdenkseiten](http://www.nachdenkseiten.de/)
-    
-    http://neue-aufklaerung.de/index.htm
-    
-    [La Vie des idées](http://www.laviedesidees.fr/)
-    
-    https://forums.futura-sciences.com/
-    
-    [La culture générale | Savoir, c'est pouvoir](https://www.laculturegenerale.com/)
-    
-    http://www.cultivonsnous.fr/
-    
-    [Culture générale facile et gratuite | Cultivetoi.fr](https://cultivetoi.fr/)
-    
-    [Choses à Savoir - Développez votre culture générale](https://www.chosesasavoir.com/)
-    
-    [Accueil - 1000 idées de culture générale1000 idées de culture générale | Le site du manuel](https://1000-idees-de-culture-generale.fr/)
-    
-    [Canal Académie](http://www.canalacademie.com/)
-    
-    https://www.erudit.org/fr/
-    
-    [1001Tests.com](http://www.1001tests.com/)
-    
-    [Canal-U](https://www.canal-u.tv/)
-    
-    http://www.biu.sorbonne.fr/sid/
-    
-    [Tercera Cultura – Ciencia para el debate público](http://www.terceracultura.net/tc/)
-    
-    [De Conceptos.com](http://deconceptos.com/)
-    
-    [Universo Racionalista | Um Mundo Novo De Conhecimento](http://www.universoracionalista.org/)
-    
-    http://revistagalileu.globo.com/
-    
-    http://www.megacurioso.com.br/
-    
-    https://www.significados.com.br/
-    
-    https://www.pensador.com/
-    
-    [Pensamiento Crítico – Pensamiento Crítico para una acción solidaria. Comprender el mundo para transformarlo](http://www.pensamientocritico.org/)
-    
-    http://www.coladaweb.com/
-    
-    [Libre - associazione di idee](http://www.libreidee.org/)
-    
-    https://www.studenti.it/
-    
-    [Riflessioni.it - Dove il Web Riflette!](http://www.riflessioni.it/)
-    
-    [موقع دخلك بتعرف](https://dkhlak.com/)
-    
-    [Naslovna - Školski](https://skolski.hrt.hr/)
-    
-    [NRK Skole – Lærerike programmer og klipp](https://www.nrk.no/skole/)
-    
-    [Australian Book Review](https://www.australianbookreview.com.au/)
-    
-    [L&#39;Indice dei Libri del Mese](https://www.lindiceonline.com/)
-    
-    [la Rivista dei Libri - Home](https://www.facebook.com/larivista/)
-    
-    [Knjigarna Bukla](http://www.bukla.si/knjigarna/index.php)
-    
-    [Katalog.Czasopism.pl](http://katalog.czasopism.pl/)
-    
-    [Nowe Książk – Katalog.Czasopism.pl](http://katalog.czasopism.pl/index.php/Nowe_Ksi%C4%85%C5%BCk)
-    
-    [Museindia](http://www.museindia.com/Home/Index)
-    
-    [Lumooja – Kirjallisuuslehti](http://lumooja.fi/)
-    
-    [GRUPPO/I DI LETTURA – Il blog dei gruppi di lettura e le letture condivise di noi *lettori comuni*](https://gruppodilettura.wordpress.com/)
-    
-    [Home Page – The TLS](https://www.the-tls.co.uk/)
-    
-    [Australian Book Review Websites Online | Interesting Books To Read](http://www.goodreadingmagazine.com.au/)
-    
-    [Revista de Libros - Crítica cultural. Artículos, ensayos y reseñas bibliográficas](http://www.revistadelibros.com/)
-    
-    [www.krytyka.com](http://www.krytyka.com/)
-    
-    [Books - Le monde à la lumière des livres](http://www.books.fr/)
-    
-    [Bienvenue sur www.libres.org](http://www.libres.org/index.php)
-    
-    [Vinduet](http://www.vinduet.no/)
-    
-    [Διαδραστικά Σχολικά Βιβλία](http://ebooks.edu.gr/new/)
-    
-    [Writers Unlimited | Writers Unlimited](http://www.writersunlimited.nl/en)
-    
-    *******Free eLibrary &quot;Original&quot; | Бесплатная библиотека &quot;Оригинал&quot;. Классическая литература на языке оригинала и переводы на иностранные языки
-    
-    https://tululu.org/
-    
-    [Atramenta](https://www.atramenta.net/)
-    
-    [Goodreads Italia Group (10339 Members)](https://www.goodreads.com/group/show/30626-goodreads-italia)
-    
-    [Francophonie Group (3174 Members)](https://www.goodreads.com/group/show/3936-francophonie)
-    
-    [Русский со словарем by Ирина Левонтина](https://www.goodreads.com/book/show/11766064?from_search=true)
-    
-    [Books en Español Group (4991 Members)](https://www.goodreads.com/group/show/493-books-en-espa-ol)
-    
-    [Lectores Mexicanos Group (4213 Members)](https://www.goodreads.com/group/show/6292-lectores-mexicanos)
-    
-    [Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada)
-    
-    http://stackoverflow.com/
-    
-    [Gesprochene Wikipedia](https://de.wikipedia.org/wiki/Portal:Gesprochene_Wikipedia/Kategorien)
-    
-    http://wikimindmap.com/
-    
-    [Brainly.com.br - Estudamos juntos](https://brainly.com.br/)
-    
-    http://www.vice.com/fr
-    
-    [Sam Harris | Home of the Waking Up Podcast](https://samharris.org/)
-    
-    [QI : Quite Interesting](http://qi.com/feed)
-    
-    [The Public Domain Review](http://publicdomainreview.org/)
-    
-    https://arzamas.academy/
-    
-    https://limeokapi.wordpress.com/page/2/
-    
-    http://www.ellenwinner.com/
+        * [http://wikipedia.org](http://wikipedia.org/)
+        * [https://www.wikiwand.com](https://www.wikiwand.com/)
+        * https://zestedesavoir.com/
+        * [Mark Tech Post](https://www.marktechpost.com/)
+        * [Хабаров](https://khabaroff.com/archive/)
+        * [Bibnum](http://www.bibnum.education.fr/)
+        * [3 Quarks Daily](https://www.3quarksdaily.com/)
+        * [Preposterous Universe](https://www.preposterousuniverse.com/podcast/)
+        * https://fs.blog/mental-models/
+        * http://uk.unionpedia.org/
+        * [Cola da Web](http://www.coladaweb.com/)
+        * http://dovidka.biz.ua/
+        * [Gazette littéraire - Journal créé en 2009 autour du désir de voyager au travers des livres.](http://www.gazettelitteraire.com/)
+        * [LEXILOGOS - Dictionnaires, Cartes, Documents en ligne - Langues &amp; Pays](https://www.lexilogos.com/index.htm)
+    
+    - ****Sites web recommandés
+        * https://openmindplatform.org/app-user/#_=_
+        * [List of online encyclopedias - Wikipedia](https://en.wikipedia.org/wiki/List_of_online_encyclopedias)
+        * https://www.project-syndicate.org/
+        * [LEXILOGOS - Dictionnaires, Cartes, Documents en ligne - Langues &amp; Pays](https://www.lexilogos.com/index.htm)
+        * [TEDxTalks by language](http://tedxtalks.ted.com/pages/languages)
+        * [TED: Ideas worth spreading](https://www.ted.com/)
+        * [100 principais sites para pesquisas científicas e acadêmicas](https://blog.even3.com.br/principais-sites-para-pesquisas-cientificas-e-academicas/)
+        * [Versus | Entdecke mehr als 5 Millionen Vergleiche](https://versus.com/de)
+        * [AnswerThePublic.com: that free visual keyword research &amp; content ideas tool](https://answerthepublic.com/)
+        * http://videolectures.net/
+        * [OpenEdition : four platforms for electronic resources in the humanities and social sciences: OpenEdition Books, Revues.org, Hypotheses, Calenda](http://www.openedition.org/)
+        * [Hypotheses | Platform for academic blogs in the humanities and social sciences](http://hypotheses.org/)
+        * [ideas4all. A rede social das ideias.](https://www.ideas4all.com//)
+        * [On Being with Krista Tippett — The Big Questions of Meaning](http://www.onbeing.org/)
+        * [Brain Pickings | An inventory of the meaningful life.](https://www.brainpickings.org/)
+        * [GRW](http://www.globalroadwarrior.com/)
+        * [Cadmus](http://cadmusjournal.org/)
+        * [Eruditio](http://eruditio.worldacademy.org/)
+        * [Aeon | ideas and culture](https://aeon.co/)
+        * http://www.creativitypost.com/
+        * https://lt.org/
+        * http://tetw.org/
+        * [3quarksdaily:](http://www.3quarksdaily.com/)
+        * [Intellectual Takeout | Feed Your Mind](http://www.intellectualtakeout.org/)
+        * [Welcome to Less Wrong](http://lesswrong.com/)
+        * [VirtualSalt](http://virtualsalt.com/)
+        * [BestThinking](https://www.bestthinking.com/)
+        * [OpenIDEO](http://www.openideo.com/)
+        * [Farnam Street](https://www.farnamstreetblog.com/)
+        * [Partners - FORA.tv](http://events.fora.tv/partners)
+        * [Big Think | Videos, articles, and tips to help you succeed, from the world&#39;s leading experts](http://bigthink.com/)
+        * [Hidden Brain : NPR](http://www.npr.org/series/423302056/hidden-brain)
+        * [World Academy of Art and Science](http://www.worldacademy.org/home-demo/index.html)
+        * https://www.thegreatideas.org/
+        * [Perspectives from The Economist Intelligence Unit (EIU)](http://perspectives.eiu.com/)
+        * [Вопросы и ответы](https://thequestion.ru/)
+        * [Главная - Русская историческая библиотека](http://rushist.com/)
+        * [Мудрый Философ | Философия, культура, религия](http://www.mudriyfilosof.ru/)
+        * [N+1: научные статьи, новости, открытия](https://nplus1.ru/)
+        * [«ШколаЖизни.ру» - ежедневный познавательный журнал](http://shkolazhizni.ru/)
+        * http://otetrad.ru/
+        * [litteratur.ch | Lesen, sehen, hören, nachdenken – schreiben](https://blog.litteratur.ch/WordPress/)
+        * [Nachdenkseiten](http://www.nachdenkseiten.de/)
+        * http://neue-aufklaerung.de/index.htm
+        * [La Vie des idées](http://www.laviedesidees.fr/)
+        * http://www.cultivonsnous.fr/
+        * [Home - Lecture2Go](https://lecture2go.uni-hamburg.de/web/vod/l2gos)
+        * [Lesswrong - Сайт рационалистов:](http://lesswrong.ru/)
+        * [Где искать техническую литературу ? Подборка полезных ссылок](https://vk.com/@physics_math-gde-iskat-tehnicheskuu-literaturu-podborka-poleznyh-ssylok)
+        * [Lesswrong.com](http://lesswrong.com/)
+        * [Cultivez votre savoir – Érudit](https://www.erudit.org/fr/)
+        * [Culture générale - Toutes les réponses aux questions que vous ne vous poseriez pas !](https://www.culture-generale.fr/)
+        * [Choses à Savoir - Développez votre culture générale](https://www.chosesasavoir.com/)
+        * [Accueil - 1000 idées de culture générale1000 idées de culture générale | Le site du manuel](https://1000-idees-de-culture-generale.fr/)
+        * [Canal Académie](http://www.canalacademie.com/)
+        * [Canal-U](https://www.canal-u.tv/)
+        * [De Conceptos.com](http://deconceptos.com/)
+        * [Universo Racionalista | Um Mundo Novo De Conhecimento](http://www.universoracionalista.org/)
+        * [Revista Galileu](http://revistagalileu.globo.com/)
+        * [Megacurioso](http://www.megacurioso.com.br/)
+        * [Significados](https://www.significados.com.br/)
+        * [Studenti](https://www.studenti.it/)
+        * [Libre - associazione di idee](http://www.libreidee.org/)
+        * [Riflessioni.it - Dove il Web Riflette!](http://www.riflessioni.it/)
+        * [موقع دخلك بتعرف](https://dkhlak.com/)
+        * [Naslovna - Školski](https://skolski.hrt.hr/)
+        * [NRK Skole – Lærerike programmer og klipp](https://www.nrk.no/skole/)
+        * [Pensamiento Crítico – Pensamiento Crítico para una acción solidaria. Comprender el mundo para transformarlo](http://www.pensamientocritico.org/)
+        * [Il Club dei Libri » Il Blog](http://www.ilclubdeilibri.com/il-blog/)
+        * [Clube dos Livros](http://www.clubedoslivros.pt/)
+        * [Clube do Livro | Um clube de leitura e para discussão de vários temas](https://clubedolivro.wordpress.com/)
+        * [Forum de Livraddict](https://www.livraddict.com/forum/)
+        * [Librairie Le Forum du Livre](https://www.librairieforumdulivre.fr/)
+        * [Rue des livres &gt; Annuaire des sites Internet](http://www.rue-des-livres.com/annuaire/)
+        * [Obsesión de libros!](https://booksobsesion.wordpress.com/)
+        * [Rue des livres](http://www.rue-des-livres.com/)
+        * [UNIVESP (PT)](https://www.youtube.com/user/univesptv)
+        * [Cinque cose belle](https://www.cinquecosebelle.it/)
+        * [Caminhos](https://caminhos.eu/)
+        * [Importancia](https://www.importancia.org/)
+        * http://skepdic.com/
+        * [rationalwiki](https://rationalwiki.org/wiki/Main_Page)
+        * [ORBITER | Where Science Meets Meaning](http://orbitermag.com/)
+        * [Alternative Transport](https://alternativetransport.wordpress.com/)
+        * https://es.wikipedia.org/wiki/Wikipedia:Portada
+        * http://stackoverflow.com/
+        * https://de.wikipedia.org/wiki/Portal:Gesprochene_Wikipedia/Kategorien
+        * http://wikimindmap.com/
+        * https://brainly.com.br/
+        * http://www.vice.com/fr
+        * https://samharris.org/
+        * http://qi.com/feed
+        * http://publicdomainreview.org/
+        * https://arzamas.academy/
+        * http://lifehacker.ru/
+        * http://inet.livejournal.com/
+        * http://thedb.ru/
+        * http://studopedia.org/
+        * http://www.pm-magazin.de/
+        * http://www.wissen.de/
+        * http://www.geo.de/
+        * http://www.theintelligence.de/
+        * https://de.jakubmarian.com/
+        * https://courses.prometheus.org.ua/dashboard
+        * http://www.npblog.com.ua/
+        * [Энциклопедии и Словари: (Символы,Знаки,Эмблемы)](https://vk.com/wall-123642573_149)
+        * [10 лекций TED, которые способны изменить вашу жизнь](https://vk.com/wall-172266857_361)
+        * [10 простейших вещей, которые мы путаем еще со школы](https://vk.com/wall-36047336_75627)
+        * [Azbuka_sistemnogo_myshlenia_D_Medouz.pdf](https://vk.com/doc29588442_497185702?hash=2e4c4162c23cf88e76&dl=137e601be095d27732)
+        * [Сайты, где можно потренировать мозги](https://vk.com/wall-51788541_50632)
+        * [Увлекательные видео от Ted Ed](https://vk.com/wall-37160097_290946)
+        * [Где искать техническую литературу ? Подборка полезных ссылок](https://vk.com/@physics_math-gde-iskat-tehnicheskuu-literaturu-podborka-poleznyh-ssylok)
+        * [Огромнейший список информационно-образовательных ресурсов на все темы.](https://vk.com/wall-36047336_78686)
+        * [Подборка одних из лучших видео ted-ed](https://vk.com/wall-124609314_90558)
+        * [Подборка переводов за февраль](https://vk.com/@newochem-podborka-feb-2019)
+        * [Bloghemia | Página de Difusión del Arte y la Ciencia](https://www.bloghemia.com/)
+        * http://encyklopedia.pwn.pl/
+        * http://www.portalcafebrasil.com.br/
+        * http://www.sapere.it/sapere.html
+        * http://www.treccani.it/
+        * https://encyklopedia.pwn.pl/
+        * https://geek.hr/
+        * https://knigavuhe.com/author/dzhared-dajjmond/
+        * https://mail.uni-stuttgart.de/owa/#path=/mail
+        * https://skolski.hrt.hr/
+        * https://snl.no/Den_store_franske_encyklopedien
+        * https://thequestion.ru/
+        * https://www.bing.com/
+        * https://www.icloud.com/
+        * https://www.institut-pandore.com/
+        * http://www.regardsurlemonde.fr/blog/
+        * http://www.scienceshumaines.com/
+        * http://www.reader.fr/
+        * http://www.ebrumagazine.com/
+        * http://www.muyinteresante.com.mx/
+        * https://www.saberespractico.com/
+        * http://www.elcultural.com/
+        * http://obloghumanista.blogspot.com/
+        * https://descomplica.com.br/blog/
+        * http://www.suapesquisa.com/
+        * http://marcobesozzi.blogspot.com/
+        * https://geek.hr/znanost/
+        * http://desconversa.com.br/
+        * [On Being with Krista Tippett — The Big Questions of Meaning](http://www.onbeing.org/)
+        * [Brain Pickings | An inventory of the meaningful life.](https://www.brainpickings.org/)
+        * https://fs.blog/
+        * [GRW](http://www.globalroadwarrior.com/)
+        * [Cadmus](http://cadmusjournal.org/)
+        * [Eruditio](http://eruditio.worldacademy.org/)
+        * [Aeon | ideas and culture](https://aeon.co/)
+        * http://www.creativitypost.com/
+        * https://lt.org/
+        * http://tetw.org/
+        * [3quarksdaily:](http://www.3quarksdaily.com/)
+        * [Intellectual Takeout | Feed Your Mind](http://www.intellectualtakeout.org/)
+        * [Welcome to Less Wrong](http://lesswrong.com/)
+        * [VirtualSalt](http://virtualsalt.com/)
+        * [BestThinking](https://www.bestthinking.com/)
+        * [OpenIDEO](http://www.openideo.com/)
+        * [Farnam Street](https://www.farnamstreetblog.com/)
+        * [Partners - FORA.tv](http://events.fora.tv/partners)
+        * [Big Think | Videos, articles, and tips to help you succeed, from the world's leading experts](http://bigthink.com/)
+        * [Hidden Brain : NPR](http://www.npr.org/series/423302056/hidden-brain)
+        * [World Academy of Art and Science](http://www.worldacademy.org/home-demo/index.html)
+        * https://www.thegreatideas.org/
+        * [Perspectives from The Economist Intelligence Unit (EIU)](http://perspectives.eiu.com/)
+        * https://openmindplatform.org/app-user/#_=_
+        * [Вопросы и ответы](https://thequestion.ru/)
+        * [Главная - Русская историческая библиотека](http://rushist.com/)
+        * [Мудрый Философ | Философия, культура, религия](http://www.mudriyfilosof.ru/)
+        * [N+1: научные статьи, новости, открытия](https://nplus1.ru/)
+        * [«ШколаЖизни.ру» - ежедневный познавательный журнал](http://shkolazhizni.ru/)
+        * http://otetrad.ru/
+        * [Online-Lexika](https://www.spektrum.de/lexikon/)
+        * [litteratur.ch | Lesen, sehen, hören, nachdenken – schreiben](https://blog.litteratur.ch/WordPress/)
+        * https://www.achgut.com/
+        * [Nachdenkseiten](http://www.nachdenkseiten.de/)
+        * http://neue-aufklaerung.de/index.htm
+        * [La Vie des idées](http://www.laviedesidees.fr/)
+        * https://forums.futura-sciences.com/
+        * [La culture générale | Savoir, c'est pouvoir](https://www.laculturegenerale.com/)
+        * http://www.cultivonsnous.fr/
+        * [Culture générale facile et gratuite | Cultivetoi.fr](https://cultivetoi.fr/)
+        * [Choses à Savoir - Développez votre culture générale](https://www.chosesasavoir.com/)
+        * [Accueil - 1000 idées de culture générale1000 idées de culture générale | Le site du manuel](https://1000-idees-de-culture-generale.fr/)
+        * [Canal Académie](http://www.canalacademie.com/)
+        * https://www.erudit.org/fr/
+        * [1001Tests.com](http://www.1001tests.com/)
+        * [Canal-U](https://www.canal-u.tv/)
+        * http://www.biu.sorbonne.fr/sid/
+        * [Tercera Cultura – Ciencia para el debate público](http://www.terceracultura.net/tc/)
+        * [De Conceptos.com](http://deconceptos.com/)
+        * [Universo Racionalista | Um Mundo Novo De Conhecimento](http://www.universoracionalista.org/)
+        * http://revistagalileu.globo.com/
+        * http://www.megacurioso.com.br/
+        * https://www.significados.com.br/
+        * https://www.pensador.com/
+        * [Pensamiento Crítico – Pensamiento Crítico para una acción solidaria. Comprender el mundo para transformarlo](http://www.pensamientocritico.org/)
+        * http://www.coladaweb.com/
+        * [Libre - associazione di idee](http://www.libreidee.org/)
+        * https://www.studenti.it/
+        * [Riflessioni.it - Dove il Web Riflette!](http://www.riflessioni.it/)
+        * [موقع دخلك بتعرف](https://dkhlak.com/)
+        * [Naslovna - Školski](https://skolski.hrt.hr/)
+        * [NRK Skole – Lærerike programmer og klipp](https://www.nrk.no/skole/)
+        * [Australian Book Review](https://www.australianbookreview.com.au/)
+        * [L&#39;Indice dei Libri del Mese](https://www.lindiceonline.com/)
+        * [la Rivista dei Libri - Home](https://www.facebook.com/larivista/)
+        * [Knjigarna Bukla](http://www.bukla.si/knjigarna/index.php)
+        * [Katalog.Czasopism.pl](http://katalog.czasopism.pl/)
+        * [Nowe Książk – Katalog.Czasopism.pl](http://katalog.czasopism.pl/index.php/Nowe_Ksi%C4%85%C5%BCk)
+        * [Museindia](http://www.museindia.com/Home/Index)
+        * [Lumooja – Kirjallisuuslehti](http://lumooja.fi/)
+        * [GRUPPO/I DI LETTURA – Il blog dei gruppi di lettura e le letture condivise di noi *lettori comuni*](https://gruppodilettura.wordpress.com/)
+        * [Home Page – The TLS](https://www.the-tls.co.uk/)
+        * [Australian Book Review Websites Online | Interesting Books To Read](http://www.goodreadingmagazine.com.au/)
+        * [Revista de Libros - Crítica cultural. Artículos, ensayos y reseñas bibliográficas](http://www.revistadelibros.com/)
+        * [www.krytyka.com](http://www.krytyka.com/)
+        * [Books - Le monde à la lumière des livres](http://www.books.fr/)
+        * [Bienvenue sur www.libres.org](http://www.libres.org/index.php)
+        * [Vinduet](http://www.vinduet.no/)
+        * [Διαδραστικά Σχολικά Βιβλία](http://ebooks.edu.gr/new/)
+        * [Writers Unlimited | Writers Unlimited](http://www.writersunlimited.nl/en)
+    
+    ***Free eLibrary &quot;Original&quot; | Бесплатная библиотека &quot;Оригинал&quot;. Классическая литература на языке оригинала и переводы на иностранные языки
+        * https://tululu.org/
+        * [Atramenta](https://www.atramenta.net/)
+        * [Goodreads Italia Group (10339 Members)](https://www.goodreads.com/group/show/30626-goodreads-italia)
+        * [Francophonie Group (3174 Members)](https://www.goodreads.com/group/show/3936-francophonie)
+        * [Русский со словарем by Ирина Левонтина](https://www.goodreads.com/book/show/11766064?from_search=true)
+        * [Books en Español Group (4991 Members)](https://www.goodreads.com/group/show/493-books-en-espa-ol)
+        * [Lectores Mexicanos Group (4213 Members)](https://www.goodreads.com/group/show/6292-lectores-mexicanos)
+        * [Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada)
+        * http://stackoverflow.com/
+        * [Gesprochene Wikipedia](https://de.wikipedia.org/wiki/Portal:Gesprochene_Wikipedia/Kategorien)
+        * http://wikimindmap.com/
+        * [Brainly.com.br - Estudamos juntos](https://brainly.com.br/)
+        * http://www.vice.com/fr
+        * [Sam Harris | Home of the Waking Up Podcast](https://samharris.org/)
+        * [QI : Quite Interesting](http://qi.com/feed)
+        * [The Public Domain Review](http://publicdomainreview.org/)
+        * https://arzamas.academy/
+        * https://limeokapi.wordpress.com/page/2/
+        * http://www.ellenwinner.com/
     
     *** http://philosophybites.com/
-    
-    http://www.webdianoia.com/glosario/display.php?action=view&id=56&from=action=search%7Cby=C
-    
-    [Лайфхакер - Жизнь несовершенна. Исправь это!](http://lifehacker.ru/)
-    
-    [ПРО ЖИЗНЬ](http://inet.livejournal.com/)
-    
-    [Энциклопедия отличий "DifferenceBetween" - TheDB.ru](http://thedb.ru/)
-    
-    http://studopedia.org/
-    
-    [P.M. Magazin: History, Fragen&Antworten, Rätsel, Biografie - Die Welt des Wissens im Abo - [P.M. MAGAZIN]](http://www.pm-magazin.de/)
-    
-    [Allgemeinbildung | Wissenstest | Lexikon | Wörterbücher | Suche auf wissen.de](http://www.wissen.de/)
-    
-    https://www.spektrum.de/lexikon/neurowissenschaft/
-    
-    https://www.spektrum.de/lexikon/philosophie/
-    
-    [Reisen, Wissen, Fotografie: Das neue Bild der Erde- GEO.de](http://www.geo.de/)
-    
-    [The Intelligence - Objektiv. Kompetent. Unabhängig](http://www.theintelligence.de/)
-    
-    [Jakub Marian – Bildungsblog](https://de.jakubmarian.com/)
-    
-    [Юніонпедія](http://uk.unionpedia.org/)
-    
-    [Довідник цікавих фактів](http://dovidka.biz.ua/)
-    
-    http://www.npblog.com.ua/
-    
-    [Apprendre, et refaire le monde - Institut Pandore](https://www.institut-pandore.com/)
-    
-    [Regard sur le Monde - Nature, sciences et environnement.](http://www.regardsurlemonde.fr/blog/)
-    
-    [Magazine Sciences Humaines](http://www.scienceshumaines.com/)
-    
-    https://zestedesavoir.com/
-    
-    [Reader.fr](http://www.reader.fr/)
-    
-    [Ebru Magazine](http://www.ebrumagazine.com/)
-    
-    [Muy Interesante México](http://www.muyinteresante.com.mx/)
-    
-    https://www.saberespractico.com/
-    
-    [EL CULTURAL. Revista de actualidad cultural](http://www.elcultural.com/)
-    
-    [Etcetera - O Blog Humanista](http://obloghumanista.blogspot.com/)
-    
-    [Desconversa - O blog do Descomplica](https://descomplica.com.br/blog/)
-    
-    [Sua Pesquisa - Portal de Pesquisas Temáticas](http://www.suapesquisa.com/)
-    
-    [Mundo Educação – Educação, Vestibular, ENEM, Trabalhos Escolares.](http://mundoeducacao.bol.uol.com.br/)
-    
-    [UHL](http://universidadehumanista.blogspot.pt/)
-    
-    [Portale delle risorse didattiche multimediali del prof. Gaudio](http://www.gaudio.org/)
-    
-    [Notizie, foto, video di Scienza, Animali, Ambiente e Tecnologia - Focus.it](http://www.focus.it/)
-    
-    [Leonardo.it - Il magazine delle Passioni](http://www.leonardo.it/)
-    
-    [Il blog di Marco Besozzi](http://marcobesozzi.blogspot.com/)
-    
-    [Znanost | Hrvatski znanstveno-popularni portal](https://geek.hr/znanost/)
-    
-    [| Just another WordPress.com site](https://horaciobacon.wordpress.com/)
-    
-    [History Undressed](http://www.historyundressed.com/)
-    
-    [Українські підручники та карти. Всесвітня історія, історія України, географія.](http://ukrmap.su/)
-    
-    [Univero (UK)](https://medium.com/@univero)
-    
-    [Mon cyber prof : soutien scolaire et aide aux devoirs par les élèves des Grandes Ecoles - cyberprofs.com](https://www.cyberprofs.com/)
-    
-    [Школьные Знания.com - Решаем домашнее задание вместе](https://znanija.com/predmet/drugie_predmety)
-    
-    [Полезные советы со света на все случаи жизни - готовые инструкции к действию](http://sovetisosveta.ru/)
-    
-    [The Vore - The best new international culture online](https://thevore.com/)
-    
-    https://sjedi5.com/
-    
-    [Danska - Skolbok](http://www.grundskoleboken.se/wiki/Danska)
-    
-    [Store norske leksikon](https://snl.no/)
-    
-    https://pen-international.org/fr/
+        * http://www.webdianoia.com/glosario/display.php?action=view&id=56&from=action=search%7Cby=C
+        * [Лайфхакер - Жизнь несовершенна. Исправь это!](http://lifehacker.ru/)
+        * [ПРО ЖИЗНЬ](http://inet.livejournal.com/)
+        * [Энциклопедия отличий "DifferenceBetween" - TheDB.ru](http://thedb.ru/)
+        * http://studopedia.org/
+        * [P.M. Magazin: History, Fragen&Antworten, Rätsel, Biografie - Die Welt des Wissens im Abo - [P.M. MAGAZIN]](http://www.pm-magazin.de/)
+        * [Allgemeinbildung | Wissenstest | Lexikon | Wörterbücher | Suche auf wissen.de](http://www.wissen.de/)
+        * https://www.spektrum.de/lexikon/neurowissenschaft/
+        * https://www.spektrum.de/lexikon/philosophie/
+        * [Reisen, Wissen, Fotografie: Das neue Bild der Erde- GEO.de](http://www.geo.de/)
+        * [The Intelligence - Objektiv. Kompetent. Unabhängig](http://www.theintelligence.de/)
+        * [Jakub Marian – Bildungsblog](https://de.jakubmarian.com/)
+        * [Юніонпедія](http://uk.unionpedia.org/)
+        * [Довідник цікавих фактів](http://dovidka.biz.ua/)
+        * http://www.npblog.com.ua/
+        * [Apprendre, et refaire le monde - Institut Pandore](https://www.institut-pandore.com/)
+        * [Regard sur le Monde - Nature, sciences et environnement.](http://www.regardsurlemonde.fr/blog/)
+        * [Magazine Sciences Humaines](http://www.scienceshumaines.com/)
+        * https://zestedesavoir.com/
+        * [Reader.fr](http://www.reader.fr/)
+        * [Ebru Magazine](http://www.ebrumagazine.com/)
+        * [Muy Interesante México](http://www.muyinteresante.com.mx/)
+        * https://www.saberespractico.com/
+        * [EL CULTURAL. Revista de actualidad cultural](http://www.elcultural.com/)
+        * [Etcetera - O Blog Humanista](http://obloghumanista.blogspot.com/)
+        * [Desconversa - O blog do Descomplica](https://descomplica.com.br/blog/)
+        * [Sua Pesquisa - Portal de Pesquisas Temáticas](http://www.suapesquisa.com/)
+        * [Mundo Educação – Educação, Vestibular, ENEM, Trabalhos Escolares.](http://mundoeducacao.bol.uol.com.br/)
+        * [UHL](http://universidadehumanista.blogspot.pt/)
+        * [Portale delle risorse didattiche multimediali del prof. Gaudio](http://www.gaudio.org/)
+        * [Notizie, foto, video di Scienza, Animali, Ambiente e Tecnologia - Focus.it](http://www.focus.it/)
+        * [Leonardo.it - Il magazine delle Passioni](http://www.leonardo.it/)
+        * [Il blog di Marco Besozzi](http://marcobesozzi.blogspot.com/)
+        * [Znanost | Hrvatski znanstveno-popularni portal](https://geek.hr/znanost/)
+        * [| Just another WordPress.com site](https://horaciobacon.wordpress.com/)
+        * [History Undressed](http://www.historyundressed.com/)
+        * [Українські підручники та карти. Всесвітня історія, історія України, географія.](http://ukrmap.su/)
+        * [Univero (UK)](https://medium.com/@univero)
+        * [Mon cyber prof : soutien scolaire et aide aux devoirs par les élèves des Grandes Ecoles - cyberprofs.com](https://www.cyberprofs.com/)
+        * [Школьные Знания.com - Решаем домашнее задание вместе](https://znanija.com/predmet/drugie_predmety)
+        * [Полезные советы со света на все случаи жизни - готовые инструкции к действию](http://sovetisosveta.ru/)
+        * [The Vore - The best new international culture online](https://thevore.com/)
+        * https://sjedi5.com/
+        * [Danska - Skolbok](http://www.grundskoleboken.se/wiki/Danska)
+        * [Store norske leksikon](https://snl.no/)
+        * https://pen-international.org/fr/
     
 - Research Resources
-    
-    https://arxiv.org/
-    
-    https://arxiv-sanity-lite.com/
-    
-    [http://www.arxiv-sanity.com](http://www.arxiv-sanity.com/)
-    
-    https://sci-hub.se/
+        * https://arxiv.org/
+        * https://arxiv-sanity-lite.com/
+        * [http://www.arxiv-sanity.com](http://www.arxiv-sanity.com/)
+        * https://sci-hub.se/
     
 - Enciclopedias
-    
-    [Encyclopedia.com | Free Online Encyclopedia](http://www.encyclopedia.com/)
-    
-    [Wolfram|Alpha: Computational Knowledge Engine](http://www.wolframalpha.com/)
-    
-    http://www.scholarpedia.org/article/Main_Page
-    
-    [Britannica.com](http://britannica.com/)
-    
-    [Britannica Academic](http://academic.eb.com/)
-    
-    [Oxford Reference - Answers with Authority](http://www.oxfordreference.com/#)
-    
-    https://www.loc.gov/
-    
-    http://www.wikiznanie.ru/wikipedia/index.php/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
-    
-    [ALL-IN-ONE : универсальный справочник - энциклопедия](http://www.sci.aha.ru/ALL/)
-    
-    [Иллюстрированный энциклопедический словарь](http://www.rubricon.com/ies_1.asp)
-    
-    [Петербургская программа Энциклопедический Фонд России - Russika.Ru](http://www.russika.ru/ef.php)
-    
-    [Мир энциклопедий](http://www.encyclopedia.ru/)
-    
-    [Brockhaus](https://brockhaus.de/ecs/)
-    
-    [Spektrum der Wissenschaft](http://www.spektrum.de/)
-    
-    [Вікіпідручник](https://uk.wikibooks.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0)
-    
-    [Encyclopédie Larousse en ligne - Accueil](http://www.larousse.fr/encyclopedie)
-    
-    https://www.wdl.org/fr/
-    
-    http://www.cosmovisions.com/index.html
-    
-    [Encyclopédie Universalis](http://www.universalis.fr/)
-    
-    [Significados, conceptos y definiciones de significados](http://www.significados.com/)
-    
-    [Enciclopedia](http://enciclopedia.us.es/index.php/Enciclopedia_Libre_Universal_en_Espa%C3%B1ol)
-    
-    [Portada - Enciclopedia DG, la enciclopedia ilustrada](http://enciclopediadges.a.wiki-site.com/index.php/Portada)
-    
-    [Wikipédia, a enciclopédia livre*](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal)
-    
-    [Sapere.it](http://sapere.it/)
-    
-    [Treccani, l&#39;&#39;Enciclopedia Italiana](http://www.treccani.it/enciclopedia/)
-    
-    [موسوعة الجزيرة](http://www.aljazeera.net/encyclopedia)
-    
-    [الموسوعة العربية](http://www.arab-ency.com/_/)
-    
-    [المعرفة](http://www.marefa.org/index.php/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9)
-    
-    http://mawdoo3.com/
-    
-    [wikiHow Sitemap](http://ru.wikihow.com/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Sitemap)
-    
-    [wikiHow - Il Manuale del &quot;Come si Fa&quot; a cui Tutti Possono Contribuire](http://www.wikihow.it/Pagina-principale)
-    
-    [wikiHow - Cómo hacer de todo](http://es.wikihow.com/Portada)
-    
-    [wikiHow - De handleiding die jij kan bewerken](http://nl.wikihow.com/Hoofdpagina)
-    
-    [wikiHow - Como Fazer Qualquer Coisa](http://pt.wikihow.com/P%C3%A1gina-principal)
-    
-    [wikiHow - 您可以编辑的指导手册](http://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
-    
-    [如何战胜厌食症](http://zh.wikihow.com/%E6%88%98%E8%83%9C%E5%8E%8C%E9%A3%9F%E7%97%87)
-    
-    [wikiHow - Wie man&#39;s macht von A bis Z](http://de.wikihow.com/Hauptseite)
-    
-    [wikiHow - Le manuel que vous pouvez modifier](http://fr.wikihow.com/Accueil)
-    
-    [Wie zu tun - Tipps für leichtes Leben](http://www.wiezutun.com/)
-    
-    [Como Fazer - Como Fazer de Tudo](http://www.comofazer.net/)
-    
-    [Como Fazer - O seu manual de como fazer tudo!](http://www.comofazer.com.br/)
-    
-    [Como Fazer? Aprenda aqui!](http://www.comofazer.wiki.br/)
-    
-    [Come fare | superEva](http://www.supereva.it/come-fare/)
-    
-    [Come Fare: curiosità e consigli utili fai da te!](http://comefare.com/)
-    
-    [Comment faire !](http://www.comment-faire.fr/)
-    
-    [Hrvatska enciklopedija](http://www.enciklopedija.hr/)
-    
-    [Store norske leksikon](https://snl.no/)
-    
-    [Proleksis enciklopedija](http://proleksis.lzmk.hr/)
-    
-    [Treccani, il portale del sapere](http://www.treccani.it/)
-    
-    [Biografico | Treccani, il portale del sapere](http://www.treccani.it/biografico/)
-    
-    [موضوع، أكبر موقع عربي بالعالم](https://mawdoo3.com/)
-    
-    [المعرفة](https://www.marefa.org/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9)
-    
-    [百度百科_全球最大中文百科全书](https://baike.baidu.com/)
-    
-    [互动百科-百科更权威](http://www.baike.com/)
-    
-    [Энциклопедия Кругосвет | Универсальная научно-популярная онлайн-энциклопедия](http://www.krugosvet.ru/)
-    
-    [Encyklopedia PWN - źródło wiarygodnej i rzetelnej wiedzy](http://encyklopedia.pwn.pl/)
-    
-    [Encyklopedia Internautica w Interia.pl – internetowa encyklopedia powszechna - Encyklopedia w INTERIA.PL](https://www.encyklopedia.interia.pl/)
+        * [Encyclopedia.com | Free Online Encyclopedia](http://www.encyclopedia.com/)
+        * [Wolfram|Alpha: Computational Knowledge Engine](http://www.wolframalpha.com/)
+        * http://www.scholarpedia.org/article/Main_Page
+        * [Britannica.com](http://britannica.com/)
+        * [Britannica Academic](http://academic.eb.com/)
+        * [Oxford Reference - Answers with Authority](http://www.oxfordreference.com/#)
+        * https://www.loc.gov/
+        * http://www.wikiznanie.ru/wikipedia/index.php/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
+        * [ALL-IN-ONE : универсальный справочник - энциклопедия](http://www.sci.aha.ru/ALL/)
+        * [Иллюстрированный энциклопедический словарь](http://www.rubricon.com/ies_1.asp)
+        * [Петербургская программа Энциклопедический Фонд России - Russika.Ru](http://www.russika.ru/ef.php)
+        * [Мир энциклопедий](http://www.encyclopedia.ru/)
+        * [Brockhaus](https://brockhaus.de/ecs/)
+        * [Spektrum der Wissenschaft](http://www.spektrum.de/)
+        * [Вікіпідручник](https://uk.wikibooks.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0)
+        * [Encyclopédie Larousse en ligne - Accueil](http://www.larousse.fr/encyclopedie)
+        * https://www.wdl.org/fr/
+        * http://www.cosmovisions.com/index.html
+        * [Encyclopédie Universalis](http://www.universalis.fr/)
+        * [Significados, conceptos y definiciones de significados](http://www.significados.com/)
+        * [Enciclopedia](http://enciclopedia.us.es/index.php/Enciclopedia_Libre_Universal_en_Espa%C3%B1ol)
+        * [Portada - Enciclopedia DG, la enciclopedia ilustrada](http://enciclopediadges.a.wiki-site.com/index.php/Portada)
+        * [Wikipédia, a enciclopédia livre*](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal)
+        * [Sapere.it](http://sapere.it/)
+        * [Treccani, l&#39;&#39;Enciclopedia Italiana](http://www.treccani.it/enciclopedia/)
+        * [موسوعة الجزيرة](http://www.aljazeera.net/encyclopedia)
+        * [الموسوعة العربية](http://www.arab-ency.com/_/)
+        * [المعرفة](http://www.marefa.org/index.php/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9)
+        * http://mawdoo3.com/
+        * [wikiHow Sitemap](http://ru.wikihow.com/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Sitemap)
+        * [wikiHow - Il Manuale del &quot;Come si Fa&quot; a cui Tutti Possono Contribuire](http://www.wikihow.it/Pagina-principale)
+        * [wikiHow - Cómo hacer de todo](http://es.wikihow.com/Portada)
+        * [wikiHow - De handleiding die jij kan bewerken](http://nl.wikihow.com/Hoofdpagina)
+        * [wikiHow - Como Fazer Qualquer Coisa](http://pt.wikihow.com/P%C3%A1gina-principal)
+        * [wikiHow - 您可以编辑的指导手册](http://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
+        * [如何战胜厌食症](http://zh.wikihow.com/%E6%88%98%E8%83%9C%E5%8E%8C%E9%A3%9F%E7%97%87)
+        * [wikiHow - Wie man&#39;s macht von A bis Z](http://de.wikihow.com/Hauptseite)
+        * [wikiHow - Le manuel que vous pouvez modifier](http://fr.wikihow.com/Accueil)
+        * [Wie zu tun - Tipps für leichtes Leben](http://www.wiezutun.com/)
+        * [Como Fazer - Como Fazer de Tudo](http://www.comofazer.net/)
+        * [Como Fazer - O seu manual de como fazer tudo!](http://www.comofazer.com.br/)
+        * [Como Fazer? Aprenda aqui!](http://www.comofazer.wiki.br/)
+        * [Come fare | superEva](http://www.supereva.it/come-fare/)
+        * [Come Fare: curiosità e consigli utili fai da te!](http://comefare.com/)
+        * [Comment faire !](http://www.comment-faire.fr/)
+        * [Hrvatska enciklopedija](http://www.enciklopedija.hr/)
+        * [Store norske leksikon](https://snl.no/)
+        * [Proleksis enciklopedija](http://proleksis.lzmk.hr/)
+        * [Treccani, il portale del sapere](http://www.treccani.it/)
+        * [Biografico | Treccani, il portale del sapere](http://www.treccani.it/biografico/)
+        * [موضوع، أكبر موقع عربي بالعالم](https://mawdoo3.com/)
+        * [المعرفة](https://www.marefa.org/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9)
+        * [百度百科_全球最大中文百科全书](https://baike.baidu.com/)
+        * [互动百科-百科更权威](http://www.baike.com/)
+        * [Энциклопедия Кругосвет | Универсальная научно-популярная онлайн-энциклопедия](http://www.krugosvet.ru/)
+        * [Encyklopedia PWN - źródło wiarygodnej i rzetelnej wiedzy](http://encyklopedia.pwn.pl/)
+        * [Encyklopedia Internautica w Interia.pl – internetowa encyklopedia powszechna - Encyklopedia w INTERIA.PL](https://www.encyklopedia.interia.pl/)
     
     - Zapytaj.onet.pl -
-    
-    [Portada » Enciclonet.com](http://www.enciclonet.com/)
-    
-    [Rječnik filozofskih pojmova – Filozofija.org](https://www.filozofija.org/rjecnik-filozofskih-pojmova/)
-    
-    http://www.encyclopedia.com/
-    
-    http://www.wolframalpha.com/
-    
-    http://www.britannica.com/
-    
-    http://academic.eb.com/
-    
-    http://www.oxfordreference.com/#
-    
-    https://www.loc.gov/
-    
-    http://www.krugosvet.ru/
-    
-    http://www.wikiznanie.ru/wikipedia/index.php/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
-    
-    http://www.sci.aha.ru/ALL/
-    
-    http://www.rubricon.com/ies_1.asp
-    
-    http://www.russika.ru/ef.php
-    
-    http://www.encyclopedia.ru/
-    
-    http://www.spektrum.de/
-    
-    https://uk.wikibooks.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0
-    
-    http://uk.unionpedia.org/
-    
-    http://referatu.net.ua/
-    
-    http://www.larousse.fr/encyclopedie
-    
-    https://www.wdl.org/fr/
-    
-    http://www.cosmovisions.com/index.html
-    
-    http://www.universalis.fr/
-    
-    http://www.significados.com/
-    
-    http://enciclopedia.us.es/index.php/Enciclopedia_Libre_Universal_en_Espa%C3%B1ol
-    
-    http://enciclopediadges.a.wiki-site.com/index.php/Portada
-    
-    https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal
-    
-    [Encyclopedia.com | Free Online Encyclopedia](http://www.encyclopedia.com/)
-    
-    [Wolfram|Alpha: Computational Knowledge Engine](http://www.wolframalpha.com/)
-    
-    http://www.scholarpedia.org/article/Main_Page
-    
-    [Britannica.com](http://www.britannica.com/)
-    
-    [Britannica Academic](http://academic.eb.com/)
-    
-    [Oxford Reference - Answers with Authority](http://www.oxfordreference.com/#)
-    
-    https://www.loc.gov/
-    
-    http://www.wikiznanie.ru/wikipedia/index.php/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
-    
-    [ALL-IN-ONE : универсальный справочник - энциклопедия](http://www.sci.aha.ru/ALL/)
-    
-    [Иллюстрированный энциклопедический словарь](http://www.rubricon.com/ies_1.asp)
-    
-    [Петербургская программа Энциклопедический Фонд России - Russika.Ru](http://www.russika.ru/ef.php)
-    
-    [Мир энциклопедий](http://www.encyclopedia.ru/)
-    
-    [Spektrum der Wissenschaft](http://www.spektrum.de/)
-    
-    [Вікіпідручник](https://uk.wikibooks.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0)
-    
-    [Encyclopédie Larousse en ligne - Accueil](http://www.larousse.fr/encyclopedie)
-    
-    https://www.wdl.org/fr/
-    
-    http://www.cosmovisions.com/index.html
-    
-    [Encyclopédie Universalis](http://www.universalis.fr/)
-    
-    [Significados, conceptos y definiciones de significados](http://www.significados.com/)
-    
-    [Enciclopedia](http://enciclopedia.us.es/index.php/Enciclopedia_Libre_Universal_en_Espa%C3%B1ol)
-    
-    [Portada - Enciclopedia DG, la enciclopedia ilustrada](http://enciclopediadges.a.wiki-site.com/index.php/Portada)
-    
-    [Wikipédia, a enciclopédia livre*](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal)
-    
-    [Sapere.it](http://www.sapere.it/sapere.html)
-    
-    [Treccani, l''Enciclopedia Italiana](http://www.treccani.it/enciclopedia/)
-    
-    [موسوعة الجزيرة](http://www.aljazeera.net/encyclopedia)
-    
-    [الموسوعة العربية](http://www.arab-ency.com/_/)
-    
-    [المعرفة](http://www.marefa.org/index.php/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9)
-    
-    http://mawdoo3.com/
-    
-    [Hrvatska enciklopedija](http://www.enciklopedija.hr/)
-    
-    [Store norske leksikon](https://snl.no/)
-    
-    [Proleksis enciklopedija](http://proleksis.lzmk.hr/)
-    
-    [Treccani, il portale del sapere](http://www.treccani.it/)
-    
-    [Biografico | Treccani, il portale del sapere](http://www.treccani.it/biografico/)
-    
-    [موضوع، أكبر موقع عربي بالعالم](https://mawdoo3.com/)
-    
-    [المعرفة](https://www.marefa.org/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9)
-    
-    [百度百科_全球最大中文百科全书](https://baike.baidu.com/)
-    
-    [互动百科-百科更权威](http://www.baike.com/)
-    
-    [Энциклопедия Кругосвет | Универсальная научно-популярная онлайн-энциклопедия](http://www.krugosvet.ru/)
-    
-    [Encyklopedia PWN - źródło wiarygodnej i rzetelnej wiedzy](http://encyklopedia.pwn.pl/)
-    
-    [Encyklopedia Internautica w Interia.pl – internetowa encyklopedia powszechna - Encyklopedia w INTERIA.PL](https://www.encyklopedia.interia.pl/)
+        * [Portada » Enciclonet.com](http://www.enciclonet.com/)
+        * [Rječnik filozofskih pojmova – Filozofija.org](https://www.filozofija.org/rjecnik-filozofskih-pojmova/)
+        * http://www.encyclopedia.com/
+        * http://www.wolframalpha.com/
+        * http://www.britannica.com/
+        * http://academic.eb.com/
+        * http://www.oxfordreference.com/#
+        * https://www.loc.gov/
+        * http://www.krugosvet.ru/
+        * http://www.wikiznanie.ru/wikipedia/index.php/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
+        * http://www.sci.aha.ru/ALL/
+        * http://www.rubricon.com/ies_1.asp
+        * http://www.russika.ru/ef.php
+        * http://www.encyclopedia.ru/
+        * http://www.spektrum.de/
+        * https://uk.wikibooks.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0
+        * http://uk.unionpedia.org/
+        * http://referatu.net.ua/
+        * http://www.larousse.fr/encyclopedie
+        * https://www.wdl.org/fr/
+        * http://www.cosmovisions.com/index.html
+        * http://www.universalis.fr/
+        * http://www.significados.com/
+        * http://enciclopedia.us.es/index.php/Enciclopedia_Libre_Universal_en_Espa%C3%B1ol
+        * http://enciclopediadges.a.wiki-site.com/index.php/Portada
+        * https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal
+        * [Encyclopedia.com | Free Online Encyclopedia](http://www.encyclopedia.com/)
+        * [Wolfram|Alpha: Computational Knowledge Engine](http://www.wolframalpha.com/)
+        * http://www.scholarpedia.org/article/Main_Page
+        * [Britannica.com](http://www.britannica.com/)
+        * [Britannica Academic](http://academic.eb.com/)
+        * [Oxford Reference - Answers with Authority](http://www.oxfordreference.com/#)
+        * https://www.loc.gov/
+        * http://www.wikiznanie.ru/wikipedia/index.php/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
+        * [ALL-IN-ONE : универсальный справочник - энциклопедия](http://www.sci.aha.ru/ALL/)
+        * [Иллюстрированный энциклопедический словарь](http://www.rubricon.com/ies_1.asp)
+        * [Петербургская программа Энциклопедический Фонд России - Russika.Ru](http://www.russika.ru/ef.php)
+        * [Мир энциклопедий](http://www.encyclopedia.ru/)
+        * [Spektrum der Wissenschaft](http://www.spektrum.de/)
+        * [Вікіпідручник](https://uk.wikibooks.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0)
+        * [Encyclopédie Larousse en ligne - Accueil](http://www.larousse.fr/encyclopedie)
+        * https://www.wdl.org/fr/
+        * http://www.cosmovisions.com/index.html
+        * [Encyclopédie Universalis](http://www.universalis.fr/)
+        * [Significados, conceptos y definiciones de significados](http://www.significados.com/)
+        * [Enciclopedia](http://enciclopedia.us.es/index.php/Enciclopedia_Libre_Universal_en_Espa%C3%B1ol)
+        * [Portada - Enciclopedia DG, la enciclopedia ilustrada](http://enciclopediadges.a.wiki-site.com/index.php/Portada)
+        * [Wikipédia, a enciclopédia livre*](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal)
+        * [Sapere.it](http://www.sapere.it/sapere.html)
+        * [Treccani, l''Enciclopedia Italiana](http://www.treccani.it/enciclopedia/)
+        * [موسوعة الجزيرة](http://www.aljazeera.net/encyclopedia)
+        * [الموسوعة العربية](http://www.arab-ency.com/_/)
+        * [المعرفة](http://www.marefa.org/index.php/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9)
+        * http://mawdoo3.com/
+        * [Hrvatska enciklopedija](http://www.enciklopedija.hr/)
+        * [Store norske leksikon](https://snl.no/)
+        * [Proleksis enciklopedija](http://proleksis.lzmk.hr/)
+        * [Treccani, il portale del sapere](http://www.treccani.it/)
+        * [Biografico | Treccani, il portale del sapere](http://www.treccani.it/biografico/)
+        * [موضوع، أكبر موقع عربي بالعالم](https://mawdoo3.com/)
+        * [المعرفة](https://www.marefa.org/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9)
+        * [百度百科_全球最大中文百科全书](https://baike.baidu.com/)
+        * [互动百科-百科更权威](http://www.baike.com/)
+        * [Энциклопедия Кругосвет | Универсальная научно-популярная онлайн-энциклопедия](http://www.krugosvet.ru/)
+        * [Encyklopedia PWN - źródło wiarygodnej i rzetelnej wiedzy](http://encyklopedia.pwn.pl/)
+        * [Encyklopedia Internautica w Interia.pl – internetowa encyklopedia powszechna - Encyklopedia w INTERIA.PL](https://www.encyklopedia.interia.pl/)
     
     - Zapytaj.onet.pl -
-    
-    [Portada » Enciclonet.com](http://www.enciclonet.com/)
-    
-    [Rječnik filozofskih pojmova – Filozofija.org](https://www.filozofija.org/rjecnik-filozofskih-pojmova/)
+        * [Portada » Enciclonet.com](http://www.enciclonet.com/)
+        * [Rječnik filozofskih pojmova – Filozofija.org](https://www.filozofija.org/rjecnik-filozofskih-pojmova/)
     
 - Preguntas y respuestas
-    
-    http://stackexchange.com/sites
-    
-    https://www.quora.com/
-    
-    https://thequestion.ru/
-    
-    http://getrejoin.com/ru/
-    
-    https://otvet.mail.ru/
-    
-    http://www.genon.ru/
-    
-    http://www.gutefrage.net/
-    
-    http://www.cosmiq.de/
-    
-    http://de.answers.com/
-    
-    http://cosmiq.de/
-    
-    https://www.ask.fm/account/inbox
-    
-    http://vidpoviday.com/
-    
-    http://otvet.i.ua/
-    
-    http://vseznai.in.ua/
-    
-    http://www.questionreponse.net/categories
-    
-    http://mes-questions-reponses.nathan.fr/
-    
-    http://www.reponseatout.com/question
-    
-    https://es.quora.com/
-    
-    http://www.muyinteresante.com.mx/preguntas-y-respuestas/
-    
-    https://br.answers.yahoo.com/
+        * http://stackexchange.com/sites
+        * https://www.quora.com/
+        * https://thequestion.ru/
+        * http://getrejoin.com/ru/
+        * https://otvet.mail.ru/
+        * http://www.genon.ru/
+        * http://www.gutefrage.net/
+        * http://www.cosmiq.de/
+        * http://de.answers.com/
+        * http://cosmiq.de/
+        * https://www.ask.fm/account/inbox
+        * http://vidpoviday.com/
+        * http://otvet.i.ua/
+        * http://vseznai.in.ua/
+        * http://www.questionreponse.net/categories
+        * http://mes-questions-reponses.nathan.fr/
+        * http://www.reponseatout.com/question
+        * https://es.quora.com/
+        * http://www.muyinteresante.com.mx/preguntas-y-respuestas/
+        * https://br.answers.yahoo.com/
     
 - Cómo hacer
-    
-    [wikiHow Sitemap](http://ru.wikihow.com/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Sitemap)
-    
-    [wikiHow - Il Manuale del "Come si Fa" a cui Tutti Possono Contribuire](http://www.wikihow.it/Pagina-principale)
-    
-    [wikiHow - Cómo hacer de todo](http://es.wikihow.com/Portada)
-    
-    [wikiHow - De handleiding die jij kan bewerken](http://nl.wikihow.com/Hoofdpagina)
-    
-    [wikiHow - Como Fazer Qualquer Coisa](http://pt.wikihow.com/P%C3%A1gina-principal)
-    
-    [wikiHow - 您可以编辑的指导手册](http://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
-    
-    [如何战胜厌食症](http://zh.wikihow.com/%E6%88%98%E8%83%9C%E5%8E%8C%E9%A3%9F%E7%97%87)
-    
-    [wikiHow - Wie man's macht von A bis Z](http://de.wikihow.com/Hauptseite)
-    
-    [wikiHow - Le manuel que vous pouvez modifier](http://fr.wikihow.com/Accueil)
-    
-    [Wie zu tun - Tipps für leichtes Leben](http://www.wiezutun.com/)
-    
-    [Como Fazer - Como Fazer de Tudo](http://www.comofazer.net/)
-    
-    [Como Fazer - O seu manual de como fazer tudo!](http://www.comofazer.com.br/)
-    
-    [Como Fazer? Aprenda aqui!](http://www.comofazer.wiki.br/)
-    
-    [Come fare | superEva](http://www.supereva.it/come-fare/)
-    
-    [Come Fare: curiosità e consigli utili fai da te!](http://comefare.com/)
-    
-    [Comment faire !](http://www.comment-faire.fr/)
+        * [wikiHow Sitemap](http://ru.wikihow.com/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Sitemap)
+        * [wikiHow - Il Manuale del "Come si Fa" a cui Tutti Possono Contribuire](http://www.wikihow.it/Pagina-principale)
+        * [wikiHow - Cómo hacer de todo](http://es.wikihow.com/Portada)
+        * [wikiHow - De handleiding die jij kan bewerken](http://nl.wikihow.com/Hoofdpagina)
+        * [wikiHow - Como Fazer Qualquer Coisa](http://pt.wikihow.com/P%C3%A1gina-principal)
+        * [wikiHow - 您可以编辑的指导手册](http://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
+        * [如何战胜厌食症](http://zh.wikihow.com/%E6%88%98%E8%83%9C%E5%8E%8C%E9%A3%9F%E7%97%87)
+        * [wikiHow - Wie man's macht von A bis Z](http://de.wikihow.com/Hauptseite)
+        * [wikiHow - Le manuel que vous pouvez modifier](http://fr.wikihow.com/Accueil)
+        * [Wie zu tun - Tipps für leichtes Leben](http://www.wiezutun.com/)
+        * [Como Fazer - Como Fazer de Tudo](http://www.comofazer.net/)
+        * [Como Fazer - O seu manual de como fazer tudo!](http://www.comofazer.com.br/)
+        * [Como Fazer? Aprenda aqui!](http://www.comofazer.wiki.br/)
+        * [Come fare | superEva](http://www.supereva.it/come-fare/)
+        * [Come Fare: curiosità e consigli utili fai da te!](http://comefare.com/)
+        * [Comment faire !](http://www.comment-faire.fr/)
     
 - Instrucción
-    
-    http://www.openculture.com/
-    
-    http://prometheus.org.ua/
-    
-    https://www.coursera.org/recommendations
-    
-    https://www.khanacademy.org/
-    
-    https://www.class-central.com/
-    
-    http://www.oilproject.org/
-    
-    https://fr.wikiversity.org/wiki/Wikiversit%C3%A9:Accueil
-    
-    https://www.edx.org/
-    
-    http://www.learnoutloud.com/
-    
-    https://www.udacity.com/
-    
-    https://www.class-central.com/
-    
-    https://www.futurelearn.com/
-    
-    http://academicearth.org/
-    
-    https://openclassrooms.com/
-    
-    http://gohighbrow.com/
-    
-    http://www.noexcuselist.com/
-    
-    http://www.focus.it/temi/domande-e-risposte
-    
-    http://www.sapere.it/sapere/strumenti/domande-risposte.html
-    
-    http://unascuola.it/domande-e-risposte/
-    
-    http://oyc.yale.edu/
-    
-    http://online.stanford.edu/courses
-    
-    http://ocw.mit.edu/index.htm
-    
-    [Gaudio](http://www.gaudio.org/)
-    
-    [Jonah Lehrer](http://www.jonahlehrer.com/)
-    
-    https://learn.saylor.org/?redirect=0
+        * http://www.openculture.com/
+        * http://prometheus.org.ua/
+        * https://www.coursera.org/recommendations
+        * https://www.khanacademy.org/
+        * https://www.class-central.com/
+        * http://www.oilproject.org/
+        * https://fr.wikiversity.org/wiki/Wikiversit%C3%A9:Accueil
+        * https://www.edx.org/
+        * http://www.learnoutloud.com/
+        * https://www.udacity.com/
+        * https://www.class-central.com/
+        * https://www.futurelearn.com/
+        * http://academicearth.org/
+        * https://openclassrooms.com/
+        * http://gohighbrow.com/
+        * http://www.noexcuselist.com/
+        * http://www.focus.it/temi/domande-e-risposte
+        * http://www.sapere.it/sapere/strumenti/domande-risposte.html
+        * http://unascuola.it/domande-e-risposte/
+        * http://oyc.yale.edu/
+        * http://online.stanford.edu/courses
+        * http://ocw.mit.edu/index.htm
+        * [Gaudio](http://www.gaudio.org/)
+        * [Jonah Lehrer](http://www.jonahlehrer.com/)
+        * https://learn.saylor.org/?redirect=0
     
 - Sitios de contenido
-    
-    https://www.pinterest.com/
-    
-    http://www.wikivisually.com/lang-uk
-    
-    http://reddit.com/
-    
-    https://www.flickr.com/
-    
-    https://www.tumblr.com/
-    
-    http://www.stumbleupon.com/
-    
-    http://mentalfloss.com/
-    
-    http://www.bambler.ru/
-    
-    http://gizmodo.com/
-    
-    http://www.issuu.com/isaacriley
-    
-    https://flipboard.com/
-    
-    https://prezi.com/
-    
-    http://digg.com/channel/longreads
-    
-    http://www.livejournal.com/
-    
-    https://commons.wikimedia.org/wiki/Hauptseite
-    
-    http://vk.com/isaacriley
-    
-    https://vimeo.com/
-    
-    http://fr.slideserve.com/
-    
-    http://es.slideshare.net/
-    
-    https://prezi.com/
-    
-    https://ankiweb.net/decks/
-    
-    http://ankisrs.net/docs/manual.html
-    
-    http://www.freebyte.com/
-    
-    https://archive.org/index.php
+        * https://www.pinterest.com/
+        * http://www.wikivisually.com/lang-uk
+        * http://reddit.com/
+        * https://www.flickr.com/
+        * https://www.tumblr.com/
+        * http://www.stumbleupon.com/
+        * http://mentalfloss.com/
+        * http://www.bambler.ru/
+        * http://gizmodo.com/
+        * http://www.issuu.com/isaacriley
+        * https://flipboard.com/
+        * https://prezi.com/
+        * http://digg.com/channel/longreads
+        * http://www.livejournal.com/
+        * https://commons.wikimedia.org/wiki/Hauptseite
+        * http://vk.com/isaacriley
+        * https://vimeo.com/
+        * http://fr.slideserve.com/
+        * http://es.slideshare.net/
+        * https://prezi.com/
+        * https://ankiweb.net/decks/
+        * http://ankisrs.net/docs/manual.html
+        * http://www.freebyte.com/
+        * https://archive.org/index.php
     
 - Rede y enlaces
-    
-    http://alexa.com/
-    
-    http://www.liveinternet.ru/
-    
-    https://ifttt.com/
-    
-    http://www.linker.ch/
-    
-    http://5ka.at.ua/
-    
-    [Forum - Il Club del Libro - Forum - Il Club del Libro](http://www.ilclubdellibro.it/forum)
-    
-    [Книжный клуб - книжный интернет магазин, продажа книг, литературы по Беларуси. Купить книги онлайн, оптом](http://www.bookclub.by/)
-    
-    [Обсуждение книг - форумы Gumer.info](http://www.gumer.info/forum/forumdisplay.php?f=6)
-    
-    [Обсуждение книг в онлайн-библиотеке](https://author.today/discussions)
-    
-    [Discusión de libros | Este sitio WordPress.com es la caña](https://libritoslocos.wordpress.com/)
-    
-    [ideas4all. A rede social das ideias.](https://pt.ideas4all.com/)
-    
-    [Pensamiento crítico, temas](http://www.pensamientocritico.org/0temas.html)
-    
-    [Romir - исследовательский холдинг](https://romir.ru/)
-    
-    [disserCat — электронная библиотека диссертаций и авторефератов, современная наука РФ, более 750 тысяч полных научных текстов](http://www.dissercat.com/)
-    
-    [DNB, Katalog der Deutschen Nationalbibliothek](https://portal.dnb.de/opac.htm?method=simpleSearch&query=120338289)
-    
-    [Encyclopédie Wikimonde](https://wikimonde.com/)
+        * http://alexa.com/
+        * http://www.liveinternet.ru/
+        * https://ifttt.com/
+        * http://www.linker.ch/
+        * http://5ka.at.ua/
+        * [Forum - Il Club del Libro - Forum - Il Club del Libro](http://www.ilclubdellibro.it/forum)
+        * [Книжный клуб - книжный интернет магазин, продажа книг, литературы по Беларуси. Купить книги онлайн, оптом](http://www.bookclub.by/)
+        * [Обсуждение книг - форумы Gumer.info](http://www.gumer.info/forum/forumdisplay.php?f=6)
+        * [Обсуждение книг в онлайн-библиотеке](https://author.today/discussions)
+        * [Discusión de libros | Este sitio WordPress.com es la caña](https://libritoslocos.wordpress.com/)
+        * [ideas4all. A rede social das ideias.](https://pt.ideas4all.com/)
+        * [Pensamiento crítico, temas](http://www.pensamientocritico.org/0temas.html)
+        * [Romir - исследовательский холдинг](https://romir.ru/)
+        * [disserCat — электронная библиотека диссертаций и авторефератов, современная наука РФ, более 750 тысяч полных научных текстов](http://www.dissercat.com/)
+        * [DNB, Katalog der Deutschen Nationalbibliothek](https://portal.dnb.de/opac.htm?method=simpleSearch&query=120338289)
+        * [Encyclopédie Wikimonde](https://wikimonde.com/)
     
 - Vídeo
-    
-    http://events.fora.tv/partners
-    
-    http://www.howcast.com/
-    
-    https://www.fronteiras.com/
-    
-    [Dokus](https://www.youtube.com/channel/UC23kvmGlwarpZnMgcnLLyfQ)
-    
-    [Applet Magic](http://www.applet-magic.com/newpages.htm)
+        * http://events.fora.tv/partners
+        * http://www.howcast.com/
+        * https://www.fronteiras.com/
+        * [Dokus](https://www.youtube.com/channel/UC23kvmGlwarpZnMgcnLLyfQ)
+        * [Applet Magic](http://www.applet-magic.com/newpages.htm)
     
 - Tools
-    
-    https://www.techdevos.com/best-text-to-speech-software/
-    
-    https://obsidian.md/
-    
-    [https://witeboard.com](https://witeboard.com/)
-    
-    https://blush.design/
-    
-    https://www.whatruns.com/
-    
-    https://untools.co/
+        * https://www.techdevos.com/best-text-to-speech-software/
+        * https://obsidian.md/
+        * [https://witeboard.com](https://witeboard.com/)
+        * https://blush.design/
+        * https://www.whatruns.com/
+        * https://untools.co/
     
 - Bibliotecas
-    
-    https://libren.org/
-    
-    http://www.worldcat.org/
-    
-    http://www.unige.ch/biblio/plus/ressources/rep2.php
-    
-    https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%B8_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B
-    
-    [AlbaLearning Audiolibros y Libros Gratis Sin Registrarse - Free Audiobooks - Learn Spanish by reading and listening](http://albalearning.com/)
-    
-    [Download Audiobooks with Audible.com](https://www.audible.com/)
-    
-    [Foreign Language Books | Audible.com](http://www.audible.com/mt/foreign-language)
-    
-    [Litterature audio.com | Livres audio gratuits à écouter et télécharger](http://www.litteratureaudio.com/)
-    
-    [Audiolude](http://www.audiolude.com/Audiolude/Accueil/Accueil.html)
-    
-    [Résultats de la recherche - Utah&#39;s Online Library](https://utahsonlinelibrary.overdrive.com/search?subject=26&format=audiobook-overdrive&sortBy=newlyadded&language=es)
-    
-    [Find Spanish Fiction &amp; Non-Fiction Livres audio on Hoopla](https://www.hoopladigital.com/collection/1816)
-    
-    [Svenska litteratursällskapet i Finland](http://www.sls.fi/sv)
-    
-    [Лучшие сочинения всех времен и народов](https://www.sochuroki.com/)
-    
-    [LiveLib — сайт о книгах, социальная сеть читателей книг](https://www.livelib.ru/)
-    
-    [Ruthenia](http://ruthenia.ru/)
-    
-    [Вики Чтение — полезная информация из книг](https://www.wikireading.ru/)
-    
-    [Антон Павлович Чехов](https://sites.google.com/site/cehovantonpavlovic/)
-    
-    [Mundo Clásico - Grecia y Roma - Home](https://www.facebook.com/mundoclasicogreciayroma/)
-    
-    [Libreriamo - la piazza digitale per chi ama libri e cultura](http://libreriamo.it/)
-    
-    https://e.lanbook.com/
-    
-    http://mybook4u.com/
-    
-    [Biblioteca Virtual Miguel de Cervantes](http://www.cervantesvirtual.com/)
-    
-    [Library Genesis](http://libgen.io/)
-    
-    https://issuu.com/
+        * https://libren.org/
+        * http://www.worldcat.org/
+        * http://www.unige.ch/biblio/plus/ressources/rep2.php
+        * https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%B8_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B
+        * [AlbaLearning Audiolibros y Libros Gratis Sin Registrarse - Free Audiobooks - Learn Spanish by reading and listening](http://albalearning.com/)
+        * [Download Audiobooks with Audible.com](https://www.audible.com/)
+        * [Foreign Language Books | Audible.com](http://www.audible.com/mt/foreign-language)
+        * [Litterature audio.com | Livres audio gratuits à écouter et télécharger](http://www.litteratureaudio.com/)
+        * [Audiolude](http://www.audiolude.com/Audiolude/Accueil/Accueil.html)
+        * [Résultats de la recherche - Utah&#39;s Online Library](https://utahsonlinelibrary.overdrive.com/search?subject=26&format=audiobook-overdrive&sortBy=newlyadded&language=es)
+        * [Find Spanish Fiction &amp; Non-Fiction Livres audio on Hoopla](https://www.hoopladigital.com/collection/1816)
+        * [Svenska litteratursällskapet i Finland](http://www.sls.fi/sv)
+        * [Лучшие сочинения всех времен и народов](https://www.sochuroki.com/)
+        * [LiveLib — сайт о книгах, социальная сеть читателей книг](https://www.livelib.ru/)
+        * [Ruthenia](http://ruthenia.ru/)
+        * [Вики Чтение — полезная информация из книг](https://www.wikireading.ru/)
+        * [Антон Павлович Чехов](https://sites.google.com/site/cehovantonpavlovic/)
+        * [Mundo Clásico - Grecia y Roma - Home](https://www.facebook.com/mundoclasicogreciayroma/)
+        * [Libreriamo - la piazza digitale per chi ama libri e cultura](http://libreriamo.it/)
+        * https://e.lanbook.com/
+        * http://mybook4u.com/
+        * [Biblioteca Virtual Miguel de Cervantes](http://www.cervantesvirtual.com/)
+        * [Library Genesis](http://libgen.io/)
+        * https://issuu.com/
     
     *** Serial Books &amp; Magazines
-    
-    [11 páginas con audiolibros en italiano | En Italiano](http://www.enitaliano.com/2015/09/audiolibros-en-italiano.html)
+        * [11 páginas con audiolibros en italiano | En Italiano](http://www.enitaliano.com/2015/09/audiolibros-en-italiano.html)
     
 - Clubes de libros
-    
-    [Il Club dei Libri » Il Blog](http://www.ilclubdeilibri.com/il-blog/)
-    
-    [Clube dos Livros](http://www.clubedoslivros.pt/)
-    
-    [Clube do Livro | Um clube de leitura e para discussão de vários temas](https://clubedolivro.wordpress.com/)
-    
-    [Forum de Livraddict](https://www.livraddict.com/forum/)
-    
-    [Librairie Le Forum du Livre](https://www.librairieforumdulivre.fr/)
-    
-    [Rue des livres > Annuaire des sites Internet](http://www.rue-des-livres.com/annuaire/)
-    
-    [Gazette littéraire - Journal créé en 2009 autour du désir de voyager au travers des livres.](http://www.gazettelitteraire.com/)
-    
-    [Obsesión de libros!](https://booksobsesion.wordpress.com/)
-    
-    [Rue des livres](http://www.rue-des-livres.com/)
-    
-    [Revue Les libraires](https://revue.leslibraires.ca/)
-    
-    [Recensions - La Vie des idées](https://laviedesidees.fr/-Livres-etudes-.html)
-    
-    [La Revue des livres - La Vie des idées](https://laviedesidees.fr/+-La-Revue-des-livres-+.html)
-    
-    [L’Amour des Livres, le guide magazine de la librairie indépendante](https://amourdeslivres.fr/)
-    
-    [PAGE des libraires, les livres lus et conseillés par les libraires](https://www.pagedeslibraires.fr/)
-    
-    http://fivebooks.com/
-    
-    http://discovermagazine.com/2006/dec/25-greatest-science-books
-    
-    https://www.weforum.org/agenda/2015/11/the-20-most-influential-books-in-history/
-    
-    https://electricliterature.com/infographic-the-20-most-popular-books-throughout-history-35769365df03
-    
-    http://www.proyectolatin.org/index.php/es/
-    
-    https://en.wikipedia.org/wiki/List_of_important_publications_in_mathematics
-    
-    https://fr.wikipedia.org/wiki/Liste_de_publications_importantes_en_science
-    
-    http://www.wilbourhall.org/
-    
-    http://www.aup.ru/
-    
-    [Forum - Il Club del Libro - Forum - Il Club del Libro](http://www.ilclubdellibro.it/forum)
-    
-    [Книжный клуб - книжный интернет магазин, продажа книг, литературы по Беларуси. Купить книги онлайн, оптом](http://www.bookclub.by/)
-    
-    [Обсуждение книг - форумы Gumer.info](http://www.gumer.info/forum/forumdisplay.php?f=6)
-    
-    [Обсуждение книг в онлайн-библиотеке](https://author.today/discussions)
-    
-    [Discusión de libros | Este sitio WordPress.com es la caña](https://libritoslocos.wordpress.com/)
-    
-    [ideas4all. A rede social das ideias.](https://pt.ideas4all.com/)
-    
-    [Pensamiento crítico, temas](http://www.pensamientocritico.org/0temas.html)
-    
-    [Pensador](https://www.pensador.com/)
-    
-    https://fs.blog/
-    
-    [Biblioteca digital mundial](https://www.wdl.org/es/)
+        * [Il Club dei Libri » Il Blog](http://www.ilclubdeilibri.com/il-blog/)
+        * [Clube dos Livros](http://www.clubedoslivros.pt/)
+        * [Clube do Livro | Um clube de leitura e para discussão de vários temas](https://clubedolivro.wordpress.com/)
+        * [Forum de Livraddict](https://www.livraddict.com/forum/)
+        * [Librairie Le Forum du Livre](https://www.librairieforumdulivre.fr/)
+        * [Rue des livres > Annuaire des sites Internet](http://www.rue-des-livres.com/annuaire/)
+        * [Gazette littéraire - Journal créé en 2009 autour du désir de voyager au travers des livres.](http://www.gazettelitteraire.com/)
+        * [Obsesión de libros!](https://booksobsesion.wordpress.com/)
+        * [Rue des livres](http://www.rue-des-livres.com/)
+        * [Revue Les libraires](https://revue.leslibraires.ca/)
+        * [Recensions - La Vie des idées](https://laviedesidees.fr/-Livres-etudes-.html)
+        * [La Revue des livres - La Vie des idées](https://laviedesidees.fr/+-La-Revue-des-livres-+.html)
+        * [L’Amour des Livres, le guide magazine de la librairie indépendante](https://amourdeslivres.fr/)
+        * [PAGE des libraires, les livres lus et conseillés par les libraires](https://www.pagedeslibraires.fr/)
+        * http://fivebooks.com/
+        * http://discovermagazine.com/2006/dec/25-greatest-science-books
+        * https://www.weforum.org/agenda/2015/11/the-20-most-influential-books-in-history/
+        * https://electricliterature.com/infographic-the-20-most-popular-books-throughout-history-35769365df03
+        * http://www.proyectolatin.org/index.php/es/
+        * https://en.wikipedia.org/wiki/List_of_important_publications_in_mathematics
+        * https://fr.wikipedia.org/wiki/Liste_de_publications_importantes_en_science
+        * http://www.wilbourhall.org/
+        * http://www.aup.ru/
+        * [Forum - Il Club del Libro - Forum - Il Club del Libro](http://www.ilclubdellibro.it/forum)
+        * [Книжный клуб - книжный интернет магазин, продажа книг, литературы по Беларуси. Купить книги онлайн, оптом](http://www.bookclub.by/)
+        * [Обсуждение книг - форумы Gumer.info](http://www.gumer.info/forum/forumdisplay.php?f=6)
+        * [Обсуждение книг в онлайн-библиотеке](https://author.today/discussions)
+        * [Discusión de libros | Este sitio WordPress.com es la caña](https://libritoslocos.wordpress.com/)
+        * [ideas4all. A rede social das ideias.](https://pt.ideas4all.com/)
+        * [Pensamiento crítico, temas](http://www.pensamientocritico.org/0temas.html)
+        * [Pensador](https://www.pensador.com/)
+        * https://fs.blog/
+        * [Biblioteca digital mundial](https://www.wdl.org/es/)
     
 - Referencias y libros
-    
-    https://degreed.com/iriley/dashboard#/feed
-    
-    https://www.merlot.org/merlot/index.htm
-    
-    http://www.swisseduc.ch/
-    
-    https://www.lernhelfer.de/
-    
-    http://www.intellego.fr/
-    
-    http://fr.syvum.com/
-    
-    http://www.persee.fr/disciplines
-    
-    https://de.wikibooks.org/wiki/Wikibooks:Offene_Schulb%C3%BCcher
-    
-    https://www.oercommons.org/
-    
-    http://www.library.ethz.ch/Ressourcen/E-Books-Buecher/Lehrbuchsammlung-digital
-    
-    http://www.sapere.it/sapere.html
-    
-    http://ua-referat.com/
-    
-    http://www.enotes.com/
-    
-    http://pidruchniki.com/
-    
-    https://open.umn.edu/opentextbooks/
-    
-    http://www.schule-bw.de/unterricht/faecher/
-    
-    http://globaltext.terry.uga.edu/booklist?cat=title
-    
-    https://all.alleng.me/
+        * https://degreed.com/iriley/dashboard#/feed
+        * https://www.merlot.org/merlot/index.htm
+        * http://www.swisseduc.ch/
+        * https://www.lernhelfer.de/
+        * http://www.intellego.fr/
+        * http://fr.syvum.com/
+        * http://www.persee.fr/disciplines
+        * https://de.wikibooks.org/wiki/Wikibooks:Offene_Schulb%C3%BCcher
+        * https://www.oercommons.org/
+        * http://www.library.ethz.ch/Ressourcen/E-Books-Buecher/Lehrbuchsammlung-digital
+        * http://www.sapere.it/sapere.html
+        * http://ua-referat.com/
+        * http://www.enotes.com/
+        * http://pidruchniki.com/
+        * https://open.umn.edu/opentextbooks/
+        * http://www.schule-bw.de/unterricht/faecher/
+        * http://globaltext.terry.uga.edu/booklist?cat=title
+        * https://all.alleng.me/
     
 - Otros sitios
-    
-    http://window.edu.ru/
-    
-    http://school-collection.edu.ru/
-    
-    http://cyberleninka.ru/
-    
-    http://www.booksandideas.net/
-    
-    https://www.reclam.de/shop
-    
-    http://laboutique.edpsciences.fr/
-    
-    http://forums.welltrainedmind.com/
-    
-    https://getpocket.com/explore/pocket-hits
-    
-    [sporcle.com](http://sporcle.com/)
-    
-    https://heleo.com/
-    
-    http://www.xapaktep.net/home.php
-    
-    http://www.letraslibres.com/
-    
-    https://sites.lib.byu.edu/mediacenter/online-video-databases/internet-site-for-streaming-video/
-    
-    https://www.edge.org/memberbio/john_brockman
-    
-    http://www.todoexpertos.com/
-    
-    http://www.yumpu.com/de
-    
-    http://es.youscribe.com/
-    
-    https://fr.calameo.com/
-    
-    http://www.allreadable.com/
-    
-    http://thethoughtbankblog.blogspot.com/
-    
-    https://www.santafe.edu/
-    
-    [Category:Years - Wikipedia](https://en.wikipedia.org/wiki/Category:Years)
-    
-    [Poets and poems - Poetry International](http://www.poetryinternationalweb.net/pi/site/collection/country_submenu)
-    
-    http://tecfa.unige.ch/tecfa/research/pnr33/report/nti-ch-266.html
-    
-    http://www.aikaeducacion.com/
-    
-    [La culture générale | Savoir, c&#39;est pouvoir](http://www.laculturegenerale.com/)
-    
-    [La pequeña Grecia](http://www.lapequenagrecia.com/)
-    
-    [OPENCOURSEWARE Universia](http://ocw.universia.net/it/)
-    
-    [Overblog - Les meilleurs blogs et la meilleure plateforme de blog](https://www.over-blog.com/)
-    
-    [Parcours - OpenClassrooms](https://openclassrooms.com/paths)
-    
-    [The Santi Report (My Version of a Drudge Report Page) | Prometheus Unbound](https://santitafarella.wordpress.com/links-worth-exploring-new-links-added-daily/)
-    
-    [Документы различных областей](https://refdb.ru/)
-    
-    [Мир Знаний](http://mirznanii.com/)
-    
-    [Студопедия - лекционный материал для студентов](https://studopedia.su/)
-    
-    [Электронная библиотека Библиотекарь.Ру - книги, учебники, альбомы по истории, искусству, культуре, медицине, религии](http://www.bibliotekar.ru/index.htm)
-    
-    [Электронная библиотека студента - Библиофонд!](https://bibliofond.ru/)
-    
-    [Chemgapedia](http://www.chemgapedia.de/vsengine/de/index.html)
+        * http://window.edu.ru/
+        * http://school-collection.edu.ru/
+        * http://cyberleninka.ru/
+        * http://www.booksandideas.net/
+        * https://www.reclam.de/shop
+        * http://laboutique.edpsciences.fr/
+        * http://forums.welltrainedmind.com/
+        * https://getpocket.com/explore/pocket-hits
+        * [sporcle.com](http://sporcle.com/)
+        * https://heleo.com/
+        * http://www.xapaktep.net/home.php
+        * http://www.letraslibres.com/
+        * https://sites.lib.byu.edu/mediacenter/online-video-databases/internet-site-for-streaming-video/
+        * https://www.edge.org/memberbio/john_brockman
+        * http://www.todoexpertos.com/
+        * http://www.yumpu.com/de
+        * http://es.youscribe.com/
+        * https://fr.calameo.com/
+        * http://www.allreadable.com/
+        * http://thethoughtbankblog.blogspot.com/
+        * https://www.santafe.edu/
+        * [Category:Years - Wikipedia](https://en.wikipedia.org/wiki/Category:Years)
+        * [Poets and poems - Poetry International](http://www.poetryinternationalweb.net/pi/site/collection/country_submenu)
+        * http://tecfa.unige.ch/tecfa/research/pnr33/report/nti-ch-266.html
+        * http://www.aikaeducacion.com/
+        * [La culture générale | Savoir, c&#39;est pouvoir](http://www.laculturegenerale.com/)
+        * [La pequeña Grecia](http://www.lapequenagrecia.com/)
+        * [OPENCOURSEWARE Universia](http://ocw.universia.net/it/)
+        * [Overblog - Les meilleurs blogs et la meilleure plateforme de blog](https://www.over-blog.com/)
+        * [Parcours - OpenClassrooms](https://openclassrooms.com/paths)
+        * [The Santi Report (My Version of a Drudge Report Page) | Prometheus Unbound](https://santitafarella.wordpress.com/links-worth-exploring-new-links-added-daily/)
+        * [Документы различных областей](https://refdb.ru/)
+        * [Мир Знаний](http://mirznanii.com/)
+        * [Студопедия - лекционный материал для студентов](https://studopedia.su/)
+        * [Электронная библиотека Библиотекарь.Ру - книги, учебники, альбомы по истории, искусству, культуре, медицине, религии](http://www.bibliotekar.ru/index.htm)
+        * [Электронная библиотека студента - Библиофонд!](https://bibliofond.ru/)
+        * [Chemgapedia](http://www.chemgapedia.de/vsengine/de/index.html)
     
     ***Pop Culture Detective - YouTube - YouTube
-    
-    [Brève encyclopédie du monde : podcast et réécoute sur France Culture](https://www.franceculture.fr/emissions/breve-encyclopedie-du-monde)
-    
-    [Very Bad Wizards](https://verybadwizards.fireside.fm/)
-    
-    [Letters of Note](http://www.lettersofnote.com/)
-    
-    [ЛитМир - Книги читать онлайн - Скачать бесплатно без регистрации - Самиздат - ЛитМир](https://www.litmir.me/)
-    
-    [Улицкая Людмила Евгеньевна - о писателе - Людмила Евгеньевна Улицкая](http://www.ulickaya.ru/)
-    
-    [Bibliowiki](https://biblio.wiki/wiki/Main_Page)
-    
-    [The full text of the book &#39;The Little Prince&#39;](http://www.malyksiaze.net/us/ksiazka)
-    
-    [Main Page/Ἀρχαία ἑλληνική - Wikisource](https://wikisource.org/wiki/Main_Page/%E1%BC%88%CF%81%CF%87%CE%B1%CE%AF%CE%B1_%E1%BC%91%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE)
-    
-    [百度知道 - 全球最大中文互动问答平台](https://zhidao.baidu.com/)
-    
-    [Makeright / Профессионально рассказываем о бизнес-книгах / Ключевые идеи из лучших книг жанра нон-фикшн](https://makeright.ru/)
-    
-    [Book reviews: Find the best new books](https://www.bookbrowse.com/)
+        * [Brève encyclopédie du monde : podcast et réécoute sur France Culture](https://www.franceculture.fr/emissions/breve-encyclopedie-du-monde)
+        * [Very Bad Wizards](https://verybadwizards.fireside.fm/)
+        * [Letters of Note](http://www.lettersofnote.com/)
+        * [ЛитМир - Книги читать онлайн - Скачать бесплатно без регистрации - Самиздат - ЛитМир](https://www.litmir.me/)
+        * [Улицкая Людмила Евгеньевна - о писателе - Людмила Евгеньевна Улицкая](http://www.ulickaya.ru/)
+        * [Bibliowiki](https://biblio.wiki/wiki/Main_Page)
+        * [The full text of the book &#39;The Little Prince&#39;](http://www.malyksiaze.net/us/ksiazka)
+        * [Main Page/Ἀρχαία ἑλληνική - Wikisource](https://wikisource.org/wiki/Main_Page/%E1%BC%88%CF%81%CF%87%CE%B1%CE%AF%CE%B1_%E1%BC%91%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE)
+        * [百度知道 - 全球最大中文互动问答平台](https://zhidao.baidu.com/)
+        * [Makeright / Профессионально рассказываем о бизнес-книгах / Ключевые идеи из лучших книг жанра нон-фикшн](https://makeright.ru/)
+        * [Book reviews: Find the best new books](https://www.bookbrowse.com/)
     
     ***Abooks.zone - первый аудиокнижный с бесплатным скачиванием
-    
-    https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=de
-    
-    http://texts.news/
-    
-    [Encyclopédie de L&#39;Agora | Culture](http://agora.qc.ca/dossiers/Culture)
-    
-    [Homo vivens | Association Homo Vivens](http://www.homovivens.org/)
-    
-    [موقع باينة نت : دروس البرمجة و مقالات في تكنولوجيا المعلوميات و معطيات إحصائية و معارف عن بلدان العالم](http://bayna.net/)
-    
-    [Blog - Moayad.com](http://www.moayad.com/me/?page_id=2358)
-    
-    http://acculturated.com/
-    
-    http://mapmaker.nationalgeographic.org/?ls=000000000000#/
-    
-    http://fr.mapsofworld.com/world-atlas/
-    
-    http://www.worldatlas.com/
-    
-    https://www.lektorium.tv/mooc
+        * https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=de
+        * http://texts.news/
+        * [Encyclopédie de L&#39;Agora | Culture](http://agora.qc.ca/dossiers/Culture)
+        * [Homo vivens | Association Homo Vivens](http://www.homovivens.org/)
+        * [موقع باينة نت : دروس البرمجة و مقالات في تكنولوجيا المعلوميات و معطيات إحصائية و معارف عن بلدان العالم](http://bayna.net/)
+        * [Blog - Moayad.com](http://www.moayad.com/me/?page_id=2358)
+        * http://acculturated.com/
+        * http://mapmaker.nationalgeographic.org/?ls=000000000000#/
+        * http://fr.mapsofworld.com/world-atlas/
+        * http://www.worldatlas.com/
+        * https://www.lektorium.tv/mooc
     
 - Great Past Articles
-    
-    [Nature Versus Nurture? Add ‘Noise’ to the Debate. | Quanta Magazine](https://www.quantamagazine.org/nature-versus-nurture-add-noise-to-the-debate-20200323/)
+        * [Nature Versus Nurture? Add ‘Noise’ to the Debate. | Quanta Magazine](https://www.quantamagazine.org/nature-versus-nurture-add-noise-to-the-debate-20200323/)
     
 - Pensadores
-    
-    http://ideas.time.com/2013/12/10/whos-biggest-the-100-most-significant-figures-in-history/
-    
-    http://pantheon.media.mit.edu/rankings/people/all/all/-3000/2010/25
-    
-    https://en.wikipedia.org/wiki/Time_100
-    
-    https://en.wikipedia.org/wiki/Who%27s_Bigger%3F
-    
-    https://en.wikipedia.org/wiki/The_100:_A_Ranking_of_the_Most_Influential_Persons_in_History
-    
-    http://www.angelfire.com/anime2/100import/
-    
-    http://www.theatlantic.com/magazine/archive/2006/12/the-100-most-influential-figures-in-american-history/305384/
-    
-    http://www.historynet.com/famous-women-in-history
-    
-    http://www.theatlantic.com/magazine/archive/2006/12/the-100-most-influential-figures-in-american-history/305384/
-    
-    http://www.lefigaro.fr/actualite-france/2015/06/15/01016-20150615ARTFIG00427-the-guardian-se-demande-o-sont-passes-les-grands-penseurs-francais.php
-    
-    http://www.journaldumauss.net/?Le-champ-intellectuel-francais
-    
-    http://archives-lepost.huffingtonpost.fr/article/2011/04/06/2458238_qui-sont-les-intellectuels-les-plus-influents-du-monde-arabe-le-palmares.html
-    
-    http://cicero.de/salon/cicerorangliste-2016-martin-walser-ist-der-wichtigste-intellektuelle
-    
-    http://www.alterinfo.net/Le-top-20-des-intellectuels-publics-du-monde_a21145.html
-    
-    http://www.buchmarkt.de/buecher/cicero-fuer-die-500-wichtigsten-intellektuellen-deutschlands/
-    
-    http://www.agjohnson.us/
-    
-    https://www.quora.com/profile/Geoffrey-Widdison
-    
-    https://fi.wikipedia.org/wiki/Tapio_Puolimatka
-    
-    https://de.wikipedia.org/wiki/Immanuel_Kant#Grundlegung_der_Moralphilosophie
-    
-    http://www.buchmarkt.de/buecher/cicero-fuer-die-500-wichtigsten-intellektuellen-deutschlands/
-    
-    [L'intellectuel africain du 21ème siècle | Financial Afrik](https://www.financialafrik.com/2017/08/27/lintellectuel-africain-du-21eme-siecle/)
-    
-    http://bigwhiteogre.blogspot.com.br/2011/06/response-to-paul-bogdanors-top-200.html
-    
-    http://elpais.com/elpais/2016/12/06/media/1481045524_298699.html?id_externo_rsoc=TW_CC
-    
-    http://os.colta.ru/society/russia/details/15155/
-    
-    http://philologist.livejournal.com/7632628.html
-    
-    http://www.alterinfo.net/Le-top-20-des-intellectuels-publics-du-monde_a21145.html
-    
-    [Les 100 qui ont fait bouger l'Afrique en 2015 (liste) | Financial Afrik](https://www.financialafrik.com/2015/12/19/les-100-qui-ont-fait-bouger-lafrique-en-2015-liste/)
-    
-    [Les intellectuels afro-américains en pleine bataille d’idées](http://www.lemonde.fr/m-actu/article/2017/12/29/les-intellectuels-afro-americains-en-pleine-bataille-d-idees_5235520_4497186.html)
-    
-    [Les intellectuels du XXIe siècle - Tous les épisodes en streaming - france.tv](https://www.france.tv/france-5/les-intellectuels-du-xxie-siecle/)
-    
-    [Meet China’s top public intellectuals - Martin Jacques](http://www.martinjacques.com/articles/articles-geopolitics-globalisation/meet-chinas-top-public-intellectuals/)
-    
-    [Op-Ed Authors and Contributors - Project Syndicate](https://www.project-syndicate.org/columnists)
-    
-    [Public Intellectuals in China | Congressional-Executive Commission on China](https://www.cecc.gov/events/roundtables/public-intellectuals-in-china)
-    
-    https://en.wikipedia.org/wiki/Category:Philosophers_by_nationality
-    
-    https://en.wikipedia.org/wiki/FP_Top_100_Global_Thinkers
-    
-    https://en.wikipedia.org/wiki/The_100:_A_Ranking_of_the_Most_Influential_Persons_in_History
-    
-    https://en.wikipedia.org/wiki/Time_100
-    
-    [Classement : qui sont les 100 leaders africains de demain ? – JeuneAfrique.com](http://www.jeuneafrique.com/478844/economie/classement-qui-sont-les-100-leaders-africains-de-demain/)
-    
-    https://www.letemps.ch/monde/2016/05/27/ny-plus-grands-penseurs-france
-    
-    https://www.lejdd.fr/Culture/Les-nouveaux-intellectuels-du-XXIe-siecle-160182-3098765
-    
-    https://www.letemps.ch/monde/2016/05/27/ny-plus-grands-penseurs-france
+        * http://ideas.time.com/2013/12/10/whos-biggest-the-100-most-significant-figures-in-history/
+        * http://pantheon.media.mit.edu/rankings/people/all/all/-3000/2010/25
+        * https://en.wikipedia.org/wiki/Time_100
+        * https://en.wikipedia.org/wiki/Who%27s_Bigger%3F
+        * https://en.wikipedia.org/wiki/The_100:_A_Ranking_of_the_Most_Influential_Persons_in_History
+        * http://www.angelfire.com/anime2/100import/
+        * http://www.theatlantic.com/magazine/archive/2006/12/the-100-most-influential-figures-in-american-history/305384/
+        * http://www.historynet.com/famous-women-in-history
+        * http://www.theatlantic.com/magazine/archive/2006/12/the-100-most-influential-figures-in-american-history/305384/
+        * http://www.lefigaro.fr/actualite-france/2015/06/15/01016-20150615ARTFIG00427-the-guardian-se-demande-o-sont-passes-les-grands-penseurs-francais.php
+        * http://www.journaldumauss.net/?Le-champ-intellectuel-francais
+        * http://archives-lepost.huffingtonpost.fr/article/2011/04/06/2458238_qui-sont-les-intellectuels-les-plus-influents-du-monde-arabe-le-palmares.html
+        * http://cicero.de/salon/cicerorangliste-2016-martin-walser-ist-der-wichtigste-intellektuelle
+        * http://www.alterinfo.net/Le-top-20-des-intellectuels-publics-du-monde_a21145.html
+        * http://www.buchmarkt.de/buecher/cicero-fuer-die-500-wichtigsten-intellektuellen-deutschlands/
+        * http://www.agjohnson.us/
+        * https://www.quora.com/profile/Geoffrey-Widdison
+        * https://fi.wikipedia.org/wiki/Tapio_Puolimatka
+        * https://de.wikipedia.org/wiki/Immanuel_Kant#Grundlegung_der_Moralphilosophie
+        * http://www.buchmarkt.de/buecher/cicero-fuer-die-500-wichtigsten-intellektuellen-deutschlands/
+        * [L'intellectuel africain du 21ème siècle | Financial Afrik](https://www.financialafrik.com/2017/08/27/lintellectuel-africain-du-21eme-siecle/)
+        * http://bigwhiteogre.blogspot.com.br/2011/06/response-to-paul-bogdanors-top-200.html
+        * http://elpais.com/elpais/2016/12/06/media/1481045524_298699.html?id_externo_rsoc=TW_CC
+        * http://os.colta.ru/society/russia/details/15155/
+        * http://philologist.livejournal.com/7632628.html
+        * http://www.alterinfo.net/Le-top-20-des-intellectuels-publics-du-monde_a21145.html
+        * [Les 100 qui ont fait bouger l'Afrique en 2015 (liste) | Financial Afrik](https://www.financialafrik.com/2015/12/19/les-100-qui-ont-fait-bouger-lafrique-en-2015-liste/)
+        * [Les intellectuels afro-américains en pleine bataille d’idées](http://www.lemonde.fr/m-actu/article/2017/12/29/les-intellectuels-afro-americains-en-pleine-bataille-d-idees_5235520_4497186.html)
+        * [Les intellectuels du XXIe siècle - Tous les épisodes en streaming - france.tv](https://www.france.tv/france-5/les-intellectuels-du-xxie-siecle/)
+        * [Meet China’s top public intellectuals - Martin Jacques](http://www.martinjacques.com/articles/articles-geopolitics-globalisation/meet-chinas-top-public-intellectuals/)
+        * [Op-Ed Authors and Contributors - Project Syndicate](https://www.project-syndicate.org/columnists)
+        * [Public Intellectuals in China | Congressional-Executive Commission on China](https://www.cecc.gov/events/roundtables/public-intellectuals-in-china)
+        * https://en.wikipedia.org/wiki/Category:Philosophers_by_nationality
+        * https://en.wikipedia.org/wiki/FP_Top_100_Global_Thinkers
+        * https://en.wikipedia.org/wiki/The_100:_A_Ranking_of_the_Most_Influential_Persons_in_History
+        * https://en.wikipedia.org/wiki/Time_100
+        * [Classement : qui sont les 100 leaders africains de demain ? – JeuneAfrique.com](http://www.jeuneafrique.com/478844/economie/classement-qui-sont-les-100-leaders-africains-de-demain/)
+        * https://www.letemps.ch/monde/2016/05/27/ny-plus-grands-penseurs-france
+        * https://www.lejdd.fr/Culture/Les-nouveaux-intellectuels-du-XXIe-siecle-160182-3098765
+        * https://www.letemps.ch/monde/2016/05/27/ny-plus-grands-penseurs-france
     
     Ai Weiwei
     
@@ -4171,16 +2875,14 @@ make a test schedule for languages, ideas, formulas, etc
     Elena Milashina
     
     Enrique Krauze
-    
-    [Facebook saved](https://www.facebook.com/saved/?cref=28)
+        * [Facebook saved](https://www.facebook.com/saved/?cref=28)
     
     Fan Gang
     
     Fernando Henrique Cardoso
     
     Frank Schätzing
-    
-    [georges duby](https://libgen.is/search.php?&req=georges+duby&phrase=1&view=simple&column=def&sort=language&sortmode=ASC)
+        * [georges duby](https://libgen.is/search.php?&req=georges+duby&phrase=1&view=simple&column=def&sort=language&sortmode=ASC)
     
     ger groot
     
@@ -4199,14 +2901,12 @@ make a test schedule for languages, ideas, formulas, etc
     Ian Buruma
     
     Jacques Attali
-    
-    [Juventus, logo drama - Les Cahiers du football](http://www.cahiersdufootball.net/article-juventus-logo-drama-6537)
+        * [Juventus, logo drama - Les Cahiers du football](http://www.cahiersdufootball.net/article-juventus-logo-drama-6537)
     
     Lilia Shevtsova
     
     Ma Baoli
-    
-    [Maastricht](https://www.facebook.com/groups/279472675583089/901227126740971/)
+        * [Maastricht](https://www.facebook.com/groups/279472675583089/901227126740971/)
     
     Margrete Vestager
     
@@ -4243,8 +2943,7 @@ make a test schedule for languages, ideas, formulas, etc
     Yan Xuetong
     
     Yegor Gaidar
-    
-    [Youssef al-Qaradâwî — Wikipédia](https://fr.wikipedia.org/wiki/Youssef_al-Qarad%C3%A2w%C3%AE)
+        * [Youssef al-Qaradâwî — Wikipédia](https://fr.wikipedia.org/wiki/Youssef_al-Qarad%C3%A2w%C3%AE)
     
     Yusuf al-Qaradawi
     
@@ -4255,20 +2954,16 @@ make a test schedule for languages, ideas, formulas, etc
     Catherine Millet - Ecosia
     
     Duncan Foley
-    
-    [Eduardo Garcia Moran](https://www.facebook.com/groups/279472675583089/850471148483236/)
+        * [Eduardo Garcia Moran](https://www.facebook.com/groups/279472675583089/850471148483236/)
     
     Anima Anandkumar
     
     Alexei Efros
-    
-    [Toussaint Site](https://www.user.tu-berlin.de/mtoussai/teaching/index.html)
+        * [Toussaint Site](https://www.user.tu-berlin.de/mtoussai/teaching/index.html)
     
     Sharon Zhou
-    
-    [Thomas Kainrad](https://tkainrad.dev/)
-    
-    [Stefan Riezler (StatNLP Heidelberg)](https://www.cl.uni-heidelberg.de/statnlpgroup/members/riezler/)
+        * [Thomas Kainrad](https://tkainrad.dev/)
+        * [Stefan Riezler (StatNLP Heidelberg)](https://www.cl.uni-heidelberg.de/statnlpgroup/members/riezler/)
     
     Lucio Caracciolo
     
@@ -4379,2311 +3074,1377 @@ make a test schedule for languages, ideas, formulas, etc
     Anna J. Schwarz
     
 - YouTube Channels
-    
-    [The Biggest Ideas in the Universe!](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX)
-    
-    **[The Mechanic Shark Channel (entertainment)](https://www.youtube.com/c/TheMechanicSharkChannel)**
-    
-    **[Galileo](https://www.youtube.com/user/GalileoOffiziell)**
-    
-    **[100 книг за год](https://www.youtube.com/channel/UCBN0sdyFr4tw9gVad82WiaQ)**
-    
-    **[2035 university](https://www.youtube.com/c/2035university)**
-    
-    **[Aalto University](https://www.youtube.com/user/aaltouniversity)**
-    
-    **[Acervo - Televisión Educativa](https://www.youtube.com/channel/UCD_vqC34BVWFN-6nfTXLjIA)**
-    
-    **[MÁS QUE ARTE](https://www.youtube.com/user/yuoaya)**
-    
-    **[My university](https://www.youtube.com/c/Myuniversity1)**
-    
-    **[Nota Bene](https://www.youtube.com/c/notabenemovies)**
-    
-    **[Nota Bonus](https://www.youtube.com/channel/UCrbbgYjbrXVYRM_iRGEDqFw)**
-    
-    **[NZZ Standpunkte](https://www.youtube.com/user/NeueZuercherZeitung)**
-    
-    **[RADAR](https://www.youtube.com/c/RADAR1)**
-    
-    **[READ!BERLIN](https://www.youtube.com/channel/UCRrhu3dtfjmr8qsN8aIsPMQ)**
-    
-    **[RealLifeLore](https://www.youtube.com/c/RealLifeLore)**
-    
-    **[Résonance[s]](https://www.youtube.com/c/R%C3%A9sonances)**
-    
-    **[Revue éléments](https://www.youtube.com/c/Revue%C3%A9l%C3%A9ments)**
-    
-    **[Rien ne veut rien dire](https://www.youtube.com/channel/UCPCaREz-JoiSmpfMih3IlIA)**
-    
-    **[SAFUniversity](https://www.youtube.com/user/SAFUniversity)**
-    
-    **[Sam O'Nella Academy](https://www.youtube.com/c/SamONellaAcademy)**
-    
-    **[Science4All](https://www.youtube.com/c/Science4Allfran%C3%A7ais)**
-    
-    **[ScienceEtonnante](https://www.youtube.com/c/ScienceEtonnante)**
-    
-    **[SciOne](https://www.youtube.com/c/SciOne)**
-    
-    **[Scobel](https://www.youtube.com/c/scobel)**
-    
-    **[sergeymeza](https://www.youtube.com/user/sergeymeza)**
-    
-    **[Sergio Redondo](https://www.youtube.com/user/sergiornoval)**
-    
-    **[Serious Science](https://www.youtube.com/user/SeriousScience)**
-    
-    **[Simplicissimus](https://www.youtube.com/c/Simplicissimus2)**
-    
-    **[Slate](https://www.youtube.com/slate)**
-    
-    **[Smart by Design](https://www.youtube.com/c/SmartbyDesign)**
-    
-    **[Socran](https://www.youtube.com/user/socrannn)**
-    
-    **[SOH Talks & Ideas Archive](https://www.youtube.com/c/SOHTalksArchive)**
-    
-    **[Soin et Compassion Hôtel-Dieu](https://www.youtube.com/channel/UCAiSqhQcLG344yIm6uVyNeQ)**
-    
-    **[Sprouts](https://www.youtube.com/c/SproutsVideos)**
-    
-    **[SRF DOK](https://www.youtube.com/user/SRFDOK)**
-    
-    **[SRF Kultur](https://www.youtube.com/c/srfkultur)**
-    
-    **[Stagioni del Pensiero - Castel San Pietro Terme](https://www.youtube.com/channel/UCbn3LPh73Ga3DJXGasCfWMA)**
-    
-    **[Stanford](https://www.youtube.com/c/stanford)**
-    
-    **[StepInSense](https://www.youtube.com/c/StepInSense)**
-    
-    **[stern TV](https://www.youtube.com/c/sternTV)**
-    
-    **[Súper Cultura](https://www.youtube.com/c/S%C3%BAperCultura)**
-    
-    **[SWR](https://www.youtube.com/user/SWR)**
-    
-    **[SWR1 Leute](https://www.youtube.com/user/swr1bw)**
-    
-    **[Terra X Lesch & Co](https://www.youtube.com/c/terrax_leschundco)**
-    
-    **[Terra X Natur & Geschichte](https://www.youtube.com/c/terra-x)**
-    
-    **[The Brainwaves Video Anthology](https://www.youtube.com/user/TheBrainwavesChannel)**
-    
-    **[The Complete Guide to Everything](https://www.youtube.com/user/TheCompleteGuide1)**
-    
-    **[The Economist](https://www.youtube.com/c/TheEconomist)**
-    
-    **[The Royal Institution](https://www.youtube.com/user/TheRoyalInstitution)**
-    
-    **[The University of Western Australia](https://www.youtube.com/user/universitywa)**
-    
-    **[THINK Global School](https://www.youtube.com/user/ThinkGlobalSchool)**
-    
-    **[Thinkerview](https://www.youtube.com/c/thinkerview)**
-    
-    **[Tom Scott](https://www.youtube.com/c/TomScottGo)**
-    
-    **[Universität Konstanz](https://www.youtube.com/user/UniversitaetKonstanz)**
-    
-    **[Universität Leipzig](https://www.youtube.com/user/UniversityofLeipzig)**
-    
-    **[Université d'Évry](https://www.youtube.com/c/Universit%C3%A9dEvryValdEssonneOfficiel)**
-    
-    **[Université Ouverte](https://www.youtube.com/c/Universit%C3%A9Ouverte)**
-    
-    **[Universiteit van Nederland](https://www.youtube.com/c/UniversiteitvanNederlandNL)**
-    
-    **[University of California Television (UCTV)](https://www.youtube.com/user/UCtelevision)**
-    
-    **[UNIVESP](https://www.youtube.com/user/univesptv)**
-    
-    **[unProfesor](https://www.youtube.com/user/unprofesorcom)**
-    
-    **[UsefulCharts](https://www.youtube.com/c/UsefulCharts)**
-    
-    **[USI Events](https://www.youtube.com/c/usievents)**
-    
-    **[UW Video](https://www.youtube.com/c/UWVideo)**
-    
-    **[Veritasium](https://www.youtube.com/c/veritasium)**
-    
-    **[Vert Dider](https://www.youtube.com/channel/UCY6zVRa3Km52bsBmpyQnk6A)**
-    
-    **[vlogbrothers](https://www.youtube.com/user/vlogbrothers)**
-    
-    **[VoicePower](https://www.youtube.com/channel/UChh4KdOL_b1D5oc3yJiaq6A)**
-    
-    **[What I've Learned](https://www.youtube.com/c/WhatIveLearned)**
-    
-    **[WikiAudio](https://www.youtube.com/channel/UCSxsi2uNwmewgetIeveu8pQ)**
-    
-    **[Wisecrack](https://www.youtube.com/wisecrack)**
-    
-    **[World Government Summit](https://www.youtube.com/user/GovSummit)**
-    
-    **[WORLD.MINDS](https://www.youtube.com/c/WORLDMINDS)**
-    
-    **[YaleCourses](https://www.youtube.com/user/YaleCourses)**
-    
-    **[YaleUniversity](https://www.youtube.com/yale)**
-    
-    **[Белый Кофе / Біла Кава](https://www.youtube.com/c/%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%D0%9A%D0%BE%D1%84%D0%B5)**
-    
-    **[Вселенная 42](https://www.youtube.com/channel/UCsYkWkT53X9q9vDuMmDacVQ)**
-    
-    **[Вчерашние Прогнозы](https://www.youtube.com/channel/UCzqXyp55Skr8twgCMNlFy2g)**
-    
-    **[История всего](https://www.youtube.com/channel/UCmRd1Puxy5sVgFK6aazulgg)**
-    
-    **[Канал со смыслом](https://www.youtube.com/channel/UCOClB_80LudQc2G0RIJ851w)**
-    
-    **[Кино-Театр.Ру](https://www.youtube.com/channel/UCJEhiUZIF8J-opQBkNZLW5A)**
-    
-    **[Максим Расников](https://www.youtube.com/channel/UCAZQDrpUXzHUQdxkT7btgTg)**
-    
-    **[На Урок](https://www.youtube.com/channel/UCMCYaKTwZ1Olw1fuzLvgA_Q)**
-    
-    **[НАУКА И ТЕХНИКА своими словами - 1](https://www.youtube.com/channel/UC63XRpWbqmN89H1yJBPZhMQ)**
-    
-    **[НаукаPRO](https://www.youtube.com/c/Naukapro)**
-    
-    **[Научный клуб](https://www.youtube.com/channel/UC36hJDQpvktVUi8lr5-shrA)**
-    
-    **[НаучРоРфильм](https://www.youtube.com/channel/UCu3XUorqVr0knNX12eTiOLQ)**
-    
-    **[НОУ ИНТУИТ](https://www.youtube.com/user/Intuitube)**
-    
-    **[Открытое образование](https://www.youtube.com/channel/UCIREA175SdsggexQlSOORcQ)**
-    
-    **[ОТШЕЛЬНИК](https://www.youtube.com/channel/UCYiye_4nbrSOQiDgrKdhOlw)**
-    
-    **[ПостНаука](https://www.youtube.com/user/postnauka)**
-    
-    **[Проект Открытое пространство](https://www.youtube.com/channel/UC1JbZN2At_1uKjZaIKNosjw)**
-    
-    **[Расширение Мировоззрения](https://www.youtube.com/user/Alexandrkarpovrf)**
-    
-    **[Телеканал ТюмГУ](https://www.youtube.com/user/TUMGU)**
-    
-    **[Учебные фильмы](https://www.youtube.com/channel/UCsAf6LLRnF1SbKZ7cV2pP2Q)**
-    
-    **[ФНК](https://www.youtube.com/c/%D0%A4%D0%9D%D0%9A81)**
-    
-    **[Фонд Концептуальных Знаний](https://www.youtube.com/user/Pyakin)**
-    
-    **[ШКОЛА ОНЛАЙН](https://www.youtube.com/channel/UCDKufJOTpYLXusSrBJDccEw)**
-    
-    **[AprendemosJuntos](https://www.youtube.com/c/AprendemosJuntos)**
-    
-    **[Arcana les Mystères du Monde](https://www.youtube.com/c/ArcanaMyst%C3%A8resduMonde)**
-    
-    **[ARD](https://www.youtube.com/user/ARD)**
-    
-    **[Armapedia](https://www.youtube.com/c/armapedia)**
-    
-    **[ARTE](https://www.youtube.com/user/ARTEplus7)**
-    
-    **[ARTE Radio](https://www.youtube.com/channel/UCbGOiY3MeW2qHuZl2irxw9Q)**
-    
-    **[ARTEde](https://www.youtube.com/user/ARTEde)**
-    
-    **[Artracaille](https://www.youtube.com/c/ArtracailleBlogspotGoogle)**
-    
-    **[Arzamas](https://www.youtube.com/c/Arzamaschannel)**
-    
-    **[Astraer](https://www.youtube.com/c/Astraer)**
-    
-    **[Audio Books](https://www.youtube.com/user/rt20bg)**
-    
-    **[badischezeitung](https://www.youtube.com/user/badischezeitung)**
-    
-    **[Bayerischer Rundfunk](https://www.youtube.com/c/bayerischerrundfunk)**
-    
-    **[BBC News Україна](https://www.youtube.com/user/UkrainianBBC)**
-    
-    **[Beautiful Mind](https://www.youtube.com/channel/UCnbSXkLgZxvR5Qhegj7WDzQ)**
-    
-    **[Big Think](https://www.youtube.com/user/bigthink)**
-    
-    **[BildungsTV](https://www.youtube.com/c/BildungsTV)**
-    
-    **[Bloomberg QuickTake](https://www.youtube.com/BloombergTV)**
-    
-    **[Boston University](https://www.youtube.com/user/bu)**
-    
-    **[Brincando com Ideias](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw)**
-    
-    **[Brokatbookverlag PR](https://www.youtube.com/channel/UCZ2GkuQWRSbH7mJF-07KS9Q)**
-    
-    **[BRS Explica](https://www.youtube.com/c/BRSExplica)**
-    
-    **[BUZZBIBLE VIDÉO](https://www.youtube.com/channel/UC91_dGVjroS9CJfq8VlB9Ew)**
-    
-    **[C'est pas sorcier](https://www.youtube.com/c/Cestpassorcierofficiel)**
-    
-    **[Canal Encuentro](https://www.youtube.com/user/encuentro)**
-    
-    **[CANAL+](https://www.youtube.com/c/canalplus)**
-    
-    **[CARKI PRODUCTIONS](https://www.youtube.com/channel/UCa2yQjbhV7-zMdygwZRFxYQ)**
-    
-    **[Casa del Libro](https://www.youtube.com/user/casadellibropuntocom)**
-    
-    **[Casually Explained](https://www.youtube.com/c/CasuallyExplained)**
-    
-    **[CGP Grey](https://www.youtube.com/greymatter)**
-    
-    **[CICAP](https://www.youtube.com/user/VideoCicap)**
-    
-    **[Círculo de Bellas Artes](https://www.youtube.com/c/circulodebellasartes)**
-    
-    **[clipedia](https://www.youtube.com/c/clipedia)**
-    
-    **[Coffee Break](https://www.youtube.com/c/CoffeeBreaks)**
-    
-    **[Cogito](https://www.youtube.com/c/CogitoEdu)**
-    
-    **[Conhecimento Geral](https://www.youtube.com/c/ConhecimentoGeraloficial)**
-    
-    **[Copernicus Center for Interdisciplinary Studies](https://www.youtube.com/user/CopernicusCenter)**
-    
-    **[Cracked](https://www.youtube.com/c/cracked)**
-    
-    **[CrashCourse](https://www.youtube.com/user/crashcourse)**
-    
-    **[Curio](https://www.youtube.com/c/CurioVids)**
-    
-    **[CuriosaMente](https://www.youtube.com/c/curiosamente)**
-    
-    **[Cyrus North](https://www.youtube.com/user/LeCoupdePhil)**
-    
-    **[DER SPIEGEL](https://www.youtube.com/user/spiegeltv)**
-    
-    **[Det humanistiske fakultet UiO](https://www.youtube.com/channel/UCnX_kkssVu9rykWGETlyjeA)**
-    
-    **[DeustoEdiciones](https://www.youtube.com/user/DeustoEdiciones)**
-    
-    **[Dinge Erklärt – Kurzgesagt](https://www.youtube.com/c/KurzgesagtDE)**
-    
-    **[École normale supérieure - PSL](https://www.youtube.com/c/EnsFrEcole_normale_superieure)**
-    
-    **[Editions M-Editer](https://www.youtube.com/user/M1962Editer)**
-    
-    **[PARADOX Conference](https://www.youtube.com/channel/UCKL28myAbR-LcSYPyBNPkeg)**
-    
-    **[Passe-Science](https://www.youtube.com/c/PasseScience)**
-    
-    **[Passion of the Nerd](https://www.youtube.com/c/PassionoftheNerd)**
-    
-    **[PhilosophyCosmology](https://www.youtube.com/user/PhilosophyCosmology)**
-    
-    **[phoenix](https://www.youtube.com/user/phoenix)**
-    
-    **[Power Zwerg](https://www.youtube.com/channel/UCDFzztU3u8VbOJJT8h0iMgw)**
-    
-    **[publications universitaires](https://www.youtube.com/user/publicationsu)**
-    
-    **[MIT OpenCourseWare](https://www.youtube.com/c/mitocw)**
-    
-    **[Otevřená věda](https://www.youtube.com/user/OtevrenaVeda)**
-    
-    **[OxfordUnion](https://www.youtube.com/user/OxfordUnion)**
-    
-    **[Piergiorgio Odifreddi](https://www.youtube.com/user/podifreddi)**
-    
-    **[Die Frage](https://www.youtube.com/c/DieFrage)**
-    
-    **[Dimanche à dix heures](https://www.youtube.com/channel/UCUq8l0lBamLGF5pqt9KmbzA)**
-    
-    **[Doc Files](https://www.youtube.com/user/TheDOCFILES)**
-    
-    **[Doc Seven](https://www.youtube.com/c/DocSeven)**
-    
-    **[Documentari Selezionati](https://www.youtube.com/c/DocumentariSelezionati)**
-    
-    **[Doktor Allwissend](https://www.youtube.com/user/doktorallwissend)**
-    
-    **[Dokumentarci Online](https://www.youtube.com/channel/UCzyskBsSFQFO8P-DaGa_9gg)**
-    
-    **[Dokumentarne emisije](https://www.youtube.com/channel/UCXMu4c24FcPi-c8BCGPUCrw)**
-    
-    **[DokuTV](https://www.youtube.com/channel/UC8kD5dm_sTid5yZ_eVHlAsA)**
-    
-    **[DoS - Domain of Science](https://www.youtube.com/c/DomainofScience)**
-    
-    **[drehscheibeMagazin](https://www.youtube.com/user/drehscheibeMagazin)**
-    
-    **[Fábrica de Curiosidades](https://www.youtube.com/channel/UCwLwEyjgNZMgqyx7rtNhxCA)**
-    
-    **[Festivaletteratura](https://www.youtube.com/user/Festivaletteratura)**
-    
-    **[Fire of Learning](https://www.youtube.com/user/Fireoflearning)**
-    
-    **[Monitor fantasma](https://www.youtube.com/c/Monitorfantasma)**
-    
-    **[MrWissen2go](https://www.youtube.com/c/MrWissen2go)**
-    
-    **[MSALLADLACIENCIA](https://www.youtube.com/c/MSALLADLACIENCIA1)**
-    
-    **[Nerdologia](https://www.youtube.com/c/nerdologia)**
-    
-    **[NEWMEDIA UFM](https://www.youtube.com/c/newmediaufm)**
-    
-    **[Nicolas Chiappelloni](https://www.youtube.com/channel/UCTSaKDfX-3MYpjNYfhojCkQ)**
-    
-    **[OnlineTeachers](https://www.youtube.com/user/profesorultauro)**
-    
-    **[Open Ukraine](https://www.youtube.com/channel/UCEBAPyQINZeF1XDNaIhhJsg)**
-    
-    **[GioPizzi](https://www.youtube.com/user/GioPizzi)**
-    
-    **[Jay Foreman](https://www.youtube.com/c/JayForeman)**
-    
-    **[Jens Rabe](https://www.youtube.com/channel/UCCPM1klqoABXV0cl8c3FDQw)**
-    
-    **[Johns Hopkins University](https://www.youtube.com/user/JohnsHopkins)**
-    
-    **[JRE Clips](https://www.youtube.com/c/JREClips)**
-    
-    **[Julia Galef](https://www.youtube.com/user/measureofdoubt)**
-    
-    **[LSE](https://www.youtube.com/user/lsewebsite)**
-    
-    **[Luigi Gasparroni](https://www.youtube.com/c/LuigiGasparroni)**
-    
-    **[Luigi Gaudio](https://www.youtube.com/user/luigigaudio)**
-    
-    **[lwf](https://www.youtube.com/user/lwf)**
-    
-    **[Map2Brain](https://www.youtube.com/c/Map2Brain)**
-    
-    **[Marcelo Diaz](https://www.youtube.com/channel/UColGiUtImtx4zvXmasHOMdA)**
-    
-    **[MeaningofLife.tv](https://www.youtube.com/c/MeaningoflifeTv)**
-    
-    **[media.ccc.de](https://www.youtube.com/c/mediacccde)**
-    
-    **[Medienbüro - TH Köln](https://www.youtube.com/c/THK%C3%B6lnMedienb%C3%BCro)**
-    
-    **[Memorias de Pez](https://www.youtube.com/c/MemoriasdePez)**
-    
-    **[Mercuree Lab](https://www.youtube.com/channel/UC4Ub5auLvv8G4LriIm9P1Hw)**
-    
-    **[El Mundo](https://www.youtube.com/user/CanalELMUNDOes)**
-    
-    **[El País](https://www.youtube.com/c/elpais)**
-    
-    **[Encyclomedia Publishers](https://www.youtube.com/user/Encyclomediavideos)**
-    
-    **[Erasmus University Rotterdam](https://www.youtube.com/user/ErasmusUniversity)**
-    
-    **[explainity ® Erklärvideos](https://www.youtube.com/c/explainity-erklaert)**
-    
-    **[Extra Credits](https://www.youtube.com/extracredits)**
-    
-    **[follow me.reports](https://www.youtube.com/c/followmereports)**
-    
-    **[Fondazione Tatarella](https://www.youtube.com/user/fondazionetatarella)**
-    
-    **[France 3 Normandie](https://www.youtube.com/c/france3normandie)**
-    
-    **[France Culture](https://www.youtube.com/user/FranceCulture)**
-    
-    **[France Inter](https://www.youtube.com/user/videofranceinter)**
-    
-    **[Franklin & Marshall College](https://www.youtube.com/user/fandmcollege)**
-    
-    **[Fronteiras do Pensamento](https://www.youtube.com/user/fronteiraspoa)**
-    
-    **[GENIAL](https://www.youtube.com/channel/UCbrd1vu4_7qIE6IPV_dA-OA)**
-    
-    **[German Lourenço Mejia](https://www.youtube.com/user/German1184)**
-    
-    **[GiovediScienza](https://www.youtube.com/user/GiovediScienza)**
-    
-    **[Great Learning](https://www.youtube.com/c/GreatLearningOfficial)**
-    
-    **[Harvard Extension School](https://www.youtube.com/c/harvardextensionschool)**
-    
-    **[HugoDécrypte](https://www.youtube.com/channel/UCAcAnMF0OrCtUep3Y4M-ZPw)**
-    
-    **[HYPERBOLE](https://www.youtube.com/c/hyperboleTV)**
-    
-    **[IFG Executive Education](https://www.youtube.com/c/IFGExecutiveEducation)**
-    
-    **[illacertus](https://www.youtube.com/c/Illacertus)**
-    
-    **[imineo Documentaires](https://www.youtube.com/c/imineoDocumentaire)**
-    
-    **[In One Lesson](https://www.youtube.com/c/InOneLesson)**
-    
-    **[Irgendwas mit ARTE und Kultur](https://www.youtube.com/c/IrgendwasmitARTEundKultur)**
-    
-    **[ISCC ISKH](https://www.youtube.com/channel/UCnM1roToWyB6hXkZbHKbR0w)**
-    
-    **[It's Okay To Be Smart](https://www.youtube.com/c/itsokaytobesmart)**
-    
-    **[Just a Few Thoughts (Ru)](https://www.youtube.com/c/JustaFewThoughtsRu)**
-    
-    **[Khan Academy](https://www.youtube.com/user/khanacademy)**
-    
-    **[KhanAcademyEspañol](https://www.youtube.com/user/KhanAcademyEspanol)**
-    
-    **[KhanAcademyFrancophone](https://www.youtube.com/user/KhanAcademyFrancais)**
-    
-    **[KhanAcademyRussian](https://www.youtube.com/c/KhanAcademyRussian)**
-    
-    **[Khanlatinoamericano](https://www.youtube.com/user/Khanlatinoamericano)**
-    
-    **[KIT Lehre und Wissen](https://www.youtube.com/channel/UC6AqaL6fH91U5YhyUCI0ZOQ)**
-    
-    **[Krismar Educación](https://www.youtube.com/user/krismareduca)**
-    
-    **[Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell)**
-    
-    **[L'Esprit Sorcier Officiel](https://www.youtube.com/channel/UCH6rAZUDfVIoVSJjm3vlcnw)**
-    
-    **[L1f3styleRG28](https://www.youtube.com/channel/UCqCzpYrbhsTzL0LMVYXVYUQ)**
-    
-    **[La Grande Librairie](https://www.youtube.com/user/lagrandelibrairie)**
-    
-    **[Le Monde](https://www.youtube.com/c/lemondefr)**
-    
-    **[Léa Choue](https://www.youtube.com/user/Mabeauteauquotidien)**
-    
-    **[LES GRANDES QUESTIONS](https://www.youtube.com/user/LESGRANDESQUESTIONS)**
-    
-    **[Leuphana Universität Lüneburg](https://www.youtube.com/user/Leuphana)**
-    
-    **[librairie mollat](https://www.youtube.com/user/LibrairieMollat)**
-    
-    **[Freeman Dyson - Why I don't like the PhD system (95/157)](https://www.youtube.com/watch?v=DzC1IRYN_Ps&list=WL&index=384)**
-    
-    **[Eric Weinstein: Revolutionary Ideas in Science, Math, and Society | Lex Fridman Podcast #16](https://www.youtube.com/watch?v=2wq9x2QcZN0&list=WL&index=515)**
-    
-    **How learning German taught me the link between maths and poetry | Larry Baker | TEDxVienna**
-    
-    **Pop Science And The Limitations Of Infotainment**
-    
-    **[On the Relationship Between Science and Humanities, John Gray](https://www.youtube.com/watch?v=USaB-sV_-qY&list=WL&index=87)**
-    
-    **[Die besten Bücher die dir niemand empfiehlt](https://www.youtube.com/watch?v=anfosC4G1DM&list=WL&index=1478)**
-    
-    **[Richard Feynman - The World from another point of view](https://www.youtube.com/watch?v=GNhlNSLQAFE&list=WL&index=99)**
-    
-    **The Toolbox Fallacy**
-    
-    **[Preguntas de las que Nadie tiene las Respuestas (Versión completa)](https://www.youtube.com/watch?v=7SWvDHvWXok&list=WL&index=161)**
-    
-    **[Rolf Dobelli in der ARD-Talkshow Sendung DAS!](https://www.youtube.com/watch?v=GVUJRX2ndxw&list=WL&index=89)**
-    
-    **[ФАЛТ МФТИ](https://www.youtube.com/c/%D0%A4%D0%90%D0%9B%D0%A2%D0%9C%D0%A4%D0%A2%D0%98)**
+        * [The Biggest Ideas in the Universe!](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX)
+        * [The Mechanic Shark Channel (entertainment)](https://www.youtube.com/c/TheMechanicSharkChannel)
+        * [Galileo](https://www.youtube.com/user/GalileoOffiziell)
+        * [100 книг за год](https://www.youtube.com/channel/UCBN0sdyFr4tw9gVad82WiaQ)
+        * [2035 university](https://www.youtube.com/c/2035university)
+        * [Aalto University](https://www.youtube.com/user/aaltouniversity)
+        * [Acervo - Televisión Educativa](https://www.youtube.com/channel/UCD_vqC34BVWFN-6nfTXLjIA)
+        * [MÁS QUE ARTE](https://www.youtube.com/user/yuoaya)
+        * [My university](https://www.youtube.com/c/Myuniversity1)
+        * [Nota Bene](https://www.youtube.com/c/notabenemovies)
+        * [Nota Bonus](https://www.youtube.com/channel/UCrbbgYjbrXVYRM_iRGEDqFw)
+        * [NZZ Standpunkte](https://www.youtube.com/user/NeueZuercherZeitung)
+        * [RADAR](https://www.youtube.com/c/RADAR1)
+        * [READ!BERLIN](https://www.youtube.com/channel/UCRrhu3dtfjmr8qsN8aIsPMQ)
+        * [RealLifeLore](https://www.youtube.com/c/RealLifeLore)
+        * [Résonance[s]](https://www.youtube.com/c/R%C3%A9sonances)
+        * [Revue éléments](https://www.youtube.com/c/Revue%C3%A9l%C3%A9ments)
+        * [Rien ne veut rien dire](https://www.youtube.com/channel/UCPCaREz-JoiSmpfMih3IlIA)
+        * [SAFUniversity](https://www.youtube.com/user/SAFUniversity)
+        * [Sam O'Nella Academy](https://www.youtube.com/c/SamONellaAcademy)
+        * [Science4All](https://www.youtube.com/c/Science4Allfran%C3%A7ais)
+        * [ScienceEtonnante](https://www.youtube.com/c/ScienceEtonnante)
+        * [SciOne](https://www.youtube.com/c/SciOne)
+        * [Scobel](https://www.youtube.com/c/scobel)
+        * [sergeymeza](https://www.youtube.com/user/sergeymeza)
+        * [Sergio Redondo](https://www.youtube.com/user/sergiornoval)
+        * [Serious Science](https://www.youtube.com/user/SeriousScience)
+        * [Simplicissimus](https://www.youtube.com/c/Simplicissimus2)
+        * [Slate](https://www.youtube.com/slate)
+        * [Smart by Design](https://www.youtube.com/c/SmartbyDesign)
+        * [Socran](https://www.youtube.com/user/socrannn)
+        * [SOH Talks & Ideas Archive](https://www.youtube.com/c/SOHTalksArchive)
+        * [Soin et Compassion Hôtel-Dieu](https://www.youtube.com/channel/UCAiSqhQcLG344yIm6uVyNeQ)
+        * [Sprouts](https://www.youtube.com/c/SproutsVideos)
+        * [SRF DOK](https://www.youtube.com/user/SRFDOK)
+        * [SRF Kultur](https://www.youtube.com/c/srfkultur)
+        * [Stagioni del Pensiero - Castel San Pietro Terme](https://www.youtube.com/channel/UCbn3LPh73Ga3DJXGasCfWMA)
+        * [Stanford](https://www.youtube.com/c/stanford)
+        * [StepInSense](https://www.youtube.com/c/StepInSense)
+        * [stern TV](https://www.youtube.com/c/sternTV)
+        * [Súper Cultura](https://www.youtube.com/c/S%C3%BAperCultura)
+        * [SWR](https://www.youtube.com/user/SWR)
+        * [SWR1 Leute](https://www.youtube.com/user/swr1bw)
+        * [Terra X Lesch & Co](https://www.youtube.com/c/terrax_leschundco)
+        * [Terra X Natur & Geschichte](https://www.youtube.com/c/terra-x)
+        * [The Brainwaves Video Anthology](https://www.youtube.com/user/TheBrainwavesChannel)
+        * [The Complete Guide to Everything](https://www.youtube.com/user/TheCompleteGuide1)
+        * [The Economist](https://www.youtube.com/c/TheEconomist)
+        * [The Royal Institution](https://www.youtube.com/user/TheRoyalInstitution)
+        * [The University of Western Australia](https://www.youtube.com/user/universitywa)
+        * [THINK Global School](https://www.youtube.com/user/ThinkGlobalSchool)
+        * [Thinkerview](https://www.youtube.com/c/thinkerview)
+        * [Tom Scott](https://www.youtube.com/c/TomScottGo)
+        * [Universität Konstanz](https://www.youtube.com/user/UniversitaetKonstanz)
+        * [Universität Leipzig](https://www.youtube.com/user/UniversityofLeipzig)
+        * [Université d'Évry](https://www.youtube.com/c/Universit%C3%A9dEvryValdEssonneOfficiel)
+        * [Université Ouverte](https://www.youtube.com/c/Universit%C3%A9Ouverte)
+        * [Universiteit van Nederland](https://www.youtube.com/c/UniversiteitvanNederlandNL)
+        * [University of California Television (UCTV)](https://www.youtube.com/user/UCtelevision)
+        * [UNIVESP](https://www.youtube.com/user/univesptv)
+        * [unProfesor](https://www.youtube.com/user/unprofesorcom)
+        * [UsefulCharts](https://www.youtube.com/c/UsefulCharts)
+        * [USI Events](https://www.youtube.com/c/usievents)
+        * [UW Video](https://www.youtube.com/c/UWVideo)
+        * [Veritasium](https://www.youtube.com/c/veritasium)
+        * [Vert Dider](https://www.youtube.com/channel/UCY6zVRa3Km52bsBmpyQnk6A)
+        * [vlogbrothers](https://www.youtube.com/user/vlogbrothers)
+        * [VoicePower](https://www.youtube.com/channel/UChh4KdOL_b1D5oc3yJiaq6A)
+        * [What I've Learned](https://www.youtube.com/c/WhatIveLearned)
+        * [WikiAudio](https://www.youtube.com/channel/UCSxsi2uNwmewgetIeveu8pQ)
+        * [Wisecrack](https://www.youtube.com/wisecrack)
+        * [World Government Summit](https://www.youtube.com/user/GovSummit)
+        * [WORLD.MINDS](https://www.youtube.com/c/WORLDMINDS)
+        * [YaleCourses](https://www.youtube.com/user/YaleCourses)
+        * [YaleUniversity](https://www.youtube.com/yale)
+        * [Белый Кофе / Біла Кава](https://www.youtube.com/c/%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%D0%9A%D0%BE%D1%84%D0%B5)
+        * [Вселенная 42](https://www.youtube.com/channel/UCsYkWkT53X9q9vDuMmDacVQ)
+        * [Вчерашние Прогнозы](https://www.youtube.com/channel/UCzqXyp55Skr8twgCMNlFy2g)
+        * [История всего](https://www.youtube.com/channel/UCmRd1Puxy5sVgFK6aazulgg)
+        * [Канал со смыслом](https://www.youtube.com/channel/UCOClB_80LudQc2G0RIJ851w)
+        * [Кино-Театр.Ру](https://www.youtube.com/channel/UCJEhiUZIF8J-opQBkNZLW5A)
+        * [Максим Расников](https://www.youtube.com/channel/UCAZQDrpUXzHUQdxkT7btgTg)
+        * [На Урок](https://www.youtube.com/channel/UCMCYaKTwZ1Olw1fuzLvgA_Q)
+        * [НАУКА И ТЕХНИКА своими словами - 1](https://www.youtube.com/channel/UC63XRpWbqmN89H1yJBPZhMQ)
+        * [НаукаPRO](https://www.youtube.com/c/Naukapro)
+        * [Научный клуб](https://www.youtube.com/channel/UC36hJDQpvktVUi8lr5-shrA)
+        * [НаучРоРфильм](https://www.youtube.com/channel/UCu3XUorqVr0knNX12eTiOLQ)
+        * [НОУ ИНТУИТ](https://www.youtube.com/user/Intuitube)
+        * [Открытое образование](https://www.youtube.com/channel/UCIREA175SdsggexQlSOORcQ)
+        * [ОТШЕЛЬНИК](https://www.youtube.com/channel/UCYiye_4nbrSOQiDgrKdhOlw)
+        * [ПостНаука](https://www.youtube.com/user/postnauka)
+        * [Проект Открытое пространство](https://www.youtube.com/channel/UC1JbZN2At_1uKjZaIKNosjw)
+        * [Расширение Мировоззрения](https://www.youtube.com/user/Alexandrkarpovrf)
+        * [Телеканал ТюмГУ](https://www.youtube.com/user/TUMGU)
+        * [Учебные фильмы](https://www.youtube.com/channel/UCsAf6LLRnF1SbKZ7cV2pP2Q)
+        * [ФНК](https://www.youtube.com/c/%D0%A4%D0%9D%D0%9A81)
+        * [Фонд Концептуальных Знаний](https://www.youtube.com/user/Pyakin)
+        * [ШКОЛА ОНЛАЙН](https://www.youtube.com/channel/UCDKufJOTpYLXusSrBJDccEw)
+        * [AprendemosJuntos](https://www.youtube.com/c/AprendemosJuntos)
+        * [Arcana les Mystères du Monde](https://www.youtube.com/c/ArcanaMyst%C3%A8resduMonde)
+        * [ARD](https://www.youtube.com/user/ARD)
+        * [Armapedia](https://www.youtube.com/c/armapedia)
+        * [ARTE](https://www.youtube.com/user/ARTEplus7)
+        * [ARTE Radio](https://www.youtube.com/channel/UCbGOiY3MeW2qHuZl2irxw9Q)
+        * [ARTEde](https://www.youtube.com/user/ARTEde)
+        * [Artracaille](https://www.youtube.com/c/ArtracailleBlogspotGoogle)
+        * [Arzamas](https://www.youtube.com/c/Arzamaschannel)
+        * [Astraer](https://www.youtube.com/c/Astraer)
+        * [Audio Books](https://www.youtube.com/user/rt20bg)
+        * [badischezeitung](https://www.youtube.com/user/badischezeitung)
+        * [Bayerischer Rundfunk](https://www.youtube.com/c/bayerischerrundfunk)
+        * [BBC News Україна](https://www.youtube.com/user/UkrainianBBC)
+        * [Beautiful Mind](https://www.youtube.com/channel/UCnbSXkLgZxvR5Qhegj7WDzQ)
+        * [Big Think](https://www.youtube.com/user/bigthink)
+        * [BildungsTV](https://www.youtube.com/c/BildungsTV)
+        * [Bloomberg QuickTake](https://www.youtube.com/BloombergTV)
+        * [Boston University](https://www.youtube.com/user/bu)
+        * [Brincando com Ideias](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw)
+        * [Brokatbookverlag PR](https://www.youtube.com/channel/UCZ2GkuQWRSbH7mJF-07KS9Q)
+        * [BRS Explica](https://www.youtube.com/c/BRSExplica)
+        * [BUZZBIBLE VIDÉO](https://www.youtube.com/channel/UC91_dGVjroS9CJfq8VlB9Ew)
+        * [C'est pas sorcier](https://www.youtube.com/c/Cestpassorcierofficiel)
+        * [Canal Encuentro](https://www.youtube.com/user/encuentro)
+        * [CANAL+](https://www.youtube.com/c/canalplus)
+        * [CARKI PRODUCTIONS](https://www.youtube.com/channel/UCa2yQjbhV7-zMdygwZRFxYQ)
+        * [Casa del Libro](https://www.youtube.com/user/casadellibropuntocom)
+        * [Casually Explained](https://www.youtube.com/c/CasuallyExplained)
+        * [CGP Grey](https://www.youtube.com/greymatter)
+        * [CICAP](https://www.youtube.com/user/VideoCicap)
+        * [Círculo de Bellas Artes](https://www.youtube.com/c/circulodebellasartes)
+        * [clipedia](https://www.youtube.com/c/clipedia)
+        * [Coffee Break](https://www.youtube.com/c/CoffeeBreaks)
+        * [Cogito](https://www.youtube.com/c/CogitoEdu)
+        * [Conhecimento Geral](https://www.youtube.com/c/ConhecimentoGeraloficial)
+        * [Copernicus Center for Interdisciplinary Studies](https://www.youtube.com/user/CopernicusCenter)
+        * [Cracked](https://www.youtube.com/c/cracked)
+        * [CrashCourse](https://www.youtube.com/user/crashcourse)
+        * [Curio](https://www.youtube.com/c/CurioVids)
+        * [CuriosaMente](https://www.youtube.com/c/curiosamente)
+        * [Cyrus North](https://www.youtube.com/user/LeCoupdePhil)
+        * [DER SPIEGEL](https://www.youtube.com/user/spiegeltv)
+        * [Det humanistiske fakultet UiO](https://www.youtube.com/channel/UCnX_kkssVu9rykWGETlyjeA)
+        * [DeustoEdiciones](https://www.youtube.com/user/DeustoEdiciones)
+        * [Dinge Erklärt – Kurzgesagt](https://www.youtube.com/c/KurzgesagtDE)
+        * [École normale supérieure - PSL](https://www.youtube.com/c/EnsFrEcole_normale_superieure)
+        * [Editions M-Editer](https://www.youtube.com/user/M1962Editer)
+        * [PARADOX Conference](https://www.youtube.com/channel/UCKL28myAbR-LcSYPyBNPkeg)
+        * [Passe-Science](https://www.youtube.com/c/PasseScience)
+        * [Passion of the Nerd](https://www.youtube.com/c/PassionoftheNerd)
+        * [PhilosophyCosmology](https://www.youtube.com/user/PhilosophyCosmology)
+        * [phoenix](https://www.youtube.com/user/phoenix)
+        * [Power Zwerg](https://www.youtube.com/channel/UCDFzztU3u8VbOJJT8h0iMgw)
+        * [publications universitaires](https://www.youtube.com/user/publicationsu)
+        * [MIT OpenCourseWare](https://www.youtube.com/c/mitocw)
+        * [Otevřená věda](https://www.youtube.com/user/OtevrenaVeda)
+        * [OxfordUnion](https://www.youtube.com/user/OxfordUnion)
+        * [Piergiorgio Odifreddi](https://www.youtube.com/user/podifreddi)
+        * [Die Frage](https://www.youtube.com/c/DieFrage)
+        * [Dimanche à dix heures](https://www.youtube.com/channel/UCUq8l0lBamLGF5pqt9KmbzA)
+        * [Doc Files](https://www.youtube.com/user/TheDOCFILES)
+        * [Doc Seven](https://www.youtube.com/c/DocSeven)
+        * [Documentari Selezionati](https://www.youtube.com/c/DocumentariSelezionati)
+        * [Doktor Allwissend](https://www.youtube.com/user/doktorallwissend)
+        * [Dokumentarci Online](https://www.youtube.com/channel/UCzyskBsSFQFO8P-DaGa_9gg)
+        * [Dokumentarne emisije](https://www.youtube.com/channel/UCXMu4c24FcPi-c8BCGPUCrw)
+        * [DokuTV](https://www.youtube.com/channel/UC8kD5dm_sTid5yZ_eVHlAsA)
+        * [DoS - Domain of Science](https://www.youtube.com/c/DomainofScience)
+        * [drehscheibeMagazin](https://www.youtube.com/user/drehscheibeMagazin)
+        * [Fábrica de Curiosidades](https://www.youtube.com/channel/UCwLwEyjgNZMgqyx7rtNhxCA)
+        * [Festivaletteratura](https://www.youtube.com/user/Festivaletteratura)
+        * [Fire of Learning](https://www.youtube.com/user/Fireoflearning)
+        * [Monitor fantasma](https://www.youtube.com/c/Monitorfantasma)
+        * [MrWissen2go](https://www.youtube.com/c/MrWissen2go)
+        * [MSALLADLACIENCIA](https://www.youtube.com/c/MSALLADLACIENCIA1)
+        * [Nerdologia](https://www.youtube.com/c/nerdologia)
+        * [NEWMEDIA UFM](https://www.youtube.com/c/newmediaufm)
+        * [Nicolas Chiappelloni](https://www.youtube.com/channel/UCTSaKDfX-3MYpjNYfhojCkQ)
+        * [OnlineTeachers](https://www.youtube.com/user/profesorultauro)
+        * [Open Ukraine](https://www.youtube.com/channel/UCEBAPyQINZeF1XDNaIhhJsg)
+        * [GioPizzi](https://www.youtube.com/user/GioPizzi)
+        * [Jay Foreman](https://www.youtube.com/c/JayForeman)
+        * [Jens Rabe](https://www.youtube.com/channel/UCCPM1klqoABXV0cl8c3FDQw)
+        * [Johns Hopkins University](https://www.youtube.com/user/JohnsHopkins)
+        * [JRE Clips](https://www.youtube.com/c/JREClips)
+        * [Julia Galef](https://www.youtube.com/user/measureofdoubt)
+        * [LSE](https://www.youtube.com/user/lsewebsite)
+        * [Luigi Gasparroni](https://www.youtube.com/c/LuigiGasparroni)
+        * [Luigi Gaudio](https://www.youtube.com/user/luigigaudio)
+        * [lwf](https://www.youtube.com/user/lwf)
+        * [Map2Brain](https://www.youtube.com/c/Map2Brain)
+        * [Marcelo Diaz](https://www.youtube.com/channel/UColGiUtImtx4zvXmasHOMdA)
+        * [MeaningofLife.tv](https://www.youtube.com/c/MeaningoflifeTv)
+        * [media.ccc.de](https://www.youtube.com/c/mediacccde)
+        * [Medienbüro - TH Köln](https://www.youtube.com/c/THK%C3%B6lnMedienb%C3%BCro)
+        * [Memorias de Pez](https://www.youtube.com/c/MemoriasdePez)
+        * [Mercuree Lab](https://www.youtube.com/channel/UC4Ub5auLvv8G4LriIm9P1Hw)
+        * [El Mundo](https://www.youtube.com/user/CanalELMUNDOes)
+        * [El País](https://www.youtube.com/c/elpais)
+        * [Encyclomedia Publishers](https://www.youtube.com/user/Encyclomediavideos)
+        * [Erasmus University Rotterdam](https://www.youtube.com/user/ErasmusUniversity)
+        * [explainity ® Erklärvideos](https://www.youtube.com/c/explainity-erklaert)
+        * [Extra Credits](https://www.youtube.com/extracredits)
+        * [follow me.reports](https://www.youtube.com/c/followmereports)
+        * [Fondazione Tatarella](https://www.youtube.com/user/fondazionetatarella)
+        * [France 3 Normandie](https://www.youtube.com/c/france3normandie)
+        * [France Culture](https://www.youtube.com/user/FranceCulture)
+        * [France Inter](https://www.youtube.com/user/videofranceinter)
+        * [Franklin & Marshall College](https://www.youtube.com/user/fandmcollege)
+        * [Fronteiras do Pensamento](https://www.youtube.com/user/fronteiraspoa)
+        * [GENIAL](https://www.youtube.com/channel/UCbrd1vu4_7qIE6IPV_dA-OA)
+        * [German Lourenço Mejia](https://www.youtube.com/user/German1184)
+        * [GiovediScienza](https://www.youtube.com/user/GiovediScienza)
+        * [Great Learning](https://www.youtube.com/c/GreatLearningOfficial)
+        * [Harvard Extension School](https://www.youtube.com/c/harvardextensionschool)
+        * [HugoDécrypte](https://www.youtube.com/channel/UCAcAnMF0OrCtUep3Y4M-ZPw)
+        * [HYPERBOLE](https://www.youtube.com/c/hyperboleTV)
+        * [IFG Executive Education](https://www.youtube.com/c/IFGExecutiveEducation)
+        * [illacertus](https://www.youtube.com/c/Illacertus)
+        * [imineo Documentaires](https://www.youtube.com/c/imineoDocumentaire)
+        * [In One Lesson](https://www.youtube.com/c/InOneLesson)
+        * [Irgendwas mit ARTE und Kultur](https://www.youtube.com/c/IrgendwasmitARTEundKultur)
+        * [ISCC ISKH](https://www.youtube.com/channel/UCnM1roToWyB6hXkZbHKbR0w)
+        * [It's Okay To Be Smart](https://www.youtube.com/c/itsokaytobesmart)
+        * [Just a Few Thoughts (Ru)](https://www.youtube.com/c/JustaFewThoughtsRu)
+        * [Khan Academy](https://www.youtube.com/user/khanacademy)
+        * [KhanAcademyEspañol](https://www.youtube.com/user/KhanAcademyEspanol)
+        * [KhanAcademyFrancophone](https://www.youtube.com/user/KhanAcademyFrancais)
+        * [KhanAcademyRussian](https://www.youtube.com/c/KhanAcademyRussian)
+        * [Khanlatinoamericano](https://www.youtube.com/user/Khanlatinoamericano)
+        * [KIT Lehre und Wissen](https://www.youtube.com/channel/UC6AqaL6fH91U5YhyUCI0ZOQ)
+        * [Krismar Educación](https://www.youtube.com/user/krismareduca)
+        * [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell)
+        * [L'Esprit Sorcier Officiel](https://www.youtube.com/channel/UCH6rAZUDfVIoVSJjm3vlcnw)
+        * [L1f3styleRG28](https://www.youtube.com/channel/UCqCzpYrbhsTzL0LMVYXVYUQ)
+        * [La Grande Librairie](https://www.youtube.com/user/lagrandelibrairie)
+        * [Le Monde](https://www.youtube.com/c/lemondefr)
+        * [Léa Choue](https://www.youtube.com/user/Mabeauteauquotidien)
+        * [LES GRANDES QUESTIONS](https://www.youtube.com/user/LESGRANDESQUESTIONS)
+        * [Leuphana Universität Lüneburg](https://www.youtube.com/user/Leuphana)
+        * [librairie mollat](https://www.youtube.com/user/LibrairieMollat)
+        * [Freeman Dyson - Why I don't like the PhD system (95/157)](https://www.youtube.com/watch?v=DzC1IRYN_Ps&list=WL&index=384)
+        * [Eric Weinstein: Revolutionary Ideas in Science, Math, and Society | Lex Fridman Podcast #16](https://www.youtube.com/watch?v=2wq9x2QcZN0&list=WL&index=515)
+    
+    How learning German taught me the link between maths and poetry | Larry Baker | TEDxVienna
+    
+    Pop Science And The Limitations Of Infotainment
+        * [On the Relationship Between Science and Humanities, John Gray](https://www.youtube.com/watch?v=USaB-sV_-qY&list=WL&index=87)
+        * [Die besten Bücher die dir niemand empfiehlt](https://www.youtube.com/watch?v=anfosC4G1DM&list=WL&index=1478)
+        * [Richard Feynman - The World from another point of view](https://www.youtube.com/watch?v=GNhlNSLQAFE&list=WL&index=99)
+    
+    The Toolbox Fallacy
+        * [Preguntas de las que Nadie tiene las Respuestas (Versión completa)](https://www.youtube.com/watch?v=7SWvDHvWXok&list=WL&index=161)
+        * [Rolf Dobelli in der ARD-Talkshow Sendung DAS!](https://www.youtube.com/watch?v=GVUJRX2ndxw&list=WL&index=89)
+        * [ФАЛТ МФТИ](https://www.youtube.com/c/%D0%A4%D0%90%D0%9B%D0%A2%D0%9C%D0%A4%D0%A2%D0%98)
     
 - Very Short Introduction
-    
-    [Abolitionism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190213220.001.0001/actrade-9780190213220?rskey=0xxw4L&result=1)ction
-    
-    [The Abrahamic Religions: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190654344.001.0001/actrade-9780190654344?rskey=0xxw4L&result=2)ction
-    
-    [Accounting: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199684311.001.0001/actrade-9780199684311?rskey=0xxw4L&result=3)ction
-    
-    [Adam Smith: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198784456.001.0001/actrade-9780198784456?rskey=0xxw4L&result=4)ction
-    
-    [Adolescence: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199665563.001.0001/actrade-9780199665563?rskey=0xxw4L&result=5)ction
-    
-    [Advertising: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199568925.001.0001/actrade-9780199568925?rskey=0xxw4L&result=6)ction
-    
-    [Aerial Warfare: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198804314.001.0001/actrade-9780198804314?rskey=0xxw4L&result=7)ction
-    
-    [Aesthetics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198826613.001.0001/actrade-9780198826613?rskey=0xxw4L&result=8)ction
-    
-    [African American Religion: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195182897.001.0001/actrade-9780195182897?rskey=0xxw4L&result=9)ction
-    
-    [African History: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802484.001.0001/actrade-9780192802484?rskey=0xxw4L&result=10)ction
-    
-    [African Politics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198806578.001.0001/actrade-9780198806578?rskey=0xxw4L&result=11)ction
-    
-    [African Religions: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199790586.001.0001/actrade-9780199790586?rskey=0xxw4L&result=12)ction
-    
-    [Ageing: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198725329.001.0001/actrade-9780198725329?rskey=0xxw4L&result=13)ction
-    
-    [Agnosticism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199575268.001.0001/actrade-9780199575268?rskey=0xxw4L&result=14)ction
-    
-    [Agriculture: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198725961.001.0001/actrade-9780198725961?rskey=0xxw4L&result=15)ction
-    
-    [Albert Camus: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198792970.001.0001/actrade-9780198792970?rskey=0xxw4L&result=16)ction
-    
-    [Alexander the Great: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198706151.001.0001/actrade-9780198706151?rskey=0xxw4L&result=17)ction
-    
-    [Algebra: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198732822.001.0001/actrade-9780198732822?rskey=0xxw4L&result=18)ction
-    
-    [American Business History: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190622473.001.0001/actrade-9780190622473?rskey=0xxw4L&result=19)ction
-    
-    [American Cultural History: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190200589.001.0001/actrade-9780190200589?rskey=0xxw4L&result=20)ction
-    
-    [American Foreign Relations: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199899395.001.0001/actrade-9780199899395?rskey=0xxw4L&result=21)ction
-    
-    [American History: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195389142.001.0001/actrade-9780195389142?rskey=0xxw4L&result=22)ction
-    
-    [American Immigration: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780197542422.001.0001/actrade-9780197542422?rskey=0xxw4L&result=23)
-    
-    [American Intellectual History: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190622435.001.0001/actrade-9780190622435?rskey=0xxw4L&result=24)ction
-    
-    [American Legal History: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199766000.001.0001/actrade-9780199766000?rskey=0xxw4L&result=25)ction
-    
-    [American Military History: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199859252.001.0001/actrade-9780199859252?rskey=0xxw4L&result=26)ction
-    
-    [American Naval History: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199394760.001.0001/actrade-9780199394760?rskey=0xxw4L&result=27)ction
-    
-    [American Political Parties and Elections: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190458164.001.0001/actrade-9780190458164?rskey=0xxw4L&result=28)
-    
-    [American Politics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195373851.001.0001/actrade-9780195373851?rskey=0xxw4L&result=29)ction
-    
-    [The American Presidency: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190458201.001.0001/actrade-9780190458201?rskey=0xxw4L&result=30)
-    
-    [The American Revolution: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190225063.001.0001/actrade-9780190225063?rskey=0xxw4L&result=31)ction
-    
-    [American Slavery: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199922680.001.0001/actrade-9780199922680?rskey=0xxw4L&result=32)ction
-    
-    [The American South: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199943517.001.0001/actrade-9780199943517?rskey=0xxw4L&result=33)ction
-    
-    [The American West: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199858934.001.0001/actrade-9780199858934?rskey=0xxw4L&result=34)ction
-    
-    [American Women's History: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199328338.001.0001/actrade-9780199328338?rskey=0xxw4L&result=35)ction
-    
-    [Amphibians: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198842989.001.0001/actrade-9780198842989?rskey=0xxw4L&result=36)ction
-    
-    [Anaesthesia: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199584543.001.0001/actrade-9780199584543?rskey=0xxw4L&result=37)ction
-    
-    [Analytic Philosophy: A Very Short introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198778028.001.0001/actrade-9780198778028?rskey=0xxw4L&result=38)ction
-    
-    [Anarchism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192804778.001.0001/actrade-9780192804778?rskey=0xxw4L&result=39)ction
-    
-    [Ancient Assyria: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198715900.001.0001/actrade-9780198715900?rskey=0xxw4L&result=40)ction
-    
-    [Ancient Egypt: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198845461.001.0001/actrade-9780198845461?rskey=0xxw4L&result=41)
-    
-    [Ancient Egyptian Art and Architecture: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199682782.001.0001/actrade-9780199682782?rskey=0xxw4L&result=42)ction
-    
-    [Ancient Greece: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199601349.001.0001/actrade-9780199601349?rskey=0xxw4L&result=43)ction
-    
-    [The Ancient Near East: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195377996.001.0001/actrade-9780195377996?rskey=0xxw4L&result=44)ction
-    
-    [Ancient Philosophy: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853578.001.0001/actrade-9780192853578?rskey=0xxw4L&result=45)ction
-    
-    [Ancient Warfare: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192804709.001.0001/actrade-9780192804709?rskey=0xxw4L&result=46)ction
-    
-    [Angels: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199547302.001.0001/actrade-9780199547302?rskey=0xxw4L&result=47)ction
-    
-    [Anglicanism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192806932.001.0001/actrade-9780192806932?rskey=0xxw4L&result=48)ction
-    
-    [The Anglo-Saxon Age: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854032.001.0001/actrade-9780192854032?rskey=0xxw4L&result=49)ction
-    
-    [Animal Behaviour: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198712152.001.0001/actrade-9780198712152?rskey=0xxw4L&result=50)ction
-    
-    [The Animal Kingdom: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199593217.001.0001/actrade-9780199593217?rskey=bwHCrp&result=51)ction
-    
-    [Animal Rights: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853608.001.0001/actrade-9780192853608?rskey=bwHCrp&result=52)ction
-    
-    [The Antarctic: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199697687.001.0001/actrade-9780199697687?rskey=bwHCrp&result=53)ction
-    
-    [Anthropocene: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198792987.001.0001/actrade-9780198792987?rskey=bwHCrp&result=54)ction
-    
-    [Antisemitism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198724834.001.0001/actrade-9780198724834?rskey=bwHCrp&result=55)
-    
-    [Anxiety: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199567157.001.0001/actrade-9780199567157?rskey=bwHCrp&result=56)ction
-    
-    [The Apocryphal Gospels: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199236947.001.0001/actrade-9780199236947?rskey=bwHCrp&result=57)ction
-    
-    [Applied Mathematics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198754046.001.0001/actrade-9780198754046?rskey=bwHCrp&result=58)ction
-    
-    [Thomas Aquinas: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199556649.001.0001/actrade-9780199556649?rskey=bwHCrp&result=59)ction
-    
-    [Arbitration: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198738749.001.0001/actrade-9780198738749?rskey=bwHCrp&result=60)ction
-    
-    [Archaeology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199657438.001.0001/actrade-9780199657438?rskey=bwHCrp&result=61)
-    
-    [Architecture: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801791.001.0001/actrade-9780192801791?rskey=bwHCrp&result=62)ction
-    
-    [Aristocracy: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199206780.001.0001/actrade-9780199206780?rskey=bwHCrp&result=63)ction
-    
-    [Aristotle: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854087.001.0001/actrade-9780192854087?rskey=bwHCrp&result=64)ction
-    
-    [Art History: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198831808.001.0001/actrade-9780198831808?rskey=bwHCrp&result=65)
-    
-    [Art Theory: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192804631.001.0001/actrade-9780192804631?rskey=bwHCrp&result=66)ction
-    
-    [Artificial Intelligence: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199602919.001.0001/actrade-9780199602919?rskey=bwHCrp&result=67)ction
-    
-    [Asian American History: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190219765.001.0001/actrade-9780190219765?rskey=bwHCrp&result=68)ction
-    
-    [Astrobiology: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199586455.001.0001/actrade-9780199586455?rskey=bwHCrp&result=69)ction
-    
-    [Astrophysics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198752851.001.0001/actrade-9780198752851?rskey=bwHCrp&result=70)ction
-    
-    [Atheism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198856795.001.0001/actrade-9780198856795?rskey=bwHCrp&result=71)
-    
-    [The Atmosphere: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198722038.001.0001/actrade-9780198722038?rskey=bwHCrp&result=72)ction
-    
-    [Augustine: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854520.001.0001/actrade-9780192854520?rskey=bwHCrp&result=73)ction
-    
-    [Australia: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199589937.001.0001/actrade-9780199589937?rskey=bwHCrp&result=74)ction
-    
-    [Autism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199207565.001.0001/actrade-9780199207565?rskey=bwHCrp&result=75)ction
-    
-    [Autobiography: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199669240.001.0001/actrade-9780199669240?rskey=bwHCrp&result=76)ction
-    
-    [The Avant Garde: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199582730.001.0001/actrade-9780199582730?rskey=bwHCrp&result=77)ction
-    
-    [The Aztecs: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195379389.001.0001/actrade-9780195379389?rskey=bwHCrp&result=78)ction
-    
-    [Babylonia: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198726470.001.0001/actrade-9780198726470?rskey=bwHCrp&result=79)ction
-    
-    [Bacteria: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199578764.001.0001/actrade-9780199578764?rskey=bwHCrp&result=80)ction
-    
-    [Banking: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199688920.001.0001/actrade-9780199688920?rskey=bwHCrp&result=81)ction
-    
-    [Barthes: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801593.001.0001/actrade-9780192801593?rskey=bwHCrp&result=82)ction
-    
-    [The Beats: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199796779.001.0001/actrade-9780199796779?rskey=bwHCrp&result=83)ction
-    
-    [Beauty: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199229758.001.0001/actrade-9780199229758?rskey=bwHCrp&result=84)ction
-    
-    [Behavioural Economics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198754992.001.0001/actrade-9780198754992?rskey=bwHCrp&result=85)ction
-    
-    [Bestsellers: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199214891.001.0001/actrade-9780199214891?rskey=bwHCrp&result=86)ction
-    
-    [The Bible: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198863335.001.0001/actrade-9780198863335?rskey=bwHCrp&result=87)
-    
-    [Biblical Archaeology: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195342635.001.0001/actrade-9780195342635?rskey=bwHCrp&result=88)ction
-    
-    [Big Data: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198779575.001.0001/actrade-9780198779575?rskey=bwHCrp&result=89)ction
-    
-    [Biochemistry: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198833871.001.0001/actrade-9780198833871?rskey=bwHCrp&result=90)ction
-    
-    [Biogeography: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198850069.001.0001/actrade-9780198850069?rskey=bwHCrp&result=91)ction
-    
-    [Biography: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199533541.001.0001/actrade-9780199533541?rskey=bwHCrp&result=92)ction
-    
-    [Biometrics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198809104.001.0001/actrade-9780198809104?rskey=bwHCrp&result=93)ction
-    
-    [Black Holes: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199602667.001.0001/actrade-9780199602667?rskey=bwHCrp&result=94)ction
-    
-    [Blasphemy: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198797579.001.0001/actrade-9780198797579?rskey=bwHCrp&result=95)ction
-    
-    [Blood: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199581450.001.0001/actrade-9780199581450?rskey=bwHCrp&result=96)ction
-    
-    [The Blues: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195398939.001.0001/actrade-9780195398939?rskey=bwHCrp&result=97)ction
-    
-    [The Body: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198739036.001.0001/actrade-9780198739036?rskey=bwHCrp&result=98)ction
-    
-    [Niels Bohr: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198819264.001.0001/actrade-9780198819264?rskey=bwHCrp&result=99)ction
-    
-    [The Book of Common Prayer: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198803928.001.0001/actrade-9780198803928?rskey=bwHCrp&result=100)ction
-    
-    [The Book of Mormon: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195369311.001.0001/actrade-9780195369311?rskey=dk5nrK&result=101)ction
-    
-    [Borders: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199731503.001.0001/actrade-9780199731503?rskey=dk5nrK&result=102)ction
-    
-    [The Brain: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853929.001.0001/actrade-9780192853929?rskey=dk5nrK&result=103)ction
-    
-    [Branding: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198749912.001.0001/actrade-9780198749912?rskey=dk5nrK&result=104)ction
-    
-    [The BRICS: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198723394.001.0001/actrade-9780198723394?rskey=dk5nrK&result=105)ction
-    
-    [The British Constitution: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199697694.001.0001/actrade-9780199697694?rskey=dk5nrK&result=106)ction
-    
-    [The British Empire: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199605415.001.0001/actrade-9780199605415?rskey=dk5nrK&result=107)ction
-    
-    [British Politics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198827320.001.0001/actrade-9780198827320?rskey=dk5nrK&result=108)
-    
-    [Buddha: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854537.001.0001/actrade-9780192854537?rskey=dk5nrK&result=109)ction
-    
-    [Buddhism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199663835.001.0001/actrade-9780199663835?rskey=dk5nrK&result=110)
-    
-    [Buddhist Ethics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198850052.001.0001/actrade-9780198850052?rskey=dk5nrK&result=111)
-    
-    [Byzantium: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199236114.001.0001/actrade-9780199236114?rskey=dk5nrK&result=112)ction
-    
-    [C. S. Lewis: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198828242.001.0001/actrade-9780198828242?rskey=dk5nrK&result=113)ction
-    
-    [Calvinism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198753711.001.0001/actrade-9780198753711?rskey=dk5nrK&result=114)ction
-    
-    [Canada: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198755241.001.0001/actrade-9780198755241?rskey=dk5nrK&result=115)ction
-    
-    [Cancer: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199560233.001.0001/actrade-9780199560233?rskey=dk5nrK&result=116)ction
-    
-    [Capitalism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198726074.001.0001/actrade-9780198726074?rskey=dk5nrK&result=117)
-    
-    [Global Catastrophes: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198715931.001.0001/actrade-9780198715931?rskey=dk5nrK&result=118)
-    
-    [Catholicism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198796855.001.0001/actrade-9780198796855?rskey=dk5nrK&result=119)
-    
-    [Causation: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199684434.001.0001/actrade-9780199684434?rskey=dk5nrK&result=120)ction
-    
-    [The Cell: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199578757.001.0001/actrade-9780199578757?rskey=dk5nrK&result=121)ction
-    
-    [The Celts: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192804181.001.0001/actrade-9780192804181?rskey=dk5nrK&result=122)ction
-    
-    [Chaos: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853783.001.0001/actrade-9780192853783?rskey=dk5nrK&result=123)ction
-    
-    [Charles Dickens: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198714996.001.0001/actrade-9780198714996?rskey=dk5nrK&result=124)ction
-    
-    [Child Psychology: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199646593.001.0001/actrade-9780199646593?rskey=dk5nrK&result=125)ction
-    
-    [Children's Literature: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199560240.001.0001/actrade-9780199560240?rskey=dk5nrK&result=126)ction
-    
-    [Chinese Literature: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195392067.001.0001/actrade-9780195392067?rskey=dk5nrK&result=127)ction
-    
-    [Choice Theory: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803030.001.0001/actrade-9780192803030?rskey=dk5nrK&result=128)ction
-    
-    [Christian Art: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803283.001.0001/actrade-9780192803283?rskey=dk5nrK&result=129)ction
-    
-    [Christian Ethics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199568864.001.0001/actrade-9780199568864?rskey=dk5nrK&result=130)ction
-    
-    [Christianity: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199687749.001.0001/actrade-9780199687749?rskey=dk5nrK&result=131)
-    
-    [Circadian Rhythms: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198717683.001.0001/actrade-9780198717683?rskey=dk5nrK&result=132)ction
-    
-    [Citizenship: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802538.001.0001/actrade-9780192802538?rskey=dk5nrK&result=133)ction
-    
-    [City Planning: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190944346.001.0001/actrade-9780190944346?rskey=dk5nrK&result=134)ction
-    
-    [Civil Engineering: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199578634.001.0001/actrade-9780199578634?rskey=dk5nrK&result=135)ction
-    
-    [Classical Literature: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199665457.001.0001/actrade-9780199665457?rskey=dk5nrK&result=136)ction
-    
-    [Classical Mythology: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192804761.001.0001/actrade-9780192804761?rskey=dk5nrK&result=137)ction
-    
-    [Classics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853851.001.0001/actrade-9780192853851?rskey=dk5nrK&result=138)ction
-    
-    [Clausewitz: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802576.001.0001/actrade-9780192802576?rskey=dk5nrK&result=139)ction
-    
-    [Climate: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199641130.001.0001/actrade-9780199641130?rskey=dk5nrK&result=140)ction
-    
-    [Climate Change: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198867869.001.0001/actrade-9780198867869?rskey=dk5nrK&result=141)
-    
-    [Clinical Psychology: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198753896.001.0001/actrade-9780198753896?rskey=dk5nrK&result=142)ction
-    
-    [Cognitive Neuroscience: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198786221.001.0001/actrade-9780198786221?rskey=dk5nrK&result=143)ction
-    
-    [The Cold War: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198859543.001.0001/actrade-9780198859543?rskey=dk5nrK&result=144)
-    
-    [Colonial America: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199766239.001.0001/actrade-9780199766239?rskey=dk5nrK&result=145)ction
-    
-    [Colonial Latin American Literature: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199755028.001.0001/actrade-9780199755028?rskey=dk5nrK&result=146)ction
-    
-    [Combinatorics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198723493.001.0001/actrade-9780198723493?rskey=dk5nrK&result=147)ction
-    
-    [Comedy: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199601714.001.0001/actrade-9780199601714?rskey=dk5nrK&result=148)ction
-    
-    [Communism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199551545.001.0001/actrade-9780199551545?rskey=dk5nrK&result=149)ction
-    
-    [Comparative Literature: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198807278.001.0001/actrade-9780198807278?rskey=dk5nrK&result=150)ction
-    
-    [Competition and Antitrust Law: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198860303.001.0001/actrade-9780198860303?rskey=jYzYeG&result=151)ction
-    
-    [Complexity: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199662548.001.0001/actrade-9780199662548?rskey=jYzYeG&result=152)ction
-    
-    [The Computer: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199586592.001.0001/actrade-9780199586592?rskey=jYzYeG&result=153)ction
-    
-    [Computer Science: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198733461.001.0001/actrade-9780198733461?rskey=jYzYeG&result=154)ction
-    
-    [Concentration Camps: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198723387.001.0001/actrade-9780198723387?rskey=jYzYeG&result=155)ction
-    
-    [Confucianism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195398915.001.0001/actrade-9780195398915?rskey=jYzYeG&result=156)ction
-    
-    [The Conquistadors: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195392296.001.0001/actrade-9780195392296?rskey=jYzYeG&result=157)ction
-    
-    [Conscience: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199569694.001.0001/actrade-9780199569694?rskey=jYzYeG&result=158)ction
-    
-    [Consciousness: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198794738.001.0001/actrade-9780198794738?rskey=jYzYeG&result=159)
-    
-    [Contemporary Art: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198826620.001.0001/actrade-9780198826620?rskey=jYzYeG&result=160)
-    
-    [Contemporary Fiction: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199609260.001.0001/actrade-9780199609260?rskey=jYzYeG&result=161)ction
-    
-    [Continental Philosophy: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853592.001.0001/actrade-9780192853592?rskey=jYzYeG&result=162)ction
-    
-    [Copernicus: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199330966.001.0001/actrade-9780199330966?rskey=jYzYeG&result=163)ction
-    
-    [Coral Reefs: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198869825.001.0001/actrade-9780198869825?rskey=jYzYeG&result=164)
-    
-    [Corporate Social Responsibility: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199671816.001.0001/actrade-9780199671816?rskey=jYzYeG&result=165)ction
-    
-    [Corruption: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199689699.001.0001/actrade-9780199689699?rskey=jYzYeG&result=166)ction
-    
-    [Cosmology: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854162.001.0001/actrade-9780192854162?rskey=jYzYeG&result=167)ction
-    
-    [Country Music: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190902841.001.0001/actrade-9780190902841?rskey=jYzYeG&result=168)ction
-    
-    [Creativity: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198842996.001.0001/actrade-9780198842996?rskey=jYzYeG&result=169)ction
-    
-    [Crime Fiction: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199658787.001.0001/actrade-9780199658787?rskey=jYzYeG&result=170)ction
-    
-    [Criminal Justice: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198716495.001.0001/actrade-9780198716495?rskey=jYzYeG&result=171)ction
-    
-    [Criminology: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199643257.001.0001/actrade-9780199643257?rskey=jYzYeG&result=172)ction
-    
-    [Critical Theory: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190692674.001.0001/actrade-9780190692674?rskey=jYzYeG&result=173)
-    
-    [The Crusades: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192806550.001.0001/actrade-9780192806550?rskey=jYzYeG&result=174)ction
-    
-    [Cryptography: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803153.001.0001/actrade-9780192803153?rskey=jYzYeG&result=175)ction
-    
-    [Crystallography: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198717591.001.0001/actrade-9780198717591?rskey=jYzYeG&result=176)ction
-    
-    [The Cultural Revolution: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199740550.001.0001/actrade-9780199740550?rskey=jYzYeG&result=177)ction
-    
-    [Dada and Surrealism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802545.001.0001/actrade-9780192802545?rskey=jYzYeG&result=178)ction
-    
-    [Dante: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199684779.001.0001/actrade-9780199684779?rskey=jYzYeG&result=179)ction
-    
-    [Darwin: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854544.001.0001/actrade-9780192854544?rskey=jYzYeG&result=180)ction
-    
-    [The Dead Sea Scrolls: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198779520.001.0001/actrade-9780198779520?rskey=jYzYeG&result=181)
-    
-    [Decadence: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190610227.001.0001/actrade-9780190610227?rskey=jYzYeG&result=182)ction
-    
-    [Decolonization: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199340491.001.0001/actrade-9780199340491?rskey=jYzYeG&result=183)ction
-    
-    [Dementia: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198825784.001.0001/actrade-9780198825784?rskey=jYzYeG&result=184)ction
-    
-    [Democracy: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802507.001.0001/actrade-9780192802507?rskey=jYzYeG&result=185)ction
-    
-    [Demography: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198725732.001.0001/actrade-9780198725732?rskey=jYzYeG&result=186)ction
-    
-    [Depression: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199558650.001.0001/actrade-9780199558650?rskey=jYzYeG&result=187)ction
-    
-    [Derrida: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803450.001.0001/actrade-9780192803450?rskey=jYzYeG&result=188)ction
-    
-    [Descartes: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854094.001.0001/actrade-9780192854094?rskey=jYzYeG&result=189)ction
-    
-    [Deserts: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199564309.001.0001/actrade-9780199564309?rskey=jYzYeG&result=190)ction
-    
-    [Design: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854469.001.0001/actrade-9780192854469?rskey=jYzYeG&result=191)ction
-    
-    [Development: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198736257.001.0001/actrade-9780198736257?rskey=jYzYeG&result=192)ction
-    
-    [Developmental Biology: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199601196.001.0001/actrade-9780199601196?rskey=jYzYeG&result=193)ction
-    
-    [The Devil: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199580996.001.0001/actrade-9780199580996?rskey=jYzYeG&result=194)ction
-    
-    [Diaspora: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199858583.001.0001/actrade-9780199858583?rskey=jYzYeG&result=195)ction
-    
-    [Dictionaries: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199573790.001.0001/actrade-9780199573790?rskey=jYzYeG&result=196)ction
-    
-    [Dinosaurs: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198795926.001.0001/actrade-9780198795926?rskey=jYzYeG&result=197)
-    
-    [Diplomatic History: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192893918.001.0001/actrade-9780192893918?rskey=jYzYeG&result=198)
-    
-    [Documentary Film: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195182705.001.0001/actrade-9780195182705?rskey=jYzYeG&result=199)ction
-    
-    [Dreaming: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802156.001.0001/actrade-9780192802156?rskey=jYzYeG&result=200)ction
-    
-    [Drugs: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198745792.001.0001/actrade-9780198745792?rskey=aDzCid&result=201)
-    
-    [Druids: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199539406.001.0001/actrade-9780199539406?rskey=aDzCid&result=202)ction
-    
-    [Dynasty: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198809081.001.0001/actrade-9780198809081?rskey=aDzCid&result=203)ction
-    
-    [Dyslexia: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198818304.001.0001/actrade-9780198818304?rskey=aDzCid&result=204)ction
-    
-    [Early Music: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199730766.001.0001/actrade-9780199730766?rskey=aDzCid&result=205)ction
-    
-    [The Earth: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803078.001.0001/actrade-9780192803078?rskey=aDzCid&result=206)ction
-    
-    [Earth System Science: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198718871.001.0001/actrade-9780198718871?rskey=aDzCid&result=207)ction
-    
-    [Ecology: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198831013.001.0001/actrade-9780198831013?rskey=aDzCid&result=208)ction
-    
-    [Economics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853455.001.0001/actrade-9780192853455?rskey=aDzCid&result=209)ction
-    
-    [Education: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198859086.001.0001/actrade-9780198859086?rskey=aDzCid&result=210)
-    
-    [Egyptian Myth: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803467.001.0001/actrade-9780192803467?rskey=aDzCid&result=211)ction
-    
-    [Eighteenth-Century Britain: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853998.001.0001/actrade-9780192853998?rskey=aDzCid&result=212)ction
-    
-    [The Elements: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192840998.001.0001/actrade-9780192840998?rskey=aDzCid&result=213)ction
-    
-    [Émile Zola: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198837565.001.0001/actrade-9780198837565?rskey=aDzCid&result=214)ction
-    
-    [Emotion: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198834403.001.0001/actrade-9780198834403?rskey=aDzCid&result=215)
-    
-    [Empire: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802231.001.0001/actrade-9780192802231?rskey=aDzCid&result=216)ction
-    
-    [Energy Systems: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198813927.001.0001/actrade-9780198813927?rskey=aDzCid&result=217)ction
-    
-    [Engels: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192804662.001.0001/actrade-9780192804662?rskey=aDzCid&result=218)ction
-    
-    [Engineering: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199578696.001.0001/actrade-9780199578696?rskey=aDzCid&result=219)ction
-    
-    [The English Language: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198709251.001.0001/actrade-9780198709251?rskey=aDzCid&result=220)ction
-    
-    [English Literature: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199569267.001.0001/actrade-9780199569267?rskey=aDzCid&result=221)ction
-    
-    [The Enlightenment: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199591787.001.0001/actrade-9780199591787?rskey=aDzCid&result=222)ction
-    
-    [Entrepreneurship: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199670543.001.0001/actrade-9780199670543?rskey=aDzCid&result=223)ction
-    
-    [Environmental Economics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199583584.001.0001/actrade-9780199583584?rskey=aDzCid&result=224)ction
-    
-    [Environmental Ethics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198797166.001.0001/actrade-9780198797166?rskey=aDzCid&result=225)ction
-    
-    [Environmental Law: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198794189.001.0001/actrade-9780198794189?rskey=aDzCid&result=226)ction
-    
-    [Environmental Politics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199665570.001.0001/actrade-9780199665570?rskey=aDzCid&result=227)ction
-    
-    [Enzymes: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198824985.001.0001/actrade-9780198824985?rskey=aDzCid&result=228)ction
-    
-    [Epicureanism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199688326.001.0001/actrade-9780199688326?rskey=aDzCid&result=229)ction
-    
-    [Epidemiology: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199543335.001.0001/actrade-9780199543335?rskey=aDzCid&result=230)ction
-    
-    [Ethics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198868101.001.0001/actrade-9780198868101?rskey=aDzCid&result=231)
-    
-    [Ethnomusicology: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199794379.001.0001/actrade-9780199794379?rskey=aDzCid&result=232)ction
-    
-    [The Etruscans: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199547913.001.0001/actrade-9780199547913?rskey=aDzCid&result=233)ction
-    
-    [Eugenics: A Very Short introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199385904.001.0001/actrade-9780199385904?rskey=aDzCid&result=234)ction
-    
-    [The European Union: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198808855.001.0001/actrade-9780198808855?rskey=aDzCid&result=235)
-    
-    [European Union Law: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198749981.001.0001/actrade-9780198749981?rskey=aDzCid&result=236)ction
-    
-    [Evolution: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198804369.001.0001/actrade-9780198804369?rskey=aDzCid&result=237)ction
-    
-    [Existentialism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192804280.001.0001/actrade-9780192804280?rskey=aDzCid&result=238)ction
-    
-    [Exploration: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199946952.001.0001/actrade-9780199946952?rskey=aDzCid&result=239)ction
-    
-    [Extinction: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198807285.001.0001/actrade-9780198807285?rskey=aDzCid&result=240)ction
-    
-    [The Eye: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199680306.001.0001/actrade-9780199680306?rskey=aDzCid&result=241)ction
-    
-    [Fairy Tale: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199532155.001.0001/actrade-9780199532155?rskey=aDzCid&result=242)ction
-    
-    [Family Law: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199668526.001.0001/actrade-9780199668526?rskey=aDzCid&result=243)ction
-    
-    [Fascism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199685363.001.0001/actrade-9780199685363?rskey=aDzCid&result=244)
-    
-    [Fashion: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199547906.001.0001/actrade-9780199547906?rskey=aDzCid&result=245)ction
-    
-    [Federalism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190900052.001.0001/actrade-9780190900052?rskey=aDzCid&result=246)ction
-    
-    [Feminism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192805102.001.0001/actrade-9780192805102?rskey=aDzCid&result=247)ction
-    
-    [Film: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803535.001.0001/actrade-9780192803535?rskey=aDzCid&result=248)ction
-    
-    [Film Music: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195370874.001.0001/actrade-9780195370874?rskey=aDzCid&result=249)ction
-    
-    [Film Noir: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198791744.001.0001/actrade-9780198791744?rskey=aDzCid&result=250)ction
-    
-    [Fire: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198830030.001.0001/actrade-9780198830030?rskey=EpM3f0&result=251)ction
-    
-    [The First World War: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199205592.001.0001/actrade-9780199205592?rskey=EpM3f0&result=252)ction
-    
-    [Folk Music: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195395020.001.0001/actrade-9780195395020?rskey=EpM3f0&result=253)ction
-    
-    [Food: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199661084.001.0001/actrade-9780199661084?rskey=EpM3f0&result=254)ction
-    
-    [Forensic Psychology: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199550203.001.0001/actrade-9780199550203?rskey=EpM3f0&result=255)ction
-    
-    [Forensic Science: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198834410.001.0001/actrade-9780198834410?rskey=EpM3f0&result=256)
-    
-    [Forests: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198706175.001.0001/actrade-9780198706175?rskey=EpM3f0&result=257)ction
-    
-    [Fossils: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192805041.001.0001/actrade-9780192805041?rskey=EpM3f0&result=258)ction
-    
-    [Foucault: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198830788.001.0001/actrade-9780198830788?rskey=EpM3f0&result=259)
-    
-    [The Founding Fathers: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190273514.001.0001/actrade-9780190273514?rskey=EpM3f0&result=260)ction
-    
-    [Fractals: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199675982.001.0001/actrade-9780199675982?rskey=EpM3f0&result=261)ction
-    
-    [Free Speech: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199232352.001.0001/actrade-9780199232352?rskey=EpM3f0&result=262)ction
-    
-    [Free Will: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853585.001.0001/actrade-9780192853585?rskey=EpM3f0&result=263)ction
-    
-    [Freemasonry: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198796275.001.0001/actrade-9780198796275?rskey=EpM3f0&result=264)ction
-    
-    [French Literature: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199568727.001.0001/actrade-9780199568727?rskey=EpM3f0&result=265)ction
-    
-    [French Philosophy: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198829171.001.0001/actrade-9780198829171?rskey=EpM3f0&result=266)ction
-    
-    [The French Revolution: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198840077.001.0001/actrade-9780198840077?rskey=EpM3f0&result=267)
-    
-    [Freud: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854551.001.0001/actrade-9780192854551?rskey=EpM3f0&result=268)ction
-    
-    [Fundamentalism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199212705.001.0001/actrade-9780199212705?rskey=EpM3f0&result=269)ction
-    
-    [Fungi: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199688784.001.0001/actrade-9780199688784?rskey=EpM3f0&result=270)ction
-    
-    [The Future: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198735281.001.0001/actrade-9780198735281?rskey=EpM3f0&result=271)ction
-    
-    [Galaxies: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199234349.001.0001/actrade-9780199234349?rskey=EpM3f0&result=272)ction
-    
-    [Galileo: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854568.001.0001/actrade-9780192854568?rskey=EpM3f0&result=273)ction
-    
-    [Game Theory: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199218462.001.0001/actrade-9780199218462?rskey=EpM3f0&result=274)ction
-    
-    [Gandhi: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854575.001.0001/actrade-9780192854575?rskey=EpM3f0&result=275)ction
-    
-    [Garden History: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199689873.001.0001/actrade-9780199689873?rskey=EpM3f0&result=276)ction
-    
-    [Genes: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199676507.001.0001/actrade-9780199676507?rskey=EpM3f0&result=277)ction
-    
-    [Genius: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199594405.001.0001/actrade-9780199594405?rskey=EpM3f0&result=278)ction
-    
-    [Genomics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198786207.001.0001/actrade-9780198786207?rskey=EpM3f0&result=279)ction
-    
-    [Geoffrey Chaucer: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198767718.001.0001/actrade-9780198767718?rskey=EpM3f0&result=280)ction
-    
-    [Geography: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199211289.001.0001/actrade-9780199211289?rskey=EpM3f0&result=281)ction
-    
-    [Geology: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198804451.001.0001/actrade-9780198804451?rskey=EpM3f0&result=282)ction
-    
-    [Geophysics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198792956.001.0001/actrade-9780198792956?rskey=EpM3f0&result=283)ction
-    
-    [Geopolitics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198830764.001.0001/actrade-9780198830764?rskey=EpM3f0&result=284)
-    
-    [George Bernard Shaw: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198850090.001.0001/actrade-9780198850090?rskey=EpM3f0&result=285)ction
-    
-    [German Literature: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199206599.001.0001/actrade-9780199206599?rskey=EpM3f0&result=286)ction
-    
-    [German Philosophy: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199569250.001.0001/actrade-9780199569250?rskey=EpM3f0&result=287)ction
-    
-    [The Ghetto: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198809951.001.0001/actrade-9780198809951?rskey=EpM3f0&result=288)ction
-    
-    [Glaciation: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198745853.001.0001/actrade-9780198745853?rskey=EpM3f0&result=289)ction
-    
-    [Global Economic History: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199596652.001.0001/actrade-9780199596652?rskey=EpM3f0&result=290)ction
-    
-    [Global Islam: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190917234.001.0001/actrade-9780190917234?rskey=EpM3f0&result=291)ction
-    
-    [Globalization: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198849452.001.0001/actrade-9780198849452?rskey=EpM3f0&result=292)
-    
-    [God: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198708957.001.0001/actrade-9780198708957?rskey=EpM3f0&result=293)ction
-    
-    [Goethe: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199689255.001.0001/actrade-9780199689255?rskey=EpM3f0&result=294)ction
-    
-    [The Gothic: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199586790.001.0001/actrade-9780199586790?rskey=EpM3f0&result=295)ction
-    
-    [Governance: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199606412.001.0001/actrade-9780199606412?rskey=EpM3f0&result=296)ction
-    
-    [Gravity: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198729143.001.0001/actrade-9780198729143?rskey=EpM3f0&result=297)ction
-    
-    [The Great Depression and New Deal: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195326345.001.0001/actrade-9780195326345?rskey=EpM3f0&result=298)ction
-    
-    [Habeas Corpus: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190918989.001.0001/actrade-9780190918989?rskey=EpM3f0&result=299)ction
-    
-    [Habermas: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192840950.001.0001/actrade-9780192840950?rskey=EpM3f0&result=300)ction
-    
-    [The Habsburg Empire: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198792963.001.0001/actrade-9780198792963?rskey=vsdzAu&result=301)ction
-    
-    [Happiness: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199590605.001.0001/actrade-9780199590605?rskey=vsdzAu&result=302)ction
-    
-    [The Harlem Renaissance: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199335558.001.0001/actrade-9780199335558?rskey=vsdzAu&result=303)ction
-    
-    [The Hebrew Bible as Literature: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195300079.001.0001/actrade-9780195300079?rskey=vsdzAu&result=304)ction
-    
-    [Hegel: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801975.001.0001/actrade-9780192801975?rskey=vsdzAu&result=305)ction
-    
-    [Heidegger: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198828662.001.0001/actrade-9780198828662?rskey=vsdzAu&result=306)
-    
-    [The Hellenistic Age: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198746041.001.0001/actrade-9780198746041?rskey=vsdzAu&result=307)ction
-    
-    [Henry James: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190944384.001.0001/actrade-9780190944384?rskey=vsdzAu&result=308)ction
-    
-    [Heredity: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198790457.001.0001/actrade-9780198790457?rskey=vsdzAu&result=309)ction
-    
-    [Hermeneutics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199685356.001.0001/actrade-9780199685356?rskey=vsdzAu&result=310)ction
-    
-    [Herodotus: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199575992.001.0001/actrade-9780199575992?rskey=vsdzAu&result=311)ction
-    
-    [Hieroglyphs: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192805027.001.0001/actrade-9780192805027?rskey=vsdzAu&result=312)ction
-    
-    [Hinduism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198745549.001.0001/actrade-9780198745549?rskey=vsdzAu&result=313)
-    
-    [History: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853523.001.0001/actrade-9780192853523?rskey=vsdzAu&result=314)ction
-    
-    [The History of Astronomy: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803061.001.0001/actrade-9780192803061?rskey=vsdzAu&result=315)ction
-    
-    [The History of Chemistry: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198716488.001.0001/actrade-9780198716488?rskey=vsdzAu&result=316)ction
-    
-    [The History of Childhood: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190681388.001.0001/actrade-9780190681388?rskey=vsdzAu&result=317)ction
-    
-    [The History of Cinema: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198701774.001.0001/actrade-9780198701774?rskey=vsdzAu&result=318)ction
-    
-    [The History of Life: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199226320.001.0001/actrade-9780199226320?rskey=vsdzAu&result=319)ction
-    
-    [The History of Mathematics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199599684.001.0001/actrade-9780199599684?rskey=vsdzAu&result=320)ction
-    
-    [The History of Medicine: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199215430.001.0001/actrade-9780199215430?rskey=vsdzAu&result=321)ction
-    
-    [The History of Physics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199684120.001.0001/actrade-9780199684120?rskey=vsdzAu&result=322)ction
-    
-    [The History of Time: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192804990.001.0001/actrade-9780192804990?rskey=vsdzAu&result=323)ction
-    
-    [HIV & AIDS: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198727491.001.0001/actrade-9780198727491?rskey=vsdzAu&result=324)
-    
-    [Hobbes: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802552.001.0001/actrade-9780192802552?rskey=vsdzAu&result=325)ction
-    
-    [Hollywood: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199943548.001.0001/actrade-9780199943548?rskey=vsdzAu&result=326)ction
-    
-    [The Holy Roman Empire: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198748762.001.0001/actrade-9780198748762?rskey=vsdzAu&result=327)ction
-    
-    [Home: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198747239.001.0001/actrade-9780198747239?rskey=vsdzAu&result=328)ction
-    
-    [Homer: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199589944.001.0001/actrade-9780199589944?rskey=vsdzAu&result=329)ction
-    
-    [Hormones: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199672875.001.0001/actrade-9780199672875?rskey=vsdzAu&result=330)ction
-    
-    [Horror: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198755562.001.0001/actrade-9780198755562?rskey=vsdzAu&result=331)ction
-    
-    [Human Evolution: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198831747.001.0001/actrade-9780198831747?rskey=vsdzAu&result=332)
-    
-    [Human Physiology: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198869887.001.0001/actrade-9780198869887?rskey=vsdzAu&result=333)ction
-    
-    [Human Rights: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198706168.001.0001/actrade-9780198706168?rskey=vsdzAu&result=334)
-    
-    [Humanism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199553648.001.0001/actrade-9780199553648?rskey=vsdzAu&result=335)ction
-    
-    [Hume: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854063.001.0001/actrade-9780192854063?rskey=vsdzAu&result=336)ction
-    
-    [Hume: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198849780.001.0001/actrade-9780198849780?rskey=vsdzAu&result=337)ction
-    
-    [Humour: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199552221.001.0001/actrade-9780199552221?rskey=vsdzAu&result=338)ction
-    
-    [The Ice Age: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199580699.001.0001/actrade-9780199580699?rskey=vsdzAu&result=339)ction
-    
-    [Identity: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198828549.001.0001/actrade-9780198828549?rskey=vsdzAu&result=340)ction
-    
-    [Ideology: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802811.001.0001/actrade-9780192802811?rskey=vsdzAu&result=341)ction
-    
-    [The Immune System: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198753902.001.0001/actrade-9780198753902?rskey=vsdzAu&result=342)ction
-    
-    [Indian Cinema: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198723097.001.0001/actrade-9780198723097?rskey=vsdzAu&result=343)ction
-    
-    [Indian Philosophy: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853745.001.0001/actrade-9780192853745?rskey=vsdzAu&result=344)ction
-    
-    [The Industrial Revolution: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198706786.001.0001/actrade-9780198706786?rskey=vsdzAu&result=345)ction
-    
-    [Infectious Disease: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199688937.001.0001/actrade-9780199688937?rskey=vsdzAu&result=346)ction
-    
-    [Infinity: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198755234.001.0001/actrade-9780198755234?rskey=vsdzAu&result=347)ction
-    
-    [Information: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199551378.001.0001/actrade-9780199551378?rskey=vsdzAu&result=348)ction
-    
-    [Innovation: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198825043.001.0001/actrade-9780198825043?rskey=vsdzAu&result=349)
-    
-    [Intellectual Property: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195372779.001.0001/actrade-9780195372779?rskey=vsdzAu&result=350)ction
-    
-    [Intelligence: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198796206.001.0001/actrade-9780198796206?rskey=qHxsN4&result=351)
-    
-    [International Law: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199239337.001.0001/actrade-9780199239337?rskey=qHxsN4&result=352)ction
-    
-    [International Migration: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198753773.001.0001/actrade-9780198753773?rskey=qHxsN4&result=353)
-    
-    [International Relations: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198850212.001.0001/actrade-9780198850212?rskey=qHxsN4&result=354)ction
-    
-    [International Relations: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801579.001.0001/actrade-9780192801579?rskey=qHxsN4&result=355)ction
-    
-    [International Security: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199668533.001.0001/actrade-9780199668533?rskey=qHxsN4&result=356)ction
-    
-    [Iran: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199669349.001.0001/actrade-9780199669349?rskey=qHxsN4&result=357)ction
-    
-    [Islam: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199642878.001.0001/actrade-9780199642878?rskey=qHxsN4&result=358)
-    
-    [Islamic History: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199545728.001.0001/actrade-9780199545728?rskey=qHxsN4&result=359)ction
-    
-    [Islamic Law: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199665594.001.0001/actrade-9780199665594?rskey=qHxsN4&result=360)ction
-    
-    [Isotopes: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198723622.001.0001/actrade-9780198723622?rskey=qHxsN4&result=361)ction
-    
-    [Italian Literature: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199231799.001.0001/actrade-9780199231799?rskey=qHxsN4&result=362)ction
-    
-    [James Joyce: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192894472.001.0001/actrade-9780192894472?rskey=qHxsN4&result=363)ction
-    
-    [Jesus: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199575275.001.0001/actrade-9780199575275?rskey=qHxsN4&result=364)ction
-    
-    [Jewish History: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199730988.001.0001/actrade-9780199730988?rskey=qHxsN4&result=365)ction
-    
-    [Jewish Literature: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190076979.001.0001/actrade-9780190076979?rskey=qHxsN4&result=366)ction
-    
-    [Journalism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199686872.001.0001/actrade-9780199686872?rskey=qHxsN4&result=367)
-    
-    [Judaism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199687350.001.0001/actrade-9780199687350?rskey=qHxsN4&result=368)
-    
-    [Kabbalah: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195327052.001.0001/actrade-9780195327052?rskey=qHxsN4&result=369)ction
-    
-    [Kafka: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192804556.001.0001/actrade-9780192804556?rskey=qHxsN4&result=370)ction
-    
-    [Kant: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801999.001.0001/actrade-9780192801999?rskey=qHxsN4&result=371)ction
-    
-    [Keynes: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199591640.001.0001/actrade-9780199591640?rskey=qHxsN4&result=372)ction
-    
-    [Kierkegaard: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802569.001.0001/actrade-9780192802569?rskey=qHxsN4&result=373)ction
-    
-    [Knowledge: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199661268.001.0001/actrade-9780199661268?rskey=qHxsN4&result=374)ction
-    
-    [The Koran: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853448.001.0001/actrade-9780192853448?rskey=qHxsN4&result=375)ction
-    
-    [Korea: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198830771.001.0001/actrade-9780198830771?rskey=qHxsN4&result=376)ction
-    
-    [Lakes: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198766735.001.0001/actrade-9780198766735?rskey=qHxsN4&result=377)ction
-    
-    [Landscape Architecture: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199681204.001.0001/actrade-9780199681204?rskey=qHxsN4&result=378)ction
-    
-    [Landscapes and Geomorphology: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199565573.001.0001/actrade-9780199565573?rskey=qHxsN4&result=379)ction
-    
-    [Languages: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199590599.001.0001/actrade-9780199590599?rskey=qHxsN4&result=380)ction
-    
-    [Late Antiquity: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199546206.001.0001/actrade-9780199546206?rskey=qHxsN4&result=381)ction
-    
-    [Law: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198745624.001.0001/actrade-9780198745624?rskey=qHxsN4&result=382)
-    
-    [The Laws of Thermodynamics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199572199.001.0001/actrade-9780199572199?rskey=qHxsN4&result=383)ction
-    
-    [Leadership: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199569915.001.0001/actrade-9780199569915?rskey=qHxsN4&result=384)ction
-    
-    [Learning: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199688364.001.0001/actrade-9780199688364?rskey=qHxsN4&result=385)ction
-    
-    [Leibniz: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198718642.001.0001/actrade-9780198718642?rskey=qHxsN4&result=386)ction
-    
-    [Liberalism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199670437.001.0001/actrade-9780199670437?rskey=qHxsN4&result=387)ction
-    
-    [Light: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199682690.001.0001/actrade-9780199682690?rskey=qHxsN4&result=388)ction
-    
-    [Lincoln: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195367805.001.0001/actrade-9780195367805?rskey=qHxsN4&result=389)ction
-    
-    [Linguistics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801487.001.0001/actrade-9780192801487?rskey=qHxsN4&result=390)ction
-    
-    [Literary Theory: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199691340.001.0001/actrade-9780199691340?rskey=qHxsN4&result=391)
-    
-    [Locke: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803948.001.0001/actrade-9780192803948?rskey=qHxsN4&result=392)ction
-    
-    [Logic: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198811701.001.0001/actrade-9780198811701?rskey=qHxsN4&result=393)
-    
-    [Love: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199663842.001.0001/actrade-9780199663842?rskey=qHxsN4&result=394)ction
-    
-    [Machiavelli: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198837572.001.0001/actrade-9780198837572?rskey=qHxsN4&result=395)
-    
-    [Madness: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199608034.001.0001/actrade-9780199608034?rskey=qHxsN4&result=396)ction
-    
-    [Magic: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199588022.001.0001/actrade-9780199588022?rskey=qHxsN4&result=397)ction
-    
-    [Magna Carta: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199582877.001.0001/actrade-9780199582877?rskey=qHxsN4&result=398)ction
-    
-    [Magnetism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199601202.001.0001/actrade-9780199601202?rskey=qHxsN4&result=399)ction
-    
-    [Malthus: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199670413.001.0001/actrade-9780199670413?rskey=qHxsN4&result=400)ction
-    
-    [Mammals: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198766940.001.0001/actrade-9780198766940?rskey=SqgY81&result=401)ction
-    
-    [Management: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199656981.001.0001/actrade-9780199656981?rskey=SqgY81&result=402)ction
-    
-    [Mao: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199588664.001.0001/actrade-9780199588664?rskey=SqgY81&result=403)ction
-    
-    [Marine Biology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198841715.001.0001/actrade-9780198841715?rskey=SqgY81&result=404)
-    
-    [Marketing: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198827337.001.0001/actrade-9780198827337?rskey=SqgY81&result=405)ction
-    
-    [The Marquis de Sade: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192804693.001.0001/actrade-9780192804693?rskey=SqgY81&result=406)ction
-    
-    [Martin Luther: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199574339.001.0001/actrade-9780199574339?rskey=SqgY81&result=407)ction
-    
-    [Martyrdom: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199585236.001.0001/actrade-9780199585236?rskey=SqgY81&result=408)ction
-    
-    [Marx: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198821076.001.0001/actrade-9780198821076?rskey=SqgY81&result=409)
-    
-    [Materials: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199672677.001.0001/actrade-9780199672677?rskey=SqgY81&result=410)ction
-    
-    [Mathematical Finance: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198787945.001.0001/actrade-9780198787945?rskey=SqgY81&result=411)ction
-    
-    [Mathematics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853615.001.0001/actrade-9780192853615?rskey=SqgY81&result=412)ction
-    
-    [Matter: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198806547.001.0001/actrade-9780198806547?rskey=SqgY81&result=413)ction
-    
-    [The Maya: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190645021.001.0001/actrade-9780190645021?rskey=SqgY81&result=414)ction
-    
-    [The Meaning of Life: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199532179.001.0001/actrade-9780199532179?rskey=SqgY81&result=415)ction
-    
-    [Measurement: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198779568.001.0001/actrade-9780198779568?rskey=SqgY81&result=416)ction
-    
-    [Medical Ethics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198815600.001.0001/actrade-9780198815600?rskey=SqgY81&result=417)
-    
-    [Medical Law: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199660445.001.0001/actrade-9780199660445?rskey=SqgY81&result=418)ction
-    
-    [Medieval Britain: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854025.001.0001/actrade-9780192854025?rskey=SqgY81&result=419)ction
-    
-    [Medieval Literature: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199668496.001.0001/actrade-9780199668496?rskey=SqgY81&result=420)ction
-    
-    [Medieval Philosophy: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199663224.001.0001/actrade-9780199663224?rskey=SqgY81&result=421)ction
-    
-    [Memory: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192806758.001.0001/actrade-9780192806758?rskey=SqgY81&result=422)ction
-    
-    [Metaphysics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199657124.001.0001/actrade-9780199657124?rskey=SqgY81&result=423)ction
-    
-    [Methodism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198802310.001.0001/actrade-9780198802310?rskey=SqgY81&result=424)ction
-    
-    [The Mexican Revolution: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198745631.001.0001/actrade-9780198745631?rskey=SqgY81&result=425)ction
-    
-    [Michael Faraday: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199574315.001.0001/actrade-9780199574315?rskey=SqgY81&result=426)ction
-    
-    [Microbiology: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199681686.001.0001/actrade-9780199681686?rskey=SqgY81&result=427)ction
-    
-    [Microeconomics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199689378.001.0001/actrade-9780199689378?rskey=SqgY81&result=428)ction
-    
-    [Microscopy: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198701262.001.0001/actrade-9780198701262?rskey=SqgY81&result=429)ction
-    
-    [The Middle Ages: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199697298.001.0001/actrade-9780199697298?rskey=SqgY81&result=430)ction
-    
-    [Military Justice: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199303496.001.0001/actrade-9780199303496?rskey=SqgY81&result=431)ction
-    
-    [Military Strategy: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199340132.001.0001/actrade-9780199340132?rskey=SqgY81&result=432)ction
-    
-    [Minerals: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199682843.001.0001/actrade-9780199682843?rskey=SqgY81&result=433)ction
-    
-    [Miracles: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198747215.001.0001/actrade-9780198747215?rskey=SqgY81&result=434)ction
-    
-    [Modern Architecture: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198783442.001.0001/actrade-9780198783442?rskey=SqgY81&result=435)ction
-    
-    [Modern Art: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803641.001.0001/actrade-9780192803641?rskey=SqgY81&result=436)ction
-    
-    [Modern Brazil: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198812081.001.0001/actrade-9780198812081?rskey=SqgY81&result=437)ction
-    
-    [Modern China: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198753704.001.0001/actrade-9780198753704?rskey=SqgY81&result=438)
-    
-    [Modern Drama: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199658770.001.0001/actrade-9780199658770?rskey=SqgY81&result=439)ction
-    
-    [Modern France: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195389418.001.0001/actrade-9780195389418?rskey=SqgY81&result=440)ction
-    
-    [Modern India: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198769347.001.0001/actrade-9780198769347?rskey=SqgY81&result=441)ction
-    
-    [Modern Ireland: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801678.001.0001/actrade-9780192801678?rskey=SqgY81&result=442)ction
-    
-    [Modern Italy: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198726517.001.0001/actrade-9780198726517?rskey=SqgY81&result=443)ction
-    
-    [Modern Japan: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199235698.001.0001/actrade-9780199235698?rskey=SqgY81&result=444)ction
-    
-    [Modern Latin American Literature: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199754915.001.0001/actrade-9780199754915?rskey=SqgY81&result=445)ction
-    
-    [Modern War: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199607891.001.0001/actrade-9780199607891?rskey=SqgY81&result=446)ction
-    
-    [Modernism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192804419.001.0001/actrade-9780192804419?rskey=SqgY81&result=447)ction
-    
-    [Molecular Biology: A Very Short Introd](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198723882.001.0001/actrade-9780198723882?rskey=SqgY81&result=448)uction
-    
-    [Molecules: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854308.001.0001/actrade-9780192854308?rskey=SqgY81&result=449)ction
-    
-    [Monasticism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198717645.001.0001/actrade-9780198717645?rskey=SqgY81&result=450)ction
-    
-    [The Mongols: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199840892.001.0001/actrade-9780199840892?rskey=iJXEzP&result=451)ction
-    
-    [Montaigne: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190848774.001.0001/actrade-9780190848774?rskey=iJXEzP&result=452)ction
-    
-    [Moons: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198735274.001.0001/actrade-9780198735274?rskey=iJXEzP&result=453)ction
-    
-    [Mormonism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195310306.001.0001/actrade-9780195310306?rskey=iJXEzP&result=454)ction
-    
-    [Mountains: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199695881.001.0001/actrade-9780199695881?rskey=iJXEzP&result=455)ction
-    
-    [Muhammad: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199559282.001.0001/actrade-9780199559282?rskey=iJXEzP&result=456)ction
-    
-    [Multiculturalism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199546039.001.0001/actrade-9780199546039?rskey=iJXEzP&result=457)ction
-    
-    [Multilingualism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198724995.001.0001/actrade-9780198724995?rskey=iJXEzP&result=458)ction
-    
-    [Music: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198726043.001.0001/actrade-9780198726043?rskey=iJXEzP&result=459)
-    
-    [Myth: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198724704.001.0001/actrade-9780198724704?rskey=iJXEzP&result=460)
-    
-    [Napoleon: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199321667.001.0001/actrade-9780199321667?rskey=iJXEzP&result=461)ction
-    
-    [The Napoleonic Wars: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199590964.001.0001/actrade-9780199590964?rskey=iJXEzP&result=462)ction
-    
-    [Nationalism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192840981.001.0001/actrade-9780192840981?rskey=iJXEzP&result=463)ction
-    
-    [Native American Literature: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199944521.001.0001/actrade-9780199944521?rskey=iJXEzP&result=464)ction
-    
-    [Navigation: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198733713.001.0001/actrade-9780198733713?rskey=iJXEzP&result=465)ction
-    
-    [Nazi Germany: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198706953.001.0001/actrade-9780198706953?rskey=iJXEzP&result=466)ction
-    
-    [Nelson Mandela: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803016.001.0001/actrade-9780192803016?rskey=iJXEzP&result=467)ction
-    
-    [Neoliberalism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198849674.001.0001/actrade-9780198849674?rskey=iJXEzP&result=468)
-    
-    [Networks: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199588077.001.0001/actrade-9780199588077?rskey=iJXEzP&result=469)ction
-    
-    [The New Testament: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199735709.001.0001/actrade-9780199735709?rskey=iJXEzP&result=470)ction
-    
-    [The New Testament As Literature: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195300208.001.0001/actrade-9780195300208?rskey=iJXEzP&result=471)ction
-    
-    [Newton: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199298037.001.0001/actrade-9780199298037?rskey=iJXEzP&result=472)ction
-    
-    [Nietzsche: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854148.001.0001/actrade-9780192854148?rskey=iJXEzP&result=473)ction
-    
-    [Nineteenth-Century Britain: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853981.001.0001/actrade-9780192853981?rskey=iJXEzP&result=474)ction
-    
-    [The Norman Conquest: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801616.001.0001/actrade-9780192801616?rskey=iJXEzP&result=475)ction
-    
-    [North American Indians: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195307542.001.0001/actrade-9780195307542?rskey=iJXEzP&result=476)ction
-    
-    [Northern Ireland: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198825005.001.0001/actrade-9780198825005?rskey=iJXEzP&result=477)
-    
-    [Nothing: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199225866.001.0001/actrade-9780199225866?rskey=iJXEzP&result=478)ction
-    
-    [Nuclear Physics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198718635.001.0001/actrade-9780198718635?rskey=iJXEzP&result=479)ction
-    
-    [Nuclear Power: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199584970.001.0001/actrade-9780199584970?rskey=iJXEzP&result=480)ction
-    
-    [Nuclear Weapons: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198860532.001.0001/actrade-9780198860532?rskey=iJXEzP&result=481)
-    
-    [Number Theory: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198798095.001.0001/actrade-9780198798095?rskey=iJXEzP&result=482)ction
-    
-    [Numbers: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199584055.001.0001/actrade-9780199584055?rskey=iJXEzP&result=483)ction
-    
-    [Nutrition: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199681921.001.0001/actrade-9780199681921?rskey=iJXEzP&result=484)ction
-    
-    [Objectivity: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199606696.001.0001/actrade-9780199606696?rskey=iJXEzP&result=485)ction
-    
-    [Oceans: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199655076.001.0001/actrade-9780199655076?rskey=iJXEzP&result=486)ction
-    
-    [The Old Testament: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195305050.001.0001/actrade-9780195305050?rskey=iJXEzP&result=487)ction
-    
-    [The Orchestra: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199760282.001.0001/actrade-9780199760282?rskey=iJXEzP&result=488)ction
-    
-    [Organic Chemistry: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198759775.001.0001/actrade-9780198759775?rskey=iJXEzP&result=489)ction
-    
-    [Organizations: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199584536.001.0001/actrade-9780199584536?rskey=iJXEzP&result=490)ction
-    
-    [Organized Crime: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198795544.001.0001/actrade-9780198795544?rskey=iJXEzP&result=491)ction
-    
-    [Orthodox Christianity: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190883270.001.0001/actrade-9780190883270?rskey=iJXEzP&result=492)ction
-    
-    [Ovid: A Very Short Introd](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198837688.001.0001/actrade-9780198837688?rskey=iJXEzP&result=493)uction
-    
-    [Paganism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199235162.001.0001/actrade-9780199235162?rskey=iJXEzP&result=494)ction
-    
-    [Pain: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198738565.001.0001/actrade-9780198738565?rskey=iJXEzP&result=495)ction
-    
-    [The Palestinian-Israeli Conflict: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199603930.001.0001/actrade-9780199603930?rskey=iJXEzP&result=496)ction
-    
-    [Pandemics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199340071.001.0001/actrade-9780199340071?rskey=iJXEzP&result=497)ction
-    
-    [Particle Physics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192804341.001.0001/actrade-9780192804341?rskey=iJXEzP&result=498)ction
-    
-    [Paul: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854513.001.0001/actrade-9780192854513?rskey=iJXEzP&result=499)ction
-    
-    [Peace: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199656004.001.0001/actrade-9780199656004?rskey=iJXEzP&result=500)ction
-    
-    [Pentecostalism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199575152.001.0001/actrade-9780199575152?rskey=tQpn5y&result=501)ction
-    
-    [Perception: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198791003.001.0001/actrade-9780198791003?rskey=tQpn5y&result=502)ction
-    
-    [The Periodic Table: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198842323.001.0001/actrade-9780198842323?rskey=tQpn5y&result=503)
-    
-    [Philosophical Method: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198810001.001.0001/actrade-9780198810001?rskey=tQpn5y&result=504)ction
-    
-    [Philosophy: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198861775.001.0001/actrade-9780198861775?rskey=tQpn5y&result=505)
-    
-    [Philosophy in the Islamic World: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199683673.001.0001/actrade-9780199683673?rskey=tQpn5y&result=506)ction
-    
-    [Philosophy of Biology: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198806998.001.0001/actrade-9780198806998?rskey=tQpn5y&result=507)ction
-    
-    [Philosophy of Law: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199687008.001.0001/actrade-9780199687008?rskey=tQpn5y&result=508)
-    
-    [Philosophy of Physics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198814320.001.0001/actrade-9780198814320?rskey=tQpn5y&result=509)ction
-    
-    [Philosophy of Religion: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198754961.001.0001/actrade-9780198754961?rskey=tQpn5y&result=510)ction
-    
-    [Philosophy of Science: Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198745587.001.0001/actrade-9780198745587?rskey=tQpn5y&result=511)
-    
-    [Photography: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801647.001.0001/actrade-9780192801647?rskey=tQpn5y&result=512)ction
-    
-    [Physical Chemistry: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199689095.001.0001/actrade-9780199689095?rskey=tQpn5y&result=513)ction
-    
-    [Physics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198813941.001.0001/actrade-9780198813941?rskey=tQpn5y&result=514)ction
-    
-    [Pilgrimage: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198718222.001.0001/actrade-9780198718222?rskey=tQpn5y&result=515)ction
-    
-    [Plague: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198871118.001.0001/actrade-9780198871118?rskey=tQpn5y&result=516)
-    
-    [Planets: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199573509.001.0001/actrade-9780199573509?rskey=tQpn5y&result=517)ction
-    
-    [Plants: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199584062.001.0001/actrade-9780199584062?rskey=tQpn5y&result=518)ction
-    
-    [Plate Tectonics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198728269.001.0001/actrade-9780198728269?rskey=tQpn5y&result=519)ction
-    
-    [Plato: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802163.001.0001/actrade-9780192802163?rskey=tQpn5y&result=520)ction
-    
-    [Poetry: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199229116.001.0001/actrade-9780199229116?rskey=tQpn5y&result=521)ction
-    
-    [Political Philosophy: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803955.001.0001/actrade-9780192803955?rskey=tQpn5y&result=522)ction
-    
-    [Politics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853882.001.0001/actrade-9780192853882?rskey=tQpn5y&result=523)ction
-    
-    [Populism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190234874.001.0001/actrade-9780190234874?rskey=tQpn5y&result=524)ction
-    
-    [Postcolonialism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198856832.001.0001/actrade-9780198856832?rskey=tQpn5y&result=525)
-    
-    [Postmodernism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802392.001.0001/actrade-9780192802392?rskey=tQpn5y&result=526)ction
-    
-    [Poststructuralism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801807.001.0001/actrade-9780192801807?rskey=tQpn5y&result=527)ction
-    
-    [Poverty: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198716471.001.0001/actrade-9780198716471?rskey=tQpn5y&result=528)ction
-    
-    [Prehistory: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198803515.001.0001/actrade-9780198803515?rskey=tQpn5y&result=529)
-    
-    [Presocratic Philosophy: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192840943.001.0001/actrade-9780192840943?rskey=tQpn5y&result=530)ction
-    
-    [Privacy: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198725947.001.0001/actrade-9780198725947?rskey=tQpn5y&result=531)
-    
-    [Probability: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199588480.001.0001/actrade-9780199588480?rskey=tQpn5y&result=532)ction
-    
-    [Progressivism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195311068.001.0001/actrade-9780195311068?rskey=tQpn5y&result=533)ction
-    
-    [Prohibition: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190280109.001.0001/actrade-9780190280109?rskey=tQpn5y&result=534)ction
-    
-    [Projects: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198727668.001.0001/actrade-9780198727668?rskey=tQpn5y&result=535)ction
-    
-    [Protestantism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199560974.001.0001/actrade-9780199560974?rskey=tQpn5y&result=536)ction
-    
-    [Psychiatry: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198826200.001.0001/actrade-9780198826200?rskey=tQpn5y&result=537)
-    
-    [Psychoanalysis: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199226818.001.0001/actrade-9780199226818?rskey=tQpn5y&result=538)ction
-    
-    [Psychology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199670420.001.0001/actrade-9780199670420?rskey=tQpn5y&result=539)
-    
-    [The Psychology of Music: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190640156.001.0001/actrade-9780190640156?rskey=tQpn5y&result=540)ction
-    
-    [Psychopathy: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198802266.001.0001/actrade-9780198802266?rskey=tQpn5y&result=541)ction
-    
-    [Psychotherapy: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199689361.001.0001/actrade-9780199689361?rskey=tQpn5y&result=542)ction
-    
-    [Public Administration: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198724230.001.0001/actrade-9780198724230?rskey=tQpn5y&result=543)ction
-    
-    [Public Health: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199688463.001.0001/actrade-9780199688463?rskey=tQpn5y&result=544)ction
-    
-    [Puritanism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195334555.001.0001/actrade-9780195334555?rskey=tQpn5y&result=545)ction
-    
-    [The Quakers: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199206797.001.0001/actrade-9780199206797?rskey=tQpn5y&result=546)ction
-    
-    [Quantum Theory: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802521.001.0001/actrade-9780192802521?rskey=tQpn5y&result=547)ction
-    
-    [Racism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198834793.001.0001/actrade-9780198834793?rskey=tQpn5y&result=548)
-    
-    [Radioactivity: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199692422.001.0001/actrade-9780199692422?rskey=tQpn5y&result=549)ction
-    
-    [Rastafari: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199584529.001.0001/actrade-9780199584529?rskey=tQpn5y&result=550)ction
-    
-    [Reading: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198820581.001.0001/actrade-9780198820581?rskey=R65Itj&result=551)ction
-    
-    [The Reagan Revolution: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195317107.001.0001/actrade-9780195317107?rskey=R65Itj&result=552)ction
-    
-    [Reality: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199594412.001.0001/actrade-9780199594412?rskey=R65Itj&result=553)ction
-    
-    [Reconstruction: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190454791.001.0001/actrade-9780190454791?rskey=R65Itj&result=554)ction
-    
-    [The Reformation: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199231317.001.0001/actrade-9780199231317?rskey=R65Itj&result=555)ction
-    
-    [Refugees: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198811787.001.0001/actrade-9780198811787?rskey=R65Itj&result=556)ction
-    
-    [Relativity: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199236220.001.0001/actrade-9780199236220?rskey=R65Itj&result=557)ction
-    
-    [Religion: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190064679.001.0001/actrade-9780190064679?rskey=R65Itj&result=558)ction
-    
-    [Religion in America: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195321074.001.0001/actrade-9780195321074?rskey=R65Itj&result=559)ction
-    
-    [The Renaissance: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801630.001.0001/actrade-9780192801630?rskey=R65Itj&result=560)ction
-    
-    [Renaissance Art: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803542.001.0001/actrade-9780192803542?rskey=R65Itj&result=561)ction
-    
-    [Renewable Energy: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198825401.001.0001/actrade-9780198825401?rskey=R65Itj&result=562)ction
-    
-    [Reptiles: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198806417.001.0001/actrade-9780198806417?rskey=R65Itj&result=563)ction
-    
-    [Revolutions: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199858507.001.0001/actrade-9780199858507?rskey=R65Itj&result=564)ction
-    
-    [Rhetoric: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199651368.001.0001/actrade-9780199651368?rskey=R65Itj&result=565)ction
-    
-    [Risk: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199576203.001.0001/actrade-9780199576203?rskey=R65Itj&result=566)ction
-    
-    [Ritual: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199943524.001.0001/actrade-9780199943524?rskey=R65Itj&result=567)ction
-    
-    [Rivers: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199588671.001.0001/actrade-9780199588671?rskey=R65Itj&result=568)ction
-    
-    [Robotics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199695980.001.0001/actrade-9780199695980?rskey=R65Itj&result=569)ction
-    
-    [Rocks: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198725190.001.0001/actrade-9780198725190?rskey=R65Itj&result=570)ction
-    
-    [Roman Britain: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198712169.001.0001/actrade-9780198712169?rskey=R65Itj&result=571)
-    
-    [The Roman Empire: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803917.001.0001/actrade-9780192803917?rskey=R65Itj&result=572)ction
-    
-    [The Roman Republic: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199595112.001.0001/actrade-9780199595112?rskey=R65Itj&result=573)ction
-    
-    [Romanticism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199568918.001.0001/actrade-9780199568918?rskey=R65Itj&result=574)ction
-    
-    [Rousseau: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801982.001.0001/actrade-9780192801982?rskey=R65Itj&result=575)ction
-    
-    [Russell: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802583.001.0001/actrade-9780192802583?rskey=R65Itj&result=576)ction
-    
-    [The Russian Economy: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198848905.001.0001/actrade-9780198848905?rskey=R65Itj&result=577)ction
-    
-    [Russian History: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199580989.001.0001/actrade-9780199580989?rskey=R65Itj&result=578)ction
-    
-    [Russian Literature: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801449.001.0001/actrade-9780192801449?rskey=R65Itj&result=579)ction
-    
-    [The Russian Revolution: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853950.001.0001/actrade-9780192853950?rskey=R65Itj&result=580)ction
-    
-    [Saints: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199676514.001.0001/actrade-9780199676514?rskey=R65Itj&result=581)ction
-    
-    [Samurai: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190685072.001.0001/actrade-9780190685072?rskey=R65Itj&result=582)ction
-    
-    [Savannas: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198717225.001.0001/actrade-9780198717225?rskey=R65Itj&result=583)ction
-    
-    [Scepticism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198829164.001.0001/actrade-9780198829164?rskey=R65Itj&result=584)ction
-    
-    [Schizophrenia: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802217.001.0001/actrade-9780192802217?rskey=R65Itj&result=585)ction
-    
-    [Schopenhauer: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802590.001.0001/actrade-9780192802590?rskey=R65Itj&result=586)ction
-    
-    [Science and Religion: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199295517.001.0001/actrade-9780199295517?rskey=R65Itj&result=587)ction
-    
-    [Science Fiction: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199557455.001.0001/actrade-9780199557455?rskey=R65Itj&result=588)ction
-    
-    [The Scientific Revolution: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199567416.001.0001/actrade-9780199567416?rskey=R65Itj&result=589)ction
-    
-    [Scotland: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199230792.001.0001/actrade-9780199230792?rskey=R65Itj&result=590)ction
-    
-    [Secularism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198747222.001.0001/actrade-9780198747222?rskey=R65Itj&result=591)ction
-    
-    [Sexual Selection: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198778752.001.0001/actrade-9780198778752?rskey=R65Itj&result=592)ction
-    
-    [Sexuality: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199298020.001.0001/actrade-9780199298020?rskey=R65Itj&result=593)ction
-    
-    [Shakespeare's Comedies: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198723356.001.0001/actrade-9780198723356?rskey=R65Itj&result=594)ction
-    
-    [Shakespeare's Sonnets and Poems: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198717577.001.0001/actrade-9780198717577?rskey=R65Itj&result=595)ction
-    
-    [Shakespeare's Tragedies: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198785293.001.0001/actrade-9780198785293?rskey=R65Itj&result=596)ction
-    
-    [Sikhism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198745570.001.0001/actrade-9780198745570?rskey=R65Itj&result=597)
-    
-    [Silent Film: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190852528.001.0001/actrade-9780190852528?rskey=R65Itj&result=598)ction
-    
-    [The Silk Road: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199782864.001.0001/actrade-9780199782864?rskey=R65Itj&result=599)ction
-    
-    [Slang: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198729532.001.0001/actrade-9780198729532?rskey=R65Itj&result=600)ction
-    
-    [Sleep: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199587858.001.0001/actrade-9780199587858?rskey=gLNuxo&result=601)ction
-    
-    [Smell: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198825258.001.0001/actrade-9780198825258?rskey=gLNuxo&result=602)ction
-    
-    [Social and Cultural Anthropology: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853462.001.0001/actrade-9780192853462?rskey=gLNuxo&result=603)ction
-    
-    [Social Psychology: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198715511.001.0001/actrade-9780198715511?rskey=gLNuxo&result=604)ction
-    
-    [Social Work: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198708452.001.0001/actrade-9780198708452?rskey=gLNuxo&result=605)ction
-    
-    [Socialism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198836421.001.0001/actrade-9780198836421?rskey=gLNuxo&result=606)
-    
-    [Sociolinguistics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199858613.001.0001/actrade-9780199858613?rskey=gLNuxo&result=607)ction
-    
-    [Sociology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198822967.001.0001/actrade-9780198822967?rskey=gLNuxo&result=608)
-    
-    [Socrates: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198835981.001.0001/actrade-9780198835981?rskey=gLNuxo&result=609)
-    
-    [Soft Matter: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198807131.001.0001/actrade-9780198807131?rskey=gLNuxo&result=610)ction
-    
-    [Sound: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198708445.001.0001/actrade-9780198708445?rskey=gLNuxo&result=611)ction
-    
-    [Southeast Asia: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190248765.001.0001/actrade-9780190248765?rskey=gLNuxo&result=612)ction
-    
-    [The Soviet Union: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199238484.001.0001/actrade-9780199238484?rskey=gLNuxo&result=613)ction
-    
-    [The Spanish Civil War: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803771.001.0001/actrade-9780192803771?rskey=gLNuxo&result=614)ction
-    
-    [Spanish Literature: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199208050.001.0001/actrade-9780199208050?rskey=gLNuxo&result=615)ction
-    
-    [Spinoza: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803160.001.0001/actrade-9780192803160?rskey=gLNuxo&result=616)ction
-    
-    [Spirituality: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199588756.001.0001/actrade-9780199588756?rskey=gLNuxo&result=617)ction
-    
-    [Sport: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199688340.001.0001/actrade-9780199688340?rskey=gLNuxo&result=618)ction
-    
-    [Stars: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199602926.001.0001/actrade-9780199602926?rskey=gLNuxo&result=619)ction
-    
-    [Statistics: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199233564.001.0001/actrade-9780199233564?rskey=gLNuxo&result=620)ction
-    
-    [Stem Cells: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198869290.001.0001/actrade-9780198869290?rskey=gLNuxo&result=621)
-    
-    [Stoicism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198786665.001.0001/actrade-9780198786665?rskey=gLNuxo&result=622)ction
-    
-    [Structural Engineering: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199671939.001.0001/actrade-9780199671939?rskey=gLNuxo&result=623)ction
-    
-    [Stuart Britain: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854001.001.0001/actrade-9780192854001?rskey=gLNuxo&result=624)ction
-    
-    [The Sun: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198832690.001.0001/actrade-9780198832690?rskey=gLNuxo&result=625)ction
-    
-    [Superconductivity: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199540907.001.0001/actrade-9780199540907?rskey=gLNuxo&result=626)ction
-    
-    [Superstition: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198819257.001.0001/actrade-9780198819257?rskey=gLNuxo&result=627)ction
-    
-    [Symmetry: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199651986.001.0001/actrade-9780199651986?rskey=gLNuxo&result=628)ction
-    
-    [Synaesthesia: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198749219.001.0001/actrade-9780198749219?rskey=gLNuxo&result=629)ction
-    
-    [Synthetic Biology: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198803492.001.0001/actrade-9780198803492?rskey=gLNuxo&result=630)ction
-    
-    [Systems Biology: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198828372.001.0001/actrade-9780198828372?rskey=gLNuxo&result=631)ction
-    
-    [Taxation: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199683697.001.0001/actrade-9780199683697?rskey=gLNuxo&result=632)ction
-    
-    [Teeth: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199670598.001.0001/actrade-9780199670598?rskey=gLNuxo&result=633)ction
-    
-    [Telescopes: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198745860.001.0001/actrade-9780198745860?rskey=gLNuxo&result=634)ction
-    
-    [Terrorism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198809098.001.0001/actrade-9780198809098?rskey=gLNuxo&result=635)
-    
-    [Theatre: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199669820.001.0001/actrade-9780199669820?rskey=gLNuxo&result=636)ction
-    
-    [Theology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199679973.001.0001/actrade-9780199679973?rskey=gLNuxo&result=637)
-    
-    [Thinking and Reasoning: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198787259.001.0001/actrade-9780198787259?rskey=gLNuxo&result=638)ction
-    
-    [Thought: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199601721.001.0001/actrade-9780199601721?rskey=gLNuxo&result=639)ction
-    
-    [Tibetan Buddhism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199735129.001.0001/actrade-9780199735129?rskey=gLNuxo&result=640)ction
-    
-    [Tides: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198826637.001.0001/actrade-9780198826637?rskey=gLNuxo&result=641)ction
-    
-    [Time: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198832669.001.0001/actrade-9780198832669?rskey=gLNuxo&result=642)ction
-    
-    [Tocqueville: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195175394.001.0001/actrade-9780195175394?rskey=gLNuxo&result=643)ction
-    
-    [Leo Tolstoy: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198813934.001.0001/actrade-9780198813934?rskey=gLNuxo&result=644)ction
-    
-    [Topology: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198832683.001.0001/actrade-9780198832683?rskey=gLNuxo&result=645)ction
-    
-    [Tragedy: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802354.001.0001/actrade-9780192802354?rskey=gLNuxo&result=646)ction
-    
-    [Translation: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198712114.001.0001/actrade-9780198712114?rskey=gLNuxo&result=647)ction
-    
-    [The Treaty of Versailles: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190644987.001.0001/actrade-9780190644987?rskey=gLNuxo&result=648)ction
-    
-    [Trigonometry: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198814313.001.0001/actrade-9780198814313?rskey=gLNuxo&result=649)ction
-    
-    [The Trojan War: A Very Short](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199760275.001.0001/actrade-9780199760275?rskey=gLNuxo&result=650)
-    
-    [Trust: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199697342.001.0001/actrade-9780199697342?rskey=Vsh5u4&result=651)ction
-    
-    [Twentieth-Century Britain: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853974.001.0001/actrade-9780192853974?rskey=Vsh5u4&result=652)ction
-    
-    [Typography: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199211296.001.0001/actrade-9780199211296?rskey=Vsh5u4&result=653)ction
-    
-    [The U.S. Civil War: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780197513668.001.0001/actrade-9780197513668?rskey=Vsh5u4&result=654)ction
-    
-    [The U.S. Congress: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190280147.001.0001/actrade-9780190280147?rskey=Vsh5u4&result=655)
-    
-    [The U.S. Constitution: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195378320.001.0001/actrade-9780195378320?rskey=Vsh5u4&result=656)ction
-    
-    [The U.S. Supreme Court: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190079819.001.0001/actrade-9780190079819?rskey=Vsh5u4&result=657)
-    
-    [The United Nations: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190222703.001.0001/actrade-9780190222703?rskey=Vsh5u4&result=658)
-    
-    [Universities and Colleges: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198766131.001.0001/actrade-9780198766131?rskey=Vsh5u4&result=659)ction
-    
-    [Chemistry: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199683970.001.0001/actrade-9780199683970?rskey=Vsh5u4&result=660)ction
-    
-    [Human Anatomy: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198707370.001.0001/actrade-9780198707370?rskey=Vsh5u4&result=661)ction
-    
-    [American Political History: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199340057.001.0001/actrade-9780199340057?rskey=Vsh5u4&result=662)ction
-    
-    [Utilitarianism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198728795.001.0001/actrade-9780198728795?rskey=Vsh5u4&result=663)ction
-    
-    [Utopianism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199573400.001.0001/actrade-9780199573400?rskey=Vsh5u4&result=664)ction
-    
-    [Veterinary Science: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198790969.001.0001/actrade-9780198790969?rskey=Vsh5u4&result=665)ction
-    
-    [The Vikings: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192806079.001.0001/actrade-9780192806079?rskey=Vsh5u4&result=666)ction
-    
-    [The Virtues: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198845379.001.0001/actrade-9780198845379?rskey=Vsh5u4&result=667)ction
-    
-    [Viruses: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198811718.001.0001/actrade-9780198811718?rskey=Vsh5u4&result=668)
-    
-    [Volcanoes: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199582204.001.0001/actrade-9780199582204?rskey=Vsh5u4&result=669)ction
-    
-    [Voltaire: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199688357.001.0001/actrade-9780199688357?rskey=Vsh5u4&result=670)ction
-    
-    [War and Religion: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198803218.001.0001/actrade-9780198803218?rskey=Vsh5u4&result=671)ction
-    
-    [War and Technology: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190605384.001.0001/actrade-9780190605384?rskey=Vsh5u4&result=672)ction
-    
-    [Water: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198708728.001.0001/actrade-9780198708728?rskey=Vsh5u4&result=673)ction
-    
-    [Waves: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198803782.001.0001/actrade-9780198803782?rskey=Vsh5u4&result=674)ction
-    
-    [Weather: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199571314.001.0001/actrade-9780199571314?rskey=Vsh5u4&result=675)ction
-    
-    [The Welfare State: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199672660.001.0001/actrade-9780199672660?rskey=Vsh5u4&result=676)ction
-    
-    [William Shakespeare: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198718628.001.0001/actrade-9780198718628?rskey=Vsh5u4&result=677)ction
-    
-    [Witchcraft: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199236954.001.0001/actrade-9780199236954?rskey=Vsh5u4&result=678)ction
-    
-    [Wittgenstein: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854117.001.0001/actrade-9780192854117?rskey=Vsh5u4&result=679)ction
-    
-    [Work: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199699360.001.0001/actrade-9780199699360?rskey=Vsh5u4&result=680)ction
-    
-    [World Music: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198829140.001.0001/actrade-9780198829140?rskey=Vsh5u4&result=681)
-    
-    [The World Trade Organization: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192806086.001.0001/actrade-9780192806086?rskey=Vsh5u4&result=682)ction
-    
-    [World War II: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199688777.001.0001/actrade-9780199688777?rskey=Vsh5u4&result=683)ction
-    
-    [Writing and Script: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199567782.001.0001/actrade-9780199567782?rskey=Vsh5u4&result=684)ction
-    
-    [Zionism: A Very Short Introdu](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199766048.001.0001/actrade-9780199766048?rskey=Vsh5u4&result=685)ction
+        * [Abolitionism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190213220.001.0001/actrade-9780190213220?rskey=0xxw4L&result=1)
+        * [The Abrahamic Religions: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190654344.001.0001/actrade-9780190654344?rskey=0xxw4L&result=2)
+        * [Accounting: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199684311.001.0001/actrade-9780199684311?rskey=0xxw4L&result=3)
+        * [Adam Smith: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198784456.001.0001/actrade-9780198784456?rskey=0xxw4L&result=4)
+        * [Adolescence: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199665563.001.0001/actrade-9780199665563?rskey=0xxw4L&result=5)
+        * [Advertising: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199568925.001.0001/actrade-9780199568925?rskey=0xxw4L&result=6)
+        * [Aerial Warfare: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198804314.001.0001/actrade-9780198804314?rskey=0xxw4L&result=7)
+        * [Aesthetics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198826613.001.0001/actrade-9780198826613?rskey=0xxw4L&result=8)
+        * [African American Religion: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195182897.001.0001/actrade-9780195182897?rskey=0xxw4L&result=9)
+        * [African History: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802484.001.0001/actrade-9780192802484?rskey=0xxw4L&result=10)
+        * [African Politics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198806578.001.0001/actrade-9780198806578?rskey=0xxw4L&result=11)
+        * [African Religions: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199790586.001.0001/actrade-9780199790586?rskey=0xxw4L&result=12)
+        * [Ageing: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198725329.001.0001/actrade-9780198725329?rskey=0xxw4L&result=13)
+        * [Agnosticism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199575268.001.0001/actrade-9780199575268?rskey=0xxw4L&result=14)
+        * [Agriculture: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198725961.001.0001/actrade-9780198725961?rskey=0xxw4L&result=15)
+        * [Albert Camus: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198792970.001.0001/actrade-9780198792970?rskey=0xxw4L&result=16)
+        * [Alexander the Great: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198706151.001.0001/actrade-9780198706151?rskey=0xxw4L&result=17)
+        * [Algebra: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198732822.001.0001/actrade-9780198732822?rskey=0xxw4L&result=18)
+        * [American Business History: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190622473.001.0001/actrade-9780190622473?rskey=0xxw4L&result=19)
+        * [American Cultural History: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190200589.001.0001/actrade-9780190200589?rskey=0xxw4L&result=20)
+        * [American Foreign Relations: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199899395.001.0001/actrade-9780199899395?rskey=0xxw4L&result=21)
+        * [American History: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195389142.001.0001/actrade-9780195389142?rskey=0xxw4L&result=22)
+        * [American Immigration: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780197542422.001.0001/actrade-9780197542422?rskey=0xxw4L&result=23)
+        * [American Intellectual History: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190622435.001.0001/actrade-9780190622435?rskey=0xxw4L&result=24)
+        * [American Legal History: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199766000.001.0001/actrade-9780199766000?rskey=0xxw4L&result=25)
+        * [American Military History: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199859252.001.0001/actrade-9780199859252?rskey=0xxw4L&result=26)
+        * [American Naval History: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199394760.001.0001/actrade-9780199394760?rskey=0xxw4L&result=27)
+        * [American Political Parties and Elections: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190458164.001.0001/actrade-9780190458164?rskey=0xxw4L&result=28)
+        * [American Politics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195373851.001.0001/actrade-9780195373851?rskey=0xxw4L&result=29)
+        * [The American Presidency: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190458201.001.0001/actrade-9780190458201?rskey=0xxw4L&result=30)
+        * [The American Revolution: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190225063.001.0001/actrade-9780190225063?rskey=0xxw4L&result=31)
+        * [American Slavery: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199922680.001.0001/actrade-9780199922680?rskey=0xxw4L&result=32)
+        * [The American South: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199943517.001.0001/actrade-9780199943517?rskey=0xxw4L&result=33)
+        * [The American West: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199858934.001.0001/actrade-9780199858934?rskey=0xxw4L&result=34)
+        * [American Women's History: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199328338.001.0001/actrade-9780199328338?rskey=0xxw4L&result=35)
+        * [Amphibians: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198842989.001.0001/actrade-9780198842989?rskey=0xxw4L&result=36)
+        * [Anaesthesia: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199584543.001.0001/actrade-9780199584543?rskey=0xxw4L&result=37)
+        * [Analytic Philosophy: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198778028.001.0001/actrade-9780198778028?rskey=0xxw4L&result=38)
+        * [Anarchism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192804778.001.0001/actrade-9780192804778?rskey=0xxw4L&result=39)
+        * [Ancient Assyria: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198715900.001.0001/actrade-9780198715900?rskey=0xxw4L&result=40)
+        * [Ancient Egypt: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198845461.001.0001/actrade-9780198845461?rskey=0xxw4L&result=41)
+        * [Ancient Egyptian Art and Architecture: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199682782.001.0001/actrade-9780199682782?rskey=0xxw4L&result=42)
+        * [Ancient Greece: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199601349.001.0001/actrade-9780199601349?rskey=0xxw4L&result=43)
+        * [The Ancient Near East: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195377996.001.0001/actrade-9780195377996?rskey=0xxw4L&result=44)
+        * [Ancient Philosophy: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853578.001.0001/actrade-9780192853578?rskey=0xxw4L&result=45)
+        * [Ancient Warfare: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192804709.001.0001/actrade-9780192804709?rskey=0xxw4L&result=46)
+        * [Angels: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199547302.001.0001/actrade-9780199547302?rskey=0xxw4L&result=47)
+        * [Anglicanism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192806932.001.0001/actrade-9780192806932?rskey=0xxw4L&result=48)
+        * [The Anglo-Saxon Age: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854032.001.0001/actrade-9780192854032?rskey=0xxw4L&result=49)
+        * [Animal Behaviour: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198712152.001.0001/actrade-9780198712152?rskey=0xxw4L&result=50)
+        * [The Animal Kingdom: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199593217.001.0001/actrade-9780199593217?rskey=bwHCrp&result=51)
+        * [Animal Rights: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853608.001.0001/actrade-9780192853608?rskey=bwHCrp&result=52)
+        * [The Antarctic: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199697687.001.0001/actrade-9780199697687?rskey=bwHCrp&result=53)
+        * [Anthropocene: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198792987.001.0001/actrade-9780198792987?rskey=bwHCrp&result=54)
+        * [Antisemitism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198724834.001.0001/actrade-9780198724834?rskey=bwHCrp&result=55)
+        * [Anxiety: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199567157.001.0001/actrade-9780199567157?rskey=bwHCrp&result=56)
+        * [The Apocryphal Gospels: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199236947.001.0001/actrade-9780199236947?rskey=bwHCrp&result=57)
+        * [Applied Mathematics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198754046.001.0001/actrade-9780198754046?rskey=bwHCrp&result=58)
+        * [Thomas Aquinas: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199556649.001.0001/actrade-9780199556649?rskey=bwHCrp&result=59)
+        * [Arbitration: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198738749.001.0001/actrade-9780198738749?rskey=bwHCrp&result=60)
+        * [Archaeology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199657438.001.0001/actrade-9780199657438?rskey=bwHCrp&result=61)
+        * [Architecture: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801791.001.0001/actrade-9780192801791?rskey=bwHCrp&result=62)
+        * [Aristocracy: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199206780.001.0001/actrade-9780199206780?rskey=bwHCrp&result=63)
+        * [Aristotle: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854087.001.0001/actrade-9780192854087?rskey=bwHCrp&result=64)
+        * [Art History: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198831808.001.0001/actrade-9780198831808?rskey=bwHCrp&result=65)
+        * [Art Theory: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192804631.001.0001/actrade-9780192804631?rskey=bwHCrp&result=66)
+        * [Artificial Intelligence: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199602919.001.0001/actrade-9780199602919?rskey=bwHCrp&result=67)
+        * [Asian American History: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190219765.001.0001/actrade-9780190219765?rskey=bwHCrp&result=68)
+        * [Astrobiology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199586455.001.0001/actrade-9780199586455?rskey=bwHCrp&result=69)
+        * [Astrophysics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198752851.001.0001/actrade-9780198752851?rskey=bwHCrp&result=70)
+        * [Atheism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198856795.001.0001/actrade-9780198856795?rskey=bwHCrp&result=71)
+        * [The Atmosphere: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198722038.001.0001/actrade-9780198722038?rskey=bwHCrp&result=72)
+        * [Augustine: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854520.001.0001/actrade-9780192854520?rskey=bwHCrp&result=73)
+        * [Australia: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199589937.001.0001/actrade-9780199589937?rskey=bwHCrp&result=74)
+        * [Autism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199207565.001.0001/actrade-9780199207565?rskey=bwHCrp&result=75)
+        * [Autobiography: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199669240.001.0001/actrade-9780199669240?rskey=bwHCrp&result=76)
+        * [The Avant Garde: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199582730.001.0001/actrade-9780199582730?rskey=bwHCrp&result=77)
+        * [The Aztecs: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195379389.001.0001/actrade-9780195379389?rskey=bwHCrp&result=78)
+        * [Babylonia: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198726470.001.0001/actrade-9780198726470?rskey=bwHCrp&result=79)
+        * [Bacteria: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199578764.001.0001/actrade-9780199578764?rskey=bwHCrp&result=80)
+        * [Banking: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199688920.001.0001/actrade-9780199688920?rskey=bwHCrp&result=81)
+        * [Barthes: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801593.001.0001/actrade-9780192801593?rskey=bwHCrp&result=82)
+        * [The Beats: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199796779.001.0001/actrade-9780199796779?rskey=bwHCrp&result=83)
+        * [Beauty: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199229758.001.0001/actrade-9780199229758?rskey=bwHCrp&result=84)
+        * [Behavioural Economics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198754992.001.0001/actrade-9780198754992?rskey=bwHCrp&result=85)
+        * [Bestsellers: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199214891.001.0001/actrade-9780199214891?rskey=bwHCrp&result=86)
+        * [The Bible: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198863335.001.0001/actrade-9780198863335?rskey=bwHCrp&result=87)
+        * [Biblical Archaeology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195342635.001.0001/actrade-9780195342635?rskey=bwHCrp&result=88)
+        * [Big Data: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198779575.001.0001/actrade-9780198779575?rskey=bwHCrp&result=89)
+        * [Biochemistry: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198833871.001.0001/actrade-9780198833871?rskey=bwHCrp&result=90)
+        * [Biogeography: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198850069.001.0001/actrade-9780198850069?rskey=bwHCrp&result=91)
+        * [Biography: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199533541.001.0001/actrade-9780199533541?rskey=bwHCrp&result=92)
+        * [Biometrics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198809104.001.0001/actrade-9780198809104?rskey=bwHCrp&result=93)
+        * [Black Holes: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199602667.001.0001/actrade-9780199602667?rskey=bwHCrp&result=94)
+        * [Blasphemy: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198797579.001.0001/actrade-9780198797579?rskey=bwHCrp&result=95)
+        * [Blood: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199581450.001.0001/actrade-9780199581450?rskey=bwHCrp&result=96)
+        * [The Blues: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195398939.001.0001/actrade-9780195398939?rskey=bwHCrp&result=97)
+        * [The Body: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198739036.001.0001/actrade-9780198739036?rskey=bwHCrp&result=98)
+        * [Niels Bohr: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198819264.001.0001/actrade-9780198819264?rskey=bwHCrp&result=99)
+        * [The Book of Common Prayer: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198803928.001.0001/actrade-9780198803928?rskey=bwHCrp&result=100)
+        * [The Book of Mormon: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195369311.001.0001/actrade-9780195369311?rskey=dk5nrK&result=101)
+        * [Borders: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199731503.001.0001/actrade-9780199731503?rskey=dk5nrK&result=102)
+        * [The Brain: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853929.001.0001/actrade-9780192853929?rskey=dk5nrK&result=103)
+        * [Branding: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198749912.001.0001/actrade-9780198749912?rskey=dk5nrK&result=104)
+        * [The BRICS: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198723394.001.0001/actrade-9780198723394?rskey=dk5nrK&result=105)
+        * [The British Constitution: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199697694.001.0001/actrade-9780199697694?rskey=dk5nrK&result=106)
+        * [The British Empire: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199605415.001.0001/actrade-9780199605415?rskey=dk5nrK&result=107)
+        * [British Politics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198827320.001.0001/actrade-9780198827320?rskey=dk5nrK&result=108)
+        * [Buddha: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854537.001.0001/actrade-9780192854537?rskey=dk5nrK&result=109)
+        * [Buddhism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199663835.001.0001/actrade-9780199663835?rskey=dk5nrK&result=110)
+        * [Buddhist Ethics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198850052.001.0001/actrade-9780198850052?rskey=dk5nrK&result=111)
+        * [Byzantium: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199236114.001.0001/actrade-9780199236114?rskey=dk5nrK&result=112)
+        * [C. S. Lewis: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198828242.001.0001/actrade-9780198828242?rskey=dk5nrK&result=113)
+        * [Calvinism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198753711.001.0001/actrade-9780198753711?rskey=dk5nrK&result=114)
+        * [Canada: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198755241.001.0001/actrade-9780198755241?rskey=dk5nrK&result=115)
+        * [Cancer: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199560233.001.0001/actrade-9780199560233?rskey=dk5nrK&result=116)
+        * [Capitalism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198726074.001.0001/actrade-9780198726074?rskey=dk5nrK&result=117)
+        * [Global Catastrophes: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198715931.001.0001/actrade-9780198715931?rskey=dk5nrK&result=118)
+        * [Catholicism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198796855.001.0001/actrade-9780198796855?rskey=dk5nrK&result=119)
+        * [Causation: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199684434.001.0001/actrade-9780199684434?rskey=dk5nrK&result=120)
+        * [The Cell: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199578757.001.0001/actrade-9780199578757?rskey=dk5nrK&result=121)
+        * [The Celts: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192804181.001.0001/actrade-9780192804181?rskey=dk5nrK&result=122)
+        * [Chaos: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853783.001.0001/actrade-9780192853783?rskey=dk5nrK&result=123)
+        * [Charles Dickens: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198714996.001.0001/actrade-9780198714996?rskey=dk5nrK&result=124)
+        * [Child Psychology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199646593.001.0001/actrade-9780199646593?rskey=dk5nrK&result=125)
+        * [Children's Literature: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199560240.001.0001/actrade-9780199560240?rskey=dk5nrK&result=126)
+        * [Chinese Literature: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195392067.001.0001/actrade-9780195392067?rskey=dk5nrK&result=127)
+        * [Choice Theory: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803030.001.0001/actrade-9780192803030?rskey=dk5nrK&result=128)
+        * [Christian Art: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803283.001.0001/actrade-9780192803283?rskey=dk5nrK&result=129)
+        * [Christian Ethics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199568864.001.0001/actrade-9780199568864?rskey=dk5nrK&result=130)
+        * [Christianity: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199687749.001.0001/actrade-9780199687749?rskey=dk5nrK&result=131)
+        * [Circadian Rhythms: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198717683.001.0001/actrade-9780198717683?rskey=dk5nrK&result=132)
+        * [Citizenship: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802538.001.0001/actrade-9780192802538?rskey=dk5nrK&result=133)
+        * [City Planning: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190944346.001.0001/actrade-9780190944346?rskey=dk5nrK&result=134)
+        * [Civil Engineering: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199578634.001.0001/actrade-9780199578634?rskey=dk5nrK&result=135)
+        * [Classical Literature: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199665457.001.0001/actrade-9780199665457?rskey=dk5nrK&result=136)
+        * [Classical Mythology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192804761.001.0001/actrade-9780192804761?rskey=dk5nrK&result=137)
+        * [Classics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853851.001.0001/actrade-9780192853851?rskey=dk5nrK&result=138)
+        * [Clausewitz: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802576.001.0001/actrade-9780192802576?rskey=dk5nrK&result=139)
+        * [Climate: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199641130.001.0001/actrade-9780199641130?rskey=dk5nrK&result=140)
+        * [Climate Change: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198867869.001.0001/actrade-9780198867869?rskey=dk5nrK&result=141)
+        * [Clinical Psychology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198753896.001.0001/actrade-9780198753896?rskey=dk5nrK&result=142)
+        * [Cognitive Neuroscience: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198786221.001.0001/actrade-9780198786221?rskey=dk5nrK&result=143)
+        * [The Cold War: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198859543.001.0001/actrade-9780198859543?rskey=dk5nrK&result=144)
+        * [Colonial America: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199766239.001.0001/actrade-9780199766239?rskey=dk5nrK&result=145)
+        * [Colonial Latin American Literature: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199755028.001.0001/actrade-9780199755028?rskey=dk5nrK&result=146)
+        * [Combinatorics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198723493.001.0001/actrade-9780198723493?rskey=dk5nrK&result=147)
+        * [Comedy: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199601714.001.0001/actrade-9780199601714?rskey=dk5nrK&result=148)
+        * [Communism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199551545.001.0001/actrade-9780199551545?rskey=dk5nrK&result=149)
+        * [Comparative Literature: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198807278.001.0001/actrade-9780198807278?rskey=dk5nrK&result=150)
+        * [Competition and Antitrust Law: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198860303.001.0001/actrade-9780198860303?rskey=jYzYeG&result=151)
+        * [Complexity: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199662548.001.0001/actrade-9780199662548?rskey=jYzYeG&result=152)
+        * [The Computer: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199586592.001.0001/actrade-9780199586592?rskey=jYzYeG&result=153)
+        * [Computer Science: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198733461.001.0001/actrade-9780198733461?rskey=jYzYeG&result=154)
+        * [Concentration Camps: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198723387.001.0001/actrade-9780198723387?rskey=jYzYeG&result=155)
+        * [Confucianism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195398915.001.0001/actrade-9780195398915?rskey=jYzYeG&result=156)
+        * [The Conquistadors: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195392296.001.0001/actrade-9780195392296?rskey=jYzYeG&result=157)
+        * [Conscience: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199569694.001.0001/actrade-9780199569694?rskey=jYzYeG&result=158)
+        * [Consciousness: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198794738.001.0001/actrade-9780198794738?rskey=jYzYeG&result=159)
+        * [Contemporary Art: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198826620.001.0001/actrade-9780198826620?rskey=jYzYeG&result=160)
+        * [Contemporary Fiction: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199609260.001.0001/actrade-9780199609260?rskey=jYzYeG&result=161)
+        * [Continental Philosophy: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853592.001.0001/actrade-9780192853592?rskey=jYzYeG&result=162)
+        * [Copernicus: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199330966.001.0001/actrade-9780199330966?rskey=jYzYeG&result=163)
+        * [Coral Reefs: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198869825.001.0001/actrade-9780198869825?rskey=jYzYeG&result=164)
+        * [Corporate Social Responsibility: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199671816.001.0001/actrade-9780199671816?rskey=jYzYeG&result=165)
+        * [Corruption: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199689699.001.0001/actrade-9780199689699?rskey=jYzYeG&result=166)
+        * [Cosmology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854162.001.0001/actrade-9780192854162?rskey=jYzYeG&result=167)
+        * [Country Music: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190902841.001.0001/actrade-9780190902841?rskey=jYzYeG&result=168)
+        * [Creativity: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198842996.001.0001/actrade-9780198842996?rskey=jYzYeG&result=169)
+        * [Crime Fiction: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199658787.001.0001/actrade-9780199658787?rskey=jYzYeG&result=170)
+        * [Criminal Justice: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198716495.001.0001/actrade-9780198716495?rskey=jYzYeG&result=171)
+        * [Criminology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199643257.001.0001/actrade-9780199643257?rskey=jYzYeG&result=172)
+        * [Critical Theory: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190692674.001.0001/actrade-9780190692674?rskey=jYzYeG&result=173)
+        * [The Crusades: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192806550.001.0001/actrade-9780192806550?rskey=jYzYeG&result=174)
+        * [Cryptography: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803153.001.0001/actrade-9780192803153?rskey=jYzYeG&result=175)
+        * [Crystallography: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198717591.001.0001/actrade-9780198717591?rskey=jYzYeG&result=176)
+        * [The Cultural Revolution: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199740550.001.0001/actrade-9780199740550?rskey=jYzYeG&result=177)
+        * [Dada and Surrealism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802545.001.0001/actrade-9780192802545?rskey=jYzYeG&result=178)
+        * [Dante: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199684779.001.0001/actrade-9780199684779?rskey=jYzYeG&result=179)
+        * [Darwin: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854544.001.0001/actrade-9780192854544?rskey=jYzYeG&result=180)
+        * [The Dead Sea Scrolls: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198779520.001.0001/actrade-9780198779520?rskey=jYzYeG&result=181)
+        * [Decadence: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190610227.001.0001/actrade-9780190610227?rskey=jYzYeG&result=182)
+        * [Decolonization: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199340491.001.0001/actrade-9780199340491?rskey=jYzYeG&result=183)
+        * [Dementia: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198825784.001.0001/actrade-9780198825784?rskey=jYzYeG&result=184)
+        * [Democracy: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802507.001.0001/actrade-9780192802507?rskey=jYzYeG&result=185)
+        * [Demography: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198725732.001.0001/actrade-9780198725732?rskey=jYzYeG&result=186)
+        * [Depression: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199558650.001.0001/actrade-9780199558650?rskey=jYzYeG&result=187)
+        * [Derrida: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803450.001.0001/actrade-9780192803450?rskey=jYzYeG&result=188)
+        * [Descartes: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854094.001.0001/actrade-9780192854094?rskey=jYzYeG&result=189)
+        * [Deserts: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199564309.001.0001/actrade-9780199564309?rskey=jYzYeG&result=190)
+        * [Design: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854469.001.0001/actrade-9780192854469?rskey=jYzYeG&result=191)
+        * [Development: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198736257.001.0001/actrade-9780198736257?rskey=jYzYeG&result=192)
+        * [Developmental Biology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199601196.001.0001/actrade-9780199601196?rskey=jYzYeG&result=193)
+        * [The Devil: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199580996.001.0001/actrade-9780199580996?rskey=jYzYeG&result=194)
+        * [Diaspora: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199858583.001.0001/actrade-9780199858583?rskey=jYzYeG&result=195)
+        * [Dictionaries: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199573790.001.0001/actrade-9780199573790?rskey=jYzYeG&result=196)
+        * [Dinosaurs: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198795926.001.0001/actrade-9780198795926?rskey=jYzYeG&result=197)
+        * [Diplomatic History: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192893918.001.0001/actrade-9780192893918?rskey=jYzYeG&result=198)
+        * [Documentary Film: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195182705.001.0001/actrade-9780195182705?rskey=jYzYeG&result=199)
+        * [Dreaming: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802156.001.0001/actrade-9780192802156?rskey=jYzYeG&result=200)
+        * [Drugs: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198745792.001.0001/actrade-9780198745792?rskey=aDzCid&result=201)
+        * [Druids: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199539406.001.0001/actrade-9780199539406?rskey=aDzCid&result=202)
+        * [Dynasty: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198809081.001.0001/actrade-9780198809081?rskey=aDzCid&result=203)
+        * [Dyslexia: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198818304.001.0001/actrade-9780198818304?rskey=aDzCid&result=204)
+        * [Early Music: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199730766.001.0001/actrade-9780199730766?rskey=aDzCid&result=205)
+        * [The Earth: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803078.001.0001/actrade-9780192803078?rskey=aDzCid&result=206)
+        * [Earth System Science: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198718871.001.0001/actrade-9780198718871?rskey=aDzCid&result=207)
+        * [Ecology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198831013.001.0001/actrade-9780198831013?rskey=aDzCid&result=208)
+        * [Economics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853455.001.0001/actrade-9780192853455?rskey=aDzCid&result=209)
+        * [Education: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198859086.001.0001/actrade-9780198859086?rskey=aDzCid&result=210)
+        * [Egyptian Myth: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803467.001.0001/actrade-9780192803467?rskey=aDzCid&result=211)
+        * [Eighteenth-Century Britain: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853998.001.0001/actrade-9780192853998?rskey=aDzCid&result=212)
+        * [The Elements: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192840998.001.0001/actrade-9780192840998?rskey=aDzCid&result=213)
+        * [Émile Zola: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198837565.001.0001/actrade-9780198837565?rskey=aDzCid&result=214)
+        * [Emotion: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198834403.001.0001/actrade-9780198834403?rskey=aDzCid&result=215)
+        * [Empire: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802231.001.0001/actrade-9780192802231?rskey=aDzCid&result=216)
+        * [Energy Systems: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198813927.001.0001/actrade-9780198813927?rskey=aDzCid&result=217)
+        * [Engels: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192804662.001.0001/actrade-9780192804662?rskey=aDzCid&result=218)
+        * [Engineering: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199578696.001.0001/actrade-9780199578696?rskey=aDzCid&result=219)
+        * [The English Language: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198709251.001.0001/actrade-9780198709251?rskey=aDzCid&result=220)
+        * [English Literature: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199569267.001.0001/actrade-9780199569267?rskey=aDzCid&result=221)
+        * [The Enlightenment: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199591787.001.0001/actrade-9780199591787?rskey=aDzCid&result=222)
+        * [Entrepreneurship: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199670543.001.0001/actrade-9780199670543?rskey=aDzCid&result=223)
+        * [Environmental Economics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199583584.001.0001/actrade-9780199583584?rskey=aDzCid&result=224)
+        * [Environmental Ethics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198797166.001.0001/actrade-9780198797166?rskey=aDzCid&result=225)
+        * [Environmental Law: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198794189.001.0001/actrade-9780198794189?rskey=aDzCid&result=226)
+        * [Environmental Politics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199665570.001.0001/actrade-9780199665570?rskey=aDzCid&result=227)
+        * [Enzymes: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198824985.001.0001/actrade-9780198824985?rskey=aDzCid&result=228)
+        * [Epicureanism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199688326.001.0001/actrade-9780199688326?rskey=aDzCid&result=229)
+        * [Epidemiology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199543335.001.0001/actrade-9780199543335?rskey=aDzCid&result=230)
+        * [Ethics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198868101.001.0001/actrade-9780198868101?rskey=aDzCid&result=231)
+        * [Ethnomusicology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199794379.001.0001/actrade-9780199794379?rskey=aDzCid&result=232)
+        * [The Etruscans: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199547913.001.0001/actrade-9780199547913?rskey=aDzCid&result=233)
+        * [Eugenics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199385904.001.0001/actrade-9780199385904?rskey=aDzCid&result=234)
+        * [The European Union: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198808855.001.0001/actrade-9780198808855?rskey=aDzCid&result=235)
+        * [European Union Law: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198749981.001.0001/actrade-9780198749981?rskey=aDzCid&result=236)
+        * [Evolution: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198804369.001.0001/actrade-9780198804369?rskey=aDzCid&result=237)
+        * [Existentialism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192804280.001.0001/actrade-9780192804280?rskey=aDzCid&result=238)
+        * [Exploration: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199946952.001.0001/actrade-9780199946952?rskey=aDzCid&result=239)
+        * [Extinction: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198807285.001.0001/actrade-9780198807285?rskey=aDzCid&result=240)
+        * [The Eye: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199680306.001.0001/actrade-9780199680306?rskey=aDzCid&result=241)
+        * [Fairy Tale: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199532155.001.0001/actrade-9780199532155?rskey=aDzCid&result=242)
+        * [Family Law: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199668526.001.0001/actrade-9780199668526?rskey=aDzCid&result=243)
+        * [Fascism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199685363.001.0001/actrade-9780199685363?rskey=aDzCid&result=244)
+        * [Fashion: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199547906.001.0001/actrade-9780199547906?rskey=aDzCid&result=245)
+        * [Federalism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190900052.001.0001/actrade-9780190900052?rskey=aDzCid&result=246)
+        * [Feminism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192805102.001.0001/actrade-9780192805102?rskey=aDzCid&result=247)
+        * [Film: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803535.001.0001/actrade-9780192803535?rskey=aDzCid&result=248)
+        * [Film Music: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195370874.001.0001/actrade-9780195370874?rskey=aDzCid&result=249)
+        * [Film Noir: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198791744.001.0001/actrade-9780198791744?rskey=aDzCid&result=250)
+        * [Fire: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198830030.001.0001/actrade-9780198830030?rskey=EpM3f0&result=251)
+        * [The First World War: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199205592.001.0001/actrade-9780199205592?rskey=EpM3f0&result=252)
+        * [Folk Music: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195395020.001.0001/actrade-9780195395020?rskey=EpM3f0&result=253)
+        * [Food: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199661084.001.0001/actrade-9780199661084?rskey=EpM3f0&result=254)
+        * [Forensic Psychology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199550203.001.0001/actrade-9780199550203?rskey=EpM3f0&result=255)
+        * [Forensic Science: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198834410.001.0001/actrade-9780198834410?rskey=EpM3f0&result=256)
+        * [Forests: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198706175.001.0001/actrade-9780198706175?rskey=EpM3f0&result=257)
+        * [Fossils: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192805041.001.0001/actrade-9780192805041?rskey=EpM3f0&result=258)
+        * [Foucault: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198830788.001.0001/actrade-9780198830788?rskey=EpM3f0&result=259)
+        * [The Founding Fathers: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190273514.001.0001/actrade-9780190273514?rskey=EpM3f0&result=260)
+        * [Fractals: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199675982.001.0001/actrade-9780199675982?rskey=EpM3f0&result=261)
+        * [Free Speech: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199232352.001.0001/actrade-9780199232352?rskey=EpM3f0&result=262)
+        * [Free Will: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853585.001.0001/actrade-9780192853585?rskey=EpM3f0&result=263)
+        * [Freemasonry: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198796275.001.0001/actrade-9780198796275?rskey=EpM3f0&result=264)
+        * [French Literature: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199568727.001.0001/actrade-9780199568727?rskey=EpM3f0&result=265)
+        * [French Philosophy: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198829171.001.0001/actrade-9780198829171?rskey=EpM3f0&result=266)
+        * [The French Revolution: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198840077.001.0001/actrade-9780198840077?rskey=EpM3f0&result=267)
+        * [Freud: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854551.001.0001/actrade-9780192854551?rskey=EpM3f0&result=268)
+        * [Fundamentalism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199212705.001.0001/actrade-9780199212705?rskey=EpM3f0&result=269)
+        * [Fungi: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199688784.001.0001/actrade-9780199688784?rskey=EpM3f0&result=270)
+        * [The Future: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198735281.001.0001/actrade-9780198735281?rskey=EpM3f0&result=271)
+        * [Galaxies: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199234349.001.0001/actrade-9780199234349?rskey=EpM3f0&result=272)
+        * [Galileo: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854568.001.0001/actrade-9780192854568?rskey=EpM3f0&result=273)
+        * [Game Theory: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199218462.001.0001/actrade-9780199218462?rskey=EpM3f0&result=274)
+        * [Gandhi: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854575.001.0001/actrade-9780192854575?rskey=EpM3f0&result=275)
+        * [Garden History: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199689873.001.0001/actrade-9780199689873?rskey=EpM3f0&result=276)
+        * [Genes: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199676507.001.0001/actrade-9780199676507?rskey=EpM3f0&result=277)
+        * [Genius: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199594405.001.0001/actrade-9780199594405?rskey=EpM3f0&result=278)
+        * [Genomics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198786207.001.0001/actrade-9780198786207?rskey=EpM3f0&result=279)
+        * [Geoffrey Chaucer: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198767718.001.0001/actrade-9780198767718?rskey=EpM3f0&result=280)
+        * [Geography: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199211289.001.0001/actrade-9780199211289?rskey=EpM3f0&result=281)
+        * [Geology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198804451.001.0001/actrade-9780198804451?rskey=EpM3f0&result=282)
+        * [Geophysics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198792956.001.0001/actrade-9780198792956?rskey=EpM3f0&result=283)
+        * [Geopolitics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198830764.001.0001/actrade-9780198830764?rskey=EpM3f0&result=284)
+        * [George Bernard Shaw: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198850090.001.0001/actrade-9780198850090?rskey=EpM3f0&result=285)
+        * [German Literature: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199206599.001.0001/actrade-9780199206599?rskey=EpM3f0&result=286)
+        * [German Philosophy: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199569250.001.0001/actrade-9780199569250?rskey=EpM3f0&result=287)
+        * [The Ghetto: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198809951.001.0001/actrade-9780198809951?rskey=EpM3f0&result=288)
+        * [Glaciation: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198745853.001.0001/actrade-9780198745853?rskey=EpM3f0&result=289)
+        * [Global Economic History: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199596652.001.0001/actrade-9780199596652?rskey=EpM3f0&result=290)
+        * [Global Islam: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190917234.001.0001/actrade-9780190917234?rskey=EpM3f0&result=291)
+        * [Globalization: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198849452.001.0001/actrade-9780198849452?rskey=EpM3f0&result=292)
+        * [God: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198708957.001.0001/actrade-9780198708957?rskey=EpM3f0&result=293)
+        * [Goethe: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199689255.001.0001/actrade-9780199689255?rskey=EpM3f0&result=294)
+        * [The Gothic: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199586790.001.0001/actrade-9780199586790?rskey=EpM3f0&result=295)
+        * [Governance: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199606412.001.0001/actrade-9780199606412?rskey=EpM3f0&result=296)
+        * [Gravity: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198729143.001.0001/actrade-9780198729143?rskey=EpM3f0&result=297)
+        * [The Great Depression and New Deal: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195326345.001.0001/actrade-9780195326345?rskey=EpM3f0&result=298)
+        * [Habeas Corpus: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190918989.001.0001/actrade-9780190918989?rskey=EpM3f0&result=299)
+        * [Habermas: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192840950.001.0001/actrade-9780192840950?rskey=EpM3f0&result=300)
+        * [The Habsburg Empire: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198792963.001.0001/actrade-9780198792963?rskey=vsdzAu&result=301)
+        * [Happiness: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199590605.001.0001/actrade-9780199590605?rskey=vsdzAu&result=302)
+        * [The Harlem Renaissance: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199335558.001.0001/actrade-9780199335558?rskey=vsdzAu&result=303)
+        * [The Hebrew Bible as Literature: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195300079.001.0001/actrade-9780195300079?rskey=vsdzAu&result=304)
+        * [Hegel: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801975.001.0001/actrade-9780192801975?rskey=vsdzAu&result=305)
+        * [Heidegger: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198828662.001.0001/actrade-9780198828662?rskey=vsdzAu&result=306)
+        * [The Hellenistic Age: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198746041.001.0001/actrade-9780198746041?rskey=vsdzAu&result=307)
+        * [Henry James: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190944384.001.0001/actrade-9780190944384?rskey=vsdzAu&result=308)
+        * [Heredity: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198790457.001.0001/actrade-9780198790457?rskey=vsdzAu&result=309)
+        * [Hermeneutics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199685356.001.0001/actrade-9780199685356?rskey=vsdzAu&result=310)
+        * [Herodotus: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199575992.001.0001/actrade-9780199575992?rskey=vsdzAu&result=311)
+        * [Hieroglyphs: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192805027.001.0001/actrade-9780192805027?rskey=vsdzAu&result=312)
+        * [Hinduism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198745549.001.0001/actrade-9780198745549?rskey=vsdzAu&result=313)
+        * [History: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853523.001.0001/actrade-9780192853523?rskey=vsdzAu&result=314)
+        * [The History of Astronomy: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803061.001.0001/actrade-9780192803061?rskey=vsdzAu&result=315)
+        * [The History of Chemistry: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198716488.001.0001/actrade-9780198716488?rskey=vsdzAu&result=316)
+        * [The History of Childhood: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190681388.001.0001/actrade-9780190681388?rskey=vsdzAu&result=317)
+        * [The History of Cinema: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198701774.001.0001/actrade-9780198701774?rskey=vsdzAu&result=318)
+        * [The History of Life: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199226320.001.0001/actrade-9780199226320?rskey=vsdzAu&result=319)
+        * [The History of Mathematics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199599684.001.0001/actrade-9780199599684?rskey=vsdzAu&result=320)
+        * [The History of Medicine: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199215430.001.0001/actrade-9780199215430?rskey=vsdzAu&result=321)
+        * [The History of Physics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199684120.001.0001/actrade-9780199684120?rskey=vsdzAu&result=322)
+        * [The History of Time: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192804990.001.0001/actrade-9780192804990?rskey=vsdzAu&result=323)
+        * [HIV & AIDS: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198727491.001.0001/actrade-9780198727491?rskey=vsdzAu&result=324)
+        * [Hobbes: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802552.001.0001/actrade-9780192802552?rskey=vsdzAu&result=325)
+        * [Hollywood: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199943548.001.0001/actrade-9780199943548?rskey=vsdzAu&result=326)
+        * [The Holy Roman Empire: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198748762.001.0001/actrade-9780198748762?rskey=vsdzAu&result=327)
+        * [Home: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198747239.001.0001/actrade-9780198747239?rskey=vsdzAu&result=328)
+        * [Homer: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199589944.001.0001/actrade-9780199589944?rskey=vsdzAu&result=329)
+        * [Hormones: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199672875.001.0001/actrade-9780199672875?rskey=vsdzAu&result=330)
+        * [Horror: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198755562.001.0001/actrade-9780198755562?rskey=vsdzAu&result=331)
+        * [Human Evolution: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198831747.001.0001/actrade-9780198831747?rskey=vsdzAu&result=332)
+        * [Human Physiology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198869887.001.0001/actrade-9780198869887?rskey=vsdzAu&result=333)
+        * [Human Rights: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198706168.001.0001/actrade-9780198706168?rskey=vsdzAu&result=334)
+        * [Humanism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199553648.001.0001/actrade-9780199553648?rskey=vsdzAu&result=335)
+        * [Hume: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854063.001.0001/actrade-9780192854063?rskey=vsdzAu&result=336)
+        * [Hume: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198849780.001.0001/actrade-9780198849780?rskey=vsdzAu&result=337)
+        * [Humour: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199552221.001.0001/actrade-9780199552221?rskey=vsdzAu&result=338)
+        * [The Ice Age: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199580699.001.0001/actrade-9780199580699?rskey=vsdzAu&result=339)
+        * [Identity: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198828549.001.0001/actrade-9780198828549?rskey=vsdzAu&result=340)
+        * [Ideology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802811.001.0001/actrade-9780192802811?rskey=vsdzAu&result=341)
+        * [The Immune System: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198753902.001.0001/actrade-9780198753902?rskey=vsdzAu&result=342)
+        * [Indian Cinema: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198723097.001.0001/actrade-9780198723097?rskey=vsdzAu&result=343)
+        * [Indian Philosophy: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853745.001.0001/actrade-9780192853745?rskey=vsdzAu&result=344)
+        * [The Industrial Revolution: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198706786.001.0001/actrade-9780198706786?rskey=vsdzAu&result=345)
+        * [Infectious Disease: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199688937.001.0001/actrade-9780199688937?rskey=vsdzAu&result=346)
+        * [Infinity: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198755234.001.0001/actrade-9780198755234?rskey=vsdzAu&result=347)
+        * [Information: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199551378.001.0001/actrade-9780199551378?rskey=vsdzAu&result=348)
+        * [Innovation: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198825043.001.0001/actrade-9780198825043?rskey=vsdzAu&result=349)
+        * [Intellectual Property: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195372779.001.0001/actrade-9780195372779?rskey=vsdzAu&result=350)
+        * [Intelligence: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198796206.001.0001/actrade-9780198796206?rskey=qHxsN4&result=351)
+        * [International Law: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199239337.001.0001/actrade-9780199239337?rskey=qHxsN4&result=352)
+        * [International Migration: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198753773.001.0001/actrade-9780198753773?rskey=qHxsN4&result=353)
+        * [International Relations: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198850212.001.0001/actrade-9780198850212?rskey=qHxsN4&result=354)
+        * [International Relations: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801579.001.0001/actrade-9780192801579?rskey=qHxsN4&result=355)
+        * [International Security: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199668533.001.0001/actrade-9780199668533?rskey=qHxsN4&result=356)
+        * [Iran: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199669349.001.0001/actrade-9780199669349?rskey=qHxsN4&result=357)
+        * [Islam: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199642878.001.0001/actrade-9780199642878?rskey=qHxsN4&result=358)
+        * [Islamic History: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199545728.001.0001/actrade-9780199545728?rskey=qHxsN4&result=359)
+        * [Islamic Law: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199665594.001.0001/actrade-9780199665594?rskey=qHxsN4&result=360)
+        * [Isotopes: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198723622.001.0001/actrade-9780198723622?rskey=qHxsN4&result=361)
+        * [Italian Literature: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199231799.001.0001/actrade-9780199231799?rskey=qHxsN4&result=362)
+        * [James Joyce: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192894472.001.0001/actrade-9780192894472?rskey=qHxsN4&result=363)
+        * [Jesus: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199575275.001.0001/actrade-9780199575275?rskey=qHxsN4&result=364)
+        * [Jewish History: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199730988.001.0001/actrade-9780199730988?rskey=qHxsN4&result=365)
+        * [Jewish Literature: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190076979.001.0001/actrade-9780190076979?rskey=qHxsN4&result=366)
+        * [Journalism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199686872.001.0001/actrade-9780199686872?rskey=qHxsN4&result=367)
+        * [Judaism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199687350.001.0001/actrade-9780199687350?rskey=qHxsN4&result=368)
+        * [Kabbalah: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195327052.001.0001/actrade-9780195327052?rskey=qHxsN4&result=369)
+        * [Kafka: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192804556.001.0001/actrade-9780192804556?rskey=qHxsN4&result=370)
+        * [Kant: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801999.001.0001/actrade-9780192801999?rskey=qHxsN4&result=371)
+        * [Keynes: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199591640.001.0001/actrade-9780199591640?rskey=qHxsN4&result=372)
+        * [Kierkegaard: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802569.001.0001/actrade-9780192802569?rskey=qHxsN4&result=373)
+        * [Knowledge: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199661268.001.0001/actrade-9780199661268?rskey=qHxsN4&result=374)
+        * [The Koran: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853448.001.0001/actrade-9780192853448?rskey=qHxsN4&result=375)
+        * [Korea: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198830771.001.0001/actrade-9780198830771?rskey=qHxsN4&result=376)
+        * [Lakes: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198766735.001.0001/actrade-9780198766735?rskey=qHxsN4&result=377)
+        * [Landscape Architecture: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199681204.001.0001/actrade-9780199681204?rskey=qHxsN4&result=378)
+        * [Landscapes and Geomorphology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199565573.001.0001/actrade-9780199565573?rskey=qHxsN4&result=379)
+        * [Languages: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199590599.001.0001/actrade-9780199590599?rskey=qHxsN4&result=380)
+        * [Late Antiquity: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199546206.001.0001/actrade-9780199546206?rskey=qHxsN4&result=381)
+        * [Law: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198745624.001.0001/actrade-9780198745624?rskey=qHxsN4&result=382)
+        * [The Laws of Thermodynamics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199572199.001.0001/actrade-9780199572199?rskey=qHxsN4&result=383)
+        * [Leadership: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199569915.001.0001/actrade-9780199569915?rskey=qHxsN4&result=384)
+        * [Learning: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199688364.001.0001/actrade-9780199688364?rskey=qHxsN4&result=385)
+        * [Leibniz: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198718642.001.0001/actrade-9780198718642?rskey=qHxsN4&result=386)
+        * [Liberalism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199670437.001.0001/actrade-9780199670437?rskey=qHxsN4&result=387)
+        * [Light: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199682690.001.0001/actrade-9780199682690?rskey=qHxsN4&result=388)
+        * [Lincoln: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195367805.001.0001/actrade-9780195367805?rskey=qHxsN4&result=389)
+        * [Linguistics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801487.001.0001/actrade-9780192801487?rskey=qHxsN4&result=390)
+        * [Literary Theory: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199691340.001.0001/actrade-9780199691340?rskey=qHxsN4&result=391)
+        * [Locke: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803948.001.0001/actrade-9780192803948?rskey=qHxsN4&result=392)
+        * [Logic: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198811701.001.0001/actrade-9780198811701?rskey=qHxsN4&result=393)
+        * [Love: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199663842.001.0001/actrade-9780199663842?rskey=qHxsN4&result=394)
+        * [Machiavelli: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198837572.001.0001/actrade-9780198837572?rskey=qHxsN4&result=395)
+        * [Madness: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199608034.001.0001/actrade-9780199608034?rskey=qHxsN4&result=396)
+        * [Magic: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199588022.001.0001/actrade-9780199588022?rskey=qHxsN4&result=397)
+        * [Magna Carta: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199582877.001.0001/actrade-9780199582877?rskey=qHxsN4&result=398)
+        * [Magnetism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199601202.001.0001/actrade-9780199601202?rskey=qHxsN4&result=399)
+        * [Malthus: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199670413.001.0001/actrade-9780199670413?rskey=qHxsN4&result=400)
+        * [Mammals: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198766940.001.0001/actrade-9780198766940?rskey=SqgY81&result=401)
+        * [Management: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199656981.001.0001/actrade-9780199656981?rskey=SqgY81&result=402)
+        * [Mao: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199588664.001.0001/actrade-9780199588664?rskey=SqgY81&result=403)
+        * [Marine Biology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198841715.001.0001/actrade-9780198841715?rskey=SqgY81&result=404)
+        * [Marketing: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198827337.001.0001/actrade-9780198827337?rskey=SqgY81&result=405)
+        * [The Marquis de Sade: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192804693.001.0001/actrade-9780192804693?rskey=SqgY81&result=406)
+        * [Martin Luther: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199574339.001.0001/actrade-9780199574339?rskey=SqgY81&result=407)
+        * [Martyrdom: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199585236.001.0001/actrade-9780199585236?rskey=SqgY81&result=408)
+        * [Marx: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198821076.001.0001/actrade-9780198821076?rskey=SqgY81&result=409)
+        * [Materials: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199672677.001.0001/actrade-9780199672677?rskey=SqgY81&result=410)
+        * [Mathematical Finance: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198787945.001.0001/actrade-9780198787945?rskey=SqgY81&result=411)
+        * [Mathematics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853615.001.0001/actrade-9780192853615?rskey=SqgY81&result=412)
+        * [Matter: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198806547.001.0001/actrade-9780198806547?rskey=SqgY81&result=413)
+        * [The Maya: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190645021.001.0001/actrade-9780190645021?rskey=SqgY81&result=414)
+        * [The Meaning of Life: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199532179.001.0001/actrade-9780199532179?rskey=SqgY81&result=415)
+        * [Measurement: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198779568.001.0001/actrade-9780198779568?rskey=SqgY81&result=416)
+        * [Medical Ethics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198815600.001.0001/actrade-9780198815600?rskey=SqgY81&result=417)
+        * [Medical Law: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199660445.001.0001/actrade-9780199660445?rskey=SqgY81&result=418)
+        * [Medieval Britain: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854025.001.0001/actrade-9780192854025?rskey=SqgY81&result=419)
+        * [Medieval Literature: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199668496.001.0001/actrade-9780199668496?rskey=SqgY81&result=420)
+        * [Medieval Philosophy: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199663224.001.0001/actrade-9780199663224?rskey=SqgY81&result=421)
+        * [Memory: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192806758.001.0001/actrade-9780192806758?rskey=SqgY81&result=422)
+        * [Metaphysics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199657124.001.0001/actrade-9780199657124?rskey=SqgY81&result=423)
+        * [Methodism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198802310.001.0001/actrade-9780198802310?rskey=SqgY81&result=424)
+        * [The Mexican Revolution: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198745631.001.0001/actrade-9780198745631?rskey=SqgY81&result=425)
+        * [Michael Faraday: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199574315.001.0001/actrade-9780199574315?rskey=SqgY81&result=426)
+        * [Microbiology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199681686.001.0001/actrade-9780199681686?rskey=SqgY81&result=427)
+        * [Microeconomics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199689378.001.0001/actrade-9780199689378?rskey=SqgY81&result=428)
+        * [Microscopy: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198701262.001.0001/actrade-9780198701262?rskey=SqgY81&result=429)
+        * [The Middle Ages: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199697298.001.0001/actrade-9780199697298?rskey=SqgY81&result=430)
+        * [Military Justice: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199303496.001.0001/actrade-9780199303496?rskey=SqgY81&result=431)
+        * [Military Strategy: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199340132.001.0001/actrade-9780199340132?rskey=SqgY81&result=432)
+        * [Minerals: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199682843.001.0001/actrade-9780199682843?rskey=SqgY81&result=433)
+        * [Miracles: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198747215.001.0001/actrade-9780198747215?rskey=SqgY81&result=434)
+        * [Modern Architecture: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198783442.001.0001/actrade-9780198783442?rskey=SqgY81&result=435)
+        * [Modern Art: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803641.001.0001/actrade-9780192803641?rskey=SqgY81&result=436)
+        * [Modern Brazil: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198812081.001.0001/actrade-9780198812081?rskey=SqgY81&result=437)
+        * [Modern China: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198753704.001.0001/actrade-9780198753704?rskey=SqgY81&result=438)
+        * [Modern Drama: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199658770.001.0001/actrade-9780199658770?rskey=SqgY81&result=439)
+        * [Modern France: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195389418.001.0001/actrade-9780195389418?rskey=SqgY81&result=440)
+        * [Modern India: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198769347.001.0001/actrade-9780198769347?rskey=SqgY81&result=441)
+        * [Modern Ireland: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801678.001.0001/actrade-9780192801678?rskey=SqgY81&result=442)
+        * [Modern Italy: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198726517.001.0001/actrade-9780198726517?rskey=SqgY81&result=443)
+        * [Modern Japan: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199235698.001.0001/actrade-9780199235698?rskey=SqgY81&result=444)
+        * [Modern Latin American Literature: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199754915.001.0001/actrade-9780199754915?rskey=SqgY81&result=445)
+        * [Modern War: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199607891.001.0001/actrade-9780199607891?rskey=SqgY81&result=446)
+        * [Modernism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192804419.001.0001/actrade-9780192804419?rskey=SqgY81&result=447)
+        * [Molecular Biology: A Very Short Introd](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198723882.001.0001/actrade-9780198723882?rskey=SqgY81&result=448)uction
+        * [Molecules: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854308.001.0001/actrade-9780192854308?rskey=SqgY81&result=449)
+        * [Monasticism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198717645.001.0001/actrade-9780198717645?rskey=SqgY81&result=450)
+        * [The Mongols: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199840892.001.0001/actrade-9780199840892?rskey=iJXEzP&result=451)
+        * [Montaigne: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190848774.001.0001/actrade-9780190848774?rskey=iJXEzP&result=452)
+        * [Moons: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198735274.001.0001/actrade-9780198735274?rskey=iJXEzP&result=453)
+        * [Mormonism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195310306.001.0001/actrade-9780195310306?rskey=iJXEzP&result=454)
+        * [Mountains: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199695881.001.0001/actrade-9780199695881?rskey=iJXEzP&result=455)
+        * [Muhammad: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199559282.001.0001/actrade-9780199559282?rskey=iJXEzP&result=456)
+        * [Multiculturalism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199546039.001.0001/actrade-9780199546039?rskey=iJXEzP&result=457)
+        * [Multilingualism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198724995.001.0001/actrade-9780198724995?rskey=iJXEzP&result=458)
+        * [Music: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198726043.001.0001/actrade-9780198726043?rskey=iJXEzP&result=459)
+        * [Myth: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198724704.001.0001/actrade-9780198724704?rskey=iJXEzP&result=460)
+        * [Napoleon: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199321667.001.0001/actrade-9780199321667?rskey=iJXEzP&result=461)
+        * [The Napoleonic Wars: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199590964.001.0001/actrade-9780199590964?rskey=iJXEzP&result=462)
+        * [Nationalism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192840981.001.0001/actrade-9780192840981?rskey=iJXEzP&result=463)
+        * [Native American Literature: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199944521.001.0001/actrade-9780199944521?rskey=iJXEzP&result=464)
+        * [Navigation: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198733713.001.0001/actrade-9780198733713?rskey=iJXEzP&result=465)
+        * [Nazi Germany: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198706953.001.0001/actrade-9780198706953?rskey=iJXEzP&result=466)
+        * [Nelson Mandela: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803016.001.0001/actrade-9780192803016?rskey=iJXEzP&result=467)
+        * [Neoliberalism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198849674.001.0001/actrade-9780198849674?rskey=iJXEzP&result=468)
+        * [Networks: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199588077.001.0001/actrade-9780199588077?rskey=iJXEzP&result=469)
+        * [The New Testament: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199735709.001.0001/actrade-9780199735709?rskey=iJXEzP&result=470)
+        * [The New Testament As Literature: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195300208.001.0001/actrade-9780195300208?rskey=iJXEzP&result=471)
+        * [Newton: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199298037.001.0001/actrade-9780199298037?rskey=iJXEzP&result=472)
+        * [Nietzsche: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854148.001.0001/actrade-9780192854148?rskey=iJXEzP&result=473)
+        * [Nineteenth-Century Britain: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853981.001.0001/actrade-9780192853981?rskey=iJXEzP&result=474)
+        * [The Norman Conquest: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801616.001.0001/actrade-9780192801616?rskey=iJXEzP&result=475)
+        * [North American Indians: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195307542.001.0001/actrade-9780195307542?rskey=iJXEzP&result=476)
+        * [Northern Ireland: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198825005.001.0001/actrade-9780198825005?rskey=iJXEzP&result=477)
+        * [Nothing: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199225866.001.0001/actrade-9780199225866?rskey=iJXEzP&result=478)
+        * [Nuclear Physics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198718635.001.0001/actrade-9780198718635?rskey=iJXEzP&result=479)
+        * [Nuclear Power: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199584970.001.0001/actrade-9780199584970?rskey=iJXEzP&result=480)
+        * [Nuclear Weapons: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198860532.001.0001/actrade-9780198860532?rskey=iJXEzP&result=481)
+        * [Number Theory: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198798095.001.0001/actrade-9780198798095?rskey=iJXEzP&result=482)
+        * [Numbers: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199584055.001.0001/actrade-9780199584055?rskey=iJXEzP&result=483)
+        * [Nutrition: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199681921.001.0001/actrade-9780199681921?rskey=iJXEzP&result=484)
+        * [Objectivity: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199606696.001.0001/actrade-9780199606696?rskey=iJXEzP&result=485)
+        * [Oceans: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199655076.001.0001/actrade-9780199655076?rskey=iJXEzP&result=486)
+        * [The Old Testament: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195305050.001.0001/actrade-9780195305050?rskey=iJXEzP&result=487)
+        * [The Orchestra: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199760282.001.0001/actrade-9780199760282?rskey=iJXEzP&result=488)
+        * [Organic Chemistry: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198759775.001.0001/actrade-9780198759775?rskey=iJXEzP&result=489)
+        * [Organizations: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199584536.001.0001/actrade-9780199584536?rskey=iJXEzP&result=490)
+        * [Organized Crime: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198795544.001.0001/actrade-9780198795544?rskey=iJXEzP&result=491)
+        * [Orthodox Christianity: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190883270.001.0001/actrade-9780190883270?rskey=iJXEzP&result=492)
+        * [Ovid: A Very Short Introd](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198837688.001.0001/actrade-9780198837688?rskey=iJXEzP&result=493)uction
+        * [Paganism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199235162.001.0001/actrade-9780199235162?rskey=iJXEzP&result=494)
+        * [Pain: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198738565.001.0001/actrade-9780198738565?rskey=iJXEzP&result=495)
+        * [The Palestinian-Israeli Conflict: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199603930.001.0001/actrade-9780199603930?rskey=iJXEzP&result=496)
+        * [Pandemics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199340071.001.0001/actrade-9780199340071?rskey=iJXEzP&result=497)
+        * [Particle Physics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192804341.001.0001/actrade-9780192804341?rskey=iJXEzP&result=498)
+        * [Paul: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854513.001.0001/actrade-9780192854513?rskey=iJXEzP&result=499)
+        * [Peace: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199656004.001.0001/actrade-9780199656004?rskey=iJXEzP&result=500)
+        * [Pentecostalism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199575152.001.0001/actrade-9780199575152?rskey=tQpn5y&result=501)
+        * [Perception: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198791003.001.0001/actrade-9780198791003?rskey=tQpn5y&result=502)
+        * [The Periodic Table: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198842323.001.0001/actrade-9780198842323?rskey=tQpn5y&result=503)
+        * [Philosophical Method: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198810001.001.0001/actrade-9780198810001?rskey=tQpn5y&result=504)
+        * [Philosophy: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198861775.001.0001/actrade-9780198861775?rskey=tQpn5y&result=505)
+        * [Philosophy in the Islamic World: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199683673.001.0001/actrade-9780199683673?rskey=tQpn5y&result=506)
+        * [Philosophy of Biology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198806998.001.0001/actrade-9780198806998?rskey=tQpn5y&result=507)
+        * [Philosophy of Law: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199687008.001.0001/actrade-9780199687008?rskey=tQpn5y&result=508)
+        * [Philosophy of Physics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198814320.001.0001/actrade-9780198814320?rskey=tQpn5y&result=509)
+        * [Philosophy of Religion: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198754961.001.0001/actrade-9780198754961?rskey=tQpn5y&result=510)
+        * [Philosophy of Science: Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198745587.001.0001/actrade-9780198745587?rskey=tQpn5y&result=511)
+        * [Photography: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801647.001.0001/actrade-9780192801647?rskey=tQpn5y&result=512)
+        * [Physical Chemistry: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199689095.001.0001/actrade-9780199689095?rskey=tQpn5y&result=513)
+        * [Physics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198813941.001.0001/actrade-9780198813941?rskey=tQpn5y&result=514)
+        * [Pilgrimage: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198718222.001.0001/actrade-9780198718222?rskey=tQpn5y&result=515)
+        * [Plague: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198871118.001.0001/actrade-9780198871118?rskey=tQpn5y&result=516)
+        * [Planets: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199573509.001.0001/actrade-9780199573509?rskey=tQpn5y&result=517)
+        * [Plants: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199584062.001.0001/actrade-9780199584062?rskey=tQpn5y&result=518)
+        * [Plate Tectonics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198728269.001.0001/actrade-9780198728269?rskey=tQpn5y&result=519)
+        * [Plato: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802163.001.0001/actrade-9780192802163?rskey=tQpn5y&result=520)
+        * [Poetry: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199229116.001.0001/actrade-9780199229116?rskey=tQpn5y&result=521)
+        * [Political Philosophy: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803955.001.0001/actrade-9780192803955?rskey=tQpn5y&result=522)
+        * [Politics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853882.001.0001/actrade-9780192853882?rskey=tQpn5y&result=523)
+        * [Populism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190234874.001.0001/actrade-9780190234874?rskey=tQpn5y&result=524)
+        * [Postcolonialism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198856832.001.0001/actrade-9780198856832?rskey=tQpn5y&result=525)
+        * [Postmodernism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802392.001.0001/actrade-9780192802392?rskey=tQpn5y&result=526)
+        * [Poststructuralism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801807.001.0001/actrade-9780192801807?rskey=tQpn5y&result=527)
+        * [Poverty: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198716471.001.0001/actrade-9780198716471?rskey=tQpn5y&result=528)
+        * [Prehistory: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198803515.001.0001/actrade-9780198803515?rskey=tQpn5y&result=529)
+        * [Presocratic Philosophy: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192840943.001.0001/actrade-9780192840943?rskey=tQpn5y&result=530)
+        * [Privacy: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198725947.001.0001/actrade-9780198725947?rskey=tQpn5y&result=531)
+        * [Probability: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199588480.001.0001/actrade-9780199588480?rskey=tQpn5y&result=532)
+        * [Progressivism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195311068.001.0001/actrade-9780195311068?rskey=tQpn5y&result=533)
+        * [Prohibition: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190280109.001.0001/actrade-9780190280109?rskey=tQpn5y&result=534)
+        * [Projects: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198727668.001.0001/actrade-9780198727668?rskey=tQpn5y&result=535)
+        * [Protestantism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199560974.001.0001/actrade-9780199560974?rskey=tQpn5y&result=536)
+        * [Psychiatry: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198826200.001.0001/actrade-9780198826200?rskey=tQpn5y&result=537)
+        * [Psychoanalysis: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199226818.001.0001/actrade-9780199226818?rskey=tQpn5y&result=538)
+        * [Psychology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199670420.001.0001/actrade-9780199670420?rskey=tQpn5y&result=539)
+        * [The Psychology of Music: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190640156.001.0001/actrade-9780190640156?rskey=tQpn5y&result=540)
+        * [Psychopathy: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198802266.001.0001/actrade-9780198802266?rskey=tQpn5y&result=541)
+        * [Psychotherapy: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199689361.001.0001/actrade-9780199689361?rskey=tQpn5y&result=542)
+        * [Public Administration: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198724230.001.0001/actrade-9780198724230?rskey=tQpn5y&result=543)
+        * [Public Health: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199688463.001.0001/actrade-9780199688463?rskey=tQpn5y&result=544)
+        * [Puritanism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195334555.001.0001/actrade-9780195334555?rskey=tQpn5y&result=545)
+        * [The Quakers: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199206797.001.0001/actrade-9780199206797?rskey=tQpn5y&result=546)
+        * [Quantum Theory: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802521.001.0001/actrade-9780192802521?rskey=tQpn5y&result=547)
+        * [Racism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198834793.001.0001/actrade-9780198834793?rskey=tQpn5y&result=548)
+        * [Radioactivity: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199692422.001.0001/actrade-9780199692422?rskey=tQpn5y&result=549)
+        * [Rastafari: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199584529.001.0001/actrade-9780199584529?rskey=tQpn5y&result=550)
+        * [Reading: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198820581.001.0001/actrade-9780198820581?rskey=R65Itj&result=551)
+        * [The Reagan Revolution: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195317107.001.0001/actrade-9780195317107?rskey=R65Itj&result=552)
+        * [Reality: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199594412.001.0001/actrade-9780199594412?rskey=R65Itj&result=553)
+        * [Reconstruction: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190454791.001.0001/actrade-9780190454791?rskey=R65Itj&result=554)
+        * [The Reformation: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199231317.001.0001/actrade-9780199231317?rskey=R65Itj&result=555)
+        * [Refugees: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198811787.001.0001/actrade-9780198811787?rskey=R65Itj&result=556)
+        * [Relativity: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199236220.001.0001/actrade-9780199236220?rskey=R65Itj&result=557)
+        * [Religion: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190064679.001.0001/actrade-9780190064679?rskey=R65Itj&result=558)
+        * [Religion in America: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195321074.001.0001/actrade-9780195321074?rskey=R65Itj&result=559)
+        * [The Renaissance: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801630.001.0001/actrade-9780192801630?rskey=R65Itj&result=560)
+        * [Renaissance Art: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803542.001.0001/actrade-9780192803542?rskey=R65Itj&result=561)
+        * [Renewable Energy: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198825401.001.0001/actrade-9780198825401?rskey=R65Itj&result=562)
+        * [Reptiles: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198806417.001.0001/actrade-9780198806417?rskey=R65Itj&result=563)
+        * [Revolutions: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199858507.001.0001/actrade-9780199858507?rskey=R65Itj&result=564)
+        * [Rhetoric: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199651368.001.0001/actrade-9780199651368?rskey=R65Itj&result=565)
+        * [Risk: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199576203.001.0001/actrade-9780199576203?rskey=R65Itj&result=566)
+        * [Ritual: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199943524.001.0001/actrade-9780199943524?rskey=R65Itj&result=567)
+        * [Rivers: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199588671.001.0001/actrade-9780199588671?rskey=R65Itj&result=568)
+        * [Robotics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199695980.001.0001/actrade-9780199695980?rskey=R65Itj&result=569)
+        * [Rocks: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198725190.001.0001/actrade-9780198725190?rskey=R65Itj&result=570)
+        * [Roman Britain: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198712169.001.0001/actrade-9780198712169?rskey=R65Itj&result=571)
+        * [The Roman Empire: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803917.001.0001/actrade-9780192803917?rskey=R65Itj&result=572)
+        * [The Roman Republic: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199595112.001.0001/actrade-9780199595112?rskey=R65Itj&result=573)
+        * [Romanticism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199568918.001.0001/actrade-9780199568918?rskey=R65Itj&result=574)
+        * [Rousseau: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801982.001.0001/actrade-9780192801982?rskey=R65Itj&result=575)
+        * [Russell: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802583.001.0001/actrade-9780192802583?rskey=R65Itj&result=576)
+        * [The Russian Economy: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198848905.001.0001/actrade-9780198848905?rskey=R65Itj&result=577)
+        * [Russian History: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199580989.001.0001/actrade-9780199580989?rskey=R65Itj&result=578)
+        * [Russian Literature: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192801449.001.0001/actrade-9780192801449?rskey=R65Itj&result=579)
+        * [The Russian Revolution: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853950.001.0001/actrade-9780192853950?rskey=R65Itj&result=580)
+        * [Saints: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199676514.001.0001/actrade-9780199676514?rskey=R65Itj&result=581)
+        * [Samurai: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190685072.001.0001/actrade-9780190685072?rskey=R65Itj&result=582)
+        * [Savannas: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198717225.001.0001/actrade-9780198717225?rskey=R65Itj&result=583)
+        * [Scepticism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198829164.001.0001/actrade-9780198829164?rskey=R65Itj&result=584)
+        * [Schizophrenia: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802217.001.0001/actrade-9780192802217?rskey=R65Itj&result=585)
+        * [Schopenhauer: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802590.001.0001/actrade-9780192802590?rskey=R65Itj&result=586)
+        * [Science and Religion: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199295517.001.0001/actrade-9780199295517?rskey=R65Itj&result=587)
+        * [Science Fiction: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199557455.001.0001/actrade-9780199557455?rskey=R65Itj&result=588)
+        * [The Scientific Revolution: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199567416.001.0001/actrade-9780199567416?rskey=R65Itj&result=589)
+        * [Scotland: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199230792.001.0001/actrade-9780199230792?rskey=R65Itj&result=590)
+        * [Secularism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198747222.001.0001/actrade-9780198747222?rskey=R65Itj&result=591)
+        * [Sexual Selection: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198778752.001.0001/actrade-9780198778752?rskey=R65Itj&result=592)
+        * [Sexuality: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199298020.001.0001/actrade-9780199298020?rskey=R65Itj&result=593)
+        * [Shakespeare's Comedies: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198723356.001.0001/actrade-9780198723356?rskey=R65Itj&result=594)
+        * [Shakespeare's Sonnets and Poems: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198717577.001.0001/actrade-9780198717577?rskey=R65Itj&result=595)
+        * [Shakespeare's Tragedies: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198785293.001.0001/actrade-9780198785293?rskey=R65Itj&result=596)
+        * [Sikhism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198745570.001.0001/actrade-9780198745570?rskey=R65Itj&result=597)
+        * [Silent Film: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190852528.001.0001/actrade-9780190852528?rskey=R65Itj&result=598)
+        * [The Silk Road: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199782864.001.0001/actrade-9780199782864?rskey=R65Itj&result=599)
+        * [Slang: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198729532.001.0001/actrade-9780198729532?rskey=R65Itj&result=600)
+        * [Sleep: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199587858.001.0001/actrade-9780199587858?rskey=gLNuxo&result=601)
+        * [Smell: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198825258.001.0001/actrade-9780198825258?rskey=gLNuxo&result=602)
+        * [Social and Cultural Anthropology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853462.001.0001/actrade-9780192853462?rskey=gLNuxo&result=603)
+        * [Social Psychology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198715511.001.0001/actrade-9780198715511?rskey=gLNuxo&result=604)
+        * [Social Work: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198708452.001.0001/actrade-9780198708452?rskey=gLNuxo&result=605)
+        * [Socialism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198836421.001.0001/actrade-9780198836421?rskey=gLNuxo&result=606)
+        * [Sociolinguistics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199858613.001.0001/actrade-9780199858613?rskey=gLNuxo&result=607)
+        * [Sociology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198822967.001.0001/actrade-9780198822967?rskey=gLNuxo&result=608)
+        * [Socrates: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198835981.001.0001/actrade-9780198835981?rskey=gLNuxo&result=609)
+        * [Soft Matter: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198807131.001.0001/actrade-9780198807131?rskey=gLNuxo&result=610)
+        * [Sound: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198708445.001.0001/actrade-9780198708445?rskey=gLNuxo&result=611)
+        * [Southeast Asia: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190248765.001.0001/actrade-9780190248765?rskey=gLNuxo&result=612)
+        * [The Soviet Union: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199238484.001.0001/actrade-9780199238484?rskey=gLNuxo&result=613)
+        * [The Spanish Civil War: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803771.001.0001/actrade-9780192803771?rskey=gLNuxo&result=614)
+        * [Spanish Literature: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199208050.001.0001/actrade-9780199208050?rskey=gLNuxo&result=615)
+        * [Spinoza: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803160.001.0001/actrade-9780192803160?rskey=gLNuxo&result=616)
+        * [Spirituality: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199588756.001.0001/actrade-9780199588756?rskey=gLNuxo&result=617)
+        * [Sport: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199688340.001.0001/actrade-9780199688340?rskey=gLNuxo&result=618)
+        * [Stars: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199602926.001.0001/actrade-9780199602926?rskey=gLNuxo&result=619)
+        * [Statistics: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199233564.001.0001/actrade-9780199233564?rskey=gLNuxo&result=620)
+        * [Stem Cells: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198869290.001.0001/actrade-9780198869290?rskey=gLNuxo&result=621)
+        * [Stoicism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198786665.001.0001/actrade-9780198786665?rskey=gLNuxo&result=622)
+        * [Structural Engineering: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199671939.001.0001/actrade-9780199671939?rskey=gLNuxo&result=623)
+        * [Stuart Britain: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854001.001.0001/actrade-9780192854001?rskey=gLNuxo&result=624)
+        * [The Sun: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198832690.001.0001/actrade-9780198832690?rskey=gLNuxo&result=625)
+        * [Superconductivity: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199540907.001.0001/actrade-9780199540907?rskey=gLNuxo&result=626)
+        * [Superstition: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198819257.001.0001/actrade-9780198819257?rskey=gLNuxo&result=627)
+        * [Symmetry: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199651986.001.0001/actrade-9780199651986?rskey=gLNuxo&result=628)
+        * [Synaesthesia: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198749219.001.0001/actrade-9780198749219?rskey=gLNuxo&result=629)
+        * [Synthetic Biology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198803492.001.0001/actrade-9780198803492?rskey=gLNuxo&result=630)
+        * [Systems Biology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198828372.001.0001/actrade-9780198828372?rskey=gLNuxo&result=631)
+        * [Taxation: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199683697.001.0001/actrade-9780199683697?rskey=gLNuxo&result=632)
+        * [Teeth: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199670598.001.0001/actrade-9780199670598?rskey=gLNuxo&result=633)
+        * [Telescopes: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198745860.001.0001/actrade-9780198745860?rskey=gLNuxo&result=634)
+        * [Terrorism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198809098.001.0001/actrade-9780198809098?rskey=gLNuxo&result=635)
+        * [Theatre: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199669820.001.0001/actrade-9780199669820?rskey=gLNuxo&result=636)
+        * [Theology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199679973.001.0001/actrade-9780199679973?rskey=gLNuxo&result=637)
+        * [Thinking and Reasoning: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198787259.001.0001/actrade-9780198787259?rskey=gLNuxo&result=638)
+        * [Thought: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199601721.001.0001/actrade-9780199601721?rskey=gLNuxo&result=639)
+        * [Tibetan Buddhism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199735129.001.0001/actrade-9780199735129?rskey=gLNuxo&result=640)
+        * [Tides: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198826637.001.0001/actrade-9780198826637?rskey=gLNuxo&result=641)
+        * [Time: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198832669.001.0001/actrade-9780198832669?rskey=gLNuxo&result=642)
+        * [Tocqueville: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195175394.001.0001/actrade-9780195175394?rskey=gLNuxo&result=643)
+        * [Leo Tolstoy: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198813934.001.0001/actrade-9780198813934?rskey=gLNuxo&result=644)
+        * [Topology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198832683.001.0001/actrade-9780198832683?rskey=gLNuxo&result=645)
+        * [Tragedy: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192802354.001.0001/actrade-9780192802354?rskey=gLNuxo&result=646)
+        * [Translation: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198712114.001.0001/actrade-9780198712114?rskey=gLNuxo&result=647)
+        * [The Treaty of Versailles: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190644987.001.0001/actrade-9780190644987?rskey=gLNuxo&result=648)
+        * [Trigonometry: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198814313.001.0001/actrade-9780198814313?rskey=gLNuxo&result=649)
+        * [The Trojan War: A Very Short](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199760275.001.0001/actrade-9780199760275?rskey=gLNuxo&result=650)
+        * [Trust: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199697342.001.0001/actrade-9780199697342?rskey=Vsh5u4&result=651)
+        * [Twentieth-Century Britain: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192853974.001.0001/actrade-9780192853974?rskey=Vsh5u4&result=652)
+        * [Typography: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199211296.001.0001/actrade-9780199211296?rskey=Vsh5u4&result=653)
+        * [The U.S. Civil War: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780197513668.001.0001/actrade-9780197513668?rskey=Vsh5u4&result=654)
+        * [The U.S. Congress: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190280147.001.0001/actrade-9780190280147?rskey=Vsh5u4&result=655)
+        * [The U.S. Constitution: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780195378320.001.0001/actrade-9780195378320?rskey=Vsh5u4&result=656)
+        * [The U.S. Supreme Court: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190079819.001.0001/actrade-9780190079819?rskey=Vsh5u4&result=657)
+        * [The United Nations: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190222703.001.0001/actrade-9780190222703?rskey=Vsh5u4&result=658)
+        * [Universities and Colleges: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198766131.001.0001/actrade-9780198766131?rskey=Vsh5u4&result=659)
+        * [Chemistry: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199683970.001.0001/actrade-9780199683970?rskey=Vsh5u4&result=660)
+        * [Human Anatomy: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198707370.001.0001/actrade-9780198707370?rskey=Vsh5u4&result=661)
+        * [American Political History: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199340057.001.0001/actrade-9780199340057?rskey=Vsh5u4&result=662)
+        * [Utilitarianism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198728795.001.0001/actrade-9780198728795?rskey=Vsh5u4&result=663)
+        * [Utopianism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199573400.001.0001/actrade-9780199573400?rskey=Vsh5u4&result=664)
+        * [Veterinary Science: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198790969.001.0001/actrade-9780198790969?rskey=Vsh5u4&result=665)
+        * [The Vikings: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192806079.001.0001/actrade-9780192806079?rskey=Vsh5u4&result=666)
+        * [The Virtues: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198845379.001.0001/actrade-9780198845379?rskey=Vsh5u4&result=667)
+        * [Viruses: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198811718.001.0001/actrade-9780198811718?rskey=Vsh5u4&result=668)
+        * [Volcanoes: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199582204.001.0001/actrade-9780199582204?rskey=Vsh5u4&result=669)
+        * [Voltaire: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199688357.001.0001/actrade-9780199688357?rskey=Vsh5u4&result=670)
+        * [War and Religion: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198803218.001.0001/actrade-9780198803218?rskey=Vsh5u4&result=671)
+        * [War and Technology: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190605384.001.0001/actrade-9780190605384?rskey=Vsh5u4&result=672)
+        * [Water: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198708728.001.0001/actrade-9780198708728?rskey=Vsh5u4&result=673)
+        * [Waves: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198803782.001.0001/actrade-9780198803782?rskey=Vsh5u4&result=674)
+        * [Weather: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199571314.001.0001/actrade-9780199571314?rskey=Vsh5u4&result=675)
+        * [The Welfare State: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199672660.001.0001/actrade-9780199672660?rskey=Vsh5u4&result=676)
+        * [William Shakespeare: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198718628.001.0001/actrade-9780198718628?rskey=Vsh5u4&result=677)
+        * [Witchcraft: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199236954.001.0001/actrade-9780199236954?rskey=Vsh5u4&result=678)
+        * [Wittgenstein: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192854117.001.0001/actrade-9780192854117?rskey=Vsh5u4&result=679)
+        * [Work: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199699360.001.0001/actrade-9780199699360?rskey=Vsh5u4&result=680)
+        * [World Music: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780198829140.001.0001/actrade-9780198829140?rskey=Vsh5u4&result=681)
+        * [The World Trade Organization: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780192806086.001.0001/actrade-9780192806086?rskey=Vsh5u4&result=682)
+        * [World War II: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199688777.001.0001/actrade-9780199688777?rskey=Vsh5u4&result=683)
+        * [Writing and Script: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199567782.001.0001/actrade-9780199567782?rskey=Vsh5u4&result=684)
+        * [Zionism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199766048.001.0001/actrade-9780199766048?rskey=Vsh5u4&result=685)
     
 - Lectura de noticias
     - 0
         
-        [ProQuest Newsstand](http://www.provolibrary.com/a-z-resources-list/47859-proquest-newsstand)
+        * [ProQuest Newsstand](http://www.provolibrary.com/a-z-resources-list/47859-proquest-newsstand)
         
-        [Global Voices](https://es.globalvoices.org/)
+        * [Global Voices](https://es.globalvoices.org/)
         
-        [SBS](http://www.sbs.com.au/podcasts/yourlanguage/)
+        * [SBS](http://www.sbs.com.au/podcasts/yourlanguage/)
         
-        [Eurozine](http://www.eurozine.com/)
+        * [Eurozine](http://www.eurozine.com/)
         
-        [Vice](http://www.vice.com/it)
+        * [Vice](http://www.vice.com/it)
         
-        [Stopfake](http://www.stopfake.org/fr/accueil/)
+        * [Stopfake](http://www.stopfake.org/fr/accueil/)
         
-        [Swissinfo](http://www.swissinfo.ch/)
+        * [Swissinfo](http://www.swissinfo.ch/)
         
-        [Cafebabel](http://www.cafebabel.it/)
+        * [Cafebabel](http://www.cafebabel.it/)
         
-        [Forbes](http://www.forbes.ru/)
+        * [Forbes](http://www.forbes.ru/)
         
-        [EUFeeds](http://www.eufeeds.eu/index.php/it)
+        * [EUFeeds](http://www.eufeeds.eu/index.php/it)
         
-        [Eurotopics](http://www.eurotopics.net/de/home/presseschau/aktuell.html)
+        * [Eurotopics](http://www.eurotopics.net/de/home/presseschau/aktuell.html)
         
-        [PS](https://www.project-syndicate.org/)
+        * [PS](https://www.project-syndicate.org/)
         
-        [Euronews](http://ru.euronews.com/)
+        * [Euronews](http://ru.euronews.com/)
         
-        [AFP](https://www.afp.com/fr)
+        * [AFP](https://www.afp.com/fr)
         
-        [LMD](http://www.monde-diplomatique.fr/diplo/int/)
+        * [LMD](http://www.monde-diplomatique.fr/diplo/int/)
         
-        [Reuters](http://fr.reuters.com/)
+        * [Reuters](http://fr.reuters.com/)
         
-        [Newsmap](http://newsmap.jp/#/b,e,m,n,s,t,w//view/)
+        * [Newsmap](http://newsmap.jp/#/b,e,m,n,s,t,w//view/)
         
-        [Sputnik](https://it.sputniknews.com/)
+        * [Sputnik](https://it.sputniknews.com/)
         
-        [Global Citizen](https://www.globalcitizen.org/fr/)
+        * [Global Citizen](https://www.globalcitizen.org/fr/)
         
-        [Vox Europ](http://www.voxeurop.eu/fr)
+        * [Vox Europ](http://www.voxeurop.eu/fr)
         
-        [MEMRI](http://www2.memri.org/german/languages.html)
+        * [MEMRI](http://www2.memri.org/german/languages.html)
         
-        [People's Daily](http://french.peopledaily.com.cn/)
+        * [People's Daily](http://french.peopledaily.com.cn/)
         
-        [Euractiv](https://www.euractiv.com/)
+        * [Euractiv](https://www.euractiv.com/)
         
-        [Goal](http://www.goal.com/nl?ICID=HP)
+        * [Goal](http://www.goal.com/nl?ICID=HP)
         
-        [Translate the News](https://translatethe.news/)
+        * [Translate the News](https://translatethe.news/)
         
-        [Google Newsstand](https://newsstand.google.com/)
+        * [Google Newsstand](https://newsstand.google.com/)
         
-        [Google News](https://news.google.com/)
+        * [Google News](https://news.google.com/)
         
-        [Newscron](http://www.newscron.com/)
+        * [Newscron](http://www.newscron.com/)
         
-        [CCTV](http://english.cctv.com/)
+        * [CCTV](http://english.cctv.com/)
         
-        [RT](https://www.rt.com/)
+        * [RT](https://www.rt.com/)
         
-        [EN Radio](http://www.euronewsradio.com/?l=es)
+        * [EN Radio](http://www.euronewsradio.com/?l=es)
         
-        [DW](http://www.dw.com/)
+        * [DW](http://www.dw.com/)
         
-        [Обозреавтель](https://www.obozrevatel.com/)
+        * [Обозреавтель](https://www.obozrevatel.com/)
         
-        [VoA](https://ukrainian.voanews.com/navigation/allsites)
+        * [VoA](https://ukrainian.voanews.com/navigation/allsites)
         
-        [Радио Свобода](https://www.svoboda.org/navigation/allsites)
+        * [Радио Свобода](https://www.svoboda.org/navigation/allsites)
         
     - 16
         
-        [NRK](https://www.nrk.no/)
+        * [NRK](https://www.nrk.no/)
         
-        [Dagbladet](http://www.dagbladet.no/)
+        * [Dagbladet](http://www.dagbladet.no/)
         
-        [Aftenposten](http://www.aftenposten.no/)
+        * [Aftenposten](http://www.aftenposten.no/)
         
-        [Morgenbladet](https://morgenbladet.no/)
+        * [Morgenbladet](https://morgenbladet.no/)
         
-        [SVT](https://www.svt.se/nyheter/)
+        * [SVT](https://www.svt.se/nyheter/)
         
-        [SR](http://sverigesradio.se/)
+        * [SR](http://sverigesradio.se/)
         
-        [Svenska Dagbladet](https://www.svd.se/)
+        * [Svenska Dagbladet](https://www.svd.se/)
         
-        [Metro](https://www.metro.se/)
+        * [Metro](https://www.metro.se/)
         
-        [DR](http://www.dr.dk/)
+        * [DR](http://www.dr.dk/)
         
-        [Politiken](http://politiken.dk/)
+        * [Politiken](http://politiken.dk/)
         
-        [Berlingske](https://www.b.dk/)
+        * [Berlingske](https://www.b.dk/)
         
-        [Kristeligt Dagblad](https://www.kristeligt-dagblad.dk/)
+        * [Kristeligt Dagblad](https://www.kristeligt-dagblad.dk/)
         
     - 15
         
-        [Wyborcza](http://wyborcza.pl/0,0.html?disableRedirects=true)
+        * [Wyborcza](http://wyborcza.pl/0,0.html?disableRedirects=true)
         
-        [Gazeta](http://www.gazeta.pl/0,0.html)
+        * [Gazeta](http://www.gazeta.pl/0,0.html)
         
-        [Na Temat](http://natemat.pl/)
+        * [Na Temat](http://natemat.pl/)
         
-        [Newsweek PL](http://www.newsweek.pl/)
+        * [Newsweek PL](http://www.newsweek.pl/)
         
     - 14
         
-        [NRC](https://www.nrc.nl/)
+        * [NRC](https://www.nrc.nl/)
         
-        [Vpro](https://www.vpro.nl/)
+        * [Vpro](https://www.vpro.nl/)
         
-        [Volkskrant](http://www.volkskrant.nl/)
+        * [Volkskrant](http://www.volkskrant.nl/)
         
-        [Vrij Nederland](https://www.vn.nl/)
+        * [Vrij Nederland](https://www.vn.nl/)
         
-        [Elsevier](http://www.elsevierweekblad.nl/)
+        * [Elsevier](http://www.elsevierweekblad.nl/)
         
     - 13
         
-        [LMD](https://lemondediplomatique.hr/)
+        * [LMD](https://lemondediplomatique.hr/)
         
-        [Aljazeera Balkans](http://balkans.aljazeera.net/)
+        * [Aljazeera Balkans](http://balkans.aljazeera.net/)
         
-        [Novosti](http://novosti.hr/)
+        * [Novosti](http://novosti.hr/)
         
-        [Portal Novosti](http://www.portalnovosti.com/)
+        * [Portal Novosti](http://www.portalnovosti.com/)
         
-        [HRT](http://www.hrt.hr/)
+        * [HRT](http://www.hrt.hr/)
         
-        [Slobodna Evropa](https://www.slobodnaevropa.org/z/506)
+        * [Slobodna Evropa](https://www.slobodnaevropa.org/z/506)
         
-        [Express](https://www.express.hr/)
+        * [Express](https://www.express.hr/)
         
-        [Vecernji](https://www.vecernji.hr/)
+        * [Vecernji](https://www.vecernji.hr/)
         
-        [Telegraf](http://www.telegraf.rs/)
+        * [Telegraf](http://www.telegraf.rs/)
         
-        [Index](http://index.hr/)
+        * [Index](http://index.hr/)
         
     - 12
         
-        [Akropolis World News](http://www.akwn.net/)
+        * [Akropolis World News](http://www.akwn.net/)
         
     - 11/12
         
-        [Ephemeris](http://ephemeris.alcuinus.net/)
+        * [Ephemeris](http://ephemeris.alcuinus.net/)
         
     - 11
         
-        [YLE](http://areena.yle.fi/1-1931339)
+        * [YLE](http://areena.yle.fi/1-1931339)
         
-        [RB Latein](http://www.radiobremen.de/nachrichten/latein/latein-startseite100.html)
+        * [RB Latein](http://www.radiobremen.de/nachrichten/latein/latein-startseite100.html)
         
     - 10
+                * http://www.taipeitimes.com/News/lang
         
-        http://www.taipeitimes.com/News/lang
+        * [RFI ZH](http://cn.rfi.fr/)
         
-        [RFI ZH](http://cn.rfi.fr/)
+        * [Chinese Tools - News](http://www.chinese-tools.com/news)
         
-        [Chinese Tools - News](http://www.chinese-tools.com/news)
+        * [People's Daily (multi)](http://www.people.com.cn/)
         
-        [People's Daily (multi)](http://www.people.com.cn/)
+        * [News in Chinese](http://www.popupchinese.com/tools/newsinchinese)
         
-        [News in Chinese](http://www.popupchinese.com/tools/newsinchinese)
-        
-        [Chinesisch mit Nachrichten](http://www.new-chinese.org/chinesische-nachrichten.html)
+        * [Chinesisch mit Nachrichten](http://www.new-chinese.org/chinesische-nachrichten.html)
         
     - 9
         
-        [الجزيرة](http://www.aljazeera.net/portal)
+        * [الجزيرة](http://www.aljazeera.net/portal)
         
-        [الأوسط](http://aawsat.com/)
+        * [الأوسط](http://aawsat.com/)
         
-        [الخليج](http://www.alkhaleej.ae/portal)
+        * [الخليج](http://www.alkhaleej.ae/portal)
         
-        [CNN AR](http://arabic.cnn.com/)
+        * [CNN AR](http://arabic.cnn.com/)
         
-        [BBC AR](http://www.bbc.com/arabic)
+        * [BBC AR](http://www.bbc.com/arabic)
         
-        [العربي](http://alarabi.media.gov.kw/)
+        * [العربي](http://alarabi.media.gov.kw/)
         
-        [الاخبار](http://www.al-akhbar.com/)
+        * [الاخبار](http://www.al-akhbar.com/)
         
-        [الحدود](http://www.alhudood.net/)
+        * [الحدود](http://www.alhudood.net/)
         
-        [ن بوست](https://www.noonpost.org/)
+        * [ن بوست](https://www.noonpost.org/)
         
     - 8
         
-        [Lercio](http://www.lercio.it/)
+        * [Lercio](http://www.lercio.it/)
         
-        [Limes](http://www.limesonline.com/)
+        * [Limes](http://www.limesonline.com/)
         
-        [Radio Vaticana](http://it.radiovaticana.va/)
+        * [Radio Vaticana](http://it.radiovaticana.va/)
         
-        [Radio24](http://www.radio24.ilsole24ore.com/)
+        * [Radio24](http://www.radio24.ilsole24ore.com/)
         
-        [Il Giornale](http://www.ilgiornale.it/)
+        * [Il Giornale](http://www.ilgiornale.it/)
         
-        [Il Post](http://www.ilpost.it/)
+        * [Il Post](http://www.ilpost.it/)
         
-        [Striscia la Notizia](http://www.striscialanotizia.mediaset.it/)
+        * [Striscia la Notizia](http://www.striscialanotizia.mediaset.it/)
         
-        [Soppre Satira](http://soppressatira.it/)
+        * [Soppre Satira](http://soppressatira.it/)
         
-        [Prugna](http://www.prugna.net/)
+        * [Prugna](http://www.prugna.net/)
         
-        [RAI](http://www.rai.it/)
+        * [RAI](http://www.rai.it/)
         
-        [Play RSI](http://www.raiplay.it/)
+        * [Play RSI](http://www.raiplay.it/)
         
-        [RSI](http://www.rsi.ch/)
+        * [RSI](http://www.rsi.ch/)
         
-        [Quotidiano](http://www.quotidiano.net/)
+        * [Quotidiano](http://www.quotidiano.net/)
         
-        [Gazzetta dello Sport](https://www.gazzetta.it/)
+        * [Gazzetta dello Sport](https://www.gazzetta.it/)
         
     - 7
         
-        [Veja](http://veja.abril.com.br/)
+        * [Veja](http://veja.abril.com.br/)
         
-        [Isto é](http://www.istoe.com.br/capa)
+        * [Isto é](http://www.istoe.com.br/capa)
         
-        [Intercept BR](https://theintercept.com/brasil/)
+        * [Intercept BR](https://theintercept.com/brasil/)
         
-        [Exame](http://exame.abril.com.br/)
+        * [Exame](http://exame.abril.com.br/)
         
-        [O Globo](http://oglobo.globo.com/)
+        * [O Globo](http://oglobo.globo.com/)
         
-        [Folha UOL](http://www.folha.uol.com.br/)
+        * [Folha UOL](http://www.folha.uol.com.br/)
         
-        [Revista Galileu](http://revistagalileu.globo.com/)
+        * [Revista Galileu](http://revistagalileu.globo.com/)
         
-        [Revista Piauí](http://revistapiaui.estadao.com.br/)
+        * [Revista Piauí](http://revistapiaui.estadao.com.br/)
         
-        [WSJ BR](http://br.wsj.com/home-page)
+        * [WSJ BR](http://br.wsj.com/home-page)
         
-        [Visão](http://visao.sapo.pt/)
+        * [Visão](http://visao.sapo.pt/)
         
-        [Expresso](http://expresso.sapo.pt/economia/exame)
+        * [Expresso](http://expresso.sapo.pt/economia/exame)
         
-        [Notícias UOL](http://noticias.uol.com.br/ultimas)
+        * [Notícias UOL](http://noticias.uol.com.br/ultimas)
         
-        [Diário Pernambucano](http://www.diariopernambucano.com.br/)
+        * [Diário Pernambucano](http://www.diariopernambucano.com.br/)
         
-        [LMD BR](http://www.monde-diplomatique.fr/diplo/int/#Br%C3%A9sil)
+        * [LMD BR](http://www.monde-diplomatique.fr/diplo/int/#Br%C3%A9sil)
         
-        [RTP](http://www.rtp.pt/)
+        * [RTP](http://www.rtp.pt/)
         
-        [globo](http://www.globo.com/)
+        * [globo](http://www.globo.com/)
         
-        [UOL](https://www.uol.com.br/)
+        * [UOL](https://www.uol.com.br/)
         
     - 6
         
-        [WSJ ES](http://online.wsj.com/public/page/espanol-inicio.html)
+        * [WSJ ES](http://online.wsj.com/public/page/espanol-inicio.html)
         
-        [Democracy Now! ES](https://www.democracynow.org/es)
+        * [Democracy Now! ES](https://www.democracynow.org/es)
         
-        [Europa Press](https://www.youtube.com/channel/UCh_chnQ7OJPQ8mZ7vbXFpIQ)
+        * [Europa Press](https://www.youtube.com/channel/UCh_chnQ7OJPQ8mZ7vbXFpIQ)
         
-        [LMD ES](http://www.mondiplo.net/epages/eb8018.sf/es_ES/?ObjectPath=/Shops/eb8018/Categories/Nuestras_publicaciones/Atlas)
+        * [LMD ES](http://www.mondiplo.net/epages/eb8018.sf/es_ES/?ObjectPath=/Shops/eb8018/Categories/Nuestras_publicaciones/Atlas)
         
-        [El Mundo](http://www.elmundo.es/)
+        * [El Mundo](http://www.elmundo.es/)
         
-        [El País](http://elpais.com/elpais/portada_america.html)
+        * [El País](http://elpais.com/elpais/portada_america.html)
         
-        [El Universal](http://www.eluniversal.com.mx/)
+        * [El Universal](http://www.eluniversal.com.mx/)
         
-        [El Nuevo Herald](http://www.elnuevoherald.com/)
+        * [El Nuevo Herald](http://www.elnuevoherald.com/)
         
-        [NYT ES](http://www.nytimes.com/es/)
+        * [NYT ES](http://www.nytimes.com/es/)
         
-        [El Nuevo Día](http://www.elnuevodia.com/)
+        * [El Nuevo Día](http://www.elnuevodia.com/)
         
-        [La Opinión](http://www.laopinion.com/)
+        * [La Opinión](http://www.laopinion.com/)
         
-        [Detector de Mentiras](http://especiales.univision.com/detector-de-mentiras/)
+        * [Detector de Mentiras](http://especiales.univision.com/detector-de-mentiras/)
         
-        [The Clinic](http://www.theclinic.cl/)
+        * [The Clinic](http://www.theclinic.cl/)
         
-        [El Jueves](http://www.eljueves.es/)
+        * [El Jueves](http://www.eljueves.es/)
         
-        [Europa Press](http://www.europapress.es/)
+        * [Europa Press](http://www.europapress.es/)
         
-        [Revista Barcelona](https://revisbarcelona.com/)
+        * [Revista Barcelona](https://revisbarcelona.com/)
         
-        [Letras Libres](http://www.letraslibres.com/)
+        * [Letras Libres](http://www.letraslibres.com/)
         
-        [Babelia](http://cultura.elpais.com/cultura/babelia.html)
+        * [Babelia](http://cultura.elpais.com/cultura/babelia.html)
         
-        [RTVE](http://www.rtve.es/)
+        * [RTVE](http://www.rtve.es/)
         
-        [RNE](http://www.rtve.es/radio/)
+        * [RNE](http://www.rtve.es/radio/)
         
         24H Diretos
         
     - 5
         
-        [Jeune Afrique](http://www.jeuneafrique.com/)
+        * [Jeune Afrique](http://www.jeuneafrique.com/)
         
-        [Courier International](http://www.courrierinternational.com/)
+        * [Courier International](http://www.courrierinternational.com/)
         
-        [Atlantico](http://atlantico.fr/)
+        * [Atlantico](http://atlantico.fr/)
         
-        [The Conversation FR](https://theconversation.com/fr)
+        * [The Conversation FR](https://theconversation.com/fr)
         
-        [Le Figaro](http://www.lefigaro.fr/)
+        * [Le Figaro](http://www.lefigaro.fr/)
         
-        [Slate FR](http://www.slate.fr/#)
+        * [Slate FR](http://www.slate.fr/#)
         
-        [Slate Afrique](http://www.slateafrique.com/)
+        * [Slate Afrique](http://www.slateafrique.com/)
         
-        [Charlie Hebdo](https://charliehebdo.fr/)
+        * [Charlie Hebdo](https://charliehebdo.fr/)
         
-        [Le Gorafi](http://www.legorafi.fr/)
+        * [Le Gorafi](http://www.legorafi.fr/)
         
-        [LMD](http://www.monde-diplomatique.fr/)
+        * [LMD](http://www.monde-diplomatique.fr/)
         
-        [Philitt](http://philitt.fr/)
+        * [Philitt](http://philitt.fr/)
         
-        [France24](http://www.france24.com/fr/)
+        * [France24](http://www.france24.com/fr/)
         
-        [FranceInfo](http://www.francetvinfo.fr/)
+        * [FranceInfo](http://www.francetvinfo.fr/)
         
-        [Radio France](http://www.radiofrance.fr/)
+        * [Radio France](http://www.radiofrance.fr/)
         
-        [RTS Info](https://www.rts.ch/)
+        * [RTS Info](https://www.rts.ch/)
         
-        [Play RTS](https://www.rts.ch/play/tv)
+        * [Play RTS](https://www.rts.ch/play/tv)
         
-        [myCanal+](http://www.canalplus.fr/)
+        * [myCanal+](http://www.canalplus.fr/)
         
-        [LCI](http://www.lci.fr/)
+        * [LCI](http://www.lci.fr/)
         
-        [Canal5](http://www.tv5monde.com/)
+        * [Canal5](http://www.tv5monde.com/)
         
     - 4
         
-        [ВІСТКАР](https://www.vistkar.com/)
+        * [ВІСТКАР](https://www.vistkar.com/)
         
-        [ГРОМАДСЬКЕ](https://hromadske.ua/)
+        * [ГРОМАДСЬКЕ](https://hromadske.ua/)
         
-        [Зрада](http://zrada.today/)
+        * [Зрада](http://zrada.today/)
         
-        [Інозмі](https://inozmi.wordpress.com/)
+        * [Інозмі](https://inozmi.wordpress.com/)
         
-        [ТСН](https://tsn.ua/)
+        * [ТСН](https://tsn.ua/)
         
-        [Тиждень](http://tyzhden.ua/)
+        * [Тиждень](http://tyzhden.ua/)
         
-        [Депо](http://www.depo.ua/)
+        * [Депо](http://www.depo.ua/)
         
-        [УНІАН](http://www.unian.ua/)
+        * [УНІАН](http://www.unian.ua/)
         
-        [День](http://www.day.kiev.ua/uk)
+        * [День](http://www.day.kiev.ua/uk)
         
-        [BBC UA](http://www.bbc.com/ukrainian)
+        * [BBC UA](http://www.bbc.com/ukrainian)
         
-        [Insider](http://www.theinsider.ua/)
+        * [Insider](http://www.theinsider.ua/)
         
-        [Інформаційний Акцент](http://www.akcent.org.ua/)
+        * [Інформаційний Акцент](http://www.akcent.org.ua/)
         
-        [Media Sapiens](http://osvita.mediasapiens.ua/)
+        * [Media Sapiens](http://osvita.mediasapiens.ua/)
         
-        [PravdaUA](http://www.pravda.com.ua/)
+        * [PravdaUA](http://www.pravda.com.ua/)
         
-        [Zaxid](https://zaxid.net/)
+        * [Zaxid](https://zaxid.net/)
         
-        [Korrespondent](https://ua.korrespondent.net/)
+        * [Korrespondent](https://ua.korrespondent.net/)
         
-        [Радіо24](https://maximum.fm/)
+        * [Радіо24](https://maximum.fm/)
         
     - 3
         
-        [FAZ](http://www.faz.net/)
+        * [FAZ](http://www.faz.net/)
         
-        [NZZ](http://www.nzz.ch/)
+        * [NZZ](http://www.nzz.ch/)
         
-        [Zeit](http://www.zeit.de/index)
+        * [Zeit](http://www.zeit.de/index)
         
-        [SZ](http://www.sueddeutsche.de/)
+        * [SZ](http://www.sueddeutsche.de/)
         
-        [Spiegel](http://www.spiegel.de/)
+        * [Spiegel](http://www.spiegel.de/)
         
-        [Hintergrund](http://www.hintergrund.de/)
+        * [Hintergrund](http://www.hintergrund.de/)
         
-        [Asienzeitung](http://www.asienzeitung.com/)
+        * [Asienzeitung](http://www.asienzeitung.com/)
         
-        [Blätter](https://www.blaetter.de/)
+        * [Blätter](https://www.blaetter.de/)
         
-        [Eulenspiegel](http://www.eulenspiegel-zeitschrift.de/index.php/auslese)
+        * [Eulenspiegel](http://www.eulenspiegel-zeitschrift.de/index.php/auslese)
         
-        [Focus](http://www.focus.de/)
+        * [Focus](http://www.focus.de/)
         
-        [Stern](http://www.stern.de/)
+        * [Stern](http://www.stern.de/)
         
-        [Cicero](http://www.cicero.de/)
+        * [Cicero](http://www.cicero.de/)
         
-        [Amerika 21](https://amerika21.de/)
+        * [Amerika 21](https://amerika21.de/)
         
-        [Handelsblatt](http://www.handelsblatt.com/)
+        * [Handelsblatt](http://www.handelsblatt.com/)
         
-        [WIRED Germany](https://www.wired.de/)
+        * [WIRED Germany](https://www.wired.de/)
         
-        [Welt](http://www.welt.de/)
+        * [Welt](http://www.welt.de/)
         
-        [Brandeins](http://www.brandeins.de/)
+        * [Brandeins](http://www.brandeins.de/)
         
-        [Satire Patzer](http://www.satirepatzer.de/)
+        * [Satire Patzer](http://www.satirepatzer.de/)
         
-        [Titanic](http://www.titanic-magazin.de/newsticker/)
+        * [Titanic](http://www.titanic-magazin.de/newsticker/)
         
-        [Nebelspalter](http://www.nebelspalter.ch/)
+        * [Nebelspalter](http://www.nebelspalter.ch/)
         
-        [BPB](http://www.bpb.de/)
+        * [BPB](http://www.bpb.de/)
         
-        [Business Insider DE](http://www.businessinsider.de/?IR=C)
+        * [Business Insider DE](http://www.businessinsider.de/?IR=C)
         
-        [Der Postillon](http://www.der-postillon.com/)
+        * [Der Postillon](http://www.der-postillon.com/)
         
-        [Gegenworte](http://www.gegenworte.org/)
+        * [Gegenworte](http://www.gegenworte.org/)
         
-        [Das Magazin](https://www.dasmagazin.ch/)
+        * [Das Magazin](https://www.dasmagazin.ch/)
         
-        [Watson](http://watson.ch/)
+        * [Watson](http://watson.ch/)
         
         News 360
         
@@ -6691,115 +4452,115 @@ make a test schedule for languages, ideas, formulas, etc
         
     - 2
         
-        [Новая газета](http://www.novayagazeta.ru/)
+        * [Новая газета](http://www.novayagazeta.ru/)
         
-        [Газета](http://www.gazeta.ru/)
+        * [Газета](http://www.gazeta.ru/)
         
-        [Сноб](https://snob.ru/)
+        * [Сноб](https://snob.ru/)
         
-        [Дождь](https://tvrain.ru/)
+        * [Дождь](https://tvrain.ru/)
         
-        [Огонек](http://www.kommersant.ru/ogoniok)
+        * [Огонек](http://www.kommersant.ru/ogoniok)
         
-        [Литературная газета](http://www.lgz.ru/)
+        * [Литературная газета](http://www.lgz.ru/)
         
-        [Русский магазин](http://magazines.russ.ru/)
+        * [Русский магазин](http://magazines.russ.ru/)
         
-        [Иносми](http://inosmi.ru/)
+        * [Иносми](http://inosmi.ru/)
         
-        [Радио Маяк](http://radiomayak.ru/)
+        * [Радио Маяк](http://radiomayak.ru/)
         
-        [Эхо Москві](http://echo.msk.ru/news/)
+        * [Эхо Москві](http://echo.msk.ru/news/)
         
-        [ТАСС](http://tass.ru/)
+        * [ТАСС](http://tass.ru/)
         
-        [Луганский Информационный Центр](http://lug-info.com/)
+        * [Луганский Информационный Центр](http://lug-info.com/)
         
-        [ДНР Новости](http://dnr-news.com/)
+        * [ДНР Новости](http://dnr-news.com/)
         
-        [Известия](http://izvestia.ru/)
+        * [Известия](http://izvestia.ru/)
         
-        [Медуза](https://meduza.io/)
+        * [Медуза](https://meduza.io/)
         
-        [Инопресса](http://www.inopressa.ru/)
+        * [Инопресса](http://www.inopressa.ru/)
         
-        [Fog News](http://fognews.ru/)
+        * [Fog News](http://fognews.ru/)
         
-        [Рамблер](https://www.rambler.ru/)
+        * [Рамблер](https://www.rambler.ru/)
         
-        [Лента](https://lenta.ru/)
+        * [Лента](https://lenta.ru/)
         
-        [РИА](https://ria.ru/)
+        * [РИА](https://ria.ru/)
         
-        [NEWSru](https://www.newsru.com/)
+        * [NEWSru](https://www.newsru.com/)
         
-        [1ый](http://www.1tv.ru/)
+        * [1ый](http://www.1tv.ru/)
         
-        [Ургант](http://www.1tv.ru/shows/vecherniy-urgant/vypuski)
+        * [Ургант](http://www.1tv.ru/shows/vecherniy-urgant/vypuski)
         
     - 1
         
-        [Acculturated](http://acculturated.com/)
+        * [Acculturated](http://acculturated.com/)
         
-        [Economist](http://economist.com/)
+        * [Economist](http://economist.com/)
         
-        [Guardian](http://guardian.com/)
+        * [Guardian](http://guardian.com/)
         
-        [Quartz](http://qz.com/)
+        * [Quartz](http://qz.com/)
         
-        [NYT Upshot](http://www.nytimes.com/section/upshot)
+        * [NYT Upshot](http://www.nytimes.com/section/upshot)
         
-        [Transpartisan Review](http://www.transpartisanreview.com/)
+        * [Transpartisan Review](http://www.transpartisanreview.com/)
         
-        [Creators](https://www.creators.com/)
+        * [Creators](https://www.creators.com/)
         
-        [The Conversation US](http://theconversation.com/us)
+        * [The Conversation US](http://theconversation.com/us)
         
-        [Vox](http://www.vox.com/)
+        * [Vox](http://www.vox.com/)
         
-        [About News Issues](http://www.about.com/newsissues/)
+        * [About News Issues](http://www.about.com/newsissues/)
         
-        [Slate](http://www.slate.com/)
+        * [Slate](http://www.slate.com/)
         
-        [The World in](http://www.theworldin.com/)
+        * [The World in](http://www.theworldin.com/)
         
-        [Timeline](https://timeline.com/)
+        * [Timeline](https://timeline.com/)
         
-        [Fair](http://fair.org/)
+        * [Fair](http://fair.org/)
         
-        [Public Integrity](https://www.publicintegrity.org/)
+        * [Public Integrity](https://www.publicintegrity.org/)
         
-        [Project Censored](http://www.projectcensored.org/)
+        * [Project Censored](http://www.projectcensored.org/)
         
-        [Blacklisted News](http://www.blacklistednews.com/)
+        * [Blacklisted News](http://www.blacklistednews.com/)
         
-        [Chronikler](http://chronikler.com/)
+        * [Chronikler](http://chronikler.com/)
         
-        [Onion](http://www.theonion.com/)
+        * [Onion](http://www.theonion.com/)
         
-        [Babylon Bee](http://babylonbee.com/)
+        * [Babylon Bee](http://babylonbee.com/)
         
-        [Pan-Arabia Enquirer](http://www.panarabiaenquirer.com/)
+        * [Pan-Arabia Enquirer](http://www.panarabiaenquirer.com/)
         
-        [Daily Mash](http://www.thedailymash.co.uk/)
+        * [Daily Mash](http://www.thedailymash.co.uk/)
         
-        [Shovel](http://www.theshovel.com.au/)
+        * [Shovel](http://www.theshovel.com.au/)
         
-        [Unreal Times](http://www.theunrealtimes.com/)
+        * [Unreal Times](http://www.theunrealtimes.com/)
         
-        [Our World in Data](https://ourworldindata.org/)
+        * [Our World in Data](https://ourworldindata.org/)
         
-        [Independent](http://www.independent.co.uk/us)
+        * [Independent](http://www.independent.co.uk/us)
         
-        [Asia Times](http://atimes.com/)
+        * [Asia Times](http://atimes.com/)
         
-        [Vocativ](http://www.vocativ.com/)
+        * [Vocativ](http://www.vocativ.com/)
         
-        [New Statesman](http://www.newstatesman.com/)
+        * [New Statesman](http://www.newstatesman.com/)
         
-        [Highline](http://highline.huffingtonpost.com/)
+        * [Highline](http://highline.huffingtonpost.com/)
         
-        [Politico](http://www.politico.eu/)
+        * [Politico](http://www.politico.eu/)
         
 - Writing
     
@@ -6818,8 +4579,6 @@ podcast Reply All
 
 Petra Cnyrim - Erklärs mir, als wäre ich 5
 
-**Cnyrim, Petra**
-
-https://www.noemamag.com/
-
-https://interdisciplinary-college.org/
+Cnyrim, Petra
+* https://www.noemamag.com/
+* https://interdisciplinary-college.org/

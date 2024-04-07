@@ -1,8 +1,6 @@
 # Sort2.md
-
-https://protesilaos.com/emacs/denote
-
-https://fasttext.cc/docs/en/aligned-vectors.html
+* https://protesilaos.com/emacs/denote
+* https://fasttext.cc/docs/en/aligned-vectors.html
 
 Btw I use obsidian for work only, in our shared work obsidian vault
 
@@ -17,13 +15,13 @@ Never thought to use one Obsidian vault for a team
 - That quite good
 - Sevoris*February 4, 2024 5:36 PM*February 4, 2024 5:36 PMHow do you avoid people stepping on each other with concurrent edits?
 
-### **Danymat*February 5, 2024 12:34 AM*February 5, 2024 12:34 AM**
+### Danymat*February 5, 2024 12:34 AM*February 5, 2024 12:34 AM
 
 I dont Collab with git is a pain in the a**
 
 - Thats the only thing impeding mass adoption i think: a good live collaboration feature
 
-### **sLoBbY_BoBbY*February 5, 2024 1:10 AM*February 5, 2024 1:10 AM**
+### sLoBbY_BoBbY*February 5, 2024 1:10 AM*February 5, 2024 1:10 AM
 
 write code in google docs
 
@@ -31,7 +29,7 @@ write code in google docs
 - gapps smh
 - sLoBbY_BoBbY*February 5, 2024 4:40 AM*February 5, 2024 4:40 AMUse a handwriting to text app to turn whiteboard pseudo code to actual code
 
-### **ronkdar*February 5, 2024 4:58 AM*February 5, 2024 4:58 AM**
+### ronkdar*February 5, 2024 4:58 AM*February 5, 2024 4:58 AM
 
 Honestly I would love to have a smart whiteboard that could important my hand drawn diagrams into Visio
 
@@ -40,38 +38,36 @@ Honestly I would love to have a smart whiteboard that could important my hand dr
 - Danymat*February 5, 2024 9:24 AM*February 5, 2024 9:24 AMLmao that’s so true
 - Danymat*February 5, 2024 9:25 AM*February 5, 2024 9:25 AMStart with excalidraw and stay there for as long as possible
 - Sevoris*February 5, 2024 10:52 AM*February 5, 2024 10:52 AMtbh much as I like it, sometimes it is frustratingly limited and I go over to [](ghttp://draw.io)
-
-[draw.io](http://draw.io)
+* [draw.io](http://draw.io)
 - ronkdar*February 5, 2024 2:23 PM*February 5, 2024 2:23 PMWork has the full MS Office suite. Why would i use anything except Visio?
 - Sevoris*February 5, 2024 2:42 PM*February 5, 2024 2:42 PMIdk, I have access as well and find Visio heavy and clunky
 - Plus it doesn‘t embedd.
 - Danymat*February 5, 2024 2:47 PM*February 5, 2024 2:47 PMUse what you like/what you’re good at/what you have/what other have
 - For me, we don’t have Visio, xmind is not that good for us, obsidian canva too limited, and [](ghttp://draw.io)
-
-[draw.io](http://draw.io) is good but lacks the liberty of the excalidraw canva
+* [draw.io](http://draw.io) is good but lacks the liberty of the excalidraw canva
 - ronkdar*February 5, 2024 2:48 PM*February 5, 2024 2:48 PMFor me, SharePoint integration makes many sins forgiveable.
 - Danymat*February 6, 2024 8:39 AM*February 6, 2024 8:39 AMLucky guy
 
-### **purewater*February 6, 2024 8:58 AM*February 6, 2024 8:58 AM**
+### purewater*February 6, 2024 8:58 AM*February 6, 2024 8:58 AM
 
 Wait this is Awesome
 
 - Sevoris*February 6, 2024 3:21 PM*February 6, 2024 3:21 PMKind of. Unfortenatly the base for this is the very german ingrain wallpaper, and that means there are many knoocks and cranies for marker color to be protected from when you try and wipe it off
 - judicious use of cleaning fluid is strongly advised
 
-### **ronkdar*February 8, 2024 3:53 PM*February 8, 2024 3:53 PM**
+### ronkdar*February 8, 2024 3:53 PM*February 8, 2024 3:53 PM
 
 For any ADD/ADHD people here, I picked up a technique from No Boilerplate (youtuber) that integrates well with GTD: DO THE HARDEST THING FIRST.
 
 My brain regularly tries to sabotage me from doing any task that feels like a chore (high effort, low reward), so I always tend to do easy tasks first.
 
-### **Danymat*February 8, 2024 3:54 PM*February 8, 2024 3:54 PM**
+### Danymat*February 8, 2024 3:54 PM*February 8, 2024 3:54 PM
 
 The famous « eat the frog
 
 ?”
 
-### **ronkdar*February 8, 2024 3:54 PM*February 8, 2024 3:54 PM**
+### ronkdar*February 8, 2024 3:54 PM*February 8, 2024 3:54 PM
 
 After I do a bunch of easy tasks, I'm out of motivation for the day, so I don't start any hard tasks.
 
@@ -89,9 +85,9 @@ So, in my Obsidian GTD system, I have tags #hard and #veryhard and filters that 
 - purewater*February 8, 2024 4:56 PM*February 8, 2024 4:56 PMThis never worked for me unfortunately
 - ronkdar*February 8, 2024 5:02 PM*February 8, 2024 5:02 PMIt only barely works for me, but it's been an improvement.
 
-### **adlaurentius**
+### adlaurentius
 
-### ***February 8, 2024 5:06 PM*February 8, 2024 5:06 PM**
+### *February 8, 2024 5:06 PM*February 8, 2024 5:06 PM
 
 Coming from an OCD guy, try to do a "pre-mortem". If you are familiar with post-mortems, it's all about finding out what happened by looking at the evidence left behind. A pre-mortem would be writing a note with the following headings:
 
@@ -110,38 +106,38 @@ Tiredness. Whatever.
 
 - ronkdar*February 8, 2024 5:07 PM*February 8, 2024 5:07 PMThis makes a lot of sense.
 
-### **adlaurentius**
+### adlaurentius
 
-### ***February 8, 2024 5:07 PM*February 8, 2024 5:07 PM**
+### *February 8, 2024 5:07 PM*February 8, 2024 5:07 PM
 
 The most useful things are writing why you are doing it, because when you are being pulled by urges, you brain is going to find very difficult to remember why you are putting yourself in such an uncomfortable situation
 
-### **ronkdar*February 8, 2024 5:07 PM*February 8, 2024 5:07 PM**
+### ronkdar*February 8, 2024 5:07 PM*February 8, 2024 5:07 PM
 
 I help an OCD friend answer these questions for herself, when she's trying to work through whether what she's doing is rational or not.
 
-### **adlaurentius**
+### adlaurentius
 
-### ***February 8, 2024 5:08 PM*February 8, 2024 5:08 PM**
+### *February 8, 2024 5:08 PM*February 8, 2024 5:08 PM
 
 And the thoughts bit, so that they don't catch you by surprise, so you are ready for them and don't buy into them
 
 - ronkdar*February 8, 2024 5:08 PM*February 8, 2024 5:08 PMYeah that makes a lot of sense.
 - For AD(H)D, capturing tasks, processing, and assigning dates and other tags is the same kind of pre-mortem.
 
-### **adlaurentius**
+### adlaurentius
 
 - *February 8, 2024 5:09 PM*February 8, 2024 5:09 PMYeah, I imagine there's a lot of overlap
 - ronkdar*February 8, 2024 5:09 PM*February 8, 2024 5:09 PMSetting everything up ahead of time so my brain can't sabotage me when I'm not paying attention.
 
-### **adlaurentius**
+### adlaurentius
 
 - *February 8, 2024 5:09 PM*February 8, 2024 5:09 PMExcept that maybe for me it's more anxiety/dread rather than excitement or boredom that pushes me around
 - ronkdar*February 8, 2024 5:09 PM*February 8, 2024 5:09 PMYeah, sure
 
-### **adlaurentius**
+### adlaurentius
 
-### ***February 8, 2024 5:10 PM*February 8, 2024 5:10 PM**
+### *February 8, 2024 5:10 PM*February 8, 2024 5:10 PM
 
 Tell her to check out Mark Freeman in youtube
 
@@ -154,13 +150,13 @@ Tell her to check out Mark Freeman in youtube
 Yeah ease of access is key. I also found that if a task is many steps long, I won't start it.
 
 - Vhyrro*February 8, 2024 7:44 PM*February 8, 2024 7:44 PMthis is why GTD has a concept of an actionable which you create during the processing phase
-- An example is on hamberg's page. You take notes of general ideas but when you process your inbox you usually convert those abstract ideas into actionable stuff:The next action needs to be a**physical** **visible**
+- An example is on hamberg's page. You take notes of general ideas but when you process your inbox you usually convert those abstract ideas into actionable stuff:The next action needs to be aphysical visible
 
 So if you have a multi-step problem, be sure to break it down into smaller and most importantly actionable subtasks
 
-### **adlaurentius**
+### adlaurentius
 
-### ***February 8, 2024 8:33 PM*February 8, 2024 8:33 PM**
+### *February 8, 2024 8:33 PM*February 8, 2024 8:33 PM
 
 If I could have learnt only one productivity rule earlier in my life, it would be that one
 
@@ -172,14 +168,14 @@ I remember once someone who wrote a post about GTD stuff, and said something lik
 - 
 - It's like reverse addition. No one gets addicted to something just by deciding to ruin their lives. No, they do something "just this once". "Just once more".
 
-### **purewater*February 9, 2024 6:28 PM*February 9, 2024 6:28 PM**
+### purewater*February 9, 2024 6:28 PM*February 9, 2024 6:28 PM
 
 If only I could trick myself into doing dishes by washing a single plate
 
 - 
 - ronkdar*February 9, 2024 6:28 PM*February 9, 2024 6:28 PMSeriously.
 
-### **adlaurentius**
+### adlaurentius
 
 - *February 9, 2024 9:04 PM*February 9, 2024 9:04 PMI used to do a specific strategy for dishes. I would watch something that had ads, and while the ads were on, I would run to the kitchen and wash dishes while the ads lasted. Once the program started again, I would leave it where it was until the next break. It was like a remote pomodoro thing
 - If you cannot answer the question "how long is this going to go on for?" you are losing
@@ -187,8 +183,7 @@ If only I could trick myself into doing dishes by washing a single plate
 - B4mbus*February 9, 2024 10:09 PM*February 9, 2024 10:09 PMThis is less or more eisenhower matrix I guess?
 - Im curious about your Obsidian workflow, I also have ADHD, do you think just plain old notes app would work? Or do some of the Obsidian's automations actually helped you a lot?
 - B4mbus*February 9, 2024 10:44 PM*February 9, 2024 10:44 PM [](ghttps://hamberg.no/gtd/)
-
-[https://hamberg.no/gtd/](https://hamberg.no/gtd/)
+* [https://hamberg.no/gtd/](https://hamberg.no/gtd/)
 - Im reading this and ngl that gtd stuff seems kinda complicated
 - Or my ADHD brain just makes it seem hard
 - Managing lists, contexts, calendars
@@ -212,7 +207,7 @@ Keeps me from getting distracted from my current task when new tasks arrive (ema
 
 (If you don't I'll forget lmao)
 
-### **B4mbus*February 9, 2024 10:59 PM*February 9, 2024 10:59 PM**
+### B4mbus*February 9, 2024 10:59 PM*February 9, 2024 10:59 PM
 
 Ill ping you in about 7 because Im off to sleep soon, haha, I wont forget because my ADHD is curious of pings and I can just mark your message as unread so Ill see the ping :p
 

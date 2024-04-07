@@ -2,223 +2,6 @@
 
 ## 1-Shot Reading
 
-### Reading List (0)
-* https://bkamins.github.io/
-* https://www.simtech.uni-stuttgart.de/events/simtech-summer-school/SuSch_2/program/ 
-* https://bkamins.github.io/julialang/2023/07/27/replace.html 
-* https://bkamins.github.io/julialang/2023/07/21/df16.html 
-* https://bkamins.github.io/julialang/2023/08/03/laces.html 
-* https://bkamins.github.io/julialang/2023/07/14/graphpuzzle.html 
-* https://forem.julialang.org/gage/creating-nice-simple-geo-plots-from-scratch-using-makiejl-301 
-* https://forem.julialang.org/vinodv/exploring-the-matrix-inversion-lemma-in-julia-48id 
-* https://chifi.dev/an-in-depth-julia-lesson-on-parameters-2c98ac529b51 
-* https://chifi.dev/chifi-newsletter-august-6th-2023-67266335c575 
-* https://medium.com/@sumitudaypandit/julia-enters-top-20-in-tiobe-index-a-promising-future-for-high-performance-computing-ee82d4b71212 
-* https://chifi.dev/redirecting-output-in-julia-the-rundown-7a1c814f842f 
-* https://chifi.dev/even-more-olive-updates-b44578cb5eb5 
-* https://chifi.dev/adding-rpc-cells-to-olive-in-just-a-few-functions-4abad46f9e2e 
-* https://chifi.dev/rolling-arrays-dropping-vectors-in-julia-93c4e0813365 
-* https://chifi.dev/the-key-to-mastering-julia-eb011e4c17d8 
-* https://chifi.dev/object-oriented-multiple-dispatch-with-julia-8a1533f2236c 
-* https://scientificcoder.com/user-defined-show-method-in-julia 
-* https://scientificcoder.com/user-defined-show-method-in-julia 
-* https://towardsai.net/p/machine-learning/stop-ignoring-julia-learn-it-now-and-thank-your-younger-self-in-the-future 
-* https://medium.com/@HalderNilimesh/unraveling-non-linear-regression-in-julia-a-comprehensive-guide-with-practical-code-examples-6c03fe95b7c6 
-* https://levelup.gitconnected.com/meet-julia-the-future-of-data-science-401d8fb812dd 
-* https://medium.com/@ozanevkaya/fruitful-marriages-embedding-gpts-into-programming-environments-c60cc3d2376a 
-* https://5alman.medium.com/julia-101-ad6431aeafdf 
-* https://towardsdatascience.com/working-with-ms-sql-server-in-julia-fc6fcd55d69a 
-* https://towardsdatascience.com/5-jupyter-notebook-tricks-i-only-discovered-2-years-into-my-data-science-career-99bbe482a45f 
-* https://medium.datadriveninvestor.com/exploring-julia-programming-language-data-manipulation-part-1-98628527c981 
-* https://medium.datadriveninvestor.com/exploring-julia-programming-language-data-manipulation-part-2-5bcaba1fa7d1 
-* https://medium.datadriveninvestor.com/exploring-julia-programming-language-data-manipulation-part-3-cd3e9f4270d6 
-* https://pub.towardsai.net/gated-recurrent-neural-network-from-scratch-in-julia-ad8b2dabe37f 
-* https://medium.com/@sddkal/julia-plotting-maximum-drawdown-90202fdb698c 
-* https://www.tiobe.com/tiobe-index/ 
-* https://info.juliahub.com/juliahub-presentations-at-juliacon-july-26-28-in-cambridge-ma 
-* https://info.juliahub.com/large-language-model-llm-tutorial-with-julias-transformers.jl 
-* https://cormullion.github.io/ 
-* https://www.computerworld.es/tecnologia/el-lenguaje-de-programacion-julia-se-cuela-entre-los-20-primeros-del-indice-de-popularidad-de-tiobe 
-* https://blog.devgenius.io/the-popularity-of-data-science-languages-python-and-r-july-2023-update-29f95593085 
-* https://juliagpu.org/post/2023-07-19-oneapi_profiling/ 
-* https://info.juliahub.com/ask-ai-chat-gpt-juliahub 
-* https://discourse.julialang.org/t/this-month-in-julia-world-2023-07/102276 
-
-### Reading List (1)
-* https://www.manning.com/books/julia-for-data-analysis
-* [Numerical Linear Algebra](https://ipfs.io/ipfs/bafykbzaceaojrmkzpxjpnikhshltzkfu7iwh47rcmq5ezr36gyx5y426wd3gq?filename=%28Springer%20Undergraduate%20Mathematics%20Series%29%20Folkmar%20Bornemann%20%28auth.%29%20-%20%20Numerical%20Linear%20Algebra_%20A%20Concise%20Introduction%20with%20MATLAB%20and%20Julia-Springer%20International%20Publishing%20%282018%29.pdf)
-* https://stackoverflow.com/questions/43453944/what-is-the-difference-between-code-native-code-typed-and-code-llvm-in-julia
-* [The Julia Compilation Process](https://testsubjector.github.io/blog/2020/03/26/The-Julia-Compilation-Process)
-* [PackageCompiler and Static Compilation - YouTube](https://www.youtube.com/watch?v=7gHYrZ4QWZs)
-* search: disassembled julia executable
-* [(Springer Undergraduate Mathematics Series) Folkmar Bornemann (auth.) - Numerical Linear Algebra_ A Concise Introduction with MATLAB and Julia-Springer International Publishing (2018).pdf(https://ipfs.io/ipfs/bafykbzaceaojrmkzpxjpnikhshltzkfu7iwh47rcmq5ezr36gyx5y426wd3gq?filename=%28Springer%20Undergraduate%20Mathematics%20Series%29%20Folkmar%20Bornemann%20%28auth.%29%20-%20%20Numerical%20Linear%20Algebra_%20A%20Concise%20Introduction%20with%20MATLAB%20and%20Julia-Springer%20International%20Publishing%20%282018%29.pdf)
-* [Building static websites in Julia](https://franklinjl.org/)
-* [Category:Julia - Rosetta Code](http://www.rosettacode.org/wiki/Category:Julia)
-* [DJ's Office Hours](https://youtube.com/c/DJsOfficeHours)
-* [Djruhnke/numerical-analysis-julia: Compilation of Numerical Methods in Julia](https://github.com/Djruhnke/numerical-analysis-julia)
-* [First Semester in Numerical Analysis with Julia | fsu.digital.flvc.org](http://fsu.digital.flvc.org/islandora/object/fsu%3A657877)
-* https://arstechnica.com/science/2020/10/the-unreasonable-effectiveness-of-the-julia-programming-language/
-* https://increment.com/programming-languages/goldilocks-language-history-of-julia/
-* [Julia – Changhyun Kwon](https://www.chkwon.net/julia/)
-* [Julia (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Julia_(programming_language))
-* [Julia Programming for Operations Research 2/e | Softcover.io](https://juliabook.chkwon.net/book)
-* [Library Genesis: Bättig, Daniel - Angewandte Mathematik 1 mit MATLAB und Julia -- Ein anwendungs- und beispielorientierter Einstieg für technische Studiengänge](http://libgen.rs/book/index.php?md5=879EFF332E04C780E17393C70515126B)
-* [Library Genesis: Daniel Bättig - Angewandte Mathematik 2 mit MATLAB und Julia: Ein anwendungs- und beispielorientierter Einstieg für technische Studiengänge](http://libgen.is/book/index.php?md5=F68CB05A9D8A2B0797FADAE462440D6E)
-* [Library Genesis: Noel Kalicharan - Julia - Bit by Bit: Programming for Beginners (Undergraduate Topics in Computer Science)](http://libgen.is/book/index.php?md5=3E138E52A31A9B00AD75A122CCBFB276)
-* [Library Genesis: Tom Kwong - Hands-on Design Patterns and Best Practices with Julia](http://libgen.is/book/index.php?md5=42BAB0AA178AA6A4CC0522CA7B2B3853)
-* [MATH 3510, Numerical Analysis I, Fall semester 2020 - Julia programming](https://www.phys.uconn.edu/~rozman/Courses/m3510_20f/julia.html)
-* [mitmath/18330: 18.330 Introduction to Numerical Analysis](https://github.com/mitmath/18330)
-* [Numerical Analysis & Statistics: MATLAB, R, NumPy, Julia - Hyperpolyglot](https://hyperpolyglot.org/numerical-analysis)
-* [Statistics with Julia](http://library.lol/main/7FA6A3926808C7FA3019EDB3E09900C3)
-* [Welcome to the blog!](https://miguelraz.github.io/)
-* [!!! Julia in VS Code - What's New | David Anthoff, Zac Nugent | JuliaCon2021 The Julia Programming Language The Julia Programming Language • 759 visualizaciones hace 19 horas Nuevo](https://www.youtube.com/watch?v=kl3ySM4o-dw)
-* **[From Julia to Rust](https://miguelraz.github.io/blog/juliatorust/)**
-* **[How to setup Project Environments in Julia | by René | Towards Data Science](https://towardsdatascience.com/how-to-setup-project-environments-in-julia-ec8ae73afe9c)**
-* **[Julia Programming for Operations Research | Softcover.io](https://www.softcover.io/read/7b8eb7d0/juliabook)**
-* Julia to WASM compiler
-* **[JuliaCon 2021 | Day 1 Single Track | Dr. Jan Vitek, Prof William Kahan Keynote - YouTube](https://www.youtube.com/watch?v=LT4AP7CUMAw)**
-* **[mossr/BeautifulAlgorithms.jl: Concise and beautiful algorithms written in Julia](https://github.com/mossr/BeautifulAlgorithms.jl)**
-* **https://github.com/JuliaLang/julia/blob/master/CONTRIBUTING.md**
-* **can julia replace python?**
-* **https://www.quora.com/If-Julia-does-everything-better-than-Python-why-isnt-the-community-massively-switching?ch=17&oid=86226363&share=9c0c1ea1&srid=HPb8&target_type=question**
-* **https://discourse.julialang.org/t/which-paper-s-to-read-on-julia-design/54864**
-* **[Introduction to Julia Internals](https://www.youtube.com/watch?v=osdeT-tWjzk)**
-* **https://bookauthority.org/books/best-julia-programming-ebooks**
-* **https://github.com/JuliaLang/julia/blob/master/CONTRIBUTING.md**
-* **https://www.techrepublic.com/article/how-to-learn-julia-a-resources-guide-for-developers/**
-* **https://habr.com/ru/search/?q=julia&target_type=posts&order=relevance**
-* https://github.com/JuliaEditorSupport/julia-vim
-* https://github.com/joom/latex-unicoder.vim
-* https://vim.fandom.com/wiki/Working_with_Unicode
-* https://dev.to/ri5hirajp/enable-unicode-support-in-vscode-terminal-2ph5
-* [The future of Machine Learning and why it looks a lot like Julia](https://www.youtube.com/watch?v=3w5KoaS6h88)
-* [read: https://en.wikipedia.org/wiki/Julia_(programming_language)](https://en.wikipedia.org/wiki/Julia_(programming_language))
-* https://discourse.julialang.org/t/julia-v1-7-0-has-been-released-and-v1-6-is-now-lts/72336
-* https://stackoverflow.com/questions/68224324/how-to-build-julia-from-source
-* https://docs.julialang.org/en/v1/manual/style-guide/#Style-Guide
-* ### Reading List (2)
-* [Working with Flux.jl models on the Hugging Face Hub 🤗](https://medium.com/@logankilpatrick/working-with-flux-jl-models-on-the-hugging-face-hub-b95af2b80a47?source=user_profile---------2-------------------------------)
-* https://github.com/chengchingwen/HuggingFaceApi.jl
-* https://github.com/MommaWatasu/LearningHorse.jl
-* https://julia.school/julia/
-* https://github.com/F0x1fy/Julia-Virtualized-CPU
-* https://syl1.gitbook.io/julia-language-a-concise-tutorial/
-* [Julia Quick Syntax Reference: A Pocket Guide for Data Science Programming](http://library.lol/main/AAEBF5381F2F097730DF6158DD0975C4)
-* [Numerical Linear Algebra with Julia](https://books.google.de/books?id=PAFszgEACAAJ&printsec=frontcover&source=gbs_ge_summary_r&redir_esc=y#v=onepage&q&f=false)
-* [Numerical Linear Algebra. A concise Introduction with MatLab and Julia](http://libgen.rs/book/index.php?md5=FDBC69BD61C21DF88E9B82821B763C70)
-* [https://datascience-book.gitlab.io](https://datascience-book.gitlab.io/)
-* **[Julia Advanced](https://www.youtube.com/watch?v=VucNtPVCJPw&list=PLOU8LxhyFylKQO--4HIjX7_uzzVfRd5xu)**
-* **[Julia Intermediate](https://www.youtube.com/watch?v=UIA-oUGKYf4&list=PLOU8LxhyFylJUb6bBgZoKKivr5hkNVrCw)**
-* **[Julia Basics](https://www.youtube.com/watch?v=zuDZhCBQ4D4&list=PLOU8LxhyFylLYpkd3WgEmblTUiwrZ719y)**
-* **https://www.youtube.com/results?search_query=multiple+dispatch+in+julia**
-* https://www.reddit.com/r/Julia/comments/qnf7fj/built_this_with_a_friend_at_work_completely_in/
-* Link
-* DesignByContract.jl
-* InteractiveErrors.jl
-* [Learning Programming with Julia](https://youtube.com/playlist?list=PL-JPTlPA83TnmHP27bi5oL93eg6MJwY8q)
-* https://www.julia-vscode.org/docs/stable/
-* https://www.julia-vscode.org/docs/dev/gettingstarted/#Installation-and-Configuration-1
-* https://stackoverflow.com/questions/33854795/does-a-python-like-virtualenv-exist-in-julia
-* https://docs.julialang.org/en/v1/manual/noteworthy-differences/
-* https://docs.julialang.org/en/v1/manual/performance-tips/
-* **[Package development in VSCode | Workshop | JuliaCon 2021](https://www.youtube.com/watch?v=F1R3ETaRQXY)**
-* **[Developing and Editing Julia Packages](https://www.youtube.com/watch?v=tx8DRc7_c9I)**
-* **[How to Create Software Packages with Julia Language](https://www.youtube.com/watch?v=KdfFN02PuFo&t=1s)**
-* **[Developing Julia Packages](https://www.youtube.com/watch?v=QVmU29rCjaA)**
-* **[How to use Julia REPL for Developing Packages](https://www.youtube.com/watch?v=fu21WXi726A)**
-* **[JuliaCon 2019 | Pkg, Project.toml, Manifest.toml and Environments | Fredrik Ekre](https://www.youtube.com/watch?v=q-LV4zoxc-E)**
-* **[JuliaCon 2020 | Using VS Code for Julia development | David Anthoff](https://www.youtube.com/watch?v=IdhnP00Y1Ks&t=308s)**
-* [¡Tutorial de Julia en Español! - YouTube](https://www.youtube.com/watch?v=LbTbs-0pOuc)
-* [Cos'è la programmazione funzionale pura, e come può aiutare i test? by Luca Molteni - YouTube](https://www.youtube.com/watch?v=FDtdMi5HCAI)
-* [How to Create Software Packages with Julia Language - YouTube](https://www.youtube.com/watch?v=KdfFN02PuFo)
-* [А что, если без Python? Julia для машинного обучения и вообще / Глеб Ивашкевич - YouTube](https://www.youtube.com/watch?v=REVmhiJ1Zi8)
-* [A programming language to heal the planet together: Julia | Alan Edelman | TEDxMIT - YouTube](https://www.youtube.com/watch?v=qGW0GT1rCvs)
-* [JuliaCon 2018 | Why Julia is the most suitable language for science | George Datseris - YouTube](https://www.youtube.com/watch?v=7y-ahkUsIrY)
-* [The Julia Programming Language in 2020 (for Data Science) - YouTube](https://www.youtube.com/watch?v=TPC-5gsqaAk)
-* [Язык Julia - сравнение простых программ с Python и C - YouTube](https://www.youtube.com/watch?v=5sdrltkxm2Q)
-* [Язык программирования Julia - YouTube](https://www.youtube.com/playlist?list=PL8la6jEXJeytADCbeQtGZkOvJdHeQkHZ_)
-* [JuliaCon 2020 | Natural Language Processing in Julia | Ayush Kaushal - YouTube](https://www.youtube.com/watch?v=hHCi8ojazqk)
-* [A Gentle Introduction to Julia - YouTube](https://www.youtube.com/watch?v=4igzy3bGVkQ)
-* [Андрей Малахов: Урок 1. Основы Julia - YouTube](https://www.youtube.com/watch?v=Okh_yKmBCIc)
-* [julia for talented amateurs - YouTube](https://www.youtube.com/c/juliafortalentedamateurs/playlists)
-* [JuliaCon 2020 | (Juno 1.0) VSCode for Julia 1.0 | Sebastian P., Shuhei K., David A. - YouTube](https://www.youtube.com/watch?v=rQ7D1lXt3GM)
-* [How to install Julia and Visual Studio Code (+ extension features) -Learn Julia 2/n- - YouTube](https://www.youtube.com/watch?v=oi5dZxPGNlk)
-* [JuliaCon 2020 | Using VS Code for Julia development | David Anthoff - YouTube](https://www.youtube.com/watch?v=IdhnP00Y1Ks&t=308s)
-* [Setting up your Julia / VS Code environment - YouTube](https://www.youtube.com/watch?v=PpEdwVLypXU)
-* [Julia; VS Code; Iris Flower Data Set; DataVoyager | Tutorial 01 of 13 | Julia Analysis for Beginners - YouTube](https://www.youtube.com/watch?v=7M8e2Q5BirA)
-* [Configure Julia 1 in Visual Studio Code - YouTube](https://www.youtube.com/watch?v=vgE3ylqhFSw)
-
-### Reading List (3)
-* [From zero to Julia! - TechyTok](https://techytok.com/from-zero-to-julia/)
-* [JuliaAcademy](https://github.com/JuliaAcademy)
-* [StatisticalRethinkingJulia](https://github.com/StatisticalRethinkingJulia)
-* [StatisticalRethinkingJulia/StatisticsWithJuliaPlutoNotebooks.jl: Pluto notebooks accompanying the book Statistics With Julia (https://statisticswithjulia.org).](https://github.com/StatisticalRethinkingJulia/StatisticsWithJuliaPlutoNotebooks.jl)
-* [mitmath/18S191: Course 18.S191 at MIT, Spring 2021 - Introduction to computational thinking with Julia:](https://github.com/mitmath/18S191)
-* https://github.com/search?q=think+julia
-* [aquarelleX332/ThinkJuliaFR.jl](https://github.com/aquarelleX332/ThinkJuliaFR.jl)
-* [sz73/ThinkDSP.jl](https://github.com/sz73/ThinkDSP.jl)
-* [phrb/PenseJulia](https://github.com/phrb/PenseJulia)
-* https://github.com/manjunath5496/Julia-Programming-Books
-* https://github.com/BenLauwens/ThinkJulia.jl
-* https://benlauwens.github.io/ThinkJulia.jl/latest/book.html
-* https://github.com/QuantumBFS/BitBasis.jl
-* https://github.com/pcjentsch/FastModulo.jl
-* **https://jump.dev/JuMP.jl/stable/**
-* **https://symbolics.juliasymbolics.org/stable/**
-* **https://www.erichgrunewald.com/posts/utilitarianism-expressed-in-julia/**
-* **https://github.com/StatisticalRethinkingJulia**
-* [Learn Julia in One Video](https://youtu.be/sE67bP2PnOo)
-* [Knet vs MXNet for programmer new to ML - Domains / Machine Learning - JuliaLang](https://discourse.julialang.org/t/knet-vs-mxnet-for-programmer-new-to-ml/10073)
-* [Julia for ML](http://devlog.cnrs.fr/_media/apsme2018.julia_denniswilson.pdf?id=apsem2018&cache=cache)
-* https://en.wikipedia.org/wiki/Automatic_differentiation
-* https://juliahighperformance.com/
-* **https://discourse.julialang.org/t/build-a-website-with-julia/26741**
-* **[Meet some mind-blowing ways to define functions in Julia: a tour of the many ways to create functions in Julia](https://medium.com/@evalparse/there-are-so-many-ways-to-define-a-function-sort-of-in-julia-7821e49373cd)**
-* **[Statistics with Julia from the ground up | Workshop | JuliaCon 2021](https://www.youtube.com/watch?v=IlPoU5Yr2QI)**
-* **[The Julia Programming Language](https://www.youtube.com/c/TheJuliaLanguage)**
-* https://www.techrepublic.com/article/how-to-learn-julia-a-resources-guide-for-developers/
-* https://www.tutorialspoint.com/julia/julia_tutorial.pdf
-* [Think Julia: How to Think Like a Computer Scientist](http://libgen.rs/book/index.php?md5=D755D92BA30072664EE1C1C7B5756EA1)
-* [Hands-on Design Patterns and Best Practices with Julia](http://library.lol/main/42BAB0AA178AA6A4CC0522CA7B2B3853)
-* https://statisticswithjulia.org/StatisticsWithJuliaDRAFT.pdf
-* [Julia for OR](https://www.chkwon.net/julia/book/juliabook2-preview.pdf)
-* [Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf)
-* [Julia Tutorial](https://www.sas.upenn.edu/~jesusfv/Chapter_HPC_8_Julia.pdf)
-* http://libgen.rs/search.php?req=julia+1.0+programming&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
-* http://www.newthinktank.com/2018/10/julia-tutorial/
-* [Setting up your Julia / VS Code environment](https://youtu.be/PpEdwVLypXU)
-* https://www.juliafordatascience.com/
-* [Trending Julia Projects](https://www.libhunt.com/l/julia/trending)
-* speech synthesis in julia
-* [Speech Recognition · Julia Packages](https://juliapackages.com/c/speech-recognition)
-* [Dictionaries in Julia](https://www.reddit.com/r/Julia/comments/na64kl/dictionaries_in_julia_learn_julia_9n/)
-* [Julia: from total beginner to power user](https://www.youtube.com/watch?v=ZZJJgQ2IzQQ&list=PLLiJ249IkzRFxZGALbKy75_ZyHxYCUmuk)
-* [A Tour of the Julia Programming Language](https://www.youtube.com/watch?v=3bzBoIyWUq0)
-* [From Julia to Rust](https://miguelraz.github.io/blog/juliatorust/index.html)
-* [Julia Computing & MIT Introduce Differentiable Programming System Bridging AI and Science](https://medium.com/syncedreview/julia-computing-mit-introduce-differentiable-programming-system-bridging-ai-and-science-738c8a9eb0b9)
-* julia programming assembly
-* [Knet vs MXNet for programmer new to ML - Domains / Machine Learning - JuliaLang](https://discourse.julialang.org/t/knet-vs-mxnet-for-programmer-new-to-ml/10073)
-* https://dataframes.juliadata.org/stable/
-
-### Reading List (4)
-* https://juliacomputing.com/products/juliasim/
-* [Quantitative Economics with Julia](http://libgen.rs/book/index.php?md5=2DD80DBC3EEE8177BD9D176A0B0AEDED)
-* [JuliaAcademy/JuliaProgrammingForNervousBeginners: A course for people who are hesitant but curious about learning to write code in Julia.](https://github.com/JuliaAcademy/JuliaProgrammingForNervousBeginners)
-* [chengchingwen/Transformers.jl: Julia Implementation of Transformer models](https://github.com/chengchingwen/Transformers.jl)
-* [Library Genesis: Avik Sengupta; Alan Edelman - Julia high performance : optimizations, distributed computing, multithreading, and GPU programming with Julia 1.0 and beyond](http://libgen.rs/book/index.php?md5=0C606EF1F58AFC4F7C207391D0358A9B)
-* [Library Genesis: Ivo Balbaert; Adrian Salceanu - Julia 1.0 Programming Complete Reference Guide: Discover Julia, a high-performance language for technical computing](http://libgen.rs/book/index.php?md5=F7E5A9EF6BDA84244B2F55E976FAF459)
-* https://blog.devgenius.io/what-is-the-best-ide-for-developing-in-the-programming-language-julia-484c913f07bc
-* https://discourse.julialang.org/t/developing-a-beginners-roadmap-to-learn-julia-high-performance-computing-for-data-science/63970/18
-* https://github.com/JuliaPlots/Makie.jl
-* http://makie.juliaplots.org/stable/
-* https://humansofjulia.org/
-* https://github.com/TheAlgorithms/Julia
-* https://github.com/Humans-of-Julia/JuliaTutor.jl/issues/3
-* https://github.com/mossr/BeautifulAlgorithms.jl
-* https://www.typedb.org/
-* https://github.com/vaticle/typedb
-* [vaticle.com](http://vaticle.com/)
-
 ### > make Open Data Structures Julia Edition
 * [Hands-on Design Patterns and Best Practices with Julia](http://libgen.rs/book/index.php?md5=42BAB0AA178AA6A4CC0522CA7B2B3853)
 * https://github.com/PacktPublishing/Hands-on-Design-Patterns-and-Best-Practices-with-Julia
@@ -241,16 +24,16 @@
 * https://www.oxinabox.net/2020/02/09/whycompositionaljulia.html
 * https://www.oxinabox.net/2021/02/13/Julia-1.6-what-has-changed-since-1.0.html
 * [Efficient Scientific Computing with Julia](https://www.youtube.com/playlist?list=PLRN3NhKJXVhnT1oPSfxGQipMhWBN5IqA8)
-* **[The Comprehensive Julia Tutorials](https://www.youtube.com/watch?v=APMrRY5BaDo&list=PLCXbkShHt01seTlnlVg6O7f6jKGTguFi7)**
-* **[Julia Software Engineering](https://www.youtube.com/watch?v=K1VBbpCFsdw&list=PLCXbkShHt01uKk7vX5aQrTVHTHQMZktfS)**
+* [The Comprehensive Julia Tutorials](https://www.youtube.com/watch?v=APMrRY5BaDo&list=PLCXbkShHt01seTlnlVg6O7f6jKGTguFi7)
+* [Julia Software Engineering](https://www.youtube.com/watch?v=K1VBbpCFsdw&list=PLCXbkShHt01uKk7vX5aQrTVHTHQMZktfS)
 * [Julia internals](https://youtube.com/playlist?list=PLlHZu1B49BRZbvTd8JW5RmzIipz2xAvpC)
 * [Julia and C++](https://www.youtube.com/watch?v=hvnxY3NjHQ4)
 * [Introduction to Julia Internals - YouTube](https://www.youtube.com/watch?app=desktop&v=osdeT-tWjzk)
 * Julia parser
-* **[Algorithms for optimization](http://library.lol/main/F76053253FB490E7D1758A18E92218DA)**
+* [Algorithms for optimization](http://library.lol/main/F76053253FB490E7D1758A18E92218DA)
 * https://juliacomputing.com/products/juliasim/
 * https://julialang.org/learning/
-* **[Julia Programming Projects: Learn Julia 1.x by building apps for data analysis, visualization, machine learning, and the web](http://library.lol/main/0086C86218C52C8CC6AD2375A5D3AE02)**
+* [Julia Programming Projects: Learn Julia 1.x by building apps for data analysis, visualization, machine learning, and the web](http://library.lol/main/0086C86218C52C8CC6AD2375A5D3AE02)
 * https://github.com/PacktPublishing/Hands-on-Design-Patterns-and-Best-Practices-with-Julia
 
 ### Reading List (5)
@@ -273,16 +56,16 @@
 * https://www.oxinabox.net/2020/02/09/whycompositionaljulia.html
 * https://www.oxinabox.net/2021/02/13/Julia-1.6-what-has-changed-since-1.0.html
 * [Efficient Scientific Computing with Julia](https://www.youtube.com/playlist?list=PLRN3NhKJXVhnT1oPSfxGQipMhWBN5IqA8)
-* **[The Comprehensive Julia Tutorials](https://www.youtube.com/watch?v=APMrRY5BaDo&list=PLCXbkShHt01seTlnlVg6O7f6jKGTguFi7)**
-* **[Julia Software Engineering](https://www.youtube.com/watch?v=K1VBbpCFsdw&list=PLCXbkShHt01uKk7vX5aQrTVHTHQMZktfS)**
+* [The Comprehensive Julia Tutorials](https://www.youtube.com/watch?v=APMrRY5BaDo&list=PLCXbkShHt01seTlnlVg6O7f6jKGTguFi7)
+* [Julia Software Engineering](https://www.youtube.com/watch?v=K1VBbpCFsdw&list=PLCXbkShHt01uKk7vX5aQrTVHTHQMZktfS)
 * [Julia internals](https://youtube.com/playlist?list=PLlHZu1B49BRZbvTd8JW5RmzIipz2xAvpC)
 * [Julia and C++](https://www.youtube.com/watch?v=hvnxY3NjHQ4)
 * [Introduction to Julia Internals - YouTube](https://www.youtube.com/watch?app=desktop&v=osdeT-tWjzk)
 * Julia parser
-* **[Algorithms for optimization](http://library.lol/main/F76053253FB490E7D1758A18E92218DA)**
+* [Algorithms for optimization](http://library.lol/main/F76053253FB490E7D1758A18E92218DA)
 * https://juliacomputing.com/products/juliasim/
 * https://julialang.org/learning/
-* **[Julia Programming Projects: Learn Julia 1.x by building apps for data analysis, visualization, machine learning, and the web](http://library.lol/main/0086C86218C52C8CC6AD2375A5D3AE02)**
+* [Julia Programming Projects: Learn Julia 1.x by building apps for data analysis, visualization, machine learning, and the web](http://library.lol/main/0086C86218C52C8CC6AD2375A5D3AE02)
 * http://ucidatascienceinitiative.github.io/IntroToJulia/
 * GPU Programming in Julia: https://www.youtube.com/watch?v=9soe36Hqq3Y
 * Hands-on Design Patterns and Best Practices with Julia
@@ -468,11 +251,11 @@
 * [Video Teaching Myself Julia](https://youtu.be/TNoShNPoEak)
 * [Julia and The Reincarnation of Lisp](http://datascience.getresponse360.com/click.html?x=a62e&lc=usG&mc=j&s=jFaI&u=F&y=o&z=wNwulLE&)
 * [Lecture Collection | Programming Paradigms](https://www.youtube.com/watch?v=Ps8jOj7diA0&list=PL9D558D49CA734A02)
-* **[Selenium With Julia - Extracting Phone Number From Websites](https://www.youtube.com/watch?v=6O4qfhZjR9s&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=86)**
-* **[Selenium With Julia-Extracting Emails From Website](https://www.youtube.com/watch?v=8X-0oP_Ayj0&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=89)**
-* **[The Julia Programming Language](https://www.youtube.com/user/JuliaLanguage)**
+* [Selenium With Julia - Extracting Phone Number From Websites](https://www.youtube.com/watch?v=6O4qfhZjR9s&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=86)
+* [Selenium With Julia-Extracting Emails From Website](https://www.youtube.com/watch?v=8X-0oP_Ayj0&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=89)
+* [The Julia Programming Language](https://www.youtube.com/user/JuliaLanguage)
 * [Looking for insight on how Julia works at a low level](https://www.reddit.com/r/Julia/comments/dynz9f/looking_for_insight_on_how_julia_works_at_a_low/)
-* **[Developing Julia Packages](https://www.youtube.com/watch?v=QVmU29rCjaA&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=17)**
+* [Developing Julia Packages](https://www.youtube.com/watch?v=QVmU29rCjaA&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=17)
 * https://stackoverflow.com/questions/tagged/julia-lang
 * https://stackoverflow.com/questions/tagged/julia
 * [Julia GitHub https://github.com/JuliaLang/julia](https://github.com/JuliaLang/julia)
@@ -786,5 +569,216 @@
 * https://fluxml.ai/Flux.jl/stable/gpu/#Disabling-CUDA-or-choosing-which-GPUs-are-visible-to-Flux
 
 * https://discourse.julialang.org/t/ann-datatoolkit-jl-reproducible-flexible-and-convenient-data-management/104757 
-* https://discourse.julialang.org/t/best-all-purpose-text-or-website-for-learning-julia/104619/3 
-**[Julia Quick Syntax Reference: A Pocket Guide for Data Science Programming](http://library.lol/main/FD61CF1E5A4DFAB33A8E6DC938EEB276)**
+* https://discourse.julialang.org/t/best-all-purpose-text-or-website-for-learning-julia/104619/3 * [Julia Quick Syntax Reference: A Pocket Guide for Data Science Programming](http://library.lol/main/FD61CF1E5A4DFAB33A8E6DC938EEB276)
+
+
+### Reading List (0)
+* https://bkamins.github.io/
+* https://www.simtech.uni-stuttgart.de/events/simtech-summer-school/SuSch_2/program/ 
+* https://bkamins.github.io/julialang/2023/07/27/replace.html 
+* https://bkamins.github.io/julialang/2023/07/21/df16.html 
+* https://bkamins.github.io/julialang/2023/08/03/laces.html 
+* https://bkamins.github.io/julialang/2023/07/14/graphpuzzle.html 
+* https://forem.julialang.org/gage/creating-nice-simple-geo-plots-from-scratch-using-makiejl-301 
+* https://forem.julialang.org/vinodv/exploring-the-matrix-inversion-lemma-in-julia-48id 
+* https://chifi.dev/an-in-depth-julia-lesson-on-parameters-2c98ac529b51 
+* https://chifi.dev/chifi-newsletter-august-6th-2023-67266335c575 
+* https://medium.com/@sumitudaypandit/julia-enters-top-20-in-tiobe-index-a-promising-future-for-high-performance-computing-ee82d4b71212 
+* https://chifi.dev/redirecting-output-in-julia-the-rundown-7a1c814f842f 
+* https://chifi.dev/even-more-olive-updates-b44578cb5eb5 
+* https://chifi.dev/adding-rpc-cells-to-olive-in-just-a-few-functions-4abad46f9e2e 
+* https://chifi.dev/rolling-arrays-dropping-vectors-in-julia-93c4e0813365 
+* https://chifi.dev/the-key-to-mastering-julia-eb011e4c17d8 
+* https://chifi.dev/object-oriented-multiple-dispatch-with-julia-8a1533f2236c 
+* https://scientificcoder.com/user-defined-show-method-in-julia 
+* https://scientificcoder.com/user-defined-show-method-in-julia 
+* https://towardsai.net/p/machine-learning/stop-ignoring-julia-learn-it-now-and-thank-your-younger-self-in-the-future 
+* https://medium.com/@HalderNilimesh/unraveling-non-linear-regression-in-julia-a-comprehensive-guide-with-practical-code-examples-6c03fe95b7c6 
+* https://levelup.gitconnected.com/meet-julia-the-future-of-data-science-401d8fb812dd 
+* https://medium.com/@ozanevkaya/fruitful-marriages-embedding-gpts-into-programming-environments-c60cc3d2376a 
+* https://5alman.medium.com/julia-101-ad6431aeafdf 
+* https://towardsdatascience.com/working-with-ms-sql-server-in-julia-fc6fcd55d69a 
+* https://towardsdatascience.com/5-jupyter-notebook-tricks-i-only-discovered-2-years-into-my-data-science-career-99bbe482a45f
+* https://medium.datadriveninvestor.com/exploring-julia-programming-language-data-manipulation-part-1-98628527c981 
+* https://medium.datadriveninvestor.com/exploring-julia-programming-language-data-manipulation-part-2-5bcaba1fa7d1 
+* https://medium.datadriveninvestor.com/exploring-julia-programming-language-data-manipulation-part-3-cd3e9f4270d6 
+* https://pub.towardsai.net/gated-recurrent-neural-network-from-scratch-in-julia-ad8b2dabe37f 
+* https://medium.com/@sddkal/julia-plotting-maximum-drawdown-90202fdb698c 
+* https://www.tiobe.com/tiobe-index/ 
+* https://info.juliahub.com/juliahub-presentations-at-juliacon-july-26-28-in-cambridge-ma 
+* https://info.juliahub.com/large-language-model-llm-tutorial-with-julias-transformers.jl 
+* https://cormullion.github.io/ 
+* https://www.computerworld.es/tecnologia/el-lenguaje-de-programacion-julia-se-cuela-entre-los-20-primeros-del-indice-de-popularidad-de-tiobe 
+* https://blog.devgenius.io/the-popularity-of-data-science-languages-python-and-r-july-2023-update-29f95593085 
+* https://juliagpu.org/post/2023-07-19-oneapi_profiling/ 
+* https://info.juliahub.com/ask-ai-chat-gpt-juliahub 
+* https://discourse.julialang.org/t/this-month-in-julia-world-2023-07/102276 
+
+* https://www.manning.com/books/julia-for-data-analysis
+* [Numerical Linear Algebra](https://ipfs.io/ipfs/bafykbzaceaojrmkzpxjpnikhshltzkfu7iwh47rcmq5ezr36gyx5y426wd3gq?filename=%28Springer%20Undergraduate%20Mathematics%20Series%29%20Folkmar%20Bornemann%20%28auth.%29%20-%20%20Numerical%20Linear%20Algebra_%20A%20Concise%20Introduction%20with%20MATLAB%20and%20Julia-Springer%20International%20Publishing%20%282018%29.pdf)
+* https://stackoverflow.com/questions/43453944/what-is-the-difference-between-code-native-code-typed-and-code-llvm-in-julia
+* [The Julia Compilation Process](https://testsubjector.github.io/blog/2020/03/26/The-Julia-Compilation-Process)
+* [PackageCompiler and Static Compilation - YouTube](https://www.youtube.com/watch?v=7gHYrZ4QWZs)
+* search: disassembled julia executable
+* [(Springer Undergraduate Mathematics Series) Folkmar Bornemann (auth.) - Numerical Linear Algebra_ A Concise Introduction with MATLAB and Julia-Springer International Publishing (2018).pdf(https://ipfs.io/ipfs/bafykbzaceaojrmkzpxjpnikhshltzkfu7iwh47rcmq5ezr36gyx5y426wd3gq?filename=%28Springer%20Undergraduate%20Mathematics%20Series%29%20Folkmar%20Bornemann%20%28auth.%29%20-%20%20Numerical%20Linear%20Algebra_%20A%20Concise%20Introduction%20with%20MATLAB%20and%20Julia-Springer%20International%20Publishing%20%282018%29.pdf)
+* [Building static websites in Julia](https://franklinjl.org/)
+* [Category:Julia - Rosetta Code](http://www.rosettacode.org/wiki/Category:Julia)
+* [DJ's Office Hours](https://youtube.com/c/DJsOfficeHours)
+* [Djruhnke/numerical-analysis-julia: Compilation of Numerical Methods in Julia](https://github.com/Djruhnke/numerical-analysis-julia)
+* [First Semester in Numerical Analysis with Julia | fsu.digital.flvc.org](http://fsu.digital.flvc.org/islandora/object/fsu%3A657877)
+* https://arstechnica.com/science/2020/10/the-unreasonable-effectiveness-of-the-julia-programming-language/
+* https://increment.com/programming-languages/goldilocks-language-history-of-julia/
+* [Julia – Changhyun Kwon](https://www.chkwon.net/julia/)
+* [Julia (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Julia_(programming_language))
+* [Julia Programming for Operations Research 2/e | Softcover.io](https://juliabook.chkwon.net/book)
+* [Library Genesis: Bättig, Daniel - Angewandte Mathematik 1 mit MATLAB und Julia -- Ein anwendungs- und beispielorientierter Einstieg für technische Studiengänge](http://libgen.rs/book/index.php?md5=879EFF332E04C780E17393C70515126B)
+* [Library Genesis: Daniel Bättig - Angewandte Mathematik 2 mit MATLAB und Julia: Ein anwendungs- und beispielorientierter Einstieg für technische Studiengänge](http://libgen.is/book/index.php?md5=F68CB05A9D8A2B0797FADAE462440D6E)
+* [Library Genesis: Noel Kalicharan - Julia - Bit by Bit: Programming for Beginners (Undergraduate Topics in Computer Science)](http://libgen.is/book/index.php?md5=3E138E52A31A9B00AD75A122CCBFB276)
+* [Library Genesis: Tom Kwong - Hands-on Design Patterns and Best Practices with Julia](http://libgen.is/book/index.php?md5=42BAB0AA178AA6A4CC0522CA7B2B3853)
+* [MATH 3510, Numerical Analysis I, Fall semester 2020 - Julia programming](https://www.phys.uconn.edu/~rozman/Courses/m3510_20f/julia.html)
+* [mitmath/18330: 18.330 Introduction to Numerical Analysis](https://github.com/mitmath/18330)
+* [Numerical Analysis & Statistics: MATLAB, R, NumPy, Julia - Hyperpolyglot](https://hyperpolyglot.org/numerical-analysis)
+* [Statistics with Julia](http://library.lol/main/7FA6A3926808C7FA3019EDB3E09900C3)
+* [Welcome to the blog!](https://miguelraz.github.io/)
+* [!!! Julia in VS Code - What's New | David Anthoff, Zac Nugent | JuliaCon2021 The Julia Programming Language The Julia Programming Language • 759 visualizaciones hace 19 horas Nuevo](https://www.youtube.com/watch?v=kl3ySM4o-dw)
+* [From Julia to Rust](https://miguelraz.github.io/blog/juliatorust/)
+* [How to setup Project Environments in Julia | by René | Towards Data Science](https://towardsdatascience.com/how-to-setup-project-environments-in-julia-ec8ae73afe9c)
+* [Julia Programming for Operations Research | Softcover.io](https://www.softcover.io/read/7b8eb7d0/juliabook)
+* Julia to WASM compiler
+* [JuliaCon 2021 | Day 1 Single Track | Dr. Jan Vitek, Prof William Kahan Keynote - YouTube](https://www.youtube.com/watch?v=LT4AP7CUMAw)
+* [mossr/BeautifulAlgorithms.jl: Concise and beautiful algorithms written in Julia](https://github.com/mossr/BeautifulAlgorithms.jl)
+* https://github.com/JuliaLang/julia/blob/master/CONTRIBUTING.md
+* can julia replace python?
+* https://www.quora.com/If-Julia-does-everything-better-than-Python-why-isnt-the-community-massively-switching?ch=17&oid=86226363&share=9c0c1ea1&srid=HPb8&target_type=question
+* https://discourse.julialang.org/t/which-paper-s-to-read-on-julia-design/54864
+* [Introduction to Julia Internals](https://www.youtube.com/watch?v=osdeT-tWjzk)
+* https://bookauthority.org/books/best-julia-programming-ebooks
+* https://github.com/JuliaLang/julia/blob/master/CONTRIBUTING.md
+* https://www.techrepublic.com/article/how-to-learn-julia-a-resources-guide-for-developers/
+* https://habr.com/ru/search/?q=julia&target_type=posts&order=relevance
+* https://github.com/JuliaEditorSupport/julia-vim
+* https://github.com/joom/latex-unicoder.vim
+* https://vim.fandom.com/wiki/Working_with_Unicode
+* https://dev.to/ri5hirajp/enable-unicode-support-in-vscode-terminal-2ph5
+* [The future of Machine Learning and why it looks a lot like Julia](https://www.youtube.com/watch?v=3w5KoaS6h88)
+* [read: https://en.wikipedia.org/wiki/Julia_(programming_language)](https://en.wikipedia.org/wiki/Julia_(programming_language))
+* https://discourse.julialang.org/t/julia-v1-7-0-has-been-released-and-v1-6-is-now-lts/72336
+* https://stackoverflow.com/questions/68224324/how-to-build-julia-from-source
+* https://docs.julialang.org/en/v1/manual/style-guide/#Style-Guide
+* [Working with Flux.jl models on the Hugging Face Hub 🤗](https://medium.com/@logankilpatrick/working-with-flux-jl-models-on-the-hugging-face-hub-b95af2b80a47?source=user_profile---------2-------------------------------)
+* https://github.com/chengchingwen/HuggingFaceApi.jl
+* https://github.com/MommaWatasu/LearningHorse.jl
+* https://julia.school/julia/
+* https://github.com/F0x1fy/Julia-Virtualized-CPU
+* https://syl1.gitbook.io/julia-language-a-concise-tutorial/
+* [Julia Quick Syntax Reference: A Pocket Guide for Data Science Programming](http://library.lol/main/AAEBF5381F2F097730DF6158DD0975C4)
+* [Numerical Linear Algebra with Julia](https://books.google.de/books?id=PAFszgEACAAJ&printsec=frontcover&source=gbs_ge_summary_r&redir_esc=y#v=onepage&q&f=false)
+* [Numerical Linear Algebra. A concise Introduction with MatLab and Julia](http://libgen.rs/book/index.php?md5=FDBC69BD61C21DF88E9B82821B763C70)
+* [https://datascience-book.gitlab.io](https://datascience-book.gitlab.io/)
+* [Julia Advanced](https://www.youtube.com/watch?v=VucNtPVCJPw&list=PLOU8LxhyFylKQO--4HIjX7_uzzVfRd5xu)
+* [Julia Intermediate](https://www.youtube.com/watch?v=UIA-oUGKYf4&list=PLOU8LxhyFylJUb6bBgZoKKivr5hkNVrCw)
+* [Julia Basics](https://www.youtube.com/watch?v=zuDZhCBQ4D4&list=PLOU8LxhyFylLYpkd3WgEmblTUiwrZ719y)
+* https://www.youtube.com/results?search_query=multiple+dispatch+in+julia
+* https://www.reddit.com/r/Julia/comments/qnf7fj/built_this_with_a_friend_at_work_completely_in/
+* Link
+* DesignByContract.jl
+* InteractiveErrors.jl
+* [Learning Programming with Julia](https://youtube.com/playlist?list=PL-JPTlPA83TnmHP27bi5oL93eg6MJwY8q)
+* https://www.julia-vscode.org/docs/stable/
+* https://www.julia-vscode.org/docs/dev/gettingstarted/#Installation-and-Configuration-1
+* https://stackoverflow.com/questions/33854795/does-a-python-like-virtualenv-exist-in-julia
+* https://docs.julialang.org/en/v1/manual/noteworthy-differences/
+* https://docs.julialang.org/en/v1/manual/performance-tips/
+* [Package development in VSCode | Workshop | JuliaCon 2021](https://www.youtube.com/watch?v=F1R3ETaRQXY)
+* [Developing and Editing Julia Packages](https://www.youtube.com/watch?v=tx8DRc7_c9I)
+* [How to Create Software Packages with Julia Language](https://www.youtube.com/watch?v=KdfFN02PuFo&t=1s)
+* [Developing Julia Packages](https://www.youtube.com/watch?v=QVmU29rCjaA)
+* [How to use Julia REPL for Developing Packages](https://www.youtube.com/watch?v=fu21WXi726A)
+* [JuliaCon 2019 | Pkg, Project.toml, Manifest.toml and Environments | Fredrik Ekre](https://www.youtube.com/watch?v=q-LV4zoxc-E)
+* [JuliaCon 2020 | Using VS Code for Julia development | David Anthoff](https://www.youtube.com/watch?v=IdhnP00Y1Ks&t=308s)
+* [¡Tutorial de Julia en Español! - YouTube](https://www.youtube.com/watch?v=LbTbs-0pOuc)
+* [Cos'è la programmazione funzionale pura, e come può aiutare i test? by Luca Molteni - YouTube](https://www.youtube.com/watch?v=FDtdMi5HCAI)
+* [How to Create Software Packages with Julia Language - YouTube](https://www.youtube.com/watch?v=KdfFN02PuFo)
+* [А что, если без Python? Julia для машинного обучения и вообще / Глеб Ивашкевич - YouTube](https://www.youtube.com/watch?v=REVmhiJ1Zi8)
+* [A programming language to heal the planet together: Julia | Alan Edelman | TEDxMIT - YouTube](https://www.youtube.com/watch?v=qGW0GT1rCvs)
+* [JuliaCon 2018 | Why Julia is the most suitable language for science | George Datseris - YouTube](https://www.youtube.com/watch?v=7y-ahkUsIrY)
+* [The Julia Programming Language in 2020 (for Data Science) - YouTube](https://www.youtube.com/watch?v=TPC-5gsqaAk)
+* [Язык Julia - сравнение простых программ с Python и C - YouTube](https://www.youtube.com/watch?v=5sdrltkxm2Q)
+* [Язык программирования Julia - YouTube](https://www.youtube.com/playlist?list=PL8la6jEXJeytADCbeQtGZkOvJdHeQkHZ_)
+* [JuliaCon 2020 | Natural Language Processing in Julia | Ayush Kaushal - YouTube](https://www.youtube.com/watch?v=hHCi8ojazqk)
+* [A Gentle Introduction to Julia - YouTube](https://www.youtube.com/watch?v=4igzy3bGVkQ)
+* [Андрей Малахов: Урок 1. Основы Julia - YouTube](https://www.youtube.com/watch?v=Okh_yKmBCIc)
+* [julia for talented amateurs - YouTube](https://www.youtube.com/c/juliafortalentedamateurs/playlists)
+* [JuliaCon 2020 | (Juno 1.0) VSCode for Julia 1.0 | Sebastian P., Shuhei K., David A. - YouTube](https://www.youtube.com/watch?v=rQ7D1lXt3GM)
+* [How to install Julia and Visual Studio Code (+ extension features) -Learn Julia 2/n- - YouTube](https://www.youtube.com/watch?v=oi5dZxPGNlk)
+* [JuliaCon 2020 | Using VS Code for Julia development | David Anthoff - YouTube](https://www.youtube.com/watch?v=IdhnP00Y1Ks&t=308s)
+* [Setting up your Julia / VS Code environment - YouTube](https://www.youtube.com/watch?v=PpEdwVLypXU)
+* [Julia; VS Code; Iris Flower Data Set; DataVoyager | Tutorial 01 of 13 | Julia Analysis for Beginners - YouTube](https://www.youtube.com/watch?v=7M8e2Q5BirA)
+* [Configure Julia 1 in Visual Studio Code - YouTube](https://www.youtube.com/watch?v=vgE3ylqhFSw)
+* [From zero to Julia! - TechyTok](https://techytok.com/from-zero-to-julia/)
+* [JuliaAcademy](https://github.com/JuliaAcademy)
+* [StatisticalRethinkingJulia](https://github.com/StatisticalRethinkingJulia)
+* [StatisticalRethinkingJulia/StatisticsWithJuliaPlutoNotebooks.jl: Pluto notebooks accompanying the book Statistics With Julia (https://statisticswithjulia.org).](https://github.com/StatisticalRethinkingJulia/StatisticsWithJuliaPlutoNotebooks.jl)
+* [mitmath/18S191: Course 18.S191 at MIT, Spring 2021 - Introduction to computational thinking with Julia:](https://github.com/mitmath/18S191)
+* https://github.com/search?q=think+julia
+* [aquarelleX332/ThinkJuliaFR.jl](https://github.com/aquarelleX332/ThinkJuliaFR.jl)
+* [sz73/ThinkDSP.jl](https://github.com/sz73/ThinkDSP.jl)
+* [phrb/PenseJulia](https://github.com/phrb/PenseJulia)
+* https://github.com/manjunath5496/Julia-Programming-Books
+* https://github.com/BenLauwens/ThinkJulia.jl
+* https://benlauwens.github.io/ThinkJulia.jl/latest/book.html
+* https://github.com/QuantumBFS/BitBasis.jl
+* https://github.com/pcjentsch/FastModulo.jl
+* https://jump.dev/JuMP.jl/stable/
+* https://symbolics.juliasymbolics.org/stable/
+* https://www.erichgrunewald.com/posts/utilitarianism-expressed-in-julia/
+* https://github.com/StatisticalRethinkingJulia
+* [Learn Julia in One Video](https://youtu.be/sE67bP2PnOo)
+* [Knet vs MXNet for programmer new to ML - Domains / Machine Learning - JuliaLang](https://discourse.julialang.org/t/knet-vs-mxnet-for-programmer-new-to-ml/10073)
+* [Julia for ML](http://devlog.cnrs.fr/_media/apsme2018.julia_denniswilson.pdf?id=apsem2018&cache=cache)
+* https://en.wikipedia.org/wiki/Automatic_differentiation
+* https://juliahighperformance.com/
+* https://discourse.julialang.org/t/build-a-website-with-julia/26741
+* [Meet some mind-blowing ways to define functions in Julia: a tour of the many ways to create functions in Julia](https://medium.com/@evalparse/there-are-so-many-ways-to-define-a-function-sort-of-in-julia-7821e49373cd)
+* [Statistics with Julia from the ground up | Workshop | JuliaCon 2021](https://www.youtube.com/watch?v=IlPoU5Yr2QI)
+* [The Julia Programming Language](https://www.youtube.com/c/TheJuliaLanguage)
+* https://www.techrepublic.com/article/how-to-learn-julia-a-resources-guide-for-developers/
+* https://www.tutorialspoint.com/julia/julia_tutorial.pdf
+* [Think Julia: How to Think Like a Computer Scientist](http://libgen.rs/book/index.php?md5=D755D92BA30072664EE1C1C7B5756EA1)
+* [Hands-on Design Patterns and Best Practices with Julia](http://library.lol/main/42BAB0AA178AA6A4CC0522CA7B2B3853)
+* https://statisticswithjulia.org/StatisticsWithJuliaDRAFT.pdf
+* [Julia for OR](https://www.chkwon.net/julia/book/juliabook2-preview.pdf)
+* [Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf)
+* [Julia Tutorial](https://www.sas.upenn.edu/~jesusfv/Chapter_HPC_8_Julia.pdf)
+* http://libgen.rs/search.php?req=julia+1.0+programming&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
+* http://www.newthinktank.com/2018/10/julia-tutorial/
+* [Setting up your Julia / VS Code environment](https://youtu.be/PpEdwVLypXU)
+* https://www.juliafordatascience.com/
+* [Trending Julia Projects](https://www.libhunt.com/l/julia/trending)
+* speech synthesis in julia
+* [Speech Recognition · Julia Packages](https://juliapackages.com/c/speech-recognition)
+* [Dictionaries in Julia](https://www.reddit.com/r/Julia/comments/na64kl/dictionaries_in_julia_learn_julia_9n/)
+* [Julia: from total beginner to power user](https://www.youtube.com/watch?v=ZZJJgQ2IzQQ&list=PLLiJ249IkzRFxZGALbKy75_ZyHxYCUmuk)
+* [A Tour of the Julia Programming Language](https://www.youtube.com/watch?v=3bzBoIyWUq0)
+* [From Julia to Rust](https://miguelraz.github.io/blog/juliatorust/index.html)
+* [Julia Computing & MIT Introduce Differentiable Programming System Bridging AI and Science](https://medium.com/syncedreview/julia-computing-mit-introduce-differentiable-programming-system-bridging-ai-and-science-738c8a9eb0b9)
+* julia programming assembly
+* [Knet vs MXNet for programmer new to ML - Domains / Machine Learning - JuliaLang](https://discourse.julialang.org/t/knet-vs-mxnet-for-programmer-new-to-ml/10073)
+* https://dataframes.juliadata.org/stable/
+* https://juliacomputing.com/products/juliasim/
+* [Quantitative Economics with Julia](http://libgen.rs/book/index.php?md5=2DD80DBC3EEE8177BD9D176A0B0AEDED)
+* [JuliaAcademy/JuliaProgrammingForNervousBeginners: A course for people who are hesitant but curious about learning to write code in Julia.](https://github.com/JuliaAcademy/JuliaProgrammingForNervousBeginners)
+* [chengchingwen/Transformers.jl: Julia Implementation of Transformer models](https://github.com/chengchingwen/Transformers.jl)
+* [Library Genesis: Avik Sengupta; Alan Edelman - Julia high performance : optimizations, distributed computing, multithreading, and GPU programming with Julia 1.0 and beyond](http://libgen.rs/book/index.php?md5=0C606EF1F58AFC4F7C207391D0358A9B)
+* [Library Genesis: Ivo Balbaert; Adrian Salceanu - Julia 1.0 Programming Complete Reference Guide: Discover Julia, a high-performance language for technical computing](http://libgen.rs/book/index.php?md5=F7E5A9EF6BDA84244B2F55E976FAF459)
+* https://blog.devgenius.io/what-is-the-best-ide-for-developing-in-the-programming-language-julia-484c913f07bc
+* https://discourse.julialang.org/t/developing-a-beginners-roadmap-to-learn-julia-high-performance-computing-for-data-science/63970/18
+* https://github.com/JuliaPlots/Makie.jl
+* http://makie.juliaplots.org/stable/
+* https://humansofjulia.org/
+* https://github.com/TheAlgorithms/Julia
+* https://github.com/Humans-of-Julia/JuliaTutor.jl/issues/3
+* https://github.com/mossr/BeautifulAlgorithms.jl
+* https://www.typedb.org/
+* https://github.com/vaticle/typedb
+* [vaticle.com](http://vaticle.com/)

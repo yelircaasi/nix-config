@@ -6,7 +6,7 @@
 -
 
 ## Top
-- [AmadeusWM *********](https://github.com/AmadeusWM/nixos-dots)
+- [AmadeusWM *****](https://github.com/AmadeusWM/nixos-dots)
    - interesting flake split into many different outputs
    - moderate theming for qt and gtk, good firefox theming, some zathura theming
    - good copyq customzation
@@ -20,7 +20,7 @@
 - [anomalocaridid](https://github.com/Anomalocaridid/dotfiles)
   - includes Nyxt
   - wezterm, zsh, helix, nnn, bat, btop, eww, eza, fish, fuzzel, fzf, gaming, git, glow, hyprland, 
-- [Aylur *********](https://github.com/Aylur/dotfiles)
+- [Aylur *****](https://github.com/Aylur/dotfiles)
    - ags, sassc, home manager, wezterm, hyprland, gnome-shell theming, colorscript, 
    - blackbox terminal, bash+zsh sharing configs, firefox, starship
    - tmux; lf, neofetch, obsidian, mpv with override, libreoffice spotify
@@ -37,16 +37,18 @@
 - [ch1bo ](https://github.com/ch1bo/dotfiles) - nixos flake, home manager, z, bash, emacs, git, gpg, haskell, urxvt, vim, colortable
 - [coffee-is-power](https://github.com/coffee-is-power/nix-configuration) - alacritty, direnv, dunst, env-variables, eww, fcitx5, firefox, gh, git, gpg-agent, gtk-themes, helix, hyprland, hyprpaper, lazygit, mime-apps, networkmanager-dmenu-config, nushell, rofi, vscode, zellij
 - [colemickens/nixcfg: NixOS and Home-Manager configs for my devices. dotfiles, but way better](https://github.com/colemickens/nixcfg) - 
-- [crystal ](https://github.com/chadcat7/crystal)chadcat7 - perfect nixos (flake) - awesome - [chadcat7 fuyu](https://github.com/chadcat7/fuyu/tree/the-awesome-config) // hyprland, zsh, wezterm, ncmpcpp, picom ([fdev31 fork](https://github.com/fdev31/picom/tree/animation-pr)), nvim ([config](https://github.com/chadcat7/lodo)) [dwm](https://github.com/chadcat7/dwm) [st](https://github.com/chadcat7/st)
-- [contrun *****************](https://github.com/contrun/dotfiles) - nix flake, ammonite shell, ansible, haskell, cabal, nextcloud, alacritty, aria2, atuin, autokey, calibre, copyq, con, dunst, fcitx. fcron, foot, i3, i3blocks, i3status-rust, i3status, kakoune with lsp, karabiner, kupfer, latexmk, luakit, midnight commander, mpv, mutt, nixpkgs, nvim, nvimpager, papis, parcellite, fish, pry (ruby), qpdfview, qutebrowser, ranger, rclone, rofi, sslh, sway, sxkhd, syncthing-gtk, systemd, terminator, termite, termonad, tilda, todoman, tridactyl, uzbl, vdirsyncer, wezterm, xkeysnail, xmobar, youtube-dl, zathura, screenkey
+- [crystal ](https://github.com/chadcat7/crystal)chadcat7 - perfect nixos (flake) - awesome - [chadcat7 fuyu](https://github.com/chadcat7/fuyu/tree/the-awesome-config) // hyprland, zsh, wezterm, ncmpcpp, picom ([fdev31 fork](https://github.com/fdev31/picom/tree/animation-pr)), nvim ([config](https://github.com/chadcat7/lodo))
+* [dwm](https://github.com/chadcat7/dwm)
+* [st](https://github.com/chadcat7/st)
+- [contrun *****](https://github.com/contrun/dotfiles) - nix flake, ammonite shell, ansible, haskell, cabal, nextcloud, alacritty, aria2, atuin, autokey, calibre, copyq, con, dunst, fcitx. fcron, foot, i3, i3blocks, i3status-rust, i3status, kakoune with lsp, karabiner, kupfer, latexmk, luakit, midnight commander, mpv, mutt, nixpkgs, nvim, nvimpager, papis, parcellite, fish, pry (ruby), qpdfview, qutebrowser, ranger, rclone, rofi, sslh, sway, sxkhd, syncthing-gtk, systemd, terminator, termite, termonad, tilda, todoman, tridactyl, uzbl, vdirsyncer, wezterm, xkeysnail, xmobar, youtube-dl, zathura, screenkey
 - [datsfilipe](https://github.com/datsfilipe/dotfiles) - nix flake ###
 - [doctorfree](https://github.com/doctorfree/dotfiles-linux)  - cabal, google drive, kitty, oh my zsh, w3m, bash, conky, editorconfig, git, newsrc, p10k, tmux, vim, xbindkeys, asciiville, autostart, beets, btop, got, jml, kitty, lsd, mopidy, mpcplus, mpd, mppcava, navidrome, neofetch, meomutt, newsboat, nix, ranger, tmuxp, tuir, wtf, yadm, yt-dlp
 - [figsoda](https://github.com/figsoda/cfg)
   - excellent Nix code, from one of the top maintainers of NixOS
 - [HeinzDev](https://github.com/HeinzDev/Hyprland-dotfiles (nix) ) - 
-- [IllustratedMan-code dotfiles](https://github.com/IllustratedMan-code/dotfiles) ********* - (nix), hyprland, gnuplot, doom emacs, dunst, eww, gtk, i3, kitty, 
-- [IllustratedMan-code nixconfig](https://github.com/IllustratedMan-code/nixconfig) *********  - nix (flake)
-- [JonathanReeve](https://github.com/JonathanReeve/dotfiles) ********* doom-emacs, R, cachix, sway colors, nushell, gnome, hyprland, python, waybar
+- [IllustratedMan-code dotfiles](https://github.com/IllustratedMan-code/dotfiles) ***** - (nix), hyprland, gnuplot, doom emacs, dunst, eww, gtk, i3, kitty, 
+- [IllustratedMan-code nixconfig](https://github.com/IllustratedMan-code/nixconfig) *****  - nix (flake)
+- [JonathanReeve](https://github.com/JonathanReeve/dotfiles) ***** doom-emacs, R, cachix, sway colors, nushell, gnome, hyprland, python, waybar
   - 
   - nixos, cachix, doom emacs, r, cachix, sway, nushell, gnome, home manager
   - interesting nushell files
@@ -54,19 +56,20 @@
   - good use of conditionals
 - [jakehamilton/config](https://github.com/jakehamilton/config)
   - good examples for how to use overlays from another flake
-- [julius-boettger](https://github.com/julius-boettger/dotfiles) *********  - nixos, autokey, awesomewm, nix, firefox custom css, ideavim, gitnuro, neofetch, picom, circadian, sddm-sugar-candy, home manager, obs-studio, font-manager, pick-colour-picker, unstable.vscode, firefox-devedition, obsidian, libreoffice, barrier, discord, bitwarden, gimp-with-plugins, virtualbox, jetbrains.idea-ultimate, gparted, spotify, networkmanagerapplet, ventoy, unstable.stacer (system monitor), autokey (x11 desktop automation), unstable.darktable (photo editor and raw developer), inkscape-with-extensions (vector graphic editor), veracrypt (disk encryption), freefilesync (file backup), clipster (clipboard manager), alsa-scarlett-gui (control center for focusrite usb audio interface), unstable.git-credential-manager (gui authentication for git), vlc (video player), qview (image viewer), audacious (audio player), guvcview (camera), dconf (needed for home-manager gtk theming), sioyek (pdf reader), also available as programs.sioyek in hm, baobab (disk usage analyzer), (gtk theme), fluent-gtk-theme, virtualenv, alsa-utils (control volume), appimage-run (run app images on nixos), asciiquarium (ascii art aquarium), barrier, cbonsai (ascii art bonsai), clipster (clipboard manager), fortune (random quote), gcc, git, bash, wget, tree, neofetch, gphoto2fs (mount camera), gnome.nautilus (file manager), gnome.sushi (thumbnails in nautilus), gparted, gphoto2fs (mount camera), jdk, libsForQt5.qt5.qtwayland qt6.qtwayland (hyprland must-haves), lolcat (make things rainbow colored), lxde.lxmenu-data (required to discover applications), lxde.lxsession # just needed for lxpolkit (an authentication agent), lxqt.lxqt-powermanagement (turn off monitors on idle), nodejs_20, pcmanfm (file manager), pick-colour-picker, picom-jonaburg (compositor), pulseaudio (for pactl), python3Full, rustup, starship (shell prompt), install as program and package to set PATH, ulauncher (launcher), unclutter-xfixes (hide mouse on inactivity), unstable.eww-wayland (build custom widgets), unstable.grimblast (screenshot), unstable.swaynotificationcenter, unstable.swayosd (osd for volume changes), unstable.swww (wallpaper switching with animations), unstable.waybar (status bar), unstable.xssstate, variables.pkgs.circadian, variables.pkgs.hyprsome (awesome-like workspaces), xarchiver (archive manager), xprintidle,
+- [julius-boettger](https://github.com/julius-boettger/dotfiles) *****  - nixos, autokey, awesomewm, nix, firefox custom css, ideavim, gitnuro, neofetch, picom, circadian, sddm-sugar-candy, home manager, obs-studio, font-manager, pick-colour-picker, unstable.vscode, firefox-devedition, obsidian, libreoffice, barrier, discord, bitwarden, gimp-with-plugins, virtualbox, jetbrains.idea-ultimate, gparted, spotify, networkmanagerapplet, ventoy, unstable.stacer (system monitor), autokey (x11 desktop automation), unstable.darktable (photo editor and raw developer), inkscape-with-extensions (vector graphic editor), veracrypt (disk encryption), freefilesync (file backup), clipster (clipboard manager), alsa-scarlett-gui (control center for focusrite usb audio interface), unstable.git-credential-manager (gui authentication for git), vlc (video player), qview (image viewer), audacious (audio player), guvcview (camera), dconf (needed for home-manager gtk theming), sioyek (pdf reader), also available as programs.sioyek in hm, baobab (disk usage analyzer), (gtk theme), fluent-gtk-theme, virtualenv, alsa-utils (control volume), appimage-run (run app images on nixos), asciiquarium (ascii art aquarium), barrier, cbonsai (ascii art bonsai), clipster (clipboard manager), fortune (random quote), gcc, git, bash, wget, tree, neofetch, gphoto2fs (mount camera), gnome.nautilus (file manager), gnome.sushi (thumbnails in nautilus), gparted, gphoto2fs (mount camera), jdk, libsForQt5.qt5.qtwayland qt6.qtwayland (hyprland must-haves), lolcat (make things rainbow colored), lxde.lxmenu-data (required to discover applications), lxde.lxsession # just needed for lxpolkit (an authentication agent), lxqt.lxqt-powermanagement (turn off monitors on idle), nodejs_20, pcmanfm (file manager), pick-colour-picker, picom-jonaburg (compositor), pulseaudio (for pactl), python3Full, rustup, starship (shell prompt), install as program and package to set PATH, ulauncher (launcher), unclutter-xfixes (hide mouse on inactivity), unstable.eww-wayland (build custom widgets), unstable.grimblast (screenshot), unstable.swaynotificationcenter, unstable.swayosd (osd for volume changes), unstable.swww (wallpaper switching with animations), unstable.waybar (status bar), unstable.xssstate, variables.pkgs.circadian, variables.pkgs.hyprsome (awesome-like workspaces), xarchiver (archive manager), xprintidle,
 - [martinbaillie](https://github.com/martinbaillie/dotfiles)
 - [Misterio77](https://github.com/misterio77/nix-config)
   - author of the template I used
   - browsers: 
-- [rxyhn](https://github.com/rxyhn/yuki) ********* - nix flake
-- [samiulbasirfahim](https://github.com/samiulbasirfahim/Flakes)****[[Hyprnix 2.0] yet another ricing. nixos | hyprland | flakes | catppuccin](https://www.youtube.com/watch?v=gBMBzTQR47M)****
+- [rxyhn](https://github.com/rxyhn/yuki) ***** - nix flake
+- [samiulbasirfahim](https://github.com/samiulbasirfahim/Flakes)**[[Hyprnix 2.0] yet another ricing. nixos | hyprland | flakes | catppuccin](https://www.youtube.com/watch?v=gBMBzTQR47M)**
 - [sezryo](https://github.com/sezryo/presez)
-- [shaunsingh](https://github.com/shaunsingh) - Legendary (Nix, Nvim, and Nyxt) - [shaun-singh](https://github.com/shaunsingh/nix-darwin-dotfiles) [Reddt](https://www.reddit.com/r/unixporn/comments/11st101/swaywmnyxt_friendship_ended_with_backlights/)
+- [shaunsingh](https://github.com/shaunsingh) - Legendary (Nix, Nvim, and Nyxt) - [shaun-singh](https://github.com/shaunsingh/nix-darwin-dotfiles)
+* [Reddt](https://www.reddit.com/r/unixporn/comments/11st101/swaywmnyxt_friendship_ended_with_backlights/)
 - [strager](https://github.com/strager/dotfiles)  - → nice green, firefox, fish, zsh, fzf, git, nix, ssh, systemd, tmux, vim, xmonad, gnome-terminal
-- [xade](https://codeberg.org/XADE/dotbin) ********* - alacritty, alsa, aria2, bspwm, conky, guix, helix, nvim, nixos, wayland, qtile, qutebrowser, 
-- [notusknot *********](https://github.com/notusknot/dotfiles-nix)- - 
-- [nuxshed *********](https://github.com/nuxshed/dotfiles)  - NixOS (flake), perfect green theme - awesome, emacs, herbstluftwm, tint2, zsh, good scripts - [screenshot](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fc0ilzexndo881.png) - 
+- [xade](https://codeberg.org/XADE/dotbin) ***** - alacritty, alsa, aria2, bspwm, conky, guix, helix, nvim, nixos, wayland, qtile, qutebrowser, 
+- [notusknot *****](https://github.com/notusknot/dotfiles-nix)- - 
+- [nuxshed *****](https://github.com/nuxshed/dotfiles)  - NixOS (flake), perfect green theme - awesome, emacs, herbstluftwm, tint2, zsh, good scripts - [screenshot](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fc0ilzexndo881.png) - 
 - [vonfry](https://github.com/Vonfry/dotfiles) - nvim, emacs, haskell, julia, orgmode, agda, common lisp, rust
 - [vyorkin](https://github.com/vyorkin/nixos-config) - emacs, vim, vscode, firefox with extensions, kitty, alacritty, themes & colors, sway, mako, wofi, etc
 - [wiedzmin](https://github.com/wiedzmin/nixos-config)
@@ -89,7 +92,8 @@
 - [Gako358](https://github.com/Gako358/dotfiles) - 
 - [JaKooLit](https://github.com/JaKooLit/NixOS-configs) - 
 - [LamprosPitsillos](https://github.com/LamprosPitsillos/nixos-config) -> [search](https://github.com/search?q=home-manager+qutebrowser+nix+language%3ANix&type=code&l=Nix) -> See also [nixpkgs maintainer list](https://github.com/NixOS/nixpkgs/blob/master/maintainers/maintainer-list.nix).
-- [akirak](https://github.com/akirak/emacs-config) [archived](https://github.com/akirak/home.nix) ???
+- [akirak](https://github.com/akirak/emacs-config)
+* [archived](https://github.com/akirak/home.nix) ???
 - [akirak](https://github.com/akirak/nixos-config) - 
 - [arianvp](https://github.com/arianvp/nixos-stuff) - 
 - [auntieNeo](https://github.com/auntieNeo/nixrc) - 
@@ -134,7 +138,9 @@
 - [ry755](https://github.com/ry755/dotfiles) - alacritty, kakoune, nixos, tmux, picom, i3, polybar, rofi, autorandr, awesomewm
 - [ryan4yin](https://github.com/ryan4yin/nix-config) - 
 - [ryan4yin](https://github.com/ryan4yin/nix-config/) - 
-- [sachnr](https://github.com/sachnr/dotfiles) [awesomewm](https://github.com/sachnr/awesomewm-dotfiles) [Reddit](https://www.reddit.com/r/unixporn/comments/11zir2x/awesomewm_some_benefits_of_having_a_declarative/) Nix flake, 
+- [sachnr](https://github.com/sachnr/dotfiles)
+* [awesomewm](https://github.com/sachnr/awesomewm-dotfiles)
+* [Reddit](https://www.reddit.com/r/unixporn/comments/11zir2x/awesomewm_some_benefits_of_having_a_declarative/) Nix flake, 
 - [samueldr](https://gitlab.com/samueldr/nixos-configuration) - 
 - [sherubthakur](https://github.com/sherubthakur/dotfiles)  - nixos, kitty, zsh, oh-my-zsh, nushell, neovim, xmonad, taffybar, picom, betterlockscreen, rofi, deadd, eww, firefox, home manager
 - [smravec](https://github.com/smravec/nixos-config)- [Reddit - !!!Minimalistic [Sway] + waybar + Nixos (full silent boot)](https://www.reddit.com/r/unixporn/comments/124yjwy/minimalistic_sway_waybar_nixos_full_silent_boot/)

@@ -14,7 +14,7 @@
 ? [gauntlet - isaac.r.riley@gmail.com - Gmail](ghttps://mail.google.com/mail/u/0/%23inbox/KtbxLxGkPcDcKKtSrBrqctBhSvWJqfhMKg)
 ? [https://1337x.to/](https://1337x.to/)
 ? [https://adnauseam.io/](https://adnauseam.io/) 
-? [https://discord.com/channels/834325286664929280/902554373094252554/1198694610436882590](https://discord.com/channels/834325286664929280/902554373094252554/1198694610436882590) **Haskell tools & sources:**Sources:*Haskell for imperative programmers* 
+? [https://discord.com/channels/834325286664929280/902554373094252554/1198694610436882590](https://discord.com/channels/834325286664929280/902554373094252554/1198694610436882590) Haskell tools & sources:Sources:*Haskell for imperative programmers* 
 ? [https://paletton.com/](https://paletton.com/)
 ? [https://puter.com/app/terminal](https://puter.com/app/terminal)
 ? [https://revanced.app/](https://revanced.app/) 

@@ -1,10 +1,10 @@
 # Faith and Doubt in the LDS Experience
 
-**Faith and Doubt in the LDS Experience**
+Faith and Doubt in the LDS Experience
 
-**0) Note to the Reader**
+0) Note to the Reader
 
-**1) Background**
+1) Background
 
 - 1.1 Why I decided to write this book
 - 1.2 Intended audienceThis book is intended for those in and around the CoJCoLDS community, broadly defined, especially those whose lives have been affected in some way by doubt, whether their own or that of a loved one. While I have attempted to take a thorough, systematic approach to the ideas and experiences related to doubt, I recognize that doubt can be as much an emotional experience as an intellectal one. My hope is that this book will be clear and accessible to people from a variety of spiritual and intellectual backgrounds.
@@ -16,7 +16,7 @@ My objective is to take a close look at the ideas and experiences underpinning f
 2. How much religious disagreement can we explain without demonization (i.e. without reference to the moral character of those who disagree)?
 3. What is the best way to deal with differences of belief and practice when these can have devastating consequences for those on all sides? How can we minimize the harm, and who is responsible for which steps?
 
-**2) Ground Rules (Courtesy and Logic)**
+2) Ground Rules (Courtesy and Logic)
 
 - 2.1 Non-contradiction
 - 2.2 Deduction
@@ -29,7 +29,7 @@ Occam's Razor is different from the first three rules in that it is not universa
 
 It is a truism in many circles that "everyone has their bias" or "everyone has an agenda." To the extent that is true, and my experience has shown that it generally is, it is natural to paint one's opponents in a worse light than oneself. This is the tendency underlying the infamous "ad hominem" attacks that plague so much of the discourse among conflicting worldviews. It is anything but natural to examine evidence even-handedly and dispassionately; if an assertion confirms deeply-held convictions, it simply doesn't feel necessary to subject it to the same level of scrutiny as those that conflict with them. Confirmation bias is among the most firmly established results in the psychological literature. An extension of this behavior is the tendency to frame opposing arguments in their weakest form.
 
-**3) Reasons for Faith: Why Believe? Overview of Faith-Promoting Facts**
+3) Reasons for Faith: Why Believe? Overview of Faith-Promoting Facts
 
 - Spiritual Witness: The Moroni 10 Paradigm
 - Trusted Witnesses The Alma 34 Paradigm
@@ -38,7 +38,7 @@ It is a truism in many circles that "everyone has their bias" or "everyone has a
 - Heritage
 - Pragmatic Benefits
 
-**4) Reasons for Doubt: Why Question? Overview of the Problematic Facts and Issues**
+4) Reasons for Doubt: Why Question? Overview of the Problematic Facts and Issues
 
 - 3.0 Raw skepticismFor many non-believers, the strongest argument is simply a lack of perceived evidence. To a skeptic, it is reasonable to believe an affirmative claim only when provided with compelling evidence.	Skeptics make an important distinction between rejecting a claim and affirming its opposite. The philosopher Bertrand Russell used the following claim as an example: “There is a teapot orbiting the sun.” In fairness, this could be true, and until we can gather definitive proof that there is no teapot, one can’t claim with certainty that there is no teapot; as one often hears, “you can’t prove a negative.” 	With only the fact that there is no evidence of Russell’s teapot, and no further facts, it would be unjustified to claim that there is or isn’t a teapot. We are simply agnostic. But if we bring in other facts, we can show that one side is more or less likely, given the balance of information available. For example, given that teapots are only known to be made by humans, and that there is no known way in which a teapot could end up orbiting the sun, it becomes less likely. When we consider that
 - 3.1 Church History
@@ -93,7 +93,7 @@ Homosexuality is, in some ways, an even greater challenge for younger members of
 
 3.5.2 Overall changes in the culture, practice, and "feel" of the church
 
-**5) Different Epistemologies**
+5) Different Epistemologies
 
 - 4.1 Methodological Naturalism and the Scientific Method
 
@@ -112,7 +112,7 @@ Burden of Proof
 - 4.5 Callisterism: Faith as a Necessary Conclusion
 - 4.6 Thoughts on Apologetics in the Light of Epistemology
 
-**6) Narrative and Storytelling**
+6) Narrative and Storytelling
 
 - 5.1 On Narrative and Interpretation
 
@@ -146,7 +146,7 @@ Burden of Proof
 
 -
 
-**7) Double-Edged Swords and Truth Carts**
+7) Double-Edged Swords and Truth Carts
 
 - 6.1 Introduction: What truth filters let in the LDS church and keep others out?
 - 6.1 Backfiring Apostasy Rhetoric: When the high bar set by the church becomes an unrealistic (or impossible) standard
@@ -160,7 +160,7 @@ Apologetics aiming to defend the unique truthfulness of the LDS church faces a c
 
 - 6.4 Candidates for a Suitable Truth Filter - Or Are We Using the Wrong Criteria?
 
-**8) Trouble with Doctrine**
+8) Trouble with Doctrine
 
 - 7.1 Jello and Tar Babies: The Importance of Well-Defined Beliefs
 
@@ -177,12 +177,12 @@ Core, Supporting, and Policy Doctrines
 - 7.6 Fundamentalism
 - 7.7 Tensions between the “traditional narrative” and the “apologists’ narrative”
 
-**9) Accounting for Differences in Opinion**
+9) Accounting for Differences in Opinion
 
 - 8.1 Common Faithful Narratives about Skeptics
 - 8.2 Common Skeptic Narratives about Believers
 
-**10) Pride and Humility https://www.lds.org/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-develop-christlike-attributes?lang=eng**
+10) Pride and Humility https://www.lds.org/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-develop-christlike-attributes?lang=eng
 
 - 8.1 Defining Terms
 
@@ -198,7 +198,7 @@ To a skeptic, the most important form of humility is often what they might call 
 
 - 8.4 Applying the Principle of Charity
 
-**11) Popular Fallacies, Pitfalls, and Underhanded Tactics: A Sampler**
+11) Popular Fallacies, Pitfalls, and Underhanded Tactics: A Sampler
 
 - Confirmation Bias
 - Inconsistency
@@ -210,7 +210,7 @@ To a skeptic, the most important form of humility is often what they might call 
 - Motivated Reasoning
 - Persecution Complex
 
-**12) Two Sides to the Story**
+12) Two Sides to the Story
 
 - 10.1: Experiencing a Faith Transition
 - 10.1.1: Skeptical Metaphors for a Faith Transition
@@ -253,14 +253,13 @@ To a skeptic, the most important form of humility is often what they might call 
 -Zoramites
 
 -
-
-https://www.lds.org/general-conference/1985/04/from-such-turn-away?lang=eng
+* https://www.lds.org/general-conference/1985/04/from-such-turn-away?lang=eng
 
 - 10.3: Dealing with Continued Faith of Loved Ones
 - 10.4: Common Affronts from Believers and Stereotypes about Skeptics
 - 10.5: Common Affronts from Skeptics and Stereotypes about Believers
 
-**13) Religion, Truth, and Belief https://www.youtube.com/watch?v=fJZ8ib93vSk**
+13) Religion, Truth, and Belief https://www.youtube.com/watch?v=fJZ8ib93vSk
 
 - 13.1 More than Objective Truth
 - 13.2 “Leap of Faith” or Faith as a Moral Choice
@@ -268,7 +267,7 @@ https://www.lds.org/general-conference/1985/04/from-such-turn-away?lang=eng
 - 13.4 “Living Theology” - Religion is to be lived. Maybe even it isn’t strictly “true.”
 - 13.5 Kierkegaard’s Madman and the Importance of Context
 
-**14) Building a Thoughtful, Decent, and Intellectually Honest Faith or Doubt**
+14) Building a Thoughtful, Decent, and Intellectually Honest Faith or Doubt
 
 - 14.1 Motivation: Charting the Faith Space
 
@@ -282,18 +281,18 @@ It is the same way with regard to religious belief. No model can do justice to t
 - 14.5 Transfaith Ideals: Tact, Respect, and Dignity
 - 14.6 Pessimism and Belligerent Human Nature
 
-**14) Appendix A: Recommended Reading**
+14) Appendix A: Recommended Reading
 
-**15) Appendix B: Miscellaneous Considerations**
+15) Appendix B: Miscellaneous Considerations
 
 - 13.1 Faith and Skepticism in Context
 
 How do we situate our varieties of belief and disbelief within their larger societal and religious contexts?
 
-**16) Appendix C**
+16) Appendix C
 
-**17) Appendix D**
+17) Appendix D
 
-**18) Notes**
+18) Notes
 
-**19) Glossary**
+19) Glossary

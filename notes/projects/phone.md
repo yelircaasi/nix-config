@@ -1,24 +1,16 @@
 # Untitled
 
 Next Steps
-
 - [ ]  Make sure online banking still works on iPhone
-- [ ]  [ ]
+     - [ ]  [ ]
 - Operating Systems
 
-* PostmarketOS
-    https://postmarketos.org/download/
-    [https://wiki.postmarketos.org/wiki/QEMU_amd64_(qemu-amd64)](https://wiki.postmarketos.org/wiki/QEMU_amd64_(qemu-amd64))
-    * LineageOS
-        https://lineageos.org/ 
-
-        https://lineageos.org/ 
-
-        https://wiki.lineageos.org/devices/FP4/install 
-
-        https://wiki.lineageos.org/faq 
-
-        https://www.androidauthority.com/lineageos-install-guide-893303/
+* PostmarketOS    * https://postmarketos.org/download/    * [https://wiki.postmarketos.org/wiki/QEMU_amd64_(qemu-amd64)](https://wiki.postmarketos.org/wiki/QEMU_amd64_(qemu-amd64))
+    * LineageOS        * https://lineageos.org/ 
+        * https://lineageos.org/ 
+        * https://wiki.lineageos.org/devices/FP4/install 
+        * https://wiki.lineageos.org/faq 
+        * https://www.androidauthority.com/lineageos-install-guide-893303/
     * [](https://e.foundation/e-os/)
     * [https://e.foundation/e-os/](https://e.foundation/e-os/) 
     * [](https://grapheneos.org/)
@@ -81,7 +73,7 @@ Next Steps
     * [https://proton.me/mail/download](https://proton.me/mail/download) 
     * [](https://github.com/libre-tube/LibreTube)
     * [https://github.com/libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) 
-    * [](https://newpipe.schabi.org/)[NewPipe](https://newpipe.schabi.org/) - Lightweight YouTube frontend for Android. ([GNU GPLv3](https://github.com/TeamNewPipe/NewPipe/blob/master/LICENSE))******** [](https://github.com/iSoron/uhabits)
+    * [](https://newpipe.schabi.org/)[NewPipe](https://newpipe.schabi.org/) - Lightweight YouTube frontend for Android. ([GNU GPLv3](https://github.com/TeamNewPipe/NewPipe/blob/master/LICENSE))**** [](https://github.com/iSoron/uhabits)
     * [https://github.com/iSoron/uhabits](https://github.com/iSoron/uhabits) 
     * [](https://github.com/LNReader/lnreader)
     * [https://github.com/LNReader/lnreader](https://github.com/LNReader/lnreader) 
@@ -97,21 +89,14 @@ Next Steps
 
     * [https://sailfishos.org/](https://sailfishos.org/)
 
-- ********? [](https://rootmygalaxy.net/root-access-on-lineage-os/)[[Step By Step] How to Enable root access on Lineage Os](https://rootmygalaxy.net/root-access-on-lineage-os/)
-
-[How to Root LineageOS 20 with Magisk - YouTube](https://www.youtube.com/watch?v%3D8o5YILpoIvs)
-
-[LineageOS/android_device_fairphone_FP4](https://github.com/LineageOS/android_device_fairphone_FP4)
-
-[LineageOS - Wikipedia](https://en.wikipedia.org/wiki/LineageOS)
-
-[LineageOS for microG](https://lineage.microg.org/)
-
-[(3) List of all AOSP custom ROMs / alternative OS's for Fairphone 4 : fairphone](https://www.reddit.com/r/fairphone/comments/128tooq/list_of_all_aosp_custom_roms_alternative_oss_for/)
-
-[Latest wiki topics - Fairphone Community Forum](https://forum.fairphone.com/tag/wiki)
-
-[Fairphone 4 (fairphone-fp4) - postmarketOS](https://wiki.postmarketos.org/wiki/Fairphone_4_(fairphone-fp4))
+- ****? [](https://rootmygalaxy.net/root-access-on-lineage-os/)[[Step By Step] How to Enable root access on Lineage Os](https://rootmygalaxy.net/root-access-on-lineage-os/)
+* [How to Root LineageOS 20 with Magisk - YouTube](https://www.youtube.com/watch?v%3D8o5YILpoIvs)
+* [LineageOS/android_device_fairphone_FP4](https://github.com/LineageOS/android_device_fairphone_FP4)
+* [LineageOS - Wikipedia](https://en.wikipedia.org/wiki/LineageOS)
+* [LineageOS for microG](https://lineage.microg.org/)
+* [(3) List of all AOSP custom ROMs / alternative OS's for Fairphone 4 : fairphone](https://www.reddit.com/r/fairphone/comments/128tooq/list_of_all_aosp_custom_roms_alternative_oss_for/)
+* [Latest wiki topics - Fairphone Community Forum](https://forum.fairphone.com/tag/wiki)
+* [Fairphone 4 (fairphone-fp4) - postmarketOS](https://wiki.postmarketos.org/wiki/Fairphone_4_(fairphone-fp4))
 
 
     * [https://wiki.postmarketos.org/wiki/Fairphone_4_(fairphone-fp4)](https://wiki.postmarketos.org/wiki/Fairphone_4_(fairphone-fp4))
@@ -162,10 +147,8 @@ Next Steps
 
 
     * [https://nixos.wiki/wiki/PinePhone](https://nixos.wiki/wiki/PinePhone)
-
-[The Nix Phone and the End of Android](https://www.youtube.com/watch?v%3D0UIpg19KECw)
-
-**[Clarifying some stuff about nix-on-droid installation](https://www.youtube.com/watch?v%3DVb8-Dc9KVHE)**
+* [The Nix Phone and the End of Android](https://www.youtube.com/watch?v%3D0UIpg19KECw)
+* [Clarifying some stuff about nix-on-droid installation](https://www.youtube.com/watch?v%3DVb8-Dc9KVHE)
 
 
     * [https://pretalx.c3voc.de/camp2023/talk/QRPQCL/](https://pretalx.c3voc.de/camp2023/talk/QRPQCL/)
@@ -281,13 +264,10 @@ bliss
 
 
     * [https://github.com/nix-community/robotnix](https://github.com/nix-community/robotnix)
-
-[Lifesaver Instruction Video](https://www.youtube.com/watch?v%3DUmLD1c5Qcb8) (LineageOS))
-
-[MindtheGapps Instruction Video](https://www.youtube.com/watch?v%3DZOYVmd2rSjs) → worked with “arm64” [](https://mindthegapps.com/download/%23mind-the-gapps-for-lineage-os-20-android-13)
+* [Lifesaver Instruction Video](https://www.youtube.com/watch?v%3DUmLD1c5Qcb8) (LineageOS))
+* [MindtheGapps Instruction Video](https://www.youtube.com/watch?v%3DZOYVmd2rSjs) → worked with “arm64” [](https://mindthegapps.com/download/%23mind-the-gapps-for-lineage-os-20-android-13)
     * [https://mindthegapps.com/download/#mind-the-gapps-for-lineage-os-20-android-13](https://mindthegapps.com/download/%23mind-the-gapps-for-lineage-os-20-android-13)
-
-[librearts.org](http://librearts.org)
+* [librearts.org](http://librearts.org)
 
 
     * [https://e.foundation/](https://e.foundation/)
@@ -298,107 +278,100 @@ Apps
     * [https://github.com/mhss1/MyBrain](https://github.com/mhss1/MyBrain)
 
 Apps on FairPhone Android
-
 - [ ]  Anki
-- [ ]  ReadEra Premium
-- [ ]  Foreground
-- [ ]  Todometer
-- [ ]  Termux
-- [ ]  Das tägliche Wetter
-- [ ]  Headway
-- [ ]  Librera FD
-- [ ]  Routines Bot (Telegram app)
-- [ ]  Notion
-- [ ]  DB Navigator
-- [ ]  Mein Blau
-- [ ]  Adblock Browser
-- [ ]  Pomodoro
-- [ ]  Forza
-- [ ]  Google Drive
-- [ ]  DuckDuckGo
-- [ ]  Wikipedia
-- [ ]  Coursera
-- [ ]  Stepik
-- [ ]  Google News
-- [ ]  Udemy
-- [ ]  Play Store
-- [ ]  Spotify
-- [ ]  Google Podcasts
-- [ ]  Castbox
-- [ ]  Google Sheets
-- [ ]  Skype
-- [ ]  Discord
-- [ ]  Reddit
-- [ ]  Teams
-- [ ]  Outlook
-- [ ]  Notepad
-- [ ]  Viber
-- [ ]  Instagram
-- [ ]  Messenger
-- [ ]  Snapchat
-- [ ]  Runkeeper
-- [ ]  Netflix
-- [ ]  DeepL
-- [ ]  Reverso Context
-- [ ]  Nabu Vogelwel
-- [ ]  Audiorecorder
-- [ ]  iNaturalist
-- [ ]  Forest
-- [ ]  Tandem
-- [ ]  Zettel Notes
-- [ ]  QR-Scanner
-- [ ]  kicktipp
-- [ ]  RadioPlayer
-- [ ]  Linux Commands
-- [ ]  GitHub
-- [ ]  HelloChinese
-- [ ]  DuoReader
-- [ ]  Bitmoji
-- [ ]  GitJournal
-- [ ]  GitTrends
-- [ ]  LingoCards Traditional Chinese
-- [ ]  Vived (tech news)
-- [ ]  Confluence
-- [ ]  Tundra (not working)
-- [ ]  Moshidon
-- [ ]  Amazon App
-- [ ]  Uber
-- [ ]  HelloTalk
-- [ ]  Speaky
-- [ ]  Mastodon
-- [ ]  Tor Browser
-- [ ]  Revolt
-- [ ]  Tusky
-- [ ]  Planta
-- [ ]  Jerboa for Android
-- [ ]  lemmur
-- [ ]  Fedilab
-- [ ]  Husky
-- [ ]  Bible grec
-- [ ]  BLB
-- [ ]  ParallelText
-- [ ]  Greek New Testament
-- [ ]  Hebrew/Greek Bible
-- [ ]  arabdict
-- [ ]  Interlinear Bible
-- [ ]  DailyArt
-- [ ]  Confluence
-- [ ]  Markor
-- [ ]  LWP+
-- [ ]  Repainter
-- [ ]  Hoplite Keyboard
-- [ ]  Zulip
-- [ ]  (Slack)
-- [ ]  F-Droid
-- [ ]  Vived
-- [ ]  Bumble
-- [ ]  (Obsidian)
-- [ ]  Goodreads
-- [ ]  TickTick
-- [ ]  Joplin
-- [ ]  Brave
-- [ ]  21done
-- [ ]  [ ] [](https://koreader.rocks/)
+     - [ ]  ReadEra Premium
+     - [ ]  Foreground
+     - [ ]  Todometer
+     - [ ]  Termux
+     - [ ]  Das tägliche Wetter
+     - [ ]  Headway
+     - [ ]  Librera FD
+     - [ ]  Routines Bot (Telegram app)- [ ]  Notion
+     - [ ]  DB Navigator
+     - [ ]  Mein Blau
+     - [ ]  Adblock Browser
+     - [ ]  Pomodoro
+     - [ ]  Forza
+     - [ ]  Google Drive
+     - [ ]  DuckDuckGo
+     - [ ]  Wikipedia
+     - [ ]  Coursera
+     - [ ]  Stepik
+     - [ ]  Google News
+     - [ ]  Udemy
+     - [ ]  Play Store
+     - [ ]  Spotify
+     - [ ]  Google Podcasts
+     - [ ]  Castbox
+     - [ ]  Google Sheets
+     - [ ]  Skype
+     - [ ]  Discord
+     - [ ]  Reddit
+     - [ ]  Teams
+     - [ ]  Outlook
+     - [ ]  Notepad
+     - [ ]  Viber
+     - [ ]  Instagram
+     - [ ]  Messenger
+     - [ ]  Snapchat
+     - [ ]  Runkeeper
+     - [ ]  Netflix
+     - [ ]  DeepL
+     - [ ]  Reverso Context
+     - [ ]  Nabu Vogelwel
+     - [ ]  Audiorecorder
+     - [ ]  iNaturalist
+     - [ ]  Forest
+     - [ ]  Tandem
+     - [ ]  Zettel Notes
+     - [ ]  QR-Scanner
+     - [ ]  kicktipp
+     - [ ]  RadioPlayer
+     - [ ]  Linux Commands
+     - [ ]  GitHub
+     - [ ]  HelloChinese
+     - [ ]  DuoReader
+     - [ ]  Bitmoji
+     - [ ]  GitJournal
+     - [ ]  GitTrends
+     - [ ]  LingoCards Traditional Chinese
+     - [ ]  Vived (tech news)- [ ]  Confluence
+     - [ ]  Tundra (not working)- [ ]  Moshidon
+     - [ ]  Amazon App
+     - [ ]  Uber
+     - [ ]  HelloTalk
+     - [ ]  Speaky
+     - [ ]  Mastodon
+     - [ ]  Tor Browser
+     - [ ]  Revolt
+     - [ ]  Tusky
+     - [ ]  Planta
+     - [ ]  Jerboa for Android
+     - [ ]  lemmur
+     - [ ]  Fedilab
+     - [ ]  Husky
+     - [ ]  Bible grec
+     - [ ]  BLB
+     - [ ]  ParallelText
+     - [ ]  Greek New Testament
+     - [ ]  Hebrew/Greek Bible
+     - [ ]  arabdict
+     - [ ]  Interlinear Bible
+     - [ ]  DailyArt
+     - [ ]  Confluence
+     - [ ]  Markor
+     - [ ]  LWP+- [ ]  Repainter
+     - [ ]  Hoplite Keyboard
+     - [ ]  Zulip
+     - [ ]  (Slack)- [ ]  F-Droid
+     - [ ]  Vived
+     - [ ]  Bumble
+     - [ ]  (Obsidian)- [ ]  Goodreads
+     - [ ]  TickTick
+     - [ ]  Joplin
+     - [ ]  Brave
+     - [ ]  21done
+     - [ ]  [ ] [](https://koreader.rocks/)
     * [https://koreader.rocks/](https://koreader.rocks/)
 
 
@@ -406,7 +379,6 @@ Apps on FairPhone Android
 
 
     * [https://media.ccc.de/v/nixcon-2023-36022-daily-driving-nixos-on-the-librem-5](https://media.ccc.de/v/nixcon-2023-36022-daily-driving-nixos-on-the-librem-5)
-
 - [ ]  GhostCloud app for Ubuntu Touch
 - phone [](https://plasma-mobile.org/get/)
     * [https://plasma-mobile.org/get/](https://plasma-mobile.org/get/) 

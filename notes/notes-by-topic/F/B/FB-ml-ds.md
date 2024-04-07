@@ -4,99 +4,99 @@
 * http://web.archive.org/web/20200731224921/http://vandergoten.ai/2018-09-18-attention-is-all-you-need/ → TYPE UP IN LATEX!!!
 
 ## This Page
-1. Sort papers
-2. Gen Resource Sites
-3. Courses
-4. Publications
-5. Docs
-6. Repos
-7. Media / Blogs
-8. Podcasts
-9. YouTube
-10. Paper Reading/ Learning Communities
-11. Data Sources
-12. Tools
-13. Annotation
-14. Notes
-15. 10 Pytorch Mistakes
-16. General Notes
-17. RL
-18. Learn OpenCV
-19. MLOps
-20. GPT & Co.
-21. CV
-22. NLP
-23. Sort
-24. RL to sort
-25. SP
+* Sort papers
+* Gen Resource Sites
+* Courses
+* Publications
+* Docs
+* Repos
+* Media / Blogs
+* Podcasts
+* YouTube
+* Paper Reading/ Learning Communities
+* Data Sources
+* Tools
+* Annotation
+* Notes
+* 10 Pytorch Mistakes
+* General Notes
+* RL
+* Learn OpenCV
+* MLOps
+* GPT & Co.
+* CV
+* NLP
+* Sort
+* RL to sort
+* SP
 
 ## Reading List
-1. Reading :: Sort (0)
-2. Reading :: Sort (1)
-3. Reading :: Sort (2)
-4. Reading :: Sort (3)
-5. Reading :: Sort (4)
-6. Reading :: Sort (5)
-7. Reading :: Sort (6)
-8. Reading :: Sort (7)
-9. Reading :: Sort (8)
-10. Reading :: Sort (9)
-11. Reading :: Sort (10)
-12. Reading :: Sort (11)
-13. Reading :: Sort (12)
-14. Reading :: Sort (13)
-15. Reading :: Sort (14)
-16. Reading :: Sort (15)
-17. Reading :: Sort (16)
-18. Reading :: Sort (17)
-19. Reading :: Sort (18)
-20. Reading :: Sort (19)
-21. Reading :: Sort (20)
-22. Reading :: Sort (21)
-23. Reading :: Sort (22)
-24. Reading :: Sort (23)
-25. Reading :: Sort (24)
-26. Reading :: Sort (25)
-27. Reading :: Sort (26)
-28. Reading :: Sort (27)
-29. Reading :: Sort (28)
-30. Reading :: Sort (29)
-31. Reading :: Sort (30)
-32. Reading :: Sort (31)
-33. Reading :: Sort (32)
-34. Reading :: Sort (33)
-35. Reading :: Sort (34)
-36. Reading :: Sort (35)
-37. Reading :: Sort (36)
-38. Reading :: Sort (37)
-39. Reading :: Sort (38)
-40. Reading :: Sort (39)
+* Reading :: Sort (0)
+* Reading :: Sort (1)
+* Reading :: Sort (2)
+* Reading :: Sort (3)
+* Reading :: Sort (4)
+* Reading :: Sort (5)
+* Reading :: Sort (6)
+* Reading :: Sort (7)
+* Reading :: Sort (8)
+* Reading :: Sort (9)
+* Reading :: Sort (10)
+* Reading :: Sort (11)
+* Reading :: Sort (12)
+* Reading :: Sort (13)
+* Reading :: Sort (14)
+* Reading :: Sort (15)
+* Reading :: Sort (16)
+* Reading :: Sort (17)
+* Reading :: Sort (18)
+* Reading :: Sort (19)
+* Reading :: Sort (20)
+* Reading :: Sort (21)
+* Reading :: Sort (22)
+* Reading :: Sort (23)
+* Reading :: Sort (24)
+* Reading :: Sort (25)
+* Reading :: Sort (26)
+* Reading :: Sort (27)
+* Reading :: Sort (28)
+* Reading :: Sort (29)
+* Reading :: Sort (30)
+* Reading :: Sort (31)
+* Reading :: Sort (32)
+* Reading :: Sort (33)
+* Reading :: Sort (34)
+* Reading :: Sort (35)
+* Reading :: Sort (36)
+* Reading :: Sort (37)
+* Reading :: Sort (38)
+* Reading :: Sort (39)
 
 ## Books
-1. Sort Books :: General
-2. Sort Books :: Autodiff
-3. Sort Books :: CV
-4. Sort Books :: DL
-5. Sort Books :: Deep RL
-6. Sort Books :: Clustering
+* Sort Books :: General
+* Sort Books :: Autodiff
+* Sort Books :: CV
+* Sort Books :: DL
+* Sort Books :: Deep RL
+* Sort Books :: Clustering
 
 ## Reading List
 * [Interview, Career]()
 * [A collection of Advanced Data Science and Machine Learning Interview Questions Solved in Python and Spark (II): Hands-on Big Data and Machine ... Programming Interview Questions) (Volume 7)](http://library.lol/main/C320F52FF7B7FCE2D133896F72A23B62)
-    Data science interviews, like other technical interviews, require plenty of preparation. There are a number of subjects that need to be covered in order to ensure you are ready for back-to-back questions on statistics, programming and machine learning.
-    Before we get started, there’s one tip I’d like to share.
-    I’ve noticed that there are several types of data science interviews that companies conduct.
-    Some data science interviews are very product and metric driven. These interviews focus more on asking product questions like what kind of metrics would you use to show what you should improve in a product. These are often paired with SQL and some Python questions.
-    The other type of data science interview tends to be a mix of programming and machine learning.
-    We recommend asking the recruiter if you aren’t sure which type of interview you will be facing. Some companies are very good at keeping interviews consistent, but even then, teams can deviate depending on what they are looking for. Here are some examples of what we have noticed about some companies data science interviews.
-    Airbnb — Product heavy, metrics diagnostics, metrics creation, A/B testing, tons of behavioral questions and take home material.
-    Netflix — Product-sense questions, A/B testing, experimental design, metric design
-    Microsoft — Programming heavy, binary tree traversal, SQL, machine learning
-    Expedia — Product, programming, SQL, product sense, machine learning questions about SVM, regression and decision tree
-    Due to this variance, we’ve created a checklist to keep track of what subject areas you did study and what you still need to cover.
+* Data science interviews, like other technical interviews, require plenty of preparation. There are a number of subjects that need to be covered in order to ensure you are ready for back-to-back questions on statistics, programming and machine learning.
+* Before we get started, there’s one tip I’d like to share.
+* I’ve noticed that there are several types of data science interviews that companies conduct.
+* Some data science interviews are very product and metric driven. These interviews focus more on asking product questions like what kind of metrics would you use to show what you should improve in a product. These are often paired with SQL and some Python questions.
+* The other type of data science interview tends to be a mix of programming and machine learning.
+* We recommend asking the recruiter if you aren’t sure which type of interview you will be facing. Some companies are very good at keeping interviews consistent, but even then, teams can deviate depending on what they are looking for. Here are some examples of what we have noticed about some companies data science interviews.
+* Airbnb — Product heavy, metrics diagnostics, metrics creation, A/B testing, tons of behavioral questions and take home material.
+* Netflix — Product-sense questions, A/B testing, experimental design, metric design
+* Microsoft — Programming heavy, binary tree traversal, SQL, machine learning
+* Expedia — Product, programming, SQL, product sense, machine learning questions about SVM, regression and decision tree
+* Due to this variance, we’ve created a checklist to keep track of what subject areas you did study and what you still need to cover.
 * [Data Science Study Checklist](https://docs.google.com/spreadsheets/d/1djhTq4vD72lzuLY2rCMOkkSuNG2rRf_C5PwNMjcIAMk/edit?usp=sharing)
-    Let’s first start with making sure you can explain the basic data science algorithms.
-    Machine Learning Algorithms
+* Let’s first start with making sure you can explain the basic data science algorithms.
+* Machine Learning Algorithms
 * [Logistic Regression](https://www.youtube.com/watch?v=zAULhNrnuL4&t=26s) — Video
 * [A/B Testing](https://www.youtube.com/watch?v=zFMgpxG-chM) — Video
 * [Decision Tree](http://www.acheronanalytics.com/acheron-blog/brilliant-explanation-of-a-decision-tree-algorithms) — Post
@@ -113,34 +113,34 @@
 * [Neural Network](http://horicky.blogspot.com/2009/11/machine-learning-with-linear-model.html) — Post
 * [Dimensionality reduction algorithms](https://elitedatascience.com/dimensionality-reduction-algorithms) — Post
 * [How kNN algorithm works](https://www.youtube.com/watch?v=UqYde-LULfs) — Video
-    Probability And Statistics
+* Probability And Statistics
 * [At large tech companies, it is common to receive an occasional probability or statistics](https://www.theseattledataguy.com/statistics-data-scientist-review/) question. While the questions won’t necessarily require complex math, if you haven’t thought about independent and dependent probabilities in while it is good to review setting up the basic formulas.
-    Probability Videos
+* Probability Videos
 * [Dependent probability introduction](https://www.khanacademy.org/math/math2/math2-prob/math2-mul-rule-dependent/v/introduction-to-dependent-probability?modal=1)
 * [Independent & dependent probability](https://www.khanacademy.org/math/math2/math2-prob/math2-mul-rule-dependent/v/independent-events-1?modal=1)
 * [Independent Problems](https://www.khanacademy.org/math/math2/math2-prob/math2-mul-rule-independent/v/independent-events-2?modal=1)
 * [Conditional Prob Article](https://www.khanacademy.org/math/math2/math2-prob/math2-conditional-prob/a/conditional-probability-using-two-way-tables?modal=1)
-    Probability Quiz
+* Probability Quiz
 * [Probability & Statistics — Set 6](http://interview-questions-247.appspot.com/data-science-probability-1)
 * [Probability & Statistics — Set 2](http://interview-questions-247.appspot.com/data-science-probability-2)
 * [Independent Probability](https://www.khanacademy.org/math/math2/math2-prob/math2-mul-rule-independent/e/independent_probability?modal=1)
 * [Dependent Probability](https://www.khanacademy.org/math/math2/math2-prob/math2-mul-rule-dependent/e/dependent_probability?modal=1)
-    Probability Interview Questions
+* Probability Interview Questions
 * [Most of these questions are either similar to the ones we have been asked or taken directly from glassdoor.com](http://glassdoor.com/).
-    A die is rolled twice. What is the probability of showing a 3 on the first roll and an odd number on the second roll?
-    In any 15-minute interval, there is a 20% probability that you will see at least one shooting star. What is the proba­bility that you see at least one shooting star in the period of an hour?
-    Alice has 2 kids and one of them is a girl. What is the probability that the other child is also a girl? You can assume that there is an equal number of males and females in the world.
+* A die is rolled twice. What is the probability of showing a 3 on the first roll and an odd number on the second roll?
+* In any 15-minute interval, there is a 20% probability that you will see at least one shooting star. What is the proba­bility that you see at least one shooting star in the period of an hour?
+* Alice has 2 kids and one of them is a girl. What is the probability that the other child is also a girl? You can assume that there is an equal number of males and females in the world.
 * how many ways can you split 12 people into 3 teams of 4?
-    Statistics Pre-Quizzes
+* Statistics Pre-Quizzes
 * [Data Science Probability Statistics 14](http://interview-questions-247.appspot.com/data-science-probability-statistics-14)
-    Statistics Concepts
-    Statistics is a broad concept so don’t get too bogged down in the details of each of these videos. Instead, just make sure you can explain each of these concepts at the surface level.
+* Statistics Concepts
+* Statistics is a broad concept so don’t get too bogged down in the details of each of these videos. Instead, just make sure you can explain each of these concepts at the surface level.
 * [Bias-Variance Trade-Off](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
 * [Confusion Matrix](https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
 * [ROC curve](https://www.dataschool.io/roc-curves-and-auc-explained/)
 * [Normal Distribution](https://www.youtube.com/watch?v=iYiOVISWXS4)
 * [P-Value](https://www.khanacademy.org/math/ap-statistics/tests-significance-ap/idea-significance-tests/v/p-values-and-significance-tests)
-    Pearson Spearman
+* Pearson Spearman
 * [Normal distribution problem: z-scores (from ck12.org)](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data/z-scores/v/ck12-org-normal-distribution-problems-z-score?modal=1)
 * [Continuous Probability Distributions](https://www.youtube.com/watch?v=OWSOhpS00_s)
 * [Standardizing Normally Distributed Random Variables (fast version)](https://www.youtube.com/watch?v=BN-2XOMnoCs&list=PLvxOuBpazmsPDZGwqhhjE3KkLWnTD34R0&index=6)
@@ -159,39 +159,39 @@
 * [Type 1 errors | Inferential statistics | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=EowIec7Y8HM&list=PL1328115D3D8A2566&index=40)
 * [Large sample proportion hypothesis testing | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=1JT9oODsClE&list=PL1328115D3D8A2566&index=43)
 * [Boosting and Bagging](https://medium.com/coriers/how-to-develop-a-robust-algorithm-c38e08f32201)
-    Statistics Post-Quiz
+* Statistics Post-Quiz
 * [Data Science Probability Statistics 17](http://interview-questions-247.appspot.com/data-science-probability-statistics-17)
-    Product And Experiment Designs
-    Product sense is an important skill for data scientists. Knowing what to measure on new products and why can help determine whether a product is doing well or not. The funny thing is, sometimes certain metrics going the way you want them to might not always be good. The reason people are spending more time on your website might be because webpages are taking longer to load or other facing similar problems. This is why metrics are tricky and what you measure is important.
-    Product And Experiment Design Concepts
+* Product And Experiment Designs
+* Product sense is an important skill for data scientists. Knowing what to measure on new products and why can help determine whether a product is doing well or not. The funny thing is, sometimes certain metrics going the way you want them to might not always be good. The reason people are spending more time on your website might be because webpages are taking longer to load or other facing similar problems. This is why metrics are tricky and what you measure is important.
+* Product And Experiment Design Concepts
 * [User Engagement Metrics](https://mixpanel.com/topics/important-user-engagement-metrics-apps/)
 * [Data Scientist’s Toolbox: Experimental Design](https://www.youtube.com/watch?v=vSXOJnGNtM4) -Video
 * [A/B Testing Guide](https://conversionxl.com/AB-Testing-Guide-ConversionXL.pdf)
 * [Multivariate Testing](https://www.youtube.com/watch?v=dYdTqoamI3Q)
 * [6 Themes Of Metrics](https://www.productschool.com/blog/product-management-2/interview/answering-metrics-interview-question-product-management/)
-    Product And Metrics Questions
-    An important metric goes down, how would you dig into the causes?\
-    What metrics would you use to quantify the success of Youtube ads (this could also be extended to other products like Snapchat filters, Twitter live-streaming, Fortnite new features, etc)
+* Product And Metrics Questions
+* An important metric goes down, how would you dig into the causes?\
+* What metrics would you use to quantify the success of Youtube ads (this could also be extended to other products like Snapchat filters, Twitter live-streaming, Fortnite new features, etc)
 * how do you measure the success or failure of a product/product feature
-    Google has released a new version of its search algorithm, for which they used A/B testing. During the testing process, engineers realized that the new algorithm was not implemented correctly and returned less relevant results. Two things happened during testing:
-    People in the treatment group performed more queries than the control group.
-    Advertising revenue was higher in the treatment group as well.
-    What may be the cause of people in the treatment group performing more searches than the control group? There are different possible answers here.
+* Google has released a new version of its search algorithm, for which they used A/B testing. During the testing process, engineers realized that the new algorithm was not implemented correctly and returned less relevant results. Two things happened during testing:
+* People in the treatment group performed more queries than the control group.
+* Advertising revenue was higher in the treatment group as well.
+* What may be the cause of people in the treatment group performing more searches than the control group? There are different possible answers here.
 * [Question 4 borrowed from Zarantech](https://www.zarantech.com/blog/interview-questions/data-science-product-analysis-and-business-metrics-interview-questions/); We really enjoyed it and thought it was a good example of how things can go wrong.
-    Programming
-    Just because data science doesn’t always require heavy programming, it doesn’t mean that interviewers won’t ask you traverse a binary tree. So make sure you ask your interviewer what to expect. Don’t be daunted by these questions. Pick a few to do just so you’re not surprised in an interview.
-    Pre-Video Questions
+* Programming
+* Just because data science doesn’t always require heavy programming, it doesn’t mean that interviewers won’t ask you traverse a binary tree. So make sure you ask your interviewer what to expect. Don’t be daunted by these questions. Pick a few to do just so you’re not surprised in an interview.
+* Pre-Video Questions
 * [Fizz Buzz](https://www.hackerrank.com/challenges/fizzbuzz/problem)
 * [Find The Kth Smallest/Largest Integer In An Array](https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array-set-2-expected-linear-time/)
 * [Nth Fibonacci](https://www.algoexpert.io/questions/Nth%20Fibonacci)
-    Algorithms And Data Structures
-    Pre-Study Problems
-    Before going through the video content about data structures and algorithms, consider trying out the problems below. This will help you know what you need to focus on.
+* Algorithms And Data Structures
+* Pre-Study Problems
+* Before going through the video content about data structures and algorithms, consider trying out the problems below. This will help you know what you need to focus on.
 * [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)
 * [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
 * [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
 * [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
-    Data Structures Videos
+* Data Structures Videos
 * [Data Structures & Algorithms #1 — What Are Data Structures?](https://www.youtube.com/watch?v=bum_19loj9A)
 * [Multi-dim (video)](https://archive.org/details/0102WhatYouShouldKnow/02_05-multidimensionalArrays.mp4)
 * [Data Structures: Linked Lists](https://youtu.be/njTh_OwMljA)
@@ -200,7 +200,7 @@
 * [Data Structures: Heaps](https://youtu.be/t0Cq6tVNRBA)
 * [Data Structures: Hash Tables](https://youtu.be/shs0KM3wKv8)
 * [Data Structures: Stacks and Queues](https://youtu.be/wjI1WNcIntg)
-    Algorithm Videos
+* Algorithm Videos
 * [Python Algorithms for Interviews](https://www.youtube.com/watch?v=p65AHm9MX80)
 * [Algorithms: Graph Search, DFS and BFS](https://www.youtube.com/watch?v=zaBhtODEL0w&list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt)
 * [BFS(breadth-first search) and DFS(depth-first search) (video)](https://www.youtube.com/watch?v=uWL6FJhq5fM)
@@ -210,12 +210,12 @@
 * [Algorithms: Bubble Sort](https://youtu.be/6Gv8vg0kcHc)
 * [Algorithms: Merge Sort](https://youtu.be/KF2j-9iSf4Q)
 * [Algorithms: Quicksort](https://youtu.be/SLauY6PpjW4)
-    String Manipulation
+* String Manipulation
 * [Coding Interview Question and Answer: Longest Consecutive Characters](https://www.youtube.com/watch?v=qRNB8CV3_LU)
 * [Sedgewick — Substring Search (videos)](https://www.coursera.org/learn/algorithms-part2/home/week/4)
-    SQL
-    Post-Study Problems
-    Now that you have studied for a bit and watched a few videos. Let’s try some more problems!
+* SQL
+* Post-Study Problems
+* Now that you have studied for a bit and watched a few videos. Let’s try some more problems!
 * [Bigger Is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem)
 * [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 * [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
@@ -227,8 +227,8 @@
 * [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem)
 * [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4/problem)
 * [Lily’s Homework](https://www.hackerrank.com/challenges/lilys-homework/problem)
-    SQL — Problems
-    Generally, there will be at least one interview focused on SQL. In addition, the interviewers may take you through the entire process of developing a product, choosing metrics to track and then querying to measure the effectiveness of that metric.
+* SQL — Problems
+* Generally, there will be at least one interview focused on SQL. In addition, the interviewers may take you through the entire process of developing a product, choosing metrics to track and then querying to measure the effectiveness of that metric.
 * [Trips and Users](https://leetcode.com/problems/trips-and-users/)
 * [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/)
 * [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)
@@ -239,13 +239,13 @@
 * [Occupations](https://www.hackerrank.com/challenges/occupations/problem)
 * [Placements](https://www.hackerrank.com/challenges/placements/problem)
 * [Ollivander’s Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem)
-    SQL — Videos
+* SQL — Videos
 * [IQ15: 6 SQL Query Interview Questions](https://www.youtube.com/watch?v=uAWWhEA57bE)
 * [Learning about ROW_NUMBER and Analytic Functions](https://www.youtube.com/watch?v=QFj-hZi8MKk)
 * [Advanced Implementation Of Analytic Functions](https://www.youtube.com/watch?v=G3kYPzLWtpo&t=4s)
 * [Advanced Implementation Of Analytic Functions Part 2](https://www.youtube.com/watch?v=XecU6Ieyu-4&t=54s)
 * [Wise Owl SQL Videos](https://www.youtube.com/watch?v=2-1XQHAgDsM&list=PL6EDEB03D20332309)
-    Post SQL Problems
+* Post SQL Problems
 * [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)
 * [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem)
 * [Challenges](https://www.hackerrank.com/challenges/challenges/problem)
@@ -253,9 +253,9 @@
 * [Big Countries](https://leetcode.com/problems/big-countries/)
 * [Exchange Seats](https://leetcode.com/problems/exchange-seats/)
 * [SQL Interview Questions: 3 Tech Screening Exercises (For Data Analysts)](https://data36.com/sql-interview-questions-tech-screening-data-analysts/)
-    Conclusion
-    Technical interviews can be tough. Whether they are for software engineers, data engineers or data scientists. We do hope this study guide helps you keep track of your progress!
-    If there is something you think we left off or you have additional resources which you think would be a benefit, please let me know. Thank you!
+* Conclusion
+* Technical interviews can be tough. Whether they are for software engineers, data engineers or data scientists. We do hope this study guide helps you keep track of your progress!
+* If there is something you think we left off or you have additional resources which you think would be a benefit, please let me know. Thank you!
 * [Programming - InterviewBit](https://www.interviewbit.com/courses/programming/)
 * [The Ultimate Guide to Preparing for the Coding Interview](https://medium.freecodecamp.org/the-ultimate-guide-to-preparing-for-the-coding-interview-183251ee36c9)
 * [Criticism of Coding Interviews](https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews)
@@ -285,7 +285,7 @@
 * [7 Steps to a Job-winning Data Science Resume](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=97e1b2b543&e=b34ab4e857)
 * [How to land a Data Scientist job at your dream company](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=16ba5067bf&e=b34ab4e857)
 * [Einstiegsgehalt und Stundensätze: Was ein Data Scientist können sollte und was er verdient - cio.de](https://www.cio.de/a/was-ein-data-scientist-koennen-sollte,2955362)
-    Der Weg zum Senior Data Scientist von Dr. Daniel Paurat & Einblicke in das Jobfeld
+* Der Weg zum Senior Data Scientist von Dr. Daniel Paurat & Einblicke in das Jobfeld
 * [Jobs of the Future, Around Data Science and AI](https://www.newsletter.datasciencecentral.com/click.html?x=a62e&lc=upQ&mc=j&s=jFaI&u=F&y=z&z=wukMvb8&)
 * [Essential Things To Know About Moving From Academia To Data Science in 2020 | The Research Scientist Pod: Machine Learning Courses and Resources](https://researchdatapod.com/essential-things-to-know-about-moving-from-academia-to-data-science-in-2020/?fbclid=IwAR3eE3IT-JxM4a2hCbj7uJVIO5J89ODGrpWRuVrHPL0vCeX9rZviorCjDqU)
 * [$$Ask HN: Why did you leave the tech industry? | Hacker News](https://news.ycombinator.com/item?id=22876241)
@@ -366,7 +366,7 @@
 * [Path to Become a Data Scientist](https://towardsdatascience.com/how-i-went-from-zero-coding-skills-to-data-scientist-in-6-months-c2207b65f2f3)
 * [Question - Quora](https://www.quora.com/What-are-the-most-common-reasons-for-rejecting-data-scientist-job-applicants)
 * [The 4 fastest ways NOT to get hired as a data scientist](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=ab8267a829&e=b34ab4e857)
-    The Many Faces of a Data Scientist Work
+* The Many Faces of a Data Scientist Work
 * [The most desired skill in data science](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=1f26dc4633&e=b34ab4e857)
 * [The Most In Demand Tech Skills for Data Scientists](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=9a1a205e66&e=b34ab4e857)
 * [Top 5 must-have Data Science skills for 2020](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=3da7a724c9&e=b34ab4e857)
@@ -401,10 +401,8 @@
 * https://gradientflow.substack.com/
 * https://adeshpande3.github.io/
 * [tanmay bakshi - YouTube](https://www.youtube.com/channel/UCqufIGIYauviVaKyJUzKvQw)
-* https://lastweekin.ai/
-    **[Adventures in Machine Learning – Get ready for your machine learning adventures](https://adventuresinmachinelearning.com/)**
-* [DLVU](https://www.youtube.com/channel/UCYh1zKnwzrSjrO2Ae-akfTg/playlists)
-    **[Michal Malyska](https://michalmalyska.github.io/index.html)**
+* https://lastweekin.ai/    * [Adventures in Machine Learning – Get ready for your machine learning adventures](https://adventuresinmachinelearning.com/)
+* [DLVU](https://www.youtube.com/channel/UCYh1zKnwzrSjrO2Ae-akfTg/playlists)    * [Michal Malyska](https://michalmalyska.github.io/index.html)
 * https://song921012.github.io/#indexCard
 * [10 best MLOps Podcasts](https://podcasts.feedspot.com/mlops_podcasts/?feedid=5630756)
 * https://en.wikipedia.org/wiki/Joscha_Bach 
@@ -424,28 +422,8 @@
 * [Machine Learning News - SciTechDaily](https://scitechdaily.com/tag/machine-learning/)
 * [Machine learning - Latest research and news | Nature](https://www.nature.com/subjects/machine-learning)
 * [Intelligenza artificiale: come sta riscrivendo le regole dell'informatica | Wired Italia](https://www.wired.it/article/intelligenza-artificiale-informatica-github-codice/)
-* [Machine learning | MIT News | Massachusetts Institute of Technology](https://news.mit.edu/topic/machine-learning)
-    **https://deeplearning.lipingyang.org/**
-    **http://karpathy.github.io/**
-    **https://josehoras.github.io/**
-    **https://explained.ai/**
-    **https://www.user.tu-berlin.de/mtoussai//teaching/**
-    **https://bestofml.com/**
-    **[Edureka!](https://www.youtube.com/user/edurekaIN)**
-    **[Andrew Ng](https://www.youtube.com/user/andrewyantakng/feed)**
-    **[Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/featured)**
-    **[Tech with Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)**
-    **[Machine Learning University (MLU)](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw)**
-    **[Artificial Intelligence — All in One](https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg/featured)**
-    **[Sentdex](https://www.youtube.com/user/sentdex/)**
-    **[Joma Tech](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw)**
-    **[Google Cloud Platform](https://www.youtube.com/user/googlecloudplatform/featured)**
-    **[Keith Galli](https://www.youtube.com/c/KGMIT/featured)**
-    **[Data Science Dojo](https://www.youtube.com/user/DataScienceDojo)**
-    **[StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)**
-    **[Yannic Kilcher](https://www.youtube.com/c/YannicKilcher/featured)**
-    **https://mlcontests.com/**
-    Yann Kerninon
+* [Machine learning | MIT News | Massachusetts Institute of Technology](https://news.mit.edu/topic/machine-learning)    * https://deeplearning.lipingyang.org/    * http://karpathy.github.io/    * https://josehoras.github.io/    * https://explained.ai/    * https://www.user.tu-berlin.de/mtoussai//teaching/    * https://bestofml.com/    * [Edureka!](https://www.youtube.com/user/edurekaIN)    * [Andrew Ng](https://www.youtube.com/user/andrewyantakng/feed)    * [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/featured)    * [Tech with Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)    * [Machine Learning University (MLU)](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw)    * [Artificial Intelligence — All in One](https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg/featured)    * [Sentdex](https://www.youtube.com/user/sentdex/)    * [Joma Tech](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw)    * [Google Cloud Platform](https://www.youtube.com/user/googlecloudplatform/featured)    * [Keith Galli](https://www.youtube.com/c/KGMIT/featured)    * [Data Science Dojo](https://www.youtube.com/user/DataScienceDojo)    * [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)    * [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher/featured)    * https://mlcontests.com/
+* Yann Kerninon
 * https://dtransposed.github.io/
 * [Staab teaching history (with materials)](https://west.uni-koblenz.de/about-us/team/steffen-staab)
 * [Cosma Shalizi](http://www.stat.cmu.edu/~cshalizi/)
@@ -476,22 +454,18 @@
 ## Podcast 1s
 * [ML Street Talk with Chomsky](https://www.youtube.com/watch?v=axuGfh4UR9Q)
 * https://thegradient.pub/how-aristotle-is-fixing-deep-learnings-flaws/
-    News AI #1: MMS Meta // Falcon // Gorilla
+* News AI #1: MMS Meta // Falcon // Gorilla
 * https://lexfridman.com/joscha-bach/
-* [AC Interview - Christof Koch](https://open.spotify.com/episode/0Pwwlnp6m0oNIZHspK2U1t?si=6lX9AlHTQMe-PPoXN7IcVw)
-    **[George Hotz vs Eliezer Yudkowsky AI Safety Debate](https://www.youtube.com/live/6yQEA18C-XI?feature=share)**
+* [AC Interview - Christof Koch](https://open.spotify.com/episode/0Pwwlnp6m0oNIZHspK2U1t?si=6lX9AlHTQMe-PPoXN7IcVw)    * [George Hotz vs Eliezer Yudkowsky AI Safety Debate](https://www.youtube.com/live/6yQEA18C-XI?feature=share)
 
 ## Video 1s
 * [Gradient Half Descent](https://www.youtube.com/watch?v=Ae9EKCyI1xU)
 * [Hinton Foundations of DL](https://www.youtube.com/watch?v=zl99IZvW7rE)
 * [NN Programming - Part I](https://www.youtube.com/watch?v=sy2t8GMv7KM&list=PLZRRlbOTxTmAsg3tRGcD3nEDvJ-zSzVU6)
 * [Why is the Formula for F1-Score Unnecessarily Complicated? - YouTube](https://www.youtube.com/watch?v=GCPDWXWN55U) 
-* [YaTalks 2021: доклады про ML](https://youtube.com/playlist?list=PLQC2_0cDcSKBLBPNkJTAYlByB1DRMQhOX)
-    **[Stanford Seminar - Programming Tools for the Future of Data Science - YouTube](https://www.youtube.com/watch?v=KvMnpVMp0jk)**
-    **Нейроєнот | Нейромережа Midjourney, chat GPT та інші**
-    **[Künstliche Intelligenz - Ganze Folge 146 | Satire | Deville | SRF](https://www.youtube.com/watch?v=HGtO93ddGSo)**
-* [intro to transformers - YouTube](https://www.youtube.com/results?search_query=intro+to+transformers)
-    **[The Fragmented ML Stack and How to Fix It | J12 Day]()**
+* [YaTalks 2021: доклады про ML](https://youtube.com/playlist?list=PLQC2_0cDcSKBLBPNkJTAYlByB1DRMQhOX)    * [Stanford Seminar - Programming Tools for the Future of Data Science - YouTube](https://www.youtube.com/watch?v=KvMnpVMp0jk)
+    Нейроєнот | Нейромережа Midjourney, chat GPT та інші    * [Künstliche Intelligenz - Ganze Folge 146 | Satire | Deville | SRF](https://www.youtube.com/watch?v=HGtO93ddGSo)
+* [intro to transformers - YouTube](https://www.youtube.com/results?search_query=intro+to+transformers)    * [The Fragmented ML Stack and How to Fix It | J12 Day]()
 * [AI Innovation: LLMs, Federated Learning, and Slime Mold Algorithms Tickets, Tue, Jul 25, 2023 at 5:00 PM | Eventbrite](https://www.eventbrite.de/e/ai-innovation-llms-federated-learning-and-slime-mold-algorithms-tickets-663440326877?aff=oddtdtcreator)
 * [AI Symposium: no. 2 Keynote: Holger Hoos (CLAIRE) - YouTube](https://www.youtube.com/watch?v=MR_CHKS3yMs)
 * [How I ... DeepMind](https://www.youtube.com/watch?v=SgaN-4po_cA)
@@ -506,30 +480,21 @@
 * [https://en.wikipedia.org/wiki/Active_learning_(machine_learning)](https://en.wikipedia.org/wiki/Active_learning_(machine_learning))
 * https://datascience.stackexchange.com/questions/49600/what-is-a-basic-object-detection-localization-ml-algorithm-that-can-be-used-for
 * https://towardsdatascience.com/distribution-based-loss-functions-for-deep-learning-models-71fa4b042465
-    **links: https://lilianweng.github.io/posts/2017-06-21-overview/**
+    links: https://lilianweng.github.io/posts/2017-06-21-overview/
 * https://doordash.engineering/2021/11/03/how-doordash-quickly-spins-up-multiple-image-recognition-use-cases/
 * https://pyimagesearch.com/2018/10/29/multi-object-tracking-with-dlib/
-* https://towardsdatascience.com/visualizing-complex-data-simplifying-tree-structures-using-grammar-induction-b4843b5daaf4
-    **https://towardsdatascience.com/hierarchical-classification-with-local-classifiers-down-the-rabbit-hole-21cdf3bd2382**
-    **https://thesocietypages.org/cyborgology/**
+* https://towardsdatascience.com/visualizing-complex-data-simplifying-tree-structures-using-grammar-induction-b4843b5daaf4    * https://towardsdatascience.com/hierarchical-classification-with-local-classifiers-down-the-rabbit-hole-21cdf3bd2382    * https://thesocietypages.org/cyborgology/
 * https://www.crio.do/blog/5-interesting-machine-learning-projects/
 * https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/
 * https://www.unite.ai/ten-best-machine-learning-algorithms/
-* https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/
-    **[Stochastic Gradient Descent Algorithm With Python and NumPy – Real Python](https://realpython.com/gradient-descent-algorithm-python/)**
-    **[Adaptive resonance theory - Scholarpedia](http://scholarpedia.org/article/Adaptive_resonance_theory)**
-* https://distill.pub/2020/circuits/
-    **https://transformer-circuits.pub/**
-    **[Reinforcement Learning](https://youtube.com/playlist?list=PLMrJAkhIeNNQe1JXNvaFvURxGY4gE9k74)**
-    **https://worldmodels.github.io/**
+* https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/    * [Stochastic Gradient Descent Algorithm With Python and NumPy – Real Python](https://realpython.com/gradient-descent-algorithm-python/)    * [Adaptive resonance theory - Scholarpedia](http://scholarpedia.org/article/Adaptive_resonance_theory)
+* https://distill.pub/2020/circuits/    * https://transformer-circuits.pub/    * [Reinforcement Learning](https://youtube.com/playlist?list=PLMrJAkhIeNNQe1JXNvaFvURxGY4gE9k74)    * https://worldmodels.github.io/
 * https://te.legra.ph/Prostaya-nejronnaya-set-v-9-strok-koda-na-Python-02-24
-* https://te.legra.ph/Prostaya-nejronnaya-set-v-9-strok-koda-na-Python-02-24
-    **https://josehoras.github.io/lstm-pure-python/**
-* [Tensorflow-JS-Projects](https://github.com/huseinzol05/Tensorflow-JS-Projects)
-    **https://medium.com/total-data-science/full-stack-data-scientist-in-2022-83ba24eb77e1**
+* https://te.legra.ph/Prostaya-nejronnaya-set-v-9-strok-koda-na-Python-02-24    * https://josehoras.github.io/lstm-pure-python/
+* [Tensorflow-JS-Projects](https://github.com/huseinzol05/Tensorflow-JS-Projects)    * https://medium.com/total-data-science/full-stack-data-scientist-in-2022-83ba24eb77e1
 * [Neural-Network-Multilanguages](https://github.com/huseinzol05/Neural-Network-Multilanguages)
 * https://paulbridger.com/posts/pytorch-memory-tuning/ 
-    McKinsey Report on Generative AI
+* McKinsey Report on Generative AI
 * https://blog.paperspace.com/training-vall-e-from-scratch-on-your-own-voice-samples/ 
 * https://elevanth.org/blog/2023/07/17/none-of-the-above/ 
 * https://www.psychologytoday.com/us/articles/201809/the-wizard-consciousness 
@@ -543,24 +508,11 @@
 * https://www.reddit.com/r/programming/comments/14rmo3i/coding_a_neural_network_from_scratch_and_creating/ 
 * [12ft | Sam Altman’s Manifest Destiny | The New Yorker](https://12ft.io/proxy?q=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2016%2F10%2F10%2Fsam-altmans-manifest-destiny)
 * [Perché Meta non lancerà Instagram Threads in Europa | Wired Italia](https://www.wired.it/article/instagram-threads-in-europa/)
-* https://www.chip.de/news/Kostenloses-KI-Tool-verbessert-Bildaufloesung-Fotos-massiv-hochskalieren-ohne-Qualitaetsverluste_184787362.html 
-    **https://josehoras.github.io/lstm-in-tensorflow/**
-    **https://josehoras.github.io/lstm-pure-python/**
-    **https://analyticsindiamag.com/step-by-step-guide-to-build-a-simple-neural-network-in-pytorch-from-scratch/**
-    **https://towardsdatascience.com/neural-network-from-scratch-in-excel-4774f6131cdb**
-    **https://towardsdatascience.com/understanding-fast-r-cnn-and-faster-r-cnn-for-object-detection-adbb55653d97**
-    **https://betterexplained.com/articles/intuitive-convolution/#Intuition_For_Convolution**
-    **https://math.stackexchange.com/questions/1934819/intuition-behind-convolution**
-    **https://te.legra.ph/Iskusstvennaya-nejronnaya-set-s-nulya-na-Python-c-bibliotekoj-NumPy-01-09**
-    **[https://medium.com/@balovbohdan/сверточные-нейронные-сети-с-нуля-4d5a1f0f87ec](https://medium.com/@balovbohdan/%D1%81%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B5-%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5-%D1%81%D0%B5%D1%82%D0%B8-%D1%81-%D0%BD%D1%83%D0%BB%D1%8F-4d5a1f0f87ec)**
-    **https://sirupsen.com/napkin/neural-net**
-    **https://encyclopedia.pub/13722**
+* https://www.chip.de/news/Kostenloses-KI-Tool-verbessert-Bildaufloesung-Fotos-massiv-hochskalieren-ohne-Qualitaetsverluste_184787362.html     * https://josehoras.github.io/lstm-in-tensorflow/    * https://josehoras.github.io/lstm-pure-python/    * https://analyticsindiamag.com/step-by-step-guide-to-build-a-simple-neural-network-in-pytorch-from-scratch/    * https://towardsdatascience.com/neural-network-from-scratch-in-excel-4774f6131cdb    * https://towardsdatascience.com/understanding-fast-r-cnn-and-faster-r-cnn-for-object-detection-adbb55653d97    * https://betterexplained.com/articles/intuitive-convolution/#Intuition_For_Convolution    * https://math.stackexchange.com/questions/1934819/intuition-behind-convolution    * https://te.legra.ph/Iskusstvennaya-nejronnaya-set-s-nulya-na-Python-c-bibliotekoj-NumPy-01-09    * [https://medium.com/@balovbohdan/сверточные-нейронные-сети-с-нуля-4d5a1f0f87ec](https://medium.com/@balovbohdan/%D1%81%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B5-%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5-%D1%81%D0%B5%D1%82%D0%B8-%D1%81-%D0%BD%D1%83%D0%BB%D1%8F-4d5a1f0f87ec)    * https://sirupsen.com/napkin/neural-net    * https://encyclopedia.pub/13722
 * https://www.prisma.io/dataguide/
 * [Effective use of Spearman's and Kendall's correlation coefficients for association between two measured traits](https://www.sciencedirect.com/science/article/abs/pii/S0003347215000196)
 * https://medium.com/gsi-technology/a-data-scientists-guide-to-picking-an-optimal-approximate-nearest-neighbor-algorithm-6f91d3055115
-* [Signal-Classification-Comparison](https://github.com/huseinzol05/Signal-Classification-Comparison)
-    **https://thegradient.pub/a-science-journalists-journey-to-understand-ai/**
-    **https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/**
+* [Signal-Classification-Comparison](https://github.com/huseinzol05/Signal-Classification-Comparison)    * https://thegradient.pub/a-science-journalists-journey-to-understand-ai/    * https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/
 * https://habr.com/ru/company/ods/blog/485122/
 * [Creating publication-quality figures with Matplotlib: https://github.com/jbmouret/matplotlib_for_papers](https://github.com/jbmouret/matplotlib_for_papers)
 * https://www.juliabloggers.com/a-basic-rnn/
@@ -772,27 +724,26 @@
 * https://www.tangramvision.com/blog
 * [Context by Cohere](https://txt.cohere.ai/)
 * [We Are Conjecture, A New Alignment Research Startup — LessWrong](https://www.lesswrong.com/posts/jfq2BH5kfQqu2vYv3/we-are-conjecture-a-new-alignment-research-startup) 
-* [titanml/takeoff](https://github.com/titanml/takeoff)
-    **https://openai.com/blog/**
+* [titanml/takeoff](https://github.com/titanml/takeoff)    * https://openai.com/blog/
 * https://www.determined.ai/   https://docs.determined.ai/latest/index.html 
 
 ## Notes
-    why does adding positional information not destroy some of the information decoded in the embedding? why not just concatenation?
-    search: data analysis and climate change
-    parquet data format
-    crowdsourcing climate change analysis
+* why does adding positional information not destroy some of the information decoded in the embedding? why not just concatenation?
+* search: data analysis and climate change
+* parquet data format
+* crowdsourcing climate change analysis
     → make NN to detect skew angle of scanned page (mainly to master PyTorch, TensorFlow, MXNet, and Flux.jl): how well does it work, and how does it compare to row pixel sum approach?
-    scaled dot product: why sqrt(d_k)?
-    intelligence ~ learning + reasoning
-    EU definition of trustworthy AI
+* scaled dot product: why sqrt(d_k)?
+* intelligence ~ learning + reasoning
+* EU definition of trustworthy AI
     → optimal algorithm for Set
-    passive-aggressive algorithms
-    UMAP
-    t-SNE
-    MDS (multidimensional scaling): metric & non-metric, attempts to maintain actual distance / tries to maintain rank of data rather than distances
-    good search: pca on tensor
-    dimensionality reduction on matrix of functions
-    search: pca on distributions instead of value
+* passive-aggressive algorithms
+* UMAP
+* t-SNE
+* MDS (multidimensional scaling): metric & non-metric, attempts to maintain actual distance / tries to maintain rank of data rather than distances
+* good search: pca on tensor
+* dimensionality reduction on matrix of functions
+* search: pca on distributions instead of value
 
 ## Software, Tools, Resources
     - Model Zoos
@@ -807,7 +758,7 @@
 * https://github.com/biobootloader/wolverine 
 * https://github.com/neoml-lib/neoml
 * https://github.com/ranahaani/polyglot 
-* https://nn.labml.ai/index.html *********
+* https://nn.labml.ai/index.html *****
 * https://useadrenaline.com/app ***
 * https://eng.uber.com/the-new-version-of-orbit-v1-1-is-released/
 * [H2O.ai Documentation](https://docs.h2o.ai/)
@@ -816,11 +767,7 @@
     
 * [Introduction | H2O Tutorials](https://docs.h2o.ai/h2o-tutorials/latest-stable/)
 * https://docs.ray.io/en/latest/rllib/index.html
-* https://metaflow.org/
-    **[FiftyOne — FiftyOne 0.14.2 documentation](https://voxel51.com/docs/fiftyone/)**
-    **[Introduction to TorchScript — PyTorch Tutorials 1.10.1+cu102 documentation](https://pytorch.org/tutorials/beginner/Intro_to_TorchScript_tutorial.html)**
-    **[TorchScript — PyTorch 1.10 documentation](https://pytorch.org/docs/stable/jit.html)**
-    **[TorchScript Language Reference — PyTorch 1.10 documentation](https://pytorch.org/docs/stable/jit_language_reference.html)**
+* https://metaflow.org/    * [FiftyOne — FiftyOne 0.14.2 documentation](https://voxel51.com/docs/fiftyone/)    * [Introduction to TorchScript — PyTorch Tutorials 1.10.1+cu102 documentation](https://pytorch.org/tutorials/beginner/Intro_to_TorchScript_tutorial.html)    * [TorchScript — PyTorch 1.10 documentation](https://pytorch.org/docs/stable/jit.html)    * [TorchScript Language Reference — PyTorch 1.10 documentation](https://pytorch.org/docs/stable/jit_language_reference.html)
 * https://github.com/jmorganca/ollama 
 * https://github.com/modelscope/facechain
 * https://github.com/huggingface/candle 
@@ -838,7 +785,7 @@
 * https://snyk.io/platform/deepcode-ai/ 
 * https://github.blog/2023-07-20-github-copilot-chat-beta-now-available-for-every-organization 
 * https://blog.logrocket.com/machine-learning-in-rust-using-linfa/ 
-    AI-Catalog on GH
+* AI-Catalog on GH
 * [Code Interpreter Available For All ChatGPT Plus Users](https://www.searchenginejournal.com/code-interpreter-chatgpt-plus/490980/?utm_source=danielmiessler.com&utm_medium=newsletter&utm_campaign=unsupervised-learning-no-389)
 * [jerryjliu/llama_index: LlamaIndex (GPT Index) is a data framework for your LLM applications](https://github.com/jerryjliu/llama_index)
 * [Ivy](https://unify.ai/)
@@ -856,10 +803,7 @@
 * [webonnx/wonnx: A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web](https://github.com/webonnx/wonnx)
 * [Better than Copilot? This AI plugin for Neovim is Incredible - YouTube](https://www.youtube.com/watch?v=7k0KZsheLP4)
 * [Text classification with the torchtext library — PyTorch Tutorials 2.0.1+cu117 documentation](https://pytorch.org/tutorials/beginner/text_sentiment_ngrams_tutorial.html)
-* [neoml-lib/neoml: Machine learning framework for both deep learning and traditional algorithms](https://github.com/neoml-lib/neoml)
-    **https://labelstud.io/**
-    **https://rlcard.org/**
-    **https://www.mlflow.org/**
+* [neoml-lib/neoml: Machine learning framework for both deep learning and traditional algorithms](https://github.com/neoml-lib/neoml)    * https://labelstud.io/    * https://rlcard.org/    * https://www.mlflow.org/
 * [Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models)
 * [Hackathon-Huseinhouse](https://github.com/huseinzol05/Hackathon-Huseinhouse)
 * [Machine-Learning-Numpy](https://github.com/huseinzol05/Machine-Learning-Numpy)
@@ -885,7 +829,7 @@
 * [jasmcaus/caer: High-performance Vision library in Python. Scale your research, not boilerplate.](https://github.com/jasmcaus/caer)
 * https://onnx.ai/supported-tools.html 
     
-    Pytorch
+* Pytorch
         look at DETR to make Pytorch package template, build on top of pytorch-ner
 * [PyTorch internals : ezyang’s blog](http://blog.ezyang.com/2019/05/pytorch-internals/)
 * https://atcold.github.io/pytorch-Deep-Learning/it/
@@ -912,14 +856,12 @@
 * [Welcome to PyTorch Tutorials — PyTorch Tutorials 1.0.0.dev20190125 documentation](https://pytorch.org/tutorials/)
 * [cvpr2015/Deep Learning with Torch.ipynb at master · soumith/cvpr2015](https://github.com/soumith/cvpr2015/blob/master/Deep%20Learning%20with%20Torch.ipynb)
 * [Cheatsheet · torch/torch7 Wiki](https://github.com/torch/torch7/wiki/Cheatsheet)
-* [Model Zoo - Image-to-Image Translation with Conditional Adversarial Networks PyTorch Model](https://modelzoo.co/model/image-to-image-translation-with-conditional-adversarial-networks)
-        - [*PyTorch - QuantScientist/Deep-Learning-Boot-Camp: A community run, 5-day PyTorch Deep Learning Bootcamp](https://github.com/QuantScientist/Deep-Learning-Boot-Camp)
+* [Model Zoo - Image-to-Image Translation with Conditional Adversarial Networks PyTorch Model](https://modelzoo.co/model/image-to-image-translation-with-conditional-adversarial-networks)        - [*PyTorch - QuantScientist/Deep-Learning-Boot-Camp: A community run, 5-day PyTorch Deep Learning Bootcamp](https://github.com/QuantScientist/Deep-Learning-Boot-Camp)
 * [pytorch-book/chapter9-神经网络写诗(CharRNN) at master · chenyuntc/pytorch-book · GitHub](https://github.com/chenyuntc/pytorch-book/tree/master/chapter9-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%86%99%E8%AF%97(CharRNN))
 * [GitHub - pytorch/examples: A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.](https://github.com/pytorch/examples)
 * [GitHub - pytorch/tutorials](https://github.com/pytorch/tutorials)
 * [GitHub - OpenNMT/OpenNMT: Open Source Neural Machine Translation in Torch](https://github.com/OpenNMT/OpenNMT)
-* [GitHub - Atcold/pytorch-Deep-Learning-Minicourse: Minicourse in Deep Learning with PyTorch](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse)
-        - [**Announcing Tensor Comprehensions – Facebook Research](https://research.fb.com/announcing-tensor-comprehensions/)
+* [GitHub - Atcold/pytorch-Deep-Learning-Minicourse: Minicourse in Deep Learning with PyTorch](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse)        - [**Announcing Tensor Comprehensions – Facebook Research](https://research.fb.com/announcing-tensor-comprehensions/)
 * http://blog.gaurav.im/2017/04/24/a-gentle-intro-to-pytorch/
 * http://ml.informatik.uni-freiburg.de/former/_media/teaching/ws1415/presentation_dl_lect3.pdf
 * http://pytorch.org/docs/0.3.0/
@@ -996,7 +938,7 @@
 * https://blog.paperspace.com/pytorch-hooks-gradient-clipping-debugging/
 * [Going Deep with PyTorch](https://blog.paperspace.com/pytorch-hooks-gradient-clipping-debugging/blog.paperspace.com/pytorch-101-advanced/)
     * TF
-* https://github.com/nicholasjhana/tensorflow-certification-study-guide *********
+* https://github.com/nicholasjhana/tensorflow-certification-study-guide *****
 * https://www.tensorflow.org/certificate
 * [$$$ TF for DL Research](https://www.youtube.com/channel/UCMq6IdbXar_KtYixMS_wHcQ/videos)
 * [TF1 vs TF2](https://www.datasciencecentral.com/profiles/blogs/tensorflow-1-x-vs-2-x-summary-of-changes)
@@ -1025,9 +967,7 @@
 * https://www.youtube.com/watch?v=MrijcdNl_U4&list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh
 * http://cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-complete-tutorial/
 * https://www.tensorflow.org/hub/tutorials/text_classification_with_tf_hub
-* [(16) Where is a good resource for learning TensorFlow from scratch? - Quora](https://www.quora.com/Where-is-a-good-resource-for-learning-TensorFlow-from-scratch)
-        - [********python 3.x - Representing the learned weights of MNIST using Tensorflow graphically - Stack Overflow](https://stackoverflow.com/questions/43051166/representing-the-learned-weights-of-mnist-using-tensorflow-graphically)
-        - [**TensorFlow Guide_w3cschool](https://www.w3cschool.cn/doc_tensorflow_guide/)
+* [(16) Where is a good resource for learning TensorFlow from scratch? - Quora](https://www.quora.com/Where-is-a-good-resource-for-learning-TensorFlow-from-scratch)        - [****python 3.x - Representing the learned weights of MNIST using Tensorflow graphically - Stack Overflow](https://stackoverflow.com/questions/43051166/representing-the-learned-weights-of-mnist-using-tensorflow-graphically)        - [**TensorFlow Guide_w3cschool](https://www.w3cschool.cn/doc_tensorflow_guide/)
 * [A quick complete tutorial to save and restore Tensorflow models – CV-Tricks.com](http://cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-complete-tutorial/)
 * [apprentissage machine avec TensorFlow - Buscar con Google](https://www.google.com/search?safe=active&rlz=1C1GCEA_enUS765US765&ei=U6_0WaruK4mQ0gLMkLCICg&q=apprentissage+machine+avec+TensorFlow&oq=apprentissage+machine+avec+TensorFlow&gs_l=psy-ab.3...5510.8885.0.9046.15.15.0.0.0.0.135.1424.8j6.14.0....0...1.1.64.psy-ab..1.11.1128...0i22i30k1j33i160k1j33i22i29i30k1.0.X3LuMPPZBqs)
 * [Best Tensorflow Online Courses, Training with Certification-2018 Updated - Top 10 Online Courses](https://top10onlinecourses.com/best-tensorflow-online-courses/)
@@ -1126,11 +1066,8 @@
 * [C++ API | TensorFlow Core | TensorFlow](https://www.tensorflow.org/guide/extend/cc)
 * [TensorFlow Guide | TensorFlow Core | TensorFlow](https://www.tensorflow.org/guide/?hl=fr)
 * [TensorFlow | TensorFlow Core | TensorFlow](https://www.tensorflow.org/overview)
-* [TensorFlow C++ Reference | TensorFlow Core r1.14 | TensorFlow](https://www.tensorflow.org/api_docs/cc)
-        - [*All symbols in TensorFlow 2.0 Preview | TensorFlow Core r1.14 | TensorFlow](https://www.tensorflow.org/api_docs/python)
-        - [*TensorFlow Guide | TensorFlow Core | TensorFlow](https://www.tensorflow.org/guide)
-* https://tensorflow.rstudio.com/
-        - [**********Neural Networks and TensorFlow - YouTube](https://www.youtube.com/playlist?list=PLonlF40eS6nxsfQMKdUdUDcmQg_TzSdS9)
+* [TensorFlow C++ Reference | TensorFlow Core r1.14 | TensorFlow](https://www.tensorflow.org/api_docs/cc)        - [*All symbols in TensorFlow 2.0 Preview | TensorFlow Core r1.14 | TensorFlow](https://www.tensorflow.org/api_docs/python)        - [*TensorFlow Guide | TensorFlow Core | TensorFlow](https://www.tensorflow.org/guide)
+* https://tensorflow.rstudio.com/        - [**Neural Networks and TensorFlow - YouTube](https://www.youtube.com/playlist?list=PLonlF40eS6nxsfQMKdUdUDcmQg_TzSdS9)
 * [Deep Learning, Neuronale Netzwerke und AI mit TensorFlow | Udemy](https://www.udemy.com/deep-learning-grundlagen-neuronale-netzwerke-mit-tensorflow/learn/v4/t/lecture/11801842?start=180)
 * [tensorflow/models: Models and examples built with TensorFlow](https://github.com/tensorflow/models)
 * [tensorflow/c_api.h at master · tensorflow/tensorflow · GitHub](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/c/c_api.h)
@@ -1143,11 +1080,9 @@
 * [nlintz/TensorFlow-Tutorials: Simple tutorials using Google's TensorFlow Framework](https://github.com/nlintz/TensorFlow-Tutorials)
 * [chiphuyen/stanford-tensorflow-tutorials: This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
 * [aymericdamien/TensorFlow-Examples: TensorFlow Tutorial and Examples for Beginners with Latest APIs](https://github.com/aymericdamien/TensorFlow-Examples)
-* [pkmital/tensorflow_tutorials: From the basics to slightly more interesting applications of Tensorflow](https://github.com/pkmital/tensorflow_tutorials)
-        - [*GitHub - ageron/tf2_course: Notebooks for my "Deep Learning with TensorFlow 2 and Keras" course](https://github.com/ageron/tf2_course)
+* [pkmital/tensorflow_tutorials: From the basics to slightly more interesting applications of Tensorflow](https://github.com/pkmital/tensorflow_tutorials)        - [*GitHub - ageron/tf2_course: Notebooks for my "Deep Learning with TensorFlow 2 and Keras" course](https://github.com/ageron/tf2_course)
 * [hunkim/DeepLearningZeroToAll: TensorFlow Basic Tutorial Labs](https://github.com/hunkim/DeepLearningZeroToAll)
-* [models/research at master · tensorflow/models](https://github.com/tensorflow/models/tree/master/research)
-        - [> Search · tensorflow](https://gist.github.com/search?l=Python&q=tensorflow)
+* [models/research at master · tensorflow/models](https://github.com/tensorflow/models/tree/master/research)        - [> Search · tensorflow](https://gist.github.com/search?l=Python&q=tensorflow)
 * [$$$ Debugging your tensorflow code right (without so many painful mistakes)](https://towardsdatascience.com/debugging-your-tensorflow-code-right-without-so-many-painful-mistakes-b48bd9145d5c)
 * [$$$ *How to get started debugging TensorFlow](https://www.freecodecamp.org/news/debugging-tensorflow-a-starter-e6668ce72617/)
 * [$$$ faculty.washington.edu/levow/full_statement_para.pdf](http://faculty.washington.edu/levow/full_statement_para.pdf)
@@ -1167,8 +1102,8 @@
 * [$$$ ? Under-the-Hood Mechanisms of Neural Networks with TensorFlow | Altoros](https://www.altoros.com/blog/under-the-hood-mechanisms-of-neural-networks-with-tensorflow/)
 * [$$$ Understanding Tensorflow - your first program - Soham's blog](https://www.sohamkamani.com/blog/2018/01/07/tensorflow-introduction/)
 * [$$$ What is TensorFlow? The machine learning library explained | InfoWorld](https://www.infoworld.com/article/3278008/what-is-tensorflow-the-machine-learning-library-explained.html)
-* [$$$ *********Deep Learning From Scratch VI: TensorFlow - deep ideas](http://www.deepideas.net/deep-learning-from-scratch-vi-tensorflow/)
-* [$$$ *********GitHub - tVishal96/TensorFlow-Mimicry: Mimicking the TensorFlow API from scratch (in pure Python) in order to understand its internal working.](https://github.com/tVishal96/TensorFlow-Mimicry)
+* [$$$ *****Deep Learning From Scratch VI: TensorFlow - deep ideas](http://www.deepideas.net/deep-learning-from-scratch-vi-tensorflow/)
+* [$$$ *****GitHub - tVishal96/TensorFlow-Mimicry: Mimicking the TensorFlow API from scratch (in pure Python) in order to understand its internal working.](https://github.com/tVishal96/TensorFlow-Mimicry)
 * [$$$ ***GitHub - samjabrahams/tensorflow-white-paper-notes: Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation](https://github.com/samjabrahams/tensorflow-white-paper-notes)
 * [$$$ Introduction to Tensorflow](https://cs230-stanford.github.io/tensorflow-getting-started.html)
 * [$$$ Understanding Tensorflow structure : learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/comments/68v7pa/understanding_tensorflow_structure/)
@@ -1280,30 +1215,23 @@
 * https://github.com/aspamers/triplet
 * https://rapidminer.com/
 
-## Papers
-    **[Active Learning for Pipeline Models](https://www.aaai.org/Papers/AAAI/2008/AAAI08-109.pdf)**
+## Papers    * [Active Learning for Pipeline Models](https://www.aaai.org/Papers/AAAI/2008/AAAI08-109.pdf)
 * [Object Detection with Deep Learning: A Review - arXiv](https://arxiv.org/pdf/1807.05511)
 * [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)
 * [Challenges in Deploying Machine Learning: a Survey of Case Studies](https://arxiv.org/abs/2011.09926)
-* [One Millisecond Face Alignment with an Ensemble of Regression Trees](http://kth.diva-portal.org/smash/get/diva2:713097/FULLTEXT01)
-    **[A survey of hierarchical classification across different application domains](https://link.springer.com/article/10.1007/s10618-010-0175-9)**
-* [Support Vector Machines: Training and Applications](https://dspace.mit.edu/bitstream/handle/1721.1/7290/AIM-1602.pdf?sequence=2)
-    **[Estimation and Applications of Quantiles in Deep Binary Classification](https://arxiv.org/abs/2102.06575)**
+* [One Millisecond Face Alignment with an Ensemble of Regression Trees](http://kth.diva-portal.org/smash/get/diva2:713097/FULLTEXT01)    * [A survey of hierarchical classification across different application domains](https://link.springer.com/article/10.1007/s10618-010-0175-9)
+* [Support Vector Machines: Training and Applications](https://dspace.mit.edu/bitstream/handle/1721.1/7290/AIM-1602.pdf?sequence=2)    * [Estimation and Applications of Quantiles in Deep Binary Classification](https://arxiv.org/abs/2102.06575)
 * [Scale Efficiently: Insights from Pre-training and Fine-tuning Transformers](https://arxiv.org/abs/2109.10686)
 * [Luis Pedro Coelho Papers](https://luispedro.org/)
 * [Gran Turismo Sophy](https://files.springernature.com/getResource/Full%20text%3A%20Wurman_41586_2021_4357_OnlinePDF_300A.pdf?token=IULUvIufpS8AXE43riPpExKrcZMUcwpHIO0w4yhOno61RnG9Vz6%2Fr7GCrI5AcBi92o1n3tikPjKFkiYotkHNpNM75Zwrwg1JnULfD6ql3lb6tdcIm8vroar7%2Fz17AfBvuCh%2FZ3DLB4IVSRfpmhKqIPNr3IelNsbGe3Ft77rzcpzHA%2Bj%2F1y1X%2Fg37T%2FwGk%2Foh6R1Se4bGQnT7HNP7lnlhp9R9ie6CqfHB3gsKJ%2BZ2%2F5OG3eNs2jsDKIt6ogD7VgOiaP3Tdhmek9ubVZwx%2FRy3Z5f%2BzZYRy8pJjRb97cB%2Fsc0MgD9H0bNa3ovsP%2Fwb0S7fwdk8NnHVaO7si8kvZJl37PxQtfi2QjXb%2FSqtKrpQ6Rw%3D)
 * [Towards better data discovery and collection with flow-based programming](https://arxiv.org/abs/2108.04105)
 * [Deep Reinforcement Active Learning for Human-In-The-Loop Person Re-Identification](https://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Deep_Reinforcement_Active_Learning_for_Human-in-the-Loop_Person_Re-Identification_ICCV_2019_paper.pdf)
-* [FewNLU: Benchmarking State-of-the-Art Methods for Few-Shot Natural Language Understanding](https://arxiv.org/abs/2109.12742)
-    **https://gananath.github.io/prob_retrieval.html**
-    **[DeepMind's AlphaFold 2 Explained! AI Breakthrough in Protein Folding! What we know (& what we don't)](https://youtu.be/B9PL__gVxLI)**
-    **[Hungry Hungry Hippos: Towards Language Modeling with State Space Models](https://arxiv.org/abs/2212.14052)**
+* [FewNLU: Benchmarking State-of-the-Art Methods for Few-Shot Natural Language Understanding](https://arxiv.org/abs/2109.12742)    * https://gananath.github.io/prob_retrieval.html    * [DeepMind's AlphaFold 2 Explained! AI Breakthrough in Protein Folding! What we know (& what we don't)](https://youtu.be/B9PL__gVxLI)    * [Hungry Hungry Hippos: Towards Language Modeling with State Space Models](https://arxiv.org/abs/2212.14052)
 * [ranlp2021.pdf](https://people.eng.unimelb.edu.au/tbaldwin/pubs/ranlp2021.pdf)
 * [Tree of Thoughts: Deliberate Problem Solving with Large Language Models (Full Paper Review) - YouTube](https://www.youtube.com/watch?v=ut5kp56wW_4)
 * [Advanced Embodied Learning - ln730px9m4l1lwepugycjagj5.Florian_Walter_Advanced_Embodied_Learning.pdf](https://mediatum.ub.tum.de/doc/1616775/ln730px9m4l1lwepugycjagj5.Florian_Walter_Advanced_Embodied_Learning.pdf)
 * [Democratic Regression - demregress.pdf](https://people.eng.unimelb.edu.au/tbaldwin/pubs/demregress.pdf)
-* [Language and the Shifting Sands of Domain, Space and Time - vardial2018.pdf](https://people.eng.unimelb.edu.au/tbaldwin/pubs/vardial2018.pdf)
-    **https://autoblow.com/bjpaper/**
+* [Language and the Shifting Sands of Domain, Space and Time - vardial2018.pdf](https://people.eng.unimelb.edu.au/tbaldwin/pubs/vardial2018.pdf)    * https://autoblow.com/bjpaper/
 * [A Few Useful Things to Know about ML](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 * [INTRODUCTION TO KNOWLEDGE DISCOVERYIN DATABASES](https://www.ise.bgu.ac.il/faculty/liorr/hbchap1.pdf)
 * [Reinforcement Learning Reading Group (RU)](https://www.youtube.com/channel/UC6KYPBaACVG0pkBWH5bkWLQ)
@@ -1312,9 +1240,7 @@
 * [MODELSANDVISUALIZATIONSFORHOUSINGPRICEPREDICTION](https://broncoscholar.library.cpp.edu/bitstream/handle/10211.3/185729/KomagometowneAnh_Thesis2016.pdf?sequence=4)
 * [Hybrid autoencoder and classifier for label-deficient semi-supervised learning: Case study](https://ieeexplore.ieee.org/document/7527873)
 * https://github.com/terryum/awesome-deep-learning-papers
-* [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai)
-    **[∞-former: Infinite Memory Transformer](https://arxiv.org/abs/2109.00301)**
-    **[The Modern Mathematics of Deep Learning](https://arxiv.org/abs/2105.04026)**
+* [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai)    * [∞-former: Infinite Memory Transformer](https://arxiv.org/abs/2109.00301)    * [The Modern Mathematics of Deep Learning](https://arxiv.org/abs/2105.04026)
 * https://web.stanford.edu/~jgrimmer/tad2.pdf
 
 * Computer Vision
@@ -1352,7 +1278,7 @@
 * https://www.tensorflow.org/programmers_guide/datasets
 * [Image Classification Using Deep Learning: “Hello World” Tutorial](https://medium.com/@sntaus/image-classification-using-deep-learning-hello-world-tutorial-a47d02fd9db1)
 * [Image Denoising with Deep Convolutional Neural Networks](https://web.stanford.edu/class/cs331b/2016/projects/zhao.pdf)
-    Image Denoising:
+* Image Denoising:
 * http://colah.github.io/posts/2014-10-Visualizing-MNIST/
 * https://juliaimages.org/latest/imagesegmentation.html#ImageSegmentation.jl-1
 * https://dhlab-epfl.github.io/dhSegment/
@@ -1430,8 +1356,8 @@
 * [Awesome Segmantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
 * [dhSegment](https://github.com/dhlab-epfl/dhSegment)
 * [dhSegment](https://dhsegment.readthedocs.io/en/latest/index.html)
-    - [*******Train a Mask R-CNN model on your own data – waspinator](https://patrickwasp.com/train-a-mask-r-cnn-model-on-your-own-dataset/)
-    - [*******Building a Custom Mask RCNN model with Tensorflow Object Detection](https://towardsdatascience.com/building-a-custom-mask-rcnn-model-with-tensorflow-object-detection-952f5b0c7ab4)
+    - [***Train a Mask R-CNN model on your own data – waspinator](https://patrickwasp.com/train-a-mask-r-cnn-model-on-your-own-dataset/)
+    - [***Building a Custom Mask RCNN model with Tensorflow Object Detection](https://towardsdatascience.com/building-a-custom-mask-rcnn-model-with-tensorflow-object-detection-952f5b0c7ab4)
 * [Train own Dataset by taking actual images · Issue #14 · matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN/issues/14)
 * [3 Mask RCNN Archi. (Part2) - How FCN Fully Convolutional Networks Works for Semantic Segmentation - YouTube](https://www.youtube.com/watch?v=UdZnhZrM2vQ&t=111s)
 * [Ardian Umam - YouTube](https://www.youtube.com/channel/UChWUtAAsYbTXe0jXGrhb-YQ/playlists)
@@ -1508,7 +1434,7 @@
 * [GitHub - sthalles/deeplab_v3: Tensorflow Implementation of the Semantic Segmentation DeepLab_V3 CNN](https://github.com/sthalles/deeplab_v3)
 * [GitHub - udacity/CarND-Semantic-Segmentation](https://github.com/udacity/CarND-Semantic-Segmentation)
 * [GitHub - meetshah1995/pytorch-semseg: Semantic Segmentation Architectures Implemented in PyTorch](https://github.com/meetshah1995/pytorch-semseg)
-    GitHub - shekkizh/FCN.tensorflow: Tensorflow implementation of Fully Convolutional Networks for Semantic Segmentation (http://fcn.berkeleyvision.org)
+* GitHub - shekkizh/FCN.tensorflow: Tensorflow implementation of Fully Convolutional Networks for Semantic Segmentation (http://fcn.berkeleyvision.org)
 * [GitHub - BVLC/caffe: Caffe: a fast open framework for deep learning.](https://github.com/BVLC/caffe)
 * [GitHub - dmlc/gluon-cv: Gluon CV Toolkit](https://github.com/dmlc/gluon-cv)
 * [GitHub - DrSleep/tensorflow-deeplab-resnet: DeepLab-ResNet rebuilt in TensorFlow](https://github.com/DrSleep/tensorflow-deeplab-resnet)
@@ -1537,7 +1463,7 @@
 * [Mask_RCNN/train_ohio.ipynb at master · masakistan/Mask_RCNN](https://github.com/masakistan/Mask_RCNN/blob/master/samples/shapes/train_ohio.ipynb)
 * [D. Implementación - Hojas de cálculo de Google](https://docs.google.com/spreadsheets/d/14xweS09LFKyVR_iB0JS1dFCirhnweev4qsj3nCDPdB0/edit#gid=322908016)
 * [Record Image Segmentation - Hojas de cálculo de Google](https://docs.google.com/spreadsheets/d/1UOqB_IsCu-3dLmM3CUyVvpVkftn2MQZGwRK7Rizg7to/edit#gid=499464197)
-    Bookmarks
+* Bookmarks
 * [Train a Mask R-CNN model on your own data – waspinator](https://patrickwasp.com/train-a-mask-r-cnn-model-on-your-own-dataset/)
 * [Create your own COCO-style datasets – waspinator](https://patrickwasp.com/create-your-own-coco-style-dataset/)
 * [Search · document segmentation mask rcnn](https://github.com/search?q=document+segmentation+mask+rcnn)
@@ -1611,16 +1537,8 @@
 * [GitHub - Liris-Pleiad/libcrn](https://github.com/Liris-Pleiad/libcrn)
 * [Self-Driving-Car-Engines](https://github.com/huseinzol05/Self-Driving-Car-Engines)
 * [YOLO-Object-Detection-Tensorflow](https://github.com/huseinzol05/YOLO-Object-Detection-Tensorflow)
-    - [*Computer Vision: Algorithms and Applications (Texts in Computer Science)](http://library.lol/main/B1D8C312B0366EDC505AFE47E6C825F0) ***********
-    **https://gilberttanner.com/blog/detectron-2-object-detection-with-pytorch**
-    **https://github.com/facebookresearch/detectron2/issues/2124**
-    **https://www.analyticsvidhya.com/blog/2021/08/your-guide-to-object-detection-with-detectron2-in-pytorch/**
-    **https://www.immersivelimit.com/tutorials/create-coco-annotations-from-scratch/#coco-dataset-format**
-    **https://towardsdatascience.com/train-maskrcnn-on-custom-dataset-with-detectron2-in-4-steps-5887a6aa135d**
-    **https://www.immersivelimit.com/course/creating-coco-datasets**
-    **[Detectron2 Beginner’s Tutorial Colab](https://colab.research.google.com/drive/1WgJ9xwBRsdUAsaiO1lz2NbpE0swAxobG)**
-    **https://medium.com/red-buffer/training-an-object-detection-model-in-a-few-minutes-using-detectron2-5bd0aa5550d4**
-    **https://www.analyticsvidhya.com/blog/2021/08/your-guide-to-object-detection-with-detectron2-in-pytorch/**
+    - [*Computer Vision: Algorithms and Applications (Texts in Computer Science)](http://library.lol/main/B1D8C312B0366EDC505AFE47E6C825F0) **
+* https://gilberttanner.com/blog/detectron-2-object-detection-with-pytorch    * https://github.com/facebookresearch/detectron2/issues/2124    * https://www.analyticsvidhya.com/blog/2021/08/your-guide-to-object-detection-with-detectron2-in-pytorch/    * https://www.immersivelimit.com/tutorials/create-coco-annotations-from-scratch/#coco-dataset-format    * https://towardsdatascience.com/train-maskrcnn-on-custom-dataset-with-detectron2-in-4-steps-5887a6aa135d    * https://www.immersivelimit.com/course/creating-coco-datasets    * [Detectron2 Beginner’s Tutorial Colab](https://colab.research.google.com/drive/1WgJ9xwBRsdUAsaiO1lz2NbpE0swAxobG)    * https://medium.com/red-buffer/training-an-object-detection-model-in-a-few-minutes-using-detectron2-5bd0aa5550d4    * https://www.analyticsvidhya.com/blog/2021/08/your-guide-to-object-detection-with-detectron2-in-pytorch/
 * https://paperswithcode.com/method/mask-r-cnn
 * https://github.com/matterport/Mask_RCNN/releases
 * https://github.com/arnaudfluro/MaskRCNN
@@ -1665,7 +1583,7 @@
 * https://paperswithcode.com/methods/category/math-formula-detection-models
 * https://paperswithcode.com/methods/category/image-decomposition-models
 * https://paperswithcode.com/methods/category/object-detection-modules
-    A Review of Deep-Learning-Based Medical Image Segmentation Methods
+* A Review of Deep-Learning-Based Medical Image Segmentation Methods
 * [A review of semantic segmentation using deep neural networks](https://link.springer.com/content/pdf/10.1007/s13735-017-0141-z.pdf)
 * [Image Segmentation Using Deep Learning: A Survey](https://arxiv.org/pdf/2001.05566.pdf)
 * https://nanonets.com/blog/how-to-do-semantic-segmentation-using-deep-learning/
@@ -1784,7 +1702,7 @@
 * [Create COCO Annotations From Scratch — Immersive Limit](http://www.immersivelimit.com/tutorials/create-coco-annotations-from-scratch)
 * [dhSegment: A generic deep-learning approach for document segmentation](https://arxiv.org/pdf/1804.10371.pdf)
 * Books (and code resources accompanying books)
-    urgent reading: Deep Learning Architectures: A Mathematical Approach
+* urgent reading: Deep Learning Architectures: A Mathematical Approach
 * [An Introduction to Statistical Learning](https://www.statlearning.com/)
 * [Python and R for the Modern Data Scientist: The Best of Both Worlds](http://library.lol/main/0AB552942DD5F1A238B8625ACD9A13C2)
 * [Transformers for Machine Learning. A Deep Dive.pdf - Google Drive](https://drive.google.com/file/d/1W-6YCgzVfZdUbnfI327ecwH2Kgw_vrja/view)
@@ -1794,9 +1712,7 @@
 * [Natural Language Processing with Transformers.pdf - Google Drive](https://drive.google.com/file/d/1genVbDVYwn8H_X5UEqi7HFRuL3dJkEDl/view)
 * [Gian Marco Iodice - TinyML Cookbook](https://libgen.is/book/index.php?md5=C432B35A48C3963666222923D92B2BCA)
 * [TensorFlow 2 Reinforcement Learning Cookbook: Over 50 recipes to help you build, train, and deploy learning agents for real-world applications](https://libgen.is/book/index.php?md5=4CE3E597DB4E4E14C7F569E2841B8B3E)
-* [Jesús Martinez - TensorFlow 2.0 Computer Vision Cookbook: Implement machine learning solutions to overcome various computer vision challenges](https://libgen.is/book/index.php?md5=8317325222E8198B4DAAFD186DF2C7FA)
-    **[Learning how to Active Learn: A Deep Reinforcement Learning Approach](https://arxiv.org/abs/1708.02383v1)**
-    **[Human-in-the-Loop Machine Learning: Active learning and annotation for human-centered AI](http://library.lol/main/6919F1CAB7884184DCB68B488F4B4528)**
+* [Jesús Martinez - TensorFlow 2.0 Computer Vision Cookbook: Implement machine learning solutions to overcome various computer vision challenges](https://libgen.is/book/index.php?md5=8317325222E8198B4DAAFD186DF2C7FA)    * [Learning how to Active Learn: A Deep Reinforcement Learning Approach](https://arxiv.org/abs/1708.02383v1)    * [Human-in-the-Loop Machine Learning: Active learning and annotation for human-centered AI](http://library.lol/main/6919F1CAB7884184DCB68B488F4B4528)
 * https://github.com/rougier/scientific-visualization-book
 * [Semi-Supervised Learning](https://www.molgen.mpg.de/3659531/MITPress--SemiSupervised-Learning.pdf)
 * http://libgen.is/search.php?&req=nature-inspired&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
@@ -1811,44 +1727,25 @@
 * [Machine Learning: The sixth chakra of artificial intelligence](http://library.lol/main/8E72C22887F62E463FE4855EB2AC5998)
 * [The Art of Artificial Evolution: A Handbook on Evolutionary Art and Music](http://library.lol/main/2D733F8E844B22B29D9114BFC96CC7BE)
 * [Evolutionary Algorithms and Neural Networks. Theory and Applications](http://library.lol/main/36A3621FD91FD9201B6439392829FCDD)
-* [Murphy ProbML 2022](https://t.me/physics_lib/10413)
-    **[D3 for the Impatient: Interactive Graphics for Programmers and Scientists](http://library.lol/main/16DF7E0969B019194B65836F600258A9)**
+* [Murphy ProbML 2022](https://t.me/physics_lib/10413)    * [D3 for the Impatient: Interactive Graphics for Programmers and Scientists](http://library.lol/main/16DF7E0969B019194B65836F600258A9)
 * [Interpreting Machine Learning Models: Learn Model Interpretability and Explainability Methods » FoxGreat](https://foxgreat.com/interpreting-machine-learning-models-learn-model-interpretability-and-explainability-methods/)
 * [Agile Machine Learning with DataRobot: Automate each step of the machine learning life cycle, from understanding problems to delivering value » FoxGreat](https://foxgreat.com/agile-machine-learning-with-datarobot-automate-each-step-of-the-machine-learning-life-cycle-from-understanding-problems-to-delivering-value/)
 * [Optimization modelling: a practical approach | Ruhul Amin Sarker, Charles S. Newton | download](https://de1lib.org/book/445740/2b861c?dsource=recommend)
-* [Barber D., Cemgil A.T., Chiappa S. (eds.) - Bayesian Time Series Models](https://vk.com/doc126754362_621192972?hash=89712c4de050bb7653&dl=45d40d1d84beda02c9)
-    **[Library Genesis: Michael J. Kearns, Umesh Vazirani - An Introduction to Computational Learning Theory](http://libgen.rs/book/index.php?md5=51954F747A864DE39EA1F9431C171877)**
-    **[Library Genesis: David Paper - State-of-the-Art Deep Learning Models in TensorFlow: Modern Machine Learning in the Google Colab Ecosystem](http://libgen.rs/book/index.php?md5=E7D44EAFB285653E32F79384F21B5CE7)**
-    **[Library Genesis: Sofian Audry - Art in the Age of Machine Learning (Leonardo)](http://libgen.rs/book/index.php?md5=EE9CDF9D9CFC1606E6B2A950AAB87907)**
-    **[Library Genesis: Pablo Duboue - The Art of Feature Engineering: Essentials for Machine Learning](http://libgen.rs/book/index.php?md5=864C2FE792CF5651383A7B2729DAE527)**
-    **[Library Genesis: George F. Luger - Knowing our World: An Artificial Intelligence Perspective](http://libgen.rs/book/index.php?md5=DE833A30B2FBF1C0DA13CD28DCF57F42)**
+* [Barber D., Cemgil A.T., Chiappa S. (eds.) - Bayesian Time Series Models](https://vk.com/doc126754362_621192972?hash=89712c4de050bb7653&dl=45d40d1d84beda02c9)    * [Library Genesis: Michael J. Kearns, Umesh Vazirani - An Introduction to Computational Learning Theory](http://libgen.rs/book/index.php?md5=51954F747A864DE39EA1F9431C171877)    * [Library Genesis: David Paper - State-of-the-Art Deep Learning Models in TensorFlow: Modern Machine Learning in the Google Colab Ecosystem](http://libgen.rs/book/index.php?md5=E7D44EAFB285653E32F79384F21B5CE7)    * [Library Genesis: Sofian Audry - Art in the Age of Machine Learning (Leonardo)](http://libgen.rs/book/index.php?md5=EE9CDF9D9CFC1606E6B2A950AAB87907)    * [Library Genesis: Pablo Duboue - The Art of Feature Engineering: Essentials for Machine Learning](http://libgen.rs/book/index.php?md5=864C2FE792CF5651383A7B2729DAE527)    * [Library Genesis: George F. Luger - Knowing our World: An Artificial Intelligence Perspective](http://libgen.rs/book/index.php?md5=DE833A30B2FBF1C0DA13CD28DCF57F42)
 * [Machine learning for dummies](http://library.lol/main/A3008A14109C86163B80833F7E7FFC35) (IT)
-* [Graph Neural Networks: Foundations, Frontiers, and Applications](http://library.lol/main/3DC18B366A38112C4B18AA966BCA30F5)
-    **[Прикладное машинное обучение без учителя с использованием Python](http://library.lol/main/798394E15F69C480D665B78395865D19)**
-    **[Encyclopedia-of-Machine-Learning-Data-Mining-ART-Carpenter-Grossberg-2016.pdf](https://sites.bu.edu/steveg/files/2016/09/Encyclopedia-of-Machine-Learning-Data-Mining-ART-Carpenter-Grossberg-2016.pdf)**
-    **[Library Genesis: Claude Sammut (Editor), Geoffrey I. Webb (Editor) - Encyclopedia of Machine Learning and Data Mining](http://libgen.rs/book/index.php?md5=DDFAD27156CF94D1B5A22B8363E41D12)**
-    **[Library Genesis: John Wang - Encyclopedia of Data Warehousing and Mining](http://libgen.rs/book/index.php?md5=537DEC831329C102883380B544CC0036)**
-* [Data Science for Business: What You Need to Know About Data Mining and Data-Analytic Thinking](https://b-ok.org/book/2172577/a1cf90)
-    **https://deeplearningwithjulia.com/ ***********
+* [Graph Neural Networks: Foundations, Frontiers, and Applications](http://library.lol/main/3DC18B366A38112C4B18AA966BCA30F5)    * [Прикладное машинное обучение без учителя с использованием Python](http://library.lol/main/798394E15F69C480D665B78395865D19)    * [Encyclopedia-of-Machine-Learning-Data-Mining-ART-Carpenter-Grossberg-2016.pdf](https://sites.bu.edu/steveg/files/2016/09/Encyclopedia-of-Machine-Learning-Data-Mining-ART-Carpenter-Grossberg-2016.pdf)    * [Library Genesis: Claude Sammut (Editor), Geoffrey I. Webb (Editor) - Encyclopedia of Machine Learning and Data Mining](http://libgen.rs/book/index.php?md5=DDFAD27156CF94D1B5A22B8363E41D12)    * [Library Genesis: John Wang - Encyclopedia of Data Warehousing and Mining](http://libgen.rs/book/index.php?md5=537DEC831329C102883380B544CC0036)
+* [Data Science for Business: What You Need to Know About Data Mining and Data-Analytic Thinking](https://b-ok.org/book/2172577/a1cf90)    * https://deeplearningwithjulia.com/ *****
 * [Neural networks and learning machines](http://library.lol/main/B6553D4027E5F90BB03D7D724EE62384)
 * [Neural networks : a comprehensive foundation](http://library.lol/main/4F0A14A680F5B4845422E6C32D57BCDC)
-* [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://b-ok.org/book/2739588/d6a893)
-    **[Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures](http://libgen.rs/search.php?req=Claus+wilke&open=0&res=25&view=simple&phrase=1&column=author)**
-* [Unsupervised Learning in Space and Time: A Modern Approach for Computer Vision using Graph-based Techniques and Deep Neural Networks](http://library.lol/main/57F619A7E64FF0A0450EBF9901ADF8C1)
-    **[Encyclopedia-of-Machine-Learning-Data-Mining-ART-Carpenter-Grossberg-2016.pdf](https://sites.bu.edu/steveg/files/2016/09/Encyclopedia-of-Machine-Learning-Data-Mining-ART-Carpenter-Grossberg-2016.pdf)**
-    **http://libgen.is/search.php?&req=nature-inspired&phrase=1&view=simple&column=def&sort=year&sortmode=DESC**
-    **[Глубокое обучение без математики. Основы](https://de.de1lib.org/book/5495643/1d6840)**
-    **[Глубокое обучение без математики. Практика](https://de.de1lib.org/book/5495658/b0a4e4)**
-    **Uczenie maszynowe dla programistów**
+* [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://b-ok.org/book/2739588/d6a893)    * [Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures](http://libgen.rs/search.php?req=Claus+wilke&open=0&res=25&view=simple&phrase=1&column=author)
+* [Unsupervised Learning in Space and Time: A Modern Approach for Computer Vision using Graph-based Techniques and Deep Neural Networks](http://library.lol/main/57F619A7E64FF0A0450EBF9901ADF8C1)    * [Encyclopedia-of-Machine-Learning-Data-Mining-ART-Carpenter-Grossberg-2016.pdf](https://sites.bu.edu/steveg/files/2016/09/Encyclopedia-of-Machine-Learning-Data-Mining-ART-Carpenter-Grossberg-2016.pdf)    * http://libgen.is/search.php?&req=nature-inspired&phrase=1&view=simple&column=def&sort=year&sortmode=DESC    * [Глубокое обучение без математики. Основы](https://de.de1lib.org/book/5495643/1d6840)    * [Глубокое обучение без математики. Практика](https://de.de1lib.org/book/5495658/b0a4e4)
+    Uczenie maszynowe dla programistów
 * [Machine learning con Python: costruire algoritmi per generare conoscenza.pdf](https://en.de1lib.org/book/3502653/6c87ae)
 * [Deep Learning with fastai Cookbook: Leverage the easy-to-use fastai framework to unlock the power of deep learning](https://libgen.is/book/index.php?md5=885AFA40E6E33444CAD9D8A665F1B8B9)
 * [Zhenya Antić - Python Natural Language Processing Cookbook: Over 50 recipes to understand, analyze, and generate text for implementing language processing tasks](https://libgen.is/book/index.php?md5=0DDD3A49DD99EAFCB2B28C7FC02A051F)
-    Vinograd: Understanding of Natural Language
-    Transformers for Machine Learning; A Deep Dive - Transformers for Machine Learning. A Deep Dive.pdf
-* [A Brief Introduction to Neural Networks [D. Kriesel]](http://www.dkriesel.com/en/science/neural_networks)
-    **[Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow](http://library.lol/main/2F892911855845319936CCCDD95BAED1)**
-    **[Algorithms for Optimization](http://library.lol/main/1BE77112D9E4058CBDBEEDFC2C46FE27)**
-    **https://docs.google.com/document/u/0/d/10mk5Xeiv2SwO-ntFZ8S6w_gVTpyklQsRolnw6ZI9M3A/mobilebasic**
+* Vinograd: Understanding of Natural Language
+* Transformers for Machine Learning; A Deep Dive - Transformers for Machine Learning. A Deep Dive.pdf
+* [A Brief Introduction to Neural Networks [D. Kriesel]](http://www.dkriesel.com/en/science/neural_networks)    * [Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow](http://library.lol/main/2F892911855845319936CCCDD95BAED1)    * [Algorithms for Optimization](http://library.lol/main/1BE77112D9E4058CBDBEEDFC2C46FE27)    * https://docs.google.com/document/u/0/d/10mk5Xeiv2SwO-ntFZ8S6w_gVTpyklQsRolnw6ZI9M3A/mobilebasic
 * [CV with Julia: https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-Julia](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-Julia)
 * https://probml.github.io/pml-book/book2.html
 * [probml.ai](http://probml.ai/)
@@ -1879,9 +1776,9 @@
 * [Kubernetes for MLOps - Scaling Enterprise Machine Learning, Deep Learning, and AI](http://libgen.rs/book/index.php?md5=7AE4BD70C4B8A91A2F0A81163D918A5F)
 * [Practical MLOps](http://libgen.rs/book/index.php?md5=235BE9652C1DEDE421DBA02116ACD61E)
 * [Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps](http://libgen.rs/book/index.php?md5=C26F444336FE33AA6668BDEBB2AC2178)
-    Ein Algorithmus hat kein Taktgefühl
-    Grundfragen der MAschinenethik
-    Was sollen wir von KI halten?
+* Ein Algorithmus hat kein Taktgefühl
+* Grundfragen der MAschinenethik
+* Was sollen wir von KI halten?
 * [Кибернетика: «От человеческого мозга к мозгу искусственному». (La cybernetique: «Du cerveaux humain aux serveaux artificiels», 1957)](https://b-ok.cc/book/668974/235495)
 * [calum chace](https://libgen.is/search.php?req=calum+chace&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 * [Dzh_Brokman_Chto_my_dumaem_o_mashinakh_kotorye_dumayut(1).rtf](https://vk.com/doc30601958_458816863?hash=1fc09e4835c3629b05&dl=cd980eb5dd4b5b8e66)
@@ -1901,10 +1798,10 @@
 * [Index of /~matthewb/pages/notes/pdf](http://pages.cs.wisc.edu/~matthewb/pages/notes/pdf/)
 * [MML Companion Jupyter Notebooks](https://github.com/vbartle/MML-Companion)
 * https://en.wikipedia.org/wiki/Template:Machine_learning_bar
-    *******fastai/fastbook: Draft of the fastai book
+    ***fastai/fastbook: Draft of the fastai book
 * https://github.com/fastai/fastbook
-    Machine, Platform, Crowd
-    Digital Gold
+* Machine, Platform, Crowd
+* Digital Gold
 * [How We Cope with Digital Technology](http://library.lol/main/AD769B4F5AD1D632D0731EED231FF809)
 * [Machine learning. A Bayesian and optimization perspective](http://library.lol/main/9095F454947EBF00CD511A780808A962)
 * [Informatics and Machine Learning: From Martingales to Metaheuristics](http://library.lol/main/405F55F43DA6A92D952F89052FA0B088)
@@ -1912,9 +1809,9 @@
 * [Programming Machine Learning: From Coding to Deep Learning](http://library.lol/main/29E500F4BAC90392628FCDD713DD1A65)
 * [Academic Press Library in Signal Processing](http://libgen.rs/search.php?req=Academic+Press+Library+in+Signal+Processing&open=0&res=25&view=simple&phrase=1&column=def)
 * [Machine Learning Engineering with MLflow: Manage the end-to-end machine learning life cycle with MLflow](http://library.lol/main/E98213C48352EC428AFB655035096E6F)
-    Automated Machine Learning: Hyperparameter optimization, neural architecture search, and algorithm selection with cloud platforms
-    Beginning MLOps with MLFlow: Deploy Models in AWS SageMaker, Google Cloud, and Microsoft Azure
-    Engineering MLOps: Rapidly build, test, and manage production-ready machine learning life cycles at scale
+* Automated Machine Learning: Hyperparameter optimization, neural architecture search, and algorithm selection with cloud platforms
+* Beginning MLOps with MLFlow: Deploy Models in AWS SageMaker, Google Cloud, and Microsoft Azure
+* Engineering MLOps: Rapidly build, test, and manage production-ready machine learning life cycles at scale
 * hyperparameter Optimization in Machine Learning: Make Your Machine Learning and Deep Learning Models More Efficient
 * https://lelivros.love/book/baixar-livro-inteligencia-artificial-kai-fu-lee-em-pdf-epub-mobi-ou-ler-online/
 * [Machine Learning, revised and updated edition (The MIT Press Essential Knowledge series)](http://library.lol/main/0737AF6EBF99395959D35B8E244D6723)
@@ -1928,17 +1825,16 @@
 * [Data Mining and Knowledge Discovery Handbook](https://b-ok.cc/book/768806/32bc7c)
 * [Interpretable Machine Learning (libgen)](http://libgen.rs/book/index.php?md5=E6538E343270D85B7E176860A182C39F)
 * [You Look Like a Thing and I Love You; How Artificial Intelligence Works and Why It's Making the World a Weirder Place](http://libgen.rs/book/index.php?md5=ADEBF339D3F9E46BD6E21508C3E2C7FC)
-    Linear Algebra and Learning from Data (Strang)
-* [Advanced Machine Learning with Python](http://library.lol/main/C9CD4D7BAFD16ED295773A98FB88DF83)
-    **[Hardware Architectures for Deep Learning](http://library.lol/main/DCCFA65C2FF36A64A7CF869B1581C438)** 
+* Linear Algebra and Learning from Data (Strang)
+* [Advanced Machine Learning with Python](http://library.lol/main/C9CD4D7BAFD16ED295773A98FB88DF83)    * [Hardware Architectures for Deep Learning](http://library.lol/main/DCCFA65C2FF36A64A7CF869B1581C438) 
 * http://libgen.rs/search.php?req=academic+press+library+in+signal+processing&open=0&res=25&view=simple&phrase=1&column=def
 * http://libgen.rs/search.php?&req=crc+press+artificial+intelligence&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
-    Applied Machine Learning with Python (Andrea Giussani (2020)) | If you are looking for an engaging book, rich in learning features, which will guide you through the field of Machine Learning, this is it. This book is a modern, concise guide of the topic. It focuses on current ensemble and boosting methods, highlighting contemporray techniques such as XGBoost (2016), Shap (2017) and CatBoost (2018), which are considered novel and cutting edge models for dealing with supervised learning methods. The author goes beyond the simple bag-of-words schema in Natural Language Processing, and describes the modern embedding framework, starting from the Word2Vec, in details. Finally the volume is uniquely identified by the book-specific software egeaML, which is a good companion to implement the proposed Machine Learning methodologies in Python.
+* Applied Machine Learning with Python (Andrea Giussani (2020)) | If you are looking for an engaging book, rich in learning features, which will guide you through the field of Machine Learning, this is it. This book is a modern, concise guide of the topic. It focuses on current ensemble and boosting methods, highlighting contemporray techniques such as XGBoost (2016), Shap (2017) and CatBoost (2018), which are considered novel and cutting edge models for dealing with supervised learning methods. The author goes beyond the simple bag-of-words schema in Natural Language Processing, and describes the modern embedding framework, starting from the Word2Vec, in details. Finally the volume is uniquely identified by the book-specific software egeaML, which is a good companion to implement the proposed Machine Learning methodologies in Python.
     - [-> Mining Text Data | Charu C. Aggarwal, ChengXiang Zhai (auth.), Charu C. Aggarwal, ChengXiang Zhai (eds.) | download](https://b-ok.cc/book/1259450/e2f9c6)
     - [-> Data Mining: The Textbook | Charu C. Aggarwal (auth.) | download](https://b-ok.cc/book/2526932/94ef8c)
 * [Causal Inference Book | with R Code](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 * [Data science cookbook style code reference in Python for beginners](https://www.newsletter.datasciencecentral.com/click.html?x=a62e&lc=ukX&mc=j&s=jFaI&u=F&y=B&z=wTQ65Sk&)
-    Data Science Handbook (Drive)
+* Data Science Handbook (Drive)
 * [Data Science Java: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/Data%20Science%20Java)
 * [DE Cookbook](https://www.darwinpricing.com/training/Data_Engineering_Cookbook.pdf)
 * http://www.bitbybitbook.com/en/preface/
@@ -1959,7 +1855,7 @@
 * [Pro Deep Learning with TensorFlow.pdf](https://docs.google.com/spreadsheets/d/1gSsqK1nehLok7gW3XPDnb9jSwnxfu7x4ZYEW2d3VSxw/edit?usp=sharing)
 * [Deep Learning (Goodfellow et al.)](https://docs.google.com/spreadsheets/d/1O4ovs37xFvCNUiWcjDWFtYw6RGQU2Sh5HHeNf_Xa6iA/edit?usp=sharing)
 * [Deep Learning (Goodfellow et al.) Chapters 1-3](https://docs.google.com/document/d/18IfimGRoCO3wuFCYsoW8WzLvpb7xeEEgDDpHISV6CcE/edit?usp=sharing)
-    Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow
+* Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow
 * [Deep Learning avec Keras et TensorFlow: Mise en oeuvre et cas concrets](https://de1lib.org/book/11361751/2a5d1e)
 * [Глубокое обучение в картинках](https://vk.com/doc44301783_620734558?hash=d76ca9bae57795586f&dl=9d6cc117e9f9e9df5d)
 * [Грокаем глубокое обучение [2019] Эндрю Траск.pdf](https://vk.com/doc44301783_518781262?hash=1c7e46a8d54cf0b39f&dl=0b2a9741230e621bb9)
@@ -1997,7 +1893,7 @@
 * [Library Genesis: Eyal Wirsansky - Hands-On Genetic Algorithms with Python: Applying genetic algorithms to solve real-world deep learning and artificial intelligence problems](http://libgen.rs/book/index.php?md5=5842202F5E43B6CCF6F16D4D56516787)
 * [Library Genesis: Moubachir Madani Fadoul - Python Machine Learning: Machine Learning And Deep Learning From Scratch Illustrated With Python, Scikit-Learn, Keras, Theano And Tensorflow](http://libgen.rs/book/index.php?md5=0A890BB9860D8267BFE82D8ADEF12F37)
 * [probabilistic graphical models Library Genesis](http://libgen.rs/search.php?&req=probabilistic+graphical+models&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
-    Data Science from Scratch
+* Data Science from Scratch
     Цифровое золото
 * [Байесовский анализ на Python [2020] Освальдо Мартин.pdf](https://vk.com/doc44301783_596753756?hash=f86f6ae592ebed3c9d&dl=53d0090655edcd5d42)
 * [Вероятностное программирование на Python. Байесовский вывод и алгоритмы [2019] Кэмерон Дэвидсон-Пайлон.pdf](https://vk.com/doc44301783_596753762?hash=0afe6bd3f9fb7943fe&dl=20394553cbd7c9370f)
@@ -2006,24 +1902,23 @@
 * [Практический анализ временных рядов](https://vk.com/doc44301783_617086973?hash=149cf541403079aff2&dl=ffbeea18ff6341466b)
 * [Data Science для карьериста [2021] Нолис Жаклин, Робинсон Эмили.7z](https://vk.com/doc44301783_617319749?hash=7ec649e78424ef90f7&dl=51d7706db91cc1c7a1)
 * [Оптимизация запросов в PostgreSQL](https://vk.com/doc44301783_617085528?hash=3d52abd2e1bb9ba248&dl=057b5aa9cd44568772)
-    Storytelling with Data
-    Python Tricks. The Book
-    Flask Web Development
-    Python for DevOps: Learn Ruthlessly Effective Automation
-    Power Pivot and Power BI
-    M is for (DATA) Monkey
-    Excel Basics to Blackbelt
-    Practical Tableau: 100 Tips, Tutorials, and Strategies
-    Data Pipelines with Apache Airflow
-    Naked Statistics
-    Designing Data-Intensive Applications
-    **[Artificial Intelligence and Hardware Accelerators](http://library.lol/main/421732DAC69ED95F14ECD98A68D667EA)**
+* Storytelling with Data
+* Python Tricks. The Book
+* Flask Web Development
+* Python for DevOps: Learn Ruthlessly Effective Automation
+* Power Pivot and Power BI
+* M is for (DATA) Monkey
+* Excel Basics to Blackbelt
+* Practical Tableau: 100 Tips, Tutorials, and Strategies
+* Data Pipelines with Apache Airflow
+* Naked Statistics
+* Designing Data-Intensive Applications    * [Artificial Intelligence and Hardware Accelerators](http://library.lol/main/421732DAC69ED95F14ECD98A68D667EA)
 * [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/chap6.html)
 * [Mathematical Statistics with Applications in R](https://vk.com/doc44301783_619971052?hash=4fe2a1d83845e84604&dl=b02518eacc3d1aa3dd)
-    Data Pipelines Pocket Reference: Moving and Processing Data for Analytics
-    Data Science in Production: Building Scalable Model Pipelines with Python
+* Data Pipelines Pocket Reference: Moving and Processing Data for Analytics
+* Data Science in Production: Building Scalable Model Pipelines with Python
 * https://de1lib.org/s/bioinformatik
-* http://guidetodatamining.com/ *********
+* http://guidetodatamining.com/ *****
 * http://mmds.org/
 * http://theanalysisofdata.com/notes/
 * http://theanalysisofdata.com/ 
@@ -2039,8 +1934,7 @@
 * https://www.kdnuggets.com/2019/12/ultralearn-data-science-summary.html
 
 * Courses / Tutorials
-* https://sbme-tutorials.github.io/
-    **[Lecture: Self-Driving Cars (Winter 2021/22, Uni Bonn)](https://www.youtube.com/watch?v=EBFlmHqgezM&list=PLgnQpQtFTOGQo2Z_ogbonywTg8jxCI9pD)**
+* https://sbme-tutorials.github.io/    * [Lecture: Self-Driving Cars (Winter 2021/22, Uni Bonn)](https://www.youtube.com/watch?v=EBFlmHqgezM&list=PLgnQpQtFTOGQo2Z_ogbonywTg8jxCI9pD)
 * [NN Vids RU (10 min)](https://t.me/bfbook/2666?single) 
 * https://github.com/srush/Tensor-Puzzles
 * https://www.freecodecamp.org/news/harvard-cs50s-ai-python-course 
@@ -2048,41 +1942,21 @@
 * [Mathematics of Deep Learning Overview | AISC.. — Відео](https://vk.com/video-138477641_456242466)
 * [Learn [AI] Deep Learning from Scratch](https://www.youtube.com/watch?v=szqzG-jtiBk&list=PLiWcnsSmNaTfH3bYlTTKwR7LcHFWplKN5)
 * https://en.wikipedia.org/wiki/Template:Machine_learning
-* https://www.kaggle.com/learn
-    **[Machine Learning Algorithms For Beginners with Code Examples in Python | by Towards AI Team | Towards AI](https://pub.towardsai.net/machine-learning-algorithms-for-beginners-with-python-code-examples-ml-19c6afd60daa)**
-    **[Machine Learning 10-701/15-781 Spring 2011](http://www.cs.cmu.edu/%7Etom/10701_sp11/)**
+* https://www.kaggle.com/learn    * [Machine Learning Algorithms For Beginners with Code Examples in Python | by Towards AI Team | Towards AI](https://pub.towardsai.net/machine-learning-algorithms-for-beginners-with-python-code-examples-ml-19c6afd60daa)    * [Machine Learning 10-701/15-781 Spring 2011](http://www.cs.cmu.edu/%7Etom/10701_sp11/)
 * [Deep-Learning-Tensorflow](https://github.com/huseinzol05/Deep-Learning-Tensorflow)
 * [Neural Networks Questions and Answers](https://www.sanfoundry.com/1000-neural-networks-questions-answers/)
-* https://end-to-end-machine-learning.teachable.com/ ***
-    **https://www.cambridgespark.com/info/neural-networks-in-python**
-    **https://www.freecodecamp.org/news/tag/pytorch/**
+* https://end-to-end-machine-learning.teachable.com/ **
+* https://www.cambridgespark.com/info/neural-networks-in-python    * https://www.freecodecamp.org/news/tag/pytorch/
 * [130 ML Tricks And Resources Curated Carefully From 3 Years (Plus Free eBook) | by Bex T. | Aug, 2023 | Towards Data Science](https://towardsdatascience.com/130-ml-tricks-and-resources-curated-carefully-from-3-years-plus-free-ebook-7832ca4a37ef)
-* https://deeplearning.mit.edu/ 
-    **[crème de la crème of AI courses](https://github.com/SkalskiP/courses)**
+* https://deeplearning.mit.edu/     * [crème de la crème of AI courses](https://github.com/SkalskiP/courses)
 * [CS25 I Stanford Seminar - Transformers United 2023: Introduction to Transformers w/ Andrej Karpathy - YouTube](https://www.youtube.com/watch?v=XfpMkf4rD6E)
-* [Massachusetts Institute of Technology: Machine Learning with Python: from Linear Models to Deep Learning | edX](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to)
-    **[Machine Learning (Stanford University)](https://www.freecodecamp.org/news/best-machine-learning-courses/#1-machine-learning-stanford-university-)**
-    **[Machine Learning Foundations: A Case Study Approach (University of Washington)](https://www.freecodecamp.org/news/best-machine-learning-courses/#2-machine-learning-foundations-a-case-study-approach-university-of-washington-)**
-    **[Machine Learning for All (University of London)](https://www.freecodecamp.org/news/best-machine-learning-courses/#3-machine-learning-for-all-university-of-london-)**
-    **[Machine Learning with Python (IBM)](https://www.freecodecamp.org/news/best-machine-learning-courses/#4-machine-learning-with-python-ibm-)**
-    **[Machine Learning (Georgia Tech)](https://www.freecodecamp.org/news/best-machine-learning-courses/#5-machine-learning-georgia-tech-)**
-    **[Machine Learning Crash Course with TensorFlow APIs (Google)](https://www.freecodecamp.org/news/best-machine-learning-courses/#6-machine-learning-crash-course-with-tensorflow-apis-google-)**
-    **[Machine Learning A-Z: Hands-On Python & R In Data Science (Udemy)](https://www.freecodecamp.org/news/best-machine-learning-courses/#7-machine-learning-a-z-hands-on-python-r-in-data-science)**
-    **[Introduction to Machine Learning in Production (DeepLearning.AI)](https://www.freecodecamp.org/news/best-machine-learning-courses/#8-introduction-to-machine-learning-in-production-deeplearning-ai-)**
-    **[Python for Data Science and Machine Learning Bootcamp (Udemy)](https://www.freecodecamp.org/news/best-machine-learning-courses/#9-python-for-data-science-and-machine-learning-bootcamp)**
-    **[Machine Learning for Musicians and Artists (Goldsmith)](https://www.freecodecamp.org/news/best-machine-learning-courses/#10-machine-learning-for-musicians-and-artists-goldsmith-)**
-    **https://ipvs.informatik.uni-stuttgart.de/mlr/teaching/practical-course-robotics-ws2122/**
-    **https://ipvs.informatik.uni-stuttgart.de/mlr/teaching/mathematics-for-intelligent-systems/**
-    **https://ipvs.informatik.uni-stuttgart.de/mlr/teaching/maths/**
-    **http://cs229.stanford.edu/syllabus.html**
-    **https://ipvs.informatik.uni-stuttgart.de/mlr/basic-maths-reference/**
+* [Massachusetts Institute of Technology: Machine Learning with Python: from Linear Models to Deep Learning | edX](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to)    * [Machine Learning (Stanford University)](https://www.freecodecamp.org/news/best-machine-learning-courses/#1-machine-learning-stanford-university-)    * [Machine Learning Foundations: A Case Study Approach (University of Washington)](https://www.freecodecamp.org/news/best-machine-learning-courses/#2-machine-learning-foundations-a-case-study-approach-university-of-washington-)    * [Machine Learning for All (University of London)](https://www.freecodecamp.org/news/best-machine-learning-courses/#3-machine-learning-for-all-university-of-london-)    * [Machine Learning with Python (IBM)](https://www.freecodecamp.org/news/best-machine-learning-courses/#4-machine-learning-with-python-ibm-)    * [Machine Learning (Georgia Tech)](https://www.freecodecamp.org/news/best-machine-learning-courses/#5-machine-learning-georgia-tech-)    * [Machine Learning Crash Course with TensorFlow APIs (Google)](https://www.freecodecamp.org/news/best-machine-learning-courses/#6-machine-learning-crash-course-with-tensorflow-apis-google-)    * [Machine Learning A-Z: Hands-On Python & R In Data Science (Udemy)](https://www.freecodecamp.org/news/best-machine-learning-courses/#7-machine-learning-a-z-hands-on-python-r-in-data-science)    * [Introduction to Machine Learning in Production (DeepLearning.AI)](https://www.freecodecamp.org/news/best-machine-learning-courses/#8-introduction-to-machine-learning-in-production-deeplearning-ai-)    * [Python for Data Science and Machine Learning Bootcamp (Udemy)](https://www.freecodecamp.org/news/best-machine-learning-courses/#9-python-for-data-science-and-machine-learning-bootcamp)    * [Machine Learning for Musicians and Artists (Goldsmith)](https://www.freecodecamp.org/news/best-machine-learning-courses/#10-machine-learning-for-musicians-and-artists-goldsmith-)    * https://ipvs.informatik.uni-stuttgart.de/mlr/teaching/practical-course-robotics-ws2122/    * https://ipvs.informatik.uni-stuttgart.de/mlr/teaching/mathematics-for-intelligent-systems/    * https://ipvs.informatik.uni-stuttgart.de/mlr/teaching/maths/    * http://cs229.stanford.edu/syllabus.html    * https://ipvs.informatik.uni-stuttgart.de/mlr/basic-maths-reference/
 * [1000 Hadoop Questions](https://www.sanfoundry.com/1000-hadoop-questions-answers/)
 * [Data Science Questions and Answers](https://www.sanfoundry.com/1000-data-science-questions-answers/)
 * [Oracle Database Questions and Answers](https://www.sanfoundry.com/1000-oracle-database-questions-answers/)
 * [Hadoop Questions and Answers](https://www.sanfoundry.com/1000-hadoop-questions-answers/)
 * [https://www.postgresqltutorial.com](https://www.postgresqltutorial.com/)
-* [https://neptune.ai/blog/how-to-learn-machine-learning](https://neptune.ai/blog/how-to-learn-machine-learning?utm_source=deepai&utm_medium=post&utm_campaign=blog-how-to-learn-machine-learning)
-    **https://homepages.inf.ed.ac.uk/rbf/CVonline/**
+* [https://neptune.ai/blog/how-to-learn-machine-learning](https://neptune.ai/blog/how-to-learn-machine-learning?utm_source=deepai&utm_medium=post&utm_campaign=blog-how-to-learn-machine-learning)    * https://homepages.inf.ed.ac.uk/rbf/CVonline/
 * [IR Course Page - materials](http://csci572.com/2020Spring/texts.html)
 * [DEEP LEARNING НА ПАЛЬЦАХ](https://dlcourse.ai/)
 * [Apprentissage automatique - Université de Sherbrooke](https://www.youtube.com/watch?v=GROvIr2GGcc&list=PL6Xpj9I5qXYFD_rc1tttugXLfE2TcKyiO)
@@ -2098,7 +1972,7 @@
 * [CS294-158-SP20 Deep Unsupervised Learning Spring 2020](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
 * [Multilinear Systems and Invariant Theory](https://www.cs.huji.ac.il/w~shashua/cs329.html)
 * [Tensor Methods](https://www.cs.huji.ac.il/w~shashua/papers/ICML07-Tutorial.pdf)
-    ********[Course Progression - Deep Learning Wizard](https://www.deeplearningwizard.com/deep_learning/course_progression/)
+    ****[Course Progression - Deep Learning Wizard](https://www.deeplearningwizard.com/deep_learning/course_progression/)
 * [The mostly complete chart of Neural Networks, explained](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
 * [18. CS224N Natural Language Processing with Deep Learning — Stanford](http://web.stanford.edu/class/cs224n/)
 * [19. CS231n: Convolutional Neural Networks for Visual Recognition — Stanford](http://cs231n.stanford.edu/2017/)
@@ -2207,7 +2081,8 @@
 * [Srihari ML Course](https://cedar.buffalo.edu/~srihari/CSE574/)
 * [Srihari Neuro-Symbolic AI](https://cedar.buffalo.edu/~srihari/CSE701/index.html)
 * [Srihari Pattern Recognition](https://cedar.buffalo.edu/~srihari/CSE555/index.html)
-* [Human Computer Interaction (HCI) [FULL COURSE] | Stanford University](https://www.youtube.com/playlist?list=PLLssT5z_DsK_nusHL_Mjt87THSTlgrsyJ)
+* [Human Computer Interaction (HCI)
+            * [FULL COURSE] | Stanford University](https://www.youtube.com/playlist?list=PLLssT5z_DsK_nusHL_Mjt87THSTlgrsyJ)
 * [Mining Massive Datasets - Stanford University [FULL COURSE]](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)
 * [Index of /~martinez/classes/478](http://axon.cs.byu.edu/~martinez/classes/478/)
 * [Intro to Machine Learning and Artificial Intelligence – Build Smart. Build Secure. IBM Developer](https://developer.ibm.com/series/intro-to-machine-learning-and-artificial-intelligence/)
@@ -2237,18 +2112,14 @@
 * https://stanford.edu/~shervine/teaching/cs-230/
 * https://www.cs.upc.edu/~mmartin/DM.htm
 * https://www.coursera.org/deeplearning-ai
-* [MIT DL 2023](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
-    **[Neural Networks from Scratch in Python](https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)**
-    **[Machine Learning with Python](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)**
-    **[Deep Learning basics with Python, TensorFlow and Keras](https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)**
-    **[Data Analysis w/ Python 3 and Pandas](https://www.youtube.com/watch?v=nLw1RNvfElg&list=PLQVvvaa0QuDfSfqQuee6K8opKtZsh7sA9)**
+* [MIT DL 2023](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)    * [Neural Networks from Scratch in Python](https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)    * [Machine Learning with Python](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)    * [Deep Learning basics with Python, TensorFlow and Keras](https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)    * [Data Analysis w/ Python 3 and Pandas](https://www.youtube.com/watch?v=nLw1RNvfElg&list=PLQVvvaa0QuDfSfqQuee6K8opKtZsh7sA9)
 * [Natural Language Processing (NPL) | Coursera](https://www.coursera.org/learn/language-processing?action=enroll)
 * [https://www.edx.org/course/algorithmic-design-techniques-uc-san-diegox-algs200x](https://www.edx.org/course/algorithmic-design-techniques-uc-san-diegox-algs200x?utm_source=sailthru&utm_medium=email&utm_campaign=newsletter_themed_IOTAlgorithms_20180119&utm_content=Final&utm_term=Computer%20Science%20and%20Data%20Science%20Interest)
 * [https://www.edx.org/course/data-structures-uc-san-diegox-algs201x](https://www.edx.org/course/data-structures-uc-san-diegox-algs201x?utm_source=sailthru&utm_medium=email&utm_campaign=newsletter_themed_IOTAlgorithms_20180119&utm_content=Final&utm_term=Computer%20Science%20and%20Data%20Science%20Interest)
 * [Yet another Deep Learning course](https://www.youtube.com/playlist?list=PLut9dwe1z0dDOlSikFHe-HH4O3uxETj4m)
 * [Big Data – Introducción al uso práctico de datos masivos | Coursera](https://www.coursera.org/specializations/big-data-introduccion)
 * https://www.freecodecamp.org/news/watch-a-cornell-university-database-course-for-free/
-    Data Science Full Course for Beginner | Data Science Tutorial
+* Data Science Full Course for Beginner | Data Science Tutorial
 * [Datenverarbeitung | Coursera](https://www.coursera.org/specializations/jhu-data-science)
 * [Find the best online Data Science courses and Tutorials - Hackr.io](https://hackr.io/data-science)
 * [Big Data: capstone project | Coursera](https://www.coursera.org/learn/big-data-proyecto)
@@ -2260,7 +2131,7 @@
 * [Deep Learning Course (IMS 2019-2020) - Hojas de cálculo de Google](https://docs.google.com/spreadsheets/d/1LaJCfNJEwWAFgokWLaMLYduR3K-9MhwDwn-n-PI-q8o/edit#gid=982348393)
 * [Neural Networks and Deep Learning (Course 1](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
 * [Deep Learning and Artificial Intelligence Courses - Lazy Programmer](https://lazyprogrammer.me/)
-    deep learning course syllabus 2019
+* deep learning course syllabus 2019
 * [Free MIT Courses and book on Calculus: The Key to Understanding Deep Learning](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/)
 * https://www.college-de-france.fr/site/yann-lecun/course-2016-02-26-11h00.htm
 * [Complete Deep Learning Course](https://www.youtube.com/playlist?list=PL5Ca9mzvf1FgzNA7rmBHMbofaF65xtBJ_)
@@ -2285,7 +2156,7 @@
 * https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_shares%3Ba1Vq7AYlTOmwFz%2FVvzR2wA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base_recent_activity_details_shares-object
 * [courses/deeplearning1/nbs at master · fastai/courses · GitHub](https://github.com/fastai/courses/tree/master/deeplearning1/nbs)
 * https://github.com/fastai/courses/tree/master/deeplearning1/nbs
-    - ******** Courses Toronto
+    - **** Courses Toronto
 * https://www.cs.cornell.edu/courses/cs4780/2018fa/
 * https://www.coursera.org/learn/machine-learning
 * [Google Cloud Platform Big Data and Machine Learning Fundamentals auf Deutsch | Coursera](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-de)
@@ -2294,7 +2165,7 @@
 * https://developers.google.com/machine-learning/crash-course/
 * https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about
 * https://dlcourse.ims.uni-stuttgart.de/
-    - ********Course Progression - Deep Learning Wizard
+    - ****Course Progression - Deep Learning Wizard
 * https://ocw.mit.edu/courses/economics/14-15j-networks-fall-2009/lecture-notes/
 * [enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning: Advanced Deep Learning and Reinforcement Learning course taught at UCL in partnership with Deepmind](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning)
 * https://www.coursera.org/learn/machine-learning/home/welcome
@@ -2373,8 +2244,7 @@
 * [Alien Technology: Catching Up on LLMs, Prompting, ChatGPT Plugins & Embeddings – Be on the Right Side of Change](https://blog.finxter.com/alien-technology-catching-up-on-llms-prompting-chatgpt-plugins-embeddings-code-interpreter/?tl_inbound=1&tl_target_all=1&tl_form_type=1&tl_period_type=3)
 * [Phind: AI Programming Assistant](https://www.phind.com/tutorial)
 * [Phind: AI Programming Assistant](https://www.phind.com/)
-* https://blog.briankitano.com/llama-from-scratch
-    **["Catching up on the weird world of LLMs" - Simon Willison (North Bay Python 2023)](https://www.youtube.com/watch?v=h8Jth_ijZyY)**
+* https://blog.briankitano.com/llama-from-scratch    * ["Catching up on the weird world of LLMs" - Simon Willison (North Bay Python 2023)](https://www.youtube.com/watch?v=h8Jth_ijZyY)
 * https://blog.finxter.com/ten-sustainable-career-paths-in-the-post-ai-economy/ 
 * https://eugeneyan.com/writing/llm-patterns/ 
 * https://blog.finxter.com/ways-to-get-started-with-llama2/ 
@@ -2382,21 +2252,17 @@
 * https://venturebeat.com/ai/facebook-parent-meta-unveils-llama-2-open-source-ai-model-for-commercial-use/ 
 * https://blog.finxter.com/creating-a-simple-diet-bot-in-your-terminal-with-openais-api/ 
 * https://github.com/MeetKai/functionary
-* https://t3n.de/news/github-copilot-coding-ki-entwickler-tools-1568973/ 
-    **[Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)**
+* https://t3n.de/news/github-copilot-coding-ki-entwickler-tools-1568973/     * [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)
 * https://github.com/normal-computing/outlines 
-* https://matt-rickard.com/my-everyday-llm-uses 
-    **[Measuring Faithfulness in Chain-of-Thought Reasoning](https://arxiv.org/abs/2307.13702?utm_source=substack&utm_medium=email)**
+* https://matt-rickard.com/my-everyday-llm-uses     * [Measuring Faithfulness in Chain-of-Thought Reasoning](https://arxiv.org/abs/2307.13702?utm_source=substack&utm_medium=email)
 * https://realpython.com/practical-prompt-engineering/ 
 * https://blog.briankitano.com/llama-from-scratch/ 
-    find best AI code tool (Copilot, Codex, ChatGPT4)
-    **[LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)**
+* find best AI code tool (Copilot, Codex, ChatGPT4)    * [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
 * https://finbarr.ca/how-is-llama-cpp-possible 
-    NanoGPT
+* NanoGPT
 * https://www.engadget.com/openai-is-using-gpt-4-to-build-an-ai-powered-content-moderation-system-184933519.html 
 * [Language Models For Software Developers in 17 Minutes](https://www.youtube.com/watch?v=tL1zltXuHO8)
-* https://ai.meta.com/llama/ 
-    **[Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)**
+* https://ai.meta.com/llama/     * [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 * https://www.theverge.com/2023/7/20/23801520/chatgpt-openai-custom-instructions-chatbot
 * https://www.zdnet.com/article/gpt-3-5-vs-gpt-4-is-chatgpt-plus-worth-its-subscription-fee/ 
 * https://github.blog/2023-07-17-prompt-engineering-guide-generative-ai-llms/ 
@@ -2421,8 +2287,7 @@
 * https://www.devgpt.com/pricing 
 * https://blog.finxter.com/prompt-engineering-with-llama-2-full-course/ 
 * https://blog.finxter.com/11-profitable-ways-to-make-money-as-a-prompt-engineer-2023/ 
-* https://www.heise.de/hintergrund/Anzeichen-von-Bewusstsein-bei-ChatGPT-und-Co-9295425.html 
-    **[5 Mind blowing AI tools every researcher should know about *but doesn't*](https://www.youtube.com/watch?v=g5ZOZ7kqteo)**
+* https://www.heise.de/hintergrund/Anzeichen-von-Bewusstsein-bei-ChatGPT-und-Co-9295425.html     * [5 Mind blowing AI tools every researcher should know about *but doesn't*](https://www.youtube.com/watch?v=g5ZOZ7kqteo)
 
 ## Top Sites and Resources
 * https://applyingml.com/
@@ -2430,11 +2295,11 @@
 * [The Neural Network Zoo - The Asimov Institute](http://www.asimovinstitute.org/neural-network-zoo/)
 * [WildML Deep Learning Glossary](http://www.wildml.com/deep-learning-glossary/)
 * [Deep Learning for Beginners](https://randomekek.github.io/deep/deeplearning.html) ***
-* https://www.math.univ-toulouse.fr/~besse/Wikistat/ *********
-    3Blue1Brown Essence of Linear Algebra & Calculus & Neural Networks
+* https://www.math.univ-toulouse.fr/~besse/Wikistat/ *****
+* 3Blue1Brown Essence of Linear Algebra & Calculus & Neural Networks
 
 ## MLOps etc
-* https://github.com/The-AI-Summer/Deep-Learning-In-Production *********
+* https://github.com/The-AI-Summer/Deep-Learning-In-Production *****
 * https://thedataexchange.media/mlops-anti-patterns/
 
 ## Miscellaneous Topics
@@ -2450,8 +2315,7 @@
 * [Data Clustering: Integrating Different Distance Measures with Modified k-Means Algorithm | SpringerLink](https://link.springer.com/chapter/10.1007/978-81-322-0491-6_63)
 * [Effect of Different Distance Measures on the Performance of K-Means Algorithm: An Experimental Study in Matlab](https://arxiv.org/pdf/1405.7471.pdf)
 * [Understanding Density-based Clustering](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=697237d462&e=b34ab4e857)
-* [14 Great Articles and Tutorials on Clustering](http://datascience.getresponse360.com/click.html?x=a62e&lc=uAz&mc=j&s=jFaI&u=F&y=I&z=wwhTlBU&)
-        - [**Data Clustering: Theory, Algorithms, and Applications](https://b-ok.cc/book/716744/c8c51f)
+* [14 Great Articles and Tutorials on Clustering](http://datascience.getresponse360.com/click.html?x=a62e&lc=uAz&mc=j&s=jFaI&u=F&y=I&z=wwhTlBU&)        - [**Data Clustering: Theory, Algorithms, and Applications](https://b-ok.cc/book/716744/c8c51f)
 * https://joernhees.de/blog/2015/08/26/scipy-hierarchical-clustering-and-dendrogram-tutorial/
 * [hierarchical clustering - Поиск в Google](https://www.google.com/search?q=hierarchical+clustering&rlz=1C5CHFA_enUS800US800&oq=hierarchical+clustering&aqs=chrome..69i57j0l7.3970j0j7&sourceid=chrome&ie=UTF-8)
 * [Clustering](http://www.ise.bgu.ac.il/faculty/liorr/hbchap15.pdf)
@@ -2502,15 +2366,14 @@
 * https://towardsdatascience.com/production-ml-getting-started-with-mlops-4856c38b3eab
 * [Building a Machine Learning Pipeline with Kubeflow | Full Walk-through](https://www.youtube.com/watch?v=6wWdNg0GMV4)
     - Fairness
-* [Injecting fairness into machine-learning models](https://youtu.be/r8CHsm46jEk)
-        **https://edgeryders.eu/t/ai-inequalities-and-justice-an-overview-of-all-documented-discussions-before-during-and-after-the-workshop/12014**
+* [Injecting fairness into machine-learning models](https://youtu.be/r8CHsm46jEk)        * https://edgeryders.eu/t/ai-inequalities-and-justice-an-overview-of-all-documented-discussions-before-during-and-after-the-workshop/12014
     - GNN
 * [Everything is Connected: Graph Neural Networks](https://arxiv.org/pdf/2301.08210.pdf)
 * https://graph-neural-networks.github.io/index.html
 * https://towardsdatascience.com/graph-neural-networks-through-the-lens-of-differential-geometry-and-algebraic-topology-3a7c3c22d5f
     - Interpretable
 * [Interpretable Machine Learning](https://queue.acm.org/detail.cfm?id=3511299)
-        **[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)**
+        * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
     
     * GANs, Generative AI
         GANs in Action
@@ -2627,8 +2490,7 @@
 * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 * [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473)
 * [Jointly Learning to Align and Translate with Transformer Models](https://www.aclweb.org/anthology/D19-1453.pdf)
-* [Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
-        **http://lena-voita.github.io/nlp_course/seq2seq_and_attention.html**
+* [Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)        * http://lena-voita.github.io/nlp_course/seq2seq_and_attention.html
 * https://github.com/biyoml/Pytorch-End-to-End-ASR-on-TIMIT/blob/master/inference.py
 * [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/abs/1703.01619)
 * https://paperswithcode.com/paper/listen-attend-and-spell
@@ -2674,8 +2536,7 @@
 * https://cgi.csc.liv.ac.uk/~hang/ppt/BERT%20and%20Transformer.pdf
 * [Attention is all you need; Attentional Neural Network Models | Łukasz Kaiser | Masterclass](https://www.youtube.com/watch?v=rBCqOTEfxvg)
 * [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 8 – Translation, Seq2Seq, Attention](https://www.youtube.com/watch?v=XXtpJxZBa2c)
-* [Attention Mechanism](https://blog.floydhub.com/attention-mechanism/)
-        - [** ATTENTION-BASED RECURRENT NEURAL NETWORK MODELS FOR JOINT INTENT DETECTION AND SLOT FILLING | Request PDF](https://www.researchgate.net/publication/307889537_Attention-Based_Recurrent_Neural_Network_Models_for_Joint_Intent_Detection_and_Slot_Filling)
+* [Attention Mechanism](https://blog.floydhub.com/attention-mechanism/)        - [** ATTENTION-BASED RECURRENT NEURAL NETWORK MODELS FOR JOINT INTENT DETECTION AND SLOT FILLING | Request PDF](https://www.researchgate.net/publication/307889537_Attention-Based_Recurrent_Neural_Network_Models_for_Joint_Intent_Detection_and_Slot_Filling)
 * [emedvedev/attention-ocr: A Tensorflow model for text recognition (CNN + seq2seq with visual attention) available as a Python package and compatible with Google Cloud ML Engine.](https://github.com/emedvedev/attention-ocr)
 * [Kilcher Transformer videos](https://www.youtube.com/results?search_query=yanic+kilcher+transformer)
 * [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 14 – Transformers and Self-Attention - YouTube](https://www.youtube.com/watch?v=5vcj8kSwBCY)
@@ -2686,8 +2547,7 @@
 * [Pytorch Transformers from Scratch (Attention is all you need)](https://youtu.be/U0s0f995w14)
 * [The Implementation of Transformer Based on Pytorch](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
 * [The Implementation of Transformer-TTS Based on Pytorch](https://github.com/xcmyz/Transformer-TTS)
-* [Long Range Arena: A Benchmark for Efficient Transformers](https://arxiv.org/abs/2011.04006)
-        - [*What is a Transformer? - Inside Machine learning - Medium](https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04)
+* [Long Range Arena: A Benchmark for Efficient Transformers](https://arxiv.org/abs/2011.04006)        - [*What is a Transformer? - Inside Machine learning - Medium](https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04)
 * [CS480/680 Lecture 19: Attention and Transformer Networks](https://www.youtube.com/watch?v=OyFJWRnt_AY)
 * [Transformer](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)?wprov=sfti1)
 * [Rasa Algorithm Whiteboard - Transformers & Attention 1: Self Attention - YouTube](https://www.youtube.com/watch?v=yGTUuEx3GkA)
@@ -2713,7 +2573,7 @@
 * [Attention mechanisms and deep learning for machine vision: A survey of the state of the art](https://arxiv.org/abs/2106.07550)
 * [Attention, please! A survey of Neural Attention Models in Deep Learning](https://arxiv.org/abs/2103.16775)
 * [https://en.wikipedia.org/wiki/Attention_(machine_learning)](https://en.wikipedia.org/wiki/Attention_(machine_learning))
-        **[Lecture 10: Neural Machine Translation and Models with Attention](https://www.youtube.com/watch?v=IxQtK2SjWWM)**
+        * [Lecture 10: Neural Machine Translation and Models with Attention](https://www.youtube.com/watch?v=IxQtK2SjWWM)
 * [NLP From Scratch: Translation with a Sequence to Sequence Network and Attention — PyTorch Tutorials 1.8.1+cu102 documentation](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
 * https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html
 * https://blog.paperspace.com/coordinate-attention/
@@ -2760,9 +2620,7 @@
 * https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%BE%D0%B3%D0%BE_%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B8
 * https://github.com/iamtrask/Grokking-Deep-Learning/blob/master/Chapter6%20-%20Intro%20to%20Backpropagation%20-%20Building%20Your%20First%20DEEP%20Neural%20Network.ipynb
 * [Single-Layer Neural Networks and Gradient Descent](https://sebastianraschka.com/Articles/2015_singlelayer_neurons.html)
-* [Gradient descent vs. neuroevolution - Towards Data Science](https://towardsdatascience.com/gradient-descent-vs-neuroevolution-f907dace010f)
-        - [> stat479-deep-learning-ss19/L05_gradient-descent_slides.pdf at master · rasbt/stat479-deep-learning-ss19](https://github.com/rasbt/stat479-deep-learning-ss19/blob/master/L05_grad-descent/L05_gradient-descent_slides.pdf)
-        - [> stat479-deep-learning-ss19/L04_linalg-dl_slides.pdf at master · rasbt/stat479-deep-learning-ss19](https://github.com/rasbt/stat479-deep-learning-ss19/blob/master/L04_linalg-dl/L04_linalg-dl_slides.pdf)
+* [Gradient descent vs. neuroevolution - Towards Data Science](https://towardsdatascience.com/gradient-descent-vs-neuroevolution-f907dace010f)        - [> stat479-deep-learning-ss19/L05_gradient-descent_slides.pdf at master · rasbt/stat479-deep-learning-ss19](https://github.com/rasbt/stat479-deep-learning-ss19/blob/master/L05_grad-descent/L05_gradient-descent_slides.pdf)        - [> stat479-deep-learning-ss19/L04_linalg-dl_slides.pdf at master · rasbt/stat479-deep-learning-ss19](https://github.com/rasbt/stat479-deep-learning-ss19/blob/master/L04_linalg-dl/L04_linalg-dl_slides.pdf)
 * [3.1 Backpropagation in Neural Networks](https://www.youtube.com/watch?v=7nG6Xx88Hzo&t=74s)
 * [Recurrent Neural Networks Tutorial, Part 3 – Backpropagation Through Time and Vanishing Gradients – WildML](http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/)
 * [Backpropagation explained | Part 2 - The mathematical notation](https://youtu.be/2mSysRx-1c0)
@@ -2894,7 +2752,7 @@
 * http://www.cs.toronto.edu/~hinton/absps/tsne.pdf
 * [La réduction de la dimensionalité (ACP et SVD)](https://youtu.be/Z2kqh--pItQ)
 * [tsne.pdf](http://www.cs.toronto.edu/~hinton/absps/tsne.pdf)
-        **[Factor Analysis using Scikit Learn and Pandas in Python - Tutorial 18 Jupyter Notebook](https://www.youtube.com/watch?v=9PL_NOJWKZs)**
+        * [Factor Analysis using Scikit Learn and Pandas in Python - Tutorial 18 Jupyter Notebook](https://www.youtube.com/watch?v=9PL_NOJWKZs)
 * https://www.kaggle.com/arthurtok/interactive-intro-to-dimensionality-reduction
 * [PCA Tutorial](https://www.machinelearningplus.com/machine-learning/principal-components-analysis-pca-better-explained/)
 * [$$$ PCA.pdf](http://axon.cs.byu.edu/~martinez/classes/478/readings/PCA.pdf)
@@ -2923,7 +2781,7 @@
 * [New Books and Resources About K-Nearest Neighbors Algorithms](https://www.newsletter.datasciencecentral.com/click.html?x=a62e&lc=upN&mc=j&s=jFaI&u=F&y=0&z=wNhCd05&)
 * [Beginner's Guide to K-Nearest Neighbors in R: from Zero to Hero](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=a8280e8f57&e=b34ab4e857)
     - Other
-* [******** Deep Learning for Audio and Music (Chapter)](https://perso.telecom-paristech.fr/grichard/Enseignements/MVA/DeepLearningAudioMusic.pdf)
+* [**** Deep Learning for Audio and Music (Chapter)](https://perso.telecom-paristech.fr/grichard/Enseignements/MVA/DeepLearningAudioMusic.pdf)
 * [Logical Neural Networks](https://arxiv.org/abs/2006.13155)
 * http://torch.ch/blog/2016/02/04/resnets.html 
         GAN for face style shifting (like Animé), using GAN loss + some distance measure between generated and generated and original, or HFRL with ranking? → learn conditional GAN 
@@ -2982,12 +2840,12 @@
 * [Bagging](https://www.youtube.com/watch?v=2Mg8QD0F1dQ)
 * [Boosting](https://www.youtube.com/watch?v=GM3CDQfQ4sw)
     - TDA
-        **[A User's Guide to Topological Data Analysis](https://files.eric.ed.gov/fulltext/EJ1149275.pdf)**
-        **[An Introduction to Topological Data Analysis: Fundamental ...](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8511823/)**
-        **[Topological Data Analysis | Peter Bubenik](https://people.clas.ufl.edu/peterbubenik/intro-to-tda/)**
-        **[Topological data analysis - Wikipedia](https://en.wikipedia.org/wiki/Topological_data_analysis)**
-        **[Topological Data Analysis - Department of Mathematics](https://www.math.uri.edu/~thoma/comp_top__2018/Wasserman_2016_TopologicalDataAnalysis.pdf)**
-        **[An Introduction to Topological Data Analysis](https://yao-lab.github.io/2020.csic5011/slides/Lecture09_TDA.pdf)**
+        * [A User's Guide to Topological Data Analysis](https://files.eric.ed.gov/fulltext/EJ1149275.pdf)
+        * [An Introduction to Topological Data Analysis: Fundamental ...](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8511823/)
+        * [Topological Data Analysis | Peter Bubenik](https://people.clas.ufl.edu/peterbubenik/intro-to-tda/)
+        * [Topological data analysis - Wikipedia](https://en.wikipedia.org/wiki/Topological_data_analysis)
+        * [Topological Data Analysis - Department of Mathematics](https://www.math.uri.edu/~thoma/comp_top__2018/Wasserman_2016_TopologicalDataAnalysis.pdf)
+        * [An Introduction to Topological Data Analysis](https://yao-lab.github.io/2020.csic5011/slides/Lecture09_TDA.pdf)
 * [TDA Aricle ***](https://drive.google.com/file/d/10DldaLmjcYhnS6UdWKyLFPWRkK_XCaZr/view?usp=sharing)
 * [Applied Algebraic Topology Network](https://www.youtube.com/channel/UCYOcatH32zeOTnqjag0fNkw?)
     
@@ -3021,15 +2879,14 @@
 * https://azure.microsoft.com/en-us/free/
 * https://vagon.io/pricing
 * https://www.floydhub.com/
-    Google Cloud
-    AWS
+* Google Cloud
+* AWS
 * https://docs.floydhub.com/
 * [Alternative Cloud Hosted Data Science Environments](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=d47ef79649&e=b34ab4e857)
 
 ## Hierarchical
 * [Data Analysis Using Regression and Multilevel/Hierarchical Models](https://de1lib.org/book/731115/8705fd)
 
----
 * https://www.dataquest.io/blog/web-scraping-tutorial-python/
 * [Teach Yourself Electricity and Electronics](https://de1lib.org/book/438227/d48582)
 * http://rll.byu.edu/students.html
@@ -3093,7 +2950,7 @@ Amazon Sagemaker, with free tutorials you are ready to go to build a solution ba
 * http://datascience.byu.edu/notes.html
 * https://anaconda.org/isaacriley/dashboard
 * [Big Data und Musik | Michael Ahlers, Lorenz Grünewald-Schukalla, Martin Lücke, Matthias Rauch | download](https://b-ok.cc/book/3663038/918a5f)
-6. Simulación de Monte Carlo
+* Simulación de Monte Carlo
 * [Agile data science: building data analytics applications with Hadoop | Russell Jurney | download](https://b-ok.cc/book/2210479/eb85db)
 * [Algorithmic Design and Techniques | edX](https://www.edx.org/course/algorithmic-design-techniques-uc-san-diegox-algs200x?utm_source=sailthru&utm_medium=email&utm_campaign=newsletter_themed_IOTAlgorithms_20180119&utm_content=Final&utm_term=Computer%20Science%20and%20Data%20Science%20Interest)
 * [Geographical Maps with Data](https://www.kdnuggets.com/2020/01/open-data-germany-maps-viz.html)
@@ -3239,12 +3096,12 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [An Online Algorithm for Hierarchical Phoneme Classification](https://u.cs.biu.ac.il/~jkeshet/papers/DekelKeSi04a.pdf)
 * hierarchical classification of phonemes
 * [HDLTex: Hierarchical Deep Learning for Text Classification](http://arxiv-export-lb.library.cornell.edu/pdf/1709.08267)
-    A survey of hierarchical classification across different application domains (Drive)
+* A survey of hierarchical classification across different application domains (Drive)
 * [Hierarchical Softmax Explained | Papers With Code](https://paperswithcode.com/method/hierarchical-softmax)
 * [GitHub - cedias/Hierarchical-Sentiment: Hierarchical Models for Sentiment Analysis in Pytorch](https://github.com/cedias/Hierarchical-Sentiment)
 * [Hierarchical Softmax Explained | Papers With Code](https://paperswithcode.com/method/hierarchical-softmax)
-    implement hierarchical classifier in pytorch
-    multiple softmax on subsets of output vector
+* implement hierarchical classifier in pytorch
+* multiple softmax on subsets of output vector
 * [(PDF) Unsupervised similarity learning from compressed representations via Siamese autoencoders](https://www.researchgate.net/publication/331806669_Unsupervised_similarity_learning_from_compressed_representations_via_Siamese_autoencoders)
 * [A Two-Stage Triplet Network Training Framework for Image Retrieval - IEEE Journals & Magazine](https://ieeexplore.ieee.org/abstract/document/9005220)
 * [Joint autoencoders: a flexible meta-learning framework](https://openreview.net/forum?id=S1tWRJ-R-)
@@ -3261,7 +3118,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Combining loss functions: https://stackoverflow.com/questions/58776673/combining-two-loss-function-in-keras-in-sequential-model-with-ndarray-output](https://stackoverflow.com/questions/58776673/combining-two-loss-function-in-keras-in-sequential-model-with-ndarray-output)
 * [Custom loss ***: https://towardsdatascience.com/shared-models-and-custom-losses-in-tensorflow-2-keras-6776ecb3b3a9](https://towardsdatascience.com/shared-models-and-custom-losses-in-tensorflow-2-keras-6776ecb3b3a9)
 * [Custom loss (?): https://stackoverflow.com/questions/55445712/custom-loss-function-in-keras-based-on-the-input-data](https://stackoverflow.com/questions/55445712/custom-loss-function-in-keras-based-on-the-input-data)
-    Guided Tour of Linear Algebra Proofs
+* Guided Tour of Linear Algebra Proofs
 * https://github.com/DuaneNielsen/mixturedensity
 * https://github.com/tonyduan/mdn
 * [original MDN paper](https://publications.aston.ac.uk/id/eprint/373/1/NCRG_94_004.pdf)
@@ -3271,7 +3128,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * https://thegradient.pub/an-introduction-to-ai-story-generation/
 * [Frolicsome Engines: The Long Prehistory of Artificial Intelligence – The Public Domain Review](https://publicdomainreview.org/essay/frolicsome-engines-the-long-prehistory-of-artificial-intelligence)
 * [Time to regulate AI that interprets human emotions](https://www.nature.com/articles/d41586-021-00868-5?utm_source=researcher_app&utm_medium=referral&utm_campaign=RESR_MRKT_Researcher_inbound)
-    - [********True Artificial Intelligence will change everything | Juergen Schmidhuber | TEDxLakeComo - YouTube](https://www.youtube.com/watch?v=-Y7PLaxXUrs)
+    - [****True Artificial Intelligence will change everything | Juergen Schmidhuber | TEDxLakeComo - YouTube](https://www.youtube.com/watch?v=-Y7PLaxXUrs)
 * [The Future of Machine Learning Will Include a Lot Less Engineering](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=65bc269e39&e=b34ab4e857)
 * [Human Learning and Machine Learning - How they differ ?](http://datascience.getresponse360.com/click.html?x=a62e&lc=u9P&mc=j&s=jFaI&u=F&y=n&z=wTPzlMN&)
 * [Trends in AI and Data Science for 2020 - Infographic](https://www.newsletter.datasciencecentral.com/click.html?x=a62e&lc=uLy&mc=j&s=jFaI&u=F&y=f&z=wX0jdAv&)
@@ -3312,7 +3169,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * https://thegradient.pub/machine-learning-ethics-and-open-source-licensing-2/
 * https://robotenomics.com/
 * https://www.askpython.com/python/examples/arima-model-demonstration
-    Latent Semantic Mapping: Principles and Applications
+* Latent Semantic Mapping: Principles and Applications
 * https://deepmind.com/blog/article/advancing-sports-analytics-through-ai
 * [Use Wikidata in AI and cognitive applications – Build Smart. Build Secure. IBM Developer](https://developer.ibm.com/series/use-wikidata-in-ai-and-cognitive-applications/)
 
@@ -3350,7 +3207,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Recommender System Metrics: Comparing Apples, Oranges and Bananas](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=5296e628bd&e=b34ab4e857)
 * [Idiots Guide to Precision, Recall, and Confusion Matrix](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=d1f4c9e241&e=b34ab4e857)
 * [How to determine the quality and correctness of classification models?](http://datascience.getresponse360.com/click.html?x=a62e&lc=uAP&mc=j&s=jFaI&u=F&y=n&z=wuHsu6Z&)
-    Introducing ML Visuals - dair.ai - Medium
+* Introducing ML Visuals - dair.ai - Medium
 * [How to Get Started With Algorithmic Finance](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=eb778e6709&e=b34ab4e857)
 * [AI Techniques for Workforce Forecasting](https://www.newsletter.datasciencecentral.com/click.html?x=a62e&lc=uLu&mc=j&s=jFaI&u=F&y=r&z=wTjbXRa&)
 * [A Comprehensive Guide to Ensemble Learning (with Python codes)](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/)
@@ -3408,10 +3265,10 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Predicting Mixed Targets with Neural Networks and Keras | by Casey Whorton | Towards Data Science](https://towardsdatascience.com/predicting-mixed-targets-with-neural-networks-and-keras-1dc754ce0c98)
 * [How to choose number of epochs to train a neural network in Keras](https://www.codespeedy.com/how-to-choose-number-of-epochs-to-train-a-neural-network-in-keras/)
 * https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch
-    multi task learning in pytorch
+* multi task learning in pytorch
 * [Cross entropy - Wikipedia](https://en.wikipedia.org/wiki/Cross_entropy)
 * [AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients](https://juntang-zhuang.github.io/adabelief/)
-    Machine Learning for Causal Inference in Biological Networks: Perspectives of This Challenge
+* Machine Learning for Causal Inference in Biological Networks: Perspectives of This Challenge
     - [Machine Learning in Economic Analysis](https://bfi.uchicago.edu/sites/default/files/file_uploads/3C_NG%20slides.pdf)
 * [Slides: Machine Learning and Econometrics (Hal Varian)](https://web.stanford.edu/class/ee380/Abstracts/140129-slides-Machine-Learning-and-Econometrics.pdf)
 * [Economics Has a Math Problem - Bloomberg](https://www.bloomberg.com/view/articles/2015-09-01/economics-has-a-math-problem)
@@ -3457,10 +3314,10 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [How to Learn DS Smartly](https://youtu.be/csG_qfOTvxw)
 * [Master of Data Science — HSE University](https://www.hse.ru/en/ma/msds/)
     - [*60 Top Data Science Tools: In-depth Guide [2020 update]](https://blog.aimultiple.com/data-science-tools/)
-    Sub-areas of data science | Python | R | SQL3. Machine Learning & AI | Basics of ML & AI | Deep Learning | NLP | Computer Vision
+* Sub-areas of data science | Python | R | SQL3. Machine Learning & AI | Basics of ML & AI | Deep Learning | NLP | Computer Vision
     - [**Curriculum — Master of Data Science — HSE University](https://www.hse.ru/en/ma/msds/curriculum)
-    Autoencoder Based Architecture For Fast & Real Time Audio Style Transfer
-    Speech-To-Singing Conversion in an Encoder-Decoder Framework
+* Autoencoder Based Architecture For Fast & Real Time Audio Style Transfer
+* Speech-To-Singing Conversion in an Encoder-Decoder Framework
 * [Machine Learning Engineering with MLflow: Manage the end-to-end machine learning life cycle with MLflow](http://libgen.rs/book/index.php?md5=68739A80FCA4CD1979B467898B344285)
 * [3.3. Model evaluation: quantifying the quality of predictions — scikit-learn 0.20.2 documentation](https://scikit-learn.org/stable/modules/model_evaluation.html)
 * [Periodic Table of Binary Classification Performance Measures/Metrics](http://datascience.getresponse360.com/click.html?x=a62e&lc=uAp&mc=j&s=jFaI&u=F&y=D&z=wFRUlIH&)
@@ -3474,7 +3331,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Interpretability part 3: opening the black box with LIME and SHAP](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=2dc891be9c&e=b34ab4e857)
 * [Explainable AI Positions](https://nl4xai.eu/vacancies/)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
-    - [*******yusugomori/DeepLearning: Deep Learning (Python, C, C++, Java, Scala, Go)](https://github.com/yusugomori/DeepLearning)
+    - [***yusugomori/DeepLearning: Deep Learning (Python, C, C++, Java, Scala, Go)](https://github.com/yusugomori/DeepLearning)
 * [Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control](http://libgen.rs/book/index.php?md5=13FE146523595D4704E7F62FFC776DAE)
 * https://lrouviere.github.io/TUTO_ML/correction/
 * https://bestpracticer.com/topic/data
@@ -3496,11 +3353,11 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Graph Machine Learning Meets UX: An uncharted love affair](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=45cdf795e7&e=b34ab4e857)
 * [https://github.com/alibaba/GraphScope](https://github.com/alibaba/GraphScope?utm_source=gradientflow&utm_medium=newsletter&utm_campaign=issue28)
 * https://link.springer.com/chapter/10.1007/978-3-030-36718-3_1
-    select graph clustering algorithms
+* select graph clustering algorithms
 * https://www.csc2.ncsu.edu/faculty/nfsamato/practical-graph-mining-with-R
-    SNN
-    vertex betweenness clustering
-    edge betweenness clustering
+* SNN
+* vertex betweenness clustering
+* edge betweenness clustering
 * https://www.techrepublic.com/article/understanding-the-differences-between-ai-machine-learning-and-deep-learning/
     - [->](https://www.geeksforgeeks.org/difference-between-machine-learning-and-artificial-intelligence/)
 * https://github.com/benedekrozemberczki/karateclub
@@ -3527,21 +3384,21 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Search · deep learning lisp](https://github.com/search?q=deep+learning+lisp)
 * [Deep_In_Depth: Deep Learning, ML & DS | Scoop.it](https://www.scoop.it/topic/data-science-58)
 * here are 15 libraries in various languages, to help implement your deep learning algorithm.
-    Theano' is a python library for defining and evaluating mathematical expressions with numerical arrays. Theano supports related frameworks such as Keras, Pylearn2, Lasagne & Blocks.
-    Caffe' is a deep learning framework made with expression, speed, and modularity in mind. It is developed by the Berkeley Vision and Learning Center (BVLC) and by community contributors. Google's DeepDream is based on Caffe Framework. This framework is a BSD-licensed C++ library with Python Interface.
-    nolearn' contains a number of wrappers and abstractions around existing neural network libraries, most notably Lasagne, along with a few machine learning utility modules.
-    Chainer' bridge the gap between algorithms and implementations of deep learning. Its powerful, flexible and intuitive and is considered as the flexible framework for Deep Learning.
-    deepnet' is a GPU-based python implementation of deep learning algorithms like Feedforward Neural Nets, Restricted Boltzmann Machines, Deep Belief Nets, Autoencoders, Deep Boltzmann Machines and Convolutional Neural Nets.
-    ConvNet' Convolutional neural net is a type of deep learning classification algorithms, that can learn useful features from raw data by themselves and is performed by tuning its weighs.
-    SINGA' is designed to be general to implement the distributed training algorithms of existing systems. It is supported by Apache Software Foundation.
-    Deeplearning4j' is the first commercial-grade, open-source, distributed deep-learning library written for Java and Scala. It is designed to be used in business environments, rather than as a research tool.
-    Convnet.js' is a Javascript library for training Deep Learning models (mainly Neural Networks) entirely in a browser. No software requirements, no compilers, no installations, no GPUs, no sweat.
-    Torch' is a scientific computing framework with wide support for machine learning algorithms. It is easy to use and efficient, fast scripting language, LuaJIT, and an underlying C/CUDA implementation. Torch is based on Lua programming language.
-    Mocha' is a Deep Learning framework for Julia, inspired by the C++ framework Caffe. Efficient implementations of general stochastic gradient solvers and common layers in Mocha could be used to train deep / shallow (convolutional) neural networks, with (optional) unsupervised pre-training via (stacked) auto-encoders. Its best feature include Modular architecture, High-level Interface, portability with speed, compatibility and many more.
-    DNNGraph' is a deep neural network model generation DSL in Haskell.
-    darch' package can be used for generating neural networks with many layers (deep architectures). Training methods includes a pre training with the contrastive divergence method and a fine tuning with common known training algorithms like backpropagation or conjugate gradient.
-    Teglor' has a more comprehensive list organized by programming language.
-    Accord.NET' is a .NET machine learning framework with deep learning libraries combined with audio and image processing libraries completely written in C#. It is a complete framework for building production-grade computer vision, computer audition, signal processing and statistics applications.
+* Theano' is a python library for defining and evaluating mathematical expressions with numerical arrays. Theano supports related frameworks such as Keras, Pylearn2, Lasagne & Blocks.
+* Caffe' is a deep learning framework made with expression, speed, and modularity in mind. It is developed by the Berkeley Vision and Learning Center (BVLC) and by community contributors. Google's DeepDream is based on Caffe Framework. This framework is a BSD-licensed C++ library with Python Interface.
+* nolearn' contains a number of wrappers and abstractions around existing neural network libraries, most notably Lasagne, along with a few machine learning utility modules.
+* Chainer' bridge the gap between algorithms and implementations of deep learning. Its powerful, flexible and intuitive and is considered as the flexible framework for Deep Learning.
+* deepnet' is a GPU-based python implementation of deep learning algorithms like Feedforward Neural Nets, Restricted Boltzmann Machines, Deep Belief Nets, Autoencoders, Deep Boltzmann Machines and Convolutional Neural Nets.
+* ConvNet' Convolutional neural net is a type of deep learning classification algorithms, that can learn useful features from raw data by themselves and is performed by tuning its weighs.
+* SINGA' is designed to be general to implement the distributed training algorithms of existing systems. It is supported by Apache Software Foundation.
+* Deeplearning4j' is the first commercial-grade, open-source, distributed deep-learning library written for Java and Scala. It is designed to be used in business environments, rather than as a research tool.
+* Convnet.js' is a Javascript library for training Deep Learning models (mainly Neural Networks) entirely in a browser. No software requirements, no compilers, no installations, no GPUs, no sweat.
+* Torch' is a scientific computing framework with wide support for machine learning algorithms. It is easy to use and efficient, fast scripting language, LuaJIT, and an underlying C/CUDA implementation. Torch is based on Lua programming language.
+* Mocha' is a Deep Learning framework for Julia, inspired by the C++ framework Caffe. Efficient implementations of general stochastic gradient solvers and common layers in Mocha could be used to train deep / shallow (convolutional) neural networks, with (optional) unsupervised pre-training via (stacked) auto-encoders. Its best feature include Modular architecture, High-level Interface, portability with speed, compatibility and many more.
+* DNNGraph' is a deep neural network model generation DSL in Haskell.
+* darch' package can be used for generating neural networks with many layers (deep architectures). Training methods includes a pre training with the contrastive divergence method and a fine tuning with common known training algorithms like backpropagation or conjugate gradient.
+* Teglor' has a more comprehensive list organized by programming language.
+* Accord.NET' is a .NET machine learning framework with deep learning libraries combined with audio and image processing libraries completely written in C#. It is a complete framework for building production-grade computer vision, computer audition, signal processing and statistics applications.
 * https://hackage.haskell.org/package/tensor-safe
 * https://neurohive.io/ru/tutorial/pytorch-vs-tensorflow/
 * http://neuroph.sourceforge.net/
@@ -3618,26 +3475,25 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
     - [The Projects You Should Do to Get a Data Science Job](https://towardsdatascience.com/the-projects-you-should-do-to-get-a-data-science-job-457d3fe7d660)
     - [Top 5 Data Science Projects with Source Code to kick-start your Career - DataFlair](https://data-flair.training/blogs/data-science-projects-code/)
 * [https://data-flair.training/blogs/data-science-project-ideas/](https://data-flair.training/blogs/data-science-project-ideas/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
-    DSC?
-    Kaggle?
-    Github page
-    Django site
-    Own site & blog
-    Medium
-    StackExchange
-    Reddit (?)
-    Geeks for Geeks
+* DSC?
+* Kaggle?
+* Github page
+* Django site
+* Own site & blog
+* Medium
+* StackExchange
+* Reddit (?)
+* Geeks for Geeks
     - --> Jekyll meistern
     - --> Webseite planen
 * [Contribute to Towards Data Science](https://towardsdatascience.typeform.com/to/feqmih)
 * [Why I Am Writing At Data Science Central, And Why You Should, Too - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/why-i-am-writing-at-data-science-central-and-why-you-should-too)
-    ML Models:
-    linear regression
-    NB
-    SVM
-    decision tree
-    random forest
-    **[Data Science Whitepaper zum kostenlosen Download | STATWORX](https://www.statworx.com/de/data-science/whitepaper/)**
+* ML Models:
+* linear regression
+* NB
+* SVM
+* decision tree
+* random forest    * [Data Science Whitepaper zum kostenlosen Download | STATWORX](https://www.statworx.com/de/data-science/whitepaper/)
 * https://thedataexchange.media/automation-in-data-management-and-data-labeling/
 * https://github.com/guanlongzhao/tensor2tensor
 * https://github.com/ritvikmath/YouTubeVideoCode/blob/main/Word2Vec.ipynb
@@ -3684,7 +3540,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [hierarchical_features.png (PNG Image, 754 × 208 pixels)](https://developer.nvidia.com/blog/wp-content/uploads/2015/11/hierarchical_features.png)
 
 ## Sort (26)
-    - [**********Stanford CoreNLP – Natural language software | Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
+    - [**Stanford CoreNLP – Natural language software | Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
 * https://mxnet.apache.org/versions/1.6/api
 * https://www.syncfusion.com/ebooks/keras-succinctly
 * [Python Signal Processing Notebooks: https://nbviewer.jupyter.org/github/unpingco/Python-for-Signal-Processing/tree/master/](https://nbviewer.jupyter.org/github/unpingco/Python-for-Signal-Processing/tree/master/)
@@ -3704,11 +3560,11 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Kite - AI Coding Assistant for Python and JavaScript](https://kite.com/)
 * [Caffe | Deep Learning Framework](http://caffe.berkeleyvision.org/)
 * [Documentation for GPML Matlab Code](http://www.gaussianprocess.org/gpml/code/matlab/doc/)
-    General RL Resources
+* General RL Resources
 * https://github.com/rghan/ISLR
 * [Intro to ML with R: https://lgatto.github.io/IntroMachineLearningWithR/an-introduction-to-machine-learning-with-r.html](https://lgatto.github.io/IntroMachineLearningWithR/an-introduction-to-machine-learning-with-r.html)
 * [Text Mining with R: https://www.tidytextmining.com/](https://www.tidytextmining.com/)
-    scikit-learn
+* scikit-learn
 * https://github.com/neuroph
     - [*Deep Learning for Beginners | Deeplearning4j](https://deeplearning4j.org/docs/latest/deeplearning4j-beginners)
     - Julia DL
@@ -3769,7 +3625,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * http://www.asimovinstitute.org/neural-network-zoo/
 * https://dain.ai/
 * https://de.wikipedia.org/wiki/Deep_Learning
-    deep learning exams
+* deep learning exams
 * [Deep Learning For Natural Language Processing](https://machinelearningmastery.com/deep-learning-for-nlp/)
 * [Deep Learning for NLP: Advancements & Trends | Tryolabs Blog](https://tryolabs.com/blog/2017/12/12/deep-learning-for-nlp-advancements-and-trends-in-2017/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=The%20Wild%20Week%20in%20AI)
 * [Deep Learning Frameworks](https://youtu.be/SJldOOs4vB8)
@@ -3786,7 +3642,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [NN Book Rojas](https://page.mi.fu-berlin.de/rojas/neural/#chapter%2012)
 * [NN Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
 * [NN zoo with code](https://www.google.com/search?q=neural+network+zoo+with+code&ie=UTF-8&oe=UTF-8&hl=it-us)
-    International Conference on Neural Information Processing
+* International Conference on Neural Information Processing
 * [Fundamentals of Deep Learning](https://b-ok.cc/book/2930643/7cc62a)
 * [Fundamentals of Deep Learning: Designing Next-Generation Machine Intelligence Algorithms](https://b-ok.cc/book/2930610/e731c9)
 * [Fundamentals of Neural Networks: Architectures, Algorithms and Applications](https://b-ok.cc/book/5219755/6f2cb9)
@@ -3797,7 +3653,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
     - [**Stanford University CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)
     - [Deep Learning For Coders—36 hours of lessons for free](http://course.fast.ai/index.html)
 * [100 Best GitHub: Deep Learning](https://vk.com/@itmozg-100-best-github-deep-learning)
-    - [*******GitHub - MichalDanielDobrzanski/DeepLearningPython35: neuralnetworksanddeeplearning.com integrated scripts for Python 3.5.2 and Theano with CUDA support](https://github.com/MichalDanielDobrzanski/DeepLearningPython35)
+    - [***GitHub - MichalDanielDobrzanski/DeepLearningPython35: neuralnetworksanddeeplearning.com integrated scripts for Python 3.5.2 and Theano with CUDA support](https://github.com/MichalDanielDobrzanski/DeepLearningPython35)
 * https://www.deeplearning.ai/deep-learning-specialization/
 * [Глубокое обучение](https://drive.google.com/file/d/1rtoJepwq1Pl64gHC7Mk7v-3zqM8NUhep/view)
 * [Глубокое обучение Погружение в мир нейронных сетей](https://drive.google.com/file/d/18_rngmSL5nAgwtpXifAzwfAm9FeGxIf7/view?usp=sharing)
@@ -3881,8 +3737,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 * [Chapter 10.1: DeepNLP — LSTM (Long Short Term Memory) Networks with Math.](https://medium.com/deep-math-machine-learning-ai/chapter-10-1-deepnlp-lstm-long-short-term-memory-networks-with-math-21477f8e4235)
 * [Understanding LSTM Networks -- colah's blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-* [Quora LSTM](https://www.quora.com/How-do-I-understand-the-architecture-and-maths-of-an-LSTM-neural-network)
-    **[Animated RNN, LSTM and GRU](https://medium.com/@remykarem/animated-rnn-lstm-and-gru-ef124d06cf45?source=email-b12ac70303b2-1578793337014-digest.reader------0-59------------------78c49ed7_83cc_4ffc_aa15_5342b21390e4-1-----&sectionName=top)**
+* [Quora LSTM](https://www.quora.com/How-do-I-understand-the-architecture-and-maths-of-an-LSTM-neural-network)    * [Animated RNN, LSTM and GRU](https://medium.com/@remykarem/animated-rnn-lstm-and-gru-ef124d06cf45?source=email-b12ac70303b2-1578793337014-digest.reader------0-59------------------78c49ed7_83cc_4ffc_aa15_5342b21390e4-1-----&sectionName=top)
 * https://medium.com/from-the-scratch/deep-learning-deep-guide-for-all-your-matrix-dimensions-and-calculations-415012de1568
     - [> stat479-deep-learning-ss19/L04_linalg-dl_slides.pdf at master · rasbt/stat479-deep-learning-ss19](https://github.com/rasbt/stat479-deep-learning-ss19/blob/master/L04_linalg-dl/L04_linalg-dl_slides.pdf)
     - [> stat479-deep-learning-ss19/L05_gradient-descent_slides.pdf at master · rasbt/stat479-deep-learning-ss19](https://github.com/rasbt/stat479-deep-learning-ss19/blob/master/L05_grad-descent/L05_gradient-descent_slides.pdf)
@@ -3935,7 +3790,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [python function that returns a variable number of outputs - Stack Overflow](https://stackoverflow.com/questions/10223427/python-function-that-returns-a-variable-number-of-outputs)
 * [Yih-Dar Shieh: Custom training with TPU](https://www.google.com/appserve/mkt/p/AD-FnEzB3cONBHdnYwo_bUBVAZR_xWHXkOu22cv5rLi6SibUUCdQm91KHFKc5zBv57XqEnPBclPmIS1zCfoHlRWamXkNRk7TZxpFZaqWsTS5scaPUiuyJQN6Mi99iZk0XpN0WMyXN1Bx4m80AfwmJKBiW-_fIfyLy42akxBjhYF_b1xGs0dICpo5aW8EZ3vHTg4QHRvqmqYSBsTyYKIRwpc)
 * [Getting Started with TPUs](https://www.youtube.com/watch?v=1pdwRQ1DQfY)
-    Kaggle TPU
+* Kaggle TPU
 * [Intermediate Topics in Neural Networks - Towards Data Science](https://towardsdatascience.com/comprehensive-introduction-to-neural-network-architecture-c08c6d8e5d98?gi=b0da15ef5856)
 * https://towardsdatascience.com/mask-r-cnn-for-ship-detection-segmentation-a1108b5a083
 * [$$$ Perplexity Intuition (and its derivation) - Towards Data Science](https://towardsdatascience.com/perplexity-intuition-and-derivation-105dd481c8f3)
@@ -3950,7 +3805,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * https://medium.freecodecamp.org/how-ai-can-learn-to-generate-pictures-of-cats-ba692cb6eae4
 * [$$$ Jürgen Schmidhuber on the robot future: ‘They will pay as much attention to us as we do to ants' | Technology | The Guardian](https://www.theguardian.com/technology/2017/apr/18/robot-man-artificial-intelligence-computer-milky-way)
 * [The unreasonable effectiveness of deep learning in artificial intelligence | PNAS](https://www.pnas.org/content/early/2020/01/23/1907373117)
-    - [*******Neural Networks, Types, and Functional Programming -- colah's blog](https://colah.github.io/posts/2015-09-NN-Types-FP/)
+    - [***Neural Networks, Types, and Functional Programming -- colah's blog](https://colah.github.io/posts/2015-09-NN-Types-FP/)
 
 ## Sort (30)
 * [Brain tumor classification using a hybrid deep autoencoder with Bayesian fuzzy clustering-based segmentation approach - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0208521620300115)
@@ -3986,7 +3841,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [How Do Neural Networks Grow Smarter? - with Robin Hiesinger](https://youtu.be/Xv_JJ2ZuDJM)
 * [Deep Learning from Scratch: Building with Python from First Principles](http://libgen.rs/book/index.php?md5=A7853FDF75076181EE55657D22D7AF58)
 * https://github.com/deep-nlp-spring-2020/deep-nlp
-    sentdex
+* sentdex
 * [Sentdex/NNfSiX: Neural Networks from Scratch in various programming languages](https://github.com/Sentdex/NNfSiX)
 * [N-Shot Learning: Learning More with Less Data](https://blog.floydhub.com/n-shot-learning/)
 * [The Modern Mathematics of Deep Learning](https://arxiv.org/pdf/2105.04026.pdf)
@@ -4020,11 +3875,11 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [<-- https://davidstutz.de](https://davidstutz.de/)
 * [<-- https://github.com/wiseodd/hipsternet](https://github.com/wiseodd/hipsternet)
 * [AVGZSLNet: Audio-Visual Generalized Zero-Shot Learning by Reconstructing Label Features from Multi-Modal Embeddings | Papers With Code](https://paperswithcode.com/paper/avgzslnet-audio-visual-generalized-zero-shot)
-    BoTNet-50
+* BoTNet-50
 * [Chainer: A flexible framework for neural networks](https://chainer.org/)
 * [Chris Rackauckas - Physics-Informed Neural Networks (PINNs) | Podcast #42](https://www.youtube.com/watch?v=OmySUTFwh2g)
 * [cnns](https://twitter.com/jrking0/status/1369230423545548807?s=19)
-    Contrastive-center loss for deep neural networks
+* Contrastive-center loss for deep neural networks
 * hierarchical classification deep learning
 * https://gradientflow.com/newsletter/
 * https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face?utm_campaign=Hugging%2BFace&utm_medium=email&utm_source=Hugging_Face_8
@@ -4035,9 +3890,9 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * https://www.deeplearning.ai/the-batch/
 * [Introduction to Semi-Supervised Learning](https://www.morganclaypool.com/doi/abs/10.2200/S00196ED1V01Y200906AIM006)
 * [Multimodal Neurons in Artificial Neural Networks](https://openai.com/blog/multimodal-neurons/)
-    netron visualizer tool
+* netron visualizer tool
 * [Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/abs/2012.15838)
-    possible to have multiple softmax outputs, each applied to a subset of the elements? so that certain subsets of elements sum to one
+* possible to have multiple softmax outputs, each applied to a subset of the elements? so that certain subsets of elements sum to one
 * [Reddit - MachineLearning - [P] Style transfer for MNIST digits](https://www.reddit.com/r/MachineLearning/comments/fewchi/p_style_transfer_for_mnist_digits/)
 * [redundancy paper](https://42papers.com/p/barlow-twins-self-supervised-learning-via-redundancy-reduction)
 * [tfjs](https://github.com/rdarbinyan/handwriting_ui)
@@ -4081,7 +3936,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * http://kurt.schmidheiny.name/teaching/iv2up.pdf
 * https://www.datacamp.com/community/tutorials/autoencoder-keras-tutorial
 * https://github.com/activeloopai/Hub
-* https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471 *********
+* https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471 *****
 * https://www.deeplearning.ai/ai-notes/
 * [нейронні сеті](https://b-ok.cc/s/%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%96%20%D1%81%D0%B5%D1%82%D1%96)
 * [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
@@ -4109,7 +3964,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Advanced Machine Learning with TensorFlow on Google Cloud Platform | Google Cloud](https://coursera.org/specialization/advanced-machine-learning-tensorflow-gcp)
 * [APPRENTISSAGE PROFOND ou DEEP LEARNING - Encyclopædia Universalis](https://www.universalis.fr/encyclopedie/apprentissage-profond-deep-learning/)
 * [Avances en redes neuronales – Medium en español – Medium](https://medium.com/espanol/avances-en-redes-neuronales-705c2efe53d2)
-    Bi-directional Long Short-Term Memory using Quantized data of Deep Belief Networks for Sleep Stage Classification
+* Bi-directional Long Short-Term Memory using Quantized data of Deep Belief Networks for Sleep Stage Classification
 * [David MacKay: Information Theory, Pattern Recognition and Neural Networks: The Book](http://www.inference.org.uk/mackay/itprnn/book.html)
 * [Deep Learning with Python [2018] Франсуа Шолле.pdf](https://vk.com/doc44301783_501877125?hash=48f58ed2dccebe907a&dl=1aac13d8deceb10974)
 * [Four deep learning trends from ACL 2017 | Abigail See](http://www.abigailsee.com/2017/08/30/four-deep-learning-trends-from-acl-2017-part-2.html)
@@ -4156,7 +4011,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Stepik - Нейронные сети](https://stepik.org/course/401)
 * [ML Notes - Hojas de cálculo de Google](https://docs.google.com/spreadsheets/d/1mG-yyEq-r7UXz6PCOmpH8I3n3vjmiNIkUuLlxPj_3LY/edit#gid=1660120107)
 * [Artificial Intelligence Machine Learning and Deep Learning](https://b-ok.cc/book/5741077/76a075)
-    - [******* -->I Designed My Own Machine Learning and AI Degree](https://www.kdnuggets.com/2020/05/designed-machine-learning-ai-degree.html)
+    - [*** -->I Designed My Own Machine Learning and AI Degree](https://www.kdnuggets.com/2020/05/designed-machine-learning-ai-degree.html)
     - [*A free self-paced learning path for #machinelearning and #deeplearning - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/a-free-self-paced-learning-path-for-machinelearning-and)
 * [How to Learn Machine Learning, The Self-Starter Way](https://elitedatascience.com/learn-machine-learning)
 * [Intro to Artificial Intelligence | Udacity](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
@@ -4183,8 +4038,8 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [The Machine Learning Dictionary](http://www.cse.unsw.edu.au/~billw/mldict.html)
 * [20 AI, Data Science, Machine Learning Terms You Need to Know in 2020 (Part 1)](https://www.kdnuggets.com/2020/02/ai-data-science-machine-learning-key-terms-2020.html)
 * [20 AI, Data Science, Machine Learning Terms You Need to Know in 2020 (Part 2)](https://www.kdnuggets.com/2020/03/ai-data-science-machine-learning-key-terms-part2.html)
-    - [********Machine Learning is Fun! – Adam Geitgey – Medium](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
-    - [*******Topics · Made With ML](https://madewithml.com/topics/)
+    - [****Machine Learning is Fun! – Adam Geitgey – Medium](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+    - [***Topics · Made With ML](https://madewithml.com/topics/)
     - [> математика - Книги и учебные ресурсы по машинному обучению - Stack Overflow на русском](https://ru.stackoverflow.com/questions/678970/%D0%9A%D0%BD%D0%B8%D0%B3%D0%B8-%D0%B8-%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5-%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%BC%D1%83-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8E/683632#683632)
 * https://www.quora.com/What-are-the-best-resources-to-learn-about-deep-learning
 * [What are the best books about deep learning? - Quora](https://www.quora.com/What-are-the-best-books-about-deep-learning)
@@ -4195,7 +4050,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Подборка ресурсов по машинному обучению](https://vk.com/@php2all-podborka-resursov-po-mashinnomu-obucheniu)
 * [Пошук новин за запитом Подборка книг по теме: Искусственный интеллект [30 книг]](https://vk.com/search?c%5Bq%5D=%D0%9F%D0%BE%D0%B4%D0%B1%D0%BE%D1%80%D0%BA%D0%B0%20%D0%BA%D0%BD%D0%B8%D0%B3%20%D0%BF%D0%BE%20%D1%82%D0%B5%D0%BC%D0%B5%3A%20%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%20%5B30%20%D0%BA%D0%BD%D0%B8%D0%B3%5D&c%5Bsection%5D=auto)
 * [Which is the best machine learning tutorial? - Quora](https://www.quora.com/Which-is-the-best-machine-learning-tutorial)
-    - [*******Comprehensive Repository of Data Science and ML Resources - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/comprehensive-repository-of-data-science-and-ml-resources)
+    - [***Comprehensive Repository of Data Science and ML Resources - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/comprehensive-repository-of-data-science-and-ml-resources)
 * [машинное обучение - YouTube](https://www.youtube.com/results?search_query=%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5&sp=EgIQAw%253D%253D)
 * [Подборка курсов по data science и нейроным сетям](https://neurohive.io/ru/kursy/)
 * [18 Handy Resources for Machine Learning Practitioners - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/18-handy-resources-for-machine-learning-practitioners)
@@ -4209,7 +4064,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
     - [**The Best Machine Learning Resources - Machine Learning for Humans - Medium](https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1)
     - [** Visual Intro to ML](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
     - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
-    10 лучших бесплатных книг по машинному обучению по версии ThePixelBeard
+* 10 лучших бесплатных книг по машинному обучению по версии ThePixelBeard
 * http://www.kareemalkaseer.com/books/ml/
 * https://ru.stackoverflow.com/questions/678970/%D0%9A%D0%BD%D0%B8%D0%B3%D0%B8-%D0%B8-%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5-%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%BC%D1%83-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8E/683632#683632
 * [AI Wiki](https://pathmind.com/wiki/)
@@ -4223,7 +4078,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 ## Sort (32)
     > p261
 * [Generalized_eigenvector](https://en.wikipedia.org/wiki/Generalized_eigenvector)
-    file:///Users/iriley/Downloads/harddrive/%D0%9C%D0%B0%D1%82%D1%80%D0%B8%D1%87%D0%BD%D1%8B%D0%B8%CC%86%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7.pdf
+* file:///Users/iriley/Downloads/harddrive/%D0%9C%D0%B0%D1%82%D1%80%D0%B8%D1%87%D0%BD%D1%8B%D0%B8%CC%86%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7.pdf
 * [Trace_(linear_algebra)](https://en.wikipedia.org/wiki/Trace_(linear_algebra))
 * [Comparison_of_vector_algebra_and_geometric_algebra](https://en.wikipedia.org/wiki/Comparison_of_vector_algebra_and_geometric_algebra)
 * https://math.stackexchange.com/questions/1781775/an-intuitive-way-to-understand-the-jacobis-formula
@@ -4258,7 +4113,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [DS books (R)](https://www.humblebundle.com/books/data-science-essentials-books)
 * [ML intro resources - thread](https://twitter.com/hannawallach/status/1271496738633908224?s=12)
 * [Top Artificial Intelligence Books to Read in 2020 | MarkTechPost](https://www.marktechpost.com/2020/06/27/top-artificial-intelligence-books-to-read-in-2020/)
-    - [******** AI Resource List](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf)
+    - [**** AI Resource List](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf)
 * [Springer DS books](https://b-ok.cc/s/springer%20data%20science)
 * [Inteligencia Artificial](https://www.youtube.com/playlist?list=PLHNkID2PAnJmoXlM0MtgMmNVpkarf2Cd4)
 * [ML Intro Entry](https://vas3k.com/blog/machine_learning/)
@@ -4266,7 +4121,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [92 Applied Predictive Modeling Techniques in R: With step by step instructions on how to build them FAST! | Lewis N.D. | download](https://b-ok.cc/book/3061082/2bef18)
 * [The 7 Steps of Machine Learning - YouTube](https://www.youtube.com/watch?v=nKW8Ndu7Mjw)
 * [Great Books](https://www.ise.bgu.ac.il/faculty/liorr/)
-    Andrew Ng
+* Andrew Ng
 * [ML for Sociology](https://www.annualreviews.org/doi/abs/10.1146/annurev-soc-073117-041106)
 * https://mathigon.org/data-gymnasia
 * https://mathigon.org/
@@ -4341,7 +4196,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * https://fluxml.ai/Flux.jl/stable/models/overview/
 * [(1/n) How to start a deep learning project? We use a remarkably streamlined step-by-step process to set up deep learning projects. At the same time, people who are new to deep learning tend to always make the same (avoidable) mistakes. Check out the thread below!](https://twitter.com/mattniessner/status/1441027241870118913?s=27)
 * https://datatalks.club/
-    AI Summer Deep Learning in Production
+* AI Summer Deep Learning in Production
 * [Untersuchungen zu dynamischen neuronalen Netzen - 3804.pdf](http://www.bioinf.jku.at/publications/older/3804.pdf)
 * [how_do_deep_convolutional_neur.pdf](https://openreview.net/pdf?id=S1Ow_e-Rb)
     - [** Efficient Processing of Deep Neural Networks](http://libgen.rs/book/index.php?md5=E83F969A4642FD05931E56AD154DF4CE)
@@ -4420,31 +4275,31 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Machine Learning for Artists](https://ml4a.github.io/ml4a/)
     - *Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence
 * [CS 229 - Deep Learning Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
-    - *******Shervine
+    - ***Shervine
 * [$$$Bernoulli Lattice Models - Connection to Poisson Processes - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/bernouilli-lattice-models-connection-to-poisson-processes)
     - *Great Audio Intro
 * [jjallaire/deep-learning-with-r-notebooks: R notebooks for the code samples of the book "Deep Learning with R"](https://github.com/jjallaire/deep-learning-with-r-notebooks)
 * [The Neo4j Graph Data Science Library Manual v1.2](https://neo4j.com/docs/graph-data-science/current/)
-    - *******Dive into Deep Learning — Dive into Deep Learning 0.8.0 documentation
+    - ***Dive into Deep Learning — Dive into Deep Learning 0.8.0 documentation
 * https://stackoverflow.com/questions/25609347/can-neural-networks-approximate-any-function-given-enough-hidden-neurons
-    - *******Deep Learning Wizard
+    - ***Deep Learning Wizard
 * [Machine Learning with Python Cookbook: Practical Solutions from Preprocessing to Deep Learning](https://b-ok.cc/book/3606405/f316a4)
 * [Introduction to Deep Learning](https://drive.google.com/file/d/1xb7zhfYs6p6BseNeSPllfVJ14C-K1s_U/view?usp=sharing)
 * [Le deep learning — Science étonnante #27](https://www.youtube.com/watch?v=trWrEWfhTVg)
 * [Artificial neural network - Wikipedia](https://en.wikipedia.org/wiki/Artificial_neural_network)
 * [Artificial Neural Networks for Document Analysis and Recognition](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.103.1770&rep=rep1&type=pdf)
 * [Automatic Speech Recognition: A Deep Learning Approach](https://b-ok.cc/book/2485780/593943)
-    best book on the mathematics behind deep learning
-    best books on theoretical deep learning
+* best book on the mathematics behind deep learning
+* best books on theoretical deep learning
 * https://www.youtube.com/watch?v=5u0jaA3qAGk
-    VK --> Nature Deep Learning pdf
+* VK --> Nature Deep Learning pdf
 * [Глубокое Обучение. Лекции](https://www.youtube.com/playlist?list=PL0Ks75aof3Th2vlYGtvL92YN7S_2bux1S)
 * [Лекция 8. Введение в RNN](https://youtu.be/EBP3pqPeN8I)
 * [Нейронные сети.](https://vk.com/videos-16108331?section=album_55985108)
 * https://github.com/fchollet/deep-learning-with-python-notebooks
 * https://github.com/mbadry1/DeepLearning.ai-Summary
 * [Chapter 10: DeepNLP - Recurrent Neural Networks with Math.](https://medium.com/deep-math-machine-learning-ai/chapter-10-deepnlp-recurrent-neural-networks-with-math-c4a6846a50a2)
-    chercher : comment fonctionne un transistor
+* chercher : comment fonctionne un transistor
 * [CS224d: Deep Learning for NLP](https://www.reddit.com/r/CS224d/)
 * http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture8.pdf
 * http://docs.h2o.ai/h2o/latest-stable/h2o-docs/welcome.html
@@ -4481,7 +4336,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Optimization for Deep Learning Highlights in 2017](http://ruder.io/deep-learning-optimization-2017/index.html)
 * [Practical Machine Learning with H2O: Powerful, Scalable Techniques for Deep Learning and AI](https://b-ok.cc/book/2866847/687c47)
 * [Pulsed Neural Networks: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/Pulsed%20Neural%20Networks)
-    réseaux neuronaux recurrents
+* réseaux neuronaux recurrents
 * [ResNet](https://medium.com/@14prakash/understanding-and-implementing-architectures-of-resnet-and-resnext-for-state-of-the-art-image-cf51669e1624)
 * [RNN来解决命名实体识别问题（week2-NER，HSE-AML，Natural language processing, 第一周作业，配图，注释) - ilika的笔记本 - CSDN博客](https://blog.csdn.net/s09094031/article/details/80939559)
 * [RU***Deep&Machine Learning School - YouTube - YouTube](https://www.youtube.com/channel/UCFTNoZYjkg-3LZTHrHfV1nQ)
@@ -4516,12 +4371,12 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * https://www.maths.tcd.ie/~pete/ma1212/chapter2.pdf
 * https://www.lem.ma/content/DVlhfW4GaPdOz2lEH08LvQ?book_id=AIApowDnjlDDQrp-uOZVow
 * [THE DIAGONALIZABLE AND NILPOTENT PARTS OF A MATRIX](https://www.lem.ma/content/DVlhfW4GaPdOz2lEH08LvQ?book_id=AIApowDnjlDDQrp-uOZVow)
-    Advanced Linear Algebra Notes
+* Advanced Linear Algebra Notes
 * https://math.stackexchange.com/questions/131819/are-jordan-chains-always-linearly-independent
 * https://math.stackexchange.com/questions/131819/are-jordan-chains-always-linearly-independent/131863#131863
 * [Jordan_normal_form](https://en.wikipedia.org/wiki/Jordan_normal_form)
 * [> see links](https://en.wikipedia.org/wiki/Jordan_normal_form)
-    file:///Users/iriley/Downloads/harddrive/Operator%20Theoory%20and%20Analysis%20(esp.%20LI%20of%20Jordan%20Chains).pdf
+* file:///Users/iriley/Downloads/harddrive/Operator%20Theoory%20and%20Analysis%20(esp.%20LI%20of%20Jordan%20Chains).pdf
 
 ## Sort (34)
 * [MIT Deep Learning and Artificial Intelligence Lectures | Lex Fridman](https://deeplearning.mit.edu/)
@@ -4605,14 +4460,14 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [7 Steps of ML](https://www.youtube.com/watch?v=nKW8Ndu7Mjw)
 * https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie
 * [Tryolabs | Machine Learning & Data Science Consulting](https://tryolabs.com/)
-    There has been a Machine Learning (ML) reading list of books in hacker news for a while, where Professor Michael I. Jordan recommend some books to start on ML for people who are going to devote many decades of their lives to the field, and who want to get to the research frontier fairly quickly. Recently he articulated the relationship between CS and Stats amazingly well in his recent reddit AMA, in which he also added some books that dig still further into foundational topics. I just list them here for people’s convenience and my own reference.
+* There has been a Machine Learning (ML) reading list of books in hacker news for a while, where Professor Michael I. Jordan recommend some books to start on ML for people who are going to devote many decades of their lives to the field, and who want to get to the research frontier fairly quickly. Recently he articulated the relationship between CS and Stats amazingly well in his recent reddit AMA, in which he also added some books that dig still further into foundational topics. I just list them here for people’s convenience and my own reference.
 * [Udemy - Deep Learning verstehen: Entwickle Neuronale Netze in Python](https://www.udemy.com/course/neuronale-netze-in-python/learn/)
 * [Глубокое обучение для новичков: тонкая настройка нейронной сети](https://habr.com/ru/company/wunderfund/blog/315476/)
 * [Keras - Python Deep Learning Neural Network API](https://www.youtube.com/watch?v=RznKVRTFkBY&list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
 * [Machine Learning & Deep Learning Fundamentals](https://www.youtube.com/watch?v=gZmobeGL0Yg&list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
-    Russisches Fischbuch
-    Aggarwal
-    DL in NLP
+* Russisches Fischbuch
+* Aggarwal
+* DL in NLP
 * [Neural Networks and Deep Learning (online Book)](http://neuralnetworksanddeeplearning.com/index.html)
 * [Deep Learning Project](https://docs.google.com/spreadsheets/d/16CE965U6nB21-rH0T5Fz6JPVNeR8aRyIBggTwZ_7Mbo/edit?usp=sharing)
 * [Deep Learning Papers](https://docs.google.com/spreadsheets/d/1neF981KzH9Di92jM2l2RZjsEtytaKgLfcqszVT9aHmo/edit?usp=sharing)
@@ -4622,7 +4477,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Introduction to 1D Convolutional Neural Networks in Keras for Time Sequences](https://medium.com/@nils.ackermann/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf?source=email-b12ac70303b2-1579570808222-digest.reader------2-59------------------9ad0bd5c_2d73_4753_8bbf_03eabc7584eb-1-----&sectionName=top)
 * [Deep Neural Networks](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=01d28030bf&e=b34ab4e857)
 * [Large Scale Adversarial Representation Learning](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=8f1434da4c&e=b34ab4e857)
-    XLNet
+* XLNet
 * [Uber Has Been Quietly Assembling One of the Most Impressive Open Source Deep Learning Stacks in the Market](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=fa17526dcd&e=b34ab4e857)
 * [Neural Circuit Policies](https://github.com/mlech26l/keras-ncp)
 * [Batch Norm Interview Question | S1 Ep2](https://youtu.be/yB0q8GrQpnc)
@@ -4636,14 +4491,14 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Deep Learning : Introduction to Long Short Term Memory](https://www.newsletter.datasciencecentral.com/click.html?x=a62e&lc=uKE&mc=j&s=jFaI&u=F&y=F&z=wTOw8aC&)
 * [The 10 Deep Learning Methods AI Practitioners Need to Apply](http://datascience.getresponse360.com/click.html?x=a62e&lc=5wS&mc=j&s=jFaI&u=F&y=L&z=wdr9WUG&)
 * https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced
-    - *******Neural Networks, Types, and Functional Programming -- colah's blog
+    - ***Neural Networks, Types, and Functional Programming -- colah's blog
 * [David MacKay: Information Theory, Pattern Recognition and Neural Networks: The Book](http://www.inference.org.uk/itprnn/book.html)
 * [clab/dynet: DyNet: The Dynamic Neural Network Toolkit](https://github.com/clab/dynet)
 * [deep learning - What should I do when my neural network doesn't learn? - Cross Validated](https://stats.stackexchange.com/questions/352036/what-should-i-do-when-my-neural-network-doesnt-learn)
 * [Data Mining, Fraud Detection and Mobile Telecommunications: Call Pattern Analysis with Unsupervised Neural Networks](http://etd.uwc.ac.za/xmlui/bitstream/handle/11394/249/Abidogun_MSC_2005.pdf?sequence=1&isAllowed=y)
 * http://people.idsia.ch/~juergen/
 * http://people.idsia.ch/~juergen/deeplearning.html
-    Understanding the Role of Individual Units in a Deep Neural Network | Examine two types of networks that contain interpretable units: networks trained to classify images of scenes, and networks trained to synthesize images of | scenes. (https://github.com/davidbau/dissect/raw/master/www/classifier-dissection.png) | | Github: | Website: | Paper: | Code: https://github.com/MLWhiz/data_science_blogs/tree/master/pytorch_guide
+* Understanding the Role of Individual Units in a Deep Neural Network | Examine two types of networks that contain interpretable units: networks trained to classify images of scenes, and networks trained to synthesize images of | scenes. (https://github.com/davidbau/dissect/raw/master/www/classifier-dissection.png) | | Github: | Website: | Paper: | Code: https://github.com/MLWhiz/data_science_blogs/tree/master/pytorch_guide
 * https://stats.stackexchange.com/questions/140586/can-a-neural-network-have-an-image-as-its-output-layer
 * [Illustrating the Reformer](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=3708d28395&e=b34ab4e857)
 * [Deep Learning for Beginners](https://randomekek.github.io/deep/deeplearning.html)
@@ -4661,8 +4516,8 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [DeepMind - YouTube](https://www.youtube.com/c/DeepMind/playlists)
 * [Statistics 36-462/662: Data Mining (Fall 2019)](http://www.stat.cmu.edu/~cshalizi/dm/19/)
 * [Illustrated Guide to Recurrent Neural Networks: Understanding the Intuition](https://youtu.be/LHXXI4-IEns)
-    Distributed Tuning: | f-BRS: Rethinking Backpropagating Refinement for Interactive Segmentation | Code: | Paper:
-    The Most Important Fundamentals of PyTorch you Should Know | | Code:
+* Distributed Tuning: | f-BRS: Rethinking Backpropagating Refinement for Interactive Segmentation | Code: | Paper:
+* The Most Important Fundamentals of PyTorch you Should Know | | Code:
 * [$$$ Jürgen Schmidhuber: True Artificial Intelligence Will Change Everything](https://medium.com/syncedreview/j%C3%BCrgen-schmidhuber-true-artificial-intelligence-will-change-everything-dc6b36bb6146)
 * [$$$ Can Artificial Intelligence replicate Human Consciousness? › SINGULARITY 2030](https://singularity2030.ch/can-artificial-intelligence-replicate-human-consciousness/)
 * [$$$ Learn #MachineLearning Coding Basics in a weekend - Glossary and Mindmap - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/learn-machinelearning-coding-basics-in-a-weekend-glossary-and)
@@ -4704,7 +4559,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12
 * [Machine Learning Pocket Reference: Working with Structured Data in Python](https://b-ok.cc/book/5938557/fbda1a)
 * [Can AI Let Justice Be Done?](https://thegradient.pub/robot-judges/)
-    Learning with Sparse Latent Structure
+* Learning with Sparse Latent Structure
 * https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer
 * [Extrapolation - an overview | ScienceDirect Topics](https://www.sciencedirect.com/topics/social-sciences/extrapolation)
 * [Underspecification Presents Challenges for Credibility in Modern Machine Learning](https://arxiv.org/abs/2011.03395)
@@ -4796,10 +4651,10 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Introducción a Aprendizaje de Maquina](https://fr.slideshare.net/tuxtor/introduccin-a-aprendizaje-de-maquina)
 * [Introducción a la Teoría de Aprendizaje de Máquina y sus Aplicaciones: Un Tutorial Visual con Ejemplos | Toptal](https://www.toptal.com/machine-learning/introducci%C3%B3n-a-la-teor%C3%ADa-de-aprendizaje-de-m%C3%A1quina-y-sus-aplicaciones-un-tutorial-visual-con-ejemplos/es)
 * [A friendly introduction to Bayes Theorem and Hidden Markov Models - YouTube](https://www.youtube.com/watch?v=kqSzLo9fenk)
-    An Introduction to Conditional Random Fields for Relational Learning
+* An Introduction to Conditional Random Fields for Relational Learning
 * [Building Machine Learning Powered Applications: Going From Idea to Product | Emmanuel Ameisen | download](https://de1lib.org/book/5342395/bfb81e?dsource=recommend)
 * [Chris Tralie - YouTube](https://www.youtube.com/c/ChrisTralie/playlists)
-    Classical Probabilistic Models and Conditional Random Fields
+* Classical Probabilistic Models and Conditional Random Fields
 * [CRF Paper](http://www.cs.columbia.edu/~jebara/6772/papers/crf.pdf)
 * [Diffgram Slack](https://app.slack.com/client/T02A3J6MBS7/C02A0BFUWER)
 * [Discriminative Training](http://www.seas.ucla.edu/spapl/weichu/htkbook/node149_mn.html)
@@ -4820,7 +4675,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * https://www.tobiolabode.com/blog/2021/5/16/short-list-of-ml-ops-resources
 * [Hugo Larochelle - YouTube](https://www.youtube.com/channel/UCiDouKcxRmAdc5OeZdiRwAg)
 * [I would love your thoughts on this: Data-centric AI is still an emerging field, but what do you think are the key pillars of data-centric AI? E.g., if you were reading a textbook on this nascent field, what are some major topics you’d like the book to include?](https://twitter.com/andrewyng/status/1440760241772122123?s=27)
-    kernel density estimation
+* kernel density estimation
 * [Lex Fridman Podcast - Lex Fridman](https://lexfridman.com/podcast/)
 * [Linear discriminant analysis - Wikipedia](https://en.wikipedia.org/wiki/Linear_discriminant_analysis)
 * [Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps | Valliappa Lakshmanan, Sara Robinson, Michael Munn | download](https://de1lib.org/book/16984074/61b39d)
@@ -4837,7 +4692,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [How to represent part-whole hierarchies in a neural network](https://arxiv.org/pdf/2102.12627.pdf)
 * [Understanding How Encoder-Decoder Architectures Attend](https://arxiv.org/abs/2110.15253)
 * https://composevisualrelations.github.io/
-    Paper Sources
+* Paper Sources
 * https://www.kdnuggets.com/2018/03/top-20-deep-learning-papers-2018.html
 * https://www.kdnuggets.com/2018/03/weird-introduction-deep-learning.html
 * [Jake Snell](https://www.jakesnell.com/)
@@ -4848,7 +4703,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Your First Machine Learning Project in Python Step-By-Step - Machine Learning Mastery](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 * https://github.com/ageron/handson-ml/blob/master/02_end_to_end_machine_learning_project.ipynb
 * [12-Hour Machine Learning Challenge: Build & deploy an app with Streamlit and DevOps tools](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=40e6a65006&e=b34ab4e857)
-    Applications
+* Applications
 * [12 Real-World Applications of Machine Learning in Healthcare](http://datascience.getresponse360.com/click.html?x=a62e&lc=u9f&mc=j&s=jFaI&u=F&y=c&z=wjsAN95&)
 * [Aplicações Práticas de Machine Learning - YouTube](https://www.youtube.com/watch?v=Vh3pXNUuWws)
 * [aprendizaje-maquina/r at master · animalito/aprendizaje-maquina · GitHub](https://github.com/animalito/aprendizaje-maquina/tree/master/r)
@@ -4866,7 +4721,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html
 * https://github.com/CrimyTheBold/tripletloss
 * [An Introduction to Unsupervised Learning via Scikit Learn | Bugra Akyildiz](http://bugra.github.io/work/notes/2014-11-16/an-introduction-to-unsupervised-learning-scikit-learn/)
-    GMap: Visualizing Graphs and Clusters as Maps
+* GMap: Visualizing Graphs and Clusters as Maps
 * [Lissajous curves - visualization](https://www.youtube.com/watch?v=sdKwbA0lgFE&feature=emb_title)
 * [Визуализация данных](https://www.lektorium.tv/course/29184)
 * [Визуализация данных | Александр Дайняк](https://www.youtube.com/watch?v=qhNkjC_Yjag&list=PL-_cKNuVAYAXCa4FxPy9oi3_76gjSqacM)
@@ -4898,7 +4753,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * https://stackoverflow.com/questions/9729968/python-implementation-of-viterbi-algorithm
 * [Viterbi Algorithm](https://youtu.be/0dVUfYF8ko0)
 * [viterbi github](https://github.com/AustinRochford/hmm/blob/master/python/viterbi.py)
-    - [***** viterbi github](https://github.com/AustinRochford/hmm/blob/master/python/viterbi.py)
+    - [* viterbi github](https://github.com/AustinRochford/hmm/blob/master/python/viterbi.py)
 * [FB vs Viterbi](https://stats.stackexchange.com/questions/31746/what-is-the-difference-between-the-forward-backward-and-viterbi-algorithms)
 * [HMM– Baum Welsh and Viterbi Algorithms](https://youtu.be/h22nGEF8PUo)
 * [Viterbi-Algorithmus – Wikipedia](https://de.wikipedia.org/wiki/Viterbi-Algorithmus)
@@ -4954,7 +4809,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Shannon Entropy and Information Gain - YouTube](https://www.youtube.com/watch?v=9r7FIXEAGvs)
 * [Kullback-Leibler Divergence and Cross-Entropy - Deep Learning Blog](https://himarora.github.io/probability%20and%20information%20theory/kl-divergenece-cross-entropy/)
 * [Cross-entropy for classification. Binary, multi-class and multi-label… | by Vlastimil Martinek | Towards Data Science](https://towardsdatascience.com/cross-entropy-for-classification-d98e7f974451)
-    Statistical Inference for Data Scientists (Caffo)
+* Statistical Inference for Data Scientists (Caffo)
 * [Statistical Inference for Engineers and Data Scientists](http://libgen.rs/book/index.php?md5=EBE0282102B742579D058D4165EF17FD)
 * https://colah.github.io/posts/2015-09-Visual-Information/
 * [A high-bias, low-variance introduction to Machine Learning for physicists](https://arxiv.org/abs/1803.08823)
@@ -4975,9 +4830,9 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [OctaveTutorialAndrewNg.pdf](http://www.opengardensblog.futuretext.com/wp-content/uploads/2014/03/OctaveTutorialAndrewNg.pdf)
 * [Сделал генетический алгоритм | симуляция ЭВОЛЮЦИИ - YouTube](https://www.youtube.com/watch?v=JaPwn-pvHTs)
 * https://42papers.com/
-    Probabilistic Graphical Models: Principles and Techniques (Adaptive Computation and Machine Learning series)
+* Probabilistic Graphical Models: Principles and Techniques (Adaptive Computation and Machine Learning series)
 * [OML ***](https://en.m.wikipedia.org/wiki/Online_machine_learning)
-    Artificial Intelligence: A Guide for Thinking Humans
+* Artificial Intelligence: A Guide for Thinking Humans
 * https://meltano.com/
 * [KrashheR](https://www.youtube.com/channel/UCqcRFvvwQSMWJZV-Y8ai_Ug)
 * [Interpretability in Machine Learning: An Overview](https://thegradient.pub/interpretability-in-ml-a-broad-overview/)
@@ -5001,18 +4856,18 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [¿Cómo funciona una Red Neuronal Recurrente? | Curso redes neuronales recurrentes – Parte 2](https://www.youtube.com/watch?v=hB4XYst_t-I&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=93)
     ¿Qué es una Red Neuronal? Parte 2 : La Red | DotCSV
 * [👉🔴REDES NEURONALES RECURRENTES RRN y LSTM - IA (2019) - TEORIA (1)](https://www.youtube.com/watch?v=M7wOXzLzuek&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=92)
-    01. It is time for a theory of deep learning. Tomaso Poggio
-    3 Maneras de Programar a una RED NEURONAL - Tensorflow, Keras, Sklearn
-    6. Рекуррентные нейронные сети | Краткий курс по нейронным сетям
-    9. НЕЙРОННЫЕ СЕТИ. Рекуррентные сети | Технострим
-    Abstract Meaning Representation Parsing using LSTM Recurrent Neural Networks | ACL 2017
+* 01. It is time for a theory of deep learning. Tomaso Poggio
+* 3 Maneras de Programar a una RED NEURONAL - Tensorflow, Keras, Sklearn
+* 6. Рекуррентные нейронные сети | Краткий курс по нейронным сетям
+* 9. НЕЙРОННЫЕ СЕТИ. Рекуррентные сети | Технострим
+* Abstract Meaning Representation Parsing using LSTM Recurrent Neural Networks | ACL 2017
 * [An Introduction to GPU Programming with CUDA](https://www.youtube.com/watch?v=1cHx1baKqq0&list=WL&index=448)
 * [An Introduction to LSTMs in Tensorflow](https://www.youtube.com/watch?v=l4X-kZjl1gs&list=WL&index=624)
 * [MIT 6.S191 (2019): Introduction to Deep Learning](https://www.youtube.com/watch?v=5v1JnYv_yWs&list=WL&index=496)
-    MIT Deep Learning Basics: Introduction and Overview
+* MIT Deep Learning Basics: Introduction and Overview
 * [Most Research in Deep Learning is a Total Waste of Time - Jeremy Howard | AI Podcast Clips](https://www.youtube.com/watch?v=Bi7f1JSSlh8&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=35)
 * [Movement Pruning: Adaptive Sparsity by Fine-Tuning](https://arxiv.org/abs/2005.07683)
-    Neural Network 3D Simulation
+* Neural Network 3D Simulation
 * [Neural Network Architectures and Deep Learning](https://www.youtube.com/watch?v=oJNHXPs0XDk&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=145)
 * [Neural Network Learns to Play Snake](https://www.youtube.com/watch?v=zIkBYwdkuTk&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=144)
 * [Neural Networks from Scratch - P.1 Intro and Neuron Code](https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=168&t=14s)
@@ -5032,7 +4887,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Understanding Graph Convolutional Networks for Node Classification](https://towardsdatascience.com/understanding-graph-convolutional-networks-for-node-classification-a2bfdb7aba7b)
 * [Welch Labs](https://www.youtube.com/c/WelchLabsVideo)
 * [What does it mean to understand a neural network?](https://vk.com/away.php?to=http%3A%2F%2Farxiv.org%2Fabs%2F1907.06374&post=-138477641_12126)
-    Xavier Bresson: "Convolutional Neural Networks on Graphs"
+* Xavier Bresson: "Convolutional Neural Networks on Graphs"
     Архитектуры нейронных сетей. Часть 2: Продвинутые конфигурации
     Глубокие рекуррентные нейронные сети
 * [Делаю нейросеть с нуля](https://www.youtube.com/watch?v=GNcGPw_Kb_0&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=169&t=35s)
@@ -5051,14 +4906,14 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [[R] has machine learning ever been used to analyze neural network configurations?](https://www.reddit.com/r/MachineLearning/comments/idy1jb/r_has_machine_learning_ever_been_used_to_analyze/)
 * [Bayesian Deep Learning](http://bayesiandeeplearning.org/)
 * [Brandon Rohrer](https://www.youtube.com/c/BrandonRohrer)
-    Building Neural Network Models That Can Reason
+* Building Neural Network Models That Can Reason
 * https://github.com/deepmind/trfl
 * [Implementación de redes recurrentes (tutorial keras) | Curso redes neuronales recurrentes – Parte 3](https://www.youtube.com/watch?v=aA9QaPu_QpA&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=98)
 * [Install & running Mxnet in Mac. Deep Learning topic](https://www.reddit.com/r/rstats/comments/hsialc/install_running_mxnet_in_mac_deep_learning_topic/)
 * [Introducción a las Redes Neuronales Recurrentes | Curso redes neuronales recurrentes – Parte 1](https://www.youtube.com/watch?v=bKkjQx_PS_M&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=90)
 * [Jeremy Howard: Deep Learning Frameworks - TensorFlow, PyTorch, fast.ai | AI Podcast Clips](https://www.youtube.com/watch?v=XHyASP49ses&list=WL&index=1448)
 * [Keras - Usando redes neurais LSTM para classificar sentimentos](https://www.youtube.com/watch?v=bIcadBu--u8&list=WL&index=621)
-    Le deep learning
+* Le deep learning
 * [Lecture 10 - Neural Networks](https://www.youtube.com/watch?v=Ih5Mr93E-2c&list=WL&index=474)
 * [Les réseaux de capsules (Capsule Networks)](https://www.youtube.com/watch?v=BJBxae3c1H4&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=178)
 * [Les réseaux récurrents (RNN) | Intelligence artificielle 46](https://www.youtube.com/watch?v=XuAz0ZsjKss&list=WL&index=619)
@@ -5081,7 +4936,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [deeplizard](https://www.youtube.com/c/deeplizard)
 * [DeepMind](https://www.youtube.com/c/DeepMind)
 * [DeepMind Reinforcement Learning](https://www.youtube.com/watch?v=N0Ld2iTMaMs&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=179)
-    DeepNude, la IA que TE DESNUDA + (cGANs y Pix2Pix) - Data Coffee #11
+* DeepNude, la IA que TE DESNUDA + (cGANs y Pix2Pix) - Data Coffee #11
 * [dl3d Paper list](https://github.com/craffel/dl3d-seminar/blob/master/papers.md)
 * [EH2018-10 - Modèle : Réseaux récurrents (Partie 1) - César Laurent](https://www.youtube.com/watch?v=dOpgDv88UOo&list=WL&index=618)
 * [Jacobi's Formula for the Derivative of a Determinant](https://people.eecs.berkeley.edu/~wkahan/MathH110/jacobi.pdf)
@@ -5107,7 +4962,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Understanding and coding Neural Networks From Scratch in Python and R](https://www.analyticsvidhya.com/blog/2017/05/neural-network-from-scratch-in-python-and-r/)
 * [GitHub - zishansami102/CNN-from-Scratch: A scratch implementation of Convolutional Neural Network in Python using only numpy and validated over CIFAR-10 & MNIST Dataset](https://github.com/zishansami102/CNN-from-Scratch)
 * [CNN from scratch - Поиск в Google](https://www.google.com/search?q=CNN+from+scratch&rlz=1C1GCEA_enUS846&oq=CNN+from+scratch&aqs=chrome..69i57j0l5.3424j0j7&sourceid=chrome&ie=UTF-8)
-        *[*******Deep Learning From Scratch I: Computational Graphs - deep ideas](http://www.deepideas.net/deep-learning-from-scratch-i-computational-graphs/)
+        *[***Deep Learning From Scratch I: Computational Graphs - deep ideas](http://www.deepideas.net/deep-learning-from-scratch-i-computational-graphs/)
 * [Building a neural network from scratch in R · Tea & Stats](https://selbydavid.com/2018/01/09/neural-network/)
 * [tostq/DeepLearningC: Simple program to learn CNN (LeNet-5) in pure C](https://github.com/tostq/DeepLearningC)
 * [makeyourownneuralnetwork (Tariq Rashid)](https://github.com/makeyourownneuralnetwork)
@@ -5128,11 +4983,11 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Overcoming catastrophic forgetting in neural networks](https://www.pnas.org/content/114/13/3521)
 * [Opening the Black Box of Deep Neural Networks via Information](https://arxiv.org/abs/1703.00810)
 * [ON THE INFORMATION BOTTLENECK THEORY OF DEEP LEARNING](https://openreview.net/pdf?id=ry_WPG-A-)
-    A Machine Learning Approach Towards Automatic Software Design Pattern Recognition Across Multiple Programming Languages (paper)
+* A Machine Learning Approach Towards Automatic Software Design Pattern Recognition Across Multiple Programming Languages (paper)
 * https://github.com/chrhenning/hypercl
 * https://newsletter.ruder.io/issues/eacl-iclr-naacl-papers-round-up-research-reality-checks-ml-on-code-592784
 * [Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!](https://reposhub.com/python/deep-learning/floodsung-Deep-Learning-Papers-Reading-Roadmap.html)
-    - [*******Deep Learning Papers Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+    - [***Deep Learning Papers Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 * [CS 233 Main Page](http://cs233.stanford.edu/)
 * [Teaching - CS 230](https://stanford.edu/~shervine/teaching/cs-230/)
 * [Neuronale Netze](https://www.paukert.at/psycho/neuronet.pdf)
@@ -5189,7 +5044,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [3.1. Cross-validation: evaluating estimator performance — scikit-learn 0.20.2 documentation](https://scikit-learn.org/stable/modules/cross_validation.html#cross-validation)
 * http://scikit-learn.org/stable/datasets/index.html
 * [Home - Scikit-garden](https://scikit-garden.github.io/)
-    b-ok machine learning with R
+* b-ok machine learning with R
 * https://snapml.readthedocs.io/en/latest/
 * http://scikit-learn.org/stable/documentation.html
 * http://cedric.cnam.fr/vertigo/Cours/ml/tpIntroductionScikitLearn.html
@@ -5204,7 +5059,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Steve Brunton](https://www.youtube.com/c/Eigensteve) (***)
 * https://grakn.ai/ (kd)
 * [If the idea of tech not being neutral is new to you, or if you think of tech as just a tool (that is equally likely to be used for good or bad), I want to share some resources & examples in this thread. Please feel free to suggest/add additional resources! 1/](https://twitter.com/math_rachel/status/1274908170901569537?s=20) (phil)
-    K.I. Wohin programmieren wir uns? - RICHARD DAVID PRECHT (phil)
+* K.I. Wohin programmieren wir uns? - RICHARD DAVID PRECHT (phil)
 * [A brief introduction to reinforcement learning](https://www.cs.ubc.ca/~murphyk/Bayes/pomdp.html)
 * [A.I. Learns to play Snake using Deep Q Learning](https://www.youtube.com/watch?v=-NJ9frfAWRo&list=WL&index=1450)
 * [Abstraction in Reinforcement Learning](https://www.youtube.com/watch?v=KXJjuDOH690&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=185)
@@ -5226,7 +5081,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [11. Introduction to Machine Learning](https://www.youtube.com/watch?v=h0e2HAPTGF4&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=21)
 * [a Eurovision song created by Artificial Intelligence: Blue Jeans and Bloody Tears](https://www.youtube.com/watch?v=4MKAf6YX_7M&list=WL&index=1386)
 * [A Literature Review on Interpretability for Machine Learning | AISC](https://www.youtube.com/watch?v=E7Ssoa4jYqY&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=22)
-    A.I. Experiments: Visualizing High-Dimensional Space
+* A.I. Experiments: Visualizing High-Dimensional Space
 * [AI Data Scientist](https://www.youtube.com/channel/UCfw5jkUkJEdXt9A1EY9H61A)
 * [AI Humanities (Book Review)](https://www.youtube.com/watch?v=GlEUbETaoHk&list=WL&index=426)
 * [AI is an Ideology, Not a Technology](https://www.wired.com/story/opinion-ai-is-an-ideology-not-a-technology/)
@@ -5237,7 +5092,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [AIAR Labs](https://www.youtube.com/channel/UC6hLW-W8m0GdUgt_naSP5lg)
 * [An Introduction to Text Mining Research Design Data Collection and Analysis](https://b-ok.cc/book/3652083/e1d24a)
 * [Artificial Intelligence - All in One](https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg)
-    Artificial Intelligence Safety and Security (Chapman & Hall/CRC Artificial Intelligence and Robotics Series)
+* Artificial Intelligence Safety and Security (Chapman & Hall/CRC Artificial Intelligence and Robotics Series)
 * [MITCBMM](https://www.youtube.com/c/MITCBMM)
 * [ML Explained - A.I. Socratic Circles - AISC](https://www.youtube.com/c/AISocraticCirclesAISC)
 * [ML short videos RU](https://vk.com/wall-16108331_152708)
@@ -5248,13 +5103,13 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [QR Zerlegung (mit Gram Schmidt Orthogonalisierung)](https://www.youtube.com/watch?v=VjInAbfpJIU&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=110)
 * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 * [SVD & recommender RU](https://vk.com/wall-138477641_12360)
-    The danger of AI is weirder than you think | Janelle Shane
+* The danger of AI is weirder than you think | Janelle Shane
 * [The Paradox of Choice & Morality: How Intelligent is A.I. ?- Nick Bostrom - WGS 2018](https://www.youtube.com/watch?v=hK2s5ZPq87A&list=WL&index=348)
-    There is No Algorithm for Truth - with Tom Scott
+* There is No Algorithm for Truth - with Tom Scott
 * [Une intelligence artificielle peut-elle être créative ?](https://www.youtube.com/watch?v=xuBzQ38DNhE&list=WL&index=347)
 * [Using GitHub Actions for MLOps & Data Science](https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/)
 * [Visual Guide: Random Forests](https://www.reddit.com/r/learnmachinelearning/comments/ijl6mx/visual_guide_random_forests/)
-    why are people getting excited about 600B parameter models when gaussian processes have been equivalent to infinitely wide neural networks for 25 years
+* why are people getting excited about 600B parameter models when gaussian processes have been equivalent to infinitely wide neural networks for 25 years
 * [Yvan Monka](https://www.youtube.com/c/YMONKA)
 * [Zero Shot Pipeline.ipynb](https://colab.research.google.com/drive/1jocViLorbwWIkTXKwxCOV9HLTaDDgCaw?usp=sharing)
 * [Zero Shot Topic Classification](https://huggingface.co/zero-shot/)
@@ -5278,9 +5133,9 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Introduction to Algorithms for Data Mining and Machine Learning](https://b-ok.cc/book/5208178/a85ea0)
 * [Introduction to Data Mining](https://b-ok.cc/book/3508878/d346cf)
 * [Introduction to Data Mining](https://b-ok.cc/book/3495404/c6a5c6)
-    Künstliche Intelligenz Special: Künstliche neuronale Netze - Computer lernen sehen | Phil's Physics
+* Künstliche Intelligenz Special: Künstliche neuronale Netze - Computer lernen sehen | Phil's Physics
 * [Lecture 47 — Singular Value Decomposition | Stanford University](https://www.youtube.com/watch?v=P5mlg91as1c&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=107)
-    Les enfers artificiels - DBY #13
+* Les enfers artificiels - DBY #13
 * [Lex Fridman](https://www.youtube.com/c/lexfridman)
 * [Luis Serrano](https://www.youtube.com/c/LuisSerrano)
 * [Machine Learning](https://www.reddit.com/r/Python/?f=flair_name%3A%22Machine%20Learning%22)
@@ -5292,11 +5147,11 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Computing the Singular Value Decomposition | MIT 18.06SC Linear Algebra, Fall 2011](https://www.youtube.com/watch?v=cOUTpqlX-Xs&list=WL&index=535)
 * [Decision Trees in Python from Start to Finish](https://www.youtube.com/watch?v=q90UDEgYqeI&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=28)
 * [Data Mining: Practical Machine Learning Tools and Techniques, Fourth Edition](https://b-ok.cc/book/2819563/19de1e)
-    Der große Umbruch - Wie Künstliche Intelligenz unseren Alltag verändert
+* Der große Umbruch - Wie Künstliche Intelligenz unseren Alltag verändert
 * [Die Singulärwertzerlegung (Numerik)](https://www.youtube.com/watch?v=nL_ixevUYZ8&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=105)
 * [Dimensionality Reduction - The Math of Intelligence #5](https://www.youtube.com/watch?v=jPmV3j1dAv4&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=120)
 * [Discovering Knowledge in data An Introduction to Data Mining](https://b-ok.cc/book/2549699/dfc8ea)
-    El Meme que entrenó a una IA | BITS
+* El Meme que entrenó a una IA | BITS
 * [Ensembles (3): Gradient Boosting](https://www.youtube.com/watch?v=sRktKszFmSk&list=WL&index=298)
 * [Excellent NL/RL videos](https://vk.com/wall-138979736_1595)
 * [Exploring and Analyzing Network Data with Python](https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python)
@@ -5308,18 +5163,8 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [How to find Singular Value Decomposition quick and easy - Linear algebra explained right](https://www.youtube.com/watch?v=Ls2TgGFfZnU&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=106)
 * [How to make Support Vector Machines run more than 100x faster](https://www.reddit.com/r/Python/comments/igl2qn/how_to_make_support_vector_machines_run_more_than/)
 * [Ritvik](https://www.youtube.com/c/ritvikmath/playlists)
-* [machine learning - Relation between size of parameters and complexity of model with overfitting - Cross Validated](https://stats.stackexchange.com/questions/420343/relation-between-size-of-parameters-and-complexity-of-model-with-overfitting/420354)
-    **[Joint Training for Neural Machine Translation](http://library.lol/main/CBE809B6F061DCAF290FE5FA25D40FD9)**
-    **[Neural Machine Translation](http://library.lol/main/52A588D3191CC0D801294BE29509441F)**
-    **[Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 8 – Translation, Seq2Seq, Attentio](https://www.youtube.com/watch?v=XXtpJxZBa2c)**
-    **[Neural Machine Translation Tutorial - An introduction to Neural Machine Translation](https://www.youtube.com/watch?v=B8g-PNT2W2Q)**
-    **[Neural Machine Translation : Everything you need to know](https://www.youtube.com/watch?v=yM2wqxhOb74)**
-    **[The Essential Guide to Neural MT #1 : Intro to Neural Machine Translation Part 1](https://www.youtube.com/watch?v=D1kSz6qZ288)**
-    **[The Essential Guide to Neural MT #2 : Intro to Neural Machine Translation Part 2](https://www.youtube.com/watch?v=o041jL4Ip5c)**
-    **[Introduction to Neural Machine Translation by Philipp Koehn](https://www.youtube.com/watch?v=oP-oZl8Hedw)**
-    **[How Google Translate Works - The Machine Learning Algorithm Explained!](https://www.youtube.com/watch?v=AIpXjFwVdIE)**
-    **[Pytorch Seq2Seq Tutorial for Machine Translation](https://www.youtube.com/watch?v=EoGUlvhRYpk)**
-    **idiomatic expressions in neural machine translation**
+* [machine learning - Relation between size of parameters and complexity of model with overfitting - Cross Validated](https://stats.stackexchange.com/questions/420343/relation-between-size-of-parameters-and-complexity-of-model-with-overfitting/420354)    * [Joint Training for Neural Machine Translation](http://library.lol/main/CBE809B6F061DCAF290FE5FA25D40FD9)    * [Neural Machine Translation](http://library.lol/main/52A588D3191CC0D801294BE29509441F)    * [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 8 – Translation, Seq2Seq, Attentio](https://www.youtube.com/watch?v=XXtpJxZBa2c)    * [Neural Machine Translation Tutorial - An introduction to Neural Machine Translation](https://www.youtube.com/watch?v=B8g-PNT2W2Q)    * [Neural Machine Translation : Everything you need to know](https://www.youtube.com/watch?v=yM2wqxhOb74)    * [The Essential Guide to Neural MT #1 : Intro to Neural Machine Translation Part 1](https://www.youtube.com/watch?v=D1kSz6qZ288)    * [The Essential Guide to Neural MT #2 : Intro to Neural Machine Translation Part 2](https://www.youtube.com/watch?v=o041jL4Ip5c)    * [Introduction to Neural Machine Translation by Philipp Koehn](https://www.youtube.com/watch?v=oP-oZl8Hedw)    * [How Google Translate Works - The Machine Learning Algorithm Explained!](https://www.youtube.com/watch?v=AIpXjFwVdIE)    * [Pytorch Seq2Seq Tutorial for Machine Translation](https://www.youtube.com/watch?v=EoGUlvhRYpk)
+    idiomatic expressions in neural machine translation
 * https://de.wikipedia.org/wiki/Quantilsregression
 * [Learning GNU Emacs](http://library.lol/main/71BED71B902A804CB4056BF7B807BBE7)
 * https://www.paperdigest.org/search/
@@ -5337,7 +5182,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Alignment-Based Neural Machine Translation](https://www.aclweb.org/anthology/W16-2206.pdf)
 * [End-to-End Lexically Constrained Machine Translation for Morphologically Rich Languages](https://arxiv.org/abs/2106.12398)
 * [Multitask Learning](https://link.springer.com/content/pdf/10.1023/A:1007379606734.pdf)
-    An overview of multi-task learning (Drive)
+* An overview of multi-task learning (Drive)
 * [DeepLearningAudioMusic.pdf](https://perso.telecom-paristech.fr/grichard/Enseignements/MVA/DeepLearningAudioMusic.pdf)
 * https://thegradient.pub/knocking-on-turings-door-quantum-computing-and-machine-learning/
 * [Predicting Structured Data (Neural Information Processing)](https://de.de1lib.org/book/935748/c46ab9)
@@ -5354,14 +5199,14 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * https://vk.com/@bezwindowsa-neiroset-dlya-razrabotchikov-c
 * http://gaugan.org/gaugan2/
 * https://rudalle.ru/
-    Electronic Brains
-    Data Exploration with Adversarial Autoencoders
-    Applied Deep Learning
-    siamese autoencoder (second loss from difference between output and some other representation, or even triplet loss)
+* Electronic Brains
+* Data Exploration with Adversarial Autoencoders
+* Applied Deep Learning
+* siamese autoencoder (second loss from difference between output and some other representation, or even triplet loss)
 * [Deep Learning Essentials: Your hands-on guide to the fundamentals of deep learning and neural network modeling (English Edition)](http://library.lol/main/07F1BA7E0A6D6460DD6A9F992F25834C)
 * https://thegradient.pub/explain-yourself/
 * [Deep Learning for Computer Architects](http://library.lol/main/AB710DE7AB16389984A71CB404155CA7)
-    Neural Cellular Automata (→ application to algorithmic tasks)
+* Neural Cellular Automata (→ application to algorithmic tasks)
 * [Intelligence artificielle vulgarisée: Le machine learning et le deep learning par la pratique](https://de1lib.org/book/5311191/7072b3)
 * [Introduction au Deep Learning](https://de1lib.org/book/12340816/dc7f40)
 * [Deep Learning in Practice](http://library.lol/main/D9BB97CEFC60AFAD4EE37AC40A758E66)
@@ -5379,11 +5224,10 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * http://dlib.net/books.html
 * [Best Machine Learning Books (Updated for 2020)](https://blog.floydhub.com/best-machine-learning-books/)
 * [Applied Neural Networks with TensorFlow 2: API Oriented Deep Learning with Python](http://libgen.is/book/index.php?md5=BB84DD2ACCA9A1E06E4B3E9FC0D0B7C0)
-* [Adversarial Machine Learning](http://library.lol/main/B54EABE4B4763CECA8B39FD28644C678)
-    **[Learning Probabilistic Graphical Models in R: Familiarize yourself with probabilistic graphical models through real-world problems and illustrative code examples in R](http://library.lol/main/1A9BF161D84A1A9C52AAF99DC207C4AC)**
+* [Adversarial Machine Learning](http://library.lol/main/B54EABE4B4763CECA8B39FD28644C678)    * [Learning Probabilistic Graphical Models in R: Familiarize yourself with probabilistic graphical models through real-world problems and illustrative code examples in R](http://library.lol/main/1A9BF161D84A1A9C52AAF99DC207C4AC)
     ***Introduction to Information Retrieval
-    Staab teaching history (with materials)
-    Practical Machine Learning With Rust
+* Staab teaching history (with materials)
+* Practical Machine Learning With Rust
 * [Encyclopedia of Big Data](http://library.lol/main/F971988EF0CD2376B92C68F4176AC5BA)
 * [Advanced Data Analytics Using Python with Machine Learning, Deep Learning and NLP Examples](http://library.lol/main/D433FD74DACE540156F6CAA802036520)
 * [MACHINE LEARNING WITH PYTORCH AND SCIKIT-LEARN : develop machine learning and deep learning... models with scikit-learn and pytorch.](http://library.lol/main/FD45745F953E0C8262C057AB7A36BC42)
@@ -5407,8 +5251,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Hands-on matrix algebra using R : active and motivated learning with applications](http://library.lol/main/6F638DA173E7B73DFD5158D4C0FE778A)
 * [Statistical learning with sparsity : the lasso and generalizations.](http://library.lol/main/4C2A72402758494519D08AE74E041223)
 * [Computer Age Statistical Inference: Algorithms, Evidence, and Data Science](http://library.lol/main/5CCB54BF967037C985023118E28301CD)
-* [An Introduction to Statistical Learning - with Applications in R](http://library.lol/main/20297C56F38E00DE46F444F48B8B7789)
-    **[Deep Learning with R](http://library.lol/main/7CEDBC8877F6D02EC575381444340A9A)**
+* [An Introduction to Statistical Learning - with Applications in R](http://library.lol/main/20297C56F38E00DE46F444F48B8B7789)    * [Deep Learning with R](http://library.lol/main/7CEDBC8877F6D02EC575381444340A9A)
 * [Deep Learning with R Cookbook: Over 45 unique recipes to delve into neural network techniques using R 3.5.x](http://library.lol/main/52FA273EC3AF032F391A7D6ACB5A2FC2)
 * [Глубокое обучение.pdf - Google Drive](https://drive.google.com/file/d/1rtoJepwq1Pl64gHC7Mk7v-3zqM8NUhep/view)
 * [Deep Learning: Fundamentals, Theory and Applications](http://library.lol/main/D1CDCB39EA04510FDBABEB805CA4AFCA)
@@ -5420,8 +5263,8 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [TensorFlow for Dummies](http://93.174.95.29/_ads/87AD36AA73A5E3B788F8D1AC0EE15233)
 * [TensorFlow in 1 Day Make your own Neural Network](http://93.174.95.29/_ads/8414B90BB8253992152F64A9ABB95D6F)
 * [TensorFlow 2 Machine Learning Cookbook](https://b-ok.global/book/3600731/bb0f38)
-    Space-Time Computing with Temporal Neural Networks
-    Principles of Artificicial Neural Networks (Graupe)
+* Space-Time Computing with Temporal Neural Networks
+* Principles of Artificicial Neural Networks (Graupe)
 * [R Deep Learning Cookbook: Solve complex neural net problems with TensorFlow, H2O and MXNet](http://library.lol/main/F7E06AC4F57F3F61F78FD488C1133F88)
 * [Generative Adversarial Networks Projects : Build Next-Generation Generative Models Using TensorFlow and Keras.](http://93.174.95.29/_ads/5D1D282E63C595C33D8953768EC5DC0D)
 * [Convolutional Neural Networks in Python: Master Data Science and Machine Learning with Modern Deep Learning in Python, Theano, and TensorFlow (Machine Learning in Python)](https://b-ok.cc/book/2740843/6cf9f9)
@@ -5447,7 +5290,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Encyclopedia of Machine Learning - Springer, 1,030 pages](http://datascience.getresponse360.com/click.html?x=a62e&lc=ufD&mc=j&s=jFaI&u=F&y=S&z=wuJpFuv&)
 * [The Data Mining and Knowledge Discovery Handbook - Springer, 1,383 pages](http://datascience.getresponse360.com/click.html?x=a62e&lc=ufR&mc=j&s=jFaI&u=F&y=5&z=welHjwe&)
 * [RL-Bücher](https://www.amazon.de/s?k=reinforcement+learning&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss_2)
-    Sciences of the Artificial
+* Sciences of the Artificial
 * [Latent Variable Models: An Introduction to Factor, Path, and Structural Equation Analysis | John C. Loehlin, A. Alexander Beaujean | download](https://b-ok.cc/book/2883651/a07636)
 * [Latent Variable Models and Factor Analysis: A Unified Approach | David J. Bartholomew, Martin Knott, Irini Moustaki | download](https://b-ok.cc/book/2224899/d5d8a7)
 * [Latent Variable Modeling with R | W. Holmes Finch, Brian F. French | download](https://b-ok.cc/book/2563367/427b26)
@@ -5490,7 +5333,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Handbook of latent variable and related models](https://libgen.is/book/index.php?md5=96F26C0B43D35A2A2A33F9603741DA73)
 * [Cognitive Computing: Theory and Applications](https://libgen.is/book/index.php?md5=3A25EA2F218739870A43B36732F4B9C4)
 * [Proceedings of Machine Learning Research](http://proceedings.mlr.press/)
-    Artificial Intelligence and the End of the Human Era
+* Artificial Intelligence and the End of the Human Era
 * [Elements of artificial intelligence: an introduction using LISP | S. Tanimoto | download](https://b-ok.cc/book/437029/c8d9f9?dsource=recommend)
 * [Data Mining and Knowledge Discovery via Logic-Based Methods: Theory, Algorithms, and Applications | Evangelos Triantaphyllou (auth.) | download](https://b-ok.cc/book/747184/2ffbda)
 * [Hands-On Meta Learning with Python: Meta learning using one-shot learning, MAML, Reptile, and Meta-SGD with TensorFlow (Codes) | Sudharsan Ravichandiran | download](https://b-ok.cc/book/5211381/42f669)
@@ -5517,50 +5360,50 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [8_McGrawHill_-_Machine_Learning_-Tom_Mitchell(proglib).pdf](https://vk.com/doc10903696_437487076?hash=32d226f1a1e04f8d3b&dl=45b2bfc246ef669453)
 * [9_Machine_Learning_Neural_And_Statistical_Classification_proglib.pdf](https://vk.com/doc7608079_443009922?hash=f21ef9e1b63a0cfd23&dl=cd902f909344d18b5c)
 * [Advanced ML with R](https://www.google.com/search?q=Advanced+Machine+Learning+with+R+pdf&rlz=1C5CHFA_enUS800US800&oq=Advanced+Machine+Learning+with+R+pdf&aqs=chrome..69i57.760j0j4&sourceid=chrome&ie=UTF-8)
-    Adversarial Machine Learning
+* Adversarial Machine Learning
 * [An Introduction to Machine Learning_Miroslav Kubat_2nd ed. 2017](http://link.springer.com/openurl?genre=book&isbn=978-3-319-63913-0)
 * [An Introduction to Statistical Learning_Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani_2013](http://link.springer.com/openurl?genre=book&isbn=978-1-4614-7138-7)
 * [10_Introduction_To_Machine_Learning_proglib.pdf](https://vk.com/doc7608079_443009925?hash=0d291af83bc81a8108&dl=94fb47f6b340584325)
 * [The Elements of Statistical Learning_Trevor Hastie, Robert Tibshirani, Jerome Friedman_2nd ed. 2009](http://link.springer.com/openurl?genre=book&isbn=978-0-387-84858-7)
-    The Essentials of Data Science
-    Thoughtful Machine Learning
-    AI Books
+* The Essentials of Data Science
+* Thoughtful Machine Learning
+* AI Books
 * [Data Mining_Charu C. Aggarwal_2015](http://link.springer.com/openurl?genre=book&isbn=978-3-319-14142-8)
-    Grundlagen der digitalen Signalverarbeitung
+* Grundlagen der digitalen Signalverarbeitung
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems](http://93.174.95.29/_ads/E8D402A4186E521C64B9B08EC9798CB7)
-    Künstliche Intelligenz (Luger)
-    Künstliche Intelligenz Cleve
-    Künstliche Intelligenz Klenzen
+* Künstliche Intelligenz (Luger)
+* Künstliche Intelligenz Cleve
+* Künstliche Intelligenz Klenzen
 * [Künstliche Intelligenz: Mit Algorithmen zum wirtschaftlichen Erfolg](https://b-ok.cc/book/3663747/7ce407)
 * [Machine Learning in Medicine - a Complete Overview_Ton J. Cleophas, Aeilko H. Zwinderman_2015](http://link.springer.com/openurl?genre=book&isbn=978-3-319-15195-3)
-    Smarte Maschinen
-    Statistical Relational Artificial Intelligence. Logic, Probability and Computation
+* Smarte Maschinen
+* Statistical Relational Artificial Intelligence. Logic, Probability and Computation
 * [4_Information_Theory_Inference_and_Learning_Algorithms_proglib.pdf](https://vk.com/doc7608079_443009851?hash=4b540304678fcaf701&dl=215a1d38eecc787330)
 * [6_The_LION_Way_proglib.pdf](https://vk.com/doc7608079_443009890?hash=7bea75ef3c1e10a816&dl=de2ee385a5e098e748)
 * [An Introduction to Laplacian Spectral Distances and Kernels: Theory, Computation, and Applications](http://library.lol/main/828A8A3DECD5BDE7F5D51B33914AA64B)
 * [Bayesian Essentials with R_Jean-Michel Marin, Christian P. Robert_2nd ed. 2014](http://link.springer.com/openurl?genre=book&isbn=978-1-4614-8687-9)
-    Cognitive Computing
+* Cognitive Computing
 * [Introduction to Artificial Intelligence_Wolfgang Ertel_2nd ed. 2017](http://link.springer.com/openurl?genre=book&isbn=978-3-319-58487-4)
 * [Reasoning with Probabilistic and Deterministic Graphical Models: Exact Algorithms](http://library.lol/main/7932A6CBA8D576CE82E3388B0620EF12)
-    Reasoning with Probabilistic and Deterministic Graphical Models. Exact Algorithms
+* Reasoning with Probabilistic and Deterministic Graphical Models. Exact Algorithms
 * [Прикладное машинное обучение с помощью scikit-learn и tensorflow](http://93.174.95.29/_ads/3D8FC49632C78C16AEA77CA7D6894A6E)
 * [Lifelong Machine Learning [2nd ed.]](http://library.lol/main/E864220BF0599AE8CDE968067BAE80D5)
 * [Искусственный интеллект | Машинное обучение | Physics.Math.Code.Books](https://vk.com/topic-51126445_32505707)
 * [Introduction to Evolutionary Computing_A.E. Eiben, J.E. Smith_2nd ed. 2015](http://link.springer.com/openurl?genre=book&isbn=978-3-662-44874-8)
 * [Maschinelles Lernen (Alpaydin)](https://www.thalia.de/shop/home/artikeldetails/ID140872321.html?ProvID=11000522&gclid=Cj0KCQiAz53vBRCpARIsAPPsz8WQH-yIKByoBNXgt94RaQash4yHa9WlTRLe_6iQxi1AtfdUf_ph9y0aAgGxEALw_wcB)
-    Deep Learning with PyTorch Step-by-Step.pdf
-    Deep Learning with PyTorch
-    PyTorch Pocket Reference.pdf
-    Deep Learning with Python. Learn Best Practices of Deep Learning Models with PyTorch.pdf
-    Deep Learning with PyTorch 1.x.pdf
-    Image Processing Masterclass with Python.epub
-    Mastering PyTorch.pdf
-    PyTorch Artificial Intelligence Fundamentals.pdf
-    PyTorch Basics for Absolute Beginners.epub
-    PyTorch Computer Vision Cookbook.pdf
-    PyTorch Deep Learning Hands-On.pdf
-    PyTorch Recipes.pdf
-    The Deep Learning with PyTorch Workshop.pdf
+* Deep Learning with PyTorch Step-by-Step.pdf
+* Deep Learning with PyTorch
+* PyTorch Pocket Reference.pdf
+* Deep Learning with Python. Learn Best Practices of Deep Learning Models with PyTorch.pdf
+* Deep Learning with PyTorch 1.x.pdf
+* Image Processing Masterclass with Python.epub
+* Mastering PyTorch.pdf
+* PyTorch Artificial Intelligence Fundamentals.pdf
+* PyTorch Basics for Absolute Beginners.epub
+* PyTorch Computer Vision Cookbook.pdf
+* PyTorch Deep Learning Hands-On.pdf
+* PyTorch Recipes.pdf
+* The Deep Learning with PyTorch Workshop.pdf
     Знакомство с PyTorch.pdf
 * [TensorFlow 2 Pocket Reference](http://libgen.is/book/index.php?md5=A6372E87535BF7D8960C1986364C76B1)
 * [Artificial Neural Networks with TensorFlow 2: ANN Architecture Machine Learning Projects [1st ed.]](http://libgen.is/book/index.php?md5=63F8D4F5BC5F5D6E2FC72B014BE67C64)
@@ -5577,41 +5420,41 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Data Analysis_Siegmund Brandt_4th ed. 2014](http://link.springer.com/openurl?genre=book&isbn=978-3-319-03762-2)
 * [Data Science | Big Data | Работа с данными | Physics.Math.Code.Books](https://vk.com/topic-51126445_36220634)
 * [Data Science and Predictive Analytics_Ivo D. Dinov_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-72347-1)
-    Data Science Foundations
-    Data Science from Scratch
-    Data-Intensive Text Processing with MapReduce
+* Data Science Foundations
+* Data Science from Scratch
+* Data-Intensive Text Processing with MapReduce
 * handbuch Data Science
 * [The Data Science Design Manual_Steven S. Skiena_1st ed. 2017](http://link.springer.com/openurl?genre=book&isbn=978-3-319-55444-0)
 * [Big data integration](http://library.lol/main/4BB025D6D17FA088140CFF45A896DDE3)
 * [Bioinformatics for Evolutionary Biologists_Bernhard Haubold, Angelika Börsch- Haubold_1st ed. 2017](http://link.springer.com/openurl?genre=book&isbn=978-3-319-67395-0)
 * [Biomedical Informatics_Edward H. Shortliffe, James J. Cimino_4th ed. 2014](http://link.springer.com/openurl?genre=book&isbn=978-1-4471-4474-8)
-    books: bioinformatics
+* books: bioinformatics
 * [15 Books every Data Scientist Should Read - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/15-books-every-data-scientist-should-read)
 * [Applied Bioinformatics_Paul M. Selzer, Richard J. Marhöfer, Oliver Koch_2nd ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-68301-0)
 * [Applied Quantitative Finance_Wolfgang Karl Härdle, Cathy Yi-Hsuan Chen, Ludger Overbeck_3rd ed. 2017](http://link.springer.com/openurl?genre=book&isbn=978-3-662-54486-0)
 * [Excel Data Analysis_Hector Guerrero_2nd ed. 2019](http://link.springer.com/openurl?genre=book&isbn=978-3-030-01279-3)
-    Frontiers in Data Science
+* Frontiers in Data Science
 * [Introduction to Data Science_Laura Igual, Santi Seguí_1st ed. 2017](http://link.springer.com/openurl?genre=book&isbn=978-3-319-50017-1)
 * [Multimedia Big Data Computing for IoT Applications_Sudeep Tanwar, Sudhanshu Tyagi, Neeraj Kumar_1st ed. 2020](http://link.springer.com/openurl?genre=book&isbn=978-981-13-8759-3)
 * [Relational and XML Data Exchange](http://library.lol/main/7F38C2EE82618191DA5A57CA0B768A84)
-    Data Science with Julia
-    Data Science with R
-    A Course in Statistics with R
-    Data Science with R (Modern Mathematical Statistics)
-    Data Analytics
+* Data Science with Julia
+* Data Science with R
+* A Course in Statistics with R
+* Data Science with R (Modern Mathematical Statistics)
+* Data Analytics
 * https://youtu.be/fo-alw2q-BU
-    Doing Data Science
-    Agile Data Science
-    Data Science for Dummies
-    Analytics in a Big Data World
-    Principles of Data Science
-    The Art of Science
-    Data Science con Python
-    SQL Cookbook
-    Supercharged Python
-    TF in 1 Day
-    TF for Dummies
-    Statistics for Machine Learning
+* Doing Data Science
+* Agile Data Science
+* Data Science for Dummies
+* Analytics in a Big Data World
+* Principles of Data Science
+* The Art of Science
+* Data Science con Python
+* SQL Cookbook
+* Supercharged Python
+* TF in 1 Day
+* TF for Dummies
+* Statistics for Machine Learning
 * [Machine Learning - The Basics](https://arxiv.org/pdf/1805.05052.pdf)
 * hands-On Machine Learning in C++
 * [chiphuyen/machine-learning-systems-design: A booklet on machine learning systems design with exercises](https://github.com/chiphuyen/machine-learning-systems-design)
@@ -5620,16 +5463,16 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [everything processing](http://libgen.rs/book/index.php?md5=5B90FE8732A0CD9389288C7F4A88D4FB)
 * [Data Science at the Command Line: Obtain, Scrub, Explore, and Model Data with Unix Power Tools](http://library.lol/main/9E06296DC46CAA41AFD7F7A98C23B9B5)
 * [Dive into Deep Learning](https://d2l.ai/)
-    Learning Deep Learning
+* Learning Deep Learning
 * [Deep Learning*** (Goodfellow et al.).pdf - Google Drive](https://drive.google.com/file/d/1BrQX7i2O6JkZRaghejTlVZNy70Q7YNDk/view)
-    Neural Networks from Scratch in Python
+* Neural Networks from Scratch in Python
 * [Neural Networks and Deep Learning.pdf - Google Drive](https://drive.google.com/file/d/0B2W5kumU32IMSE1reXlhQzRFbnc2OE9EUEEyajBaUVlkcHc0/view)
-    Deep Learning Architectures - A Mathematical Approach
-    Deep Learning mit PyTorch
-    Machine Learning mit Python (Raschka)
-    Deep Learning mit PyTorch
+* Deep Learning Architectures - A Mathematical Approach
+* Deep Learning mit PyTorch
+* Machine Learning mit Python (Raschka)
+* Deep Learning mit PyTorch
     Глубокое обучение. Погружение в мир нейронных сетей
-    Redes neuronales y deep learning
+* Redes neuronales y deep learning
 * [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)
 * https://www.google.com/search?q=arxiv+neural+networks+tutorial&client=ubuntu&hs=Tqd&channel=fs&sxsrf=AOaemvI39Q9NGN60l_z7pIcbW1NvFLVcXQ%3A1635942577107&ei=sYCCYarQBY33kwX0xZKYAg&oq=arxiv+neural+networks+tutorial&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsANKBAhBGABQm-0BWOLyAWC29AFoAXACeACAAU2IAU2SAQExmAEAoAEByAEIwAEB&sclient=gws-wiz&ved=0ahUKEwjq7LiBmfzzAhWN-6QKHfSiBCMQ4dUDCA0&uact=5
 * [[](https://arxiv.org/abs/1801.05894)
@@ -5637,13 +5480,13 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [[2105.04026] The Modern Mathematics of Deep Learning - arXiv](https://arxiv.org/abs/2105.04026)
 * [[1712.04741] Mathematics of Deep Learning - arXiv](https://arxiv.org/abs/1712.04741)
 * [[2104.14033] A Study of the Mathematics of Deep Learning](https://arxiv.org/abs/2104.14033)
-    Learn TensorFlow 2.0
-    Python Deep Learning
+* Learn TensorFlow 2.0
+* Python Deep Learning
 * [Java Deep Learning Cookbook - Train neural networks for classification, NLP, and reinforcement learning using Deeplearning4j. [1 ed.]](http://libgen.is/book/index.php?md5=2FED4606638DDE0995211C6E921E0202)
-    Deep Learning for Coders
-    Generative Deep Learning
-    GANs in Action
-    Pro Deep Learning with TensorFlow
+* Deep Learning for Coders
+* Generative Deep Learning
+* GANs in Action
+* Pro Deep Learning with TensorFlow
     - ->
 * https://hadrienj.github.io/deep-learning-book-series-home/
 * [Introduction to Deep Learning - Google Drive](https://drive.google.com/file/d/1xb7zhfYs6p6BseNeSPllfVJ14C-K1s_U/view)
@@ -5656,8 +5499,8 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [^ RU](https://drive.google.com/file/d/1rtoJepwq1Pl64gHC7Mk7v-3zqM8NUhep/view?usp=sharing)
 * [Grokking Deep Learning (p160](https://drive.google.com/file/d/1pI96J4lzpgx3XiIGR2yVAbL88crnqzHK/view?usp=sharing)
 * [Learning TensorFlow](https://drive.google.com/file/d/1j8QlWFYVOoLlGU5CPufzJWXNLVPsGHpc/view?usp=sharing)
-    Deep Learning with PyTorch
-    Pytorch Recipes- A Problem-Solution Approach
+* Deep Learning with PyTorch
+* Pytorch Recipes- A Problem-Solution Approach
 * hands-On Machine Learning with Scikit-Learn & TensorFlow
 * [Machine Learning with TensorFlow](https://drive.google.com/file/d/1KZvwhQ0_DhVdJN-l3u3USukSa0-5cDTl/view?usp=sharing)
 * [Redes Neuronales & Deep Learning](https://drive.google.com/file/d/1AHd6YzZjQg3e59sHKKsrpZbNbMRXkDa9/view?usp=sharing)
@@ -5687,37 +5530,33 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Library Genesis: V. Lemaire, F. Clérot (auth.), Dr. Saman K. Halgamuge, Dr. Lipo Wang (eds.) - Classification and Clustering for Knowledge Discovery](https://libgen.is/book/index.php?md5=283E3F09E583494CC5A0DF43FB57B1F1)
 * [Library Genesis: Witold Pedrycz - Knowledge-based clustering: from data to information granules](https://libgen.is/book/index.php?md5=98EACD521082D52B09B6FC2890EAD7A7)
 
-## Autodiff
-    **[The Art of Differentiating Computer Programs: An Introduction to Algorithmic Differentiation](http://library.lol/main/85F1B05D3FD8A4F541460CE1BB6816D3)**
-    **[Recent Advances in Algorithmic Differentiation](http://library.lol/main/C27D847C466C743F10002FD6554D0533)**
-    **[Evaluating derivatives: principles and techniques of algorithmic differentiation](http://library.lol/main/4099B9B0E52FDDDED80AF6750FFCB9B0)**
-    **[Algorithmic Differentiation in Finance Explained](http://library.lol/main/E955C1FE1EA6D8C9FEA08D49FECB9776)**
+## Autodiff    * [The Art of Differentiating Computer Programs: An Introduction to Algorithmic Differentiation](http://library.lol/main/85F1B05D3FD8A4F541460CE1BB6816D3)    * [Recent Advances in Algorithmic Differentiation](http://library.lol/main/C27D847C466C743F10002FD6554D0533)    * [Evaluating derivatives: principles and techniques of algorithmic differentiation](http://library.lol/main/4099B9B0E52FDDDED80AF6750FFCB9B0)    * [Algorithmic Differentiation in Finance Explained](http://library.lol/main/E955C1FE1EA6D8C9FEA08D49FECB9776)
 
 ## DL
-    Neural Networks and Deep Learning
+* Neural Networks and Deep Learning
     Глубокое обучение
-    SLP 9. Deep Learning Architectures for Sequence Processing
-    AI, ML, and DL (Campesato)
-    Deep Learning for Coders with Fastai and PyTorch
-    Deep Learning for NLP and Speech Recognition
-    Deep Learning in NLP
-    Neural Network Methods for NLP
+* SLP 9. Deep Learning Architectures for Sequence Processing
+* AI, ML, and DL (Campesato)
+* Deep Learning for Coders with Fastai and PyTorch
+* Deep Learning for NLP and Speech Recognition
+* Deep Learning in NLP
+* Neural Network Methods for NLP
 * hands-on Machine Learning with Scikit-Learn, Keras, and Tensorflow
-    Learn TensorFlow 2.0
-    Deep Learning with TF2 and Keras
-    Practical Java Machine Learning
-    Primer on NN for NLP
-    Advanced Deep Learning with TensorFlow 2 and Keras
-    SLP 3E A. Hidden Markov Models
-    SLP 3e. NN and NLM
-    Transfer Learning
+* Learn TensorFlow 2.0
+* Deep Learning with TF2 and Keras
+* Practical Java Machine Learning
+* Primer on NN for NLP
+* Advanced Deep Learning with TensorFlow 2 and Keras
+* SLP 3E A. Hidden Markov Models
+* SLP 3e. NN and NLM
+* Transfer Learning
 * https://b-ok.cc/s/deep%20learning/?yearFrom=2018
 * https://b-ok.cc/s/advanced%20deep%20learning
-    Building Machine Learning and Deep Learning Models on Google Cloud Platform
-    Practical Deep Learning for Cloud, Mobile & Edge
-    Pragmatic AI: An Introduction to Cloud-Based Machine Learning
-    Deploy Machine Learning Models to Production with Flask, Streamlit, Docker, and Kubernetes on Google Cloud Platform
-    Programming PyTorch for Deep Learning: Creating and Deploying Deep Learning Applications
+* Building Machine Learning and Deep Learning Models on Google Cloud Platform
+* Practical Deep Learning for Cloud, Mobile & Edge
+* Pragmatic AI: An Introduction to Cloud-Based Machine Learning
+* Deploy Machine Learning Models to Production with Flask, Streamlit, Docker, and Kubernetes on Google Cloud Platform
+* Programming PyTorch for Deep Learning: Creating and Deploying Deep Learning Applications
 * [Joseph Howse - OpenCV Computer Vision with Python - 2013.pdf](https://vk.com/doc44301783_463586616?hash=6ec0ea77c37a04e155&dl=b7a9fa5b84f8acfcfe)
 * [Practical Computer Vision Applications Using Deep Learning with CNNs: With Detailed Examples in Python Using TensorFlow and Kivy](http://93.174.95.29/_ads/0B1C4F7F8C429E6492328A7A68133B25)
 * [Daniel Lelis Baggio - OpenCV Computer Vision with Java - 2015.pdf](https://vk.com/doc44301783_463586850?hash=def182331df5a39d6a&dl=c216f6e4dd57756e03)
@@ -5733,16 +5572,10 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Data Mining: Practical Machine Learning Tools and](https://www.cs.waikato.ac.nz/~ml/weka/book.html)
 * [Mastering SQL: Queries - Take It Easy](http://libgen.rs/book/index.php?md5=27487FB6E03E9A6BF8A96FB8B415A9D3)
 * hands-On Java Deep Learning for Computer Vision - Implement machine learning and neural network methodologies to perform computer vision-related tasks.
-    Learning OpenCV 4 Computer Vision with Python 3: Get to grips with tools, techniques, and algorithms for computer vision and machine learning
-    Modern Computer Vision with Pytorch
-    OpenCV 4 with Python Blueprints: Become proficient in computer vision by designing advanced projects using OpenCV 4 with Python 3.8
-    PyTorch Computer Vision Cookbook: Over 70 recipes to solve computer vision and image processing problems using PyTorch 1.x
-    **[Library Genesis: Date, C. J - SQL and Relational Theory](http://libgen.rs/book/index.php?md5=3984C78BE5B3D9E11CD1376E4B448F02)**
-    **[Library Genesis: Date, C. J - SQL and Relational Theory](http://libgen.rs/book/index.php?md5=3984C78BE5B3D9E11CD1376E4B448F02)**
-    **http://cognet.mit.edu/book/advances-evolutionary-synthesis-of-intelligent-agents**
-    **http://cognet.mit.edu/book/advances-kernel-methods**
-    **http://cognet.mit.edu/book/advances-genetic-programming-volume-1**
-    **http://cognet.mit.edu/book/advances-evolutionary-synthesis-of-intelligent-agents**
+* Learning OpenCV 4 Computer Vision with Python 3: Get to grips with tools, techniques, and algorithms for computer vision and machine learning
+* Modern Computer Vision with Pytorch
+* OpenCV 4 with Python Blueprints: Become proficient in computer vision by designing advanced projects using OpenCV 4 with Python 3.8
+* PyTorch Computer Vision Cookbook: Over 70 recipes to solve computer vision and image processing problems using PyTorch 1.x    * [Library Genesis: Date, C. J - SQL and Relational Theory](http://libgen.rs/book/index.php?md5=3984C78BE5B3D9E11CD1376E4B448F02)    * [Library Genesis: Date, C. J - SQL and Relational Theory](http://libgen.rs/book/index.php?md5=3984C78BE5B3D9E11CD1376E4B448F02)    * http://cognet.mit.edu/book/advances-evolutionary-synthesis-of-intelligent-agents    * http://cognet.mit.edu/book/advances-kernel-methods    * http://cognet.mit.edu/book/advances-genetic-programming-volume-1    * http://cognet.mit.edu/book/advances-evolutionary-synthesis-of-intelligent-agents
 * [Mastering Spark with R: The Complete Guide to Large-Scale Analysis and Modeling](http://library.lol/main/7F892C1273D39233A6F27A1F9D8741DB)
 * [Apprentissage artificiel: Concepts et algorithmes - De Bayes et Hume au Deep Learning](https://www.eyrolles.com/Informatique/Livre/apprentissage-artificiel-9782416001048/)
 * [Haskell Data Analysis Cookbook](http://library.lol/main/37E36A4652A2355552FFFC7180D6E81B)
@@ -5757,24 +5590,23 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Deep Reinforcement Learning -- Das umfassende Praxis-Handbuch](https://de.de1lib.org/book/17917854/601596)
 
 ## CV
-    Computer Vision. A Reference Guide
-    TensorFlow 2.0 Computer Vision Cookbook
-    Mastering Computer Vision with TensorFlow 2.x
-    Learn Computer Vision Using OpenCV.
-    Deep Learning for Vision Systems
-    Practical Machine Learning for Computer Vision
-    Deep Learning in Computer Vision
+* Computer Vision. A Reference Guide
+* TensorFlow 2.0 Computer Vision Cookbook
+* Mastering Computer Vision with TensorFlow 2.x
+* Learn Computer Vision Using OpenCV.
+* Deep Learning for Vision Systems
+* Practical Machine Learning for Computer Vision
+* Deep Learning in Computer Vision
 * handbook of Image Processing and Computer Vision. Volume 1
 * handbook of Image Processing and Computer Vision. Volume 2
 * handbook of Image Processing and Computer Vision. Volume 3
-    Machine Learning for OpenCV
-    Learning OpenCV. Computer Vision in C++ with the OpenCV Library
+* Machine Learning for OpenCV
+* Learning OpenCV. Computer Vision in C++ with the OpenCV Library
 * https://cs231n.github.io/
 * [Learning](http://libgen.is/book/index.php?md5=9208FA33E5C1F93918E128F8E0781BEC)
 * [techniques, and algorithms for computer vision and machine learning [3 ed](http://libgen.is/book/index.php?md5=9208FA33E5C1F93918E128F8E0781BEC)
 * [Learning OpenCV 3: Computer Vision in C++ with the OpenCV Library [1 ed.]](http://libgen.is/book/index.php?md5=223AF6E7AF180D4D84C4133CF11BF788)
-
-**[Reinforcement Learning From Scratch: Understanding Current Approaches - with Examples in Java and Greenfoot](http://library.lol/main/A571D1C872BF54E00FC2DEC784A1FE7E)**
+* [Reinforcement Learning From Scratch: Understanding Current Approaches - with Examples in Java and Greenfoot](http://library.lol/main/A571D1C872BF54E00FC2DEC784A1FE7E)
 
 ## Papers
 * [0] Rene Vidal, Joan Bruna, Raja Giryes, Stefano Soatto. Mathematics of Deep Learning. arXiv 2017.
@@ -6008,7 +5840,7 @@ Improved Inference for Unlexicalized Parsing.
 * [Ivy](https://lets-unify.ai/) ([Discord](https://discord.com/channels/799879767196958751/933380895358988288)) ([email](https://mail.google.com/mail/u/0/#section_query/in%3Ainbox/FMfcgzGsltQMvqVBrVtPHzJdxlxFtsWV))
 
 
-## **Gen Resource Sites**
+## Gen Resource Sites
 * https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf
 * https://github.com/gbosquechacon/deepmind_athomewithai
 * https://www.kdnuggets.com/2020/05/deepmind-suggested-resources-learning-ai.html
@@ -6016,7 +5848,7 @@ Improved Inference for Unlexicalized Parsing.
 * https://www.user.tu-berlin.de/mtoussai/teaching/
 * https://www.reddit.com/r/datascience/wiki/resources
 
-## *******Deep Learning Drizzle
+## ***Deep Learning Drizzle
 * https://hadrienj.github.io/
 * [hadrienj](https://hadrienj.github.io/tags/#deep-learning-book)
 * https://deepai.org/definitions
@@ -6029,7 +5861,7 @@ Improved Inference for Unlexicalized Parsing.
 * [machinelearning.ru Заглавная страница](http://www.machinelearning.ru/wiki/index.php?title=%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0)
 * [Raschka Lecture Notes](https://sebastianraschka.com/pdf/lecture-notes/stat479ss19/)
 
-## ********Deep learning на пальцах!
+## ****Deep learning на пальцах!
 * https://github.com/mnielsen/neural-networks-and-deep-learning
 * https://uvadlc-notebooks.readthedocs.io/en/latest
 * https://sebastianraschka.com/deep-learning-resources/
@@ -6055,7 +5887,7 @@ Improved Inference for Unlexicalized Parsing.
 
 ## Courses
 * [Julia ML Course](https://bio322.epfl.ch/)
-**[Fall 2015 Machine Learning](https://www.youtube.com/playlist?list=PLUenpfvlyoa0rMoE5nXA8kdctBKE9eSob)**
+* [Fall 2015 Machine Learning](https://www.youtube.com/playlist?list=PLUenpfvlyoa0rMoE5nXA8kdctBKE9eSob)
 * [Statistical Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e)
 
 ## Publications
@@ -6065,95 +5897,51 @@ JMLR
 
 ## Publications
 * https://www.jmlr.org/
----
 * https://arxiv.org/list/cs.NE/recent
----
 
 ## Docs
 TensorFlow Docs
----
 PyTorch Docs
----
 MXNet Docs
----
 Flux Docs
----
 Keras Docs
----
 Deeplearning4j Docs
----
 Encog
----
 Knet
----
 TensorFlow.js
----
 Brain.js
----
 * [Hasktorch](https://github.com/hasktorch/hasktorch)
----
 * [TensorSafe](https://www.sciencedirect.com/science/article/abs/pii/S2590118421000538)
----
 * [^](https://hackage.haskell.org/package/tensor-safe)
----
 * [H2O.ai Documentation](http://docs.h2o.ai/)
----
 * [Apache Mahout](https://mahout.apache.org/)
----
 * [Caffe2 | A New Lightweight, Modular, and Scalable Deep Learning Framework](https://caffe2.ai/)
----
 * [HLearn (Haskell)](https://izbicki.me/public/papers/tfp2013-hlearn-a-machine-learning-library-for-haskell.pdf)
----
 * [Home · Knet.jl](https://denizyuret.github.io/Knet.jl/latest/)
----
 * [Deeplearning4j Quickstart | Deeplearning4j](https://deeplearning4j.org/docs/latest/deeplearning4j-quickstart)
----
 * [The Microsoft Cognitive Toolkit - Cognitive Toolkit - CNTK | Microsoft Docs](https://docs.microsoft.com/en-us/cognitive-toolkit/)
----
 * [Docs | Apache MXNet](https://mxnet.apache.org/api)
----
 machinelearn.js
----
 Scikit Learn
----
 JavaML
----
 CARET
----
 mlpack
----
 * https://camel.readthedocs.io/en/latest/yamlref.html
----
 * https://hitchdev.com/strictyaml/
 * [TensorFlow docs](https://www.tensorflow.org/api_docs/)
----
 * [PyTorch/Torch docs](https://pytorch.org/docs/stable/index.html)
----
 * [Flux.jl docs](https://pkg.julialang.org/docs/Flux/QdkVy/0.9.0/models/basics/)
----
 * [Deeplearning4j docs](https://deeplearning4j.konduit.ai/)
----
 * https://waikato.github.io/weka-wiki/documentation/
----
 * https://www.cs.waikato.ac.nz/ml/weka/Witten_et_al_2016_appendix.pdf
----
 * https://nm.dev/
----
 * https://sebastianraschka.com/software/
----
 * https://github.com/karpathy/micrograd
----
 * https://github.com/jerryjliu/gpt_index
----
 * https://github.com/AbdBarho/stable-diffusion-webui-docker
----
 * https://github.com/hwchase17/langchain
----
 * https://github.com/DefTruth/lite.ai.toolkit
----
 * https://github.com/daquexian/onnx-simplifier
----
----
 
 ## Repos
 * https://github.com/emmettgb/Emmetts-DS-NoteBooks
@@ -6165,7 +5953,7 @@ mlpack
 * https://devopedia.org/
 * https://neurohive.io/ru/
 
-## ********Research Debt
+## ****Research Debt
 * https://neptune.ai/blog
 * https://hashnode.com/community
 * https://gradientflow.substack.com/archive
@@ -6313,7 +6101,7 @@ mlpack
 * [PapersWeLove](https://www.youtube.com/@PapersWeLove) 
 * https://www.youtube.com/@MachineLearningStreetTalk 
 * [Sam Witteveen](https://www.youtube.com/@samwitteveenai/playlists)
-**[Maziar Raissi](https://www.youtube.com/@maziarraissi3569/videos)**
+* [Maziar Raissi](https://www.youtube.com/@maziarraissi3569/videos)
 * [SpringBoard](https://www.youtube.com/channel/UCqd6TofKNjqagInm5Waeu7w)
 * [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg/featured)
 * [Machine Learning 101](https://youtube.com/channel/UCG0-CI_Lq_PXE_obBhAm7jQ)
@@ -6328,23 +6116,15 @@ mlpack
 
 ## Paper Reading / Learning Communities
 * [dair.ai Slack channel](https://app.slack.com/client/T010QQBEFM1/C011278EVFX)
----
 arXiv Insights
----
 * https://42papers.com/
----
 * https://github.com/the-deep-learners/study-group
----
 * [DeepReader](https://www.youtube.com/channel/UC5_1Nis0kMJns-B9wJGbkXw)
----
 
 ## Data Sources
 * [awesomedata/awesome-public-datasets: A topic-centric list of HQ open datasets.](https://github.com/awesomedata/awesome-public-datasets)
----
 * [Dataset Search](https://datasetsearch.research.google.com/)
----
 * [Find Open Datasets and Machine Learning Projects | Kaggle](https://www.kaggle.com/datasets)
----
 * [UCI Machine Learning Repository: Data Sets](https://archive.ics.uci.edu/ml/datasets.php)
 
 ## Tools
@@ -6372,54 +6152,37 @@ Not Clipping Gradients
 
 ## General Notes
 * [Stanford NLP](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
----
 * http://cs229.stanford.edu/notes/
----
 * http://cs231n.github.io/
----
 * http://cs229.stanford.edu/syllabus.html
----
 * http://cs230.stanford.edu/syllabus/
----
 * https://ru.wikipedia.org/wiki/D09CD0B0D188D0B8D0BDD0BDD0BED0B5_D0BED0B1D183D187D0B5D0BDD0B8D0B5
----
 * https://arxiv.org/list/cs.CL/recent
----
 * https://arxiv.org/list/stat.ML/recent
----
 * https://arxiv.org/list/cs.NE/recent
----
 * https://arxiv.org/
----
 * http://cs229.stanford.edu/notes/cs229-notes1.pdf
----
 * http://www.holehouse.org/mlclass/
----
 * https://see.stanford.edu/course/cs229
----
 * http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial
----
 * http://ufldl.stanford.edu/wiki/index.php/UFLDL_Recommended_Readings
----
 
 ## RL
-**[Overview of Deep Reinforcement Learning Methods](https://youtu.be/wDVteayWWvU)**
-**[Recent Advances in Deep Reinforcement Learning Applications for Solving Partially Observable Markov Decision Processes (POMDP) Problems: Part 1—Fundamentals and Applications in Games, Robotics and Natural Language Processing](https://www.mdpi.com/2504-4990/3/3/29/pdf)**
-**https://github.com/yandexdataschool/Practical_RL**
-**https://stats.stackexchange.com/questions/326867/parameterizing-reinforcement-learning-card-game-state-space**
-**General - Theory**
+     * [Overview of Deep Reinforcement Learning Methods](https://youtu.be/wDVteayWWvU)
+* [Recent Advances in Deep Reinforcement Learning Applications for Solving Partially Observable Markov Decision Processes (POMDP) Problems: Part 1—Fundamentals and Applications in Games, Robotics and Natural Language Processing](https://www.mdpi.com/2504-4990/3/3/29/pdf)* https://github.com/yandexdataschool/Practical_RL* https://stats.stackexchange.com/questions/326867/parameterizing-reinforcement-learning-card-game-state-space
+General - Theory
 * [Reinforcement Learning](https://www.youtube.com/watch?v=nyjbcRQ-uQ8&list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)
 * [Основы робототехники](https://www.lektorium.tv/robotics)
 * [DeepMind - YouTube](https://www.youtube.com/c/DeepMind/playlists)
 * https://spinningup.openai.com/en/latest/spinningup/keypapers.html
-**Writing**
+Writing
 Github site: Informal Intro to RL Algorithms
-**Implementations / Software**
+Implementations / Software
 * [michaelguan1992/spinningup-in-deeprl-tensorflow2: Re-implementing OpenAI Spinning Up in DeepRL with Tensorflow 2.0](https://github.com/michaelguan1992/spinningup-in-deeprl-tensorflow2)
 * [enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning: Advanced Deep Learning and Reinforcement Learning course taught at UCL in partnership with Deepmind](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning)
 * [deepmind/acme: A library of reinforcement learning components and agents](https://github.com/deepmind/acme)
 * https://github.com/omkarv/pong-from-pixels
-**General - Programming, Implementations, Software**
+General - Programming, Implementations, Software
 * https://github.com/dennybritz/reinforcement-learning
 * http://www.wildml.com/2016/10/learning-reinforcement-learning/
 OpenAI Gym
@@ -6430,15 +6193,15 @@ OpenAI Gym
 * https://spinningup.openai.com/en/latest/
 
 ## >
-**RL for Games (non-digital)**
+RL for Games (non-digital)
 * http://karpathy.github.io/2016/05/31/rl/
-**Application**
+Application
 * https://www.google.com/search?q=how+to+represent+games+for+reinforcement+learning&rlz=1C5CHFA_enUS800US800&oq=how+to+represent+games+for+reinforcement+learning&aqs=chrome..69i57.235j0j9&sourceid=chrome&ie=UTF-8
 Books
 * [Grokking Deep Reinforcement Learning](http://libgen.is/book/index.php?md5=F83946E7A76E64E0C309CB9A2086551E)
 * https://github.com/asdfjkl/neural_network_chess
 * [Game Changer: AlphaZero’s Groundbreaking Chess Strategies and the Promise of AI](http://library.lol/main/D2F826291F761B9F46D9ACEACD4ED6FB)
-**RL Miscellaneous**
+RL Miscellaneous
 * [Rook (card game) - Wikipedia](https://en.wikipedia.org/wiki/Rook_(card_game))
 Deep RL Overview arXiv
 Game Adaptation by Using Reinforcement Learning Over Meta Games | SpringerLink
@@ -6489,7 +6252,7 @@ On Experiences in a Complex and Competitive Gaming Domain: Reinforcement Learnin
 * [Reinforcement Learning (SS 18) | Machine Learning & Robotics Lab](https://ipvs.informatik.uni-stuttgart.de/mlr/teaching/reinforcement-learning-ss-18/)
 * [rl-course/ex09-hier at master · Stunkymonkey/rl-course](https://github.com/Stunkymonkey/rl-course/tree/master/ex09-hier)
 
-## *******RL Code
+## ***RL Code
 
 ## * Yash Bonde | Musings
 
@@ -6499,7 +6262,7 @@ On Experiences in a Complex and Competitive Gaming Domain: Reinforcement Learnin
 * [Operator (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Operator_(mathematics))
 * [Reinforcement Learning - Casey Chu](http://caseychu.io/notes/reinforcement-learning/)
 
-## *******CS234: Reinforcement Learning | Winter 2019 - YouTube
+## ***CS234: Reinforcement Learning | Winter 2019 - YouTube
 * [Reinforcement Learning (SS20) - Lecture 11 - Recap - YouTube](https://www.youtube.com/watch?v=kW6YvwDtXrk)
 * [Reinforcement Learning Course | DeepMind & UCL - YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)
 * [Reinforcement learning - Wikipedia](https://en.wikipedia.org/wiki/Reinforcement_learning)
@@ -6590,21 +6353,21 @@ Deep Learning and the Game
 * [michaelguan1992/spinningup-in-deeprl-tensorflow2: Re-implementing OpenAI Spinning Up in DeepRL with Tensorflow 2.0](https://github.com/michaelguan1992/spinningup-in-deeprl-tensorflow2)
 Can RL algorithms be replaced with transformer-based language models?
 * [Paper] DeepMind researchers say reinforcement learning is the key to cracking general AI (with video) - Pye AI
-**[A Gentle Introduction to Reinforcement Learning | Codementor](https://www.codementor.io/@satwikkansal/a-gentle-introduction-to-reinforcement-learning-1jnb4du0jt)**
+     * [A Gentle Introduction to Reinforcement Learning | Codementor](https://www.codementor.io/@satwikkansal/a-gentle-introduction-to-reinforcement-learning-1jnb4du0jt)
 A graph placement methodology for fast chip design
 Chip Placement with Deep Reinforcement Learning
 Chip Placement with Deep Reinforcement Learning
-**[Chip Placement with Deep Reinforcement Learning (Paper Explained) - YouTube](https://www.youtube.com/watch?v=PDRtyrVskMU)**
+     * [Chip Placement with Deep Reinforcement Learning (Paper Explained) - YouTube](https://www.youtube.com/watch?v=PDRtyrVskMU)
 Decentralized Multi-Agent Reinforcement Learning and Game Theory - Pye AI
 Deep Reinforcement Learning: Fundamentals, Research and Applications
 DeepMind says reinforcement learning is ‘enough’ to reach general AI
-**[DeepQLearning.jl](http://deepqlearning.jl/)**
-**[Hands-On Game AI with Python: Implement self-learning AI agents in games using reinforcement learning algorithms and techniques 9781839216770](http://libgen.rs/book/index.php?md5=0FBDA7EFFFCDD3E7BAF00F61988A1CC0)**
+     * [DeepQLearning.jl](http://deepqlearning.jl/)
+* [Hands-On Game AI with Python: Implement self-learning AI agents in games using reinforcement learning algorithms and techniques 9781839216770](http://libgen.rs/book/index.php?md5=0FBDA7EFFFCDD3E7BAF00F61988A1CC0)
 * [Intro to DRL](https://www.youtube.com/watch?v=93M1l_nrhpQ)
 * [Pricing](https://www.gitpod.io/pricing)
 Reinforcement Learning - YouTube
 Reward is enough
-**rl to determine optimal price**
+rl to determine optimal price
 RUDDER: Return Decomposition for Delayed Rewards
 Steuerung eines autonomen Fahrzeugs durch Deep Reinforcement Learning
 Auditory Deep Q Networks
@@ -6895,7 +6658,7 @@ Deep Natural Language Processing: Einstieg in Word Embedding, Sequence-to-Sequen
 * https://colab.research.google.com/github/tg-bomze/collection-of-notebooks/blob/master/Natural_Language_YouTube_Searcher.ipynb
 
 ## Sort
-**[Armandov/diffusion-ui](https://github.com/Armandov/diffusion-ui)**
+     * [Armandov/diffusion-ui](https://github.com/Armandov/diffusion-ui)
 * https://www.behavioraleconomics.com/dark-patterns-powered-by-machine-learning-the-role-of-behavioral-science-ethics-in-building-a-better-future/
 * https://www.analyticsinsight.net/top-10-deep-learning-skills-that-will-help-you-land-a-job-at-faang/
 * https://towardsdatascience.com/tensorflow-template-for-deep-learning-beginners-3b976d0ee084
@@ -7166,10 +6929,10 @@ BLOOM
 * https://huyenchip.com/2023/08/16/llm-research-open-challenges.html 
 
 ## AI, LLMs
-**[Retrieval Augmented Generation with OpenAI/GPT and Chroma](https://www.youtube.com/watch?v=Cim1lNXvCzY&pp=QAFIAQ%3D%3D)**
-**[Retrieval-Augmented Generation (RAG)](https://m.youtube.com/watch?v=dzChvuZI6D4)**
+     * [Retrieval Augmented Generation with OpenAI/GPT and Chroma](https://www.youtube.com/watch?v=Cim1lNXvCzY&pp=QAFIAQ%3D%3D)
+* [Retrieval-Augmented Generation (RAG)](https://m.youtube.com/watch?v=dzChvuZI6D4)
 ruder instruction tuning
-**[Better Llama 2 with Retrieval Augmented Generation (RAG)](https://www.youtube.com/watch?v=ypzmPwLH_Q4)**
+     * [Better Llama 2 with Retrieval Augmented Generation (RAG)](https://www.youtube.com/watch?v=ypzmPwLH_Q4)
 * https://towardsdatascience.com/how-to-cut-rag-costs-by-80-using-prompt-compression-877a07c6bedb 
 * https://analyticsindiamag.com/andrew-ng-releases-new-course-on-advanced-retrieval-techniques-for-ai-applications/ 
 RAG app from scratch https://www.youtube.com/watch?v=wbR0l4OKzzI 

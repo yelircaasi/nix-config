@@ -46,5 +46,6 @@ si [https://www.marktechpost.com/2024/01/12/meet-ai-gateway-an-open-sourced-fast
 transformer varieties: lightweight, cross-block connectivity, adaptive computation time, recurrent, hierarchical, other architectures
 translation: https://translate.fedoraproject.org/
 
+software https://www.canva.com/free/
 
 

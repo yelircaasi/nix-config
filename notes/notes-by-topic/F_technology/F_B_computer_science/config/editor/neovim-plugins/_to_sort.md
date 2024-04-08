@@ -10,6 +10,8 @@ Key:
 * 8 ### obsoleted by another plugin
 * 9 ### inherently obsolete
 
+https://www.reddit.com/r/neovim/s/UO6cBWC8gX - impressive vscode / neovim combo
+
 ## Luarock
 * ( )
             * [vim2rockspec](https://github.com/teto/vim2rockspec)

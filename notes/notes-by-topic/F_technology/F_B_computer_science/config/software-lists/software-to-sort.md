@@ -1,7 +1,11 @@
 # Software to Sort
-## Ricing* https://github.com/adi1090x/widgets* https://github.com/outfoxxed/hy3* https://github.com/mahkoh/jay* https://github.com/MrVivekRajan/Grub-Themes
+## Ricing
+* https://github.com/adi1090x/widgets* https://github.com/outfoxxed/hy3* https://github.com/mahkoh/jay* https://github.com/MrVivekRajan/Grub-Themes
 * [wallpaper mountain lake](https://media.discordapp.net/attachments/1071922148991574056/1209591503836422224/aholmes_canada.cleaned.jpg?ex=66159f5f&is=66032a5f&hm=328996956fe6d340af05baa8a1575ec23eec9fb482de03a00141c1a9fa63c950&)
-VanillaOS wallpaper channel* https://github.com/mathix420/dotfiles/blob/master/beeper.css* https://github.com/dawsers/hyprscroller* https://github.com/hyprland-community/awesome-hyprland* https://nwg-piotr.github.io/nwg-shell/
+* VanillaOS wallpaper channel
+* https://github.com/mathix420/dotfiles/blob/master/beeper.css
+* https://github.com/dawsers/hyprscroller* https://github.com/hyprland-community/awesome-hyprland* https://nwg-piotr.github.io/nwg-shell/
+
 
 ## Sort
 - ** [](https://www.youtube.com/@unixbhaskar/videos) ***
@@ -9,6 +13,16 @@ VanillaOS wallpaper channel* https://github.com/mathix420/dotfiles/blob/master/b
 * [Track Awesome List Updates Daily](https://www.trackawesomelist.com/)
 * [Feed | StackShare](https://stackshare.io/feed)
 * [https://softwarerecs.stackexchange.com/](https://softwarerecs.stackexchange.com/)
+* https://mochi.cards/
+* https://github.com/dormant-chicken/sortty
+* https://notabug.org/g0tsu/litemdview 
+* find local zoom tool (magnifying glass icon)
+* [Code search results](https://github.com/search?q%3Dpkgs.lynx%2Blanguage%253Anix%26type%3Dcode)
+* https://flotes.app/home/notebooks/getting-started/edit_notes/introduction
+* https://www.canva.com/free/
+* https://www.reddit.com/r/Python/s/s77FRjUraQ
+* $$$ https://github.com/MHNightCat/superfile
+* Check out jj (name? new and improved git)
 
 The New Stack
 

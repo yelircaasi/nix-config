@@ -6,6 +6,7 @@
 * https://ntex.rs/ 
 * https://pyodide.org/en/stable/ 
 * https://users.rust-lang.org/t/enforcing-pure-functional-style/101584
+* https://www.reddit.com/r/rust/comments/1bwz7iv/untwine_the_simple_patternmatching_parsing/?rdt=64671
 
 ## Sample Code* https://doc.rust-lang.org/stable/rust-by-example/ 
 * [Command-Line Rust](https://drive.google.com/file/d/11otsnVI7E6nZXWV9MMig-4MPxspwtBIR/view?usp=sharing)

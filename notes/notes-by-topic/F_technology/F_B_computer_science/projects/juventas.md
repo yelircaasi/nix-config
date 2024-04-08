@@ -1,5 +1,27 @@
 # juventas.nvim
 
+* https://en.m.wiktionary.org/wiki/Jupiter 
+
+* Thunor
+* Phaethon
+* Nike
+
+* https://github.com/AndrewRadev/inline_edit.vim
+* Juniper? Junyper? Junipyr?
+* Notebookish.nvim, Daftar.nvim, Zapys.nvim, cuaderno.nvim, lyterate.nvim, Dias (grc)
+* https://github.com/edgarogh/ipynbat
+* name notebat?
+* https://github.com/paw-lu/nbpreview
+* https://github.com/jsvine/nbpreview
+* https://www.reddit.com/r/neovim/comments/wfut6c/introducing_femaco_catalyze_your_fenced_markdown/
+* maybe save code to a separate tempfile and run lsp on that, then pass lsp feedback to relevant location in nbview.
+* [SyntaxRange - Define a different filetype syntax on regions of a buffer. : vim online](https://www.vim.org/scripts/script.php?script_id=4168)
+
+* https://chat.openai.com/c/fcf2129c-4772-4537-b029-d1e1fa1f276b Python Plugin Neovim Setup
+
+
+
+
 same as Jupyter web, but using text view
 
 Components: class Converter()

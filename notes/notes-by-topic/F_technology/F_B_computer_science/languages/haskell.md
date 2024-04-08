@@ -1,5 +1,16 @@
 # Haskell
 
+* https://github.com/Gabriella439/haskell-nix
+* Dive into GHD: Pipeline
+* GHC - HaskellWiki
+* Learning about GHC(i) Internals - r/haskell
+* GHC(STG,Cmm,asm) illustrated - takenobu-hs.github.io
+* 7. Extending and using GHC as a library
+* [https://discord.com/channels/834325286664929280/902554373094252554/1198694610436882590](https://discord.com/channels/834325286664929280/902554373094252554/1198694610436882590) Haskell tools & sources:Sources:*Haskell for imperative programmers* 
+* ghc internals - Google Search
+* https://www.youtube.com/results?sp=mAEA&search_query=ghc+internals 
+* https://stackoverflow.com/questions/18808258/what-does-the-just-syntax-mean-in-haskell
+
 ## Example Code
 → https://serokell.io/blog/best-haskell-open-source-projects 
 * https://github.com/jgm/pandoc

@@ -1,5 +1,10 @@
 # ML and DS
 
+## Sort
+* 3b1b Attention Video https://www.youtube.com/watch?v=eMlx5fFNoYc
+* [https://www.marktechpost.com/2024/01/12/meet-ai-gateway-an-open-sourced-fast-ai-gateway-routed-to-100-large-language-models-llms-with-one-fast-and-friendly-api/](https://www.marktechpost.com/2024/01/12/meet-ai-gateway-an-open-sourced-fast-ai-gateway-routed-to-100-large-language-models-llms-with-one-fast-and-friendly-api/) 
+
+* transformer varieties: lightweight, cross-block connectivity, adaptive computation time, recurrent, hierarchical, other architectures
 * https://github.com/stitionai/devika
 * [What Is A Transformer?](https://www.youtube.com/watch?v=wjZofJX0v4M) 3b1b
 * https://thegradient.pub/mamba-explained/ 

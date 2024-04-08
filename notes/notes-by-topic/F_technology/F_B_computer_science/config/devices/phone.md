@@ -455,3 +455,9 @@ Apps on FairPhone Android
     * [https://uninsane.org/blog/mobile-nixos-pinephone/](https://uninsane.org/blog/mobile-nixos-pinephone/) 
     * [](https://www.reddit.com/r/NixOS/comments/12nw2n9/nixos_on_pinephone_install_log/)
     * [https://www.reddit.com/r/NixOS/comments/12nw2n9/nixos_on_pinephone_install_log/](https://www.reddit.com/r/NixOS/comments/12nw2n9/nixos_on_pinephone_install_log/)
+
+
+* $$$ https://revanced.app/
+* [AryanVBW/LinuxDroid: The most powerful security toolkit for Android: without rooting your device. Run security tools like Nmap, Metasploit, and Wireshark on your Android device without voiding your warranty. Access a wide range of penetration testing tools and utilities, right from your Android phone or tablet.](https://github.com/AryanVBW/LinuxDroid)
+
+* [https://codeberg.org/XADE/LinuxDroid](https://codeberg.org/XADE/LinuxDroid)

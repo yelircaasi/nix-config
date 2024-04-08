@@ -1,4 +1,7 @@
 # Nix
+* https://github.com/erikarvstedt/extra-container
+* [Introducing Flake-Containers: A simple PoC](https://www.reddit.com/r/NixOS/s/7Ullw5lW4p)
+
 * https://www.golem.de/news/redis-cloud-ki-javascript-nginx-ersatz-in-rust-und-container-ersatz-mit-nix-2403-183524.html 
 
 pkgs.nix-tree 

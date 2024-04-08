@@ -1,6 +1,9 @@
 # Web and App Development
+* [Svelte UI Libraries Have Leveled Up](https://m.youtube.com/watch?v%3DjwRqiCv6Z9k)**
+* https://melt-ui.com/
 
 ## Resources
+
 
 ## Collections - Well-Designed Sites
 * https://personalsit.es/
@@ -69,7 +72,12 @@
 * [Talia Vogt](https://taliavogt.com/about/)
 * https://www.mattjustice.com/
 * https://8d9.ru/category/blog - IT blog
+* [https://uninsane.org/](https://uninsane.org/)
 
+* ? [catonmat.net](https://catonmat.net/)
+* [Archive · Thorsten Hans' blog](ghttps://www.thorsten-hans.com/archive/)
+* [Chris McDonough - YouTube](ghttps://www.youtube.com/@ChrisMcDonough)
+* [Chris McDonough - YouTube](ghttps://www.youtube.com/@ChrisMcDonough/playlists)
 * - Not Looked at in a While
 * http://www.math.toronto.edu/ivan/mat327/?courseinfo
 * https://sebastianraschka.com/ 

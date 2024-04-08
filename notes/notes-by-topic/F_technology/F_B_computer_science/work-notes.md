@@ -10,7 +10,11 @@
 6. sort ‘pytest’
 7. Read articles from ‘à lire’
 
+## Sort
+* [Remote Mob Programming | How we do Remote Mob Programming.](https://www.remotemobprogramming.org/)
+* https://fasttext.cc/docs/en/aligned-vectors.html
 
+# Organization, Meta
 → [Timeline](https://knecon.atlassian.net/jira/software/c/projects/RES/boards/40/timeline)
 
 # Research Shared Packages

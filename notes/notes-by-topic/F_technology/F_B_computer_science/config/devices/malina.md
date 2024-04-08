@@ -1,5 +1,9 @@
 # Malina
 
+pi [Jente Hidskes' website - A purpose-built Linux OS for my Raspberry Pi 3B+ home automation system](ghttps://www.hjdskes.nl/projects/rpi-linux/)
+pi [RPI](http://libgen.rs/search.php?%26req%3Draspberry%2Bpi%26phrase%3D1%26view%3Dsimple%26column%3Ddef%26sort%3Dyear%26sortmode%3DDESC)
+pi [https://forums.raspberrypi.com/viewtopic.php?t=312104](https://forums.raspberrypi.com/viewtopic.php?t%3D312104) Definitive guide to configure extremely lightweight GUI with Raspbian Lite + Openbox. - Raspberry Pi Forums
+
 1) Raspberry Pi OS
  install
  install Nix

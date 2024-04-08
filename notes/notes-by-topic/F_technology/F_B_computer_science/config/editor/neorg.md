@@ -1,5 +1,7 @@
 # Neorg
 
+https://github.com/pysan3/Norg-Tutorial2
+
 Not yet added to notes
 
 Idea: norgbook ← https://github.com/rust-lang/mdBook

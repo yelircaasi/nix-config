@@ -1,5 +1,6 @@
 # [Minimal Working Examples](https://docs.google.com/spreadsheets/d/1hzRM9NpjLdlBnZmU2H2UTX_eWDRXf9jujuw61ov9Yso/edit?usp=sharing) 🌱
 
+* https://github.com/eldritch-cookie/templates $$$
 
 - https://github.com/RosettaProjects Next Steps
     - [x]  Rename: RosettaProjects (Github organization)

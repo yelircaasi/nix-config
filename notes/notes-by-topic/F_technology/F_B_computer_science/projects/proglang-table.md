@@ -1,5 +1,7 @@
 # proglang table
 
+Discussion: https://chat.openai.com/c/d53450a7-03f3-4f4f-8f4e-30c778963c36
+
 Make giant hyperpolyglot table for different equivalent tasks, keywords, concepts, etc
 
 make not only clickable (to display/collapse groups of rows and columns), but also vim-navigable

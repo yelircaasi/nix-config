@@ -1,5 +1,6 @@
 # Browser Extensions
 → GNU List: https://gnuzilla.gnu.org/mozzarella/ 
+* https://adnauseam.io/
 
 ## Google Docs etc.
 -> https://www.reddit.com/r/vim/comments/tfeyue/update_google_docs_integration_for_vim_using * 

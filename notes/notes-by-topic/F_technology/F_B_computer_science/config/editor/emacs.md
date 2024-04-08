@@ -121,3 +121,4 @@ emacs [https://www.reddit.com/r/NixOS/s/aMiyjPWmc1](https://www.reddit.com/r/Nix
 emacs [https://www.reddit.com/r/emacs/s/PvfAewpcci](https://www.reddit.com/r/emacs/s/PvfAewpcci)
 emacs [marsam/emacspy: Program Emacs in Python instead of ELisp (i.e. write dynamic modules for Emacs in Python)](ghttps://github.com/marsam/emacspy)
 emacs perso [novoid (Karl Voit)](https://github.com/novoid/)
+* https://protesilaos.com/emacs/denote

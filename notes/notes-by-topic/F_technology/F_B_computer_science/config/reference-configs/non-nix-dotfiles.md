@@ -4,7 +4,68 @@
 ## Single-app
 * [alphaTechnolog eww](https://github.com/AlphaTechnolog/eww-dotfiles) - * [testertech eww](https://github.com/TesterTech/eww-from-scratch [video](https://www.youtube.com/watch?v=rYlXF722RNw) - * [deepaknegilachu](https://codeberg.org/deepaknegilachu/.dotfiles - yambar) - 
 
-## Raw - to sort* https://codeberg.org/alpraz/dotfiles * https://github.com/koiyae/dotfiles-blue.git* https://github.com/welpyes/welpyes-dotfiles* https://github.com/Maulve/dotfiles* https://gitlab.com/stephan-raabe/dotfiles* https://www.reddit.com/r/unixporn/comments/1btyy6k/hyprland_green/ great color ideas* https://github.com/Haruno19/dotfiles* https://www.reddit.com/r/unixporn/comments/1bt8r0u/hyprland_first_attempt_at_ricing_i_used_ml4w_and/ * https://github.com/Sly-Harvey/NixOS* https://github.com/IAmCall3/OBdotfiles* https://git.disroot.org/kaoxk27/labwc-dots* https://github.com/SeyfullahGundogdu/nixos-config* https://www.reddit.com/r/unixporn/comments/1bsw96y/2_years_later_swaywm/ nixos* https://www.reddit.com/r/unixporn/comments/1bsfi34/i3_then_hyprland/ * https://github.com/andofwinds/simple_hyprland_conf* https://github.com/Clepnicx/dotfiles* https://github.com/Sly-Harvey/NixOS* https://github.com/greatbot6120/yellowarch* https://github.com/Jovian-Experiments/Jovian-NixOS* https://github.com/gpskwlkr/nixos-hyprland-flake* https://github.com/S4NKALP/hyprland* https://github.com/Leerv474/.dotfiles* https://github.com/gh0stzk/dotfiles* https://github.com/koiyae/dotfiles* https://github.com/yurihikari/garuda-sway-config* https://gitlab.com/jjba-projects/dotfiles/-/blob/master/nix/nixos/users/joe/hyprland.nix?ref_type=heads* https://github.com/xiro-codes/dotfiles.v2.nix* https://github.com/julius-boettger/dotfiles* https://github.com/ksenia-portu/flake* https://github.com/wick3dr0se/dots* https://github.com/mathix420/dotfiles* https://gitlab.com/jjba-projects/dotfiles/-/blob/master/nix/nixos/users/joe/hyprland.nix?ref_type=heads* https://github.com/Jovian-Experiments/Jovian-NixOS* https://github.com/rice-cracker-dev/nixos-config/tree/main/modules * https://github.com/yusamock/dotfiles* https://github.com/jekor/.config* https://github.com/abc123id/dots* https://github.com/Cybersnake223/Hypr* https://github.com/niksingh710/gdots* https://github.com/pineedaa/dotfiles/tree/master* https://github.com/JaKooLit/Hyprland-Dots* https://github.com/d4yr41n/dotfiles* https://github.com/divu050704/dots* https://github.com/Maulve/dotfiles* https://github.com/eh8/chenglab* https://github.com/WinterSunset95/conky* https://github.com/Fuxino/dotfiles* https://github.com/varikvalefor/personalconfig* https://github.com/wick3dr0se/dots
+## Raw - to sort
+* https://github.com/ronardnx/nix_config
+* https://github.com/end-4/dots-hyprland
+* https://github.com/joepigott/dots
+* https://github.com/zmeyka3310/dotfiles-hyprland
+* https://gitlab.com/null4833902/nixos
+* https://github.com/SsubezZ/hyprland-dots
+* https://github.com/arvigeus/nixos-config
+* https://www.reddit.com/r/unixporn/s/lh3AC4F8zE 
+* https://github.com/AymanLyesri/hyprland-conf
+* https://github.com/Frost-Phoenix/nixos-config
+* https://github.com/WhiteBlackGoose/dotfiles
+* https://github.com/Codesmith28/archConfig 
+* https://codeberg.org/alpraz/dotfiles
+* https://github.com/koiyae/dotfiles-blue.git
+* https://github.com/welpyes/welpyes-dotfiles
+* https://github.com/Maulve/dotfiles
+* https://gitlab.com/stephan-raabe/dotfiles
+* https://www.reddit.com/r/unixporn/comments/1btyy6k/hyprland_green/ great color ideas
+* https://github.com/Haruno19/dotfiles
+* https://www.reddit.com/r/unixporn/comments/1bt8r0u/hyprland_first_attempt_at_ricing_i_used_ml4w_and/
+* https://github.com/Sly-Harvey/NixOS
+* https://github.com/IAmCall3/OBdotfiles
+* https://git.disroot.org/kaoxk27/labwc-dots
+* https://github.com/SeyfullahGundogdu/nixos-config
+* https://www.reddit.com/r/unixporn/comments/1bsw96y/2_years_later_swaywm/ nixos
+* https://www.reddit.com/r/unixporn/comments/1bsfi34/i3_then_hyprland/
+* https://github.com/andofwinds/simple_hyprland_conf
+* https://github.com/Clepnicx/dotfiles
+* https://github.com/Sly-Harvey/NixOS
+* https://github.com/greatbot6120/yellowarch
+* https://github.com/Jovian-Experiments/Jovian-NixOS
+* https://github.com/gpskwlkr/nixos-hyprland-flake
+* https://github.com/S4NKALP/hyprland
+* https://github.com/Leerv474/.dotfiles
+* https://github.com/gh0stzk/dotfiles
+* https://github.com/koiyae/dotfiles
+* https://github.com/yurihikari/garuda-sway-config
+* https://gitlab.com/jjba-projects/dotfiles/-/blob/master/nix/nixos/users/joe/hyprland.nix?ref_type=heads
+* https://github.com/xiro-codes/dotfiles.v2.nix
+* https://github.com/julius-boettger/dotfiles
+* https://github.com/ksenia-portu/flake
+* https://github.com/wick3dr0se/dots
+* https://github.com/mathix420/dotfiles
+* https://gitlab.com/jjba-projects/dotfiles/-/blob/master/nix/nixos/users/joe/hyprland.nix?ref_type=heads
+* https://github.com/Jovian-Experiments/Jovian-NixOS
+* https://github.com/rice-cracker-dev/nixos-config/tree/main/modules
+* https://github.com/yusamock/dotfiles
+* https://github.com/jekor/.config
+* https://github.com/abc123id/dots
+* https://github.com/Cybersnake223/Hypr
+* https://github.com/niksingh710/gdots
+* https://github.com/pineedaa/dotfiles/tree/master
+* https://github.com/JaKooLit/Hyprland-Dots
+* https://github.com/d4yr41n/dotfiles
+* https://github.com/divu050704/dots
+* https://github.com/Maulve/dotfiles
+* https://github.com/eh8/chenglab
+* https://github.com/WinterSunset95/conky
+* https://github.com/Fuxino/dotfiles
+* https://github.com/varikvalefor/personalconfig
+* https://github.com/wick3dr0se/dots
 * [(1) NixOS My Own Setup A to Z (Goshs desktop) - YouTube](ghttps://www.youtube.com/watch?v%3DMb5lIu_o6tQ)
 * [.files/HWD_Lenovo/etc/nixos at 9cced3edfa1ae0286fb0c22fa2dbe8828716a0e7 · mudrii/.files](ghttps://github.com/mudrii/.files/tree/9cced3edfa1ae0286fb0c22fa2dbe8828716a0e7/HWD_Lenovo/etc/nixos)
 * [About Dotfiles - Dotfiles (UK)](ghttps://dotfiles.io/about/)

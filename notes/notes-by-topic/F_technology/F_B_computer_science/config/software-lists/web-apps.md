@@ -1,7 +1,17 @@
 # Web Apps
 
-* ( )
+## Sort
+* How does mirroring between git servers work?
+* [https://puter.com/app/terminal](https://puter.com/app/terminal)
+* https://yacy.de/
+* [Openwords (Openwords)](https://github.com/Openwords)
+* https://www.browserling.com/
+* [Open-Source Application Development :: add0n.com](https://add0n.com/index.html)
+* https://webextension.org/
 * [farside](https://farside.link/)
+* [strato.de](ghttp://strato.de) V-Server Linux
+* [https://1337x.to/](https://1337x.to/) torrent search
+* [puter](https://github.com/HeyPuter)
 
 ## AI Tools and Information Resources
 * ( )

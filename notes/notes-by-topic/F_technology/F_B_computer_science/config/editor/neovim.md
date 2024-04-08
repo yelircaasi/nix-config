@@ -1,4 +1,28 @@
 # Neovim
+## References
+Vim Reference (book)
+
+## Reading List
+* https://learnbyexample.github.io/vim_reference/Regular-Expressions.html
+
+## iron.nvim Maintenance
+* https://app.element.io/#/room/#iron.nvim:matrix.org
+
+## Other projects
+* https://github.com/glacambre/firenvim
+* https://github.com/lucc/nvimpager
+* https://github.com/dense-analysis 
+
+## Sort
+* Note-Taking Setup https://www.reddit.com/r/neovim/s/E21mS1kkWk
+* https://github.com/AckslD/nvim-trevJ.lua
+* https://blog.epheme.re/software/nvim-kickstart.html
+* https://codesandbox.io/p/github/sorokinvld/neorg/main 
+* https://github.com/ldelossa/nvim-ide
+* https://gitlab.com/linuxdabbler/dotfiles/-/tree/main/.config/nvim?ref_type=heads 
+* [Data Science Workflow with neovim - Watch Me Do Kaggle House Regression EDA (Part 1)!"](https://www.youtube.com/watch?v=V7vVq0fjAYs&lc=UgyPyqovYoxl7hS5lGt4AaABAg.A-NJPQ9TA8nA-NekO_Mkx2)
+* https://github.com/dhananjaylatkar/cscope_maps.nvim
+* https://github.com/mfulz/cscope.nvim
 
 neovim nix [reddit link](https://www.reddit.com/r/neovim/s/6nuivNQJII)
 write function buildVimPluginOpt to install in an opt directory where it can be imported with a command or an autocommand

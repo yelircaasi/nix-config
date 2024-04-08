@@ -1119,6 +1119,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * https://www.wired.it/
 * https://www.xataka.com/tag/programacion
 * [Zip](https://podcast.ru/1608873219)
+* [https://studio.ribbonfarm.com/](https://studio.ribbonfarm.com/)
 
 ## Boot
     Изучаем BIOS

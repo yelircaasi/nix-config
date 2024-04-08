@@ -1,5 +1,7 @@
 # C
 
+* note get Quaintance math book on phone and laptop, make sure Drive has latest version
+
 - Cheatsheets and Topic Maps
         * [Calculus Cheat Sheet (Reduced) - Notes](https://tutorial.math.lamar.edu/getfile.aspx?file=B%2C41%2CN)
         * https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf

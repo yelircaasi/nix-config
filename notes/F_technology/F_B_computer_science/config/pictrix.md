@@ -1,12 +1,50 @@
 # Untitled
 
+## Notes to Sort
+```
+Idea: use non-linear NN to learn continuous mapping from one color space to another
+-> which architecture?
+how to create training data?
+
+keep saturation, contrast, relative brightness
+
+use perceptual space?
+
+-> not a linear transformation because o-> may be mapped to non-zero :: afine transformation
+
+example: red -> raspberry, green -> turquoise, blue -> violet
+
+-> black stays black, white stays white
+```
+
+```tex
+r_i = \frac{c^\prime, c_i (closest base color)}{\sum_i d(c^\prime, c_i)}
+
+b = (x^T x)^{-1} x^T y
+```
+1. calculate B-hat
+2. learn 1- or 2-layer FFNN and compare results
+
+use triplet training on reduced-size embedings
+
+Experiment with mappings between solarized dark and gruvbox (base 16 format)
+
+How to handle ill-defined systems, i.e. multiple (or i)
+A_i = [c_{i1}, c_{i2}, c_{i3}, c_{i4}, c_{i5}]_{[3 \times 5]}
+A_{[3 \times 5]} M_{[5 \times 5]} = A^\prime_{[3 \times 5]}
+or Mc = c^\prime
+
+Map between different formats
+
+Map one colorscheme to another (closed-form mapping matrix vs FFNN vs attention-based NN / transformer)
+
 * [https://paletton.com/](https://paletton.com/)
 
 ### pictrix: Tools for Color and Theme Management
 
 make global-inputs with keybindings.nix and colors.nix, to be read into flake and fed into output in the let-in clause
 
-- lawyp (juwal? ruwal?)
+* lawyp (juwal? ruwal?)
     
     Pywal in reverse
     
@@ -159,22 +197,22 @@ make global-inputs with keybindings.nix and colors.nix, to be read into flake an
 
 ## Roadmap
 
-- compile list of applications (top, basic, extended, someday - according to priority)
-- look carefully at existing projects and their respective approaches, before continuing iwht this roadmap: most notably nix-colors and stylix → possibly to integrate even more fully into Home Manager than a “Home Manager config file generation” step?
-- write app-specific config parsers and writers
+* compile list of applications (top, basic, extended, someday - according to priority)
+* look carefully at existing projects and their respective approaches, before continuing iwht this roadmap: most notably nix-colors and stylix → possibly to integrate even more fully into Home Manager than a “Home Manager config file generation” step?
+* write app-specific config parsers and writers
     - first parse structure, if not off-the shelf
     - find colors in config
-- create config file for all supported apps, with sensible defaults: pictrix.toml
-- extend config parsers to write changed colors (with backup, including optional support for commenting out old colors lines, but also backing up the config to e.g. ~/.cache/pictrix/<timestamp>)
-- Add increasingly advanced color functionality, to allow for both linear and perceptual function (esp interpolation) and eventually even different mappings of color schemes to and from images (last part as dependency, rather than just as constituent module in pictrix)
-- 
+* create config file for all supported apps, with sensible defaults: pictrix.toml
+* extend config parsers to write changed colors (with backup, including optional support for commenting out old colors lines, but also backing up the config to e.g. ~/.cache/pictrix/<timestamp>)
+* Add increasingly advanced color functionality, to allow for both linear and perceptual function (esp interpolation) and eventually even different mappings of color schemes to and from images (last part as dependency, rather than just as constituent module in pictrix)
+* 
 
 
 ### Notes
 
-- Alternative names: colorflip, pavo (Latin for peacock), iridesco, splendor, vanitas, vainglory, ostentatio, vanus (vanix? → good wordplay; pictrix? ostentatix?)
-- Goal: One tool for non-Nix Linux, one tool like Home Manager for colors (or make the latter nix-compatible?)
-- Add color combination markup sublanguage to config TOML, using infixes and templating:
+* Alternative names: colorflip, pavo (Latin for peacock), iridesco, splendor, vanitas, vainglory, ostentatio, vanus (vanix? → good wordplay; pictrix? ostentatix?)
+* Goal: One tool for non-Nix Linux, one tool like Home Manager for colors (or make the latter nix-compatible?)
+* Add color combination markup sublanguage to config TOML, using infixes and templating:
 
 ```toml
 “$background00|perceptual<0.3,>|$foreground”
@@ -183,37 +221,37 @@ make global-inputs with keybindings.nix and colors.nix, to be read into flake an
 “$alacritty:background00|isoline<contrast_target=0.2>|$foreground”
 ```
 
-- add support for interpolating between (or other functions of) more than two colors?
-- Add pseudo-screenshot tool to replace colors according to the template in a pre-made set of standard screenshots for each app (each distinct element with a distinct color), save these to a folder for easy visualization
-- Comfortable CLI with various subcommands, support dry runs, rollbacks
-- add syntax categories such as `thing` , `type`, `action`, `punctuation/delimiter` , `keyword`, etc. that can be used as defaults to apply to all languages
-- also: categories for element types in CLI, TUI, GUI, and webpages: statistical and NLP-based inference for CSS → good logging so that process is transparent and easily improved or manually corrected
-- include comment in config template to show which options are possible
+* add support for interpolating between (or other functions of) more than two colors?
+* Add pseudo-screenshot tool to replace colors according to the template in a pre-made set of standard screenshots for each app (each distinct element with a distinct color), save these to a folder for easy visualization
+* Comfortable CLI with various subcommands, support dry runs, rollbacks
+* add syntax categories such as `thing` , `type`, `action`, `punctuation/delimiter` , `keyword`, etc. that can be used as defaults to apply to all languages
+* also: categories for element types in CLI, TUI, GUI, and webpages: statistical and NLP-based inference for CSS → good logging so that process is transparent and easily improved or manually corrected
+* include comment in config template to show which options are possible
 
 
-- Nix, Home Manager→ create “pre-home-manager” that takes a master color file and populates the home manager settings (use Nix or some other language + templates? → Go, Zig, Rust, Haskell, OCaml, Cython, Lua?)
+* Nix, Home Manager→ create “pre-home-manager” that takes a master color file and populates the home manager settings (use Nix or some other language + templates? → Go, Zig, Rust, Haskell, OCaml, Cython, Lua?)
     * [https://github.com/Misterio77/nix-colors](https://github.com/Misterio77/nix-colors) *****
     * [https://github.com/SenchoPens/base16.nix](https://github.com/SenchoPens/base16.nix) *****[Stylix](https://danth.github.io/stylix/)
-- CSS & related
+* CSS & related
     * [https://sass-lang.com/dart-sass/](https://sass-lang.com/dart-sass/) 
     * [https://github.com/sass/sassc](https://github.com/sass/sassc)
-- → browser
-- Vanilla Linux
+* → browser
+* Vanilla Linux
     * [https://github.com/SingularisArt/Chameleon](https://github.com/SingularisArt/Chameleon) *****, → other projects by 
     * [https://github.com/GideonWolfe](https://github.com/GideonWolfe) 
     * [https://github.com/reorr/warnai](https://github.com/reorr/warnai)
     * [https://github.com/cherrynoize/dash-dotfiles](https://github.com/cherrynoize/dash-dotfiles) dark-light color switcher
     * [https://gradience.readthedocs.io/en/latest/](https://gradience.readthedocs.io/en/latest/)
-- terminal
-- (neo)vim
+* terminal
+* (neo)vim
     * [https://github.com/ThemerCorp/themer.lua](https://github.com/ThemerCorp/themer.lua)
     * [https://github.com/chadcat7/prism](https://github.com/chadcat7/prism)
     * [https://github.com/zaldih/themery.nvim](https://github.com/zaldih/themery.nvim)
-- other apps / operating systemsGuake (Gnome app) theming$ chmod +x set_colors.sh$ ./set_colors.shAlternatively copy lines below directly into your shell.gconftool-2 -s -t string /apps/guake/style/background/color '#01010e0e0505'gconftool-2 -s -t string /apps/guake/style/font/color '#9393a1a1a1a1'gconftool-2 -s -t string /apps/guake/style/font/palette '#000021210606:#2a2aa1a19898:#2e2e99990000:#bfbfa0a00000:#26268b8bd2d2:#6c6c7171c4c4:#4040a6a62f2f:#9393a1a1a1a1:#65657b7b8383:#dcdc32322f2f:#858599990000:#b5b589890000:#26268b8bd2d2:#6c6c7171c4c4:#2a2aa1a19898:#fdfdf6f6e3e3'** 
+* other apps / operating systemsGuake (Gnome app) theming$ chmod +x set_colors.sh$ ./set_colors.shAlternatively copy lines below directly into your shell.gconftool-2 -s -t string /apps/guake/style/background/color '#01010e0e0505'gconftool-2 -s -t string /apps/guake/style/font/color '#9393a1a1a1a1'gconftool-2 -s -t string /apps/guake/style/font/palette '#000021210606:#2a2aa1a19898:#2e2e99990000:#bfbfa0a00000:#26268b8bd2d2:#6c6c7171c4c4:#4040a6a62f2f:#9393a1a1a1a1:#65657b7b8383:#dcdc32322f2f:#858599990000:#b5b589890000:#26268b8bd2d2:#6c6c7171c4c4:#2a2aa1a19898:#fdfdf6f6e3e3'** 
     * [https://github.com/JollyRogerTrader/Regowal](https://github.com/JollyRogerTrader/Regowal) 
     * [https://github.com/lra/mackup/](https://github.com/lra/mackup/) - Keep your application settings in sync (OS X/Linux) → get ideas for colorflip and kbgeneral
-- inspirations / potential dependencies[pywal](https://github.com/dylanaraps/pywal) - pywal is a script that takes an image (or a directory of images), generates a colorscheme (using imagemagick) and then changes all of your open terminal’s colors to the new colorscheme on the fly, allowing you to have your terminal colors change with your wallpaper, or other criteria.
-- tools to use
+* inspirations / potential dependencies[pywal](https://github.com/dylanaraps/pywal) - pywal is a script that takes an image (or a directory of images), generates a colorscheme (using imagemagick) and then changes all of your open terminal’s colors to the new colorscheme on the fly, allowing you to have your terminal colors change with your wallpaper, or other criteria.
+* tools to use
     * [http://mustache.github.io/](http://mustache.github.io/) - templatingRoadmap Create Github Organization: AestheticFreedom / Basmati → ended up going with Oryzotropheo→ Create analog for keyboard shortcutsDevelop feature that maps one picture with a given color scheme to the same picture with a different color scheme. → background, or other theme-specific art → use clustering to find color centers, then interpolation → what can pywal and other libraries already do? —> also, how to map all colors to colorscheme-compatible colors? esp. relevant for theming websites and changing images, svg, rendered TeX, etc.create tools for working with dconf, gconfconfigure startup files for Python -> colors for iPython, bpython, ptpython -> sync→ Make (partially) transparent backgrounds/borders that change the colors of the background: intensify, invert (especially for outline), mellow/dim, color shift, etc. → 
     * [https://www.reddit.com/r/unixporn/comments/12t1958/questions_on_advanced_window_transparency_settings/](https://www.reddit.com/r/unixporn/comments/12t1958/questions_on_advanced_window_transparency_settings/)rewrite in Rust (portability) or CL (for easiest extensibility? → look at how qtile handles config; learn more about plugins best practices in general)→ make Nix- and homewarrior-compatible!Look at how github, vscode, nvim, pygment, etc. handle color themes across languages → generalized token classesname polychrome?just make extensions for firefox and chromium? → support Nix/Home Manager installation better (?), less hacky
     * [https://github.com/yelircaasi/swytchswatch](https://github.com/yelircaasi/swytchswatch)Someday: for phone, with whichever OS, desktop environment, and apps are best suitedIs it possible to map colors to others in the browser? Should be categorical, independent of site details. Like red #FF0000 always being shifted to green #00FF00

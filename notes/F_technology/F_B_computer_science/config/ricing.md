@@ -1,11 +1,13 @@
 # Ricing
 
+
 ## Sort
 * [https://www.freepik.com/free-vector/gradient-hexagonal-background_13900571.htm](https://www.freepik.com/free-vector/gradient-hexagonal-background_13900571.htm)
 * [https://www.wallpaperflare.com/landscape-photography-of-mountains-surrounded-by-body-of-water-wallpaper-hcoir](https://www.wallpaperflare.com/landscape-photography-of-mountains-surrounded-by-body-of-water-wallpaper-hcoir)
 * https://github.com/hyprwm/hyprland-plugins/tree/main/hyprexpo
 * https://github.com/xsghetti/HyprCrux
 * [https://uncut.wtf/](https://uncut.wtf/) - font collection
+* flag https://www.youtube.com/@Sephyrulz
 
 ## Ideal Setup:
 * Minimal use of mouse
@@ -16,6 +18,7 @@
 * Privacy and security
 * Maximized efficiency and productivity: work at the speed of thought, minimizing clutter & drag
 * Reliable, solid system - no breakage
+
 
 * browser bookmarks https://www.reddit.com/r/NixOS/s/eq3YVMGevM
 * [alphacoders](https://wall.alphacoders.com/) - wallpapers
@@ -39,8 +42,10 @@
 * [nyxt/source/renderer/gtk.lisp at 0a288c573e40b8b7ac12264782e095ca08d9f507 · atlas-engineer/nyxt](ghttps://github.com/atlas-engineer/nyxt/blob/0a288c573e40b8b7ac12264782e095ca08d9f507/source/renderer/gtk.lisp%23L68)
 * [sandesh236/sleek--themes](ghttps://github.com/sandesh236/sleek--themes)
 
+
 ## Rice Browser
 * [Home | Stylebot](https://stylebot.dev/)
+
 
 ## Rice Color
 * [Forest Green and Brown Color Palette](ghttps://www.color-hex.com/color-palette/101985)
@@ -75,10 +80,15 @@
 * [https://quickfix.es/2023/11/off-theme-presents-shades-of-purple/](https://quickfix.es/2023/11/off-theme-presents-shades-of-purple/) 
 * [iTerm2-Color-Schemes/dynamic-colors/AlienBlood.sh at master · mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/dynamic-colors/AlienBlood.sh)
 
+
 ## Rice FF
+* https://gitlab.com/domsch1988/domfox
+
 rice ff  [https://github.com/Neikon/Fox11](https://github.com/Neikon/Fox11) HGKeeper 
+
 rice ff & chrome startpage 
     * [reddit](https://www.reddit.com/r/unixporn/s/mvA6EhXF0t)
+
 rice ff : config hack shitpost 
     * [](https://www.reddit.com/r/NixOS/s/bytkKR3Tvq)
 * [EliverLara/firefox-nordic-theme: :snowflake: A dark theme for firefox theme created using the awesome Nord color palette.](ghttps://github.com/EliverLara/firefox-nordic-theme)
@@ -118,8 +128,12 @@ rice ff : config hack shitpost 
 * [lucaspar/firefox-vertical-tabs: Stylesheets for collapsible vertical tabs for Firefox.](ghttps://github.com/lucaspar/firefox-vertical-tabs)
 * [user.js/desktop at main - user.js - Codeberg.org](https://codeberg.org/Narsil/user.js/src/branch/main/desktop)
 
+## Other CSS
+* [gingeh](https://github.com/Gingeh/lastfm)
+
 ## Rice Font
 * [* Code search results](ghttps://github.com/search?q%3Dfont-patcher%2Blanguage%253ANix%26type%3Dcode)
+
 rice font Patched font name: $name Coterminous
 * [Fontforge drops me into python? - Help - NixOS Discourse](ghttps://discourse.nixos.org/t/fontforge-drops-me-into-python/5592)
 * [Fonts - Wez's Terminal Emulator](https://wezfurlong.org/wezterm/config/fonts.html)
@@ -154,13 +168,18 @@ rice font Patched font name: $name Coterminous
 * [script - Get list of all fonts containing a specific character - Ask Different](https://apple.stackexchange.com/questions/287707/get-list-of-all-fonts-containing-a-specific-character)
 * [seijinriashenko/sf-mono-liga: A Flake for installing Apple's SF Mono nerd-font, patched and ligaturized](ghttps://github.com/seijinriashenko/sf-mono-liga)
 * [viperML/iosevka: My iosevka build, patched with nerd fonts](ghttps://github.com/viperML/iosevka)
+
 rice font e.g. Fira Coterminous - even width border on the edge (1/8th? 1 pixel? 2 pixel? dynamic max(1/8th, 2 pixel)?
+
 
 ## Rice Image
 * [https://www.peakpx.com/en/search?q=dark+green+forest](https://www.peakpx.com/en/search?q%3Ddark%2Bgreen%2Bforest)
 
+
 ## Rice Teams
+
 rice teams 'is-ipad': app.layoutService.isIPad,
+
 rice teams 'notification-banner-visible': app.appStateAdapter.mainNotificationBannerStore.currentBanner,
 * [0])!=-1){return"rtl"}return"ltr"}function getStylesheetUrl(e){for(var t=0;t<themedStyleSheets.length;t++){var s=themedStyleSheets
     * [t];if(s.indexOf(".theme-"+e+".")!==-1){return s}}return themedStyleSheets
@@ -178,12 +197,15 @@ rice teams 'notification-banner-visible': app.appStateAdapter.mainNotificationBa
 * [https://statics.teams.cdn.office.net/hashed/stylesheets.theme-contrast-rtl.min-99a2c48.css](https://statics.teams.cdn.office.net/hashed/stylesheets.theme-contrast-rtl.min-99a2c48.css)
 * [https://statics.teams.cdn.office.net/hashed/stylesheets.theme-contrast.min-c13716d.css](https://statics.teams.cdn.office.net/hashed/stylesheets.theme-contrast.min-c13716d.css)
 * [https://teams.microsoft.com/_](https://teams.microsoft.com/_)
+
 rice teams view-source
+
 rice teams | themedStyleSheets.push("https://statics.teams.cdn.office.net/hashed/stylesheets.theme-contrast-rtl.min-99a2c48.css);themedStyleSheets.push("https://statics.teams.cdn.office.net/hashed/stylesheets.theme-contrast.min-c13716d.css);themedStyleSheets.push("https://statics.teams.cdn.office.net/hashed/stylesheets.theme-dark-rtl.min-f34329e.css);themedStyleSheets.push("https://statics.teams.cdn.office.net/hashed/stylesheets.theme-dark.min-40ddca9.css);themedStyleSheets.push("https://statics.teams.cdn.office.net/hashed/stylesheets.theme-darkV2-rtl.min-3b6961e.css);themedStyleSheets.push("https://statics.teams.cdn.office.net/hashed/stylesheets.theme-darkV2.min-ea15c0d.css);themedStyleSheets.push("https://statics.teams.cdn.office.net/hashed/stylesheets.theme-default-rtl.min-af690f7.css);themedStyleSheets.push("https://statics.teams.cdn.office.net/hashed/stylesheets.theme-default.min-0efad32.css);themedStyleSheets.push("https://statics.teams.cdn.office.net/hashed/stylesheets.theme-defaultV2-rtl.min-9cda25c.css);themedStyleSheets.push("https://statics.teams.cdn.office.net/hashed/stylesheets.theme-defaultV2.min-88ff9d4.css);themedStyleSheets.push("https://statics.teams.cdn.office.net/hashed/stylesheets.theme-tfl-dark-rtl.min-2da3d8b.css);themedStyleSheets.push("https://statics.teams.cdn.office.net/hashed/stylesheets.theme-tfl-dark.min-61565ac.css);themedStyleSheets.push("https://statics.teams.cdn.office.net/hashed/stylesheets.theme-tfl-default-rtl.min-7e0ad38.css);themedStyleSheets.push("https://statics.teams.cdn.office.net/hashed/stylesheets.theme-tfl-default.min-1cdcd8d.css);function setCssLanguageDirection(){let e=
     * ["ar","he","fl"];if(window.TS_PREFERRED_LOCALES&&window.TS_PREFERRED_LOCALES
     * [0]&&typeof window.TS_PREFERRED_LOCALES
     * [0]=="string"&&e.indexOf(window.TS_PREFERRED_LOCALES
     * [0].split("-")
+
 
 ## Dual Monitor    
 * [https://fedoramagazine.org/how-to-setup-multiple-monitors-in-sway/](https://fedoramagazine.org/how-to-setup-multiple-monitors-in-sway/)
@@ -192,9 +214,12 @@ rice teams | themedStyleSheets.push("https://statics.teams.cdn.office.net/hashed
 * [https://wiki.hyprland.org/Configuring/Monitors/](https://wiki.hyprland.org/Configuring/Monitors/)
 * [https://www.reddit.com/r/swaywm/comments/jqj1ww/sway_on_ultrawide_monitor_tips_or_recommended/](https://www.reddit.com/r/swaywm/comments/jqj1ww/sway_on_ultrawide_monitor_tips_or_recommended/)
 
+
 ## Colortheme Development
 
+
 ### Repictor
+
 
 # Recolor.jl, repictor (name?)
 
@@ -222,12 +247,11 @@ First step: visualize image as point cloud in RGB space → then perceptual spac
 
 Step Two: Experiment with different clustering algorithms
 
-
 Overall:
 
-- Operate separately on different clusters, shifting each cluster closer to the target color selected from the colorscheme, based on some function to shift the average (mean. median, other?)* - this function can be more advanced, for example by preserving certain relationships within the cluster, such as standard deviation, relative darkness, relative saturation, or relative distance; these can act as constraints to which the average shift function is subject
-- add smoothing by performing a weighted combination of each average shifting function, based on (some function of) respective distance from each cluster centroid → soints at the edge of a cluster will be more heavilty affected by the next largest cluster’s transformation → weighting function may be a good case for softmax or some variation of it
 
+* Operate separately on different clusters, shifting each cluster closer to the target color selected from the colorscheme, based on some function to shift the average (mean. median, other?)* - this function can be more advanced, for example by preserving certain relationships within the cluster, such as standard deviation, relative darkness, relative saturation, or relative distance; these can act as constraints to which the average shift function is subject
+* add smoothing by performing a weighted combination of each average shifting function, based on (some function of) respective distance from each cluster centroid → soints at the edge of a cluster will be more heavilty affected by the next largest cluster’s transformation → weighting function may be a good case for softmax or some variation of it
 
 Location-aware post-processing to adjust the amount of contrast between pixels of different clusters?
 
@@ -235,8 +259,9 @@ Maybe learn custom perceptual distance functions that account for the way humans
 
 Nice potential for interactive GUI:
 
-- first show clusters in color space and on the image → interactive correspondence
-- user selects new color for each cluster (or color distribution)
+
+* first show clusters in color space and on the image → interactive correspondence
+* user selects new color for each cluster (or color distribution)
 
 Idea: use hyperplanes for maximum separation between clusters
 
@@ -244,53 +269,55 @@ Random idea: Maybe clustering algorithms can help with this a bit → informatio
 
 Someday: use TDA?
 
+
 ### Color Theme DevelopmentOwnerIsaac RileyTags
 
-- my own projectsto fork!https://github.com/orsinium-labs/pencils - interesting for exploring color themes via Python → fork and hack around on, maybe extend and turn into CLI*
+
+* my own projectsto fork!https://github.com/orsinium-labs/pencils - interesting for exploring color themes via Python → fork and hack around on, maybe extend and turn into CLI*
 * [🎨Recolor.jl, repictor (name?)]()*
 * [Reddit Code Review - Python class for working with and converting between RGB color codes](https://www.reddit.com/r/codereview/comments/10zy2j5/python_class_for_working_with_and_converting/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=10&utm_content=share_button)
-- meta / other
+* meta / other
     * [nice idea for two-color theme](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F2k9xfo87648z.png)https://bottosson.github.io/posts/colorwrong/ https://github.com/catppuccin/catppuccin → see list of software and use themes in developing colorlip / switchswatch
-- color theory, readings→ see Rickrack in ‘interactive’**** https://www.colorhexa.com/ - very thorough, very good
+* color theory, readings→ see Rickrack in ‘interactive’**** https://www.colorhexa.com/ - very thorough, very good
     * [Podlodka Color Space Podcast](https://open.spotify.com/episode/7nymXLWGAhTnRdNxEvontC?si=ICCMnVZHTLCBy00jiiSRYQ)http://www.brucelindbloom.com/https://www.dioptricdesign.com/ https://michael-m.medium.com/true-color-interpolation-a1a17352ebf0https://github.com/kdrag0n
-- Color management & programminghttps://github.com/meodai/color-nameshttps://github.com/joshuaiz/hexyhttps://github.com/meodai/color-nameshttps://github.com/tesselle/khroma - for scientific vizualization, emphasis on accessibility https://bottosson.github.io/posts/oklab/ → list of tools https://github.com/Ogeon/palette https://docs.rs/palette/0.7.3/palette/ - excellent rust tool for color correctness, conversion, etchttps://github.com/sharkdp/pastel - CLI similar to palettehttps://github.com/andrew-pa/unipalette
-- color space mapping, interpolationhttps://github.com/ozwaldorf/lutgen-rs https://github.com/JuliaGraphics/ColorSchemeTools.jlhttps://github.com/Axenide/ColorFuse - a type of color interpolation, also has some templating
-- interactive toolsvscode via json** https://terminal.sexy/https://paletton.com/https://bottosson.github.io/misc/colorpicker****
+* Color management & programminghttps://github.com/meodai/color-nameshttps://github.com/joshuaiz/hexyhttps://github.com/meodai/color-nameshttps://github.com/tesselle/khroma - for scientific vizualization, emphasis on accessibility https://bottosson.github.io/posts/oklab/ → list of tools https://github.com/Ogeon/palette https://docs.rs/palette/0.7.3/palette/ - excellent rust tool for color correctness, conversion, etchttps://github.com/sharkdp/pastel - CLI similar to palettehttps://github.com/andrew-pa/unipalette
+* color space mapping, interpolationhttps://github.com/ozwaldorf/lutgen-rs https://github.com/JuliaGraphics/ColorSchemeTools.jlhttps://github.com/Axenide/ColorFuse - a type of color interpolation, also has some templating
+* interactive toolsvscode via json** https://terminal.sexy/https://paletton.com/https://bottosson.github.io/misc/colorpicker****
 * [https://realtimecolors.com](https://realtimecolors.com/?colors=000000-ffffff-4685ff-f2f2f2-ffb084)
     * [Color Picker | Color from Image, HEX, RGB, HTML | RedKetchup](https://redketchup.io/color-picker)https://github.com/Simonwep/pickrhttps://gitlab.gnome.org/World/gcolor3 https://www.kryogenix.org/code/pick/ https://github.com/thezbyg/gpick** https://coolors.co/?home - easy interactive generation* http://brianreilly.me/Base16Designer/ https://github.com/themix-project/themix-gui - A Graphical application for generating different color variations of a Numix-based and Flat-Plat themes (GTK2, GTK3), GNOME-Colors and Archdroid icons. → https://github.com/themix-project  https://github.com/keshavbhatt/ColorPicker** https://github.com/eigenmiao/Rickrack - https://eigenmiao.com/rickrack/ - phenomenl, guided by color theory** https://github.com/plainas/cubecolors http://plainas.github.io/cubecolors/ → maybe change isometry from continuous to perceptual scale?https://github.com/yrwq/ccc - 🎨 Show off your color palette - good for quick interactive development in the terminal***** https://github.com/adobe/leonardo - generation based on desired contrast
-- small-set generationhttps://github.com/luizdemoraes/mono - monochromatic theme generator in react; website down → try to get up and running myselfhttps://github.com/simurai/duotone-dark-syntax -
+* small-set generationhttps://github.com/luizdemoraes/mono - monochromatic theme generator in react; website down → try to get up and running myselfhttps://github.com/simurai/duotone-dark-syntax -
     * [logic](https://github.com/simurai/duotone-dark-syntax/blob/master/lib/duotone.coffee) - see also https://github.com/simurai/vscode-tritone, https://github.com/metaory/mxcolr-lite, https://github.com/metaory/mxcolr-v2 - pseudo-random color generation
-- exploration, collections
+* exploration, collections
     * [Explore Color Palettes - Coolors](https://coolors.co/palettes/popular/forest)
-- from picturepywalhttps://github.com/robwaz/pywal - current forkhttps://github.com/dylanaraps/pywalhttps://github.com/matthewlscarlson/zathura-pywalhttps://github.com/Quicksilver151/CustomTools/tree/master/wal https://github.com/dylanaraps/pywalhttps://github.com/bluedrack/vscode-walhttps://github.com/xi/xiwalhttps://github.com/JuliaGraphics/ColorSchemeTools.jl https://github.com/dylanaraps/wal - generate and change colorschemes on the fly.https://github.com/TesterTech/rice-i3-from-scratch-pywal -
+* from picturepywalhttps://github.com/robwaz/pywal - current forkhttps://github.com/dylanaraps/pywalhttps://github.com/matthewlscarlson/zathura-pywalhttps://github.com/Quicksilver151/CustomTools/tree/master/wal https://github.com/dylanaraps/pywalhttps://github.com/bluedrack/vscode-walhttps://github.com/xi/xiwalhttps://github.com/JuliaGraphics/ColorSchemeTools.jl https://github.com/dylanaraps/wal - generate and change colorschemes on the fly.https://github.com/TesterTech/rice-i3-from-scratch-pywal -
     * [reddit](https://www.reddit.com/r/unixporn/comments/12ug679/i3wm_image_browser_for_pywal_to_test_out_color/)https://github.com/makuto/auto-base16-themehttps://github.com/misterio77/flavours/
     * [Flavours, a simple and unixy way to use base16 schemes : unixporn](https://www.reddit.com/r/unixporn/comments/jhbyoy/oc_flavours_a_simple_and_unixy_way_to_use_base16/)
     * [Make a terminal theme with Base16 and Flavours - Part 2 - YouTube](https://www.youtube.com/watch?v=Hjq15PVY0Tk) → see parts I and III |
     * [flavours/Cargo.toml at master · Misterio77/flavours](https://github.com/Misterio77/flavours/blob/master/Cargo.toml)https://github.com/entscheidungsproblem/K-meanshttps://github.com/f0x48/ricemood
     * [Reddit -
     * [OC] I create a tool to magically match your color scheme based on the wallpaper](https://www.reddit.com/r/unixporn/comments/dzgu7i/oc_i_create_a_tool_to_magically_match_your_color/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=10&utm_content=share_button)
-- AI colorscheme generationhttps://www.khroma.co/
-- format, conversion, etc.
+* AI colorscheme generationhttps://www.khroma.co/
+* format, conversion, etc.
     * [ansifilter](http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php)
     * [no-color.org](https://no-color.org/)
-- calibration, device, control, other
+* calibration, device, control, other
     * [DisplayCAL](https://displaycal.net/) - Open Source Display Calibration and Characterization powered by ArgyllCMS.
     * [OpenRGB](https://openrgb.org/) - Open source RGB lighting control that doesn’t depend on manufacturer software. For Windows, Linux, MacOS.
-- with specific softwarevim / nvimhttps://github.com/nokobear/vim-colorscheme-edithttps://github.com/utubo/vim-6colorshttps://github.com/strrts/swatch.vim
+* with specific softwarevim / nvimhttps://github.com/nokobear/vim-colorscheme-edithttps://github.com/utubo/vim-6colorshttps://github.com/strrts/swatch.vim
     * [glowfish](https://github.com/daylerees/colour-schemes/blob/master/vim/colors/glowfish.vim)https://github.com/ChristianChiarulli/colorgen-nvimhttps://github.com/GideonWolfe/vim.reaperhttps://github.com/rktjmp/lush.nvim - colorscheme creationhttps://github.com/lifepillar/vim-colortemplatehttps://github.com/chadcat7/prismvscode→ see vscode-walhttps://github.com/yelircaasi/schwarzwald-vscode-theme https://code.visualstudio.com/api/references/theme-color https://code.visualstudio.com/docs/getstarted/themes#_customizing-a-color-theme https://css-tricks.com/creating-a-vs-code-theme/ ***
 * [VSCode Theme Creator](https://themes.vscode.one/)https://code.visualstudio.com/docs/getstarted/themes https://code.visualstudio.com/api/extension-guides/color-theme#create-a-new-color-theme  UBUNTU STACK https://github.com/sommaa/dots *** → get working in VanillaOS in a VMhttps://en.wikipedia.org/wiki/Xrdb
     * [Changing the colors - Material for MkDocs](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#automatic-light-dark-mode)https://github.com/hyprwm/hyprpickerhttps://github.com/Soft/xcolorhttps://github.com/solarized/xresourceshttps://sphinx-design.readthedocs.io/en/latest/index.html
     * [Gogh - Color Scheme](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminalhttps://github.com/DioptricDesign/qtile-chameleon
     * [dconf - How to save GNOME settings in a file? - Ask Ubuntu](https://askubuntu.com/questions/984205/how-to-save-gnome-settings-in-a-file)
-- 1S
+* 1S
     * [command line - Changing colour of text and background of terminal? - Ask Ubuntu](https://askubuntu.com/questions/558280/changing-colour-of-text-and-background-of-terminal)
-- templating, instantiation, switching, etc.https://github.com/misterio77/flavours/
+* templating, instantiation, switching, etc.https://github.com/misterio77/flavours/
     * [Flavours, a simple and unixy way to use base16 schemes : unixporn](https://www.reddit.com/r/unixporn/comments/jhbyoy/oc_flavours_a_simple_and_unixy_way_to_use_base16/)
     * [Make a terminal theme with Base16 and Flavours - Part 2 - YouTube](https://www.youtube.com/watch?v=Hjq15PVY0Tk) → see parts I and IIIhttps://github.com/chriskempson/base16https://github.com/ilpianista/base16-builder-rustexample for many apps: https://draculatheme.com/ - great collection of templateshttps://github.com/deviantfero/wpgtk - A universal theming software for all themes defined in text files, compatible with all terminals, with default themes for GTK2, GTK+, openbox and Tint2 that uses pywal as it’s core for colorscheme generation.https://github.com/jacoborus/estilohttps://github.com/Saecki/alco -rust, Update terminal colorschemes on the flyhttps://github.com/base16-builder/base16-builder**** https://github.com/mjswensen/themerhttps://github.com/piutranq/cologenhttps://github.com/Kumux/kumux-colorscheme-engine (good source of templates! - also in pictrix page)https://github.com/andreyvpng/just-colorshttps://github.com/magnickolas/alacritty-scheme-switcher
     * [→ ideas for colorflip](https://github.com/gh0stzk/dotfiles)https://github.com/cherrynoize/dash-dotfiles
     * [bspwm dark light mode switcher](https://www.reddit.com/r/unixporn/comments/13hpfdv/bspwmpolybar_dark_mode_switcher/) https://github.com/gh0stzk/dotfiles - bspwm color switchinghttps://github.com/stav121/i3wm-themerhttps://github.com/shvedes/dotfiles (hyprland) - theme switching script** https://github.com/Kumux/kumux-colorscheme-engine → advanced circadian cycle adaptive colorscheme feature → good list of software → add this functionality to a sister app of pictrix? make compatible? → look at design and implementation - https://colorscheme.kumux.io/ → somewhat different and worth adding eventually; not top prio
-- other, maybe someday, etchttps://github.com/imgly/rembrandt - image comparison
-- Browser, websitestylus
+* other, maybe someday, etchttps://github.com/imgly/rembrandt - image comparison
+* Browser, websitestylus
     * [live_stylus](https://pypi.org/project/live_stylus/)
     * [stylus-ui](https://pypi.org/project/py-stylus-ui/)https://github.com/jw/stilus -
     * [stilus](https://pypi.org/project/stilus/)for colorflip https://github.com/jw/styrus → resurrect?for colorflip https://github.com/stevepryde/thirtyfour → is this even needed?bkad/python-stylus: python bridge for the stylus css compilerStylus | PyCharm Documentationhttps://github.com/jw/stilus -
@@ -307,13 +334,15 @@ Someday: use TDA?
     * [(2) Where are extensions data stored ? : firefox](https://www.reddit.com/r/firefox/comments/ei70ii/where_are_extensions_data_stored/)
     * [(2) Firefox retaining private data from uninstalled extensions : firefox](https://www.reddit.com/r/firefox/comments/g4m306/firefox_retaining_private_data_from_uninstalled/)10407e4f-a5b2-4f9f-84dc-b3934502b25e/manifest.jsonLocal StorageSession StorageCache StorageCookiesIndexed DBabout:support
 
+
 * [Gpick](http://www.gpick.org/) - Gpick allows you to sample any color from anywhere on your desktop, and it also provides some other advanced features!
+
 
 ## Dotfiles & Configs, Colors, Ricing, WMs, Colorflip
 * https://www.youtube.com/watch?v=avhEMANmfIk
 
 
-- Custom Linux Kernels
+* Custom Linux Kernels
 * https://nixos.wiki/wiki/Linux_kernel * 
 * [GNU Linux-libre](https://www.fsfla.org/ikiwiki/selibre/linux-libre/) - GNU Linux-libre is a project to maintain and publish 100% Free distributions of Linux, suitable for use in Free System Distributions.
 * [Linux-Hardened](https://github.com/anthraxx/linux-hardened) - A security-focused Linux kernel applying a set of hardening patches to mitigate kernel and userspace exploits. It also enables more upstream kernel hardening features than linux.
@@ -321,7 +350,7 @@ Someday: use TDA?
 * [Liquorix](https://liquorix.net/) - Liquorix is a distro kernel replacement built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads.
 * [XanMod](https://xanmod.org/) - XanMod is a general-purpose Linux kernel distribution with custom settings and new features. Built to provide a stable, responsive and smooth desktop experience.
 * [Zen](https://github.com/zen-kernel/zen-kernel) - Result of a collaborative effort of kernel hackers to provide the best Linux kernel possible for everyday systems.
-- Init System & Related
+* Init System & Related
 * https://fedoramagazine.org/what-is-an-init-system/ 
 * [Why Systemd is the Devil but I Love It](https://www.youtube.com/watch?v=hc7J-zWEty8)
 * [Linux Init Systems Compared! (SystemD, OpenRC, Runit)](https://www.youtube.com/watch?v=k1Wh8sWR8v0)
@@ -331,7 +360,7 @@ Someday: use TDA?
 * [🤓 Aprende a usar Systemctl | Comandos Básicos de Linux 🐧](https://www.youtube.com/watch?v=4xIsPJWf9l0)
 * https://www.reddit.com/r/initFreedom/
 * systemd, runit, dinit, logind, elogind, openrc -> search login and init systems * 
-- Wallpaper
+* Wallpaper
 * https://github.com/Horus645/swww
 * [leaves](https://github.com/Aylur/dotfiles/blob/main/wallpapers/leaves.jpg)
 * [splash-cli](https://github.com/splash-cli/splash-cli)) - Beautiful wallpapers from Unsplash.
@@ -400,13 +429,13 @@ Someday: use TDA?
 * https://github.com/jszczerbinsky/lwp
 * https://drive.google.com/drive/folders/1741M3BYbUsU2CtCNO8Nqnt1fYjeaCV6m Wallpapers
 * https://github.com/ChrisTitusTech/nord-background* 
-- Meta
+* Meta
 * [dotfiles prezi](https://docs.google.com/presentation/d/1HOLKb63i-aXNLug5hZsH9QIYxifn2ak-YQf2gRD7jII/edit#slide=id.p) *****  [Kansas Linux Fest 2019 - Neal Fultz - Dotfiles: A Survey](https://www.youtube.com/watch?v=cwy9hrVvdnY&pp=ygUTTmVhbCBGdWx0eiBkb3RmaWxlcw%3D%3D) 
 * [dotfiles.github.io](https://dotfiles.github.io/) - Collected dotfile resources. Has sections with dotfile bootstraps and lists of frameworks for various shells and editors.
 * [GitHub does dotfiles - dotfiles.github.io](https://dotfiles.github.io/)
 * [jondot/awesome-devenv: A curated list of awesome tools, resources and workflow tips making an awesome development environment.](https://github.com/jondot/awesome-devenv)
 * https://sinister.ly/Thread-Tutorial-The-Lazy-Man-s-Guide-to-Ricing-Linux-WM-i3 * 
-- → Collections
+* → Collections
 * https://www.reddit.com/r/UsabilityPorn/
 * https://www.reddit.com/r/unixporn/ 
 * [Awesome dotfiles | Curated list of awesome lists | Project-Awesome.org](https://project-awesome.org/webpro/awesome-dotfiles)
@@ -415,11 +444,11 @@ Someday: use TDA?
 * [dotfiles · GitHub Topics](https://github.com/topics/dotfiles)
 * http://dotshare.it/ 
 * [Reddit - Can anyone share his dotfile ? I’m bored from mine](https://www.reddit.com/r/neovim/comments/11zi6i3/can_anyone_share_his_dotfile_im_bored_from_mine/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=10&utm_content=share_button)* 
-- Video / Blog Presenting Dotfiles
+* Video / Blog Presenting Dotfiles
     * [Productive Workstation with Linux](https://www.youtube.com/playlist?list=PL2B6OzTsMUrz3RBEhYGb-0wtH9SqFpcDj) ***********
     * [Setup Video](https://www.youtube.com/watch?v=stCXFxC4OH0)
     * [Setting up Arch Linux chris@machine chris@machine • •](https://www.youtube.com/watch?v=4Uc3-PIq-80&list=PLhoH5vyxr6QpGSDfaYLxOgjCzCej6q0kP)
-- 1-shot reading
+* 1-shot reading
     * [Making Debian and SwayWM and GTK play nicely. Starting over. nwg-look rocks!](https://www.youtube.com/watch?v=IV74fRNfhdM)
     * [ ]  https://www.xbitlabs.com/how-to-use-laptop-as-monitor/
     * [ ]  https://www.youtube.com/results?search_query=linux+laptop+as+second+monitor

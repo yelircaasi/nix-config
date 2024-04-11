@@ -1,20 +1,32 @@
 # E
 
+
 ## Projects
 
 1. Sort ‘Neurociencias y ciencias de la mente’ (big project)
+
 2. Sort ‘Reading’
+
 3. Sort ‘Scalp Books’
+
 4. Sort ‘Media’
+
 5. Sort ‘Evolución’’
+
 6. Sort ‘Filosofía de la ciencia’
+
 7. Sort ‘Books’
+
 8. Sort ‘Aves’
+
 9. Sort ‘Animales’
+
 10. Sort ‘Anatomía y fisología’
+
 11. Sort ‘Notes and Questions’
 
-- A
+
+* A
     - Reading
                 * https://en.wikipedia.org/wiki/Group_selection
                 * http://libgen.rs/search.php?req=neil+shubin&open=0&res=25&view=simple&phrase=1&column=def
@@ -531,7 +543,7 @@
         
         * [Le Chemin de la Nature - YouTube - YouTube](https://www.youtube.com/channel/UCDRv_dbkaa6b1kXxsokstpg/videos)
         
-- B. Biología
+* B. Biología
     - Evolución
                 * https://www.evolutionnews.org/
         
@@ -550,7 +562,7 @@
         
         Edward J. Larson - Evolution
         
-- C. Zoológica
+* C. Zoológica
     - Animales
                 * http://www.tiere-tierarten.de/
                 * http://www.das-tierlexikon.de/
@@ -588,9 +600,9 @@
                 * http://mawdoo3.com/%D9%85%D8%A7_%D9%87%D9%8A_%D8%A7%D9%84%D8%B7%D9%8A%D9%88%D8%B1
                 * http://beatona.net/CMS/index.html
         
-- D. Botánica
-- E. Fisiología
-- F. Anatomía y fisiología
+* D. Botánica
+* E. Fisiología
+* F. Anatomía y fisiología
     - General Learning Resources
                 * http://ect.downstate.edu/courseware/haonline/toc.htm
                 * http://www.med.harvard.edu/AANLIB/home.html
@@ -621,8 +633,9 @@
         
         * [Handbook of Diseases of the Hair and Scalp | Rodney Sinclair, Cedric Banfield, R. P. R. Dawber | download](https://b-ok.cc/book/895519/125025)
         
-- G. Ecología
-- H. Bioquímica
+* G. Ecología
+* H. Bioquímica
+
 
 ## I. Neurociencias y ciencias de la mente
 * https://www.youtube.com/@ArtemKirsanov
@@ -631,7 +644,8 @@
 Get a grounding into the consciousness research.
 * [Read: Neuro Wikipedia](https://en.wikipedia.org/wiki/Template:Neuroscience)
 
-- Notes
+
+* Notes
     
     How can certain responses be hard-wired in the brain? Via which mechanisms does (or could) hardwiring work?
     
@@ -655,12 +669,12 @@ Get a grounding into the consciousness research.
     
     idea of while greater than sum of its parts - applicable to music and mystical experiences, conscienceness as it seems to be in the material realm?
     
-- Courses
+* Courses
         * https://www.coursera.org/learn/neuro-ling-ru
         * [Устройство и работа мозга](https://www.youtube.com/watch?v=0qlgd8HLn_M)
         * [Computational Neuroscience Course](https://www.coursera.org/learn/computational-neuroscience/home/welcome)
     
-- Reading List
+* Reading List
         * [Library Genesis: G. Bard Ermentrout, David H. Terman (auth.) - Mathematical foundations of neuroscience](http://libgen.rs/book/index.php?md5=8C0F9776F51DC564E7FF318425350F1D)
         * [Neurofisiología Básica](https://en.de1lib.org/book/19245601/20b652)
         * [Guía básica en Neurociencias](https://en.de1lib.org/book/19211067/7bd150)
@@ -1238,7 +1252,7 @@ Get a grounding into the consciousness research.
         * https://github.com/wmvanvliet/scns
         * https://github.com/wmvanvliet/neuroscience_tutorials
     
-- Conciencia
+* Conciencia
         * [Vorlesung Prof. Lyre: Einführung in die Philosophie des Geistes](https://youtube.com/playlist?list=PLZodxGp7gj92bENCwxnb4GZuCJODNYBED)
         * https://www.youtube.com/watch?v=JP1nmExfgpg
         * https://www.google.com/search?rlz=1C1GCEA_enUS832US833&ei=gylTXKXOEZ3E0PEPnqCIuA4&q=Nancy+Canwisher&oq=Nancy+Canwisher&gs_l=psy-ab.3..0i13l2j0i13i30l8.7334.7397..7650...0.0..0.93.177.2......0....1..gws-wiz.9iqLKRe9ZtQ
@@ -1285,7 +1299,7 @@ Get a grounding into the consciousness research.
         * https://www.youtube.com/watch?v=fjbWr3ODbAo
         * [Conscience](https://docs.google.com/spreadsheets/d/1MGgr_K5b2VjWkdsZohy0VAXF16cvLo5uZJmsD3e1Fko/edit#gid=0)
     
-- Neuroanatomía
+* Neuroanatomía
         * http://www.docentes.unal.edu.co/edosunas/docs/ISO-8859-1''Guia_20Neuroanatom_EDa_202010.pdf
         * https://www.scribd.com/document/371872889/Carpenter-Neuroanatomia-pdf
         * https://www.reeme.arizona.edu/materials/neuroanatomia%20para%20interpretrar%20tac.pdf
@@ -1312,7 +1326,7 @@ Get a grounding into the consciousness research.
         * [Нейроанатомия](https://www.youtube.com/playlist?list=PLnYjxOZGL1F8V6qkFd03XFW4r900xMrWJ)
         * [Neuroanatomia - Sistema Nervoso Humano](https://www.youtube.com/playlist?list=PLokE6izDq5XPpT7jVuJK8rUte3W7Tf16J)
     
-- Books
+* Books
     
     Баллард Джеймс - Атака на мозок
     
@@ -1637,7 +1651,7 @@ Get a grounding into the consciousness research.
     
     rafael núñez - publications
     
-- Linguistics
+* Linguistics
         * https://www.kernel.com/news/announcing-kernel-flux-the-worlds-most-powerful-neural-interface
         * https://academic.oup.com/brain/article/122/12/2207/266927/Fitting-two-languages-into-one-brain
         * [Language and Thought | Petrina Nomikou](https://www.youtube.com/watch?v=Pe0TTMyFd6k)
@@ -1645,7 +1659,7 @@ Get a grounding into the consciousness research.
     
     How do bilinguals code different languages in their brains? How does the brain identify and keep separate different languages?
     
-- Philosophy
+* Philosophy
         * [Jerry Fodor Interview on Philosophy of Mind](https://www.youtube.com/watch?v=Hs82SsczIpE)
         * http://philosophyofbrains.com/
         * https://www.crb.uu.se/digitalAssets/445/c_445294-l_1-k_k-evers-neuroethique.pdf

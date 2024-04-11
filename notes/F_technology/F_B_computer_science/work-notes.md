@@ -1,27 +1,225 @@
 # Work Notes
 
+move cv-analysis to gpu, rewrite in cpp with pybind11 and parallelize everything
+https://github.com/evilmartians/lefthook
+add deskew keyword to cv-analysis service
+
+output "skewAngle": float
+
 ## Projects
 
 1. sort ‘NLQ’
+
 2. sort ‘VanillaOS’
+
 3. Read ‘a lire’
+
 4. sort ‘Config’
+
 5. sort ‘Logging’
+
 6. sort ‘pytest’
+
 7. Read articles from ‘à lire’
+
 
 ## Sort
 * [Remote Mob Programming | How we do Remote Mob Programming.](https://www.remotemobprogramming.org/)
 * https://fasttext.cc/docs/en/aligned-vectors.html
 
+image_classification_service...parsable.py
+
+visual-layout-parsing...stream.py
+
+... .clip()
+
+... .pixmap()
+
+Graph-based approaches for Documine: Graph mining, cluster analysis
+
+KundenProjekte/syngenta
+
+Look into convolutional filter-based dotted line detection
+
+Look into filter-based headline detection
+
+https://github.com/chulwoopack/docstrum
+
+https://ieeexplore.ieee.org/abstract/document/244677
+
+deskewing: use Gini coefficient? variance?
+
+-> make all places pull from angles in .yaml
+
+joint output? -> sign probability, regression, binary classification
+
+
+### DHL
+
+LCS with poetry
+
+Inferenzverfahren verfeinern
+
+Pfadgeneralisierung für Schleifen in den Daten
+
+Tests schreiben
+
+Create paths object for managing all relevant paths
+
+evaluation method for each rule -> check whether rule generalizes; bootstrap for mappings
+
+composite (multi-input) rules
+
+use protocol classes in Python
+
+```
+
+UNA
+
+UNB - Interchange Header
+
+UNH - Message Header
+
+BGM - Begnning of Message
+
+(TSR) - transport service requirements
+
+MOA - monetary amount
+
+FTX+AAA - Free Text
+
+CNT+7 - Control Total
+
+CNT+11
+
+CNT+15
+
+TOD - terms of delivery or transport
+
+LOC - place / location identification
+  5 departure
+  7 delivery
+  8 destination
+
+RFF - reference
+
+GOR - governmental requirements
+
+DTM - date/ time / period
+
+NAD - name and address
+
+CTA - contact information
+
+COM - communication contact
+
+GID - goods item details
+
+MEA - measurements
+
+DIM - dimensions
+
+DOC - document / message details
+
+PCI - package identification
+
+GIN - goods identity number
+
+EQD - line item (?)
+
+TCC+INV - (?)
+
+MOA - monetary amount
+
+QTY - quantity
+
+MEA - measurements
+
+FTX - free text
+
+UNT - message trailer
+
+UNZ - interchange trailer
+
+FTX+AAA - goods description
+
+FTX+AAB
+
+FTX+DIN
+
+FTX_AAD
+
+WT - weight
+
+VOL - volume
+
+MTQ -m^2
+
++KGM - kg
+
++AAE - item gross weight
+
+```
+
+```tex
+
+y_i = f^*(\vec{x}) = argmax_{f_i} s(f_i)
+
+```
+
+RL Model for DHL: (path, entity, all paths) -> (path, entity)
+                                            -> mapping: rules, constraints on rules
+
+```tex
+
+a_t = \pi_\theta (\cdot | s_t)
+
+```
+
+0. path enumeration
+
+1. recognition of corresponding entities (values)
+   (rule-based) -> by type: string, num, date
+
+2. raw path2path count matrix
+
+3. Initialize mapping for each output path -> a priori probabilistic mapping
+
+4. generate rule space -> as tree
+   `f_i(path) = value` -> list of candidate rules
+
+5. increment rule score for each rule generating correct output
+    operations:
+    - identity
+    - numerical transformation (solve by e.g. regression)
+    - string operations: substring,character mapping, casing, substring transposition
+
+
+### ML Pipelines
+
+Airflow + MLFlow + Kubernetes
+
+airflow -> generality -> DAGs & scheduling
+* data versioning
+* model versioning
+* registry
+* automated workflow with triggers -> definable DAG
+* TF & Pytorch compatibility?
+* integrated with Docker?
+* graphical UI?
+
+
 # Organization, Meta
+
 → [Timeline](https://knecon.atlassian.net/jira/software/c/projects/RES/boards/40/timeline)
 
+
 # Research Shared Packages
-- [ ]  kn_utils: add datahash module
+* [ ]  kn_utils: add datahash module
 * [Programming Languages | RabbitMQ - Blog](https://blog.rabbitmq.com/categories/programming-languages/)
 
-- Config
+
+* Config
         * [Settings management - pydantic](https://docs.pydantic.dev/usage/settings/)
         * [Configuring Python Projects with INI, TOML, YAML, and ENV files](https://hackersandslackers.com/simplify-your-python-projects-configuration/)
         * [dynaconf/dynaconf: Configuration Management for Python ⚙](https://github.com/dynaconf/dynaconf)
@@ -50,9 +248,11 @@
         * [Env vars - Dynaconf - 3.1.11](https://www.dynaconf.com/envvars/)
     
 
+
 # Logging
 
-- JSON
+
+* JSON
         * https://www.baeldung.com/java-log-json-output 
         * [Marius Schummer: https://knecon.atlassian.net/wiki/spaces/PM/pages/118784001/2023-...](https://teams.microsoft.com/l/message/19:meeting_YTBkZGY0YmYtZDQ5NS00NDliLThkZmEtNmI3NzQwZTcwZjJj@thread.v2/1697112494142?context=%7B%22contextType%22%3A%22chat%22%7D)
         * https://dev.to/gauthierplm/how-to-output-log4j2-logs-as-json-5an3
@@ -85,43 +285,52 @@
 * [A guided tour of Python logging PyCon AU PyCon AU • • 14.555 visualizaciones hace 4 años](https://www.youtube.com/watch?v=DxZ5WEo4hvU)
 * [Why … - structlog 22.3.0 documentation](https://www.structlog.org/en/stable/why.html)
 
+
 # Instantli
 
+
 # NLQ
-- [ ]  add attention to model
+* [ ]  add attention to model
      - [ ]  add CRF to model
+
 
 ## Notes and Links
 
-- ONNX
+
+* ONNX
         * https://pytorch.org/docs/stable/onnx.html
     
-- Spelling Corrections
+* Spelling Corrections
         * https://theautomatic.net/2019/12/10/3-packages-to-build-a-spell-checker-in-python/
         * https://github.com/hellohaptik/spello
         * https://github.com/languagetool-org/languagetool
         * https://huggingface.co/oliverguhr/spelling-correction-english-base
 * [tokenizer.json · facebook/bart-large-cnn at main](https://huggingface.co/facebook/bart-large-cnn/blob/main/tokenizer.json)
-- [ ]  Clustering 229
+* [ ]  Clustering 229
      - [ ]  Clustering Analysis 238
      - [ ]  Data Clustering Algorithms & Applications 138
      - [ ]  Practical Guide to Data Clustering in R 177
      - [ ]  - [ ]  [Graph-Based NLP and IR](https://drive.google.com/file/d/1_yAyK1ZaBRorNLGL2upsOoiGjHq1HVbp/view?usp=sharing)- [ ]  .- [ ]  https://github.com/Sentdex/Simple-kNN-Gzip
      - [ ]  [“Low-Resource” Text Classification: A Parameter-Free Classification Method with Compressors](https://aclanthology.org/2023.findings-acl.426.pdf)- [ ]  [gzip is all you need](https://www.youtube.com/watch?v=jkdWzvMOPuo)
 
+
 # Table Parsing
 
 feature/table_partitioning (cv_analysis / layout_parsing)
 
+
 # Deskewer
+
 
 # Grammar-Based Data Generation
 
 gramdatagen (GramDataGen.jl?) → desiderata: type safety, memory safety, efficiency, purity
 
+
 # LLMs
 
-- LLMs
+
+* LLMs
         * https://direct.mit.edu/neco/article/35/3/309/114731/Large-Language-Models-and-the-Reverse-Turing-Test 
         * https://www.reddit.com/r/MachineLearning/comments/12omnxo/r_timeline_of_recent_large_language_models 
         * [PAL Video](https://www.youtube.com/watch?v=dy7-LvDu-3s)
@@ -140,24 +349,31 @@ gramdatagen (GramDataGen.jl?) → desiderata: type safety, memory safety, effici
 * [Chomsky on ChatGPT](https://www.google.com/search?client=firefox-b-m&sxsrf=APwXEdccHTRhTnyXrWPBeURbAnNhA86XlQ%3A1680896954010&q=noam+chomsky+on+chatgpt&oq=noam+chomsky+on+chatgpt&aqs=heirloom-srp..0l5)
 * [Eliezer Yudkowsky Lex Friedman](https://open.spotify.com/episode/2g6WjOL1J1Ovm1kndXk1nt?si=9R4zKfi7SmeN6gxLWsjJ_g)
 
+
 # Image Classification Service
 
 export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/usr/lib/x86_64-linux-gnu”
 
+
 #apt install nvidia-cuda-toolkit
+
 
 # Face Detection
 
+
 # Standards, Infrastructure, and Templates
+
 
 # Wiki
 
+
 # Miscellaneous / Overarching
 
-- Reading
-- TODO
+
+* Reading
+* TODO
     - [ ]  update Gitlab pipeline
-- pytest
+* pytest
         * [cbohara/pytest: Notes from Python Testing with pytest by Brian Okken](https://github.com/cbohara/pytest)
         * [pytest-dev/pytest: The pytest framework makes it easy to write small tests, yet scales to support complex functional testing](https://github.com/pytest-dev/pytest)
         * [jashburn8020/python-testing-with-pytest: Excerpts from the book Python Testing with Pytest by Brian Okken](https://github.com/jashburn8020/python-testing-with-pytest)
@@ -169,14 +385,14 @@ export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/usr/lib/x86_64-linux-gnu”
         * [An example on how to capture and test logs with pytest.](https://gist.github.com/hectorcanto/981b49a83a9e15b68efe5302a643e5c0)
         * [simplistix/testfixtures: testfixtures is a collection of helpers and mock objects that are useful when writing automated tests in Python.](https://github.com/simplistix/testfixtures)
     
-- pynix
+* pynix
     - [ ]  prepare presentation on Python development in Nix for the team (create Docker container, go through Tweag tutorial on Nix + Python)
         * https://cedaei.com/posts/python-poetry-pipx/ 
     
-- Segmentation
+* Segmentation
         * https://segment-anything.com/ 
     
-- Notes
+* Notes
     
     
     JM: need for more cross-pollination 
@@ -191,21 +407,22 @@ export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/usr/lib/x86_64-linux-gnu”
     
     graph-based approach: graph-embeddings?
 
+
 # Weiterbildung
 
 use more RL! learn more RL!
 * [Queues — RabbitMQ](https://www.rabbitmq.com/queues.html)
 
-- Azure
 
+* Azure
 
 Next 6
-- [ ]  Run transformers NER off-the shelf
+* [ ]  Run transformers NER off-the shelf
     - [x]  copy from [page](https://huggingface.co/docs/transformers/tasks/token_classification)
     - [ ]  modify for printing
     - [x]  run & debug
-- [x]  Transport off-the-shelf transformers NER for CoreML
-- [x]  Transport off-the-shelf transformers NER for ONNX
+* [x]  Transport off-the-shelf transformers NER for CoreML
+* [x]  Transport off-the-shelf transformers NER for ONNX
      - [ ]  Run transformers NER on my data
      - [ ]  Improve data generation and make improved data
      - [ ]  Train with improved data
@@ -225,7 +442,8 @@ Tickets
 * https://knecon.atlassian.net/browse/RES-336?atlOrigin=eyJpIjoiMmJiODFkYTk4YzY3NGQzNmEwODg3OWFmZjgzYWEwODciLCJwIjoiaiJ9
 * https://knecon.atlassian.net/browse/RES-335?atlOrigin=eyJpIjoiYzViMTM2NDVmODBmNDg1Nzg1OTZmNWY1OWJhYjcyMTgiLCJwIjoiaiJ9
 
-- Config
+
+* Config
     
     search for (esp ml) projects usong dynaconf and hydra
         * [lincolnloop/goodconf: Transparently load variables from environment or JSON/YAML/TOML file.](https://github.com/lincolnloop/goodconf)
@@ -234,12 +452,12 @@ Tickets
         * https://www.youtube.com/shorts/UU7cb1qiS64
         * https://dxiaochuan.medium.com/summary-of-python-config-626f2d5f6041
     
-- Cuda
+* Cuda
         * [(1) Tensorflow and CUDA 12 - CUDA / CUDA Setup and Installation - NVIDIA Developer Forums](https://forums.developer.nvidia.com/t/tensorflow-and-cuda-12/237333/7)
         * [Install TensorFlow with pip](https://www.tensorflow.org/install/pip)
         * [CUDA Toolkit 11.8 Downloads | NVIDIA Developer](https://developer.nvidia.com/cuda-11-8-0-download-archive?target_os=Linux&target_arch=x86_64&Distribution=Ubuntu&target_version=22.04&target_type=deb_local)
     
-- Documentation
+* Documentation
         * [awesome API documentation](https://awesomewm.org/apidoc/?redirected_from_wiki=1)
         * [Getting Started — Sphinx documentation](https://www.sphinx-doc.org/en/master/usage/quickstart.html#autodoc)
         * [Writing docstrings — Sphinx-RTD-Tutorial documentation](https://sphinx-rtd-tutorial.readthedocs.io/en/latest/docstrings.html)
@@ -254,7 +472,7 @@ Tickets
         * [Develop Technical Documentation in Confluence | Confluence Data Center and Server 8.0 | Atlassian Documentation](https://confluence.atlassian.com/doc/develop-technical-documentation-in-confluence-226166494.html)
         * [Auto-import markdown documents as pages from git r...](https://community.atlassian.com/t5/Confluence-Cloud-discussions/Auto-import-markdown-documents-as-pages-from-git-repositories/td-p/1909816)
     
-- k8s
+* k8s
         * [A Deep Dive into Architecting a Kubernetes Infrastructure - The New Stack](https://thenewstack.io/a-deep-dive-into-architecting-a-kubernetes-infrastructure/)
         * [Kubernetes for Developers: A Deep Dive](https://bluexp.netapp.com/blog/kubernetes-for-developers-a-deep-dive)
         * [sergiohinojosa/kubernetes-deepdive](https://github.com/sergiohinojosa/kubernetes-deepdive)
@@ -263,7 +481,7 @@ Tickets
     Managing Containers at Scale with CoreOS and Kubernetes" by Kelsey Hightower - YouTube
         * https://kubernetes.io/docs/tasks/tools/
     
-- logging
+* logging
         * [test input()](https://stackoverflow.com/questions/35851323/how-to-test-a-function-with-input-call)
         * [elastic/kibana: Your window into the Elastic Stack](https://github.com/elastic/kibana)
         * [Library Genesis: Bahaaldine Azarmi; Anurag Srivastava - Learning Kibana 7 :build powerful elastic dashboards with Kibana's data visualizationcapabilities](https://libgen.is/book/index.php?md5=778E783AF7EA3EF58F5EC8BA7C24BBCC)
@@ -280,7 +498,7 @@ Tickets
         * [Kibana: Explore, Visualize, Discover Data | Elastic](https://www.elastic.co/kibana/)
         * https://coralogix.com/blog/python-logging-best-practices-tips/
     
-- onnx
+* onnx
         * [Introduction to ONNX — ONNX 1.14.0 documentation](https://onnx.ai/onnx/intro/)
         * [Export to ONNX](https://huggingface.co/docs/transformers/serialization)
         * [spacy export to onnx - Google Search](https://www.google.com/search?client=firefox-b-d&q=spacy+export+to+onnx)
@@ -303,13 +521,13 @@ Tickets
         * [export rasa to onnx - Google Search](https://www.google.com/search?q=export+rasa+to+onnx&client=firefox-b-d&sxsrf=AJOqlzVc2YjVbU2gdCdizX38rqN_PY8Cbw%3A1675939284306&ei=1M3kY-OwEoKI9u8P27SlkA4&ved=0ahUKEwjj6tKtoIj9AhUChP0HHVtaCeIQ4dUDCA4&uact=5&oq=export+rasa+to+onnx&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIECCMQJzoKCAAQRxDWBBCwAzoHCAAQDRCABDoICAAQCBAeEA06BQgAEIYDSgQIQRgASgQIRhgAULAVWIInYLIoaAVwAXgAgAFTiAHMA5IBATaYAQCgAQHIAQjAAQE&sclient=gws-wiz-serp)
         * [Export to ONNX](https://huggingface.co/docs/transformers/serialization)
     
-- ML Ops
+* ML Ops
         * [MLOps Platform Evaluation - Overview Red Hat OpenShift Data Science (RHODS))-20230330_135119-Meeting Recording.mp4](https://iqser.sharepoint.com/sites/Research2/_layouts/15/stream.aspx?id=%2Fsites%2FResearch2%2FFreigegebene%20Dokumente%2FMLOps%2FMLOps%20Platform%20Evaluation%20%2D%20Overview%20Red%20Hat%20OpenShift%20Data%20Science%20%28RHODS%29%29%2D20230330%5F135119%2DMeeting%20Recording%2Emp4&referrer=Teams%2ETEAMS%2DWEB&referrerScenario=p2p%5Fns%2Dbim&ga=1)
         * [Practical Deep Learning at Scale with MLflow: Bridge the gap between offline experimentation and online production](http://library.lol/main/0953E75F2337ABA087CFCE87CAB9BB32)
         * [Beginning MLOps with MLFlow: Deploy Models in AWS SageMaker, Google Cloud, and Microsoft Azure](http://library.lol/main/7DCDD5D956C8174FD23C4DF2EBC44FAF)
         * https://drive.google.com/drive/search?q=MLFlow
     
-- NLQ
+* NLQ
     
     try this instead? https://huggingface.co/course/chapter7/2
         * [Embed, encode, attend, predict: The new deep learning formula for state-of-the-art NLP models · Explosion](https://explosion.ai/blog/deep-learning-formula-nlp)
@@ -321,7 +539,7 @@ Tickets
         * http://www.xavierdupre.fr/app/mlprodict/helpsphinx/onnxops/onnx_commicrosoft_Tokenizer.html
         * http://www.xavierdupre.fr/app/mlprodict/helpsphinx/index.html
     
-- Text Understanding and Summarization
+* Text Understanding and Summarization
         * https://duckduckgo.com/?q=triplet%20lstm%20for%20text%20embedding&ko=-1&iax=images&ia=images
         * https://stats.stackexchange.com/questions/561872/triplet-loss-for-text-embedding-and-text-similarity
     
@@ -330,7 +548,7 @@ Tickets
         * [State of the Art Summarisation Techniques](https://humboldt-wi.github.io/blog/research/information_systems_1920/nlp_text_summarization_techniques/)
         * https://ieeexplore.ieee.org/document/9328413
     
-- to sort
+* to sort
     
     pynini
         * [Implementing The Levenshtein Distance in Python | Paperspace Blog](https://blog.paperspace.com/implementing-levenshtein-distance-word-autocomplete-autocorrect/)
@@ -413,10 +631,10 @@ Tickets
     
     1) Tf-idf for all non-stopwords2) semrel / dependency parsing on original text3) lemmatization, partial n-grams step for rare words and frequent n-grams (oxy, etc)4) topic models built on top of semantic relation information
     
-- Face Detection
+* Face Detection
         * [[RED-6050] Integration of face detection - IQSER Jira](https://jira.iqser.com/browse/RED-6050)
     
-- Work
+* Work
         * [src/ner/spacy/evaluation.py · bdr-annotation · Knecon / Research / ner-annotation · GitLab](https://gitlab.knecon.com/knecon/research/ner-annotation/-/blob/bdr-annotation/src/ner/spacy/evaluation.py)
         * https://github.com/EudyContreras/Chronox.NetCore 
     
@@ -424,17 +642,16 @@ Tickets
 
 Hello,
 
-
 The Read the Docs build system will start requiring a configuration file v2 () starting on
 
 September 25, 2023
 
-- Monday, July 24, 2023: Do the first brownout (temporarily enforce this deprecation) for 12 hours: 00:01 PST to 11:59 PST (noon)
-- Monday, August 14, 2023: Do a second brownout (temporarily enforce this deprecation) for 24 hours: 00:01 PST to 23:59 PST (midnight)
-- Monday, September 4, 2023: Do a third and final brownout (temporarily enforce this deprecation) for 48 hours: 00:01 PST to September 5, 2023 23:59 PST (midnight)
-- Monday, September 25, 2023: Fully remove support for building documentation without configuration file v2.
-- [yelircaasi-demo](https://readthedocs.org/projects/yelircaasi-demo/)
 
+* Monday, July 24, 2023: Do the first brownout (temporarily enforce this deprecation) for 12 hours: 00:01 PST to 11:59 PST (noon)
+* Monday, August 14, 2023: Do a second brownout (temporarily enforce this deprecation) for 24 hours: 00:01 PST to 23:59 PST (midnight)
+* Monday, September 4, 2023: Do a third and final brownout (temporarily enforce this deprecation) for 48 hours: 00:01 PST to September 5, 2023 23:59 PST (midnight)
+* Monday, September 25, 2023: Fully remove support for building documentation without configuration file v2.
+* [yelircaasi-demo](https://readthedocs.org/projects/yelircaasi-demo/)
 
 Keep documenting,Read the Docs
         * [Python | onnxruntime](https://onnxruntime.ai/docs/get-started/with-python.html#quickstart-examples-for-pytorch-tensorflow-and-scikit-learn)
@@ -488,7 +705,7 @@ Keep documenting,Read the Docs
         * [ebnf.pdf](https://www.ics.uci.edu/~pattis/ICS-33/lectures/ebnf.pdf)
         * [[1910.01108] DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/abs/1910.01108)
     
-- sort
+* sort
     
     add hash partition functionality to kn_utils?
     
@@ -512,7 +729,7 @@ Keep documenting,Read the Docs
     
     Make MVP Go container for RabbitMQ
     
-- Knecon Roadmap Discussion
+* Knecon Roadmap Discussion
     
     ## Documine
     
@@ -589,14 +806,24 @@ Termin mit Chris und Julius machen (bzgl. NixOS)
 * [pytest-opentelemetry · PyPI](https://pypi.org/project/pytest-opentelemetry/)
 
 work Dell KB522p
+
 work Logi MX Master 2S
+
 work Backend Development - Agile board - Jira
+
 work [Look Scanned](https://lookscanned.io/)
+
 work [azureml-assets/assets/training/general/environments/acpt-pytorch-2.0-cuda11.7/context/Dockerfile at 2e29aa94865116c08578b52b40da9c4a6abb7a95 · Azure/azureml-assets](https://github.com/Azure/azureml-assets/blob/2e29aa94865116c08578b52b40da9c4a6abb7a95/assets/training/general/environments/acpt-pytorch-2.0-cuda11.7/context/Dockerfile)
+
 work [docker-compose.yml · main · Knecon / Research / ner-annotation · GitLab](https://gitlab.knecon.com/knecon/research/ner-annotation/-/blob/main/docker-compose.yml?ref_type%3Dheads)
+
 work [nlq - Azure AI | Machine Learning Studio](https://ml.azure.com/environments/nlq/version/1?wsid%3D/subscriptions/4b9531fc-c5e4-4b11-8492-0cc173c1f97d/resourcegroups/isaac.riley-rg/providers/Microsoft.MachineLearningServices/workspaces/ir-aml%26tid%3Db44be368-e4f2-4ade-a089-cd2825458048)
+
 work [scripts/README.md · main · Knecon / Research / ner-annotation · GitLab](https://gitlab.knecon.com/knecon/research/ner-annotation/-/blob/main/scripts/README.md?ref_type%3Dheads)
+
 work src/Instantli.Services/Implementation/Nlq · main · Instantli / Instantli Services · GitLab
+
 work prepare demo for .env and .envrc, prepare demo → in conjunction with Dynaconf
+
 work update poetry with official installer
 * https://fasttext.cc/docs/en/aligned-vectors.html

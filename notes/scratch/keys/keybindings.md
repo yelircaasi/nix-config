@@ -1,5 +1,6 @@
 # Keybindings
 
+
 ## Format
 
 Keybindings are recorded in JSON format, with keys corresponding to commands and sequences of objects containing one of the keys `deadkey`, `modifier`, `set`, and `sequence`, where the value corresponding to each is a sequence even if it contains only one key.
@@ -23,4 +24,5 @@ Mode is an open class, only needed for `scope`: `app`. Examples:
 * recording
 
 This format is unambiguous and expressive enough to describe all keyboard shortcuts I need.
+
 

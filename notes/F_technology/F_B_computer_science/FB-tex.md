@@ -1,5 +1,6 @@
 # TeX
 
+
 ## General Resources/ Sites
 * [TeX Resources on the Web - TeX Users Group](https://www.tug.org/interest.html)
 * [*LaTeX Cookbook](http://latex-cookbook.net/)
@@ -25,14 +26,17 @@
 * [LaTeX Templates](http://www.latextemplates.com/)
 * [MartinThoma/LaTeX-examples: Examples for the usage of LaTeX](https://github.com/MartinThoma/LaTeX-examples/)
 
+
 ## Orgs
 * [DANTE e.V. | Deutschsprachige Anwendervereinigung TeX e.V.](https://www.dante.de/)
 * http://www.dante.de/hilfe.html
+
 
 ## Templates
 * http://www.wzchen.com/probability-cheatsheet 
 * [Cheatsheet Code](https://github.com/tao-bian-nyu/Reinforcement-Learning-Cheat-Sheet)
 * [ARPA-FVG beamer presentation template - Overleaf, Online LaTeX Editor](https://www.overleaf.com/latex/templates/arpa-fvg-beamer-presentation-template/gvcjvvcxkhfx)
+
 
 ## Tools, Distributions
 * [LaTeX Equation Editor for Writing Maths on the Internet](https://www.codecogs.com/latex/eqneditor.php)
@@ -59,6 +63,7 @@
 * [Detexify LaTeX handwritten symbol recognition](http://detexify.kirelabs.org/classify.html)
 * https://www.mendeley.com/library/
 
+
 ## Internals
 * [TeX: Reference and Examples by David Bausum](http://www.tug.org/utilities/plain/cseq.html)
 * ftp://tug.ctan.org/pub/tex-archive/systems/knuth/dist/tex/tex.web
@@ -66,12 +71,14 @@
 * https://www.latex-project.org/help/documentation/source2e.pdf
 * http://tug.org/texlive/scripts-sys-user.html
 
+
 ## Packages, Docs
 * [fontspec](https://mirror.physik.tu-berlin.de/pub/CTAN/macros/unicodetex/latex/fontspec/fontspec.pdf)
 * [Pgfplots package - Overleaf, Онлайн редактор LaTeX](https://ru.overleaf.com/learn/latex/Pgfplots_package)
 * [TeXdoc Online • TeX and LaTeX Documentation](http://texdoc.net/)
 * [texlive-ru.pdf](http://texdoc.net/texmf-dist/doc/texlive/texlive-ru/texlive-ru.pdf)
 * [TeXShop](https://pages.uoregon.edu/koch/texshop/documentation.html)
+
 
 ## Interlinear, etc.
 * https://tex.stackexchange.com/questions/45520/doing-an-interlinear-text
@@ -102,6 +109,7 @@
 * https://www.reddit.com/r/LaTeX/comments/y29mg6/i_know_nothing_about_latex_i_have_a_very_specific/ 
 * https://tex.stackexchange.com/questions/45520/doing-an-interlinear-text 
 
+
 ## 1S Reading / Watching
 * https://en.wikipedia.org/wiki/TeX 
 * [LaTeX Workshop for Linguists](https://www.adamliter.org/content/LaTeX/latex-workshop-for-linguists.pdf)
@@ -125,18 +133,22 @@
 * [https://en.wikipedia.org/wiki/Web_(programming_system)](https://en.wikipedia.org/wiki/Web_(programming_system))
 * https://www.adamliter.org/content/LaTeX/latex-workshop-for-linguists.pdf
 
+
 ## Fonts
 * https://github.com/pdelfino/elon-analise-real → get font!!! ***** (also .tex code) also email http://www.pdelfino.com.br/
 * [The St Mary’s Road symbol font](http://ftp.gwdg.de/pub/ctan/fonts/stmaryrd/stmaryrd.pdf)
 * https://tex.stackexchange.com/questions/24691/how-to-install-otf-fonts-with-otfinst-py
 * https://tex.stackexchange.com/questions/69901/how-to-typeset-greek-letters
 
+
 ## People
 * [MartinThoma (Martin Thoma)](https://github.com/MartinThoma)
 * https://github.com/MartinThoma
 
+
 ## →
 * [see links](https://www.linuxlinks.com/excellent-free-books-learn-latex/)
+
 
 ## Books, Articles
 * [LaTeX - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/LaTeX)
@@ -183,6 +195,7 @@
 * https://www1.essex.ac.uk/linguistics/external/clmt/latex4ling/
 * http://latex.silmaril.ie/formattinginformation/index.html
 
+
 ## Plotting
 * [Plotting in three dimensions | Recipe](http://latex-cookbook.net/cookbook/examples/3d-plot/)
 * [tikz pgf - Draw an animated gif of trigonometry function - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/291627/draw-an-animated-gif-of-trigonometry-function)
@@ -197,9 +210,11 @@
 * [Block diagram with Tikz - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/268878/block-diagram-with-tikz)
 * http://www.ccs.neu.edu/home/lieber/papers/thomas/drawing/drawing2010.tex
 
+
 ## Misc
 * [LaTeX IPA](https://www.tug.org/tugboat/tb17-2/tb51rei.pdf)
 * https://juliadatascience.io/using-latexstrings.jl 
+
 
 ## Q & A
 * [TeX und LaTeX, Fragen und Antworten - TeXwelt](https://texwelt.de/wissen/)
@@ -208,10 +223,14 @@
 * [Hilfe](http://www.dante.de/hilfe.html)
 * [LaTeX - TeXnique](https://texnique.fr/osqa/)
 
+
 ## Reading List - To Sort (1)
+
 
 ## Reading List - To Sort (2)
 
+
 ## Reading List - To Sort (3)
+
 
 ## Reading List - To Sort (4)

@@ -114,7 +114,7 @@
 * [yark](https://github.com/Owez/yark) - YouTube archiving made simple.
 * ( )
 * [invidtui](https://github.com/darkhz/invidtui)
-- [ytmdesktop](https://ytmdesktop.app/)
+* [ytmdesktop](https://ytmdesktop.app/)
 * ( )
 * [muCLIar](https://github.com/aayush1205/muCLIar) - YouTube automator bringing you your music right on your CLI. - YouTube in CLI via Selenium and Chromedriver
 ### YouTube GUI Frontend
@@ -430,8 +430,8 @@
 * ( )
 * [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.
 #### Radio
-- [RadioTray-NG](https://github.com/ebruck/radiotray-ng) - An Internet radio player for Linux.
-- [Shortwave](https://apps.gnome.org/app/de.haeckerfelix.Shortwave/) - Shortwave is an internet radio player that provides access to a station database with over 25,000 stations.
+* [RadioTray-NG](https://github.com/ebruck/radiotray-ng) - An Internet radio player for Linux.
+* [Shortwave](https://apps.gnome.org/app/de.haeckerfelix.Shortwave/) - Shortwave is an internet radio player that provides access to a station database with over 25,000 stations.
 
 ### Editing, conversion, etc.
 * ( )

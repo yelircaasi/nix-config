@@ -1,8 +1,21 @@
 # ML and DS
 
+
 ## Sort
 * 3b1b Attention Video https://www.youtube.com/watch?v=eMlx5fFNoYc
+* https://github.com/kornia/kornia
+* https://www.cs.cornell.edu/courses/cs4787/2019sp/notes/lecture16.pdf Gaussian Processes and Bayesian Optimization
+* https://events.project-syndicate.org/event/now-or-never-for-ai-policy
+* https://tamids.tamu.edu/wp-content/uploads/2020/09/TAMIDS-Tutorial-Rui-Tuo-2020.09.04_Lecture.pdf
+* https://scikit-optimize.github.io/stable/modules/generated/skopt.gp_minimize.html
 * [https://www.marktechpost.com/2024/01/12/meet-ai-gateway-an-open-sourced-fast-ai-gateway-routed-to-100-large-language-models-llms-with-one-fast-and-friendly-api/](https://www.marktechpost.com/2024/01/12/meet-ai-gateway-an-open-sourced-fast-ai-gateway-routed-to-100-large-language-models-llms-with-one-fast-and-friendly-api/) 
+* AI's predictable Path https://www.youtube.com/watch?app=desktop&v=Ksf0QKFdI2A
+* https://theaisummer.com/
+* https://www.marktechpost.com/2024/04/05/this-ai-paper-from-kings-college-london-introduces-a-theoretical-analysis-of-neural-network-architectures-through-topos-theory/
+* https://chat.lmsys.org
+* https://notebooklm.google/
+* 3b1b https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+
 
 * transformer varieties: lightweight, cross-block connectivity, adaptive computation time, recurrent, hierarchical, other architectures
 * https://github.com/stitionai/devika
@@ -14,120 +27,120 @@
 * https://github.com/jasonppy/VoiceCraft
 * https://github.com/semanser/codel
 * https://theaibreakdown.beehiiv.com/
-ai  [https://www.jaided.ai/easyocr/documentation/](https://www.jaided.ai/easyocr/documentation/)
-ai : knowledge assimilation - how to quantify and formulate the concept of surprise?
-ai AL and Ethics
-ai Computer Vision. Algorithms and Applications.pdf
-ai [2309.04979.pdf](https://arxiv.org/pdf/2309.04979.pdf)
-ai [2307.12798.pdf](https://arxiv.org/pdf/2307.12798.pdf)
-ai [2308.00479.pdf](https://arxiv.org/pdf/2308.00479.pdf)
-ai [2308.05822.pdf](https://arxiv.org/pdf/2308.05822.pdf)
-ai [2308.10633.pdf](https://arxiv.org/pdf/2308.10633.pdf)
-ai [2309.15217.pdf](https://arxiv.org/pdf/2309.15217.pdf)
-ai [2310.01427.pdf](https://arxiv.org/pdf/2310.01427.pdf)
-ai [2310.01558.pdf](https://arxiv.org/pdf/2310.01558.pdf)
-ai [978-0-7503-6116-3.pdf](https://iopscience.iop.org/book/mono/978-0-7503-6116-3.pdf)
-ai [ALEPH ALPHA - AI for Enterprises and Governments](https://aleph-alpha.com/)
-ai [Advanced RAG 04: Re-ranking | by Florian June | in Towards AI - Freedium](https://freedium.cfd/https://pub.towardsai.net/advanced-rag-04-re-ranking-85f6ae8170b1)
-ai [Autoblow.com Blowjob Paper](https://autoblow.com/bjpaper/)
-ai [Beyond ChatGPT: Exploring the OpenAI Platform - The New Stack](https://thenewstack.io/beyond-chatgpt-exploring-the-openai-platform/)
-ai [CML · Continuous Machine Learning](https://cml.dev/)
-ai [Cognition - YouTube](ghttps://www.youtube.com/@Cognition-Labs)
-ai [Cognition](ghttps://www.cognition-labs.com/)
-ai [Differentiable Retrieval Augmentation via Generative Language Modeling for E-commerce Query Intent Classification](https://arxiv.org/pdf/2308.09308.pdf)
-ai [Directory of LLMs - Hojas de cálculo de Google](https://docs.google.com/spreadsheets/d/1gc6yse74XCwBx028HV_cvdxwXkmXejVjkO-Mz2uwE0k/edit%23gid%3D0)
-ai [DistilBERT](https://huggingface.co/docs/transformers/model_doc/distilbert)
-ai [Erster Eindruck und Meinung: DEVIN, der KI-Softwareentwickler - YouTube](ghttps://www.youtube.com/watch?v%3DrsWWubkrvE4)
-ai [Exploring the Ethical Implications of OpenAI – 3Cloud](https://3cloudsolutions.com/resources/exploring-ethical-implications-open-ai/)
-ai [Fine-Tuning DistilBert for Multi-Class Text Classification using transformers and TensorFlow sunnyville | Artificial Intelligence Agency | Dubai](https://www.sunnyville.ai/fine-tuning-distilbert-multi-class-text-classification-using-transformers-and-tensorflow/)
-ai [Fine-tuning a masked language model - Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter7/3)
-ai [First Steps - ai2-tango v1.3.2](https://ai2-tango.readthedocs.io/en/latest/first_steps.html)
-ai [Format selector for 2307.05915](https://arxiv.org/format/2307.05915)
-ai [KerasNLP Models](https://keras.io/api/keras_nlp/models/)
-ai [Künstliche neuronale Netze - Aufbau & Funktionsweise - TheBlog – Webflow HTML website template](http://web.archive.org/web/20230926012537/https://www.jaai.de/post/kuenstliche-neuronale-netze-aufbau-funktion)
-ai [MLflow Projects — MLflow 2.10.2 documentation](https://mlflow.org/docs/latest/projects.html%23mlproject-file)
-ai [MLflow Projects — MLflow 2.10.2 documentation](https://mlflow.org/docs/latest/projects.html)
-ai [Machine Learning: Algorithmen, Methoden und Beispiele](https://datasolut.com/was-ist-machine-learning/)# Untitled
-ai [MicrosoftLearning/mslearn-azure-ml](https://github.com/MicrosoftLearning/mslearn-azure-ml)
-ai [Neural algorithmic reasoning](https://thegradient.pub/neural-algorithmic-reasoning/?utm_source%3Dsubstack%26utm_medium%3Demail)
-ai [OLMo: Open Language Model. A State-Of-The-Art, Truly Open LLM and… | by AI2 | Feb, 2024 | AI2 Blog](https://blog.allenai.org/olmo-open-language-model-87ccfc95f580)
-ai [OpenAI - OpenAI Tech Stack](https://stackshare.io/openai/openai)
-ai [OpenAI's 'Unreasonable Claims' Exhaust AI-Ethics Researchers](https://www.businessinsider.com/openai-ethics-researchers-unreasonable-claims-2023-ai-100-10)
-ai [Quantize 🤗 Transformers models](https://huggingface.co/docs/transformers/main/main_classes/quantization)
-ai [Replace Github Copilot with a Local LLM - YouTube](ghttps://www.youtube.com/watch?v%3DF1bXfnrzAxM)
-ai [Retrieval Augmented Generation (RAG) - Amazon SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/jumpstart-foundation-models-customize-rag.html)
-ai [Retrieval Augmented Generation (RAG): Reducing Hallucinations in GenAI Applications | Pinecone](https://www.pinecone.io/learn/retrieval-augmented-generation/)
-ai [RoBERTa from scratch with different vocab vs. fine-tuning - Intermediate - Hugging Face Forums](https://discuss.huggingface.co/t/roberta-from-scratch-with-different-vocab-vs-fine-tuning/569/7)
-ai [SIGIR 2022 Tutorial | Recent Advances in Retrieval-Augmented Text Generation](https://jcyk.github.io/RetGenTutorial/)
-ai [SequentialChain with LangChain - Python Example (explained) Data Science Garage Data Science Garage • • 39 visualizaciones hace 6 horas Nuevo](https://www.youtube.com/watch?v%3DJ7n9e0eSoKg)
-ai [Startpage Search Results](https://www.startpage.com/do/dsearch?q%3Dis%2Bsam%2Baltman%2Bevil%253F%26cat%3Dweb%26language%3Denglish)
-ai [State of Art AI](https://stateofart.ai/)
-ai [Summary of the tasks](https://huggingface.co/docs/transformers/v4.15.0/task_summary)
-ai [Supermaven: The Fastest Copilot with a 300,000-Token Context Window! - YouTube](https://www.youtube.com/watch?v%3DJhmdYN1wbG0)
-ai [Supermaven](https://supermaven.com/)
-ai [Teilüberwachtes Lernen | Mailchimp](https://mailchimp.com/de/resources/semi-supervised-learning/)
-ai [The Download: OpenAI update, 10 unexpected uses of Copilot, Zed goes open source, and more - YouTube](https://m.youtube.com/watch?v%3DLJrlWDJ-hjU)
-ai [The Illustrated GPT-2: Visualizing Transformer Language Models (2019)](https://brianlovin.com/hn/38691583)
-ai [The different types of the Neural Networks - YouTube](https://www.youtube.com/watch?v%3D0sp6qQ3zVuU)
-ai [Three types of AI-assisted programmers - Stack Overflow](https://stackoverflow.blog/2023/12/11/three-types-of-ai-assisted-programmers/?cb%3D1)
-ai [Token classification](https://huggingface.co/docs/transformers/tasks/token_classification%23inference)
-ai [Training with GRIT for better LLMs and faster RAG - Contextual AI](https://contextual.ai/training-with-grit/)
-ai [Was ist Machine Learning? | Definition, Arten, Beispiele | SAP](https://www.sap.com/austria/products/artificial-intelligence/what-is-machine-learning.html)
-ai [What is MLflow? — MLflow 2.10.2 documentation](https://mlflow.org/docs/latest/introduction/index.html)
-ai [What is retrieval-augmented generation? | IBM Research Blog](https://research.ibm.com/blog/retrieval-augmented-generation-RAG)
-ai [[2005.11401] Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
-ai [[2310.20144] EELBERT: Tiny Models through Dynamic Embeddings](https://arxiv.org/abs/2310.20144)
-ai [[2311.05232] A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions](https://arxiv.org/abs/2311.05232)
-ai [[2403.02164] Cognition is All You Need -- The Next Layer of AI Above Large Language Models](ghttps://arxiv.org/abs/2403.02164)
-ai [bert-base-multilingual-cased · Hugging Face](https://huggingface.co/bert-base-multilingual-cased)
-ai [config.json · FacebookAI/xlm-mlm-ende-1024 at main](https://huggingface.co/FacebookAI/xlm-mlm-ende-1024/blob/main/config.json)
-ai [config.json · TransQuest/microtransquest-en_de-wiki at main](https://huggingface.co/TransQuest/microtransquest-en_de-wiki/blob/main/config.json)
-ai [config.json · distilbert/distilbert-base-multilingual-cased at main](https://huggingface.co/distilbert/distilbert-base-multilingual-cased/blob/main/config.json)
-ai [config.json · lewtun/distilbert-base-uncased-finetuned-imdb-accelerate at main](https://huggingface.co/lewtun/distilbert-base-uncased-finetuned-imdb-accelerate/blob/main/config.json)
-ai [dbmdz/bert-mini-historic-multilingual-cased · Hugging Face](https://huggingface.co/dbmdz/bert-mini-historic-multilingual-cased)
-ai [domischwimmbeck/bert-base-german-cased-20000-ner-uncased · Hugging Face](https://huggingface.co/domischwimmbeck/bert-base-german-cased-20000-ner-uncased)
-ai [https://aiconsole.ai/](https://aiconsole.ai/) 
-ai [https://allenai.org/olmo](https://allenai.org/olmo)
-ai [https://blog.research.google/2024/02/graph-neural-networks-in-tensorflow.html](https://blog.research.google/2024/02/graph-neural-networks-in-tensorflow.html)
-ai [https://deci.ai/blog/decilm-15-times-faster-than-llama2-nas-generated-llm-with-variable-gqa/](https://deci.ai/blog/decilm-15-times-faster-than-llama2-nas-generated-llm-with-variable-gqa/)
-ai [https://en.wikipedia.org/wiki/Diffusion_model](https://en.wikipedia.org/wiki/Diffusion_model)
-ai [https://en.wikipedia.org/wiki/Stable_Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)
-ai [https://github.com/changzy00/pytorch-attention](https://github.com/changzy00/pytorch-attention)
-ai [https://github.com/microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
-ai [https://github.com/sooftware/attentions](https://github.com/sooftware/attentions)
-ai [https://github.com/vercel/ai](https://github.com/vercel/ai)
-ai [https://huggingface.co/transformers/v3.2.0/glossary.html#token-type-ids](https://huggingface.co/transformers/v3.2.0/glossary.html%23token-type-ids)
-ai [https://newsletter.ruder.io/p/true-zero-shot-mt](https://newsletter.ruder.io/p/true-zero-shot-mt)
-ai [https://spotintelligence.com/2023/01/31/self-attention/](https://spotintelligence.com/2023/01/31/self-attention/)
-ai [https://stackoverflow.blog/2024/03/08/a-leading-ml-educator-on-what-you-need-to-know-about-llms/?cb=1](https://stackoverflow.blog/2024/03/08/a-leading-ml-educator-on-what-you-need-to-know-about-llms/?cb%3D1)
-ai [https://thegradientpub.substack.com/p/do-text-embeddings-perfectly-encode](https://thegradientpub.substack.com/p/do-text-embeddings-perfectly-encode)
-ai [https://venturebeat.com/ai/new-open-source-ai-coding-tool-surpasses-its-inspiration-google-deepminds-alphacode/](https://venturebeat.com/ai/new-open-source-ai-coding-tool-surpasses-its-inspiration-google-deepminds-alphacode/)
-ai [https://www.analyticsvidhya.com/genaipinnacle](https://www.analyticsvidhya.com/genaipinnacle)
-ai [https://www.forbes.com/sites/johnwerner/2024/01/24/ai-and-the-future-of-coding/](https://www.forbes.com/sites/johnwerner/2024/01/24/ai-and-the-future-of-coding/)
-ai [https://www.heise.de/news/KI-Update-Deep-Dive-Programmieren-mit-KI-9647325.html](https://www.heise.de/news/KI-Update-Deep-Dive-Programmieren-mit-KI-9647325.html)
-ai [https://www.marktechpost.com/2024/01/11/meet-neograd-a-deep-learning-framework-created-from-scratch-using-python-and-numpy-with-automatic-differentiation-capabilities/](https://www.marktechpost.com/2024/01/11/meet-neograd-a-deep-learning-framework-created-from-scratch-using-python-and-numpy-with-automatic-differentiation-capabilities/) 
-ai [https://www.marktechpost.com/2024/03/16/researchers-at-stanford-university-introduce-pyvene-an-open-source-python-library-that-supports-intervention-based-research-on-machine-learning-models/](https://www.marktechpost.com/2024/03/16/researchers-at-stanford-university-introduce-pyvene-an-open-source-python-library-that-supports-intervention-based-research-on-machine-learning-models/)
-ai [https://www.marktechpost.com/2024/03/19/microsoft-introduces-autodev-a-fully-automated-artificial-intelligence-driven-software-development-framework/](https://www.marktechpost.com/2024/03/19/microsoft-introduces-autodev-a-fully-automated-artificial-intelligence-driven-software-development-framework/)
-ai [https://www.modular.com/blog/mojo-sdk-v0-7-now-available-for-download](https://www.modular.com/blog/mojo-sdk-v0-7-now-available-for-download)
-ai [https://www.techrepublic.com/article/how-programming-will-change-over-the-next-10-years-5-predictions/](https://www.techrepublic.com/article/how-programming-will-change-over-the-next-10-years-5-predictions/)
-ai [igorsterner/german-english-roberta-base-binary-ner · Hugging Face](https://huggingface.co/igorsterner/german-english-roberta-base-binary-ner)
-ai [iryna-kondr/scikit-llm: Seamlessly integrate LLMs into scikit-learn.](https://github.com/iryna-kondr/scikit-llm)
-ai [retrieval-augmented generation - Google Scholar](https://scholar.google.de/scholar?q%3Dretrieval-augmented%2Bgeneration%26hl%3Den%26as_sdt%3D0%26as_vis%3D1%26oi%3Dscholart)
-ai [retrieval-augmented generation - Google Search](https://www.google.com/search?client%3Dfirefox-b-d%26q%3Dretrieval-augmented%2Bgeneration%23ip%3D1)
-ai [shoarora/alectra-small-owt at main](https://huggingface.co/shoarora/alectra-small-owt/tree/main)
-ai [transformers/examples/research_projects/distillation/README.md at main · huggingface/transformers](https://github.com/huggingface/transformers/blob/main/examples/research_projects/distillation/README.md)
-ai [transformers/examples/research_projects/distillation/train.py at main · huggingface/transformers](https://github.com/huggingface/transformers/blob/main/examples/research_projects/distillation/train.py)
-ai [wikimedia/wikipedia at main](https://huggingface.co/datasets/wikimedia/wikipedia/tree/main/20231101.ab)
-ai [wikipedia · Datasets at Hugging Face](https://huggingface.co/datasets/wikipedia)
-ai ethical analysis of openai
-ai teilüberwachtes Lernen
-ai: read deeply on AI alignment
-ao [https://www.marktechpost.com/2024/02/08/this-ai-paper-introduces-piratenets-a-novel-ai-system-designed-to-facilitate-stable-and-efficient-training-of-deep-physics-informed-neural-network-models/](https://www.marktechpost.com/2024/02/08/this-ai-paper-introduces-piratenets-a-novel-ai-system-designed-to-facilitate-stable-and-efficient-training-of-deep-physics-informed-neural-network-models/)
-
+* [https://www.jaided.ai/easyocr/documentation/](https://www.jaided.ai/easyocr/documentation/)
+* : knowledge assimilation - how to quantify and formulate the concept of surprise?
+* AL and Ethics
+* Computer Vision. Algorithms and Applications.pdf
+* [2309.04979.pdf](https://arxiv.org/pdf/2309.04979.pdf)
+* [2307.12798.pdf](https://arxiv.org/pdf/2307.12798.pdf)
+* [2308.00479.pdf](https://arxiv.org/pdf/2308.00479.pdf)
+* [2308.05822.pdf](https://arxiv.org/pdf/2308.05822.pdf)
+* [2308.10633.pdf](https://arxiv.org/pdf/2308.10633.pdf)
+* [2309.15217.pdf](https://arxiv.org/pdf/2309.15217.pdf)
+* [2310.01427.pdf](https://arxiv.org/pdf/2310.01427.pdf)
+* [2310.01558.pdf](https://arxiv.org/pdf/2310.01558.pdf)
+* [978-0-7503-6116-3.pdf](https://iopscience.iop.org/book/mono/978-0-7503-6116-3.pdf)
+* [ALEPH ALPHA - AI for Enterprises and Governments](https://aleph-alpha.com/)
+* [Advanced RAG 04: Re-ranking | by Florian June | in Towards AI - Freedium](https://freedium.cfd/https://pub.towardsai.net/advanced-rag-04-re-ranking-85f6ae8170b1)
+* [Autoblow.com Blowjob Paper](https://autoblow.com/bjpaper/)
+* [Beyond ChatGPT: Exploring the OpenAI Platform - The New Stack](https://thenewstack.io/beyond-chatgpt-exploring-the-openai-platform/)
+* [CML · Continuous Machine Learning](https://cml.dev/)
+* [Cognition - YouTube](ghttps://www.youtube.com/@Cognition-Labs)
+* [Cognition](ghttps://www.cognition-labs.com/)
+* [Differentiable Retrieval Augmentation via Generative Language Modeling for E-commerce Query Intent Classification](https://arxiv.org/pdf/2308.09308.pdf)
+* [Directory of LLMs - Hojas de cálculo de Google](https://docs.google.com/spreadsheets/d/1gc6yse74XCwBx028HV_cvdxwXkmXejVjkO-Mz2uwE0k/edit%23gid%3D0)
+* [DistilBERT](https://huggingface.co/docs/transformers/model_doc/distilbert)
+* [Erster Eindruck und Meinung: DEVIN, der KI-Softwareentwickler - YouTube](ghttps://www.youtube.com/watch?v%3DrsWWubkrvE4)
+* [Exploring the Ethical Implications of OpenAI – 3Cloud](https://3cloudsolutions.com/resources/exploring-ethical-implications-open-ai/)
+* [Fine-Tuning DistilBert for Multi-Class Text Classification using transformers and TensorFlow sunnyville | Artificial Intelligence Agency | Dubai](https://www.sunnyville.ai/fine-tuning-distilbert-multi-class-text-classification-using-transformers-and-tensorflow/)
+* [Fine-tuning a masked language model - Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter7/3)
+* [First Steps - ai2-tango v1.3.2](https://ai2-tango.readthedocs.io/en/latest/first_steps.html)
+* [Format selector for 2307.05915](https://arxiv.org/format/2307.05915)
+* [KerasNLP Models](https://keras.io/api/keras_nlp/models/)
+* [Künstliche neuronale Netze - Aufbau & Funktionsweise - TheBlog – Webflow HTML website template](http://web.archive.org/web/20230926012537/https://www.jaai.de/post/kuenstliche-neuronale-netze-aufbau-funktion)
+* [MLflow Projects — MLflow 2.10.2 documentation](https://mlflow.org/docs/latest/projects.html%23mlproject-file)
+* [MLflow Projects — MLflow 2.10.2 documentation](https://mlflow.org/docs/latest/projects.html)
+* [Machine Learning: Algorithmen, Methoden und Beispiele](https://datasolut.com/was-ist-machine-learning/)# Untitled
+* [MicrosoftLearning/mslearn-azure-ml](https://github.com/MicrosoftLearning/mslearn-azure-ml)
+* [Neural algorithmic reasoning](https://thegradient.pub/neural-algorithmic-reasoning/?utm_source%3Dsubstack%26utm_medium%3Demail)
+* [OLMo: Open Language Model. A State-Of-The-Art, Truly Open LLM and… | by AI2 | Feb, 2024 | AI2 Blog](https://blog.allenai.org/olmo-open-language-model-87ccfc95f580)
+* [OpenAI - OpenAI Tech Stack](https://stackshare.io/openai/openai)
+* [OpenAI's 'Unreasonable Claims' Exhaust AI-Ethics Researchers](https://www.businessinsider.com/openai-ethics-researchers-unreasonable-claims-2023-ai-100-10)
+* [Quantize 🤗 Transformers models](https://huggingface.co/docs/transformers/main/main_classes/quantization)
+* [Replace Github Copilot with a Local LLM - YouTube](ghttps://www.youtube.com/watch?v%3DF1bXfnrzAxM)
+* [Retrieval Augmented Generation (RAG) - Amazon SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/jumpstart-foundation-models-customize-rag.html)
+* [Retrieval Augmented Generation (RAG): Reducing Hallucinations in GenAI Applications | Pinecone](https://www.pinecone.io/learn/retrieval-augmented-generation/)
+* [RoBERTa from scratch with different vocab vs. fine-tuning - Intermediate - Hugging Face Forums](https://discuss.huggingface.co/t/roberta-from-scratch-with-different-vocab-vs-fine-tuning/569/7)
+* [SIGIR 2022 Tutorial | Recent Advances in Retrieval-Augmented Text Generation](https://jcyk.github.io/RetGenTutorial/)
+* [SequentialChain with LangChain - Python Example (explained) Data Science Garage Data Science Garage • • 39 visualizaciones hace 6 horas Nuevo](https://www.youtube.com/watch?v%3DJ7n9e0eSoKg)
+* [Startpage Search Results](https://www.startpage.com/do/dsearch?q%3Dis%2Bsam%2Baltman%2Bevil%253F%26cat%3Dweb%26language%3Denglish)
+* [State of Art AI](https://stateofart.ai/)
+* [Summary of the tasks](https://huggingface.co/docs/transformers/v4.15.0/task_summary)
+* [Supermaven: The Fastest Copilot with a 300,000-Token Context Window! - YouTube](https://www.youtube.com/watch?v%3DJhmdYN1wbG0)
+* [Supermaven](https://supermaven.com/)
+* [Teilüberwachtes Lernen | Mailchimp](https://mailchimp.com/de/resources/semi-supervised-learning/)
+* [The Download: OpenAI update, 10 unexpected uses of Copilot, Zed goes open source, and more - YouTube](https://m.youtube.com/watch?v%3DLJrlWDJ-hjU)
+* [The Illustrated GPT-2: Visualizing Transformer Language Models (2019)](https://brianlovin.com/hn/38691583)
+* [The different types of the Neural Networks - YouTube](https://www.youtube.com/watch?v%3D0sp6qQ3zVuU)
+* [Three types of AI-assisted programmers - Stack Overflow](https://stackoverflow.blog/2023/12/11/three-types-of-ai-assisted-programmers/?cb%3D1)
+* [Token classification](https://huggingface.co/docs/transformers/tasks/token_classification%23inference)
+* [Training with GRIT for better LLMs and faster RAG - Contextual AI](https://contextual.ai/training-with-grit/)
+* [Was ist Machine Learning? | Definition, Arten, Beispiele | SAP](https://www.sap.com/austria/products/artificial-intelligence/what-is-machine-learning.html)
+* [What is MLflow? — MLflow 2.10.2 documentation](https://mlflow.org/docs/latest/introduction/index.html)
+* [What is retrieval-augmented generation? | IBM Research Blog](https://research.ibm.com/blog/retrieval-augmented-generation-RAG)
+* [[2005.11401] Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
+* [[2310.20144] EELBERT: Tiny Models through Dynamic Embeddings](https://arxiv.org/abs/2310.20144)
+* [[2311.05232] A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions](https://arxiv.org/abs/2311.05232)
+* [[2403.02164] Cognition is All You Need -- The Next Layer of AI Above Large Language Models](ghttps://arxiv.org/abs/2403.02164)
+* [bert-base-multilingual-cased · Hugging Face](https://huggingface.co/bert-base-multilingual-cased)
+* [config.json · FacebookAI/xlm-mlm-ende-1024 at main](https://huggingface.co/FacebookAI/xlm-mlm-ende-1024/blob/main/config.json)
+* [config.json · TransQuest/microtransquest-en_de-wiki at main](https://huggingface.co/TransQuest/microtransquest-en_de-wiki/blob/main/config.json)
+* [config.json · distilbert/distilbert-base-multilingual-cased at main](https://huggingface.co/distilbert/distilbert-base-multilingual-cased/blob/main/config.json)
+* [config.json · lewtun/distilbert-base-uncased-finetuned-imdb-accelerate at main](https://huggingface.co/lewtun/distilbert-base-uncased-finetuned-imdb-accelerate/blob/main/config.json)
+* [dbmdz/bert-mini-historic-multilingual-cased · Hugging Face](https://huggingface.co/dbmdz/bert-mini-historic-multilingual-cased)
+* [domischwimmbeck/bert-base-german-cased-20000-ner-uncased · Hugging Face](https://huggingface.co/domischwimmbeck/bert-base-german-cased-20000-ner-uncased)
+* [https://aiconsole.ai/](https://aiconsole.ai/) 
+* [https://allenai.org/olmo](https://allenai.org/olmo)
+* [https://blog.research.google/2024/02/graph-neural-networks-in-tensorflow.html](https://blog.research.google/2024/02/graph-neural-networks-in-tensorflow.html)
+* [https://deci.ai/blog/decilm-15-times-faster-than-llama2-nas-generated-llm-with-variable-gqa/](https://deci.ai/blog/decilm-15-times-faster-than-llama2-nas-generated-llm-with-variable-gqa/)
+* [https://en.wikipedia.org/wiki/Diffusion_model](https://en.wikipedia.org/wiki/Diffusion_model)
+* [https://en.wikipedia.org/wiki/Stable_Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion)
+* [https://github.com/changzy00/pytorch-attention](https://github.com/changzy00/pytorch-attention)
+* [https://github.com/microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+* [https://github.com/sooftware/attentions](https://github.com/sooftware/attentions)
+* [https://github.com/vercel/ai](https://github.com/vercel/ai)
+* [https://huggingface.co/transformers/v3.2.0/glossary.html#token-type-ids](https://huggingface.co/transformers/v3.2.0/glossary.html%23token-type-ids)
+* [https://newsletter.ruder.io/p/true-zero-shot-mt](https://newsletter.ruder.io/p/true-zero-shot-mt)
+* [https://spotintelligence.com/2023/01/31/self-attention/](https://spotintelligence.com/2023/01/31/self-attention/)
+* [https://stackoverflow.blog/2024/03/08/a-leading-ml-educator-on-what-you-need-to-know-about-llms/?cb=1](https://stackoverflow.blog/2024/03/08/a-leading-ml-educator-on-what-you-need-to-know-about-llms/?cb%3D1)
+* [https://thegradientpub.substack.com/p/do-text-embeddings-perfectly-encode](https://thegradientpub.substack.com/p/do-text-embeddings-perfectly-encode)
+* [https://venturebeat.com/ai/new-open-source-ai-coding-tool-surpasses-its-inspiration-google-deepminds-alphacode/](https://venturebeat.com/ai/new-open-source-ai-coding-tool-surpasses-its-inspiration-google-deepminds-alphacode/)
+* [https://www.analyticsvidhya.com/genaipinnacle](https://www.analyticsvidhya.com/genaipinnacle)
+* [https://www.forbes.com/sites/johnwerner/2024/01/24/ai-and-the-future-of-coding/](https://www.forbes.com/sites/johnwerner/2024/01/24/ai-and-the-future-of-coding/)
+* [https://www.heise.de/news/KI-Update-Deep-Dive-Programmieren-mit-KI-9647325.html](https://www.heise.de/news/KI-Update-Deep-Dive-Programmieren-mit-KI-9647325.html)
+* [https://www.marktechpost.com/2024/01/11/meet-neograd-a-deep-learning-framework-created-from-scratch-using-python-and-numpy-with-automatic-differentiation-capabilities/](https://www.marktechpost.com/2024/01/11/meet-neograd-a-deep-learning-framework-created-from-scratch-using-python-and-numpy-with-automatic-differentiation-capabilities/) 
+* [https://www.marktechpost.com/2024/03/16/researchers-at-stanford-university-introduce-pyvene-an-open-source-python-library-that-supports-intervention-based-research-on-machine-learning-models/](https://www.marktechpost.com/2024/03/16/researchers-at-stanford-university-introduce-pyvene-an-open-source-python-library-that-supports-intervention-based-research-on-machine-learning-models/)
+* [https://www.marktechpost.com/2024/03/19/microsoft-introduces-autodev-a-fully-automated-artificial-intelligence-driven-software-development-framework/](https://www.marktechpost.com/2024/03/19/microsoft-introduces-autodev-a-fully-automated-artificial-intelligence-driven-software-development-framework/)
+* [https://www.modular.com/blog/mojo-sdk-v0-7-now-available-for-download](https://www.modular.com/blog/mojo-sdk-v0-7-now-available-for-download)
+* [https://www.techrepublic.com/article/how-programming-will-change-over-the-next-10-years-5-predictions/](https://www.techrepublic.com/article/how-programming-will-change-over-the-next-10-years-5-predictions/)
+* [igorsterner/german-english-roberta-base-binary-ner · Hugging Face](https://huggingface.co/igorsterner/german-english-roberta-base-binary-ner)
+* [iryna-kondr/scikit-llm: Seamlessly integrate LLMs into scikit-learn.](https://github.com/iryna-kondr/scikit-llm)
+* [retrieval-augmented generation - Google Scholar](https://scholar.google.de/scholar?q%3Dretrieval-augmented%2Bgeneration%26hl%3Den%26as_sdt%3D0%26as_vis%3D1%26oi%3Dscholart)
+* [retrieval-augmented generation - Google Search](https://www.google.com/search?client%3Dfirefox-b-d%26q%3Dretrieval-augmented%2Bgeneration%23ip%3D1)
+* [shoarora/alectra-small-owt at main](https://huggingface.co/shoarora/alectra-small-owt/tree/main)
+* [transformers/examples/research_projects/distillation/README.md at main · huggingface/transformers](https://github.com/huggingface/transformers/blob/main/examples/research_projects/distillation/README.md)
+* [transformers/examples/research_projects/distillation/train.py at main · huggingface/transformers](https://github.com/huggingface/transformers/blob/main/examples/research_projects/distillation/train.py)
+* [wikimedia/wikipedia at main](https://huggingface.co/datasets/wikimedia/wikipedia/tree/main/20231101.ab)
+* [wikipedia · Datasets at Hugging Face](https://huggingface.co/datasets/wikipedia)
+* ethical analysis of openai
+* teilüberwachtes Lernen
+* ai: read deeply on AI alignment
+* ao [https://www.marktechpost.com/2024/02/08/this-ai-paper-introduces-piratenets-a-novel-ai-system-designed-to-facilitate-stable-and-efficient-training-of-deep-physics-informed-neural-network-models/](https://www.marktechpost.com/2024/02/08/this-ai-paper-introduces-piratenets-a-novel-ai-system-designed-to-facilitate-stable-and-efficient-training-of-deep-physics-informed-neural-network-models/)
 
 
 ## Projects
 * http://web.archive.org/web/20200731224921/http://vandergoten.ai/2018-09-18-attention-is-all-you-need/ → TYPE UP IN LATEX!!!
+
 
 ## This Page
 * Sort papers
@@ -155,6 +168,7 @@ ao [https://www.marktechpost.com/2024/02/08/this-ai-paper-introduces-piratenets-
 * Sort
 * RL to sort
 * SP
+
 
 ## Reading List
 * Reading :: Sort (0)
@@ -198,6 +212,7 @@ ao [https://www.marktechpost.com/2024/02/08/this-ai-paper-introduces-piratenets-
 * Reading :: Sort (38)
 * Reading :: Sort (39)
 
+
 ## Books
 * Sort Books :: General
 * Sort Books :: Autodiff
@@ -205,6 +220,7 @@ ao [https://www.marktechpost.com/2024/02/08/this-ai-paper-introduces-piratenets-
 * Sort Books :: DL
 * Sort Books :: Deep RL
 * Sort Books :: Clustering
+
 
 ## Reading List
 * [Interview, Career]()
@@ -518,6 +534,7 @@ ao [https://www.marktechpost.com/2024/02/08/this-ai-paper-introduces-piratenets-
 * https://github.com/topics/data-science-portfolio
 * https://github.com/search?q=data+science+portfolio
 
+
 ## Media / People
 * https://atcold.github.io/ ***
 * https://blog.floydhub.com/ 
@@ -577,12 +594,14 @@ ao [https://www.marktechpost.com/2024/02/08/this-ai-paper-introduces-piratenets-
 * [Victor Lavrenko - YouTube](https://www.youtube.com/channel/UCs7alOMRnxhzfKAJ4JjZ7Wg)
 * https://www.dataquest.io/blog/
 
+
 ## Podcast 1s
 * [ML Street Talk with Chomsky](https://www.youtube.com/watch?v=axuGfh4UR9Q)
 * https://thegradient.pub/how-aristotle-is-fixing-deep-learnings-flaws/
 * News AI #1: MMS Meta // Falcon // Gorilla
 * https://lexfridman.com/joscha-bach/
 * [AC Interview - Christof Koch](https://open.spotify.com/episode/0Pwwlnp6m0oNIZHspK2U1t?si=6lX9AlHTQMe-PPoXN7IcVw)    * [George Hotz vs Eliezer Yudkowsky AI Safety Debate](https://www.youtube.com/live/6yQEA18C-XI?feature=share)
+
 
 ## Video 1s
 * [Gradient Half Descent](https://www.youtube.com/watch?v=Ae9EKCyI1xU)
@@ -598,6 +617,7 @@ ao [https://www.marktechpost.com/2024/02/08/this-ai-paper-introduces-piratenets-
 * [[ML News] DeepMind tackles Math | Microsoft does more with less | Timnit Gebru launches DAIR](https://youtu.be/f2OgP49J7Pg)
 * [Watching Neural Networks Learn](https://www.youtube.com/watch?v=TkwXa7Cvfr8)
 * [ROC and AUC, Clearly Explained! - YouTube](https://www.youtube.com/watch?v=xugjARegisk)
+
 
 ## Reading 1s
 * https://appen.com/blog/what-is-active-learning/
@@ -799,10 +819,12 @@ ao [https://www.marktechpost.com/2024/02/08/this-ai-paper-introduces-piratenets-
 * [What is the most important question for Data Science (and Digital Transformation)](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=0541d9fa9b&e=b34ab4e857)
 * [Why is Data Scraping a Desirable Add On to a Data Scientist](https://www.newsletter.datasciencecentral.com/click.html?x=a62e&lc=uLj&mc=j&s=jFaI&u=F&y=O&z=wNa3dcg&)
 
+
 ## MLOps
 * https://ml-ops.org/content/end-to-end-ml-workflow 
 * https://ml-ops.org/content/crisp-ml
 * https://ml-ops.org/ 
+
 
 ## Audio ML
 * [The Sound of AI](https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ)
@@ -843,7 +865,9 @@ ao [https://www.marktechpost.com/2024/02/08/this-ai-paper-introduces-piratenets-
 * https://crypto.stanford.edu/~blynn/sound/
 * [Sound and Music - Sound and music](https://crypto.stanford.edu/~blynn/sound/)
 
+
 ## →
+
 
 ## Orgs
     
@@ -852,6 +876,7 @@ ao [https://www.marktechpost.com/2024/02/08/this-ai-paper-introduces-piratenets-
 * [We Are Conjecture, A New Alignment Research Startup — LessWrong](https://www.lesswrong.com/posts/jfq2BH5kfQqu2vYv3/we-are-conjecture-a-new-alignment-research-startup) 
 * [titanml/takeoff](https://github.com/titanml/takeoff)    * https://openai.com/blog/
 * https://www.determined.ai/   https://docs.determined.ai/latest/index.html 
+
 
 ## Notes
 * why does adding positional information not destroy some of the information decoded in the embedding? why not just concatenation?
@@ -870,6 +895,7 @@ ao [https://www.marktechpost.com/2024/02/08/this-ai-paper-introduces-piratenets-
 * good search: pca on tensor
 * dimensionality reduction on matrix of functions
 * search: pca on distributions instead of value
+
 
 ## Software, Tools, Resources
     - Model Zoos
@@ -1341,6 +1367,7 @@ ao [https://www.marktechpost.com/2024/02/08/this-ai-paper-introduces-piratenets-
 * https://github.com/aspamers/triplet
 * https://rapidminer.com/
 
+
 ## Papers    * [Active Learning for Pipeline Models](https://www.aaai.org/Papers/AAAI/2008/AAAI08-109.pdf)
 * [Object Detection with Deep Learning: A Review - arXiv](https://arxiv.org/pdf/1807.05511)
 * [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)
@@ -1368,6 +1395,7 @@ ao [https://www.marktechpost.com/2024/02/08/this-ai-paper-introduces-piratenets-
 * https://github.com/terryum/awesome-deep-learning-papers
 * [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai)    * [∞-former: Infinite Memory Transformer](https://arxiv.org/abs/2109.00301)    * [The Modern Mathematics of Deep Learning](https://arxiv.org/abs/2105.04026)
 * https://web.stanford.edu/~jgrimmer/tad2.pdf
+
 
 * Computer Vision
 * https://scis.uohyd.ac.in/~mc14pc11/deep-vision.html
@@ -1825,6 +1853,7 @@ ao [https://www.marktechpost.com/2024/02/08/this-ai-paper-introduces-piratenets-
     - http://people.ciirc.cvut.cz/~hlavac/TeachPresEn/11ImageProc/
 * [Mathematical Morphology](http://people.ciirc.cvut.cz/~hlavac/TeachPresEn/11ImageProc/71-3MatMorpholBinEn.pdf)
 
+
 * [Create COCO Annotations From Scratch — Immersive Limit](http://www.immersivelimit.com/tutorials/create-coco-annotations-from-scratch)
 * [dhSegment: A generic deep-learning approach for document segmentation](https://arxiv.org/pdf/1804.10371.pdf)
 * Books (and code resources accompanying books)
@@ -2052,12 +2081,14 @@ ao [https://www.marktechpost.com/2024/02/08/this-ai-paper-introduces-piratenets-
 * [Understanding complex datasets: data mining with matrix decompositions](https://b-ok.cc/book/448551/5aa8c5)
 * [The Shape of Data in the Digital Humanities](http://libgen.rs/book/index.php?md5=61FAC0B89621F26B6A4D7EC5527DF758)
 
+
 ## Notes on learning, Ultralearn series
 * [How To “Ultralearn” Data Science — Part 2](https://medium.com/better-programming/how-to-ultralearn-data-science-part-2-9138f5f73456)
 * [How To “Ultralearn” Data Science — Part 1](https://medium.com/better-programming/how-to-ultralearn-data-science-part-1-92e143b7257b)
 * https://www.kdnuggets.com/2019/12/ultralearn-data-science-optimization-learning-part3.html
 * https://www.kdnuggets.com/2019/12/ultralearn-data-science-deep-understanding-experimentation-part4.html
 * https://www.kdnuggets.com/2019/12/ultralearn-data-science-summary.html
+
 
 * Courses / Tutorials
 * https://sbme-tutorials.github.io/    * [Lecture: Self-Driving Cars (Winter 2021/22, Uni Bonn)](https://www.youtube.com/watch?v=EBFlmHqgezM&list=PLgnQpQtFTOGQo2Z_ogbonywTg8jxCI9pD)
@@ -2321,6 +2352,7 @@ ao [https://www.marktechpost.com/2024/02/08/this-ai-paper-introduces-piratenets-
 * https://lectures.quantecon.org/
 * [Data Structures | edX](https://www.edx.org/course/data-structures-uc-san-diegox-algs201x?utm_source=sailthru&utm_medium=email&utm_campaign=newsletter_themed_IOTAlgorithms_20180119&utm_content=Final&utm_term=Computer%20Science%20and%20Data%20Science%20Interest)
 
+
 ## Cheatsheets, Glossaries, Wikis, FAQ
 * [data science glossary](http://datascienceglossary.org/) ***
 * [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
@@ -2335,6 +2367,7 @@ ao [https://www.marktechpost.com/2024/02/08/this-ai-paper-introduces-piratenets-
 * [Machine Learning FAQ](https://sebastianraschka.com/faq/index.html)
 * https://svai.gitbook.io/research-to-the-people/ai-fundamentals/untitled
 * [Cheat Sheets](https://www.datacamp.com/community/data-science-cheatsheets)
+
 
 ## LLM
     - Books
@@ -2415,6 +2448,7 @@ ao [https://www.marktechpost.com/2024/02/08/this-ai-paper-introduces-piratenets-
 * https://blog.finxter.com/11-profitable-ways-to-make-money-as-a-prompt-engineer-2023/ 
 * https://www.heise.de/hintergrund/Anzeichen-von-Bewusstsein-bei-ChatGPT-und-Co-9295425.html     * [5 Mind blowing AI tools every researcher should know about *but doesn't*](https://www.youtube.com/watch?v=g5ZOZ7kqteo)
 
+
 ## Top Sites and Resources
 * https://applyingml.com/
 * https://www.louisbouchard.ai/learnai/ (roadmap)
@@ -2424,9 +2458,11 @@ ao [https://www.marktechpost.com/2024/02/08/this-ai-paper-introduces-piratenets-
 * https://www.math.univ-toulouse.fr/~besse/Wikistat/ *****
 * 3Blue1Brown Essence of Linear Algebra & Calculus & Neural Networks
 
+
 ## MLOps etc
 * https://github.com/The-AI-Summer/Deep-Learning-In-Production *****
 * https://thedataexchange.media/mlops-anti-patterns/
+
 
 ## Miscellaneous Topics
     - Clustering
@@ -2980,6 +3016,7 @@ ao [https://www.marktechpost.com/2024/02/08/this-ai-paper-introduces-piratenets-
 * https://www.tensorflow.org/resources/learn-ml/theoretical-and-advanced-machine-learning
 * [Interpretability and Explainability in Machine Learning](https://interpretable-ml-class.github.io/)
 
+
 ## Misc Projects, Demos
 * http://michelleful.github.io/code-blog/2015/06/18/classifying-roads/
 * [Exoplanet Hunting Using Machine Learning](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=56f7fbb489&e=b34ab4e857)
@@ -2987,6 +3024,7 @@ ao [https://www.marktechpost.com/2024/02/08/this-ai-paper-introduces-piratenets-
 * [Determining Who Voted in Historical Elections: An Aggregated Logit Approach](https://pdfs.semanticscholar.org/810c/54301c26840976476dc46e4eaad04c1aa4e9.pdf)
 * https://medium.com/espanol/un-algoritmo-de-aprendizaje-maquina-ve-cosas-que-los-historiadores-de-arte-pasan-por-alto-3b00cd28f718
 * [Una maquina con un algoritmo de aprendizaje ve cosas que los historiadores de arte pasan por alto](https://medium.com/espanol/un-algoritmo-de-aprendizaje-maquina-ve-cosas-que-los-historiadores-de-arte-pasan-por-alto-3b00cd28f718)
+
 
 ## Cloud Resources
 * https://towardsdatascience.com/build-your-own-robust-deep-learning-environment-in-minutes-354cf140a5a6
@@ -3010,8 +3048,10 @@ ao [https://www.marktechpost.com/2024/02/08/this-ai-paper-introduces-piratenets-
 * https://docs.floydhub.com/
 * [Alternative Cloud Hosted Data Science Environments](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=d47ef79649&e=b34ab4e857)
 
+
 ## Hierarchical
 * [Data Analysis Using Regression and Multilevel/Hierarchical Models](https://de1lib.org/book/731115/8705fd)
+
 
 * https://www.dataquest.io/blog/web-scraping-tutorial-python/
 * [Teach Yourself Electricity and Electronics](https://de1lib.org/book/438227/d48582)
@@ -3036,8 +3076,9 @@ ao [https://www.marktechpost.com/2024/02/08/this-ai-paper-introduces-piratenets-
 * [Big earth data, une solution pour la planète (Documentaire Arte Regards, 2018) - YouTube](https://www.youtube.com/watch?v=noxH-Mt2Gjs)
 * [(--> subs) What REALLY is Data Science? Told by a Data Scientist - YouTube](https://www.youtube.com/watch?v=xC-c7E5PK0Y)
 
+
 ## [*Basics of Statistics (quick read)](https://pdfs.semanticscholar.org/c3cc/90f6e11e9554f3de2c0da26e44ac22f8a1ff.pdf)
-Amazon Sagemaker, with free tutorials you are ready to go to build a solution based on API Gateway + Lambda + Sagemaker Inference Endpoint.
+* Amazon Sagemaker, with free tutorials you are ready to go to build a solution based on API Gateway + Lambda + Sagemaker Inference Endpoint.
 * [analytical relation among recall, precision, and classification accuracy](https://pdfs.semanticscholar.org/d8ff/71a903a73880599fdd2c7be12de1f3730d29.pdf)
 * [AntV Visualization](https://medium.com/ant-design/introduce-antv-a-new-player-in-data-visualization-90ca999cfb08)
 * [Are data science or stats curricula in US too specialized?](http://datascience.getresponse360.com/click.html?x=a62e&lc=u9Q&mc=j&s=jFaI&u=F&y=z&z=wt1PFIN&)
@@ -3091,15 +3132,15 @@ Amazon Sagemaker, with free tutorials you are ready to go to build a solution ba
 * https://www.fastcompany.com/3030716/the-9-best-languages-for-crunching-data
 * [Top 3 Programming language to develop Big Data frameworks](https://towardsdatascience.com/back-to-the-metal-top-3-programming-language-to-develop-big-data-frameworks-in-2019-69a44a36a842)
 *[**The 9 Best Languages For Crunching Data](https://www.fastcompany.com/3030716/the-9-best-languages-for-crunching-data)
-Beekeeper Studio
+* Beekeeper Studio
 * https://www.freecodecamp.org/news/what-is-sql-injection-how-to-prevent-it/
 * [7 Database Paradigms](https://youtu.be/W2Z7fbCLSTw)
 * [(see links) https://stats.stackexchange.com/questions/390253/does-t-sne-in-3-dimensions-offer-any-additional-information-to-2-dimensional-t-s](https://stats.stackexchange.com/questions/390253/does-t-sne-in-3-dimensions-offer-any-additional-information-to-2-dimensional-t-s)
-search: cartogram-drawing algorithm | cartogram | thematic map algorithm
+* search: cartogram-drawing algorithm | cartogram | thematic map algorithm
 * [Becoming a Data Head: How to Think, Speak, and Understand Data Science, Statistics, and Machine Learning](http://library.lol/main/F9690A7ACC9F9BEF741B2181E57D9CEC)
 * [A closer look at big data analytics](http://library.lol/main/5ECD88493E89412292E56D8C02C3404E)
 * https://www.freecodecamp.org/news/build-a-crm/
-regression from scratch
+* regression from scratch
 * [api - How to retrieve Wiktionary word content? - Stack Overflow](https://stackoverflow.com/questions/2770547/how-to-retrieve-wiktionary-word-content)
 * http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html#4d4e495354
 * https://gradientflow.substack.com/p/7-must-have-features-for-crafting 
@@ -3125,8 +3166,8 @@ regression from scratch
 * [An Introduction to Statistics With Python With Applications in the Life Sciences | Student's T Test | Mann–Whitney U Test](https://fr.scribd.com/document/338198132/An-Introduction-to-Statistics-With-Python-With-Applications-in-the-Life-Sciences)
 * [An online community for showcasing R & Python tutorials | DataScience+](https://datascienceplus.com/tutorials/)
 * [Analytics in a Big Data World: The Essential Guide to Data Science and its Applications | Bart Baesens | download](https://b-ok.cc/book/2614213/06f3ac)
-Analytics: Essential Tools and Methods GTx
-Applied AI IBMx
+* Analytics: Essential Tools and Methods GTx
+* Applied AI IBMx
 * [Applied Statistics: Theory and Problem Solutions with R | Dieter Rasch Rostock, Rob Verdooren Wageningen, Jürgen Pilz Klagenfurt | download](https://b-ok.cc/book/5231184/afed07?dsource=recommend)
 * [contrastive divergence](https://www.youtube.com/watch?v=MD8qXWucJBY)
 * [40 Techniques Used by Data Scientists](https://www.datasciencecentral.com/profiles/blogs/40-techniques-used-by-data-scientists?cmp=em-data-na-na-newsltr_20170517&fbclid=IwAR1nz2eG-jd8f5mMGkCFti400mZSikTfNQEum3z1o6BEmaKHZm8RXDxiDD4&imm_mid=0f1a15)
@@ -3139,7 +3180,7 @@ Applied AI IBMx
 * [Channel Data Latam](https://www.youtube.com/channel/UCOOcd7f7eJTDNxKLde3lfOQ)
 * [Chris Albon](https://chrisalbon.com/)
 * [Computational and Inferential Thinking](https://www.inferentialthinking.com/chapters/intro.html)
-Data Analysis: Essential Skills Microsoft
+* Data Analysis: Essential Skills Microsoft
 * [Data Analytics: Practical Guide to Leveraging the Power of Algorithms, Data Science, Data Mining, Statistics, Big Data, and Predictive Analysis to Improve Business, Work, and Life | Arthur Zhang | download](https://b-ok.cc/book/3384776/e42d07)
 * [Data Engineering](http://www.kareemalkaseer.com/books/data-engineering/)
 * [Data Is Beautiful](https://www.youtube.com/channel/UCkWbqlDAyJh2n8DN5X6NZyg)
@@ -3148,9 +3189,9 @@ Data Analysis: Essential Skills Microsoft
 * [Data science | Scoop.it](https://www.scoop.it/topic/data-science)
 * [Data Science Essentials | edX](https://www.edx.org/course/data-science-essentials)
 * [Data science for dummies | Lillian Pierson; Jake Porway (foreword) | download](https://b-ok.cc/book/2517136/4ed18d)
-Data Science Harvardx
+* Data Science Harvardx
 * [Data Science Tools - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/data-science-tools)
-Data Science UCSanDiegoX
+* Data Science UCSanDiegoX
 * [Data Science with R A Step By Step Guide With Visual Illustrations and Examples | Andrew Oleksy | download](https://b-ok.cc/book/3640664/bcba3a?dsource=recommend)
 * [Data Science обучение - курсы машинного обучения | GeekBrains - образовательный портал | GeekBrains - образовательный портал](https://geekbrains.ru/geek_university/data-science)
 * [Data Science, Learning by Latent Structures, and Knowledge Discovery | Berthold Lausen, Sabine Krolak-Schwerdt, Matthias Böhmer (eds.) | download](https://b-ok.cc/book/2543971/4070e0)
@@ -3185,7 +3226,7 @@ Data Science UCSanDiegoX
 * [Joma Tech](https://www.youtube.com/c/JomaOppa)
 * [Keenan Crane](https://www.youtube.com/user/keenancrane)
 * [Ken Jee](https://www.youtube.com/c/KenJee1)
-MBA Core Curriculum USMx UMD
+* MBA Core Curriculum USMx UMD
 * [nbviewer](https://nbviewer.jupyter.org/)
 * [Onigiri (RU)](https://www.youtube.com/channel/UCzdmz_lLWT_dPqOvFjXAMVg)
 * [Open Science Notebooks](https://www.science-emergence.com/)
@@ -3194,17 +3235,19 @@ MBA Core Curriculum USMx UMD
 * [Scipy Lecture Notes — Scipy lecture notes](http://www.scipy-lectures.org/)
 * [SoyData - la ciencia de datos a tu alcance](https://castbox.fm/channel/id1574757?utm_campaign=i_share_ch&utm_medium=dlink&utm_source=i_share&country=fr)
 * [Statistics 701](http://dept.stat.lsa.umich.edu/~jerrick/courses/stat701/index.html)
-Statistics and Data Science MITx
+* Statistics and Data Science MITx
 * [Statistische Methoden der Datenanalyse](http://people.physik.hu-berlin.de/~same/neuemedien/smd/)
 * [Sundog Education with Frank Kane](https://www.youtube.com/c/SundogEducation)
-Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learning knowledge is important || A basic knowledge of linear algebra and multivariable calculus can go a long way || Learn how to work around data munging || It is important to know how to visualize data and communicate effectively || Having a software engineering degree is a plus point || Always think like a data scientist Work
+* Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learning knowledge is important || A basic knowledge of linear algebra and multivariable calculus can go a long way || Learn how to work around data munging || It is important to know how to visualize data and communicate effectively || Having a software engineering degree is a plus point || Always think like a data scientist Work
 * [University of Denver's MS in Data Science Online](https://www.newsletter.datasciencecentral.com/click.html?x=a62e&lc=uiA&mc=j&s=jFaI&u=F&y=k&z=wT46XO9&)
 * [www.acme.byu.edu](http://www.acme.byu.edu/)
 * [www.kaggle.com](https://www.kaggle.com/saxinou/imbalanced-data-xgboost-tunning)
 * [Основы анализа данных](https://www.youtube.com/c/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
 * [Подборка рабочих примеров обработки данных](https://habr.com/ru/post/460557/)
 
+
 ## [->](https://www.kdnuggets.com/2020/02/python-r-courses-data-science.html)
+
 
 ## Sort (21)
 * [Index of Complex Networks](https://icon.colorado.edu/#!/)
@@ -3298,6 +3341,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * Latent Semantic Mapping: Principles and Applications
 * https://deepmind.com/blog/article/advancing-sports-analytics-through-ai
 * [Use Wikidata in AI and cognitive applications – Build Smart. Build Secure. IBM Developer](https://developer.ibm.com/series/use-wikidata-in-ai-and-cognitive-applications/)
+
 
 ## Sort (22)
 * [Shattered set - Wikipedia](https://en.wikipedia.org/wiki/Shattered_set)
@@ -3402,6 +3446,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Machine Learning and Microeconomics](http://sigai.acm.org/static/cnc_abstracts/frongillo.pdf)
 * http://freakonometrics.hypotheses.org/20274
 
+
 ## Sort (23)
 * https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning/
 * https://www.freecodecamp.org/news/biggest-data-breaches-lessons-learned/
@@ -3501,6 +3546,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Social Networks: Models of Information Influence, Control and Confrontation | Alexander G. Chkhartishvili, Dmitry A. Gubanov, Dmitry A. Novikov | download](https://b-ok.cc/book/4982279/fcf621)
 * [Случайные графы](https://www.youtube.com/watch?v=JBFk5bbCj-Y&list=PL-_cKNuVAYAUwJcixk424jd6v5cSj_Byy)
 * [Graph Algorithms](https://www.datasciencecentral.com/profiles/blogs/illustration-of-key-graph-based-shortest-path-algorithms)
+
 
 ## Sort (25)
 * https://www.deeplearning.ai/thebatch/
@@ -3665,6 +3711,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [CNN intermediate feature maps - Ricerca Google](https://www.google.com/search?q=CNN+intermediate+feature+maps&tbm=isch&ved=2ahUKEwieodLynrH1AhXYYvEDHaqrCV8Q2-cCegQIABAA&oq=CNN+intermediate+feature+maps&gs_lcp=CgNpbWcQAzoHCCMQ7wMQJ1DKDFjKDGC3EWgAcAB4AIABTIgBkwGSAQEymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=RWzhYd7qEtjFxc8Pqtem-AU&bih=929&biw=1920&client=ubuntu&hs=4VP#imgrc=-iSrJEOQZLx3LM)
 * [hierarchical_features.png (PNG Image, 754 × 208 pixels)](https://developer.nvidia.com/blog/wp-content/uploads/2015/11/hierarchical_features.png)
 
+
 ## Sort (26)
     - [**Stanford CoreNLP – Natural language software | Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
 * https://mxnet.apache.org/versions/1.6/api
@@ -3783,6 +3830,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * https://www.deeplearning.ai/deep-learning-specialization/
 * [Глубокое обучение](https://drive.google.com/file/d/1rtoJepwq1Pl64gHC7Mk7v-3zqM8NUhep/view)
 * [Глубокое обучение Погружение в мир нейронных сетей](https://drive.google.com/file/d/18_rngmSL5nAgwtpXifAzwfAm9FeGxIf7/view?usp=sharing)
+
 
 ## Sort (29)
 * [Visualizing MNIST: An Exploration of Dimensionality Reduction - colah's blog](http://colah.github.io/posts/2014-10-Visualizing-MNIST/)
@@ -3933,6 +3981,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [The unreasonable effectiveness of deep learning in artificial intelligence | PNAS](https://www.pnas.org/content/early/2020/01/23/1907373117)
     - [***Neural Networks, Types, and Functional Programming -- colah's blog](https://colah.github.io/posts/2015-09-NN-Types-FP/)
 
+
 ## Sort (30)
 * [Brain tumor classification using a hybrid deep autoencoder with Bayesian fuzzy clustering-based segmentation approach - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0208521620300115)
 * [Model Zoo](https://awesomeopensource.com/project/FluxML/model-zoo?categorypage=45)
@@ -4041,6 +4090,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [dxZhou2020b.pdf](https://www.cityu.edu.hk/rcms/pdf/XDZhou/dxZhou2020b.pdf)
 * [GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing](https://www.jmlr.org/papers/volume21/19-429/19-429.pdf)
 * [dxZhou2020c.pdf](https://www.cityu.edu.hk/rcms/pdf/XDZhou/dxZhou2020c.pdf)
+
 
 ## Sort (31)
 * https://medium.com/geekculture/introduction-to-cuda-7bf6909ea57c
@@ -4201,6 +4251,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Machine Learning und Künstliche Intelligenz](https://www.youtube.com/watch?v=GdsOLrqj42I&list=PLNmsVeXQZj7qoIUw0MBYQ9qJffZAVdRWC)
 * [Artificial Intelligence - All in One](https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg)
 
+
 ## Sort (32)
     > p261
 * [Generalized_eigenvector](https://en.wikipedia.org/wiki/Generalized_eigenvector)
@@ -4340,6 +4391,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Audio long-read: Rise of the robo-writers](https://www.nature.com/articles/d41586-021-00885-4?utm_source=researcher_app&utm_medium=referral&utm_campaign=RESR_MRKT_Researcher_inbound)
 * [Neuronale Netzwerke mit TensorFlow 2: von unten nach oben | Oliver Zeigermann - YouTube](https://www.youtube.com/watch?v=C2B6C9EL2oQ)
 * [Break into NLP hosted by deeplearning.ai - YouTube](https://www.youtube.com/watch?v=SzAmGg2TVBg)
+
 
 ## Sort (33)
 * [$$$ Logistic Regression: The good parts – freeCodeCamp.org](https://medium.freecodecamp.org/logistic-regression-the-good-parts-55efa68e11df)
@@ -4504,6 +4556,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [> see links](https://en.wikipedia.org/wiki/Jordan_normal_form)
 * file:///Users/iriley/Downloads/harddrive/Operator%20Theoory%20and%20Analysis%20(esp.%20LI%20of%20Jordan%20Chains).pdf
 
+
 ## Sort (34)
 * [MIT Deep Learning and Artificial Intelligence Lectures | Lex Fridman](https://deeplearning.mit.edu/)
 * [Probabilistic Graphical Models: Principles and Applications](http://libgen.rs/book/index.php?md5=BFB920F5423EB085075BEA8A22BA6AED)
@@ -4649,6 +4702,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [$$$ Learn #MachineLearning Coding Basics in a weekend - Glossary and Mindmap - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/learn-machinelearning-coding-basics-in-a-weekend-glossary-and)
 * [$$$ Learn #MachineLearning Coding Basics in a weekend – a new approach to coding for #AI - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/learn-machinelearning-coding-basics-in-a-weekend-a-new-approach)
 * [$$$ Difference between Machine Learning, Data Science, AI, Deep Learning, and Statistics - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/difference-between-machine-learning-data-science-ai-deep-learning)
+
 
 ## Sort (35)
 * [Signal processing theory and machine learning | Diniz, Paulo S.R. Diniz, Johan A.K. Suykens, Rama Chellappa, Sergios Theodoridis | download](https://b-ok.org/book/2461657/5eaf32)
@@ -4807,6 +4861,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps | Valliappa Lakshmanan, Sara Robinson, Michael Munn | download](https://de1lib.org/book/16984074/61b39d)
 * [Machine Learning For Dummies | John Paul Mueller, Luca Massaron | download](https://de1lib.org/book/2718415/0b492b?dsource=recommend)
 
+
 ## Sort (36)
 * [[2104.03527] Archetypal Analysis for Sparse Nonnegative Matrix Factorization: Robustness Under Misspecification](https://arxiv.org/abs/2104.03527)
 * [HARK Side of Deep Learning -- From Grad Student Descent to Automated Machine Learning](https://arxiv.org/abs/1904.07633)
@@ -4964,6 +5019,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Interpretability in Machine Learning: An Overview](https://thegradient.pub/interpretability-in-ml-a-broad-overview/)
 * [Blogs on Artificial Intelligence, Machine Learning, Python & Data Science](https://www.mygreatlearning.com/blog/)
 * [Pattern Recognition, Fourth Edition](https://b-ok.org/book/967714/cc03a0)
+
 
 ## Sort (37)
 * https://realpython.com/gradient-descent-algorithm-python/
@@ -5136,6 +5192,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538)
 * [High-Performance Large-Scale Image Recognition Without Normalization](https://arxiv.org/abs/2102.06171)
 * [Toil and Trouble, Don't Get Burned Shorting Bubbles](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3782759)
+
 
 ## Sort (38)
 * https://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/
@@ -5345,6 +5402,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 
 
 ## Books
+
 
 ## General
 * http://dlib.net/books.html
@@ -5637,6 +5695,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Best Deep Learning Books: Updated for 2019](https://blog.floydhub.com/best-deep-learning-books-updated-for-2019/)
 * [<-](http://libgen.is/search.php?req=Andrew+Glassner+From+Basics+to+Practice&open=0&res=25&view=simple&phrase=1&column=def)
 
+
 ## Clustering
 * [Library Genesis: - Survey of Text Mining I: Clustering, Classification, and Retrieval](https://libgen.is/book/index.php?md5=C551C048520686368DB15F620DEE212A)
 * [Library Genesis: Alboukadel Kassambara - Practical Guide to Cluster Analysis in R. Unsupervised Machine Learning](https://libgen.is/book/index.php?md5=7CBE43DE8C4F13ACDC7601338128BC36)
@@ -5656,7 +5715,9 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Library Genesis: V. Lemaire, F. Clérot (auth.), Dr. Saman K. Halgamuge, Dr. Lipo Wang (eds.) - Classification and Clustering for Knowledge Discovery](https://libgen.is/book/index.php?md5=283E3F09E583494CC5A0DF43FB57B1F1)
 * [Library Genesis: Witold Pedrycz - Knowledge-based clustering: from data to information granules](https://libgen.is/book/index.php?md5=98EACD521082D52B09B6FC2890EAD7A7)
 
+
 ## Autodiff    * [The Art of Differentiating Computer Programs: An Introduction to Algorithmic Differentiation](http://library.lol/main/85F1B05D3FD8A4F541460CE1BB6816D3)    * [Recent Advances in Algorithmic Differentiation](http://library.lol/main/C27D847C466C743F10002FD6554D0533)    * [Evaluating derivatives: principles and techniques of algorithmic differentiation](http://library.lol/main/4099B9B0E52FDDDED80AF6750FFCB9B0)    * [Algorithmic Differentiation in Finance Explained](http://library.lol/main/E955C1FE1EA6D8C9FEA08D49FECB9776)
+
 
 ## DL
 * Neural Networks and Deep Learning
@@ -5707,6 +5768,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Haskell Data Analysis Cookbook](http://library.lol/main/37E36A4652A2355552FFFC7180D6E81B)
 * http://libgen.is/search.php?&req=evolutionary+algorithms&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
 
+
 ## Deep RL
 * [Deep Reinforcement Learning in Action](http://libgen.is/book/index.php?md5=F2F28879523CAE239FFB89EA6A533A1A)
 * [Foundations of Deep Reinforcement Learning: Theory and Practice in Python](http://libgen.is/book/index.php?md5=8363B2F5DA18CE9A2F0A9C633D96675D)
@@ -5714,6 +5776,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [Grokking Deep Reinforcement Learning [1 ed.]](http://libgen.is/book/index.php?md5=F83946E7A76E64E0C309CB9A2086551E)
 * [HANDS-ON REINFORCEMENT LEARNING WITH PYTHON - : master reinforcement and deep reinforcement... learning from scratch using openai gym and tensorf.](http://libgen.is/book/index.php?md5=58DB6090F0F8EC2351AADBC6A70B47E5)
 * [Deep Reinforcement Learning -- Das umfassende Praxis-Handbuch](https://de.de1lib.org/book/17917854/601596)
+
 
 ## CV
 * Computer Vision. A Reference Guide
@@ -5733,6 +5796,7 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [techniques, and algorithms for computer vision and machine learning [3 ed](http://libgen.is/book/index.php?md5=9208FA33E5C1F93918E128F8E0781BEC)
 * [Learning OpenCV 3: Computer Vision in C++ with the OpenCV Library [1 ed.]](http://libgen.is/book/index.php?md5=223AF6E7AF180D4D84C4133CF11BF788)
 * [Reinforcement Learning From Scratch: Understanding Current Approaches - with Examples in Java and Greenfoot](http://library.lol/main/A571D1C872BF54E00FC2DEC784A1FE7E)
+
 
 ## Papers
 * [0] Rene Vidal, Joan Bruna, Raja Giryes, Stefano Soatto. Mathematics of Deep Learning. arXiv 2017.
@@ -5816,147 +5880,156 @@ Understanding of Basic Tools || Knowledge of Basic Statistics || Machine learnin
 * [78] D. Kingma and M. Welling. Auto-encoding variational bayes. arXiv preprint arXiv:1312.6114, 2013.
 * [79] G. Sundaramoorthi, P. Petersen, V. S. Varadarajan, and S. Soatto. On the set of images modulo viewpoint and contrast changes. In IEEE Conference on Computer Vision and Pattern Recognition, 2009.
 * https://www.researchgate.net/publication/216792893_Modeles_connexionnistes_de_l'apprentissage
-MMOD paper
+* MMOD paper
 * hOG paper
 * [Why do linear SVMs trained on HOG features perform so well?](https://arxiv.org/pdf/1406.2419.pdf)
-Attention is All You Need
-Word2Vec
-Bert
-Elmo
-GPT-2
+* Attention is All You Need
+* Word2Vec
+* Bert
+* Elmo
+* GPT-2
 * [“Tabular data: Deep learning is not all you need.”](https://arxiv.org/abs/2106.03253)
-Universal Language Model Fine-tuning for Text Classification
-Improving Language Understanding by Generative Pre-Training
-Learning an Executable Neural Semantic Parser
+* Universal Language Model Fine-tuning for Text Classification
+* Improving Language Understanding by Generative Pre-Training
+* Learning an Executable Neural Semantic Parser
 * [“A ConvNet for the 2020s.”](https://arxiv.org/abs/2201.03545)
-Unsupervised Compositionality Prediction of Nominal Compounds
-Automatic Inference of Sound Correspondence Patterns across Multiple Languages
-A Sequential Matching Framework for Multi-Turn Response Selection in Retrieval-Based Chatbots
-Parsing Chinese Sentences with Grammatical Relations
+* Unsupervised Compositionality Prediction of Nominal Compounds
+* Automatic Inference of Sound Correspondence Patterns across Multiple Languages
+* A Sequential Matching Framework for Multi-Turn Response Selection in Retrieval-Based Chatbots
+* Parsing Chinese Sentences with Grammatical Relations
 * [“A survey of transformers.”](https://arxiv.org/abs/2106.04554)
-Avrim Blum and Tom Mitchell: Combining Labeled and Unlabeled Data with Co-Training, 1998.
-John Lafferty, Andrew McCallum, Fernando C.N. Pereira: Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data, ICML 2001.
-Charles Sutton, Andrew McCallum. An Introduction to Conditional Random Fields for Relational Learning.
-Kamal Nigam, et al.: Text Classification from Labeled and Unlabeled Documents using EM. Machine Learning, 1999.
+* Avrim Blum and Tom Mitchell: Combining Labeled and Unlabeled Data with Co-Training, 1998.
+* John Lafferty, Andrew McCallum, Fernando C.N. Pereira: Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data, ICML 2001.
+* Charles Sutton, Andrew McCallum. An Introduction to Conditional Random Fields for Relational Learning.
+* Kamal Nigam, et al.: Text Classification from Labeled and Unlabeled Documents using EM. Machine Learning, 1999.
 * [“A simple framework for contrastive learning of visual representations.”](https://arxiv.org/abs/2002.05709)
-Kevin Knight: Bayesian Inference with Tears, 2009.
-Marco Tulio Ribeiro et al.: “Why Should I Trust You?”: Explaining the Predictions of Any Classifier, KDD 2016.
-Marco Tulio Ribeiro et al.: , ACL 2020.
-Richard Socher, et al.: Dynamic Pooling and Unfolding Recursive Autoencoders for Paraphrase Detection, NIPS 2011.
+* Kevin Knight: Bayesian Inference with Tears, 2009.
+* Marco Tulio Ribeiro et al.: “Why Should I Trust You?”: Explaining the Predictions of Any Classifier, KDD 2016.
+* Marco Tulio Ribeiro et al.: , ACL 2020.
+* Richard Socher, et al.: Dynamic Pooling and Unfolding Recursive Autoencoders for Paraphrase Detection, NIPS 2011.
 * [“Efficientnet: Rethinking model scaling for convolutional neural networks.”](https://arxiv.org/abs/1905.11946)
-Ronan Collobert et al.: Natural Language Processing (almost) from Scratch, J. of Machine Learning Research, 2011.
-Richard Socher, et al.: Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank, EMNLP 2013.
-Xiang Zhang, Junbo Zhao, and Yann LeCun: Character-level Convolutional Networks for Text Classification, NIPS 2015.
-Yoon Kim: Convolutional Neural Networks for Sentence Classification, 2014.
+* Ronan Collobert et al.: Natural Language Processing (almost) from Scratch, J. of Machine Learning Research, 2011.
+* Richard Socher, et al.: Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank, EMNLP 2013.
+* Xiang Zhang, Junbo Zhao, and Yann LeCun: Character-level Convolutional Networks for Text Classification, NIPS 2015.
+* Yoon Kim: Convolutional Neural Networks for Sentence Classification, 2014.
 * [“Pushing the limits of narrow precision inferencing at cloud scale with microsoft floating point.”](https://proceedings.neurips.cc/paper/2020/hash/747e32ab0fea7fbd2ad9ec03daa3f840-Abstract.html)
-Christopher Olah: Understanding LSTM Networks, 2015.
-Matthew E. Peters, et al.: Deep contextualized word representations, 2018.
-Jacob Devlin, et al.: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, 2018.
-Yihan Liu et al. , 2020.
+* Christopher Olah: Understanding LSTM Networks, 2015.
+* Matthew E. Peters, et al.: Deep contextualized word representations, 2018.
+* Jacob Devlin, et al.: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, 2018.
+* Yihan Liu et al. , 2020.
 * [“AdderNet: Do we really need multiplications in deep learning?.”](https://arxiv.org/abs/1912.13200)
-Peter F Brown, et al.: Class-Based n-gram Models of Natural Language, 1992.
-Tomas Mikolov, et al.: Efficient Estimation of Word Representations in Vector Space, 2013.
-Tomas Mikolov, et al.: Distributed Representations of Words and Phrases and their Compositionality, NIPS 2013.
-Quoc V. Le and Tomas Mikolov: Distributed Representations of Sentences and Documents, 2014.
+* Peter F Brown, et al.: Class-Based n-gram Models of Natural Language, 1992.
+* Tomas Mikolov, et al.: Efficient Estimation of Word Representations in Vector Space, 2013.
+* Tomas Mikolov, et al.: Distributed Representations of Words and Phrases and their Compositionality, NIPS 2013.
+* Quoc V. Le and Tomas Mikolov: Distributed Representations of Sentences and Documents, 2014.
 * [“Alias-free generative adversarial networks.”](https://proceedings.neurips.cc/paper/2021/hash/076ccd93ad68be51f23707988e934906-Abstract.html)
-Jeffrey Pennington, et al.: GloVe: Global Vectors for Word Representation, 2014.
-Ryan Kiros, et al.: Skip-Thought Vectors, 2015.
-Piotr Bojanowski, et al.: Enriching Word Vectors with Subword Information, 2017.
-Daniel Cer et al.: , 2018.
+* Jeffrey Pennington, et al.: GloVe: Global Vectors for Word Representation, 2014.
+* Ryan Kiros, et al.: Skip-Thought Vectors, 2015.
+* Piotr Bojanowski, et al.: Enriching Word Vectors with Subword Information, 2017.
+* Daniel Cer et al.: , 2018.
 * [“Transparency and reproducibility in artificial intelligence.”](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8144864/)
-Thomas Hofmann: Probabilistic Latent Semantic Indexing, SIGIR 1999.
-David Blei, Andrew Y. Ng, and Michael I. Jordan: Latent Dirichlet Allocation, J. Machine Learning Research, 2003.
-Joshua Goodman: A bit of progress in language modeling, MSR Technical Report, 2001.
-Stanley F. Chen and Joshua Goodman: An Empirical Study of Smoothing Techniques for Language Modeling, ACL 2006.
+* Thomas Hofmann: Probabilistic Latent Semantic Indexing, SIGIR 1999.
+* David Blei, Andrew Y. Ng, and Michael I. Jordan: Latent Dirichlet Allocation, J. Machine Learning Research, 2003.
+* Joshua Goodman: A bit of progress in language modeling, MSR Technical Report, 2001.
+* Stanley F. Chen and Joshua Goodman: An Empirical Study of Smoothing Techniques for Language Modeling, ACL 2006.
 * [“On the Measure of Intelligence.”](https://arxiv.org/abs/1911.01547)
-Yee Whye Teh: A Hierarchical Bayesian Language Model based on Pitman-Yor Processes, COLING/ACL 2006.
-Yee Whye Teh: A Bayesian interpretation of Interpolated Kneser-Ney, 2006.
-Yoshua Bengio, et al.: A Neural Probabilistic Language Model, J. of Machine Learning Research, 2003.
-Andrej Karpathy: The Unreasonable Effectiveness of Recurrent Neural Networks, 2015.
+* Yee Whye Teh: A Hierarchical Bayesian Language Model based on Pitman-Yor Processes, COLING/ACL 2006.
+* Yee Whye Teh: A Bayesian interpretation of Interpolated Kneser-Ney, 2006.
+* Yoshua Bengio, et al.: A Neural Probabilistic Language Model, J. of Machine Learning Research, 2003.
+* Andrej Karpathy: The Unreasonable Effectiveness of Recurrent Neural Networks, 2015.
 * [Why do linear SVMs trained on HOG features perform so well?](https://arxiv.org/pdf/1406.2419.pdf)
-Yoon Kim, et al.: Character-Aware Neural Language Models, 2015.
-Alec Radford, et al.: , 2018.
-Donald Hindle and Mats Rooth. Structural Ambiguity and Lexical Relations, Computational Linguistics, 1993.
-Adwait Ratnaparkhi: A Maximum Entropy Model for Part-Of-Speech Tagging, EMNLP 1996.
-Eugene Charniak: A Maximum-Entropy-Inspired Parser, NAACL 2000.
-Michael Collins: Discriminative Training Methods for Hidden Markov Models: Theory and Experiments with Perceptron Algorithms, EMNLP 2002.
-Dan Klein and Christopher Manning: Accurate Unlexicalized Parsing, ACL 2003.
-Dan Klein and Christopher Manning: Corpus-Based Induction of Syntactic Structure: Models of Dependency and Constituency, ACL 2004.
-Joakim Nivre and Mario Scholz: Deterministic Dependency Parsing of English Text, COLING 2004.
-Ryan McDonald et al.: Non-Projective Dependency Parsing using Spanning-Tree Algorithms, EMNLP 2005.
-Daniel Andor et al.: Globally Normalized Transition-Based Neural Networks, 2016.
-Oriol Vinyals, et al.: Grammar as a Foreign Language, 2015.
-Marti A. Hearst: Automatic Acquisition of Hyponyms from Large Text Corpora, COLING 1992.
-Collins and Singer: Unsupervised Models for Named Entity Classification, EMNLP 1999.
-Patrick Pantel and Dekang Lin, Discovering Word Senses from Text, SIGKDD, 2002.
-Mike Mintz et al.: Distant supervision for relation extraction without labeled data, ACL 2009.
-Zhiheng Huang et al.: Bidirectional LSTM-CRF Models for Sequence Tagging, 2015.
-Xuezhe Ma and Eduard Hovy: End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF, ACL 2016.
-Peter F. Brown et al.: A Statistical Approach to Machine Translation, Computational Linguistics, 1990.
-Kevin Knight, Graehl Jonathan. Machine Transliteration. Computational Linguistics, 1992.
-Dekai Wu: Inversion Transduction Grammars and the Bilingual Parsing of Parallel Corpora, Computational Linguistics, 1997.
-Kevin Knight: A Statistical MT Tutorial Workbook, 1999.
-Kishore Papineni, et al.: BLEU: a Method for Automatic Evaluation of Machine Translation, ACL 2002.
-Philipp Koehn, Franz J Och, and Daniel Marcu: Statistical Phrase-Based Translation, NAACL 2003.
-Philip Resnik and Noah A. Smith: The Web as a Parallel Corpus, Computational Linguistics, 2003.
-Franz J Och and Hermann Ney: The Alignment-Template Approach to Statistical Machine Translation, Computational Linguistics, 2004.
-David Chiang. A Hierarchical Phrase-Based Model for Statistical Machine Translation, ACL 2005.
-Ilya Sutskever, Oriol Vinyals, and Quoc V. Le: Sequence to Sequence Learning with Neural Networks, NIPS 2014.
-Oriol Vinyals, Quoc Le: A Neural Conversation Model, 2015.
-Dzmitry Bahdanau, et al.: Neural Machine Translation by Jointly Learning to Align and Translate, 2014.
-Minh-Thang Luong, et al.: Effective Approaches to Attention-based Neural Machine Translation, 2015.
-Rico Sennrich et al.: Neural Machine Translation of Rare Words with Subword Units. ACL 2016.
-Yonghui Wu, et al.: Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation, 2016.
-Melvin Johnson, et al.: , 2016.
-Jonas Gehring, et al.: Convolutional Sequence to Sequence Learning, 2017.
-Ashish Vaswani, et al.: Attention Is All You Need, 2017.
-Vincent Ng: Supervised Noun Phrase Coreference Research: The First Fifteen Years, ACL 2010.
-Kenton Lee at al.: End-to-end Neural Coreference Resolution, EMNLP 2017.
-Kevin Knight and Daniel Marcu: Summarization beyond sentence extraction. Artificial Intelligence 139, 2002.
-James Clarke and Mirella Lapata: Modeling Compression with Discourse Constraints. EMNLP-CONLL 2007.
-Ryan McDonald: A Study of Global Inference Algorithms in Multi-Document Summarization, ECIR 2007.
-Wen-tau Yih et al.: Multi-Document Summarization by Maximizing Informative Content-Words. IJCAI 2007.
-Alexander M Rush, et al.: A Neural Attention Model for Sentence Summarization. EMNLP 2015.
-Abigail See et al.: . ACL 2017.
-Pranav Rajpurkar et al.: SQuAD: 100,000+ Questions for Machine Comprehension of Text. EMNLP 2015.
-Minjoon Soo et al.: Bi-Directional Attention Flow for Machine Comprehension. ICLR 2015.
-Jiwei Li, et al.: Deep Reinforcement Learning for Dialogue Generation, EMNLP 2016.
-Marc’Aurelio Ranzato et al.: Sequence Level Training with Recurrent Neural Networks. ICLR 2016.
-Samuel R Bowman et al.: , CoNLL 2016.
-Lantao Yu, et al.: SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient, AAAI 2017.
-CoNLL-X shared task on multilingual dependency parsing.
-Coarse-to-fine n-best parsing and MaxEnt discriminative reranking.
-The CoNLL-2010 shared task: learning to detect hedges and their scope in natural language text.
-WordNet: An electronic lexical database. 1998.
-Accurate unlexicalized parsing.
-Automatic retrieval and clustering of similar words.
-Building a large annotated corpus of English: The Penn Treebank.
-The proposition bank: An annotated corpus of semantic roles.
-BLEU: a method for automatic evaluation of machine translation.
-Improved Inference for Unlexicalized Parsing.
+* Yoon Kim, et al.: Character-Aware Neural Language Models, 2015.
+* Alec Radford, et al.: , 2018.
+* Donald Hindle and Mats Rooth. Structural Ambiguity and Lexical Relations, Computational Linguistics, 1993.
+* Adwait Ratnaparkhi: A Maximum Entropy Model for Part-Of-Speech Tagging, EMNLP 1996.
+* Eugene Charniak: A Maximum-Entropy-Inspired Parser, NAACL 2000.
+* Michael Collins: Discriminative Training Methods for Hidden Markov Models: Theory and Experiments with Perceptron Algorithms, EMNLP 2002.
+* Dan Klein and Christopher Manning: Accurate Unlexicalized Parsing, ACL 2003.
+* Dan Klein and Christopher Manning: Corpus-Based Induction of Syntactic Structure: Models of Dependency and Constituency, ACL 2004.
+* Joakim Nivre and Mario Scholz: Deterministic Dependency Parsing of English Text, COLING 2004.
+* Ryan McDonald et al.: Non-Projective Dependency Parsing using Spanning-Tree Algorithms, EMNLP 2005.
+* Daniel Andor et al.: Globally Normalized Transition-Based Neural Networks, 2016.
+* Oriol Vinyals, et al.: Grammar as a Foreign Language, 2015.
+* Marti A. Hearst: Automatic Acquisition of Hyponyms from Large Text Corpora, COLING 1992.
+* Collins and Singer: Unsupervised Models for Named Entity Classification, EMNLP 1999.
+* Patrick Pantel and Dekang Lin, Discovering Word Senses from Text, SIGKDD, 2002.
+* Mike Mintz et al.: Distant supervision for relation extraction without labeled data, ACL 2009.
+* Zhiheng Huang et al.: Bidirectional LSTM-CRF Models for Sequence Tagging, 2015.
+* Xuezhe Ma and Eduard Hovy: End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF, ACL 2016.
+* Peter F. Brown et al.: A Statistical Approach to Machine Translation, Computational Linguistics, 1990.
+* Kevin Knight, Graehl Jonathan. Machine Transliteration. Computational Linguistics, 1992.
+* Dekai Wu: Inversion Transduction Grammars and the Bilingual Parsing of Parallel Corpora, Computational Linguistics, 1997.
+* Kevin Knight: A Statistical MT Tutorial Workbook, 1999.
+* Kishore Papineni, et al.: BLEU: a Method for Automatic Evaluation of Machine Translation, ACL 2002.
+* Philipp Koehn, Franz J Och, and Daniel Marcu: Statistical Phrase-Based Translation, NAACL 2003.
+* Philip Resnik and Noah A. Smith: The Web as a Parallel Corpus, Computational Linguistics, 2003.
+* Franz J Och and Hermann Ney: The Alignment-Template Approach to Statistical Machine Translation, Computational Linguistics, 2004.
+* David Chiang. A Hierarchical Phrase-Based Model for Statistical Machine Translation, ACL 2005.
+* Ilya Sutskever, Oriol Vinyals, and Quoc V. Le: Sequence to Sequence Learning with Neural Networks, NIPS 2014.
+* Oriol Vinyals, Quoc Le: A Neural Conversation Model, 2015.
+* Dzmitry Bahdanau, et al.: Neural Machine Translation by Jointly Learning to Align and Translate, 2014.
+* Minh-Thang Luong, et al.: Effective Approaches to Attention-based Neural Machine Translation, 2015.
+* Rico Sennrich et al.: Neural Machine Translation of Rare Words with Subword Units. ACL 2016.
+* Yonghui Wu, et al.: Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation, 2016.
+* Melvin Johnson, et al.: , 2016.
+* Jonas Gehring, et al.: Convolutional Sequence to Sequence Learning, 2017.
+* Ashish Vaswani, et al.: Attention Is All You Need, 2017.
+* Vincent Ng: Supervised Noun Phrase Coreference Research: The First Fifteen Years, ACL 2010.
+* Kenton Lee at al.: End-to-end Neural Coreference Resolution, EMNLP 2017.
+* Kevin Knight and Daniel Marcu: Summarization beyond sentence extraction. Artificial Intelligence 139, 2002.
+* James Clarke and Mirella Lapata: Modeling Compression with Discourse Constraints. EMNLP-CONLL 2007.
+* Ryan McDonald: A Study of Global Inference Algorithms in Multi-Document Summarization, ECIR 2007.
+* Wen-tau Yih et al.: Multi-Document Summarization by Maximizing Informative Content-Words. IJCAI 2007.
+* Alexander M Rush, et al.: A Neural Attention Model for Sentence Summarization. EMNLP 2015.
+* Abigail See et al.: . ACL 2017.
+* Pranav Rajpurkar et al.: SQuAD: 100,000+ Questions for Machine Comprehension of Text. EMNLP 2015.
+* Minjoon Soo et al.: Bi-Directional Attention Flow for Machine Comprehension. ICLR 2015.
+* Jiwei Li, et al.: Deep Reinforcement Learning for Dialogue Generation, EMNLP 2016.
+* Marc’Aurelio Ranzato et al.: Sequence Level Training with Recurrent Neural Networks. ICLR 2016.
+* Samuel R Bowman et al.: , CoNLL 2016.
+* Lantao Yu, et al.: SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient, AAAI 2017.
+* CoNLL-X shared task on multilingual dependency parsing.
+* Coarse-to-fine n-best parsing and MaxEnt discriminative reranking.
+* The CoNLL-2010 shared task: learning to detect hedges and their scope in natural language text.
+* WordNet: An electronic lexical database. 1998.
+* Accurate unlexicalized parsing.
+* Automatic retrieval and clustering of similar words.
+* Building a large annotated corpus of English: The Penn Treebank.
+* The proposition bank: An annotated corpus of semantic roles.
+* BLEU: a method for automatic evaluation of machine translation.
+* Improved Inference for Unlexicalized Parsing.
 
 
 ## Learning Roadmap
 
+
 ## [CS25 - Transformers United](https://youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
+
 
 ## Top Resources and Tools
 
+
 ## https://dagshub.com/ - look at, read docs
+
 
 ## Education and Fundamentals
 
+
 ## https://deepai.org/definitions
+
 
 ## https://github.com/neomatrix369/awesome-ai-ml-dl
 
 
 ## Papers and Current Research
 
+
 ## https://deepai.org/research
+
 
 ## Organizations, Institutions, Businesses
 * https://lets-unify.ai/docs/ivy/overview/contributing.html 
+
 → [Ivy](https://discord.com/channels/799879767196958751/983684937712558080/990382801721368576)
 * https://explosion.ai/
 * https://rasa.com/
@@ -5974,6 +6047,7 @@ Improved Inference for Unlexicalized Parsing.
 * https://www.user.tu-berlin.de/mtoussai/teaching/
 * https://www.reddit.com/r/datascience/wiki/resources
 
+
 ## ***Deep Learning Drizzle
 * https://hadrienj.github.io/
 * [hadrienj](https://hadrienj.github.io/tags/#deep-learning-book)
@@ -5986,6 +6060,7 @@ Improved Inference for Unlexicalized Parsing.
 * [FastAI Course](https://course.fast.ai/)
 * [machinelearning.ru Заглавная страница](http://www.machinelearning.ru/wiki/index.php?title=%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0)
 * [Raschka Lecture Notes](https://sebastianraschka.com/pdf/lecture-notes/stat479ss19/)
+
 
 ## ****Deep learning на пальцах!
 * https://github.com/mnielsen/neural-networks-and-deep-learning
@@ -6011,31 +6086,36 @@ Improved Inference for Unlexicalized Parsing.
 * https://www.machinelearningplus.com/blog/
 * [https://www.algorithm-archive.org/contents](https://www.algorithm-archive.org/contents/affine_transformations/affine_transformations.html)
 
+
 ## Courses
 * [Julia ML Course](https://bio322.epfl.ch/)
 * [Fall 2015 Machine Learning](https://www.youtube.com/playlist?list=PLUenpfvlyoa0rMoE5nXA8kdctBKE9eSob)
 * [Statistical Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e)
 
+
 ## Publications
-JMLR
+* JMLR
+
 
 ## Docs
+
 
 ## Publications
 * https://www.jmlr.org/
 * https://arxiv.org/list/cs.NE/recent
 
+
 ## Docs
-TensorFlow Docs
-PyTorch Docs
-MXNet Docs
-Flux Docs
-Keras Docs
-Deeplearning4j Docs
-Encog
-Knet
-TensorFlow.js
-Brain.js
+* TensorFlow Docs
+* PyTorch Docs
+* MXNet Docs
+* Flux Docs
+* Keras Docs
+* Deeplearning4j Docs
+* Encog
+* Knet
+* TensorFlow.js
+* Brain.js
 * [Hasktorch](https://github.com/hasktorch/hasktorch)
 * [TensorSafe](https://www.sciencedirect.com/science/article/abs/pii/S2590118421000538)
 * [^](https://hackage.haskell.org/package/tensor-safe)
@@ -6047,11 +6127,11 @@ Brain.js
 * [Deeplearning4j Quickstart | Deeplearning4j](https://deeplearning4j.org/docs/latest/deeplearning4j-quickstart)
 * [The Microsoft Cognitive Toolkit - Cognitive Toolkit - CNTK | Microsoft Docs](https://docs.microsoft.com/en-us/cognitive-toolkit/)
 * [Docs | Apache MXNet](https://mxnet.apache.org/api)
-machinelearn.js
-Scikit Learn
-JavaML
-CARET
-mlpack
+* machinelearn.js
+* Scikit Learn
+* JavaML
+* CARET
+* mlpack
 * https://camel.readthedocs.io/en/latest/yamlref.html
 * https://hitchdev.com/strictyaml/
 * [TensorFlow docs](https://www.tensorflow.org/api_docs/)
@@ -6069,8 +6149,10 @@ mlpack
 * https://github.com/DefTruth/lite.ai.toolkit
 * https://github.com/daquexian/onnx-simplifier
 
+
 ## Repos
 * https://github.com/emmettgb/Emmetts-DS-NoteBooks
+
 
 ## Media / Blogs / People
 * https://thegradientpub.substack.com/
@@ -6078,6 +6160,7 @@ mlpack
 * https://github.com/readme 
 * https://devopedia.org/
 * https://neurohive.io/ru/
+
 
 ## ****Research Debt
 * https://neptune.ai/blog
@@ -6113,6 +6196,7 @@ mlpack
 * [https://dataaspirant.com](https://dataaspirant.com/)
 * https://research.google/teams/brain/pair/
 
+
 ## *Blogs - DataFlair
 * [Analytics - inovex Blog](https://www.inovex.de/blog/category/analytics/)
 * [Atomic Spin](https://spin.atomicobject.com/)
@@ -6122,6 +6206,7 @@ mlpack
 * [Machine Learning & Simulation](https://www.youtube.com/channel/UCh0P7KwJhuQ4vrzc3IRuw4Q)
 * https://www.youtube.com/c/SebastianRaschka/playlists
 * https://www.jeremyjordan.me/
+
 
 ## Podcasts
 * https://thegradientpub.substack.com/s/podcast
@@ -6223,6 +6308,7 @@ mlpack
 * [dotNETpodcast](https://www.listennotes.com/podcasts/dotnetpodcast-dotnetpodcast-0l2L4mZRFiE/)
 * [Information Technology Drink](https://www.listennotes.com/podcasts/information-technology-drink-radio-it-JVvW68TqlSg/)
 
+
 ## YouTube
 * [PapersWeLove](https://www.youtube.com/@PapersWeLove) 
 * https://www.youtube.com/@MachineLearningStreetTalk 
@@ -6234,18 +6320,20 @@ mlpack
 * [Data School](https://www.youtube.com/user/dataschool/featured)
 * [Machine Learning TV](https://www.youtube.com/channel/UChIaUcs3tho6XhyU6K6KMrw/featured)
 * [Giant Neural Network](https://www.youtube.com/user/LogicGodTV/featured)
-* [Авторы канала стремятся сделать машинное обучение и обучение с подкреплением более понятными для всех. Здесь уже есть](https://www.youtube.com/watch?v=ZzWaow1Rvho&list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So)
-в нейросети «для чайников», а сейчас в работе серия роликов, рассчитанных на средний уровень.
+* [Авторы канала стремятся сделать машинное обучение и обучение с подкреплением более понятными для всех. Здесь уже есть](https://www.youtube.com/watch?v=ZzWaow1Rvho&list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So) в нейросети «для чайников», а сейчас в работе серия роликов, рассчитанных на средний уровень.
+* https://www.youtube.com/@giantneuralnetwork
 * [Andreas Kretz](https://www.youtube.com/channel/UCY8mzqqGwl5_bTpBY9qLMAA/videos)
 * [Deep Learning TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ/featured)
 * [WelcomeAIOverlords](https://www.youtube.com/channel/UCxw9_WYmLqlj5PyXu2AWU_g)
 
+
 ## Paper Reading / Learning Communities
 * [dair.ai Slack channel](https://app.slack.com/client/T010QQBEFM1/C011278EVFX)
-arXiv Insights
+* arXiv Insights
 * https://42papers.com/
 * https://github.com/the-deep-learners/study-group
 * [DeepReader](https://www.youtube.com/channel/UC5_1Nis0kMJns-B9wJGbkXw)
+
 
 ## Data Sources
 * [awesomedata/awesome-public-datasets: A topic-centric list of HQ open datasets.](https://github.com/awesomedata/awesome-public-datasets)
@@ -6253,28 +6341,33 @@ arXiv Insights
 * [Find Open Datasets and Machine Learning Projects | Kaggle](https://www.kaggle.com/datasets)
 * [UCI Machine Learning Repository: Data Sets](https://archive.ics.uci.edu/ml/datasets.php)
 
+
 ## Tools
 * https://github.com/fugue-project/tune
 * https://github.com/facebookresearch/faiss
 * https://github.com/deepmind/bsuite
 
+
 ## Annotation
 * https://github.com/diffgram/diffgram
+
 
 ## Notes
 * how can I get involved with data science for climate change and geoengineering?
 
+
 ## 10 PyTorch Mistakes
-Didn't overfit batch
-Forgot toggle train/eval
-Forgot .zero_grad()
-Softmax when using CrossEntropy
-Bias term with BatchNorm
-Using view as permute
-Incorrect Data Augmentation
-Not Shuffling Data
-Not Normalizing Data
-Not Clipping Gradients
+* Didn't overfit batch
+* Forgot toggle train/eval
+* Forgot .zero_grad()
+* Softmax when using CrossEntropy
+* Bias term with BatchNorm
+* Using view as permute
+* Incorrect Data Augmentation
+* Not Shuffling Data
+* Not Normalizing Data
+* Not Clipping Gradients
+
 
 ## General Notes
 * [Stanford NLP](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
@@ -6293,53 +6386,55 @@ Not Clipping Gradients
 * http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial
 * http://ufldl.stanford.edu/wiki/index.php/UFLDL_Recommended_Readings
 
+
 ## RL
      * [Overview of Deep Reinforcement Learning Methods](https://youtu.be/wDVteayWWvU)
 * [Recent Advances in Deep Reinforcement Learning Applications for Solving Partially Observable Markov Decision Processes (POMDP) Problems: Part 1—Fundamentals and Applications in Games, Robotics and Natural Language Processing](https://www.mdpi.com/2504-4990/3/3/29/pdf)* https://github.com/yandexdataschool/Practical_RL* https://stats.stackexchange.com/questions/326867/parameterizing-reinforcement-learning-card-game-state-space
-General - Theory
+* General - Theory
 * [Reinforcement Learning](https://www.youtube.com/watch?v=nyjbcRQ-uQ8&list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)
 * [Основы робототехники](https://www.lektorium.tv/robotics)
 * [DeepMind - YouTube](https://www.youtube.com/c/DeepMind/playlists)
 * https://spinningup.openai.com/en/latest/spinningup/keypapers.html
-Writing
-Github site: Informal Intro to RL Algorithms
-Implementations / Software
+* Writing
+* Github site: Informal Intro to RL Algorithms
+* Implementations / Software
 * [michaelguan1992/spinningup-in-deeprl-tensorflow2: Re-implementing OpenAI Spinning Up in DeepRL with Tensorflow 2.0](https://github.com/michaelguan1992/spinningup-in-deeprl-tensorflow2)
 * [enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning: Advanced Deep Learning and Reinforcement Learning course taught at UCL in partnership with Deepmind](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning)
 * [deepmind/acme: A library of reinforcement learning components and agents](https://github.com/deepmind/acme)
 * https://github.com/omkarv/pong-from-pixels
-General - Programming, Implementations, Software
+* General - Programming, Implementations, Software
 * https://github.com/dennybritz/reinforcement-learning
 * http://www.wildml.com/2016/10/learning-reinforcement-learning/
-OpenAI Gym
+* OpenAI Gym
 * [michaelguan1992/spinningup-in-deeprl-tensorflow2: Re-implementing OpenAI Spinning Up in DeepRL with Tensorflow 2.0](https://github.com/michaelguan1992/spinningup-in-deeprl-tensorflow2)
 * [DeepMind - YouTube](https://www.youtube.com/c/DeepMind/playlists)
 * [enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning: Advanced Deep Learning and Reinforcement Learning course taught at UCL in partnership with Deepmind](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning)
 * [deepmind/acme: A library of reinforcement learning components and agents](https://github.com/deepmind/acme)
 * https://spinningup.openai.com/en/latest/
 
+
 ## >
-RL for Games (non-digital)
+* RL for Games (non-digital)
 * http://karpathy.github.io/2016/05/31/rl/
-Application
+* Application
 * https://www.google.com/search?q=how+to+represent+games+for+reinforcement+learning&rlz=1C5CHFA_enUS800US800&oq=how+to+represent+games+for+reinforcement+learning&aqs=chrome..69i57.235j0j9&sourceid=chrome&ie=UTF-8
-Books
+* Books
 * [Grokking Deep Reinforcement Learning](http://libgen.is/book/index.php?md5=F83946E7A76E64E0C309CB9A2086551E)
 * https://github.com/asdfjkl/neural_network_chess
 * [Game Changer: AlphaZero’s Groundbreaking Chess Strategies and the Promise of AI](http://library.lol/main/D2F826291F761B9F46D9ACEACD4ED6FB)
-RL Miscellaneous
+* RL Miscellaneous
 * [Rook (card game) - Wikipedia](https://en.wikipedia.org/wiki/Rook_(card_game))
-Deep RL Overview arXiv
-Game Adaptation by Using Reinforcement Learning Over Meta Games | SpringerLink
-RL — DQN Deep Q-network. Can computers play video games like a… | by Jonathan Hui | Medium
-python - A good way to make classes for more complex playing card types than those found in a standard deck? - Stack Overflow
-Behavior Acquisition in Artificial Agents
-Matt's Webcorner - Provincial: An AI for Dominion
-Reinforcement Learning in R: free download. Ebooks library. On-line books store on Z-Library
-Reinforcement Learning in Julia - Поиск в Google
-Reinforcement Learning in R - Поиск в Google
-rllib
-On Experiences in a Complex and Competitive Gaming Domain: Reinforcement Learning Meets RoboCup
+* Deep RL Overview arXiv
+* Game Adaptation by Using Reinforcement Learning Over Meta Games | SpringerLink
+* RL — DQN Deep Q-network. Can computers play video games like a… | by Jonathan Hui | Medium
+* python - A good way to make classes for more complex playing card types than those found in a standard deck? - Stack Overflow
+* Behavior Acquisition in Artificial Agents
+* Matt's Webcorner - Provincial: An AI for Dominion
+* Reinforcement Learning in R: free download. Ebooks library. On-line books store on Z-Library
+* Reinforcement Learning in Julia - Поиск в Google
+* Reinforcement Learning in R - Поиск в Google
+* rllib
+* On Experiences in a Complex and Competitive Gaming Domain: Reinforcement Learning Meets RoboCup
 * [RL-Glue - RL-Glue Core Project](https://sites.google.com/a/rl-community.org/rl-glue/Home/rl-glue)
 * [Reinforcement Learning / Successes of Reinforcement Learning](http://umichrl.pbworks.com/w/page/7597597/Successes%20of%20Reinforcement%20Learning)
 * [On-line publications of Csaba Szepesvari](http://old.sztaki.hu/~szcsaba/research/onlinepubs.htm)
@@ -6358,7 +6453,9 @@ On Experiences in a Complex and Competitive Gaming Domain: Reinforcement Learnin
 * [humans-to-robots-motion/rl-course: Reinforcement Learning course at the University of Stuttgart](https://github.com/humans-to-robots-motion/rl-course)
 * [StoyanVenDimitrov/rl-course: Reinforcement Learning course at the University of Stuttgart](https://github.com/StoyanVenDimitrov/rl-course)
 
+
 ## *Reinforcement learning: Temporal-Difference, SARSA, Q-Learning & Expected SARSA in python
+
 
 ## *Reinforcement Learning curse - URL Course Master IA - UPC
 * [Reinforcement Learning (SS 20) | Machine Learning & Robotics Lab](https://ipvs.informatik.uni-stuttgart.de/mlr/%20reinforcement-learning-ss-20/)
@@ -6372,21 +6469,26 @@ On Experiences in a Complex and Competitive Gaming Domain: Reinforcement Learnin
 * [gym/environments.md at master · openai/gym](https://github.com/openai/gym/blob/master/docs/environments.md#third-party-environments)
 * [Reinforcement-Learning/ex07-qlearning_lambda.py at master · lucasrm25/Reinforcement-Learning](https://github.com/lucasrm25/Reinforcement-Learning/blob/master/ex07-fa/ex07-qlearning_lambda.py)
 
+
 ## *rl-course/ex07-fa at master · Stunkymonkey/rl-course
 * [rl-course/ex08-pg at master · Stunkymonkey/rl-course](https://github.com/Stunkymonkey/rl-course/tree/master/ex08-pg)
 * [openai gym: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/openai%20gym)
 * [Reinforcement Learning (SS 18) | Machine Learning & Robotics Lab](https://ipvs.informatik.uni-stuttgart.de/mlr/teaching/reinforcement-learning-ss-18/)
 * [rl-course/ex09-hier at master · Stunkymonkey/rl-course](https://github.com/Stunkymonkey/rl-course/tree/master/ex09-hier)
 
+
 ## ***RL Code
 
+
 ## * Yash Bonde | Musings
+
 
 ## *Lecture notes on Reinforcement Learning – AIssays – Essays etc. on AI, academia, and all the world and his wife; by Thilo Stadelmann.
 * [Reinforcement learning notes](https://www.cs.jhu.edu/~paxia/notes/rl_notes.html)
 * [CME 241: Reinforcement Learning for Stochastic Control Problems in Finance](http://web.stanford.edu/class/cme241/)
 * [Operator (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Operator_(mathematics))
 * [Reinforcement Learning - Casey Chu](http://caseychu.io/notes/reinforcement-learning/)
+
 
 ## ***CS234: Reinforcement Learning | Winter 2019 - YouTube
 * [Reinforcement Learning (SS20) - Lecture 11 - Recap - YouTube](https://www.youtube.com/watch?v=kW6YvwDtXrk)
@@ -6412,12 +6514,13 @@ On Experiences in a Complex and Competitive Gaming Domain: Reinforcement Learnin
 * [rlcard](https://deepai.org/publication/rlcard-a-toolkit-for-reinforcement-learning-in-card-games)
 * [Hanabi RL](https://www.google.com/search?q=reinforcement+learning+hanabi&rlz=1CDGOYI_enUS835US835&oq=reinforcement+learning+hanabi&aqs=chrome..69i57j0.7997j0j7&hl=it&sourceid=chrome-mobile&ie=UTF-8)
 * [Wingspan Game](https://boardgamegeek.com/boardgame/266192/wingspan)
-RL game list stratego battleship carcassonne traffic jam ticket to ride apples to apples taboo settlers dominion cards against humanity chinese checkers whist blackjack poker scum solitaire connect 4 canasta backgammon bridge go checkers risk exploding kittens stratego battleship carcassonne traffic jam ticket to ride apples to apples taboo settlers dominion cards against humanity chinese checkers whist blackjack poker scum solitaire connect 4 canasta backgammon bridge go checkers risk exploding kittens
+* RL game list stratego battleship carcassonne traffic jam ticket to ride apples to apples taboo settlers dominion cards against humanity chinese checkers whist blackjack poker scum solitaire connect 4 canasta backgammon bridge go checkers risk exploding kittens stratego battleship carcassonne traffic jam ticket to ride apples to apples taboo settlers dominion cards against humanity chinese checkers whist blackjack poker scum solitaire connect 4 canasta backgammon bridge go checkers risk exploding kittens
 * [Sushi Go RL](https://www.google.com/search?q=sushi+go+reinforcement+learning&rlz=1CDGOYI_enUS835US835&oq=sushi+go+reinforcement+learning&aqs=chrome..69i57.6664j0j4&hl=it&sourceid=chrome-mobile&ie=UTF-8)
 * [PWC board games](https://paperswithcode.com/task/board-games)
 * [RL Codenames](https://www.google.com/search?q=reinforcement+learning+game+code+names&rlz=1CDGOYI_enUS835US835&oq=reinforcement+learning+game+code+names&aqs=chrome..69i57.8943j0j7&hl=it&sourceid=chrome-mobile&ie=UTF-8)
 * [Codenames NLP](https://www.aaai.org/ojs/index.php/AIIDE/article/download/5239/5095/)
 * [Codenames AI](https://boardgamegeek.com/thread/1699867/codenames-ai)
+
 
 ## ** Codenames GH
 * [Wizard RL](https://www.google.com/search?q=wizard+card+game+reinforcement+learning&rlz=1CDGOYI_enUS835US835&oq=wizard+card+game+reinforcement+learning&aqs=chrome..69i57.8151j0j4&hl=it&sourceid=chrome-mobile&ie=UTF-8)
@@ -6431,6 +6534,7 @@ RL game list stratego battleship carcassonne traffic jam ticket to ride apples t
 * [Reinforcement Learning Tutorials](https://www.youtube.com/playlist?list=PLWzQK00nc192L7UMJyTmLXaHa3KcO0wBT)
 * [Reinforcement Learning Tutorials](https://www.youtube.com/playlist?list=PLWzQK00nc192L7UMJyTmLXaHa3KcO0wBT)
 * [Панов А.И. "Машинное обучение с подкреплением"](https://www.youtube.com/playlist?list=PLthfp5exSWEpvTiIPJP56JkHWZlqIbkBJ)
+
 
 ## ** Bellman Operator
 * [Агентные системы и обучение с подкреплением](https://www.youtube.com/playlist?list=PLJyTG7NfyQ8lAH1QF2Frwq6aQdxyyIqAx)
@@ -6449,7 +6553,7 @@ RL game list stratego battleship carcassonne traffic jam ticket to ride apples t
 * [DeepMind - YouTube](https://www.youtube.com/c/DeepMind/playlists)
 * [An Introduction to Constraint-based Temporal Reasoning](http://library.lol/main/02CA0D39720DFF53055B0F77D048CAFA)
 * [An Introduction to the Planning Domain Definition Language](http://libgen.rs/book/index.php?md5=59658BB232C37143FB7A684F5522BEB9)
-Deep Learning and the Game
+* Deep Learning and the Game
 * [Planning with Markov Decision Processes. An AI Perspective](http://library.lol/main/55C0E586A58C77B718BF8B7549D4E516)
 * [Robotics_Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo_2009](http://link.springer.com/openurl?genre=book&isbn=978-1-84628-642-1)
 * [Robotics_Jadran Lenarčič, Aleš Stanovnik, Marko Munih, Jure Rejc, Sebastjan_2nd ed. 2019](http://link.springer.com/openurl?genre=book&isbn=978-3-319-72911-4)
@@ -6477,28 +6581,30 @@ Deep Learning and the Game
 * [Asynchronous Methods for Deep Reinforcement Learning](http://proceedings.mlr.press/v48/mniha16.pdf)
 * [RL — Deep Reinforcement Learning Series – mc.ai](https://mc.ai/rl-deep-reinforcement-learning-series/)
 * [michaelguan1992/spinningup-in-deeprl-tensorflow2: Re-implementing OpenAI Spinning Up in DeepRL with Tensorflow 2.0](https://github.com/michaelguan1992/spinningup-in-deeprl-tensorflow2)
-Can RL algorithms be replaced with transformer-based language models?
+* Can RL algorithms be replaced with transformer-based language models?
 * [Paper] DeepMind researchers say reinforcement learning is the key to cracking general AI (with video) - Pye AI
      * [A Gentle Introduction to Reinforcement Learning | Codementor](https://www.codementor.io/@satwikkansal/a-gentle-introduction-to-reinforcement-learning-1jnb4du0jt)
-A graph placement methodology for fast chip design
-Chip Placement with Deep Reinforcement Learning
-Chip Placement with Deep Reinforcement Learning
+* Agraph placement methodology for fast chip design
+* Chip Placement with Deep Reinforcement Learning
+* Chip Placement with Deep Reinforcement Learning
      * [Chip Placement with Deep Reinforcement Learning (Paper Explained) - YouTube](https://www.youtube.com/watch?v=PDRtyrVskMU)
-Decentralized Multi-Agent Reinforcement Learning and Game Theory - Pye AI
-Deep Reinforcement Learning: Fundamentals, Research and Applications
-DeepMind says reinforcement learning is ‘enough’ to reach general AI
+* Decentralized Multi-Agent Reinforcement Learning and Game Theory - Pye AI
+* Deep Reinforcement Learning: Fundamentals, Research and Applications
+* DeepMind says reinforcement learning is ‘enough’ to reach general AI
      * [DeepQLearning.jl](http://deepqlearning.jl/)
 * [Hands-On Game AI with Python: Implement self-learning AI agents in games using reinforcement learning algorithms and techniques 9781839216770](http://libgen.rs/book/index.php?md5=0FBDA7EFFFCDD3E7BAF00F61988A1CC0)
 * [Intro to DRL](https://www.youtube.com/watch?v=93M1l_nrhpQ)
 * [Pricing](https://www.gitpod.io/pricing)
-Reinforcement Learning - YouTube
-Reward is enough
-rl to determine optimal price
-RUDDER: Return Decomposition for Delayed Rewards
-Steuerung eines autonomen Fahrzeugs durch Deep Reinforcement Learning
-Auditory Deep Q Networks
+* Reinforcement Learning - YouTube
+* Reward is enough
+* rl to determine optimal price
+* RUDDER: Return Decomposition for Delayed Rewards
+* Steuerung eines autonomen Fahrzeugs durch Deep Reinforcement Learning
+* Auditory Deep Q Networks
+
 
 ## Learn OpenCV
+
 
 | https://github.com/spmallick/learnopencv |  |
 | --- | --- |
@@ -6746,15 +6852,17 @@ Auditory Deep Q Networks
 | http://www.learnopencv.com/install-opencv-3-on-yosemite-osx-10-10-x/ |  |
 | https://learnopencv.com/create-snapchat-instagram-filters-using-mediapipe/ | https://github.com/spmallick/learnopencv/tree/master/Create-AR-filters-using-Mediapipe |
 
+
 ## MLOps
 * https://neptune.ai/blog/automated-testing-machine-learning
-Applied Natural Language Processing in the Enterprise
-Machine Learning Engineering with MLFlow
-Engineering MLOps
-Machine Learning Engineering in Action
-Building Machine Learning Pipelines
-Machine Learning Design Patterns
-Machine Learning Engineering
+* Applied Natural Language Processing in the Enterprise
+* Machine Learning Engineering with MLFlow
+* Engineering MLOps
+* Machine Learning Engineering in Action
+* Building Machine Learning Pipelines
+* Machine Learning Design Patterns
+* Machine Learning Engineering
+
 
 ## GPT & Co.
 * [GPT-3 einfach ERKLÄRT - DAS steckt HINTER der beliebten KI](https://youtu.be/j2mXlzOZ4V4)
@@ -6764,6 +6872,7 @@ Machine Learning Engineering
 * https://t3n.de/news/meta-sprachmodell-ki-opt-gpt-1470147/amp/
 * [AI Showdown: ChatGPT vs. OPT vs. BLOOM - Which Language Model Reigns Supreme?](https://youtu.be/wi0M2J4uE5I)
 * [OpenAssistant - ChatGPT's Open Alternative (We need your help!)](https://youtu.be/64Izfm24FKA)
+
 
 ## CV
 * https://learnopencv.com/video-to-slides-converter-using-background-subtraction/ 
@@ -6776,12 +6885,14 @@ Machine Learning Engineering
 * [State of the art in Image Classification in 2022](https://youtu.be/Z8Napj0fza0)
 * https://learnopencv.com/image-generation-using-diffusion-models/
 
+
 ## NLP
 * https://linqs.org/datasets/
 * https://radimrehurek.com/gensim/auto_examples/tutorials/run_wmd.html
 * [Reddit - My Natural Language Processing Lemma collecting Workflow with Python and Spacy - DIT](https://www.reddit.com/r/languagelearning/comments/107iabz/my_natural_language_processing_lemma_collecting/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=10&utm_content=share_button)
-Deep Natural Language Processing: Einstieg in Word Embedding, Sequence-to-Sequence-Modelle und Transformer mit Python
+* Deep Natural Language Processing: Einstieg in Word Embedding, Sequence-to-Sequence-Modelle und Transformer mit Python
 * https://colab.research.google.com/github/tg-bomze/collection-of-notebooks/blob/master/Natural_Language_YouTube_Searcher.ipynb
+
 
 ## Sort
      * [Armandov/diffusion-ui](https://github.com/Armandov/diffusion-ui)
@@ -6862,33 +6973,33 @@ Deep Natural Language Processing: Einstieg in Word Embedding, Sequence-to-Sequen
 * http://www.scholarpedia.org/article/Echo_state_network
 * [explosion/spacy-course](https://github.com/explosion/spacy-course)
 * https://thinc.ai/
-Flair NLP
-Netron
-Apple CoreML (CreateML)
+* Flair NLP
+* Netron
+* Apple CoreML (CreateML)
 * https://learnopencv.com/controlnet/
 * https://finbarr.ca/five-years-of-gpt-progress/
 * https://gamma.app/
 * https://github.com/Torantulino/Auto-GPT
-Life 3.0: Being Human in the Age of Artificial Intelligence
+* Life 3.0: Being Human in the Age of Artificial Intelligence
 * https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming.html
 * https://github.com/e2b-dev/e2b
 * https://github.com/nomic-ai/gpt4all
 * human Compatible: Artificial Intelligence and the Problem of Control
 * [Eliezer Yudkowsky: Dangers of AI and the End of Human Civilization | Lex Fridman Podcast #368](https://www.youtube.com/watch?v=AaTRHFaaPG8)
 * https://annas-blog.org/how-to-run-a-shadow-library.html
-spotify search: ai for code generation
+* spotify search: ai for code generation
 * [CNNs have also been extensively used in other tasks. For example, Denil et al. (2014)](https://arxiv.org/abs/1406.3830) applied DCNN to map meanings of words that constitute a sentence to that of documents for summarization. The DCNN learned convolution filters at both the sentence and document level, hierarchically learning to capture and compose low-level lexical features into high-level semantic concepts. The focal point of this work was the introduction of a novel visualization technique of the learned representations, which provided insights not only in the learning process but also for automatic summarization of texts.
 * [jackblandin/research: A collection of machine learning and reinforcement learning algorithms for my PhD research or personal education.](https://github.com/jackblandin/research)
 * [Reddit - I'm rusty ; any books on ML advancements from the past 5 years?](https://www.reddit.com/r/learnmachinelearning/comments/102yenp/im_rusty_any_books_on_ml_advancements_from_the/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=10&utm_content=share_button)
 * [Reddit - [D] Looking for some critiques on recent development of machine learning](https://www.reddit.com/r/MachineLearning/comments/y11a7r/d_looking_for_some_critiques_on_recent/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=10&utm_content=share_button)
 * [Reddit - What do you think of Andrew Ng's new Machine Learning Specialization that launched last week on Coursera?](https://www.reddit.com/r/learnmachinelearning/comments/vi6ub0/what_do_you_think_of_andrew_ngs_new_machine/?utm_medium=android_app&utm_source=share)
-conduct comprehensive literature review, esp of noteworthy and trustworthy sources, on AI and ChatGPT & co., "future-proofness", and how to prepare and adapt
+* conduct comprehensive literature review, esp of noteworthy and trustworthy sources, on AI and ChatGPT & co., "future-proofness", and how to prepare and adapt
 * [The weirdest paradox in statistics (and machine learning)](https://youtu.be/cUqoHQDinCM)
 * [Python Machine Learning Blueprints](http://libgen.rs/book/index.php?md5=70C199FE07006A66F68A708088823B9F)
 * [Blueprints for Text Analytics Using Python: Machine Learning-Based Solutions for Common Real World (NLP) Applications](http://libgen.rs/book/index.php?md5=2A74631BB6F3184C0F288FB668D3A3CA)
 * [Attention - the beating heart of ChatGPT: Transformers & NLP 4](https://youtu.be/sznZ78HquPc)
 * [The Mathematics of Machine Learning](https://www.youtube.com/watch?v=Rt6beTKDtqY)
-Machine Learning for Sustainable Development
+* Machine Learning for Sustainable Development
 * [shenxiangzhuang/toyml: ToyML: Machine Learning from Scratch](https://github.com/shenxiangzhuang/toyml)
 * [5 machine learning mistakes and how to avoid them | SAS](https://www.sas.com/en_us/insights/articles/big-data/5-machine-learning-mistakes.html)
 * [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/pdf/2211.05100.pdf)
@@ -6901,14 +7012,14 @@ Machine Learning for Sustainable Development
 * [Understanding ChatGPT as explained by ChatGPT — Advancing Analytics](https://www.advancinganalytics.co.uk/blog/2023/1/18/language-models-what-is-chatgpt)
 * [[2005.14165] Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
 * [Failed to initialize NVML: Driver/library version mismatch - Graphics / Linux / Linux - NVIDIA Developer Forums](https://forums.developer.nvidia.com/t/failed-to-initialize-nvml-driver-library-version-mismatch/190421/8)
-c-rnn-gan
-CycleGAN-VC2
-GAN-for-speech-spectrogram
-Lyrics-Conditioned-Neural-Melody-Generation
-MaskCycleGAN-VC
-MelGAN-VC
-melody-generation-from-lyrics
-Music-generation-cRNN-GAN
+* c-rnn-gan
+* CycleGAN-VC2
+* GAN-for-speech-spectrogram
+* Lyrics-Conditioned-Neural-Melody-Generation
+* MaskCycleGAN-VC
+* MelGAN-VC
+* melody-generation-from-lyrics
+* Music-generation-cRNN-GAN
 * [Top 9 Open-Source GPT-3 Alternative Solutions| Altamira](https://www.altamira.ai/blog/open-source-gpt-alternative-solutions/)
 * [NVIDIA Releases Open-Source GPU Kernel Modules | NVIDIA Technical Blog](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/)
 * [Stan - Stan](https://mc-stan.org/)
@@ -6920,10 +7031,11 @@ Music-generation-cRNN-GAN
 * https://ai.googleblog.com/2020/06/pegasus-state-of-art-model-for.html?m=1
 * http://ai.googleblog.com/2022/07/mlgo-machine-learning-framework-for.html
 
+
 ## ** Brain Criticality
 * https://github.com/UKPLab/EasyNMT
 * https://github.com/eugeneyan/applied-ml
-Машинное обучение без лишних слов.pdf
+* Машинное обучение без лишних слов.pdf
 * [PyTorch in 100 Seconds - YouTube](https://www.youtube.com/watch?v=ORMx45xqWkA)
 * [ML Podcast](https://open.spotify.com/show/5M9yZpSyF1jc7uFp2MlhP9?si=ssdftyisSbqjZwj_2ozCBQ&utm_source=native-share-menu)
 * [Teaching Neural Network to Solve Navier-Stokes Equations - YouTube](https://www.youtube.com/watch?v=ISp-hq6AH3Q)
@@ -6973,9 +7085,9 @@ Music-generation-cRNN-GAN
 * https://towardsai.net/
 * https://book.sciml.ai/course/
 * https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html
-get other lectures; add all to Roadmaps: http://www.ra.cs.uni-tuebingen.de/lehre/ss12/advanced_ml/lecture6.pdf
+* get other lectures; add all to Roadmaps: http://www.ra.cs.uni-tuebingen.de/lehre/ss12/advanced_ml/lecture6.pdf
 * [Convolution in one dimension for neural networks](https://e2eml.school/convolution_one_d.html)
-The Semantic Web (Berners-Lee, 2001)
+* The Semantic Web (Berners-Lee, 2001)
 * [How AI Image Generators Work (Stable Diffusion / Dall-E) - Computerphile - YouTube](https://www.youtube.com/watch?v=1CIpzeNxIhU)
 * [stan-dev/cmdstan: CmdStan, the command line interface to Stan](https://github.com/stan-dev/cmdstan)
 * [2023 ML Paper List](https://mltechniques.com/resources/?src=AdRedditv2)
@@ -6998,6 +7110,7 @@ The Semantic Web (Berners-Lee, 2001)
 * [GNES is Generic Neural Elastic Search](https://gnes.ai/)
 * [Table of Contents](https://e2eml.school/blog.html#312)
 
+
 ## **Table of Contents
 * [Deep Learning with PyTorch — Deep Learning with PyTorch](https://www.tomasbeuzen.com/deep-learning-with-pytorch/README.html)
 * [Chapter 5: Introduction to Convolutional Neural Networks — Deep Learning with PyTorch](https://www.tomasbeuzen.com/deep-learning-with-pytorch/chapters/chapter5_cnns-pt1.html)
@@ -7007,7 +7120,7 @@ The Semantic Web (Berners-Lee, 2001)
 * [PyTorch - Convolution under the hood (Unfolding/Folding) - YouTube](https://www.youtube.com/watch?v=zVDDITt4XEA)
 * [Pytorch CNN example (Convolutional Neural Network) - YouTube](https://www.youtube.com/watch?v=wnK3uWv_WkU)
 * [First Principles of Computer Vision](https://youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw)
-ml ops post
+* ml ops post
 * [In Depth Explanation | Convolutional Neural Networks | From Scratch](https://youtu.be/jDe5BAsT2-Y)
 * [Top 10 Best Open Source Speech Recognition Tools for Linux](https://www.ubuntupit.com/best-open-source-speech-recognition-tools-for-linux/)
 * [Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)](https://youtu.be/w8yWXqWQYmU)
@@ -7016,7 +7129,7 @@ ml ops post
 * https://pyimagesearch.com/2023/03/27/whats-new-in-pytorch-2-0-torch-compile/
 * https://www.heise.de/hintergrund/Warum-die-KI-Weltordnung-Diskriminierung-reproduziert-7219317.html
 * [I Created a Neural Network and Tried Teaching it to Recognize Doodles](https://youtu.be/hfMk-kjRv4c)
-BLOOM
+* BLOOM
 * [Convolutions are not Convoluted](https://youtu.be/aEGboJxmq-w)
 * [Warum KI-Bildgeneratoren nicht alle Kreativen arbeitslos machen werden](https://www.heise.de/meinung/Warum-KI-Bildgeneratoren-nicht-alle-Kreativen-arbeitslos-machen-werden-7255143.html)
 * https://www.confetti.ai/
@@ -7034,6 +7147,7 @@ BLOOM
 * [The seedy side of matchmaking algorithms](https://analyticsindiamag.com/the-seedy-side-of-matchmaking-algorithms/)
 * [Google's MusicLM: Text Generated Music & It's Absurdly Good](https://youtu.be/2CUKU2iAzAs)
 
+
 ## RL to sort
 * [seungeunrho/minimalRL: Implementations of basic RL algorithms with minimal lines of codes! (pytorch based)](https://github.com/seungeunrho/minimalRL)
 * [toshikwa/simple-rl.pytorch: Simple implementation of model-free RL algorithms written in PyTorch.](https://github.com/toshikwa/simple-rl.pytorch)
@@ -7044,9 +7158,11 @@ BLOOM
 * [Search · Board Game RL](https://github.com/search?q=Board+Game+RL&type=all)
 * [Model Based RL Finally Works! - YouTube](https://www.youtube.com/watch?v=vfpZu0R1s1Y)
 
+
 ## SP
 * [Map of landscape](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F431544009%2F132009722546%2F1%2Foriginal.20230124-225358?h=2000&w=720&auto=format%2Ccompress&q=75&sharp=10&s=47237a685ce0ef6316e6e71f1c0817a7)
 * https://github.com/wenet-e2e/wenet
+
 
 ## LLM
 * [GPT-3: Building Innovative NLP Products Using Large Language Models » FoxGreat](https://foxgreat.com/gpt-3-building-innovative-nlp-products-using-large-language-models/)
@@ -7054,13 +7170,14 @@ BLOOM
 * https://nlpnewsletter.substack.com/p/tool-augmented-llms
 * https://huyenchip.com/2023/08/16/llm-research-open-challenges.html 
 
+
 ## AI, LLMs
      * [Retrieval Augmented Generation with OpenAI/GPT and Chroma](https://www.youtube.com/watch?v=Cim1lNXvCzY&pp=QAFIAQ%3D%3D)
 * [Retrieval-Augmented Generation (RAG)](https://m.youtube.com/watch?v=dzChvuZI6D4)
-ruder instruction tuning
+* ruder instruction tuning
      * [Better Llama 2 with Retrieval Augmented Generation (RAG)](https://www.youtube.com/watch?v=ypzmPwLH_Q4)
 * https://towardsdatascience.com/how-to-cut-rag-costs-by-80-using-prompt-compression-877a07c6bedb 
 * https://analyticsindiamag.com/andrew-ng-releases-new-course-on-advanced-retrieval-techniques-for-ai-applications/ 
-RAG app from scratch https://www.youtube.com/watch?v=wbR0l4OKzzI 
-Ng talk 2023 https://www.youtube.com/watch?v=5p248yoa3oE 
+* RAG app from scratch https://www.youtube.com/watch?v=wbR0l4OKzzI 
+* Ng talk 2023 https://www.youtube.com/watch?v=5p248yoa3oE 
 * https://venturebeat.com/ai/meet-llemma-the-math-focused-open-source-ai-that-outperforms-rivals/

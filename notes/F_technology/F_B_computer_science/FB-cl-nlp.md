@@ -1,5 +1,7 @@
 # Computational Linguistics and Natural Language Processing
+
 SORTED
+
 
 ## Top
 * https://nlpoverview.com/
@@ -12,6 +14,7 @@ SORTED
 * http://www.glottopedia.org/index.php/Category:Computational_Linguistics
 * [NLP Index](https://index.quantumstat.com/)
 
+
 ## Courses
 * http://www.inf.ed.ac.uk/teaching/courses/mt/* https://lena-voita.github.io/nlp_course.html
 * [Index of /~mcollins/courses/nlp2011/notes](http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/)
@@ -20,6 +23,7 @@ SORTED
 * http://lope.linguistics.ntu.edu.tw/courses/corpusling/syllabus.html
 * https://nlp.stanford.edu/courses/NAACL2013/
 * http://www.nltk.org/book/
+
 → [NLP courses using Eisenstein textbook](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)
 * [Text Technology Course - Hojas de cálculo de Google](https://docs.google.com/spreadsheets/d/1HciE4fxPsfL_bhEWsg_iW_IoatXCKn7chex27oA1D-U/edit#gid=897359458)
 * [CompLing Video Courses](https://docs.google.com/spreadsheets/d/16yoMN4hahzHuqNqDqVZw1z7AnnjIFdlC7rtCX9M_mpI/edit?usp=sharing)
@@ -331,6 +335,7 @@ SORTED
 * [Stanford CS 224N | Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/index.html#coursework)
 * [Machine Translation 2019 --> Assignments, Labs](https://cl.lingfil.uu.se/kurs/MT19/)
 
+
 ## Exams / Homework / Q&A
 * [NYU Sample Midterm Answers](https://cs.nyu.edu/courses/fall17/CSCI-UA.0480-006/sample-midterm-answers.pdf)
 * [NLP 2017 Sample Answers](https://www.ida.liu.se/~TDDE09/commons/NLP-2017-TEN.pdf)
@@ -363,15 +368,18 @@ SORTED
 * [730 questions with answers in Natural Language Processing | Science topic](https://www.researchgate.net/topic/Natural-Language-Processing)
 *COMP90042 - Problems and Solutions
 
+
 ## Homework
 * [5 Assignments 2018](https://www3.nd.edu/~dchiang/teaching/nlp/2018/homework.html)
 * [6 assignments Brandeis](http://www.cs-114.org/assignments/)
 * [7 Homeworks Eisner](https://www.cs.jhu.edu/~jason/465/#announcements)
 * [Stanford University CS224d: Problem Sets and Solutions (links not working)](http://cs224d.stanford.edu/syllabus.html)
 
+
 ## Educational Sites and Resources
 * https://stackoverflow.com/collectives/nlp/collections/76822340
 * https://stackoverflow.com/collectives/nlp/collections/76822334/natural-language-processing-fundamentals
+
 
 ## Resource Lists
 * [Awesome NLP](https://github.com/keon/awesome-nlp)
@@ -386,10 +394,13 @@ SORTED
 * https://www.assemblyai.com/ 
 * https://github.com/thunlp 
 
+
 ## Media
 * https://quantumstat.medium.com/
 
+
 ## *dair.ai – Medium
+
 
 ## *Natural Language Processing Archives - Ryan Ong
 * [Archives - Hugging Face](https://huggingface.curated.co/issues)
@@ -401,6 +412,7 @@ SORTED
 * [Natural Language Processing - NLP](https://www.facebook.com/groups/661630514420625/?notif_id=1590310581104884)
 * [Natural Language Processing | Paperspace Blog](https://blog.paperspace.com/tag/natural-language-processing/)
 * [NLP Highlights](https://castbox.fm/channel/id571199?country=fr)
+
 
 ## ***NLP News | Revue
 * [AI Новости: Машинный перевод - основы, алгортмы, проблемы](https://ai-news.ru/mashinnyj_perevod.html)
@@ -418,14 +430,18 @@ SORTED
 * https://www.louiscastricato.com/
 * http://www.realworldnlpbook.com/blog/
 
+
 ## Podcasts
 * https://montfordrecruitment.com/the-nlp-zone/
 * [NLP Update: Attention & Big Science](https://open.spotify.com/episode/0LQUNfzkKJykMAphaV1JJH?si=ouKPPi1FRfOWN37u8vIP9A)
 * [Reflections on Foundation Models (audio)](https://podcasts.google.com/search/reflections%20on%20foundation%20models)
 
+
 ## Tools
 * https://github.com/zilliztech/GPTCache
+
 langchain
+
 
 ## ****A Guide to Natural Language Processing With AllenNLP
 * [A Gentle Guide to Starting Your NLP Project with AllenNLP](https://www.kdnuggets.com/2019/07/gentle-guide-starting-nlp-project-allennlp.html)
@@ -454,6 +470,7 @@ langchain
 * [Jane Austen R](https://github.com/juliasilge/janeaustenr)
 * [https://github.com/huseinzol05/NLP-Models-Tensorflow/](https://github.com/huseinzol05/NLP-Models-Tensorflow/tree/master/chatbot)
 * https://github.com/prabhatsharma/zinc* http://cleartk.github.io/cleartk/
+
 🔥 Language Interpretability Tool | Open-source platform for visualization and understanding of NLP models. (https://github.com/PAIR-code/lit/raw/main/docs/images/lit-design-complex.png) | Developer Guide:  | Paper:  | Video: https://www.youtube.com/watch?v=j0OfBWFUqIE | Github:
 * [AllenNLP Interpret](https://allennlp.org/interpret)
 * [AraNet: New Deep Learning Toolkit for Arabic Social Media | by Synced | SyncedReview | Medium](https://medium.com/syncedreview/aranet-new-deep-learning-toolkit-for-arabic-social-media-d4729887ca48)
@@ -518,6 +535,7 @@ langchain
 * [HuggingFace's Transformers: State-of-the-art Natural Language Processing](https://arxiv.org/abs/1910.03771)
 * [Kaffeedrache (NLP)](https://github.com/Kaffeedrache?tab=repositories)
 * [Kaffeedrache/CompBase: Basic classes for working with parsed sentences, comparison information, NLP tools for basic processing and other useful classes.](https://github.com/Kaffeedrache/CompBase)
+
 KBNL Research
 * [LASER Language-Agnostic SEntence Representations](https://github.com/facebookresearch/LASER)
 * [MUSE](https://github.com/facebookresearch/MUSE)
@@ -528,6 +546,7 @@ KBNL Research
 * [Talk to Books](https://books.google.com/talktobooks/)
 * [Text Analysis API | Natural Language API](https://aylien.com/text-api/?__hstc=36392319.0283df6e32a45ad302793e8be84b39d4.1544769117061.1544769117061.1544769117061.1&__hssc=36392319.1.1544769117062&__hsfp=3651394994)
 * [Welcome to CAMR!](http://www.cs.brandeis.edu/~clp/camr/camr.html)
+
 
 ## *PHOIBLE 2.0 - Segments
 * [Apache Joshua Home - Apache Joshua - Apache Software Foundation](https://cwiki.apache.org/confluence/display/JOSHUA/)
@@ -568,7 +587,9 @@ KBNL Research
 * https://opensource.com/business/15/7/five-open-source-nlp-tools
 * https://www.texttechnologylab.org/
 * https://pair-code.github.io/lit/
+
 ‣ 
+
 
 ## People / Channels
 * http://www.schulteimwalde.de/index.html
@@ -586,10 +607,12 @@ KBNL Research
 * [Sentdex](https://github.com/Sentdex)
 * https://faculty.washington.edu/ebender/publications.html
 
+
 ## Reference
 * https://github.com/thunlp/SOS4NLP
 * https://github.com/stepthom/text_mining_resources
 * https://www.cl.uni-heidelberg.de/~nastase/teaching.mhtml
+
 
 ## **Institut für Computerlinguistik
 * [Abteilung Theoretische Computerlinguistik | Institut für Maschinelle Sprachverarbeitung | Universität Stuttgart](https://www.ims.uni-stuttgart.de/institut/arbeitsgruppen/tcl/index.html)
@@ -597,6 +620,7 @@ KBNL Research
 * [Allen Institute for AI](https://www.youtube.com/channel/UCEqgmyWChwvt6MFGGlmUQCQ)
 * [Arbeitsgruppen | Institut für Maschinelle Sprachverarbeitung | Universität Stuttgart](https://www.ims.uni-stuttgart.de/institut/arbeitsgruppen/)
 * [cortical.io](https://www.youtube.com/c/corticalio)
+
 CRETA, DFG, MARDY, QuaDramA, SDC4Lit, REPlay, CLARIN-D, XSample
 * [Dair AI](https://dair.ai/)
 * [Digital Phonetics | Institute for Natural Language Processing | University of Stuttgart](https://www.ims.uni-stuttgart.de/institut/arbeitsgruppen/dp/index.en.html)
@@ -630,13 +654,18 @@ CRETA, DFG, MARDY, QuaDramA, SDC4Lit, REPlay, CLARIN-D, XSample
 * [Statistical Natural Language Processing Group - StatNLP Heidelberg](https://www.cl.uni-heidelberg.de/statnlpgroup/)
 * [Vivi Nastase work](https://scinlp.org/#vivi-nastase)
 
+
 ## ***The Super Duper NLP Repo
+
 
 ## ***Tracking Progress in Natural Language Processing | NLP-progress
 
+
 ## *ACL Wiki
 
+
 ## *CRETA | Centrum für reflektierte Textanalyse
+
 
 ## *Languages Currently Available
 * [ACL Member Portal | The Association for Computational Linguistics Member Portal](https://www.aclweb.org/portal/)
@@ -649,6 +678,7 @@ CRETA, DFG, MARDY, QuaDramA, SDC4Lit, REPlay, CLARIN-D, XSample
 * [www.sigmorphon.org](http://www.sigmorphon.org/)
 * [Learn Natural Language Processing Tutorials | Kaggle](https://www.kaggle.com/learn/natural-language-processing?utm_medium=email&utm_source=intercom&utm_campaign=nlp-course-launch)
 
+
 ## Resources
 * https://webhose.io/datasets
 * https://webhose.io/web-content-api
@@ -658,7 +688,9 @@ CRETA, DFG, MARDY, QuaDramA, SDC4Lit, REPlay, CLARIN-D, XSample
 * https://aclweb.org/aclwiki/Main_Page
 * [The Abstraction and Reasoning Corpus (ARC)](https://github.com/fchollet/ARC)
 * [X-Stance: A Multilingual Multi-Target Dataset for Stance Detection](https://arxiv.org/abs/2003.08385)
+
 !Arnufipiaclg12
+
 
 ## Tutorials
 * [Paperspace Tutorials](https://blog.paperspace.com/tag/tutorial/)
@@ -666,6 +698,7 @@ CRETA, DFG, MARDY, QuaDramA, SDC4Lit, REPlay, CLARIN-D, XSample
 * [Applied NLP Demo Codes](https://github.com/Ramaseshanr/anlp)
 *An In-Depth Tutorial to AllenNLP (From Basics to ELMo and BERT) | Machine Learning Explained
 * https://github.com/microsoft/nlp-recipes
+
 
 ## Conferences and Challenges
 * https://alt.qcri.org/semeval2018/
@@ -676,19 +709,24 @@ CRETA, DFG, MARDY, QuaDramA, SDC4Lit, REPlay, CLARIN-D, XSample
 * https://semeval.github.io/SemEval2021/tasks.html
 * https://semeval.github.io/SemEval2022/
 
+
 ## Cool Projects
 * https://www.reddit.com/r/Python/comments/12egsoz/i_trained_a_roastbot_on_120000_faces_and_05 
 * [Typo Fixes in ML Coding in a Weekend](https://www.datasciencecentral.com/group/ai-deep-learning-machine-learning-coding-in-a-week/forum/topics/typo-fixes/)
 * https://github.com/Toukenize/weather-flight-bot
 * https://norvig.com/spell-correct.html
 * [How to Write a Spelling Corrector](https://norvig.com/spell-correct.html)
+
 A list of beginner-friendly NLP projects—using pre-trained models
+
 What are some interesting ideas for a research project in Natural Language Processing and/or Machine Translation? - Quora
+
 
 ## →
 * [nlp in julia - Поиск в Google](https://www.google.com/search?q=nlp+in+julia&rlz=1C1GCEA_enUS814US814&oq=nlp+in+julia&aqs=chrome..69i57j0l2.2518j0j7&sourceid=chrome&ie=UTF-8)
 * [NLP with R](https://www.google.com/search?q=NLP+with+R&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
 **Computational Phonetics
+
 
 ## 1-Shot
 * [S&LP Chapter 13](https://docs.google.com/document/d/1nnvW36XZUudqdYI0pZxkb5VdyiAIbEzAz2HEtBo1yPg/edit?usp=sharing)
@@ -709,15 +747,18 @@ What are some interesting ideas for a research project in Natural Language Proce
 * https://arxiv.org/pdf/1510.00726.pdf Primer on NN for NLP
 * [Good IPA](http://www.let.rug.nl/nerbonne/teach/linguistics/sounds/phonetics-intro-ling.pdf)
 
+
 ## Dictionary, Glossary, Cheatsheet
 * [The Natural Language Processing Dictionary](http://www.cse.unsw.edu.au/~billw/nlpdict.html)
 * [Glossaire de Linguistique Computationnelle Document principal originel par Mourad Amine, 1995](http://ldelafosse.pagesperso-orange.fr/Glossaire/Tal.htm)
 * https://github.com/amallia/NLP-cheatsheet/blob/master/tex/NLP-cheatsheet.tex
 
+
 ## Software, Tools
 * [Lingua Robot – Text Processing & Dictionary API](https://www.linguarobot.io/)
 * https://github.com/JohnSnowLabs/spark-nlp
 * https://github.com/joeynmt/joeynmt
+
 
 ## Miscellaneous Topics
 * https://en.wikipedia.org/wiki/Computational_linguistics
@@ -726,6 +767,7 @@ What are some interesting ideas for a research project in Natural Language Proce
 
 
 ## Reading Lists
+
 
 ## Reading List (3)
 * [The Complete Guide To Deploying Your Rasa Assistant](https://blog.rasa.com/the-complete-guide-to-deploying-your-rasa-assistant/)
@@ -752,6 +794,7 @@ What are some interesting ideas for a research project in Natural Language Proce
 * [[D] Question about Neuralink's feature vector interpretation](https://www.reddit.com/r/MachineLearning/comments/iirh75/d_question_about_neuralinks_feature_vector/)
 * [[Feature request] Support for external modality for language datasets #263](https://github.com/huggingface/datasets/issues/263)
 * [[Python] Jarow-Winkler algorithm: Measuring similarity between strings - Grokbase](https://grokbase.com/t/python/python-list/08ckyjkr8w/jarow-winkler-algorithm-measuring-similarity-between-strings)
+
 
 ### 
     ===> Learn about and use wordnets!
@@ -831,6 +874,7 @@ What are some interesting ideas for a research project in Natural Language Proce
 * https://www.technologyreview.com/s/615126/ai-common-sense-reads-human-language-ai2/
 * [IBM best paper award | Institute for Natural Language Processing | University of Stuttgart](http://www.ims.uni-stuttgart.de/news/2018-11-16-bestpaper?__locale=en)
 
+
 ## Reading List (4)
 * [Il linguaggio naturale ( natural language o NL ) - Andrea Minini](http://www.andreaminini.com/nlp/linguaggio-naturale)
 * [Intent Recognition with BERT using Keras and TensorFlow 2](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=be347161b6&e=b34ab4e857)
@@ -878,19 +922,27 @@ What are some interesting ideas for a research project in Natural Language Proce
 * [Машинный перевод | Дэвид Талбот](https://www.youtube.com/watch?v=5X5y4_VSI9A&list=PL-_cKNuVAYAVNQDgxro50vaZr9Ud7ew0D)
 * [Онтология и представление знаний](https://www.youtube.com/watch?v=6KI0cBneClw&list=PL-_cKNuVAYAW0YL0RL2u2rAIPBaTBOelt)
 
+
 ### ****semantic atoms - Поиск в Google
+
 
 ### **Need help choosing among several Master's programs (Computational Linguistics/CS) : germany
 
+
 ### **What are good ways to get into Computational Linguistics? What programming languages do I need to know, and what companies in Europe are hiring? - Quora
+
 
 ### *11 - 2 IBM Model 1 (Part 1) - YouTube
 
+
 ### *Category:Language phonologies - Wikipedia
+
 
 ### *Computational Linguistics I: Machine Translation (IBM Model 1) - YouTube
 
+
 ### *Introduction to Neural Machine Translation by Philipp Koehn - YouTube
+
 
 ### *Semantic Folding: a new model for natural language understanding - YouTube
 * [$$$A low-dimensional vector representation for words using an extreme learning machine - IEEE Conference Publication](https://ieeexplore.ieee.org/document/7966071)
@@ -926,6 +978,7 @@ What are some interesting ideas for a research project in Natural Language Proce
 * [NLP Learning Series: Part 1 - Text Preprocessing Methods for Deep Learning](https://mlwhiz.com/blog/2019/01/17/deeplearning_nlp_preprocess/?utm_campaign=shareaholic&utm_medium=reddit&utm_source=news)
 * [NLP Learning Series: Text Preprocessing Methods for Deep Learning](https://www.reddit.com/r/LanguageTechnology/comments/ahqlsw/nlp_learning_series_text_preprocessing_methods/)
 
+
 ## Reading List (5)
 * [Other NER Links](https://scholar.google.com/scholar?cites=17957789371001504263&as_sdt=5,45&sciodt=0,45&hl=ru)
 * [PhD in Natural Language Processing – NLP People](https://nlppeople.com/job/institute-of-neuroinformatics-university-of-zurich-and-eth-zurich-zurich-full-time-phd-in-natural-language-processing/)
@@ -946,6 +999,7 @@ What are some interesting ideas for a research project in Natural Language Proce
 * [Wego: Word2Vec, GloVe in Go: Add REPL mode for similarity search](https://www.reddit.com/r/LanguageTechnology/comments/ajdh1g/wego_word2vec_glove_in_go_add_repl_mode_for/)
 * [Word embeddings in 2017: Trends and future directions](http://ruder.io/word-embeddings-2017/index.html#embeddingsformultiplelanguages)
 
+
 ### ** Natural Language Understanding with Sequence to Sequence Models
 * [keras/cnn_seq2seq.py at master · keras-team/keras](https://github.com/keras-team/keras/blob/master/examples/cnn_seq2seq.py)
 * [Kohärenztheorie – Wikipedia](https://de.wikipedia.org/wiki/Koh%C3%A4renztheorie)
@@ -958,9 +1012,11 @@ What are some interesting ideas for a research project in Natural Language Proce
 * [Multilingual Word Embeddings](https://www.reddit.com/r/LanguageTechnology/comments/adgfmz/multilingual_word_embeddings/)
 * [Natural Language Processing (NLP) Companies That Are Top Of The Pyramid](https://www.houseofbots.com/news-detail/3834-1-natural-language-processing-nlp-companies-that-are-top-of-the-pyramid)
 
+
 ### > real-world applications of computational semantics - Поиск в Google
 * [(1) What programming languages are suitable for natural language processing? - Quora](https://www.quora.com/What-programming-languages-are-suitable-for-natural-language-processing)
 * [Autocorrelation mosaicing via OMP](https://github.com/danmackinlay/mosaicing_omp_ismir_2019)    * [[Transformer] Attention Is All You Need | AISC Foundational](https://www.youtube.com/watch?v=S0KakHcj_rs&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=154)    * [[Коллоквиум]: Семантические технологии: новая жизнь для математической логики](https://www.youtube.com/watch?v=FLg3N1ltfSI&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=167)
+
 
 ### *Tai-Danae Bradley: Modeling Language with Tensor Networks - YouTube
     A Deep Dive into NLP with PyTorch    * [ACL 2019 Workshop, BlackboxNLP: Analyzing and interpreting neural networks for NLP](https://www.youtube.com/watch?v=UxgQ6_kxy-Y&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=172)    * [Break into NLP hosted by deeplearning.ai](https://www.youtube.com/watch?v=SzAmGg2TVBg&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=183)    * [GPT-3 vs Human Brain](https://www.youtube.com/watch?v=kpiY_LemaTc&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=186)
@@ -979,10 +1035,12 @@ What are some interesting ideas for a research project in Natural Language Proce
 * [Обработка естественного языка: с чего начать и что изучать дальше | Библиотека программиста](https://proglib.io/p/how-to-start-nlp/)
 * [Methods in Computational Linguistics Course - Hojas de cálculo de Google](https://docs.google.com/spreadsheets/d/1dnh7Zcqjg_FlallVP6XG-n-2_XMfqrL5rHPk33lLo4E/edit#gid=1895140812)
 
+
 ### **⛵ Learning Meaning in Natural Language Processing — The Semantics Mega-Thread
 * [NLP Learning Thread](https://twitter.com/srush_nlp/status/1276514523726389250?s=12)
 * [NLP word representations and the Wittgenstein philosophy of language | Terra Incognita](http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/)
 * [NLProc advice thread](https://twitter.com/thom_wolf/status/1276850505499770885?s=12)
+
 
 ## Reading List (6)    * [NSM Lab](https://www.youtube.com/channel/UCLEhrIF9Cnk3P1trmSwMGyg)    * [06: All the sounds in languages - International Phonetic Alphabet (Intro to Linguistics Phonetics)](https://www.youtube.com/watch?v=OeCspe69DTE&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=34)
     ambiguously figurative language    * [An Introduction to Phonetics: The Consonants of the IPA, Part I](https://www.youtube.com/watch?v=Kxsw7eS270w&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=37)    * [phonetics english: Phonetic symbols (pure vowels)](https://www.youtube.com/watch?v=6ZzpdadULCY&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=35)
@@ -993,9 +1051,11 @@ What are some interesting ideas for a research project in Natural Language Proce
     AI Summer Speech Synthesis    * [GS RUS](https://www.youtube.com/c/%D0%9E%D0%B1%D1%89%D0%B0%D1%8F%D0%A1%D0%B5%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D0%BA%D0%B0%D0%BD%D0%B0%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC)    * [Overview of the IPA Chart (Diacritics)](https://www.youtube.com/watch?v=bpxtxYC3jqs&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=38)    * [PHO107 - Basic Segments of Speech (Vowels I)](https://www.youtube.com/watch?v=xa5bG_wrK7s&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=77)    * [Sounds of English Vowels and Consonants with phonetic symbols](https://www.youtube.com/watch?v=JwTDPu2TE6k&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=28)    * [TEXTS IN IPA TRANSCRIPTION: PHONETIC SYMBOLS (2016)](https://www.youtube.com/watch?v=QomHwuDtNlQ&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=59)    * [The complete official IPA chart](https://www.youtube.com/watch?v=OGYGDQgeh2c&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=23)    * [The International Phonetic Alphabet](https://www.youtube.com/watch?v=XTzkT3j9pHI&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=24)    * [The IPA and the IPA That Created It](https://www.youtube.com/watch?v=00pHrQo-0R4&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=29)    * [The IPA Song - Vowels](https://www.youtube.com/watch?v=GAEBv-uN_Mc&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=70)    * [The Language Sounds That Could Exist, But Don't](https://www.youtube.com/watch?v=9uZam0ubq-Y&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=33)    * [The Phonetic Chart Explained](https://www.youtube.com/watch?v=CNo5SyAWY-U&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=69)    * [The world's rhotics](https://www.youtube.com/watch?v=wZEc-rI9Vgs&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=72)    * [Aspiration on Plosive Consonants](https://www.youtube.com/watch?v=B7szkN4QcxI&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=62)
 * https://www.dfki.de/web/forschung/projekte-publikationen/projekte-uebersicht/projekt/elg/    * [Introduction to Articulatory Phonetics (Consonants)](https://www.youtube.com/watch?v=dfoRdKuPF9I&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=32)    * [Introduction to the International Phonetic Alphabet](https://www.youtube.com/watch?v=g_SHfoUDj8A&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=36)    * [IPA - All Sounds](https://www.youtube.com/watch?v=3HXJzwhFH7c&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=25)    * [IPA 24 Consonant Sounds](https://www.youtube.com/watch?v=312yOW1YoII&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=31)    * [IPA for Language Learning - allophones, utterances & prosody (4 of 4)](https://www.youtube.com/watch?v=iO29J3krsfs&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=68)    * [IPA for Language Learning - Consonants (2 of 4)](https://www.youtube.com/watch?v=luYZnqmjWaI&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=66)    * [IPA for Language Learning - Syllables (3 of 4)](https://www.youtube.com/watch?v=1LBKaVPGgHo&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=67)    * [IPA for Language Learning - Vowels (1 of 4)](https://www.youtube.com/watch?v=2bCM9RnDBZw&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=65)    * [IPA Symbols for the R Sound](https://www.youtube.com/watch?v=admS88wg2FU&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=60)    * [IPA Vowel Guide - Alfabeto fonético internacional. Clase de ingles para principiantes](https://www.youtube.com/watch?v=0IFxi5GRN8g&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=26)    * [Langage Langue Parole (selon De Saussure) - Ma Langue dans Ta Poche #1](https://www.youtube.com/watch?v=Y3EoAizjvtc&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=76)    * [Learn to read the IPA Vowel Chart for any language](https://www.youtube.com/watch?v=CVzb4zIXPcg&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=63)    * [Lingüística](https://www.youtube.com/watch?v=qNiPRyRHBTI&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=75)    * [Listen to ALL the consonants of the IPA](https://www.youtube.com/watch?v=7C-sibh4pAM&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=27)    * [Mais quelle est donc la LANGUE de DIEU ? - MLTP#33](https://www.youtube.com/watch?v=302wXZiGy44&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=150)    * [How to produce any vowel](https://www.youtube.com/watch?v=SOyNWcr4U-w&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=71)    * [Hell's Corner IPA: [ɑ] [ɒ] [ɔ] Vowels](https://www.youtube.com/watch?v=sALAE6iqLWk&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=61)    * [Fonemas extraños - Pronunciando los sonidos más raros del mundo](https://www.youtube.com/watch?v=-zB2TG9sVf8&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=73)
 
+
 ## Reading List (7)
 * [Открытое образование - Введение в корпусную лингвистику](https://openedu.ru/course/hse/CORPUS/)
 * [Computational Methods for Corpus Annotation and Analysis | Xiaofei Lu (auth.) | download](https://b-ok.cc/book/2333214/938652)
+
 
 ### ****Corpus paralelos en línea. Chelo Vargas Sierra
 * [2. Built-in Functions — Python 2.7.15 documentation](https://docs.python.org/2/library/functions.html)
@@ -1046,6 +1106,7 @@ What are some interesting ideas for a research project in Natural Language Proce
 * [Courses in Corpus Linguistics](https://www1.essex.ac.uk/linguistics/external/clmt/w3c/corpus_ling/content/courses/conferences.html)
 * [GitHub - seatgeek/fuzzywuzzy: Fuzzy String Matching in Python](https://github.com/seatgeek/fuzzywuzzy)
 
+
 ### **Tools for Corpus Linguistics
 * [Corpus Linguistics - Online Course](https://www.futurelearn.com/courses/corpus-linguistics)
 * https://blogs.fau.de/klue/
@@ -1053,6 +1114,7 @@ What are some interesting ideas for a research project in Natural Language Proce
 * [Sketch Engine | language corpus management and query system](https://www.sketchengine.eu/)
 * [WebLearn : Corpus Linguistics : Overview](https://weblearn.ox.ac.uk/portal/site/:central:it:itlp_courses:corpus_ling)
 * [Corpus Readers](http://www.nltk.org/howto/corpus.html)    * https://www.sketchengine.eu/documentation/tenten-corpora/
+
 
 ## Reading List (8)
 * [Deep linguistic processing - Wikipedia](https://en.wikipedia.org/wiki/Deep_linguistic_processing)
@@ -1124,6 +1186,7 @@ What are some interesting ideas for a research project in Natural Language Proce
 * [Portal Computerlinguistik](http://www.computerlinguistik.org/portal/portal.html)
 * [Нейролінгвістика — Вікіпедія](https://uk.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BB%D1%96%D0%BD%D0%B3%D0%B2%D1%96%D1%81%D1%82%D0%B8%D0%BA%D0%B0)
 
+
 ### Education Ecosystem - YouTube
 * [A Robot Wrote A Chapter To A Harry Potter Book, And It's Absolutely Insane - YouTube](https://www.youtube.com/watch?v=XFYckCslt74)
 * https://github.com/facebook/duckling
@@ -1179,6 +1242,7 @@ What are some interesting ideas for a research project in Natural Language Proce
     Automated Essay Scoring
 * [A Neural Transducer](https://arxiv.org/abs/1511.04868)
 * [Transformer Architecture - Timothy Liu](https://tlkh.dev/transformer-model-architecture/)
+
 
 ## Chatbot    * [Chatbot Development : Make conversations flawless with a Dialog Manager](https://medium.com/@snehasish069/how-do-automated-conversational-agents-learn-80d2c62e5594?source=email-b12ac70303b2-1579309424199-digest.reader------0-59------------------f561c61d_2c66_4caf_ac44_039ac6d662f7-1-----&sectionName=top)
 * [How Chatbots Hold Power to Revolutionize the Finance Services](https://www.datasciencecentral.com/profiles/blogs/how-chatbots-hold-power-to-revolutionize-the-finance-services)
@@ -1262,6 +1326,7 @@ What are some interesting ideas for a research project in Natural Language Proce
 * https://ufal.mff.cuni.cz/courses/npfl123
 * https://web.stanford.edu/~jurafsky/slp3/24.pdf
 
+
 ## Viterbi    * [(ML 14.11) Viterbi algorithm (part 1)](https://www.youtube.com/watch?v=RwwfUICZLsA&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=11)    * [(ML 14.12) Viterbi algorithm (part 2)](https://www.youtube.com/watch?v=t3JIk3Jgifs&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=12)    * [(ML 14.7) Forward algorithm (part 1)](https://www.youtube.com/watch?v=M7afek1nEKM&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=6)    * [(ML 14.8) Forward algorithm (part 2)](https://www.youtube.com/watch?v=MPmrFu4jFk4&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=8)    * [(ML 14.9) Backward algorithm](https://www.youtube.com/watch?v=jwYuki9GgJo&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=9)
 * https://www.ece.ucsb.edu/Faculty/Rabiner/ece259/Reprints/tutorial
 * [Project 4: Ghostbusters](http://modelai.gettysburg.edu/2010/pacman/projects/tracking/busters.html)
@@ -1311,10 +1376,13 @@ What are some interesting ideas for a research project in Natural Language Proce
 * [tomerfiliba/tau: A junkyard of all Tel Aviv University-related projects](https://github.com/tomerfiliba/tau)
 * [Parsing PDF](https://wiki.tcl-lang.org/page/Parsing+PDF)
 
+
 ## CKY
 * [CKY Parser](https://abhijeetchopra.github.io/CKY-Parser/)
 
+
 ### *The CYK Algorithm • Open Source is Everything
+
 
 ### *CYK Parser Animation
 * [Seminararbeit_Bruder_Giuliani_CKY_Parser.pdf](http://www.cip.ifi.lmu.de/~bruder/programs/cky/pdf/Seminararbeit_Bruder_Giuliani_CKY_Parser.pdf)
@@ -1327,6 +1395,7 @@ What are some interesting ideas for a research project in Natural Language Proce
 * [CKY parsing algorithm demo](http://lxmls.it.pt/2015/cky.html)
 * [abhijeetchopra/CKY-Parser](https://github.com/abhijeetchopra/CKY-Parser)
     CFG - Earley-Parsing mit passiven Items (Deduktion)    * [15 4 CKY Example](https://www.youtube.com/watch?v=MIlQwfMZ8O4&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=84)    * [CYK Algorithm Made Easy (Parsing)](https://www.youtube.com/watch?v=VTH1k-xiswM&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=81)
+
 
 ## Earley
 * [Vorbereitung aufs Studium - Hojas de cálculo de Google](https://docs.google.com/spreadsheets/d/15f-YFveAHgixxzIFuwNSAyzvfi7A7TRg5Wt4LCxayuo/edit#gid=747140405)
@@ -1349,6 +1418,7 @@ What are some interesting ideas for a research project in Natural Language Proce
 * [Einführung in die Computerlinguistik Chart-Parsing](https://user.phil.hhu.de/~petersen/Einf_CL_0910/material/EinfCL_18_handout.pdf)
 * [EarleyParser.pdf](https://www.english-linguistics.de/fr/teaching/ws06-07/cl2/slides/EarleyParser.pdf)
 
+
 ### *Earley demo
 * [earley-parser-js/earley-oop.js at master · lagodiuk/earley-parser-js](https://github.com/lagodiuk/earley-parser-js/blob/master/earley-oop.js)
 * [Tiny JavaScript parser of the subset of German (Earley)](http://lagodiuk.github.io/nlp/2016/05/23/deutsch_nlp.html)
@@ -1365,72 +1435,121 @@ What are some interesting ideas for a research project in Natural Language Proce
 * [Python使用nltk进行Chart Parsing - lijiancheng0614](https://lijiancheng0614.github.io/2015/10/25/2015_10_25_Python_nltk/)
 * [PowerPoint Presentation](http://demo.clab.cs.cmu.edu/NLP/S19/files/slides/13-earley.pdf)
 
+
 ### ** The Earley Recogniser
 * [yaep/src at master · vnmakarov/yaep](https://github.com/vnmakarov/yaep/tree/master/src)
 
+
 ## Notes
+
 Why is it that there seems to be little attention paid to semantic molecules? The paper makes use of norms, but makes no mention of compositionality, which I think would have enriched the discussion.
 * how “fuzzy” can the objects themselves get before the results presented begin to break down? And what additional insights could we gain from such a study? By “fuzzy” I mean ambiguous / between categories / difficult to identify / atypical for a category.
+
 The authors speak of “seeing the distributions of words in texts as a semantic space for understanding what objects look like”. To what extent can we call this understanding, even within the conventional ML/AI usage of the term? Do you see any qualitative difference between “understanding” between zero-shot methods and other, more traditional methods, such as feature-based classification? What accounts for the different shapes of the curves in figure 4 (especially seen vs unseen in the first graph for the Gaussian model)?
+
 → Lojban
+
 → Korean NLP (+ Semitic)
+
 → Chinese tokenization & parsing
+
 → Esperanto NLP
+
 → Volapük
+
 graph embeddings, word graphs, and word embeddings → graph mappings, → translation digraphs and embeddings, → applications to interpretability and human language learning
+
 Acoustic model interpolation for non-native speechrecognition
+
 Non-native English speaker’s speech correction, based on domain focused document
+
 Accent Embeddings?
+
 Accent Interpolation?
+
 Content-Preserving Phonetic Style Transfer
+
 Disentanglement of Accent-Related and Semantic Content in
+
 Interpolation between speech samples (1 human with transcript, other with TTS)?
+
 Multi-Dimensional Transfer and Interpolations of Speech Characteristics
+
 Non-native speech recognition using characteristic speech features, with respect to nationality
+
 This thesis introduces a new method for disentangling phonetic information from non-phonetic information contained in a speech signal
+
 This thesis presents and analyzes several methods for non-parallel accent transfer between speakers. A key finding is
+
 Triplet metric learning for IPA symbols
+
 Transducer model in dual-objective accent transfer:
+
 
 ## - train model from samples of same words?
 
+
 ## --- get these words from ASR models?
+
 
 ## --- by hand (small sample sufficient? set of high-frequency words?)
 
+
 ## --- from text aligned to data?
+
 
 ## --- unsupervised approach using word segmentation, then recognition of corresponding words? or triphones?
 
+
 ## --- semi-supervised approach? (bootstrapping from small set of parallel pairs?)
+
 
 ## - use relative frequency?
 
+
 ## > train model on both sets of (prior) phones?
+
 
 ## > or train embedding model from combined dataset? --> learns overall "nearness" of sounds
 
+
 ## > use discreteness in one or both of the objectives? -> sum of p(s_{n} | s_{n-1}) weighted by respective value of each vector element
+
 
 ## > possible to use iteration? - e.g. first from past, then from future, or alternating L1 and L2, until convergence or stopping after n rounds
 
+
 ## > how to use autoregression?
+
 
 ## > use panel data estimation methods
 
+
 ## > simply concatenate both vector sequences?
 
+
 ## > use smoothing (of target posteriorgram) for more realistic-sounding audio
+
 Use fine-grained phonetic information to investigate how mother tongue influences pronunciation of a foreign language. R-squared -> how much can be predicted from mother tongue alone?
+
 Cluster analysis on spectrograms? -> good for outlier analysis
+
 2 approaches:
+
 1) GAN with dual loss: difference between target accent-specific ASR output and original text; classification probability for non-target accent
+
 2) GAN on phonetics only (some kind of constraint for content or search on space of possible sounds for words) and subsequent speech synthesis
+
 Possible to use separate model in loss function (ASR model)? Or necessary to use as non-differentiable parameters in model?
+
 > run GAN on that (native vs non-native?)
+
 > or just use mapping of sound discrepancy onto oral and vocal positions for accent improvement?
+
 () Make accent trainer: IPA transcription & comparison, style transfer (which languages?), oral cavity visualizations--> which audio corpora are available? which could I create from existing audio sources? which would I have to collect?
+
 () Use video / sensor data from mouth and vocal tract
+
 
 ## SP
 
@@ -1442,6 +1561,7 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
 * http://home.cc.umanitoba.ca/~krussll/phonetics/acoustic/spectrogram-sounds.html
 * http://australianlinguistics.com/acoustic-analysis-2/spectrograms/
 * http://australianlinguistics.com/
+
 
 ## Style Transfer
 * [Neural Audio Style Transfer - CMPUT 466 - YouTube](https://www.youtube.com/watch?v=jmB4IhfGhuY)
@@ -1496,8 +1616,10 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
     Audio Texture Synthesis with Random Neural Networks: Improving Diversity and Quality (poster)
 * [Applying Visual Domain Style Transfer and Texture Synthesis Techniques to Audio - Insights and Challenges](https://www.researchgate.net/publication/330726451_Applying_Visual_Domain_Style_Transfer_and_Texture_Synthesis_Techniques_to_Audio_-_Insights_and_Challenges)
 
+
 ## ASR + SS
 * https://github.com/espnet/espnet
+
 
 ## SP
 * https://juliapackages.com/p/dsp
@@ -1543,6 +1665,7 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
 * https://maelfabien.github.io/blog/
 * https://www.animations.physics.unsw.edu.au/jw/voice.html
 
+
 ## Sound
     Introduction to Voice Computing in Python
 * [Voicebook](https://github.com/jim-schwoebel/voicebook)
@@ -1563,6 +1686,7 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
 * [x-vector](http://danielpovey.com/files/2017_interspeech_embeddings.pdf)
 * [Parselmouth - Praat in Python, the Pythonic way](https://github.com/YannickJadoul/Parselmouth)
 * https://www.internationalphoneticassociation.org/content/links-phonetics-resources#A2
+
 
 ## Accent
 * https://duckduckgo.com/?t=ffab&q=accent+transfer+with+cyclegan&ia=web
@@ -1602,16 +1726,21 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
 * [Using Phonetic Posteriorgram Based Frame Pairingfor Segmental Accent Conversion](https://psi.engr.tamu.edu/wp-content/uploads/2020/04/zhao2019taslp.pdf)
 * https://github.com/guanlongzhao/ppg-gmm    * [zhao2018icassp.pdf](https://psi.engr.tamu.edu/wp-content/uploads/2018/03/zhao2018icassp.pdf)
 
+
 ### ** REDAT: Accent-Invariant Representation for End-to-End ASR by Domain Adversarial Training with Relabeling
 
+
 ### **A New Approach to Accent Recognition and Conversion for Mandarin Chinese - 42Papers
+
 
 ### **GitHub - lynneeai/Mandarin_Accent_Conversion
 * [Non-native speech recognition sentences: A new materials set for non-native speech perception research](https://link.springer.com/article/10.3758/s13428-019-01251-z)
 * https://duckduckgo.com/?t=ffab&q=accent+transfer+with+cyclegan&ia=web
 * [speech accent GAN](https://www.reddit.com/r/MachineLearning/comments/awmjm8/d_how_long_are_we_from_voice_style_transfer_voice/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
+
 ### **One-Shot Voice Conversion with Disentangled Representations by Leveraging Phonetic Posteriorgrams - 1798.pdf
+
 
 ### **Voice Conversion Chapter
 * [Deep Learning for Audio Style Transfer](http://www2.ece.rochester.edu/~zduan/teaching/ece477/projects/2018/ZhixianHuang_ShaotianChen_BingjingZhu_ReportFinal.pdf)
@@ -1621,6 +1750,7 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
 * [>](https://www.google.com/search?q=accent+filter+for+voice&rlz=1C5CHFA_enUS800US800&sxsrf=ALeKk00hKsjqtzJrulZPqG0s7LDe689dlg:1606128335737&source=lnms&tbm=vid&sa=X&ved=2ahUKEwiT5qinvpjtAhU3A2MBHUTlBlYQ_AUoA3oECAMQBQ&biw=1092&bih=460)
     You can now speak using someone else’s voice with Deep Learning
 
+
 ### **
 * [Accent Classification and Neural Transfer of English Speech](http://cs230.stanford.edu/files_winter_2018/projects/6939642.pdf)
 * [Voice Accent Transfer Using Recurrent Neural Networks on Spectrograms](https://cs230.stanford.edu/projects_fall_2018/reports/12449240.pdf)
@@ -1629,6 +1759,7 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
 * [sy2358/accent_conversion_GAN: Spectrogram2Spectrogram Translation and Speech Conversion](https://github.com/sy2358/accent_conversion_GAN)
 * https://github.com/bhaprayan/unbabel
 
+
 ## Acoustics
 * [Fundamentals of Musical Acoustics: Second, Revised Edition](https://b-ok.cc/book/2208553/864a10)
 * [Principles of Musical Acoustics](https://b-ok.cc/book/2157409/9ac75f)
@@ -1636,6 +1767,7 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
 * [акустика](https://b-ok.cc/s/?q=%D0%B0%D0%BA%D1%83%D1%81%D1%82%D0%B8%D0%BA%D0%B0)
     Analyse und Synthese akustischer Spektren
     Acoustic modeling in Automatic Speech Recognition \342\200\223 A Survey (Waris & Aggarwal).pdf
+
 
 ## ASR
 * https://www.assemblyai.com/blog/conformer-1 
@@ -1746,6 +1878,7 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
     neural networks for dialect recognition
 * [English ASR Challenge](https://github.com/Speech-Lab-IITM/English_ASR_Challenge)
 * [Uberi speech recognition](https://github.com/Uberi/speech_recognition)
+
 
 ### ****GitHub - gooofy/zamia-speech: Open tools and data for cloudless automatic speech recognition
 * https://medium.com/descript/the-state-of-automatic-speech-recognition-q-a-with-kaldis-dan-povey-c860aada9b85
@@ -1920,6 +2053,7 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
 * [1ytic/open_stt_e2e: PyTorch end-to-end speech recognition](https://github.com/1ytic/open_stt_e2e)
 * https://maelfabien.github.io/machinelearning/speech_reco/
 
+
 ## VC    * [One-Shot Voice Conversion with Disentangled Representations by Leveraging Phonetic Posteriorgrams - 1798.pdf](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1798.pdf)
 * https://rf5.github.io/sacair2020/
 * [Convolutional Variational Autoencoders for Spectrogram Compression in Automatic Speech Recognition](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7988421/)
@@ -1986,6 +2120,7 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
 * [[INTERSPEECH 2020] Voice Conversion Using Speech-to-Speech Neuro-Style Transfer - YouTube](https://www.youtube.com/watch?v=zbVQwqx-kYk)
 * [SANE2019 | Hirokazu Kameoka - Voice conversion with image-to-image translation and seq2seq learning - YouTube](https://www.youtube.com/watch?v=2A8XByosfnw&t=1083s)
 * [Voice Translation and Audio Style Transfer with GANs | by Marco Pasini | Towards Data Science](https://towardsdatascience.com/voice-translation-and-audio-style-transfer-with-gans-b63d58f61854)
+
 
 ## SS
 * https://heartbeat.fritz.ai/a-2019-guide-to-speech-synthesis-with-deep-learning-630afcafb9dd
@@ -2132,6 +2267,7 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
     Speech Prosody in Speech Synthesis
     Source Modeling Techniques for QE in SP Speech Synthesis
 
+
 ## TTS
 * [Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions (Tacotron 2))](https://arxiv.org/abs/1712.05884)
 * [The Implementation of Tacotron2 Based on Pytorch](https://github.com/NVIDIA/tacotron2)
@@ -2145,6 +2281,7 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
 * [Phone-Level Embeddings for Unit Selection Speech Synthesis](https://hal.archives-ouvertes.fr/hal-01840812/document)
 * https://github.com/mmorise/World
 * [melgan.ipynb - Colaboratory](https://colab.research.google.com/drive/1ajqFWXneNXBs2bJrlZAxe1fvaG_9ZFl0)
+
 
 ## Transcription    * [(PDF) Example-Based Automatic Phonetic Transcription.](https://www.researchgate.net/publication/220746286_Example-Based_Automatic_Phonetic_Transcription)    * [Example-based Automatic Phonetic Transcription](http://www.lrec-conf.org/proceedings/lrec2010/pdf/299_Paper.pdf)
 * [(PDF) Universal Phone Recognition with a Multilingual Allophone System](https://www.researchgate.net/publication/339551416_Universal_Phone_Recognition_with_a_Multilingual_Allophone_System)    * [Automatic Phonetic Segmentation and Pronunciation Detection with Various Approaches of Acoustic Modeling - mizera2018.pdf](https://omilia.com/wp-content/uploads/2019/09/mizera2018.pdf)    * [Evaluating phonemic transcription of low-resource tonal languages for language documentation - document](https://halshs.archives-ouvertes.fr/halshs-01709648/document)    * [Kaldi for phonetic transcription - Google Suche](https://www.google.com/search?client=firefox-b-d&q=Kaldi+for+phonetic+transcription)    * [phonetic transcriptions - Google Scholar](https://scholar.google.de/scholar?hl=de&as_sdt=0%2C5&q=phonetic+transcriptions&btnG=&oq=phonetic+transcription)
@@ -2194,11 +2331,13 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
 * [CMU Sphinx](https://cmusphinx.github.io/wiki/phonemerecognition/)
 * https://www.researchgate.net/post/Which_software_is_recommended_for_phonetic_transcription_of_languages
 
+
 ## Title Ideas
     (Learning) Fine-Grained Phonetic Feature Representations for Transcription and Accent Transfer
     Learning Fine-Grained Phonetic Representations for Speech Transcription and Accent Transfer
     Fine-Grained Speech Processing for Phonetic Transcription and Accent Transfer
     Fine-Grained Phonetic Processing of Speech
+
 
 ## Phonetics / ASR
 * https://pypi.org/project/wikipron/
@@ -2255,12 +2394,14 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
     L2-ARCTIC: A non-native English speech corpus    * [speech accent archive: browse](https://accent.gmu.edu/browse_language.php?function=detail&speakerid=4)
     The Variation in Conversation (ViC) Project: Creation of the Buckeye Corpus of Conversational Speech (Drive)
 
+
 ### **english speech corpora accents
 * [TIMIT GH](https://github.com/philipperemy/timit)
 * [TIMIT Dataset GH](https://github.com/topics/timit-dataset)
 * [Open SLR](https://www.openslr.org/resources.php)
 * [Best SR Datasets](https://lionbridge.ai/datasets/best-speech-recognition-datasets-for-machine-learning/)
 * https://www.google.com/search?q=how+much+audio+data+do+you+need+for+style+transfer%3F&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari
+
 
 ### ** CSTR VCTK Corpus
 * http://festvox.org/cmu_arctic/
@@ -2311,9 +2452,12 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
 * https://wikt2pron.readthedocs.io/en/latest/usage.html
     Major questions:
 
+
 ### how to learn length for transcriptions? simply relative length?
 
+
 ### how to map phonetic features to letters?
+
 
 ### how to learn and transfer distribution of sequences (in GAN)
 * [Tapakapa Erklärt](https://www.youtube.com/channel/UCCbvX81KC1LCOn8jjsqoR7Q)
@@ -2343,6 +2487,7 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
 * https://www.tecmint.com/download-mp3-song-from-youtube-videos/
 * https://github.com/ytdl-org/youtube-dl/
 
+
 ### -> Methods of data-augmentation for speech data
 * [(PDF) A cross-linguistic database of phonetic transcription systems](https://www.researchgate.net/publication/334135409_A_cross-linguistic_database_of_phonetic_transcription_systems)
 * [(PDF) Non-native speech databases](https://www.researchgate.net/publication/4311062_Non-native_speech_databases)
@@ -2360,6 +2505,7 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
 * [NISP: A Multi-lingual Multi-accent Dataset for Speaker Profiling](https://arxiv.org/abs/2007.06021)
 * [Speech Accent Archive | Kaggle](https://www.kaggle.com/rtatman/speech-accent-archive)
 * [Aligning Text and Phonemes for Speech Technology Applications Using an EM-Like Algorithm](https://link.springer.com/article/10.1007/s10971-005-2166-7)
+
 
 ## DSP
 * Intelligent Speech Signal Processing
@@ -2461,6 +2607,7 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
 * [Probabilistic Linear Discriminant Analysis (PLDA) with Bottleneck Features for Speech Recognition (slides)](https://home.ttic.edu/~llu/pdf/IS2014_lianglu.pdf)
 * https://linguistics.berkeley.edu/plab/guestwiki/index.php?title=Berkeley_Phonetics_Machine
 
+
 ### *******Bitext word alignment - Wikipedia
 * [Text-Speech Alignment: A Robin Hood Approach for Endangered Languages](https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=1105&context=dayofdata)
 * [A survey of sequence alignment algorithms for next-generation sequencing](https://pubmed.ncbi.nlm.nih.gov/20460430/)
@@ -2528,12 +2675,14 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
 * [A Robin Hood approach to forced alignment: English-trained algorithms and their use on Australian languages](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/download/4468/4083)
 * [EasyAlign](http://latlcui.unige.ch/phonetique/easyalign.php)
 
+
 ## Disentanglement
 * [3 code implementations (in PyTorch and TensorFlow)](https://paperswithcode.com/paper/unsupervised-learning-of-disentangled-and#code)
 * [Latent Sequence Decompositions](https://arxiv.org/pdf/1610.03035.pdf)
 * [Supervised Determined Source Separation with Multichannel Variational Autoencoder](https://direct.mit.edu/neco/article/31/9/1891/8494/Supervised-Determined-Source-Separation-with)
 * [Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data](https://arxiv.org/abs/1709.07902)
 * [Unsupervised Speech Decomposition via Triple Information Bottleneck](https://arxiv.org/abs/2004.11284)
+
 
 ## GAN    * [Temporal coherency based criteria for predicting video frames using deep multi-stage generative adversarial networks. - Cerca con Google](https://www.google.com/search?channel=fs&client=ubuntu&q=Temporal+coherency+based+criteria+for+predicting+video+frames+using+deep+multi-stage+generative+adversarial+networks.)    * [cjbayron/c-rnn-gan.pytorch: PyTorch implementation of C-RNN-GAN for Music Generation](https://github.com/cjbayron/c-rnn-gan.pytorch)    * [sumuzhao/CycleGAN-Music-Style-Transfer: Symbolic Music Genre Transfer with CycleGAN](https://github.com/sumuzhao/CycleGAN-Music-Style-Transfer)    * [khornlund/CycleGAN-Music-Style-Transfer-1: Symbolic Music Genre Transfer with CycleGAN](https://github.com/khornlund/CycleGAN-Music-Style-Transfer-1)    * [C-RNN-GAN: Continuous recurrent neural networks with adversarial training | Papers With Code](https://paperswithcode.com/paper/c-rnn-gan-continuous-recurrent-neural)    * [SeqST-GAN: Seq2Seq生成对抗网络的多步城市人群流动预测_zuiyishihefang的博客-CSDN博客](https://blog.csdn.net/zuiyishihefang/article/details/116280116)    * [jianguoz/Seq2Seq-Gan-Autoencoder: GAN and Seq2Seq](https://github.com/jianguoz/Seq2Seq-Gan-Autoencoder)    * [improving_conditional_sequence.pdf](https://openreview.net/pdf?id=HyxSG1Z3IX)    * [anuprulez/clade_prediction: Sequence generation/sequence to sequence learning using amino acid sequences of Corona virus (SARS-COV2) by training on generative adversial network (GAN)](https://github.com/anuprulez/clade_prediction)    * [[1908.05551] Conditional LSTM-GAN for Melody Generation from Lyrics](https://arxiv.org/abs/1908.05551)    * [yy1lab/Lyrics-Conditioned-Neural-Melody-Generation](https://github.com/yy1lab/Lyrics-Conditioned-Neural-Melody-Generation)    * [Time-series Generative Adversarial Networks - NeurIPS-2019-time-series-generative-adversarial-networks-Paper.pdf](https://papers.nips.cc/paper/2019/file/c9efe5f26cd17ba6216bbe2a7d26d490-Paper.pdf)    * [tsgan/alg/timegan at master · firmai/tsgan](https://github.com/firmai/tsgan/tree/master/alg/timegan)    * [firmai/mtss-gan: MTSS-GAN: Multivariate Time Series Simulation with Generative Adversarial Networks (by @firmai)](https://github.com/firmai/mtss-gan)    * [amitadate/S-LSTM-GAN-MNIST: This repository contains the source for the paper "S-LSTM-GAN: Shared recurrent neural networks with adversarial training"](https://github.com/amitadate/S-LSTM-GAN-MNIST)
     An LSTM Based Generative Adversarial Architecture for Robotic Calligraphy Learning System - sustainability-12-09092-v2.pdf
@@ -2630,6 +2779,7 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
 * [Multi-objective training of Generative Adversarial Networks with multiple discriminators](https://arxiv.org/abs/1901.08680)
 * [This AI Makes "Audio Deepfakes"](https://youtu.be/VQgYPv8tb6A)
 
+
 ## Sequence
 * [FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow](https://arxiv.org/abs/1909.02480)
 * [Alibaba Submission for WMT18 Quality Estimation Task](https://www.aclweb.org/anthology/W18-6465.pdf)
@@ -2645,6 +2795,7 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
 * https://hhexiy.github.io/nlp/notes/sequence_labeling.html
 * [PyTorch Time-Series Prediction](https://www.youtube.com/watch?v=AvKSPZ7oyVg)
 
+
 ## Features and Feature Learning
 * [Deep Representation Learning Techniques forAudio Signal Processing](https://mediatum.ub.tum.de/doc/1463108/document.pdf)
 * [Unsupervised Pretraining Transfers well Across Languages](https://arxiv.org/abs/2002.02848)
@@ -2656,12 +2807,16 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
 * [log Filterbank features - Google Suche](https://www.google.com/search?client=firefox-b-d&q=log+Filterbank+features)
 * [Speech Processing for Machine Learning: Filter banks, Mel-Frequency Cepstral Coefficients (MFCCs) and What’s In-Between | Haytham Fayek](https://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html)
 
+
 ## Representations
 * [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
 
+
 ### -> Representing text in natural language processing - Towards Data Science
 
+
 ### -> Using word embeddings
+
 
 ### **LearnedVector (Michael Nguyen)
 * [Sentence embedding - Wikipedia](https://en.wikipedia.org/wiki/Sentence_embedding)
@@ -2678,6 +2833,7 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
 * [Анна Потапенко, ВШЭ: «Векторные представления слов и документов» - YouTube](https://www.youtube.com/watch?v=KEXWC-ICH_Y)
 * [Google’s ALBERT Is a Leaner BERT; Achieves SOTA on 3 NLP Benchmarks](https://medium.com/syncedreview/googles-albert-is-a-leaner-bert-achieves-sota-on-3-nlp-benchmarks-f64466dd583)
 * [Deep Learning, NLP, and Representations - colah's blog](https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
+
 
 ## Phonetics and Praat
     What are formants? (=> Praat)
@@ -2711,6 +2867,7 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
 * https://github.com/Legisign/Praat-textgrids
 * https://praatscripting.lingphon.net/
 * https://pypi.org/project/praat-textgrids/
+
 
 ## Misc
 * https://shaojinding.github.io/samples/fac-to-arbitrary-speaker/
@@ -2756,6 +2913,7 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
 * https://zhuanlan.zhihu.com/p/265149474
 * https://zhuanlan.zhihu.com/p/265149474
 * https://github.com/idiap/apam
+
 
 ### ->
 * https://sourceforge.net/projects/sppas/
@@ -2806,7 +2964,9 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
 * [[2011.08609] Accent and Speaker Disentanglement in Many-to-many Voice Conversion](https://arxiv.org/abs/2011.08609)
 * [[PDF] Deep Learning-Based Detection of Articulatory Features in Arabic and English Speech | Semantic Scholar](https://www.semanticscholar.org/paper/Deep-Learning-Based-Detection-of-Articulatory-in-Algabri-Mathkour/a5ea5585e53bd38cf447b2cfe0fcb55270a5a6a3)
 
+
 ### **(PDF) Speech Processing for Language Learning: A Practical Approach to Computer-Assisted Pronunciation Teaching
+
 
 ### **variable audio length in deep learning
 * [EESEN: END-TO-END SPEECH RECOGNITION USING DEEP RNN MODELS AND WFST-BASED DECODING](https://arxiv.org/pdf/1507.08240v3.pdf)
@@ -2994,6 +3154,7 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
 
 ## Papers / Journals
 
+
 ## NLP & Politics
     ”Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts”
 * ”Sentiment and position-taking analysis of parliamentary debates: a systematic literature review”
@@ -3091,9 +3252,12 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
 * [WikiMatrix Paper](https://openreview.net/forum?id=rkeYL1SFvH)
 * [WikiMatrix: Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia](https://openreview.net/forum?id=rkeYL1SFvH)
 
+
 ### **** Papers With Code : Intent Detection
 
+
 ### **** zhenwenzhang/BERT-SLU: Joint slot filling and intent classification using BERT.
+
 
 ### *Exploring Vector Spaces for Semantic Relations - ACL Anthology
 * [A Large Scale Evaluation of Distributional Semantic Models: Parameters, Interactions and Model Selection | Lapesa | Transactions of the Association for Computational Linguistics](https://transacl.org/ojs/index.php/tacl/article/view/457)
@@ -3115,10 +3279,13 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
 * [Visual Paper Summary: ALBERT (A Lite BERT)](https://amitness.com/2020/02/albert-visual-summary/)
 * [word2vec](https://arxiv.org/pdf/1411.2738.pdf)
 
+
 ### ** A Joint Model of Intent Determination and Slot Filling for Spoken Language Understanding
 * [Joint Slot Filling and Intent Detection via Capsule Neural Networks](https://www.aclweb.org/anthology/P19-1519.pdf)
 
+
 ### > ***Measuring the Evolution of a Scientific Field through Citation Frames
+
 
 ### > ***Purpose and Polarity of Citation: Towards NLP-based Bibliometrics
 * [[2002.12558] Modeling Future Cost for Neural Machine Translation](https://arxiv.org/abs/2002.12558)
@@ -3127,9 +3294,12 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
     PyTorch implementation of MultiModal Transformer (MMT), a method for multimodal (video + subtitle) captioning: https://github.com/jayleicn/TVCaption
     TVR: A Large-Scale Dataset for Video-Subtitle Moment Retrieval
 
+
 ### ***dair-ai/nlp_paper_summaries: ✍️ A carefully curated list of NLP paper summaries
 
+
 ### ***huggingface/awesome-papers: Papers & presentation materials from Hugging Face's internal science day
+
 
 ### *dair-ai/ml-nlp-paper-discussions: A repo containing notes and discussions for weekly NLP paper discussions
 * [[1911.03584] On the Relationship between Self-Attention and Convolutional Layers](https://arxiv.org/abs/1911.03584)
@@ -3168,11 +3338,14 @@ Possible to use separate model in loss function (ASR model)? Or necessary to use
     11a https://aclanthology.org/W16-2817/
     11b https://www.cambridge.org/core/journals/american-political-science-review/article/deliberative-democracy-in-an-unequal-world-a-textasdata-study-of-south-indias-village-assemblies/081C0A8F242D2C5273EBC60A4CCEFB73
 
+
 ## 
 * [lazyweb: Does anyone have recs for a really nicely written NLP review paper (ideally not on bert/transformers). It's not something we do so much as a community, but I would like to collect some examples.](https://twitter.com/srush_nlp/status/1270433763869286401?s=20)
 * https://jlm.ipipan.waw.pl/index.php/JLM
 
+
 ## Books
+
 
 ## TTS Books
     Computer Speech. Recognition, Compression, Synthesis
@@ -3196,12 +3369,14 @@ Real-World NLP
 * [Natural Language Data Management and Interfaces](http://library.lol/main/66479A204F148FF2F31D31164814A4D2)
 * [Natural Language Processing](https://b-ok.cc/s/?q=Natural+Language+Processing&yearFrom=2017)
 * [natural language processing](http://libgen.io/search.php?&req=natural+language+processing&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+
 Natural Language Processing and Text Mining
 * [Natural Language Processing for Social Media](http://library.lol/main/10FBD73C15D6D25D8776C08835E45040)
 * [Natural Language Processing Java](https://libgen.is/search.php?req=Natural+Language+Processing+Java&open=0&res=25&view=simple&phrase=1&column=def)
 * [NLP Python](https://libgen.is/search.php?req=NLP+Python&open=0&res=25&view=simple&phrase=1&column=def)
 * [NLP R](https://libgen.is/search.php?req=Natural+Language+Processing+R&open=0&res=25&view=simple&phrase=1&column=def)
 * [Fuzzy Information Retrieval](https://libgen.is/book/index.php?md5=3D497EF82EE7CE20B6DFE59BB5C25537)
+
 Grundlagen der Computerlinguistik (Hausser)
 * [Statistical Language Models for Information Retrieval](http://library.lol/main/72C1E001F3AAFE79CB936F044D5A6A33)
 * [The Epistemology of Intelligent Semantic Web Systems](http://library.lol/main/C503520BB7C6812A775BB76D703EBBB2)
@@ -3212,20 +3387,25 @@ Grundlagen der Computerlinguistik (Hausser)
 * [Automatic Text Simplification](http://library.lol/main/9508D3814ADA0DDFB0FEDF8F6029B9EB)
 * [Bayesian Analysis in Natural Language Processing](http://library.lol/main/60AE7BB0A607863CDE6D4ADC898A0812)
 * [Bayesian Analysis in Natural Language Processing](http://library.lol/main/66F8089A5A25473DA8554AC110371A59)
+
 Introduction to Arabic Natural Language Processing (Synthesis Lectures on Human Language Technologies)
 * [Introduction to Chinese Natural Language Processing](http://library.lol/main/2429F3D52DA3A7C143802320526B22AE)
 * [Natural Language Processing with TensorFlow](http://93.174.95.29/_ads/DDEC60F34ECA49B44C08C0EE6B4FA805)
 * [Search Methodologies_Edmund K. Burke, Graham Kendall_2nd ed. 2014](http://link.springer.com/openurl?genre=book&isbn=978-1-4614-6940-7)
 * [Semantic Similarity from Natural Language and Ontology Analysis](http://library.lol/main/3041D9AE650C31E1CFBEE8B97B5A9170)
+
 Automated Grammatical Error Detection for Language Learners
 * [Computational Methods for Integrating Vision and Language](http://library.lol/main/D4AF680A35031A41428940CC17D31ACC)
 * [Computerlinguistik und Sprachtechnologie: Eine Einführung (German Edition)](https://b-ok.cc/book/703869/8182f1)
 * [Cross-Lingual Word Embeddings](http://library.lol/main/DA997F3CB7E5AAF9BB1C274206E5619C)
+
 Digitaler Humanismus
 * [Discourse Processing](http://library.lol/main/AEE76AD053EB0F3C7B1BCC077D7F136D)
 * [Principles of Data Mining_MHanxnBuraKmarettrunen, Pekka Kröger,_3rd ed. 2016](http://link.springer.com/openurl?genre=book&isbn=978-1-4471-7307-6)
+
 Probabilistic Approaches to Recommendations
 * [Quality estimation for machine translation](http://library.lol/main/178A44544EABA66F6ED3F5D3C18B476B)
+
 Wissensverarbeitung und die Semantik der natürlichen Sprache
 * [Linguistic Structure Prediction (Synthesis Lectures on Human Language Technologies)](http://library.lol/main/C1E93B37DEF355F31520C92E30F7190F)
 * [Linked Lexical Knowledge Bases. Foundations and Applications](http://library.lol/main/5C261F119DE4B3E346432247EF936FAC)
@@ -3238,14 +3418,17 @@ Wissensverarbeitung und die Semantik der natürlichen Sprache
 * [Цифровая гуманитаристика: ресурсы, методы, исследования материалы Междунар. науч. конф. В 2 частях.rar](https://vk.com/doc525831385_509720511?hash=f0d9f51fb7cbde903a&dl=314274c6e3383d2465)
 * [Information Retrieval Evaluation](http://library.lol/main/78DB4C1452F3D3CDCD080A4A09D987BD)
 * [Knowledge Management_Klaus North, Gita Kumta_2nd ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-59978-6)
+
 Kompendium semantische Netze
 * [Metaphor. A Computational Perspective](http://library.lol/main/2BF9CBB6E78E944EEDCA4CA7F1DE9B7F)
 * [Multidimensional Mining of Massive Text Data](http://library.lol/main/4E406A97CD3DB4A6C7649E8F332E442C)
 * [Recommender Systems_Charu C. Aggarwal_1st ed. 2016](http://link.springer.com/openurl?genre=book&isbn=978-3-319-29659-3)
 * [Research Methods for the Digital Humanities_lewis levenberg, Tai Neilson, David Rheams_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-96713-4)
 * hands-On Natural Language Processing with Python (Rajesh Arumugam, Rajalingappaa Shanmugamani)
+
 Deep Learning Systems: Algorithms, Compilers, and Processors for Large-Scale Production
      * [Transfer Learning for Natural Language Processing](https://de.de1lib.org/book/16822179/54dd87)
+
 
 ## **Synthesis Lectures on Human Language Technologies ==>
 * [A Grammar Writer's Cookbook](http://libgen.rs/book/index.php?md5=F4F91E551E4C4F86A186C6F8EEA1C8AB)
@@ -3267,7 +3450,9 @@ Deep Learning Systems: Algorithms, Compilers, and Processors for Large-Scale Pro
 * [Essentials of Linguistics - Open Textbook Library](https://open.umn.edu/opentextbooks/textbooks/essentials-of-linguistics)
 * [FCA books](https://b-ok.cc/s/formal%20concept%20analysis)
 * [From Minimal Contrast to Meaning Construct: Corpus-based, Near Synonym Driven Approaches to Chinese Lexical Semantics | Qi Su, Weidong Zhan | download](https://b-ok.cc/book/5403168/8e196b)
+
 frontiers in computational semantics
+
 FSNLP
 * [FSNLP lesen](https://docs.google.com/spreadsheets/d/1YmQE_jrv-nyQiY6aalSvMb5yYZqPu9iOH5tsBoQtkyE/edit#gid=0)
 * [FSNLP Other Version](http://www.corpus.unam.mx/cursoenah/ManningSchutze_1999_FoundationsofStatisticalNaturalLanguageProcessing.pdf)
@@ -3281,7 +3466,9 @@ FSNLP
 * [Human Language Technology. Challenges for Computer Science and Linguistics | Zygmunt Vetulani, Joseph Mariani, Marek Kubis | download](http://b-ok.cc/book/3575998/2f0cc8)
 * [Introduction à la linguistique  contemporaine](https://drive.google.com/file/d/18aqnz0asee7X3Ky9emDFquYZ2Fju6FCc/view?usp=sharing)
 * [Jurafsky & Martin, Speech and Language Processing, 2nd Edition | Pearson | Resources](https://www.pearson.com/us/higher-education/program/Jurafsky-Speech-and-Language-Processing-2nd-Edition/PGM181706.html?tab=resources)
+
 Kurdi 1
+
 Kurdi 2
 * [Language-classified Open Subtitles (LACLOS): Download, extraction, and quality assessment ***](https://hal.archives-ouvertes.fr/hal-01083746/)
 * [Language, Cognition, and Computational Models | Thierry Poibeau, Aline Villavicencio | download](https://b-ok.cc/book/5394877/0dcf2b)
@@ -3306,6 +3493,7 @@ Kurdi 2
 * [Natural Language Processing and Computational Linguistics: Speech, Morphology and Syntax | Mohamed Zakaria Kurdi | download](http://b-ok.cc/book/2839436/b91f6c)
 * [Natural Language Processing and Information Systems | Max Silberztein, Faten Atigui, Elena Kornyshova, Elisabeth Métais, Farid Meziane | download](http://b-ok.cc/book/3575747/345f3b)
 * [Natural Language Processing in Action: Understanding, analyzing, and generating text with Python](http://libgen.rs/book/index.php?md5=DC168DF28D64176A28151CCEE6674D5A)
+
 Natural Language Processing with Python and spaCy: A Practical Introduction - Yuli Vasiliev (2020) | Natural Language Processing with Python and spaCy will show you how to create NLP applications like chatbots, text-condensing scripts, and order-processing tools quickly and easily. You'll learn how to leverage the spaCy library to extract meaning from text intelligently; how to determine the relationships between words in a sentence (syntactic dependency parsing); identify nouns, verbs, and other parts of speech (part-of-speech tagging); and sort proper nouns into categories like people, organizations, and locations (named entity recognizing). You'll even learn how to transform statements into questions to keep a conversation going.
 * [Natural Language Processing with Python and spaCy: A Practical Introduction [1 ed.]](http://libgen.rs/book/index.php?md5=6486160625CD6415415045F5E6AED837)
 * [Natural Language Processing with Python Cookbook (source code) | Krishna Bhavsar, Naresh Kumar, Pratap Dangeti | download](http://b-ok.cc/book/3437188/933741)
@@ -3315,6 +3503,7 @@ Natural Language Processing with Python and spaCy: A Practical Introduction - Yu
 * [Practical Text Mining with Perl](https://b-ok.cc/book/612429/3aaa03)
 * [Python Natural Language Processing: Advanced machine learning and deep learning techniques for natural language processing | Jalaj Thanaki | download](http://b-ok.cc/book/3606240/5b40d6)
 * [Real-World Natural Language Processing: Practical applications with deep learning [1 ed.]](http://libgen.rs/book/index.php?md5=E6C29621767AE14D4DBEC0C5E4E1C791)
+
 SLP
 * [SLP durchlesen](https://docs.google.com/spreadsheets/d/1QuIFPdJl9ZhciUuDkuKMI9msvhEs6BCdQdsdc9K1S-0/edit#gid=0)
 * [SLP Link](https://web.stanford.edu/~jurafsky/slp3/)
@@ -3335,6 +3524,7 @@ SLP
 * [Обработка естественного языка с TensorFlow: научите компьютер разговаривать, используя библиотеки глубокого обучения на языке Python](http://libgen.rs/book/index.php?md5=175FB991B7F19701BC243E1DF8EAB398)
 * [Обработка естественного языка. Python и spaCy на практике](http://libgen.rs/book/index.php?md5=AA866868FB29E8406483B9B22220A0DB)
 * [Подборка книг по обработке естественного языка :: Блог Вастрик.ру](https://vas3k.ru/blog/359/)
+
 parsing eine einführung
 * [semantics.pdf](https://www.cl.cam.ac.uk/teaching/1011/L107/semantics.pdf)
 * [The Proverbial "Pied Piper": A Festschrift Volume of Essays in Honor of ... - Google Книги](https://books.google.de/books?id=ct6t4TDce04C&pg=PA111&lpg=PA111&dq=Pavel+Kats+proverbs&source=bl&ots=BDrvM3in_b&sig=ACfU3U2-Dp7ElZoiQ3Yl74i6LgojnxO5PA&hl=ru&sa=X&ved=2ahUKEwih8r_BhNfnAhXJ_qQKHfhcB3AQ6AEwAHoECAkQAQ#v=onepage&q=Pavel%20Kats%20proverbs&f=false)
@@ -3345,21 +3535,34 @@ parsing eine einführung
 * [CL books](https://b-ok.cc/s/computational%20linguistics)
 * [lexical semantics books](https://b-ok.cc/s/lexical%20semantics)
 * [NLP books](https://b-ok.cc/s/natural%20language%20processing)
+
 Acoustic and Auditory Phonetics
+
 Speech Science Primer
+
 Statistical Pronunciation Modeling for Non-Native Speech Processing
 * [The IPA and the IPA That Created It](https://youtu.be/00pHrQo-0R4)
+
 The Audio Programming Book
+
 Mastering Audio
+
 Precis d'électro-acoustique
 * [acoustical phonetics: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/?q=acoustical+phonetics)
+
 Dictionary of Linguistics and Phonetics
+
 Articulatory Phonetics
+
 Comprehensive Articulatory Phonetics
+
 Elements of Acoustical Phonetics
+
 A Practical Introduction to Phonetics
+
 The Sounds of the World's Languages
 * handbook of Phonetic Sciences
+
 Text Mining: From Ontology Learning to Automated Text Processing Applications
 * [How to Do Linguistics with R](https://b-ok.cc/book/3391236/7a26c3)
 * [Wissensverarbeitung und die Semantik der natürlichen Sprache](https://b-ok.cc/book/1091487/ce4325)
@@ -3384,6 +3587,8 @@ Text Mining: From Ontology Learning to Automated Text Processing Applications
 * [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 * https://github.com/SpringerNLP
 * http://www.nltk.org/book/
+
 → ***** [books/nlp at master · shivamms/books](https://github.com/shivamms/books/tree/master/nlp)
+
 
 * [Contributing as a developer · Tatoeba/tatoeba2 Wiki](https://github.com/Tatoeba/tatoeba2/wiki/Contributing-as-a-developer)

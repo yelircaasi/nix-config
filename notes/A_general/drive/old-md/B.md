@@ -1,6 +1,8 @@
 # B
 
+
 ## A. General
+
 Appunti sulla filosofia orientale.gsheet
 
 New Dictionary of the History of Ideas Volume 1.pdf
@@ -19,17 +21,22 @@ Réviser son bac avec Le Monde. Philosophie.pdf
 
 Baudrillard multilingue.gsheet
 
+
 ## B. Metafísica
+
 ЛОГИКА.pdf
 
 ОСНОВЫ ЛОГИЧЕСКОЙ ТЕОРИИ АРГУМЕНТАЦИИ.pdf
 
 Теории и практика аргументации.pdf
 
+
 ## C. Epistemología
 ## D. Lógica
 ## E. Ética
+
 Die großen Fragen. Ethik
+
 
 ## F. Estética
 ## G. Áreas especializadas
@@ -38,6 +45,7 @@ Die großen Fragen. Ethik
 ### C. Filosofía de la mente
 ### D. Filosofía de la religión
 #### A. General
+
 Una historia de Dios.epub
 
 Analysis of Faith.gdoc
@@ -68,7 +76,9 @@ Enciclopedia delle religioni. Il pensiero- concezioni e simboli.pdf
 
 Словарь религии, обрядов и верований.pdf
 
+
 #### B. Teología
+
 Homosexuality. A Straight BYU Male's Perspective.pdf
 
 De man die God kende - christelijke spiritualiteit voor niet-ongelovigen.pdf
@@ -83,10 +93,13 @@ The Suffering of God and Man: A Theology Of Pain.pdf
 
 Тора для атеистов.fb2
 
+
 #### C. Estudio de las escrituras
+
 Recursos para estudio de las escrituras.gdoc
 
 Análisis de las escrituras
+
 1 Nephi →
 
 2 Nephi →
@@ -96,6 +109,7 @@ Exodus →
 Genesis →
 
 Memorización y conocimiento de las escrituras
+
 5 einfach.pdf
 
 AS →
@@ -143,7 +157,9 @@ todos.xlsx
 Арабські розділи.gsheet
 
 Rel A 122 →
+
 Trabajo 2011-2012
+
 0. References to Women in the Old Testament.gdoc
 
 1. References to Women in the Pentateuch.gdoc
@@ -156,7 +172,9 @@ Trabajo 2011-2012
 
 5. References to Women in the Minor Prophets of the Old Testament (Hosea - Mal.).gdoc
 
+
 #### D. Historia de la religión
+
 THE POSSESSIVE INVESTMENT IN RIGHTNESS. WHITE SUPREMACY AND THE MORMON MOVEMENT.pdf
 
 Plural Marriage and Mormon Fundamentalism.pdf
@@ -171,17 +189,22 @@ American Polygamy. A History of Fundamentalist Mormon Faith.pdf
 
 سيرة المصطفى والعشرة المبشرون بالجنة وصورمن حياة بعض الصحابة ( Биография Мустафы и десяти проповедников Рая)
 
+
 #### E. Religión práctica
+
 American Fascists.epub
 
 American Fascists.pdf
 
 Chris Hedges on Faith.pdf
 
+
 #### F. Religiones del mundo
+
 Buddhismus
 
 Christentum außer Mormonismus
+
 Ever-Changing Teachings of Jehovah's Witnesses.pdf
 
 Jesucristo y la Mitologia.pdf
@@ -189,6 +212,7 @@ Jesucristo y la Mitologia.pdf
 Quote on Dawkins and Christianity.txt
 
 Hinduismus
+
 Der Hinduismus.epub
 
 Hinduism. A Very Short Introduction.epub
@@ -200,6 +224,7 @@ The Hindu World.pdf
 The Vedas. An Introduction to Hinduism’s Sacred Texts.azw3
 
 Mormonismus
+
 LDS Philosophy
 
 Mormon Memes →
@@ -235,6 +260,7 @@ Why Mormons Leave.pdf
 Mormon Blogs, Mormon Studies, and the Mormon Mind.pdf
 
 Quinn
+
 D. Michael Quinn - Same-Sex Dynamics among Nineteenth-Century Americans_ A MORMON EXAMPLE (2001, University of Illinois Press).pdf
 
 D. Michael Quinn - The Mormon Hierarchy_ Extensions of Power (1997, Signature Books).pdf
@@ -247,7 +273,9 @@ Early Mormonism and the Magic World View (Quinn).pdf
 
 The Religions Book.pdf
 
+
 ## E. Filosofía de la ciencia
+
 Evolutionary Epistemology, Rationality, and the Sociology of Knowledge.pdf
 
 Logik der Forschung.pdf
@@ -260,16 +288,20 @@ Scientific Understanding. Philosophical Perspectives.pdf
 
 Азбука системного мышления.pdf
 
+
 ## F. Filosofía de la historia
 
 
 ## G. Filosofía de la matemática
+
 Erfahrung Mathematik.pdf
 
 Where Mathematics Comes From.pdf
 
+
 ## _Lectura
 ### Abortion
+
 Abortion Law and Political Institutions.pdf
 
 Abortion and Social Resonsibility.pdf
@@ -306,7 +338,9 @@ The Right to Life and its Limitations.pdf
 
 The Right-to-Life Movement, the Reagan Administration, and the Politics of Abortion.pdf
 
+
 ### Baudrillard
+
 Simulacra and Simulation.pdf
 
 Simulacres et simulation (RU).pdf
@@ -315,7 +349,9 @@ Simulacres et simulation.pdf
 
 Jean Baudrillard (Routledge Critical Thinkers).pdf
 
+
 ### Bertrand Russell
+
 Autoridad e individuo (Russell).pdf
 
 Bertrand Russell em 90 minutos.epub
@@ -372,10 +408,14 @@ Unser Wissen von der Außenwelt (Russell).pdf
 
 Éloge de l’oisiveté (Russell).pdf
 
+
 ### Chomsky
+
 Pour une éducation humaniste (Chomsky).epub
 
+
 ### Colección filosofía
+
 01. Platón. La verdad está en otra parte.pdf
 
 02. Nietzsche. El superhombre y la voluntad de poder.pdf
@@ -432,7 +472,9 @@ Pour une éducation humaniste (Chomsky).epub
 
 29. Leibniz. En el mejor de los mundos posibles.pdf
 
+
 ### Eco
+
 A passo di gambero. Guerre calde e populismo mediatico (Eco).pdf
 
 Come si fa una tesi di laurea (Eco).pdf
@@ -511,7 +553,9 @@ Trattato di semiotica generale (Eco).epub
 
 Umberto Eco - Opera aperta. Forma e indeterminazione nelle poetiche contemporanee.epub
 
+
 ### Foucault
+
 Anthologie (Foucault).epub
 
 Dits et Écrits I. 1954-1969 (Foucault).epub
@@ -532,7 +576,9 @@ L'ordre du discours (Foucault).epub
 
 Surveiller et punir (Foucault).pdf
 
+
 ### Free Will
+
 Living without Free Will
 
 Cuatro perspectivas sobre la libertad
@@ -589,7 +635,9 @@ The Psychology of Freedom (Pink).pdf
 
 Thinking about Free Will (van Inwagen).pdf
 
+
 ### John Gray
+
 Black Mass.epub
 
 Conservadurismo británico contemporáneo: John Gray y la teoría política del modus vivendi.pdf
@@ -648,7 +696,9 @@ El silencio de los animales - sobre el progreso y otros mitos modernos
 
 The Two Faces of Liberalism.pdf
 
+
 ### Le vocabulaire de philosophie
+
 Vocabulaire Foucault.pdf
 
 Vocabulaire de Bergson.pdf
@@ -677,7 +727,9 @@ Vocabulaire grec de la philosophie.pdf
 
 Vocabulaire of Deleuze.pdf
 
+
 ### Leopardi
+
 El pensamiento infinito (Leopardi).pdf
 
 Misterio grande. Filosofia di Giacomo Leopardi.pdf
@@ -692,7 +744,9 @@ Zibaldone di pensieri.pdf
 
 Zibaldone.gsheet
 
+
 ### Nietzsche
+
 Ainsi parlait Zarathustra (Nietzsche).pdf
 
 Nietzsche (Zweig).epub
@@ -701,7 +755,9 @@ Nietzsche et Artaud.pdf
 
 Nietzsche-Wörterbuch.pdf
 
+
 ### Nussbaum
+
 Crear capacidades. Propuesta para el desarrollo humano (Nussbaum).epub
 
 El cultivo de la humanidad. Una defensa clásica de la reforma de la educación liberal (Nussbaum).epub
@@ -718,7 +774,9 @@ Sin fines de lucro. Por qué la democracia necesita de las humanidades (Nussbau
 
 Не ради прибыли (Nussbaum).pdf
 
+
 ### Onfray
+
 Ars moriendi (Onfray).epub
 
 Cynismes (Onfray).epub
@@ -735,8 +793,10 @@ Le saggezze antiche (Onfray).pdf
 
 Penser l'Islam (Onfray).epub
 
+
 ### Originaltexte
 ### Philosophie (Bücher für Uni-Kurse)
+
 Philosophical Ethics. An Historical And Contemporary Introduction.pdf
 
 A Companion to Metaphysics.pdf
@@ -945,7 +1005,9 @@ Word and Object.pdf
 
 Герменевтика и теория литературы.pdf
 
+
 ### Popper
+
 Auf der Suche nach einer besseren Welt.pdf
 
 Die offene Gesellschaft und ihre Feinde. Band 1. Der Zauber Platons.pdf
@@ -970,10 +1032,14 @@ Rivoluzione o riforme. Un confronto.pdf
 
 U potrazi za boljim svijetom. Predavanja i napisi iz trideset godina.pdf
 
+
 ### Qohelet
+
 The book of Ecclesiastes (Qohelet) and the path to joyous living.pdf
 
+
 ### Taleb
+
 1) Narren des Zufalls.epub
 
 1) Narren des Zufalls.pdf
@@ -1028,7 +1094,9 @@ Taleb the Philosopher.pdf
 
 The Statistical Consequences of Fat Tails (Taleb).pdf
 
+
 ### Zizek
+
 A New German Idealism. Hegel, Žižek, and Dialectical Materialism.pdf
 
 A Žižekian Gaze at Education.pdf
@@ -1077,7 +1145,9 @@ Viviendo en el final de los tiempos.pdf
 
 Žižek. A (Very) Critical Introduction.pdf
 
+
 ### Libros editorial Ariel (epub)
+
 Érase una vez. Una historia alternativa de la felicidad.epub
 
 Ética - Norbert Bilbeny.epub

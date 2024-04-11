@@ -1,18 +1,28 @@
 # D
 
+
 ## Projects
 
 1. Sort ‘Reading’
+
 2. Sort ‘Relativitätstheorie’
+
 3. Sort ‘Books’
+
 4. Sort ‘Reading (2)’
+
 5. Sort ‘Reading (3)’
+
 6. Sort ‘Reading (4)’
+
 7. Sort ‘Reading (5)’
+
 8. Sort ‘Reading (6)’
+
 9. Sort ‘Media’
 
-- Reading
+
+* Reading
 * [What is Jacobian? | The right way of thinking derivatives and integrals - YouTube](https://www.youtube.com/watch?v=wCZ1VEmVjVo)
 * [A concrete introduction to higher algebra](http://library.lol/main/EF9EB5227F4D4CA982E17006174511B8)
 * https://mathspp.com/
@@ -40,14 +50,14 @@
 * [Mechanics explained in seven pages](https://minireference.com/static/tutorials/mech_in_7_pages.pdf)
 * [Finden wir die Weltformel? | 42 - Die Antwort auf fast alles | ARTE](https://youtu.be/kgIveNzZrKw)
 * https://en.wikipedia.org/wiki/Lists_of_important_publications_in_science* 
-- Relativitätstheorie
+* Relativitätstheorie
 * http://echo.mpiwg-berlin.mpg.de/ECHOdocuView?url=/permanent/echo/einstein/sitzungsberichte/199SW1KB/index.meta&pn=1
 * http://www.sueddeutsche.de/wissen/jahre-relativitaetstheorie-dellen-in-der-raumzeit-1.2664283
 * http://www.quantenwelt.de/klassisch/relativ/art.html
 * https://de.wikipedia.org/wiki/Allgemeine_Relativit%C3%A4tstheorie
 * http://www.einstein-online.info/einsteiger/allgRT
 * http://www.spektrum.de/lexikon/physik/allgemeine-relativitaetstheorie/383* 
-- Books
+* Books
 * [Teorías de la personalidad](http://libgen.rs/search.php?&req=gregory+feist&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 * Zukunft und Wissenschaft: Wege und Irrwege der Forschung
 * Wissenschaftstheorie und Wissenschaftliches Arbeiten
@@ -239,7 +249,7 @@
 * [Альберт Эйнштейн. Мир, каким я его вижу.docx](https://vk.com/doc270365827_384056654?hash=fc18de2244e6ab8614&dl=236ffd45980a39c7c9)
 * [Джордж Джонсон. Десять самых красивых экспериментов в истории науки.pdf](https://vk.com/doc-74992645_437420198?hash=f2f4c6f42652e9b4c6&dl=310b267d800b6c19bc)
 * [Квантовая механика | Квантовая физика | Physics.Math.Code.Books](https://vk.com/topic-51126445_38398324)* 
-- Reading (2)
+* Reading (2)
 * [Teoría del Caos hacia el conocimiento de la realidad-REPORTAJES-DIVULGACIÓN CIENTIFICA](http://www.iac.es/gabinete/difus/ciencia/silbia/caos.htm)
 * The Astonishing Simplicity of Everything - Neil Turokde Space And Intelligence
 * [The Hidden Side of People | Science of People](https://www.scienceofpeople.com/hidden-side-people/)
@@ -510,7 +520,7 @@
 * [Химия вокруг нас](http://lektorium.tv/chemistry)
 * [Введение в статистическую теорию поля](https://www.youtube.com/watch?v=brfyf4RLwr0&list=PL-_cKNuVAYAVixq6J3GadyVWo5RyaIyR6)
 * [FísicayMates - YouTube](https://www.youtube.com/channel/UCfgu_JqiVTJwEMDPrZmhHgA)* 
-- Reading (3)
+* Reading (3)
 * [Thinking Physics: Practical Lessons in Critical Thinking | Lewis Carroll Epstein | download](https://b-ok.cc/book/2221360/f48e56)
 * [Комбинаторика многогранников](https://www.youtube.com/watch?v=R0p0V5RKsp4&list=PL-_cKNuVAYAW2nwKFmoSkadyUifPSbNBA)
 * [Комбинаторика слов и ее приложения](https://www.youtube.com/watch?v=jmowTApRhR0&list=PL-_cKNuVAYAVilQvx3sQ4oLFlmh9b59I8)
@@ -694,7 +704,7 @@
 * [Steven Pinker](https://stevenpinker.com/)
 * [Steven Pinker — Wikipédia](https://fr.wikipedia.org/wiki/Steven_Pinker)
 * [Summary and reviews of Why Evolution Is True by Jerry A. Coyne](https://www.bookbrowse.com/bb_briefs/detail/index.cfm/ezine_preview_number/3486/why-evolution-is-true)* 
-- Reading (4)
+* Reading (4)
 * [Standard Model (graphic)](https://i.redd.it/mz2zenqyu0g41.jpg)
 * [Cien preguntas básicas sobre la ciencia](https://en.de1lib.org/book/1058942/43d49c)
 * [Das Buch der Klänge: Eine Reise zu den akustischen Wundern der Welt [1 ed.]](http://libgen.is/book/index.php?md5=BF978CA51F60466F4C7C8E2123F0D7D9)
@@ -781,7 +791,7 @@
 * [Сивухин Д.В. Общий курс физики. Том 3. Электричество. 2004.djvu](https://vk.com/doc44301783_471968376?hash=410e24d0045b07482e&dl=cb016ee7fe6e213984)
 * [Сивухин Д.В. Общий курс физики. Том 4. Оптика. 2005.djvu](https://vk.com/doc44301783_471968378?hash=35c8bd87c0b84185cc&dl=c884b0991c9c99bc22)
 * [Сивухин Д.В. Общий курс физики. Том 5. Атомна и ядерная физика. 2002.djvu](https://vk.com/doc44301783_471968382?hash=808cfb0412836ac5a2&dl=5728b98af3c03219c6)* 
-- Reading (5)
+* Reading (5)
 * [Взламывая квантовую физику](https://vk.com/doc44301783_619922240?hash=aafe2d6646c2cde151&dl=aa75b8fa784a4fca37)
 * https://cmtscience.ru/
 * https://www.youtube.com/results?search_query=if+you+don%27t+understand+quantum+physics+try+this
@@ -847,7 +857,7 @@
 * http://www.thedailybeast.com/articles/2015/11/13/this-is-how-ak-47s-get-to-paris.html
 * https://en.wikipedia.org/wiki/Genital_modification_and_mutilation
 * https://en.wikipedia.org/wiki/The_Negro_Family:_The_Case_For_National_Action* 
-- Reading (6)
+* Reading (6)
 * http://wbgu.de/
 * сводочный проект для ак. письма, ак. статей: какие имеются выводы?
 * How can the transformation from matter to energy be irreversible? Is there an infinite amount of matter in the universe? (B21)
@@ -918,7 +928,7 @@
 * http://www.cmcc.it/it/
 * http://www.unep.org/arabic/
 * http://beeah.ae/?lang=ar* 
-- Media* - multi*     
+* Media* - multi*     
 * [Yuval Noah Harari](http://www.ynharari.com/)*     
 * [Scientific American - International Editions](http://www.scientificamerican.com/page/international/)*     
 * [Inosmi Science](https://inosmi.ru/science/)*     

@@ -1,85 +1,88 @@
 # Non-Nix Dotfiles
+
 * [unixporn-dots.github.io](https://unixporn-dots.github.io/)
 
 ## Single-app
-* [alphaTechnolog eww](https://github.com/AlphaTechnolog/eww-dotfiles) - * [testertech eww](https://github.com/TesterTech/eww-from-scratch [video](https://www.youtube.com/watch?v=rYlXF722RNw) - * [deepaknegilachu](https://codeberg.org/deepaknegilachu/.dotfiles - yambar) - 
+* [alphaTechnolog eww](https://github.com/AlphaTechnolog/eww-dotfiles) 
+* [testertech eww](https://github.com/TesterTech/eww-from-scratch [video](https://www.youtube.com/watch?v=rYlXF722RNw) 
+* [deepaknegilachu](https://codeberg.org/deepaknegilachu/.dotfiles - yambar) - 
 
 ## Raw - to sort
-* https://github.com/ronardnx/nix_config
-* https://github.com/end-4/dots-hyprland
-* https://github.com/joepigott/dots
-* https://github.com/zmeyka3310/dotfiles-hyprland
-* https://gitlab.com/null4833902/nixos
-* https://github.com/SsubezZ/hyprland-dots
-* https://github.com/arvigeus/nixos-config
-* https://www.reddit.com/r/unixporn/s/lh3AC4F8zE 
-* https://github.com/AymanLyesri/hyprland-conf
-* https://github.com/Frost-Phoenix/nixos-config
-* https://github.com/WhiteBlackGoose/dotfiles
-* https://github.com/Codesmith28/archConfig 
-* https://codeberg.org/alpraz/dotfiles
-* https://github.com/koiyae/dotfiles-blue.git
-* https://github.com/welpyes/welpyes-dotfiles
-* https://github.com/Maulve/dotfiles
-* https://gitlab.com/stephan-raabe/dotfiles
-* https://www.reddit.com/r/unixporn/comments/1btyy6k/hyprland_green/ great color ideas
-* https://github.com/Haruno19/dotfiles
-* https://www.reddit.com/r/unixporn/comments/1bt8r0u/hyprland_first_attempt_at_ricing_i_used_ml4w_and/
-* https://github.com/Sly-Harvey/NixOS
-* https://github.com/IAmCall3/OBdotfiles
-* https://git.disroot.org/kaoxk27/labwc-dots
-* https://github.com/SeyfullahGundogdu/nixos-config
-* https://www.reddit.com/r/unixporn/comments/1bsw96y/2_years_later_swaywm/ nixos
-* https://www.reddit.com/r/unixporn/comments/1bsfi34/i3_then_hyprland/
-* https://github.com/andofwinds/simple_hyprland_conf
-* https://github.com/Clepnicx/dotfiles
-* https://github.com/Sly-Harvey/NixOS
-* https://github.com/greatbot6120/yellowarch
-* https://github.com/Jovian-Experiments/Jovian-NixOS
-* https://github.com/gpskwlkr/nixos-hyprland-flake
-* https://github.com/S4NKALP/hyprland
-* https://github.com/Leerv474/.dotfiles
-* https://github.com/gh0stzk/dotfiles
-* https://github.com/koiyae/dotfiles
-* https://github.com/yurihikari/garuda-sway-config
-* https://gitlab.com/jjba-projects/dotfiles/-/blob/master/nix/nixos/users/joe/hyprland.nix?ref_type=heads
-* https://github.com/xiro-codes/dotfiles.v2.nix
-* https://github.com/julius-boettger/dotfiles
-* https://github.com/ksenia-portu/flake
-* https://github.com/wick3dr0se/dots
-* https://github.com/mathix420/dotfiles
-* https://gitlab.com/jjba-projects/dotfiles/-/blob/master/nix/nixos/users/joe/hyprland.nix?ref_type=heads
-* https://github.com/Jovian-Experiments/Jovian-NixOS
-* https://github.com/rice-cracker-dev/nixos-config/tree/main/modules
-* https://github.com/yusamock/dotfiles
-* https://github.com/jekor/.config
-* https://github.com/abc123id/dots
-* https://github.com/Cybersnake223/Hypr
-* https://github.com/niksingh710/gdots
-* https://github.com/pineedaa/dotfiles/tree/master
-* https://github.com/JaKooLit/Hyprland-Dots
-* https://github.com/d4yr41n/dotfiles
-* https://github.com/divu050704/dots
-* https://github.com/Maulve/dotfiles
-* https://github.com/eh8/chenglab
-* https://github.com/WinterSunset95/conky
-* https://github.com/Fuxino/dotfiles
-* https://github.com/varikvalefor/personalconfig
-* https://github.com/wick3dr0se/dots
-* [(1) NixOS My Own Setup A to Z (Goshs desktop) - YouTube](ghttps://www.youtube.com/watch?v%3DMb5lIu_o6tQ)
-* [.files/HWD_Lenovo/etc/nixos at 9cced3edfa1ae0286fb0c22fa2dbe8828716a0e7 · mudrii/.files](ghttps://github.com/mudrii/.files/tree/9cced3edfa1ae0286fb0c22fa2dbe8828716a0e7/HWD_Lenovo/etc/nixos)
+* [](https://github.com/tasnimAlam/dot-files)
+* [](https://github.com/prasanthrangan/hyprdots)
+* [](https://github.com/Spelljinxer/dotfiles)
+* [](https://github.com/faizan-20/.dotfiles)
+* [](https://github.com/MubinMuhammad/MinimalSwayFX)
+* [](https://github.com/Darrkhan/VoidLinux-dotfiles/tree/Hyprland)
+* [](https://github.com/Abhra00/dotfiles)
+* [](https://www.youtube.com/@mylinuxforwork)
+* [](https://gitlab.com/stephan-raabe/dotfiles)
+* [](https://github.com/tasath26/dotfiles)
+* [](https://github.com/andofwinds/Fcfg)
+* [](https://github.com/prasanthrangan/hyprdots)
+* [](https://github.com/Pyramorphix/Arch-dotfiles)
+* [](https://github.com/tymscar/dotfiles)
+* [](https://codeberg.org/gksudo/dot)
+* [](https://github.com/vicky-dot-bat/archvillainette-dotfiles-pub)
+* [](https://gitlab.com/jjba-projects/dotfiles)
+* [](https://codeberg.org/SansDOTSH/dotfiles)
+* []9https://github.com/Jsinisin/Figs)
+* [iluvgirlswithglasses](https://github.com/iluvgirlswithglasses/dotfiles)
+* [ronasimi](https://github.com/ronasimi/dotfiles/tree/t490)
+* [oak](https://codeberg.org/oak/dots/) [dwl fork](https://codeberg.org/oak/dwl)
+* [end-4](https://github.com/end-4/dots-hyprland)
+* [joepigott](https://github.com/joepigott/dots)
+* [zmeyka3310](https://github.com/zmeyka3310/dotfiles-hyprland)
+* [SsubezZ](https://github.com/SsubezZ/hyprland-dots)
+* [codingjerk](https://github.com/codingjerk/dotfiles)
+* [AymanLyesri](https://github.com/AymanLyesri/hyprland-conf)
+* [WhiteBlackGoose](https://github.com/WhiteBlackGoose/dotfiles)
+* [Codesmith28](https://github.com/Codesmith28/archConfig )
+* [alpraz](https://codeberg.org/alpraz/dotfiles)
+* [koiyae](https://github.com/koiyae/dotfiles-blue.git)
+* [welpyes](https://github.com/welpyes/welpyes-dotfiles)
+* [Maulve](https://github.com/Maulve/dotfiles)
+* [stephan-raabe](https://gitlab.com/stephan-raabe/dotfiles)
+* [?](https://www.reddit.com/r/unixporn/comments/1btyy6k/hyprland_green/) great color ideas
+* [Haruno19](https://github.com/Haruno19/dotfiles)
+* [IAmCall3](https://github.com/IAmCall3/OBdotfiles)
+* [kaoxk27](https://git.disroot.org/kaoxk27/labwc-dots)
+* [levizor hyprland](https://github.com/Levizor/dotfiles_hyprland)
+* [levizor i3](https://github.com/Levizor/dotfiles_i3)
+* [andofwinds](https://github.com/andofwinds/simple_hyprland_conf)
+* [Clepnicx](https://github.com/Clepnicx/dotfiles)
+* [greatbot6120](https://github.com/greatbot6120/yellowarch)
+* [S4NKALP](https://github.com/S4NKALP/hyprland)
+* [Leerv474](https://github.com/Leerv474/.dotfiles)
+* [gh0stzk](https://github.com/gh0stzk/dotfiles)
+* [koiyae](https://github.com/koiyae/dotfiles)
+* [yurihikari](https://github.com/yurihikari/garuda-sway-config)
+* [julius-boettger](https://github.com/julius-boettger/dotfiles)
+* [ksenia-portu](https://github.com/ksenia-portu/flake)
+* [wick3dr0se](https://github.com/wick3dr0se/dots)
+* [mathix420](https://github.com/mathix420/dotfiles)
+* [yusamock](https://github.com/yusamock/dotfiles)
+* [jekor](https://github.com/jekor/.config)
+* [abc123id](https://github.com/abc123id/dots)
+* [Cybersnake223](https://github.com/Cybersnake223/Hypr)
+* [niksingh710](https://github.com/niksingh710/gdots)
+* [pineedaa](https://github.com/pineedaa/dotfiles/tree/master)
+* [JaKooLit](https://github.com/JaKooLit/Hyprland-Dots)
+* [d4yr41n](https://github.com/d4yr41n/dotfiles)
+* [divu050704](https://github.com/divu050704/dots)
+* [Maulve](https://github.com/Maulve/dotfiles)
+* [eh8](https://github.com/eh8/chenglab)
+* [WinterSunset95](https://github.com/WinterSunset95/conky)
+* [Fuxino](https://github.com/Fuxino/dotfiles)
+* [varikvalefor](https://github.com/varikvalefor/personalconfig)
+* [wick3dr0se](https://github.com/wick3dr0se/dots)
 * [About Dotfiles - Dotfiles (UK)](ghttps://dotfiles.io/about/)
-* [BrodieRobertson/dotfiles: Brodie's dotfiles](https://github.com/BrodieRobertson/dotfiles)
-* [JordanFaust/dotfiles](ghttps://github.com/JordanFaust/dotfiles)
-* [MatthiasBenaets/nixos-config: My Personal Nix, NixOS and Nix-Darwin System Configuration Flake](https://github.com/MatthiasBenaets/nixos-config)
-* [Miguel-Gotor/dotfiles: My distro-agnostic Linux dotfiles](https://github.com/Miguel-Gotor/dotfiles)
-* [NobbZ/nixos-config](https://github.com/NobbZ/nixos-config)
-* [ProxyVT/nixos-system](ghttps://github.com/ProxyVT/nixos-system/tree/main)
-* [RGBCube/NixOSConfiguration at 050c0bc884bcbb0d0aa75d6c8ac1448484473e81](ghttps://github.com/RGBCube/NixOSConfiguration/tree/050c0bc884bcbb0d0aa75d6c8ac1448484473e81)
-* [Shentxt/NordicBreeze: My custom bspwm configuration. Read the readme for more information and comment if you have any questions.](ghttps://github.com/Shentxt/NordicBreeze)
+* [BrodieRobertson](https://github.com/BrodieRobertson/dotfiles)
+* [JordanFaust](ghttps://github.com/JordanFaust/dotfiles)
+* [Miguel-Gotor](https://github.com/Miguel-Gotor/dotfiles)
+* [Shentxt/NordicBreeze](ghttps://github.com/Shentxt/NordicBreeze)
 * [SpreadiesInSpace/cinnamon-dotfiles: Dots for a person who is WAY too addicted to the Cinnamon DE and Gruvbox Theme](ghttps://github.com/SpreadiesInSpace/cinnamon-dotfiles)
-* [Traap/dotfiles: My dotfiles re-born.](https://github.com/Traap/dotfiles)
-* [Xe/nixos-configs: My NixOS configs](https://github.com/Xe/nixos-configs)
+* [Traap](https://github.com/Traap/dotfiles)
 * [AwesomeWM doing something awesome : r/unixporn](ghttps://www.reddit.com/r/unixporn/comments/1azyh3b/awesomewm_doing_something_awesome/)
 * [Qtile First Rice :) : r/unixporn](ghttps://www.reddit.com/r/unixporn/comments/1b224gw/qtile_first_rice/)
 * [SwayFX Minimal and Immutable Nord with Fedora Sericea : r/unixporn](ghttps://www.reddit.com/r/unixporn/comments/1b0uvwg/swayfx_minimal_and_immutable_nord_with_fedora/)
@@ -88,201 +91,185 @@
 * [hyprland so, the future is the reproduciability? : r/unixporn](ghttps://www.reddit.com/r/unixporn/comments/1b0w6do/hyprland_so_the_future_is_the_reproduciability/)
 * [ageldama/configs: ageldama's configs.](https://github.com/ageldama/configs)
 * [anufrievroman/dotfiles: Personal dotfiles](https://github.com/anufrievroman/dotfiles)
-* [balsoft/nixos-config: Mirror of](https://github.com/balsoft/nixos-config)
+
 * [bbenzikry/dotfiles](ghttps://github.com/bbenzikry/dotfiles)
 * [cadadr/configuration: My configs: OS setups, dotfiles, scripts and more.](https://github.com/cadadr/configuration)
-* [donovanglover/nix-config: My NixOS configuration with Nix Flakes, Home Manager, Stylix, and Hyprland.](https://github.com/donovanglover/nix-config)
+
 * [dotfiles/README.md at c5f9152e3997a36e2af8ae5b09488711577ff4fd · davidarrieta/dotfiles](https://github.com/davidarrieta/dotfiles/blob/c5f9152e3997a36e2af8ae5b09488711577ff4fd/README.md?plain%3D1%23L14)
 * [dotfiles/config/starfarm/tags.yaml at 2bc73af4486c3a51c9f070e35929e814fec46b40 · fhill2/dotfiles](https://github.com/fhill2/dotfiles/blob/2bc73af4486c3a51c9f070e35929e814fec46b40/config/starfarm/tags.yaml%23L40)
-* [dotfiles/home at main · Anomalocaridid/dotfiles](ghttps://github.com/Anomalocaridid/dotfiles/tree/main/home)
-* [dotfiles/home/nyxt.nix at main · Anomalocaridid/dotfiles](ghttps://github.com/Anomalocaridid/dotfiles/blob/main/home/nyxt.nix)
+
 * [dotfiles/pkgs at main · Anomalocaridid/dotfiles](ghttps://github.com/Anomalocaridid/dotfiles/tree/main/pkgs)
 * [dotfiles/stow/scripts/dot-local/bin/dotfiles-fm at 3e67d5c0a863acdce56957b3f33c2cee0957a84e · oncomouse/dotfiles](https://github.com/oncomouse/dotfiles/blob/3e67d5c0a863acdce56957b3f33c2cee0957a84e/stow/scripts/dot-local/bin/dotfiles-fm%23L6)
-* [dustinlyons/nixos-config: Nix configuration for MacOS / NixOS + starter templates and step-by-step guides ✨](https://github.com/dustinlyons/nixos-config)
+
 * [end-4/dots-hyprland: Modern, AI-ready and accessible desktop configuration.](ghttps://github.com/end-4/dots-hyprland)
-* [erictossell/nixflakes: My nixdots, but flaked.](ghttps://github.com/erictossell/nixflakes)
+
 * [erikdubois/Archi3: Automated script to install i3 and all its programs on Arch Linux](https://github.com/erikdubois/Archi3)
-* [gvolpe/nix-config: :space_invader: NixOS configuration](https://github.com/gvolpe/nix-config)
-* [https://code.balsoft.ru/balsoft/nixos-config](https://code.balsoft.ru/balsoft/nixos-config)
-* [https://codeberg.org/argosatcore/Deb_Dots](ghttps://codeberg.org/argosatcore/Deb_Dots) blank slate config
-* [https://codeberg.org/argosatcore/Deb_Dots](https://codeberg.org/argosatcore/Deb_Dots)
-* [https://codeberg.org/rs221122/dotfiles](https://codeberg.org/rs221122/dotfiles)
-* [https://codeberg.org/tobiaisu/hyprland-dotfiles](https://codeberg.org/tobiaisu/hyprland-dotfiles)
-* [https://codeberg.org/zxen-xi/old-nixos-config](https://codeberg.org/zxen-xi/old-nixos-config)
+
+* [argosatcore/Deb_Dots](ghttps://codeberg.org/argosatcore/Deb_Dots) blank slate config
+* [argosatcore/Deb_Dots](https://codeberg.org/argosatcore/Deb_Dots)
+* [rs221122/dotfiles](https://codeberg.org/rs221122/dotfiles)
+* [tobiaisu/hyprland-dotfiles](https://codeberg.org/tobiaisu/hyprland-dotfiles)
+
 * [https://end-4.github.io/dots-hyprland-wiki/en/](https://end-4.github.io/dots-hyprland-wiki/en/)
-* [https://gist.github.com/Luh-code/57cf19c27257bf0542b3ff3a7db29432](https://gist.github.com/Luh-code/57cf19c27257bf0542b3ff3a7db29432) waybar
-* [https://gist.github.com/soulhotel/bf890d7023636ecfeca3db6690a9fd2e](https://gist.github.com/soulhotel/bf890d7023636ecfeca3db6690a9fd2e)
-* [https://github.com/AhmedSaadi0/my-hyprland-config](https://github.com/AhmedSaadi0/my-hyprland-config)
-* [https://github.com/AlphabetsAlphabets/dotfiles](https://github.com/AlphabetsAlphabets/dotfiles)
-* [https://github.com/Axenide/Dotfiles](https://github.com/Axenide/Dotfiles)
-* [https://github.com/Aylur/dotfiles?tab=readme-ov-file](https://github.com/Aylur/dotfiles?tab%3Dreadme-ov-file)
-* [https://github.com/Barbaross93/Nebula](https://github.com/Barbaross93/Nebula)
-* [https://github.com/BirdeeHub/birdeeSystems/blob/main/systems%2FPCs%2FPCs.nix](ghttps://github.com/BirdeeHub/birdeeSystems/blob/main/systems%252FPCs%252FPCs.nix)
-* [https://github.com/Chrono00/Hypr-is-not-Land](https://github.com/Chrono00/Hypr-is-not-Land)
-* [https://github.com/Cilde/hyprconf](https://github.com/Cilde/hyprconf)
-* [https://github.com/Coopydood/HyperFluent-GRUB-Theme](https://github.com/Coopydood/HyperFluent-GRUB-Theme)
-* [https://github.com/Cybersnake223/Hypr](https://github.com/Cybersnake223/Hypr)
-* [https://github.com/Cybersnake223/Hypr](https://github.com/Cybersnake223/Hypr)
-* [https://github.com/Cybersnake223/Hypr](https://github.com/Cybersnake223/Hypr)
-* [https://github.com/Cybersnake223/Hypr](https://github.com/Cybersnake223/Hypr)
-* [https://github.com/Cybersnake223/Hypr](https://github.com/Cybersnake223/Hypr) hyprland
-* [https://github.com/EC2854/Hyprland-Dots](ghttps://github.com/EC2854/Hyprland-Dots)
-* [https://github.com/Elkip/dotfiles](https://github.com/Elkip/dotfiles)
-* [https://github.com/Elkip/dotfiles](https://github.com/Elkip/dotfiles)
-* [https://github.com/Facundo-c-c/labwc-solus-dotefiles](https://github.com/Facundo-c-c/labwc-solus-dotefiles)
-* [https://github.com/Flrian/dotfiles-public/tree/main/.config%2Ffastfetch](https://github.com/Flrian/dotfiles-public/tree/main/.config%252Ffastfetch)
-* [https://github.com/Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config)
-* [https://github.com/Fustigate8933/dotfiles](https://github.com/Fustigate8933/dotfiles)
-* [https://github.com/Genograche/Archlinuxhyprdots](https://github.com/Genograche/Archlinuxhyprdots)
-* [https://github.com/GixoXYZ/HyprlandDotFiles](https://github.com/GixoXYZ/HyprlandDotFiles)
-* [https://github.com/GixoXYZ/HyprlandDotFiles](https://github.com/GixoXYZ/HyprlandDotFiles)
-* [https://github.com/Gwynsav/gwileful](ghttps://github.com/Gwynsav/gwileful)
-* [https://github.com/Haruzona/penguinDotfiles](https://github.com/Haruzona/penguinDotfiles)
-* [https://github.com/Hiltson87/NewVegasDots](ghttps://github.com/Hiltson87/NewVegasDots)
-* [https://github.com/ItsProfessional/dotfiles](ghttps://github.com/ItsProfessional/dotfiles)
-* [https://github.com/ItsProfessional/dotfiles](https://github.com/ItsProfessional/dotfiles)
-* [https://github.com/JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots)
-* [https://github.com/JackDerksen/tmux](https://github.com/JackDerksen/tmux)
-* [https://github.com/Lenny0939/Nix-Config](ghttps://github.com/Lenny0939/Nix-Config)
-* [https://github.com/MrVivekRajan/Hypr-Dots](https://github.com/MrVivekRajan/Hypr-Dots)
-* [https://github.com/MubinMuhammad/MinimalSwayFX](https://github.com/MubinMuhammad/MinimalSwayFX)
-* [https://github.com/MubinMuhammad/MinimalSwayFX](https://github.com/MubinMuhammad/MinimalSwayFX)
-* [https://github.com/Narmis-E/hyprland-dots](https://github.com/Narmis-E/hyprland-dots)
-* [https://github.com/NaturePixels/Space-Theme-dotfiles](ghttps://github.com/NaturePixels/Space-Theme-dotfiles)
-* [https://github.com/NespoliBT/.dotfiles](ghttps://github.com/NespoliBT/.dotfiles) - ags
-* [https://github.com/NormalNvim/NormalNvim](https://github.com/NormalNvim/NormalNvim)
-* [https://github.com/OpenSauce04/sway-dotfiles](https://github.com/OpenSauce04/sway-dotfiles)
-* [https://github.com/OpenSauce04/waybar-dotfiles](https://github.com/OpenSauce04/waybar-dotfiles)
-* [https://github.com/OsiNubis99/dotFiles](https://github.com/OsiNubis99/dotFiles)
-* [https://github.com/RaulMurillo/dotfiles-gui](ghttps://github.com/RaulMurillo/dotfiles-gui)
-* [https://github.com/S4NKALP/hyprland](https://github.com/S4NKALP/hyprland)
-* [https://github.com/SSKT7/i3-xfce](https://github.com/SSKT7/i3-xfce)
-* [https://github.com/SanktAfra-notsoofficial/LinuxRice](https://github.com/SanktAfra-notsoofficial/LinuxRice) qtile
-* [https://github.com/SebTalbot/comfy_guration](https://github.com/SebTalbot/comfy_guration)
-* [https://github.com/Sly-Harvey/NixOS](https://github.com/Sly-Harvey/NixOS)
-* [https://github.com/SsubezZ/hyprland-dots](ghttps://github.com/SsubezZ/hyprland-dots)
-* [https://github.com/SteelAtomic/lunixdotfiles](ghttps://github.com/SteelAtomic/lunixdotfiles)
-* [https://github.com/Talfaza/dotfiles](https://github.com/Talfaza/dotfiles)
-* [https://github.com/TheBeeBoi/dotfiles](https://github.com/TheBeeBoi/dotfiles)
-* [https://github.com/TheDummyUser/nixdots](ghttps://github.com/TheDummyUser/nixdots)
-* [https://github.com/TheSmallTeaBoi/frogix](https://github.com/TheSmallTeaBoi/frogix)
-* [https://github.com/Tottitov/dotfiles](ghttps://github.com/Tottitov/dotfiles)
-* [https://github.com/Vallen217/dotfiles/tree/main/.config%2Fnvim](ghttps://github.com/Vallen217/dotfiles/tree/main/.config%252Fnvim)
-* [https://github.com/Vallen217/dotfiles](ghttps://github.com/Vallen217/dotfiles)
-* [https://github.com/Vallen217/dotfiles](ghttps://github.com/Vallen217/dotfiles)
-* [https://github.com/Zakar98k/hyprland-catppuccin-dotz](https://github.com/Zakar98k/hyprland-catppuccin-dotz)
-* [https://github.com/ZirixCZ/dotfiles](https://github.com/ZirixCZ/dotfiles)
-* [https://github.com/Zwork101/dotfiles](ghttps://github.com/Zwork101/dotfiles)
-* [https://github.com/addy-dclxvi/almighty-dotfiles](https://github.com/addy-dclxvi/almighty-dotfiles)
-* [https://github.com/ahmed-alllam/dotfiles](ghttps://github.com/ahmed-alllam/dotfiles)
-* [https://github.com/alexmyczko](https://github.com/alexmyczko)
-* [https://github.com/amanhex/dotfiles](https://github.com/amanhex/dotfiles)
-* [https://github.com/amanhex/dotfiles](https://github.com/amanhex/dotfiles)
-* [https://github.com/antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles)
-* [https://github.com/anubhavuniyal/flakenix](ghttps://github.com/anubhavuniyal/flakenix)
-* [https://github.com/ariakh55/dotfiles](https://github.com/ariakh55/dotfiles)
-* [https://github.com/artaz0l/dotfiles](https://github.com/artaz0l/dotfiles)
-* [https://github.com/ashprids/dotfiles](https://github.com/ashprids/dotfiles)
-* [https://github.com/bamos/dotfiles](https://github.com/bamos/dotfiles)
-* [https://github.com/bibjaw99/workstation](https://github.com/bibjaw99/workstation) - i3
-* [https://github.com/bitterhalt/Sway-Dotfiles](https://github.com/bitterhalt/Sway-Dotfiles)
-* [https://github.com/bluebyt/Wayfire-dots](https://github.com/bluebyt/Wayfire-dots)
-* [https://github.com/caughtquick/dotfiles](https://github.com/caughtquick/dotfiles)
-* [https://github.com/chadcat7/crystal](https://github.com/chadcat7/crystal)
-* [https://github.com/cherrynoize/dotfiles](https://github.com/cherrynoize/dotfiles)
-* [https://github.com/clxxiii/dots](https://github.com/clxxiii/dots)
-* [https://github.com/coffee-is-power/nix-configuration](ghttps://github.com/coffee-is-power/nix-configuration)
-* [https://github.com/daUnknownCoder/dotfiles](https://github.com/daUnknownCoder/dotfiles)
-* [https://github.com/darrenldl/docfd](ghttps://github.com/darrenldl/docfd)
-* [https://github.com/datsfilipe/dotfiles/tree/main/shells](ghttps://github.com/datsfilipe/dotfiles/tree/main/shells)
-* [https://github.com/datsfilipe/dotfiles](ghttps://github.com/datsfilipe/dotfiles)
-* [https://github.com/dog-blood/utterly-unorganized-latex-code](https://github.com/dog-blood/utterly-unorganized-latex-code)
-* [https://github.com/dybdeskarphet/dotfiles](https://github.com/dybdeskarphet/dotfiles)
-* [https://github.com/dybdeskarphet/dotfiles](https://github.com/dybdeskarphet/dotfiles)
-* [https://github.com/elenapan/dotfiles](ghttps://github.com/elenapan/dotfiles)
-* [https://github.com/end-4/CirnOS](ghttps://github.com/end-4/CirnOS)
-* [https://github.com/end-4/dots-hyprland/tree/illogical-impulse](https://github.com/end-4/dots-hyprland/tree/illogical-impulse)
-* [https://github.com/end-4/dots-hyprland](ghttps://github.com/end-4/dots-hyprland)
-* [https://github.com/end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
-* [https://github.com/f0x48/ricemood](ghttps://github.com/f0x48/ricemood)
-* [https://github.com/f0x48/ricemood](https://github.com/f0x48/ricemood)
-* [https://github.com/f1rq/dotfiles](https://github.com/f1rq/dotfiles)
-* [https://github.com/fairyglade/ly](ghttps://github.com/fairyglade/ly)
-* [https://github.com/faizan-20/.dotfiles](ghttps://github.com/faizan-20/.dotfiles)
-* [https://github.com/fgmsd/dotfiles](https://github.com/fgmsd/dotfiles)
-* [https://github.com/flick0/dotfiles](https://github.com/flick0/dotfiles)
-* [https://github.com/floodedcodeboy/hyprland-dots](https://github.com/floodedcodeboy/hyprland-dots)
-* [https://github.com/fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing)
-* [https://github.com/geryzhydrox/Dotfiles](ghttps://github.com/geryzhydrox/Dotfiles)
-* [https://github.com/gh0stzk/dotfiles](ghttps://github.com/gh0stzk/dotfiles)
-* [https://github.com/gmr458/.dotfiles](https://github.com/gmr458/.dotfiles)
-* [https://github.com/gxnum/dot-nix/tree/main](ghttps://github.com/gxnum/dot-nix/tree/main)
-* [https://github.com/helixoid/hyprland-wallust](https://github.com/helixoid/hyprland-wallust)
-* [https://github.com/hydroakri/dotfiles](https://github.com/hydroakri/dotfiles)
-* [https://github.com/jamibear/home.nix](https://github.com/jamibear/home.nix)
-* [https://github.com/jamibear/home.nix](https://github.com/jamibear/home.nix)
-* [https://github.com/janleigh/dotfiles](https://github.com/janleigh/dotfiles)
-* [https://github.com/jefrecantuledesma/.config](https://github.com/jefrecantuledesma/.config)
-* [https://github.com/joseluisgomes/dotfiles](ghttps://github.com/joseluisgomes/dotfiles)
-* [https://github.com/junnunkarim/dotfiles_home](ghttps://github.com/junnunkarim/dotfiles_home)# MD
-* [https://github.com/junnunkarim/dotfiles_home](https://github.com/junnunkarim/dotfiles_home)
-* [https://github.com/justmike80386/dots/tree/main/2022.07.02.i3gaps_blueprint](ghttps://github.com/justmike80386/dots/tree/main/2022.07.02.i3gaps_blueprint)
-* [https://github.com/linkfrg/dotfiles](https://github.com/linkfrg/dotfiles)
-* [https://github.com/locomotiv1/dotfiles](https://github.com/locomotiv1/dotfiles)
-* [https://github.com/luyu-wu/Config](https://github.com/luyu-wu/Config)
-* [https://github.com/lxbx44/dotfiles](ghttps://github.com/lxbx44/dotfiles)
-* [https://github.com/lyaguxafrog/dotfiles](https://github.com/lyaguxafrog/dotfiles)
-* [https://github.com/markpendlebury/HyprDots](https://github.com/markpendlebury/HyprDots)
-* [https://github.com/matjam/i3dots](https://github.com/matjam/i3dots)
-* [https://github.com/matjam/qtile-dots](https://github.com/matjam/qtile-dots)
-* [https://github.com/mechatour/hyprland_dotfiles](ghttps://github.com/mechatour/hyprland_dotfiles)
-* [https://github.com/mischavandenburg/dotfiles](ghttps://github.com/mischavandenburg/dotfiles)
-* [https://github.com/myTerminal/dotfiles](https://github.com/myTerminal/dotfiles)
-* [https://github.com/n6v26r/.dotfiles](ghttps://github.com/n6v26r/.dotfiles)
-* [https://github.com/nekonako/dotfiles](ghttps://github.com/nekonako/dotfiles)
-* [https://github.com/nicejji/dotfiles](https://github.com/nicejji/dotfiles)
-* [https://github.com/nyx6965/.dotfiles/tree/master](https://github.com/nyx6965/.dotfiles/tree/master)
-* [https://github.com/oYakate/dotfiles](https://github.com/oYakate/dotfiles)
-* [https://github.com/omerxx/dotfiles](https://github.com/omerxx/dotfiles) - good nvim
-* [https://github.com/pansy27/Dotfiles](ghttps://github.com/pansy27/Dotfiles)
-* [https://github.com/prasanthrangan/hyprdots/tree/main](https://github.com/prasanthrangan/hyprdots/tree/main)
-* [https://github.com/prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots)
-* [https://github.com/pwnwriter/nix](https://github.com/pwnwriter/nix)
-* [https://github.com/qxb3/gruvbox.hypr/tree/vim_styled](https://github.com/qxb3/gruvbox.hypr/tree/vim_styled)
-* [https://github.com/qxb3/gruvbox.hypr](https://github.com/qxb3/gruvbox.hypr)
-* [https://github.com/qxb3/gruvbox.hypr](https://github.com/qxb3/gruvbox.hypr)
-* [https://github.com/rascal999/maxos](https://github.com/rascal999/maxos)
-* [https://github.com/re1san/K-Dots](https://github.com/re1san/K-Dots)
-* [https://github.com/recleun/dotfiles](https://github.com/recleun/dotfiles)
-* [https://github.com/redpenguinyt/dots](https://github.com/redpenguinyt/dots)
-* [https://github.com/riviox/dotfiles](https://github.com/riviox/dotfiles)
-* [https://github.com/rome6315/.config/tree/master](https://github.com/rome6315/.config/tree/master)
-* [https://github.com/ronasimi/dotfiles](https://github.com/ronasimi/dotfiles)
-* [https://github.com/sahib/dotfiles/blob/master/bin%2Fexecutable_toggle-dark-light.sh](ghttps://github.com/sahib/dotfiles/blob/master/bin%252Fexecutable_toggle-dark-light.sh)
-* [https://github.com/sane1090x/dotfiles/tree/tomorrow-night](ghttps://github.com/sane1090x/dotfiles/tree/tomorrow-night)
-* [https://github.com/savedra1/nixos-build](ghttps://github.com/savedra1/nixos-build)
-* [https://github.com/shvedes/dotfiles](https://github.com/shvedes/dotfiles)
-* [https://github.com/slicetext/awm_dots/tree/master](ghttps://github.com/slicetext/awm_dots/tree/master)
-* [https://github.com/slicetext/awm_dots](ghttps://github.com/slicetext/awm_dots)
-* [https://github.com/stardust-kyun/dotfiles](https://github.com/stardust-kyun/dotfiles)
-* [https://github.com/sweetbbak/dots/tree/main/.config](ghttps://github.com/sweetbbak/dots/tree/main/.config)
-* [https://github.com/thecaprisun/dotfiles](https://github.com/thecaprisun/dotfiles)
-* [https://github.com/uday-sudo/dotfiles/tree/main](ghttps://github.com/uday-sudo/dotfiles/tree/main)
-* [https://github.com/vague2k/.dotfiles-arch](https://github.com/vague2k/.dotfiles-arch)
-* [https://github.com/wallsified/nordflow](https://github.com/wallsified/nordflow) * [https://github.com/warpje5/hyprland-dotfiles-gruvbox](https://github.com/warpje5/hyprland-dotfiles-gruvbox)
-* [https://github.com/wochap/nix-config](https://github.com/wochap/nix-config)
-* [https://github.com/xdiban/awesome](https://github.com/xdiban/awesome)
-* [https://github.com/xero/dotfiles](ghttps://github.com/xero/dotfiles)
-* [https://github.com/yashneuro/dotfiles](ghttps://github.com/yashneuro/dotfiles)# Untitled
-* [https://github.com/yees7/polybar-dots](https://github.com/yees7/polybar-dots)
-* [https://github.com/yunfachi/nix-config](https://github.com/yunfachi/nix-config)
-* [https://github.com/yusamock/nixos](https://github.com/yusamock/nixos)
-* [https://github.com/zDyanTB/HyprNova/tree/master/.config%2Fswaync](https://github.com/zDyanTB/HyprNova/tree/master/.config%252Fswaync)
-* [https://github.com/zDyanTB/HyprNova](https://github.com/zDyanTB/HyprNova)
-* [https://github.com/zDyanTB/HyprNova](https://github.com/zDyanTB/HyprNova)
-* [https://github.com/zDyanTB/HyprNova](https://github.com/zDyanTB/HyprNova)
-* [https://github.com/zeak-z/dots2/tree/main/config%2Frofi](https://github.com/zeak-z/dots2/tree/main/config%252Frofi)
-* [https://github.com/zer0tonin/Mikochi](https://github.com/zer0tonin/Mikochi)
+* [Luh-code/57cf19c27257bf0542b3ff3a7db29432](https://gist.github.com/Luh-code/57cf19c27257bf0542b3ff3a7db29432) waybar
+* [soulhotel/bf890d7023636ecfeca3db6690a9fd2e](https://gist.github.com/soulhotel/bf890d7023636ecfeca3db6690a9fd2e)
+* [AhmedSaadi0/my-hyprland-config](https://github.com/AhmedSaadi0/my-hyprland-config)
+* [AlphabetsAlphabets/dotfiles](https://github.com/AlphabetsAlphabets/dotfiles)
+* [Axenide/Dotfiles](https://github.com/Axenide/Dotfiles)
+* [Aylur/dotfiles?tab=readme-ov-file](https://github.com/Aylur/dotfiles?tab%3Dreadme-ov-file)
+* [Barbaross93/Nebula](https://github.com/Barbaross93/Nebula)
+
+* [Chrono00/Hypr-is-not-Land](https://github.com/Chrono00/Hypr-is-not-Land)
+* [Cilde/hyprconf](https://github.com/Cilde/hyprconf)
+* [Coopydood/HyperFluent-GRUB-Theme](https://github.com/Coopydood/HyperFluent-GRUB-Theme)
+* [Cybersnake223/Hypr](https://github.com/Cybersnake223/Hypr)
+* [Cybersnake223/Hypr](https://github.com/Cybersnake223/Hypr)
+* [Cybersnake223/Hypr](https://github.com/Cybersnake223/Hypr)
+* [Cybersnake223/Hypr](https://github.com/Cybersnake223/Hypr)
+* [Cybersnake223/Hypr](https://github.com/Cybersnake223/Hypr) hyprland
+* [EC2854/Hyprland-Dots](ghttps://github.com/EC2854/Hyprland-Dots)
+* [Elkip/dotfiles](https://github.com/Elkip/dotfiles)
+* [Elkip/dotfiles](https://github.com/Elkip/dotfiles)
+* [Facundo-c-c/labwc-solus-dotefiles](https://github.com/Facundo-c-c/labwc-solus-dotefiles)
+* [Flrian/dotfiles-public/tree/main/.config%2Ffastfetch](https://github.com/Flrian/dotfiles-public/tree/main/.config%252Ffastfetch)
+* [Fustigate8933/dotfiles](https://github.com/Fustigate8933/dotfiles)
+* [Genograche/Archlinuxhyprdots](https://github.com/Genograche/Archlinuxhyprdots)
+* [GixoXYZ/HyprlandDotFiles](https://github.com/GixoXYZ/HyprlandDotFiles)
+* [GixoXYZ/HyprlandDotFiles](https://github.com/GixoXYZ/HyprlandDotFiles)
+* [Gwynsav/gwileful](ghttps://github.com/Gwynsav/gwileful)
+* [Haruzona/penguinDotfiles](https://github.com/Haruzona/penguinDotfiles)
+* [Hiltson87/NewVegasDots](ghttps://github.com/Hiltson87/NewVegasDots)
+* [ItsProfessional/dotfiles](ghttps://github.com/ItsProfessional/dotfiles)
+* [ItsProfessional/dotfiles](https://github.com/ItsProfessional/dotfiles)
+* [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots)
+* [JackDerksen/tmux](https://github.com/JackDerksen/tmux)
+* [MrVivekRajan/Hypr-Dots](https://github.com/MrVivekRajan/Hypr-Dots)
+* [MubinMuhammad/MinimalSwayFX](https://github.com/MubinMuhammad/MinimalSwayFX)
+* [MubinMuhammad/MinimalSwayFX](https://github.com/MubinMuhammad/MinimalSwayFX)
+* [Narmis-E/hyprland-dots](https://github.com/Narmis-E/hyprland-dots)
+* [NaturePixels/Space-Theme-dotfiles](ghttps://github.com/NaturePixels/Space-Theme-dotfiles)
+* [NespoliBT/.dotfiles](ghttps://github.com/NespoliBT/.dotfiles) - ags
+* [NormalNvim/NormalNvim](https://github.com/NormalNvim/NormalNvim)
+* [OpenSauce04/sway-dotfiles](https://github.com/OpenSauce04/sway-dotfiles)
+* [OpenSauce04/waybar-dotfiles](https://github.com/OpenSauce04/waybar-dotfiles)
+* [OsiNubis99/dotFiles](https://github.com/OsiNubis99/dotFiles)
+* [RaulMurillo/dotfiles-gui](ghttps://github.com/RaulMurillo/dotfiles-gui)
+* [S4NKALP/hyprland](https://github.com/S4NKALP/hyprland)
+* [SSKT7/i3-xfce](https://github.com/SSKT7/i3-xfce)
+* [SanktAfra-notsoofficial/LinuxRice](https://github.com/SanktAfra-notsoofficial/LinuxRice) qtile
+* [SebTalbot/comfy_guration](https://github.com/SebTalbot/comfy_guration)
+* [SsubezZ/hyprland-dots](ghttps://github.com/SsubezZ/hyprland-dots)
+* [SteelAtomic/lunixdotfiles](ghttps://github.com/SteelAtomic/lunixdotfiles)
+* [Talfaza/dotfiles](https://github.com/Talfaza/dotfiles)
+* [TheBeeBoi/dotfiles](https://github.com/TheBeeBoi/dotfiles)
+* [TheSmallTeaBoi/frogix](https://github.com/TheSmallTeaBoi/frogix)
+* [Tottitov/dotfiles](ghttps://github.com/Tottitov/dotfiles)
+* [Vallen217/dotfiles/tree/main/.config%2Fnvim](ghttps://github.com/Vallen217/dotfiles/tree/main/.config%252Fnvim)
+* [Vallen217/dotfiles](ghttps://github.com/Vallen217/dotfiles)
+* [Vallen217/dotfiles](ghttps://github.com/Vallen217/dotfiles)
+* [Zakar98k/hyprland-catppuccin-dotz](https://github.com/Zakar98k/hyprland-catppuccin-dotz)
+* [ZirixCZ/dotfiles](https://github.com/ZirixCZ/dotfiles)
+* [Zwork101/dotfiles](ghttps://github.com/Zwork101/dotfiles)
+* [addy-dclxvi/almighty-dotfiles](https://github.com/addy-dclxvi/almighty-dotfiles)
+* [ahmed-alllam/dotfiles](ghttps://github.com/ahmed-alllam/dotfiles)
+* [alexmyczko](https://github.com/alexmyczko)
+* [amanhex/dotfiles](https://github.com/amanhex/dotfiles)
+* [amanhex/dotfiles](https://github.com/amanhex/dotfiles)
+* [antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles)
+* [ariakh55/dotfiles](https://github.com/ariakh55/dotfiles)
+* [artaz0l/dotfiles](https://github.com/artaz0l/dotfiles)
+* [ashprids/dotfiles](https://github.com/ashprids/dotfiles)
+* [bamos/dotfiles](https://github.com/bamos/dotfiles)
+* [bibjaw99/workstation](https://github.com/bibjaw99/workstation) - i3
+* [bitterhalt/Sway-Dotfiles](https://github.com/bitterhalt/Sway-Dotfiles)
+* [bluebyt/Wayfire-dots](https://github.com/bluebyt/Wayfire-dots)
+* [caughtquick/dotfiles](https://github.com/caughtquick/dotfiles)
+* [chadcat7/crystal](https://github.com/chadcat7/crystal)
+* [cherrynoize/dotfiles](https://github.com/cherrynoize/dotfiles)
+* [clxxiii/dots](https://github.com/clxxiii/dots)
+* [daUnknownCoder/dotfiles](https://github.com/daUnknownCoder/dotfiles)
+* [darrenldl/docfd](ghttps://github.com/darrenldl/docfd)
+* [datsfilipe/dotfiles/tree/main/shells](ghttps://github.com/datsfilipe/dotfiles/tree/main/shells)
+* [datsfilipe/dotfiles](ghttps://github.com/datsfilipe/dotfiles)
+* [dog-blood/utterly-unorganized-latex-code](https://github.com/dog-blood/utterly-unorganized-latex-code)
+* [dybdeskarphet/dotfiles](https://github.com/dybdeskarphet/dotfiles)
+* [dybdeskarphet/dotfiles](https://github.com/dybdeskarphet/dotfiles)
+* [elenapan/dotfiles](ghttps://github.com/elenapan/dotfiles)
+* [end-4/CirnOS](ghttps://github.com/end-4/CirnOS)
+* [end-4/dots-hyprland/tree/illogical-impulse](https://github.com/end-4/dots-hyprland/tree/illogical-impulse)
+* [end-4/dots-hyprland](ghttps://github.com/end-4/dots-hyprland)
+* [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
+* [f0x48/ricemood](ghttps://github.com/f0x48/ricemood)
+* [f0x48/ricemood](https://github.com/f0x48/ricemood)
+* [f1rq/dotfiles](https://github.com/f1rq/dotfiles)
+* [fairyglade/ly](ghttps://github.com/fairyglade/ly)
+* [faizan-20/.dotfiles](ghttps://github.com/faizan-20/.dotfiles)
+* [fgmsd/dotfiles](https://github.com/fgmsd/dotfiles)
+* [flick0/dotfiles](https://github.com/flick0/dotfiles)
+* [floodedcodeboy/hyprland-dots](https://github.com/floodedcodeboy/hyprland-dots)
+* [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing)
+* [geryzhydrox/Dotfiles](ghttps://github.com/geryzhydrox/Dotfiles)
+* [gh0stzk/dotfiles](ghttps://github.com/gh0stzk/dotfiles)
+* [gmr458/.dotfiles](https://github.com/gmr458/.dotfiles)
+* [helixoid/hyprland-wallust](https://github.com/helixoid/hyprland-wallust)
+* [hydroakri/dotfiles](https://github.com/hydroakri/dotfiles)
+* [janleigh/dotfiles](https://github.com/janleigh/dotfiles)
+* [jefrecantuledesma/.config](https://github.com/jefrecantuledesma/.config)
+* [joseluisgomes/dotfiles](ghttps://github.com/joseluisgomes/dotfiles)
+* [junnunkarim/dotfiles_home](ghttps://github.com/junnunkarim/dotfiles_home)# MD
+* [junnunkarim/dotfiles_home](https://github.com/junnunkarim/dotfiles_home)
+* [justmike80386/dots/tree/main/2022.07.02.i3gaps_blueprint](ghttps://github.com/justmike80386/dots/tree/main/2022.07.02.i3gaps_blueprint)
+* [linkfrg/dotfiles](https://github.com/linkfrg/dotfiles)
+* [locomotiv1/dotfiles](https://github.com/locomotiv1/dotfiles)
+* [luyu-wu/Config](https://github.com/luyu-wu/Config)
+* [lxbx44/dotfiles](ghttps://github.com/lxbx44/dotfiles)
+* [lyaguxafrog/dotfiles](https://github.com/lyaguxafrog/dotfiles)
+* [markpendlebury/HyprDots](https://github.com/markpendlebury/HyprDots)
+* [matjam/i3dots](https://github.com/matjam/i3dots)
+* [matjam/qtile-dots](https://github.com/matjam/qtile-dots)
+* [mechatour/hyprland_dotfiles](ghttps://github.com/mechatour/hyprland_dotfiles)
+* [mischavandenburg/dotfiles](ghttps://github.com/mischavandenburg/dotfiles)
+* [myTerminal/dotfiles](https://github.com/myTerminal/dotfiles)
+* [n6v26r/.dotfiles](ghttps://github.com/n6v26r/.dotfiles)
+* [nekonako/dotfiles](ghttps://github.com/nekonako/dotfiles)
+* [nicejji/dotfiles](https://github.com/nicejji/dotfiles)
+* [nyx6965/.dotfiles/tree/master](https://github.com/nyx6965/.dotfiles/tree/master)
+* [oYakate/dotfiles](https://github.com/oYakate/dotfiles)
+* [omerxx/dotfiles](https://github.com/omerxx/dotfiles) - good nvim
+* [pansy27/Dotfiles](ghttps://github.com/pansy27/Dotfiles)
+* [prasanthrangan/hyprdots/tree/main](https://github.com/prasanthrangan/hyprdots/tree/main)
+* [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots)
+* [qxb3/gruvbox.hypr/tree/vim_styled](https://github.com/qxb3/gruvbox.hypr/tree/vim_styled)
+* [qxb3/gruvbox.hypr](https://github.com/qxb3/gruvbox.hypr)
+* [qxb3/gruvbox.hypr](https://github.com/qxb3/gruvbox.hypr)
+* [rascal999/maxos](https://github.com/rascal999/maxos)
+* [re1san/K-Dots](https://github.com/re1san/K-Dots)
+* [recleun/dotfiles](https://github.com/recleun/dotfiles)
+* [redpenguinyt/dots](https://github.com/redpenguinyt/dots)
+* [riviox/dotfiles](https://github.com/riviox/dotfiles)
+* [rome6315/.config/tree/master](https://github.com/rome6315/.config/tree/master)
+* [ronasimi/dotfiles](https://github.com/ronasimi/dotfiles)
+* [sahib/dotfiles/blob/master/bin%2Fexecutable_toggle-dark-light.sh](ghttps://github.com/sahib/dotfiles/blob/master/bin%252Fexecutable_toggle-dark-light.sh)
+* [sane1090x/dotfiles/tree/tomorrow-night](ghttps://github.com/sane1090x/dotfiles/tree/tomorrow-night)
+* [shvedes/dotfiles](https://github.com/shvedes/dotfiles)
+* [slicetext/awm_dots/tree/master](ghttps://github.com/slicetext/awm_dots/tree/master)
+* [slicetext/awm_dots](ghttps://github.com/slicetext/awm_dots)
+* [stardust-kyun/dotfiles](https://github.com/stardust-kyun/dotfiles)
+* [sweetbbak/dots/tree/main/.config](ghttps://github.com/sweetbbak/dots/tree/main/.config)
+* [thecaprisun/dotfiles](https://github.com/thecaprisun/dotfiles)
+* [uday-sudo/dotfiles/tree/main](ghttps://github.com/uday-sudo/dotfiles/tree/main)
+* [vague2k/.dotfiles-arch](https://github.com/vague2k/.dotfiles-arch)
+* [wallsified/nordflow](https://github.com/wallsified/nordflow) * [warpje5/hyprland-dotfiles-gruvbox](https://github.com/warpje5/hyprland-dotfiles-gruvbox)
+* [xdiban/awesome](https://github.com/xdiban/awesome)
+* [xero/dotfiles](ghttps://github.com/xero/dotfiles)
+* [yashneuro/dotfiles](ghttps://github.com/yashneuro/dotfiles)# Untitled
+* [yees7/polybar-dots](https://github.com/yees7/polybar-dots)
+* [zDyanTB/HyprNova/tree/master/.config%2Fswaync](https://github.com/zDyanTB/HyprNova/tree/master/.config%252Fswaync)
+* [zDyanTB/HyprNova](https://github.com/zDyanTB/HyprNova)
+* [zDyanTB/HyprNova](https://github.com/zDyanTB/HyprNova)
+* [zDyanTB/HyprNova](https://github.com/zDyanTB/HyprNova)
+* [zeak-z/dots2/tree/main/config%2Frofi](https://github.com/zeak-z/dots2/tree/main/config%252Frofi)
+* [zer0tonin/Mikochi](https://github.com/zer0tonin/Mikochi)
 * [https://gitlab.com/BA_usr/dotfiles-for-hyperland/](https://gitlab.com/BA_usr/dotfiles-for-hyperland/)
 * [https://gitlab.com/BRBWaffles/dotfiles](https://gitlab.com/BRBWaffles/dotfiles)
 * [https://gitlab.com/gnulinux-projects/My_Linux_Files/-/tree/main/Debian/Sway/.config?ref_type=heads](ghttps://gitlab.com/gnulinux-projects/My_Linux_Files/-/tree/main/Debian/Sway/.config?ref_type%3Dheads) dotfiles
@@ -306,7 +293,7 @@
 * [https://www.reddit.com/r/unixporn/comments/vil0mp/bspwm_first_rice_nature_is_everything/](https://www.reddit.com/r/unixporn/comments/vil0mp/bspwm_first_rice_nature_is_everything/) dots
 * [https://www.reddit.com/r/unixporn/s/1pGuJ9c49D](https://www.reddit.com/r/unixporn/s/1pGuJ9c49D)
 * [https://www.reddit.com/r/unixporn/s/5MDR8LNPIu](https://www.reddit.com/r/unixporn/s/5MDR8LNPIu) * [https://www.reddit.com/r/unixporn/s/5df0HZuOEn](https://www.reddit.com/r/unixporn/s/5df0HZuOEn) Dracula
-* [https://www.reddit.com/r/unixporn/s/5iu6vaewBx](https://www.reddit.com/r/unixporn/s/5iu6vaewBx) NixOS config
+
 * [https://www.reddit.com/r/unixporn/s/7BK4nY4pV3](https://www.reddit.com/r/unixporn/s/7BK4nY4pV3)
 * [https://www.reddit.com/r/unixporn/s/8wW3aHmrTJ](https://www.reddit.com/r/unixporn/s/8wW3aHmrTJ) hyprland
 * [https://www.reddit.com/r/unixporn/s/CUbkAsCxR2](https://www.reddit.com/r/unixporn/s/CUbkAsCxR2)
@@ -333,48 +320,19 @@
 * [https://www.reddit.com/r/unixporn/s/uR9ho1I0Mf](https://www.reddit.com/r/unixporn/s/uR9ho1I0Mf) dotfiles
 * [https://www.reddit.com/r/unixporn/s/xcMCSiBoZL](https://www.reddit.com/r/unixporn/s/xcMCSiBoZL) tokyonight rice
 * [hyprland + ags](https://www.reddit.com/r/unixporn/s/sRGBbz3Czx)
-* [idempotent-desktop/packages/x-common.nix at 9b4c3a9a904edc685f94549f8cb87e1f2a7d2c9c · eliferrous/idempotent-desktop](https://github.com/eliferrous/idempotent-desktop/blob/9b4c3a9a904edc685f94549f8cb87e1f2a7d2c9c/packages/x-common.nix%23L87)
 * [iomonad/dotfiles: Messy configuration repository / Gentoo / Coreboot / XMonad / Ergodox / Home Cooked ZSH microframework / Eye candy stuff / Miscellaneous hacks](https://github.com/iomonad/dotfiles)
-* [jwiegley/nix-config: My local Nix configuration](https://github.com/jwiegley/nix-config)
-* [librephoenix/nixos-config: Nix noob trying to build his system](https://github.com/librephoenix/nixos-config)
-* [malob/nixpkgs: My Nix system configs!](https://github.com/malob/nixpkgs)
-* [maxouverzou/nixos-config at c88c663878b7db10ba6775e49cdbb41510883b8a](ghttps://github.com/maxouverzou/nixos-config/tree/c88c663878b7db10ba6775e49cdbb41510883b8a)
 * [mbilker/dotfiles: My dotfiles for Linux](ghttps://github.com/mbilker/dotfiles)
-* [mcdonc/.nixconfig: NixOS configurations for my personal systems](ghttps://github.com/mcdonc/.nixconfig/tree/master)
-* [mechatour/hyprland_amber_gold: Amber Gold theme. I like the old amber screen terminals. This is an approximation of the colouring.](https://github.com/mechatour/hyprland_amber_gold)
-* [mitchellh/nixos-config: My NixOS configurations.](https://github.com/mitchellh/nixos-config)
-* [mohabaks/dotfiles: :computer: my ricing configs.](https://github.com/mohabaks/dotfiles)
-* [mruediger/nixos-config at d13fd03110ed7884438e2fae4b8424216b2eb3c3](ghttps://github.com/mruediger/nixos-config/tree/d13fd03110ed7884438e2fae4b8424216b2eb3c3)
-* [nix-config/modules/nixos/programs/gui/thunar/default.nix at 2e257e236cc7ccea32578f95423743558058891a · wochap/nix-config](https://github.com/wochap/nix-config/blob/2e257e236cc7ccea32578f95423743558058891a/modules/nixos/programs/gui/thunar/default.nix%23L37)
-* [nixlenovodot/home-common.nix at master · mudrii/nixlenovodot](ghttps://github.com/mudrii/nixlenovodot/blob/master/home-common.nix)
-* [nixos-dotfiles · GitHub Topics](https://github.com/topics/nixos-dotfiles)
-* [nixos_dot_files/configuration.nix at main · oelmas/nixos_dot_files](ghttps://github.com/oelmas/nixos_dot_files/blob/main/configuration.nix)
-* [nixsys/modules/ly.nix at b234fe6f3bd71ce07725cf6b0ca0d46335858619 · the-argus/nixsys](ghttps://github.com/the-argus/nixsys/blob/b234fe6f3bd71ce07725cf6b0ca0d46335858619/modules/ly.nix%23L64)
 * [oYakate/dotfiles: my arch(btw) linux dotfiles](ghttps://github.com/oyakate/dotfiles)
 * [orw/dotfiles/.config/gtk-3.0/thunar.css at 4e9ee94f406f63387a237409913fba72a24a9220 · s0la/orw](https://github.com/s0la/orw/blob/4e9ee94f406f63387a237409913fba72a24a9220/dotfiles/.config/gtk-3.0/thunar.css%23L107)
-* [pinpox/nixos: My NixOS Configurations](https://github.com/pinpox/nixos)
-* [purcell/dotfiles: Comprehensive configuration of my NixOS workstation](https://github.com/purcell/dotfiles)
 * [rochacbruno/dotfiles: My Environment Configurations](https://github.com/rochacbruno/dotfiles)
-* [ryan4yin/nix-config: ❄️ryan4yin's nix config(NixOS/macOS + home-manager + i3/hyprland + neovim/emacs + agenix)](https://github.com/ryan4yin/nix-config)
 * [sabrehagen/desktop-environment: ☁️ From tty to production in one command, on the desktop and in the cloud.](https://github.com/sabrehagen/desktop-environment)
 * [sadparadiseinhell/dotfiles: Dotfiles](https://github.com/sadparadiseinhell/dotfiles)
-* [srid/nixos-config: KISS NixOS configuration based on Flakes & flake-parts (supports macOS too)](https://github.com/srid/nixos-config)
 * [tensorfiles/etc/dotfiles/config/pcmanfm/default/pcmanfm.conf at 220ba6d7f53cfc412451e83ab4677dc88fe7e52a · tsandrini/tensorfiles](https://github.com/tsandrini/tensorfiles/blob/220ba6d7f53cfc412451e83ab4677dc88fe7e52a/etc/dotfiles/config/pcmanfm/default/pcmanfm.conf%23L4)
 * [tmux config](https://www.reddit.com/r/unixporn/s/1pGuJ9c49D)
 * [unixporn-dots/unixporn-dots.github.io: A collection of dotfiles and icons from the r/unixporn community](https://github.com/unixporn-dots/unixporn-dots.github.io)
 * [xeome/dots: dotfiles for laptop, modified version of normal dots](ghttps://github.com/xeome/dots)
-see riverwm files on drive
-spacefm [dotfiles/.config/spacefm/spacefm.conf at f76d4d1d2ae960d35aff764277ad96c3ecdf109b · henninb/dotfiles](https://github.com/henninb/dotfiles/blob/f76d4d1d2ae960d35aff764277ad96c3ecdf109b/.config/spacefm/spacefm.conf%23L4)
-spacefm [guix/gnu/packages/lxde.scm at 8d2a0ca74a26d0857945f4ca6d34e3cc97f8f06f · Millak/guix](https://github.com/Millak/guix/blob/8d2a0ca74a26d0857945f4ca6d34e3cc97f8f06f/gnu/packages/lxde.scm%23L392)
-spacefm [idempotent-desktop/users/shared/spacefm/spacefm.conf at c7251ecf774c451bf8d092d6bcff0346f8227bbb · ksevelyar/idempotent-desktop](https://github.com/ksevelyar/idempotent-desktop/blob/c7251ecf774c451bf8d092d6bcff0346f8227bbb/users/shared/spacefm/spacefm.conf%23L4)
-spacefm [nixpkgs/nixos/modules/programs/spacefm.nix at 23ae4dfc223d75ed1265f43775f9ba1e76feb517 · obsidiansystems/nixpkgs](https://github.com/obsidiansystems/nixpkgs/blob/23ae4dfc223d75ed1265f43775f9ba1e76feb517/nixos/modules/programs/spacefm.nix%23L21)
-spacefm [nixpkgs/pkgs/applications/misc/spacefm/default.nix at f6daa33900a71529aa7835cb5dbed5ddf854ec32 · ComputeCanada/nixpkgs](https://github.com/ComputeCanada/nixpkgs/blob/f6daa33900a71529aa7835cb5dbed5ddf854ec32/pkgs/applications/misc/spacefm/default.nix%23L25)
-spacefm [nixpkgs/pkgs/desktops/lxqt/pcmanfm-qt/default.nix at 0c7cc93361cb0462abebea439783e348ad7f04aa · feijoas/nixpkgs](https://github.com/feijoas/nixpkgs/blob/0c7cc93361cb0462abebea439783e348ad7f04aa/pkgs/desktops/lxqt/pcmanfm-qt/default.nix%23L5)
-spacefm [pkgs/data/nixpkgs/outputs/spaceFM.json at 730c522af5d6944c4130b267eb6b913b9b670d48 · on-nix/pkgs](https://github.com/on-nix/pkgs/blob/730c522af5d6944c4130b267eb6b913b9b670d48/data/nixpkgs/outputs/spaceFM.json%23L9)
-spacefm [spacefm/configure.ac at 191e585d624e32f078af6c1f731ea9624431a671 · acidburn0zzz/spacefm](https://github.com/acidburn0zzz/spacefm/blob/191e585d624e32f078af6c1f731ea9624431a671/configure.ac%23L241)
-spacefm [spacefm/etc/spacefm.conf at e6f291858067e73db44fb57c90e4efb97b088ac8 · IgnorantGuru/spacefm](https://github.com/IgnorantGuru/spacefm/blob/e6f291858067e73db44fb57c90e4efb97b088ac8/etc/spacefm.conf%23L4)
-spacefm [thingos/package/Config.in at a650815d39d2aafbb15a26b3fdf1ddebdf8cff67 · ccrisan/thingos](https://github.com/ccrisan/thingos/blob/a650815d39d2aafbb15a26b3fdf1ddebdf8cff67/package/Config.in%23L110)
-spacefm [wok/spacefm/receipt at 86cfc9d82cfe669cb23142955dd8e313459dbde6 · SliTaz-official/wok](https://github.com/SliTaz-official/wok/blob/86cfc9d82cfe669cb23142955dd8e313459dbde6/spacefm/receipt%23L57)
+* -> see riverwm files on drive
+
 * [redas24](https://github.com/redas24/dotcommon )
 * [anhovo8836](https://gitlab.com/anhvo8836/dracula)
 * [ryanb](https://github.com/ryanb/dotfiles)
@@ -383,112 +341,152 @@ spacefm [wok/spacefm/receipt at 86cfc9d82cfe669cb23142955dd8e313459dbde6 · SliT
 * [laurigates](https://github.com/laurigates/dotfiles)
 * [denysdovhan](https://github.com/denysdovhan/dotfiles)
 * [dotphiles](https://github.com/dotphiles/dotphiles)
-* [hollow](https://git.sr.ht/~hollow/dotfiles/tree) - * [elal](https://git.wych.dev/elal/dotfiles) - * [gh0stzk](https://github.com/gh0stzk/dotfiles) - * [axarva](https://github.com/Axarva/dotfiles-2.0) - * [siduck](https://github.com/siduck/chadwm) - * [syndrizzle](https://github.com/Syndrizzle/hotfiles) - * [janleigh](https://github.com/janleigh/dotfiles) - * [rhyhn](https://github.com/rxyhn/tokyo) - * [adi1090x](https://github.com/adi1090x/widgets) - * [linkfrg](https://github.com/linkfrg/dotfiles) - * [sioodmy](https://github.com/sioodmy/dotfiles) - * [juminai](https://github.com/juminai/dotfiles) - * [dharmx](https://github.com/dharmx/vile) - * [beyond9thousand](https://github.com/beyond9thousand/dotfiles) - * [ikz87](https://github.com/ikz87/dots-2.0) - * [jesuarzm](https://github.com/Jesuarzm/Dotfiles) - * [inphormatic](https://github.com/inphormatic/dotfiles) - * [snxwmn](https://github.com/Snxwman/rancid) - * [s4nkalp](https://github.com/S4NKALP/dotfile) - * [evangelospro](https://github.com/Evangelospro/dotfiles) - * [s4nkalp](https://github.com/S4NKALP/gh0stzk-dotfile) - * [husseinhareb](https://github.com/husseinhareb/my-dotfiles) - * [beelzebubofgluttony](https://github.com/BeelzebubOfGluttony/dotfiles/tree) - * [beelzebubofgluttony](https://github.com/BeelzebubOfGluttony/dotFiles2.0) - * [rusty-electron](https://github.com/rusty-electron/dotfiles [video](https://www.youtube.com/watch?v=cAm2kKakN5U) - * [thecaprisun](https://github.com/thecaprisun/dotfiles) - * [s0la](https://github.com/s0la/orw) - * [guywhochad](https://github.com/GuyWhoChad/Dotdots) - * [bigbeastishank](https://github.com/BIGBEASTISHANK/dotfile) - * [pwnedbyisa](https://github.com/pwnedbyisa/dots) - * [avnibilgin](https://github.com/avnibilgin/dotfiles) - * [wetfloo](https://github.com/wetfloo/dotfiles) - * [abxh](https://github.com/abxh/dotfiles) - * [tottitov](https://github.com/Tottitov/.dotfiles) - * [exoess](https://github.com/exoess/.files) - * [sprinter05](https://github.com/Sprinter05/my-dots) - * [nxy7](https://github.com/nxy7/dotfiles) - * [avnibilgin](https://github.com/avnibilgin/dotfiles) - * [rs221122](https://codeberg.org/rs221122/dotfiles) - * [haardispro](https://github.com/Haardispro/Arch_Rice) - * [magnusiwy](https://github.com/MagnuSiwy/dotfilesQtile) - * [gruensys](https://github.com/gruensys/dotfiles) - 
+* [hollow](https://git.sr.ht/~hollow/dotfiles/tree) 
+* [elal](https://git.wych.dev/elal/dotfiles) 
+* [gh0stzk](https://github.com/gh0stzk/dotfiles) 
+* [axarva](https://github.com/Axarva/dotfiles-2.0) 
+* [siduck](https://github.com/siduck/chadwm) 
+* [syndrizzle](https://github.com/Syndrizzle/hotfiles) 
+* [janleigh](https://github.com/janleigh/dotfiles) 
+* [rhyhn](https://github.com/rxyhn/tokyo) 
+* [adi1090x](https://github.com/adi1090x/widgets) 
+* [linkfrg](https://github.com/linkfrg/dotfiles) 
+* [sioodmy](https://github.com/sioodmy/dotfiles) 
+* [juminai](https://github.com/juminai/dotfiles) 
+* [dharmx](https://github.com/dharmx/vile) 
+* [beyond9thousand](https://github.com/beyond9thousand/dotfiles) 
+* [ikz87](https://github.com/ikz87/dots-2.0) 
+* [jesuarzm](https://github.com/Jesuarzm/Dotfiles) 
+* [inphormatic](https://github.com/inphormatic/dotfiles) 
+* [snxwmn](https://github.com/Snxwman/rancid) 
+* [s4nkalp](https://github.com/S4NKALP/dotfile) 
+* [evangelospro](https://github.com/Evangelospro/dotfiles) 
+* [s4nkalp](https://github.com/S4NKALP/gh0stzk-dotfile) 
+* [husseinhareb](https://github.com/husseinhareb/my-dotfiles) 
+* [beelzebubofgluttony](https://github.com/BeelzebubOfGluttony/dotfiles/tree) 
+* [beelzebubofgluttony](https://github.com/BeelzebubOfGluttony/dotFiles2.0) 
+* [rusty-electron](https://github.com/rusty-electron/dotfiles [video](https://www.youtube.com/watch?v=cAm2kKakN5U) 
+* [thecaprisun](https://github.com/thecaprisun/dotfiles) 
+* [s0la](https://github.com/s0la/orw) 
+* [guywhochad](https://github.com/GuyWhoChad/Dotdots) 
+* [bigbeastishank](https://github.com/BIGBEASTISHANK/dotfile) 
+* [pwnedbyisa](https://github.com/pwnedbyisa/dots) 
+* [avnibilgin](https://github.com/avnibilgin/dotfiles) 
+* [wetfloo](https://github.com/wetfloo/dotfiles) 
+* [abxh](https://github.com/abxh/dotfiles) 
+* [tottitov](https://github.com/Tottitov/.dotfiles) 
+* [exoess](https://github.com/exoess/.files) 
+* [sprinter05](https://github.com/Sprinter05/my-dots) 
+* [nxy7](https://github.com/nxy7/dotfiles) 
+* [avnibilgin](https://github.com/avnibilgin/dotfiles) 
+* [rs221122](https://codeberg.org/rs221122/dotfiles) 
+* [haardispro](https://github.com/Haardispro/Arch_Rice) 
+* [magnusiwy](https://github.com/MagnuSiwy/dotfilesQtile) 
+* [gruensys](https://github.com/gruensys/dotfiles) - 
 
 ## Bare
-- [Riverwm with Yambar](https://www.reddit.com/r/UsabilityPorn/s/oE9xxCZZJq ) - 
-- [alexmuxika](https://github.com/AlexMuxika/configs) -  [init](https://raw.githubusercontent.com/AlexMuxika/configs/main/init) - 
-- [alexvzyl](https://github.com/AlexvZyl/.dotfiles) - 
-- [alt-f4-llc !!!](https://github.com/ALT-F4-LLC/dotfiles-nixos)
-- [Anomalocaridid](https://github.com/Anomalocaridid/dotfiles)
-- [Aquarius0715](https://github.com/Aquarius0715/HomeDirectory) - dbus, emacs, intellij idea, ipython, java, ssh, vim, vimware, Xauthority, xsession, zsh, gstreamer, ibus
-- [argosatcore](https://codeberg.org/argosatcore/Deb_Dots) - debian, sway, emacs, bash, vim, inputrc, environment.d, foot, fuzzel, kanshi, libreoffice, mako, mpd, mpv, nvim, sway, swayimg, swaylock, waybar, wlogout, mimeapps.list
-- [ashenoy463](https://github.com/ashenoy463/dotfiles) - 
-- [aworldc](https://www.github.com/Aworldc/dots) - 
-- [BA_usr](https://gitlab.com/BA_usr/dotfiles-for-hyperland/)
-- [BeelzebubOfGluttony  ](https://github.com/BeelzebubOfGluttony/dotfiles) - kitty, dunst, polybar, firefox, rofi, ranger, neovim (nvchad), cascadia code, iosevka term, nerdfont, weather icons, materia
-- [bibjaw99](https://github.com/bibjaw99/workstation) - 
-- [chadcat7/crystal](https://github.com/chadcat7/crystal) - 
-- [chasyxx](https://github.com/Chasyxx/bspwm-purple) - 
-- [cherrynoize  ](https://github.com/cherrynoize/dash-dotfiles) dark-light color switcher, Xresources, bash, feh, git, inputrc, vim, xinit, zsh, alacritty, bash-git-prompt, bspwm, conky, dunst, fish, neofetch, nvim, picom, polybar, ranger, redshift, rofi, sxhkd, vlc, starship
-- [command-z-z](https://github.com/command-z-z/Arch-dotfiles)
-- [crzjp](https://codeberg.org/crzjp/dotfiles) - 
-- [danielo515](https://github.com/danielo515?tab=repositories) - neovim
-- [datsfelipe](https://github.com/datsfilipe/dotfiles) - 
-- [deepaknegilachu](https://codeberg.org/deepaknegilachu/.dotfiles)
-- [distilledx](https://github.com/distilledx/dotfiles)
-- [euro20179](https://github.com/Euro20179/.files) - 
-- [Fedora-Titus](https://github.com/ChrisTitusTech/Fedora-Titus) - 
-- [gnulinux-projects](https://gitlab.com/gnulinux-projects/My_Linux_Files)
-- [husseinhareb](https://github.com/husseinhareb/my-dotfiles) - 
-- [iil4](https://github.com/ii14/dotfiles) - 
-- [jason-goon](https://github.com/Jason-Goon/dwm_dotfiles) - 
-- [jjba-projects](https://gitlab.com/jjba-projects/dotfiles) - 
-- [jjba-projectsk](https://gitlab.com/jjba-projects/dotfiles)
-- [justinlime](https://github.com/justinlime/dotfiles) - 
-- [jwalke23](https://github.com/jwalke23/mydotfiles)
-- [karshprime](https://github.com/karshPrime/dotfiles) - 
-- [kelpwave](https://github.com/kelpwave/river-dots) - 
-- [kernelpanic95](https://github.com/kernelpanic95/dotfiles)
-- [lauriset](https://github.com/lauriset) - 
-- [linuxdabbler (Gitlab profile)](https://github.com/linuxdabbler)  - 
-- [linuxdabbler](https://github.com/linuxdabbler/personal-dot-files/tree/master/config) - 
-- [linuxdabbler](https://gitlab.com/linuxdabbler/dotfiles) - 
-- [magnotec1 !!!](https://github.com/Magnotec1/photosynthesis-dots) - firefox, kitty, neofetch, polybar, rofi, startpage
-- [mahmoudk1000](https://github.com/mahmoudk1000/dotfiles) - 
-- [mahmoudk1000/awedots](https://github.com/mahmoudk1000/awedots) - 
-- [mahmoudk1000/startpage](https://github.com/mahmoudk1000/startpage) - 
-- [mandri97](https://github.com/Mandri97/dotfiles) - 
-- [mariasol0s](https://github.com/MariaSolOs/dotfiles) - 
-- [martinbaillie](https://github.com/martinbaillie/dotfiles)
-- [maydayv7](https://github.com/maydayv7/dotfiles)
-- [meain](https://github.com/meain/dotfiles/blob/refs%2Fheads%2Fmaster/nyxt%2F.config%2Fnyxt%2Fconfig.lisp)
-- [mizzunet](https://github.com/mizzunet/dots) - 
-- [muppetcode](https://github.com/muppetcode/dotfiles-manjaro) - 
-- [myagko](https://github.com/myagko/dotfiles)
-- [myterminal](https://github.com/myTerminal/dotfiles) - 
-- [nickjj](https://github.com/nickjj/dotfiles)
+* [Riverwm with Yambar](https://www.reddit.com/r/UsabilityPorn/s/oE9xxCZZJq ) - 
+* [alexmuxika](https://github.com/AlexMuxika/configs) -  [init](https://raw.githubusercontent.com/AlexMuxika/configs/main/init) - 
+* [alexvzyl](https://github.com/AlexvZyl/.dotfiles) - 
+* [Anomalocaridid](https://github.com/Anomalocaridid/dotfiles)
+* [Aquarius0715](https://github.com/Aquarius0715/HomeDirectory) - dbus, emacs, intellij idea, ipython, java, ssh, vim, vimware, Xauthority, xsession, zsh, gstreamer, ibus
+* [argosatcore](https://codeberg.org/argosatcore/Deb_Dots) - debian, sway, emacs, bash, vim, inputrc, environment.d, foot, fuzzel, kanshi, libreoffice, mako, mpd, mpv, nvim, sway, swayimg, swaylock, waybar, wlogout, mimeapps.list
+* [ashenoy463](https://github.com/ashenoy463/dotfiles) - 
+* [aworldc](https://www.github.com/Aworldc/dots) - 
+* [BA_usr](https://gitlab.com/BA_usr/dotfiles-for-hyperland/)
+* [BeelzebubOfGluttony  ](https://github.com/BeelzebubOfGluttony/dotfiles) - kitty, dunst, polybar, firefox, rofi, ranger, neovim (nvchad), cascadia code, iosevka term, nerdfont, weather icons, materia
+* [bibjaw99](https://github.com/bibjaw99/workstation) - 
+* [chadcat7/crystal](https://github.com/chadcat7/crystal) - 
+* [chasyxx](https://github.com/Chasyxx/bspwm-purple) - 
+* [cherrynoize  ](https://github.com/cherrynoize/dash-dotfiles) dark-light color switcher, Xresources, bash, feh, git, inputrc, vim, xinit, zsh, alacritty, bash-git-prompt, bspwm, conky, dunst, fish, neofetch, nvim, picom, polybar, ranger, redshift, rofi, sxhkd, vlc, starship
+* [command-z-z](https://github.com/command-z-z/Arch-dotfiles)
+* [crzjp](https://codeberg.org/crzjp/dotfiles) - 
+* [danielo515](https://github.com/danielo515?tab=repositories) - neovim
+* [datsfelipe](https://github.com/datsfilipe/dotfiles) - 
+* [deepaknegilachu](https://codeberg.org/deepaknegilachu/.dotfiles)
+* [distilledx](https://github.com/distilledx/dotfiles)
+* [euro20179](https://github.com/Euro20179/.files) - 
+* [Fedora-Titus](https://github.com/ChrisTitusTech/Fedora-Titus) - 
+* [gnulinux-projects](https://gitlab.com/gnulinux-projects/My_Linux_Files)
+* [husseinhareb](https://github.com/husseinhareb/my-dotfiles) - 
+* [iil4](https://github.com/ii14/dotfiles) - 
+* [jason-goon](https://github.com/Jason-Goon/dwm_dotfiles) - 
+* [jjba-projects](https://gitlab.com/jjba-projects/dotfiles) - 
+* [jjba-projectsk](https://gitlab.com/jjba-projects/dotfiles)
+* [justinlime](https://github.com/justinlime/dotfiles) - 
+* [jwalke23](https://github.com/jwalke23/mydotfiles)
+* [karshprime](https://github.com/karshPrime/dotfiles) - 
+* [kelpwave](https://github.com/kelpwave/river-dots) - 
+* [kernelpanic95](https://github.com/kernelpanic95/dotfiles)
+* [lauriset](https://github.com/lauriset) - 
+* [linuxdabbler (Gitlab profile)](https://github.com/linuxdabbler)  - 
+* [linuxdabbler](https://github.com/linuxdabbler/personal-dot-files/tree/master/config) - 
+* [linuxdabbler](https://gitlab.com/linuxdabbler/dotfiles) - 
+* [magnotec1 !!!](https://github.com/Magnotec1/photosynthesis-dots) - firefox, kitty, neofetch, polybar, rofi, startpage
+* [mahmoudk1000](https://github.com/mahmoudk1000/dotfiles) - 
+* [mahmoudk1000/awedots](https://github.com/mahmoudk1000/awedots) - 
+* [mahmoudk1000/startpage](https://github.com/mahmoudk1000/startpage) - 
+* [mandri97](https://github.com/Mandri97/dotfiles) - 
+* [mariasol0s](https://github.com/MariaSolOs/dotfiles) - 
+* [martinbaillie](https://github.com/martinbaillie/dotfiles)
+* [maydayv7](https://github.com/maydayv7/dotfiles)
+* [meain](https://github.com/meain/dotfiles/blob/refs%2Fheads%2Fmaster/nyxt%2F.config%2Fnyxt%2Fconfig.lisp)
+* [mizzunet](https://github.com/mizzunet/dots) - 
+* [muppetcode](https://github.com/muppetcode/dotfiles-manjaro) - 
+* [myagko](https://github.com/myagko/dotfiles)
+* [myterminal](https://github.com/myTerminal/dotfiles) - 
+* [nickjj](https://github.com/nickjj/dotfiles)
 * [post](https://nickjanetakis.com/blog/the-tools-i-use) - zsh, vim, ruby, git, tmux, zsh
-- [nitestack](https://github.com/linuxdabbler/personal-dot-files) 
-- [nitestack](https://github.com/nitestack/dotfiles) - 
-- [nmdra](https://nmdra.github.io)
+* [nitestack](https://github.com/linuxdabbler/personal-dot-files) 
+* [nitestack](https://github.com/nitestack/dotfiles) - 
+* [nmdra](https://nmdra.github.io)
 * [gh](https://github.com/nmdra/Dotfiles)
 * [uses](https://nmdra.github.io/uses/)
-- [nonamescm](https://github.com/nonamescm/dotfiles) - 
-- [noriaku](https://github.com/noriaku/dotfiles-arch) - 
-- [Onizuka893](https://github.com/Onizuka893/dotfiles)
-- [oxalica](https://github.com/oxalica/nil) - 
-- [rifsxd](https://github.com/rifsxd/oh-my-awesomewm-dots) - 
-- [Riverwm video](https://www.youtube.com/watch?v=MwnK6arB2Rc)) - 
-- [seraph036](https://github.com/seraph036/nekravol)
-- [solidiquis](https://github.com/solidiquis/dotfiles) - 
-- [ssamin69](https://github.com/ssamin69/new-dots)
-- [sspaeti](https://github.com/sspaeti/dotfiles) - 
-- [Stardust-kyun ](https://github.com/Stardust-kyun/dotfiles) - endeavorOS, awesomewm, nemo, librewolf, st, bash, vim, gtk. Xresources, picom
-- [stephan.raabe](https://gitlab.com/stephan.raabe)
-- [szelwiga](https://github.com/Szelwiga/dots) - 
-- [tectonic-typesetting](https://github.com/tectonic-typesetting/tectonic) - 
-- [theooo](https://codeberg.org/theooo/wayland) - dunst, foot, rofi, sway, waybar
-- [Tottitov ](https://github.com/Tottitov/dotfiles) - beets, dunst, firefox, fontconfig, foot, git, gnnupam, gtk, kanshi, mbsync @@@, mpd, mpv, msmtp @@@, mutt, ncmcpp, newsboat, nvim, pipewire, river, scripts, shell, tofi, transmission, tremc @@@, vim, waybar, whipper, zsh
-- [tottitov](https://github.com/Tottitov/.dotfiles) - 
-- [ValdezFOmar](https://github.com/ValdezFOmar/.dotfiles)
-- [vallen217](https://github.com/vallen217/dotfiles) - 
-- [vidfurlan](https://github.com/VidFurlan/Dotfiles) - 
-- [waffle87](https://github.com/waffle87/dots/tree/kepler → see other branches) - 
-- [xero](https://github.com/xero/dotfiles) - 
-- [xinux-org](https://github.com/xinux-org/configs) - 
+* [nonamescm](https://github.com/nonamescm/dotfiles) - 
+* [noriaku](https://github.com/noriaku/dotfiles-arch) - 
+* [Onizuka893](https://github.com/Onizuka893/dotfiles)
+* [oxalica](https://github.com/oxalica/nil) - 
+* [rifsxd](https://github.com/rifsxd/oh-my-awesomewm-dots) - 
+* [Riverwm video](https://www.youtube.com/watch?v=MwnK6arB2Rc)) - 
+* [seraph036](https://github.com/seraph036/nekravol)
+* [solidiquis](https://github.com/solidiquis/dotfiles) - 
+* [ssamin69](https://github.com/ssamin69/new-dots)
+* [sspaeti](https://github.com/sspaeti/dotfiles) - 
+* [Stardust-kyun ](https://github.com/Stardust-kyun/dotfiles) - endeavorOS, awesomewm, nemo, librewolf, st, bash, vim, gtk. Xresources, picom
+* [stephan.raabe](https://gitlab.com/stephan.raabe)
+* [szelwiga](https://github.com/Szelwiga/dots) - 
+* [tectonic-typesetting](https://github.com/tectonic-typesetting/tectonic) - 
+* [theooo](https://codeberg.org/theooo/wayland) - dunst, foot, rofi, sway, waybar
+* [Tottitov ](https://github.com/Tottitov/dotfiles) - beets, dunst, firefox, fontconfig, foot, git, gnnupam, gtk, kanshi, mbsync @@@, mpd, mpv, msmtp @@@, mutt, ncmcpp, newsboat, nvim, pipewire, river, scripts, shell, tofi, transmission, tremc @@@, vim, waybar, whipper, zsh
+* [tottitov](https://github.com/Tottitov/.dotfiles) - 
+* [ValdezFOmar](https://github.com/ValdezFOmar/.dotfiles)
+* [vallen217](https://github.com/vallen217/dotfiles) - 
+* [vidfurlan](https://github.com/VidFurlan/Dotfiles) - 
+* [waffle87](https://github.com/waffle87/dots/tree/kepler → see other branches) - 
+* [xero](https://github.com/xero/dotfiles) - 
+* [xinux-org](https://github.com/xinux-org/configs) - 
 
 ## hyprland
 
-- [jakoolit](https://github.com/JaKooLit/Hyprland-Dots) - editorconfig, scripts, kvantum, btop, cava, kitty, qt5ct, qt6ct, rofi, swappy, swaylock, swaync, wal, waybar, wlogout
-- [ipg0](https://github.com/ipg0/dotfiles-hypr) - 
-- [kannakalyan05](https://github.com/kannakalyan05/hyprland) - 
-- [nyxfr](https://github.com/nyxfr/.dotfiles) - btop, cava, dunst, fish, hypr, kitty, mc, neofetch, nvim, paru, rofi, swaybg, swaylock, tmux, waybar, wlogout, starship, scripts, fonts
-- [soldoestech](hyprland https://github.com/SolDoesTech/HyprV2/tree/main) - 
-- [tentypematus](https://gitlab.com/TenTypekMatus/tokyonight-dots) i3, alacritty, fish, BetterDiscord, gtk, hypr, neofetch, nvim, polybar, rofi, picom
-- [nord hyprland](https://github.com/clamsfeel2/dots)  - 
-- [danielgafni](https://github.com/danielgafni/dotfiles) - zsh, hyprland nvidia launcher, alacritty, btoop, common, eww, helix, hypr, kitty, mako, nvim, ranger, sheldon, swaylock, waybar, wlogout, wofi, zathura, zellij, starship, zoomus
-- [lauroro](https://github.com/lauroro/hyprland-dotfiles) - 
-- [end-4](https://github.com/end-4/dots-hyprland) - 
-- [aymanlyesri](https://github.com/AymanLyesri/hyprland-conf) - 
-- [husseinhareb](https://github.com/husseinhareb/hyprland-eww) - 
-- [narmis-e](https://github.com/Narmis-E/hyprland-dots) - 
-- [jakoolit](https://github.com/JaKooLit/Hyprland-Dots) - 
-- [aymanlyesri](https://github.com/AymanLyesri/hyprland-conf) - 
-- [cybersnake223](https://github.com/Cybersnake223/Hypr) - 
-- [delacerate](https://github.com/delacerate/hyprdots/tree/hypr-dots) - 
-- [delacerate](https://github.com/delacerate/hyprdots) - 
-- [smravec](https://github.com/smravec/.dotfiles)-hyprland - hyprland, fish, alacritty, eww, vim, mpd, pipewire
+* [jakoolit](https://github.com/JaKooLit/Hyprland-Dots) - editorconfig, scripts, kvantum, btop, cava, kitty, qt5ct, qt6ct, rofi, swappy, swaylock, swaync, wal, waybar, wlogout
+* [ipg0](https://github.com/ipg0/dotfiles-hypr) - 
+* [kannakalyan05](https://github.com/kannakalyan05/hyprland) - 
+* [nyxfr](https://github.com/nyxfr/.dotfiles) - btop, cava, dunst, fish, hypr, kitty, mc, neofetch, nvim, paru, rofi, swaybg, swaylock, tmux, waybar, wlogout, starship, scripts, fonts
+* [soldoestech](hyprland https://github.com/SolDoesTech/HyprV2/tree/main) - 
+* [tentypematus](https://gitlab.com/TenTypekMatus/tokyonight-dots) i3, alacritty, fish, BetterDiscord, gtk, hypr, neofetch, nvim, polybar, rofi, picom
+* [nord hyprland](https://github.com/clamsfeel2/dots)  - 
+* [danielgafni](https://github.com/danielgafni/dotfiles) - zsh, hyprland nvidia launcher, alacritty, btoop, common, eww, helix, hypr, kitty, mako, nvim, ranger, sheldon, swaylock, waybar, wlogout, wofi, zathura, zellij, starship, zoomus
+* [lauroro](https://github.com/lauroro/hyprland-dotfiles) - 
+* [end-4](https://github.com/end-4/dots-hyprland) - 
+* [aymanlyesri](https://github.com/AymanLyesri/hyprland-conf) - 
+* [husseinhareb](https://github.com/husseinhareb/hyprland-eww) - 
+* [narmis-e](https://github.com/Narmis-E/hyprland-dots) - 
+* [jakoolit](https://github.com/JaKooLit/Hyprland-Dots) - 
+* [aymanlyesri](https://github.com/AymanLyesri/hyprland-conf) - 
+* [cybersnake223](https://github.com/Cybersnake223/Hypr) - 
+* [delacerate](https://github.com/delacerate/hyprdots/tree/hypr-dots) - 
+* [delacerate](https://github.com/delacerate/hyprdots) - 
+* [smravec](https://github.com/smravec/.dotfiles)-hyprland - hyprland, fish, alacritty, eww, vim, mpd, pipewire
   - [1arsna1](https://github.com/1Arsna1/HyprStream.git)
 * [Reddit](https://www.reddit.com/r/unixporn/comments/12v4zyn/hyprland_i_think_i_installed_some_melware/)
   - [alyanser](https://github.com/alyanser/dotfiles) - arch wayland, fontconfig, gtk-3.0, hypr, mpd, ncmcpp, nvim, waybar, wofi, xremap, bash, inputrc
@@ -569,16 +567,17 @@ spacefm [wok/spacefm/receipt at 86cfc9d82cfe669cb23142955dd8e313459dbde6 · SliT
 
 ## river
   - [river-rice](https://github.com/Soliprem/river-rice)- foot, river, rofi, waybar, wpg
-Robert Duchesneau RiverWM dotfiles) - * [justinesmithies](https://codeberg.org/JustineSmithies/river-dotfiles) - 
+Robert Duchesneau RiverWM dotfiles) 
+* [justinesmithies](https://codeberg.org/JustineSmithies/river-dotfiles) - 
 
 ## i3
-- [rx-py](https://github.com/rx-py/i3wm-dotfi) - 
-- [testertech i3](https://github.com/TesterTech/rice-i3-from-scratch-pywal) - 
-- [berthosefin  ](https://github.com/berthosefin/dotfiles) - keybind list, lightdm, webkit2 greeter, xfce, i3-gaps, rofi, ulauncher, polybar, picom-jonabug-git, lxappearance, nordic-darker, nord-darker icons, roboto font, iosevka custom, thunar, ranger, firefox, brave, htop, tlp (power manager), viewnior, feh, pulseaudio, alacritty, zsh, file-roller, dunst, gimp, vim, vscodium, ncmcpp, rythmbox, mixxx, clementine, mpv, vlc, polkit-gnome, scrot, feh, pywal
-- [drewgrif](https://github.com/drewgrif/dotfiles) - bash, dwm, scripts, polybar, pulseaudio, alacritty, bspwm, dk, sxhkd, dunst, i3, kitty, neofetch, nvim, picom, polybar, qtile, rofi, suckless, sway, waybar, wofi
-- [edu-flores](https://github.com/edu-flores/linux-dotfiles) - automated theme switching, alacritty, dunst, i3, picom, polybar, rofi, zsh, scripts
-- [lanej  ](https://github.com/lanej/dotfiles) - ck, alacritty, bash, bat, scripts, bspwm, ctags, fish, git, i3, iterm, kitty, nvim, oni, polybar, powerline, python, qute, ruby, sh, spotify-player, termite, vim, zsh
-- [Elteoremadebeethoven](https://github.com/Elteoremadebeethoven?tab=repositories) - nvim, manim, i3, i3blocks, rofi, lunarvim, manim-revealjs, 
+* [rx-py](https://github.com/rx-py/i3wm-dotfi) - 
+* [testertech i3](https://github.com/TesterTech/rice-i3-from-scratch-pywal) - 
+* [berthosefin  ](https://github.com/berthosefin/dotfiles) - keybind list, lightdm, webkit2 greeter, xfce, i3-gaps, rofi, ulauncher, polybar, picom-jonabug-git, lxappearance, nordic-darker, nord-darker icons, roboto font, iosevka custom, thunar, ranger, firefox, brave, htop, tlp (power manager), viewnior, feh, pulseaudio, alacritty, zsh, file-roller, dunst, gimp, vim, vscodium, ncmcpp, rythmbox, mixxx, clementine, mpv, vlc, polkit-gnome, scrot, feh, pywal
+* [drewgrif](https://github.com/drewgrif/dotfiles) - bash, dwm, scripts, polybar, pulseaudio, alacritty, bspwm, dk, sxhkd, dunst, i3, kitty, neofetch, nvim, picom, polybar, qtile, rofi, suckless, sway, waybar, wofi
+* [edu-flores](https://github.com/edu-flores/linux-dotfiles) - automated theme switching, alacritty, dunst, i3, picom, polybar, rofi, zsh, scripts
+* [lanej  ](https://github.com/lanej/dotfiles) - ck, alacritty, bash, bat, scripts, bspwm, ctags, fish, git, i3, iterm, kitty, nvim, oni, polybar, powerline, python, qute, ruby, sh, spotify-player, termite, vim, zsh
+* [Elteoremadebeethoven](https://github.com/Elteoremadebeethoven?tab=repositories) - nvim, manim, i3, i3blocks, rofi, lunarvim, manim-revealjs, 
   - [2kabhishek ](https://github.com/2kabhishek) - nvim, bash, bat, broot, cmus, git, htop, python, ranger, tmux, vim, zsh, autorandr, delta, fish, i3, kitty, konsole, lazygit, xplr, dmenu, inputrc, conky
   - [6xnd0c (reddit)](https://www.reddit.com/r/unixporn/comments/6xnd0c/i3gaps_polybar_solarized_dark/) i3 [GTK Theme](https://github.com/apheleia/solarc-theme)
 * [Firefox Theme](https://github.com/tilpner/solarc-firefox-theme)
@@ -654,7 +653,8 @@ Robert Duchesneau RiverWM dotfiles) - * [justinesmithies](https://codeberg.org/J
   - [willPower3309](https://github.com/WillPower3309/dotfiles) - plasma, i3-gaps, compton (tryone), rofi, oh-my-zsh, latte dock, feh, conky-cairo, flashfocus, unimatix, redshift, unclutter
 
 ## sway
-* [gnulinux-projects](https://gitlab.com/gnulinux-projects/My_Linux_Files/-/tree/main/Debian/Sway/.config) - * [testertech swaywm eww](https://github.com/TesterTech/swaywm-eww) - 
+* [gnulinux-projects](https://gitlab.com/gnulinux-projects/My_Linux_Files/-/tree/main/Debian/Sway/.config) 
+* [testertech swaywm eww](https://github.com/TesterTech/swaywm-eww) - 
   - [1amsimple](https://github.com/1amSimp1e/dots)1amsimple - firefox vscodium, webcord, alacritty, kitty, lazygit, neofetch, nvim, starship, ranger, spicetify, sway, tmux
   - [aspectsides](https://github.com/aspectsides/dotfiles) - [WezTerm](https://wezfurlong.org/wezterm/)) with tmux-like keybindings, [Neovim](https://neovim.io/),) JetBrains IdeaVim config, [Taskwarrior](https://taskwarrior.org/), [Starship](https://starship.rs/)Firefox[Oxocarbon](https://github.com/nyoom-engineering/oxocarbon.nvim)) theme, [sway](https://swaywm.org/)**
   - [cleggacus](https://github.com/cleggacus/sway-ricey-boi)
@@ -727,7 +727,6 @@ Robert Duchesneau RiverWM dotfiles) - * [justinesmithies](https://codeberg.org/J
   - [edjubert](https://github.com/edjubert/dotfiles) - githooks, kvantum, alacritty, awesomewm, neovide+lunarvim, conky, deadd, dwm (chadwm), eww, fish, fontconfig, fusuma, go scripts, gtk, hypr, lvim, lxsession, mpd, mpv, ncmcpp, nvim, omf, picom, qt5, rofi, scripts, sway, swww, waybar, wlogout
   - [elenapan](https://github.com/elenapan/dotfiles)
 * [Reddit](https://www.reddit.com/r/unixporn/comments/a900p7/awesome_mechanical_love/)
-  - [euclidianAce/dotfiles](https://github.com/euclidianAce/dotfiles/tree/main) - awesomewm, scripts, colors, firefox, git, kitty, nix-shells, neovim, wezterm, zathura, bash, tmux
   - [gboncoffee](https://github.com/gboncoffee/home)
 * [Reddit](https://www.reddit.com/r/unixporn/comments/zd854t/awesome_recently_moved_from_xmonad_because_i_like/)
   - [goodBoyNeon](https://github.com/GoodBoyNeon/dotfiles) - alacritty, awesomewm, btop, dmenu, fish, neofetch, nitrogen, neovim, picom, polybar, starship, tmux

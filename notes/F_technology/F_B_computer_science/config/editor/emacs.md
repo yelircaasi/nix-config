@@ -1,6 +1,7 @@
 # Emacs
 
-- emacs - to sort 
+* emacs - to sort 
+https://gitlab.com/domsch1988/domacs
     * [](https://www.google.com/url?q=https://www.murilopereira.com/how-to-open-a-file-in-emacs/&sa=D&source=editors&ust=1711377894840182&usg=AOvVaw2YKtb2F3KICtNoIZe2FHU1)
     * [https://www.murilopereira.com/how-to-open-a-file-in-emacs/](https://www.google.com/url?q=https://www.murilopereira.com/how-to-open-a-file-in-emacs/&sa=D&source=editors&ust=1711377894840467&usg=AOvVaw3bm-scJUTN0kMioJlZVK_g) 
     * [](https://www.google.com/url?q=https://www.reddit.com/r/emacs/comments/nbzz8x/emacs_as_java_ide/&sa=D&source=editors&ust=1711377894840614&usg=AOvVaw2-lUiASFSJKBYaMJcGSUKE)
@@ -9,46 +10,46 @@
     * [https://github.com/rougier/nano-emacs](https://www.google.com/url?q=https://github.com/rougier/nano-emacs&sa=D&source=editors&ust=1711377894840991&usg=AOvVaw2iVAhaXHLvkPFdwJkxpUaE) ***cordova emacs 
     * [](https://www.google.com/url?q=https://www.reddit.com/r/emacs/s/5z8frXlZd0&sa=D&source=editors&ust=1711377894841132&usg=AOvVaw0Umik2FAhk3Xe1u971odSf)
     * [https://www.reddit.com/r/emacs/s/5z8frXlZd0](https://www.google.com/url?q=https://www.reddit.com/r/emacs/s/5z8frXlZd0&sa=D&source=editors&ust=1711377894841253&usg=AOvVaw2erQ2inT4monUs07m5djyf)
-- ChatGPTAs of my last knowledge update in September 2021, several popular Emacs distributions were widely used by the Emacs community. Keep in mind that the popularity of distributions can evolve over time, and new distributions may emerge. Here are some of the top Emacs distributions that were well-regarded:
+* ChatGPTAs of my last knowledge update in September 2021, several popular Emacs distributions were widely used by the Emacs community. Keep in mind that the popularity of distributions can evolve over time, and new distributions may emerge. Here are some of the top Emacs distributions that were well-regarded:
 1. GNU Emacs: The official Emacs distribution, maintained by the Free Software Foundation. It provides a powerful and extensible platform for text editing and customization.
 2. Spacemacs: A community-driven Emacs distribution that combines the strengths of Emacs and Vim. It uses a layer system for configuration and includes a set of curated packages for a more modern and user-friendly experience.
 3. Doom Emacs: An Emacs configuration for developers who like Vim. It is fast, optimized for responsiveness, and comes with a set of bundled packages for various programming languages and tools.
 4. prelude-emacs: A configuration framework for Emacs, designed to be easy for Emacs newcomers yet feature-rich for power users. It comes with a curated set of packages and configurations.
 5. Emacs Live: A simple and opinionated Emacs configuration that focuses on providing a clean and productive environment for coding. It includes various packages and configurations for development.
 6. SpaceVim: Originally a Vim distribution, SpaceVim evolved to support both Vim and Emacs. It provides a set of curated plugins and a layer system for easy configuration.
-- Remember that these distributions often come with pre-configured settings, themes, and packages, making it easier for users to get started with Emacs or to switch between different configurations. It's important to explore and find the distribution that aligns with your workflow and preferences. Additionally, keep an eye on the latest updates and community feedback, as the landscape of Emacs distributions may have evolved since my last update.
-- ChatGPT emacs >> nvimApart from variable text sizes, what can emacs do that Neovim inherently cannot?ChatGPTWhile Neovim and Emacs share many features and functionalities, there are some aspects where Emacs offers unique capabilities or approaches. Here are some features or functionalities that Emacs has, and Neovim might not have them inherently or might implement them differently:
+* Remember that these distributions often come with pre-configured settings, themes, and packages, making it easier for users to get started with Emacs or to switch between different configurations. It's important to explore and find the distribution that aligns with your workflow and preferences. Additionally, keep an eye on the latest updates and community feedback, as the landscape of Emacs distributions may have evolved since my last update.
+* ChatGPT emacs >> nvimApart from variable text sizes, what can emacs do that Neovim inherently cannot?ChatGPTWhile Neovim and Emacs share many features and functionalities, there are some aspects where Emacs offers unique capabilities or approaches. Here are some features or functionalities that Emacs has, and Neovim might not have them inherently or might implement them differently:
 1. Integrated Documentation and Help System:
-- Emacs has an extensive and integrated documentation system accessible through the describe-function, describe-variable, and other commands.
-- The Info system in Emacs provides detailed manuals and documentation within the editor.
+* Emacs has an extensive and integrated documentation system accessible through the describe-function, describe-variable, and other commands.
+* The Info system in Emacs provides detailed manuals and documentation within the editor.
 1. Customizable UI Elements:
-- Emacs allows for extensive customization of the user interface, including the ability to add custom toolbars, menu bars, and status bars.
+* Emacs allows for extensive customization of the user interface, including the ability to add custom toolbars, menu bars, and status bars.
 1. Elisp as a Configuration Language:
-- Emacs is configured using Emacs Lisp (Elisp), which allows users to extend and modify the editor using a Lisp dialect.
-- Neovim, in contrast, primarily uses Lua for configuration.
+* Emacs is configured using Emacs Lisp (Elisp), which allows users to extend and modify the editor using a Lisp dialect.
+* Neovim, in contrast, primarily uses Lua for configuration.
 1. Major Modes for Editing:
-- Emacs has a rich set of major modes that provide specific functionalities for different types of files (e.g., programming languages, text, org mode).
-- Neovim also has a concept of major modes, but the specifics might differ.
+* Emacs has a rich set of major modes that provide specific functionalities for different types of files (e.g., programming languages, text, org mode).
+* Neovim also has a concept of major modes, but the specifics might differ.
 1. Emacs Lisp as an Extension Language:
-- The entire Emacs environment is extensible using Emacs Lisp. Users can write their functions and commands to modify the behavior of the editor on the fly.
-- Neovim has a built-in Lua interpreter, and plugins are often written in Lua. However, the nature of customization can differ.
+* The entire Emacs environment is extensible using Emacs Lisp. Users can write their functions and commands to modify the behavior of the editor on the fly.
+* Neovim has a built-in Lua interpreter, and plugins are often written in Lua. However, the nature of customization can differ.
 1. Magit (Git Interface):
-- Magit is a powerful Git interface for Emacs, providing an interactive and efficient way to work with Git repositories.
-- While Neovim has plugins for Git integration, Magit is considered one of the most feature-rich Git interfaces.
+* Magit is a powerful Git interface for Emacs, providing an interactive and efficient way to work with Git repositories.
+* While Neovim has plugins for Git integration, Magit is considered one of the most feature-rich Git interfaces.
 1. Dired Mode (File Manager):
-- Dired is a built-in file manager for Emacs that allows users to perform file operations within the editor.
-- Neovim does not have a built-in file manager, though plugins can provide similar functionality.
+* Dired is a built-in file manager for Emacs that allows users to perform file operations within the editor.
+* Neovim does not have a built-in file manager, though plugins can provide similar functionality.
 1. ERC (Emacs IRC Client):
-- Emacs includes an IRC client (ERC) for chatting on IRC networks.
-- Neovim doesn't have a built-in IRC client.
+* Emacs includes an IRC client (ERC) for chatting on IRC networks.
+* Neovim doesn't have a built-in IRC client.
 1. Built-in Web Browser (Eww):
-- Emacs has a simple web browser called Eww that allows users to browse the web within the editor.
-- Neovim relies on external browsers for web browsing.
+* Emacs has a simple web browser called Eww that allows users to browse the web within the editor.
+* Neovim relies on external browsers for web browsing.
 1. Tramp Mode (Remote File Editing):
-- Emacs includes Tramp mode, which allows seamless editing of files on remote machines over SSH or other protocols.
-- Neovim also supports remote file editing but may handle it differently.
-- It's important to note that both Emacs and Neovim are highly extensible, and many features that are not present in the core can be added through plugins or extensions. Users often choose their preferred editor based on personal workflow, philosophy, and the specific features that matter most to them.
-- 
+* Emacs includes Tramp mode, which allows seamless editing of files on remote machines over SSH or other protocols.
+* Neovim also supports remote file editing but may handle it differently.
+* It's important to note that both Emacs and Neovim are highly extensible, and many features that are not present in the core can be added through plugins or extensions. Users often choose their preferred editor based on personal workflow, philosophy, and the specific features that matter most to them.
+* 
     * [top emacs distributions at DuckDuckGo](https://www.google.com/url?q=https://duckduckgo.com/?q%3Dtop%2Bemacs%2Bdistributions%26ia%3Dweb&sa=D&source=editors&ust=1711377894844334&usg=AOvVaw1kb8TQ1DAx5gEHWHY2PvVD) 
     * [](https://www.google.com/url?q=https://github.com/emacs-tw/awesome-emacs&sa=D&source=editors&ust=1711377894844597&usg=AOvVaw1FtHqJJVR2se9HM08tuTQj)
     * [emacs-tw/awesome-emacs: A community driven list of useful Emacs packages, libraries and other items.](https://www.google.com/url?q=https://github.com/emacs-tw/awesome-emacs&sa=D&source=editors&ust=1711377894844742&usg=AOvVaw0ayx2hI3ZzuE-UqkxxIP3P) 

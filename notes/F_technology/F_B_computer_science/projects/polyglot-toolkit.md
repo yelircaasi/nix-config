@@ -1,29 +1,40 @@
 # Polyglot Toolkit
 
-### PolyglotToolkitOwnerIsaac RileyTags
+
+### PolyglotToolkit
 
 Reader features (browser-based?) for parellel text, interlineator, etc.: make reference-languuage small and faint (and customizable) or togglable to make it easier to focus on the target language
 
+```
+
+i \in [j-3, j + diff + 3]
+
+r > c: j-3 \leq i \leq j+d+3
+
+c > c: i-3 \leq j \leq i+d+3
+
+```
 
 
-
-- other PolyglotToolkit Projects: translation-trainer: use tatoeba or supplied parallel text (optimally with multiple translations), compute metrics, show diff, display dashboard, etc.language utility (pre-processor) packages, esp for Arabic, Ancient Greek, ChineseAlignment Tool(s)make GUI tool (or nvim plugin) for manual sentence/word alignmentCLI for viewing parallel texts in the terminalVocalizer: add diacritics to language (seq2seq package) - for arabic, hebrew, ancient greek, latin (with macros → https://github.com/Alatius/latin-macronizer), http://ictibus.blogspot.com/, http://ilovegooglebooks.blogspot.com/search/label/macrons, russian → https://russiangram.com/, easy test case for training data, ukrainianLatin error detector: fix wrong endings → right architecture for finding single location (here error) in a sequenceMaybe start with Ancient Greek diacritics: easy data, learnable objectiveuse PoS tagging, Wiktionary word info (via Wiktionary tool) → later dependency parsing?
+* other PolyglotToolkit Projects: translation-trainer: use tatoeba or supplied parallel text (optimally with multiple translations), compute metrics, show diff, display dashboard, etc.language utility (pre-processor) packages, esp for Arabic, Ancient Greek, ChineseAlignment Tool(s)make GUI tool (or nvim plugin) for manual sentence/word alignmentCLI for viewing parallel texts in the terminalVocalizer: add diacritics to language (seq2seq package) - for arabic, hebrew, ancient greek, latin (with macros → https://github.com/Alatius/latin-macronizer), http://ictibus.blogspot.com/, http://ilovegooglebooks.blogspot.com/search/label/macrons, russian → https://russiangram.com/, easy test case for training data, ukrainianLatin error detector: fix wrong endings → right architecture for finding single location (here error) in a sequenceMaybe start with Ancient Greek diacritics: easy data, learnable objectiveuse PoS tagging, Wiktionary word info (via Wiktionary tool) → later dependency parsing?
 
 
 ## Expression Translation Tables (→ Multi-Word Expression Project, Proverbs Project)
 * https://en.wiktionary.org/wiki/Category:Multiword_terms_by_language
 
 
-
 ## Parallel Text Aligner
+
 
 # Parallel Text Alignment (and Formatting)
 * https://github.com/yelircaasi/parallel-text-aligner
 * https://github.com/yelircaasi/parallel-text-finisher
 
+
 *** example: https://2books.su/
 
-- saved links to sort
+
+* saved links to sort
     - PTF
         
         PTF Roadmap: simple end-to-end case: 2 aligned files, simple config, simple output PDFrefine project structurerefine config structure % options: first sample text, add book form with chapterswrite unit testswrite integration testsinstall texlive with all necessary packages in alpine container-> learn texlive structure & content of various packages (deb, but especially apk)-> slim down alpine texlive container (dockerslim? graph of files read during command execution?)
@@ -104,15 +115,17 @@ Reader features (browser-based?) for parellel text, interlineator, etc.: make re
         * [Massively Multilingual Document Alignment with Cross-lingualSentence-Mover’s Distance](https://youtu.be/0GmRL4rj_dA)
     
 
+
 ## Roadmap
 
-- [x]  Find good text sources
-- [x]  Open a .txt file in Julia
-- [x]  Tokenize sentences in Julia using WordTokenizer.jl
+
+* [x]  Find good text sources
+* [x]  Open a .txt file in Julia
+* [x]  Tokenize sentences in Julia using WordTokenizer.jl
      - [ ]  https://github.com/JelteF/PyLaTeX → import, vendor, or recreate what I need from scratch?- [ ]  look at this for epub: https://github.com/yihong0618/bilingual_book_maker
      - [ ]  split [pltk repo](https://github.com/yelircaasi/pltk) into multiple projects → decide which language for which one
      - [ ]  Bitext Alignment book
-- Gale-Church
+* Gale-Church
     - [ ]  [Gale-Church Paper](https://aclanthology.org/J93-1004.pdf)
     - [ ]  https://github.com/TakeLab/Coral
     - [ ]  [NLTK Gale-Church](https://github.com/nltk/nltk/blob/a915791ad501d41dbb7e3c13c4877a734505eaab/nltk/translate/gale_church.py)
@@ -124,6 +137,7 @@ Reader features (browser-based?) for parellel text, interlineator, etc.: make re
     - [ ]  https://github.com/gitpan/Text-GaleChurch
     - [ ]  https://www.sbert.net/index.html
      - [ ]  [Triplet Transformer Network for Multi-Label Document
+
 Classification](https://dl.acm.org/doi/pdf/10.1145/3558100.3563843)- [ ]  https://github.com/abarthakur/multilabel-deep-metric
      - [ ]  https://github.com/rsennrich/Bleualign
      - [ ]  https://github.com/bfsujason/bertalign* https://doi.org/10.1093/llc/fqac089
@@ -133,11 +147,12 @@ Classification](https://dl.acm.org/doi/pdf/10.1145/3558100.3563843)- [ ]  https:
      - [ ]  https://github.com/danielvarga/hunalign
      - [ ]  https://github.com/LowResourceLanguages/champollion
      - [ ]  [A survey on parallel corpora alignment](http://andrefs.github.io/publications/files/1102_corpalignment_mistar.pdf)- [ ]  [Revisiting sentence alignment algorithms for alignment visualization and evaluation](https://aclanthology.org/www.mt-archive.info/10/BUCC-2012-Yu.pdf)- [ ]  [Improve Sentence Alignment by Divide-and-conquer](https://arxiv.org/abs/2201.06907)- [ ]  [Very Low Resource Sentence Alignment: Luhya and Swahili](https://arxiv.org/abs/2211.00046)- [ ]  [Sentence Alignment with Parallel Documents Facilitates Biomedical Machine Translation](https://arxiv.org/abs/2104.08588)- [ ]  [Bilingual alignment transfers to multilingual alignment for unsupervised parallel text mining](https://arxiv.org/abs/2104.07642)- [ ]  [A New Aligned Simple German Corpus](https://arxiv.org/abs/2209.01106)- [ ]  [Exploiting Parallel Corpora to Improve Multilingual Embedding based Document and Sentence Alignment](https://arxiv.org/abs/2106.06766)- [ ]  [PMIndia -- A Collection of Parallel Corpora of Languages of India](https://arxiv.org/abs/2001.09907)- [ ]  [Robust Cross-lingual Embeddings from Parallel Sentences](https://arxiv.org/abs/1912.12481)- [ ]  [A Large Parallel Corpus of Full-Text Scientific Articles](https://arxiv.org/abs/1905.01852)- [ ]  [Vicinity-Driven Paragraph and Sentence Alignment for Comparable Corpora](https://arxiv.org/abs/1612.04113)- [ ]  [Learning Bilingual Sentence Embeddings via Autoencoding and Computing Similarities with a Multilayer Perceptron](https://arxiv.org/abs/1906.01942)- [ ]  
-- [ ]  https://bitbucket.org/tiedemann/lingua-align/wiki/Home
+* [ ]  https://bitbucket.org/tiedemann/lingua-align/wiki/Home
      - [ ]  https://github.com/robertostling/efmaral
-- [ ]  Later: add desktop gui app using these as dependencies → https://build-system.fman.io/ (or simply pyinstaller) with Darling and Wine to build for all 3 platforms (first try small toy example)
+* [ ]  Later: add desktop gui app using these as dependencies → https://build-system.fman.io/ (or simply pyinstaller) with Darling and Wine to build for all 3 platforms (first try small toy example)
 
-- OLDER
+
+* OLDER
     - [ ]  https://docs.julialang.org/en/v1/manual/types/
     - [ ]  write general visualization functions for grids and matrices        - [ ]  plot(0:0.1:1, 0:0.1:1, xticks=[0,0.5,1], yticks=[0,0.5,1])        * http://docs.juliaplots.org/latest/generated/attributes_axis/
     - [ ]  Make geometric weight grid and develop algorithm to find diagonal alignments
@@ -195,21 +210,30 @@ Classification](https://dl.acm.org/doi/pdf/10.1145/3558100.3563843)- [ ]  https:
     - [ ]  how do namespaces work in Julia?
     - [ ]  read about Julia plotting libraries
 
+
 ## Architecture
 
 1. Text input methods
+
 2. Text tokenization
+
 3. Text alignment → alternative entry point for pre-aligned texts
+
 4. Manual verification of aligned texts
+
 5. Formatting options for LaTeX (choice between manual / YAML file)
+
 6. LaTeX compilation and outpu
+
 
 ## Tech Stack
 
 Julia 
 
+
     → which gui?
          → https://towardsdatascience.com/6-julia-frameworks-to-create-desktop-guis-and-web-apps-9ae1a941f115
+
 
     → https://syl1.gitbook.io/julia-language-a-concise-tutorial/language-core/11-developing-julia-packages
 
@@ -219,30 +243,37 @@ Docker
 
 Web interface 
 
+
     → which tools? 
+
 
     → how to host?
 
+
 ## Text Sources
 
-- https://www.gutenberg.org/
-- https://en.wikisource.org/wiki/Main_Page
+
+* https://www.gutenberg.org/
+* https://en.wikisource.org/wiki/Main_Page
     - https://ws-export.wmcloud.org/?lang=en&title=The_Brothers_Karamazov
-- https://fb2bookfree.com/
-- https://archive.org/ (good for imperfect texts, OCR, etc.)
+* https://fb2bookfree.com/
+* https://archive.org/ (good for imperfect texts, OCR, etc.)
+
 
 ## Preprocessing
 
 Input formats:
 
-- .txt
-- .csv
-- .epub
-- .fb2
-- .htm(l)
-- .xml (also common intermediate format?)
+
+* .txt
+* .csv
+* .epub
+* .fb2
+* .htm(l)
+* .xml (also common intermediate format?)
 
 Hierarchy:
+
 
       Chapter > Paragraph > Sentence > Phrase > Word (?)
 
@@ -250,26 +281,32 @@ Tokenization at each level given above → see [WordTokenizers.jl](https://www.t
 
 Data structure:
 
+
 ## Bitext Alignment Component
 
 Data structures:
 
-- text segment structures: string array?
-- alignment structure: text segment structures, corresponding alignment index arrays → how to most structure indices to allow for efficient frequent shifting of indices? mutable struct?
-- n x m grid of alignment scores → filled in on “diagonal” (relative positional overlap) and within k of the “diagonal” to be learned with a max-margin approach: softmax regression over features?
-- geometric grid, where side lengths represent relative weight → use to find diagonal
-- feature vector for each proposed alignment: punctuation counts, stop word counts, capitalization counts (where applicable), word length, relative word length, relative character length, basic part of speech counts, etc. → tensor? dataframe with vector entries? → einsum notation for computations?
-- n x m score matrix
-- segment type annotations (predicted probabilities, types: paragraph, chapter title, page number, footnote):  → to feature vector?
+
+* text segment structures: string array?
+* alignment structure: text segment structures, corresponding alignment index arrays → how to most structure indices to allow for efficient frequent shifting of indices? mutable struct?
+* n x m grid of alignment scores → filled in on “diagonal” (relative positional overlap) and within k of the “diagonal” to be learned with a max-margin approach: softmax regression over features?
+* geometric grid, where side lengths represent relative weight → use to find diagonal
+* feature vector for each proposed alignment: punctuation counts, stop word counts, capitalization counts (where applicable), word length, relative word length, relative character length, basic part of speech counts, etc. → tensor? dataframe with vector entries? → einsum notation for computations?
+* n x m score matrix
+* segment type annotations (predicted probabilities, types: paragraph, chapter title, page number, footnote):  → to feature vector?
 
 Scoring Models: TODO: [Draw diagram](https://app.diagrams.net/)
 
-- concatenation of both feature vectors (→ their difference will be learned internally in the small neural network) as input to a small scoring model (FFNN?)
+
+* concatenation of both feature vectors (→ their difference will be learned internally in the small neural network) as input to a small scoring model (FFNN?)
     - trained by max margin: gold alignment given 1, each alignment in both directions with neighbors no further than j positions away scored 0 → triplet loss?
     - 1 basic relative weight-based model (linear regression likely sufficient) and many language-pair-specific models (FFNN likely superior)
-- Triplet / Siamese network to learn sentence pair scores from a relatively small set of function words (stop words) (and other very high-frequency lemmas?): 
+* Triplet / Siamese network to learn sentence pair scores from a relatively small set of function words (stop words) (and other very high-frequency lemmas?): 
+
 sentence → representation → aggregation → dense embedding model (except for models where aggregation and embedding occur together) → dot product / cosine distance as score (to be minimized)
+
 Key assumption: this score will be - with very high probability - higher for correct than for incorrect alignments (especially for true alignments vs neighboring alignments)
+
 → idea: add normalized length measures (character, token)
     - function-word translation probabilities - using a small set of frequent (i.e. function) words, their co-occurrence probabilities (or perhaps relative probabilities → log-odds ratio?) can be used to generate a score for each sentence pair
     - bag-of-words-based score
@@ -286,6 +323,7 @@ Approaches:
 1. Relative Weight-Based (i.e. length-based)
     1. paragraph
     2. sentence
+
 2. Content overlap-based
     1. lexicon-based
         1. stop-words (N most frequent) - more efficient
@@ -294,56 +332,75 @@ Approaches:
         4. word embedding-based? → see above
     2. punctuation-based
     3. consecutive n-gram overlap scores (with transliteration mapping rules)
+
 3. Neural approach
     1. one idea: all easy-to-compute features as input to alignment model (cf. non-neural?)
         1. baseline language-agnostic model from relative weight-based features
         2. language pair-specific additional features: bigrams, punctuation, stop words (→ possibly better to have overlap of possible translations of stop words, potentially weighted by translation probability), proper noun recognition, etc.
+
 4. Parameter tuning from training data (for all or most of the above) - possible (more primitive) alternative to the neural approach
+
 5. binary predictor for matching segment pairs: match / no match → possibility of using and tuning word embeddings 
+
 → embed sentence and use triplet network training to maximize “closeness” of respective embeddings
+
 → predict PoS for all words, use filler PoS embeddings for all words not in stop words, punctuation, N most common lemmas
+
 → embed each token, use two sequence models to each output a “sentence” (text unit) embedding, tor input to triplet loss
+
 → use beam search on the output of this to find most likely alignments
+
 6. translation-based approach
     1. full neural / statistical MT
     2.  → https://opennmt.net/,     * https://huggingface.co/docs/transformers/model_doc/marian    * https://marian-nmt.github.io/
     ***** https://opus.nlpl.eu/Opus-MT/
+
 7. RL-based approach: advantage of relatively small action space, typically limited number of look-aheads → how to parametrize environment, policy, etc.? → which algorithm(s) to use?
 
 Other ideas:
 
-- use “breakpoints” - likely paragraph, section, chapter etc. breaks → indicator of likelihood of certain alignments (naturally not ironclad)
-- proper noun anchoring approach: identify proper nouns (NER + pattern matching?) → different approaches for different language pairs
+
+* use “breakpoints” - likely paragraph, section, chapter etc. breaks → indicator of likelihood of certain alignments (naturally not ironclad)
+* proper noun anchoring approach: identify proper nouns (NER + pattern matching?) → different approaches for different language pairs
 
 Modules
 
-- Noiser: take clean and aligned texts (alignment data structure) and add noise, split some segments, combine some segments, to imitate look of Wiktionary or Project Gutenberg, etc. formats → input to training algorithms, with ground truth available (use break point tags to keep track of equivalences → one set for each version, clean and noisy, and in master data structure both)
-- 
+
+* Noiser: take clean and aligned texts (alignment data structure) and add noise, split some segments, combine some segments, to imitate look of Wiktionary or Project Gutenberg, etc. formats → input to training algorithms, with ground truth available (use break point tags to keep track of equivalences → one set for each version, clean and noisy, and in master data structure both)
+* 
+
 
 ### Relevant Algorithms
 
 1. Beam Search (adapted to bitex alignment
+
 2. Anchor point seeded beam search
     1. diagonal max overlap
     2. k steps in either direction for $4k^2$  possible alignments 
     3. search over proposed alignments, narrowing the search space as much as possible when high-quality alignments are found
     4. → see Bitext Alignment (2) for ideas on how to implement this
     5. above, but with max lookahead, before selecting anchor points above a certain threshold and continuing from there
+
 3. multilingual alignment with modified version of 1. (more than 2 languages at a time for greater robustness)
 
 → https://en.wikipedia.org/wiki/Category:Search_algorithms
 
 1. RL-powered search?
+
 2. Score grid traversal: 7 lookaheads (possible next alignments), need to re-evaluate 4 of those to see if alignment scores improve after combining segments
+
 3. anchor traversal: once p reliable good anchors are found (scores above a pre-determined threshold), reduce search space to feasible paths between anchors → algorithm to compute permissible paths / re-compute diagonals
+
 4. 
+
 
 ## Extensions
 
-- juxtalinear LaTeX generator
-- interlinear LaTeX generator
+
+* juxtalinear LaTeX generator
+* interlinear LaTeX generator
     - including from parallel texts
-- GUI app (in Rust? in Julia? in C++?)
+* GUI app (in Rust? in Julia? in C++?)
     - https://stackoverflow.com/questions/35328468/how-to-make-a-gui-in-julia
     - https://dev.to/davidedelpapa/rust-gui-introduction-a-k-a-the-state-of-rust-gui-libraries-as-of-january-2021-40gl
 
@@ -384,7 +441,8 @@ Language-agnostic BERT Sentence Embedding
 * [Making Monolingual Sentence Embeddings Multilingual using Knowledge Distillation](https://aclanthology.org/2020.emnlp-main.365.pdf)
 * [youtube subtitles parallel corpus - Поиск в Google](https://www.google.com/search?q=youtube+subtitles+parallel+corpus&rlz=1C5CHFA_enUS800US800&oq=youtube+subtitles+parallel+corpus&aqs=chrome..69i57j69i64.10589j0j4&sourceid=chrome&ie=UTF-8)
 
-- Ideas and notes
+
+* Ideas and notes
     - [ ]  use soundex index and make score based on comparison to expected soundex overlap for a correct alignment (given language pair and respective sentence lengths) → do same for n-gram overlap
     - [ ]  add error generator (insertion, deletion, even transposition) to training process
         * https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes 
@@ -398,7 +456,7 @@ Language-agnostic BERT Sentence Embedding
     
     eventually add word alignment 
     
-- Gale-Church
+* Gale-Church
         * [Paper](https://s3.amazonaws.com/tm-town-nlp-resources/Gale-Church+alignment.pdf)
         * https://github.com/dowobeha/Gale_and_Church_1993
     
@@ -409,7 +467,7 @@ Language-agnostic BERT Sentence Embedding
         * [vosmann/galechurch: An implementation of a language-independent parallel text alignment algorithm by Gale & Church](https://github.com/vosmann/galechurch)
         * [GCA Alignment Algorithm](https://en.wikipedia.org/wiki/Gale%E2%80%93Church_alignment_algorithm)
     
-- Alignment
+* Alignment
     - Survey Papers
         
         * [An Overview of Bitext Alignment Algorithms](https://www.ida.liu.se/~jodfo01/gslt/bitext-alignment-jody.pdf)
@@ -425,7 +483,7 @@ Language-agnostic BERT Sentence Embedding
         
         → https://groups.google.com/g/alt.conspiracy.princess-diana/c/rgkd6fPPcM4 
         
-- Sentence Embeddings
+* Sentence Embeddings
         * https://www.sbert.net/
         * [Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond](https://arxiv.org/abs/1812.10464)
         * https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html
@@ -438,7 +496,7 @@ Language-agnostic BERT Sentence Embedding
     
     Language-agnostic BERT Sentence Embedding
     
-- Existing Aligners
+* Existing Aligners
     - nltk
                 * http://www.nltk.org/api/nltk.align.html
         
@@ -494,10 +552,10 @@ Language-agnostic BERT Sentence Embedding
         * https://pypi.python.org/pypi/alignment/1.0.9
         * https://github.com/clab/fast_align
     
-- Dependency Parsing
+* Dependency Parsing
         * [maltparser](https://www.maltparser.org/)
     
-- → parallel-text-finisher
+* → parallel-text-finisher
         * https://neonnaut.github.io/    ‣ 
     
     for slim docker container: https://stackoverflow.com/questions/27428150/linux-how-to-track-all-files-accessed-by-a-process 
@@ -587,7 +645,7 @@ Language-agnostic BERT Sentence Embedding
     
     ‣
     
-- Data Sources, Corpora
+* Data Sources, Corpora
     
     → Recursos por idioma
     
@@ -641,7 +699,8 @@ Language-agnostic BERT Sentence Embedding
         * [OpenSubtitles2016: Extracting Large Parallel Corpora from Movie and TV Subtitles](http://www.lrec-conf.org/proceedings/lrec2016/pdf/947_Paper.pdf)
         * https://github.com/joy-xiaojizhang/parse-subtitles-corpus
     
-- Sort
+* Sort
+
 
         * http://www.nltk.org/_modules/nltk/corpus/reader/xmldocs.html
         * http://www.statmt.org/moses/?n=Moses.LinksToCorpora
@@ -983,6 +1042,7 @@ Language-agnostic BERT Sentence Embedding
 alignment rules: U{1:n} from both directions? blocks allowed? unaligned words also allowed?
 
 ```latex
+
 P = \textbf{1}(\textrm{max}(\textrm{rowsoftmax}(Z), \textrm{colsoftmax}(Z)) > \tau)
 
 Z_{[m \times n]} = L^{B}_{[m \times h]} (L_{[n \times h]}^{A})^T
@@ -992,12 +1052,15 @@ Z_{[m \times n]} = L^{B}_{[m \times h]} (L_{[n \times h]}^{A})^T
 = Q_{[m \times h]}^{A} (K^{B})^T_{[h \times n]} V_{[n \times h]}^{B} (Q_{[n \times h]}^{B} (K^{A})^T_{[h \times m]} V_{[m \times h]}^{A})^T
 
 = W_{Q[m \times m]}^{A} X_{[m \times h]}^{A} (W_{K[n \times n]}^{B} X_{[n \times h]}^{B})^T W_{V[n \times n]}^{B} X_{[n \times h]}^{B} (W_{Q[n \times n]}^{B} X_{[n \times h]}^{B} (W_{K[m \times m]}^{A} X_{[m \times h]}^{A})^T W_{V[m \times m]}^{A} X_{[m \times h]}^{A} 
+
 )^T
+
 ```
 
 align English with LA, GRC, FR, DE, ES, RU, ZH (start with DE, FR, RU); write package for realignment: x:y, y:z → x:z (need to flag ambiguities and fix manually)
 
-- data for EN-DE
+
+* data for EN-DE
     - 10k from bibles
     - 10k Tatoeba (300k total)
     - 20k from classic literature
@@ -1023,23 +1086,28 @@ add Project Syndicate to parallel text dataset, Eurozine, ereb.eu,
 
 alignment scheme: 
 
-- i=j for minimal (100%)
-- i:j for strict (additional)
-- i;j for bisurjective (additional)
-- (i-j)<>(k-l) for MWE additional pairs
-- i<>j for non-literal corresponding pairs
-- characters: = , : ;  ’><’ ‘<>’ ( ) . ?
+
+* i=j for minimal (100%)
+* i:j for strict (additional)
+* i;j for bisurjective (additional)
+* (i-j)<>(k-l) for MWE additional pairs
+* i<>j for non-literal corresponding pairs
+* characters: = , : ;  ’><’ ‘<>’ ( ) . ?
 
 output 3- or 4-dimensional tensor to account for different classes of alignments? k different heads?
 
 ```latex
+
 A_{[4, h]} (\vec{v} \otimes \vec{w} )_{[h, 1]} = \vec{p}_{[4, 1]} (?)
+
 ```
 
 modulating matrix C; enables k different outputs for different alignment levels
 
 ```latex
+
 A_i = L^B_{[m, h]} C_{i[h, h]} (L^A)^T_{[h, n]}, i \in \{1,2,...,k\}
+
 ```
 
 learn rules of tensor multiplication (in ML context)
@@ -1052,14 +1120,16 @@ word-alignment-viewer: make feature in webpage to show predicted alignment via s
 
 also add audio recordings & use alignment tool
 
-- alignment types: how to color-code alignments?
+
+* alignment types: how to color-code alignments?
     - semantic alignment
     - figurative alignment
     - syntactic alignment
     - loners (unpaired)
     - noise
 
-- Added value for language learners in language learning
+
+* Added value for language learners in language learning
     - easy word-for-word reading
     
 
@@ -1075,7 +1145,8 @@ use punctuation and word length to score match likelihood?
 
 does HFCC approach gain from mapping not to a single <UNK> token, but instead to length-based tokens: <UNK1>, <UNK2>, <UNK3>, …
 
-- Parallel Text & PGTK
+
+* Parallel Text & PGTK
     
     ‣ 
         * [SimAlign: High Quality Word Alignments without Parallel Training Data using Static and Contextualized Embeddings](https://arxiv.org/abs/2004.08728v4)
@@ -1213,13 +1284,15 @@ Create pretraining set with existing SotA word/sentence aligner and BERT-based m
 
 Simple alignment types:
 
-- minimal - only exact translations
-- strict - suitable word pairs aligned; particles & similar left unaligned
-- bisurjective: (best-one) - every word from each language aligned to best match
-- multi-word expressions: ranges aligned to ranges
+
+* minimal - only exact translations
+* strict - suitable word pairs aligned; particles & similar left unaligned
+* bisurjective: (best-one) - every word from each language aligned to best match
+* multi-word expressions: ranges aligned to ranges
 * [Multilingual Aligned Corpora From Movie Subtitles](https://giguete.users.greyc.fr/alignment/Subtitles_MM-EG.pdf)
 
-- HFCC detector
+
+* HFCC detector
     
     pronouns
     
@@ -1251,7 +1324,9 @@ Simple alignment types:
     
     adjective-like
 
+
 ## Parallel Text Finisher
+
 
 # parallel-text-finisher
 
@@ -1267,13 +1342,15 @@ Parallel text flutter app (or other cross-platform app, such as Doxius)
 
 how to make hover effects?: word/span highlight → highlight aligned words in corresponding sentence(s)
 
+
 ## WiktionaryTool.jl
+
 
 # WiktionaryTool.jl 🌱
 * https://github.com/yelircaasi/wiktionary-etymology-tool
 
 
-- Language Candidates
+* Language Candidates
     
     Julia
     
@@ -1304,7 +1381,7 @@ how to make hover effects?: word/span highlight → highlight aligned words in c
         
         * [⇒](http://pkgdocs.julialang.org/v1/creating-packages/)
     
-- Similar Projects
+* Similar Projects
         * [Julia](https://www.youtube.com/watch?v=77gv1Q2PhxQ) → https://github.com/wswu/yawipa
     
     → https://pypi.org/search/?q=wiktionary
@@ -1323,7 +1400,7 @@ how to make hover effects?: word/span highlight → highlight aligned words in c
         * https://pypi.org/project/wiktextract/
         * https://github.com/Suyash458/WiktionaryParser
     
-- Applications
+* Applications
     
     Etymology Graphs
     
@@ -1337,7 +1414,7 @@ how to make hover effects?: word/span highlight → highlight aligned words in c
     
     False Friend Tables
     
-- Notes
+* Notes
     
     ⇒ Julia package for Wiktionary scraping
     
@@ -1362,7 +1439,7 @@ how to make hover effects?: word/span highlight → highlight aligned words in c
         
         → identify missing entries on Wiktionary and generate suggestions
         
-- Child Projects
+* Child Projects
     - CLSEC (cross-lingual semantic and etymological contrasts)
         - contrasting etymologies / root analysis
         - translation persistence of various words
@@ -1371,14 +1448,14 @@ how to make hover effects?: word/span highlight → highlight aligned words in c
         - → use for NSM or similar semantic representation/metalanguage
         - → closely related to paremiological projects → use common tools and methodologies where appropriate        - [CLI-Dictionary](https://github.com/Lodobo/CLI-Dictionary) - Scripts for downloading and viewing wiktionary entries from Kaikki.org.
     - Intercomprehension - Etymologically-Related Words
-- Dumps and Dump Parsing
+* Dumps and Dump Parsing
         * https://github.com/dan1wang/jsonbook-builder
     
-- Wiktionary API
+* Wiktionary API
         * https://en.wiktionary.org/w/api.php
         * https://en.wiktionary.org/api/rest_v1/#/Page_content/get_page_definition_term
     
-- Etymology lists on Wiktionary and Other Data Sources
+* Etymology lists on Wiktionary and Other Data Sources
         * https://en.wiktionary.org/wiki/Category:Terms_derived_from_Proto-Indo-European
     
     → https://en.wiktionary.org/wiki/Category:Terms_derived_from_Ancient_Greek
@@ -1430,7 +1507,7 @@ how to make hover effects?: word/span highlight → highlight aligned words in c
         * https://en.wiktionary.org/wiki/Category:Terms_derived_from_Proto-Semitic
         * https://en.wiktionary.org/wiki/Category:Terms_derived_from_Proto-Indo-European
     
-- Scraping
+* Scraping
         * https://julia.school/julia/scraping/
         * https://www.juliabloggers.com/julia-introduction-to-web-scraping-phivolcs-seismic-events/
         * http://www.stochasticlifestyle.com/finalizing-julia-package-documentation-testing-coverage-publishing/
@@ -1441,6 +1518,7 @@ how to make hover effects?: word/span highlight → highlight aligned words in c
 
 
 ## Grecromancer
+
 
 # grecromancer (Classics TTS)
 
@@ -1453,30 +1531,36 @@ To do: Divide into smaller sub-projects.
 
 Align at word level by pre-trained ASR:
 
-- get output or intermediate output in another language (Italian for Latin, Italian / Modern Greek / Russian for Greek)
-- recover temporal alignment
-- align Latin / greek characters / syllables to corresponding best match in ASR output
+
+* get output or intermediate output in another language (Italian for Latin, Italian / Modern Greek / Russian for Greek)
+* recover temporal alignment
+* align Latin / greek characters / syllables to corresponding best match in ASR output
     - dynamic programming approach?
     - beam search?
     - forced alignment → look into off-the-shelf
-- using the time stamps for each word (ideally with both loose and tight to put bounds on estimate of temporal location of word), create different permutations
+* using the time stamps for each word (ideally with both loose and tight to put bounds on estimate of temporal location of word), create different permutations
+
 
 # IP Concerns
 
 1. learn about relevant IP law and legal precedent
+
 2. decide whether to contact and collaborate with relevant speakers
+
 → after impressive samples have been generated?
+
 
 # Resources
 * [Valerio Velardo - The Sound of AI](https://www.youtube.com/@ValerioVelardoTheSoundofAI/playlists)
 * [Digital speech processing](https://www.youtube.com/playlist?list=PLvv3PyiCcNrFuT7CEIvIr4a4g4orascx3)
 * [Deep Learning (for Audio) with Python](https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)
 
-- Polytonic Representation
+
+* Polytonic Representation
     - atomic: each breathing / vowel / accent combination treated as a separate character
     → same for diphthongs?
     - sequential: each
-- ASR and Alignment
+* ASR and Alignment
     - [ ]  https://github.com/xinjli/allosaurus
     - [ ]  https://github.com/readbeyond/aeneas
     - [ ]  [Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/en/latest/)
@@ -1499,7 +1583,7 @@ Align at word level by pre-trained ASR:
     - [ ]  https://app.litmaps.com/seed/238756929
     - [ ]  https://app.litmaps.com/seed/15327392
     - [ ]  [MFA](https://www.semanticscholar.org/paper/Montreal-Forced-Aligner%3A-Trainable-Text-Speech-McAuliffe-Socolof/9e8b06c60722fee06d7f01d4eeaf3ae81e0247d7)
-- TTS
+* TTS
         * [Papers with Code - Text-To-Speech Synthesis](https://paperswithcode.com/task/text-to-speech-synthesis/)
         * [Papers with Code - Text-To-Speech Synthesis](https://paperswithcode.com/task/text-to-speech-synthesis/codeless)
     
@@ -1547,7 +1631,8 @@ Align at word level by pre-trained ASR:
 * [Speech & Music | Applied Deep Learning](https://www.youtube.com/playlist?list=PLoEMreTa9CNkL5fCXx50MN6nwWvsJgio6)
 * https://www.graphcore.ai/posts/how-to-use-openais-whisper-for-speech-recognition 
 
-- TTS LA/GRC
+
+* TTS LA/GRC
         * [Audio samples from "Semi-Supervised Training for Improving Data Efficiency in End-to-End Speech Synthesis"](https://google.github.io/tacotron/publications/semisupervised/)
         * [How much dataset is needed at least to train on your version? · Issue #12 · NVIDIA/tacotron2 · GitHub](https://github.com/NVIDIA/tacotron2/issues/12)
         * [How to train a new model with dataset of diffirent language? · Issue #321 · NVIDIA/tacotron2 · GitHub](https://github.com/NVIDIA/tacotron2/issues/321)
@@ -1570,82 +1655,154 @@ Align at word level by pre-trained ASR:
 
 ### Podium Arts
 
+
 # Podium Arts
 
-- https://ancientgreek.eu/
-- https://www.youtube.com/@Podium-arts
+
+* https://ancientgreek.eu/
+* https://www.youtube.com/@Podium-arts
+
 
 # YouTube
 
 1. [Apology of Socrates, by Xenophon](https://www.youtube.com/watch?v=YGITyNb4CUo)
+
 2. [Aristotelian Physiognomics (reconstr. Ancient Attic Greek pronunciation)](https://www.youtube.com/watch?v=R92kiYZVXY0)
+
 3. ["A Greek Boy at Home" (Rouse) part 2 + appendix; reconstructed Ancient Attic Greek pronunciation.](https://www.youtube.com/watch?v=fFL8Vk1tVHE)
+
 4. [Genesis chapter 01 recited in reconstructed Ancient Attic Greek pronunciation, by Ioannis Stratakis](https://www.youtube.com/watch?v=-pQZ7XXRv4w)
+
 5. [Athenian Constitution (Xenophon) narrated in reconstructed Ancient Attic Greek, by Ioannis Stratakis](https://www.youtube.com/watch?v=izwQ30Q5bYg)
+
 6. [Categories by Aristotle (reconstructed Ancient Attic Greek pronunciation) by Ioannis Stratakis](https://www.youtube.com/watch?v=q8qElrxe7KU&t=6s)
+
 7. [Lucius or The Ass (Lucian) narrated in reconstructed Ancient Attic Greek by Ioannis Stratakis](https://www.youtube.com/watch?v=ksAoPtfkZjA)
+
 8. [Aristaenetus , love letter 1.1 read in reconstructed Ancient Attic Greek](https://www.youtube.com/watch?v=VCKMEWp7LlQ)
+
 9. [on Sleep & Waking by Aristotle. (reconstructed Ancient Attic Greek pronunciation)](https://www.youtube.com/watch?v=53cqETn4gCU)
+
 10. [on Sense & the Sensible, by Aristotle, (reconstructed Ancient Attic Greek pronunciation)](https://www.youtube.com/watch?v=h7rIePi3R64)
+
 11. ["A Greek Boy at Home" (Rouse) part 1. II-XVII reconstructed Ancient Attic Greek pronunciation.](https://www.youtube.com/watch?v=Bv9vFpGw3gg)
+
 12. [Iliad, rhapsody 20, by Homer recited in reconstructed Ancient Greek, by Ioannis Stratakis](https://www.youtube.com/watch?v=vGRA1nGQUFg)
+
 13. [Iliad, rhapsody 07, by Homer recited in reconstructed Ancient Greek, by Ioannis Stratakis](https://www.youtube.com/watch?v=4UEg3qIqhk4)
+
 14. [Gospel of John, part of chapter 17 (narrated in reconstructed Ancient Attic Greek pronunciation)](https://www.youtube.com/watch?v=URNXt72VoKY)
+
 15. ["A First Greek Reader" (Beresford & Douglas) reconstructed Ancient Greek pronunciation](https://www.youtube.com/watch?v=Cr0_lKX7UTM)
+
 16. ["Cleitophon" by Plato, (reconstructed Ancient Greek pronunciation)](https://www.youtube.com/watch?v=mUNhBolXP3w)
+
 17. [῾Critias῾ by Plato, narrated in reconstructed Ancient Greek pronunciation](https://www.youtube.com/watch?v=wN5ltc7pK-U)
+
 18. [Iliad, rhapsody 12, by Homer recited in reconstructed Ancient Greek, by Ioannis Stratakis](https://www.youtube.com/watch?v=v5cBn2X5NXE)
+
 19. [the Fables of Aesop, part-02 (ed. C.Halm)](https://www.youtube.com/watch?v=-Cwfs-TSvGk)
+
 20. [Iliad, rhapsody 03, by Homer recited in reconstructed Ancient Greek, by Ioannis Stratakis](https://www.youtube.com/watch?v=0KuSv38NDDo)
+
 21. [Iliad 19, by Homer (reconstructed Ancient Greek pronunciation)](https://www.youtube.com/watch?v=N8lrHTMf_Do&t=63s)
+
 22. [Euthyphro, by Plato (reconstructed Ancient Greek pronunciation)](https://www.youtube.com/watch?v=tHIGHELlnns)
+
 23. ["Characters" by Theophrastus, read in reconstructed Ancient Greek](https://www.youtube.com/watch?v=SpM8Da7x2lk)
+
 24. [the Book of Revelation (St. John the Divine) in reconstructed Koine Ancient Greek](https://www.youtube.com/watch?v=8vhDMvUHjRg)
+
 25. [Daphnis & Chloë (by Longus) - Δάφνις ϗ Χλόη (Λόγγος)](https://www.youtube.com/watch?v=jCUPC0vuiqs&t=36s)
+
 26. [On Memory & Recollection, by Aristotle (reconstructed Ancient Greek pronunciation)](https://www.youtube.com/watch?v=AHP3uV-8vk8)
+
 27. [Apology of Socrates, by Plato (reconstructed Ancient Greek pronunciation)](https://www.youtube.com/watch?v=k3tlBO3agFU&t=185s)
+
 28. [Aesop's fables (3, 4, 11, 23, 101 ed.Halm)](https://www.youtube.com/watch?v=8MejrGFg6g0&t=80s)
+
 29. ["Politics" (book 1, ch.12) by Aristotle (audiobook sample)](https://www.youtube.com/watch?v=g1mOT1RH8o8&t=27s)
+
 30. [Letter to Nicocles (audiobook) a.k.a. "the Royal Art"](https://www.youtube.com/watch?v=sYxZ3gGOz64)
+
 31. ["Meditations" book 01 (Marcus Aurelius) in reconstructed Ancient Attic Greek by Ioannis Stratakis](https://www.youtube.com/watch?v=p2DsUgSs72k)
+
 32. [Pindar "Olympian Odes"](https://www.youtube.com/watch?v=gEp7AVotbCE)
+
 33. [On the Heavens 1.09 (Aristotle) spoken reconstructed Ancient Greek pronunciation](https://www.youtube.com/watch?v=RNlzQ6Trr3Q)
+
 34. [Batrachomyomachia by "Homer" (spoken reconstructed Ancient Greek pronunciation)](https://www.youtube.com/watch?v=NXFVCDQE7uc)
+
 35. [the "Art of Grammar" by Dionysius Thrax (spoken reconstructed Ancient Greek)](https://www.youtube.com/watch?v=k9dxBH3RgaQ)
+
 36. [Aristotle "On Harmony" (On Music), Problemata XIX, in spoken reconstructed Ancient Greek](https://www.youtube.com/watch?v=tudLtIpLvuQ)
+
 37. [Pindar Olympian Ode .01 (spoken reconstructed Ancient Greek)](https://www.youtube.com/watch?v=mrfVRb7yW8M)
+
 38. [Aristotle: "On the Voice" (Problemata XI), spoken in reconstructed Ancient Greek](https://www.youtube.com/watch?v=1ithB9SdQcM)
+
 39. [Isocrates' "Letter to Demonicus" (audiobook spoken in reconstructed Ancient Greek)](https://www.youtube.com/watch?v=NuKjxVjnzN4)
+
 40. ["On the Refusal of a Pension" oration by Lysias (audiobook spoken in reconstructed Ancient Greek)](https://www.youtube.com/watch?v=GffSvdLsUgk)
+
 41. ["An EphesianTale" by Xenophon of Ephesus (audiobook spoken in reconstructed Ancient Greek)](https://www.youtube.com/watch?v=g7FIlh-eY2Q)
+
 42. [Homer, Odyssey rhapsody 01 (audiobook spoken in reconstructed Ancient Greek)](https://www.youtube.com/watch?v=UdyXlUmD3v4)
+
 43. [Aristotle's "On Interpretation" (audiobook spoken in reconstructed Ancient Greek)](https://www.youtube.com/watch?v=mcxQFC-4vWo)
+
 44. [Plato: "Ion" (audiobook spoken in reconstructed Ancient Greek)](https://www.youtube.com/watch?v=TTmCJDXktRY)
+
 45. [Aristotle: On the Soul, book 3, ch 8 (audiobook spoken in reconstructed Ancient Greek)](https://www.youtube.com/watch?v=tfr43gwAZOM)
+
 46. [the Tablet of Cebes (audiobook in reconstructed Ancient-Greek)](https://www.youtube.com/watch?v=eo5zzuZ_eLE)
+
 47. ["Poetics" by Aristotle (audiobook spoken reconstructed ancient Greek)](https://www.youtube.com/watch?v=Am71Njxz0eI)
+
 48. [Xenophon, Anabasis 1.1 (spoken reconstructed ancient Greek)](https://www.youtube.com/watch?v=vEcQxQRVa-A)
+
 49. [Xenophon "Spartan Constitution" (audiobook spoken in reconstructed ancient Greek)](https://www.youtube.com/watch?v=IbAnHCDUDiw)
+
 50. [Sappho to Aphrodite, fragm-1, sung in reconstructed ancient Greek](https://www.youtube.com/watch?v=XTHE-P4oZ9w)
+
 51. [Ψήγματα Ἀρχαίου Ἑλληνικοῦ Ἤχου (παρουσίασις/presentation 8/11/2015)](https://www.youtube.com/watch?v=RDt_XEy3SHM)
+
 52. [Sophocles, Oedipus at Colonus 1-13 (spoken reconstructed ancient Greek)](https://www.youtube.com/watch?v=ZYRKzOl_hV8)
+
 53. [Euripides, Helen 1-67 (spoken reconstructed ancient Greek)](https://www.youtube.com/watch?v=LkxmGuE4ae8)
+
 54. [Iliad A , 16 Feb 2015 (excerpts)](https://www.youtube.com/watch?v=o8aOL_w5vno)
+
 55. [Homer, iliad-A trailer (for the 16-02-2015 performance, Athens GR)](https://www.youtube.com/watch?v=8-T04m14HR0)
+
 56. [Homer, Odyssey a1-27 (spoken in reconstructed ancient Greek pronunciation)](https://www.youtube.com/watch?v=MOvVWiDsPWQ)
+
 57. [Empedocles of Agrigento, "On Nature" (fragm. 4) spoken reconstructed Ancient Greek](https://www.youtube.com/watch?v=PxdmjxNH7Pw)
+
 58. [Sappho, "the Brothers Poem" (spoken reconstructed Ancient Greek)](https://www.youtube.com/watch?v=GdMnNSuAW1g)
+
 59. [Herodotus, Histories 1.1-4 (spoken reconstructed ancient Greek)](https://www.youtube.com/watch?v=Fkuq1MWfaWc)
+
 60. ["Fox & Snake" (Aesop's fable 033, spoken reconstructed ancient Greek))](https://www.youtube.com/watch?v=AiYO1nUEyyA)
+
 61. ["Fox with swollen stomach" (Aesop's fable 030, in spoken ancient Greek))](https://www.youtube.com/watch?v=XriVDG-Z1q4)
+
 62. ["Virtues & Vices" of Aristotle (spoken reconstructed ancient Greek)](https://www.youtube.com/watch?v=Q_jnHuiB_5M)
+
 63. [longest word in the world (spoken reconstructed ancient Greek pronunciation)](https://www.youtube.com/watch?v=HZvg4Zy5rLs)
+
 64. [Hippocratic Oath (reconstructed ancient Greek pronunciation)](https://www.youtube.com/watch?v=Q5FHZx0oOqs)
+
 65. [Aesop's Fable 19 (spoken in reconstructed ancient Greek)](https://www.youtube.com/watch?v=VpMGZmtsfHI)
+
 66. [iliad 1. intro](https://www.youtube.com/watch?v=4ltPZxh_4ZQ)
+
 67. [Iliad of Homer production](https://www.youtube.com/watch?v=4iA1Ej84jCw)
+
 68. [Callimachus 2 in reconstructed ancient Greek pronunciation](https://www.youtube.com/watch?v=UXmpHKTuGGM)
+
 69. [Theogony 1-21 spoken in reconstructed Ancient Greek](https://www.youtube.com/watch?v=WjgnVvI1H7g)
+
 
 # Audiobooks in spoken Ancient Greek Language
 * [HIPPOCRATES the Medical Oath](https://ancientgreek.eu/free/oath.html) 4 / 0
@@ -1734,7 +1891,8 @@ Align at word level by pre-trained ASR:
 
 0.7 [XENOPHON Apology of Socrates](https://ancientgreek.eu/audiobooks/apology-x.html) 21 / 30 
 
-- Maybe not
+
+* Maybe not
         * [HOMER Batrachomyomachia](https://ancientgreek.eu/audiobooks/batracho.html)
         * [HOMER Odyssey 01](https://ancientgreek.eu/audiobooks/odyssey-01.html)
         * [HOMER Iliad 20](https://ancientgreek.eu/audiobooks/iliad-20-homer.html)
@@ -1748,13 +1906,16 @@ Align at word level by pre-trained ASR:
     
      ([ARISTOTLE *Nicomachean Ethics 01](https://ancientgreek.eu/#))*
 
+
 ## Latinitium
+
 
 # Latinitium
 
-- https://latinitium.com/category/2000-years-of-latin-prose/
-- https://www.youtube.com/@Latinitium
-- https://soundcloud.com/user-327529648
+
+* https://latinitium.com/category/2000-years-of-latin-prose/
+* https://www.youtube.com/@Latinitium
+* https://soundcloud.com/user-327529648
 * https://store.latinitium.com/products/evangelium-lucae-audiobook (224 / 16)
 * https://store.latinitium.com/collections/pugio-bruti-a-crime-story-in-easy-latin, https://dokumen.pub/pugio-bruti.html (102 / 16)
 * https://store.latinitium.com/collections/ad-alpes-a-tale-of-roman-life (440 / 39)
@@ -1763,54 +1924,59 @@ Align at word level by pre-trained ASR:
 
 → 1413 / 126 (23.5h)
 
+
 # https://latinitium.com/latin-audio-archive
 
-- [The Story Of Androclus And The Lion](https://latinitium.com/latin-audio-archive#The_Story_Of_Androclus_And_The_Lion)
-- [The Story Of Perseus Part 2 – Latin Texts](https://latinitium.com/latin-audio-archive#The_Story_Of_Perseus_Part_2_Latin_Texts)
-- [The Story Of Perseus Part I](https://latinitium.com/latin-audio-archive#The_Story_Of_Perseus_Part_I)
-- [City Life, Country Life (Pliny)](https://latinitium.com/latin-audio-archive#City_Life_Country_Life_Pliny)
-- [Cicero’s Story About Fraud](https://latinitium.com/latin-audio-archive#Ciceros_Story_About_Fraud)
-- [Erasmus’ Perilous Winter Journey](https://latinitium.com/latin-audio-archive#Erasmus_Perilous_Winter_Journey)
-- [Cicero on the Magical Ring of Gyges](https://latinitium.com/latin-audio-archive#Cicero_on_the_Magical_Ring_of_Gyges)
-- [Sallust on Glory and Virtue](https://latinitium.com/latin-audio-archive#Sallust_on_Glory_and_Virtue)
-- [Aurelius Victor on Romulus, the First King of Rome](https://latinitium.com/latin-audio-archive#Aurelius_Victor_on_Romulus_the_First_King_of_Rome)
-- [Cincinnatus](https://latinitium.com/latin-audio-archive#Cincinnatus)
-- [Demosthenes and The Donkey’s Shadow](https://latinitium.com/latin-audio-archive#Demosthenes_and_The_Donkeys_Shadow)
-- [The Story of the Shrewd Elephant](https://latinitium.com/latin-audio-archive#The_Story_of_the_Shrewd_Elephant)
-- [Suetonius on Julius Caesar](https://latinitium.com/latin-audio-archive#Suetonius_on_Julius_Caesar)
-- [The Story About The Wood-cutter And The Golden Axe](https://latinitium.com/latin-audio-archive#The_Story_About_The_Wood-cutter_And_The_Golden_Axe)
-- [Aurelius Commodus](https://latinitium.com/latin-audio-archive#Aurelius_Commodus)
-- [The Crime and Fate of Daedalus](https://latinitium.com/latin-audio-archive#The_Crime_and_Fate_of_Daedalus)
-- [Two Letters from Cicero](https://latinitium.com/latin-audio-archive#Two_Letters_from_Cicero)
-- [Caesar and the Pirates](https://latinitium.com/latin-audio-archive#Caesar_and_the_Pirates)
-- [Never Lose Hope in Your Studies](https://latinitium.com/latin-audio-archive#Never_Lose_Hope_in_Your_Studies)
-- [Ancient Roman Furniture](https://latinitium.com/latin-audio-archive#Ancient_Roman_Furniture)
-- [Sallust on the Death of Catiline](https://latinitium.com/latin-audio-archive#Sallust_on_the_Death_of_Catiline)
-- [The Story of Aeneas](https://latinitium.com/latin-audio-archive#The_Story_of_Aeneas)
-- [Cicero’s Quest for the Tomb of Archimedes](https://latinitium.com/latin-audio-archive#Ciceros_Quest_for_the_Tomb_of_Archimedes)
-- [Roman Houses](https://latinitium.com/latin-audio-archive#Roman_Houses)
-- [Gladiatorial Fights in Ancient Rome](https://latinitium.com/latin-audio-archive#Gladiatorial_Fights_in_Ancient_Rome)
-- [Cicero on True and Perfect Friendship](https://latinitium.com/latin-audio-archive#Cicero_on_True_and_Perfect_Friendship)
-- [The Story of the Avenging Pigs](https://latinitium.com/latin-audio-archive#The_Story_of_the_Avenging_Pigs)
-- [Tommaso Vallauri on Q. Curtius Rufus](https://latinitium.com/latin-audio-archive#Tommaso_Vallauri_on_Q_Curtius_Rufus)
-- [What Price did Philoxenus Pay for his Outspokenness?](https://latinitium.com/latin-audio-archive#What_Price_did_Philoxenus_Pay_for_his_Outspokenness)
-- [The Life of Cicero, Part 2](https://latinitium.com/latin-audio-archive#The_Life_of_Cicero_Part_2)
-- [The Life of Cicero, Part I](https://latinitium.com/latin-audio-archive#The_Life_of_Cicero_Part_I)
-- [The Life and Death of Brutus](https://latinitium.com/latin-audio-archive#The_Life_and_Death_of_Brutus)
-- [Cicero on the Circus Games](https://latinitium.com/latin-audio-archive#Cicero_on_the_Circus_Games)
-- [The Story of Theseus, Part II](https://latinitium.com/latin-audio-archive#The_Story_of_Theseus_Part_II)
-- [The Story of Theseus, Part I](https://latinitium.com/latin-audio-archive#The_Story_of_Theseus_Part_I)
-- [The Christmas Story X2 (Vulgate And Sebastien Châteillon)](https://latinitium.com/latin-audio-archive#The_Christmas_Story_X2_Vulgate_And_Sebastien_Chateillon)
-- [Catiline Addresses the Conspirators](https://latinitium.com/latin-audio-archive#Catiline_Addresses_the_Conspirators)
-- [The Audacious Architect of Alexandria (Vitruvius)](https://latinitium.com/latin-audio-archive#The_Audacious_Architect_of_Alexandria_Vitruvius)
-- [The Story of Mantacius the fraudster](https://latinitium.com/latin-audio-archive#The_Story_of_Mantacius_the_fraudster)
-- [Why Pliny wants to be like Spurinna](https://latinitium.com/latin-audio-archive#Why_Pliny_wants_to_be_like_Spurinna)
-- [What did Cicero Feel Going into Exile?](https://latinitium.com/latin-audio-archive#What_did_Cicero_Feel_Going_into_Exile)
+
+* [The Story Of Androclus And The Lion](https://latinitium.com/latin-audio-archive#The_Story_Of_Androclus_And_The_Lion)
+* [The Story Of Perseus Part 2 – Latin Texts](https://latinitium.com/latin-audio-archive#The_Story_Of_Perseus_Part_2_Latin_Texts)
+* [The Story Of Perseus Part I](https://latinitium.com/latin-audio-archive#The_Story_Of_Perseus_Part_I)
+* [City Life, Country Life (Pliny)](https://latinitium.com/latin-audio-archive#City_Life_Country_Life_Pliny)
+* [Cicero’s Story About Fraud](https://latinitium.com/latin-audio-archive#Ciceros_Story_About_Fraud)
+* [Erasmus’ Perilous Winter Journey](https://latinitium.com/latin-audio-archive#Erasmus_Perilous_Winter_Journey)
+* [Cicero on the Magical Ring of Gyges](https://latinitium.com/latin-audio-archive#Cicero_on_the_Magical_Ring_of_Gyges)
+* [Sallust on Glory and Virtue](https://latinitium.com/latin-audio-archive#Sallust_on_Glory_and_Virtue)
+* [Aurelius Victor on Romulus, the First King of Rome](https://latinitium.com/latin-audio-archive#Aurelius_Victor_on_Romulus_the_First_King_of_Rome)
+* [Cincinnatus](https://latinitium.com/latin-audio-archive#Cincinnatus)
+* [Demosthenes and The Donkey’s Shadow](https://latinitium.com/latin-audio-archive#Demosthenes_and_The_Donkeys_Shadow)
+* [The Story of the Shrewd Elephant](https://latinitium.com/latin-audio-archive#The_Story_of_the_Shrewd_Elephant)
+* [Suetonius on Julius Caesar](https://latinitium.com/latin-audio-archive#Suetonius_on_Julius_Caesar)
+* [The Story About The Wood-cutter And The Golden Axe](https://latinitium.com/latin-audio-archive#The_Story_About_The_Wood-cutter_And_The_Golden_Axe)
+* [Aurelius Commodus](https://latinitium.com/latin-audio-archive#Aurelius_Commodus)
+* [The Crime and Fate of Daedalus](https://latinitium.com/latin-audio-archive#The_Crime_and_Fate_of_Daedalus)
+* [Two Letters from Cicero](https://latinitium.com/latin-audio-archive#Two_Letters_from_Cicero)
+* [Caesar and the Pirates](https://latinitium.com/latin-audio-archive#Caesar_and_the_Pirates)
+* [Never Lose Hope in Your Studies](https://latinitium.com/latin-audio-archive#Never_Lose_Hope_in_Your_Studies)
+* [Ancient Roman Furniture](https://latinitium.com/latin-audio-archive#Ancient_Roman_Furniture)
+* [Sallust on the Death of Catiline](https://latinitium.com/latin-audio-archive#Sallust_on_the_Death_of_Catiline)
+* [The Story of Aeneas](https://latinitium.com/latin-audio-archive#The_Story_of_Aeneas)
+* [Cicero’s Quest for the Tomb of Archimedes](https://latinitium.com/latin-audio-archive#Ciceros_Quest_for_the_Tomb_of_Archimedes)
+* [Roman Houses](https://latinitium.com/latin-audio-archive#Roman_Houses)
+* [Gladiatorial Fights in Ancient Rome](https://latinitium.com/latin-audio-archive#Gladiatorial_Fights_in_Ancient_Rome)
+* [Cicero on True and Perfect Friendship](https://latinitium.com/latin-audio-archive#Cicero_on_True_and_Perfect_Friendship)
+* [The Story of the Avenging Pigs](https://latinitium.com/latin-audio-archive#The_Story_of_the_Avenging_Pigs)
+* [Tommaso Vallauri on Q. Curtius Rufus](https://latinitium.com/latin-audio-archive#Tommaso_Vallauri_on_Q_Curtius_Rufus)
+* [What Price did Philoxenus Pay for his Outspokenness?](https://latinitium.com/latin-audio-archive#What_Price_did_Philoxenus_Pay_for_his_Outspokenness)
+* [The Life of Cicero, Part 2](https://latinitium.com/latin-audio-archive#The_Life_of_Cicero_Part_2)
+* [The Life of Cicero, Part I](https://latinitium.com/latin-audio-archive#The_Life_of_Cicero_Part_I)
+* [The Life and Death of Brutus](https://latinitium.com/latin-audio-archive#The_Life_and_Death_of_Brutus)
+* [Cicero on the Circus Games](https://latinitium.com/latin-audio-archive#Cicero_on_the_Circus_Games)
+* [The Story of Theseus, Part II](https://latinitium.com/latin-audio-archive#The_Story_of_Theseus_Part_II)
+* [The Story of Theseus, Part I](https://latinitium.com/latin-audio-archive#The_Story_of_Theseus_Part_I)
+* [The Christmas Story X2 (Vulgate And Sebastien Châteillon)](https://latinitium.com/latin-audio-archive#The_Christmas_Story_X2_Vulgate_And_Sebastien_Chateillon)
+* [Catiline Addresses the Conspirators](https://latinitium.com/latin-audio-archive#Catiline_Addresses_the_Conspirators)
+* [The Audacious Architect of Alexandria (Vitruvius)](https://latinitium.com/latin-audio-archive#The_Audacious_Architect_of_Alexandria_Vitruvius)
+* [The Story of Mantacius the fraudster](https://latinitium.com/latin-audio-archive#The_Story_of_Mantacius_the_fraudster)
+* [Why Pliny wants to be like Spurinna](https://latinitium.com/latin-audio-archive#Why_Pliny_wants_to_be_like_Spurinna)
+* [What did Cicero Feel Going into Exile?](https://latinitium.com/latin-audio-archive#What_did_Cicero_Feel_Going_into_Exile)
+
 
 ### Latinum
 
+
 # Latinum
 * https://www.patreon.com/posts/download-8843692
+
 
 ## # interlineator
 
@@ -1820,23 +1986,29 @@ toolkit for generating linguistic annotations (interlinear, juxtalinear, hover, 
 
 option to only gloss words under a certain frequency, or not contained in a certain list
 
+
 ## # henry-higgins
 
 A) Constrastive audio visualization (user vs target), normalizing for speed and pitch, also aligning to transcription and to each other
 
 B) Convolutional (+ attention?) binary classifier native vs non-native, good for visualization, esp. in frequency domain, but also in time domain
+
 → look at how to visualize activations and attention alignments
+
 
 ## Resources
 
-- [Exploring Phoneme-Level Speech Representations for End-to-End Speech Translation](https://esalesky.github.io/assets/pdf/acl19_exploring.pdf)
-- Allosaurus → enhance and fine-tune, use in articulatory feedback??
-- [Phoneme-to-Audio Alignment with Recurrent Neural Networks for Speaking and Singing Voice](https://hal.science/hal-03552964/file/1676anav.pdf)
+
+* [Exploring Phoneme-Level Speech Representations for End-to-End Speech Translation](https://esalesky.github.io/assets/pdf/acl19_exploring.pdf)
+* Allosaurus → enhance and fine-tune, use in articulatory feedback??
+* [Phoneme-to-Audio Alignment with Recurrent Neural Networks for Speaking and Singing Voice](https://hal.science/hal-03552964/file/1676anav.pdf)
+
 
 ## Considerations
 
-- make as a plugin to Praat? or similar, but with a more polished interface?
-- 
+
+* make as a plugin to Praat? or similar, but with a more polished interface?
+* 
 * https://apps.kde.org/artikulate/ 
 
 make GAN-/RL-based accent trainer.
@@ -1845,7 +2017,8 @@ Train to distinguish user's attempt from gold sample. The user retries.
 
 Should be invariant to pitch and timbre
 
-- other PolyglotToolkit Projects:
+
+* other PolyglotToolkit Projects:
     
     translation-trainer: use tatoeba or supplied parallel text (optimally with multiple translations), compute metrics, show diff, display dashboard, etc.
     

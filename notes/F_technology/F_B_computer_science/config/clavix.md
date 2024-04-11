@@ -1,29 +1,66 @@
 # clavix: Keybindings and Shortcuts
 
+Major keybind sources:
+
+Termulator: wezterm, kitty, alacritty
+
+Nvim
+
+Emacs
+
+Browser: Luakit, Nyxt, Qutebrowser, Firefox, ungoogled-chromium
+
+Browser extensions
+
+Compositor: sway, swayfx, dwl, hyprland, river
+
+Widgets: ags, nwg-shell, eww, fabric
+
+Kanata-cmd
+
+Espanso
+
+GUI: thunar, zathura, dolphin, 
+
+TUI: spotify, lazygit
+
+CLI apps
+
+Notebooks: jupyter, juno, pluto, quarto, nteract
+
+Launcher: wofi, ulauncher
+
+Lockscreen
 
 other names considered: kbcoord / kbgeneral / tastix
 
 Sub-tool: keycritic/keylinter: a linter for your keybindings: collects
+
 all keybindings and examines them for coherence, collisons, and new
+
 mappable keys → use light AI; also make scores → convenience scores for
+
 keymappings, coherence scores
 
 ------------------------------------------------------------------------
 
 Roadmap
-- [ ] compile list of applications (top, basic, extended, someday -
+* [ ] compile list of applications (top, basic, extended, someday -
     according to priority)
-- [ ] develop standard notation (JSON/YAML/TOML for now) to unambiguously
+* [ ] develop standard notation (JSON/YAML/TOML for now) to unambiguously
     record all keystrokes
     - [ ] look at vscode JSON format and identify shortcomings
 
+
     - [ ] add variable system for things like leader key, modifier<i>,
         etc.
+
 
     - [ ] develop good way to deal with chords → synchronicity vs
         sequentiality        - [ ] like this: “($ctrl ;) ($ctrl k)”, “($ctrl $alt k) ($))” →
             ‘$’ as escape for ‘(’ and ‘)’
         - [ ] add prefix for valid scope: “[vscode] ($ctrl $alt k) ($))”
+
 
     -  [ ] clean notation for ctrl, alt, F{i}, etc → unicode?        - [ ] ⎈ for ctrl / $ctrl or ⎋?
         - [ ] ⌗ for alt / $alt
@@ -31,55 +68,65 @@ Roadmap
         - [ ]  ␛ for escape / $esc
         - [ ]  ␡ delete / $del
 
+
         -[ ] ␣ for space / $space
         - [ ] etc. → https://wincent.com/wiki/Unicode_representations_of_modifier_keys
 
+
     - [ ] write unambiguous specification
-- [ ] collect different notations used in apps and documentation
-- [ ] write code for conflict detection, distinguishing between different
+* [ ] collect different notations used in apps and documentation
+* [ ] write code for conflict detection, distinguishing between different
     types: same-scope, differnet-scope, semantic incoherence (not
     strictly a conflict, but also worth detecting)
-- [ ] start putting together prototype of universal config clavix.json
-- [ ] write parser specifically for the different notation styles
-- [ ] write document parsers for different app configs
-- [ ] write ‘intelligent’ parser for miscellaneous configs, like readme
+* [ ] start putting together prototype of universal config clavix.json
+* [ ] write parser specifically for the different notation styles
+* [ ] write document parsers for different app configs
+* [ ] write ‘intelligent’ parser for miscellaneous configs, like readme
     tables, copy-and-paste from websites, etc → simple lightweight
     classifier from regex/pattern-generated one-hot/BoW features?
     (written in Rust, ideally)
-- [ ] develop writers for specific app configs, Home Manager, etc
-- [ ] develop NLP element for keybind descriptions: regex + embeddings +
+* [ ] develop writers for specific app configs, Home Manager, etc
+* [ ] develop NLP element for keybind descriptions: regex + embeddings +
     NER to identify semantic categories
-- [ ] develop functionality to group keystrokes on different criteria
-- [ ] develop good interfaces: first CLI, later TUI, later GUI
-- [ ] syntax highlighting for keystroke syntax (low priority, but cool)
-- [ ] extend config parsers to write changed keybindings (with backup,
+* [ ] develop functionality to group keystrokes on different criteria
+* [ ] develop good interfaces: first CLI, later TUI, later GUI
+* [ ] syntax highlighting for keystroke syntax (low priority, but cool)
+* [ ] extend config parsers to write changed keybindings (with backup,
     including optional support for commenting out old keybindings lines,
     but also backing up the config to e.g. ~/.cache/clavix/<timestamp>)
 
 ------------------------------------------------------------------------
 
--   notes
+
+*   notes
+
 
     use [dhall](https://dhall-lang.org/#) as a configuration language?
 
+
     → focus on defining a consistent user experience (esp. keystrokes)
     transferable between specific applications (such as window managers)
+
 
     rewrite in Rust (portability) or CL (for easiest extensibility? →
     look at how qtile handles config; learn more about plugins best
     practices in general)
 
+
     → make Nix- and homewarrior-compatible!
+
 
     Create a general tool, analogous to colorflip, that tracks (and
     sets) and detects conflicts or inconsistencies between keybindings
     for different apps → name: kbgeneral
 
+
     find all standard key shortcuts for Ubuntu, Linux NixOS, etc → First
     step: CLI to read configs (potentially from a config file listing
     all apps) and create keybindings table
 
--   Build on / draw from
+
+*   Build on / draw from
     * https://github.com/pawamoy/keycut - A command line tool that helps
     you remembering ALL the numerous keyboard shortcuts of ALL your
     favorite programs [link](https://github.com/pawamoy/keycut)
@@ -88,7 +135,8 @@ Roadmap
 
 Keybinding Collection
 
--   shortcut lists
+
+*   shortcut lists
     * https://cheatography.com/tag/ubuntu/
     * https://dgkim5360.github.io/blog/linux/2017/07/a-cheatsheet-for-ubuntu-shortcuts/
     * https://www.geeksforgeeks.org/keyboard-shortcuts-for-ubuntu-set-1/
@@ -97,21 +145,27 @@ Keybinding Collection
     * https://defkey.com/
     * https://defkey.com/ubuntu-shortcuts?pdf=true&modifiedDate=20210304T113257
 
--   specific apps
+
+*   specific apps
+
 
     -   VScode crap
         * https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf
+
 
         VSCode - group all commands by type, such as "navigation between
         parts of vscode", "file operations", "overwritten by nvim",
         "code pop-ups", "code running and debugging", etc.
 
+
         change all Alt+C shortcuts in VSCode for fzf
+
 
         * [Anki Deck Control Center](https://docs.google.com/spreadsheets/d/1Lzr3GcZ2fpCONyJkTht8G-Ehn415gB2as3wXOvGlLHU/edit#gid=1690951121)
     * [Keyboard shortcuts for YouTube - YouTube Help](https://support.google.com/youtube/answer/7631406?hl=en)
 
--   semantic groups
+
+*   semantic groups
     1.  window management
     2.  terminal multiplexing
     3.  editing and software development
@@ -119,87 +173,125 @@ Keybinding Collection
     5.  web browsing
     6.  system commands
 
--   espanso notes
+
+*   espanso notes
+
 
     Need to integrate cleanly → separation of concerns
 
--   other keys to remap
+
+*   other keys to remap
+
 
     home, end, page up, page down
 
--   proglang keywords: → how to integrate with espanso? via special characters to begin triggers
+
+*   proglang keywords: → how to integrate with espanso? via special characters to begin triggers
+
 
     → maybe don’t integrate this part with espanso; pure-kanata can be faster
 
--   Frequency of letter combinations
+
+*   Frequency of letter combinations
+
 
         * ['BF', 'BG', 'BK', 'BQ', 'BW', 'BX', 'BZ', 'CJ', 'CV', 'CW', 'CX', 'DK', 'DX', 'DZ', 'FB', 'FD', 'FH', 'FJ', 'FK', 'FN', 'FP', 'FQ', 'FV', 'FW', 'FX', 'FZ', 'GB', 'GC', 'GJ', 'GK', 'GP', 'GQ', 'GV', 'GX', 'GZ', 'HG', 'HJ', 'HK', 'HQ', 'HV', 'HX', 'HZ', 'IY', 'JB', 'JC', 'JD', 'JF', 'JG', 'JH', 'JJ', 'JK', 'JL', 'JM', 'JN', 'JP', 'JQ', 'JR', 'JS', 'JT', 'JV', 'JW', 'JX', 'JY', 'JZ', 'KC', 'KJ', 'KK', 'KQ', 'KV', 'KX', 'KZ', 'LJ', 'LQ', 'LX', 'LZ', 'MJ', 'MK', 'MQ', 'MV', 'MX', 'MZ', 'PG', 'PJ', 'PQ', 'PV', 'PX', 'PZ', 'QA', 'QB', 'QC', 'QD', 'QE', 'QF', 'QG', 'QH', 'QI', 'QJ', 'QK', 'QL', 'QM', 'QN', 'QO', 'QP', 'QQ', 'QR', 'QS', 'QT', 'QV', 'QW', 'QX', 'QY', 'QZ', 'SJ', 'SX', 'SZ', 'TJ', 'TK', 'TQ', 'TX', 'UQ', 'UW', 'VB', 'VC', 'VD', 'VF', 'VG', 'VH', 'VJ', 'VK', 'VL', 'VM', 'VN', 'VP', 'VQ', 'VT', 'VV', 'VW', 'VX', 'VZ', 'WG', 'WJ', 'WQ', 'WV', 'WW', 'WX', 'WZ', 'XB', 'XD', 'XG', 'XJ', 'XK', 'XM', 'XN', 'XQ', 'XR', 'XS', 'XW', 'XZ', 'YJ', 'YK', 'YQ', 'YV', 'YX', 'YY', 'ZB', 'ZC', 'ZD', 'ZF', 'ZG', 'ZJ', 'ZK', 'ZM', 'ZN', 'ZP', 'ZQ', 'ZR', 'ZS', 'ZT', 'ZV', 'ZW', 'ZX', 'BH', 'BP', 'CB', 'CF', 'CG', 'CN', 'CP', 'CZ', 'DQ', 'FC', 'FG', 'FM', 'GF', 'GW', 'HC', 'HH', 'HP', 'IJ', 'IW', 'KB', 'KD', 'KP', 'KT', 'MD', 'MG', 'MH', 'MT', 'MW', 'OQ', 'PB', 'PC', 'PD', 'PF', 'PK', 'PN', 'PW', 'RJ', 'RQ', 'RX', 'RZ', 'SV', 'TD', 'TV', 'UH', 'UJ', 'UU', 'VR', 'VS', 'WB', 'WC', 'WK', 'WM', 'WP', 'WU', 'XL', 'YF', 'YH', 'YU', 'ZH', 'ZL', 'AQ', 'BC', 'BD', 'BN', 'CD', 'DP', 'HF', 'IH', 'KF', 'KM', 'KW', 'LH', 'SG', 'TG', 'UZ', 'VU', 'WF', 'WY', 'XF', 'XV', 'YZ', 'ZU', 'ZY', 'AA', 'BM', 'CM', 'DB', 'DC', 'DF', 'DT', 'GD', 'HD', 'JI', 'KG', 'KH', 'KR', 'KU', 'MR', 'NX', 'OZ', 'TB', 'UV', 'XO', 'XX', 'XY', 'YG', 'YW', 'ZZ', 'BV', 'HB', 'MC', 'MF', 'NB', 'NZ', 'TP', 'TZ', 'UX', 'WD', 'XH', 'YB', 'AO', 'CQ', 'DH', 'DJ', 'EJ', 'EZ', 'HW', 'ML', 'SD', 'UK', 'UY', 'VY', 'XU', 'FS', 'KO', 'KY', 'LG', 'LN', 'NP', 'NQ', 'NW', 'SR', 'TF', 'LB', 'OJ', 'SQ', 'WT', 'YD', 'ZO', 'DN', 'DW', 'SB', 'YR', 'FY', 'MN', 'NR', 'SN', 'GM', 'LR', 'TN', 'BB', 'IQ', 'KL', 'NH', 'NJ', 'UO', 'AE', 'AJ', 'AZ', 'LC', 'PY', 'ZI', 'HL', 'HM', 'LW', 'RW', 'YN', 'AH', 'YC', 'GT', 'HS', 'RH', 'WL', 'YL', 'EK', 'PM', 'YA', 'BT', 'IU', 'KA', 'SF', 'YT', 'DM', 'AX', 'DV', 'LP', 'OX', 'UF', 'LK', 'OH', 'IX', 'XE', 'BJ', 'CS', 'II', 'LM', 'SW', 'YM', 'GG', 'YP', 'ZA', 'EH', 'GY', 'HN', 'JA', 'TC', 'TM', 'XC', 'EB', 'RB', 'NM', 'YI', 'XA', 'DG', 'EU', 'WR', 'DL', 'RF', 'LV', 'WS', 'OY', 'OE', 'SK', 'XI', 'CY', 'RP', 'DD', 'IK', 'BS', 'XT', 'KS', 'DY', 'HY', 'ZE', 'GS', 'KN', 'JE', 'NK', 'NV', 'LF', 'JO', 'PS', 'SL', 'EQ', 'OA', 'SY', 'JU', 'AW', 'GL', 'MY', 'IZ', 'NL', 'OK', 'FL', 'SM', 'GN', 'NF', 'XP', 'RV', 'VO', 'EO', 'NN', 'AF', 'HU', 'NU', 'WN', 'FT', 'TW', 'CC', 'HR', 'DR', 'GU', 'RL', 'OI', 'IP', 'UB', 'MB', 'UD', 'MS', 'YE', 'OG', 'PH', 'FU', 'MM', 'OB', 'RK', 'YS', 'KI', 'NY', 'TL', 'IB', 'RG', 'UI', 'AK', 'PU', 'PT', 'BI', 'BR', 'MU', 'EW', 'CK', 'AU', 'EG', 'RC', 'RR', 'PI', 'LT', 'DS', 'RU', 'UG', 'HT', 'GO', 'LU', 'UA', 'UP', 'PP', 'UM', 'VA', 'LS', 'EY', 'BA', 'FF', 'UE', 'DU', 'GA', 'QU', 'CL', 'CR', 'YO', 'DA', 'GI', 'SC', 'RN', 'CU', 'EF', 'FA', 'OC', 'TT', 'EP', 'RM', 'BY', 'OV', 'EI', 'BU', 'DO', 'UC', 'RD', 'SP', 'BO', 'OD', 'GR', 'AP', 'IF', 'AG', 'AV', 'OO', 'FR', 'EX', 'KE', 'AY', 'SA', 'WO', 'OP', 'TY', 'GH', 'AB', 'BL', 'FE', 'MP', 'RY', 'LD', 'EV', 'IG', 'TU', 'PL', 'VI', 'CI', 'AM', 'FI', 'IA', 'IV', 'OS', 'ID', 'SU', 'IR', 'SH', 'AI', 'IM', 'MI', 'PA', 'OW', 'MO', 'TS', 'NI', 'UL', 'NA', 'PO', 'WE', 'RT', 'OL', 'AD', 'EM', 'WI', 'EE', 'WH', 'GE', 'IE', 'WA', 'LO', 'UN', 'RS', 'SO', 'SS', 'UT', 'ET', 'NC', 'LY', 'TR', 'IL', 'OT', 'AC', 'US', 'CT', 'NO', 'PR', 'EC', 'PE', 'HO', 'FO', 'DI', 'NS', 'LA', 'EL', 'TA', 'CA', 'UR', 'OM', 'SI', 'MA', 'BE', 'LL', 'CH', 'LI', 'CE', 'RA', 'EA', 'NE', 'IC', 'RO', 'RI', 'HI', 'DE', 'ME', 'CO', 'VE', 'LE', 'IO', 'OU', 'AS', 'HA', 'SE', 'NG', 'NT', 'TO', 'ST', 'AR', 'AL', 'IT', 'IS', 'ED', 'OF', 'TE', 'OR', 'ES', 'TI', 'ND', 'EN', 'AT', 'ON', 'RE', 'AN', 'ER', 'IN', 'HE', 'TH']
 
--   Good (hybrid) modifiers
+
+*   Good (hybrid) modifiers
+
 
     q → infrequently followed by most letters; map q+u to ‘qu’
+
 
     semicolon → or permanent for all other non-alphabet characters? 15
     good left-hand keys
 
+
     single quote → or permanent for all other non-alphabet characters?
     15 good left-hand keys
+
 
     caps lock → hybrid modifier, tap to escape, hold for control → enter
     as second hybrid control?
 
+
     tab
+
 
     double shift
 
+
     shift + caps lock
 
+
     slash
+
 
     left square bracket → or permanent for all other non-alphabet
     characters like brackets? 15 good left-hand keys
 
+
     right square bracket (slightly less comfortable) → maybe clipboard
     management?
 
+
     left alt → 18 good right-hand keys
 
+
     right alt → 15 good left-hand keys
+
 
     backslash (even less comfortable) → modifier for keyboard layer
     switching?
 
+
     backtick → less comfortable → maybe for application launching?
+
 
     -   good hybrid modifier chords
 
+
         right shift + slash
+
 
         right shift + dot
 
+
         right shift + comma
 
--   other keybinding ideas
+
+*   other keybinding ideas
+
 
     shift + shift for caps lock
 
--   potentially ‘freed’ keys
+
+*   potentially ‘freed’ keys
+
 
     numbers → use for snippets? commands?
 
+
     right bracket
+
 
     left bracket
 
+
     backslash
 
+
     shift + quote →
+
 
     right alt + space
 
 ------------------------------------------------------------------------
 
--   https://github.com/jtroo/kanata
+
+*   https://github.com/jtroo/kanata
+
 
     -   Kanata Documentation]()
         - [Minimal example](https://github.com/jtroo/kanata/blob/main/cfg_samples/minimal.kbd)
@@ -264,15 +356,18 @@ Keybinding Collection
         * https://github.com/jtroo/kanata/blob/main/docs/config.adoc
     * https://www.reddit.com/r/rust/comments/w0zqk4/kanata_v105_an_advanced_keyboard_remapper_for/
 
+
     How to type Croatian, Polish, and Norwegian special characters on
     Ubuntu US Intl keyboard? → just use kanata or similar
 
--   https://github.com/kmonad/kmonad
+
+*   https://github.com/kmonad/kmonad
         * https://www.reddit.com/r/Kmonad/
         * https://precondition.github.io/home-row-mods
         * https://github.com/kmonad/kmonad-contrib/tree/master/keymaps
         * https://github.com/kmonad/kmonad
         * https://gnulinux.ch/kmonad
+
 
         * [Powerful keybindings easier than ever with KMonad](https://www.youtube.com/watch?v=Dhj1eauljwU)
         * https://github.com/kmonad/kmonad/blob/master/startup/kmonad%40.service
@@ -285,7 +380,8 @@ Keybinding Collection
         * https://github.com/david-janssen/kmonad The inspiration for kanata
         (Linux, Windows, Mac)
 
--   Hybrid Modifier / Hypermodifier
+
+*   Hybrid Modifier / Hypermodifier
         * https://www.youtube.com/results?search_query=xcape+linux
         * https://manpages.ubuntu.com/manpages/xenial/man1/xcape.1.html
         * https://www.youtube.com/results?search_query=xcape
@@ -293,6 +389,7 @@ Keybinding Collection
         * https://superuser.com/questions/958734/linux-os-level-key-chord
         * https://wiki.archlinux.org/title/Xbindkeys
         * https://wiki.archlinux.org/title/Xbindkeys
+
 
         * [Schoonover](https://www.youtube.com/watch?v=70IxjLEmomg&t=298s)
         * https://github.com/altercation/dotfiles-tilingwm/blob/master/.config/systemd/user/xcape.service
@@ -303,20 +400,26 @@ Keybinding Collection
         * https://www.reddit.com/r/vim/comments/iqumac/can_you_use_chords_or_hyper_keys_in_vim/
         * https://unix.stackexchange.com/questions/107352/how-to-allow-chords-of-keyboard-keys-to-change-the-keymap-temporarily
 
+
         Ethan Schoonover video on Xmonad -> tab, backslash, semicolon, etc.
         as hybrid modifiers (xkb + xcape + systemd user services) -> use
         kmonad?
 
+
         xkb and xcape for hypermodifier → link
+
 
         alols/xcape: Linux utility to configure modifier keys to act as
         other keys when pressed and released on their own.
 
+
         * [XMonad Demo](https://www.youtube.com/watch?v=70IxjLEmomg&t=298s)
         * https://github.com/search?q=repo%3Aaltercation%2Fdotfiles-tilingwm+xkb&type=code
 
--   1S
+
+*   1S
     * [Reddit - How do you manage your windows?](https://www.reddit.com/r/neovim/comments/11lqwrn/how_do_you_manage_your_windows/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=10&utm_content=share_button) → keybinds
+
 
     (2) Is there a quick way to switch/swap tab with escape?
     XCAPE/XMODMAP : archlinux
@@ -324,6 +427,7 @@ Keybinding Collection
 → use dhall? kdl? hcl?
 
 keybinds.jsonc
+
 
     // Note: this file includes all possible configuration options.
     // Sane people's configurations typically use just a subset of these.
@@ -339,10 +443,14 @@ keybinds.jsonc
 
 declaration.?
 
+
 ***** Idea: Kanata extension to create a keyboard image from the
+
 config file
 
+
     (defsrc
+
 
     esc            f1   f2   f3   f4             f5    f6    f7    f8          f9   f10  f11   f12
     grv       1      2    3      4      5       6     7      8     9      0       -      =    bspc       
@@ -351,9 +459,12 @@ config file
     lsft      z      x    c      v      b       n     m      ,     .      /                   rsft           up 
     lctl      lmet   lalt             spc                  ralt        rmet                   rctl      lft down rght
 
+
     )
 
+
     (deflayer default
+
 
     caps           f1   f2   f3   f4               f5      f6     f7    f8          f9   f10  f11   f12
     grv       1      2    3      4       5       6       7       8     9      0       -      =     bspc       
@@ -362,9 +473,12 @@ config file
     lsft      z      x    c      @vimnav b       @number @spcl   ,     .      /                    rsft               up
     lctl      lmet   lalt             spc                     ralt        rmet                     rctl          lft down rght
 
+
     )
 
+
     (deflayer vimnav
+
 
     -             -     -   -     -             -     -    -     -          -    -    -    -
     -       -      -    -      -      -       -     -      -     -      -      -      -    -       
@@ -373,9 +487,12 @@ config file
     -       -      -    -      -      -       -     -      -     -      -                  -         -
     -       -      -             -                                      -      -           -       - - -
 
+
     )
 
+
     (deflayer germanmode
+
 
     -             -     -   -     -             -     -    -     -          -    -    -    -
     -       -      -    -      -      -       -     -      -     -      -      -      -    -       
@@ -384,10 +501,13 @@ config file
     @gshift -      -    -      -      -       -     -      -     -      -                  @gshift   -
     -       -      -             -                                      -      -           -       - - -
 
+
     )
+
 
     (deflayer germanmodecaps
 
+
     -             -     -   -     -             -     -    -     -          -    -    -    -
     -       -      -    -      -      -       -     -      -     -      -      -      -    -       
     -       -      -    -      -      -       -     @U     -     @O     -      -      -    -          
@@ -395,10 +515,13 @@ config file
     -       -      -    -      -      -       -     -      -     -      -                  -         -
     -       -      -             -                                      -      -           -       - - -
 
+
     )
+
 
     (deflayer freq_unicode
 
+
     -             -     -   -     -             -     -    -     -          -    -    -    -
     -       -      -    -      -      -       -     -      -     -      -      -      -    -       
     -       -      -    -      -      -       -     @U     -     @O     -      -      -    -          
@@ -406,9 +529,12 @@ config file
     -       -      -    -      -      -       -     -      -     -      -                  -         -
     -       -      -             -                                      -      -           -       - - -
 
+
     )
 
+
     (deflayer numbers
+
 
     -             -     -   -     -             -     -    -     -          -    -    -    -
     -       -      -    -      -      -       -     -      -     -      -      -      -    -       
@@ -417,9 +543,12 @@ config file
     -       0      1    2      3      -       -     -      -     -      -                  -         -
     -       -      -             -                                      -      -           -       - - -
 
+
     )
 
+
     (deflayer punctuationetc
+
 
     -             -     -   -     -                 -     -    -     -          -    -    -    -
     -       -       -       -      -      -       -     -      -     -      -      -      -    -       
@@ -428,9 +557,12 @@ config file
     -       @angleL @angleR 2      3      -       -     -      -     -      -                  -         -
     -       -      -             -                                          -      -           -       - - -
 
+
     )
 
+
     (deflayer ascii_special
+
 
     -             -     -   -     -             -     -    -     -          -    -    -    -
     -       -      -      -     -      -       -     -      -     -      -      -      -    -       
@@ -439,7 +571,9 @@ config file
     -       -      S-1    S-2   S-3    -       -     -      -     -      -                  -         -
     -       -      -                 -                                   -      -           -       - - -
 
+
     )
+
 
     (defalias
         hybrctl (tap-hold-press 200 200 esc lctl)
@@ -455,6 +589,7 @@ config file
         A (unicode Ä)
         O (unicode Ö)
         U (unicode Ü)
+
 
         angleL (unicode ⟨)
         angleR (unicode ⟩)
@@ -480,3 +615,17 @@ config file
     )
 
 → find software used to make keybinding images → SVG for zoomability?
+
+Caps_lock 58, escape 1 -> get all keycodes
+
+Keybinds
+* super shift f : toggle float
+* super shift 0-9 : ?
+* super space : launch app
+* super shift e : logout
+* super alt space : file search
+* super shift enter : browse
+* super enter : terminal
+* super shift ? : keybindings
+* super ctrl space : dialog of all windows
+* super [0-9] : new window

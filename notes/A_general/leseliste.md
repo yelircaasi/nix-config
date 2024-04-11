@@ -1,6 +1,7 @@
 # Leseliste
 
-- A
+* 
+* A
     
     A Very Short Introduction to ... https://en.wikipedia.org/wiki/Very_Short_Introductions
     
@@ -480,7 +481,7 @@
     American Foreign Policy
     
         
-- B
+* B
     - A
         
         Reflections on Fundamental Matters: Not for the Satisfied Mind
@@ -3134,7 +3135,7 @@
                         
                         
                         
-- C
+* C
     
     Справочник по Высшей Математике
     
@@ -3175,7 +3176,7 @@
     Innumeracy (Paulos)
     
         
-- D
+* D
     - A
         
         The Oxford Dictionary of Science
@@ -3252,7 +3253,7 @@
         Dictionary of the Earth - Juv 551 F23d
         
     - E
-- E
+* E
     - A
         
         
@@ -3300,7 +3301,7 @@
         
         How to Create a Mind
         
-- F
+* F
     - A
         
         50 izuma koji su promijenili povijest
@@ -3317,7 +3318,7 @@
         
         * [LibGen Parsing](https://libgen.is/search.php?&req=parsing&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
         
-- G
+* G
     - A
         
         Home Bodies
@@ -4057,7 +4058,7 @@
         Creating a Learning Society
         
                 
-- H
+* H
     - A
         
         Arts and Ideas
@@ -4900,5048 +4901,3426 @@
         The Joy of Cooking
         
     - L
-- 
+* 
 
-Other Lists
+* Other Lists
 
-Non-fiction
+* Non-fiction
 
+* Sapiens
 
-Sapiens
+* Worldly Philosophers
 
+* Genome
 
-Worldly Philosophers
+* Thinking Fast and Slow
 
+* Sparks of Genius
 
-Genome
+* Rational Optimist
 
+* Übermensch
 
-Thinking Fast and Slow
+* Man's Search for Meaning
 
+* The Myth of Sisyphus
 
-Sparks of Genius
+* Hillbilly Elegy
 
+* The Righteous Mind
 
-Rational Optimist
+* Fiction
 
+* Candide
 
-Übermensch
+* Lolita
 
+* Atlas Shrugged
 
-Man's Search for Meaning
+* Fountainhead
 
+* Anthem
 
-The Myth of Sisyphus
+* Handmaid's Tale
 
+* 1984
 
-Hillbilly Elegy
+* Brave New World
 
+* Brothers Karamazov
 
-The Righteous Mind
+* Anna Karenina
 
+* Death of Ivan Ilyich
 
-Fiction
+* The Nose
 
+* The Plague
 
-Candide
+* The Stranger
 
+* Heart of a Dog
 
-Lolita
+* <Dürenmatt>
 
+* The Alchemist
 
-Atlas Shrugged
+* The Great Gatsby
 
+* Articles
 
-Fountainhead
+* What Drives Success?
 
+* The Problem of Praise
 
-Anthem
-
-
-Handmaid's Tale
-
-
-1984
-
-
-Brave New World
-
-
-Brothers Karamazov
-
-
-Anna Karenina
-
-
-Death of Ivan Ilyich
-
-
-The Nose
-
-
-The Plague
-
-
-The Stranger
-
-
-Heart of a Dog
-
-
-<Dürenmatt>
-
-
-The Alchemist
-
-
-The Great Gatsby
-
-
-Articles
-
-
-What Drives Success?
-
-
-The Problem of Praise
-
-
+* 
 * Joe Price Books
-Future books:
 
+* Future books:
 
-A People’s History of the United States- Zinn
+* A People’s History of the United States- Zinn
 
+* Being there- Komisar
 
-Being there- Komisar
+* Economic Growth- Weil
 
+* The Martian- Weir
 
-Economic Growth- Weil
+* How do I Know if I Know?- Bytheway
 
+* On the Path Home- Eyring
 
-The Martian- Weir
+* The Christ who Heals- Givens
 
+* Worship- Huntsman
 
-How do I Know if I Know?- Bytheway
+* Eve and the Choice Made in Eden- Campbell
 
+* One by One- Bednar
 
-On the Path Home- Eyring
+* Voices of Hope- Mansfield
 
+* In Quiet Desperation- Matis
 
-The Christ who Heals- Givens
+* Spark Joy- Kondo
 
+* Beauty Sick- Engeln
 
-Worship- Huntsman
+* Temple Symbols- Lyon
 
+* Preparing for your Endowment- Jensen
 
-Eve and the Choice Made in Eden- Campbell
+* Gospel Questions, Gospel Answers- Ridges
 
+* Whatever Happened to Faith- Millet
 
-One by One- Bednar
+* Mormons, An Open Book- Sweat
 
+* The Holy Invitation- Sweat
 
-Voices of Hope- Mansfield
+* Christ in Every Hour- Sweat
 
+* True Heroes- Hale
 
-In Quiet Desperation- Matis
+* The Scourage - Nielsen
 
+* Story Thieves- Riley
 
-Spark Joy- Kondo
+* That We May be One- Christoferson
 
+* Do Big Things- Ross
 
-Beauty Sick- Engeln
+* Economics in Three Lessons- Lewis
 
+* Insight- Eurich
 
-Temple Symbols- Lyon
+* Principles- Dalio
 
+* Soonish- Weinersmith
 
-Preparing for your Endowment- Jensen
+* An Accident of Geography- Blum
 
+* Time Talent Energy- Mankins
 
-Gospel Questions, Gospel Answers- Ridges
+* Small Data- Lindstrom
 
+* Origin- Brown
 
-Whatever Happened to Faith- Millet
+* The Power of Moments- Heath
 
+* The Rooster Bar- Grisham
 
-Mormons, An Open Book- Sweat
+* Invisible Influence- Berger
 
+* Why Simple Wins- Bodell
 
-The Holy Invitation- Sweat
+* There is Life After College- Selingo
 
+* So You’ve Been Publicly Shamed- Ronson
 
-Christ in Every Hour- Sweat
+* The Pig that Wants to be Eaten- Baggini
 
+* Eliminate Stress from your Life Forever- Atkinson
 
-True Heroes- Hale
+* A House United- Peck
 
+* Daddy, Come Out and Play- Stewart
 
-The Scourage - Nielsen
+* Chose the Life You Want- Ben-Shahar
 
+* Ready for Anything- Allen
 
-Story Thieves- Riley
+* The Joy of Physics- Wiggins
 
+* The Organized Mind- Levitin
 
-That We May be One- Christoferson
+* The Secrets of a Happy Family- Feiler
 
+* The Five Lessons - Evans
 
-Do Big Things- Ross
+* Reality Parenting - Muller
 
+* Honoring the Priesthood - Bytheway
 
-Economics in Three Lessons- Lewis
+* Our Town- Wilder
 
+* 250 Ways to Connect with your Family - Webb
 
-Insight- Eurich
+* February 2018
 
+* The Q- Brower
 
-Principles- Dalio
+* Homeward Bounders- Jones
 
+* Beyond Good and Evil- Nietzsche
 
-Soonish- Weinersmith
+* The Righteous Mind - Haidt
 
+* Grit- Duckworth
 
-An Accident of Geography- Blum
+* Wild at Heart- Eldredge
 
+* Innovator’s DNA- Rosenberg
 
-Time Talent Energy- Mankins
+* The Great Warming- Simpson
 
+* The Labryinth of Solitude - Walker
 
-Small Data- Lindstrom
+* Envy - Olesha
 
+* The Gift of Imperfection - Brown
 
-Origin- Brown
+* Tarzan - Burroughs
 
+* January 2018
 
-The Power of Moments- Heath
+* SAT Perfect Score- Fischgrund
 
+* Future Perfect- Johnson
 
-The Rooster Bar- Grisham
+* Unnaturally Delicious- Lusk
 
+* The More of Less- Becker
 
-Invisible Influence- Berger
+* The Wright Brothers - McCullough
 
+* Crime and Punishment- Dostoevsky
 
-Why Simple Wins- Bodell
+* Can’t Just Stop - Begley
 
+* The No Sweat Exercise Plan- Simon
 
-There is Life After College- Selingo
+* Hold on to your kids- Neufeld
 
+* Slavery and Politics in the Early American Republic- Mason
 
-So You’ve Been Publicly Shamed- Ronson
+* Rooster Bar- Grisham
 
+* Essentialism - Ethan Davis
 
-The Pig that Wants to be Eaten- Baggini
+* My Parents Keeper - Brown
 
+* More than Good Intentions- Karlan
 
-Eliminate Stress from your Life Forever- Atkinson
+* Being Mortal - Gawande
 
+* The How of Happiness- Bird
 
-A House United- Peck
+* Lolita - Nabokov
 
+* December 2017
 
-Daddy, Come Out and Play- Stewart
+* For the Glory- Hamilton
 
+* Mastering Census the Military Records- Quillen
 
-Chose the Life You Want- Ben-Shahar
+* Real Love - Salzberg
 
+* Oathbringer - Sanderson
 
-Ready for Anything- Allen
+* The Element - Robinson
 
+* The Happiness Dare- Lee
 
-The Joy of Physics- Wiggins
+* The Zookeepers Wife- Ackerman
 
+* Make Your Kid a Money Genius - Kobliner
 
-The Organized Mind- Levitin
+* Camino Island- Grisham
 
+* White Trash- Isenberg
 
-The Secrets of a Happy Family- Feiler
+* A Man Called Ove - Backman
 
+* The Collapse of Parenting - Sax
 
-The Five Lessons - Evans
+* Same Kind of Different as Me- Hall
 
+* The Me, Me, Me Epidemic- McCready
 
-Reality Parenting - Muller
+* Rebooting Justice - Barton
 
+* noviembre 2017
 
-Honoring the Priesthood - Bytheway
+* Bands of Mourning- Sanderson
 
+* Legion- Sanderson
 
-Our Town- Wilder
+* Manual to Middle School- Catherman
 
+* The Undoing Project - Lewis
 
-250 Ways to Connect with your Family - Webb
+* 2140 - Pratchett
 
+* Before I Fall - Oliver
 
-February 2018
+* The Essential Nibley- VanDam
 
+* Speaking Peace - Rosenberg
 
-The Q- Brower
+* October 2017
 
+* Quiet Influence- Kahnweiler
 
-Homeward Bounders- Jones
+* Leadership Gold- Maxwell
 
+* Just Mercy- Stevenson
 
-Beyond Good and Evil- Nietzsche
+* The Duel- St. George
 
+* Teaching Your Children Values- Eyres
 
-The Righteous Mind - Haidt
+* Aspects of Faith- Lewis
 
+* The Creed-
 
-Grit- Duckworth
+* Changed through Grace- Wilcox
 
+* End of your LIfe Book Club- Schwalbe
 
-Wild at Heart- Eldredge
+* Furies of Calderon- Butcher
 
+* Wait- Parnoy
 
-Innovator’s DNA- Rosenberg
+* Love Dare- Kendrick
 
+* Margin- Swenson
 
-The Great Warming- Simpson
+* Virtue and the Abundant Life
 
+* septiembre 2017
 
-The Labryinth of Solitude - Walker
+* The Whistler- Grisham
 
+* You are not so Smart- McRaney
 
-Envy - Olesha
+* Counseling within our Councils- Ballard
 
+* All the Pretty Horses- Mcarthy
 
-The Gift of Imperfection - Brown
+* Last Lecture- Pausch
 
+* Because I said so- Jennings
 
-Tarzan - Burroughs
+* Major Decisions- Eyring
 
+* Rest- Soojung
 
-January 2018
+* Lost in a Book- Donnelly
 
+* Undefeated- Sheinkin
 
-SAT Perfect Score- Fischgrund
+* A House Full of Females- Ulrich
 
+* agosto 2017
 
-Future Perfect- Johnson
+* Peaceful Parent, Happy Kids- Markham
 
+* When a Child Wanders- Millet
 
-Unnaturally Delicious- Lusk
+* The Rise and Fall of American Growth- Gordon
 
+* What Every Future Missionary Needs to Know- Pinegar
 
-The More of Less- Becker
+* Could it Really be this Easy- Peck
 
+* Move Fast and Break Things- Taplin
 
-The Wright Brothers - McCullough
+* The Little Things- Andrews
 
+* July 2017
 
-Crime and Punishment- Dostoevsky
+* Love your Life, not theirs- Cruze
 
+* The Richest Man in Babylon- Classon
 
-Can’t Just Stop - Begley
+* Lincoln Lawyer- Connelly
 
+* David and Goliath- Gladwell
 
-The No Sweat Exercise Plan- Simon
+* The Road- McCarthy
 
+* Before Happiness- Achor
 
-Hold on to your kids- Neufeld
+* The Big Dark- Philbrick
 
+* Banana- Koepel
 
-Slavery and Politics in the Early American Republic- Mason
+* Death by Black Hole- DeGrasse Tyson
 
+* Give your Child the World- Martin
 
-Rooster Bar- Grisham
+* Gone Girl- Flynn
 
+* ‘
 
-Essentialism - Ethan Davis
+* June 2017
 
+* The Guernsey Literary and Potatoe Peel Society- Shaffer
 
-My Parents Keeper - Brown
+* The Emperor of all Maladies- Mukherjee
 
+* More Money than God
 
-More than Good Intentions- Karlan
+* Aftermath- Wendig
 
+* House of Tomorrow- Bognanni
 
-Being Mortal - Gawande
+* The Power of Meaning- Smith
 
+* I am Number Four- Lore
 
-The How of Happiness- Bird
+* May 2017
 
+* The Diviners- Bray
 
-Lolita - Nabokov
+* Sense of an Ending- Barnes
 
+* The Shack- Young
 
-December 2017
+* The Gunslinger- King
 
+* Catalyst- Luceno
 
-For the Glory- Hamilton
+* Previous Book list
 
+* June/July 2010
 
-Mastering Census the Military Records- Quillen
+* 1.  Anna Karenina*- Tolstoy
 
+* 2.  Peer Gynt*- Ibsen
 
-Real Love - Salzberg
+* 3.  The tempest* – Shakespeare
 
+* 4.  The merchant in venice*- Shakespeare
 
-Oathbringer - Sanderson
+* 5.  Origin of Species*- Darwin
 
+* 6.  Silas Marner*- Elliot
 
-The Element - Robinson
+* 7.  Babbit- Lewis
 
+* 8.  Black boy*- Wright
 
-The Happiness Dare- Lee
+* 9.  Utilitarianism*- Mill
 
+* 10. Value and capital*- Hicks
 
-The Zookeepers Wife- Ackerman
+* Aug/Sep 2010
 
+* 1.  Principles of political economy*- Ricardo
 
-Make Your Kid a Money Genius - Kobliner
+* 2.  Taming of a shrew*- Shakespeare
 
+* 3.  Frankenstein*- Shelley
 
-Camino Island- Grisham
+* 4.  Suicide*- Durkheim
 
+* 5.  The way*- Buddha
 
-White Trash- Isenberg
+* 6.  Education of henry adams*- Adams
 
+* 7.  Portrait of a lady*- James
 
-A Man Called Ove - Backman
+* 8.  Through the looking glass- Carroll
 
+* 9.  I and thou*- Buber
 
-The Collapse of Parenting - Sax
+* 10. The way of all flesh*- Butler
 
+* 11. Fatherhood – Lamb
 
-Same Kind of Different as Me- Hall
+* 12. If on a winter’s night a traveler- Calvino
 
+* 13. The cult of the statistically significant- McCloskey
 
-The Me, Me, Me Epidemic- McCready
+* 14. The stranger*- Camus
 
+* 15. Death comes for the archbishop*- Cather
 
-Rebooting Justice - Barton
+* 16. Critique of pure reason*- Kant
 
+* 17. On duties*- Cicero
 
-noviembre 2017
+* 18. The waste land*- Elliot
 
+* Dec 2010/Jan 2011
 
-Bands of Mourning- Sanderson
+* 1.  Supernanny- Frost
 
+* 2.  Send- Shipley
 
-Legion- Sanderson
+* 3.  Last Call- Okrent
 
+* 4.  The end of science- Horgan
 
-Manual to Middle School- Catherman
+* 5.  Fuzzy future- Kisko
 
+* 6.  Marketplace of ideas- Menand
 
-The Undoing Project - Lewis
+* 7.  What goes up – Weiner
 
+* 8.  Eats shoots and leaves- Truss
 
-2140 - Pratchett
+* 9.  Documentary history of the US- Hefner
 
+* 10. Bats sing, mice giggle- Shaner
 
-Before I Fall - Oliver
+* 11. A shortcut through time- Johnson
 
+* 12. The math gene- Devlin
 
-The Essential Nibley- VanDam
+* 13. The number sense- Dehaene
 
+* 14. How the mind works- Pinker
 
-Speaking Peace - Rosenberg
+* 15. Passage to India – Forrester
 
+* 16. The cherry- Chekov
 
-October 2017
+* 17. Return- Hales
 
+* 18. Essays*- Bacon
 
-Quiet Influence- Kahnweiler
+* 19. Tartuffe*- Moiliere
 
+* 20. Phaedra*- Racine
 
-Leadership Gold- Maxwell
+* 21. Confessions*- Rousseau
 
+* 22. Faust* – Goethe
 
-Just Mercy- Stevenson
+* 23. Enemy of the people*- Ibsen
 
+* 24. William Tell*- Schiller
 
-The Duel- St. George
+* 25. Microtrends- Penn/Zalesne
 
+* 26. What are you optimistic about- Brockman
 
-Teaching Your Children Values- Eyres
+* 27. Detective story- Kertest
 
+* 28. Catch 22*- Heller
 
-Aspects of Faith- Lewis
+* Jan/Feb 2011
 
+* 1.  Outwitting history- Lansky
 
-The Creed-
+* 2.  The hiding place- Tenboom
 
+* 3.  Superfoods- Pratt/Matthews
 
-Changed through Grace- Wilcox
+* 4.  Caves of steel- Asimov
 
+* 5.  How to live- Alford
 
-End of your LIfe Book Club- Schwalbe
+* 6.  The checklist manifesto- Gawande
 
+* 7.  The ultimate gift- Stovall
 
-Furies of Calderon- Butcher
+* 8.  Mozart’s brain- Restak
 
+* 9.  Lord of the flies- Golding
 
-Wait- Parnoy
+* 10. Mrs. Dalloway*- Woolf
 
+* 11. How to talk so kids will listen- Faber
 
-Love Dare- Kendrick
+* 12. Be your best self - Monson
 
+* 13. The mathematical universe- Dunham
 
-Margin- Swenson
+* 14. Zero- Selfe
 
+* 15. The silver chalice- Costain
 
-Virtue and the Abundant Life
+* 16. Progress and Poverty*- George
 
+* 17. Fathers and sons*- Turgenev
 
-septiembre 2017
+* 18. Organizing genius- Bennis
 
+* 19. Agammenon*- Aeschylus
 
-The Whistler- Grisham
+* 20. Antigone*- Sophocles
 
+* 21. Medea*- Euripides
 
-You are not so Smart- McRaney
+* 22. The last lecture- Pausch
 
+* March/April 2011
 
-Counseling within our Councils- Ballard
+* 1.  This will change everything- Brockman
 
+* 2.  Reading history sideways- Thornton
 
-All the Pretty Horses- Mcarthy
+* 3.  The Grand Design- Hawking
 
+* 4.  The Postman- Brin
 
-Last Lecture- Pausch
+* 5.  Physics of the Impossible- Kaku
 
+* 6.  On writing- King
 
-Because I said so- Jennings
+* 7.  Buy In- Kotter
 
+* 8.  Longitude- Sobel
 
-Major Decisions- Eyring
+* 9.  God on the Quad- Riley
 
+* 10. Growing a reader- McGuiness
 
-Rest- Soojung
+* 11. The age of abundance- Lindsey
 
+* 12. Making of the mind- Galinsky
 
-Lost in a Book- Donnelly
+* 13. Lighten up- Walsh
 
+* 14. Press on- Wirthlin
 
-Undefeated- Sheinkin
+* 15. The continuous atonement- Wilcox
 
+* 16. Reading together- Frankensten
 
-A House Full of Females- Ulrich
+* 17. Eat, drink, and be healthy- Willett
 
+* 18. Nanny diaries- McLaughlin
 
-agosto 2017
+* 19. What to eat- Nestle
 
+* 20. Vuelo conmigo- Bach
 
-Peaceful Parent, Happy Kids- Markham
+* 21. Teaching your children values- Eyre
 
+* 22. Stones for Ibarra- Doerr
 
-When a Child Wanders- Millet
+* 23. Song of Solomon*- Morrison
 
+* 24. The memory keepers daughter- Edwards
 
-The Rise and Fall of American Growth- Gordon
+* 25. The biggest job we’ll ever have- Gauld
 
+* 26. Classic speeches- BYU
 
-What Every Future Missionary Needs to Know- Pinegar
+* 27. On the should of giants- Steen
 
+* agosto 2011
 
-Could it Really be this Easy- Peck
+* ð Upside of Irrationality- Ariely
 
+* ð Money Secrets- Barry
 
-Move Fast and Break Things- Taplin
+* ð Gross National Happiness- Brooks
 
+* ð At Home- Bryson
 
-The Little Things- Andrews
+* ð Doctor Doolittle- Lofting
 
+* ð Game Change- Heilemann
 
-July 2017
+* ð The emperor of ocean park – Carter
 
+* ð The Bridge of San Luis Rey- Wilder
 
-Love your Life, not theirs- Cruze
+* ð Next- Crichton
 
+* septiembre 2011
 
-The Richest Man in Babylon- Classon
+* 1.  Cosmocomics - Calvino
 
+* 2.  The Black Swan
 
-Lincoln Lawyer- Connelly
+* 3.  Stumbling on Happiness – Gilbert
 
+* 4.  No Apologies- Romney
 
-David and Goliath- Gladwell
+* 5.  The 100 Simple Secrets of Happy Families- Niven
 
+* 6.  The Art of Deception- Mitnick
 
-The Road- McCarthy
+* 7.  The Happiness Project – Rubin
 
+* 8.  Freedom and Entertainment- Vaughn
 
-Before Happiness- Achor
+* 9.  The Will to Believe*- James
 
+* 10. Three Dialogues Between Hylas and Philonous*- Berkeley
 
-The Big Dark- Philbrick
+* 11. Selling the Invisible- Beckwith
 
+* 12. The Emperor of Ocean Park – Carter
 
-Banana- Koepel
+* 13. Safe Haven- Sparks
 
+* 14. Keeping Kids Reading- Leonhardt
 
-Death by Black Hole- DeGrasse Tyson
+* 15. Dilbert and the Way of the Weasel- Adams
 
+* 16. Home Sweet Homeschool- Masskestad
 
-Give your Child the World- Martin
+* 17. Black Like Me- Griffin
 
+* 18. Krik Krak- Danticat
 
-Gone Girl- Flynn
+* noviembre 2011
 
+* 1. High Fives and High Hopes- EFY
 
-‘
+* 2. In All their Animal Brillance- Lance Larsen
 
+* 3. The Art of Living*- Epictetus
 
-June 2017
+* 4. Philosophy for Beginners- Osbourne
 
+* 5. My Antonia*- Cather
 
-The Guernsey Literary and Potatoe Peel Society- Shaffer
+* 6. Book of a Thousand Days- Shannon Hales
 
+* 7. The Mysterious Benedict Society- Stewart
 
-The Emperor of all Maladies- Mukherjee
+* 8. The Selected Poems of Li Po*- Li Po
 
+* 9. The Professor’s House*- Cather
 
-More Money than God
+* 10. Good Wives* – Ulrich
 
+* 11. The Varieties of Religious Experience*- James
 
-Aftermath- Wendig
+* 12. Seeing in the Dark- Ferris
 
+* 13. The Perfect Storm- Junger
 
-House of Tomorrow- Bognanni
+* 14. House of Glory- Wilcox
 
+* 15. Up in the Air- Kirn
 
-The Power of Meaning- Smith
+* 16. On Beauty- Smith
 
+* 17. What Every American Should know about who’s running the world- Rossi
 
-I am Number Four- Lore
+* 18. Disgrace- Coetzee
 
+* 19. The Choice- Nicholas Sparks
 
-May 2017
+* 20. What to Listen for in Music- Copland
 
+* December 2011-January 2012
 
-The Diviners- Bray
+* 1. 10 Secrets Wise Parents Know- Top and Chadwick
 
+* 2. House of Learning- Walker
 
-Sense of an Ending- Barnes
+* 3. Home game- Lewis
 
+* 4. The Seven Spiritual Laws of Superheroes- Chopra
 
-The Shack- Young
+* 5. Secure Daughters Confident Sons- Stanton
 
+* 6. Scientific Feuds- Levy
 
-The Gunslinger- King
+* 7. The Lifecycle of Software Objects- Chiang
 
+* 8. Play- Brown
 
-Catalyst- Luceno
+* 9. Little Bets- Sims
 
+* 10. Spousonomics – Szuchman and Anderson
 
-Previous Book list
+* 11. Family Ties- Perry
 
+* 12. Peddling Prosperity- Krugman
 
-June/July 2010
+* 13. It all started with Autumn Jones – Weyland
 
+* 14. Covenant Hearts- Hafen
 
-1.  Anna Karenina*- Tolstoy
+* 15. The Quest for a Cure- Stockwell
 
+* 16. Beautiful and Pointless- Orr
 
-2.  Peer Gynt*- Ibsen
+* 17. The Mind of the Market- Shermer
 
+* 18. The Good School- Tyre
 
-3.  The tempest* – Shakespeare
+* 19. The Accidental Creative- Henry
 
+* 20. Educating for Human Greatness- Stoddard
 
-4.  The merchant in venice*- Shakespeare
+* 21. Identity Economics- Kranton
 
+* 22. Leaping Beauty- Maguire
 
-5.  Origin of Species*- Darwin
+* 23. Fellowship of the Ring- Tolkien
 
+* 24. 25 Mistakes LDS Parent Make- Wright
 
-6.  Silas Marner*- Elliot
+* 25. Change of Heart- Picoult
 
+* January 2012-February 2012
 
-7.  Babbit- Lewis
+* 1. Living by the Power of Faith- Cook
 
+* 2. Key to the Science of Theology*- Pratt
 
-8.  Black boy*- Wright
+* 3. The Mediator- Packer
 
+* 4. 5 Languages of Appreciation in the Workplace- Chapman
 
-9.  Utilitarianism*- Mill
+* 5. All Things Shining- Dreyfus and Kelly
 
+* 6. The Greatest Science Stories Never Told- Beyer
 
-10. Value and capital*- Hicks
+* 7. Lord Increase our Faith- Maxwell
 
+* 8. Have Little Faith- Albom
 
-Aug/Sep 2010
+* 9. Too Many Bosses, Too Few Leaders- Peshawaria
 
+* 10. The End of Mollasses Classes- Clark
 
-1.  Principles of political economy*- Ricardo
+* 11. Physics of the Future- Kaku
 
+* 12. Liberty Defined- Ron Paul
 
-2.  Taming of a shrew*- Shakespeare
+* 13. Thinking Fast and Slow –Thaler
 
+* 14. The Sorcerers and their Apprentices- Moss
 
-3.  Frankenstein*- Shelley
+* 15. Always On- Chen
 
+* 16. The Two Towers- Tolkien
 
-4.  Suicide*- Durkheim
+* 17. The collectors- David Baldacci
 
+* 18. The Litigators- Grisham
 
-5.  The way*- Buddha
+* 19. The Marriage Problem – Wilson
 
+* 20. Flywheel- Wilson
 
-6.  Education of henry adams*- Adams
+* 21. Where Shall Wisdom be Found- Bloom
 
+* March-May 2012
 
-7.  Portrait of a lady*- James
+* 1. CS Lewis, The Visionary Christian- Walsh
 
+* 2. Science Fair Season- Dutton
 
-8.  Through the looking glass- Carroll
+* 3. Lunch Wars- Kalafa
 
+* 4. Parentonomics- Gans
 
-9.  I and thou*- Buber
+* 5. It’s all Too Much- Walsh
 
+* 6. Paul Harvey’s The Rest of the Story- Aurandt
 
-10. The way of all flesh*- Butler
+* 7. Opening Skinner’s Box- Slater
 
+* 8. At Home in Mitford- Karon
 
-11. Fatherhood – Lamb
+* 9. The Devil Colony
 
+* 10. RoboApocalypse
 
-12. If on a winter’s night a traveler- Calvino
+* 11. Dune- Herbert
 
+* 12. The Return of the King- Tolkien
 
-13. The cult of the statistically significant- McCloskey
+* 13. Fed up with lunch- Wu
 
+* 14. Stumbling on wins- Berri
 
-14. The stranger*- Camus
+* June 2012
 
+* 1. Fast Food Nation- Scholosser
 
-15. Death comes for the archbishop*- Cather
+* 2. As Always, Dave- Weyland
 
+* 3. New Rules of Today’s Workplace- Lindsell-Roberts
 
-16. Critique of pure reason*- Kant
+* 4. Change your Questions, change your life- Nelson
 
+* 5. Tuesdays with Morrisse- Albom
 
-17. On duties*- Cicero
+* 6. Politics Lost- Klein
 
+* 7. Solar- McEwan
 
-18. The waste land*- Elliot
+* 8. Annoying- Palca/Lichtman
 
+* 9. Enna Burning- Hale
 
-Dec 2010/Jan 2011
+* 10. The Big Thirst- Fishman
 
+* 11. Lord Jim*- Conrad
 
-1.  Supernanny- Frost
+* 12. This I Believe, On Fathers- Gediman
 
+* 13. Start Something that Matters- Mycoskie
 
-2.  Send- Shipley
+* 14. The Beautiful and the Damned- Deb
 
+* 15. The Beginning of Infinity- Deutsch
 
-3.  Last Call- Okrent
+* 16. Dune Messiah- Herbert
 
+* 17. Roots- Haley
 
-4.  The end of science- Horgan
+* 18. Being Sixteen- Condie
 
+* 19. Christ’s Ideals for Living- Tanner
 
-5.  Fuzzy future- Kisko
+* 20. Measure for measures*- Shakespeare
 
+* 21. Baptists at our barbeque- Smith
 
-6.  Marketplace of ideas- Menand
+* 22. Selected Writings of Robert L. Millet
 
+* July/August 2012
 
-7.  What goes up – Weiner
+* 1. How to make people like you in 90 seconds- Boothman
 
+* 2. Brothers Karamazov*- Dostovevsky
 
-8.  Eats shoots and leaves- Truss
+* 3. The Fourth Nephite- Savage
 
+* 4. 11/22/64- King
 
-9.  Documentary history of the US- Hefner
+* 5. Pinched- Peck
 
+* 6. Songs of the Humpback Whale- Picoult
 
-10. Bats sing, mice giggle- Shaner
+* 7. Boomerang- Lewis
 
+* 8. The New Jim Crow- Alexander
 
-11. A shortcut through time- Johnson
+* 9. Losing our religion- Cupp
 
+* 10. Death in Venice*- Mann
 
-12. The math gene- Devlin
+* 11. Children of Dune- Herbert
 
+* 12. How literature works – Sutherland
 
-13. The number sense- Dehaene
+* 13. The Candidate- Popkin
 
+* 14. Incognito- Eagleman
 
-14. How the mind works- Pinker
+* 15. The available parent- Duffy
 
+* 16. The Appeal- Grisham
 
-15. Passage to India – Forrester
+* 17. Cotton- Yafa
 
+* 18. The Interpreters*- Soyinka
 
-16. The cherry- Chekov
+* 19. Beyond the Pleasure Principle*- Freud
 
+* 20. Siddharth*a- Hesse
 
-17. Return- Hales
+* 21. Their eyes were watching God*- Hurston
 
+* 22. The Golden Notebook*- Lessing
 
-18. Essays*- Bacon
+* 23. Night* – Wiesle
 
+* 24. Moonlight Mile – Lehane
 
-19. Tartuffe*- Moiliere
+* 25. Hunger Games- Collins
 
+* 26. Catching Fire- Collins
 
-20. Phaedra*- Racine
+* septiembre 2012
 
+* 1. All Quiet on the Western Front*- Remarque
 
-21. Confessions*- Rousseau
+* 2. The Traveler’s gift- Andrews
 
+* 3. The Hundred-year Lie- Fitzgerald
 
-22. Faust* – Goethe
+* 4. The language of science and faith- Giberson/Collins
 
+* 5. Remembrance of things that are past* – Proust (play version)
 
-23. Enemy of the people*- Ibsen
+* 6. Today we are rich- Sanders
 
+* 7. Feed your child right - Evans
 
-24. William Tell*- Schiller
+* 8. Emma*- Austen
 
+* 9. The metamorphosis*- Kafka
 
-25. Microtrends- Penn/Zalesne
+* 10. If this is a man*- Primo
 
+* 11. Smart parenting, smarter kids- Walsh
 
-26. What are you optimistic about- Brockman
+* 12. Now you see it- Davidson
 
+* 13. The best of it- Ryan
 
-27. Detective story- Kertest
+* 14. The between the lions book for parents- Rath/Kennedy
 
+* 15. The penguin and the leviathan- Benkler
 
-28. Catch 22*- Heller
+* 16. House of Fog and Sand- Dubuos
 
+* 17. Mockingjay- Collins
 
-Jan/Feb 2011
+* 18. Steve Jobs- Isaacson
 
+* 19. Stories from the life of Joseph Smith- Turley/Litke
 
-1.  Outwitting history- Lansky
+* 20. Ten talks parents must have with their children- Schwartz
 
+* 21. Victory and Honor- Griffin
 
-2.  The hiding place- Tenboom
+* 22. Janitors- Whitesides
 
+* 23. What makes your brain happy and why you should do the opposite- DiSalvo
 
-3.  Superfoods- Pratt/Matthews
+* October 2012
 
+* 1. The Holy Temple- Packer
 
-4.  Caves of steel- Asimov
+* 2. Raising a modern-day knight - Lewis
 
+* 3. Accidental inventions- Krols
 
-5.  How to live- Alford
+* 4. The greatest stories never told- Beyer
 
+* 5. HTML & CSS- Duckett
 
-6.  The checklist manifesto- Gawande
+* 6. Boys adrift- Sax
 
+* 7. Money Secrets of the Amish- Craker
 
-7.  The ultimate gift- Stovall
+* 8. Nurtureshock- Bronson/Merryman
 
+* 9. Inviting him in- Brinley
 
-8.  Mozart’s brain- Restak
+* 10. Small Message, Big Impact- Sjodin
 
+* 11. When you say “thank you”, mean it- O’Donohue
 
-9.  Lord of the flies- Golding
+* 12. Gamification by design- Zichermann
 
+* 13. Our town- Wilder
 
-10. Mrs. Dalloway*- Woolf
+* 14. The scouting report- Murphy
 
+* 15. Cultural literacy- Hirsch
 
-11. How to talk so kids will listen- Faber
+* 16. Horse whisperer- Evans
 
+* noviembre 2012
 
-12. Be your best self - Monson
+* 1. Cowards- Glenn Beck
 
+* 2. The bear and two other stories*- Faulkner
 
-13. The mathematical universe- Dunham
+* 3. The American Scholar; Nature* - Emerson
 
+* 4. Your child’s writing life- Pam Allyn
 
-14. Zero- Selfe
+* 5. App Empire- Mureta
 
+* 6. Gang Leader for a Day- Venkatesh
 
-15. The silver chalice- Costain
+* 7. Miss Harriet*- Maupassant
 
+* 8. Satyrica*- Petronius
 
-16. Progress and Poverty*- George
+* 9. Culture and Anarchy*- Arnold
 
+* 10. Tristan*- Strassburg
 
-17. Fathers and sons*- Turgenev
+* 11. Life of Frederick Douglas*- Douglas
 
+* 12. Fear and Trembling*- Kiekergaard
 
-18. Organizing genius- Bennis
+* 13. Sickness unto Death* – Kiekergaard
 
+* 14. Sense and Sensibility*- Austen (CD)
 
-19. Agammenon*- Aeschylus
+* 15. Complete Idiot’s Guide to Total Nutrition- Bauer
 
+* 16. A House United- Peck
 
-20. Antigone*- Sophocles
+* 17. Built to Last
 
+* December 2012
 
-21. Medea*- Euripides
+* 1. Act in Doctrine- Bednar
 
+* 2. Forever- Weyland
 
-22. The last lecture- Pausch
+* 3. Talking with God- Millet
 
+* 4. Janitors, New Forest Academy- Whiteside
 
-March/April 2011
+* 5. The promised land of recovery- Bertelsen
 
+* 6. Superman versus the Klu Klux Klan- Bowers
 
-1.  This will change everything- Brockman
+* 7. So Rich So Poor- Edelman
 
+* 8. What Money Can’t Buy- Sandel
 
-2.  Reading history sideways- Thornton
+* 9. Ignorance- Firestein
 
+* 10. Painless Poetry- Elizabeth
 
-3.  The Grand Design- Hawking
+* 11. Joseph Andrews- Fielding
 
+* 12. 15 Secrets to a Happy Home- Baadsgaard
 
-4.  The Postman- Brin
+* 13. Sonnets from the Portugeese- Browning
 
+* 14. Country of the Pointed Firs- Jewett
 
-5.  Physics of the Impossible- Kaku
+* 15. How girls thrive- Deak
 
+* 16. Clybourne Park- Norris
 
-6.  On writing- King
+* 17. Fire to fire- Doty
 
+* 18. Engine empire- Park
 
-7.  Buy In- Kotter
+* 19. The Enoch letters- Maxwell
 
+* 20. 250 ways to connect with your family Webb
 
-8.  Longitude- Sobel
+* 21. Feathers – Woodson
 
+* 22. An Elephant in the garden- Morpurgo
 
-9.  God on the Quad- Riley
+* 23. The understudy- Weyland
 
+* 24. Compare Isaiah- Swint
 
-10. Growing a reader- McGuiness
+* 25. The Bondage of the Will*- Luther
 
+* 26. Disciplined dreaming- Linkner
 
-11. The age of abundance- Lindsey
+* 27. The Rich and the rest of us- Smiley/West
 
+* 28. 9 things graduates must do- Cloud
 
-12. Making of the mind- Galinsky
+* 29. Garbology- Humes
 
+* 30. Sphere- Crichton
 
-13. Lighten up- Walsh
+* 31. The future of us (CD)- Asher
 
+* January 2013
 
-14. Press on- Wirthlin
+* 1. The richest man in Babylon- Clason
 
+* 2. The vow (CD)- Carpenter
 
-15. The continuous atonement- Wilcox
+* 3. The Juice, the real story of baseball’s drug problems- Carrol
 
+* 4. The real crash- Schiff
 
-16. Reading together- Frankensten
+* 5. Zen and the art of motorcycle maintenance- Pirsig
 
+* 6. The tyranny of clichés- Goldberg
 
-17. Eat, drink, and be healthy- Willett
+* 7. Homeschooling, the complete guide- Orr
 
+* 8. Thirteen reasons why (CD)- Asher
 
-18. Nanny diaries- McLaughlin
+* 9. Reached- Condie
 
+* 10. Digging deeper- Eaton
 
-19. What to eat- Nestle
+* 11. The continuous atonement- Wilcox
 
+* 12. Top 10 myths in education- Frase
 
-20. Vuelo conmigo- Bach
+* 13. Creation: Life and how to make it- Grand
 
+* 14. Complete idiots guide to genealogy- Rose
 
-21. Teaching your children values- Eyre
+* 15. Mormons under the microscope- Lauritsen
 
+* 16. Increase in Learning- Bednar
 
-22. Stones for Ibarra- Doerr
+* 17. Are we there yet?- Millet
 
+* February/March 2013
 
-23. Song of Solomon*- Morrison
+* 1. Everyday a Friday- Osteen
 
+* 2. Speaker for the Dead - Card
 
-24. The memory keepers daughter- Edwards
+* 3. A briefer history of time- Hawkings
 
+* 4. It starts with food- Hartwig
 
-25. The biggest job we’ll ever have- Gauld
+* 5. 3:16 - Lucado
 
+* 6. Bully- Hirsch
 
-26. Classic speeches- BYU
+* 7. Saving the school – Brick
 
+* 8. Muckwhips guide to capturing the LDS soul- Heimerdinger
 
-27. On the should of giants- Steen
+* 9. What’s so bad about being good- Christianson
 
+* 10. The genius in all of us- Shenk
 
-agosto 2011
+* 11. Chronotherapy- Terman
 
+* 12. Situations matter - Sommers
 
-ð Upside of Irrationality- Ariely
+* 13. That used to be us- Friedman
 
+* 14. Xenocide- Card
 
-ð Money Secrets- Barry
+* 15. Train Dream
 
+* 16. Devil on the Cross
 
-ð Gross National Happiness- Brooks
+* 17. Princess of Cleves
 
+* 18. For Love and Money – Poduska
 
-ð At Home- Bryson
+* 19. Following the Light of the Lord – Pontius
 
+* 20. Teaching children to love missionary work
 
-ð Doctor Doolittle- Lofting
+* 21. Positronic man- Asimov
 
+* 22. The prose edda
 
-ð Game Change- Heilemann
+* 23. Head above water
 
+* 24. The Aenid*- Virgil
 
-ð The emperor of ocean park – Carter
+* 25. Deathless- Valente
 
+* abril 2013
 
-ð The Bridge of San Luis Rey- Wilder
+* 1.  Have a new kid by Friday- Leman
 
+* 2.  Bringing up boys – Dobson
 
-ð Next- Crichton
+* 3.  Daniel and Nephi- Heimidinger
 
+* 4.  No contest- Kohn
 
-septiembre 2011
+* 5.  A different universe- Laughlin
 
+* 6.  Run less, run faster – Pierce
 
-1.  Cosmocomics - Calvino
+* 7.  The supreme court- Rosen
 
+* 8.  History of Rome*- Livy
 
-2.  The Black Swan
+* 9.  The strong sensitive boy- Zeff
 
+* 10. Horton’s Miraculous Mechanisms- Evans
 
-3.  Stumbling on Happiness – Gilbert
+* 11. The bully, the bullied, and the bystander- Coloroso
 
+* 12. Unsteady- Smith
 
-4.  No Apologies- Romney
+* 13. Decisions for successful living- Lee
 
+* 14. Middle class millionaire- Prince/Schiff
 
-5.  The 100 Simple Secrets of Happy Families- Niven
+* 15. Horton’s Illustrious Illusions- Evans
 
+* 16. Bet the Farm- Kaufman
 
-6.  The Art of Deception- Mitnick
+* May 2013
 
+* 1.  Thinking Fast and Slow- Kahneman
 
-7.  The Happiness Project – Rubin
+* 2.  The Signal and the Noise- Silver
 
+* 3.  The Oxbow Incident-
 
-8.  Freedom and Entertainment- Vaughn
+* 4.  Prey- Crichton
 
+* 5.  Doctrine and Covenants
 
-9.  The Will to Believe*- James
+* 6.  The poor Christ of Bomba*- Beti
 
+* 7.  Theogony and Work of Days*- Hesiod
 
-10. Three Dialogues Between Hylas and Philonous*- Berkeley
+* 8.  The Last Book in the Universe
 
+* 9.  Admired: 21 ways to double your value- Thompson
 
-11. Selling the Invisible- Beckwith
+* 10. The emotional life of your brain- Davidson
 
+* 11. Throw them all out- Schweizer
 
-12. The Emperor of Ocean Park – Carter
+* 12. The American way of eating- McMillan
 
+* 13. Twenty Something- Henig
 
-13. Safe Haven- Sparks
+* 14. Unleash!- Perry Noble
 
+* 15. Middlesex- Eugnides
 
-14. Keeping Kids Reading- Leonhardt
+* 16. The world’s shortest stories- Moss
 
+* 17. Atlas Shrugged*- Rand
 
-15. Dilbert and the Way of the Weasel- Adams
+* 18. The Folly of fools- Trivers
 
+* 19. The Pillow Book*- Shonagon
 
-16. Home Sweet Homeschool- Masskestad
+* 20. Hidden Treasures-
 
+* June 2013
 
-17. Black Like Me- Griffin
+* 1.  The Hobbit- Tolkien
 
+* 2.  As you like it* – Shakespeare
 
-18. Krik Krak- Danticat
+* 3.  Cooked- Pollan
 
+* 4.  Walking on water- Wilcox
 
-noviembre 2011
+* 5.  The Reunion- Weyland
 
+* 6.  Alex Rider: Stormbreaker- Horowitz
 
-1. High Fives and High Hopes- EFY
+* 7.  The sense of an ending – Barnes
 
+* 8.  Automate this- Steiner
 
-2. In All their Animal Brillance- Lance Larsen
+* 9.  The Thinking Life- Forni
 
+* 10. Surprised by joy*- Lewis
 
-3. The Art of Living*- Epictetus
+* 11. Cure- Cook
 
+* 12. Enoch the prophet- Nibley
 
-4. Philosophy for Beginners- Osbourne
+* 13. Mathematics minus fear- Potter
 
+* 14. Tenth of December - Saunders
 
-5. My Antonia*- Cather
+* 15. Red Ink- Wessel
 
+* 16. Don’t leap with sheep- Wilcox
 
-6. Book of a Thousand Days- Shannon Hales
+* 17. Rainy brain, sunny brain- Fox
 
+* 18. Hidden empire- Card
 
-7. The Mysterious Benedict Society- Stewart
+* 19. The Alexiad*- Komnene
 
+* 20. War Dances- Alexie
 
-8. The Selected Poems of Li Po*- Li Po
+* 21. Last of the big time spenders- Weyland
 
+* July 2013
 
-9. The Professor’s House*- Cather
+* 1.  Blindspot- Banaji/Greenwald
 
+* 2.  Simpler- Sunstein
 
-10. Good Wives* – Ulrich
+* 3.  King Lear*- Shakespeare
 
+* 4.  The last boys picked- Edgette
 
-11. The Varieties of Religious Experience*- James
+* 5.  Elijah Buxton- Curtis
 
+* 6.  Perfection pending – Nelson
 
-12. Seeing in the Dark- Ferris
+* 7.  7 tipping points that saved the world- Stewart
 
+* 8.  Eat and Run- Jurek
 
-13. The Perfect Storm- Junger
+* 9.  Sidhartha*- Hesse
 
+* 10. The theoretical minimum- Susskind
 
-14. House of Glory- Wilcox
+* 11. Making habits, breaking habits- Dean
 
+* 12. Reflections on the revolution in France*- Burke
 
-15. Up in the Air- Kirn
+* 13. Jerusalem Delivered*- Tasso
 
+* 14. Wonder- Palacio
 
-16. On Beauty- Smith
+* 15. The social conquest of earth- Wilson
 
+* 16. The letters of Abelard and Heloise*- Radice
 
-17. What Every American Should know about who’s running the world- Rossi
+* 17. Home teaching with purpose and power- Marshall
 
+* 18. Culture and Anarchy*- Arnold
 
-18. Disgrace- Coetzee
+* 19. Mrs. Dalloway*- Woolf
 
+* 20. Antifragile- Talib
 
-19. The Choice- Nicholas Sparks
+* 21. The secrets of a happy family- Feiler
 
+* 22. Distracted-
 
-20. What to Listen for in Music- Copland
+* agosto 2013
 
+* 1.  Pastwatch- Card
 
-December 2011-January 2012
+* 2.  A slap in the face- Irvine
 
+* 3.  The guide to the perplexed- Maimonides
 
-1. 10 Secrets Wise Parents Know- Top and Chadwick
+* 4.  The Landry News- Clements
 
+* 5.  Drunk Tank Pink- Atler
 
-2. House of Learning- Walker
+* 6.  Pieces of light- Fernyhough
 
+* 7.  Threat Vector- Clancy
 
-3. Home game- Lewis
+* 8.  Ultramarathonman- Karnazes
 
+* 9.  Extremely Loud and Incredibly Close
 
-4. The Seven Spiritual Laws of Superheroes- Chopra
+* 10. Skeleton Key-
 
+* 11. On the List- Farber/Abrahams
 
-5. Secure Daughters Confident Sons- Stanton
+* 12. Word Freak- Fatsis
 
+* 13. Recovering Charles- Wright
 
-6. Scientific Feuds- Levy
+* 14. The way of all flesh*- Butler
 
+* 15. The Rig Veda*
 
-7. The Lifecycle of Software Objects- Chiang
+* 16. The solitude of prime numbers- Giordano
 
+* 17. Pirate King-
 
-8. Play- Brown
+* 18. The faith of a scientist- Eyring
 
+* 19. The waves*- Woolf
 
-9. Little Bets- Sims
+* 20. The jungle*- Lewis
 
+* 21. Kill shot- Flynn
 
-10. Spousonomics – Szuchman and Anderson
+* 22. [Need to add in the 3 books from Australia]
 
+* septiembre 2013
 
-11. Family Ties- Perry
+* 1.  Unbroken- Hillenbrand
 
+* 2.  City- Simak
 
-12. Peddling Prosperity- Krugman
+* 3.  Falling to Heaven- Ferrell
 
+* 4.  Modern Slavery- Bales
 
-13. It all started with Autumn Jones – Weyland
+* 5.  Perfect 1600 score- Fischgrund
 
+* 6.  Change Anything- Patterson
 
-14. Covenant Hearts- Hafen
+* 7.  Happy like Jesus- Ogden
 
+* 8.  6 events- Covey
 
-15. The Quest for a Cure- Stockwell
+* 9.  History of the Peloponsian War*-
 
+* 10. Cleaning house- Wyma
 
-16. Beautiful and Pointless- Orr
+* 11. The art of significance- Clark
 
+* 12. Pathfinder- Card
 
-17. The Mind of the Market- Shermer
+* 13. Donovan’s brain- Siodmak
 
+* 14. The infinite atonement- Callister
 
-18. The Good School- Tyre
+* 15. Wherefore, ye must press forward- Maxwell
 
+* 16. Naked Statistics- Wheelan
 
-19. The Accidental Creative- Henry
+* 17. Healing at the speed of sound- Campbell
 
+* 18. Latter days- Newell
 
-20. Educating for Human Greatness- Stoddard
+* 19. Mormon beliefs and doctrines made easier- Ridges
 
+* 20. The Optimism bias- Sharot
 
-21. Identity Economics- Kranton
+* 21. Recovering Charles- Wright
 
+* October 2013
 
-22. Leaping Beauty- Maguire
+* 1.  You can’t lie to me- Driver
 
+* 2.  How children succeed- Tough
 
-23. Fellowship of the Ring- Tolkien
+* 3.  Financially ever after- Opdyke
 
+* 4.  Practical classics- Smokler
 
-24. 25 Mistakes LDS Parent Make- Wright
+* 5.  Mendel in the kitchen- Fedoroff
 
+* 6.  American nerd- Nugent
 
-25. Change of Heart- Picoult
+* 7.  Patients come second- Spiegelman
 
+* 8.  Endurance- Lansing
 
-January 2012-February 2012
+* 9.  Steve Jobs: The man who thought different- Blumenthal
 
+* 10. MacBeth*- Shakespeare
 
-1. Living by the Power of Faith- Cook
+* 11. Making Marriage Simple- Hendricks
 
+* 12. John Adams- McCullough
 
-2. Key to the Science of Theology*- Pratt
+* 13. To big to ignore- Simon
 
+* 14. Poisonwood bible- Kingsolver
 
-3. The Mediator- Packer
+* 15. Raising the bar- Pinegar
 
+* noviembre 2013
 
-4. 5 Languages of Appreciation in the Workplace- Chapman
+* 1.  The perfect parent- Taylor
 
+* 2.  Family testament- Russon
 
-5. All Things Shining- Dreyfus and Kelly
+* 3.  The gift of acabar- Mandino
 
+* 4.  This explains everything- Brockman’
 
-6. The Greatest Science Stories Never Told- Beyer
+* 5.  Something wicked this way comes- Bradbury
 
+* 6.  Book of Mormon
 
-7. Lord Increase our Faith- Maxwell
+* 7.  Protecting your family in an X-rated world- Wright
 
+* 8.  The majesty of books- Sill
 
-8. Have Little Faith- Albom
+* 9.  The book borrower- Mattison
 
+* 10. Train up a child- Jeffs
 
-9. Too Many Bosses, Too Few Leaders- Peshawaria
+* 11. Rebecca of Sunnybrook farm- Wiggin
 
+* 12. Disposable People- Bales
 
-10. The End of Mollasses Classes- Clark
+* 13. That’s what she said- Rayna Greed
 
+* 14. End of the World- Jordan
 
-11. Physics of the Future- Kaku
+* 15. Main Street- Lewis
 
+* 16. The Joy of X- Strogatz
 
-12. Liberty Defined- Ron Paul
+* December 2013
 
+* 1.  The power of starting something stupid- Norton
 
-13. Thinking Fast and Slow –Thaler
+* 2.  The accidental creative- Henry
 
+* 3.  The smartest kids in the world- Ripley
 
-14. The Sorcerers and their Apprentices- Moss
+* 4.  How to teach your child Shakespeare- Ludwig
 
+* 5.  True Believer- Sparks
 
-15. Always On- Chen
+* 6.  Letters to a young scientist- Wilson
 
+* 7.  That we may be edified- Packer
 
-16. The Two Towers- Tolkien
+* 8.  Charlie and Chocolate Factory- Dahl
 
+* 9.  Little Bee-
 
-17. The collectors- David Baldacci
+* 10. Holes- Sachar
 
+* January 2014
 
-18. The Litigators- Grisham
+* 1.  Drinking water- Salzman
 
+* 2.  Utopian experiment- Ludlum
 
-19. The Marriage Problem – Wilson
+* 3.  Midnight in Austenland- Hale
 
+* 4.  An inconvenient book- Beck
 
-20. Flywheel- Wilson
+* 5.  Life without father- Poponoe
 
+* 6.  I will lead you along- Eyring
 
-21. Where Shall Wisdom be Found- Bloom
+* 7.  Breakout- Osteen
 
+* 8.  The Mormon question- Gordon
 
-March-May 2012
+* 9.  The role of the father in child development- Lamb
 
+* 10. Start- Acuff
 
-1. CS Lewis, The Visionary Christian- Walsh
+* 11. American assassin- Flynn
 
+* 12. The fatherhood movement- Blankenhorn
 
-2. Science Fair Season- Dutton
+* 13. A whole new mind- Pinker
 
+* 14. Keeping kids readings- Leonhardt
 
-3. Lunch Wars- Kalafa
+* 15. The decline and fall of the Roman Empire*- Gibbons
 
+* 16. Delta Wedding*- Welty
 
-4. Parentonomics- Gans
+* 17. Fathers and sons-
 
+* 18. Confessions of a Jane Austen Addict
 
-5. It’s all Too Much- Walsh
+* 19. An Assembly such as this-
 
+* 20. The 10 most beautiful experiments-
 
-6. Paul Harvey’s The Rest of the Story- Aurandt
+* February 2014
 
+* 1.  Atonement- McEwan
 
-7. Opening Skinner’s Box- Slater
+* 2.  Salt, Sugar, Fat- Moss
 
+* 3.  Dreamland- Randall
 
-8. At Home in Mitford- Karon
+* 4.  The power of who- Beaudine
 
+* 5.  Brillant blunders- Livio
 
-9. The Devil Colony
+* 6.  The color code- Joseph
 
+* 7.  A New Dawn- Weyland
 
-10. RoboApocalypse
+* 8.  Terry Goodkind- Debt of Bones
 
+* 9.  Handle with care- Picoult
 
-11. Dune- Herbert
+* 10. Smart Food- Winter
 
+* 11. Stickability- Reid
 
-12. The Return of the King- Tolkien
+* 12. Every leader is an artist- O’Malley
 
+* 13. Top 10 distinctions between entrepeneurs and employees- Smith
 
-13. Fed up with lunch- Wu
+* 14. An invisible thread- Schroff
 
+* 15. The price of privilege- Levine
 
-14. Stumbling on wins- Berri
+* 16. Harry Potter and the chamber of secrets- Rawling
 
+* 17. Ruins- Card
 
-June 2012
+* March 2014
 
+* 1.  Hearing the voice of the Lord- Lund
 
-1. Fast Food Nation- Scholosser
+* 2.  Thinking like your editor- Rabiner
 
+* 3.  Giving kids a fair chance- Heckman
 
-2. As Always, Dave- Weyland
+* 4.  The rent Collector-Wright
 
+* 5.  Heir to the Empire-Zahn
 
-3. New Rules of Today’s Workplace- Lindsell-Roberts
+* 6.  The Glass Bead Game*- Hesse
 
+* 7.  Omeros*-Walcott
 
-4. Change your Questions, change your life- Nelson
+* 8.  Visions of infinity- Stewart
 
+* 9.  Michelle and Debra- Wayland
 
-5. Tuesdays with Morrisse- Albom
+* 10. Storyteller- Picoult
 
+* 11. Misanthrope- Moliere
 
-6. Politics Lost- Klein
+* 12. Tartuffe- Moliere
 
+* abril 2014
 
-7. Solar- McEwan
+* 1. Unconditional parenting- Kohn
 
+* 2. Philosophical investigations*- Wittgenstein
 
-8. Annoying- Palca/Lichtman
+* 3. Selected poems of Langston Hughes*
 
+* 4. Killing Jesus- O’Reiley
 
-9. Enna Burning- Hale
+* 5. New testament-
 
+* 6. Eye of Moloch- Beck
 
-10. The Big Thirst- Fishman
+* 7. Big Data- Schonberger
 
+* 8. Speaking of Sex- Hickling
 
-11. Lord Jim*- Conrad
+* 9. Your successful preschooler- Densmore
 
+* 10. Magic Mountain*- Mann
 
-12. This I Believe, On Fathers- Gediman
+* 11. Dark Force Rising- Zahn
 
+* 12. Good Kids, Tough Choices- Kidder
 
-13. Start Something that Matters- Mycoskie
+* 13. For the glory of God- Stark
 
+* 14. Midway to Heaven
 
-14. The Beautiful and the Damned- Deb
+* 15. Changing places- David Lodge
 
+* 16. David and Goliath- Gladwell
 
-15. The Beginning of Infinity- Deutsch
+* 17. Average is Over- Cowen
 
+* 18. Happy Money- Dunn
 
-16. Dune Messiah- Herbert
+* May 2014
 
+* 1.  All Quiet on the Western Front*- Remarque
 
-17. Roots- Haley
+* 2.  Sycamore Row- Grisham
 
+* 3.  Changing the game- O’Sullivan
 
-18. Being Sixteen- Condie
+* 4.  All joy and no fun- Senior
 
+* 5.  You’ll get through this- Lucado
 
-19. Christ’s Ideals for Living- Tanner
+* 6.  Talk like Ted- Gallo
 
+* 7.  Committed- Gilbert
 
-20. Measure for measures*- Shakespeare
+* 8.  The Last Command – Zahn
 
+* 9.  Sonnets to Orpheus*- Rilke
 
-21. Baptists at our barbeque- Smith
+* 10. The $1,000 challenge- O’Connor
 
+* 11. Simpler- Sunstein
 
-22. Selected Writings of Robert L. Millet
+* 12. On the nature of things-
 
+* 13. On friendship- Cicero
 
-July/August 2012
+* 14. The second machine age- Brynjolfsson
 
+* 15. Who owns the future- Lanier
 
-1. How to make people like you in 90 seconds- Boothman
+* 16. Give and Take- Grant
 
+* June 2014
 
-2. Brothers Karamazov*- Dostovevsky
+* 1.  The perfect parent- Taylor
 
+* 2.  The philosophical dictionary*- Voltaire
 
-3. The Fourth Nephite- Savage
+* 3.  The Decameron*- Boccaccio (librivox)
 
+* 4.  7 money rules for life- Hunt
 
-4. 11/22/64- King
+* 5.  One minute manager
 
+* 6.  Flash Boys- Lewis
 
-5. Pinched- Peck
+* 7.  Beyond baby talk- Apel
 
+* 8.  Ultimate guide to trail running- Chase/Hobbs
 
-6. Songs of the Humpback Whale- Picoult
+* 9.  10% more happy- Harris
 
+* 10. Turing’s cathedral- Dyson
 
-7. Boomerang- Lewis
+* 11. XLR8- Kotter
 
+* 12. Social- Lieberman
 
-8. The New Jim Crow- Alexander
+* 13. Smart parenting, smarter kids- Walsh
 
+* 14. The garden of eden- Hemmingway
 
-9. Losing our religion- Cupp
+* 15. The house of scorpion- Farmer
 
+* 16. Antidosis*- Isocrates
 
-10. Death in Venice*- Mann
+* 17. Billy Budd*- Melville
 
+* 18. Click of Mouse
 
-11. Children of Dune- Herbert
+* 19. History of England*- Macaully
 
+* 20. Picture of Dorian Gray* - Wilde (librivox)
 
-12. How literature works – Sutherland
+* 21. Idea Factory- Gertner
 
+* 22. The Art and Practice of Economic Research- Bowmaker
 
-13. The Candidate- Popkin
+* 23. Yvain*- Troyes (librivox)
 
+* July/August 2014
 
-14. Incognito- Eagleman
+* 1.  Philomena- Sixsmith
 
+* 2.  Genealogy- Morgan
 
-15. The available parent- Duffy
+* 3.  A chicken’s guide to talking turkey about sex- Leman/Bell
 
+* 4.  What are they thinking
 
-16. The Appeal- Grisham
+* 5.  Mostly harmless econometrics- Angrist/Pishke
 
+* 6.  Why we buy- Underhill
 
-17. Cotton- Yafa
+* 7.  The fiddler on the subway- Weingarten
 
+* 8.  The Secret of Silicon Valley
 
-18. The Interpreters*- Soyinka
+* 9.  Shadow of the Hegemon- Card
 
+* 10. Sprit of Laws*- Montesquieu (librivox)
 
-19. Beyond the Pleasure Principle*- Freud
+* 11. Don Juan*- Lord Byron (librivox)
 
+* 12. The turn of a screw*- James (librivox)
 
-20. Siddharth*a- Hesse
+* 13. A vindication of the rights of women*- Wollstonecraft (librivox)
 
+* 14. Metamorphosis*- Ovid (librivox)
 
-21. Their eyes were watching God*- Hurston
+* 15. Shadow Puppets- Card
 
+* 16. The Soul of the New Machine- Kidder
 
-22. The Golden Notebook*- Lessing
+* 17. Thinking in numbers- Temant
 
+* 18. Overwhemed- Noble
 
-23. Night* – Wiesle
+* 19. Terminal man- Crichton
 
+* September/October 2014
 
-24. Moonlight Mile – Lehane
+* 1.  Invasive procedures- Card
 
+* 2.  Middlemarch*- Elliot
 
-25. Hunger Games- Collins
+* 3.  A land without heroes- Mull
 
+* 4.  The 7-day Christian- Wilcox
 
-26. Catching Fire- Collins
+* 5.  Old dogs, new math- Eastway/Askew
 
+* 6.  Cadillac Desert- Reisner
 
-septiembre 2012
+* 7.  Families in Danger- Wright
 
+* 8.  The giver- Lowry
 
-1. All Quiet on the Western Front*- Remarque
+* 9.  Boomerang- Lewis
 
+* 10. Age of Innocence*- Wharton
 
-2. The Traveler’s gift- Andrews
+* 11. Backlash- Allston
 
+* 12. Don Quixote*- Cervantes
 
-3. The Hundred-year Lie- Fitzgerald
+* 13. Into the Wild
 
+* 14. The invisible heart – Folbre
 
-4. The language of science and faith- Giberson/Collins
+* 15. Second glance- Picoult
 
+* 16. The Information
 
-5. Remembrance of things that are past* – Proust (play version)
+* 17. Old Testament
 
+* 18. Discourses*- Epictetus
 
-6. Today we are rich- Sanders
+* 19. Thirteen things they won’t tell you- Reader’s Digest
 
+* 20. Why God became man- Anselm
 
-7. Feed your child right - Evans
+* 21. The Science of Harry Potter- Highfield
 
+* noviembre 2014
 
-8. Emma*- Austen
+* 1. The triple package- Chua/Rubenfeld
 
+* 2. Men on strike- Smith
 
-9. The metamorphosis*- Kafka
+* 3. How we learn-Carey
 
+* 4. The Outsiders- Hinton
 
-10. If this is a man*- Primo
+* 5. LDS guide to healthy living- Douglass
 
+* 6. Why Nations Fail- Acemoglu
 
-11. Smart parenting, smarter kids- Walsh
+* 7. Da Vinci’s Ghost- Lester
 
+* 8. Aha- Idleman
 
-12. Now you see it- Davidson
+* 9. Judgment
 
+* 10. How to say no without feeling guilty- Breitman/Hatch
 
-13. The best of it- Ryan
+* 11. Dataclysm- Rudder
 
+* 12. Innocence- Koontz
 
-14. The between the lions book for parents- Rath/Kennedy
+* 13. To the end of June- Beam
 
+* 14. To save everything, click here- Morozov
 
-15. The penguin and the leviathan- Benkler
+* 15. Power parenting in the LDS home- Wright
 
+* 16. The Longest Ride- Sparks
 
-16. House of Fog and Sand- Dubuos
+* December 2014
 
+* 1. Speaking of Fourth Grade- Schaenen
 
-17. Mockingjay- Collins
+* 2. Mark of a Giant- Stewart
 
+* 3. Jurassic Park- Crichton
 
-18. Steve Jobs- Isaacson
+* 4. The Grapes of Math- Bellos
 
+* 5. Bad Paper- Halpern
 
-19. Stories from the life of Joseph Smith- Turley/Litke
+* 6. Faster, Higher, Stronger- McClusky
 
+* 7. The Outsiders- Thorndike
 
-20. Ten talks parents must have with their children- Schwartz
+* 8. Leaders Eat Last- Sinek
 
+* 9. Do Fathers Matter?- Raeburn
 
-21. Victory and Honor- Griffin
+* 10. Excellent Sheep- Deresiewicz
 
+* 11. Wuthering Heights- Bronte
 
-22. Janitors- Whitesides
+* 12. Tips for tackling teenage troubles – Wilcox
 
+* 13. Oration on the Dignity of Man*- Giovanni
 
-23. What makes your brain happy and why you should do the opposite- DiSalvo
+* 14. Bourne Objective- Ludlum
 
+* 15. The God Who Weeps- Givens
 
-October 2012
+* 16. Curiousity- Blackwood
 
+* 17. New Testament
 
-1. The Holy Temple- Packer
+* January 2015
 
+* 1. The Rithmatist- Sanderson
 
-2. Raising a modern-day knight - Lewis
+* 2. Earth Afire- Card/Johnston
 
+* 3. Divergent-Roth
 
-3. Accidental inventions- Krols
+* 4. Rasselas*- Johnson
 
+* 5. The Histories- Heodotus*
 
-4. The greatest stories never told- Beyer
+* 6. Dialogues Concerning Natural Religion*- Hume
 
+* 7. Choose higher ground- Eyring
 
-5. HTML & CSS- Duckett
+* 8. The French Revolution*- Carlyle
 
+* 9. Anabasis*- Xenophon
 
-6. Boys adrift- Sax
+* 10. Joseph Andrews*-Fielding
 
+* 11. Book of Mormon
 
-7. Money Secrets of the Amish- Craker
+* 12. The Boom-
 
+* 13. Falling to Heaven- Farrell
 
-8. Nurtureshock- Bronson/Merryman
+* 14. Breaking Stalins Nose- Velshkin
 
+* 15. Survival Colony 9-
 
-9. Inviting him in- Brinley
+* 16. Jesus Now- Viola
 
+* February 2015
 
-10. Small Message, Big Impact- Sjodin
+* 1. The Book of the Courtier*- Castiglione
 
+* 2. Autobiography of Cellini*- Cellini
 
-11. When you say “thank you”, mean it- O’Donohue
+* 3. People of Paradox- Givens
 
+* 4. Crucible of Doubt- Givens
 
-12. Gamification by design- Zichermann
+* 5. The Night Tourist- Marsh
 
+* 6. Gray Mountain- Grisham
 
-13. Our town- Wilder
+* 7. Seven Bad Ideas- Madrick
 
+* 8. The Book Thief-
 
-14. The scouting report- Murphy
+* 9. No Place to Hide- Greenwald
 
+* 10. The Age of Cryptocurrency- Vigna
 
-15. Cultural literacy- Hirsch
+* 11. The Last 13-
 
+* 12. When souls have wings- Givens
 
-16. Horse whisperer- Evans
+* 13. How Full is Your Bucket- Rath
 
+* 14. The little book of thin- Slayton
 
-noviembre 2012
+* 15. Justice- Sandel
 
+* March 2015
 
-1. Cowards- Glenn Beck
+* 1. Looking at Movies- Barsam
 
+* 2. The Science of Happily Ever After- Tashiro
 
-2. The bear and two other stories*- Faulkner
+* 3. Dreamers and Deceivers- Beck
 
+* 4. The Princess of Cleves*- La Fayette
 
-3. The American Scholar; Nature* - Emerson
+* 5. Philosophical Dictionary*- Voltaire
 
+* 6. Shadows in Flight- Card
 
-4. Your child’s writing life- Pam Allyn
+* 7. New Testament
 
+* 8. Esperanza Rising- Ryan
 
-5. App Empire- Mureta
+* 9. The Norton Reader (10th edition)- Peterson
 
+* 10. Left hand of Darkness- Le Guin
 
-6. Gang Leader for a Day- Venkatesh
+* 11. Areopagitica*- Milton
 
+* 12. The Myth of Laziness- Levine
 
-7. Miss Harriet*- Maupassant
+* 13. Bitten- Smith
 
+* 14. Heaven is for Real- Burpo
 
-8. Satyrica*- Petronius
+* 15. How to fly a horse- Ashton
 
+* 16. Seventh son- Card
 
-9. Culture and Anarchy*- Arnold
+* 17. Opposite of spoiled- Lieber
 
+* 18. End of power- Naim
 
-10. Tristan*- Strassburg
+* 19. Escape from Rwanda- Bizimana
 
+* 20. The Message- Richardson
 
-11. Life of Frederick Douglas*- Douglas
+* abril 2015
 
+* 1. Pamela*- Richardson
 
-12. Fear and Trembling*- Kiekergaard
+* 2. Beyonders: Seeds of Rebellion- Mull
 
+* 3. Heptameron*- Navarre
 
-13. Sickness unto Death* – Kiekergaard
+* 4.  Bottom billion- Collier
 
+* 5.  Economics in one lesson- Hazlitt
 
-14. Sense and Sensibility*- Austen (CD)
+* 6. Discourses*- Joshua Reynolds
 
+* 7. Home- Morrison
 
-15. Complete Idiot’s Guide to Total Nutrition- Bauer
+* 8. Agony and Ectasy- Stone
 
+* 9. Influencer- Patterson
 
-16. A House United- Peck
+* 10. A Different God- Foster
 
+* 11. To my Friends- Holland
 
-17. Built to Last
+* 12. Annals*- Tacitus
 
+* 13. Consolation of Philosophy*-Boethius
 
-December 2012
+* 14. Beyond the University: Why Liberal Education Matters- Roth
 
+* 15. Driven- Miller
 
-1. Act in Doctrine- Bednar
+* 16. Think like a Freak- Levitt
 
+* 17. Cleansing of America- Skousen
 
-2. Forever- Weyland
+* 18. The Winter’s Tale- Shakespeare
 
+* 19. People of the Book- Brooks
 
-3. Talking with God- Millet
+* 20. The Test- Kamenetz
 
+* May 2015
 
-4. Janitors, New Forest Academy- Whiteside
+* 1. Planet of the Apes- Boulle
 
+* 2. Divorce Proof your Marriage- Rosberg
 
-5. The promised land of recovery- Bertelsen
+* 3. Case of Need- Crichton
 
+* 4. How Google Works- Schmidt
 
-6. Superman versus the Klu Klux Klan- Bowers
+* 5. Driven to Distraction at Work- Hallowell
 
+* 6. Mind Change- Greenfield
 
-7. So Rich So Poor- Edelman
+* 7. Red Prophet- Card
 
+* 8. Cosmic- Boyce
 
-8. What Money Can’t Buy- Sandel
+* 9. The Fairie Prince- Spencer
 
+* 10. Rabbit Proof Fence- Pilkington
 
-9. Ignorance- Firestein
+* 11. The Alchemist- Coelho
 
+* 12. The instant economist- Taylor
 
-10. Painless Poetry- Elizabeth
+* 13. Capital in the Twenty-First Century- Pickety
 
+* 14. In the Beginning- Potok
 
-11. Joseph Andrews- Fielding
+* 15. Willpower-Baumeister
 
+* 16. The Race- Cussler
 
-12. 15 Secrets to a Happy Home- Baadsgaard
+* 17. Boys in the Boat- Brown
 
+* 18. Reinventing the bazaar- McMillan
 
-13. Sonnets from the Portugeese- Browning
+* 19. The Eighth Day- Salerni
 
+* 20. Crossover- Alexander
 
-14. Country of the Pointed Firs- Jewett
+* June 2015
 
+* 1.  Everything for sale – Kuttner
 
-15. How girls thrive- Deak
+* 2. Conform- Beck
 
+* 3. What is Relativity?- Bennett
 
-16. Clybourne Park- Norris
+* 4. Happiness- Lenoir
 
+* 5. Thieves of State- Chayes
 
-17. Fire to fire- Doty
+* 6. Apprentice Alvin- Card
 
+* 7. New Testament
 
-18. Engine empire- Park
+* 8. Eminent Victorians*- Strachey
 
+* 9. Timeline- Crichton
 
-19. The Enoch letters- Maxwell
+* 10. Neverwhere- Gaiman
 
+* 11. The Querist*- Berkeley
 
-20. 250 ways to connect with your family Webb
+* 12. The Promise of a Pencil- Braun
 
+* 13. House of Debt- Mian
 
-21. Feathers – Woodson
+* 14. Small is beautiful- Shumacher
 
+* 15. Technopoly- Postman
 
-22. An Elephant in the garden- Morpurgo
+* 16. Cyber Safety- Knopk
 
+* 17. Be a People Person- Maxwell
 
-23. The understudy- Weyland
+* 18. The Science of Everything- Idiot’s Guide
 
+* 19. Between Parent and Child- Ginoff
 
-24. Compare Isaiah- Swint
+* 20. The Wishing Spell- Colfer
 
+* July 2015
 
-25. The Bondage of the Will*- Luther
+* 1. Counter Culture- Platt
 
+* 2. Smart is the New Rich- Romans
 
-26. Disciplined dreaming- Linkner
+* 3. Moon over Manifest- Vanderpool
 
+* 4. The Innovators- Isaacson
 
-27. The Rich and the rest of us- Smiley/West
+* 5. Following the Light of Christ into His Presence- Pontius
 
+* 6. Tess of the D'Ubervilles*- Hardy
 
-28. 9 things graduates must do- Cloud
+* 7. Visions of Glory- Pontius
 
+* 8. Crazy is a Compliment- Rottenberg
 
-29. Garbology- Humes
+* 9. Chess not Checkers- Miller
 
+* 10. Cause of Death- Cornwell
 
-30. Sphere- Crichton
+* 11. Airframe- Crichton
 
+* 12. The Change is Coming- Sousa
 
-31. The future of us (CD)- Asher
+* 13. Grandmaster- Klass
 
+* 14. The End of College- Carey
 
-January 2013
+* 15. Biblio-tech- Palfrey
 
+* 16. Earth Awakens- Card
 
-1. The richest man in Babylon- Clason
+* agosto 2015
 
+* 1. Why Science Does not Disprove God- Aczel
 
-2. The vow (CD)- Carpenter
+* 2. Work Simply- Tate
 
+* 3. Contagious: Why things Catch on- Berger
 
-3. The Juice, the real story of baseball’s drug problems- Carrol
+* 4. La Transformation Total de tu Dinero- Ramsey
 
+* 5.  New Testament
 
-4. The real crash- Schiff
+* 6. Shock Wave- Sandford
 
+* 7. Eaters of the Dead- Crichton
 
-5. Zen and the art of motorcycle maintenance- Pirsig
+* 8. Take no Prisoners- Horowitz
 
+* 9. How to Kill a Unicorn- Payne
 
-6. The tyranny of clichés- Goldberg
+* 10. American Dreams- Rubio
 
+* 11. Zoo- Patterson
 
-7. Homeschooling, the complete guide- Orr
+* 12. Stuffocation- Wallman
 
+* 13. Epic Measures- Smith
 
-8. Thirteen reasons why (CD)- Asher
+* 14. Five Kingdoms: Sky Raiders- Mull
 
+* 15. Creative Schools- Robinson
 
-9. Reached- Condie
+* 16. Math Geek- Rosen
 
+* 17. Flatland- Abott
 
-10. Digging deeper- Eaton
+* 18. Seven Principles for Making Your Marriage Work – Gottman
 
+* 19. Head Above Water*- Emecheta
 
-11. The continuous atonement- Wilcox
+* 20. Navigating Early- Vanderpool
 
+* septiembre 2015
 
-12. Top 10 myths in education- Frase
+* 1. Poems of Friedrich Holderlin*- Mitchell
 
+* 2. Monkey*- Wu Ch’Eng en
 
-13. Creation: Life and how to make it- Grand
+* 3. Midnight’s Children*- Rushdie
 
+* 4. Epic of Gilgamesh*- Foster
 
-14. Complete idiots guide to genealogy- Rose
+* 5. Dracula*- Stoker (LV)
 
+* 6. Mexico- Michener
 
-15. Mormons under the microscope- Lauritsen
+* 7. Essays in Idleness*- Kenko
 
+* 8. Work Rules- Block
 
-16. Increase in Learning- Bednar
+* 9. Jane Eyre* (LV)- Bronte
 
+* 10. Not just Good, but Beautiful- Francis
 
-17. Are we there yet?- Millet
+* 11. When to Rob a bank- Levitt
 
+* 12. The Eureka Factor- Kounios
 
-February/March 2013
+* 13. The Misfit Economy- Clay
 
+* 14. Clay, Water, and Brick- Jackley
 
-1. Everyday a Friday- Osteen
+* 15. Move your Bus- Clark
 
+* 16. Humans are Underrated- Coleman
 
-2. Speaker for the Dead - Card
+* 17. Age of Sustainable Development- Sachs
 
+* 18. Date-onomics- Siber
 
-3. A briefer history of time- Hawkings
+* 19. The Burning Answer- Barnham
 
+* 20. The New Health Rules- Lipman
 
-4. It starts with food- Hartwig
+* October 2015
 
+* 1. Social Contract*- Rousseau (LV)
 
-5. 3:16 - Lucado
+* 2. Amazed by Grace- Dew
 
+* 3. A Refuge from the Storm- Packer
 
-6. Bully- Hirsch
+* 4. Why God Became Man*- Anselm
 
+* 5. Gregor the Overlander- Collins
 
-7. Saving the school – Brick
+* 6. The Defense of Poesy*- Sidney
 
+* 7. Hold on to your Kids- Neufeld
 
-8. Muckwhips guide to capturing the LDS soul- Heimerdinger
+* 8. Michelle and Deborah- Weyland
 
+* 9. Blue Shoes- Lamott
 
-9. What’s so bad about being good- Christianson
+* 10. Songs of God*-Phillipi
 
+* 11. Making Habits, Breaking Habits- Dean
 
-10. The genius in all of us- Shenk
+* 12. 12 Years a Slave- Northrup
 
+* 13. Your Money or your Life- Dominguez
 
-11. Chronotherapy- Terman
+* 14. Our Kids- Putnam
 
+* 15. Superforecasting- Tetlock
 
-12. Situations matter - Sommers
+* 16. Songs of Humans*- Phillipi
 
+* 17. Adam Bede*- Elliott (LV)
 
-13. That used to be us- Friedman
+* 18. On Learned Ignorance*- Nicholas of Cusa
 
+* 19. Orlando Furioso*- Ariosto (LV)
 
-14. Xenocide- Card
+* 20. Broadcasting Happiness- Gielan
 
+* noviembre 2015
 
-15. Train Dream
+* 1. The Boy who Played with Fusion- Clynes
 
+* 2. One Thousand Wells- Nardella
 
-16. Devil on the Cross
+* 3. Staying Sharp- Emmons
 
+* 4. A Beginner’s Guide to Online Genealogy- Dunn
 
-17. Princess of Cleves
+* 5. The Brothers- Stewart
 
+* 6.  Duino Elegies*- Rilke
 
-18. For Love and Money – Poduska
+* 7. Trailhead- Jhung
 
+* 8. Snow Country*- Yasunari
 
-19. Following the Light of the Lord – Pontius
+* 9. The Everything Guide to Writing Children’s Books- Wallin
 
+* 10. The Three-Cornered World*- Soseki
 
-20. Teaching children to love missionary work
+* 11. Life of Samuel Johnson*(LV)- Boswell
 
+* 12. The Valley Nearby*- Sok-Kyong
 
-21. Positronic man- Asimov
+* 13. The New Testament
 
+* 14. Tao-te Ching*- Tzu (LV)
 
-22. The prose edda
+* 15. The Way of Kings- Sanderson
 
+* 16. The Alchemy of Happiness*- Ghazzali
 
-23. Head above water
+* 17. Most Likely to Succeed- Wagner
 
+* 18. Politics*- Aristotle (LV)
 
-24. The Aenid*- Virgil
+* 19. Yvain*- Chretian de Troyes (LV)
 
+* 20. Economics 2.0- Haring
 
-25. Deathless- Valente
+* December 2015
 
+* 1. History of the Church from Christ to Constantine*- Eusibius (LV)
 
-abril 2013
+* 2. Nibelungenlied* (LV)
 
+* 3. Lais*- Frances
 
-1.  Have a new kid by Friday- Leman
+* 4. Let There Be Water- Siegel
 
+* 5. How to Watch a Movie- Thomson
 
-2.  Bringing up boys – Dobson
+* 6. Misbehaving- Thaler
 
+* 7. Discourses on Livy*- Machiavelli (LV)
 
-3.  Daniel and Nephi- Heimidinger
+* 8. Lone Wolf- Picoult
 
+* 9. The Story of Layla and Majnun*- Nizami
 
-4.  No contest- Kohn
+* 10. Pilgrim’s Promise*- Bunyan (LV)
 
+* 11. Egil’s Saga*- Sturluson
 
-5.  A different universe- Laughlin
+* 12. Parzival*- Eschenbach
 
+* 13. Short Stories*- O. Henry (LV)
 
-6.  Run less, run faster – Pierce
+* 14. In Praise of Folly*- Erasmus (LV)
 
+* 15. Broken Bonds- Pearlstein
 
-7.  The supreme court- Rosen
+* 16. The Silencing- Powers
 
+* 17. Restoring all Things- Smith/Stonesetter
 
-8.  History of Rome*- Livy
+* 18. The Ways of Radiance- Sanderson
 
+* 19. Players and Pawns- Fine
 
-9.  The strong sensitive boy- Zeff
+* 20. Divine Comedy*- Dante
 
+* 21. Short Stories*- Hawthorne (LV)
 
-10. Horton’s Miraculous Mechanisms- Evans
+* January 2016
 
+* 1. Nature*- Emerson (LV)
 
-11. The bully, the bullied, and the bystander- Coloroso
+* 2. Child Harold’s Pilgrimage*- Lord Byron (LV)
 
+* 3. Truth Overruled- Anderson
 
-12. Unsteady- Smith
+* 4. New Testament
 
+* 5. The Ultimate Sleep Guide- Colbert
 
-13. Decisions for successful living- Lee
+* 6. The Couple’s Guide to Financial Compability- Motske
 
+* 7. Smart Money, Smart Kids- Ramsey
 
-14. Middle class millionaire- Prince/Schiff
+* 8. The Power of Mathematical Thinking- Ellenberg
 
+* 9. How to Raise a Wild Child- Sampson
 
-15. Horton’s Illustrious Illusions- Evans
+* 10. Saving Gotham- Farley
 
+* 11. Moll Flanders*- Defoe (LV)
 
-16. Bet the Farm- Kaufman
+* 12. The Prize- Russakoff
 
+* 13. Essays*- Hume
 
-May 2013
+* 14. Philosophical Writings*- Ockham
 
+* 15. Astrophil and Stella*- Sidney (LV)
 
-1.  Thinking Fast and Slow- Kahneman
+* 16. Book of Mormon
 
+* 17. The Magic Strings of Frankie Preston- Albom
 
-2.  The Signal and the Noise- Silver
+* 18. Institutes of Christian Religion- Calvin
 
+* 19. Areopagitica*- Milton (LV)
 
-3.  The Oxbow Incident-
+* 20. Three dramatic monologues*- Browning (LV)
 
+* 21. Narrative of Life*- Douglass (LV)
 
-4.  Prey- Crichton
+* 22. Eugen Onegin*- Pushkin (LV)
 
+* 23. Ready Player One- Clive
 
-5.  Doctrine and Covenants
+* February 2016
 
+* 1. When Angels Fall- Stewart
 
-6.  The poor Christ of Bomba*- Beti
+* 2. Laxdoela Saga*
 
+* 3. Mindware- Nisbett
 
-7.  Theogony and Work of Days*- Hesiod
+* 4. Heaven in Here- Nielson
 
+* 5. Behavioral Economics and Public Health- Roberto
 
-8.  The Last Book in the Universe
+* 6. The Power of the Half Hour – Barnett (audio)
 
+* 7. In the Plex- Levy
 
-9.  Admired: 21 ways to double your value- Thompson
+* 8. Phishing for Phools- Akerlof
 
+* 9. Njal’s Saga*
 
-10. The emotional life of your brain- Davidson
+* 10. Prose Edda*- Sturlson
 
+* 11. The Tale of the Death of King Arthur*-Malory
 
-11. Throw them all out- Schweizer
+* 12. Kokoro*- Soseki
 
+* 13. Spiritual Couplets*- Rumi
 
-12. The American way of eating- McMillan
+* 14. The Fairie Queen*- Spenser (LV)
 
+* 15. Defense of Poetry*- Shelley
 
-13. Twenty Something- Henig
+* 16. Winning Basketball- Pim
 
+* 17. Thus Spoke Zarathustra*- Nietzsche (ibooks)
 
-14. Unleash!- Perry Noble
+* 18. Lone Survivor- Luttrell
 
+* 19. What Good Men do- Baxter
 
-15. Middlesex- Eugnides
+* 20. King Leopold’s Ghost-Hoschild
 
+* 21. Leaving Time- Picoult (audio)
 
-16. The world’s shortest stories- Moss
+* 22. The Great Apostasy- Talmage
 
+* 23. Heart of Darkness- Conrad
 
-17. Atlas Shrugged*- Rand
+* 24. Invisible Man*- Wells (LV)
 
+* 25. The Orange Girl- Gaarder
 
-18. The Folly of fools- Trivers
+* 26. House of Debt- Mian
 
+* 27. All the Light We Cannot See- Doerr
 
-19. The Pillow Book*- Shonagon
+* 28. How to Bake Pi- Cheng
 
+* March 2016
 
-20. Hidden Treasures-
+* 1. Maze Runner- Daschner
 
+* 2.  Beat to Quarters-Forester
 
-June 2013
+* 3.  Fearless- Lot
 
+* 4.  How will you measure Your Life?- Christensen [SL]
 
-1.  The Hobbit- Tolkien
+* 5. The Nightingale- Hannah
 
+* 6. The Education of Little Tree - Forrest Carter [SL]
 
-2.  As you like it* – Shakespeare
+* 7.  Eat the Rich- O’Rourke [SL]
 
+* 8. Julius Caeser*- Shakespeare
 
-3.  Cooked- Pollan
+* 9.  Angle of Repose- Stegner [SL]
 
+* 10. The Road Less Traveled - M. Scott Peck
 
-4.  Walking on water- Wilcox
+* 11. Fooled by Randomness - Nassim Taleb
 
+* 12. Fervent- Shirer
 
-5.  The Reunion- Weyland
+* 13. Canzoniere*- Petraca (LV)
 
+* 14. The End of me - Ideleman
 
-6.  Alex Rider: Stormbreaker- Horowitz
+* 15. Type B manager- Lipman
 
+* 16. Road to Character- Brooks
 
-7.  The sense of an ending – Barnes
+* 17. Alantia- Condie
 
+* 18. Planted- Mason
 
-8.  Automate this- Steiner
+* 19. Teaching to Build Faith and Faithfulness- Clayton
 
+* 20. The First Call from Heaven- Albom
 
-9.  The Thinking Life- Forni
+* abril 2016
 
+* 1. At First Sight- Sparks
 
-10. Surprised by joy*- Lewis
+* 2.  Gratitude Diaries- Kaplan
 
+* 3.  Applied Minds- Madhavan
 
-11. Cure- Cook
+* 4.  Mistborn: Final Empire- Sanderson
 
+* 5.  Creativity Inc- Catmull
 
-12. Enoch the prophet- Nibley
+* 6. Live Your Life for Half the Price- Hunt
 
+* 7.  Angle of Repose- Stegner
 
-13. Mathematics minus fear- Potter
+* 8.  Raising an Army of Helamen’s Warriors- Ogletree
 
+* 9.  A God in Ruins- Atkinson
 
-14. Tenth of December - Saunders
+* 10. The Social Animal - David Brooks [SL]
 
+* 11. The Turning- Eyre
 
-15. Red Ink- Wessel
+* 12. Big Magic- Gilbert
 
+* 13. Wild- Strayed
 
-16. Don’t leap with sheep- Wilcox
+* 14. Doing Good Better- MaCaskill
 
+* 15. Turn the Page
 
-17. Rainy brain, sunny brain- Fox
+* 16. ? [The Tuorah- Culler]
 
+* 17. More Perfect Union- Carson
 
-18. Hidden empire- Card
+* 18. Primary Greatness- Covey
 
+* 19. A Time for Truth- Cruz
 
-19. The Alexiad*- Komnene
+* 20. Queen of Katawe- Crothers
 
+* May 2016
 
-20. War Dances- Alexie
+* 1. Prodigal Son- Steele
 
+* 2. The End of Your Life Book Club- Schwalbe
 
-21. Last of the big time spenders- Weyland
+* 3. Book of Mormon
 
+* 4. The Collapse of Parenting- Sax
 
-July 2013
+* 5. The Closing of the American Mind- Bloom
 
+* 6. Earthfall- Card
 
-1.  Blindspot- Banaji/Greenwald
+* 7. Flowers for Algernon- Keyes
 
+* 8. Aspects of Faith- Lewis
 
-2.  Simpler- Sunstein
+* 9. 500 Little-known facts about Joseph Smith-
 
+* 10. Love the House You are in- Rien
 
-3.  King Lear*- Shakespeare
+* 11. Missionary: Possible- Rigby
 
+* 12. Devil in the White City- Larson
 
-4.  The last boys picked- Edgette
+* 13. Michael Vey: The Prisoner of Cell 25- Evans
 
+* 14. You are an Iron Man- Steinberg
 
-5.  Elijah Buxton- Curtis
+* 15. All the Money in the World- Vanderkam
 
+* 16. No Easy Day- Owens
 
-6.  Perfection pending – Nelson
+* 17. Raymie Nightengale- DiCamilo
 
+* 18. A Higher Call- Makos
 
-7.  7 tipping points that saved the world- Stewart
+* 19. World Order- Kissinger
 
+* 20. Lillies that Fester- Lewis
 
-8.  Eat and Run- Jurek
+* June 2016
 
+* 1. The Man in the High Castle- Dick
 
-9.  Sidhartha*- Hesse
+* 2. Crowdsourcing- Howe
 
+* 3. Lillith- MacDonald
 
-10. The theoretical minimum- Susskind
+* 4.  Till We Have Faces- Lewis
 
+* 5.  Economics as an Evolutionary Science
 
-11. Making habits, breaking habits- Dean
+* 6.  Economics in One Lesson
 
+* 7.  Genome--An Autobiography
 
-12. Reflections on the revolution in France*- Burke
+* 8.  I am the Messenger- Zusack
 
+* 9.  The Life-changing Magic of Tidying Up- Kondo
 
-13. Jerusalem Delivered*- Tasso
+* 10. The Hard Thing about Hard Things- Horowitz
 
+* 11. Family and Civilization- Zimmerman
 
-14. Wonder- Palacio
+* 12. Speak- Anderson
 
+* 13. The Racketeer- Grisham
 
-15. The social conquest of earth- Wilson
+* 14. A Wind in the Door- L’Engle
 
+* 15. The Promise of a Pencil- Brawn
 
-16. The letters of Abelard and Heloise*- Radice
+* 16. Earthborn- Card
 
+* 17. Alloy of Law- Sanderson
 
-17. Home teaching with purpose and power- Marshall
+* 18. Evicted- Desmond
 
+* July 2016
 
-18. Culture and Anarchy*- Arnold
+* 1. Shadows of Self- Sanderson
 
+* 2. Sophies World- Gaarder
 
-19. Mrs. Dalloway*- Woolf
+* 3. First, Kill all the Marriage Counselors- Doyle
 
+* 4. The 5am Miracle- Sanders
 
-20. Antifragile- Talib
+* 5. Dad is Fat- Gaffigan
 
+* 6. Miracles from Heaven- The Bean
 
-21. The secrets of a happy family- Feiler
+* 7. Insurgent- Roth
 
+* 8. America Again- Colbert
 
-22. Distracted-
+* 9. New Testament
 
+* 10. Walking Papers- Clark
 
-agosto 2013
+* 11. The Innovators Cookbook- Johnson
 
+* 12. Multipliers- Wiseman
 
-1.  Pastwatch- Card
+* 13. The New Cool- Bascomb
 
+* 14. Food- Gaffigan
 
-2.  A slap in the face- Irvine
+* agosto 2016
 
+* 1. Louder than Words- Henry
 
-3.  The guide to the perplexed- Maimonides
+* 2. What your Finanical Advisor Isn’t Telling You- Davidson
 
+* 3. Alliance- Lund
 
-4.  The Landry News- Clements
+* 4. Your First Triathalon- Friel
 
+* 5. Memory Man- Baldacci
 
-5.  Drunk Tank Pink- Atler
+* 6. The Hundred Foot Journey- Morais
 
+* 7. End of Education- Postman
 
-6.  Pieces of light- Fernyhough
+* 8. Disrupt Yourself- Johnson
 
+* 9. The Magic of Math- Benjamin
 
-7.  Threat Vector- Clancy
+* 10. Disappearing Spoon- Keam
 
+* 11. Brooklyn- Tolbin
 
-8.  Ultramarathonman- Karnazes
+* 12. A Separate Place- Knowles
 
+* 13. Harry Potter and the Cursed Child- Thorne
 
-9.  Extremely Loud and Incredibly Close
+* 14. Scorpio Races- Stiefvater
 
+* 15. 30 Lessons in Loving- Pilemer
 
-10. Skeleton Key-
+* 16. 9 Powerful Practices of Really Great Mentors
 
+* septiembre 2016
 
-11. On the List- Farber/Abrahams
+* 1. Crippled America- Trump
 
+* 2. Getting Things Done- Allen
 
-12. Word Freak- Fatsis
+* 3. $2.00 a Day- Edin
 
+* 4. 5 Easy Theses- Stone
 
-13. Recovering Charles- Wright
+* 5. Till we have faces- Lewis [check if already there]
 
+* 6. 6 Events- Covey
 
-14. The way of all flesh*- Butler
+* 7. Book of Mormon
 
+* 8. Cinder- Mayer
 
-15. The Rig Veda*
+* 9. The Actor and the Housewife- Hale
 
+* 10. Idea Agent- Escheverria
 
-16. The solitude of prime numbers- Giordano
+* 11. Black Man in a White Coat- Twedy
 
+* 12. Diet Book (can’t remember the title)
 
-17. Pirate King-
+* 13. Comeback- Morris
 
+* 14. Dude’s Guide to Marriage- Patrick
 
-18. The faith of a scientist- Eyring
+* 15. What Color is your Parachute for Teens- Christen
 
+* October 2016
 
-19. The waves*- Woolf
+* 1. The World Until Yesterday- Diamond
 
+* 2. Warbreaker- Sanderson
 
-20. The jungle*- Lewis
+* 3. Unsteady- Smith
 
+* 4. Pantagruel and Gargantua*- Rabelais
 
-21. Kill shot- Flynn
+* 5. Freedom Factor- Lund
 
+* 6. Summerlost- Condie
 
-22. [Need to add in the 3 books from Australia]
+* 7. Common Sense- Paine
 
+* 8. War Room- Fabry
 
-septiembre 2013
+* 9. How to be the parent you always wanted to be- Ferber
 
+* 10. Wisdom and Teachings of Stephen Covey- Covey
 
-1.  Unbroken- Hillenbrand
+* 11. Devils- Dostoevsky
 
+* noviembre 2016
 
-2.  City- Simak
+* 1. The 29% Solution- Misner
 
+* 2. The History of Italy*- Guicciardini
 
-3.  Falling to Heaven- Ferrell
+* 3. About Love and Other Stories- Chekhov
 
+* 4. The Innovative University- Christensen and Eyring
 
-4.  Modern Slavery- Bales
+* 5. Una Vida con Proposito- Warren
 
+* 6. Doctrine and Covenants
 
-5.  Perfect 1600 score- Fischgrund
+* 7. The Tale of Genji- Shikibu
 
+* 8. As a Man Thinketh- Allen
 
-6.  Change Anything- Patterson
+* 9. Book of Mormon
 
+* 10. O Great One- Novak
 
-7.  Happy like Jesus- Ogden
+* 11. Fuzzy Mud- Sachar
 
+* 12. The Index Card- Ola/Polla
 
-8.  6 events- Covey
+* 13. Pearl of Great Price
 
+* 14. Widergrove Palmer?- Whitehead
 
-9.  History of the Peloponsian War*-
+* December 2016
 
+* 1. Stuff Matters- Miodownik
 
-10. Cleaning house- Wyma
+* 2. Great Acceleration- Colville
 
+* 3. 28 Days- Smith
 
-11. The art of significance- Clark
+* 4. The Ghost Map- Johnson
 
+* 5. Hattie Big Sky- Larson
 
-12. Pathfinder- Card
+* 6. Shouldn’t you be in school- Snickett
 
+* 7. Heather 101- Weyland
 
-13. Donovan’s brain- Siodmak
+* January/February 2017
 
+* 1. Sex and the Soul- Frettas
 
-14. The infinite atonement- Callister
+* 2. Hamilton- Miranda
 
+* 3. Revenant- Punke
 
-15. Wherefore, ye must press forward- Maxwell
+* 4. Weakness is not a Sin- Ulrich
 
+* 5. Social Physics- Pentland
 
-16. Naked Statistics- Wheelan
+* 6. Rise of the Robots- Martin
 
+* 7. Gatefather- Card
 
-17. Healing at the speed of sound- Campbell
+* 8. James Miracle- Wright
 
+* 9. Meet the Austins- L’engle
 
-18. Latter days- Newell
+* 10. Women and the Priesthood- Sheri Dew
 
+* 11. Black Box Thinking- Syed
 
-19. Mormon beliefs and doctrines made easier- Ridges
+* 12. Light Between Oceans- Stedman
 
+* 13. Financial Matrix- Woodward
 
-20. The Optimism bias- Sharot
+* 14. Well of Ascension- Sanderson
 
+* 15. Lost World- Crichton
 
-21. Recovering Charles- Wright
+* March 2017
 
+* 1. Life as We Knew It- Pfeffer
 
-October 2013
+* 2. The Thief- Turner
 
+* 3. I’m Not Crazy, I’m Just Not You- Pearman
 
-1.  You can’t lie to me- Driver
+* 4. Fault in our Stars- Green
 
+* 5. Missoula- Krakauer
 
-2.  How children succeed- Tough
+* 6. Wedding Letters- Wright
 
+* 7. Leadership and Self-deception- Arbinger
 
-3.  Financially ever after- Opdyke
+* 8. Atlantis Complex- Colfer
 
+* 9. The Anatomy of Peace- Arbinger
 
-4.  Practical classics- Smokler
+* 10. We’re With You- church leaders
 
+* 11. Talk Like TED- Gailo
 
-5.  Mendel in the kitchen- Fedoroff
+* 12. Boys Adrift- Sax
 
+* 13. Invisible Influence- Gerber
 
-6.  American nerd- Nugent
+* 14. Alquemista- Coelho
 
+* 15. Cell- King
 
-7.  Patients come second- Spiegelman
+* abril 2017
 
+* 1. Art of Invisibility- Mitnick
 
-8.  Endurance- Lansing
+* 2. Quiet- Cain
 
+* 3. The Blue Sword- McKinley
 
-9.  Steve Jobs: The man who thought different- Blumenthal
+* 4. Driverless- Lipson
 
+* 5. Utah and the Great War- Powell
 
-10. MacBeth*- Shakespeare
+* 6. Thinking Fast and Slow – Khaneman
 
+* 7. Bleak House- Dickens
 
-11. Making Marriage Simple- Hendricks
+* 8. Human Cargo: A Journey among Refugees- Moorehead
 
+* 9. Gideon’s Trumpet- Lewis
 
-12. John Adams- McCullough
+* 10. The Big Thing- Korkki
 
+* 11. What Every Future Missionary Needs to Know- Pinegar
 
-13. To big to ignore- Simon
+* 12. Raising Ourselves to the Bar- Wilcox
 
+* 13. Slavery and Politics in the Early American Republic- Mason
 
-14. Poisonwood bible- Kingsolver
+* 14. Doctrine and Covenants
 
+* 15. Extremely Loud and Incredibly Close- Jonathan Safron Foer
 
-15. Raising the bar- Pinegar
+* 16. The Miracle of Ms. Willey
 
+* 17. No More Goodbyes- Pearson
 
-noviembre 2013
+* 18. And Then there were none- Kristi
 
+* 19. The Legend of Holly Claus
 
-1.  The perfect parent- Taylor
+* 20. White Fang- Jack London
 
+* 21. Lost World- Sir Arthur Conan Doyle
 
-2.  Family testament- Russon
+* Books left on the honors reading list:
 
+* 1. Fables*- Aesop (LV)
 
-3.  The gift of acabar- Mandino
+* 2. Enchiridion*- Erasmus (LV)
 
+* 3. On the Free Will*- Erasmus
 
-4.  This explains everything- Brockman’
+* 4. The Art of War*- Machiavelli
 
+* 5. Essays*- Montaigne (LV)
 
-5.  Something wicked this way comes- Bradbury
+* 6. My secret*- Petraca
 
+* 7. Selected letters including Ascent of Mt. Ventoux*- Petraca
 
-6.  Book of Mormon
+* 8. Works*- Edwards
 
+* 9. The Civilization of the Renaissance in Italy*- Burckhardt
 
-7.  Protecting your family in an X-rated world- Wright
+* 10. The American Scholar*- Emerson (LV)
 
+* 11. Philosophy of History*- Hegel (LV)
 
-8.  The majesty of books- Sill
+* 12. Birth of Tragedy*- Nietzsche
 
+* 13. The World and the Individual*- Royce
 
-9.  The book borrower- Mattison
+* 14. The World as Will and Representation*- Schopenhuaer (LV)
 
+* 15. Three Poems*- Shelley (LV)
 
-10. Train up a child- Jeffs
+* 16. Uncle Tom’s Cabin*- Stowe (LV)
 
+* 17. Vanity Fair*- Thackeray (LV)
 
-11. Rebecca of Sunnybrook farm- Wiggin
+* 18. Democracy in America*- de Toqueville (LV)
 
+* 19. The Time Machine*- Wells (LV)
 
-12. Disposable People- Bales
+* 20. Ambiguous Adventure*- Kane
 
+* 21. Selections from Grand Historian*- Ch’ien
 
-13. That’s what she said- Rayna Greed
+* 22. Story of the Stone*- Hsueh-Chin
 
+* 23. Chandogya Upanishad*
 
-14. End of the World- Jordan
+* 24. Ramayana*- Valmiki
 
+* 25. Dhammapada*
 
-15. Main Street- Lewis
+* 26. Shakuntala*- Kalidasa
 
+* 27. Authobiography*- Ghandi
 
-16. The Joy of X- Strogatz
+* 28. The Rubaiyat*- Khayyam
 
+* 29. The Muqaddimah*- Khaldun
 
-December 2013
+* 30. Three Novels of Ancient Egypt*- Mahfouz
 
+* 31. Silence or Deep River*- Shusaki
 
-1.  The power of starting something stupid- Norton
+* 32. Black Rain*- Masuji
 
+* 33. Anthology of Korean Literature*- Lee
 
-2.  The accidental creative- Henry
+* 34. Names*- Kim
 
+* Some books they listed that I really love (that were mentioned by the 380 class)
 
-3.  The smartest kids in the world- Ripley
+* 1.  A Tree Grows in Brooklyn
 
+* 2.  Born to Run
 
-4.  How to teach your child Shakespeare- Ludwig
+* 3.  Count of Monte Cristo
 
+* 4.  The Way of Kings (anything by Brandon Sanderson)
 
-5.  True Believer- Sparks
+* 5.  Agony and the Ectasy
 
+* 6.  Anna Karenina
 
-6.  Letters to a young scientist- Wilson
+* 7.  The Sun Also Rises
 
+* 8.  Outliers (anything by Malcolm Gladwell)
 
-7.  That we may be edified- Packer
+* 9.  The Signal and the Noise- Silver
 
+* 10. The Infinite Atonement
 
-8.  Charlie and Chocolate Factory- Dahl
+* 11. The Richest Man in Babylon
 
+* Future
 
-9.  Little Bee-
+* 1.  Ending Slavery- Bales
 
+* 2. Upon the Head of a Goat- Siegal
 
-10. Holes- Sachar
+* 3. The O. Henry Prize Stories- Furman
 
+* 4. The Lost Gate- Card
 
-January 2014
+* 5. Secret Daughter- Gowda
 
+* 6. All the Names- Saramago
 
-1.  Drinking water- Salzman
+* 7. A.D. 30- Dekker
 
+* 8. :59 Seconds- Wiseman
 
-2.  Utopian experiment- Ludlum
+* 9. Bicentenial Man and Other Stories- Asimov
 
+* 10.
 
-3.  Midnight in Austenland- Hale
+* 11. The Divide: American Injustice in the Age of the Wealth Gap- Taibbi
 
+* 12. The Stone Diaries- Shields
 
-4.  An inconvenient book- Beck
+* 13. Hitler's Willing Executioners- Goldhagen
 
+* 14.
 
-5.  Life without father- Poponoe
+* 15. Bill of the Century- Risen
 
+* 16. Devil in the white city- Larson
 
-6.  I will lead you along- Eyring
+* 17.
 
+* 18. Blood Meridian- Cormac McCarthy
 
-7.  Breakout- Osteen
+* 19. No Country for Old Men- McCarthy
 
+* Book lists that I created at the book store:
 
-8.  The Mormon question- Gordon
+* 1.  After the Music Stopped- Blan..
 
+* 2.  The fine print- Johnston
 
-9.  The role of the father in child development- Lamb
+* 3.  Predator nation- Ferguson
 
+* 4.  The service economy- Faux
 
-10. Start- Acuff
+* 5.  The Price of Integrity- Staker
 
+* 6.  Age of Access- Rifkin
 
-11. American assassin- Flynn
+* 7.  In Pursuit of the unknown- Stewart
 
+* 8.  The mathematics of love- Fry
 
-12. The fatherhood movement- Blankenhorn
+* 9.  Cartoon guide to algebra- Conick
 
+* 10. Naked Statistics – Wheelan
 
-13. A whole new mind- Pinker
+* 11. How to deliver a Ted talk- Donovan
 
+* 12. Mind change- Greenfield
 
-14. Keeping kids readings- Leonhardt
+* 13. Minecraft of dummies
 
+* 14. The fifth gospel- Cardwell
 
-15. The decline and fall of the Roman Empire*- Gibbons
+* 15. The world needs your kid- Kielburger
 
+* 16. Friendfluence- Flom
 
-16. Delta Wedding*- Welty
+* 17. Awaken the giant within- Robbins
 
+* 18. Being Wrong- Schulz
 
-17. Fathers and sons-
+* 19. Stick and stones- Bazelon
 
+* 20. The assumptions economists make – Schliefer
 
-18. Confessions of a Jane Austen Addict
+* 21. Sexy, little numbers- Maex
 
+* 22. The prosperity of vice- Cohen
 
-19. An Assembly such as this-
+* 23. Hold me tight- Johnson
 
+* 24. The one world school house- Khan
 
-20. The 10 most beautiful experiments-
+* 25. The anti-education era- Gee
 
+* 26. Hacking your education- Stephens
 
-February 2014
+* 27. Contagious- Berger
 
+* 28. Smart tribes- Comaford
 
-1.  Atonement- McEwan
+* 29. We first- Mainwaring
 
+* 30. First we read, then we write- Richardson
 
-2.  Salt, Sugar, Fat- Moss
+* 31. Becoming an effective mentoring leader- Rothwell
 
+* 32. Small message, big impact- Sjodin
 
-3.  Dreamland- Randall
+* 33. With charity for All- Stern
 
+* 34. Now you see it- Davidson
 
-4.  The power of who- Beaudine
+* 35. Public parts- Jarvis
 
+* 36. What would google do- Jarvis
 
-5.  Brillant blunders- Livio
+* 37. Hamlet’s blackberry- Down
 
+* 38. Who are we- Younge
 
-6.  The color code- Joseph
+* 39. Hacking happiness- Hover
 
+* 40. Empire of Illusion- Hedges
 
-7.  A New Dawn- Weyland
+* 41. Rise of the creative class- Florida
 
+* 42. Mindful economics- Magnuson
 
-8.  Terry Goodkind- Debt of Bones
+* 43. Discover your inner economist- Cowen
 
+* 44. Common cents- Kimelman
 
-9.  Handle with care- Picoult
+* 45. How Lincoln learned to read- Wolff
 
+* 46. What does it mean to be well educated- Kohn
 
-10. Smart Food- Winter
+* 47. Building a better teacher- Green
 
+* 48. 1001 ways to pay for college- Tanabe
 
-11. Stickability- Reid
+* 49. Small is beautiful- Shumaecer
 
+* 50. Shirt sleeve economics- Paton
 
-12. Every leader is an artist- O’Malley
+* 51. Economics facts and fallacies- Sowell
 
+* 52. Free fall – Stiglitz
 
-13. Top 10 distinctions between entrepeneurs and employees- Smith
+* 53. Panic- Lewis
 
+* 54. It takes a pillage- Prins
 
-14. An invisible thread- Schroff
+* 55. Uncontrolled risk- Williams
 
+* 16. The remains of the day- Ishiguro
 
-15. The price of privilege- Levine
+* 17.
 
+* 18. Lost horizon- James Hilton
 
-16. Harry Potter and the chamber of secrets- Rawling
+* 19. Train up a child- Jeffs
 
+* 1.  Mockingbird- Erskine
 
-17. Ruins- Card
+* 2.  Heavenly intrigue- Gilder
 
+* 3.  The Anthologist- Baker
 
-March 2014
+* 4.  Away- Bloom
 
+* 5.  It’s all Too Much- Walsh
 
-1.  Hearing the voice of the Lord- Lund
+* 6.  Leaving a Trace- Johnson
 
+* 18. The Courage to Teach- Palmer
 
-2.  Thinking like your editor- Rabiner
+* 19. The Elephant and the Dragon- Meredith
 
+* 20. A Mind at a Time- Levine
 
-3.  Giving kids a fair chance- Heckman
+* 21. Intelligence Reframed- Gardner
 
+* 22. The 21-day dad’s challenge- Casey
 
-4.  The rent Collector-Wright
+* 23. The Starfish and the Spider- Brafman/Beckstrom
 
+* 24. El Clan del Oso Cavernario- Auel
 
-5.  Heir to the Empire-Zahn
+* 25. Hello World- Sande
 
+* 26. The history of mankind- Van Loon
 
-6.  The Glass Bead Game*- Hesse
+* 27. Final Theory- Alpert (CD)
 
+* 28. Advancement of Learning- Bacon
 
-7.  Omeros*-Walcott
+* Future books for the kids:
 
+* 1.  House on mango street- Cisneros
 
-8.  Visions of infinity- Stewart
+* 2.  The Dreamer- Ryan
 
+* 3.  Riding Freedom- Ryan
 
-9.  Michelle and Debra- Wayland
+* 4.  Running out of time- Haddix
 
+* 5.  Diary of a young girl- Frank
 
-10. Storyteller- Picoult
+* 6.  The uglies- Westerfield
 
+* 7.  Speak- Anderson
 
-11. Misanthrope- Moliere
+* 8.  Princess bride- Goldman
 
+* Recommendations from 380 students
 
-12. Tartuffe- Moliere
+* 1.  Way of Kings
 
+* 2.  Mistborn Trilogy
 
-abril 2014
+* 3.  Fooled by randomness- Taleb
 
+* 4.  Hatching Twitter- Bilton
 
-1. Unconditional parenting- Kohn
+* 5.  Deathwatch- White
 
+* 6.  Lone Survivor- Luttrell
 
-2. Philosophical investigations*- Wittgenstein
+* 7.  All Creatures Great and Small- Herron
 
+* 8.  Collision low crossers- Dawidoff
 
-3. Selected poems of Langston Hughes*
+* 9.  The Passage- Cronin
 
+* 10. The Match- Frost
 
-4. Killing Jesus- O’Reiley
+* 11. My name is Asher Lev- Potok
 
+* 12. Girl, Interrupted- Kaysen
 
-5. New testament-
-
-
-6. Eye of Moloch- Beck
-
-
-7. Big Data- Schonberger
-
-
-8. Speaking of Sex- Hickling
-
-
-9. Your successful preschooler- Densmore
-
-
-10. Magic Mountain*- Mann
-
-
-11. Dark Force Rising- Zahn
-
-
-12. Good Kids, Tough Choices- Kidder
-
-
-13. For the glory of God- Stark
-
-
-14. Midway to Heaven
-
-
-15. Changing places- David Lodge
-
-
-16. David and Goliath- Gladwell
-
-
-17. Average is Over- Cowen
-
-
-18. Happy Money- Dunn
-
-
-May 2014
-
-
-1.  All Quiet on the Western Front*- Remarque
-
-
-2.  Sycamore Row- Grisham
-
-
-3.  Changing the game- O’Sullivan
-
-
-4.  All joy and no fun- Senior
-
-
-5.  You’ll get through this- Lucado
-
-
-6.  Talk like Ted- Gallo
-
-
-7.  Committed- Gilbert
-
-
-8.  The Last Command – Zahn
-
-
-9.  Sonnets to Orpheus*- Rilke
-
-
-10. The $1,000 challenge- O’Connor
-
-
-11. Simpler- Sunstein
-
-
-12. On the nature of things-
-
-
-13. On friendship- Cicero
-
-
-14. The second machine age- Brynjolfsson
-
-
-15. Who owns the future- Lanier
-
-
-16. Give and Take- Grant
-
-
-June 2014
-
-
-1.  The perfect parent- Taylor
-
-
-2.  The philosophical dictionary*- Voltaire
-
-
-3.  The Decameron*- Boccaccio (librivox)
-
-
-4.  7 money rules for life- Hunt
-
-
-5.  One minute manager
-
-
-6.  Flash Boys- Lewis
-
-
-7.  Beyond baby talk- Apel
-
-
-8.  Ultimate guide to trail running- Chase/Hobbs
-
-
-9.  10% more happy- Harris
-
-
-10. Turing’s cathedral- Dyson
-
-
-11. XLR8- Kotter
-
-
-12. Social- Lieberman
-
-
-13. Smart parenting, smarter kids- Walsh
-
-
-14. The garden of eden- Hemmingway
-
-
-15. The house of scorpion- Farmer
-
-
-16. Antidosis*- Isocrates
-
-
-17. Billy Budd*- Melville
-
-
-18. Click of Mouse
-
-
-19. History of England*- Macaully
-
-
-20. Picture of Dorian Gray* - Wilde (librivox)
-
-
-21. Idea Factory- Gertner
-
-
-22. The Art and Practice of Economic Research- Bowmaker
-
-
-23. Yvain*- Troyes (librivox)
-
-
-July/August 2014
-
-
-1.  Philomena- Sixsmith
-
-
-2.  Genealogy- Morgan
-
-
-3.  A chicken’s guide to talking turkey about sex- Leman/Bell
-
-
-4.  What are they thinking
-
-
-5.  Mostly harmless econometrics- Angrist/Pishke
-
-
-6.  Why we buy- Underhill
-
-
-7.  The fiddler on the subway- Weingarten
-
-
-8.  The Secret of Silicon Valley
-
-
-9.  Shadow of the Hegemon- Card
-
-
-10. Sprit of Laws*- Montesquieu (librivox)
-
-
-11. Don Juan*- Lord Byron (librivox)
-
-
-12. The turn of a screw*- James (librivox)
-
-
-13. A vindication of the rights of women*- Wollstonecraft (librivox)
-
-
-14. Metamorphosis*- Ovid (librivox)
-
-
-15. Shadow Puppets- Card
-
-
-16. The Soul of the New Machine- Kidder
-
-
-17. Thinking in numbers- Temant
-
-
-18. Overwhemed- Noble
-
-
-19. Terminal man- Crichton
-
-
-September/October 2014
-
-
-1.  Invasive procedures- Card
-
-
-2.  Middlemarch*- Elliot
-
-
-3.  A land without heroes- Mull
-
-
-4.  The 7-day Christian- Wilcox
-
-
-5.  Old dogs, new math- Eastway/Askew
-
-
-6.  Cadillac Desert- Reisner
-
-
-7.  Families in Danger- Wright
-
-
-8.  The giver- Lowry
-
-
-9.  Boomerang- Lewis
-
-
-10. Age of Innocence*- Wharton
-
-
-11. Backlash- Allston
-
-
-12. Don Quixote*- Cervantes
-
-
-13. Into the Wild
-
-
-14. The invisible heart – Folbre
-
-
-15. Second glance- Picoult
-
-
-16. The Information
-
-
-17. Old Testament
-
-
-18. Discourses*- Epictetus
-
-
-19. Thirteen things they won’t tell you- Reader’s Digest
-
-
-20. Why God became man- Anselm
-
-
-21. The Science of Harry Potter- Highfield
-
-
-noviembre 2014
-
-
-1. The triple package- Chua/Rubenfeld
-
-
-2. Men on strike- Smith
-
-
-3. How we learn-Carey
-
-
-4. The Outsiders- Hinton
-
-
-5. LDS guide to healthy living- Douglass
-
-
-6. Why Nations Fail- Acemoglu
-
-
-7. Da Vinci’s Ghost- Lester
-
-
-8. Aha- Idleman
-
-
-9. Judgment
-
-
-10. How to say no without feeling guilty- Breitman/Hatch
-
-
-11. Dataclysm- Rudder
-
-
-12. Innocence- Koontz
-
-
-13. To the end of June- Beam
-
-
-14. To save everything, click here- Morozov
-
-
-15. Power parenting in the LDS home- Wright
-
-
-16. The Longest Ride- Sparks
-
-
-December 2014
-
-
-1. Speaking of Fourth Grade- Schaenen
-
-
-2. Mark of a Giant- Stewart
-
-
-3. Jurassic Park- Crichton
-
-
-4. The Grapes of Math- Bellos
-
-
-5. Bad Paper- Halpern
-
-
-6. Faster, Higher, Stronger- McClusky
-
-
-7. The Outsiders- Thorndike
-
-
-8. Leaders Eat Last- Sinek
-
-
-9. Do Fathers Matter?- Raeburn
-
-
-10. Excellent Sheep- Deresiewicz
-
-
-11. Wuthering Heights- Bronte
-
-
-12. Tips for tackling teenage troubles – Wilcox
-
-
-13. Oration on the Dignity of Man*- Giovanni
-
-
-14. Bourne Objective- Ludlum
-
-
-15. The God Who Weeps- Givens
-
-
-16. Curiousity- Blackwood
-
-
-17. New Testament
-
-
-January 2015
-
-
-1. The Rithmatist- Sanderson
-
-
-2. Earth Afire- Card/Johnston
-
-
-3. Divergent-Roth
-
-
-4. Rasselas*- Johnson
-
-
-5. The Histories- Heodotus*
-
-
-6. Dialogues Concerning Natural Religion*- Hume
-
-
-7. Choose higher ground- Eyring
-
-
-8. The French Revolution*- Carlyle
-
-
-9. Anabasis*- Xenophon
-
-
-10. Joseph Andrews*-Fielding
-
-
-11. Book of Mormon
-
-
-12. The Boom-
-
-
-13. Falling to Heaven- Farrell
-
-
-14. Breaking Stalins Nose- Velshkin
-
-
-15. Survival Colony 9-
-
-
-16. Jesus Now- Viola
-
-
-February 2015
-
-
-1. The Book of the Courtier*- Castiglione
-
-
-2. Autobiography of Cellini*- Cellini
-
-
-3. People of Paradox- Givens
-
-
-4. Crucible of Doubt- Givens
-
-
-5. The Night Tourist- Marsh
-
-
-6. Gray Mountain- Grisham
-
-
-7. Seven Bad Ideas- Madrick
-
-
-8. The Book Thief-
-
-
-9. No Place to Hide- Greenwald
-
-
-10. The Age of Cryptocurrency- Vigna
-
-
-11. The Last 13-
-
-
-12. When souls have wings- Givens
-
-
-13. How Full is Your Bucket- Rath
-
-
-14. The little book of thin- Slayton
-
-
-15. Justice- Sandel
-
-
-March 2015
-
-
-1. Looking at Movies- Barsam
-
-
-2. The Science of Happily Ever After- Tashiro
-
-
-3. Dreamers and Deceivers- Beck
-
-
-4. The Princess of Cleves*- La Fayette
-
-
-5. Philosophical Dictionary*- Voltaire
-
-
-6. Shadows in Flight- Card
-
-
-7. New Testament
-
-
-8. Esperanza Rising- Ryan
-
-
-9. The Norton Reader (10th edition)- Peterson
-
-
-10. Left hand of Darkness- Le Guin
-
-
-11. Areopagitica*- Milton
-
-
-12. The Myth of Laziness- Levine
-
-
-13. Bitten- Smith
-
-
-14. Heaven is for Real- Burpo
-
-
-15. How to fly a horse- Ashton
-
-
-16. Seventh son- Card
-
-
-17. Opposite of spoiled- Lieber
-
-
-18. End of power- Naim
-
-
-19. Escape from Rwanda- Bizimana
-
-
-20. The Message- Richardson
-
-
-abril 2015
-
-
-1. Pamela*- Richardson
-
-
-2. Beyonders: Seeds of Rebellion- Mull
-
-
-3. Heptameron*- Navarre
-
-
-4.  Bottom billion- Collier
-
-
-5.  Economics in one lesson- Hazlitt
-
-
-6. Discourses*- Joshua Reynolds
-
-
-7. Home- Morrison
-
-
-8. Agony and Ectasy- Stone
-
-
-9. Influencer- Patterson
-
-
-10. A Different God- Foster
-
-
-11. To my Friends- Holland
-
-
-12. Annals*- Tacitus
-
-
-13. Consolation of Philosophy*-Boethius
-
-
-14. Beyond the University: Why Liberal Education Matters- Roth
-
-
-15. Driven- Miller
-
-
-16. Think like a Freak- Levitt
-
-
-17. Cleansing of America- Skousen
-
-
-18. The Winter’s Tale- Shakespeare
-
-
-19. People of the Book- Brooks
-
-
-20. The Test- Kamenetz
-
-
-May 2015
-
-
-1. Planet of the Apes- Boulle
-
-
-2. Divorce Proof your Marriage- Rosberg
-
-
-3. Case of Need- Crichton
-
-
-4. How Google Works- Schmidt
-
-
-5. Driven to Distraction at Work- Hallowell
-
-
-6. Mind Change- Greenfield
-
-
-7. Red Prophet- Card
-
-
-8. Cosmic- Boyce
-
-
-9. The Fairie Prince- Spencer
-
-
-10. Rabbit Proof Fence- Pilkington
-
-
-11. The Alchemist- Coelho
-
-
-12. The instant economist- Taylor
-
-
-13. Capital in the Twenty-First Century- Pickety
-
-
-14. In the Beginning- Potok
-
-
-15. Willpower-Baumeister
-
-
-16. The Race- Cussler
-
-
-17. Boys in the Boat- Brown
-
-
-18. Reinventing the bazaar- McMillan
-
-
-19. The Eighth Day- Salerni
-
-
-20. Crossover- Alexander
-
-
-June 2015
-
-
-1.  Everything for sale – Kuttner
-
-
-2. Conform- Beck
-
-
-3. What is Relativity?- Bennett
-
-
-4. Happiness- Lenoir
-
-
-5. Thieves of State- Chayes
-
-
-6. Apprentice Alvin- Card
-
-
-7. New Testament
-
-
-8. Eminent Victorians*- Strachey
-
-
-9. Timeline- Crichton
-
-
-10. Neverwhere- Gaiman
-
-
-11. The Querist*- Berkeley
-
-
-12. The Promise of a Pencil- Braun
-
-
-13. House of Debt- Mian
-
-
-14. Small is beautiful- Shumacher
-
-
-15. Technopoly- Postman
-
-
-16. Cyber Safety- Knopk
-
-
-17. Be a People Person- Maxwell
-
-
-18. The Science of Everything- Idiot’s Guide
-
-
-19. Between Parent and Child- Ginoff
-
-
-20. The Wishing Spell- Colfer
-
-
-July 2015
-
-
-1. Counter Culture- Platt
-
-
-2. Smart is the New Rich- Romans
-
-
-3. Moon over Manifest- Vanderpool
-
-
-4. The Innovators- Isaacson
-
-
-5. Following the Light of Christ into His Presence- Pontius
-
-
-6. Tess of the D'Ubervilles*- Hardy
-
-
-7. Visions of Glory- Pontius
-
-
-8. Crazy is a Compliment- Rottenberg
-
-
-9. Chess not Checkers- Miller
-
-
-10. Cause of Death- Cornwell
-
-
-11. Airframe- Crichton
-
-
-12. The Change is Coming- Sousa
-
-
-13. Grandmaster- Klass
-
-
-14. The End of College- Carey
-
-
-15. Biblio-tech- Palfrey
-
-
-16. Earth Awakens- Card
-
-
-agosto 2015
-
-
-1. Why Science Does not Disprove God- Aczel
-
-
-2. Work Simply- Tate
-
-
-3. Contagious: Why things Catch on- Berger
-
-
-4. La Transformation Total de tu Dinero- Ramsey
-
-
-5.  New Testament
-
-
-6. Shock Wave- Sandford
-
-
-7. Eaters of the Dead- Crichton
-
-
-8. Take no Prisoners- Horowitz
-
-
-9. How to Kill a Unicorn- Payne
-
-
-10. American Dreams- Rubio
-
-
-11. Zoo- Patterson
-
-
-12. Stuffocation- Wallman
-
-
-13. Epic Measures- Smith
-
-
-14. Five Kingdoms: Sky Raiders- Mull
-
-
-15. Creative Schools- Robinson
-
-
-16. Math Geek- Rosen
-
-
-17. Flatland- Abott
-
-
-18. Seven Principles for Making Your Marriage Work – Gottman
-
-
-19. Head Above Water*- Emecheta
-
-
-20. Navigating Early- Vanderpool
-
-
-septiembre 2015
-
-
-1. Poems of Friedrich Holderlin*- Mitchell
-
-
-2. Monkey*- Wu Ch’Eng en
-
-
-3. Midnight’s Children*- Rushdie
-
-
-4. Epic of Gilgamesh*- Foster
-
-
-5. Dracula*- Stoker (LV)
-
-
-6. Mexico- Michener
-
-
-7. Essays in Idleness*- Kenko
-
-
-8. Work Rules- Block
-
-
-9. Jane Eyre* (LV)- Bronte
-
-
-10. Not just Good, but Beautiful- Francis
-
-
-11. When to Rob a bank- Levitt
-
-
-12. The Eureka Factor- Kounios
-
-
-13. The Misfit Economy- Clay
-
-
-14. Clay, Water, and Brick- Jackley
-
-
-15. Move your Bus- Clark
-
-
-16. Humans are Underrated- Coleman
-
-
-17. Age of Sustainable Development- Sachs
-
-
-18. Date-onomics- Siber
-
-
-19. The Burning Answer- Barnham
-
-
-20. The New Health Rules- Lipman
-
-
-October 2015
-
-
-1. Social Contract*- Rousseau (LV)
-
-
-2. Amazed by Grace- Dew
-
-
-3. A Refuge from the Storm- Packer
-
-
-4. Why God Became Man*- Anselm
-
-
-5. Gregor the Overlander- Collins
-
-
-6. The Defense of Poesy*- Sidney
-
-
-7. Hold on to your Kids- Neufeld
-
-
-8. Michelle and Deborah- Weyland
-
-
-9. Blue Shoes- Lamott
-
-
-10. Songs of God*-Phillipi
-
-
-11. Making Habits, Breaking Habits- Dean
-
-
-12. 12 Years a Slave- Northrup
-
-
-13. Your Money or your Life- Dominguez
-
-
-14. Our Kids- Putnam
-
-
-15. Superforecasting- Tetlock
-
-
-16. Songs of Humans*- Phillipi
-
-
-17. Adam Bede*- Elliott (LV)
-
-
-18. On Learned Ignorance*- Nicholas of Cusa
-
-
-19. Orlando Furioso*- Ariosto (LV)
-
-
-20. Broadcasting Happiness- Gielan
-
-
-noviembre 2015
-
-
-1. The Boy who Played with Fusion- Clynes
-
-
-2. One Thousand Wells- Nardella
-
-
-3. Staying Sharp- Emmons
-
-
-4. A Beginner’s Guide to Online Genealogy- Dunn
-
-
-5. The Brothers- Stewart
-
-
-6.  Duino Elegies*- Rilke
-
-
-7. Trailhead- Jhung
-
-
-8. Snow Country*- Yasunari
-
-
-9. The Everything Guide to Writing Children’s Books- Wallin
-
-
-10. The Three-Cornered World*- Soseki
-
-
-11. Life of Samuel Johnson*(LV)- Boswell
-
-
-12. The Valley Nearby*- Sok-Kyong
-
-
-13. The New Testament
-
-
-14. Tao-te Ching*- Tzu (LV)
-
-
-15. The Way of Kings- Sanderson
-
-
-16. The Alchemy of Happiness*- Ghazzali
-
-
-17. Most Likely to Succeed- Wagner
-
-
-18. Politics*- Aristotle (LV)
-
-
-19. Yvain*- Chretian de Troyes (LV)
-
-
-20. Economics 2.0- Haring
-
-
-December 2015
-
-
-1. History of the Church from Christ to Constantine*- Eusibius (LV)
-
-
-2. Nibelungenlied* (LV)
-
-
-3. Lais*- Frances
-
-
-4. Let There Be Water- Siegel
-
-
-5. How to Watch a Movie- Thomson
-
-
-6. Misbehaving- Thaler
-
-
-7. Discourses on Livy*- Machiavelli (LV)
-
-
-8. Lone Wolf- Picoult
-
-
-9. The Story of Layla and Majnun*- Nizami
-
-
-10. Pilgrim’s Promise*- Bunyan (LV)
-
-
-11. Egil’s Saga*- Sturluson
-
-
-12. Parzival*- Eschenbach
-
-
-13. Short Stories*- O. Henry (LV)
-
-
-14. In Praise of Folly*- Erasmus (LV)
-
-
-15. Broken Bonds- Pearlstein
-
-
-16. The Silencing- Powers
-
-
-17. Restoring all Things- Smith/Stonesetter
-
-
-18. The Ways of Radiance- Sanderson
-
-
-19. Players and Pawns- Fine
-
-
-20. Divine Comedy*- Dante
-
-
-21. Short Stories*- Hawthorne (LV)
-
-
-January 2016
-
-
-1. Nature*- Emerson (LV)
-
-
-2. Child Harold’s Pilgrimage*- Lord Byron (LV)
-
-
-3. Truth Overruled- Anderson
-
-
-4. New Testament
-
-
-5. The Ultimate Sleep Guide- Colbert
-
-
-6. The Couple’s Guide to Financial Compability- Motske
-
-
-7. Smart Money, Smart Kids- Ramsey
-
-
-8. The Power of Mathematical Thinking- Ellenberg
-
-
-9. How to Raise a Wild Child- Sampson
-
-
-10. Saving Gotham- Farley
-
-
-11. Moll Flanders*- Defoe (LV)
-
-
-12. The Prize- Russakoff
-
-
-13. Essays*- Hume
-
-
-14. Philosophical Writings*- Ockham
-
-
-15. Astrophil and Stella*- Sidney (LV)
-
-
-16. Book of Mormon
-
-
-17. The Magic Strings of Frankie Preston- Albom
-
-
-18. Institutes of Christian Religion- Calvin
-
-
-19. Areopagitica*- Milton (LV)
-
-
-20. Three dramatic monologues*- Browning (LV)
-
-
-21. Narrative of Life*- Douglass (LV)
-
-
-22. Eugen Onegin*- Pushkin (LV)
-
-
-23. Ready Player One- Clive
-
-
-February 2016
-
-
-1. When Angels Fall- Stewart
-
-
-2. Laxdoela Saga*
-
-
-3. Mindware- Nisbett
-
-
-4. Heaven in Here- Nielson
-
-
-5. Behavioral Economics and Public Health- Roberto
-
-
-6. The Power of the Half Hour – Barnett (audio)
-
-
-7. In the Plex- Levy
-
-
-8. Phishing for Phools- Akerlof
-
-
-9. Njal’s Saga*
-
-
-10. Prose Edda*- Sturlson
-
-
-11. The Tale of the Death of King Arthur*-Malory
-
-
-12. Kokoro*- Soseki
-
-
-13. Spiritual Couplets*- Rumi
-
-
-14. The Fairie Queen*- Spenser (LV)
-
-
-15. Defense of Poetry*- Shelley
-
-
-16. Winning Basketball- Pim
-
-
-17. Thus Spoke Zarathustra*- Nietzsche (ibooks)
-
-
-18. Lone Survivor- Luttrell
-
-
-19. What Good Men do- Baxter
-
-
-20. King Leopold’s Ghost-Hoschild
-
-
-21. Leaving Time- Picoult (audio)
-
-
-22. The Great Apostasy- Talmage
-
-
-23. Heart of Darkness- Conrad
-
-
-24. Invisible Man*- Wells (LV)
-
-
-25. The Orange Girl- Gaarder
-
-
-26. House of Debt- Mian
-
-
-27. All the Light We Cannot See- Doerr
-
-
-28. How to Bake Pi- Cheng
-
-
-March 2016
-
-
-1. Maze Runner- Daschner
-
-
-2.  Beat to Quarters-Forester
-
-
-3.  Fearless- Lot
-
-
-4.  How will you measure Your Life?- Christensen [SL]
-
-
-5. The Nightingale- Hannah
-
-
-6. The Education of Little Tree - Forrest Carter [SL]
-
-
-7.  Eat the Rich- O’Rourke [SL]
-
-
-8. Julius Caeser*- Shakespeare
-
-
-9.  Angle of Repose- Stegner [SL]
-
-
-10. The Road Less Traveled - M. Scott Peck
-
-
-11. Fooled by Randomness - Nassim Taleb
-
-
-12. Fervent- Shirer
-
-
-13. Canzoniere*- Petraca (LV)
-
-
-14. The End of me - Ideleman
-
-
-15. Type B manager- Lipman
-
-
-16. Road to Character- Brooks
-
-
-17. Alantia- Condie
-
-
-18. Planted- Mason
-
-
-19. Teaching to Build Faith and Faithfulness- Clayton
-
-
-20. The First Call from Heaven- Albom
-
-
-abril 2016
-
-
-1. At First Sight- Sparks
-
-
-2.  Gratitude Diaries- Kaplan
-
-
-3.  Applied Minds- Madhavan
-
-
-4.  Mistborn: Final Empire- Sanderson
-
-
-5.  Creativity Inc- Catmull
-
-
-6. Live Your Life for Half the Price- Hunt
-
-
-7.  Angle of Repose- Stegner
-
-
-8.  Raising an Army of Helamen’s Warriors- Ogletree
-
-
-9.  A God in Ruins- Atkinson
-
-
-10. The Social Animal - David Brooks [SL]
-
-
-11. The Turning- Eyre
-
-
-12. Big Magic- Gilbert
-
-
-13. Wild- Strayed
-
-
-14. Doing Good Better- MaCaskill
-
-
-15. Turn the Page
-
-
-16. ? [The Tuorah- Culler]
-
-
-17. More Perfect Union- Carson
-
-
-18. Primary Greatness- Covey
-
-
-19. A Time for Truth- Cruz
-
-
-20. Queen of Katawe- Crothers
-
-
-May 2016
-
-
-1. Prodigal Son- Steele
-
-
-2. The End of Your Life Book Club- Schwalbe
-
-
-3. Book of Mormon
-
-
-4. The Collapse of Parenting- Sax
-
-
-5. The Closing of the American Mind- Bloom
-
-
-6. Earthfall- Card
-
-
-7. Flowers for Algernon- Keyes
-
-
-8. Aspects of Faith- Lewis
-
-
-9. 500 Little-known facts about Joseph Smith-
-
-
-10. Love the House You are in- Rien
-
-
-11. Missionary: Possible- Rigby
-
-
-12. Devil in the White City- Larson
-
-
-13. Michael Vey: The Prisoner of Cell 25- Evans
-
-
-14. You are an Iron Man- Steinberg
-
-
-15. All the Money in the World- Vanderkam
-
-
-16. No Easy Day- Owens
-
-
-17. Raymie Nightengale- DiCamilo
-
-
-18. A Higher Call- Makos
-
-
-19. World Order- Kissinger
-
-
-20. Lillies that Fester- Lewis
-
-
-June 2016
-
-
-1. The Man in the High Castle- Dick
-
-
-2. Crowdsourcing- Howe
-
-
-3. Lillith- MacDonald
-
-
-4.  Till We Have Faces- Lewis
-
-
-5.  Economics as an Evolutionary Science
-
-
-6.  Economics in One Lesson
-
-
-7.  Genome--An Autobiography
-
-
-8.  I am the Messenger- Zusack
-
-
-9.  The Life-changing Magic of Tidying Up- Kondo
-
-
-10. The Hard Thing about Hard Things- Horowitz
-
-
-11. Family and Civilization- Zimmerman
-
-
-12. Speak- Anderson
-
-
-13. The Racketeer- Grisham
-
-
-14. A Wind in the Door- L’Engle
-
-
-15. The Promise of a Pencil- Brawn
-
-
-16. Earthborn- Card
-
-
-17. Alloy of Law- Sanderson
-
-
-18. Evicted- Desmond
-
-
-July 2016
-
-
-1. Shadows of Self- Sanderson
-
-
-2. Sophies World- Gaarder
-
-
-3. First, Kill all the Marriage Counselors- Doyle
-
-
-4. The 5am Miracle- Sanders
-
-
-5. Dad is Fat- Gaffigan
-
-
-6. Miracles from Heaven- The Bean
-
-
-7. Insurgent- Roth
-
-
-8. America Again- Colbert
-
-
-9. New Testament
-
-
-10. Walking Papers- Clark
-
-
-11. The Innovators Cookbook- Johnson
-
-
-12. Multipliers- Wiseman
-
-
-13. The New Cool- Bascomb
-
-
-14. Food- Gaffigan
-
-
-agosto 2016
-
-
-1. Louder than Words- Henry
-
-
-2. What your Finanical Advisor Isn’t Telling You- Davidson
-
-
-3. Alliance- Lund
-
-
-4. Your First Triathalon- Friel
-
-
-5. Memory Man- Baldacci
-
-
-6. The Hundred Foot Journey- Morais
-
-
-7. End of Education- Postman
-
-
-8. Disrupt Yourself- Johnson
-
-
-9. The Magic of Math- Benjamin
-
-
-10. Disappearing Spoon- Keam
-
-
-11. Brooklyn- Tolbin
-
-
-12. A Separate Place- Knowles
-
-
-13. Harry Potter and the Cursed Child- Thorne
-
-
-14. Scorpio Races- Stiefvater
-
-
-15. 30 Lessons in Loving- Pilemer
-
-
-16. 9 Powerful Practices of Really Great Mentors
-
-
-septiembre 2016
-
-
-1. Crippled America- Trump
-
-
-2. Getting Things Done- Allen
-
-
-3. $2.00 a Day- Edin
-
-
-4. 5 Easy Theses- Stone
-
-
-5. Till we have faces- Lewis [check if already there]
-
-
-6. 6 Events- Covey
-
-
-7. Book of Mormon
-
-
-8. Cinder- Mayer
-
-
-9. The Actor and the Housewife- Hale
-
-
-10. Idea Agent- Escheverria
-
-
-11. Black Man in a White Coat- Twedy
-
-
-12. Diet Book (can’t remember the title)
-
-
-13. Comeback- Morris
-
-
-14. Dude’s Guide to Marriage- Patrick
-
-
-15. What Color is your Parachute for Teens- Christen
-
-
-October 2016
-
-
-1. The World Until Yesterday- Diamond
-
-
-2. Warbreaker- Sanderson
-
-
-3. Unsteady- Smith
-
-
-4. Pantagruel and Gargantua*- Rabelais
-
-
-5. Freedom Factor- Lund
-
-
-6. Summerlost- Condie
-
-
-7. Common Sense- Paine
-
-
-8. War Room- Fabry
-
-
-9. How to be the parent you always wanted to be- Ferber
-
-
-10. Wisdom and Teachings of Stephen Covey- Covey
-
-
-11. Devils- Dostoevsky
-
-
-noviembre 2016
-
-
-1. The 29% Solution- Misner
-
-
-2. The History of Italy*- Guicciardini
-
-
-3. About Love and Other Stories- Chekhov
-
-
-4. The Innovative University- Christensen and Eyring
-
-
-5. Una Vida con Proposito- Warren
-
-
-6. Doctrine and Covenants
-
-
-7. The Tale of Genji- Shikibu
-
-
-8. As a Man Thinketh- Allen
-
-
-9. Book of Mormon
-
-
-10. O Great One- Novak
-
-
-11. Fuzzy Mud- Sachar
-
-
-12. The Index Card- Ola/Polla
-
-
-13. Pearl of Great Price
-
-
-14. Widergrove Palmer?- Whitehead
-
-
-December 2016
-
-
-1. Stuff Matters- Miodownik
-
-
-2. Great Acceleration- Colville
-
-
-3. 28 Days- Smith
-
-
-4. The Ghost Map- Johnson
-
-
-5. Hattie Big Sky- Larson
-
-
-6. Shouldn’t you be in school- Snickett
-
-
-7. Heather 101- Weyland
-
-
-January/February 2017
-
-
-1. Sex and the Soul- Frettas
-
-
-2. Hamilton- Miranda
-
-
-3. Revenant- Punke
-
-
-4. Weakness is not a Sin- Ulrich
-
-
-5. Social Physics- Pentland
-
-
-6. Rise of the Robots- Martin
-
-
-7. Gatefather- Card
-
-
-8. James Miracle- Wright
-
-
-9. Meet the Austins- L’engle
-
-
-10. Women and the Priesthood- Sheri Dew
-
-
-11. Black Box Thinking- Syed
-
-
-12. Light Between Oceans- Stedman
-
-
-13. Financial Matrix- Woodward
-
-
-14. Well of Ascension- Sanderson
-
-
-15. Lost World- Crichton
-
-
-March 2017
-
-
-1. Life as We Knew It- Pfeffer
-
-
-2. The Thief- Turner
-
-
-3. I’m Not Crazy, I’m Just Not You- Pearman
-
-
-4. Fault in our Stars- Green
-
-
-5. Missoula- Krakauer
-
-
-6. Wedding Letters- Wright
-
-
-7. Leadership and Self-deception- Arbinger
-
-
-8. Atlantis Complex- Colfer
-
-
-9. The Anatomy of Peace- Arbinger
-
-
-10. We’re With You- church leaders
-
-
-11. Talk Like TED- Gailo
-
-
-12. Boys Adrift- Sax
-
-
-13. Invisible Influence- Gerber
-
-
-14. Alquemista- Coelho
-
-
-15. Cell- King
-
-
-abril 2017
-
-
-1. Art of Invisibility- Mitnick
-
-
-2. Quiet- Cain
-
-
-3. The Blue Sword- McKinley
-
-
-4. Driverless- Lipson
-
-
-5. Utah and the Great War- Powell
-
-
-6. Thinking Fast and Slow – Khaneman
-
-
-7. Bleak House- Dickens
-
-
-8. Human Cargo: A Journey among Refugees- Moorehead
-
-
-9. Gideon’s Trumpet- Lewis
-
-
-10. The Big Thing- Korkki
-
-
-11. What Every Future Missionary Needs to Know- Pinegar
-
-
-12. Raising Ourselves to the Bar- Wilcox
-
-
-13. Slavery and Politics in the Early American Republic- Mason
-
-
-14. Doctrine and Covenants
-
-
-15. Extremely Loud and Incredibly Close- Jonathan Safron Foer
-
-
-16. The Miracle of Ms. Willey
-
-
-17. No More Goodbyes- Pearson
-
-
-18. And Then there were none- Kristi
-
-
-19. The Legend of Holly Claus
-
-
-20. White Fang- Jack London
-
-
-21. Lost World- Sir Arthur Conan Doyle
-
-
-Books left on the honors reading list:
-
-
-1. Fables*- Aesop (LV)
-
-
-2. Enchiridion*- Erasmus (LV)
-
-
-3. On the Free Will*- Erasmus
-
-
-4. The Art of War*- Machiavelli
-
-
-5. Essays*- Montaigne (LV)
-
-
-6. My secret*- Petraca
-
-
-7. Selected letters including Ascent of Mt. Ventoux*- Petraca
-
-
-8. Works*- Edwards
-
-
-9. The Civilization of the Renaissance in Italy*- Burckhardt
-
-
-10. The American Scholar*- Emerson (LV)
-
-
-11. Philosophy of History*- Hegel (LV)
-
-
-12. Birth of Tragedy*- Nietzsche
-
-
-13. The World and the Individual*- Royce
-
-
-14. The World as Will and Representation*- Schopenhuaer (LV)
-
-
-15. Three Poems*- Shelley (LV)
-
-
-16. Uncle Tom’s Cabin*- Stowe (LV)
-
-
-17. Vanity Fair*- Thackeray (LV)
-
-
-18. Democracy in America*- de Toqueville (LV)
-
-
-19. The Time Machine*- Wells (LV)
-
-
-20. Ambiguous Adventure*- Kane
-
-
-21. Selections from Grand Historian*- Ch’ien
-
-
-22. Story of the Stone*- Hsueh-Chin
-
-
-23. Chandogya Upanishad*
-
-
-24. Ramayana*- Valmiki
-
-
-25. Dhammapada*
-
-
-26. Shakuntala*- Kalidasa
-
-
-27. Authobiography*- Ghandi
-
-
-28. The Rubaiyat*- Khayyam
-
-
-29. The Muqaddimah*- Khaldun
-
-
-30. Three Novels of Ancient Egypt*- Mahfouz
-
-
-31. Silence or Deep River*- Shusaki
-
-
-32. Black Rain*- Masuji
-
-
-33. Anthology of Korean Literature*- Lee
-
-
-34. Names*- Kim
-
-
-Some books they listed that I really love (that were mentioned by the 380 class)
-
-
-1.  A Tree Grows in Brooklyn
-
-
-2.  Born to Run
-
-
-3.  Count of Monte Cristo
-
-
-4.  The Way of Kings (anything by Brandon Sanderson)
-
-
-5.  Agony and the Ectasy
-
-
-6.  Anna Karenina
-
-
-7.  The Sun Also Rises
-
-
-8.  Outliers (anything by Malcolm Gladwell)
-
-
-9.  The Signal and the Noise- Silver
-
-
-10. The Infinite Atonement
-
-
-11. The Richest Man in Babylon
-
-
-Future
-
-
-1.  Ending Slavery- Bales
-
-
-2. Upon the Head of a Goat- Siegal
-
-
-3. The O. Henry Prize Stories- Furman
-
-
-4. The Lost Gate- Card
-
-
-5. Secret Daughter- Gowda
-
-
-6. All the Names- Saramago
-
-
-7. A.D. 30- Dekker
-
-
-8. :59 Seconds- Wiseman
-
-
-9. Bicentenial Man and Other Stories- Asimov
-
-
-10.
-
-
-11. The Divide: American Injustice in the Age of the Wealth Gap- Taibbi
-
-
-12. The Stone Diaries- Shields
-
-
-13. Hitler's Willing Executioners- Goldhagen
-
-
-14.
-
-
-15. Bill of the Century- Risen
-
-
-16. Devil in the white city- Larson
-
-
-17.
-
-
-18. Blood Meridian- Cormac McCarthy
-
-
-19. No Country for Old Men- McCarthy
-
-
-Book lists that I created at the book store:
-
-
-1.  After the Music Stopped- Blan..
-
-
-2.  The fine print- Johnston
-
-
-3.  Predator nation- Ferguson
-
-
-4.  The service economy- Faux
-
-
-5.  The Price of Integrity- Staker
-
-
-6.  Age of Access- Rifkin
-
-
-7.  In Pursuit of the unknown- Stewart
-
-
-8.  The mathematics of love- Fry
-
-
-9.  Cartoon guide to algebra- Conick
-
-
-10. Naked Statistics – Wheelan
-
-
-11. How to deliver a Ted talk- Donovan
-
-
-12. Mind change- Greenfield
-
-
-13. Minecraft of dummies
-
-
-14. The fifth gospel- Cardwell
-
-
-15. The world needs your kid- Kielburger
-
-
-16. Friendfluence- Flom
-
-
-17. Awaken the giant within- Robbins
-
-
-18. Being Wrong- Schulz
-
-
-19. Stick and stones- Bazelon
-
-
-20. The assumptions economists make – Schliefer
-
-
-21. Sexy, little numbers- Maex
-
-
-22. The prosperity of vice- Cohen
-
-
-23. Hold me tight- Johnson
-
-
-24. The one world school house- Khan
-
-
-25. The anti-education era- Gee
-
-
-26. Hacking your education- Stephens
-
-
-27. Contagious- Berger
-
-
-28. Smart tribes- Comaford
-
-
-29. We first- Mainwaring
-
-
-30. First we read, then we write- Richardson
-
-
-31. Becoming an effective mentoring leader- Rothwell
-
-
-32. Small message, big impact- Sjodin
-
-
-33. With charity for All- Stern
-
-
-34. Now you see it- Davidson
-
-
-35. Public parts- Jarvis
-
-
-36. What would google do- Jarvis
-
-
-37. Hamlet’s blackberry- Down
-
-
-38. Who are we- Younge
-
-
-39. Hacking happiness- Hover
-
-
-40. Empire of Illusion- Hedges
-
-
-41. Rise of the creative class- Florida
-
-
-42. Mindful economics- Magnuson
-
-
-43. Discover your inner economist- Cowen
-
-
-44. Common cents- Kimelman
-
-
-45. How Lincoln learned to read- Wolff
-
-
-46. What does it mean to be well educated- Kohn
-
-
-47. Building a better teacher- Green
-
-
-48. 1001 ways to pay for college- Tanabe
-
-
-49. Small is beautiful- Shumaecer
-
-
-50. Shirt sleeve economics- Paton
-
-
-51. Economics facts and fallacies- Sowell
-
-
-52. Free fall – Stiglitz
-
-
-53. Panic- Lewis
-
-
-54. It takes a pillage- Prins
-
-
-55. Uncontrolled risk- Williams
-
-
-16. The remains of the day- Ishiguro
-
-
-17.
-
-
-18. Lost horizon- James Hilton
-
-
-19. Train up a child- Jeffs
-
-
-1.  Mockingbird- Erskine
-
-
-2.  Heavenly intrigue- Gilder
-
-
-3.  The Anthologist- Baker
-
-
-4.  Away- Bloom
-
-
-5.  It’s all Too Much- Walsh
-
-
-6.  Leaving a Trace- Johnson
-
-
-18. The Courage to Teach- Palmer
-
-
-19. The Elephant and the Dragon- Meredith
-
-
-20. A Mind at a Time- Levine
-
-
-21. Intelligence Reframed- Gardner
-
-
-22. The 21-day dad’s challenge- Casey
-
-
-23. The Starfish and the Spider- Brafman/Beckstrom
-
-
-24. El Clan del Oso Cavernario- Auel
-
-
-25. Hello World- Sande
-
-
-26. The history of mankind- Van Loon
-
-
-27. Final Theory- Alpert (CD)
-
-
-28. Advancement of Learning- Bacon
-
-
-Future books for the kids:
-
-
-1.  House on mango street- Cisneros
-
-
-2.  The Dreamer- Ryan
-
-
-3.  Riding Freedom- Ryan
-
-
-4.  Running out of time- Haddix
-
-
-5.  Diary of a young girl- Frank
-
-
-6.  The uglies- Westerfield
-
-
-7.  Speak- Anderson
-
-
-8.  Princess bride- Goldman
-
-
-Recommendations from 380 students
-
-
-1.  Way of Kings
-
-
-2.  Mistborn Trilogy
-
-
-3.  Fooled by randomness- Taleb
-
-
-4.  Hatching Twitter- Bilton
-
-
-5.  Deathwatch- White
-
-
-6.  Lone Survivor- Luttrell
-
-
-7.  All Creatures Great and Small- Herron
-
-
-8.  Collision low crossers- Dawidoff
-
-
-9.  The Passage- Cronin
-
-
-10. The Match- Frost
-
-
-11. My name is Asher Lev- Potok
-
-
-12. Girl, Interrupted- Kaysen
-
+* 
 * https://www.goodreads.com/book/show/247620.Book_by_Book
 
+* 
 * https://www.timeshighereducation.com/news/most-cited-authors-of-books-in-the-humanities-2007/405956.article
 
+* 
 * https://www.infoplease.com/arts-entertainment/literature-and-books/top-100-works-world-literature
 
+* 
 * http://www.infojug.com/articles/famous-literary-works.html
 
+* 
 * https://www.reddit.com/r/books/comments/2wbb4v/what_works_are_most_referenced_in_modern/
 
+* 1001 Books You Must Read before You Die
 
-1001 Books You Must Read before You Die
-
+* 
 * http://honors.byu.edu/content/great-works-theatre
 
+* 
 * http://adventures-in-mormonism.com/2008/09/28/byu-honors-program-reading-list-mid-1970s/
 
+* 
 * https://www.perfectionlearning.com/top-100-world-literature-titles
 
+* 
 * [Non-fiction](https://www.google.com/search?q=top+nonfiction+books+of+all+time&oq=top+non-fiction+works+of+all+&aqs=chrome.1.69i57j0l5.9103j0j7&sourceid=chrome&ie=UTF-8)
 
+* The 100: A Ranking of the Most Influential Persons in History
 
-The 100: A Ranking of the Most Influential Persons in History
-
+* 
 * https://www.samharris.org/book_store
 
+* 
 * https://www.goodreads.com/list/tag/the-economist
 
+* 
 * http://www.librarything.com/zeitgeist
 
+* 
 * https://home.isi.org/10-books-you-need-read-graduation?utm_source=Intercollegiate+Studies+Institute+Subscribers&utm_campaign=a5e4e75b50-Thursday+Review+January+18&utm_medium=email&utm_term=0_3ab42370fb-a5e4e75b50-93402221&goal=0_3ab42370fb-a5e4e75b50-93402221&mc_cid=a5e4e75b50&mc_eid=5c5ba5d878
 
+* 
 * https://docs.google.com/spreadsheets/d/1ygeI9nOrgmOrlTVIkma7K9enDUhGsuhalh-05KTyDHA/edit#gid=0
 
+* 
 * https://medium.com/@johannlilly/ben-shapiros-recommended-reading-50a93324e0da
 
+* 
 * [https://www.vorleser.net](https://www.vorleser.net/)
 
+* 
 * https://www.audiocite.net/
 
+* 
 * https://audio-libro.com/
 
+* 
 * [http://www.livrespourtous.com](http://www.livrespourtous.com/)
 
+* 
 * http://mp3audiobookplayer.com/audiobook-collections/
 
+* 
 * [https://audiolibri.org](https://audiolibri.org/)
 
+* 
 * http://audiolibrosgratis.net/
 
+* 
 * https://byu.overdrive.com/byu-byu/content/browse
 
+* Libby
 
-Libby
-
+* 
 * https://www.litres.ru/
 
+* 
 * https://www.thereadinglists.com/most-important-philosophy-books/
 
+* 
 * https://taylorpearson.me/book-review/best-philosophy-books/
 
+* 
 * https://www.downpour.com/genre-science
 
+* 
 * http://www.audiolib.fr/collections/documents-et-essais
 
+* 
 * https://www.amazon.de/John-Brockman/e/B00JI0ZOOK
 
+* 
 * https://www.audible.com/a/search?ref=a_a_search_c1_sort_2&pf_rd_p=073d8370-97e5-4b7b-be04-aa06cf22d7dd&pf_rd_r=TG4J6B4FQWAR39GYKRJ7&&node=2226657011&feature_six_browse-bin=9178183011&feature_six_browse-bin=9178180011&submitted=1&sort=popularity-rank&pageSize=50
 
+* 
 * https://www.bookbeat.com/de/buch/focus-34703
 
+* 
 * https://de.wikipedia.org/wiki/Steven_Pinker
 
+* 
 * https://www.samuelthomasdavies.com/book-summaries/
 
----
+* ---

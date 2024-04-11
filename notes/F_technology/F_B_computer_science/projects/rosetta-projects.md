@@ -1,8 +1,10 @@
 # [Minimal Working Examples](https://docs.google.com/spreadsheets/d/1hzRM9NpjLdlBnZmU2H2UTX_eWDRXf9jujuw61ov9Yso/edit?usp=sharing) 🌱
 
+
 * https://github.com/eldritch-cookie/templates $$$
 
-- https://github.com/RosettaProjects Next Steps
+
+* https://github.com/RosettaProjects Next Steps
     - [x]  Rename: RosettaProjects (Github organization)
     - [ ]  code template repos (use copier, ideally → rewrite copier in compiled language?)
         - copier-template-c
@@ -145,6 +147,7 @@
 * https://github.com/RodneyShag/HackerRank_solutions
 * [Solve Programming Questions | HackerRank](https://www.hackerrank.com/domains/algorithms)
 
+
 |  | compile | enter interpreter | exit interpreter | print |
 | --- | --- | --- | --- | --- |
 | C | $ gcc file.c OR gcc -o <execname> <file>.c | NA | NA |  |
@@ -220,7 +223,7 @@
     
     → Implement scheduling module in polyglot-projects, also corresponding visualizer
     
-- Resources / Lists
+* Resources / Lists
         * [Exercism Intro](https://www.youtube.com/playlist?list=PLpsileTZltjWrPQjTzJ8Fj2ah7JGBCss5)
         * https://rosettacode.org/wiki/Category:Solutions_by_Programming_Task 
     
@@ -1738,7 +1741,7 @@
         
         rosetta-projects: also use Go by Example and Haskell by Example
         
-- Lang Priority List
+* Lang Priority List
     - Python
     - C
     - bash
@@ -1759,7 +1762,7 @@
     - Python + Cpp via pybind11
     - Lua + C
     - Python + Rust via PyO3
-- parallang
+* parallang
     
     Create a website with a giant table to compare programming languages.
     
@@ -1782,6 +1785,7 @@
     also add links to projects
     
 
-- [ ]  [Sourcetrail](https://www.sourcetrail.com/) - Sourcetrail is a free and open-source cross-platform source explorer that helps you get productive on unfamiliar source code.
+
+* [ ]  [Sourcetrail](https://www.sourcetrail.com/) - Sourcetrail is a free and open-source cross-platform source explorer that helps you get productive on unfamiliar source code.
 * https://examples.raku.org/index.html 
 * https://github.com/yrwq/ccc - good parallel code project - add similar thing!

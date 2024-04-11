@@ -1,6 +1,20 @@
 # H
 
-- H.A
+
+## To Sort
+
+Однажды в Америке, или Чисто русская сказка
+
+italienische Sketch-Comedy-Gruppen
+
+Alessandro da Venio
+
+Corriere della Sera
+
+I promessi sposi
+
+
+* H.A
 * * - Reading List - H.A*     
 * [Libretexts Humanities](https://human.libretexts.org/Bookshelves)
 * https://www.visivaglobal.eu/*     
@@ -178,7 +192,7 @@
 *     Камасутра для оратора*     
 * [Сериал Хорошее место](http://baskino.me/serial/18662-v-luchshem-mire-horoshee-mesto.html)
 * http://terathon.com/blog/so-you-want-to-write-a-technical-book/ *     
-- H.B
+* H.B
 * * - Reading List - H.B
 *     resources*     
 * [Art History RU](https://vk.com/wall-90850349_74969)*     
@@ -229,7 +243,7 @@
 * http://www.francescomorante.it/pag_a/a00.htm
 * http://architettura-italiana.com/
 * http://ency.kacemb.com/%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d8%a9/*     
-- H.C
+* H.C
 * [olla-vogala](https://www.youtube.com/channel/UC8pztlxOONYyw8q46CKHY-A/featured)
 * https://www.last.fm/es/
 * - Reading List - to sort*     
@@ -2130,349 +2144,302 @@
 *             *             
 * [Brahms]()* Orchesterwerke[Bearbeiten | Quelltext bearbeiten]
 
-
 Sinfonien[Bearbeiten | Quelltext bearbeiten]
+
 
 * [Sinfonie Nr. 1 c-Moll op. 68 (1876)](https://de.wikipedia.org/wiki/1._Sinfonie_(Brahms))
 
+
 * [Sinfonie Nr. 2 D-Dur op. 73 (1877)](https://de.wikipedia.org/wiki/2._Sinfonie_(Brahms))
+
 
 * [Sinfonie Nr. 3 F-Dur op. 90 (1883)](https://de.wikipedia.org/wiki/3._Sinfonie_(Brahms))
 
-* [Sinfonie Nr. 4 e-Moll op. 98 (1885)](https://de.wikipedia.org/wiki/4._Sinfonie_(Brahms))
 
+* [Sinfonie Nr. 4 e-Moll op. 98 (1885)](https://de.wikipedia.org/wiki/4._Sinfonie_(Brahms))
 
 Instrumentalkonzerte[Bearbeiten | Quelltext bearbeiten]
 
+
 * [Klavierkonzert Nr. 1 d-Moll op. 15 (1859)](https://de.wikipedia.org/wiki/1._Klavierkonzert_(Brahms))
+
 
 * [Klavierkonzert Nr. 2 B-Dur op. 83 (1882)](https://de.wikipedia.org/wiki/2._Klavierkonzert_(Brahms))
 
+
 * [Violinkonzert D-Dur op. 77 (1879)](https://de.wikipedia.org/wiki/Violinkonzert_(Brahms))
+
 
 * [Doppelkonzert für Violine und Violoncello a-Moll op. 102 (1888)](https://de.wikipedia.org/wiki/Doppelkonzert_(Brahms))
 
-
 Andere Orchesterwerke[Bearbeiten | Quelltext bearbeiten]
+
 
 * [Serenade Nr. 1 D-Dur op. 11 (1860)](https://de.wikipedia.org/wiki/1._Serenade_(Brahms))
 
+
 * [Serenade Nr. 2 A-Dur op. 16 (1860)](https://de.wikipedia.org/wiki/2._Serenade_(Brahms))
+
 
 * [Variationen über ein Thema von Haydn op. 56a (1874)](https://de.wikipedia.org/wiki/Variationen_%C3%BCber_ein_Thema_von_Haydn)
 
+
 * [21 Ungarische Tänze (für Klavier, zwei- und vierhändig, Nr. 1, 3 und 10 1874 und 1876 von Brahms orchestriert)](https://de.wikipedia.org/wiki/Ungarische_T%C3%A4nze)
+
 
 * [Akademische Festouvertüre c-Moll op. 80 (1880)](https://de.wikipedia.org/wiki/Akademische_Festouvert%C3%BCre)
 
-* [Tragische Ouvertüre d-Moll op. 81 (1880)](https://de.wikipedia.org/wiki/Tragische_Ouvert%C3%BCre_(Brahms))
 
+* [Tragische Ouvertüre d-Moll op. 81 (1880)](https://de.wikipedia.org/wiki/Tragische_Ouvert%C3%BCre_(Brahms))
 
 Klaviermusik[Bearbeiten | Quelltext bearbeiten]
 
-
 Für zwei Hände[Bearbeiten | Quelltext bearbeiten]
+
 
 * [Albumblatt a-Moll o. op. (1853)[26]](https://de.wikipedia.org/wiki/Johannes_Brahms#cite_note-32)
 
-* [Sonate Nr. 1 C-Dur op. 1 (1853)](https://de.wikipedia.org/wiki/Klaviersonate_Nr._1_(Brahms))
 
+* [Sonate Nr. 1 C-Dur op. 1 (1853)](https://de.wikipedia.org/wiki/Klaviersonate_Nr._1_(Brahms))
 
 Sonate Nr. 2 fis-Moll op. 2 (1854)
 
-
 Scherzo in es-Moll op. 4 (1854)
+
 
 * [Sonate Nr. 3 f-Moll op. 5 (1854)](https://de.wikipedia.org/wiki/Klaviersonate_Nr._3_(Brahms))
 
+
 * [Variationen über ein Thema von Robert Schumann op. 9 (1854)](https://de.wikipedia.org/wiki/Variationen_%C3%BCber_ein_Thema_von_Robert_Schumann_op._9)
+
 
 * [Gavotte WoO posth. 3 (1854-55)](https://de.wikipedia.org/wiki/Opus_(Werk)#Schreibweisen)
 
-
 2 Gigues WoO posth. 4 (1855)
-
 
 2 Sarabanden WoO posth. 5 (1854-55)
 
-* [Vier Balladen op. 10 (1856)](https://de.wikipedia.org/wiki/Vier_Balladen_op._10)
 
+* [Vier Balladen op. 10 (1856)](https://de.wikipedia.org/wiki/Vier_Balladen_op._10)
 
 Variationen über ein eigenes Thema op. 21/1 (1861)
 
-
 Variationen über ein ungarisches Lied op. 21/2 (1861)
+
 
 * [Variationen und Fuge über ein Thema von Händel op. 24 (1862)](https://de.wikipedia.org/wiki/Variationen_und_Fuge_%C3%BCber_ein_Thema_von_H%C3%A4ndel)
 
+
 * [Variationen über ein Thema von Paganini (zwei Hefte) op. 35 (1866)](https://de.wikipedia.org/wiki/Variationen_%C3%BCber_ein_Thema_von_Paganini_(Brahms))
+
 
 * [Sechzehn Walzer op. 39 (1865)[A 7]](https://de.wikipedia.org/wiki/Johannes_Brahms#cite_note-33)
 
-
 10 Ungarische Tänze WoO 1 (1872 Bearbeitung des vierhändigen Originals von 1869, siehe unten)
+
 
 * [Acht Klavierstücke op. 76 (1879)](https://de.wikipedia.org/wiki/Acht_Klavierst%C3%BCcke_op._76)
 
-* [Zwei Rhapsodien op. 79 (1880)](https://de.wikipedia.org/wiki/Zwei_Rhapsodien_op._79)
 
+* [Zwei Rhapsodien op. 79 (1880)](https://de.wikipedia.org/wiki/Zwei_Rhapsodien_op._79)
 
 Sieben Fantasien op. 116 (1892)
 
-* [Drei Intermezzi op. 117 (1892)](https://de.wikipedia.org/wiki/Drei_Intermezzi_(Brahms))
 
+* [Drei Intermezzi op. 117 (1892)](https://de.wikipedia.org/wiki/Drei_Intermezzi_(Brahms))
 
 Sechs Klavierstücke op. 118 (1893)
 
-
 Vier Klavierstücke op. 119 (1893)
-
 
 Ossip Gabrilowitsch spielt das Intermezzo Nr. 3 C-Dur op. 119 für Welte-Mignon am 4. Juli 1905. * 1602 kB?/i
 
-
 51 Klavierübungen (1893)
-
 
 Für die linke Hand allein[Bearbeiten | Quelltext bearbeiten]
 
-
 Bearbeitung von Johann Sebastian Bachs Chaconne aus der d-Moll-Partita[27]
-
 
 Für vier Hände[Bearbeiten | Quelltext bearbeiten]
 
-
 Souvenir de la Russie, WoO
+
 
 * [21 Ungarische Tänze (1869 und 1880)](https://de.wikipedia.org/wiki/Ungarische_T%C3%A4nze)
 
-
 Variationen über ein Thema von Schumann in Es-Dur, op. 23 (1863)
-
 
 16 Walzer, op. 39
 
-
 18 Liebeslieder (Walzer), op. 52 a
-
 
 15 Neue Liebeslieder (Walzer), op. 65 a
 
-
 Für zwei Klaviere[Bearbeiten | Quelltext bearbeiten]
-
 
 Sonate f-Moll, op. 34b (nach seinem f-Moll-Klavierquintett, op. 34)
 
-
 Variationen über ein Thema von Joseph Haydn op. 56b (Bearbeitung des op. 56a für Orchester)
-
 
 Fünf Walzer aus op. 39, Ausgabe für zwei Klaviere zu vier Händen vom Komponisten für Frau Seraphine Tausig bearbeitet
 
-
 Kammermusik mit Klavier[Bearbeiten | Quelltext bearbeiten]
-
 
 Autograph des Klaviertrios Nr. 2 C-Dur op. 87 (Fragment)
 
-
 Klaviertrio A-Dur (vermutlich um 1853, Brahms nur zugeschrieben)
-
 
 Klaviertrio Nr. 1 H-Dur op. 8 (1854, Neufassung 1891)
 
-
 Klavierquartett Nr. 1 g-Moll op. 25 (1863)
-
 
 Klavierquartett Nr. 2 A-Dur op. 26 (1863)
 
-
 Klavierquintett f-Moll op. 34 (1865)
+
 
 * [Sonate für Klavier und Violoncello Nr. 1 e-Moll op. 38 (1865)[3]](https://de.wikipedia.org/wiki/Johannes_Brahms#cite_note-H%C3%B6hne-3)
 
-
 Trio für Horn, Violine und Klavier Es-Dur op. 40 (1865)
-
 
 Klavierquartett Nr. 3 c-Moll op. 60 (1875)
 
+
 * [Sonate für Klavier und Violine Nr. 1 G-Dur op. 78 (1879)](https://de.wikipedia.org/wiki/Violinsonate_Nr._1_(Brahms))
+
 
 * [Klaviertrio Nr. 2 C-Dur op. 87 (1880)](https://de.wikipedia.org/wiki/Klaviertrio_Nr._2_C-Dur_op._87)
 
-
 Sonate für Violoncello und Klavier Nr. 2 F-Dur op. 99 (1886)
+
 
 * [Sonate für Klavier und Violine Nr. 2 A-Dur op. 100 (1886)](https://de.wikipedia.org/wiki/Violinsonate_Nr._2_(Brahms))
 
-
 Klaviertrio Nr. 3 c-Moll op. 101 (1887)
-
 
 Sonate für Klavier und Violine Nr. 3 d-Moll op. 108 (1889)
 
-
 Klarinettentrio a-Moll op. 114 (1891)
-
 
 2 Sonaten für Klarinette und Klavier f-Moll, Es-Dur op. 120 (1894)
 
-
 Scherzo c-Moll für Violine und Klavier WoO 2 (1853, aus der FAE-Sonate, einer Gemeinschaftskomposition von Brahms, Schumann und Albert Dietrich)
-
 
 Kammermusik ohne Klavier[Bearbeiten | Quelltext bearbeiten]
 
-
 Streichsextett Nr. 1 B-Dur op. 18 (1862)
-
 
 Streichsextett Nr. 2 G-Dur op. 36 (1866)
 
-
 Streichquartett Nr. 1 c-Moll op. 51/1 (1873)
-
 
 Streichquartett Nr. 2 a-Moll op. 51/2 (1873)
 
-
 Streichquartett Nr. 3 B-Dur op. 67 (1876)
-
 
 Streichquintett Nr. 1 F-Dur op. 88 (1882)
 
-
 Streichquintett Nr. 2 G-Dur op. 111 (1891)
+
 
 * [Klarinettenquintett h-Moll op. 115 (1891)](https://de.wikipedia.org/wiki/Klarinettenquintett_(Brahms))
 
-
 Orgelwerke[Bearbeiten | Quelltext bearbeiten]
-
 
 Fuge as-Moll WoO 8
 
-
 Präludium und Fuge a-Moll WoO 9
-
 
 Präludium und Fuge g-Moll WoO 10
 
-
 Choralvorspiel und Fuge über „O Traurigkeit, o Herzeleid“ WoO 7
-
 
 Elf Choralvorspiele op. posth. 122
 
-
 Chorwerke[Bearbeiten | Quelltext bearbeiten]
-
 
 Postillons Morgenlied (~1847/50?) für Männerchor (aufgefunden 2010 im Stadtarchiv Celle). Text: Wilhelm Müller
 
-* [Die goldenen Brücken (1853) für Männerchor (aufgefunden 2010 im Stadtarchiv Celle). Text: Emanuel Geibel](https://de.wikipedia.org/wiki/Emanuel_Geibel)
 
+* [Die goldenen Brücken (1853) für Männerchor (aufgefunden 2010 im Stadtarchiv Celle). Text: Emanuel Geibel](https://de.wikipedia.org/wiki/Emanuel_Geibel)
 
 Missa Canonica op. posth. (1856-, Fragment). Später teilweise in der Motette op. 74,1 verwendet
 
-
 Ave Maria op. 12 (1860)
+
 
 * [Begräbnisgesang op. 13 für Chor und Bläser (1860), auch als Orgelfassung von Karl Michael Komma](https://de.wikipedia.org/wiki/Karl_Michael_Komma)
 
-
 Gesänge für Frauenchor mit Begleitung von 2 Hörnern und Harfe op. 17 (1860)
-
 
 Marienlieder für gemischten Chor op. 22 (1859)
 
-
 Der 13. Psalm für dreistimmigen Frauenchor mit Begleitung der Orgel oder des Pianoforte op. 27 (1859)
-
 
 Zwei Motetten op. 29 (1857–1860): „Schaffe in mir Gott ein rein Herz“ op. 29,2 (Psalm 51, 12–14)
 
-
 Geistliches Lied op. 30 (1856)
-
 
 Drei geistliche Chöre für Frauenstimmen ohne Begleitung op. 37 (1859/1863)
 
-
 Fünf Lieder für vierstimmigen Männerchor op. 41 (1861-62?)
-
 
 Drei Gesänge für sechstimmigen Chor a cappella op. 42 (1859–1861), darunter: Vineta op. 42 Nr. 2 (1860) nach einem Gedicht von Wilhelm Müller und Darthulas Grabesgesang op. 42 Nr. 3 nach Ossian
 
-
 Zwölf Lieder und Romanzen für Frauenchor op. 44
+
 
 * [Ein deutsches Requiem op. 45 (1866/67 und 1868 (Satz 5))](https://de.wikipedia.org/wiki/Ein_deutsches_Requiem)
 
-* [Rinaldo op. 50 (1869)](https://de.wikipedia.org/wiki/Rinaldo_(Brahms))
 
+* [Rinaldo op. 50 (1869)](https://de.wikipedia.org/wiki/Rinaldo_(Brahms))
 
 Liebeslieder-Walzer op. 52 (1868) und Neue Liebeslieder op. 65 (1874). Texte: Georg Friedrich Daumer
 
-
 Rhapsodie für Alt, Männerchor und Orchester über ein Fragment aus Goethes „Harzreise im Winter“ op. 53 (1869)
-
 
 Schicksalslied op. 54 (1871). Text: Friedrich Hölderlin
 
-
 Triumphlied op. 55 (1871). Text: aus der Offenbarung des Johannes
-
 
 Sieben Lieder für gemischten Chor op. 62 (1874)
 
-* [Zwei Motetten op. 74 (1878): Warum ist das Licht gegeben dem Mühseligen? op. 74,1 und „O Heiland, reiß die Himmel auf“](https://de.wikipedia.org/wiki/Warum_ist_das_Licht_gegeben_dem_M%C3%BChseligen%3F)
 
+* [Zwei Motetten op. 74 (1878): Warum ist das Licht gegeben dem Mühseligen? op. 74,1 und „O Heiland, reiß die Himmel auf“](https://de.wikipedia.org/wiki/Warum_ist_das_Licht_gegeben_dem_M%C3%BChseligen%3F)
 
 Nänie op. 82 (1881). Text: Friedrich Schiller
 
-* [Gesang der Parzen op. 89 (1882). Text: Johann Wolfgang von Goethe](https://de.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe)
 
+* [Gesang der Parzen op. 89 (1882). Text: Johann Wolfgang von Goethe](https://de.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe)
 
 Lieder und Romanzen für vierstimmigen gemischten Chor op. 93a (1883/84)
 
+
 * [Tafellied von Joseph von Eichendorff für sechsstimmigen gemischten Chor mit Klavier op. 93b (1884)](https://de.wikipedia.org/wiki/Joseph_von_Eichendorff)
+
 
 * [Zigeunerlieder op. 103 und 112 für 4 Singstimmen und Klavier](https://de.wikipedia.org/wiki/Zigeunerlieder_(Brahms))
 
-
 Fünf Gesänge für gemischten Chor a cappella op. 104 (1888)
+
 
 * [Fest- und Gedenksprüche a cappella op. 109, „Seiner Magnificenz dem Herrn Bürgermeister Dr. Carl Petersen in Hamburg verehrungsvoll zugeeignet“ (1888)](https://de.wikipedia.org/wiki/Carl_Friedrich_Petersen)
 
-
 Drei Motetten op. 110 (1889)
-
 
 13 Kanons für Frauenstimmen op. 113 (tw. 1863)
 
-
 14 Volkslieder für gemischten Chor ohne Begleitung WoO 34 (1857–58; 1863–64)
-
 
 Von edler Art, Mit Lust tät ich ausreiten, Bei nächtlicher Weil, Vom heiligen Märtyrer Emmerano, Täublein weiß, Ach lieber Herre Jesu Christ, Sankt Raphael, In Stiller Nacht, Abschiedslied, Der tote Knabe, Die Wollust in den Maien, Morgengesang, Schnitter Tod, Der englische Jäger
 
-
 12 Volkslieder für gemischten Chor ohne Begleitung WoO 35 (1863–64)
-
 
 Scheiden, Wach auf, Erlaube mir, Der Fiedler, Da unten im Tale, Des Abends, Wach auf, Dort in den Weiden, Altes Volkslied, Der Ritter und die Feine, Der Zimmergesell, Altdeutsches Kampflied
 
-
 Lieder (ein- und mehrstimmig)[Bearbeiten | Quelltext bearbeiten]
 
-
 MENÜ
-
 
 0:00
 
@@ -2481,8 +2448,6 @@ MENÜ
 
 
 *[Brahms-Autograph (Wechsellied zum Tanze op. 31,1) aus dem Nachlass Theodor Avé-Lallemants](https://de.wikipedia.org/wiki/Theodor_Av%C3%A9-Lallemant)*
-
-
 
 Mit Opuszahl
 
@@ -2534,8 +2499,8 @@ Mit Opuszahl
 
 *Julius Stockhausen gewidmet. Romanzen aus L. Tieck’s Magelone für eine Singstimme mit Pianoforte. op. 33 (1861–1869).*
 
-* [Keinen hat es noch gereut, Traun! Bogen und Pfeil sind gut für den Feind, Sind es Schmerzen, sind es Freuden, Liebe kam aus fernen Landen, So willst du des Armen, Wie soll ich die Freuden, die Wonne denn tragen?, War es dir, dem diese Lippen bebten, Wir müssen und trennen, geliebtes Saitenspiel, Ruhe, Süßliebchen, im Schatten, Verzweiflung, Wie schnell verschwindet so im Licht als Glanz, Muß es eine Trennung geben, Sulima, Wie froh und frisch mein Sinn sich hebt, Treue Liebe dauert lange[28]](https://de.wikipedia.org/wiki/Johannes_Brahms#cite_note-35)
 
+* [Keinen hat es noch gereut, Traun! Bogen und Pfeil sind gut für den Feind, Sind es Schmerzen, sind es Freuden, Liebe kam aus fernen Landen, So willst du des Armen, Wie soll ich die Freuden, die Wonne denn tragen?, War es dir, dem diese Lippen bebten, Wir müssen und trennen, geliebtes Saitenspiel, Ruhe, Süßliebchen, im Schatten, Verzweiflung, Wie schnell verschwindet so im Licht als Glanz, Muß es eine Trennung geben, Sulima, Wie froh und frisch mein Sinn sich hebt, Treue Liebe dauert lange[28]](https://de.wikipedia.org/wiki/Johannes_Brahms#cite_note-35)
 
 Vier Gesänge für eine Singstimme und Klavier op. 43
 
@@ -2704,10 +2669,7 @@ Vier Gesänge für eine Singstimme und Klavier op. 43
 
 *Denn es gehet dem Menschen wie dem Vieh (aus Prediger Salomo, Kap. 3), Ich wandte mich, und sahe an (aus Prediger Salomo, Kap. 4), O Tod, wie bitter bist du (aus Jesus Sirach, Kap. 41), Wenn ich mit Menschen- und mit Engelszungen (aus 1. Korinther, Kap. 13)*
 
-
-
 Ohne Opuszahl
-
 
 
 *Mondnacht WoO 21*
@@ -2911,10 +2873,9 @@ Ohne Opuszahl
 *Verstohlen geht der Mond auf*
 
 
-
 * [Dvorak]()* 
-Bühnenwerke
 
+Bühnenwerke
 
 Opern
 
@@ -2948,15 +2909,12 @@ Opern
 
 *[Armida op. 115, Oper in 4 Akten, Libretto von Jaroslav Vrchlický (1902/03)](https://de.wikipedia.org/wiki/Armida_(Dvo%C5%99%C3%A1k))*
 
-
 Schauspielmusik
 
 
 *Josef Kajetán Tyl op. 62, Ouvertüre und Schauspielmusik zum gleichnamigen Schauspiel von František Ferdinand Šamberks (1882)*
 
-
 Orchesterwerke
-
 
 Sinfonien
 
@@ -2987,7 +2945,6 @@ Sinfonien
 
 *[Sinfonie Nr. 9 e-Moll op. 95, Novosvětská oder Z Nového světa „Aus der neuen Welt“ (1893, UA 16. Dezember 1893)](https://de.wikipedia.org/wiki/9._Sinfonie_(Dvo%C5%99%C3%A1k))*
 
-
 Sinfonische Dichtungen[Bearbeiten | Quelltext bearbeiten]
 
 
@@ -3004,7 +2961,6 @@ Sinfonische Dichtungen[Bearbeiten | Quelltext bearbeiten]
 
 
 *[Heldenlied op. 111 (1897)](https://de.wikipedia.org/w/index.php?title=Heldenlied_(Dvo%C5%99%C3%A1k)&action=edit&redlink=1)*
-
 
 Andere Orchesterwerke[Bearbeiten | Quelltext bearbeiten]
 
@@ -3086,14 +3042,12 @@ Andere Orchesterwerke[Bearbeiten | Quelltext bearbeiten]
 
 *Suite A-Dur op. 98b, Die Amerikanische (1895)*
 
-
 Werke mit Soloinstrument[Bearbeiten | Quelltext bearbeiten]
-
 
 Konzert A-Dur für Violoncello und Klavier (1865)
 
-
 Romanze f-Moll für Violine und Orchester op. 11 (1873)
+
 
 * [Konzert g-Moll für Klavier und Orchester op. 33 (1876)](https://de.wikipedia.org/wiki/Klavierkonzert_(Dvo%C5%99%C3%A1k))
 
@@ -3106,69 +3060,57 @@ Romanze f-Moll für Violine und Orchester op. 11 (1873)
 
 *[Konzert h-Moll für Violoncello und Orchester op. 104 (1895)](https://de.wikipedia.org/wiki/Cellokonzert_(Dvo%C5%99%C3%A1k))*
 
+
 * [Waldesruhe B. 173[4] für Violoncello und Klavier (1891, Transkription des Komponisten aus op. 68 Nr. 5)](https://de.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k#cite_note-Burghauser-4)
+
 
 * [Waldesruhe B. 182[4] für Violoncello und Orchester (1893, Transkription des Komponisten aus op. 68 Nr. 5)](https://de.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k#cite_note-Burghauser-4)
 
-
 Kammermusik[Bearbeiten | Quelltext bearbeiten]
+
 
 * [Quintett a-Moll für 2 Violinen, 2 Violen und Violoncello op. 1 (1861)](https://de.wikipedia.org/wiki/Quintett_a-Moll_op._1_(Dvo%C5%99%C3%A1k))
 
-
 Streichquartett A-Dur op. 2 (1862)
-
 
 Klarinettenquartett b-Moll, verschollen bzw. vernichtet (1865/69)
 
-
 Streichquartett B-Dur (1868/69)
-
 
 Streichquartett D-Dur (1868/69)
 
-
 Streichquartett e-Moll (1869/70)
-
 
 Zwei Klaviertrios, verschollen bzw. vernichtet (1871/72)
 
-* [Klavierquintett Nr. 1, op. 5 (1872)](https://de.wikipedia.org/wiki/1._Klavierquintett_(Dvo%C5%99%C3%A1k))
 
+* [Klavierquintett Nr. 1, op. 5 (1872)](https://de.wikipedia.org/wiki/1._Klavierquintett_(Dvo%C5%99%C3%A1k))
 
 Streichquartett f-Moll op. 9 (1873)
 
-
 Sonate a-Moll für Violine und Klavier, verschollen bzw. vernichtet (1873)
-
 
 Romanze f-Moll für Violine und Klavier (1873)
 
-
 Streichquartett a-Moll op. 16 (1874)
+
 
 * [Quintett G-Dur für 2 Violinen, Viola, Violoncello und Kontrabass op. 18 (op. 77) (1875)](https://de.wikipedia.org/wiki/Quintett_G-Dur_op._18_(Dvo%C5%99%C3%A1k))
 
-
 Klaviertrio B-Dur op. 21 (1875)
-
 
 Klavierquartett D-Dur op. 23 (1875)
 
-
 Klaviertrio g-Moll op. 26 (1876)
-
 
 Streichquartett E-Dur op. 27 (op. 80) (1876)
 
-
 Streichquartett d-Moll op. 34 (1877)
-
 
 Bagatellen für 2 Violinen, Violoncello und Harmonium (Klavier) op. 47 (1878)
 
-* [Sextett A-Dur für 2 Violinen, 2 Violen und 2 Violoncelli op. 48 (1878)](https://de.wikipedia.org/wiki/Sextett_A-Dur_op._48_(Dvo%C5%99%C3%A1k))
 
+* [Sextett A-Dur für 2 Violinen, 2 Violen und 2 Violoncelli op. 48 (1878)](https://de.wikipedia.org/wiki/Sextett_A-Dur_op._48_(Dvo%C5%99%C3%A1k))
 
 Serenade für Blasinstrumente op. 44 (1878)
 
@@ -3181,38 +3123,33 @@ Serenade für Blasinstrumente op. 44 (1878)
 
 *Mazurek für Violine und Klavier op. 49 (1879)*
 
-* [Polonaise A-Dur für Violoncello und Klavier B. 94[4] (ohne Op, 1879)](https://de.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k#cite_note-Burghauser-4)
 
+* [Polonaise A-Dur für Violoncello und Klavier B. 94[4] (ohne Op, 1879)](https://de.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k#cite_note-Burghauser-4)
 
 Sonate F-Dur Für Violine und Klavier op. 57 (1880)
 
-
 Streichquartett C-Dur op. 61 (1881)
-
 
 Klaviertrio f-Moll op. 65 (1883)
 
-
 Ballade d-Moll für Violine und Klavier (1884)
+
 
 * [Terzett C-Dur für 2 Violinen und Viola op. 74 (1887)](https://de.wikipedia.org/wiki/Terzett_C-Dur_op._74_(Dvo%C5%99%C3%A1k))
 
-
 Terzett B-Dur für 2 Violinen und Viola op. 75 (1887)
-
 
 Romantische Stücke für Violine und Klavier op. 75a (1887)
 
-* [Klavierquintett A-Dur Nr. 2, op. 81 (1887)](https://de.wikipedia.org/wiki/2._Klavierquintett_(Dvo%C5%99%C3%A1k))
 
+* [Klavierquintett A-Dur Nr. 2, op. 81 (1887)](https://de.wikipedia.org/wiki/2._Klavierquintett_(Dvo%C5%99%C3%A1k))
 
 Klavierquartett Es-Dur op. 87 (1889)
 
-
 Gavotte für drei Violinen (1890)
 
-
 Rondo für Violoncello op. 94 (1891)
+
 
 * [Klaviertrio op. 90 Dumky (1891)](https://de.wikipedia.org/wiki/Klaviertrio_No._4_(Dvo%C5%99%C3%A1k))
 
@@ -3233,7 +3170,6 @@ Rondo für Violoncello op. 94 (1891)
 
 
 *Zypressen für Streichquartett (1887)*
-
 
 Klaviermusik[Bearbeiten | Quelltext bearbeiten]
 
@@ -3306,41 +3242,27 @@ Klaviermusik[Bearbeiten | Quelltext bearbeiten]
 
 *Zwei Klavierstücke (Berceuse, Capriccio) (1894)*
 
-
 Orgelmusik[Bearbeiten | Quelltext bearbeiten]
-
-
 
 (veröffentlicht in Dvořáks Abschlussarbeit an der Prager Orgelschule 1859)
 
-
-
 Präludium D-Dur
-
 
 Präludium G-Dur
 
-
 Präludium a-moll
-
 
 Präludium b-moll
 
-
 Präludium D-Dur (sul tema impostato)
-
 
 Fughetta
 
-
 Fuge D- Dur
-
 
 Fuge g-moll
 
-
 Vokalwerke[Bearbeiten | Quelltext bearbeiten]
-
 
 Messe B-Dur, verschollen bzw. vernichtet (1857/59)
 
@@ -3476,6 +3398,7 @@ Messe B-Dur, verschollen bzw. vernichtet (1857/59)
 
 *Die Heilige Ludmilla, Rezitative für szenische Aufführungen (1901)*
 
+
 * [Scales and Arpeggios]()* |  | C | C#/Db | D | D#/Eb | E | F | F#/Gb | G | G#/Ab | A | A#/Bb | B/Cb |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Scales: |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -3515,162 +3438,110 @@ Messe B-Dur, verschollen bzw. vernichtet (1857/59)
 | Maj7 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 8 |  |  |  |  |  |  |  |  |  |  |  |  |    * [Music Plans]()* Mastered as of 10.11
 
-
 Weeping Willow
-
 
 Maple Leaf Rag
 
-
 To Master 2014
-
 
 Waltz in C# Minor
 
-
 Military Polonaise
-
 
 Minute Waltz
 
-
 Hungarian Dance 5
-
 
 Turkish Rondo
 
-
 Important Event
-
 
 Spanish Dance
 
-
 Here Without You
-
 
 Kryptonite
 
-
 Turkish March
-
 
 Fig Leaf Rag
 
-
 Pirates of the Caribbean
-
 
 Heroic Polonaise
 
-
 Serenade
-
 
 Hungarian Dance 6
 
-
 Humoresque
-
 
 Revolutionary Etude
 
-
 Menuet à l'Antique
-
 
 Let It Snow
 
-
 Sleigh Ride
-
 
 Nutcracker Suite
 
-
 Hungarian Dance 1
-
 
 Nutcracker March
 
-
 To Master 2015
-
 
 Funeral March
 
-
 Waltz in Eb Major
-
 
 Etude in E
 
-
 Spinning Song
-
 
 Marche Slav
 
-
 Lachrymosa
-
 
 Canon in D
 
-
-
-
 Salut d'Amour
-
 
 Fall for You
 
-
 You're the Inspiration
-
 
 Drops of Jupiter
 
-
 Just Haven't Met You Yet
-
 
 Honesty
 
-
 Moment Musical
-
 
 Morning
 
-
 Themes from Piano Concerto No. 2
-
 
 Träumerei
 
-
-
 Notturno
-
 
 Chanson Triste
 
-
 Prelude in C# Minor
 
-
 Die Moldau
-
 
 Barcarolle
 
 
 * [Povl Dissing](https://open.spotify.com/artist/0qpWZe4Tl9yLoMSKdIREIT?si=cK5CKrviQgKzhHNOLH20zw&utm_source=native-share-menu&nd=1) (16)
 * https://47soul.com/discography/semitics/* 
-- H.D
+* H.D
 * [КНИГИ ПО ИСТОРИИ АРХИТЕКТУРЫ](https://vk.com/wall-56611080_102898)* 
-- H.E* - Sitios de traducción (como [inosmi.ru](http://inosmi.ru/))
+* H.E* - Sitios de traducción (como [inosmi.ru](http://inosmi.ru/))
 *     RU
 *             
 * [http://inopressa.ru](http://inopressa.ru/)*    
@@ -4767,7 +4638,7 @@ Barcarolle
 *             *     What are the best newspapers in Finland? Why? - Quora
 *             
 * * → https://www.ilpost.it/ * 
-- H.F
+* H.F
 * [Recursos por idioma]()
 * [Phraséologie]()
 * [ ]  [Modismos diversos (borrador)](https://docs.google.com/spreadsheets/d/1_gtGJ-aPb-L98F3ylU9ADCoFLIPPo55waoiDgtvwgtU/edit?usp=sharing)
@@ -4877,21 +4748,21 @@ Barcarolle
 * [Greek Word Study Tool](http://www.perseus.tufts.edu/hopper/morph?l=xrh%3Dsis&la=greek&can=xrh%3Dsis0&prior=so/n)
 *     угомониться - Перевод на немецкий - примеры русский | Reverso Context
 * 
-- 1
+* 1
 * 
-- 2
-- 3* - Misc*     
+* 2
+* 3* - Misc*     
 * [How would you say "mindless fun" in German - German Language Stack Exchange](https://german.stackexchange.com/questions/72916/how-would-you-say-mindless-fun-in-german)*     
-- 4
+* 4
 * https://youtube.com/@PlatosCaveUA
 * - Misc
 *     
-- 5
-- 6
+* 5
+* 6
 * 
-- 7
-- 8
-- 9
+* 7
+* 8
+* 9
 * [Simple Easy Beginner Arabic Comprehensible Input | Fusha (MSA)](https://youtu.be/IUN5dB_9M4c)
 * [صوت عربي الامير الصغير](https://www.google.com/search?q=%D8%B5%D9%88%D8%AA+%D8%B9%D8%B1%D8%A8%D9%8A+%D8%A7%D9%84%D8%A7%D9%85%D9%8A%D8%B1+%D8%A7%D9%84%D8%B5%D8%BA%D9%8A%D8%B1&oq=%D8%B5%D9%88%D8%AA+%D8%B9%D8%B1%D8%A8%D9%8A+%D8%A7%D9%84%D8%A7%D9%85%D9%8A%D8%B1+%D8%A7%D9%84%D8%B5%D8%BA%D9%8A%D8%B1&aqs=chrome..69i57j33i160l4j33i22i29i30.344j0j9&client=ubuntu&sourceid=chrome&ie=UTF-8)
 * [Downloads - Arabic Bible Outreach Ministry](https://www.arabicbible.com/downloads.html)* 
@@ -4902,18 +4773,18 @@ Barcarolle
 * [ ]  [Арабские корни](https://docs.google.com/spreadsheets/d/1HZFYmbq8yeygsncAliUONmsgVmsexpE-ashVlDIf0cc/edit?usp=sharing)
 * [ ]  [Anki - conyugación árabe](https://docs.google.com/spreadsheets/d/1rQVp5rMG1RQFKqRnetQlIhKVIup22swPGHM5xqjEsJU/edit?usp=sharing)
 * [ ]  [فلسفة](https://docs.google.com/spreadsheets/d/1SKH-0JfyOEg4jEWGSZEXbZTR8MMs8qKGkQ933H89Z_Y/edit?usp=sharing)
-- 10
+* 10
 * [ ]  [Детские книги на китайском](https://docs.google.com/spreadsheets/d/1useOYO52CnRP3MEwd72Wvpv1GWeWtaBth1Bw6wiL_MM/edit?usp=sharing)
 * [ ]  [美国反对美国 (America vs America)](https://docs.google.com/spreadsheets/d/18HFlxFg3_7xXvAvFkgRgNxPvo4NIkXg2xkwQjVVWraA/edit?usp=sharing)
 * [ ]  [Carácteres y radicales chinos](https://docs.google.com/spreadsheets/d/1Yhh-DjbaI3fxzkLzdpSnqz25xg5oWCqoyn-cj_KLQ3s/edit?usp=sharing)
 * [ ]  [HSK](https://docs.google.com/spreadsheets/d/1asid2JHKhIZ_cDD-ocB-pHya4TDltHvSF8488GgV9gc/edit?usp=sharing)
 * [ ]  [Frases mandarines](https://docs.google.com/spreadsheets/d/1IxyJ_VpmSehBvwnNVkEqzx2VDQANMbCKt0pwgQyG7WY/edit?usp=sharing)* 
-- 11
+* 11
 * [ ]  [Beispiele GR 11](https://docs.google.com/spreadsheets/d/1_LpmsO5mSihCK4Mr1Myzx_0JgqG7FUjcvUkQoqUUrGY/edit?usp=sharing)
 * [ ]  [Coniugazione latina](https://docs.google.com/spreadsheets/d/1SGIkkfi_r0VZMwsruw5YJTF-_Aa9FaMmgch87kf7Duw/edit?usp=sharing)
 * [ ]  [Declinazione latina](https://docs.google.com/spreadsheets/d/1f6f37EScyQ5kCC_8XYNSs1SyJqU8ddlG6bgHyK_kMBw/edit?usp=sharing)
 * [ ]  [Latin for All Occasions](https://docs.google.com/spreadsheets/d/1wi_5at3d9qazBwUiiwcUmn8S4jbvXY1lxDuHwoD4b4o/edit?usp=sharing)
-- 11-12
+* 11-12
 * [ ]  [11/12 per esempi](https://docs.google.com/spreadsheets/d/1zDXL9z2yBBiT3I8a8lSJl1HaoeC1EXU6aJ_0RyMaZx4/edit?usp=sharing)
 * [ ]  [50languages la,grc](https://docs.google.com/spreadsheets/d/1n1QruvLYcmAGR0frpCjGFqWVNdpg-OuJqPRIlwdPhNM/edit?usp=sharing)
 * [ ]  [Loeb Classical Library List](https://docs.google.com/spreadsheets/d/1o9zmt1YU96aCDl-PYmwLV5--xRYOq6ctC_M0jvnOReM/edit?usp=sharing)
@@ -4923,7 +4794,7 @@ Barcarolle
 * [ ]  [Quiz 11/12](https://docs.google.com/spreadsheets/d/113Mpa6gBkmQy3CnS-bmB4pLdsed3vzt7xQucTP1CPGw/edit?usp=sharing)
 * [ ]  [Raizes latines y griegos](https://docs.google.com/spreadsheets/d/1WQc2PG3Uh5JgxEyf91JAWc0tQ1aBUoCijiCnJ0Pk1sQ/edit?usp=sharing)
 * [ ]  [Anki - Athenaze / Familia Romana](https://docs.google.com/spreadsheets/d/1r4rCqHIcILUID2KiiTvGDV-Ux5IaMTbVZO0Fh37SHsU/edit?usp=sharing)
-- 12
+* 12
 * [ ]  [Beispiele GR 12](https://docs.google.com/spreadsheets/d/109OLDgecr_sFe7zpN-qq1TfumrvYRI8rTApy273wJog/edit?usp=sharing)
 * [ ]  [Coniugazione greca](https://docs.google.com/spreadsheets/d/13IWIAK_SSb4z4GJxTclpy8WzmliSpHTWLdG5ke9xbWE/edit?usp=sharing)
 * [ ]  [Declinazione greca](https://docs.google.com/spreadsheets/d/1LuuyaQ5GPd8BQyx0j_T6PuMsfCixQsuRCknLALBnEME/edit?usp=sharing)
@@ -4943,12 +4814,12 @@ Barcarolle
 * https://ru.wikiquote.org/wiki/%D0%AD%D0%BF%D0%B8%D0%BA%D1%82%D0%B5%D1%82
 * https://flibusta.club/b/622961/read
 * [МАРК АВРЕЛИЙ Наедине с собой Размышления](https://www.youtube.com/watch?v=VuEsRU-_9ck)* 
-- 13
-- 14
+* 13
+* 14
 * [En nou is het afgelopen met telefoons in de klas | De Avondshow met Arjen Lubach (S3)](https://www.youtube.com/watch?v=cclEuSxFd_M)
 * [DE 5E GESCHIEDENISLES DIE JE NOOIT HEBT GEHAD! - YouTube](https://www.youtube.com/watch?v=fG42JX_7hFA)* 
-- 15
-- 16
+* 15
+* 16
 * - * - Approach
 *     Language learning tips:
 *             *     mnemonics
@@ -5941,11 +5812,14 @@ Barcarolle
 * [Ted Talks](https://ted2srt.org/)
 * [On Being](https://onbeing.org/)
 
+
 # Comedy (in different accents)
+
 
 ### Studio C (American, standard)
 
-- Favorites
+
+* Favorites
 * [Channel Surfing](https://www.youtube.com/watch?v=Vg0s8Ard2oM)
 * [Republicans vs. Democrats](https://www.youtube.com/watch?v=aXyDAi51A7s)
 * [The Best Book for 24 Hours of Productivity](https://www.youtube.com/watch?v=3985qMqW8ks)
@@ -5997,9 +5871,11 @@ Barcarolle
 * [Captain Literally, Part 3](https://www.youtube.com/watch?v=l2mDz8dVyZQ&list=PLGVpxD1HlmJ-dLBoRLP91gvRJcFt9CkhQ&index=3)
 * [Captain Literally, Part 4](https://www.youtube.com/watch?v=uhZu5R0yHE8&list=PLGVpxD1HlmJ-dLBoRLP91gvRJcFt9CkhQ&index=4)* 
 
+
 ### Foil, Arms and Hog (Irish)
 
-- Favorites
+
+* Favorites
 * [6 Days in Isolation with Mum | According to Foil, Arms and Hog](https://www.youtube.com/watch?v=kcsrfmqMABY)
 * [Who Should Ireland Support in the Euros? | Foil Arms and Hog](https://www.youtube.com/watch?v=eTQPzfvkqhk)
 * [An Irish Intervention (LIVE) - Foil Arms and Hog](https://www.youtube.com/watch?v=_phAArdrn-s&t=1s)
@@ -6016,9 +5892,11 @@ Barcarolle
 * [Telling your Family you're Vegan - Foil Arms and Hog](https://www.youtube.com/watch?v=HFC0vUhbULs)
 * [A Motivational Speaker gives a Talk to Prisoners - Foil Arms and Hog](https://www.youtube.com/watch?v=C7dSx3Lvp9w)* 
 
+
 ### Mitchell and Webb (English, standard)
 
-- Favorites
+
+* Favorites
 * [Inebriati](https://www.youtube.com/watch?v=-Zj50DmBFp0&t=15s)
 * [Watch the Football](https://www.youtube.com/watch?v=VF_uOgyBK1c)
 * [Football](https://www.youtube.com/watch?v=xN1WN0YMWZU)
@@ -6039,9 +5917,11 @@ Barcarolle
 * [Kitchen Nightmares](https://www.youtube.com/watch?v=i1NfWIaYed8)
 * [Couple Arguing](https://www.youtube.com/watch?v=iB_1kAFK9oU)* 
 
+
 ### Rachel Parris (English, Standard)
 
-- Favorites
+
+* Favorites
 * [How Not to Sexually Harass People](https://www.youtube.com/watch?v=TMfStd3v330)
 * [Online Abuse](https://www.youtube.com/watch?v=qxFL1LvNVqo)
 * [How to Reduce Immigration](https://www.youtube.com/watch?v=FTKAP-HOwbE)
@@ -6050,13 +5930,17 @@ Barcarolle
 * [Millenials](https://www.youtube.com/watch?v=mWY8OswDG2s)
 * [Feminism](https://www.youtube.com/watch?v=rTcIERHiJiE)* 
 
+
 ## Key & Peele
 
-- Favorites
+
+* Favorites
+
 
 ### SNL (American, standard)
 
-- Favorites
+
+* Favorites
 * [What's That Name](https://www.youtube.com/watch?v=rImxuuD_kwM)
 * [Translator](https://www.youtube.com/watch?v=yfCCwEf_J5A)
 * [Irish Dating Show](https://www.youtube.com/watch?v=1_glHa8F7fA)
@@ -6070,17 +5954,23 @@ Barcarolle
 * [Neo-Confederate Meeting](https://www.youtube.com/watch?v=nKcUOUYzDXA)
 * [Threw It on the Ground](https://www.youtube.com/watch?v=RTgBfRTABs4)* 
 
+
 ### Last Week Tonight (English)
+
 
 ### Daniel Tosh (standard American)
 
+
 ### Anthony Jeselnik (standard American)
+
 
 ### Josh Johnson (American, southern)
 * [Full Set](https://www.youtube.com/watch?v=ybnvLRHVbjM)
 * [Catfishing the KKK](https://www.youtube.com/watch?v=WULYEegtTGc)
 
+
 ### Frankie Boyle (Scottish)
+
 
 ### Jimmy Carr (standard British English, but good at accents)
 * [Jimmy's Guide To Accents | Jimmy Carr](https://www.youtube.com/watch?v=Q92-tiNtw8A)
@@ -6088,25 +5978,32 @@ Barcarolle
 * [Show 2](https://www.youtube.com/watch?v=rmSknklwJT8&t=1244s)
 * [Show 3](https://www.youtube.com/watch?v=4pCGLT65uMU&t=1605s)
 
+
 ### Trevor Noah (South African, extremely good at accents)
+
 
 ### Aisling Bea (Irish)
 
+
 ### Tiff Stevenson (English)
+
 
 ### Ed Byrne (Irish)
 
+
 ### Jim Jefferies (Australian)
 
+
 ### Andy Parsons (English - Cornwall Accent)
+
 
 ### Dave Chappelle (U.S. - AAVE)
 * [German Learning Resources]()
 * hlang A modern language-learning platform | https://www.linuxlinks.com/librelingo-language-learning-platform/* hlang Extensible flashcard learning program | https://www.linuxlinks.com/Anki/* hlang Foreign Language Text Reader | https://www.linuxlinks.com/FLTR/* hlang French and Italian conjugator | https://www.linuxlinks.com/Verbiste/* hlang Front-end for the French computing dictionary Jargon Informatique | https://www.linuxlinks.com/jargon-informatique-front-end-for-the-french-computing-dictionary-jargon-informatique/* hlang Japanese vocabulary and kanji dictionary | https://www.linuxlinks.com/TagainiJisho/* hlang Language learning application based on LibreLingo |https://www.linuxlinks.com/glossaico-language-learning-application-librelingo/* hlang Language-mining tool to help English speakers understand Chinese | https://www.linuxlinks.com/StepintoChinese/* hlang Learn words in a foreign language | https://www.linuxlinks.com/OpenTeacher/* hlang Pronunciation trainer - The KDE Education Project | https://www.linuxlinks.com/artikulate-pronunciation-trainer-the-kde-education-project/* hlang Read and listen, save and test words in context | https://www.linuxlinks.com/LearningWithTexts/* hlang Train your oral skills in foreign languages | https://www.linuxlinks.com/Perroquet/* hlang Vocabulary trainer for KDE 5 | https://www.linuxlinks.com/Parley/* 
-- H.G
+* H.G
 * http://www.medialab.sciences-po.fr/fr/* 
-- H.H
-- H.I
+* H.H
+* H.I
 * → [Literature List](https://docs.google.com/spreadsheets/d/1TxfdNQxmp-A1vBmlXtn2m5hBqmPAnY569q3Paaok4UY/edit?usp=sharing)
 * - List
 * http://libgen.is/search.php?&req=thomas+foster&phrase=1&view=simple&column=def&sort=language&sortmode=DESC
@@ -7077,7 +6974,7 @@ Barcarolle
 * [Щоденник: 1948-1949, 1967-1968, 1971-1976](http://93.174.95.29/_ads/36A10753556D258A193854C7353778B2)
 *            
 * https://www.newyorker.com/magazine/2019/01/28/how-to-read-the-good-books* 
-- Notes
+* Notes
 * Notes
 * Art Theory
 * What is art?
@@ -7090,30 +6987,40 @@ Barcarolle
 * Tolstoy und sein Lebensansatz, Sprachkenntnisse
 * Many great artists are tortured individuals. Which is the cause, and which is the effect? (B11)
 
+
 * Are opportunity and discrimination the only factors in the disproportionate representation of men in the humanities? (B36)
 * - hard to say: essentially a variation on the nature-nurture debate
 * - Sandra: social pressure played a part
 * - 
 * How does one exactly define “to have”? (B66)
 
+
 * How does a sentence differ from a phrase? (S1)
+
 
 * What are the differences between a thought, idea, and statement? (DG15)
 
+
 * What is the relationship between words and meaning? (S5)
+
 
 * Are some languages intrinsically better than others? (DG18) -
 
+
 * What is the origin of the gender of words? (P16)
+
 
 * Somewhere between the extremes of a word for every possible meaning and a very basic set of words used to describe all meanings is the spectrum of variance in actual languages. In this sense, how do different languages compare?
 
+
 * (Duplicated in Psychology) Why does negative emotion seem to drive proportionally more creative endeavor? Is this the equivalent of a “market failure” in psychology?
+
 
 * Patrick Bosso - l'accent français
 * Why are such a disproportionate number of songs about romantic love, as opposed to other topics?
 * Are opportunity (or lack of it) and discrimination the only factors in the relative underrepresentation of women in the humanities?
 * irony of origin
+
 
 * learn quotation mark rules
 * Feedback on essays: don't imply; state ideas and make connections; keep the thesis central and relaevant - better outlining
@@ -7121,9 +7028,12 @@ Barcarolle
 * read Wired Germany and Merkur
 * Paramedic revision method: circle prepositions, circle forms of "to be", find the actor, put action in a simple active verb, get the sentence going fast
 
+
 * Я повинен відповісти своїм власним життям за те, що я побачив і почув у мистецтві. - Бахтін
 
+
 * Beowulf
+
 
 * Best fruits, vegetables, and nuts:
 * - apple, pear, mandarin, persimmon, grapefruit, pomegranate, apricot, cherry (black or red), almond, hazelnut, lime, walnut, olive, avocado, kumquat, quince, fig, mulberry, peach, nectarine, plum, asian pear, orange, tangerine, grape, raspberry, blackberry, salmonberry, loganberry, boysenberry, blueberry, gooseberry, watermelon, honeydew, cantaloupe
@@ -7131,6 +7041,7 @@ Barcarolle
 * - Peanut
 * - Carrot, tomato, onion, bell pepper, hot pepper, cucumber, potato, zucchini, squash (butternut, acorn, spaghetti,), pumpkin, radish, asparagus, chard, eggplant, corn, broccoli, cauliflower, spinach, sweet potato, yam, beet, cabbage, celery
 * - oregano, thyme, rosemary, basil, bay, cilantro, dill, anise, parsley
+
 
 * Ideas in Dostoevsky
 * Self-awareness
@@ -7145,6 +7056,7 @@ Barcarolle
 * Connection between real and abstract; uselessness of ideas alone
 * Role of religious thought in the intellectual realm; danger of intellectualism divorced from faith
 * Education and free will, as opposed to coercive education and ideologies
+
 
 * 23 Great Solo Piano Works: Bach - Das wohltempierte Klavier,Goldberg Variations
 * Mozart - PS in C Minor, k. 457
@@ -7163,33 +7075,40 @@ Barcarolle
 * Prokofiev - Piano Sonata no. 7
 * Copland - Piano Variations
 
+
 * - Talk beginning: Most talks in Church entail a certain degree of hypocrisy, and this one is no exception. I don't even perfectly understand everything I'll say to you today, and I fall short in applying it to my own life. I speak not as a flawless example of the principles I teach, but as a sinner who understands his dependance on Jesus Christ and struggles to apply His teachings to his life. I love Him, and His Gospel means everything to me.
 * - Our main purpose in coming together today is to remember and worship our Savior and to renew our covenants with Him by partaking the sacrament. Everything I say is circumscribed by the purpose of this meeting. ...
 
+
 * Lilith (cf. Eve)
 *     
-- Creativity Log
+* Creativity Log
 * Creatividad de música
 * Musical Composition and Arrangement
 * - March 2015 - First vocal arrangement: 5-part men’s a cappella arrangement of “Savior, Redeemer of My Soul” - performed 15.3.15, with myself on Baritone 2 and a solo over a vowel background on the 2nd verse
 * - September 3rd, 2015 - Playing at the piano, I discovered that experimenting and having fun are the best way for me to develop new material. I might do well to have a recorder at hand next time, so that I don’t forget. Interestingly, I find that this approach helps me to avoid parroting my favorite composers; I am still naturally influenced by them, but I have begun to find my own voice.
 * - Octobr 6th, 2015 - I sat down with a recorder to save some of my ideas for future use, and I was able to come up with some original, viable ideas. I enjoy the freedom of improvisation.
 
+
 * Creatividad de atlética y danza
 * Athletics and Sports
 * March 18th, 2015 - I have been experimenting lately, and I have found that an early-morning run followed up by pullups, flutter kicks, pullups, oblique crunches, lunges, etc. in rapid succession, along with barefoot sprints and/or on grass is a nice combination. I have also been inserting random bouts of pushups and flutter kicks into my studies (mostly between the aisles in the library) as a way to stay somewhat active, and it has helped me to stay active and alert; I think these new ideas are working.
+
 
 * Creatividad de artes verbales
 * Writing
 * - September 4th, 2015 - Inspired by authors such as Dostoevsky, Dickens, Gogol, and Hardy, I have decided that I will at least write a short story, if only for fun. I need to begin thinking, including subconsciously, about what kinds of styles, themes, characters, and so on, I would like to write.
 
+
 * - 19.9.2015 - For the first time in a long time, I sat down and wrote a poem. I chose not to use rhyming, but to have four lines of 4 beats in 8 verses. I chose as my theme some of my own personal struggles, and wrote almost in a “stream-of-consciousness” style.
+
 
 * Creatividad de artes visuales y culinárias
 * Cuisine
 * - March 13th, 2015 - I took several hours after work to bake a double batch of bread. After separating the loaves, I made several varieties: Plain rolls (large), cinnamon raisin, peanut butter and raisin, sun-dried tomato and herb, and corn-and-wheat bread. Burning the rolls slightly on the bottom was an accident that turned out nicely. The bread turned out nicely, especially the sun-dried tomato loaf.
 
-- Misc
+
+* Misc
 * [Histoire du théâtre au 17e siècle - Français Première - Les Bons Profs - YouTube](https://www.youtube.com/watch?v=mWFVMDMfkPo&list=PL3jeNEatPhonSbxR4OHXG2chC3eKma4b9)
 * http://www.laboiteverte.fr/les-12-principes-basiques-lanimation/
 * https://acculturated.com/the-greatness-of-jurassic-park/
@@ -7211,7 +7130,7 @@ Barcarolle
 * Понедельник начинается в субботу
 * Трудно быть богом
 *     
-- Unsorted Notes
+* Unsorted Notes
 * Sort!
 * H
 * Deutsch:
@@ -7223,6 +7142,7 @@ Barcarolle
 * Oberdeutsch (West-, Ost-)
 * Schweizerdeutsch
 * Österreichisch
+
 
 * Русские:
 * северное
@@ -7236,6 +7156,7 @@ Barcarolle
 * рязанский
 * западны
 * южный
+
 
 * Idioms
 * as silly a s a goose
@@ -7265,10 +7186,12 @@ Barcarolle
 * once in a blue moon
 * in black and white
 
+
 * Greek, Latin etymologies of words in other languages
 * beste etym. Wörterbücher für 11, 12
 * OPI vs C/B/A system vs others
 * subtitles: vlogbrothers, hishe,
+
 
 * Categories for language learning:
 * - remembering more effectively
@@ -7278,12 +7201,15 @@ Barcarolle
 * - managing emotions
 * - learning with others
 
+
 * Dialekte:
+
 
 * Suffolk
 * Yorkshire
 * Scottish
 * Irish
+
 
 * Cockney
 * Northern Irish
@@ -7307,6 +7233,7 @@ Barcarolle
 * Utahn
 * South African
 
+
 * Ukrainian:
 * Northern (NW) - слобожанский
 * SE (middle Dnieprian) - приднепровский
@@ -7327,6 +7254,7 @@ Barcarolle
 * Wallon
 * Provençal
 
+
 * Gascon
 * Gascon
 * Breton
@@ -7345,17 +7273,23 @@ Barcarolle
 * Auvergnat
 * Tourangeaux
 
+
 * http://www.commgap.com/
+
 
 * [jeffbeatty.org](http://jeffbeatty.org/)
 * [mozilla.org](http://mozilla.org/)
 * (localization)
 
+
 * Software Training: train.byu.edu
+
 
 * How useful is it to speak x languages?
 
+
 * Bastian Sick
+
 
 * ANNE ROUMANOFF
 * Le Politicard
@@ -7365,9 +7299,12 @@ Barcarolle
 * Haroun
 * Les Grosses Têtes
 
+
 * Äquivalente von cspan in anderen Ländern
 
+
 * beste Zeitschriften aus Neuseeland, Australien
+
 
 * MEMRI***
 * Александр Волков
@@ -7384,7 +7321,8 @@ Barcarolle
 * Western writers in USSR: Bernard Shaw, H. G. Wells, Henri Barbusse, Romain Roland, André Gide, Lion Feuchtwanger
 * Moscow vs Paris in world literature
 
-- Reading List
+
+* Reading List
 * [Kurs: Meisterwerke der Kunst](https://training.brockhaus.de/material/297)
 * [Бегство от реальности в гуманитарных науках.pdf](https://vk.com/doc168102522_438231708?hash=dfe1ac5fed47764abe&dl=084a8c681e369b7787)
 * [Подборка книг из серии «Иcследования культуры»](https://vk.com/wall-176520650_3274)
@@ -7500,13 +7438,14 @@ Barcarolle
 * [Beilight – Biss zum Abendbrot (KOMÖDIE ganzer Film, Twilight Parodie, Comedy Filme Deutsch komplett) - YouTube](https://www.youtube.com/watch?v=pFQjC5qv3co)
 * [FAUN - Renaissance (Full Album) - YouTube](https://www.youtube.com/watch?v=Pr8qat8PFcI)
 * [Meet - fiq-yuvi-pdt](https://meet.google.com/fiq-yuvi-pdt?hs=49)* 
-- H.L
+* H.L
 * http://www.fussball-wm.pro/
 * http://cadenaser.com/programa/play_futbol/
 * http://meinsportradio.de/
 * https://www.sports.ru/
 
-- Sort
+
+* Sort
 * [Будь как Дудь: почему журналиста ненавидят госканалы, комментирует Кремль и обожают зрители](https://vk.com/away.php?to=https%3A%2F%2Ftvrain.ru%2Fteleshow%2Fvechernee_shou%2Fbud_kak_dud-493461%2F%3Futm_term%3D493461%26utm_source%3Dvk%26utm_medium%3Dsocial%26utm_campaign%3Dinstant%26utm_content%3Dtvrain-main)
 * https://thechive.com/
 * [Anna Karenina Film RU](https://vk.com/video?order=1&q=%D0%90%D0%BD%D0%BD%D0%B0%20%D0%9A%D0%B0%D1%80%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0&z=video-105195177_456244659)
@@ -7531,6 +7470,7 @@ Barcarolle
 * http://xochu-vse-znat.ru/
 * https://en.wikipedia.org/wiki/Theory_of_art
 * https://gutenberg.spiegel.de/buch/der-schweizerische-robinson-833/1
+
 
 * https://www.imarabe.org/fr/actualites/centre-de-langue-et-de-civilisation-arabes/2020/l-arabe-en-chantant-12 
 * [VOCES8: Requiem, Op. 48 by Gabriel Fauré - YouTube](https://www.youtube.com/watch?v=4xZbnY5jQSk)

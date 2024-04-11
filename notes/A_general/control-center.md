@@ -1,28 +1,38 @@
 # Control Center (Notion)
 
+
 # Control Center
+
 
 ## Projects
 
+
 ### General Resource Overview
+
 
 ## Projects
 
 1. Complete ‘Media and Self-Presentation’
+
 2. Go through and write down all passwords in Bitwarden, Google Chrome, Firefox, and Edge, remove irrelevant
+
 3. Recover and write down all passwords for sites listed in ‘Media and Self-Presentation’
+
 
 ## Learning Resources
 
-- [Book Authority](https://bookauthority.org/categories)
-- [FiveBooks]()
-- [AnkiWeb](https://ankiweb.net/about)
-- [Ari 9000](https://ari9000.com/home)
+
+* [Book Authority](https://bookauthority.org/categories)
+* [FiveBooks]()
+* [AnkiWeb](https://ankiweb.net/about)
+* [Ari 9000](https://ari9000.com/home)
+
 
 ## Media and Self-Presentation
 
-- [Personal site](https://isaacrriley.com/) (currently inactive)
-- Mastodon
+
+* [Personal site](https://isaacrriley.com/) (currently inactive)
+* Mastodon
     
     @yelircaasi@fosstodon.org
     
@@ -38,33 +48,35 @@
     
     @yelircaasi@masto.ai
     
-- Matrix
+* Matrix
     
     @yelircaasi:matrix.org
     
-- Lemmy
+* Lemmy
     - https://lemmy.ml/
-- [Revolt](https://app.revolt.chat/)
-- [Discord](https://discord.com/channels/@me)
-- [Raddle](https://raddle.me/)
-- [Github](https://github.com/yelircaasi)
-- [Goodreads](https://www.goodreads.com/user/show/53558304-isaac-riley)
-- [Linkedin](https://www.linkedin.com/in/isaac-r-riley/)
-- [YouTube](https://www.youtube.com/channel/UCX516FFVipNpb8txzjAMWrQ)
-- PeerTube
-- [Odysee](https://odysee.com/)
-- [VK](https://vk.com/isaacriley)
-- [Reddit](https://www.reddit.com)
+* [Revolt](https://app.revolt.chat/)
+* [Discord](https://discord.com/channels/@me)
+* [Raddle](https://raddle.me/)
+* [Github](https://github.com/yelircaasi)
+* [Goodreads](https://www.goodreads.com/user/show/53558304-isaac-riley)
+* [Linkedin](https://www.linkedin.com/in/isaac-r-riley/)
+* [YouTube](https://www.youtube.com/channel/UCX516FFVipNpb8txzjAMWrQ)
+* PeerTube
+* [Odysee](https://odysee.com/)
+* [VK](https://vk.com/isaacriley)
+* [Reddit](https://www.reddit.com)
     - yitzhak_r
     - duflo
     - yelircaasi
-- (Facebook)
-- (Instagram)d
-- (Twitter)
+* (Facebook)
+* (Instagram)d
+* (Twitter)
+
 
 ## Libraries
 
-- [Stadtbücherei Heidelberg > Mein Konto](https://bibli-open.heidelberg.de/Mein-Konto)
+
+* [Stadtbücherei Heidelberg > Mein Konto](https://bibli-open.heidelberg.de/Mein-Konto)
     - Bücher aus Heidelberg
         
         Abts, Dietmar: Grundkurs JAVA
@@ -215,20 +227,25 @@
         
         Zimmer, Heinrich: Philosophie und Religion Indiens
         
-- [Wiesloch](https://web-opac.kivbf.de/wiesloch/index.asp)
-- [Stadtbibliothek Mannheim > Mein Konto](https://katalog.mannheim.de/de-de/Mein-Konto)
+* [Wiesloch](https://web-opac.kivbf.de/wiesloch/index.asp)
+* [Stadtbibliothek Mannheim > Mein Konto](https://katalog.mannheim.de/de-de/Mein-Konto)
+
 
 ## [Routines, Lists, and Guidelines]()
 
+
 # Routines, Lists, and Guidelines
+
 
 ## Projects
 
+
 ## Мысли о планировании
 
-- Цель планирование: знать, что мне делать каждый день
-- Различать 3 степени: обязательное, желательное, дополнительное
-- Ziel
+
+* Цель планирование: знать, что мне делать каждый день
+* Различать 3 степени: обязательное, желательное, дополнительное
+* Ziel
     1.  Wissen, was zu tun ist
         
         + wie
@@ -239,10 +256,11 @@
         
         → kurzfristige und langfristige Ziele
         
-- Wichtige Bedenken
+* Wichtige Bedenken
     - Platz zum Nachholen und zum Vorarbeiten
     - Platz für Flexibilität und spontane Entscheidungen
     - Immer spazieren gehen oder Sport machen wenn mir faul zumute ist, oder wenn mir die Arbeitslust fehlt.
+
 
 ## Morgenroutine
 
@@ -264,6 +282,7 @@ Weisheitsliteratur studieren
 
 Tagesbeginn
 
+
 ## Abendroutine
 
 Wohnung gründlich aufräumen und ordnen
@@ -284,97 +303,157 @@ Meditation
 
 Schlaf
 
+
 ## Утренний ритуал
 
 1. Стакан воды
+
 2. Аффирмации
+
 3. Визуализация
+
 4. Зарядка
+
 5. Медитация
+
 6. Чтение
+
 7. Порядок (уборка)
+
 8. Процедуры: быстрый контрастный/холодный душ
+
 9. Процедуры: чистка зубов
+
 
 ## Вечерний ритуал
 
 1. Стакан воды
+
 2. Порядок (уборка)
+
 3. Подготовка вещей на завтрашний день (еда, рюкзак, одежда)
+
 4. Аффирмации
+
 5. Визуализация
+
 6. Дневник
+
 7. Итоги дня (еда, спорт, выполнение плана)
+
 8. Планирование
+
 9. Процедуры: быстрый контрастный/холодный душ
+
 10. Процедуры: чистка зубов
+
 11. Медитация
+
 12. Чтение (30м или до сна)
+
 
 ## Руководящие принципы
 
-- Достаточно спать
-- Всегда заниматься чем-то, а если ничем, то правильно
-- совершенно присутствовать в мысленном плане
-- Постоянно думать об идеале
-- Всегда делать то, что делала бы лучшая версия меня (и часто думать оь этом)
-- Постоянно учиться на опыте и соответственно поправляться
-- Ставить реалистичные цели и уделять времени на отдых и лень
-- Развивать атомические привычки
-- Применять стратегию профилактики: не полагаться единственно на силу воли
-- Регулярно задавать себе следующие вопросы: Какую боль я хочу в жизни? Ради чего я готов страдать?
+
+* Достаточно спать
+* Всегда заниматься чем-то, а если ничем, то правильно
+* совершенно присутствовать в мысленном плане
+* Постоянно думать об идеале
+* Всегда делать то, что делала бы лучшая версия меня (и часто думать оь этом)
+* Постоянно учиться на опыте и соответственно поправляться
+* Ставить реалистичные цели и уделять времени на отдых и лень
+* Развивать атомические привычки
+* Применять стратегию профилактики: не полагаться единственно на силу воли
+* Регулярно задавать себе следующие вопросы: Какую боль я хочу в жизни? Ради чего я готов страдать?
+
 
 ## Ритуал чтения
 
 1. Скорое прочтение для надзора
+
 2. Аннотация (ключевые моменты и вопросы)
+
 3. Перечтение
+
 4. Набрать главные идеи и выводы
+
 
 ## Ритуал изучения (длиннее)
 
 1. Цели для чтения
+
 2. Анализ структуры: как построен текст?
+
 3. Вопросы о тексте
+
 4. Обретение необходимой для понинимания основы знаний
+
 5. Скорое прочтение для надзора (узнать значение новых слов)
+
 6. Пересмотр вопросов: какие еще без ответа, какие возникли новые вопросы?
+
 7. Второе прочтение: быстро или медленно, как нужно
+
 8. Записки о прочитанном
+
 9. Внимательное перечтение еще неясных отрывков
+
 10. Презентация о прочитанном
+
 11. Объяснение прочитанного воображаемому другу
+
 12. Экзамен по прочитанному (составить и сдать)
+
 13. Оценка за экзамен
+
 14. Дополнение записок
+
 
 ## Ритуал изучения (короче)
 
 1. Скорое прочтение для надзора
+
 2. Вопросы о тексте
+
 3. Скорый поиск ответов на вопросы
+
 4. Короткий конспект презентации 
+
 5. Второй этап вопросов
+
 6. Полное прочтение
+
 7. Записки (рукой, затем набрать и выбросить)
+
 8. Короткая презентация
+
 9. Записки о том, что еще не выяснилось
+
 
 ## Code Reading Procedure
 
 1. Read the README, if present
+
 2. Look at the directory structure and write down the role and purpose of each folder
+
 3. Identify the (or a) standard script for running the code
+
 4. "Unravel" the code, for example in a Jupyter notebook
+
 5. Install requirements and run and debug the code (if applicable)
+
 6. Go through and comment the code
+
 7.
+
 
 # General Vision
 
 Eudaimonia: a  life of Stoic virtue, Epicurean refinement, Daoist balance and Buddhist [equanimity](https://www.psychologytoday.com/us/blog/turning-straw-gold/201911/equanimity-the-key-happiness).
 
+
 # Character Blueprint
+
 
 ## Mind:
 
@@ -386,7 +465,8 @@ Geist
 
 Esprit
 
-- Intelligent - I know and understand much about a wide variety of topics. I use my mind as a powerful tool.
+
+* Intelligent - I know and understand much about a wide variety of topics. I use my mind as a powerful tool.
     
     Inteligente - Yo sé y comprendo mucho en numerosas esferas. Utilizo mi mente como un instrumento poderoso.
     
@@ -396,7 +476,7 @@ Esprit
     
     Intelligent - Je sais et comprends beaucoup sur une grande variété de sujets. J'utilise mon esprit comme un outil puissant.
     
-- Inquisitive - I deeply desire to know and understand, and I expend the necessary effort to learn. I derive real gratification from learning.
+* Inquisitive - I deeply desire to know and understand, and I expend the necessary effort to learn. I derive real gratification from learning.
     
     Inquisitivo - Yo quiero profondemente saber y comprender muchas cosas, y doy el esfuerzo necesario para aprender. Obtengo verdadera gratificación del aprender.
     
@@ -406,7 +486,7 @@ Esprit
     
     Curieux - Je veux profondément savoir et comprendre, et je dépense les efforts nécessaires pour apprendre. Je tire la satisfaction réelle de l'apprentissage.
     
-- Analytic - I can think of a thing, system, situation, idea, or other entity in terms of its constituent parts and their relationship to each other, so as to better understand the whole.
+* Analytic - I can think of a thing, system, situation, idea, or other entity in terms of its constituent parts and their relationship to each other, so as to better understand the whole.
     
     Analítico - Puedo pensar en una cosa, en un sistema, en una situación, en una idea u otra entidad en términos de sus partes constituyentes y de su relación entre ellas, para comprender mejor el todo.
     
@@ -416,7 +496,7 @@ Esprit
     
     Analytique - Je peux penser à une chose, à un système, à une situation, à une idée ou à une autre entité en termes de ses éléments constitutifs et de leurs rapports les uns avec les autres, afin de mieux comprendre l'ensemble.
     
-- Rational - I draw conclusions and make decisions that are logically consistent with my understanding. I think clearly and exercise sound judgement.
+* Rational - I draw conclusions and make decisions that are logically consistent with my understanding. I think clearly and exercise sound judgement.
     
     Racional - Puedo sacar conclusiones y tomar decisiones que son lógicamente consistentes con mi entendimiento. Pienso claramente y ejerzo juicio sano.
     
@@ -426,7 +506,7 @@ Esprit
     
     Rationnel - Je tire des conclusions et prends des décisions qui sont logiquement conformes à ma compréhension. Je pense clairement et j'exerce le jugement sain.
     
-- Insightful - I see past the superficialities of people, systems, ideas, etc., so as to develop an idea of their true character. I am not deceived in the long term.
+* Insightful - I see past the superficialities of people, systems, ideas, etc., so as to develop an idea of their true character. I am not deceived in the long term.
     
     Perspicaz - Veo más allá de las superficialidades de las personas, sistemas, ideas, etc., para desarrollar una idea de su verdadero carácter. No me engaño en el largo plazo.
     
@@ -438,7 +518,7 @@ Esprit
     
     Perspicace - Je vois au-delà des superficialités des gens, des systèmes, des idées, etc., afin de développer une idée de leur véritable caractère. Je ne me laisse pas tromper à long terme.
     
-- Self-Aware - I have an accurate idea who I am. I can mentally stand apart from myself to examine myself and find ways to improve and correct myself.
+* Self-Aware - I have an accurate idea who I am. I can mentally stand apart from myself to examine myself and find ways to improve and correct myself.
     
     Autoconciente - Tengo una idea exacta de quién soy. Puedo mentalmente apartarse de mí mismo para examinarme a mí mismo y encontrar maneras de mejorar y corregirme.
     
@@ -446,7 +526,7 @@ Esprit
     
     Auto-connaissant - J'ai une idée exacte de qui je suis. Je peux me distancer mentalement de moi-même pour m'examiner et pour trouver des façons de m'améliorer et de me corriger.
     
-- Humble - I understand what I am and what I am not. I do not boast (i.e. intentionally solicit praise or admiration) or draw undue attention to myself. I acknowledge my imperfections without degrading myself and gladly accept criticism and correction.
+* Humble - I understand what I am and what I am not. I do not boast (i.e. intentionally solicit praise or admiration) or draw undue attention to myself. I acknowledge my imperfections without degrading myself and gladly accept criticism and correction.
     
     Humilde - Entiendo qué soy y qué no soy. No me jacto (es decir, no solicito intencionalmente alabanza o admiración) y tampoco llamo la atención indebida a mí mismo. Reconozco mis imperfecciones sin degradarme y acepto con gusto la crítica y la corrección.
     
@@ -456,7 +536,7 @@ Esprit
     
     Humble - Je comprends ce que je suis et ce que je ne suis pas. Je ne me vante pas (c'est-à-dire que je ne sollicite pas intentionnellement l'éloge ou l'admiration) et je n'attire pas l'attention indue sur moi-même. Je reconnais mes imperfections sans me dégrader et j'accepte volontiers la critique et la correction.
     
-- Joyful - I accentuate the good in life, seeking to cultivate positive feelings in myself and others.
+* Joyful - I accentuate the good in life, seeking to cultivate positive feelings in myself and others.
     
     Alegre - Entiendo que la vida es buena, y que hay mucho de que estar contento. Eso es lo que busco y encuentro en la vida.
     
@@ -466,7 +546,7 @@ Esprit
     
     Joyeux - Je comprends que la vie est bonne, et qu'il ya beaucoup de choses dont on peut être heureux. C'est ce que je cherche et ce que je trouve dans la vie.
     
-- Serious - While I have a well-developed sense of humor, I do not take lightly things that deserve respect, consideration, sensitivity, and reverence. I care deeply about my values.
+* Serious - While I have a well-developed sense of humor, I do not take lightly things that deserve respect, consideration, sensitivity, and reverence. I care deeply about my values.
     
     Grave - Aunque tengo un sentido del humor bien desarrollado, no tomo a la ligera cosas que merecen respeto, consideración y reverencia. Me importan profundamente mis valores.
     
@@ -476,7 +556,7 @@ Esprit
     
     Sérieux - Bien que j'ai un sens de l'humour bien développé, je ne prends pas à la légère les choses qui méritent le respect, la considération et la révérence. Je me soucie profondément de mes valeurs.
     
-- Serene - I do not stress out about what I cannot change. I do not allow other people or external circumstances to ruin my mood or composure. I am reconciled to reality, and while I have lofty vision and goals and do not make excuses, I do not require the impossible of myself.
+* Serene - I do not stress out about what I cannot change. I do not allow other people or external circumstances to ruin my mood or composure. I am reconciled to reality, and while I have lofty vision and goals and do not make excuses, I do not require the impossible of myself.
     
     Sereno - No me preocupo por lo que no puedo cambiar. Estoy reconciliado con la realidad, y aunque tengo una visión y objetivos elevados y no hago excusas, no necesito lo imposible de mí mismo.
     
@@ -486,7 +566,7 @@ Esprit
     
     Serein - Je ne m'inquiète pas à propos de ce que je ne peux pas changer. Je suis réconcilié avec la réalité, et tandis que j'ai une vision et des objectifs élevés et ne pas faire des excuses, je n'exige pas l'impossible de moi-même.
     
-- Observant - I learn by watching and thinking about people, systems, situations, and phenomena.
+* Observant - I learn by watching and thinking about people, systems, situations, and phenomena.
     
     Observante - Aprendo observando y pensando en las personas, sistemas, situaciones y fenómenos.
     
@@ -496,7 +576,7 @@ Esprit
     
     Observateur - J'apprends en observant les gens, les systèmes, les situations et les phénomènes et en pensant à eux.
     
-- Mindful - I remember and learn from the past and I account for the future, but I live in the present. I welcome thoughts and feelings as important visitors who have something to tell me.
+* Mindful - I remember and learn from the past and I account for the future, but I live in the present. I welcome thoughts and feelings as important visitors who have something to tell me.
     
     Consciente - Recuerdo el pasado y aprendo de él. Me preparo para el futuro, pero vivo en el presente.
     
@@ -506,6 +586,7 @@ Esprit
     
     Conscient - Je me souviens du passé et j'en apprends, et je me prépare pour l'avenir, mais je vis dans le présent.
     
+
 
 ## Action:
 
@@ -517,7 +598,8 @@ Tat
 
 Action
 
-- Driven - I have a clear vision of what I want to achieve and who I want to become. My vision provides me with a powerful desire to do whatever is necessary to achieve my goals, and I act not because of external pressures, but because I have a meaningful reason for my actions. My drive empowers me to overcome any opposition.
+
+* Driven - I have a clear vision of what I want to achieve and who I want to become. My vision provides me with a powerful desire to do whatever is necessary to achieve my goals, and I act not because of external pressures, but because I have a meaningful reason for my actions. My drive empowers me to overcome any opposition.
     
     Impulsado - Tengo una visión clara de lo que quiero lograr y de la persona que quiero ser. Mi visión me proporciona un poderoso deseo de hacer lo que sea necesario para alcanzar mis metas, y actúo no por presiones externas, sino porque tengo una razón significativa para mis acciones. Mi impulso me permite superar cualquier oposición.
     
@@ -527,7 +609,7 @@ Action
     
     Poussé - J'ai une vision claire de ce que je veux atteindre et qui je veux devenir. Ma vision me donne un puissant désir de faire tout ce qui est nécessaire pour atteindre mes objectifs, et je n'agis pas en raison de pressions externes, mais parce que j'ai une raison significative pour mes actions. Mon entraînement me permet de surmonter toute opposition.
     
-- Capable - I develop the skills I need to perform my work, and to do what I want to do. I use my abilities to bless others.
+* Capable - I develop the skills I need to perform my work, and to do what I want to do. I use my abilities to bless others.
     
     Capaz - Desarrollo las habilidades que necesito para realizar mi trabajo, y hago lo que quiero hacer. Utilizo mis habilidades para bendecir a los demás.
     
@@ -537,7 +619,7 @@ Action
     
     Capable - Je développe les compétences dont j'ai besoin pour accomplir mon travail et pour faire ce que je veux faire. J'utilise mes capacités pour en faire profiter les autres.
     
-- Creative - I use the knowledge and abilities I have in new and interesting ways. I make and do things that are beautiful and unique.
+* Creative - I use the knowledge and abilities I have in new and interesting ways. I make and do things that are beautiful and unique.
     
     Creativo - Utilizo los conocimientos y habilidades que tengo de formas nuevas e interesantes. Hago y hago cosas que son hermosas y únicas.
     
@@ -547,7 +629,7 @@ Action
     
     Créatif - J'utilise les connaissances et les capacités que je possède de nouvelles et intéressantes manières. Je fais et crée des choses qui sont belles et uniques.
     
-- Clean - I keep myself, my possessions, and my surroundings in an order and condition that make life more pleasant and efficient.
+* Clean - I keep myself, my possessions, and my surroundings in an order and condition that make life more pleasant and efficient.
     
     Limpio - Me mantengo y mantengo mis posesiones y mis alrededores en un orden y en una condición que hace la vida más agradable y eficiente.
     
@@ -557,7 +639,7 @@ Action
     
     Propre - Je garde moi-même, mes biens et mes environs dans un ordre et une condition qui rend la vie plus agréable et efficace.
     
-- Balanced - I keep the elements of my life in a proper proportion, so as to keep myself and others healthy and happy. I avoid harmful extremes.
+* Balanced - I keep the elements of my life in a proper proportion, so as to keep myself and others healthy and happy. I avoid harmful extremes.
     
     Equilibrado - Mantengo los elementos de mi vida en una proporción adecuada, para mantener a mí ya los demás sanos y felices. Evito los extremos dañinos.
     
@@ -567,7 +649,7 @@ Action
     
     Équilibré - Je garde les éléments de ma vie dans une proportion appropriée, afin de garder moi et les autres en bonne santé et heureux. J'évite les extrêmes dangereux.
     
-- Intense - I apply all of myself to the task at hand. When I do something, I do it well.
+* Intense - I apply all of myself to the task at hand. When I do something, I do it well.
     
     Intenso - Me aplico todo a la tarea que me toca. Cuando hago algo, lo hago bien.
     
@@ -577,7 +659,7 @@ Action
     
     Intense - Je m'applique entièrement à la tâche à accomplir. Quand je fais quelque chose, je le fais bien.
     
-- Prompt - I act quickly and do not wait to get started. I do not procrastinate.
+* Prompt - I act quickly and do not wait to get started. I do not procrastinate.
     
     Rápido - Actúo rápidamente y no espero para empezar. Yo no procrastino por principio.
     
@@ -587,7 +669,7 @@ Action
     
     Rapide - J'agis rapidement et n'attends pas pour commencer. Je ne procrastine pas par principe.
     
-- Punctual - When I plan or commit to be at a certain place at a certain time, I go early. I make plans and arrangements to allow for unforeseen circumstances and to be reliable.
+* Punctual - When I plan or commit to be at a certain place at a certain time, I go early. I make plans and arrangements to allow for unforeseen circumstances and to be reliable.
     
     Puntual - Cuando planeo o me comprometo a estar en un lugar determinado en un momento determinado, voy temprano. Hago planes y arreglos para permitir circunstancias imprevistas y para ser confiable.
     
@@ -597,7 +679,7 @@ Action
     
     Ponctuel - Quand je planifie d'être à un certain endroit à un certain moment et quand je m'engage à l'être, je vais tôt. Je fais des plans et des arrangements pour prendre en compte des circonstances imprévues et pour être fiable.
     
-- Steady - I maintain a constant pace to finish tasks in good time. I do not slack off, nor do I work so feverishly that I burn out. I can be counted on.
+* Steady - I maintain a constant pace to finish tasks in good time. I do not slack off, nor do I work so feverishly that I burn out. I can be counted on.
     
     Estable - Mantengo un ritmo constante para terminar las tareas a tiempo. No me aflojo, ni trabajo tan febrilmente que me queme. Se me puede contar.
     
@@ -607,7 +689,7 @@ Action
     
     Stable - Je maintiens un rythme constant pour terminer les tâches en temps utile. Je ne me relâche pas, mais je ne travaille pas si fiévreusement que je brûle. On peut compter sur moi.
     
-- Adaptable - I accept change as a normal and good part of life and do the best I can in any circumstances. I do not allow changed circumstances to compromise my progress toward goals.
+* Adaptable - I accept change as a normal and good part of life and do the best I can in any circumstances. I do not allow changed circumstances to compromise my progress toward goals.
     
     Adaptable - Acepto el cambio como una parte normal y buena de la vida y hago lo mejor que puedo en cualquier circunstancia. No permito que las circunstancias cambiadas comprometan mi progreso hacia metas.
     
@@ -617,7 +699,7 @@ Action
     
     Adaptable - J'accepte le changement comme une partie normale et bonne de la vie et je fais le meilleur que je peux dans n'importe quelles circonstances. Je ne permets pas que les circonstances modifiées compromettent mes progrès vers les buts.
     
-- Prepared - I remember the future and consistently plan, practice, and live such that I can perform anything that will be required and avoid unhealthy stress.
+* Prepared - I remember the future and consistently plan, practice, and live such that I can perform anything that will be required and avoid unhealthy stress.
     
     Preparado - Recuerdo el futuro y planifico, practico y vivo consistemente de tal manera que puedo realizar cualquier cosa que sea requerida y evitar el estrés insalubre.
     
@@ -627,7 +709,7 @@ Action
     
     Préparé - Je me souviens de l'avenir et je planifie, pratique et vis systématiquement de sorte que je peux effectuer tout ce qui sera nécessaire et éviter le stress malsain.
     
-- Careful - I consider the consequences of my actions, watch myself closely, and avoid undue risk.
+* Careful - I consider the consequences of my actions, watch myself closely, and avoid undue risk.
     
     Cuidadoso - Me observo atentamente a mí mismo y evito el riesgo indebido.
     
@@ -637,7 +719,7 @@ Action
     
     Prudent - Je me surveille de près et évite les risques indus.
     
-- Courageous - I face challenges willingly and without fear.
+* Courageous - I face challenges willingly and without fear.
     
     Valiente - Me enfrento a desafíos de buena gana y sin miedo.
     
@@ -647,7 +729,7 @@ Action
     
     Courageux - Je fais face à des défis volontairement et sans crainte.
     
-- Ethical - I act out of concern for the well-being of others and myself.
+* Ethical - I act out of concern for the well-being of others and myself.
     
     Justo - Actúo con consideraci;on del bienestar de í mismo y de los demás.
     
@@ -657,6 +739,7 @@ Action
     
     Vertueux - J'agis avec la considération pour le bien-être de moi-même et des autres.
     
+
 
 ## Speech and Relationships:
 
@@ -668,7 +751,8 @@ Sprache und Beziehungen
 
 Discours et relations
 
-- Consistent - I live by the same set of principles and maintain the same values regardless of the situation I am in. I make the right choice every time. I am loyal and do not gossip or speak negatively of others on principle.
+
+* Consistent - I live by the same set of principles and maintain the same values regardless of the situation I am in. I make the right choice every time. I am loyal and do not gossip or speak negatively of others on principle.
     
     Consistente - Yo vivo por el mismo conjunto de principios y mantener los mismos valores independientemente de la situación en la que estoy. Hago la elección correcta cada vez. Soy leal y no hablo ni hablo negativamente de otros por principio.
     
@@ -678,7 +762,7 @@ Discours et relations
     
     Cohérent - Je vis par le même ensemble de principes et maintiens les mêmes valeurs indépendamment de la situation dans laquelle je me trouve. Je fais le bon choix à chaque fois. Je suis loyal et ni bavarde ni parle négativement des autres sur le principe.
     
-- Confident - I act without fear or nervousness, because I know that I make correct choices. I have the strength and moral authority that come only through virtuous living.
+* Confident - I act without fear or nervousness, because I know that I make correct choices. I have the strength and moral authority that come only through virtuous living.
     
     Confidente - Actúo sin temor ni nerviosismo, porque sé que hago elecciones correctas. Tengo la fuerza y la autoridad moral que vienen sólo por la vida justa.
     
@@ -688,7 +772,7 @@ Discours et relations
     
     Confiant - J'agis sans peur ni nervosité, car je sais que je fais des choix corrects. J'ai la force et l'autorité morale qui viennent seulement par la vie juste.
     
-- Reserved - I do not feel the need to be the center of attention, and I do not "play all my cards" at once. I am not cold or boring, but I refrain from excessive laughter and words.
+* Reserved - I do not feel the need to be the center of attention, and I do not "play all my cards" at once. I am not cold or boring, but I refrain from excessive laughter and words.
     
     Reservado - No siento la necesidad de ser el centro de atención, y yo no "toco todas mis cartas" de golpe. No soy frío ni aburrido, pero me abstengo de risas y palabras excesivas.
     
@@ -698,7 +782,7 @@ Discours et relations
     
     Réservé - Je ne ressens pas le besoin d'être le centre de l'attention, et je "ne joue pas toutes mes cartes" immediatement. Je ne suis ni froid ni ennuyeux, mais je m'abstiens de rires et de mots excessifs.
     
-- Cheerful - I accentuate all that is good in life. I am not oblivious to injustice and suffering, but I understand and remember that in many ways, life is good, and that being miserable will not make the world better for anyone. I do not allow external factors to ruin my mental composure.
+* Cheerful - I accentuate all that is good in life. I am not oblivious to injustice and suffering, but I understand and remember that in many ways, life is good, and that being miserable will not make the world better for anyone. I do not allow external factors to ruin my mental composure.
     
     Alegre - Acentúo todo lo que es bueno en la vida. No ignoro las pruebas y las imperfecciones, pero entiendo y recuerdo que la vida es buena. No permito que factores externos arruinen mi compostura mental, y soy feliz porque el Espíritu está conmigo.
     
@@ -708,7 +792,7 @@ Discours et relations
     
     Gai - J'accentue tout ce qui est bon dans la vie. Je ne suis pas inconscient des épreuves et des imperfections, mais je comprends et je me souviens que la vie est bonne. Je ne laisse pas les facteurs externes ruiner mon sang-froid mental, et je suis heureux parce que l'Esprit est avec moi.
     
-- Adventurous - I enjoy trying new things and having exciting experiences to make life more interesting.
+* Adventurous - I enjoy trying new things and having exciting experiences to make life more interesting.
     
     Aventurero - Me gusta probar cosas nuevas y tener experiencias emocionantes para hacer la vida más interesante.
     
@@ -718,7 +802,7 @@ Discours et relations
     
     Aventureux - J'aime essayer de nouvelles choses et avoir des expériences passionnantes pour rendre la vie plus intéressante.
     
-- Articulate - I express my thoughts and feelings clearly and concisely.
+* Articulate - I express my thoughts and feelings clearly and concisely.
     
     Articulado - Expreso mis pensamientos y sentimientos de manera clara y concisa.
     
@@ -728,7 +812,7 @@ Discours et relations
     
     Articulé - J'exprime mes pensées et mes sentiments de façon claire et concise.
     
-- Interested - I like to listen to and learn about other people and learn new things from them. I ask people good questions about themselves.
+* Interested - I like to listen to and learn about other people and learn new things from them. I ask people good questions about themselves.
     
     Interesado - Me gusta escuchar y aprender sobre otras personas y aprender cosas nuevas de ellos. Le hago a la gente buenas preguntas sobre sí mismos.
     
@@ -738,7 +822,7 @@ Discours et relations
     
     Intéressé - J'aime écouter et apprendre des autres et apprendre de nouvelles choses d'eux. Je demande aux gens de bonnes questions sur eux-mêmes.
     
-- Grateful - I remember and frequently acknowledge all that others do to enrich my life. I am happy because I understand that I am extremely fortunate in many ways.
+* Grateful - I remember and frequently acknowledge all that others do to enrich my life. I am happy because I understand that I am extremely fortunate in many ways.
     
     Agradecido - Recuerdo y frecuentemente reconozco todo lo que los demás hacen para enriquecer mi vida. Estoy feliz porque entiendo que la vida es realmente buena.
     
@@ -748,7 +832,7 @@ Discours et relations
     
     Reconnaissant - Je me souviens de tout ce que les autres font pour enrichir ma vie, et je le reconnais souvent . Je suis heureux parce que je comprends que la vie est vraiment bonne.
     
-- Humorous - I laugh at the odd and ironic and possess the ability to make myself and others laugh.
+* Humorous - I laugh at the odd and ironic and possess the ability to make myself and others laugh.
     
     Humorístico - Me río de lo raro e irónico y poseo la habilidad de hacer reír a los demás.
     
@@ -758,7 +842,7 @@ Discours et relations
     
     Humoristique - Je ris de l'étrange et ironique et je possède la capacité de faire rire à moi-même et  aux autres.
     
-- Charitable - I am driven by a genuine concern for the well-being of others.
+* Charitable - I am driven by a genuine concern for the well-being of others.
     
     Caritativo - Estoy lleno de y impulsado por el amor puro de Cristo.
     
@@ -768,7 +852,7 @@ Discours et relations
     
     Charitable - Je suis rempli et conduit par l'amour pur du Christ.
     
-- Forgiving - I do not dwell needlessly on the past mistakes and transgressions of myself or others that are no longer relevant, and I recognize the ability of an individual to change profoundly and lastingly. I understand that no failure is final and do not subscribe to the "all or nothing" mentality. I forgive others regardless of apology, and do not hold grudges.
+* Forgiving - I do not dwell needlessly on the past mistakes and transgressions of myself or others that are no longer relevant, and I recognize the ability of an individual to change profoundly and lastingly. I understand that no failure is final and do not subscribe to the "all or nothing" mentality. I forgive others regardless of apology, and do not hold grudges.
     
     Perdonador - Entiendo el poder justificador, potenciador y sanador de la Expiación de Jesucristo. No me fijo innecesariamente en los errores y pecados pasados de mí mismo o de otros que ya no son relevantes, y reconozco la capacidad de un individuo para cambiar profundamente y duradera. Entiendo que ningún fracaso es definitivo y no suscribo a la mentalidad de "todo o nada". Perdono a los demás sin importar disculpas, y no guardo rencores.
     
@@ -778,7 +862,7 @@ Discours et relations
     
     Pardonnant - Je comprends le pouvoir de justification, d'habilitation et de guérison de l'expiation de Jésus-Christ. Je ne m'attarde pas inutilement sur les erreurs passées et les péchés de moi-même ou d'autres qui ne sont plus pertinents, et je reconnais la capacité d'un individu à changer profondément et durablement. Je comprends qu'aucun échec n'est définitif et je ne souscris pas à la mentalité de "tout ou rien". Je pardonne aux autres sans tenir compte des excuses, et je ne tiens pas rancune.
     
-- Friendly - I enjoy relationships with others and make efforts to make new acquaintances and to maintain older ones. I show others that I care about them.
+* Friendly - I enjoy relationships with others and make efforts to make new acquaintances and to maintain older ones. I show others that I care about them.
     
     Amistoso - Disfruto de las relaciones con los demás y hacer esfuerzos para hacer nuevos conocidos y mantener los más viejos. Muestro a otros que me preocupo por ellos.
     
@@ -788,7 +872,7 @@ Discours et relations
     
     Amical - J'apprécie les relations avec les autres et fais des efforts pour faire de nouvelles connaissances et de maintenir les plus âgés. Je montre aux autres que je me soucie d'eux.
     
-- Loving - I express and show my love for others in appropriate situations and in appropriate ways.
+* Loving - I express and show my love for others in appropriate situations and in appropriate ways.
     
     Amoroso - Expreso y muestro mi amor por los demás en situaciones apropiadas y de formas apropiadas.
     
@@ -798,7 +882,7 @@ Discours et relations
     
     Affectueux - J'exprime et montre mon amour pour les autres dans des situations appropriées et de manière appropriée.
     
-- Cultured - I follow the rules of behavior and etiquette of the culture I am in. I am well-educated and informed, I take good care of myself, and I am the kind of person that others like to associate with.
+* Cultured - I follow the rules of behavior and etiquette of the culture I am in. I am well-educated and informed, I take good care of myself, and I am the kind of person that others like to associate with.
     
     Culto - Sigo las reglas de comportamiento y etiqueta de la cultura en la que me encontro. Soy bien educado e informado, cuido muy bien de mí mismo, y soy el tipo de persona con el que a otros les gusta asociar.
     
@@ -808,7 +892,7 @@ Discours et relations
     
     Cultivé - Je suis les règles du comportement et l'étiquette de la culture dans laquelle je me trouve. Je suis bien éduqué et informé, je prends bien soin de moi-même, et je suis le genre de personne avec lequel d'autres aiment associer.
     
-- Synergistic - I work together effectively with others, such that everyone's strengths are utilized to their best effects, and so that the results of our coordinated efforts are greater than the sum of our individual efforts could have been.
+* Synergistic - I work together effectively with others, such that everyone's strengths are utilized to their best effects, and so that the results of our coordinated efforts are greater than the sum of our individual efforts could have been.
     
     Sinérgico - Trabajo en conjunto de manera eficaz con los demás, de tal manera que las fuerzas de cada uno se utilizan para sus mejores efectos, y para que los resultados de nuestros esfuerzos coordinados sea mayor que la suma de nuestros esfuerzos individuales podría haber sido.
     
@@ -818,7 +902,7 @@ Discours et relations
     
     Synergique - Je travaille ensemble efficacement avec les autres, de sorte que les forces de chacun soient utilisées à leurs meilleurs effets, et ainsi les résultats de nos efforts coordonnés sont plus grands que la somme de nos efforts individuels auraient pu être.
     
-- Childlike - I am like a child in every desirable respect.
+* Childlike - I am like a child in every desirable respect.
     
     Infantil - Soy como un niño en todos los aspectos deseables.
     
@@ -828,7 +912,8 @@ Discours et relations
     
     Enfantin - Je suis comme un enfant à tous les égards souhaitables.
 
-- Visions for the future:
+
+* Visions for the future:
         * [Isaac 2023]()
         * [Isaac 2024]()
         * [Isaac 2028]()
@@ -847,11 +932,13 @@ Discours et relations
         * [Isaac 2093]()
     
 
+
 # Priorities and Balance
 
 Family, friends, philanthropy, nature, health, projects
 
-- Favorites - F.B
+
+* Favorites - F.B
         * [Python Tricks: A Buffet of Awesome Python Features | Dan Bader | download](https://de1lib.org/book/3525476/83453b?dsource=recommend)
     
     Cpp Resources
@@ -967,7 +1054,8 @@ Family, friends, philanthropy, nature, health, projects
     
 * https://knecon.atlassian.net/wiki/spaces/RES/pages/82018324/How+To+Rancher+Deployment
 
-- [Scratch](https://docs.google.com/spreadsheets/d/1R_ROr2OD94U8y6DtSUSDPsqCpu3p5n4JKh7TKV-Pam4/edit#gid=753172436)
-- [Anki Deck Control Center](https://docs.google.com/spreadsheets/d/1Lzr3GcZ2fpCONyJkTht8G-Ehn415gB2as3wXOvGlLHU/edit?usp=sharing)
-- [Betsy and iPhone](https://docs.google.com/spreadsheets/d/15SxjiP8gScdGW2ayp0YEUmdejTaMPzNx6C-L9nQGALc/edit?usp=sharing)
-- [Your Projects - Overleaf](https://www.overleaf.com/project)
+
+* [Scratch](https://docs.google.com/spreadsheets/d/1R_ROr2OD94U8y6DtSUSDPsqCpu3p5n4JKh7TKV-Pam4/edit#gid=753172436)
+* [Anki Deck Control Center](https://docs.google.com/spreadsheets/d/1Lzr3GcZ2fpCONyJkTht8G-Ehn415gB2as3wXOvGlLHU/edit?usp=sharing)
+* [Betsy and iPhone](https://docs.google.com/spreadsheets/d/15SxjiP8gScdGW2ayp0YEUmdejTaMPzNx6C-L9nQGALc/edit?usp=sharing)
+* [Your Projects - Overleaf](https://www.overleaf.com/project)

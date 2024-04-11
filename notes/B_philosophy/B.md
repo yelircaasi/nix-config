@@ -1,74 +1,142 @@
 # B
 
+
+## To Sort
+
+how to reconcile solidarity with wanting the best for your child and helping them be successful -> "getting ahead" mentality
+
+
 ## Projects
 
 1. Sort ‘General’
+
 2. Sort ‘Free Will’
+
 3. Sort ‘To Sort’
+
 4. Sort ‘Philosophy of Work’
+
 5. Sort ‘Philosophiae quaestiones’
+
 6. Sort ‘Autoepistography’
+
 7. Sort ‘Lista y análisis de fuentes de la duda’
+
 8. Sort ‘’Iron Rod Letter 
+
 9. Sort ‘Announcement Post’
+
 10. Sort ‘Analysis of Faith’
+
 11. Sort ‘Religion Notes’
+
 12. Sort ‘Book Outline’
+
 13. Sort ‘Thinkers’
+
 14. Sort ‘Philosophia (auxilia adnotationesque)’
+
 15. Sort ‘Religion Books’
+
 16. Sort ‘Notes’
+
 17. Sort ‘Ethics’
+
 18. Sort ‘Reading (1)’
+
 19. Sort ‘Reading (2)’
+
 20. Sort ‘Reading (3)’
+
 21. Sort ‘Reading (4)’
+
 22. Sort ‘Reading (5)’
+
 23. Sort ‘Reading (6)’
+
 24. Sort ‘Reading (7)’
+
 25. Sort ‘Reading (8)’# B
 
+
 ## Projects
 
 1. Sort ‘General’
+
 2. Sort ‘Free Will’
+
 3. Sort ‘To Sort’
+
 4. Sort ‘Philosophy of Work’
+
 5. Sort ‘Philosophiae quaestiones’
+
 6. Sort ‘Autoepistography’
+
 7. Sort ‘Lista y análisis de fuentes de la duda’
+
 8. Sort ‘’Iron Rod Letter 
+
 9. Sort ‘Announcement Post’
+
 10. Sort ‘Analysis of Faith’
+
 11. Sort ‘Religion Notes’
+
 12. Sort ‘Book Outline’
+
 13. Sort ‘Thinkers’
+
 14. Sort ‘Philosophia (auxilia adnotationesque)’
+
 15. Sort ‘Religion Books’
+
 16. Sort ‘Notes’
+
 17. Sort ‘Ethics’
+
 18. Sort ‘Reading (1)’
+
 19. Sort ‘Reading (2)’
+
 20. Sort ‘Reading (3)’
+
 21. Sort ‘Reading (4)’
+
 22. Sort ‘Reading (5)’
+
 23. Sort ‘Reading (6)’
+
 24. Sort ‘Reading (7)’
+
 25. Sort ‘Reading (8)’
+
 26. Sort ‘Reading (9)’
+
 27. Sort ‘IAI’
+
 28. Sort ‘Abortion’
+
 29. Sort ‘Video’
+
 30. Sort ‘Contre-Histoire’
+
 31. Sort ‘Audio’
+
 32. Sort ‘Books’
+
 33. Sort ‘Blogs’
+
 34. Sort ‘Philosophers Unsorted’
+
 35. Sort ‘John Gray’
+
 36. Sort ‘Michel Onfray’
+
 37. Sort ‘Noam Chomsky’
 
-- To Sort
+
+* To Sort
         * https://libgen.rs/search.php?req=saul+smilansky&open=0&res=25&view=simple&phrase=1&column=def
         * [LPSR #21 - Penser l'Euthanasie avec Marc Grassin - Yann Kerninon](https://youtu.be/4kGDbxfO0Y8)
         * [The philosophy of horror or, Paradoxes of the heart](http://library.lol/main/809DB0E12E9FEA2CE27A85DE0E5533CD)
@@ -114,6 +182,7 @@
     * https://en.wikipedia.org/wiki/Japanese_philosophy
     * https://de.wikipedia.org/wiki/Philosophie_in_Japan
 
+
     What can people of profession X, approaching the world primarily through the paradigms and habits of mind of profession X, learn from profession Y, with its associated tools and insights? → negative aspects of relying entirely on one's own field → benefits of enriching and enhancing one's approach to the world with the insights other fields, especially highly disparate ones → the perfect, i.e. perfectly well-rounded, mind: what would it look like? who are the best examples, whether contemporary or historical?
     * [3 Libri di Filosofia della Biologia: Monod, Mayr e Dennett](https://youtu.be/YbhcSbIdth4)
     * http://www.eurozine.com/critique-and-communication-philosophys-missions/
@@ -128,9 +197,12 @@
     * http://literaturkritik.de/public/rezension.php?rez_id=13456&ausgabe=200910
     * http://literaturkritik.de/public/rezension.php?rez_id=14062
 
+
     “we feel with terrible resignation that reason is not a superhuman gift bestowed on humanity, that it is not an unchanging and eternal deity, that reason evolved in humanity and evolved into what it is, but that it also, however, could have evolved differently … what we hold to be the eternal and unalterably fixed laws of our intellectual being [are] merely a game played by the coincidence that is the world; when we recognise that our reason (which, after all, is language) can only be a coincidental reason, then we will only smile when we consider the argumentative passion with which anthropologists have laboured over questions of custom, belief and collective psychological ‘facts’. The”
 
+
     “Unknown to itself, the human mind creates worlds it cannot grasp. The places that are made by humans are as numinous and fugitive as those that appear in forest shade. Breaking the spell of diurnal perception, you can see landscapes in cities as unexpected as those that explorers discover in uncharted regions of the globe. A”
+
 
     “Like cheap music, the myth of progress lifts the spirits as it numbs the brain.”
     * https://www.timeshighereducation.com/books/the-silence-of-animals-on-progress-and-other-modern-myths-by-john-gray/2001712.article
@@ -144,12 +216,14 @@
     * http://bastiat.org/
     * http://rzim.org/just-thinking/must-the-moral-law-have-a-lawgiver/
 
+
     philosophical problem of non-philosophers
     * [What Is Philosophy of Science? | Dean Rickles](https://b-ok.cc/book/5560878/d21ae5)
     * [Wicked Philosophy: Philosophy of Science and Vision Development for Complex Problems | Coyan Tromp](https://b-ok.cc/book/5558397/a15d6f)
     * [ph sci](https://b-ok.cc/book/2483633/8739a7)
     * [Dappled World](https://b-ok.cc/book/2475933/ce4f53)
     * [Essential Judaism : a complete guide to beliefs, customs, and rituals](https://b-ok.cc/book/3328569/7c6e00)
+
 
     Versöhnung zwischen mathematische beweisfundierte Weltanschauung und emotionelle reigióse Weltanschauung.
     * http://www.socrat-online.ru/page/mirovoj-krizis-glazami-zapadnyh-intellektualov
@@ -188,10 +262,13 @@
     * [Gregory Bassham: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/g/Gregory%20Bassham)
     * [Entretien Pierre Hadot](https://www.youtube.com/watch?v=WntgG-NByUg)
 
+
     Commitment to empirically verifiable truth - ideas must hold up to reality
     * [Die Kunst, kein Egoist zu sein: Warum wir gerne gut sein wollen und was uns davon abhält | Richard David Precht | download](https://b-ok.cc/book/1013347/d4441f)
 
+
     Storia della Filosofia Occidentale
+
 
     - -> conocimiento básico de los filósofos lmá importantes
     * [Baudrillard multilingue](https://docs.google.com/spreadsheets/d/1K8BLWfw19z7Qo8gIEzXQdZVycjwKX0NRtyeuixcxsKg/edit?usp=sharing)
@@ -199,6 +276,7 @@
     * https://m.pikabu.ru/story/filosofiya_popkulturyi_ili_populyarnaya_filosofiya_4340019
     * https://portalmapasconceptuales.blogspot.com/2018/06/mapa-conceptual-existencialismo-vs.html
     * https://portalmapasconceptuales.blogspot.com/2018/06/mapa-conceptual-immanuel-kant.html
+
 
     Noam Chomsky - On Being Truly Educatedde The Brainwaves Video Anthology
     * [The Paradox of Choice & Morality: How Intelligent is A.I. ?- Nick Bostrom - WGS 2018 - YouTube](https://www.youtube.com/watch?v=hK2s5ZPq87A)
@@ -209,6 +287,7 @@
     * [20 Penseurs pour 2020](https://www.philomag.com/20-penseurs-pour-2020-42200)
     * [20 Philosophers and Their Big Ideas](https://thebestschools.org/magazine/major-philosopher-ideas/)
     * http://www.thalia.de/shop/home/artikeldetails/erkenne_die_welt/richard_david_precht/EAN9783844520118/ID43971536.html
+
 
     этика и философия деторождения
     * [Blogs de filósofos | Efímero](https://efimeroescombrera.wordpress.com/2013/05/31/blogs-de-filosofos/)
@@ -222,6 +301,7 @@
     * [Ethical Issues in Advertising - Advertising and Ethics - YouTube](https://www.youtube.com/watch?v=j9AEtFdb1_4)
     * [Garder son estime de soi à l’ère de l’IA - Поиск в Google](https://www.google.com/search?q=Garder+son+estime+de+soi+%C3%A0+l%E2%80%99%C3%A8re+de+l%E2%80%99IA&rlz=1C5CHFA_enUS753US753&ei=s-BGXLWvBZi_0PEPirWF4As&start=10&sa=N&ved=0ahUKEwj11JKRiIHgAhWYHzQIHYpaAbwQ8tMDCIUB&biw=2048&bih=993)
 
+
     - [Nick Bostrom's Home Page](https://nickbostrom.com/)**
     * [Eine überschätzte Spezies | ARTE - YouTube](https://www.youtube.com/watch?v=nLEtkmVUMfU)
     * [El hombre-dios y el Nuevo Orden Mundial - YouTube](https://www.youtube.com/watch?v=jONJYxwjE8E)
@@ -233,21 +313,23 @@
     * [Economics vs Philosophy with Tyler Cowen - YouTube](https://www.youtube.com/watch?v=Y2jqm7dRCEw)
     * [Is Economics a Science? | HuffPost](https://www.huffingtonpost.com/jared-bernstein/is-economics-a-science_b_3816471.html)
 
-- Philosophy of Work
+
+* Philosophy of Work
         * https://plato.stanford.edu/entries/work-labor/
         * https://www.suhrkamp.de/buch/philosophie-der-arbeit-t-9783518298015
         * [https://de.wikipedia.org/wiki/Arbeit_(Philosophie)](https://de.wikipedia.org/wiki/Arbeit_(Philosophie))
         * https://www.philomag.de/lexikon/arbeit
     
 
-- Philosophiæ quaestiones
+
+* Philosophiæ quaestiones
     - Metaphysica
     - Epistemologia
     - Logica
     - Ethica
     - Aesthetica
     - Altri
-- Autoepistemography
+* Autoepistemography
     
     Autoepistography
     
@@ -330,7 +412,7 @@
     
     questioning the capacity for rational, unbiased thought at all
     
-- Lista y análisis de fuentes de la duda
+* Lista y análisis de fuentes de la duda
     
     Hey Eliza,
     
@@ -374,7 +456,7 @@
     
     Broeder Izak
     
-- Iron Rod Letter
+* Iron Rod Letter
     
     When a Loved One Chooses to Let Go of the Iron Rod
     
@@ -482,7 +564,7 @@
     
     Your ultimate goal may be to win your loved one back to the church. But don't risk driving him or her away by concentrating only upon that goal. If you keep your mind open you'll do a great service to everyone involved, have the greatest chance of restoring his or her faith, and possibly even find some new enlightenment for yourself.
     
-- Announcement Post
+* Announcement Post
     
     This is a long, blunt, and fairly personal open letter. If you are in the mood for cat videos right now, or if you hardly know me, scroll on.
     
@@ -517,2821 +599,1889 @@
     Brief outline of my lifelong faith journey and how my beliefs have changed: https://docs.google.com/document/d/1m5Pm4MnoBPGYLARF-_Z-dahJXF6d2728FItreNVABTk/edit?usp=sharing
     
 
-* [Thinkers]()
-Abaelard
 
+* [Thinkers]()
+
+Abaelard
 
 Abraham Lincoln (1809-1865) ↑
 
-
 Abū Rayhān al-Bīrūnī, a critic of Aristotelian natural philosophy;
-
 
 Ada Lovelace (1815-1852)
 
-
 Adam Smith
-
 
 Adolf Hitler
 
-
 Adorno, Theodor W. (D)
-
 
 Aegidius von Rom
 
-
 Aeschylus
-
 
 Agassiz
 
-
 Ait Weil Zade [aka Ali Pasha] (1740-1822)
-
 
 Akhenaten  (c.1380-1335BC)
 
-
 Alan Turing (1912-1954) CR:21
-
 
 Alan Watts(1915-1973)
 
-
 Alberoni
-
 
 Albert Camus
 
-
 Albert Einstein
-
 
 Albertus Magnus (1205-1280)
 
-
 Al-Biruni
-
 
 Albrecht Durer (1471-1528)
 
-
 Albrecht Haller  (1708-1777) ↓
-
 
 Alessandro Volta (1745-1827)
 
-
 Alexander Bell  (1847-1922)
-
 
 Alexander der Große
 
-
 Alexander Fleming
-
 
 Alexander Graham Bell
 
-
 Alexander Hamilton (1756-1804)
-
 
 Alexander Humboldt (1769-1859)
 
-
 Alexander Pope (1688-1744)
-
 
 Alexander the Great (356-323BC) ↓
 
-
 Alexander, F.M.
-
 
 Alexis de Tocqueville
 
-
 Al-Fārābī
-
 
 Alfieri
 
-
 Alfred Jules Ayer
-
 
 Alfred Lotka(1880-1949)
 
-
 Alfred Musset (1810-1857)
-
 
 Alfred North Whitehead
 
-
 Alfred Tennyson (1809-1892)
-
 
 Alfred Wegener (1880-1930)
 
-
 al-Ghazālī
-
 
 Alhazen (c.965-1040)
 
-
 al-Jahiz, a pioneer of evolutionary thought and natural selection;
-
 
 Alkmaion
 
-
 Alkuin
-
 
 Al-Marri (973-1057)
 
-
 Althusius, Johannes
-
 
 Anaxagoras  (500-428 BC)
 
-
 Anaximander (c.610-564BC)
-
 
 Anderson, H. C.
 
-
 Andre Ampere (1775-1836)
-
 
 Andrew Carnegie (1835-1918)
 
-
 Andrewes
-
 
 Anicius
 
-
 Anne, Lady Conway
-
 
 Anselm von Canterbury
 
-
 Antoine Arnauld  (1612-1694) ↓↓
-
 
 Antoine Laurent de Lavoisier
 
-
 Antoine Lavoisier  (1743-1794)
-
 
 Antoni van Leeuwenhoek
 
-
 Aquin, Thomas von
-
 
 Archimedes  (287-212BC) CR=28
 
-
 Archytas von Tarent
-
 
 Arendt : Citations d’Arendt
 
-
 Aristarchos von Samos
-
 
 Aristote : Philosophie d’Aristote / Citations d’Aristote / L’éthique et la politique chez Aristote /
 
-
 Arkesilaos
-
 
 Arnold Sommerfeld (1868-1951)
 
-
 Arthur Doyle  (1859-1930)
-
 
 Arthur Schopenhauer
 
-
 Ashoka
-
 
 Athanasius Kircher  (1602-1680) CR=9
 
-
 Atterbury
-
 
 Auguste Comte
 
-
 Augustine
-
 
 Augustus
 
-
 Averroës
-
 
 Averroës (Ibn Roschd)
 
-
 Averroes(1126-1198)
-
 
 Avicenna
 
-
 Ayn Rand
-
 
 Ayn Rand  (1905-1982)
 
-
 Bacon, Francis (GB)
-
 
 Bacon, Roger
 
-
 Bahá-u-lláh-Mirza-Husayn-Ali-Nuri Humanity is understood to be in a process of collective evolution, and the need of the present time is for the gradual establishment of unity on a global scale leading to peace and justice for all mankind.
-
 
 Ban Zhao
 
-
 Baron d’Holbach (1723-1789) ↑↓
-
 
 Baron of Verulam
 
-
 Barthold Niebuhr  (1776-1831) ↓
-
 
 Baruch Spinoza
 
-
 Bath, Adelard von
-
 
 Baudrillard : La sociologie de Baudrillard
 
-
 Beaumarchais
-
 
 Ben Jonson (1573-1637)
 
-
 Benedetto Croce
-
 
 Benedict de Spinoza
 
-
 Benjamin Franklin  (1706-1790)
-
 
 Bentham, Jeremy
 
-
 Bentley
-
 
 Bergson : Philosophie de Bergson / Citations de Bergson
 
-
 Bergson, Henri (F), NP 1927
-
 
 Berkeley, George
 
-
 Bernadotte
-
 
 Bernard Shaw (1856-1950)
 
-
 Bernhard Riemann (1826-1866)
 
-
 Bertrand Russell
 
-
 Bertrand Russell
-
 
 Bertrand Russell (1872-1970)
 
-
 Beza
-
 
 Bichat
 
-
 Blaise Pascal  (1623-1662) ↓CR:44
-
 
 Blake, H.
 
-
 Bloch, Ernst (D)
-
 
 Blucher
 
-
 Bodhidharma - Introduced a regimen of martial excercises, which became the foundation of many later schools of Kung Fu.
-
 
 Boethius
 
-
 Boëthius
-
 
 Bourdieu : La télévision chez Bourdieu / Citations de Bourdieu
 
-
 Bright
-
 
 Brüder Wright
 
-
 Bruno, Giordano
 
-
 Buddha
 
-
 Buddha
-
 
 Buffon (1707-1788) ↑
 
-
 Bunyan
-
 
 Burke, Edmund (IRL)
 
-
 Burnet
-
 
 Burns
 
-
 Caesaream, Eusebius
-
 
 Calderon
 
-
 Calvin, Johannes
-
 
 Campanella, Tommaso (IT)
 
-
 Camus : Philosophie de Camus
-
 
 Canning
 
-
 Canope
-
 
 Canova
 
-
 Canterbury, Anselm von
-
 
 Capella, Martianus
 
-
 Carl Gauss  (1777-1855) CR=50
-
 
 Carl Jung (1875-1961)
 
-
 Carl Linnaeus  (1707-1778) ↑
-
 
 Carl Sagan (1934-1996)
 
-
 Chalmers
-
 
 Channing
 
-
 Charlemagne (c.1742-814)
-
 
 Charles Babbage (1791-1871)
 
-
 Charles Darwin
-
 
 Charles de Montesquieu
 
-
 Charles Dickens  (1812-1870)
-
 
 Charles Etienne (1778-1845)
 
-
 Charles Fox (1749-1806)
-
 
 Charles Montesquieu (1689-1755)
 
-
 Charles Sanders Peirce
-
 
 Charles Sherrington  (1857-1952)
 
-
 Charles-Louis de Secondat, baron de La Brède et de Montesquieu
-
 
 Charlie Chaplin (1889-1977)
 
-
 Charlotte Bronte  (1816-1855)
-
 
 Chateaubriand
 
-
 Chesterfield
-
 
 Christiaan Huygens  (1629-1695) CR:43
 
-
 Christoph Kolumbus
-
 
 Christoph Wieland  (1733-1813) ↓
 
-
 Christopher Columbus (c.1451-1506)
-
 
 Christopher Wren  (1632-1723)
 
-
 Chrysippos
-
 
 Cicero (IT)
 
-
 Cioran : Citations de Cioran
-
 
 Clarke, S.
 
-
 Clive
-
 
 Cobbett
 
-
 Comte : Philosophie de Comte
-
 
 Comte, Auguste
 
-
 Confucius
-
 
 Constant
 
-
 Corneille
-
 
 Cortez
 
-
 Cowper
-
 
 Dame Mary Warnock
 
-
 Dante Alighieri (1265-1321)
-
 
 David Hume
 
-
 David Kellogg Lewis
-
 
 David Strauss  (1808-1874)
 
-
 De Beauvoir : Citations de De Beauvoir
-
 
 DeFoe
 
-
 Democritus
-
 
 Denis Diderot (1713-1784) ↑
 
-
 Denis Papin (1647-1712) ↑
-
 
 Derrida : Citations de Derrida
 
-
 Descartes : Philosophie de Descartes / Métaphysique de Descartes / Citations de Descartes
-
 
 Desiderius Erasmus  (1466-1537)
 
-
 Dewey, John (USA)
-
 
 Diderot : Citations de Diderot
 
-
 Diogenes (GR)
-
 
 Dionysios
 
-
 Disraeli
-
 
 Dmitri Mendeleyev (1834-1907)
 
-
 Dogen
-
 
 Dong Zhongshu
 
-
 Dryden
-
 
 Dschingis Khan
 
-
 Duns Scotus, Johannes
-
 
 Dupin
 
-
 Durkheim : Citations de Durkheim
-
 
 Edgar Poe (1809-1849)
 
-
 Edmund Husserl
-
 
 Edmund Spenser (1552-1559)
 
-
 Edward Bulwer (1803-1873)
-
 
 Edward Gibbon (1737-1794)
 
-
 Elizabeth Anscombe
-
 
 Elizabeth I  (1533-1603) ↓
 
-
 Emanuel Swedenborg (1688-1772) ↓ CR=22
-
 
 Emilie Chatelet  (1706-1749) CR:20
 
-
 Empedocles (495-435BC) CR:133|#32
-
 
 Enrico Fermi  (1901-1954) CR:44
 
-
 Epictetus
-
 
 Epicurus
 
-
 Erasmus (von Rotterdam)
-
 
 Ernst Cassirer
 
-
 Erwin Schrödinger  (1887-1961) CR:122
-
 
 Ettore Majorana  (1906-1938) CR=33
 
-
 Euclid  (c.340-280BC) CR:20
-
 
 Euripides
 
-
 Fakhr al-Din al-Razi, a critic of Aristotelian logic and a pioneer of inductive logic; * Ibn Khaldun, considered the father of the philosophy of history and sociology and a pioneer of social philosophy.
-
 
 Felix Mendelssohn  (1809-1847)
 
-
 Feuerbach, Ludwig
-
 
 Fichte : Citations de Fichte
 
-
 Fichte, Johann Gottlieb (D)
-
 
 Fielding
 
-
 Filippo Brunelleschi  (1377-1446) ↓
-
 
 Fortescue, John
 
-
 Fouche
 
-
 Francis Bacon
 
-
 Francis Bacon
-
 
 Francis Bacon (1561-1626)
 
-
 Francis Bacon (1561-1626) England
-
 
 Francis Crick (1916-2004)
 
-
 Francis Edgeworth (1845-1926)  Irish mathematical economist
-
 
 Francis Galton (1822-1911) ↓
 
-
 Francois Arago  (1786-1853)
-
 
 Francois Fenelon (1651-1715)
 
-
 Franklin, J.
-
 
 Frederick II (1194-1250) ↑↓
 
-
 Frederick Rossini (1899-1990)  ↑↑↓
-
 
 Frederick Sanger  (1918-2013)
 
-
 Freud
-
 
 Friedrich Ludwig Gottlob Frege
 
-
 Friedrich Nietzsche
-
 
 Friedrich Schelling  (1775-1854) ↓ CR:6
 
-
 Friedrich Schiller  (1759-1805) ↑↑↑CR:82
-
 
 Friedrich Schleiermacher (1768-1834)
 
-
 Friedrich W. J. Schelling (1775-1854) Deutschland
-
 
 Friedrich Wilhelm Joseph Schelling
 
-
 Friedrich Wolf
-
 
 Frühe Neuzeit
 
-
 Fukuzawa Yukichi
-
 
 Fyodor Dostoyevsky (1821-1881)
 
-
 G.E. Moore
-
 
 Galilei, Galileo (IT)
 
-
 Gandhi
-
 
 Garibaldi
 
-
 Garrison, W.L.
-
 
 Gaskell, E.C.S.
 
-
 Ge Hong
-
 
 Geber (c.721-c.815)
 
-
 Genghis Kahn (c.1162-1227)
-
 
 Geoffrey Chaucer (1343-1400)
 
-
 Georg Hegel  (1770-1831) ↑
-
 
 Georg W. F. Hegel (1770-1831) Deutschland
 
-
 Georg Wilhelm Friedrich Hegel
-
 
 George Berkeley
 
-
 George Boole (1815-1864)
-
 
 George Eliot  (1819-1880)
 
-
 George Fox (1624-1691)
-
 
 George Green  (1793-1841) CR:8
 
-
 George Handel (1685-1759)
-
 
 George Villiers (aka Clarendon) (1800-1870)
 
-
 George Washington
-
 
 Georges Cuvier (1769-1832) ↓
 
-
 Georges Danton (1759-1794)
-
 
 Gerald Massey  (1828-1907) ↑↓
 
-
 Germaine Stael  (1766-1817)
-
 
 Gerolamo Cardano (1501-1576)
 
-
 Giacomo Leopardi (1798-1837)
-
 
 Giambattista Vico
 
-
 Gilbert Lewis (1875-1946)  CR:483|#5
-
 
 Gilbert Ryle
 
-
 Giordano Bruno(1548-1600)
-
 
 Giuseppe Verdi  (1813-1901)
 
-
 Gluck
-
 
 Gottfried Leibniz(1646-1716) ↓ CR:140|#28
 
-
 Gottfried W. Leibniz (1646-1716) Deutschland
-
 
 Gottfried Wilhelm Leibniz
 
-
 Gotthold Lessing (1729-1781)
-
 
 Gottlob Frege
 
-
 Gottlob Frege (1848-1925) Deutschland
-
 
 Graham
 
-
 Gregor Mendel  (1822-1844)
-
 
 Grimm, J.L.
 
-
 Grote
-
 
 Guglielmo Marconi
 
-
 Guglielmo Marconi (1874-1937)
-
 
 Guicciardini
 
-
 Guizot
-
 
 Guru Nanak Dev
 
-
 Habermas : Philosophie de Habermas
-
 
 Habermas, Jürgen (D)
 
-
 Hakuin
-
 
 Han Feizi
 
-
 Han Yongun
-
 
 Han Yu
 
-
 Hannah Arendt
 
-
 Hannah Arendt
-
 
 Hannibal (247-182BC)
 
-
 Hans Georg Gadamer
-
 
 Hans Jonas
 
-
 Hans Orsted  (1777-1851)
-
 
 Harriet Martineau  (1802-1876)
 
-
 Hartmann, Nicolai (D)
-
 
 Hastings
 
-
 Hawthorne, N.
-
 
 Haydn
 
-
 Hegel : Philosophie de Hegel / Citations de Hegel
-
 
 Heidegger : Philosophie de Heidegger / Citations de Heidegger
 
-
 Heinrich Heine (1797-1856) ↓ ↑
-
 
 Helvetius (1775-1771)
 
-
 Henri Bergson
-
 
 Henri Poincare  (1854-1912) CR:40
 
-
 Henry Adams (1838-1918)CR=241 Collected works: 12+
-
 
 Henry Brougham  (1778-1868)
 
-
 Henry Buckle  (1821-1862) ↑
-
 
 Heracleitus
 
-
 Herbert Spencer
-
 
 Herman Boerhaave (1668-1738) ↑
 
-
 Herman Hollerith (1860-1929)
-
 
 Hermann Helmholtz (1821-1894) CR:436|#8
 
-
 Hero  (c.10-70AD) ↓↑
-
 
 Hilary Putnam
 
-
 Hobbes, Thomas (GB)
 
-
 Hogarth
-
 
 Homer (c.750-650BC)
             * [Note: possibly not real person]
 
-
 Honore Balzac  (1799-1850) ↑↑
-
 
 Honore Mirabeau (1749-1791) ↓
 
-
 Horatio Nelson  (1758-1805)
-
 
 Horkheimer, Max (D)
 
-
 Howard Hughes  (1905-1976)
-
 
 Hu Shi
 
-
 Hugo Grotius(1583-1645) ↓CR:14
-
 
 Humphry Davy  (1778-1829) CR:44
 
-
 Hundred Schools
-
 
 Hypatia of Alexandria
 
-
 Ibn al-‘Arabī
-
 
 Ibn al-Haytham (Alhacen), a pioneer of phenomenology and the philosophy of science and a critic of Aristotelian natural philosophy and Aristotle's concept of place (topos);
 
-
 Ibn Gabirol
-
 
 Igor Stravinsky  (1882-1971)
 
-
 Imhotep  (2635-2595BC)
-
 
 Immanuel Kant
 
-
 Irving W.
-
 
 Isaac Asimov (1920-1992)
 
-
 Isaac Newton
 
-
 Isaac Newton
-
 
 Isaac Newton (1643-1727) CR:392|#6  Occupations: 7+ Library: 1,752+ books (369 scientific)
 
-
 Isambard Brunel (1806-1859)
-
 
 Ishvarakrishna
 
-
 Ivan Pavlov (1849-1936)
-
 
 Jackson, A.
 
-
 Jacques Bossuet (1627-1704)
 
-
 Jacques Derrida
 
-
 Jacques Derrida
-
 
 James Clerk Maxwell
 
-
 James Joule (1818-1889)(CR:138|#30)
-
 
 James Madison (1751-1836) ↑
 
-
 James Maxwell (1831-1879) CR:410|#5
-
 
 James Watt
 
-
 James Watt  (1736-1819) ↑
-
 
 James, William (USA)
 
-
 Jankélévitch : Citations de Jankélévitch
-
 
 Jansen
 
-
 Jaspers, Karl (D)
-
 
 Jay Gould (1836-1892)
 
-
 Jean Bailly (1736-1793)
-
 
 Jean Champollion (1707-1832)
 
-
 Jean d'Alembert  (1717-1783)
-
 
 Jean de La Fontaine
 
-
 Jean Fernel  (1497-1558)
-
 
 Jean Rousseau (1712-1778)
 
-
 Jean Sales (1741-1816) CR:68
 
-
 Jean-Jacques Rousseau
 
-
 Jean-Jacques Rousseau
-
 
 Jean-Jacques Rousseau (1712-1778) Genf
 
-
 Jean-Paul Sartre
 
-
 Jean-Paul Sartre
-
 
 Jean-Paul Sartre (1905-1980)
 
-
 Jean-Paul Sartre (1905-1980) Frankreich
-
 
 Jenner
 
-
 Jeremy Bentham
 
-
 Jeremy Bentham
-
 
 Jeremy Bentham (1748-1832)
 
-
 Jesus von Nazaret
-
 
 Johann Bach  (1685-1750)
 
-
 Johann Fichte (1762-1814) (CR:13)
-
 
 Johann Goethe
 
-
 Johann Gottlieb Fichte
-
 
 Johann Herder  (1744-1803) ↑
 
-
 Johannes Gutenberg
-
 
 Johannes Kepler (1571-1630)
 
-
 John Adams  (1735-1826)
-
 
 John Bardeen  (1908-1991)
 
-
 John Calvin (1509-1564)
-
 
 John Dalton
 
-
 John Dalton (1766-1844)
-
 
 John Dewey
 
-
 John Duns Scotus
-
 
 John Hunter (1728-1793) ↑
 
-
 John Keynes (1883-1946)
-
 
 John Langshaw Austin
 
-
 John Langshaw Austin (1911-1960) Großbritannien
-
 
 John Locke
 
-
 John Mill (1806-1873)  ↑
-
 
 John Milton  (1608-1674)
 
-
 John Nash (1928-2015) CR:33; DN:7
-
 
 John Neumann (1903-1957) ↑ ↑ ↓CR=130
 
-
 John Quincy Adams (1767–1848)
 
-
 John Rawls
 
-
 John Rawls
-
 
 John Rawls (1921-2002) USA
 
-
 John Strutt (1842-1919) CR=21
 
-
 John Stuart Mill
 
-
 John Stuart Mill
-
 
 John Stuart Mill (1806-1873) England
 
-
 John Toland (1670-1722) ↑↓
-
 
 John Tukey  (1915-2000)
 
-
 John Wesley (1703-1791)
-
 
 Johnson
 
-
 Jonathan Swift (1667-1745) ↑
-
 
 Jons Berzelius  (1779-1848) ↑
 
-
 Jorge Borges  (1899-1986)
-
 
 Joseph Addison (1672-1719)
 
-
 Joseph Gay-Lussac  (1778-1850)
-
 
 Joseph Jacquard  (1752-1834)
 
-
 Joseph Lagrange  (1736-1813) ↑CR:73
-
 
 Joseph Leidy (1823-1891)
 
-
 Joseph Lister (1827-1912)
-
 
 Joseph Priestley  (1733-1804)
 
-
 Joseph Scaliger (1540-1609)
-
 
 Joseph Thomson  (1856-1940)
 
-
 Judaeus
-
 
 Julien Offray de La Mettrie
 
-
 Julius Caesar  (I00-44BC)
 
+Jürgen Habermas
 
 Jürgen Habermas
 
-
 Jürgen Habermas
-
-
-Jürgen Habermas
-
 
 Justus Liebig  (1803-1873) ↓
 
-
 Kang Youwei
-
 
 Kant : Philosophie de Kant/ Citations de Kant / La paix selon Kant / La politique selon Kant
 
-
 Kant, Immanuel (D)
-
 
 Karl Jaspers
 
-
 Karl Marx
-
 
 Karl Pearson (1857-1936) ↑
 
-
 Karl Popper
-
 
 Kautilya
 
-
 Kierkegaard : Philosophie de Kierkegaard/ Citations de Kierkegaard / Le stade esthétique chez Kierkegaard
-
 
 Kitarō Nishida
 
-
 Kleanthes (GR)
-
 
 Konfuzius
 
-
 Konstantin der Große
-
 
 Kotzebue
 
-
 Kues, Nikolaus von (D)
-
 
 Lady Murasaki
 
-
 Lamartine
-
 
 Lamennais
 
-
 Lao Tzu
-
 
 Lao Zi
 
-
 Lao-Tzu [not real?] (c.625-575BC)
-
 
 Law
 
-
 Lazare Carnot  (1753-1823)
-
 
 Lee, R.E.
 
-
 Leo Tolstoy  (1828-1910)
-
 
 Leon Alberti  (1404-1472)
 
-
 Leon Gambetta (1838-1882)
-
 
 Leon Winiarski (1865-1915)
 
-
 Leonardo da Vinci (1452-1519)CR:99|#48
-
 
 Leonhard Euler  (1707-1783) ↑CR=81
 
-
 Lévinas : Citations de Lévinas
-
 
 Lévi-Strauss : Le structuralisme de lévi-Strauss
 
-
 L'Hopital
-
 
 Lie-Ze
 
-
 Linus Pauling  (1901-1994) ↑CR=55
-
 
 Locke : Citations de Locke
 
-
 Locke, John (GB)
-
 
 Longfellow
 
-
 Lope de Vega
-
 
 Lord Byron (1788-1824)
 
-
 Lorenzen, Paul (D)
-
 
 Louis Daguerre
 
-
 Louis de Broglie (1892-1987)
-
 
 Louis Pasteur
 
-
 Louis Pasteur (1822-1895)
-
 
 Louis Thiers  (1797-1877)
 
-
 Lucretius  (99-55 BC)
-
 
 Ludwig Beethoven (1770-1827)
 
-
 Ludwig Boltzmann  (1844-1906) CR=336
-
 
 Ludwig Buchner (1824-1899)
 
-
 Ludwig Feuerbach (1804-1872) ↓↑
-
 
 Ludwig Feuerbach (1804-1872) Deutschland
 
-
 Ludwig Tieck  (1773-1853) ↓
-
 
 Ludwig van Beethoven
 
-
 Ludwig Wittgenstein
 
-
 Ludwig Wittgenstein
-
 
 Ludwig Wittgenstein  (1889-1951)
 
-
 Ludwig Wittgenstein (1889-1951) Österreich/Großbritannien
-
 
 Luther, Martin (D)
 
-
 Machiavel : Philosophie de Machiavel / Analyse du Prince de Machiavel / Citations de Machiavel /
-
 
 Machiavelli, Niccolò (IT)
 
-
 Madhva
-
 
 Maintenon
 
-
 Mani
-
 
 Manlius
 
-
 Mao Zedong
-
 
 Marat
 
-
 Marc-Aurèle : Citations de Marc-Aurèle
-
 
 Marcel Duchamp (1887-1968)
 
-
 Marcus Aurelius
-
 
 Marcus Aurelius (121-180)
 
-
 Marcuse, Herbert (D)
-
 
 Maria Montessori (1870-1952)
 
-
 Marie Curie  (1867-1934) ↑
-
 
 Marie-Jean-Antoine-Nicolas de Caritat, marquis de Condorcet
 
-
 Marion Tinsley  (1927-1995)
-
 
 Mark Twain (1835-1910)
 
-
 Marlborough
-
 
 Marmont
 
-
 Marquis Condorcet (1743-1794)
-
 
 Martin Buber
 
-
 Martin Heidegger
 
-
 Martin Heidegger
-
 
 Martin Heidegger (1889-1976) Deutschland
 
-
 Martin Heidegger(1889-1976)
-
 
 Martin King  (1929-1968)
 
-
 Martin Luther
-
 
 Martin Luther (1483-1546)
 
-
 Marvin Minsky (1927-1216)
-
 
 Marx : Philosophie de Marx / Citations de Marx
 
-
 Marx, Karl (D)
-
 
 Mary Shelley  (1797-1851)
 
-
 Mary Somerville (1780-1872)
-
 
 Max Horkheimer, Theodor W. Adorno:
 
-
 Max Planck (1858-1947) CR=203
-
 
 Max Stirner
 
-
 Max Weber (1864-1920) ↑
-
 
 Mazarin
 
-
 Mazzini
-
 
 Megellan
 
-
 Meheme Ali
 
-
 Mencius
 
-
 Mencius
-
 
 Merleau-Ponty : La Philosophie de Merleau-Ponty
 
-
 Metastasio
-
 
 MEW, Band 3
 
-
 Michael Faraday
-
 
 Michael Faraday  (1791-1867) ↑
 
-
 Michel Foucault
 
-
 Michel Foucault
-
 
 Michel Montaigne (1533-1592) ↑
 
-
 Michelangelo
-
 
 Michelangelo (1475-1564)
 
-
 Miguel de Cervantes  (1547-1616)
-
 
 Mill, John Stuart (GB)
 
-
 Miller, Hugh
-
 
 Milton Friedman (1912-2006)
 
-
 Mimar Sinan (1491-1588)
-
 
 Mittelalter
 
-
 Mohammed
-
 
 Mohandas Gandhi
 
-
 Moliere (1622-1673)
-
 
 Monk
 
-
 Montaigne : Citations de Montaigne / Essais de Montaigne
-
 
 Montesquieu : Philosophie de Montesquieu / La séparation des pouvoirs chez Montesquieu / Citations de Montesquieu
 
-
 Moore
-
 
 More : Citations de More
 
-
 Moreau
-
 
 Morus, Thomas (GB)
 
-
 Mose
-
 
 Moses Maimonides
 
-
 Moses Mendelssohn
 
-
 Moses Mendelssohn
-
 
 Muhammad Ali
 
-
 Muhammad Iqbal
-
 
 Mulla Sadra
 
-
 Murillo
 
+Nagarjuna
 
 Nagarjuna
 
-
-Nagarjuna
-
+Nanak
 
 Nanak
 
-
 Nanak
 
-
 Nanak
-
-
-Nanak
-
 
 Napier
 
-
 Napoleon Bonaparte
-
 
 Napoleon Bonaparte  (1769-1821)
 
-
 Necker
-
 
 Newman, J.H.
 
-
 Niccolò Machiavelli
-
 
 Niccolo Machiavelli (1469-1527)
 
-
 Nichiren
-
 
 Nicholas of Cusa (1401-1464)
 
-
 Nicolas Malebranche  (1638-1715) ↓
-
 
 Nicolaus Copernicus  (1473-1543) ↑CR:55
 
-
 Niels Bohr  (1885-1962)
-
 
 Nietzsche, Friedrich (D)
 
-
 Nikola Tesla  (1856-1943) CR=59
-
 
 Nikolaus Kopernikus
 
-
 Nikolaus von Kues
-
 
 Nikolaus von Kues (1401-1464) Deutschland
 
-
 Nishida Kitarō
-
 
 Noam Chomsky
 
-
 Norman Dolloff (1907-1984)
-
 
 Norman Schwarzkopf  (1934-2012)
 
-
 Nyssa, Gregor von (TURK)
-
 
 O’Connell
 
-
 Ockham, Wilhelm von (GB)
-
 
 olberg, L. von
 
-
 Oliver Cromwell
-
 
 Oliver Heaviside (1850-1925) CR:8
 
-
 Omar Khayyam (1048-1131)
-
 
 Oswald Spengler(1880-1936)
 
-
 Otto Guericke  (1602-1686)  CR:60
-
 
 Otto Weininger (1880-1903)
 
-
 Ovid (43BC-c.17AD)
-
 
 Pablo Picasso (1881-1973)
 
-
 Padmasambhava
-
 
 Palestrina
 
-
 Paolo Sarpi  (1552-1623)
-
 
 Paracelsus (1493-1541)
 
-
 Parmenides
 
-
 Parmenides
-
 
 Parmenides (GR)
 
-
 Parmenides (520/515-460/455 v. Chr.) Griechenland
-
 
 Pascal : Philosophie de Pascal / Citations de Pascal
 
-
 Pascal, Blaise (F)
 
+Patanjali
 
 Patanjali
 
-
 Patanjali
 
-
 Patanjali
-
-
-Patanjali
-
 
 Paul Cezanne (1839-1906)
 
-
 Paul Dirac (1902-1984)
-
 
 Paulus von Tarsus
 
-
 Penn
-
 
 Percy Bridgman (1882-1961) ↑
 
-
 Percy Shelley (1792-1822)
-
 
 Peter Abelard
 
-
 Peter Singer
-
 
 Phidias (500-432BC)
 
-
 Philipp Melanchthon (1497-1560) ↓
-
 
 Philo
 
+Philosoph/Herkunft
 
 Philosoph/Herkunft
 
+Philosoph/Herkunft
 
 Philosoph/Herkunft
 
-
 Philosoph/Herkunft
-
-
-Philosoph/Herkunft
-
-
-Philosoph/Herkunft
-
 
 Pico della Mirandola, Giovanni (IT)
 
-
 Pierre Bayle (1647-1706) ↑
-
 
 Pierre Beranger (1780-1857)
 
-
 Pierre Fermat (1601-1665)
-
 
 Pierre Gassendi  (1592-1655) ↑ CR:39
 
-
 Pierre Laplace (1749-1827) ↑CR=86
-
 
 Pierre Maupertuis (1698-1758)
 
-
 Pierre Teilhard (1881-1955) ↑
-
 
 Plato
 
-
 Plato  (c.423-348BC)
 
+Platon
 
 Platon
 
-
 Platon
 
-
 Platon
-
-
-Platon
-
 
 Platon (GR)
 
-
 Platon (428/427-348/347 v. Chr.) Griechenland
-
 
 Platon: Philosophie de Platon / Citations de Platon / La Caverne chez Platon
 
-
 Pliny the elder (23-79AD)
-
 
 Plotin
 
-
 Plotin (205-270 n. Chr.) Griechenland
-
 
 Plotin(us) (GR)
 
-
 Plotinus
-
 
 Plutarch  (c.46-120)
 
-
 Popper, Karl (AUT/GB)
-
 
 Porphyrios (GR)
 
-
 Poussin
-
 
 Prescott
 
+Prince Shotoku
 
 Prince Shotoku
 
-
 Prince Shotoku
 
-
 Prince Shotoku
-
-
-Prince Shotoku
-
 
 Proklos (GR)
 
-
 Protagoras (GR)
-
 
 Ptolemäus, Claudius (GR)
 
-
 Ptolemy  (c.100-170)
-
 
 Pyrrhon of Elis
 
-
 Pyrrhon von Elis (GR)
-
 
 Pythagoras
 
-
 Pythagoras (GR)
-
 
 Pythagoras (c.570-490BC)
 
-
 Qin Shihuangdi
-
 
 Rabindranath Tagore
 
-
 Racine
-
 
 Ralph Emerson (1803-1882)
 
-
 Ramana Maharsi
-
 
 Rāmānuja
 
-
 Ramanuja
-
 
 Ramus, Petrus (F)
 
-
 Raphael  (1483-1520)
-
 
 Regiomontanus  (1436-1467)
 
-
 Rembrandt  (1606-1669)
-
 
 Renan
 
+René Descartes
 
 René Descartes
 
-
 René Descartes
 
-
 René Descartes
-
-
-René Descartes
-
 
 Rene Descartes  (1596-1650) ↑CR:242|#17
 
-
 Rene Descartes (1596-1650) Frankreich
-
 
 Reuchlin
 
-
 Reuchlin, Johannes (D)
-
 
 Reynolds
 
-
 Richard Baxter (1615-1691)
-
 
 Richard Cobden (1804-1865)
 
-
 Richard Feynman  (1918-1988) CR=57
 
-
 Richard Rorty
 
-
 Richard Rorty
-
 
 Richard Wagner (1813-1883)
 
-
 Richelieu
-
 
 Ricoeur : Citations de Ricoeur
 
-
 Robert Boyle  (1627-1691) ↑CR:117
-
 
 Robert Bunsen (1811-1899)
 
-
 Robert Fulton (1765-1815)
-
 
 Robert Hooke  (1635-1703) ↑ CR=100
 
-
 Robert Mayer (1814-1878)
-
 
 Robert Nozick
 
-
 Robert Peel (1788-1850)
-
 
 Robert Southey (1774-1843)
 
-
 Robertson
-
 
 Robespierre
 
-
 Roger Bacon (1214-1294) ↑
-
 
 Rossini
 
-
 Rousseau : Philosophie de Rousseau / Citations de Rousseau
-
 
 Rousseau, Jean-Jacques (F)
 
-
 Rubens
 
-
 Rudolf Carnap
 
-
 Rudolf Carnap
-
 
 Rudolf Carnap (1891-1970) Deutschland
 
-
 Rudolf Clausius (1822-1888)CR:3|#614
 
-
 Rumi
 
-
 Rumi
-
 
 Russell, Bertrand (GB)
 
-
 Sade : Philosophie de Sade
-
 
 Sadi Carnot (1796-1832) CR:310
 
-
 Saicho
-
 
 Saint Anselm of Canterbury
 
-
 Saint Thomas : Philosophie de Saint-Augustin / Citations de Saint-Thomas
-
 
 Saint Thomas Aquinas
 
-
 Saint-Augustin : Philosophie de Saint-Augustin / Citations de Saint-Augustin
-
 
 Sainte-Beuve
 
-
 Salisbury, Johannes von (GB)
-
 
 Salvador Dali (1904-1989)
 
-
 Samuel Coleridge  (1772-1834)
-
 
 Śan. kara
 
-
 Sand
-
 
 Sappho (c.630-570BC)
 
-
 Sarah Margaret Fuller
-
 
 Sartre : Philosophie de Sartre / La morale de Sartre / L’existentialisme est un humanisme de Sartre
 
-
 Sartre, Jean Paul (F)
-
 
 Satyendra Bose  (1894-1974)
 
-
 Saul Kripke
 
-
 Saul Kripke
-
 
 Savonarola
 
-
 Schelling, Friedrich (D)
-
 
 Schopenhauer : Philosophie de Schopenhauer / Citations de Schopenhauer / La morale chez Schopenhauer
 
-
 Schopenhauer, Arthur (D)
-
 
 Scott
 
-
 Sei Shonagon
-
 
 Sen no Rikyu
 
-
 Seneca (IT)
-
 
 Sénèque : Citations de Sénèque
 
-
 Severinus
-
 
 Sevigne
 
-
 Seward
 
-
 Sextus Empiricus
 
-
 Sextus Empiricus
-
 
 Sextus Empiricus (2. Jh. n. Chr.) Griechenland
 
-
 Shaftesbury
-
 
 Shankara
 
-
 Sheridan, R.B.
-
 
 Sherman
 
-
 Shinran
-
 
 Siddhartha Gautama
 
-
 Sigmund Freud (1856-1939)
-
 
 Sima Qian
 
-
 Simón Bolívar
-
 
 Simon Bolivar (1783-1830)
 
-
 Simone de Beauvoir
-
 
 Sir A.J. Ayer
 
-
 Sir Bernard Williams
-
 
 Sir Karl Popper
 
-
 Sir, William Hamilton, 9th Baronet (1788-1856)
-
 
 Sirhindi
 
-
 Sloterdijk : L’humanisme chez Sloterdijk / L’eugénisme selon Sloterdijk
-
 
 Smith, Adam (GB)
 
-
 Socrates
-
 
 Socrates (c.469-399BC)
 
-
 Sofia Kovalevskaya (1850-1891)
-
 
 Sokrates (GR)
 
-
 Søren Kierkegaard
 
-
 Søren Kierkegaard
-
 
 Soren Kierkegaard (1813-1855) ↓
 
-
 Sören Kierkegaard (1813-1855) Dänemark
-
 
 Soult
 
-
 Speusippos (GR)
-
 
 Spinoza : Philosophie de Spinoza/ Citations de Spinoza
 
-
 Spinoza, Baruch de (NL)
-
 
 Srinivasa Ramanujan  (1887-1920)
 
-
 St. Simon
-
 
 Stanley Jevons  (1935-1882)
 
-
 Stephenson
-
 
 Steve Jobs  (1955-2011)
 
-
 Stuart Mill : Citations de Stuart Mill
-
 
 Subrahmanyan Chandrasekhar (1910-1995)
 
-
 Suleyman
-
 
 Suli
 
-
 Sumner, C.
 
-
 Sun Tzu
 
-
 Sun Tzu
-
 
 Sun Tzu (c.540-496BC)
 
-
 Sun Yat-sen
-
 
 Sunzi
 
-
 Sylvia Plath (1932-1963)
-
 
 Temple, W.
 
-
 Thales von Milet (GR)
-
 
 Thales(c.624-546 BC)
 
-
 The Buddha
-
 
 Theodor Adorno (1903-1969) Deutschland
 
-
 Theodor Wiesengrund Adorno
-
 
 Theophrastos (GR)
 
-
 Thomas Alva Edison
-
 
 Thomas Aquinas (1225-1274) ↑ ↑
 
-
 Thomas Chatterton (1752-1770)
-
 
 Thomas Edison  (1847-1931)
 
-
 Thomas Hobbes
 
-
 Thomas Hobbes
-
 
 Thomas Hobbes  (1588-1679)
 
-
 Thomas Hobbes (1588-1679) England
-
 
 Thomas Huxley (1825-1895)
 
-
 Thomas Jefferson (1743-1826) ↑
-
 
 Thomas Macaulay (1800-1859)
 
-
 Thomas More (1478-1535)
-
 
 Thomas Morus
 
-
 Thomas Paine (1737-1809)
 
+Thomas S. Kuhn
 
 Thomas S. Kuhn
 
-
-Thomas S. Kuhn
-
-
 Thomas von Aquin
 
-
 Thomas von Aquin
-
 
 Thomas von Aquin (ca. 1225-1274) Italien
 
-
 Thomas Wolsey (1472-1530) ↓↓↓CR:11
-
 
 Thomas Young  (1773-1829) CR:71|#72 Library: 1,000+ books
 
-
 Thorstein Veblen (1857-1929)
-
 
 Thou
 
-
 Titan
-
 
 Tocqueville : La démocratie chez Tocqueville / Citations de Tocqueville
 
-
 Tommaso Campanella (1568-1639) ↓↑
-
 
 Torbern Bergman(1735-1784)
 
-
 Torquato Tasso (1544-1595)
-
 
 Truman Capote  (1924-1984)
 
-
 Ts’ai Lun
-
 
 Tsongkhapa
 
-
 Turgot
-
 
 Valla, Lorenzo (IT)
 
-
 Van Dyck
-
 
 Vasubandhu
 
-
 Vauban
-
 
 Velasquez
 
-
 Vergniaud
-
 
 Victor Hugo (1802-1885)
 
-
 Vilfredo Pareto (1848-1923) ↑↓ CR=133 Occupations: 5+Collected works: 12+
-
 
 Virgil  (70BC-19BC)
 
-
 Viscount Saint Alban
-
 
 Voltaire
 
-
 Vyasa (c.525-475BC) Note: Possibly not real person.
-
 
 Walpole
 
-
 Walter Raleigh  (1552-1618)
-
 
 Wang Yangming
 
-
 Warburton
-
 
 Weber
 
-
 Webster
-
 
 Wellesley
 
-
 Werner Heisenberg
-
 
 Whitehead, Alfred (GB)
 
-
 Wiener Kreis
-
 
 Wilbur Wright (1867-1912)
 
-
 Wilfrid Sellars
-
 
 Wilhelm Dilthey
 
-
 Wilhelm Humboldt (1767-1835)
-
 
 Wilhelm Ostwald (1853-1932)
 
-
 Wilkes
-
 
 Willard Gibbs (1839-1903) CR:759|#2
 
-
 Willard van Orman Quine
-
 
 William Gilbert (1544-1603)
 
-
 William Harvey (1578-1657)
-
 
 William Herschel  (1738-1822)
 
-
 William James
-
 
 William of Ockham
 
-
 William Pitt (the Elder) (1708-1778)
-
 
 William Pitt (the Younger)  (1759-1806) ↓
 
-
 William Rankine (1820-1872)
-
 
 William Shakespeare
 
-
 William Shockley  (1910-1989)
-
 
 William Sidis (1898-1944) CR:114
 
-
 William Thackeray (1811-1863) ↑
-
 
 William Thomas Green Morton
 
-
 William Whewell  (1794-1866) ↑↓
-
 
 William Wilberforce (1759-1833)
 
-
 William Wordsworth (1770-1859)
-
 
 William Yeats (1865-1939)
 
-
 Winckelmann
-
 
 Wittgenstein, Ludwig (AUT)
 
-
 Wolff, Christian (D)
-
 
 Wolfgang Mozart  (1756-1791)
 
-
 Wollstonecraft, Mary (GB)
-
 
 Wonhyo to King Sejong
 
-
 Xenophanes (GR)
-
 
 Xuanzang
 
-
 Xunzi
-
 
 Yaqūb ibn Ish.āq as.-S.abāh. al-Kindī
 
-
 Zakariya Razi
-
 
 Zarathustra
 
-
 Zeami
-
 
 Zeno of Citium
 
-
 Zeno of Elea
-
 
 Zenon von Elea (GR)
 
-
 Zenon von Kition (GR)
-
 
 Zhu Xi
 
-
 Zhuangzi
-
 
 Zizka
 
-
 Zwingli
+
 
 * https://www.theguardian.com/profile/oliverburkeman
 
-- Philosophia (auxilia adnotationesque)
+
+* Philosophia (auxilia adnotationesque)
         * https://stoiccompass.wordpress.com/2017/10/21/ancient-greek-women-philosophers/
         * https://philarchive.org/archive/POEEOT
         * https://donaldrobertson.name/2013/12/11/lady-stoics-1-porcia-catonis/
@@ -3343,7 +2493,7 @@ Zwingli
     - Lists
     
     
-- Religion Books
+* Religion Books
     
     David O. McKay and the Rise of Modern Mormonism
     
@@ -3408,7 +2558,7 @@ Zwingli
         * [Кантата РИКВЕДА](https://archive.org/details/rykvedy)
         * [Radical Sacrifice](https://b-ok.cc/book/3679960/b98d37)
     
-- Notes
+* Notes
     
     What are the philosophical implications of the existence of a devil, as opposed to bad thoughts independent of demonic influence?
     
@@ -3906,7 +3056,7 @@ Zwingli
     
     Pascal Engel - Y'a-t-il une éthique intellectuelle ?
     
-- Ethics
+* Ethics
     
     what are my ethical obligations toward the world?
         * https://www.nature.com/scitable/knowledge/library/ethics-and-global-climate-change-84226631/ 
@@ -4003,7 +3153,7 @@ Zwingli
         * [Russell Brand & Frankie Boyle - Is It Possible To Live A Moral Life? - YouTube](https://www.youtube.com/watch?v=LFpKOw1XzG0)
     
     - Ethics
-- Reading (1)
+* Reading (1)
         * [(?) https://www.researchgate.net/publication/265857037_Technological_and_ethical_antecedents_of_e-book_piracy_and_price_acceptance_Evidence_from_the_Spanish_case](https://www.researchgate.net/publication/265857037_Technological_and_ethical_antecedents_of_e-book_piracy_and_price_acceptance_Evidence_from_the_Spanish_case)
         * [A Justified System of IP Rights](https://mospace.umsystem.edu/xmlui/handle/10355/4788)
         * [El Budismo Según Los Estoicos - YouTube](https://www.youtube.com/watch?v=wqWiMbHF55k)
@@ -4206,7 +3356,7 @@ Zwingli
         * https://nicomaque.com/2014/12/10/discours-de-reception-du-prix-nobel-par-friedrich-hayek/
         * http://libgen.rs/search.php?&req=philosophy+of+science+bunge&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
     
-- Reading (2)
+* Reading (2)
         * https://orbi.uliege.be/bitstream/2268/27735/1/Peuple,%20populaire,%20populisme.pdf
         * http://iphilo.fr/2016/11/15/quest-ce-que-le-populisme-laurent-bouvet/
     
@@ -4421,7 +3571,7 @@ Zwingli
         * https://infokiosques.net/IMG/pdf/Le_Mythe_du_Progres_LIVRET-2.pdf
         * http://www.cafephilosophia.fr/sujets/le-progres-un-mythe-depasse/
     
-- Reading (3)
+* Reading (3)
     
     à lire sur la moralité
         * http://spot.colorado.edu/~tooley/Lecture14.html
@@ -4633,7 +3783,7 @@ Zwingli
         * https://en.wikipedia.org/wiki/Category:Ukrainian_philosophers
         * http://philipphuebl.com/
     
-- Reading (4)
+* Reading (4)
         * https://valkyrist.wordpress.com/
         * https://philosophiya.ru/
         * https://www.nytimes.com/2019/06/04/opinion/conservatives-david-french-trump.html
@@ -4881,7 +4031,7 @@ Zwingli
         * [[Vidéo] &quot;Les hommes sont devenus des dieux, mais des dieux irresponsables&quot;, selon l&#39;auteur Yuval Noah Harari](https://www.usinenouvelle.com/editorial/video-les-hommes-sont-devenus-des-dieux-mais-des-dieux-irresponsables-selon-l-auteur-yuval-noah-harari.N596683)
         * [&quot;Dark Enlightenment&quot;: The neo-fascist philosophy that underpins both the alt-right and Silicon Valley technophiles — Quartz](https://qz.com/1007144/the-neo-fascist-philosophy-that-underpins-both-the-alt-right-and-silicon-valley-technophiles/)
     
-- Reading (5)
+* Reading (5)
         * [1. Une éthique des vertus est-elle possible pour les modernes ? - A modern virtue ethics? - University of Geneva | Coursera](https://www.coursera.org/learn/ethique/lecture/ttdW3/1-une-ethique-des-vertus-est-elle-possible-pour-les-modernes-a-modern-virtue)
     * [10 Libros de filosofía que debes de leer antes de morir - The Filos!!!: La Filosofía hecha Blog](http://thefilos.blogspot.com/2010/03/10-libros-de-filosofia-que-debes-de.html)
     * [10 livres de philosophie faciles à lire (et pourtant incontournables !)](http://la-philosophie.com/10-livres-de-philosophie-facile-a-lire)
@@ -5029,6 +4179,7 @@ Zwingli
     * [Jochen Kirchhoff - YouTube](https://www.youtube.com/user/missiontoplatoscave)
     * [Jochen Kirchhoff (Philosoph) – Wikipedia](https://de.wikipedia.org/wiki/Jochen_Kirchhoff_(Philosoph))
 
+
     JSTOR Series: The Philosophy of Popular Culture
     * [Ken Wilber](https://es.wikipedia.org/wiki/Ken_Wilber)
     * [L'actualité de la philosophie | Cairn.info](https://www.cairn.info/revue-tumultes-2001-2-page-153.htm)
@@ -5037,6 +4188,7 @@ Zwingli
     * [L'humanité du visage](http://philo.pourtous.free.fr/Articles/Julien/lhumanite_du_visage.htm)
     * [L'inquiétude (1/4) : Les obsessions de Philip Roth](https://www.franceculture.fr/emissions/les-chemins-de-la-philosophie/linquietude-14-les-obsessions-de-philip-roth)
     * [La Filosofía en la actualidad. - Filosofía - Todoexpertos.com](https://www.todoexpertos.com/categorias/humanidades/filosofia/respuestas/1030699/la-filosofia-en-la-actualidad)
+
 
     La Historia Universal de La Filosofía (Scribd)
     * [La Justicia, valor relativo (Kelsen)](https://www.youtube.com/watch?v=jkqFgyK6eZw&fbclid=IwAR00WQz8K3xZGkZSVqxpkUq2UP5-z8L7Tz8CarSB_Wdlw5f37c9C7Vc3JS8)
@@ -5061,6 +4213,7 @@ Zwingli
     * [Literatur zur Philosophie und ihrem Studium – OKAPI](http://okapi.uni-frankfurt.de/index.php/Literatur_zur_Philosophie_und_ihrem_Studium)
     * [Livre audio : La vie des Hommes Infâmes de Michel Foucault, lu par Lou-Hélène - YouTube](https://www.youtube.com/watch?v=kU-21hNo3ng)
 
+
     Mal gemein, mal wundervoll | beziehungsweise
     * [MARÍA ZAMBRANO FILÓSOFA ESPAÑOLA - YouTube](https://www.youtube.com/watch?v=enkUdZGnLIA)
     * [María Zambrano: el diálogo poético con la filosofía - YouTube](https://www.youtube.com/watch?v=flwQaqVuQVI)
@@ -5068,6 +4221,7 @@ Zwingli
     * [Marlène Zarader // Heidegger et la Mort - YouTube](https://www.youtube.com/watch?v=Su_kpX__kPg&fbclid=IwAR2YjeF2KBlZSyLX10IVT0Z6n6sC-Wh-iay95-0ejFV3kh9Am1M3LH9jTss)
     * [Marxismo y feminismo: una perspectiva histórica | Letras Libres](http://www.letraslibres.com/mexico/revista/marxismo-y-feminismo-una-perspectiva-historica)
     * [Mary's Room: A philosophical thought experiment - Eleanor Nelsen](https://www.youtube.com/watch?v=mGYmiQkah4o&fbclid=IwAR1hKhecR_m7fGkaNw9wZ5o8jeNLrSAKh3KnbpKZoK9AaZwyfPchffPIVE0)
+
 
     materialisme dialectique
     * [Matrix Philosophy](https://libgen.is/search.php?req=the+matrix+and+philosophy&open=0&res=25&view=simple&phrase=1&column=def)
@@ -5104,6 +4258,7 @@ Zwingli
     * [Pragmatismus - Vicipaedia](https://la.wikipedia.org/wiki/Pragmatismus)
     * [Pragmatismus.pdf](https://user.phil.hhu.de/~petersen/WiSe1415_InfowiColl/Pragmatismus.pdf)
 
+
     Propaganda Terms in the Media and What They Mean - Noam Chomskyde The Film Archives
     * [Protectionnisme vs libre-échangisme : le nouveau clivage politique ? | Listen Notes](https://www.listennotes.com/podcasts/linvit%C3%A9-des-matins/protectionnisme-vs-libre-VcFuL5t38WJ/)
     * [Qu'est-ce que la civilisation ? – Charles Maurras](http://maurras.net/textes/108.html)
@@ -5113,6 +4268,7 @@ Zwingli
     * [Redistribution (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/redistribution/)
     * [Reducing Animal Suffering](http://www.aboutanimaltesting.co.uk/reducing-animal-suffering.html)
     * [Religion: Truth & Belief | Philosophy Tube](https://youtu.be/fJZ8ib93vSk)
+
 
     Rolf Dobelli | Denkfehler und die Grenzen des Wissens (NZZ Standpunkte 2016)de NZZ Standpunkte
     * [She Wants to Keep the Baby! (Abortion, Feminism, & Fathers' Rights) | Philosophy Tube - YouTube](https://www.youtube.com/watch?v=YZzI5D84cd4)
@@ -5128,6 +4284,7 @@ Zwingli
     * [The Biology of Good and Evil (with Robert Sapolsky)](https://www.youtube.com/watch?v=kNLOJ-3rL60)
     * [The Computational Theory of Mind (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/computational-mind/)
     * [The Description, Philosophies and Justification of Satanism](http://www.dpjs.co.uk/satanism.html)
+
 
     THE FACTORY WORKER'S PHILOSOPHY - DICKSON - 1936 - The Sociological Review - Wiley Online Library
     * [The future ethics of advertising and mind invasion - YouTube](https://www.youtube.com/watch?v=0GI1FJiSWhw)
@@ -5149,7 +4306,8 @@ Zwingli
     * [Filosofia](https://www.facebook.com/groups/filosofiasemrestricoes/permalink/845642645628733/)
     * [André-Jean Voelke, La philosophie comme thérapie de l'âme. Études de philosophie hellénistique. Préface de Pierre Hadot - Persée](http://www.persee.fr/doc/phlou_0035-3841_1994_num_92_4_6882_t1_0588_0000_4)
 
-- Reading (6)
+
+* Reading (6)
         * [? Marotta](https://www.youtube.com/channel/UCDYdtUztbM3uQrOCO6Sy47A) (italiano)
         * [Nassim Taleb and Dmitry Peskov. Debate about the risk-engineering, WorldSkills Conference](https://www.youtube.com/watch?v=XFryKZEGzVI&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=22)
         * [¿Qué es el feminismo para las mujeres? | ActitudFem](https://www.youtube.com/watch?v=5pR1kDTm7ic&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=94)
@@ -5461,7 +4619,7 @@ Zwingli
         * [What is enough? MIZI Nadjib - WikiStage Jijel](https://www.youtube.com/watch?v=93VatsYl1t0&list=WL&index=295)
         * [Mark Zuckerberg y Yuval Noah Harari en conversación.](https://www.youtube.com/watch?v=Boj9eD0Wug8&list=WL&index=614)
     
-- Reading (7)
+* Reading (7)
         * [Виды общения (аудио)](https://vk.com/wall-6827569_28066)
         * [Закон Йеркса-Додсона](https://vk.com/@philosophia_club-zakon-ierksa-dodsona)
     
@@ -5700,7 +4858,7 @@ Zwingli
         * [Большие Дебаты «Эволюция VS креационизм» Соколов vs Буфеев 19 10 2018 - YouTube](https://www.youtube.com/watch?v=OGSrCBudbw8)
         * [Дао Дэ Цзин». Комментарий Патриарха чань-буддизма Ханьшань Дэцина (RU,ZH)](https://vk.com/doc30601958_478666563?hash=6360557604d5733199&dl=200235ec617b9c2f0b)
     
-- Reading (8)
+* Reading (8)
         * http://www.liveinternet.ru/users/4144431/post168691673/
         * http://www.uah.edu/woolf/feminism_kinds.htm
         * [Женщины-мыслители, мнения и взгляды](http://www.tebyan.net/index.aspx?pid=66427)
@@ -5768,7 +4926,7 @@ Zwingli
     
     Что значит "Оруэлловский"? [TED-ED]de In Cor Cadit
     
-- Reading (9)
+* Reading (9)
         * [teachings of the Buddha - books](https://libgen.is/search.php?req=teachings+of+the+buddha&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
     
     do animals have free will?
@@ -5851,7 +5009,7 @@ Zwingli
     
     The New Climate War: The Fight to Take Back Our Planet
     
-- Reading (10)
+* Reading (10)
         * http://deoxy.org/meme/Cognitive_Bias
         * http://forums.philosophyforums.com/threads/very-basic-terms-of-logic-6816.html
         * http://psychcentral.com/lib/15-common-cognitive-distortions/
@@ -5997,7 +5155,7 @@ Zwingli
         * [Western Civilization: Ideas, Politics, and Society: Since 1400 | Marvin Perry, Margaret Jacob, James Jacob, Myrna Chase, Theodore H. Von Laue | download](https://b-ok.cc/book/2086054/759631)
         * https://www.sociologyofbeauty.nl/
     
-- IAI
+* IAI
         * [Work and play](https://iai.us4.list-manage.com/track/click?u=5498751378b600bac07540f91&id=f7704c1336&e=c2b5e608e5)
         * [Do we still need morality?](https://iai.us4.list-manage.com/track/click?u=5498751378b600bac07540f91&id=e9e6d6cb17&e=c2b5e608e5)
         * [Fully automated luxury communism](https://iai.us4.list-manage.com/track/click?u=5498751378b600bac07540f91&id=0c9c427ebc&e=c2b5e608e5)
@@ -6069,7 +5227,7 @@ Zwingli
         * https://iai.tv/articles/should-i-kill-myself-or-have-a-cup-of-coffee-the-stoics-and-existentialists-agree-on-the-answer-auid-924
         * https://iai.tv/articles/hobbes-vs-rousseau-are-we-inherently-evil-or-good-auid-1221
     
-- Abortion
+* Abortion
         * https://www.currentaffairs.org/2018/08/abortion-and-the-left
         * https://www.firstthings.com/web-exclusives/2019/11/why-john-bel-edwards-wins
         * https://www.firstthings.com/
@@ -6102,7 +5260,7 @@ Zwingli
         * [Полемика вокруг проблемы аборта](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B5%D0%BC%D0%B8%D0%BA%D0%B0_%D0%B2%D0%BE%D0%BA%D1%80%D1%83%D0%B3_%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B_%D0%B0%D0%B1%D0%BE%D1%80%D1%82%D0%B0)
         * https://www.utm.edu/staff/jfieser/class/300/5-abortion.htm
     
-- Video
+* Video
         * [Durf te Denken](https://www.youtube.com/playlist?list=PLEp-wqLXEURMt1Jati2pxe9BjNMNDzA0b)
     * [Monsieur Phi](https://www.youtube.com/c/MonsieurPhi)
     * [filosofojoe](https://www.youtube.com/user/filosofojoe)
@@ -6129,7 +5287,7 @@ Zwingli
     * [The School of Life](https://www.youtube.com/c/theschooloflifetv)
     * [Debatte Gott](https://www.youtube.com/watch?v=PHwWQyDxiAc)
     
-- Contre-histoire
+* Contre-histoire
         * [Contre-histoire de la philosophie 1a](https://vk.com/wall-98831559_23)
     * [Contre-histoire de la philosophie 1b](https://vk.com/wall-98831559_40)
     * [Contre-histoire de la philosophie 1c](https://vk.com/wall-98831559_43)
@@ -6191,7 +5349,8 @@ Zwingli
     * [Contre-histoire de la philosophie 20b](https://vk.com/wall-98831559_617)
     * [Contre-histoire de la philosophie 20c](https://vk.com/wall-98831559_620)
 
-- Audio
+
+* Audio
         * http://www.litteratureaudio.com/livre-audio-gratuit-mp3/menard-louis-le-jour-des-morts-le-gouvernement-gratuit.html
     * http://www.litteratureaudio.com/livre-audio-gratuit-mp3/hervieu-paul-diogene-le-chien.html
     * http://www.litteratureaudio.com/livre-audio-gratuit-mp3/chamfort-sebastien-roch-nicolas-de-caracteres-et-anecdotes-selection.html
@@ -6256,7 +5415,7 @@ Zwingli
         * http://www.litteratureaudio.com/livre-audio-gratuit-mp3/abelard-pierre-lettre-a-un-ami.html
         * http://www.litteratureaudio.com/livres-audio-gratuits-mp3/tag/henri-bergson
     
-- Books
+* Books
         * [Il cristianesimo edonista. Controstoria della filosofia II [1 ed.]](http://libgen.is/book/index.php?md5=C0F4D223747A22E6CE8CC7FC8B2C07F1)
     * [Il cristianesimo edonista. Controstoria della filosofia II [1 ed.]](http://libgen.is/book/index.php?md5=627667A721432CD585F8D9BF89FB9363)
     * [L'età dei libertini. Controstoria della filosofia III [1 ed.]](http://libgen.is/book/index.php?md5=0F1F79E259D4B8410A90634391AAEA32)
@@ -6266,7 +5425,9 @@ Zwingli
     * [Schopenhauer, Thoreau, Stirner. Le radicalità esistenziali. Controstoria della filosofia VI [1 ed.]](http://libgen.is/book/index.php?md5=25A4E00538195EB21CC76915365E8420)
     * [Nietzsche e la costruzione del superuomo. Controstoria della filosofia VII [1 ed.]](http://libgen.is/book/index.php?md5=FEFEF4DD73FB5845EB41A46345FB91B6)
 
+
             * [50 Libros de Filosofía en PDF ¡Gratis!](http://eleternoestudiante.com/filosofia-libros-pdf-gratis/?fbclid=IwAR1HJtteJKPEkRZXjILzKHRMzV6zKgxUiMJIy3KLw0iUGzgCDfDU_ygrHG8)
+
 
     99 moralische Zwickmühlen
     * [A Map to the End of Time](https://vk.com/doc-124948599_475093840?hash=5251d87ca70334f6e1&dl=e67a23ce57df871487)
@@ -6274,16 +5435,21 @@ Zwingli
     * [aborto](https://libgen.is/search.php?req=aborto&open=0&res=25&view=simple&phrase=1&column=def)
     * [Adelphi](http://libgen.rs/search.php?req=Adelphi&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 
+
     Alice in Wonderland and Philosophy
     * [alienated](https://libgen.is/search.php?req=alienated&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
     * [All Things Shining](https://vk.com/doc464862457_459638626?hash=4a38a5dd7970b21d48&dl=ab1e106aca2eb9afd2)
 
+
     Alles Leben ist Problemlösen
     * [An Introduction to Modern Jewish Philosoph](http://library.lol/main/08B9EE1136F7D05B0BEA06818B9CABE9)y
 
+
     Analytische Einführung in die Ethik (Birnbacher)
 
+
     Angewandte Ethik (Pieper / Thurnherr)
+
 
     Angewandte Ethik und Religion (Laubach)
     * [anthony kenny](http://libgen.rs/search.php?&req=anthony+kenny&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
@@ -6293,52 +5459,68 @@ Zwingli
     * [Argumentation Theory: A Pragma-Dialectical Perspective_Frans H. van Eemeren_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-95381-6)
     * [baudrillard](https://libgen.is/search.php?&req=baudrillard&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=3)
 
+
     Being No One
     * [Bell Hooks books](https://libgen.is/search.php?&req=bell+hooks&phrase=0&view=simple&column=def&sort=language&sortmode=DESC)
     * [Business Ethics - A Philosophical and Behavioral Approach_Christian A. Conrad_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-91575-3)
     * [chinese philosophy](http://libgen.io/search.php?req=chinese+philosophy&open=0&res=25&view=simple&phrase=1&column=def)
 
+
     Chomsky - Foucault. La naturaleza humana
     * [Chris Hedges](https://libgen.is/search.php?&req=chris+hedges&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
     * [Communication and Bioethics at the End of Life_Lori A. Roscoe, David P. Schenck_1st ed. 2017](http://link.springer.com/openurl?genre=book&isbn=978-3-319-70920-8)
 
+
     Complete Idiot's Guide to Eastern Philosophy
+
 
     Contacto (Sagan)
 
+
     das böse (Eagleton)
+
 
     Das Böse denken
 
+
     Das Bücherhaus
+
 
     Das Cambridge Quintett
     * [das Denken](http://libgen.io/search.php?req=das+Denken&open=0&res=25&view=simple&phrase=1&column=def)
+
 
     Das philosophische Lesebuch
     * [Deadpool and Philosophy](https://vk.com/doc130743248_437669294?hash=871d6cdee454fdff01&dl=659a0a93c0bd2410e0)
     * [Del bello](http://library.lol/main/8976866C06CC88A352D07A234327C873)
     * [Denken](http://libgen.io/search.php?req=Denken&open=0&res=25&view=simple&phrase=1&column=def)
 
+
     Der philosophische Werkzeugkasten
     * [Descubrur la filosofía](https://www.facebook.com/groups/279472675583089/files/)
     * [Dialogical Philosophy from Kierkegaard to Buber](http://library.lol/main/5EAA39616CF40DE604823B0F441C73EF)
     * [Dictionary of Semiotics](http://libgen.io/search.php?req=Dictionary+of+Semiotics&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 
+
     Die Herzlichkeit der Vernunft
+
 
     Die Sonne und der Tod
     * [Discourse on Free Will](https://vk.com/doc-124948599_475093756?hash=10d5740319d294cfc0&dl=f3255d155ac7007b91)
     * [Dispute sulla verità e la morte](http://library.lol/main/31132349FBECCF1DA9E1FF346633EE82)
+
 
     DK Philosophie (Kompakt und Visuell)
     * [Doing philosophy](http://libgen.io/search.php?req=Doing+philosophy&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
     * [Donald Davidson](https://libgen.is/search.php?&req=donald+davidson&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
     * [Dr. Seuss and Philosophy](https://b-ok.cc/s/?q=%D1%81%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5+pdf&yearFrom=&yearTo=&language=&extension=&t=0)
 
+
     Einführung in die Ethik (Andersen)
 
+
     Einführung in die Ethik (Pieper)
+
 
     El camino desde la estructura
     * [Emanuele Severino](https://libgen.is/search.php?&req=Emanuele+Severino&phrase=0&view=simple&column=author&sort=year&sortmode=DESC&page=2)
@@ -6348,9 +5530,12 @@ Zwingli
     * [Erkenne dich selbst (II)](https://b-ok.cc/book/3552231/aa45f5)
     * [estoicos](https://libgen.is/search.php?req=estoicos&open=0&res=25&view=simple&phrase=1&column=def)
 
+
     Ethik (Mackie)
 
+
     Ethik und die Grenzen der Philosophie
+
 
     Falsche Propheten (Popper)
     * [Filo.pdf](https://www.booksite.ru/localtxt/koi/rea/phi/text.pdf)
@@ -6358,26 +5543,36 @@ Zwingli
     * [free will phrase](https://libgen.is/search.php?&req=routledge+free+will&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
     * [freier Wille](https://libgen.is/search.php?req=freier+Wille&open=0&res=25&view=simple&phrase=1&column=def)
 
+
     Freiheit und Vernunft (Hare)
+
 
     Game of Thrones and Philosophy
     * [Gedankenexperimente in der Philosophie](https://b-ok.cc/book/2436783/5d341f%20Gedankenexperimente)
     * [German Dictionary of Philosophical Terms, Vol. 1: German-English (Wörterbuch Philosophischer Fachbegriffe Englisch, Band 1)](https://b-ok.cc/book/964398/80d1c1)
 
+
     Geschichte der neueren Ethik 1 (Pieper)
 
+
     Geschichte der neueren Ethik 2 (Pieper)
+
 
     Geschichte der Philosophie (Helferisch)
     * [Gespräch mit einem Esel](https://www.derstandard.at/story/2000114306872/ernst-strouhal-gespraech-mit-einem-esel)
 
+
     Great Thinkers of the Eastern World
+
 
     Grenzgötter der Moral (Reese-Schäfer)
 
+
     Groteske Aufklärung
 
+
     Handbuch Sprachphilosophie (Metzler)
+
 
     Handbüchlein der Moral
     * [Hippocrene](http://libgen.io/search.php?req=Hippocrene&open=0&res=25&view=simple&phrase=1&column=def)
@@ -6393,11 +5588,15 @@ Zwingli
     * [jürgen habermas](https://libgen.is/search.php?&req=j%C3%BCrgen+habermas&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=4)
     * [Justice for Hedgehogs](https://vk.com/doc-124948599_475093791?hash=19a1ed771a4ba320a8&dl=f0c1a00f77baf0d030)
 
+
     Kant - Metafisica Costumbres
+
 
     Klassiker des philosophischen Denkens 1
 
+
     Klassiker des philosophischen Denkens 2
+
 
     La aventura de pensar
     * [La bilancia. Pensieri sul nostro temp](http://library.lol/main/2CCAB3B0D4AFC36908B02C89A8FC8325)o
@@ -6406,33 +5605,44 @@ Zwingli
     * [la pensée](http://libgen.io/search.php?req=la+pens%C3%A9e&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
     * [La pensée européenne au XVIIIe siècle de Montesquieu à Lessing](https://gallica.bnf.fr/ark:/12148/bpt6k96742694.texteImage)
 
+
     Leben 3.0
+
 
     Lexikon der Sekten, Sondergruppen und Weltanschauungen
     * [Libros del grupo Filosofía en español](https://www.facebook.com/groups/279472675583089/files/)
 
+
     Liebe. Ein unordentliches Gefühl
+
 
     Lob des Irrtums (Schaefer)
     * [Lógica de primer orden | Jesús Mosterín | download](http://b-ok.cc/book/2553070/d831d1)
 
+
     Los dragones del Eden
     * [Los lógicos | Jesús Mosterín | download](http://b-ok.cc/book/2553067/82d00e)
 
+
     Meaning and Existence (Bergmann)
 
+
     Metaphysik. Ein Grundkurs (Schmidinger)
+
 
     Methoden der Gegenwartsphilosophie (Wuchterl)
     * [michael sandel](http://libgen.io/search.php?&req=michael+sandel&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
     * [Michel Onfray](https://b-ok.cc/s/?q=Michel+Onfray)
     * [Michel Onfray: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/?q=Michel+Onfray&yearFrom=&yearTo=&language=&extension=&t=0)
 
+
     Mis creencias (Einstein)
+
 
     Modern Ethics in 77 Arguments
     * [O amanhã não está à venda](https://vk.com/doc-81946648_351922658?hash=14b101b1d1b8c8d2eb&dl=587d28d6595b9062e4)
     * [On Folk Epistemology How we Think and Talk about Knowledge.pdf](https://vk.com/doc348852382_462338908?hash=76645b790bc8ed493a&dl=8a113a1c7b6e506eee)
+
 
     On the Edge of Reason (Krleza)
     * [Oxford philosophical concepts](http://libgen.io/search.php?req=Oxford+philosophical+concepts&open=0&res=25&view=simple&phrase=1&column=def)
@@ -6441,23 +5651,31 @@ Zwingli
     * [Pensamientos](https://vk.com/doc525831385_508634691?hash=07d9d2e495441dc839&dl=1240f3d2afc835dd99)
     * [peter sloterdijk](https://libgen.is/search.php?&req=peter+sloterdijk&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=2)
 
+
     Petite philosophie de l'amour - Catherine Rambert
     * [PhiloMag](https://vk.com/wall-154894262_1647)
     * [Philosophical and Mathematical Logic_Harrie de Swart_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-030-03255-5)
     * [Philosophical Perspectives on Punishment](https://vk.com/doc-124948599_475093770?hash=9c908d9b04d9cb438d&dl=033a35ad566fd1598e)
 
+
     Philosophie der Mathematik
     * [Philosophie der Mythologie](https://vk.com/doc44301783_517373077?hash=e9d07ba540256424d2&dl=aeb71652c8042aecd3)
 
+
     Philosophie der Quantenphysik
+
 
     Philosophie elementaria (Gonzalez)
 
+
     Philosophie für Anfänger
+
 
     Philosophie fürs Leben (Evans)
 
+
     Philosophie im Alltag
+
 
     Philosophies of Art and Beauty
     * [Philosophy in Crisis The Need for Reconstruction.pdf](https://vk.com/doc348852382_479143708?hash=2a3273e0f234ebc691&dl=c568a865480bf145c5)
@@ -6470,88 +5688,114 @@ Zwingli
     * [Plato at the Googleplex](https://vk.com/doc464862457_459636433?hash=fa0aaacce4c5211839&dl=27a189a96ff5a0431b)
     * [Plato at the Googleplex: Why Philosophy Won&#39;t Go Away: Rebecca Goldstein: 9780307456724: Amazon.com: Books](https://www.amazon.com/Plato-Googleplex-Philosophy-Wont-Away/dp/0307456722/ref=la_B000APMI5A_1_1?s=books&ie=UTF8&qid=1521471399&sr=1-1&utm_source=Sam+Harris+Newsletter&utm_campaign=3a17f70447-EMAIL_CAMPAIGN_2018_02_28&utm_medium=email&utm_term=0_f1c2a2c9db-3a17f70447-207946301&mc_cid=3a17f70447&mc_eid=56037f2ba3)
 
+
     Platon - lexique
     * [Post-Truth (McIntyre)](https://vk.com/doc488576652_506840240?hash=79823d2faf568f5dce&dl=e0741442377d33c851)
     * [Postmodern Analysis](https://vk.com/doc35528094_497151580?hash=003a221043d37a0cf1&dl=b9994df4a31921a8af)
 
+
     Praktische Ethik (Singer)
+
 
     Principia Ethica (Moore)
     * [Readings in Formal Epistemology_Horacio Arló-Costa, Vincent F. Hendricks, Johan van Benthem_1st ed. 2016](http://link.springer.com/openurl?genre=book&isbn=978-3-319-20451-2)
 
+
     Readings in the Philosophy of Language
+
 
     robert heilbroner
     * [routledge philosophy](https://libgen.is/search.php?&req=routledge+philosophy&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
     * [Russian Thinkers (Berlin)](https://vk.com/doc464862457_459638347?hash=179265d45ae4eb35ee&dl=73fa52b1db8fc3ec41)
 
+
     Sei du selbst (Precht)
     * [Social Justice Theory and Practice for Social Work_Lynelle Watts, David Hodgson_1st ed. 2019](http://link.springer.com/openurl?genre=book&isbn=978-981-13-3621-8)
+
 
     Sokrates Jesus Buddha
     * [Speech and Morality On the Metaethical Implications of Speaking.epub](https://vk.com/doc348852382_479143709?hash=f36f77251457c7665c&dl=a95dab8fe499d76cda)
     * [Storia della filosofia](http://libgen.io/search.php?req=%09Storia+della+Filosofia&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
     * [Svyatoslav_Kaspe_Tsentry_i_ierarkhii.pdf](https://vk.com/doc30601958_465720533?hash=d24caf2638d3dfa61b&dl=557d7262cc83688960)
 
+
     Taschenbuch Programmiersprachen
+
 
     Texte zur Ethik (dtv)
     * [The Analects : Xue Er - Chinese Text Project](https://ctext.org/analects/xue-er/ens)
 
+
     The Big Bang Theory and Philosophy
     * [The Cave and the Light](https://vk.com/doc525831385_508455058?hash=b88cbbd468cc4c373d&dl=d3f43fb365f21bdac6)
     * [The Chinese Philosophy of Fate.epub](https://vk.com/doc348852382_462338909?hash=c19506c7e55f37b3b2&dl=36351c4982450c7997)
+
 
     The Dharma of the Princess Bride
     * [The Ethics of Authenticity](https://vk.com/doc35528094_488594319?hash=19140a59441ce39cf0&dl=9551c180092a2fff7b)
     * [The Hunger Games and Philosophy](https://vk.com/doc44301783_517373033?hash=57514c8b48974269ca&dl=15f309f94079d0b6c0)
     * [The Idea of Justice (Sen)](https://vk.com/doc488576652_506839613?hash=2dd1d3c113ef9914d7&dl=7bb20ed68cf527e7c3)
 
+
     The Open Society and Its Enemies
+
 
     The Oxford Handbook of the Philosophy of Language
     * [The Passion of the Western Mind](https://vk.com/doc35528094_488594111?hash=936b051bd431b7b990&dl=1d16d2aa2dda8fe424)
     * [The Philosopher's Toolkit](http://www.tpsp-journal.kpu.zp.ua/)
     * [The Philosophy Book](https://vk.com/doc4605748_452021985?hash=580604f7bf509855e0&dl=1cdb0c58ad9e16b179)
 
+
     The Philosophy of Language
+
 
     The Roman Search for Wisdom
     * [The Sacred Balance: Rediscovering Our Place in Natur](http://library.lol/main/24A17C8D4A6093E91211152A523916F9)e
     * [The Stone Reader. Modern Philosophy in 133 Arguments](https://vk.com/doc35528094_491035652?hash=e6b8c48bc63e1e7253&dl=704d5d491c230fd9fe)
 
+
     The Texts of Early Greek Philosophy
+
 
     Tiere Denken
     * [TRADITIONS ET PHILOSOPHIE - Essai d'une anthropologie philosophique africaine, Aklesso Adji - livre, ebook, epub](http://www.editions-harmattan.fr/index.asp?navig=catalogue&obj=livre&no=29513&razSqlClone=1)
+
 
     Traktat über kritische Vernunft (Albert)
     * [Trubetskoy_S_N_-_Kurs_istorii_drevney_filosofii_-_1997(2).pdf](https://vk.com/doc30601958_455519743?hash=8e9a799aeebb59e872&dl=a545abbd9d78cdeac4)
     * [Uchebnik po istorii russkoy filosofii-1.pdf](http://philosophy.spbu.ru/userfiles/rusphil/Uchebnik%20po%20istorii%20russkoy%20filosofii-1.pdf)
 
+
     Un punto azul pálido
+
 
     Und überall Philosophie
     * [Universalis Dictionnaire de la Philosophie](https://b-ok.cc/book/2928833/0309ed)
     * [Vom Guten, Wahren, und Schönen](https://vk.com/doc505124243_505092464?hash=c015a97f6a66c8639a&dl=96451be1ccf0f7f554)
+
 
     Wahrheit, Sprache und Geschichte
     * [War Is a Force That Gives Us Meaning](https://vk.com/doc525831385_509368981?hash=15aa176bcc73a6fd72&dl=f0c5278b3c6dcd5a93)
     * [Warum es die Welt nicht gibt](https://www.nationalreview.com/1999/05/non-fiction-100/)
     * [What Is This Thing Called Knowledge?](https://vk.com/doc35528094_491035654?hash=a1c495a349ff713d2c&dl=09ac186553f4e10d00)
 
+
     When Breath Becomes Air
     * [Where Good Ideas Come From](https://vk.com/doc4605748_467697196?hash=102c3fd705894f8dc8&dl=9dd356c73b029ed61d)
 
+
     Wie man die Welt verändert
+
 
     Zeit (Safranski)
     * [Айер А. Дж. - Язык, истина и логика. - 2010.pdf](https://vk.com/doc126754362_447529211?hash=58b06f665ee1dbdb4d&dl=bc50bda451a7637d21)
     * [Андрей Курпатов : "Самоучитель по Философии"](https://vk.com/doc-171300788_516940831?hash=c9d875c41072e13ae2&dl=cfc61bf7e2382b0ccf)
 
+
     Антология мировой философии
     * [Блохина Н.А. - Парадокс анализа и парадоксальность аналитической философии. pdf](https://vk.com/doc4605748_451600434?hash=0f5dcfda057b8bd4fe&dl=47adbd368a09d8d656)
     * [В своем кругу. Индивид и группа на Западе и Востоке Европы.pdf](https://vk.com/doc525831385_508455497?hash=4ae3cbfcf1aafa6654&dl=206e8dee57cd9aa535)
+
 
     Владимир Кантор
     * [Делез Ж. - Кино. - 2004.pdf](https://vk.com/doc7826881_480134353?hash=7e54bb4230bcf158fb&dl=13879a221806833e88)
@@ -6562,6 +5806,7 @@ Zwingli
     * [Зинченко В.П. - Философское наследие. 2016. djvu](https://vk.com/doc4605748_450488821?hash=0f966e180ea2092e5b&dl=f153a717841293a11d)
     * [История русской мысли](http://libgen.io/search.php?req=%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F+%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B9+%D0%BC%D1%8B%D1%81%D0%BB%D0%B8&open=0&res=25&view=simple&phrase=1&column=def)
     * [Колесников А.С. Философия Бертрана Рассела..djvu](https://vk.com/doc63430182_466305608?hash=5226db060ccf15f9c3&dl=a5fdb0644ac03edd4e)
+
 
     Краткая философская энциклопедия
     * [Куайн у. В. О. Слово и объект. М., 2000..pdf](https://vk.com/doc320060371_463733347?hash=95ac0523d3a7b0d790&dl=c3deef96d40891752a)
@@ -6600,10 +5845,12 @@ Zwingli
     * [Pandora's Brain](https://libgen.is/book/index.php?md5=C5F624F8CED39B4450051DAE24310821)
     * [The Economic Singularity: Artificial Intelligence and the Death of Capitalism](https://libgen.is/book/index.php?md5=3805EA5DA98B463616C36EB936B55467)
 
+
     Filosofía y sociología e la ciencia
     * [The Knowledge Illusion](https://vk.com/doc44301783_507832899?hash=d28199183ae7ce3e50&dl=ee92b0a74281700f2a)
     * [The Nature of Scientific Knowledge_Kevin McCain_1st ed. 2016](http://link.springer.com/openurl?genre=book&isbn=978-3-319-33405-9)
     * [The Scientific Outlook](https://vk.com/doc522475633_512886802?hash=6a7770cdaafe25c21b&dl=a6b249350c58ed8bec)
+
 
     Zu schön, um falsch zu sein. Über die Ästhetik in der Naturwissenschaft
     * [(filo antro) langaney: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/langaney)
@@ -6616,12 +5863,14 @@ Zwingli
     * [Existentialism - By Branch / Doctrine - The Basics of Philosophy](https://www.philosophybasics.com/branch_existentialism.html)
     * [Karl Popper](https://libgen.is/search.php?&req=karl+popper&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=2)
 
+
     - [**Karl Popper 1-3](https://libgen.is/search.php?&req=karl+popper&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=3)
     * [Library Genesis: Reinhard Neck, Harald Stelzer - Kritischer Rationalismus heute: Zur Aktualität der Philosophie Karl Poppers (Schriftenreihe der Karl Popper Foundation) (German Edition)](https://libgen.is/book/index.php?md5=09DA58881AB935780BC1D9BCD9CD67B8)
     * [L'Encyclopédie Philosophique – Etre le plus nombreux possible à penser le mieux possible](https://encyclo-philo.fr/)
     * [Philosophies of Funding: Cell](https://www.cell.com/fulltext/S0092-8674(09)00971-4)
     * [criticisms of self-help culture - Поиск в Google](https://www.google.com/search?q=criticisms+of+self-help+culture&rlz=1C5CHFA_enUS800US800&oq=criticisms+of+self-help+culture&aqs=chrome..69i57j33.9518j0j7&sourceid=chrome&ie=UTF-8)
     * [Routledge Critical Thinkers](https://libgen.is/search.php?req=Routledge+Critical+Thinkers&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+
 
     - [****que sais-je: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/que%20sais-je)
     * [Louis C.K. and Philosophy: You Don't Get to Be Bored - Google Книги](https://books.google.de/books?id=3XsgDAAAQBAJ&pg=PA167&lpg=PA167&dq=louis+c+k+on+heavenly+mother&source=bl&ots=0JjBoVDGvo&sig=ACfU3U2bsPU8hOpt8rzMhCnSqIxD9O8TbQ&hl=ru&sa=X&ved=2ahUKEwjtiMW84djpAhUaQUEAHQBLCDkQ6AEwAHoECAoQAQ#v=onepage&q=louis%20c%20k%20on%20heavenly%20mother&f=false)
@@ -6660,14 +5909,19 @@ Zwingli
     * [Jennifer Ackerman: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/g/Jennifer%20Ackerman)
     * [Sex, Murder, and the Meaning of Life: A Psychologist Investigates How Evolution, Cognition, and Complexity are Revolutionizing our View of Human Nature | Douglas T. Kenrick | download](https://b-ok.cc/book/2273015/b06fce)
 
+
     Philosophie im 21. Jahrhundert
+
 
     Philosophie du 21ème siècle
 
+
     философия 21 века
+
 
     Die besseren Menschen
     * [Einführung in die Philosophie nach Disziplinen](http://www.schuledialektik.de/lehrbuchdownlpdf.pdf)
+
 
     Streitgespräch zwischen Seele und Leib
     * [The Best Philosophy Books Of All Time [Updated For 2018!]](https://taylorpearson.me/book-review/best-philosophy-books/)
@@ -6675,13 +5929,16 @@ Zwingli
     * [Les 16 meilleurs livres philosophiques pour débutants | La culture générale](https://www.laculturegenerale.com/livres-philosophie-faciles-debutants/#Le_Prince_Nicolas_Machiavel_1532)
     * https://fivebooks.com/best-books/free-will-responsibility-paul-russell/
 
+
     - [**Supercolección de libros de antropología en PDF, Tiempo de leer - Arquetipo Educativo](https://arquetipoeducativo.blogspot.com/2017/09/supercoleccion-libros-de.html)
+
 
     - [**Supercolección de libros de pedagogía en PDF, tiempo de leer - Arquetipo Educativo](https://arquetipoeducativo.blogspot.com/2017/09/supercoleccion-libros-pedagogia.html)
     * [La vida tambien se piensa pdf - Ecosia](https://www.ecosia.org/search?p=1&q=La+vida+tambien+se+piensa+pdf)
     * [2084 - Noras Welt - Bücher - Hanser Literaturverlage](https://www.hanser-literaturverlage.de/buch/2084-noras-welt/978-3-446-24312-5/)
     * https://theculturetrip.com/europe/united-kingdom/england/london/articles/what-our-literary-editor-thinks-you-should-be-reading-this-june/
     * [Put together my own General Conference so I don&#39;t have to listen to pompous old white men with backwards views of the world. I desire all to receive it. (Links to videos in comments) : exmormon](https://www.reddit.com/r/exmormon/comments/72o9aa/put_together_my_own_general_conference_so_i_dont/?st=J83Y9VA9&sh=98759729)
+
 
     vue du monde
     * http://www.marketfaith.org/the-seven-questions-that-define-a-worldview/
@@ -6698,9 +5955,12 @@ Zwingli
     * http://www.federica.unina.it/sociologia/storia-delle-correnti-di-pensiero-contemporanee/la-questione-della-visione-del-mondo-come-quadro-concettuale-elettivo-per-la-prassi-specifica-della-consulenza-filosofica/
     * [Paolozzi and Wittgenstein](https://b-ok.cc/book/5243469/90fe34)
 
+
     Thunder from the Right
 
+
     David O. McKay (Prince)
+
 
     Mormonism and White Supremacy
     * [El Otro](https://drive.google.com/file/d/1naHmPopx4xPIEdjU7gFVgMxL34eFg1Lh/view)
@@ -6711,11 +5971,13 @@ Zwingli
     * [Dicc de la Existencia](https://www.facebook.com/groups/279472675583089/898479190349098/)
     * [Los siete mitos de la conquista espanola.pdf - Google Drive](https://drive.google.com/file/d/1apUme799gQ6K_a-seYB-0Ydvzp9Jy9l-/view)
 
+
         
-- Blogs
+* Blogs
         * [Chomsky](https://chomsky.info/)
     * [Philosophia Perennis – Ein Blick auf die Welt mit von der philosophia perennis geschärften Augen](https://philosophia-perennis.at/)
     * [The Intellectual Landscape of the Westermarckian Circle – Research Project](http://westermarck-project.com/)
+
 
     - [**Home | 1FICINA](http://www.1ficina.com.br/)
     * [Noticias de Filosofía - ABC.es](http://www.abc.es/cultura/filosofia/)
@@ -6725,6 +5987,7 @@ Zwingli
     * [Скачать учебник, пособие, справочник по философии.](http://www.alleng.ru/edu/philos3.htm)
     * [Очерк истории греческой философии](http://www.bm-info.ru/)
     * [Les Cahiers pédagogiques](http://www.cahiers-pedagogiques.com/)
+
 
     - [****Christian Felber - Startseite](http://www.christian-felber.at/)
     * [Citéphilo - home](http://www.citephilo.org/)
@@ -6760,6 +6023,7 @@ Zwingli
     * [www.malherido.com |](http://www.malherido.com/)
     * [Corrigé de votre dissertation de Philosophie - Ma Philo.net](http://www.maphilo.net/)
     * [La conscience - Cours de philosophie - Ma Philo .net](http://www.maphilo.net/conscience-cours.html)
+
 
     - [**Marcos Represas](http://www.marcosrepresas.com/)
     * [Martin Jacques - Martin Jacques – Author, &#39;When China Rules the World&#39;, columnist, broadcaster, lecturer](http://www.martinjacques.com/)
@@ -6801,11 +6065,13 @@ Zwingli
     * [FILOSOFIA.](https://filosofia.idoneos.com/)
     * [Filosofía Contemporanea](https://filosofiacontemporanea.wordpress.com/page/2/)
 
+
     - [**fcalle](https://filosofialacalle.wixsite.com/fcalle/blog/)
     * [Denkfabrik für Humanismus und Aufklärung | GBS Koblenz](https://gbs-koblenz.de/stiftung.html)
     * [Institute of Art and Ideas | Home » IAI TV](https://iai.tv/)
 
-- Philosophers Unsorted
+
+* Philosophers Unsorted
         * [Martha Nussbaum, "The Monarchy of Fear" - YouTube](https://www.youtube.com/watch?v=rKPlhUuoT94)
     * [Michel Foucault : les mots et les choses. Préface (1966) - YouTube](https://www.youtube.com/watch?v=XdqFddXApc4)
     * [Peter Singer's Ethics - YouTube](https://www.youtube.com/watch?v=gVViICWs4dM)
@@ -6813,6 +6079,7 @@ Zwingli
     * [Peter Sloterdijk - Kritik der zynischen Vernunft](https://libgen.is/book/index.php?md5=F32F29982184C353EC73E38E6463D8ED)
     * [Peter Sloterdijk: le bolle, l`animalità, l`utero - Rai Filosofia](http://www.filosofia.rai.it/articoli/peter-sloterdijk-le-bolle-lanimalit%C3%A0-lutero/31949/default.aspx)
     * [Peter Sloterdijk: Zur Lage der Welt – Sternstunde Philosophie | SRF Kultur - YouTube](https://www.youtube.com/watch?v=DHu2qzoZacg)
+
 
     Peter Sloterdijk | Zerbricht unsere Gesellschaft? (NZZ Standpunkte 2013) - YouTube
     * [Film For People - Peter Sloterdijk Interview - YouTube](https://www.youtube.com/watch?v=H31Q9C2n1TI)
@@ -6830,16 +6097,20 @@ Zwingli
     * [LPSR #5 - La société du spectacle - Guy Debord - Yann Kerninon](https://www.youtube.com/watch?v=ptR6IQwobf4)
     * https://www.youtube.com/results?search_query=la+soci%C3%A9t%C3%A9+du+spectacle
 
+
     Fernando Savater
     * https://www.youtube.com/results?search_query=pierre+hadot
+
 
             * [Jacques Derrida - Babelio](https://www.babelio.com/auteur/Jacques-Derrida/4199)
     * [Jacques Derrida — Wikipédia](https://fr.wikipedia.org/wiki/Jacques_Derrida)
     * [Jacques Derrida : Entretien avec Laure Adler [1996] - YouTube](https://www.youtube.com/watch?v=3wBBimc7dKo)
     * [Richard David Precht im Gespräch mit Thomas Metzinger - YouTube](https://www.youtube.com/watch?v=BXJU_srHqA0)
 
+
     Richard Feynman - The World from another point of viewde mrtp
     * [Richard Rorty - Wikipedia](https://en.wikipedia.org/wiki/Richard_Rorty)
+
 
     Robert J Asher (scientist - look for debates)
     * [RODRIGO MENCHÓN "Introducción al concepto de ideología de Slavoj Žižek" - YouTube](https://www.youtube.com/watch?v=bk9fSfHexXE)
@@ -6847,53 +6118,68 @@ Zwingli
     * [John Stuart Mill: higher happiness – TheTLS](https://www.the-tls.co.uk/articles/public/john-stuart-mill-higher-happiness/?CMP=Sprkr-_-Editorial-_-TimesLiterarySupplement-_-Unspecified-_-FBPAGE)
     * [Jordan Peterson & The Meaning of Life | Philosophy Tube - YouTube](https://www.youtube.com/watch?v=SEMB1Ky2n1E)
 
+
     John Gray and the problem with Utopia - YouTube
     * [John Gray en Bas Heijne bij Writers Unlimited The Series (9 maart 2015) - YouTube](https://www.youtube.com/watch?v=MTa-XZCKE08)
 
+
     Sam Harris Free Will Thought Experiment - YouTube
+
 
     Sam Harris, Lawrence Krauss, Steven Pinker - Can Science Tell Us Right From Wrong? - YouTube
     * [Sócrates, Platão, Aristóteles, Descartes e Rousseau - YouTube](https://www.youtube.com/watch?v=b6dCnMwmB0A)
     * [The Silence of Animals&quot; with John Gray - YouTube](https://www.youtube.com/watch?v=L_2eT3v4D6Q)
 
+
     The Soul of the Marionette with John Gray - YouTube
     * [The Trouble with 'Freedom' - John Gray - YouTube](https://www.youtube.com/watch?v=Ligot4t8s3E&t=328s)
     * [die philosophie des kant - YouTube](https://www.youtube.com/results?search_query=die+philosophie+des+kant)
 
+
     Yuval Harari: Ein Historiker erzählt die Geschichte von morgen (SRF Sternstunde Philosophie) - YouTube
     * [NL Kierkegaard](https://www.youtube.com/watch?v=tqYdLGCGzvs&t=79s)
     * [NL Nietzsche](https://www.youtube.com/watch?v=tcjDEJKo4MA&t=29s)
 
+
     Edmund Husserl - Der Vater der Phänomenologie - - YouTube
+
 
     Expliquez-moi Derrida 1/4
     * [TV CULT investiga Jacques Derrida - YouTube](https://www.youtube.com/watch?v=JstTXJMbb-0)
     * [Vis-à-vis - Peter Sloterdijk - YouTube](https://www.youtube.com/watch?v=bYx0akIA7_E)
 
+
     Debate Noam Chomsky &amp; Michel Foucault - On human nature [Subtitled] - YouTube
     * [Derrida, escritura y deconstrucción - YouTube](https://www.youtube.com/watch?v=u0VVGGrBSD0)
     * [Expliquez-moi Derrida (1/4) : D’Alger à Paris](https://castbox.fm/vd/56374110)
+
 
     Exclusive interview with Harvard philosophy professor Michael Sandel - YouTube
     * [EL ARTE DE LA GUERRA DE SUN TZU- RESUMEN ANIMADO - YouTube](https://www.youtube.com/watch?v=raBbZ8vcBNk)
     * [die philosophie des kant - YouTube](https://www.youtube.com/results?search_query=die+philosophie+des+kant)
 
+
     Yuval Harari: Ein Historiker erzählt die Geschichte von morgen (SRF Sternstunde Philosophie) - YouTube
     * [NL Kierkegaard](https://www.youtube.com/watch?v=tqYdLGCGzvs&t=79s)
     * [NL Nietzsche](https://www.youtube.com/watch?v=tcjDEJKo4MA&t=29s)
 
+
     Edmund Husserl - Der Vater der Phänomenologie - - YouTube
+
 
     Expliquez-moi Derrida 1/4
     * [TV CULT investiga Jacques Derrida - YouTube](https://www.youtube.com/watch?v=JstTXJMbb-0)
     * [Vis-à-vis - Peter Sloterdijk - YouTube](https://www.youtube.com/watch?v=bYx0akIA7_E)
 
+
     Debate Noam Chomsky &amp; Michel Foucault - On human nature [Subtitled] - YouTube
     * [Derrida, escritura y deconstrucción - YouTube](https://www.youtube.com/watch?v=u0VVGGrBSD0)
     * [Expliquez-moi Derrida (1/4) : D’Alger à Paris](https://castbox.fm/vd/56374110)
 
+
     Exclusive interview with Harvard philosophy professor Michael Sandel - YouTube
     * [EL ARTE DE LA GUERRA DE SUN TZU- RESUMEN ANIMADO - YouTube](https://www.youtube.com/watch?v=raBbZ8vcBNk)
+
 
     
     
@@ -6902,8 +6188,10 @@ Zwingli
     * [Yuval Noah Harari & Natalie Portman - YouTube](https://www.youtube.com/watch?v=87XFTJXH9sc)
     * [Гость Юваль Ной Харари. Познер. Выпуск от 24.06.2019 - YouTube](https://www.youtube.com/watch?v=cr2o6EWdq9A)
 
+
     Amartya Sen
     * [Book TV: Amartya Sen, &quot;The Idea of Justice&quot; - YouTube](https://www.youtube.com/watch?v=oObkriRKlJU)
+
 
             * [Ayn Rand und der Egoismus - Philosophie Magazin](http://philomag.de/ayn-rand-und-der-egoismus/)
     * [Bertrand Russell](https://libgen.is/search.php?&req=bertrand+russell&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
@@ -6916,12 +6204,16 @@ Zwingli
     * [David Hume: Causation](https://www.iep.utm.edu/hume-cau/)
     * [Spinoza NL-LA](https://b-ok.cc/book/2473695/30fc8e)
 
+
     Aldous Huxley
     * [Maria Michela Sassi](https://www.youtube.com/results?search_query=Maria+Michela+Sassi)
 
+
     Josef Pieper
 
+
     Kurt Vonnegut
+
 
     - ****10 Contemporary Philosophers to Read Today
     * [ЗМІСТ](http://library.nlu.edu.ua/POLN_TEXT/KOMPLEKS/KURS_1/kurs/5/001start.htm)
@@ -6930,6 +6222,7 @@ Zwingli
     * [[1308.1160] Coolhunting for the World&#39;s Thought Leaders](https://arxiv.org/abs/1308.1160)
     * [Les 100 africains les plus influents de 2017 : deux béninois dans le classement de New African](https://beninwebtv.com/2017/12/100-africains-plus-influents-de-2017-deux-beninois-classement-de-new-african/)
     * [Les 50 Africains les plus influents du monde – JeuneAfrique.com](http://www.jeuneafrique.com/133603/politique/les-50-africains-les-plus-influents-du-monde/)
+
 
     - [****GDI - Detail](http://www.gdi.ch/de/Think-Tank/Global-Thought-Leaders-2013)
     * [Le Magazine de L'afrique](http://magazinedelafrique.com/classement-les-100-africains-de-lannee/)
@@ -6942,7 +6235,9 @@ Zwingli
     * [Yuval Noah Harari](https://www.youtube.com/c/YuvalNoahHarari1)
     * [Andrii Baumeister](https://www.youtube.com/c/AndriiBaumeister)
 
+
     *[Foucault. La sonrisa melancólica, ocasionada por el horror (I) - Salta21.com](https://l.facebook.com/l.php?u=http%3A%2F%2Fsalta21.com%2FFoucault-La-sonrisa-melancolica.html%3Ffbclid%3DIwAR3nAc_w1SdVUc2LIUpMp6--7v54AO50vzic31CdRG9OekjmDDmJE_qlgcE&h=AT2P1ii38H2kIaCjqM7MNCp7yqSLkv-xJyPFcFuM0cJlwscmth_VXJbTOVsJ1w1HwOy2pPCLQXOTrcwqw_92NZsjJrOzcGB6F8tee0WaB6qw173l_OX5E2mDd-wrnnl_nF5fiTkGGQ)*
+
 
     *[Join the Plato, philosopher page for the philosophically minded!](https://www.facebook.com/groups/philosophergames/permalink/1442837019239844/)*
     * [Heidegger SER y TIEMPO](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D68MwXrw2p-E%26fbclid%3DIwAR2V_bhkNmRi_RZXL-O-gRHtI6X8a6LlDNbhz8phYqj5wq6vrTOpVSoAXbM&h=AT21L-Pz3G2c24jZwTUdWRrNhMPOXpP88cVWD5KneeInTzKNNxak3i61XckhCLyczhPED1O6KMdr3aKQl-Oo43JMvMRbvQqXcjb9V7ng2IwJ3GH9WG4yMeKWyYK-pUyvxYfnjDWBXw)
@@ -6951,9 +6246,12 @@ Zwingli
     * [Introdução a Kant](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFzPvO-bo3Nc%26fbclid%3DIwAR1iHDksrYNrmc3AxPj87N5cFhys0U3xi9sDcGyvuye9BnQrDX8BVDR56lU&h=AT156Qq-8y4SiaZTpzwyXV0OGHTaNR7qqu557RxLkrwo0EKurt8vBQ9m0Lm81_KbDCKPyBhRJS_SulDLkgOB14HMvS5iSQkyCIuvjvqH9mTzOt1RYz4Ea7mCckbxPrtqduKHFzVaq8Ke8gPLwV8)
     * [Jordan Peterson vs Matt Dillahunty (CC: Arabic & Spanish)](https://www.youtube.com/watch?v=FmH7JUeVQb8&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=96)
 
+
     *[Aristóteles - Teoría de la Potencia y el Acto](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWqiTSW3_ul8%26fbclid%3DIwAR1iHDksrYNrmc3AxPj87N5cFhys0U3xi9sDcGyvuye9BnQrDX8BVDR56lU&h=AT0B2MSkvE2BSmYw7r-2lnznJx7p4E7YinwPKMZKPTSaTlSowfeLEpmrQn0VV5nCcFAha3un4Fq8v6z3yDXsPB0aXWM7NJ2urupLZv-RtctuEegbinUTaDy9RL4Cfy-0Ykv3Djv3bg)*
 
+
     Slavoj Zizek -- Talk with Charlie Rose (2011) 1/3
+
 
     Superstar Communist Slavoj Zizek is The Most Dangerous Philosopher in the West
     * [Slavoj Žižek On Psychoanalysis](https://www.youtube.com/watch?v=hkHfApuTLgk&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=12)
@@ -6964,27 +6262,35 @@ Zwingli
     * [Noam Chomsky - The Purpose of Education](https://www.youtube.com/watch?v=DdNAUJWJN08&list=WL&index=59)
     * [Ehrman vs Craig: Evidence for Resurrection](https://www.youtube.com/watch?v=MW5_nJYSKyk&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=52)
 
+
     *[Friedrich Nietzsche](https://www.facebook.com/groups/filosofiasemrestricoes/permalink/1412345808958411/)*
     * [Noam Chomsky on Moral Relativism and Michel Foucault](https://www.youtube.com/watch?v=i63_kAw3WmE&list=WL&index=489)
     * [Martin Heidegger Interview with a Monk (English Subtitles)](https://www.youtube.com/watch?v=XcsBtl1SwuY&list=WL&index=493)
 
+
     Mark Lilla about Identity, Trump and Politics | TV-Talk | Sternstunde Philosophie | SRF Kultur
+
 
     Stop blaming Aristotle for the excesses of 20th century analytical philosophy!
     * [Sigmund Freud - Cultura para Principiantes](https://www.youtube.com/watch?v=y0cMloZKHoo&list=WL&index=1328)
 
+
     Karl Marx - Philosophische Betrachtungen
+
 
     Philosophie für Anfänger - Wittgenstein
     * [Seneca - Das Leben ist kurz](https://www.youtube.com/watch?v=v4KJt3LgaOg&list=WL&index=1307)
     * [Christian Streich über sein Interview mit der New York Times: "Ich bin kein Philosoph"](https://www.youtube.com/watch?v=al37velGHHQ&list=WL&index=1402)
     * [ArendtKanal](https://www.youtube.com/user/arendtgaus)
 
+
     Michel Foucault parle de l'Archéologie du savoir au micro de France Culture, le 2 mai 1969
+
 
     Baudrillard - La Disparition Du Monde Réel
     * [Heidegger In Twelve Minutes](https://www.youtube.com/watch?v=A04RhtR0imY&list=WL&index=490)
     * [🔴 Jean Baudrillard Hiperrealidad | Qué es la Realidad | FILOSOFIA](https://www.youtube.com/watch?v=vqEMdeS4MHU&list=WL&index=1330)
+
 
     Hegel – wer ist der Jahrhundert-Philosoph? | Scobel
     * [Rolf Dobelli | Denkfehler und die Grenzen des Wissens (NZZ Standpunkte 2016)](https://www.youtube.com/watch?v=MV7pBss4T6A&list=WL&index=90)
@@ -7005,7 +6311,9 @@ Zwingli
     * [Conferencia de Jean Baudrillard / Conférence Jean Baudrillard (francés / français)](https://www.youtube.com/watch?v=QZYKKGqm9SY&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=109)
     * [“Caro Darwin, ti scrivo.” Tua, per sempre, la filosofia](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.gazzettafilosofica.net%2F2019-1%2Fmaggio%2Fcaro-darwin-ti-scrivo-tua-per-sempre-la-filosofia%2F%3Ffbclid%3DIwAR1gtFgcJ2PICx8ze4AB4oH1F9mhDe0RHaFEJyovZHGN5rhDuBtTEEVcbGw&h=AT399mc3CLKSnJ5Vl3AUKlxsGMkZqHEsecx39t1ZjN2Pbk9ZAUxCao3ZQNSEc2m8E_MOa1nmOP1VrpZhTdA7UfSvmuAl7pT78ZWmA0acIrrUHsl0ZouL_kAxLWOAvAqLK9UGUfdXcA)
 
+
     Immanuel Kant - Der Weltweise aus Königsberg
+
 
     Philosophie erklärt: Was meint NIETZSCHE mit dem ÜBERMENSCH? - von Philosoph Dr. Christian Weilmeier
     * [John Gray (philosopher) - Wikipedia](https://en.wikipedia.org/wiki/John_Gray_(philosopher)#cite_note-28)
@@ -7014,6 +6322,7 @@ Zwingli
     * [Gustavo Bueno - Google Drive](https://drive.google.com/drive/folders/19MxxdGgdDkTKSxr2FzhSB1lW_LMM5Tlp)
     * [15. Spinoza I 17-18.m4a](https://www.dropbox.com/s/sakshfy12mg7usf/15.%20Spinoza%20I%2017-18.m4a?dl=0)
     * [Fernando Savater - Ética para amador.pdf](https://vk.com/doc746603_420080118?hash=291fdfde68bb67bf97&dl=0e7a3dc76192a7ff7f)
+
 
     - [**Lugarini - Aristotele e l&#39;Idea Della Filosofia](https://fr.scribd.com/document/127370988/Lugarini-Aristotele-e-l-Idea-Della-Filosofia)
     * [Opere di Giacomo Leopardi - Wikipedia](https://it.wikipedia.org/wiki/Opere_di_Giacomo_Leopardi)
@@ -7026,15 +6335,18 @@ Zwingli
     * [John Gray - YouTube - YouTube](https://www.youtube.com/playlist?list=PLFSMd0MVUj22cbzAxPZkr73Gl-KY0ygKU)
     * [why schumpeter hated democracy - Поиск в Google](https://www.google.com/search?q=why+schumpeter+hated+democracy&rlz=1C5CHFA_enUS800US800&oq=why+schumpeter+hated+democracy&aqs=chrome..69i57j69i64j69i61.6361j0j4&sourceid=chrome&ie=UTF-8)
 
+
     - [****Thomas Metzinger - Selected Publications](http://www.philosophie.uni-mainz.de/metzinger/publikationen/)
     * [self-taught philosophers - Buscar con Google](https://www.google.com/search?q=self-taught+philosophers&rlz=1C1GGRV_enUS753US753&oq=self-taught+philosophers&aqs=chrome..69i57j0l3.4312j0j7&sourceid=chrome&ie=UTF-8)
     * [self-taught working-class philosophers - Buscar con Google](https://www.google.com/search?safe=active&rlz=1C1GGRV_enUS753US753&ei=bxIFWoHmK9j8jwP_452oCg&q=self-taught+working-class+philosophers&oq=self-taught+working-class+philosophers&gs_l=psy-ab.3...49961.52404.0.55809.14.14.0.0.0.0.131.1461.5j9.14.0....0...1.1.64.psy-ab..0.2.229...0i13i30k1j0i13i5i30k1j35i39k1.0.KVarXZBVsN0)
 
+
     - [****World’s Most Influential Thinkers Revealed - MIT Technology Review](https://www.technologyreview.com/s/518026/network-analysis-reveals-worlds-most-influential-thinkers/)
     * [Айрис Мёрдок - Поиск в Google](https://www.google.com/search?rlz=1C1GCEA_enUS828US828&q=%D0%90%D0%B9%D1%80%D0%B8%D1%81+%D0%9C%D1%91%D1%80%D0%B4%D0%BE%D0%BA&stick=H4sIAAAAAAAAAOOQU-LQz9U3SE9JL4ySzs0vLlFIzcvKr0xMyklVKMjIzMkvzi_ISC0qPsUIVmdimpQOZYK0nGLkAjGNzJLLivJOMXJClJhnJD9i9OUWePnjnrCUy6Q1J68x2nFxhacmOeYVlwPNEjLg4gosTS2qdM5JLC4WUuISkOLx8QwOiQ92dfX29HPXYJTi40IR4fnFKOmYnJxflJKZl65Qkq-QlJ-fXZSZX6KXnJ_7i4kj3tUvxDMkMn4Ss2tGSUlBsZW-PrIKfSMDQ1OgM_UNTPXTMstSddNK83ThvqvUBakt1q1MLdYtSk3MyanUBwAiOGfgFwEAAA&sa=X&ved=2ahUKEwjIztznx6rfAhVGHTQIHaASB34QxA0wAHoECAcQBw&biw=929&bih=932)
 
+
         
-- John Gray
+* John Gray
         * [John Gray - On the Relationship Between Science and Humanities | Listen Notes](https://www.listennotes.com/podcasts/intellectual-dark/john-gray-on-the-8TBjD6Msb0k/)
     * [John Gray - Science and Magic - YouTube](https://www.youtube.com/watch?v=Z-z9gSg1ZF8)
     * [John Gray - YouTube](https://www.youtube.com/watch?v=jDJCEn1jTGA)
@@ -7049,10 +6361,12 @@ Zwingli
     * [The Perfect Human Being Series E05 - John Grays reality check of promising technologies - YouTube](https://www.youtube.com/watch?v=ft10Kx4Enos)
     * [Seven Types of Atheism with John Gray - YouTube](https://www.youtube.com/watch?v=yS1lJJca-fE)
 
+
     Uncertain Minds: What an agnostic can believe - John Gray (Part One)de StPaulsLondon
     * [Vision john gray philosopher - YouTube](https://www.youtube.com/playlist?list=PLS55yKSlincBNWP_DpTVIygveEOwYOH4I)
     * [Review: Heresies by John Gray | Books | The Guardian](https://www.theguardian.com/books/2004/sep/04/highereducation.news)
     * [Against Safe Spaces - John Gray - YouTube](https://www.youtube.com/watch?v=DhaLgiZF5RY)
+
 
     On Progress and Other Modern Myths&quot; by John Gray - YouTube
     * [Converses a La Pedrera 2015. John Gray (Versió Original) - YouTube](https://www.youtube.com/watch?v=LNv3jENXPqM)
@@ -7062,7 +6376,9 @@ Zwingli
     * ["The Soul of the Marionette" with John Gray - YouTube](https://www.youtube.com/watch?v=CON3BTnEURs)
     * [Believing in Reason is Childish - John Gray - YouTube](https://www.youtube.com/watch?v=EkZMLAbgSRU)
 
+
     Unknown Knowns - John Gray - YouTube
+
 
     Why Humans Are Violent - John Gray - YouTube
     * [The Trouble with 'Freedom' - John Gray - YouTube](https://www.youtube.com/watch?v=Ligot4t8s3E)
@@ -7071,7 +6387,8 @@ Zwingli
     * [The Myth of Modernity - John Gray - YouTube](https://www.youtube.com/watch?v=_4Hvxmw0Nto)
     * [Mistaken Identities: The Conflict Over Culture, Class, Gender and Nation with Kwame Anthony Appiah and John Gray | Listen Notes](https://www.listennotes.com/podcasts/intelligence-squared/mistaken-identities-the-y4bFhBn_519/)
 
-- Michel Onfray
+
+* Michel Onfray
         * [Michel Onfray - Brève Encyclopédie du Monde (France Culture) - Saison 01 &quot;Cosmos&quot; (2015-2016) - Michel Onfray](http://michel-onfray.over-blog.com/2016/07/michel-onfray-breve-encyclopedie-du-monde-saison-01-cosmos.html)
     * [Michel Onfray - Brève Encyclopédie du Monde (France Culture) - Saison 02 &quot;Cosmos&quot; (2017) - Michel Onfray](http://michel-onfray.over-blog.com/2017/07/michel-onfray-breve-encyclopedie-du-monde-france-culture-saison-02-cosmos-2017.html)
     * [Michel Onfray : «Les médias de masse ont intérêt à cultiver l'imbécillité»](http://www.lefigaro.fr/vox/societe/2016/09/16/31003-20160916ARTFIG00380-michel-onfray-les-medias-de-masse-ont-interet-a-cultiver-l-imbecillite.php)
@@ -7079,26 +6396,33 @@ Zwingli
     * [Michel Onfray sur Sputnik - MichelOnfray.com](https://vk.com/away.php?to=https%3A%2F%2Fmichelonfray.com%2Farchives%2Fmichel-onfray-sur-sputnik%3Fautoplay%3Dtrue)
     * [Michel Onfray: "Le système ne se laissera pas confisquer le pouvoir qu'il a réussi à voler au peuple](https://vk.com/away.php?to=https%3A%2F%2Fwww.lecho.be%2Fopinions%2Fcarte-blanche%2Fmichel-onfray-le-systeme-ne-se-laissera-pas-confisquer-le-pouvoir-qu-il-a-reussi-a-voler-au-peuple%2F10093462.html%3Ffbclid%3DIwAR0j09_4dvXsL0JEP2ki1785OIMgYRToY-_5BC0Pmv4GJTnENzTOUu7DwQE)
 
+
     - **Пошук новин за запитом michel onfray contre-histoire [***Пошук новин за запитом michel onfray contre-histoire](https://vk.com/search?c%5Bper_page%5D=40&c%5Bq%5D=michel%20onfray%20contre-histoire&c%5Bsection%5D=auto)
     * [Michel Onfray: free download. Ebooks library. On-line books store on Z-Library](http://b-ok.cc/s/?q=Michel+Onfray&yearFrom=&yearTo=&language=&extension=&t=0)
     * [Université Populaire de Caen » Michel Onfray](http://upc.michelonfray.fr/intervenants/michel-onfray/)
     * [Michel Onfray : Brève encyclopédie du monde - YouTube](https://www.youtube.com/watch?v=j_XgJhukdFU)
 
-- Noam Chomsky
+
+* Noam Chomsky
         * [Noam Chomsky on Capitalism - YouTube](https://www.youtube.com/watch?v=_FHNMZbnvYU)
     * [Noam Chomsky on George Orwell - YouTube](https://www.youtube.com/watch?v=v_tmlVBqX1o)
     * [Noam Chomsky: The Alien perspective on humanity - Jung & Naiv: Episode 284 - YouTube](https://www.youtube.com/watch?v=h0qdbsE3Jqo&t=153s)
     * [Noam Chomsky: Who Owns the World?](https://www.youtube.com/watch?v=_9CHtm2qK2g)
 
+
     Noam Chomsky - The Purpose of Educationde lwf
+
 
     Noam Chomsky - What We Really Wantde Chomsky's Philosophy
     * [Noam Chomsky & Michel Foucault - Full debate on Human Nature - YouTube](https://www.youtube.com/watch?v=7TUD4gfvtDY)
     * https://leftreferenceguide.wordpress.com/noam-chomsky-reading-list/
 
+
     Noam Chomsky - On Being Truly Educated
 
+
     Noam Chomsky on French Intellectual Culture &amp; Post-Modernism (3/8) - YouTube
+
 
     Noam Chomsky with Edward Snowden &amp; Glenn Greenwald - YouTube
     * [Chomsky explaining real anarchism - YouTube](https://www.youtube.com/watch?v=AkvPDx2qNjM)
@@ -7132,17 +6456,18 @@ Zwingli
     * [Chomsky book 27](https://b-ok.cc/book/2028409/82f58e)
     * [What We Really Want - Noam Chomsky and Wallace Shawn](https://www.youtube.com/watch?v=3CFwSQiTu3I&list=WL&t=0s&index=150)
 
-- Philo
+
+* Philo
         * [Sex and Death: An Introduction to Philosophy of Biology](http://library.lol/main/4E270AE18E7EF6E915BEE919C8CC55DE) 
         * [Philosophy of Love, Sex, and Marriage: An Introduction](http://library.lol/main/18A4C7B24CB1FCB889DFAB409B9DEB0F) 
         * http://libgen.rs/search.php?&req=philosophy+of+sex&phrase=1&view=simple&column=def&sort=year&sortmode=DESC 
     
 * http://www.apaonline.org/general/recommended_links.asp
 
-
 <SORTED>
 
-- Free Will
+
+* Free Will
     - Books
     - Articles
     - Podcast
@@ -7150,19 +6475,19 @@ Zwingli
     - Notes
     - People
     
-- People
+* People
         * [***Michael Gazzaniga](https://libgen.is/search.php?&req=Michael+Gazzaniga&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
         * [***Stanislas Dehaene](https://libgen.is/search.php?&req=Stanislas+Dehaene&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
         * [****Susan Blackmore](https://b-ok.cc/g/Susan%20Blackmore)
         * [**James H. Austin](https://b-ok.cc/g/James%20H.%20Austin)
         * [Aspen Gamlund](https://sites.google.com/site/espengamlund/)
     
-- Top References
+* Top References
         * https://philpapers.org/
         * http://plato.stanford.edu/
         * https://encyclo-philo.fr/
     
-- General Sites on Philosophy
+* General Sites on Philosophy
         * https://www.historyofphilosophy.net/
         * http://www.philosophybasics.com/general.html
         * http://www.iep.utm.edu/
@@ -7217,7 +6542,7 @@ Zwingli
         * [**CONVIVIO: FILOSOFIA (in Italiano)](https://vk.com/filosofia_in_italiano)
         * [Philosophy and Information Technology at philo.de](http://www.philo.de/)
     
-- Media, Publications
+* Media, Publications
         * [Vista de Vol. 6 Núm. 8 (6)](http://revistaodos.com/revista/index.php/odos/issue/view/11/Revista%20de%20Filosof%C3%ADa%20%E1%BD%89%CE%B4%E1%BD%B9%CF%82%208)
         * [Revista Replicante](http://revistareplicante.com/)
         * [La actualidad de la filosofía | Revista Replicante](http://revistareplicante.com/la-actualidad-de-la-filosofia/)
@@ -7303,21 +6628,21 @@ Zwingli
         * [LES GRANDES QUESTIONS DE LA VIE - Voici quelques grandes questions de la vie : Qui suis-je ? Où vais-je ? Qu&#39;est-ce que la mort - Pourquoi souffrons-nous ? Quelle est ma fonction sur Terre ? S&#39;interroger est la condition de notre conscience, nous devons](http://lesgrandesquestionsdelavie.over-blog.com/)
         * [Varia](http://www.zulio.org/journal/)
     
-- Dictionaries
+* Dictionaries
         * [Філософський словник (словник) - Філософія - Архів якісних рефератів](http://5ka.at.ua/load/filosofija/filosofskij_slovnik_slovnik/66-1-0-9370)
         * [grand_dictionnaire_de_la_philosophie_pdf](http://aefe-madagascar.histegeo.org/IMG/pdf/grand_dictionnaire_de_la_philosophie.pdf)
         * [Dizionari di Filosofia](http://host.uniroma3.it/progetti/kant/online/dizencglos/dizionari.html)
         * [Filosofiya_slovnik.pdf](http://udhtu.edu.ua/public/userfiles/file/Filosofiya_slovnik.pdf)
         * [IT.pdf](http://www.ilgiardinodeipensieri.eu/testi/dif_1_29_01_12.pdf)
     
-- Books
+* Books
         * [Consciousness and the Universe: Quantum Physics, Evolution, Brain & Mind | Roger Penrose; Stuart Hameroff; Ellen Langer; R. Gabriel Joseph; Chris J. S. Clarke; L. Dossey; Ernest Lawrence Rossi; Gian Carlo Ghirardi; Peter Sturrock; Edgarl D. Mitchel; Chris King; Walter J. Freeman; Don Page; Henry P. Stapp; Fred Kuttner; Michael B | download](https://b-ok.cc/book/5329215/e8bf07)
         * [Historia philosophiae graecae et Romanae ex fontium locis contexta; : Ritter, Heinrich : Free Download &amp; Streaming : Internet Archive](https://archive.org/details/historiaphilosop00rittuoft)
         * [Historia philosophiae graecae : testimonia auctorum conlegerunt notisque instruxerunt : Ritter, Heinrich, 1791-1869 : Free Download &amp; Streaming : Internet Archive](https://archive.org/details/historiaphilosop00ritt)
         * [How the Neoliberalization of Academia Leads to Thoughtlessness: Arendt and ... - Justin Pack - Google Книги](https://books.google.com/books?id=s9BwDwAAQBAJ&pg=PA98&lpg=PA98&dq=myopic+hyperspecialization&source=bl&ots=PCE_e3d5Wz&sig=hgoKDizt_bXJhE4djVgabFGor8w&hl=ru&sa=X&ved=2ahUKEwjo8-OL8qLfAhVEyFQKHZCtA3wQ6AEwBXoECAkQAQ#v=onepage&q=myopic%20hyperspecialization&f=false)
         * [600 citations pour bien réflichir avantd_agir.pdf](https://vk.com/doc6234312_452023767?hash=34393c293cbc38f80b&dl=10b44d6213a16b7679)
     
-- Consciousness
+* Consciousness
         * [The conscious mind: in search of a fundamental theory | David J. Chalmers | download](https://b-ok.cc/book/511970/bfade6?dsource=recommend)
         * [*The New Science of Consciousness: Exploring the Complexity of Brain, Mind, and Self | Paul L. Nunez | download](https://b-ok.cc/book/2927197/b321b1)
         * [*Strange Tools: Art and Human Nature | Alva Noe | download](https://b-ok.cc/book/2640649/b1b44d)
@@ -7329,7 +6654,7 @@ Zwingli
         * [****The Intellectual Landscape:](https://faculty.unlv.edu/beisecker/Courses/Phi-352/PhilMindOverview.htm)
         * [Home | dasGehirn.info - der Kosmos im Kopf](https://www.dasgehirn.info/)
     
-- YouTube
+* YouTube
         * [Философия - YouTube - YouTube](https://www.youtube.com/playlist?list=PLhMkqRn14YG_hfg4BaSAmVGXcthwAVbvD)
         * [FilosofíaTv - YouTube](https://www.youtube.com/channel/UCKVRnYq1wVPlqB_ZlKgMvJg)
         * [PhiloCloud - YouTube - YouTube](https://www.youtube.com/channel/UCboZczmG77XfR__Pq4yn5Ug)
@@ -7368,12 +6693,12 @@ Zwingli
         * [Provocações Filosóficas](https://www.youtube.com/channel/UCdsosII3oC_jGwi7NNxTbeQ)
         * [Human - YouTube](https://www.youtube.com/user/omroepHUMAN/playlists)
     
-- Podcast
+* Podcast
         * [50 Best Philosophy Podcasts | Student Guide](http://www.studentguide.org/50-best-philosophy-podcasts/)
         * [Simone et les philosophes - Le podcast préféré de Socrate](http://simoneetlesphilosophes.fr/)
         * http://live.audials.com/de#!podcast
     
-- Fora
+* Fora
         * [Portal Raízes](https://www.portalraizes.com/)
         * [Forum de Philosophie - Portail](https://www.forumdephilosophie.com/)
         * [Home | History of Philosophy without any gaps](https://historyofphilosophy.net/)
@@ -7384,7 +6709,7 @@ Zwingli
         * [**Philo Libre Expression: philosophie par internet, discussion philosophique en ligne, Cercle philosophique sur internet](https://philolibreexpression.fr/philosophie-sur-internet-debats-themes-discussions-philosophiques-en-ligne-philo-libre-expression)
         * [Philo-Welt.de | Philosophie Forum](http://philo-welt.de/forum/)
     
-- Other General Sites to Read
+* Other General Sites to Read
         * [Information Philosophie - Die Zeitschrift, die über Philosophie informiert](http://www.information-philosophie.de/)
         * [most important philosophical questions - Поиск в Google](https://www.google.com/search?q=most+important+philosophical+questions&rlz=1C1GCEA_enUS820US820&oq=most+important+philosophical+questions&aqs=chrome..69i57j0.7856j0j7&sourceid=chrome&ie=UTF-8)
         * [Index of /classics/bibliotheca](https://nsu.ru/classics/bibliotheca/)
@@ -7436,25 +6761,28 @@ Zwingli
         * http://www.libraryforall.org/blog/2015/8/20/our-favorite-open-educational-resources
         * http://www.vitutor.com/index.html
     
-- Courses
+* Courses
         * [Cours de philosophie - Programme de terminale](http://coursphilosophie.free.fr/index.php)
         * [Cours de philosophie - Programme de terminale](http://coursphilosophie.free.fr/index.php)
         * [Філософія | Prometheus](https://courses.prometheus.org.ua/courses/KPI/PHIL101/2016_T2/about)
     
-- Misc Questions, 1-shot
+* Misc Questions, 1-shot
         * [What are the different possible approaches to life? - Buscar con Google](https://www.google.com/search?q=What+are+the+different+possible+approaches+to+life%3F&rlz=1C5CHFA_enUS753US753&oq=What+are+the+different+possible+approaches+to+life%3F&aqs=chrome..69i57.7716j0j9&sourceid=chrome&ie=UTF-8)
     
 
-- →
+
+* →
         * https://zestedesavoir.com/ site général
     
+
 
 * [Religion of a Different Color: Race and the Mormon Struggle for Whiteness](http://library.lol/main/69321824457CDF2BF5513D5CF3D85CEE)
 * [philosophy: catapano critchley](http://libgen.rs/search.php?req=catapano+critchley&open=0&res=25&view=simple&phrase=1&column=def)
 * [How to Be Perfect: The Correct Answer to Every Moral Question](http://library.lol/main/1CFA22325B43E4764726AC82DAB6D2F8)
 * https://crisismagazine.com/opinion/a-left-wing-atheists-case-against-abortion 
 
-- idea evolution
+
+* idea evolution
     
     # Today’s Game Plan
     
@@ -7651,7 +6979,8 @@ What are my ethical obligations?
 * https://www.shortform.com/blog/evolution-of-ideas-2/ 
 * https://www.drorpoleg.com/thinking-fast-and-slopes 
 
-- philo
+
+* philo
         * https://www.lesswrong.com/ 
         * [https://www.google.com/search?q=evolution and the good life&ie=utf-8&oe=utf-8&client=firefox-b-m](https://www.google.com/search?q=evolution%20and%20the%20good%20life&ie=utf-8&oe=utf-8&client=firefox-b-m) 
         * https://psykip.vercel.app/compare/all 
@@ -7668,20 +6997,33 @@ What are my ethical obligations?
 * [Blame (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/blame/)
 * [Business Ethics (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/ethics-business/)
 * [Filo de la mente](http://libgen.rs/search.php?req=filosofia+de+la+mente&open=0&res=25&view=simple&phrase=1&column=def)
+
 26. Sort ‘Reading (9)’
+
 27. Sort ‘IAI’
+
 28. Sort ‘Abortion’
+
 29. Sort ‘Video’
+
 30. Sort ‘Contre-Histoire’
+
 31. Sort ‘Audio’
+
 32. Sort ‘Books’
+
 33. Sort ‘Blogs’
+
 34. Sort ‘Philosophers Unsorted’
+
 35. Sort ‘John Gray’
+
 36. Sort ‘Michel Onfray’
+
 37. Sort ‘Noam Chomsky’
 
-- To Sort
+
+* To Sort
         * https://libgen.rs/search.php?req=saul+smilansky&open=0&res=25&view=simple&phrase=1&column=def
         * [LPSR #21 - Penser l'Euthanasie avec Marc Grassin - Yann Kerninon](https://youtu.be/4kGDbxfO0Y8)
         * [The philosophy of horror or, Paradoxes of the heart](http://library.lol/main/809DB0E12E9FEA2CE27A85DE0E5533CD)
@@ -7727,6 +7069,7 @@ What are my ethical obligations?
     * https://en.wikipedia.org/wiki/Japanese_philosophy
     * https://de.wikipedia.org/wiki/Philosophie_in_Japan
 
+
     What can people of profession X, approaching the world primarily through the paradigms and habits of mind of profession X, learn from profession Y, with its associated tools and insights? → negative aspects of relying entirely on one's own field → benefits of enriching and enhancing one's approach to the world with the insights other fields, especially highly disparate ones → the perfect, i.e. perfectly well-rounded, mind: what would it look like? who are the best examples, whether contemporary or historical?
     * [3 Libri di Filosofia della Biologia: Monod, Mayr e Dennett](https://youtu.be/YbhcSbIdth4)
     * http://www.eurozine.com/critique-and-communication-philosophys-missions/
@@ -7741,9 +7084,12 @@ What are my ethical obligations?
     * http://literaturkritik.de/public/rezension.php?rez_id=13456&ausgabe=200910
     * http://literaturkritik.de/public/rezension.php?rez_id=14062
 
+
     “we feel with terrible resignation that reason is not a superhuman gift bestowed on humanity, that it is not an unchanging and eternal deity, that reason evolved in humanity and evolved into what it is, but that it also, however, could have evolved differently … what we hold to be the eternal and unalterably fixed laws of our intellectual being [are] merely a game played by the coincidence that is the world; when we recognise that our reason (which, after all, is language) can only be a coincidental reason, then we will only smile when we consider the argumentative passion with which anthropologists have laboured over questions of custom, belief and collective psychological ‘facts’. The”
 
+
     “Unknown to itself, the human mind creates worlds it cannot grasp. The places that are made by humans are as numinous and fugitive as those that appear in forest shade. Breaking the spell of diurnal perception, you can see landscapes in cities as unexpected as those that explorers discover in uncharted regions of the globe. A”
+
 
     “Like cheap music, the myth of progress lifts the spirits as it numbs the brain.”
     * https://www.timeshighereducation.com/books/the-silence-of-animals-on-progress-and-other-modern-myths-by-john-gray/2001712.article
@@ -7757,12 +7103,14 @@ What are my ethical obligations?
     * http://bastiat.org/
     * http://rzim.org/just-thinking/must-the-moral-law-have-a-lawgiver/
 
+
     philosophical problem of non-philosophers
     * [What Is Philosophy of Science? | Dean Rickles](https://b-ok.cc/book/5560878/d21ae5)
     * [Wicked Philosophy: Philosophy of Science and Vision Development for Complex Problems | Coyan Tromp](https://b-ok.cc/book/5558397/a15d6f)
     * [ph sci](https://b-ok.cc/book/2483633/8739a7)
     * [Dappled World](https://b-ok.cc/book/2475933/ce4f53)
     * [Essential Judaism : a complete guide to beliefs, customs, and rituals](https://b-ok.cc/book/3328569/7c6e00)
+
 
     Versöhnung zwischen mathematische beweisfundierte Weltanschauung und emotionelle reigióse Weltanschauung.
     * http://www.socrat-online.ru/page/mirovoj-krizis-glazami-zapadnyh-intellektualov
@@ -7801,10 +7149,13 @@ What are my ethical obligations?
     * [Gregory Bassham: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/g/Gregory%20Bassham)
     * [Entretien Pierre Hadot](https://www.youtube.com/watch?v=WntgG-NByUg)
 
+
     Commitment to empirically verifiable truth - ideas must hold up to reality
     * [Die Kunst, kein Egoist zu sein: Warum wir gerne gut sein wollen und was uns davon abhält | Richard David Precht | download](https://b-ok.cc/book/1013347/d4441f)
 
+
     Storia della Filosofia Occidentale
+
 
     - -> conocimiento básico de los filósofos lmá importantes
     * [Baudrillard multilingue](https://docs.google.com/spreadsheets/d/1K8BLWfw19z7Qo8gIEzXQdZVycjwKX0NRtyeuixcxsKg/edit?usp=sharing)
@@ -7812,6 +7163,7 @@ What are my ethical obligations?
     * https://m.pikabu.ru/story/filosofiya_popkulturyi_ili_populyarnaya_filosofiya_4340019
     * https://portalmapasconceptuales.blogspot.com/2018/06/mapa-conceptual-existencialismo-vs.html
     * https://portalmapasconceptuales.blogspot.com/2018/06/mapa-conceptual-immanuel-kant.html
+
 
     Noam Chomsky - On Being Truly Educatedde The Brainwaves Video Anthology
     * [The Paradox of Choice & Morality: How Intelligent is A.I. ?- Nick Bostrom - WGS 2018 - YouTube](https://www.youtube.com/watch?v=hK2s5ZPq87A)
@@ -7822,6 +7174,7 @@ What are my ethical obligations?
     * [20 Penseurs pour 2020](https://www.philomag.com/20-penseurs-pour-2020-42200)
     * [20 Philosophers and Their Big Ideas](https://thebestschools.org/magazine/major-philosopher-ideas/)
     * http://www.thalia.de/shop/home/artikeldetails/erkenne_die_welt/richard_david_precht/EAN9783844520118/ID43971536.html
+
 
     этика и философия деторождения
     * [Blogs de filósofos | Efímero](https://efimeroescombrera.wordpress.com/2013/05/31/blogs-de-filosofos/)
@@ -7835,6 +7188,7 @@ What are my ethical obligations?
     * [Ethical Issues in Advertising - Advertising and Ethics - YouTube](https://www.youtube.com/watch?v=j9AEtFdb1_4)
     * [Garder son estime de soi à l’ère de l’IA - Поиск в Google](https://www.google.com/search?q=Garder+son+estime+de+soi+%C3%A0+l%E2%80%99%C3%A8re+de+l%E2%80%99IA&rlz=1C5CHFA_enUS753US753&ei=s-BGXLWvBZi_0PEPirWF4As&start=10&sa=N&ved=0ahUKEwj11JKRiIHgAhWYHzQIHYpaAbwQ8tMDCIUB&biw=2048&bih=993)
 
+
     - [Nick Bostrom's Home Page](https://nickbostrom.com/)**
     * [Eine überschätzte Spezies | ARTE - YouTube](https://www.youtube.com/watch?v=nLEtkmVUMfU)
     * [El hombre-dios y el Nuevo Orden Mundial - YouTube](https://www.youtube.com/watch?v=jONJYxwjE8E)
@@ -7846,21 +7200,23 @@ What are my ethical obligations?
     * [Economics vs Philosophy with Tyler Cowen - YouTube](https://www.youtube.com/watch?v=Y2jqm7dRCEw)
     * [Is Economics a Science? | HuffPost](https://www.huffingtonpost.com/jared-bernstein/is-economics-a-science_b_3816471.html)
 
-- Philosophy of Work
+
+* Philosophy of Work
         * https://plato.stanford.edu/entries/work-labor/
         * https://www.suhrkamp.de/buch/philosophie-der-arbeit-t-9783518298015
         * [https://de.wikipedia.org/wiki/Arbeit_(Philosophie)](https://de.wikipedia.org/wiki/Arbeit_(Philosophie))
         * https://www.philomag.de/lexikon/arbeit
     
 
-- Philosophiæ quaestiones
+
+* Philosophiæ quaestiones
     - Metaphysica
     - Epistemologia
     - Logica
     - Ethica
     - Aesthetica
     - Altri
-- Autoepistemography
+* Autoepistemography
     
     Autoepistography
     
@@ -7943,7 +7299,7 @@ What are my ethical obligations?
     
     questioning the capacity for rational, unbiased thought at all
     
-- Lista y análisis de fuentes de la duda
+* Lista y análisis de fuentes de la duda
     
     Hey Eliza,
     
@@ -7987,7 +7343,7 @@ What are my ethical obligations?
     
     Broeder Izak
     
-- Iron Rod Letter
+* Iron Rod Letter
     
     When a Loved One Chooses to Let Go of the Iron Rod
     
@@ -8095,7 +7451,7 @@ What are my ethical obligations?
     
     Your ultimate goal may be to win your loved one back to the church. But don't risk driving him or her away by concentrating only upon that goal. If you keep your mind open you'll do a great service to everyone involved, have the greatest chance of restoring his or her faith, and possibly even find some new enlightenment for yourself.
     
-- Announcement Post
+* Announcement Post
     
     This is a long, blunt, and fairly personal open letter. If you are in the mood for cat videos right now, or if you hardly know me, scroll on.
     
@@ -8130,7 +7486,8 @@ What are my ethical obligations?
     Brief outline of my lifelong faith journey and how my beliefs have changed: https://docs.google.com/document/d/1m5Pm4MnoBPGYLARF-_Z-dahJXF6d2728FItreNVABTk/edit?usp=sharing
     
 
-- Philosophia (auxilia adnotationesque)
+
+* Philosophia (auxilia adnotationesque)
         * https://stoiccompass.wordpress.com/2017/10/21/ancient-greek-women-philosophers/
         * https://philarchive.org/archive/POEEOT
         * https://donaldrobertson.name/2013/12/11/lady-stoics-1-porcia-catonis/
@@ -8142,7 +7499,7 @@ What are my ethical obligations?
     - Lists
         * [Book List]()
     
-- Religion Books
+* Religion Books
     
     David O. McKay and the Rise of Modern Mormonism
     
@@ -8207,7 +7564,7 @@ What are my ethical obligations?
         * [Кантата РИКВЕДА](https://archive.org/details/rykvedy)
         * [Radical Sacrifice](https://b-ok.cc/book/3679960/b98d37)
     
-- Notes
+* Notes
     
     What are the philosophical implications of the existence of a devil, as opposed to bad thoughts independent of demonic influence?
     
@@ -8705,7 +8062,7 @@ What are my ethical obligations?
     
     Pascal Engel - Y'a-t-il une éthique intellectuelle ?
     
-- Ethics
+* Ethics
     
     what are my ethical obligations toward the world?
         * https://www.nature.com/scitable/knowledge/library/ethics-and-global-climate-change-84226631/ 
@@ -8802,7 +8159,7 @@ What are my ethical obligations?
         * [Russell Brand & Frankie Boyle - Is It Possible To Live A Moral Life? - YouTube](https://www.youtube.com/watch?v=LFpKOw1XzG0)
     
     - Ethics
-- Reading (1)
+* Reading (1)
         * [(?) https://www.researchgate.net/publication/265857037_Technological_and_ethical_antecedents_of_e-book_piracy_and_price_acceptance_Evidence_from_the_Spanish_case](https://www.researchgate.net/publication/265857037_Technological_and_ethical_antecedents_of_e-book_piracy_and_price_acceptance_Evidence_from_the_Spanish_case)
         * [A Justified System of IP Rights](https://mospace.umsystem.edu/xmlui/handle/10355/4788)
         * [El Budismo Según Los Estoicos - YouTube](https://www.youtube.com/watch?v=wqWiMbHF55k)
@@ -9005,7 +8362,7 @@ What are my ethical obligations?
         * https://nicomaque.com/2014/12/10/discours-de-reception-du-prix-nobel-par-friedrich-hayek/
         * http://libgen.rs/search.php?&req=philosophy+of+science+bunge&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
     
-- Reading (2)
+* Reading (2)
         * https://orbi.uliege.be/bitstream/2268/27735/1/Peuple,%20populaire,%20populisme.pdf
         * http://iphilo.fr/2016/11/15/quest-ce-que-le-populisme-laurent-bouvet/
     
@@ -9220,7 +8577,7 @@ What are my ethical obligations?
         * https://infokiosques.net/IMG/pdf/Le_Mythe_du_Progres_LIVRET-2.pdf
         * http://www.cafephilosophia.fr/sujets/le-progres-un-mythe-depasse/
     
-- Reading (3)
+* Reading (3)
     
     à lire sur la moralité
         * http://spot.colorado.edu/~tooley/Lecture14.html
@@ -9432,7 +8789,7 @@ What are my ethical obligations?
         * https://en.wikipedia.org/wiki/Category:Ukrainian_philosophers
         * http://philipphuebl.com/
     
-- Reading (4)
+* Reading (4)
         * https://valkyrist.wordpress.com/
         * https://philosophiya.ru/
         * https://www.nytimes.com/2019/06/04/opinion/conservatives-david-french-trump.html
@@ -9680,7 +9037,7 @@ What are my ethical obligations?
         * [[Vidéo] &quot;Les hommes sont devenus des dieux, mais des dieux irresponsables&quot;, selon l&#39;auteur Yuval Noah Harari](https://www.usinenouvelle.com/editorial/video-les-hommes-sont-devenus-des-dieux-mais-des-dieux-irresponsables-selon-l-auteur-yuval-noah-harari.N596683)
         * [&quot;Dark Enlightenment&quot;: The neo-fascist philosophy that underpins both the alt-right and Silicon Valley technophiles — Quartz](https://qz.com/1007144/the-neo-fascist-philosophy-that-underpins-both-the-alt-right-and-silicon-valley-technophiles/)
     
-- Reading (5)
+* Reading (5)
         * [1. Une éthique des vertus est-elle possible pour les modernes ? - A modern virtue ethics? - University of Geneva | Coursera](https://www.coursera.org/learn/ethique/lecture/ttdW3/1-une-ethique-des-vertus-est-elle-possible-pour-les-modernes-a-modern-virtue)
     * [10 Libros de filosofía que debes de leer antes de morir - The Filos!!!: La Filosofía hecha Blog](http://thefilos.blogspot.com/2010/03/10-libros-de-filosofia-que-debes-de.html)
     * [10 livres de philosophie faciles à lire (et pourtant incontournables !)](http://la-philosophie.com/10-livres-de-philosophie-facile-a-lire)
@@ -9828,6 +9185,7 @@ What are my ethical obligations?
     * [Jochen Kirchhoff - YouTube](https://www.youtube.com/user/missiontoplatoscave)
     * [Jochen Kirchhoff (Philosoph) – Wikipedia](https://de.wikipedia.org/wiki/Jochen_Kirchhoff_(Philosoph))
 
+
     JSTOR Series: The Philosophy of Popular Culture
     * [Ken Wilber](https://es.wikipedia.org/wiki/Ken_Wilber)
     * [L'actualité de la philosophie | Cairn.info](https://www.cairn.info/revue-tumultes-2001-2-page-153.htm)
@@ -9836,6 +9194,7 @@ What are my ethical obligations?
     * [L'humanité du visage](http://philo.pourtous.free.fr/Articles/Julien/lhumanite_du_visage.htm)
     * [L'inquiétude (1/4) : Les obsessions de Philip Roth](https://www.franceculture.fr/emissions/les-chemins-de-la-philosophie/linquietude-14-les-obsessions-de-philip-roth)
     * [La Filosofía en la actualidad. - Filosofía - Todoexpertos.com](https://www.todoexpertos.com/categorias/humanidades/filosofia/respuestas/1030699/la-filosofia-en-la-actualidad)
+
 
     La Historia Universal de La Filosofía (Scribd)
     * [La Justicia, valor relativo (Kelsen)](https://www.youtube.com/watch?v=jkqFgyK6eZw&fbclid=IwAR00WQz8K3xZGkZSVqxpkUq2UP5-z8L7Tz8CarSB_Wdlw5f37c9C7Vc3JS8)
@@ -9860,6 +9219,7 @@ What are my ethical obligations?
     * [Literatur zur Philosophie und ihrem Studium – OKAPI](http://okapi.uni-frankfurt.de/index.php/Literatur_zur_Philosophie_und_ihrem_Studium)
     * [Livre audio : La vie des Hommes Infâmes de Michel Foucault, lu par Lou-Hélène - YouTube](https://www.youtube.com/watch?v=kU-21hNo3ng)
 
+
     Mal gemein, mal wundervoll | beziehungsweise
     * [MARÍA ZAMBRANO FILÓSOFA ESPAÑOLA - YouTube](https://www.youtube.com/watch?v=enkUdZGnLIA)
     * [María Zambrano: el diálogo poético con la filosofía - YouTube](https://www.youtube.com/watch?v=flwQaqVuQVI)
@@ -9867,6 +9227,7 @@ What are my ethical obligations?
     * [Marlène Zarader // Heidegger et la Mort - YouTube](https://www.youtube.com/watch?v=Su_kpX__kPg&fbclid=IwAR2YjeF2KBlZSyLX10IVT0Z6n6sC-Wh-iay95-0ejFV3kh9Am1M3LH9jTss)
     * [Marxismo y feminismo: una perspectiva histórica | Letras Libres](http://www.letraslibres.com/mexico/revista/marxismo-y-feminismo-una-perspectiva-historica)
     * [Mary's Room: A philosophical thought experiment - Eleanor Nelsen](https://www.youtube.com/watch?v=mGYmiQkah4o&fbclid=IwAR1hKhecR_m7fGkaNw9wZ5o8jeNLrSAKh3KnbpKZoK9AaZwyfPchffPIVE0)
+
 
     materialisme dialectique
     * [Matrix Philosophy](https://libgen.is/search.php?req=the+matrix+and+philosophy&open=0&res=25&view=simple&phrase=1&column=def)
@@ -9903,6 +9264,7 @@ What are my ethical obligations?
     * [Pragmatismus - Vicipaedia](https://la.wikipedia.org/wiki/Pragmatismus)
     * [Pragmatismus.pdf](https://user.phil.hhu.de/~petersen/WiSe1415_InfowiColl/Pragmatismus.pdf)
 
+
     Propaganda Terms in the Media and What They Mean - Noam Chomskyde The Film Archives
     * [Protectionnisme vs libre-échangisme : le nouveau clivage politique ? | Listen Notes](https://www.listennotes.com/podcasts/linvit%C3%A9-des-matins/protectionnisme-vs-libre-VcFuL5t38WJ/)
     * [Qu'est-ce que la civilisation ? – Charles Maurras](http://maurras.net/textes/108.html)
@@ -9912,6 +9274,7 @@ What are my ethical obligations?
     * [Redistribution (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/redistribution/)
     * [Reducing Animal Suffering](http://www.aboutanimaltesting.co.uk/reducing-animal-suffering.html)
     * [Religion: Truth & Belief | Philosophy Tube](https://youtu.be/fJZ8ib93vSk)
+
 
     Rolf Dobelli | Denkfehler und die Grenzen des Wissens (NZZ Standpunkte 2016)de NZZ Standpunkte
     * [She Wants to Keep the Baby! (Abortion, Feminism, & Fathers' Rights) | Philosophy Tube - YouTube](https://www.youtube.com/watch?v=YZzI5D84cd4)
@@ -9927,6 +9290,7 @@ What are my ethical obligations?
     * [The Biology of Good and Evil (with Robert Sapolsky)](https://www.youtube.com/watch?v=kNLOJ-3rL60)
     * [The Computational Theory of Mind (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/computational-mind/)
     * [The Description, Philosophies and Justification of Satanism](http://www.dpjs.co.uk/satanism.html)
+
 
     THE FACTORY WORKER'S PHILOSOPHY - DICKSON - 1936 - The Sociological Review - Wiley Online Library
     * [The future ethics of advertising and mind invasion - YouTube](https://www.youtube.com/watch?v=0GI1FJiSWhw)
@@ -9948,7 +9312,8 @@ What are my ethical obligations?
     * [Filosofia](https://www.facebook.com/groups/filosofiasemrestricoes/permalink/845642645628733/)
     * [André-Jean Voelke, La philosophie comme thérapie de l'âme. Études de philosophie hellénistique. Préface de Pierre Hadot - Persée](http://www.persee.fr/doc/phlou_0035-3841_1994_num_92_4_6882_t1_0588_0000_4)
 
-- Reading (6)
+
+* Reading (6)
         * [? Marotta](https://www.youtube.com/channel/UCDYdtUztbM3uQrOCO6Sy47A) (italiano)
         * [Nassim Taleb and Dmitry Peskov. Debate about the risk-engineering, WorldSkills Conference](https://www.youtube.com/watch?v=XFryKZEGzVI&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=22)
         * [¿Qué es el feminismo para las mujeres? | ActitudFem](https://www.youtube.com/watch?v=5pR1kDTm7ic&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=94)
@@ -10260,7 +9625,7 @@ What are my ethical obligations?
         * [What is enough? MIZI Nadjib - WikiStage Jijel](https://www.youtube.com/watch?v=93VatsYl1t0&list=WL&index=295)
         * [Mark Zuckerberg y Yuval Noah Harari en conversación.](https://www.youtube.com/watch?v=Boj9eD0Wug8&list=WL&index=614)
     
-- Reading (7)
+* Reading (7)
         * [Виды общения (аудио)](https://vk.com/wall-6827569_28066)
         * [Закон Йеркса-Додсона](https://vk.com/@philosophia_club-zakon-ierksa-dodsona)
     
@@ -10499,7 +9864,7 @@ What are my ethical obligations?
         * [Большие Дебаты «Эволюция VS креационизм» Соколов vs Буфеев 19 10 2018 - YouTube](https://www.youtube.com/watch?v=OGSrCBudbw8)
         * [Дао Дэ Цзин». Комментарий Патриарха чань-буддизма Ханьшань Дэцина (RU,ZH)](https://vk.com/doc30601958_478666563?hash=6360557604d5733199&dl=200235ec617b9c2f0b)
     
-- Reading (8)
+* Reading (8)
         * http://www.liveinternet.ru/users/4144431/post168691673/
         * http://www.uah.edu/woolf/feminism_kinds.htm
         * [Женщины-мыслители, мнения и взгляды](http://www.tebyan.net/index.aspx?pid=66427)
@@ -10567,7 +9932,7 @@ What are my ethical obligations?
     
     Что значит "Оруэлловский"? [TED-ED]de In Cor Cadit
     
-- Reading (9)
+* Reading (9)
         * [teachings of the Buddha - books](https://libgen.is/search.php?req=teachings+of+the+buddha&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
     
     do animals have free will?
@@ -10650,7 +10015,7 @@ What are my ethical obligations?
     
     The New Climate War: The Fight to Take Back Our Planet
     
-- Reading (10)
+* Reading (10)
         * http://deoxy.org/meme/Cognitive_Bias
         * http://forums.philosophyforums.com/threads/very-basic-terms-of-logic-6816.html
         * http://psychcentral.com/lib/15-common-cognitive-distortions/
@@ -10796,7 +10161,7 @@ What are my ethical obligations?
         * [Western Civilization: Ideas, Politics, and Society: Since 1400 | Marvin Perry, Margaret Jacob, James Jacob, Myrna Chase, Theodore H. Von Laue | download](https://b-ok.cc/book/2086054/759631)
         * https://www.sociologyofbeauty.nl/
     
-- IAI
+* IAI
         * [Work and play](https://iai.us4.list-manage.com/track/click?u=5498751378b600bac07540f91&id=f7704c1336&e=c2b5e608e5)
         * [Do we still need morality?](https://iai.us4.list-manage.com/track/click?u=5498751378b600bac07540f91&id=e9e6d6cb17&e=c2b5e608e5)
         * [Fully automated luxury communism](https://iai.us4.list-manage.com/track/click?u=5498751378b600bac07540f91&id=0c9c427ebc&e=c2b5e608e5)
@@ -10868,7 +10233,7 @@ What are my ethical obligations?
         * https://iai.tv/articles/should-i-kill-myself-or-have-a-cup-of-coffee-the-stoics-and-existentialists-agree-on-the-answer-auid-924
         * https://iai.tv/articles/hobbes-vs-rousseau-are-we-inherently-evil-or-good-auid-1221
     
-- Abortion
+* Abortion
         * https://www.currentaffairs.org/2018/08/abortion-and-the-left
         * https://www.firstthings.com/web-exclusives/2019/11/why-john-bel-edwards-wins
         * https://www.firstthings.com/
@@ -10901,7 +10266,7 @@ What are my ethical obligations?
         * [Полемика вокруг проблемы аборта](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B5%D0%BC%D0%B8%D0%BA%D0%B0_%D0%B2%D0%BE%D0%BA%D1%80%D1%83%D0%B3_%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B_%D0%B0%D0%B1%D0%BE%D1%80%D1%82%D0%B0)
         * https://www.utm.edu/staff/jfieser/class/300/5-abortion.htm
     
-- Video
+* Video
         * [Durf te Denken](https://www.youtube.com/playlist?list=PLEp-wqLXEURMt1Jati2pxe9BjNMNDzA0b)
     * [Monsieur Phi](https://www.youtube.com/c/MonsieurPhi)
     * [filosofojoe](https://www.youtube.com/user/filosofojoe)
@@ -10928,7 +10293,7 @@ What are my ethical obligations?
     * [The School of Life](https://www.youtube.com/c/theschooloflifetv)
     * [Debatte Gott](https://www.youtube.com/watch?v=PHwWQyDxiAc)
     
-- Contre-histoire
+* Contre-histoire
         * [Contre-histoire de la philosophie 1a](https://vk.com/wall-98831559_23)
     * [Contre-histoire de la philosophie 1b](https://vk.com/wall-98831559_40)
     * [Contre-histoire de la philosophie 1c](https://vk.com/wall-98831559_43)
@@ -10990,7 +10355,8 @@ What are my ethical obligations?
     * [Contre-histoire de la philosophie 20b](https://vk.com/wall-98831559_617)
     * [Contre-histoire de la philosophie 20c](https://vk.com/wall-98831559_620)
 
-- Audio
+
+* Audio
         * http://www.litteratureaudio.com/livre-audio-gratuit-mp3/menard-louis-le-jour-des-morts-le-gouvernement-gratuit.html
     * http://www.litteratureaudio.com/livre-audio-gratuit-mp3/hervieu-paul-diogene-le-chien.html
     * http://www.litteratureaudio.com/livre-audio-gratuit-mp3/chamfort-sebastien-roch-nicolas-de-caracteres-et-anecdotes-selection.html
@@ -11055,7 +10421,7 @@ What are my ethical obligations?
         * http://www.litteratureaudio.com/livre-audio-gratuit-mp3/abelard-pierre-lettre-a-un-ami.html
         * http://www.litteratureaudio.com/livres-audio-gratuits-mp3/tag/henri-bergson
     
-- Books
+* Books
         * [Il cristianesimo edonista. Controstoria della filosofia II [1 ed.]](http://libgen.is/book/index.php?md5=C0F4D223747A22E6CE8CC7FC8B2C07F1)
     * [Il cristianesimo edonista. Controstoria della filosofia II [1 ed.]](http://libgen.is/book/index.php?md5=627667A721432CD585F8D9BF89FB9363)
     * [L'età dei libertini. Controstoria della filosofia III [1 ed.]](http://libgen.is/book/index.php?md5=0F1F79E259D4B8410A90634391AAEA32)
@@ -11065,7 +10431,9 @@ What are my ethical obligations?
     * [Schopenhauer, Thoreau, Stirner. Le radicalità esistenziali. Controstoria della filosofia VI [1 ed.]](http://libgen.is/book/index.php?md5=25A4E00538195EB21CC76915365E8420)
     * [Nietzsche e la costruzione del superuomo. Controstoria della filosofia VII [1 ed.]](http://libgen.is/book/index.php?md5=FEFEF4DD73FB5845EB41A46345FB91B6)
 
+
             * [50 Libros de Filosofía en PDF ¡Gratis!](http://eleternoestudiante.com/filosofia-libros-pdf-gratis/?fbclid=IwAR1HJtteJKPEkRZXjILzKHRMzV6zKgxUiMJIy3KLw0iUGzgCDfDU_ygrHG8)
+
 
     99 moralische Zwickmühlen
     * [A Map to the End of Time](https://vk.com/doc-124948599_475093840?hash=5251d87ca70334f6e1&dl=e67a23ce57df871487)
@@ -11073,16 +10441,21 @@ What are my ethical obligations?
     * [aborto](https://libgen.is/search.php?req=aborto&open=0&res=25&view=simple&phrase=1&column=def)
     * [Adelphi](http://libgen.rs/search.php?req=Adelphi&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 
+
     Alice in Wonderland and Philosophy
     * [alienated](https://libgen.is/search.php?req=alienated&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
     * [All Things Shining](https://vk.com/doc464862457_459638626?hash=4a38a5dd7970b21d48&dl=ab1e106aca2eb9afd2)
 
+
     Alles Leben ist Problemlösen
     * [An Introduction to Modern Jewish Philosoph](http://library.lol/main/08B9EE1136F7D05B0BEA06818B9CABE9)y
 
+
     Analytische Einführung in die Ethik (Birnbacher)
 
+
     Angewandte Ethik (Pieper / Thurnherr)
+
 
     Angewandte Ethik und Religion (Laubach)
     * [anthony kenny](http://libgen.rs/search.php?&req=anthony+kenny&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
@@ -11092,52 +10465,68 @@ What are my ethical obligations?
     * [Argumentation Theory: A Pragma-Dialectical Perspective_Frans H. van Eemeren_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-95381-6)
     * [baudrillard](https://libgen.is/search.php?&req=baudrillard&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=3)
 
+
     Being No One
     * [Bell Hooks books](https://libgen.is/search.php?&req=bell+hooks&phrase=0&view=simple&column=def&sort=language&sortmode=DESC)
     * [Business Ethics - A Philosophical and Behavioral Approach_Christian A. Conrad_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-91575-3)
     * [chinese philosophy](http://libgen.io/search.php?req=chinese+philosophy&open=0&res=25&view=simple&phrase=1&column=def)
 
+
     Chomsky - Foucault. La naturaleza humana
     * [Chris Hedges](https://libgen.is/search.php?&req=chris+hedges&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
     * [Communication and Bioethics at the End of Life_Lori A. Roscoe, David P. Schenck_1st ed. 2017](http://link.springer.com/openurl?genre=book&isbn=978-3-319-70920-8)
 
+
     Complete Idiot's Guide to Eastern Philosophy
+
 
     Contacto (Sagan)
 
+
     das böse (Eagleton)
+
 
     Das Böse denken
 
+
     Das Bücherhaus
+
 
     Das Cambridge Quintett
     * [das Denken](http://libgen.io/search.php?req=das+Denken&open=0&res=25&view=simple&phrase=1&column=def)
+
 
     Das philosophische Lesebuch
     * [Deadpool and Philosophy](https://vk.com/doc130743248_437669294?hash=871d6cdee454fdff01&dl=659a0a93c0bd2410e0)
     * [Del bello](http://library.lol/main/8976866C06CC88A352D07A234327C873)
     * [Denken](http://libgen.io/search.php?req=Denken&open=0&res=25&view=simple&phrase=1&column=def)
 
+
     Der philosophische Werkzeugkasten
     * [Descubrur la filosofía](https://www.facebook.com/groups/279472675583089/files/)
     * [Dialogical Philosophy from Kierkegaard to Buber](http://library.lol/main/5EAA39616CF40DE604823B0F441C73EF)
     * [Dictionary of Semiotics](http://libgen.io/search.php?req=Dictionary+of+Semiotics&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 
+
     Die Herzlichkeit der Vernunft
+
 
     Die Sonne und der Tod
     * [Discourse on Free Will](https://vk.com/doc-124948599_475093756?hash=10d5740319d294cfc0&dl=f3255d155ac7007b91)
     * [Dispute sulla verità e la morte](http://library.lol/main/31132349FBECCF1DA9E1FF346633EE82)
+
 
     DK Philosophie (Kompakt und Visuell)
     * [Doing philosophy](http://libgen.io/search.php?req=Doing+philosophy&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
     * [Donald Davidson](https://libgen.is/search.php?&req=donald+davidson&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
     * [Dr. Seuss and Philosophy](https://b-ok.cc/s/?q=%D1%81%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5+pdf&yearFrom=&yearTo=&language=&extension=&t=0)
 
+
     Einführung in die Ethik (Andersen)
 
+
     Einführung in die Ethik (Pieper)
+
 
     El camino desde la estructura
     * [Emanuele Severino](https://libgen.is/search.php?&req=Emanuele+Severino&phrase=0&view=simple&column=author&sort=year&sortmode=DESC&page=2)
@@ -11147,9 +10536,12 @@ What are my ethical obligations?
     * [Erkenne dich selbst (II)](https://b-ok.cc/book/3552231/aa45f5)
     * [estoicos](https://libgen.is/search.php?req=estoicos&open=0&res=25&view=simple&phrase=1&column=def)
 
+
     Ethik (Mackie)
 
+
     Ethik und die Grenzen der Philosophie
+
 
     Falsche Propheten (Popper)
     * [Filo.pdf](https://www.booksite.ru/localtxt/koi/rea/phi/text.pdf)
@@ -11157,26 +10549,36 @@ What are my ethical obligations?
     * [free will phrase](https://libgen.is/search.php?&req=routledge+free+will&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
     * [freier Wille](https://libgen.is/search.php?req=freier+Wille&open=0&res=25&view=simple&phrase=1&column=def)
 
+
     Freiheit und Vernunft (Hare)
+
 
     Game of Thrones and Philosophy
     * [Gedankenexperimente in der Philosophie](https://b-ok.cc/book/2436783/5d341f%20Gedankenexperimente)
     * [German Dictionary of Philosophical Terms, Vol. 1: German-English (Wörterbuch Philosophischer Fachbegriffe Englisch, Band 1)](https://b-ok.cc/book/964398/80d1c1)
 
+
     Geschichte der neueren Ethik 1 (Pieper)
 
+
     Geschichte der neueren Ethik 2 (Pieper)
+
 
     Geschichte der Philosophie (Helferisch)
     * [Gespräch mit einem Esel](https://www.derstandard.at/story/2000114306872/ernst-strouhal-gespraech-mit-einem-esel)
 
+
     Great Thinkers of the Eastern World
+
 
     Grenzgötter der Moral (Reese-Schäfer)
 
+
     Groteske Aufklärung
 
+
     Handbuch Sprachphilosophie (Metzler)
+
 
     Handbüchlein der Moral
     * [Hippocrene](http://libgen.io/search.php?req=Hippocrene&open=0&res=25&view=simple&phrase=1&column=def)
@@ -11192,11 +10594,15 @@ What are my ethical obligations?
     * [jürgen habermas](https://libgen.is/search.php?&req=j%C3%BCrgen+habermas&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=4)
     * [Justice for Hedgehogs](https://vk.com/doc-124948599_475093791?hash=19a1ed771a4ba320a8&dl=f0c1a00f77baf0d030)
 
+
     Kant - Metafisica Costumbres
+
 
     Klassiker des philosophischen Denkens 1
 
+
     Klassiker des philosophischen Denkens 2
+
 
     La aventura de pensar
     * [La bilancia. Pensieri sul nostro temp](http://library.lol/main/2CCAB3B0D4AFC36908B02C89A8FC8325)o
@@ -11205,33 +10611,44 @@ What are my ethical obligations?
     * [la pensée](http://libgen.io/search.php?req=la+pens%C3%A9e&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
     * [La pensée européenne au XVIIIe siècle de Montesquieu à Lessing](https://gallica.bnf.fr/ark:/12148/bpt6k96742694.texteImage)
 
+
     Leben 3.0
+
 
     Lexikon der Sekten, Sondergruppen und Weltanschauungen
     * [Libros del grupo Filosofía en español](https://www.facebook.com/groups/279472675583089/files/)
 
+
     Liebe. Ein unordentliches Gefühl
+
 
     Lob des Irrtums (Schaefer)
     * [Lógica de primer orden | Jesús Mosterín | download](http://b-ok.cc/book/2553070/d831d1)
 
+
     Los dragones del Eden
     * [Los lógicos | Jesús Mosterín | download](http://b-ok.cc/book/2553067/82d00e)
 
+
     Meaning and Existence (Bergmann)
 
+
     Metaphysik. Ein Grundkurs (Schmidinger)
+
 
     Methoden der Gegenwartsphilosophie (Wuchterl)
     * [michael sandel](http://libgen.io/search.php?&req=michael+sandel&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
     * [Michel Onfray](https://b-ok.cc/s/?q=Michel+Onfray)
     * [Michel Onfray: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/?q=Michel+Onfray&yearFrom=&yearTo=&language=&extension=&t=0)
 
+
     Mis creencias (Einstein)
+
 
     Modern Ethics in 77 Arguments
     * [O amanhã não está à venda](https://vk.com/doc-81946648_351922658?hash=14b101b1d1b8c8d2eb&dl=587d28d6595b9062e4)
     * [On Folk Epistemology How we Think and Talk about Knowledge.pdf](https://vk.com/doc348852382_462338908?hash=76645b790bc8ed493a&dl=8a113a1c7b6e506eee)
+
 
     On the Edge of Reason (Krleza)
     * [Oxford philosophical concepts](http://libgen.io/search.php?req=Oxford+philosophical+concepts&open=0&res=25&view=simple&phrase=1&column=def)
@@ -11240,23 +10657,31 @@ What are my ethical obligations?
     * [Pensamientos](https://vk.com/doc525831385_508634691?hash=07d9d2e495441dc839&dl=1240f3d2afc835dd99)
     * [peter sloterdijk](https://libgen.is/search.php?&req=peter+sloterdijk&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=2)
 
+
     Petite philosophie de l'amour - Catherine Rambert
     * [PhiloMag](https://vk.com/wall-154894262_1647)
     * [Philosophical and Mathematical Logic_Harrie de Swart_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-030-03255-5)
     * [Philosophical Perspectives on Punishment](https://vk.com/doc-124948599_475093770?hash=9c908d9b04d9cb438d&dl=033a35ad566fd1598e)
 
+
     Philosophie der Mathematik
     * [Philosophie der Mythologie](https://vk.com/doc44301783_517373077?hash=e9d07ba540256424d2&dl=aeb71652c8042aecd3)
 
+
     Philosophie der Quantenphysik
+
 
     Philosophie elementaria (Gonzalez)
 
+
     Philosophie für Anfänger
+
 
     Philosophie fürs Leben (Evans)
 
+
     Philosophie im Alltag
+
 
     Philosophies of Art and Beauty
     * [Philosophy in Crisis The Need for Reconstruction.pdf](https://vk.com/doc348852382_479143708?hash=2a3273e0f234ebc691&dl=c568a865480bf145c5)
@@ -11269,88 +10694,114 @@ What are my ethical obligations?
     * [Plato at the Googleplex](https://vk.com/doc464862457_459636433?hash=fa0aaacce4c5211839&dl=27a189a96ff5a0431b)
     * [Plato at the Googleplex: Why Philosophy Won&#39;t Go Away: Rebecca Goldstein: 9780307456724: Amazon.com: Books](https://www.amazon.com/Plato-Googleplex-Philosophy-Wont-Away/dp/0307456722/ref=la_B000APMI5A_1_1?s=books&ie=UTF8&qid=1521471399&sr=1-1&utm_source=Sam+Harris+Newsletter&utm_campaign=3a17f70447-EMAIL_CAMPAIGN_2018_02_28&utm_medium=email&utm_term=0_f1c2a2c9db-3a17f70447-207946301&mc_cid=3a17f70447&mc_eid=56037f2ba3)
 
+
     Platon - lexique
     * [Post-Truth (McIntyre)](https://vk.com/doc488576652_506840240?hash=79823d2faf568f5dce&dl=e0741442377d33c851)
     * [Postmodern Analysis](https://vk.com/doc35528094_497151580?hash=003a221043d37a0cf1&dl=b9994df4a31921a8af)
 
+
     Praktische Ethik (Singer)
+
 
     Principia Ethica (Moore)
     * [Readings in Formal Epistemology_Horacio Arló-Costa, Vincent F. Hendricks, Johan van Benthem_1st ed. 2016](http://link.springer.com/openurl?genre=book&isbn=978-3-319-20451-2)
 
+
     Readings in the Philosophy of Language
+
 
     robert heilbroner
     * [routledge philosophy](https://libgen.is/search.php?&req=routledge+philosophy&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
     * [Russian Thinkers (Berlin)](https://vk.com/doc464862457_459638347?hash=179265d45ae4eb35ee&dl=73fa52b1db8fc3ec41)
 
+
     Sei du selbst (Precht)
     * [Social Justice Theory and Practice for Social Work_Lynelle Watts, David Hodgson_1st ed. 2019](http://link.springer.com/openurl?genre=book&isbn=978-981-13-3621-8)
+
 
     Sokrates Jesus Buddha
     * [Speech and Morality On the Metaethical Implications of Speaking.epub](https://vk.com/doc348852382_479143709?hash=f36f77251457c7665c&dl=a95dab8fe499d76cda)
     * [Storia della filosofia](http://libgen.io/search.php?req=%09Storia+della+Filosofia&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
     * [Svyatoslav_Kaspe_Tsentry_i_ierarkhii.pdf](https://vk.com/doc30601958_465720533?hash=d24caf2638d3dfa61b&dl=557d7262cc83688960)
 
+
     Taschenbuch Programmiersprachen
+
 
     Texte zur Ethik (dtv)
     * [The Analects : Xue Er - Chinese Text Project](https://ctext.org/analects/xue-er/ens)
 
+
     The Big Bang Theory and Philosophy
     * [The Cave and the Light](https://vk.com/doc525831385_508455058?hash=b88cbbd468cc4c373d&dl=d3f43fb365f21bdac6)
     * [The Chinese Philosophy of Fate.epub](https://vk.com/doc348852382_462338909?hash=c19506c7e55f37b3b2&dl=36351c4982450c7997)
+
 
     The Dharma of the Princess Bride
     * [The Ethics of Authenticity](https://vk.com/doc35528094_488594319?hash=19140a59441ce39cf0&dl=9551c180092a2fff7b)
     * [The Hunger Games and Philosophy](https://vk.com/doc44301783_517373033?hash=57514c8b48974269ca&dl=15f309f94079d0b6c0)
     * [The Idea of Justice (Sen)](https://vk.com/doc488576652_506839613?hash=2dd1d3c113ef9914d7&dl=7bb20ed68cf527e7c3)
 
+
     The Open Society and Its Enemies
+
 
     The Oxford Handbook of the Philosophy of Language
     * [The Passion of the Western Mind](https://vk.com/doc35528094_488594111?hash=936b051bd431b7b990&dl=1d16d2aa2dda8fe424)
     * [The Philosopher's Toolkit](http://www.tpsp-journal.kpu.zp.ua/)
     * [The Philosophy Book](https://vk.com/doc4605748_452021985?hash=580604f7bf509855e0&dl=1cdb0c58ad9e16b179)
 
+
     The Philosophy of Language
+
 
     The Roman Search for Wisdom
     * [The Sacred Balance: Rediscovering Our Place in Natur](http://library.lol/main/24A17C8D4A6093E91211152A523916F9)e
     * [The Stone Reader. Modern Philosophy in 133 Arguments](https://vk.com/doc35528094_491035652?hash=e6b8c48bc63e1e7253&dl=704d5d491c230fd9fe)
 
+
     The Texts of Early Greek Philosophy
+
 
     Tiere Denken
     * [TRADITIONS ET PHILOSOPHIE - Essai d'une anthropologie philosophique africaine, Aklesso Adji - livre, ebook, epub](http://www.editions-harmattan.fr/index.asp?navig=catalogue&obj=livre&no=29513&razSqlClone=1)
+
 
     Traktat über kritische Vernunft (Albert)
     * [Trubetskoy_S_N_-_Kurs_istorii_drevney_filosofii_-_1997(2).pdf](https://vk.com/doc30601958_455519743?hash=8e9a799aeebb59e872&dl=a545abbd9d78cdeac4)
     * [Uchebnik po istorii russkoy filosofii-1.pdf](http://philosophy.spbu.ru/userfiles/rusphil/Uchebnik%20po%20istorii%20russkoy%20filosofii-1.pdf)
 
+
     Un punto azul pálido
+
 
     Und überall Philosophie
     * [Universalis Dictionnaire de la Philosophie](https://b-ok.cc/book/2928833/0309ed)
     * [Vom Guten, Wahren, und Schönen](https://vk.com/doc505124243_505092464?hash=c015a97f6a66c8639a&dl=96451be1ccf0f7f554)
+
 
     Wahrheit, Sprache und Geschichte
     * [War Is a Force That Gives Us Meaning](https://vk.com/doc525831385_509368981?hash=15aa176bcc73a6fd72&dl=f0c5278b3c6dcd5a93)
     * [Warum es die Welt nicht gibt](https://www.nationalreview.com/1999/05/non-fiction-100/)
     * [What Is This Thing Called Knowledge?](https://vk.com/doc35528094_491035654?hash=a1c495a349ff713d2c&dl=09ac186553f4e10d00)
 
+
     When Breath Becomes Air
     * [Where Good Ideas Come From](https://vk.com/doc4605748_467697196?hash=102c3fd705894f8dc8&dl=9dd356c73b029ed61d)
 
+
     Wie man die Welt verändert
+
 
     Zeit (Safranski)
     * [Айер А. Дж. - Язык, истина и логика. - 2010.pdf](https://vk.com/doc126754362_447529211?hash=58b06f665ee1dbdb4d&dl=bc50bda451a7637d21)
     * [Андрей Курпатов : "Самоучитель по Философии"](https://vk.com/doc-171300788_516940831?hash=c9d875c41072e13ae2&dl=cfc61bf7e2382b0ccf)
 
+
     Антология мировой философии
     * [Блохина Н.А. - Парадокс анализа и парадоксальность аналитической философии. pdf](https://vk.com/doc4605748_451600434?hash=0f5dcfda057b8bd4fe&dl=47adbd368a09d8d656)
     * [В своем кругу. Индивид и группа на Западе и Востоке Европы.pdf](https://vk.com/doc525831385_508455497?hash=4ae3cbfcf1aafa6654&dl=206e8dee57cd9aa535)
+
 
     Владимир Кантор
     * [Делез Ж. - Кино. - 2004.pdf](https://vk.com/doc7826881_480134353?hash=7e54bb4230bcf158fb&dl=13879a221806833e88)
@@ -11361,6 +10812,7 @@ What are my ethical obligations?
     * [Зинченко В.П. - Философское наследие. 2016. djvu](https://vk.com/doc4605748_450488821?hash=0f966e180ea2092e5b&dl=f153a717841293a11d)
     * [История русской мысли](http://libgen.io/search.php?req=%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F+%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B9+%D0%BC%D1%8B%D1%81%D0%BB%D0%B8&open=0&res=25&view=simple&phrase=1&column=def)
     * [Колесников А.С. Философия Бертрана Рассела..djvu](https://vk.com/doc63430182_466305608?hash=5226db060ccf15f9c3&dl=a5fdb0644ac03edd4e)
+
 
     Краткая философская энциклопедия
     * [Куайн у. В. О. Слово и объект. М., 2000..pdf](https://vk.com/doc320060371_463733347?hash=95ac0523d3a7b0d790&dl=c3deef96d40891752a)
@@ -11399,10 +10851,12 @@ What are my ethical obligations?
     * [Pandora's Brain](https://libgen.is/book/index.php?md5=C5F624F8CED39B4450051DAE24310821)
     * [The Economic Singularity: Artificial Intelligence and the Death of Capitalism](https://libgen.is/book/index.php?md5=3805EA5DA98B463616C36EB936B55467)
 
+
     Filosofía y sociología e la ciencia
     * [The Knowledge Illusion](https://vk.com/doc44301783_507832899?hash=d28199183ae7ce3e50&dl=ee92b0a74281700f2a)
     * [The Nature of Scientific Knowledge_Kevin McCain_1st ed. 2016](http://link.springer.com/openurl?genre=book&isbn=978-3-319-33405-9)
     * [The Scientific Outlook](https://vk.com/doc522475633_512886802?hash=6a7770cdaafe25c21b&dl=a6b249350c58ed8bec)
+
 
     Zu schön, um falsch zu sein. Über die Ästhetik in der Naturwissenschaft
     * [(filo antro) langaney: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/langaney)
@@ -11415,12 +10869,14 @@ What are my ethical obligations?
     * [Existentialism - By Branch / Doctrine - The Basics of Philosophy](https://www.philosophybasics.com/branch_existentialism.html)
     * [Karl Popper](https://libgen.is/search.php?&req=karl+popper&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=2)
 
+
     - [**Karl Popper 1-3](https://libgen.is/search.php?&req=karl+popper&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=3)
     * [Library Genesis: Reinhard Neck, Harald Stelzer - Kritischer Rationalismus heute: Zur Aktualität der Philosophie Karl Poppers (Schriftenreihe der Karl Popper Foundation) (German Edition)](https://libgen.is/book/index.php?md5=09DA58881AB935780BC1D9BCD9CD67B8)
     * [L'Encyclopédie Philosophique – Etre le plus nombreux possible à penser le mieux possible](https://encyclo-philo.fr/)
     * [Philosophies of Funding: Cell](https://www.cell.com/fulltext/S0092-8674(09)00971-4)
     * [criticisms of self-help culture - Поиск в Google](https://www.google.com/search?q=criticisms+of+self-help+culture&rlz=1C5CHFA_enUS800US800&oq=criticisms+of+self-help+culture&aqs=chrome..69i57j33.9518j0j7&sourceid=chrome&ie=UTF-8)
     * [Routledge Critical Thinkers](https://libgen.is/search.php?req=Routledge+Critical+Thinkers&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+
 
     - [****que sais-je: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/que%20sais-je)
     * [Louis C.K. and Philosophy: You Don't Get to Be Bored - Google Книги](https://books.google.de/books?id=3XsgDAAAQBAJ&pg=PA167&lpg=PA167&dq=louis+c+k+on+heavenly+mother&source=bl&ots=0JjBoVDGvo&sig=ACfU3U2bsPU8hOpt8rzMhCnSqIxD9O8TbQ&hl=ru&sa=X&ved=2ahUKEwjtiMW84djpAhUaQUEAHQBLCDkQ6AEwAHoECAoQAQ#v=onepage&q=louis%20c%20k%20on%20heavenly%20mother&f=false)
@@ -11459,14 +10915,19 @@ What are my ethical obligations?
     * [Jennifer Ackerman: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/g/Jennifer%20Ackerman)
     * [Sex, Murder, and the Meaning of Life: A Psychologist Investigates How Evolution, Cognition, and Complexity are Revolutionizing our View of Human Nature | Douglas T. Kenrick | download](https://b-ok.cc/book/2273015/b06fce)
 
+
     Philosophie im 21. Jahrhundert
+
 
     Philosophie du 21ème siècle
 
+
     философия 21 века
+
 
     Die besseren Menschen
     * [Einführung in die Philosophie nach Disziplinen](http://www.schuledialektik.de/lehrbuchdownlpdf.pdf)
+
 
     Streitgespräch zwischen Seele und Leib
     * [The Best Philosophy Books Of All Time [Updated For 2018!]](https://taylorpearson.me/book-review/best-philosophy-books/)
@@ -11474,13 +10935,16 @@ What are my ethical obligations?
     * [Les 16 meilleurs livres philosophiques pour débutants | La culture générale](https://www.laculturegenerale.com/livres-philosophie-faciles-debutants/#Le_Prince_Nicolas_Machiavel_1532)
     * https://fivebooks.com/best-books/free-will-responsibility-paul-russell/
 
+
     - [**Supercolección de libros de antropología en PDF, Tiempo de leer - Arquetipo Educativo](https://arquetipoeducativo.blogspot.com/2017/09/supercoleccion-libros-de.html)
+
 
     - [**Supercolección de libros de pedagogía en PDF, tiempo de leer - Arquetipo Educativo](https://arquetipoeducativo.blogspot.com/2017/09/supercoleccion-libros-pedagogia.html)
     * [La vida tambien se piensa pdf - Ecosia](https://www.ecosia.org/search?p=1&q=La+vida+tambien+se+piensa+pdf)
     * [2084 - Noras Welt - Bücher - Hanser Literaturverlage](https://www.hanser-literaturverlage.de/buch/2084-noras-welt/978-3-446-24312-5/)
     * https://theculturetrip.com/europe/united-kingdom/england/london/articles/what-our-literary-editor-thinks-you-should-be-reading-this-june/
     * [Put together my own General Conference so I don&#39;t have to listen to pompous old white men with backwards views of the world. I desire all to receive it. (Links to videos in comments) : exmormon](https://www.reddit.com/r/exmormon/comments/72o9aa/put_together_my_own_general_conference_so_i_dont/?st=J83Y9VA9&sh=98759729)
+
 
     vue du monde
     * http://www.marketfaith.org/the-seven-questions-that-define-a-worldview/
@@ -11497,9 +10961,12 @@ What are my ethical obligations?
     * http://www.federica.unina.it/sociologia/storia-delle-correnti-di-pensiero-contemporanee/la-questione-della-visione-del-mondo-come-quadro-concettuale-elettivo-per-la-prassi-specifica-della-consulenza-filosofica/
     * [Paolozzi and Wittgenstein](https://b-ok.cc/book/5243469/90fe34)
 
+
     Thunder from the Right
 
+
     David O. McKay (Prince)
+
 
     Mormonism and White Supremacy
     * [El Otro](https://drive.google.com/file/d/1naHmPopx4xPIEdjU7gFVgMxL34eFg1Lh/view)
@@ -11510,11 +10977,13 @@ What are my ethical obligations?
     * [Dicc de la Existencia](https://www.facebook.com/groups/279472675583089/898479190349098/)
     * [Los siete mitos de la conquista espanola.pdf - Google Drive](https://drive.google.com/file/d/1apUme799gQ6K_a-seYB-0Ydvzp9Jy9l-/view)
 
+
         
-- Blogs
+* Blogs
         * [Chomsky](https://chomsky.info/)
     * [Philosophia Perennis – Ein Blick auf die Welt mit von der philosophia perennis geschärften Augen](https://philosophia-perennis.at/)
     * [The Intellectual Landscape of the Westermarckian Circle – Research Project](http://westermarck-project.com/)
+
 
     - [**Home | 1FICINA](http://www.1ficina.com.br/)
     * [Noticias de Filosofía - ABC.es](http://www.abc.es/cultura/filosofia/)
@@ -11524,6 +10993,7 @@ What are my ethical obligations?
     * [Скачать учебник, пособие, справочник по философии.](http://www.alleng.ru/edu/philos3.htm)
     * [Очерк истории греческой философии](http://www.bm-info.ru/)
     * [Les Cahiers pédagogiques](http://www.cahiers-pedagogiques.com/)
+
 
     - [****Christian Felber - Startseite](http://www.christian-felber.at/)
     * [Citéphilo - home](http://www.citephilo.org/)
@@ -11559,6 +11029,7 @@ What are my ethical obligations?
     * [www.malherido.com |](http://www.malherido.com/)
     * [Corrigé de votre dissertation de Philosophie - Ma Philo.net](http://www.maphilo.net/)
     * [La conscience - Cours de philosophie - Ma Philo .net](http://www.maphilo.net/conscience-cours.html)
+
 
     - [**Marcos Represas](http://www.marcosrepresas.com/)
     * [Martin Jacques - Martin Jacques – Author, &#39;When China Rules the World&#39;, columnist, broadcaster, lecturer](http://www.martinjacques.com/)
@@ -11600,11 +11071,13 @@ What are my ethical obligations?
     * [FILOSOFIA.](https://filosofia.idoneos.com/)
     * [Filosofía Contemporanea](https://filosofiacontemporanea.wordpress.com/page/2/)
 
+
     - [**fcalle](https://filosofialacalle.wixsite.com/fcalle/blog/)
     * [Denkfabrik für Humanismus und Aufklärung | GBS Koblenz](https://gbs-koblenz.de/stiftung.html)
     * [Institute of Art and Ideas | Home » IAI TV](https://iai.tv/)
 
-- Philosophers Unsorted
+
+* Philosophers Unsorted
         * [Martha Nussbaum, "The Monarchy of Fear" - YouTube](https://www.youtube.com/watch?v=rKPlhUuoT94)
     * [Michel Foucault : les mots et les choses. Préface (1966) - YouTube](https://www.youtube.com/watch?v=XdqFddXApc4)
     * [Peter Singer's Ethics - YouTube](https://www.youtube.com/watch?v=gVViICWs4dM)
@@ -11612,6 +11085,7 @@ What are my ethical obligations?
     * [Peter Sloterdijk - Kritik der zynischen Vernunft](https://libgen.is/book/index.php?md5=F32F29982184C353EC73E38E6463D8ED)
     * [Peter Sloterdijk: le bolle, l`animalità, l`utero - Rai Filosofia](http://www.filosofia.rai.it/articoli/peter-sloterdijk-le-bolle-lanimalit%C3%A0-lutero/31949/default.aspx)
     * [Peter Sloterdijk: Zur Lage der Welt – Sternstunde Philosophie | SRF Kultur - YouTube](https://www.youtube.com/watch?v=DHu2qzoZacg)
+
 
     Peter Sloterdijk | Zerbricht unsere Gesellschaft? (NZZ Standpunkte 2013) - YouTube
     * [Film For People - Peter Sloterdijk Interview - YouTube](https://www.youtube.com/watch?v=H31Q9C2n1TI)
@@ -11629,16 +11103,20 @@ What are my ethical obligations?
     * [LPSR #5 - La société du spectacle - Guy Debord - Yann Kerninon](https://www.youtube.com/watch?v=ptR6IQwobf4)
     * https://www.youtube.com/results?search_query=la+soci%C3%A9t%C3%A9+du+spectacle
 
+
     Fernando Savater
     * https://www.youtube.com/results?search_query=pierre+hadot
+
 
             * [Jacques Derrida - Babelio](https://www.babelio.com/auteur/Jacques-Derrida/4199)
     * [Jacques Derrida — Wikipédia](https://fr.wikipedia.org/wiki/Jacques_Derrida)
     * [Jacques Derrida : Entretien avec Laure Adler [1996] - YouTube](https://www.youtube.com/watch?v=3wBBimc7dKo)
     * [Richard David Precht im Gespräch mit Thomas Metzinger - YouTube](https://www.youtube.com/watch?v=BXJU_srHqA0)
 
+
     Richard Feynman - The World from another point of viewde mrtp
     * [Richard Rorty - Wikipedia](https://en.wikipedia.org/wiki/Richard_Rorty)
+
 
     Robert J Asher (scientist - look for debates)
     * [RODRIGO MENCHÓN "Introducción al concepto de ideología de Slavoj Žižek" - YouTube](https://www.youtube.com/watch?v=bk9fSfHexXE)
@@ -11646,53 +11124,68 @@ What are my ethical obligations?
     * [John Stuart Mill: higher happiness – TheTLS](https://www.the-tls.co.uk/articles/public/john-stuart-mill-higher-happiness/?CMP=Sprkr-_-Editorial-_-TimesLiterarySupplement-_-Unspecified-_-FBPAGE)
     * [Jordan Peterson & The Meaning of Life | Philosophy Tube - YouTube](https://www.youtube.com/watch?v=SEMB1Ky2n1E)
 
+
     John Gray and the problem with Utopia - YouTube
     * [John Gray en Bas Heijne bij Writers Unlimited The Series (9 maart 2015) - YouTube](https://www.youtube.com/watch?v=MTa-XZCKE08)
 
+
     Sam Harris Free Will Thought Experiment - YouTube
+
 
     Sam Harris, Lawrence Krauss, Steven Pinker - Can Science Tell Us Right From Wrong? - YouTube
     * [Sócrates, Platão, Aristóteles, Descartes e Rousseau - YouTube](https://www.youtube.com/watch?v=b6dCnMwmB0A)
     * [The Silence of Animals&quot; with John Gray - YouTube](https://www.youtube.com/watch?v=L_2eT3v4D6Q)
 
+
     The Soul of the Marionette with John Gray - YouTube
     * [The Trouble with 'Freedom' - John Gray - YouTube](https://www.youtube.com/watch?v=Ligot4t8s3E&t=328s)
     * [die philosophie des kant - YouTube](https://www.youtube.com/results?search_query=die+philosophie+des+kant)
 
+
     Yuval Harari: Ein Historiker erzählt die Geschichte von morgen (SRF Sternstunde Philosophie) - YouTube
     * [NL Kierkegaard](https://www.youtube.com/watch?v=tqYdLGCGzvs&t=79s)
     * [NL Nietzsche](https://www.youtube.com/watch?v=tcjDEJKo4MA&t=29s)
 
+
     Edmund Husserl - Der Vater der Phänomenologie - - YouTube
+
 
     Expliquez-moi Derrida 1/4
     * [TV CULT investiga Jacques Derrida - YouTube](https://www.youtube.com/watch?v=JstTXJMbb-0)
     * [Vis-à-vis - Peter Sloterdijk - YouTube](https://www.youtube.com/watch?v=bYx0akIA7_E)
 
+
     Debate Noam Chomsky &amp; Michel Foucault - On human nature [Subtitled] - YouTube
     * [Derrida, escritura y deconstrucción - YouTube](https://www.youtube.com/watch?v=u0VVGGrBSD0)
     * [Expliquez-moi Derrida (1/4) : D’Alger à Paris](https://castbox.fm/vd/56374110)
+
 
     Exclusive interview with Harvard philosophy professor Michael Sandel - YouTube
     * [EL ARTE DE LA GUERRA DE SUN TZU- RESUMEN ANIMADO - YouTube](https://www.youtube.com/watch?v=raBbZ8vcBNk)
     * [die philosophie des kant - YouTube](https://www.youtube.com/results?search_query=die+philosophie+des+kant)
 
+
     Yuval Harari: Ein Historiker erzählt die Geschichte von morgen (SRF Sternstunde Philosophie) - YouTube
     * [NL Kierkegaard](https://www.youtube.com/watch?v=tqYdLGCGzvs&t=79s)
     * [NL Nietzsche](https://www.youtube.com/watch?v=tcjDEJKo4MA&t=29s)
 
+
     Edmund Husserl - Der Vater der Phänomenologie - - YouTube
+
 
     Expliquez-moi Derrida 1/4
     * [TV CULT investiga Jacques Derrida - YouTube](https://www.youtube.com/watch?v=JstTXJMbb-0)
     * [Vis-à-vis - Peter Sloterdijk - YouTube](https://www.youtube.com/watch?v=bYx0akIA7_E)
 
+
     Debate Noam Chomsky &amp; Michel Foucault - On human nature [Subtitled] - YouTube
     * [Derrida, escritura y deconstrucción - YouTube](https://www.youtube.com/watch?v=u0VVGGrBSD0)
     * [Expliquez-moi Derrida (1/4) : D’Alger à Paris](https://castbox.fm/vd/56374110)
 
+
     Exclusive interview with Harvard philosophy professor Michael Sandel - YouTube
     * [EL ARTE DE LA GUERRA DE SUN TZU- RESUMEN ANIMADO - YouTube](https://www.youtube.com/watch?v=raBbZ8vcBNk)
+
 
     
     
@@ -11701,8 +11194,10 @@ What are my ethical obligations?
     * [Yuval Noah Harari & Natalie Portman - YouTube](https://www.youtube.com/watch?v=87XFTJXH9sc)
     * [Гость Юваль Ной Харари. Познер. Выпуск от 24.06.2019 - YouTube](https://www.youtube.com/watch?v=cr2o6EWdq9A)
 
+
     Amartya Sen
     * [Book TV: Amartya Sen, &quot;The Idea of Justice&quot; - YouTube](https://www.youtube.com/watch?v=oObkriRKlJU)
+
 
             * [Ayn Rand und der Egoismus - Philosophie Magazin](http://philomag.de/ayn-rand-und-der-egoismus/)
     * [Bertrand Russell](https://libgen.is/search.php?&req=bertrand+russell&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
@@ -11715,12 +11210,16 @@ What are my ethical obligations?
     * [David Hume: Causation](https://www.iep.utm.edu/hume-cau/)
     * [Spinoza NL-LA](https://b-ok.cc/book/2473695/30fc8e)
 
+
     Aldous Huxley
     * [Maria Michela Sassi](https://www.youtube.com/results?search_query=Maria+Michela+Sassi)
 
+
     Josef Pieper
 
+
     Kurt Vonnegut
+
 
     - ****10 Contemporary Philosophers to Read Today
     * [ЗМІСТ](http://library.nlu.edu.ua/POLN_TEXT/KOMPLEKS/KURS_1/kurs/5/001start.htm)
@@ -11729,6 +11228,7 @@ What are my ethical obligations?
     * [[1308.1160] Coolhunting for the World&#39;s Thought Leaders](https://arxiv.org/abs/1308.1160)
     * [Les 100 africains les plus influents de 2017 : deux béninois dans le classement de New African](https://beninwebtv.com/2017/12/100-africains-plus-influents-de-2017-deux-beninois-classement-de-new-african/)
     * [Les 50 Africains les plus influents du monde – JeuneAfrique.com](http://www.jeuneafrique.com/133603/politique/les-50-africains-les-plus-influents-du-monde/)
+
 
     - [****GDI - Detail](http://www.gdi.ch/de/Think-Tank/Global-Thought-Leaders-2013)
     * [Le Magazine de L'afrique](http://magazinedelafrique.com/classement-les-100-africains-de-lannee/)
@@ -11741,7 +11241,9 @@ What are my ethical obligations?
     * [Yuval Noah Harari](https://www.youtube.com/c/YuvalNoahHarari1)
     * [Andrii Baumeister](https://www.youtube.com/c/AndriiBaumeister)
 
+
     *[Foucault. La sonrisa melancólica, ocasionada por el horror (I) - Salta21.com](https://l.facebook.com/l.php?u=http%3A%2F%2Fsalta21.com%2FFoucault-La-sonrisa-melancolica.html%3Ffbclid%3DIwAR3nAc_w1SdVUc2LIUpMp6--7v54AO50vzic31CdRG9OekjmDDmJE_qlgcE&h=AT2P1ii38H2kIaCjqM7MNCp7yqSLkv-xJyPFcFuM0cJlwscmth_VXJbTOVsJ1w1HwOy2pPCLQXOTrcwqw_92NZsjJrOzcGB6F8tee0WaB6qw173l_OX5E2mDd-wrnnl_nF5fiTkGGQ)*
+
 
     *[Join the Plato, philosopher page for the philosophically minded!](https://www.facebook.com/groups/philosophergames/permalink/1442837019239844/)*
     * [Heidegger SER y TIEMPO](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D68MwXrw2p-E%26fbclid%3DIwAR2V_bhkNmRi_RZXL-O-gRHtI6X8a6LlDNbhz8phYqj5wq6vrTOpVSoAXbM&h=AT21L-Pz3G2c24jZwTUdWRrNhMPOXpP88cVWD5KneeInTzKNNxak3i61XckhCLyczhPED1O6KMdr3aKQl-Oo43JMvMRbvQqXcjb9V7ng2IwJ3GH9WG4yMeKWyYK-pUyvxYfnjDWBXw)
@@ -11750,9 +11252,12 @@ What are my ethical obligations?
     * [Introdução a Kant](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFzPvO-bo3Nc%26fbclid%3DIwAR1iHDksrYNrmc3AxPj87N5cFhys0U3xi9sDcGyvuye9BnQrDX8BVDR56lU&h=AT156Qq-8y4SiaZTpzwyXV0OGHTaNR7qqu557RxLkrwo0EKurt8vBQ9m0Lm81_KbDCKPyBhRJS_SulDLkgOB14HMvS5iSQkyCIuvjvqH9mTzOt1RYz4Ea7mCckbxPrtqduKHFzVaq8Ke8gPLwV8)
     * [Jordan Peterson vs Matt Dillahunty (CC: Arabic & Spanish)](https://www.youtube.com/watch?v=FmH7JUeVQb8&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=96)
 
+
     *[Aristóteles - Teoría de la Potencia y el Acto](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWqiTSW3_ul8%26fbclid%3DIwAR1iHDksrYNrmc3AxPj87N5cFhys0U3xi9sDcGyvuye9BnQrDX8BVDR56lU&h=AT0B2MSkvE2BSmYw7r-2lnznJx7p4E7YinwPKMZKPTSaTlSowfeLEpmrQn0VV5nCcFAha3un4Fq8v6z3yDXsPB0aXWM7NJ2urupLZv-RtctuEegbinUTaDy9RL4Cfy-0Ykv3Djv3bg)*
 
+
     Slavoj Zizek -- Talk with Charlie Rose (2011) 1/3
+
 
     Superstar Communist Slavoj Zizek is The Most Dangerous Philosopher in the West
     * [Slavoj Žižek On Psychoanalysis](https://www.youtube.com/watch?v=hkHfApuTLgk&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=12)
@@ -11763,27 +11268,35 @@ What are my ethical obligations?
     * [Noam Chomsky - The Purpose of Education](https://www.youtube.com/watch?v=DdNAUJWJN08&list=WL&index=59)
     * [Ehrman vs Craig: Evidence for Resurrection](https://www.youtube.com/watch?v=MW5_nJYSKyk&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=52)
 
+
     *[Friedrich Nietzsche](https://www.facebook.com/groups/filosofiasemrestricoes/permalink/1412345808958411/)*
     * [Noam Chomsky on Moral Relativism and Michel Foucault](https://www.youtube.com/watch?v=i63_kAw3WmE&list=WL&index=489)
     * [Martin Heidegger Interview with a Monk (English Subtitles)](https://www.youtube.com/watch?v=XcsBtl1SwuY&list=WL&index=493)
 
+
     Mark Lilla about Identity, Trump and Politics | TV-Talk | Sternstunde Philosophie | SRF Kultur
+
 
     Stop blaming Aristotle for the excesses of 20th century analytical philosophy!
     * [Sigmund Freud - Cultura para Principiantes](https://www.youtube.com/watch?v=y0cMloZKHoo&list=WL&index=1328)
 
+
     Karl Marx - Philosophische Betrachtungen
+
 
     Philosophie für Anfänger - Wittgenstein
     * [Seneca - Das Leben ist kurz](https://www.youtube.com/watch?v=v4KJt3LgaOg&list=WL&index=1307)
     * [Christian Streich über sein Interview mit der New York Times: "Ich bin kein Philosoph"](https://www.youtube.com/watch?v=al37velGHHQ&list=WL&index=1402)
     * [ArendtKanal](https://www.youtube.com/user/arendtgaus)
 
+
     Michel Foucault parle de l'Archéologie du savoir au micro de France Culture, le 2 mai 1969
+
 
     Baudrillard - La Disparition Du Monde Réel
     * [Heidegger In Twelve Minutes](https://www.youtube.com/watch?v=A04RhtR0imY&list=WL&index=490)
     * [🔴 Jean Baudrillard Hiperrealidad | Qué es la Realidad | FILOSOFIA](https://www.youtube.com/watch?v=vqEMdeS4MHU&list=WL&index=1330)
+
 
     Hegel – wer ist der Jahrhundert-Philosoph? | Scobel
     * [Rolf Dobelli | Denkfehler und die Grenzen des Wissens (NZZ Standpunkte 2016)](https://www.youtube.com/watch?v=MV7pBss4T6A&list=WL&index=90)
@@ -11804,7 +11317,9 @@ What are my ethical obligations?
     * [Conferencia de Jean Baudrillard / Conférence Jean Baudrillard (francés / français)](https://www.youtube.com/watch?v=QZYKKGqm9SY&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=109)
     * [“Caro Darwin, ti scrivo.” Tua, per sempre, la filosofia](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.gazzettafilosofica.net%2F2019-1%2Fmaggio%2Fcaro-darwin-ti-scrivo-tua-per-sempre-la-filosofia%2F%3Ffbclid%3DIwAR1gtFgcJ2PICx8ze4AB4oH1F9mhDe0RHaFEJyovZHGN5rhDuBtTEEVcbGw&h=AT399mc3CLKSnJ5Vl3AUKlxsGMkZqHEsecx39t1ZjN2Pbk9ZAUxCao3ZQNSEc2m8E_MOa1nmOP1VrpZhTdA7UfSvmuAl7pT78ZWmA0acIrrUHsl0ZouL_kAxLWOAvAqLK9UGUfdXcA)
 
+
     Immanuel Kant - Der Weltweise aus Königsberg
+
 
     Philosophie erklärt: Was meint NIETZSCHE mit dem ÜBERMENSCH? - von Philosoph Dr. Christian Weilmeier
     * [John Gray (philosopher) - Wikipedia](https://en.wikipedia.org/wiki/John_Gray_(philosopher)#cite_note-28)
@@ -11813,6 +11328,7 @@ What are my ethical obligations?
     * [Gustavo Bueno - Google Drive](https://drive.google.com/drive/folders/19MxxdGgdDkTKSxr2FzhSB1lW_LMM5Tlp)
     * [15. Spinoza I 17-18.m4a](https://www.dropbox.com/s/sakshfy12mg7usf/15.%20Spinoza%20I%2017-18.m4a?dl=0)
     * [Fernando Savater - Ética para amador.pdf](https://vk.com/doc746603_420080118?hash=291fdfde68bb67bf97&dl=0e7a3dc76192a7ff7f)
+
 
     - [**Lugarini - Aristotele e l&#39;Idea Della Filosofia](https://fr.scribd.com/document/127370988/Lugarini-Aristotele-e-l-Idea-Della-Filosofia)
     * [Opere di Giacomo Leopardi - Wikipedia](https://it.wikipedia.org/wiki/Opere_di_Giacomo_Leopardi)
@@ -11825,15 +11341,18 @@ What are my ethical obligations?
     * [John Gray - YouTube - YouTube](https://www.youtube.com/playlist?list=PLFSMd0MVUj22cbzAxPZkr73Gl-KY0ygKU)
     * [why schumpeter hated democracy - Поиск в Google](https://www.google.com/search?q=why+schumpeter+hated+democracy&rlz=1C5CHFA_enUS800US800&oq=why+schumpeter+hated+democracy&aqs=chrome..69i57j69i64j69i61.6361j0j4&sourceid=chrome&ie=UTF-8)
 
+
     - [****Thomas Metzinger - Selected Publications](http://www.philosophie.uni-mainz.de/metzinger/publikationen/)
     * [self-taught philosophers - Buscar con Google](https://www.google.com/search?q=self-taught+philosophers&rlz=1C1GGRV_enUS753US753&oq=self-taught+philosophers&aqs=chrome..69i57j0l3.4312j0j7&sourceid=chrome&ie=UTF-8)
     * [self-taught working-class philosophers - Buscar con Google](https://www.google.com/search?safe=active&rlz=1C1GGRV_enUS753US753&ei=bxIFWoHmK9j8jwP_452oCg&q=self-taught+working-class+philosophers&oq=self-taught+working-class+philosophers&gs_l=psy-ab.3...49961.52404.0.55809.14.14.0.0.0.0.131.1461.5j9.14.0....0...1.1.64.psy-ab..0.2.229...0i13i30k1j0i13i5i30k1j35i39k1.0.KVarXZBVsN0)
 
+
     - [****World’s Most Influential Thinkers Revealed - MIT Technology Review](https://www.technologyreview.com/s/518026/network-analysis-reveals-worlds-most-influential-thinkers/)
     * [Айрис Мёрдок - Поиск в Google](https://www.google.com/search?rlz=1C1GCEA_enUS828US828&q=%D0%90%D0%B9%D1%80%D0%B8%D1%81+%D0%9C%D1%91%D1%80%D0%B4%D0%BE%D0%BA&stick=H4sIAAAAAAAAAOOQU-LQz9U3SE9JL4ySzs0vLlFIzcvKr0xMyklVKMjIzMkvzi_ISC0qPsUIVmdimpQOZYK0nGLkAjGNzJLLivJOMXJClJhnJD9i9OUWePnjnrCUy6Q1J68x2nFxhacmOeYVlwPNEjLg4gosTS2qdM5JLC4WUuISkOLx8QwOiQ92dfX29HPXYJTi40IR4fnFKOmYnJxflJKZl65Qkq-QlJ-fXZSZX6KXnJ_7i4kj3tUvxDMkMn4Ss2tGSUlBsZW-PrIKfSMDQ1OgM_UNTPXTMstSddNK83ThvqvUBakt1q1MLdYtSk3MyanUBwAiOGfgFwEAAA&sa=X&ved=2ahUKEwjIztznx6rfAhVGHTQIHaASB34QxA0wAHoECAcQBw&biw=929&bih=932)
 
+
         
-- John Gray
+* John Gray
         * [John Gray - On the Relationship Between Science and Humanities | Listen Notes](https://www.listennotes.com/podcasts/intellectual-dark/john-gray-on-the-8TBjD6Msb0k/)
     * [John Gray - Science and Magic - YouTube](https://www.youtube.com/watch?v=Z-z9gSg1ZF8)
     * [John Gray - YouTube](https://www.youtube.com/watch?v=jDJCEn1jTGA)
@@ -11848,10 +11367,12 @@ What are my ethical obligations?
     * [The Perfect Human Being Series E05 - John Grays reality check of promising technologies - YouTube](https://www.youtube.com/watch?v=ft10Kx4Enos)
     * [Seven Types of Atheism with John Gray - YouTube](https://www.youtube.com/watch?v=yS1lJJca-fE)
 
+
     Uncertain Minds: What an agnostic can believe - John Gray (Part One)de StPaulsLondon
     * [Vision john gray philosopher - YouTube](https://www.youtube.com/playlist?list=PLS55yKSlincBNWP_DpTVIygveEOwYOH4I)
     * [Review: Heresies by John Gray | Books | The Guardian](https://www.theguardian.com/books/2004/sep/04/highereducation.news)
     * [Against Safe Spaces - John Gray - YouTube](https://www.youtube.com/watch?v=DhaLgiZF5RY)
+
 
     On Progress and Other Modern Myths&quot; by John Gray - YouTube
     * [Converses a La Pedrera 2015. John Gray (Versió Original) - YouTube](https://www.youtube.com/watch?v=LNv3jENXPqM)
@@ -11861,7 +11382,9 @@ What are my ethical obligations?
     * ["The Soul of the Marionette" with John Gray - YouTube](https://www.youtube.com/watch?v=CON3BTnEURs)
     * [Believing in Reason is Childish - John Gray - YouTube](https://www.youtube.com/watch?v=EkZMLAbgSRU)
 
+
     Unknown Knowns - John Gray - YouTube
+
 
     Why Humans Are Violent - John Gray - YouTube
     * [The Trouble with 'Freedom' - John Gray - YouTube](https://www.youtube.com/watch?v=Ligot4t8s3E)
@@ -11870,7 +11393,8 @@ What are my ethical obligations?
     * [The Myth of Modernity - John Gray - YouTube](https://www.youtube.com/watch?v=_4Hvxmw0Nto)
     * [Mistaken Identities: The Conflict Over Culture, Class, Gender and Nation with Kwame Anthony Appiah and John Gray | Listen Notes](https://www.listennotes.com/podcasts/intelligence-squared/mistaken-identities-the-y4bFhBn_519/)
 
-- Michel Onfray
+
+* Michel Onfray
         * [Michel Onfray - Brève Encyclopédie du Monde (France Culture) - Saison 01 &quot;Cosmos&quot; (2015-2016) - Michel Onfray](http://michel-onfray.over-blog.com/2016/07/michel-onfray-breve-encyclopedie-du-monde-saison-01-cosmos.html)
     * [Michel Onfray - Brève Encyclopédie du Monde (France Culture) - Saison 02 &quot;Cosmos&quot; (2017) - Michel Onfray](http://michel-onfray.over-blog.com/2017/07/michel-onfray-breve-encyclopedie-du-monde-france-culture-saison-02-cosmos-2017.html)
     * [Michel Onfray : «Les médias de masse ont intérêt à cultiver l'imbécillité»](http://www.lefigaro.fr/vox/societe/2016/09/16/31003-20160916ARTFIG00380-michel-onfray-les-medias-de-masse-ont-interet-a-cultiver-l-imbecillite.php)
@@ -11878,26 +11402,33 @@ What are my ethical obligations?
     * [Michel Onfray sur Sputnik - MichelOnfray.com](https://vk.com/away.php?to=https%3A%2F%2Fmichelonfray.com%2Farchives%2Fmichel-onfray-sur-sputnik%3Fautoplay%3Dtrue)
     * [Michel Onfray: "Le système ne se laissera pas confisquer le pouvoir qu'il a réussi à voler au peuple](https://vk.com/away.php?to=https%3A%2F%2Fwww.lecho.be%2Fopinions%2Fcarte-blanche%2Fmichel-onfray-le-systeme-ne-se-laissera-pas-confisquer-le-pouvoir-qu-il-a-reussi-a-voler-au-peuple%2F10093462.html%3Ffbclid%3DIwAR0j09_4dvXsL0JEP2ki1785OIMgYRToY-_5BC0Pmv4GJTnENzTOUu7DwQE)
 
+
     - **Пошук новин за запитом michel onfray contre-histoire [***Пошук новин за запитом michel onfray contre-histoire](https://vk.com/search?c%5Bper_page%5D=40&c%5Bq%5D=michel%20onfray%20contre-histoire&c%5Bsection%5D=auto)
     * [Michel Onfray: free download. Ebooks library. On-line books store on Z-Library](http://b-ok.cc/s/?q=Michel+Onfray&yearFrom=&yearTo=&language=&extension=&t=0)
     * [Université Populaire de Caen » Michel Onfray](http://upc.michelonfray.fr/intervenants/michel-onfray/)
     * [Michel Onfray : Brève encyclopédie du monde - YouTube](https://www.youtube.com/watch?v=j_XgJhukdFU)
 
-- Noam Chomsky
+
+* Noam Chomsky
         * [Noam Chomsky on Capitalism - YouTube](https://www.youtube.com/watch?v=_FHNMZbnvYU)
     * [Noam Chomsky on George Orwell - YouTube](https://www.youtube.com/watch?v=v_tmlVBqX1o)
     * [Noam Chomsky: The Alien perspective on humanity - Jung & Naiv: Episode 284 - YouTube](https://www.youtube.com/watch?v=h0qdbsE3Jqo&t=153s)
     * [Noam Chomsky: Who Owns the World?](https://www.youtube.com/watch?v=_9CHtm2qK2g)
 
+
     Noam Chomsky - The Purpose of Educationde lwf
+
 
     Noam Chomsky - What We Really Wantde Chomsky's Philosophy
     * [Noam Chomsky & Michel Foucault - Full debate on Human Nature - YouTube](https://www.youtube.com/watch?v=7TUD4gfvtDY)
     * https://leftreferenceguide.wordpress.com/noam-chomsky-reading-list/
 
+
     Noam Chomsky - On Being Truly Educated
 
+
     Noam Chomsky on French Intellectual Culture &amp; Post-Modernism (3/8) - YouTube
+
 
     Noam Chomsky with Edward Snowden &amp; Glenn Greenwald - YouTube
     * [Chomsky explaining real anarchism - YouTube](https://www.youtube.com/watch?v=AkvPDx2qNjM)
@@ -11931,17 +11462,18 @@ What are my ethical obligations?
     * [Chomsky book 27](https://b-ok.cc/book/2028409/82f58e)
     * [What We Really Want - Noam Chomsky and Wallace Shawn](https://www.youtube.com/watch?v=3CFwSQiTu3I&list=WL&t=0s&index=150)
 
-- Philo
+
+* Philo
         * [Sex and Death: An Introduction to Philosophy of Biology](http://library.lol/main/4E270AE18E7EF6E915BEE919C8CC55DE) 
         * [Philosophy of Love, Sex, and Marriage: An Introduction](http://library.lol/main/18A4C7B24CB1FCB889DFAB409B9DEB0F) 
         * http://libgen.rs/search.php?&req=philosophy+of+sex&phrase=1&view=simple&column=def&sort=year&sortmode=DESC 
     
 * http://www.apaonline.org/general/recommended_links.asp
 
-
 <SORTED>
 
-- Free Will
+
+* Free Will
     - Books
     - Articles
     - Podcast
@@ -11949,19 +11481,19 @@ What are my ethical obligations?
     - Notes
     - People
     
-- People
+* People
         * [***Michael Gazzaniga](https://libgen.is/search.php?&req=Michael+Gazzaniga&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
         * [***Stanislas Dehaene](https://libgen.is/search.php?&req=Stanislas+Dehaene&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
         * [****Susan Blackmore](https://b-ok.cc/g/Susan%20Blackmore)
         * [**James H. Austin](https://b-ok.cc/g/James%20H.%20Austin)
         * [Aspen Gamlund](https://sites.google.com/site/espengamlund/)
     
-- Top References
+* Top References
         * https://philpapers.org/
         * http://plato.stanford.edu/
         * https://encyclo-philo.fr/
     
-- General Sites on Philosophy
+* General Sites on Philosophy
         * https://www.historyofphilosophy.net/
         * http://www.philosophybasics.com/general.html
         * http://www.iep.utm.edu/
@@ -12016,7 +11548,7 @@ What are my ethical obligations?
         * [**CONVIVIO: FILOSOFIA (in Italiano)](https://vk.com/filosofia_in_italiano)
         * [Philosophy and Information Technology at philo.de](http://www.philo.de/)
     
-- Media, Publications
+* Media, Publications
         * [Vista de Vol. 6 Núm. 8 (6)](http://revistaodos.com/revista/index.php/odos/issue/view/11/Revista%20de%20Filosof%C3%ADa%20%E1%BD%89%CE%B4%E1%BD%B9%CF%82%208)
         * [Revista Replicante](http://revistareplicante.com/)
         * [La actualidad de la filosofía | Revista Replicante](http://revistareplicante.com/la-actualidad-de-la-filosofia/)
@@ -12102,21 +11634,21 @@ What are my ethical obligations?
         * [LES GRANDES QUESTIONS DE LA VIE - Voici quelques grandes questions de la vie : Qui suis-je ? Où vais-je ? Qu&#39;est-ce que la mort - Pourquoi souffrons-nous ? Quelle est ma fonction sur Terre ? S&#39;interroger est la condition de notre conscience, nous devons](http://lesgrandesquestionsdelavie.over-blog.com/)
         * [Varia](http://www.zulio.org/journal/)
     
-- Dictionaries
+* Dictionaries
         * [Філософський словник (словник) - Філософія - Архів якісних рефератів](http://5ka.at.ua/load/filosofija/filosofskij_slovnik_slovnik/66-1-0-9370)
         * [grand_dictionnaire_de_la_philosophie_pdf](http://aefe-madagascar.histegeo.org/IMG/pdf/grand_dictionnaire_de_la_philosophie.pdf)
         * [Dizionari di Filosofia](http://host.uniroma3.it/progetti/kant/online/dizencglos/dizionari.html)
         * [Filosofiya_slovnik.pdf](http://udhtu.edu.ua/public/userfiles/file/Filosofiya_slovnik.pdf)
         * [IT.pdf](http://www.ilgiardinodeipensieri.eu/testi/dif_1_29_01_12.pdf)
     
-- Books
+* Books
         * [Consciousness and the Universe: Quantum Physics, Evolution, Brain & Mind | Roger Penrose; Stuart Hameroff; Ellen Langer; R. Gabriel Joseph; Chris J. S. Clarke; L. Dossey; Ernest Lawrence Rossi; Gian Carlo Ghirardi; Peter Sturrock; Edgarl D. Mitchel; Chris King; Walter J. Freeman; Don Page; Henry P. Stapp; Fred Kuttner; Michael B | download](https://b-ok.cc/book/5329215/e8bf07)
         * [Historia philosophiae graecae et Romanae ex fontium locis contexta; : Ritter, Heinrich : Free Download &amp; Streaming : Internet Archive](https://archive.org/details/historiaphilosop00rittuoft)
         * [Historia philosophiae graecae : testimonia auctorum conlegerunt notisque instruxerunt : Ritter, Heinrich, 1791-1869 : Free Download &amp; Streaming : Internet Archive](https://archive.org/details/historiaphilosop00ritt)
         * [How the Neoliberalization of Academia Leads to Thoughtlessness: Arendt and ... - Justin Pack - Google Книги](https://books.google.com/books?id=s9BwDwAAQBAJ&pg=PA98&lpg=PA98&dq=myopic+hyperspecialization&source=bl&ots=PCE_e3d5Wz&sig=hgoKDizt_bXJhE4djVgabFGor8w&hl=ru&sa=X&ved=2ahUKEwjo8-OL8qLfAhVEyFQKHZCtA3wQ6AEwBXoECAkQAQ#v=onepage&q=myopic%20hyperspecialization&f=false)
         * [600 citations pour bien réflichir avantd_agir.pdf](https://vk.com/doc6234312_452023767?hash=34393c293cbc38f80b&dl=10b44d6213a16b7679)
     
-- Consciousness
+* Consciousness
         * [The conscious mind: in search of a fundamental theory | David J. Chalmers | download](https://b-ok.cc/book/511970/bfade6?dsource=recommend)
         * [*The New Science of Consciousness: Exploring the Complexity of Brain, Mind, and Self | Paul L. Nunez | download](https://b-ok.cc/book/2927197/b321b1)
         * [*Strange Tools: Art and Human Nature | Alva Noe | download](https://b-ok.cc/book/2640649/b1b44d)
@@ -12128,7 +11660,7 @@ What are my ethical obligations?
         * [****The Intellectual Landscape:](https://faculty.unlv.edu/beisecker/Courses/Phi-352/PhilMindOverview.htm)
         * [Home | dasGehirn.info - der Kosmos im Kopf](https://www.dasgehirn.info/)
     
-- YouTube
+* YouTube
         * [Философия - YouTube - YouTube](https://www.youtube.com/playlist?list=PLhMkqRn14YG_hfg4BaSAmVGXcthwAVbvD)
         * [FilosofíaTv - YouTube](https://www.youtube.com/channel/UCKVRnYq1wVPlqB_ZlKgMvJg)
         * [PhiloCloud - YouTube - YouTube](https://www.youtube.com/channel/UCboZczmG77XfR__Pq4yn5Ug)
@@ -12167,12 +11699,12 @@ What are my ethical obligations?
         * [Provocações Filosóficas](https://www.youtube.com/channel/UCdsosII3oC_jGwi7NNxTbeQ)
         * [Human - YouTube](https://www.youtube.com/user/omroepHUMAN/playlists)
     
-- Podcast
+* Podcast
         * [50 Best Philosophy Podcasts | Student Guide](http://www.studentguide.org/50-best-philosophy-podcasts/)
         * [Simone et les philosophes - Le podcast préféré de Socrate](http://simoneetlesphilosophes.fr/)
         * http://live.audials.com/de#!podcast
     
-- Fora
+* Fora
         * [Portal Raízes](https://www.portalraizes.com/)
         * [Forum de Philosophie - Portail](https://www.forumdephilosophie.com/)
         * [Home | History of Philosophy without any gaps](https://historyofphilosophy.net/)
@@ -12183,7 +11715,7 @@ What are my ethical obligations?
         * [**Philo Libre Expression: philosophie par internet, discussion philosophique en ligne, Cercle philosophique sur internet](https://philolibreexpression.fr/philosophie-sur-internet-debats-themes-discussions-philosophiques-en-ligne-philo-libre-expression)
         * [Philo-Welt.de | Philosophie Forum](http://philo-welt.de/forum/)
     
-- Other General Sites to Read
+* Other General Sites to Read
         * [Information Philosophie - Die Zeitschrift, die über Philosophie informiert](http://www.information-philosophie.de/)
         * [most important philosophical questions - Поиск в Google](https://www.google.com/search?q=most+important+philosophical+questions&rlz=1C1GCEA_enUS820US820&oq=most+important+philosophical+questions&aqs=chrome..69i57j0.7856j0j7&sourceid=chrome&ie=UTF-8)
         * [Index of /classics/bibliotheca](https://nsu.ru/classics/bibliotheca/)
@@ -12235,25 +11767,28 @@ What are my ethical obligations?
         * http://www.libraryforall.org/blog/2015/8/20/our-favorite-open-educational-resources
         * http://www.vitutor.com/index.html
     
-- Courses
+* Courses
         * [Cours de philosophie - Programme de terminale](http://coursphilosophie.free.fr/index.php)
         * [Cours de philosophie - Programme de terminale](http://coursphilosophie.free.fr/index.php)
         * [Філософія | Prometheus](https://courses.prometheus.org.ua/courses/KPI/PHIL101/2016_T2/about)
     
-- Misc Questions, 1-shot
+* Misc Questions, 1-shot
         * [What are the different possible approaches to life? - Buscar con Google](https://www.google.com/search?q=What+are+the+different+possible+approaches+to+life%3F&rlz=1C5CHFA_enUS753US753&oq=What+are+the+different+possible+approaches+to+life%3F&aqs=chrome..69i57.7716j0j9&sourceid=chrome&ie=UTF-8)
     
 
-- →
+
+* →
         * https://zestedesavoir.com/ site général
     
+
 
 * [Religion of a Different Color: Race and the Mormon Struggle for Whiteness](http://library.lol/main/69321824457CDF2BF5513D5CF3D85CEE)
 * [philosophy: catapano critchley](http://libgen.rs/search.php?req=catapano+critchley&open=0&res=25&view=simple&phrase=1&column=def)
 * [How to Be Perfect: The Correct Answer to Every Moral Question](http://library.lol/main/1CFA22325B43E4764726AC82DAB6D2F8)
 * https://crisismagazine.com/opinion/a-left-wing-atheists-case-against-abortion 
 
-- idea evolution
+
+* idea evolution
     
     # Today’s Game Plan
     
@@ -12450,7 +11985,8 @@ What are my ethical obligations?
 * https://www.shortform.com/blog/evolution-of-ideas-2/ 
 * https://www.drorpoleg.com/thinking-fast-and-slopes 
 
-- philo
+
+* philo
         * https://www.lesswrong.com/ 
         * [https://www.google.com/search?q=evolution and the good life&ie=utf-8&oe=utf-8&client=firefox-b-m](https://www.google.com/search?q=evolution%20and%20the%20good%20life&ie=utf-8&oe=utf-8&client=firefox-b-m) 
         * https://psykip.vercel.app/compare/all 

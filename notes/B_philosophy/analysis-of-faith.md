@@ -29,20 +29,22 @@ I should also note that this is a problem-oriented document. I was raised fully 
 
 1: Why We Believe What We Believe and How We Know What We Know
 
-- epistemology
-- -my reasoning: maximum likelihood
-- psychology of belief
-- -probability and presumption (also Mark Twain's quote)
+
+* epistemology
+* -my reasoning: maximum likelihood
+* psychology of belief
+* -probability and presumption (also Mark Twain's quote)
 
 1.1 On Epistemology
 
-- lay down basic rules for arriving at truth
-- non-contradiction
-- willingness to accept the truth, whatever it may be; illegitimacy of motivated reasoning
-- falsifiability (if claims cannot be used to establish falsehood, they are no good in establishing truth, either; otherwise, the belief is pure belief and not defensible)
-- open-mindedness
-- problems with unfalsifiable claims and explanations (miracles & God’s will, spiritual experiences - internally consistent, but not useful in terms of establishing truth)
-- problems with false implication using the Book of Mormon and other Mormon branches
+
+* lay down basic rules for arriving at truth
+* non-contradiction
+* willingness to accept the truth, whatever it may be; illegitimacy of motivated reasoning
+* falsifiability (if claims cannot be used to establish falsehood, they are no good in establishing truth, either; otherwise, the belief is pure belief and not defensible)
+* open-mindedness
+* problems with unfalsifiable claims and explanations (miracles & God’s will, spiritual experiences - internally consistent, but not useful in terms of establishing truth)
+* problems with false implication using the Book of Mormon and other Mormon branches
 
 The most important idea in my search for truth is the idea of truth itself. It’s hard to say exactly what truth is, but it’s eaier to say what it is not. Truth does not contradict itself, although it can be paradoxical. Those paradoxes are a matter of illusory perception or a lack of understanding, but real contradictions are impossible, at least in the everyday world we know through experience, as opposed to quantum mechanics and astrophysics. It’s hard to prove that something is unquestionably true, but it is much easier to rule out certain claims that have internal contradictions.	Another important assumption is that truth is independent of my perception. The more philosophical you get, the harder it is to trust that your perception is really reliable,  but it is true in general that different sane, healthy people can look at the same thing and agree on what it is. Regardless of the nature of reality, things seem to exist independently of humans, and they seem to stay that way even when you look away. For all intents and purposes, it’s safe to assume an objective truth that does not contradict itself.
 
@@ -50,8 +52,9 @@ This implies that perceptions can be wrong. Believing or wishing something does 
 
 On Apologetics and Motivated Reasoning
 
-- address common apologetic objections and tactics
-- ex hypothesi approach: 	-http://mormoncurtain.com/topic_apologists.html
+
+* address common apologetic objections and tactics
+* ex hypothesi approach: 	-http://mormoncurtain.com/topic_apologists.html
 * http://www.mormoninformation.com/pro_lds.htm
 * http://www.mormonthink.com/glossary/apologist.htm
 
@@ -87,9 +90,10 @@ Even dreams and visions cannot establish universal truth because the world has s
 
 2. The Historical Record and Religious Truth Claims
 
-- history of Abrahamic religions and religion in general
-- -change in Christianity from a radical pacifist religion to religion of power
-- -
+
+* history of Abrahamic religions and religion in general
+* -change in Christianity from a radical pacifist religion to religion of power
+* -
 
 2.1 On Methods of Historical Evaluation
 
@@ -101,7 +105,8 @@ The very most important thing I can do with a historical record is to be aware o
 
 2.3 History of the LDS Church
 
-- Joseph Smith was convicted of fraud in 1826 and had a reputation as someone who was hired out to find treasure using his magical stone. He never found treasures, although he charged for his services, and he claimed when nothing was found that the treasures had slipped further into the earth. He claimed to have a set of golden plates, one that he could show to no one for a long time for fear they would die upon exposure to something they were not authorized to see, yet he had to go to great lengths to hide them from potential thieves. He claimed to have translated ancient papyri written by the hand of Abraham, and the papyri found since then have made it clear that the papyri were neither written by Abraham, nor connected to him in any way, nor from the same time period, nor translated accurately by any stretch of the imagination. He founded a banking enterprise using deceit and it soon failed. He married other women without his first wife Emma’s consent or knowledge, some of whom were married to other men, some having their husbands away on missions. His practice of plural marriage clearly contradicted the revelation he had received in D&C 132, and his first plural marriage to Fanny Alger, alleged adultery by the disaffected Oliver Cowdery, pre-dated the restoration of the sealing power in 1836. He died sealed to at least 33 wives without having been sealed to his own immediate family. He publicly denied the practice of polygamy, and when the Nauvoo Expositor printed truthfully that he was practicing polygamy, he used his office of mayor to order the militia to destroy it, which led to his imprisonment in the jail where he was assasinated. He told multiple accounts of the “First Vision” that are not reconcilable with each another, and his accounts of the priesthood restoration is contradictory and bears the signs of having been embellished after the fact. He joined the Methodist church after God had supposedly told him to join none of the sects, whose creeds were “an abomination.” He made several prophecies that did not come true, at least not by any reasonable interpretation of the words as they would have been understood. He prophecied that a temple would be built in Independence in his generation, but “generation” has to mean “dispensation” in order for that one to hold. He prophecied that David Patten would serve a mission, six months before David Patten died. He prophecied that the Second Coming of Jesus Christ would take place in 56 years from 1835, in the context of pruning the vineyard “for the last time,” clearly an eschatological prophecy. Now, 182 years later, we rationalize this prophecy as having referred to the Lord’s reported appearance at Kirtland, but we have been ministering and “pruning the vineyard” ever since then, so it was not the last time. Can one honestly claim that the prophecy would have been meant or understood to mean anything but the Second Coming? I find the apologetics very unconvincing. Other prophecies needed to be generously interpreted by apologists to be spun as prophetic at all, and his predictions are not more accurate or more impressive than those of many other self-proclaimed prophets. He introduced the temple ceremony two months after entering a masonic lodge, and the parallels are unmistakable. The temple ceremony is hard to understand as anything other than a “secret combination” as condemned in the Book of Mormon, especially because the covenants could be construed as a means for the church to “get gain” and power, and because of the Oath of Vengeance originally included. Joiseph Smith married a 14-year-old girl, having given her 24 hours’ notice and told her that it would ensure the salvation of her entire family and claimed to have been threatened by an angel with a drawn sword. These are a small sampling of the many indications in the historical record that Joseph Smith was not to be trusted, and that he had fabricated the church. This is a sampling, certainly drawn from the more damning end of the spectrum, but the complete larger picture that I have received from multiple books on church history written by neutral, hostile, and friendly scholars, and from primary sources when possible, is the same
+
+* Joseph Smith was convicted of fraud in 1826 and had a reputation as someone who was hired out to find treasure using his magical stone. He never found treasures, although he charged for his services, and he claimed when nothing was found that the treasures had slipped further into the earth. He claimed to have a set of golden plates, one that he could show to no one for a long time for fear they would die upon exposure to something they were not authorized to see, yet he had to go to great lengths to hide them from potential thieves. He claimed to have translated ancient papyri written by the hand of Abraham, and the papyri found since then have made it clear that the papyri were neither written by Abraham, nor connected to him in any way, nor from the same time period, nor translated accurately by any stretch of the imagination. He founded a banking enterprise using deceit and it soon failed. He married other women without his first wife Emma’s consent or knowledge, some of whom were married to other men, some having their husbands away on missions. His practice of plural marriage clearly contradicted the revelation he had received in D&C 132, and his first plural marriage to Fanny Alger, alleged adultery by the disaffected Oliver Cowdery, pre-dated the restoration of the sealing power in 1836. He died sealed to at least 33 wives without having been sealed to his own immediate family. He publicly denied the practice of polygamy, and when the Nauvoo Expositor printed truthfully that he was practicing polygamy, he used his office of mayor to order the militia to destroy it, which led to his imprisonment in the jail where he was assasinated. He told multiple accounts of the “First Vision” that are not reconcilable with each another, and his accounts of the priesthood restoration is contradictory and bears the signs of having been embellished after the fact. He joined the Methodist church after God had supposedly told him to join none of the sects, whose creeds were “an abomination.” He made several prophecies that did not come true, at least not by any reasonable interpretation of the words as they would have been understood. He prophecied that a temple would be built in Independence in his generation, but “generation” has to mean “dispensation” in order for that one to hold. He prophecied that David Patten would serve a mission, six months before David Patten died. He prophecied that the Second Coming of Jesus Christ would take place in 56 years from 1835, in the context of pruning the vineyard “for the last time,” clearly an eschatological prophecy. Now, 182 years later, we rationalize this prophecy as having referred to the Lord’s reported appearance at Kirtland, but we have been ministering and “pruning the vineyard” ever since then, so it was not the last time. Can one honestly claim that the prophecy would have been meant or understood to mean anything but the Second Coming? I find the apologetics very unconvincing. Other prophecies needed to be generously interpreted by apologists to be spun as prophetic at all, and his predictions are not more accurate or more impressive than those of many other self-proclaimed prophets. He introduced the temple ceremony two months after entering a masonic lodge, and the parallels are unmistakable. The temple ceremony is hard to understand as anything other than a “secret combination” as condemned in the Book of Mormon, especially because the covenants could be construed as a means for the church to “get gain” and power, and because of the Oath of Vengeance originally included. Joiseph Smith married a 14-year-old girl, having given her 24 hours’ notice and told her that it would ensure the salvation of her entire family and claimed to have been threatened by an angel with a drawn sword. These are a small sampling of the many indications in the historical record that Joseph Smith was not to be trusted, and that he had fabricated the church. This is a sampling, certainly drawn from the more damning end of the spectrum, but the complete larger picture that I have received from multiple books on church history written by neutral, hostile, and friendly scholars, and from primary sources when possible, is the same
 
 These actions are not the actions of someone whom I would consider trustworthy. Point-by-point, apologists offer explanations that help those who want to believe, but that I find unconvincing due to their motivated reasoning. The totality of Joseph Smith’s life and ministry more closely resembles the actions of a charismatic leader who is brilliantly skilled in fabrication and manipulation than a man acting on errand from an omniscient, omnipotent, and loving God. When I consider the historical Joseph Smith, he is not a man I would be willing to count on to tell the truth. I don’t know, and I can’t know, how much of his own narrative Joseph Smith believed, but I do know that I myself find his claims suspect. If a likable, respectable young man who did a lot of good in his community were caught with a massive stash of cash in his bedroom and if his fingerprints were found all over safes at the bank, he should be convicted for robbery no matter how much good he had done previously in his community, how much good he had done previously, or how many people vouched for his character. For me, the historical trial of Joseph as a religious inventor is similar. There is not an alibi that is strong enough to reject the evidence that his church was the fabrication of himself and his close associates.
 
@@ -113,15 +118,16 @@ In places where large-scale battles have been fought, it is highly unusual to fi
 
 This begs the question: How could Joseph Smith, and “uneducated farmboy” write a book of such complexity as the Book of Mormon? There are a few good clues. 
 
-- Thomas Ferguson
-- mother told of imagination
-- the Late War
-- View of the Hebrews
-- similarities of place names
-- errors from 1769 version of the Book of Mormon
-- 19th-century issues and ideas
-- protestant overtones
-- 11 witnesses
+
+* Thomas Ferguson
+* mother told of imagination
+* the Late War
+* View of the Hebrews
+* similarities of place names
+* errors from 1769 version of the Book of Mormon
+* 19th-century issues and ideas
+* protestant overtones
+* 11 witnesses
 
 3. Science and Religious Truth Claims
 
@@ -139,18 +145,19 @@ My religion, as impossible as it is to prove or disprove, does not have a shorta
 
 The Bible makes a number of falsifiable truth claims that have in fact been falsified, and many of the specific claims have come to be interpreted more generally. The most damning claims are the early events of the Bible, such as Noah’s Ark and the Tower of Babel. the astronomy of the Bible is also a clear product of its times, rather than the product of divine omniscience.
 
-- firmament
-- geocentrism
-- pi at 3.0
-- annihilation of Canaanites
-- https://americanhumanist.org/what-is-humanism/reasons-humanists-reject-bible/
-- https://rationalwiki.org/wiki/Biblical_contradictions
-- http://truth-saves.com/false-claims
-- exodus and contour of the Red Sea
-- flat earth
-- anachronisms in history of Christ’s birth
-- Jericho’s anachronisms
-- failed prophecies
+
+* firmament
+* geocentrism
+* pi at 3.0
+* annihilation of Canaanites
+* https://americanhumanist.org/what-is-humanism/reasons-humanists-reject-bible/
+* https://rationalwiki.org/wiki/Biblical_contradictions
+* http://truth-saves.com/false-claims
+* exodus and contour of the Red Sea
+* flat earth
+* anachronisms in history of Christ’s birth
+* Jericho’s anachronisms
+* failed prophecies
 
 → Islamic and other apologetics and close parallels
 
@@ -158,38 +165,41 @@ The Bible makes a number of falsifiable truth claims that have in fact been fals
 
 3.4 Science and the Doctrine and Covenants and Pearl of Great Price
 
-- importance of origins and foundations:
-- Judaism -> Christianity -> Early Mormonism -> Contemporary Mormonism: Can Christianity be true if Judaism is false? Can Mormonism be true if Christianity is false? Can current Mormonism be true if earlier Mormonism was false? Problem of continuity in religion
-- psychology of belief, elation, universality of faith-confirming spiritual experiences
-- emphasize legitimacy of these experiences, but not of their interpretation
-- ex ante approach (hypothesis testing method): what do we expect in a perfect religion led by an omniscient, omnipotent God and bearing His power
-- speak to the nuanced view of imperfect humans vs. a big picture that points to the untruthfulness of it all
-- mistakes and weaknesses are allowable, but it is reasonable to expect that God’s One True Church would be distinguishable from a manmade church (make comparisons to other churches & show that if JS had been a fraud, the church would have looked very similar)
+
+* importance of origins and foundations:
+* Judaism -> Christianity -> Early Mormonism -> Contemporary Mormonism: Can Christianity be true if Judaism is false? Can Mormonism be true if Christianity is false? Can current Mormonism be true if earlier Mormonism was false? Problem of continuity in religion
+* psychology of belief, elation, universality of faith-confirming spiritual experiences
+* emphasize legitimacy of these experiences, but not of their interpretation
+* ex ante approach (hypothesis testing method): what do we expect in a perfect religion led by an omniscient, omnipotent God and bearing His power
+* speak to the nuanced view of imperfect humans vs. a big picture that points to the untruthfulness of it all
+* mistakes and weaknesses are allowable, but it is reasonable to expect that God’s One True Church would be distinguishable from a manmade church (make comparisons to other churches & show that if JS had been a fraud, the church would have looked very similar)
 
 objections to religion:
 
-- epistemological problems treated in intro
-- conflicts with science
-- -disease and disorder vs. demons
-- -problem with "faithfully waiting" for answers when there are even better onesthat don't require waiting on and praying to a suspect God
-- indistinguishability from a man-made church; like Judaism, Islam, etc., began with a high concentration of miracles and is shrouded by legend and myth, but those remarkable occurences seem to have stopped today
-- --miracles not distinguishable from remarkable and rare miracles
+
+* epistemological problems treated in intro
+* conflicts with science
+* -disease and disorder vs. demons
+* -problem with "faithfully waiting" for answers when there are even better onesthat don't require waiting on and praying to a suspect God
+* indistinguishability from a man-made church; like Judaism, Islam, etc., began with a high concentration of miracles and is shrouded by legend and myth, but those remarkable occurences seem to have stopped today
+* --miracles not distinguishable from remarkable and rare miracles
 
 4. On Theology
 
 Churches are not just groups of people who like to get together; each church has its own set of beliefs that form a more-or-less coherent worldview for its members. There
 
-- theological dilemmas
-- -Christian
-- --agency and influence
-- --problem of evil
-- -LDS-specific
-- --presentism implicit in trusting prophets
-- --very idea of atonement
-- --missionary work and incentives (better off without it)
-- --dilemma in under 8's going to CK
-- --temple work
-- --ethnocentrism and tiny percentage of the world's population with access to the true church
+
+* theological dilemmas
+* -Christian
+* --agency and influence
+* --problem of evil
+* -LDS-specific
+* --presentism implicit in trusting prophets
+* --very idea of atonement
+* --missionary work and incentives (better off without it)
+* --dilemma in under 8's going to CK
+* --temple work
+* --ethnocentrism and tiny percentage of the world's population with access to the true church
 
 5. The LDS Church Today
 
@@ -209,25 +219,26 @@ When I started learning about behavioral economics, psychology, and sociology, I
 
 There are things the church today does that are harmful and reprehensible and that I criticized even as a believing member. While they are not conclusive proof of the church’s falsehood, they do not help its case for me, and they are worth montioning here. They include its treatment of homosexuals and sometimes women and their former treatment of racial minorities, especially those of African descent.
 
-- lies told by GBH and others
-- -problem with churches during the "Great Apostasy" and similarities to the church today, "author of so much confusion" quote
-- value critiques
-- --humility
-- --insecurity about honest, unfiltered truth
-- --sexism
-- harm perpetuated by church
-- --child interviews and abuse
-- --mental health
-- --LGBTQ issues
-- --polygamy
-- --sexism
-- --BITE
-- --racism, white supremacy
-- --nationalism
-- --lying for the Lord
-- --violence
-- --spiritual abuse
-- non-uniqueness of the good in Mormonism; non-exceptionalism (contrasted with "I'm special" feelings)
+
+* lies told by GBH and others
+* -problem with churches during the "Great Apostasy" and similarities to the church today, "author of so much confusion" quote
+* value critiques
+* --humility
+* --insecurity about honest, unfiltered truth
+* --sexism
+* harm perpetuated by church
+* --child interviews and abuse
+* --mental health
+* --LGBTQ issues
+* --polygamy
+* --sexism
+* --BITE
+* --racism, white supremacy
+* --nationalism
+* --lying for the Lord
+* --violence
+* --spiritual abuse
+* non-uniqueness of the good in Mormonism; non-exceptionalism (contrasted with "I'm special" feelings)
 
 thought experiments:
 

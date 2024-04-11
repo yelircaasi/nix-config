@@ -1,58 +1,13 @@
 # A. General
 
+
 ## Projects
 
-1. Sort ‘Book List - To Sort’
-2. Sort ‘Reading 0’
-3. Sort ‘Reading / Viewing List (1-50)’
-4. Sort ‘Reading / Viewing List (51-100)’
-5. Sort ‘Reading / Viewing List (101-150)’
-6. Sort ‘Reading / Viewing List (151-200)’
-7. Sort ‘Reading / Viewing List (201-250)’
-8. Sort ‘Reading / Viewing List (251-300)’
-9. Sort ‘Reading / Viewing List (301-350)’
-10. Sort ‘Reading / Viewing List (351-403)’
-11. Sort ‘Links - To Sort
-12. Sort ‘’Blog Ideas’
-13. Sort ‘Top Resources’
-14. Sort ‘Áreas de estudio’ → move to general resource overview or control center?
-15. Sort ‘Top Resources’
-16. Sort ‘Plan maestro’
-17. Sort ‘Visión’
-18. Sort ‘Book or Article Ideas’
-19. Sort ‘Webseite-Ideen’
-20. Sort ‘Atributos’
-21. Sort ‘Metas y visión por área’
-22. Sort ‘Leseliste’
-23. Sort ‘Allusions’
-24. Sort ‘Alte Büchernotizen’
-25. Sort ‘Notes’
-26. Sort ‘Alternatives to Reddit’
-27. Sort ‘Pensadores importantes’
-28. Sort ‘Sitios generales sobre ideas’
-29. Sort ‘Research Resources’
-30. Sort ‘Enciclopedias’
-31. Sort ‘Preguntas y respuestas’
-32. Sort ‘Cómo hacer’
-33. Sort ‘Instrucción’
-34. Sort ‘Sitions de contenido’
-35. Sort ‘Rede y enlaces’
-36. Sort ‘Video’
-37. Sort ‘Tools’
-38. Sort ‘Bibliotecas’
-39. Sort ‘Clubes de libros’
-40. Sort ‘Referencias y libros’
-41. Sort ‘Otros sitios’
-42. Sort ‘Great Past Articles’
-43. Sort ‘Pensadores’
-44. Sort ‘YouTube Channels’
-45. Sort ‘Very Short Introduction’
-46. Sort ‘Lectura de noticias’
-47. Sort ‘Writing’
 
 ## Áreas de estudio
 
 B. Filosofía - el estudio del pensamiento
+
 
 ****A. General
 
@@ -84,6 +39,7 @@ F. Religiones del mundo - el estudio de las varias fes y de sus instituciones y 
 
 Matemática - el estudio de cantidad, estructura, espacio, cambio, demostración (en un sentido práctico, la teoría pura subyacente a las ciencias)
 
+
 ****A. General
 
 B. Logica matemática - el estudio de las reglas por las cuales conclusiones lógicas (a menudos numéricoas) se logran
@@ -106,6 +62,7 @@ J. Matemáticas superiores - ramas conteniendas resultados y análisis demostrad
 
 Ciencias naturales físicias - el estudio de realidad por medio de empiricismo, esp. lo que se refiere al mundo inanimado
 
+
 ****A. General
 
 B. Física - el estudio de sustancia y energía y sus interacciones
@@ -119,6 +76,7 @@ E. Astronomía - el estudio del cosmos
 F. Geografía - el estudio de la tierra, esp. de sus formaciones, cuerpos de agua y regiones climáticas
 
 Ciencias naturales biológicas - el estudio de la vida por medio de empiricismo
+
 
 ****A. General
 
@@ -140,6 +98,7 @@ I. Neurociencia - el estudio de la función y la estructura del cerebro
 
 Tecnología - la aplicación humana de la ciencia
 
+
 ****A. General
 
 B. Informática - el estudio de dispositivos electrónicos y sistemas de información
@@ -153,6 +112,7 @@ E. Medecina - el tratamiento científico de la enfermedad y otros desórdenes, a
 F. Fabricación - el uso de máquinas para fabricar productos
 
 Ciencias sociales y humanas
+
 
 ****A. General
 
@@ -172,6 +132,7 @@ H. Pedagogía - el estudio de la enseñanza y del aprendizaje
 
 Humanidades - expresión humana
 
+
 ****A. General
 
 B. Artes visuales -  el estudio de la expresión y representación visuales
@@ -183,6 +144,7 @@ D. Arquitectura -  el estudio de estrucuras y sus estilos
 E. Comunicación -  el estudio de la transmisión y la presentación de ideas
 
 F. Idiomas y lenguaje - transmisión de ideas en varios idiomas y el estudio de sus características y su uso aceptado
+
 
 ****G. Periodismo -  el estudio de los medios
 
@@ -213,6 +175,7 @@ E. Fuerza - la capacidad de mover pesos y realizar cambios físicos en su ambio
 F. Flexibilidad - la augnebtación de su rango de moción
 
 Práctica - aplicación diaria de conocimientos y habilidades
+
 
 ****A. General
 
@@ -416,11 +379,14 @@ H. Viaje
 
 I. Autoconocencia, autodesarrolla y autogerencia
 
+
 ## Metas y visión por área
+
 
 ## Allusions
 
-- Sort
+
+* Sort
     
     Norman Cohn's 1957 book The Pursuit of the Millennium.    * http://www.oxfordtoday.ox.ac.uk/opinion/forget-your-delusions-and-be-happy-advises-john-gray
     Malaparte 1949 The Skin
@@ -546,7 +512,7 @@ I. Autoconocencia, autodesarrolla y autogerencia
         
     Black Mass
     Paul Boyer
-- .
+* .
 
 Spencer W. Kimball:
 
@@ -710,7 +676,8 @@ What are the ethical imperatives of knowledge (to be informed)?
 
 Remarks from Professor Jordan: “not only do I think that you should eventually read all of these books (or some similar list that reflects your own view of foundations), but I think that you should read all of them three times—the first time you barely understand, the second time you start to get it, and the third time it all seems obvious.”
 
-- 13 Sparks of Genius
+
+* 13 Sparks of Genius
     
     Observing
     
@@ -739,7 +706,8 @@ Remarks from Professor Jordan: “not only do I think that you should eventually
     Synthesizing
     
 
-- Ways to deeply learn a language
+
+* Ways to deeply learn a language
     - write down “missing words” and look them up as soon as possible
     - use those words in context
     - study across all areas - occupations, educational subjects, social situations
@@ -771,7 +739,8 @@ Synthesize along the way
 
 Review
 
-- Old Poem
+
+* Old Poem
     
     Old Poem (2017?)
     
@@ -895,7 +864,8 @@ Combine lists of top thinkers, internationally and by region
 
 how to systematically organize, store, update, and expand the corpus of human knowledge (or even just some subset of it)?
 
-- -> differences in views of human progress and its purposes by worldview
+
+* -> differences in views of human progress and its purposes by worldview
 
 Find best thought leaders by language, topic, & country
 * [[Create 2nd Twitter account with](http://ex.ua/)
@@ -975,12 +945,14 @@ make a test schedule for languages, ideas, formulas, etc
 Теории и практики - просветительское медиа для личностного и профессионального роста. На сайте есть статьи и подкасты про карьеру, культуру и отношения.
 * [https://www.youtube.com/channel/UCBXZ7z2XneLuUMf8raYZ..](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCBXZ7z2XneLuUMf8raYZfAg&post=-30435555_600&cc_key=)
 
+
 ##
-- Organizations and Conferences
+* Organizations and Conferences
         * https://www.youtube.com/@StrangeLoopConf
     
 
-- Book List - To Sort
+
+* Book List - To Sort
     
     Vladimir Sorokin - Telluria
     
@@ -1347,7 +1319,7 @@ make a test schedule for languages, ideas, formulas, etc
     Lógica filosófica (Wittgenstein)
         * [Historia visual de la inteligencia](http://library.lol/main/6BEBFABBBDCD83E175D668F17E239598)
     
-- Reading 0
+* Reading 0
         * [30 secondes (livres)](http://libgen.is/search.php?&req=30+secondes&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
         * [The Math Behind Music and Sound Synthesis](https://www.youtube.com/watch?v=Y7TesKMSE74)
         * https://www.technologyreview.it/cosa-sognano-i-bambini-una-nuova-tecnologia-lo-rivela/ 
@@ -1386,7 +1358,7 @@ make a test schedule for languages, ideas, formulas, etc
         * [TheCollector | Ancient & Modern History, Art, Philosophy](https://www.thecollector.com/)
         * [Интересный Подкаст](https://open.spotify.com/show/4IaAQZHUZpHdfX3JQUWH2w?si=RTtVlo94R72O-lByqmoWRw&utm_source=native-share-menu)
     
-- Reading / Viewing List (1-50)
+* Reading / Viewing List (1-50)
     1. Book Idea: Professional Insights for Life - What Different Fields Can Tell Us about Thinking and Living
     2. francesco sisini
     3. [Fuentes de información: Guía básica y nueva clasificación](https://en.de1lib.org/book/19232266/8720e8)
@@ -1438,7 +1410,7 @@ make a test schedule for languages, ideas, formulas, etc
     48. [Die Drei - Ein Streifzug durch die Rolle der Zahl in Kunst, Kultur und Geschichte](http://library.lol/main/41C4EF7C7FAE272829CC7911BB64B3ED)
     49. [Mindfire: Big Ideas for Curious Minds](http://library.lol/main/30DC1A7C889A07DE0544EFA62D80C672)
     50. http://libgen.is/search.php?&req=Gombrich&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
-- Reading / Viewing List (51-100)
+* Reading / Viewing List (51-100)
     1. https://en.wikipedia.org/wiki/Harvard_Classics
     2. [dorling kindersley](https://libgen.rs/search.php?&req=dorling+kindersley&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
     3. explanatory imperialism
@@ -1489,7 +1461,7 @@ make a test schedule for languages, ideas, formulas, etc
     48. Culture to Quarks
     49. Konrad Lorenz - 7...
     50. No logo
-- Reading / Viewing List (101-150)
+* Reading / Viewing List (101-150)
     1. Hurra 1
     2. Françoise Sagan
     3. The Tangled Tree
@@ -1540,7 +1512,7 @@ make a test schedule for languages, ideas, formulas, etc
     48. [Allez Savoir ! - YouTube](https://www.youtube.com/channel/UCZ5BlW6SDxh28bMPy7UaKTA)
     49. [Academia.edu | Log In](https://www.academia.edu/login?post_login_redirect_url=https%3A%2F%2Fwww.academia.edu%2Ft%2FdrT8b-Pa1XoSe-bjr0f%2Fresource%2Fwork%2F2337546%2FPAMIES_A_LUQUE_DUR%C3%81N_J_d_D_and_FERN%C3%81NDEZ_MART%C3%8DN_P_eds_2011_Paremiolog%C3%ADa_y_herencia_cultural_Granada_Educatori_col_Granada_Lingvistica_ISBN_978_84_92782_57_4_%3Femail_work_card%3Dtitle)
     50. [Today I Found Out | Learn Interesting Facts Every Day](http://www.todayifoundout.com/)
-- Reading / Viewing List (151-200)
+* Reading / Viewing List (151-200)
     1. [https://b-ok.cc/s/big ideas simply explained](https://b-ok.cc/s/big%20ideas%20simply%20explained)
     2. [https://b-ok.cc/s/große ideen einfach erklärt](https://b-ok.cc/s/gro%C3%9Fe%20ideen%20einfach%20erkl%C3%A4rt)
     3. [Academia.edu | Log In](https://www.academia.edu/login?post_login_redirect_url=https%3A%2F%2Fwww.academia.edu%2Ft%2FdrT8b-PdV5AKn-hNzqy%2Fresource%2Fwork%2F36836119%2FNikola_Tesla_Moji_izumi_Autobiografija_pdf%3Femail_work_card%3Dtitle)
@@ -1591,7 +1563,7 @@ make a test schedule for languages, ideas, formulas, etc
     48. [Однокласники](https://www.ok.ru/feed)
     49. [Основы математики](https://www.youtube.com/watch?v=zIYfYT5THDY&list=PL-_cKNuVAYAUy7zMDOkS06_Pvn9OciImJ)
     50. [Открытый Университет](https://openuni.io/)
-- Reading / Viewing List (201-250)
+* Reading / Viewing List (201-250)
     1. ** [«Неужели это я все?»: как мозг постигает причинно-следственные связи](https://knife.media/causality/)
     2. ** [Вопросы, которых мы избегаем](https://vk.com/@4brainru-voprosy-kotoryh-my-izbegaem)
     3. ** [Философия для новичков](https://vk.com/@intellegenceperson-filosofiya-dlya-novichkov)
@@ -1642,7 +1614,7 @@ make a test schedule for languages, ideas, formulas, etc
     48. [The End of All Things | What is reality made of?](https://iai.tv/video/the-end-of-all-things-what-is-reality-made-of-metaphysics?utm_source=newsletter&utm_medium=email&utm_campaign=20-04-20IAIVideoWeekly&utm_source=Institute+of+Art+and+Ideas&utm_campaign=acd1eec844-EMAIL_CAMPAIGN_2020_04_20_09_20&utm_medium=email&utm_term=0_33593fe9fa-acd1eec844-47901361)
     49. http://econphd.econwiki.com/guide.htm
     50. https://80000hours.org/
-- Reading / Viewing List (251-300)
+* Reading / Viewing List (251-300)
     1. https://www.linkedin.com/pulse/feed/channel/france
     2. https://www.linkedin.com/pulse/feed/channel/noticias
     3. https://www.linkedin.com/topic/_____________
@@ -1693,7 +1665,7 @@ make a test schedule for languages, ideas, formulas, etc
     48. http://socioline.ru/book/daglas-r-hofshtadter-gyodel-esher-bah-eta-beskonechnaya-girlyanda
     49. [Pedophrasty, Bigoteering, and Other Modern Scams – INCERTO – Medium](https://medium.com/incerto/pedophrasty-bigoteering-and-other-modern-scams-c84bd70a29e8)
     50. [Project-based learning](https://www.pblworks.org/)
-- Reading / Viewing List (301-350)
+* Reading / Viewing List (301-350)
     1. [Warum Intellektuelle unsere Welt zerstören - Roland Baader](https://youtu.be/JArYIqlbTHE)
     2. https://en.wikipedia.org/wiki/Lists_of_academic_journals
     3. https://en.wikipedia.org/wiki/The_World_Factbook
@@ -1744,7 +1716,7 @@ make a test schedule for languages, ideas, formulas, etc
     48. [FullBooks.com - Thousands of Full-Text Free Books](http://www.fullbooks.com/)
     49. [Amateur Mathematician Finds Smallest Universal Cover | Quanta Magazine](https://www.quantamagazine.org/amateur-mathematician-finds-smallest-universal-cover-20181115/)
     50. [Metropolis Untamed](https://iai.us4.list-manage.com/track/click?u=5498751378b600bac07540f91&id=15054890f1&e=c2b5e608e5)
-- Reading / Viewing List (351-403)
+* Reading / Viewing List (351-403)
     1. [Science, trust, and truth](https://iai.us4.list-manage.com/track/click?u=5498751378b600bac07540f91&id=4d4eb70b7e&e=c2b5e608e5)
     2. [A future designed for everyone](https://iai.us4.list-manage.com/track/click?u=5498751378b600bac07540f91&id=43e37c4d9d&e=c2b5e608e5)
     3. [Philosophy vs authority](https://iai.us4.list-manage.com/track/click?u=5498751378b600bac07540f91&id=c6798ab3be&e=c2b5e608e5)
@@ -1798,7 +1770,7 @@ make a test schedule for languages, ideas, formulas, etc
     51. https://marshallbrain.com/
     52. [The Online Books Page: Archives and Indexes](https://onlinebooks.library.upenn.edu/archives.html#foreign)
     53. [things everyone should know - Поиск в Google](https://www.google.com/search?q=things+everyone+should+know&rlz=1C5CHFA_enUS800US800&oq=things+everyone+should+know&aqs=chrome..69i57j0l7.4233j1j7&sourceid=chrome&ie=UTF-8)
-- Links - To Sort
+* Links - To Sort
     1. https://whatsgrouplink.com/
     2. [80 oбрaзoвaтeльныx YouTube-кaнaлoв, кoтoрыe прoкaчaют вaш мoзг лyчшe yнивeрcитeтoв](https://vk.com/wall-41887171_118349)
     3. [100 Notable Books of 2018 - The New York Times](https://www.nytimes.com/interactive/2018/11/19/books/review/100-notable-books.html?mc=aud_dev&ad-keywords=auddevgate&subid1=TAFI&ad_name=VISIT_20_XXXX_XXX_1P_CD_XX_XX_SITEVISITXREM_X_XXXX_COUSA_P_X_X_EN_FBIG_OA_XXXX_00_EN_JP_NFLINKS&adset_name=https%3A%2F%2Fwww.nytimes.com%2Finteractive%2F2018%2F11%2F19%2Fbooks%2Freview%2F100-notable-books.html&campaign_id=23843128870720063&fbclid=IwAR0Umu-Biim17Rtd7dmOjy9RU-AuZqrp_aWfVURtOzI94ZlqAAowRTwKe10)
@@ -1846,7 +1818,8 @@ make a test schedule for languages, ideas, formulas, etc
     45. ****What are the most intellectually stimulating websites of which you know? What about them is intellectually stimulating?
     46. [197 Educational YouTube Channels You Should Know About - Teachers With Apps](https://www.teacherswithapps.com/197-educational-youtube-channels-know/)
 
-- Blog Ideas
+
+* Blog Ideas
     
     unsolicited opinions - already taken
     
@@ -1871,10 +1844,11 @@ make a test schedule for languages, ideas, formulas, etc
     Entries:
     
 
-- Top Resources
+
+* Top Resources
         * https://sciencecast.org/welcome 
     
-- Plan maestro
+* Plan maestro
     
     La formación es un comino eternal, una aspiración que le da significación a la vida. El propósito de formación es conectado con mi progression espiritual, y ella tiene importantes consecuencias para esta vida también. Una formación ideal es dirigida para el entendimiento de Dios, del cosmos, de sí mismo y de otros, y ella informa las decisione, pero aprendizaje ofrece también un placer intrínsico.  La formación verdadera comprende la creatividad y culmina en ella.
     
@@ -1886,7 +1860,7 @@ make a test schedule for languages, ideas, formulas, etc
     
     formación general, filosofía, matemática, ciencias naturales físicias, ciencias naturales biológicas, tecnología, ciencias sociales y humanas, humanidades, salúd física, y práctica.
     
-- Visión
+* Visión
     
     Allgemeine Vision
     
@@ -1910,7 +1884,7 @@ make a test schedule for languages, ideas, formulas, etc
     
     Disfruto de paz y me siento impulsado por el proposito de mi vida. Aprendo constantemente y correjo curso tantas veces que sea necessario.
     
-- Book or Article Ideas
+* Book or Article Ideas
     
     Book or Article Ideas
     
@@ -2015,7 +1989,7 @@ make a test schedule for languages, ideas, formulas, etc
     
     Davos for Deities
     
-- Webseite-Ideen
+* Webseite-Ideen
     - Resumé
     - Kurze Biografie
     - Bild(-er?)
@@ -2072,7 +2046,8 @@ make a test schedule for languages, ideas, formulas, etc
     Noticias, medias (?), videos
     
 
-- Alternatives to Reddit
+
+* Alternatives to Reddit
     
     Here are some alternatives to Reddit:
     
@@ -2084,10 +2059,10 @@ make a test schedule for languages, ideas, formulas, etc
     6. Digg: Digg is a news aggregator and discussion platform that covers a wide range of topics, from technology to politics and beyond.
     7. Hubski: Hubski is a discussion platform that focuses on high-quality discussions and conversations, with an emphasis on thoughtful and respectful dialogue.
     8. Tildes: Tildes is a community-driven platform that focuses on fostering intelligent and engaging discussions on a wide range of topics, from politics to technology and beyond.
-- Pensadores importantes
+* Pensadores importantes
         * [Columnistas de PS](https://docs.google.com/spreadsheets/d/1j5vfA-_DOAUiSjub6FCqMgwnQWVEZ4waXyrwWoQJulU/edit#gid=774566759)
     
-- Sitios generales sobre ideas
+* Sitios generales sobre ideas
         * [http://wikipedia.org](http://wikipedia.org/)
         * [https://www.wikiwand.com](https://www.wikiwand.com/)
         * https://zestedesavoir.com/
@@ -2397,13 +2372,13 @@ make a test schedule for languages, ideas, formulas, etc
         * [Store norske leksikon](https://snl.no/)
         * https://pen-international.org/fr/
     
-- Research Resources
+* Research Resources
         * https://arxiv.org/
         * https://arxiv-sanity-lite.com/
         * [http://www.arxiv-sanity.com](http://www.arxiv-sanity.com/)
         * https://sci-hub.se/
     
-- Enciclopedias
+* Enciclopedias
         * [Encyclopedia.com | Free Online Encyclopedia](http://www.encyclopedia.com/)
         * [Wolfram|Alpha: Computational Knowledge Engine](http://www.wolframalpha.com/)
         * http://www.scholarpedia.org/article/Main_Page
@@ -2534,7 +2509,7 @@ make a test schedule for languages, ideas, formulas, etc
         * [Portada » Enciclonet.com](http://www.enciclonet.com/)
         * [Rječnik filozofskih pojmova – Filozofija.org](https://www.filozofija.org/rjecnik-filozofskih-pojmova/)
     
-- Preguntas y respuestas
+* Preguntas y respuestas
         * http://stackexchange.com/sites
         * https://www.quora.com/
         * https://thequestion.ru/
@@ -2556,7 +2531,7 @@ make a test schedule for languages, ideas, formulas, etc
         * http://www.muyinteresante.com.mx/preguntas-y-respuestas/
         * https://br.answers.yahoo.com/
     
-- Cómo hacer
+* Cómo hacer
         * [wikiHow Sitemap](http://ru.wikihow.com/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Sitemap)
         * [wikiHow - Il Manuale del "Come si Fa" a cui Tutti Possono Contribuire](http://www.wikihow.it/Pagina-principale)
         * [wikiHow - Cómo hacer de todo](http://es.wikihow.com/Portada)
@@ -2574,7 +2549,7 @@ make a test schedule for languages, ideas, formulas, etc
         * [Come Fare: curiosità e consigli utili fai da te!](http://comefare.com/)
         * [Comment faire !](http://www.comment-faire.fr/)
     
-- Instrucción
+* Instrucción
         * http://www.openculture.com/
         * http://prometheus.org.ua/
         * https://www.coursera.org/recommendations
@@ -2601,7 +2576,7 @@ make a test schedule for languages, ideas, formulas, etc
         * [Jonah Lehrer](http://www.jonahlehrer.com/)
         * https://learn.saylor.org/?redirect=0
     
-- Sitios de contenido
+* Sitios de contenido
         * https://www.pinterest.com/
         * http://www.wikivisually.com/lang-uk
         * http://reddit.com/
@@ -2627,7 +2602,7 @@ make a test schedule for languages, ideas, formulas, etc
         * http://www.freebyte.com/
         * https://archive.org/index.php
     
-- Rede y enlaces
+* Rede y enlaces
         * http://alexa.com/
         * http://www.liveinternet.ru/
         * https://ifttt.com/
@@ -2645,14 +2620,14 @@ make a test schedule for languages, ideas, formulas, etc
         * [DNB, Katalog der Deutschen Nationalbibliothek](https://portal.dnb.de/opac.htm?method=simpleSearch&query=120338289)
         * [Encyclopédie Wikimonde](https://wikimonde.com/)
     
-- Vídeo
+* Vídeo
         * http://events.fora.tv/partners
         * http://www.howcast.com/
         * https://www.fronteiras.com/
         * [Dokus](https://www.youtube.com/channel/UC23kvmGlwarpZnMgcnLLyfQ)
         * [Applet Magic](http://www.applet-magic.com/newpages.htm)
     
-- Tools
+* Tools
         * https://www.techdevos.com/best-text-to-speech-software/
         * https://obsidian.md/
         * [https://witeboard.com](https://witeboard.com/)
@@ -2660,7 +2635,7 @@ make a test schedule for languages, ideas, formulas, etc
         * https://www.whatruns.com/
         * https://untools.co/
     
-- Bibliotecas
+* Bibliotecas
         * https://libren.org/
         * http://www.worldcat.org/
         * http://www.unige.ch/biblio/plus/ressources/rep2.php
@@ -2689,7 +2664,7 @@ make a test schedule for languages, ideas, formulas, etc
     *** Serial Books &amp; Magazines
         * [11 páginas con audiolibros en italiano | En Italiano](http://www.enitaliano.com/2015/09/audiolibros-en-italiano.html)
     
-- Clubes de libros
+* Clubes de libros
         * [Il Club dei Libri » Il Blog](http://www.ilclubdeilibri.com/il-blog/)
         * [Clube dos Livros](http://www.clubedoslivros.pt/)
         * [Clube do Livro | Um clube de leitura e para discussão de vários temas](https://clubedolivro.wordpress.com/)
@@ -2724,7 +2699,7 @@ make a test schedule for languages, ideas, formulas, etc
         * https://fs.blog/
         * [Biblioteca digital mundial](https://www.wdl.org/es/)
     
-- Referencias y libros
+* Referencias y libros
         * https://degreed.com/iriley/dashboard#/feed
         * https://www.merlot.org/merlot/index.htm
         * http://www.swisseduc.ch/
@@ -2744,7 +2719,7 @@ make a test schedule for languages, ideas, formulas, etc
         * http://globaltext.terry.uga.edu/booklist?cat=title
         * https://all.alleng.me/
     
-- Otros sitios
+* Otros sitios
         * http://window.edu.ru/
         * http://school-collection.edu.ru/
         * http://cyberleninka.ru/
@@ -2809,10 +2784,10 @@ make a test schedule for languages, ideas, formulas, etc
         * http://www.worldatlas.com/
         * https://www.lektorium.tv/mooc
     
-- Great Past Articles
+* Great Past Articles
         * [Nature Versus Nurture? Add ‘Noise’ to the Debate. | Quanta Magazine](https://www.quantamagazine.org/nature-versus-nurture-add-noise-to-the-debate-20200323/)
     
-- Pensadores
+* Pensadores
         * http://ideas.time.com/2013/12/10/whos-biggest-the-100-most-significant-figures-in-history/
         * http://pantheon.media.mit.edu/rankings/people/all/all/-3000/2010/25
         * https://en.wikipedia.org/wiki/Time_100
@@ -3073,7 +3048,7 @@ make a test schedule for languages, ideas, formulas, etc
     
     Anna J. Schwarz
     
-- YouTube Channels
+* YouTube Channels
         * [The Biggest Ideas in the Universe!](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX)
         * [The Mechanic Shark Channel (entertainment)](https://www.youtube.com/c/TheMechanicSharkChannel)
         * [Galileo](https://www.youtube.com/user/GalileoOffiziell)
@@ -3329,7 +3304,7 @@ make a test schedule for languages, ideas, formulas, etc
         * [Rolf Dobelli in der ARD-Talkshow Sendung DAS!](https://www.youtube.com/watch?v=GVUJRX2ndxw&list=WL&index=89)
         * [ФАЛТ МФТИ](https://www.youtube.com/c/%D0%A4%D0%90%D0%9B%D0%A2%D0%9C%D0%A4%D0%A2%D0%98)
     
-- Very Short Introduction
+* Very Short Introduction
         * [Abolitionism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190213220.001.0001/actrade-9780190213220?rskey=0xxw4L&result=1)
         * [The Abrahamic Religions: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190654344.001.0001/actrade-9780190654344?rskey=0xxw4L&result=2)
         * [Accounting: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199684311.001.0001/actrade-9780199684311?rskey=0xxw4L&result=3)
@@ -4016,7 +3991,7 @@ make a test schedule for languages, ideas, formulas, etc
         * [Writing and Script: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199567782.001.0001/actrade-9780199567782?rskey=Vsh5u4&result=684)
         * [Zionism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199766048.001.0001/actrade-9780199766048?rskey=Vsh5u4&result=685)
     
-- Lectura de noticias
+* Lectura de noticias
     - 0
         
         * [ProQuest Newsstand](http://www.provolibrary.com/a-z-resources-list/47859-proquest-newsstand)
@@ -4562,7 +4537,7 @@ make a test schedule for languages, ideas, formulas, etc
         
         * [Politico](http://www.politico.eu/)
         
-- Writing
+* Writing
     
     Writing
     
@@ -4582,3 +4557,6 @@ Petra Cnyrim - Erklärs mir, als wäre ich 5
 Cnyrim, Petra
 * https://www.noemamag.com/
 * https://interdisciplinary-college.org/
+
+
+find books and articles on "engineering thinking" and "design thinking" -> compile lessons and insights from a wide variety of professions and occupations

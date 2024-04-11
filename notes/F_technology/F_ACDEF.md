@@ -1,5 +1,6 @@
 # F sin F.B
 
+
 ## Books
 * [Scanning Electron Microscopy and X-Ray Microanalysis_Joseph R. Michael, Nicholas W.M. Ritchie, John Henry J. Scott, David C._4th ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-1-4939-6676-9)
 * [A History of Palliative Care, 1500-1970 Concepts, Practices, and Ethical challenges (Philosophy and Medicine).pdf](https://vk.com/doc348852382_479143712?hash=255ed0aa3f4aa198f8&dl=80e79ace0ca946486e)
@@ -50,12 +51,15 @@
 * Under the Microscope
 * The Evolution of Useful Things
 
+
 ## A
+
 
 ### Thoughts and Notes
 * How do systems like plants and computers work, in which each stimulus creates a response according to predetermined rules, and each response generates a further response?
 * Apprendre sur: sources d'énergie de l'avenir (incl. pour les avions) What are the best proposed energy solutions?
 * Learn more about: sustainable paper production
+
 
 ### Media
 * [bug.hr](https://www.bug.hr/)
@@ -87,9 +91,11 @@
 * http://arabcrunch.com/ar/
 * https://www.computerra.ru/ 
 
+
 ###  Saved Articles
 * Tomatoland ([NPR Episode](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjklrqyo8qAAxW_g_0HHXvQCQ0QFnoECB8QAQ&url=https%3A%2F%2Fwww.npr.org%2F2011%2F06%2F28%2F137371975%2Fhow-industrial-farming-destroyed-the-tasty-tomato&usg=AOvVaw3n66GY8XQ-hnvUKjiiB1U_&opi=89978449))
 * [Breaking Lab](https://www.youtube.com/channel/UCE2hJ9CYR57BYhk3TjGVG6w)
+
 
 ###  Video Media
 * [TECtv La Señal de la Ciencia](https://www.youtube.com/c/TECtvCanal)
@@ -97,10 +103,13 @@
 * [Canaltech](https://www.youtube.com/CanalTech)
 * [подборка о современных технологиях в различных областях науки](https://vk.com/wall-9471321_21256)
 
+
 ###  Video 1-shot
 * [How to Design the Perfect Shaped Wheel for Any Given Road](https://youtu.be/Y0aOxj5lrKY)
 
+
 ## C.  Tecnología automotiva
+
 
 ###  Books
 * [KFZ Skript](https://docplayer.org/23609915-Kfz-technik-grundzuege.html)
@@ -109,10 +118,12 @@
 * [Fahrdynamik-Regelung - Modellbildung, Fahrerassistenzsysteme, Mechatronik](http://library.lol/main/78B07E972FBD6D9A71076A34B2BCADAA)
 * [Ein Jahrhundert Automobiltechnik: Nutzfahrzeuge](http://library.lol/main/F8C85C20DAF9C3A40B0ACD1821767597)
 
+
 ###  Pages
 * [Autolexikon | Mein Autolexikon](https://www.mein-autolexikon.de/autolexikon.html)
 * [Automobil – Wikipedia](https://de.wikipedia.org/wiki/Automobil)
 * [Fahrzeugkomponenten](http://www.tis-gdv.de/tis/tagungen/svt/svt07/podzuweit/inhalt05.htm)
+
 
 ###  Videos
 * [How a Car Works - Guides to car mechanics and automotive engineering](https://www.howacarworks.com/) (Automobiles!)
@@ -121,16 +132,22 @@
 * [Animagraffs](https://www.youtube.com/c/animagraffs)
 * [Wie funktioniert eigentlich ein Auto? - YouTube](https://www.youtube.com/watch?v=KeyJKizmslU)
 
+
 ## D. Ingeniería
     
 
+
 ## E. Medecina
+
 
 ###  Libros
 * [Le manuel du généraliste](http://libgen.rs/search.php?req=le+manuel+du+g%C3%A9n%C3%A9raliste&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 
+
 ###  Articles to Save
 * https://www.spiegel.de/wissenschaft/medizin/medizinprofessor-ernst-die-homoeopathie-ist-ein-dogma-a-706257.html
 
+
 ## F. Fabricación
+
 Die Welt der Technik in 100 Objekten (Heckl)

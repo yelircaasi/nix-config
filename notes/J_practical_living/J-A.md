@@ -5,3 +5,4 @@ Intrinsic thinking vs positional thinking: example: learning for learning’s sa
 
 Two questions to ask yourself after every reading session: What do I want to remember forever? What can I do now in 5 minutes to apply what I learned?
 
+

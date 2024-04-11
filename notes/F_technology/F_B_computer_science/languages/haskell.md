@@ -1,5 +1,6 @@
 # Haskell
 
+
 * https://github.com/Gabriella439/haskell-nix
 * Dive into GHD: Pipeline
 * GHC - HaskellWiki
@@ -11,7 +12,9 @@
 * https://www.youtube.com/results?sp=mAEA&search_query=ghc+internals 
 * https://stackoverflow.com/questions/18808258/what-does-the-just-syntax-mean-in-haskell
 
+
 ## Example Code
+
 → https://serokell.io/blog/best-haskell-open-source-projects 
 * https://github.com/jgm/pandoc
 * https://github.com/chshersh/sauron
@@ -37,9 +40,11 @@
 * https://github.com/dhall-lang/dhall-lang
 * https://github.com/carp-lang/Carp
 
+
 ## Haskell CLI Guides* https://qiita.com/kimagure/items/9b33a5fa48baf105abe4 
 * https://bollu.github.io/teleport/
 * https://www.stephanschiffels.de/posts/2021-03-24-Haskell-CLI
+
 
 ## To Sort* https://hackage.haskell.org/package/refined-0.8.1/docs/Refined.html
 * https://hackage.haskell.org/package/refined-0.8.1/docs/src/Refined.html
@@ -68,6 +73,7 @@ Liquid Haskell https://www.youtube.com/watch?v=zCJV0xNY06o&pp=ygUObGlxdWlkIGhhc2
 * https://rosettacode.org/wiki/Category:Haskell → follow links and see projects described
 * [Liquid Haskell Workshop](https://www.youtube.com/watch?v=zCJV0xNY06o)
  [haskell resources](https://discord.com/channels/834325286664929280/902554373094252554/1198694610436882590)
+
 Haskell x Nix[Nixifying a Haskell project using nixpkgs – NixOS Asia](ghttps://nixos.asia/en/nixify-haskell-nixpkgs)
 * [99 haskell problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
 * [A simple task & time manager written in Haskell : r/commandline](ghttps://www.reddit.com/r/commandline/comments/fbf8ej/a_simple_task_time_manager_written_in_haskell/)

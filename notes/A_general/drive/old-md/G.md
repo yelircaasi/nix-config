@@ -1,16 +1,22 @@
 # G
 
+
 ## A. General
 ### Fascismo
+
 Il fascismo eterno.epub
 * How Fascism Works.epub
 * The Mass Psychology of Fascism (Wilhelm Reich).pdf
 
+
 ### Freud
+
 As pulsões e seus destinos – (edição bilíngue).epub
 * O Infamiliar [Das Unheimliche] (edição bilíngue).epub
 
+
 ### Marx
+
 Marx-handbuch. Leben - Werk - Wirkung.pdf
 * Einleitung zur Kritik der politischen Ökonomie.pdf
 * Karl Marx – Perspektiven der Gesellschaftskritik.pdf
@@ -21,7 +27,9 @@ Marx-handbuch. Leben - Werk - Wirkung.pdf
 * Wie weiter mit Marx.epub
 * Логика ''Капитала'' Карла Маркса.pdf
 
+
 ### Native Americans
+
 An Introduction to Native North America.pdf
 * Encyclopedia of Native American Tribes.pdf
 * All the Real Indians Died Off.epub
@@ -41,7 +49,9 @@ An Introduction to Native North America.pdf
 * The Legacy of Mesoamerica.pdf
 * The Native American Experience.epub
 
+
 ### _Lectura general (G)
+
 Book of Isms (The Economist).pdf
 * Racism without Racists. Color-Blind Racism and the Persistence of Racial Inequality in the United States.pdf
 * Age of Anger.epub
@@ -138,8 +148,10 @@ Book of Isms (The Economist).pdf
 * El Atlas de la revolucion de las mujeres. Las luchas historicas y los desafios actuales del feminismo.pdf
 * ШАМАНИЗМ - АРХАИЧЕСКИЕ ТЕХНИКИ ЭКСТАЗА.pdf
 
+
 ## B. Historia
 ### _Lectura (Historia)
+
 History. A Very Short Introduction.pdf
 * Das erfundene Mittelalter. Die größte Zeitfälschung der Geschichte.pdf
 * Historia de La Vida Privada - II.epub
@@ -296,8 +308,10 @@ History. A Very Short Introduction.pdf
 * Среда обитания.epub
 * ШАМАНИЗМ - АРХАИЧЕСКИЕ ТЕХНИКИ ЭКСТАЗА.pdf
 
+
 ## C. Política y derecho
 ### _Research
+
 A Quantitative Political Spectrum and Forecasting of Social Evolution.pdf
 * Principal Component Analysis of All CT Orientation and Political Ideology Items.png
 * Globalization and the transformation of the national political space. Six European countries compared.pdf
@@ -307,7 +321,9 @@ A Quantitative Political Spectrum and Forecasting of Social Evolution.pdf
 * Measuring Proximity Between Newspapers and Political Parties- The Sentiment Political Compass.pdf
 * Sentiment Political Compass. A Data-driven Analysis of Online Newspapers regarding Political Orientation.pdf
 
+
 ### French 363
+
 144 engagements présidentiels.pdf
 * Bibliographie annotée.gdoc
 * Brouillon 1.gdoc
@@ -318,11 +334,15 @@ A Quantitative Political Spectrum and Forecasting of Social Evolution.pdf
 * L’Idéologie du Néocolonialisme, bel et bien vivant en France.pdf
 * L’OUTRE-MER (FN).pdf
 
+
 ### Russ 422
+
 100 лет революции.gdoc
 * Прогресс: соблазнительная мечта.gslides
 
+
 ### _Lectura (política y derecho)
+
 Miscellaneous Articles →
 * ЮРИСПРУДЕНЦІЯ.pdf
 * A mente esquerdista (Rossiter).pdf
@@ -463,24 +483,38 @@ Miscellaneous Articles →
 * Магун. Единство и одиночество. Курс политической философии Нового Времени.pdf
 * Irrational Man.pdf
 
+
 ## D. Economía
 ### Cursos
+
 382 →
+
 3882 →
+
 413R2 →
+
 4612 →
+
 4772 →
+
 4782 →
+
 4882 →
+
 5802 →
+
 5812 →
+
 Recursos de PhD2 →
 
 
 ### Desarrollo
+
 Sitios:.gdoc
 
+
 #### _Lectura (desarrollo)
+
 America’s Free Market Myths. Debunking Market Fundamentalism.pdf
 * The Concept of Development (Sen).pdf
 * DETERMINANTS OF ECONOMIC CORRUPTION:  A CROSS-COUNTRY COMPARISON.pdf
@@ -496,12 +530,16 @@ America’s Free Market Myths. Debunking Market Fundamentalism.pdf
 * Theorie der wirtschaftlichen Entwicklung (Schumpeter).pdf
 * Wirtschaftliche Entwicklung und Demokratie: Ist Demokratie ein Wohlstandsmotor oder ein Wohlstandsprodukt?.pdf
 
+
 ### Economía conductual
+
 Econ 413R Vocabulary.docx.gdoc
 * Notas de libros sobre la EC.gsheet
 * Behavioral Economics Guide 2020.pdf
 
+
 #### _Lectura (economía conductual)
+
 Adieu, Homo Oeconomicus.pdf
 * Abschied vom Homo oeconomicus.docx.gdoc
 * BE (Workplace Context).pdf
@@ -521,29 +559,36 @@ Adieu, Homo Oeconomicus.pdf
 * Verhaltensökonomik (Wikipedia).pdf
 * Wozu der Homo Oeconomicus gut ist.pdf
 
+
 ### Economía de la educación →
 #### _Lectura (educación)
+
 Towards an intellectual history of evolutionary economics: competition and struggle versus  cooperation and mutual aid.pdf
 * Evolutionary development economics: bridging the gap between micro and macro in the theory of economic development.pdf
 * Illicit Financial Flows.pdf
 * Narrow and Broad Aproaches to Evolutionary Modeling in Economics.pdf
 * TECHNOLOGICAL CHANGE AND ECONOMIC DYNAMICS FROM THE SCOTTISH ENLIGHTENMENT TO CONTEMPORARY EVOLUTIONARY ECONOMICS.pdf
+
 
 ### Economía evolucionaria
 #### _Lectura (economía evolucionaria)
+
 Towards an intellectual history of evolutionary economics: competition and struggle versus  cooperation and mutual aid.pdf
 * Evolutionary development economics: bridging the gap between micro and macro in the theory of economic development.pdf
 * Illicit Financial Flows.pdf
 * Narrow and Broad Aproaches to Evolutionary Modeling in Economics.pdf
 * TECHNOLOGICAL CHANGE AND ECONOMIC DYNAMICS FROM THE SCOTTISH ENLIGHTENMENT TO CONTEMPORARY EVOLUTIONARY ECONOMICS.pdf
 
+
 ### Economía, universidades y mi educación formal
+
 Economistas en mis universidades potenciales.gsheet
 * Investigadores europeos - economía conductual.gdoc
 * Investigadores europeos - economía de la educación.gdoc
 * Investigadores europeos - economía del desarrollo.gdoc
 * Mejores economistas en mis universidades potenciales.gdoc
 * Mejores universidades para mí.gdoc
+
 
 ### Macroeconomía
 #### _Lectura (macroeconomía)* Austerity and the rise of the Nazi party.pdf
@@ -577,7 +622,9 @@ Economistas en mis universidades potenciales.gsheet
 * Recursive Methods in Economic Dynamics - Solutions Manual.pdf
 * Recursive Methods in Economic Dynamics.pdf
 
+
 ### Microeconomía
+
 Spieltheorie und oekonomisches Verhalten (Eisermann).pdf
 * An Introduction to Game Theory.pdf
 * MWG.pdf
@@ -590,7 +637,9 @@ Spieltheorie und oekonomisches Verhalten (Eisermann).pdf
 * Qualifying Exams →
 * Varian →
 
+
 #### Teoría de los juegos →
+
 OCW →
 * OCW2 →
 * Otros →
@@ -613,7 +662,9 @@ OCW →
 * Lecture Notes on Game Theory (Weatherson).pdf
 * Midterm Exam 2017.pdf
 
+
 #### _Lectura
+
 Miscellaneous Articles →
 * The Moral Economists.pdf
 * The Economic Way of Thinking.pdf
@@ -731,13 +782,17 @@ Miscellaneous Articles →
 * Mathiness.pdf
 * Sins of Omission and the Practice  of Economics.pdf
 
+
 #### <General>
+
 Notas - Kapital.gdoc
 * Oxford Dictionary Economics.gsheet
 * Revistas, sitios y blogs de la economía.gsheet
 
+
 ## E. Lingüística
 ### Fonética
+
 The Handbook of Phonetic Sciences.pdf
 * The Sounds of the World's Languages.pdf
 * Articulatory Phonetics.pdf
@@ -775,7 +830,9 @@ The Handbook of Phonetic Sciences.pdf
 * Международный фонетический алфавит.pdf
 * Международный_фонетический_алфавит.pdf
 
+
 ### Linguistik-Bücher für Uni-Kurse
+
 A Guide to Speech Production and Perception.pdf
 * An Introduction to Linguistic Typology.pdf
 * Acoustic and Auditory Phonetics-Wiley.epub
@@ -850,7 +907,9 @@ A Guide to Speech Production and Perception.pdf
 * Universals, Concepts and Qualities - New Essays on the Meaning of Predicates.pdf
 * What Is Meaning - Fundamentals of Semantics.pdf
 
+
 ### _Lectura (lingüistica)
+
 Handbuch Sprachphilosophie
 * Philosophy of Language.pdf
 * Sprachwissenschaft Ein Reader.pdf
@@ -901,7 +960,9 @@ Handbuch Sprachphilosophie
 * Языки мира. Славянские языки.pdf
 * Языки мира. Тюркские языки.pdf
 
+
 ### Neurolinguistics & Psycholinguistics
+
 Intro to Neurolinguistics.pdf
 * Birdsong, Speech, and Language. Exploring the Evolution of Mind and Brain.pdf
 * Language of Thought
@@ -926,11 +987,15 @@ Intro to Neurolinguistics.pdf
 * Toward a Cognitive Semantics I. Concept Structuring Systems.pdf
 * Toward a Cognitive Semantics II. Typology and Process in Concept Structuring.pdf
 
+
 ### <General>
+
 Ling Undergrad.pdf
+
 
 ## F. Antropología y sociología
 ### _Lectura (Sociología)
+
 Sociology of Humor.pdf
 * American Society. How It Really Works.pdf
 * Die deutsche Seele.pdf
@@ -958,8 +1023,10 @@ Sociology of Humor.pdf
 * Graeber
 * Colombia - Manual de cultura.pdf
 
+
 ## G. Psicología
 ### _Lectura
+
 Introduccion a la Psicologia.pdf
 * Psychology (openstax).pdf
 * Психология 101.pdf
@@ -1064,7 +1131,9 @@ Introduccion a la Psicologia.pdf
 * Psychology. A Very Short Introduction
 * Sexo solitario
 
+
 ### Libre albedrío
+
 Free Will Wikipedia.pdf
 * Libero Arbitrio.pdf
 * Libre albedrío.pdf
@@ -1074,7 +1143,9 @@ Free Will Wikipedia.pdf
 * Свобода волі.pdf
 * حرية الإرادة.pdf
 
+
 ### Teoría de las decisiones
+
 A Tutorial Introduction to Decision Theory.pdf
 * Decision Theory. A Brief Introduction.pdf
 * Entscheidungstheorie.pdf
@@ -1087,21 +1158,29 @@ A Tutorial Introduction to Decision Theory.pdf
 * Timeless Decision Theory.pdf
 * Теория принятия решений.pdf
 
+
 ## H. Pedagogia
 ### Recursos
+
 Journal Tier Ranking - Oct 2016.xlsx
 * Revistas sobre teória de formación y pedagogía.gsheet
 
+
 ### Técnicas
+
 Memorización de vocabularios.gdoc
 * Técnicas para lectura.gdoc
 * Técnicas para memorización de textos.gdoc
 * Técnicas para memorización y masterización de música.gdoc
 
+
 ### Lectura anterior
+
 Lernen aus neurowissenschaftlicher Sicht: Von der Assoziation zur Kognition.pdf
 
+
 ### _Lectura (pedagogía)
+
 A Mind for Numbers.gdoc
 * Encyclopedia of Educational Philosophy and Theory.pdf
 * Tutto psicologia e pedagogia.pdf
@@ -1140,6 +1219,7 @@ A Mind for Numbers.gdoc
 
 
 ## <Sort>
+
 Psychologie im Alltag
 * Das Psychologie-Buch
 * Und ja, i

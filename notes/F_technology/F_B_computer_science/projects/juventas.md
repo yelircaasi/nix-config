@@ -1,10 +1,13 @@
 # juventas.nvim
 
+
 * https://en.m.wiktionary.org/wiki/Jupiter 
+
 
 * Thunor
 * Phaethon
 * Nike
+
 
 * https://github.com/AndrewRadev/inline_edit.vim
 * Juniper? Junyper? Junipyr?
@@ -17,10 +20,8 @@
 * maybe save code to a separate tempfile and run lsp on that, then pass lsp feedback to relevant location in nbview.
 * [SyntaxRange - Define a different filetype syntax on regions of a buffer. : vim online](https://www.vim.org/scripts/script.php?script_id=4168)
 
+
 * https://chat.openai.com/c/fcf2129c-4772-4537-b029-d1e1fa1f276b Python Plugin Neovim Setup
-
-
-
 
 same as Jupyter web, but using text view
 
@@ -56,7 +57,8 @@ tests
 
 image rendering (wezterm and kitty)
 
-- > how to write a plugin in python and interact with lua
+
+* > how to write a plugin in python and interact with lua
 
 make each cell its own buffer? keep separate code-only buffer for LSP?
 * https://chat.openai.com/c/fcf2129c-4772-4537-b029-d1e1fa1f276b 
@@ -68,7 +70,9 @@ make each cell its own buffer? keep separate code-only buffer for LSP?
 * https://millejoh.github.io/emacs-ipython-notebook/
 * https://isaacganoung.com/articles/tutorials/jupyter-notebook-in-emacs.html
 
+
 ## Virtual Text
+
 Yes, you can add virtual text to the beginning of each line in Neovim using a plugin or by directly configuring Neovim. Here's a way to achieve this:
 
 You can use the `nvim_buf_set_virtual_text()` function provided by Neovim's API to add virtual text to each line. You can invoke this function through a script or by using Neovim's built-in functions.
@@ -76,13 +80,19 @@ You can use the `nvim_buf_set_virtual_text()` function provided by Neovim's API 
 Here's an example script in Lua that adds virtual text to the beginning of each line:
 
 ```lua
+
 -- Define a function to add virtual text to the beginning of each line
+
 function add_virtual_text(bufnr)local lines = vim.api.nvim_buf_get_lines(bufnr, 0, -1, false)* for i, line in ipairs(lines) do*     -- Add virtual text "| " to the beginning of each line*     vim.api.nvim_buf_set_virtual_text(bufnr, -1, i - 1, {{'| ', 'Comment'}}, {})* end
+
 end
 
 -- Call the function on each buffer
+
 for _, bufnr in ipairs(vim.api.nvim_list_bufs()) do* add_virtual_text(bufnr)
+
 end
+
 ```
 
 To achieve notebook-style cells with virtual text in Neovim, you can use the `nvim_buf_set_virtual_text()` function to add custom virtual text to specific lines in your buffer. Additionally, you can utilize ASCII art to create the visual boundaries for the cells.
@@ -90,13 +100,18 @@ To achieve notebook-style cells with virtual text in Neovim, you can use the `nv
 Here's a Lua script that adds notebook-style cells around each line of Python code:
 
 ```lua
+
 function add_notebook_cells(bufnr)* local lines = vim.api.nvim_buf_get_lines(bufnr, 0, -1, false)* for i, line in ipairs(lines) do*     -- Add notebook-style cells around each line*     local notebook_line = '│  ' .. line .. '  │'*     local notebook_border = '┌' .. string.rep('─', #notebook_line - 2) .. '┐'
 *     -- Set virtual text for the notebook cell*     vim.api.nvim_buf_set_virtual_text(bufnr, -1, i - 1, {{notebook_border, 'Comment'}, {notebook_line, 'Comment'}, {notebook_border, 'Comment'}}, {})* end
+
 end
 
 -- Call the function on each buffer
+
 for _, bufnr in ipairs(vim.api.nvim_list_bufs()) do* add_notebook_cells(bufnr)
+
 end
+
 ```
 
 This Lua script iterates over each line of the buffer, adding notebook-style cells around the line content. It then uses `nvim_buf_set_virtual_text()` to add the custom virtual text to the buffer.
@@ -105,6 +120,7 @@ To execute this script, save it as `add_notebook_cells.lua` in your Neovim confi
 
 Please note that virtual text added using this method is purely visual and does not affect the underlying contents of the file. Additionally, you may need to adjust the ASCII art and styling to fit your preferences and display needs.
 
+
 ## filetype-specific keybinds
 
 Yes, you can define key bindings that are specific to a certain file type (filetype) in Neovim. This is useful for defining mappings or commands that are relevant only when editing files of a particular type, such as Python, Markdown, or JavaScript.
@@ -112,22 +128,28 @@ Yes, you can define key bindings that are specific to a certain file type (filet
 Here's how you can define filetype-specific key bindings in Neovim:
 
 ```vim
+
 " Define a key binding that is valid only for Python files
+
 autocmd FileType python nnoremap <buffer> <Leader>t :!pytest %<CR>
 
 " Define a key binding that is valid only for Markdown files
+
 autocmd FileType markdown nnoremap <buffer> <Leader>c :!pandoc -s -o %:r.pdf %<CR>
+
 ```
 
 In these examples:
 
-- `autocmd FileType python` and `autocmd FileType markdown` set up autocmds (autocommands) that trigger when Neovim detects a buffer with the corresponding file type.
-- `nnoremap <buffer> <Leader>t :!pytest %<CR>` defines a normal mode mapping (`nnoremap`) that executes the `pytest` command when triggered by the leader key followed by `t` (`<Leader>t`). The `%` represents the current file's path, and `<CR>` simulates pressing the Enter key.
-- `nnoremap <buffer> <Leader>c :!pandoc -s -o %:r.pdf %<CR>` defines another normal mode mapping that runs the `pandoc` command to convert the Markdown file to PDF when triggered by the leader key followed by `c`.
+
+* `autocmd FileType python` and `autocmd FileType markdown` set up autocmds (autocommands) that trigger when Neovim detects a buffer with the corresponding file type.
+* `nnoremap <buffer> <Leader>t :!pytest %<CR>` defines a normal mode mapping (`nnoremap`) that executes the `pytest` command when triggered by the leader key followed by `t` (`<Leader>t`). The `%` represents the current file's path, and `<CR>` simulates pressing the Enter key.
+* `nnoremap <buffer> <Leader>c :!pandoc -s -o %:r.pdf %<CR>` defines another normal mode mapping that runs the `pandoc` command to convert the Markdown file to PDF when triggered by the leader key followed by `c`.
 
 By using `<buffer>` in the mapping command, you ensure that the mapping is local to the current buffer. This means that the mapping will only be active when editing a file of the specified filetype, and it won't affect other buffers.
 
 You can add these mappings to your `init.vim` or `init.lua` configuration file in Neovim to define filetype-specific key bindings according to your preferences.
+
 
 ## Question for ChatGPT
 
@@ -136,20 +158,25 @@ What would be the most difficult parts of developing a neovim plugin providing a
 Developing a Neovim plugin to provide a Neovim-native interface to Jupyter notebook (.ipynb) files could present several challenges, including:
 
 1. Parsing and Understanding the .ipynb Format: Jupyter notebook files are JSON-based and have a complex structure. Developing a robust parser to handle this format and extract relevant information such as code cells, markdown cells, outputs, metadata, etc., can be challenging.
+
 2. Rendering and Displaying Rich Content: Jupyter notebooks support rich content such as Markdown, HTML, images, LaTeX, and interactive widgets. Implementing a rendering engine within Neovim to display this rich content accurately and interactively could be non-trivial.
+
 3. Code Execution and Kernel Interaction: Jupyter notebooks rely on kernels to execute code. Providing a seamless interface for code execution, kernel management, and interaction with kernel outputs within Neovim would require integration with Jupyter's messaging protocol (e.g., Jupyter messaging over ZeroMQ or WebSockets).
+
 4. User Interface and Interactivity: Jupyter notebooks offer features like collapsible sections, cell execution status indicators, interactive widgets, and cell metadata. Replicating these features within Neovim while maintaining a consistent and intuitive user interface could be challenging.
+
 5. Maintaining Compatibility and Performance: Neovim runs in a terminal environment, which may impose limitations on rendering capabilities and interactivity compared to web-based Jupyter interfaces. Ensuring compatibility with different terminal emulators and maintaining acceptable performance levels for large notebooks could be challenging.
+
 6. Handling Notebook Structure and Modifications: Jupyter notebooks can have a hierarchical structure with nested cells and metadata. Implementing functionality to create, modify, rearrange, and delete cells while preserving the integrity of the notebook structure would require careful design and implementation.
+
 7. Testing and Documentation: Comprehensive testing, including unit tests, integration tests, and user acceptance tests, would be essential to ensure the plugin's reliability and robustness. Additionally, providing clear and comprehensive documentation to guide users on installation, configuration, and usage would be crucial.
 
 Overall, while developing a Neovim plugin to interface with Jupyter notebook files could be challenging, it could also be a rewarding project that enhances the productivity and workflow of Neovim users who work with Jupyter notebooks.
 
-
-
 Juventas.nvim (jove.nvim? Giove.nvim? Iuppiter.nvim): full Jupyter notebook functionality for nvim (comparable to VSCode)
 
 cat/bat for Jupyter Notebooks
+
 
 # NBEditor.nvim (Plugin without Code Server)
 
@@ -157,9 +184,11 @@ start simpler: : attractive viewing of jupyter notebooks, with nice frames
 
 → tricky question: how to allow editing within cell to change contents? (perhaps not the simplest idea, but certainly enlightening)
 
+
 # Juventas.nvim
 
 add notebooks to goneovim! or focus on wezterm (yep, probably that)
+
 
 # VimQTConsole - qtconsole with full vim keybindings and nvim as a backend editing server
 * [https://github.com/jupyter/jupyter_console](https://www.google.com/url?q=https://github.com/jupyter/jupyter_console&sa=D&source=editors&ust=1711378556488622&usg=AOvVaw3q1vDtf6fyEQu-p-e70-w_) - [](https://www.google.com/url?q=https://jupyter-console.readthedocs.io/en/latest/&sa=D&source=editors&ust=1711378556488849&usg=AOvVaw31rrl63oIbbF1NC7VNIqC2)[Docs](https://www.google.com/url?q=https://jupyter-console.readthedocs.io/en/latest/&sa=D&source=editors&ust=1711378556489067&usg=AOvVaw2yjTrOFvZCSeRAVWj0JRKJ)
@@ -172,6 +201,7 @@ fork - add vim keybindings and color scheme support, eventually even make contro
 * [Demonstration of the Jupyter QtConsole + Vim integration](https://www.google.com/url?q=https://youtu.be/Fi_Xd6h4ncw&sa=D&source=editors&ust=1711378556490428&usg=AOvVaw1S3Bijs78WicgnKS6skWpd)
 * [https://github.com/glacambre/firenvim](https://www.google.com/url?q=https://github.com/glacambre/firenvim&sa=D&source=editors&ust=1711378556490685&usg=AOvVaw1Ze8i3BaOuiGgY8kdmfquZ) - something like this for qtconsole, but for qt instead of browser
 * [Niche Vim/Neovim Plugins. Overview | by alpha2phi | Medium](https://www.google.com/url?q=https://alpha2phi.medium.com/niche-neovim-plugins-722b34f76291&sa=D&source=editors&ust=1711378556491115&usg=AOvVaw0aufc4LSu8XZcajrli6EWN) - maybe some of these
+
 
 # Related Projects
 * [https://github.com/GCBallesteros/NotebookNavigator.nvim](https://www.google.com/url?q=https://github.com/GCBallesteros/NotebookNavigator.nvim&sa=D&source=editors&ust=1711378556491565&usg=AOvVaw2J-w1XlOL7CNE6bHgRunb_) (old: [](https://www.google.com/url?q=https://www.maxwellrules.com/misc/nvim_jupyter.html&sa=D&source=editors&ust=1711378556491832&usg=AOvVaw2zXrn72PM8EM9qFzngAt-s)[Maxwell Rules - NeoVim Notebooks](https://www.google.com/url?q=https://www.maxwellrules.com/misc/nvim_jupyter.html&sa=D&source=editors&ust=1711378556492003&usg=AOvVaw2k7ufUE6Fb-Bmxx4xxFZaO))
@@ -203,6 +233,7 @@ fork - add vim keybindings and color scheme support, eventually even make contro
 * [Reddit - Nicer jupyter notebook workflow with neovim thanks to Jupytext and mini.ai](https://www.google.com/url?q=https://www.reddit.com/r/neovim/comments/x0hf25/nicer_jupyter_notebook_workflow_with_neovim/&sa=D&source=editors&ust=1711378556499263&usg=AOvVaw0t2rLTBexNVpi8h4gKFuH2)
 * [https://martibosch.github.io/jupyter-emacs-universe/](https://www.google.com/url?q=https://martibosch.github.io/jupyter-emacs-universe/&sa=D&source=editors&ust=1711378556499570&usg=AOvVaw0GiTcETqWwNGaka1uqYiG1)
 
+
 # General Resources
 * [GitHub - fastai/nbdev: Create delightful software with Jupyter Notebooks](https://www.google.com/url?q=https://github.com/fastai/nbdev&sa=D&source=editors&ust=1711378556500045&usg=AOvVaw2CAoFdFPvKNPkgBuSPDWXS)
 * [Related projects — xeus documentation](https://www.google.com/url?q=https://xeus.readthedocs.io/en/latest/related.html&sa=D&source=editors&ust=1711378556500316&usg=AOvVaw3aHR-JG1zAukA3AN49azW1)
@@ -212,6 +243,7 @@ fork - add vim keybindings and color scheme support, eventually even make contro
 * [Quarto - Tutorial: Hello, Quarto](https://www.google.com/url?q=https://quarto.org/docs/get-started/hello/neovim.html&sa=D&source=editors&ust=1711378556501427&usg=AOvVaw0aHpNTtkkPpAWrvI4svgAw)
 * [Project Jupyter | Get Involved](https://www.google.com/url?q=https://jupyter.org/community&sa=D&source=editors&ust=1711378556501702&usg=AOvVaw1EFwDrHK5wAWbshaAJcSDR)
 
+
 # Miscellaneous
 * [Make Docker container with all the interesting Jupyter kernels → try on](https://www.google.com/url?q=https://jupyter.org/binder&sa=D&source=editors&ust=1711378556502148&usg=AOvVaw3q-bWaCG8zYJiNSbQl42sj)
 * [I don't like notebooks.- Joel Grus (Allen Institute for Artificial Intelligence)](https://www.google.com/url?q=https://youtu.be/7jiPeIFXb6U&sa=D&source=editors&ust=1711378556502459&usg=AOvVaw1SH4n_Id93LGPsGXS90h7u)
@@ -220,4 +252,5 @@ fork - add vim keybindings and color scheme support, eventually even make contro
 * [Jupyter Notebook Complete Beginner Guide 2023 - From Jupyter to Jupyterlab, Google Colab and Kaggle! Rob Mulla Rob Mulla • • 39.332 visualizaciones hace 11 meses](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D5pf0_bpNbkw&sa=D&source=editors&ust=1711378556503422&usg=AOvVaw1wj7RX1S_bqpLaC1WbGOrB)
 * [Niche Vim/Neovim Plugins. Overview | by alpha2phi | Medium](https://www.google.com/url?q=https://alpha2phi.medium.com/niche-neovim-plugins-722b34f76291&sa=D&source=editors&ust=1711378556503751&usg=AOvVaw0agTGe_81cJmt1cctbdkb_)
 
-- ☐ Jupyter & Notebook-Related [](https://www.google.com/url?q=https://github.com/justmarkham/scikit-learn-videos&sa=D&source=editors&ust=1711378556504117&usg=AOvVaw1Dj15mms2swMcMKl-bgHdo)[justmarkham/scikit-learn-videos: Jupyter notebooks from the scikit-learn video series](https://www.google.com/url?q=https://github.com/justmarkham/scikit-learn-videos&sa=D&source=editors&ust=1711378556504319&usg=AOvVaw2F8DdSNoEmIxCcOyYiH13O) [](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DutNl9f3gqYQ&sa=D&source=editors&ust=1711378556504502&usg=AOvVaw2AUnOLgdM5y8c_tgZOHw0M)[Create Presentation Slides from Jupyter - YouTube](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DutNl9f3gqYQ&sa=D&source=editors&ust=1711378556504684&usg=AOvVaw1noh9YpaGwn_GD7IAsf7Ke) [](https://www.google.com/url?q=https://github.com/jupyterlab/jupyterlab&sa=D&source=editors&ust=1711378556504851&usg=AOvVaw1Q97Bhd6NBhQG2p5sATMne)[jupyterlab/jupyterlab: JupyterLab computational environment.](https://www.google.com/url?q=https://github.com/jupyterlab/jupyterlab&sa=D&source=editors&ust=1711378556505034&usg=AOvVaw1q_rtwO_ECV5jnM2Z4xRW6) [](https://www.google.com/url?q=https://www.sas.upenn.edu/~jesusfv/Chapter_HPC_7_Notebooks.pdf&sa=D&source=editors&ust=1711378556505227&usg=AOvVaw1DShEp0EU0bHK08IdRyLeO)[Chapter 7 Dynamic Notebooks: Jupyter, Markdown, and Pandoc](https://www.google.com/url?q=https://www.sas.upenn.edu/~jesusfv/Chapter_HPC_7_Notebooks.pdf&sa=D&source=editors&ust=1711378556505433&usg=AOvVaw3xtrqJL3zlLP7Vk6-5T-N7) jupyter css theme, also look into jupyter hacks in nyxt → [](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DstYs_8quGUM&sa=D&source=editors&ust=1711378556505685&usg=AOvVaw39PtX7mvXZFW63EaR_LU7X)[video on css in jupyter](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DstYs_8quGUM&sa=D&source=editors&ust=1711378556505868&usg=AOvVaw1zQEYPkTz3C0FSCf0ooFxs) [](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DFi_Xd6h4ncw&sa=D&source=editors&ust=1711378556506038&usg=AOvVaw33puDnvzjZ4RZCPZhSzhzB)[Demonstration of the Jupyter QtConsole + Vim integration](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DFi_Xd6h4ncw&sa=D&source=editors&ust=1711378556506240&usg=AOvVaw2PPVEFaRxfDOf_xVZZz8mG) [](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DDAXQCJAHiAI&sa=D&source=editors&ust=1711378556506417&usg=AOvVaw2ywxxIidM60wisySSTWrio)[Convert Notebook to Slideshow | Convert Jupyter notebook into Slideshow](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DDAXQCJAHiAI&sa=D&source=editors&ust=1711378556506601&usg=AOvVaw1X0UYrErp8q9rXCRwCcg_I) [](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DDnkxaEgen0E&sa=D&source=editors&ust=1711378556506785&usg=AOvVaw2OXYhiuNvzGGmLYQKsgaWJ)[How to Change your Jupyter Notebook Theme (Dark Theme!!)](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DDnkxaEgen0E&sa=D&source=editors&ust=1711378556507136&usg=AOvVaw0NdWeZrwGCzvgAZUiBXxsW) [](https://www.google.com/url?q=https://github.com/voila-gallery&sa=D&source=editors&ust=1711378556507331&usg=AOvVaw1DoVoLJpx4hINxA2Mrhqk7)[Voilà Gallery](https://www.google.com/url?q=https://github.com/voila-gallery&sa=D&source=editors&ust=1711378556507525&usg=AOvVaw0lEEJZI82ma4LnRVsKsYYm) [](https://www.google.com/url?q=https://youtu.be/l7zS8Ld4_iA&sa=D&source=editors&ust=1711378556507703&usg=AOvVaw2RCzTBanHzLT59r1FICHmL)[nbdev tutorial](https://www.google.com/url?q=https://youtu.be/l7zS8Ld4_iA&sa=D&source=editors&ust=1711378556507889&usg=AOvVaw2Szc9TOcLCVN4HsawLl3d9) [](https://www.google.com/url?q=https://youtu.be/l7zS8Ld4_iA&sa=D&source=editors&ust=1711378556508051&usg=AOvVaw1SS8TSCja2gkifpHhYJyRp)[nbdev tutorial -- zero to published project in 90 minutes](https://www.google.com/url?q=https://youtu.be/l7zS8Ld4_iA&sa=D&source=editors&ust=1711378556508236&usg=AOvVaw1i2PaFOZGzw_K8KutPSHJZ) [](https://www.google.com/url?q=https://quarto.org/docs/get-started/&sa=D&source=editors&ust=1711378556508415&usg=AOvVaw2dlKu6BG0a6_BKPjjEijT5)[https://quarto.org/docs/get-started/](https://www.google.com/url?q=https://quarto.org/docs/get-started/&sa=D&source=editors&ust=1711378556508593&usg=AOvVaw1R2vbCfSllMvZRhI-m5trd)- [ ]  ‣ - [](https://www.google.com/url?q=https://nbcommands.readthedocs.io/en/latest/&sa=D&source=editors&ust=1711378556508969&usg=AOvVaw0a78GIcs55ByjHwtwKF4xz)[https://nbcommands.readthedocs.io/en/latest/](https://www.google.com/url?q=https://nbcommands.readthedocs.io/en/latest/&sa=D&source=editors&ust=1711378556509132&usg=AOvVaw1S9L1h4zENYRxxF6BdcFhp)
+
+* ☐ Jupyter & Notebook-Related [](https://www.google.com/url?q=https://github.com/justmarkham/scikit-learn-videos&sa=D&source=editors&ust=1711378556504117&usg=AOvVaw1Dj15mms2swMcMKl-bgHdo)[justmarkham/scikit-learn-videos: Jupyter notebooks from the scikit-learn video series](https://www.google.com/url?q=https://github.com/justmarkham/scikit-learn-videos&sa=D&source=editors&ust=1711378556504319&usg=AOvVaw2F8DdSNoEmIxCcOyYiH13O) [](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DutNl9f3gqYQ&sa=D&source=editors&ust=1711378556504502&usg=AOvVaw2AUnOLgdM5y8c_tgZOHw0M)[Create Presentation Slides from Jupyter - YouTube](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DutNl9f3gqYQ&sa=D&source=editors&ust=1711378556504684&usg=AOvVaw1noh9YpaGwn_GD7IAsf7Ke) [](https://www.google.com/url?q=https://github.com/jupyterlab/jupyterlab&sa=D&source=editors&ust=1711378556504851&usg=AOvVaw1Q97Bhd6NBhQG2p5sATMne)[jupyterlab/jupyterlab: JupyterLab computational environment.](https://www.google.com/url?q=https://github.com/jupyterlab/jupyterlab&sa=D&source=editors&ust=1711378556505034&usg=AOvVaw1q_rtwO_ECV5jnM2Z4xRW6) [](https://www.google.com/url?q=https://www.sas.upenn.edu/~jesusfv/Chapter_HPC_7_Notebooks.pdf&sa=D&source=editors&ust=1711378556505227&usg=AOvVaw1DShEp0EU0bHK08IdRyLeO)[Chapter 7 Dynamic Notebooks: Jupyter, Markdown, and Pandoc](https://www.google.com/url?q=https://www.sas.upenn.edu/~jesusfv/Chapter_HPC_7_Notebooks.pdf&sa=D&source=editors&ust=1711378556505433&usg=AOvVaw3xtrqJL3zlLP7Vk6-5T-N7) jupyter css theme, also look into jupyter hacks in nyxt → [](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DstYs_8quGUM&sa=D&source=editors&ust=1711378556505685&usg=AOvVaw39PtX7mvXZFW63EaR_LU7X)[video on css in jupyter](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DstYs_8quGUM&sa=D&source=editors&ust=1711378556505868&usg=AOvVaw1zQEYPkTz3C0FSCf0ooFxs) [](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DFi_Xd6h4ncw&sa=D&source=editors&ust=1711378556506038&usg=AOvVaw33puDnvzjZ4RZCPZhSzhzB)[Demonstration of the Jupyter QtConsole + Vim integration](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DFi_Xd6h4ncw&sa=D&source=editors&ust=1711378556506240&usg=AOvVaw2PPVEFaRxfDOf_xVZZz8mG) [](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DDAXQCJAHiAI&sa=D&source=editors&ust=1711378556506417&usg=AOvVaw2ywxxIidM60wisySSTWrio)[Convert Notebook to Slideshow | Convert Jupyter notebook into Slideshow](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DDAXQCJAHiAI&sa=D&source=editors&ust=1711378556506601&usg=AOvVaw1X0UYrErp8q9rXCRwCcg_I) [](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DDnkxaEgen0E&sa=D&source=editors&ust=1711378556506785&usg=AOvVaw2OXYhiuNvzGGmLYQKsgaWJ)[How to Change your Jupyter Notebook Theme (Dark Theme!!)](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DDnkxaEgen0E&sa=D&source=editors&ust=1711378556507136&usg=AOvVaw0NdWeZrwGCzvgAZUiBXxsW) [](https://www.google.com/url?q=https://github.com/voila-gallery&sa=D&source=editors&ust=1711378556507331&usg=AOvVaw1DoVoLJpx4hINxA2Mrhqk7)[Voilà Gallery](https://www.google.com/url?q=https://github.com/voila-gallery&sa=D&source=editors&ust=1711378556507525&usg=AOvVaw0lEEJZI82ma4LnRVsKsYYm) [](https://www.google.com/url?q=https://youtu.be/l7zS8Ld4_iA&sa=D&source=editors&ust=1711378556507703&usg=AOvVaw2RCzTBanHzLT59r1FICHmL)[nbdev tutorial](https://www.google.com/url?q=https://youtu.be/l7zS8Ld4_iA&sa=D&source=editors&ust=1711378556507889&usg=AOvVaw2Szc9TOcLCVN4HsawLl3d9) [](https://www.google.com/url?q=https://youtu.be/l7zS8Ld4_iA&sa=D&source=editors&ust=1711378556508051&usg=AOvVaw1SS8TSCja2gkifpHhYJyRp)[nbdev tutorial -- zero to published project in 90 minutes](https://www.google.com/url?q=https://youtu.be/l7zS8Ld4_iA&sa=D&source=editors&ust=1711378556508236&usg=AOvVaw1i2PaFOZGzw_K8KutPSHJZ) [](https://www.google.com/url?q=https://quarto.org/docs/get-started/&sa=D&source=editors&ust=1711378556508415&usg=AOvVaw2dlKu6BG0a6_BKPjjEijT5)[https://quarto.org/docs/get-started/](https://www.google.com/url?q=https://quarto.org/docs/get-started/&sa=D&source=editors&ust=1711378556508593&usg=AOvVaw1R2vbCfSllMvZRhI-m5trd)- [ ]  ‣ - [](https://www.google.com/url?q=https://nbcommands.readthedocs.io/en/latest/&sa=D&source=editors&ust=1711378556508969&usg=AOvVaw0a78GIcs55ByjHwtwKF4xz)[https://nbcommands.readthedocs.io/en/latest/](https://www.google.com/url?q=https://nbcommands.readthedocs.io/en/latest/&sa=D&source=editors&ust=1711378556509132&usg=AOvVaw1S9L1h4zENYRxxF6BdcFhp)

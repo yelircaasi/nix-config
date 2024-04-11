@@ -1,9 +1,9 @@
 # Untitled
 
 Next Steps
-- [ ]  Make sure online banking still works on iPhone
+* [ ]  Make sure online banking still works on iPhone
      - [ ]  [ ]
-- Operating Systems
+* Operating Systems
 
 * PostmarketOS    * https://postmarketos.org/download/    * [https://wiki.postmarketos.org/wiki/QEMU_amd64_(qemu-amd64)](https://wiki.postmarketos.org/wiki/QEMU_amd64_(qemu-amd64))
     * LineageOS        * https://lineageos.org/ 
@@ -53,10 +53,10 @@ Next Steps
     * [https://www.fairphone.com/en/](https://www.fairphone.com/en/) - [](https://forum.fairphone.com/t/operating-systems-for-fairphones/11425%23heading--fp4)
     * [https://forum.fairphone.com/t/operating-systems-for-fairphones/11425#heading--fp4](https://forum.fairphone.com/t/operating-systems-for-fairphones/11425%23heading--fp4) → [](https://tuxphones.com/2022-linux-on-phone-guide/)
     * [https://tuxphones.com/2022-linux-on-phone-guide/](https://tuxphones.com/2022-linux-on-phone-guide/)
-- Actual Phones [](https://www.pine64.org/pinephone/)
+* Actual Phones [](https://www.pine64.org/pinephone/)
     * [https://www.pine64.org/pinephone/](https://www.pine64.org/pinephone/) 
     * [](https://puri.sm/products/)[Purism](https://puri.sm/products/) - Liberty Phone and Librem 5
-- Browsers [](https://github.com/GrapheneOS/Vanadium)
+* Browsers [](https://github.com/GrapheneOS/Vanadium)
     * [https://github.com/GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) 
     * [](https://github.com/midori-browser/midori-android)
     * [https://github.com/midori-browser/midori-android](https://github.com/midori-browser/midori-android) 
@@ -64,7 +64,7 @@ Next Steps
     * [https://github.com/torappinfo/uweb](https://github.com/torappinfo/uweb) 
     * [](https://github.com/bromite/bromite)
     * [https://github.com/bromite/bromite](https://github.com/bromite/bromite)
-- Apps [](https://simplemobiletools.github.io/)[Simple Mobile Tools](https://simplemobiletools.github.io/) - Android apps with customizable widgets, without annoying ads and unnecessary permissions. [](https://github.com/fandreuz/TUI-ConsoleLauncher)
+* Apps [](https://simplemobiletools.github.io/)[Simple Mobile Tools](https://simplemobiletools.github.io/) - Android apps with customizable widgets, without annoying ads and unnecessary permissions. [](https://github.com/fandreuz/TUI-ConsoleLauncher)
     * [https://github.com/fandreuz/TUI-ConsoleLauncher](https://github.com/fandreuz/TUI-ConsoleLauncher) 
     * [](https://joaoapps.com/join/)
     * [https://joaoapps.com/join/](https://joaoapps.com/join/) 
@@ -79,17 +79,17 @@ Next Steps
     * [https://github.com/LNReader/lnreader](https://github.com/LNReader/lnreader) 
     * [](https://github.com/adrcotfas/Goodtime)
     * [https://github.com/adrcotfas/Goodtime](https://github.com/adrcotfas/Goodtime)
-- Ricing [](https://play.google.com/store/apps/details?id%3Dcom.lb.lwp_plus%26hl%3Den_US)[LWP+](https://play.google.com/store/apps/details?id%3Dcom.lb.lwp_plus%26hl%3Den_US), [](https://www.apkmirror.com/apk/androiddeveloperlb/lwp-live-wallpaper-with-customized-colors/lwp-live-wallpaper-with-customized-colors-2-62-release/lwp-dynamic-colors-2-62-android-apk-download/%23description)[apk mirror](https://www.apkmirror.com/apk/androiddeveloperlb/lwp-live-wallpaper-with-customized-colors/lwp-live-wallpaper-with-customized-colors-2-62-release/lwp-dynamic-colors-2-62-android-apk-download/%23description) 
+* Ricing [](https://play.google.com/store/apps/details?id%3Dcom.lb.lwp_plus%26hl%3Den_US)[LWP+](https://play.google.com/store/apps/details?id%3Dcom.lb.lwp_plus%26hl%3Den_US), [](https://www.apkmirror.com/apk/androiddeveloperlb/lwp-live-wallpaper-with-customized-colors/lwp-live-wallpaper-with-customized-colors-2-62-release/lwp-dynamic-colors-2-62-android-apk-download/%23description)[apk mirror](https://www.apkmirror.com/apk/androiddeveloperlb/lwp-live-wallpaper-with-customized-colors/lwp-live-wallpaper-with-customized-colors-2-62-release/lwp-dynamic-colors-2-62-android-apk-download/%23description) 
     * [](https://repainter.app/)[Repainter App](https://repainter.app/) Android Repainter [](https://play.google.com/store/apps/details?id%3Ddev.kdrag0n.dyntheme)
     * [https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme](https://play.google.com/store/apps/details?id%3Ddev.kdrag0n.dyntheme)
-- Other Utilities [](https://kdeconnect.kde.org/)
+* Other Utilities [](https://kdeconnect.kde.org/)
     * [https://kdeconnect.kde.org/](https://kdeconnect.kde.org/) 
     * [](https://github.com/Genymobile/scrcpy)[scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device. [](https://www.dev47apps.com/)[Droidcam](https://www.dev47apps.com/) - DroidCam turns your Android device into a wireless webcam for your PC. [](https://github.com/sromku/adb-export)[adb-export](https://github.com/sromku/adb-export) - Export Android content providers to CSV format [](https://github.com/dsixda/Android-Kitchen)[Android-Kitchen](https://github.com/dsixda/Android-Kitchen) - A text-based kitchen for Android ROM customization. Uses shell scripts and works with Cygwin/OS X/Linux
 
 
     * [https://sailfishos.org/](https://sailfishos.org/)
 
-- ****? [](https://rootmygalaxy.net/root-access-on-lineage-os/)[[Step By Step] How to Enable root access on Lineage Os](https://rootmygalaxy.net/root-access-on-lineage-os/)
+* ****? [](https://rootmygalaxy.net/root-access-on-lineage-os/)[[Step By Step] How to Enable root access on Lineage Os](https://rootmygalaxy.net/root-access-on-lineage-os/)
 * [How to Root LineageOS 20 with Magisk - YouTube](https://www.youtube.com/watch?v%3D8o5YILpoIvs)
 * [LineageOS/android_device_fairphone_FP4](https://github.com/LineageOS/android_device_fairphone_FP4)
 * [LineageOS - Wikipedia](https://en.wikipedia.org/wiki/LineageOS)
@@ -241,7 +241,7 @@ bliss
 
     * [https://docs.ubports.com/en/latest/porting/configure_test_fix/Sound.html](https://docs.ubports.com/en/latest/porting/configure_test_fix/Sound.html)
 
-- ** [](https://support.fairphone.com/hc/en-us/articles/10492476238865)
+* ** [](https://support.fairphone.com/hc/en-us/articles/10492476238865)
     * [https://support.fairphone.com/hc/en-us/articles/10492476238865](https://support.fairphone.com/hc/en-us/articles/10492476238865)
 
 
@@ -278,7 +278,7 @@ Apps
     * [https://github.com/mhss1/MyBrain](https://github.com/mhss1/MyBrain)
 
 Apps on FairPhone Android
-- [ ]  Anki
+* [ ]  Anki
      - [ ]  ReadEra Premium
      - [ ]  Foreground
      - [ ]  Todometer
@@ -379,8 +379,8 @@ Apps on FairPhone Android
 
 
     * [https://media.ccc.de/v/nixcon-2023-36022-daily-driving-nixos-on-the-librem-5](https://media.ccc.de/v/nixcon-2023-36022-daily-driving-nixos-on-the-librem-5)
-- [ ]  GhostCloud app for Ubuntu Touch
-- phone [](https://plasma-mobile.org/get/)
+* [ ]  GhostCloud app for Ubuntu Touch
+* phone [](https://plasma-mobile.org/get/)
     * [https://plasma-mobile.org/get/](https://plasma-mobile.org/get/) 
     * [](https://github.com/developer-vivek/Android-Home-Screen-Setups)
     * [https://github.com/developer-vivek/Android-Home-Screen-Setups](https://github.com/developer-vivek/Android-Home-Screen-Setups) 

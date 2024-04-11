@@ -1,5 +1,9 @@
 # proglang table
 
+Where to put feature (row) descriptions in the markdown source? -> in italic -> how to separate from language-specific ('in-box') notes?
+
+rename markdown_feat_view and markdown_lang_view to featview and langview -> or md-featview and md-langview?
+
 Discussion: https://chat.openai.com/c/d53450a7-03f3-4f4f-8f4e-30c778963c36
 
 Make giant hyperpolyglot table for different equivalent tasks, keywords, concepts, etc
@@ -18,7 +22,9 @@ Write in Python to use Pygments library
 
 How to merge edits at the same block? Use a Python-wrapped got diff?
 
+
 * [ ] \*\*\*\*\*\*\*\*\* [teachcode](https://github.com/madlabsinc/teachcode) - Guide for the earliest lessons of coding.
+
 
 |— static
 
@@ -31,6 +37,7 @@ How to merge edits at the same block? Use a Python-wrapped got diff?
 Design ideas:
 
 Top bar, slightly lighter than main background, with title (’Programming Language Table’) and on the right the following icons (maybe rounded squares):
+
 
 *   documentation (scroll image, including friendly introduction - and disclaimer)
 *   version number (simply show number)
@@ -52,8 +59,10 @@ Use cell selection in the table, including multiple
 
 For all options and actions, support mouse click and vim-style keybindings (including number modifiers!)
 
+
 *   click / space bar to toggle boilerplate in a cell (space bar when selected)
 * https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html
 * https://www.phoenixframework.org/
 * https://github.com/orgs/alpha2phi/repositories
+
 

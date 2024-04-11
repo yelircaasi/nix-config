@@ -1,8 +1,22 @@
 # J
 
+
+## To Sort
+
+assistenz.eschbach@tecis.de
+
+inability to love -> why?
+
+suffering from "id'ees fixes" -> why? how do they work?
+
+If sladostrastie is slavery, then to what extent is it (or similar phenomena) permissible? what is the proper role of pleasure in life? what would the great sages say?
+
+-> Stoics, Epicureans, Buddhists, Daoists
+
 O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nunca agisse por precipitação.
 
-- Books to Live By
+
+* Books to Live By
 * The 7 Habits of Highly Effective People
 * HBR on Managing Yourself
 * First Things First
@@ -68,10 +82,11 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
 * ## Other
 * >> 3-3-3 Method
 * https://lifehacker.com/* 
-- Attributes
+* Attributes
 * 
 
-- Sort: Notes
+
+* Sort: Notes
 * "I am so glad that I spent most of my 31st year * developing an optimal system for my life, getting in shape, and * intensively working on my skillet for work."
 * 'sacred time' every morning and evening, midday when possible
 * commit code to at least one project daily
@@ -283,7 +298,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
         - ясные ценности
         - вдохновение от необычайных людей
         - делать, просто делать, верить в себя и поправлять ошибки и недостатки без чрезмерных негативных чувств
-- Sort: Links
+* Sort: Links
         * [How to enter ‘flow state’ on command | Steven Kotler for Big Think](https://www.youtube.com/watch?v=znwUCNrjpD4)
         * https://caps.byu.edu/biofeedback
         * http://thevirtualinstructor.com/
@@ -313,7 +328,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
         * https://dailystoic.com/12-rules-for-life/
         * [Rethinking Leadership • Andrea Provaglio • GOTO 2017 - YouTube](https://www.youtube.com/watch?v=A04Pu5LlzHw)
     
-- Sort: Books
+* Sort: Books
     - Unsorted
         
         * [!!! Barbara Oakley !!!](https://b-ok.cc/g/Barbara%20Oakley)
@@ -505,15 +520,16 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
         Как быть продуктивным.jpg
         
 
-- Reading List - General
-- Reading List - Mental Fortitude
+
+* Reading List - General
+* Reading List - Mental Fortitude
         * https://constantrenewal.com/stoic-practices
         * https://www.wikihow.com/Detox-Your-Mind-from-Negativity 
     
-- Reading List - Correct Thinking
+* Reading List - Correct Thinking
         * https://en.wikipedia.org/wiki/List_of_cognitive_biases
     
-- Reading List - Creativity
+* Reading List - Creativity
         * http://www.researchgate.net/publication/232558153_Artistic_Scientists_and_Scientific_Artists_The_Link_Between_Polymathy_and_Creativity
         * [Kreatives Schreiben: 10 Dos und 5 Don’ts für angehende Autoren & Co. » lernen.net](https://www.lernen.net/artikel/kreatives-schreiben-fuer-autoren-2313/)
         * [Get Sparks of Genius: The Thirteen Thinking Tools of the World's Most Creative People - YouTube](https://www.youtube.com/watch?v=lYSF_t2M_tk)
@@ -531,7 +547,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
         * [Buddhism](https://vk.com/wall-6827569_23778)
         * [Site to improve typing speed](https://www.reddit.com/r/languagelearning/comments/bcahl1/great_site_i_found_to_improve_typing_speed_in/?utm_source=share&utm_medium=ios_app)
     
-- Reading List - Misc
+* Reading List - Misc
         * https://editalconcursosbrasil.com.br/noticias/2022/03/12-padroes-claros-que-pessoas-inteligentes-sempre-apresentam/
     
     how to change the world
@@ -712,7 +728,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
     . Если в списке нет вашего города, то стоит поискать сообщества в Фейсбуке, Вконтакте или просто в гугле (а потом добавьте найденное в наш список! ;-)
         * https://www.nhs.uk/common-health-questions/sexual-health/can-premature-ejaculation-be-controlled/
     
-- Reading List - Sex
+* Reading List - Sex
     - Porn Culture
         
         * [The Ethics and Politics of Pornography | SpringerLink](https://link.springer.com/book/10.1057%2F9780230371125)
@@ -823,7 +839,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
         * http://www.scarleteen.com/article/bodies/20_questions_about_virginity_scarleteen_interviews_hanne_blank
         * [Carnal Knowledge - Baxter's Concise Encyclopedia of Modern Sex | John Baxter | download](https://b-ok.cc/book/609614/2af8a3?dsource=recommend)
     
-- Reading List- Parenting
+* Reading List- Parenting
         * [Are you raising your child in a religious authoritarian culture? — Religious Child Maltreatment](http://religiouschildmaltreatment.com/2011/12/are-you-raising-your-child-in-a-religious-authoritarian-culture/)
         * http://kp.ua/life/325854-opiat-domashka
         * http://parenting.blogs.nytimes.com/
@@ -839,7 +855,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
         * https://www.contioutra.com/o-pai-que-cuida-do-filho-nao-ajuda-apenas-exerce-a-paternidade/?fbclid=IwAR3Y42vQHjAk5pZ2At_84yVblcdNHYmd5WklPm3LsFufMFNiGWEUsfX0ghM
         * [Психологи сравнили эффективность наказания и поощрения в осуществлении образовательных программ — Сноб](https://snob.ru/entry/175975?utm_source=vk&utm_medium=social&utm_campaign=snob&utm_content=column)
     
-- Reading List - Mental Health
+* Reading List - Mental Health
         * [4 modi per alleviare le emozioni dolorose – La Mente è Meravigliosa](https://lamenteemeravigliosa.it/4-modi-alleviare-le-emozioni-dolorose/)
         * [Are You Torturing Yourself With Your Thoughts? - The Best Brain Possible](https://www.thebestbrainpossible.com/are-you-torturing-yourself-with-your-thoughts/)
         * [Ausgepowert und am Ende: Burnout | ethos Magazin](http://ethos.ch/blog/ausgepowert-und-am-ende-burnout)
@@ -856,7 +872,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
         * http://screening.mentalhealthscreening.org/brigham-young-university-provo/screening/9764/results
         * [Confinement : un exercice simple de respiration pour réguler ses émotions](https://theconversation.com/confinement-un-exercice-simple-de-respiration-pour-reguler-ses-emotions-133796?utm_medium=email&utm_campaign=La%20lettre%20du%20week-end%20de%20The%20Conversation%20France%20-%201577115094&utm_content=La%20lettre%20du%20week-end%20de%20The%20Conversation%20France%20-%201577115094+CID_3e2a64ed5275ab206c530fae6c43bb35&utm_source=campaign_monitor_fr&utm_term=Confinement%20%20un%20exercice%20simple%20de%20respiration%20pour%20rguler%20ses%20motions)
     
-- Reading List - Motivation
+* Reading List - Motivation
     - [Продуктивность связана не с управлением временем, а с управлением вниманием](https://vk.com/@etorabotaet-produktivnost-svyazana-ne-s-upravleniem-vremenem-a-s-upravle)**
     
     A Japanese Technique to Overcome Lazinessde Bright Side
@@ -883,7 +899,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
         
         The first is a superiority complex. A superiority complex means that a person has a “deep-seated sense of exceptionality.” This breeds confidence and nerve. The second element is a sense of insecurity or an inferiority complex. People must feel like they aren’t quite good enough, and that they have something to prove. This is opposing the superiority complex, and that’s the way it should be, Chua says. The third element of the triple package is impulse control; a person must have self-discipline. When explaining impulse control, Chua mentions the Finnish word “sisu”; a compound of bravado and bravery, ferocity and tenacity, of the ability to keep fighting after most people would have quit, and to fight with the will to win.
         
-- Reading List - Wisdom
+* Reading List - Wisdom
     
     Mahabharata 2:55
         * [Méditation Stoïcienne - Exercice du matin, Donald Robertson, lu par J. Ravenet - YouTube](https://www.youtube.com/watch?v=-D98MPd6Ccg)
@@ -956,7 +972,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
         
         Upanishads
         
-- Reading List - Philanthropy
+* Reading List - Philanthropy
         * [Doing-Good-Better-Chapter-9.pdf](https://80000hours.org/wp-content/uploads/2015/07/Doing-Good-Better-Chapter-9.pdf)
         * http://www.ospreyfdn.org/
     
@@ -967,7 +983,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
         * [effective altruism](https://libgen.is/search.php?req=effective+altruism&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
         * [Singer PT](https://www.fronteiras.com/entrevistas/peter-singer-o-filosofo-mais-perigoso-do-mundo)
     
-- Reading List - Finance
+* Reading List - Finance
         * https://www.retailmenot.com/
         * http://www.wisebread.com/
         * https://www.groupon.com/
@@ -980,7 +996,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
         * [15 Things Poor People Do That The Rich Don’t - YouTube](https://www.youtube.com/watch?v=nllZrOoxpzc)
         * [Everything You Need to Know about Finance](https://www.youtube.com/watch?v=WEDIj9JBTC8)
     
-- Reading List - Learning
+* Reading List - Learning
     
     *[Come un podcast può cambiarti (in meglio) la vita - Educazione Globale](http://www.educazioneglobale.com/2016/10/come-un-podcast-puo-cambiarti-in-meglio-la-vita/)**
         * [10 Smart Things I&#39;ve Learned from People Who Never Went to College](https://www.forbes.com/sites/daviddisalvo/2012/08/02/ten-smart-things-ive-learned-from-people-who-never-went-to-college/#52f1e562446e)
@@ -1065,7 +1081,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
         * [Hello World: Want to be a developer? Learn how to learn - Stack Overflow Blog](https://stackoverflow.blog/2020/01/11/hello-world-want-to-be-a-developer-learn-how-to-learn/?cb=1)
         * [How to Absorb Textbooks Like a Sponge](https://youtu.be/nqYmmZKY4sA)
     
-- Reading List - Communication
+* Reading List - Communication
     
     Book: [How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships](https://b-ok.cc/book/1171183/29a074)
     
@@ -1080,7 +1096,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
         * [Шесть приемов, которые превратят бессмысленный спор в увлекательную дискуссию](https://vk.com/@newochem-argument-tactics)
                 * http://www.atelier-mediation-critique.com/
         
-- Reading List - Relationships
+* Reading List - Relationships
     - [This Is How To Have An Amazing Relationship: 7 Secrets From Research](https://bakadesuyo.com/2017/06/amazing-relationship/)
         - Accept your partner “as is”: You can return it to the store but trying to repair it yourself voids the warranty.
         - Express appreciation frequently: You’re with them for a reason. Tell them the reason. Often.
@@ -1170,7 +1186,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
         - imbalance in responsibilities - Sandra doing everything with bureaucracy, taxes, etc., leaving her feeling overworked and like the only adult in the relationship, and Isaac feeling out-of-the-loop, incompetent, and infantilized
         - hurt and resentment - is it even possible to get rid of the baggage we carry, or is it too far gone and too toxic, and we both need a fresh start with someone else?
         - Leni - she is a major factor in this, and one that, in all honesty, has made it more difficult to pull the plug completely when we might otherwise have done so. A toxic relationship would be worse for her than a divorce, and a divorce later on would be more traumatic for her than a divorce now
-- Reading List - Life Hacks
+* Reading List - Life Hacks
     - Focus Hacks
         
         Eat Frogs First
@@ -1360,7 +1376,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
     
     Meditate!
     
-- Reading List - Gardening
+* Reading List - Gardening
         * http://www.thegardenhelper.com/vegetables.html
         * http://www.gardeningblog.net/
         * http://gardenrant.com/
@@ -1385,11 +1401,11 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
         * http://ortosulterrazzo.it/blog/
         * http://www.greencul.com/2013/03/31/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D9%88%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AD%D8%AF%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%B2%D9%84-22/
     
-- Reading List - Meditation
+* Reading List - Meditation
         * https://bigthink.com/surprising-science/how-mindfulness-meditation-permanently-reduces-stress/ 
         * http://asia.it/
     
-- Reading List - Identity
+* Reading List - Identity
         * https://familysearch.org/
         * http://www.ancestry.com/
         * http://www.findmypast.com/
@@ -1416,7 +1432,8 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
         * http://m.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/?mxt=t06rda
     
 
-- Notes - Memories
+
+* Notes - Memories
     - Mission Outline
         
         2012
@@ -2012,6 +2029,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 * [Notes - Wisdom and Lifehacks]()
 
+
 ## General Guidelines
 
 Manage energy and motivation levels, not just time. Everything is a finite resource, including attention.
@@ -2020,7 +2038,8 @@ Having as many things as possible covered by automatic habits is ideal.
 
 Systems must be robust, which means that they are flexible and adaptable to unforeseen circumstances.
 
-- Naval Ravikant Notes:
+
+* Naval Ravikant Notes:
     - specialization is for insects
     - read to satisfy intellectual curiosity
     - desire is a contract you make with yourself to be unhappy until you get what you want
@@ -2043,7 +2062,7 @@ Systems must be robust, which means that they are flexible and adaptable to unfo
     - the answers to all the great questions are paradoxes
     - your real resumé is a catalog of your suffering
     - it is your unlimited desires that cloud your peace
-- Notes - Learning Hacks
+* Notes - Learning Hacks
     - Keys to information retention:
         
         identify
@@ -2093,7 +2112,7 @@ Systems must be robust, which means that they are flexible and adaptable to unfo
         12) Prüfung bestehen
         
     
-- Notes - Communication
+* Notes - Communication
     - Conversation Topics
         
         Basics:
@@ -2284,7 +2303,8 @@ I hope y'all had a good day, if not, that's okay too. Remember to take care of y
 
 ( This comment isn't originally mine, but I think it can help a lot of people :)  )
 
-- Links - Travel
+
+* Links - Travel
         * https://www.justlanded.com/deutsch
         * http://www.travelbook.de/
         * http://www.merian.de/
@@ -2332,6 +2352,7 @@ I hope y'all had a good day, if not, that's okay too. Remember to take care of y
         * http://www.lonelyplanetitalia.it/
     
 * [Jokes]()
+
 What do you call someone with a banana stuck in each ear? Whatever you want, they can’t hear you.
 
 A furniture store keeps calling me. All I wanted was one night stand.
@@ -2514,8 +2535,11 @@ Where do you find a dog with no legs? Wherever you left him.
 * https://www.meetup.com/blog/harvards-famous-study-on-happiness-might-surprise-you 
 
 Flow @ Work
+
 Neurohacks
+
 Wendy Wood Good Habits
+
 Atomic Habits
 
 The Good Lufe Waldinger Schulz
@@ -2546,7 +2570,7 @@ A question is a set of alternative possibilities
 * https://slate.com/technology/2021/10/facebook-unfollow-everything-cease-desist.html?utm_source=tldrnewsletter
 
 
-- General Useful Resources
+* General Useful Resources
         * [Adulting Charts](https://www.buzzfeed.com/annaborges/what-is-adulting) - useful collection of lifehacks
         * http://goodmenproject.com/
         * [Good Men Project](https://goodmenproject.com/featured-content/your-brain-on-pornography-wcz/)
@@ -2560,7 +2584,7 @@ A question is a set of alternative possibilities
         * https://www.360financialliteracy.org/En-Espanol
         * https://www.youtube.com/@benjaminkeep - Channel on learning
     
-- Podcast / Video 1S
+* Podcast / Video 1S
     
     If I had known then what I know now | Thelma Vogel | TEDxManaguade TEDx Talks
     
@@ -2578,7 +2602,7 @@ A question is a set of alternative possibilities
         * [le Cygne Noir France Culture - YouTube](https://www.youtube.com/watch?v=h-0T7f6tOyg)
         * http://www.ted.com/talks/linda_hill_how_to_manage_for_collective_creativity?language=en#t-520073
     
-- Reading 1S
+* Reading 1S
         * https://thesharpgentleman.com/10-hard-truths-in-life-you-need-to-hear/ 
         * https://www.inc.com/matthew-jones/20-brutal-truths-about-life-no-one-wants-to-admit.html 
         * [**How To Control Your Mind – Niklas Goeke – Medium](https://medium.com/@ngoeke/how-to-control-your-mind-3e2bcc07671e)**
@@ -2610,7 +2634,7 @@ A question is a set of alternative possibilities
         * [https://t3n.de/news/morgenroutine-normalsterbliche-start-in-den-tag-1208840/](https://t3n.de/news/morgenroutine-normalsterbliche-start-in-den-tag-1208840/?utm_source=pocket-newtab)
         * [https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more- intéressante objection à l'obsession avec l'innovation en faveur de la "maintenance"](https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more-)
     
-- Books
+* Books
         * [Guía de Hábitos Inteligentes: 36 Pequeños Cambios de Vida que su Cerebro Agradecerá](https://www.amazon.com/Gu%C3%ADa-H%C3%A1bitos-Inteligentes-Peque%C3%B1os-Agradecer%C3%A1/dp/1518720374/ref=sr_1_7?ie=UTF8&qid=1490621250&sr=8-7&keywords=Libro+di+psicologia)
         * https://www.samuelthomasdavies.com/wp-content/uploads/2016/02/Unhooked-Second-Edition.pdf
         * [Liberating Structures - Introduction](http://www.liberatingstructures.com/?fbclid=IwAR0q3Lw0F7GzkK4eu8voOJX9nJGMw62CGKZW4vRX7QgzL0b415GTWNyjv4o)
@@ -2668,7 +2692,7 @@ A question is a set of alternative possibilities
     
     Roadmap
     
-- Notes
+* Notes
     
     Viel besser drin werden, mir Ideen einfallen zu lassen und sie ordentlich aufzuschreiben und zu entwickeln.
     
@@ -2691,23 +2715,26 @@ A question is a set of alternative possibilities
             
         
 
+
 * [Learn confidently with mental models](https://www.youtube.com/watch?v=Vx-6-3HRazI)
 
-- [How To Think Like Leonardo da Vinci](https://link.sbstck.com/redirect/4b5cb2b4-63d1-45fa-aa6d-9c1d1404138b?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by Michael Gelb
-- [Leonardo da Vinci](https://link.sbstck.com/redirect/6e00d6c8-d12b-48ca-a046-6fa46b371fd3?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by Walter Isaacson
-- [Where Good Ideas Come From: The Natural History of Innovation](https://link.sbstck.com/redirect/426cd95a-cac6-489f-9501-7522f6dd877c?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by
+
+* [How To Think Like Leonardo da Vinci](https://link.sbstck.com/redirect/4b5cb2b4-63d1-45fa-aa6d-9c1d1404138b?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by Michael Gelb
+* [Leonardo da Vinci](https://link.sbstck.com/redirect/6e00d6c8-d12b-48ca-a046-6fa46b371fd3?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by Walter Isaacson
+* [Where Good Ideas Come From: The Natural History of Innovation](https://link.sbstck.com/redirect/426cd95a-cac6-489f-9501-7522f6dd877c?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by
         * [Steven Johnson](https://open.substack.com/users/1408434-steven-johnson?utm_source=mentions)
     
-- [The Diversity Bonus](https://link.sbstck.com/redirect/93fd95fc-2024-469f-b13a-6a9aed57c52f?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by researcher Scott Page
-- [Sparks of Genius: The Thirteen Thinking Tools of the World's Most Creative People](https://link.sbstck.com/redirect/0fbb1369-0737-4640-a57e-e6a59fb9eedc?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by researchers Robert & Michele Root-Bernstein
-- [Why Greatness Cannot Be Planned](https://link.sbstck.com/redirect/0ef84391-1232-492f-9520-41f82f061365?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by AI researchers Kenneth Stanley and Joel Lehman
+* [The Diversity Bonus](https://link.sbstck.com/redirect/93fd95fc-2024-469f-b13a-6a9aed57c52f?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by researcher Scott Page
+* [Sparks of Genius: The Thirteen Thinking Tools of the World's Most Creative People](https://link.sbstck.com/redirect/0fbb1369-0737-4640-a57e-e6a59fb9eedc?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by researchers Robert & Michele Root-Bernstein
+* [Why Greatness Cannot Be Planned](https://link.sbstck.com/redirect/0ef84391-1232-492f-9520-41f82f061365?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by AI researchers Kenneth Stanley and Joel Lehman
 * https://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
 * https://www.philomag.de/artikel/wie-den-eigenen-rhythmus-finden 
 * https://andrewchen.com/the-next-next-job/ 
 * https://maryrosecook.com/blog/post/is-this-a-good-book-for-me-now 
 * [6 Reasons Highly Intelligent People Struggle Finding Love](https://www.youtube.com/watch?v=PiW7Fr-ZDoQ)
 
-- sexuality
+
+* sexuality
         * [Sex and Sexuality (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/sex-sexuality/#ValuSex)
         * http://libgen.is/search.php?req=sexual+conflict&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def 
         * http://libgen.is/search.php?req=sexual+evolutionary+psychology&open=0&res=25&view=simple&phrase=1&column=def 
@@ -2715,7 +2742,7 @@ A question is a set of alternative possibilities
         * [nsfw](https://www.reddit.com/user/hellen5110)
         * https://www.khanacademy.org/college-careers-more/financial-literacy
     
-- J
+* J
         * https://www.lesswrong.com/posts/R5yL6oZxqJfmqnuje/cultivating-a-state-of-mind-where-new-ideas-are-born 
         * https://t.me/books_lib_ua/2058 power of habit UA
     
@@ -2732,7 +2759,8 @@ Taking notes/blogging | Use the Feynman Technique | Code along with concepts (Cr
 * https://habitica.com/static/home 
 * https://wiki.nikiv.dev/free 
 
-- Bücher
+
+* Bücher
     
     Wie man das eis bricht
     

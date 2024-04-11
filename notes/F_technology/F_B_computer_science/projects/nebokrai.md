@@ -1,35 +1,69 @@
 # Nebokrai
 
-(horizon, +[consilium](https://en.wiktionary.org/wiki/consilium), ganttouchthis, taskifist, roadmapper)
+
+* (horizon, +[consilium](https://en.wiktionary.org/wiki/consilium), ganttouchthis, taskifist, roadmapper)
+
+
+## To Sort
+* distinguish between naive plan and calendar-adjusted plan
+* Add desirability -> eating frogs idea
+* Fix planning to have completed tasks have zero time where appropriate and actual time where appropriate.
+* Add extra catch-all roadmap
+* Sort projects in dependency order
+* Support earliest and latest dates, dependencies between tasks/projects/roadmaps -> raise error when declaration is impossible
+
+
+* Nebokrai tracking: 
+* pre-programmed (still configurable) for:
+* food & drink, workout, finances (expenditures), adherence to schedule/time use
+* -> need to access goals via plan
+* add earliest and latest start and end for each level of the roadmap-project-task hierarchy
+
+
+* nebokrai: add subcommands: track, blame (tool to show origin of some aspect of derived result), edit, add (interactive), sync, dashboard, dryrun <subcommand>, revert -> make (where appropriate) CLI and TUI (= interactive) versions of subcommands
+
+
+* nebokrai idea: "sacred" time blocks for flow
+
+
+* tracking: collect texting statistics
+
+
+* self-daily: presentation about yesterday and plans for today
+
 
 * Elevate Your Task Management With Ease - YouTube https://www.youtube.com/watch?v=U4pGz4KI1J0&t=12s&pp=2AEMkAIB
 * [Tinycare-Tui](https://www.reddit.com/r/golang/s/fVY4hoTMYY)
 
 
--------------------------------------------------------------------------------------------------------------
+* -------------------------------------------------------------------------------------------------------------
 
-best tasks plugin in obsidian https://www.youtube.com/watch?v=quXNtjTe5WE 
 
-nebokrai $$$$$$$$$ https://smos.online/ 
+* best tasks plugin in obsidian https://www.youtube.com/watch?v=quXNtjTe5WE 
+
+
+* nebokrai $$$$$$$$$ https://smos.online/ 
 * https://julian.digital/2023/07/06/multi-layered-calendars/
 
-Spaced repetition systems can be used to program attention https://notes.andymatuschak.org/zB92WZZ5baBHKZPPbWMbYEv  
+
+* Spaced repetition systems can be used to program attention https://notes.andymatuschak.org/zB92WZZ5baBHKZPPbWMbYEv  
 * https://discord.com/channels/834325286664929280/877666474888675368/1222613062796705862
 * https://julian.digital/2023/07/06/multi-layered-calendars/
+
 
 ## Design and Architecture Notes
     
     
 ### Overall
     
-- Design Goals: Create a system that takes into account all obligations, goals, and values to optimally allocate time. Most importantly, this system should be:
+* Design Goals: Create a system that takes into account all obligations, goals, and values to optimally allocate time. Most importantly, this system should be:
         - purely functional: the same inputs will always result in the same outputs, with no side-effects
         - declarative: the entities.base (tasks, etc.) and settings declared provide a complete specification of my system; I say 'what' and the software tells me 'when'.
         - simple and intuitive to use
         - robust: when circumstances change, I can adjust the plans via the interface provided (as opposed to internal hacking) and carry on without problems
         - integrated: planager provides an all-encompassing system to keep all aspects of my life in order
         - simplifying: this tool should save me time and reduce my cognitive load, not become a distraction or an obstacle
-- Additionally, my system must be:
+* Additionally, my system must be:
         - reproducible - installable via Nix
         - all-encompassing
         - cross-device
@@ -50,7 +84,7 @@ Spaced repetition systems can be used to program attention https://notes.andymat
             E (Express)
             
         - integrated and internally consistent
-- End result:
+* End result:
         - phone app (android or linux mobile) → Notion or Appflowy
         - phone notifications: from app or via Telegram or other
         - frontend in neovim using neorg.nvim
@@ -62,7 +96,7 @@ Spaced repetition systems can be used to program attention https://notes.andymat
             - automatic, configurable, and manually adjustable planning (15-minute blocks with sufficient flex time)
             - recurring tasks and routines (as given by current Telegram bot)
             - performance analytics and summaries
-- Consituents
+* Consituents
         - planager-core → divide into scheduling and tracking? implement in Rust, Haskell, Ocaml, Idris, Agda, or Purescript
         - planager-backend - serves -flutter, -frontend, -signal, -nvim?, -tui? → IHP, Obelisk, Yesod, or Warp?
         - planager-flutter - for Android app → alternative like Kivy or cross-platform Rust toolkit [Dioxus](https://dioxuslabs.com/), or Flutter Rust bridge?
@@ -346,7 +380,8 @@ Spaced repetition systems can be used to program attention https://notes.andymat
     
 ## Tracking
 
-- Habits to track:
+
+* Habits to track:
     - all foods (with times)
     - time breaking fast
     - last time eating
@@ -369,7 +404,7 @@ Spaced repetition systems can be used to program attention https://notes.andymat
     - quality of meditation
     - something new I learned
     - which languages I used
-- Habits / metrics to track:
+* Habits / metrics to track:
     
     all foods (with times)
     time breaking fast
@@ -399,17 +434,21 @@ Spaced repetition systems can be used to program attention https://notes.andymat
     which languages I used
     
 
-TRACKING:
+
+* TRACKING:
  manually via neorg, or via semaphore. One file per metric for easy 
-tracking; move dates more than 30 days old to the old store (more 
-efficient format?)
+* tracking; move dates more than 30 days old to the old store (more 
+* efficient format?)
+
 
 ## Sync, Multi-Device, Etc.
 
-- sync
+
+* sync
     - preferred method: manual sync
 
-- Features for quick updates
+
+* Features for quick updates
     - object dependency graph to only make necessary changes, depending on what has changed
     - automatic patch generation from edits → ‘reverse engineering’ of effects, almost analogous to backpropagation of desired changes
     
@@ -418,13 +457,13 @@ efficient format?)
     Declarative schedule generation: 
     
     - directed graph for updates, acyclical for full recompute, but not necessarily acyclical for some updates: lower-level (e.g. schedule, task) edit may trigger necessary change at parent levels (tasks, projects)
-- Storage
+* Storage
     - What is stored where and in which format?
         1. taskwarrior database
         2. notion frontend
         3. ganttouchthis store - on desktop, mobile, and server, with git backup
     - consistent & readable storage format → seamless integration with .norg files
-- Hooks
+* Hooks
     
     hooks to trigger updates: https://neovim.io/doc/user/autocmd.html#events  
     
@@ -436,24 +475,27 @@ efficient format?)
         5. writing a tracked norg file results in pushing tasks back to the taskwarrior database and a sync with the server
         6. editing elsewhere triggers a sync with Notion; pulling from another app triggers a sync pulling from Notion, with optional manual trigger to sync with Notion
 
+
 ### Signal
 
-- Signal module:
+
+* Signal module:
     
     dependencies:
     
     - planager.tracking
     - planager.schedule
     - semaphore (Python package)
-- Signal bot requirements → different chats or all-in-one?
+* Signal bot requirements → different chats or all-in-one?
     1. notify of start/end of schedule entries
     2. record (as response to prompts) status of tasks, incl. sub-items of routines
     3. accept request to edit declaration files, then edit & trigger recompute
     4. display (upon query) some (subset of) roadmap, plan, task, schedule, etc.
     5. show tracker information: streaks, percentage, habit strength, progress toward goals, …
 
+
     
-- old
+* old
     - old: Entity Types
         - roadmap: a 'master plan' for some area such as "Rust programing language" or "muscular flexibility" involving multiple steps or projects
         - project: a self-contained unit of work that can be broken down into smaller parts, such as a book to read or a coding project
@@ -474,33 +516,34 @@ efficient format?)
         ```
     * https://github.com/AppFlowy-IO/AppFlowy/issues/3125 
 
-- [ ] Which conversions are necessary?
-- [ ] Which modules do I need to write? How can I minimize redundancies while maintaining flexibility and extensibility?
-- [ ] Which off-the-shelf solutions exist already?
-- [ ] rofi integration
-- [ ] polybar integration
-- [ ] language bindings: https://github.com/jubnzv/go-taskwarrior,  https://github.com/ralphbean/taskw, https://github.com/coddingtonbear/python-taskwarrior
-- [ ] hooks: https://github.com/mrVanDalo/taskwarrior-hooks *****, https://github.com/bergercookie/tw-hooks
-- [ ] What will be the APIs of the modules?
-- [ ] Which programming languages will I use for each module?
-- [ ] try to run signald in a docker container
-- [ ] read semaphore docs and read through examples
-- [ ] → eventually add neorg - anki interface
-- [ ] Add purity checks (i.e. no side effects) to tests
-- [ ] Improve serialization for copying
-- [ ] a.to_<x>() and a.from_<x>() should be perfect inverses → add to tests
-- [ ] figure out how to add norg support to a fork of AppFlowy
-- [ ] How to connect flutter app to backend? → Look at AppFlowy & its Private Cloud when it is released soon
-- [ ] How to make planager server for AppFlowy?
-- [ ] Django or Flask (or FastAPI) for first iteration?
-- [ ] dead tree Rust book in German → roadmaps
-- [ ] → Implement scheduling module in polyglot-projects, also corresponding visualizer
-- [ ] TRACKING: manually via neorg, or via semaphore. One file per metric for easy tracking; move dates more than 30 days old to the old store (more efficient format?)
-- [ ] https://packaging.python.org/en/latest/guides/creating-and-discovering-plugins/
-- Idea Sources, Inspirations, Libraries, Tools, Dependencies
+
+* [ ] Which conversions are necessary?
+* [ ] Which modules do I need to write? How can I minimize redundancies while maintaining flexibility and extensibility?
+* [ ] Which off-the-shelf solutions exist already?
+* [ ] rofi integration
+* [ ] polybar integration
+* [ ] language bindings: https://github.com/jubnzv/go-taskwarrior,  https://github.com/ralphbean/taskw, https://github.com/coddingtonbear/python-taskwarrior
+* [ ] hooks: https://github.com/mrVanDalo/taskwarrior-hooks *****, https://github.com/bergercookie/tw-hooks
+* [ ] What will be the APIs of the modules?
+* [ ] Which programming languages will I use for each module?
+* [ ] try to run signald in a docker container
+* [ ] read semaphore docs and read through examples
+* [ ] → eventually add neorg - anki interface
+* [ ] Add purity checks (i.e. no side effects) to tests
+* [ ] Improve serialization for copying
+* [ ] a.to_<x>() and a.from_<x>() should be perfect inverses → add to tests
+* [ ] figure out how to add norg support to a fork of AppFlowy
+* [ ] How to connect flutter app to backend? → Look at AppFlowy & its Private Cloud when it is released soon
+* [ ] How to make planager server for AppFlowy?
+* [ ] Django or Flask (or FastAPI) for first iteration?
+* [ ] dead tree Rust book in German → roadmaps
+* [ ] → Implement scheduling module in polyglot-projects, also corresponding visualizer
+* [ ] TRACKING: manually via neorg, or via semaphore. One file per metric for easy tracking; move dates more than 30 days old to the old store (more efficient format?)
+* [ ] https://packaging.python.org/en/latest/guides/creating-and-discovering-plugins/
+* Idea Sources, Inspirations, Libraries, Tools, Dependencies
 
 
-- Telegram
+* Telegram
             * https://console.cloud.google.com/compute/instances?project=telegram-routines-bot 
 * [RemindMeLater/remindmelater.py at main · 22TNT/RemindMeLater](https://github.com/22TNT/RemindMeLater/blob/main/remindmelater.py)
 * [reminder_bot/main.py at master · aminsaedi/reminder_bot](https://github.com/aminsaedi/reminder_bot/blob/master/main.py)
@@ -514,15 +557,15 @@ efficient format?)
     
     Passphrase: github
 * https://codecapsules.io/docs/comparisons/comparing-telegram-bot-hosting-providers/                 
-- [ ] https://blog.devgenius.io/create-and-deploy-your-telegram-bot-here-entirely-free-757d5d5e8099        
-- [ ] https://towardsdatascience.com/how-to-deploy-a-telegram-bot-using-heroku-for-free-9436f89575d2        
-- [ ] https://dashboard.heroku.com/apps        
-- [ ] https://towardsdatascience.com/build-a-real-time-shipment-tracking-tool-using-a-telegram-bot-beb6ab29fca3        
-- [ ] https://core.telegram.org/bots/samples        
-- [ ] https://core.telegram.org/bots/api        
+* [ ] https://blog.devgenius.io/create-and-deploy-your-telegram-bot-here-entirely-free-757d5d5e8099        
+* [ ] https://towardsdatascience.com/how-to-deploy-a-telegram-bot-using-heroku-for-free-9436f89575d2        
+* [ ] https://dashboard.heroku.com/apps        
+* [ ] https://towardsdatascience.com/build-a-real-time-shipment-tracking-tool-using-a-telegram-bot-beb6ab29fca3        
+* [ ] https://core.telegram.org/bots/samples        
+* [ ] https://core.telegram.org/bots/api        
             * https://github.com/rhnvrm/tg-taskwarrior-bot        
             * https://github.com/cedricbousmanne/telegram-taskwarrior        
-- [ ] https://github.com/Ninlives/taskwarrior-telegram-bot
+* [ ] https://github.com/Ninlives/taskwarrior-telegram-bot
             * https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/ 
             * https://thepythoncorner.com/posts/2021-01-16-how-create-telegram-bot-in-python/ 
             * https://dspyt.com/simple-telegram-bot-in-python-hosted-easily-on-heroku 
@@ -530,7 +573,7 @@ efficient format?)
     # Notion Updater - Cloud
             * https://www.zenrows.com/blog/headless-browser-python 
     
-- Scheduler
+* Scheduler
     
     
     Scheduler
@@ -550,7 +593,8 @@ efficient format?)
 * [Machine learning and optimization for production rescheduling in Industry 4.0 https://link.springer.com/article/10.1007/s00170-020-05850-5](https://link.springer.com/article/10.1007/s00170-020-05850-5) 
     
 
-Inspirations / To Use:
+
+* Inspirations / To Use:
     * https://github.com/schmee/habu 
     * [From No Org to Neorg - YouTube](https://www.youtube.com/playlist?list=PLx2ksyallYzVI8CN1JMXhEf62j2AijeDa)
     * https://github.com/tools-life/taskwiki
@@ -566,18 +610,19 @@ Inspirations / To Use:
     * https://github.com/poljar/matrix-nio
     * https://gotify.net/ 
 
-- [ ] https://github.com/timeopochin/GanTTY
-- [ ] https://github.com/vit-project/vit
-- [ ] https://github.com/Textualize/textual 
-→ example: https://github.com/Cvaniak/NoteSH
-→ https://github.com/Textualize/textual/discussions/165
-- [ ] [Taskwarrior](https://taskwarrior.org/) + [inthe.am](https://inthe.am/configure/synchronization) + https://github.com/bgregos/foreground        
-- [ ] [taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui)        
-- [ ] [taskwiki](https://github.com/tools-life/taskwiki)        
-- [ ] [tasklib](https://github.com/GothenburgBitFactory/tasklib/)        
-- [ ] ⇒ https://timewarrior.net/        
-- [ ] → https://taskwarrior.org/tools/#services        
-- [ ] → https://taskwarrior.org/tools/
+
+* [ ] https://github.com/timeopochin/GanTTY
+* [ ] https://github.com/vit-project/vit
+* [ ] https://github.com/Textualize/textual 
+* → example: https://github.com/Cvaniak/NoteSH
+* → https://github.com/Textualize/textual/discussions/165
+* [ ] [Taskwarrior](https://taskwarrior.org/) + [inthe.am](https://inthe.am/configure/synchronization) + https://github.com/bgregos/foreground        
+* [ ] [taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui)        
+* [ ] [taskwiki](https://github.com/tools-life/taskwiki)        
+* [ ] [tasklib](https://github.com/GothenburgBitFactory/tasklib/)        
+* [ ] ⇒ https://timewarrior.net/        
+* [ ] → https://taskwarrior.org/tools/#services        
+* [ ] → https://taskwarrior.org/tools/
     * [powerline-taskwarrior](https://github.com/Zebradil/powerline-taskwarrior)
     * [bugwarrior](https://github.com/ralphbean/bugwarrior)** https://github.com/ralphbean/bugwarrior 
     * [taskwarrior-web](https://github.com/theunraveler/taskwarrior-web)
@@ -594,86 +639,92 @@ Inspirations / To Use:
     * [tasknote](https://github.com/mikebobroski/tasknote)
     * [pomodoro-warriors](https://github.com/cf020031308/pomodoro-warriors)
     * [taskshell](https://github.com/GothenburgBitFactory/taskshell)**
-- [ ] https://github.com/kstenschke/tictac-track
-- [ ] https://github.com/klaudiosinani/taskbook
-- [ ] https://github.com/darrikonn/td-cli
-- [ ] https://github.com/dnote/dnote
-- [ ] https://github.com/xwmx/nb
-- [ ] https://vhp.github.io/terminal_velocity/
-- [ ] 
+* [ ] https://github.com/kstenschke/tictac-track
+* [ ] https://github.com/klaudiosinani/taskbook
+* [ ] https://github.com/darrikonn/td-cli
+* [ ] https://github.com/dnote/dnote
+* [ ] https://github.com/xwmx/nb
+* [ ] https://vhp.github.io/terminal_velocity/
+* [ ] 
 
-Other TUI Inspirations / Potential Dependencies:
 
-- [ ] https://github.com/poetaman/arttime
-- [ ] https://github.com/saulpw/visidata
-- [ ] https://github.com/actuday6418/Diary
-- [ ] https://github.com/max-niederman/ttyper
-- [ ] https://github.com/sunjon/stylish.nvim
-- [ ] https://github.com/vimwiki/vimwiki
-- [ ] [xplr](https://xplr.dev/)
+* Other TUI Inspirations / Potential Dependencies:
 
-Features:
 
-- [ ] Gantt chart (from Roadmaps spreadsheet) → example: [task-gantt](https://github.com/8ware/task-gantt)
+* [ ] https://github.com/poetaman/arttime
+* [ ] https://github.com/saulpw/visidata
+* [ ] https://github.com/actuday6418/Diary
+* [ ] https://github.com/max-niederman/ttyper
+* [ ] https://github.com/sunjon/stylish.nvim
+* [ ] https://github.com/vimwiki/vimwiki
+* [ ] [xplr](https://xplr.dev/)
+
+
+* Features:
+
+
+* [ ] Gantt chart (from Roadmaps spreadsheet) → example: [task-gantt](https://github.com/8ware/task-gantt)
     - Features
-- [ ] support for different roadmaps, zipped together
-- [ ] support for adding a project (e.g. book) with a list/range of sub-projects (e.g. chapters)
-- [ ] even: evenly spaced until end date
-- [ ] fixed: fixed spacing
-- [ ] - [ ]  easy-to-use calendar data structure
-- [ ] load-balancing by day:
-- [ ] make small adjustments to move some tasks (sub-projects) from one
-- [ ] day types (intense, light, etc)
-- [ ] time estimation of task (optional upper/lower bounds)
-- [ ] priority of task
-- [ ] big rocks first - scheduled time blocks, around which everything else must fit
-- [ ] - [ ]  Daily scheduler - algorithm to do it automatically using estimated duration and priority levels (both urgency and importance)
-- [ ] Ability to navigate in all 4 directions
-- [ ] switch to daily slice
-- [ ] sortable by tags incl. priority and est. duration
-- [ ] different adjustment modes when I fall behind or get ahead:
-- [ ] rigid: push all bask by k days, with exceptions for locked elements
-- [ ] compress: squish all items evenly together
-- [ ] rollover: what is unfinished today gets added to tomorrow
-- [ ] → default mode for each project
-- [ ] vim-based navigation in the terminal
+* [ ] support for different roadmaps, zipped together
+* [ ] support for adding a project (e.g. book) with a list/range of sub-projects (e.g. chapters)
+* [ ] even: evenly spaced until end date
+* [ ] fixed: fixed spacing
+* [ ] - [ ]  easy-to-use calendar data structure
+* [ ] load-balancing by day:
+* [ ] make small adjustments to move some tasks (sub-projects) from one
+* [ ] day types (intense, light, etc)
+* [ ] time estimation of task (optional upper/lower bounds)
+* [ ] priority of task
+* [ ] big rocks first - scheduled time blocks, around which everything else must fit
+* [ ] - [ ]  Daily scheduler - algorithm to do it automatically using estimated duration and priority levels (both urgency and importance)
+* [ ] Ability to navigate in all 4 directions
+* [ ] switch to daily slice
+* [ ] sortable by tags incl. priority and est. duration
+* [ ] different adjustment modes when I fall behind or get ahead:
+* [ ] rigid: push all bask by k days, with exceptions for locked elements
+* [ ] compress: squish all items evenly together
+* [ ] rollover: what is unfinished today gets added to tomorrow
+* [ ] → default mode for each project
+* [ ] vim-based navigation in the terminal
     - Features
-- [ ] common vim keybindings to move around TUI
-- [ ] shortcuts to navigate to links → open new terminal tab with book / notes editor, switch to new pre-configured workspace (rofi integration?)
-- [ ] syncing and integration with Github / Nextcloud / Drive
+* [ ] common vim keybindings to move around TUI
+* [ ] shortcuts to navigate to links → open new terminal tab with book / notes editor, switch to new pre-configured workspace (rofi integration?)
+* [ ] syncing and integration with Github / Nextcloud / Drive
     - Features
-- [ ] Kanban board
+* [ ] Kanban board
     - Features
     - examples
-- [ ] https://github.com/Hirschiii/tw-Kanban
-- [ ] [taskwarrior-kanban](https://github.com/j-jith/taskwarrior-kanban)
-- [ ] [kanbanwarrior](https://github.com/keigezellig/kanbanwarrior)
-- [ ] [taskban](https://github.com/lyz-code/taskban)
-- [ ] [kanban4taskwarrior](https://github.com/bmejias/kanban4taskwarrior)
-- [ ] [kanbanwarrior](https://github.com/CourrierGui/kanbanwarrior)
-- [ ] [taskwarrior-terminal-kanban](https://github.com/contrun/taskwarrior-terminal-kanban)
-- [ ] [vim-taskwarrior-kanban](https://github.com/j-jith/vim-taskwarrior-kanban)
-- [ ] Calendar
+* [ ] https://github.com/Hirschiii/tw-Kanban
+* [ ] [taskwarrior-kanban](https://github.com/j-jith/taskwarrior-kanban)
+* [ ] [kanbanwarrior](https://github.com/keigezellig/kanbanwarrior)
+* [ ] [taskban](https://github.com/lyz-code/taskban)
+* [ ] [kanban4taskwarrior](https://github.com/bmejias/kanban4taskwarrior)
+* [ ] [kanbanwarrior](https://github.com/CourrierGui/kanbanwarrior)
+* [ ] [taskwarrior-terminal-kanban](https://github.com/contrun/taskwarrior-terminal-kanban)
+* [ ] [vim-taskwarrior-kanban](https://github.com/j-jith/vim-taskwarrior-kanban)
+* [ ] Calendar
     - Features
-- [ ] Correspondence between all components
+* [ ] Correspondence between all components
     - Features
-- [ ] [Notifications via Telegram](https://core.telegram.org/bots/api)
+* [ ] [Notifications via Telegram](https://core.telegram.org/bots/api)
     - Features
     - examples / to use
-- [ ] https://github.com/Ninlives/taskwarrior-telegram-bot
-- [ ] https://github.com/rhnvrm/tg-taskwarrior-bot
-- [ ] https://github.com/cedricbousmanne/telegram-taskwarrior
-- [ ] 
-- [ ] [Notion integration](https://developers.notion.com/reference/intro)?
+* [ ] https://github.com/Ninlives/taskwarrior-telegram-bot
+* [ ] https://github.com/rhnvrm/tg-taskwarrior-bot
+* [ ] https://github.com/cedricbousmanne/telegram-taskwarrior
+* [ ] 
+* [ ] [Notion integration](https://developers.notion.com/reference/intro)?
     - Features
     * https://syncthing.net/
+
 
    
 * https://medevel.com/tag/productivity/ **
     * https://medevel.com/cuekeeper/
     * https://github.com/pickfire/spt
 
-- Signal Tools
+
+* Signal Tools
             * https://github.com/boxdot/gurk-rs 
             * https://github.com/AsamK/signal-cli
             * https://github.com/filipre/signalbot
@@ -681,7 +732,7 @@ Features:
             * https://github.com/lwesterhof/semaphore
             * https://github.com/bbernhard/signal-cli-rest-api
     
-- Tasks, ToDos
+* Tasks, ToDos
     - [taskwarrior](https://taskwarrior.org/) - A command-line TODO list manager → [taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) with [vit](https://github.com/vit-project/vit) or taskwarrior-tui (look at https://github.com/klaussinani/taskbook interface)
     - other sources of ideas:    
     - [td-cli](https://github.com/darrikonn/td-cli) - A todo command line manager to organize and manage your todos across multiple projects.    
@@ -700,7 +751,7 @@ Features:
     - [Todo.txt](http://todotxt.com/) - Todo.txt is a set of focused editors which help you manage your tasks with as few keystrokes and taps possible.
             * https://github.com/manyids2/taskwar.nvim
     
-- Time Tracking and Timers
+* Time Tracking and Timers
     - [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - A time tracking utility that offers simple stopwatch features as well as sophisticated calendar-based backfill, along with flexible reporting.
     - Interface ideas
         -    [moro](https://github.com/omidfi/moro)) - Simple tool for tracking work hours.    
@@ -732,7 +783,7 @@ Features:
     - [zeitkatze](https://github.com/leonmavr/zeitkatze) - Simplest stopwatch in a linux console.
     - [Watson](https://github.com/TailorDev/Watson) - Time tracking CLI to know how much time you are spending on your projects. It can generate nice reports for clients.
     - [Moro](https://github.com/omidfi/moro) - A command line tool for tracking work hours, as simple as it can get.
-- Calendar
+* Calendar
     - Calendar: [remind](https://git.skoll.ca/Skollsoft-Public/Remind) with [wyrd](https://gitlab.com/wyrd-calendar/wyrd/)
     - [khal](https://github.com/pimutils/khal) - CLI and terminal calendar program, able to synchronize with CalDAV servers through [vdirsyncer](https://github.com/pimutils/vdirsyncer).
     - [pal](https://sourceforge.net/p/palcal/code/HEAD/tree/) - Calendar program for Unix/Linux systems that can keep track of events; custom, plain text storage format; interesting and fully functional.
@@ -750,15 +801,15 @@ Features:
     - [Kalendar](https://apps.kde.org/kalendar/) - Kalendar is a calendar application that allows you to manage your tasks and events.
     - [avail](https://github.com/mufeez-amjad/avail) - Find available times between all your calendars.
     - [conrad](https://github.com/vinayak-mehta/conrad) - Track conferences and meetups.
-- Contacts
+* Contacts
     - [khard](https://github.com/lucc/khard) - Console carddav client written in Pyhton.
     - [addrb](https://github.com/mrusme/addrb) - A lightweight CLI / TUI address book that supports CardDAV.
     - [ppl addressbook](https://github.com/henrycatalinismith/ppl) - `ppl` is free software made out of other free software. It's built on top of Ruby and Git, and the completely free vcard address book format.
-- Résumé
+* Résumé
             * https://github.com/przpiw/PDFResumeBuilder 
             * https://jsonresume.org/         
     - [ancv](https://github.com/alexpovel/ancv) - Renders your (JSON) resume/CV for online & pretty terminal display.
-- Misc
+* Misc
     - [arttime](https://github.com/reportaman/arttime) - Beauty of text art meets functionality of clock, timer, pomodoro++ time manager
     - [buku](https://github.com/jarun/buku) - A powerful bookmark manager written in Python3 and SQLite3.
     - [task-manager](https://github.com/lingtalfi/task-manager) - Execute all your scripts with just two or three keystrokes.
@@ -767,7 +818,7 @@ Features:
     - [Blanket](https://apps.gnome.org/app/com.rafaelmardojai.Blanket/) - Improve focus and increase your productivity by listening to different sounds.
     - [f.lux](https://justgetflux.com/linux.html) - A program that reddens your display to help you sleep better.
     - [Redshift](http://jonls.dk/redshift/) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
-- Note taking
+* Note taking
     - [jrnl](https://github.com/jrnl-org/jrnl) - A simple command line journal application that stores your journal in a plain text file
     - [Org mode](https://git.savannah.gnu.org/cgit/emacs/org-mode.git) - Super-powerful [Emacs](https://www.gnu.org/software/emacs/) plugin to manage outlines with associated timestamps, priorities, labels, etc.; available views grouped by time (agenda), tags, etc.; plain text storage format.
     - [cadmus](https://github.com/RyanGreenup/cadmus) - Shell Scripts to Facilitate Effective Note Taking.
@@ -802,7 +853,7 @@ Features:
     - [dnote](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync and web interface
     - [eureka](https://github.com/simeg/eureka/) -  CLI tool to input and store your ideas without leaving the terminal
     - [Polar](https://getpolarized.io/) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
-- Finance
+* Finance
     - [GnuCash](https://www.gnucash.org/) - GnuCash is a free software accounting program that implements a double-entry bookkeeping system. It was initially aimed at developing capabilities similar to Intuit, Inc.’s Quicken application, but also has features for small business accounting.
     - [hledger](https://hledger.org/) - Easy-to-use command-line/curses/web plaintext accounting tool.
     - [HomeBank](http://homebank.free.fr/en/index.php) - HomeBank is a free software that will assist you to manage your personal accounting.
@@ -838,7 +889,7 @@ Features:
         -    [stegcloak](https://github.com/kurolabs/stegcloak)) - Hide secrets with invisible characters in plain text securely.    
     - [Age](https://github.com/FiloSottile/age) - Simple, Modern, Secure encryption tool.
     - [GNUKhata](https://gnukhata.org/) - Open source accounting software.
-- taskwarrior plugins
+* taskwarrior plugins
     - Bash/Shell
         
         ‣
@@ -1104,7 +1155,8 @@ Features:
     * [lwesterhof/semaphore: A simple (rule-based) bot library for Signal Private Messenger.](https://github.com/lwesterhof/semaphore)
     * https://github.com/brunocbr/zettel-composer
 
-- TUI Resources
+
+* TUI Resources
 * [Reddit - Which is Best TUI file manager](https://www.reddit.com/r/commandline/comments/11d74x1/which_is_best_tui_file_manager/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=10&utm_content=share_button)
     
     GTT: tui with typer? which dependencies? pure stdlib? -> integration with vit / taskw / taskwarrior -> later: rewrite in Rust?
@@ -1120,7 +1172,8 @@ Features:
             * https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/
     
 
-- Dependencies / Components:
+
+* Dependencies / Components:
     - Taskwarrior
     - inthe.am
 * [docs](https://intheam.readthedocs.io/en/latest/api/index.html)
@@ -1129,9 +1182,9 @@ Features:
             * https://tinydb.readthedocs.io/en/latest/ 
 * [taskw](https://github.com/ralphbean/taskw)
     
-- Notion SDK, API:
-→ switch to https://www.focalboard.com/ ?
-→ migrate Notion to AppFlowy?
+* Notion SDK, API:
+* → switch to https://www.focalboard.com/ ?
+* → migrate Notion to AppFlowy?
             * https://www.notion.so/my-integrations 
     
     via Trello?
@@ -1141,7 +1194,7 @@ Features:
             * https://github.com/getsyncr/notion-sdk (deprecated)
             * https://github.com/makenotion/notion-sdk-typescript-starter 
     
-- Database for ganttouchthis
+* Database for ganttouchthis
     
     tinydb
     
@@ -1150,39 +1203,50 @@ Features:
     postgresql?
     
 
-Foreground 
 
-- Telegram
-- Telegram (?)
-- Email
+* Foreground 
+
+
+* Telegram
+* Telegram (?)
+* Email
             * https://inthe.am/configure/email
     
 
-Twilio → SMS?
 
-Zapier?
+* Twilio → SMS?
 
-- → planager (organizers, planners, notion)
+
+* Zapier?
+
+
+* → planager (organizers, planners, notion)
 * [Whimsical - Work Better, Faster, Together](https://whimsical.com/) 
             * https://ramnes.github.io/notion-sdk-py/ 
             * https://foambubble.github.io/foam/ 
     
 
-IRC?
 
-Matrix Tools
+* IRC?
+
+
+* Matrix Tools
     * https://docs.rs/matrix_bot_api/latest/matrix_bot_api/ ****
 
-Telegram
+
+* Telegram
     * https://github.com/teloxide/teloxide
     * https://github.com/tools-life/taskwiki
 
-- [ ] https://github.com/GothenburgBitFactory/taskwarrior → build on top of by creating an extension / extensions?    * https://kdheepak.com/taskwarrior-tui/
 
-Next: write nvim plugin/library/neorg module for taskwarrior (’taskifist’)
+* [ ] https://github.com/GothenburgBitFactory/taskwarrior → build on top of by creating an extension / extensions?    * https://kdheepak.com/taskwarrior-tui/
+
+
+* Next: write nvim plugin/library/neorg module for taskwarrior (’taskifist’)
     * https://taskwarrior.org/tools/ → check ‘lua’ box
 
-→for Lua
+
+* →for Lua
     * https://r-pufky.github.io/docs/apps/taskwarrior.html 
     * https://github.com/ribelo/taskwarrior.nvim 
     * https://github.com/bgregos/foreground
@@ -1190,9 +1254,11 @@ Next: write nvim plugin/library/neorg module for taskwarrior (’taskifist’)
     * https://github.com/Ninlives/taskwarrior-telegram-bot 
     * https://github.com/rhnvrm/tg-taskwarrior-bot 
 
-(Telegram inline keyboard? Add [custom keyboard](https://www.google.com/search?q=add+custom+keyboard+to+android&sxsrf=APwXEde_qAYevpIXgyBDpVjjtVpsAK4Huw:1682273314975&source=lnt&tbs=qdr:y&sa=X&ved=2ahUKEwjvrOq6zMD-AhUCsaQKHZB0BsEQpwV6BAgBEAs&biw=1717&bih=845&dpr=1) for Telegram to include slash and numbers on basic keyboard? → not highest priority)
 
-- live preview
+* (Telegram inline keyboard? Add [custom keyboard](https://www.google.com/search?q=add+custom+keyboard+to+android&sxsrf=APwXEde_qAYevpIXgyBDpVjjtVpsAK4Huw:1682273314975&source=lnt&tbs=qdr:y&sa=X&ved=2ahUKEwjvrOq6zMD-AhUCsaQKHZB0BsEQpwV6BAgBEAs&biw=1717&bih=845&dpr=1) for Telegram to include slash and numbers on basic keyboard? → not highest priority)
+
+
+* live preview
             * https://www.npmjs.com/package/browser-sync 
 * [Is there a plugin for seeing a live preview of HTML/CSS/JS?Reddithttps://www.reddit.com › neovim › comments › plggq3](https://www.reddit.com/r/neovim/comments/plggq3/is_there_a_plugin_for_seeing_a_live_preview_of/)
 * [data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAASFBMVEVHcEz/RQD/RQD/RQD/RQD/RQD/RQD/RQD/RQD/RQD/RQD/RQD/NAD/PwD/aDr/s5z/nH7/e1b/WyT/xLH/imj/4NX/8ev///9xkjBnAAAADHRSTlMAFFyk2vT9KO//iszHtZsMAAABSElEQVR4AWxSB7aDMAxjg6md7XD/m35s/PqTtmJkSImUMfxjnOZl3bZ1madx+MY+H/DGMe8f9Hiu0GE9x274C77w2hu+mb3x2X/zSDeQGsXYzk/Oh5hiLiQuT44TGlDgzFyvmkRxqsHaCXJASnxdTgSrmMzQgR2JTyQQzHeCLiE51oLIVjIOU0sTloxGPpjUQTkgcMEz+5KIpG0ei9IQHRa+DBwxOVDJMqzqXO/eqwHf77OOYZPN89pb68Na4fGmtkZQY9LSp1IbgW6Tk56MlIQAwix6s9CQWMQ3YRBBQZA8ATXks0yK6mE5WctCukzbqFSvHuYAk201BekLOpSDqD3ZVttWkpeYyZXiUpYqmMP7uFHHVWYtJKEed3NhKAUhReTFX3B2V44IXCwlOiDjX+PnpSUFGP6GK1kj5AllHEJZj8jMSzD7AwBb/yl65xYVzAAAAABJRU5ErkJggg==](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAASFBMVEVHcEz/RQD/RQD/RQD/RQD/RQD/RQD/RQD/RQD/RQD/RQD/RQD/NAD/PwD/aDr/s5z/nH7/e1b/WyT/xLH/imj/4NX/8ev///9xkjBnAAAADHRSTlMAFFyk2vT9KO//iszHtZsMAAABSElEQVR4AWxSB7aDMAxjg6md7XD/m35s/PqTtmJkSImUMfxjnOZl3bZ1madx+MY+H/DGMe8f9Hiu0GE9x274C77w2hu+mb3x2X/zSDeQGsXYzk/Oh5hiLiQuT44TGlDgzFyvmkRxqsHaCXJASnxdTgSrmMzQgR2JTyQQzHeCLiE51oLIVjIOU0sTloxGPpjUQTkgcMEz+5KIpG0ei9IQHRa+DBwxOVDJMqzqXO/eqwHf77OOYZPN89pb68Na4fGmtkZQY9LSp1IbgW6Tk56MlIQAwix6s9CQWMQ3YRBBQZA8ATXks0yK6mE5WctCukzbqFSvHuYAk201BekLOpSDqD3ZVttWkpeYyZXiUpYqmMP7uFHHVWYtJKEed3NhKAUhReTFX3B2V44IXCwlOiDjX+PnpSUFGP6GK1kj5AllHEJZj8jMSzD7AwBb/yl65xYVzAAAAABJRU5ErkJggg==)
@@ -1216,7 +1282,8 @@ Next: write nvim plugin/library/neorg module for taskwarrior (’taskifist’)
     * https://github.com/edluffy/hologram.nvim 
     * https://github.com/krivahtoo/silicon.nvim
 
-- links and notes to sort
+
+* links and notes to sort
             * https://activitywatch.net/ 
 * [Reddit - Taskwarrior is Perfect](https://www.reddit.com/r/commandline/comments/jcpd9q/taskwarrior_is_perfect/)
 * [Productivity Setup with Vimwiki, Taskwarrior and MDwiki: Part 1](https://youtu.be/A1YgbAp5YRc)
@@ -1395,54 +1462,59 @@ Next: write nvim plugin/library/neorg module for taskwarrior (’taskifist’)
 * [Are TODO Applications Hind](https://www.youtube.com/watch?v=BcxZj2qh4Kw)ering Your Productivity?
     
 
-Not using, but good reference → software for later
 
-- Note-taking, neorg-like, etc
-- [ ] https://github.com/xwmx/nb ***
-- TUI frameworks
-- [ ] https://github.com/fdehau/tui-rs → https://github.com/orhun/rust-tui-template
-- [ ] https://github.com/rivo/tview/
-- [ ] https://github.com/ArthurSonzogni/FTXUI
-- [ ] https://github.com/Textualize/textual        * https://www.willmcgugan.com/blog/tech/post/textual-progress/        * https://www.youtube.com/@WillMcGugan
-- [ ] https://github.com/dankamongmen/notcurses
-- [ ] https://github.com/jroimartin/gocui
-- [ ] https://github.com/jwlodek/py_cui
-- [ ] https://github.com/jtdaugherty/brick
-- [ ] https://github.com/ansiwave/nimwave
-- [ ] https://github.com/gdamore/tcell
-- [ ] https://github.com/Cubified/tuibox
-- [ ] https://github.com/ceccopierangiolieugenio/pyTermTk
-- [ ] https://github.com/yaronn/blessed-contrib
-- [ ] https://github.com/bczsalba/pytermgui
-- taskwarrior-like
-- [ ] https://github.com/pimutils/todoman
+* Not using, but good reference → software for later
 
-⇒ https://wiki.archlinux.org/title/List_of_applications/Other
+
+* Note-taking, neorg-like, etc
+* [ ] https://github.com/xwmx/nb ***
+* TUI frameworks
+* [ ] https://github.com/fdehau/tui-rs → https://github.com/orhun/rust-tui-template
+* [ ] https://github.com/rivo/tview/
+* [ ] https://github.com/ArthurSonzogni/FTXUI
+* [ ] https://github.com/Textualize/textual        * https://www.willmcgugan.com/blog/tech/post/textual-progress/        * https://www.youtube.com/@WillMcGugan
+* [ ] https://github.com/dankamongmen/notcurses
+* [ ] https://github.com/jroimartin/gocui
+* [ ] https://github.com/jwlodek/py_cui
+* [ ] https://github.com/jtdaugherty/brick
+* [ ] https://github.com/ansiwave/nimwave
+* [ ] https://github.com/gdamore/tcell
+* [ ] https://github.com/Cubified/tuibox
+* [ ] https://github.com/ceccopierangiolieugenio/pyTermTk
+* [ ] https://github.com/yaronn/blessed-contrib
+* [ ] https://github.com/bczsalba/pytermgui
+* taskwarrior-like
+* [ ] https://github.com/pimutils/todoman
+
+
+* ⇒ https://wiki.archlinux.org/title/List_of_applications/Other
     * https://jamesclear.com/how-to-stop-procrastinating
     * https://www.jeffsanders.com/the-7-essential-elements-of-productivity-element-4-planning/ 
     * [HedgeDoc - The best platform to write and share markdown.](https://hedgedoc.org/)
     * [hedgedoc/hedgedoc at blog.cloudron.io](https://github.com/hedgedoc/hedgedoc?ref=blog.cloudron.io)
     * [https://github.com/viseshrp/workedon](https://github.com/viseshrp/workedon)
 
-- Note-Taking Tools (reference, ideas)
+
+* Note-Taking Tools (reference, ideas)
             * https://srid.ca/neuron-announce
             * https://github.com/srid/emanote 
             * https://github.com/jrnl-org/jrnl 
 * [Ticketsystem: Znuny 7 als Open-Source-Alternative zu OTRS](https://www.heise.de/news/Ticketsystem-Znuny-7-als-Open-Source-Alternative-zu-OTRS-8969167.html)
 
-- Read https://neovim.io/doc/user/lua.html
-- Read https://learnxinyminutes.com/docs/fr-fr/lua-fr/, https://learnxinyminutes.com/docs/pt-br/lua-pt/,  https://learnxinyminutes.com/docs/de-de/lua-de/, https://learnxinyminutes.com/docs/ru-ru/lua-ru/
-- Read https://www.lua.org/manual/5.1/1
-- Become intimately familiar with the ins and outs of taskwarrior
+
+* Read https://neovim.io/doc/user/lua.html
+* Read https://learnxinyminutes.com/docs/fr-fr/lua-fr/, https://learnxinyminutes.com/docs/pt-br/lua-pt/,  https://learnxinyminutes.com/docs/de-de/lua-de/, https://learnxinyminutes.com/docs/ru-ru/lua-ru/
+* Read https://www.lua.org/manual/5.1/1
+* Become intimately familiar with the ins and outs of taskwarrior
     1. read the docs
     2. use in Docker container
     3. read the codebase
-- Become intimately familiar with the ins and out of neorg and its modules
+* Become intimately familiar with the ins and out of neorg and its modules
     1. read the docs (wiki)
     2. use in Docker container
     3. read the codebase
     4. read the additional module code as well
-- Become intimately familiar with the structure of lua plugins in neovim
+* Become intimately familiar with the structure of lua plugins in neovim
     1. https://neovim.io/doc/user/ 
     2. read https://neovim.io/doc/user/develop.html 
     3. skim https://github.com/neovim/neovim/wiki#developers 
@@ -1451,7 +1523,8 @@ Not using, but good reference → software for later
     * https://www.reddit.com/r/Notion/comments/nd76ec/notion_api_webhooks/ 
     * https://www.thegist.so/#Pricing 
 
-- [ ] https://github.com/nvim-neorg/neorg
+
+* [ ] https://github.com/nvim-neorg/neorg
     * [gtd books](http://libgen.rs/search.php?req=getting+things+done+David+allen&open=0&res=25&view=simple&phrase=1&column=def)
     * [xpavle00/Habo: Habo is an open-source habit tracker. Created in a flutter.](https://github.com/xpavle00/Habo)
     * [wakatara/harsh: Habit tracking for geeks. A minimalist, command line tool for tracking and understanding your habits.](https://github.com/wakatara/harsh)
@@ -1464,37 +1537,38 @@ Not using, but good reference → software for later
     * https://github.com/adnanh/webhook
     * https://github.com/schmee/habu 
 
-- [ ] good-looking nvim plugin https://github.com/ribelo/taskwarrior.nvim (keep an eye on https://github.com/dzintars/taskwarrior.nvim)
-- [ ] https://github.com/hugginsio/twig.nvim, also a nvim plugin
-- [ ] roadmap of a neorg integration: https://github.com/skbolton/neorg-taskwarrior/blob/main/roadmap.norg
-    * https://github.com/nvim-neorg/neorg/wiki/GTD-Queries/ba2cc1c5cf8c5ed0690e445f213e18c04ff4e157 
 
+* [ ] good-looking nvim plugin https://github.com/ribelo/taskwarrior.nvim (keep an eye on https://github.com/dzintars/taskwarrior.nvim)
+* [ ] https://github.com/hugginsio/twig.nvim, also a nvim plugin
+* [ ] roadmap of a neorg integration: https://github.com/skbolton/neorg-taskwarrior/blob/main/roadmap.norg
+    * https://github.com/nvim-neorg/neorg/wiki/GTD-Queries/ba2cc1c5cf8c5ed0690e445f213e18c04ff4e157 
 
 
 # Roadmap
 
-- done
-- [x]  rename universe to Planager
-- [x]  add `order` attribute to Entry, such that tasks can be ordered temporally indgependently of priority
-- [x]  fix attributes of routines (such as maxtime) for proper initialization
-- [x]  major refactoring to separate by entity types and remove plurals from module names
-- [x]  clean up imports to make relative wherever possible
-- [x]  fix all mypy errors
-- [x]  visualize with [pydeps](https://github.com/thebjorn/pydeps) and refactor accordingly
-- [x]  fix id to be string
-- [x]  remove ambiguity (**kwargs) in norg reading
-- [x]  migrate List[Entry] to Entries
-- [x]  move internal norg dicts to classes for better verification
-- [x]  create norg visualization via `__repr__`
-- [x]  add support for norg task status (for completed)
-- [x]  add blocking logic
-- [x]  calendar is direct parent of schedules, containing entries and day parameters -> calendar folder containing a file for each day (& update tests)
-- [x]  fix config handling → cleaner function signatures, less clutter
-- [x]  refactor Schedule
+
+* done
+* [x]  rename universe to Planager
+* [x]  add `order` attribute to Entry, such that tasks can be ordered temporally indgependently of priority
+* [x]  fix attributes of routines (such as maxtime) for proper initialization
+* [x]  major refactoring to separate by entity types and remove plurals from module names
+* [x]  clean up imports to make relative wherever possible
+* [x]  fix all mypy errors
+* [x]  visualize with [pydeps](https://github.com/thebjorn/pydeps) and refactor accordingly
+* [x]  fix id to be string
+* [x]  remove ambiguity (**kwargs) in norg reading
+* [x]  migrate List[Entry] to Entries
+* [x]  move internal norg dicts to classes for better verification
+* [x]  create norg visualization via `__repr__`
+* [x]  add support for norg task status (for completed)
+* [x]  add blocking logic
+* [x]  calendar is direct parent of schedules, containing entries and day parameters -> calendar folder containing a file for each day (& update tests)
+* [x]  fix config handling → cleaner function signatures, less clutter
+* [x]  refactor Schedule
     - [x]  extract logical scheduling methods and make them pure functions
     - [x]  refactor said functions
-- [x]  write minimal, functional CLI
-- [x]  add tracking functionality
+* [x]  write minimal, functional CLI
+* [x]  add tracking functionality
     - [x]  write prompting functions
     - [x]  write item tracking class for each type, including json serialization and deserialization    
     - [x]  time    
@@ -1511,115 +1585,115 @@ Not using, but good reference → software for later
     - [x]  any others?
     - [x]  add method to create tracker for each routine item, including json serialization and deserialization
     - [x]  add submenu to `planager track` such that not everything needs to be tracked at once → support for partial and incremental tracking
-- [x]  add colorful logging for easier debugging
-- [x]  find script to convert ansi output to html
-- [ ] https://metacpan.org/release/NUFFIN/HTML-FromANSI-2.03
-- [ ] https://github.com/theZiz/aha
+* [x]  add colorful logging for easier debugging
+* [x]  find script to convert ansi output to html
+* [ ] https://metacpan.org/release/NUFFIN/HTML-FromANSI-2.03
+* [ ] https://github.com/theZiz/aha
     - [x]  https://github.com/pycontribs/ansi2html
-- [x]  refactor plan gantt code in Planager - make run as a method of plan, taking an iterable of projects - just re-write the whole thing?
-- [x]  write code to read plan and schedule from derivation.json → will make development much easier → instead just overhaul entire serde for everything, with i-roved dictionary types
-- [x]  add coverage plugin to pytest
-- [x]  rename to nebokrai
-- [x]  write watertight json schemata
-- [x]  get all check-jsonschema calls to pass
-- [x]  write tests for the schemata
-- [x]  remove old prompt_functions file
-- [x]  organize CLI commands in hierarchical families → declaration …, derivation … (view, edit, add), validate https://docs.python.org/3/library/argparse.html#sub-commands
-- [x]  switch from argparse to sys.argv
-- [x]  add “summary” command to get a good overview of all
-- [ ] ~~add parsim properties to entities for logging and debugging~~- [ ]  ~~add types for CLI to ensure coverage and correctness~~- [ ]  ~~add declaration class for easy interaction with declaration JSON files~~
-- [ ] calendar
-- [ ] deserialization
-- [ ] serialization
-- [ ] editing
-- [ ] search
-- [ ] …- [ ]  ~~do the same as above, but for derivation~~- [ ]  ~~same as above for tracking~~- [ ]  ~~add help command~~
-- [x]  add command aliases
-- [ ] ~~test all possible command-line options with dummy output~~- [ ]  ~~prompt tests:~~
-- [ ] config from dicts
-- [ ] subitem
-- [ ] components
-- [ ] global
-- [ ] default prompting tests
-- [ ] tests with custom config options
-- [ ] add convenient summaries of each entity
-- [ ] move schemata to schemata folder in root (used for both test data and local nebokrai data)- [ ]  write tests for pythonnative data validation
-- [ ] write tests for prompting
-- [ ] write tests for IO and serde
-- [ ] start over with data files → easier to test and devlop; remove accumulated old bloat - need to make basic declaration through the end of the year
-- [ ] write code to read in logs (for tracking)- [ ]  schema validator for json → make sure that same keys are present everywhere; create report when this is not the case
-- [ ] Refactor different tracking items into a single class - DRY, much simpler to maintain, more powerful and flexible
-- [ ] Improve reprs of different levels (repr, str, pretty, summary, detail) to make debugging and development easier
-- [ ] Pull out common repr functionality into utils
-- [ ] Plan
-- [ ] Schedules
-- [ ] Calendar
-- [ ] Entry
-- [ ] Task
-- [ ] Roadmaps
-- [ ] Tasks
-- [ ] Tracker
-- [ ] Entries
-- [ ] Project
-- [ ] Roadmap
-- [ ] Projects
-- [ ] Roadmaps
-- [ ] Add informative print statements to planning and scheduling, such that the entire process is observable
-- [x]  Plan
-- [x]  Tasks
-- [x]  add_tasks
-- [x]  update_plan
-- [ ] Schedule
-- [ ] write basic, minimal tests for opening, planning, scheduling, and tracking
-- [ ] add LaTeX generation for plans and schedules!!!- [ ]  add beautiful image code generation for logs
-- [ ] revise declaration and get back in the saddle
-- [ ] add export and import for:
-- [ ] ***** https://github.com/jotaen/xit https://xit.jotaen.net/
-- [ ] .ics (calendar standard) → https://github.com/collective/icalendar, https://github.com/ics-py/ics-py
-- [ ] CalDav https://pypi.org/project/khalorg/
-- [ ] neorg
-- [ ] orgmode
-- [ ] todo.txt
-- [ ] [taskwarrior JSON](https://github.com/GothenburgBitFactory/taskwarrior/blob/develop/doc/devel/rfcs/task.md)
-- [ ] jira (via API)
-- [ ] taskell
-- [ ] appflowy (markdown)
-- [ ] todoman
-- [ ] khal etc.- [ ]  make separate (importable by overarching master package) TUI editor with textual for the declaration.json file. Should be easy and enjoyable to use
-- [ ] full test suite
-- [ ] native compilation in Python
-- [ ] get stable and operational in Python, polish by dogfooding
-- [ ] rewrite in rust
-- [ ] cross-compile for arm7
-- [ ] deploy on home server
-- [ ] make home server accessible from outside network
-- old - go through and sort!
-- [ ] Test creating executable using https://github.com/exaloop/codon https://docs.exaloop.io/codon/ ; alternatively look at using https://github.com/cython/cython [docs](https://cython.readthedocs.io/en/latest/index.html)
+* [x]  refactor plan gantt code in Planager - make run as a method of plan, taking an iterable of projects - just re-write the whole thing?
+* [x]  write code to read plan and schedule from derivation.json → will make development much easier → instead just overhaul entire serde for everything, with i-roved dictionary types
+* [x]  add coverage plugin to pytest
+* [x]  rename to nebokrai
+* [x]  write watertight json schemata
+* [x]  get all check-jsonschema calls to pass
+* [x]  write tests for the schemata
+* [x]  remove old prompt_functions file
+* [x]  organize CLI commands in hierarchical families → declaration …, derivation … (view, edit, add), validate https://docs.python.org/3/library/argparse.html#sub-commands
+* [x]  switch from argparse to sys.argv
+* [x]  add “summary” command to get a good overview of all
+* [ ] ~~add parsim properties to entities for logging and debugging~~- [ ]  ~~add types for CLI to ensure coverage and correctness~~- [ ]  ~~add declaration class for easy interaction with declaration JSON files~~
+* [ ] calendar
+* [ ] deserialization
+* [ ] serialization
+* [ ] editing
+* [ ] search
+* [ ] …- [ ]  ~~do the same as above, but for derivation~~- [ ]  ~~same as above for tracking~~- [ ]  ~~add help command~~
+* [x]  add command aliases
+* [ ] ~~test all possible command-line options with dummy output~~- [ ]  ~~prompt tests:~~
+* [ ] config from dicts
+* [ ] subitem
+* [ ] components
+* [ ] global
+* [ ] default prompting tests
+* [ ] tests with custom config options
+* [ ] add convenient summaries of each entity
+* [ ] move schemata to schemata folder in root (used for both test data and local nebokrai data)- [ ]  write tests for pythonnative data validation
+* [ ] write tests for prompting
+* [ ] write tests for IO and serde
+* [ ] start over with data files → easier to test and devlop; remove accumulated old bloat - need to make basic declaration through the end of the year
+* [ ] write code to read in logs (for tracking)- [ ]  schema validator for json → make sure that same keys are present everywhere; create report when this is not the case
+* [ ] Refactor different tracking items into a single class - DRY, much simpler to maintain, more powerful and flexible
+* [ ] Improve reprs of different levels (repr, str, pretty, summary, detail) to make debugging and development easier
+* [ ] Pull out common repr functionality into utils
+* [ ] Plan
+* [ ] Schedules
+* [ ] Calendar
+* [ ] Entry
+* [ ] Task
+* [ ] Roadmaps
+* [ ] Tasks
+* [ ] Tracker
+* [ ] Entries
+* [ ] Project
+* [ ] Roadmap
+* [ ] Projects
+* [ ] Roadmaps
+* [ ] Add informative print statements to planning and scheduling, such that the entire process is observable
+* [x]  Plan
+* [x]  Tasks
+* [x]  add_tasks
+* [x]  update_plan
+* [ ] Schedule
+* [ ] write basic, minimal tests for opening, planning, scheduling, and tracking
+* [ ] add LaTeX generation for plans and schedules!!!- [ ]  add beautiful image code generation for logs
+* [ ] revise declaration and get back in the saddle
+* [ ] add export and import for:
+* [ ] ***** https://github.com/jotaen/xit https://xit.jotaen.net/
+* [ ] .ics (calendar standard) → https://github.com/collective/icalendar, https://github.com/ics-py/ics-py
+* [ ] CalDav https://pypi.org/project/khalorg/
+* [ ] neorg
+* [ ] orgmode
+* [ ] todo.txt
+* [ ] [taskwarrior JSON](https://github.com/GothenburgBitFactory/taskwarrior/blob/develop/doc/devel/rfcs/task.md)
+* [ ] jira (via API)
+* [ ] taskell
+* [ ] appflowy (markdown)
+* [ ] todoman
+* [ ] khal etc.- [ ]  make separate (importable by overarching master package) TUI editor with textual for the declaration.json file. Should be easy and enjoyable to use
+* [ ] full test suite
+* [ ] native compilation in Python
+* [ ] get stable and operational in Python, polish by dogfooding
+* [ ] rewrite in rust
+* [ ] cross-compile for arm7
+* [ ] deploy on home server
+* [ ] make home server accessible from outside network
+* old - go through and sort!
+* [ ] Test creating executable using https://github.com/exaloop/codon https://docs.exaloop.io/codon/ ; alternatively look at using https://github.com/cython/cython [docs](https://cython.readthedocs.io/en/latest/index.html)
         * [read](https://blog.paperspace.com/boosting-python-scripts-cython/) (or competitor to cython?)
-- [ ] create subsequent steps related to creating a compiled executable app
-- [ ] add blocks and make work with scheduling
-- [ ] serialization of plan & schedules to derivation.json -> CLI supporting scheduling from saved plan, schedule next k days
-- [ ] thorough refactor 1
-- [ ] thorough refactor 2
-- [ ] develop tracker class
-- [ ] full (albeit minimal) working CLI
-- [ ] make entries with categories only add to desired blocks (notably for work tasks)
-- [ ] add earliest and latest dates to tasks and entries - for scheduling
-- [ ] add earliest and latest times for scheduling
-- [ ] add json writers (& update tests)
-- [ ] write logger (& update tests)
-- [ ] add logging to entire library (& update tests)
-- [ ] get planning working as expected (& update tests)
-- [ ] get scheduling working as expected (& update tests)
-- [ ] make adhoc counterpart to plan, containing tasks (but one-off, non-derivable) -> adhoc folder containing a file for each day (& update tests)
-- [ ] add tracking module mvp (& update tests)
-- [ ] Tracking functionality
-- [ ] str and repr for DefaultDay
-- [ ] Basic tests for adding entries to schedule
-- [ ] advanced adding and deleting functionality
-- [ ] write signal package for messaging (& update tests)
-- [ ] Read https://hamberg.no/gtd, https://gettingthingsdone.com/what-is-gtd/, https://en.wikipedia.org/wiki/Getting_Things_Done
-- [ ] Map out [structure of system](https://www.notion.so/Design-and-Architecture-Notes-1a0633919e2e45838e3794e4aad4bee4?pvs=21)
+* [ ] create subsequent steps related to creating a compiled executable app
+* [ ] add blocks and make work with scheduling
+* [ ] serialization of plan & schedules to derivation.json -> CLI supporting scheduling from saved plan, schedule next k days
+* [ ] thorough refactor 1
+* [ ] thorough refactor 2
+* [ ] develop tracker class
+* [ ] full (albeit minimal) working CLI
+* [ ] make entries with categories only add to desired blocks (notably for work tasks)
+* [ ] add earliest and latest dates to tasks and entries - for scheduling
+* [ ] add earliest and latest times for scheduling
+* [ ] add json writers (& update tests)
+* [ ] write logger (& update tests)
+* [ ] add logging to entire library (& update tests)
+* [ ] get planning working as expected (& update tests)
+* [ ] get scheduling working as expected (& update tests)
+* [ ] make adhoc counterpart to plan, containing tasks (but one-off, non-derivable) -> adhoc folder containing a file for each day (& update tests)
+* [ ] add tracking module mvp (& update tests)
+* [ ] Tracking functionality
+* [ ] str and repr for DefaultDay
+* [ ] Basic tests for adding entries to schedule
+* [ ] advanced adding and deleting functionality
+* [ ] write signal package for messaging (& update tests)
+* [ ] Read https://hamberg.no/gtd, https://gettingthingsdone.com/what-is-gtd/, https://en.wikipedia.org/wiki/Getting_Things_Done
+* [ ] Map out [structure of system](https://www.notion.so/Design-and-Architecture-Notes-1a0633919e2e45838e3794e4aad4bee4?pvs=21)
 * https://github.com/adnanh/webhook
 * https://www.freedesktop.org/wiki/Software/dbus/ 
 * https://develop.kde.org/frameworks/kirigami// 
@@ -1629,7 +1703,8 @@ Not using, but good reference → software for later
 * https://click.palletsprojects.com/en/8.1.x/ ← looks really good
 * https://github.com/chris48s/stage-left, together with 
 
-- my projects
+
+* my projects
     
     name ideas: teclado, accordo, keycritic
         * https://www.makeuseof.com/set-up-raspberry-pi-as-server/ 
@@ -1772,7 +1847,7 @@ Not using, but good reference → software for later
         * [Install Ubuntu Server | Ubuntu](https://ubuntu.com/tutorials/install-ubuntu-server#6-choose-your-install)
         * [Create a Bootable Device - Alpine Linux](https://wiki.alpinelinux.org/wiki/Create_a_Bootable_Device)
     
-- nebokrai & similar
+* nebokrai & similar
         * https://github.com/simplex-chat/simplex-chat/tree/stable/apps 
         * https://github.com/simplex-chat/simplex-chat/blob/stable/apps/simplex-bot-advanced/Main.hs 
         * https://simplex.chat/blog/20231125-simplex-chat-v5-4-link-mobile-desktop-quantum-resistant-better-groups.html 
@@ -1842,217 +1917,292 @@ Not using, but good reference → software for later
         * [nebokrai/.envrc at main · yelircaasi/nebokrai](https://github.com/yelircaasi/nebokrai/blob/main/.envrc)
         * [SSH and GPG keys](https://github.com/settings/keys) 
 
+
 ## Discussion
 
-```
-Btw I use obsidian for work only, in our shared work obsidian vault
 
-- We use a canva and have multiple notes spread out on this canva with dataview showing tasks fetched by the tasks plugin
-- We have a INBOX note, actions list dataview fetching tasks with different contexts (#contexts/shallow, #contexts/deep) And we have one note for each member that shows a dataview for all tasks with the tag of the user Mine for example, is #contexts/danymat (ofc something else)
-- And other things such as waiting for, due dates, etc So that we can create notes from everywhere in the vault and it appears there Kinda cool tbh
-- ronkdar*February 3, 2024 8:15 PM*February 3, 2024 8:15 PMThat's actually pretty nifty.
+* ```
+* Btw I use obsidian for work only, in our shared work obsidian vault
 
-Never thought to use one Obsidian vault for a team
 
-- Danymat*February 3, 2024 8:18 PM*February 3, 2024 8:18 PMWe store all our Pentest notes/reports/processes/knowledge there
-- That quite good
-- Sevoris*February 4, 2024 5:36 PM*February 4, 2024 5:36 PMHow do you avoid people stepping on each other with concurrent edits?
+* We use a canva and have multiple notes spread out on this canva with dataview showing tasks fetched by the tasks plugin
+* We have a INBOX note, actions list dataview fetching tasks with different contexts (#contexts/shallow, #contexts/deep) And we have one note for each member that shows a dataview for all tasks with the tag of the user Mine for example, is #contexts/danymat (ofc something else)
+* And other things such as waiting for, due dates, etc So that we can create notes from everywhere in the vault and it appears there Kinda cool tbh
+* ronkdar*February 3, 2024 8:15 PM*February 3, 2024 8:15 PMThat's actually pretty nifty.
+
+
+* Never thought to use one Obsidian vault for a team
+
+
+* Danymat*February 3, 2024 8:18 PM*February 3, 2024 8:18 PMWe store all our Pentest notes/reports/processes/knowledge there
+* That quite good
+* Sevoris*February 4, 2024 5:36 PM*February 4, 2024 5:36 PMHow do you avoid people stepping on each other with concurrent edits?
+
 
 ### Danymat*February 5, 2024 12:34 AM*February 5, 2024 12:34 AM
 
-I dont Collab with git is a pain in the a**
 
-- Thats the only thing impeding mass adoption i think: a good live collaboration feature
+* I dont Collab with git is a pain in the a**
+
+
+* Thats the only thing impeding mass adoption i think: a good live collaboration feature
+
 
 ### sLoBbY_BoBbY*February 5, 2024 1:10 AM*February 5, 2024 1:10 AM
 
-write code in google docs
 
-- ronkdar*February 5, 2024 2:02 AM*February 5, 2024 2:02 AMReal Companies right code in Word docs via SharePoint.
-- gapps smh
-- sLoBbY_BoBbY*February 5, 2024 4:40 AM*February 5, 2024 4:40 AMUse a handwriting to text app to turn whiteboard pseudo code to actual code
+* write code in google docs
+
+
+* ronkdar*February 5, 2024 2:02 AM*February 5, 2024 2:02 AMReal Companies right code in Word docs via SharePoint.
+* gapps smh
+* sLoBbY_BoBbY*February 5, 2024 4:40 AM*February 5, 2024 4:40 AMUse a handwriting to text app to turn whiteboard pseudo code to actual code
+
 
 ### ronkdar*February 5, 2024 4:58 AM*February 5, 2024 4:58 AM
 
-Honestly I would love to have a smart whiteboard that could important my hand drawn diagrams into Visio
 
-- I am blessed with an *enormous* whiteboard in my office.
-- Sevoris*February 5, 2024 7:12 AM*February 5, 2024 7:12 AMI got the semi-shite version of that - we have treated walls that you can marker onto and use magnets on.Still very nice when you need estate to whiteboard on
-- Danymat*February 5, 2024 9:24 AM*February 5, 2024 9:24 AMLmao that’s so true
-- Danymat*February 5, 2024 9:25 AM*February 5, 2024 9:25 AMStart with excalidraw and stay there for as long as possible
-- Sevoris*February 5, 2024 10:52 AM*February 5, 2024 10:52 AMtbh much as I like it, sometimes it is frustratingly limited and I go over to [](ghttp://draw.io)
+* Honestly I would love to have a smart whiteboard that could important my hand drawn diagrams into Visio
+
+
+* I am blessed with an *enormous* whiteboard in my office.
+* Sevoris*February 5, 2024 7:12 AM*February 5, 2024 7:12 AMI got the semi-shite version of that - we have treated walls that you can marker onto and use magnets on.Still very nice when you need estate to whiteboard on
+* Danymat*February 5, 2024 9:24 AM*February 5, 2024 9:24 AMLmao that’s so true
+* Danymat*February 5, 2024 9:25 AM*February 5, 2024 9:25 AMStart with excalidraw and stay there for as long as possible
+* Sevoris*February 5, 2024 10:52 AM*February 5, 2024 10:52 AMtbh much as I like it, sometimes it is frustratingly limited and I go over to [](ghttp://draw.io)
 * [draw.io](http://draw.io)
-- ronkdar*February 5, 2024 2:23 PM*February 5, 2024 2:23 PMWork has the full MS Office suite. Why would i use anything except Visio?
-- Sevoris*February 5, 2024 2:42 PM*February 5, 2024 2:42 PMIdk, I have access as well and find Visio heavy and clunky
-- Plus it doesn‘t embedd.
-- Danymat*February 5, 2024 2:47 PM*February 5, 2024 2:47 PMUse what you like/what you’re good at/what you have/what other have
-- For me, we don’t have Visio, xmind is not that good for us, obsidian canva too limited, and [](ghttp://draw.io)
+* ronkdar*February 5, 2024 2:23 PM*February 5, 2024 2:23 PMWork has the full MS Office suite. Why would i use anything except Visio?
+* Sevoris*February 5, 2024 2:42 PM*February 5, 2024 2:42 PMIdk, I have access as well and find Visio heavy and clunky
+* Plus it doesn‘t embedd.
+* Danymat*February 5, 2024 2:47 PM*February 5, 2024 2:47 PMUse what you like/what you’re good at/what you have/what other have
+* For me, we don’t have Visio, xmind is not that good for us, obsidian canva too limited, and [](ghttp://draw.io)
 * [draw.io](http://draw.io) is good but lacks the liberty of the excalidraw canva
-- ronkdar*February 5, 2024 2:48 PM*February 5, 2024 2:48 PMFor me, SharePoint integration makes many sins forgiveable.
-- Danymat*February 6, 2024 8:39 AM*February 6, 2024 8:39 AMLucky guy
+* ronkdar*February 5, 2024 2:48 PM*February 5, 2024 2:48 PMFor me, SharePoint integration makes many sins forgiveable.
+* Danymat*February 6, 2024 8:39 AM*February 6, 2024 8:39 AMLucky guy
+
 
 ### purewater*February 6, 2024 8:58 AM*February 6, 2024 8:58 AM
 
-Wait this is Awesome
 
-- Sevoris*February 6, 2024 3:21 PM*February 6, 2024 3:21 PMKind of. Unfortenatly the base for this is the very german ingrain wallpaper, and that means there are many knoocks and cranies for marker color to be protected from when you try and wipe it off
-- judicious use of cleaning fluid is strongly advised
+* Wait this is Awesome
+
+
+* Sevoris*February 6, 2024 3:21 PM*February 6, 2024 3:21 PMKind of. Unfortenatly the base for this is the very german ingrain wallpaper, and that means there are many knoocks and cranies for marker color to be protected from when you try and wipe it off
+* judicious use of cleaning fluid is strongly advised
+
 
 ### ronkdar*February 8, 2024 3:53 PM*February 8, 2024 3:53 PM
 
-For any ADD/ADHD people here, I picked up a technique from No Boilerplate (youtuber) that integrates well with GTD: DO THE HARDEST THING FIRST.
 
-My brain regularly tries to sabotage me from doing any task that feels like a chore (high effort, low reward), so I always tend to do easy tasks first.
+* For any ADD/ADHD people here, I picked up a technique from No Boilerplate (youtuber) that integrates well with GTD: DO THE HARDEST THING FIRST.
+
+
+* My brain regularly tries to sabotage me from doing any task that feels like a chore (high effort, low reward), so I always tend to do easy tasks first.
+
 
 ### Danymat*February 8, 2024 3:54 PM*February 8, 2024 3:54 PM
 
-The famous « eat the frog
 
-?”
+* The famous « eat the frog
+
+
+* ?”
+
 
 ### ronkdar*February 8, 2024 3:54 PM*February 8, 2024 3:54 PM
 
-After I do a bunch of easy tasks, I'm out of motivation for the day, so I don't start any hard tasks.
 
-Repeat every day, and the hard tasks never get done.
+* After I do a bunch of easy tasks, I'm out of motivation for the day, so I don't start any hard tasks.
 
-So, in my Obsidian GTD system, I have tags #hard and #veryhard and filters that will push tasks with those tags closer to the top of my DO THIS NEXT list
 
-- That list is mostly sorted like:
-- tasks due today
-- tasks due this week
-- hard tasks
-- everything else
-- A hard task due today instantly goes to the top of the list.
-- Following this is challenging. My brain hates it. But I'm a lot more effective at work using this system.
-- purewater*February 8, 2024 4:56 PM*February 8, 2024 4:56 PMThis never worked for me unfortunately
-- ronkdar*February 8, 2024 5:02 PM*February 8, 2024 5:02 PMIt only barely works for me, but it's been an improvement.
+* Repeat every day, and the hard tasks never get done.
+
+
+* So, in my Obsidian GTD system, I have tags #hard and #veryhard and filters that will push tasks with those tags closer to the top of my DO THIS NEXT list
+
+
+* That list is mostly sorted like:
+* tasks due today
+* tasks due this week
+* hard tasks
+* everything else
+* A hard task due today instantly goes to the top of the list.
+* Following this is challenging. My brain hates it. But I'm a lot more effective at work using this system.
+* purewater*February 8, 2024 4:56 PM*February 8, 2024 4:56 PMThis never worked for me unfortunately
+* ronkdar*February 8, 2024 5:02 PM*February 8, 2024 5:02 PMIt only barely works for me, but it's been an improvement.
+
 
 ### adlaurentius
+
 
 ### *February 8, 2024 5:06 PM*February 8, 2024 5:06 PM
 
-Coming from an OCD guy, try to do a "pre-mortem". If you are familiar with post-mortems, it's all about finding out what happened by looking at the evidence left behind. A pre-mortem would be writing a note with the following headings:
 
-1. What do I want to do? Write exactly what you are doing and when. Do not leave room for interpretation.
-2. Why am I doing this? Explain to yourself why you are doing it. Why is it important to you?
-3. How will you do it?
-4. How will you know you have wandered from the original task?
-5. What thoughts and feelings would I need to react to to derail this action?
-- Thoughts:
+* Coming from an OCD guy, try to do a "pre-mortem". If you are familiar with post-mortems, it's all about finding out what happened by looking at the evidence left behind. A pre-mortem would be writing a note with the following headings:
 
-I have tried before and I failed. What is the point.
 
-- Feelings:
+* 1. What do I want to do? Write exactly what you are doing and when. Do not leave room for interpretation.
+* 2. Why am I doing this? Explain to yourself why you are doing it. Why is it important to you?
+* 3. How will you do it?
+* 4. How will you know you have wandered from the original task?
+* 5. What thoughts and feelings would I need to react to to derail this action?
+* Thoughts:
 
-Tiredness. Whatever.
 
-- ronkdar*February 8, 2024 5:07 PM*February 8, 2024 5:07 PMThis makes a lot of sense.
+* I have tried before and I failed. What is the point.
+
+
+* Feelings:
+
+
+* Tiredness. Whatever.
+
+
+* ronkdar*February 8, 2024 5:07 PM*February 8, 2024 5:07 PMThis makes a lot of sense.
+
 
 ### adlaurentius
+
 
 ### *February 8, 2024 5:07 PM*February 8, 2024 5:07 PM
 
-The most useful things are writing why you are doing it, because when you are being pulled by urges, you brain is going to find very difficult to remember why you are putting yourself in such an uncomfortable situation
+
+* The most useful things are writing why you are doing it, because when you are being pulled by urges, you brain is going to find very difficult to remember why you are putting yourself in such an uncomfortable situation
+
 
 ### ronkdar*February 8, 2024 5:07 PM*February 8, 2024 5:07 PM
 
-I help an OCD friend answer these questions for herself, when she's trying to work through whether what she's doing is rational or not.
+
+* I help an OCD friend answer these questions for herself, when she's trying to work through whether what she's doing is rational or not.
+
 
 ### adlaurentius
+
 
 ### *February 8, 2024 5:08 PM*February 8, 2024 5:08 PM
 
-And the thoughts bit, so that they don't catch you by surprise, so you are ready for them and don't buy into them
 
-- ronkdar*February 8, 2024 5:08 PM*February 8, 2024 5:08 PMYeah that makes a lot of sense.
-- For AD(H)D, capturing tasks, processing, and assigning dates and other tags is the same kind of pre-mortem.
+* And the thoughts bit, so that they don't catch you by surprise, so you are ready for them and don't buy into them
 
-### adlaurentius
 
-- *February 8, 2024 5:09 PM*February 8, 2024 5:09 PMYeah, I imagine there's a lot of overlap
-- ronkdar*February 8, 2024 5:09 PM*February 8, 2024 5:09 PMSetting everything up ahead of time so my brain can't sabotage me when I'm not paying attention.
+* ronkdar*February 8, 2024 5:08 PM*February 8, 2024 5:08 PMYeah that makes a lot of sense.
+* For AD(H)D, capturing tasks, processing, and assigning dates and other tags is the same kind of pre-mortem.
+
 
 ### adlaurentius
 
-- *February 8, 2024 5:09 PM*February 8, 2024 5:09 PMExcept that maybe for me it's more anxiety/dread rather than excitement or boredom that pushes me around
-- ronkdar*February 8, 2024 5:09 PM*February 8, 2024 5:09 PMYeah, sure
+
+* *February 8, 2024 5:09 PM*February 8, 2024 5:09 PMYeah, I imagine there's a lot of overlap
+* ronkdar*February 8, 2024 5:09 PM*February 8, 2024 5:09 PMSetting everything up ahead of time so my brain can't sabotage me when I'm not paying attention.
+
 
 ### adlaurentius
+
+
+* *February 8, 2024 5:09 PM*February 8, 2024 5:09 PMExcept that maybe for me it's more anxiety/dread rather than excitement or boredom that pushes me around
+* ronkdar*February 8, 2024 5:09 PM*February 8, 2024 5:09 PMYeah, sure
+
+
+### adlaurentius
+
 
 ### *February 8, 2024 5:10 PM*February 8, 2024 5:10 PM
 
-Tell her to check out Mark Freeman in youtube
 
-- It's like a gold mine of info
-- I don't do the meditation stuff but the rest I have found very useful
-- ant*February 8, 2024 5:34 PM*February 8, 2024 5:34 PMI use work cycles. I have a nested template. First level is what I need to accomplish, with some prompts to help me zone in and anticipate what could go wrong or what could be a distraction. The inner level is 35 pomodoro and a couple more prompts. I add inner cycles s needed. Each level has a couple of prompts to complete at the end of the task for reflection and planning.
-- WildRage*February 8, 2024 6:00 PM*February 8, 2024 6:00 PMooh that's so smart, I normally rely on things like body doubling and trying to lower the ease of access to all of my tasks because the easier it is to start them, the more likely I am to end up doing them
-- ronkdar*February 8, 2024 7:37 PM*February 8, 2024 7:37 PMBody doubling?
+* Tell her to check out Mark Freeman in youtube
 
-Yeah ease of access is key. I also found that if a task is many steps long, I won't start it.
 
-- Vhyrro*February 8, 2024 7:44 PM*February 8, 2024 7:44 PMthis is why GTD has a concept of an actionable which you create during the processing phase
-- An example is on hamberg's page. You take notes of general ideas but when you process your inbox you usually convert those abstract ideas into actionable stuff:The next action needs to be aphysical visible
+* It's like a gold mine of info
+* I don't do the meditation stuff but the rest I have found very useful
+* ant*February 8, 2024 5:34 PM*February 8, 2024 5:34 PMI use work cycles. I have a nested template. First level is what I need to accomplish, with some prompts to help me zone in and anticipate what could go wrong or what could be a distraction. The inner level is 35 pomodoro and a couple more prompts. I add inner cycles s needed. Each level has a couple of prompts to complete at the end of the task for reflection and planning.
+* WildRage*February 8, 2024 6:00 PM*February 8, 2024 6:00 PMooh that's so smart, I normally rely on things like body doubling and trying to lower the ease of access to all of my tasks because the easier it is to start them, the more likely I am to end up doing them
+* ronkdar*February 8, 2024 7:37 PM*February 8, 2024 7:37 PMBody doubling?
 
-So if you have a multi-step problem, be sure to break it down into smaller and most importantly actionable subtasks
+
+* Yeah ease of access is key. I also found that if a task is many steps long, I won't start it.
+
+
+* Vhyrro*February 8, 2024 7:44 PM*February 8, 2024 7:44 PMthis is why GTD has a concept of an actionable which you create during the processing phase
+* An example is on hamberg's page. You take notes of general ideas but when you process your inbox you usually convert those abstract ideas into actionable stuff:The next action needs to be aphysical visible
+
+
+* So if you have a multi-step problem, be sure to break it down into smaller and most importantly actionable subtasks
+
 
 ### adlaurentius
+
 
 ### *February 8, 2024 8:33 PM*February 8, 2024 8:33 PM
 
-If I could have learnt only one productivity rule earlier in my life, it would be that one
 
-- 
-- GTD is worth it just for that bit
+* If I could have learnt only one productivity rule earlier in my life, it would be that one
 
-I remember once someone who wrote a post about GTD stuff, and said something like: "Imagine I asked you to wash one single plate. Just one. Would you argue with me? No, you would do it, just because. Just to see where I am going with this"
 
-- 
-- It's like reverse addition. No one gets addicted to something just by deciding to ruin their lives. No, they do something "just this once". "Just once more".
+* 
+* GTD is worth it just for that bit
+
+
+* I remember once someone who wrote a post about GTD stuff, and said something like: "Imagine I asked you to wash one single plate. Just one. Would you argue with me? No, you would do it, just because. Just to see where I am going with this"
+
+
+* 
+* It's like reverse addition. No one gets addicted to something just by deciding to ruin their lives. No, they do something "just this once". "Just once more".
+
 
 ### purewater*February 9, 2024 6:28 PM*February 9, 2024 6:28 PM
 
-If only I could trick myself into doing dishes by washing a single plate
 
-- 
-- ronkdar*February 9, 2024 6:28 PM*February 9, 2024 6:28 PMSeriously.
+* If only I could trick myself into doing dishes by washing a single plate
+
+
+* 
+* ronkdar*February 9, 2024 6:28 PM*February 9, 2024 6:28 PMSeriously.
+
 
 ### adlaurentius
 
-- *February 9, 2024 9:04 PM*February 9, 2024 9:04 PMI used to do a specific strategy for dishes. I would watch something that had ads, and while the ads were on, I would run to the kitchen and wash dishes while the ads lasted. Once the program started again, I would leave it where it was until the next break. It was like a remote pomodoro thing
-- If you cannot answer the question "how long is this going to go on for?" you are losing
-- B4mbus*February 9, 2024 10:08 PM*February 9, 2024 10:08 PMYeah that's the frog technique, "eat the biggest frog first", but it's kinda weird it works for you, as AD(H)D people typically don't have the dopamine to start the biggest tasks first so sticking with the easiest and working your way up should be better. If you're not AD(H)D paralyzed when thinking of doing the big task it's fine. The 2 minute rule plays nicely here.
-- B4mbus*February 9, 2024 10:09 PM*February 9, 2024 10:09 PMThis is less or more eisenhower matrix I guess?
-- Im curious about your Obsidian workflow, I also have ADHD, do you think just plain old notes app would work? Or do some of the Obsidian's automations actually helped you a lot?
-- B4mbus*February 9, 2024 10:44 PM*February 9, 2024 10:44 PM [](ghttps://hamberg.no/gtd/)
+
+* *February 9, 2024 9:04 PM*February 9, 2024 9:04 PMI used to do a specific strategy for dishes. I would watch something that had ads, and while the ads were on, I would run to the kitchen and wash dishes while the ads lasted. Once the program started again, I would leave it where it was until the next break. It was like a remote pomodoro thing
+* If you cannot answer the question "how long is this going to go on for?" you are losing
+* B4mbus*February 9, 2024 10:08 PM*February 9, 2024 10:08 PMYeah that's the frog technique, "eat the biggest frog first", but it's kinda weird it works for you, as AD(H)D people typically don't have the dopamine to start the biggest tasks first so sticking with the easiest and working your way up should be better. If you're not AD(H)D paralyzed when thinking of doing the big task it's fine. The 2 minute rule plays nicely here.
+* B4mbus*February 9, 2024 10:09 PM*February 9, 2024 10:09 PMThis is less or more eisenhower matrix I guess?
+* Im curious about your Obsidian workflow, I also have ADHD, do you think just plain old notes app would work? Or do some of the Obsidian's automations actually helped you a lot?
+* B4mbus*February 9, 2024 10:44 PM*February 9, 2024 10:44 PM [](ghttps://hamberg.no/gtd/)
 * [https://hamberg.no/gtd/](https://hamberg.no/gtd/)
-- Im reading this and ngl that gtd stuff seems kinda complicated
-- Or my ADHD brain just makes it seem hard
-- Managing lists, contexts, calendars
-- ronkdar*February 9, 2024 10:51 PM*February 9, 2024 10:51 PMI use the automations to tell me what to do next
-- Because I can't be trusted to decide for myself.
+* Im reading this and ngl that gtd stuff seems kinda complicated
+* Or my ADHD brain just makes it seem hard
+* Managing lists, contexts, calendars
+* ronkdar*February 9, 2024 10:51 PM*February 9, 2024 10:51 PMI use the automations to tell me what to do next
+* Because I can't be trusted to decide for myself.
 
-The hard part is obeying my own system. I do not always succeed.
 
-- 
-- ronkdar*February 9, 2024 10:52 PM*February 9, 2024 10:52 PMYou only have to use the parts you need.
-- I don't use contexts or a tasks calendar.
-- I sort tasks by literal work project.
-- The important bit is the capture-process-act cycle.
-- Because I forget shit all the time, the capture part is the biggest deal for me.
+* The hard part is obeying my own system. I do not always succeed.
 
-It should be as easy and fast as possible to capture a task or idea for later processing. No pressure to process it right away. Just write it the fuck down and move on.
 
-Keeps me from getting distracted from my current task when new tasks arrive (emails or phone calls)
+* 
+* ronkdar*February 9, 2024 10:52 PM*February 9, 2024 10:52 PMYou only have to use the parts you need.
+* I don't use contexts or a tasks calendar.
+* I sort tasks by literal work project.
+* The important bit is the capture-process-act cycle.
+* Because I forget shit all the time, the capture part is the biggest deal for me.
 
-@B4mbus if you ping me in a few hours I'll boot up my work laptop and share my Dashboard note. It does useful things for me.
 
-(If you don't I'll forget lmao)
+* It should be as easy and fast as possible to capture a task or idea for later processing. No pressure to process it right away. Just write it the fuck down and move on.
+
+
+* Keeps me from getting distracted from my current task when new tasks arrive (emails or phone calls)
+
+
+* @B4mbus if you ping me in a few hours I'll boot up my work laptop and share my Dashboard note. It does useful things for me.
+
+
+* (If you don't I'll forget lmao)
+
 
 ### B4mbus*February 9, 2024 10:59 PM*February 9, 2024 10:59 PM
 
-Ill ping you in about 7 because Im off to sleep soon, haha, I wont forget because my ADHD is curious of pings and I can just mark your message as unread so Ill see the ping :p
+
+* Ill ping you in about 7 because Im off to sleep soon, haha, I wont forget because my ADHD is curious of pings and I can just mark your message as unread so Ill see the ping :p
 
 
-```
+* ```

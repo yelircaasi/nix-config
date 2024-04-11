@@ -1,191 +1,375 @@
 # General Programming and Computer Science
 
+Adapter, Bridge, Composition over inheritance,
+
 ## Reading List
 
+FP discussion https://www.reddit.com/r/functionalprogramming/s/mvp30BfqJW
 
 proc [https://thenewstack.io/dev-news-vite-rust-ifies-roc-language-js-framework-sdks/](https://thenewstack.io/dev-news-vite-rust-ifies-roc-language-js-framework-sdks/) 
 
 prog  [Category:Programming language concepts - Wikipedia](https://en.wikipedia.org/wiki/Category:Programming_language_concepts) 
+
 prog  [Getting started - Command Line Applications in Rust](https://rust-cli.github.io/book/index.html) 
+
 prog  [Golang for Python Devs - CodeRed](https://www.coderedcorp.com/blog/golang-for-python-devs/) 
+
 prog  [Introduction to Python Threads](http://troubleshooters.com/codecorn/python/threads_intro.htm) 
+
 prog  [Introdução à programação em Julia](https://juliaintro.github.io/JuliaIntroBR.jl/) 
+
 prog  [John Scholes - APL Wiki](https://aplwiki.com/wiki/John_Scholes)
+
 prog  [Laurence Tratt: Dynamically Typed Languages](https://tratt.net/laurie/research/pubs/html/tratt__dynamically_typed_languages/) 
+
 prog  [Laurence Tratt: Selected publications](https://tratt.net/laurie/research/pubs/) 
+
 prog  [Linters and formatters — Essential Python Tools 3.7 documentation](https://books.agiliq.com/projects/essential-python-tools/en/latest/linters.html) 
+
 prog  [On Lisp](https://sep.turbifycdn.com/ty/cdn/paulgraham/onlisp.pdf?t%3D1688221954%26) 
+
 prog  [On Understanding Types, Data Abstraction, and Polymorphism](http://lucacardelli.name/Papers/OnUnderstanding.A4.pdf) 
+
 prog  [Programming language - Wikipedia](https://en.wikipedia.org/wiki/Programming_language) 
+
 prog  [Template:Data types - Wikipedia](https://en.wikipedia.org/wiki/Template:Data_types) 
+
 prog  [The Rust Programming Language - The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html) 
+
 prog  [Type Systems.fm - TypeSystems.pdf](http://lucacardelli.name/Papers/TypeSystems.pdf) :w(https://tratt.net/laurie/research/pubs/html/tratt__dynamically_typed_languages/)
+
 prog  [Types and Programming Languages - Wikipedia](https://en.wikipedia.org/wiki/Types_and_Programming_Languages) 
+
 prog  [Typing — pysheeet](https://www.pythonsheets.com/notes/python-typing.html) 
+
 prog  [Usage instructions for pypi-command-line - pypi-command-line](https://wasi-master.github.io/pypi-command-line/usage/) 
+
 prog  [Welcome! — Python for designers](https://pythonfordesigners.com/)
+
 prog  [Why Rust is the most admired language among developers - The GitHub Blog](https://github.blog/2023-08-30-why-rust-is-the-most-admired-language-among-developers/) 
+
 prog  [Writing an OS in Rust](https://os.phil-opp.com/) 
+
 prog  [https://pubs.opengroup.org/onlinepubs/9699919799/](https://pubs.opengroup.org/onlinepubs/9699919799/)
+
 prog  [https://thenewstack.io/dev-news-vite-rust-ifies-roc-language-js-framework-sdks/](https://thenewstack.io/dev-news-vite-rust-ifies-roc-language-js-framework-sdks/) 
+
 prog  [https://www.reddit.com/r/functionalprogramming/s/CbVacarWdY](https://www.reddit.com/r/functionalprogramming/s/CbVacarWdY) functional and typing
+
 prog  [juliaintro](https://juliaintro.github.io/JuliaIntroBR.jl/)
+
 prog  [lincc-frameworks/python-project-template: LINCC Frameworks scaffolding for Python project best practices](https://github.com/lincc-frameworks/python-project-template)
+
 prog  [redas24/idiomatic.js: Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/redas24/idiomatic.js) 
+
 prog  [tqdm/tqdm: :zap: A Fast, Extensible Progress Bar for Python and CLI](https://github.com/tqdm/tqdm)
+
 prog  [xkcd: Python Environment](https://xkcd.com/1987/) 
+
 prog  bücher19133390 Wcm 2 JAVA Bloc 24.11.2023 HBloch, Joshua: Effective Java10031889 Oel 5 Lang 24.11.2023 HLangenscheidt Taschenwörterbuch...19112688 Tdk Sigg 24.11.2023 HSigg, Timm: Grundlagen der Differenzialgleichunge...20391708 15 Garc 24.11.2023 HGarcía Márquez, G...: Cien anos de soledad13056508 Oel 2 Meye 24.11.2023 HMeyer, Thomas: Grund- und Aufbauwortschatz Griechisch21177628 Wcm 2 JAVASCRIPT Hor 24.11.2023 HHorstmann, Cay: JavaScript für Ungeduldige21218611 Oem 5 Lang 24.11.2023 HLangenscheidt Taschenwörterbuch Latein22102016 Mcl 1 Csik 24.11.2023 HCsikszentmihalyi,...: Flow20367667 Wcm 2 KOTLIN Szwi 24.11.2023 HSzwillus, Karl: Kotlin16123449 Tcn Jaen 24.11.2023 HJänich, Klaus: Lineare Algebra19340869 Mcl 1 Hamm 24.11.2023 HHammer, Matthias: Micro Habits08099468 17 Prim 24.11.2023 HPrima lectio15283163 Tcn Raes 24.11.2023 HRäsch, Thoralf: Lineare Algebra II21138741 Wcm 2 JAVASCRIPT Hav 24.11.2023 HHaverbeke, Marijn: JavaScript
+
 prog ## [Making Snake Boot Sector Game in Assembly (x86) - YouTube](https://www.youtube.com/watch?v%3DtHO5x_Ha6pE)
+
 prog ## wezterm-python-pdf-reader - write a terminal PDF reader for wezterm using python, matplotlib, and matplotlib, together with python pdf library and matplotlib-backend-wezterm
+
 prog History of X11 [yt](https://www.youtube.com/watch?v%3DR-N-fgKWYGU)
+
 prog [8 ways JavaScript is just... different. - YouTube](ghttps://www.youtube.com/watch?v%3DkYAe7qDGOJw)
+
 prog [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html%23Pattern-Matching)
+
 prog [Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax/%23blockquotes-1)
+
 prog [Become a bash scripting pro - full course - YouTube](ghttps://www.youtube.com/watch?v%3D4ygaA_y1wvQ)
+
 prog [Computer Networking For LANs To WANs: Hardware, Software And security](http://libgen.rs/book/index.php?md5%3DA5D01C0792398CF7CD53977AFA32A2B2) Groups book
+
 prog [Dash Documentation & User Guide | Plotly](https://dash.plotly.com/)
+
 prog [Dev](https://chat.openai.com/c/c41a9650-39c9-4976-ac60-7ee9b054e3da)
+
 prog [Erlang in 100 Seconds - YouTube](ghttps://www.youtube.com/watch?v%3DM7uo5jmFDUw)
+
 prog [Every programming language explained in 15 minutes | Prime Reacts - YouTube](https://www.youtube.com/watch?v%3DjQiYW3RXkFU)
+
 prog [ForSyDe | A Methodology for Formal System Design](ghttps://forsyde.github.io/)
+
 prog [Gleam](ghttps://gleam.run/)
+
 prog [How Lisp Became God's Own Programming Language](ghttps://twobithistory.org/2018/10/14/lisp.html)
+
 prog [How to Design a Network Messaging Protocol! - YouTube](https://www.youtube.com/watch?v%3DkH7P1ZX44DQ)
+
 prog [How to Write a Linux Daemon from Start to Finish! - YouTube](https://www.youtube.com/watch?v%3D9nDYYc_7sKs)
+
 prog [Kubernetes Primer: Fundamentals - Chetan Bhasin](https://chetanbhasin.com/articles/kubernetes-primer-fundamentals)
+
 prog [Lambda - Haxe - The Cross-platform Toolkit](https://haxe.org/manual/std-Lambda.html)
+
 prog [Learn Backend Development the Fun Way | Boot.dev](https://www.boot.dev/)
+
 prog [Learn Emacs Lisp in 30 Minutes - YouTube](ghttps://www.youtube.com/watch?v%3D1y__2IK-aLM)
+
 prog [Library Genesis: Alberto Pettorossi - Techniques for Searching, Parsing, and Matching](https://libgen.is/book/index.php?md5%3D2784D2D9DF8E02BFA17558101113F5CD)
+
 prog [Library Genesis: Andreas M. Antonopoulos, David A. Harding - Mastering Bitcoin: Programming the Open Blockchain](http://libgen.rs/book/index.php?md5%3D89C551A4BE0DDE91D90110C199597E5C)
+
 prog [Library Genesis: Andrew S. Tanenbaum, David J. Wetherall, D. Maggiorini (editor), S. Gaito (editor) - Reti di calcolatori. Ediz. Mylab. Con aggiornamento online. Con ebook](http://libgen.rs/book/index.php?md5%3D9219C1ECD26808B82C69E8642F43A00E)# Untitled
+
 prog [Library Genesis: Bruno R. Preiss - Lexical Analysis and Parsing using C++](https://libgen.is/book/index.php?md5%3DD20D37C0D1FB9076D518DF519162B7B4)
+
 prog [Library Genesis: Bunt Harry, Nijholt Anton (auth.), Harry Bunt, Anton Nijholt (eds.) - Advances in Probabilistic and Other Parsing Technologies](https://libgen.is/book/index.php?md5%3D21B83325AF2B2A3829615464C136E3CE)
+
 prog [Library Genesis: Bunt, Harry C(Editor);Merlo, Paola(Editor);Nivre, Joakim(Editor) - Trends In Parsing Technology: Dependency Parsing, Domain Adaptation, And Deep Parsing (Text, Speech And Language Technology)](https://libgen.is/book/index.php?md5%3D1B1B9F8CF07980C83FB25A6E20AD5B0C)
+
 prog [Library Genesis: Carlo Milanesi - Creative Projects for Rust Programmers: Build exciting projects on domains such as web apps, WebAssembly, games, and parsing](https://libgen.is/book/index.php?md5%3D623BEC88FB2B2FD627860A706828E8F4)
+
 prog [Library Genesis: Charles N. Fischer, Ron K. Cytron, Richard J. LeBlanc - Crafting A Compiler](ghttps://libgen.rs/book/index.php?md5%3D3F7B11BCB59C91689586976AA9977305)
+
 prog [Library Genesis: Christian Wagenknecht, Michael Hielscher (auth.) - Formale Sprachen, abstrakte Automaten und Compiler: Lehr- und Arbeitsbuch für Grundstudium und Fortbildung](ghttps://libgen.rs/book/index.php?md5%3D8AB97826A959A37179203BCB94BBF28D)
+
 prog [Library Genesis: Dick Grune, Ceriel J.H. Jacobs - Parsing Techniques. A practical Guide](https://libgen.is/book/index.php?md5%3D926AD9324EC0FFA2D2EB46B5628E3C7D)
+
 prog [Library Genesis: Greg L. Turnquist - Learning Spring Boot 3.0: Simplify the development of production-grade applications using Java and Spring, 3rd Edition](http://libgen.rs/book/index.php?md5%3D9953E1F476F1CE364CC84F0EAC717EE0)
+
 prog [Library Genesis: James F. Kurose; Ángel Pérez de Madrid y Pablo; Carolina Mañoso Hierro; Keith W. Ross; Vuelapluma S.A. - Redes de computadoras: un enfoque descendente](http://libgen.rs/book/index.php?md5%3D4C4AFAC6E258C45AD9D31A148526BCB7)
+
 prog [Library Genesis: Jeuring J., Swierstra D. - Grammars and parsing](https://libgen.is/book/index.php?md5%3D4986B6B30293A96D1436D7BA1C80CCDB)
+
 prog [Library Genesis: Juha Hinkula - Full Stack Development with Spring Boot 3 and React: Build modern web applications using the power of Java, React, and TypeScript](http://libgen.rs/book/index.php?md5%3DE861A87D02E5B82C064DC1D72BDD8546)
+
 prog [Library Genesis: K. Siva Prasad Reddy, Sai Upadhyayul - Beginning Spring Boot 3](http://libgen.rs/book/index.php?md5%3D83AC75188F58A8D90B790CB7BD7C7290)
+
 prog [Library Genesis: Keith W. Ross James F. Kurose - Reti di calcolatori e internet. Un approccio top-down. Con aggiornamento online](http://libgen.rs/book/index.php?md5%3D075135A61CB90748F2014D59F181F3D3)
+
 prog [Library Genesis: Magnus Larsson - Microservices with Spring Boot 3 and Spring Cloud: Build resilient and scalable microservices [Team-IRA] (True PDF)](http://libgen.rs/book/index.php?md5%3D4CBB659BC0F967BD6A4C0627D3252B23)
+
 prog [Library Genesis: Mark Heckler - Spring Boot: Cloud-native Anwendungen mit Java und Kotlin erstellen](http://libgen.rs/book/index.php?md5%3DC99B527E7AB5F96BCCBF1C2C9665AA96)
+
 prog [Library Genesis: Mark Heckler - Spring Boot: Up and Running - Building Cloud Native Java and Kotlin Applications](http://libgen.rs/book/index.php?md5%3D920B718A05F31B275CB39F0B323D7361)
+
 prog [Library Genesis: Melanie Swan - Blockchain: Blueprint for a New Economy](http://libgen.rs/book/index.php?md5%3DB95D1E4464D572D397F0F60C47553391)
+
 prog [Library Genesis: Moisés Macero García, Tarun Telang - Learn Microservices with Spring Boot 3: A Practical Approach Using Event-Driven Architecture, Cloud-Native Patterns, and Containerization](http://libgen.rs/book/index.php?md5%3D543C996C0AA16F9F7977975E81C93F02)
+
 prog [Library Genesis: SOURABH SHARMA - Modern API Development with Spring 6 and Spring Boot 3: Design scalable, viable, and reactive APIs with REST, gRPC, and GraphQL](http://libgen.rs/book/index.php?md5%3DC91B962A5E4D8E5027DA678E2094EE71)
+
 prog [Library Genesis: Somnath Musib - Spring Boot in Practice](http://libgen.rs/book/index.php?md5%3DFEE6FB20329F9A1DE12C72712E0A6818)
+
 prog [Library Genesis: Thomas Vitale - Cloud Native Spring in Action with Spring Boot And Kubernetes](http://libgen.rs/book/index.php?md5%3DDBDD55CEAFC37000741371636011782D)
+
 prog [Library Genesis: Thomas Vitale - Cloud Native Spring in Action: With Spring Boot and Kubernetes](http://libgen.rs/book/index.php?md5%3DE956A2261695849B83AE41AD386D6D87)
+
 prog [Library Genesis: it-ebooks - Parsing Techniques A Practical Guide](https://libgen.is/book/index.php?md5%3DF90FC0FC737EB67CD983861028D7B380)
+
 prog [Library Genesis: Марк Хеклер - Spring Boot по-быстрому](http://libgen.rs/book/index.php?md5%3D379F73AB35B38CA578B0E033F6EBB657)
+
 prog [Library Genesis](ghttps://libgen.rs/search.php?%26req%3Dcompiler%26phrase%3D1%26view%3Dsimple%26column%3Ddef%26sort%3Dyear%26sortmode%3DDESC)
+
 prog [Mastering Memory: Allocation Techniques in C, C++, and ARM Assembly - YouTube](ghttps://www.youtube.com/watch?v%3DHlUBE70h2C0)
+
 prog [Modular Mathematics Series](http://libgen.is/search.php?req%3Dmodular%2Bmathematics%2Bseries%26open%3D0%26res%3D25%26view%3Dsimple%26phrase%3D1%26column%3Ddef) Mathematical Linguistics
+
 prog [Parsing TeX into mathematics](https://libgen.is/book/index.php?md5%3D8A3560286D25DA895E17387406FEA865) Теория катигорий для программиста.pdf
+
 prog [Rapid Learning for the 21st Century](http://www.troubleshooters.com/bookstore/rl21.htm)
+
 prog [Resultados de búsqueda - Google Drive](https://drive.google.com/drive/search?q%3DMathematical%2520Linguistics) 
+
 prog [Rules of Readability - Spring 2024 - YouTube](https://www.youtube.com/watch?v%3DlIIOrbYlRmU)
+
 prog [S-Lang Programmer's Library](ghttps://www.jedsoft.org/slang/)# Untitled
+
 prog [SoccerFun: Football simulation framework for teaching functional programming](ghttps://hackage.haskell.org/package/SoccerFun)
+
 prog [Svelte UI Libraries Have Leveled Up - YouTube](https://m.youtube.com/watch?v%3DjwRqiCv6Z9k)** 
+
 prog [Unisay/purescript-lua: Purescript compiler back-end for Lua](https://github.com/Unisay/purescript-lua)
+
 prog [WHY IS THE STACK SO FAST? - YouTube](https://www.youtube.com/watch?v%3DN3o5yHYLviQ)
+
 prog [forsyde-shallow: ForSyDe's Haskell-embedded Domain Specific Language.](ghttps://hackage.haskell.org/package/forsyde-shallow)
+
 prog [https://bestofjs.org](https://bestofjs.org) 
+
 prog [https://blog.logrocket.com/using-dioxus-rust-build-single-page-apps/](https://blog.logrocket.com/using-dioxus-rust-build-single-page-apps/) 
+
 prog [https://blog.miguelgrinberg.com/post/microdot-yet-another-python-web-framework](https://blog.miguelgrinberg.com/post/microdot-yet-another-python-web-framework) 
+
 prog [https://blog.yoshuawuyts.com/extending-rusts-effect-system/](https://blog.yoshuawuyts.com/extending-rusts-effect-system/)
+
 prog [https://conservatory.scheme.org/schemers/Documents/Standards/R5RS/HTML/](https://conservatory.scheme.org/schemers/Documents/Standards/R5RS/HTML/) 
+
 prog [https://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference](ghttps://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference)
+
 prog [https://dev.to/bravinsimiyu/30-best-web-development-frameworks-for-2023-a-comprehensive-guide-512i](https://dev.to/bravinsimiyu/30-best-web-development-frameworks-for-2023-a-comprehensive-guide-512i) 
+
 prog [https://discord.com/channels/834325286664929280/877900210297270272/1205164792327831623](https://discord.com/channels/834325286664929280/877900210297270272/1205164792327831623)
+
 prog [https://duckduckgo.com/?q=best](https://duckduckgo.com/?q%3Dbest) framework for a small web service with user authentification and online payment&ko=-1&ia=web 
+
 prog [https://fasterthanli.me/series/building-a-rust-service-with-nix/part-10#setting-up-direnv-and-nix-direnv](https://fasterthanli.me/series/building-a-rust-service-with-nix/part-10%23setting-up-direnv-and-nix-direnv)
+
 prog [https://github.com/kushall09/the-art-of-command-line](https://github.com/kushall09/the-art-of-command-line) 
+
 prog [https://github.com/savedra1/clipse](ghttps://github.com/savedra1/clipse)
+
 prog [https://gleam.run/](https://gleam.run/)
+
 prog [https://libgen.rs/book/index.php?md5=7F9996F3FFAC4C7429BF8013D8BA2D59](https://libgen.rs/book/index.php?md5%3D7F9996F3FFAC4C7429BF8013D8BA2D59) Interpreter in Go
+
 prog [https://libgen.rs/book/index.php?md5=AB2EF57DCAAED64759B089E71BFDB58D](https://libgen.rs/book/index.php?md5%3DAB2EF57DCAAED64759B089E71BFDB58D) Compiler in Go
+
 prog [https://libgen.rs/search.php?req=architecture+of+open-source&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def](https://libgen.rs/search.php?req%3Darchitecture%2Bof%2Bopen-source%26lg_topic%3Dlibgen%26open%3D0%26view%3Dsimple%26res%3D25%26phrase%3D1%26column%3Ddef)
+
 prog [https://lisp-journey.gitlab.io/blog/oh-no-i-started-a-magit-like-plugin-for-the-lem-editor/](https://lisp-journey.gitlab.io/blog/oh-no-i-started-a-magit-like-plugin-for-the-lem-editor/)
+
 prog [https://matklad.github.io/2023/03/26/zig-and-rust.html](https://matklad.github.io/2023/03/26/zig-and-rust.html)
+
 prog [https://matklad.github.io/2023/03/26/zig-and-rust.html](https://matklad.github.io/2023/03/26/zig-and-rust.html) 
+
 prog [https://opensource.com/article/20/11/cockpit-server-management](https://opensource.com/article/20/11/cockpit-server-management) 
+
 prog [https://opensource.stackexchange.com/questions/10644/why-did-google-make-chromium-open-source](https://opensource.stackexchange.com/questions/10644/why-did-google-make-chromium-open-source)
+
 prog [https://pkl-lang.org/blog/introducing-pkl.html](https://pkl-lang.org/blog/introducing-pkl.html)
+
 prog [https://risingstars.js.org/2023/es](https://risingstars.js.org/2023/es) 
+
 prog [https://vadimkravcenko.com/shorts/why-software-projects-fail/](ghttps://vadimkravcenko.com/shorts/why-software-projects-fail/)
+
 prog [https://wiki.archlinux.org/title/Environment_variables](https://wiki.archlinux.org/title/Environment_variables)
+
 prog [https://wordsandbuttons.online/the_real_cpp_killers.html](https://wordsandbuttons.online/the_real_cpp_killers.html)
+
 prog [https://www.atlassian.com/git](https://www.atlassian.com/git)
+
 prog [https://www.freecodecamp.org/news/learn-app-development-with-spring-boot-3/](https://www.freecodecamp.org/news/learn-app-development-with-spring-boot-3/)
+
 prog [https://www.freecodecamp.org/news/learn-typescript-for-practical-projects](https://www.freecodecamp.org/news/learn-typescript-for-practical-projects)
+
 prog [https://www.heise.de/news/Der-Generator-fuer-Programmiersprachen-Langium-wird-schneller-und-schlanker-9649361.html](https://www.heise.de/news/Der-Generator-fuer-Programmiersprachen-Langium-wird-schneller-und-schlanker-9649361.html)
+
 prog [https://www.heise.de/news/Kotlin-macht-Ernst-mit-der-plattformuebergreifenden-Programmierung-9352485.html](https://www.heise.de/news/Kotlin-macht-Ernst-mit-der-plattformuebergreifenden-Programmierung-9352485.html) 
+
 prog [https://www.heise.de/news/Python-3-13-Endlich-effizienteres-Multithreading-ohne-Global-Interpreter-Lock-9655663.html](https://www.heise.de/news/Python-3-13-Endlich-effizienteres-Multithreading-ohne-Global-Interpreter-Lock-9655663.html)
+
 prog [https://www.modular.com/blog/how-to-be-confident-in-your-performance-benchmarking](https://www.modular.com/blog/how-to-be-confident-in-your-performance-benchmarking)
+
 prog [https://www.modular.com/newsletters/modverse-weekly-27](https://www.modular.com/newsletters/modverse-weekly-27)
+
 prog [https://www.modular.com/newsletters](https://www.modular.com/newsletters)
+
 prog [https://www.reddit.com/r/functionalprogramming/s/fnze9msZuk](https://www.reddit.com/r/functionalprogramming/s/fnze9msZuk) Nevalang
+
 prog [https://www.reddit.com/r/functionalprogramming/s/mk8sFg1O8I](https://www.reddit.com/r/functionalprogramming/s/mk8sFg1O8I) Python x Rust
+
 prog [https://www.shuttle.rs/blog/2024/01/18/parsing-json-rust](https://www.shuttle.rs/blog/2024/01/18/parsing-json-rust) 
+
 prog [hyprwm/hyprlang: The official implementation library for the hypr config language.](https://github.com/hyprwm/hyprlang) 
+
 prog [kotlin](https://www.heise.de/news/Kotlin-macht-Ernst-mit-der-plattformuebergreifenden-Programmierung-9352485.html)
+
 prog [markdown-guide/_basic-syntax/horizontal-rules.md at master · mattcone/markdown-guide](https://github.com/mattcone/markdown-guide/blob/master/_basic-syntax/horizontal-rules.md)
+
 prog [programming languages - Is LISP still useful in today's world? Which version is most used? - Software Engineering Stack Exchange](ghttps://softwareengineering.stackexchange.com/questions/55284/is-lisp-still-useful-in-todays-world-which-version-is-most-used)
+
 prog [psychology of computer programming at DuckDuckGo](https://duckduckgo.com/?q%3Dpsychology%2Bof%2Bcomputer%2Bprogramming%26ia%3Dweb)
+
 prog [ts vs js](https://blog.logrocket.com/typescript-vs-purescript-not-all-compilers-are-created-equal-c16dadaa7d3e/)
+
 prog bash  [The Confusion With Linux Shells - YouTube](https://www.youtube.com/watch?v%3D6FHd-rBM2Mc)
+
 prog bash  [dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.](https://github.com/dylanaraps/pure-bash-bible) 
+
 prog bash [Xargs Explained - YouTube](https://www.youtube.com/watch?v%3DHK1wAV9x4-A)
+
 prog create pomodoro widget for ags
+
 prog dash  [dash/dash.git - DASH Shell](https://git.kernel.org/pub/scm/utils/dash/dash.git)
+
 prog go [Go is Surprisingly Easy - YouTube](https://www.youtube.com/watch?v%3DE7pxGyEcPNI)
+
 prog humor [https://www.unixprogram.com/churchofbsd/](https://www.unixprogram.com/churchofbsd/)
+
 prog idris [Idris 2: Quantitative Types in Action - Edwin Brady - YouTube](https://www.youtube.com/watch?v%3D0uA-tKR6Ah4)
+
 prog js lib books21138741 Wcm 2 JAVASCRIPT Hav 24.01.2024 HHaverbeke, Marijn: JavaScript14220338 Wcg 2 Schmid 24.01.2024 HSchmidt, Maik: Raspberry Pi17205142 Wcg 2 Rueh 24.01.2024 HRühmer, Dennis Pa...: Heimserver mit Raspberry und Banana Pi21177628 Wcm 2 JAVASCRIPT Hor 24.01.2024 HHorstmann, Cay: JavaScript für Ungeduldige15204636 Wcr 7 Glit 24.01.2024 HGlitschka, Von: Basistraining Vektorgrafik19372488 Wcg 2 Kofl 24.01.2024 HKofler, Michael ...: Raspberry Pi19133390 Wcm 2 JAVA Bloc 24.01.2024 HBloch, Joshua: Effective Java01218680 80 Pael 24.01.2024 HDie Pälzer Biwel20367667 Wcm 2 KOTLIN Szwi 24.01.2024 HSzwillus, Karl: Kotlin21216567 Wcm Meye 24.01.2024 HMeyer, Uwe: Grundkurs Compilerbau
+
 prog lisp [CLHS: Chapter Index](https://www.lispworks.com/documentation/lw50/CLHS/Front/Contents.htm)
+
 prog lisp [Let's make a scripting language using parser combinators in rust - YouTube](ghttps://www.youtube.com/watch?v%3DSfIIxUXRv1Y)
+
 prog lisp [Lisp Tutorial - YouTube](https://www.youtube.com/watch?v%3DymSq4wHrqyU%26t%3D115s)
+
 prog lisp [https://cisco.github.io/ChezScheme/](ghttps://cisco.github.io/ChezScheme/)
+
 prog lisp [https://github.com/cisco/ChezScheme](ghttps://github.com/cisco/ChezScheme)
+
 prog lisp [https://github.com/kspalaiologos/kamilalisp](https://github.com/kspalaiologos/kamilalisp)
+
 prog lisp [https://www.gnu.org/software/guile/learn/](https://www.gnu.org/software/guile/learn/)
+
 prog lisp [https://www.reddit.com/r/lisp/s/9gAplgnn9d](https://www.reddit.com/r/lisp/s/9gAplgnn9d) Nyxt to Surf
+
 prog lua [Lua Functional Programming/Functions - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Lua_Functional_Programming/Functions)
+
 prog lua etc  [hengestone/lua-languages: Languages that compile to Lua](https://github.com/hengestone/lua-languages) 
+
 prog nickel [https://github.com/tweag/nickel/blob/master/RATIONALE.md](https://github.com/tweag/nickel/blob/master/RATIONALE.md)
+
 prog nickel [https://nickel-lang.org/](https://nickel-lang.org/)
+
 prog nickel[https://www.tweag.io/blog/tags/nickel/](https://www.tweag.io/blog/tags/nickel/)
+
 prog perl [Library Genesis: Christopher M. Frenz - Pro Perl Parsing](https://libgen.is/book/index.php?md5%3DF50693F2889EA9C33724592E75D98DF3)
+
 prog perl [Library Genesis: Moritz Lenz - Parsing with Perl 6 Regexes and Grammars. A Recursive Descent into Parsing](https://libgen.is/book/index.php?md5%3DC6761CAA2ACF8FD63AB2CC42E5B26011)
+
 prog perl [Pearls of Perl: Top 10 Perl Tools & Utilities - ActiveState](https://www.activestate.com/blog/top-10-perl-tools-and-utilities/)
+
 prog perl [The Top 10 Programming Tasks That Perl Is Used For - By ActiveState](https://www.activestate.com/blog/top-10-programming-tasks-that-perl-is-used-for/)
+
 prog prog prog prog prog prog prog prog prog [https://github.com/DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
+
 prog purescript [A Working Stiff's Guide to PureScript](https://reaktor.github.io/purescript-workshop/%23/) 
+
 prog purescript [High-level overview of PureScript - DEV Community](https://dev.to/zelenya/high-level-overview-of-purescript-37lf) 
+
 prog purescript [Introduction - PureScript by Example](https://book.purescript.org/chapter1.html) 
+
 prog purescript [Recommended Tooling for PureScript in 2022 - Chat - PureScript Language Forum](https://discourse.purescript.org/t/recommended-tooling-for-purescript-in-2022/3206) 
+
 prog purescript [Stack Builders - A Look at PureScript - Part I](https://www.stackbuilders.com/blog/a-look-at-purescript-part-i/)
+
 prog purescript [The Prim Module.purs - PureScript: Jordan's Reference](https://jordanmartinez.github.io/purescript-jordans-reference-site/content/11-Syntax/01-Basic-Syntax/src/01-Preliminary-Concepts/03-The-Prim-Module-ps.html) 
+
 prog purescript [TypeScript vs. PureScript - LogRocket Blog](https://blog.logrocket.com/typescript-vs-purescript-not-all-compilers-are-created-equal-c16dadaa7d3e/)
+
 prog purescript [laurentpayot/purescript-for-elm-developers: PureScript crash course targeted at Elm developers](https://github.com/laurentpayot/purescript-for-elm-developers%23readme)
+
 prog purescript [purescript blog](https://www.stackbuilders.com/blog/a-look-at-purescript-part-i/)
+
 prog purescript [purescript book](https://book.purescript.org/chapter1.html)
+
 prog purescript [purescript workshop](https://reaktor.github.io/purescript-workshop/%23/)
+
 prog purescript [tooling for ps](https://discourse.purescript.org/t/recommended-tooling-for-purescript-in-2022/3206)
+
 prog py  [How do I run all Python unit tests in a directory? - Stack Overflow](https://stackoverflow.com/questions/1732438/how-do-i-run-all-python-unit-tests-in-a-directory)
+
 prog py [https://www.reddit.com/r/Python/s/wOUoSboBHy](https://www.reddit.com/r/Python/s/wOUoSboBHy) uv: Python packaging
+
 prog py js [kovidgoyal/rapydscript-ng: A transpiler for a Python like language to JavaScript](https://github.com/kovidgoyal/rapydscript-ng)
+
 prog py rust [https://baincapitalventures.com/insight/why-more-python-developers-are-using-rust-for-building-libraries/](https://baincapitalventures.com/insight/why-more-python-developers-are-using-rust-for-building-libraries/) 
+
 prog rust [https://libgen.rs/search.php?req=code+rust+like+a+pro&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def](https://libgen.rs/search.php?req%3Dcode%2Brust%2Blike%2Ba%2Bpro%26lg_topic%3Dlibgen%26open%3D0%26view%3Dsimple%26res%3D25%26phrase%3D1%26column%3Ddef)
+
 prog top-class thread: [discord ](https://discord.com/channels/834325286664929280/877900210297270272/1205164792327831623)
+
 prog zig [https://thenewstack.io/introduction-to-zig-a-potential-heir-to-c/](https://thenewstack.io/introduction-to-zig-a-potential-heir-to-c/)
+
 prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing/how-safe-is-zig/)
 
 
@@ -252,6 +436,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * Git
 * Aesthetics
 
+
 ## Sort (7)
 * https://coding-challenge.lighthouselabs.ca/register
 * https://no-kill-switch.ghost.io/building-dev-muscle-memory-with-code-kata/
@@ -304,12 +489,14 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
     The True Value of Coding: It Teaches You to Think Differently - YouTube
 * [Programming](https://www.youtube.com/watch?v=G0wuG9Zac3Q&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk)
 
+
 ## Sort (8)
 * https://github.com/taitems/nearest-color
     A Control Definition Language (Fisher)
 * [Вебинраы о языках программирования](https://vk.com/wall-178774705_17)
     The Art of the Metaobject Protocol
 * https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
+
 
 ### https://hashnode.com/series/codeml-basics-ckc5niuu000eakss1b9xa872z**
 * [Rosetta Code](http://www.rosettacode.org/wiki/Rosetta_Code)
@@ -343,10 +530,12 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
     Ремесло программиста. Практика написания хорошего кода (Гудлиф П.)
 * [Оформление программного кода, А. В. Столяров (2019)](http://www.stolyarov.info/books/pdf/codestyle2.pdf)
 
+
 ### **** danistefanovic/build-your-own-x: 🤓 Build your own (insert technology here)
 * [Computing with Data. An Introduction to the Data Industry.](https://www.abebooks.de/servlet/BookDetailsPL?bi=30531170284&cm_sp=SEARCHREC-_-WIDGET-L-_-BDP-R&searchurl=kn%3DComputing%2Bwith%2BData%26sortby%3D17)
 * [From Nand to Tetris Part 1](https://youtube.com/playlist?list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI)
 * [From Nand to Tetris Part 2](https://youtube.com/playlist?list=PLrDd_kMiAuNmllp9vuPqCuttC1XL9VyVh)
+
 
 ## Sort (9)
 * https://www.buecher.de/shop/englische-buecher/the-elements-of-computing-systems/nisan-noamschocken-shimon/products_products/detail/prod_id/23304349/    * [Concepts, techniques, and models of computer programming](http://library.lol/main/DB945BB2247838385EA4A7FC1EBA38F5)    * [Programmation : Concepts, techniques et modèles](http://library.lol/main/0D56FE10B972B21589F3ED9A3B3F25DE)
@@ -381,11 +570,14 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * https://medium.com/coders-mojo/70-amazing-github-repos-for-all-the-developers-part-1-181ecfbdf233
 * https://ziglang.org/
 
+
 ## Sort (10) X
     
 
+
 ## Sort (11) X
     
+
 
 ## Sort (12)
 * https://www.freecodecamp.org/news/best-tech-podcasts-for-software-developers/
@@ -418,6 +610,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * https://link.springer.com/search?facet-series=%22558%22&facet-content-type=%22Book%22
 * [Marijn's Web Home](https://marijnhaverbeke.nl/)
 
+
 ## Sort (13)
 * [An Introduction to Infrastructure and Application Monitoring](https://waves.digitalocean.com/n/dt0SA2gsv70Na00Twg000D0)
 * https://en.wikipedia.org/wiki/Business_models_for_open-source_software
@@ -429,6 +622,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * http://rodrik.typepad.com/dani_rodriks_weblog/2007/06/what_does_a_dev.html
 * http://start-coding.de/
 * [Основи алгоритмізації та програмування. Збірник завдань | Саволюк А.П. | download](https://b-ok.cc/book/1144341/03eb8f)
+
 
 ### **The 25 best programming books of all-time. A data-backed answer
 * [30 Seconds of Code](https://www.30secondsofcode.org/list/p/1)
@@ -442,6 +636,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * [Lexikon der Informatik](https://b-ok.cc/book/2034878/fa2dc4)
 * [Computational thinking | MIT 18.S191 Fall 2020](https://www.youtube.com/playlist?list=PLP8iPy9hna6Q2Kr16aWPOKE0dz9OnsnIJ)
 * [Languages - Python Wiki](https://wiki.python.org/moin/Languages)
+
 
 ### **media.ccc.de - YouTube
 * [David Giordana](https://www.youtube.com/c/DavidGiordana)
@@ -461,6 +656,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * [Мастерство программирования](https://vk.com/@physics_math-masterstvo-programmirovaniya)
 * [Becoming a Better Programmer: A Handbook for People Who Care About Code | Pete Goodliffe | download](https://b-ok.cc/book/2468842/e582a3)
 
+
 ## Sort (14)
 * http://programming-motherfucker.com/become.html
 * [Desarrolladores Google - YouTube - YouTube](https://www.youtube.com/channel/UCeo-MamuQVFRcfQmS2N7fhw)
@@ -473,15 +669,18 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * [Low-level programming language - Wikipedia](https://en.wikipedia.org/wiki/Low-level_programming_language)
 * https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition?utm_source=share&utm_medium=ios_app&utm_name=iossmf
 
+
 ### **Intro to Comp Thinking
 * [Dani Rodrik's weblog: What does a development professional need to know?](http://rodrik.typepad.com/dani_rodriks_weblog/2007/06/what_does_a_dev.html)
     From Mathematics to Generic Programming
 * [Manning books](https://b-ok.cc/s/Manning%20Publications/?yearFrom=2020)
 
+
 ### **Wicked Cool Shell Scripts: 101 Scripts for Linux, OS X, and UNIX Systems | Dave Taylor, Brandon Perry | download
 * [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)
 * [Home - The Art of Better Programming](https://artofbetterprogramming.com/)
 * [Programming Challenges: The Programming Contest Training Manual | Steven S. Skiena, Miguel Revilla | download](https://b-ok.cc/book/465324/b75edb)
+
 
 ### **Codexpedia
 * [Sebastian Laguè](https://www.youtube.com/c/SebastianLague)
@@ -498,11 +697,15 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * https://github.com/uthcode/learntosolveit
 * [edureka!](https://www.youtube.com/user/edurekaIN)
 
+
 ### ***Programming Languages - Hyperpolyglot
+
 
 ### *free-programming-books/free-programming-books.md at master · EbookFoundation/free-programming-books · GitHub
 
+
 ### *OpenHPI Tutorials - YouTube
+
 
 ### *So You Wanna Learn How to Code? Going from Zero to Programmer Hero in One Guide, for Great Justice. – Everyday Utilitarian
 * [20 Things to Know before You Start Programming](https://learnworthy.net/20-things-to-know-before-you-start-programming/)
@@ -513,6 +716,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * [Best Learning Strategies for Programmers](https://youtu.be/IHQ-UUj0bxs)
 * [Codescracker Online Coding](https://codescracker.com/index.htm)
 * [Dashboard | Codecademy](https://www.codecademy.com/es/learn)
+
 
 ## Sort (15)
 * [Design Patterns Elements of Reusable Object-Oriented Software](https://sophia.javeriana.edu.co/~cbustaca/docencia/DSBP-2018-01/recursos/Erich%20Gamma,%20Richard%20Helm,%20Ralph%20Johnson,%20John%20M.%20Vlissides-Design%20Patterns_%20Elements%20of%20Reusable%20Object-Oriented%20Software%20%20-Addison-Wesley%20Professional%20%281994%29.pdf)
@@ -560,6 +764,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * [База знаний - Knowledge base](https://maximgorbatyuk.gitbook.io/knowledge-base/)
 * [Сонмез Джон Путь программиста (2016).pdf](https://vk.com/doc44301783_480806049?hash=593ef83f0c3720790b&dl=624bfb9e4f27c1ab34)
 
+
 ## Sort (16)
     
 * https://code.visualstudio.com/docs/?dv=osx
@@ -605,6 +810,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * [FuzzBench](https://github.com/google/fuzzbench)
 * [Fuzzing - Wikipedia](https://en.wikipedia.org/wiki/Fuzzing)
 
+
 ## Sort (17)
 * [Разработка компьютерных игр. Взгляд изнутри](https://www.youtube.com/watch?v=rgmtLEFCYuc&list=PL-_cKNuVAYAW-ZjP0-SLQt9revdbVTsFg)
 * [Extract PDF comments into HTML](https://stackoverflow.com/questions/37311216/extract-pdf-comments-into-html)
@@ -648,9 +854,11 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * [1.7 Recursive Functions](https://composingprograms.com/pages/17-recursive-functions.html)
 * [web.stanford.edu/class/archive/cs/cs106b/cs106b.1132/handouts/14-Recursion.pdf](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1132/handouts/14-Recursion.pdf)
 
+
 ### **Remote Kernels · Hydrogen
 * https://flight-manual.atom.io/api/v1.48.0/TextEditor/
 * [GraphViz intro](https://ncona.com/2020/06/create-diagrams-with-code-using-graphviz/?mc_cid=76ec3f7e9d&mc_eid=1a0e8f9a2d)
+
 
 ## Sort (18)
 * [IDE alternatives for R programming (RStudio, IntelliJ IDEA, Eclipse, Visual Studio) - Data Science Stack Exchange](https://datascience.stackexchange.com/questions/5345/ide-alternatives-for-r-programming-rstudio-intellij-idea-eclipse-visual-stud)
@@ -702,6 +910,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
     AWS Student Tier
     Github Education pack (student email)
 
+
 ## Sort (19)
 * https://www.analyticsindiamag.com/can-julia-be-the-new-python-heres-what-you-need-to-know/
 * [TIOBE Index | TIOBE - The Software Quality Company](https://www.tiobe.com/tiobe-index/)
@@ -726,12 +935,14 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * https://www.codementor.io/codementorteam/beginner-programming-language-job-salary-community-7s26wmbm6
 * https://www.heise.de/ct/ausgabe/2015-18-Die-passende-Programmiersprache-finden-2767703.html
 
+
 ### *Top 43 Programming Languages
 * https://www.levenez.com/lang/
 * [LANGUAGES – The Craft of Coding](https://craftofcoding.wordpress.com/archives/)
 * [Языки программирования - просто о сложном](https://www.youtube.com/watch?v=sytkQW7LZak)
 * [Popular Programming Languages: 1960 to 2020](http://datascience.getresponse360.com/click.html?x=a62e&lc=5wt&mc=j&s=jFaI&u=F&y=G&z=wuWq5kS&)
 * [FCC Translation Effort](https://www.freecodecamp.org/news/world-language-translation-effort/)
+
 
 ## Sort (20)
 * [—> contribute to Librosa docs? contribute by commenting code?](https://github.com/librosa/librosa)
@@ -775,6 +986,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * https://www.gitkraken.com/learn/git
 * https://support.gitkraken.com/
 * https://www.digitalocean.com/community/tutorial_series/introduction-to-git-installation-usage-and-branches
+
 
 ## Sort (21)
 * https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/
@@ -823,6 +1035,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
     CMD+D - diff
     CMD+UPARROW+K = push
 
+
 ## Sort (22)
 * [$$$The beginner’s guide to contributing to a GitHub project – Rob Allen's DevNotes](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
 * [Discover how to migrate from SVN to Git](https://email.axosoft.com/e2t/tc/VWTcC_5KZXsfVvYGsW7zSr5VW5g6HvJ4gXmvtN8_nRFX3p_8SV1-WJV7CgRN-W687rzv8vQWgxVy6hjd3cCNs0W7STRD85KJqfqW66Hbl24S9xXfW7-Kk1L8MsTwHW27vbgm4dR1C_W8FYRmv24M5G6Vxp5_b5MvL5cVTb7dW5vv3rgW1gzWhf2-p37hN6Ttc8D24S3dW2m3Gqc4CHnjZW7M4VjR5SzW4qW3kQGDg7Ry23-W4VhvKp7bqWB1W1Kxmy96-jCWsN3MFH2T56H-TN5_k6GFLLMRtW7XH3kp14wDLkN3nWs0XrHN-XV3NRqB3qyfrkW7kHTDP93L1Js3nJY1)
@@ -856,6 +1069,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * http://psciences.net/main/sciences/computer_sciences/articles/istyazprog.html
 * https://www.youtube.com/watch?v=0IkaXvwjDf8
 
+
 ## Sort (23)
 * https://two-wrongs.com/
 * [Funktionale Programmierung für Java-Entwickler](https://www.youtube.com/watch?v=gkIgo892N_w)
@@ -882,6 +1096,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * [Code Binaire - Conversion Traduction - Logiciel en Ligne](https://www.dcode.fr/code-binaire)
 * [Exploring Binary - Binary Numbers, Binary Code, and Binary Logic](http://www.exploringbinary.com/)
 * https://bioinfo-fr.net/
+
 
 ## Sort (24)
 * https://www.kyb.tuebingen.mpg.de/de
@@ -919,6 +1134,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * [https://nextjournal.com](https://nextjournal.com/)
 * https://8d9.ru/
 
+
 ## Sort (25)
 * [Computer Networks / Computernetze: Bilingual Edition: English – German / Zweisprachige Ausgabe: Englisch – Deutsch | Christian Baun | download](https://b-ok.cc/book/5245432/8390d2)
 * [Lineare Optimierung und Netzwerkoptimierung: Zweisprachige Ausgabe Deutsch Englisch 2., verbesserte Auflage | Prof. Dr. Horst W. Hamacher, Prof. Dr. Kathrin Klamroth (auth.) | download](https://b-ok.cc/book/2332468/2e2c22)
@@ -955,13 +1171,17 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * [Cloud Computing Specialization](https://coursera.org/specialization/cloud-computing)
 * https://lowendbox.com/tag/germany/
 
+
 ### Big Data, Cloud Computing, Data Science & Engineering | Roger Lee | download
+
 
 ### *Cloud Computing: Theory and Practice | Dan C. Marinescu | download
 * [Cloud Native Infrastructure: Patterns for Scalable Infrastructure and Applications in a Dynamic Environment | Justin Garrison, Kris Nova | download](https://b-ok.cc/book/3428382/9ea9a3)
 * [Pragmatic AI: An Introduction to Cloud-Based Machine Learning | Noah Gift | download](https://b-ok.cc/book/3682557/a90a58)
 
+
 ### *Cloud Computing and Big Data: Technologies, Applications and Security | Mostapha Zbakh, Mohammed Essaaidi, Pierre Manneback, Chunming Rong | download
+
 
 ### ****Cloud Computing | Nayan B. Ruparelia | download
 * [Beginning Serverless Computing: Developing with Amazon Web Services, Microsoft Azure, and Google Cloud | Maddie Stigler (auth.) | download](https://b-ok.cc/book/3420253/afe3cc)
@@ -969,6 +1189,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * [An overview of the new IBM Cloud Satellite distributed cloud – Build Smart. Build Secure. IBM Developer](https://developer.ibm.com/articles/overview-of-the-new-ibm-cloud-satellite-distributed-cloud/)
 * https://us-east-2.console.aws.amazon.com/console/home?region=us-east-2#
 * https://shell.cloud.google.com/?walkthrough_tutorial_url=https%3A%2F%2Fwalkthroughs.googleusercontent.com%2Fcontent%2Fgke_cloud_code_create_app%2Fgke_cloud_code_create_app.md&show=ide&environment_deployment=ide&authuser=1&fromcloudshell=true
+
 
 ## Sort (26)
 * https://github.com/styfle/awesome-online-ide
@@ -988,7 +1209,9 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * [Shooting yourself in the foot in various programming languages - Data Science Central](http://www.datasciencecentral.com/profiles/blogs/shooting-yourself-in-the-foot-in-various-programming-languages?utm_content=buffer468f5&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 * [Die passende Programmiersprache finden | c't Magazin](https://www.heise.de/ct/ausgabe/2015-18-Die-passende-Programmiersprache-finden-2767703.html)
 
+
 ## Sort (27)
+
 
 ## Prog Langs / Compiler / Interpreter / Parser
 * https://hackaday.com/2022/11/27/create-a-compiler-step-by-step/
@@ -997,10 +1220,12 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * https://github.com/konchunas/pyrs
 * [ralfbiedert/interoptopus: The polyglot bindings generator for your library (C#, C, Python, …) 🐙](https://github.com/ralfbiedert/interoptopus)
 
+
 ## Gen CS
 * [Basiswissen Informatik - Grundideen einfach und anschaulich erklärt](https://b-ok.cc/book/5246109/66bc21)
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 * [150+ Stanford On-Campus Computer Science Courses Available Online](https://www.classcentral.com/report/stanford-on-campus-courses/?utm_source=cc_newsletter&utm_medium=email&utm_campaign=november2020)
+
 
 ### ** history of computing: free download. Ebooks library. On-line books store on Z-Library
 * [Computerphile YouTube Channel](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
@@ -1077,12 +1302,14 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * [Теоретико-сложностные основы криптографии](https://www.youtube.com/watch?v=cZMfOnxfOFg&list=PL-_cKNuVAYAUAMElAnIED4AVMtFuQmB0J)
 * [Шнайер Б. - Секреты и ложь. Безопасность данных в цифровом мире. (Классика Computer Science) - 2003.pdf](https://vk.com/doc44301783_453645337?hash=bce7bed42a41612fea&dl=ed4de3cfab9736f558)
 
+
 ## Hacking
 * [Hacklog Volume 1 Anonimato: Manuale Sulla Sicurezza Informatica E Hacking Etico.pdf](https://en.de1lib.org/book/5489693/cb3730)
 * [Hacklog Volume 2 Web Hacking: Manuale sulla Sicurezza Informatica e Hacking Etico.pdf](https://en.de1lib.org/book/5489732/afec6e)
 * hacking
 * [Penetration Testing: A Hands-On Introduction to Hacking.pdf](https://en.de1lib.org/book/2482934/27a641)
 * [Mastering Reverse Engineering: Re-engineer your ethical hacking skills](https://en.de1lib.org/book/3675169/498647)
+
 
 ## Practice
 * [Agile Prozesse: Von XP über Scrum bis MAP](http://library.lol/main/0B20DE63B5B435BE2FE48A00E1A2AE38)
@@ -1099,6 +1326,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * [Scrum. Praktyczny przewodnik po najpopularniejszej metodyce Agile](http://library.lol/main/FDC5357B7D39AEAD1CD064F410CC210E)
     Jira Book    * [Architecting for Scale: How to Maintain High Availability and Manage Risk in the Cloud](http://library.lol/main/903C9F6FC42748423D2109B8452EDF50)
 
+
 ## Graphics
     Fundamentals of Computer Graphics
     Computer Graphics : From Pixels to Programmable Graphics Hardware
@@ -1108,6 +1336,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * https://www.youtube.com/results?search_query=monitor+calibration
     Optimizing the Display and Interpretation of Data
 * handbook of Visual Display Technology
+
 
 ## Media
 * https://www.bbvaopenmind.com/
@@ -1121,6 +1350,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * [Zip](https://podcast.ru/1608873219)
 * [https://studio.ribbonfarm.com/](https://studio.ribbonfarm.com/)
 
+
 ## Boot
     Изучаем BIOS
 * [Hands-on Booting: Learn the Boot Process of Linux, Windows, and Unix](http://library.lol/main/92909EA7B3B12F3D742F5D1D7EA8FA6E)
@@ -1129,6 +1359,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * [Beyond BIOS: Developing with the Unified Extensible Firmware Interface](http://library.lol/main/CBE35CD2D861F5520D426CFB1E444DF4)
 * [Оптимизация BIOS. Полный справочник по всем параметрам BIOS и их настройкам](http://library.lol/main/781E147CFAAE02B047A815F8EB5F7A43)
 * [Harnessing the Uefi Shell: Moving the Platform Beyond Dos](http://library.lol/main/9F60269484B41B81E4CCCE4FD78C05E7)
+
 
 ## Math Expression Parsing
 * [→](https://github.com/beltoforion/muparserx)
@@ -1145,6 +1376,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * [→](https://stackoverflow.com/questions/3972854/parse-math-expression)
 * [→](https://stackoverflow.com/questions/1432245/how-to-parse-a-mathematical-expression-given-as-a-string-and-return-a-number)
 * [→](https://pretagteam.com/question/how-to-parse-a-mathematical-expression-given-as-a-string-and-return-a-number-duplicate)
+
 
 ## FCC
 * https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/
@@ -1298,6 +1530,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * https://www.freecodecamp.org/news/how-to-become-a-certified-kubernetes-application-developer/
 * https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/
 * https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning/
+
 
 ## Encodings
 * [\xc5\xa0 - Поиск в Google](https://www.google.com/search?q=%5Cxc5%5Cxa0&rlz=1C1GCEA_enUS814US814&oq=%5Cxc5%5Cxa0&aqs=chrome..69i57j69i58j0.2623j0j7&sourceid=chrome&ie=UTF-8)
@@ -1486,6 +1719,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * [Algorithms through Puzzles](https://drive.google.com/file/d/19YhWHo6-J8pK7_HVaB9sEwDly7FRFOse/view?usp=sharing)
 * [Quickselect - Wikipedia](https://en.wikipedia.org/wiki/Quickselect)
 
+
 ### ** Tree Impl
 * [160 LeetCode Algorithm Solution Videos](http://theanalysisofdata.com/probability/0_2.html)
 * [18 Most Common Python List Questions | Learn Python (article) - DataCamp](https://www.datacamp.com/community/tutorials/18-most-common-python-list-questions-learn-python)
@@ -1577,7 +1811,9 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * [1,606,240% FASTER algorithm - YouTube](https://www.youtube.com/watch?v=U16RnpV48KQ)
 * [The hidden beauty of the A* algorithm](https://youtu.be/A60q6dcoCjw)
 
+
 ## Regex
+
 
 ### * RegEx and the limits of Reg Langs
 * [python - reference length of regular expression group - Stack Overflow](https://stackoverflow.com/questions/42423601/reference-length-of-regular-expression-group)
@@ -1642,6 +1878,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * OpenGL
 * [Future Computers Will Be Radically Different (Analog Computing) - YouTube](https://www.youtube.com/watch?v=GVsUOuSjvcg)
 
+
 ## Docker and k8s
 * [A tour of the Kubernetes source code - IBM Developer](https://developer.ibm.com/articles/a-tour-of-the-kubernetes-source-code/)
 * [COMO ENTENDER E UTILIZAR DOCKER?](https://youtu.be/OIKhrLozFMg)
@@ -1654,6 +1891,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * https://stackoverflow.com/questions/58704447/edit-a-file-in-docker-container-from-outside-the-container
 * https://towardsdatascience.com/how-to-properly-use-the-gpu-within-a-docker-container-4c699c78c6d1
 * https://www.freecodecamp.org/news/build-your-on-custom-container-without-docker/
+
 
 ## Paradigms and Language Comparison
 * [4 Programming Paradigms In 40 Minutes - YouTube](https://www.youtube.com/watch?v=cgVVZMfLjEI)
@@ -1742,12 +1980,14 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * [main-qimg-0a42529bf99de9597196b4c910128189-c (JPEG Image, 775 × 493 pixels)](https://qph.cf2.quoracdn.net/main-qimg-0a42529bf99de9597196b4c910128189-c)
 * https://github.com/bottlerocket-os/bottlerocket
 
+
 ## Meta Topics
 * [ImNotGoodEnough.js - YouTube](https://www.youtube.com/watch?v=6TYkDy54q4E)
 * https://www.golem.de/news/arbeit-in-der-it-depression-vorprogrammiert-2209-167567.html
 * [Как устроена IT-столица мира / Russian Silicon Valley (English subs)](https://www.youtube.com/watch?v=9lO06Zxhu88)
 * https://builtin.com/data-science/career-advancement-coding
 * [14 Hard Lessons After 14 Years Of Software Development](https://youtu.be/iF0ntBn6NdA)
+
 
 ## Links to follow
 * [Как разобраться в Computer Science самостоятельно](https://vk.com/@tproger-computer-science-step-by-step)
@@ -1763,7 +2003,9 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * [Free Online Tutorials and Courses](https://www.tutorialspoint.com/tutorialslibrary.htm)
 * [Cours/Formations informatique à télécharger](https://www.cours-gratuit.com/)
 
+
 ### [> ultimate-coding-resources: A collection of the best resources for programming, web development, computer science and more.](https://github.com/PizzaPokerGuy/ultimate-coding-resources)
+
 
 ## Courses
 * https://refactoring.guru/uk
@@ -1771,6 +2013,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 * [csunplugged](http://csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
 * [Computer Science Unplugged](https://classic.csunplugged.org/)
+
 
 ### [*How to Design Programs, Second Edition](https://htdp.org/2019-02-24/)
 * [SICP Course](https://ru.hexlet.io/courses/sicp)
@@ -1802,6 +2045,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * https://toc.cryptobook.us/
 * https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/ru/
 
+
 ## Low-Level
     <> [How Binary Works](https://youtu.be/PMpNhbMjDj0)
     <> [Book: Numbers and Computers](http://library.lol/main/0ED6B117074071DF946B58FF8AEDD36A)
@@ -1813,8 +2057,10 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * [Electronics for Beginners: A Practical Introduction to Schematics, Circuits, and Microcontrollers](http://library.lol/main/83F62DC54FD565C48EE927AEB0F8EBDB)
 * https://github.com/Apress/learn-to-program-w-assembly
 
+
 ## Boot    * [The BIOS companion](http://library.lol/main/BBB4B14C71ACAEF74426BEFBFA25402D)    * [Beyond BIOS: Developing with the Unified Extensible Firmware Interface](http://library.lol/main/99ACD9F82FDDF5996238C6596D66AA5A) 
 * https://coreboot.org/     * [Harnessing the Uefi Shell: Moving the Platform Beyond Dos](http://library.lol/main/9F60269484B41B81E4CCCE4FD78C05E7)
+
 
 ## Tasks/Challenges
     E-olymp — один из крупнейших украинских сайтов для изучения информатики и подготовки к олимпиадам.
@@ -1830,117 +2076,174 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
     GeeksforGeeks — имеет лучшую коллекцию статей, объяснений и решений по теме алгоритмов и структурам данных. По ссылке вы можете увидеть пример того, как сложный вопрос разбивается на более простые части, объяснение и код решения. Если вы готовитесь к собеседованию, советуем вам использовать этот сайт, чтобы подготовиться и освежить сложные темы в изучении алгоритмов.
     Codeforces — российская платформа для соревнований по программированию, на которой регулярно проводятся турниры, в которых участвуют одни из лучших программистов в мире. Если вы начинающий кодер, задания, скорее всего, будут слишком сложны для вас — вот пример из недавнего соревнования. Для решения этих задач обычно требуются передовые знания в области математики и алгоритмов. Цель Codeforces — предложить разработчикам удобную платформу для создания, проведения и обсуждения соревнований по программированию.
 
+
 ### [****Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
+
 
 ### [> By language](http://rosettacode.org/wiki/Category:Programming_Languages)
 
+
 ### [> By task](http://rosettacode.org/wiki/Category:Programming_Tasks)
+
 
 ### [Exercism](https://exercism.io/)
 
+
 ### https://cyber-dojo.org/creator/home
+
 
 ### [Entraînez-vous à coder sur des challenges de programmation fun](https://www.codingame.com/start)
 
+
 ### https://www.codewars.com/dashboard
+
 
 ### https://screeps.com/a/#!/sim/tutorial/1
 
+
 ### Daily Coding Problem
+
 
 ### Project Euler
 
+
 ### https://the-algorithms.com/
+
 
 ### https://exercism.org/tracks
 
+
 ### [Code Golf StackExchange](https://codegolf.stackexchange.com/tags)
+
 
 ### [HackerRank](https://www.hackerrank.com/)
 
+
 ### [Problems - LeetCode](https://leetcode.com/problemset/all/)
+
 
 ### [Top Interview Questions - LeetCode](https://leetcode.com/explore/featured/card/top-interview-questions-easy/)
 
+
 ### [Explore - LeetCode](https://leetcode.com/explore/)
+
 
 ### [Code Review Stack Exchange](https://codereview.stackexchange.com/)
 
+
 ### [Coderbyte | The #1 Website for Coding Challenges](https://coderbyte.com/)
+
 
 ### [CodingBat Python](https://codingbat.com/python)
 
+
 ### https://www.codechef.com/
+
 
 ### [CheckiO - coding games and programming challenges for beginner and advanced](https://checkio.org/)
 
+
 ### [Архив - Codeforces](http://codeforces.com/problemset)
+
 
 ### [CodeAbbey - programming problems to practice and learn for beginners](http://www.codeabbey.com/)
 
+
 ### [Brilliant Premium | Brilliant](https://brilliant.org/premium/)
+
 
 ### [Programming Challenges](https://www.reddit.com/r/programmingchallenges/)
 
+
 ### [challenges - dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/wiki/challenges)
+
 
 ### [Timus Online Judge](http://acm.timus.ru/)
 
+
 ### https://github.com/ZitingShen/Euler-Project
+
 
 ### http://muratcorlu.com/euler/
 
+
 ### https://github.com/search?utf8=%E2%9C%93&q=euler&type=
+
 
 ### https://github.com/search?q=project+euler
 
+
 ### https://projecteuler.net/archives
+
 
 ### [alefi87/programmers-idea-book: An attempt to complete as many of the projects as](https://github.com/alefi87/programmers-idea-book)
 
+
 ### [ossible from The Programmers Idea Book.](https://github.com/alefi87/programmers-idea-book)
+
 
 ### [P-99: Ninety-Nine Prolog Problems](http://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/)
 
+
 ### [L-99: Ninety-Nine Lisp Problems](http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html)
+
 
 ### [The Python Challenge](http://www.pythonchallenge.com/)
 
+
 ### [karan/Projects: A list of practical projects that anyone can solve in any programming language.](https://github.com/karan/Projects)
+
 
 ### https://dmoj.ca/problems/
 
+
 ### [Computing Olympiads - Resources](http://usaco.org/index.php?page=resources)
+
 
 ### [Coding Project Solutions](https://github.com/karan/Projects-Solutions/blob/master/README.md?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
+
 ### [Introduction to Algorithms, Third Edition](https://www.youtube.com/watch?v=P_YNGE4mbE8&list=PL-_cKNuVAYAUV2ChK_qb93NDXe7CDYv-P)
+
 
 ### [Algorithmen verstehen](https://www.youtube.com/channel/UCswWBF6ZkGnLG3sLRR65xRw)
 
+
 ### https://github.com/o8vm/ods
+
 
 ### https://github.com/patmorin/ods
 
+
 ### https://opendatastructures.org/
+
 
 ### [A Practical Guide to Data Structures and Algorithms using Java (Chapman & Hall CRC](https://de1lib.org/book/837370/212b83)
 
+
 ### [Applied Algorithms and Data Structures series) | Sally A. Goldman, Kenneth J. Goldman | download](https://de1lib.org/book/837370/212b83)
+
 
 ### [Advanced Algorithms and Data Structures | Marcello La Rocca | download](https://de1lib.org/book/16088005/7a2b2f?dsource=recommend)
 
+
 ### [Advanced Algorithms and Data Structures in Action | La Rocca, Marcello | download](https://de1lib.org/book/16075033/e2ece3?dsource=recommend)
+
 
 ### [Algorithms and Data Structures for Massive Datasets (MEAP v03) | Dzejla Medjedovic, Emin Tahirovic | download](https://de1lib.org/book/12048574/90a3d1)
 
+
 ### [Algorithms and Data Structures: Foundations and Probabilistic Methods for Design and Analysis | Helmut Knebl | download](https://de1lib.org/book/11248674/efba31)
+
 
 ### [Algorithms and Data Structures: The Basic Toolbox | Kurt Mehlhorn, Peter Sanders | download](https://de1lib.org/book/502920/9ee1bd)
 
+
 ### [Algorithms and Data Structures: The Science of Computing | Douglas Baldwin, Greg W. Scragg | download](https://de1lib.org/book/458728/02aa4c)
 
+
 ### [The Constitution of Algorithms: Ground-Truthing, Programming, Formulating | Florian Jaton | download](https://de1lib.org/book/16423182/7d5aa4?dsource=recommend)
+
 
 ## Cheatsheets
 * http://www.cheat-sheets.org/
@@ -1952,6 +2255,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * https://bookflow.ru/besplatnye-materialy-dlya-programmistov/
 * https://www.cheatography.com/
 
+
 ## Misc
     > see "Challenge & Projects" section of "Learning" tab
 * https://github.com/leachim6/hello-world
@@ -1960,12 +2264,14 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * [Computer Science - The Learning Point (C, Py, Ruby, esp C)](https://www.thelearningpoint.net/computer-science)
 * [Parsing with Perl 6 Regexes and Grammars. A Recursive Descent into Parsing](http://library.lol/main/C6761CAA2ACF8FD63AB2CC42E5B26011)
 
+
 ### [*Другой GitHub: репозитории по Data Science, визуализации данных и глубокому обучению](http://ai-news.ru/2019/01/drugoj_github_repozitorii_po_data_science_vizualizacii_dannyh_i_glubokomu.html)
 * [Как подружить Tensorflow и C++ / Хабрахабр](https://habr.com/post/308002/)
 * https://github.com/sindresorhus/awesome
 * https://www.numfocus.org/sponsored-projects/
 * https://www.freecodecamp.org/news/free-online-programming-cs-courses/
 * [150+ Stanford On-Campus Computer Science Courses Available Online](https://www.classcentral.com/report/stanford-on-campus-courses/?utm_source=cc_newsletter&utm_medium=email&utm_campaign=november2020)
+
 
 ### [> Old bookmarks](https://docs.google.com/spreadsheets/d/1YVDOe57jjFBpwLrottZvP-ns-86XB0fcZvGfy0NzIfA/edit?usp=sharing)
     BYU Major Path
@@ -1982,6 +2288,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * https://ux.stackexchange.com/questions/53275/do-interfaces-evolve
 * [DRM In School eBooks: When Life Imitates Dystopian Stories - GNU Project - Free Software Foundation](https://www.gnu.org/education/drm-in-school-ebooks-when-life-imitates-dystopian-stories.html#content)
 * https://en.wikipedia.org/wiki/User_interface
+
 
 ## Resources
 * [Reddit - Cheat sheet repository for beginners.](https://www.reddit.com/r/learnprogramming/comments/110v8kw/cheat_sheet_repository_for_beginners/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=10&utm_content=share_button)
@@ -2003,6 +2310,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * https://gitter.im/home/explore
 * https://www.meetup.com/
 
+
 ## Privacy and Cryptography
     using VPNs for privacy.
 * [kssytsrk/nx-freestance-handler: nx-freestance-handler, a redirector from the mainstream sites (Youtube, Twittter, Instagram, Reddit) to their privacy-supporting mirrors](https://github.com/kssytsrk/nx-freestance-handler)
@@ -2019,6 +2327,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
     Gnoppix
     AdBlocker Ultimate    * [RSA (cryptosystem) - Wikipedia](https://en.wikipedia.org/wiki/RSA_(cryptosystem))    * [Rabin fingerprint - Wikipedia](https://en.wikipedia.org/wiki/Rabin_fingerprint)
 
+
 ## Git
 * [Git tutorial — Tuto git](https://gdevops.gitlab.io/tuto_git/index.html)
 * https://dzone.com/refcardz/git-patterns-and-anti-patterns
@@ -2033,6 +2342,7 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * [git - How to override a rule set in .gitignore - Stack Overflow](https://stackoverflow.com/questions/24844782/how-to-override-a-rule-set-in-gitignore)
 * https://www.atlassian.com/git/tutorials/git-subtree
 
+
 ## Aesthetics
 * https://www.academia.edu/24948341/THE_ROLE_OF_AESTHETICS_IN_SOFTWARE_DESIGN_DEVELOPMENT_AND_EDUCATION
 * https://monoskop.org/images/f/f1/Cox_McLean_Ward_2004_Coding_Praxis_Reconsidering_the_Aesthetics_of_Code.pdf
@@ -2041,33 +2351,42 @@ prog zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing
 * [Aesthetics and the Evolution of Code - Coraline Ada Ehmke](https://www.youtube.com/watch?v=qmBL4THJtuM)
 * https://theorangeduck.com/page/aesthetics-code
 
+
 ## Books
 
 
 ## Books Projects
 * Sort through and eventually delete this page
 *Darwin Among the Machines* and *Turing’s Cathedral*
+
 Software Architect’s Handbook: Become a successful software architect by implementing effective architecture concepts
+
 Облачные архитектуры разработка устойчивых и экономичных облачных приложений.pdf
 * [Структура и интерпретация компьютерных программ](http://library.lol/main/4D228E9600C4588BC0EA11CBD1225203)
 * https://byndyu.ru/antifragileit
 * [Gerald Jay Sussman books](http://libgen.rs/search.php?&req=+Gerald+Jay+Sussman&phrase=1&view=simple&column=author&sort=year&sortmode=DESC)
+
 Pragmatic Programmers Functional Programming Bundle
 * https://www.rheinwerk-verlag.de/openbook/?GPP=openbook
+
 Грокаем технологию Биткоин
 
 
 ## Resources
+
 
 ## Docs
 * https://www.makeareadme.com/ 
 * [Beautiful Docs](https://github.com/matheusfelipeog/beautiful-docs) → create pull request, add Julia
 * https://github.com/matiassingers/awesome-readme
 
+
 ## Learning
      * [The BEST Coding Interview Roadmap in 2023 (free)](https://www.youtube.com/watch?v=jgQjes7MgTM)
 
+
 ## General Educational Resources
+
 → [top resources insta](https://www.instagram.com/p/CqQQ2C5jUUa/?igshid=MDJmNzVkMjY=)
 * [CS Wikipedia](https://en.wikipedia.org/wiki/Template:Computer_science)
 * https://wiki.archlinux.org/
@@ -2078,6 +2397,7 @@ Pragmatic Programmers Functional Programming Bundle
 * https://devopedia.org/
 * https://www.freecodecamp.org/
 * https://github.com/jwasham/coding-interview-university
+
 
 ## [***Developer Roadmaps](https://roadmap.sh/roadmaps)
 * https://zetcode.com/
@@ -2112,31 +2432,43 @@ Pragmatic Programmers Functional Programming Bundle
 * [https://www.programcreek.com](https://www.programcreek.com/python/example/108008/torchvision.models.resnet101)
 * http://www.programmingbasics.org/es/
 
+
 ## [*Reference answers to frequently asked questions - Computer Science Meta Stack Exchange](https://cs.meta.stackexchange.com/questions/599/reference-answers-to-frequently-asked-questions)
 * [Frame of Essence](https://www.youtube.com/c/frameofessence)
 * [QWERTY](https://www.youtube.com/c/QWRTru)
 * [Stack Abuse Github](https://github.com/StackAbuse)
 * [Stack Abuse](https://stackabuse.com/)
 
+
 ## [**Neso Academy - YouTube](https://www.youtube.com/user/nesoacademy)
+
 
 ## [**Packt Video - YouTube](https://www.youtube.com/user/packt1000/search?query=julia)
 
+
 ## [*Better Coder](https://www.bettercoder.io/)
+
 
 ## [*Computer Science Center - YouTube](https://www.youtube.com/channel/UC0YHNueF-3Nh3uQT0P4YQZw/playlists)
 
+
 ## [*Dashboard | HackerRank](https://www.hackerrank.com/dashboard)
+
 
 ## [*Download Free Cheat Sheets or Create Your Own! - Cheatography.com: Cheat Sheets For Every Occasion](https://cheatography.com/)
 
+
 ## [*Find Courses by Topic | MIT OpenCourseWare | CS](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
+
 
 ## [*GeeksforGeeks | A computer science portal for geeks](https://www.geeksforgeeks.org/)
 
+
 ## [*MIT CS Notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/syllabus/MIT6_01SCS11_notes.pdf)
 
+
 ## [*Open Source Guides | Learn how to launch and grow your project.](https://opensource.guide/)
+
 
 ## [*Teach Yourself Computer Science](https://teachyourselfcs.com/)
 * [Derek Banas](https://www.youtube.com/user/derekbanas) (***)
@@ -2217,7 +2549,9 @@ Pragmatic Programmers Functional Programming Bundle
 * https://www.youtube.com/c/Geekific/playlists
 * [https://www.programiz.com](https://www.programiz.com/)
 
+
 ## [****Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)
+
 
 ##
 * https://exercism.io/my/tracks
@@ -2230,17 +2564,21 @@ Pragmatic Programmers Functional Programming Bundle
 * [Machine Thoughts](https://machinethoughts.wordpress.com/)
 * [Open Source: 2018 - Java/C++/Python/BigData/Android/](http://www.bogotobogo.com/index.php)
 
+
 ## Jupyter & Co.
 * https://jupyter-tutorial.readthedocs.io/de/latest/intro.html 
 * https://ipython.org/index.html 
 * https://jupyterbook.org/en/stable/intro.html# 
+
 → [books](https://libgen.rs/search.php?&req=jupyter&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+
 
 ## Build Systems
 * https://makefiletutorial.com/
 * https://www.gnu.org/software/make/manual/make.html
 * https://mesonbuild.com/
 * https://github.com/mesonbuild/meson
+
 
 ## Project Resources
 * https://github.blog/2023-04-03-calling-all-open-source-maintainers/ 
@@ -2254,8 +2592,11 @@ Pragmatic Programmers Functional Programming Bundle
 * [Free Code Camp Project](https://www.freecodecamp.org/news/plan-code-and-deploy-a-startup-in-2-hours/)
 * [Software Tools for Hobby-Scale Projects](https://rickcarlino.com/2019/11/02/software-tools-for-hobby-sized-projects-html.html)
 
+
 ## Career
+
 Ivy: [https://deep-ivy-ltd.breezy.hr/,](https://deep-ivy-ltd.breezy.hr/) https://deep-ivy-ltd.breezy.hr/p/47a8d305734301-core-contributor
+
 
 ## Tools
 * https://github.com/tweag 
@@ -2292,18 +2633,27 @@ Ivy: [https://deep-ivy-ltd.breezy.hr/,](https://deep-ivy-ltd.breezy.hr/) https:/
 * https://github.com/tomtom-international/cpp-dependencies
 * https://www.bouml.fr/
 * https://llvm.org/
+
 flex
+
 bison
+
 yacc
 * https://www.swig.org/
+
 byacc
+
 ANTLR
+
 Xgettext
+
 Automake
+
 Gperf
 * https://github.com/cvxopt/cvxopt
 * https://github.com/BVLC
 * http://nbviewer.jupyter.org/
+
 
 ## Regex
 * [open source alternative to regex buddy - Google Search](https://www.google.com/search?client=firefox-b-d&q=open+source+alternative+to+regex+buddy)
@@ -2320,6 +2670,7 @@ Gperf
 * [Scriptular: App Reviews, Features, Pricing & Download | AlternativeTo](https://alternativeto.net/software/scriptular/about/)
 * https://docs.rs/regex/latest/regex/
 
+
 ## Code Execution
 * https://dev.to/
 * https://replit.com/
@@ -2327,6 +2678,7 @@ Gperf
 * https://onecompiler.com/
 * https://godbolt.org/
 * https://coliru.stacked-crooked.com/
+
 
 ## Institutions
 * [Fachgruppe Maschinelle Sprachverarbeitung – Homepage der Fachgruppe Maschinelle Sprachverarbeitung](https://msv.stuvus.uni-stuttgart.de/?fbclid=IwAR1wk0uYyUTYrycXjEkCSe4dmui65CiOCq9ViV7HSVW66UUracxVKMXs9s0)
@@ -2342,29 +2694,53 @@ Gperf
 * [Welcome to the Max Planck Institute for Psycholinguistics — Max Planck Institute for Psycholinguistics](http://www.mpi.nl/)
 * [Яндекс — інформація про компанію](https://yandex.ua/company/?ncrnd=2855)
 
+
 ## People
+
 pers [Elteoremadebeethoven (Alexander Vázquez)](https://github.com/Elteoremadebeethoven) (manim)
+
 perso  https://xuefuzhao.github.io/
+
 perso [Archives - Eli Bendersky's website](https://eli.thegreenplace.net/archives/all)
+
 perso [ArrynDoesTech - YouTube](https://www.youtube.com/@arryndoestech)
+
 perso [Chris Portela - Cloud, Software, and Photography](https://www.chrisportela.com/)
+
 perso [Chronicles of Weird ThingsChronicae Novis Rebus](https://chronicles.mad-scientist.club/) (Nix etc)
+
 perso [Emma Böcker (@boecker@chaos.social) - rheinneckar.social](https://rheinneckar.social/@boecker@chaos.social)
+
 perso [Ephoto :: Stephen Houston — Software Engineer](https://www.smhouston.us/ephoto/)
+
 perso [Hugo Barrera's site](https://whynothugo.nl/)
+
 perso [Monster](https://monster.codeberg.page/)
+
 perso [Projects - Eli Bendersky's website](https://eli.thegreenplace.net/pages/projects)
+
 perso [Projects - Federico Terzi - A Software Engineering Journey](https://federicoterzi.com/projects)
+
 perso [Victor Zheng](https://victor-zheng.com/)
+
 perso [ansidev's blog | Le Minh Tri | Substack](https://ansidev.substack.com/p/wezterm-cheatsheet)
+
 perso [bespinian Blog](https://blog.bespinian.io/)
+
 perso [bespinian Blog](https://blog.bespinian.io/)
+
 perso https://github.com/SergioRibera
+
 perso https://radicle.xyz/
+
 perso https://www.linkedin.com/in/manuel-epp/
+
 perso https://www.youtube.com/@devaslife
+
 perso https://www.youtube.com/@devopstoolbox
+
 perso https://www.youtube.com/@levonog
+
 person ansidev's blog
 * https://migalmoreno.com/ 
 * https://github.com/doctorfree 
@@ -2390,19 +2766,25 @@ person ansidev's blog
 * https://monster.codeberg.page/ 
 * https://matthewrhone.dev/ 
 
+
 ## Net
 * [Curso de REDES informáticas. 175 vídeos de calidad - YouTube](https://www.youtube.com/playlist?list=PLomN84AdULIBcoI8Rb98dnompliIktJk9)
 
 
 ## Media
 
+
 ## Newsletters
+
 
 ## https://techleaddigest.net/digests
 
+
 ## https://programmingdigest.net/digests
 
+
 ## https://dailytech.email/digests
+
 
 ## Blogs / Sites / Fora
 *[devtalk](https://devtalk.com/) -* Discussion forum around many different development topics/languages, ran as a joint venture between a lot of great programming publishers like Manning and Pragmatic Bookshelf.
@@ -2459,10 +2841,12 @@ person ansidev's blog
 * [uidotdev](https://www.youtube.com/channel/UCbAn7pVK2VIyo-UysfWGdZQ)
 * [$$$Brendan Fortuner – Medium](https://medium.com/@bfortuner)
 
+
 ## YouTube
 * https://www.youtube.com/@KIT-Lehre-und-Wissen/playlists 
 * https://www.youtube.com/@TraversyMedia 
 * https://www.youtube.com/@Florian.Dalwigk 
+
 Th Morpheus Tutorials
 * https://www.youtube.com/@ExplainingComputers 
 * https://www.youtube.com/@codeaffinitydev 
@@ -2555,14 +2939,17 @@ Th Morpheus Tutorials
 * [Google Developers Italia - YouTube - YouTube](https://www.youtube.com/user/DevelopersItaly)
 * [Hyperplexed](https://youtube.com/@Hyperplexed)
 
+
 ## Podcasts
 *[Code Newbie Podcast](http://www.codenewbie.org/) -* Great interviews with programmers and advice for those just starting to learn to program.
 *[Learn to Code with Me](http://learntocodewith.me/podcast/) -* Another great podcast geared towards beginning programmers.
 *[Front End Happy Hour](http://frontendhappyhour.com/) -* Fun podcast with a roundtable of professional developers that tackle languages, frameworks, and other related things.
 *[The Changelog](https://changelog.com/podcast) -* Conversations with the hackers, the leaders, and the innovators of software development.
+
 changelog master feed
 * https://adspthepodcast.com/2022/04/08/Episode-72.html
 * https://fossandcrafts.org/
+
 the technium
 * hacker public radio
 * [Command Line Heroes Podcast](https://open.spotify.com/show/4Jgtgr4mHXNDyLldHkfEMz?si=0_SJ-3Y2SmWj0bPVA84c9Q&utm_source=native-share-menu&nd=1)
@@ -2580,6 +2967,7 @@ the technium
 * https://simpleprogrammer.com/2014/03/10/ultimate-list-developer-podcasts/
 * https://www.quora.com/What-are-the-best-podcasts-for-software-developers
 * [Kolophon Podcast | Die Gesprächsserie von O'Reilly Deutschland mit Tim Pritlove](https://kolophon.oreilly.de/)
+
 
 ## [** [D] Does anyone know of any good ML podcasts I can listen to while at work? : MachineLearning](https://www.reddit.com/r/MachineLearning/comments/eoljno/d_does_anyone_know_of_any_good_ml_podcasts_i_can/)
 * https://podcasts.apple.com/us/podcast/oreilly-data-show-podcast/id944929220
@@ -2633,12 +3021,15 @@ the technium
 * [What Are the Best, Regularly Updated Machine Learning Blogs or Resources Available?](https://neptune.ai/blog/the-best-regularly-updated-machine-learning-blogs-or-resources)
 * [Branch Education - YouTube](https://www.youtube.com/@BranchEducation)
 * [Anders Pink Blog | Anders Pink](https://anderspink.com/)
+
 Linux Lads 103
 * [UnkertMedia.com – Welcome to UnkertMedia, the Trendiest Tech Blog](https://unkertmedia.com/)
+
 search "Gradient" on spotify or other podcast search engine
 * [Top 11 Forums for Developers to Collaborate and Grow](https://www.codemonk.ai/insights/best-developer-forums)
 * https://www.youtube.com/@Gonkee 
 * https://www.youtube.com/@adibhanna 
+
 
 ## Gen Prog Misc & Meta
 * https://www.stylewarning.com/posts/quantum-interpreter/ * [The Tragedy of systemd](https://www.youtube.com/watch?app=desktop&v=o_AIw9bGogo)
@@ -2682,10 +3073,13 @@ search "Gradient" on spotify or other podcast search engine
 * [Pulse 15 - Gen2 - 15,6 inch WQHD 1440p + 100 % sRGB + AMD Ryzen 7 5700U + AMD Radeon Vega 8 Graphics + USB-C (DisplayPort 1.4 & Power Delivery) + max. 4 TB SSD + max. 64GB RAM - TUXEDO Pulse 15 - Gen2 - ANSI Keyboard only - TUXEDO Computers](https://www.tuxedocomputers.com/en/Linux-Hardware/Notebooks/15-16-inch/TUXEDO-Pulse-15-Gen2.tuxedo)
 * [Debian 12 Bookworm Installation and First Look - YouTube](https://www.youtube.com/watch?v=omKFEhWJGYg)
 
+
 ## Bitcoin
 * https://blog.finxter.com/10-best-bitcoin-books-your-ultimate-guide-for-2023/ 
 
+
 ## Gen Prog & CS
+
 
 ## Parsing
 * https://rainingcomputers.blog/dist/the_path_to_implementing_a_programming_language.md 
@@ -2699,20 +3093,31 @@ search "Gradient" on spotify or other podcast search engine
 * [Parsing - Wikipedia](https://en.wikipedia.org/wiki/Parsing)
 * https://github.com/eugenp/tutorials 
 * https://github.com/travisstaloch/pegzi
+
 parsers (from Neso Academy video)
+
 top-down, with backtracking → brute forcing
+
 top-down, without backtracking → recursive descent parsers
+
 top-down, without backtracking → predive parsers LL(1)
+
 top-down, without backtracking → predive parsers LL(k)
+
 bottom-up, operator precedence parsers
+
 bottom-up, LR parsers → LR(0)
+
 bottom-up, LR parsers → SLR(1)
+
 bottom-up, LR parsers → LALR(1)
+
 bottom-up, LR parsers → CLR(1)
 * https://fop.davidshekunts.ru/ 
 * [8.pdf](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
 * https://wiki.osdev.org/Main_Page 
 * https://google.github.io/comprehensive-rust/welcome.html 
+
 read Implementing Programming Languages 
 * [Beck Testing Framework](https://web.archive.org/web/20150315073817/http://www.xprogramming.com/testfram.htm)
 * [add to neorg notes GLR parser - Wikipedia](https://en.wikipedia.org/wiki/GLR_parser)
@@ -2737,6 +3142,7 @@ read Implementing Programming Languages
 * [Category Theory for Programming](https://arxiv.org/pdf/2209.01259.pdf)
 * [Handouts](https://www.ics.uci.edu/~pattis/ICS-33/handouts.html)
 
+
 ## [****hmemcpy/milewski-ctfp-pdf: Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source](https://github.com/hmemcpy/milewski-ctfp-pdf)
 * [Fundamentals of Software Architecture: An Engineering Approach](http://library.lol/main/6B74DC7529E0DA638669B04943B309B6) * [Linux: Das umfassende Handbuch](http://library.lol/main/ACC8321ABFC2CA38D1B2A1703DD0A2BA) * [64-Bit Assembler Programmierung unter Linux](https://www.thalia.de/shop/home/artikeldetails/A1058736107)
 * [Linux. Der kompakte Grundkurs. So lernen Sie das Linux-System grundlegend kennen](https://www.thalia.de/shop/home/artikeldetails/A1060319206)
@@ -2744,9 +3150,12 @@ read Implementing Programming Languages
 
 Storytelling im UX-Design
 * handbuch moderner Softwarearchitektur
+
 Prinzipien des Softwaredesigns
 
+
 ## prog
+
 
 ## testing
 * [List of unit testing frameworks - Wikipedia](https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#Haskell)
@@ -2755,6 +3164,7 @@ Prinzipien des Softwaredesigns
 * [Top 7 Unit Testing Frameworks: A Quick Comparison](https://brightsec.com/blog/unit-testing-frameworks/)
 * [Top Unit Testing Frameworks in 2023 | BrowserStack](https://www.browserstack.com/guide/top-unit-testing-frameworks)
 * [How to Write Tests - The Rust Programming Language](https://doc.rust-lang.org/book/ch11-01-writing-tests.html)
+
 
 * https://coderslegacy.com/comparison-of-sorting-algorithms/ 
 * https://vadimkravcenko.com/shorts/managing-bad-engineers/ 
@@ -2777,6 +3187,7 @@ Prinzipien des Softwaredesigns
 * https://mautic.hyperskill.org/email/view/64d3792462174214388877 
 * https://hackernoon.com/the-7-software-architecture-books-experienced-developers-need-to-read 
 
+
 ## media
 * [Sympolymathesy, by Chris Krycho](https://v5.chriskrycho.com/)
 * https://joshcollinsworth.com/
@@ -2797,19 +3208,25 @@ Prinzipien des Softwaredesigns
 * https://careercutler.substack.com/ 
 * [Open Source Guides | Learn how to launch and grow your project.](https://opensource.guide/)
 
+
 ## general notes on programming languages
 * https://cs.brown.edu/~adf/programming_languages.html
 * https://www.onlinecollegeplan.com/computer-programming-languages/
 
+
 ## Next Steps, Idea
+
 FOSS contributions: Rust NLP, Julia NLP, Rasa, C++ GUI, Torch NLP
+
 
 ## Practice
 * https://github.com/ByteByteGoHq/system-design-101 *****
 * [7 Habits I've Picked Up From Senior Software Developers](https://youtu.be/zivngNtLiuY)
 
+
 ## →
 * [Curated learning resources](https://url6652.creators.gumroad.com/ls/click?upn=56j1UXPh1eye3mggAaGeSuMN76TjtQLbF9BItIUrbWDgKsuUEi99w-2BulaDhah-2BZZexkqNrUQGx4v870IN-2Fh-2Bwg-3D-3DgGI4_Ok-2F1QZUoWNfwArWx1OpnKP3rAR9xqW9UxFasc9TFWJtpfu3uN9QXWSEVAiG0giAEROyvE0zQOoXOiiMDVg4Fsq8w6Zs8rGdSbMZD2aBXb5i4uoFNj8XsEA7mtMBFVWqsHQLLA9n-2FyBw-2B740Etvomb821njsZo-2FgP0zcqnJjpUTUsJZFzEBz3QJ-2BAbvJzuYwk5N-2FuivlVvEu5roljSBqYyh6TJgBLGmtbjdXyAjgr5b7vBC0YxiNMYbhh8IiWv6YcvKNenxDVVUrZnCmD9g7ZrGYjgawHcQv73XD4ojW39bSMRdyWcdMvRC91RL-2BprtfF20svk7te98OIVMurxkVl8kB6eF6FAhvWmr9erVv3Jg-2FBcvGNgDcP1XTax8-2BSAWzdv9xm1wti81nRgBF4KZAh9Bi7tgeepiGGQJ1c9-2B-2BWceaL0IpLoy-2FyntZ4Gvj1sDQGkI6AZ1P-2Fdom5MJntSSEDcHJ7-2F8iXt2XHe1d0iY7moBxnJRJsIFjJCmDh5Lr5x7zxZpNNYeIMKMNsPBPpYfcZxEcrRzXIm8fkPmYBu-2Bipns0-3D) — Computer Science and Programming, Linux, Vim, Perl, Git and GitHub
+
 
 ## Coding Challenges and Education
 * https://thecodingtrain.com/CodingChallenges/
@@ -2827,11 +3244,13 @@ FOSS contributions: Rust NLP, Julia NLP, Rasa, C++ GUI, Torch NLP
 * [Biweekly Contest 16](https://leetcode.com/T7KxOs/?DRVUUAkwARUGHGpKABwBGQcWalAB=820&DRVUUAk%3D=isaac.r.riley%40gmail.com&BBFbUjoBEx0N=biweekly_contest_link_in_text&DgpaVDoKHxEBFGpaCQYRGw%3D%3D=%7B%22Gx1bXTocFwMbEVpXOgYW%22%3A+820%2C+%22DRVUUAk%3D%22%3A+%22isaac.r.riley%40gmail.com%22%2C+%22HBlHXgAbLQUaFEY%3D%22%3A+%5B%22RxtaVxEKAQRHGUVQShgXFQMUTBQGABwEDQtBFFRZS18aHVJQFhsXAg%3D%3D%22%2C+%22RxtaVxEKAQRHD1BcDgMLXQsXW00AHAZdWU4MFg%3D%3D%22%2C+%22RxtaVxEKAQRHGUVQSg0bBw0dXlUcQhEfBgxQShFCQ0ZHClBeDBwGFRo%3D%22%2C+%22RxtaVxEKAQRHGlxOAAoZHBFVVlYLGxcDHFUED0o%3D%22%5D%7D&DhFbWAkwBwIE=https://leetcode.com/contest/biweekly-contest-16/)
 * https://leetcode.com/problems/two-sum/
 * [Convert excel column names to numbers](https://stackoverflow.com/questions/34537243/convert-excel-column-names-to-numbers)
+
 Excel Challenge Problem
 * [Hackerrank Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem)
 * https://adventofcode.com/
 * https://codescracker.com/index.htm
 * https://www.reddit.com/r/dailyprogrammer/comments/9dv08q/20180907_challenge_367_hard_the_mondrian_puzzle/?st=JOHVYFQM&sh=42a19ef7
+
 
 ## Interview
 * [LeetCode Clean Code Handbook: 50 Common Interview Questions](http://library.lol/main/172F5D31191B965FE8CCB5A0F5BECD9A)
@@ -2840,9 +3259,11 @@ Excel Challenge Problem
 * https://www.sanfoundry.com/
 * https://www.freecodecamp.org/news/10-common-coding-interview-problems-solved/
 
+
 ## Small Projects* https://itp.nyu.edu/classes/cc-f21/little-coding-project-kaleidoscope/
 * [Project Based Curriculum Lesson Plans](https://docs.google.com/spreadsheets/d/1KXEJvgnAziiePMp2Ovf_ssDqCFFWYuycXWBNp91k3qM/edit#gid=561004611)
 * [5 Projects Every Programmer Should Try - YouTube](https://www.youtube.com/watch?v=jOFco1xuIeo&feature=youtu.be)
+
 
 ## Tools and Software Resources
 * https://nbviewer.jupyter.org/
@@ -2852,6 +3273,7 @@ Excel Challenge Problem
 * [https://www.jdoodle.com](https://www.jdoodle.com/)
 * https://colab.research.google.com/drive/1RYWJaMEHVeN8yI83QtL35GOSFQBRgLaX BehaviorSuite
 * https://console.paperspace.com/teukn6ij6/projects
+
 GraphicsMagick GM Utility
 * https://github.com/Textualize/rich-cli
 * https://opensource.com/ *****
@@ -2860,7 +3282,9 @@ GraphicsMagick GM Utility
 * https://paketo.io/docs/ 
 * https://nodepit.com/
 
+
 ## Media and People
+
 
 ## Video
 * https://www.youtube.com/c/EngineerMan/playlists
@@ -2871,8 +3295,10 @@ GraphicsMagick GM Utility
 * [Programmieren Starten](https://youtube.com/c/ProgrammierenStarten)
 * https://www.youtube.com/@mycodeschool
 
+
 ## Podcasts
 * [Take Up Code](https://open.spotify.com/show/5i2jy4xzmOqUOvWmwrSOsm?si=ttxaYE9FSYCvzdzhMM5QrQ)
+
 
 * https://coderwall.com/
 * https://blog.paperspace.com/
@@ -2888,8 +3314,10 @@ GraphicsMagick GM Utility
 * [https://www.youtube.com/@StudyingWithAlex](https://www.youtube.com/@StudyingWithAlex?app=desktop)
 * https://www.youtube.com/@saraepaolo
 
+
 ## Ricing
 * https://github.com/adi1090x/polybar-themes
+
 
 ## Cheatsheets, Reference, Wikipedia
 * [Cheatsheets Index | Codecademy](https://www.codecademy.com/resources/cheatsheets/all)
@@ -2902,18 +3330,25 @@ GraphicsMagick GM Utility
 * [Computer science - Wikipedia](https://en.wikipedia.org/wiki/Computer_science#Computer_architecture_and_computer_engineering)
 * https://opensource.com/downloads/cheat-sheets
 
+
 ## Jupyter
 * http://janakiev.com/blog/jupyter-virtual-envs/
+
 
 ## Math
 * [Schlau ist wow](https://www.youtube.com/channel/UCidxCGmO_xUgp84YnC5AMKQ)
 
+
 ## Podcast
+
 Techtiefen
 * https://deploy.codenation.com.br/podcasts/home
+
 Programming Throwdown
 * https://radiopublic.com/commit-WYMXMl
+
 Kopec Explains Software
+
 
 ## 1S reading
 * https://www.jetbrains.com/lp/devecosystem-2022/
@@ -2945,6 +3380,7 @@ Kopec Explains Software
 * [Clean Code Summary](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
 * https://increment.com/programming-languages/crash-course-in-compilers/
 * [Coding Won’t Exist In 5 Years. This Is Why | by Somnath Singh | Jan, 2023 | JavaScript in Plain English](https://javascript.plainenglish.io/coding-wont-exist-in-5-years-this-is-why-6da748ba676c)
+
 The Embedded Pattern (1-to-1, 1-to-many, and many-to-many)The Partial Embed Pattern (1-to-1, 1-to-many, and many-to-many)The Aggregate PatternThe Polymorphic PatternThe Bucket PatternThe Revision PatternThe Tree and Graph PatternThe Schema Version Pattern
 * https://www.heise.de/blog/Die-Struktur-von-Patterns-in-der-Softwareentwicklung-7215710.html
 * https://www.heise.de/blog/Woran-erkennt-man-eine-gute-Softwarearchitektur-7541527.html
@@ -2962,8 +3398,11 @@ The Embedded Pattern (1-to-1, 1-to-many, and many-to-many)The Partial Embed Patt
 * https://dzone.com/refcardz/refactoring-patterns
      * [How Deno’s Founder Is Rebuilding the Runtime of the Web](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=885c7973ff&e=b5a8df9a4a) This article provides an overview of the Deno JavaScript/TypeScript  runtime and its features, highlighting its improved security, simplified  module system, and better developer experience compared to Node.js.* [Beautiful Branchless Binary Search](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=f825542ccb&e=b5a8df9a4a) This post explains how to implement a branchless binary search algorithm
  that is both faster and more power-efficient than traditional binary search algorithms. It provides a detailed  alkthrough of the implementation and offers benchmarks to showcase its effectiveness.* [Thoughtworks Technology Radar 28](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=2f07685780&e=b5a8df9a4a) A latest issue of the Technology Radar which is an opinionated guide to technology frontiers.* [The future of programming: Research at CHI 2023](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=9fce33eaae&e=b5a8df9a4a) Research on programming tools published at CHI 2023.* [Navigating the High Cost of AI Compute](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=8045e2278a&e=b5a8df9a4a)The generative AI boom is compute-bound and, as a result, a predominant factor driving the industry is simply the cost of training and inference.* [How LinkedIn Adopted A GraphQL Architecture for Product Development](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=debd7c2b1a&e=b5a8df9a4a) In our previous post on GraphQL, we explained how LinkedIn uses GraphQL to expedite the process of onboarding new use-cases for external API 
+
 partners. In this blog post, we will cover how the GraphQL layer is architected for use by our internal engineers to build member and customer facing applications. Specifically, we will dive into some of the architectural choices that are unique to LinkedIn and why we chose each one of them.* [Avoiding the Rewrite Trap](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=cdbca5b89f&e=b5a8df9a4a)Before you commit to rewriting an old system, here are some reasons it's (almost always) a bad idea.* [CLI tricks every developer should know](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=7c2af18da5&e=b5a8df9a4a) Learn some tips, tricks, and tools for mastering the command line from GitHub’s own developers.* [Using ChatGPT as a technical writing assistant](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=1ec1f7ac36&e=b5a8df9a4a) An experienced technical author explores using ChatGPT to assist with a  number of writing projects. He finds ChatGPT can provide time-savings through drafts and prompting for additional content, but lacks accuracy and depth - as well as suffering from bubbly optimism. Overall it is 
+
 useful if you work iteratively, asking for small chunks with well-crafted prompts.* [Bootstrapping Uber’s Infrastructure on arm64 with Zig](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=343f76acc7&e=b5a8df9a4a) In November 2021 we decided to evaluate arm64 for Uber. Most of our services are written in either Go or Java, but our build systems only supported compiling to x86_64. Today, thanks to Open Source collaboration, Uber has a system-independent (hermetic) build toolchain 
+
 that seamlessly powers multiple architectures. We used this toolchain to  bootstrap our arm64 hosts. This post is a story with how we went about it, our early thinking, problems, some achievements, and next steps.* [eBay’s Blazingly Fast Billion-Scale Vector Similarity Engine](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=fea573defd&e=b5a8df9a4a) This article takes a look at the architecture we constructed for  vector-based similarity, meeting the scale using data sharding, partitioning and replication, and features including attribute-based features and a pluggable ANN backend based on index building, recall accuracy, latencies and memory footprint. 
 * https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/
 * https://www.freecodecamp.org/news/level-up-developer-portfolio/
@@ -2996,6 +3435,7 @@ that seamlessly powers multiple architectures. We used this toolchain to  bootst
 * https://ericlippert.com/category/monads/page/2/
 * https://stackoverflow.com/questions/2704652/monad-in-plain-english-for-the-oop-programmer-with-no-fp-background
 * https://blog.jcoglan.com/2011/03/05/translation-from-haskell-to-javascript-of-selected-portions-of-the-best-introduction-to-monads-ive-ever-read/
+
 
 ## 1S Video
 * [How One Line of Code Almost Blew Up the Internet - YouTube](https://www.youtube.com/watch?v=GEbn3nHyKnA)
@@ -3043,8 +3483,10 @@ that seamlessly powers multiple architectures. We used this toolchain to  bootst
 * [C Programming: Makefiles - YouTube](https://www.youtube.com/watch?v=GExnnTaBELk)
 * [2022 Predictions](https://www.youtube.com/watch?v=LOpFYMPXqE4)
 * [Don't Write Comments](https://www.youtube.com/watch?v=Bf7vDBBOBUA)
+
 Code strukturieren // deutsch
      * [How I make science animations](https://www.youtube.com/watch?v=yaa13eehgzo)
+
 
 ## People
 * https://github.com/Anaphory
@@ -3057,13 +3499,16 @@ Code strukturieren // deutsch
 * https://youtube.com/@EberhardWolff
 * [tsoding / porth · GitLab](https://gitlab.com/tsoding/porth)
 * https://www.youtube.com/c/Cleancoders
+
 Igor Zhirkov (interests)
 * https://ianthehenry.com/ 
 * https://markwatson.com/ 
 * https://daniel-siepmann.de/ 
 * https://sbr.pm/ 
+
 → https://gideonwolfe.com/ 
 * https://github.com/kobzol 
+
 
 ## Media, Channels
 * https://refactoring.guru/uk
@@ -3105,6 +3550,7 @@ Igor Zhirkov (interests)
 * https://www.youtube.com/@devopstoolbox ***
 * https://zestedesavoir.com/bibliotheque/informatique/
 
+
 ## Course / Tutorial
 * [From Nand to Tetris Part 1](https://www.youtube.com/playlist?list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI)
 * [ACME 2022-2023 Materials](https://acme.byu.edu/2022-2023-materials)
@@ -3131,6 +3577,7 @@ Igor Zhirkov (interests)
 * https://www.freecodecamp.org/ukrainian/learn/ 
 * [Tutorials Point (India) Ltd.](https://www.youtube.com/channel/UCVLbzhxVTiTLiVKeGV7WEBg)
 
+
 ## Projects, Tools, Libraries
 * [orsinium-labs/python-lambda-calculus: Lambda Calculus things implemented on Python](https://github.com/orsinium-labs/python-lambda-calculus)
 * [Mojo](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=506258937d&e=b5a8df9a4a) A new programming language for all AI developers. Mojo combines the usability of Python with the performance of C, unlocking unparalleled programmability of AI hardware and extensibility of AI models.* [mlc-llm](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=b0444df446&e=b5a8df9a4a) Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.* [Trawler](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=a704dd8458&e=b5a8df9a4a) PowerShell script to help Incident Responders discover adversary persistence mechanisms.* [tutim](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=30a93f90cc&e=b5a8df9a4a) The open-source wizard form infrastructure for web applications.* [nango](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=d9ac2ed1a5&e=b5a8df9a4a) Pre-built OAuth flows & secure token management for 90+ APIs.* [Teletrace](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=4e35a87f18&e=b5a8df9a4a) Open-Source Tracing Platform.* [IntelliNode](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=5904481f92&e=b5a8df9a4a) Unified access to various AI models, such as ChatGPT, Diffusion, Cohere, and others, using a few Javascript lines.* [rustic](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=6cffd8871f&e=b5a8df9a4a) Fast, encrypted, deduplicated backups powered by Rust.* [Tempo](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=35a3c6cd2b&e=b5a8df9a4a) Low latency, cross-platform, end-to-end typesafe APIs.
@@ -3141,25 +3588,34 @@ Igor Zhirkov (interests)
 * https://www.antlr.org/
 * https://fosspost.org/open-source-cad-programs-autocad-alternative/
 * https://app.diagrams.net/
+
 minder
+
 lowchart
+
 gnuplot ASCII mode
 * https://codesandbox.io/ 
+
 
 ## for roadmaps
 * https://www.google.com/search?channel=fs&client=ubuntu&q=leet+code+solutions
 * https://leetcode.com/problemset/all/ 
 * https://byucs110.org/
 * [Beginning Bazel: Building and Testing for Java, Go, and More](https://en.de1lib.org/book/5397976/f53e23)
+
 collect D books and resources, add to Roadmaps and Drive
+
 add Software Architecture Patterns book
 * [Build Systems With Go: Everything a Gopher must know](http://libgen.is/book/index.php?md5=3C72718EFA688F90B041DE00E90E95AE)
 * [Core Bazel: Fast Builds For Busy People](https://en.de1lib.org/book/17300626/9c46f7)
+
 Epictetus
 * [Practical System Programming for Rust Developers: Build fast and secure software for Linux/Unix systems with the help of practical example](http://libgen.is/book/index.php?md5=46C9B5B1BED7E89C1326087FB6224676)
 * [Build Your Own Programming Language: A programmer's guide to designing compilers, interpreters, and DSLs for solving modern computing problems](http://library.lol/main/C8DD630A20C1864FC30682992A6A86EE)
 * [A Hunter-Gatherer's Guide to the 21st Century: Evolution and the Challenges of Modern Life](http://library.lol/main/A4B2752A879B2A38FD0D0DBC7194EAB6)
+
 Baggini ethics book in some language to Roadmaps
+
 add C++ für Dummies to Roadmaps
 * [Crafting Interpreters](http://library.lol/main/B91B4DD0DD5A234BD83BE0ED93C28139)
 * https://devguide.python.org/
@@ -3172,6 +3628,7 @@ add C++ für Dummies to Roadmaps
 * [Learning Object-Oriented Programming: Explore and crack the OOP code in Python, JavaScript, and C#](http://library.lol/main/F485A9E07966E40D96382FF767A0271D)
 * [Modern Software Engineering: Doing What Works to Build Better Software Faster](http://library.lol/main/BBDB31ABE5C9D28DB49AFBAD040508CE)
 * [Python Testing with pytest: Simple, Rapid, Effective, and Scalable](http://library.lol/main/125561C33F4FDE6E540B5F6664DEE020)
+
 Smola book
 * [Software Build Systems: Principles and Experience](http://library.lol/main/9DE736557A522CCA3434F2B4E254AF07)
 * [The Art of Readable Code](http://libgen.rs/book/index.php?md5=149128E47C5CEA6BE986BEBF001ECC5A)
@@ -3179,18 +3636,27 @@ Smola book
 * [Working effectively with legacy code](http://library.lol/main/2C3232C7E7BBC3C19011DD22AD42A873)
 * [Introduction to numerical programming: a practical guide for scientists and engineers using Python and C/C++](http://library.lol/main/4972CB31DAB7F45914FBA5DB689067AE)
 * https://build2.org/
+
 look for books and articles on psychology and stoicism, evolution and why people worry about things they cannot control
+
 look for books and articles on the psychology of wealth and inequality
 
+
 ## Notes and Ideas
+
 question-driven development
+
 interesting OSes: Theseus, Redox, Fuchsia, Minix, Genode, Tock, Medley Interlisp, Mezzano(on old laptop?), Interim OS (also a language), Chrysalisp, Urbit OS, House OS
+
 parallax
+
 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
 
 ## Very Best Resources
 * [The Twelve-Factor App](https://12factor.net/config)
 * https://roadmap.sh/
+
 
 * https://up-for-grabs.net/#/
 * http://showthedocs.com/
@@ -3207,18 +3673,23 @@ parallax
 * https://awesomeopensource.com/project/webpro/programming-principles 
 * https://awesomeopensource.com/
 * https://codereview.stackexchange.com/
+
 FreeCodeCamp
+
 
 ## Dev and LLM
 * [How to learn to code FAST using ChatGPT (it's a game](https://www.youtube.com/watch?v=VznoKyh6AXs)
 * [ChatGPT Tutorial for Developers - 38 Ways to 10x Your Productivity Programming with Mosh Programming with Mosh Verificada • • 838.254 visualizaciones hace 11 días](https://www.youtube.com/watch?v=sTeoEFzVNSc)
 
+
 ## My Writing
 * https://dev.to/yelircaasi
+
 
 ## Orgs
 * https://higherorderco.com/
 * https://ourcodingclub.github.io/
+
 
 ## Books
      * [Purely functional data structures](http://library.lol/main/B9CFBFBDDF11107F53D1EE7448006453)
@@ -3230,10 +3701,13 @@ FreeCodeCamp
 * [concise c++ →](http://libgen.rs/search.php?&req=concise+c%2B%2B&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 * [noel kalicharan](http://libgen.rs/search.php?req=noel+kalicharan&open=0&res=25&view=simple&phrase=1&column=def)
 * [clean code books](http://libgen.rs/search.php?req=clean+code&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+
 Fundamentals of Software Architecture
+
 Code That Fits in Your Head (find book)
 * [All books bundle](https://learnbyexample.gumroad.com/l/all-books?layout=profile)
 * https://freecomputerbooks.com/
+
 Introduction to Computer Ognization (Plantz)
 * [Category Theory for Programmers](https://dokumen.pub/category-theory-for-programmers.html)
 * [Padrões de Projetos: Soluções Reutilizáveis](http://libgen.is/book/index.php?md5=FC1C1335A44E839C461387DD45B61425)
@@ -3260,6 +3734,7 @@ Introduction to Computer Ognization (Plantz)
 * [Quantum computer science: an introduction [1 ed.]](http://libgen.is/book/index.php?md5=C74B12E92F2AE14605F03215DF66E3C0)
 * [The Code Book](https://en.de1lib.org/book/746811/b86fc3)
 * [Zrozumieć programowanie](https://en.de1lib.org/book/3714651/93d220)
+
 IT-Handbuch fuer Fachinformatiker*innen
 * [Software Architecture Patterns](http://library.lol/main/D4F24FAEFF960B9652E9FD6C880BD300)
 * http://www.openhumanitiespress.org/books/titles/aesthetic-programming/
@@ -3271,13 +3746,20 @@ IT-Handbuch fuer Fachinformatiker*innen
 * [Python для программирования криптовалют](http://library.lol/main/B80BAA94A38F4B26FF049D3428CE5A9A)
 * [Эволюционная теория происхождения денег в экономической науке в свете появления криптовалют](http://library.lol/main/F4E9DE9A5CD79387195EB2CAE80A33F4)
 * [Феномен криптовалюты Биткоин. Построение математических моделей децентрализованных информационных систем, реализующих функции платежных систем криптовалют. Подходы к комплексной оценке безопасности, в том числе оценке криптографической стойкости](http://library.lol/main/759BF15E4977BFB12324FA7D7BD16A71)
+
 Operating Systems: Three Easy Pieces
+
 Building your Mouseless Development Environment → https://flurly.com/p/mouseless-book
 * [Algorithms: Notes for Professionals](http://libgen.rs/book/index.php?md5=57D05F9FD1FAC34B2E73FAD96E41D910)
+
 Генри С. Уоррен - Алгоритмические трюки для программистов, 2-е издание.pdf
+
 Бёрд Р. - Жемчужины проектирования алгоритмов. Функциональный подход
+
 Programming Language Design Concepts
+
 Software Source Code: Statistical Modeling (De Gruyter STEM)
+
 Duden Informatik A-Z
 * [97 Things Every Programmer Should Know: Collective Wisdom from the Experts](http://library.lol/main/7446195CBE1DC4253E4A1C1F70467B51)
 * [Software Engineering at Google: Lessons Learned from Programming Over Time](http://library.lol/main/19E06B97A1A518FB8DEF778B8423EA91)
@@ -3286,10 +3768,15 @@ Duden Informatik A-Z
 * [Algorithms for Optimization](http://library.lol/main/1BE77112D9E4058CBDBEEDFC2C46FE27)
 * http://classicproblems.com/
 * http://progopedia.com/* [Exercises for Programmers: 57 Challenges to Develop Your Coding Skills](http://library.lol/main/7D9BDD6DB6819D63938CE33865DC4FC5)
+
 Language Server Protocol and Implementation: Supporting Language-Smart Editing and Programming Tools
+
 Think Like a Programmer (Spraul)
+
 Coding for Fun (Wolmeringer)
+
 Why Programs Fail (Zeller)
+
 Library Genesis: Matthew Justice - How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine
      * [Artificial Life Models in Software](http://library.lol/main/AE11D3B9C747AE9619EAB789F87AEF21)
 * [Library Genesis: Дональд Эрвин Кнут (Donald E. Knuth) - Искусство программирования](https://libgen.is/book/index.php?md5=047ACE01CA77647FC56B11B5CB71106C)
@@ -3298,10 +3785,15 @@ Library Genesis: Matthew Justice - How Computers Really Work: A Hands-On Guide t
 * [Library Genesis: Грэхем Р., Кнут Д., Паташник О. - Конкретная математика](https://libgen.is/book/index.php?md5=A1F33E6B2C9F9A1774441ADBD360C734)
 * https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md
 * https://github.com/EbookFoundation/free-programming-books
+
 Система контроля версии Git
+
 Сам себе программист
+
 Ремесло программиста
+
 Численные методы и программирование
+
 Git для профессионального программиста
      * [Software Development : An Open Source Approach](http://library.lol/main/9860DD42AC234585B304A54A9F31E707)
 * [Software Architecture Metrics: Case Studies to Improve the Quality of Your Architecture](http://library.lol/main/46F1A1DE3F82D6808CBFFE4ED9E19DD4)
@@ -3318,13 +3810,17 @@ Git для профессионального программиста
 * [Prinzipien des Softwaredesigns: Entwurfsstrategien für komplexe Systeme](http://library.lol/main/E7C19BD995D0D61BFC2C56FDBA200DCA)
 * https://cuteboyprogrammers.com/pdf/
 * https://s3.amazonaws.com/codenewbie-assets/codeland/Codeland+2018+Booklet+-+FINAL.pdf
+
 a history of modern computing ceruzzi
+
 computer a history of the information machine aspray
+
 the universal computer
 * https://markwatson.com/books 
 * [Алгоритмы. Справочник с примерами на C, C++, Java и Python [2 ed.]](http://libgen.rs/book/index.php?md5=B0759DB111185A43F79E2BC6CCD8659F)
 * [Software Modeling and Design: UML, Use Cases, Patterns, and Software Architectures](https://de1lib.org/book/1108322/de9d89)
 * https://github.com/mark-watson/free-older-books-and-software/tree/main 
+
 
 ## Misc Topics
 * [https://regexlearn.com](https://regexlearn.com/)
@@ -3332,127 +3828,183 @@ the universal computer
 * https://pslmodels.github.io/Git-Tutorial/content/intro.html
 * https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1 
 
+
 ## vscode
 * https://dev.to/thegeoffstevens/vs-code-settings-you-should-customize-5e75
 * https://code.visualstudio.com/docs
 * https://code.visualstudio.com/docs/remote/containers
 * [VS Code Top 10 Profi-Tipps](https://www.youtube.com/watch?v=eO_IFx6mR4E)
 
+
 * [MLOps vs. DevOps: the similarities and differences](https://www.datasciencecentral.com/profiles/blogs/mlops-vs-devops-the-similarities-and-differences)
 * [Как разобраться в Computer Science самостоятельно](https://vk.com/@weekkey-kak-razobratsya-v-computer-science-samostoyatelno)
+
 Geogrebra, SymPy, P5.js, Processing lang
+
 → [awesome-github](https://github.com/fffaraz/awesome-github) - Faraz Fallahi maintains a curated list of GitHub & Git resources.
 * [Is your PC hacked? RAM Forensics with Volatility](https://www.youtube.com/watch?v=VK3fvNFGAzE)
 * https://github.com/wsgac 
 * http://www.pdelfino.com.br/ 
 * https://www.dioptricdesign.com/ 
 
+
 ## [Hexlet](https://en.hexlet.io/): Practical programming courses (JavaScript, PHP, Unix, databases, functional programming). A steady path from the first line of code to the first job.
 * https://github.com/preslavmihaylov/booknotes
 * https://www.youtube.com/@IogaMaster 
 * https://github.com/prmadev 
 ***** https://m7.rs/
+
 → https://git.sr.ht/~misterio/ 
 ***** https://david-peter.de/ 
 
+
 ## ☒ CLI/TUI Building Libraries
+
 → https://github.com/shadawck/awesome-cli-frameworks
+
 all ** unless otherwise indicated
+
 
 ## JS
 
+
 ### [ ]  https://www.npmjs.com/package/chalk - color library
+
 
 ## Python
 
+
 ### [ ]  ‣
+
 
 ### [ ]  https://jsonargparse.readthedocs.io/
 
-### [ ]  ‣
 
 ### [ ]  ‣
 
-### [ ]  ‣
 
 ### [ ]  ‣
+
+
+### [ ]  ‣
+
+
+### [ ]  ‣
+
 
 ### [ ]  ‣ https://typer.tiangolo.com/
 
+
 ## Go
 
-### [ ]  ‣
 
 ### [ ]  ‣
 
+
 ### [ ]  ‣
+
+
+### [ ]  ‣
+
 
 ### [ ]  ‣ - powerful TUI framework
 
-### [ ]  ‣
 
 ### [ ]  ‣
 
+
 ### [ ]  ‣
+
+
+### [ ]  ‣
+
 
 ## Haskell
 
+
 ### [ ]  ‣
+
 
 ## Crystal
 
+
 ### [ ]  [Crystal cli](https://crystal-lang.org/reference/1.10/getting_started/cli.html)
+
 
 ## Rust
 
+
 ### [ ]  ‣ - CLI coloring tool for Rust
 
+
 ### [ ]  ‣
+
 
 ### [ ]  ‣
     ‣
 
+
 * https://github.com/wong2/pick
 * https://ceccopierangiolieugenio.github.io/pyTermTk/ 
 
+
 ## ☒ GUI Development
+
 
 ## [ ]  **** https://azul.rs/
 
+
 ## [ ]  ****  https://tauri.app/
+
 
 ## [ ]  *** [wxPython](https://wxpython.org/index.html)
 
+
 ## [ ]  ***https://github.com/qt/qtbase
+
 
 ## [ ]  *** https://github.com/GNOME/gtk
 
+
 ## [ ]  *** https://github.com/ocornut/imgui
+
 
 ## [ ] 
 * https://www.tcl.tk/, [tkinter](https://docs.python.org/3/library/tkinter.html)
 
+
 ## [ ]  ** [PHP App Server](https://github.com/cubiclesoft/php-app-server/)**: Create lightweight, installable almost-native applications for desktop OSes. ExecTerminal (nicely wraps the xterm.js Terminal), TerminalManager, and RunProcessSDK are self-contained, reusable ES5+ compliant Javascript components.
+
 
 ## ☒ Programming Languages, Specific Code Libraries
 
+
 ## ☒ Multiple
+
 
 ### [ ]  *** ‣ [A fast programming language detector](https://github.com/monkslc/hyperpolyglot) -
 
+
 ### [ ]  *** ‣ [Language Savant. If your repository's language is being reported incorrectly, send us a pull request!](https://github.com/github-linguist/linguist)
+
 
 ### [ ]  **** flex
 
+
 ### [ ]  **** bison
+
 
 ### [ ]  **** byacc
 
+
 ### [ ]  **** llvm
+
 
 ### [ ]  *** https://www.bouml.fr/
 
+
 ### [ ]  **** ‣ - Manage multiple runtime versions with a single CLI tool. - probably no because Nix is superior, but still interesting to try out
+
 
 ## ☒Python
     → make a fancy powerline/starship-style Python REPL?
@@ -3462,151 +4014,223 @@ all ** unless otherwise indicated
     → debug custom prompt in Python
     → https://discuss.python.org/t/announce-pybi-and-posy/23021
 
+
 ### [ ]  ***** https://sh.readthedocs.io/en/latest/
+
 
 ### [ ]  ***** poetry2nix
 
+
 ### [ ]  ***** [Scipy](https://scipy.org/install.html) - SciPy is a Python-based ecosystem of open-source software for mathematics, science, and engineering.
+
 
 ### [ ]  ***** ‣ (polyglot FFI)
 
+
 ### [ ]  ***** [pypi-command-line](https://github.com/wasi-master/pypi-command-line) - A powerful, colorful, beautiful command-line-interface for pypi.org.
+
 
 ### [ ]  ***** [Python re(gex)? exercises](https://github.com/learnbyexample/TUI-apps/tree/main/PyRegexExercises) - TUI application intended to help you practice Python regular expressions; there are more than 100 exercises covering both the builtin re and third-party regex module.
 
+
 ### [ ]  ***** [pire](https://github.com/johannestaas/pire) - Python Interactive Regular Expressions.
 
+
 ### [ ]  **** ‣
+
 
 ### [ ]  ****  ‣ - at least look at and use ideas
 
+
 ### [ ]  **** [Ipython](https://ipython.org/) - Powerful Python shell.
+
 
 ### [ ]  **** bpython
 
+
 ### [ ]  **** ptpython
 
-### [ ]  **** ‣
 
 ### [ ]  **** ‣
+
+
+### [ ]  **** ‣
+
 
 ### [ ]  **** [Jupyter Notebook](https://jupyter.org/) - An open source program that provides interactive data and scientific computing information across over 40 programming languages.
 
+
 ### [ ]  **** [pyutils](https://wannabe.guru.org/pydocs/pyutils/index.html)
+
 
 ### [ ]  *** ‣
 
+
 ### [ ]  *** pyenv - inferior to Nix, but good to know
 
-### [ ]  [U] ‣
 
 ### [ ]  [U] ‣
+
+
+### [ ]  [U] ‣
+
 
 ### [ ]  https://pex.readthedocs.io/en/v2.1.154/
 
+
 ## ☒ Database
+
 
 ### [ ]  ***** [PostgreSQL](https://www.postgresql.org/download/) - PostgreSQL is a powerful, open source object-relational database system with more than 15 year development. PostgreSQL is not controlled by any corporation or other private entity and the source code is available free of charge.
 
+
 ### [ ]  ***** [pgcli](https://www.pgcli.com/) - Pgcli is a command line interface for Postgres with auto-completion and syntax highlighting.
+
 
 ### [ ]  ***** [Sqlite](https://sqlite.org/download.html) - SQLite is an in-process library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine.
 
+
 ### [ ]  ***** [Sqlite Browser](https://sqlitebrowser.org/) - Visually create, manage, and view sqlite database files.
+
 
 ### [ ]  ***** ‣ - A terminal spreadsheet multitool for exploring and arranging data (csv/json/xml/xls/yaml/etc)
 
+
 ### [ ]  **** [Percona MongoDB](https://www.percona.com/software/mongo-database/percona-server-for-mongodb) - Percona Server for MongoDB provides all features and benefits of MongoDB Community Server.
 
+
 ### [ ]  **** [Percona Monitoring](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Percona Monitoring and Management (PMM) is a free and open-source platform for managing and monitoring MySQL, MariaDB and MongoDB performance. You can run PMM in your own environment for maximum security and reliability. It provides thorough time-based analysis for MySQL, MariaDB and MongoDB servers to ensure that your data works as efficiently as possible.
+
 
 ### [ ]  **** https://graphql.org/
     ### [ ]  **** [strawberry](https://github.com/strawberry-graphql/strawberry)
 
+
 ### [ ]  **** [MariaDB](https://mariadb.org/) - One of the most popular database servers. Made by the original developers of MySQL.
+
 
 ### [ ]  **** [sqlline](https://github.com/julianhyde/sqlline) - Shell for issuing SQL to relational databases via JDBC (multiline, completion, highlighting, dialect support)
 
+
 ### [ ]  **** [QT Creator](https://www.qt.io/qt-features-libraries-apis-tools-and-ide/) - Fully-stocked cross-platform integrated development environment for easy creation of connected devices, UIs and applications.
+
 
 ### [ ]  **** [MongoDB](https://www.mongodb.com/) - MongoDB is a free and open-source cross-platform document-oriented database program, uses JSON-like documents with schemas.
 
+
 ### [ ]  **** [CouchDB](https://couchdb.apache.org/) - Seamless multi-master sync, that scales from Big Data to Mobile, with an Intuitive HTTP/JSON API and designed for Reliability.
+
 
 ### [ ]  **** ‣ ‣‣ ([OmniDB](https://github.com/OmniDB/OmniDB)) - Browser-based tool that visually create, manage, and view databases.
 
+
 ### [ ]  **** ‣ - Postgres client with autocompletion and syntax highlighting.
+
 
 ### [ ]  **** ‣ - Redis client with autocompletion and syntax highlighting.
 
+
 ### [ ]  **** ‣ - Universal SQL client with autocompletion and syntax highlighting.
+
 
 ### [ ]  *** [DBeaver](https://dbeaver.io/) - A universal database client supporting multiple platforms and databases.
 
+
 ### [ ]  *** [Cassandra](https://cassandra.apache.org/) - Apache Cassandra database is the right choice when you need scalability and high availability without compromising performance. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data.
+
 
 ### [ ]  *** [xmlstarlet](http://xmlstar.sourceforge.net/) - Old but powerful tool for command-line XML formatting, filtering, and manipulation.
 
+
 ### [ ]  *** [Kexi](https://calligra.org/kexi/) - Kexi is an open source visual database applications creator, a long-awaited competitor for programs like MS Access or Filemaker.
+
 
 ### [ ]  bp<<<[mycli](https://www.mycli.net/)
 
+
 ## ☒ Java, JVM
+
 
 ### [ ]  ***** openjdk
 
+
 ### [ ]  [U] sdkman
+
 
 ## ☒ Scala
 
+
 ## ☒ Clojure
+
 
 ## ☒ Julia
 
+
 ## ☒ CL
+
 
 ### [ ]  ***** [sbcl](http://www.sbcl.org/)
 
+
 ## ☒ Lua
+
 
 ### [ ]  ***** [lua-sh: calling shell commands as functions](https://zserge.com/posts/luash/)
 
+
 ## ☒ Perl family
+
 
 ### [ ]  **** ‣
 
+
 ## ☒ JS, TS
+
 
 ### [ ]  ***** Bun
 
+
 ### [ ]  **** ‣ [Pencil](https://pencil.evolus.vn/) - An open-source GUI prototyping tool that’s available for ALL platforms.
+
 
 ### [ ]  **** ‣ - A little agent that removes the node_modules folder of non-active projects
 
+
 ### [ ]  ‣
+
 
 ## ☒ C, C++
 
+
 ### [ ]  ***** clang
+
 
 ### [ ]  ***** gcc
 
+
 ## ☒ Haskell
+
 
 ### [ ]  ***** ghc, ghci
 
+
 ## ☒ Other
 
+
 ### [ ]  ***** ‣ - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable - extend to regexes of other languages
+
 
 ### [ ]  **** [KLEE](https://klee.github.io/)
     ### [ ]  http://klee.github.io/releases/docs/v1.3.0/
 
+
 ### [ ]  *** https://strlen.com/lobster/
+
 
 ### [ ]  *** [Workbench](https://apps.gnome.org/app/re.sonny.Workbench/) - Workbench goal is to let you experiment with GNOME technologies, no matter if tinkering for the first time or building and testing a custom GTK widget.
 * https://darklua.com/ 
 * https://github.com/criblio/js2bin
 * https://github.com/fosskers/aura https://fosskers.github.io/aura/philosophy.html
+
 
 ## [ ]  (PG) https://github.com/com-lihaoyi/Ammonite - An object shell with a Scala-like scripting language.

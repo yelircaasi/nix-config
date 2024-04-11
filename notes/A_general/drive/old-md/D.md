@@ -1,6 +1,7 @@
 # D
 ## A. General
 ### Наука. Величайшие теории
+
 Ampere.djvu
 * Archimed.djvu
 * Bohr.djvu
@@ -53,6 +54,7 @@ Ampere.djvu
 * pens.djvu
 * von Neumann.djvu
 
+
 ### <General>
 * Краткая история почти всего на свете.pdf
 * The psychology of science and the origins of the scientific mind.pdf
@@ -82,8 +84,10 @@ Ampere.djvu
 * Квант 10-2020.pdf
 * Наука.pdf
 
+
 ## B. Física
 ### Acústica
+
 Musilalische Akustik.pdf
 * Hearing. An Introduction to Psychological and Physiological Acoustics.pdf
 * Pohls Einführung in die Physik Band 1. Mechanik, Akustik und Wärmelehre
@@ -97,7 +101,9 @@ Musilalische Akustik.pdf
 * Speech and Music, Acoustics and Coding.pdf
 * Technische Akustik.pdf
 
+
 ### Física cuántica
+
 Квантовые миры и возникновение пространства времени (Кэрролл)
 * Квантовые миры.pdf
 * 50 Schlüsselideen der Quantenphysik.pdf
@@ -105,7 +111,9 @@ Musilalische Akustik.pdf
 * Quantum Field Theory and Condensed Matter. An Introduction.pdf
 * Квантовая механика для математиков.djvu
 
+
 ### Relativitätstheorie
+
 Теоретический минимум. Специальная теория относительности и классическая теория поля.pdf
 * ABC der Relativitätstheorie.pdf
 * Relativity for Everyone. How Space-Time Bends.epub
@@ -113,7 +121,9 @@ Musilalische Akustik.pdf
 * Теория относительности для миллионов.gdoc
 * Allgemeine Relativitätstheorie (Einstein).pdf
 
+
 ### _Lectura general de física
+
 Смартфоника. Научные эксперименты со смартфоном
 * Notre univers mathématique
 * A Ordem do Tempo-Objetiva (Rovelli).epub
@@ -154,14 +164,18 @@ Musilalische Akustik.pdf
 * Физика на каждом шагу.pdf
 * On the Dimensionality of Spacetime.pdf
 
+
 ### <General>
+
 Механические формулы.jpg
 * Проста фізика.epub
 * Quirky Quarks. A Cartoon Guide to the Fascinating Realm of Physics.pdf
 * Страх физики. Сферический конь в вакууме.pdf
 * Mathematical Physics A Modem Introduction to Its Foundations.pdf
 
+
 ## C. Química
+
 Cartoon Guide to Chemistry.pdf
 * 50 grandi idee di chimica.pdf
 * The Periodic Table Book.pdf
@@ -173,12 +187,15 @@ Cartoon Guide to Chemistry.pdf
 * Die Stoffklassen der organischen Chemie. Praktisch und kompakt von Studenten erklärt.pdf
 * Вступ до органічної хімії.pdf
 
+
 ## D. Geología
 ## E. Astronomía
+
 50 Schlüsselideen der Astronomie und Kosmologie.pdf
 * The Ultimate Fate of the Universe.pdf
 * 100 preguntas sobre astronomía.pdf
 * Большое космическое путешествие.epub
 * Введение в физику космоса.pdf
+
 
 ## F. Geología

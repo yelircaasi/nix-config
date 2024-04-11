@@ -1,6 +1,9 @@
 # WMs, Compositors, Bars, Menus, Launchers, Notifications, Widgets, Lockscreen, etc.
 
-- Ideal Setup:* 1. Minimal use of mouse* 2. Unified, consistent, ergonomic keybindings* 3. Multiple layouts and configurations for different tasks* 4. Configurations well-documented and backed up, easy to reproduce with a few commands* 5. Aesthetically pleasing - unified color scheme (and ability to switch between themes)* 6. Privacy and security* 7. Maximized efficiency and productivity: work at the speed of thought, minimizing clutter & drag* 8. Reliable, solid system - no breakage
+## Sort
+https://github.com/KZDKM/Hyprspace
+
+* Ideal Setup:* 1. Minimal use of mouse* 2. Unified, consistent, ergonomic keybindings* 3. Multiple layouts and configurations for different tasks* 4. Configurations well-documented and backed up, easy to reproduce with a few commands* 5. Aesthetically pleasing - unified color scheme (and ability to switch between themes)* 6. Privacy and security* 7. Maximized efficiency and productivity: work at the speed of thought, minimizing clutter & drag* 8. Reliable, solid system - no breakage
 
 # Desktop Meta - WMs, Compositors, Bars, Notifications, Launchers, etc.
 
@@ -103,7 +106,7 @@ Wayland recommended stack:
 * [xlauncher](https://github.com/vatriani/xlauncher)
 * ( )
 * [pmenu](https://github.com/sgtpep/pmenu) - A dynamic terminal-based menu inspired by dmenu.
-- ilia
+* ilia
 ## Sort
 * ( )
 * [albert,](https://github.com/albertlauncher/albert,) https://albertlauncher.github.io/https://albertlauncher.github.io/reference/
@@ -255,7 +258,7 @@ Wayland recommended stack:
 * [yambar](https://codeberg.org/dnkl/yambar)
 * ( )
 * [yambar](https://codeberg.org/dnkl/yambar)
-- sort*   - investigate polybar vs qtile bar*   - [polybar](https://github.com/polybar/polybar)*   - status bars:         - [dzen](https://robm.github.io/dzen/)        - [xmobar](https://codeberg.org/xmobar/xmobar)        - [taffybar](https://github.com/taffybar/taffybar)        - [polybar](https://github.com/polybar/polybar)*       - [Configuring Xmonad and Polybar (It's Not THAT Difficult!) - YouTube](https://www.youtube.com/watch?v=cOehuALOQy4)        - [cnx](https://github.com/mjkillough/cnx)*   - systrays:         - [trayer](https://github.com/sargon/trayer-srg)        - [stalonetray](https://kolbusa.github.io/stalonetray/)        - [gtk-sni-tray](https://github.com/taffybar/gtk-sni-tray)*   - taffybar configs        - [Dotfiles,](https://github.com/ProtonNumber/Dotfiles,)        - [r/unixporn - [Xmonad / Taffybar] A minimalist & blue RICE!](https://www.reddit.com/r/unixporn/comments/stsstb/xmonad_taffybar_a_minimalist_blue_rice/)        - [r/unixporn - [XMonad] Dynamic Workspace Naming with Taffybar](https://www.reddit.com/r/unixporn/comments/59y6uf/xmonad_dynamic_workspace_naming_with_taffybar/)        - [r/unixporn - [taffybar/XMonad] Gtk+3 Updates to Taffybar](https://www.reddit.com/r/unixporn/comments/78zwek/taffybarxmonad_gtk3_updates_to_taffybar/)        - [r/unixporn - [taffybar][XMonad] A little bit too much transparency](https://www.reddit.com/r/unixporn/comments/8l40iu/taffybarxmonad_a_little_bit_too_much_transparency/)*   - xmobar configs*     - https://beginners-guide-to-xmonad.readthedocs.io/configure_xmobar.html        - [dotfiles](https://github.com/Horhik/dotfiles)        - [dotfiles](https://github.com/Jonathas-Conceicao/dotfiles)        - [dofiles](https://gitlab.com/roosemberth/dotfiles/-/tree/master/)        - [Solarized-xmonad-xmobar](https://github.com/dmxt/Solarized-xmonad-xmobar)
+* sort*   - investigate polybar vs qtile bar*   - [polybar](https://github.com/polybar/polybar)*   - status bars:         - [dzen](https://robm.github.io/dzen/)        - [xmobar](https://codeberg.org/xmobar/xmobar)        - [taffybar](https://github.com/taffybar/taffybar)        - [polybar](https://github.com/polybar/polybar)*       - [Configuring Xmonad and Polybar (It's Not THAT Difficult!) - YouTube](https://www.youtube.com/watch?v=cOehuALOQy4)        - [cnx](https://github.com/mjkillough/cnx)*   - systrays:         - [trayer](https://github.com/sargon/trayer-srg)        - [stalonetray](https://kolbusa.github.io/stalonetray/)        - [gtk-sni-tray](https://github.com/taffybar/gtk-sni-tray)*   - taffybar configs        - [Dotfiles,](https://github.com/ProtonNumber/Dotfiles,)        - [r/unixporn - [Xmonad / Taffybar] A minimalist & blue RICE!](https://www.reddit.com/r/unixporn/comments/stsstb/xmonad_taffybar_a_minimalist_blue_rice/)        - [r/unixporn - [XMonad] Dynamic Workspace Naming with Taffybar](https://www.reddit.com/r/unixporn/comments/59y6uf/xmonad_dynamic_workspace_naming_with_taffybar/)        - [r/unixporn - [taffybar/XMonad] Gtk+3 Updates to Taffybar](https://www.reddit.com/r/unixporn/comments/78zwek/taffybarxmonad_gtk3_updates_to_taffybar/)        - [r/unixporn - [taffybar][XMonad] A little bit too much transparency](https://www.reddit.com/r/unixporn/comments/8l40iu/taffybarxmonad_a_little_bit_too_much_transparency/)*   - xmobar configs*     - https://beginners-guide-to-xmonad.readthedocs.io/configure_xmobar.html        - [dotfiles](https://github.com/Horhik/dotfiles)        - [dotfiles](https://github.com/Jonathas-Conceicao/dotfiles)        - [dofiles](https://gitlab.com/roosemberth/dotfiles/-/tree/master/)        - [Solarized-xmonad-xmobar](https://github.com/dmxt/Solarized-xmonad-xmobar)
 
 ## Widgets
 * ( )
@@ -263,10 +266,10 @@ Wayland recommended stack:
 * ( )
 * [ags](https://github.com/Aylur/ags)* 
 ## Notifications
--    [dunst](https://github.com/dunst-project/dunst)
--   [tiramisu](https://github.com/Sweets/tiramisu)
--   [mako](https://github.com/emersion/mako)
--   [linux_notification_center](https://github.com/phuhl/linux_notification_center)
+*    [dunst](https://github.com/dunst-project/dunst)
+*   [tiramisu](https://github.com/Sweets/tiramisu)
+*   [mako](https://github.com/emersion/mako)
+*   [linux_notification_center](https://github.com/phuhl/linux_notification_center)
 * ( )
 * [dunst](https://github.com/dunst-project/dunst)
 * ( )
@@ -285,7 +288,7 @@ Wayland recommended stack:
 ## Openers (like xdg-open)
 * ( )
 * [***** mimi](https://github.com/BachoSeven/mimi)* 
-- App Browser Equivalents
+* App Browser Equivalents
 * ( )
 * [Heimdall](https://github.com/linuxserver/Heimdall)* 
 ## Other
@@ -373,8 +376,8 @@ Wayland recommended stack:
 * [Compton](https://github.com/yshui/compton) - Compton is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality.
 * ( )
 * [Xcompmgr](https://cgit.freedesktop.org/xorg/app/xcompmgr) - Xcompmgr is a simple composite manager capable of rendering drop shadows and, with the use of the transset utility, primitive window transparency.
-- ricing - picom shaders - [picom-shaders](https://github.com/ikz87/picom-shaders)/wiki/Shader-gallery
-- Compositor: [picom](https://github.com/yshui/picom)
+* ricing - picom shaders - [picom-shaders](https://github.com/ikz87/picom-shaders)/wiki/Shader-gallery
+* Compositor: [picom](https://github.com/yshui/picom)
 * ( )
 * [picom](https://github.com/yshui/picom)
 * ( )
@@ -390,7 +393,7 @@ Wayland recommended stack:
 * [My Tier List For Tiling Window Managers - YouTube](https://www.youtube.com/watch?v=xysISs0mcj8)
 * ( )
 * [Qtile Versus i3 Window Manager](https://www.youtube.com/watch?v=vXFuhNbGgZg)
-- compare i3/sway vs qtile
+* compare i3/sway vs qtile
 * ( )
 * [Linx Cast WM Playlist](https://www.youtube.com/playlist?list=PL4d6Lj0GrDEBeTLsdZ94NRZlgft-rrlQE)* best tiling window manager https://www.youtube.com/watch?v=pY9HPm1N16Y
 * ( )
@@ -401,7 +404,7 @@ Wayland recommended stack:
 ## X11 WMs
 * ( )
 * [stumpwm](https://github.com/stumpwm/stumpwm) http://stumpwm.github.io/ (X11, CL)
-- https://pypi.org/project/xpywm/
+* https://pypi.org/project/xpywm/
 * ( )
 * [bspwm](https://github.com/baskerville/bspwm)
 * [wiki](https://github.com/baskerville/bspwm/wiki) - Bspwm is a tiling window manager that represents windows as the leaves of a full binary tree. https://wiki.archlinux.org/title/bspwm
@@ -449,9 +452,9 @@ Wayland recommended stack:
 * [dkwm](https://bitbucket.org/natemaia/dk/src/master/)
 * 
 ## sort 
-- https://dwm.suckless.org/patches/ 
-- https://vincent.bernat.ch/en/blog/2021-i3-window-manager
-- https://news.ycombinator.com/item?id=28794901
+* https://dwm.suckless.org/patches/ 
+* https://vincent.bernat.ch/en/blog/2021-i3-window-manager
+* https://news.ycombinator.com/item?id=28794901
 * ( )
 * [marswm](https://github.com/jzbor/marswm)
 * ( )
@@ -460,12 +463,12 @@ Wayland recommended stack:
 * [HPR i3 Episode → see show notes!](https://hackerpublicradio.org/eps.php?id=3735) 
 * ( )
 * [awwesomewm with dots](https://www.reddit.com/r/unixporn/comments/12tvw7f/awesome_finally_i_got_what_i_want)
-- https://stumpwm.github.io/ 
+* https://stumpwm.github.io/ 
 * ( )
 * [blueicewm](https://github.com/ottop/blueicewm)
-- https://opensource.com/article/18/8/getting-started-i3-window-manager 
-- https://awesomewm.org/ 
-- https://www.reddit.com/r/unixporn/comments/130h37f/bspwm_how_is_it/ 
+* https://opensource.com/article/18/8/getting-started-i3-window-manager 
+* https://awesomewm.org/ 
+* https://www.reddit.com/r/unixporn/comments/130h37f/bspwm_how_is_it/ 
 * ( )
 * [ ]  [xmonad](https://xmonad.org/documentation.html) → remove dock and remove bar, also remove [window bars](https://stackoverflow.com/questions/71204126/how-to-remove-the-title-bar-of-gnome-applications)?
 * ( )
@@ -476,21 +479,21 @@ Wayland recommended stack:
 * [dwm-flexipatch](https://github.com/bakkeby/dwm-flexipatch)
 * ( )
 * [blueicewm](https://github.com/ottop/blueicewm)
-- https://scaron.info/blog/awesome-with-gnome-on-ubuntu.html
+* https://scaron.info/blog/awesome-with-gnome-on-ubuntu.html
 * ( )
 * [leftwm](https://github.com/leftwm/leftwm)
-- https://www.ragnarwm.org/ 
+* https://www.ragnarwm.org/ 
 * ( )
 * [DkWM](https://bitbucket.org/natemaia/dk) 
-- https://tools.suckless.org/x/wmname/ 
-- https://www.reddit.com/r/unixporn/comments/13cp71s/marswm_rusty_buisiness/ 
+* https://tools.suckless.org/x/wmname/ 
+* https://www.reddit.com/r/unixporn/comments/13cp71s/marswm_rusty_buisiness/ 
 
 ## Wayland Libraries
 * ( )
 * [smithay](https://github.com/Smithay/smithay)
 * ( )
 * [wlroots](https://gitlab.freedesktop.org/wlroots/wlroots/)
-- weston* 
+* weston* 
 ## DE-agnostic WMs
 * ( )
 * [Qtile](http://www.qtile.org/) - Qtile is a full-featured, hackable tiling window manager written and configured in Python.
@@ -512,8 +515,8 @@ Wayland recommended stack:
 * [Kröhnkite](https://github.com/esjeon/krohnkite) - A dynamic tiling extension for KWin.
 * ( )
 * [Pop!\_OS Shell](https://github.com/pop-os/shell) - Pop Shell is a keyboard-driven auto-tiling window manager that run on top of the GNOME shell.
--  Arcan + suite*     - https://arcan-fe.com/  https://github.com/letoram*     - https://github.com/letoram/cat9*     - https://github.com/letoram/durden        - [arcan](https://github.com/letoram/arcan)/wiki*     - https://arcan-fe.com/*     - http://durden.arcan-fe.com/*     - Arcan on Nix 2020: https://gist.github.com/egasimus/0254dcd67f95f262aa6e133794738392*     - https://github.com/egasimus/arcan-nix
-- https://userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma 
+*  Arcan + suite*     - https://arcan-fe.com/  https://github.com/letoram*     - https://github.com/letoram/cat9*     - https://github.com/letoram/durden        - [arcan](https://github.com/letoram/arcan)/wiki*     - https://arcan-fe.com/*     - http://durden.arcan-fe.com/*     - Arcan on Nix 2020: https://gist.github.com/egasimus/0254dcd67f95f262aa6e133794738392*     - https://github.com/egasimus/arcan-nix
+* https://userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma 
 * ( )
 * [gTile](https://github.com/gTile/gTile)
 * 
@@ -529,33 +532,33 @@ Wayland recommended stack:
 * ( )
 * [Openbox](http://openbox.org/) - A highly configurable, next generation window manager with extensive standards support.* 
 ## Wayland, X11, WM Information
-- https://wayland.app/protocols/ 
-- https://wayland.freedesktop.org/docs/html/ 
-- https://www.cbtnuggets.com/blog/technology/networking/why-use-wayland-versus-x11 
+* https://wayland.app/protocols/ 
+* https://wayland.freedesktop.org/docs/html/ 
+* https://www.cbtnuggets.com/blog/technology/networking/why-use-wayland-versus-x11 
 * ( )
 * [Thesis](https://www.cs.ru.nl/bachelors-theses/2019/Max_van_Deurzen___4581903___The_anatomy_of_the_modern_window_manager_-_a_case_study_for_X_in_an_Agile_manner.pdf)
-- Wayland vs X*     - https://bbs.archlinux.org/viewtopic.php?id=238376         - [Wayland vs X11](https://youtu.be/nPz5TAGYgzA)        - [https://en.wikipedia.org/wiki/Wayland_(protocol)](https://en.wikipedia.org/wiki/Wayland_(protocol)) vs X11?*     - Wayland Apps            - [wtype](https://github.com/atx/wtype)            - [ydotool](https://github.com/ReimuNotMoe/ydotool)            - [LeftWM - A Fast and Simple Xmonad Alternative - YouTube](https://www.youtube.com/watch?v=jvfk380Pses)*         guake for wayland?*         - https://askubuntu.com/questions/956640/equivalent-to-xdotool-for-wayland#977801*         - https://unix.stackexchange.com/questions/309580/does-wayland-use-xkb-for-keyboard-layouts            - [I wonder what will happen to XMonad as the Wayland future actually seems to be a... | Hacker News](https://news.ycombinator.com/item?id=28794901)            - [wl-clipboard](https://github.com/bugaevc/wl-clipboard)            - [swhkd](https://github.com/waycrate/swhkd)
+* Wayland vs X*     - https://bbs.archlinux.org/viewtopic.php?id=238376         - [Wayland vs X11](https://youtu.be/nPz5TAGYgzA)        - [https://en.wikipedia.org/wiki/Wayland_(protocol)](https://en.wikipedia.org/wiki/Wayland_(protocol)) vs X11?*     - Wayland Apps            - [wtype](https://github.com/atx/wtype)            - [ydotool](https://github.com/ReimuNotMoe/ydotool)            - [LeftWM - A Fast and Simple Xmonad Alternative - YouTube](https://www.youtube.com/watch?v=jvfk380Pses)*         guake for wayland?*         - https://askubuntu.com/questions/956640/equivalent-to-xdotool-for-wayland#977801*         - https://unix.stackexchange.com/questions/309580/does-wayland-use-xkb-for-keyboard-layouts            - [I wonder what will happen to XMonad as the Wayland future actually seems to be a... | Hacker News](https://news.ycombinator.com/item?id=28794901)            - [wl-clipboard](https://github.com/bugaevc/wl-clipboard)            - [swhkd](https://github.com/waycrate/swhkd)
 * ( )
 * [****A Comprehensive Guide To Tiling Window Managers](https://www.youtube.com/watch?v=Obzf9ppODJU&t=717s) 
-- http://www.xwinman.org/ 
+* http://www.xwinman.org/ 
 * ( )
 * [X Protocol Reference Manual for X11, Release 6 (Definitive Guide to X Window System, Vol. 0) (Definitive Guides to the X Window System)](http://library.lol/main/01D1783574EC32A48D6FF44FAC825C18)
 * ( )
 * [The anatomy of the modern window manager](http://library.lol/main/C392F948ADD053F40ABE01AACE37ED57)
-- https://eirenicon.org/implementing-linux-window-managers-tutorial/ 
-- http://www.xwinman.org/others.php 
-- https://userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma
-- → Xorg vs Wayland vs Arcan
-- How to set up dropdown windows with a tiling window manager?
+* https://eirenicon.org/implementing-linux-window-managers-tutorial/ 
+* http://www.xwinman.org/others.php 
+* https://userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma
+* → Xorg vs Wayland vs Arcan
+* How to set up dropdown windows with a tiling window manager?
 * ( )
 * [A Look Inside Mutter / GNOME Shell](https://lpc.events/event/7/contributions/834/attachments/684/1263/A_Look_Inside_Mutter.pdf)
-- https://www.x.org/releases/X11R7.5/doc/man/man1/xprop.1.html 
-- https://wiki.archlinux.org/title/Xorg#Composite
+* https://www.x.org/releases/X11R7.5/doc/man/man1/xprop.1.html 
+* https://wiki.archlinux.org/title/Xorg#Composite
 * ( )
 * [How to build a window manager in Python](https://monroeclinton.com/build-your-own-window-manager/)
 * ( )
 * [xorg documentation](https://www.x.org/wiki/Documentation/)
-- https://wiki.archlinux.org/title/Window_manager 
+* https://wiki.archlinux.org/title/Window_manager 
 * ( )
 * [Why I Use Tiling Window Managers - And Why You Should Too - YouTube](https://www.youtube.com/watch?v=K_W0ia2QjU8)
 * ( )
@@ -563,8 +566,8 @@ Wayland recommended stack:
 * [wayland protocols](https://wayland.app/protocols/)
 
 ## Misc
-- How to place one window on top of another, like floating but always keeping smaller one on top? → PiP functionality with a tiling WM?
-- scrollable window manager
+* How to place one window on top of another, like floating but always keeping smaller one on top? → PiP functionality with a tiling WM?
+* scrollable window manager
 * ( )
 * [blfs](https://www.linuxfromscratch.org/blfs/read.html)
 * ( )
@@ -583,7 +586,7 @@ Wayland recommended stack:
 * [rEFInd](https://www.rodsbooks.com/refind/) - rEFInd is a fork of the rEFIt boot manager. Like rEFIt, rEFInd can auto-detect your installed EFI boot loaders and it presents a pretty GUI menu of boot options. → great resource https://www.rodsbooks.com/refind/ 
 * ( )
 * [Login Manager Settings](https://realmazharhussain.github.io/gdm-settings/) - A settings app for GNOME’s Login Manager, GDM.
-- https://github.com/betterlockscreen/betterlockscreen
+* https://github.com/betterlockscreen/betterlockscreen
 
 Display Manager, Login, Lockscreen, Boot, etc.
 
@@ -616,7 +619,7 @@ Display Manager, Login, Lockscreen, Boot, etc.
 * [SLiM](http://sourceforge.net/projects/slim.berlios/) - Lightweight and elegant graphical login solution. (Discontinued)
 * ( )
 * [XDM](http://www.x.org/archive/X11R7.5/doc/man/man1/xdm.1.html) - The X display manager with support for XDMCP, and host chooser.
-- Lock screen: [xsecurelock](https://github.com/google/xsecurelock)
+* Lock screen: [xsecurelock](https://github.com/google/xsecurelock)
 
 
 # Desktop Environments* https://docs.kde.org/* https://www.omglinux.com/space-bar-gnome-extension/ * [KDE Plasma DT](https://youtu.be/S6Zf16gYzIY)* https://invent.kde.org/plasma* https://en.wikipedia.org/wiki/KDE_Plasma_5* https://userbase.kde.org/Tutorials* https://userbase.kde.org/Welcome_to_KDE_UserBase* https://userbase.kde.org/Websites* https://docs.kde.org/* https://docs.kde.org/stable5/en/plasma-desktop/plasma-desktop/index.html* https://askubuntu.com/questions/24780/how-to-make-kde-applications-look-native-in-gnome * https://www.reddit.com/r/gnome/comments/tptfg6/theme_kde_apps_on_gnome/ 
@@ -624,20 +627,20 @@ WMs on Xubuntu and Lubuntu? → Lubuntu integrates well with KDE apps* https://w
 * https://www.reddit.com/r/kde/comments/11mghkl/guide_theme_dolphin_qt_apps_on_gnome/ 
 * https://www.reddit.com/r/unixporn/comments/12zboi0/xfce_decided_to_learn_how_to_customize_xfce4panel/ 
 
-- [Budgie](https://blog.buddiesofbudgie.org/) - Budgie is a desktop environment designed with the modern user in mind, it focuses on simplicity and elegance.
-- [Cinnamon](https://linuxmint.com/) - Cinnamon strives to provide a traditional user experience. Cinnamon is a fork of GNOME 3.
-- [Deepin DE](https://www.deepin.org/en/dde/) - DDE (Deepin Desktop Environment) is the default desktop environment originally created for the Linux Deepin distribution.
-- [Enlightenment](https://www.enlightenment.org/about) - A lightweight and pretty desktop environment that is designed to run fast and look good, while retaining a large degree of customization.
-- [GNOME](https://www.gnome.org/) - The GNOME desktop environment is an attractive and intuitive desktop with both a modern (GNOME) and a classic (GNOME Classic) session.
-- [GNOME Flashback](https://wiki.gnome.org/Projects/GnomeFlashback) - GNOME Flashback is a shell for GNOME 3 which was initially called GNOME fallback mode. The desktop layout and the underlying technology is similar to GNOME 2.
-- [KDE Plasma](https://www.kde.org/plasma-desktop) - The KDE Plasma desktop environment is a familiar working environment. Plasma Desktop offers all the tools required for a modern desktop computing experience so you can be productive right from the start.
-- [LXDE](https://lxde.org/) - The Lightweight X11 Desktop Environment is a fast and energy-saving desktop environment.
-- [LXQt](https://lxqt-project.org/) - LXQt is the Qt port and the upcoming version of LXDE, the Lightweight Desktop Environment.
-- [Mate](https://mate-desktop.com/) - Mate provides an intuitive and attractive desktop to Linux users using traditional metaphors. MATE is a fork of GNOME 2.
-- [Pantheon](https://elementary.io/) - Pantheon is the default desktop environment originally created for the elementary OS distribution.
-- [UKUI](https://www.ukui.org/) - UKUI is a desktop environment for Linux distributions and other UNIX-like operating systems, originally developed for Ubuntu Kylin, and written using the Qt framework.
-- [Unity](https://unity8.io/) - Unity is a shell for GNOME designed by Canonical for Ubuntu.
-- [Xfce](https://www.xfce.org/) - Xfce embodies the traditional UNIX philosophy of modularity and re-usability.
+* [Budgie](https://blog.buddiesofbudgie.org/) - Budgie is a desktop environment designed with the modern user in mind, it focuses on simplicity and elegance.
+* [Cinnamon](https://linuxmint.com/) - Cinnamon strives to provide a traditional user experience. Cinnamon is a fork of GNOME 3.
+* [Deepin DE](https://www.deepin.org/en/dde/) - DDE (Deepin Desktop Environment) is the default desktop environment originally created for the Linux Deepin distribution.
+* [Enlightenment](https://www.enlightenment.org/about) - A lightweight and pretty desktop environment that is designed to run fast and look good, while retaining a large degree of customization.
+* [GNOME](https://www.gnome.org/) - The GNOME desktop environment is an attractive and intuitive desktop with both a modern (GNOME) and a classic (GNOME Classic) session.
+* [GNOME Flashback](https://wiki.gnome.org/Projects/GnomeFlashback) - GNOME Flashback is a shell for GNOME 3 which was initially called GNOME fallback mode. The desktop layout and the underlying technology is similar to GNOME 2.
+* [KDE Plasma](https://www.kde.org/plasma-desktop) - The KDE Plasma desktop environment is a familiar working environment. Plasma Desktop offers all the tools required for a modern desktop computing experience so you can be productive right from the start.
+* [LXDE](https://lxde.org/) - The Lightweight X11 Desktop Environment is a fast and energy-saving desktop environment.
+* [LXQt](https://lxqt-project.org/) - LXQt is the Qt port and the upcoming version of LXDE, the Lightweight Desktop Environment.
+* [Mate](https://mate-desktop.com/) - Mate provides an intuitive and attractive desktop to Linux users using traditional metaphors. MATE is a fork of GNOME 2.
+* [Pantheon](https://elementary.io/) - Pantheon is the default desktop environment originally created for the elementary OS distribution.
+* [UKUI](https://www.ukui.org/) - UKUI is a desktop environment for Linux distributions and other UNIX-like operating systems, originally developed for Ubuntu Kylin, and written using the Qt framework.
+* [Unity](https://unity8.io/) - Unity is a shell for GNOME designed by Canonical for Ubuntu.
+* [Xfce](https://www.xfce.org/) - Xfce embodies the traditional UNIX philosophy of modularity and re-usability.
 * [GNOME Extensions](https://extensions.gnome.org/) - Extensions for the GNOME Desktop Environment.
 * [GNOME Look](https://www.gnome-look.org/) - A website that hosts a Large amounts of community created icons, shell themes, fonts, and many more assets that can be used to customize your GNOME desktop environment.
 * [Gradience](https://gradienceteam.github.io/) - Gradience is a tool for customizing Libadwaita applications and the adw-gtk3 theme.

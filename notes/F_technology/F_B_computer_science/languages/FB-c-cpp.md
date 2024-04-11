@@ -1,7 +1,16 @@
 # C and C++
 
+
+## To Sort
+
+https://www.aartaka.me/oop-c-primer
+
+search: Nooby C++ Habits
+
+
 ## Best Resources
 * https://www.cpp-lang.net/ 
+
 
 ## 1s
     Boost
@@ -52,7 +61,9 @@
     * https://xtensor.readthedocs.io/en/latest/numpy.html
     * https://www.reddit.com/r/cpp/comments/9d1w3o/c_implementation_of_the_python_numpy_library/
 
+
 ## Resources
+
 
 ### Books
     * [C von A bis Z](https://openbook.rheinwerk-verlag.de/c_von_a_bis_z/index.htm)
@@ -148,6 +159,7 @@
     * [Эффективный и современный C++](http://library.lol/main/E757EF12E6A842D9C78EDAE2BD97D952)
     * [Эффективный C. Профессиональное программирование](http://library.lol/main/841C9031D1A4BFA1CD4D09275D73E100)
 
+
 ### Video
     * [Recursion in C](https://www.youtube.com/watch?v=kepBmgvWNDw&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=104)
     * [Die Programmiersprache C](https://www.youtube.com/watch?v=CeEfTlRFEA0&list=WL&index=408)
@@ -201,6 +213,7 @@
     * [C++ Full Course](https://www.youtube.com/watch?v=8jLOx1hD3_o)
     * https://www.youtube.com/c/TheChernoProject/playlists
 
+
 ### Challenge / Interview
     * [Solve C++ | HackerRank](https://www.hackerrank.com/domains/cpp?filters%5Bsubdomains%5D%5B%5D=cpp-introduction)
     * [The Modern C++ Challenge: Become an expert programmer by solving real-world problems](http://libgen.rs/book/index.php?md5=AE008E2D081A44F9DCA2F139206986A7)
@@ -211,6 +224,7 @@
     * https://euler.stephan-brumme.com/
     * [C Programming Examples on Stacks & Queues](https://www.sanfoundry.com/c-programming-examples-stacks/)
     * https://github.com/arnavb/project-euler-solutions-cpp
+
 
 ### CMake and Other Build Systems    * [CMake Cookbook: Over 40 recipes enabling you to build, test, and package software for distribution using the CMake suite](http://library.lol/main/ECF89DA6185E63C44E748E0980911FEF)    * http://eigen.tuxfamily.org/index.php?title=Main_Page    * https://cmake.org/cmake/help/v3.21/    * https://cmake.org/cmake/help/v3.21/guide/tutorial/index.html#guide:CMake%20Tutorial    * https://github.com/dev-cafe/cmake-cookbook    * https://gitlab.kitware.com/cmake/community/-/wikis/doc/cmake/Useful-Variables    * https://gitlab.kitware.com/cmake/community/-/wikis/home    * [Mastering CMake](http://library.lol/main/E9100B0B4F9826635471985A71BC8154)    * [Professional CMake: A Practical Guide](http://library.lol/main/3129EE8545AB645CE1FF0E6BCC409D90)    * [Система построения проектов CMake](http://library.lol/main/FD03DB39EE5F06D2CA025601BBCB9A16)
 * [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
@@ -229,6 +243,7 @@
     * https://gitlab.kitware.com/cmake/community/-/wikis/home
     * [GNU Make Book | No Starch Press](https://nostarch.com/gnumake)
 
+
 ### IDE
 * https://codelite.org/
 * http://www.codeblocks.org/
@@ -238,6 +253,7 @@
     * [C++	programming with Visual Studio Code](https://code.visualstudio.com/docs/languages/cpp)
     * [Debugging C/C++ with Visual Studio Code - YouTube](https://www.youtube.com/watch?v=X2tM21nmzfk)
     * [How to debug C code with GDB in VSCode (Linux) - YouTube](https://www.youtube.com/watch?v=aWIs6Kv1MvE)
+
 
 ### Libraries / Projects
     * https://www.boost.org/
@@ -282,6 +298,7 @@
     * https://github.com/dpilger26/NumCpp
     * https://xtensor.readthedocs.io/en/latest/index.html
 
+
 ### Small Projects
 * https://github.com/pickfire/spt
 * https://abstractexpr.com/2023/04/19/how-to-create-a-modern-c-project-with-cmake-and-conan/ 
@@ -307,10 +324,12 @@
     * [СТРОКОВЫЙ КАЛЬКУЛЯТОР С++ СО СКОБКАМИ И ФУНКЦИЯМИ #1](https://www.youtube.com/watch?v=JX4fg1sS-_A&t=0s)
     * [Программируем калькулятор со скобками и приоритетами действий, используя стек](https://www.youtube.com/watch?v=Vk-tGND2bfc)
 
+
 ### Media / Fora
     * [C++ Articles | QuantStart](https://www.quantstart.com/articles/topic/c)
     * [Open Reddit Questions](https://www.reddit.com/r/cpp_questions/?f=flair_name%3A%22OPEN%22)
     * [www.thecppdev.wordpress.com](http://www.thecppdev.wordpress.com/)
+
 
 ### Tools
     * https://www.frama-c.com/
@@ -319,6 +338,7 @@
     * [LLVM Code](https://github.com/llvm)
     * https://github.com/root-project/cling/blob/master/tools/Jupyter/README.md
     * [Cling Build Instructions | ROOT a Data analysis Framework](https://root.cern.ch/cling-build-instructions)
+
 
 ### General References / Resources
     * https://devdocs.io/cpp
@@ -334,6 +354,7 @@
     * [Learning C++ Programming Online in 2021 | hacking C++](https://hackingcpp.com/dev/web_learning.html)
     * https://isocpp.org/
     * [cppreference.net](http://cppreference.net/)
+
 
 ### Courses / Tutorials
     * [Pointers in C / C++ [Full Course]](https://www.youtube.com/watch?v=zuegQmMdy8M)
@@ -365,8 +386,10 @@
     * https://ladedu.com/cpp/
     * [Курсы по программированию на языке C++ от компании Яндекс.](https://vk.com/wall-79831840_54156)
 
+
 ## →
     * [Kyle Loudon]()
+
 
 ### Docs
     * [The GNU C Library - GNU Project - Free Software Foundation (FSF)](https://www.gnu.org/software/libc/manual/)
@@ -377,6 +400,7 @@
     * [C++](https://devdocs.io/cpp/)
     * https://en.cppreference.com/w/c/links/libs
     * https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
+
 
 ## to sort: C
 * [Modern C++ programming cookbook: over 100 recipes to help you overcome your difficulties with C++ programming and gain a deeper understanding of the working of modern C++](http://library.lol/main/65FDF3243927FC56BFC65B3369DBD436)

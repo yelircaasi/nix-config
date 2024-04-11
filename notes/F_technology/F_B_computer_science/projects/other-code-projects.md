@@ -1,10 +1,12 @@
 # Other Code Projects
 
+
 ## Projects
 
 1. 
 
-- To Sort
+
+* To Sort
     - Packaging
         
         * [PyInstaller Manual — PyInstaller 5.7.0 documentation](https://pyinstaller.org/en/stable/)
@@ -392,10 +394,12 @@
     look into converting someone into a different race
     
 
-- deskewer
+
+* deskewer
         * https://lmb.informatik.uni-freiburg.de/Publications/2015/FDB15/image_orientation.pdf 
         * [OpenCV: Introduction to Julia OpenCV Binding](https://docs.opencv.org/4.x/d8/da4/tutorial_julia.html)
     
+
 
 ## rosetta-regex
 * https://rosettacode.org/wiki/Regular_expressions 
@@ -411,9 +415,11 @@
 
 C
 
-- https://www.delftstack.com/howto/c/c-regex/
-- https://www.geeksforgeeks.org/regular-expressions-in-c/
+
+* https://www.delftstack.com/howto/c/c-regex/
+* https://www.geeksforgeeks.org/regular-expressions-in-c/
 * https://blog.teamtreehouse.com/regular-expressions-10-languages
+
 
 ## [keyboard-trainer](https://github.com/yelircaasi/keyboard-trainer-cpp) 🌱
 
@@ -426,37 +432,42 @@ C/C++ typing test (first character→key mappings)
 * https://github.com/jrnxf/thokr
 * https://github.com/max-niederman/ttyper
 
+
 ### Components
 
 1) Scripts
 
-- Latin (accessible from U.S. Intl.)
-- Russian
-- Ukrainian
-- Arabic
-- Chinese Zhuyin
-- Chinese Wubi
-- Chinese Cangjie
-- Ancient Greek
-- Devanagari
-- Japanese Kana keyboard
+
+* Latin (accessible from U.S. Intl.)
+* Russian
+* Ukrainian
+* Arabic
+* Chinese Zhuyin
+* Chinese Wubi
+* Chinese Cangjie
+* Ancient Greek
+* Devanagari
+* Japanese Kana keyboard
 
 2) Keystrokes
 
-- Vim
+
+* Vim
     - → key snippets from main programming languages
-- VSCode
-- Firefox + Vim Vixen
-- Ubuntu general
-- Guake
-- Generic Terminal
+* VSCode
+* Firefox + Vim Vixen
+* Ubuntu general
+* Guake
+* Generic Terminal
+
 
 ### References
 
-- https://doc.qt.io/
-- https://www.gtk.org/
-- https://doc.qt.io/qt-5/qtvirtualkeyboard-index.html
-- https://www.wxwidgets.org/
+
+* https://doc.qt.io/
+* https://www.gtk.org/
+* https://doc.qt.io/qt-5/qtvirtualkeyboard-index.html
+* https://www.wxwidgets.org/
 * https://stackoverflow.com/questions/29335758/using-kbhit-and-getch-on-linux
 * [javascript - Detect pressed modifier keys without triggering keyboard or mouse events - Stack Overflow](https://stackoverflow.com/questions/22086059/detect-pressed-modifier-keys-without-triggering-keyboard-or-mouse-events)
 
@@ -465,55 +476,62 @@ C/C++ typing test (first character→key mappings)
 
 Design: to-do list with routine lists, scheduler, and corresponding notifications
 
+
 ### Page structure:
 
-- Day
+
+* Day
     - Morning Routine
     - Evening Routine
     - Roadmap Items
-- Week
+* Week
     - Recurring
     - Roadmap Items
-- Month
+* Month
     - Recurring
     - Roadmap Items
-- Year
+* Year
     - Recurring
     - Roadmap Items
-- Planner
-- Record of accomplishments
+* Planner
+* Record of accomplishments
+
 
 ### Features:
 
-- Notifications
+
+* Notifications
     - start/stop
     - n-minute warning
     - n-minute interval
-- Schedule Item Stopwatch
-- Daily Score
-- Weekly Score
-- Statistics
+* Schedule Item Stopwatch
+* Daily Score
+* Weekly Score
+* Statistics
     - score over time
     - statistics for routine items
 
+
 ### Operations:
 
-- Schedule Item → add to Planner
-- Move Item
+
+* Schedule Item → add to Planner
+* Move Item
     - Year to quarter
     - Quarter to month
     - Month to Week
     - Month to Day
     - Week to Day
     - 
-- Change time
+* Change time
     - push back in time
     - pull forward in time
     - switch items
     - 
 
+
 ## Reading:
-- [ ]  https://developer.android.com/guide/components/fundamentals
+* [ ]  https://developer.android.com/guide/components/fundamentals
      - [ ]  https://developer.android.com/guide
      - [ ]  https://developer.android.com/codelabs/build-your-first-android-app-kotlin#0
      - [ ]  https://developer.android.com/kotlin/androidbasics
@@ -539,13 +557,16 @@ Design: to-do list with routine lists, scheduler, and corresponding notification
      - [ ]  https://github.com/JonasWanke/com.jonaswanke.calendar
      - [ ]  
 
+
 ### Steps:
+
 
 ### Extensions:
 
 pomodoro-style timer
 
-- Integration with some external service, such as Notion or Google
+
+* Integration with some external service, such as Notion or Google
 * https://developers.notion.com/reference/intro
 * https://www.notion.so/my-integrations
 * https://www.notion.so/help/add-and-manage-integrations-with-the-api
@@ -555,13 +576,17 @@ pomodoro-style timer
 * https://zapier.com/platform/partner-program
 * https://zapier.com/apps/google-sheets/integrations/webhook
 
+
 ## [Proofs Book]()
+
 
 ## Other
 
-- Missing Semester 🌱
-- TensorFlow Certification (with Jesse)
-- Book: Programming Language Concepts Illustrated: A Contrastive Guided Tour
+
+* Missing Semester 🌱
+* TensorFlow Certification (with Jesse)
+* Book: Programming Language Concepts Illustrated: A Contrastive Guided Tour
+
 Reference / Inspiration: https://hyperpolyglot.org/,  https://rosettacode.org/wiki/Rosetta_Code
     
     Preferred languages:
@@ -598,6 +623,7 @@ Reference / Inspiration: https://hyperpolyglot.org/,  https://rosettacode.org/wi
         - Nim
         - Tcl
 
+
 ## hosted if-then game web app
 
 Idea: use Genie.jl to host an if-then application on a Raspberry Pi
@@ -605,7 +631,7 @@ Idea: use Genie.jl to host an if-then application on a Raspberry Pi
 → [https://www.google.com/search?q=code your own jackbox](https://www.google.com/search?q=code%20your%20own%20jackbox&ie=utf-8&oe=utf-8&client=firefox-b-m)
 
 Readings:
-- [ ]  https://funprojects.blog/2022/01/02/julia-programming-on-a-raspberry-pi/- [ ]  https://genieframework.github.io/Genie.jl/dev/tutorials/4-1--Developing_MVC_Web_Apps.html
+* [ ]  https://funprojects.blog/2022/01/02/julia-programming-on-a-raspberry-pi/- [ ]  https://genieframework.github.io/Genie.jl/dev/tutorials/4-1--Developing_MVC_Web_Apps.html
      - [ ]  https://raspberry-projects.com/pi/projects/raspberry-pi-running-web-app
      - [ ]  https://fireship.io/lessons/host-website-raspberry-pi/- [ ]  https://ngrok.com/pricing
      - [ ]  https://thepihut.com/products/raspberry-pi-400-personal-computer-kit?src=raspberrypi
@@ -618,7 +644,8 @@ Readings:
      - [ ]  https://www.zdnet.com/article/best-raspberry-pi-kit/- [ ]  https://pimylifeup.com/raspberry-pi-web-server/- [ ]  *** https://www.tomshardware.com/how-to/raspberry-pi-buying-guide
      - [ ]  https://genieframework.github.io/Genie.jl/dev/tutorials/92--Deploying_Genie_Server_Apps_with_Nginx.html
 
-- YouTube channel
+
+* YouTube channel
     - Multilingual YouTube channel: ml, math, languages, book reading, philosophy
         
         name ideas: Wannabe Polyglot Polymath
@@ -637,20 +664,22 @@ Readings:
         
         nand2tetris video
         
-- neural-image-processing-cheatsheet
+* neural-image-processing-cheatsheet
     - [ ]  create
+
 
 ## Trip Planner app (with Jesse) 🌱
 
 messages with Jesse:
-- [ ]  identify key inputs first; worry about getting them later via API
+* [ ]  identify key inputs first; worry about getting them later via API
      - [ ]  natural language query consisting of a travel plan
      - [ ]  query apis
      - [ ]  lay down a route to optimize money, time, some combination → add additional constraints
 
-- NNfSiX 🌱
-- Lyrics Syncing App (with Jesse)
-- RosettaDL - parallel reference (Rosetta-style)
+
+* NNfSiX 🌱
+* Lyrics Syncing App (with Jesse)
+* RosettaDL - parallel reference (Rosetta-style)
     
     → start with PyTorch, TF, MXNet, and Flux.jl
     
@@ -672,10 +701,12 @@ messages with Jesse:
     - [ ]  PyTorch and TensorFlow pocket references - create spreadsheet of functionalities & corresponding snippets
     - [ ]  multiple code options ← D2L book source
 
+
 ## algorithms (Beautiful Algorithms - Julia) 🌱
 
-- learning-programming-languages 🌱
-- Code Deep Dives 🌱
+
+* learning-programming-languages 🌱
+* Code Deep Dives 🌱
     - [ ]  binaries
         - https://opensource.com/article/20/4/linux-binary-analysis        - [ ]  https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/        - [ ]          - [ ]  ls        - [ ]  cd        - [ ]  python        - [ ]  julia        - [ ]  bash        - [ ]  zsh        - [ ]  LaTeX        - [ ]  XeLaTex        - [ ]  LuaTeX        - [ ]  OpenJDK
     - [ ]  [vi](https://sourceforge.net/p/ex-vi/code/) and https://github.com/vim/vim     * https://github.com/Cube9999/vi    * https://github.com/hosiet/vi    * http://ex-vi.sourceforge.net/    * https://github.com/aligrudi/neatvi
@@ -704,198 +735,274 @@ messages with Jesse:
         - https://www.kernel.org/doc/html/latest/
         - https://kernelnewbies.org/        - [ ]  .
     - [ ]  https://github.com/wch/r-source
-- language-learning 🌱
-- cpp-machine-learning 🌱
+* language-learning 🌱
+* cpp-machine-learning 🌱
+
 
 ## Proverbs Project 🌱
 
 → see also CLSEC, child project of Wiktionary4LL
 * [Polyglot Phraseological Database](https://docs.google.com/spreadsheets/d/1HYEgCsnmjhulEnM7tq53AV7IrRbYhFcUnfjAp0cCAGI/edit?usp=sharing)
 
+
 * [(PDF) Idiomatic Equivalence between English and Arabic: Understanding and Recognizing ( M A Dissertation ) | Gamal M A Abdullah - Academia.edu](https://www.academia.edu/27132535/Idiomatic_Equivalence_between_English_and_Arabic_Understanding_and_Recognizing_M_A_Dissertation_)
 
+
 * [(PDF) The Proverb and Its 44 Definitions (Part I): A Ka:rmik Linguistic Review with a Checklist | Bhuvaneswar Chilukuri - Academia.edu](https://www.academia.edu/4295188/The_Proverb_and_Its_44_Definitions_Part_I_A_Ka_rmik_Linguistic_Review_with_a_Checklist)
+
 
 * [(PDF) Translation of Idioms across Languages | Sabir Hasan - Academia.edu](https://www.academia.edu/37045180/Translation_of_Idioms_across_Languages)
 
 
-- **Пословицы, поговорки, выражения на русском и немецком языках. Аналогия русских и немецких пословиц и поговорок.
+* **Пословицы, поговорки, выражения на русском и немецком языках. Аналогия русских и немецких пословиц и поговорок.
+
 
 * [300 Proverbs and Sayings / Proverbios y Refranes](http://cogweb.ucla.edu/Discourse/Proverbs/English-Spanish.html)
 
+
 * [Amazon.com: A Dictionary of English and Italian Equivalent Proverbs eBook: Teodor Flonta: Kindle Store](https://www.amazon.com/-/de/dp/B005U1FGJY/ref=sr_1_fkmr2_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=flont+romanian+proverbs+9+languages&qid=1582120445&sr=8-2-fkmr2)
+
 
 * [Amazon.com: A Dictionary of English and Romance Languages Equivalent Proverbs eBook: Teodor Flonta: Kindle Store](https://www.amazon.com/-/de/dp/B006KRRBS6/ref=sr_1_fkmr2_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=flont+romanian+proverbs+9+languages&qid=1582120445&sr=8-1-fkmr2)
 
+
 * [Amazon.com: A Dictionary of English and Romanian Equivalent Proverbs eBook: Teodor Flonta: Kindle Store](https://www.amazon.com/-/de/dp/B00FEI57BA/ref=sr_1_fkmr0_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=flont+romanian+proverbs+9+languages&qid=1582120445&sr=8-1-fkmr0)
+
 
 * [Amazon.com: A Multilingual Dictionary of Maxims and Proverbs (9781443873307): Panos Karagiorgos: Books](https://www.amazon.com/Multilingual-Dictionary-Maxims-Proverbs/dp/1443873306)
 
+
 * [Amazon.com: God and the Devil: Proverbs in 9 European Languages (9781546653356): Teodor Flonta: Books](https://www.amazon.com/God-Devil-Proverbs-European-Languages/dp/154665335X)
+
 
 * [Cordry, H: The Multicultural Dictionary of Proverbs: Over 20, 000 Adages from More Than 120 Languages, Nationalities and Ethnic Groups: Amazon.de: Harold V. Cordry: BÃ¼cher](https://www.amazon.de/Multicultural-Dictionary-Proverbs-Languages-Nationalities/dp/0786422629/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Multicultural+dictionary+of+Proverbs&qid=1582109813&s=books&sr=1-1)
 
 
 * [God and the Devil: Proverbs in 9 European Languages - Teodor Flonta - Google Книги](https://books.google.de/books?id=anr2T1TJ0goC&pg=PA108&lpg=PA108&dq=Flonta+Romanian+Proverbs+9+Languages&source=bl&ots=50HxLxRSUa&sig=ACfU3U0l1ZVVZEGvHi9OH7JfwU2UXyUBlA&hl=ru&sa=X&ved=2ahUKEwj9gMLo3t3nAhWlPOwKHbXWAjUQ6AEwCnoECAoQAQ#v=onepage&q=Flonta%20Romanian%20Proverbs%209%20Languages&f=false)
 
+
 * http://citati.hr/hrvatske-poslovice
+
 
 * http://de.wikihow.com/G%C3%A4ngige-Ausdr%C3%BCcke-und-Redewendungen-in-verschiedenen-Sprachen-beherrschen
 
+
 * http://edukacija.rs/izreke-i-citati/narodne-poslovice
+
 
 * http://edukacija.rs/izreke-i-citati/narodne-poslovice/srpske
 
+
 * http://mudremisli.net/hrvatske-izreke/
+
 
 * http://ordtak.org/
 
+
 * http://pixelizam.com/narodne-poslovice/
+
 
 * http://przyslowia-polskie.pl/
 
+
 * http://www.croatianhistory.net/etf/poslovice.html
+
 
 * http://www.notesinspanish.com/2011/05/02/common-spanish-expressions-getting-up-on-the-wrong-side-of-the-bed/
 
+
 * http://www.ordsprak.se/svenska_ord.asp
+
 
 * http://www.ordtak.com/forfatter.php?fn=Ordtak&ln=
 
+
 * http://www.poslovice.org/hrvatske-poslovice/
+
 
 * http://www.poslovice.org/srpske-poslovice/
 
+
 * http://www.proverbia.net/default.asp
+
 
 * http://www.woorden.org/spreekwoord.php
 
+
 * https://brainly.pl/wypracowanie/Najpopularniejsze_polskie_przyslowia-18014
+
 
 * https://de-roliga-skamt.se/svenska-ordsprak/
 
+
 * https://hr.wikiquote.org/wiki/Hrvatske_poslovice
+
 
 * https://learningapps.org/view1558402
 
+
 * https://livet.se/ord/k%c3%a4lla/Svenskt_ordspr%c3%a5k
+
 
 * https://no.wikiquote.org/wiki/Norske_ordtak
 
+
 * https://pl.wikiquote.org/wiki/Przys%C5%82owia_polskie
+
 
 * https://przyslowia.net/
 
+
 * https://spreekwoorden.nl/
+
 
 * https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_svenska_ordspr%C3%A5k
 
+
 * https://www.ordtak.no/
+
 
 * https://www.polskatradycja.pl/folklor/przyslowia.html
 
+
 * https://www.spreekwoord.nl/
 
+
 * [Lexical and Semantic Aspects of Proverbs - Čermák, František - Google Книги](https://books.google.de/books?id=Xua9DwAAQBAJ&pg=PA233&lpg=PA233&dq=proverbs+and+their+equivalents+in+other+languages&source=bl&ots=ckopOIGFd_&sig=ACfU3U3xQeffXByhK-YudKRCbDpwKzQ1gA&hl=ru&sa=X&ved=2ahUKEwix_du0493nAhWJM-wKHS8XAak4FBDoATAJegQICRAB#v=onepage&q=proverbs%20and%20their%20equivalents%20in%20other%20languages&f=false)
+
 
 * [Library Genesis: Fisher, Suzanne Woods - Amish Proverbs : Words of Wisdom from the Simple Life](https://libgen.is/book/index.php?md5=8F8AC63DA86509B2A545FDBE0480F5C9)
 
 
 * [Collection of Ambiguous or Inconsistent/Incomplete Statements](http://www.gray-area.org/Research/Ambig/)
 
+
 * https://mymemory.translated.net/doc/spec.php
+
 
 * [Library Genesis: Wood, James - Dictionary of quotations from ancient and modern, English and foreign sources : including phrases, mottoes, maxims, proverbs, definitions, aphorisms, and sayings of the wise men, in their bearing on life, literature, speculation, science, art, religion, and morals, especially in the modern aspects of them](https://libgen.is/book/index.php?md5=754E7204F484ABE220E9E146AAE9A910)
 
 
 * [Polyglot Phraseological Database - Hojas de cálculo de Google](https://docs.google.com/spreadsheets/d/1xQE30iCryMege8m63T-KdK3JYeIry2oDZ1YU_EiFftM/edit#gid=0)
 
+
 * [Pr](https://docs.google.com/spreadsheets/d/13UNAdR0u_uLzgJPf-Tb8AtxpcD_m46rzCJYSQQB9ATs/edit#gid=1229256882)
+
 
 * [The Multicultural Dictionary of Proverbs: Over 20,000 Adages from More Than ... - Harold V. Cordry - Google Книги](https://books.google.com/books?id=OhSBCgAAQBAJ&pg=PA55&lpg=PA55&dq=THE+POOR+MAN+AND+DEATH+latin&source=bl&ots=ItGv3f2wqX&sig=nODIqoYqiy0WJdUQwSI02kADAXk&hl=ru&sa=X&ved=2ahUKEwjczeGtkeXfAhWDCjQIHR1ICuYQ6AEwAXoECAgQAQ#v=onepage&q=THE%20POOR%20MAN%20AND%20DEATH%20latin&f=false)
 
+
 * [The Son of a Duck Is a Floater and other Arabic Proverbs with English Equivalents: Illustrated Book of Arab Proverbs: Amazon.co.uk: Primrose Arnander, Ashkhain Skipwith, Kathryn Lamb: 9780905743417: Books](https://www.amazon.co.uk/Floater-Arabic-Proverbs-English-Equivalents/dp/0905743415)
+
 
 * [multi-word expression database - Поиск в Google](https://www.google.com/search?q=multi-word+expression+database&rlz=1C5CHFA_enUS800US800&oq=multi-word+expression+database&aqs=chrome..69i57.6955j0j4&sourceid=chrome&ie=UTF-8)
 
-* [MyMemory API technical specifications](https://mymemory.translated.net/doc/spec.php)
 
+* [MyMemory API technical specifications](https://mymemory.translated.net/doc/spec.php)
 
 proverbs in NLP
 
+
 * [Distinguishing antonymy, synonymy and hypernymy with distributional and distributed vector representations and neural networks](https://elib.uni-stuttgart.de/handle/11682/9973)
+
 
 * https://www.sciencedirect.com/search?qs=Natural%20Semantic%20Metalanguage
 
+
 * https://nsm-approach.net/
+
 
 * https://nsm-approach.net/archives/category/broad-topics/lexicography
 
+
 * https://b-ok.cc/s/cliff%20goddard
+
 
 * https://b-ok.cc/s/anna%20wierzbicka
 
+
 * https://www.sciencedirect.com/science/article/abs/pii/S0378216609000228
+
 
 * https://www.researchgate.net/search.Search.html?type=publication&query=Natural%20Semantic%20Metalanguage
 
-
 Studies in Ethnopragmatics, Cultural Semantics, and Intercultural Communication: Meaning and Culture
-
 
 proverb classification scheme
 
+
 * [4 Semiotic and Semantic Aspects of the Proverb](https://www.degruyter.com/downloadpdf/books/9783110410167/9783110410167.4/9783110410167.4.xml)
+
 
 * [[КНИГА] Introduction to paremiology: A comprehensive guide to proverb studies](https://books.google.com/books?hl=ru&lr=&id=-AnuCAAAQBAJ&oi=fnd&pg=PP14&dq=Proverb+classification&ots=G-U2hhSoml&sig=sxDiG_vDjlkGWOHPCoXEi90yQSg)
 
+
 * [A proverb in mind: The cognitive science of proverbial wit and wisdom](https://content.taylorfrancis.com/books/download?dac=C2007-0-04595-2&isbn=9781134741304&format=googlePreviewPdf)
+
 
 * [Openness, closure, and transformation in proverb translation](https://pdfs.semanticscholar.org/e9b4/06768cc883ffedfc76c8ad6caf435cc762db.pdf)
 
+
 * [КЛАСИФІКАЦІЯ ПРИСЛІВ'ЇВ З ГЕНДЕРНОЮ СЕМАНТИКОЮ](http://elar.kpnu.edu.ua:8081/xmlui/bitstream/handle/123456789/2286/Anhliiska-mova-v-mizhdystsyplinarnomu-konteksti-bezperervnoi-osvity-zbirnyk-materialiv-VI-Mizhnarodnoi-studentskoi-Internet-konferentsii.pdf?sequence=1&isAllowed=y#page=64)
+
 
 * [Semantics and pragmatics of anti-proverbs](http://darhiv.ffzg.unizg.hr/id/eprint/10091/)
 
-* [3 Categorization of Proverbs - De Gruyter - Sciendo](https://content.sciendo.com/downloadpdf/book/9783110410167/10.2478/9783110410167.3.xml)
 
+* [3 Categorization of Proverbs - De Gruyter - Sciendo](https://content.sciendo.com/downloadpdf/book/9783110410167/10.2478/9783110410167.3.xml)
 
 6 Classifications of Proverbs:proverbs expressing a general attitude.ethical proverbs.proverbs expressing a system of values.proverbs expressing general truths.humorous proverbs.miscellaneous proverbs
 
+
 * [Classification of Proverbs](https://studfile.net/preview/5427909/page:3/)
+
 
 * [500 Common Chinese Proverbs and Colloquial Expressions. An annotated frequency dictionary](https://b-ok.cc/book/3023312/7d77eb)
 
+
 * [Phraseographie](https://tidsskrift.dk/her/article/view/25841)
+
 
 * [Corrientes actuales de la investigación fraseológica en Europa](http://www.euskaltzaindia.net/dok/euskera/25886.pdf)
 
+
 * [Dormir el sueño de los justos. Fraseología y valores pragmáticos a partir de corpus textuales en alemán y español](http://www.academia.edu/download/37343670/Part_I_A-K_Language_windowing_through_corpora_5-2010.pdf#page=133)
+
 
 * [Anti-proverbs and mass communication: The interplay of traditional and innovative folklore](https://akademiai.com/doi/abs/10.1556/AEthn.52.2007.1.2)
 
+
 * [Paremiology Google Scholar](https://scholar.google.de/scholar?hl=it&as_sdt=0%2C5&as_vis=1&q=paremiology&btnG=)
+
 
 * [Γνώμη](http://www.martinezdecarnero.com/glossword/index.php)
 
+
 * [Базовые категории паремиологии. В.А. Крыжановская](https://youtu.be/tGxhhi8F1c4)
+
 
 * [Amazon.com: Introduction to Paremiology: A Comprehensive Guide to Proverb Studies](https://www.amazon.com/Introduction-Paremiology-Comprehensive-Proverb-Studies/dp/311041015X)
 
+
 * https://en.m.wikipedia.org/wiki/Anna_T._Litovkina
+
 
 * https://sites.google.com/site/philologyroundtable/categories/language-units-in-text-and-discourse/communicativeclassificationofproverbs
 
+
 * [STUDY OF MACHINE TRANSLATION IN NLP SYSTEMS: NON COMPOSITIONAL IDIOMS AND PROVERBS](https://www.researchgate.net/publication/264286974_STUDY_OF_MACHINE_TRANSLATION_IN_NLP_SYSTEMS_NON_COMPOSITIONAL_IDIOMS_AND_PROVERBS)
+
 
 * [UNIVERSAL VS. SPECIFIC: CULTURALLY SALIENT PROVERBIAL EXPRESSIONS IN A CROSS-LINGUISTIC PERSPECTIVE](https://www.academia.edu/keypass/MHNwM2o5V2ZmVTVYNmRkTGtqSC8rMWgrRm5FYmhVRzBzNUpxS0Z1ZEFVZz0tLTk2TkpqaW9mOVNqTUxsTDhwcHlGVnc9PQ==--c3eb2e4192b2e97fd9358597bbf60db4f1f3938b/t/drT8b-PjJjMgS-bfcpqK/resource/work/30634430/UNIVERSAL_VS_SPECIFIC_CULTURALLY_SALIENT_PROVERBIAL_EXPRESSIONS_IN_A_CROSS_LINGUISTIC_PERSPECTIVE_in_9th_Interdisciplinary_Colloquium_ob_Proverbs_ICP15_eds_O_Lauhakangas_R_JB_Soares_Tipografia_Tavirense_Tavira_2016_pp_447_457?email_work_card=title)
 
-* [Fishing for productive models in the troubled waters of figurative language](https://www.academia.edu/keypass/blF2OEl6YjNybnkyMFJxZjF2TkQ2QmlXZW1DTFA4OEdYWTE1M05pMW55bz0tLUlPc015VXRyUVlYRDJBY2xSOHBUemc9PQ==--8bc8674f0c599867218b4a812cfc9dc0f520440e/t/drT8b-Potoiyn-PrkiN/resource/work/8529430/PAMIES_Antonio_CRAIG_Margaret_and_GHALAYINI_Yara_2014_Fishing_for_productive_models_in_the_troubled_waters_of_figurative_language_In_Arsenteva_E_F_ed_Phraseology_in_Multilingual_Society_Cambridge_Cambridge_Scholars_Publishing_ISBN_978_1_4438_5584_6_47_70)
 
+* [Fishing for productive models in the troubled waters of figurative language](https://www.academia.edu/keypass/blF2OEl6YjNybnkyMFJxZjF2TkQ2QmlXZW1DTFA4OEdYWTE1M05pMW55bz0tLUlPc015VXRyUVlYRDJBY2xSOHBUemc9PQ==--8bc8674f0c599867218b4a812cfc9dc0f520440e/t/drT8b-Potoiyn-PrkiN/resource/work/8529430/PAMIES_Antonio_CRAIG_Margaret_and_GHALAYINI_Yara_2014_Fishing_for_productive_models_in_the_troubled_waters_of_figurative_language_In_Arsenteva_E_F_ed_Phraseology_in_Multilingual_Society_Cambridge_Cambridge_Scholars_Publishing_ISBN_978_1_4438_5584_6_47_70)
 
 Combine WordNet and NSM with my own syntax to create paremiological (ontology and semrel set) markup language
 
+
 * https://www.academia.edu/22245450/THE_METHODOLOGICAL_ASPECTS_OF_A_ROMANIAN_ENGLISH_CONTRASTIVE_COLLECTION_OF_FOOD_IDIOMS_AND_PROVERBS
+
 
 ## RLCard
         * [RLCard: A Toolkit for Reinforcement Learning in Card Games – arXiv Vanity](https://www.arxiv-vanity.com/papers/1910.04376/)
@@ -916,10 +1023,13 @@ Combine WordNet and NSM with my own syntax to create paremiological (ontology an
 ## Other Projects 🌱
     
 
+
 ## rl-games
 
+
 ### Projects
-- [ ]  [Drive link](https://drive.google.com/drive/folders/16RpQL0XysyuoJbsrwiZntbL1coD8CigE?usp=sharing)
+* [ ]  [Drive link](https://drive.google.com/drive/folders/16RpQL0XysyuoJbsrwiZntbL1coD8CigE?usp=sharing)
+
 
 ### Brainstorming
 
@@ -937,94 +1047,125 @@ Combine WordNet and NSM with my own syntax to create paremiological (ontology an
         — $p_c(\textbf{c}) \in [0,1]^{k}$: probability of each card being out there — easy to calculate
         — $p_d(\textbf{c}) \in [0,1]^{k}$: probability of each card being played by someone else — calculate via MC
 
+
         — $w(\textbf{c}) \in [0,1]^{k}$: win probability of each card ← (remaining available to be made, wanted for each player, two probability vectors) — calculate via MC
+
 
         — $d(\textbf{c}) \in \mathbb{R}^{k}: ||d(c)||=1$: win desirability of each card ← (remaining available, wanted, two probability vectors, win probabilities) — calculate via MC? policy gradient?
 
+
         — $s(\textbf{c}) \in [0,1]$: overall hand strength ← (win probability, win desirability)
+
 
         — $u(\textbf{c}) \in \mathbb{R}^{k}$: score (utility) per card ← (win probability, win desirability, expected change in overall hand strength)
 
+
         — $m \in \{0, 1\}^{k}$: use a card mask to only update values for cards in my hand
+
 
         — alternative: recursive formulation, beginning with last card of the round
 
+
         — another option: $f(\textbf{c}) \in \{0,1\}^{211}$: card score distribution ← (surplus tricks, size 2k+1, cards in my hand, probability of cards still being out there, position in queue, cards already played) → dimensionality 2k+1+60+60+4+60 = 2k+185 → add number still wanted by each opponent
+
 
 ### References
 
-- https://github.com/datamllab/rlcard —> should contribute to as well
-- https://medium.com/applied-data-science/how-to-train-ai-agents-to-play-multiplayer-games-using-self-play-deep-reinforcement-learning-247d0b440717
-- https://github.com/davidADSP/SIMPLE
-- https://github.com/JaeHunRo/boardgame-rl
-- [https://juliareinforcementlearning.org/ReinforcementLearning.jl/](https://juliareinforcementlearning.org/ReinforcementLearning.jl/latest/)
-- https://juliareinforcementlearning.org/
-- https://github.com/JuliaReinforcementLearning
-- https://paperswithcode.com/task/board-games
-- [Reinforcement Learning for Board Games: The Temporal Difference Algorithm](http://www.gm.fh-koeln.de/ciopwebpub/Kone15c.d/TR-TDgame_EN.pdf)
-- [Deep Reinforcement Learning in Strategic Board Game Environments](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiAz57rnKr1AhXu7rsIHYUkAOMQFnoECAkQAQ&url=https%3A%2F%2Fhal.archives-ouvertes.fr%2Fhal-02124411%2Fdocument&usg=AOvVaw1NDASnrKIng5GH9xoS0AHh)
-- https://www.reddit.com/r/reinforcementlearning/comments/rpvlf7/what_are_the_best_practices_for_creating_a_rl/
-- https://www.reddit.com/r/reinforcementlearning/comments/i3367m/rl_for_turnbased_ai/
-- https://blog.tensorflow.org/2021/10/building-board-game-app-with-tensorflow.html
-- [Wizard RL Paper: https://ieeexplore.ieee.org/document/6664846](https://ieeexplore.ieee.org/document/6664846)
-- **[Recent Advances in Deep Reinforcement Learning Applications for Solving 
+
+* https://github.com/datamllab/rlcard —> should contribute to as well
+* https://medium.com/applied-data-science/how-to-train-ai-agents-to-play-multiplayer-games-using-self-play-deep-reinforcement-learning-247d0b440717
+* https://github.com/davidADSP/SIMPLE
+* https://github.com/JaeHunRo/boardgame-rl
+* [https://juliareinforcementlearning.org/ReinforcementLearning.jl/](https://juliareinforcementlearning.org/ReinforcementLearning.jl/latest/)
+* https://juliareinforcementlearning.org/
+* https://github.com/JuliaReinforcementLearning
+* https://paperswithcode.com/task/board-games
+* [Reinforcement Learning for Board Games: The Temporal Difference Algorithm](http://www.gm.fh-koeln.de/ciopwebpub/Kone15c.d/TR-TDgame_EN.pdf)
+* [Deep Reinforcement Learning in Strategic Board Game Environments](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiAz57rnKr1AhXu7rsIHYUkAOMQFnoECAkQAQ&url=https%3A%2F%2Fhal.archives-ouvertes.fr%2Fhal-02124411%2Fdocument&usg=AOvVaw1NDASnrKIng5GH9xoS0AHh)
+* https://www.reddit.com/r/reinforcementlearning/comments/rpvlf7/what_are_the_best_practices_for_creating_a_rl/
+* https://www.reddit.com/r/reinforcementlearning/comments/i3367m/rl_for_turnbased_ai/
+* https://blog.tensorflow.org/2021/10/building-board-game-app-with-tensorflow.html
+* [Wizard RL Paper: https://ieeexplore.ieee.org/document/6664846](https://ieeexplore.ieee.org/document/6664846)
+* **[Recent Advances in Deep Reinforcement Learning Applications for Solving 
+
 Partially Observable Markov Decision Processes (POMDP) Problems: Part 1 -
  Fundamentals and Applications in Games, Robotics and Natural Language 
+
 Processing](https://www.semanticscholar.org/paper/Recent-Advances-in-Deep-Reinforcement-Learning-for-Xiang-Foo/0a50454605da864cc4e1ac949e7a43055be11717)**
-- [Improving Bidding and Playing Strategies in the Trick-Taking game Wizard using Deep Q-Networks](https://www.semanticscholar.org/paper/Improving-Bidding-and-Playing-Strategies-in-the-Schumacher-Pleines/c68ea00041d84f90c2a443292a98c34146941481)
-- https://ai.stackexchange.com/questions/17942/how-to-represent-a-state-in-a-card-game-environment-wizard
-- ?? [Towards Modern Card Games with Large-Scale Action Spaces Through Action Representation](https://arxiv.org/pdf/2206.12700.pdf)
+* [Improving Bidding and Playing Strategies in the Trick-Taking game Wizard using Deep Q-Networks](https://www.semanticscholar.org/paper/Improving-Bidding-and-Playing-Strategies-in-the-Schumacher-Pleines/c68ea00041d84f90c2a443292a98c34146941481)
+* https://ai.stackexchange.com/questions/17942/how-to-represent-a-state-in-a-card-game-environment-wizard
+* ?? [Towards Modern Card Games with Large-Scale Action Spaces Through Action Representation](https://arxiv.org/pdf/2206.12700.pdf)
+
 
 ### Games
 
+
 #### wizard
 
-- model for each round: jester, wizard, trump, color A, color B, color C → how to achieve interchangeability between non-trump colors? will it learn this automatically if colors are assigned randomly to letters?
-- states:
+
+* model for each round: jester, wizard, trump, color A, color B, color C → how to achieve interchangeability between non-trump colors? will it learn this automatically if colors are assigned randomly to letters?
+* states:
     - betting state: number of players, round number, trick number, cards in hand
     - playing state: number of players, round number, trick number, tricks to make, cards already played → probability of cards , cards in hand
-- actions: bet made, card played
-- policies:
+* actions: bet made, card played
+* policies:
     - betting policy: betting state → bet
     - playing policy: playing state → card
-- → how to learn? simultaneously? iteratively? (seems better)
-- https://www.semanticscholar.org/paper/Application-of-reinforcement-learning-to-the-card-Backhus-Nonaka/346bc4eaad1a89e84aa8cda08b623973ec0a2fb7
-- Combinatoric-probabilistic features:
-- Probability that each player can beat each card
-- Probability that each player wants to beat each card
-- 
+* → how to learn? simultaneously? iteratively? (seems better)
+* https://www.semanticscholar.org/paper/Application-of-reinforcement-learning-to-the-card-Backhus-Nonaka/346bc4eaad1a89e84aa8cda08b623973ec0a2fb7
+* Combinatoric-probabilistic features:
+* Probability that each player can beat each card
+* Probability that each player wants to beat each card
+* 
+
 
 #### blackjack
 
+
 #### bridge
+
 
 #### canasta
 
+
 #### codenames
+
 
 #### haiclue
 
+
 #### hanabi
+
 
 #### lucky_numbers
 
+
 #### mastermind
+
 
 #### poker
 
+
 #### rook
+
 
 #### rush_hour
 
+
 #### scum
+
 
 #### skyjo
 
+
 #### stratego
+
 
 #### sushigo
 
+
 #### ticket_to_ride
+
 
 #### whist
     

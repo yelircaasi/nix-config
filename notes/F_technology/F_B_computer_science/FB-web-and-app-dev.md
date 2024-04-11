@@ -2,11 +2,13 @@
 * [Svelte UI Libraries Have Leveled Up](https://m.youtube.com/watch?v%3DjwRqiCv6Z9k)**
 * https://melt-ui.com/
 
+
 ## Resources
 
 
 ## Collections - Well-Designed Sites
 * https://personalsit.es/
+
 
 ### Phenomenal
 * https://blog.wesleyac.com/
@@ -15,6 +17,7 @@
 * http://colah.github.io/
 * https://ritchieng.live/ 
 * [https://shuzhanfan.github.io](https://shuzhanfan.github.io/)
+
 
 ### Educational, Book, etc
 * https://notesonai.com/Notes+on+AI
@@ -28,18 +31,23 @@
 * https://agill.xyz/ *** [Notgnoshi (Austin Gill)](https://github.com/Notgnoshi)
 * [Game Math Series | Ming-Lun "Allen" Chou | 周明倫](http://allenchou.net/game-math-series/)
 
+
 ## Interesting People
 ### YouTube
 * [Hugo Larochelle](https://www.youtube.com/user/hugolarochelle)
 
+
 ### Uni Sites
+
 
 ### LinkedIn
 * [Andriy Burkov | LinkedIn](https://www.linkedin.com/today/author/andriyburkov?trk=pprof-feed)
 
+
 ### Tools & Tech
 * https://github.com/RossKnapman/HugoTheme (great icons)
 * [Academia Website](https://www.academia.edu/portfolio_creation)
+
 
 ## Sort 
 ### Econ People
@@ -65,6 +73,7 @@
 * [WardFelix_CV.pdf - Google Drive](https://drive.google.com/file/d/1pp_G39Q4bKTj0hvi5b-lPmDYws1bsIMc/view)
 * [Xiaodi Wang](https://sites.google.com/view/xiaodiwang/home)
 
+
 ### Personal Sites
 * https://tlkh.dev/  ***
 * https://adamspannbauer.github.io/ ***
@@ -73,6 +82,7 @@
 * https://www.mattjustice.com/
 * https://8d9.ru/category/blog - IT blog
 * [https://uninsane.org/](https://uninsane.org/)
+
 
 * ? [catonmat.net](https://catonmat.net/)
 * [Archive · Thorsten Hans' blog](ghttps://www.thorsten-hans.com/archive/)
@@ -377,6 +387,7 @@
 ## Educational Resources
 ### Books
 
+
 #### HTML and CSS (+ JavaScript, PHP, etc.)
 * [Jürgen Wolf - HTML5 und CSS3 Das umfassende Handbuch zum Lernen und Nachschlagen. Inkl. JavaScript, Bootstrap, Responsive Webdesign u. v. m](http://libgen.rs/book/index.php?md5=E3A77A243DD4F1CF26DE39C25664B761)
 * CSS (Cascading Style Sheets) Visual Dictionary
@@ -411,6 +422,7 @@
 * [Sams Teach Yourself HTML, CSS & JavaScript Web Publishing in One Hour a Day](https://b-ok.cc/book/2652131/77c1ca)
 * Responsive Web Design with HTML5 and CSS: Develop future-proof responsive websites using the latest HTML5 and CSS techniques
 
+
 #### PHP & Co.
 * [9. PHP and MySQL for Dynamic Web Sites](https://elementor.com/blog/best-web-development-books/#php-and-mysql-for-dynamic-web-sites): Visual QuickPro Guide
 * [10. PHP Objects,](https://elementor.com/blog/best-web-development-books/#php-objects-patterns-and-practice) Patterns, and Practice
@@ -431,6 +443,7 @@
 * [PHP and MySQL Web Development](https://www.amazon.in/PHP-MySQL-Development-Developers-Library/dp/0672329166?tag=hackr0df-21)
 * [8. Learning PHP, MySQL & JavaScript: W](https://elementor.com/blog/best-web-development-books/#learning-php-mysql-javascript-css-and-html5)ith jQuery, CSS & HTML5
 
+
 ### Frameworks
 * [React and React Native, Third Edition](https://www.amazon.com/React-Native-complete-hands-development/dp/1839211148)
 * [6. Road To React: Your Journey To Master](https://elementor.com/blog/best-web-development-books/#road-to-react) React.js in JavaScript
@@ -443,12 +456,14 @@
 * Bootstrap: Responsive Web Development
 * Bootstrap 4 Cookbook
 
+
 ### Fullstack / Web for Desktop
 * [Modern Full-Stack Development: Using TypeScript, React, Node.js, Webpack, and Docker](https://amzn.to/3wnfGkT)
 * [Hands-On Full Stack Development with Spring Boot 2 and React](https://amzn.to/3xgONz1)
 * [Hands On JavaScript High Performance: Build faster web apps using Node.js, Svelte.js and WebAssembly](http://library.lol/main/728B19A4FD75B29D199DC2973A4EA64A)
 * JavaScript Everywhere: Building Cross-Platform Applications with GraphQL, React, React Native, and Electron
 * [The Full Stack Developer: Your Essential Guide to the Everyday Skills Expected of a Modern Full Stack Web Developer](https://amzn.to/3grZurL) by Chris Northwood
+
 
 ### Backend, Node & Co., etc.
 * [Node Cookbook, Fourth Edition](https://www.packtpub.com/product/node-cookbook-fourth-edition/9781838558758)
@@ -458,6 +473,7 @@
 * [Django for Beginners](https://www.amazon.in/gp/product/B079ZZLRRL/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=geeksforgeeks-21&creative=24630&linkCode=as2&creativeASIN=B079ZZLRRL&linkId=4d732c1f0385194bb62d4b97a9c006ef)
 * [Python Crash Course](https://www.amazon.in/dp/1593276036?tag=hackr0df-21)
 * [Django Web Development with Python](https://www.youtube.com/watch?v=yD0_1DPmfKM&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3)
+
 
 ### JavaScript-/TypeScript-Focused
 * JavaScript and JQuery: Interactive Front-End Web Development, by Jon Duckett
@@ -473,6 +489,7 @@
 * JavaScript: The Good Parts
 * [Slay the JavaScript Interview: 100 Answers That Every Developer Needs to Know](https://www.amazon.com/Slay-JavaScript-Interview-answers-developer-ebook/dp/B08K9B5675)
 
+
 ### WASM
 * [The Art of WebAssembly: Build Secure, Portable, High-Performance Applications](http://library.lol/main/A9F269802FD45872AA9A20FF5983E657)
 * [WebAssembly: The Definitive Guide: Safe, Fast, and Portable Code](http://library.lol/main/8F7CD7151FC7282056CF1E229C1A00B4)
@@ -484,8 +501,10 @@
 * [WebAssembly for Cloud: A Basic Guide for Wasm-Based Cloud Apps](http://library.lol/main/985D100A891FD6463B1AF700EADDAD03)
 * [Learn WebAssembly: build web applications with native performance using wasm and c/c++](http://library.lol/main/C6E8C68B806A76576FEA09B6C84749BB)
 
+
 ### Other
 * [Creative Projects for Rust Programmers: Build exciting projects on domains such as web apps, WebAssembly, games, and parsing](http://library.lol/main/69F202277193C9C7FD9495F17BFA0944)
+
 
 ## Android, Flutter, etc.
 * [Madona S. Wambua - Modern Android 13 Development Cookbook: Over 70 recipes to solve Android development issues and create better apps with Kotlin and Jetpack Compose](https://libgen.is/book/index.php?md5=5CF25921D714EE3B6D555ED458F86F26)
@@ -510,6 +529,7 @@
 * https://github.com/RyanFitzgerald/devportfolio
 * https://github.com/ashutosh1919/masterPortfolio
 
+
 ## Blogging
 * [cms - Multilingual blogging platform - Software Recommendations Stack Exchange](https://softwarerecs.stackexchange.com/questions/7519/multilingual-blogging-platform)
 * [Create a site - Sites Help](https://support.google.com/sites/answer/98081?hl=en)
@@ -522,6 +542,7 @@
 * [Multilingual Blogging](https://problogger.com/multilingual-blogging/)
 * [Welcome | Flask (A Python Microframework)](http://flask.pocoo.org/)
 * [Your stories](https://medium.com/me/stories/drafts)
+
 
 ## Writing
 * [D2L for Reference (esp. code language tabs)](https://github.com/d2l-ai/d2l-en/blob/master/chapter_appendix-mathematics-for-deep-learning/information-theory.md)
@@ -536,6 +557,7 @@
      * [Making your first Jekyll theme: Part 1 - Siteleaf](https://www.siteleaf.com/blog/making-your-first-jekyll-theme-part-1/)
 * [Bookish (typesetting conversion library): https://github.com/parrt/bookish](https://github.com/parrt/bookish)
 * [**Write for Towards Data Science - Towards Data Science](https://towardsdatascience.com/questions-96667b06af5)
+
 
 ## General Reference - Sort!
 * https://www.codenewbie.org/podcast/how-do-browsers-work
@@ -597,6 +619,7 @@
 * https://github.com/Keno/julia-wasm
 * https://developer.mozilla.org/fr/docs/Web/MathML
 * [https://phptherightway.com](https://phptherightway.com/)
+
 
 ## Reading - To Sort
 * https://en.wikipedia.org/wiki/Unikernel 
@@ -702,6 +725,7 @@
 * [Your Career in Web Development Starts Here | The Odin Project](https://www.theodinproject.com/)
 * [luruke/browser-2020: Things you can do with a browser in 2020 ☕️](https://github.com/luruke/browser-2020)
 * [*News | A·Muse·Wiki](https://amusewiki.org/special/index)
+
 
 * https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures
 * [Make your own Algorithmic Art. A gentle Introduction to creative Coding with P5js](http://libgen.is/book/index.php?md5=BFD0BC354D4AC37D864520AE2D04A815)
@@ -865,6 +889,7 @@
 * https://trishalim.hashnode.dev/css-tricks-to-create-that-dark-futuristic-web3-look
 * https://trishalim.hashnode.dev/
 
+
 * https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md
 * [CTF Challenge - Web App Security Challenges](https://ctfchallenge.com/)
 * [How to Create a Responsive Homepage using Html and CSS](https://www.codingflicks.com/2020/08/how-to-create-responsive-homepage-using-html-css.html)
@@ -885,6 +910,7 @@
 * https://plausible.io/js/plausible.js
 * [Subtle, yet Beautiful Scroll Animations](https://youtu.be/T33NN_pPeNI)
 * https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md
+
 
 ## App Programming Reading
 * [**GitHub - lltk/lltk: The Language Learning Toolkit (LLTK) performs a variety of tasks useful for (human) language learning.](https://github.com/lltk/lltk)
@@ -942,9 +968,11 @@
 * [Yash Bonde | Projects](https://yashbonde.github.io/projects.html)
 * Create C/C++ typing test (first character→key mappings)
 
+
 ## Web, App - to Sort
 * https://developer.mozilla.org/en-US/blog/baseline-unified-view-stable-web-features/ 
 * [Flutter on the Web](https://flutter.dev/multi-platform/web?gclid=Cj0KCQjwpPKiBhDvARIsACn-gzA9zU-_n9uwAC-TDWq5axxb9pkUgsXQLuOlzDRFPEqUwVL6htafmDUaAiVaEALw_wcB&gclsrc=aw.ds)
+
 able columns interactive visibility: collapse 
 * https://github.com/ableinc/pyreact 
 * https://www.w3schools.com/html/html_table_colgroup.asp 
@@ -967,6 +995,7 @@ able columns interactive visibility: collapse
 * https://www.freecodecamp.org/news/how-to-use-the-astro-ui-framework/ 
 * https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers/ 
 * https://pixijs.io/guides/basics/what-pixijs-is.html 
+
 
 * http://logic.stanford.edu/epilog/documentation/epilogjs/guide.php
 * [Jon Duckett](http://libgen.rs/search.php?&req=jon+duckett&phrase=1&view=simple&column=def&sort=extension&sortmode=DESC)

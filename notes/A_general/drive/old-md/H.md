@@ -1,5 +1,6 @@
 # H
 ## A. General
+
 Кельвин и Хоббс.pdf
 
 La luz de los lejanos faros. Una defensa apasionada de las humanidades.epub
@@ -14,7 +15,9 @@ OECD (2013fr) L'art pour l'art?.pdf
 
 The 250 Most-Cited Authors in the Arts and Humanities.pdf
 
+
 ## B. Artes visuales
+
 Скетчинг каждый день.pdf
 
 ИСКУССТВО 50 ИДЕЙ.pdf
@@ -37,8 +40,10 @@ What Is Art For.pdf
 
 ПРИНЦИПЫ ИСКУССТВА.pdf
 
+
 ## C. Música
 ### Noten
+
 LM (vocal score).pdf
 
 BR.pdf
@@ -77,7 +82,9 @@ Scales and Arpeggios.gsheet
 
 TSMGO.pdf
 
+
 ### _Lectura de música
+
 L'harmonie est numerique. Musique et mathematiques.pdf
 
 Brahms Handbuch.pdf
@@ -104,29 +111,39 @@ Praktiken und Subjektivierung im Musikunterricht.pdf
 
 Systematische Musiktheorie und Kognitionswissenschaft. Zur Grundlegung der kognitiven Musikwissenschaft.pdf
 
+
 ### <General>
+
 Música y cantantes.gsheet
 
 Música clásica para escuchar.gsheet
 
+
 ## D. Arquitectura
+
 50 Schlüsselideen der Architektur.pdf
 
 Среда обитания.epub
 
+
 ## E. Comunicación
+
 Migliori pratiche del discorso pubblico.gsheet
 
 Comunicación para principiantes.pdf
 
+
 ## F. Idiomas y lenguaje
 ### 0
 #### Enfoque analítico
+
 Enfoque analítico - listas.gsheet
 
 Enfoque analítico al aprendizaje de idiomas.gsheet
 
+
 #### Etimología
+
 Dictionnaire étymologique de la langue francaise.pdf
 
 From Old English to Standard English.pdf
@@ -155,7 +172,9 @@ Proto-Indo-European Trees.pdf
 
 РУ-ДР-УК.png
 
+
 #### Frases, modismos, jerga y proverbios
+
 Frases mandarines.gsheet
 
 Wörterbuch der Jugendsprache Deutsch-Englisch-Französisch-Spanisch.pdf
@@ -192,7 +211,9 @@ Vocabolario e frasi situazionali 3.gsheet
 
 Wikiquote.gsheet
 
+
 #### Paremiología
+
 Strauss
 
 Dizionario comparato di proverbi e modi proverbiali.pdf
@@ -277,7 +298,9 @@ Categorization of Proverbs (1).pdf
 
 Phraseologismen im Norwegischen und Deutschen
 
+
 #### Listas de palabras
+
 Carácteres y radicales chinos.gsheet
 
 Harry Potter und der Stein der Weisen.gdoc
@@ -344,7 +367,9 @@ Vocabulario.gsheet
 
 Статьи.gsheet
 
+
 #### Paralel
+
 Le Petit Prince →
 
 Daily Stoic →
@@ -415,19 +440,22 @@ Jesus Film →
 
 11|12
 
-
 Anarhizam
 
 Moji izumi
 
+
 #### Recursos multilinguales
+
 Creating Large-Scale Multilingual Cognate Tables
 
 Columnistas de PS.gsheet
 
 Escritura 1-12.gdoc
 
+
 #### TeX and Glossing
+
 Editions bilingues et TeX.pdf
 
 Enriching, Editing, and Representing Interlinear Glossed Text.pdf
@@ -446,7 +474,9 @@ ledpar Package.pdf
 
 reledmac Package.pdf
 
+
 #### Teoría y planes
+
 Sprachbiografie.pdf
 
 The Psychology of the Language Learner.pdf
@@ -483,7 +513,9 @@ Strategy Inventory for Language Learning.pdf
 
 The Direct Method in Modern Languages.pdf
 
+
 #### Traducción
+
 Dictionary of Untranslatables.pdf
 
 Interpreter Education in the Digital Age.epub
@@ -502,7 +534,9 @@ Traducciones de las notas.gsheet
 
 Translating Cultures.pdf
 
+
 #### Vocabulario
+
 Swadesh.gsheet
 
 Basic Multilingual Lexicon.pdf
@@ -523,7 +557,9 @@ Verbi delle lingue romanze.gsheet
 
 Новый большой русско-норвежский словарь. Ny stor russisk-norsk ordbok.djvu
 
+
 #### Worthäufigkeiten
+
 FreqCount1 py
 
 FreqCount_LPP py
@@ -532,7 +568,9 @@ Varoufakis DE.csv
 
 lpp5_freq.csv
 
+
 #### Метод Франка
+
 Франк  Испанский на ладони. 120 примеров неформального общения.pdf
 
 Франк Идиш с Шолом-Алейхемом. Избранные рассказы.pdf
@@ -567,7 +605,9 @@ lpp5_freq.csv
 
 Anki Script Sets.gsheet
 
+
 ### 1
+
 Grouchy Grammarian.pdf
 
 The Macregol Gospels or The Rushworth Gospels. Edition of the Latin Text with the Old English Interlinear Gloss.pdf
@@ -580,7 +620,9 @@ Frequency Dictionary American English.pdf
 
 Vocabulario avanzato inglese .gsheet
 
+
 ### 2
+
 200 Most Frequently Used Russian Words + Over 2000 Example Sentences
 
 Большой словарь русских поговорок.pdf
@@ -655,7 +697,9 @@ A Frequency Dictionary of Russian.pdf
 
 Russian Learners’ Dictionary. 10,000 Russian Words in Frequency Order.pdf
 
+
 ### 3
+
 Chuchichäschtli. Livret Suisse-Allemand.pdf
 
 Schweizer Jugendsprache.pdf
@@ -714,7 +758,9 @@ spruech4.wma
 
 Русско-немецкий разговорник.pdf
 
+
 ### 4
+
 Гобіт, або Туди і звідти
 
 FROM G TO H AND AGAIN TO G IN UKRAINIAN.pdf
@@ -743,7 +789,9 @@ UK Word List.zip
 
 Матильда.pdf
 
+
 ### 5
+
 <> Using French Vocabulary.pdf
 
 <> Using French Synonyms.pdf
@@ -828,7 +876,9 @@ Truman Show FR.xlsx.gsheet
 
 Tyranno le terrible.pdf
 
+
 ### 6
+
 Un pringao total.pdf
 
 Learn Spanish. Avoid 100-Plus Gringo Mistakes.pdf
@@ -929,7 +979,9 @@ Streetwise Spanish (1).pdf
 
 Самоучитель испанского языка.pdf
 
+
 ### 7
+
 Frequency Dictionary Portuguese.pdf
 
 Using Portuguese.pdf
@@ -980,7 +1032,9 @@ Praktisches Lehrbuch Portugiesisch.pdf
 
 PORTUGUÊS PARA ESTRANGEIROS I.pdf
 
+
 ### 8
+
 Diario di una schiappa.pdf
 
 D!rty Italian.pdf
@@ -1081,9 +1135,12 @@ Undici racconti.pdf
 
 Corso d'italiano  →
 
+
 ### 9
+
 E-books Learn Arabic
 #### GR 9
+
 Arabische Grammatik
 
 Arabic Grammar Book
@@ -1264,7 +1321,9 @@ ARABISCHE DIALEKTGEOGRAPHIE
 
 E-Books - Learn Arabic
 
+
 ##### LEC 9
+
 B) arabe
 
 Арабский язык домашнее чтение
@@ -1359,7 +1418,9 @@ Story 28
 
 هاري بوتر و الأمير الهجين.pdf
 
+
 #### HAB 9
+
 Fusha to Shami
 
 Colloquial Levantine
@@ -1378,7 +1439,9 @@ Arabic Phonetic Transcription.pdf
 
 Lebanese Situation Dictionary 1.pdf
 
+
 #### VOC 9
+
 Racines arabes (images) →
 
 AR Prepositions.jpg
@@ -1451,8 +1514,10 @@ AR-EN Translator's Guide to Difficult Common Words
 
 ТОЛКОВАНИЕ ПРЕКРАСНЫХ ИМЕН АЛЛАХА.pdf
 
+
 ### 10
 #### Bücher
+
 第一冊
 
 第三冊
@@ -1469,7 +1534,9 @@ AR-EN Translator's Guide to Difficult Common Words
 
 第四冊
 
+
 #### HAB 10
+
 Grammaire Chinoise Handbook
 
 Colloquial Chinese Audio
@@ -1516,7 +1583,9 @@ Cinese - lezione 1
 
 Chinese for Dummies
 
+
 #### LEC, GR 10
+
 B) Chinois
 
 Grammatica Cinese
@@ -1525,7 +1594,9 @@ Beginner with Zhuyin
 
 Bescherelle Le chinois pour tous
 
+
 ****Learn to Read ZH with Pictures.pdf
+
 50 текстов для чтения
 
 美国反对美国 (America vs America).gsheet
@@ -1774,7 +1845,9 @@ ZH RU.pdf
 
 沉思录（古希腊文全译本）.pdf
 
+
 #### VOC, ESCR 10
+
 Hanzi para Recordar
 
 Assimil ZH
@@ -2035,7 +2108,9 @@ ZH-EN Idioms
 
 Эволюция китайских иероглифов.djvu
 
+
 #### ZH 500
+
 300 Chinese Characters
 
 Chinos 500.txt
@@ -2046,18 +2121,24 @@ Chinos 500.txt
 
 Mandarin Key Phrases.pdf
 
+
 #### <General>
+
 ZH(IT) Risorse on-line per la lingua CINESE
+
 
 ### 11
 #### ESCU 11
+
 Latin Texts
 
 Latinitium
 
 Ennius (2000 Years of Latin Prose #1).mp3
 
+
 #### ESCR 11
+
 (11) Presentatio: Historia philosophiae
 
 Creative Composition
@@ -2072,7 +2153,9 @@ New Latin Composition Bennett
 
 Pedagogy for Latin Prose Composition
 
+
 #### GR 11
+
 Lingua Latina RU
 
 LA(FR) Grammaire latin complète
@@ -2241,7 +2324,9 @@ discovering_ancient_greek_and_latin_printable.pdf
 
 Латинский и древнегреческий языки: Учебное пособие для студентов специальности "Философия".pdf
 
+
 #### HAB 11
+
 Modo de Leer el Latin
 
 Assimil
@@ -2263,6 +2348,7 @@ Vox Latina.pdf
 Vox Latina
 
 LEC 11
+
 Mark - Vulgate
 
 B) Latin
@@ -2467,7 +2553,9 @@ Xtabay
 
 Латинские афоризмы, пословицы, крылатые выражения
 
+
 #### LING 11
+
 Оснрвы филологии
 
 Du latin aux langues romanes
@@ -2482,7 +2570,9 @@ William Sidney Allen - Vox Latina
 
 Краткое введение в индоевропеистику
 
+
 #### VOC 11
+
 ÉTUDE DU VOCABULAIRE LATIN
 
 Etymonic Grammar of Latin
@@ -2573,7 +2663,9 @@ Vocabulary - English-Classical Greek
 
 Краткий словарь латинских слов, сокр. и выраж
 
+
 ### 11/12
+
 The Gospel of John in Greek and Latin.pdf
 
 Anki - Dickinson 11 y 12.gsheet
@@ -2714,8 +2806,10 @@ Vestibulum Comenius.pdf
 
 Латинский и древнегреческий языки Учебное пособие  для студентов специальности Философия.pdf
 
+
 ### 12
 #### HAB 12
+
 Preguntas y Respuestas en Griego Cl'asico
 
 Ancient Greek Reading Questions
@@ -2740,7 +2834,9 @@ Daitz Pronunciation and Reading
 
 Vox Graeca
 
+
 #### GR 12
+
 Ancient Greek Succinct (no highlighting).jpg
 
 Ancient Greek Succinct Outline.jpg
@@ -2979,7 +3075,9 @@ Zero to Greek ***
 
 Шичалина - Древнегреческий язык. Начальный курс. часть 1
 
+
 #### LEC 12
+
 Alexandros
 
 B) Grec Ancien
@@ -3328,7 +3426,9 @@ Xenophon's Anabasis I
 
 Хрестоматия
 
+
 #### VOC 12
+
 Metodo Etimologico per Apprendere il Vocabolario
 
 ΛΕΧΙΚΟΝ ΕΛΛΗΝΙΚΟΝ
@@ -3453,7 +3553,9 @@ Wir sprechen alle Griechisch.pdf
 
 Этимология древнереческого языка
 
+
 #### ESCR 12
+
 An Introduction to the Composition and Analysis of Greek Prose.pdf
 
 First Greek Writer Key
@@ -3466,7 +3568,9 @@ Greek Prose Composition North & Hillard
 
 Greek Prose Composition Key Sedgwick
 
+
 #### ESCU 12
+
 Hippocratic Oath
 
 Aesop's Fable 19
@@ -3487,7 +3591,9 @@ Reconstructed Ancient Greek Spoken
 
 Xenophon Anabasis
 
+
 #### LING 12
+
 ВВЕДЕНИЕ В ИСТОРИЮ ГРЕЦИИ
 
 Ancient Greeks for Dummies
@@ -3514,7 +3620,9 @@ THE PHONOLOGICAL INTERPRETATION OF ANCIENT GREEK
 
 Ancient Greek Dialects and Early Authors
 
+
 ### 13
+
 200 Most Frequently Used Dutch Words with Over 2000 Example Sentences.pdf
 
 Kauderwelsch Kroatisch.pdf
@@ -3559,7 +3667,9 @@ Arhiva PDF →
 
 HR Audio.gdoc
 
+
 ### 14
+
 Harry Pooter 2 HR.pdf
 
 Harry Potter 2 HR.pdf
@@ -3594,7 +3704,9 @@ Serbo-croate sans peine.pdf
 
 TALIJANSKO-HRVATSKI POSLOVNI RJEČNIK.pdf
 
+
 ### 15
+
 PL phrases.jpg
 
 RU-PL Flse Friends.jpeg
@@ -3641,7 +3753,9 @@ Sprachbeschreibung Polnisch.pdf
 
 Tableaux du polonais.pdf
 
+
 ### 16
+
 Русско-норвежский разговорник.pdf
 
 Норвежский разговорник и словарь.pdf
@@ -3694,7 +3808,9 @@ Platon 2 (Menon|Protagoras|Lysis|Charmides|lon|Menexenos|Euthydemos|Faidros|Krat
 
 Stein på stein (audio).zip
 
+
 ### 17
+
 Старославянский язык I.pdf
 
 Грамматика церковно славянского языка.pdf
@@ -3705,7 +3821,9 @@ Stein på stein (audio).zip
 
 Полный церковно-славянский словарь.pdf
 
+
 ### 18
+
 Идиш с Шолом-Алейхемом.pdf
 
 The Complete Hebrew Vowel List.pdf
@@ -3740,7 +3858,9 @@ LÉXICO  HEBREO|ARAMEO-ESPAÑOL ESPAÑOL-HEBREO|ARAMEO.pdf
 
 A Manual and Grammar of the Yiddish Language.pdf
 
+
 ### 19
+
 Assimil HI →
 
 Gospel of St. Matthew in Sanskrit-Latin-English.pdf
@@ -3855,6 +3975,7 @@ Vocabulary for the Lessons.pdf
 
 A Grammar of the Telugu Language.pdf
 
+
 ## G. Periodismo
 ### Attuali a leggere e rimuovere* LMD 06.2018
 * LMD 10.2018.pdf
@@ -3865,25 +3986,33 @@ Im Netz der Nachricht.pdf
 
 News Apps.gsheet
 
+
 ## H. Escritura
 ## I. Literatura y cinematografía
+
 Book Club.gsheet
 
 Literature List.gsheet
 
+
 ### Cursos
+
 Russ 340 →
 
 Russ 341 →
 
 Russ 441 →
 
+
 ### Cínema
+
 Foreign Films.pdf
 
 Русские фильми.JPG
 
+
 ### Lectura actual
+
 Tevye Yiddish.pdf
 
 Тевье Молочник.pdf
@@ -3914,7 +4043,9 @@ Tess of the D'Urbervilles.pdf
 
 Українська література.pdf
 
+
 #### 2) Мёртвые души
+
 Almas Mortes.pdf
 
 Almas Muertas.pdf
@@ -3937,12 +4068,16 @@ Les Âmes mortes II.pdf
 
 Мёртвые души (Гоголь)%2FТом II%2FОдна из последних глав.pdf
 
+
 #### 3) Blechtrommel
+
 Die Blechtrommel DE-ES-EN.pdf
 
 Die Blechtrommel.pdf
 
+
 #### 4) Захар Беркут
+
 Zakhar Berkut Chapter II.pdf
 
 Aeneis.pdf
@@ -3953,12 +4088,16 @@ Aeneis.pdf
 
 Захар Беркут (частина четверта).pdf
 
+
 #### 8) Pinocchio
+
 Pinocchio DE-IT.pdf
 
 Pinocchios Abenteuer.pdf
 
+
 #### Евгений Оненин
+
 Pushkin - Evgeniy Onegin 00 - Vstuplenie - Bibe.ru.mp3
 
 Pushkin - Evgeniy Onegin 01 - Bibe.ru.mp3
@@ -3979,7 +4118,9 @@ Pushkin - Evgeniy Onegin 08 - Bibe.ru.mp3
 
 Pushkin - Evgeniy Onegin 09 - Bibe.ru.mp3
 
+
 ### Lectura anterior
+
 Silentium.mp3
 
 Tess of the d'Urbervilles.pdf
@@ -3994,7 +4135,9 @@ Tess of the d'Urbervilles.pdf
 
 Чаша жизни.mp3
 
+
 ### Lectura más tarde
+
 Хрестоматія для підготовки до ЗНО.doc
 
 De gelukkige huisvrouw.epub
@@ -4037,10 +4180,14 @@ van den Dommel I.pdf
 
 Контакт (Саган).epub
 
+
 ### Listas
+
 Remarkable Books.pdf
 
+
 ### Literatura meta y general
+
 History in Literature - 20th Century.pdf
 
 50 Schlüsselideen der Literatur.pdf
@@ -4067,7 +4214,9 @@ Tutto. Letteratura francese.pdf
 
 Що таке українська література.pdf
 
+
 ### Mitología
+
 Antike Mythologie in der gegenwärtigen Alltagskultur.pdf
 
 Gestalten der griechisch-römischen Mythologie.pdf
@@ -4078,14 +4227,19 @@ Griechische Mythologie (Preller).pdf
 
 Sagen aus Deutschland.pdf
 
+
 ### Poesía
+
 Selected Poetry and Prose IT-EN.pdf
+
 
 ## J. Caligrafía
 ## K. Artes culinarias
+
 Grand livre de cuisine.pdf
 
 L’ARTE DI MANGIAR BENE.pdf
+
 
 ## L. Atlética
 ### _Lectura* German Football Machine.fb2
@@ -4100,7 +4254,9 @@ Lifelong Fitness Plan.gdoc
 
 Nutritional Guidelines.gsheet
 
+
 ## M. Danza
+
 Creatividad - danza.gdoc
 
 

@@ -1,16 +1,108 @@
-# Untitled
+# Nix - To Sort
+Set up git inside nix container
+
+
+Next rebuild switch: firefox, ublock origin for firefox and chrome, userscript for all browsers for domain-specific css using pilit stylesheets for wikimedia, github, mdbook, sops-nix secrets, kvantum qt styling, zathura, wezterm keybinds for pane and tab navigation, neovim window and tab navigation <leader>hjkl; neotree open and close keybinds, terminal navigation shortcuts, floating terminal shortcuts, "open file in split" shortcut
+
+
+Yet Another Nix Playlist - multilingual audio & subtitles, short, single-topic videos, quality visuals
+
+
+
+challenge: synchronize languages and features with init.lua
+
+buildNvimHM { lib, pkgs, g, features, languages , ...}
+
+home.packages = [];
+
+include each (language x feature) file in its own self-contained file; combine in default.nix and call lua formatter
+
+include lua-ls config file in each directory to ignore missing (vim) imports
+
+nixmacs - like nixide for emacs -> precompile elisp?
+
+nix-utils - make as flake
+
+nixide - flake, also app and shell outputs
+
+clinix - returns HM and other outputs for CLI dev environment
+
+move nvim out into its own flake, with languages and features declared externally
+
+Makes sense to have the config complete and stable first, then to move it into its own flake and add nix-powered modularized configuration
+
+nixfetch - neofetch for nixos
+
+
+Why does chromium via nix have a different hover icon?
+
+https://github.com/nix-community/nixos-generators
+
+https://www.reddit.com/r/NixOS/comments/y1xo2u/how_to_create_an_iso_with_my_config_files/?rdt=61989
+
+Look into Nix as a build tool -> Nix vs Just
+
+Try out Nix container -> how much lighter? how minimal can it be? 
+
+Write garbage collection scripts for Nix & home-manager
+
+Read source code:
+* poetry2nix
+* system-manager
+* home-manager
+* stylix
+* nix-colors
+* nixpkgs.lib (esp relevant)
+* Nix 
+
+Read docs:
+* nix manual
+* nixpkgs manual
+* nixos manual
+* home-manager docs
+
+How to use Nix to modify and act on other Nix file? (wrap, override, etc)
+
+good discussion: https://www.reddit.com/r/NixOS/comments/1bzvaof/nixos_alternatives
+
+write nixfetch: special fetch for NixOS, write in Haskell, use SVG image
+
+just use Greetd as greeter
+
+Write script to view entire nix config as one big nix/dhall/json file -> nix eval --expr, etc.
+## Devices
+
+Hank Ubuntu server (v2): install docker in install
+
+```sh
+
+sudo apt install flatpak
+
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+
+flatpak install org.wezfurlong.wezterm
+
+sudo apt install landscape-client
+
+sudo landscape-config --computer-title "Isaac stellaris 15" --account-name standalone -p SpeakFriendAndEnter --url https://landscape.knecon.com/message-system --ping-url http://landscape.knecon.com/ping
+# https://teams.microsoft.com/l/message/19:0e375ad9-64aa-488b-bde0-9d643d768f57_5ae9b4e0-d8c6-47f1-ac08-c5cd013ac891@unq.gbl.spaces/1712647904617?context=%7B%22contextType%22%3A%22chat%22%7D
+
+```
+
+
 * Informal intro to the Nix language, derivations and nixpkgs - YouTube https://www.youtube.com/watch?v=9DJtHIpdp0Y&t=132s&pp=2AGEAZACAcoFFm5peCBsYW5ndWFnZSB0dXRvcmlhbCA%3D
 * fetch credentials provider [](https://github.com/NixOS/nix/issues/8635)
 * [This is how I roll](https://linuxmatters.sh/19/) snaps on nixos
 * [https://www.reddit.com/r/linuxmasterrace/s/GX6bM8wS97](https://www.reddit.com/r/linuxmasterrace/s/GX6bM8wS97) packaging request
 
-- [ ]  pin all flake inputs: [](https://nixos.org/manual/nix/stable/command-ref/new-cli/nix3-flake.html%23flake-references)
+
+* [ ]  pin all flake inputs: [](https://nixos.org/manual/nix/stable/command-ref/new-cli/nix3-flake.html%23flake-references)
     * [https://nixos.org/manual/nix/stable/command-ref/new-cli/nix3-flake.html#flake-references](https://nixos.org/manual/nix/stable/command-ref/new-cli/nix3-flake.html%23flake-references)
-- [ ] [](https://github.com/bbigras/nix-config)
+* [ ] [](https://github.com/bbigras/nix-config)
     * [https://github.com/bbigras/nix-config](https://github.com/bbigras/nix-config)- [ ]  declarative installation of docker images? 
 * [](https://www.google.com/search?client%3Dfirefox-b-d%26q%3Dnixos%2Bdeclare%2Bdocker%2Bimages%2Bin%2Bconfig)
     * [search](https://www.google.com/search?client%3Dfirefox-b-d%26q%3Dnixos%2Bdeclare%2Bdocker%2Bimages%2Bin%2Bconfig)
-- reading roadmap
+* reading roadmap
 * [ ]  my own lib
 * [ ] [](https://zero-to-nix.com/concepts)
     * [https://zero-to-nix.com/concepts](https://zero-to-nix.com/concepts)
@@ -44,126 +136,127 @@
     * [https://nixified.ai/](https://nixified.ai/) implementation
 
 Roadmap
-- [x] install Nix
-- [x] try out Nix package manager
-- [x] install NixOS
-- [x] configure NixOS with flakes and install basic packages
-- [x] install Hyprland and get it working
-- [x] use Home Manager to create the first config
-- [x] try out home manager in a docker container on Hank to get a feel for it
-- [x] write poetry2nixpkgs → found a way to use overrides instead
-- [ ] create poetry2nix-playground repo to demo problem with editable installation
-- [ ] create post on Nix discourse asking for help with poetry2nix editable installs
-- [ ] back up current configs on Hank
-- [ ] add configs to home-manager config:
+* [x] install Nix
+* [x] try out Nix package manager
+* [x] install NixOS
+* [x] configure NixOS with flakes and install basic packages
+* [x] install Hyprland and get it working
+* [x] use Home Manager to create the first config
+* [x] try out home manager in a docker container on Hank to get a feel for it
+* [x] write poetry2nixpkgs → found a way to use overrides instead
+* [ ] create poetry2nix-playground repo to demo problem with editable installation
+* [ ] create post on Nix discourse asking for help with poetry2nix editable installs
+* [ ] back up current configs on Hank
+* [ ] add configs to home-manager config:
 
-- .conf
-- from Betsy
-- [ ] .gsd-keyboard.settings-ported
-- [ ] i3
-- [ ] make sway from i3
-- [ ] taskwarrior
-- [ ] cosmic
-- [ ] dconf
-- [ ] environment.d
-- [ ] git → from both
-- [ ] ?- [ ] epiphany
-- [ ] evolution
-- [ ] featherpad
-- [ ] geany
-- [ ] gnome-initial-setup-done
-- [ ] gnome-session
-- [ ] goa-1.0
-- [ ] lite-xl
-- [ ] nautilus
-- [ ] Notepadqq
-- [ ] VSCodium
-- [ ] gtk-3.0
-- [ ] gtk-4.0
-- [ ] home-manager → remove?- [ ] hypr
-- [ ] ibus
-- [ ] kitty
-- [ ] lapce-stable
-- [ ] lazygit
-- [ ] mimeapps.list
-- [ ] monitors.xml
-- [ ] monitors.xml~- [ ] neofetch
-- [ ] nushell
-- [ ] nvim
-- [ ] pulse
-- [ ] QtProject.conf
-- [ ] qutebrowser
-- [ ] user-dirs.dirs
-- [ ] user-dirs.locale
-- [ ] wezterm
-- [ ] xonsh
-- [ ] zsh
-- from Hank
-- [ ] .jira
-- [ ] Code
-- [ ] Google
-- [ ] Min
-- [ ] 'Raspberry Pi'- [ ] TabNine
-- [ ] Thunar
-- [ ] TreeSheets.conf
-- [ ] Vieb
-- [ ] autostart
-- [ ] azure-datalake-store
-- [ ] balena-etcher
-- [ ] chromium
-- [ ] clavix
-- [ ] coc
-- [ ] configstore
-- [ ] dconf
-- [ ] enchant
-- [ ] evince
-- [ ] exercism
-- [ ] fontconfig
-- [ ] geany
-- [ ] gedit
-- [ ] github-copilot
-- [ ] glib-2.0
-- [ ] go
-- [ ] gtk-2.0
-- [ ] gtk-3.0
-- [ ] htop
-- [ ] i3
-- [ ] iterative
-- [ ] kanata
-- [ ] kickstart.nvim
-- [ ] kitty
-- [ ] lazygit
-- [ ] lazyvim_backup
-- [ ] luakit
-- [ ] matplotlib
-- [ ] menus
-- [ ] nebokrai
-- [ ] neofetch
-- [ ] nitrogen
-- [ ] nix
-- [ ] nixpkgs
-- [ ] nvim-*- [ ] pavucontrol.ini
-- [ ] picom
-- [ ] pictrix
-- [ ] procps
-- [ ] pulse
-- [ ] pypoetry
-- [ ] qalculate
-- [ ] qutebrowser
-- [ ] spacefm
-- [ ] starship.toml
-- [ ] systemd
-- [ ] tree-sitter
-- [ ] ubports-installer
-- [ ] user-dirs.dirs
-- [ ] user-dirs.locale
-- [ ] vlc
-- [ ] wezterm
-- [ ] xfe
-- [ ] xonsh
-- [ ] zsh
-- [ ]
-- $HOME* - from Betsy* - 
+
+* .conf
+* from Betsy
+* [ ] .gsd-keyboard.settings-ported
+* [ ] i3
+* [ ] make sway from i3
+* [ ] taskwarrior
+* [ ] cosmic
+* [ ] dconf
+* [ ] environment.d
+* [ ] git → from both
+* [ ] ?- [ ] epiphany
+* [ ] evolution
+* [ ] featherpad
+* [ ] geany
+* [ ] gnome-initial-setup-done
+* [ ] gnome-session
+* [ ] goa-1.0
+* [ ] lite-xl
+* [ ] nautilus
+* [ ] Notepadqq
+* [ ] VSCodium
+* [ ] gtk-3.0
+* [ ] gtk-4.0
+* [ ] home-manager → remove?- [ ] hypr
+* [ ] ibus
+* [ ] kitty
+* [ ] lapce-stable
+* [ ] lazygit
+* [ ] mimeapps.list
+* [ ] monitors.xml
+* [ ] monitors.xml~- [ ] neofetch
+* [ ] nushell
+* [ ] nvim
+* [ ] pulse
+* [ ] QtProject.conf
+* [ ] qutebrowser
+* [ ] user-dirs.dirs
+* [ ] user-dirs.locale
+* [ ] wezterm
+* [ ] xonsh
+* [ ] zsh
+* from Hank
+* [ ] .jira
+* [ ] Code
+* [ ] Google
+* [ ] Min
+* [ ] 'Raspberry Pi'- [ ] TabNine
+* [ ] Thunar
+* [ ] TreeSheets.conf
+* [ ] Vieb
+* [ ] autostart
+* [ ] azure-datalake-store
+* [ ] balena-etcher
+* [ ] chromium
+* [ ] clavix
+* [ ] coc
+* [ ] configstore
+* [ ] dconf
+* [ ] enchant
+* [ ] evince
+* [ ] exercism
+* [ ] fontconfig
+* [ ] geany
+* [ ] gedit
+* [ ] github-copilot
+* [ ] glib-2.0
+* [ ] go
+* [ ] gtk-2.0
+* [ ] gtk-3.0
+* [ ] htop
+* [ ] i3
+* [ ] iterative
+* [ ] kanata
+* [ ] kickstart.nvim
+* [ ] kitty
+* [ ] lazygit
+* [ ] lazyvim_backup
+* [ ] luakit
+* [ ] matplotlib
+* [ ] menus
+* [ ] nebokrai
+* [ ] neofetch
+* [ ] nitrogen
+* [ ] nix
+* [ ] nixpkgs
+* [ ] nvim-*- [ ] pavucontrol.ini
+* [ ] picom
+* [ ] pictrix
+* [ ] procps
+* [ ] pulse
+* [ ] pypoetry
+* [ ] qalculate
+* [ ] qutebrowser
+* [ ] spacefm
+* [ ] starship.toml
+* [ ] systemd
+* [ ] tree-sitter
+* [ ] ubports-installer
+* [ ] user-dirs.dirs
+* [ ] user-dirs.locale
+* [ ] vlc
+* [ ] wezterm
+* [ ] xfe
+* [ ] xonsh
+* [ ] zsh
+* [ ]
+* $HOME* - from Betsy* - 
 * [ ] .bash_history    * [ ] .emacs.d    * [ ] .gitconfig    * [ ] .gnupg    * [ ] .ipython    * [ ] .mozilla    * [ ] .nix-defexpr    * [ ] .nix-profile    * [ ] .pki    * [ ] .python_history    * [ ] .ssh    * [ ] .textadept    * [ ] .viminfo    * [ ] .vscode-oss    * [ ] .wget-hsts    * [ ] .zcompdump    * [ ] .zshenv    * [ ] .zshrc* - from Hank    * [ ] .EpsonPrinterUtility    * [ ] .SpaceVim.d    * [ ] .Xauthority    * [ ] .Xresources    * [ ] .android    * [ ] .azure    * [ ] .bash_history    * [ ] .bash_logout    * [ ] .bashrc    * [ ] .cargo    * [ ] .conda    * [ ] .condarc    * [ ] .config    * [ ] .dmrc    * [ ] .docker    * [ ] .docker-mnt    * [ ] .git-credentials    * [ ] .gitconfig    * [ ] .gnome    * [ ] .gnupg    * [ ] .gphoto    * [ ] .gradle    * [ ] .gsutil    * [ ] .gtk-bookmarks    * [ ] .gtkrc-2.0    * [ ] .icons    * [ ] .ipython    * [ ] .java    * [ ] .jupyter    * [ ] .keras    * [ ] .lesshst    * [ ] .local    * [ ] .m2    * [ ] .mozilla    * [ ] .nix-channels → remove    * [ ] .nix-defexpr    * [ ] .nix-profile    * [ ] .npm → remove?    * [ ] .nv    * [ ] .nvm    * [ ] .pki    * [ ] .prodigy    * [ ] .profile    * [ ] .pyenv → remove    * [ ] .python-version    * [ ] .python_history    * [ ] .rustup    * [ ] .screenlayout    * [ ] .shiv    * [ ] .shutter    * [ ] .ssh    * [ ] .sudo_as_admin_successful    * [ ] .task    * [ ] .taskrc    * [ ] .thumbnails    * [ ] .undo-nvim    * [ ] .var    * [ ] .vim_backups    * [ ] .viminfo    * [ ] .vscode    * [ ] .vscode-cli    * [ ] .wegorc    * [ ] .wget-hsts    * [ ] .xinitrc    * [ ] .xonshrc    * [ ] .xsession-errors    * [ ] .xsession-errors.old    * [ ] .zcompdump    * [ ] .zshenv    * [ ] .zshrc    * [ ] Android    * [ ] AndroidStudioProjects    * [ ] Desktop    * [ ] Documents    * [ ] Downloads    * [ ] 'Droid Sans Mono for Powerline Nerd Font Complete.otf'    * [ ] Knecon    * [ ] Learning    * [ ] Media    * [ ] Miniforge3-Linux-x86_64.sh    * [ ] Music    * [ ] Pictures    * [ ] Public    * [ ] Templates    * [ ] Temporary    * [ ] Videos    * [ ] bookmarks.html    * [ ] dockerfiles    * [ ] dockermounts    * [ ] gensim-data    * [ ] go    * [ ] miniconda3    * [ ] miniforge3    * [ ] nixos-config    * [ ] node_modules    * [ ] notes    * [ ] pg    * [ ] pkgs    * [ ] snap    * [ ] treesheets-isaac    * [ ] workspace
 * - Top General Resources        - [](https://github.com/nix-community/awesome-nix)
     * [https://github.com/nix-community/awesome-nix](https://github.com/nix-community/awesome-nix)
@@ -1119,20 +1212,21 @@ sha256 = ""; # TODO
 
 };
 
-- related to Nix 3.0 [](https://github.com/NixOS/nix/issues/7701)
+
+* related to Nix 3.0 [](https://github.com/NixOS/nix/issues/7701)
     * [https://github.com/NixOS/nix/issues/7701](https://github.com/NixOS/nix/issues/7701)
 * [](https://www.tweag.io/blog/2022-08-04-tweag-and-nix-future/)
     * [https://www.tweag.io/blog/2022-08-04-tweag-and-nix-future/](https://www.tweag.io/blog/2022-08-04-tweag-and-nix-future/)
 * [](https://discourse.nixos.org/t/nix-release-schedule-and-roadmap/14204)
     * [https://discourse.nixos.org/t/nix-release-schedule-and-roadmap/14204](https://discourse.nixos.org/t/nix-release-schedule-and-roadmap/14204)
-- [https://discourse.nixos.org/t/an-incremental-strategy-for-stabilizing-flakes/16323/5](https://discourse.nixos.org/t/an-incremental-strategy-for-stabilizing-flakes/16323/5)
-- [https://discourse.nixos.org/t/tweag-nix-dev-update-17/15037](https://discourse.nixos.org/t/tweag-nix-dev-update-17/15037)
-- [https://discourse.nixos.org/t/improving-flakes/12831/56](https://discourse.nixos.org/t/improving-flakes/12831/56)
-- [https://discourse.nixos.org/t/depreciate-the-use-of-nix-env-to-install-packages/20139/22](https://discourse.nixos.org/t/depreciate-the-use-of-nix-env-to-install-packages/20139/22)
-- [https://discourse.nixos.org/t/tweag-nix-dev-update-16/14379](https://discourse.nixos.org/t/tweag-nix-dev-update-16/14379)
-- [https://discourse.nixos.org/t/2022-nix-survey-results/18983](https://discourse.nixos.org/t/2022-nix-survey-results/18983)
-- [https://discourse.nixos.org/t/2022-10-07-nix-team-meeting-minutes-3/22369](https://discourse.nixos.org/t/2022-10-07-nix-team-meeting-minutes-3/22369)
-- CAS semantics [](https://github.com/NixOS/rfcs/pull/106)
+* [https://discourse.nixos.org/t/an-incremental-strategy-for-stabilizing-flakes/16323/5](https://discourse.nixos.org/t/an-incremental-strategy-for-stabilizing-flakes/16323/5)
+* [https://discourse.nixos.org/t/tweag-nix-dev-update-17/15037](https://discourse.nixos.org/t/tweag-nix-dev-update-17/15037)
+* [https://discourse.nixos.org/t/improving-flakes/12831/56](https://discourse.nixos.org/t/improving-flakes/12831/56)
+* [https://discourse.nixos.org/t/depreciate-the-use-of-nix-env-to-install-packages/20139/22](https://discourse.nixos.org/t/depreciate-the-use-of-nix-env-to-install-packages/20139/22)
+* [https://discourse.nixos.org/t/tweag-nix-dev-update-16/14379](https://discourse.nixos.org/t/tweag-nix-dev-update-16/14379)
+* [https://discourse.nixos.org/t/2022-nix-survey-results/18983](https://discourse.nixos.org/t/2022-nix-survey-results/18983)
+* [https://discourse.nixos.org/t/2022-10-07-nix-team-meeting-minutes-3/22369](https://discourse.nixos.org/t/2022-10-07-nix-team-meeting-minutes-3/22369)
+* CAS semantics [](https://github.com/NixOS/rfcs/pull/106)
     * [https://github.com/NixOS/rfcs/pull/106](https://github.com/NixOS/rfcs/pull/106)
 * [https://github.com/NixOS/nix/pull/4577](https://github.com/NixOS/nix/pull/4577)
 * [https://unix.stackexchange.com/questions/741682/how-to-pin-a-package-version-with-nix-shell](https://unix.stackexchange.com/questions/741682/how-to-pin-a-package-version-with-nix-shell)
@@ -1167,7 +1261,8 @@ TRY THIS! [](https://github.com/mjlbach/nix-shells/tree/master/lorri_tensorflow
 * [https://www.reddit.com/r/NixOS/comments/y1xo2u/how_to_create_an_iso_with_my_config_files/](https://www.reddit.com/r/NixOS/comments/y1xo2u/how_to_create_an_iso_with_my_config_files/)
 * [https://news.ycombinator.com/item?id=35208402](https://news.ycombinator.com/item?id%3D35208402)
 
-- *** [](https://gitlab.com/librephoenix/nixos-config)
+
+* *** [](https://gitlab.com/librephoenix/nixos-config)
     * [https://gitlab.com/librephoenix/nixos-config](https://gitlab.com/librephoenix/nixos-config)
 * [](https://github.com/librephoenix/nixos-config)
     * [https://github.com/librephoenix/nixos-config](https://github.com/librephoenix/nixos-config)
@@ -1198,7 +1293,8 @@ Project idea: add .drv syntax highlighting to bat, or create a bat-based tool to
 * [https://nixos.asia/en/](https://nixos.asia/en/)
 * [https://daniel-siepmann.de/nix-journey-part-1.html](https://daniel-siepmann.de/nix-journey-part-1.html)
 
-- suckless [](https://github.com/NixOS/nixpkgs/issues/23200)
+
+* suckless [](https://github.com/NixOS/nixpkgs/issues/23200)
     * [https://github.com/NixOS/nixpkgs/issues/23200](https://github.com/NixOS/nixpkgs/issues/23200)
 * [](https://discourse.nixos.org/t/simple-terminal-st-setup/9763)
     * [https://discourse.nixos.org/t/simple-terminal-st-setup/9763](https://discourse.nixos.org/t/simple-terminal-st-setup/9763)
@@ -1225,7 +1321,8 @@ In [19]: os.readlink("/home/isaac/.config/wezterm/wezterm.lua") Out[19]: '/nix/s
     * [https://duckduckgo.com/?q=content-addressed+storage+in+nix&ia=web](https://duckduckgo.com/?q%3Dcontent-addressed%2Bstorage%2Bin%2Bnix%26ia%3Dweb)
 * [https://github.com/knoc-off/nixos](https://github.com/knoc-off/nixos)
 
-- NixOS, Nix [](https://www.reddit.com/r/unixporn/s/ESi62fFi1j)
+
+* NixOS, Nix [](https://www.reddit.com/r/unixporn/s/ESi62fFi1j)
     * [https://www.reddit.com/r/unixporn/s/ESi62fFi1j](https://www.reddit.com/r/unixporn/s/ESi62fFi1j)
     * [https://github.com/tweag/rfcs/blob/flakes/rfcs/0049-flakes.md](https://github.com/tweag/rfcs/blob/flakes/rfcs/0049-flakes.md)
 * [](https://www.tweag.io/blog/2021-12-20-nix-2.4/)
@@ -1819,12 +1916,14 @@ In [19]: os.readlink("/home/isaac/.config/wezterm/wezterm.lua") Out[19]: '/nix/s
 * [https://nix4noobs.com/](https://nix4noobs.com/)
 * [https://github.com/haslersn/any-nix-shell](https://github.com/haslersn/any-nix-shell)
 
-- sops [](https://konradmalik.com/posts/2023/02/sops-nix-simple-secrets-management-for-nix/)
+
+* sops [](https://konradmalik.com/posts/2023/02/sops-nix-simple-secrets-management-for-nix/)
     * [https://konradmalik.com/posts/2023/02/sops-nix-simple-secrets-management-for-nix/](https://konradmalik.com/posts/2023/02/sops-nix-simple-secrets-management-for-nix/)
 * [https://determinate.systems/posts/nuenv](https://determinate.systems/posts/nuenv)
 * [https://github.com/mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide)
 
-- nix and shellls -a /etc/skel [](https://nixos.wiki/wiki/Command_Shell)
+
+* nix and shellls -a /etc/skel [](https://nixos.wiki/wiki/Command_Shell)
     * [https://nixos.wiki/wiki/Command_Shell](https://nixos.wiki/wiki/Command_Shell)
 * [](https://nix4noobs.com/flakes/devshells/)
     * [https://nix4noobs.com/flakes/devshells/](https://nix4noobs.com/flakes/devshells/)
@@ -1881,7 +1980,8 @@ try landscape-client in distrobox?
 
 → build waveterm for Nix
 
-- Flake CLI QuestionHow can I add a CLI functionality to a Nix flake?ChatGPTChatGPT To add command-line interface (CLI) functionality to a Nix flake, you can use the programs attribute in the flake's outputs section. Here's a step-by-step guide:
+
+* Flake CLI QuestionHow can I add a CLI functionality to a Nix flake?ChatGPTChatGPT To add command-line interface (CLI) functionality to a Nix flake, you can use the programs attribute in the flake's outputs section. Here's a step-by-step guide:
 
 Create a directory structure: In your flake's directory, create a directory for your CLI program. For example:plaintextCopy code
 
@@ -1899,7 +1999,8 @@ my-flake/
 
 Write your CLI program: Write your CLI program in the Main.hs file. For example:haskellCopy code
 
-- - src/my-cli/Main.hs
+
+* - src/my-cli/Main.hs
 
 module Main where
 
@@ -1952,7 +2053,7 @@ nix build
 ./result/bin/hello-cli
 
 1. Replace hello-cli with the name you specified in your programs attribute.
-- Now, your Nix flake includes a CLI program that can be easily built and run. You can customize the programs attribute further based on your specific requirements. [](https://lh3.googleusercontent.com/a/AEdFTp7iti-r88FvOL2bvykuZfqt0KtgKeReZeLGIIrZyA%3Ds96-c)
+* Now, your Nix flake includes a CLI program that can be easily built and run. You can customize the programs attribute further based on your specific requirements. [](https://lh3.googleusercontent.com/a/AEdFTp7iti-r88FvOL2bvykuZfqt0KtgKeReZeLGIIrZyA%3Ds96-c)
     * [https://lh3.googleusercontent.com/a/AEdFTp7iti-r88FvOL2bvykuZfqt0KtgKeReZeLGIIrZyA=s96-c](https://lh3.googleusercontent.com/a/AEdFTp7iti-r88FvOL2bvykuZfqt0KtgKeReZeLGIIrZyA%3Ds96-c) You What are the possible values for the atributes of the output of a flake?ChatGPTChatGPT In a Nix flake, the outputs attribute is used to specify the outputs that will be produced by the flake. Each output can have its own set of attributes. Here are some common attributes that can be used in the outputs section of a flake:
 
 defaultPackage: This attribute specifies the default output for the flake. It usually points to the main result produced by the flake. For example:nixCopy code
@@ -2014,11 +2115,13 @@ dev = self.defaultPackage.x86_64-linux + "/lib/myPackage-dev";
 These are just examples, and the actual attributes you use will depend on the nature of your flake and the kind of outputs you want to produce. The key is to define the outputs you need and customize their attributes accordingly. Always refer to the Nixpkgs manual or Nix documentation for the most up-to-date and detailed information on available attributes. [](https://lh3.googleusercontent.com/a/AEdFTp7iti-r88FvOL2bvykuZfqt0KtgKeReZeLGIIrZyA%3Ds96-c)
     * [https://lh3.googleusercontent.com/a/AEdFTp7iti-r88FvOL2bvykuZfqt0KtgKeReZeLGIIrZyA=s96-c](https://lh3.googleusercontent.com/a/AEdFTp7iti-r88FvOL2bvykuZfqt0KtgKeReZeLGIIrZyA%3Ds96-c) You How could I print out a tree representation of the imports of a given output?ChatGPTChatGPT To print out a tree representation of the imports of a given output in a Nix flake, you can leverage the nixpkgs attribute set and the buildInputs attribute of the derivation for the specified output. You can create a recursive function to traverse the import tree and print it in a tree-like structure.Here's an example script in Nix that demonstrates how you can achieve this:nixCopy code
 
+
 # tree.nix
 
 { lib, nixpkgs ? import <nixpkgs> {} }:
 
 let
+
 
 # Function to print a tree structure
 
@@ -2052,6 +2155,7 @@ else
 
 else "${prefix}${node}";
 
+
 # Function to build the import tree
 
 buildImportTree = derivation:
@@ -2081,6 +2185,7 @@ in
 
 This script defines two functions: printTree for printing the tree structure and buildImportTree for building the import tree. The example assumes you have the nixpkgs attribute set available.To use this script, you can import it into another Nix expression and call the buildImportTree function, passing the derivation for the desired output. For example:nixCopy code
 
+
 # example.nix
 
 { lib, nixpkgs ? import <nixpkgs> {}, tree ? import ./tree.nix { nixpkgs = nixpkgs; } }:
@@ -2095,7 +2200,8 @@ in
 
 tree.printTree "" importTree importTree
 
-- Replace myPackage with the actual package name or output you want to inspect. Running the example.nix script should print the import tree structure for the specified output.
+
+* Replace myPackage with the actual package name or output you want to inspect. Running the example.nix script should print the import tree structure for the specified output.
 
 Ly:
 * [https://github.com/the-argus/nixsys/tree/b234fe6f3bd71ce07725cf6b0ca0d46335858619](https://github.com/the-argus/nixsys/tree/b234fe6f3bd71ce07725cf6b0ca0d46335858619)
@@ -2117,21 +2223,28 @@ use! [](https://github.com/zhaofengli/colmena)
 If you suspect a race condition, where kernel modules may not be loaded fast enough to start the display manager, you can take a few steps to investigate and potentially address the issue:
 
 1. Delay Display Manager Start:
-- One approach is to introduce a delay in the startup process of the display manager. This can be achieved by modifying the service or init script that launches the display manager. However, this is a workaround and not a definitive solution.
+* One approach is to introduce a delay in the startup process of the display manager. This can be achieved by modifying the service or init script that launches the display manager. However, this is a workaround and not a definitive solution.
+
 1. Check Module Loading:
-- Examine the logs to see if there are any messages related to the loading of kernel modules. You can use the dmesg command or check specific log files for module loading information. Look for any errors or delays in loading the necessary modules.
+* Examine the logs to see if there are any messages related to the loading of kernel modules. You can use the dmesg command or check specific log files for module loading information. Look for any errors or delays in loading the necessary modules.
+
 1. Adjust Module Loading Configuration:
-- Depending on your distribution, you may have a configuration file specifying which modules to load during the boot process. This file is often located in /etc/modules or /etc/modules-load.d/. Review the contents of these files to ensure that the required modules are listed.
+* Depending on your distribution, you may have a configuration file specifying which modules to load during the boot process. This file is often located in /etc/modules or /etc/modules-load.d/. Review the contents of these files to ensure that the required modules are listed.
+
 1. Check Dependencies:
-- Ensure that the display manager service has proper dependencies set, especially dependencies related to the availability of necessary kernel modules. Adjust the dependencies if needed.
+* Ensure that the display manager service has proper dependencies set, especially dependencies related to the availability of necessary kernel modules. Adjust the dependencies if needed.
+
 1. Systemd Service Unit:
-- If your system uses systemd, check the service unit for the display manager (lightdm.service, gdm.service, etc.). You can find these unit files in /etc/systemd/system/ or /lib/systemd/system/. Look for dependencies and ordering directives and adjust them if necessary.
+* If your system uses systemd, check the service unit for the display manager (lightdm.service, gdm.service, etc.). You can find these unit files in /etc/systemd/system/ or /lib/systemd/system/. Look for dependencies and ordering directives and adjust them if necessary.
+
 1. Investigate Startup Scripts:
-- Examine any scripts or systemd units responsible for the initialization of the system, display manager, or relevant components. Check if they explicitly wait for certain conditions before proceeding.
+* Examine any scripts or systemd units responsible for the initialization of the system, display manager, or relevant components. Check if they explicitly wait for certain conditions before proceeding.
+
 1. Kernel Module Auto-Loading:
-- Ensure that the necessary kernel modules are set to load automatically during boot. This is often configured in files such as /etc/modules or /etc/modules-load.d/*.conf.
+* Ensure that the necessary kernel modules are set to load automatically during boot. This is often configured in files such as /etc/modules or /etc/modules-load.d/*.conf.
+
 1. Check for Module Load Errors:
-- Look for any errors related to module loading in the logs. Use commands like dmesg | grep -i 'error\\|module' to identify potential issues.
+* Look for any errors related to module loading in the logs. Use commands like dmesg | grep -i 'error\\|module' to identify potential issues.
 
 By investigating these areas, you may be able to identify the cause of the race condition and take appropriate measures to address it. If the issue persists, consider seeking assistance from your distribution's community forums or support channels, as they may have insights specific to the distribution and display manager you are using.
 
@@ -2177,6 +2290,7 @@ review gdm settings via dconf: [](https://github.com/search?q%3Dprograms.dconf.
 
 Use greetd:
 * [https://github.com/search?q=greetd+language%3Anix&type=code](https://github.com/search?q%3Dgreetd%2Blanguage%253Anix%26type%3Dcode)
+
 
 * [https://github.com/yelircaasi/nix-eli5](https://github.com/yelircaasi/nix-eli5)
 * [https://github.com/yelircaasi/clavix](https://github.com/yelircaasi/clavix)
@@ -2233,20 +2347,21 @@ sha256 = ""; # TODO
 
 };
 
-- related to Nix 3.0 [](https://github.com/NixOS/nix/issues/7701)
+
+* related to Nix 3.0 [](https://github.com/NixOS/nix/issues/7701)
     * [https://github.com/NixOS/nix/issues/7701](https://github.com/NixOS/nix/issues/7701)
 * [](https://www.tweag.io/blog/2022-08-04-tweag-and-nix-future/)
     * [https://www.tweag.io/blog/2022-08-04-tweag-and-nix-future/](https://www.tweag.io/blog/2022-08-04-tweag-and-nix-future/)
 * [](https://discourse.nixos.org/t/nix-release-schedule-and-roadmap/14204)
     * [https://discourse.nixos.org/t/nix-release-schedule-and-roadmap/14204](https://discourse.nixos.org/t/nix-release-schedule-and-roadmap/14204)
-- [https://discourse.nixos.org/t/an-incremental-strategy-for-stabilizing-flakes/16323/5](https://discourse.nixos.org/t/an-incremental-strategy-for-stabilizing-flakes/16323/5)
-- [https://discourse.nixos.org/t/tweag-nix-dev-update-17/15037](https://discourse.nixos.org/t/tweag-nix-dev-update-17/15037)
-- [https://discourse.nixos.org/t/improving-flakes/12831/56](https://discourse.nixos.org/t/improving-flakes/12831/56)
-- [https://discourse.nixos.org/t/depreciate-the-use-of-nix-env-to-install-packages/20139/22](https://discourse.nixos.org/t/depreciate-the-use-of-nix-env-to-install-packages/20139/22)
-- [https://discourse.nixos.org/t/tweag-nix-dev-update-16/14379](https://discourse.nixos.org/t/tweag-nix-dev-update-16/14379)
-- [https://discourse.nixos.org/t/2022-nix-survey-results/18983](https://discourse.nixos.org/t/2022-nix-survey-results/18983)
-- [https://discourse.nixos.org/t/2022-10-07-nix-team-meeting-minutes-3/22369](https://discourse.nixos.org/t/2022-10-07-nix-team-meeting-minutes-3/22369)
-- CAS semantics [](https://github.com/NixOS/rfcs/pull/106)
+* [https://discourse.nixos.org/t/an-incremental-strategy-for-stabilizing-flakes/16323/5](https://discourse.nixos.org/t/an-incremental-strategy-for-stabilizing-flakes/16323/5)
+* [https://discourse.nixos.org/t/tweag-nix-dev-update-17/15037](https://discourse.nixos.org/t/tweag-nix-dev-update-17/15037)
+* [https://discourse.nixos.org/t/improving-flakes/12831/56](https://discourse.nixos.org/t/improving-flakes/12831/56)
+* [https://discourse.nixos.org/t/depreciate-the-use-of-nix-env-to-install-packages/20139/22](https://discourse.nixos.org/t/depreciate-the-use-of-nix-env-to-install-packages/20139/22)
+* [https://discourse.nixos.org/t/tweag-nix-dev-update-16/14379](https://discourse.nixos.org/t/tweag-nix-dev-update-16/14379)
+* [https://discourse.nixos.org/t/2022-nix-survey-results/18983](https://discourse.nixos.org/t/2022-nix-survey-results/18983)
+* [https://discourse.nixos.org/t/2022-10-07-nix-team-meeting-minutes-3/22369](https://discourse.nixos.org/t/2022-10-07-nix-team-meeting-minutes-3/22369)
+* CAS semantics [](https://github.com/NixOS/rfcs/pull/106)
     * [https://github.com/NixOS/rfcs/pull/106](https://github.com/NixOS/rfcs/pull/106)
 * [https://github.com/NixOS/nix/pull/4577](https://github.com/NixOS/nix/pull/4577)
 * [https://unix.stackexchange.com/questions/741682/how-to-pin-a-package-version-with-nix-shell](https://unix.stackexchange.com/questions/741682/how-to-pin-a-package-version-with-nix-shell)
@@ -2281,7 +2396,8 @@ TRY THIS! [](https://github.com/mjlbach/nix-shells/tree/master/lorri_tensorflow
 * [https://www.reddit.com/r/NixOS/comments/y1xo2u/how_to_create_an_iso_with_my_config_files/](https://www.reddit.com/r/NixOS/comments/y1xo2u/how_to_create_an_iso_with_my_config_files/)
 * [https://news.ycombinator.com/item?id=35208402](https://news.ycombinator.com/item?id%3D35208402)
 
-- *** [](https://gitlab.com/librephoenix/nixos-config)
+
+* *** [](https://gitlab.com/librephoenix/nixos-config)
     * [https://gitlab.com/librephoenix/nixos-config](https://gitlab.com/librephoenix/nixos-config)
 * [](https://github.com/librephoenix/nixos-config)
     * [https://github.com/librephoenix/nixos-config](https://github.com/librephoenix/nixos-config)
@@ -2312,7 +2428,8 @@ Project idea: add .drv syntax highlighting to bat, or create a bat-based tool to
 * [https://nixos.asia/en/](https://nixos.asia/en/)
 * [https://daniel-siepmann.de/nix-journey-part-1.html](https://daniel-siepmann.de/nix-journey-part-1.html)
 
-- suckless [](https://github.com/NixOS/nixpkgs/issues/23200)
+
+* suckless [](https://github.com/NixOS/nixpkgs/issues/23200)
     * [https://github.com/NixOS/nixpkgs/issues/23200](https://github.com/NixOS/nixpkgs/issues/23200)
 * [](https://discourse.nixos.org/t/simple-terminal-st-setup/9763)
     * [https://discourse.nixos.org/t/simple-terminal-st-setup/9763](https://discourse.nixos.org/t/simple-terminal-st-setup/9763)
@@ -2339,7 +2456,8 @@ In [19]: os.readlink("/home/isaac/.config/wezterm/wezterm.lua") Out[19]: '/nix/s
     * [https://duckduckgo.com/?q=content-addressed+storage+in+nix&ia=web](https://duckduckgo.com/?q%3Dcontent-addressed%2Bstorage%2Bin%2Bnix%26ia%3Dweb)
 * [https://github.com/knoc-off/nixos](https://github.com/knoc-off/nixos)
 
-- NixOS, Nix [](https://www.reddit.com/r/unixporn/s/ESi62fFi1j)
+
+* NixOS, Nix [](https://www.reddit.com/r/unixporn/s/ESi62fFi1j)
     * [https://www.reddit.com/r/unixporn/s/ESi62fFi1j](https://www.reddit.com/r/unixporn/s/ESi62fFi1j)
     * [https://github.com/tweag/rfcs/blob/flakes/rfcs/0049-flakes.md](https://github.com/tweag/rfcs/blob/flakes/rfcs/0049-flakes.md)
 * [](https://www.tweag.io/blog/2021-12-20-nix-2.4/)
@@ -2933,12 +3051,14 @@ In [19]: os.readlink("/home/isaac/.config/wezterm/wezterm.lua") Out[19]: '/nix/s
 * [https://nix4noobs.com/](https://nix4noobs.com/)
 * [https://github.com/haslersn/any-nix-shell](https://github.com/haslersn/any-nix-shell)
 
-- sops [](https://konradmalik.com/posts/2023/02/sops-nix-simple-secrets-management-for-nix/)
+
+* sops [](https://konradmalik.com/posts/2023/02/sops-nix-simple-secrets-management-for-nix/)
     * [https://konradmalik.com/posts/2023/02/sops-nix-simple-secrets-management-for-nix/](https://konradmalik.com/posts/2023/02/sops-nix-simple-secrets-management-for-nix/)
 * [https://determinate.systems/posts/nuenv](https://determinate.systems/posts/nuenv)
 * [https://github.com/mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide)
 
-- nix and shellls -a /etc/skel [](https://nixos.wiki/wiki/Command_Shell)
+
+* nix and shellls -a /etc/skel [](https://nixos.wiki/wiki/Command_Shell)
     * [https://nixos.wiki/wiki/Command_Shell](https://nixos.wiki/wiki/Command_Shell)
 * [](https://nix4noobs.com/flakes/devshells/)
     * [https://nix4noobs.com/flakes/devshells/](https://nix4noobs.com/flakes/devshells/)
@@ -2995,7 +3115,8 @@ try landscape-client in distrobox?
 
 → build waveterm for Nix
 
-- Flake CLI QuestionHow can I add a CLI functionality to a Nix flake?ChatGPTChatGPT To add command-line interface (CLI) functionality to a Nix flake, you can use the programs attribute in the flake's outputs section. Here's a step-by-step guide:
+
+* Flake CLI QuestionHow can I add a CLI functionality to a Nix flake?ChatGPTChatGPT To add command-line interface (CLI) functionality to a Nix flake, you can use the programs attribute in the flake's outputs section. Here's a step-by-step guide:
 
 Create a directory structure: In your flake's directory, create a directory for your CLI program. For example:plaintextCopy code
 
@@ -3013,7 +3134,8 @@ my-flake/
 
 Write your CLI program: Write your CLI program in the Main.hs file. For example:haskellCopy code
 
-- - src/my-cli/Main.hs
+
+* - src/my-cli/Main.hs
 
 module Main where
 
@@ -3066,7 +3188,7 @@ nix build
 ./result/bin/hello-cli
 
 1. Replace hello-cli with the name you specified in your programs attribute.
-- Now, your Nix flake includes a CLI program that can be easily built and run. You can customize the programs attribute further based on your specific requirements. [](https://lh3.googleusercontent.com/a/AEdFTp7iti-r88FvOL2bvykuZfqt0KtgKeReZeLGIIrZyA%3Ds96-c)
+* Now, your Nix flake includes a CLI program that can be easily built and run. You can customize the programs attribute further based on your specific requirements. [](https://lh3.googleusercontent.com/a/AEdFTp7iti-r88FvOL2bvykuZfqt0KtgKeReZeLGIIrZyA%3Ds96-c)
     * [https://lh3.googleusercontent.com/a/AEdFTp7iti-r88FvOL2bvykuZfqt0KtgKeReZeLGIIrZyA=s96-c](https://lh3.googleusercontent.com/a/AEdFTp7iti-r88FvOL2bvykuZfqt0KtgKeReZeLGIIrZyA%3Ds96-c) You What are the possible values for the atributes of the output of a flake?ChatGPTChatGPT In a Nix flake, the outputs attribute is used to specify the outputs that will be produced by the flake. Each output can have its own set of attributes. Here are some common attributes that can be used in the outputs section of a flake:
 
 defaultPackage: This attribute specifies the default output for the flake. It usually points to the main result produced by the flake. For example:nixCopy code
@@ -3128,11 +3250,13 @@ dev = self.defaultPackage.x86_64-linux + "/lib/myPackage-dev";
 These are just examples, and the actual attributes you use will depend on the nature of your flake and the kind of outputs you want to produce. The key is to define the outputs you need and customize their attributes accordingly. Always refer to the Nixpkgs manual or Nix documentation for the most up-to-date and detailed information on available attributes. [](https://lh3.googleusercontent.com/a/AEdFTp7iti-r88FvOL2bvykuZfqt0KtgKeReZeLGIIrZyA%3Ds96-c)
     * [https://lh3.googleusercontent.com/a/AEdFTp7iti-r88FvOL2bvykuZfqt0KtgKeReZeLGIIrZyA=s96-c](https://lh3.googleusercontent.com/a/AEdFTp7iti-r88FvOL2bvykuZfqt0KtgKeReZeLGIIrZyA%3Ds96-c) You How could I print out a tree representation of the imports of a given output?ChatGPTChatGPT To print out a tree representation of the imports of a given output in a Nix flake, you can leverage the nixpkgs attribute set and the buildInputs attribute of the derivation for the specified output. You can create a recursive function to traverse the import tree and print it in a tree-like structure.Here's an example script in Nix that demonstrates how you can achieve this:nixCopy code
 
+
 # tree.nix
 
 { lib, nixpkgs ? import <nixpkgs> {} }:
 
 let
+
 
 # Function to print a tree structure
 
@@ -3166,6 +3290,7 @@ else
 
 else "${prefix}${node}";
 
+
 # Function to build the import tree
 
 buildImportTree = derivation:
@@ -3195,6 +3320,7 @@ in
 
 This script defines two functions: printTree for printing the tree structure and buildImportTree for building the import tree. The example assumes you have the nixpkgs attribute set available.To use this script, you can import it into another Nix expression and call the buildImportTree function, passing the derivation for the desired output. For example:nixCopy code
 
+
 # example.nix
 
 { lib, nixpkgs ? import <nixpkgs> {}, tree ? import ./tree.nix { nixpkgs = nixpkgs; } }:
@@ -3209,7 +3335,8 @@ in
 
 tree.printTree "" importTree importTree
 
-- Replace myPackage with the actual package name or output you want to inspect. Running the example.nix script should print the import tree structure for the specified output.
+
+* Replace myPackage with the actual package name or output you want to inspect. Running the example.nix script should print the import tree structure for the specified output.
 
 Ly:
 * [https://github.com/the-argus/nixsys/tree/b234fe6f3bd71ce07725cf6b0ca0d46335858619](https://github.com/the-argus/nixsys/tree/b234fe6f3bd71ce07725cf6b0ca0d46335858619)
@@ -3231,21 +3358,28 @@ use! [](https://github.com/zhaofengli/colmena)
 If you suspect a race condition, where kernel modules may not be loaded fast enough to start the display manager, you can take a few steps to investigate and potentially address the issue:
 
 1. Delay Display Manager Start:
-- One approach is to introduce a delay in the startup process of the display manager. This can be achieved by modifying the service or init script that launches the display manager. However, this is a workaround and not a definitive solution.
+* One approach is to introduce a delay in the startup process of the display manager. This can be achieved by modifying the service or init script that launches the display manager. However, this is a workaround and not a definitive solution.
+
 1. Check Module Loading:
-- Examine the logs to see if there are any messages related to the loading of kernel modules. You can use the dmesg command or check specific log files for module loading information. Look for any errors or delays in loading the necessary modules.
+* Examine the logs to see if there are any messages related to the loading of kernel modules. You can use the dmesg command or check specific log files for module loading information. Look for any errors or delays in loading the necessary modules.
+
 1. Adjust Module Loading Configuration:
-- Depending on your distribution, you may have a configuration file specifying which modules to load during the boot process. This file is often located in /etc/modules or /etc/modules-load.d/. Review the contents of these files to ensure that the required modules are listed.
+* Depending on your distribution, you may have a configuration file specifying which modules to load during the boot process. This file is often located in /etc/modules or /etc/modules-load.d/. Review the contents of these files to ensure that the required modules are listed.
+
 1. Check Dependencies:
-- Ensure that the display manager service has proper dependencies set, especially dependencies related to the availability of necessary kernel modules. Adjust the dependencies if needed.
+* Ensure that the display manager service has proper dependencies set, especially dependencies related to the availability of necessary kernel modules. Adjust the dependencies if needed.
+
 1. Systemd Service Unit:
-- If your system uses systemd, check the service unit for the display manager (lightdm.service, gdm.service, etc.). You can find these unit files in /etc/systemd/system/ or /lib/systemd/system/. Look for dependencies and ordering directives and adjust them if necessary.
+* If your system uses systemd, check the service unit for the display manager (lightdm.service, gdm.service, etc.). You can find these unit files in /etc/systemd/system/ or /lib/systemd/system/. Look for dependencies and ordering directives and adjust them if necessary.
+
 1. Investigate Startup Scripts:
-- Examine any scripts or systemd units responsible for the initialization of the system, display manager, or relevant components. Check if they explicitly wait for certain conditions before proceeding.
+* Examine any scripts or systemd units responsible for the initialization of the system, display manager, or relevant components. Check if they explicitly wait for certain conditions before proceeding.
+
 1. Kernel Module Auto-Loading:
-- Ensure that the necessary kernel modules are set to load automatically during boot. This is often configured in files such as /etc/modules or /etc/modules-load.d/*.conf.
+* Ensure that the necessary kernel modules are set to load automatically during boot. This is often configured in files such as /etc/modules or /etc/modules-load.d/*.conf.
+
 1. Check for Module Load Errors:
-- Look for any errors related to module loading in the logs. Use commands like dmesg | grep -i 'error\\|module' to identify potential issues.
+* Look for any errors related to module loading in the logs. Use commands like dmesg | grep -i 'error\\|module' to identify potential issues.
 
 By investigating these areas, you may be able to identify the cause of the race condition and take appropriate measures to address it. If the issue persists, consider seeking assistance from your distribution's community forums or support channels, as they may have insights specific to the distribution and display manager you are using.
 

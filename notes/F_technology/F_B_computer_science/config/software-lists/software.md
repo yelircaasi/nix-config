@@ -1,5 +1,7 @@
 # Software List
 
+
+
 ## Legend
 
 (0) - already installed and configured in nix-config
@@ -261,22 +263,22 @@
 ## Tools
 
 ###Misc  Desktop Tools
-- (5)
+* (5)
 * [open-in-editor](https://github.com/dandavison/open-in-editor)
-- (2?)
+* (2?)
 * [Metadata Cleaner](https://metadatacleaner.romainvigier.fr/) - This tool allows you to view metadata in your files and to get rid of it, as much as possible.
-- (2)
+* (2)
 * [azuredatastudio](https://github.com/Microsoft/azuredatastudio): A data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
-- (5)
+* (5)
 * [GrubCustomizer](https://launchpad.net/grub-customizer) - Grub Customizer is a graphical interface to configure the GRUB2/BURG settings and menuentries. [tutorial](https://www.linuxfordevices.com/tutorials/linux/grub-customizer-tutorial)
-- (2)
+* (2)
 * [gramps](https://github.com/gramps-project/gramps)
 * [Gramps](https://gramps-project.org/blog/) - Research, organize and share your family tree with Gramps.
-- (2)
+* (2)
 * [emote](https://github.com/tom-james-watson/emote)
    | (5)
 * [emoji-keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Virtual keyboard-like emoji picker for Linux.
-- (5)
+* (5)
 * [Daily Reddit Wallpaper](https://federicotorrielli.github.io/Daily-Reddit-Wallpaper/) - Change your wallpaper to the most upvoted image of the day from /r/wallpapers or any other subreddit on system startup.
 
 ### Core Command-Line Tools
@@ -550,23 +552,23 @@
 * [data-tools](https://github.com/clarkgrubb/data-tools)
 
 ##### Markdown
-- (5)
+* (5)
 * [frogmouth](https://github.com/Textualize/frogmouth) 
    | (2)
 * [glow](https://github.com/charmbracelet/glow) 
    | [mdcat](https://github.com/swsnr/mdcat) 
    | [tmv](https://github.com/axiros/terminal_markdown_viewer)
-- (5)
+* (5)
 * [mdt](https://github.com/robolab-pavia/mdt)
-- ( )
+* ( )
 * [grip](https://github.com/joeyespo/grip) - Preview markdown files as GitHub would render them.
-- ( )
+* ( )
 * [lowdown](https://github.com/kristapsdz/lowdown) - Markdown translator (HTML5, roff, LaTeX, gemini, OpenDocument, and terminal output)
-- ( )
+* ( )
 * [doctoc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files.
 
 ##### CSV, TSV
-- (2.5)
+* (2.5)
 * [csvtk](https://github.com/shenwei356/csvtk/) (go) 
    | (2.5)
 * [csvkit](https://github.com/wireservice/csvkit) (python) 
@@ -575,12 +577,12 @@
    | (4)
 * [tsv-utils](https://github.com/eBay/tsv-utils) (dlang) 
    | 
-- (2)
+* (2)
 * [csvq](https://github.com/mithrandie/csvq) 
    | (4)
 * [q](https://github.com/harelba/q) 
 ##### JSON
-- (2)
+* (2)
 * [jq](https://github.com/stedolan/jq) 
    | (3)
 * [zed](https://github.com/brimdata/zed) 
@@ -588,105 +590,105 @@
 * [gojq](https://github.com/itchyny/gojq) 
    | (4)
 * [jtc](https://github.com/ldn-softdev/jtc)
-- (2)
+* (2)
 * [groq-cli](https://github.com/sanity-io/groq-cli)
-- (4)
+* (4)
 * [jq.node](https://github.com/FGRibreau/jq.node) 
    | 
-- ( )
+* ( )
 * [jd](https://github.com/josephburnett/jd)
-- ( )
+* ( )
 * [jql](https://github.com/yamafaktory/jql)
-- ( )
+* ( )
 * [jqp](https://github.com/noahgorstein/jqp)
-- (2)
+* (2)
 * [jc](https://github.com/kellyjonbrazil/jc) 
    | [jo](https://github.com/jpmens/jo)
-- ( )
+* ( )
 * [crosshash](https://github.com/httpie/crosshash)
-- (2)
+* (2)
 * [fx](https://github.com/antonmedv/fx) 
    | [jless](https://github.com/PaulJuliusMartinez/jless)
-- (2)
+* (2)
 * [gron](https://github.com/tomnomnom/gron)
-- (2)
+* (2)
 * [jj](https://github.com/anki-code/jj)
-- (5)
+* (5)
 * [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli)
 ##### PDF
-- (2)
+* (2)
 * [xpdfreader](https://www.xpdfreader.com/download.html)
-- (->)
+* (->)
 * [pdf-writer](https://github.com/typst/pdf-writer) (rust library)
-- (5)
+* (5)
 * [pdftty](https://github.com/kpj/pdftty)
 * [site](https://kpj.github.io/my_projects/pdftty.html)
-- (->)
+* (->)
 * [stackoverflow cli pdf viewer](https://stackoverflow.com/questions/3570591/cli-pdf-viewer-for-linux)
-- (3)
+* (3)
 * [K2pdfopt](https://www.willus.com/k2pdfopt)
-- (4)
+* (4)
 * [sejda](https://github.com/torakiki/sejda/)
 ##### YAML
-- (2)
+* (2)
 * [yq](https://github.com/mikefarah/yq)
-- (2)
+* (2)
 * [dyff](https://github.com/homeport/dyff)
-- (2)
+* (2)
 * [yamllint](https://github.com/adrienverge/yamllint)
 ##### TOML
-- (2)
+* (2)
 * [taplo](https://taplo.tamasfe.dev/)
-- (5)
+* (5)
 * [toml-cl  ](https://github.com/gnprice/toml-cli)
 * [current fork](https://github.com/chevdor/toml-cli) (Rust) 
    | [toml-cli](https://github.com/mrijken/toml-cli) (Python)
-- (2)
+* (2)
 * [toml2nix](https://crates.io/crates/toml2nix)
-- (2)
+* (2)
 * [toml2json](https://github.com/woodruffw/toml2json)
 ##### HTML
-- (2)
+* (2)
 * [htmlq](https://github.com/mgdm/htmlq) 
    | (4.5)
 * [pup](https://github.com/gromgit/pup)
-- (5)
+* (5)
 * [hget](https://github.com/bevacqua/hget)
 #####  Database
-- (2)
+* (2)
 * [usql](https://github.com/xo/usql)
-- (2)
+* (2)
 * [termdbms](https://github.com/mathaou/termdbms)
-- (2)
+* (2)
 * [pgcli](https://github.com/dbcli/pgcli)
-- (3)
+* (3)
 * [soul](https://github.com/thevahidal/soul)
-- (2)
+* (2)
 * [sqlite3](https://sqlite.org/cli.html)
-- (3)
+* (3)
 * [redis-viewer](https://github.com/SaltFishPr/redis-viewer)
-- (3)
+* (3)
 * [iredis](https://github.com/laixintao/iredis)
 ##### Other Formats
-- (3)
+* (3)
 * [recutils](https://www.gnu.org/software/recutils/)
-- (3)
+* (3)
 * [hcledit](https://github.com/minamijoyo/hcledit)
-- (3)
+* (3)
 * [hcl2json](https://github.com/tmccombs/hcl2json)
-- (3)
+* (3)
 * [hclfmt](https://github.com/hashicorp/hcl/tree/main/cmd/hclfmt)
-- (3)
+* (3)
 * [dhall](https://hackage.haskell.org/package/dhall)
-- (3)
+* (3)
 * [crudini](https://github.com/pixelb/crudini)
-- (3)
+* (3)
 * [NestedText](https://nestedtext.org/en/latest/)
 
 ##### Multiple Formats / Conversion
-- (2)
+* (2)
 * [zet](https://github.com/yarrow/zet)
-- (2.5)
+* (2.5)
 * [ansi2html](https://github.com/pycontribs/ansi2html) 
    | (2.5)
 * [ansi2html](https://hackage.haskell.org/package/Ansi2Html) 
@@ -694,15 +696,15 @@
 * [HTML-FromANSI](https://metacpan.org/dist/HTML-FromANSI) 
    | (6)
 * [aha](https://github.com/theZiz/aha)
-- (2)
+* (2)
 * [coloried-logs](https://github.com/kilobyte/colorized-logs)
-- (3)
+* (3)
 * [nestedtextto](https://github.com/AndydeCleyre/nestedtextto)
-- (2)
+* (2)
 * [yamlpath](https://github.com/wwkimball/yamlpath)
-- (6)
+* (6)
 * [gitbook](https://blog.gitbook.com/product-updates/gitbook-3.0-document-everything-from-start-to-ship)
-- (2)
+* (2)
 * [html2svg](https://github.com/fathyb/html2svg)
 
 ### Coding Utils
@@ -1107,7 +1109,7 @@ train models.
 * [metalsmith -](https://github.com/metalsmith/metalsmith -)An extremely simple static site generator; all functionalities are provided by plugins that can be combined and chained; written and extendable in Javascript.
 * [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - Zero-Config CLI to Deploy Static Websites to IPFS [IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System).
 ### Wiki
-- ~~☒ Wiki~~
+* ~~☒ Wiki~~
 * [x]  [Mycorrhiza Wiki](https://github.com/bouncepaw/mycorrhiza) - A lightweight file-system wiki engine that uses Git for keeping history.
 ### HTTP Client / REST Client
 * [httpie -](https://github.com/httpie/httpie -)HTTPie is a command line HTTP client, a user-friendly cURL replacement
@@ -1468,7 +1470,7 @@ train models.
 * [cattrs](https://catt.rs/en/stable/index.html)
 * ( )
 * [nodemon](https://www.npmjs.com/package/nodemon)
-- (4)
+* (4)
 * [marked-terminal](https://github.com/mikaelbr/marked-terminal)
 
 ### Other Programming Utilities

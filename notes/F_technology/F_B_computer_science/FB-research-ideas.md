@@ -1,5 +1,6 @@
 # Research Ideas
 
+
 ## Polyglot Phraseological Database
 
 
@@ -7,6 +8,7 @@
 #### What data structure and format is best for our purposes?
 #### Which database type?
 #### What are the difference use cases for the database / corpus?
+
 
 ### How can we create a semantic transcription for each phrase?
 * universal semantic language
@@ -17,17 +19,20 @@
 * computational semantics
 * [Semantic analysis for Corpus Linguistics](https://www.aclweb.org/anthology/J93-2005.pdf)
 
+
 ### How to classify proverbs?
 * [3 Categorization of Proverbs](https://content.sciendo.com/downloadpdf/book/9783110410167/10.2478/9783110410167.3.xml)
 * [A Proverb in Mind](https://books.google.de/books?id=umBt3Wu-CuUC&pg=PA19&lpg=PA19&dq=classification+schema+for+proverb&source=bl&ots=CFoeCsF300&sig=ACfU3U3kmnKJ2M3jHXN0psp-mmYlTwFUyA&hl=ru&sa=X&ved=2ahUKEwjrtvf7xsrnAhVFKewKHVsrDIkQ6AEwE3oECAYQAQ)
 * [Introduction to Paremiology](https://books.google.de/books?id=Rxs_CwAAQBAJ&pg=PT158&lpg=PT158&dq=classification+schema+for+proverb&source=bl&ots=n2LgM-GG3l&sig=ACfU3U1kF7xnsvFs2MKh6IEc5i6hamKrbg&hl=ru&sa=X&ved=2ahUKEwjrtvf7xsrnAhVFKewKHVsrDIkQ6AEwGHoECAcQAQ)
 * [Classification of Proverbs](https://studfile.net/preview/5427909/page:3/)
 
+
 ### Brainstorming
 * Create a large multilingual resource containing idiomatic expression and proverbs, and possibly other non-analytic collocations
         > develop semantic representations of both literal and figurative meanings of units
         > identify values/morals as well as literal SVO
         > dual classification scheme: literal and figurative meaning, network data structure
+
 
 ### Features:
 * Basic phrase text
@@ -46,6 +51,7 @@
 * Corpus frequency (corpus-frequency pair)
 * Types (proverb, idiomatic expression, slang)
 
+
 ### Collectioin
 * [European Proverbs (Strauss) - Anki](https://docs.google.com/spreadsheets/d/1iSrCKxJ7R98VF8t1vFX7dTR4X_8MmE6afhjD4uglL5Q/edit?usp=sharing)
 * [Proverb Collection](https://docs.google.com/spreadsheets/d/13UNAdR0u_uLzgJPf-Tb8AtxpcD_m46rzCJYSQQB9ATs/edit?usp=sharing)
@@ -55,8 +61,10 @@
     Digitize all Strauss proverbs
     Gather and sort all EN, DE, RU, FR, ES proverbs and idioms
 
+
 ### Storage
 * https://stackoverflow.com/questions/3287003/three-ways-to-store-a-graph-in-memory-advantages-and-disadvantages
+
 
 ### Theory, esp. Semantics
 * https://en.wikipedia.org/wiki/Computational_semantics
@@ -77,6 +85,7 @@
     cross-lingual semantic language
     universal semantic language
 * universal+semantic+language
+
 
 ### Resources / References
 * [A Multilingual Dictionary of Maxims and Proverbs](https://www.cambridgescholars.com/a-multilingual-dictionary-of-maxims-and-proverbs)
@@ -102,6 +111,7 @@
 * [Translation and Relevance: Cognition and Context](https://books.google.de/books?id=KsoJBAAAQBAJ&pg=PT182&lpg=PT182&dq=semantic+representations+of+proverbs&source=bl&ots=t5NZeIOcFa&sig=ACfU3U2AU_YwJ0hEHNJenhNHJkVh4_404g&hl=ru&sa=X&ved=2ahUKEwicw__W26nnAhXB6aQKHWgQA_QQ6AEwBXoECAoQAQ#v=onepage&q=semantic%20representations%20of%20proverbs&f=false)
 * [COMPARATIVE STRUCTURAL-SEMANTIC ANALYSIS OF ENGLISH AND RUSSIAN PROVERBS EXPRESSING THE MORAL-ETHIC SENSE DOMINANT “STUDYING, KNOWLEDGE, WISDOM”](https://www.researchgate.net/publication/325662325_COMPARATIVE_STRUCTURAL-SEMANTIC_ANALYSIS_OF_ENGLISH_AND_RUSSIAN_PROVERBS_EXPRESSING_THE_MORAL-ETHIC_SENSE_DOMINANT_STUDYING_KNOWLEDGE_WISDOM)
 
+
 | Toy example: |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | EN | Concepts | Entities | Actions | DE | ES | RU | IT |
@@ -116,6 +126,7 @@
 | Business before pleasure. |  |  |  | Erst die Arbeit, dann das Vergnügen. | Los negocios van primero. (?) | _ | Prima il dovere (e poi il piacere). |
 | Carry coal to Newcastle |  |  |  | Eulen nach Athen tragen | Llevar agua al mar / Llevar hierro a Vizcaya / Llevar leña al bosque. / Vender miel al colmenero. | Ехать в Тулу со своим самоваром. / Идти в лес со своими дровами. | Portare acqua al mare. |
 | Don't count (your|the) chickens before they are hatched. |  |  |  | Du sollst den Tag nicht vor dem Abend loben. / Man soll das Fell eines Bären nicht verteilen, bevor man ihn erlegt hat. / Die Toten werden nach der Schlacht gezählt." | No hay que vender la piel del oso antes de cazarlo. | Цыплят по осени считают. / Не делите шкуру неубитого медведя. | Non dire gatto se non l'hai nel sacco |
+
 
 ## Unsorted Papers
 * ACOUSTIC PARAMETERS VERSUS PHONETIC FEATURES IN ASR.pdf
@@ -160,10 +171,12 @@
 * WordNet Embeddings.pdf
 * Zur Ontologie der Bedeutung sprachlicher Ausdrucke
 
+
 ## TDA and NSM
 
+
 ### NSM
-- [ ] Perform preliminary analysis with non-circular dictionary (norm propagation along definitions, distinguish between structure words and semantic content words)- [ ] scrape dictionary
+* [x] Perform preliminary analysis with non-circular dictionary (norm propagation along definitions, distinguish between structure words and semantic content words)- [ ] scrape dictionary
      - [ ] create data structure for dictionary
      - [ ] put into graph
 * [A survey of cross-lingual word embedding models](https://ruder.io/cross-lingual-embeddings/)
@@ -179,8 +192,9 @@
 * geometry of word embeddings
 * https://en.wikipedia.org/wiki/Topological_data_analysis
 
+
 ### [*Topological Data Analysis for Machine Learning](https://bastian.rieck.me/outreach/ecml_pkdd_2020/)
-—> check out whole site!* [A gentle introduction to persistent homology · Christian Bock](https://christian.bock.ml/posts/persistent_homology/)
+* → check out whole site!* [A gentle introduction to persistent homology · Christian Bock](https://christian.bock.ml/posts/persistent_homology/)
 * [Persistent Homology — a Survey](https://www.maths.ed.ac.uk/~v1ranick/papers/edelhare.pdf)
 * [Persistent homology - Wikipedia](https://en.wikipedia.org/wiki/Persistent_homology)
 * [W H A T I S . . . Persistent Homology?](http://www.ams.org/notices/201101/rtx110100036p.pdf)
@@ -192,9 +206,12 @@
 * [Gunnar Carlsson Google Scholar](http://scholar.google.com/citations?user=FdNREvoAAAAJ&hl=en)
 * [TDA site](https://www.ayasdi.com/)
 
+
 * [**Neural Networks, Manifolds, and Topology -- colah's blog](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
 
+
 ##3 [****topological data analysis - YouTube](https://www.youtube.com/results?search_query=topological+data+analysis)
+
 
 ### [**Persistent homology - Wikipedia](https://en.wikipedia.org/wiki/Persistent_homology)
 * [Topological data analysis - Wikipedia](https://en.wikipedia.org/wiki/Topological_data_analysis)
@@ -216,7 +233,7 @@
 * [Ayasdi Knowledge Center](https://www.ayasdi.com/knowledge-center/)
 * [Topological Surfaces](https://www.cis.upenn.edu/~jean/gbooks/surftop.html)
 * search: topological data analysis in Julia
-... and Word Embeddings
+  ... and Word Embeddings
 * https://arxiv.org/abs/1906.09068
 * [A Novel Method of Extracting Topological Features from Word Embeddings](https://arxiv.org/abs/2003.13074)
 * https://arxiv.org/abs/1705.08488
@@ -229,7 +246,9 @@
 * https://ieeexplore.ieee.org/abstract/document/8089444?casa_token=RKRdAlGzH3UAAAAA:XcNvFHemchXfKMn4xwU_JlD0plXJvo7t0C_nUqfSx0uVFif_W5NAc9NJRYpVX9Aqmd8i7UgoNA
 * https://arxiv.org/abs/2003.13138
 * [Meshes.jl](https://discourse.julialang.org/t/ann-announcing-meshes-jl/53973)
-Miscellaneous
+
+
+### Miscellaneous
 * Opinion Dynamics on Discourse Sheaves https://twitter.com/robertghrist/status/1265451863006216202
 * [> Fodor Concept 1](https://en.wikipedia.org/wiki/Language_of_thought_hypothesis)
 * [> Fodor Conept 2](https://en.wikipedia.org/wiki/Modularity_of_mind#Fodor's_Modularity_of_Mind)
@@ -244,6 +263,7 @@ Miscellaneous
 * [Semantics for Probabilistic Programming](https://ieeexplore.ieee.org/abstract/document/8576406)
 * [Semantic Analysis Based on Linguistics and Ontological Resources](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.363.1937&rep=rep1&type=pdf)
 
+
 * [** NSM Chapter](https://libgen.is/search.php?req=Studies+in+Ethnopragmatics%2C+Cultural+Semantics&open=0&res=25&view=simple&phrase=1&column=def)
 * [The Semantic Sphere 1: Computation, Cognition, and Information Economy](https://books.google.de/books?hl=ru&lr=&id=UuQDNOmMvxUC&oi=fnd&pg=PT8&dq=semantic+metalanguages+in+deep+learning&ots=tk7QOdV8gk&sig=-8hWctNgkS1QKkGGP4NWfQDjEF8&redir_esc=y#v=onepage&q&f=false)
 * A Brief Introduction to the Natural Semantic Metalanguage Approach (see Studies in Ethnopragmatics, Cultural Semantics, and Intercultural Communication on Drive)
@@ -254,7 +274,7 @@ Miscellaneous
 * [Analysis of Word Embeddings and Sequence Features for Clinical Information Extraction](https://www.aclweb.org/anthology/U15-1003.pdf)
 * [Wikipedia2Vec: An Optimized Implementation for Learning Embeddings from Wikipedia](https://www.reddit.com/r/LanguageTechnology/comments/a8w6nx/wikipedia2vec_an_optimized_implementation_for/)
 * [aml-nlp/week3-Embeddings.ipynb at master · gameofdimension/aml-nlp](https://github.com/gameofdimension/aml-nlp/blob/master/week3/week3-Embeddings.ipynb)
-Which papers already look into what individual dimensions mean? What have they done, and how do they do it?
+* Which papers already look into what individual dimensions mean? What have they done, and how do they do it?
 * [Semantics - Meaning Representation in NLP](http://www.bowdoin.edu/~allen/nlp/nlp6.html)
 * [What is the future of computational journalism? | School of Engineering](https://engineering.stanford.edu/magazine/article/what-future-computational-journalism)
 * https://en.wikipedia.org/wiki/Who%27s_Bigger%3F
@@ -298,26 +318,26 @@ Which papers already look into what individual dimensions mean? What have they d
 ### [*Visualizing and Measuring the Geometry of BERT](https://arxiv.org/pdf/1906.02715.pdf)
 * https://scholar.google.com/scholar?hl=ru&as_sdt=0%2C5&q=word+embeddings&btnG=
 * https://scholar.google.com/scholar?hl=ru&as_sdt=0%2C5&q=word2vec&btnG=
-Research idea: Word2Vec across different languages (cross- or multi-lingual embeddings) -> which aspects of matrix theory to use?
+* Research idea: Word2Vec across different languages (cross- or multi-lingual embeddings) -> which aspects of matrix theory to use?
 * [A Simplified Topological Representation of Text for Local and Global Context](https://www.southampton.ac.uk/~kf2u17/webfiles/conferences/Sami-acmmm17.pdf)
 * word embeddings and universal semantic metalanguage
 * semantic embeddings and universal semantic metalanguage
 * semantic embeddings and universal semantic metalanguage
 * [PCA on word2vec embeddings](https://stackoverflow.com/questions/48019843/pca-on-word2vec-embeddings/53110437#53110437)
-→ potential applications of non-circular dictionary
+* → potential applications of non-circular dictionary
 * https://en.wikipedia.org/wiki/Natural_semantic_metalanguage
 * Applications of reinforcement learning to word embeddings (& representations in general)
-→ potential applications of thesauri to word embeddings
+* → potential applications of thesauri to word embeddings
 * [FCA](https://en.wikipedia.org/wiki/Formal_concept_analysis)
 * Use comparisons of derivational morphology and semantic spaces of morphological roots to refine semantic representations (probably not great; worth playing with; will almost certainly be good for language learning)
 * study (clear & consequential) word ambiguities in word embeddings: possible to add "switch" mechanism to determine which of the meanings to use
-→ ambiguity spectrum: which words are truly monosemic, which marginally or partially or mostly ambiguous, which undebatably ambiguous?
+* → ambiguity spectrum: which words are truly monosemic, which marginally or partially or mostly ambiguous, which undebatably ambiguous?
 * [Interpretable and Compositional Relation Learning by Joint Training with an Autoencoder on Vimeo](https://vimeo.com/285805371)
 * [machine learning - Dimensionality and Manifold - Data Science Stack Exchange](https://datascience.stackexchange.com/questions/5694/dimensionality-and-manifold)
 * [bilinearforms.pdf](https://math.mit.edu/~dav/bilinearforms.pdf)
 * [Presentations](https://ilias3.uni-stuttgart.de/goto_Uni_Stuttgart_fold_1992338.html)
 * [tianran/glimvec: Graph to linear maps and vectors](https://github.com/tianran/glimvec)
-→ TDA on word embeddings to identify (persistent / invariant / etc.) word classes
+* → TDA on word embeddings to identify (persistent / invariant / etc.) word classes
 
 
 ## -> day in the life of a ___ researcher (pharmaceutical, engineering)
@@ -377,7 +397,6 @@ Research idea: Word2Vec across different languages (cross- or multi-lingual embe
 * https://intranet.secure.griffith.edu.au/schools-departments/natural-semantic-metalanguage/what-is-nsm/semantic-primes
 * https://web.stanford.edu/~jurafsky/slp3/6.pdf
 * word2vec+and+semantic+primes
-_ved=0ahUKEwiBt_zp77_nAhVsQUEAHTMZAL8Q4dUDCAs&uact=5
 * https://libgen.is/search.php?req=Anna+Wierzbicka&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
 * Conceptual Primes
 * [Semantic_decomposition_(natural_language_processing)](https://en.wikipedia.org/wiki/Semantic_decomposition_(natural_language_processing))
@@ -389,13 +408,14 @@ _ved=0ahUKEwiBt_zp77_nAhVsQUEAHTMZAL8Q4dUDCAs&uact=5
 * https://de.wikipedia.org/wiki/Hauptkomponentenanalyse
 * The Compreno Semantic Model as an Integral Framework for a Multilingual Lexical Database
 
+
 ## Idea Space Modelling
 * Elevator Pitch:
     * My work is distinct from previous work in a few ways:
     * it uses high-quality inputs and political writings in addition to social media (hopefully making the model more grounded in the deep theoreticcal issues of politics, not just shallow perceptions)
     * it does not assume a spectrum; rather it uses unsupervised learning to identify clusters and linkages between ideologies
     * it allows for a robust measuring of ideological similarity that is as general as possible, allowing a wide range of comparisons, even potentially across time, language, and culture, because the method 
-    is built on attitudes toward nearly-universal ideas and concepts, rather than toward specific people and organizations
+      is built on attitudes toward nearly-universal ideas and concepts, rather than toward specific people and organizations
     * it brings together several fairly technical NLP/IR/TM methods that have not been used for this before: topic extraction, emotion analysis, opinion mining
     * it combines the above methods with other more common methods, such as clustering, lexical analysis (i.e. tf-idf)
     * it can take advantage of a large and relatively underutilized body of text resources
@@ -403,7 +423,9 @@ _ved=0ahUKEwiBt_zp77_nAhVsQUEAHTMZAL8Q4dUDCAs&uact=5
     * it answers intrinsically important and interesting questions, questions of interest to a broad audience (in addition to finer points interesting to a computational linguist)
     * while every algorithm necessarily has assumptions baked into it, this will make explicit assumptions in a way that human annotation would mke impossible
 
+
 * Interesting method to build on (but automate): Globalization and the transformation of the national political space: Six European countries compared
+
 
 ### Forschungsfragen:
 * Wie realitätsgetreu sind die zwei verbreiteten politischen Spektren?
@@ -411,7 +433,9 @@ _ved=0ahUKEwiBt_zp77_nAhVsQUEAHTMZAL8Q4dUDCAs&uact=5
 * b) Political Kompass
 * c) Hufeisentheorie
 
+
 ### -> Black boxes aufmachen
+
 
 ### -> wie Artikel über Rechtsextremist, aber mit zusätzlicher Frage: wie modellieren wir ihre Beziehung zu anderen?
 * Wie viele Hauptkomponente gibt es in der Ideologie?
@@ -423,7 +447,7 @@ _ved=0ahUKEwiBt_zp77_nAhVsQUEAHTMZAL8Q4dUDCAs&uact=5
 * b) Wie viel Text braucht man für eine zuverlässige ideologische Einbettung (oder Klassifikation)?
 * Was enthalten die Ideologie-Vektoren?
 * a) emotion in Bezug auf t1,...tk
-==> topic recognition (oder einfache regex) + dependency parsing + emotion analysis
+* ==> topic recognition (oder einfache regex) + dependency parsing + emotion analysis
 * b) tf-idf von wichtigsten (prädiktivsten?) n-gramme
 * Wie verändern sich die Cluster im Laufe der Zeit?
 * Wie variieren die Cluster über Landes-, Sprach- und Kulturgrenzen?
@@ -439,6 +463,7 @@ _ved=0ahUKEwiBt_zp77_nAhVsQUEAHTMZAL8Q4dUDCAs&uact=5
 * b) Hauptkomponente verwenden
 * Wie können wir die Methoden flexibler gestalten, damit z.B. neue (spezifischere, vergänglichere) Themen berücksichtigt werden können?
 
+
 #### Approach:
 * Collect large and varied sample of political writings. Attempt to get a wide variety, approximate representativity is desirable, but perfect representativity is not required for clustering.
 * Identify list of political topics, striving for representativity of all possible ideologies.
@@ -449,90 +474,92 @@ _ved=0ahUKEwiBt_zp77_nAhVsQUEAHTMZAL8Q4dUDCAs&uact=5
 * Examine predictions and test unseen writings.
 * Possible extension:
 * Train classifier on document (or thinker) tokens and identify most indicative words / n-grams.
-RUN SIMPLE VARIANT FIRSTː k ideologies and thinkers, n questions, PCA and visualization
-1) select ideologies
-2) select thinkers
-3) select questions
-4) create matrix
-5) perform PCA
-6) create visualization
+* RUN SIMPLE VARIANT FIRSTː k ideologies and thinkers, n questions, PCA and visualization
+* 1) select ideologies
+* 2) select thinkers
+* 3) select questions
+* 4) create matrix
+* 5) perform PCA
+* 6) create visualization
 * how to "Monte Carlo" PCA?
+
 
 ### -> give range (a,b) or even distribution, for each stance (entry in the ideology matrix), then sample from ramges/distributions
 
+
 ### -> how to aggregate varying results? simple average?
 
+
 ### -> topological anaylsis to determine invariant relationships?
-Read up onː
+* Read up onː
+  - opinion mining
+  - stance detection
+  - question answering
+  - knowledge discovery
+  - semantic relations
+  - dimensionality reduction
+  - TDA
+  - clustering
+  - visualization
 
-### opinion mining
 
-### stance detection
+### Ideologies
+* Confucianism
+  - Confucius
+* Conservatism / Reactionism
+  - Edmund Burke
+  - Georges Lemaistre
+  - Thomas Hobbes
+  - Roger Scruton
+  - George F. Will
+* Anarchism
+  - Mikhail Bakunin
+  - Kropotkin
+  - Proudhon
+* Left
+  - Michel Foucault
+  - Jean Baudrillard
+* Mixed / Other
+* Wiki
+  - how to create a wiki? (proverbs, ideology matrix, etc.)
 
-### question answering
-
-### knowledge discovery
-
-### semantic relations
-
-### dimensionality reduction
-
-### TDA
-
-### clustering
-
-### visualization
-Confucianism
-* Confucius
-Conservatism / Reactionism
-* Edmund Burke
-* Georges Lemaistre
-* Thomas Hobbes
-* Roger Scruton
-* George F. Will
-Anarchism
-* Mikhail Bakunin
-* Kropotkin
-* Proudhon
-Left
-* Michel Foucault
-* Jean Baudrillard
-Mixed / Other
-Wiki
-* how to create a wiki? (proverbs, ideology matrix, etc.)
 
 ### -> how does Wikipedia work? editing policies, moderation, dispute resolution, etc.
-Other Ideas
-* [(PDF) Dimensionality Reduction and Visualisation Tools for Voting Records](https://www.researchgate.net/publication/314102123_Dimensionality_Reduction_and_Visualisation_Tools_for_Voting_Records)
-0) Assemble dataset of Bundestag voting records
-* [Bundestag Roll Call Vote Data (BTVote)](https://dataverse.harvard.edu/dataverse/btvote)
-* [Deutscher Bundestag - Open Data](https://www.bundestag.de/services/opendata)
-1) diachronic network animation, based on pairwise overlap between Abgeordnete in sliding time window
-2) diachronic animation of 3D PCA model (F1, F2, F3) based on voting records
+* Other Ideas
+  * [(PDF) Dimensionality Reduction and Visualisation Tools for Voting Records](https://www.researchgate.net/publication/314102123_Dimensionality_Reduction_and_Visualisation_Tools_for_Voting_Records)
+* 0) Assemble dataset of Bundestag voting records
+  * [Bundestag Roll Call Vote Data (BTVote)](https://dataverse.harvard.edu/dataverse/btvote)
+  * [Deutscher Bundestag - Open Data](https://www.bundestag.de/services/opendata)
+* 1) diachronic network animation, based on pairwise overlap between Abgeordnete in sliding time window
+* 2) diachronic animation of 3D PCA model (F1, F2, F3) based on voting records
 
--> make personal website to showcase this
+
+* -> make personal website to showcase this
+
 
 * Tools:
-* https://github.com/JuliaPlots/Makie.jl
-* http://makie.juliaplots.org/dev/
-* https://docs.juliaplots.org/latest/animations/
-* https://docs.juliaplots.org/latest/graphrecipes/introduction/
-* http://docs.juliaplots.org/latest/
-Ideologies:
-* https://en.wikipedia.org/wiki/List_of_political_ideologies
-Thinkers
-* https://en.wikipedia.org/wiki/List_of_political_philosophers
-* https://thegreatthinkers.org/thinkers/
-* https://en.wikipedia.org/wiki/Index_of_sociopolitical_thinkers
-* https://blogs.lse.ac.uk/impactofsocialsciences/2016/05/12/what-are-the-most-cited-publications-in-the-social-sciences-according-to-google-scholar/
-* [()](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/political-science-400-with-citation-counts-by-cohort-gender-and-subfield/C1EDBF7220760F01A5C4A685DB3B3F44)
-* https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:political_philosophy
-* https://leiterreports.typepad.com/blog/2015/05/the-most-cited-living-philosophers-with-public-google-scholar-pages.html
-* https://leiterreports.typepad.com/blog/2017/01/most-cited-anglophone-philosophy-books-published-since-wwii.html* https://duckduckgo.com/?q=core* https://duckduckgo.com/?q=core* https://duckduckgo.com/?q=core* https://duckduckgo.com/?q=ideological* https://webscience-journal.net/webscience/article/download/80/50* https://duckduckgo.com/?q=classification
-PCA Issues
+  * https://github.com/JuliaPlots/Makie.jl
+  * http://makie.juliaplots.org/dev/
+  * https://docs.juliaplots.org/latest/animations/
+  * https://docs.juliaplots.org/latest/graphrecipes/introduction/
+  * http://docs.juliaplots.org/latest/
+* Ideologies:
+  * https://en.wikipedia.org/wiki/List_of_political_ideologies
+* Thinkers
+  * https://en.wikipedia.org/wiki/List_of_political_philosophers
+  * https://thegreatthinkers.org/thinkers/
+  * https://en.wikipedia.org/wiki/Index_of_sociopolitical_thinkers
+  * https://blogs.lse.ac.uk/impactofsocialsciences/2016/05/12/what-are-the-most-cited-publications-in-the-social-sciences-according-to-google-scholar/
+  * [()](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/political-science-400-with-citation-counts-by-cohort-gender-and-subfield/C1EDBF7220760F01A5C4A685DB3B3F44)
+  * https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:political_philosophy
+  * https://leiterreports.typepad.com/blog/2015/05/the-most-cited-living-philosophers-with-public-google-scholar-pages.html
+  * https://leiterreports.typepad.com/blog/2017/01/most-cited-anglophone-philosophy-books-published-since-wwii.html* https://duckduckgo.com/?q=core* https://duckduckgo.com/?q=core* https://duckduckgo.com/?q=core* https://duckduckgo.com/?q=ideological* https://webscience-journal.net/webscience/article/download/80/50* https://duckduckgo.com/?q=classification
+* PCA Issues
+
 
 ### NLP and Politics
 * http://connectedresearchers.com/online-tools-for-researchers/
+
 
 ### [**Sentiment Political Compass: A Data-driven Analysis of Online Newspapers regarding Political Orientation](https://www.aifb.kit.edu/images/e/e1/IPP2018_Falck.pdf)
 * [DARIAH | Digital Research Infrastructure for the Arts and Humanities](https://www.dariah.eu/)
@@ -545,6 +572,7 @@ PCA Issues
 * [External Funding Opportunities | The Center for Digital Humanities at Princeton](https://cdh.princeton.edu/grants/external-funding-opportunities/)
 * [External grants & funding | EADH - The European Association for Digital Humanities](https://eadh.org/support/external-grants-funding)
 * [Ranking Right-Wing Extremist Social Media Profiles by Similarity to Democratic and Extremist Groups - ACL Anthology](https://www.aclweb.org/anthology/W17-5204/)
+
 
 ### -> Study networks in political discourse and writing using comp ling techniques.
 * test de Turing idéologique
@@ -704,7 +732,7 @@ PCA Issues
 * https://homepage.univie.ac.at/noichlm94/posts/structure-of-recent-philosophy-iii/
 * https://homepage.univie.ac.at/noichlm94/
 * https://github.com/mnoichl
-Idea: Idea-PCA: method for representing treatment of ideas in documents
+* Idea: Idea-PCA: method for representing treatment of ideas in documents
 * Search: politics natural language processing
 * [Multi-dimensional analysis of political language](https://link.springer.com/chapter/10.1007/978-94-007-4516-2_21)
 * [Measuring ideological proportions in political speeches](https://www.aclweb.org/anthology/D13-1010.pdf)
@@ -727,8 +755,8 @@ Idea: Idea-PCA: method for representing treatment of ideas in documents
 * [Syntactic topic models](http://papers.nips.cc/paper/3398-syntactic-topic-models)
 * [A two-dimensional topic-aspect model for discovering multi-faceted topics](https://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/viewPaper/1730)
 * [Sentiment analysis of citations using sentence structure-based features](https://dl.acm.org/citation.cfm?id=2000991)
-identify data sources and doc vectorization/comparison methods for political writings, esp. left (e.g. Chomsky vs Hedges vs Robinson or democratic candidates), also network analysis methods:"; also look at previous related research; --> multilingual?
-Which political analytical framework already exist. Which are the best, and how are they structured?
+* identify data sources and doc vectorization/comparison methods for political writings, esp. left (e.g. Chomsky vs Hedges vs Robinson or democratic candidates), also network analysis methods:"; also look at previous related research; --> multilingual?
+* Which political analytical framework already exist. Which are the best, and how are they structured?
 * https://mariandoerk.de/edgemaps/demo/
 * https://mariandoerk.de/edgemaps/
 * https://mariandoerk.de/
@@ -745,13 +773,17 @@ Which political analytical framework already exist. Which are the best, and how 
 * [LeftValues](https://leftvalues.github.io/?fbclid=IwAR0Sb8267m_fdNdLHXvpWR8dn53EhoR2scrX2mPWE8JxSxZecQN7Vqkuk6w)
 * [LeftValues/leftvalues.github.io: LeftValues, a leftist political quiz](https://github.com/LeftValues/leftvalues.github.io)
 * [Voting Behavior, Coalitions and Government Strength through a Complex Network Analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0116046)
-Project
+
+
+### Project
 * [Concept-based knowledge discovery in texts extracted from the Web](https://www.researchgate.net/publication/234818008_Concept-based_knowledge_discovery_in_texts_extracted_from_the_Web)
-(?) From KD
+* (?) From KD
 * [The Manifesto Corpus: A new resource for research on political parties and quantitative text analysis - Nicolas Merz, Sven Regel, Jirka Lewandowski, 2016](https://journals.sagepub.com/doi/full/10.1177/2053168016643346)
 * [The Manifesto Corpus: A new resource for research on political parties and quantitative text analysis](https://ideas.repec.org/a/zbw/espost/172197.html)
 
+
 * [*Manifesto Project Database](https://manifesto-project.wzb.eu/information/documents/corpus)
+
 
 * [*Quantitative Analysis of Political Text | Methods Bites](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/quantitative-analysis-of-political-text/)
 * ontology of political concepts
@@ -761,14 +793,13 @@ Project
 * [BYU Law & Corpus Linguistics](https://lawcorpus.byu.edu/coscous;showCorpusDescription=true/concordances/search)
 * [SCOTUS Oral Arguments Corpus](https://ca.talkbank.org/access/SCOTUS/OralArguments.html)
 * [BYU Law & Corpus Linguistics](https://lawcorpus.byu.edu/cusc;showCorpusDescription=true/concordances/search)
-
 * [*The Supreme Court Database](http://scdb.wustl.edu/data.php)
-
 * [*Supreme Court Corpus — convokit 2.3.2 documentation](https://convokit.cornell.edu/documentation/supreme.html)
 * [The Supreme Court Database](http://scdb.wustl.edu/documentation.php)
 * [noajshu/scotus-speech: Corpus of oral arguments (recorded speech + official transcripts) of the United States Supreme Court](https://github.com/noajshu/scotus-speech)
 * [bash - How to split a large text file into smaller files with equal number of lines? - Stack Overflow](https://stackoverflow.com/questions/2016894/how-to-split-a-large-text-file-into-smaller-files-with-equal-number-of-lines)
 * [Free Law Project](https://free.law/)
+
 
 ### [*Bulk Data – CourtListener.com](https://www.courtlistener.com/api/bulk-info/)
 * [The SFU Opinion and Comments Corpus: A Corpus for the Analysis of Online News Comments | SpringerLink](https://link.springer.com/article/10.1007/s41701-019-00065-w)
@@ -782,6 +813,7 @@ Project
 * [List of political philosophers - Wikipedia](https://en.wikipedia.org/wiki/List_of_political_philosophers)
 * [The 50 Most Influential Living Philosophers | TheBestSchools.org](https://thebestschools.org/features/most-influential-living-philosophers/)
 * https://ilias3.uni-stuttgart.de/data/Uni_Stuttgart/lm_data/lm_2578750/KD_schedule.html
+
 
 ### [*KD Project Info](https://ilias3.uni-stuttgart.de/data/Uni_Stuttgart/lm_data/lm_2503061/KD_project.html)
 * [Presentation Slides](https://ilias3.uni-stuttgart.de/goto_Uni_Stuttgart_fold_1991912.html)
@@ -802,26 +834,32 @@ Project
 * [KD Curriculum Design : Introduction](https://www.kdd.org/curriculum/view/introduction)
 * [Knowledge Discovery in Databases – Wikipedia](https://de.wikipedia.org/wiki/Knowledge_Discovery_in_Databases)
 
+
 * [*Knowledge extraction - Wikipedia](https://en.wikipedia.org/wiki/Knowledge_extraction)
 * [Semantics - Wikipedia](https://en.wikipedia.org/wiki/Semantics)
 * [Discourse representation theory - Wikipedia](https://en.wikipedia.org/wiki/Discourse_representation_theory)
 * [L’analyse textuelle des idées, du discours et des pratiques politiques | Pierre-Marc Daigneault, François Pétry | download](https://b-ok.cc/book/5262883/a1dfdb)
 
+
 * [*Discourse Representation Theory (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/discourse-representation-theory/)
 * [A Model of Coherence Based on Distributed Sentence Representation](https://www.aclweb.org/anthology/D14-1218.pdf)
 * [11.2 Discourse Representation Structures](http://www.coli.uni-saarland.de/projects/milca/courses/comsem/html/node210.html)
 
+
 * [*Computational Semantics](http://www.coli.uni-saarland.de/projects/milca/courses/comsem/html/)
+
 
 * [*11 Discourse Representation Theory](http://www.coli.uni-saarland.de/projects/milca/courses/comsem/html/node205.html)
 * [Ideology, Power, and the Structure of Policy Networks](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1541-0072.2011.00413.x)
 * [Typing Together? Clustering of Ideological Types in Online Social Networks](https://www.tandfonline.com/doi/abs/10.1080/19331680903031531?journalCode=witp20)
 * [The Social Structure of Political Echo Chambers:﻿Variation in Ideological Homophily in OnlineNetwork](https://pacscenter.stanford.edu/wp-content/uploads/2019/05/2f07d4_8925c23e378940c49f91f91b95f85408.pdf)
-Check out:
-* Tinkerpop
-* pykg2vec (sp?)
-* Neo4j
-Project Outline
+* Check out:
+  * Tinkerpop
+  * pykg2vec (sp?)
+  * Neo4j
+
+
+### Project Outline
 * select "seed lists" on Wikipedia for political thinkers, ideas, and ideologies
 * scrape Wikipedia to create a network -articles -addresses -anchor text in links → create general scraper class test on Wiktionary to get etymology tables for Ancient Greek add Wikipedia-specific capabilities and add networkx functionality to create network directly
 * perform sentiment/opinion analysis on anchor text in links
@@ -862,6 +900,7 @@ Project Outline
 * [The Political Compass - Wikipedia](https://en.wikipedia.org/wiki/The_Political_Compass)
 * https://en.wikipedia.org/wiki/Political_spectrum
 
+
 ## Misc
 * Interdisciplinary
 * [Spracherwerb und statistisches Lernen | SpringerLink](https://link.springer.com/article/10.1007%2Fs00115-002-1466-1)
@@ -893,19 +932,21 @@ Project Outline
 * Quantum
 * [Extra History : Quantum Computing](https://www.youtube.com/watch?v=iol5936dZho&list=PLhyKYa0YJ_5ATEDqJRuoIvOH-eVkHP7ms)
 
+
 ## Scratch
 * [April 2020 - NSM Online Seminar - YouTube](https://www.youtube.com/playlist?list=PLnYrArdOUDVbmZiauY3qytX7B3VRz8eZZ)
 * [Traduction basé sur les proverbes](https://translationjournal.net/journal/54proverbs_fr.htm)
 * [Natural semantic metalanguage - Wikipedia](https://en.wikipedia.org/wiki/Natural_semantic_metalanguage#Semantic_primes)
 * [Natural Semantic Metalanguage - YouTube](https://www.youtube.com/results?search_query=Natural+Semantic+Metalanguage)
 
+
 ## **word/phrase translation embeddings (compute or enhance embeddings using translation information)
 * Rehabilitate Patents Project
 * Modeling Structure Across Language and Modalities
-→ Cross-Lingual Structure Prediction
-→ Parsing + Generation ⇒ Translation
-→ Code-Switching
-→ Multi-Modal Generation
+* → Cross-Lingual Structure Prediction
+* → Parsing + Generation ⇒ Translation
+* → Code-Switching
+* → Multi-Modal Generation
 * cross-lingual clustering of non-literal expressions (based on common representation), or matching of the same
 * philosophy of science in the NLP context
 * [Idea: TTS for classical greek and latin](https://github.com/prakashpandey9/Text-Classification-Pytorch/blob/master/models/LSTM_Attn.py)
@@ -936,6 +977,7 @@ Project Outline
 * Nand2Tetris.jl
 * Nand2TetrisHDL.jl
 
+
 ## Language Similarity
 * Similarity of two languages as amount of error that can be reduced by transformation rules, where n is the number of rules, eps(n) is the degree of error following application of rule n. Order the  
 * https://lh5.googleusercontent.com/GYN9j4xAbMLMSLtlh39laEax1mwj6tLAorZSoyxQORX9YbW8SI4rRoqSP9JDqqHaRUA7SRAN-U0P_FIA-rfglEHf4eI88qxM_LJu5QZOt8c9DSsS6dFEIue-fnKd4Z3ZxMecJRscdYUQZ51AxmBBHg
@@ -945,5 +987,5 @@ Project Outline
 * https://lh4.googleusercontent.com/AE0atwKJ7M9HGkKuyZtcwtGxazjwh0q5rQCxUBeyh2kySQN-CH2jhj_LM5WpaP_fDckH9HBbOZRD5-vB3aDiUe9U4Ra7b-gUJmcOjgn9O9A22A2XwHjtMq63opQLTuhHSZrvxfRCwRQbnldjDpgRyw
 * choose
 * https://lh5.googleusercontent.com/18iKP_WNozMh2i9-ZYBNlVu9TmmtCrHUdfNLNntHkld2LriRzdeoYSXPCmezc9NbcSVIhV2O9VyUMNZunyPfto3KEhH4vQ7aAOBx8QweJ4wGw73xqza3GwiKrsToD2P0hIHdcii4v3NebW1qeLLmJg
-. The second inequality implies that
+* . The second inequality implies that
 * https://lh5.googleusercontent.com/9VsLCNRuND5S-JNswtAK_8znRgArCsARswZ6x0AMEMU3YQujzXklMYNuZsIEJc8r4Xhjs2tO1Nzh3zCvQqaAAT29RxUXYopBI5ZRWRh4jDsTOk3xTQKi54YDkMbrDztUs6YglOnMna4xtJIB6SdBSw

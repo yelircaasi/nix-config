@@ -1,8 +1,10 @@
 # C
 
+
 * note get Quaintance math book on phone and laptop, make sure Drive has latest version
 
-- Cheatsheets and Topic Maps
+
+* Cheatsheets and Topic Maps
         * [Calculus Cheat Sheet (Reduced) - Notes](https://tutorial.math.lamar.edu/getfile.aspx?file=B%2C41%2CN)
         * https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf
         * https://minireference.com/static/conceptmaps/linear_algebra_concepts.pdf
@@ -11,25 +13,25 @@
         * [probability_cheatsheet.pdf](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
         * [Probability Cheatsheet v2.0](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/144135201565)
     
-- Tools
+* Tools
         * https://symbolica.io/ - tool for symbol computing with Python, Rust, and C++ bindings
     
-- Courses
+* Courses
         * [Stepik - Дискретные структуры](https://stepik.org/course/83)
         * https://www.youtube.com/@NamNguyen-qw9lf/playlists - Convexity and Convex Analysis, including in Topological Vector Spaces ***
     
-- 1S Video
+* 1S Video
         * [primes video](https://youtu.be/j5s0h42GfvM)
         * [The Story of (almost) All Numbers](https://youtu.be/ggOPJ8gafPo)
         * [The Most Important Counting Concept You’ve (Probably) Never Heard Of](https://www.youtube.com/watch?v=uxjAHkn4VFI)
     
-- 1S Reading
+* 1S Reading
         * [https://fr.wikipedia.org/wiki/Valeur_de_Shapley](https://fr.wikipedia.org/wiki/Valeur_de_Shapley?wprov=sfla1)
         * [Information Theory for Intelligent People](https://sites.santafe.edu/~simon/it.pdf) *****
         * [Bayesian Reasoning for Intelligent People](https://sites.santafe.edu/~simon/br.pdf) *****
         * [Comparison_of_vector_algebra_and_geometric_algebra](https://en.wikipedia.org/wiki/Comparison_of_vector_algebra_and_geometric_algebra)
     
-- Books
+* Books
         * [Introduction to Probabiliy (Drive PDF)](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view)
     
     Statistical Theory, A Concise Introduction, 2E
@@ -38,14 +40,14 @@
     
     Матричный анализ.pdf
     
-- People
+* People
         * https://www.marcellochiodi.com/homepage/teaching/ 
     
-- LA Notes
+* LA Notes
     
     Advanced Linear Algebra Notes (excellent).pdf
     
-- JNF
+* JNF
         * [Jordan_normal_form](https://en.wikipedia.org/wiki/Jordan_normal_form)
         * [Generalized_eigenvector](https://en.wikipedia.org/wiki/Generalized_eigenvector)
         * https://math.stackexchange.com/questions/131819/are-jordan-chains-always-linearly-independent
@@ -54,7 +56,7 @@
     
     THE DIAGONALIZABLE AND NILPOTENT PARTS OF A MATRIX
     
-- Determinant
+* Determinant
         * https://www.lem.ma/content/DVlhfW4GaPdOz2lEH08LvQ?book_id=AIApowDnjlDDQrp-uOZVow Dertiminant
         * [Jacobi's Formula for the Derivative of a Determinant](https://people.eecs.berkeley.edu/~wkahan/MathH110/jacobi.pdf)
         * [Derivative of a Determinant](https://folk.ntnu.no/hanche/notes/diffdet/diffdet.pdf)
@@ -64,16 +66,16 @@
         * https://mathoverflow.net/questions/214908/proof-for-the-derivative-of-the-determinant-of-a-matrix
         * https://math.stackexchange.com/questions/1781775/an-intuitive-way-to-understand-the-jacobis-formula
     
-- Trace
+* Trace
         * [Trace_(linear_algebra)](https://en.wikipedia.org/wiki/Trace_(linear_algebra))
     
-- Matrix Differential Calculus
+* Matrix Differential Calculus
     
     Matrix Differential Calculus with Applications in Statistics and Econometrics
     
 
 
-- Notes
+* Notes
     
     ## Mathematisch-logische Grundlagen der Informatik:
     
@@ -251,7 +253,7 @@
     
 
 
-- YouTube
+* YouTube
         * [Morphocular](https://www.youtube.com/@morphocular)
         * [zhulimath]()
         * [ヘロンの数学 Heron's math](https://youtube.com/channel/UCQO4HzPkRpczr3rECUOL3RQ)
@@ -362,8 +364,8 @@
         * [Ideas in Science](https://www.youtube.com/user/HonnoratLh)
         * [Geek's Lesson](https://www.youtube.com/c/GeeksLesson)
     
-- 
-- Roadmaps Notes
+* 
+* Roadmaps Notes
         * [How to Learn Advanced Mathematics Without Heading to University - Part 1 | QuantStart](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1)
     * [How to Learn Advanced Mathematics Without Heading to University - Part 2 | QuantStart](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-2)
     * [How to Learn Advanced Mathematics Without Heading to University - Part 3 | QuantStart](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-3/)
@@ -373,57 +375,84 @@
     
     Wikipedia page "Mathematics"
 
+
     grundsätzliche Rechenarten kennen (Arithmetik)
+
 
     Überblick verschaffen
 
+
     einfache Beispielprobleme aus der Geometrie
+
 
     einfache Beispielprobleme aus der Zahlentheorie
 
+
     einfache Beispielprobleme aus der Kombinatorik
+
 
     Grundlagen der mathematischen Logik und der Beweistechniken
 
+
     Grundlagen der Mengenlehre
+
 
     Grundlagen der Geometrie
 
+
     Grundlagen der allgemeinen Algebra (Funktionen, Strukturen, Polynome)
+
 
     Grundlagen der Zahlentheorie
 
+
     Grundlagen der reellen Analysis
+
 
     Grundlagen der Kombinatorik und der Stochastik
 
+
     elementare Differenzialrechnung einer Variablen
+
 
     elementare Integralrechnung einer Variablen
 
+
     elementare Lineare Algebra
+
 
     allgemeine Algebra. (Strukturen)
 
+
     reelle Analysis
+
 
     Grundlagen der Topologie
 
+
     Trigonometrie
+
 
     elementare Differenzialrechnung mehrer Variablen
 
+
     elementare Integralrechnung mehrer Variablen
+
 
     fortgeschrittene lineare Algebra
 
+
     komplexe Analysis
+
 
     Statistik
 
+
     Differentialgleichungen
 
+
     Kategorietheorie
+
 
     | Roadmap 1 (from https://www.youtube.com/watch?v=fo-alw2q-BU) | https://www.youtube.com/watch?v=7G4SqIboeighttps://www.youtube.com/watch?v=7G4SqIboeig. |
     | --- | --- |
@@ -547,41 +576,59 @@
     |  | https://amzn.to/2OlHbau by David Kirk and Wen-mei Hwu |
     |  | https://amzn.to/36TDzCU by Duane Storti and Mete Yurtoglu |
 
-- Math Writing
+
+* Math Writing
     
     blog post on derivative notation (+notation or related concepts)
 
+
     Step-by-Step Guide to PCA
+
 
     Proving the Jordan Decomposition
 
+
     Deep Dive into Determinants
+
 
     Overview of Matrix Decompositions (overview, then deeper)
 
+
     Dot Products, Projections, and Linear Regression
+
 
     Mathematical Details behind Cosine Similarity
 
+
     Why Eigenstuff Is Such a Big Deal
+
 
     How Are Eigenvalues Actually Computed?
 
+
     Guided Tour of Matrix Types
+
 
     Painless Introduction to Tensors
 
+
     Deep Dive into Dot Products
+
 
     - > Why does the zero dot product imply orthogonality?
 
+
     - > Why is the dot product onvariant to rotation?
+
 
     - > Why does theta=0maximize the dot product?
 
+
     A Closer Look at Gradients in Deep Learning
 
+
     - > Why do gradients give us the direction of steepest ascent?
+
 
     - Matrix Types
         - squareness
@@ -867,7 +914,9 @@
     * http://www.math.kit.edu/iag6/lehre/combinatorics2017s/media/script.pdf
     * https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/Chapter3.pdf
 
+
         * https://plus.maths.org/content/brief-introduction-proofs
+
 
             * https://math.stackexchange.com/questions/178940/proofs-that-every-mathematician-should-know
     * https://en.wikipedia.org/wiki/List_of_mathematical_proofs
@@ -876,167 +925,238 @@
     * http://pirate.shu.edu/~kahlnath/Top100.html
     * [Why Do We Need Proof?](http://ife.ens-lyon.fr/publications/edition-electronique/cerme6/wg2-03-hemmi-lofwall.pdf)
 
+
         
     Introduction
 
+
     Note to reader: This book was originally written for myself. I wrote it to solidify my understanding of mathematics, and the approach I developed came from a few key ideas:
+
 
     1) Most of my difficulties with mathematics came from gaps in my understanding of fairly basic concepts.
 
+
     2) Proofs are the best way to understand mathematics. This is because a good proof shows exactly why something is true.
 
+
     3) Really understanding a proof means being able to paraphrase it in words, and explain each step.
+
 
         
     Set Theory
 
+
         
     Logic
+
 
         
     Geometry and Basic Trigonometry
 
+
     Sum of Interior Angles of a Triangle
+
 
     Sum of Interior Angles of an n-gon
 
+
     Thales' Theorem
+
 
     Pythagorean Theorem
 
+
     sin^2+cos^2=1
 
+
     Law of Cosines
+
 
         
     Number Theory
 
+
     Prime Factorization for Every Integer
+
 
     Chinese Remainder Theorem
 
+
     Euclid's Algorithm
+
 
         
     Linear Algebra
 
+
         
     Matrix Multiplication as Linear Transformation
 
+
     Invariance of Dot Product w.r.t. Linear Transformation
+
 
     Projection of a Vector onto a Vector
 
+
     Angle between Vectors
+
 
     Core Properties o the Determinant
 
+
     2D Determinant as Area of Transformation of Unit Square
+
 
         
     Real Analysis
 
+
         
     Miscellaneous
+
 
         
     Differential and Integral Calculus
 
+
     Fundamental Theorem of Calculus
 
+
     Green-Stokes-Gauss-Ostogradski theorem
+
 
         
     Derivative Formula
 
+
     Power Rule
+
 
     Product Rule
 
+
     Quotient Rule
+
 
     Exponent Rule
 
+
     Logarithm Rule
+
 
         
     Integration by Parts
 
+
     Integration by Substitution
+
 
     
     Taylor Series
 
+
     
     Optimization Theory
 
+
     Kuhn-Tucker Equations
+
 
         
     Advanced Trigonometry
 
+
         
     Differential Equations
+
 
         
     Multivariable Calculus
 
+
         
     Combinatorics
 
+
     Permutation
 
+
     Binary Coefficients
+
 
         
     Probability Theory
 
+
     Central Limit Theorem
+
 
     Law of Large Numbers
 
+
     Bayes' Law
+
 
         
     Statistics
 
+
     Digital Mathematics
+
 
     Algorithms
 
+
     Artificial Intelligence and Machine Learning
+
 
     Graph Theory
 
+
     Complex Analysis
+
 
     Fourier Analysis
 
+
     Category Theory
+
 
     Applications - Physics
 
+
     Applications - Music
+
 
     Beginner’s Guide to Matrices
     
     Front Matter
 
+
     1. Introduction - How Much Can We Learn from a Single Matrix?
+
 
     2. What do Matrices Represent?
 
+
     3. Basic Matrix Features
+
 
     3. Matrix Types
 
+
     4. Matrix Factorizations
+
 
     5. More Advanced Matrix Features
 
+
     6. Whirlwind Tour of Matrix Applications
 
+
     Appendix
+
 
     | Core Mathematical Proofs with Detailed Intuitive Explanation |  |  |
     | --- | --- | --- |
@@ -1078,41 +1198,59 @@
     
     Logic & truth tables
 
+
     Types of Proof
+
 
     Set Theory
 
+
     Cartesian Product
+
 
     Relation
 
+
     Binary Operation
+
 
     Function - domain, codomain, range
 
+
     - > Types of functions
+
 
     Limits
 
+
     Derivatives and Integrals
+
 
     Analytic geometry - PT, vectors
 
+
     Trigonometry
+
 
     Linear Algebra
 
+
     Combinatorics and Probability
+
 
     Statistics
 
-- Courses
+
+* Courses
         * https://pnp.mathematik.uni-stuttgart.de/igt/eiserm/lehre/Lineare-Algebra/
     * [Topology Quick Intro](http://sadeepj.blogspot.com/2012/06/understanding-riemannian-manifolds-part.html)
 
+
     Beginning Topology
 
+
     Linear Algebra and Learning from Data
+
 
     Maths for Intelligent Systems (Toussaint)
     * http://wikistat.fr/
@@ -1121,6 +1259,7 @@
     * https://math.byu.edu/klkuttle/Linearalgebra.pdf
     * https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/
 
+
     Introduction to Applied Mathematics - Strang
     * [Filosofia_matematiki_djvu.djvu](https://vk.com/doc30601958_632403594?hash=abe5f488f3ed7c2f51)
     * [Ontologia_matematiki_Obekty_i_struktury_djvu.djvu](https://vk.com/doc30601958_632402511?hash=5674be97dfb7ffcab2)
@@ -1128,187 +1267,279 @@
     * https://www.econometrics-with-r.org/1-introduction.html
     * [[****Glossary of topology - Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_topology#:~:text=This is a glossary of,of mathematics known as topology.&text=The following definitions are also,topological spaces unless stated otherwise.)](https://en.wikipedia.org/wiki/Glossary_of_topology#:~:text=This%20is%20a%20glossary%20of,of%20mathematics%20known%20as%20topology.&text=The%20following%20definitions%20are%20also,topological%20spaces%20unless%20stated%20otherwise.))
 
+
     - [* From Eigendecomposition to Determinant: Fundamental Mathematics for Machine Learning with Intuitive Examples Part 3/3](https://towardsdatascience.com/from-eigendecomposition-to-determinant-fundamental-mathematics-for-machine-learning-with-1b6b449a82c6)
+
 
     - [* Home Page - Intuitive Math](https://intuitive-math.club/)
 
+
     - [* Topology (Toronto)](http://www.math.toronto.edu/ivan/mat327/index.html?resources)
+
 
     - [* Transformée et séries de Fourier](http://villemin.gerard.free.fr/Wwwgvmm/Analyse/Fourier.htm)
 
+
     - [**](http://sgpwe.izt.uam.mx/files/users/uami/jdf/EDO_II/Formas_canonicas.pdf)
+
 
     - [**](http://www.mat.ucm.es/~eliasbaro/docencia/AL1415/ApuntesJordan.pdf)
 
+
     - [**](http://pcmap.unizar.es/~mpala/A_L_lecci/10matrJord.pdf%20%20%20%20%20Inviato%20da%20iPhone)
+
 
     - [** Deep-Learning-Papers-Reading-Roadmap/README.md at master · floodsung/Deep-Learning-Papers-Reading-Roadmap · GitHub](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap/blob/master/README.md)
 
+
     - [** Mathe für Nicht-Freaks](https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks)
+
 
     - ** [Дискретная математика. Учебник и задачник для СПО [2019] Баврин.pdf](https://vk.com/doc44301783_514093604?hash=f87a72cdae3c3f3b56&dl=9c1006f89b238b6857)
 
+
     - [**?](http://ocw.uc3m.es/matematicas/algebra-lineal/ampliacion/algebra_ampliacion_07.pdf%20%20%20%20%20Inviato%20da%20iPhone)
+
 
     - [**](http://math.phys.msu.ru/data/25/JF.pdf)
 
+
     - [****](https://kpfu.ru/docs/F1418016545/ALG_2.pdf)
+
 
     - [****Mathematical Foundations - Mathematical Tours of Data Sciences](https://mathematical-tours.github.io/book/)
 
+
     - [****Networks, crowds, and markets: Reasoning about a highly connected world | Easley D., Kleinberg J.](https://b-ok.cc/book/1021313/9bab3e)
+
 
     - [****Numerical Tours - A Numerical Tour of Data Science](http://www.numerical-tours.com/)
 
+
     - [***A 2020 Vision of Linear Algebra | MIT OpenCourseWare](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)
+
 
     - [***Explained Visually](http://setosa.io/ev/)
 
+
     - [***How the Mathematics of Algebraic Topology Is Revolutionizing Brain Science | MIT Technology Review](https://www.technologyreview.com/2016/08/24/107808/how-the-mathematics-of-algebraic-topology-is-revolutionizing-brain-science/)
 
-    - [***Immersive Math](http://immersivemath.com/ila/index.html)
 
     - [***Immersive Math](http://immersivemath.com/ila/index.html)
+
+
+    - [***Immersive Math](http://immersivemath.com/ila/index.html)
+
 
     - [***Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index.html)
 
+
     - [***Les-Mathematiques.net - Cours de mathématiques supérieures](http://www.les-mathematiques.net/pages/cours_zip.php)
+
 
     - [***Math3ma - Categories](https://www.math3ma.com/categories)
 
+
     - [***Topology (Wikibooks)](https://en.wikibooks.org/wiki/Topology)
+
 
     - [***Topology and Analysis - YouTube](https://www.youtube.com/playlist?list=PLAvgI3H-gclZa-DVTMyUIAxM-X8NSikwu)
 
+
     - [***Интуитивная топология](https://www.youtube.com/playlist?list=PLdupor3lULXho4vLxMd0Pp_TghL52677r)
+
 
     - [*Econometrics - Kurt Schmidheiny - Uni Basel](https://www.schmidheiny.name/teaching/unibas/econometrics/)
 
+
     - [****Schaum's Outline of General Topology](https://b-ok.cc/book/866003/489510)
+
 
     - [***mcreel/Econometrics: econometrics lecture notes and code, mostly using the Julia language](https://github.com/mcreel/Econometrics)
 
+
     - [**A Statistical Approach to Neural Networks for Pattern Recognition (Wiley Series in Computational Statistics) | Robert A. Dunne | download](https://b-ok.cc/book/884362/42f150)
+
 
     - [**Andreas Gathmann - Vorlesungsskripte](https://www.mathematik.uni-kl.de/~gathmann/de/notes.php)
 
+
     - [**Bessel's correction](https://en.wikipedia.org/wiki/Bessel%27s_correction)
+
 
     - [**Computational Topology - An Introduction | Herbert Edelsbrunner, John Harer | download](https://b-ok.cc/book/2189927/4cd303)
 
+
     - [**Euler Archive](http://eulerarchive.maa.org/)
+
 
     - [**Fakultät für Mathematik:: Prof. Dr. Hans-Christoph Grunau](http://www.math.ovgu.de/grunau.html)
 
+
     - [Getting Started Animating with manim and Python 3.7 | Talking Physics](https://talkingphysics.wordpress.com/2019/01/08/getting-started-animating-with-manim-and-python-3-7/)**
+
 
     - [**Kompetenzmaterialien](https://mathematikmachtfreunde.univie.ac.at/materialien/)
 
+
     - [Learning higher-mathematics on your own - Mathematics Stack Exchange](https://math.stackexchange.com/questions/843697/learning-higher-mathematics-on-your-own/1872596)**
+
 
     - [**Logit](http://www.princeton.edu/~otorres/Logit.pdf)
 
+
     - [**Mathe Skripte LMU](https://www.florianstecker.de/Skripte/)
+
 
     - [**Mathematics of Data - MPI for Mathematics in the Sciences](https://www.mis.mpg.de/math-of-data/)
 
+
     - [**Mathematisierung der Einzelwissenschaften: Biologie — Chemie — Erdwissenschaften — Geschichtswissenschaft — Linguistik — Medizin — Pädagogik — Physik — Psychologie — Rechtswissenschaft — Soziologie — Theologie — Wirtschaftswiss](https://b-ok.cc/book/2168439/f96c2d)
+
 
     - [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)**
 
+
     - [**Oxford Math](https://courses.maths.ox.ac.uk/overview/undergraduate#43995)
+
 
     - [**P. Karageorgis](https://www.maths.tcd.ie/~pete/)
 
+
     - [Philosophie und Mathematik](https://libgen.is/search.php?req=Philosophie+Mathematik&open=0&res=25&view=simple&phrase=1&column=def)**
+
 
     - [Proof that the Sample Variance is an Unbiased Estimator](https://youtu.be/D1hgiAla3KI)**
 
+
     - [**Prove the sample variance is an unbiased estimator - Economics Stack Exchange](https://economics.stackexchange.com/questions/4744/prove-the-sample-variance-is-an-unbiased-estimator)
+
 
     - [**Repetitorium der Algebra](https://b-ok.cc/book/717348/089a32)
 
+
     - [**Representation discovery using harmonic analysis | Sridhar Mahadevan | download](https://b-ok.cc/book/502863/642b75)
+
 
     - [**Roots of Unity - Scientific American Blog Network](https://blogs.scientificamerican.com/roots-of-unity/)
 
+
     - [**Set theory and its philosophy: a critical introduction | Michael Potter | download](https://b-ok.cc/book/439763/c17d74?dsource=recommend)
+
 
     - [simuleios/visualization at master · leios/simuleios](https://github.com/leios/simuleios/tree/master/visualization)**
 
+
     - [**Skripten - Universität Ulm](https://www.uni-ulm.de/mawi/iaa/members/former/balser/skripten/)
+
 
     - [**Slides - Mathematical Tours of Data Sciences](https://mathematical-tours.github.io/slides/)
 
+
     - [**Statistics cheatsheet — Cheatsheets by QuantEcon documentation](https://cheatsheets.quantecon.org/stats-cheatsheet.html)
+
 
     - [**The Fascinating World of Graph Theory | Arthur Benjamin, Gary Chartrand, Ping Zhang | download](https://b-ok.cc/book/5156505/7efe7c)
 
+
     - [**Topologia curso IT](http://www.mat.uniroma3.it/users/caporaso/GE30708/GE30708.html)
+
 
     - [**Topology - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Topology)
 
+
     - [**Universität Stuttgart - Fachbereich Mathematik - Lineare Algebra II bei Prof. Dr. A. Henke im Sommersemester 2020](https://info.mathematik.uni-stuttgart.de/LAAG-Henke-SS20/)
+
 
     - [**Was ist ein Tensor?](https://youtu.be/xdSM4yPFwZQ)
 
+
     - [**Квантиль](http://quantile.ru/eng/)
+
 
     - [*Axioms (get 1-4)](https://www.math.auckland.ac.nz/~gauld/750-05/section4.pdf)
 
+
     - [*common shapes in topology – Google Поиск --> links to TDA](https://www.google.com/search?q=common+shapes+in+topology&tbm=isch&ved=2ahUKEwiX_dOS_5fpAhULuqQKHdvaCm8Q2-cCegQIABAA&oq=common+shapes+in+topology&gs_lcp=CgNpbWcQAzoECCMQJzoCCAA6BAgAEEM6BAgAEB46BAgAEBM6CAgAEAgQHhATOgYIABAIEB5QmqQBWN-_AWCnwQFoAHAAeACAAYYBiAGUD5IBBDI0LjGYAQCgAQGqAQtnd3Mtd2l6LWltZw&sclient=img&ei=GuGuXpeIOIv0kgXbtav4Bg&bih=507&biw=776&rlz=1C5CHFA_enUS800US800)
+
 
     - [*E0 201 : Proofs and Measurs, Fall 2015](https://ece.iisc.ac.in/~parimal/2015/proofs.html)
 
+
     - [*fastai/numerical-linear-algebra-v2: Jupyter Notebooks for Computational Linear Algebra course, taught summer 2018 in USF MSDS program](https://github.com/fastai/numerical-linear-algebra-v2)
+
 
     - [*First Course in Linear Algebra](http://linear.ups.edu/html/fcla.html)
 
+
     - [*IMAGINARY | open mathematics](https://imaginary.org/de)
+
 
     - [*Index of /~hunter/measure_theory](https://www.math.ucdavis.edu/~hunter/measure_theory/)
 
+
     - [*Index of /pub/Maths/Courseware](https://www.maths.tcd.ie/pub/Maths/Courseware/)
+
 
     - [*Introduction to Formal Concept Analysis - Startseite | Coursera](https://www.coursera.org/learn/formal-concept-analysis/home/welcome)
 
+
     - [*les.mathematiques - Cours de Mathematiques superieures](http://les.mathematiques.free.fr/pages/cours_zip.htm)
+
 
     - [*linear algebra - Determinant of transpose? - Mathematics Stack Exchange](https://math.stackexchange.com/questions/598258/determinant-of-transpose/636198#636198)
 
+
     - [*linear algebra - What is the geometric interpretation of the transpose? - Mathematics Stack Exchange](https://math.stackexchange.com/questions/37398/what-is-the-geometric-interpretation-of-the-transpose)
+
 
     - [*Lineare Algebra 1 – Serlo „Mathe für Nicht-Freaks“ – Wikibooks, Sammlung freier Lehr-, Sach- und Fachbücher](https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Lineare_Algebra_1)
 
+
     - [*Lockdown math - YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDP5CVelJJ1bNDouqrAhVPev)
+
 
     - [*Manifolds: A Gentle Introduction | Bounded Rationality](http://bjlkeng.github.io/posts/manifolds/)
 
+
     - [*Mathigon](https://mathigon.org/)
+
 
     - [*Mathigon Activities](https://mathigon.org/activities)
 
+
     - [*Nozioni di Topologia in ℝn - YouTube](https://www.youtube.com/playlist?list=PLHoyGyZCDbn6dN7kK0x3vRRvWsql4X0Op)
+
 
     - [*Page d'Alain Prouté](http://www.logique.jussieu.fr/~alp/)
 
+
     - [*Readings | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/)
+
 
     - [*The Map of Mathematics | Quanta Magazine](https://www.quantamagazine.org/the-map-of-mathematics-20200213/)
 
+
     - [*topoĺogia - YouTube](https://www.youtube.com/playlist?list=PLUHUYVFbDb1jSwsWwr-guW_-F2S1HytX_)
+
 
     - [*Topology & Geometry by Dr Tadashi Tokieda - YouTube](https://www.youtube.com/playlist?list=PLTBqohhFNBE_09L0i-lf3fYXF5woAbrzJ)
 
+
     - [*Topospaces](https://topospaces.subwiki.org/wiki/Main_Page)
+
 
     - [*What is Topology? - Cantor’s Paradise - Medium](https://medium.com/cantors-paradise/what-is-topology-963ef4cc6365)
 
+
     - [*Загальна топологія з самого початку - YouTube](https://www.youtube.com/playlist?list=PLmHyZ3t74VpzebfMioXRTBLDwR1EfoS--)
+
 
     - [Chaos and Fractals: An Elementary Introduction | Feldman D.P. | download](https://b-ok.cc/book/2292213/92c9ee)
 
+
     - [How Round Is a Cube? And Other Curious Mathematical Ponderings | James Tanton; Mathematical Sciences Research Institute | download](https://b-ok.cc/book/5234053/adf2ce)
+
 
     17 Equations that changed the world - Ian Stewart
     * [2.1) ***general topology - Brouwer's fixed point theorem (for unit balls) and retractions - Mathematics Stack Exchange](https://math.stackexchange.com/questions/422616/brouwers-fixed-point-theorem-for-unit-balls-and-retractions/422627#422627)
@@ -1362,6 +1593,7 @@
     * [Online Mathematics Textbooks ***](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
     * [Robert Hanson: good general site](https://www.math.utah.edu/~bobby/)
 
+
     Sources/Further Reading* The History of Zeno's Arguments on Motion: Phases in the Development of the Theory of Limits by Florian Cajori Paradoxes: Guiding Forces in Mathematical Exploration by Hamza E. Alsamraee
     * [Stanford Engineering Everywhere EE263 - Introduction to Linear Dynamical Systems - VideoLectures - VideoLectures.NET](http://videolectures.net/stanfordee263f07_intro_linear_dynamical_systems/)
     * [Statsoft (FR) ***](http://www.statsoft.fr/concepts-statistiques/index/concepts-index.html)
@@ -1372,10 +1604,12 @@
     * [Video ***](https://youtu.be/S31sSZ2FbRo)
     * [Wikistat (FR) ***](http://www.math.univ-toulouse.fr/~besse/Wikistat/)
 
-- Reference
+
+* Reference
     
     Top
     * https://github.com/rossant/awesome-math
+
 
     
     
@@ -1383,15 +1617,18 @@
     General Interesting Sites
     * https://www.math3ma.com/
 
+
     
     
     YouTube
 
+
     3b1b
     * [Mathemaniac](https://www.youtube.com/c/Mathemaniac)
 
+
         
-- Books
+* Books
         * [Graph Algorithms in the Language of Linear Algebra (Software, Environments, and Tools)](http://library.lol/main/747871F9B2D5A4432228FD5BF6FFEF58)
     
     Contemporary Abstract Algebra by Joseph Gallian
@@ -1502,7 +1739,7 @@
     
     Introduction to topology by Bert Mendelson
     
-- Reading (1)
+* Reading (1)
         * [Normal distribution - Wikipedia](https://en.wikipedia.org/wiki/Normal_distribution)
         * [Gaussian function - Wikipedia](https://en.wikipedia.org/wiki/Gaussian_function)
         * [statistics - How was the normal distribution derived? - Mathematics Stack Exchange](https://math.stackexchange.com/questions/384893/how-was-the-normal-distribution-derived)
@@ -1877,16 +2114,20 @@
         * [Michael Penn](https://youtube.com/c/MichaelPennMath)
         * [Abstract Algebra](https://youtube.com/playlist?list=PL22w63XsKjqxaZ-v5N4AprggFkQXgkNoP)
     
-- Reading (2)
+* Reading (2)
         * https://www.privatdozent.co/p/the-anarchist-abstractionist-who-995
     * [Jeff Suzuki - Mathematics in Historical Context](http://libgen.rs/book/index.php?md5=6FB458A1081955E6832B20F9B022761A)
     * https://www.privatdozent.co/p/john-f-nash-jrs-game-of-hex
 
+
     power laws
+
 
     Topologie Toenniessen
 
+
     wiki Algebra Astratta
+
 
     Grundkurs Topologie Laures Szymik
     * [Intuitive Understanding Of Euler’s Formula – BetterExplained](https://betterexplained.com/articles/intuitive-understanding-of-eulers-formula/)
@@ -1921,6 +2162,7 @@
     * [Introduction to Tensors - YouTube](https://www.youtube.com/watch?v=uaQeXi4E7gA)
     * https://en.wikipedia.org/wiki/Bilinear_interpolation
 
+
     Prime Obsession (2003)
     * [Введение в общую алгебру](https://www.shamin.ru/zip/lections/shamin_alg.pdf)
     * [Калужнин Л.А. - Введение в общую алгебру](http://libgen.rs/book/index.php?md5=E82D060D59B998749C969560C1BE5DDE)
@@ -1943,23 +2185,29 @@
     * https://www.cantorsparadise.com/archive
     * [Gebietsintegrale, Volumen und der Satz von Fubini](https://www.youtube.com/watch?v=u3qYaKv0Ffo&pp=sAQA)
 
-- Reading (3)
+
+* Reading (3)
         * https://math.stackexchange.com/tags
     * [Math Notes - Hojas de cálculo de Google](https://docs.google.com/spreadsheets/d/1pWoMcEhvRJMJw_sDq7PnH1yx3KMaXH8Nh4duDx_pUOA/edit#gid=0)
     * [Introduction to Higher Mathematics - YouTube](https://www.youtube.com/playlist?list=PLZzHxk_TPOStgPtqRZ6KzmkUQBQ8TSWVX)
     * [Excellent Collection of Math Resources](https://docs.google.com/presentation/d/1XritG55j7mHQ04YINuAvOsKaSGHfsCh0fa3Z8ywoH-I/mobilepresent?slide=id.g1b1742bb1078a317_3)
 
+
             * [Example Problems](http://www.exampleproblems.com/wiki/index.php/Main_Page)
     * https://fragen.letsrockmathe.de/
+
 
             * [Category:Proofs by Topic - ProofWiki](https://proofwiki.org/wiki/Category:Proofs_by_Topic)
     * [Statistics and Probability](https://stattrek.com/)
 
+
             * [Introduction to Advanced Mathematics](https://www.math.fsu.edu/~mesterto/MGF3301.html)
+
 
     
         * [Les-mathematiques.net](http://www.les-mathematiques.net/phorum/)
     * [Высшая математика для заочников и не только](http://mathprofi.ru/)
+
 
             * [Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
     * [Computational Algebra](http://www.ub.edu/arcades/2016_12_01_ARCADES_Computational_Algebra.pdf)
@@ -1977,6 +2225,7 @@
     * [Маткульт-привет! :: Алексей Савватеев и Ко](https://www.youtube.com/c/%D0%9C%D0%B0%D1%82%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82)
     * [Funktionentheorie](https://www.youtube.com/playlist?list=PL1X1gsLVE3muVIgFEF41_zGIETeyLMnxA)
 
+
     Idea: matrix graph: network of matrix types
     * [Physik-Skripte](http://physik-skripte.de/)
     * [Math City](https://www.mathcity.org/)
@@ -1988,11 +2237,13 @@
     * [Jean Gallier books](https://www.cis.upenn.edu/~jean/gbooks/home.html)
     * [Complex Forms](https://tutorial.math.lamar.edu/Extras/ComplexPrimer/Forms.aspx)
 
+
             * [Philosophie der Mathematik](https://b-ok.cc/book/2549588/7451ce)
     * [Claudi Alsina books (beauty of mathematics)](https://b-ok.cc/s/alsina%20nelsen)
     * [Mathematik verstehen und anwenden – von den Grundlagen bis zu Fourier-Reihen und Laplace-Transformation](https://b-ok.cc/book/3577406/600d3f)
     * [Gewöhnliche Differentialgleichungen (Anfangswertproblem)](https://www.youtube.com/playlist?list=PL1X1gsLVE3msae-PlZI2lpJJ-ywOR_Dth)
     * [Analysis](https://www.youtube.com/playlist?list=PL1X1gsLVE3mtYFZvRLYQHdniZ6TU99-vU)
+
 
             * [Probability Theory without Tears](https://b-ok.cc/s/probability%20theory%20without%20tears)
     * [Gallier Linear Algebra](https://b-ok.cc/book/5394602/4c9390)
@@ -2022,7 +2273,9 @@
     * https://www.google.com/search?q=why+does+math+describe+the+universe
     * [Modern Problems in Mathematics](https://www.youtube.com/watch?v=0yqTFEXsEdY&list=PL-_cKNuVAYAUTz_t5IWvA2SxOMCdDGJkP)
 
+
     Yearning for the Impossible: The Surprising Truths of Mathematics
+
 
     - [> Resources for Intro-Level Graduate Courses](https://www.math3ma.com/blog/resources-for-intro-level-graduate-courses)
     * [¿Por qué no existe el Premio Nobel de Matemáticas?](https://www.youtube.com/watch?v=juJsZzzlZ74&list=WL&index=250)
@@ -2072,6 +2325,7 @@
     * [Collection of Math Notes](https://folk.ntnu.no/hanche/notes/)
     * [Comment réussir en maths ?](https://www.youtube.com/watch?v=lRr8ietiLRQ&list=WL&index=30)
 
+
     Comment réussir en maths ?de Yvan Monka
     * [Cómo leer las matemáticas](https://www.youtube.com/watch?v=Kp2bYWRQylk&list=WL&index=267)
     * [Como Não Errar | Um livro de Jordan Ellenberg | Editorial Presença](https://www.presenca.pt/livro/como-nao-errar/)
@@ -2096,10 +2350,12 @@
     * [Historia de las matemáticas en los últimos 10.000 años | Stewart, Ian | download](https://b-ok.cc/book/3582458/b8358b)
     * [How Math Explains the World: A Guide to the Power of Numbers, from Car Repair to Modern Physics | James D. Stein | download](https://b-ok.cc/book/889098/fc969d)
 
+
     How to Get Better at Math
     * [How to learn our Math! : bibliographies](https://www.reddit.com/r/bibliographies/comments/e2jad6/how_to_learn_our_math/)
     * [How to Think Like a Mathematician - with Eugenia Cheng](https://www.youtube.com/watch?v=8emPcpfqPRU&list=WL&index=358)
     * http://fabpedigree.com/james/mathmen.htm
+
 
             * http://mathprofi.ru/
     * http://pages.uoregon.edu/moursund/Math/learning-theories.htm
@@ -2138,6 +2394,7 @@
     * https://www.stitcher.com/podcast/breaking-math-podcast
     * https://www.welt.de/print/wams/wissen/article141694179/Mathematiker-rechnen-nicht.html
     * https://www.youtube.com/results?search_query=the+mathematical+universe
+
 
     I so needed this today! Tonight at dinner, our middle-school-aged daughter said "Today on TikTok I saw..." and we all rolled our eyes. But then she started to describe to us the Monty Hall problem, although not by name. We (including my HS-age son) had an amazing conversation
     * [Ian Stewart: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/g/Ian%20Stewart)
@@ -2186,6 +2443,7 @@
     * [Mathematics - Wikipedia](https://en.wikipedia.org/wiki/Mathematics)
     * [Mathematics | chat.stackexchange.com](https://chat.stackexchange.com/rooms/36/mathematics)
 
+
             * [Mathematics for Big Data](https://www.researchgate.net/publication/337037566_Mathematics_for_Big_Data)
     * [Mathematics for Machine Learning | Companion webpage to the book “Mathematics for Machine Learning”](https://mml-book.com/)
     * [mathematics of data: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/mathematics%20of%20data)
@@ -2214,6 +2472,7 @@
     * [Physics.Math.Code.Books](https://vk.com/physics_math)
     * [PlanetMath subject index](https://planetmath.org/msc.html)
 
+
     Pourquoi une seconde spécialité mathématique ?
     * [Problema # 2 - tipo olimpiada de matemáticas (nivel 2)](https://www.youtube.com/watch?v=XbYTTGQj8ZM&list=WL&index=257)
     * [Problemas avanzados de razones](https://www.youtube.com/watch?v=-EZdQtSylqI&list=WL&index=254)
@@ -2227,7 +2486,8 @@
     * [Publications en maths](https://www.apmep.fr/IMG/pdf/)
     * [Recommended Books on Higher Mathematics | Math Vault](https://mathvault.ca/books/)
 
-- Reading (4)
+
+* Reading (4)
         * [simuleios/eigentest.py at master · leios/simuleios](https://github.com/leios/simuleios/blob/master/visualization/eigentest/eigentest.py)
     * [Springer made a bunch of books available for free, these were the direct links](https://gist.github.com/bishboria/8326b17bbd652f34566a)
     * [Tegmark](https://libgen.is/search.php?&req=tegmark&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
@@ -2258,16 +2518,20 @@
     * [Velichayshie_matematicheskie_zadachi.epub](https://vk.com/doc30601958_461719406?hash=f02301c2ac0c0c1245&dl=f71ba50e362773f7aa)
     * [Versión Completa. Matemáticas para la vida real. Adrián Paenza, matemático](https://www.youtube.com/watch?v=V33U1OsFVnQ&list=WL&index=1339)
 
+
     Vier ungelöste mathematische Probleme (Weihnachtsvorlesung 2015)
     * [Viewing the world through a 'mathematical lens' can help young children learn math](https://phys.org/news/2012-02-viewing-world-mathematical-lens-young.html)
+
 
     Was Mathematiker NICHT können (Weihnachtsvorlesung 2017, Teil 1 von 4)
     * [Web 2.0 scientific calculator](http://web2.0calc.com/)
     * [What Makes People Engage With Math | Grant Sanderson | TEDxBerkeley](https://www.youtube.com/watch?v=s_L-fp8gDzY)
 
+
     Why is 0! = 1?
     * [www.cogsci.ucsd.edu/~nunez/web/EducMatMx.pdf](http://www.cogsci.ucsd.edu/~nunez/web/EducMatMx.pdf)
     * [А+клик: Математика, задачи, ответы, головоломки](https://www.aplusclick.org/russian.html)
+
 
     Алексей Савватеев | Новейшие прорывы в математике
     * [Арнольд В.И.](https://libgen.is/search.php?req=%D0%B0%D1%80%D0%BD%D0%BE%D0%BB%D1%8C%D0%B4&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
@@ -2283,11 +2547,13 @@
     * [Лина Нейман Радость открытия](http://www.ega-math.narod.ru/LSP/Neuman.htm)
     * [Мат разные](https://vk.com/wall-16108331_151420)
 
+
     Математика - это просто 2.0. Думай математически Джон Мэйсон, Кэй Стэйси, Леон Бертон
     * [Математика : вопросы и ответы – Рамблер/класс](https://class.rambler.ru/temy-matematika/)
     * [Математика | SEGOZAVTRA (Алексей Савватеев, Илья Макаров, Сева Ловкачев)](https://vk.com/video-148115211_456239794?list=bfa1c5fe7d3863aaff)
     * [Математика часть 1 (лекция 1)](https://vk.com/video-16108331_456266224?list=adf69622b75c16b52d)
     * [Математические и физические аспекты теории музыки | А. Борисов, Е. Овчинников | download](https://ru.b-ok2.org/book/3333601/ecdaa2)
+
 
     Математические основы информатики
     * [Математическое понимание природы [2011] Владимир Арнольд.pdf](https://vk.com/doc44301783_517287959?hash=4aa9c09663aac245e4&dl=b07023122d9fd25396)
@@ -2296,6 +2562,7 @@
     * [основы математики](https://libgen.is/search.php?&req=%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B+%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B8&phrase=1&view=simple&column=def&sort=def&sortmode=ASC&page=2)
     * [Подборка фильмов по математике](https://vk.com/wall-51126445_39341)
 
+
     Прелюдия к математике [1972] Сойер
     * [Публікації – Кафедра алгебри ММФ КНУ](http://algebra.kiev.ua/publikatsiyi/)
     * [Список книг о математике](https://vk.com/wall288014859_1647)
@@ -2303,6 +2570,7 @@
     * [Dictionnaire mathématiques FR-DE](https://archive.org/details/vocabulairemath00muelgoog/page/n42)
     * [MAT1001 (NO)](https://www.youtube.com/playlist?list=PL8ynIeCJ_0Bb946tROJxO8m8enL9iW6qj)
     * [Mathematische Exkursionen: Gödel, Escher und andere Spiele](https://b-ok.cc/book/2172504/6dd729)
+
 
             * [Нерешенные задачи школьной математики – Алексей Савватеев / ПостНаука - YouTube](https://www.youtube.com/watch?v=YUWE_XUTero)
     * https://github.com/sahilchinoy/econ103
@@ -2339,6 +2607,7 @@
     * [The Mathematics of Machine Learning](https://www.youtube.com/watch?v=Rt6beTKDtqY&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=93)
     * [Розбір завдань ЗНО-2019 з математики / ZNOUA](https://www.youtube.com/watch?v=goB-se1kwBA&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=54)
 
+
             * [Cantor’s Paradise – Medium](https://medium.com/cantors-paradise)
     * [COIN DU MATHEMATICIEN](http://maths.cnam.fr/Didacticiels/Sur_Le_Traitement_Du_Son/coinmath.htm)
     * [Introduction to Linear Dynamical Systems (Stanford)](http://ee263.stanford.edu/)
@@ -2351,10 +2620,13 @@
     * [Math for Programmers – your guide for solving math problems in code](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=12685fa3fc&e=b34ab4e857)
     * [Math Undergrad Requirements](https://drive.google.com/file/d/1IQzLRZpM27Exbzc-M3RPkRiIFHvYKZZ0/view?usp=sharing)
 
+
             * [The Tools of Mathematical Reasoning](https://b-ok.cc/book/3341780/444474)
+
 
     Как объяснить ребенку математику. Иллюстрированный справочник для родителей (Кэрол )Вордерман
     * [allgemeine Mathematikbücher](https://b-ok.cc/g/Lothar%20Papula)
+
 
         
     LEARN HOW TO WRITE BROWSER APPLETS FOR MATH VISUALIZATIONS!
@@ -2403,7 +2675,8 @@
     * [funciones de varias variables](http://www.zweigmedia.com/MundoReal/Calcsumm8.html)
     * [Web Study Guide for Vector Calculus](https://math.oregonstate.edu/home/programs/undergrad/CalculusQuestStudyGuides/vcalc/vcalc.html)
 
-- Reading (5)
+
+* Reading (5)
         * https://archive.org/details/principia00newtuoft
     * http://www.e-rara.ch/zut/content/structure/2327954
     * http://www.17centurymaths.com/contents/introductiontoanalysisvol1.htm
@@ -2434,7 +2707,9 @@
     * [Franneck](https://www.youtube.com/user/FranneckLP)
     * https://wiki.zum.de/wiki/PH_Heidelberg
 
+
     point-line-ruler problem (conchoids)
+
 
     largest and flattest area of contour (surface? better term? → like land)
     * [permutations with restrictions on movement](https://www.google.com/search?q=number+of+permutations+with+limit+on+movement&rlz=1CDGOYI_enUS835US835&oq=number+of+permutations+with+limit+on+movement&aqs=chrome..69i57.17314j1j7&hl=it&sourceid=chrome-mobile&ie=UTF-8)
@@ -2466,6 +2741,7 @@
     * https://www.engineeringmathgeek.com/category/advanced-engineering-mathematics/
     * https://pnp.mathematik.uni-stuttgart.de/igt/eiserm/lehre/HM3/
     * [Sets, Groups, and Mappings: An Introduction to Abstract Mathematics](https://bookstore.ams.org/amstext-39/)
+
 
             * http://www.mathematics-in-europe.eu/po/65-mathhelp/mathematics-in-foreign-languages/59-mathematics-in-foreign-languages
     * [Mathematisches Wörterbuch: deutsch-englisch](https://www.henked.de/maple/woerterbuch.htm)
@@ -2514,9 +2790,11 @@
     * [The diffusion equation | Week 12 | MIT 18.S191 Fall 2020 | Grant Sanderson](https://www.youtube.com/watch?v=a3V0BJLIo_c&list=PLP8iPy9hna6Q2Kr16aWPOKE0dz9OnsnIJ&index=48)
     * [What is a Discrete Fourier Transform? | Week 14 | MIT 18.S191 Fall 2020 | Grant Sanderson](https://www.youtube.com/watch?v=g8RkArhtCc4&list=PLP8iPy9hna6Q2Kr16aWPOKE0dz9OnsnIJ&index=58&t=274s)
 
-- Reading (6)
+
+* Reading (6)
     
     Linear Algebra by Lang: [https://amzn.to/3DIw7fY](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHhPd0NsREJUNVpQZmNLOFNzMUkyN2RzTjdmZ3xBQ3Jtc0tsR1pmZWxmUXVPZS0tbnhIaV9RWmtQV3laWHdONUZaZjd6N0E1VHNMaXlRNURrU3RwYzJJNDA4UVNIS0pVTFlKc25PdUN1SGhmNHdSQndNbjhjY3VZMk1fem02UE93VVFIOV9KQUo2SndrUmlUeVRoNA&q=https%3A%2F%2Famzn.to%2F3DIw7fY&v=9wdC2UVOsxc)
+
 
     Calculus Made Easy: [https://amzn.to/3LKcO8S](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmhnUU5GQlNCY0V5UzZfLW9zVFV1TEk0WFlkUXxBQ3Jtc0tscjBJY2xyUGsyMkwzVDZKdjctdkpacXNXU2J1eUtZTnJmakVUR1JOSG9yTGtqdXNfeHJLWXNCYk1aS2FaTTF5QWdySnQ4aVZRODFHeGhTaEFkNmVZdDRoZ0twUDdLWmhiTEREX3J6X1AyY19JSmMwaw&q=https%3A%2F%2Famzn.to%2F3LKcO8S&v=9wdC2UVOsxc)
     * [Abstract Algebra by Saracino: https://amzn.to/3DIy7oA](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqay1hODREVFZudkRESjRpcDlzVG9hc01mdUN0QXxBQ3Jtc0tsN0VucjdxbGlZMlV1NEFCdVVlZzFBdWVPNEZHTFRVdGdpYjF5eXp5aUJpRlJWU3RnQ1UtekZEd1d0bXJqNGowTWg1R2ZVMEh2MTdhR0dJRjlmajRTN0pRY0Q2bGw2SUtoTXFCb1FKT0dtLVJ6SHBQUQ&q=https%3A%2F%2Famzn.to%2F3DIy7oA&v=9wdC2UVOsxc)
@@ -2524,14 +2802,18 @@
     * [An Introduction to the Language of Mathematics](http://libgen.is/book/index.php?md5=B120994211DE8FFB1834C0273A5D5CBE)
     * [An Introduction to the Language of Category Theory](http://libgen.is/book/index.php?md5=C80DAFD46FB800CB18E98E2003D3ED64)
 
+
     ¿Es Dios un matemático? (Livio)
+
 
     17 ecuaciones que cambiaron el mundo
     * [30-second Math](https://vk.com/doc35528094_488593007?hash=83e49d043c25a78b27&dl=af29142567e2ad5da1)
     * [How Not to Be Wrong: The Power of Mathematical Thinking: Jordan Ellenberg: 9780143127536: Amazon.com: Books](https://www.amazon.com/How-Not-Be-Wrong-Mathematical/dp/0143127535)
     * [Taschenbuch der Mathematik](https://libgen.is/search.php?req=taschenbuch+der+mathematik&open=0&res=25&view=simple&phrase=1&column=def%20%20%20Inviato%20da%20iPhone)
 
+
     Training Mathematik (Severin)
+
 
     Uniciencia (Geometría, Aritmética. Álgeba, Trigonometría)
     * [Гай Я.Г., Головач Г.П. Анти Демидович (решебник по высшей математике) 5 частей - Studmed.ru](http://www.studmed.ru/gay-yag-golovach-gp-anti-demidovich-reshebnik-po-vysshey-matematike-5-chastey_0fecea46523.html)
@@ -2539,49 +2821,66 @@
     * [Общие и специальные справочники и энциклопедии по математике | ИКФИА СО РАН](https://ikfia.ysn.ru/obshhie-i-spetsialnye-spravochniki-i-entsiklopedii-po-matematike/)
     * [Список книг о математике](https://vk.com/wall288014859_1647)
 
+
     - -> Bücher über MAthematik für Amateure/Nicht-Experten (für Vergnügen und Wertschätzung)
 
+
     - [** Mathematics for Programers](https://yurichev.com/writings/Math-for-programmers.pdf)
+
 
     Abenteuer MAthematik - Brücken zwischen Wirklichkeit und Fiktion
     * [Abenteuer Mathematik: Brücken zwischen Wirklichkeit und Fiktion, 5. Auflage | Pierre Basieux | download](https://b-ok.cc/book/1258420/84b973)
     * [The Complete Book of Fun Maths: 250 Confidence-boosting Tricks, Tests and Puzzles](https://b-ok.cc/book/2460330/336c4d)
     * [A history of mathematics](https://b-ok.cc/book/573249/147e5f)
 
+
     Bezaubernde Beweise
+
 
     books: mathematics for bioinformatics
     * [CRC concise encyclopedia of mathematics](https://b-ok.cc/book/2351596/7f6cd1)
     * [D'où viennent les mathématiques? Corps, esprit, et imaginaire humain: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/?q=D%27o%C3%B9+viennent+les+math%C3%A9matiques%3F+Corps%2C+esprit%2C+et+imaginaire+humain&yearFrom=&yearTo=&language=&extension=&t=0)
     * [Da dove viene la matematica: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/?q=Da+dove+viene+la+matematica&yearFrom=&yearTo=&language=&extension=&t=0)
 
+
     Das chinesische Dreieck
+
 
     Der Mathe-Gen
 
+
     Der Mathe-Instinkt
 
+
     Die Top Ten der schönsten mathematischen Schätze
+
 
     Ein Himmel voller Zahlen
     * [Facts on File Dictionary of Allusions](https://vk.com/doc180290632_424862124?hash=240ba7c4c4f2353f20&dl=7ead0c88395eff0c3d)
     * [Formeln](https://libgen.is/search.php?req=mathematische+formeln&open=0&res=25&view=simple&phrase=1&column=def)
 
+
     Grundbegriffe der wissenschaftlichen Mathematik
     * [Introduction to Mathematica® for Physicists_Andrey Grozin_2014](http://link.springer.com/openurl?genre=book&isbn=978-3-319-00894-3)
 
+
     Kleines Handbuch der Maße, Zahlen, Gewischte, und der Zeitrechnung
+
 
     Können Hunde rechnen?
 
+
     Konturen einer Geistesgeschichte der Mathematik
 
+
     Le livre des métaphores
+
 
     Math Dictionary with Solutions
     * [Mathe und Gott und die Welt](https://libgen.is/book/index.php?md5=A378514E3CBAF3B2688E91FBAC1FE6BF)
     * [Mathebücher](https://vk.com/wall-62883091_122299)
     * [mathemagical magic show](http://libgen.io/search.php?req=+mathematical+magic+show&open=0&res=25&view=simple&phrase=1&column=def)
+
 
     Mathematical Fundamentals for Microeconomics
     * [Mathematical Physics_Sadri Hassani_2nd ed. 2013](http://link.springer.com/openurl?genre=book&isbn=978-3-319-01195-0)
@@ -2589,29 +2888,40 @@
     * [Mathematics for Economists](http://libgen.io/search.php?req=Mathematics+for+Economists&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
     * [Mathematics for Informatics and Computer Science](https://vk.com/doc15530718_438393491?hash=c711c68f9521648055&dl=ac5bc7331b9edf1024)
 
+
     Mathematik durch die Hintertür
     * [Mathematik ist wunderschön](https://libgen.is/search.php?req=mathematik+ist+wundersch%C3%B6n&open=0&res=25&view=simple&phrase=1&column=def)
 
+
     Mathematik ist wunderschön
+
 
     Mathematische Leckerbissen
 
+
     Mathematische Schätze (Stewart)
 
+
     Mathematisches Sammelsurium
+
 
     Meilensteine der Mathematik
     * [Methods of Mathematical Modelling_Thomas Witelski, Mark Bowen_1st ed. 2015](http://link.springer.com/openurl?genre=book&isbn=978-3-319-23042-9)
 
+
     Natur und Zahl
     * [Oxford Dictionary of Phrase and Fable](https://vk.com/doc525831385_498289031?hash=2e317a942fbdb7ca50&dl=576aa4dcd5ef5802cc)
 
+
     Oxford User's Guide to Mathematics
+
 
     Perlen der Mathematik
     * [Proofs from THE BOOK_Martin Aigner, Günter M. Ziegler_6th ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-662-57265-8)
 
+
     Warum die Welt mathematisch ist
+
 
     Warum Mathematik glücklich macht
     * [За страницами учебника математики 5-6 классы Виленкин, Депман.DjVu](https://vk.com/doc44301783_518614271?hash=5cefce6faf067ce25b&dl=6eafa48ee6d4553b25)
@@ -2625,21 +2935,30 @@
     * https://b-ok.cc/s/?q=schaum%27s+outline
     * [Mathematics and the Historian's Craft](https://libgen.is/book/index.php?md5=0C5849494D968763546BC47C1D1EF991)
 
+
     Catastrophe Theory ( Vladimir Igorevich Arnold ). Springer-Verlag 1986
+
 
     Mathematics for 3D Game Programming & Computer Graphics ( Eric Lengyel ), 2nd edition. Charles River Media 2004
 
+
     The World of Mathematics: A Four-Volume Set ( James Newman editor ). Simon and Schuster 1956
+
 
     Как математика ум в порядок приводит, Столяр, А.А. (1991)
 
+
     Карты метро и нейронные сети: Теория графов - Альсина К. (2014)
+
 
     Лекции по математике. Линейная алгебра - Босс В. (2005)
 
+
     Математика. Иллюстрированная история (Том Джексон)
 
+
     Творчество в математике. По каким правилам ведутся игры разума (М. Альберти)
+
 
     Укрощение бесконечности: История математики от первых чисел до теории хаоса (Иэн Стюарт)
     * [Algèbre - Chapitres 1 À 3 - Sciences appliquées | Rakuten](https://fr.shopping.rakuten.com/offer/buy/59490897/Bourbaki-Nicolas-Elements-De-Mathematique-Algebre-Chapitres-1-A-3-Livre.html)
@@ -2671,15 +2990,21 @@
     * [booklooker.de: antiquarische und gebrauchte Bücher kaufen und verkaufen, Hörbücher, CDs, Filme und Spiele](https://www.booklooker.de/app/priv/deals_show.php)
     * [My Purchases](https://www.abebooks.com/servlet/BuyerOrderTrackPL)
 
+
     Mathematics and Culture VI (Springer)
+
 
     Great Circles (Springer)
 
+
     Islamic Design: A Mathematical Approach (Springer)
+
 
     Symmetry (Springer)
 
+
     Aesthetics of Interdisciplinarity: Art and Mathematics (Springer)
+
 
     A History of Folding in Mathematics (Springer)
     * [The Math Book (Big Ideas Simply Explained) | DK Publishing | download](https://b-ok.cc/book/5248263/a5f3ae?dsource=mostpopular)
@@ -2689,7 +3014,8 @@
     * [Analysis 2: Differentialrechnung im IRn, gewöhnliche Differentialgleichungen](http://library.lol/main/A72CF06463A564F9D75969ABD571EE14)
     * [Geometría sagrada](http://libgen.rs/book/index.php?md5=31F31C1F839955C5CBDBA79078CE26CF)
 
-- General
+
+* General
     
     Vocab / Glossaries / References
     * [MIT OCW Notes](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06)
@@ -2711,6 +3037,7 @@
     * [Cliffs Notes](https://www.cliffsnotes.com/study-guides/algebra/linear-algebra)
     * [Cheat Sheet Boxes](https://www.cheatography.com/spoopyy/cheat-sheets/linear-algebra/)
 
+
     Videos / Courses
     * [Geometry of Linear Algebra](https://www.youtube.com/playlist?list=PL18D92B0C2180FC87)
     * [MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
@@ -2721,45 +3048,63 @@
     * [Khan PT](https://pt.khanacademy.org/math/linear-algebra)
     * [Khan IT](https://it.khanacademy.org/math/linear-algebra)
 
+
     
             * [Corso di algebra](https://www.youtube.com/playlist?list=PLGP5S-GoOOU5YTD8DDRHkTr3osKzHsrUy)
+
 
     
     
         
     Intro to Deep Learning - Math References
 
+
     1. J.R. Hindley, J.P. Seldin, Lambda-Calculus and Combinators: An Introduction (Cambridge University Press, Cambridge, 2008)
+
 
     2. G.S. Boolos, J.P. Burges, R.C. Jeffrey, Computability and Logic (Cambridge University Press, Cambridge, 2007)
 
+
     3. P. Renteln, Manifolds, Tensors, and Forms: An Introduction for Mathematicians and Physicists (Cambridge University Press, Cambridge, 2013)
+
 
     4. R. Courant, J. Fritz, Introduction to Calculus and Analysis, vol. 1 (Springer, New York, 1999)
 
+
     5. S. Axler, Linear Algebra Done Right (Springer, New York, 2015)
+
 
     6. P.N. Klein, Coding the Matrix (Newtonian Press, London, 2013)
     * [7. H. Pishro-Nik, Introduction to Probability, Statistics, and Random Processes (Kappa Books Publishers, Blue Bell, 2014)](https://www.probabilitycourse.com/)
 
+
     8. D.P. Bertsekas, J.N. Tsitsiklis, Introduction to Probability (Athena Scientific, Nashua, 2008)
+
 
     9. S.M. Stigler, Laplace’s 1774 memoir on inverse probability. Stat. Sci. 1, 359–363 (1986)
 
+
     10. A. Hald, Laplace’s Theory of Inverse Probability, 1774–1786 (Springer, New York, 2007), pp. 33–46
+
 
     11. W. Rautenberg, A Concise Introduction to Mathematical Logic (Springer, New York, 2006)
 
+
     12. D. van Dalen, Logic and Structure (Springer, New York, 2004)
+
 
     13. A.M. Turing, On computable numbers, with an application to the Entscheidungsproblem. Proc. Lond. Math. Soc. 42(2), 230–265 (1936)
 
+
     Linear Algebra
+
 
         
     Properties of a determinant:
 
+
     Other resources:
+
 
     
     
@@ -2767,9 +3112,12 @@
         
     Determinant as a linear transformation
 
+
     Trace:
 
+
     Matrix multiplication as the composition of linear transformations
+
 
         * [MATH](https://www.ams.org/open-math-notes)
     * [Best path](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1)
@@ -2778,15 +3126,19 @@
     * [Springer Undergraduate Series](https://www.springer.com/series/3423?detailsPage=titles)
     * [Sally Series](https://bookstore.ams.org/AMSTEXT)
 
+
         * [Wikipedia](https://en.wikipedia.org/wiki/Mathematics)
     * [Vieweg Studium](https://www.springer.com/series/12474)
 
+
     BYU Bachelor's Degree Math
+
 
     BYU Bachelor's Degree Stats
     * [Awesome Math](https://github.com/rossant/awesome-math)
     * [WIMS](https://wims.unicaen.fr/wims/wims.cgi?lang=en&+session=S4C38F1B27.1)
     * [Math Inshight](https://mathinsight.org/)
+
 
     What is the general algorithm for computing the SVD?
     * [Best](https://fenix.tecnico.ulisboa.pt/downloadFile/3779576344458/singular-value-decomposition-fast-track-tutorial.pdf)
@@ -2800,12 +3152,15 @@
     * [Differentiating SVD](https://drive.google.com/viewerng/viewer?url=https://j-towns.github.io/papers/svd-derivative.pdf)
     * [Parallel SVD](http://www.cs.csi.cuny.edu/~gu/teaching/courses/csc76010/slides/SVD%20by%20Jiaxing.pdf)
 
+
     How should I think about the 4 fundamental subspaces?
     * [Blog Post](https://www.itshared.org/2015/06/the-four-fundamental-subspaces.html)
+
 
     How to create a beginning-to-end simple ANN from scratch?
     * [Best (incl. theory)](http://www.cristiandima.com/neural-networks-from-scratch-in-python/)
     * [Welch](https://github.com/stephencwelch/Neural-Networks-Demystified?files=1)
+
 
     
     
@@ -2813,7 +3168,9 @@
     * [Great one](https://thecodacus.com/neural-network-scratch-python-no-libraries/)
     * [Decent Example KDNuggets](https://www.kdnuggets.com/2018/10/simple-neural-network-python.html)
 
+
     How can I describe mathematically everything under the hod in an ANN?
+
 
     
             * [Beginner Guide to Math of NN](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf)
@@ -2822,16 +3179,22 @@
     * [CL Book Backprop](http://neuralnetworksanddeeplearning.com/chap2.html)
     * [Great overview](http://home.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html)
 
+
         
     How can I create my own NN in Tensorflow?
 
+
             * [Good Ng Video on Backprop](https://www.youtube.com/watch?v=x_Eamf8MHwU)
+
 
     What is the general algorithm for computing the eigendecomposition?
 
+
     What is the general algorithm for computing the Q-R decompostion?
 
+
     What is the general algorithm for computing the LU decomposition?
+
 
     General:
     * [Great Blog](https://medium.com/@madhusanjeevi.ai)
@@ -2842,6 +3205,7 @@
     * [~Same Blog](https://medium.com/deep-math-machine-learning-ai)
     * [Vector/Matrix/Tensor Derivatives](http://cs231n.stanford.edu/vecDerivs.pdf)
 
+
             * https://es.wikipedia.org/wiki/Matem%C3%A1ticas
     * [Introductory Mathematics: Algebra and Analysis (Springer Undergraduate Mathematics Series): free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/?q=Introductory+Mathematics%3A+Algebra+and+Analysis+%28Springer+Undergraduate+Mathematics+Series%29)
     * [Маткульт-привет! :: Алексей Савватеев и Ко](https://youtube.com/c/%D0%9C%D0%B0%D1%82%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82)
@@ -2850,10 +3214,12 @@
     * [Learn Mathematics from START to FINISH - YouTube](https://www.youtube.com/watch?v=pTnEG_WGd2Q)
     * [Mathématiques pour les sciences cognitives : Avec des applications aux réseaux de neurones, au traitement du signal, à l'imagerie cérébrale et à la statistique](http://library.lol/main/072F9BEF8ABB802A90CE0EB83E1E9A92)
 
+
     Proposals for improved math education - more engaging, more immediately (and eventually) relevant for everyday life, more "mathematical" (set theory, abstract algebra) → state of current discourse and research
     * [Von Neumann, Morgenstern, and the Creation of Game Theory: From Chess to Social Science](https://email.mg2.substack.com/c/eJxVkU1v5CAMhn9NOEZgGAIHDpWqkXrppbvniIAnRU0gAtJR9tcvmbm0kmWQv17rsbMV55QPs6VSyenGemxoIt7LgrViJnvBPAZvmFYMBBBvhGfqokgo4y0jrjYspuYdybZPS3C2hhQfDYJxQT6N1JLDADhouF0QuAQhwQ1egtbcD_CUtbsPGB0a_MZ8pIhkMZ-1bqXjLx1cm93v996u9l-KvUtrC8xbc1tOfne1_Rijg6Qa5HDW82vAjr_-_XNVHchmLmNb7fsMag6X38GXj7f3lvg5QpJggAKjHCRQprnuWe-l0hNVzMGNWi68xUHp22VCJwBB007QdYa-7FOp1n2di5JsQrHW9bnPYcGjlcwns0euIRvbu-4x1GPEaKcF_ZNmfd7kwXecMWJut_KjrYZJJpusVqCUfNJruLngilIFpIn71LqicTbWlMtms_Wh4H_P452O)
     * [The History of Game Theory, Volume I: From the beginnings to 1945](https://email.mg2.substack.com/c/eJxVUctu5CAQ_BpztKDBBA4cIkUj5bKX3T1bGNoOig0W4Iycrw-euexKrQZVP6pU7WzFJeXT7KlUcqWxnjuaiPeyYq2YyVEwj8EbphUDAcQb4ZkaFAllnDPiZsNqaj6Q7Me0BmdrSPExIBgX5MPYARWbuRxwoOBBMOeGFw_zrKfZ69byoLWHDxgdGvzCfKaIZDUfte6l468d3Frc7_febvY7xd6lrQHL3tKekz9cbT_GuKJUSgpXP78F7Pjb3z831YFs4TI2aV8XqDkM_4Ovv99_tcK_KyQJBigwykECZZrrnvVeKj1RxRzM1HLhLb4oPQ8TOgEImnaCbgv05ZhKte7zEkqyCcVa1-c-hxXP1rJcnj1qzbKxvdsRQz1HjHZa0T_drM-bPPwdF4yY2638aKthkslGqxUoJZ_uNbu5uLQrII3cpzYVjbOxplx2m60PBX8Ai4Oesw)
     * [John von Neumann’s Minimax Theorem](https://cantorsparadise.substack.com/p/john-von-neumanns-minimax-theorem?token=eyJ1c2VyX2lkIjoxOTgxMjQyLCJwb3N0X2lkIjozNDM4MDA4MiwiXyI6Im9PSytZIiwiaWF0IjoxNjE3MzEyNzIwLCJleHAiOjE2MTczMTYzMjAsImlzcyI6InB1Yi0xNDEzNCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.cTyQLU1_5HUzmdohmfVNi4MGr27wCcw-vOVr3eC3MXU)
+
 
     Zur Theorie der Gesellschaftsspiele
     * [Tom Fischer](https://youtube.com/channel/UCWO67vdv2pku9ZH7Kk2KzYQ)
@@ -2875,51 +3241,73 @@
     * [9. Group Theory](https://medium.com/cantors-paradise/group-theory-a2fec559d78c)
     * [10. The Riemann Hypothesis, Explained](https://medium.com/cantors-paradise/the-riemann-hypothesis-explained-fa01c1f75d3f)
 
+
     10. The Unparalleled Genius of John von Neumann
+
 
     9. How Richard Feynman Reinvented Quantum Mechanics
 
+
     8. Gödel’s Constitutional Quarrel
+
 
     7. Infinity in Numbers - Leonard Euler
 
+
     6. How They Estimated the Distance to the Moon
+
 
     5. 1988 IMO Question Six
 
+
     4. What, Exactly, is Entropy?
+
 
     3. The Long Fight for Gravity
 
+
     2. The Most Beautiful Equation in the World
+
 
     1. The Ramanujan Summation: 1 + 2 +3 + … + ∞ =-1/12?
 
+
     Cantor's Paradise: The Gödel essays
+
 
     How Richard Feynman Reinvented Quantum Theory’ by Marco Tavora
 
+
     ‘The Mind-Boggling Properties of the Alternating Harmonic Series’ by Isabelle Flückiger
+
 
     ‘Wittgenstein Didn’t Absolutely Agree with Gödel’s Theorems and Russell’s Paradox’ by Alexander Bird
 
+
     ‘Nature Isn’t Fuzzy: Quantum Uncertainty, Inconsistency and Paradox’ by Paul Austin Murphy
+
 
     ‘The Beautiful World of Complex Functions’ by Kasper Müller
 
+
     ‘The Probabilistic Method’ by Dr. Robert Kübler
+
 
     ‘Chess and Mathematics’ by Cole Persch
 
+
     ‘A Misfortunate Genius’ — Évariste Galois’ by Areeba Merriam
+
 
     ‘A Single Equation that Rules the World’ by Samrat Dutta
     * [How to learn pure mathematics on your own: a complete self-study guide - YouTube](https://www.youtube.com/watch?v=fo-alw2q-BU)
     * [MML book](https://mml-book.github.io/)
 
-- Links
+
+* Links
         * [List of websites, ebooks, downloads, etc. for mobile users and people too lazy to read the sidebar. : learnmath](https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/)
     * [Free (and legal) mathematics textbooks](https://www.reddit.com/r/mathbooks)
+
 
     - > algèbre linéaire: free download. Ebooks library. On-line books store on Z-Library
     * [Kenneth Kuttler - excellent books](https://klkuttler.com/)
@@ -2932,7 +3320,8 @@
     * https://news.ycombinator.com/item?id=16750789
     * [Ian Stewart Books](https://b-ok.cc/g/Ian%20Stewart)
 
-- Allgemeine Seiten
+
+* Allgemeine Seiten
         * https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks
     * https://betterexplained.com/
     * http://www.math.utah.edu/~pa/math.html
@@ -2980,14 +3369,17 @@
     * http://mathworld.wolfram.com/
     * https://cunymath.commons.gc.cuny.edu/for-students/web/
 
+
         * http://www.wikimatematica.org/index.php?title=P%C3%A1gina_Principal
+
 
     
             * https://www.math.tugraz.at/~ganster/teaching.html#archiv
     * [Milefoot Mathematics](http://www.milefoot.com/math/index.htm)
     * [Personal Homepage of Oswald Riemenschneider](https://www.math.uni-hamburg.de/home/riemenschneider/)
 
-- Strang
+
+* Strang
         * [Teaching Mathematics Online - Gilbert Strang](https://www.youtube.com/watch?v=9IZfzPZ5k3A)
     * [Mathematics of Signal Processing - Gilbert Strang](https://www.youtube.com/watch?v=c4s5X-Bm2Wc)
     * [Finite element method - Gilbert Strang](https://www.youtube.com/watch?v=WwgrAH-IMOk)
@@ -3276,20 +3668,25 @@
     * [Differential Equations of Growth | MIT Highlights of](https://www.youtube.com/watch?v=IDo4uPyqQbQ&list=PLiDh_aMfNpJxfrgxyPX4ltE4xGUgtKOIJ&index=17) Calculus
     * [Six Functions, Six Rules, and Six Theorems | MIT Highlights of](https://www.youtube.com/watch?v=LgWFurXHX8U&list=PLiDh_aMfNpJxfrgxyPX4ltE4xGUgtKOIJ&index=18) Calculus
 
-- Algebra Reading
+
+* Algebra Reading
         * [Read & work through Abstract Algebra An Introductory Course](https://drive.google.com/file/d/11d6M_CsywEJpksLSTLoGFOX28K0s2bz9/view?usp=sharing)
     * https://www.math.uni-tuebingen.de/user/keilen/download/LectureNotes/algebraicstructures.pdf
     * https://www.math.uni-tuebingen.de/de/forschung/algebra/personen/prof-dr-thomas-markwig/lehre
     * https://www.math.uni-tuebingen.de/user/keilen/download/LectureNotes/algebra19.pdf
     * [ОБЩАЯ АЛГЕБРА. Основные понятия и математическая красота](https://youtu.be/xvl9mYYBXC4)
 
+
     Michael Artin: Algebra
     * [Structures algébriques](https://youtube.com/playlist?list=PLNefH6S6myiMFlgsEIGHb8KZaLKE2eAZQ)
     * https://www.math.uni-tuebingen.de/user/keilen/download/LectureNotes/algebra19.pdf
 
+
     Algebra I-III (Cohn)
 
+
     Classic Algebra (Cohn)
+
 
     Basic Algebra: Groups, Rings and Fields
     * [Hassediagramme (Teil 1)](https://www.youtube.com/watch?v=nD8ErWgj5Ac&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=79)
@@ -3303,6 +3700,7 @@
     * https://www.youtube.com/results?search_query=structures+algebriques&sp=EgIQAw%253D%253D
     * https://www.youtube.com/results?sp=EgIQAw%253D%253D&search_query=estructuras+algebraicas
     * [Algebra](https://b-ok.cc/book/4972303/023188)
+
 
             * [(Abstract Algebra 1) Definition of Cosets](https://youtu.be/CI_gSmnmKQk)
     * [$$$ Verknüpfungsgebilde, Verknüpfungen Teil 1, Definition, Vorübung zu Gruppen - YouTube](https://www.youtube.com/watch?v=vrh1y9bwhls&list=PLLTAHuUj-zHgrxnm5NRR_vXH-pJ9ZrrvD)
@@ -3322,10 +3720,12 @@
     * [Высшая алгебра | Николай Вавилов](https://www.youtube.com/watch?v=bIW4g6NhmnM&list=PL-_cKNuVAYAWNayB696aQFTPcP6HiIC1c)
     * [Компьютерная алгебра](https://www.lektorium.tv/node/32988)
 
+
     Современная алгебра
     * [Abstract Algebra](https://bookstore.ams.org/amstext-9/)
     * [Algebra](https://bookstore.ams.org/amstext-11/)
     * [Algebra in Action: A Course in Groups, Rings, and Fields](https://b-ok.cc/book/3389433/f3bbaa)
+
 
     Groups, Matrices, and Vector Spaces: A Group Theoretic Approach to Linear Algebra
     * [Michael Eisermann - Vorlesung über Algebra - SoSe 2010](https://pnp.mathematik.uni-stuttgart.de/igt/eiserm/lehre/2010/Algebra/)
@@ -3362,6 +3762,7 @@
     * [Algebra II: Unter Benutzung von Vorlesungen von E. Artin und E. Noether | Dr. B. L. van der Waerden (auth.) | download](https://b-ok.cc/book/2126641/e9109f)
     * [Algebraic coding survey](https://b-ok.cc/book/437598/8077d8)
 
+
     Algebraic Structures: Groups, Rings, and Fields
     * [Ça fait longtemps, donc petit thread sur une propriété assez intéressante des polynômes !](https://twitter.com/Crimir4/status/1291628583241252865?s=20)
     * [Complex Numbers from A to...Z | Titu Andreescu, Dorin Andrica | download](https://b-ok.cc/book/446979/f45594?dsource=recommend)
@@ -3380,49 +3781,63 @@
     * [Modular arithmetic RU](https://vk.com/wall-148115211_29793)
     * [non-linear trnasformations](https://b-ok.cc/s/?q=non-linear+transformations%20%20%20Inviato%20da%20iPhone)
 
+
     nonlinear transformations
     * [On quaternions and octonions: their geometry, arithmetic and symmetry | John Horton Conway, Derek Smith | download](https://b-ok.cc/book/439682/99cbf1?dsource=recommend)
     * [proof of Euler's Theorem in complex numbers](https://math.stackexchange.com/questions/1936296/proof-of-eulers-theorem-in-complex-numbers/1936327)
     * [Structural theory of automata, semigroups, and universal algebra](https://b-ok.cc/book/437481/f5ac96)
     * [Structures algébriques 2 : Anneaux et Corps](https://www.youtube.com/watch?v=-ZnzKX0I6B8&list=WL&index=468)
 
+
     Theory and Problems of Complex Variables
+
 
             * [What does i^i = ?](https://www.youtube.com/watch?v=9tlHQOKMHGA&list=WL&index=477)
 
+
     Высшая математика. Алгебра: введение в теорию групп
+
 
     Высшая математика. Алгебра: введение в теорию групп / СПбГУ
     * [Übungen zur Algebra: Aufgaben - Lösungen - Probeklausuren](https://b-ok.cc/book/2356488/d39faf)
     * [Álgebra - Estructuras algebraicas](https://www.youtube.com/playlist?list=PLj76mybKbu4KYkK9oIgK6bWRYtRdhyfJF)
 
+
     A Concrete Introduction to Higher Algebra
     * [Algebra | Siegfried Bosch](https://b-ok.cc/book/686446/d0c39b)
     * [Algebra_Serge Lang_3rd ed. 2002](http://link.springer.com/openurl?genre=book&isbn=978-1-4613-0041-0)
 
+
     Abstract Algebra (Robinson)
     * [Abstract Algebra_Gregory T. Lee_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-77649-1)
 
+
     Álgebra (Baldor)
+
 
     Algebra (Karpfinger, Neyberg)
 
+
     Álgebra y análisis de funciones
+
 
     Applied Abstract Algebra
     * [Computational Arithmetic of Modular Forms (Modulformen II)
             * [Lecture notes]](http://93.174.95.29/_ads/C2FC85220C60DDE7B37D05365A53D577)
 
+
     Concrete Abstract Algebra
     * [Finite fields and modular arithmetic, tutorial](http://93.174.95.29/_ads/B58068314FC814EC15B95ABA0C450639)
     * [Group Theory_Mildred S. Dresselhaus, Gene Dresselhaus, Ado Jorio_2008](http://link.springer.com/openurl?genre=book&isbn=978-3-540-32899-5)
+
 
     Lehrbuch der Algebra (Fischer)
     * [Mathematical structures for computer science | Search | HBLL](https://search.lib.byu.edu/byu/record/lee.3710409?holding=d3dxiojz7sqlcyrw)
     * [Michael Artin](https://b-ok.cc/g/Michael%20Artin)
     * [Курс алгебры (Винберг)](https://b-ok.cc/book/2624521/0dd561)
 
-- Logic & Proof Reading
+
+* Logic & Proof Reading
         * [Grenzen der Mathematik: Eine Reise durch die Kerngebiete der mathematischen Logik](https://b-ok.org/book/920685/5d553b)
     * https://proofwiki.org/wiki/Main_Page
     * https://de.wikibooks.org/wiki/Beweisarchiv
@@ -3433,10 +3848,12 @@
     * [Higher-order logic - Wikipedia](https://en.wikipedia.org/wiki/Higher-order_logic)
     * [https://ru.hexlet.io/courses/logic](https://www.youtube.com/redirect?q=https%3A%2F%2Fru.hexlet.io%2Fcourses%2Flogic&redir_token=OofVtG3MBtYKF8FVLlFpPLQZXRJ8MTUyOTE5MzI2NUAxNTI5MTA2ODY1&v=eXI_TFW5Cdo&event=video_description)
 
+
     - [**Proofs and Refutations: The Logic of Mathematical Discovery | Imre Lakatos; John Worrall, Elie Zahar (eds.) | download](https://b-ok.cc/book/2864005/a4a9bb)
     * [$$$ Induktionsbeweis einfach erklärt ● Gehe auf SIMPLECLUB.DE/GO & werde #EinserSchüler - YouTube](https://www.youtube.com/watch?v=wbD35N4N4lI)
     * [$$$ Mathematical induction - Wikipedia](https://en.wikipedia.org/wiki/Mathematical_induction)
     * [Beweise und Widerlegungen: Die Logik mathematischer Entdeckungen | Imre Lakatos (auth.), John Worrall, Elie Zahar (eds.) | download](https://b-ok.cc/book/2127569/47fa88)
+
 
     Die Sprache der Mathematik (Vorkurs Mathematik)
     * [HANS LOGIK 1](https://www.ims.uni-stuttgart.de/document/team/hans/NotesLog2Ch1.pdf)
@@ -3452,8 +3869,10 @@
     * [Logik Vorlesung 1: Einführung - PDF Kostenfreier Download](https://docplayer.org/22636217-Logik-vorlesung-1-einfuehrung.html)
     * [mat logika](https://vk.com/wall-104184663_51701)
 
+
     Tales of Impossibiility
     * [The Foundations of Mathematics | Kenneth Kunen | download](https://b-ok.cc/book/2715132/c21dfc)
+
 
     The Language of Logic
     * [Verblüfft?!: Mathematische Beweise unglaublicher Ideen | Julian Havil (auth.) | download](https://b-ok.cc/book/689705/27e818)
@@ -3461,15 +3880,20 @@
     * [Vollständige Induktion - Aufgabe 2 -Summe der ungeraden Zahlen](https://www.youtube.com/watch?v=fneHyNl6Uaw&list=WL&index=376)
     * [Wahrheit, Beweis, Unendlichkeit: Eine mathematische Reise zu den vielseitigen Auswirkungen der Unendlichkeit | John Stillwell (auth.) | download](https://b-ok.cc/book/2355214/fc62d0)
 
+
     Аудиокнига "Логика" (С. Н. Виноградов и А.Ф. Кузьмин)
+
 
     Введение в логику, урок 1: Базовые понятия
     * [Введение в модальную логику](https://www.youtube.com/watch?v=23AyLqv0gHM&list=PL-_cKNuVAYAUTUOQyCm9qFofWGvoIj2_O)
     * [Вычислимость и логика](https://www.youtube.com/watch?v=hyU0Zz34HUk&list=PL-_cKNuVAYAXQjc8L03DoYOYNR0BverAJ)
 
+
     Какую власть дает логика - [Логика #1]
 
+
     Логика и эпистемология. Лекция 1. Логика Аристотеля Александр Пустовит. Что такое логика?
+
 
     Логика. Основы Логики. Логическое Мышление
     * [Матлогика](https://vk.com/wall-16108331_152562)
@@ -3478,15 +3902,19 @@
     * [Удивительные примеры логики](https://www.youtube.com/watch?v=z5-EEkgnvAY&list=WL&index=173)
     * [Уд Примеры Логики](https://www.youtube.com/watch?v=z5-EEkgnvAY)
 
-- Logic & Proofs Books
+
+* Logic & Proofs Books
     
     Das Spiel der Logik
+
 
     Der Logikverführer
     * [Introduction to Logic](http://library.lol/main/A7BCC4F5E0EBF9592D94144F1E6E8621)
 
+
     Libro lógica
     * [Logic Made Easy (Bennett)](https://vk.com/doc4605748_467697100?hash=dd970c3a3cd181fed4&dl=9082c6d1e9f50aeb9a)
+
 
     Logik und Algebra
     * [Mathematical Logic_Roman Kossak_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-97298-5)
@@ -3497,7 +3925,8 @@
     * [smullyan logic](https://b-ok.cc/s/?q=smullyan+logic&order=year)
     * [Логика (Книги по логике) | Physics.Math.Code.Books](https://vk.com/topic-51126445_37403930)
 
-- Econometrics Models
+
+* Econometrics Models
     
     
     | OLS |  |  |
@@ -3616,66 +4045,90 @@
     | Percentage Regression |  |  |
     |  |  |  |
     |  |  |  |
-- Econometrics Notes
+* Econometrics Notes
     
     Review 24.2.16
 
+
     - How do we show that GLS doesn’t affect A0? (proof that GLS is blue)
+
 
     - What does RESET look like? To which side do we add y^2 and y^3?
 
+
     - Why does the covariance of x and uhat entail self-confirming, circular reasoning?
 
+
     - What does the F-test look like?
+
 
         
     Welche sind die 5 Bedingungen, die wir studiert haben?
 
+
     Wannstimmen sie nicht?
+
 
     Welche Probleme verursacht das?
 
+
     Wie testet man, ob sie stimmen?
+
 
     Wie verbessert man die Probleme?
 
+
     Wie lautet der Statasyntax?
+
 
         
     Preliminarios estadísticos
 
+
     Stochastik
     * [Statistische und klassische Definition von „Wahrscheinlichkeit”](http://www.math.uni-bremen.de/didaktik/ma/ralbers/Veranstaltungen/Stochastik07/Material/Linden13_20.pdf)
     * [Wahrscheinlichkeit](https://de.wikipedia.org/wiki/Wahrscheinlichkeit)
+
 
     Bayes
     * [Teorema di Bayes](https://it.wikipedia.org/wiki/Teorema_di_Bayes)
     * [il teorema di Bayes](http://dctf.uniroma1.it/galenotech/bayes.htm)
     * [ERRORI COGNITIVI, PROBABILITÀ E DECISIONE MEDICHE](http://www.bayes.it/pdf/ECPEDM.pdf)
 
+
     
     Libros:
 
+
     Pemberton y Rau, 11
+
 
     Wooldridge, Ap.
 
+
     Heer y Maussner, Ap.
+
 
     Fitzpatrick, Ap.
 
+
     Mas-Colell, M
 
+
     Simon y Blume 7,8,9,23,26,2728,A5
+
 
         
     Mathématiques et statistique pour les sciences de la nature
 
+
         
     Otros temas / a leer
 
+
     Data Mining
     * [Data Mining (RU)](http://www.intuit.ru/studies/courses/6/6/info)
+
 
     zum Lesen/Anschauen
     * [Algebraic formula for the variance](https://en.wikipedia.org/wiki/Algebraic_formula_for_the_variance)
@@ -3699,18 +4152,23 @@
     * [HOW DO I INTERPRET ODDS RATIOS](http://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-how-do-i-interpret-odds-ratios-in-logistic-regression/)
     * [YouTube анализ данных](https://www.youtube.com/results?search_query=%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
 
+
         
     Recursos Generales
+
 
     Ökonometrik
     * [Econometrics Academy](https://sites.google.com/site/econometricsacademy/)
     * [econometricsacademy](https://www.youtube.com/channel/UCAN7taaPrBLX2LiWbFmJZfw)
     * http://wlm.userweb.mwn.de/Ilmes/
 
+
     Ök. allgemeines Lesematerial
     * [An Introduction to Econometrics : A Self-Contained Approach](http://site.ebrary.com/lib/byuprovo/detail.action?docID=10762926)
 
+
         * [Ökonometrie Saarland](http://www.oekonometrie.uni-saarland.de/oekonometrie/)
+
 
         * [guideEconometrieAppliquee](http://sceco.umontreal.ca/fileadmin/Documents/FAS/sciences-economiques/Documents/3-Ressources-services/Ressources-formulaires/guideEconometrieAppliquee.pdf)
     * [Econométrie approfondie](http://users.skynet.be/fa560029/pdf/Cours%20jusque%20p122.pdf)
@@ -3736,6 +4194,7 @@
     * [Économétrie](https://www-perso.gate.cnrs.fr/fournier/Notes_de_cours/Econometrie/)
     * http://www.statisticssolutions.com/directory-of-statistical-analyses/
 
+
             * [Einführung](https://www.uibk.ac.at/econometrics/einf/kap01.pdf)
     * [Marginale Effekte & nichtlineare Funktionsformen](https://www.uibk.ac.at/econometrics/einf/kap03.pdf)
     * [Eigenschaften von OLS-Sch¨atzfunktionen](https://www.uibk.ac.at/econometrics/einf/kap04.pdf)
@@ -3747,8 +4206,10 @@
     * [Dummy Variablen](https://www.uibk.ac.at/econometrics/einf/kap10.pdf)
     * [Heteroskedastizität](http://www.uibk.ac.at/econometrics/einf/kap12.pdf)
 
+
         
     OLS básicos
+
 
     Regression
     * [La Régression Linéaire](http://tice.inpl-nancy.fr/modules/unit-stat/chapitre7/)
@@ -3756,10 +4217,12 @@
     * [Korrelation, lineare Regression und multiple Regression](http://www.ruhr-uni-bochum.de/imperia/md/content/mathematik3/lehre/ss09/statmethlehre2/teil2-regression220609.pdf)
     * [Regressionsanalyse](http://www.mesosworld.ch/lerninhalte/Biv_Regression/de/html/index.html)
 
+
         
     Multiple Regression
     * [La Régression Multiple](http://www.statsoft.fr/concepts-statistiques/regression-multiple/regression-multiple.htm)
     * [Множественная регрессия](http://statsoft.ru/home/textbook/modules/stmulreg.html)
+
 
         
     Statistik mit Matrizen
@@ -3774,8 +4237,10 @@
     * [Video Perform Linear Regression Using Matrices](https://www.youtube.com/watch?v=Qa_FI92_qo8)
     * [Khan Matrizes](https://pt.khanacademy.org/math/precalculus/precalc-matrices)
 
+
         
     Schätzer und Modelle
+
 
     MKQ
     * [OLS Proofs](https://en.wikipedia.org/wiki/Proofs_involving_ordinary_least_squares)
@@ -3791,16 +4256,22 @@
     * [Gauß-Markov-Annahmen](https://www.uni-marburg.de/fb02/statistik/studium/vorl/mikoeko/linreg0.pdf)
     * [Folien Empirische Wirtschaftsforschung](http://www.wifa.uni-leipzig.de/fileadmin/user_upload/iew-vwl/OEK-Lehre/EWF/VL/EWF_Kap5.pdf)
 
+
         
     RD
 
+
     DID
+
 
     Time Series Techniques
 
+
     Panel Technique
 
+
     Fixed Effects
+
 
         
     Dummies
@@ -3808,8 +4279,10 @@
     * [Dummy Variables](http://www.socialresearchmethods.net/kb/dummyvar.php)
     * [Dummies for Dummies](http://davegiles.blogspot.com/2011/03/dummies-for-dummies.html)
 
+
         
     OLS otras extensiones
+
 
     Clustering
     * [A Practitioner’s Guide to Cluster-Robust Inference](http://cameron.econ.ucdavis.edu/research/Cameron_Miller_JHR_2015_February.pdf)
@@ -3829,7 +4302,9 @@
     * [Slides Introduction to Robust and Clustered Standard Errors](http://econweb.umd.edu/~sarzosa/teach/2/Disc2_Cluster_handout.pdf)
     * [Slides Clustered Errors in Stata](http://www.stata.com/meeting/13uk/nichols_crse.pdf)
 
+
     Teste
+
 
             * [Statistical hypothesis testing](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing)
     * [Heteroskedastizit¨at](http://www.wiwi.uni-muenster.de/05/download/studium/econometrics2/ws1011/kapitel_6.pdf)
@@ -3840,8 +4315,10 @@
     * [The Cochrane-Orcutt Procedure](http://economistsview.typepad.com/economics421/2009/02/the-cochraneorcutt-procedure.html)
     * [Types of Statistical Tests](https://cyfar.org/types-statistical-tests)
 
+
         
     Non-Linear
+
 
     2SLS
     * [Schmidheiny IV](http://kurt.schmidheiny.name/teaching/iv2up.pdf)
@@ -3882,50 +4359,71 @@
     * [First stage of TSLS and the matrix of instruments W](https://stats.stackexchange.com/questions/45835/first-stage-of-tsls-and-the-matrix-of-instruments-w?rq=1)
     * [?](http://russell.vcharite.univ-mrs.fr/EIE/fchap7.pdf)
 
+
         
     Selection Bias Corrections
 
+
     Matching Techniques
 
+
     GLS
+
 
     VKQ
     * [Notes on Cochran-Orcutt Procedure to Estimate](http://www.nyu.edu/classes/nagler/quant2/notes/cochran_orcutt.pdf)
     * [AR(1) TIME SERIES PROCESS](http://www.math.utah.edu/~zhorvath/ar1.pdf)
 
+
     Random Effects
+
 
     MM
 
+
     Probit
+
 
     Logit
     * [An Introduction to Logistic Regression](http://www.appstate.edu/~whiteheadjc/service/logit/intro.htm)
 
+
     Poisson
+
 
     Other LDV Models
 
+
     Monte Carlo
+
 
     Jackknife
 
+
     Bootstrap
+
 
     MLE
 
+
     Quantile Regression
+
 
     ANOVA and ANCOVA Models
 
+
     Multi-Level Models
 
+
     Factor Analysis
+
 
         
     Control Functions
 
+
     Heckman
+
 
     Heckman
     * [Correción de Heckman](https://es.wikipedia.org/wiki/Correci%C3%B3n_de_Heckman)
@@ -3935,10 +4433,13 @@
     * [Heckit Stata](http://www.learneconometrics.com/data/stata/heckit.txt)
     * [etregress question answered](http://www.stata.com/support/faqs/statistics/endogeneity-versus-sample-selection-bias/)
 
+
         
     Stata
 
+
     Stats Software
+
 
     Stata
     * [FHSSRSC Workshops](https://fhssrsc.byu.edu/SitePages/Stata%20Workshops.aspx)
@@ -3961,6 +4462,7 @@
     * [Research_Notes](http://researchnotes.eric-a-booth.com/)
     * [Kolesnikov Classes](http://staskolenikov.net/stata/Duke/)
 
+
     ivtreatreg
     * [Stata Treatment Effects](http://www.stata.com/manuals14/te.pdf)
     * [ivtreatreg help](http://fmwww.bc.edu/RePEc/bocode/i/ivtreatreg.html)
@@ -3968,11 +4470,13 @@
     * [Cerulli](http://folk.uib.no/secaa/Public/VAM/Artikler/ivtreatreg_cerull.pdf)
     * [Treatment Effects MIT](https://economics.mit.edu/files/32)
 
+
     Beispiele/Bücher für Stata
     * [Principles of Econometrics](http://www.principlesofeconometrics.com/)
     * [Wooldridge Examples](http://fmwww.bc.edu/gstat/examples/wooldridge/wooldridge.html)
     * [Baum](http://www.stata.com/bookstore/modern-econometrics-stata/)
     * [Micro Sata Book](http://www.stata.com/bookstore/microeconometrics-stata/)
+
 
         
     R
@@ -3983,9 +4487,11 @@
     * [Kurs mit Beispielen](http://www.ipipan.eu/~teisseyrep/TEACHING/ASM/Zadania/)
     * [Статистическая среда R](http://ashipunov.info/shipunov/software/r/)
 
+
         
     SPSS, etc.
     * [SPSS Documentation](http://www-01.ibm.com/support/docview.wss?uid=swg27043946#ru)
+
 
     Heckman and Control Functions
     * http://www.nber.org/WNE/lect_6_controlfuncs.pdf
@@ -4023,6 +4529,7 @@
     * http://www.brynmawr.edu/socialwork/GSSW/Vartanian/Handouts/Heckman%20selection%20model.pdf
     * https://stats.stackexchange.com/questions/172508/two-stage-models-difference-between-heckman-models-to-deal-with-sample-selecti
 
+
         
     TE
     * https://www.youtube.com/watch?v=wfz-OgJXU5E
@@ -4040,6 +4547,7 @@
     * http://www.stata.com/manuals14/teetregress.pdf
     * http://www.stata.com/stata-news/statanews.31.2.pdf
 
+
         
     PLT
     * https://www.youtube.com/watch?v=IwsE8Rr6l6E
@@ -4050,6 +4558,7 @@
     * http://www.soderbom.net/metrix2/lec8.pdf
     * https://es.wikipedia.org/wiki/Modelo_Tobit
     * http://wlm.userweb.mwn.de/Ilmes/ilm_t19.htm
+
 
         
     Momente
@@ -4078,6 +4587,7 @@
     * https://www.uni-muenster.de/Stochastik/loewe/mathstatistik.pdf
     * http://www.uni-muenster.de/Stochastik/lehre/WS1415/Statistik/daten/Skript_Math_Statistik.pdf
 
+
     ftp://ftp.stat.math.ethz.ch/Teaching/kuensch/skript-ms.pdf
     * http://www.mspc.eng.br/matm/prob_est210.shtml#moment
     * http://mathworld.wolfram.com/Moment.html
@@ -4086,6 +4596,7 @@
     * https://www.ingenieurkurse.de/technische-mechanik-statik/einzelkraefte-mit-verschiedenen-angriffspunkten/ebenes-kraeftesystem/bestimmung-von-momenten.html
     * https://www.statlect.com/fundamentals-of-probability/moments
     * https://stats.stackexchange.com/questions/88461/derive-variance-of-regression-coefficient-in-simple-linear-regression
+
 
         
     FE
@@ -4098,6 +4609,7 @@
     * http://www.stata.com/features/overview/linear-fixed-and-random-effects-models/
     * https://courses.washington.edu/pbafadv/student%20presentations/Fixed%20Effects,%20Random%20Effects%20Model%20Cheat%20Sheet.pdf
     * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4208783/
+
 
         
     2SLS
@@ -4125,6 +4637,7 @@
     * http://www.stata.com/manuals13/rivregresspostestimation.pdf
     * http://www.repec.org/bocode/i/ivreg2.html
     * http://www.statalist.org/forums/forum/general-stata-discussion/general/1302474-2sls-regression-with-binary-endogenous-variable
+
 
         
     Verschiedene Themen
@@ -4160,6 +4673,7 @@
     * http://www.stata.com/manuals13/svy.pdf
     * http://www.stata.com/manuals13/svysvyestimation.pdf
 
+
         
     Andere
     * http://www.ssc.wisc.edu/~bhansen/econometrics/
@@ -4172,6 +4686,7 @@
     * https://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D0%B8%D1%81_%D1%82%D0%B5%D0%BE%D1%80%D1%96%D1%97_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8
     * https://en.wikipedia.org/wiki/Descriptive_statistics
 
+
         
     Papiere
     * http://www.hha.dk/nat/WPER/03-2_bsr.pdf
@@ -4183,12 +4698,14 @@
     * http://eml.berkeley.edu/~jrothst/publications/rothstein-hoxbycomment-AER-appendix.pdf
     * https://economics.mit.edu/faculty/angrist/data1
 
+
         
     Interactions
     * https://www.youtube.com/watch?v=ScKL40dp8M4
     * https://www.youtube.com/results?search_query=%D1%83%D0%B0%D0%B0%D1%83%D0%B5+%D0%B2%D1%8D+%D1%88%D1%82%D0%B5%D1%83%D0%BA%D1%84%D1%81%D0%B5%D1%88%D1%89%D1%82
     * [https://en.wikipedia.org/wiki/Interaction_(statistics)](https://en.wikipedia.org/wiki/Interaction_(statistics))
     * http://www.polsci.ucsb.edu/faculty/glasgow/ps15/dvint.pdf
+
 
         
     Allgemeine Ressourcen
@@ -4200,8 +4717,10 @@
     * https://www.r-bloggers.com/lang/add-your-blog
     * https://economics.mit.edu/faculty/angrist/data1/data/angrist90
 
+
         
     Allgemeine Mathe
+
 
     file:///C:/Users/iriley/AppData/Local/Temp/Temp1_AMindforNumbers.zip/AMindforNumbers.html
     * http://www-m6.ma.tum.de/~brokate/
@@ -4210,6 +4729,7 @@
     * http://www.matheboard.de/archive/454746/thread.html
     * http://www.mathepedia.de/Mathematik.aspx
     * http://www.swisseduc.ch/mathematik/analysis/paradoxien_analysis/docs/paradoxien_analysis.pdf
+
 
         
     Lineare Algebra
@@ -4228,101 +4748,147 @@
     * https://en.wikipedia.org/wiki/Matrix_multiplication
     * http://mathinsight.org/dot_product_matrix_notation
 
+
     White
+
 
     Durbin-Watson
 
+
     Wu-Hausman
+
 
     RESET Test
 
+
     Mann-Whitney test
+
 
     Kruskal-Wallis test
 
+
     Efficiency
+
 
     Bias
 
+
     Consistency
 
+
     Clustering
+
 
     
     % Tipos de regresiones
 
+
         
     %m’etodos basicos econometricos
 
+
     OLS
+
 
     - [estud’i Gauss-Markov Theorem en Wikipedia](https://en.wikipedia.org/wiki/Gauss%E2%80%93Markov_theorem)
 
+
     $
+
 
     - bivariate
 
+
     - multiple
+
 
     IV
 
+
     GLS
+
 
     Fixed Effects
 
+
     Times Series
+
 
     RD
 
+
     MLE
+
 
     Probit
 
+
     Logit
+
 
         
     $
     * http://www.datasciencecentral.com/profiles/blogs/10-types-of-regressions-which-one-to-use
 
+
     Linear regression
+
 
     Logarithmic regression
 
+
     Ridge regression
+
 
     Lasso regression
 
+
     Ecologic regression
+
 
     Regression in unusual spaces
 
+
     Logic regression
+
 
     Bayesian regression
 
+
     Quantile regression
+
 
     LAD regression
 
+
     Jackknife regression
+
 
         
     $
     * https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/
 
+
     Linear Regression
+
 
     Logistic Regression
 
+
     Polynomial Regression
+
 
     Stepwise Regression
 
+
     Ridge Regression
+
 
     Lasso Regression
 
+
     ElasticNet Regression
+
 
             * http://www.yildiz.edu.tr/~tastan/teaching/AEsyllabus.pdf
     * https://cobe.boisestate.edu/economics/wp-content/ofa/syllabi/912-1482-1-Syllabus.pdf
@@ -4339,9 +4905,11 @@
     * [https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=28&ved=0ahUKEwi1lNzBpLfWAhVGs1QKHXHoA4s4FBAWCFswBw&url=https%3A%2F%2Fmoodle.ec.unipi.it%2Fpluginfile.php%2F36774%2Fcourse%2Foverviewfiles%2FsyllabusBianchiParenti.pdf%3Fforcedownload%3D1&usg=AFQjCNErQpU0u9HgMnYB6hnK4xp4X3GIrw](https://moodle.ec.unipi.it/pluginfile.php/36774/course/overviewfiles/syllabusBianchiParenti.pdf?forcedownload=1)
     * http://www.bu.edu/econ/files/2009/07/20120412143137049.pdf
 
+
     
             * http://www.ssc.wisc.edu/~bhansen/econometrics/Econometrics2004.pdf
     * http://www.bauer.uh.edu/rsusmel/phd/ec1-11.pdf
+
 
     
             * https://sites.google.com/site/econometricsacademy/
@@ -4351,10 +4919,12 @@
     * http://support.minitab.com/de-de/minitab/17/
     * http://www.mesosworld.ch/joomla/lerninhalte/
 
+
             * http://www.xycoon.com/toc.htm
     * http://www.lernstats.de/php/
     * http://www.methodenberatung.uzh.ch/de.html
     * https://de.serlo.org/mathe/stochastik
+
 
             * http://www.math.uni-bremen.de/didaktik/ma/ralbers/Veranstaltungen/Stochastik07/
     * http://www.math.uni-bremen.de/~osius/download/lehre/Skripte/
@@ -4362,7 +4932,9 @@
     * http://classiques.uqac.ca/contemporains/loubet_del_bayle_jean_louis/initiation_metho_sc_soc/initiation_metho_sc_soc.pdf
     * http://econweb.umd.edu/~sarzosa/teach/
 
+
             * http://www.statistik-tutorial.de/forum/forum3.html
+
 
             * https://www.uni-kassel.de/fb07/fileadmin/datas/fb07/5-Institute/IVWL/Ziegler/Grundlagen-%C3%96konometrie-Kapitel-3.pdf
     * https://www.uni-trier.de/fileadmin/fb4/prof/VWL/FIN/Oekonometrie/Klausurmaterialien/formelnKap01-14_1_.pdf
@@ -4371,22 +4943,27 @@
     * http://www.wiwi.uni-frankfurt.de/professoren/hujer/Lehre/Oek_1/OLS_ML.pdf
     * https://books.google.com/books?id=SxX0BQAAQBAJ&pg=PA302&lpg=PA302&dq=%C3%B6konometrie+mit+matrizen&source=bl&ots=I3h48lwE_-&sig=dX9od0sz_3L00vbZaNqtGzQ88Go&hl=es&sa=X&ved=0ahUKEwjb-JfHrMPSAhXkxlQKHSj0Cm8Q6AEIVDAI#v=onepage&q=%C3%B6konometrie%20mit%20matrizen&f=false
 
+
     Übersicht:
     * https://www.wiwi.hu-berlin.de/de/professuren/quantitativ/oe/old-files/lectures/applied/kap1.pdf
     * https://www.uni-trier.de/fileadmin/fb4/prof/VWL/FIN/Oekonometrie/Vorlesung_WS_16_17/OekonometrieFolien21April2016.pdf
+
 
         
     Clustering (with matrix algebra)
     * http://econweb.umd.edu/~sarzosa/teach/2/Disc2_Cluster_handout.pdf
     * http://projects.iq.harvard.edu/files/gov2001/files/sesection_5.pdf
-- [ ]  [Transition to Advanced Mathematics (4E)](https://docs.google.com/spreadsheets/d/1Sc-XCYLl1Xi4I2cus4UBpWlDDssVbB_r4xg6NqrY3Q4/edit?usp=sharing)
+* [ ]  [Transition to Advanced Mathematics (4E)](https://docs.google.com/spreadsheets/d/1Sc-XCYLl1Xi4I2cus4UBpWlDDssVbB_r4xg6NqrY3Q4/edit?usp=sharing)
 
-- C
+
+* C
         * https://en.wikipedia.org/wiki/De_Morgan%27s_laws#Informal_proof
     * [The Search for Mathematical Roots, 1870-1940](https://b-ok.cc/book/644999/d8ba35)
 
+
     Set theory and its philosophy: a critical introduction
     * http://settheory.net/fr/
+
 
     (Hab schon?) Set theory and its philosophy: a critical introduction | Michael Potter | download
     * [Element (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Element_(mathematics))
@@ -4395,9 +4972,11 @@
     * [За страницами учебника математики. 10-11 классы Виленкин, Шибасов.djvu](https://vk.com/doc44301783_518614272?hash=942a7fe2618fe6b43f&dl=40653d16367f9ff91f)
     * [Задачи по теории множеств, математической логике и теории алгоритмов [2004] Лавров.pdf](https://vk.com/doc44301783_517373107?hash=30b0ad75379d177e11&dl=7ee690d4e8bdf692ff)
 
-- D
+
+* D
         * [Théorème de Kruskal et des arbres, LMSB#5 - YouTube](https://www.youtube.com/watch?v=pIacKOdPFgM)
     * [Discrete mathematics and its applications | Rosen, Kenneth H | download](https://b-ok.cc/book/4985595/cc406a)
+
 
     general formula for permutations with (reordering) movement limits → count forbidden positions, then subtract intersection?
     * [kenneth rosen: free download. Ebooks library. On-line books store on Z-Library (discrete mathematics)](https://b-ok.cc/s/kenneth%20rosen)
@@ -4411,6 +4990,7 @@
     * [Основы дискретной математики](https://www.youtube.com/watch?v=I946xdgVF3o&list=PL-_cKNuVAYAXrd5kC5hdppsBNDjuIFYbc)
     * https://brilliant.org/wiki/chinese-remainder-theorem/
 
+
             * [$$$ elementary number theory - Division of Factorials - Mathematics Stack Exchange](https://math.stackexchange.com/questions/2158/division-of-factorials/2192#2192)
     * [$$$ Sum of kth powers of first n natural numbers - GeeksforGeeks](https://www.geeksforgeeks.org/sum-of-kth-powers-of-first-n-natural-numbers/)
     * [$$$ Sum of Quadratic Numbers](http://ugarbe.de/index.php/mathematics/11-sum-of-quadratic-numbers.html)
@@ -4420,14 +5000,17 @@
     * [Bernoulli-Zahl – Wikipedia](https://de.wikipedia.org/wiki/Bernoulli-Zahl)
     * [COMBINATORICS IN PURE MATHEMATICS](https://www.mi.fu-berlin.de/math/groups/discgeom/ziegler/Preprintfiles/016PREPRINT.pdf)
 
+
     Discrete Maths: Sheffer Stroke | NAND operator
     * [diskretnaya-matematika-2-e-izdanie.pdf](https://vk.com/doc30601958_461719486?hash=0b559e992ef8fff51f&dl=eee11aecf463e9b170)
     * [diskretnaya-matematika-dlya-programmistov-2-e-izdanie.pdf](https://vk.com/doc30601958_461719394?hash=12dacef1268277699f&dl=dfc7bb9d0fe08f3a92)
+
 
         
     Dziwne liczby Lucasa. Rodzina złotych ciągów
     * [Elementare Kombinatorik für die Informatik Abzählungen, Differenzengleichungen, diskretes Differenzieren und Integrieren](https://drive.google.com/file/d/1Dsy2RzhjTmkggE91DU-RgMBC1BFV6-bg/view?usp=sharing)
     * [FEM-Anwendungspraxis: Einstieg in die Finite Elemente Analyse Zweisprachige Ausgabe Deutsch/Englisch | Peter Fröhlich (auth.) | download](https://b-ok.cc/book/2528322/1dd325)
+
 
     Fibonacci
     * http://www.disfrutalasmatematicas.com/numeros/fibonacci-sucesion.html
@@ -4446,12 +5029,14 @@
     * [Mir_matematiki_5_Sekta_chisel.pdf](https://vk.com/doc345303855_437374994?hash=0a6cd7a67068dcbbec&dl=0d04d2607c8f2277ec)
     * [Números Primos "El patrón escondido"](https://www.youtube.com/watch?v=oxO6wstkpDY&list=WL&index=251)
 
+
     Phi and the TRIBONACCI monster
     * [Prime numbers: the most mysterious figures in math | David Wells | download](https://b-ok.cc/book/448037/ecdd2b?dsource=recommend)
     * [Sieb des Eratosthenes](https://www.youtube.com/watch?v=Cg8P4GNPe0I&list=WL&index=419)
     * [The Fabulous Fibonacci Numbers | Alfred S. Posamentier, Ingmar Lehmann | download](https://b-ok.cc/book/612156/47bb5c)
     * [The Mechanical Universe](https://www.youtube.com/playlist?list=PL8_xPU5epJddRABXqJ5h5G0dk-XGtA5cZ)
     * [The Strange Theory of Light and Matter - Cantor’s Paradise - Medium](https://medium.com/cantors-paradise/qed-the-strange-theory-of-light-and-matter-df50782b1651)
+
 
     Why do prime numbers make these spirals?
     * [WI2010 - La solitudine dei numeri primi - prof. Piergiorgio Odifreddi](https://www.youtube.com/watch?v=FCSaXPYJ1zk&list=WL&index=246)
@@ -4463,10 +5048,13 @@
     * [Классическое введение в современную теорию чисел [1987] Айерлэнд.djv](https://vk.com/doc44301783_515099851?hash=d823d2d1e8c5e4d3bf&dl=123eb53dd1c3cf4055)
     * [Основы дискретной математики](https://www.lektorium.tv/course/22893)
 
+
     От мозаик Пенроуза к надежным шифрам [1993] Гарднер Мартин
     * [ПОСЛІДОВНІСТЬ ФІБОНАЧЧІ, ПРОІЛЮСТРОВАНА ПРИРОДОЮ](http://www.mmf.lnu.edu.ua/ar/470)
 
+
     Тайны чисел: Математическая одиссея - Маркус дю Сотой
+
 
     Целые числа как геометрический объект [2] // Михаил Цфасман
     * [Binary, Hanoi and Sierpinski, part 1](https://www.youtube.com/watch?v=2SUvWfNJSsM&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=42)
@@ -4490,26 +5078,33 @@
     * [Math Trick - Multiply Using Lines!](https://www.youtube.com/watch?v=_AJvshZmYPs&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=133)
     * [New Perspective on Fermat's Last Theorem](https://www.newsletter.datasciencecentral.com/click.html?x=a62e&lc=uLw&mc=j&s=jFaI&u=F&y=K&z=wtn4Tzo&)
 
-- D & E Books
+
+* D & E Books
         * [A Pythagorean Introduction to Number Theory_Ramin Takloo-Bighash_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-030-02604-2)
     * [Discrete Mathematics_László Lovász, József Pelikán, Katalin Vesztergombi_2003](http://link.springer.com/openurl?genre=book&isbn=978-0-387-21777-2)
     * [graphen und netzwerktheorie](https://b-ok.cc/s/?q=graphen+und+netzwerktheorie)
 
+
     Graphen und Netzwerktheorie (Kischke, Röpcke)
     * [Guide to Discrete Mathematics_Gerard O'Regan_1st ed. 2016](http://link.springer.com/openurl?genre=book&isbn=978-3-319-44561-8)
     * [Дискретный анализ [2008] Романовский.pdf](https://vk.com/doc44301783_517373092?hash=cf04aca8898275cc9a&dl=00869960a036c25545)
+
 
     Anschauliche Geometrie (Hilbert, Cohn-Vossen)
     * [Aspects of Differential Geometr](http://library.lol/main/32D22E9B6F1B93B2725EE5C7725F8F36)y
     * [Aspects of Differential Geometry](http://library.lol/main/8E7B4F97D9A0628DE41FCD2DDB24386A)
     * [Computational Geometry_Mark de Berg, Otfried Cheong, Marc van Kreveld, Mark Overmars_3rd ed. 2008](http://link.springer.com/openurl?genre=book&isbn=978-3-540-77974-2)
 
+
     Das fenster zum Universum
+
 
     Differentialgeometrie (Gray)
     * [Geometries and Transformations](https://vk.com/doc35528094_474224991?hash=410f1551f176482542&dl=38d97d896fedce46ce)
 
+
     Projektive Geometrie
+
 
     The Geometrical Beauty
     * [Введение в теорию внешних форм [1977] Ефимов.djvu](https://vk.com/doc44301783_517373035?hash=91d050a492efd44293&dl=dcb3a4fc4d5aeb5df6)
@@ -4517,7 +5112,8 @@
     * [Геометрия | Начертательная геометрия | Дифференциальная геометрия | Physics.Math.Code.Books](https://vk.com/topic-51126445_32210554)
     * [Риманова геометрия и тензорный анализ [1977] Рашевский.djvu](https://vk.com/doc44301783_517373033?hash=57514c8b48974269ca&dl=15f309f94079d0b6c0)
 
-- E
+
+* E
         * [Pi: A Biography of the World's Most Mysterious Number | Alfred S. Posamentier, Ingmar Lehmann | download](https://b-ok.cc/book/2082659/7d87cd)
     * [rhumb line](https://twitter.com/fermatslibrary/status/1346809513446400000?s=27)
     * http://geometry.ru/
@@ -4531,6 +5127,7 @@
     * [The Glorious Golden Ratio | Alfred S. Posamentier, Ingmar Lehmann | download](https://b-ok.cc/book/2342444/c3c970)
     * [The Golden Ratio and Fibonacci Sequence in Music (feat. It’s Okay to be Smart)](https://www.youtube.com/watch?v=9mozmHgg9Sk&list=WL&index=522)
 
+
     The powers of the golden ratio (φ) can all be expressed in terms of φ. Each power is the sum of the two previous powers - the coefficients of φ and integer parts form the Fibonacci sequence. φ²=φ+1 | φ³=2φ+1 | φ⁴=3φ+2 | φ⁵=5φ+3 | φ⁶=8φ+5
     * [Tutoriel Geogebra français - YouTube](https://www.youtube.com/playlist?list=PLh-rUZWaw76FuH1DIswNs9SGK2BcsMS2N)
     * [Was ist Differentialgeometrie und warum machen wir das?](https://www.youtube.com/watch?v=dFrSAXwDtlk&list=WL&index=497)
@@ -4543,10 +5140,13 @@
     * [Гармоническая мера](https://www.youtube.com/watch?v=lvnGbdF8KZQ&list=PL-_cKNuVAYAXqfeYT90cwRpEOHDMcM58o)
     * [Геометрические головоломки [2019] Богданов.pdf](https://vk.com/doc44301783_514422633?hash=d75bd82c5401a48849&dl=ec1a2ffdf769fe9e45)
 
+
     Геометрические реализации алгебраических объектов
     * [Геометрия. Книга о том, что геометрия – нескучная наука [2019] Яков Перельман.pdf](https://vk.com/doc44301783_514951631?hash=c37a7400a52114bd26&dl=aeded0e88e22a14ab0)
 
+
     Лекция 1 | Алгебраическая геометрия | Николай Вавилов | Лекториум
+
 
             * [$$$ First Steps in Tropical Geometry (for practice working through challenging math)](https://www.math.uni-frankfurt.de/~theobald/publications/tropical.pdf)
     * [$$$ Polar coordinate system - Wikipedia](https://en.wikipedia.org/wiki/Polar_coordinate_system)
@@ -4567,10 +5167,12 @@
     * https://www.google.com/search?q=animation+of+pythogoras%27+proof&rlz=1C5CHFA_enUS800US800&oq=animation+of+pythogoras%27+proof&aqs=chrome..69i57.6229j0j4&sourceid=chrome&ie=UTF-8
     * [Kongruenz und Kontingenz](https://www.youtube.com/watch?v=ui75hpOeyuI&list=WL&index=422)
 
+
     Matematica e geometria per superiori
     * [Mir_matematiki_1_Zolotoe_sechenie.pdf](https://vk.com/doc345303855_437374963?hash=151cc3743581b638bc&dl=cb1f3eb3317b6c24f6)
     * [Mir_matematiki_4_Kogda_pryamye_iskrivlyayutsya.pdf](https://vk.com/doc345303855_437374987?hash=24cdc0b6ed95bddd4f&dl=ba8b34564f5cdc475d)
     * [MP - Matematica e geometria per superiori](https://ankiweb.net/shared/info/2000817267)
+
 
     Лекция 1 | Исключительные объекты в алгебре и геометрии | Николай Вавилов | Лекториум
     * [Axiomatic Geometry](https://b-ok.cc/book/3594181/e23727)
@@ -4584,6 +5186,7 @@
     * [The Golden Ratio (why it is so irrational) - Numberphile](https://www.youtube.com/watch?v=sj8Sg8qnjOg&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=20)
     * [The Geometry of Causality | Space Time](https://www.youtube.com/watch?v=1YFrISfN7jo&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=108)
 
+
     Calculate (in different ways) the centrality of national capitals.
     * [The only curve with a unique focus is the parabola: a blog post containing a proof, and making some observations about the media's linking of mathematics with 'genius'.](https://www.reddit.com/r/math/comments/d823nl/the_only_curve_with_a_unique_focus_is_the/)
     * [История математики Пределы пространства](https://www.youtube.com/watch?v=B2f5DVStCrA&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=52)
@@ -4595,7 +5198,8 @@
     * [Linee larghe](http://akira.ruc.dk/~jensh/Publications/2010%7BK%7D03_Broad%20lines.PDF)
     * [A Simple Proof Pi Is Irrational](https://youtu.be/KcjGe5a7Lwg)
 
-- Conchoids
+
+* Conchoids
         * [A Collection of Examples of the Applications of the Differential and ... - George Peacock - Google Книги](https://books.google.de/books?id=2f43AAAAMAAJ&pg=PA163&lpg=PA163&dq=applications+of+conchoids&source=bl&ots=8n69X6VyAv&sig=ACfU3U3MAvwYQZnMlD5gCiQwI_edL5Iaew&hl=ru&sa=X&ved=2ahUKEwj-7I_HppzoAhUMIMUKHY8mCo4Q6AEwCXoECAkQAQ#v=onepage&q=applications%20of%20conchoids&f=false)
     * [THE DERIVATION AND APPLICATIONS OF THE CONCHOID OF NICOMEDES AND THE CISSOID OF DIOCLES - Roeser - 1914 - School Science and Mathematics - Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1949-8594.1914.tb17589.x)
     * [Rational Conchoids of Algebraic Curves](https://arxiv.org/pdf/0901.4652.pdf)
@@ -4603,9 +5207,11 @@
     * [Conchoid of de Sluze - Wikipedia](https://en.wikipedia.org/wiki/Conchoid_of_de_Sluze)
     * [Conchoid of Dürer - Wikipedia](https://en.wikipedia.org/wiki/Conchoid_of_D%C3%BCrer)
 
+
     Analyse geometry of all points where a point is a fixed distance from a point on a line and the segment connecting the two points runs through the same point for all pairs
 
-- SVD Steps
+
+* SVD Steps
     
     Process:
     
@@ -4614,10 +5220,11 @@
     3. S is the diagonal matrix whose values are the square roots of the sorted eigenvalues.
     4. Compute U = AVS^-1
     5. A = USV'
-- Sanderson and Strang Playlists
+* Sanderson and Strang Playlists
     
     lockdown math
 
+
     intro to computational thinking
     * [MIT 18.06SC Linear Algebra, Fall 2011](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
     * [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
@@ -4628,9 +5235,11 @@
     * [MIT 18.085 Computational Science & Engineering I, Fall 2008](https://www.youtube.com/playlist?list=PLF706B428FB7BD52C)
     * [MIT 18.085 Computational Science & Engineering I, Fall 2007](https://www.youtube.com/playlist?list=PL51CACD5B1F58C40C)
     * [Highlights of Calculus | Gilbert Strang](https://www.youtube.com/playlist?list=PLiDh_aMfNpJxfrgxyPX4ltE4xGUgtKOIJ)
+
 
     lockdown math
 
+
     intro to computational thinking
     * [MIT 18.06SC Linear Algebra, Fall 2011](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
     * [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
@@ -4642,12 +5251,15 @@
     * [MIT 18.085 Computational Science & Engineering I, Fall 2007](https://www.youtube.com/playlist?list=PL51CACD5B1F58C40C)
     * [Highlights of Calculus | Gilbert Strang](https://www.youtube.com/playlist?list=PLiDh_aMfNpJxfrgxyPX4ltE4xGUgtKOIJ)
 
-- Cheatsheet
+
+* Cheatsheet
         * https://observablehq.com/@petulla/explorable-linear-algebra-cheatsheet
     * https://ml-cheatsheet.readthedocs.io/en/latest/linear_algebra.html
 
-- Algebra Books
+
+* Algebra Books
         * [Applied Linear Algebra_Peter J. Olver, Chehrzad Shakiban_2nd ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-91041-3)
+
 
         
     Further Linear Algebra
@@ -4657,25 +5269,32 @@
     * [Linear Algebra_Jörg Liesen, Volker Mehrmann_1st ed. 2015](http://link.springer.com/openurl?genre=book&isbn=978-3-319-24346-7)
     * [Lineare Agebra 2 (Waldmann)](https://b-ok.cc/book/2351596/7f6cd1)
 
+
     Lineare Algebra (Gramlich)
+
 
     Lineare Algebra (Jänich)
 
+
     Multilinear Algebra (Greub)
+
 
     Numerical Linear Algebra. An Introduction
     * [PCA (Jolliffe)](https://vk.com/doc35528094_474224887?hash=4f66a2abe70de596ff&dl=ff5a49894760f5d263)
 
+
     Second Course in Linear Algebra (Garcia and Horn)
     * [Multilinear Algebra](https://vk.com/doc44301783_518614272?hash=942a7fe2618fe6b43f&dl=40653d16367f9ff91f)
 
-- Algebra Resources
+
+* Algebra Resources
         * [Definitions from Linear Algebra](https://docs.google.com/spreadsheets/d/1xS7Dimpgg835el4Y5tLaETsbjxbDkTla9SvsrhT1X2s/edit#gid=1282539576)
     * https://proofwiki.org/wiki/Category:Matrix_Algebra
     * [Unanswered 'linear-algebra' Questions - Mathematics Stack Exchange](https://math.stackexchange.com/questions/tagged/linear-algebra?tab=Unanswered)
     * https://proofwiki.org/wiki/Category:Definitions/Algebra
 
-- Algebra Reading
+
+* Algebra Reading
         * [Linear Algebra by Hefferon: Chapter One Se](https://www.youtube.com/watch?v=qPBKX0nAxd0&list=PL2uooHqQ6T7MQvZ1kP-NnB2rn-TA4rK5w&index=1&t=49s)ction I.1
     * [Linear Algebra by Hefferon: Chapter One Se](https://www.youtube.com/watch?v=M-VN55DT0OQ&list=PL2uooHqQ6T7MQvZ1kP-NnB2rn-TA4rK5w&index=2)ction I.2
     * [Linear Algebra by Hefferon: Chapter One Se](https://www.youtube.com/watch?v=e3o8LivUySQ&list=PL2uooHqQ6T7MQvZ1kP-NnB2rn-TA4rK5w&index=3)ction I.3
@@ -4715,14 +5334,16 @@
     * [Hefferon Five Section II.2 Diagonal](https://www.youtube.com/watch?v=c7mh3tf_THg&list=PL2uooHqQ6T7MQvZ1kP-NnB2rn-TA4rK5w&index=37)izability
     * [Hefferon Five Section II.3 Eigenvalues and eig](https://www.youtube.com/watch?v=ANx2DyyRz9w&list=PL2uooHqQ6T7MQvZ1kP-NnB2rn-TA4rK5w&index=38)envectors
 
-- Algebra Tools
+
+* Algebra Tools
         * [3B1B animation code](https://github.com/3b1b/manim)
     * [matrix 2d](https://github.com/3b1b/manim/blob/master/old_projects/matrix_as_transform_2d.py)
     * [engineersCode/EngComp4_landlinear: Using computational thinking to get deep insights on the foundations of linear algebra](https://github.com/engineersCode/EngComp4_landlinear)
     * [Exploring Linear Transformations with Python](https://notgnoshi.github.io/linear-transformations/)
 
-- Algebra Channels
-- Algebra Applications
+
+* Algebra Channels
+* Algebra Applications
         * [Las aplicaciones de las matrices | Lo que desearía que mis maestros me hubieran dicho antes](https://www.youtube.com/watch?v=rowWM-MijXU&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=35)
     * [The Applications of Matrices | What I wish my teachers told me way earlier](https://www.youtube.com/watch?v=rowWM-MijXU)
     * [Understanding the Covariance Matrix](https://datascienceplus.com/understanding-the-covariance-matrix/)
@@ -4734,12 +5355,14 @@
     * [Handbook of Computer Vision Algorithms in Image Algebra](https://b-ok.cc/book/437419/a188c0)
     * [handson-ml/math_linear_algebra.ipynb at master · ageron/handson-ml](https://github.com/ageron/handson-ml/blob/master/math_linear_algebra.ipynb)
 
-- Algebra Recommendations
+
+* Algebra Recommendations
         * [I want to learn linear algebra](https://www.reddit.com/r/learnmath/comments/e97tlw/i_want_to_learn_linear_algebra/)
     * [Resource Index | Linear Algebra | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/)
     * [I want to learn linear algebra](https://www.reddit.com/r/learnmath/comments/e97tlw/i_want_to_learn_linear_algebra/)
 
-- Determinants
+
+* Determinants
         * [best (constructive proof)](https://amatsukawa.github.io/determinant/)
     * https://en.wikipedia.org/wiki/Leibniz_formula_for_determinants
     * https://en.wikipedia.org/wiki/Determinant
@@ -4751,6 +5374,7 @@
     * [phenomenal intro 2](https://www.cis.upenn.edu/~cis515/dets-ala-Artin.pdf)
     * [phenomenal intro 3](http://shannon.cm.nctu.edu.tw/la/la5s09.pdf)
     * [[Linear Algebra] Properties of Determinants](https://youtu.be/IjMxFP8AtpA)
+
 
             * [likely very good and deep](https://www-m10.ma.tum.de/foswiki/pub/Lehre/ProjektiveGeometrieWS0607/chap6.pdf)
     * [dig into deeper](https://amatsukawa.github.io/determinant/)
@@ -4789,11 +5413,14 @@
     * https://people.math.osu.edu/husen.1/teaching/571/2_2.pdf
     * [Is there a definition of determinants that does not rely on how they are calculated?](https://math.stackexchange.com/questions/21614/is-there-a-definition-of-determinants-that-does-not-rely-on-how-they-are-calcula)
 
-- Matrix Multiplication
+
+* Matrix Multiplication
         * https://fragen.letsrockmathe.de/
+
 
             * [codingthematrix.com/python_and_inverse_index_labs.pdf](http://codingthematrix.com/python_and_inverse_index_labs.pdf)
     * [Videos: Coding the Matrix, Fall 2014](https://cs.brown.edu/video/channels/coding-matrix-fall-2014/)
+
 
     Prove that left multiplication by elementary matrices is equivalent to performing the corresponding elementary row operations.
     
@@ -4803,7 +5430,9 @@
     * http://www.math.utah.edu/~wortman/1050-text-2b2m.pdf
     * [linear algebra - why don't we define vector multiplication component-wise? - Mathematics Stack Exchange](https://math.stackexchange.com/questions/185888/why-dont-we-define-vector-multiplication-component-wise)
 
+
     - [*(best answer by Michael Hardy) matrices - Intuition behind Matrix Multiplication - Mathematics Stack Exchange](https://math.stackexchange.com/questions/31725/intuition-behind-matrix-multiplication)
+
 
     - [* Yahoo linear algebra: motivation for matrix multiplication ? | Yahoo Answers](https://answers.yahoo.com/question/index?qid=20081012135509AA1xtKz)
     * [Properties of Matrix Arithmetic](http://sites.millersville.edu/bikenaga/linear-algebra/matrix-properties/matrix-properties.html)
@@ -4811,13 +5440,17 @@
     * [Matrix multiplication - Wikipedia](https://en.wikipedia.org/wiki/Matrix_multiplication)
     * [Matrix multiplication algorithm - Wikipedia](https://en.wikipedia.org/wiki/Matrix_multiplication_algorithm)
 
+
     - [*My attempted explanation of the intuition behind matrix multiplication. : math](https://www.reddit.com/r/math/comments/aqgt15/my_attempted_explanation_of_the_intuition_behind/)
+
 
     - [*Matrix multiplication as composition | Essence of linear algebra, chapter 4 - YouTube](https://www.youtube.com/watch?v=XkY2DOUCWMU)
     * [Visualizing Linear Transformations in R3](https://www.radford.edu/~thompson/Fall10/434/Chapter3/Car/FW%20The%20Smart%20Car_files/LinearTransf3D.pdf)
     * [Visualizing linear transformations (article) | Khan Academy](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations)
 
+
     Derive matrix multiplication (general formula) from a set of desiderata, leaving no gaps. (No hand-waving!)
+
 
     Also, clearly articulate concerns with it and resolve those concerns.
     * https://math.stackexchange.com/questions/1945329/can-you-transpose-a-matrix-using-matrix-multiplication
@@ -4834,6 +5467,7 @@
     * [linear algebra - Matrix multiplication: interpreting and understanding the process - Mathematics Stack Exchange](https://math.stackexchange.com/questions/24456/matrix-multiplication-interpreting-and-understanding-the-process/24469#24469)
     * https://math.stackexchange.com/questions/185888/why-dont-we-define-vector-multiplication-component-wise
     * [My attempted explanation of the intuition behind matrix multiplication.](https://www.reddit.com/r/math/comments/aqgt15/my_attempted_explanation_of_the_intuition_behind/)
+
 
     When they understand this, then they will end up doing the equivalent of matrix multiplication by accident. After that matrix multiplication won't look as alien and unnatural.
     * [Matrix as sum of elementary products](https://www.google.com/search?q=determinant+as+sum+of+elenentary+products&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
@@ -4891,21 +5525,26 @@
     * https://mathinsight.org/determinant_linear_transformation
     * [Algebras of Linear Transformations](https://b-ok.cc/book/2438046/86a0bd)
 
+
     I agree, it should start here. It's a simple idea and formal in a simple way. Maybe this sounds weird but I think students often really like formality when it's simple since it lets you just calculate stuff. T(2v1+v2) = T(2v1)+T(v2) = 2T(v1)+T(v2). This is very systematic/practical and easy to explain.
     * [Interactive Matrix Visualization](https://shad.io/MatVis/)
     * [linear algebra: motivation for matrix multiplication ? (Yahoo Answers)](https://answers.yahoo.com/question/index?qid=20081012135509AA1xtKz)
     * [matplotlib.transforms — Matplotlib 3.1.2 documentation](https://matplotlib.org/3.1.1/api/transformations.html)
     * [[question] Visualizing a 3D transform? : computergraphics](https://www.reddit.com/r/computergraphics/comments/35ue6l/question_visualizing_a_3d_transform/)
 
+
     - [Search · 3d linear transformation](https://github.com/search?q=3d+linear+transformation)**
     * [02. Visualizing 2D linear transformations](https://dododas.github.io/linear-algebra-with-python/posts/16-12-29-2d-transformations.html)
 
-- LA Books and Notes
+
+* LA Books and Notes
     - -> Read "Linear Algebra and Linear Models"
+
 
     We've all come to love Dr. Strang's Linear Algebra Lectures from MIT. But his books are sometimes expensive for students and also not available. | Now Stanford University changed all that with their free book they released called "Introduction to Applied Linear Algebra" written by Stephen Boyd and Lieven Vandenberghe | Go get them all here on my #Github page, I will create some beginners lectures and #Python & #Julia notebooks there soon. | Root / main folder: https://lnkd.in/de8uepd | 1. The 473 page book itself: https://bit.ly/2tjFNdA | 2. Lovely Julia language companion book worth 170 pages! : https://bit.ly/2BxYGy0 | 3. Exercises book: https://bit.ly/2RZoVTf | 4, Course lecture slides: https://bit.ly/2N9TZPC | Source: Linkedin - Tarry Singh
     * [Übungsbuch zur Linearen Algebra: Aufgaben und Lösungen](https://b-ok.cc/book/2920292/c6f325)
     * [Übungsbuch zur Linearen Algebra: Aufgaben und Lösungen](https://b-ok.cc/book/2471810/47f794)
+
 
             * [Linear Algebra - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Linear_Algebra)
     * [Jason Brownlee-Basics for Linear Algebra for Machine Learning - Discover the Mathematical Language of Data in Python (2018) | Linear Algebra | Matrix Theory](https://fr.scribd.com/document/371769141/Jason-Brownlee-Basics-for-Linear-Algebra-for-Machine-Learning-Discover-the-Mathematical-Language-of-Data-in-Python-2018)
@@ -4952,6 +5591,7 @@
     * [ï¿½bungsbuch zur Linearen Algebra](https://b-ok.cc/book/654017/7d99da)
     * [LA Libro en ES](http://abstract.pugetsound.edu/aata-es/)
 
+
         * [Linear Algebra, Geometry and Transformation](https://b-ok.cc/book/2533347/c11dc4)
     * http://people.mpim-bonn.mpg.de/hwbllmnn/archiv/LA1.pdf
     * http://www.math.uni-frankfurt.de/~wolfart/Lehre/LinA.pdf
@@ -4963,7 +5603,8 @@
     * [Some geometric faces of algebra and algebraic faces of geometry [Lecture notes]](https://b-ok.cc/book/2663272/8a0e92)
     * [matrix_OLS_NYU_notes.pdf](http://web.stanford.edu/~mrosenfe/soc_meth_proj3/matrix_OLS_NYU_notes.pdf)
 
-- LA Misc
+
+* LA Misc
         * [Linear Algebra of Types - Hey There Buddo!](https://www.reddit.com/r/haskell/comments/d80hd0/linear_algebra_of_types_hey_there_buddo/)
     * [Bilinear form - Wikipedia](https://en.wikipedia.org/wiki/Bilinear_form)
     * [Hefferon, "Linear Algebra" Chapter 5 Section I.1](https://www.youtube.com/watch?v=rcJaQhpw-Mk&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=76)
@@ -4984,35 +5625,42 @@
     * [linear algebra - What kind of matrices are non-diagonalizable? - Mathematics Stack Exchange](https://math.stackexchange.com/questions/472915/what-kind-of-matrices-are-non-diagonalizable/472958#472958)
     * [Matrix norm - Wikipedia](https://en.wikipedia.org/wiki/Matrix_norm#Frobenius_norm)
 
+
     ==> Why are the dot product, the matrix product and the determinant of a matrix defined the way they are? : learnmath
     * [$$$ The Hadamard Product](http://buzzard.ups.edu/courses/2007spring/projects/million-paper.pdf)
 
-- LA YouTube
+
+* LA YouTube
         * [MathTheBeautiful](https://www.youtube.com/channel/UCr22xikWUK2yUW4YxOKXclQ)
     * [george boole YT channel](https://www.youtube.com/user/hobokengar)
     * https://www.youtube.com/user/Exo7Math
 
-- Matrices
+
+* Matrices
         * [Template:Matrix classes - Wikipedia](https://en.wikipedia.org/wiki/Template:Matrix_classes)
     * [Matrix Mathematics](https://drive.google.com/file/d/1-NJvYoUxIpsh7b10Qri9KkZ13sOwQYG3/view?usp=sharing)
     * [List of named matrices - Wikipedia](https://en.wikipedia.org/wiki/List_of_named_matrices)
 
-- Transpose
+
+* Transpose
         * [Geometric Interpretation of Matrix Transpose](https://www.quora.com/What-is-the-geometric-interpretation-of-the-transpose-of-a-matrix)
     
-- Numerical
+* Numerical
         * [Intro to numerical mathematics (numerical linear algebra)](https://www.youtube.com/playlist?list=PLvUvOH0OYx3AZ_WXhkLXo3JLSeGT2wLj3)
     * [Lecture notes on computer algebra](https://b-ok.cc/book/437349/0ab8a3)
     * [NLA. Home](https://nla.skoltech.ru/lectures/lectures.html)
 
+
     Golub, G., and Van Loan, C. (1996). “Matrix Computations” Johns Hopkins.—Getting a full understanding of algorithmic linear algebra is also important.
     * http://codingthematrix.com/
 
-- Trace
+
+* Trace
         * [https://en.wikipedia.org/wiki/Trace_(linear_algebra)](https://en.wikipedia.org/wiki/Trace_(linear_algebra)?wprov=sfti1)
     
-- Inverse
+* Inverse
         * [Matrices: déterminer l'inverse d'une matrice 3x3 par méthode de Gauss (méthode 1)](https://www.youtube.com/watch?v=mwIKXokhpU8&list=WL&index=27)
+
 
     Matrices: déterminer l'inverse d'une matrice 3x3 par méthode de Gauss (méthode 1)de ENJOY STUDYING
     * [Generalized Inverses of Partitioned Matrices Useful in Statistical Applications](https://core.ac.uk/download/pdf/82491713.pdf)
@@ -5021,20 +5669,23 @@
     * https://math.stackexchange.com/questions/1377634/inverse-of-partitioned-matrices
     * [Inverses of 2 × 2 Block Matrices](http://msvlab.hre.ntou.edu.tw/grades/now/inte/Inverse%20&%20Border/border-LuTT.pdf)
 
+
     Partitioned matrix inverse
     * [MIT Linear Algebra, Lecture 3: Matrix Multiplication and Inverse Matrices](https://catonmat.net/mit-linear-algebra-part-three)
 
-- Non-Linear Algebra
+
+* Non-Linear Algebra
         * [Introduction to Non-Linear Algebra](https://b-ok.cc/book/494553/63d2f3)
     * [Linear and Non-Linear Regression: And Other Mathemagical Transformation](https://b-ok.cc/book/3705600/f2450c)
     * [Nonlinear Algebra Bootcamp (Advanced Video Lectures)](https://icerm.brown.edu/programs/sp-f18/w4/)
     * [Nonlinear Algebra in Applications (Advanced Video Lectures)](https://icerm.brown.edu/programs/sp-f18/w3/)
     * [Multilinear algebra](https://b-ok.cc/book/2291835/59f40c)
 
-- Categories
+
+* Categories
         * [linear algebra - The longest list of analogies between vector spaces and categories ever made - Mathematics Stack Exchange](https://math.stackexchange.com/questions/2500480/the-longest-list-of-analogies-between-vector-spaces-and-categories-ever-made)
     
-- LA Courses
+* LA Courses
         * [Unit II: Least Squares, Determinants and Eigenvalues | Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/)
     * [Lineær algebra](https://youtube.com/playlist?list=PL6-BOuO1-NVy1ShsF7UjG99bjufuGQMBd)
     * [Lineær Algebra](https://youtube.com/playlist?list=PLIrUJXSXz9clcK25JosYF26mJ6g7k8I8U)
@@ -5050,6 +5701,7 @@
     * [whole course (excellent):](https://sheelganatra.com/spring2013_math113/)
     * [Linear Algebra | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm)
 
+
             * https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-1-the-geometry-of-linear-equations/
     * [Algebraic Geometry: start up course](https://b-ok.cc/book/2662960/524d96)
     * [Some Topics in Algebra: An Advanced Undergraduate Course at PKU | Michel Broué](https://b-ok.cc/book/2207700/8271fe)
@@ -5057,8 +5709,10 @@
     * [Linear Algebra (Full Course)](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6)
     * https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/readings/
 
+
     
         * [Coursera - Линейная алгебра](https://www.coursera.org/learn/algebra-lineynaya/home/welcome)
+
 
             * [Mathematics for Machine Learning full Course || Linear Algebra || Part-1](https://www.youtube.com/playlist?list=PLmAuaUS7wSOP-iTNDivR0ANKuTUhEzMe4)
     * [Линейная алгебра и аналитическая геометрия](https://www.youtube.com/watch?v=n3hg86tejjM&list=PL-_cKNuVAYAXCJa9WsBu0wrwtPW4L2FFH)
@@ -5069,10 +5723,12 @@
     * [Math 313 Exam III Proofs](https://docs.google.com/document/d/1AHAIoM0ve81D_5neCxPr7GV-CJqItjnnuOMpBbHeUk4/edit)
     * [313 Exams](https://drive.google.com/drive/folders/0B2W5kumU32IMZEVDN0FfRndSZlk?usp=sharing)
 
+
             * [Lineare Algebra II im SS 2017](http://www.mathematik.uni-regensburg.de/loeh/teaching/linalg2_ss17/lecture_notes.pdf)
     * [Lineare Algebra I im WS 2016/17](http://www.mathematik.uni-regensburg.de/loeh/teaching/linalg1_ws1617/lecture_notes.pdf)
     * [Линейная алгебра | Видеолекции Физтеха: Лекторий МФТИ - видеолекции по физике, математике, биологии, биоинформатике, информатике и другим д](https://lectoriy.mipt.ru/course/LinearAlgebra#lectures)
     * [LA Done Right YT Playlist](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
+
 
             * https://mitmath.github.io/1806/old.html
     * https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
@@ -5097,11 +5753,13 @@
     * https://www.youtube.com/playlist?list=PLNefH6S6myiMFlgsEIGHb8KZaLKE2eAZQ
     * [Lec 29 | MIT 18.06 Linear Algebra, Spring 2005 - YouTube](https://www.youtube.com/watch?v=Nx0lRBaXoz4)
 
+
         * https://betterexplained.com/articles/linear-algebra-guide/
     * https://people.sc.fsu.edu/~jburkardt/classes/gateway_2014/
     * http://stanford.edu/~boyd/cvxbook/cvxbook_additional_exercises/
     * https://stanford.edu/~boyd/cvxbook/
     * https://lectoriy.mipt.ru/course/LinearAlgebra
+
 
         * [Fachbereich Mathematik - Lineare Algebra I bei Prof. Dr. A. Henke im Wintersemester 2019/20](http://info.mathematik.uni-stuttgart.de/LAAG-Henke-WS19/)
     * [Linear Algebra for the Young Mathematician](https://www.lehigh.edu/~shw2/LAYM-front_matter.pdf)
@@ -5111,24 +5769,30 @@
     * http://immersivemath.com/ila/
     * [Algèbre linéaire | Lê Nguyên Hoang - YouTube](https://www.youtube.com/playlist?list=PLie7a1OUTSaidNbJ34jPhn3h5xixkpw-3)
 
+
             * [UCD Mat 67: Linear Algebra - Mathematics LibreTexts](https://math.libretexts.org/Courses/University_of_California%2C_Davis/UCD_Mat_67%3A_Linear_Algebra)
     * [LA und analytische Geometrie Stuttgart](https://pnp.mathematik.uni-stuttgart.de/iaz/iaz2/geckmf/sos19.html)
+
 
         * [Matrizen/Austauschprozesse, Klassiker der ersten Drehaufnahmen;) | Mathe by Daniel Jung - YouTube](https://www.youtube.com/watch?v=Fx6LoYAVsZE&list=PLA45E89808E3DB64D)
     * [MFGD - Intro to Matrices - YouTube](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWNQjMz941uyOIq3Nw6bcDYC)
     * [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
     * [Geometry of Linear Algebra](https://www.youtube.com/watch?v=uNKDw46_Ev4&list=PL18D92B0C2180FC87)
 
-- LA Misc Basic
+
+* LA Misc Basic
         * [Gram-Schmidt-Verfahren mit 3 Vektoren, Rechenablauf, mit Normalisierung | Mathe by Daniel Jung](https://www.youtube.com/watch?v=xTuMdiCZnYw&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=126)
     * [Find null space of a matrix](https://youtu.be/U95ggjTATNA)
     * [Regla de Cramer, explicada geométricamente | Esencia del álgebra lineal, capítulo 12](https://www.youtube.com/watch?v=jBsC34PxzoM&list=WL&index=457)
 
+
     why does the -1 trick work?
+
 
     minus one trick linear algebra
 
-- NN Math
+
+* NN Math
         * https://sudeepraja.github.io/Neural/
     * [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
     * https://medium.com/@erikhallstrm/backpropagation-from-the-beginning-77356edf427d
@@ -5141,15 +5805,19 @@
     * [¿Qué es una Red Neuronal? Parte 3.5 : Las Matemáticas de Backpropagation | DotCSV](https://www.youtube.com/watch?v=M5QHwkkHgAA&list=WL&index=610)
     * [Gradient Descent - Artificial Intelligence for Robotics](https://youtu.be/umAeJ7LMCfU)
 
+
             * [11-785 Deep Learning](http://deeplearning.cs.cmu.edu/)
+
 
     Backpropagation explained | Part 2 - The mathematical notation
     * [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
     * [CS230 Deep Learning](http://cs230.stanford.edu/)
     * [01 - Mathematics for Deep Learning - Marc Deisenroth](https://www.youtube.com/watch?v=qa8L8-_qa14&list=WL&index=501)
 
-- Tensors
+
+* Tensors
         * https://www.scienceonline.it/blog/2018/08/07/tensori-e-basi-della-relativita-per-studenti-del-corso-di-laurea-in-fisica/
+
 
             * [Intro to Tensors](https://www.youtube.com/watch?v=uaQeXi4E7gA)
     * [Tensor Introduction](https://www.youtube.com/watch?v=YBdiWnSaXy0)
@@ -5168,12 +5836,14 @@
     * [Visualization and Processing of Tensor Fields: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/Visualization%20and%20Processing%20of%20Tensor%20Fields)
     * [Calcul tensoriel - YouTube](https://www.youtube.com/playlist?list=PLzY3ZTzw_O34ZI153NoDfpQEkZkZ4ksdS)
 
+
     YouTube was ist ein Tensor?
     * [Tensor-Gotman.pdf](https://vk.com/doc4287568_509004721?hash=9954c296cd17c8bdc2&dl=c35ad0ae4bb35e0f52)
     * [Векторный и тензорный анализ | Physics.Math.Code.Books](https://vk.com/topic-51126445_38898908)
     * [Vector and Tensor Analysis with Applications](https://b-ok.cc/book/440642/5018b2?dsource=recommend)
 
-- Advanced LA
+
+* Advanced LA
         * [Advanced LA Schedule](https://www.uh.edu/nsm/math/undergraduate/courses/math4377-4378/)
     * [ALA Summary](https://math.duke.edu/courses/advanced-linear-algebra)
     * [ALA Summary II](https://math.gatech.edu/courses/math/6112)
@@ -5194,9 +5864,11 @@
     * [ToC: Shapiro H. Linear algebra and matrices : topics for a second course (Providence, 2015). - ОГЛАВЛЕНИЕ / CONTENTS](http://www.prometeus.nsc.ru/acquisitions/17-12-05/cont36f.ssi)
     * [A Guide to Advanced Linear Algebra](https://b-ok.cc/book/2290248/1f2359)
 
+
     Kreyszig, E. (1989). “Introductory Functional Analysis with Applications” Wiley.—Functional analysis is essentially linear algebra in infinite dimensions, and it’s necessary for kernel methods, for nonparametric Bayesian methods, and for various other topics.
 
-- PCA
+
+* PCA
         * [Идея и суть метода главных компонент](https://www.youtube.com/watch?v=NKmwnILrHD8&list=WL&index=452)
     * [Линейная алгебра и аналитическая геометрия](https://www.lektorium.tv/linejnaya-algebra)
     * [Метод главных компонент в R (principal component analysis)](https://www.youtube.com/watch?v=SObiC3JzHxw&list=WL&index=453)
@@ -5209,7 +5881,8 @@
     * https://towardsdatascience.com/visualizing-principal-component-analysis-with-matrix-transforms-d17dabc8230e
     * [Hauptkomponentenanalyse – Wikipedia](https://de.wikipedia.org/wiki/Hauptkomponentenanalyse)
 
-- SVD
+
+* SVD
         * [Linear Algebra 23f: Introducing the Celebrated Singular Value Decomposition (SVD)](https://www.youtube.com/watch?v=oDA3UcR-l48&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=11)
     * [Singular value decomposition](https://www.youtube.com/watch?v=_4jaLZCoLPI&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=8)
     * [singular value decomposition](https://www.youtube.com/watch?v=Stn23Pg9L9M&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=9)
@@ -5232,7 +5905,8 @@
     * [Geometrische Bedeutung der Transposition / Singulärwertzerlegung - YouTube](https://www.youtube.com/watch?v=bDV7Uxn9338)
     * [How to calculate the singular values of a matrix - YouTube](https://www.youtube.com/watch?v=4g-zS32oKEw)
 
-- Derivation
+
+* Derivation
         * [Matrix Differentiation (and some other stuff)](https://atmos.washington.edu/~dennis/MatrixCalculus.pdf)
     * [15. Matrices A(t) Depending on t, Derivative = dA/dt](https://www.youtube.com/watch?v=z3SmljnD_nQ&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=39)
     * [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html)
@@ -5250,7 +5924,8 @@
     * https://math.stackexchange.com/questions/704773/what-is-the-derivative-of-a-vector-with-respect-to-its-transpose
     * https://math.stackexchange.com/questions/2663014/derivative-of-vector-times-its-transposed-wrt-itself
 
-- Eigen*
+
+* Eigen*
         * [$$$ Eigenvectors and Eigenvalues explained visually](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
     * [power method for eigenvalues and eigenvectors examples | part #3](https://www.youtube.com/watch?v=jwZLlqnDU0w&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=61)
     * [Lamar Eigenvalues and Eigenvectors](https://tutorial.math.lamar.edu/classes/de/BVPEvals.aspx)
@@ -5261,6 +5936,7 @@
     * [Generalized dilations and eigenvalues | Wild Linear Algebra A 12 | NJ Wildberger](https://www.youtube.com/watch?v=Y2sHg11wgE8&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=71)
     * [Diagonalmatrix, Jordanform, Hülle, Spann, Eigenraum](https://www.youtube.com/playlist?list=PLLTAHuUj-zHhmXW_vXrZ3GlNw7CF8YFZC)
     * https://github.com/hibit-at/EigenShader
+
 
             * [Eigenwerte, charakteristisches Polynom, Beispiel 3X3-Matrix | Mathe by Daniel Jung - YouTube](https://www.youtube.com/watch?v=ATA9zVMVmDY)
     * [Eigenwerte, Eigenvektoren, Bildpunkt anschaulich, Lineare Abbildungen, Mathe by Daniel Jung - YouTube](https://www.youtube.com/watch?v=kSMwB8HBCGQ)
@@ -5277,25 +5953,30 @@
     * [Apprentissage automatique [1.12]: Concepts fondamentaux - décomposition en valeurs propres - YouTube](https://www.youtube.com/watch?v=9roht8QwjOM)
     * [What is an Eigenvector? - YouTube](https://www.youtube.com/watch?v=ue3yoeZvt8E)
 
+
             * [Apprentissage automatique [1.12]: Concepts fondamentaux - décomposition en valeurs propres](https://www.youtube.com/watch?v=Ls2TgGFfZnU&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=2)
     * [Vecteurs et valeurs propres | Lê Nguyên Hoang](https://www.youtube.com/watch?v=2FAiaGA0r8M&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=4)
 
-- Dot Product
+
+* Dot Product
         * [Dot product in matrix notation - Math Insight](http://mathinsight.org/dot_product_matrix_notation)
     * [How to prove invariance of dot-product to rotation of coordinate system - Mathematics Stack Exchange](https://math.stackexchange.com/questions/947867/how-to-prove-invariance-of-dot-product-to-rotation-of-coordinate-system#comment1952177_947928)
     * https://users.math.msu.edu/users/gnagy/teaching/10-fall/mth234/w2-234-h.pdf
     * [The dot product Khan Academy](https://www.youtube.com/watch?v=KDHuWxy53uM)
 
-- Other Decompositions
+
+* Other Decompositions
         * [04.08. The polar decomposition I](https://www.youtube.com/watch?v=Bm_zccEy3hI&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=14)
     * [Matrix Factorization and Advanced Techniques](https://coursera.org/learn/matrix-factorization)
     * https://en.wikipedia.org/wiki/Matrix_decomposition
     * [Triangular Factorizations & Operation Counts](https://people.sc.fsu.edu/~jburkardt/classes/gateway_2014/lecture_week03.pdf)
 
-- JNF
+
+* JNF
         * http://m.mathnet.ru/links/321619829fba9afab07329a5e87a1bb2/mzm9303.pdf
     * [Jordan Canonical Form: Theory and Practice (Synthesis Lectures on Mathematics and Statistics)](https://b-ok.cc/book/660097/cc73d1)
     * http://www.rinconmatematico.com/libros.htm
+
 
     JCF
     * [Жорданова нормальная форма](http://lib.usue.ru/resource/free/10/MelnikovAlgebra3/00JourdFm.pdf)
@@ -5303,31 +5984,39 @@
     * [Jordan normal form:](https://en.wikipedia.org/wiki/Jordan_normal_form)
     * https://libgen.is/book/index.php?md5=BB22E4DA88322F14FD285CB6A4842A75
 
+
     LA with Intro to AA
     * [LA with Jordan in Appendix](https://mathematicalolympiads.files.wordpress.com/2012/08/lineer-algebra2.pdf)
     * [Newer wo Jordan](https://www.mobt3ath.com/uplode/book/book-33740.pdf)
     * ["Histoire du théorème de Jordan de la décomposition matricielle (1870-1930). Formes de représentation et méthodes de décomposition"](https://tel.archives-ouvertes.fr/tel-00142786)
 
+
     Cullen, Charles G. (1966), Matrices and Linear Transformations, Reading: Addison-Wesley, LCCN 66021267
     * [Dunford, N.; Schwartz, J. T. (1958), Linear Operators, Part I: General Theory, Interscience](https://en.wikipedia.org/wiki/Interscience)
     * [Finkbeiner II, Daniel T. (1978), Introduction to Matrices and Linear Transformations (3rd ed.), W. H. Freeman and Company](https://en.wikipedia.org/wiki/W._H._Freeman_and_Company)
 
+
     Franklin, Joel N. (1968), Matrix Theory, Englewood Cliffs: Prentice-Hall, LCCN 68016345
+
 
     Golub, Gene H.; Van Loan, Charles F. (1996), Matrix Computations (3rd ed.), Baltimore: Johns Hopkins University Press, ISBN 0-8018-5414-8
     * [Golub, Gene H.; Wilkinson, J. H. (1976). "Ill-conditioned eigensystems and the computation of the Jordan normal form". SIAM Review. 18 (4): 578–619.](https://en.wikipedia.org/wiki/SIAM_Review)
     * [Holt, Derek; Rumynin, Dmitriy (2009), Algebra I – Advanced Linear Algebra (MA251) Lecture Notes (PDF)](http://homepages.warwick.ac.uk/~masdf/alg1/lec_notes_revised_at_the_end.pdf)
+
 
     Horn, Roger A.; Johnson, Charles R. (1985), Matrix Analysis, Cambridge University Press, ISBN 978-0-521-38632-6
     * [James, Glenn; James, Robert C. (1976), Mathematics Dictionary (2nd ed.), Van Nostrand Reinhold](https://en.wikipedia.org/wiki/Van_Nostrand_Reinhold)
     * [MacLane, Saunders; Birkhoff, Garrett (1967), Algebra, Macmillan Publishers](https://en.wikipedia.org/wiki/Macmillan_Publishers)
     * [Michel, Anthony N.; Herget, Charles J. (1993), Applied Algebra and Functional Analysis, Dover Publications](https://en.wikipedia.org/wiki/Dover_Publications)
 
+
     Nering, Evar D. (1970), Linear Algebra and Matrix Theory (2nd ed.), New York: Wiley, LCCN 76091646
+
 
     Shafarevich, I. R.; Remizov, A. O. (2012), Linear Algebra and Geometry, Springer, ISBN 978-3-642-30993-9
     * [Shilov, Georgi E. (1977), Linear Algebra, Dover Publications](https://en.wikipedia.org/wiki/Dover_Publications)
     * [Jordan Canonical Form article at mathworld.wolfram.com](http://mathworld.wolfram.com/JordanCanonicalForm.html)
+
 
     - --------------------------------------------------------------------------------------------------------------------    [outstanding intuition for eigenvalues and determinant](https://intuitive-math.club/linear-algebra/eigenvalues/)
     * [Intuitive Math](https://intuitive-math.club/)
@@ -5341,6 +6030,7 @@
     * http://math.uchicago.edu/~may/REU2017/REUPapers/Day.pdf
     * http://math.uchicago.edu/~may/REU2017/REUPapers/Day.pdf
     * https://math.stackexchange.com/questions/1616128/what-is-the-easiest-proof-you-know-for-the-jordan-canonical-form
+
 
     - --------------------------------------------------------------------------------------------------------------------    [Possibly Best](https://mattbaker.blog/2015/07/31/the-jordan-canonical-form/)
     * [Wahlen](http://www.ctr.maths.lu.se/media11/MATM14/2011MATM14_vt11/jordan_.pdf)
@@ -5358,7 +6048,9 @@
     * [Ximera](https://ximera.osu.edu/laode/linearAlgebra/matrixNormalForms/proofOfJordanNormalForm)
     * [Wikipedia](https://en.wikipedia.org/wiki/Jordan_normal_form#A_proof)
 
+
     - --------------------------------------------------------------------------------------------------------------------    RU
+
 
         * http://scask.ru/p_book_alin.php?id=36
     * http://www.fipm.ru/zhordan.shtml
@@ -5370,6 +6062,7 @@
     * https://irbis.amursu.ru/DigitalLibrary/AmurSU_Edition/336.pdf
     * http://bodrenko.org/algebra/unit_5_8.htm
     * https://kpfu.ru/docs/F1418016545/ALG_2.pdf
+
 
     DE
     * [langer Beweis](http://home.mathematik.uni-freiburg.de/geometrie/lehre/ss2003/la2/skript/9.pdf)
@@ -5384,16 +6077,20 @@
     * https://www.mathematik.uni-kl.de/~gathmann/class/gdm-2019/gdm-2019-c20.p
     * [Thoma (Prozess)](https://martin-thoma.com/wie-berechnet-man-die-jordansche-normalform/)
 
+
         
     ES
     * [proceso](https://ocw.ehu.eus/pluginfile.php/549/mod_page/content/1/Tema3.pdf)
 
+
             * http://matematicas.uam.es/~fernando.chamizo/asignaturas/1819algII/resumen/tema3.pdf
     * [?](http://www.dim.uchile.cl/~fbravo/guias/EDO/Tutorial_formas_de_jordan_(3.1).pdf)
+
 
     
             * http://mate.dm.uba.ar/~jeronimo/algebra_lineal/Capitulo7.pdf
     * [An intuitive way to prove Jordan Normal Form. Help with the proof.](https://www.reddit.com/r/math/comments/5yppjb/an_intuitive_way_to_prove_jordan_normal_form_help/)
+
 
     FR
     * [?](http://www.cirget.uqam.ca/~apostolo/MAT2011/expose12,13-14.pdf)
@@ -5411,6 +6108,7 @@
     * http://math.univ-lyon1.fr/~ressayre/PDFs/jorfro.pdf
     * [code py](http://gilles.dubois10.free.fr/algebre_lineaire/jordan.html)
 
+
     IT
     * https://www.youmath.it/lezioni/algebra-lineare/matrici-e-vettori/3883-come-trovare-la-forma-canonica-di-jordan.html
     * http://www.dmmm.uniroma1.it/~giuseppe.accascina/Geometria_e_Algebra-LaureaSpecialistica_Ing_Gestionale/2006-2007/Dispense%20del%20corso/GeoAlgebra2006-07-Cap17-Matrici_jordanizzabili.pdf
@@ -5420,9 +6118,11 @@
     * http://www.dm.unibo.it/~fioresi/2016/fis/jordan.pdf
     * [Jordan Normalform, Übersicht mit Diagonalmatrix, Lineare Algebra | Mathe by Daniel Jung](https://www.youtube.com/watch?v=83SgQJekeuk&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=111)
 
+
     StackExchange
     * https://math.stackexchange.com/questions/2026267/difference-between-jordan-decomposition-and-eigenvalue-decomposition-spectral-d?r=SearchResults
     * https://math.stackexchange.com/questions/517891/relation-between-jordan-form-and-jordan-decomposition?r=SearchResults
+
 
     - --------------------------------------------------------------------------------------------------------------------    [How to Find JCF](https://www.math.ucla.edu/~jlindquist/115B/JCF.pdf)
     * [Jordan Form](https://youtu.be/460OLs22nG8)
@@ -5444,95 +6144,141 @@
     * [Interesting?](https://www.isa-afp.org/browser_info/current/AFP/Jordan_Normal_Form/document.pdf)
     * [An intuitive way to prove Jordan Normal Form. Help with the proof.](https://www.reddit.com/r/math/comments/5yppjb/an_intuitive_way_to_prove_jordan_normal_form_help/)
 
+
     Books
+
 
     Matrix Analysis (Horn & Johnson) Ch 3
 
+
     Matrices and Linear Transformations 8.3
+
 
     Applied Linear Algebra (Olver) 8.6
 
+
     Hefferon IV
+
 
     Linear Algebra and Matrix Analysis for Statistics Ch. 12
 
+
     The LA a Beginning Grad Student Should Know 13
+
 
     Handbook of LA 6.2
 
+
     Matrix Analysis & Applied LA 7.7 & 7.8
+
 
     A Concise Text on LA 7
 
+
     Linear Algebra (thorough) 9
+
 
     Fundamentals of Linear Algebra 13
 
+
     Further Linear Algebra 5
+
 
     Introduction to Matrix Computations 6.3
 
+
     Advanced Linear Algebra pg. 190
+
 
     Einführung in die LA 6
 
+
     LA and Its Applications Appendix B
+
 
     Matrix Theory (Piziak) II
 
+
     LA Bosch 6.5
+
 
     LA Fischer 4.6
 
+
     Algebra lineare e geometria 4.2
+
 
     Algebra (Artin) 12.7.13
 
+
     LA and Its Applications (Lax) A15
+
 
     LA (Liesen & Mehrmann) 16
 
+
     LA Done Right 8 (& 5)
+
 
     LA Done Wrong 9.5 (concise!)
 
+
     Matrix Mathematics 5.3
+
 
     Functions of Matrices B.2, 1.9
 
+
     Теория матриц 4.13
+
 
     Теория матриц (Гантмахер) 4.6(148, 183)
 
+
     Линейная алгебра 5.6
+
 
     code/mathe/jordan_horn
 
+
     Advanced Linear Algebra Notes (excellent).pdf
+
 
     Bibliography Page.html
 
+
     Galperin–Waksman proof.pdf
+
 
     Good Proof.pdf
 
+
     JF_RU.pdf
+
 
     Jordan CF Proof Made Easy.pdf
 
+
     Jordan Form elementary proof.pdf
+
 
     Jordan canonical form - Theory and practice.pdf
 
+
     Kottke Lecture Notes.pdf
+
 
     Maté Lecture Notes.pdf
 
+
     Purbhoo Lecture Notes.pdf
+
 
     Simple Proof.pdf
 
+
     The Jordan Formal Form - Notes.pdf
+
 
     fletchersorensenjordan.pdf
     * [Лекция 27: Доказательство теоремы Жордана](https://www.youtube.com/watch?v=T7Ed3woR_Z0&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=74)
@@ -5542,7 +6288,8 @@
     * https://math.stackexchange.com/questions/131819/are-jordan-chains-always-linearly-independent/131863#131863
     * [Jordan_normal_form](https://en.wikipedia.org/wiki/Jordan_normal_form)
 
-- GeoGebra
+
+* GeoGebra
         * [Tutorial:Introduction to GeoGebraScript - GeoGebra AccueilManuel](https://wiki.geogebra.org/en/Tutorial:Introduction_to_GeoGebraScript)
     * [GeoGebra](https://dev.geogebra.org/trac)
     * [Scripting - GeoGebra AccueilManuel](https://wiki.geogebra.org/en/Scripting)
@@ -5554,13 +6301,17 @@
     * [svn - Revision 67364: /trunk/geogebra](https://dev.geogebra.org/svn/trunk/geogebra/)
     * [3b1b styled Linear Transformation – GeoGebra](https://www.geogebra.org/m/ftFx2tfp)
 
-- Advanced & Misc
+
+* Advanced & Misc
         * [Высшая математика 1-й семестр (лекция 1 - 10)](https://vk.com/wall-16108331_150635)
+
 
     Высшая математика в вопросах и ответах. Крицков Л.В.
 
+
     Высшая математика. Математическое программирование. Кузнецов А.В., Сакович В.А., Холод Н.И.
     * https://www.tu-chemnitz.de/mathematik/part_dgl/teaching/WS2012_H%C3%B6here_Mathematik_I/Skript_H%C3%B6here_Mathematik_WS2012.pdf
+
 
         * [Algebra und Diskrete Mathematik 2: Lineare Optimierung, Graphen und Algorithmen, Algebraische Strukturen und Allgemeine Algebra mit Anwendungen](https://b-ok.cc/book/2146381/411503)
     * [Algebra und Diskrete Mathematik 1: Grundbegriffe der Mathematik, Algebraische Strukturen 1, Lineare Algebra und Analytische Geometrie, Numerische Algebra](https://b-ok.cc/book/2146377/58185c)
@@ -5574,6 +6325,7 @@
     * [https://www.math.ust.hk/~mabfchen/ (varied)](https://www.math.ust.hk/~mabfchen/)
     * [(4) William Chen's answer to What are some counterintuitive results in game theory? - Quora](https://www.quora.com/What-are-some-counterintuitive-results-in-game-theory-1/answer/William-Chen-6)
 
+
     
             * [Analysing Complexity | Macquarie University](https://www.coursera.org/learn/analysing-complexity)
     * [Category theory and set theory: just a different language, or different foundation of mathematics? - MathOverflow](https://mathoverflow.net/questions/360578/category-theory-and-set-theory-just-a-different-language-or-different-foundati)
@@ -5582,6 +6334,7 @@
     * [Complex and Chaotic Nonlinear Dynamics: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/Complex%20and%20Chaotic%20Nonlinear%20Dynamics)
     * [Cool results from the Chaos Game : math](https://www.reddit.com/r/math/comments/f49nix/cool_results_from_the_chaos_game/)
     * [Does God Play Dice?: The New Mathematics of Chaos | Ian Stewart | download](https://b-ok.cc/book/3408441/170fcb)
+
 
     Euler's Gem
     * [formal concept analysis - Поиск в Google](https://www.google.com/search?q=formal+concept+analysis&rlz=1C5CHFA_enUS800US800&oq=formal+concept+analysis&aqs=chrome..69i57j0l7.245j0j9&sourceid=chrome&ie=UTF-8)
@@ -5600,10 +6353,12 @@
     * [Lecture 1: Introduction to Measure Theory](https://www.youtube.com/watch?v=nsMUPVceFUk&list=WL&index=436)
     * [Lectures on fractal geometry and dynamical systems | Yakov Pesin and Vaughn Climenhaga | download](https://b-ok.cc/book/2625548/7c4fc8)
 
+
     Marc Toussaint - Maths for Intelligent Systems
     * [Marc Toussaint - Maths for Intelligent Systems Course WS 19/20 U Stuttgart](https://www.user.tu-berlin.de/mtoussai/teaching/19-Maths/)
     * [Maß und Wahrscheinlichkeit](https://b-ok.cc/book/1226651/acceee)
     * [Maßtheorie und Integrationstheorie - YouTube](https://www.youtube.com/playlist?list=PLBh2i93oe2qskb2hCIR2HfO4ZFF1LXO1d)
+
 
     Matemáticas alternativas | Cortometraje
     * [Mathematical foundations of neuroscience](https://b-ok.cc/book/746756/6e82e5)
@@ -5617,8 +6372,10 @@
     * [Metrischer Raum – Wikipedia](https://de.wikipedia.org/wiki/Metrischer_Raum)
     * [Microeconometrics: Methods and Applications](http://www.centroportici.unina.it/centro/Cameron&Trivedi.pdf)
 
+
             * [nLab](https://ncatlab.org/nlab/show/HomePage)
     * [O que é a teoria do caos? | Superinteressante](https://super.abril.com.br/ciencia/o-que-e-a-teoria-do-caos/)
+
 
     Regular and Semi-regular Polytopes I.pdf.pdf
     * [Signal processing for neuroscientists](https://b-ok.cc/book/4986723/f8ca74)
@@ -5640,6 +6397,7 @@
     * [Системная аналитика](http://lektorium.tv/analytics)
     * [Теория кодирования](https://www.lektorium.tv/course/22864)
 
+
     Cover, T. and Thomas, J. “Elements of Information Theory” Wiley.—Classic information theory.
     * [Emilien Pecoul - Theorie des Categories: vous la connaissez déjà](https://www.youtube.com/watch?v=83e3TWdecqQ&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=68)
     * [LES CATEGORIES POUR LES NULS](https://www.youtube.com/watch?v=LVHoROSF3KA&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=67)
@@ -5652,10 +6410,12 @@
     * [The applications of non-euclidean distance | Metric Spaces](https://www.youtube.com/watch?v=Usngvpiv_LI&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=131)
     * [game-theory-IESDS-generator/IESDS.py at master · Ryan-Holben/game-theory-IESDS-generator](https://github.com/Ryan-Holben/game-theory-IESDS-generator/blob/master/IESDS.py)
 
+
             * [category theory - YouTube](https://www.youtube.com/results?search_query=category+theory)
     * [Coding Theory - Algorithms, Architectures, and Applications | Andre Neubauer, Jurgen Freudenberger, Volker Kuhn | download](https://b-ok.cc/book/437612/054fae?dsource=recommend)
     * [Entropy (information theory) - Wikipedia](https://en.wikipedia.org/wiki/Entropy_(information_theory)#Textbooks_on_information_theory)
     * [Hilbert space - Wikipedia](https://en.wikipedia.org/wiki/Hilbert_space)
+
 
     Information Theory: A Tutorial Introduction (Stone)
     * [reference request - Audio signal processing book suggestions - Signal Processing Stack Exchange](https://dsp.stackexchange.com/questions/64593/audio-signal-processing-book-suggestions?newreg=e66471a633874ed4bd5ab02fae8d2c78)
@@ -5666,8 +6426,9 @@
     * [Теория игр (2013)](https://www.youtube.com/watch?v=OykcnxV_ezM&list=PL-_cKNuVAYAXFNglVTzUVMmwLUKCtwW4E)
     * [Теория кодирования](https://www.youtube.com/watch?v=1PgXp7H5ChU&list=PL-_cKNuVAYAVK136j7cxAw8P0x_AM95LV)
 
+
         
-- Interesting Reading
+* Interesting Reading
         * https://www.spektrum.de/thema/topologie/1647072
     * https://en.wikipedia.org/wiki/Trigonometric_functions
     * [Problema 3 de TRIGONOMETRÍA EN TRIÁNGULOS RECTÁNGULOS](https://www.youtube.com/watch?v=wLICfPqRlhM&list=WL&index=252)
@@ -5676,6 +6437,7 @@
     * [Section 8-3 : Periodic Functions & Orthogonal Functions](https://tutorial.math.lamar.edu/classes/de/PeriodicOrthogonal.aspx)
     * [Introduction to the Fourier Transform (Part 1) - YouTube](https://www.youtube.com/watch?v=1JnayXHhjlg&feature=youtu.be)
 
+
             * [Секреты интересных интегралов](http://library.lol/main/BEE16BBB72EABFE268AAE70FAAE8EC04)
     * [L'algèbre discrète de la transformée de Fourier : Niveau M1](http://library.lol/main/C4479F79894DCEFB975435AADC72D932)
     * [Basic Real Analysis](https://www.math.stonybrook.edu/~aknapp/download/b2-realanal-inside.pdf)
@@ -5683,6 +6445,7 @@
     * [An introduction to Lebesgue integration and Fourier series](http://libgen.li/item/index.php?md5=33431F0F55334E88D171C0082556F072)
     * [Intuitive Understanding of the Fourier Transform and FFTs](https://www.youtube.com/watch?v=FjmwwDHT98c)
     * [What is a Discrete Fourier Transform? | Week 14 | MIT 18.S191 Fall 2020 | Grant Sanderson](https://www.youtube.com/watch?v=g8RkArhtCc4&t=103s)
+
 
     Introduction to Tensor Analysis and the Calculus of Moving Surfaces (Grinfeld).pdf (Drive)
     * [Fourier Analysis playlist](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC)
@@ -5696,9 +6459,11 @@
     * [Funktionentheorie 1 [4 ed.]](http://libgen.rs/book/index.php?md5=BE6BE5886BE5FB3169FD819A4B0BA60A)
     * [Funktionentheorie 2: Riemann´sche Flächen Mehrere komplexe Variable Abel´sche Funktionen Höhere Modulformen [2 ed.]](http://libgen.rs/book/index.php?md5=A255F3A50AAAC3846F85A5F36518F63D)
 
+
     e^(pi*i)
     * [Mathematical analysis and its inherent nature](https://b-ok.cc/book/5292404/9f6030)
     * https://openedu.ru/course/msu/CALC1/
+
 
             * [Advanced Calculus: A Geometric View](https://b-ok.cc/s/?q=Advanced+Calculus%3A+A+Geometric+View)
     * [Foundations of analysis](https://b-ok.cc/book/5301694/1638f9)
@@ -5709,7 +6474,9 @@
     * [Mathematics of Optimization: How to do Things Faster](https://b-ok.cc/book/3606410/93c6bb)
     * [Spaces: An Introduction to Real Analysis](https://b-ok.cc/book/3719485/b28951)
 
+
     pi as infinite product
+
 
     Taylor Series
     * ["Gödel-Universum" erlaubt Zeitreisen in die Vergangenheit](https://www.reddit.com/r/Wissenschaft/comments/ckklb6/g%C3%B6deluniversum_erlaubt_zeitreisen_in_die/)
@@ -5735,13 +6502,16 @@
     * [Une conjecture sur l’approximation des nombres irrationnels enfin prouvée](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.pourlascience.fr%2Fsd%2Fmathematiques%2Fune-conjecture-sur-lapproximation-des-nombres-irrationnels-enfin-prouvee-17928.php%3Ffbclid%3DIwAR1o4GpW9K-Z1G3dWPpska3mXUkKnXFP9nUB9XjH2rP5J2PKMdkex4Jo878&h=AT3VpiiggWcjl_zuVyBC7MiAxFkDHnPT9GRd8BAk7Lf9ZAVWxHu7pXORbrKoPF3yUgqanvRvR83v-T2efFHagQ3VMORpUmLi0twKWRzCCuDz0uouueWxxnr1NRymqmjd0WeZ_wO35Q)
     * [This is why you're learning differential equations](https://www.youtube.com/watch?v=ifbaAqfqpc4&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=121)
 
+
     - [> Solving Problems in Mathematical Analysis: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/Solving%20Problems%20in%20Mathematical%20Analysis)
     * [¿Qué es un conjunto compacto? (Parte 2) Compacidad - YouTube](https://www.youtube.com/watch?v=jLzhAV_fDws)
     * [¿Qué es un conjunto compacto? (Parte1) Compacidad - YouTube](https://www.youtube.com/watch?v=GGDX90zsEjY)
     * [Advanced Calculus: A Geometric View](file:///Users/iriley/Google%20Drive/A.%20Formacio%CC%81n/C.%20Matema%CC%81tica/H.%20Ca%CC%81lculo%20y%20ana%CC%81lisis/Advanced%20Calculus.%20A%20Geometric%20View.pdf)
 
+
             * [$$$calculus - Density of $\mathbb{Q}$ in $\mathbb{R}$ and countability - Mathematics Stack Exchange](https://math.stackexchange.com/questions/2401546/density-of-mathbbq-in-mathbbr-and-countability)
     * [100 INTEGRALS (world record?)](https://www.youtube.com/watch?v=dgm4-3-Iv3s&list=WL&index=456)
+
 
     A norm |.| is non-Archimedian if |x+y| <= max( |x|, |y| ). Example: p-adic numbers.
     * [Adaptive differential evolution: a robust approach to multimodal problem optimization | Jingqiao Zhang, Arthur C. Sanderson (auth.) | download](https://b-ok.cc/book/592238/40ea10)
@@ -5761,11 +6531,14 @@
     * [Гармонический анализ](https://www.youtube.com/watch?v=JzB3Idjkf-0&list=PL-_cKNuVAYAUjqyLQaM6bRgMdy0zb062e)
     * [Интегрирование иррациональных функций](https://vk.com/video-16108331_456267018?list=58aabbe763246eb05a)
 
+
     Лекция 1 Первообразная и неопределенный интегралde Александр Волков
     * [Математический анализ | Федор Петров](https://vk.com/wall-138477641_13054)
 
+
     Математический анализ. В 2-х ч. Зорич В.А.
     * [Операционное исчисление.Дифференциальное ур.](https://www.youtube.com/watch?v=gtCJ1JZr2MM&list=WL&index=3)
+
 
     Операционное исчисление.Дифференциальное ур.de pymathru
     * [Основы математического анализа. Неравенства и оценки [2019] Максимова.pdf](https://vk.com/doc44301783_514951237?hash=2bbb9537233fd90747&dl=f1c667af568504d19b)
@@ -5782,9 +6555,11 @@
     * [Übungsbuch zur Analysis: Aufgaben und ausführliche Lösungen (nicht nur) für Studierende der Informatik](https://b-ok.cc/book/3398051/6527f5)
     * [um.5 Gauss; de lo real a lo imaginario](https://www.youtube.com/watch?v=Ol7Ogu8ZEIA&list=WL&index=244)
 
+
     Newton’s “Principia”
     * [Cálculo y algo más - Videos Ordenados - YouTube](https://www.youtube.com/playlist?list=PLTIdiuUvwYCEVuBjYVwz8Pd77wSoj-EsO)
     * [calculus - Newton conjugate gradient algorithm - Mathematics Stack Exchange](https://math.stackexchange.com/questions/1819410/newton-conjugate-gradient-algorithm)
+
 
     Calculus at a Fifth Grade Level
     * [Calculus Made Easy](http://calculusmadeeasy.org/)
@@ -5798,16 +6573,21 @@
     * [Difference between gradient and Jacobian](https://math.stackexchange.com/questions/1519367/difference-between-gradient-and-jacobian)
     * [Differential of a function - Wikipedia](https://en.wikipedia.org/wiki/Differential_of_a_function)
 
+
     e (Euler's Number) is seriously everywhere | The strange times it shows up and why it's so important
     * [Em Busca Do Infinito - Uma História Da Matemática Dos Primeiros Números À Teoria Do Caos | Ian Stewart | download](https://b-ok.cc/book/5102479/7b76d3)
+
 
     Envelope Theorem
     * [ENVELOPE THEOREM INTUITION](https://www.youtube.com/watch?v=QzcCa2BvPXE)
     * [Factores de integración 1 (video) | Khan Academy](https://es.khanacademy.org/math/differential-equations/first-order-differential-equations/exact-equations/v/integrating-factors-1)
 
+
     Functional Analysis
 
+
     *[How to integrate sqrt(2x-x^2)](https://youtu.be/QAOBWnEVEcA)*
+
 
     How to Think about Analysis
     * http://davidlowryduda.com/an-intuitive-overview-of-taylor-series/
@@ -5824,8 +6604,10 @@
     * [Int by Parts 1 - Natural Log and Exponential - YouTube](https://www.youtube.com/watch?v=F6RlYgZODyU&list=PL7A187B5BBC2E5FCB)
     * [Lagrange-Formalismus, Funktion maximieren, kritische Stellen bestimmen | Mathe by Daniel Jung](https://www.youtube.com/watch?v=6GOwRXK17Ds&list=WL&index=4)
 
+
     Lagrange-Formalismus, Funktion maximieren, kritische Stellen bestimmen | Mathe by Daniel Jungde Mathe by Daniel Jung
     * [Les théorèmes d'incomplétude de Gödel](https://www.youtube.com/watch?v=82jOF4Q6gBU&list=WL&index=335)
+
 
     Mathématiques : deux infinis différents sont en fait de même taille - Pour la Science
     * [matrices - Integrating a matrix - Mathematics Stack Exchange](https://math.stackexchange.com/questions/450560/integrating-a-matrix)
@@ -5853,7 +6635,8 @@
     * http://www.math.ucla.edu/~tao/preprints/compactness.pdf
     * [EL HOMBRE QUE CONOCÍA EL INFINITO - YouTube](https://www.youtube.com/watch?v=AjrHurgTR5Y)
 
-- Numerik
+
+* Numerik
         * [Algorithms for computer algebra](https://b-ok.cc/book/437326/70e70e)
     * [Core Computational Methods (Advanced Video Lectures)](https://icerm.brown.edu/programs/sp-f18/w1/)
     * [http://computationalmath.org](http://computationalmath.org/)
@@ -5863,31 +6646,40 @@
     * [teoriya-vyichisleniy-dlya-programmistov.pdf](https://vk.com/doc30601958_461719403?hash=78212bc15db06b53a0&dl=0faa9f5e4b2a9e2c8b)
     * [Вычислительно трудные задачи и дерандомизация](https://www.youtube.com/watch?v=mjQOc665NbA&list=PL-_cKNuVAYAUoLJnJCDJp9HAhTxIsHIJs)
 
+
         * [Numerical Analysis: Mathematics of Scientific Computing](https://b-ok.cc/book/3711944/1a9c5d)
     * [Numerical Recipes - Cambridge University Press](http://datascience.getresponse360.com/click.html?x=a62e&lc=uf1&mc=j&s=jFaI&u=F&y=8&z=wjeXevR&)
 
-- Algorithms
+
+* Algorithms
         * [Алгоритмическая теория игр](https://www.youtube.com/watch?v=UY3k8feJwvM&list=PL-_cKNuVAYAW0wtGRZUyQDW5iG2OJ9Tco)
     * [Алгоритмическая теория информации](https://www.youtube.com/watch?v=StO06hBDIu8&list=PL-_cKNuVAYAWEbakVr20XXXASWjoJ4WdQ)
     * [Математическая логика и теория алгоритмов](https://www.lektorium.tv/mathlogic)
 
+
     Математическая логика и теория алгоритмов для программистов Гринченков Д.В., Потоцкий С.И.
+
 
     Эффективные алгоритмы и сложность вычислений
 
+
         
-- Graph
+* Graph
         * [(habe schon?) Graphs, Networks and Algorithms | Dieter Jungnickel (auth.) | download](https://b-ok.cc/book/437121/c789ff?dsource=recommend)
+
 
             * [00 - Основы теории графов. О курсе](https://vk.com/video-16108331_456267430?list=8548292c085c7dba19)
     * [Book: Algorithmic Graph Theory](http://freecomputerbooks.com/Algorithmic-Graph-Theory.html)
 
+
     Graph Theory (14-chapter book)
+
 
     Graph Theory (Harary)
     * [Graph Theory Basics](https://ankiweb.net/shared/info/469279678)
     * [Graph Theory to Solve Sudokus](https://www.reddit.com/r/Julia/comments/d425xp/using_graph_theory_for_solving_sudokus/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
     * [Graphentheorie](https://drive.google.com/file/d/1XZD3N5M86e7ObXY7WsPhyRg1-lnwX7CT/view?usp=sharing)
+
 
         
     Graphes Chaines Eulériennes et Théorème d'Euler - Mathrix
@@ -5896,7 +6688,9 @@
     * [Графы и немного алгебры](https://www.lektorium.tv/node/36694)
     * [Графы и немного алгебры](https://www.youtube.com/watch?v=db3Y1goFuxs&list=PL-_cKNuVAYAX4atGBpTOW_dZ8gHKGY2E_)
 
+
     Введение в теорию графов [2019] Робин Уилсон
+
 
     Game Theory
     * [Games and Mathematics: Subtle Connections | David Wells | download](https://b-ok.cc/book/2072213/e19a31)
@@ -5904,7 +6698,8 @@
     * [Simple proof of the existence of Nash equilibria for 2-person games? - MathOverflow](https://mathoverflow.net/questions/121542/simple-proof-of-the-existence-of-nash-equilibria-for-2-person-games)
     * [Spieltheorie des Lebens | Tragödie des Gemeinguts](https://www.youtube.com/watch?v=IIpbgWyPsWQ&list=WL&index=1320)
 
-- Other Miscellaneous
+
+* Other Miscellaneous
         * [Marcus Kracht - The Mathematics of Language](https://libgen.is/book/index.php?md5=8BC4286BFFD3A104BC057FCD93C0D211)
     * [Self-Collective Behavior](http://people.math.sfu.ca/~van/papers/FetecauCMSNotesv47n1.pdf)
     * [An Introduction to Dynamical Systems: Continuous and Discrete, Second Edition](https://bookstore.ams.org/amstext-19/)
@@ -5916,17 +6711,21 @@
     * [¿Por qué tenemos 12 notas musicales? | Música y matemáticas](https://www.youtube.com/watch?v=P7iC-fbdKmQ&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=28)
     * [Porqué las mascarillas funcionan MEJOR de lo que crees](https://www.youtube.com/watch?v=Y47t9qLc9I4&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=130)
 
-- Advanced Topics - Books
+
+* Advanced Topics - Books
         * [A Course in Rasch Measurement Theory_David Andrich, Ida Marais_1st ed. 2019](http://link.springer.com/openurl?genre=book&isbn=978-981-13-7496-8)
     * [A Transition to Advanced Mathematics (Johnston & McAllister)](https://vk.com/doc35528094_516651660?hash=06d7df35622ce85042&dl=54f1a21c29453a0fad)
+
 
     Anschauliche Funktionentheorie
     * [Computational Aspects of Cooperative Game Theor](http://library.lol/main/6D8003F2187EE36BE8FDEDE7E0E5D757)y
     * [Game Theory. A Classical Introduction, Mathematical Games, and the Tournament](http://library.lol/main/752272E4FDA865D8691E789F901A0015)
 
+
     Introduction to Spectral Graph Theory
     * [Linear and Nonlinear Programming_David G. Luenberger, Yinyu Ye_4th ed. 2016](http://link.springer.com/openurl?genre=book&isbn=978-3-319-18842-3)
     * [Linear Programming_Robert J Vanderbei_4th ed. 2014](http://link.springer.com/openurl?genre=book&isbn=978-1-4614-7630-6)
+
 
     Maß und Wahrscheinlichkeitslehre
     * [Multivariate Calculus and Geometry_Seán Dineen_3rd ed. 2014](http://link.springer.com/openurl?genre=book&isbn=978-1-4471-6419-7)
@@ -5952,73 +6751,107 @@
 * NN Code
 
 import numpy as np
+
 import matplotlib.pyplot as plt
 
 def softmax(A):
+
 expA = np.exp(A)
+
 return expA / expA.sum(axis=1, keepdims=True)
 
 def sigmoid(x):
+
 return 1 / (1 + np.exp(-x))
 
 def softmax(A):
+
 expA = np.exp(A)
+
 return expA / expA.sum(axis=1, keepdims=True)
 
 np.random.seed(1)
 
+
 # generate three Gaussian clouds each holding 500 points
 
 X1 = np.random.randn(500, 2) + np.array([0, -2])
+
 X2 = np.random.randn(500, 2) + np.array([2, 2])
+
 X3 = np.random.randn(500, 2) + np.array([-2, 2])
+
 
 # put them all in a big matrix
 
 X = np.vstack([X1, X2, X3])
 
+
 # generate the one-hot-encodings
 
 labels = np.array([0]*500 + [1]*500 + [2]*500)
+
 T = np.zeros((1500, 3))
+
 for i in range(1500):
+
 T[i, labels[i]] = 1
+
 
 # visualize the data
 
 plt.scatter(X[:,0], X[:,1], c=labels, s=100, alpha=0.5)
+
 plt.show()
+
 samples = X.shape[0] # 1500 samples
+
 features = X.shape[1] # 2 features
+
 hidden_nodes = 5
+
 classes = 3
+
 
 # randomly initialize weights
 
 W1 = np.random.randn(features, hidden_nodes)
+
 b1 = np.random.randn(hidden_nodes)
+
 W2 = np.random.randn(hidden_nodes, classes)
+
 b2 = np.random.randn(classes)
 
 alpha = 10e-6
+
 costs = []
+
 for epoch in range(10000):
 # forward pass
+
 A = sigmoid(X.dot(W1) + b1) # A = sigma(Z)
+
 Y = softmax(A.dot(W2) + b2) # Y = softmax(Z2)
 
 ```
 # backward pass
+
 delta2 = Y - T
+
 delta1 = (delta2).dot(W2.T) * A * (1 - A)
 
 W2 -= alpha * A.T.dot(delta2)
+
 b2 -= alpha * (delta2).sum(axis=0)
 
 W1 -= alpha * X.T.dot(delta1)
+
 b1 -= alpha * (delta1).sum(axis=0)
 
+
 # save loss function values across training iterations
+
 if epoch % 100 == 0:
     loss = np.sum(-T * np.log(Y))
     print('Loss function value: ', loss)
@@ -6027,23 +6860,28 @@ if epoch % 100 == 0:
 ```
 
 plt.plot(costs)
+
 plt.show()
 * [Algebraic Structures](https://docs.google.com/spreadsheets/d/1RU8z6sIVkcinPuUW3Im6C2fMvHrU-mgwCOiowgSBQLM/edit?usp=sharing)
 
-- Statistik - Blogs, Seiten
+
+* Statistik - Blogs, Seiten
         * [Elementary Statistics Concepts](http://documents.software.dell.com/statistics/textbook/elementary-statistics-concepts)
     * [Crashkurs Statistik](http://www.crashkurs-statistik.de/)
     * [Statistical Modeling, Causal Inference, and Social Science](http://andrewgelman.com/)
     * [Stats Make Me Cry](http://www.statsmakemecry.com/smmctheblog/)
     * [Jeromy Anglim's Blog: Psychology and Statistics](http://jeromyanglim.blogspot.com/)
 
-- Statistik- Misc
+
+* Statistik- Misc
         * http://theanalysisofdata.com/probability/0_2.html
+
 
     Idea: investigate properties of average between median and mean
     * [Statistical Methods for Experimental Research in Education and Psychology | Jimmie Leppink | download](https://b-ok.cc/book/5005833/80b3ff)
     * [Statistical Rethinking (Richard McElreath)](https://www.youtube.com/channel/UCNJK6_DZvcMqNSzQdEkzvzA/playlists)
     * [Der Experimentator: Neurowissenschaften](https://b-ok.cc/book/1226077/353e53)
+
 
     - [*29 Statistical Concepts Explained in Simple English - Part 1 - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/29-statistical-concepts-explained-in-simple-english-part-1)
     * [25 Statistical Concepts Explained in Simple English - Part 2 - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/25-statistical-concepts-explained-in-simple-english-part-2)
@@ -6064,7 +6902,8 @@ plt.show()
     * [39 Statistical Concepts Explained in Simple English - Part 17 - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/39-statistical-concepts-explained-in-simple-english-part-17)
     * [28 Statistical Concepts Explained in Simple English - Part 18 - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/28-statistical-concepts-explained-in-simple-english)
 
-- Statistik - Bücher
+
+* Statistik - Bücher
         * [A Modern Introduction to Probability and Statistics_F.M. Dekking, C. Kraaikamp, H.P. Lopuhaä, L.E. Meester_2005](http://link.springer.com/openurl?genre=book&isbn=978-1-84628-168-6)
     * [All of Statistics_Larry Wasserman_2004](http://link.springer.com/openurl?genre=book&isbn=978-0-387-21736-9)
     * [ALLES ZUFALL.DE - Die Website zum Buch von Stefan Klein](http://www.alles-zufall.de/)
@@ -6081,7 +6920,9 @@ plt.show()
     * [Clinical Data Analysis on a Pocket Calculator_Ton J. Cleophas, Aeilko H. Zwinderman_2nd ed. 2016](http://link.springer.com/openurl?genre=book&isbn=978-3-319-27104-0)
     * [Design and Analysis of Experiments_Angela Dean, Daniel Voss, Danel Draguljić_2nd ed. 2017](http://link.springer.com/openurl?genre=book&isbn=978-3-319-52250-0)
 
+
     Econometric Analysis (Greene)
+
 
     Econometric Analysis of Cross Section and Panel Data (Wooldridge, + Solutions Manual)
     * [Econometrics_Badi H. Baltagi_5th ed. 2011](http://link.springer.com/openurl?genre=book&isbn=978-3-642-20059-5)
@@ -6089,10 +6930,12 @@ plt.show()
     * [Fundamentals of Clinical Trials_Furberg, David L. DeMets, David M. Reboussin, Christopher B. Granger_5th ed. 2015](http://link.springer.com/openurl?genre=book&isbn=978-3-319-18539-2)
     * [Complete and Incomplete Econometric Models | Search | HBLL](https://search.lib.byu.edu/byu/search?q=Complete+and+Incomplete+Econometric+Models)
 
+
     Grundlagen der Wahrscheinlichkeitsrechnung und Statistik
     * [Intermediate Probability Theory for Biomedical Engineers](http://library.lol/main/F182667B300DD979431D63B5A7BEA187)
     * [Introduction to Statistics and Data Analysis_Christian Heumann, Michael Schomaker, Shalabh_1st ed. 2016](http://link.springer.com/openurl?genre=book&isbn=978-3-319-46162-5)
     * [Introduction to Time Series and Forecasting_Peter J. Brockwell, Richard A. Davis_3rd ed. 2016](http://link.springer.com/openurl?genre=book&isbn=978-3-319-29854-2)
+
 
     Introductory Econometrics
     * [Introductory Statistics with R_Peter Dalgaard_2nd ed. 2008](http://link.springer.com/openurl?genre=book&isbn=978-0-387-79054-1)
@@ -6100,10 +6943,13 @@ plt.show()
     * [Intuitive Probability and Random Processes using MATLAB®_Steven Kay_2006](http://link.springer.com/openurl?genre=book&isbn=978-0-387-24158-6)
     * [Joshua Angrist](http://libgen.io/search.php?req=Joshua+Angrist&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 
+
     Mastering 'Metrics
+
 
     Mostly Harmless Econometrics
     * [New Introduction to Multiple Time Series Analysis_Helmut Lütkepohl_2005](http://link.springer.com/openurl?genre=book&isbn=978-3-540-27752-1)
+
 
     Probability and Random Processes
     * [Probability and Statistics for Computer Science_David Forsyth_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-64410-3)
@@ -6114,6 +6960,7 @@ plt.show()
     * [Regression Modeling Strategies_Frank E. Harrell , Jr._2nd ed. 2015](http://link.springer.com/openurl?genre=book&isbn=978-3-319-19425-7)
     * [SPSS for Starters and 2nd Levelers_Ton J. Cleophas, Aeilko H. Zwinderman_2nd ed. 2016](http://link.springer.com/openurl?genre=book&isbn=978-3-319-20600-4)
 
+
     The Improbability Principle
     * [Statistical Analysis and Data Display_Richard M. Heiberger, Burt Holland_2nd ed. 2015](http://link.springer.com/openurl?genre=book&isbn=978-1-4939-2122-5)
     * [Statistical Analysis of Clinical Data on a Pocket Calculator_Ton J. Cleophas, Aeilko H. Zwinderman_2011](http://link.springer.com/openurl?genre=book&isbn=978-94-007-1211-9)
@@ -6122,6 +6969,7 @@ plt.show()
     * [Statistics and Analysis of Scientific Data_Massimiliano Bonamente_2nd ed. 2017](http://link.springer.com/openurl?genre=book&isbn=978-1-4939-6572-4)
     * [Statistics and Data Analysis for Financial Engineering_David Ruppert, David S. Matteson_2nd ed. 2015](http://link.springer.com/openurl?genre=book&isbn=978-1-4939-2614-5)
     * [Statistics in Criminal Justice_David Weisburd, Chester Britt_4th ed. 2014](http://link.springer.com/openurl?genre=book&isbn=978-1-4614-9170-5)
+
 
     Statistics in Medicine
     * [Наглядная математическая статистика [2009] Лагутин .djvu](https://vk.com/doc44301783_610996059?hash=74be25ae3bea077af1&dl=4b70994ef896900418)
@@ -6136,8 +6984,10 @@ plt.show()
     * [Statistics is Easy! Second Edition (Synthesis Lectures on Mathematics and Statistics)](http://library.lol/main/EFF8D7A362EA6F4F5998117DFB139FF7)
     * [Stochastic Processes and Calculus_Uwe Hassler_1st ed. 2016](http://link.springer.com/openurl?genre=book&isbn=978-3-319-23428-1)
 
+
     Stochastik
     * [Survival Analysis_David G. Kleinbaum, Mitchel Klein_3rd ed. 2012](http://link.springer.com/openurl?genre=book&isbn=978-1-4419-6646-9)
+
 
     Taschenbuch der Statistik
     * [The Drunkard's Walk](https://vk.com/doc18933007_485026489?hash=89f9aae04b8a533e22&dl=167940f814f21e06b9)
@@ -6148,7 +6998,8 @@ plt.show()
     * [Статистика | Physics.Math.Code.Books](https://vk.com/topic-51126445_38866971)
     * [Approximation by Spline Functions](https://vk.com/doc44301783_517373107?hash=30b0ad75379d177e11&dl=7ee690d4e8bdf692ff)
 
-- Statistik - Lektüre (1)
+
+* Statistik - Lektüre (1)
     1. [> Old bookmarks](https://docs.google.com/spreadsheets/d/1YVDOe57jjFBpwLrottZvP-ns-86XB0fcZvGfy0NzIfA/edit?usp=sharing)
     2. [: Галерея великих математиков](http://hoster.bmstu.ru/~fn1/?page_id=82)
     3. [$$$ Jason Abaluck sur Twitter : "Yes, they can be. Just like PO can be helpful for thinking about what to control for. Do you agree that epi people and sociologists spend too little time on this exercise relative to making assumptions and encoding them in a D](https://twitter.com/Jabaluck/status/1109813112960675841)
@@ -6350,7 +7201,7 @@ plt.show()
     199. Pollard, D. (2001). “A User’s Guide to Measure Theoretic Probability” Cambridge.—More advanced level probability book.
     200. Probability Theory
     201. Robert, C. and Casella, G. (2005). “Monte Carlo Statistical Methods” Springer.—about Bayesian computation.
-- Statistik - Lektüre (2)
+* Statistik - Lektüre (2)
     1. [7 - Modelo Logit (Stata) - YouTube](https://www.youtube.com/watch?v=ZR1NCw3Birk)
     2. [A Classical MCMC Approach to the Estimation of Limited Dependent Variable Models... | Request PDF](https://www.researchgate.net/publication/239745164_A_Classical_MCMC_Approach_to_the_Estimation_of_Limited_Dependent_Variable_Models_of_Time_Series)
     3. [abdi-prc-pretty.dvi](http://www.utdallas.edu/~herve/abdi-prc-pretty.pdf)
@@ -6575,7 +7426,7 @@ plt.show()
     222. [Pythagorean Theorem intuition](https://math.stackexchange.com/questions/2131931/pythagorean-theorem-intuition)
     223. [‘Amazing’ Math Bridge Extended Beyond Fermat’s Last Theorem | Quanta Magazine](https://www.quantamagazine.org/amazing-math-bridge-extended-beyond-fermats-last-theorem-20200406/)
     224. [Meta - Du flou et du faux en mathématiques](https://www.pourlascience.fr/sr/logique-calcul/du-flou-et-du-faux-en-mathematiques-20095.php)
-- Statistik - Lektüre (3)
+* Statistik - Lektüre (3)
     1. http://www.mathematics-in-europe.eu/po/65-mathhelp/mathematics-in-foreign-languages/59-mathematics-in-foreign-languages
     2. http://www.mathematics-in-europe.eu/po/40-information/what-is-mathematics/45-what-is-mathematics
     3. [THEORIES OF MATHEMATICS EDUCATION](https://www.emis.de/proceedings/PME29/PME29ResearchForums/PME29RFEnglishSriraman.pdf)
@@ -6678,7 +7529,7 @@ plt.show()
     100. Vaart, A.W. van der (1998). “Asymptotic Statistics” Cambridge.—A book that shows how many ideas in inference (M estimation, the bootstrap, semiparametrics, etc) repose on top of empirical process theory.
     101. [Identifikation dynamischer Systeme: Methoden zur experimentellen Modellbildung aus Messdaten | Christian Bohn, Heinz Unbehauen (auth.) | download](https://b-ok.cc/book/5152764/a23764)
     102. [Probability & Statistics with Prof David Spiegelhalter](https://www.youtube.com/playlist?list=PLTBqohhFNBE9jRhvdtnuxj9FiOtDOnqoy)
-- Econometrics
+* Econometrics
         * [Advanced Econometrics I](https://jblevins.org/courses/econ8830s19/)
     * https://jblevins.org/courses/
     * [Charles F. Manski](http://faculty.wcas.northwestern.edu/~cfm754/)
@@ -6697,82 +7548,119 @@ plt.show()
     * https://www.stata.com/statalist/archive/2005-07/msg00699.html
     * [Understanding Economic Statistics: An OECD Perspective - 41746710.pdf](http://www.oecd.org/sdd/41746710.pdf)
 
+
     Étapes de l'économétrie:
+
 
     1) formuler la question
 
+
     2) développer un modèle économique
+
 
     3) utiliser l'intuition
 
+
     spécifier un modèle économique
+
 
     5) estimer les paramètres (avec les données) et procéder aux tests
 
+
     learn about:
+
 
     - different auction designs and models
 
+
     - demand estimation
+
 
     - BLP estimator
 
+
     - moments
+
 
     - "non-parametric" regressions
 
+
     - nested fixed-point estimation
+
 
     - field theory
     * [Estimating the education-earnings equation using geographic variation](http://www.sciencedirect.com/science/article/pii/S0272775715300303)
     * [Insee methodes n° 101 - Endogeneite et variables instrumentales dans les sciences sociales](http://jms.insee.fr/files/documents/2000/654_1-JMS2000_S4-1_ROBIN.PDF)
     * [?](http://www.techno-science.net/?onglet=glossaire&definition=5954)
 
+
     All of Statistics
+
 
     Intro to Multivariable Mathematics
 
+
     - bargaining and multi-stage games
+
 
     - point estimation and point estimation
 
+
     - convex fold
+
 
     - cubic spline
 
+
     - proxy variable
+
 
     - response function
 
+
     - moment restriction
+
 
     - linear-in-means model
 
+
     - adjacency matrix
+
 
     - log normal distribution
 
+
     - Monte Carlo
+
 
     - bootstrap
 
+
     - Wald Estimator
+
 
     - Permutaion Test
 
+
     - DGP
+
 
     - demeaning data
 
+
     - randomization test
 
+
     - Roy selection
+
 
     - different types of charter school lotteries
     * [Multicollinearity in Regression Analysis](https://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/)
 
+
             * [How exactly did statisticians agree to using (n-1) as the unbiased estimator for population variance without simulation? - Cross Validated](https://stats.stackexchange.com/questions/100041/how-exactly-did-statisticians-agree-to-using-n-1-as-the-unbiased-estimator-for)
     * [Why is sample standard deviation a biased estimator of $\sigma$? - Cross Validated](https://stats.stackexchange.com/questions/11707/why-is-sample-standard-deviation-a-biased-estimator-of-sigma)
+
 
             * [Variance and Std Deviation | Why divide by n-1?](https://www.youtube.com/watch?v=9ONRMymR2Eg)
     * [Review and intuition why we divide by n-1 for the unbiased sample | Khan Academy](https://www.youtube.com/watch?v=9ONRMymR2Eg)
@@ -6812,43 +7700,63 @@ plt.show()
     * http://oestatistico.com.br/
     * http://www.statpop.com.br/
 
+
     Python
+
 
     regression theory with matrices
 
+
     skewness formula
+
 
     kurtosis formula
 
+
     Rasch scaling approach
+
 
     clustering
 
+
     Moulton Factor
+
 
     Logit
 
+
     Probit
+
 
     Oaxaca-Blinder Decomposition
 
+
     Heckit, Heckman correction
+
 
     Huber-White standard errors
 
+
     Monte Carlo
+
 
     R-sq of instruments
 
+
     eigenvalue statistic of IV
+
 
     Sargan Test
 
+
     Basmann Test
+
 
     loops in Stata
 
+
     Roy model
+
 
     Monte Carlo
     * [Econometrics Beat](http://davegiles.blogspot.com/)
@@ -6884,6 +7792,7 @@ plt.show()
     * [Лайтман М.: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/g/%D0%9B%D0%B0%D0%B9%D1%82%D0%BC%D0%B0%D0%BD%20%D0%9C.)
     * [Mathematik und Harmonie. Über den vermuteten Pythagoreismus von Leibniz on JSTOR](https://www.jstor.org/stable/40694499?seq=1)
 
+
             * [LA II](https://libgen.is/search.php?req=lineare+algebra+II&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
     * [Michael Eisermann - Popularisation](https://pnp.mathematik.uni-stuttgart.de/igt/eiserm/popularisation/#SciencePub)
     * [Michael Eisermann - Enseignement](https://pnp.mathematik.uni-stuttgart.de/igt/eiserm/enseignement/)
@@ -6899,7 +7808,9 @@ plt.show()
     * [Геометрия](http://93.174.95.29/main/C3860CF6115C9B4B6E19FEF63B04A380)
     * [Quatematik - YouTube](https://www.youtube.com/channel/UC0LfPSALkn8YDhXZf8-Pl5A)
 
+
             * [Lothar Göttsche's Homepage (Topo)](https://users.ictp.it/~gottsche/)
+
 
             * [Complex Numbers from A to...Z | Titu Andreescu, Dorin Andrica | download](https://b-ok.cc/book/446979/f45594?dsource=recommend)
     * [Linear to Logistic Regression, Explained Step by Step](https://www.kdnuggets.com/2020/03/linear-logistic-regression-explained.html)
@@ -6924,22 +7835,31 @@ plt.show()
     * [Statistics and Probability Full Course || Statistics For Data Science](https://www.youtube.com/watch?v=sbbYntt5CJk&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=141)
     * [Kovarianz, Kontravarianz, Tensoren](https://www.youtube.com/watch?v=qd1eIJzF39Q&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=97)
 
+
     Clustering (of errors)
+
 
     Durbin Test
 
+
     Wu-Hausmann Test
+
 
     R-sq of instruments
 
+
     Eigenvalue statistic of IV
+
 
     Sargan Test
 
+
     Basmann Test
+
 
     Heckman Correction
     * [Christina Knudson, Ph.D. – Statistician and Professor](http://cknudson.com/)
+
 
             * [Statista](https://de.statista.com/)
     * [La statistique expliquée à mon chat](https://www.youtube.com/channel/UCWty1tzwZW_ZNSp5GVGteaA)
@@ -6947,12 +7867,13 @@ plt.show()
     * [Minitab (MULTI)](http://support.minitab.com/de-de/minitab/17/topic-library/basic-statistics-and-graphs/introductory-concepts/basic-concepts/descriptive-inferential-stats/)
 
 
-- Topologie
+* Topologie
         * https://www.youtube.com/c/Boarbarktree/playlists
     * [Topologie UW](https://www.mat.univie.ac.at/~stein/teaching/WS0506/top_ps.pdf)
     * [Topologie UB](https://www.math.uni-bielefeld.de/~sek/top/ss03/aufgab.html)
 
-- Topologie - Kurse
+
+* Topologie - Kurse
         * [Беседы о математике](https://www.youtube.com/playlist?list=PLuyneR4_qH0MxF2xc6v3FxPtDm0uzlHGo)
         * http://faculty.bard.edu/~belk/math351/
     * https://faculty.math.illinois.edu/~nmd/classes/2009/525/index.html
@@ -6961,10 +7882,12 @@ plt.show()
     * [Intro to Topology Lecture](https://m.youtube.com/watch?v=zsN_guq__Ac%7C)
     * [Topology I (Fall 2010)](https://ium.mccme.ru/f10/topology1.html)
 
+
     - [**Topology - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Topology)
     * [Topologi NO/EN](http://rwilliamson-mathematics.info/general_topology--spring_2013/generell_topologi.html)
     * [Kurs Topologie NL](http://pub.math.leidenuniv.nl/~bruinpj/topologie/)
     * [Mathematik: Topologie – Wikibooks, Sammlung freier Lehr-, Sach- und Fachbücher](https://de.wikibooks.org/wiki/Mathematik:_Topologie)
+
 
             * [Topology Explained](http://at.yorku.ca/p/a/c/a/00.htm)
     * [Topology-1 (Spring 2018)](https://ium.mccme.ru/s18/s18-topology1.html)
@@ -6989,14 +7912,19 @@ plt.show()
     * [(básico) Topología - YouTube](https://www.youtube.com/playlist?list=PL91053E26803C7E65)
     * [(visuaizações) Topologia - YouTube](https://www.youtube.com/playlist?list=PLcxF8B203bfljZK4Dsb9Rr5MsU75LDVY7)
 
+
         
     - [*Nozioni di Topologia in ℝn - YouTube](https://www.youtube.com/playlist?list=PLHoyGyZCDbn6dN7kK0x3vRRvWsql4X0Op)
 
+
     - [* Topology (Toronto)](http://www.math.toronto.edu/ivan/mat327/index.html?resources)
+
 
     - [***Topology and Analysis - YouTube](https://www.youtube.com/playlist?list=PLAvgI3H-gclZa-DVTMyUIAxM-X8NSikwu)
 
+
     - [*Topology & Geometry by Dr Tadashi Tokieda - YouTube](https://www.youtube.com/playlist?list=PLTBqohhFNBE_09L0i-lf3fYXF5woAbrzJ)
+
 
     - [*Загальна топологія з самого початку - YouTube](https://www.youtube.com/playlist?list=PLmHyZ3t74VpzebfMioXRTBLDwR1EfoS--)
     * [Curso de Topologia General - YouTube](https://www.youtube.com/playlist?list=PLaWLAvbKLHVX9wRhwJx0EjILWI9SefsPQ)
@@ -7019,32 +7947,40 @@ plt.show()
     * [Геометрия и топология | Сергей Пилюгин - YouTube](https://www.youtube.com/playlist?list=PL-_cKNuVAYAWYPHyPrswmSxAmnykaI5I6)
     * [ТОПОЛОГИЯ ДЛЯ НАЧИНАЮЩИХ - YouTube](https://www.youtube.com/playlist?list=PLa8Zx5-x7OuT0gs1KdnDZX9YQ3-CaP2dR)
 
+
     - [***Интуитивная топология](https://www.youtube.com/playlist?list=PLdupor3lULXho4vLxMd0Pp_TghL52677r)
     * [ETH Topologie](https://metaphor.ethz.ch/x/2019/fs/401-2554-00L/)
     * [Topologie 2020 Stuttgart](https://pnp.mathematik.uni-stuttgart.de/igt/eiserm/lehre/Topologie/)
 
+
     - [*topoĺogia - YouTube](https://www.youtube.com/playlist?list=PLUHUYVFbDb1jSwsWwr-guW_-F2S1HytX_)
+
 
             * [Topologie I](https://www2.mathematik.hu-berlin.de/~kegemarc/19SSTopologie.html)
     * [Topologie UH](https://www.math.uni-hamburg.de/home/bunk/topology.html)
     * [Topologie TUB](https://www3.math.tu-berlin.de/Vorlesungen/WS05/Topologie/)
     * [Topologie UB](https://www.math.uni-bielefeld.de/~sek/top/ss03/aufgab.html)
 
+
     Eisermann Topologie
+
 
             * [Topology Department](https://www.youtube.com/channel/UCRct2x1LBykgTpDCS7Bt0zw)
     * [Загальна топологія з самого початку](https://www.youtube.com/playlist?list=PLmHyZ3t74VpzebfMioXRTBLDwR1EfoS--)
     * [Solutions of the exercises and problems from Michael Nielsen's book Neural Networks and Deep Learning](https://github.com/TimotheeChauvin/NNDL-solutions)
 
+
             * [Introduction to Topology | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-901-introduction-to-topology-fall-2004/index.htm)
     * [Topología - YouTube](https://www.youtube.com/playlist?list=PLhKdpKJc5mmIfv0VBL3QMrjkgxCVBloes)
+
 
             * [Introduction to Topology: Made Easy](https://www.youtube.com/watch?v=VOKgMJEc_ro&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=107)
     * [topologie - YouTube](https://www.youtube.com/playlist?list=PLBA4D672B6BAD162F)
     * [Topología - YouTube](https://www.youtube.com/playlist?list=PLrg-5oUhFeirpbI1Nz5Zj_aDzeenvnsq0)
 
+
         
-- Topologie - Lektüre
+* Topologie - Lektüre
         * http://home.mathematik.uni-freiburg.de/geometrie/lehre/ss2016/vorlesung/Topologie/index.html
         * http://www.home.uni-osnabrueck.de/mfrankland/6-132/6-132plan.html
         * https://de.wikibooks.org/wiki/Aufgabensammlung_Mathematik:_Topologie
@@ -7111,7 +8047,7 @@ plt.show()
     
     Алгебраическая топология | триангуляция
     
-- Topologie - Misc
+* Topologie - Misc
         * [4.01 CW complexes - YouTube](https://www.youtube.com/watch?v=XWg4LVbmm3M)
     
     Eisermann: Parametrisierungen für Zylinder und Möbius-Band und Torus nochmal anschauen
@@ -7280,43 +8216,59 @@ plt.show()
         * [Cos'è uno spazio topologico? - YouTube](https://www.youtube.com/watch?v=07jZPEe31y0&feature=youtu.be)
         * [Algebra, Geometry, and Topology: What's The Difference?](https://www.youtube.com/watch?v=xgKc7dFz-ko&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=106)
     
-- Best Topo Books
+* Best Topo Books
     
     From Gometry to Topology
 
+
     Handbook - Topology Part
+
 
     Topology Illustrated
 
+
     Jänich
+
 
     Hocking & Young
 
+
     Kelley
+
 
     Basic Topology (Armstrong)
 
+
     Introduction to Topology
+
 
     Encyclopedia of General Topology
 
+
     Introduction to General Topology (parts)
+
 
     Munkres
 
+
     Introduction to Topology - Pure and Applied
 
+
     Algebra, Topology, ... (topology chapter)
+
 
     Meusburger
     * [Introduction to Smooth Manifolds_John Lee_2nd ed. 2013](http://link.springer.com/openurl?genre=book&isbn=978-1-4419-9982-5)
 
+
     Knots, Molecules, and the Universe. Introduction to Topology
+
 
     Topological Signal Processing
     * [Topology (2nd Edition): James Munkres: 9780131816299: Amazon.com: Books](https://www.amazon.com/dp/0131816292/?tag=stackoverflow17-20)
 
-- Topology and Map Projections
+
+* Topology and Map Projections
     
     How to use the tools of topology to create good compromise map projections? (between scale and direction, etc.)
         * [Cartography and the others – aspects of a complicated relationship](https://www.tandfonline.com/doi/full/10.1080/10095020.2020.1718000)
@@ -7327,7 +8279,8 @@ plt.show()
         * https://exhibits.library.duke.edu/exhibits/show/mappingthecity/maptypes
     
 
-- Analysis Books
+
+* Analysis Books
         * [Advanced Complex Analysis: A Comprehensive Course in Analysis, Part 2B](https://b-ok.cc/book/2692825/3c0e53)
         * [An Easy Path to Convex Analysis and Applications](http://library.lol/main/CD41D199AB57E531B9D7EB3E5B107F12)
     

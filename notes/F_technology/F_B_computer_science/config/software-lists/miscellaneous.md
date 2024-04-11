@@ -534,10 +534,10 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
 * [tpp](http://www.ngolde.de/tpp.html)
 
 ## Fonts
-- [getnf](https://github.com/ronniedroid/getnf)
-- [fonttools](https://github.com/fonttools/fonttools) (also usable for ascii art)
-- [fontbase](https://fontba.se/) (not FOSS)
-- [fontforge](https://fontforge.org/en-US/)
+* [getnf](https://github.com/ronniedroid/getnf)
+* [fonttools](https://github.com/fonttools/fonttools) (also usable for ascii art)
+* [fontbase](https://fontba.se/) (not FOSS)
+* [fontforge](https://fontforge.org/en-US/)
 
 ### GUI Markdown Editor
 * (5)
@@ -553,7 +553,7 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
 * [marker](https://github.com/fabiocolacio/Marker) - Marker is a markdown editor for linux made with GTK+-3.0.
 * (5)
 * [retext](https://github.com/retext-project/retext) - A Simple but powerful editor for Markdown and reStructuredText.
-- (6)
+* (6)
 * [Typora](https://typora.io/) - minimal, CSS styling beautiful, but not FOSS
 
 ###GUI LaTeX Editor

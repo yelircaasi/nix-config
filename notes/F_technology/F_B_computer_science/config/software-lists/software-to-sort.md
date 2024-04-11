@@ -1,4 +1,16 @@
 # Software to Sort
+
+https://github.com/dhth/prs
+https://nx.dev/recipes/tips-n-tricks/flat-config
+https://github.com/nvim-neorocks
+https://github.com/chrisbra/csv.vim
+https://commitmono.com/
+https://github.com/cococry/lyssa
+https://github.com/cococry/ragnar
+https://github.com/Gingeh/lust
+https://github.com/Q1CHENL/todoism
+https://github.com/evilmartians/lefthook
+
 ## Ricing
 * https://github.com/adi1090x/widgets* https://github.com/outfoxxed/hy3* https://github.com/mahkoh/jay* https://github.com/MrVivekRajan/Grub-Themes
 * [wallpaper mountain lake](https://media.discordapp.net/attachments/1071922148991574056/1209591503836422224/aholmes_canada.cleaned.jpg?ex=66159f5f&is=66032a5f&hm=328996956fe6d340af05baa8a1575ec23eec9fb482de03a00141c1a9fa63c950&)
@@ -8,7 +20,29 @@
 
 
 ## Sort
-- ** [](https://www.youtube.com/@unixbhaskar/videos) ***
+* nivekuil/rip
+* ImHex
+* GittyUp
+* Lokalize
+* Diffuse
+* AndroidStudio
+* Mousai
+* YoutubeDownloader
+* Logseq
+* Helix
+* Micro
+* Kakoune
+* Emacs
+* gitg
+* Gnome Boxes
+* Tauon
+* Atoms (Brombin)
+
+ExpidusOS https://expidusos.com/en/
+https://midstall.com/
+https://github.com/MerrimanInd/drawpyo
+https://github.com/EchoVault/EchoVault
+* ** [](https://www.youtube.com/@unixbhaskar/videos) ***
 * [MEDevel.com](https://medevel.com/)
 * [Track Awesome List Updates Daily](https://www.trackawesomelist.com/)
 * [Feed | StackShare](https://stackshare.io/feed)
@@ -23,10 +57,11 @@
 * https://www.reddit.com/r/Python/s/s77FRjUraQ
 * $$$ https://github.com/MHNightCat/superfile
 * Check out jj (name? new and improved git)
+* https://github.com/husseinhareb/rusty-forecast
 
 The New Stack
 
-- ** [](https://uses.tech/)
+* ** [](https://uses.tech/)
 * [Uses - Just Some Dev](https://www.iamdeveloper.com/pages/uses/)
 * [https://github.com/wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
 * [https://github.com/tvanantwerp/awesome-uses](https://github.com/tvanantwerp/awesome-uses)
@@ -54,7 +89,7 @@ The New Stack
 * [(2) Vim-based desktop apps : vim](https://www.reddit.com/r/vim/comments/zacm9i/vimbased_desktop_apps/)
 * [https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list)
 * [Big Pile of Vim-like](https://vim.reversed.top/)
-- [ ]  → look at KDE Apps (and Gnome and [](https://www.xfce.org/projects)
+* [ ]  → look at KDE Apps (and Gnome and [](https://www.xfce.org/projects)
 * [http://suckless.org/other_projects/](https://www.google.com/url?q=http://suckless.org/other_projects/)
 * [https://r-pufky.github.io/docs/index.html](https://r-pufky.github.io/docs/index.html)
 * [https://gist.github.com/sts10/daadbc2f403bdffad1b6d33aff016c0a](https://gist.github.com/sts10/daadbc2f403bdffad1b6d33aff016c0a)
@@ -66,7 +101,7 @@ linux https://learnbyexample.gumroad.com/l/cli_coreutils
 software cli https://github.com/01mf02/jaq
 software https://github.com/raphamorim/rio* https://eradman.com/entrproject/* https://github.com/carapace-sh/carapace-bin* https://castget.johndal.com/ * https://github.com/01mf02/jaq* https://github.com/charmbracelet/freeze* https://topiary.tweag.io/* https://sr.ht/~bptato/chawan/ (written in Nim!)* https://www.tweag.io/blog/2023-10-05-cli-ux-in-topiary/* https://www.tweag.io/blog/2023-11-16-announcing-organist/* https://github.com/Elvyria/Mixxc* https://github.com/cococry/lyssa* https://libgen.rs/search.php?&req=emacs&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
 * [aphrodite-terminal-theme](https://github.com/win0err/aphrodite-terminal-theme) — Minimalistic Aphrodite theme (prompt) for sexy terminals that works in bash, fish and zsh → prompts
-- [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather.
+* [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather.
 sw  [LL](https://www.linuxlinks.com/)
 sw  [https://github.com/flick0/ags-sootspirits](https://github.com/flick0/ags-sootspirits)
 sw  [yokoffing/Betterfox: Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.](https://github.com/yokoffing/Betterfox)

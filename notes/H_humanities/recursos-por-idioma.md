@@ -1,6 +1,7 @@
 # Recursos por idioma
 
-- Vídeo* - 0*     - Top*     - Good*     - Not Sure*     - Meh
+
+* Vídeo* - 0*     - Top*     - Good*     - Not Sure*     - Meh
 * - 1
 * http://www.wisecrack.co/thug-notes/ *****
 * [The Global Philosopher](http://www.bbc.co.uk/programmes/b075ft6f/episodes/guide) (Michael Sandel) *****
@@ -1491,6 +1492,7 @@
 * [D'où ça vient](https://www.youtube.com/channel/UCWMjHUlcQpDPCDmwQOncoPg)
 * [(sous-titres!) Natoo - YouTube - YouTube](https://www.youtube.com/user/ptitenatou)
 
+
 * [**Politikon - YouTube - YouTube](https://www.youtube.com/channel/UC0HxyEc_ojRJ1oJXS5K6oaA)**
 * [AuDiMath](https://www.youtube.com/channel/UCRt-xGEBfuqA3T_InNW2KUQ)
 * [Greg Guillotin - Nou](https://www.youtube.com/channel/UCM1c1okZ-7cPV7BEZ-pzUGg)
@@ -1545,6 +1547,7 @@
 * [The French Love Their Talk Shows - The New York Times](http://www.nytimes.com/2012/04/15/arts/television/the-french-love-their-talk-shows.html)
 * [Best French Movies on Netflix | New French Movies on Netflix](http://www.bestonnetflix.com/genre/french-movies/g/58807/page/5)
 * [Musique](https://www.facebook.com/garrett.hagler/posts/10209937377380634)
+
 
 * [L'Effet Papillon - YouTube - YouTube](https://www.youtube.com/channel/UChRE-mEteKamJvcRIB2Seag)**
 * [1 jour, 1 question - YouTube](https://www.youtube.com/channel/UCLmlUMA_bGiMWWgfDwfNDgw)
@@ -1707,6 +1710,7 @@
 * http://www.oercommons.org/courses/french-in-action/view
 * Marie-Thérèse Porchet
 * http://www.dailymotion.com/fr
+
 
 * [****Киномания по-французски](https://vk.com/cinema_de_france)        - [**Les Meilleurs Séries Françaises - IMDb](https://www.imdb.com/list/ls066794879/?ref_=tt_rls_2)
 * [C'est mon choix!](http://www.nrj-play.fr/cherie25/c-est-mon-choix)
@@ -2062,6 +2066,7 @@
 * [MuguPiensa - YouTube - YouTube](https://www.youtube.com/channel/UCMkT85enyMMAor6DLgslIjQ)
 * [NADEGE CANDLE - YouTube - YouTube](https://www.youtube.com/channel/UCs-sPmO1clvl2FcbphIp0Vg)
 * [Nice Day - YouTube - YouTube](https://www.youtube.com/channel/UC0pzqgbTMcKpFK6oq9Zl8vA)
+
 
 * [***PlayJunior - YouTube - YouTube](https://www.youtube.com/channel/UCC5ki2zzpPL4mWr3bwxF-Bw)        - [**Tintero creativo - YouTube - YouTube](https://www.youtube.com/channel/UC9WycYnvjtRbR1KvqJU820A)**        - [*#WHYMAPS - YouTube - YouTube](https://www.youtube.com/channel/UCyoAJbq6rqi9bgMB0uDQSFg)        - [*academiaplay - YouTube - YouTube](https://www.youtube.com/channel/UCv05qOuJ6Igbe-EyQibJgwQ)        - [*Filosofía en minutos - YouTube - YouTube](https://www.youtube.com/channel/UCUeVbQyQXXGSIyLoMLXpEYA)        - [*Reporte Semanal con José Rafael Briceño - YouTube - YouTube](https://www.youtube.com/user/BricenoSemanal)        - [CARKI PRODUCTIONS - YouTube - YouTube](https://www.youtube.com/channel/UCa2yQjbhV7-zMdygwZRFxYQ)**        - [DRAW THE WORLD - YouTube - YouTube](https://www.youtube.com/channel/UCnyZ_qbXwvS7HBgjICl8oBg)**        - [MARTE 19 - YouTube - YouTube](https://www.youtube.com/channel/UCVflB5V9W7qWWZnwelyOZ3g)**        - [Mextalki DE - YouTube - YouTube](https://www.youtube.com/channel/UCeJguGZvG8yKQW6ZAgG060Q)**        - [pronunciacion español r - YouTube](https://www.youtube.com/results?search_query=pronunciacion+espa%C3%B1ol+r)**
 * https://www.youtube.com/playlist?list=PLoZVZx9LhfC_MGDJlhMg0ibey5PHQUvG4
@@ -2476,6 +2481,7 @@
 * [#Refúgio Mental](https://youtube.com/channel/UChYkldqKWymAKTsPku_tDfg?feature=hovercard)
 * [Saber Filosófico](https://www.youtube.com/channel/UCWdXgfpEIZIGzah9_yCL-Xw)
 
+
 * [ffmspt - YouTube - YouTube](https://www.youtube.com/user/ffmspt)**
 * [Abril Insights - YouTube - YouTube](https://www.youtube.com/channel/UCxADswJUfv8fLaZlyxiMt2Q)
 * [Alura Cursos Online - YouTube - YouTube](https://www.youtube.com/channel/UCo7EHzKF2zDFWszw7Dg4mPw)
@@ -2571,6 +2577,7 @@
 * [Lezioni di Biologia](https://www.youtube.com/playlist?list=PLelpqUDzsQf0fyjeUmxal7yRmUScfq5CY)
 * [Gianluca Fraula](https://www.youtube.com/channel/UCpFkvd8zEgyCOoeHev18Djw)
 * https://www.youtube.com/c/NovaLectio
+
 
 * [****Rockslator Official - YouTube - YouTube](https://www.youtube.com/channel/UC_N4DD08HZSV3-ODnWY4FMg)
 * [P](https://www.youtube.com/c/ProlingooItalian)rolingoo Italian
@@ -2882,7 +2889,7 @@
 * [Mitologia Giapponese: Le Origini del Giappone](https://www.youtube.com/watch?v=imsuSAdB7yI&list=PLVWtXi_Jrj_2hNuBs3nQ8kn-udQ4xtNch&index=41)
 * [BRIAN DI NAZARETH - [Film Completo HD] - Doppiaggio Originale Restaurato](https://www.youtube.com/watch?v=LaP1NlQeLv4&list=PLVWtXi_Jrj_2hNuBs3nQ8kn-udQ4xtNch&index=7)
 * - 9* - 9b* - 10* - 11* - 11/12* - 12* - 13* - 14* - 15* - 16* - 17* - 18* - 19* - 21* - 24* - 26+
-- Lectura* - 0
+* Lectura* - 0
 * https://forum-helveticum.ch/fr/
 * http://libgen.is/search.php?&req=scrum&phrase=1&view=simple&column=def&sort=language&sortmode=DESC
 * [Fifty greatest modern love poems list embraces 30 different countries | Books | The Guardian](https://www.theguardian.com/books/2014/jul/02/fifty-greatest-love-poems-30-different-countries)
@@ -3214,6 +3221,7 @@
 * [Христианское аудио детям "Вопросы Веры и Фомы"](https://vk.com/public136505186)
 * [Каталог подкастов ВКонтакте](https://vk.com/@newochem-vk-podcasts)
 * [Подкасты: что послушать? | Keddr.com](https://keddr.com/2013/10/podkastyi-chto-poslushat/)
+
 
 * [**Сочинения, биографии, краткие содержания и готовые домашние задания - ALLSOCH.RU](https://www.allsoch.ru/)
 * [Aeon Magazine | Издание | ИноСМИ - Все, что достойно перевода](https://inosmi.ru/aeon_co/)
@@ -3580,6 +3588,7 @@
 * https://www.idiap.ch/scientific-research/resources/walliserdeutsch?set_language=fr
 * [L’allemand et les dialectes alémaniques en Suisse](http://eole.irdp.ch/activites_eole/annexes_doc/annexe_doc_27.pdf)
 * http://www.blogwiese.ch/
+
 
 * [**Schweizerdeutsch – Wikipedia](https://de.wikipedia.org/wiki/Schweizerdeutsch)
 * http://oschpele.ritten.org/
@@ -4439,6 +4448,7 @@
 * [العربية (Arabic) | WordReference Forums](https://forum.wordreference.com/forums/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-arabic.41/)
 * [تعلم العربية - اللغة الفرنسية](http://learning.aljazeera.net/fr)
 
+
 * [****Cours d&#39;arabe gratuit - Introduction - leçon 1 - centre al-dirassa](http://al-dirassa.com/le%C3%A7on/le-pronom-demonstratif-hadha/)
 * AlQur'an
 * https://www.aljazeera.net/midan/intellect/philosophy
@@ -4527,6 +4537,7 @@
 * http://www.islam4m.com/quran-maktoob.html
 * https://ar.wikiquote.org/wiki/%D8%A3%D9%82%D9%88%D8%A7%D9%84
 
+
 * [**Mot à mot](http://coran-seul.com/index.php/home?sourate=3)
 * [Apprenez à lire le Coran en ligne, gratuit, unique mot à mot récitation, plusieurs de récitants et traductions](http://www.houseofquran.com/qsys/quranteacher1-fr.html)
 * [Coran en ligne - Lire, écouter et télécharger le Saint Coran en Arabe](https://www.coran-francais.com/arabe/)
@@ -4539,6 +4550,7 @@
 * [Translation of the Meanings of THE NOBLE QURAN in the French Language](https://ia600309.us.archive.org/13/items/TraductionDuCoranEditionQuranComplex/Traduction%20du%20Coran%20-%20Edition%20Quran%20Complex.pdf)
 * [www.studyquran.org/resources/Quranic_Root_Dictionary.pdf](http://www.studyquran.org/resources/Quranic_Root_Dictionary.pdf)
 * [مشروع المصحف الإلكتروني بجامعة الملك سعود](http://quran.ksu.edu.sa/)
+
 
 * [****Apprendre lire Coran - réciter et mémoriser en ligne - Plusieurs de récitants et traductions, Français, Gratuit et unique](http://www.houseofquran.com/french/home-fr)        - [**Online Koran leren lezen, reciteren &amp; memoriseren - Woord voor woord, Diverse reciteurs en vertalingen, Voor beginners, Nederlandse vertaling](http://www.houseofquran.com/nederlands/home-nl)
 * [Abdullah Sameer – أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ Does He who created not know, while He is the Subtle, the Acquainted? (67:14)](http://abdullahsameer.com/blog/)
@@ -4554,6 +4566,7 @@
 * [الإله في أخلاق سبينوزا | مجلة الفلق الإلكترونية](https://www.alfalq.com/?p=9648)
 * https://khawarzmeat.wordpress.com/%D9%85%D8%A7%D9%87%D9%88-%D8%A7%D9%84%D8%A8%D9%88%D8%AF%D9%83%D8%A7%D8%B3%D8%AA%D8%9F/
 * https://www.facebook.com/%D9%85%D8%AC%D9%84%D8%A9-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B7%D8%A9-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A%D8%A9-729974107153779/?ref=py_c
+
 
 * [• Арабский язык ••](https://vk.com/arabic.pics)
 * [۞ Арабский язык, палестино-сирийский диалект ۞](https://vk.com/club12408639)
@@ -4595,6 +4608,7 @@
 * [Guide Fr-Arabe Vulgaire](https://books.google.fr/books?id=5XQPAAAAQAAJ&printsec=frontcover#v=onepage&q&f=false)
 * [Headstart2 - Levantine](http://hs2.dliflc.edu/levantine/course/index.html?levantine)
 * [Abjadiye - Apprendre le Libanais](https://abjadiye.com/fr/welcome.aspx)
+
 
 * [*](https://fsi-languages.yojik.eu/languages/FSI/fsi-levantine-arabic.html)
 * [Arabische Dialektologie: Einführung und Untersuchung](https://publikationen.uni-tuebingen.de/xmlui/bitstream/handle/10900/46723/pdf/Arabische_Dialektologie_Einfuehrung_und_Untersuchung.pdf?sequence=1)
@@ -4693,6 +4707,7 @@
 * https://en.wikipedia.org/wiki/Transliteration_of_Chinese
 * http://web.csulb.edu/~txie/azi/page1.htm
 
+
 * [** (already have)](http://www.acsu.nl/files/pdf/NewPracticalChinese/practicalchineseT1.pdf)        - [****Chine-Nouvelle.com - Apprendre le Chinois, découvrir la Chine.](http://www.chine-nouvelle.com/)        - [****ChinesischLernen.com mit Audio | Chinesisch Lernen für Anfänger - kostenlos](http://www.chinesischlernen.com/)        - [****Level 1 Stories - Little Chinese Readers Leveled Reading Series](https://www.littlechinesereaders.com/courses/level-1-stories/)        - [****華語文學習網 e-Learning Portal for Chinese Education](http://www.huayuworld.org/learningchinese/e_learning/)        - [**Practical Chinese Reader learning materials](http://web.csulb.edu/~txie/pcr.html)
 * [Aprende chino online gratis. Lecciones con audio y pinyin](http://hablochino.com/aprende-chino-online/)
 * [AUDIO Y+ - Recursos para aprender chino - Biblioguías at Universidad de Extremadura. Biblioteca](http://biblioguias.unex.es/c.php?g=572070&p=3944670)
@@ -4707,6 +4722,7 @@
 * https://www.facebook.com/groups/195342957879503/
 * http://www.rtega.be/chmn/sheets/hsk1-smallest.pdf
 * http://www.visualmandarin.com/tools/chinese-stroke-order/
+
 
 * [**经管之家(原经济论坛)-国内活跃的经济、管理、金融、统计在线教育和咨询网站](http://bbs.pinggu.org/)
 * [Chinese Text Sampler](http://www-personal.umich.edu/~dporter/sampler/sampler.html#fps)
@@ -4849,6 +4865,7 @@
 * http://jeltzz.com/LLEG/001IntensiveOralLatinUnit1.pdf
 * http://ephemeris.alcuinus.net/
 * http://www.linguaeterna.com/la/
+
 
 * [***nunc est loquendum | linguae Latīnae habitāre](https://nuncestloquendum.wordpress.com/)
 * [Latin Jokes Explained — Everything Asterix](https://www.everythingasterix.com/latin-jokes-explained/)
@@ -5063,6 +5080,7 @@
 * http://catalog.perseus.org/
 * https://www.loebclassics.com/
 
+
 * [Les oeuvres d'Euclide : en grec, en latin et en français : d'après un manuscrit très-ancien qui était resté inconnu jusq'à nos jours : Euclid : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/lesoeuvresdeucli01eucl/page/n45)**        - [Madeline Miller's top 10 classical books | Books | The Guardian](https://www.theguardian.com/books/2011/sep/21/madeline-miller-top-10-classical-books)**        - [*28 Books On Stoicism: The (Hopefully) Ultimate Reading List](https://dailystoic.com/books-on-stoicism/)**        - [*The Best Books on Stoicism | Five Books Expert Recommendations](https://fivebooks.com/best-books/massimo-pigliucci-stoicism/)**        - [**Stoic And Epicurean Philosophers The Complete Extant Writing Of Epicurus Epictetus Lucretius Marcus Aurelius : Oaetes , Whiteny J. : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/in.ernet.dli.2015.52230/page/n11/mode/2up)**        - [Ethik GR-LA-DE](https://www.swisseduc.ch/altphilo/griech/gintlekt/docs/ethik.pdf)**
 * https://vk.com/topic-42752739_27156674
 * http://www.faenumpublishing.com/available-texts.html
@@ -5099,10 +5117,12 @@
 * [Griechisches Lesebuch](http://gerardgreco.free.fr/IMG/pdf/wilamowitz_lesebuch-v20_01.pdf)
 * https://sites.google.com/view/greekincomics/main-page
 
+
 * [**Parmenides Fragmente](https://www.swisseduc.ch/altphilo/griech/gintlekt/docs/parmenid.pdf)**        - [StOIC](https://stoic-commentary.online/references/1-1?left=6&right=7)**
 * [Lingua Graeca Per Se Illustrata](https://seumasjeltzz.github.io/LinguaeGraecaePerSeIllustrata/)
 * [Евклид "Начала" на языке оригинала (Στοιχεῖα A,B,С,D) и в русском переводе с комментариями.](https://vk.com/wall-2428428_4739)
 * [Blackie Dialogues](https://archive.org/details/greekandenglish00blacgoog/page/n74/mode/2up)
+
 
 * [***PANTOIA. Anthologien, Goethe, Schiller, Robinson ... lateinisch, griechisch](http://www.pantoia.de/)
 * http://www.users.globalnet.co.uk/~loxias/sappho.htm#
@@ -5116,6 +5136,7 @@
 * http://akropolis-world-news.weebly.com/news-of-this-year-21-22.html
 * http://akropolis-world-news.weebly.com/
 
+
 * [**17 Must-Read Books by the Ancient Greeks -](https://daringtolivefully.com/must-read-books-ancient-world)        - [**A reading list of Ancient Greek classics | OUPblog](https://blog.oup.com/2014/11/oxford-worlds-classics-ancient-greek-reading-list/)
 * [Griechisches lesebuch : Wilamowitz-Moellendorff, Ulrich von, 1848-1931 : Free Download &amp; Streaming : Internet Archive](https://archive.org/details/griechischesles00wilagoog)
 * [Griechisches Lesebuch für die ersten Anfänger - Google Libros](https://books.google.com/books?id=fyFGAAAAcAAJ&pg=PP9&lpg=PP9&dq=Griechisch+lesebuch&source=bl&ots=4KHT4fp8RO&sig=-9ivB5CBL08U6dY6xnY2ajV_kP8&hl=es&sa=X&ved=0ahUKEwiL17C2vqfWAhXK31QKHS7YDssQ6AEIQDAD#v=onepage&q=Griechisch%20lesebuch&f=false)
@@ -5124,10 +5145,12 @@
 * [Hodoi](http://mercure.fltr.ucl.ac.be/Hodoi/concordances/intro.htm)
 * [LGPSI](https://github.com/seumasjeltzz/LinguaeGraecaePerSeIllustrata)
 
+
 * [***Greek and Roman Verse – Audio-Visually Enhanced](http://hypotactic.com/)        - [***Programme de Grec au lycée Arago](https://mediterranees.net/arago/grec/index.html)        - [****FLOT SILLAGES | FLOT : Grec ancien pour débutants](http://flot.sillages.info/?portfolio=grec-ancien-debutants)        - [****Grec ancien au prisme du théâtre grec — Wikilivres](https://fr.wikibooks.org/wiki/Grec_ancien_au_prisme_du_th%C3%A9%C3%A2tre_grec)        - [****Greco interattivo - Mappa](http://www.poesialatina.it/_ns/Greek/html/mappa.html)        - [****Site d&#39;initiation au grec Ancien](http://unt.unice.fr/uoh/grec/)        - [****Un niño griego en casa](https://sites.google.com/site/griegoencasa/)        - [****Αρχαία Ελληνικά Γυμνασίου και Λυκείου - arxaia.gr](http://arxaia.gr/)        - [*Curso de GC](https://tronerablog.wordpress.com/2016/05/29/curso-de-griego-clasico-indice/)        - [*Curso de Griego Clasico](https://tronerablog.wordpress.com/2016/05/29/curso-de-griego-clasico-indice/)        - [*Helios](http://helios.fltr.ucl.ac.be/)        - [*Site de Philippe Remacle](http://remacle.org/)        - [*ΤΑ ΜΑΘΗΜΑΤΑ: colloquium leidense](http://tamathemata.blogspot.com/2009/08/colloquium-leidense.html)        - [**Athenaze I | Edizioni Accademia Vivarium Novum](https://vivariumnovum.it/liber-extra-librum/athenaze)        - [**Greek Grammar Information, Learning Help &amp; Study Aids](https://biblicalgreek.org/grammar/)        - [**KATERINA SARRI WEBTOPOS - Greek Language and Alphabet Links](http://www.webtopos.gr/eng/languages/greek/links.htm)        - [**LPD GBAH](http://www.latinperdiem.com/rouse-a-greek-boy-at-home/)        - [**LPD Greek](http://www.latinperdiem.com/greek/)        - [**Perseids](http://sites.tufts.edu/perseids/)
 * [Langue grecque, Projet Homere, Homer project, greek language](http://www.projethomere.com/)
 * [Hippocrates (Loeb)](https://ryanfb.github.io/loebolus-data/L147.pdf)
 * [Βίοι Παράλληλοι - Βικιθήκη](https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CE%A0%CE%B1%CF%81%CE%AC%CE%BB%CE%BB%CE%B7%CE%BB%CE%BF%CE%B9)
+
 
 * [**J'aime le Grec ancien](https://www.facebook.com/groups/581855195275760/)        - [**Word group annotation of Matthew 1](http://opentext.org/texts/NT/Matt/view/wordgroup-ch1.v0.html)        - [**Подстрочный перевод Нового Завета](http://www.bible.in.ua/underl/S/gr_simph.html)
 * [01SBLGNT.Matthew.indd](https://www.sbl-site.org/assets/pdfs/bibletexts/SBLGNT/61-SBLGNT-Matthew.pdf)
@@ -5482,6 +5505,7 @@
 * http://knjizevnostzagamovce.blogspot.com/
 * http://knjizevnostzagamovce.blogspot.com/2014/11/humanizam-i-predrenesansa.html
 
+
 * [**Alan Ford dal n°1 al n°200 + vari (cbr ita) | Ipersphera](https://ipersphera.org/2016/10/11/alan-ford-dal-n1-al-n-60-cbr-ita-uploading/)
 * [Alan Ford - Grupa TNT - Broj 1](https://fr.scribd.com/doc/47892888/Alan-Ford-Grupa-TNT-Broj-1)
 * [Alan Ford - Wikipedia](https://sh.wikipedia.org/wiki/Alan_Ford)
@@ -5798,6 +5822,7 @@
 * [Хангиль — Вікіпедія](https://uk.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BD%D0%B3%D0%B8%D0%BB%D1%8C)
 * [Apprendre le coréen - Grammaire et Vocabulaire](http://mylanguages.org/fr/coreen_apprendre.php)
 
+
 * [**Coréen Actuel | Apprendre le coréen - Cours gratuits de coréen en ligne](http://www.coreen-actuel.com/)        - [**Cours de Coréen](http://www.cours-coreen.fr/index.php)* - 21
 * [Learn Swahili - Grammar and Vocabulary](http://mylanguages.org/learn_swahili.php)
 * https://wendybelcher.com/african-literature/translated-african-language-novels/
@@ -5835,7 +5860,7 @@
 * http://geo.koltyrin.ru/alfavit.php
 * [Esperanto Books](https://b-ok.cc/s/?language=esperanto)
 * Esperanto Books*     
-- Audio* - 0
+* Audio* - 0
 * https://www.lumenvox.com/tts-demonstration/
 * [Linguae per Carmina](https://docs.google.com/spreadsheets/d/1dPj6PNHYxvdu8o69EnLkLnaHmCzOs4rEncdqlnVm_mE/edit?usp=sharing)
 * [The Little Prince 小王子, 星の王子さま, Hoàng Tử Bé in Chinese, Japanese, Vietnamese Comparing Translations](http://cjvlang.com/petitprince/index.html)
@@ -5857,6 +5882,7 @@
 * https://fods12.podbean.com/
 * [The Daily Stoic](https://castbox.fm/channel/id1399054?country=fr)
 * [Very Bad Wizards](https://castbox.fm/channel/id2120302?country=fr)
+
 
 * [Philosophize This! – Podcast – Podtail](https://podtail.com/es/podcast/philosophize-this/)**        - [How Little We Know – Podcast – Podtail](https://podtail.com/es/podcast/how-little-we-know/)
 * [Aeon Video](https://www.youtube.com/user/aeonmagazine)
@@ -6258,6 +6284,7 @@
 * [Hörbücher Philosophie - YouTube](https://www.youtube.com/playlist?list=PLE7_Ki6gWNPeUwgsuJTWD-f0H9-77qDlu)
 * [Suche | radioeins](https://www.radioeins.de/suche/#searchform_q__serdar,,20somuncu___start__0___fromSearchbox)
 
+
 * [Allgemeinbildung Teil 8 Philosophie - YouTube](https://www.youtube.com/watch?v=YDy5Ouq502g)*     - https://weilmeier.de/
 * [Privatchat](https://castbox.fm/channel/id2022942?utm_campaign=i_share_ch&utm_medium=dlink&utm_source=i_share&country=fr)
 * [dont waste, be happy I Nachhaltigkeit ganz einfach leben.](https://castbox.fm/channel/id1377014?utm_campaign=i_share_ch&utm_medium=dlink&utm_source=i_share&country=fr)
@@ -6334,6 +6361,7 @@
 * [Байки програміста](https://podcaster.in.ua/category/channel/tales-of-programmer/)
 * [Культурний лекторій](https://podtail.com/ru/podcast/%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%BD%D0%B8%D0%B9-%D0%BB%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%96%D0%B9/)
 * [Тарас Шевченко. Сон (У всякого своя доля) (Аудіокнига) - YouTube](https://www.youtube.com/watch?v=APv-5wof1mY)
+
 
 * [Чорний ворон - YouTube](https://www.youtube.com/watch?v=u0Et3egoDSo)**
 * [Радіо НВ](https://castbox.fm/channel/id1310643?country=fr)
@@ -6813,6 +6841,7 @@
 * http://www.mezzoguild.com/best-arabic-listening-resources/
 * https://welovearabic.wordpress.com/2012/05/27/al-jazeera-arabic-language-podcasts/
 
+
 * [** https://thelevantongue.com/levantine-arabic/transcript-ahed-interview-palestinian-arabic/](https://thelevantongue.com/levantine-arabic/transcript-ahed-interview-palestinian-arabic/)
 * Al Jazeera
 * http://ar-podcast.com/
@@ -6960,11 +6989,13 @@
 * [GRC Reconstructed Podcast](https://open.spotify.com/show/1Mi8qFuBFCcSnf4lPeIb8u?si=Ofltq-drTjujc6HAK4d-RQ)
 * [ὁ διὰ νυκτὸς διάλογος](https://open.spotify.com/show/0JgV3V6FiZF2YqVZhM2Xyu?si=KCXG6VG2TyqfOTbugKz5jA)
 
+
 * [**ΤΑ ΜΑΘΗΜΑΤΑ](http://tamathemata.blogspot.com.es/2008/01/i-8_17.html)**        - [***Відеозаписи ₪ ДРЕВНЕГРЕЧЕСКИЙ ЯЗЫК ₪ ΑΡΧΑΙΑ ΕΛΛΗΝΙΚΗ ΓΛΩΣΣΑ](https://vk.com/videos-2428428)*     - **** https://archive.org/search.php?query=creator%3A%22Ariphron%22
 * http://spiphanies.blogspot.com/2009/03/audio-resources-for-ancient-greek.html
 * http://www.letsreadgreek.com/resources/greekntaudio.htm
 * http://www.loyalbooks.com/language/Ancient_Greek
 * [Sine Gratia Sine Auctoritate](https://www.spreaker.com/show/sine-gratia-sine-auctoritate)
+
 
 * [**ΤΑ ΜΑΘΗΜΑΤΑ](http://tamathemata.blogspot.com.es/2009/09/pagina-pedemptim-exstruenda.html)
 * [Aesop, Fables 1-12 (Audiobook in ancient Greek)Podium-Arts.com](https://www.podium-arts.com/1544/aesop-fables-001-012/)
@@ -6974,6 +7005,7 @@
 * https://www.podium-arts.com/1544/aesop-fables-001-012
 * [Homeric Rhapsody: Iliad I](https://open.spotify.com/show/1tEK0n1v6G8HdMcx6PqYZW?si=lVbKNWUxTMmFWb9un6o66A)
 * [ὁ διὰ νυκτὸς διάλογος](https://odianuktosdialogos.podomatic.com/?fbclid=IwAR2xDKZIDbVWLIWDx5A6rrlqvVFXybMpr2rdWDWH5_PFZGjiYu8VeTfAdsY)
+
 
 * [**Odyssey (in Ancient Greek) : Christian Pecaut : Free Download &amp;amp; Streaming : Internet Archive](https://archive.org/details/Odyssey_in_Ancient_Greek)
 * https://www.spreaker.com/show/intercapedines-latinae
@@ -6992,6 +7024,7 @@
 * [ΒΙΩΝ ΚΑΙ ΓΝΩΜΩΝ ΤΩΝ ΕΝ ΦΙΛΟΣΟΦΙΑΙ ΕΥΔΟΚΙΜΗΣΑΝΤΩΝ ΤΩΝ ΕΙΣ ΔΕΚΑ ΤΟ ΠΡΩΤΟΝ, ΠΡΟΟΙΜΙΟΝ](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0257%3Abook%3D1%3Achapter%3Dprologue)
 * Illiad Reading - FOLLOWING THE REVISED GREEK ACCENT SYSTEMde David Rudmin
 * [Podium-Arts - YouTube](https://www.youtube.com/user/iostrat/videos)
+
 
 * [**Reconstructed Ancient Greek Spoken (Iliad and Euclid) - YouTube](https://www.youtube.com/watch?v=nECdTcqrUAo)        - [**Spoken Ancient Greek online - YouTube](https://www.youtube.com/watch?v=1HiVIWSfzvw)        - [**The Orphic Hymn to Artemis in Ancient Greek - YouTube](https://www.youtube.com/watch?v=sQyRG9fZDDk)
 * [Aesop's Fable 19 (spoken in reconstructed ancient Greek) - YouTube](https://www.youtube.com/watch?v=VpMGZmtsfHI&list=PLsfJivbqikuGNcbEvJvyGP26phHrOUosa&index=2)
@@ -7128,6 +7161,7 @@
 * [Stavangerkameratene - Forelska Meg I Deg Igjen Lyrics | Musixmatch](https://www.musixmatch.com/lyrics/Stavangerkameratene/Forelska-meg-i-deg-igjen)
 * [Stavangerkameratene music, videos, stats, and photos | Last.fm](https://www.last.fm/music/Stavangerkameratene)
 
+
 * [**Hellbillies — Wikipédia](https://fr.wikipedia.org/wiki/Hellbillies)        - [**Narum (group) - Wikipedia](https://en.wikipedia.org/wiki/Narum_(group))        - [**Siri Nilsen - Wikipedia](https://en.wikipedia.org/wiki/Siri_Nilsen)        - [**VG-lista 2018 – Skandinavias største konsert](https://www.vglista.no/)        - [*Dollie – Wikipedia](https://no.wikipedia.org/wiki/Dollie)        - [Vamp (band) - Wikipedia](https://en.wikipedia.org/wiki/Vamp_%28band%29)
 * [Anne Marie Almedal – Wikipedia](https://no.wikipedia.org/wiki/Anne_Marie_Almedal)
 * [Bamses Venner – Ingen Som Dig Lyrics | Genius Lyrics](https://genius.com/Bamses-venner-ingen-som-dig-lyrics)
@@ -7218,8 +7252,8 @@
 * - 20+
 * [Esperanto Self-Taught with Phonetic Pronunciation, Volume 1](https://castbox.fm/vc/22315)
 * [Esperanto AniBooks by BookBox | Official Playlist](https://www.youtube.com/playlist?list=PLPDzF0B97OtGYLPwIiGpRjIXigF6tn1tb)*     
-- Otros* - 0* - 1* - 2* - 3* - 3b* - 4* - 5* - 6* - 7* - 8* - 9* - 9b* - 10* - 11* - 11/12* - 12* - 13* - 14* - 15* - 16* - 17* - 18* - 19* - 20
-- Netflix List
+* Otros* - 0* - 1* - 2* - 3* - 3b* - 4* - 5* - 6* - 7* - 8* - 9* - 9b* - 10* - 11* - 11/12* - 12* - 13* - 14* - 15* - 16* - 17* - 18* - 19* - 20
+* Netflix List
 * Haus des Geldes
 * Rick and Morty
 * Phantastische Tierwesen.
@@ -7399,12 +7433,12 @@
 * [ ]  Parks and Rec
 * [ ]  The Good Place
 * [ ]  The Office UK
-- Multilingual* - General* - Muchos / subtítulos / otros* - Instrucción* - Mejores* - <-* - Misc* - Mixed* - IPA* - Teoria* - Escritura* - Fora* - YouTube* - Lectura* - ex.ua abonnements* - Podcast* - Escucha* - Audiolibros* - Paremiology* - Musica* - Vocab* - Frases y modismos* - Traduccion* - Tools* - Ling* - Videos
-- Parallel* - LPP* - HP* - Daily Stoic* - Why Evolution Is True* - Sapiens* - Kahneman* - Encheiridion* - DVC* - HP and the Methods of Rationality* - Alice in Wonderland* - 7 Habits* - BoM* - Qur’an* - Other
-- Language pairs
+* Multilingual* - General* - Muchos / subtítulos / otros* - Instrucción* - Mejores* - <-* - Misc* - Mixed* - IPA* - Teoria* - Escritura* - Fora* - YouTube* - Lectura* - ex.ua abonnements* - Podcast* - Escucha* - Audiolibros* - Paremiology* - Musica* - Vocab* - Frases y modismos* - Traduccion* - Tools* - Ling* - Videos
+* Parallel* - LPP* - HP* - Daily Stoic* - Why Evolution Is True* - Sapiens* - Kahneman* - Encheiridion* - DVC* - HP and the Methods of Rationality* - Alice in Wonderland* - 7 Habits* - BoM* - Qur’an* - Other
+* Language pairs
 * → see https://docs.google.com/spreadsheets/d/1dzhICu3pdzn8pdR-Q_BeDq3mwBAf3KwPZb-KqY5_Log/edit#gid=999626011
 * - 1   ✓* - 2   ✓* - 3   ✓* - 3b   ✓* - 4   ✓* - 5   ✓* - 6   ✓* - 7   ✓* - 8   ✓* - 9   ✓* - 10   ✓* - 11   ✓* - 12   ✓* - 13* - 14* - 15* - 15b* - 16* - 16b* - 16c* - 19* - 20* - 21* - 23
-- Check out
+* Check out
 * http://www.fluentin3months.com/free-dictionaries/
 * https://premium.oxforddictionaries.com/us/
 * http://eudict.com/

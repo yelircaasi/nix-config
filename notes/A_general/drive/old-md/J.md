@@ -1,5 +1,6 @@
 # J
 ## _Lectura
+
 Deep Work
 
 HBR on Managing Yourself (2 volumes).pdf
@@ -84,7 +85,9 @@ Self help is BS.jpg
 
 Social Engineering. The Science of Human Hacking.pdf
 
+
 ## A. General
+
 Personal Kanban
 
 <> Как быть продуктивным.jpg
@@ -125,7 +128,9 @@ Zufrieden Sein.docx
 
 8 hábitos para el éxito.png
 
+
 ## B. Relaciones y competencia social
+
 Переговоры без поражения.pdf
 
 The Complete Illustrated Kama Sutra.pdf
@@ -134,8 +139,11 @@ O Espirito da Intimidade.pdf
 
 Advanced Sex Positions.pdf
 
+
 ## C. Finanazas
+
 La comptabilité.pdf
+
 
 ## D. Uso de la tecnología
 ## E. Tareas diarias
@@ -148,4 +156,5 @@ La comptabilité.pdf
 
 ### B. Finanzas personales
 ### C. Autoconocencia
+
 My Worldview.gdoc

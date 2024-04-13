@@ -1978,21 +1978,21 @@
                 ]
             },
             "Haskell": [
-                "[] < -1> Learn You a Haskell for Great Good.pdf",
-                "[] < -1> Learn You a Haskell for Great Good (v2).pdf",
-                "[] <0> Effective Haskell",
+                "[-1] < -1> Learn You a Haskell for Great Good.pdf",
+                "[-1 dup] < -1> Learn You a Haskell for Great Good (v2).pdf",
+                "[0] <0> Effective Haskell",
                 "[] <Effective Haskell.pdf>",
-                "[] <0> Теория катигорий для программиста.pdf",
-                "[] <0> Haskell Programming from First Principles.pdf",
-                "[] <0> Thinking Functionally with Haskell.pdf",
-                "[] <0> Practical Haskell.pdf",
-                "[] <0r> Practical Haskell.pdf",
+                "[2] <0> Теория катигорий для программиста.pdf",
+                "[0$$$] <0> Haskell Programming from First Principles.pdf",
+                "[1] <0> Thinking Functionally with Haskell.pdf",
+                "[0] <0> Practical Haskell.pdf",
+                "[1 dup] <0r> Practical Haskell.pdf",
                 "[] <0> Haskell. The Craft of Functional Programming.pdf",
                 "[] <0> Haskell in Depth",
                 "[] <0> Haskell Tutorial and Cookbook.pdf",
                 "[] <0> Thinking Functionally with Haskell.pdf",
-                "[] <1> Жемчужины проектирования алгоритмов - функциональный подход.pdf",
-                "[] <1> The Haskell Road to Logic, Maths and Programming.pdf"
+                "[2] <1> Жемчужины проектирования алгоритмов - функциональный подход.pdf",
+                "[1] <1> The Haskell Road to Logic, Maths and Programming.pdf"
             ],
             "Java": {
                 "<general>": [

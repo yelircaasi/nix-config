@@ -1,22 +1,6 @@
 # J
-
-
-## To Sort
-
-assistenz.eschbach@tecis.de
-
-inability to love -> why?
-
-suffering from "id'ees fixes" -> why? how do they work?
-
-If sladostrastie is slavery, then to what extent is it (or similar phenomena) permissible? what is the proper role of pleasure in life? what would the great sages say?
-
--> Stoics, Epicureans, Buddhists, Daoists
-
-O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nunca agisse por precipitação.
-
-
-* Books to Live By
+## Book List 
+### Books to Live By
 * The 7 Habits of Highly Effective People
 * HBR on Managing Yourself
 * First Things First
@@ -50,7 +34,57 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
 * Cool Time - Prentice (Интегрированный тайм-менеджмент)
 * Как обычный может стать гением
 * Mating in Captivity.pdf
-* ## ?
+
+### Other Books - Sort
+* [Guía de Hábitos Inteligentes: 36 Pequeños Cambios de Vida que su Cerebro Agradecerá](https://www.amazon.com/Gu%C3%ADa-H%C3%A1bitos-Inteligentes-Peque%C3%B1os-Agradecer%C3%A1/dp/1518720374/ref=sr_1_7?ie=UTF8&qid=1490621250&sr=8-7&keywords=Libro+di+psicologia)
+* https://www.samuelthomasdavies.com/wp-content/uploads/2016/02/Unhooked-Second-Edition.pdf
+* [Liberating Structures - Introduction](http://www.liberatingstructures.com/?fbclid=IwAR0q3Lw0F7GzkK4eu8voOJX9nJGMw62CGKZW4vRX7QgzL0b415GTWNyjv4o)
+* [Книга Ленивого Гуру. Поток. Результаты. Без усилий | Лоуренс Шортер | download](https://b-ok.cc/book/2858445/21f002)
+* [Book Summary: You Are Not So Smart by David McRaney](https://www.samuelthomasdavies.com/book-summaries/psychology/you-are-not-so-smart/)
+* [Fünf etwas andere Sachbücher für ein besseres Leben](https://www.blinkist.com/magazine/posts/5-bucher-die-dein-leben-verandern-werden)
+* the way of the champion
+* the artist's way morning pages journal
+* write for life
+* seeking wisdom
+* four thousand weeks
+* change your brain every day
+* the seven decisionsquitting: a life strategy
+* simple abundance
+* atomic habits
+* the power of habit
+* Daniel h pink all books
+* Brian Greene all books
+* sex at dawn
+* build it fix it own it
+* web design playground
+* secret life of programs
+* algorithms louridas
+* Edward de Bono, esp six thinking hats
+* dead simple Python
+* big book of inkscape
+* DevOps handbook
+* the theoretical minimum
+* Roadmap
+* Wie man das eis bricht
+* Die Macht der Gewohnheit
+* Die 4-Stunden-Woche
+* Rich Dad, Poor Dad
+* Die einfachste Gewohnheit der Welt
+* Jetzt!
+* 10xDNA
+* Alles im Kopf behalten
+* Super Human
+* Limitless
+* Denke nach und werde reich
+* Still
+* Elon Musk
+* Das 80/20-Prinzip
+* Die fünf Sprachen der Liebe
+* Miracle Morning
+* Lean In
+* Geh nie alleine essen!
+* [Character Strengths and Virtues: A Handbook and Classification](http://library.lol/main/F91E0CBE958A332FA01225E5FB910BBC)
+* [Pequeno Tratado das Grandes Virtudes](http://library.lol/main/D2879958172F45A731234BBB4BEC2C02)
 * Книга о потерянном времени
 * Красная таблетка
 * The Organized Mind
@@ -79,12 +113,160 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
 * О пользе лени
 * Bored and Brilliant
 * Осознанность. Как обрести гармонию в нашем безумном мире
-* ## Other
-* >> 3-3-3 Method
-* https://lifehacker.com/* 
-* Attributes
-* 
+* Sort: Books
+* [!!! Barbara Oakley !!!](https://b-ok.cc/g/Barbara%20Oakley)
+* [[BOOMINFO.RU] Андрей Курпатов_Скажи депрессии НЕТ!.pdf](https://vk.com/doc511167847_517647673?hash=f7ef2ea33e0f5537e9&dl=9a7d192249f08610db)
+* 10% Happier
+* [12 недель в году](https://vk.com/wall-154516093_18533)
+* A Buddhist Bible
+* [Anders kijken](http://library.lol/main/F03688ACD38EAE8354D8E5454880C63A)
+* Awareness (Nunn)
+* [Bachoux - Tout ce qui compte en cet instant.epub](https://vk.com/doc277688559_437233683?hash=11be1039401d223830&dl=d6bca7e3876ca41d96)
+* [bank_3_0_Smart_Reading.pdf](https://vk.com/doc5961481_459269207?hash=83a5d5e2010fb2d130&dl=5d19338d86d1d15b60)
+* [Best 5 stoic texts](https://ericsiggyscott.wordpress.com/2018/09/21/beyond-the-big-three-the-best-5-stoics-text-not-written-by-marcus-aurelius-seneca-or-epictetus/)
+* [Brainstorm (O'Sullivan)](https://vk.com/doc44301783_454111701?hash=99c86166b4948b1317&dl=7c39ee30a0f7796984)
+* Buddhismus (Schumann)
+* [Buddhismus für die moderne Welt](https://vk.com/doc44301783_459166740?hash=886764324b13cc57e7&dl=a8fff620a47db16961)
+* Can't Hurt Me
+* [Conferencing and Presentation English for Young Academics_Michael Guest_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-981-13-2475-8)
+* Das best Lebensmotto der Welt
+* Das Buch der Tugenden
+* Declutter Your Mind
+* Deep Work: Rules for Focused Success in a Distracted World
+* Der Buddhismus
+* Die Kunst zu leben
+* [Die Reden Gotamo Buddhos](https://vk.com/doc4605748_451600271?hash=b0495d50d07b285994&dl=850dd7c2e92e1de17d)
+* [Drives of a Lifetime (NG)](https://vk.com/doc144925286_510165085?hash=675a9966ab9c7fa8b8&dl=976d84ba718fac7831)
+* Easy Way to Stop Smoking
+* [El Camino del Zen](https://b-ok.cc/book/941607/f2e3cf)
+* Elon Musk
+* [Essentials of Food Science_Vickie A. Vaclavik, Elizabeth W. Christian_4th ed. 2014](http://link.springer.com/openurl?genre=book&isbn=978-1-4614-9138-5)
+* [Future_Smart_Reading.pdf](https://vk.com/doc5961481_459269246?hash=f956a4e9cae8093082&dl=b5396b850135e3f890)
+* [G_Altshuller_I_Vertkin_Kak_stat_geniem.doc](https://vk.com/doc30601958_455571835?hash=9a085ee2dad3bd83b3&dl=04e645159602df4233)
+* [Get Smart!: How to Think and Act Like the Most Successful and Highest-Paid People in Every Field](https://b-ok.cc/book/3515242/5374fc)
+* Girl, Stop Apologizing
+* Girl, Wash Your Face
+* [Good_To_Great_Smart_Reading.pdf](https://vk.com/doc5961481_459269249?hash=ac5443c88679735c71&dl=4c4b83ea38d7e926e0)
+* How to Stop Worrying and Start Living
+* [Kak_stat_geniem_-_zhiznennaya_strategia_tvorchesk(3).pdf](https://vk.com/doc30601958_455571841?hash=47d0daf2985cd2bffd&dl=8ffa425771c8a62312)
+* [Kak_stat_geniem.pdf](https://vk.com/doc30601958_455571831?hash=f17b062d47c154f5d5&dl=12a9c24e6297262ffd)
+* [Le Bricolage pour les Nuls.pdf](https://vk.com/doc162499119_454658513?hash=5d540771f30992bfff&dl=efa57c99e94fa63734)
+* [Lean Time Management: Die ultimative Zeitrettung für Gipfelstürmer, Dauerbrenner und andere Ruhelose](https://b-ok.cc/book/961666/abb15d)
+* Lernen (Spitzer)
+* [Log Off (Snow)](https://vk.com/doc271638305_494733408?hash=ba5d2c233aed0e87e7&dl=e6bfd362c6e5253b46)
+* [Mindware](https://b-ok.cc/s/Mindware/?e=1)
+* [motivating books](https://www.reddit.com/r/booksuggestions/comments/f18ii6/book_that_will_help_me_become_disciplined_and/)
+* Popular Mecanics - How to Fix Anything Essential
+* [Practical Wisdom. The Right Way to Do the Right Thing](https://vk.com/doc4605748_508137462?hash=9957c12269b240b744&dl=193193e21b41c38d6f)
+* [Range: Why Generalists Triumph in a Specialized World](https://vk.com/doc4605748_450488821?hash=0f966e180ea2092e5b&dl=f153a717841293a11d)
+* Rich Dad, Poor Dad
+* [Sensory Evaluation of Food_Harry T. Lawless, Hildegarde Heymann_2nd ed. 2010](http://link.springer.com/openurl?genre=book&isbn=978-1-4419-6488-5)
+* [T_V_Akhutina_N_M_Pylaeva_Preodolenie_trudnostey_uchenia.pdf](https://vk.com/doc30601958_511692135?hash=0f39fe19f8df826cb7&dl=090ee7227efcf49cab)
+* [Teachings of the Buddha](https://vk.com/doc4605748_452021886?hash=114dd2e527ad1ee2d8&dl=fc9f4dbcedbc6585db)
+* The 5 Love Languages
+* The 7 Habits of Highly Effective People
+* [The A-Z of the PhD Trajectory_Eva O. L. Lantsoght_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-77425-1)
+* [The Buddha (Strong)](https://vk.com/doc44301783_459166744?hash=8cd9a970631f78fa6e&dl=127e6be4012ed0bb70)
+* [The Dhammapada](https://vk.com/doc525831385_508959191?hash=1c83edcb58967d1c2b&dl=a2bec24111a6545581)
+* [The Fruitful Darkness A Journey Through Buddhist Practice and Tribal Wisdom.epub](https://vk.com/doc348852382_462338912?hash=712d4cf0f37b5cbcb7&dl=fafb1f4ab4605991a3)
+* The Well-Tuned Brain
+* Think and Grow Rich
+* [Why Buddhism Is True](https://vk.com/doc3125830_512358127?hash=e01f62c4922963070a&dl=b6787a8b4ed75eaf07)
+* You Are a Badass
+* You Are a Badass ...
+* You Are a Badass at Making Money
+* Ирина Якутенко "Воля и самоконтроль. Как гены и мозг мешают нам бороться с соблазнами"
+* [Марк Мэнсон "Тонкое искусство пофигизма](https://vk.com/doc162499119_454659918?hash=28ae933e7bb7ccee34&dl=0120042f6fd61f7e3a)
+* [РАЗВИТИЕ ПАМЯТИ .epub](https://vk.com/doc464862457_459636433?hash=fa0aaacce4c5211839&dl=27a189a96ff5a0431b)
+* [скоростное чтение](https://vk.com/wall-37160097_96910)
+* [Что почитать для саморазвития?](https://vk.com/wall-124609314_80202)
+* [ЭССЕНЦИАЛИЗМ. ПУТЬ К ПРОСТОТЕ.epub](https://vk.com/doc464862457_459636689?hash=c505f839022e75ab7a&dl=8918e69cab8205e485)
+* [The 4-hour Workweek](https://vk.com/doc6576953_409905978?hash=902ed068dacb69ac19&dl=46bf5e1bfc20aaf2c1)
+* [Algs to Live By](http://libgen.is/search.php?&req=+Tom+Griffiths&phrase=1&view=simple&column=author&sort=year&sortmode=DESC)
 
+### Sexuality
+Guter Sex trotz Liebe von Ulrich Clement
+* [Shaping Sexual Knowledge: A Cultural History of Sex Education in Twentieth Century Europe | Lutz Sauerteig, Roger Davidson | download](https://b-ok.cc/book/699954/f1d742)                - [**Sexuality: A Very Short Introduction | Veronique Mottier | download](https://b-ok.cc/book/551048/f41412)
+* [Sociologie de la sexualité](http://library.lol/main/21613DC991802D6BEB87435D0447A9FB)
+* [La sexualité à l'époque moderne](http://library.lol/main/0B28D2BF05654CC1802B7944535ADD5E)
+* 48 Laws of Power
+* The 50th Law
+* The Art of Seduction
+* [Sex, Love, and Mental Illness: A Couple's Guide to Staying Connected](http://library.lol/main/36466910DBF1D0C7523FE4BD39A19C06)
+* [Functional and Dysfunctional Sexual Behavior: A Synthesis of Neuroscience and Comparative Psychology](http://library.lol/main/4B5E19FE421F6AE2C7B458905FDDAF49)
+* [Evolutionary Perspectives on Human Sexual Psychology and Behavior](http://library.lol/main/2B2DFD3C974D2116DAE2CDF80C793AD4)
+* [Encyclopedia of Sex and Sexuality: Understanding Biology, Psychology, and Culture](http://library.lol/main/96697799E192296D8BDEA9734FCB85AC)
+* [Sex and Belonging: On the Psychology of Sexual Relationships](http://library.lol/main/A59F2367FABB304388E3004B5F2B3CA0)
+* [The Psychology of Sex](http://library.lol/main/EB5DEBA5B1459895278F8304B2F7F5FB)
+* [HOOKING UP: The Psychology of Sex and Dating](http://library.lol/main/7BC6FA5F53934067FFCA08CCD16764D7)
+* [Sex: Every Man's Guide to Sexually Satisfy Her: Sex Positions, Sex Guide& Sex Help (BONUS, Female Psychology, Sex Tips, Attract Women, Sexin Marriage, Couples Therapy)](http://library.lol/main/51D384D38DC59BC8F787E57352A565D1)
+### psychology
+* https://web.stanford.edu/~nanbhas/blog/understanding-cognitive-distortions/
+#### Habits
+* The Power of Habit - Duhigg
+* [Piccole abitudini per grandi cambiamenti. Trasforma la tua vita un piccolo passo per volta](http://library.lol/main/1B77A4CD44E67B35157DAB68BDC320DB)
+* [Hábitos Atômicos](http://library.lol/main/632231E771DE7C2C09EE6B9B4BA648DA)
+* [Hábitos atómicos](http://library.lol/main/09C503A99D52A15F1E2E2FA085F3FF23)
+* Как быть продуктивным.jpg
+
+
+## Notes
+### Current Notes
+* inability to love -> why?
+* suffering from "id'ees fixes" -> why? how do they work?
+* If sladostrastie is slavery, then to what extent is it (or similar phenomena) permissible? what is the proper role of pleasure in life? what would the great sages say?
+* -> Stoics, Epicureans, Buddhists, Daoists
+
+### Memory Lane - Old Notes
+
+### Action Items
+
+assistenz.eschbach@tecis.de
+
+### Learning
+* “Students do not learn much just sitting in classes listening to teachers, memorizing prepackaged assignments, and spitting out answers. They must talk about what they are learning, write reflectively about it, relate it to past experiences, and apply it to their daily lives. They must make what they learn part of themselves.”
+* A few tips while learning online is to always take simple notes, writing takeaways at the end of the day or blogging about what you’ve learned. By the same vein, utilizing the Feynman Technique by explaining what you have learned to friends and family is important, especially for a complex subject such as Data Science.  ||  Moreover, when learning machine learning algorithms and neural networks, it’s crucial to learn it along with writing the code, this way you can see what you’re learning, and have a better understanding of the topic at hand. It’s also good to be a part of online communities such as Reddit, Discord, etc. so you can ask questions and obtain great answers from experts.
+* How to learn data science on the internet? The best MOOCs + correct learning methodology + passion + projects
+* Taking notes/blogging | Use the Feynman Technique | Code along with concepts (Create a neural network from scratch) | Join data science online communities to ask questions
+* https://habitica.com/static/home 
+* https://wiki.nikiv.dev/free 
+
+### Thought Snippets, Quotes, Aphorisms
+
+O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nunca agisse por precipitação.
+
+A liberdade é a possibilidade do isolamento. Se te é impossível viver só, nasceste escravo.
+
+Todo o homem é culpado do bem que não fez.
+
+* http://www.news.uwa.edu.au/201309176069/alumni/tim-minchin-stars-uwa-graduation-ceremony
+     Ladies and Gentlemen please welcome Mr Tim Minchin
+     In darker days I did a corporate gig at a conference for this big company who made and sold accounting software in a bid, I presumed, to inspire their salespeople to greater heights. They’d forked out 12 grand for an inspirational speaker who was this extreme sports guy who had had a couple of his limbs frozen off when he got stuck on a ledge on some mountain. It was weird.
+     Software salespeople I think need to hear from someone who has had a long successful career in software sales not from an overly optimistic ex-mountaineer.
+     Some poor guy who had arrived in the morning hoping to learn about sales techniques ended up going home worried about the blood flow to his extremities. It’s not inspirational, it’s confusing. And if the mountain was meant to be a symbol of life’s challenges and the loss of limbs a metaphor for sacrifice, the software guy’s not going to get it, is he? Because he didn’t do an Arts degree, did he? He should have.
+     Arts degrees are awesome and they help you find meaning where there is none. And let me assure you… there is none. Don’t go looking for it. Searching for meaning is like searching for a rhymes scheme in a cookbook. You won’t find it and it will bugger up your soufflé. If you didn’t like that metaphor you won’t like the rest of it.
+     Point being I’m not an inspirational speaker. I’ve never ever lost a limb on a mountainside metaphorically or otherwise and I’m certainly not going to give career advice because, well I’ve never really had what most would consider a job. However I have had large groups of people listening to what I say for quite a few years now and it’s given me an inflated sense of self importance.
+     So I will now, at the ripe old age of 37-point-nine, bestow upon you nine life lessons to echo of course the nine lessons of carols of the traditional Christmas service, which is also pretty obscure.
+     You might find some of this stuff inspiring. You will definitely find some of it boring and you will definitely forget all of it within a week. And be warned there will be lots of hokey similes and obscure aphorisms which start well but end up making no sense. So listen up or you’ll get lost like a blind man clapping in a pharmacy trying to echo-locate the contact lens fluid.
+     (crowd laughs) …Looking for my old poetry teacher.
+     Here we go, ready?
+     One: You don’t have to have a dream. Americans on talent shows always talk about their dreams. Fine if you have something you’ve always wanted to do, dreamed of, like in your heart, go for it. After all it’s something to do with your time, chasing a dream. And if it’s a big enough one it’ll take you most of your life to achieve so by the time you get to it and are staring into the abyss of the meaningless of your achievement you’ll be almost dead so it won’t matter.
+     I never really had one of these dreams and so I advocate passionate, dedication to the pursuit of short-term goals. Be micro-ambitious. Put your head down and work with pride on whatever is in front of you. You never know where you might end up. Just be aware the next worthy pursuit will probably appear in your periphery, which is why you should be careful of long-term dreams. If you focus too far in front of you you won’t see the shiny thing out the corner of your eye. Right? Good! Advice metaphor… look at me go.
+     Two: Don’t seek happiness. Happiness is like an orgasm. If you think about it too much it goes away. (crowd laughs) Keep busy and aim to make someone else happy and you might find you get some as a side effect. We didn’t evolve to be constantly content. Contented Homo erectus got eaten before passing on their genes.
+     Three: Remember it’s all luck. You are lucky to be here. You are incalculably lucky to be born and incredibly lucky to be brought up by a nice family who encouraged you to go to uni. Or if you were born into a horrible family that’s unlucky and you have my sympathy but you are still lucky. Lucky that you happen to be made of the sort of DNA that went on to make the sort of brain which when placed in a horrible child environment would make decisions that meant you ended up eventually graduated uni. Well done you for dragging yourself up by your shoelaces. But you were lucky. You didn’t create the bit of you that dragged you up. They’re not even your shoelaces.
+     I suppose I worked hard to achieve whatever dubious achievements I’ve achieved but I didn’t make the bit of me that works hard any more than I made the bit of me that ate too many burgers instead of attending lectures when I was here at UWA. Understanding that you can’t truly take credit for your successes nor truly blame others for their failures will humble you and make you more compassionate. Empathy is intuitive. It is also something you can work on intellectually.
+     Four: Exercise. I’m sorry you pasty, pale, smoking philosophy grads arching your eyebrows into a Cartesian curve as you watch the human movement mob winding their way through the miniature traffic cones of their existence. You are wrong and they are right. Well you’re half right. You think therefore you are but also you jog therefore you sleep therefore you’re not overwhelmed by existential angst. You can’t be can’t and you don’t want to be. Play a sport. Do yoga, pump iron, and run, whatever but take care of your body, you’re going to need it. Most of you mob are going to live to nearly 100 and even the poorest of you will achieve a level of wealth that most humans throughout history could not have dreamed of. And this long, luxurious life ahead of you is going to make you depressed. (audience laughs) But don’t despair. There is correlation between depression and exercise. Do it! Run, my beautiful intellectuals run.
+     Five: Be hard on your opinions. A famous bon mot asserts opinions are like assholes in that everyone has one. There is great wisdom in this but I would add that opinions differ significantly from assholes in that yours should be constantly and thoroughly examined. (audience laughs) I used to do exams in here (audience laughs)… It’s revenge.
+     We must think critically and not just about the ideas of others. Be hard on your beliefs. Take them out onto the verandah and hit them with a cricket bat. Be intellectually rigorous. Identify your biases, your prejudices, your privileges. Most of society is kept alive by a failure to acknowledge nuance. We tend to generate false dichotomies and then try to argue one point using two entirely different sets of assumptions. Like two tennis players trying to win a match by hitting beautifully executed shots from either end of separate tennis courts.
+     By the way, while I have science and arts graduates in front of me please don’t make the mistake of thinking the arts and sciences are at odds with one another. That is a recent, stupid and damaging idea. You don’t have to be unscientific to make beautiful art, to write beautiful things. If you need proof - Twain, Douglas Adams, Vonnegut, McEwan, Sagan and Shakespeare, Dickens for a start. You don’t need to be superstitious to be a poet. You don’t need to hate GM technology to care about the beauty of the planet. You don’t have to claim a soul to promote compassion. Science is not a body of knowledge nor a belief system it’s just a term which describes human kinds’ incremental acquisition of understanding through observation. Science is awesome! The arts and sciences need to work together to improve how knowledge is communicated. The idea that many Australians including our new PM and my distant cousin Nick Minchin believe that the science of anthropogenic global warming is controversial is a powerful indicator of the extent of our failure to communicate. The fact that 30 percent of the people just bristled is further evidence still. (audience laughs) The fact that that bristling is more to do with politics than science is even more despairing.
+     Six: Be a teacher! Please! Please! Please be a teacher. Teachers are the most admirable and important people in the world. You don’t have to do it forever but if you’re in doubt about what to do be an amazing teacher. Just for your 20s be a teacher. Be a primary school teacher. Especially if you’re a bloke. We need male primary school teachers. Even if you’re not a teacher, be a teacher. Share your ideas. Don’t take for granted your education. Rejoice in what you learn and spray it.
+     Seven: Define yourself by what you love. I found myself doing this thing a bit recently where if someone asks me what sort of music I like I say, “Well I don’t listen to the radio because pop song lyrics annoy me,” or if someone asks me what food I like I say, “I think truffle oil is overused and slightly obnoxious.” And I see it all the time online - people whose idea of being part of a subculture is to hate Coldplay or football or feminists or the Liberal Party.
+     We have a tendency to define ourselves in opposition to stuff. As a comedian I make my living out of it. But try to also express your passion for things you love. Be demonstrative and generous in your praise of those you admire. Send thank you cards and give standing ovations. Be pro stuff not just anti stuff.
+     Eight: Respect people with less power than you. I have in the past made important decisions about people I work with – agents and producers - big decisions based largely on how they treat the wait staff in the restaurants we’re having the meeting in. I don’t care if you’re the most powerful cat in the room, I will judge you on how you treat the least powerful. So there!
+     Nine: Finally, don’t rush. You don’t need to know what you’re going to do with the rest of your life. I’m not saying sit around smoking cones all day but also don’t panic! Most people I know who were sure of their career path at 20 are having mid-life crises now.
+     I said at the beginning of this ramble, which is already three-and-a-half minutes long, life is meaningless. It was not a flippant assertion. I think it’s absurd the idea of seeking meaning in the set of circumstances that happens to exist after 13.8 billion years worth of unguided events. Leave it to humans to think the universe has a purpose for them. However I’m no nihilist. I’m not even a cynic. I am actually rather romantic and here’s my idea of romance: you will soon be dead. Life will sometimes seem long and tough and God it’s tiring. And you will sometimes be happy and sometimes sad and then you’ll be old and then you’ll be dead. There is only one sensible thing to do with this empty existence and that is fill it. Not fillet. Fill it. And in my opinion, until I change it, life is best filled by learning as much as you can about as much as you can. Taking pride in whatever you’re doing. Having compassion, sharing ideas, running, being enthusiastic and then there’s love and travel and wine and sex and art and kids and giving and mountain climbing, but you know all that stuff already. It’s an incredibly exciting thing this one meaningless life of yours. Good luck and thank you for indulging me.
+
+### Notes To Sort
 
 * Sort: Notes
 * "I am so glad that I spent most of my 31st year * developing an optimal system for my life, getting in shape, and * intensively working on my skillet for work."
@@ -111,34 +293,10 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
 * repentance and absolution for secular people
 * "Mach dich nicht so klein; so groß bist du gar nicht."
 * - Transcript of Tim Minchin address: UWA 2013 graduation ceremony.*    
-* http://www.news.uwa.edu.au/201309176069/alumni/tim-minchin-stars-uwa-graduation-ceremony
-*     Ladies and Gentlemen please welcome Mr Tim Minchin
-*     In darker days I did a corporate gig at a conference for this big company who made and sold accounting software in a bid, I presumed, to inspire their salespeople to greater heights. They’d forked out 12 grand for an inspirational speaker who was this extreme sports guy who had had a couple of his limbs frozen off when he got stuck on a ledge on some mountain. It was weird.
-*     Software salespeople I think need to hear from someone who has had a long successful career in software sales not from an overly optimistic ex-mountaineer.
-*     Some poor guy who had arrived in the morning hoping to learn about sales techniques ended up going home worried about the blood flow to his extremities. It’s not inspirational, it’s confusing. And if the mountain was meant to be a symbol of life’s challenges and the loss of limbs a metaphor for sacrifice, the software guy’s not going to get it, is he? Because he didn’t do an Arts degree, did he? He should have.
-*     Arts degrees are awesome and they help you find meaning where there is none. And let me assure you… there is none. Don’t go looking for it. Searching for meaning is like searching for a rhymes scheme in a cookbook. You won’t find it and it will bugger up your soufflé. If you didn’t like that metaphor you won’t like the rest of it.
-*     Point being I’m not an inspirational speaker. I’ve never ever lost a limb on a mountainside metaphorically or otherwise and I’m certainly not going to give career advice because, well I’ve never really had what most would consider a job. However I have had large groups of people listening to what I say for quite a few years now and it’s given me an inflated sense of self importance.
-*     So I will now, at the ripe old age of 37-point-nine, bestow upon you nine life lessons to echo of course the nine lessons of carols of the traditional Christmas service, which is also pretty obscure.
-*     You might find some of this stuff inspiring. You will definitely find some of it boring and you will definitely forget all of it within a week. And be warned there will be lots of hokey similes and obscure aphorisms which start well but end up making no sense. So listen up or you’ll get lost like a blind man clapping in a pharmacy trying to echo-locate the contact lens fluid.
-*     (crowd laughs) …Looking for my old poetry teacher.
-*     Here we go, ready?
-*     One: You don’t have to have a dream. Americans on talent shows always talk about their dreams. Fine if you have something you’ve always wanted to do, dreamed of, like in your heart, go for it. After all it’s something to do with your time, chasing a dream. And if it’s a big enough one it’ll take you most of your life to achieve so by the time you get to it and are staring into the abyss of the meaningless of your achievement you’ll be almost dead so it won’t matter.
-*     I never really had one of these dreams and so I advocate passionate, dedication to the pursuit of short-term goals. Be micro-ambitious. Put your head down and work with pride on whatever is in front of you. You never know where you might end up. Just be aware the next worthy pursuit will probably appear in your periphery, which is why you should be careful of long-term dreams. If you focus too far in front of you you won’t see the shiny thing out the corner of your eye. Right? Good! Advice metaphor… look at me go.
-*     Two: Don’t seek happiness. Happiness is like an orgasm. If you think about it too much it goes away. (crowd laughs) Keep busy and aim to make someone else happy and you might find you get some as a side effect. We didn’t evolve to be constantly content. Contented Homo erectus got eaten before passing on their genes.
-*     Three: Remember it’s all luck. You are lucky to be here. You are incalculably lucky to be born and incredibly lucky to be brought up by a nice family who encouraged you to go to uni. Or if you were born into a horrible family that’s unlucky and you have my sympathy but you are still lucky. Lucky that you happen to be made of the sort of DNA that went on to make the sort of brain which when placed in a horrible child environment would make decisions that meant you ended up eventually graduated uni. Well done you for dragging yourself up by your shoelaces. But you were lucky. You didn’t create the bit of you that dragged you up. They’re not even your shoelaces.
-*     I suppose I worked hard to achieve whatever dubious achievements I’ve achieved but I didn’t make the bit of me that works hard any more than I made the bit of me that ate too many burgers instead of attending lectures when I was here at UWA. Understanding that you can’t truly take credit for your successes nor truly blame others for their failures will humble you and make you more compassionate. Empathy is intuitive. It is also something you can work on intellectually.
-*     Four: Exercise. I’m sorry you pasty, pale, smoking philosophy grads arching your eyebrows into a Cartesian curve as you watch the human movement mob winding their way through the miniature traffic cones of their existence. You are wrong and they are right. Well you’re half right. You think therefore you are but also you jog therefore you sleep therefore you’re not overwhelmed by existential angst. You can’t be can’t and you don’t want to be. Play a sport. Do yoga, pump iron, and run, whatever but take care of your body, you’re going to need it. Most of you mob are going to live to nearly 100 and even the poorest of you will achieve a level of wealth that most humans throughout history could not have dreamed of. And this long, luxurious life ahead of you is going to make you depressed. (audience laughs) But don’t despair. There is correlation between depression and exercise. Do it! Run, my beautiful intellectuals run.
-*     Five: Be hard on your opinions. A famous bon mot asserts opinions are like assholes in that everyone has one. There is great wisdom in this but I would add that opinions differ significantly from assholes in that yours should be constantly and thoroughly examined. (audience laughs) I used to do exams in here (audience laughs)… It’s revenge.
-*     We must think critically and not just about the ideas of others. Be hard on your beliefs. Take them out onto the verandah and hit them with a cricket bat. Be intellectually rigorous. Identify your biases, your prejudices, your privileges. Most of society is kept alive by a failure to acknowledge nuance. We tend to generate false dichotomies and then try to argue one point using two entirely different sets of assumptions. Like two tennis players trying to win a match by hitting beautifully executed shots from either end of separate tennis courts.
-*     By the way, while I have science and arts graduates in front of me please don’t make the mistake of thinking the arts and sciences are at odds with one another. That is a recent, stupid and damaging idea. You don’t have to be unscientific to make beautiful art, to write beautiful things. If you need proof - Twain, Douglas Adams, Vonnegut, McEwan, Sagan and Shakespeare, Dickens for a start. You don’t need to be superstitious to be a poet. You don’t need to hate GM technology to care about the beauty of the planet. You don’t have to claim a soul to promote compassion. Science is not a body of knowledge nor a belief system it’s just a term which describes human kinds’ incremental acquisition of understanding through observation. Science is awesome! The arts and sciences need to work together to improve how knowledge is communicated. The idea that many Australians including our new PM and my distant cousin Nick Minchin believe that the science of anthropogenic global warming is controversial is a powerful indicator of the extent of our failure to communicate. The fact that 30 percent of the people just bristled is further evidence still. (audience laughs) The fact that that bristling is more to do with politics than science is even more despairing.
-*     Six: Be a teacher! Please! Please! Please be a teacher. Teachers are the most admirable and important people in the world. You don’t have to do it forever but if you’re in doubt about what to do be an amazing teacher. Just for your 20s be a teacher. Be a primary school teacher. Especially if you’re a bloke. We need male primary school teachers. Even if you’re not a teacher, be a teacher. Share your ideas. Don’t take for granted your education. Rejoice in what you learn and spray it.
-*     Seven: Define yourself by what you love. I found myself doing this thing a bit recently where if someone asks me what sort of music I like I say, “Well I don’t listen to the radio because pop song lyrics annoy me,” or if someone asks me what food I like I say, “I think truffle oil is overused and slightly obnoxious.” And I see it all the time online - people whose idea of being part of a subculture is to hate Coldplay or football or feminists or the Liberal Party.
-*     We have a tendency to define ourselves in opposition to stuff. As a comedian I make my living out of it. But try to also express your passion for things you love. Be demonstrative and generous in your praise of those you admire. Send thank you cards and give standing ovations. Be pro stuff not just anti stuff.
-*     Eight: Respect people with less power than you. I have in the past made important decisions about people I work with – agents and producers - big decisions based largely on how they treat the wait staff in the restaurants we’re having the meeting in. I don’t care if you’re the most powerful cat in the room, I will judge you on how you treat the least powerful. So there!
-*     Nine: Finally, don’t rush. You don’t need to know what you’re going to do with the rest of your life. I’m not saying sit around smoking cones all day but also don’t panic! Most people I know who were sure of their career path at 20 are having mid-life crises now.
-*     I said at the beginning of this ramble, which is already three-and-a-half minutes long, life is meaningless. It was not a flippant assertion. I think it’s absurd the idea of seeking meaning in the set of circumstances that happens to exist after 13.8 billion years worth of unguided events. Leave it to humans to think the universe has a purpose for them. However I’m no nihilist. I’m not even a cynic. I am actually rather romantic and here’s my idea of romance: you will soon be dead. Life will sometimes seem long and tough and God it’s tiring. And you will sometimes be happy and sometimes sad and then you’ll be old and then you’ll be dead. There is only one sensible thing to do with this empty existence and that is fill it. Not fillet. Fill it. And in my opinion, until I change it, life is best filled by learning as much as you can about as much as you can. Taking pride in whatever you’re doing. Having compassion, sharing ideas, running, being enthusiastic and then there’s love and travel and wine and sex and art and kids and giving and mountain climbing, but you know all that stuff already. It’s an incredibly exciting thing this one meaningless life of yours. Good luck and thank you for indulging me.
-* * The Architecture of Happiness
-* What makes it so plausible to assume that hypocrisy is the vice of vices is that integrity can indeed exist under the cover of all other vices except this one." - Hannah Arendt
+* The Architecture of Happiness
+* What makes it so plausible to assume that hypocrisy is the vice of vices is that 
+  integrity can indeed exist under the cover of all other vices except this one." 
+  - Hannah Arendt
 * Не рычите на собаку
 * Шпаргалка по когнитивным искажениям
 * Фокус - Гоулман
@@ -151,8 +309,6 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
 * No tienes que temerle a la muerte si vives una existencia vacía y sin sentido en un universo lleno de sufrimiento donde absolutamente todo es efímero e intrascendente y donde de todos modos sabes que te vas a morir tarde o temprano pero no sin antes haber experimentado una imensa agonía a lo largo de una vida que fuiste obligado a vivir.
 * tsundoku
 * Ничтожество свое сознавай знаешь где? Перед Богом, пожалуй, перед умом, красотой, природой, но не перед людьми. Среди людей нужно сознавать свое достоинство.
-* A liberdade é a possibilidade do isolamento. Se te é impossível viver só, nasceste escravo.
-* Todo o homem é culpado do bem que não fez.
 * Wichtig: klare und insprieirende Ziele haben und mich ständig an sie erinnern
 * Регулярно уделять время на то, чтобы учиться новому
 * Все, что вы видите во мне - это ен мое, это ваше. Мое - это то, что я вижу в вас.
@@ -163,373 +319,198 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
 * When I say, "Hve you considered seeing a therapist?" I'm not saying "You're so messed up that only a professional can help you." What I'm saying is: "Have you considered that you're worthy of an unbiased, safe, and productive opportunity to process your experiences?"
 * Apressa-te a viver bem e pensa que cada dia é, por si só, uma vida. - Seneca
     
-    Receiving and soliciting feedback:
-    
-    know your tendencies
-    
-    disentangle the "what" form the "who"
-    
-    sort toward coaching over evaluation
-    
-    unpack (analyze) the feedback
-    
-    ask for just one thing (be specific)
-    
-    engage in small experiments to test feedback
-    
-    Elements of a model of self-control:
-    
-    intensity of desire to achieve goal
-    
-    clarity of vision
-    
-    ability to self-detach
-    
-    reponses to stimuli (neurological rewards)
-    
-    ability to modify one's own desires
-    
-    mental and emotional struggles (extenuating factors) and condition
-    
-    perceived badness of faiilure
-    
-    strength of relevant memories (of past succdess / failure) / forgetfulness
-    
-    discounting factor
-    
-    prior short-term exertion (depletion)
-    
-    efficacy - belief (in the moment) that efforts will bear fruit
-    
-    rationalizations of deviation, excuses
-    
-    tolerance for cognitive dissonance (between desired and current states)
-    
-    internalization of moral obligation ("I really should" vs. "my self-image depends on this")
-    
-    → degree of free will?
-    
-    enlightened admission of ignorance: realize how little I know about strangers and how much they could teach me, how much good they have achieved and how much they may yet be capable of
-    
-    universal need for attention
-    
-    power of remebrance and danger of forgetfulness
-    
-    positive and negative feedback cycles
-    
-    short-term pain + long-term satisfaction vs. short-term gratification + long-term regret: people can choose the kind of gratification they desire and thus move toward the good or away from it → it is possible to change one's desires through the active and incremental exercise of free will
-    
-    "And now that you don't have to be perfect, you can be good."
-    
-    hiraeth - (n.) a homesickness for a home to which you cannot return, a home which maybe never was; the nostalgia, the yearning, the grief for the lost places of your past
-    
-    Goethe-Zitat über Hemdknöpfe
-    
-    Vision, die stärker ist, als alles Andere (Gelüste und Drang)
-    
-    Perfektionismus als Feind des Guten → "Und jetzt, wo du nicht perfekt sein musst, kannst du gut sein."
-    
-    3 Aufgaben: wissen, wollen, tun
-    
-    BYU questions: Habe ich völlige Umkehr von meinenSünden durchgemacht? Was ist mir los? Warum können andere partyen, sich schlecht ernähren? Warum sind Leistungen hier so wichtig? Wie viel werden sie im Nachher ausmachen? Wodurch? Gedächtnis, Erfahrung, Verhältnis zu verschiedenen Sachen und Ideen, oder wie?
-    
-    Welche Grundannahmen schädigen mich zurzeit?
-    
-    Warum ist mir das Verständnis so wichtig?
-    
-    Welche Einschränkungen habe ich geistig (oder sonst) auf mich angelegt?
-    
-    Darf ich überhaupt nicht an die Vergangenheit denken? Wie wäre das?
-    
-    Wie viele Drogenarten gibt es in der Tat (Gedanken, Besessenheit, Ablenkungen, Beschäftigungen usw.)
-    
-    Warum bin ich so schockiert und gestört worden, als Sandra mir von der Vergangenheit erzählt hat?
-    
-    Каждый день становится своим будущим.
-    
-    Нельзя в точности описать будущие шаги. Есть столько, что лежит вне моей контроли; есть мали вещей, которые зависят полностью лт меня.
-    
-    Вера изменяет восприятие реальности.
-    
-    Разницы во мнении нормальны. Надо глубоко понять, что есть многие факторы, влияющие на мое восприятие.
-    
-    Wie vermischt sich Stolz mit unsicherheit?
-    
-    Warum macht man beim Rauschtrinken, Rauchen usw. mit, wenn man schon weiß, was das dem Organismus antut? Sieht man nichts falsches daran? Was halten andere Religionen davon? Was traibt einen dazu?
-    
-    Warum verwendet man Schimpfwörte? Sehen die meisten nichts falsches daran?
-    
-    Wie kommt es dazu, dass man den eigenen Körper geringschätzt?
-    
-    Wenn man als Partyer aufwächst, wie wird man oft als Erwachsener?
-    
-    Wie ist die richtige Beziehung zur Vergangenheit?
-    
-    Wie ist es möglich, nicht getäuscht zu werden und der Versuchung nicht nachzugeben? Wie ist es möglich, Sünden zu verabscheuen und als widerlich zu empfinden, aber Menschen, die Sünde begehen, zu verstehen? Wenn man sich dazu zwingt, positiv und optimistisch zu denken, wie lange bleibt dies gefälscht, und wird das mit der Zeit zur Gewohnheit?
-    
-    3 règles de base: Ne réponds jamais quand tu es énervé. Ne promets jamais quand tu es heureux. Ne prends aucune décision quand tu es triste.
-    
-    Idk who needs to hear this, but you're not overwhelmed. You are lazy and unorganized. Wake up earlier. Get an agenda book. Create a routine. Create boundaries (say no). Stick to your schedule. Write down AND adhere to your deadlines. You are standing in your own way.
-    
-    O homem nasceu para viver e não para se preparar para viver
-    
-    CompLing2019!
-    
-    Чего ты по-настоящему хочешь?
-    
-    Насколько надежна моя память?
-    
-    Обманывает мое восприятие времени?
-    
-    - Элементы идеального образа жизни:
-        - ясные цели
-        - ясный, простой план
-        - постоянное желание достичь цели
-        - доведение отвлечений до минимума
-        - убеждение во важности правильных поступков; чувство святого
-        - > здоровый перфекционизм: легкий, умеренный страх перед слабостью и перед недостижением целей
-        - > упрощение жизни и средоточий: 1 вещь одновременно
-        - > ощущение, что я именно сейчас нахожусь в важном моменте: "теперь или никогда" -> противоядие от откладывания
-        - самосознание как особенный: требование многого от себя
-        - системная ответственность: регулярный отчет в использовании времени
-        - великие стимулы: автономность, овладение, смысл; также увлечение, любовь, страсть, страх
-        - определенный ригидность в представлениях о том, как мне быть; гибкость в том, что мне делать
-        - жедание проявить себя
-        - ясные ценности
-        - вдохновение от необычайных людей
-        - делать, просто делать, верить в себя и поправлять ошибки и недостатки без чрезмерных негативных чувств
-* Sort: Links
-        * [How to enter ‘flow state’ on command | Steven Kotler for Big Think](https://www.youtube.com/watch?v=znwUCNrjpD4)
-        * https://caps.byu.edu/biofeedback
-        * http://thevirtualinstructor.com/
-        * http://econphd.econwiki.com/guide.htm
-        * http://www.calm.com/
-        * http://lifehacker.com/tag/productivity
-        * https://www.mindtools.com/
-        * http://www.quickanddirtytips.com/
-        * https://www.drawspace.com/
-        * http://www.animatedknots.com/
-        * [research process - What do you do when you're stuck at a problem? - Academia Stack Exchange](https://academia.stackexchange.com/questions/193219/what-do-you-do-when-youre-stuck-at-a-problem)
-        * [You Can Make a Netflix Style Doco About Literally Anything](https://www.youtube.com/watch?v=9BUrNe3Vhtk)
-        * [Francisco Schulz – Medium](https://fschulz.medium.com/)
-        * https://www.sacred-texts.com/
-        * https://switowski.com/blog/how-to-make-a-great-conference-talk/
-        * [ACCOUNTANT EXPLAINS: Money Habits Keeping You Poor](https://www.youtube.com/watch?v=Q0uXGQu55GM)
-        * [Thinking gay](https://youtube.com/shorts/lpXqBLBxG18?feature=share)
-        * [Eminem - "Mom's Spaghetti" (Music Video) - YouTube](https://www.youtube.com/watch?v=SW-BU6keEUw)
-        * [Die klügsten Zitate von Konfuzius, die du besser so früh wie möglich kennen soll - YouTube](https://www.youtube.com/watch?v=Gih3noeJtEk)
-        * [Zitate - YouTube](https://www.youtube.com/@zitate_offiziell_)
-        * [Dashboard](https://univbyapp.alumnialliances.com/dashboard)
-        * [Lange Nacht der Hausarbeiten. Universität Heidelberg. 2. März 2023 - YouTube](https://www.youtube.com/watch?v=Uhvj_IHdm2g)
-        * https://www.behavioraleconomics.com/make-or-break-the-behaviors-within-the-innovation-process/
-        * https://www.behavioraleconomics.com/leveraging-behavioral-insights-a-guide-for-practitioners/
-        * [50 Cooking Tips With Gordon Ramsay | Part One](https://youtu.be/BHcyuzXRqLs)
-        * https://www.linkedin.com/in/ilya-novikov-579b15231/
-        * https://dailystoic.com/12-rules-for-life/
-        * [Rethinking Leadership • Andrea Provaglio • GOTO 2017 - YouTube](https://www.youtube.com/watch?v=A04Pu5LlzHw)
-    
-* Sort: Books
-    - Unsorted
-        
-        * [!!! Barbara Oakley !!!](https://b-ok.cc/g/Barbara%20Oakley)
-        
-        * [[BOOMINFO.RU] Андрей Курпатов_Скажи депрессии НЕТ!.pdf](https://vk.com/doc511167847_517647673?hash=f7ef2ea33e0f5537e9&dl=9a7d192249f08610db)
-        
-        10% Happier
-        
-        * [12 недель в году](https://vk.com/wall-154516093_18533)
-        
-        A Buddhist Bible
-        
-        * [Anders kijken](http://library.lol/main/F03688ACD38EAE8354D8E5454880C63A)
-        
-        Awareness (Nunn)
-        
-        * [Bachoux - Tout ce qui compte en cet instant.epub](https://vk.com/doc277688559_437233683?hash=11be1039401d223830&dl=d6bca7e3876ca41d96)
-        
-        * [bank_3_0_Smart_Reading.pdf](https://vk.com/doc5961481_459269207?hash=83a5d5e2010fb2d130&dl=5d19338d86d1d15b60)
-        
-        * [Best 5 stoic texts](https://ericsiggyscott.wordpress.com/2018/09/21/beyond-the-big-three-the-best-5-stoics-text-not-written-by-marcus-aurelius-seneca-or-epictetus/)
-        
-        * [Brainstorm (O'Sullivan)](https://vk.com/doc44301783_454111701?hash=99c86166b4948b1317&dl=7c39ee30a0f7796984)
-        
-        Buddhismus (Schumann)
-        
-        * [Buddhismus für die moderne Welt](https://vk.com/doc44301783_459166740?hash=886764324b13cc57e7&dl=a8fff620a47db16961)
-        
-        Can't Hurt Me
-        
-        * [Conferencing and Presentation English for Young Academics_Michael Guest_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-981-13-2475-8)
-        
-        Das best Lebensmotto der Welt
-        
-        Das Buch der Tugenden
-        
-        Declutter Your Mind
-        
-        Deep Work: Rules for Focused Success in a Distracted World
-        
-        Der Buddhismus
-        
-        Die Kunst zu leben
-        
-        * [Die Reden Gotamo Buddhos](https://vk.com/doc4605748_451600271?hash=b0495d50d07b285994&dl=850dd7c2e92e1de17d)
-        
-        * [Drives of a Lifetime (NG)](https://vk.com/doc144925286_510165085?hash=675a9966ab9c7fa8b8&dl=976d84ba718fac7831)
-        
-        Easy Way to Stop Smoking
-        
-        * [El Camino del Zen](https://b-ok.cc/book/941607/f2e3cf)
-        
-        Elon Musk
-        
-        * [Essentials of Food Science_Vickie A. Vaclavik, Elizabeth W. Christian_4th ed. 2014](http://link.springer.com/openurl?genre=book&isbn=978-1-4614-9138-5)
-        
-        * [Future_Smart_Reading.pdf](https://vk.com/doc5961481_459269246?hash=f956a4e9cae8093082&dl=b5396b850135e3f890)
-        
-        * [G_Altshuller_I_Vertkin_Kak_stat_geniem.doc](https://vk.com/doc30601958_455571835?hash=9a085ee2dad3bd83b3&dl=04e645159602df4233)
-        
-        * [Get Smart!: How to Think and Act Like the Most Successful and Highest-Paid People in Every Field](https://b-ok.cc/book/3515242/5374fc)
-        
-        Girl, Stop Apologizing
-        
-        Girl, Wash Your Face
-        
-        * [Good_To_Great_Smart_Reading.pdf](https://vk.com/doc5961481_459269249?hash=ac5443c88679735c71&dl=4c4b83ea38d7e926e0)
-        
-        How to Stop Worrying and Start Living
-                * https://www.blinkist.com/magazine/posts/5-bucher-die-dein-leben-verandern-werden
-        
-        * [Kak_stat_geniem_-_zhiznennaya_strategia_tvorchesk(3).pdf](https://vk.com/doc30601958_455571841?hash=47d0daf2985cd2bffd&dl=8ffa425771c8a62312)
-        
-        * [Kak_stat_geniem.pdf](https://vk.com/doc30601958_455571831?hash=f17b062d47c154f5d5&dl=12a9c24e6297262ffd)
-        
-        * [Le Bricolage pour les Nuls.pdf](https://vk.com/doc162499119_454658513?hash=5d540771f30992bfff&dl=efa57c99e94fa63734)
-        
-        * [Lean Time Management: Die ultimative Zeitrettung für Gipfelstürmer, Dauerbrenner und andere Ruhelose](https://b-ok.cc/book/961666/abb15d)
-        
-        Lernen (Spitzer)
-        
-        * [Log Off (Snow)](https://vk.com/doc271638305_494733408?hash=ba5d2c233aed0e87e7&dl=e6bfd362c6e5253b46)
-        
-        * [Mindware](https://b-ok.cc/s/Mindware/?e=1)
-        
-        * [motivating books](https://www.reddit.com/r/booksuggestions/comments/f18ii6/book_that_will_help_me_become_disciplined_and/)
-        
-        Popular Mecanics - How to Fix Anything Essential
-        
-        * [Practical Wisdom. The Right Way to Do the Right Thing](https://vk.com/doc4605748_508137462?hash=9957c12269b240b744&dl=193193e21b41c38d6f)
-        
-        * [Range: Why Generalists Triumph in a Specialized World](https://vk.com/doc4605748_450488821?hash=0f966e180ea2092e5b&dl=f153a717841293a11d)
-        
-        Rich Dad, Poor Dad
-        
-        * [Sensory Evaluation of Food_Harry T. Lawless, Hildegarde Heymann_2nd ed. 2010](http://link.springer.com/openurl?genre=book&isbn=978-1-4419-6488-5)
-        
-        * [T_V_Akhutina_N_M_Pylaeva_Preodolenie_trudnostey_uchenia.pdf](https://vk.com/doc30601958_511692135?hash=0f39fe19f8df826cb7&dl=090ee7227efcf49cab)
-        
-        * [Teachings of the Buddha](https://vk.com/doc4605748_452021886?hash=114dd2e527ad1ee2d8&dl=fc9f4dbcedbc6585db)
-        
-        The 5 Love Languages
-        
-        The 7 Habits of Highly Effective People
-        
-        * [The A-Z of the PhD Trajectory_Eva O. L. Lantsoght_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-77425-1)
-        
-        * [The Buddha (Strong)](https://vk.com/doc44301783_459166744?hash=8cd9a970631f78fa6e&dl=127e6be4012ed0bb70)
-        
-        * [The Dhammapada](https://vk.com/doc525831385_508959191?hash=1c83edcb58967d1c2b&dl=a2bec24111a6545581)
-        
-        * [The Fruitful Darkness A Journey Through Buddhist Practice and Tribal Wisdom.epub](https://vk.com/doc348852382_462338912?hash=712d4cf0f37b5cbcb7&dl=fafb1f4ab4605991a3)
-        
-        The Well-Tuned Brain
-        
-        Think and Grow Rich
-        
-        * [Why Buddhism Is True](https://vk.com/doc3125830_512358127?hash=e01f62c4922963070a&dl=b6787a8b4ed75eaf07)
-        
-        You Are a Badass
-        
-        You Are a Badass ...
-        
-        You Are a Badass at Making Money
-        
-        Ирина Якутенко "Воля и самоконтроль. Как гены и мозг мешают нам бороться с соблазнами"
-        
-        * [Марк Мэнсон "Тонкое искусство пофигизма](https://vk.com/doc162499119_454659918?hash=28ae933e7bb7ccee34&dl=0120042f6fd61f7e3a)
-        
-        * [РАЗВИТИЕ ПАМЯТИ .epub](https://vk.com/doc464862457_459636433?hash=fa0aaacce4c5211839&dl=27a189a96ff5a0431b)
-        
-        * [скоростное чтение](https://vk.com/wall-37160097_96910)
-        
-        * [Что почитать для саморазвития?](https://vk.com/wall-124609314_80202)
-        
-        * [ЭССЕНЦИАЛИЗМ. ПУТЬ К ПРОСТОТЕ.epub](https://vk.com/doc464862457_459636689?hash=c505f839022e75ab7a&dl=8918e69cab8205e485)
-        
-        * [The 4-hour Workweek](https://vk.com/doc6576953_409905978?hash=902ed068dacb69ac19&dl=46bf5e1bfc20aaf2c1)
-        
-        * [Algs to Live By](http://libgen.is/search.php?&req=+Tom+Griffiths&phrase=1&view=simple&column=author&sort=year&sortmode=DESC)
-        
-    - Sexuality
-        
-        Guter Sex trotz Liebe von Ulrich Clement
-        
-        * [Shaping Sexual Knowledge: A Cultural History of Sex Education in Twentieth Century Europe | Lutz Sauerteig, Roger Davidson | download](https://b-ok.cc/book/699954/f1d742)                - [**Sexuality: A Very Short Introduction | Veronique Mottier | download](https://b-ok.cc/book/551048/f41412)
-        
-        * [Sociologie de la sexualité](http://library.lol/main/21613DC991802D6BEB87435D0447A9FB)
-        
-        * [La sexualité à l'époque moderne](http://library.lol/main/0B28D2BF05654CC1802B7944535ADD5E)
-        
-        48 Laws of Power
-        
-        The 50th Law
-        
-        The Art of Seduction
-        
-        * [Sex, Love, and Mental Illness: A Couple's Guide to Staying Connected](http://library.lol/main/36466910DBF1D0C7523FE4BD39A19C06)
-        
-        * [Functional and Dysfunctional Sexual Behavior: A Synthesis of Neuroscience and Comparative Psychology](http://library.lol/main/4B5E19FE421F6AE2C7B458905FDDAF49)
-        
-        * [Evolutionary Perspectives on Human Sexual Psychology and Behavior](http://library.lol/main/2B2DFD3C974D2116DAE2CDF80C793AD4)
-        
-        * [Encyclopedia of Sex and Sexuality: Understanding Biology, Psychology, and Culture](http://library.lol/main/96697799E192296D8BDEA9734FCB85AC)
-        
-        * [Sex and Belonging: On the Psychology of Sexual Relationships](http://library.lol/main/A59F2367FABB304388E3004B5F2B3CA0)
-        
-        * [The Psychology of Sex](http://library.lol/main/EB5DEBA5B1459895278F8304B2F7F5FB)
-        
-        * [HOOKING UP: The Psychology of Sex and Dating](http://library.lol/main/7BC6FA5F53934067FFCA08CCD16764D7)
-        
-        * [Sex: Every Man's Guide to Sexually Satisfy Her: Sex Positions, Sex Guide& Sex Help (BONUS, Female Psychology, Sex Tips, Attract Women, Sexin Marriage, Couples Therapy)](http://library.lol/main/51D384D38DC59BC8F787E57352A565D1)
-                * https://web.stanford.edu/~nanbhas/blog/understanding-cognitive-distortions/
-        
-        * [Character Strengths and Virtues: A Handbook and Classification](http://library.lol/main/F91E0CBE958A332FA01225E5FB910BBC)
-        
-        * [Pequeno Tratado das Grandes Virtudes](http://library.lol/main/D2879958172F45A731234BBB4BEC2C02)
-        
-    - Habits
-        
-        The Power of Habit - Duhigg
-        
-        * [Piccole abitudini per grandi cambiamenti. Trasforma la tua vita un piccolo passo per volta](http://library.lol/main/1B77A4CD44E67B35157DAB68BDC320DB)
-        
-        * [Hábitos Atômicos](http://library.lol/main/632231E771DE7C2C09EE6B9B4BA648DA)
-        
-        * [Hábitos atómicos](http://library.lol/main/09C503A99D52A15F1E2E2FA085F3FF23)
-        
-        Как быть продуктивным.jpg
-        
+* https://www.inc.com/jeff-haden/neuroscience-says-your-brain-craves-new-for-dopamine-rush-but-research-shows-you-can-replace-that-sensation-much-more-productively.html 
+
+Intrinsic thinking vs positional thinking: example: learning for learning’s sake; doing things for their own enjoyment, rather than merely to be better than others. “Whate’er thou art, act well thy part.” Also relates closely to Stoicism. Important for coexisting with more intelligent beings/entities.
+
+Two questions to ask yourself after every reading session: What do I want to remember forever? What can I do now in 5 minutes to apply what I learned?
+
+* Receiving and soliciting feedback:
+* 
+* know your tendencies
+* 
+* disentangle the "what" form the "who"
+* 
+* sort toward coaching over evaluation
+* 
+* unpack (analyze) the feedback
+* 
+* ask for just one thing (be specific)
+* 
+* engage in small experiments to test feedback
+* 
+* Elements of a model of self-control:
+* 
+* intensity of desire to achieve goal
+* 
+* clarity of vision
+* 
+* ability to self-detach
+* 
+* reponses to stimuli (neurological rewards)
+* 
+* ability to modify one's own desires
+* 
+* mental and emotional struggles (extenuating factors) and condition
+* 
+* perceived badness of faiilure
+* 
+* strength of relevant memories (of past succdess / failure) / forgetfulness
+* 
+* discounting factor
+* 
+* prior short-term exertion (depletion)
+* 
+* efficacy - belief (in the moment) that efforts will bear fruit
+* 
+* rationalizations of deviation, excuses
+* 
+* tolerance for cognitive dissonance (between desired and current states)
+* 
+* internalization of moral obligation ("I really should" vs. "my self-image depends on this")
+* 
+* → degree of free will?
+* 
+* enlightened admission of ignorance: realize how little I know about strangers and how much they could teach me, how much good they have achieved and how much they may yet be capable of
+* 
+* universal need for attention
+* 
+* power of remebrance and danger of forgetfulness
+* 
+* positive and negative feedback cycles
+* 
+* short-term pain + long-term satisfaction vs. short-term gratification + long-term regret: people can choose the kind of gratification they desire and thus move toward the good or away from it → it is possible to change one's desires through the active and incremental exercise of free will
+* 
+* "And now that you don't have to be perfect, you can be good."
+* 
+* hiraeth - (n.) a homesickness for a home to which you cannot return, a home which maybe never was; the nostalgia, the yearning, the grief for the lost places of your past
+* 
+* Goethe-Zitat über Hemdknöpfe
+* 
+* Vision, die stärker ist, als alles Andere (Gelüste und Drang)
+* 
+* Perfektionismus als Feind des Guten → "Und jetzt, wo du nicht perfekt sein musst, kannst du gut sein."
+* 
+* 3 Aufgaben: wissen, wollen, tun
+* 
+* BYU questions: Habe ich völlige Umkehr von meinenSünden durchgemacht? Was ist mir los? Warum können andere partyen, sich schlecht ernähren? Warum sind Leistungen hier so wichtig? Wie viel werden sie im Nachher ausmachen? Wodurch? Gedächtnis, Erfahrung, Verhältnis zu verschiedenen Sachen und Ideen, oder wie?
+* 
+* Welche Grundannahmen schädigen mich zurzeit?
+* 
+* Warum ist mir das Verständnis so wichtig?
+* 
+* Welche Einschränkungen habe ich geistig (oder sonst) auf mich angelegt?
+* 
+* Darf ich überhaupt nicht an die Vergangenheit denken? Wie wäre das?
+* 
+* Wie viele Drogenarten gibt es in der Tat (Gedanken, Besessenheit, Ablenkungen, Beschäftigungen usw.)
+* 
+* Warum bin ich so schockiert und gestört worden, als Sandra mir von der Vergangenheit erzählt hat?
+* 
+* Каждый день становится своим будущим.
+* 
+* Нельзя в точности описать будущие шаги. Есть столько, что лежит вне моей контроли; есть мали вещей, которые зависят полностью лт меня.
+* 
+* Вера изменяет восприятие реальности.
+* 
+* Разницы во мнении нормальны. Надо глубоко понять, что есть многие факторы, влияющие на мое восприятие.
+* 
+* Wie vermischt sich Stolz mit unsicherheit?
+* 
+* Warum macht man beim Rauschtrinken, Rauchen usw. mit, wenn man schon weiß, was das dem Organismus antut? Sieht man nichts falsches daran? Was halten andere Religionen davon? Was traibt einen dazu?
+* 
+* Warum verwendet man Schimpfwörte? Sehen die meisten nichts falsches daran?
+* 
+* Wie kommt es dazu, dass man den eigenen Körper geringschätzt?
+* 
+* Wenn man als Partyer aufwächst, wie wird man oft als Erwachsener?
+* 
+* Wie ist die richtige Beziehung zur Vergangenheit?
+* 
+* Wie ist es möglich, nicht getäuscht zu werden und der Versuchung nicht nachzugeben? Wie ist es möglich, Sünden zu verabscheuen und als widerlich zu empfinden, aber Menschen, die Sünde begehen, zu verstehen? Wenn man sich dazu zwingt, positiv und optimistisch zu denken, wie lange bleibt dies gefälscht, und wird das mit der Zeit zur Gewohnheit?
+* 
+* 3 règles de base: Ne réponds jamais quand tu es énervé. Ne promets jamais quand tu es heureux. Ne prends aucune décision quand tu es triste.
+* 
+* Idk who needs to hear this, but you're not overwhelmed. You are lazy and unorganized. Wake up earlier. Get an agenda book. Create a routine. Create boundaries (say no). Stick to your schedule. Write down AND adhere to your deadlines. You are standing in your own way.
+* 
+* O homem nasceu para viver e não para se preparar para viver
+* 
+* CompLing2019!
+* 
+* Чего ты по-настоящему хочешь?
+* 
+* Насколько надежна моя память?
+* 
+* Обманывает мое восприятие времени?
+* 
+* Элементы идеального образа жизни:
+    - ясные цели
+    - ясный, простой план
+    - постоянное желание достичь цели
+    - доведение отвлечений до минимума
+    - убеждение во важности правильных поступков; чувство святого
+    - > здоровый перфекционизм: легкий, умеренный страх перед слабостью и перед недостижением целей
+    - > упрощение жизни и средоточий: 1 вещь одновременно
+    - > ощущение, что я именно сейчас нахожусь в важном моменте: "теперь или никогда" -> противоядие от откладывания
+    - самосознание как особенный: требование многого от себя
+    - системная ответственность: регулярный отчет в использовании времени
+    - великие стимулы: автономность, овладение, смысл; также увлечение, любовь, страсть, страх
+    - определенный ригидность в представлениях о том, как мне быть; гибкость в том, что мне делать
+    - жедание проявить себя
+    - ясные ценности
+    - вдохновение от необычайных людей
+    - делать, просто делать, верить в себя и поправлять ошибки и недостатки без чрезмерных негативных чувств
 
 
-* Reading List - General
-* Reading List - Mental Fortitude
+
+
+* ## Other
+* >> 3-3-3 Method
+* https://lifehacker.com/* 
+* Attributes
+* 
+
+## Sort: Links
+* [How to enter ‘flow state’ on command | Steven Kotler for Big Think](https://www.youtube.com/watch?v=znwUCNrjpD4)
+* https://caps.byu.edu/biofeedback
+* http://thevirtualinstructor.com/
+* http://econphd.econwiki.com/guide.htm
+* http://www.calm.com/
+* http://lifehacker.com/tag/productivity
+* https://www.mindtools.com/
+* http://www.quickanddirtytips.com/
+* https://www.drawspace.com/
+* http://www.animatedknots.com/
+* [research process - What do you do when you're stuck at a problem? - Academia Stack Exchange](https://academia.stackexchange.com/questions/193219/what-do-you-do-when-youre-stuck-at-a-problem)
+* [You Can Make a Netflix Style Doco About Literally Anything](https://www.youtube.com/watch?v=9BUrNe3Vhtk)
+* [Francisco Schulz – Medium](https://fschulz.medium.com/)
+* https://www.sacred-texts.com/
+* https://switowski.com/blog/how-to-make-a-great-conference-talk/
+* [ACCOUNTANT EXPLAINS: Money Habits Keeping You Poor](https://www.youtube.com/watch?v=Q0uXGQu55GM)
+* [Thinking gay](https://youtube.com/shorts/lpXqBLBxG18?feature=share)
+* [Eminem - "Mom's Spaghetti" (Music Video) - YouTube](https://www.youtube.com/watch?v=SW-BU6keEUw)
+* [Die klügsten Zitate von Konfuzius, die du besser so früh wie möglich kennen soll - YouTube](https://www.youtube.com/watch?v=Gih3noeJtEk)
+* [Zitate - YouTube](https://www.youtube.com/@zitate_offiziell_)
+* [Dashboard](https://univbyapp.alumnialliances.com/dashboard)
+* [Lange Nacht der Hausarbeiten. Universität Heidelberg. 2. März 2023 - YouTube](https://www.youtube.com/watch?v=Uhvj_IHdm2g)
+* https://www.behavioraleconomics.com/make-or-break-the-behaviors-within-the-innovation-process/
+* https://www.behavioraleconomics.com/leveraging-behavioral-insights-a-guide-for-practitioners/
+* [50 Cooking Tips With Gordon Ramsay | Part One](https://youtu.be/BHcyuzXRqLs)
+* https://www.linkedin.com/in/ilya-novikov-579b15231/
+* https://dailystoic.com/12-rules-for-life/
+* [Rethinking Leadership • Andrea Provaglio • GOTO 2017 - YouTube](https://www.youtube.com/watch?v=A04Pu5LlzHw)
+    
+
+## Reading List 
+### General
+### Mental Fortitude
         * https://constantrenewal.com/stoic-practices
         * https://www.wikihow.com/Detox-Your-Mind-from-Negativity 
     
-* Reading List - Correct Thinking
+### Correct Thinking
         * https://en.wikipedia.org/wiki/List_of_cognitive_biases
     
-* Reading List - Creativity
+### Creativity
         * http://www.researchgate.net/publication/232558153_Artistic_Scientists_and_Scientific_Artists_The_Link_Between_Polymathy_and_Creativity
         * [Kreatives Schreiben: 10 Dos und 5 Don’ts für angehende Autoren & Co. » lernen.net](https://www.lernen.net/artikel/kreatives-schreiben-fuer-autoren-2313/)
         * [Get Sparks of Genius: The Thirteen Thinking Tools of the World's Most Creative People - YouTube](https://www.youtube.com/watch?v=lYSF_t2M_tk)
@@ -547,7 +528,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
         * [Buddhism](https://vk.com/wall-6827569_23778)
         * [Site to improve typing speed](https://www.reddit.com/r/languagelearning/comments/bcahl1/great_site_i_found_to_improve_typing_speed_in/?utm_source=share&utm_medium=ios_app)
     
-* Reading List - Misc
+### Reading List - Misc
         * https://editalconcursosbrasil.com.br/noticias/2022/03/12-padroes-claros-que-pessoas-inteligentes-sempre-apresentam/
     
     how to change the world
@@ -728,7 +709,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
     . Если в списке нет вашего города, то стоит поискать сообщества в Фейсбуке, Вконтакте или просто в гугле (а потом добавьте найденное в наш список! ;-)
         * https://www.nhs.uk/common-health-questions/sexual-health/can-premature-ejaculation-be-controlled/
     
-* Reading List - Sex
+### Reading List - Sex
     - Porn Culture
         
         * [The Ethics and Politics of Pornography | SpringerLink](https://link.springer.com/book/10.1057%2F9780230371125)
@@ -839,7 +820,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
         * http://www.scarleteen.com/article/bodies/20_questions_about_virginity_scarleteen_interviews_hanne_blank
         * [Carnal Knowledge - Baxter's Concise Encyclopedia of Modern Sex | John Baxter | download](https://b-ok.cc/book/609614/2af8a3?dsource=recommend)
     
-* Reading List- Parenting
+### Reading List- Parenting
         * [Are you raising your child in a religious authoritarian culture? — Religious Child Maltreatment](http://religiouschildmaltreatment.com/2011/12/are-you-raising-your-child-in-a-religious-authoritarian-culture/)
         * http://kp.ua/life/325854-opiat-domashka
         * http://parenting.blogs.nytimes.com/
@@ -855,7 +836,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
         * https://www.contioutra.com/o-pai-que-cuida-do-filho-nao-ajuda-apenas-exerce-a-paternidade/?fbclid=IwAR3Y42vQHjAk5pZ2At_84yVblcdNHYmd5WklPm3LsFufMFNiGWEUsfX0ghM
         * [Психологи сравнили эффективность наказания и поощрения в осуществлении образовательных программ — Сноб](https://snob.ru/entry/175975?utm_source=vk&utm_medium=social&utm_campaign=snob&utm_content=column)
     
-* Reading List - Mental Health
+### Reading List - Mental Health
         * [4 modi per alleviare le emozioni dolorose – La Mente è Meravigliosa](https://lamenteemeravigliosa.it/4-modi-alleviare-le-emozioni-dolorose/)
         * [Are You Torturing Yourself With Your Thoughts? - The Best Brain Possible](https://www.thebestbrainpossible.com/are-you-torturing-yourself-with-your-thoughts/)
         * [Ausgepowert und am Ende: Burnout | ethos Magazin](http://ethos.ch/blog/ausgepowert-und-am-ende-burnout)
@@ -872,7 +853,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
         * http://screening.mentalhealthscreening.org/brigham-young-university-provo/screening/9764/results
         * [Confinement : un exercice simple de respiration pour réguler ses émotions](https://theconversation.com/confinement-un-exercice-simple-de-respiration-pour-reguler-ses-emotions-133796?utm_medium=email&utm_campaign=La%20lettre%20du%20week-end%20de%20The%20Conversation%20France%20-%201577115094&utm_content=La%20lettre%20du%20week-end%20de%20The%20Conversation%20France%20-%201577115094+CID_3e2a64ed5275ab206c530fae6c43bb35&utm_source=campaign_monitor_fr&utm_term=Confinement%20%20un%20exercice%20simple%20de%20respiration%20pour%20rguler%20ses%20motions)
     
-* Reading List - Motivation
+### Reading List - Motivation
     - [Продуктивность связана не с управлением временем, а с управлением вниманием](https://vk.com/@etorabotaet-produktivnost-svyazana-ne-s-upravleniem-vremenem-a-s-upravle)**
     
     A Japanese Technique to Overcome Lazinessde Bright Side
@@ -899,7 +880,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
         
         The first is a superiority complex. A superiority complex means that a person has a “deep-seated sense of exceptionality.” This breeds confidence and nerve. The second element is a sense of insecurity or an inferiority complex. People must feel like they aren’t quite good enough, and that they have something to prove. This is opposing the superiority complex, and that’s the way it should be, Chua says. The third element of the triple package is impulse control; a person must have self-discipline. When explaining impulse control, Chua mentions the Finnish word “sisu”; a compound of bravado and bravery, ferocity and tenacity, of the ability to keep fighting after most people would have quit, and to fight with the will to win.
         
-* Reading List - Wisdom
+### Reading List - Wisdom
     
     Mahabharata 2:55
         * [Méditation Stoïcienne - Exercice du matin, Donald Robertson, lu par J. Ravenet - YouTube](https://www.youtube.com/watch?v=-D98MPd6Ccg)
@@ -972,7 +953,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
         
         Upanishads
         
-* Reading List - Philanthropy
+### Reading List - Philanthropy
         * [Doing-Good-Better-Chapter-9.pdf](https://80000hours.org/wp-content/uploads/2015/07/Doing-Good-Better-Chapter-9.pdf)
         * http://www.ospreyfdn.org/
     
@@ -983,7 +964,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
         * [effective altruism](https://libgen.is/search.php?req=effective+altruism&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
         * [Singer PT](https://www.fronteiras.com/entrevistas/peter-singer-o-filosofo-mais-perigoso-do-mundo)
     
-* Reading List - Finance
+### Reading List - Finance
         * https://www.retailmenot.com/
         * http://www.wisebread.com/
         * https://www.groupon.com/
@@ -996,7 +977,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
         * [15 Things Poor People Do That The Rich Don’t - YouTube](https://www.youtube.com/watch?v=nllZrOoxpzc)
         * [Everything You Need to Know about Finance](https://www.youtube.com/watch?v=WEDIj9JBTC8)
     
-* Reading List - Learning
+### Reading List - Learning
     
     *[Come un podcast può cambiarti (in meglio) la vita - Educazione Globale](http://www.educazioneglobale.com/2016/10/come-un-podcast-puo-cambiarti-in-meglio-la-vita/)**
         * [10 Smart Things I&#39;ve Learned from People Who Never Went to College](https://www.forbes.com/sites/daviddisalvo/2012/08/02/ten-smart-things-ive-learned-from-people-who-never-went-to-college/#52f1e562446e)
@@ -1081,7 +1062,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
         * [Hello World: Want to be a developer? Learn how to learn - Stack Overflow Blog](https://stackoverflow.blog/2020/01/11/hello-world-want-to-be-a-developer-learn-how-to-learn/?cb=1)
         * [How to Absorb Textbooks Like a Sponge](https://youtu.be/nqYmmZKY4sA)
     
-* Reading List - Communication
+### Reading List - Communication
     
     Book: [How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships](https://b-ok.cc/book/1171183/29a074)
     
@@ -1096,7 +1077,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
         * [Шесть приемов, которые превратят бессмысленный спор в увлекательную дискуссию](https://vk.com/@newochem-argument-tactics)
                 * http://www.atelier-mediation-critique.com/
         
-* Reading List - Relationships
+### Reading List - Relationships
     - [This Is How To Have An Amazing Relationship: 7 Secrets From Research](https://bakadesuyo.com/2017/06/amazing-relationship/)
         - Accept your partner “as is”: You can return it to the store but trying to repair it yourself voids the warranty.
         - Express appreciation frequently: You’re with them for a reason. Tell them the reason. Often.
@@ -1186,7 +1167,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
         - imbalance in responsibilities - Sandra doing everything with bureaucracy, taxes, etc., leaving her feeling overworked and like the only adult in the relationship, and Isaac feeling out-of-the-loop, incompetent, and infantilized
         - hurt and resentment - is it even possible to get rid of the baggage we carry, or is it too far gone and too toxic, and we both need a fresh start with someone else?
         - Leni - she is a major factor in this, and one that, in all honesty, has made it more difficult to pull the plug completely when we might otherwise have done so. A toxic relationship would be worse for her than a divorce, and a divorce later on would be more traumatic for her than a divorce now
-* Reading List - Life Hacks
+### Reading List - Life Hacks
     - Focus Hacks
         
         Eat Frogs First
@@ -1376,7 +1357,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
     
     Meditate!
     
-* Reading List - Gardening
+### Reading List - Gardening
         * http://www.thegardenhelper.com/vegetables.html
         * http://www.gardeningblog.net/
         * http://gardenrant.com/
@@ -1401,11 +1382,11 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
         * http://ortosulterrazzo.it/blog/
         * http://www.greencul.com/2013/03/31/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D9%88%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AD%D8%AF%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%B2%D9%84-22/
     
-* Reading List - Meditation
+### Reading List - Meditation
         * https://bigthink.com/surprising-science/how-mindfulness-meditation-permanently-reduces-stress/ 
         * http://asia.it/
     
-* Reading List - Identity
+### Reading List - Identity
         * https://familysearch.org/
         * http://www.ancestry.com/
         * http://www.findmypast.com/
@@ -1433,7 +1414,7 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
     
 
 
-* Notes - Memories
+### Notes - Memories
     - Mission Outline
         
         2012
@@ -2635,63 +2616,7 @@ A question is a set of alternative possibilities
         * [https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more- intéressante objection à l'obsession avec l'innovation en faveur de la "maintenance"](https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more-)
     
 * Books
-        * [Guía de Hábitos Inteligentes: 36 Pequeños Cambios de Vida que su Cerebro Agradecerá](https://www.amazon.com/Gu%C3%ADa-H%C3%A1bitos-Inteligentes-Peque%C3%B1os-Agradecer%C3%A1/dp/1518720374/ref=sr_1_7?ie=UTF8&qid=1490621250&sr=8-7&keywords=Libro+di+psicologia)
-        * https://www.samuelthomasdavies.com/wp-content/uploads/2016/02/Unhooked-Second-Edition.pdf
-        * [Liberating Structures - Introduction](http://www.liberatingstructures.com/?fbclid=IwAR0q3Lw0F7GzkK4eu8voOJX9nJGMw62CGKZW4vRX7QgzL0b415GTWNyjv4o)
-        * [Книга Ленивого Гуру. Поток. Результаты. Без усилий | Лоуренс Шортер | download](https://b-ok.cc/book/2858445/21f002)
-        * [Book Summary: You Are Not So Smart by David McRaney](https://www.samuelthomasdavies.com/book-summaries/psychology/you-are-not-so-smart/)
-        * [Fünf etwas andere Sachbücher für ein besseres Leben](https://www.blinkist.com/magazine/posts/5-bucher-die-dein-leben-verandern-werden)
-    
-    the way of the champion
-    
-    the artist's way morning pages journal
-    
-    write for life
-    
-    seeking wisdom
-    
-    four thousand weeks
-    
-    change your brain every day
-    
-    the seven decisionsquitting: a life strategy
-    
-    simple abundance
-    
-    atomic habits
-    
-    the power of habit
-    
-    make your bed
-    
-    Daniel h pink all books
-    
-    Brian Greene all books
-    
-    sex at dawn
-    
-    build it fix it own it
-    
-    web design playground
-    
-    secret life of programs
-    
-    algorithms louridas
-    
-    Edward de Bono, esp six thinking hats
-    
-    build tony fadell
-    
-    dead simple Python
-    
-    big book of inkscape
-    
-    DevOps handbook
-    
-    the theoretical minimum
-    
-    Roadmap
-    
+   
 * Notes
     
     Viel besser drin werden, mir Ideen einfallen zu lassen und sie ordentlich aufzuschreiben und zu entwickeln.
@@ -2749,51 +2674,4 @@ A question is a set of alternative possibilities
 * [Welcome to the Funny Farm: The All-True Misadventures of a Woman on the Edge](https://b-ok.cc/book/2708333/69f99a)
 * [Coping Mechanisms](https://www.youtube.com/watch?v=XUZ9VATeF_4&t=5s)
 
-“Students do not learn much just sitting in classes listening to teachers, memorizing prepackaged assignments, and spitting out answers. They must talk about what they are learning, write reflectively about it, relate it to past experiences, and apply it to their daily lives. They must make what they learn part of themselves.”
 
-A few tips while learning online is to always take simple notes, writing takeaways at the end of the day or blogging about what you’ve learned. By the same vein, utilizing the Feynman Technique by explaining what you have learned to friends and family is important, especially for a complex subject such as Data Science.  ||  Moreover, when learning machine learning algorithms and neural networks, it’s crucial to learn it along with writing the code, this way you can see what you’re learning, and have a better understanding of the topic at hand. It’s also good to be a part of online communities such as Reddit, Discord, etc. so you can ask questions and obtain great answers from experts.
-
-How to learn data science on the internet? The best MOOCs + correct learning methodology + passion + projects
-
-Taking notes/blogging | Use the Feynman Technique | Code along with concepts (Create a neural network from scratch) | Join data science online communities to ask questions
-* https://habitica.com/static/home 
-* https://wiki.nikiv.dev/free 
-
-
-* Bücher
-    
-    Wie man das eis bricht
-    
-    Die Macht der Gewohnheit
-    
-    Die 4-Stunden-Woche
-    
-    Rich Dad, Poor Dad
-    
-    Die einfachste Gewohnheit der Welt
-    
-    Jetzt!
-    
-    10xDNA
-    
-    Alles im Kopf behalten
-    
-    Super Human
-    
-    Limitless
-    
-    Denke nach und werde reich
-    
-    Still
-    
-    Elon Musk
-    
-    Das 80/20-Prinzip
-    
-    Die fünf Sprachen der Liebe
-    
-    Miracle Morning
-    
-    Lean In
-    
-    Geh nie alleine essen!

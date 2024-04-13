@@ -24,6 +24,22 @@
 * https://exercism.org/tracks/x86-64-assembly/exercises/binary-search/solutions
 * https://exercism.org/tracks/x86-64-assembly/exercises/collatz-conjecture/solutions
 
+## Low-Level
+    <> [How Binary Works](https://youtu.be/PMpNhbMjDj0)
+    <> [Book: Numbers and Computers](http://library.lol/main/0ED6B117074071DF946B58FF8AEDD36A)
+* [same game in Assembly, C, C++](https://www.youtube.com/watch?v=2eeXj-ck9VA)
+* [Linux Kernel Books](http://libgen.rs/search.php?&req=billimoria&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+* [Introduction - Kernel Development Course Part 1](https://youtu.be/HNIg3TXfdX8)
+* https://github.com/o-oconnell/minixfromscratch
+* [Embedded Systems with ARM Cortex-M Microcontrollers in Assembly Language and C](https://web.eece.maine.edu/~zhu/book/)
+* [Electronics for Beginners: A Practical Introduction to Schematics, Circuits, and Microcontrollers](http://library.lol/main/83F62DC54FD565C48EE927AEB0F8EBDB)
+* https://github.com/Apress/learn-to-program-w-assembly
+
+
+## Boot    * [The BIOS companion](http://library.lol/main/BBB4B14C71ACAEF74426BEFBFA25402D)    * [Beyond BIOS: Developing with the Unified Extensible Firmware Interface](http://library.lol/main/99ACD9F82FDDF5996238C6596D66AA5A) 
+* https://coreboot.org/     * [Harnessing the Uefi Shell: Moving the Platform Beyond Dos](http://library.lol/main/9F60269484B41B81E4CCCE4FD78C05E7)
+
+
 
 ## Boot etc.
 * https://de.wikipedia.org/wiki/Bootloader 
@@ -45,15 +61,8 @@
 * [Getting Started with LLVM Core Libraries: Get to grips with LLVM essentials and use the core libraries to build advanced tools](http://libgen.is/book/index.php?md5=8B9B19F1DA135A51E7307B6B49900CD1)
 * [https://mlir.llvm.org](https://mlir.llvm.org/)
 
-
-## Reading List (1)
-
-
-## Reading List (2)
-
-
-## Reading List (3)
-
+## Cracking
+* https://gtfobins.github.io/
 
 ## Reading List (4)
 * http://hyperphysics.phy-astr.gsu.edu/hbase/Solids/trans.html

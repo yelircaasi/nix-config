@@ -1,4 +1,5 @@
 # Neovim
+* $$$ [flake-awesome-neovim-plugins](https://github.com/m15a/flake-awesome-neovim-plugins)
 ## References
 Vim Reference (book)
 

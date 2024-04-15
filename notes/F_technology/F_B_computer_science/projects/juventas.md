@@ -1,6 +1,11 @@
 # juventas.nvim
 
+* https://jupyter-tutorial.readthedocs.io/de/latest/intro.html 
+* https://ipython.org/index.html 
+* https://jupyterbook.org/en/stable/intro.html# 
 
+→ [books](https://libgen.rs/search.php?&req=jupyter&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+* http://janakiev.com/blog/jupyter-virtual-envs/
 * https://en.m.wiktionary.org/wiki/Jupiter 
 
 

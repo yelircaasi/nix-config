@@ -50,7 +50,159 @@ Code strukturieren // deutsch
      * [How I make science animations](https://www.youtube.com/watch?v=yaa13eehgzo)
 
 ## Unsorted
+* [Curso de REDES informáticas. 175 vídeos de calidad - YouTube](https://www.youtube.com/playlist?list=PLomN84AdULIBcoI8Rb98dnompliIktJk9)
+* https://blog.finxter.com/10-best-bitcoin-books-your-ultimate-guide-for-2023/ 
+* Adapter, Bridge, Composition over inheritance,
+* [Making Snake Boot Sector Game in Assembly (x86) - YouTube](https://www.youtube.com/watch?v%3DtHO5x_Ha6pE)
+* free-programming-books/free-programming-books.md at master · EbookFoundation/free-programming-books · GitHub
+* OpenHPI Tutorials - YouTube
+* So You Wanna Learn How to Code? Going from Zero to Programmer Hero in One Guide, for Great Justice. – Everyday Utilitarian
+* [20 Things to Know before You Start Programming](https://learnworthy.net/20-things-to-know-before-you-start-programming/)
+* [6 months Educative for free](https://www.educative.io/github-students?aid=5082902844932096&utm_source=Facebok&utm_medium=single-ad&utm_campaign=GitHub-students&fbclid=IwAR0PDwLCglzBq_70t4-oju1hU_d1Hp_D45LT-HaAQ34BoIeGwzpo_zITz44)
+* [7 Habits of Highly Effective Programmers | SeattleDataGuy in Better Programming](https://medium.com/better-programming/7-habits-of-highly-effective-programmers-563ee3b63f33)
+* [Any good beginner programming podcasts?](https://www.reddit.com/r/learnprogramming/comments/1l0cxl/any_good_beginner_programming_podcasts/)
+* [Atom Documentation](https://atom.io/docs)
+* [Best Learning Strategies for Programmers](https://youtu.be/IHQ-UUj0bxs)
+* [Codescracker Online Coding](https://codescracker.com/index.htm)
+* [Dashboard | Codecademy](https://www.codecademy.com/es/learn)
+* Remote Kernels · Hydrogen
+* https://flight-manual.atom.io/api/v1.48.0/TextEditor/
+* [GraphViz intro](https://ncona.com/2020/06/create-diagrams-with-code-using-graphviz/?mc_cid=76ec3f7e9d&mc_eid=1a0e8f9a2d)
+* Top 43 Programming Languages
+* https://www.levenez.com/lang/
+* [LANGUAGES – The Craft of Coding](https://craftofcoding.wordpress.com/archives/)
+* [Языки программирования - просто о сложном](https://www.youtube.com/watch?v=sytkQW7LZak)
+* [Popular Programming Languages: 1960 to 2020](http://datascience.getresponse360.com/click.html?x=a62e&lc=5wt&mc=j&s=jFaI&u=F&y=G&z=wuWq5kS&)
+* [FCC Translation Effort](https://www.freecodecamp.org/news/world-language-translation-effort/)
+* [> ultimate-coding-resources: A collection of the best resources for programming, web development, computer science and more.](https://github.com/PizzaPokerGuy/ultimate-coding-resources)
 
+* [*How to Design Programs, Second Edition](https://htdp.org/2019-02-24/)
+* [SICP Course](https://ru.hexlet.io/courses/sicp)
+* [https://ru.hexlet.io/courses/sicp/](https://ru.hexlet.io/courses/sicp/lessons/sicp_what_is_computer_science/theory_unit)
+* https://opensource.guide/fr/how-to-contribute/
+* [Programmieren, Vorlesung, WS 2020/21](https://www.youtube.com/watch?v=LmgKH0KPH3g&list=PLfk0Dfh13pBOkHJEvgdl1zLOLeOUn2cnq)
+* [Интерактивный учебник по информатике](https://www.youtube.com/playlist?list=PL66kIi3dt8A5sa_qBur8uxmtuuwuJQGS1)
+* https://cs50.harvard.edu/college/2019/fall/
+* [Informatica generale](https://www.youtube.com/playlist?list=PL27E7ADECF58950DA)
+* [Informatique](https://www.youtube.com/watch?v=YUUKZqNneEE&list=PLie7a1OUTSagveVvyORBGKgovTTgjVdmD)
+* [Информатика](https://vk.com/wall-16108331_155508)    * [A Practical Approach to Compiler Construction](http://libgen.rs/book/index.php?md5=37877A0A3E6D4C7913BDA9977CB69A58)    * [Formale Sprachen, abstrakte Automaten und Compiler: Lehr- und Arbeitsbuch für Grundstudium und Fortbildung](http://libgen.rs/book/index.php?md5=5ADE808648A5E4DF40CD7291F6BF5E78)    * [Write Your Own Compiler](http://library.lol/main/A26A5975375A5E0CBA831268E78018EF)
+* [Grundbegriffe der Informatik, Vorlesung, WS 2020/21](https://www.youtube.com/watch?v=OK39MSCt54o&list=PLfk0Dfh13pBPs9TN7uhkFhJfmM9PaxaZ8)
+    The Nature of Code
+* [CS 320 - Concepts of Programming Languages](http://www.cs.bu.edu/fac/snyder/cs320/)
+* [INF4820](https://www.youtube.com/channel/UCufkSSu1trzm9nB-jYOPuvw)
+* [IN2040 – Funksjonell programmering](https://www.youtube.com/channel/UCJdgUH8ByKHNhA_FlTVIbzg)    * [Introduction to Compiler Design](http://libgen.rs/book/index.php?md5=9BD57A48450569E5AE20296FCD23064F)    * [Let’s build a Compiler](http://libgen.rs/book/index.php?md5=E3C0FAE0C2C0F747BE305C83E837ACFA)
+* [Теоретическая информатика | Александр Охотин](https://www.youtube.com/watch?v=IIKffaoU9nk&list=PL-_cKNuVAYAUl_rC3XH9MX63wyX600pcp)
+* [Теоретическая информатика | Александр Охотин](https://www.youtube.com/watch?v=ajCG2gBlW3Y&list=PL-_cKNuVAYAXbN083ii8cakfJpy5iGNxu)
+* [Vorlesungsaufzeichnung Theoretische Informatik | Hochschule Osnabrück](https://www.hs-osnabrueck.de/prof-dr-karsten-morisse/vorlesungsaufzeichnung-theoretische-informatik/)
+* [Теоретическая информатика | Федор Петров](https://www.youtube.com/watch?v=5UhHcFHiUt8&list=PL-_cKNuVAYAXBk4t4WqPyAv__0__0QgUC)
+* [Vorkurs Informatik](https://www.youtube.com/watch?v=F1Wml6ayRpY&list=PL-_cKNuVAYAVc-vBx2fQnjy7F18vzi9NK)
+* [Vorkurs Informatik](https://www.youtube.com/watch?v=QBS1N9LU4tI&list=PL-_cKNuVAYAWpKLONs_YYrEwH7KrSPn9u)
+* [Tree Automata Techniques and Applications](http://denif.ens-lyon.fr/teacher.php?id=43)
+* [Informatica I: Modelli dell'Informatica - prof. A. Marchetti Spaccamela - YouTube](https://www.youtube.com/playlist?list=PLAQopGWlIcyalkb2baN9mnotsdBm5Vbkc)
+* [Introduction to Theoretical Computer Science ***](https://introtcs.org/public/index.html)
+* [CS Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+    Computer Science Illuminated
+* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/
+* https://toc.cryptobook.us/
+* https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/ru/
+* [Basiswissen Informatik - Grundideen einfach und anschaulich erklärt](https://b-ok.cc/book/5246109/66bc21)
+* [*Другой GitHub: репозитории по Data Science, визуализации данных и глубокому обучению](http://ai-news.ru/2019/01/drugoj_github_repozitorii_po_data_science_vizualizacii_dannyh_i_glubokomu.html)
+* [Как подружить Tensorflow и C++ / Хабрахабр](https://habr.com/post/308002/)
+* https://github.com/sindresorhus/awesome
+* https://www.numfocus.org/sponsored-projects/
+* https://www.freecodecamp.org/news/free-online-programming-cs-courses/
+* [150+ Stanford On-Campus Computer Science Courses Available Online](https://www.classcentral.com/report/stanford-on-campus-courses/)
+* [> Old bookmarks](https://docs.google.com/spreadsheets/d/1YVDOe57jjFBpwLrottZvP-ns-86XB0fcZvGfy0NzIfA/edit?usp=sharing)
+    BYU Major Path
+* [Детальный план самообразования в Computer Science за 1.5 года](https://vk.com/@physics_math-detalnyi-plan-samoobrazovaniya-v-computer-science-za-15-goda)
+* [eXamen.press](http://libgen.rs/search.php?&req=examen.press&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+* [Explore - Gitter](https://gitter.im/home/explore)
+* [resources.md](https://gist.github.com/gopalindians/a8dae726cb5a03ee4ad4)
+* [grokking](https://libgen.is/search.php?req=grokking&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+* https://github.com/MartinThoma
+* https://dl.acm.org/
+* [viXra.org open e-Print archive](https://vixra.org/)
+* [ArXiv](https://arxiv.org/)
+* [dblp: computer science bibliography](https://dblp.org/)
+* https://ux.stackexchange.com/questions/53275/do-interfaces-evolve
+* [DRM In School eBooks: When Life Imitates Dystopian Stories - GNU Project - Free Software Foundation](https://www.gnu.org/education/drm-in-school-ebooks-when-life-imitates-dystopian-stories.html#content)
+* https://en.wikipedia.org/wiki/User_interface
+* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+* [150+ Stanford On-Campus Computer Science Courses Available Online](https://www.classcentral.com/report/stanford-on-campus-courses/?utm_source=cc_newsletter&utm_medium=email&utm_campaign=november2020)
+* history of computing: free download. Ebooks library. On-line books store on Z-Library
+* [Computerphile YouTube Channel](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
+* http://libgen.is/search.php?req=Parallel+Distributed+Processing+Rumelhart&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
+* https://de.wikipedia.org/wiki/Backus-Naur-Form
+* [KIT Kurse](https://www.youtube.com/c/KITWEBCAST/playlists?view=1&sort=dd&flow=grid)
+* [Handbook of algorithms and data structures: in Pascal and C](http://library.lol/main/E37057C401A92773B3EAB6E733E1C006)
+* [Алгоритмы, языки, автоматы и компиляторы](https://vk.com/doc44301783_609557463?hash=e86afa3249fb42ca98&dl=9a5f98fcf3360d4f22)
+* [Гид по Computer Science для каждого программиста [2020]](https://vk.com/doc44301783_609557468?hash=5e45067028938d938e&dl=bdf715d21d7431e67b)
+* [Занимательная информатика [2011]](https://vk.com/doc44301783_609557473?hash=894fb3bd23872a3f02&dl=ed6e0be5bb4b908a0e)
+* [Quantum Computing](http://libgen.is/search.php?req=quantum+computing&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+    libgen quantencomputer
+* [Основы программирования](https://vk.com/wall-79831840_54479)
+* [Информатика](https://stepik.org/course/10829/promo)
+* https://lelivros.love/book/baixar-livro-metodologia-de-pesquisa-para-ciencia-da-computacao-raul-sidnei-wazlawick-em-pdf-epub-e-mobi/
+* http://book.kbsu.ru/
+* [Algorithms and Theory of Computation Handbook, Second Edition, Volume 1: General](http://libgen.rs/book/index.php?md5=5BB041917EFF5A45C3C4EE98F25C4FE9)
+* [Data Structures series)
+            * [2 ed.]](http://libgen.rs/book/index.php?md5=5BB041917EFF5A45C3C4EE98F25C4FE9)
+    Computers and Computation
+* [Algorithms and Theory of Computation Handbook, Second Edition, Volume 2: Special](http://libgen.rs/book/index.php?md5=729778F120A1B0A6AFB64DC95177B24A)
+* [Data Structures series)
+            * [2nd Revised edition]](http://libgen.rs/book/index.php?md5=729778F120A1B0A6AFB64DC95177B24A)
+    Computer Science Mathematics
+* [Encyclopedia of Algorithms](http://library.lol/main/9F95B6FDE848B3842FFD86F03250A2AF)
+    Invitation to Computer Science
+* [Everyday Cryptography: Fundamental Principles and Applications](http://libgen.rs/book/index.php?md5=5AA35B9F245246ED22C552F850F0DC0B)
+    A Balanced Introduction to Computer Science
+* [Cryptography: The Key to Digital Security, How It Works, and Why It Matters](http://libgen.rs/book/index.php?md5=71B381A4F94A18BBE9D815DA665DC879)
+    The Bit and the Pendulum
+* [This Is How They Tell Me the World Ends: The Cyberweapons Arms Race](http://libgen.rs/book/index.php?md5=F190F10373072DEF1E8173BA4551C126)
+    Классическая криптография
+* [Computer Memory: Develop A Computer Like Memory In 5 Minutes A Day](http://library.lol/main/653D0BF914A487531BD7CAF97A784F79)
+    Алгоритмы - Дасгупта
+* [dorling kindersley computer](https://libgen.rs/search.php?req=dorling+kindersley+computer&open=0&res=25&view=simple&phrase=1&column=def)
+    Теория алгоритмов
+* [Quantum Computers, Explained With Quantum Physics](https://www.youtube.com/watch?v=jHoEjvuPoB8)
+* https://en.wikipedia.org/wiki/Model_checking
+* https://computersciencewiki.org/index.php/Welcome
+* [Data Structures Easy to Advanced Course](https://youtu.be/RBSGKlAvoiM)
+* [Hash Tables and Hash Functions](https://www.youtube.com/watch?v=KyUTuwz_b7Q)
+* [3. Non-fungible Tokens (NFTs)](https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/)    * [Como funcionaria um algoritmo para prevenir tentativas de enganar bloqueios de palavras (strings)?](https://sg-links.stackoverflow.email/ls/click?upn=FhKQFemTFIJzn5ywFPMHvuUjwMv-2BBhBHqs97P9ba0BEvnQ2HJIO-2FmsVXCbgXZ5nZBSj5awxqdJ3aWERJj6pl5-2BMrXX2-2B3ci0h1wlRS3WDQQ-3DQZGJ_Ok-2F1QZUoWNfwArWx1OpnKP3rAR9xqW9UxFasc9TFWJt2p-2BoSs6-2B2pi664yyZOd8r-2FUcG72mM9F5QB8jryvhMBi5oZW60hikiVN6edAdhwbnwlYjkwX7niQtq5gYql7DgTIozE-2FjxjHb8ZLSl-2BvU3zyblpk-2FnmAQxGUqOYKW09rLl6PwDTdkjjHXAQsHlT8QFvsw2hOPqmB84hXvX-2B3nz-2BDmnz1934iUlkRSMZPWISoAiwJnweVhDSOfk9HLoADLREhT8KoYEE-2Fjw8rqzgNYPLLxeHh0kdlQyfYQAPDn4-2Bh8yeTnWKy9Wt38xAjsqHiWW2J5UUmLbFQuf1nCcQXstQPrW9BPHhAIQwunNminBgwx40yZYTFnh00Ic56KYbBjQGDPad5wb7xArc0fSn7oiXZMua5J6-2BRxCvOyzYhMmhXGgTShQOz980Ra9V86oBTNa9-2F0zjEFDoEM7D5TkvphDY3HQY2-2FxsxGhnhBsWJPkZ8RrZ5R9F1jtQ84pcjXb5XvckhL2UtiONG-2BK4I6rhfbtUw-3D-3D)
+* [The Computer Book: From the Abacus to Artificial Intelligence, 250 Milestones in the History of Computer Science | Simson L. Garfinkel, Rachel H. Grunspan | download](https://b-ok.cc/book/3707593/1bd75a)
+* https://www.freecodecamp.org/news/free-online-programming-cs-courses/
+* https://www.freecodecamp.org/news/big-o-notation/
+* [KIT Playlists](https://www.youtube.com/c/KITWEBCAST/playlists)
+* [[Tribune] Les machines n’apprennent pas](https://www.usinenouvelle.com/article/tribune-les-machines-n-apprennent-pas.N642748)
+* [Action language - Wikipedia](https://en.wikipedia.org/wiki/Action_language)
+    Article on Turing, complexity, and saltwater desalinization    * [Brown; color is weird](https://www.youtube.com/watch?v=wh4aWZRtTwU&list=WL&index=1474)
+* [Decades-Old Computer Science Conjecture Solved in Two Pages](https://www.quantamagazine.org/mathematician-solves-computer-science-conjecture-in-two-pages-20190725/)
+* [Economics of Composable, Reusable Analytic Modules](http://datascience.getresponse360.com/click.html?x=a62e&lc=usU&mc=j&s=jFaI&u=F&y=1&z=wuoKefF&)
+* [Geek & Chic: Analytics redefining fashion instincts](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=54de772da4&e=b34ab4e857)
+* [Google Interview Process](https://habr.com/en/post/489698/)    * [How do non-euclidean games work? | Bitwise](https://www.youtube.com/watch?v=lFEIUcXCEvI&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=58)    * [Il Dittatore del Deep Web - Creepypasta #95](https://www.youtube.com/watch?v=oRFkCQ4hFzI&list=WL&index=412)    * [Intro to ROOT Tutorial Lesson 0 - Getting Started](https://www.youtube.com/watch?v=s9PTrWOnDy8&list=WL&index=395)
+    Matthias Horx Die Zeit, Computer und KI    * [The Myth of the Machine: Technics and Human Development](http://library.lol/main/8831A5CF68597BB522C9EC4B357CC0F7)
+* [Top 10 Technology Trends for 2020](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=53cc2fdfda&e=b34ab4e857)
+* [Top 10 Technology Trends of 2019](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=b17f92433c&e=b34ab4e857)
+* [Visually Explained: What Companies Get Wrong About Failure?](https://www.datasciencecentral.com/profiles/blogs/visually-explained-what-companies-get-wrong-about-failure)
+* [Ера технократії або чому «тижпрограміст» — це перемога](https://medium.com/@vitalik/%D0%B5%D1%80%D0%B0-%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D1%96%D1%97-%D0%B0%D0%B1%D0%BE-%D1%87%D0%BE%D0%BC%D1%83-%D1%82%D0%B8%D0%B6%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D1%96%D1%81%D1%82-%D1%86%D0%B5-%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%BE%D0%B3%D0%B0-d92d842f7b9e)
+* [О том, какие современные решения ученые придумали этим современным проблемам — в наших материалах!](https://vk.com/wall-168717779_5751)
+* [«Я зверь, а не человек!»](https://kp.ua/life/12201-ya-zver-a-ne-chelovek)
+* [Coronavirus. Un prestigioso investigador de Stanford advierte: "estamos tomando decisiones sin datos confiables" - LA NACION](https://www.lanacion.com.ar/el-mundo/coronavirus-un-prestigioso-investigador-stanford-advierte-estamos-nid2344630?fbclid=IwAR1TClqk6zxAIadFw200WMHqaHHFOd2qaNXuKOe-Nl0hh5lFUL8x7HBlGOw)
+* [La célula de Ferrel, donde habita el coronavirus](https://www.lavozdegalicia.es/noticia/sociedad/2020/03/13/celula-ferrel-convive-coronavirus/00031584129419085406584.htm?fbclid=IwAR2OxgNKm9StbIS-3VfcdM-G-YLobhJvDRwqbGAlkA6shiQUJp9ATOrcVUw)
+* [Los fármacos contra la malaria, nueva baza contra el COVID-19](https://theconversation.com/los-farmacos-contra-la-malaria-nueva-baza-contra-el-covid-19-134013?fbclid=IwAR0O4CjlsUpUbkAguLswOnhPF6ptRs8C1UrRCMiq_-ro5KJIx1wkqtG5hfY)
+    Repräsentationismus — Was sonst?: Eine kritische Auseinandersetzung mit dem ...
+* http://www.cedar.buffalo.edu/papers/articles/Online_Offline_2000.pdf
+* [Notes](https://crypto.stanford.edu/pbc/notes/)
+* [Как создать надёжные пароли и защищать систему с их помощью | GeekBrains - образовательный портал](https://geekbrains.ru/posts/kak-sozdat-nadyozhnye-paroli-i-zashchishchat-sistemu-s-ih-pomoshchyu?utm_source=email&utm_medium=email&utm_campaign=digest_act_300420&utm_term=1890716&utm_content=digestp&sc_src=email_1890716&sc_lid=136872156&sc_uid=7CHG1cUjE5&sc_llid=342652&sc_customer=3388920)
+* [Квантовая криптография. Хеширование. Цифровая подпись](https://www.youtube.com/watch?v=xphEhrrdqaM&list=PL-_cKNuVAYAUVoBoI-XqbvzPxtDB_1NRi)
+* [Классическая Криптография](https://vk.com/wall-16108331_150831)
+    Криптология и секретная связь. Сделано в СССР    * [Принципы шифрования и криптографии. Расшифруйте послание!](https://www.youtube.com/watch?v=YtFM-smD9fQ&list=WL&index=381)
+    Программно-аппаратные средства обеспечения информационной безопасности [2019] Душкин
+* [Сложность вычислений и основы криптографии | Дмитрий Ицыксон](https://www.youtube.com/watch?v=VLowyJEVFac&list=PL-_cKNuVAYAWh_47wfVOicbNF5Ayt2Rs8)
+* [Сложность вычислений и основы криптографии | Эдуард Гирш](https://www.youtube.com/watch?v=oKzBUIr9M-o&list=PL-_cKNuVAYAWsWtxWzS3rLLZ32aFLNN3r)
+* [Теоретико-сложностные основы криптографии](https://www.youtube.com/watch?v=cZMfOnxfOFg&list=PL-_cKNuVAYAUAMElAnIED4AVMtFuQmB0J)
+* [Шнайер Б. - Секреты и ложь. Безопасность данных в цифровом мире. (Классика Computer Science) - 2003.pdf](https://vk.com/doc44301783_453645337?hash=bce7bed42a41612fea&dl=ed4de3cfab9736f558)
 * History of X11 [yt](https://www.youtube.com/watch?v%3DR-N-fgKWYGU)
 * [8 ways JavaScript is just... different. - YouTube](ghttps://www.youtube.com/watch?v%3DkYAe7qDGOJw)
 * [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html%23Pattern-Matching)
@@ -402,9 +554,46 @@ FP discussion https://www.reddit.com/r/functionalprogramming/s/mvp30BfqJW
 * [history of silicon valley: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/history%20of%20silicon%20valley)
 * https://link.springer.com/search?facet-series=%22558%22&facet-content-type=%22Book%22
 * [Marijn's Web Home](https://marijnhaverbeke.nl/)
-
-
-## Sort (13)
+* https://www.stylewarning.com/posts/quantum-interpreter/ * [The Tragedy of systemd](https://www.youtube.com/watch?app=desktop&v=o_AIw9bGogo)
+* [Transistor 1953 Documentary](https://www.youtube.com/watch?app=desktop&v=V9xUQWo4vN0)
+* https://www.theregister.com/AMP/2023/02/10/googles_go_programming_language_telemetry_debate/ * [Linux Audio Explained (ALSA vs PulseAudio vs JACK vs Pipewire Explained)](https://www.youtube.com/watch?app=desktop&v=HxEXMHcwtlI)
+* https://ublue.it/making-your-own/ 
+* https://www.reddit.com/r/linuxmemes/comments/v4nl8x/listening_to_the_kernels_soul/ 
+* https://distrowatch.com/index-mobile.php
+* https://anvaka.github.io/map-of-github/#2/0/0
+* https://github.com/readme/featured/how-open-is-open-source 
+* [command line - chsh -s /usr/bin/zsh not working - Ask Ubuntu](https://askubuntu.com/questions/195361/chsh-s-usr-bin-zsh-not-working)
+* [How Silicon Valley Became Silicon Valley (And Why Boston Came In Second) — Brian Manning](https://www.briancmanning.com/blog/2019/4/7/how-silicon-valley-became-silicon-valley)
+* [Google will FORCE Ads on You - YouTube](https://www.youtube.com/watch?v=oQL9dVsEXT0)
+* [The Valley of My Dreams: Why Silicon Valley Left Boston's Route 128 In The Dust | TechCrunch](https://techcrunch.com/2009/10/31/the-valley-of-my-dreams-why-silicon-valley-left-bostons-route-128-in-the-dust/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAIA5WaBNLWJjZlFzfmp09Zrc9sqTpxwHLaX-QSE41e5m5rh-6Gnx447HbvVra1UXP26xnmz0h1XSFpzh45yc_gKha9lFRc_P_TwTkDE9au5O5TnRT6RfOLzPc3h8xZNeXXi4-1Gz3K06jW37ZYB8DRIhQSp4A6jlmEkua9pbHdvz)
+* [Boston’s Start-Ups Will Never Be Silicon Valley Cool](https://www.bostonmagazine.com/news/2020/02/28/boston-start-ups-cool-silicon-valley/)
+* https://www.cambridgeincolour.com/tutorials/image-interpolation.htm 
+* [mo8it/How_To_Linux: A book for a Linux course: https://how-to-linux.mo8it.com - How_To_Linux - Codeberg.org](https://codeberg.org/mo8it/How_To_Linux)
+* [Daniel J. Barrett books](http://libgen.rs/search.php?&req=daniel+barrett&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+* https://lxr.linux.no/linux+v2.6.25.6/ 
+* https://lxr.linux.no/linux+v2.6.12/ 
+* https://lxr.linux.no/linux+v6.0.9/ 
+* https://www.soundonsound.com/series/synth-secrets-sound-sound 
+* [SysVinit vs Systemd - YouTube](https://www.youtube.com/watch?v=Fz8Ldw-s8_Q)
+* [A Visual Introduction to Inner-Workings of the JVM - Douglas Hawkins - YouTube](https://www.youtube.com/watch?v=JLFjY6Ixct8)
+* [15 Years Writing C++ - Advice for new programmers - YouTube](https://www.youtube.com/watch?v=37VZu3b045k)
+* [Linux Packaging Formats explained: Flatpak vs Snaps vs DEB & RPM vs AppImage vs AUR - YouTube](https://www.youtube.com/watch?v=1lLZ-59xH3Y&t=711s)
+* [tb29greene.pdf](https://tug.org/TUGboat/tb11-3/tb29greene.pdf) BaSiX
+* [OpenBSD Frequently Asked Questions](https://www.openbsd.org/faq/index.html)
+* [Stack Overflow Developer Survey 2019](https://insights.stackoverflow.com/survey/2019#most-loved-dreaded-and-wanted)
+* [Stack Overflow Developer Survey 2021](https://insights.stackoverflow.com/survey/2021#technology-most-loved-dreaded-and-wanted)
+* https://factoryfactoryfactory.net/
+* [How I over-engineered a Fast Fourier Transform for Arduino.](https://klafyvel.me/blog/articles/fft-arduino/)
+* [> see links Creating Multilingual Developer Documentation: Best Practices for Localization and Translation | by Joanna Suau | Jun, 2023 | Bootcamp](https://bootcamp.uxdesign.cc/creating-multilingual-developer-documentation-best-practices-for-localization-and-translation-395f97afd5a9)
+* [Programming’s Greatest Mistakes - Mark Rendle - NDC Copenhagen 2022 - YouTube](https://www.youtube.com/watch?v=qC_ioJQpv4E)
+* [Writing a 6502 emulator in Python — Dailystuff on the Internet](https://dailystuff.nl/projects/writing-a-6502-emulator-in-python)
+* [Making a game from scratch: Map generation - YouTube](https://www.youtube.com/watch?v=mMVjO2ti8Ys)
+* [Clean Coders Hate What Happens to Your Code When You Use These Enterprise Programming Tricks - YouTube](https://www.youtube.com/watch?v=FyCYva9DhsI)
+* [Introducing GitFlow](http://datasift.github.io/gitflow/IntroducingGitFlow.html)
+* [**Linux and glibc API changes](https://man7.org/tlpi/api_changes/index.html)
+* https://www.freecodecamp.org/news/what-is-steganography-hide-data-inside-data/ 
+* [Pulse 15 - Gen2 - 15,6 inch WQHD 1440p + 100 % sRGB + AMD Ryzen 7 5700U + AMD Radeon Vega 8 Graphics + USB-C (DisplayPort 1.4 & Power Delivery) + max. 4 TB SSD + max. 64GB RAM - TUXEDO Pulse 15 - Gen2 - ANSI Keyboard only - TUXEDO Computers](https://www.tuxedocomputers.com/en/Linux-Hardware/Notebooks/15-16-inch/TUXEDO-Pulse-15-Gen2.tuxedo)
+* [Debian 12 Bookworm Installation and First Look - YouTube](https://www.youtube.com/watch?v=omKFEhWJGYg)
 * [An Introduction to Infrastructure and Application Monitoring](https://waves.digitalocean.com/n/dt0SA2gsv70Na00Twg000D0)
 * https://en.wikipedia.org/wiki/Business_models_for_open-source_software
 * https://vk.com/@php2all-knigi-po-programmirovaniu
@@ -417,7 +606,7 @@ FP discussion https://www.reddit.com/r/functionalprogramming/s/mvp30BfqJW
 * [Основи алгоритмізації та програмування. Збірник завдань | Саволюк А.П. | download](https://b-ok.cc/book/1144341/03eb8f)
 
 
-### **The 25 best programming books of all-time. A data-backed answer
+* The 25 best programming books of all-time. A data-backed answer
 * [30 Seconds of Code](https://www.30secondsofcode.org/list/p/1)
 * http://www.codecodex.com/wiki/Main_Page
 * https://codegolf.stackexchange.com/
@@ -431,7 +620,7 @@ FP discussion https://www.reddit.com/r/functionalprogramming/s/mvp30BfqJW
 * [Languages - Python Wiki](https://wiki.python.org/moin/Languages)
 
 
-### **media.ccc.de - YouTube
+* media.ccc.de - YouTube
 * [David Giordana](https://www.youtube.com/c/DavidGiordana)
 * https://code.org/
 * https://de.wikipedia.org/wiki/The_Art_of_Computer_Programming
@@ -448,9 +637,6 @@ FP discussion https://www.reddit.com/r/functionalprogramming/s/mvp30BfqJW
 * [What is there to programming?](https://www.reddit.com/r/learnprogramming/comments/ed7zyn/what_is_there_to_programming/)
 * [Мастерство программирования](https://vk.com/@physics_math-masterstvo-programmirovaniya)
 * [Becoming a Better Programmer: A Handbook for People Who Care About Code | Pete Goodliffe | download](https://b-ok.cc/book/2468842/e582a3)
-
-
-## Sort (14)
 * http://programming-motherfucker.com/become.html
 * [Desarrolladores Google - YouTube - YouTube](https://www.youtube.com/channel/UCeo-MamuQVFRcfQmS2N7fhw)
 * [Desenvolvedores Google - YouTube - YouTube](https://www.youtube.com/user/GoogleDevBR)
@@ -614,11 +800,6 @@ FP discussion https://www.reddit.com/r/functionalprogramming/s/mvp30BfqJW
 * https://stackify.com/popular-programming-languages-2018/
 * https://www.codementor.io/codementorteam/beginner-programming-language-job-salary-community-7s26wmbm6
 * https://www.heise.de/ct/ausgabe/2015-18-Die-passende-Programmiersprache-finden-2767703.html
-
-
-
-
-
 * [Design Patterns Elements of Reusable Object-Oriented Software](https://sophia.javeriana.edu.co/~cbustaca/docencia/DSBP-2018-01/recursos/Erich%20Gamma,%20Richard%20Helm,%20Ralph%20Johnson,%20John%20M.%20Vlissides-Design%20Patterns_%20Elements%20of%20Reusable%20Object-Oriented%20Software%20%20-Addison-Wesley%20Professional%20%281994%29.pdf)
 * [Dev Tools - ActiveState Platform](https://platform.activestate.com/)
 * [Éléments de programmation structurée | Jean Matte, Louis Villardier | download](https://b-ok.cc/book/2880266/a4de01)
@@ -663,23 +844,17 @@ FP discussion https://www.reddit.com/r/functionalprogramming/s/mvp30BfqJW
 * [yelircaasi - ActiveState Platform](https://platform.activestate.com/yelircaasi)
 * [База знаний - Knowledge base](https://maximgorbatyuk.gitbook.io/knowledge-base/)
 * [Сонмез Джон Путь программиста (2016).pdf](https://vk.com/doc44301783_480806049?hash=593ef83f0c3720790b&dl=624bfb9e4f27c1ab34)
-
-
-
-
-### **Intro to Comp Thinking
+* Intro to Comp Thinking
 * [Dani Rodrik's weblog: What does a development professional need to know?](http://rodrik.typepad.com/dani_rodriks_weblog/2007/06/what_does_a_dev.html)
     From Mathematics to Generic Programming
 * [Manning books](https://b-ok.cc/s/Manning%20Publications/?yearFrom=2020)
-
-
-### **Wicked Cool Shell Scripts: 101 Scripts for Linux, OS X, and UNIX Systems | Dave Taylor, Brandon Perry | download
+* Wicked Cool Shell Scripts: 101 Scripts for Linux, OS X, and UNIX Systems | Dave Taylor, Brandon Perry | download
 * [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)
 * [Home - The Art of Better Programming](https://artofbetterprogramming.com/)
 * [Programming Challenges: The Programming Contest Training Manual | Steven S. Skiena, Miguel Revilla | download](https://b-ok.cc/book/465324/b75edb)
 
 
-### **Codexpedia
+* 212Codexpedia
 * [Sebastian Laguè](https://www.youtube.com/c/SebastianLague)
 * [DIY Guides - Open Sourcerer](http://opensourcerer.diy.org/challenge/3)
 * [CodeCodex](http://www.codecodex.com/wiki/Main_Page)

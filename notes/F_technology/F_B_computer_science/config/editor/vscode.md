@@ -1,5 +1,11 @@
 # VSCode
 
+* https://dev.to/thegeoffstevens/vs-code-settings-you-should-customize-5e75
+* https://code.visualstudio.com/docs
+* https://code.visualstudio.com/docs/remote/containers
+* [VS Code Top 10 Profi-Tipps](https://www.youtube.com/watch?v=eO_IFx6mR4E)
+
+
 vscode  [Setting Up nix-shell and Visual Studio Code to Interact | Matthew Rhone dot Dev](ghttps://matthewrhone.dev/nixos-vscode-environment)
 
 vscode [Color Theme | Visual Studio Code Extension API](ghttps://code.visualstudio.com/api/extension-guides/color-theme%23create-a-new-color-theme)

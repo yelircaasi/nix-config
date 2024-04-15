@@ -1,5 +1,6 @@
 # Other Code Projects
 
+* ## wezterm-python-pdf-reader - write a terminal PDF reader for wezterm using python, matplotlib, and matplotlib, together with python pdf library and matplotlib-backend-wezterm
 
 ## Projects
 

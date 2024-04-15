@@ -2206,3 +2206,64 @@
 
 
 * ```
+
+
+## FOR ROADMAPS
+## for roadmaps
+* https://www.google.com/search?channel=fs&client=ubuntu&q=leet+code+solutions
+* https://leetcode.com/problemset/all/ 
+* https://byucs110.org/
+* [Beginning Bazel: Building and Testing for Java, Go, and More](https://en.de1lib.org/book/5397976/f53e23)
+
+collect D books and resources, add to Roadmaps and Drive
+
+add Software Architecture Patterns book
+* [Build Systems With Go: Everything a Gopher must know](http://libgen.is/book/index.php?md5=3C72718EFA688F90B041DE00E90E95AE)
+* [Core Bazel: Fast Builds For Busy People](https://en.de1lib.org/book/17300626/9c46f7)
+
+Epictetus
+* [Practical System Programming for Rust Developers: Build fast and secure software for Linux/Unix systems with the help of practical example](http://libgen.is/book/index.php?md5=46C9B5B1BED7E89C1326087FB6224676)
+* [Build Your Own Programming Language: A programmer's guide to designing compilers, interpreters, and DSLs for solving modern computing problems](http://library.lol/main/C8DD630A20C1864FC30682992A6A86EE)
+* [A Hunter-Gatherer's Guide to the 21st Century: Evolution and the Challenges of Modern Life](http://library.lol/main/A4B2752A879B2A38FD0D0DBC7194EAB6)
+
+Baggini ethics book in some language to Roadmaps
+
+add C++ für Dummies to Roadmaps
+* [Crafting Interpreters](http://library.lol/main/B91B4DD0DD5A234BD83BE0ED93C28139)
+* https://devguide.python.org/
+* [The Java Virtual Machine Specification. Java SE 21 Edition](https://docs.oracle.com/javase/specs/jvms/se21/jvms21.pdf)
+* https://en.cppreference.com/w/cpp
+* https://gcc.gnu.org/onlinedocs/gcc-12.1.0/gcc.pdf
+* https://shuzhanfan.github.io/
+* https://www.manning.com/books/how-to-read-java
+* [Learning Cython Programming: Expand your existing legacy applications in C using Python](http://library.lol/main/93706512953BDC218DEC9B08928BA511)
+* [Learning Object-Oriented Programming: Explore and crack the OOP code in Python, JavaScript, and C#](http://library.lol/main/F485A9E07966E40D96382FF767A0271D)
+* [Modern Software Engineering: Doing What Works to Build Better Software Faster](http://library.lol/main/BBDB31ABE5C9D28DB49AFBAD040508CE)
+* [Python Testing with pytest: Simple, Rapid, Effective, and Scalable](http://library.lol/main/125561C33F4FDE6E540B5F6664DEE020)
+
+Smola book
+* [Software Build Systems: Principles and Experience](http://library.lol/main/9DE736557A522CCA3434F2B4E254AF07)
+* [The Art of Readable Code](http://libgen.rs/book/index.php?md5=149128E47C5CEA6BE986BEBF001ECC5A)
+* [Visually Explained](https://www.youtube.com/channel/UCoTo2gtN527CXhe7jbP6hUg)
+* [Working effectively with legacy code](http://library.lol/main/2C3232C7E7BBC3C19011DD22AD42A873)
+* [Introduction to numerical programming: a practical guide for scientists and engineers using Python and C/C++](http://library.lol/main/4972CB31DAB7F45914FBA5DB689067AE)
+* https://build2.org/
+
+look for books and articles on psychology and stoicism, evolution and why people worry about things they cannot control
+
+look for books and articles on the psychology of wealth and inequality
+
+* Sort through and eventually delete this page
+*Darwin Among the Machines* and *Turing’s Cathedral*
+
+Software Architect’s Handbook: Become a successful software architect by implementing effective architecture concepts
+
+Облачные архитектуры разработка устойчивых и экономичных облачных приложений.pdf
+* [Структура и интерпретация компьютерных программ](http://library.lol/main/4D228E9600C4588BC0EA11CBD1225203)
+* https://byndyu.ru/antifragileit
+* [Gerald Jay Sussman books](http://libgen.rs/search.php?&req=+Gerald+Jay+Sussman&phrase=1&view=simple&column=author&sort=year&sortmode=DESC)
+
+Pragmatic Programmers Functional Programming Bundle
+* https://www.rheinwerk-verlag.de/openbook/?GPP=openbook
+
+Грокаем технологию Биткоин

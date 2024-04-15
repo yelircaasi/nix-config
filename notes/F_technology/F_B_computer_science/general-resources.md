@@ -1,5 +1,35 @@
 # General Resources for Programming and Computer Science
 
+## Sort
+* [Curated learning resources](https://learnbyexample.github.io/curated_resources/) — Computer Science and Programming, Linux, Vim, Perl, Git and GitHub
+* [Hexlet](https://en.hexlet.io/): Practical programming courses (JavaScript, PHP, Unix, databases, functional programming). A steady path from the first line of code to the first job.
+* https://github.com/preslavmihaylov/booknotes
+* https://www.youtube.com/@IogaMaster 
+* https://github.com/prmadev 
+***** https://m7.rs/
+
+## Cheatsheets, Reference, Wikipedia
+* [Cheatsheets Index | Codecademy](https://www.codecademy.com/resources/cheatsheets/all)
+* https://en.wikipedia.org/wiki/Template:Information_theory
+* https://en.wikipedia.org/wiki/Template:Program_execution
+* https://dzone.com/refcardz
+* https://dzone.com/refcardz
+* https://www.freecodecamp.org/news/markdown-cheat-sheet/
+* https://www.planetgeek.ch/wp-content/uploads/2013/06/Clean-Code-V2.1.pdf
+* [Computer science - Wikipedia](https://en.wikipedia.org/wiki/Computer_science#Computer_architecture_and_computer_engineering)
+* https://opensource.com/downloads/cheat-sheets
+
+## Small Projects* https://itp.nyu.edu/classes/cc-f21/little-coding-project-kaleidoscope/
+* [Project Based Curriculum Lesson Plans](https://docs.google.com/spreadsheets/d/1KXEJvgnAziiePMp2Ovf_ssDqCFFWYuycXWBNp91k3qM/edit#gid=561004611)
+* [5 Projects Every Programmer Should Try - YouTube](https://www.youtube.com/watch?v=jOFco1xuIeo&feature=youtu.be)
+
+## My Writing
+* https://dev.to/yelircaasi
+
+
+## Orgs
+* https://higherorderco.com/
+* https://ourcodingclub.github.io/
 
 ## General Educational Resources
 
@@ -15,7 +45,7 @@
 * https://github.com/jwasham/coding-interview-university
 
 
-## [***Developer Roadmaps](https://roadmap.sh/roadmaps)
+* [***Developer Roadmaps](https://roadmap.sh/roadmaps)
 * https://zetcode.com/
 * [GeeksforGeeks | A computer science portal for geeks](https://www.geeksforgeeks.org/)
 * https://www.freecodecamp.org/learn
@@ -709,3 +739,140 @@ gnuplot ASCII mode
 * https://codereview.stackexchange.com/
 
 FreeCodeCamp
+
+## Courses
+* https://refactoring.guru/uk
+* https://github.com/Foundations-of-Applied-Mathematics
+* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+* [csunplugged](http://csunplugged.org/wp-content/uploads/2015/03/CSUnplugged_OS_2015_v3.1.pdf)
+* [Computer Science Unplugged](https://classic.csunplugged.org/)
+
+## Docs
+* https://www.makeareadme.com/ 
+* [Beautiful Docs](https://github.com/matheusfelipeog/beautiful-docs) → create pull request, add Julia
+* https://github.com/matiassingers/awesome-readme
+
+
+## Learning
+     * [The BEST Coding Interview Roadmap in 2023 (free)](https://www.youtube.com/watch?v=jgQjes7MgTM)
+
+## Project Resources
+* https://github.blog/2023-04-03-calling-all-open-source-maintainers/ 
+* [Martyr2's Mega Project Ideas List! - Share Your Project | Dream.In.Code](https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
+* [10 Great Programming Projects to Improve Your Resume and Learn to Program](https://levelup.gitconnected.com/10-great-programming-projects-to-improve-your-resume-and-learn-to-program-74b14d3e9e16)
+* https://github.com/btakita/philosophy
+* https://github.com/noggatur/philosophy
+* https://github.com/rigelrozanski/philosophy
+* [projects for coding](https://github.com/karan/Projects?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+* [GH Collab Reddit](https://www.reddit.com/r/githubcollab/)
+* [Free Code Camp Project](https://www.freecodecamp.org/news/plan-code-and-deploy-a-startup-in-2-hours/)
+* [Software Tools for Hobby-Scale Projects](https://rickcarlino.com/2019/11/02/software-tools-for-hobby-sized-projects-html.html)
+
+
+## Cheatsheets
+* http://www.cheat-sheets.org/
+* https://bookflow.ru/?s=%D0%A8%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0
+* https://www.codecademy.com/resources/cheatsheets/all
+* https://cheatography.com/programming/
+* https://dev.to/devmount/a-cheatsheet-of-128-cheatsheets-for-developers-f4m
+* https://onecompiler.com/cheatsheets
+* https://bookflow.ru/besplatnye-materialy-dlya-programmistov/
+* https://www.cheatography.com/
+
+## Resources
+* [Reddit - Cheat sheet repository for beginners.](https://www.reddit.com/r/learnprogramming/comments/110v8kw/cheat_sheet_repository_for_beginners/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=10&utm_content=share_button)
+* [Awesome Open Source](https://awesomeopensource.com/)
+* https://sweb.inf.ed.ac.uk/bundy/how-tos/resbible.html
+* [Computed Diff - Diff Checker](https://www.diffchecker.com/diff)
+* http://www.labnol.org/
+* [EduCBA Tutorials](https://www.educba.com/tutorials/)
+* [The Programming Languages Beacon](http://www.lextrait.com/vincent/implementations.html)
+* [Спортивное программирование Часть 1](https://vk.com/wall-16108331_152620)
+* [Спортивное программирование Часть 2](https://vk.com/wall-16108331_152694)
+* https://en.wikipedia.org/wiki/Programming_paradigm
+* https://github.com/mame/quine-relay
+* https://github.com/mame/quine-relay
+* https://programminghistorian.org/
+* [In favour of recursive functions, not imperative constructs,, to make loops](https://www.gresearch.co.uk/article/in-favour-of-recursive-functions-not-imperative-constructs-to-make-loops/)
+    Java, Python, React, Angular, PP, PostgreSQL, Redis, MogoDB, AWS, S3, EC2, ECS, EKS, *nix system administration, Git and CI with TDD, Docker, Kubernetes
+* https://exams.ubccsss.org/potential/
+* https://gitter.im/home/explore
+* https://www.meetup.com/
+
+## Media
+* [Sympolymathesy, by Chris Krycho](https://v5.chriskrycho.com/)
+* https://joshcollinsworth.com/
+* https://eugeneyan.com/ 
+* https://catskull.net/html.html 
+* https://rednafi.com/ 
+* https://praveshkoirala.com/ 
+* https://hirrolot.github.io/ 
+* https://coderslegacy.com/ 
+* https://mathspp.com/blog 
+* https://elevanth.org/blog/ 
+* https://lexfridman.com/
+* https://www.drorpoleg.com/ 
+* https://coderwall.com/
+* https://blog.paperspace.com/
+* https://observablehq.com/community
+* [InfoQ FR: Infos sur le Développement Logiciel, Vidéos et Livres](https://www.infoq.com/fr/)
+* [Stack Advice | StackShare](https://stackshare.io/feed)
+* https://lobste.rs/
+* [https://www.sicpers.info](https://www.sicpers.info/)
+* https://www.youtube.com/@g5min (Graphics, gen CS)
+* https://www.youtube.com/@strager_ 
+* https://www.youtube.com/@chrisatmachine
+* https://www.youtube.com/@cpow85
+* [https://www.youtube.com/@StudyingWithAlex](https://www.youtube.com/@StudyingWithAlex?app=desktop)
+* https://www.youtube.com/@saraepaolo
+
+### Podcasts
+* [Take Up Code](https://open.spotify.com/show/5i2jy4xzmOqUOvWmwrSOsm?si=ttxaYE9FSYCvzdzhMM5QrQ)
+Techtiefen
+* https://deploy.codenation.com.br/podcasts/home
+
+Programming Throwdown
+* https://radiopublic.com/commit-WYMXMl
+
+Kopec Explains Software
+
+### Video
+* https://www.youtube.com/c/EngineerMan/playlists
+* https://github.com/engineer-man/youtube
+* [Лекторий ФПМИ](https://youtube.com/c/%D0%9B%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%B9%D0%A4%D0%9F%D0%9C%D0%98)
+* [Onigiri - YouTube](https://www.youtube.com/c/OnigiriScience)
+* [Quartier Génial](https://www.youtube.com/channel/UCqMbspvn2Nw94kL0l-lXgWg)
+* [Programmieren Starten](https://youtube.com/c/ProgrammierenStarten)
+* https://www.youtube.com/@mycodeschool
+
+
+
+
+### Newsletters
+* https://techleaddigest.net/digests
+* https://programmingdigest.net/digests
+* https://dailytech.email/digests
+
+## Tools and Software Resources
+* https://nbviewer.jupyter.org/
+* https://faust.grame.fr/ functional programming language for signal processing
+* [Top 20 Developer Tools for 2020](https://blog.axosoft.com/top-developer-tools-2020/?utm_campaign=Newsletter&utm_medium=email&_hsmi=96910927&_hsenc=p2ANqtz-_xMLfnWWAymCFFd6SbPgOoJJrxJgkHM3FHuIQHLso_69siawlysvMXFUzE4MudWWNh3iK0MNFcIZmI0uy-lYIKst1WEg&utm_content=96908404&utm_source=hs_email)
+* https://repl.it/site/pricing
+* [https://www.jdoodle.com](https://www.jdoodle.com/)
+* https://colab.research.google.com/drive/1RYWJaMEHVeN8yI83QtL35GOSFQBRgLaX BehaviorSuite
+* https://console.paperspace.com/teukn6ij6/projects
+
+GraphicsMagick GM Utility
+* https://github.com/Textualize/rich-cli
+* https://opensource.com/ *****
+* [Play with Docker](https://www.docker.com/play-with-docker)
+* [Diagram Software and Flowchart Maker](https://www.diagrams.net/)
+* https://paketo.io/docs/ 
+* https://nodepit.com/
+
+### Build Systems
+* https://makefiletutorial.com/
+* https://www.gnu.org/software/make/manual/make.html
+* https://mesonbuild.com/
+* https://github.com/mesonbuild/meson
+

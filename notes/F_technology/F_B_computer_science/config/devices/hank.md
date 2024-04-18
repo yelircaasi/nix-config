@@ -29,7 +29,7 @@ Next steps:
 add nvidia_drm.modeset=1 to /etc/default/grub in GRUB_CMDLINE_LINUX_DEFAULT=, and thats it
 ```sh 
 sudo ubuntu-drivers install
-sed -i 's/GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"/GRUB_CMDLINE_LINUX_DEFAULT="quiet splash nvidia_drm.modeset=1"/g
+sed -i 's/GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"/GRUB_CMDLINE_LINUX_DEFAULT="quiet splash nvidia_drm.modeset=1"/g' /etc/default/grub
 sudo update-grub # sudo apt-install nvidia-driver-535
 sudo reboot
 ```

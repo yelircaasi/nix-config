@@ -4,6 +4,8 @@
 
 ## Sort 
 
+* [benlubas](https://github.com/benlubas/nix-config/blob/main/programs/neovim.nix)
+* [](https://github.com/rufevean/nvim)
 * https://nvoid.org/
 * [mateiadrielrafael](https://github.com/Mateiadrielrafael/everything-nix)
 * [gaelle](https://framagit.org/vegaelle/nix-nvim)

@@ -182,7 +182,13 @@
 * [Code Sports - Channel Introduction - What this channel is](https://www.youtube.com/watch?v=LBobO4sSBAc&list=WL&index=519) all about
 * [Defend Intelligence](https://www.youtube.com/c/DefendIntelligence-tech)
 ### YouTube
-#### One-Shot Tech / Math / Science → SORT    
+#### One-Shot Tech / Math / Science → SORT
+* https://www.reddit.com/r/functionalprogramming/s/7GT4lffGvp Functional Core, …
+* https://blog.trl.sn/blog/what-is-a-json-number/
+* https://posit-dev.github.io/great-tables/blog/design-philosophy/
+* https://info.deeplearning.ai/autonomous-coding-agents-instability-at-stability-ai-mamba-mania-what-users-do-with-genai-2 
+* https://neurosciencenews.com/creative-flow-neuroscience-25918/
+* https://venturebeat.com/ai/move-over-deep-learning-symbolicas-structured-approach-could-transform-ai/
 * [I built the same app 10 times // Which JS Framework](https://www.youtube.com/watch?v=cuHDQhDhvPE&list=WL&index=1) is best?    
 * [British economist Grace Blakeley on Amazon, capitalism & socialism - Jung & Naiv: Ep](https://www.youtube.com/watch?v=9p5S2_iDScA&list=WL&index=2)isode 540    
 * [The Evolution of Convolution Neural](https://www.youtube.com/watch?v=Y2Tna77k1aI&list=WL&index=3) Networks    

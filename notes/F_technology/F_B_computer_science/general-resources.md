@@ -26,6 +26,13 @@
 ## My Writing
 * https://dev.to/yelircaasi
 
+## Hardware
+* https://ryf.fsf.org/categories/laptops 
+* https://www.reddit.com/r/GUIX/comments/l1xx3g/laptop_recommendations_for_gnu_guix/ 
+* https://libreplanet.org/wiki/Group:Hardware/TODO/DUPLICATE_INFO/Freest
+* https://www.h-node.org/hardware/catalogue/en
+* https://libreboot.org/docs/hardware/
+* [https://www.reddit.com/r/pcmasterrace/comments/1bh6t1p/what_would_you_change/](https://www.reddit.com/r/pcmasterrace/comments/1bh6t1p/what_would_you_change/)
 
 ## Orgs
 * https://higherorderco.com/
@@ -392,11 +399,11 @@ Th Morpheus Tutorials
 
 
 ## Podcasts
-*[Code Newbie Podcast](http://www.codenewbie.org/) -* Great interviews with programmers and advice for those just starting to learn to program.
-*[Learn to Code with Me](http://learntocodewith.me/podcast/) -* Another great podcast geared towards beginning programmers.
-*[Front End Happy Hour](http://frontendhappyhour.com/) -* Fun podcast with a roundtable of professional developers that tackle languages, frameworks, and other related things.
-*[The Changelog](https://changelog.com/podcast) -* Conversations with the hackers, the leaders, and the innovators of software development.
-
+* [Code Newbie Podcast](http://www.codenewbie.org/) -* Great interviews with programmers and advice for those just starting to learn to program.
+* [Learn to Code with Me](http://learntocodewith.me/podcast/) -* Another great podcast geared towards beginning programmers.
+* [Front End Happy Hour](http://frontendhappyhour.com/) -* Fun podcast with a roundtable of professional developers that tackle languages, frameworks, and other related things.
+* [The Changelog](https://changelog.com/podcast) -* Conversations with the hackers, the leaders, and the innovators of software development.
+* https://www.devtools.fm/episodes
 changelog master feed
 * https://adspthepodcast.com/2022/04/08/Episode-72.html
 * https://fossandcrafts.org/

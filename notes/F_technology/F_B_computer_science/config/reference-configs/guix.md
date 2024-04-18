@@ -1,5 +1,6 @@
 
 # Guix Configurations
+* [mccd](https://git.mccd.space/)
 * [Guix Sway](https://www.youtube.com/watch?v=OYbenLOm3Js)
 * [migalmoreno](https://github.com/migalmoreno/guix-config)
 * [daviwil](https://config.daviwil.com/desktop)

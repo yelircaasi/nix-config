@@ -131,6 +131,152 @@ the universal computer
 * [Software Modeling and Design: UML, Use Cases, Patterns, and Software Architectures](https://de1lib.org/book/1108322/de9d89)
 * https://github.com/mark-watson/free-older-books-and-software/tree/main 
 
+## Linux
+Unix Power Tools, Third Edition
+
+The Art of UNIX Programming
+
+Linux глазами хакера. Михаил Фленов
+
+The Linux Programming Interface
+
+### General
+* [Linux Bible](http://library.lol/main/68A63FA40A301299F4B21CB8899414D8) 
+* [Linux: The Ultimate Guide](http://library.lol/main/297F517AF8B6698C77D1F5EDA1DD6BA3) 
+* [Linux Command Line and Shell Scripting Bible](http://library.lol/main/83D73257C1AFD8DE91F3CA52DE118FCF) 
+
+
+### Shell & Specific Shell Tools
+* [Computing from the Command Line](https://learnbyexample.github.io/cli-computing/) (book)
+* [Command-Line Text Processing with GNU Coreutils](https://learnbyexample.github.io/cli_text_processing_coreutils/) (book)
+* [GNU Grep and Ripgrep](https://learnbyexample.github.io/learn_gnugrep_ripgrep/) (book)
+* [GNU SED](https://learnbyexample.github.io/learn_gnused/) (book)
+* [GNU Awk](https://learnbyexample.github.io/learn_gnuawk/) (book)
+
+
+### Kernel, Low-Level
+* [Linux Kernel Programming: A comprehensive guide to kernel internals, writing kernel modules, and kernel synchronization](http://library.lol/main/5101B7A38854D9EBD359C9A74D2686EF)
+* [Foundations  of Linux Debugging, Disassembling, and Reversing: Analyze Binary Code, 
+* Understand Stack Memory Usage, and Reconstruct C/C++ Code with Intel x64](http://library.lol/main/7C3D6AAD13BD65F99F5981D8CA04728B)** 
+
+
+### Specific Topics
+* [The anatomy of the modern window manager](http://library.lol/main/C392F948ADD053F40ABE01AACE37ED57)
+
+
+## Low-Level
+* [Computer Fundamentals and Programming in C (RMK)](http://library.lol/main/5451DA2A154B586763B5853C6103B79B)
+* [The Art of 64-Bit Assembly, Volume 1: x86-64 Machine Organization and Programming](http://libgen.rs/book/index.php?md5=C398EF04EFA5F287DEDF5823F66E2E15)
+* [Digital Circuit Design for Computer Science Students: An Introductory Textbook](https://en.de1lib.org/book/2113498/8b17a8)
+* [Dive Into Systems | No Starch Press](https://nostarch.com/dive-systems)
+* http://mirror.netcologne.de/savannah/pgubook/ProgrammingGroundUp-1-0-booksize.pdf
+* [x86-64 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/assembly64.pdf)
+* https://beginners.re/ - Reverse Engineering for Beginners
+* [Lenguaje ensamblador. Para computadoras basadas en Intel](https://en.de1lib.org/book/7232940/fc2a85)
+* [The Design and Implementation of the FreeBSD Operating System](http://library.lol/main/BC62CC0F2AD546D5A7B2D2C610EE14AE)
+* [Compiler Design: Virtual Machines | Reinhard Wilhelm, Helmut Seidl (auth.) | download](https://b-ok.cc/book/766491/3c046e?dsource=recommend)
+* [Introduction to Compiler Design | Torben Ægidius Mogensen (auth.) | download](https://b-ok.cc/book/3395219/311dfc?dsource=recommend)
+* [Основы операционных систем](https://vk.com/wall-16108331_151042)
+* [Digital Design and Computer Architecture](https://drive.google.com/file/d/1_LJF6mZVvC9-DFRwflPe-E83waDjfwxV/view?usp=sharing)
+* [Peter Norton's New Inside the PC](http://library.lol/main/EF42D439645F208E52DD5548CE8C7C1D)
+* [Peter Norton's Introduction to Computers [6 ed.]](http://libgen.rs/book/index.php?md5=754215D71465979FAEFD5CCE84EF03DC)
+* [Peter Norton's Introduction to Computers [6 ed.]](http://libgen.rs/book/index.php?md5=754215D71465979FAEFD5CCE84EF03DC)
+* [Dem Computer ins Hirn geschaut: Informatik entdecken, verstehen und querdenken](https://b-ok.cc/book/3395994/702ba3)
+* [Computerhardware für Anfänger – Wikibooks, Sammlung freier Lehr-, Sach- und Fachbücher](https://de.wikibooks.org/wiki/Computerhardware_f%C3%BCr_Anf%C3%A4nger)
+* [x86-64_Assembly_Language_Programming_with_Ubuntu_2019_Ed_Jorgensen.pdf](https://vk.com/doc10943591_611739633?hash=4dbcc3250e34cc6c90&dl=8d3eb4cbfeee94f847)
+* [The anatomy of a compiler](http://library.lol/main/4D02C33EF0677E8AA96976D6CC9A9162)
+* [Usborne introduction to Machine Code for beginners [1983].pdf](https://vk.com/doc44301783_619170478?hash=000facf5d2c218b683&dl=084d943509589eeddb)
+* [Designing Digital Systems With SystemVerilog.pdf](https://vk.com/doc348852382_473199607?hash=05569d305d0aed5dd9&dl=ae42d4d1be79c0e858)
+^ [The Intel Microprocessors](http://library.lol/main/95EFF0E41BC82379161DF0C63EC6FA9A)
+* [The Intel microprocessors: 8086/8088, 80186/80188, 80286, 80386, 80486, Pentium, Pentium Pro processor, Pentium II, Pentium III, Pentium 4, and Core2 with 64-bit extensions: architecture, programming, and interfac](http://library.lol/main/25F0EE11544F6D593C817B9182103DEE)ing
+* [Betriebssystem: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/Betriebssystem)
+* [Langage Assembleur PC](https://pacman128.github.io/static/pcasm-book-french.pdf)
+* [X86 Assembly/NASM Syntax - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/X86_Assembly/NASM_Syntax)
+* [Robert G. Plantz, Introduction to Computer Organization with x86-64 Assembly Language & GNU/Linux](https://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html)
+* http://library.bagrintsev.me/ASM/Introduction%20to%2064bit%20Intel%20Assembly%20Language%20Programming%20for%20Linux.2011.pdf
+* [Introduction To Computer Organisation - An Under-the-Hood Look at Hardware and x86-64 Assembly](http://library.lol/main/0E4377FB561B05A618466AE1E5B7928C)
+* [Mastering Assembly Programming | Alexey Lyashko | download](https://b-ok.cc/book/3417765/94b0bc)
+* [Java Virtual Machine | Troy Downing, Jon Meyer | download](https://b-ok.cc/book/3580933/747a76?dsource=recommend)
+* [**Principles of Computer Organization and Assembly Language: Using the Java Virtual Machine | Patrick Juola | download](https://b-ok.cc/book/1272172/4bacd0?dsource=recommend)
+* https://www.jjj.de/fxt/fxtbook.pdf - Matters Computational
+* [Advanced Design and Implementation of Virtual Machines | Xiao-Feng Li | download](https://b-ok.cc/book/2846674/db8410)
+
+* [Library Genesis: Dennis Andriesse - Practical Binary Analysis. Build Your Own Linux Tools for Binary Instrumentation, Analysis, and Disassembly](http://libgen.rs/book/index.php?md5=919D2F827FCF602321C0F61AD3FB8E08)
+* [Library Genesis: Jürgen Walter (auth.) - Mikrocomputertechnik mit der 8051-Controller-Familie: Hardware, Assembler, C](http://libgen.rs/book/index.php?md5=4B00D6B5C3141DFBB603E346D657F74F)
+* [Library Genesis: Юров В.И. - Assembler](http://libgen.rs/book/index.php?md5=829AE04CC30DB94E7DF63986064F1A37)
+Шпаргалка по общей электронике и электротехнике
+Электроника и микропроцессорная техника, Гусев В.Г., Гусев Ю.М. (2013)
+* [Understanding Modern Transistors and Diodes](http://libgen.rs/book/index.php?md5=9BD525FF74B5CA98B95835055F7E6F9C)
+* [Физические основы электроники. Транзисторы. Гальваномагнитные и термоэлектрические приборы. Оптоэлектронные приборы. Учебное пособие](http://libgen.rs/book/index.php?md5=D3369C4BB1CA6A54960291CDD2AB9754)
+* [Чарльз Платт - Энциклопедия электронных компонентов. Том 1. Резисторы, конденсаторы, катушки индуктивности, переключатели, преобразователи, реле, транзисторы](http://libgen.rs/book/index.php?md5=41AAEF4DD3A06CE0EE6433007222BD31)
+* [Charles Platt - Encyclopedia of Electronic Components Volume 1: Resistors, Capacitors, Inductors, Switches, Encoders, Relays, Transistors](http://libgen.rs/book/index.php?md5=90F587CA2AF6060D1FAED827FA77E397)
+* [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/)
+* [Electrical Machines_Slobodan N. Vukosavic_2012](http://link.springer.com/openurl?genre=book&isbn=978-1-4614-0400-2)
+* [Electricity and Magnetism_Teruo Matsushita_2014](http://link.springer.com/openurl?genre=book&isbn=978-4-431-54526-2)
+* [Electromagnetism](http://library.lol/main/E77C2F26808B7CE6D06EC1730130BAC0)
+* [Electronics for Embedded Systems_Ahmet Bindal_1st ed. 2017](http://link.springer.com/openurl?genre=book&isbn=978-3-319-39439-8)
+* [Engineering Electromagnetics_Nathan Ida_3rd ed. 2015](http://link.springer.com/openurl?genre=book&isbn=978-3-319-07806-9)
+* [Fundamentals of Electronics, Book 2: Amplifiers: Analysis and Design](http://library.lol/main/9E66EA7587E0C3AA38D2DECF6F149CA4)
+* [Fundamentals of Electronics, Book 3: Active Filters and Amplifier Frequency Response](http://library.lol/main/7FC6FE8D2A48E34F1EFE08178821F9B9)
+* [Fundamentals of Electronics, Book 4: Oscillators and Advanced Electronics Topics](http://library.lol/main/CBE5FEE4DF739BEE3448BF143F355078)
+* [Fundamentals of Electronics: Book 1: Electronic Devices and Circuit Applications](http://library.lol/main/6C635E18A11F3473B92AA082E4BAA6CE)
+* [Introduction to Electronic Commerce and Social Commerce_Efraim Turban, Judy Whiteside, David King, Jon Outland_4th ed. 2017](http://link.springer.com/openurl?genre=book&isbn=978-3-319-50091-1)
+* [Introduction to Logic Circuits & Logic Design with Verilog_Brock J. LaMeres_1st ed. 2017](http://link.springer.com/openurl?genre=book&isbn=978-3-319-53883-9)
+* [Introduction to Logic Circuits & Logic Design with Verilog_Brock J. LaMeres_2nd ed. 2019](http://link.springer.com/openurl?genre=book&isbn=978-3-030-13605-5)
+* [Introduction to Logic Circuits & Logic Design with VHDL_Brock J. LaMeres_1st ed. 2017](http://link.springer.com/openurl?genre=book&isbn=978-3-319-34195-8)
+* [Introduction to Logic Circuits & Logic Design with VHDL_Brock J. LaMeres_2nd ed. 2019](http://link.springer.com/openurl?genre=book&isbn=978-3-030-12489-2)
+* [Kholodov_Yu_A_-_Mozg_v_elektromagnitnykh_polyakh.djvu](https://vk.com/doc30601958_513338230?hash=72e017a2e9c39da777&dl=637df65c2cde495679)
+* [Off-Grid Electrical Systems in Developing Countries_Henry Louie_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-91890-7)
+* [Physics of Semiconductor Devices_Massimo Rudan_2015](http://link.springer.com/openurl?genre=book&isbn=978-1-4939-1151-6)
+* [Practical Electrical Engineering_Sergey N. Makarov, Reinhold Ludwig, Stephen J. Bitar_1st ed. 2016](http://link.springer.com/openurl?genre=book&isbn=978-3-319-21173-2)
+* [Reading and Writing the Electronic Book (Synthesis Lectures on Information Concepts, Retrieval, and Services)](http://library.lol/main/302650622EAC3B2C0E8C5D4E520E1565)
+* [The Physics of Semiconductors_Marius Grundmann_3rd ed. 2016](http://link.springer.com/openurl?genre=book&isbn=978-3-319-23880-7)
+
+Grundlagen der Digitaltechnik
+* [Электроника | Схемотехника | Микроконтроллеры | Physics.Math.Code.Books](https://vk.com/topic-51126445_31810017)
+* [Microcontrollers Fundamentals for Engineers And Scientists](http://library.lol/main/78EEF34CE7DFF50814606371C4C66F8B)
+* [Reactive Power Control in AC Power Systems_Aghbolaghi, Nicu Bizon, Frede Blaabjerg_1st ed. 2017](http://link.springer.com/openurl?genre=book&isbn=978-3-319-51118-4)
+* [Arbeitsbuch zur Elektrotechnik](https://b-ok.cc/book/2113953/4d1669)
+* [Electronics for Beginners: A Practical Introduction to Schematics, Circuits, and Microcontrollers](http://library.lol/main/83F62DC54FD565C48EE927AEB0F8EBDB)
+* [Linux Kernel Books](http://libgen.rs/search.php?&req=billimoria&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+
+### Boot    * [The BIOS companion](http://library.lol/main/BBB4B14C71ACAEF74426BEFBFA25402D)    * [Beyond BIOS: Developing with the Unified Extensible Firmware Interface](http://library.lol/main/99ACD9F82FDDF5996238C6596D66AA5A) 
+* https://coreboot.org/     * [Harnessing the Uefi Shell: Moving the Platform Beyond Dos](http://library.lol/main/9F60269484B41B81E4CCCE4FD78C05E7)
+### LLVM
+* [Использование платформы LLVM для динамической генерации машинного кода](http://libgen.is/book/index.php?md5=D0A6B907C268A7CF3D45A62FA9EC53CA)
+* [Обфусцирующий компилятор на базе LLVM](http://libgen.is/book/index.php?md5=A00CCAC8CC106F5C071829434E5854CF)
+* [LLVM Cookbook](http://libgen.is/book/index.php?md5=41DDD204391262C262E0B0247529D322)
+* [LLVM essentials : become familiar with the LLVM infrastructure and start using LLVM libraries to design a compiler](http://libgen.is/book/index.php?md5=71E61E36EA62E1F8EAAB1DCD7DC35BFC)
+* [Implementing a language with LLVM](http://libgen.is/book/index.php?md5=8A915FAB4A56BB13A4957C562FB7AB9E)
+* [Implement an imperative language compiler in Haskell using LLVM](http://libgen.is/book/index.php?md5=AF4D8B5F67FE7C451A28E4985B8B49C0)
+* [Kaleidoscope - Implementing a Language with LLVM in Objective Caml](http://libgen.is/book/index.php?md5=EFAF50A983AE7876D5E882CACFF3FFC7)
+* [Learn LLVM 12: A beginner's guide to learning LLVM compiler tools and core libraries with C++ [1 ed.]](http://libgen.is/book/index.php?md5=B2EDD27AF2BD9994BE659E84F6A364C7)
+* [LLVM Techniques, Tips, and Best Practices: Clang and Middle-End Libraries](http://libgen.is/book/index.php?md5=31DFB992C6884FC446073DA8F4CEB9C3)
+* [LLVM essentials : become familiar with the LLVM infrastructure and start using LLVM libraries to design a compiler](http://libgen.is/book/index.php?md5=71E61E36EA62E1F8EAAB1DCD7DC35BFC)
+* [LLVM. инфраструктура для разработки компиляторов](http://library.lol/main/CA2D4A415DC0BC98DE2D488E13B8C711)
+* [Getting Started with LLVM Core Libraries: Get to grips with LLVM essentials and use the core libraries to build advanced tools](http://libgen.is/book/index.php?md5=8B9B19F1DA135A51E7307B6B49900CD1)
+* [https://mlir.llvm.org](https://mlir.llvm.org/)
+
+## LLM Books
+* [Library Genesis: Mike Loukides - What Are ChatGPT and Its Friends?](http://libgen.is/book/index.php?md5=930099780BF17240C5C65CB58DE2690B)
+* [Library Genesis: Donna McGeorge - The ChatGPT Revolution: How to Simplify Your Work and Life Admin with AI](http://libgen.is/book/index.php?md5=BC4BAC7AF148772A5AEC5CA5BBE86418)
+* [Library Genesis: Sinan Ozdemir - Quick Start Guide to Large Language Models: Strategies and Best Practices for using ChatGPT and Other LLMs](http://libgen.is/book/index.php?md5=BABE444C707F205D22DD301AAF22B68F)
+* [Library Genesis: Insiders AI - 600+ ChatGPT Prompts](http://libgen.is/book/index.php?md5=619E0ECFC88BFDA1E458A8ACC25D6A33)
+* [Library Genesis: Christian Rieck - Schummeln mit ChatGPT: Texte verfassen mit künstlicher Intelligenz für Schule, Uni und Beruf. Auch für Bing. Der aktuelle Ratgeber für das Schreiben mit KI wie Chat GPT, GPT 3 und 4 mit den besten Prompts](http://libgen.is/book/index.php?md5=612ED716513194301CC6583CF15F01B6)
+* [Library Genesis: Marco Trainito - Filosofare con ChatGPT. Dialoghi (im)possibili con nove grandi spiriti del passato e un dramma teatrale](http://libgen.is/book/index.php?md5=00661005378945AE62AE1418F684C77E)
+* [Library Genesis: David Mertz - Regular Expression Puzzles and AI Coding Assistants: 24 puzzles solved by the author, with and without assistance from Copilot, ChatGPT and more](http://libgen.is/book/index.php?md5=24B1D0BE9B08FA14D1DEFE2BD480D9ED)
+* [Library Genesis: Stephen Wolfram - What Is ChatGPT Doing ... and Why Does It Work?](http://libgen.is/book/index.php?md5=7987121BA3E08BA2278C985A5592095A)
+* [Library Genesis: Ibrahim John - The Art of Asking ChatGPT for High-Quality Answers: A Complete Guide to Prompt Engineering Techniques](http://libgen.is/book/index.php?md5=B97CF5463DFB8EBB50FF1A6DDC98BD2D)
+* [Library Genesis: Stephen Wolfram - What Is ChatGPT Doing ... and Why Does It Work?](http://libgen.is/book/index.php?md5=274B1F023815093E114EEA7A6FF4915D)
+* [Library Genesis: Gentry B. Ferguson - ChatGPT for Dummies: The Most Complete and Easy-To-Use Guide for Writers, Programmers, Businesses and Content Creators](http://libgen.is/book/index.php?md5=04E223B8F308214C2CC07C94593A704E)
+* [Library Genesis: TJ Books - Mastering ChatGPT: Create Highly Effective Prompts, Strategies, and Best Practices to Go From Novice to Expert](http://libgen.is/book/index.php?md5=FBA0FDAC7603838976040EB302BE1AD5)
+* [Library Genesis: Sean A Williams - ChatGPT for Coders Unlock the Power of AI with ChatGPT: A Comprehensive Guide to Efficient and Effective Coding](http://libgen.is/book/index.php?md5=B507D2167736D448F7E9504F76A18E7E)
+* [Library Genesis: Pamela Baker - ChatGPT For Dummies](http://libgen.is/book/index.php?md5=8FDE72E48A988D067104737E917B3DAE)
+* [Library Genesis: Valentina Alto - Modern Generative AI with ChatGPT and OpenAI Models](http://libgen.is/book/index.php?md5=45034BA52CD880FE9B7A252E1154AC3D)
+* [Library Genesis: Valentina Alto - Modern Generative AI with ChatGPT and OpenAI Models: Leverage the capabilities of OpenAI's LLM for productivity and innovation with GPT3 and GPT4](http://libgen.is/book/index.php?md5=69DA4C5D398EB44B2FCA7179CAC1B47C)
+* [Library Genesis: Aiki Robot - Das große ChatGPT Buch - Wie künstliche Intelligenz (KI) unser Leben verändert: Chancen, Risiken und Herausforderungen der Entwicklung von künstlicher Intelligenz (KI) für Gesellschaft und Wirtschaft](http://libgen.is/book/index.php?md5=3E59021448D9358C056AEDBA8AE991EA)
+* [Library Genesis: Kai Spriestersbach - Richtig texten mit KI - ChatGPT, GPT-4, GPT-3 & Co.: Texte schreiben mithilfe Künstlicher Intelligenz für Job, Uni und Websites - schneller und besser als je zuvor. Beispiele aus der Praxis inkl. über 100 Prompts ausführlich erklärt!](http://libgen.is/book/index.php?md5=A2D0BAEF0A025C782AA48B529F91D62E)
+* [Library Genesis: Denis Rothman - Transformers for Natural Language Processing: Build, train, and fine-tune deep neural network architectures for NLP with Python, Hugging Face, and OpenAI's GPT-3, ChatGPT, and GPT-4, 2nd Edition](http://libgen.is/book/index.php?md5=6E55CD878CE9B3E325385EF65283C86B)
 ## ML
 
 * [Deep Learning for Computer Architects](http://library.lol/main/AB710DE7AB16389984A71CB404155CA7)
@@ -234,7 +380,7 @@ the universal computer
 * [AI and Ethics. A computational perspective](https://iopscience.iop.org/book/mono/978-0-7503-6116-3.pdf)
 
 
-## ML General
+### ML General
 * http://dlib.net/books.html
 * [Best Machine Learning Books (Updated for 2020)](https://blog.floydhub.com/best-machine-learning-books/)
 * [Applied Neural Networks with TensorFlow 2: API Oriented Deep Learning with Python](http://libgen.is/book/index.php?md5=BB84DD2ACCA9A1E06E4B3E9FC0D0B7C0)
@@ -525,7 +671,16 @@ the universal computer
 * [Best Deep Learning Books: Updated for 2019](https://blog.floydhub.com/best-deep-learning-books-updated-for-2019/)
 * [<-](http://libgen.is/search.php?req=Andrew+Glassner+From+Basics+to+Practice&open=0&res=25&view=simple&phrase=1&column=def)
 
-## Clustering
+### MLOps
+* Applied Natural Language Processing in the Enterprise
+* Machine Learning Engineering with MLFlow
+* Engineering MLOps
+* Machine Learning Engineering in Action
+* Building Machine Learning Pipelines
+* Machine Learning Design Patterns
+* Machine Learning Engineering
+
+### Clustering
 * [Library Genesis: - Survey of Text Mining I: Clustering, Classification, and Retrieval](https://libgen.is/book/index.php?md5=C551C048520686368DB15F620DEE212A)
 * [Library Genesis: Alboukadel Kassambara - Practical Guide to Cluster Analysis in R. Unsupervised Machine Learning](https://libgen.is/book/index.php?md5=7CBE43DE8C4F13ACDC7601338128BC36)
 * [Library Genesis: Anil K. Jain, Richard C. Dubes - Algorithms for clustering data](https://libgen.is/book/index.php?md5=10EB6A5BFCEDE306EFA86D4DEDC6D5D4)
@@ -545,10 +700,10 @@ the universal computer
 * [Library Genesis: Witold Pedrycz - Knowledge-based clustering: from data to information granules](https://libgen.is/book/index.php?md5=98EACD521082D52B09B6FC2890EAD7A7)
 
 
-## Autodiff    * [The Art of Differentiating Computer Programs: An Introduction to Algorithmic Differentiation](http://library.lol/main/85F1B05D3FD8A4F541460CE1BB6816D3)    * [Recent Advances in Algorithmic Differentiation](http://library.lol/main/C27D847C466C743F10002FD6554D0533)    * [Evaluating derivatives: principles and techniques of algorithmic differentiation](http://library.lol/main/4099B9B0E52FDDDED80AF6750FFCB9B0)    * [Algorithmic Differentiation in Finance Explained](http://library.lol/main/E955C1FE1EA6D8C9FEA08D49FECB9776)
+### Autodiff    * [The Art of Differentiating Computer Programs: An Introduction to Algorithmic Differentiation](http://library.lol/main/85F1B05D3FD8A4F541460CE1BB6816D3)    * [Recent Advances in Algorithmic Differentiation](http://library.lol/main/C27D847C466C743F10002FD6554D0533)    * [Evaluating derivatives: principles and techniques of algorithmic differentiation](http://library.lol/main/4099B9B0E52FDDDED80AF6750FFCB9B0)    * [Algorithmic Differentiation in Finance Explained](http://library.lol/main/E955C1FE1EA6D8C9FEA08D49FECB9776)
 
 
-## DL
+### DL
 * Neural Networks and Deep Learning
     Глубокое обучение
 * SLP 9. Deep Learning Architectures for Sequence Processing
@@ -598,7 +753,7 @@ the universal computer
 * http://libgen.is/search.php?&req=evolutionary+algorithms&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
 
 
-## Deep RL
+### Deep RL
 * [Deep Reinforcement Learning in Action](http://libgen.is/book/index.php?md5=F2F28879523CAE239FFB89EA6A533A1A)
 * [Foundations of Deep Reinforcement Learning: Theory and Practice in Python](http://libgen.is/book/index.php?md5=8363B2F5DA18CE9A2F0A9C633D96675D)
 * [Deep Reinforcement Learning Hands-On: Apply modern RL methods to practical problems of chatbots, robotics, discrete optimization, web automation, and more, 2nd Edition](http://libgen.is/book/index.php?md5=F4D1A90C476A576238E8FE1F47602C67)
@@ -607,7 +762,7 @@ the universal computer
 * [Deep Reinforcement Learning -- Das umfassende Praxis-Handbuch](https://de.de1lib.org/book/17917854/601596)
 
 
-## CV
+### CV
 * Computer Vision. A Reference Guide
 * TensorFlow 2.0 Computer Vision Cookbook
 * Mastering Computer Vision with TensorFlow 2.x
@@ -627,5 +782,129 @@ the universal computer
 * [Reinforcement Learning From Scratch: Understanding Current Approaches - with Examples in Java and Greenfoot](http://library.lol/main/A571D1C872BF54E00FC2DEC784A1FE7E)
 
 
+## Web
+#### HTML and CSS (+ JavaScript, PHP, etc.)
+* [Jürgen Wolf - HTML5 und CSS3 Das umfassende Handbuch zum Lernen und Nachschlagen. Inkl. JavaScript, Bootstrap, Responsive Webdesign u. v. m](http://libgen.rs/book/index.php?md5=E3A77A243DD4F1CF26DE39C25664B761)
+* CSS (Cascading Style Sheets) Visual Dictionary
+* [HTML, CSS, and JavaScript All in One: Covering HTML5, CSS3, and ES6, Sams Teach Yourself](https://b-ok.cc/book/17379791/37f425)
+* http://libgen.rs/search.php?&req=Jon+Duckett&phrase=1&view=simple&column=def&sort=extension&sortmode=DESC
+* [Создаем динамические веб-сайты с помощью PHP, MySQL, JavaScript, CSS и HTML5](http://library.lol/main/349747FC0EAE0D19785022B845724029)
+* HTML and CSS: Design and Build Websites
+* HTML and CSS: Design and build websites, by Jon Duckett
+* Learning Web Design: A beginner’s guide to HTML, CSS, Javascript, and Web Graphics, By Jennifer Niederst Robbins
+* [Responsive Web Design](https://amzn.to/2HMo0TU)
+* [CSS Mastery: Advanced Web Standards Solutions](https://amzn.to/2PIiRTh)
+* Web development and design foundations with HTML5
+* Web Programming with HTML5, CSS, and JavaScript
+* [11. Don’t Make Me Think, Revisited: A Common Sense Ap](https://elementor.com/blog/best-web-development-books/#dont-make-me-think-revisited)proach to Web Usability
+* [Front-End Web Development: The Big Nerd Ranch Guide](https://amzn.to/2PJGXx1)
+* [Introduction to Web Interaction Design With HTML and CSS](http://libgen.rs/book/index.php?md5=5FE49D8CC1F94C6F5DE0C6D662C9ECA6)
+* [Rersponsive Web Design with HTML 5 and CSS [9 ed.]](http://libgen.rs/book/index.php?md5=00E34EA266D258B4386F5E48EBB18D81)
+* [Don’t make me think revisited](https://amzn.to/2HITSZO)
+* [Designing with Web Standards](https://amzn.to/2PGV2eJ)
+* [1. Web Design With HTML, CSS, JavaScript and jQuery Set](https://elementor.com/blog/best-web-development-books/#web-design-with-html-css-javascript-and-jquery-set)
+* [HTML & CSS: The Complete Reference](https://b-ok.cc/book/686727/6ee098)
+* CSS Master
+* HTML and CSS. Learn The Fundamentals In 7 days
+* CSS (with HTML5): Learn CSS in One Day and Learn It Well. CSS for Beginners with Hands-on Project. Includes HTML5. (Learn Coding Fast with Hands-On Project Book 2)
+* Introduction To HTML & CSS Learn To Code Websites Like A Pro
+* Integrated HTML and CSS: A Smarter, Faster Way to Learn
+* Sams Teach Yourself HTML, CSS & JavaScript Web Publishing in One Hour a Day
+* Architecting CSS - The Programmer’s Guide to Effective Style Sheets
+* CSS in 44 minutes
+* CSS Secrets: Better Solutions to Everyday Web Design Problems
+* [Schrödinger lernt HTML5, CSS3 und JavaScript: das etwas andere Fachbuch](http://libgen.rs/book/index.php?md5=DDA87C3501CB0213A28E5D1DB4A244F1)
+* [Sams Teach Yourself HTML, CSS & JavaScript Web Publishing in One Hour a Day](https://b-ok.cc/book/2652131/77c1ca)
+* Responsive Web Design with HTML5 and CSS: Develop future-proof responsive websites using the latest HTML5 and CSS techniques
 
 
+#### PHP & Co.
+* [9. PHP and MySQL for Dynamic Web Sites](https://elementor.com/blog/best-web-development-books/#php-and-mysql-for-dynamic-web-sites): Visual QuickPro Guide
+* [10. PHP Objects,](https://elementor.com/blog/best-web-development-books/#php-objects-patterns-and-practice) Patterns, and Practice
+* [Programming PHP](http://library.lol/main/4EEE20597C81294D21B10B338994DB31)
+* [PHP 8 Basics. For Programming and Web Development](http://library.lol/main/874A36DA4E06FD7F9C01DE605ECA0B49)
+* [Test-Driven
+     Development with PHP 8. Build extensible, reliable, and maintainable 
+    enterprise-level applications using TDD and BDD with PHP](http://libgen.is/book/index.php?md5=4F959B7DDC9D43D2E30FC730FD6B798A)
+* [PHP Cookbook: Modern Code Solutions for Professional PHP Developer *[8 ed.]*](http://libgen.is/book/index.php?md5=D1B4D02FE0AAE6124B8ADAC684F7CCA8)
+* [PHP 8 for Absolute Beginners: Basic Website and Web Application Development](http://library.lol/main/60207B2BEFA94A371432AB4FF48793D6)
+* [PHP 8 Quick Scripting Reference: A Pocket Guide to PHP Web Scripting *[3rd ed.]*](http://libgen.is/book/index.php?md5=85B04A27FB0E4F7C2A822495816890BD)
+* [PHP: The Ultimate Guide](http://library.lol/main/AAA793EE7E3BEC8248912278C360610C)
+* [JavaScript и PHP. Content management system : учебное пособие](http://library.lol/main/9A8CC2E44322DEF5C53106187FACA48C)
+* [JavaScript и PHP. Content management system. + Электронное приложение: Учебное пособие для вузов](http://library.lol/main/E8058B6E5D31FC47E57CF7694498DF6C) 
+* The Joy of PHP Programming: By Alan Forbes
+* [PHP & MySQL: The Missing Manual Book](https://www.amazon.in/gp/product/144934190X/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=geeksforgeeks-21&creative=24630&linkCode=as2&creativeASIN=144934190X&linkId=d258893d01ca238a0348049226363aa2)
+* [PHP & MySQL Novice to Ninja](https://www.amazon.in/PHP-MySQL-Novice-Ninja-5e/dp/0987153080?tag=hackr0df-21)
+* [PHP and MySQL Web Development](https://www.amazon.in/PHP-MySQL-Development-Developers-Library/dp/0672329166?tag=hackr0df-21)
+* [8. Learning PHP, MySQL & JavaScript: W](https://elementor.com/blog/best-web-development-books/#learning-php-mysql-javascript-css-and-html5)ith jQuery, CSS & HTML5
+
+
+### Frameworks
+* [React and React Native, Third Edition](https://www.amazon.com/React-Native-complete-hands-development/dp/1839211148)
+* [6. Road To React: Your Journey To Master](https://elementor.com/blog/best-web-development-books/#road-to-react) React.js in JavaScript
+* [Fullstack Vue: The Complete Guide to Vue.js](https://amzn.to/3wpBBrS)
+* [Advanced TypeScript Programming Projects: Build 9 different apps with TypeScript 3 and JavaScript frameworks such as Angular, React, and Vue *[1 ed.]*](https://libgen.is/book/index.php?md5=7B30D94B55791059F2F3B5D5E5A155A4)
+* https://libgen.is/search.php?&req=angular+web&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+* [7. Fullstack Vue: The C](https://elementor.com/blog/best-web-development-books/#fullstack-vue)omplete Guide to Vue.js
+* Introducing Bootstrap 4
+* Learning Bootstrap 4
+* Bootstrap: Responsive Web Development
+* Bootstrap 4 Cookbook
+
+
+### Fullstack / Web for Desktop
+* [Modern Full-Stack Development: Using TypeScript, React, Node.js, Webpack, and Docker](https://amzn.to/3wnfGkT)
+* [Hands-On Full Stack Development with Spring Boot 2 and React](https://amzn.to/3xgONz1)
+* [Hands On JavaScript High Performance: Build faster web apps using Node.js, Svelte.js and WebAssembly](http://library.lol/main/728B19A4FD75B29D199DC2973A4EA64A)
+* JavaScript Everywhere: Building Cross-Platform Applications with GraphQL, React, React Native, and Electron
+* [The Full Stack Developer: Your Essential Guide to the Everyday Skills Expected of a Modern Full Stack Web Developer](https://amzn.to/3grZurL) by Chris Northwood
+
+
+### Backend, Node & Co., etc.
+* [Node Cookbook, Fourth Edition](https://www.packtpub.com/product/node-cookbook-fourth-edition/9781838558758)
+* Beginning Node.js: By Basarat Ali Syed
+* [Node.js Design Patterns – Second Edition](https://www.amazon.com/Node-js-Design-Patterns-Mario-Casciaro/dp/1785885588/)
+* [Mastering Node.js](https://www.amazon.in/gp/product/B00GX9HM8A/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=geeksforgeeks-21&creative=24630&linkCode=as2&creativeASIN=B00GX9HM8A&linkId=209a382604effb9e485a3bbb70e141fd)
+* [Django for Beginners](https://www.amazon.in/gp/product/B079ZZLRRL/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=geeksforgeeks-21&creative=24630&linkCode=as2&creativeASIN=B079ZZLRRL&linkId=4d732c1f0385194bb62d4b97a9c006ef)
+* [Python Crash Course](https://www.amazon.in/dp/1593276036?tag=hackr0df-21)
+* [Django Web Development with Python](https://www.youtube.com/watch?v=yD0_1DPmfKM&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3)
+
+
+### JavaScript-/TypeScript-Focused
+* JavaScript and JQuery: Interactive Front-End Web Development, by Jon Duckett
+* [You Don’t Know JS – ES6 & Beyond](https://amzn.to/2PEVJ8e)
+* [JavaScript: The Good Parts](https://amzn.to/2ZNsRL1)
+* [JavaScript: The Definitive Guide](https://amzn.to/2Zy7WQS)
+* [Javascript Allongé](https://amzn.to/2ZOgsGx)
+* [Learn JavaScript VISUALLY with Interactive Exercises](https://amzn.to/2Zy8RRk)
+* [2. JavaScrip](https://elementor.com/blog/best-web-development-books/#javascript-the-definitive-guide)t: The Definitive Guide
+* 3. Eloquent JavaScript
+* [4. Learn JavaScript VISUALLY Wit](https://elementor.com/blog/best-web-development-books/#learn-javascript-visually-with-interactive-exercises)h Interactive Exercises
+* [5. Secrets of the JavaScript Ninja](https://b-ok.cc/book/2861879/8ba3ec)
+* JavaScript: The Good Parts
+* [Slay the JavaScript Interview: 100 Answers That Every Developer Needs to Know](https://www.amazon.com/Slay-JavaScript-Interview-answers-developer-ebook/dp/B08K9B5675)
+
+
+### WASM
+* [The Art of WebAssembly: Build Secure, Portable, High-Performance Applications](http://library.lol/main/A9F269802FD45872AA9A20FF5983E657)
+* [WebAssembly: The Definitive Guide: Safe, Fast, and Portable Code](http://library.lol/main/8F7CD7151FC7282056CF1E229C1A00B4)
+* [WebAssembly в действии](http://library.lol/main/CA70CB3F4E86240F13B475E7B06B8267)
+* [Blazor WebAssembly by Example](http://library.lol/main/D12BB7CB3332BFFD31EBCBF1D47C9A38)
+* [Искусство WebAssembly](http://library.lol/main/52C3B128FA65A176C9BE584B93A9BEAC)
+* [Programming WebAssembly with Rust](http://library.lol/main/89293A79AC728CB4DA41EAA1B1460E2A)
+* [WebAssembly in Action](http://library.lol/main/7472D5B97E5A0CD7F6C2948FB96D899A)
+* [WebAssembly for Cloud: A Basic Guide for Wasm-Based Cloud Apps](http://library.lol/main/985D100A891FD6463B1AF700EADDAD03)
+* [Learn WebAssembly: build web applications with native performance using wasm and c/c++](http://library.lol/main/C6E8C68B806A76576FEA09B6C84749BB)
+
+
+### Other
+* [Creative Projects for Rust Programmers: Build exciting projects on domains such as web apps, WebAssembly, games, and parsing](http://library.lol/main/69F202277193C9C7FD9495F17BFA0944)
+
+
+## Android, Flutter, etc.
+* [Madona S. Wambua - Modern Android 13 Development Cookbook: Over 70 recipes to solve Android development issues and create better apps with Kotlin and Jetpack Compose](https://libgen.is/book/index.php?md5=5CF25921D714EE3B6D555ED458F86F26)
+* [Simone Alessandria - Flutter Cookbook: 100+ step-by-step recipes for building cross-platform, professional-grade apps with Flutter 3.10.x and Dart 3.x,](https://libgen.is/book/index.php?md5=194F22FFDA763D6BC103B9450A89499F)
+
+
+
+## 

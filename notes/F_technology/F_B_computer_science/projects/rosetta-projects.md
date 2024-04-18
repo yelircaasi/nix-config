@@ -1,5 +1,6 @@
 # [Minimal Working Examples](https://docs.google.com/spreadsheets/d/1hzRM9NpjLdlBnZmU2H2UTX_eWDRXf9jujuw61ov9Yso/edit?usp=sharing) 🌱
 
+-> Add "Build Your Own Lisp" to Rosetta Projects
 
 * https://github.com/eldritch-cookie/templates $$$
 

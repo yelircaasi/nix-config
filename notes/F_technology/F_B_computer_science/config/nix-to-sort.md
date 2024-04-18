@@ -70,24 +70,7 @@ write nixfetch: special fetch for NixOS, write in Haskell, use SVG image
 just use Greetd as greeter
 
 Write script to view entire nix config as one big nix/dhall/json file -> nix eval --expr, etc.
-## Devices
 
-Hank Ubuntu server (v2): install docker in install
-
-```sh
-
-sudo apt install flatpak
-
-flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
-
-flatpak install org.wezfurlong.wezterm
-
-sudo apt install landscape-client
-
-sudo landscape-config --computer-title "Isaac stellaris 15" --account-name standalone -p SpeakFriendAndEnter --url https://landscape.knecon.com/message-system --ping-url http://landscape.knecon.com/ping
-# https://teams.microsoft.com/l/message/19:0e375ad9-64aa-488b-bde0-9d643d768f57_5ae9b4e0-d8c6-47f1-ac08-c5cd013ac891@unq.gbl.spaces/1712647904617?context=%7B%22contextType%22%3A%22chat%22%7D
-
-```
 
 
 * Informal intro to the Nix language, derivations and nixpkgs - YouTube https://www.youtube.com/watch?v=9DJtHIpdp0Y&t=132s&pp=2AGEAZACAcoFFm5peCBsYW5ndWFnZSB0dXRvcmlhbCA%3D

@@ -80,58 +80,7 @@
 * [TeXShop](https://pages.uoregon.edu/koch/texshop/documentation.html)
 
 
-## Interlinear, etc.
-* https://tex.stackexchange.com/questions/45520/doing-an-interlinear-text
-* [LaTeX multiple columns](https://www.overleaf.com/learn/latex/Multiple_columns)
-* [*Newest 'parallel-texts' Questions - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/tagged/parallel-texts)
-* [*vertical alignment - Problems aligning left and right columns in paracol - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/357317/problems-aligning-left-and-right-columns-in-paracol)
-* [Preliminary documentation forgb4e.sty∗andcgloss4e.sty](http://mirror.las.iastate.edu/tex-archive/macros/latex/contrib/gb4e/gb4e-doc.pdf)
-* [Generating pdf-latex with python script - Stack Overflow](https://stackoverflow.com/questions/8085520/generating-pdf-latex-with-python-script)
-* https://tex.stackexchange.com/questions/111332/how-to-compile-the-source-code-of-tex
-* https://tex.stackexchange.com/questions/296081/how-to-select-the-directories-such-that-tex-live-is-installed-in-my-home
-* https://github.com/latex3/latex2e
-* [CTAN: /tex-archive/macros/latex/contrib/gb4e](https://www.ctan.org/tex-archive/macros/latex/contrib/gb4e)
-* [Programming in TeX](http://pgfplots.sourceforge.net/TeX-programming-notes.pdf)
-* [soft question - Old books you would like to have rewritten with high-quality typesetting - MathOverflow](https://mathoverflow.net/questions/318839/old-books-you-would-like-to-have-rewritten-with-high-quality-typesetting)
-* https://stackoverflow.com/questions/8085520/generating-pdf-latex-with-python-script
-* https://tex.stackexchange.com/questions/137283/make-bilingual-or-trilingual-latex-document
-* https://tex.stackexchange.com/questions/215283/controling-spacing-between-wrapped-gloss-lines-in-expex 
-* http://mirrors.ibiblio.org/CTAN/macros/generic/expex/expex-doc.pdf 
-* https://tex.stackexchange.com/questions/363847/interlinear-text-with-partial-translation 
-* https://tex.stackexchange.com/questions/367736/margin-notes-in-an-interlinear-environment-aligned-with-source-text 
-* https://www.overleaf.com/project/652b984b20d9b94c83e3df56 Encheiridion
-* https://www.developpez.net/forums/d1031051/autres-langages/autres-langages/latex/mise-forme/zones-texte-juxtalineaires/ 
-* https://tex.stackexchange.com/questions/45520/doing-an-interlinear-text 
-* https://tex.stackexchange.com/questions/400372/gloss-on-opposite-page-as-translation 
-* https://linguistics.stackexchange.com/questions/3/how-do-i-format-an-interlinear-gloss-for-html 
-* https://stackoverflow.com/questions/2907327/dual-line-bilingual-paragraph-in-latex 
-* https://github.com/guidovw/Glossalatex/blob/master/glossa-template.pdf 
-* https://www.reddit.com/r/LaTeX/comments/y29mg6/i_know_nothing_about_latex_i_have_a_very_specific/ 
-* https://tex.stackexchange.com/questions/45520/doing-an-interlinear-text 
 
-
-## 1S Reading / Watching
-* https://en.wikipedia.org/wiki/TeX 
-* [LaTeX Workshop for Linguists](https://www.adamliter.org/content/LaTeX/latex-workshop-for-linguists.pdf)
-* [plotting functions in latex - Поиск в Google](https://www.google.com/search?q=plotting+functions+in+latex&rlz=1C1GCEA_enUS836&oq=plotting+functions+in+latex&aqs=chrome..69i57j0l2.4102j0j7&sourceid=chrome&ie=UTF-8)
-* https://en.wikibooks.org/wiki/LaTeX/Fonts#Font_families
-* [Free online introduction to LaTeX (part 3) - Overleaf, Online LaTeX Editor](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_3))
-* [vector arrow with superscript - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/16466/vector-arrow-with-superscript)
-* [Taking notes with Markdown and LaTeX [Blog Post]](https://www.reddit.com/r/LaTeX/comments/ifbb0v/taking_notes_with_markdown_and_latex_blog_post/)
-* https://www.math-linux.com/latex-26/faq/latex-faq/
-* https://www.math-linux.com/latex-26/faq/latex-faq/article/latex-arrows
-* ftp://tug.ctan.org/tex-archive/info/Type1fonts/fontinstallationguide/fontinstallationguide.pdf
-* [Reed College | CIS | Getting Started In LaTeX](https://www.reed.edu/cis/help/LaTeX/intro.html)
-* [Crashkurs LaTeX-Syntax - mathematische Formeln online kommunizieren](https://www.youtube.com/watch?v=7ovgNXRiJ6g&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=100)
-* [conversion - Converting beamer slides to animated images - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/23727/converting-beamer-slides-to-animated-images)
-* [How I Format My Homeworks in LaTex - YouTube](https://www.youtube.com/watch?v=sIpj_D3VfzE)
-* [graphics - Image on full slide in beamer package - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/3915/image-on-full-slide-in-beamer-package)
-* [LaTeX Tutorial](https://www.youtube.com/watch?v=VhmkLrOjLsw&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=5)
-* [How to typeset greek letters - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/69901/how-to-typeset-greek-letters)
-* http://www.cs.princeton.edu/courses/archive/spr10/cos433/Latex/latex-guide.pdf
-* https://en.wikipedia.org/wiki/TeX
-* [https://en.wikipedia.org/wiki/Web_(programming_system)](https://en.wikipedia.org/wiki/Web_(programming_system))
-* https://www.adamliter.org/content/LaTeX/latex-workshop-for-linguists.pdf
 
 
 ## Fonts
@@ -195,8 +144,68 @@
 * https://www1.essex.ac.uk/linguistics/external/clmt/latex4ling/
 * http://latex.silmaril.ie/formattinginformation/index.html
 
+## Q & A
+* [TeX und LaTeX, Fragen und Antworten - TeXwelt](https://texwelt.de/wissen/)
+* [LaTeX - TeXnique](http://texnique.fr/osqa/)
+* http://texnique.fr/osqa/
+* [Hilfe](http://www.dante.de/hilfe.html)
+* [LaTeX - TeXnique](https://texnique.fr/osqa/)
 
-## Plotting
+
+## READ!
+### 1S Reading / Watching, UNSORTED
+* https://en.wikipedia.org/wiki/TeX 
+* [LaTeX Workshop for Linguists](https://www.adamliter.org/content/LaTeX/latex-workshop-for-linguists.pdf)
+* [plotting functions in latex - Поиск в Google](https://www.google.com/search?q=plotting+functions+in+latex&rlz=1C1GCEA_enUS836&oq=plotting+functions+in+latex&aqs=chrome..69i57j0l2.4102j0j7&sourceid=chrome&ie=UTF-8)
+* https://en.wikibooks.org/wiki/LaTeX/Fonts#Font_families
+* [Free online introduction to LaTeX (part 3) - Overleaf, Online LaTeX Editor](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_3))
+* [vector arrow with superscript - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/16466/vector-arrow-with-superscript)
+* [Taking notes with Markdown and LaTeX [Blog Post]](https://www.reddit.com/r/LaTeX/comments/ifbb0v/taking_notes_with_markdown_and_latex_blog_post/)
+* https://www.math-linux.com/latex-26/faq/latex-faq/
+* https://www.math-linux.com/latex-26/faq/latex-faq/article/latex-arrows
+* ftp://tug.ctan.org/tex-archive/info/Type1fonts/fontinstallationguide/fontinstallationguide.pdf
+* [Reed College | CIS | Getting Started In LaTeX](https://www.reed.edu/cis/help/LaTeX/intro.html)
+* [Crashkurs LaTeX-Syntax - mathematische Formeln online kommunizieren](https://www.youtube.com/watch?v=7ovgNXRiJ6g&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=100)
+* [conversion - Converting beamer slides to animated images - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/23727/converting-beamer-slides-to-animated-images)
+* [How I Format My Homeworks in LaTex - YouTube](https://www.youtube.com/watch?v=sIpj_D3VfzE)
+* [graphics - Image on full slide in beamer package - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/3915/image-on-full-slide-in-beamer-package)
+* [LaTeX Tutorial](https://www.youtube.com/watch?v=VhmkLrOjLsw&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=5)
+* [How to typeset greek letters - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/69901/how-to-typeset-greek-letters)
+* http://www.cs.princeton.edu/courses/archive/spr10/cos433/Latex/latex-guide.pdf
+* https://en.wikipedia.org/wiki/TeX
+* [https://en.wikipedia.org/wiki/Web_(programming_system)](https://en.wikipedia.org/wiki/Web_(programming_system))
+* https://www.adamliter.org/content/LaTeX/latex-workshop-for-linguists.pdf
+
+### Interlinear, etc.
+* https://tex.stackexchange.com/questions/45520/doing-an-interlinear-text
+* [LaTeX multiple columns](https://www.overleaf.com/learn/latex/Multiple_columns)
+* [*Newest 'parallel-texts' Questions - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/tagged/parallel-texts)
+* [*vertical alignment - Problems aligning left and right columns in paracol - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/357317/problems-aligning-left-and-right-columns-in-paracol)
+* [Preliminary documentation forgb4e.sty∗andcgloss4e.sty](http://mirror.las.iastate.edu/tex-archive/macros/latex/contrib/gb4e/gb4e-doc.pdf)
+* [Generating pdf-latex with python script - Stack Overflow](https://stackoverflow.com/questions/8085520/generating-pdf-latex-with-python-script)
+* https://tex.stackexchange.com/questions/111332/how-to-compile-the-source-code-of-tex
+* https://tex.stackexchange.com/questions/296081/how-to-select-the-directories-such-that-tex-live-is-installed-in-my-home
+* https://github.com/latex3/latex2e
+* [CTAN: /tex-archive/macros/latex/contrib/gb4e](https://www.ctan.org/tex-archive/macros/latex/contrib/gb4e)
+* [Programming in TeX](http://pgfplots.sourceforge.net/TeX-programming-notes.pdf)
+* [soft question - Old books you would like to have rewritten with high-quality typesetting - MathOverflow](https://mathoverflow.net/questions/318839/old-books-you-would-like-to-have-rewritten-with-high-quality-typesetting)
+* https://stackoverflow.com/questions/8085520/generating-pdf-latex-with-python-script
+* https://tex.stackexchange.com/questions/137283/make-bilingual-or-trilingual-latex-document
+* https://tex.stackexchange.com/questions/215283/controling-spacing-between-wrapped-gloss-lines-in-expex 
+* http://mirrors.ibiblio.org/CTAN/macros/generic/expex/expex-doc.pdf 
+* https://tex.stackexchange.com/questions/363847/interlinear-text-with-partial-translation 
+* https://tex.stackexchange.com/questions/367736/margin-notes-in-an-interlinear-environment-aligned-with-source-text 
+* https://www.overleaf.com/project/652b984b20d9b94c83e3df56 Encheiridion
+* https://www.developpez.net/forums/d1031051/autres-langages/autres-langages/latex/mise-forme/zones-texte-juxtalineaires/ 
+* https://tex.stackexchange.com/questions/45520/doing-an-interlinear-text 
+* https://tex.stackexchange.com/questions/400372/gloss-on-opposite-page-as-translation 
+* https://linguistics.stackexchange.com/questions/3/how-do-i-format-an-interlinear-gloss-for-html 
+* https://stackoverflow.com/questions/2907327/dual-line-bilingual-paragraph-in-latex 
+* https://github.com/guidovw/Glossalatex/blob/master/glossa-template.pdf 
+* https://www.reddit.com/r/LaTeX/comments/y29mg6/i_know_nothing_about_latex_i_have_a_very_specific/ 
+* https://tex.stackexchange.com/questions/45520/doing-an-interlinear-text 
+
+### Plotting
 * [Plotting in three dimensions | Recipe](http://latex-cookbook.net/cookbook/examples/3d-plot/)
 * [tikz pgf - Draw an animated gif of trigonometry function - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/291627/draw-an-animated-gif-of-trigonometry-function)
 * [FSA with TikZ](https://www3.nd.edu/~kogge/courses/cse30151-fa17/Public/other/tikz_tutorial.pdf)
@@ -210,27 +219,7 @@
 * [Block diagram with Tikz - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/268878/block-diagram-with-tikz)
 * http://www.ccs.neu.edu/home/lieber/papers/thomas/drawing/drawing2010.tex
 
-
-## Misc
+### Misc
 * [LaTeX IPA](https://www.tug.org/tugboat/tb17-2/tb51rei.pdf)
 * https://juliadatascience.io/using-latexstrings.jl 
 
-
-## Q & A
-* [TeX und LaTeX, Fragen und Antworten - TeXwelt](https://texwelt.de/wissen/)
-* [LaTeX - TeXnique](http://texnique.fr/osqa/)
-* http://texnique.fr/osqa/
-* [Hilfe](http://www.dante.de/hilfe.html)
-* [LaTeX - TeXnique](https://texnique.fr/osqa/)
-
-
-## Reading List - To Sort (1)
-
-
-## Reading List - To Sort (2)
-
-
-## Reading List - To Sort (3)
-
-
-## Reading List - To Sort (4)

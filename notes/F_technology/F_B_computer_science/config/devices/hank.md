@@ -1,5 +1,134 @@
 # Hank
 
+## Latest
+
+Hank Ubuntu server (v2): install docker in install
+
+```sh
+
+sudo apt install flatpak
+
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+
+flatpak install org.wezfurlong.wezterm
+
+sudo apt install landscape-client
+
+sudo landscape-config --computer-title "Isaac stellaris 15" --account-name standalone -p SpeakFriendAndEnter --url https://landscape.knecon.com/message-system --ping-url http://landscape.knecon.com/ping
+# https://teams.microsoft.com/l/message/19:0e375ad9-64aa-488b-bde0-9d643d768f57_5ae9b4e0-d8c6-47f1-ac08-c5cd013ac891@unq.gbl.spaces/1712647904617?context=%7B%22contextType%22%3A%22chat%22%7D
+
+
+```
+
+Next steps: 
+* [ ] write full install script from https://wiki.hyprland.org/Getting-Started/Installation/
+  - [ ] add Nvidia fixes to script using sed, from [here](https://gist.github.com/Vertecedoc4545/07a9624924ac3e03ff0ab2d5e3616955#file-nvidia-partching-hyprland-ubuntu-md) and [here](https://gist.github.com/Vertecedoc4545/6e54487f07a1888b656b656c0cdd9764)
+
+  in ubuntu 23.04 the only thing you need to do at system level is:
+
+add nvidia_drm.modeset=1 to /etc/default/grub in GRUB_CMDLINE_LINUX_DEFAULT=, and thats it
+```sh 
+sudo ubuntu-drivers install
+sed -i 's/GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"/GRUB_CMDLINE_LINUX_DEFAULT="quiet splash nvidia_drm.modeset=1"/g
+sudo update-grub # sudo apt-install nvidia-driver-535
+sudo reboot
+```
+then you need to run sudo update-grub and reboot
+after that we need to apply the patches:
+```sh
+sed 's/glFlush();/glFinish();/g' -i subprojects/wlroots/render/gles2/renderer.c
+```
+then we can run the build-ubuntu-23.sh or manually follow the ubuntu 23.04 install guide
+
+the rest of documentation is in the NVIDIA PAGE
+  ```sh
+   
+  ```
+  - [ ] update versions of packages
+
+```sh
+sudo apt-get install -y nala
+sudo nala install -y meson wget build-essential ninja-build cmake-extras cmake gettext gettext-base fontconfig libfontconfig-dev libffi-dev libxml2-dev libdrm-dev libxkbcommon-x11-dev libxkbregistry-dev libxkbcommon-dev libpixman-1-dev libudev-dev libseat-dev seatd libxcb-dri3-dev libvulkan-dev libvulkan-volk-dev  vulkan-validationlayers-dev libvkfft-dev libgulkan-dev libegl-dev libgles2 libegl1-mesa-dev glslang-tools libinput-bin libinput-dev libxcb-composite0-dev libavutil-dev libavcodec-dev libavformat-dev libxcb-ewmh2 libxcb-ewmh-dev libxcb-present-dev libxcb-icccm4-dev libxcb-render-util0-dev libxcb-res0-dev libxcb-xinput-dev libpango1.0-dev xdg-desktop-portal-wlr hwdata-dev
+
+mkdir HyprSource
+cd HyprSource
+
+## get Source
+wget https://github.com/hyprwm/Hyprland/releases/download/v0.39.1/source-v0.39.1.tar.gz
+tar -xvf source-v0.39.1.tar.gz
+
+wget https://gitlab.freedesktop.org/wayland/wayland-protocols/-/releases/1.35/downloads/wayland-protocols-1.35.tar.xz
+tar -xvJf wayland-protocols-1.35.tar.xz
+
+wget https://gitlab.freedesktop.org/wayland/wayland/-/releases/1.22.0/downloads/wayland-1.22.0.tar.xz
+tar -xzvJf wayland-1.22.0.tar.xz
+
+wget https://gitlab.freedesktop.org/emersion/libdisplay-info/-/releases/0.1.1/downloads/libdisplay-info-0.1.1.tar.xz
+tar -xvJf libdisplay-info-0.1.1.tar.xz
+
+# build wayland 1.22.0
+cd wayland-1.22.0
+mkdir build &&
+cd    build &&
+
+meson setup ..            \
+      --prefix=/usr       \
+      --buildtype=release \
+      -Ddocumentation=false &&
+ninja
+sudo ninja install
+
+cd ../..
+
+# bulild wayland protocols
+cd wayland-protocols-1.35
+
+mkdir build &&
+cd    build &&
+
+meson setup --prefix=/usr --buildtype=release &&
+ninja
+
+sudo ninja install
+
+cd ../..
+
+# build libdisplay-info
+cd libdisplay-info-0.1.1/
+
+mkdir build &&
+cd    build &&
+
+meson setup --prefix=/usr --buildtype=release &&
+ninja
+
+sudo ninja install
+
+cd ../..
+
+# build Hyprland
+chmod a+rw hyprland-source
+
+cd hyprland-source/
+
+# to modify config.mk and change PREFIX=/usr/local to PREFIX=/usr
+sed -i 's/\/usr\/local/\/usr/g' config.mk
+
+sudo make install
+```
+* https://gist.github.com/Vertecedoc4545/3b077301299c20c5b9b4db00f4ca6000
+
+
+* [jakoolit](https://github.com/JaKooLit/Debian-Hyprland)
+  -> https://github.com/JaKooLit/Debian-Hyprland/tree/main/install-scripts
+
+
+
+
+
+
+
+## Old
 Vision:
 
 Questions:

@@ -1,5 +1,9 @@
 # Work Notes
 
+## left-right mappings for table parsing!
+
+## 
+
 move cv-analysis to gpu, rewrite in cpp with pybind11 and parallelize everything
 https://github.com/evilmartians/lefthook
 add deskew keyword to cv-analysis service

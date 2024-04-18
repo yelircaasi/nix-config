@@ -1,5 +1,36 @@
 # Software to Sort
 
+https://github.com/nwtnni/tock
+- waveterm on nixos
+    
+    https://github.com/ErnWong/dotfiles/blob/689d0fe8932a188f524c20bd8121fc3bfc8ce6ed/pkgs/waveterm/default.nix 
+    
+    Here's my attempt at cobbling something together for linux, which seems to be working locally for me (well, it's "working" in the sense that it builds, the GUI shows up and the basic shell features seem to be working): https://github.com/ErnWong/dotfiles/blob/689d0fe8932a188f524c20bd8121fc3bfc8ce6ed/pkgs/waveterm/default.nix
+    
+    ```
+    nix shell github:ErnWong/dotfiles#waveterm --command waveterm
+    
+    ```
+    
+    I wasn't able to get it building using the provided scripthaus scripts yet, but I'm also quite inexperienced in this area so that could be why. I'm currently using `buildGoModule` and `mkYarnPackage` instead, basing it off from a bunch of other electron and go packages on nixpkgs. I haven't carried across all the build flags from waveterm's provided scripthaus scripts though, and you might also see some vestigial code that I copied from other packages that don't apply for waveterm which I haven't cleaned up yet. If I have time I might give the scripthaus scripts another try.
+    
+    Some other remaining todos that I'm aware of include the desktop icon, getting it working on darwin, checking the AI features, checking that the package includes all the dependencies it needs at runtime, and fixing a failing test regarding command completions.
+    
+    Please feel free to continue working off from what I have if it helps, especially if I don't get back to this soon.
+    
+
+https://github.com/ldelossa/way-shell
+https://github.com/samthor/kuto
+https://github.com/dwisiswant0/unch
+https://github.com/posit-dev/great-tables
+https://sembr.org/ 
+**What it’s like to run HTMX in Production - Stories from Experienced Software Engineers** https://www.youtube.com/watch?v=Ec_ovkHHuZ8 
+https://martinheinz.dev/blog/110
+https://foldersync.io/
+https://github.com/SilinMeng0510/imgcatr
+https://gitlab.gnome.org/World/amberol
+https://saitoha.github.io/libsixel/
+https://github.com/lukas-reineke/headlines.nvim
 https://github.com/dhth/prs
 https://nx.dev/recipes/tips-n-tricks/flat-config
 https://github.com/nvim-neorocks

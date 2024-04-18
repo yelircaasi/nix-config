@@ -1,5 +1,32 @@
 # Nebokrai
 
+use brick, optparse-applicative, refined, aeson, aeson-schema
+
+excellent: https://github.com/jonascarpay/template-haskell https://github.com/jonascarpay/template-haskell
+
+https://typeclasses.com/phrasebook
+
+https://nikivazou.github.io/lh-course/book.pdf 
+
+https://nikivazou.github.io/lh-course/ 
+
+https://nikita-volkov.github.io/refined/
+
+https://github.com/NorfairKing/smos $$$$$$$$$ 
+
+https://docs.smos.online/ $$$$$$$$$
+
+→ make nebokrai usable as a plugin/integration for smos?
+
+- [Intray: An Inbox system](https://intray.cs-syd.eu/)
+- [Tickler: A Tickler system](https://tickler.cs-syd.eu/)
+- [Spaced out: A spaced repetition tool](https://github.com/NorfairKing/sparep)
+- [Habitscipline: A habit manager](https://github.com/NorfairKing/habitscipline)
+
+Add daily (yesterday) review to tracking feature → circular feedback, as review requires editing declaration, but thisis a feature, rather than a bug or compromise
+
+Include commands such as `nebokrai check` to ensure inputs and outputs are in a consistent state → add optimizations such as caching and using time last edited → make certain files read-only by all except nebokrai user
+
 
 * (horizon, +[consilium](https://en.wiktionary.org/wiki/consilium), ganttouchthis, taskifist, roadmapper)
 

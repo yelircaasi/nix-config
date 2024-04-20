@@ -8,3 +8,4 @@ nyxt [https://github.com/search?q=nyxt+config&type=repositories&s=updated&o=desc
 nyxt [https://www.aartaka.me.eu.org/nyxt-to-surf](https://www.aartaka.me.eu.org/nyxt-to-surf)
 nyxt [https://www.reddit.com/r/Nyxt/comments/18ir89v/how_to_bind_custom_hotkeys_in_nyxt/](https://www.reddit.com/r/Nyxt/comments/18ir89v/how_to_bind_custom_hotkeys_in_nyxt/) 
 nyxt [https://www.reddit.com/r/Nyxt/s/qMGTPsBpek](https://www.reddit.com/r/Nyxt/s/qMGTPsBpek) Nyxt dark
+* [anomalocaridid](ghttps://github.com/Anomalocaridid/dotfiles/blob/main/home/nyxt.nix)

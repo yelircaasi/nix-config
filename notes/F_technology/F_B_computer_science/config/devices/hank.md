@@ -44,11 +44,11 @@ the rest of documentation is in the NVIDIA PAGE
   ```sh
    
   ```
-  - [ ] update versions of packages
+  - [x] update versions of packages
 
 ```sh
 sudo apt-get install -y nala
-sudo nala install -y meson wget build-essential ninja-build cmake-extras cmake gettext gettext-base fontconfig libfontconfig-dev libffi-dev libxml2-dev libdrm-dev libxkbcommon-x11-dev libxkbregistry-dev libxkbcommon-dev libpixman-1-dev libudev-dev libseat-dev seatd libxcb-dri3-dev libvulkan-dev libvulkan-volk-dev  vulkan-validationlayers-dev libvkfft-dev libgulkan-dev libegl-dev libgles2 libegl1-mesa-dev glslang-tools libinput-bin libinput-dev libxcb-composite0-dev libavutil-dev libavcodec-dev libavformat-dev libxcb-ewmh2 libxcb-ewmh-dev libxcb-present-dev libxcb-icccm4-dev libxcb-render-util0-dev libxcb-res0-dev libxcb-xinput-dev libpango1.0-dev xdg-desktop-portal-wlr hwdata-dev
+sudo nala install -y meson wget build-essential ninja-build cmake-extras cmake gettext gettext-base fontconfig libfontconfig-dev libffi-dev libxml2-dev libdrm-dev libxkbcommon-x11-dev libxkbregistry-dev libxkbcommon-dev libpixman-1-dev libudev-dev libseat-dev seatd libxcb-dri3-dev libvulkan-dev libvulkan-volk-dev  vulkan-validationlayers-dev libvkfft-dev libgulkan-dev libegl-dev libgles2 libegl1-mesa-dev glslang-tools libinput-bin libinput-dev libxcb-composite0-dev libavutil-dev libavcodec-dev libavformat-dev libxcb-ewmh2 libxcb-ewmh-dev libxcb-present-dev libxcb-icccm4-dev libxcb-render-util0-dev libxcb-res0-dev libxcb-xinput-dev libpango1.0-dev xdg-desktop-portal-wlr hwdata libzip-dev librsvg
 
 mkdir HyprSource
 cd HyprSource
@@ -116,6 +116,15 @@ sed -i 's/\/usr\/local/\/usr/g' config.mk
 
 sudo make install
 ```
+* [ ] look into wezterm bug
+  - https://wezfurlong.org/wezterm/troubleshooting.html 
+  - https://wezfurlong.org/wezterm/config/lua/config/enable_wayland.html 
+  - https://github.com/wez/wezterm/issues/5103
+  - https://github.com/wez/wezterm/issues/5228
+  - https://www.reddit.com/r/hyprland/comments/1c38y11/wezterm_not_working_in_native_wayland_mode/
+  - https://www.reddit.com/r/archlinux/comments/18rf5t1/psa_on_hyprland_wezterm_will_not_start_anymore/ 
+  - https://www.reddit.com/r/hyprland/comments/1auqy8b/wezterm_not_open_anymore/
+  - https://github.com/wez/wezterm/issues/4672
 * https://gist.github.com/Vertecedoc4545/3b077301299c20c5b9b4db00f4ca6000
 
 

@@ -2,6 +2,7 @@
 
 
 ## Sort
+* https://github.com/vinceliuice/vimix-icon-theme
 * [niri](https://github.com/YaLTeR/niri)
 * [https://www.freepik.com/free-vector/gradient-hexagonal-background_13900571.htm](https://www.freepik.com/free-vector/gradient-hexagonal-background_13900571.htm)
 * [https://www.wallpaperflare.com/landscape-photography-of-mountains-surrounded-by-body-of-water-wallpaper-hcoir](https://www.wallpaperflare.com/landscape-photography-of-mountains-surrounded-by-body-of-water-wallpaper-hcoir)

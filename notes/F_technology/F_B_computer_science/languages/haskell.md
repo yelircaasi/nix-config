@@ -11,7 +11,9 @@
 * ghc internals - Google Search
 * https://www.youtube.com/results?sp=mAEA&search_query=ghc+internals 
 * https://stackoverflow.com/questions/18808258/what-does-the-just-syntax-mean-in-haskell
-
+* https://github.com/aveltras/setting-up-a-haskell-development-environment-with-nix
+* https://learn-haskell.blog/ and [videos](https://www.youtube.com/playlist?list=PLxn_Aq3QlOQcXoHWdzxnnuGlGWNXJg43R) -> perfect for learning for proglang-table
+* [Impure Pics](https://www.youtube.com/@impurepics/playlists)
 
 ## Example Code
 

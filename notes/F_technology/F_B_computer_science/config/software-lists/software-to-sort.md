@@ -1,4 +1,7 @@
 # Software to Sort
+https://github.com/flightlessmango/MangoHud
+https://github.com/gburd/isync
+https://wiki.archlinux.org/title/Msmtp
 
 https://github.com/nwtnni/tock
 - waveterm on nixos
@@ -41,6 +44,7 @@ https://github.com/cococry/ragnar
 https://github.com/Gingeh/lust
 https://github.com/Q1CHENL/todoism
 https://github.com/evilmartians/lefthook
+https://github.com/glideapps/quicktype 
 
 ## Ricing
 * https://github.com/adi1090x/widgets* https://github.com/outfoxxed/hy3* https://github.com/mahkoh/jay* https://github.com/MrVivekRajan/Grub-Themes

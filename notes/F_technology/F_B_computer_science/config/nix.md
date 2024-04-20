@@ -1,4 +1,6 @@
 # Nix
+* https://github.com/mikeroyal/NixOS-Guide
+* [haslersn](https://github.com/haslersn/any-nix-shell) - fish, xonsh, zsh support for nix-run
 * $$$ https://git.sr.ht/~darumaka/SnowISO
 * https://github.com/erikarvstedt/extra-container
 * [Introducing Flake-Containers: A simple PoC](https://www.reddit.com/r/NixOS/s/7Ullw5lW4p)

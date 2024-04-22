@@ -1,4 +1,9 @@
 # General Programming Reading List
+* [How principled coders outperform the competition](https://m.youtube.com/watch?v=q1qKv5TBaOA&t=4s)
+* https://www.cs.cmu.edu/~rwh/pfpl/
+* https://www.cs.cmu.edu/~rwh/pfpl/ $$$
+* https://dev.to/copilotkit/30-app-ideas-with-complete-source-code-5f76
+* https://www.centercode.com/blog/dogfooding-101
 ## 1S Video
 * [How One Line of Code Almost Blew Up the Internet - YouTube](https://www.youtube.com/watch?v=GEbn3nHyKnA)
 * [The Simplest Sorting Algorithm (You’ve Never Heard Of)](https://youtu.be/_W0yUJlscRA)

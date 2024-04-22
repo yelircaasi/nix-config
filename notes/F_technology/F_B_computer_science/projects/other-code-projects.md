@@ -1,6 +1,8 @@
 # Other Code Projects
 
-* ## wezterm-python-pdf-reader - write a terminal PDF reader for wezterm using python, matplotlib, and matplotlib, together with python pdf library and matplotlib-backend-wezterm
+* $$$ wezterm-python-pdf-reader - write a terminal PDF reader for wezterm using python, matplotlib, and matplotlib, together with python pdf library and matplotlib-backend-wezterm
+* https://neurosciencenews.com/color-perception-retinal-cells-25935/
+* Make NLP-based automatic sorter for notes (embedding-based). Use clustering and classification, experiment with different embedding approaches.
 
 ## Projects
 
@@ -1378,3 +1380,107 @@ Deskewer
 * [Write your own Linux Keylogger.](https://www.youtube.com/watch?v=89k3llI51fU)
 * https://www.libsdl.org/release/SDL-1.2.15/docs/html/guideinputkeyboard.html
 * https://www.nist.gov/itl/ssd/software-quality-group/safer-languages
+
+
+## my projects
+* https://www.makeuseof.com/set-up-raspberry-pi-as-server/ 
+* https://www.toptal.com/raspberry-pi/how-to-turn-your-raspberry-pi-into-a-development-server 
+* https://www.toptal.com/raspberry-pi/how-to-turn-your-raspberry-pi-into-a-development-server 
+* https://json-schema.org/understanding-json-schema/structuring 
+    
+    qutebrowser due to frozen teams:
+* [112:152:0100/000000.790507:ERROR:broker_posix.cc(46)] Received unexpected number of handles    * [112:152:0100/000000.791120:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+    
+    move “other” from Recursos por idioma to Notion
+    
+    → make Configurability Github organization with forks of apps that support custom colors and keybindings (or just patches?)
+    
+    Wie kann ich mich mehr politisch engagieren?
+    
+    Just re-write plt code in typescript/JavaScript to use a good highlighting library pre-html; use Perl for something else, like shell scripts 
+* https://www.google.com/search?client=firefox-b-m&sca_esv=584934822&sxsrf=AM9HkKm9ojvgZM44drVwG0h7TGXNOfu28g%3A1700779676233&q=drop-down+library+ui+design+javascript&oq=drop-down+library+ui+design+javascript&aqs=heirloom-srp 
+    
+    Install Ubuntu server 23.10 and use complete install script for i3, picom, etc. - then install Nix and home-manager
+* https://nix.dev/tutorials/nixos/installing-nixos-on-a-raspberry-pi.html 
+    
+    DON'T Use Raspberry Pis for Servers! https://www.youtube.com/watch?v=aKmKo_Ua7rQ&pp=ygUYbml4b3Mgb24gcmFzcGJlcnJ5IHBpIDQg 
+    
+    look into how to make aliases for different programming languages and projects
+    
+    xdg-settings set default-web-browser firefox.desktop → make work on hank with flatpak, vs https://askubuntu.com/questions/16621/how-to-set-the-default-browser-from-the-command-line 
+* https://karabiner-elements.pqrs.org/docs/json/ → see for ideas for Clavix format
+* https://github.com/manwar/perlweeklychallenge-club/tree/master - many languages
+* https://github.com/briandfoy/PerlPowerTools → for RosettaProjects
+* https://wpdatatables.com/javascript-table-library/ 
+* https://pencilandpaper.io/articles/ux-pattern-analysis-enterprise-data-tables/ 
+* https://www.smashingmagazine.com/2019/01/table-design-patterns-web/ 
+* https://medium.com/design-bridges/complex-tables-356826d11861 
+* [https://www.google.com/search?q=web design select which columns and rows of table to show&ie=utf-8&oe=utf-8&client=firefox-b-m](https://www.google.com/search?q=web%20design%20select%20which%20columns%20and%20rows%20of%20table%20to%20show&ie=utf-8&oe=utf-8&client=firefox-b-m) 
+* https://blog.logrocket.com/exploring-best-syntax-highlighting-libraries/ 
+* https://virola.io/articles/how-to-make-your-server-app-publicly-accessible 
+* https://www.reddit.com/r/rust/comments/15xl4ew/inkjet_a_batteriesincluded_syntax_highlighting/ 
+* https://github.com/rdbo/sigma-linux
+* https://opensource.com/article/21/7/custom-raspberry-pi-image 
+    
+    HN Guix https://news.ycombinator.com/item?id=17083209 
+* https://thiagowfx.github.io/2022/01/alpine-linux-on-raspberry-pi-diskless-mode-with-persistent-storage/ 
+* https://gitlab.com/raspi-alpine/builder
+* https://www.instructables.com/Booting-Raspberry-Pi-3-B-With-a-USB-Drive/ 
+* https://www.tomshardware.com/news/raspberry-pi-web-server,40174.html 
+* https://github.com/macmpi/alpine-linux-headless-bootstrap
+* https://itsfoss.com/screenshot-login-screen-ubuntu-linux/ 
+* https://github.com/rdbo/sigma-linux
+* https://askubuntu.com/questions/1329599/dual-boot-two-linux-distributions-on-one-disk 
+    
+    next step: figure out how to ssh into my work computer -> good for planager access from phone, etc
+    
+    Open Weather Map API KEy 39f576bf65c9e540357e993fc955c7e5
+    
+    inthe_am/isaac.r.riley/f616213f-e590-4a3c-9b73-40733e137ad5 
+    
+    Look for software that can apply a complex (and continuous) color remapping to a PDF file, or patch my own!!!
+    
+    Re-write tree command to show view proportional to LoC or other metrics (tree + tokei, etc)
+* https://www.mypy-lang.org/ → make PR: roadmap on site not found
+    
+    → use mypyc for planager? → compile with codon / mypyc / rewrite in cython and compile?
+    
+    Write Python script to parse poetry lockfile, query most recent version (pypi / [Github](https://stackoverflow.com/questions/76133390/how-to-use-github-api-to-retrieve-the-latest-version-of-a-package)) to identify which can be updated
+* https://braille-txt.github.io/ 
+    
+    Fork terminal matrix video and use braille for an improved image → even unicode http://xahlee.info/comp/unicode_ascii_art.html 
+    
+    → simple pixelwise regression → pixelwise regression weighted relative to edges? → 
+    
+    write library for terminal art like ascii art, but with unicode!
+    
+    → https://elpa.gnu.org/packages/ascii-art-to-unicode.html 
+    
+    Cool for images, but also for text → box lines and block characters, as well as curves
+    
+    Braille text art would also be cool → “brailletters” → write CLI in Nim, Zig, Vlang or something?
+* https://github.com/snyde875/ASCII-Art-Tool 
+    
+    Re-write Matrix terminal to use braille and alternatively to use (a suitable set of) unicode characters
+    
+    Which font processing libraries already exist? How to interface with them?
+    
+    - alignment
+        
+        let "word" = "lemma" in what follows
+        
+        given 2 sentences which may be a match:
+        
+        what
+         is the probability of word ai and word bj co-occurring in a correct 
+        match vs in an incorrect match? -> ratio, i.e. certainty gain
+        
+        add up log certainty gain for all relevant word pairs found in the sentence
+        
+        find most predictive words (i.e. word pairs)
+        
+        Also negative aspect? -> words highly likely to be translated with another word should decrease certainty if it is not found
+* https://ugarit.ialigner.com/userProfile.php?userid=3721 
+* https://ugarit.ialigner.com/about.php 
+* https://huggingface.co/UGARIT 
+* [Image Dithering: Eleven Algorithms and Source Code | tannerhelland.com](https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html)

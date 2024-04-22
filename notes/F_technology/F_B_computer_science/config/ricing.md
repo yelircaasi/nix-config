@@ -11,6 +11,10 @@
 * [https://uncut.wtf/](https://uncut.wtf/) - font collection
 * flag https://www.youtube.com/@Sephyrulz
 
+## Colors
+* https://jcarlosroldan.com/about
+* https://media.discordapp.net/attachments/635625917623828520/1228755940887629885/screenshot.png?ex=66366da5&is=6623f8a5&hm=29a1c8817cc7f7c52456f5081152a7777e05df4a37d296320651f04a2ce1ba75&
+
 ## Ideal Setup:
 * Minimal use of mouse
 * Unified, consistent, ergonomic keybindings

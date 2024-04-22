@@ -1,9 +1,68 @@
 # Software to Sort
-https://github.com/flightlessmango/MangoHud
-https://github.com/gburd/isync
-https://wiki.archlinux.org/title/Msmtp
+* [Big Pile of Vim-like](https://vim.reversed.top/)
+* [Luakit Web Browser](https://luakit.github.io/#sec-download)
+* [luakit/luakit: Fast, small, webkit based browser framework extensible by Lua.](https://github.com/luakit/luakit)
+* [Vimb - A Minimal Browser with Vim like Bindings - YouTube](https://www.youtube.com/watch?v=26xWK35pinA)
+* [What Are The Benefits Of Emacs Over Vim? - YouTube](https://www.youtube.com/watch?v=kRkp-uJTK7s)
+* [Watch YouTube videos using MPV player - An Easy Guide - LinuxForDevices](https://www.linuxfordevices.com/tutorials/linux/watch-youtube-videos-on-mpv-player)
+* [Support URL patterns for more settings (per-domain settings) · Issue #3636 · qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser/issues/3636)
+* [davidinspace/qutebrowser_dark_solarized: Dark solarized css stylesheet for qutebrowser. Make the web like your terminal ! :)](https://github.com/davidinspace/qutebrowser_dark_solarized)
+* [qutebrowser-themes/onedark.py at master · leosolid/qutebrowser-themes](https://github.com/leosolid/qutebrowser-themes/blob/master/themes/onedark.py)
+* [My qutebrowser config](https://gist.github.com/Ape/d0c48b3f7ec9c8efaecf48eaa1e75d0d)
+* [List type settings errors · Issue #3104 · qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser/issues/3104)
+* [change qutebrowser config editor - Google Search](https://www.google.com/search?client=firefox-b-d&q=change+qutebrowser+config+editor)
+* [Where are installed Google Chrome extensions stored locally? - Stack Overflow](https://stackoverflow.com/questions/21475866/where-are-installed-google-chrome-extensions-stored-locally)
+* [urxvt - Google Search](https://www.google.com/search?client=firefox-b-d&q=urxvt)
+* [equalsraf/neovim-qt: Neovim client library and GUI, in Qt5.](https://github.com/equalsraf/neovim-qt)
+* [bodil/vscode-file-browser](https://github.com/bodil/vscode-file-browser)
+* [colors - Change Firefox new tab background - Super User](https://superuser.com/questions/1235975/change-firefox-new-tab-background)
+* [How to Customize Firefox Reader View for Better Readability - Hongkiat](https://www.hongkiat.com/blog/customize-reader-view-theme-firefox/)
+* [Ubuntu Manpage: zathurarc - zathura configuration file](https://manpages.ubuntu.com/manpages/bionic/man5/zathurarc.5.html)
+* [Fuco1/zathura-build: zathura + plugins built and run inside docker](https://github.com/Fuco1/zathura-build)
+* [jeffkreeftmeijer/vim-numbertoggle: Toggles between hybrid and absolute line numbers automatically](https://github.com/jeffkreeftmeijer/vim-numbertoggle)
+* [Backward search in ipython via FZF - Stack Overflow](https://stackoverflow.com/questions/48203949/backward-search-in-ipython-via-fzf)
+* [Adding fuzzy history search to IPython · Issue #12231 · ipython/ipython](https://github.com/ipython/ipython/issues/12231)
+* [gautam_linux/colours.sh at master · gkotian/gautam_linux](https://github.com/gkotian/gautam_linux/blob/master/scripts/colours.sh)
+* [powerline/powerline: Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.](https://github.com/powerline/powerline)
+* [Welcome to Notifiers documentation! — notifiers 1.3.0 documentation](https://notifiers.readthedocs.io/en/latest/)
+* [Reddit - [OC] I rewrote pfetch in Rust](https://www.reddit.com/r/unixporn/comments/113tw9u/oc_i_rewrote_pfetch_in_rust/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=10&utm_content=share_button)
+* [GothenburgBitFactory/taskwarrior: Taskwarrior - Command line Task Management](https://github.com/GothenburgBitFactory/taskwarrior)
+* [A Powerline configuration for Starship.rs](https://gist.github.com/notheotherben/92302a60f8599ba73f1c2840f3c6d455)
+* [starship/starship: ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!](https://github.com/starship/starship)
+* [Base16 Designer](http://brianreilly.me/Base16Designer/)
+* [Brian Reilly · Entrepreneurial Front-End Web Developer](http://brianreilly.me/)
+* [Misterio77/flavours: 🎨💧 An easy to use base16 scheme manager that integrates with any workflow.](https://github.com/misterio77/flavours/#custom-templates-and-schemes)
+* [ii.com: qutebrowser Tips and Fragments](https://www.ii.com/qutebrowser-tips-fragments/)
+* [ii.com: qutebrowser’s Template config.py](https://www.ii.com/qutebrowser-configpy/)
+* [cheatsheet-big.png (PNG Image, 3342 × 2060 pixels) — Scaled (46%)](https://qutebrowser.org/img/cheatsheet-big.png)
+* [Misterio77/flavours: 🎨💧 An easy to use base16 scheme manager that integrates with any workflow.](https://github.com/Misterio77/flavours)
+* [vifm/vifm-colors: Various colorschemes for vifm file explorer.](https://github.com/vifm/vifm-colors)
+* [gtaylor/python-colormath: A python module that abstracts common color math operations. For example, converting from CIE L*a*b to XYZ, or from RGB to CMYK](https://github.com/gtaylor/python-colormath)
+* [Why I use qutebrowser and how I configure it - adblocking, note taking, and colors](https://youtu.be/Av8Sfaprcb4)
+* https://www.nand2tetris.org/
+* [Crafting the Nyxt Browser](https://www.youtube.com/watch?v=Hvlkca98tyw)
+* [Nyxt Is The Most Custo](https://www.youtube.com/watch?v=SVteSEjKytw&t=175s)mizable Web Browser EVER
+* [Nyxt Web Browser - Keyboard driven, Lisp](https://www.youtube.com/watch?v=1TydtiWwZgQ&t=116s) Powered, And Does What I
+* [Nyxt: The Internet on your terms / Pierre](https://www.youtube.com/watch?v=wCHnb8pvneE) Neidhardt / GambiConf EU
+* [EmacsConf 2021: Emacs with Nyxt: extend your](https://www.youtube.com/watch?v=XarwuynpWkA) editor with the power of
 
-https://github.com/nwtnni/tock
+* https://github.com/flightlessmango/MangoHud
+* https://github.com/gburd/isync
+* https://wiki.archlinux.org/title/Msmtp
+* https://github.com/recap-utr/nlp-service
+* https://git-cliff.org/ 
+* https://github.com/jgm/djot
+* https://github.com/samuela/crunkurrent
+* https://github.com/Vanilla-OS/custom-image
+* https://github.com/Vanilla-OS/Vib
+* https://www.openbsdhandbook.com/openbsd_for_linux_users/
+* https://ratatui.rs/
+* https://zed.dev/blog/language-extensions-part-1
+* https://github.com/samuela?tab=repositories
+* https://github.com/szktkfm/mdtt
+* https://github.com/karino2/mdvtbl
+* https://github.com/denisdubochevalier?tab=repositories
+* https://github.com/nwtnni/tock
 - waveterm on nixos
     
     https://github.com/ErnWong/dotfiles/blob/689d0fe8932a188f524c20bd8121fc3bfc8ce6ed/pkgs/waveterm/default.nix 
@@ -21,30 +80,27 @@ https://github.com/nwtnni/tock
     
     Please feel free to continue working off from what I have if it helps, especially if I don't get back to this soon.
     
+* https://github.com/ldelossa/way-shell
+* https://github.com/samthor/kuto
+* https://github.com/dwisiswant0/unch
+* https://github.com/posit-dev/great-tables
+* https://sembr.org/ 
 
-https://github.com/ldelossa/way-shell
-https://github.com/samthor/kuto
-https://github.com/dwisiswant0/unch
-https://github.com/posit-dev/great-tables
-https://sembr.org/ 
-**What it’s like to run HTMX in Production - Stories from Experienced Software Engineers** https://www.youtube.com/watch?v=Ec_ovkHHuZ8 
-https://martinheinz.dev/blog/110
-https://foldersync.io/
-https://github.com/SilinMeng0510/imgcatr
-https://gitlab.gnome.org/World/amberol
-https://saitoha.github.io/libsixel/
-https://github.com/lukas-reineke/headlines.nvim
-https://github.com/dhth/prs
-https://nx.dev/recipes/tips-n-tricks/flat-config
-https://github.com/nvim-neorocks
-https://github.com/chrisbra/csv.vim
-https://commitmono.com/
-https://github.com/cococry/lyssa
-https://github.com/cococry/ragnar
-https://github.com/Gingeh/lust
-https://github.com/Q1CHENL/todoism
-https://github.com/evilmartians/lefthook
-https://github.com/glideapps/quicktype 
+* [What it’s like to run HTMX in Production - Stories from Experienced Software Engineers](https://www.youtube.com/watch?v=Ec_ovkHHuZ8)
+* https://martinheinz.dev/blog/110
+* https://foldersync.io/
+* https://github.com/SilinMeng0510/imgcatr
+* https://gitlab.gnome.org/World/amberol
+* https://saitoha.github.io/libsixel/
+* https://github.com/dhth/prs
+* https://nx.dev/recipes/tips-n-tricks/flat-config
+* https://github.com/nvim-neorocks
+* https://commitmono.com/
+* https://github.com/cococry/lyssa
+* https://github.com/cococry/ragnar
+* https://github.com/Gingeh/lust
+* https://github.com/evilmartians/lefthook
+* https://github.com/glideapps/quicktype 
 
 ## Ricing
 * https://github.com/adi1090x/widgets* https://github.com/outfoxxed/hy3* https://github.com/mahkoh/jay* https://github.com/MrVivekRajan/Grub-Themes

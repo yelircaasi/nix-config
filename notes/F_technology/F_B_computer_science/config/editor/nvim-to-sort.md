@@ -3,7 +3,20 @@
 # Neovim
 
 ## Sort
-
+* https://github.com/chrisbra/csv.vim
+* https://github.com/lukas-reineke/headlines.nvim
+* https://andrewcourter.substack.com/p/create-autocommands-in-neovim 
+* https://github.com/nomisreual/nixvim
+* https://github.com/ErdajtSopjani/nvim
+* Neovim Gurus https://andrewcourter.substack.com/ 
+* https://github.com/ErdajtSopjani/nvim
+* https://substack.com/@dotfiles
+* https://github.com/NachoNievaG/atac.nvim
+* https://astral.sh/blog/ruff-v0.4.0
+* https://github.com/artempyanykh/marksman
+* https://www.andersevenrud.net/neovim.github.io/lsp/configurations/zeta_note/ 
+* https://www.andersevenrud.net/neovim.github.io/lsp/configurations/jsonls/ 
+* https://github.com/dhall-lang/dhall-haskell/tree/main/dhall-lsp-server#readme
 
 * [https://substack.com/@exosyphon](https://substack.com/@exosyphon) *****
 * [https://ofirgall.github.io/learn-nvim/chapters/00-why-should-i-learn.html](https://ofirgall.github.io/learn-nvim/chapters/00-why-should-i-learn.html)

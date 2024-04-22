@@ -3,7 +3,47 @@
 ## Sort
 https://github.com/KZDKM/Hyprspace
 
-* Ideal Setup:* 1. Minimal use of mouse* 2. Unified, consistent, ergonomic keybindings* 3. Multiple layouts and configurations for different tasks* 4. Configurations well-documented and backed up, easy to reproduce with a few commands* 5. Aesthetically pleasing - unified color scheme (and ability to switch between themes)* 6. Privacy and security* 7. Maximized efficiency and productivity: work at the speed of thought, minimizing clutter & drag* 8. Reliable, solid system - no breakage
+https://github.com/denisdubochevalier/dwl
+
+https://github.com/thrombe/hyprkool
+
+https://github.com/eepykate/fet.sh
+
+https://github.com/kando-menu/kando/blob/main/docs/configuring.md 
+
+https://github.com/aeghn/rglauncher
+
+https://yarmo.eu/blog/playerctl-polybar/
+
+https://github.com/aeghn/rglauncher
+
+https://github.com/soulhotel/FF-ULTIMA
+
+https://github.com/soulhotel/Perfection-Firefox-CSS-Theme
+
+https://superuser.com/questions/1337469/grasemonkey-change-design-css
+
+**Never knew [Hyprland] had different animations than the default!** https://www.youtube.com/watch?v=UOniMj7bkh4 
+
+https://sr.ht/~atha/newm-atha/
+
+https://spwhitton.name/tech/code/papersway/
+
+sway migration https://www.reddit.com/r/swaywm/s/uafu7rzdOD
+
+**Never knew [Hyprland] had different animations than the default!**  https://www.youtube.com/watch?v=UOniMj7bkh4
+
+https://github.com/PurpleAce88/dwm-bar-in-rust-
+
+### Ideal Setup:
+* 1. Minimal use of mouse
+* 2. Unified, consistent, ergonomic keybindings
+* 3. Multiple layouts and configurations for different tasks
+* 4. Configurations well-documented and backed up, easy to reproduce with a few commands
+* 5. Aesthetically pleasing - unified color scheme (and ability to switch between themes)
+* 6. Privacy and security
+* 7. Maximized efficiency and productivity: work at the speed of thought, minimizing clutter & drag
+* 8. Reliable, solid system - no breakage
 
 # Desktop Meta - WMs, Compositors, Bars, Notifications, Launchers, etc.
 

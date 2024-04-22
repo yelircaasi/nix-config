@@ -28,7 +28,7 @@
 ## Interesting People
 ### YouTube
 * [Hugo Larochelle](https://www.youtube.com/user/hugolarochelle)
-
+* https://cs-syd.eu/about
 
 ### Tools & Tech
 * https://github.com/RossKnapman/HugoTheme (great icons)

@@ -1,4 +1,14 @@
 # Nix
+* https://github.com/direnv/direnv/wiki/Nix
+* https://github.com/samuela/nixos-vscode-server
+* https://github.com/nix-community/nixGL
+* https://github.com/numtide/nix-gl-host
+* https://app.cachix.org/cache/cuda-maintainers
+* https://www.tweag.io/blog/2019-03-28-introducing-lorri/
+* https://flake.parts/
+* https://github.com/juspay/hyperswitch
+* https://github.com/argoproj/argo-workflows 
+https://github.com/recap-utr/nlp-service 
 * https://github.com/mikeroyal/NixOS-Guide
 * [haslersn](https://github.com/haslersn/any-nix-shell) - fish, xonsh, zsh support for nix-run
 * $$$ https://git.sr.ht/~darumaka/SnowISO

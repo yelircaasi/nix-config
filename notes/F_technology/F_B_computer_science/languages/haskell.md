@@ -1,4 +1,22 @@
 # Haskell
+* excellent: https://github.com/jonascarpay/template-haskell https://github.com/jonascarpay/template-haskell
+* https://haskell-via-sokoban.nomeata.de/
+* http://haskell-for-readers.nomeata.de/
+* https://github.com/aveltras/setting-up-a-haskell-development-environment-with-nix
+* https://github.com/winitzki/sofp
+* Beginning Haskell: A Project-Based Approach http://libgen.rs/book/index.php?md5=5FD92112A756D51BFC9DC36009ACAECF
+* https://www.fpcomplete.com/haskell/tutorial/operators/
+* https://learnyouahaskell.com/functors-applicative-functors-and-monoids#applicative-functors
+* https://www.reddit.com/r/functionalprogramming/s/nfTlXQL5TU
+
+* https://www.fpcomplete.com/haskell/tutorial/operators/
+* use Hoogle search: https://www.stackage.org/
+* https://old.reddit.com/r/functionalprogramming/wiki/books
+* https://www.manning.com/books/grokking-functional-programming
+* https://guide.elm-lang.org/
+* https://cs3110.github.io/textbook/cover.html
+* https://github.com/MostlyAdequate/mostly-adequate-guide https://github.com/MostlyAdequate
+* https://github.com/aveltras/setting-up-a-haskell-development-environment-with-nix
 
 
 * https://github.com/Gabriella439/haskell-nix

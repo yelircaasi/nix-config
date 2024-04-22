@@ -6,6 +6,12 @@
 * https://www.flyde.dev/ - visual programming language for developers
 * https://www.roc-lang.org/tutorial 
 * https://rosettacode.org/wiki/Category:Plain_English
+* https://www.reddit.com/r/Julia/s/Dnj9U2mYqz
+* https://go.dev/learn/#featured-books
+* https://www.rustadventure.dev/
+* https://www.reddit.com/r/golang/s/oIndQllgPR
+* https://wordsandbuttons.online/the_real_cpp_killers.html
+* https://github.com/aviatesk/JET.jl
 
 How to define / compute optimality of progrmming languages (i.e. determine/construct optimal programming language)?
 

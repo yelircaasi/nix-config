@@ -2,10 +2,24 @@
 
 ## Top
 * $$$ [CS25 - Transformers United](https://youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
-
+https://github.com/JuliaNeuralGraphics/Whisper.jl/
 
 ## Unsorted Reading on Software, Tools, Resources
-    - Model Zoos
+https://huggingface.co/meta-llama/Meta-Llama-3-8B 
+
+https://rheinneckar.events/@nix_rust 
+
+https://contextual.ai/introducing-rag2/
+
+[https://github.com/ContextualAI/gritlm](https://github.com/ContextualAI/gritlm?tab=readme-ov-file)
+
+https://github.com/samuela/torch2jax
+
+https://www.quantamagazine.org/how-do-machines-grok-data-20240412/
+
+https://www.marktechpost.com/2024/04/19/google-deepmind-releases-penzai-a-jax-library-for-building-editing-and-visualizing-neural-networks/
+
+### Model Zoos
 * [Model Zoo](https://github.com/yusugomori/deeplearning-tf2/tree/master/models)
 * [Model Zoo](https://github.com/yusugomori/deeplearning-tf2/tree/master/models)
     

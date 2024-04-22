@@ -1,4 +1,4 @@
-{
+{    
     "A. General": [
         "[] Как работают машины.pdf"
     ],
@@ -1302,6 +1302,7 @@
                     "[]   * Путь в ИТ 2020"
                 ],
                 "<general>": [
+                    "[] Software Architecture Metrics.pdf",
                     "[] Effective Software Development for the Enterprise.pdf",
                     "[] Readme. Суровые реалии разработчиков.pdf",
                     "[] The Missing README A Guide for the New Software Engineer.pdf",
@@ -1314,6 +1315,7 @@
                     "[] Hardware and Software Projects Troubleshooting",
                     "[] Patterns, Principles, and Practices of Domain-Driven Design",
                     "[] Software Mistakes and Tradeoffs",
+                    "[] Software Testing Automation.pdf",
                     "[] Software Testing Automation",
                     "[] Test Automation Engineering Handbook",
                     "[] Современный подход к программной архитектуре",
@@ -1626,6 +1628,8 @@
         ],
         "Languages": {
             "C_C++": [
+                "[] Оптимизация программ на С++.pdf",
+                "[] C++ by Example.pdf",
                 "[] С++ 20 в деталях.pdf",
                 "[] Clean C++.pdf",
                 "[] Beginning Programming with C For Dummies",
@@ -2034,6 +2038,7 @@
                 "Tier 3": [],
                 "Tier 9": [],
                 "<Unsorted>": [
+                    
                     "[] < -1> Core Java Cheatsheet.pdf",
                     "[] < -1> DevOps Tools for Java  Developers.  Best Practices from Source Code to Production  Containers",
                     "[] < -1> Einfuehrung in die Programmierung mit Java.pdf",
@@ -2154,6 +2159,7 @@
                 ]
             },
             "JavaScript": [
+                "[] TypeScript Basics.pdf",
                 "[] Многопоточный Javascript.pdf",
                 "[] Simplified Javascript for VIPs.pdf",
                 "[] TypeScript Cookbook.pdf",
@@ -2377,6 +2383,8 @@
             ],
             "Python": {
                 "<uncategorized>": [
+                    "[] Решение трудных и увлекательных задач на Python.pdf",
+                    "[] Mastering Python. 50 Tips for Writing Better Code.pdf",
                     "[] «Непрактичный» Python",
                     "[] Building Modern GUIs with tkinter and Python",
                     "[] Mastering Python: 50 Specific Tips for Writing Better Code",
@@ -2825,6 +2833,9 @@
                 "[] Introduction to JSON"
             ],
             "<General>": [
+                "[] The Science of Functional Programming ->",
+                "[] PFPL Supplement: Church’s λ-Calculus.pdf",
+                "[] Practical Foundations for Programming Languages.pdf",
                 "[] From Objects to Functions",
                 "[] Learn Functional Programming",
                 "[] Functional Design.pdf",
@@ -3470,6 +3481,8 @@
                 "[] <0> Exploring the Power of ChatGPT.pdf"
             ],
             "Miscellaneous Topics": [
+                "[] Hands-On Entity Resolution.pdf",
+                "[] Байесовские модели восприятия и действия.pdf",
                 "[] Simulation with Python. Develop Simula....pdf",
                 "[] Exploring Deepfakes",
                 "[] Multi-Criteria Decision-Making Sorting Methods.pdf",

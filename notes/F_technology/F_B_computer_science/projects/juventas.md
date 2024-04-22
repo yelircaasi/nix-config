@@ -1,9 +1,12 @@
 # juventas.nvim
 
+* https://github.com/benlubas/molten-nvim/blob/main/docs/Notebook-Setup.md
+
 * https://jupyter-tutorial.readthedocs.io/de/latest/intro.html 
 * https://ipython.org/index.html 
 * https://jupyterbook.org/en/stable/intro.html# 
-
+* [dicussion on Discord](yeah that entire class was a mess. It's the reason that I "made" molten though, so I guess something good came out of it) 
+* [nvim screen capture](https://discord.com/channels/834325286664929280/877666474888675368/1232074272743096373)
 → [books](https://libgen.rs/search.php?&req=jupyter&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 * http://janakiev.com/blog/jupyter-virtual-envs/
 * https://en.m.wiktionary.org/wiki/Jupiter 

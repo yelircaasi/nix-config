@@ -1,4 +1,13 @@
 # Software to Sort
+* https://www.profanity.dev/
+* https://guix.gnu.org/blog/2023/parameterized-packages-for-gnu-guix/
+* https://www.youtube.com/@nyxt-browser
+* [How to take notes in the Nyxt browser?](https://www.youtube.com/watch?v=8fmWWgU_gk4)
+* https://www.youtube.com/@nyxtacademy5956
+* [Vieb: More Than Jus](https://www.youtube.com/watch?v=6DPDExXs77Q)t A Vim Inspired Browser
+* [I'm leaving Firefox, and this is](https://www.youtube.com/watch?v=DgFS1Do_1As) the browser I picked...
+* Nyxt Intro Video https://www.youtube.com/watch?v=8yBjfjFE0fk&t=193s
+* https://www.mkdb.sh/
 * [Big Pile of Vim-like](https://vim.reversed.top/)
 * [Luakit Web Browser](https://luakit.github.io/#sec-download)
 * [luakit/luakit: Fast, small, webkit based browser framework extensible by Lua.](https://github.com/luakit/luakit)

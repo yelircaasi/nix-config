@@ -3,6 +3,7 @@
 # Neovim
 
 ## Sort
+* backdround/global-note.nvim
 * https://github.com/chrisbra/csv.vim
 * https://github.com/lukas-reineke/headlines.nvim
 * https://andrewcourter.substack.com/p/create-autocommands-in-neovim 

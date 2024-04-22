@@ -3,7 +3,7 @@
 -> [dotfyle](https://dotfyle.com/neovim/configurations/top/)
 
 ## Sort 
-
+* $$$ [vsedov](https://github.com/vsedov/nvim) - good python and ML setup 
 * [benlubas](https://github.com/benlubas/nix-config/blob/main/programs/neovim.nix)
 * [](https://github.com/rufevean/nvim)
 * https://nvoid.org/

@@ -24,6 +24,7 @@ Vim Reference (book)
 * [Data Science Workflow with neovim - Watch Me Do Kaggle House Regression EDA (Part 1)!"](https://www.youtube.com/watch?v=V7vVq0fjAYs&lc=UgyPyqovYoxl7hS5lGt4AaABAg.A-NJPQ9TA8nA-NekO_Mkx2)
 * https://github.com/dhananjaylatkar/cscope_maps.nvim
 * https://github.com/mfulz/cscope.nvim
+* https://docs.sourcery.ai/Coding-Assistant/Guides/Getting-Started/Vim/
 
 neovim nix [reddit link](https://www.reddit.com/r/neovim/s/6nuivNQJII)
 write function buildVimPluginOpt to install in an opt directory where it can be imported with a command or an autocommand

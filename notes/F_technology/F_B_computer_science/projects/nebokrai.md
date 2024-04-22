@@ -942,6 +942,298 @@ CLI “Digital Assistant”
 ### Tier 9 - Maybe Someday
 
 ### Sort
+#### discussion
+* https://discord.com/channels/834325286664929280/877666474888675368/1222613062796705862
+#### →
+* ⇒ https://wiki.archlinux.org/title/List_of_applications/Other
+* https://orgmode.org/worg/org-contrib/
+* https://medevel.com/tag/productivity/  **
+* https://github.com/NorfairKing
+* [I haven’t found a decent ToDo list with this killer feature: dependencies. I wan… | Hacker News](https://news.ycombinator.com/item?id=11352791) https://news.ycombinator.com/item?id=11352791
+* [Stuff I did - The stuff I do](https://www.statox.fr/projects/#) https://www.statox.fr/projects/#
+#### pomodoro
+* https://github.com/pickfire/spt
+* https://github.com/jakethekoenig/tmux-pom ?
+* https://github.com/dbinagi/nomodoro
+* https://gist.github.com/tomordonez/afc9633c4c9a8f649155bf083ef040cf#file-pomodorotimer-py
+#### mobile
+* https://github.com/wireapp/lithium  https://wire.com/en
+* https://github.com/d-k-bo/gotify-rs
+* https://github.com/gotify/server
+* https://keep.imfreedom.org/pidgin/pidgin/
+* https://github.com/tinode/chat
+* https://github.com/twilio-labs/receptionist-bot-rs
+* https://slack-rust.abdolence.dev/
+* https://www.pushbits.io/
+* https://matrix.org/ecosystem/bridges/signal/
+* https://github.com/matrix-org/matrix-rust-sdk#readme
+* https://matrix.org/ecosystem/sdks/
+* https://f-droid.org/packages/com.github.gotify/
+* https://matrix.org/ecosystem/integrations/
+* https://gitlab.com/jpypi/rustix
+* https://gitlab.com/signald/signald
+* https://signald.org/
+* https://github.com/signalapp/libsignal
+* https://github.com/AsamK/signal-cli
+* https://github.com/jquku/Matrix-Chatbot
+* https://github.com/ergochat/ergo
+* https://sopel.chat/
+* https://libera.chat/guides/clients
+* https://f-droid.org/packages/io.mrarm.irc/
+* https://github.com/topics/irc-bot
+* https://sr.ht/~emersion/gamja/
+* https://sr.ht/~emersion/goguma/
+* https://github.com/bgregos/foreground
+* https://github.com/lwesterhof/semaphore
+* https://github.com/matrix-org/matrix-hookshot
+* https://play.google.com/store/apps/details?id=com.countercultured.irc4android
+* https://f-droid.org/packages/com.madlonkay.orgro/ → make for neorg
+* https://github.com/simplex-chat/simplex-chat/blob/stable/apps/simplex-bot-advanced/Main.hs
+* https://github.com/teloxide/teloxide
+* SchildiChat https://f-droid.org/packages/de.spiritcroc.riotx/
+* https://github.com/simplex-chat/simplex-chat/tree/stable/apps
+* https://simplex.chat/blog/20231125-simplex-chat-v5-4-link-mobile-desktop-quantum-resistant-better-groups.html
+* Best Secure Messaging App | FBI Document Leaked - YouTube https://www.youtube.com/watch?v=wj-aR96FOA0&pp=ygUPU2lnbmFsIGNoYXQgYm90
+* (Telegram inline keyboard? Add [custom keyboard](https://www.google.com/search?q=add+custom+keyboard+to+android&sxsrf=APwXEde_qAYevpIXgyBDpVjjtVpsAK4Huw:1682273314975&source=lnt&tbs=qdr:y&sa=X&ved=2ahUKEwjvrOq6zMD-AhUCsaQKHZB0BsEQpwV6BAgBEAs&biw=1717&bih=845&dpr=1) for Telegram to include slash and numbers on basic keyboard? → not highest priority)
+#### tw
+* Elevate Your Task Management With Ease - YouTube https://www.youtube.com/watch?v=U4pGz4KI1J0&t=12s&pp=2AEMkAIB
+* [ ]  https://github.com/vit-project/vit
+* [syncall/readme-tw-notion.md at master · bergercookie/syncall](https://github.com/bergercookie/syncall/blob/master/readme-tw-notion.md)
+* https://f-droid.org/packages/me.bgregos.brighttask/
+* [ ]  https://github.com/hugginsio/twig.nvim , also a nvim plugin
+* [Task management with Taskwarrior and Taskell](https://tallguyjenks.github.io/blog/task-management-with-taskwarrior-and-taskell.html)
+#### webhooks etc
+* https://github.com/adnanh/webhook
+* https://www.reddit.com/r/Notion/comments/nd76ec/notion_api_webhooks/
+#### habit
+* https://github.com/schmee/habu
+#### nvim
+* [Live* Server plugin for *vim*/*nvim* : r/*neovim* - Reddit](https://www.reddit.com/r/neovim/comments/w86ash/live_server_plugin_for_vimnvim/)
+#### cli
+* https://github.com/python-poetry/cleo
+* https://rich.readthedocs.io/en/stable/introduction.html
+* https://click.palletsprojects.com/en/8.1.x/  ← looks really good
+* https://docs.python.org/3.11/library/argparse.html#module-argparse
+* [Egnod/karakurt: Cookiecuttrer-template for python cli app](https://github.com/Egnod/karakurt)
+* [10 Best Free and Open Source Command-Line Python Application Development Tools - LinuxLinks](https://www.linuxlinks.com/best-free-open-source-command-line-python-application-development-tools/)
+#### tui
+* [ ]  https://github.com/Textualize/textual
+* → https://github.com/Textualize/textual/discussions/165
+* [Curses Programming with Python — Python 3.11.2 documentation](https://docs.python.org/3/howto/curses.html)
+* [Introduction - Textual](https://textual.textualize.io/)
+* [How To Use VIT The Curses Based](https://www.youtube.com/watch?v=wY3DJVSWdeI&t=363s)
+* [brick: A declarative terminal user interface library](https://hackage.haskell.org/package/brick)
+* [curses — Terminal handling for character-cell displays — Python 3.11.2 documentation](https://docs.python.org/3/library/curses.html#module-curses)
+* [curses (programming library) - Wikipedia](https://en.wikipedia.org/wiki/Curses_(programming_library))
+* https://github.com/avelino/awesome-go#advanced-console-uis
+#### gui
+* https://develop.kde.org/frameworks/kirigami//
+#### hosting
+* https://dashboard.heroku.com/account heroku backup XY047RVTHX H0RYMIZ36C VTU7G4K6YO IMDP455R7S P7EN0W7BZP NDWZ0FMG1L ECTT2W4552 ZTICQNARDY 7SUJG65VN8 J1B78S0QOR
+* [Install Ubuntu Server | Ubuntu](https://ubuntu.com/tutorials/install-ubuntu-server#6-choose-your-install)
+#### doc formats
+* https://github.com/chris48s/stage-left ([x]it)
+#### matrix
+* https://gitlab.com/jpypi/rustix
+* https://github.com/poljar/matrix-nio
+#### db, dvc
+* [Welcome to TinyDB! — TinyDB 4.7.1 documentation](https://tinydb.readthedocs.io/en/latest/)
+* [set up dvc with google drive - Google Search](https://www.google.com/search?client=firefox-b-d&q=set+up+dvc+with+google+drive)
+* [msiemens/tinydb: TinyDB is a lightweight document oriented database optimized for your happiness :)](https://github.com/msiemens/tinydb)
+* https://tinydb.readthedocs.io/en/latest/
+#### web
+* [SSH and GPG keys](https://github.com/settings/keys)
+* https://github.com/adnanh/webhook
+* [Block Elements - Wikipedia](https://en.wikipedia.org/wiki/Block_Elements)
+* https://github.com/MahmoudNasser01/django_simple_notification
+* http://snapframework.com/
+* http://www.spock.li/
+* https://www.yesodweb.com/
+* https://hackage.haskell.org/package/warp
+* http://www.servant.dev/
+* https://haskell.dev/article/Building_web_applications_with_Haskell_A_beginners_guide.html
+* https://www.happstack.com/
+* https://www.haskell.org/haskellwiki/Web
+* https://wiki.haskell.org/Web/Servers
+* https://github.com/litehtml/litehtml
+* https://www.npmjs.com/package/browser-sync
+* [Is there a plugin for *live preview* my web projects on … - Reddit](https://www.reddit.com/r/neovim/comments/uzqx2i/is_there_a_plugin_for_live_preview_my_web/)
+* [Introducing *live*command.*nvim*: *preview* the norm … - Reddit](https://www.reddit.com/r/neovim/comments/xx5hhp/introducing_livecommandnvim_preview_the_norm/)
+* I use markdown-*preview*.*nvim* for getting a *live preview* when editing Markdown files. But is there something similar for web development?
+* https://dev.to/fidelve/using-vim-as-your-main-editor-for-web-development-5a73
+#### ? (apps)
+* https://medevel.com/cuekeeper/ https://github.com/talex5/cuekeeper
+* [ ]  https://github.com/klaudiosinani/taskbook
+* [ ]  https://github.com/darrikonn/td-cli
+* [Pricing - WakaTime](https://wakatime.com/pricing)
+* https://sma.supermemo.wiki/#/
+* [amiof/todo-list-: a todo list create with js and html & css](https://github.com/amiof/todo-list-)
+* [Tinycare-Tui](https://www.reddit.com/r/golang/s/fVY4hoTMYY) https://github.com/DMcP89/tinycare-tui  https://www.reddit.com/r/golang/s/fVY4hoTMYY
+* https://github.com/notwaldorf/tiny-care-terminal
+* https://organice.200ok.ch/
+* https://about.org-note.com/  https://github.com/artawower/orgnote
+* https://f-droid.org/packages/com.mhss.app.mybrain/
+* https://github.com/orgzly/orgzly-android
+* https://tasks.org/  $$$$$$$$$
+* [Taiga 30min Setup - Learn Taiga basics - Taiga Community](https://community.taiga.io/t/taiga-30min-setup/170)
+* https://org-web.org/
+* https://appwrite.io/
+* https://anytype.io/ https://github.com/orgs/anyproto/repositories
+* https://github.com/200ok-ch/organice https://organice.200ok.ch/
+* nebokrai $$$$$$$$$ https://smos.online/
+* [ ]  https://github.com/pimutils/todoman
+* [johannesjo/super-productivity: Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.](https://github.com/johannesjo/super-productivity)
+* https://github.com/Nighty3098/FocuseSpace
+* https://github.com/tools-life/taskwiki
+* (productivity) https://github.com/matthiasn/lotti  $$$
+* https://foambubble.github.io/foam/
+#### misc software to use
+* https://www.freedesktop.org/wiki/Software/dbus/
+#### gantt
+* [ ]  https://github.com/timeopochin/GanTTY
+* [ ]  name idea: ganttstopme, ganttstopmenow
+* [timeopochin/GanTTY: Project planning from the terminal](https://github.com/timeopochin/GanTTY)
+* [ganttouchthis/LICENSE at main · yelircaasi/ganttouchthis](https://github.com/yelircaasi/ganttouchthis/blob/main/LICENSE)
+* https://www.google.com/search?client=firefox-b-d&q=open+source+web+gantt+viewer
+#### kanban
+* [Lyaaaaaaaaaaaaaaa/Project_Kanban: A lightweight desktop software, under the MIT licence to create and manage your Kanbans boards for your personal projects](https://github.com/Lyaaaaaaaaaaaaaaa/Project_Kanban)
+#### notes
+* → example: https://github.com/Cvaniak/NoteSH
+* [ ]  https://github.com/dnote/dnote
+* [ ]  https://github.com/xwmx/nb
+* [ ]  https://vhp.github.io/terminal_velocity/
+* [ ]  https://notable.app/#features
+* [ ]  https://onthesamepage.online/about
+* [note templates](https://jacobzelko.com/08032021134232-notes-template/#example_of_actual_note)
+* https://github.com/usememos/memos
+* [ ]  https://github.com/xwmx/nb  ***
+#### wiki
+* https://github.com/brunocbr/zettel-composer
+* [I Should Have Just Used Vimwiki From The Start](https://youtu.be/vBJj7YMVn6I)
+* [VIMKipedia: Or How I Built My Second Brain Using Vim - YouTube](https://www.youtube.com/watch?v=q80hXvorl0o)
+* search: vimwiki for android
+* [TiddlyWiki — a non-linear personal web notebook](https://tiddlywiki.com/)
+* [zadam/trilium: Build your personal knowledge base with Trilium Notes](https://github.com/zadam/trilium)
+* https://fortelabs.com/blog/test-driving-a-new-generation-of-second-brain-apps-obsidian-tana-and-mem/
+* https://github.com/phaazon/mind → also look at how keymaps are handled and represented
+#### notion, appflowy, jira, etc
+* [My integrations | Notion Developers](https://www.notion.so/my-integrations) https://www.notion.so/my-integrations
+* https://github.com/toeverything/AFFiNE
+* https://ramnes.github.io/notion-sdk-py/
+* https://github.com/toeverything/AFFiNE
+* [Reddit - Here! Some USEFUL date formulas for your Notion’s Setup!](https://www.reddit.com/r/Notion/comments/fsnmmg/here_some_useful_date_formulas_for_your_notions/)
+* https://www.notion.so/my-integrations
+* https://ecosystem.atlassian.net/wiki/spaces/JRJC/overview
+* via Trello?
+* https://github.com/makenotion/notion-sdk-js
+* https://github.com/ramnes/notion-sdk-py
+* https://github.com/getsyncr/notion-sdk (deprecated)
+* https://github.com/makenotion/notion-sdk-typescript-starter
+* → switch to https://www.focalboard.com/  ?
+* [HedgeDoc - The best platform to write and share markdown.](https://hedgedoc.org/)
+* [Whimsical - Work Better, Faster, Together](https://whimsical.com/)
+* [hedgedoc/hedgedoc at blog.cloudron.io](https://github.com/hedgedoc/hedgedoc?ref=blog.cloudron.io)
+* https://www.znuny.org/de
+* https://www.thegist.so/#Pricing
+#### time tracking
+* [ ]  https://github.com/kstenschke/tictac-track
+* https://github.com/TheRolfFR/activity-tracker
+* https://activitywatch.net/
+* https://github.com/AlphabetsAlphabets/actt
+* [irq0/whatidid: what I do and what I did](https://github.com/irq0/whatidid)
+* [kquick/mywork: Tool to keep track of what you have been working on, and where and when work should continue](https://github.com/kquick/mywork)
+* https://arbtt.nomeata.de/#what https://github.com/nomeata/arbtt - automatic rule-based time tracker
+* https://github.com/viseshrp/workedon
+#### neorg
+* [ ]  https://github.com/nvim-neorg/neorg
+* https://github.com/nvim-neorg/neorg/wiki/GTD-Queries/ba2cc1c5cf8c5ed0690e445f213e18c04ff4e157
+#### calendar
+* https://github.com/anufrievroman/calcure
+* https://julian.digital/2023/07/06/multi-layered-calendars/
+* https://julian.digital/2023/07/06/multi-layered-calendars/
+#### J, theory
+* [gtd books](http://libgen.rs/search.php?req=getting+things+done+David+allen&open=0&res=25&view=simple&phrase=1&column=def) http://libgen.rs/search.php?req=getting+things+done+David+allen&open=0&res=25&view=simple&phrase=1&column=def
+* [BOOKSTORES: How to Read More Books in the Golden Age of Content](https://youtu.be/lIW5jBrrsS0)
+* [Are TODO Applications Hind](https://www.youtube.com/watch?v=BcxZj2qh4Kw)ering Your Productivity?
+* [TagTrees: Improving Personal Information Management Using Associative Navigation- on screen version](https://karl-voit.at/tagstore/downloads/Voit2012b.pdf)
+* [The Tag «pim»](https://karl-voit.at/tags/pim/)
+* https://jamesclear.com/how-to-stop-procrastinating
+* https://www.jeffsanders.com/the-7-essential-elements-of-productivity-element-4-planning/
+#### historical
+* [TaskMaster](http://www.kevra.org/TheBestOfNext/ThirdPartyProducts/ThirdPartySoftware/InformationManagement/TaskMaster/TaskMaster.html)
+#### video / blog explaining personal system
+* [my productivity workflow 2023!](https://youtu.be/IZX-cDR6IQM)
+* [my productivity workflow 2023!](https://youtu.be/IZX-cDR6IQM)
+* [My Get Things Done (GTD) Task](https://www.youtube.com/watch?v=8I7nQmKAWpM) Management System Using
+* **Productivity Setup with Vimwiki, Taskwarrior and MDwiki: Part 1** https://www.youtube.com/watch?v=A1YgbAp5YRc
+* [My efficient and effective Productivity Setup With Emacs, Org Mode and Org Agenda](https://youtu.be/oG9jP0SsPqQ)
+* My GTD Emacs Workflow (Getting Things Done) - YouTube https://m.youtube.com/watch?v=92PCxH29UCo
+#### → export
+* https://github.com/kala13x/libxutils
+* [JasonShin/fp-core.rs: A library for functional programming in Rust](https://github.com/JasonShin/fp-core.rs)
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter18/)
+* [Paperspace Blog](https://blog.paperspace.com/)
+* [python - Combining pyperclip copy-to-clipboard with pyautogui paste? - Stack Overflow](https://stackoverflow.com/questions/47075240/combining-pyperclip-copy-to-clipboard-with-pyautogui-paste)
+* Read https://learnxinyminutes.com/docs/fr-fr/lua-fr/, https://learnxinyminutes.com/docs/pt-br/lua-pt/, https://learnxinyminutes.com/docs/de-de/lua-de/, https://learnxinyminutes.com/docs/ru-ru/lua-ru/
+* algorithm - Evenly space n items over m iterations - Stack Overflow
+* [Stuff I did - The stuff I do](https://www.statox.fr/projects/#)
+* https://graz.social/@publicvoit/111388551599358628
+* [pywal/pywal/backends/wal.py at master · dylanaraps/pywal](https://github.com/dylanaraps/pywal/blob/master/pywal/backends/wal.py)
+* https://github.com/Rigellute/spotify-tui/issues/732 for spotify-tui on rpi
+* https://docs.spotifyd.rs/installation/Raspberry-Pi.html
+* [https://accounts.spotify.com/authorize?response_type=code&state=AV5CzOfJ8YxNnEch&client_id=0cd789e4785c4b19ad5a200822b12104&redirect_uri=http:%2F%2Flocalhost:8888%2Fcallback&scope=playlist-read-collaborative playlist-read-private playlist-modify-private playlist-modify-public user-follow-read user-follow-modify user-library-modify user-library-read user-modify-playback-state user-read-currently-playing user-read-playback-state user-read-playback-position user-read-private user-read-recently-played&](https://accounts.spotify.com/authorize?response_type=code&state=AV5CzOfJ8YxNnEch&client_id=0cd789e4785c4b19ad5a200822b12104&redirect_uri=http:%2F%2Flocalhost:8888%2Fcallback&scope=playlist-read-collaborative%20playlist-read-private%20playlist-modify-private%20playlist-modify-public%20user-follow-read%20user-follow-modify%20user-library-modify%20user-library-read%20user-modify-playback-state%20user-read-currently-playing%20user-read-playback-state%20user-read-playback-position%20user-read-private%20user-read-recently-played&)
+* https://developer.spotify.com/dashboard
+* [proglang table](https://www.notion.so/189fb9f08c944ab3ba2c284a4fb09445?pvs=21)
+* [palette::named - Rust](https://docs.rs/palette/0.4.1/palette/named/index.html#constants)
+* [rdbo/sigma-linux: Sigma Linux - Σlite Operating System](https://github.com/rdbo/sigma-linux)
+* [mtkennerly/poetry-dynamic-versioning: Plugin for Poetry to enable dynamic versioning based on VCS tags](https://github.com/mtkennerly/poetry-dynamic-versioning)
+* [Colored and Clickable Wrapping URLs in LaTeX and LyX](http://troubleshooters.com/linux/lyx/urlwrap.htm)
+* [Is there a plugin for seeing a live preview of HTML/CSS/JS?Reddithttps://www.reddit.com › neovim › comments › plggq3](https://www.reddit.com/r/neovim/comments/plggq3/is_there_a_plugin_for_seeing_a_live_preview_of/)
+* [GitHub - rdbo/sigma-linux: Sigma Linux - Σlite Operating System](https://github.com/rdbo/sigma-linux)
+* [Create a Bootable Device - Alpine Linux](https://wiki.alpinelinux.org/wiki/Create_a_Bootable_Device)
+#### formats
+* https://xit.jotaen.net/
+* https://stackoverflow.com/questions/35250621/recursive-self-referencing-json-schema
+* https://stackoverflow.com/questions/20752716/json-schema-recursive-schema-definition
+* [JSON Schema](https://json-schema.org/understanding-json-schema)
+* [JSON Schema - object](https://json-schema.org/understanding-json-schema/reference/object#regexp)
+* [JSON Schema 2020-12](https://www.learnjsonschema.com/2020-12/)
+* [types-jsonschema · PyPI](https://pypi.org/project/types-jsonschema/#history)
+* [Live* markdown *preview* to PDF : r/*neovim* - Reddit](https://www.reddit.com/r/neovim/comments/w7ki77/live_markdown_preview_to_pdf/)
+#### scheduling
+* https://github.com/PROxZIMA/TimetableScheduler
+* https://github.com/topics/timetable-generator
+#### spaced repetition
+* Spaced repetition systems can be used to program attention https://notes.andymatuschak.org/zB92WZZ5baBHKZPPbWMbYEv
+#### other
+* [Python 3.12 Generic Types Explained ArjanCodes ArjanCodes Verificada • • 5,2 K visualizaciones hace 5 horas Nuevo](https://www.youtube.com/watch?v=q6ujWWaRdbA)
+* [Protocols in Python: Why You Need Them - GoDataDriven](https://godatadriven.com/blog/protocols-in-python-why-you-need-them/)
+* [How to create module-wide variables in Python? - Stack Overflow](https://stackoverflow.com/questions/1977362/how-to-create-module-wide-variables-in-python)
+* [Pytest With Eric](https://pytest-with-eric.com/)
+* [Welcome to Pydantic - Pydantic](https://docs.pydantic.dev/latest/)
+* [Pytest With Eric](https://pytest-with-eric.com/)
+* [Building Implicit Interfaces in Python with Protocol Classes](https://andrewbrookins.com/technology/building-implicit-interfaces-in-python-with-protocol-classes/)
+* [nebokrai/.envrc at main · yelircaasi/nebokrai](https://github.com/yelircaasi/nebokrai/blob/main/.envrc)
+* [annotated-types/annotated_types/**init**.py at main · annotated-types/annotated-types](https://github.com/annotated-types/annotated-types/blob/main/annotated_types/__init__.py)
+* Read https://neovim.io/doc/user/lua.html
+* Read https://www.lua.org/manual/5.1/1
+#### fitness
+* [Body Weight Planner - NIDDK](https://www.niddk.nih.gov/bwp)
+#### diff
+* [GitPython/git/diff.py at main · gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython/blob/main/git/diff.py)
+* https://hackage.haskell.org/package/Diff
+* https://stackoverflow.com/questions/41031207/generic-diff-of-objects-that-include-lists-with-gdiff
+* https://www.reddit.com/r/haskell/comments/kcfpii/recommendation_for_diffing_library_in_haskell/
+* https://github.com/bgamari/diff-utils
+* https://github.com/google/diff-match-patch
+* https://hackage.haskell.org/package/Diff-0.4.0/docs/Data-Algorithm-Diff.html
+* [Data.Generic.Diff](https://hackage.haskell.org/package/gdiff-1.1/docs/Data-Generic-Diff.html)
+* [Data.Array.Diff](https://www.haskell.org/ghc/docs/6.0/html/base/Data.Array.Diff.html)
+* https://hackage.haskell.org/package/dlist
+* [https://www.reddit.com › r › haskell › comments › 17hznjg › introducing_myersdiff_a_fast_text_diffing_library](https://www.reddit.com/r/haskell/comments/17hznjg/introducing_myersdiff_a_fast_text_diffing_library/)
+* [https://hoogle.haskell.org › ?hoogle=diff](https://hoogle.haskell.org/?hoogle=diff)
+* [difflib — Helpers for computing deltas — Python 3.12.0 documentation](https://docs.python.org/3/library/difflib.html)
+
 ##### inthe.am
 * [inthe.am](https://inthe.am/configure/synchronization) + [foreground](https://github.com/bgregos/foreground)
 * [taskwarrior-inthe.am](https://github.com/coddingtonbear/taskwarrior-inthe.am)

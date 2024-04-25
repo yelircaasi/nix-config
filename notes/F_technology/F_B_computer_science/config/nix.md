@@ -1,4 +1,6 @@
 # Nix
+-> nix tools * [NixOS Search - Packages - nix](https://search.nixos.org/packages?channel%3Dunstable%26from%3D0%26size%3D50%26sort%3Drelevance%26type%3Dpackages%26query%3Dnix)
+
 * https://github.com/direnv/direnv/wiki/Nix
 * https://github.com/samuela/nixos-vscode-server
 * https://github.com/nix-community/nixGL

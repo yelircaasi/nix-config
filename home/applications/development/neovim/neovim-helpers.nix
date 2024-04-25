@@ -9,8 +9,43 @@
   node,
   ...
 }: let
-  features = import ./features {inherit pkgs lib g;};
-  languages = import ./languages {inherit pkgs lib g;};
+  let
+# ---------------- other function --------------------
+mkOptPluginsFromPackages = pluginPkgList: 
+  map 
+    (pkg: {optional = true; plugin = pkg;}) 
+    pluginPkgList;
+# ----------------------------------------------------
+
+/* combine attrSets as expansively as possible,  
+    merging attrSet values and concatenating array values */
+mergeAttrs = with lib; attrSetList:
+  let f = attrPath:
+    builtins.zipAttrsWith (n: values:
+      if tail values == []
+        then head values
+      else if all isList values
+        then unique (concatLists values)
+      else if all isAttrs values
+        then f (attrPath ++ [n]) values
+      else last values
+    );
+  in f [] attrSetList;
+
+  # boilerplate = {...};
+  basicSet = (import ./basic-features {inherit pkgs lib g;};);
+  featureSet = (import ./language-independent-features {inherit pkgs lib g;};) // 
+    (import ./language-quasi-independent-features {inherit pkgs lib g;};);
+  languageSet = import ./language-specific {inherit pkgs lib g;};
+  output = boilerplate // (mergeAttrs [basicSet featureSet languageSet]);
+
+  
+
+  ###mergeAttrs = attrs: lib.foldl' (acc: x: acc // x) {} attrs;
+  
+
+  # -------------------- old below here ----------------------------------
+  
   getLangs = tmp: tmp;
   getFeats = tmp: tmp;
   langs = getLangs neovimConfig;
@@ -22,6 +57,7 @@
       ++ (map (featName: features.${featName}.packages) feats)
     );
 
+  # SEE HERE: https://github.com/NixOS/nixpkgs/blob/2230a20f2b5a14f2db3d7f13a2dc3c22517e790b/nixos/modules/programs/neovim.nix
   createNeovimHMProgramSet = neovimConfig: {
     enable = true;
     defaultEditor = true;

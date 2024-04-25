@@ -1,6 +1,6 @@
 # Computer Science / Programming Books
 
-## Unsorted
+## SORT
 * [gnuplot books](http://www.gnuplot.info/books.html)
 * [Purely functional data structures](http://library.lol/main/B9CFBFBDDF11107F53D1EE7448006453)
 * [in a month of lunches](http://libgen.rs/search.php?&req=in+a+month+of+lunches&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)

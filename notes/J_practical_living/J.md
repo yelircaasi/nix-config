@@ -470,7 +470,7 @@ Two questions to ask yourself after every reading session: What do I want to rem
 * Attributes
 * 
 
-## Sort: Links
+## S: Links
 * [How to enter ‘flow state’ on command | Steven Kotler for Big Think](https://www.youtube.com/watch?v=znwUCNrjpD4)
 * https://caps.byu.edu/biofeedback
 * http://thevirtualinstructor.com/

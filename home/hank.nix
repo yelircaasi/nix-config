@@ -4,7 +4,9 @@
   ...
 }: {
   imports = [
-    ./applications/common
+    ./common
+    ./common-from-device-config.nix
+
     ./applications/work-garbage
 
     ./sops

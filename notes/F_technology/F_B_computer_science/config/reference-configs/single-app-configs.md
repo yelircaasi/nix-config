@@ -58,3 +58,8 @@ spacefm [wok/spacefm/receipt at 86cfc9d82cfe669cb23142955dd8e313459dbde6 · SliT
 
 ## Hyprland
 * [jjba-projects](https://gitlab.com/jjba-projects/dotfiles/-/blob/master/nix/nixos/users/joe/hyprland.nix?ref_type=heads) - nix
+
+
+
+
+* https://github.com/JaKooLit/Hyprland-v2.1/tree/main/config%2FThunar

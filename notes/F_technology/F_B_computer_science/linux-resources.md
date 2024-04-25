@@ -241,7 +241,7 @@
 ## Podcasts
 * https://focusonlinux.podigee.io/ 
 
-Podcast: This Week in Linux
+Podcast: This Week in Linux+
 
 ## Companies and Organizations
 * [Aleph Objects](https://www.alephobjects.com/) - Respects Your Freedom (RYF) certified 3D printer built with libre hardware and software.
@@ -252,6 +252,23 @@ Podcast: This Week in Linux
 * [ThinkPenguin](https://www.thinkpenguin.com/) - Modern laptops, desktops, and printers that contain no proprietary software.
 * [Vikings](https://vikings.net/) - Hosting company powered by Libreboot firmware, libre software, and green energy that also sells hardware.
 * [https://framasoft.org/en/ →](https://framasoft.org/en/) https://degooglisons-internet.org/en/
+
+## SORT 
+distro  * [](https://github.com/Vanilla-OS/custom-image
+distro * [](https://github.com/Vanilla-OS/Vib
+distro * [](https://gitlab.com/garuda-linux/)
+distro * [](https://guix.gnu.org/en/blog/2018/guix-on-android/)
+distro * [](https://ubuntu.com/blog/ubuntu-core-an-immutable-linux-desktop) 
+distro * [](https://www.openbsdhandbook.com/openbsd_for_linux_users/
+distro * [ais](https://github.com/archsinner/ais) archsinner install script 
+distro * [Arch Linux Automated Install Script](https://low-orbit.net/arch-linux-automated-install-script)
+distro * [axyl-os/axyl-iso/releases](https://github.com/axyl-os/axyl-iso/releases)
+distro * [distinstall-python](https://github.com/Thanatisia/distinstall-python) hn 
+distro * [ExpidusOS](https://expidusos.com/en/)
+distro * [Front Page | ReactOS Project](https://reactos.org/)
+distro * [Internet OS](https://www.reddit.com/r/linux/s/2hLxTTSWC6) [](https://www.reddit.com/r/linux/s/QB2fxnMkOy)
+distro * [parametrized packages for guix](https://guix.gnu.org/blog/2023/parameterized-packages-for-gnu-guix/)
+distro guix * [channel-x](https://github.com/daviwil/channel-x)
 
 ## Drivers
 
@@ -399,7 +416,7 @@ WARNING: Running pip as the 'root' user can result in broken permissions and con
 
 ```
 
-## Unsorted
+## SORT
 * [Welcome to linuxzoo](https://linuxzoo.net/)
 
 $$$ POSIX standard https://pubs.opengroup.org/onlinepubs/9699919799/

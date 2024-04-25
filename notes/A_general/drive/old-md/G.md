@@ -1218,7 +1218,7 @@ A Mind for Numbers.gdoc
 * Теорія та методика навчання математики, фізики, інформатики.pdf
 
 
-## <Sort>
+## SORT
 
 Psychologie im Alltag
 * Das Psychologie-Buch

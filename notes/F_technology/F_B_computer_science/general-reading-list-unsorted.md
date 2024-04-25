@@ -54,7 +54,7 @@
 Code strukturieren // deutsch
      * [How I make science animations](https://www.youtube.com/watch?v=yaa13eehgzo)
 
-## Unsorted
+## SORT
 * [Curso de REDES informáticas. 175 vídeos de calidad - YouTube](https://www.youtube.com/playlist?list=PLomN84AdULIBcoI8Rb98dnompliIktJk9)
 * https://blog.finxter.com/10-best-bitcoin-books-your-ultimate-guide-for-2023/ 
 * Adapter, Bridge, Composition over inheritance,
@@ -487,7 +487,7 @@ FP discussion https://www.reddit.com/r/functionalprogramming/s/mvp30BfqJW
 * [From Nand to Tetris Part 2](https://youtube.com/playlist?list=PLrDd_kMiAuNmllp9vuPqCuttC1XL9VyVh)
 
 
-## Sort (9)
+## SORT
 * https://www.buecher.de/shop/englische-buecher/the-elements-of-computing-systems/nisan-noamschocken-shimon/products_products/detail/prod_id/23304349/    * [Concepts, techniques, and models of computer programming](http://library.lol/main/DB945BB2247838385EA4A7FC1EBA38F5)    * [Programmation : Concepts, techniques et modèles](http://library.lol/main/0D56FE10B972B21589F3ED9A3B3F25DE)
 * [Scrum UA](https://vk.com/wall-55985842_18991)
 * [Structure and Interpretation of Computer Programs: SICP (Coding Tech)](https://www.youtube.com/watch?v=f7s8_PGpVT0)
@@ -521,15 +521,15 @@ FP discussion https://www.reddit.com/r/functionalprogramming/s/mvp30BfqJW
 * https://ziglang.org/
 
 
-## Sort (10) X
+## SORT
     
 
 
-## Sort (11) X
+## SORT
     
 
 
-## Sort (12)
+## SORT
 * https://www.freecodecamp.org/news/best-tech-podcasts-for-software-developers/
 * https://www.freecodecamp.org/news/how-to-get-things-done-lessons-in-productivity/
 * https://www.freecodecamp.org/news/how-to-get-your-first-freelancing-client-project/
@@ -920,7 +920,7 @@ FP discussion https://www.reddit.com/r/functionalprogramming/s/mvp30BfqJW
     CMD+UPARROW+K = push
 
 
-## Sort (22)
+## SORT
 * [$$$The beginner’s guide to contributing to a GitHub project – Rob Allen's DevNotes](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
 * [Discover how to migrate from SVN to Git](https://email.axosoft.com/e2t/tc/VWTcC_5KZXsfVvYGsW7zSr5VW5g6HvJ4gXmvtN8_nRFX3p_8SV1-WJV7CgRN-W687rzv8vQWgxVy6hjd3cCNs0W7STRD85KJqfqW66Hbl24S9xXfW7-Kk1L8MsTwHW27vbgm4dR1C_W8FYRmv24M5G6Vxp5_b5MvL5cVTb7dW5vv3rgW1gzWhf2-p37hN6Ttc8D24S3dW2m3Gqc4CHnjZW7M4VjR5SzW4qW3kQGDg7Ry23-W4VhvKp7bqWB1W1Kxmy96-jCWsN3MFH2T56H-TN5_k6GFLLMRtW7XH3kp14wDLkN3nWs0XrHN-XV3NRqB3qyfrkW7kHTDP93L1Js3nJY1)
 * [Gitflow](https://blog.axosoft.com/gitflow/?utm_campaign=Newsletter&utm_medium=email&_hsmi=96910927&_hsenc=p2ANqtz-_7zH5aBH6uIdllb66GySm-JhjJne0t82UA-2CjvDdyACy-l3Ux4R0mLYmeXd6iMgQeFCn24xSk2Jv6MXrW6to-1Ljktg&utm_content=96908404&utm_source=hs_email)
@@ -954,7 +954,7 @@ FP discussion https://www.reddit.com/r/functionalprogramming/s/mvp30BfqJW
 * https://www.youtube.com/watch?v=0IkaXvwjDf8
 
 
-## Sort (23)
+## SORT
 * https://two-wrongs.com/
 * [Funktionale Programmierung für Java-Entwickler](https://www.youtube.com/watch?v=gkIgo892N_w)
 * [How Do Computers Remember?](https://youtu.be/I0-izyq6q5s)
@@ -982,7 +982,7 @@ FP discussion https://www.reddit.com/r/functionalprogramming/s/mvp30BfqJW
 * https://bioinfo-fr.net/
 
 
-## Sort (24)
+## SORT
 * https://www.kyb.tuebingen.mpg.de/de
 * [The Computational Theory of Intelligence: Applications to Genetic Programming and Turing Machines | Sci-napse | Academic search engine for paper](https://scinapse.io/papers/2079219125)
 * [Boolean algebra - Wikipedia](https://en.wikipedia.org/wiki/Boolean_algebra)
@@ -1019,7 +1019,7 @@ FP discussion https://www.reddit.com/r/functionalprogramming/s/mvp30BfqJW
 * https://8d9.ru/
 
 
-## Sort (25)
+## SORT
 * [Computer Networks / Computernetze: Bilingual Edition: English – German / Zweisprachige Ausgabe: Englisch – Deutsch | Christian Baun | download](https://b-ok.cc/book/5245432/8390d2)
 * [Lineare Optimierung und Netzwerkoptimierung: Zweisprachige Ausgabe Deutsch Englisch 2., verbesserte Auflage | Prof. Dr. Horst W. Hamacher, Prof. Dr. Kathrin Klamroth (auth.) | download](https://b-ok.cc/book/2332468/2e2c22)
 * [Networking tutorial - YouTube](https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW)
@@ -1075,7 +1075,7 @@ FP discussion https://www.reddit.com/r/functionalprogramming/s/mvp30BfqJW
 * https://shell.cloud.google.com/?walkthrough_tutorial_url=https%3A%2F%2Fwalkthroughs.googleusercontent.com%2Fcontent%2Fgke_cloud_code_create_app%2Fgke_cloud_code_create_app.md&show=ide&environment_deployment=ide&authuser=1&fromcloudshell=true
 
 
-## Sort (26)
+## SORT
 * https://github.com/styfle/awesome-online-ide
 * https://lightsail.aws.amazon.com/ls/webapp/create/instance?region=eu-central-1
 * https://www.google.com/search?client=firefox-b-d&q=data+science+in+the+cloud

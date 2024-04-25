@@ -1,6 +1,6 @@
 # General CS / Programming Notes
 
-## Unsorted Notes and Ideas
+## SORT Notes and Ideas
 
 question-driven development
 

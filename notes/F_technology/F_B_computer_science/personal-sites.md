@@ -35,6 +35,11 @@
 * [Academia Website](https://www.academia.edu/portfolio_creation)
 
 ## TO SORT
+* ( ) [Brian Reilly · Entrepreneurial Front-End Web Developer](http://brianreilly.me/)
+* ( ) [perso $$$](https://ariel-frischer.github.io/developerFolio/) 
+* ( ) [vhyrro.github](https://vhyrro.github.io/)
+* ( ) [](https://www.youtube.com/@unixbhaskar/videos) $$$
+
 ### Econ People
 * [Albrecht Bohne](https://sites.google.com/site/albrechtbohne/welcome)
 * [Bobkova_CV_2017_11.pdf - Google Drive](https://drive.google.com/file/d/0B3ny1wDLYF6AV3pQVFJYWFlFUHM/view)

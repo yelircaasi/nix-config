@@ -37,6 +37,7 @@
 ## Orgs
 * https://higherorderco.com/
 * https://ourcodingclub.github.io/
+* https://midstall.com/
 
 ## General Educational Resources
 
@@ -192,6 +193,7 @@
 
 
 ## Gen * Media & People
+* https://srid.ca/
 * https://rainingcomputers.blog/
 * https://martinheinz.dev/blog/101 
 * https://www.youtube.com/@ciraolone (tech IT)
@@ -235,6 +237,7 @@
 * [What Are the Best, Regularly Updated Machine Learning Blogs or Resources Available?](https://neptune.ai/blog/the-best-regularly-updated-machine-learning-blogs-or-resources)
 * [Branch Education - YouTube](https://www.youtube.com/@BranchEducation)
 * [Anders Pink Blog | Anders Pink](https://anderspink.com/)
+* https://journal.platonic.systems/
 
 Linux Lads 103
 * [UnkertMedia.com – Welcome to UnkertMedia, the Trendiest Tech Blog](https://unkertmedia.com/)
@@ -399,6 +402,9 @@ Th Morpheus Tutorials
 
 
 ## Podcasts
+* https://open.spotify.com/show/2nggqvCf2zVyRec9sFaZMY?si=ky0t23B1QuakyQ3-X1bmXQ
+* https://open.spotify.com/episode/4AN0l5IYZpLm9ND5UgJKT5?si=ET4a5PGxRaOE_cNIIqXdGg
+* https://open.spotify.com/show/533UgDRbx1qIdY1IrwJp1l?si=aE_syY6oRGmHQKdxnIG34A
 * [Code Newbie Podcast](http://www.codenewbie.org/) -* Great interviews with programmers and advice for those just starting to learn to program.
 * [Learn to Code with Me](http://learntocodewith.me/podcast/) -* Another great podcast geared towards beginning programmers.
 * [Front End Happy Hour](http://frontendhappyhour.com/) -* Fun podcast with a roundtable of professional developers that tackle languages, frameworks, and other related things.

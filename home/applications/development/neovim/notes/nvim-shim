@@ -1,0 +1,28 @@
+#! /nix/store/087167dfxal194pm54cmcbbxsfy3cjgn-bash-5.2p26/bin/bash -e
+export NVIM_SYSTEM_RPLUGIN_MANIFEST='/nix/store/va5jcky8m3qj9c3w9kmd87ig8f6ys6d6-neovim-ce7c51a/rplugin.vim'
+PATH=${PATH:+':'$PATH':'}
+if [[ $PATH != *':''/nix/store/vz13mi0w75q96sfjxz2ylnv8812hvf34-nodejs-20.11.1/bin'':'* ]]; then
+    PATH=$PATH'/nix/store/vz13mi0w75q96sfjxz2ylnv8812hvf34-nodejs-20.11.1/bin'
+fi
+PATH=${PATH#':'}
+PATH=${PATH%':'}
+export PATH
+LUA_PATH=${LUA_PATH:+';'$LUA_PATH';'}
+LUA_PATH=${LUA_PATH/';''/nix/store/ms5f1k5gzv2v37yjsdvplp6lr5bk8bgg-luajit-2.1.1693350652-env/share/lua/5.1/?/init.lua'';'/';'}
+LUA_PATH='/nix/store/ms5f1k5gzv2v37yjsdvplp6lr5bk8bgg-luajit-2.1.1693350652-env/share/lua/5.1/?/init.lua'$LUA_PATH
+LUA_PATH=${LUA_PATH#';'}
+LUA_PATH=${LUA_PATH%';'}
+export LUA_PATH
+LUA_PATH=${LUA_PATH:+';'$LUA_PATH';'}
+LUA_PATH=${LUA_PATH/';''/nix/store/ms5f1k5gzv2v37yjsdvplp6lr5bk8bgg-luajit-2.1.1693350652-env/share/lua/5.1/?.lua'';'/';'}
+LUA_PATH='/nix/store/ms5f1k5gzv2v37yjsdvplp6lr5bk8bgg-luajit-2.1.1693350652-env/share/lua/5.1/?.lua'$LUA_PATH
+LUA_PATH=${LUA_PATH#';'}
+LUA_PATH=${LUA_PATH%';'}
+export LUA_PATH
+LUA_CPATH=${LUA_CPATH:+';'$LUA_CPATH';'}
+LUA_CPATH=${LUA_CPATH/';''/nix/store/ms5f1k5gzv2v37yjsdvplp6lr5bk8bgg-luajit-2.1.1693350652-env/lib/lua/5.1/?.so'';'/';'}
+LUA_CPATH='/nix/store/ms5f1k5gzv2v37yjsdvplp6lr5bk8bgg-luajit-2.1.1693350652-env/lib/lua/5.1/?.so'$LUA_CPATH
+LUA_CPATH=${LUA_CPATH#';'}
+LUA_CPATH=${LUA_CPATH%';'}
+export LUA_CPATH
+exec -a "$0" "/nix/store/pnw7xz8c69lxmivz8n2l1430wfy48v0g-neovim-unwrapped-ce7c51a/bin/nvim"  --cmd "lua vim.g.node_host_prog='/nix/store/va5jcky8m3qj9c3w9kmd87ig8f6ys6d6-neovim-ce7c51a/bin/nvim-node';vim.g.loaded_perl_provider=0;vim.g.loaded_python_provider=0;vim.g.python3_host_prog='/nix/store/va5jcky8m3qj9c3w9kmd87ig8f6ys6d6-neovim-ce7c51a/bin/nvim-python3';vim.g.loaded_ruby_provider=0" --cmd "set packpath^=/nix/store/yfswsxhqv7zzmsqlcdcx17dwdsbqlb7v-vim-pack-dir" --cmd "set rtp^=/nix/store/yfswsxhqv7zzmsqlcdcx17dwdsbqlb7v-vim-pack-dir" "$@" 

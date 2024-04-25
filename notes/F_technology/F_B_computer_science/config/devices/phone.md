@@ -1,4 +1,4 @@
-# Untitled
+# Phone
 
 Next Steps
 * [ ]  Make sure online banking still works on iPhone
@@ -85,9 +85,7 @@ Next Steps
 * Other Utilities [](https://kdeconnect.kde.org/)
     * [https://kdeconnect.kde.org/](https://kdeconnect.kde.org/) 
     * [](https://github.com/Genymobile/scrcpy)[scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device. [](https://www.dev47apps.com/)[Droidcam](https://www.dev47apps.com/) - DroidCam turns your Android device into a wireless webcam for your PC. [](https://github.com/sromku/adb-export)[adb-export](https://github.com/sromku/adb-export) - Export Android content providers to CSV format [](https://github.com/dsixda/Android-Kitchen)[Android-Kitchen](https://github.com/dsixda/Android-Kitchen) - A text-based kitchen for Android ROM customization. Uses shell scripts and works with Cygwin/OS X/Linux
-
-
-    * [https://sailfishos.org/](https://sailfishos.org/)
+  * [https://sailfishos.org/](https://sailfishos.org/)
 
 * ****? [](https://rootmygalaxy.net/root-access-on-lineage-os/)[[Step By Step] How to Enable root access on Lineage Os](https://rootmygalaxy.net/root-access-on-lineage-os/)
 * [How to Root LineageOS 20 with Magisk - YouTube](https://www.youtube.com/watch?v%3D8o5YILpoIvs)
@@ -97,185 +95,77 @@ Next Steps
 * [(3) List of all AOSP custom ROMs / alternative OS's for Fairphone 4 : fairphone](https://www.reddit.com/r/fairphone/comments/128tooq/list_of_all_aosp_custom_roms_alternative_oss_for/)
 * [Latest wiki topics - Fairphone Community Forum](https://forum.fairphone.com/tag/wiki)
 * [Fairphone 4 (fairphone-fp4) - postmarketOS](https://wiki.postmarketos.org/wiki/Fairphone_4_(fairphone-fp4))
-
-
-    * [https://wiki.postmarketos.org/wiki/Fairphone_4_(fairphone-fp4)](https://wiki.postmarketos.org/wiki/Fairphone_4_(fairphone-fp4))
-
-
-    * [https://wiki.postmarketos.org/wiki/Devices](https://wiki.postmarketos.org/wiki/Devices)
-
-
-    * [https://plasma-mobile.org/get/](https://plasma-mobile.org/get/)
-
-
-    * [https://docs.halium.org/en/latest/index.html](https://docs.halium.org/en/latest/index.html)
-
-
-    * [https://www.reddit.com/r/fairphone/comments/128tooq/list_of_all_aosp_custom_roms_alternative_oss_for/](https://www.reddit.com/r/fairphone/comments/128tooq/list_of_all_aosp_custom_roms_alternative_oss_for/)
-
-
-    * [https://www.startpage.com/do/dsearch?query=plasma+mobile+on+fairphone+4&cat=web&pl=ext-ff&language=english&extVersion=1.3.0](https://www.startpage.com/do/dsearch?query%3Dplasma%2Bmobile%2Bon%2Bfairphone%2B4%26cat%3Dweb%26pl%3Dext-ff%26language%3Denglish%26extVersion%3D1.3.0)
-
-
-    * [https://devices.ubuntu-touch.io/device/fp4/](https://devices.ubuntu-touch.io/device/fp4/)
-
-
-    * [https://medium.com/@camden.o.b/the-ultimate-linux-phone-guide-28d0cce9929](https://medium.com/@camden.o.b/the-ultimate-linux-phone-guide-28d0cce9929)
-
-
-    * [https://f-droid.org/en/packages/com.termux.nix/](https://f-droid.org/en/packages/com.termux.nix/)
-
-
-    * [https://www.reddit.com/r/NixOS/comments/sgjksu/today_i_learned_that_you_can_run_nixos_on_a/](https://www.reddit.com/r/NixOS/comments/sgjksu/today_i_learned_that_you_can_run_nixos_on_a/)
-
-
-    * [https://nix-on-droid.unboiled.info/](https://nix-on-droid.unboiled.info/)
-
-
-    * [https://github.com/nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid)
-
-
-    * [https://github.com/NixOS/mobile-nixos](https://github.com/NixOS/mobile-nixos)
-
-
-    * [https://rheinneckar.social/@0x17@corteximplant.com/111288413485361531](https://rheinneckar.social/@0x17@corteximplant.com/111288413485361531)
-
-
-    * [https://rheinneckar.social/@0x17@corteximplant.com](https://rheinneckar.social/@0x17@corteximplant.com) 
+  * [https://wiki.postmarketos.org/wiki/Fairphone_4_(fairphone-fp4)](https://wiki.postmarketos.org/wiki/Fairphone_4_(fairphone-fp4))
+  * [https://wiki.postmarketos.org/wiki/Devices](https://wiki.postmarketos.org/wiki/Devices)
+  * [https://plasma-mobile.org/get/](https://plasma-mobile.org/get/)
+  * [https://docs.halium.org/en/latest/index.html](https://docs.halium.org/en/latest/index.html)
+  * [https://www.reddit.com/r/fairphone/comments/128tooq/list_of_all_aosp_custom_roms_alternative_oss_for/](https://www.reddit.com/r/fairphone/comments/128tooq/list_of_all_aosp_custom_roms_alternative_oss_for/)
+  * [https://www.startpage.com/do/dsearch?query=plasma+mobile+on+fairphone+4&cat=web&pl=ext-ff&language=english&extVersion=1.3.0](https://www.startpage.com/do/dsearch?query%3Dplasma%2Bmobile%2Bon%2Bfairphone%2B4%26cat%3Dweb%26pl%3Dext-ff%26language%3Denglish%26extVersion%3D1.3.0)
+  * [https://devices.ubuntu-touch.io/device/fp4/](https://devices.ubuntu-touch.io/device/fp4/)
+  * [https://medium.com/@camden.o.b/the-ultimate-linux-phone-guide-28d0cce9929](https://medium.com/@camden.o.b/the-ultimate-linux-phone-guide-28d0cce9929)
+  * [https://f-droid.org/en/packages/com.termux.nix/](https://f-droid.org/en/packages/com.termux.nix/)
+  * [https://www.reddit.com/r/NixOS/comments/sgjksu/today_i_learned_that_you_can_run_nixos_on_a/](https://www.reddit.com/r/NixOS/comments/sgjksu/today_i_learned_that_you_can_run_nixos_on_a/)
+  * [https://nix-on-droid.unboiled.info/](https://nix-on-droid.unboiled.info/)
+  * [https://github.com/nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid)
+  * [https://github.com/NixOS/mobile-nixos](https://github.com/NixOS/mobile-nixos)
+  * [https://rheinneckar.social/@0x17@corteximplant.com/111288413485361531](https://rheinneckar.social/@0x17@corteximplant.com/111288413485361531)
+  * [https://rheinneckar.social/@0x17@corteximplant.com](https://rheinneckar.social/@0x17@corteximplant.com) 
     * [](https://www.hacker-kultur.de/episodes.html)
     * [https://www.hacker-kultur.de/episodes.html](https://www.hacker-kultur.de/episodes.html)
-
-
-    * [https://nixos.wiki/wiki/PinePhone](https://nixos.wiki/wiki/PinePhone)
+  * [https://nixos.wiki/wiki/PinePhone](https://nixos.wiki/wiki/PinePhone)
 * [The Nix Phone and the End of Android](https://www.youtube.com/watch?v%3D0UIpg19KECw)
 * [Clarifying some stuff about nix-on-droid installation](https://www.youtube.com/watch?v%3DVb8-Dc9KVHE)
-
-
-    * [https://pretalx.c3voc.de/camp2023/talk/QRPQCL/](https://pretalx.c3voc.de/camp2023/talk/QRPQCL/)
-
-
-    * [https://nlnet.nl/project/mobile-nixos/](https://nlnet.nl/project/mobile-nixos/)
-
-
-    * [https://github.com/NixOS/mobile-nixos](https://github.com/NixOS/mobile-nixos) → see latest updates → contribute to site to make it look more up-to-date?
-
-
-    * [https://mobile.nixos.org/](https://mobile.nixos.org/)
-
-
-    * [https://media.ccc.de/v/nixcon-2023-36022-daily-driving-nixos-on-the-librem-5](https://media.ccc.de/v/nixcon-2023-36022-daily-driving-nixos-on-the-librem-5)
-
-
-    * [https://rheinneckar.social/@yelircaasi/111403832780248129](https://rheinneckar.social/@yelircaasi/111403832780248129)
-
-
-    * [https://repainter.app/](https://repainter.app/)
-
-
-    * [https://play.google.com/store/apps/details?id=com.looper.seeker&hl=en&gl=US](https://play.google.com/store/apps/details?id%3Dcom.looper.seeker%26hl%3Den%26gl%3DUS)
-
-
-    * [https://github.com/iamlooper/Seeker](https://github.com/iamlooper/Seeker)
-
-
-    * [https://github.com/zacharee/Tweaker](https://github.com/zacharee/Tweaker)
-
-
-    * [https://github.com/zacharee/SystemUITunerRedesign](https://github.com/zacharee/SystemUITunerRedesign)
-
-
-    * [https://github.com/zacharee/RootActivityLauncher](https://github.com/zacharee/RootActivityLauncher)
-
-
-    * [https://play.google.com/store/apps/details?id=com.ksmobile.launcher.theme.neonlife&hl=gsw](https://play.google.com/store/apps/details?id%3Dcom.ksmobile.launcher.theme.neonlife%26hl%3Dgsw)
-
-
-    * [https://developer.android.com/codelabs/basic-android-kotlin-training-change-app-theme](https://developer.android.com/codelabs/basic-android-kotlin-training-change-app-theme)
-
-
-    * [https://developer.android.com/develop/ui/views/theming/themes](https://developer.android.com/develop/ui/views/theming/themes)
-
-
-    * [https://shizuku.rikka.app/introduction/](https://shizuku.rikka.app/introduction/)
+  * [https://pretalx.c3voc.de/camp2023/talk/QRPQCL/](https://pretalx.c3voc.de/camp2023/talk/QRPQCL/)
+  * [https://nlnet.nl/project/mobile-nixos/](https://nlnet.nl/project/mobile-nixos/)
+  * [https://github.com/NixOS/mobile-nixos](https://github.com/NixOS/mobile-nixos) → see latest updates → contribute to site to make it look more up-to-date?
+  * [https://mobile.nixos.org/](https://mobile.nixos.org/)
+  * [https://media.ccc.de/v/nixcon-2023-36022-daily-driving-nixos-on-the-librem-5](https://media.ccc.de/v/nixcon-2023-36022-daily-driving-nixos-on-the-librem-5)
+  * [https://rheinneckar.social/@yelircaasi/111403832780248129](https://rheinneckar.social/@yelircaasi/111403832780248129)
+  * [https://repainter.app/](https://repainter.app/)
+  * [https://play.google.com/store/apps/details?id=com.looper.seeker&hl=en&gl=US](https://play.google.com/store/apps/details?id%3Dcom.looper.seeker%26hl%3Den%26gl%3DUS)
+  * [https://github.com/iamlooper/Seeker](https://github.com/iamlooper/Seeker)
+  * [https://github.com/zacharee/Tweaker](https://github.com/zacharee/Tweaker)
+  * [https://github.com/zacharee/SystemUITunerRedesign](https://github.com/zacharee/SystemUITunerRedesign)
+  * [https://github.com/zacharee/RootActivityLauncher](https://github.com/zacharee/RootActivityLauncher)
+  * [https://play.google.com/store/apps/details?id=com.ksmobile.launcher.theme.neonlife&hl=gsw](https://play.google.com/store/apps/details?id%3Dcom.ksmobile.launcher.theme.neonlife%26hl%3Dgsw)
+  * [https://developer.android.com/codelabs/basic-android-kotlin-training-change-app-theme](https://developer.android.com/codelabs/basic-android-kotlin-training-change-app-theme)
+  * [https://developer.android.com/develop/ui/views/theming/themes](https://developer.android.com/develop/ui/views/theming/themes)
+  * [https://shizuku.rikka.app/introduction/](https://shizuku.rikka.app/introduction/)
 
 crdroid
-
-
-    * [https://github.com/crdroidandroid/android](https://github.com/crdroidandroid/android)
-
-
-    * [https://github.com/crdroidandroid](https://github.com/crdroidandroid)
-
-
-    * [https://crdroid.net/downloads](https://crdroid.net/downloads)
-
-
-    * [https://www.reddit.com/r/degoogle/comments/tdumva/my_opinion_on_e_os_on_fairphone_4/](https://www.reddit.com/r/degoogle/comments/tdumva/my_opinion_on_e_os_on_fairphone_4/)
-
-
-    * [https://calyxos.org/](https://calyxos.org/)
-
-
-    * [https://wiki.installgentoo.com/images/4/42/AndroidRicingGeneralDrawingwithChalk.png](https://wiki.installgentoo.com/images/4/42/AndroidRicingGeneralDrawingwithChalk.png)
-
-
-    * [https://www.reddit.com/r/androidricing/comments/2entyl/g_approved_android_apps_and_xposed_modules/](https://www.reddit.com/r/androidricing/comments/2entyl/g_approved_android_apps_and_xposed_modules/)
-
-
-    * [https://www.reddit.com/r/androidricing/](https://www.reddit.com/r/androidricing/)
+  * [https://github.com/crdroidandroid/android](https://github.com/crdroidandroid/android)
+  * [https://github.com/crdroidandroid](https://github.com/crdroidandroid)
+  * [https://crdroid.net/downloads](https://crdroid.net/downloads)
+  * [https://www.reddit.com/r/degoogle/comments/tdumva/my_opinion_on_e_os_on_fairphone_4/](https://www.reddit.com/r/degoogle/comments/tdumva/my_opinion_on_e_os_on_fairphone_4/)
+  * [https://calyxos.org/](https://calyxos.org/)
+  * [https://wiki.installgentoo.com/images/4/42/AndroidRicingGeneralDrawingwithChalk.png](https://wiki.installgentoo.com/images/4/42/AndroidRicingGeneralDrawingwithChalk.png)
+  * [https://www.reddit.com/r/androidricing/comments/2entyl/g_approved_android_apps_and_xposed_modules/](https://www.reddit.com/r/androidricing/comments/2entyl/g_approved_android_apps_and_xposed_modules/)
+  * [https://www.reddit.com/r/androidricing/](https://www.reddit.com/r/androidricing/)
 
 bliss
-
-
-    * [https://blisslabs.org/](https://blisslabs.org/)
-
-
-    * [https://blissroms.org/](https://blissroms.org/)
-
-
-    * [https://www.microsoft.com/en-us/swiftkey?activetab=pivot_1%3Aprimaryr2](https://www.microsoft.com/en-us/swiftkey?activetab%3Dpivot_1%253Aprimaryr2)
-
-
-    * [https://docs.ubports.com/en/latest/index.html](https://docs.ubports.com/en/latest/index.html)
-
-
-    * [https://docs.ubports.com/en/latest/porting/configure_test_fix/Sound.html](https://docs.ubports.com/en/latest/porting/configure_test_fix/Sound.html)
+  * [https://blisslabs.org/](https://blisslabs.org/)
+  * [https://blissroms.org/](https://blissroms.org/)
+  * [https://www.microsoft.com/en-us/swiftkey?activetab=pivot_1%3Aprimaryr2](https://www.microsoft.com/en-us/swiftkey?activetab%3Dpivot_1%253Aprimaryr2)
+  * [https://docs.ubports.com/en/latest/index.html](https://docs.ubports.com/en/latest/index.html)
+  * [https://docs.ubports.com/en/latest/porting/configure_test_fix/Sound.html](https://docs.ubports.com/en/latest/porting/configure_test_fix/Sound.html)
 
 * ** [](https://support.fairphone.com/hc/en-us/articles/10492476238865)
     * [https://support.fairphone.com/hc/en-us/articles/10492476238865](https://support.fairphone.com/hc/en-us/articles/10492476238865)
-
-
-    * [https://www.fairphone.com/en/bootloader-unlocking-code-for-fairphone-3/](https://www.fairphone.com/en/bootloader-unlocking-code-for-fairphone-3/)
-
-
-    * [https://askubuntu.com/questions/799882/ubuntu-touch-change-system-settings-from-command-line-silent-mode-specifically](https://askubuntu.com/questions/799882/ubuntu-touch-change-system-settings-from-command-line-silent-mode-specifically)
-
-
-    * [https://askubuntu.com/questions/756379/how-to-set-the-new-suru-dark-theme-as-default-theme-in-ubuntu-touch](https://askubuntu.com/questions/756379/how-to-set-the-new-suru-dark-theme-as-default-theme-in-ubuntu-touch)
-
-
-    * [https://devices.ubuntu-touch.io/device/fp4/](https://devices.ubuntu-touch.io/device/fp4/)
-
-
-    * [https://myaccount.google.com/signinoptions/two-step-verification?rapt=AEjHL4O_VvacNtE6OBDCuMIUuUDJfMFNO5qyUXRBtuxrdQVYlnqzs2UPMBZXpdqs0Enjc261ZApkj58Vish5IrvFDGcW0px2oRe0CKxaNcE77CoYqnnem1E](https://myaccount.google.com/signinoptions/two-step-verification?rapt%3DAEjHL4O_VvacNtE6OBDCuMIUuUDJfMFNO5qyUXRBtuxrdQVYlnqzs2UPMBZXpdqs0Enjc261ZApkj58Vish5IrvFDGcW0px2oRe0CKxaNcE77CoYqnnem1E)
-
-
-    * [https://murena.com/shop/smartphones/brand-new/murena-fairphone-5/](https://murena.com/shop/smartphones/brand-new/murena-fairphone-5/)
-
-
-    * [https://github.com/nix-community/robotnix](https://github.com/nix-community/robotnix)
+  * [https://www.fairphone.com/en/bootloader-unlocking-code-for-fairphone-3/](https://www.fairphone.com/en/bootloader-unlocking-code-for-fairphone-3/)
+  * [https://askubuntu.com/questions/799882/ubuntu-touch-change-system-settings-from-command-line-silent-mode-specifically](https://askubuntu.com/questions/799882/ubuntu-touch-change-system-settings-from-command-line-silent-mode-specifically)
+  * [https://askubuntu.com/questions/756379/how-to-set-the-new-suru-dark-theme-as-default-theme-in-ubuntu-touch](https://askubuntu.com/questions/756379/how-to-set-the-new-suru-dark-theme-as-default-theme-in-ubuntu-touch)
+  * [https://devices.ubuntu-touch.io/device/fp4/](https://devices.ubuntu-touch.io/device/fp4/)
+  * [https://myaccount.google.com/signinoptions/two-step-verification?rapt=AEjHL4O_VvacNtE6OBDCuMIUuUDJfMFNO5qyUXRBtuxrdQVYlnqzs2UPMBZXpdqs0Enjc261ZApkj58Vish5IrvFDGcW0px2oRe0CKxaNcE77CoYqnnem1E](https://myaccount.google.com/signinoptions/two-step-verification?rapt%3DAEjHL4O_VvacNtE6OBDCuMIUuUDJfMFNO5qyUXRBtuxrdQVYlnqzs2UPMBZXpdqs0Enjc261ZApkj58Vish5IrvFDGcW0px2oRe0CKxaNcE77CoYqnnem1E)
+  * [https://murena.com/shop/smartphones/brand-new/murena-fairphone-5/](https://murena.com/shop/smartphones/brand-new/murena-fairphone-5/)
+  * [https://github.com/nix-community/robotnix](https://github.com/nix-community/robotnix)
 * [Lifesaver Instruction Video](https://www.youtube.com/watch?v%3DUmLD1c5Qcb8) (LineageOS))
 * [MindtheGapps Instruction Video](https://www.youtube.com/watch?v%3DZOYVmd2rSjs) → worked with “arm64” [](https://mindthegapps.com/download/%23mind-the-gapps-for-lineage-os-20-android-13)
     * [https://mindthegapps.com/download/#mind-the-gapps-for-lineage-os-20-android-13](https://mindthegapps.com/download/%23mind-the-gapps-for-lineage-os-20-android-13)
 * [librearts.org](http://librearts.org)
-
-
-    * [https://e.foundation/](https://e.foundation/)
+  * [https://e.foundation/](https://e.foundation/)
 
 Apps
-
-
-    * [https://github.com/mhss1/MyBrain](https://github.com/mhss1/MyBrain)
+  * [https://github.com/mhss1/MyBrain](https://github.com/mhss1/MyBrain)
 
 Apps on FairPhone Android
 * [ ]  Anki
@@ -373,12 +263,8 @@ Apps on FairPhone Android
      - [ ]  21done
      - [ ]  [ ] [](https://koreader.rocks/)
     * [https://koreader.rocks/](https://koreader.rocks/)
-
-
-    * [https://medevel.com/my-brain/](https://medevel.com/my-brain/)
-
-
-    * [https://media.ccc.de/v/nixcon-2023-36022-daily-driving-nixos-on-the-librem-5](https://media.ccc.de/v/nixcon-2023-36022-daily-driving-nixos-on-the-librem-5)
+  * [https://medevel.com/my-brain/](https://medevel.com/my-brain/)
+  * [https://media.ccc.de/v/nixcon-2023-36022-daily-driving-nixos-on-the-librem-5](https://media.ccc.de/v/nixcon-2023-36022-daily-driving-nixos-on-the-librem-5)
 * [ ]  GhostCloud app for Ubuntu Touch
 * phone [](https://plasma-mobile.org/get/)
     * [https://plasma-mobile.org/get/](https://plasma-mobile.org/get/) 
@@ -461,3 +347,12 @@ Apps on FairPhone Android
 * [AryanVBW/LinuxDroid: The most powerful security toolkit for Android: without rooting your device. Run security tools like Nmap, Metasploit, and Wireshark on your Android device without voiding your warranty. Access a wide range of penetration testing tools and utilities, right from your Android phone or tablet.](https://github.com/AryanVBW/LinuxDroid)
 
 * [https://codeberg.org/XADE/LinuxDroid](https://codeberg.org/XADE/LinuxDroid)
+
+
+phone * [](https://ubports.com/en/)
+phone * [halium](https://halium.org/) 
+phone * [lrustand/guix-pinephonepro: Fork of Andrew Tropin's Guix system config for Pinephone Pro](https://github.com/lrustand/guix-pinephonepro) 
+phone app * [acode](https://f-droid.org/packages/com.foxdebug.acode/) 
+phone browser * [https://github.com/bromite/bromite](bromite)
+phone sync * [librera-sync](https://github.com/jumper047/librera-sync) 
+* ( ) [localsend](https://f-droid.org/packages/org.localsend.localsend_app/) 

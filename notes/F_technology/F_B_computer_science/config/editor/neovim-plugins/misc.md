@@ -506,7 +506,7 @@ x [bepo.nvim](https://github.com/vetsE/bepo.nvim)
 * ( )
             * [automkdir.nvim](https://github.com/mateuszwieloch/automkdir.nvim)
 
-### sort
+### SORT
 * ( )
             * [sort.nvim](https://github.com/sQVe/sort.nvim)
 * ( )

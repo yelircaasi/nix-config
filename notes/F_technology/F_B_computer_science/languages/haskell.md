@@ -66,7 +66,8 @@
 * https://www.stephanschiffels.de/posts/2021-03-24-Haskell-CLI
 
 
-## To Sort* https://hackage.haskell.org/package/refined-0.8.1/docs/Refined.html
+## To Sort
+* https://hackage.haskell.org/package/refined-0.8.1/docs/Refined.html
 * https://hackage.haskell.org/package/refined-0.8.1/docs/src/Refined.html
 * https://goto.ucsd.edu/~nvazou/refinement_types_for_haskell.pdf 
 * https://hackage.haskell.org/package/utc-0.2.0.1/docs/Data-UTC.html 

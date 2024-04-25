@@ -1,6 +1,6 @@
 # NLP Courses
 
-## Unsorted
+## SORT
 * http://www.inf.ed.ac.uk/teaching/courses/mt/* https://lena-voita.github.io/nlp_course.html
 * [Index of /~mcollins/courses/nlp2011/notes](http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/)
 * [Natural Language Processing - Coursera [FULL COURSE] | University of Michigan](https://www.youtube.com/watch?v=n25JjoixM3I&list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR)
@@ -321,7 +321,7 @@
 * [Machine Translation 2019 --> Assignments, Labs](https://cl.lingfil.uu.se/kurs/MT19/)
 
 
-## Unsorted Exams / Homework / Q&A
+## SORT Exams / Homework / Q&A
 
 * [NYU Sample Midterm Answers](https://cs.nyu.edu/courses/fall17/CSCI-UA.0480-006/sample-midterm-answers.pdf)
 * [NLP 2017 Sample Answers](https://www.ida.liu.se/~TDDE09/commons/NLP-2017-TEN.pdf)

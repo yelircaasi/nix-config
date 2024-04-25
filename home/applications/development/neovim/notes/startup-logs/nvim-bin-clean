@@ -1,0 +1,91 @@
+--- Startup times for process: Primary/TUI ---
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.002  000.002: --- NVIM STARTING ---
+000.177  000.175: event init
+000.262  000.085: early init
+000.315  000.054: locale set
+000.350  000.034: init first window
+000.578  000.228: inits 1
+000.586  000.008: window checked
+000.590  000.003: parsing arguments
+000.924  000.068  000.068: require('vim.shared')
+000.981  000.028  000.028: require('vim.inspect')
+001.014  000.024  000.024: require('vim._options')
+001.015  000.089  000.036: require('vim._editor')
+001.016  000.175  000.018: require('vim._init_packages')
+001.020  000.255: init lua interpreter
+001.596  000.576: expanding arguments
+001.616  000.020: inits 2
+001.790  000.173: init highlight
+001.791  000.001: --- NVIM STARTED ---
+
+--- Startup times for process: Embedded ---
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.001  000.001: --- NVIM STARTING ---
+000.137  000.136: event init
+000.198  000.061: early init
+000.258  000.059: locale set
+000.286  000.028: init first window
+000.454  000.168: inits 1
+000.465  000.011: window checked
+000.467  000.002: parsing arguments
+000.769  000.066  000.066: require('vim.shared')
+000.821  000.027  000.027: require('vim.inspect')
+000.855  000.024  000.024: require('vim._options')
+000.856  000.085  000.034: require('vim._editor')
+000.857  000.164  000.014: require('vim._init_packages')
+000.859  000.228: init lua interpreter
+000.932  000.073: expanding arguments
+000.945  000.013: inits 2
+001.099  000.154: init highlight
+001.100  000.001: waiting for UI
+001.296  000.196: done waiting for UI
+001.301  000.005: clear screen
+001.326  000.003  000.003: require('vim.keymap')
+001.517  000.215  000.212: require('vim._defaults')
+001.519  000.003: init default mappings & autocommands
+002.377  000.042  000.042: sourcing /nix/store/pnw7xz8c69lxmivz8n2l1430wfy48v0g-neovim-unwrapped-ce7c51a/share/nvim/runtime/ftplugin.vim
+002.430  000.016  000.016: sourcing /nix/store/pnw7xz8c69lxmivz8n2l1430wfy48v0g-neovim-unwrapped-ce7c51a/share/nvim/runtime/indent.vim
+002.436  000.860: sourcing vimrc file(s)
+002.566  000.091  000.091: sourcing /nix/store/pnw7xz8c69lxmivz8n2l1430wfy48v0g-neovim-unwrapped-ce7c51a/share/nvim/runtime/filetype.lua
+002.688  000.043  000.043: sourcing /nix/store/pnw7xz8c69lxmivz8n2l1430wfy48v0g-neovim-unwrapped-ce7c51a/share/nvim/runtime/syntax/synload.vim
+002.776  000.174  000.132: sourcing /nix/store/pnw7xz8c69lxmivz8n2l1430wfy48v0g-neovim-unwrapped-ce7c51a/share/nvim/runtime/syntax/syntax.vim
+003.577  000.294  000.294: sourcing /home/isaac/.nix-profile/share/nvim/site/plugin/fzf.vim
+003.997  000.092  000.092: sourcing /nix/store/pnw7xz8c69lxmivz8n2l1430wfy48v0g-neovim-unwrapped-ce7c51a/share/nvim/runtime/plugin/gzip.vim
+004.576  000.097  000.097: sourcing /nix/store/pnw7xz8c69lxmivz8n2l1430wfy48v0g-neovim-unwrapped-ce7c51a/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim
+004.667  000.652  000.555: sourcing /nix/store/pnw7xz8c69lxmivz8n2l1430wfy48v0g-neovim-unwrapped-ce7c51a/share/nvim/runtime/plugin/matchit.vim
+004.753  000.071  000.071: sourcing /nix/store/pnw7xz8c69lxmivz8n2l1430wfy48v0g-neovim-unwrapped-ce7c51a/share/nvim/runtime/plugin/matchparen.vim
+004.937  000.165  000.165: sourcing /nix/store/pnw7xz8c69lxmivz8n2l1430wfy48v0g-neovim-unwrapped-ce7c51a/share/nvim/runtime/plugin/netrwPlugin.vim
+004.991  000.025  000.025: sourcing /nix/store/pnw7xz8c69lxmivz8n2l1430wfy48v0g-neovim-unwrapped-ce7c51a/share/nvim/runtime/plugin/rplugin.vim
+005.041  000.029  000.029: sourcing /nix/store/pnw7xz8c69lxmivz8n2l1430wfy48v0g-neovim-unwrapped-ce7c51a/share/nvim/runtime/plugin/shada.vim
+005.074  000.010  000.010: sourcing /nix/store/pnw7xz8c69lxmivz8n2l1430wfy48v0g-neovim-unwrapped-ce7c51a/share/nvim/runtime/plugin/spellfile.vim
+005.141  000.045  000.045: sourcing /nix/store/pnw7xz8c69lxmivz8n2l1430wfy48v0g-neovim-unwrapped-ce7c51a/share/nvim/runtime/plugin/tarPlugin.vim
+005.176  000.009  000.009: sourcing /nix/store/pnw7xz8c69lxmivz8n2l1430wfy48v0g-neovim-unwrapped-ce7c51a/share/nvim/runtime/plugin/tutor.vim
+005.287  000.092  000.092: sourcing /nix/store/pnw7xz8c69lxmivz8n2l1430wfy48v0g-neovim-unwrapped-ce7c51a/share/nvim/runtime/plugin/zipPlugin.vim
+005.346  000.029  000.029: sourcing /nix/store/pnw7xz8c69lxmivz8n2l1430wfy48v0g-neovim-unwrapped-ce7c51a/share/nvim/runtime/plugin/editorconfig.lua
+005.414  000.044  000.044: sourcing /nix/store/pnw7xz8c69lxmivz8n2l1430wfy48v0g-neovim-unwrapped-ce7c51a/share/nvim/runtime/plugin/man.lua
+005.466  000.031  000.031: sourcing /nix/store/pnw7xz8c69lxmivz8n2l1430wfy48v0g-neovim-unwrapped-ce7c51a/share/nvim/runtime/plugin/nvim.lua
+005.524  000.039  000.039: sourcing /nix/store/pnw7xz8c69lxmivz8n2l1430wfy48v0g-neovim-unwrapped-ce7c51a/share/nvim/runtime/plugin/osc52.lua
+005.564  000.022  000.022: sourcing /nix/store/pnw7xz8c69lxmivz8n2l1430wfy48v0g-neovim-unwrapped-ce7c51a/share/nvim/runtime/plugin/tohtml.lua
+005.579  001.228: loading rtp plugins
+005.884  000.304: loading packages
+006.610  000.726: loading after plugins
+006.614  000.005: inits 3
+006.619  000.004: reading ShaDa
+006.907  000.289: opening buffers
+006.918  000.010: BufEnter autocommands
+006.919  000.001: editing files in windows
+006.975  000.056: VimEnter autocommands
+006.977  000.002: UIEnter autocommands
+006.977  000.001: before starting main loop
+007.176  000.199: first screen update
+007.177  000.001: --- NVIM STARTED ---
+

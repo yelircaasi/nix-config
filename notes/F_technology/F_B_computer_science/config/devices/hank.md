@@ -17,45 +17,84 @@ sudo apt install landscape-client
 sudo landscape-config --computer-title "Isaac stellaris 15" --account-name standalone -p SpeakFriendAndEnter --url https://landscape.knecon.com/message-system --ping-url http://landscape.knecon.com/ping
 # https://teams.microsoft.com/l/message/19:0e375ad9-64aa-488b-bde0-9d643d768f57_5ae9b4e0-d8c6-47f1-ac08-c5cd013ac891@unq.gbl.spaces/1712647904617?context=%7B%22contextType%22%3A%22chat%22%7D
 
-
-```
-
-Next steps: 
-* [ ] write full install script from https://wiki.hyprland.org/Getting-Started/Installation/
-  - [ ] add Nvidia fixes to script using sed, from [here](https://gist.github.com/Vertecedoc4545/07a9624924ac3e03ff0ab2d5e3616955#file-nvidia-partching-hyprland-ubuntu-md) and [here](https://gist.github.com/Vertecedoc4545/6e54487f07a1888b656b656c0cdd9764)
-
-  in ubuntu 23.04 the only thing you need to do at system level is:
-
-add nvidia_drm.modeset=1 to /etc/default/grub in GRUB_CMDLINE_LINUX_DEFAULT=, and thats it
-```sh 
+sudo apt install nala
+sudo nala update -y && sudo nala upgrade -y
 sudo ubuntu-drivers install
-sed -i 's/GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"/GRUB_CMDLINE_LINUX_DEFAULT="quiet splash nvidia_drm.modeset=1"/g' /etc/default/grub
+sudo sed -i 's/GRUB_CMDLINE_LINUX_DEFAULT=""/GRUB_CMDLINE_LINUX_DEFAULT="nvidia_drm.modeset=1"/g'
 sudo update-grub # sudo apt-install nvidia-driver-535
 sudo reboot
-```
-then you need to run sudo update-grub and reboot
-after that we need to apply the patches:
-```sh
-sed 's/glFlush();/glFinish();/g' -i subprojects/wlroots/render/gles2/renderer.c
-```
-then we can run the build-ubuntu-23.sh or manually follow the ubuntu 23.04 install guide
 
-the rest of documentation is in the NVIDIA PAGE
-  ```sh
-   
-  ```
-  - [x] update versions of packages
-
-```sh
-sudo apt-get install -y nala
-sudo nala install -y meson wget build-essential ninja-build cmake-extras cmake gettext gettext-base fontconfig libfontconfig-dev libffi-dev libxml2-dev libdrm-dev libxkbcommon-x11-dev libxkbregistry-dev libxkbcommon-dev libpixman-1-dev libudev-dev libseat-dev seatd libxcb-dri3-dev libvulkan-dev libvulkan-volk-dev  vulkan-validationlayers-dev libvkfft-dev libgulkan-dev libegl-dev libgles2 libegl1-mesa-dev glslang-tools libinput-bin libinput-dev libxcb-composite0-dev libavutil-dev libavcodec-dev libavformat-dev libxcb-ewmh2 libxcb-ewmh-dev libxcb-present-dev libxcb-icccm4-dev libxcb-render-util0-dev libxcb-res0-dev libxcb-xinput-dev libpango1.0-dev xdg-desktop-portal-wlr hwdata libzip-dev librsvg
+sudo nala install -y build-essential \ 
+     cmake \ 
+     cmake-extras \ 
+     fontconfig \ 
+     gettext \ 
+     gettext-base \ 
+     glslang-tools \ 
+     hwdata \ 
+     libavcodec-dev \ 
+     libavformat-dev \ 
+     libavutil-dev \ 
+     libdrm-dev \ 
+     libegl-dev \ 
+     libegl1-mesa-dev \ 
+     libffi-dev \ 
+     libfontconfig-dev \ 
+     libgbm-dev \ 
+     libgles2 \ 
+     libgulkan-dev \ 
+     libinput-bin \ 
+     libinput-dev \ 
+     libliftoff-dev \ 
+     libpango1.0-dev \ 
+     libpixman-1-dev \ 
+     librsvg \ 
+     librsvg2-dev \ 
+     libseat-dev \ 
+     libtomlplusplus-dev \ 
+     libtomlplusplus3 \ 
+     libudev-dev \ 
+     libvkfft-dev \ 
+     libvulkan-dev \ 
+     libvulkan-volk-dev \ 
+     libxcb-composite0-dev \ 
+     libxcb-dri3-dev \ 
+     libxcb-ewmh-dev \ 
+     libxcb-ewmh2 \ 
+     libxcb-icccm4-dev \ 
+     libxcb-present-dev \ 
+     libxcb-render-util0-dev \ 
+     libxcb-res0-dev \ 
+     libxcb-util-dev \ 
+     libxcb-xinput-dev \ 
+     libxkbcommon-dev \ 
+     libxkbcommon-x11-dev \ 
+     libxkbregistry-dev \ 
+     libxml2-dev \ 
+     libzip-dev \ 
+     meson \ 
+     ninja-build \ 
+     seatd \ 
+     vulkan-validationlayers-dev \ 
+     wget \ 
+     xdg-desktop-portal-wlr \ 
+     xwayland
 
 mkdir HyprSource
 cd HyprSource
 
 ## get Source
+wget https://gitlab.freedesktop.org/mesa/drm/-/archive/libdrm-2.4.120/drm-libdrm-2.4.120.tar.gz
+tar -xzf drm-libdrm-2.4.120.tar.gz
+
 wget https://github.com/hyprwm/Hyprland/releases/download/v0.39.1/source-v0.39.1.tar.gz
-tar -xvf source-v0.39.1.tar.gz
+tar -xvf source-v0.39.1.tar.gz && mv source-v0.39.1 hyprland-source
+
+wget https://github.com/hyprwm/hyprlang/archive/refs/tags/v0.5.1.tar.gz
+tar -xvf v0.5.1.tar.gz && mv v0.5.1 hyprlang-source
+
+wget https://github.com/hyprwm/hyprcursor/archive/refs/tags/v0.1.7.tar.gz
+tar -xvf v0.1.7.tar.gz && mv v0.1.7 hyprlang-source
 
 wget https://gitlab.freedesktop.org/wayland/wayland-protocols/-/releases/1.35/downloads/wayland-protocols-1.35.tar.xz
 tar -xvJf wayland-protocols-1.35.tar.xz
@@ -66,56 +105,59 @@ tar -xzvJf wayland-1.22.0.tar.xz
 wget https://gitlab.freedesktop.org/emersion/libdisplay-info/-/releases/0.1.1/downloads/libdisplay-info-0.1.1.tar.xz
 tar -xvJf libdisplay-info-0.1.1.tar.xz
 
-# build wayland 1.22.0
-cd wayland-1.22.0
-mkdir build &&
-cd    build &&
+# build libdrm
+cd drm-libdrm-2.4.120 && meson builddir/ && sudo ninja -C builddir/ install 
 
-meson setup ..            \
-      --prefix=/usr       \
-      --buildtype=release \
-      -Ddocumentation=false &&
-ninja
+# build wayland
+cd wayland-1.22.0 && mkdir build && cd build && meson setup .. --prefix=/usr --buildtype=release -Ddocumentation=false && ninja
 sudo ninja install
-
 cd ../..
 
-# bulild wayland protocols
-cd wayland-protocols-1.35
-
-mkdir build &&
-cd    build &&
-
-meson setup --prefix=/usr --buildtype=release &&
-ninja
-
+# bulild wayland-protocols
+cd wayland-protocols-1.35 && mkdir build && cd build && meson setup --prefix=/usr --buildtype=release && ninja
 sudo ninja install
-
 cd ../..
 
 # build libdisplay-info
-cd libdisplay-info-0.1.1/
-
-mkdir build &&
-cd    build &&
-
-meson setup --prefix=/usr --buildtype=release &&
-ninja
-
+cd libdisplay-info-0.1.1/ && mkdir build && cd build && meson setup --prefix=/usr --buildtype=release && ninja
 sudo ninja install
-
 cd ../..
+
+# build hyprcursor
+cd hyprcursor-source
+cmake --no-warn-unused-cli -DCMAKE_BUILD_TYPE:STRING=Release -DCMAKE_INSTALL_PREFIX:PATH=/usr -S . -B ./build
+cmake --build ./build --config Release --target all -j`nproc 2>/dev/null || getconf NPROCESSORS_CONF`
+sudo cmake --install build
+cd ..
+
+# build hyprlang
+cd cd hyprlang-source
+cmake --no-warn-unused-cli -DCMAKE_BUILD_TYPE:STRING=Release -DCMAKE_INSTALL_PREFIX:PATH=/usr -S . -B ./build
+cmake --build ./build --config Release --target hyprlang -j`nproc 2>/dev/null || getconf NPROCESSORS_CONF`
+cmake --install ./build
+cd ..
 
 # build Hyprland
 chmod a+rw hyprland-source
-
 cd hyprland-source/
-
-# to modify config.mk and change PREFIX=/usr/local to PREFIX=/usr
-sed -i 's/\/usr\/local/\/usr/g' config.mk
-
+make all
 sudo make install
+
+sudo nala install kitty
+flatpak install org.mozilla.firefox
+flatpak install org.wezfurlong.wezterm
+
+curl -fsSL https://apt.fury.io/wez/gpg.key | sudo gpg --yes --dearmor -o /usr/share/keyrings/wezterm-fury.gpg
+echo 'deb [signed-by=/usr/share/keyrings/wezterm-fury.gpg] https://apt.fury.io/wez/ * *' | sudo tee /etc/apt/sources.list.d/wezterm.list
+sudo nala update
+sudo nala install wezterm
+
 ```
+
+Next steps: 
+* [ ] write full install script from https://wiki.hyprland.org/Getting-Started/Installation/
+  - [ ] add Nvidia fixes to script using sed, from [here](https://gist.github.com/Vertecedoc4545/07a9624924ac3e03ff0ab2d5e3616955#file-nvidia-partching-hyprland-ubuntu-md) and [here](https://gist.github.com/Vertecedoc4545/6e54487f07a1888b656b656c0cdd9764)
+
 * [ ] look into wezterm bug
   - https://wezfurlong.org/wezterm/troubleshooting.html 
   - https://wezfurlong.org/wezterm/config/lua/config/enable_wayland.html 

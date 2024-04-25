@@ -17,6 +17,7 @@
 * [xade](https://codeberg.org/XADE/dotbin/wiki)
 * [iynaix](https://github.com/iynaix/dotfiles)
 * [zaneyos](https://gitlab.com/Zaney/zaneyos/) $$$$$$$$$
+* [dmedinag](https://git.sr.ht/~dmedinag/d/commit/2793d3b751883e19dc56c6cd6e42f0ad3e1e69fe) nix config
 
 ## Top
 ### Amazing Rices

@@ -14,6 +14,7 @@
 ## Colors
 * https://jcarlosroldan.com/about
 * https://media.discordapp.net/attachments/635625917623828520/1228755940887629885/screenshot.png?ex=66366da5&is=6623f8a5&hm=29a1c8817cc7f7c52456f5081152a7777e05df4a37d296320651f04a2ce1ba75&
+* https://github.com/olivercederborg/poimandres.nvim 
 
 ## Ideal Setup:
 * Minimal use of mouse
@@ -466,3 +467,116 @@ Someday: use TDA?
     * [x]  [Zsh/Bash startup files loading order (.bashrc, .zshrc etc.) | The Lumber Room](https://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/)* https://electronjs.org/docs/latest/tutorial/window-customization
     * https://github.com/endlessm/gnome-software - Fork of GNOME Software with Endless customizations 
     * [my feelings on Gnome](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fotedjf68hms91.png)
+
+
+    * Icons, Theming, Fonts   
+* [ ]  Patch my own font (Conda logo, Nvidia logo) → https://github.com/ryanoasis/nerd-fonts#font-patcher*      - Desktop Customization*         - Desktop Icon Packs
+* [Candy Icons](https://github.com/EliverLara/candy-icons) - An icon theme colored with sweet gradients.
+* [Flat Remix](https://github.com/daniruiz/Flat-Remix) - Flat Remix is an icon theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.
+* [Fluent Icon Theme](https://github.com/vinceliuice/Fluent-icon-theme) - Fluent icon theme for linux desktops.
+* [La Capitaine Icon Theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - A macOS and Material design inspired icon theme designed to fit into most desktop environments.
+* [Moka Icon Theme](https://snwh.org/moka) - Moka was created with simplicity in mind. With the use simple geometry & bright colours.
+* [Numix Icon Theme](https://github.com/numixproject/numix-icon-theme) - A flat icon theme that comes in two varieties, Numix Main, and Numix circle.
+* [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - SVG icon theme for Linux systems, based on Paper with a few extras like (hardcode-tray support, kde-color-scheme support, libreoffice icon theme, filezilla theme, smplayer themes, …) and other modifications. The theme is available for GTK and KDE.
+* [Qogir Icon Theme](https://github.com/vinceliuice/Qogir-icon-theme) - A flat colorful design icon theme for linux desktops.
+* [Reversal Icon Theme](https://github.com/yeyushengfan258/Reversal-icon-theme) - A colorful design icon theme for linux desktops.
+* [Tela Icon Theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme.
+* [WhiteSur Icon Theme](https://github.com/vinceliuice/WhiteSur-icon-theme) - MacOS Big Sur style icon theme for linux desktops.
+* [Zafiro Icons](https://github.com/zayronxio/Zafiro-icons) - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white.*         - Desktop Themes
+* [Ant Theme](https://github.com/EliverLara/Ant) - Ant is a flat GTK theme for Ubuntu and other GNOME-based Linux desktops it comes in three varieties: vanilla, Bloody, or Dracula.
+* [Arc Theme](https://github.com/jnsh/arc-theme) - A flat theme with transparent elements.
+* [Catppuccin](https://github.com/catppuccin) - Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes.
+* [Dracula](https://draculatheme.com/gtk) - A dark theme using the awesome Dracula color pallete.
+* [Flat Remix](https://github.com/daniruiz/Flat-Remix-GTK) - Flat Remix is a GTK application theme inspired by material design.
+* [Graphite](https://github.com/vinceliuice/Graphite-gtk-theme) - Graphite GTK theme.
+* [Gruvbox](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme) - A GTK theme based on the Gruvbox colour palette.
+* [Kimi](https://github.com/EliverLara/Kimi) - Kimi is a light Gtk3.20+ theme.
+* [Layan](https://github.com/vinceliuice/Layan-gtk-theme) - Layan is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Budgie, etc.
+* [Material Ocean Theme](https://github.com/material-ocean/material-ocean) - A material design theme with oceanic colors(GTK, QT).
+* [Mojave GTK Theme](https://github.com/vinceliuice/Mojave-gtk-theme) - Mojave is a Mac OSX like theme for GTK 3, GTK 2 and GNOME-Shell which supports GTK 3 and GTK 2 based desktop environments like GNOME, Pantheon, XFCE, Mate, etc.
+* [Nordic](https://github.com/EliverLara/Nordic) - Dark Gtk3.20+ theme created using the awesome Nord color pallete.
+* [Orchis theme](https://github.com/vinceliuice/Orchis-theme) - Orchis is a Material Design theme for GNOME/GTK based desktop environments.
+* [Qogir](https://github.com/vinceliuice/Qogir-theme) - Qogir is a flat Design theme for GTK.
+* [Sweet](https://github.com/EliverLara/Sweet) - Light and dark colorful Gtk3.20+ theme.
+* [WhiteSur GTK Theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS Big Sur like theme for GNOME desktops.*      - Font management            - [FIGlet](https://github.com/cmatsuoka/figlet) - Not exactly a font manager, but a nice program for making large letters out of ordinary text; an astonishing number of different fonts is available.            - [toilet](https://github.com/cacalabs/toilet) - A program that tries to improve `FIGlet`; can load FIGlet fonts; supports Unicode input and output, colour fonts and output, and various output formats, including HTML, IRC and ANSI; uses `libcaca` to produce nice textual effects.*      - GTK Themes, Icons, etc.
+* https://www.erikdubois.be/listing/
+* https://www.erikdubois.be/downloads/
+* https://github.com/vinceliuice/Fluent-gtk-theme
+* https://github.com/vinceliuice/Fluent-icon-theme*         
+*      > fonts from Cneude
+*      https://gradience.readthedocs.io/en/latest/ 
+
+* [FontForge](https://fontforge.github.io/) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux.
+
+* [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - This script fixes hardcoded tray icons in Linux by automatically detecting your default theme, the right icon size, the hard-coded applications, the right icons for each indicator and fix them.
+*      -   [google-font-installer](https://github.com/lordgiotto/google-font-installer)) - Download and install Google Web Fonts on your local machine.
+
+* [Cursor themes - ArchWiki](https://wiki.archlinux.org/title/Cursor_themes)
+* [How to change mouse cursor theme? : i3wm](https://www.reddit.com/r/i3wm/comments/3su58i/how_to_change_mouse_cursor_theme/)
+*      https://github.com/tsujan/Kvantum
+
+* [How to Install Nerd Fonts on Linux - ByteXD](https://bytexd.com/how-to-install-nerd-fonts-on-linux/)
+* [Flatpak App Changing Cursor Theme And Size (Is This Normal Behavior?) : flatpak](https://www.reddit.com/r/flatpak/comments/rxnyh7/flatpak_app_changing_cursor_theme_and_size_is/)
+*      https://www.reddit.com/r/neovim/comments/13vudj5/what_is_this_font_used_from_the_everforest_repo 
+*      Terminess Nerd Font
+*      Iosevka, Source Sans Pro
+
+*** https://github.com/loichyan/nerdfix
+* -> [awesome-ricing](https://github.com/fosslife/awesome-ricing)
+* [](https://github.com/nickgerace/gfold)
+* [](https://github.com/alex35mil/NeoHub)
+* [](https://github.com/FlafyDev/combined-manager) ***
+
+* [](https://github.com/lucc/nvimpager)
+* [](https://github.com/ron-rs/ron)
+* [](https://git-scm.com/docs/gitk)
+* [](https://ghaiklor.github.io/terminal-canvas/)
+* [](https://devicon.dev/ )
+* [](https://github.com/cue-lang)
+* [](https://git.sr.ht/~cdv/scfg-rs )
+* [](https://github.com/projectfluent/fluent)
+* [](https://github.com/ttytm/wthrr-the-weathercrab)
+* [](https://github.com/ulyssa/iamb )
+* [](https://gitlab.com/mildlyparallel/pscircle)
+* [](https://github.com/paul-nameless/tg)
+* [](https://github.com/aandrew-me/tgpt)
+* [](https://github.com/lukesmithxyz/mutt-wizard)
+* [](https://github.com/OpenRC/openrc)
+* [](https://github.com/FlafyDev/flutter_background_bar)
+* [](https://github.com/FlafyDev/epub_reader)
+* [Conky](https://conky.cc/) - Conky is a free, light-weight system monitor for X, that displays any kind of information on your desktop.
+
+* [](https://acidwords.com/posts/2016-07-26-hacking-mupdf-custom-background-colors.html)
+* [](https://github.com/Lxtharia/minegrub-theme)
+* [](https://github.com/bevry/dorothy)
+* [](https://nwg-piotr.github.io/nwg-shell/) *****
+
+* [](https://fsd.it/shop/fonts/pragmatapro/)
+* [](https://github.com/lucc/nvimpager)
+* [](https://github.com/Lxtharia/minegrub-theme)
+* [read](https://www.reddit.com/r/unixporn/comments/5o1mic/what_display_manager_do_you_guys_use/)
+* [Git Bare Repository - A Better Way To Manage Dotfiles - YouTube](https://www.youtube.com/watch?v=tBoLDpTWVOM)
+* [FlafyDev/flutter_workspaces_2](https://github.com/FlafyDev/flutter_workspaces_2) - 
+
+
+rice * [](https://github.com/adi1090x/widgets* [](https://github.com/outfoxxed/hy3* [](https://github.com/mahkoh/jay* [](https://github.com/MrVivekRajan/Grub-Themes
+rice * [](https://github.com/dawsers/hyprscroller* [](https://github.com/hyprland-community/awesome-hyprland* [](https://nwg-piotr.github.io/nwg-shell/
+rice * [](https://github.com/mathix420/dotfiles/blob/master/beeper.css
+rice * [](https://talyian.github.io/ansicolors/) 
+rice * [aphrodite-terminal-theme](https://github.com/win0err/aphrodite-terminal-theme) — Minimalistic Aphrodite theme (prompt) for sexy terminals that works in bash, fish and zsh → prompts
+rice * [Base16 Designer](http://brianreilly.me/Base16Designer/)
+rice * [catppuccin](https://github.com/catppuccin/catppuccin) → see list of software* [](https://github.com/Haruno19/fuzzy-c-means-processing* [](https://github.com/Haruno19/c-halloc
+rice * [commit mono](https://commitmono.com/) neutral font
+rice * [gautam_linux/colours.sh at master · gkotian/gautam_linux](https://github.com/gkotian/gautam_linux/blob/master/scripts/colours.sh)
+rice * [Misterio77/flavours: 🎨💧 An easy to use base16 scheme manager that integrates with any workflow.](https://github.com/Misterio77/flavours)
+rice * [Misterio77/flavours: 🎨💧 An easy to use base16 scheme manager that integrates with any workflow.](https://github.com/misterio77/flavours/#custom-templates-and-schemes)
+rice * [vifm/vifm-colors: Various colorschemes for vifm file explorer.](https://github.com/vifm/vifm-colors)
+rice * [wall.alphacoders](https://wall.alphacoders.com/) 
+rice * [wallpaper mountain lake](https://media.discordapp.net/attachments/1071922148991574056/1209591503836422224/aholmes_canada.cleaned.jpg?ex=66159f5f&is=66032a5f&hm=328996956fe6d340af05baa8a1575ec23eec9fb482de03a00141c1a9fa63c950&)
+rice * [xvzftube/darknerdthemes: Dark ggplots themes for nerds](https://github.com/xvzftube/darknerdthemes)
+rice * VanillaOS wallpaper channel
+rice color * [gtaylor/python-colormath: A python module that abstracts common color math operations. For example, converting from CIE L*a*b to XYZ, or from RGB to CMYK](https://github.com/gtaylor/python-colormath)
+rice color * [nChain](https://github.com/Nocxium/nChain) great color themes and screenshots
+rice color dev * [xyy](https://joedrago.github.io/xyy/) 
+rice font * [Iosevka](https://github.com/be5invis/Iosevka) 
+rice font * [monaspace](https://monaspace.githubnext.com/) - An innovative superfamily of fonts for code

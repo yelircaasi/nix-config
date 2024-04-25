@@ -599,7 +599,7 @@ MKQ
 * [First stage of TSLS and the matrix of instruments W](https://stats.stackexchange.com/questions/45835/first-stage-of-tsls-and-the-matrix-of-instruments-w?rq=1)
 * [?](http://russell.vcharite.univ-mrs.fr/EIE/fchap7.pdf)
 
-### Unsorted
+### SORT
 - [**Skripten - Universität Ulm](https://www.uni-ulm.de/mawi/iaa/members/former/balser/skripten/)
 - [**Slides - Mathematical Tours of Data Sciences](https://mathematical-tours.github.io/slides/)
 - [**Prove the sample variance is an unbiased estimator - Economics Stack Exchange](https://economics.stackexchange.com/questions/4744/prove-the-sample-variance-is-an-unbiased-estimator)
@@ -1007,7 +1007,7 @@ maps are drawn in,constant scale in all directions.
 * https://www.math.uni-hamburg.de/home/riemenschneider/anvorl1.pdf
 
 ## Linear Algebra
-### Unsorted
+### SORT
 * https://math.stackexchange.com/questions/24456/matrix-multiplication-interpreting-and-understanding-the-process/24469#24469
 * https://answers.yahoo.com/question/index?qid=20081012135509AA1xtKz
 * https://onlinecourses.science.psu.edu/stat501/node/382

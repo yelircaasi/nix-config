@@ -5,8 +5,14 @@
 * Make NLP-based automatic sorter for notes (embedding-based). Use clustering and classification, experiment with different embedding approaches.
 
 ## Projects
+## Software for Projects
+* ( ) [](https://blog.superhuman.com/personal-life-dashboard/) 
+* ( ) [Horizon: The OpenStack Dashboard Project — horizon 23.4.0.dev76 documentation](https://docs.openstack.org/horizon/latest/)
+* ( ) [nand2tetris](https://www.nand2tetris.org/
+ 
 
-1. 
+## Notes
+Idea: get stylus drawing / writing tablet and set it up with rnote and also with a handwriting recognition engine that I train on my handwriting, so that I can write on the pad as an alternative to typing on the keyboard.
 
 
 * To Sort

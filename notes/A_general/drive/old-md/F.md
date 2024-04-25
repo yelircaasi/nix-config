@@ -3314,7 +3314,7 @@ How to Read Java
 ##### Tier 2
 ##### Tier 3
 ##### Tier 9
-##### <Unsorted>
+##### SORT
 
 < -1> Core Java Cheatsheet.pdf
 
@@ -3796,7 +3796,7 @@ JavaScript for Web Developers
 
 
 ##### LaTeX Templates →
-##### <Unsorted> 
+##### SORT
 
 <bib> Citations et références en sciences  naturelles.pdf
 
@@ -4259,7 +4259,7 @@ Brise Glace R.pdf
 * Наглядная статистика.  Используем R!
 
 
-##### <Unsorted>
+##### SORT
 
 <0> Functional Programming in R 4.pdf
 

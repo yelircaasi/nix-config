@@ -1,6 +1,6 @@
 # Math Notes
 
-## Unsorted
+## SORT
 notes * [Algebraic Structures](https://docs.google.com/spreadsheets/d/1RU8z6sIVkcinPuUW3Im6C2fMvHrU-mgwCOiowgSBQLM/edit?usp=sharing)
 notes LA * [matrices - Integrating a matrix - Mathematics Stack Exchange](https://math.stackexchange.com/questions/450560/integrating-a-matrix)
 notes LA - [*linear algebra - Determinant of transpose? - Mathematics Stack Exchange](https://math.stackexchange.com/questions/598258/determinant-of-transpose/636198#636198)

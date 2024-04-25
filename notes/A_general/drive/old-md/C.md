@@ -791,7 +791,7 @@ A.pdf
   * Matrix Multiplication as Composition of Linear Transformations (MatPlotLib).ipynb
 
 
-#### <Unsorted>
+#### SORT
 
 Linear Algebra in 4 Pages.pdf
 * Basics of Linear Algebra for Machine Learning

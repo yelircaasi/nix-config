@@ -1,5 +1,5 @@
 # Math Resources
-## Unsorted
+## SORT
 ref  * https://tutorial.math.lamar.edu/
 ref $$$ * [Archives – BetterExplained](https://betterexplained.com/archives/)
 ref * [About the OSCAR project](https://oscar.computeralgebra.de/about/)

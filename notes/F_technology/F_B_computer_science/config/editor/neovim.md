@@ -14,7 +14,19 @@ Vim Reference (book)
 * https://github.com/lucc/nvimpager
 * https://github.com/dense-analysis 
 
-## Sort
+## SORT
+nvim * [UI: implement 'pumblend' option for semi-transparent popupmenu by bfredl · Pull Request #9571 · neovim/neovim](https://github.com/neovim/neovim/pull/9571)
+nvim * [](https://github.com/nvim-neorocks
+nvim * [equalsraf/neovim-qt: Neovim client library and GUI, in Qt5.](https://github.com/equalsraf/neovim-qt)
+nvim * [floating-help](https://github.com/nil70n/floating-help)
+nvim * [jeffkreeftmeijer/vim-numbertoggle: Toggles between hybrid and absolute line numbers automatically](https://github.com/jeffkreeftmeijer/vim-numbertoggle)
+nvim * [yank to clipboard question](https://superuser.com/questions/1726375/how-can-i-always-yank-text-to-clipboard) 
+* cat /home/isaac/.nix-profile/bin/nvim
+* $$$ https://github.com/NixOS/nixpkgs/blob/2230a20f2b5a14f2db3d7f13a2dc3c22517e790b/nixos/modules/programs/neovim.nix 
+* https://github.com/NixOS/nixpkgs/blob/nixos-23.11/pkgs/applications/editors/vim/plugins/vim-utils.nix 
+* https://github.com/NixOS/nixpkgs/blob/master/doc/languages-frameworks/vim.section.md
+* [way to specify path](https://github.com/NixOS/nixpkgs/blob/738918a009bfe442888fa0f104c3be168093eb89/pkgs/applications/editors/vim/plugins/build-vim-plugin.nix)
+* https://journal.platonic.systems/nix-flake-architecture-in-practice/
 * Note-Taking Setup https://www.reddit.com/r/neovim/s/E21mS1kkWk
 * https://github.com/AckslD/nvim-trevJ.lua
 * https://blog.epheme.re/software/nvim-kickstart.html
@@ -25,6 +37,7 @@ Vim Reference (book)
 * https://github.com/dhananjaylatkar/cscope_maps.nvim
 * https://github.com/mfulz/cscope.nvim
 * https://docs.sourcery.ai/Coding-Assistant/Guides/Getting-Started/Vim/
+* https://ryantm.github.io/nixpkgs/languages-frameworks/vim/ 
 
 neovim nix [reddit link](https://www.reddit.com/r/neovim/s/6nuivNQJII)
 write function buildVimPluginOpt to install in an opt directory where it can be imported with a command or an autocommand

@@ -402,7 +402,7 @@ search: Nooby C++ Habits
     * https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
 
 
-## to sort: C
+## SORT
 * [Modern C++ programming cookbook: over 100 recipes to help you overcome your difficulties with C++ programming and gain a deeper understanding of the working of modern C++](http://library.lol/main/65FDF3243927FC56BFC65B3369DBD436)
 * [C Programming Cookbook - Over 40 recipes exploring data structures, pointers, interprocess communication, and database in C.](http://library.lol/main/0B1AE983270520A94012D11AB96AF9CD)
 * [Advanced C++ Programming Cookbook: Become an expert C++ programmer by mastering concepts like templates, concurrency, and type deduction](http://library.lol/main/24E080E694C59B3F8E0220D0902724B0)

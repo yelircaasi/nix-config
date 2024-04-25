@@ -6,7 +6,8 @@
   ...
 }: {
   imports = [
-    ./applications/common
+    ./common
+    ./common-from-device-config.nix
   ];
 
   nixpkgs = {

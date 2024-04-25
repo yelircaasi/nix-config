@@ -1,7 +1,7 @@
-# NLP Reading Unsorted
+# SORT :: NLP Reading
 
 
-## 1-Shot Unsorted
+## SORT 1-Shot
 * https://shaojinding.github.io/samples/fac-to-arbitrary-speaker/
     AC Using PPG.pdf
 * [Applying Articulatory Features within Speech Recognition (Thesis)](https://core.ac.uk/download/pdf/231817943.pdf)

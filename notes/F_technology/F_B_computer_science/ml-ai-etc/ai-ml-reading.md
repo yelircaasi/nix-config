@@ -4,7 +4,7 @@
 * $$$ [CS25 - Transformers United](https://youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
 https://github.com/JuliaNeuralGraphics/Whisper.jl/
 
-## Unsorted Reading on Software, Tools, Resources
+## SORT Reading on Software, Tools, Resources
 https://huggingface.co/meta-llama/Meta-Llama-3-8B 
 
 https://rheinneckar.events/@nix_rust 
@@ -1823,7 +1823,7 @@ https://www.marktechpost.com/2024/04/19/google-deepmind-releases-penzai-a-jax-li
 
 
 
-## Unsorted
+## SORT
 
 * 3b1b Attention Video https://www.youtube.com/watch?v=eMlx5fFNoYc
 * https://github.com/kornia/kornia

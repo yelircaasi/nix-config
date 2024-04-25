@@ -12,6 +12,10 @@
 
 ## Raw - to sort
 * -> see riverwm files on drive
+* [dotfiles/tree/master/Starlight](https://github.com/notKimu/dotfiles/tree/master/Starlight)
+* [MinimalSwayFX](https://github.com/MubinMuhammad/MinimalSwayFX)
+* [jagajaga](https://github.com/jagajaga/my_configs)
+* [Muspelheim](https://github.com/Barbaross93/Muspelheim)
 * [?](https://www.reddit.com/r/unixporn/comments/1btyy6k/hyprland_green/) great color ideas
 * [abc123id](https://github.com/abc123id/dots)
 * [abhra00](https://github.com/Abhra00/dotfiles)

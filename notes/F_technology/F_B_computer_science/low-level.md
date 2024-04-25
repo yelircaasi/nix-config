@@ -154,7 +154,7 @@
 
 
 ## Reading List
-### Unsorted
+### SORT
 look into Risc-V
 * [What is Microarchitecture?](https://www.computerhope.com/jargon/m/microarchitecture.htm)
 * https://hackaday.com/2023/06/18/learning-x86_64-assembly-by-building-a-gui-from-scratch/ 

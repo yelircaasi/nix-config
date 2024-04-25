@@ -160,6 +160,8 @@ I'm certainly not pretending to be an expert. Just an amateur skilled in the art
 
 ## Notes to Sort
 ### Overall Notes - Sort
+make signal-based or matrix-based apps for sending links to myself without email or notion → or use email client? XMPP, Matrix, SMTP, POP3, IMAP, IRC
+
 CLI “Digital Assistant”
 
 * Design Goals: Create a system that takes into account all obligations, goals, and values to optimally allocate time. Most importantly, this system should be:
@@ -942,6 +944,11 @@ CLI “Digital Assistant”
 ### Tier 9 - Maybe Someday
 
 ### Sort
+#### food
+* [kitchenowl](https://github.com/TomBursch/kitchenowl) 
+* [nextcloud-cookbook](https://github.com/lneugebauer/nextcloud-cookbook) 
+* [openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) 
+* [recipesage](https://github.com/julianpoy/recipesage) 
 #### discussion
 * https://discord.com/channels/834325286664929280/877666474888675368/1222613062796705862
 #### →
@@ -1009,6 +1016,7 @@ CLI “Digital Assistant”
 * https://github.com/schmee/habu
 #### nvim
 * [Live* Server plugin for *vim*/*nvim* : r/*neovim* - Reddit](https://www.reddit.com/r/neovim/comments/w86ash/live_server_plugin_for_vimnvim/)
+* https://github.com/orenskl/pico-jvm
 #### cli
 * https://github.com/python-poetry/cleo
 * https://rich.readthedocs.io/en/stable/introduction.html
@@ -1151,6 +1159,11 @@ CLI “Digital Assistant”
 * https://github.com/anufrievroman/calcure
 * https://julian.digital/2023/07/06/multi-layered-calendars/
 * https://julian.digital/2023/07/06/multi-layered-calendars/
+* https://github.com/itchyny/calendar.vim
+* https://github.com/ds1sqe/Calendar.nvim
+* [khal](https://github.com/pimutils/khal)
+* [neorg calendar](https://github.com/nvim-neorg/neorg/wiki/Calendar)
+
 #### J, theory
 * [gtd books](http://libgen.rs/search.php?req=getting+things+done+David+allen&open=0&res=25&view=simple&phrase=1&column=def) http://libgen.rs/search.php?req=getting+things+done+David+allen&open=0&res=25&view=simple&phrase=1&column=def
 * [BOOKSTORES: How to Read More Books in the Golden Age of Content](https://youtu.be/lIW5jBrrsS0)
@@ -1332,6 +1345,7 @@ CLI “Digital Assistant”
 #### Obsidian
 * best tasks plugin in obsidian https://www.youtube.com/watch?v=quXNtjTe5WE 
 * https://obsidian.md/
+* https://lifehacker.com/tech/best-obsidian-plugins
 
 #### Signal
 * [lwesterhof/semaphore: A simple (rule-based) bot library for Signal Private Messenger.](https://github.com/lwesterhof/semaphore)
@@ -1396,7 +1410,7 @@ https://medevel.com/tag/productivity/
 #### Time Tracking
 https://github.com/traggo/
 
-#### Unsorted
+#### SORT
 
 
 #### Matrix Tools

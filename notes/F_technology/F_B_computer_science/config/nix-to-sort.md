@@ -1,4 +1,6 @@
 # Nix - To Sort
+* https://journal.platonic.systems/nix-flake-architecture-in-practice/
+* 
 Set up git inside nix container
 
 

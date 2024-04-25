@@ -153,7 +153,7 @@
 
 
 ## READ!
-### 1S Reading / Watching, UNSORTED
+### SORT 1S Reading / Watching,
 * https://en.wikipedia.org/wiki/TeX 
 * [LaTeX Workshop for Linguists](https://www.adamliter.org/content/LaTeX/latex-workshop-for-linguists.pdf)
 * [plotting functions in latex - Поиск в Google](https://www.google.com/search?q=plotting+functions+in+latex&rlz=1C1GCEA_enUS836&oq=plotting+functions+in+latex&aqs=chrome..69i57j0l2.4102j0j7&sourceid=chrome&ie=UTF-8)

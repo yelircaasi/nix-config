@@ -4,6 +4,8 @@
 * https://www.cs.cmu.edu/~rwh/pfpl/ $$$
 * https://dev.to/copilotkit/30-app-ideas-with-complete-source-code-5f76
 * https://www.centercode.com/blog/dogfooding-101
+* https://fluxharmonic.com/
+* https://systemcrafters.net/guides/
 ## 1S Video
 * [How One Line of Code Almost Blew Up the Internet - YouTube](https://www.youtube.com/watch?v=GEbn3nHyKnA)
 * [The Simplest Sorting Algorithm (You’ve Never Heard Of)](https://youtu.be/_W0yUJlscRA)

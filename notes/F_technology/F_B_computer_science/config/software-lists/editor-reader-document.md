@@ -10,6 +10,7 @@
   - (4) [cosmic-editor]()
   - (4) [zed](https://zed.dev/)
   - (4) [lem](https://github.com/lem-project/lem)
+
 #### SORT - GUI Editors
 * ( ) [zed language extensions](https://zed.dev/blog/language-extensions-part-1)
 * ( ) [androidstudio](https://developer.android.com/studio)
@@ -27,12 +28,11 @@
 * (4) [rstudio](https://www.rstudio.com/products/RStudio)
 * (3) [FeatherEditor](https://github.com/0xBaca/FeatherEditor)
 
-
 ## Web IDE / Notebook
 * (2) [godbolt](https://godbolt.org/) Compiler Explorer [gh](https://github.com/compiler-explorer/compiler-explorer) Amazing tool, need to use this for RosettaProjects and read about how it works~~
 * (4) [devsession](https://devsession.is/)
 * (3) [phcode](https://phcode.dev/)  - looks good
-* (2) [Replit](https://replit.com/): Collaborative browser based IDE with support for 50+ different languages. - good for painlessly trying things out
+* (2) [replit](https://replit.com/): Collaborative browser based IDE with support for 50+ different languages. - good for painlessly trying things out
 * (4) [](https://github.com/theia-ide/theia) Theia is a cloud & desktop IDE framework implemented in TypeScript. - looks nice, worth a try
 * (4) [Eclipse Orion](https://orionhub.org/): A modern, open source software development environment that runs in the cloud. Code, deploy, and run in the cloud.
 * (4) [Eclipse Che](http://www.eclipse.org/che): Developer workspace server, cloud IDE, and Eclipse next-generation IDE. (runs on k8s)

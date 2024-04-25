@@ -1077,4 +1077,6 @@ term [rio](software https://github.com/raphamorim/rio)
 * (5) [pipe_exec](https://github.com/koraa/pipe_exec)
 * ( ) [motioneye-project/motioneyeos: A Video Surveillance OS For Single-board Computers](https://github.com/motioneye-project/motioneyeos)
 * ( ) [lnbits/lnbits: LNbits, free and open-source Lightning wallet and accounts system.](https://github.com/lnbits/lnbits)
+* ( ) [inferno](https://github.com/jonhoo/inferno)
+* ( ) [flamegraphs toolkit](https://www.brendangregg.com/flamegraphs.html)
 

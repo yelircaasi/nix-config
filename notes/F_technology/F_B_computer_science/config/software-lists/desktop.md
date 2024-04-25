@@ -240,26 +240,27 @@ Wayland recommended stack:
 * [swayfx](https://github.com/WillPower3309/swayfx)
 * ( ) [kiwmi](https://github.com/buffet/kiwmi)
 * [kiwmi (fork)](https://github.com/kuruczgy/kiwmi)
-* ( ) [wayfire](https://github.com/WayfireWM/wayfire)
+* ( ) [dwl](https://github.com/djpohly/dwl) 
 * ( ) [Gamescope](https://github.com/Plagman/gamescope) - Gamescope is a micro-compositor that provides a sandboxed Xwayland desktop with independent input, resolution, and refresh rate.
 * ( ) [Hyprland](https://hyprland.org/) - Hyprland is a dynamic tiling Wayland compositor that doesn’t sacrifice on its looks.
-* ( ) [River](https://github.com/riverwm/river) - River is a dynamic tiling Wayland compositor with flexible runtime configuration.
-* ( ) [Sway](https://swaywm.org/) - Sway is tiling Wayland compositor and a drop-in replacement for the i3 window manager for X11.
-* ( ) [Wayfire](https://wayfire.org/) - Wayfire is a wayland compositor based on wlroots. It aims to create a customizable, extendable and lightweight environment without sacrificing its appearance.
-* ( ) [dwl](https://github.com/djpohly/dwl) 
 * ( ) [mahogany](https://github.com/stumpwm/mahogany) (Wayland, CL)
 * ( ) [noway](https://github.com/mora-unie-youer/noway)
-* ( ) [wmoon](https://github.com/Natchuz/wmoon)
-* ( ) [vivarium](https://github.com/inclement/vivarium)
+* ( ) [River](https://github.com/riverwm/river) - River is a dynamic tiling Wayland compositor with flexible runtime configuration.
 * ( ) [strata](https://github.com/StrataWM/strata)
+* ( ) [Sway](https://swaywm.org/) - Sway is tiling Wayland compositor and a drop-in replacement for the i3 window manager for X11.
 * ( ) [taiwins](https://github.com/taiwins/taiwins)
+* ( ) [vivarium](https://github.com/inclement/vivarium)
 * ( ) [way-cooler](http://way-cooler.org/)
+* ( ) [wayfire](https://github.com/WayfireWM/wayfire)
+* ( ) [Wayfire](https://wayfire.org/) - Wayfire is a wayland compositor based on wlroots. It aims to create a customizable, extendable and lightweight environment without sacrificing its appearance.
+* ( ) [wmoon](https://github.com/Natchuz/wmoon)
 * [gh](https://github.com/OmegaRogue/way-cooler) 
 * ( ) [waymonader](https://github.com/ardek66/waymonader)
 * ( ) [newM](https://github.com/jbuchermn/newm)
 * ( ) [kile](https://gitlab.com/snakedye/kile) - layout generator for RiverWM
 * ( ) [waymonad](https://github.com/waymonad/waymonad)
 * ( ) [waymonader](https://github.com/ardek66/waymonader)
+* ( ) [ezmonad](https://github.com/QuillFlash/ezmonad)
 ### X11 Compositor
 * Picom
   - ( ) [picom](https://github.com/dccsillag/picom) fork

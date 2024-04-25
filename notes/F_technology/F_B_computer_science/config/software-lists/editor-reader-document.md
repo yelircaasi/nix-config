@@ -22,7 +22,10 @@
 * ( ) [micro](https://micro-editor.github.io/)
 * ( ) [ne, the nice editor](https://ne.di.unimi.it/)
 * ( ) [What Are The Benefits Of Emacs Over Vim? - YouTube](https://www.youtube.com/watch?v=kRkp-uJTK7s)
-
+* (2) [appflowy](https://www.appflowy.io/)
+* (2) [compiler-explorer](https://github.com/compiler-explorer/compiler-explorer)
+* (4) [rstudio](https://www.rstudio.com/products/RStudio)
+* (3) [FeatherEditor](https://github.com/0xBaca/FeatherEditor)
 
 
 ## Web IDE / Notebook

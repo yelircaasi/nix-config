@@ -63,3 +63,190 @@ spacefm [wok/spacefm/receipt at 86cfc9d82cfe669cb23142955dd8e313459dbde6 · SliT
 
 
 * https://github.com/JaKooLit/Hyprland-v2.1/tree/main/config%2FThunar
+
+# SORT Nix
+hyprland sddm config examples
+* [https://github.com/eekrain/dotfiles/blob/7c948066821437f79521ba78e8e9042dfb090b13/nixos/hyprland/default.nix#L24](https://github.com/eekrain/dotfiles/blob/7c948066821437f79521ba78e8e9042dfb090b13/nixos/hyprland/default.nix%23L24) - may be the solution
+* [https://github.com/paulcomte/dotfiles/blob/14419839ccea1a7bd495d9cd9ee4cee388df8403/nixos/services.nix#L44](https://github.com/paulcomte/dotfiles/blob/14419839ccea1a7bd495d9cd9ee4cee388df8403/nixos/services.nix%23L44) - look into logind extraConfig
+* [https://github.com/elkebirmed/dotfiles_nixos/blob/main/hosts/optional/sddm.nix](https://github.com/elkebirmed/dotfiles_nixos/blob/main/hosts/optional/sddm.nix)
+* [https://github.com/elkebirmed/dotfiles_nixos/blob/main/hosts/optional/hyprland.nix](https://github.com/elkebirmed/dotfiles_nixos/blob/main/hosts/optional/hyprland.nix) good examples
+* [https://github.com/Azeved00/.files/blob/5c00de90d9a770dd44a331a89bef03142ae22c03/nixos/modules/wayland.nix#L14](https://github.com/Azeved00/.files/blob/5c00de90d9a770dd44a331a89bef03142ae22c03/nixos/modules/wayland.nix%23L14) - simple config
+* [https://github.com/mslxl/nix-config/tree/main/modules/nixos/desktop/desktop-env](https://github.com/mslxl/nix-config/tree/main/modules/nixos/desktop/desktop-env)
+* [https://github.com/A7R7/nixos-config/blob/baae8a1be5566a8863aed2f9de897cfba0b6a538/host/configuration.nix](https://github.com/A7R7/nixos-config/blob/baae8a1be5566a8863aed2f9de897cfba0b6a538/host/configuration.nix)
+* [https://github.com/GGORG0/nix-config/blob/9dd592385f632851a0ce825855638ac4105ffcb7/modules/nixos/sddm.nix](https://github.com/GGORG0/nix-config/blob/9dd592385f632851a0ce825855638ac4105ffcb7/modules/nixos/sddm.nix)
+* [https://github.com/LichHunter/nixos-dotfiles/blob/f27d2e58cbacb59aad2ca4dbfa0e7be7b7bf1bc9/modules/rice/Frost-Phoenix/hyprland/hyprland.nix](https://github.com/LichHunter/nixos-dotfiles/blob/f27d2e58cbacb59aad2ca4dbfa0e7be7b7bf1bc9/modules/rice/Frost-Phoenix/hyprland/hyprland.nix)
+* [https://github.com/richtigerkiko/nixos-hyprland/blob/main/nixos/configuration.nix](https://github.com/richtigerkiko/nixos-hyprland/blob/main/nixos/configuration.nix)
+* [https://github.com/ryan4yin/nix-config/blob/77bd038f3295fee21f8f3842639e5b93fa9272ab/home/linux/desktop/hyprland/values/hyprland.nix#L9](https://github.com/ryan4yin/nix-config/blob/77bd038f3295fee21f8f3842639e5b93fa9272ab/home/linux/desktop/hyprland/values/hyprland.nix%23L9)
+    * [https://github.com/ryan4yin/nix-config/blob/77bd038f3295fee21f8f3842639e5b93fa9272ab/modules/nixos/desktop.nix#L74](https://github.com/ryan4yin/nix-config/blob/77bd038f3295fee21f8f3842639e5b93fa9272ab/modules/nixos/desktop.nix%23L74)
+* [https://github.com/simonrw/nix-config/blob/main/system/nixos/astoria/wm/hyprland.nix](https://github.com/simonrw/nix-config/blob/main/system/nixos/astoria/wm/hyprland.nix)
+    * [https://github.com/simonrw/nix-config/blob/main/system/nixos/astoria/wm/sway.nix](https://github.com/simonrw/nix-config/blob/main/system/nixos/astoria/wm/sway.nix)
+* [https://github.com/baracunatana/santuario/blob/main/flake.nix](https://github.com/baracunatana/santuario/blob/main/flake.nix)
+* [https://github.com/darichey/my-nix-config/blob/4015b7f0d3724a2848fc2c6423a5df627be92d8c/system/common.nix#L52](https://github.com/darichey/my-nix-config/blob/4015b7f0d3724a2848fc2c6423a5df627be92d8c/system/common.nix%23L52)
+* [https://github.com/Jan130/nixos-config/blob/main/system/wm/hyprland.nix](https://github.com/Jan130/nixos-config/blob/main/system/wm/hyprland.nix)
+* [https://github.com/Builditluc/dotnix/blob/52ea85bbbbeddf3de5642cb9a8ee40c09762eaa7/system/wm/hyprland.nix#L4](https://github.com/Builditluc/dotnix/blob/52ea85bbbbeddf3de5642cb9a8ee40c09762eaa7/system/wm/hyprland.nix%23L4) nice and simple
+* [https://github.com/deadendpl/dotfiles/blob/f0986be75c675397543afbc46e841021a1515d40/nixos/README.org#graphical-environment](https://github.com/deadendpl/dotfiles/blob/f0986be75c675397543afbc46e841021a1515d40/nixos/README.org%23graphical-environment)
+* [https://github.com/Vagahbond/nix-config/blob/9ab6b278c1d0ebc7726421fcfa41a3f5e8cf7417/modules/desktop/hyprland/default.nix#L13](https://github.com/Vagahbond/nix-config/blob/9ab6b278c1d0ebc7726421fcfa41a3f5e8cf7417/modules/desktop/hyprland/default.nix%23L13)
+* [https://github.com/michaelkeates/nixos-config/blob/1bb37ce52ab4e71743e7a07dfaed210941634ef7/templates/default/nixos/default.nix#L124](https://github.com/michaelkeates/nixos-config/blob/1bb37ce52ab4e71743e7a07dfaed210941634ef7/templates/default/nixos/default.nix%23L124)
+* [https://github.com/mjschwenne/dotfiles/blob/main/system/graphical.nix](https://github.com/mjschwenne/dotfiles/blob/main/system/graphical.nix) - good example of custom config
+* [https://github.com/nyawox/nixboxes/blob/2af52077059e9d38a327c42f3843d373a272668c/modules/nixos/desktop/sddm.nix#L23](https://github.com/nyawox/nixboxes/blob/2af52077059e9d38a327c42f3843d373a272668c/modules/nixos/desktop/sddm.nix%23L23)
+* [https://github.com/iynaix/dotfiles/blob/5c2eca4e184df332b06373007248457ae4cb9d69/nixos/hyprland.nix#L7](https://github.com/iynaix/dotfiles/blob/5c2eca4e184df332b06373007248457ae4cb9d69/nixos/hyprland.nix%23L7)
+* [https://github.com/vulpi/viperML-dotfiles/blob/0e0dacf03489596359d97fd8292da4921f902f29/modules/nixos/desktop-hyprland.nix#L9](https://github.com/vulpi/viperML-dotfiles/blob/0e0dacf03489596359d97fd8292da4921f902f29/modules/nixos/desktop-hyprland.nix%23L9)
+* [https://github.com/owatta/dotfiles/blob/94bff267af7cd8b6e3342d7b586e6db622cdeaa5/nixos/licorice.nix#L18](https://github.com/owatta/dotfiles/blob/94bff267af7cd8b6e3342d7b586e6db622cdeaa5/nixos/licorice.nix%23L18)
+* [https://github.com/mkeco/dotfile/blob/2783c3325a9459bedbdcaa36bbf60cee046e25c7/desk-nixos/configuration.nix#L23](https://github.com/mkeco/dotfile/blob/2783c3325a9459bedbdcaa36bbf60cee046e25c7/desk-nixos/configuration.nix%23L23)
+* [https://github.com/Liberontissauri/NixOS-Config-/blob/e1c91582fbffc82bba0088ca06b9d2202635d8c1/modules/nixos/desktop.nix#L9](https://github.com/Liberontissauri/NixOS-Config-/blob/e1c91582fbffc82bba0088ca06b9d2202635d8c1/modules/nixos/desktop.nix%23L9)
+* [https://github.com/benvonh/.snowflake/blob/9d617835ad63699259513a6ff784c038174966a3/systems/share/hyprland/default.nix#L4](https://github.com/benvonh/.snowflake/blob/9d617835ad63699259513a6ff784c038174966a3/systems/share/hyprland/default.nix%23L4)
+* [https://github.com/gabyx/dotfiles/blob/6421270138b40c26a93011e7e20082ab965c253c/modules/nixos/windowing.nix#L13](https://github.com/gabyx/dotfiles/blob/6421270138b40c26a93011e7e20082ab965c253c/modules/nixos/windowing.nix%23L13)
+* [](https://github.com/JosiahABrown/nixdots/blob/main/system/base.nix)
+    * [https://github.com/JosiahABrown/nixdots/blob/main/system/base.nix](https://github.com/JosiahABrown/nixdots/blob/main/system/base.nix)
+* [https://github.com/adamgoose/nixpkgs/blob/440e787cb769c44ed0ff0390c5010f9e29bc7f4f/nix/nixos/nixosModules/hyprland.nix#L17](https://github.com/adamgoose/nixpkgs/blob/440e787cb769c44ed0ff0390c5010f9e29bc7f4f/nix/nixos/nixosModules/hyprland.nix%23L17)
+
+
+
+
+If you suspect a race condition, where kernel modules may not be loaded fast enough to start the display manager, you can take a few steps to investigate and potentially address the issue:
+
+1. Delay Display Manager Start:
+* One approach is to introduce a delay in the startup process of the display manager. This can be achieved by modifying the service or init script that launches the display manager. However, this is a workaround and not a definitive solution.
+
+1. Check Module Loading:
+* Examine the logs to see if there are any messages related to the loading of kernel modules. You can use the dmesg command or check specific log files for module loading information. Look for any errors or delays in loading the necessary modules.
+
+1. Adjust Module Loading Configuration:
+* Depending on your distribution, you may have a configuration file specifying which modules to load during the boot process. This file is often located in /etc/modules or /etc/modules-load.d/. Review the contents of these files to ensure that the required modules are listed.
+
+1. Check Dependencies:
+* Ensure that the display manager service has proper dependencies set, especially dependencies related to the availability of necessary kernel modules. Adjust the dependencies if needed.
+
+1. Systemd Service Unit:
+* If your system uses systemd, check the service unit for the display manager (lightdm.service, gdm.service, etc.). You can find these unit files in /etc/systemd/system/ or /lib/systemd/system/. Look for dependencies and ordering directives and adjust them if necessary.
+
+1. Investigate Startup Scripts:
+* Examine any scripts or systemd units responsible for the initialization of the system, display manager, or relevant components. Check if they explicitly wait for certain conditions before proceeding.
+
+1. Kernel Module Auto-Loading:
+* Ensure that the necessary kernel modules are set to load automatically during boot. This is often configured in files such as /etc/modules or /etc/modules-load.d/*.conf.
+
+1. Check for Module Load Errors:
+* Look for any errors related to module loading in the logs. Use commands like dmesg | grep -i 'error\\|module' to identify potential issues.
+
+By investigating these areas, you may be able to identify the cause of the race condition and take appropriate measures to address it. If the issue persists, consider seeking assistance from your distribution's community forums or support channels, as they may have insights specific to the distribution and display manager you are using.
+
+hyprland sddm config examples
+* [](https://github.com/eekrain/dotfiles/blob/7c948066821437f79521ba78e8e9042dfb090b13/nixos/hyprland/default.nix%23L24) - may be the solution
+* [](https://github.com/paulcomte/dotfiles/blob/14419839ccea1a7bd495d9cd9ee4cee388df8403/nixos/services.nix%23L44) - look into logind extraConfig
+* [](https://github.com/elkebirmed/dotfiles_nixos/blob/main/hosts/optional/sddm.nix)
+* [](https://github.com/elkebirmed/dotfiles_nixos/blob/main/hosts/optional/hyprland.nix) good examples
+* [](https://github.com/Azeved00/.files/blob/5c00de90d9a770dd44a331a89bef03142ae22c03/nixos/modules/wayland.nix%23L14) - simple config
+* [](https://github.com/mslxl/nix-config/tree/main/modules/nixos/desktop/desktop-env)
+* [](https://github.com/A7R7/nixos-config/blob/baae8a1be5566a8863aed2f9de897cfba0b6a538/host/configuration.nix)
+* [](https://github.com/GGORG0/nix-config/blob/9dd592385f632851a0ce825855638ac4105ffcb7/modules/nixos/sddm.nix)
+* [](https://github.com/LichHunter/nixos-dotfiles/blob/f27d2e58cbacb59aad2ca4dbfa0e7be7b7bf1bc9/modules/rice/Frost-Phoenix/hyprland/hyprland.nix)
+* [](https://github.com/richtigerkiko/nixos-hyprland/blob/main/nixos/configuration.nix)
+* [](https://github.com/ryan4yin/nix-config/blob/77bd038f3295fee21f8f3842639e5b93fa9272ab/home/linux/desktop/hyprland/values/hyprland.nix%23L9)
+* [](https://github.com/ryan4yin/nix-config/blob/77bd038f3295fee21f8f3842639e5b93fa9272ab/modules/nixos/desktop.nix%23L74)
+* [](https://github.com/simonrw/nix-config/blob/main/system/nixos/astoria/wm/hyprland.nix)
+* [](https://github.com/simonrw/nix-config/blob/main/system/nixos/astoria/wm/sway.nix)
+* [](https://github.com/baracunatana/santuario/blob/main/flake.nix)
+* [](https://github.com/darichey/my-nix-config/blob/4015b7f0d3724a2848fc2c6423a5df627be92d8c/system/common.nix%23L52)
+* [](https://github.com/Jan130/nixos-config/blob/main/system/wm/hyprland.nix)
+* [](https://github.com/Builditluc/dotnix/blob/52ea85bbbbeddf3de5642cb9a8ee40c09762eaa7/system/wm/hyprland.nix%23L4) nice and simple
+* [](https://github.com/deadendpl/dotfiles/blob/f0986be75c675397543afbc46e841021a1515d40/nixos/README.org%23graphical-environment)
+* [](https://github.com/Vagahbond/nix-config/blob/9ab6b278c1d0ebc7726421fcfa41a3f5e8cf7417/modules/desktop/hyprland/default.nix%23L13)
+* [](https://github.com/michaelkeates/nixos-config/blob/1bb37ce52ab4e71743e7a07dfaed210941634ef7/templates/default/nixos/default.nix%23L124)
+* [](https://github.com/mjschwenne/dotfiles/blob/main/system/graphical.nix) - good example of custom config
+* [](https://github.com/nyawox/nixboxes/blob/2af52077059e9d38a327c42f3843d373a272668c/modules/nixos/desktop/sddm.nix%23L23)
+* [](https://github.com/iynaix/dotfiles/blob/5c2eca4e184df332b06373007248457ae4cb9d69/nixos/hyprland.nix%23L7)
+* [](https://github.com/vulpi/viperML-dotfiles/blob/0e0dacf03489596359d97fd8292da4921f902f29/modules/nixos/desktop-hyprland.nix%23L9)
+* [](https://github.com/owatta/dotfiles/blob/94bff267af7cd8b6e3342d7b586e6db622cdeaa5/nixos/licorice.nix%23L18)
+* [](https://github.com/mkeco/dotfile/blob/2783c3325a9459bedbdcaa36bbf60cee046e25c7/desk-nixos/configuration.nix%23L23)
+* [](https://github.com/Liberontissauri/NixOS-Config-/blob/e1c91582fbffc82bba0088ca06b9d2202635d8c1/modules/nixos/desktop.nix%23L9)
+* [](https://github.com/benvonh/.snowflake/blob/9d617835ad63699259513a6ff784c038174966a3/systems/share/hyprland/default.nix%23L4)
+* [](https://github.com/gabyx/dotfiles/blob/6421270138b40c26a93011e7e20082ab965c253c/modules/nixos/windowing.nix%23L13)
+* [](https://github.com/JosiahABrown/nixdots/blob/main/system/base.nix)
+* [](https://github.com/JosiahABrown/nixdots/blob/main/system/base.nix)
+* [](https://github.com/adamgoose/nixpkgs/blob/440e787cb769c44ed0ff0390c5010f9e29bc7f4f/nix/nixos/nixosModules/hyprland.nix%23L17)
+
+review gdm settings via dconf: [](https://github.com/search?q%3Dprograms.dconf.profiles%26type%3Dcode)
+* [](https://github.com/search?q%3Dprograms.dconf.profiles%26type%3Dcode)
+* [](https://unix.stackexchange.com/questions/517759/how-to-fix-service-start-request-repeated-too-quickly-on-custom-service)
+* [](https://github.com/search?q%3Dlightdm.enable%2B%253D%2Btrue%26type%3Dcode)
+
+Use greetd:
+* [](https://github.com/search?q%3Dgreetd%2Blanguage%253Anix%26type%3Dcode)
+
+
+* [](https://github.com/yelircaasi/nix-eli5)
+* [](https://github.com/yelircaasi/clavix)
+* [](https://github.com/yelircaasi/pictrix)
+* [](https://bmcgee.ie/posts/2023/11/nix-my-workflow/)
+* [](https://www.nixhub.io/)
+* [](https://github.com/nix-community/NUR)
+* [](https://media.ccc.de/v/nixcon-2023-36022-daily-driving-nixos-on-the-librem-5)
+* [](https://blog.alper-celik.dev/posts/my-first-contributions-to-nixpkgs-and-open-source/)
+
+
+
+Ly:
+* [](https://github.com/the-argus/nixsys/tree/b234fe6f3bd71ce07725cf6b0ca0d46335858619)
+* [](https://github.com/the-argus/nixsys/blob/b234fe6f3bd71ce07725cf6b0ca0d46335858619/modules/ly.nix%23L11)
+* [](https://github.com/meatcar/dots/blob/26581bf4440fbc30db95cef57fc70d737cfc7cf4/modules/ly.nix%23L8)
+* [](https://github.com/nix-community/nur-combined/blob/85ece5ad820302eaf1a541142942559deaa33ad7/repos/fgaz/modules/ly/default.nix%23L120)
+* [](https://github.com/dmayle/dotfiles/blob/b67d63022cf3002bbc4c7eaa651c8625b1006dfc/nixos-backup/configuration_old.nix%23L1176)
+
+
+
+
+
+review gdm settings via dconf: [](https://github.com/search?q%3Dprograms.dconf.profiles%26type%3Dcode)
+* [](https://github.com/search?q%3Dprograms.dconf.profiles%26type%3Dcode)
+* [](https://unix.stackexchange.com/questions/517759/how-to-fix-service-start-request-repeated-too-quickly-on-custom-service)
+* [](https://github.com/search?q%3Dlightdm.enable%2B%253D%2Btrue%26type%3Dcode)
+
+Use greetd:
+* [](https://github.com/search?q%3Dgreetd%2Blanguage%253Anix%26type%3Dcode)
+
+
+
+
+Ly:
+* [](https://github.com/the-argus/nixsys/tree/b234fe6f3bd71ce07725cf6b0ca0d46335858619)
+* [](https://github.com/the-argus/nixsys/blob/b234fe6f3bd71ce07725cf6b0ca0d46335858619/modules/ly.nix%23L11)
+* [](https://github.com/meatcar/dots/blob/26581bf4440fbc30db95cef57fc70d737cfc7cf4/modules/ly.nix%23L8)
+* [](https://github.com/nix-community/nur-combined/blob/85ece5ad820302eaf1a541142942559deaa33ad7/repos/fgaz/modules/ly/default.nix%23L120)
+* [](https://github.com/dmayle/dotfiles/blob/b67d63022cf3002bbc4c7eaa651c8625b1006dfc/nixos-backup/configuration_old.nix%23L1176)
+
+
+
+If you suspect a race condition, where kernel modules may not be loaded fast enough to start the display manager, you can take a few steps to investigate and potentially address the issue:
+
+1. Delay Display Manager Start:
+* One approach is to introduce a delay in the startup process of the display manager. This can be achieved by modifying the service or init script that launches the display manager. However, this is a workaround and not a definitive solution.
+
+1. Check Module Loading:
+* Examine the logs to see if there are any messages related to the loading of kernel modules. You can use the dmesg command or check specific log files for module loading information. Look for any errors or delays in loading the necessary modules.
+
+1. Adjust Module Loading Configuration:
+* Depending on your distribution, you may have a configuration file specifying which modules to load during the boot process. This file is often located in /etc/modules or /etc/modules-load.d/. Review the contents of these files to ensure that the required modules are listed.
+
+1. Check Dependencies:
+* Ensure that the display manager service has proper dependencies set, especially dependencies related to the availability of necessary kernel modules. Adjust the dependencies if needed.
+
+1. Systemd Service Unit:
+* If your system uses systemd, check the service unit for the display manager (lightdm.service, gdm.service, etc.). You can find these unit files in /etc/systemd/system/ or /lib/systemd/system/. Look for dependencies and ordering directives and adjust them if necessary.
+
+1. Investigate Startup Scripts:
+* Examine any scripts or systemd units responsible for the initialization of the system, display manager, or relevant components. Check if they explicitly wait for certain conditions before proceeding.
+
+1. Kernel Module Auto-Loading:
+* Ensure that the necessary kernel modules are set to load automatically during boot. This is often configured in files such as /etc/modules or /etc/modules-load.d/*.conf.
+
+1. Check for Module Load Errors:
+* Look for any errors related to module loading in the logs. Use commands like dmesg | grep -i 'error\\|module' to identify potential issues.
+
+By investigating these areas, you may be able to identify the cause of the race condition and take appropriate measures to address it. If the issue persists, consider seeking assistance from your distribution's community forums or support channels, as they may have insights specific to the distribution and display manager you are using.
+
+
+
+greetd config examples
+* [](https://github.com/iharh/nixcfg/tree/6fab8a06850f47df37bd3cb0f027ecf11782cff4/hw)
+* [](https://github.com/lokeshmohanty/nix-config/blob/main/nixos/desktop-environment.nix)

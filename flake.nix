@@ -53,6 +53,14 @@
         podman = true;
         printing = true;
       };
+      delilah = {
+        name = "delilah";
+        description = "Lightweight non-GUI environment, primarily for experimentation";
+        defaultShell = "bash";
+        otherShells = ["bash" "zsh" "fish" "xonsh"];
+        compositors = [];
+        additionalModules = [];
+      };
       jabari = {
         name = "jabari";
         description = "same work laptop, but running Ubuntu Server with custom DE, flatpak, and Nix";
@@ -60,7 +68,7 @@
       };
       elsie = {
         name = "elsie";
-        description = "Dell Inspiron 14. Old, underpowered, and 32-bit (i686), used primarily for reading and note-taking while traveling; also good for experimentation";
+        description = "Dell Inspiron 14. Old, underpowered, and 32-bit (i686), used primarily for reading and note-taking while traveling; also good for experimentation; dual-boots Guix System";
         defaultShell = "bash";
         shells = ["bash"];
         windowManager = [];
@@ -85,14 +93,6 @@
       doxie = {
         name = "doxie";
         description = "Lightweight non-GUI development environment, suitable for use in containers (see yelircaasi/nix on Dockerhub)";
-        defaultShell = "bash";
-        otherShells = ["bash"];
-        compositors = [];
-        additionalModules = [];
-      };
-      delilah = {
-        name = "delilah";
-        description = "Lightweight non-GUI environment, primarily for experimentation";
         defaultShell = "bash";
         otherShells = ["bash"];
         compositors = [];

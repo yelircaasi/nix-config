@@ -1,12 +1,15 @@
 
 # Guix Configurations
+
 ## Legend
+
 (0) - best of the best; legendary
 (1) - very good
 (2) - worth a look at; may be outdated or limited in the number or type of apps
 (3) - quite poor; still kept on the list
 
 ## Configs
+
 * ( ) [aurtzy](https://github.com/aurtzy/guix-config)
 * ( ) [autumnalantlers](https://github.com/AutumnalAntlers/old-guix-config)
 * ( ) [benoit J](https://git.sr.ht/~benoit/dotfiles/tree/rde/item/src/benoitj).
@@ -41,7 +44,7 @@
 * (0) [mccd](https://git.mccd.space/)
 * (0) [millak](https://github.com/Millak/guix-config) - sway, tofi, vim, etc - also pine64
 * (0) [rde - andrew Tropin part 1](https://git.sr.ht/~abcdw/rde/tree/master/item/examples), [part 2](https://github.com/abcdw/nonrde).
-* (0) [rde](https://git.sr.ht/~abcdw/rde) ***** ( ) [gh mirror](https://github.com/abcdw/rde)
+* (0) [rde](https://git.sr.ht/~abcdw/rde)  ( ) [gh mirror](https://github.com/abcdw/rde)
 * (0) [rde](https://trop.in/rde/) [manual](https://trop.in/rde/manual)
 * (1.5) [bryal](https://github.com/bryal/guix-config) - old, but agda, haskell via stack, odin, etc
 * (1) [aartaka](https://github.com/aartaka/guix-config)
@@ -59,16 +62,19 @@
 * (2) [xade](https://codeberg.org/XADE) - quite smal; part of very good nix config
 
 ## Resources
+
 * ( ) [guix.gnu.org/manual/fr/html_node/index.html#Top](https://guix.gnu.org/manual/fr/html_node/index.html%23Top)
 * ( ) [guix-science](https://github.com/guix-science/guix-science-nonfree)
 * ( ) [nonguix](https://gitlab.com/nonguix/nonguix)
 
 ## Articles, Guides
+
 * ( ) [daviwil](https://systemcrafters.net/craft-your-system-with-guix/)
 * ( ) [fishinthecalculator.me/blog/secrets-management-with-sops-guix.html](https://fishinthecalculator.me/blog/secrets-management-with-sops-guix.html)
 * ( ) [Guix Sway](https://www.youtube.com/watch?v=OYbenLOm3Js)
 
 # SORT
+
 * [Guix Playlist](https://www.youtube.com/playlist?app=desktop&list=PLEoMzSkcN8oNxnj7jm5V2ZcGc52002pQU)
 * [guix podcast](https://hackerpublicradio.org/eps.php?id=2198)
 * [guix.gnu.org](https://guix.gnu.org/en/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)

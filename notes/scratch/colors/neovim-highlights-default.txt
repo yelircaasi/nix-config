@@ -46,8 +46,7 @@ PmenuExtra     xxx links to Pmenu
 PmenuExtraSel  xxx links to PmenuSel
 PmenuSbar      xxx ctermbg=248 guibg=Grey
 PmenuThumb     xxx ctermbg=15 guibg=White
-TabLine        xxx cterm=underline ctermfg=15 ctermbg=242 gui=underline
-                   guibg=DarkGrey
+TabLine        xxx cterm=underline ctermfg=15 ctermbg=242 gui=underline                   guibg=DarkGrey
 TabLineSel     xxx cterm=bold gui=bold
 TabLineFill    xxx cterm=reverse gui=reverse
 CursorColumn   xxx ctermbg=242 guibg=Grey40

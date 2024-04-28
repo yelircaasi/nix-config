@@ -1,45 +1,42 @@
 # Personal Website 🌱
 
-
 ## Hosting
 
-Want something better than Hostinger
-
-
+* Want something better than Hostinger
 * [hpanel.hostinger.com/hosting/isaacrriley.com/](https://hpanel.hostinger.com/hosting/isaacrriley.com/)
-
 
 ## Structure
 
-
 * About Me
-    - [ ]
+* [ ]
 * Projects
 * Math & Programming Visualizations
-    - [ ]  Bayes’ Theorem (rewrite and convert from TDS)
-    - [ ]  algebraic structures
-        - ⇒ Idea: Math taxonomy interactive visualizations for personal site - spaces (Venn diagram), algebraic structures (flowchart? Venn diagram?)
-    - [ ]  matrix types
-    - [ ]  proglang table
-    - [ ]  scalable webpage graphic of family tree of programming languages
-        - Links            - [The Briefest Genealogy of Programming Languages](http://www.martinrinehart.com/pages/genealogy-programming-languages.html)
-            - Genealogy of Programming Languages.pdf on Drive
-            - [en.wikipedia.org/wiki/Generational_list_of_programming_languages](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
-            - [en.wikipedia.org/wiki/History_of_programming_languages](https://en.wikipedia.org/wiki/History_of_programming_languages)
-            - [en.wikipedia.org/wiki/Timeline_of_programming_languages](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
-            - [rigaux.org/language-study/diagram.html](http://rigaux.org/language-study/diagram.html)
-        - Notes
-            - → button to change color scheme for different views corresponding to characteristics/history: paradigm(s), genealogy, application area, language features
+* [ ]  Bayes’ Theorem (rewrite and convert from TDS)
+* [ ]  algebraic structures
+        * ⇒ Idea: Math taxonomy interactive visualizations for personal site - spaces (Venn diagram), algebraic structures (flowchart? Venn diagram?)
+* [ ]  matrix types
+* [ ]  proglang table
+* [ ]  scalable webpage graphic of family tree of programming languages
+        * Link$1
+* [The Briefest Genealogy of Programming Languages](http://www.martinrinehart.com/pages/genealogy-programming-languages.html)
+            * Genealogy of Programming Languages.pdf on Drive
+* [en.wikipedia.org/wiki/Generational_list_of_programming_languages](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
+* [en.wikipedia.org/wiki/History_of_programming_languages](https://en.wikipedia.org/wiki/History_of_programming_languages)
+* [en.wikipedia.org/wiki/Timeline_of_programming_languages](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
+* [rigaux.org/language-study/diagram.html](http://rigaux.org/language-study/diagram.html)
+        * Notes
+            * → button to change color scheme for different views corresponding to characteristics/history: paradigm(s), genealogy, application area, language features
 * Study Notes (port from LaTeX versions)
 
-
 ## Learning
+
 * [ ]  [Build and deploy a portfolio website [Full Tutorial Course]](https://www.youtube.com/watch?v=_xkSvufmjEs)- [ ]  look at all examples in list of personal websites
-     - [ ]  read [codingflicks.com/2020/08/simple-website-design-using-html-and-css.html](https://www.codingflicks.com/2020/08/simple-website-design-using-html-and-css.html)
-     - [ ]  look at web books for notes
-     - [ ]  look into mathjax, hugo, jekyll, and [unbuch](https://github.com/mrtzh/unbuch) for static site generation
+* [ ]  read [codingflicks.com/2020/08/simple-website-design-using-html-and-css.html](https://www.codingflicks.com/2020/08/simple-website-design-using-html-and-css.html)
+* [ ]  look at web books for notes
+* [ ]  look into mathjax, hugo, jekyll, and [unbuch](https://github.com/mrtzh/unbuch) for static site generation
 
 ## My Site
+
 * [strapdownjs.com](https://strapdownjs.com/)
 * [yelircaasi.github.io/](https://yelircaasi.github.io/)
 * [Introducing fastpages: An easy to use blogging platform with extra features for Jupyter Notebooks](https://www.kdnuggets.com/2020/02/introducing-fastpages-blogging-platform-jupyter-notebooks.html)
@@ -57,22 +54,22 @@ Want something better than Hostinger
 * [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio)
 * [ashutosh1919/masterPortfolio](https://github.com/ashutosh1919/masterPortfolio)
 
-
 ## Blogging
+
 * [cms - Multilingual blogging platform - Software Recommendations Stack Exchange](https://softwarerecs.stackexchange.com/questions/7519/multilingual-blogging-platform)
 * [Create a site - Sites Help](https://support.google.com/sites/answer/98081?hl=en)
-* [Embedding Scripts in Google Sites - Google Apps Script for Beginners (2014)](http://apprize.info/google/script/5.html)
+* [Embedding Scripts in Google Sites - Google Apps Script for Beginners (2014)
 * [Gadgets for Google Sites | Google Sites API | Google Developers](https://developers.google.com/google-apps/sites/gadgets/site_gadgets)
 * [Google Sites - Prices? Fees? Monthly? Annually? - foros de productos de Google](https://productforums.google.com/forum/#!topic/sites/poAG1gxMCKU)
 * [How to Easily Create a Multilingual WordPress Site](http://www.wpbeginner.com/beginners-guide/how-to-easily-create-a-multilingual-wordpress-site/)
 * [Hypotheses: a multilingual platform for academic blogging – Open Electronic Publishing](http://oep.hypotheses.org/1687)
 * [MathJax](https://www.mathjax.org/)
 * [Multilingual Blogging](https://problogger.com/multilingual-blogging/)
-* [Welcome | Flask (A Python Microframework)](http://flask.pocoo.org/)
+* [Welcome | Flask (A Python Microframework)
 * [Your stories](https://medium.com/me/stories/drafts)
 
-
 ## Writing
+
 * [D2L for Reference (esp. code language tabs)](https://github.com/d2l-ai/d2l-en/blob/master/chapter_appendix-mathematics-for-deep-learning/information-theory.md)
 * [A Guide to Creating and Hosting a Personal Website on GitHub | Jonathan McGlone | Librarian, Front-End Developer, Digital Publisher, Project Manager, Music Enthusiast, Web Noodler.](http://jmcglone.com/guides/github-pages/)
 * [Adding a theme to your GitHub Pages site using Jekyll - GitHub Help](https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll)
@@ -82,6 +79,6 @@ Want something better than Hostinger
 * [How to Create and Publish a Jekyll Theme Gem](https://webdesign.tutsplus.com/tutorials/how-to-create-and-publish-a-jekyll-theme-gem--cms-27475)
 * [How to Make a Beautiful Personal Website Quickly - Better Programming - Medium](https://medium.com/better-programming/how-to-make-a-beautiful-personal-website-quickly-cab115866134)
 * [How to Set Up a Jekyll Theme](https://webdesign.tutsplus.com/tutorials/how-to-set-up-a-jekyll-theme--cms-26332)* [shad.io/MatVis/bundle.js](https://shad.io/MatVis/bundle.js)
-     * [Making your first Jekyll theme: Part 1 - Siteleaf](https://www.siteleaf.com/blog/making-your-first-jekyll-theme-part-1/)
+* [Making your first Jekyll theme: Part 1 - Siteleaf](https://www.siteleaf.com/blog/making-your-first-jekyll-theme-part-1/)
 * [Bookish (typesetting conversion library): [parrt/bookish](https://github.com/parrt/bookish)](https://github.com/parrt/bookish](https://github.com/parrt/bookish))
 * [**Write for Towards Data Science - Towards Data Science](https://towardsdatascience.com/questions-96667b06af5)

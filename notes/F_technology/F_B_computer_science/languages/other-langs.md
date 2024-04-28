@@ -1,7 +1,7 @@
 # Other Langs
 
-
 ## Sort
+
 * [Unisay/purescript-lua](https://github.com/Unisay/purescript-lua)
 * [flyde.dev/](https://www.flyde.dev/) - visual programming language for developers
 * [roc-lang.org/tutorial](https://www.roc-lang.org/tutorial)
@@ -14,19 +14,15 @@
 * [aviatesk/JET.jl](https://github.com/aviatesk/JET.jl)
 * [codeberg.org/mesche/mesche](https://codeberg.org/mesche/mesche)
 How to define / compute optimality of progrmming languages (i.e. determine/construct optimal programming language)?
-
-
 * [lfe.io/](https://lfe.io/)
 
-
 ## Ocaml
-
 
 * [ocamlverse.net/content/systems_programming.html](http://ocamlverse.net/content/systems_programming.html)
 * [ocaml.github.io/ocamlunix/](https://ocaml.github.io/ocamlunix/)
 
-
 ## Multilingual / Meta
+
 * [Python, Perl And Tcl... That Just Work!](https://www.activestate.com/)
 * [Programming Language Jam Results](https://blog.repl.it/pljamresults?ref=newsletter)
 * [people.eecs.berkeley.edu/~bh/v3ch5/langi.html](http://people.eecs.berkeley.edu/~bh/v3ch5/langi.html)
@@ -38,8 +34,6 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * 4. Julia: Julia is a high-level, high-performance language specifically designed for scientific computing and data analysis. It provides a dynamic programming model while achieving performance comparable to statically-typed languages. Julia offers extensive mathematical libraries and a friendly syntax that feels closer to a scripting language. It allows you to write code that is both performant and easy to understand, making it enjoyable for scientific computing tasks.
 * 5. Nim: Nim is a statically-typed, systems programming language that aims to combine high-level features with performance and low-level control. It offers a clean and expressive syntax similar to Python while providing efficient code generation. Nim supports compile-time metaprogramming, allowing you to generate code and optimize at compile-time. It is known for its readability, ease of use, and compile-time execution capabilities.
 * These languages strike a balance between performance, low-level control, and enjoyable programming experiences. Each has its own unique features, so you may want to explore them further to determine which best fits your requirements and preferences.
-
-
 * [Imagining the Ideal Language for Writing Free Software - Daniel Sockwell](https://www.youtube.com/watch?v=MCKozTfcWr4)
 * [blog.logrocket.com/comparing-rust-vs-zig-performance-safety-more/*](https://blog.logrocket.com/comparing-rust-vs-zig-performance-safety-more/*) [Why is Julia faster than C++ for quicksort?](https://discourse.julialang.org/t/why-is-julia-faster-than-c-for-quicksort/102669)
 * [chetanbhasin.com/articles/write-yourself-a-scheme-in-rust-parsing-part-1](https://chetanbhasin.com/articles/write-yourself-a-scheme-in-rust-parsing-part-1)
@@ -61,15 +55,15 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [hirrolot.github.io/posts/why-static-languages-suffer-from-complexity.html](https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity.html)
 * [oxij.org/note/BrutalDepTypes/](https://oxij.org/note/BrutalDepTypes/)
 
-
 ## regex
+
 * [Jeffrey Friedl's Mastering Regular Expressions](http://regex.info/book.html)
 * [jkrumbiegel/ReadableRegex.jl: regexes for people who don't really want to learn or read regexes](https://github.com/jkrumbiegel/ReadableRegex.jl)
 * [Vim Regular Expressions 101](https://vimregex.com/)
 * [9 Regular Expressions](https://docs.racket-lang.org/guide/regexp.html)
 
-
 ## Java
+
 * [Java Map](https://www.youtube.com/watch?v=TE3LyYW-AHQ)
 * [Java 8 in Action](https://www.academia.edu/31676908/Java_8_in_Action_Manning)
 * [quarkusio/quarkus: Quarkus: Supersonic Subatomic Java.](https://github.com/quarkusio/quarkus)
@@ -97,7 +91,7 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [Fundamentals of Java Programming_Mitsunori Ogihara_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-89491-1)
 * [Java in Two Semesters_Quentin Charatan, Aaron Kans_4th ed. 2019](http://link.springer.com/openurl?genre=book&isbn=978-3-319-99420-8)
 * Java. Der Grundkurs
-* [](https://www.youtube.com/c/javaplatform)
+* [video](https://www.youtube.com/c/javaplatform)
 * [inside.java/](https://inside.java/)
 * [97 Things Every Java Programmer Should Know: Collective Wisdom from the Experts](http://library.lol/main/DA37A0D818FE67BD33B1EA7BBC9A9019)
 * [**data structures and algorithms java: Kostenloses Herunterladen](https://de1lib.org/s/data%20structures%20and%20algorithms%20java)
@@ -112,11 +106,9 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [Algorithms in a Nutshell](https://de1lib.org/book/2694702/1d9a2b)
 * [Cay S. Horstmann: Kostenloses Herunterladen. Elektronische Bibliothek](https://de1lib.org/g/Cay%20S.%20Horstmann)
 * [A concise and practical introduction to programming algorithms in Java](https://de1lib.org/book/540480/7154c3)
-* [freecodecamp.org/news/algorithms-and-data-structures-free-treehouse-course/](https://www.freecodecamp.org/news/algorithms-and-data-structures-free-treehouse-course/)
-
-Изучаем Java (Head First)
-
-Философия Java
+* [freecodecamp.org/news/algorithms-and-data-structures-free-treehouse-course/](https://www.freecodecamp.org/news/algorithms-and-data-structures-free-treehouse-course/$1
+* $2зучаем Java (Head First$1
+* $2илософия Java
 * [Computer Science: основы программирования на Java, ООП, алгоритмы и структуры данных.](http://libgen.rs/book/index.php?md5=B102F55A1961E79DD1541CD9543DF17A)
 * [Computer Science: Основы программирования на Java, ООП, алгоритмы и структуры данных](http://libgen.rs/book/index.php?md5=D93B43075E47139E8D0A34A6ED1DE2B0)
 * [Алгоритмы на Java [4изд.]](http://libgen.rs/book/index.php?md5=135F570AC9735CACBFE7BA425C5625D0)
@@ -188,8 +180,8 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * Recursion and Trees [sfs.uni-tuebingen.de/~dg/l5.html](http://www.sfs.uni-tuebingen.de/~dg/l5.html)
 * Elementary Sorting Methods [sfs.uni-tuebingen.de/~dg/l6.html](http://www.sfs.uni-tuebingen.de/~dg/l6.html)
 
-
 ## > [programiz.com/java-programming](https://www.programiz.com/java-programming)
+
 * [docs.oracle.com/javase/tutorial/](https://docs.oracle.com/javase/tutorial/)
 * Intro to CS II (Java): [cs.bu.edu/~snyder/cs112/](http://www.cs.bu.edu/~snyder/cs112/)
 * Programming Using Java (book): [math.hws.edu/javanotes/](http://math.hws.edu/javanotes/)
@@ -203,7 +195,7 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [developer.ibm.com/series/intro-to-java-programming/](https://developer.ibm.com/series/intro-to-java-programming/)
 * [programmingbydoing.com/](https://programmingbydoing.com/)
 * [javarush.ru/](https://javarush.ru/)
-* Curso de Java desde 0: [](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk)
+* Curso de Java desde 0: [video](https://www.youtube.com/playlist?list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk)
 * [introcs.cs.princeton.edu/java/home/](https://introcs.cs.princeton.edu/java/home/)
 * [Inside the Java virtual machine | Bill Venners | download](https://b-ok.cc/book/491894/3b19eb)
 * [Java theory and practice – Build Smart. Build Secure. IBM Developer](https://developer.ibm.com/series/java-theory-and-practice/)
@@ -290,8 +282,8 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [Java: A Beginner’s Guide, Seventh Edition](https://www.amazon.com/Java-Beginners-Seventh-Herbert-Schildt/dp/1259589315?tag=javamysqlanta-20)
 * Java: The Complete Reference, Eleventh Edition: By Herbert Schildt
 
-
 ## DB
+
 * [MongoDB Questions and Answers](https://www.sanfoundry.com/1000-mongodb-questions-answers/)
 * [SQL in 10 Minutes a Day, Sams Teach Yourself [5th ed.]](http://libgen.rs/book/index.php?md5=7EDF120EABDA725C3194CB9FDBDFA11C)
 * [SQL RU](https://vk.com/wall-16108331_160096)
@@ -308,7 +300,7 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [Database Internals: A deep-dive into how distributed data systems work](https://b-ok.cc/book/5256920/00786c)
 * [Database Marketing_Robert C. Blattberg, Byung-Do Kim, Scott A. Neslin_2008](http://link.springer.com/openurl?genre=book&isbn=978-0-387-72579-6)
 * [Datalog and Logic Databases](http://library.lol/main/CC2821EDD127E74353E20B1DD8F61F04)
-* [Probabilistic Databases (Synthesis Lectures on Data Management)](http://library.lol/main/0D3322515712C2BA5D551A24EEDDDEEF)
+* [Probabilistic Databases (Synthesis Lectures on Data Management)
 * [Incomplete Data and Data Dependencies in Relational Databases](http://library.lol/main/351DFE4B4C0C74A73EB5E1F7B07E7DC8)
 * [Базы данных. SQL. | Physics.Math.Code.Books](https://vk.com/topic-51126445_31498094)
 * [Concise Guide to Databases_Peter Lake, Paul Crowther_2013](http://link.springer.com/openurl?genre=book&isbn=978-1-4471-5601-7)
@@ -439,12 +431,13 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [Simon Riggs, Gianni Ciolli - PostgreSQL 14 Administration Cookbook: Over 175 proven recipes for database administrators to manage enterprise databases effectively, 3rd Edition](https://libgen.is/book/index.php?md5=E41E5BBE8E8BF285CBF3486F6278F9CB)
 * [freecodecamp.org/news/learn-nosql-in-3-hours/](https://www.freecodecamp.org/news/learn-nosql-in-3-hours/)
 
-
 ## Haskell
+
 * [matthewrhone.dev/resources/haskell/](https://matthewrhone.dev/resources/haskell/)
 * [serokell.io/blog/top-haskell-open-source-projects-for-linux](https://serokell.io/blog/top-haskell-open-source-projects-for-linux)
 * [serokell.io/blog/best-haskell-open-source-projects](https://serokell.io/blog/best-haskell-open-source-projects)
-* [r/haskell/comments/2u0oho/haskell_project_ideas/](https://www.reddit.com/r/haskell/comments/2u0oho/haskell_project_ideas/) * [Debunking Haskell Myths and Stereotypes](https://www.youtube.com/watch?v=J_C37aFcgXk)
+* [r/haskell/comments/2u0oho/haskell_project_ideas/](https://www.reddit.com/r/haskell/comments/2u0oho/haskell_project_ideas/)
+* [Debunking Haskell Myths and Stereotypes](https://www.youtube.com/watch?v=J_C37aFcgXk)
 * [haskell-beginners-2022/course-plan](https://github.com/haskell-beginners-2022/course-plan)
 * [Get Programming with Haskell](http://library.lol/main/9B59CB8C668782D7A592B36CA94E7E3F)
 * [haskell.pdf](https://homepages.dcc.ufmg.br/~camarao/fp/haskell.pdf)
@@ -515,8 +508,8 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [Haskell Quick Syntax Reference: A Pocket Guide to the Language, APIs, and Library](http://library.lol/main/291213B16C51806F9A86AC30D43E1F0E)
 * [haskell.org/documentation/](https://www.haskell.org/documentation/)
 
-
 ## Fortran
+
 * [Introduction to Programming with Fortran_Ian Chivers, Jane Sleightholme_4th ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-75502-1)
 * [ourcodingclub.github.io/tutorials/fortran-intro/](https://ourcodingclub.github.io/tutorials/fortran-intro/)
 * [Fortran Series](https://www.youtube.com/watch?v=05N6PecJw-E&list=PLOU8LxhyFylLS298Sea2-gYvO5Lj8HZsP)
@@ -524,8 +517,8 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [DJ's Office Hours](https://youtube.com/c/DJsOfficeHours) (Fortran)
 * [fortran-lang.discourse.group/](https://fortran-lang.discourse.group/)
 
-
 ## Golang
+
 * [100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
 * [golang.org/](https://golang.org/)
 * [digitalocean.com/community/tutorial_series/how-to-code-in-go](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go)
@@ -534,7 +527,7 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [The Go Programming Language](https://golang.org/)
 * [Go for Java Programmers: Learn the Google Go Programming Language](http://library.lol/main/FF965022B2127BB4E418C5DA0A3E444F)
 * [Go Language Programming Practical Basics Tutorial - YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeF3hP0wQoSxpkqgRcgxMqX)
-* [Software Development with Go. Cloud-Native Programming using Golang with Linux and Docker](http://library.lol/main/68E1C74705DB100822BB2D210EABE7F2)  ****** [Software Development with Go. Cloud-Native Programming using Golang with Linux and Docker](http://library.lol/main/68E1C74705DB100822BB2D210EABE7F2)
+* [Software Development with Go. Cloud-Native Programming using Golang with Linux and Docker](http://library.lol/main/68E1C74705DB100822BB2D210EABE7F2)  * [Software Development with Go. Cloud-Native Programming using Golang with Linux and Docker](http://library.lol/main/68E1C74705DB100822BB2D210EABE7F2)
 * [How The Go Programming Language Helps Docker and the Container Ecosystem - The New Stack](https://thenewstack.io/go-programming-language-helps-docker-container-ecosystem/)
 * [The One BIG Reason to Learn Google's Go Language](https://youtu.be/rQQcIGqp0OU)
 * [heise.de/news/KI-optimiert-Compiler-in-Googles-MLGO-Framework-fuer-LLVM-7164737.html](https://www.heise.de/news/KI-optimiert-Compiler-in-Googles-MLGO-Framework-fuer-LLVM-7164737.html)
@@ -545,8 +538,8 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [Getting Started with Go Programming](https://www.programiz.com/golang/getting-started)
 * [Safari, an O'Reilly Media Company.; Torres, Aaron - Go Programming Cookbook: Over 85 recipes to build modular, readable, and testable Golang applications across various domains - Second Edition](https://libgen.is/book/index.php?md5=AE4C2DC519B526BDA45F0709C15CE769)
 
-
 ## Lisps
+
 * [janet.guide/](https://janet.guide/)
 * [azzamsa/awesome-cl-software](https://github.com/azzamsa/awesome-cl-software)
 * [Lisp Todo List](https://www.reddit.com/r/Common_Lisp/comments/12lx6is/todolistcl_30_a_todolist_web_ui_written_in_common/)
@@ -589,8 +582,8 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * The Little Schemer – 4th Edition
 * [Lisp | Physics.Math.Code.Books](https://vk.com/topic-51126445_36552644)
 
-
 ## [Maxima](https://maxima.sourceforge.io/) - Maxima is a system for the manipulation of symbolic and numerical expressions, including differentiation, integration, Taylor series, Laplace transforms, ordinary differential equations, systems of linear equations, and much more.
+
 * [janet.guide/*](https://janet.guide/*) [Babashka book](https://book.babashka.org/)
 * [norvig.github.io/paip-lisp/#/](https://norvig.github.io/paip-lisp/#/)
 * [IT Муравейник – про Common Lisp на русском языке!](https://www.youtube.com/@40Ants?app=desktop)
@@ -640,15 +633,15 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [scheme/scsh](https://github.com/scheme/scsh)
 * [tkych/cl-date-time-parser: Parse date-time-string, liberally.](https://github.com/tkych/cl-date-time-parser)
 
-
 ## Nim
+
 * [nimyaml.org/](https://nimyaml.org/)
 * [Andreas Rumpf: Nim 2 (NimConf 2022) - YouTube](https://www.youtube.com/watch?v=aDi50K_Id_k)
 * [A Brief Introduction to Nim - YouTube](https://www.youtube.com/watch?v=rYDRCNFtRq0&t=216s)
 * ["Nim Nuggets: Systems Programming & Metaprogramming Magic" by Aditya Siram - YouTube](https://www.youtube.com/watch?v=d2VRuZo2pdA)
 
-
 ## JavaScript and TypeScript
+
 * [JavaScript: Algoritmos + Estruturas de Dados (6h)](https://youtube.com/playlist?list=PLpfKv2Mn_c-HTFozSx8iplzzBlQJnPs2j)
 * [JS Stuff](https://www.reddit.com/user/SkillupGenie)
 * [Free ebooks for .NET & JavaScript Developers | Syncfusion](https://www.syncfusion.com/succinctly-free-ebooks)
@@ -659,21 +652,19 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh)
 * Book: [JS RegEx](https://learnbyexample.github.io/learn_js_regexp/)
 
-
 ##    [Bible.Js CLI](https://github.com/BibleJS/BibleApp)) - Bible.
-
 
 ##    [football-cli](https://github.com/ManrajGrover/football-cli)) - Get live scores, fixtures, standings of almost every football competition/league.
 
-
 ##    [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot)) - Traverse the Mandelbrot fractal.
 
-
 ##    [sparkly-cli](https://github.com/sindresorhus/sparkly-cli)) - Generate sparklines ▁▂▃▅▂▇..
+
 * [JoshuaKGoldberg/TypeStat](https://github.com/JoshuaKGoldberg/TypeStat)
 * [matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
 * [JS Neural Networks](https://youtu.be/Rs_rAxEsAvI)
-* [Learn Enough JavaScript to Be Dangerous: Write Programs, Publish Packages, and Develop Interactive Websites with JavaScript](http://library.lol/main/9D1C4DDAB3855237C8AB77C5E47E2654) * [JavaScript from Beginner to Professional: Learn JavaScript quickly by building fun, interactive, and dynamic web apps, games, and pages](http://library.lol/main/D98C1CE8FBFB93F938EFFC61759A5A8D)
+* [Learn Enough JavaScript to Be Dangerous: Write Programs, Publish Packages, and Develop Interactive Websites with JavaScript](http://library.lol/main/9D1C4DDAB3855237C8AB77C5E47E2654)
+* [JavaScript from Beginner to Professional: Learn JavaScript quickly by building fun, interactive, and dynamic web apps, games, and pages](http://library.lol/main/D98C1CE8FBFB93F938EFFC61759A5A8D)
 * [Deno — A modern runtime for JavaScript and TypeScript](https://deno.land/)
 * [Bun — A fast all-in-one JavaScript runtime](https://bun.sh/)
 * [Learn JavaScript for Beginners – JS Basics Handbook](https://www.freecodecamp.org/news/learn-javascript-for-beginners/)
@@ -688,17 +679,15 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [Clements, David Mark - Node Cookbook](https://libgen.is/book/index.php?md5=D09A3194F385EC9513892A95F59382DC)
 * [Hands-On Functional Programming with TypeScript: Explore functional and reactive programming to create robust and testable TypeScript applicatons](http://library.lol/main/3D1518EAA1FFE2570360F403B3368925)
 
-
 ## Kotlin
+
 * [libgen.is/search.php?&req=kotlin&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](http://libgen.is/search.php?&req=kotlin&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 * [kotlinlang.org/docs/home.html](https://kotlinlang.org/docs/home.html)
 * [Kotlin](https://de1lib.org/book/11817326/ef9983)
 * [Kotlin: Урок 0. Введение](https://youtu.be/L9k_NdTaMeI)
 * [Ken Kousen - Kotlin Cookbook: A Problem-Focused Approach](https://libgen.is/book/index.php?md5=868921840C4AAC2726F63F3A28F3E70D)
 
-
 ## Lua
-
 
 * [lua.org/manual/5.1/pt/](https://www.lua.org/manual/5.1/pt/)
 * [erde-lang.github.io/](https://erde-lang.github.io/)
@@ -713,7 +702,7 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [wubingzheng.github.io/build-lua-in-rust/en/](https://wubingzheng.github.io/build-lua-in-rust/en/)
 * [quora.com/Why-is-Lua-so-fast?](https://www.quora.com/Why-is-Lua-so-fast?redirect_to_mweb=1)
 * [ui - luapower.com](https://luapower.com/ui)
-* [](https://www.youtube.com/playlist?list=PLa4jh645PxpfOYT5bNkim9yoevX8dCYpt)
+* [video](https://www.youtube.com/playlist?list=PLa4jh645PxpfOYT5bNkim9yoevX8dCYpt)
 * [tylerneylon.com/a/learn-lua/](http://tylerneylon.com/a/learn-lua/)
 * [lua.org/portugues.html](https://www.lua.org/portugues.html)
 * [oxford-cs-ml-2015/practical1](https://github.com/oxford-cs-ml-2015/practical1)
@@ -743,8 +732,8 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [groups.google.com/forum/#!topic/lua-br/vPoYVSRGKOc](https://groups.google.com/forum/#!topic/lua-br/vPoYVSRGKOc)
 * [Curso de Programação Lua](https://www.youtube.com/playlist?list=PLa4jh645PxpfOYT5bNkim9yoevX8dCYpt)
 
-
 ## [**Curso de Programação Lua - YouTube - YouTube](https://www.youtube.com/playlist?list=PLa4jh645PxpfOYT5bNkim9yoevX8dCYpt)
+
 * [A Linguagem de Programação Lua](http://www.lua.org/portugues.html)
 * [CURSO DE PROGRAMAÇÃO LUA - Grupos de Google](https://groups.google.com/forum/#!topic/lua-br/vPoYVSRGKOc)
 * [Descobrindo Lua - Documentos de Google](https://docs.google.com/document/d/18V-DHIMUsKP9wpbS3gQ4BcCE1q5ml4BHHt5jNy7VuYA/edit)
@@ -809,8 +798,8 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [luau-lang.org/](https://luau-lang.org/)
 * [loglog.games/blog/nanovoid-devlog-1/](https://loglog.games/blog/nanovoid-devlog-1/) → [r/rust_gamedev/comments/13rgj9t/nanovoid_devlog_1_lua_scripting/](https://www.reddit.com/r/rust_gamedev/comments/13rgj9t/nanovoid_devlog_1_lua_scripting/)
 
-
 ## Octave
+
 * [gnu.org/software/octave/](https://www.gnu.org/software/octave/)
 * [_6e47e23eeaca5ffa8533f290f349500f_MATLAB-tutorials.pdf](https://d18ky98rnyall9.cloudfront.net/_6e47e23eeaca5ffa8533f290f349500f_MATLAB-tutorials.pdf?Expires=1542240000&Signature=eZwaVEV8vWyJ-pwGlx3ComNVXQMePs494yNLVY5yBKP2PVpp-BwNa8YhE5tSLF9YcaUMfNRS-lr8R9xXMLXUV9azWBj~DWujMGo8i8aQhPhsfCe-VO4jIXTHtFWbNdoTrjPAtEac5BNLqJtYvB2HS0JsEEoXiW~bbNLTUWE9J0I_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 * [www-m11.ma.tum.de/fileadmin/w00bnb/www/people/karpfinger/MATLAB-Tutorial.pdf](https://www-m11.ma.tum.de/fileadmin/w00bnb/www/people/karpfinger/MATLAB-Tutorial.pdf)
@@ -820,8 +809,8 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [Matlab](https://www.newsletter.datasciencecentral.com/click.html?x=a62e&lc=uby&mc=j&s=jFaI&u=F&y=f&z=we5UdM1&)
 * [MATLAB for Psychologists_Mauro Borgo, Alessandro Soranzo, Massimo Grassi_2012](http://link.springer.com/openurl?genre=book&isbn=978-1-4614-2197-9)
 
-
 ## Perl
+
 * [Perl One-Liners](https://learnbyexample.github.io/learn_perl_oneliners/) (book)
 * [cpan.org/authors/id/E/EI/EIKEG/doc/perl-tutorial-DE_2.02.pdf](http://www.cpan.org/authors/id/E/EI/EIKEG/doc/perl-tutorial-DE_2.02.pdf)
 * [de.perlmaven.com/installation-und-ein-anfang-mit-perl](https://de.perlmaven.com/installation-und-ein-anfang-mit-perl)
@@ -847,8 +836,8 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [raku.guide/](https://raku.guide/)
 * [Library Genesis: Peteris Krumins - Perl One-Liners: 130 Programs That Get Things Done](http://libgen.rs/book/index.php?md5=9CA2A82EE44E703454B088BC62933D18)
 
-
 ## [cmatsuoka/asciiquarium](https://github.com/cmatsuoka/asciiquarium) - Enjoy the mysteries of the sea from the safety of your own terminal!* [Raku Fundamentals : A Primer with Examples, Projects, and Case Studies](http://library.lol/main/8FFF5971961E4BE29C265396BDCF39D2)
+
 * [Raku Recipes: A Problem-Solution Approach](http://library.lol/main/27E6D009FA818D326139DA82C76A4BB9)
 * [Beginning Raku, A Two Day Course](http://library.lol/main/EDBB29E720B468871BEC312F78F0659F)
 * [Perl 6 Fundamentals : A Primer with Examples, Projects, and Case Studies](http://library.lol/main/FF72A922A297EF6089337D34239EEED3)
@@ -863,8 +852,8 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [An introduction to Perl6](https://www.youtube.com/watch?v=Q-t073TOFyw)
 * [Perl 6 Quick Syntax Reference: A Pocket Guide to the Language, the Core Modules, and the Community](http://library.lol/main/5C6CA58FF276E689CDCC95FD5AECFED2)
 
-
 ## Prolog
+
 * [PROLOG Cheat Sheet](http://www.cs.oswego.edu/~odendahl/coursework/notes/prolog/synopsis/)
 * [SWI-Prolog](https://github.com/SWI-Prolog)
 * [SWI-Prolog/swipl-devel: Main development repository](https://github.com/SWI-Prolog/swipl-devel)
@@ -872,12 +861,11 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [2_Inductive_Logical_Programming_proglib.pdf](https://vk.com/doc7608079_443009820?hash=7cca1916dede6f0a36&dl=af0321a3398ac90b72)
 * [prolog](https://libgen.is/search.php?&req=prolog+&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 
-
 ## R
-* [R-bloggers | R news and tutorials contributed by (750) R bloggers](https://www.r-bloggers.com/)
-* [book.rwithoutstatistics.com/](https://book.rwithoutstatistics.com/)
 
-Изучаем Shiny. Создание интерактивных приложений, отчетов и дашбордов при помощи R [2022]
+* [R-bloggers | R news and tutorials contributed by (750) R bloggers](https://www.r-bloggers.com/)
+* [book.rwithoutstatistics.com/](https://book.rwithoutstatistics.com/$1
+* $2зучаем Shiny. Создание интерактивных приложений, отчетов и дашбордов при помощи R [2022]
 * [Advanced R Programming | Coursera](https://www.coursera.org/learn/advanced-r)
 * [stat.ethz.ch/R-manual/R-devel/library/base/html/regex.html](https://stat.ethz.ch/R-manual/R-devel/library/base/html/regex.html)
 * [digitalocean.com/community/tutorials/how-to-install-r-on-ubuntu-18-04](https://www.digitalocean.com/community/tutorials/how-to-install-r-on-ubuntu-18-04)
@@ -978,7 +966,7 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL | John L. Viescas | download](https://b-ok.cc/book/4977604/b4911a)
 * [Statistical Analysis and Data Display: An Intermediate Course with Examples in R | Richard M. Heiberger, Burt Holland | download](https://b-ok.cc/book/2647188/b97fb5)
 * [STHDA - Accueil](http://www.sthda.com/french/)
-* [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html#Density%20Plot)
+* [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)
 * [Статистический анализ и визуализация данных с помощью R](https://vk.com/doc44301783_610996081?hash=13c1cfb2ebea814cb4&dl=bb20899e4d048be74c)
 * [R Programming Questions and Answers – Overview of R – 1](https://www.sanfoundry.com/r-programming-questions-answers-overview/)
 * [sanfoundry.com/1000-r-programming-questions-answers/](https://www.sanfoundry.com/1000-r-programming-questions-answers/)
@@ -994,29 +982,29 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [bigbookofr.com/](https://www.bigbookofr.com/)
 * [Jd Long; Paul Teetor - R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics](https://libgen.is/book/index.php?md5=90F504CD8C373954505E788F9E8AB5CA)
 * [R Graphics Cookbook Practical Recipes for Visualizing Data](https://libgen.is/book/index.php?md5=C18698222DC746FDDAD3E4D75C695990)
-* [R 4 Quick Syntax Reference: A Pocket Guide to the Language, API’s and Library](http://library.lol/main/FE67CA67C6334B445E28F9AFAD0E090B) * [R Quick Syntax Reference: A Pocket Guide to the Language, APIs and Library](http://library.lol/main/5B5ACA469F6C3200FEA94AA5586CDB27)
-
+* [R 4 Quick Syntax Reference: A Pocket Guide to the Language, API’s and Library](http://library.lol/main/FE67CA67C6334B445E28F9AFAD0E090B)
+* [R Quick Syntax Reference: A Pocket Guide to the Language, APIs and Library](http://library.lol/main/5B5ACA469F6C3200FEA94AA5586CDB27)
 
 ## Rust
+
 * [doc.rust-lang.org/stable/book/](https://doc.rust-lang.org/stable/book/)
 * [doc.rust-lang.org/stable/rust-by-example/](https://doc.rust-lang.org/stable/rust-by-example/)
-* [rust-lang-nursery.github.io/rust-cookbook/](https://rust-lang-nursery.github.io/rust-cookbook/) * [How to Learn Rust](https://www.youtube.com/watch?v=2hXNd6x9sZs)
-
+* [rust-lang-nursery.github.io/rust-cookbook/](https://rust-lang-nursery.github.io/rust-cookbook/)
+* [How to Learn Rust](https://www.youtube.com/watch?v=2hXNd6x9sZs)
 
 ## Web
+
 * [actix.rs/](https://actix.rs/)
 * [yew.rs/](https://yew.rs/)
 * [leptos-rs/leptos](https://github.com/leptos-rs/leptos)
 * [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
-
-
 * [twitchax/kord](https://github.com/twitchax/kord)
 * [qdrant/qdrant](https://github.com/qdrant/qdrant)
 * [os.phil-opp.com/](https://os.phil-opp.com/)
 * [gtk-rs.org/](https://gtk-rs.org/)  [gtk-rs.org/gtk4-rs/stable/latest/book/](https://gtk-rs.org/gtk4-rs/stable/latest/book/)
 * [serokell.io/blog/learn-rust](https://serokell.io/blog/learn-rust)
 * [Reddit - Fellow Rust enthusiasts: What "sucks" about Rust?](https://www.reddit.com/r/rust/comments/11nxp0j/fellow_rust_enthusiasts_what_sucks_about_rust/)
-* [r/rust/comments/12gxh8b/felix_an_x86_hobby_os_written_in_rust](https://www.reddit.com/r/rust/comments/12gxh8b/felix_an_x86_hobby_os_written_in_rust) ***
+* [r/rust/comments/12gxh8b/felix_an_x86_hobby_os_written_in_rust](https://www.reddit.com/r/rust/comments/12gxh8b/felix_an_x86_hobby_os_written_in_rust) 
 * [r/rust/comments/12j1mx2/media_static_table_010_build_tables_at_compile](https://www.reddit.com/r/rust/comments/12j1mx2/media_static_table_010_build_tables_at_compile)
 * [r/rust/comments/12qytk1/rustcplugin_a_framework_for_writing_plugins_that](https://www.reddit.com/r/rust/comments/12qytk1/rustcplugin_a_framework_for_writing_plugins_that)
 * [analyticsinsight.net/pythons-usability-and-rusts-speed-at-your-service-thanks-to-libraries/](https://www.analyticsinsight.net/pythons-usability-and-rusts-speed-at-your-service-thanks-to-libraries/)
@@ -1062,7 +1050,7 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [8 deadly mistakes beginner Rust developers make](https://youtu.be/PbR4ECFIckg)
 * [Rust's Witchcraft](https://youtu.be/MWRPYBoCEaY)
 * [10 Reasons Not To Use Rust (The Whole Truth)](https://youtu.be/ul9vyWuT8SU)
-* [](https://www.youtube.com/@chrisbiscardi)
+* [video](https://www.youtube.com/@chrisbiscardi)
 * [Introduction - The `bindgen` User Guide](https://rust-lang.github.io/rust-bindgen/)
 * [The future of Python is written in Rust](https://www.arecadata.com/the-modern-python-stack-is-written-in-rust/)
 * [RustPython/RustPython: A Python Interpreter written in Rust](https://github.com/RustPython/RustPython)
@@ -1084,7 +1072,7 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [doc.rust-lang.org/book/second-edition/](https://doc.rust-lang.org/book/second-edition/)
 * [rust-lang.org/de-DE/](https://www.rust-lang.org/de-DE/)
 * [rust-lang.org/en-US/](https://www.rust-lang.org/en-US/)
-* [github.com/RDambrosio016/Rust-CUDA](https://github.com/RDambrosio016/Rust-CUDA)
+* [RDambrosio016/Rust-CUDA](https://github.com/RDambrosio016/Rust-CUDA)
 * [Systems Programming with Rust: A Project-Based Primer [1 ed.]](http://libgen.is/book/index.php?md5=26BEB6238F08085E77944FEA0DE42B28)
 * [Beginning Rust Programming [1 ed.]](http://libgen.is/book/index.php?md5=0FB67E531BF1CB7B188BF84F817291AE)
 * [Программирование на Rust [1 ed.]](http://libgen.is/book/index.php?md5=57FC451B6927457078601721158474B9)
@@ -1104,8 +1092,8 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [containers/youki](https://github.com/containers/youki)
 * [Rust for Rustaceans [2021] Jon Gjengset.pdf](https://vk.com/doc44301783_617206780?hash=32b56fd438b7accaa8&dl=ed1eab7470bc90d171)
 
-
 ## [*Are we learning yet?](http://www.arewelearningyet.com/)
+
 * [7 Reasons Rust Is the Most Exciting New Programming Language](https://www.makeuseof.com/tag/reasons-rust-exciting-programming-language/)
 * [BurntSushi/fst: Represent large sets and maps compactly with finite state transducers.](https://github.com/BurntSushi/fst)
 * [christophertrml/rs-natural: Natural Language Processing for Rust](https://github.com/christophertrml/rs-natural)
@@ -1148,7 +1136,7 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [tauri.studio/en/](https://tauri.studio/en/)
 * [v1nam/travelling_salesman](https://github.com/v1nam/travelling_salesman)
 * [lib.rs/science/ml](https://lib.rs/science/ml)
-* [reddit.com/r/rust/comments/aofkg4/neural_networks_what_crates_to_use](https://www.reddit.com/r/rust/comments/aofkg4/neural_networks_what_crates_to_use/)
+* [r/rust/comments/aofkg4/neural_networks_what_crates_to_use](https://www.reddit.com/r/rust/comments/aofkg4/neural_networks_what_crates_to_use/)
 * [Practical Machine Learning With Rust: Creating Intelligent Applications In Rust | Joydeep Bhattacharjee | download](https://de1lib.org/book/5304256/0ff807?dsource=recommend)
 * [Practical Rust Projects: Building Game, Physical Computing, and Machine Learning Applications | Shing LYu | download](https://de1lib.org/book/5461329/7b0c0e?dsource=recommend)
 * [Solving Sudokus Like A Human](https://youtu.be/EXAPZUMj_sU)
@@ -1188,7 +1176,8 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [Interactive Rust in a REPL and Jupyter Notebook with EVCXR | Depth-First](https://depth-first.com/articles/2020/09/21/interactive-rust-in-a-repl-and-jupyter-notebook-with-evcxr/)
 * [Rust Language 🦀 Crash Course for beginners](https://www.youtube.com/watch?v=nweNM-TQYfs)
 * [Rust Tutorial Full Course](https://www.youtube.com/watch?v=ygL_xcavzQ4)
-* [fasterthanli.me/articles/rust-the-wrong-people-are-resigning](https://fasterthanli.me/articles/rust-the-wrong-people-are-resigning) * [Rust Functions Are Weird (But Be Glad)](https://www.youtube.com/watch?v=SqT5YglW3qU)
+* [fasterthanli.me/articles/rust-the-wrong-people-are-resigning](https://fasterthanli.me/articles/rust-the-wrong-people-are-resigning)
+* [Rust Functions Are Weird (But Be Glad)](https://www.youtube.com/watch?v=SqT5YglW3qU)
 * [show_notes - Rust](https://newrustacean.com/show_notes/)
 * [New Rustacean: A Podcast About Learning Rust](https://newrustacean.com/)
 * [Elm - delightful language for reliable web applications](https://elm-lang.org/)
@@ -1209,8 +1198,8 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) → [ratatui-org/ratatui/releases/tag/v0.21.0](https://github.com/ratatui-org/ratatui/releases/tag/v0.21.0)
 * [Getting Started with Rust](https://www.programiz.com/rust/getting-started)
 
-
 ## Scala
+
 * [Scala](https://github.com/TheAlgorithms/Scala)
 * [Introduction | Tour of Scala | Scala Documentation](https://docs.scala-lang.org/tour/tour-of-scala.html)
 * [dzone.com/refcardz/r-essentials-1](https://dzone.com/refcardz/r-essentials-1)
@@ -1231,39 +1220,39 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [Learning Scala](https://b-ok.cc/s/?q=Learning+Scala)
 * [databricks.com/blog/2021/12/03/scala-at-scale-at-databricks.html](https://databricks.com/blog/2021/12/03/scala-at-scale-at-databricks.html)
 * [Introduction - Scala Succinctly Ebook | Syncfusion](https://www.syncfusion.com/succinctly-free-ebooks/scala-succinctly/introduction)
-* [](https://twitter.github.io/scala_school/)
+* [...](https://twitter.github.io/scala_school/)
 * [Язык Scala, сложности поддержки Scala в IDE и Play Framework 2.0](https://www.youtube.com/watch?v=r2tzd7-LXdI&list=PL-_cKNuVAYAVR22Vkj3pE1kWMPGkZoXfI)
 * [Scala Cookbook: Recipes for Object-Oriented and Functional Programming](http://libgen.is/book/index.php?md5=007C952965B3B4C2F3AD9F9A726D506D)
 * [Alvin Alexander - Scala Cookbook: Recipes for Object-Oriented and Functional Programming](https://libgen.is/book/index.php?md5=007C952965B3B4C2F3AD9F9A726D506D)
 
-
 ## WASM
+
 * [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen)
 * [Main — Emscripten 3.1.33-git (dev) documentation](https://emscripten.org/index.html)
 * [docs.docker.com/desktop/wasm/](https://docs.docker.com/desktop/wasm/)
 * [wasm.builders/](https://www.wasm.builders/)
 * [docker.com/blog/docker-wasm-technical-preview/](https://www.docker.com/blog/docker-wasm-technical-preview/)
 
-
 ## C#, F#, etc.
+
 * [Format Your .NET Code with Git Hooks | by Randula Koralage | Medium](https://randulakoralage82.medium.com/format-your-net-code-with-git-hooks-a0dc33f68048)
 * [Setting up pre-commit hooks for a .NET project](https://andrewnt.dev/setting-up-pre-commit-hooks-for-a-net-project)
 * [C# 10 Quick Syntax Reference: A Pocket Guide to the Language, APIs, and Library](http://library.lol/main/54DADB506E4A640AFAB2C33D1C30ACC9)
 
-
 ## Zig
+
 * [ratfactor/ziglings](https://github.com/ratfactor/ziglings)
 * [My Zig Experience | Prime Reacts - YouTube](https://www.youtube.com/watch?v=SBe8DgBCjTc)
 * [How Zig Helped Us | Prime Reacts - YouTube](https://www.youtube.com/watch?v=wxx5_Xaw7zU)
 * [Some Thoughts on Zig — Sympolymathesy, by Chris Krycho](https://v5.chriskrycho.com/journal/some-thoughts-on-zig/)
 
-
 ## Miscellaneous/ Other
+
 * [Ruby Regular Expressions](https://learnbyexample.github.io/Ruby_Regexp/) (book)
 * [Ruby One-Liners Cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/)
 * [michaelsballoni/mscript](https://github.com/michaelsballoni/mscript)
 * [Zig Intro Video](https://www.youtube.com/watch?v=YXrb-DqsBNU)
-* [](https://www.youtube.com) › watch](https://www.youtube.com/watch?v=OzGVgPY9W-w)
+* [...](https://www.youtube.com/watch?v=OzGVgPY9W-w)
 * [Making Programming Language in Python -- Porth Ep.01 - YouTube](https://www.youtube.com/watch?v=8QP2fDBIxjM&list=PLpM-Dvs8t0VbMZA7wW9aR3EtBqe2kinu4)
 * [Garbage Collection (Mark & Sweep) - Computerphile Computerphile Computerphile Verificada • • 135.728 visualizaciones hace 3 semanas](https://www.youtube.com/watch?v=c32zXYAK7CI)
 * [Prime Reacts: From C to C++ to Rust to Haskell - YouTube](https://www.youtube.com/watch?v=V9uO3x5l-Dk)
@@ -1308,9 +1297,10 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [The Next Programming Language by Douglas Crockford - YouTube](https://www.youtube.com/watch?v=dAXUAg7H0fA)
 * [which programming languages were created in Germany - Google Search](https://www.google.com/search?q=which+programming+languages+were+created+in+Germany&client=firefox-b-d&sxsrf=AJOqlzU0zXhyW4thgJjFbBE1kuNhACZ8Aw:1677324252888&ei=3O_5Y4rhNYSZlQfY6YtY&start=10&sa=N&ved=2ahUKEwiKv5Dix7D9AhWETOUKHdj0AgsQ8tMDegQIAxAE&biw=1717&bih=757&dpr=1)
 
-
 ## To Sort
-* [aplusplus.net/appintro.html](https://aplusplus.net/appintro.html)    * [Learn Bosque Programming: Discover the world's first regularized programming language](http://library.lol/main/1A5B5A5FE1F0E9EE563709DE169DB4E6)
+
+* [aplusplus.net/appintro.html](https://aplusplus.net/appintro.html)
+* [Learn Bosque Programming: Discover the world's first regularized programming language](http://library.lol/main/1A5B5A5FE1F0E9EE563709DE169DB4E6)
 * [C# Programming Examples](https://www.sanfoundry.com/csharp-programming-examples/)
 * [Clojure by Example](https://kimh.github.io/clojure-by-example/#about-this-page)
 * [bigzaphod.github.io/COW/](https://bigzaphod.github.io/COW/)
@@ -1350,34 +1340,33 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [Wolfram|Alpha: Examples by Topic](https://www.wolframalpha.com/examples/?wal_campaign=%7B%22Action%22%3A%22Email%20Link%20Clicked%22%2C%22User%22%3A%220d118be0-dc70-46f7-b8d0-214dfd289cc9%22%2C%22Series%22%3A%22%22%2C%22Template%22%3A%22Welcome%20To%20Wolfram%20Alpha%22%2C%22Version%22%3A1%7D)
 * [tgraph.io/Osnovy-XML-dlya-nachinayushchih-10-16](https://tgraph.io/Osnovy-XML-dlya-nachinayushchih-10-16)
 * [XML - Schemas - Tutorialspoint](https://www.tutorialspoint.com/xml/xml_schemas.htm)
-* [Converting a DTD into a Schema](https://www.informit.com/articles/article.aspx?p=24614)    * [eolang.org/](https://www.eolang.org/)
+* [Converting a DTD into a Schema](https://www.informit.com/articles/article.aspx?p=24614)
+* [eolang.org/](https://www.eolang.org/)
 * [quora.com/How-secure-is-Ada-the-programming-language](https://www.quora.com/How-secure-is-Ada-the-programming-language)
 * [syuilo/aiscript](https://github.com/syuilo/aiscript)
-
-
 * [caml.inria.fr/](https://caml.inria.fr/)
 * [coq.inria.fr/](https://coq.inria.fr/)
 * [Agda Docs](https://agda.readthedocs.io/en/v2.6.0.1/getting-started/what-is-agda.html)
 * [ocaml.org/](https://ocaml.org/)
-* [idris-lang.org/](https://www.idris-lang.org/) * ["Idris: Practical Dependent Types with Practical Examples" by Brian McKenna](https://www.youtube.com/watch?v=4i7KrG1Afbk)
+* [idris-lang.org/](https://www.idris-lang.org/)
+* ["Idris: Practical Dependent Types with Practical Examples" by Brian McKenna](https://www.youtube.com/watch?v=4i7KrG1Afbk)
 * [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles)
 * [hylang.org/](https://hylang.org/)
 * [kcl-lang.io/](https://kcl-lang.io/)
 * [mavka-ukr/mavka](https://github.com/mavka-ukr/mavka) [мавка.укр/](https://xn--80aaf6ah.xn--j1amh/)
 * [libgen.is/search.php?&req=Bruce+tate&phrase=1&view=simple&column=author&sort=year&sortmode=DESC](http://libgen.is/search.php?&req=Bruce+tate&phrase=1&view=simple&column=author&sort=year&sortmode=DESC)  (Elixir)
 
-
 ## [Grep Exercises](https://url6652.creators.gumroad.com/ls/click?upn=56j1UXPh1eye3mggAaGeSozoLopcIBtaMY6kC1OjuuTsfLN2qgVtxzs2YbF6MethSXgNdmro1E-2BSFS6m0vGJ5pkCqvNlw0n-2BFQnL2lRAmLs-3DZGHb_Ok-2F1QZUoWNfwArWx1OpnKP3rAR9xqW9UxFasc9TFWJtpfu3uN9QXWSEVAiG0giAEROyvE0zQOoXOiiMDVg4Fsq8w6Zs8rGdSbMZD2aBXb5i4uoFNj8XsEA7mtMBFVWqsHQLLA9n-2FyBw-2B740Etvomb821njsZo-2FgP0zcqnJjpUTUsJZFzEBz3QJ-2BAbvJzuYwk5N-2FuivlVvEu5roljSBqYyh6TJgBLGmtbjdXyAjgr5b7vBC0YxiNMYbhh8IiWv6Ycs3W35yJnH3hmrGpbb36fT184wshZJ5XVh1tiiq1NMh-2Fg8z6gF74rsu8HMIm4c9Q9bAKRAdFa4Ly2ekGxsBf5ruYp2jFNQsnZEWupbxM-2Fzn091XhkI7v-2BM82N97167FonNPt6uHhAzJzXkTr9zAOzgSROjNhVEqyyeGN1oVhDDIwwJwRgIw-2BUfV2Gn83oc0R5YKy2pS2XKEb-2BULFqpLyg7lQT331vy4qapWkD4Yka9H7Uz5wFzPsDDh3n7P-2Fhy-2FlGU9BwKjxEK97-2FSwA54B5uXJbWEm52zp8-2BvTsC3qOrgss-3D) — 50+ exercises for `GNU grep`
-
 
 ## [Sed Exercises](https://url6652.creators.gumroad.com/ls/click?upn=56j1UXPh1eye3mggAaGeSozoLopcIBtaMY6kC1OjuuTsfLN2qgVtxzs2YbF6MethP979XtltcG9Twdksj4AbkmaK-2FZ-2FyruTtXMBosHt7TGg-3Do3fh_Ok-2F1QZUoWNfwArWx1OpnKP3rAR9xqW9UxFasc9TFWJtpfu3uN9QXWSEVAiG0giAEROyvE0zQOoXOiiMDVg4Fsq8w6Zs8rGdSbMZD2aBXb5i4uoFNj8XsEA7mtMBFVWqsHQLLA9n-2FyBw-2B740Etvomb821njsZo-2FgP0zcqnJjpUTUsJZFzEBz3QJ-2BAbvJzuYwk5N-2FuivlVvEu5roljSBqYyh6TJgBLGmtbjdXyAjgr5b7vBC0YxiNMYbhh8IiWv6YcgxCnhSxMvQCKISK7Gwr9F4LgzgwXeqwrraH-2BSlpEG8pJNAqQ2L0KljXraOFySnNemv4yBwydB1RBXeHcpQiwPH4nquB2NZ-2BNGqCx9E5HNNHGe2QNWvsq7r7duAg1PWRtMzFdpe0iZYbyrjo0S5BeYruLwGDiCd8Ac5Y55-2BhWioVg57pzraWcDxOpiyyxq3-2Bcp-2FyEHM7KZSApjCUWtQKecuEpDtmcLgwirB53S-2BhUMWJfUy5FysgrjjAitqdBReyT7JHaQqi9A4V6ABCRXXkj9elkH2lxTR0VQc79Xz5phmU-3D) — 50+ exercises for `GNU sed`
 
-
 ## [Awk Exercises](https://url6652.creators.gumroad.com/ls/click?upn=56j1UXPh1eye3mggAaGeSozoLopcIBtaMY6kC1OjuuTsfLN2qgVtxzs2YbF6MethLxlGP0muRNAH-2Bv6El5EZMb3Cbpk84ETXrpgYOMuYf9c-3Dd6GN_Ok-2F1QZUoWNfwArWx1OpnKP3rAR9xqW9UxFasc9TFWJtpfu3uN9QXWSEVAiG0giAEROyvE0zQOoXOiiMDVg4Fsq8w6Zs8rGdSbMZD2aBXb5i4uoFNj8XsEA7mtMBFVWqsHQLLA9n-2FyBw-2B740Etvomb821njsZo-2FgP0zcqnJjpUTUsJZFzEBz3QJ-2BAbvJzuYwk5N-2FuivlVvEu5roljSBqYyh6TJgBLGmtbjdXyAjgr5b7vBC0YxiNMYbhh8IiWv6YcBPE15JUhTxIKXmIQIY37-2BQ3qJu4F-2BR2R53fPKVQF3sofeI0bLfmF5sjqG9iGUVD6SZMgVBEtCnxReaXZTK8WuktyqrZl-2FkgR7ftH0UzNF-2Bp-2BFEbFUwjS-2BpURpwUIdd-2BAPd001-2FDdo6o2DiGZ61VHOFz0MlOgr6vw2udTmFHCjgBC-2BinWwlaiwHUDwRQ-2BBSGVcFuQum8gYDjNX9tB2-2BQNV0b2C7NRvtCgxRwCDrYJgSGLzPY6BXIWvVORqF8EgxPhkAMUv2uCUu9YoNpPHl7KUalgoZOShZBLETlo7YUBBfI-3D) — 80+ exercises for `GNU awk`
+
 * [gluon-lang/gluon: A static, type inferred and embeddable language written in Rust.](https://github.com/gluon-lang/gluon)
-* [rubykoans.com/](https://www.rubykoans.com/) * [Programming Phoenix LiveView: Interactive Elixir Web Programming Without Writing Any JavaScript](http://library.lol/main/9C5056C39C0169040C815A75688A4BAB)
+* [rubykoans.com/](https://www.rubykoans.com/)
+* [Programming Phoenix LiveView: Interactive Elixir Web Programming Without Writing Any JavaScript](http://library.lol/main/9C5056C39C0169040C815A75688A4BAB)
 * [people.inf.elte.hu/divip/AgdaTutorial/Index.html](http://people.inf.elte.hu/divip/AgdaTutorial/Index.html)
-* [wiki.portal.chalmers.se/agda/pmwiki.php](https://wiki.portal.chalmers.se/agda/pmwiki.php)
+* [wiki.portal.chalmers.se/agda/pmwiki.php](https://wiki.portal.chalmers.se/agda/pmwiki.php)+
 * [Introduction to Agda](https://www.youtube.com/playlist?list=PLB7F836675DCE009C)
 * [docs.idris-lang.org/en/latest/index.html](http://docs.idris-lang.org/en/latest/index.html)
 * [idris-lang.org/](https://www.idris-lang.org/)
@@ -1418,8 +1407,6 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [docs.flutter.dev/platform-integration/web/wasm](https://docs.flutter.dev/platform-integration/web/wasm)
 * [htmx.org/](https://htmx.org/)
 * [wren-lang/wren](https://github.com/wren-lang/wren)
-
-
 * [supabase/pg_graphql](https://github.com/supabase/pg_graphql)
 * [git.sr.ht/~technomancy/](https://git.sr.ht/~technomancy/)
 * [Realm of Racket: Learn to Program, One Game at a Time! *[1 ed.]](http://libgen.is/book/index.php?md5=125AA00FF0EDDD1B62525E827B3E3962)*
@@ -1430,14 +1417,14 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [jruby.org/](https://www.jruby.org/)
 * [opheron.github.io/rust-starter-pack/](https://opheron.github.io/rust-starter-pack/)
 
-
 ## [ ]  [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web.
+
 * [fogleman/pt](https://github.com/fogleman/pt) go
 * [mattgodbolt/path-tracer](https://github.com/mattgodbolt/path-tracer) rust
 * [robnormal/papuascript](https://github.com/robnormal/papuascript)
 
-
 ## [Nickel](https://nickel-lang.org/)
+
 * [pry/pry](https://github.com/pry/pry) - Ruby REPL
 * [gboncoffee/webheadache](https://github.com/gboncoffee/webheadache)
 * [NeshHari/XMonad: XMonad Starter Kit](https://github.com/NeshHari/XMonad#haskell-cheat-sheet)
@@ -1445,7 +1432,7 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [LemonAppDev/konsist](https://github.com/LemonAppDev/konsist)
 * [dhall-lang.org/](https://dhall-lang.org/)  **
 * [soliditylang.org/](https://soliditylang.org/)  **
-* [catala-lang.org/](https://catala-lang.org/) ***
+* [catala-lang.org/](https://catala-lang.org/) 
 * [scala-native/scala-native](https://github.com/scala-native/scala-native)
 * [livescript.net/](https://livescript.net/)
 * [reasonml.github.io/](https://reasonml.github.io/)
@@ -1457,22 +1444,20 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [docs.luaplusplus.org/overview/what-is-lua++](https://docs.luaplusplus.org/overview/what-is-lua++) [luapp-org](https://github.com/luapp-org) [luapp-org/luapp](https://github.com/luapp-org/luapp)
 * try Kotlin Native for some of the CLI tools I am writing? [kotlinlang.org/docs/native-overview.html](https://kotlinlang.org/docs/native-overview.html)
 
-
 ## [ ]  [kdl-org/kdl](https://github.com/kdl-org/kdl)
-
 
 ## [ ]  [hashicorp/hcl](https://github.com/hashicorp/hcl)
 
-
 ## [ ]  [dhall-lang.org/](https://dhall-lang.org/)
+
 * [mint-lang.com/](https://mint-lang.com/)
 * [minoki/LunarML](https://github.com/minoki/LunarML)
 * [fennel-lang.org/](https://fennel-lang.org/)
 * [typescripttolua.github.io/](https://typescripttolua.github.io/)
 * [smithy.io/2.0/index.html](https://smithy.io/2.0/index.html)
 
-
 ## Programming Languages, CS, Theory
+
 * [svix.com/blog/strong-typing-hill-to-die-on/](https://www.svix.com/blog/strong-typing-hill-to-die-on/)
 * [book.purescript.org/](https://book.purescript.org/)
 * [cuelang.org/](https://cuelang.org/)
@@ -1484,20 +1469,17 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [trishume/syntect](https://github.com/trishume/syntect)
 * [groups.csail.mit.edu/mac/users/gjs/6.945/readings/Steele-MIT-April-2017.pdf](https://groups.csail.mit.edu/mac/users/gjs/6.945/readings/Steele-MIT-April-2017.pdf)
 * [google.com/search?q=embed janet in rust&ie=utf-8&oe=utf-8&client=firefox-b-m](https://www.google.com/search?q=embed%20janet%20in%20rust&ie=utf-8&oe=utf-8&client=firefox-b-m)
-
-No Nonsense Monad & Functor - The foundation of Functional Programming [](https://www.youtube.com/watch?v=e6tWJD5q8uw)
+* No Nonsense Monad & Functor - The foundation of Functional Programming [video](https://www.youtube.com/watch?v=e6tWJD5q8uw)
 * [blog.logrocket.com/when-to-use-rust-when-to-use-golang/](https://blog.logrocket.com/when-to-use-rust-when-to-use-golang/)
 * [blog.logrocket.com/getting-up-to-speed-with-rust/](https://blog.logrocket.com/getting-up-to-speed-with-rust/)
-
-Haskell: Monads. A 5-minute introduction [](https://www.youtube.com/watch?v=_Gk_lwhJMzk)
+* Haskell: Monads. A 5-minute introduction [video](https://www.youtube.com/watch?v=_Gk_lwhJMzk)
 * [cstack.github.io/db_tutorial/](https://cstack.github.io/db_tutorial/)
 * [om-language.org/](http://www.om-language.org/)
 * The Golang Garbage Collector [youtu.be/gPxFOMuhnUU?si=YY8ftnqc-Qutm4nb](https://youtu.be/gPxFOMuhnUU?si=YY8ftnqc-Qutm4nb)
-
-A closer look at garbage collection in Go, William Kennedy [youtu.be/sJgJqzYxrks?si=rxeYDMBnSEY3d9io](https://youtu.be/sJgJqzYxrks?si=rxeYDMBnSEY3d9io)
+* A closer look at garbage collection in Go, William Kennedy [youtu.be/sJgJqzYxrks?si=rxeYDMBnSEY3d9io](https://youtu.be/sJgJqzYxrks?si=rxeYDMBnSEY3d9io)
 * cli language discussion [r/commandline/comments/fxydic/what_is_the_ideal_language_for_clis/?rdt=63173](https://www.reddit.com/r/commandline/comments/fxydic/what_is_the_ideal_language_for_clis/?rdt=63173)
 * [andrewbrookins.com/technology/building-implicit-interfaces-in-python-with-protocol-classes/](https://andrewbrookins.com/technology/building-implicit-interfaces-in-python-with-protocol-classes/)
-* JIT Compiler for CPython [](https://m.youtube.com/watch?v=HxSHIpEQRjs)
+* JIT Compiler for CPython [...](https://m.youtube.com/watch?v=HxSHIpEQRjs)
 * [dlang.org/](https://dlang.org/)
 * [roc-lang.org/](https://www.roc-lang.org/)
 * [elm-lang.org/](https://elm-lang.org/)
@@ -1516,14 +1498,12 @@ A closer look at garbage collection in Go, William Kennedy [youtu.be/sJgJqzYxrks
 * [roc-lang.org/](https://www.roc-lang.org/)  $$$$$$$$$
 * [en.wikipedia.org/wiki/Lambda_calculus](https://en.wikipedia.org/wiki/Lambda_calculus?wprov=sfla1)
 * [shenlanguage.org/professional.html](https://shenlanguage.org/professional.html)
-* rust survival guide [](https://www.youtube.com/watch?v=usJDUSrcwqI)
+* rust survival guide [video](https://www.youtube.com/watch?v=usJDUSrcwqI)
 * funktionale Architektur [heise.de/news/software-architektur-tv-Funktionale-Architektur-mit-Mike-Sperber-9338550.html](https://www.heise.de/news/software-architektur-tv-Funktionale-Architektur-mit-Mike-Sperber-9338550.html)
-
-Garbage Collection Semantics - GopherCon SG 2019 [youtu.be/q4HoWwdZUHs?si=i54ujh3ycSrlm4DE](https://youtu.be/q4HoWwdZUHs?si=i54ujh3ycSrlm4DE)
-* Talk against JS [](https://m.youtube.com/watch?v=wKU65gV6FSA)
+* Garbage Collection Semantics - GopherCon SG 2019 [youtu.be/q4HoWwdZUHs?si=i54ujh3ycSrlm4DE](https://youtu.be/q4HoWwdZUHs?si=i54ujh3ycSrlm4DE)
+* Talk against JS [...](https://m.youtube.com/watch?v=wKU65gV6FSA)
 * [freecodecamp.org/news/learn-bun-a-faster-node-js-alternative](https://www.freecodecamp.org/news/learn-bun-a-faster-node-js-alternative)
-
-Memory management in golang [youtu.be/G1SP9uDJD0g?si=WutilJNhEiXtOAlQ](https://youtu.be/G1SP9uDJD0g?si=WutilJNhEiXtOAlQ)
+* Memory management in golang [youtu.be/G1SP9uDJD0g?si=WutilJNhEiXtOAlQ](https://youtu.be/G1SP9uDJD0g?si=WutilJNhEiXtOAlQ)
 * [analyticsinsight.net/8-data-structures-you-should-know-for-javascript-programming/](https://www.analyticsinsight.net/8-data-structures-you-should-know-for-javascript-programming/)
 * [thenewstack.io/bjarne-stroustrups-plan-for-bringing-safety-to-c/](https://thenewstack.io/bjarne-stroustrups-plan-for-bringing-safety-to-c/)
 * [Learning Rust Live - 16-bit VM](https://www.youtube.com/watch?v=DgVLRImMhL0)

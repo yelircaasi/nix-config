@@ -1,6 +1,7 @@
 # NLP Courses
 
 ## SORT
+
 * [inf.ed.ac.uk/teaching/courses/mt/*](http://www.inf.ed.ac.uk/teaching/courses/mt/*) [lena-voita.github.io/nlp_course.html](https://lena-voita.github.io/nlp_course.html)
 * [Index of /~mcollins/courses/nlp2011/notes](http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/)
 * [Natural Language Processing - Coursera [FULL COURSE] | University of Michigan](https://www.youtube.com/watch?v=n25JjoixM3I&list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR)
@@ -8,8 +9,7 @@
 * [lope.linguistics.ntu.edu.tw/courses/corpusling/syllabus.html](http://lope.linguistics.ntu.edu.tw/courses/corpusling/syllabus.html)
 * [nlp.stanford.edu/courses/NAACL2013/](https://nlp.stanford.edu/courses/NAACL2013/)
 * [nltk.org/book/](http://www.nltk.org/book/)
-
-→ [NLP courses using Eisenstein textbook](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)
+* → [NLP courses using Eisenstein textbook](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)
 * [Text Technology Course - Hojas de cálculo de Google](https://docs.google.com/spreadsheets/d/1HciE4fxPsfL_bhEWsg_iW_IoatXCKn7chex27oA1D-U/edit#gid=897359458)
 * [CompLing Video Courses](https://docs.google.com/spreadsheets/d/16yoMN4hahzHuqNqDqVZw1z7AnnjIFdlC7rtCX9M_mpI/edit?usp=sharing)
 * [JH Course - HW without Solutions](https://www.cs.jhu.edu/~jason/licl/)
@@ -47,7 +47,7 @@
 * [Methods in Computational Linguistics Course](https://docs.google.com/spreadsheets/d/1dnh7Zcqjg_FlallVP6XG-n-2_XMfqrL5rHPk33lLo4E/edit?usp=sharing)
 * [NLP](https://github.com/hse-aml/natural-language-processing)
 * [NLP Notes](https://www.cs.bgu.ac.il/~michaluz/seminar/)
-* [NLP Notes Tucker (Prolog, 2002)](http://web.bowdoin.edu/~allen/nlp/)
+* [NLP Notes Tucker (Prolog, 2002)
 * [Text Technology Course](https://docs.google.com/spreadsheets/d/1HciE4fxPsfL_bhEWsg_iW_IoatXCKn7chex27oA1D-U/edit?usp=sharing)
 * [Workshop on Insights from Negative Results in NLP | Insights 2020](https://insights-workshop.github.io/)
 * [APROXIMACIÓN A LA LINGÜÍSTICA COMPUTACIONAL](http://www.revistacontextos.es/econtextos/tesis_milka_contextos.pdf)
@@ -90,11 +90,11 @@
 * [Udemy - Text Mining and Natural Language Processing in R](https://www.udemy.com/course/text-mining-and-natural-language-processing-in-r/learn/)
 * [Введение в обработку естественного языка – Stepik](https://stepik.org/course/1233/)
 * [Cursos de Computational Linguistics | Coursera](https://www.coursera.org/courses?query=computational%20linguistics)
-**** Intent classifier and slot tagger (NLU) - Dialog systems | Coursera
+ Intent classifier and slot tagger (NLU) - Dialog systems | Coursera
 * [[Coursera] Natural Language Processing (Stanford University) (nlp) - Academic Torrents](http://academictorrents.com/details/d2c8f8f1651740520b7dfab23438d89bc8c0c0ab)
 * [edx.org/search?q=Natural%20Language%20Processing](https://www.edx.org/search?q=Natural%20Language%20Processing)
 * [AML Specialization Solutions Coursera](https://github.com/SJD1882/MOOC-Coursera-Advanced-Machine-Learning)
-* [CMU NN for NLP Example Code*****](http://www.phontron.com/class/nn4nlp2017/schedule.html)
+* [CMU NN for NLP Example Code](http://www.phontron.com/class/nn4nlp2017/schedule.html)
 * [Homework 1 "Python and Bash Skills"](http://computational-linguistics-class.org/assignment1.html)
 * [LIU Assignments with Solutions (master)](https://www.ida.liu.se/~TDDE09/commons/)
 * [LIU Labs with Solution Notebooks](https://www.ida.liu.se/~TDDE09/commons/2017/)
@@ -127,13 +127,13 @@
 * [course.spacy.io/](https://course.spacy.io/)
 * [cs.pomona.edu/~kim/CSC181S08/lectures/](https://cs.pomona.edu/~kim/CSC181S08/lectures/)
 * [HPI NLP Course 2016](https://hpi.de/plattner/teaching/archive/summer-term-2016/natural-language-processing.html)
-* [Columbia NLP 2009 ***](http://www1.cs.columbia.edu/~kathy/NLP/ClassSlides/Slides09/)
+* [Columbia NLP 2009 ](http://www1.cs.columbia.edu/~kathy/NLP/ClassSlides/Slides09/)
 * [CS224n 2018](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/syllabus.html)
 * [Uni London Introduction to NLP Notes](https://london.ac.uk/sites/default/files/study-guides/introduction-to-natural-language-processing.pdf)
 * [Illinois 2018](https://courses.engr.illinois.edu/cs447/fa2018/syllabus.html)
 * [DL-NLP](https://github.com/UBC-NLP/deeplearning-nlp2018)
-* [Meyers 2015 NLP ***](https://cs.nyu.edu/courses/fall15/CSCI-UA.0480-006/)
-* [Meyers Undergrad NLP 2018***](https://cs.nyu.edu/courses/spring19/CSCI-UA.0002-004/)
+* [Meyers 2015 NLP ](https://cs.nyu.edu/courses/fall15/CSCI-UA.0480-006/)
+* [Meyers Undergrad NLP 2018](https://cs.nyu.edu/courses/spring19/CSCI-UA.0002-004/)
 * [Meyers Undergrad NLP 2018 **](https://cs.nyu.edu/courses/spring19/CSCI-UA.0480-009/)
 * [tmbdev/teaching-nlpa: Course in Natural Language Processing and Applications](https://github.com/tmbdev/teaching-nlpa)
 * [USC NLP Github](https://github.com/ychennay/dso-599-text-analytics-nlp)
@@ -143,18 +143,18 @@
 * [NLP Intro PT Github](https://github.com/pedrobalage/python_natural_language_processing_portuguese)
 * [USF Github NLP Course](https://github.com/brianspiering/nlp-course)
 * [Mich Syllabus](https://s3-us-west-1.amazonaws.com/umsi-class/630.pdf)
-* [UCB 256 Courses ***](https://www.ischool.berkeley.edu/courses/info/256)
-* [UCB 159 Courses ***](https://www.ischool.berkeley.edu/courses/info/159)
+* [UCB 256 Courses ](https://www.ischool.berkeley.edu/courses/info/256)
+* [UCB 159 Courses ](https://www.ischool.berkeley.edu/courses/info/159)
 * [CS 288: Statistical Natural Language Processing Berkeley](https://people.eecs.berkeley.edu/~klein/cs288/sp10/)
 * [IR Cornell Course](http://www.cs.cornell.edu/courses/cs4300/2013fa/lectures.htm)
 * [Introduction to Natural Language Processing | ETH](https://www.systems.ethz.ch/node/485)
-* [ETH NLU ***](http://www.da.inf.ethz.ch/teaching/2017/NLP/)
+* [ETH NLU ](http://www.da.inf.ethz.ch/teaching/2017/NLP/)
 * [HAIFA 2001](http://cs.haifa.ac.il/~shuly/teaching/01/nlp/)
 * [IUPR Course](http://nlpa.iupr.com/)
 * [CMU NLP *](http://demo.clab.cs.cmu.edu/NLP/)
-* [CMU NN for NLP ***](http://www.phontron.com/class/nn4nlp2017/schedule.html)
+* [CMU NN for NLP ](http://www.phontron.com/class/nn4nlp2017/schedule.html)
 * [CMU NN for NLP 2017](http://www.phontron.com/class/nn4nlp2017/)
-* [UCLA 2016 ***](http://web.cs.ucla.edu/~kwchang/teaching/NLP16/)
+* [UCLA 2016 ](http://web.cs.ucla.edu/~kwchang/teaching/NLP16/)
 * [UCLA ML 2017](http://web.cs.ucla.edu/~kwchang/teaching/SL17/)
 * [NEU NLP](http://www.ccs.neu.edu/home/luwang/courses/cs6120_fa2017.html)
 * [IITB 2012](https://www.cse.iitb.ac.in/~cs626-460-2012/)
@@ -177,9 +177,9 @@
 * [University of Washington: Linguistics: LING 571: Winter 2017 Syllabus](http://courses.washington.edu/ling571/ling571_WIN2017/index.html)
 * [NLU Syllabus](https://www.inf.ed.ac.uk/teaching/courses/nlu/syllabus.html)
 * [Natural Language Generation](https://www.inf.ed.ac.uk/teaching/courses/nlg/)
-***ANLP Schedule
+ANLP Schedule
 * [School of Informatics: Data Intensive Linguistics](http://www.inf.ed.ac.uk/teaching/courses/dil/)
-* [Introduction to NLP (FEL CTU)](http://ufal.mff.cuni.cz/~zabokrtsky/fel/)
+* [Introduction to NLP (FEL CTU)
 * [5 Important Deep Learning Research Papers You Must Read](https://nlpoverview.com/)
 * [Perl 2007](https://ifarm.nl/erikt/perl2007/)
 * [Введение в обработку естественного языка, осень 2017](https://compscicenter.ru/courses/introduction-nlp/2017-autumn/lectures/)
@@ -194,13 +194,13 @@
 * [Delph CompLing Exam & Assignments](http://www.delph-in.net/courses/10/cl/)
 * [Linguistics 165: Computational Linguistics (Fall 2010) UCSD](http://idiom.ucsd.edu/~rlevy/teaching/2010fall/lign165/)
 * [UCCS CompLing](http://www.cs.uccs.edu/~jkalita/work/cs589/2013/)
-* [Tübingen Grammar Formalisms (with solutions)](http://www.sfs.uni-tuebingen.de/emmy/gf/)
-* [Statistical Natural Language Processing ***](https://snlp2019.github.io/)
+* [Tübingen Grammar Formalisms (with solutions)
+* [Statistical Natural Language Processing ](https://snlp2019.github.io/)
 * [Data Structures and Algorithms for CL III: Home](https://dsacl3-2018.github.io/)
 * [Challenges in Computational Linguistics](https://cicl2018.github.io/)
-* [Course page: seminar on statistical parsing ***](http://coltekin.net/cagri/courses/statistical-parsing/)
-* [Course page: machine learning for computational linugistics ***](http://coltekin.net/cagri/courses/ml/)
-* [Course page: seminar on computational study of linguistic differences ***](http://coltekin.net/cagri/courses/lingdiff/)
+* [Course page: seminar on statistical parsing ](http://coltekin.net/cagri/courses/statistical-parsing/)
+* [Course page: machine learning for computational linugistics ](http://coltekin.net/cagri/courses/ml/)
+* [Course page: seminar on computational study of linguistic differences ](http://coltekin.net/cagri/courses/lingdiff/)
 * [UMass CS685: Advanced Natural Langu](https://www.youtube.com/watch?v=buaRM2h0Xfk&list=PLWnsVgP6CzafLhi8W4EHX2TlNNQEgIlbY)
 * [Course Reader for ‘Computational Simulations of Language Behavior’](http://coltekin.net/cagri/courses/lsim2014/reader2014.pdf)
 * [Seminar in Statistics and Methodology](http://www.let.rug.nl/~nerbonne/teach/rema-stats-meth-seminar/)
@@ -213,7 +213,7 @@
 * [SNLP 2018](https://snlp2018.github.io/)
 * [SNLP 2017](http://coltekin.net/cagri/courses/snlp2017/)
 * [UW CSEP 517: Natural Language Processing 2017](https://courses.cs.washington.edu/courses/csep517/17sp/)
-* [NLP UPC ***](https://www.cs.upc.edu/~gatius/engpln2015.html)
+* [NLP UPC ](https://www.cs.upc.edu/~gatius/engpln2015.html)
 * [ICL Exam with Solutions](https://www.bytelabs.org/pub/uoe/exams/2005/)
 * [Good Book List](http://disi.unitn.it/~bernardi/Courses/CompLing/)
 * [CompLing 2009](https://www.let.rug.nl/~gosse/Lot/Bouma.htm)
@@ -222,7 +222,7 @@
 * [Stanford Resource List](https://nlp.stanford.edu/links/statnlp.html)
 * [NLP JHU](http://www.cs.jhu.edu/~jason/465/)
 * [ACL Anthology - ACL Anthology](https://www.aclweb.org/anthology/)
-* [Jason Eisner Site ***](https://www.cs.jhu.edu/~jason/)
+* [Jason Eisner Site ](https://www.cs.jhu.edu/~jason/)
 * [Oslo Materiale](https://www.uio.no/studier/emner/matnat/ifi/nedlagte-emner/ITSLP1100/v08/undervisningsmateriale/)
 * [CSC 401S Natural Language Computing **](http://www.cs.toronto.edu/~gpenn/csc401/)
 * [LIU Excellent NLP Course](https://www.ida.liu.se/~TDDE09/lectures.en.shtml)
@@ -242,7 +242,7 @@
 * [CS 731: Advanced Methods in Artificial Intelligence with Biomedical Applications](http://pages.cs.wisc.edu/~dpage/cs731/)
 * Natural Language Processing - JHU CS
 * [CS146 | Brown University Assignments](https://cs.brown.edu/courses/csci1460/#one)
-* [NPTEL Lectures ***](https://nptel.ac.in/courses/106105158/)
+* [NPTEL Lectures ](https://nptel.ac.in/courses/106105158/)
 * [Multilingual Natural Language Processing | ÚFAL](http://ufal.mff.cuni.cz/courses/npfl120)
 * [Penn Lectures](http://computational-linguistics-class.org/lectures.html#now)
 * [Yoav Artzi](https://www.cs.cornell.edu/courses/cs5740/2019sp/schedule.html)
@@ -253,7 +253,7 @@
 * [Collins Notes](http://www.cs.columbia.edu/~mcollins/6864/index.html)
 * [6.891 Machine Learning Approaches for Natural Language Processing, Fall 2003](http://www.ai.mit.edu/courses/6.891-nlp/)
 * [cs838 spring 2007 Wisconsin](http://pages.cs.wisc.edu/~jerryzhu/cs838.html)
-* [UCLA 2016 Quizzes ***](http://web.cs.ucla.edu/~kwchang/teaching/NLP16/)
+* [UCLA 2016 Quizzes ](http://web.cs.ucla.edu/~kwchang/teaching/NLP16/)
 * [Schedule | Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/teaching/SL17/syllabus.html)
 * [Computational Foundations of Cognitive Science 1](http://www.inf.ed.ac.uk/teaching/courses/cfcs1/tutorials.html)
 * [10-702 Statistical Machine Learning Home](http://www.cs.cmu.edu/~10702/Calendar/calendar.html)
@@ -316,10 +316,9 @@
 **Computational Linguistics I - YouTube
 **Einführung in die Computerlinguistik - Benjamin Roth's Homepage
 * [Towards language universals through lexical semantics: introduction to lexical and semantic typology | National Research University Higher School of Economics](https://www.coursera.org/learn/lexical-semantic-typology)
-* [Introduction à la linguistique computationnelle](http://members.unine.ch/jacques.savoy/Lectures/SeminaireTALN.html) *****
+* [Introduction à la linguistique computationnelle](http://members.unine.ch/jacques.savoy/Lectures/SeminaireTALN.html) 
 * [Stanford CS 224N | Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/index.html#coursework)
 * [Machine Translation 2019 --> Assignments, Labs](https://cl.lingfil.uu.se/kurs/MT19/)
-
 
 ## SORT Exams / Homework / Q&A
 
@@ -348,15 +347,15 @@
 * [MIT 4 HWs](http://people.csail.mit.edu/regina/6864/homeworks.html)
 * [Exams - Natural Language Processing with NLTK](https://sites.google.com/site/gothnlp/exercises/exams)
 * [PS 0 ML Solutions](http://www.cis.upenn.edu/~danroth/Teaching/CIS-700-006/hw/hw0-sol.pdf)
-* [ETH NLU ***](http://www.da.inf.ethz.ch/teaching/2017/NLP/)
+* [ETH NLU ](http://www.da.inf.ethz.ch/teaching/2017/NLP/)
 * [HAIFA 2001](http://cs.haifa.ac.il/~shuly/teaching/01/nlp/)
 * [library.iitkgp.ac.in/pages/SemQuestionWiki/images/2/2f/CS60057_Speech_and_Natural_Language_Processing_MA_2015.pdf](http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/2/2f/CS60057_Speech_and_Natural_Language_Processing_MA_2015.pdf)
 * [730 questions with answers in Natural Language Processing | Science topic](https://www.researchgate.net/topic/Natural-Language-Processing)
 *COMP90042 - Problems and Solutions
 
 ### Homework
+
 * [5 Assignments 2018](https://www3.nd.edu/~dchiang/teaching/nlp/2018/homework.html)
 * [6 assignments Brandeis](http://www.cs-114.org/assignments/)
 * [7 Homeworks Eisner](https://www.cs.jhu.edu/~jason/465/#announcements)
-* [Stanford University CS224d: Problem Sets and Solutions (links not working)](http://cs224d.stanford.edu/syllabus.html)
-
+* [Stanford University CS224d: Problem Sets and Solutions (links not working)

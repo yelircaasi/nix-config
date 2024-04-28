@@ -1,11 +1,9 @@
 # NLP Papers
 
-
 ## Papers / Journals
 
+## NLP & Politics    ”Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts”
 
-## NLP & Politics
-    ”Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts”
 * ”Sentiment and position-taking analysis of parliamentary debates: a systematic literature review”
 * ”Sentiment and position-taking analysis of parliamentary debates: a systematic literature review”
 * ”Sentiment and position-taking analysis of parliamentary debates: a systematic literature review”
@@ -33,6 +31,7 @@
 * Parthasarathy et al. 2019: Deliberative Democracy in an Unequal World: A Text-As-Data Study of South India’s Village Assemblies
 
 ## Miscellaneous
+
 * [Retrieval Enhanced Transformer](https://arxiv.org/abs/2112.04426)
 * [Ethical and social risks of harm from Language Models](https://arxiv.org/abs/2112.04359)
 * [Recent Trends in DL-Driven NLP](https://arxiv.org/pdf/1708.02709.pdf)
@@ -77,20 +76,18 @@
 * [Language models based on Hebbian cell assemblies - PubMed](https://pubmed.ncbi.nlm.nih.gov/17081735/)
 * [Latent Alignment and Variational Attention](https://arxiv.org/pdf/1807.03756.pdf)
 * [Long Form Question Answering with ELI5](https://huggingface.co/qa/)
-* [Longformer Colab Notebook](https://colab.research.google.com/drive/1m7eTGlPmLRgoPkkA7rkhQdZ9ydpmsdLE?usp=sharing)
-    Machine Translation by Jointly Learning to Align and Translate
+* [Longformer Colab Notebook](https://colab.research.google.com/drive/1m7eTGlPmLRgoPkkA7rkhQdZ9ydpmsdLE?usp=sharing)    Machine Translation by Jointly Learning to Align and Translate
 * [Natural Language Processing: State of The Art, Current Trends and Challenges](https://arxiv.org/pdf/1708.05148.pdf)
 * [Natural Language-based Machine Learning Models for the Annotation of Clinical Radiology Reports.](https://www.ncbi.nlm.nih.gov/pubmed/29381109)
 * [NLU Paper](https://arxiv.org/pdf/1902.10909.pdf)
-* [Notes on Deep Learning for NLP (2018)](https://arxiv.org/pdf/1808.09772.pdf)
+* [Notes on Deep Learning for NLP (2018)
 * [Patience-based Early Exit](https://github.com/JetRunner/PABEE)
 * [POLYGLOT-NER: Massive Multilingual Named Entity Recognition](https://arxiv.org/pdf/1410.3791.pdf)
 * [Realization of natural language interfaces using lazy functional programming](https://dl.acm.org/citation.cfm?id=1177353)
 * [Recent Trends in Deep Learning Based Natural Language Processing](https://arxiv.org/pdf/1708.02709.pdf)
 * [Software Is a Directed Multigraph | SpringerLink](https://link.springer.com/chapter/10.1007/978-3-642-23798-0_38)
 * [Temporal Representations of Citations for Understanding the Changing Roles of Scientific Publications](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.frontiersin.org%2Farticles%2F10.3389%2Ffrma.2018.00027%2Ffull%3Ffbclid%3DIwAR3SuCq-rBRPt9XkN8HH1vdFhpfzjY8lpPUqtcm7fA81sWSkP6ZqFuXcYbM&h=AT00hloUkEYpwHSvUqgtrBdsEcFYM5Z6ISlYEyT6SH6EQNhH0sG0FUHUYpLMWZM32XmyL0iBKFNRPmPjrnFEteGOK09FwkEgXOMFCeicahlzpR-8Anti-CXQBxmXzCL53IKeFPPG6g)
-* [The Unstoppable Rise of Computational Linguistics in Deep Learning](https://arxiv.org/abs/2005.06420)
-    Thieves on Sesame Street! Model Extraction of BERT-Based APIs
+* [The Unstoppable Rise of Computational Linguistics in Deep Learning](https://arxiv.org/abs/2005.06420)    Thieves on Sesame Street! Model Extraction of BERT-Based APIs
 * [TransCoder Paper](https://arxiv.org/pdf/2006.03511.pdf)
 * [TransCoder Repo](https://github.com/facebookresearch/TransCoder)
 * [Transformers are Graph Neural Networks](https://thegradient.pub/transformers-are-graph-neural-networks/)
@@ -101,14 +98,12 @@
 * [WikiMatrix Paper](https://openreview.net/forum?id=rkeYL1SFvH)
 * [WikiMatrix: Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia](https://openreview.net/forum?id=rkeYL1SFvH)
 
+###  Papers With Code : Intent Detection
 
-### **** Papers With Code : Intent Detection
-
-
-### **** zhenwenzhang/BERT-SLU: Joint slot filling and intent classification using BERT.
-
+###  zhenwenzhang/BERT-SLU: Joint slot filling and intent classification using BERT.
 
 ### *Exploring Vector Spaces for Semantic Relations - ACL Anthology
+
 * [A Large Scale Evaluation of Distributional Semantic Models: Parameters, Interactions and Model Selection | Lapesa | Transactions of the Association for Computational Linguistics](https://transacl.org/ojs/index.php/tacl/article/view/457)
 * [A Multiple Utterances based Neural Network Model for Joint Intent Detection and Slot Filling](http://ceur-ws.org/Vol-2242/paper05.pdf)
 * [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World - YouTube](https://www.youtube.com/watch?v=BvJJn9VS4rk)
@@ -123,34 +118,26 @@
 * [Paper: Common Sense in Semantics](https://projecteuclid.org/download/pdf_1/euclid.ndjfl/1093883626)
 * [PhD Thesis Stuttgart: Natural Language Processing and Information Retrieval Methods for Intellectual Property Analysis](https://d-nb.info/1064308643/34)
 * [Proceedings of The 12th Language Resources and Evaluation Conference](http://www.lrec-conf.org/proceedings/lrec2020/index.html)
-* [Proceedings of the First NLPL Workshop on Deep Learning for Natural Language Processing - ACL Anthology](https://www.aclweb.org/anthology/volumes/W19-62/)
-    search: best NLP papers
+* [Proceedings of the First NLPL Workshop on Deep Learning for Natural Language Processing - ACL Anthology](https://www.aclweb.org/anthology/volumes/W19-62/)    search: best NLP papers
 * [Visual Paper Summary: ALBERT (A Lite BERT)](https://amitness.com/2020/02/albert-visual-summary/)
 * [word2vec](https://arxiv.org/pdf/1411.2738.pdf)
 
-
 ### ** A Joint Model of Intent Determination and Slot Filling for Spoken Language Understanding
+
 * [Joint Slot Filling and Intent Detection via Capsule Neural Networks](https://www.aclweb.org/anthology/P19-1519.pdf)
 
+### > Measuring the Evolution of a Scientific Field through Citation Frames
 
-### > ***Measuring the Evolution of a Scientific Field through Citation Frames
+### > Purpose and Polarity of Citation: Towards NLP-based Bibliometrics
 
+* [[2002.12558] Modeling Future Cost for Neural Machine Translation](https://arxiv.org/abs/2002.12558)    Github: [jayleicn/TVRetrieval](https://github.com/jayleicn/TVRetrieval)    Paper: [arxiv.org/abs/2001.09099v1](https://arxiv.org/abs/2001.09099v1)    PyTorch implementation of MultiModal Transformer (MMT), a method for multimodal (video + subtitle) captioning: [jayleicn/TVCaption](https://github.com/jayleicn/TVCaption)    TVR: A Large-Scale Dataset for Video-Subtitle Moment Retrieval
 
-### > ***Purpose and Polarity of Citation: Towards NLP-based Bibliometrics
-* [[2002.12558] Modeling Future Cost for Neural Machine Translation](https://arxiv.org/abs/2002.12558)
-    Github: [jayleicn/TVRetrieval](https://github.com/jayleicn/TVRetrieval)
-    Paper: [arxiv.org/abs/2001.09099v1](https://arxiv.org/abs/2001.09099v1)
-    PyTorch implementation of MultiModal Transformer (MMT), a method for multimodal (video + subtitle) captioning: [jayleicn/TVCaption](https://github.com/jayleicn/TVCaption)
-    TVR: A Large-Scale Dataset for Video-Subtitle Moment Retrieval
+### dair-ai/nlp_paper_summaries: ✍️ A carefully curated list of NLP paper summaries
 
-
-### ***dair-ai/nlp_paper_summaries: ✍️ A carefully curated list of NLP paper summaries
-
-
-### ***huggingface/awesome-papers: Papers & presentation materials from Hugging Face's internal science day
-
+### huggingface/awesome-papers: Papers & presentation materials from Hugging Face's internal science day
 
 ### *dair-ai/ml-nlp-paper-discussions: A repo containing notes and discussions for weekly NLP paper discussions
+
 * [[1911.03584] On the Relationship between Self-Attention and Convolutional Layers](https://arxiv.org/abs/1911.03584)
 * [[2001.04451] Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451)
 * [A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization](https://github.com/google-research/xtreme)
@@ -158,37 +145,15 @@
 * [pdfs.semanticscholar.org/6718/32cd0909d99cfb7448e28520f4b56edacd2c.pdf](https://pdfs.semanticscholar.org/6718/32cd0909d99cfb7448e28520f4b56edacd2c.pdf)
 * [web.stanford.edu/class/cs224n/readings/cs224n-2019-notes04-dependencyparsing.pdf](https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes04-dependencyparsing.pdf)
 * [web.stanford.edu/class/cs224n/readings/](https://web.stanford.edu/class/cs224n/readings/)
-* [Hierarchical Transformers Are More Efficient Language Models](https://arxiv.org/abs/2110.13711)
-    Well-Read Students Learn Better: On the Importance of Pre-training Compact Models
+* [Hierarchical Transformers Are More Efficient Language Models](https://arxiv.org/abs/2110.13711)    Well-Read Students Learn Better: On the Importance of Pre-training Compact Models
 * [100 NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
 * [ArXiv CL](https://arxiv.org/list/cs.CL/recent)
 * [Computational Linguistics - Issues](https://www.mitpressjournals.org/loi/coli)
 * [Selected Papers](https://medium.com/huggingface/the-best-and-most-current-of-modern-natural-language-processing-5055f409a1d1)
 * [Neural Baby Talk](https://github.com/jiasenlu/NeuralBabyTalk)
-* [CapWAP: Captioning with a Purpose](https://paperswithcode.com/paper/capwap-captioning-with-a-purpose)
-    1a [arxiv.org/abs/2109.04535](https://arxiv.org/abs/2109.04535)
-    1b [arxiv.org/abs/2012.15784](https://arxiv.org/abs/2012.15784)
-    2a [journals.sagepub.com/doi/10.1177/2053168016643346](https://journals.sagepub.com/doi/10.1177/2053168016643346)
-    2b [aclanthology.org/K19-1047/](https://aclanthology.org/K19-1047/)
-    3a [arxiv.org/abs/1904.06217](https://arxiv.org/abs/1904.06217)
-    4a [aclanthology.org/D18-1393/](https://aclanthology.org/D18-1393/)
-    4b [aclanthology.org/K19-1047/](https://aclanthology.org/K19-1047/)
-    5a [aclanthology.org/2020.acl-main.763/](https://aclanthology.org/2020.acl-main.763/)
-    5b [aclanthology.org/2021.naacl-main.179/](https://aclanthology.org/2021.naacl-main.179/)
-    6a [aclanthology.org/D19-1565/](https://aclanthology.org/D19-1565/)
-    6b [arxiv.org/abs/2108.12802](https://arxiv.org/abs/2108.12802)
-    7a [aclanthology.org/N19-1304/](https://aclanthology.org/N19-1304/)
-    7b [arxiv.org/abs/2005.09803](https://arxiv.org/abs/2005.09803)
-    8a [cogitatiopress.com/mediaandcommunication/article/view/4217](https://www.cogitatiopress.com/mediaandcommunication/article/view/4217)
-    8b [direct.mit.edu/dint/article/3/2/308/100736/Cross-Context-News-Corpus-for-Protest-Event](https://direct.mit.edu/dint/article/3/2/308/100736/Cross-Context-News-Corpus-for-Protest-Event)
-    9a under review, uploaded on ILIAS
-    10a [aclweb.org/anthology/P19-1273/](https://www.aclweb.org/anthology/P19-1273/) , [aclweb.org/anthology/2020.acl-main.404/](https://www.aclweb.org/anthology/2020.acl-main.404/)
-    10b [aclanthology.org/2020.nlpcss-1.3/](https://aclanthology.org/2020.nlpcss-1.3/)
-    11a [aclanthology.org/W16-2817/](https://aclanthology.org/W16-2817/)
-    11b [cambridge.org/core/journals/american-political-science-review/article/deliberative-democracy-in-an-unequal-world-a-textasdata-study-of-south-indias-village-assemblies/081C0A8F242D2C5273EBC60A4CCEFB73](https://www.cambridge.org/core/journals/american-political-science-review/article/deliberative-democracy-in-an-unequal-world-a-textasdata-study-of-south-indias-village-assemblies/081C0A8F242D2C5273EBC60A4CCEFB73)
-
+* [CapWAP: Captioning with a Purpose](https://paperswithcode.com/paper/capwap-captioning-with-a-purpose)    1a [arxiv.org/abs/2109.04535](https://arxiv.org/abs/2109.04535)    1b [arxiv.org/abs/2012.15784](https://arxiv.org/abs/2012.15784)    2a [journals.sagepub.com/doi/10.1177/2053168016643346](https://journals.sagepub.com/doi/10.1177/2053168016643346)    2b [aclanthology.org/K19-1047/](https://aclanthology.org/K19-1047/)    3a [arxiv.org/abs/1904.06217](https://arxiv.org/abs/1904.06217)    4a [aclanthology.org/D18-1393/](https://aclanthology.org/D18-1393/)    4b [aclanthology.org/K19-1047/](https://aclanthology.org/K19-1047/)    5a [aclanthology.org/2020.acl-main.763/](https://aclanthology.org/2020.acl-main.763/)    5b [aclanthology.org/2021.naacl-main.179/](https://aclanthology.org/2021.naacl-main.179/)    6a [aclanthology.org/D19-1565/](https://aclanthology.org/D19-1565/)    6b [arxiv.org/abs/2108.12802](https://arxiv.org/abs/2108.12802)    7a [aclanthology.org/N19-1304/](https://aclanthology.org/N19-1304/)    7b [arxiv.org/abs/2005.09803](https://arxiv.org/abs/2005.09803)    8a [cogitatiopress.com/mediaandcommunication/article/view/4217](https://www.cogitatiopress.com/mediaandcommunication/article/view/4217)    8b [direct.mit.edu/dint/article/3/2/308/100736/Cross-Context-News-Corpus-for-Protest-Event](https://direct.mit.edu/dint/article/3/2/308/100736/Cross-Context-News-Corpus-for-Protest-Event)    9a under review, uploaded on ILIAS    10a [aclweb.org/anthology/P19-1273/](https://www.aclweb.org/anthology/P19-1273/) , [aclweb.org/anthology/2020.acl-main.404/](https://www.aclweb.org/anthology/2020.acl-main.404/)    10b [aclanthology.org/2020.nlpcss-1.3/](https://aclanthology.org/2020.nlpcss-1.3/)    11a [aclanthology.org/W16-2817/](https://aclanthology.org/W16-2817/)    11b [cambridge.org/core/journals/american-political-science-review/article/deliberative-democracy-in-an-unequal-world-a-textasdata-study-of-south-indias-village-assemblies/081C0A8F242D2C5273EBC60A4CCEFB73](https://www.cambridge.org/core/journals/american-political-science-review/article/deliberative-democracy-in-an-unequal-world-a-textasdata-study-of-south-indias-village-assemblies/081C0A8F242D2C5273EBC60A4CCEFB73)
 
 ##
+
 * [lazyweb: Does anyone have recs for a really nicely written NLP review paper (ideally not on bert/transformers). It's not something we do so much as a community, but I would like to collect some examples.](https://twitter.com/srush_nlp/status/1270433763869286401?s=20)
 * [jlm.ipipan.waw.pl/index.php/JLM](https://jlm.ipipan.waw.pl/index.php/JLM)
-

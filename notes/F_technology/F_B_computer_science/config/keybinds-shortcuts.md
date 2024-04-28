@@ -1,4 +1,5 @@
 # clavix: Keybindings and Shortcuts
+
 * Major keybind sources:
 * Termulator: wezterm, kitty, alacritty
 * Nvim
@@ -22,35 +23,29 @@
 * keymappings, coherence scores
 
 ## Roadmap
+
 * [ ] compile list of applications (top, basic, extended, someday -
     according to priority)
 * [ ] develop standard notation (JSON/YAML/TOML for now) to unambiguously
     record all keystrokes
-    - [ ] look at vscode JSON format and identify shortcomings
-
-
-    - [ ] add variable system for things like leader key, modifier<i>,
+* [ ] look at vscode JSON format and identify shortcomings
+* [ ] add variable system for things like leader key, modifier<i>,
         etc.
-
-
-    - [ ] develop good way to deal with chords → synchronicity vs
-        sequentiality    - [ ] like this: “($ctrl ;) ($ctrl k)”, “($ctrl $alt k) ($))” →
+* [ ] develop good way to deal with chords → synchronicity vs
+        sequentialit$1
+* [ ] like this: “($ctrl ;) ($ctrl k)”, “($ctrl $alt k) ($))” →
             ‘$’ as escape for ‘(’ and ‘)’
-    - [ ] add prefix for valid scope: “[vscode] ($ctrl $alt k) ($))”
+* [ ] add prefix for valid scope: “[vscode] ($ctrl $alt k) ($))”
 
-
-    -  [ ] clean notation for ctrl, alt, F{i}, etc → unicode?    - [ ] ⎈ for ctrl / $ctrl or ⎋?
-    - [ ] ⌗ for alt / $alt
-    - [ ] $f1 … $f12
-    - [ ]  ␛ for escape / $esc
-    - [ ]  ␡ delete / $del
-
+    *  [ ] clean notation for ctrl, alt, F{i}, etc → unicode?    * [ ] ⎈ for ctrl / $ctrl or ⎋?
+* [ ] ⌗ for alt / $alt
+* [ ] $f1 … $f12
+* [ ]  ␛ for escape / $esc
+* [ ]  ␡ delete / $del
 
     -[ ] ␣ for space / $space
-    - [ ] etc. → [wincent.com/wiki/Unicode_representations_of_modifier_keys](https://wincent.com/wiki/Unicode_representations_of_modifier_keys)
-
-
-    - [ ] write unambiguous specification
+* [ ] etc. → [wincent.com/wiki/Unicode_representations_of_modifier_keys](https://wincent.com/wiki/Unicode_representations_of_modifier_keys)
+* [ ] write unambiguous specification
 * [ ] collect different notations used in apps and documentation
 * [ ] write code for conflict detection, distinguishing between different
       types: same-scope, differnet-scope, semantic incoherence (not
@@ -73,6 +68,7 @@
       but also backing up the config to e.g. ~/.cache/clavix/<timestamp>)
 
 ## notes
+
 * use [dhall](https://dhall-lang.org/#) as a configuration language?
 * → focus on defining a consistent user experience (esp. keystrokes)
     transferable between specific applications (such as window managers)
@@ -88,6 +84,7 @@
     all apps) and create keybindings table
 
 ### Build on / draw from
+
 * [pawamoy/keycut](https://github.com/pawamoy/keycut) - A command line tool that helps
   you remembering ALL the numerous keyboard shortcuts of ALL your
   favorite programs [link](https://github.com/pawamoy/keycut)
@@ -96,6 +93,7 @@
 * Keybinding Collection
 
 ### shortcut lists
+
 * [cheatography.com/tag/ubuntu/](https://cheatography.com/tag/ubuntu/)
 * [dgkim5360.github.io/blog/linux/2017/07/a-cheatsheet-for-ubuntu-shortcuts/](https://dgkim5360.github.io/blog/linux/2017/07/a-cheatsheet-for-ubuntu-shortcuts/)
 * [geeksforgeeks.org/keyboard-shortcuts-for-ubuntu-set-1/](https://www.geeksforgeeks.org/keyboard-shortcuts-for-ubuntu-set-1/)
@@ -104,33 +102,36 @@
 * [defkey.com/](https://defkey.com/)
 * [defkey.com/ubuntu-shortcuts?pdf=true&modifiedDate=20210304T113257](https://defkey.com/ubuntu-shortcuts?pdf=true&modifiedDate=20210304T113257)
 
-
 ### specific apps
+
 * VScode crap
-  - [code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
-  - VSCode - group all commands by type, such as "navigation between
+* [code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
+  * VSCode - group all commands by type, such as "navigation between
     parts of vscode", "file operations", "overwritten by nvim",
     "code pop-ups", "code running and debugging", etc.
-  - change all Alt+C shortcuts in VSCode for fzf
-
+  * change all Alt+C shortcuts in VSCode for fzf
 * -> [Anki Deck Control Center](https://docs.google.com/spreadsheets/d/1Lzr3GcZ2fpCONyJkTht8G-Ehn415gB2as3wXOvGlLHU/edit#gid=1690951121)
 * [Keyboard shortcuts for YouTube - YouTube Help](https://support.google.com/youtube/answer/7631406?hl=en)
 
 ### semantic groups
-1.  window management
-2.  terminal multiplexing
-3.  editing and software development
-4.  miscellaneous shell, CLI, TUI navigation
-5.  web browsing
-6.  system commands
+
+1. window management
+2. terminal multiplexing
+3. editing and software development
+4. miscellaneous shell, CLI, TUI navigation
+5. web browsing
+6. system commands
 
 ### espanso notes
+
 Need to integrate cleanly → separation of concerns
 
 ### other keys to remap
+
 home, end, page up, page down
 
 ### proglang keywords:
+
 * → how to integrate with espanso? via special characters to begin triggers
 * → maybe don’t integrate this part with espanso; pure-kanata can be faster
 
@@ -141,6 +142,7 @@ home, end, page up, page down
 ```
 
 ### Good (hybrid) modifiers
+
 * q → infrequently followed by most letters; map q+u to ‘qu’
 * semicolon → or permanent for all other non-alphabet characters? 15 good left-hand keys
 * single quote → or permanent for all other non-alphabet characters? 15 good left-hand keys
@@ -157,14 +159,17 @@ home, end, page up, page down
 * backtick → less comfortable → maybe for application launching?
 
 ### good hybrid modifier chords
+
 * right shift + slash
 * right shift + dot
 * right shift + comma
 
 ### other keybinding ideas
+
 shift + shift -> caps lock or some other key
 
 ### potentially ‘freed’ keys
+
 * numbers → use for snippets? commands?
 * right bracket
 * left bracket
@@ -173,82 +178,86 @@ shift + shift -> caps lock or some other key
 * right alt + space
 
 ## Kanata
-* [jtroo/kanata](https://github.com/jtroo/kanata)
-  - Kanata Documentation]()
-    - [Minimal example](https://github.com/jtroo/kanata/blob/main/cfg_samples/minimal.kbd)
-    - [Simple example with explanations](https://github.com/jtroo/kanata/blob/main/cfg_samples/simple.kbd)
-    - [All features showcase](https://github.com/jtroo/kanata/blob/main/cfg_samples/kanata.kbd)
-    - [Table of contents](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#table-of-contents)
-    - [Comments](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#comments)
-    - [Required configuration entries](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#required-configuration-entries)        - [defsrc](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#defsrc)
-        - [deflayer](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#deflayer)
-        - [Review of required configuration entries](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#review-of-required-configuration-entries)
-    - [Non-US keyboards](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#non-us-keyboards)
-    - [Optional defcfg entries](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#optional-defcfg-entries)        - [defcfg](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#defcfg)
-        - [process-unmapped-keys](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#process-unmapped-keys)
-        - [danger-enable-cmd](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#danger-enable-cmd)
-        - [sequence-timeout](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#sequence-timeout)
-        - [sequence-input-mode](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#sequence-input-mode)
-        - [sequence-backtrack-modcancel](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#sequence-backtrack-modcancel)
-        - [log-layer-changes](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#log-layer-changes)
-        - [delegate-to-first-layer](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#delegate-to-first-layer)
-        - [movemouse-inherit-accel-state](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#movemouse-inherit-accel-state)
-        - [movemouse-smooth-diagonals](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#movemouse-smooth-diagonals)
-        - [Linux only: linux-dev](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#linux-only-linux-dev)
-        - [Linux only: linux-dev-names-include](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#linux-only-linux-dev-names-include)
-        - [Linux only: linux-dev-names-exclude](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#linux-only-linux-dev-names-exclude)
-        - [Linux only: linux-continue-if-no-devs-found](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#linux-only-linux-continue-if-no-devs-found)
-        - [Linux only: linux-unicode-u-code](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#linux-only-linux-unicode-u-code)
-        - [Linux only: linux-unicode-termination](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#linux-only-linux-unicode-termination)
-        - [Linux only: linux-x11-repeat-delay-rate](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#linux-only-x11-repeat-rate)
-        - [Windows only: windows-altgr](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#windows-only-windows-altgr)
-        - [Windows only: windows-interception-mouse-hwid](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#windows-only--windows-interception-mouse-hwid)
-        - [Using multiple defcfg entries](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#using-multiple-defcfg-entries)
-    - [Aliases and variables](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#aliases-and-vars)        - [Aliases](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#aliases)
-        - [Variables](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#variables)
-    - [Actions](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#actions)        - [Live reload](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#live-reload)
-        - [layer-switch](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#layer-switch)
-        - [layer-while-held](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#layer-while-held)
-        - [Transparent key](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#transparent-key)
-        - [No-op](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#unicode)
-        - [Unicode](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#unicode)
-        - [Output chords/combos](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#output-chordscombos)
-        - [Repeat key](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#repeat-key)
-        - [Release a key or layer](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#release-a-key-or-layer)
-        - [multi](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#multi)
-        - [Mouse actions](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#mouse-actions)
-        - [tap-dance](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#tap-dance)
-        - [one-shot](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#one-shot)
-        - [tap-hold](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#tap-hold)
-        - [macro](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#macro)
-        - [dynamic-macro](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#dynamic-macro)
-        - [fork](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#fork)
-        - [caps-word](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#caps-word)
-        - [cmd](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#cmd)
-        - [arbitrary-code](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#arbitrary-code)
-    - [Global overrides](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#global-overrides)
-    - [Include other files](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#include)
-    - [Advanced/weird features](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#advanced-weird-features)        - [Fake keys](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#fake-keys)
-        - [Sequences](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#sequences)
-        - [Input chords](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#input-chords)
-        - [defaliasenvcond](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#defaliasenvcond)
-        - [switch](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#switch)
-        - [Custom tap-hold behaviour](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#custom-tap-hold-behaviour)
 
+* [jtroo/kanata](https://github.com/jtroo/kanata)
+  * Kanata Documentation](...)
+* [Minimal example](https://github.com/jtroo/kanata/blob/main/cfg_samples/minimal.kbd)
+* [Simple example with explanations](https://github.com/jtroo/kanata/blob/main/cfg_samples/simple.kbd)
+* [All features showcase](https://github.com/jtroo/kanata/blob/main/cfg_samples/kanata.kbd)
+* [Table of contents](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#table-of-contents)
+* [Comments](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#comments)
+* [Required configuration entries](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#required-configuration-entries)
+* [defsrc](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#defsrc)
+* [deflayer](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#deflayer)
+* [Review of required configuration entries](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#review-of-required-configuration-entries)
+* [Non-US keyboards](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#non-us-keyboards)
+* [Optional defcfg entries](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#optional-defcfg-entries)
+* [defcfg](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#defcfg)
+* [process-unmapped-keys](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#process-unmapped-keys)
+* [danger-enable-cmd](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#danger-enable-cmd)
+* [sequence-timeout](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#sequence-timeout)
+* [sequence-input-mode](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#sequence-input-mode)
+* [sequence-backtrack-modcancel](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#sequence-backtrack-modcancel)
+* [log-layer-changes](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#log-layer-changes)
+* [delegate-to-first-layer](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#delegate-to-first-layer)
+* [movemouse-inherit-accel-state](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#movemouse-inherit-accel-state)
+* [movemouse-smooth-diagonals](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#movemouse-smooth-diagonals)
+* [Linux only: linux-dev](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#linux-only-linux-dev)
+* [Linux only: linux-dev-names-include](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#linux-only-linux-dev-names-include)
+* [Linux only: linux-dev-names-exclude](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#linux-only-linux-dev-names-exclude)
+* [Linux only: linux-continue-if-no-devs-found](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#linux-only-linux-continue-if-no-devs-found)
+* [Linux only: linux-unicode-u-code](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#linux-only-linux-unicode-u-code)
+* [Linux only: linux-unicode-termination](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#linux-only-linux-unicode-termination)
+* [Linux only: linux-x11-repeat-delay-rate](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#linux-only-x11-repeat-rate)
+* [Windows only: windows-altgr](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#windows-only-windows-altgr)
+* [Windows only: windows-interception-mouse-hwid](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#windows-only--windows-interception-mouse-hwid)
+* [Using multiple defcfg entries](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#using-multiple-defcfg-entries)
+* [Aliases and variables](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#aliases-and-vars)
+* [Aliases](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#aliases)
+* [Variables](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#variables)
+* [Actions](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#actions)
+* [Live reload](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#live-reload)
+* [layer-switch](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#layer-switch)
+* [layer-while-held](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#layer-while-held)
+* [Transparent key](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#transparent-key)
+* [No-op](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#unicode)
+* [Unicode](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#unicode)
+* [Output chords/combos](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#output-chordscombos)
+* [Repeat key](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#repeat-key)
+* [Release a key or layer](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#release-a-key-or-layer)
+* [multi](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#multi)
+* [Mouse actions](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#mouse-actions)
+* [tap-dance](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#tap-dance)
+* [one-shot](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#one-shot)
+* [tap-hold](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#tap-hold)
+* [macro](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#macro)
+* [dynamic-macro](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#dynamic-macro)
+* [fork](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#fork)
+* [caps-word](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#caps-word)
+* [cmd](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#cmd)
+* [arbitrary-code](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#arbitrary-code)
+* [Global overrides](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#global-overrides)
+* [Include other files](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#include)
+* [Advanced/weird features](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#advanced-weird-features)
+* [Fake keys](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#fake-keys)
+* [Sequences](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#sequences)
+* [Input chords](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#input-chords)
+* [defaliasenvcond](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#defaliasenvcond)
+* [switch](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#switch)
+* [Custom tap-hold behaviour](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#custom-tap-hold-behaviour)
 * [jtroo/kanata/blob/main/docs/config.adoc](https://github.com/jtroo/kanata/blob/main/docs/config.adoc)
 * [r/rust/comments/w0zqk4/kanata_v105_an_advanced_keyboard_remapper_for/](https://www.reddit.com/r/rust/comments/w0zqk4/kanata_v105_an_advanced_keyboard_remapper_for/)
 * How to type Croatian, Polish, and Norwegian special characters on
   Ubuntu US Intl keyboard? → just use kanata or similar
 
 ## Kmonad
+
 * [kmonad/kmonad](https://github.com/kmonad/kmonad)
 * [r/Kmonad/](https://www.reddit.com/r/Kmonad/)
 * [precondition.github.io/home-row-mods](https://precondition.github.io/home-row-mods)
 * [kmonad/kmonad-contrib/tree/master/keymaps](https://github.com/kmonad/kmonad-contrib/tree/master/keymaps)
 * [kmonad/kmonad](https://github.com/kmonad/kmonad)
 * [gnulinux.ch/kmonad](https://gnulinux.ch/kmonad)
-
-
 * [Powerful keybindings easier than ever with KMonad](https://www.youtube.com/watch?v=Dhj1eauljwU)
 * [kmonad/kmonad/blob/master/startup/kmonad%40.service](https://github.com/kmonad/kmonad/blob/master/startup/kmonad%40.service)
 * [kmonad/kmonad/blob/master/keymap/tutorial.kbd](https://github.com/kmonad/kmonad/blob/master/keymap/tutorial.kbd)
@@ -260,11 +269,11 @@ shift + shift -> caps lock or some other key
 * [david-janssen/kmonad](https://github.com/david-janssen/kmonad) The inspiration for kanata
         (Linux, Windows, Mac)
 
-
 ## Hybrid Modifier / Hypermodifier
-* [](https://www.youtube.com/results?search_query=xcape+linux)
+
+* [video](https://www.youtube.com/results?search_query=xcape+linux)
 * [manpages.ubuntu.com/manpages/xenial/man1/xcape.1.html](https://manpages.ubuntu.com/manpages/xenial/man1/xcape.1.html)
-* [](https://www.youtube.com/results?search_query=xcape)
+* [video](https://www.youtube.com/results?search_query=xcape)
 * [superuser.com/questions/958734/linux-os-level-key-chord](https://superuser.com/questions/958734/linux-os-level-key-chord)
 * [superuser.com/questions/958734/linux-os-level-key-chord](https://superuser.com/questions/958734/linux-os-level-key-chord)
 * [wiki.archlinux.org/title/Xbindkeys](https://wiki.archlinux.org/title/Xbindkeys)
@@ -287,12 +296,13 @@ shift + shift -> caps lock or some other key
 * [search?q=repo%3Aaltercation%2Fdotfiles-tilingwm+xkb&type=code](https://github.com/search?q=repo%3Aaltercation%2Fdotfiles-tilingwm+xkb&type=code)
 
 ## 1S Reading
+
 * [Reddit - How do you manage your windows?](https://www.reddit.com/r/neovim/comments/11lqwrn/how_do_you_manage_your_windows/) → keybinds
 * (2) Is there a quick way to switch/swap tab with escape?
 * XCAPE/XMODMAP : archlinux
 * → use dhall? kdl? hcl?
-
 * keybinds.jsonc
+
 ```jsonc
 
 // Note: this file includes all possible configuration options.
@@ -307,12 +317,15 @@ shift + shift -> caps lock or some other key
     ]
 }
 ```
+
 * declaration.?
 * $$$ Idea: Kanata extension to create a keyboard image from the config file
+
 ```lisp
 (defsrc
     esc            f1   f2   f3   f4             f5    f6    f7    f8          f9   f10  f11   f12
-    grv       1      2    3      4      5       6     7      8     9      0       -      =    bspc
+    grv       1      2    3      4      5       6     7      8     9      $1
+    *      =    bspc
     tab       q      w    e      r      t       y     u      i     o      p       [      ]       \
     caps      a      s    d      f      g       h     j      k     l      ;       '          enter
     lsft      z      x    c      v      b       n     m      ,     .      /                   rsft           up
@@ -321,81 +334,92 @@ shift + shift -> caps lock or some other key
 
 (deflayer default
     caps           f1   f2   f3   f4               f5      f6     f7    f8          f9   f10  f11   f12
-    grv       1      2    3      4       5       6       7       8     9      0       -      =     bspc
+    grv       1      2    3      4       5       6       7       8     9      $1
+    *      =     bspc
     tab       q      w    e      r       t       y       u       i     o      @punct  [      ]        \
     @hybrctl  a      s    d      f       @german h       j       k     l      ;       '           enter
     lsft      z      x    c      @vimnav b       @number @spcl   ,     .      /                    rsft               up
     lctl      lmet   lalt             spc                     ralt        rmet                     rctl          lft down rght
     )
 
-
 (deflayer vimnav
-    -         -     -   -     -         -     -    -     -      -    -    -    -
-    -       -      -    -      -      -       -     -      -     -      -      -      -    -
-    -       -      -    -      -      -       -     -      -     -      -      -      -    -
-    -       -      -    -      -      -       lft   down   up    rght   -      -       -
-    -       -      -    -      -      -       -     -      -     -      -              -     -
-    -       -      -         -                                  -      -       -       - - -
+    *         *     *   *     *         *     *    *     *      *    *    *    -
+    *       *      *    *      *      *       *     *      *     *      *      *      *    -
+    *       *      *    *      *      *       *     *      *     *      *      *      *    -
+    *       *      *    *      *      *       lft   down   up    rgh$1
+    *      *       -
+    *       *      *    *      *      *       *     *      *     *      *              *     -
+    *       *      *         *                                  *      *       *       * - -
 )
-
 
 (deflayer germanmode
-    -         -     -   -     -         -     -    -     -      -    -    -    -
-    -       -      -    -      -      -       -     -      -     -      -      -      -    -
-    -       -      -    -      -      -       -     @u     -     @o     -      -      -    -
-    -       @a     -    -      -      -       -     -      -     -      -      -       -
-    @gshift -      -    -      -      -       -     -      -     -      -                  @gshift   -
-    -       -      -         -                                  -      -       -       - - -
+    *         *     *   *     *         *     *    *     *      *    *    *    -
+    *       *      *    *      *      *       *     *      *     *      *      *      *    -
+    *       *      *    *      *      *       *     @$1
+    *     @$1
+    *      *      *    -
+    *       @$1
+    *    *      *      *       *     *      *     *      *      *       -
+    @gshift -      *    *      *      *       *     *      *     *      *                  @gshift   -
+    *       *      *         *                                  *      *       *       * - -
 )
-
 
 (deflayer germanmodecaps
-    -         -     -   -     -         -     -    -     -      -    -    -    -
-    -       -      -    -      -      -       -     -      -     -      -      -      -    -
-    -       -      -    -      -      -       -     @U     -     @O     -      -      -    -
-    -       @A     -    -      -      -       -     -      -     -      -      -       -
-    -       -      -    -      -      -       -     -      -     -      -              -     -
-    -       -      -         -                                  -      -       -       - - -
+    *         *     *   *     *         *     *    *     *      *    *    *    -
+    *       *      *    *      *      *       *     *      *     *      *      *      *    -
+    *       *      *    *      *      *       *     @$1
+    *     @$1
+    *      *      *    -
+    *       @$1
+    *    *      *      *       *     *      *     *      *      *       -
+    *       *      *    *      *      *       *     *      *     *      *              *     -
+    *       *      *         *                                  *      *       *       * - -
 )
-
 
 (deflayer freq_unicode
-    -         -     -   -     -         -     -    -     -      -    -    -    -
-    -       -      -    -      -      -       -     -      -     -      -      -      -    -
-    -       -      -    -      -      -       -     @U     -     @O     -      -      -    -
-    -       @A     -    -      -      -       -     -      -     -      -      -       -
-    -       -      -    -      -      -       -     -      -     -      -              -     -
-    -       -      -         -                                  -      -       -       - - -
+    *         *     *   *     *         *     *    *     *      *    *    *    -
+    *       *      *    *      *      *       *     *      *     *      *      *      *    -
+    *       *      *    *      *      *       *     @$1
+    *     @$1
+    *      *      *    -
+    *       @$1
+    *    *      *      *       *     *      *     *      *      *       -
+    *       *      *    *      *      *       *     *      *     *      *              *     -
+    *       *      *         *                                  *      *       *       * - -
 )
-
 
 (deflayer numbers
-    -         -     -   -     -         -     -    -     -      -    -    -    -
-    -       -      -    -      -      -       -     -      -     -      -      -      -    -
-    -       -      7    8      9      -       -     -      -     -      -      -      -    -
-    -       -      4    5      6      -       -     -      -     -      -      -       -
-    -       0      1    2      3      -       -     -      -     -      -              -     -
-    -       -      -         -                                  -      -       -       - - -
+    *         *     *   *     *         *     *    *     *      *    *    *    -
+    *       *      *    *      *      *       *     *      *     *      *      *      *    -
+    *       *      7    8      $1
+    *       *     *      *     *      *      *      *    -
+    *       *      4    5      $1
+    *       *     *      *     *      *      *       -
+    *       0      1    2      $1
+    *       *     *      *     *      *              *     -
+    *       *      *         *                                  *      *       *       * - -
 )
-
 
 (deflayer punctuationetc
-    -         -     -   -     -             -     -    -     -      -    -    -    -
-    -       -       -       -      -      -       -     -      -     -      -      -      -    -
-    -       S-,     S-.     S-[    S-]    -       -     -      -     -      -      -      -    -
-    -       S-9     S-0     [      ]      -       -     -      -     -      -      -       -
-    -       @angleL @angleR 2      3      -       -     -      -     -      -              -     -
-    -       -      -         -                                      -      -       -       - - -
+    *         *     *   *       * *    *     *      *    *    *    -
+    *       *       *       *      *      *       *     *      *     *      *      *      *    -
+    *       S-,     S-.     S-[    S-]    *       *     *      *     *      *      *      *    -
+    *       S-9     S-0     [      ]      *       *     *      *     *      *      *       -
+    *       @angleL @angleR 2      $1
+    *       *     *      *     *      *              *     -
+    *       *      *         *                                      *      *       *       * - -
 )
 
-
 (deflayer ascii_special
-    -         -     -   -     -         -     -    -     -      -    -    -    -
-    -       -      -      -     -      -       -     -      -     -      -      -      -    -
-    -       S-\    S-7    S-8   S-9    S-grv   -     -      -     -      -      -      -    -
-    -       \      S-4    S-5   S-6    grv     -     -      -     -      -      -       -
-    -       -      S-1    S-2   S-3    -       -     -      -     -      -              -     -
-    -       -      -             -                               -      -       -       - - -
+    *         *     *   *     *         *     *    *     *      *    *    *    -
+    *       *      *      *     *      *       *     *      *     *      *      *      *    -
+    *       S-\    S-7    S-8   S-9    S-gr$1
+    *     *      *     *      *      *      *    -
+    *       \      S-4    S-5   S-6    gr$1
+    *     *      *     *      *      *       -
+    *       *      S-1    S-2   S-$1
+    *       *     *      *     *      *              *     -
+    *       *        *                           *      *       *       * - -
 )
 
 (defalias
@@ -438,7 +462,8 @@ shift + shift -> caps lock or some other key
 ```
 
 ## SORT
-→ find software used to make keybinding images → SVG for zoomability?
+
+* → find software used to make keybinding images → SVG for zoomability?
 * Caps_lock 58, escape 1 -> get all keycodes
 * Keybinds
 * super shift f : toggle float

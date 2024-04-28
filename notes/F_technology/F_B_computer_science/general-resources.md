@@ -1,14 +1,16 @@
 # General Resources for Programming and Computer Science
 
 ## Sort
+
 * [Curated learning resources](https://learnbyexample.github.io/curated_resources/) — Computer Science and Programming, Linux, Vim, Perl, Git and GitHub
 * [Hexlet](https://en.hexlet.io/): Practical programming courses (JavaScript, PHP, Unix, databases, functional programming). A steady path from the first line of code to the first job.
 * [preslavmihaylov/booknotes](https://github.com/preslavmihaylov/booknotes)
-* [](https://www.youtube.com/@IogaMaster)
+* [video](https://www.youtube.com/@IogaMaster)
 * [prmadev](https://github.com/prmadev)
-***** [m7.rs/](https://m7.rs/)
+ [m7.rs/](https://m7.rs/)
 
 ## Cheatsheets, Reference, Wikipedia
+
 * [Cheatsheets Index | Codecademy](https://www.codecademy.com/resources/cheatsheets/all)
 * [en.wikipedia.org/wiki/Template:Information_theory](https://en.wikipedia.org/wiki/Template:Information_theory)
 * [en.wikipedia.org/wiki/Template:Program_execution](https://en.wikipedia.org/wiki/Template:Program_execution)
@@ -20,28 +22,32 @@
 * [opensource.com/downloads/cheat-sheets](https://opensource.com/downloads/cheat-sheets)
 
 ## Small Projects* [itp.nyu.edu/classes/cc-f21/little-coding-project-kaleidoscope/](https://itp.nyu.edu/classes/cc-f21/little-coding-project-kaleidoscope/)
+
 * [Project Based Curriculum Lesson Plans](https://docs.google.com/spreadsheets/d/1KXEJvgnAziiePMp2Ovf_ssDqCFFWYuycXWBNp91k3qM/edit#gid=561004611)
 * [5 Projects Every Programmer Should Try - YouTube](https://www.youtube.com/watch?v=jOFco1xuIeo&feature=youtu.be)
 
 ## My Writing
+
 * [dev.to/yelircaasi](https://dev.to/yelircaasi)
 
 ## Hardware
+
 * [ryf.fsf.org/categories/laptops](https://ryf.fsf.org/categories/laptops)
 * [r/GUIX/comments/l1xx3g/laptop_recommendations_for_gnu_guix/](https://www.reddit.com/r/GUIX/comments/l1xx3g/laptop_recommendations_for_gnu_guix/)
 * [libreplanet.org/wiki/Group:Hardware/TODO/DUPLICATE_INFO/Freest](https://libreplanet.org/wiki/Group:Hardware/TODO/DUPLICATE_INFO/Freest)
 * [h-node.org/hardware/catalogue/en](https://www.h-node.org/hardware/catalogue/en)
 * [libreboot.org/docs/hardware/](https://libreboot.org/docs/hardware/)
-* [reddit.com/r/pcmasterrace/comments/1bh6t1p/what_would_you_change/](https://www.reddit.com/r/pcmasterrace/comments/1bh6t1p/what_would_you_change/)
+* [r/pcmasterrace/comments/1bh6t1p/what_would_you_change/](https://www.reddit.com/r/pcmasterrace/comments/1bh6t1p/what_would_you_change/)
 
 ## Orgs
+
 * [higherorderco.com/](https://higherorderco.com/)
 * [ourcodingclub.github.io/](https://ourcodingclub.github.io/)
 * [midstall.com/](https://midstall.com/)
 
 ## General Educational Resources
 
-→ [top resources insta](https://www.instagram.com/p/CqQQ2C5jUUa/?igshid=MDJmNzVkMjY=)
+* → [top resources insta](https://www.instagram.com/p/CqQQ2C5jUUa/?igshid=MDJmNzVkMjY=)
 * [CS Wikipedia](https://en.wikipedia.org/wiki/Template:Computer_science)
 * [wiki.archlinux.org/](https://wiki.archlinux.org/)
 * [it.wikipedia.org/wiki/Informatica](https://it.wikipedia.org/wiki/Informatica)
@@ -51,17 +57,15 @@
 * [devopedia.org/](https://devopedia.org/)
 * [freecodecamp.org/](https://www.freecodecamp.org/)
 * [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
-
-
-* [***Developer Roadmaps](https://roadmap.sh/roadmaps)
+* [Developer Roadmaps](https://roadmap.sh/roadmaps)
 * [zetcode.com/](https://zetcode.com/)
 * [GeeksforGeeks | A computer science portal for geeks](https://www.geeksforgeeks.org/)
 * [freecodecamp.org/learn](https://www.freecodecamp.org/learn)
 * [Formale Sprachen, Automaten, Compiler und Interpreter [flaci.com/home/](https://flaci.com/home/)](https://flaci.com/home/](https://flaci.com/home/))
 * [KIT Playlists](https://www.youtube.com/c/KITWEBCAST/playlists)
-* [](https://www.youtube.com/@drawingboxes)
+* [video](https://www.youtube.com/@drawingboxes)
 * [NLogSpace](https://www.youtube.com/channel/UCMWYg3eBFp5bbqjlllUku_w)
-* [](https://www.youtube.com/@hnasr/playlists)
+* [video](https://www.youtube.com/@hnasr/playlists)
 * [interstices.info/](https://interstices.info/)
 * [habr.com](http://habr.com/)
 * [distill.pub/](https://distill.pub/)
@@ -77,7 +81,7 @@
 * [bogotobogo.com/index.php](http://www.bogotobogo.com/index.php)
 * [tutorialspoint.com/index.htm](https://www.tutorialspoint.com/index.htm)
 * [zestedesavoir.com/](https://zestedesavoir.com/)
-* [](https://www.youtube.com/c/PacktVideo/playlists)
+* [video](https://www.youtube.com/c/PacktVideo/playlists)
 * [Гоша Дударь](https://www.youtube.com/c/gosha_dudar)
 * [Ch-13 Computer Science and Engineering](https://www.youtube.com/channel/UC0kHwbaDzMbdiIu1QGfEftQ)
 * [beginnersbook.com/](https://beginnersbook.com/)
@@ -85,8 +89,6 @@
 * [codecademy.com/catalog](https://www.codecademy.com/catalog)
 * [programcreek.com](https://www.programcreek.com/python/example/108008/torchvision.models.resnet101)
 * [programmingbasics.org/es/](http://www.programmingbasics.org/es/)
-
-
 * [*Reference answers to frequently asked questions - Computer Science Meta Stack Exchange](https://cs.meta.stackexchange.com/questions/599/reference-answers-to-frequently-asked-questions)
 * [Frame of Essence](https://www.youtube.com/c/frameofessence)
 * [QWERTY](https://www.youtube.com/c/QWRTru)
@@ -103,10 +105,10 @@
 * [*MIT CS Notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/syllabus/MIT6_01SCS11_notes.pdf)
 * [*Open Source Guides | Learn how to launch and grow your project.](https://opensource.guide/)
 * [*Teach Yourself Computer Science](https://teachyourselfcs.com/)
-* [Derek Banas](https://www.youtube.com/user/derekbanas) (***)
+* [Derek Banas](https://www.youtube.com/user/derekbanas) ()
 * [Computer Science Center](https://compscicenter.ru/)
 * [Computer Science Center](https://www.youtube.com/c/CompscicenterRu)
-* [roadmap.sh/](https://roadmap.sh/) *****
+* [roadmap.sh/](https://roadmap.sh/) 
 * [NLogSpace (esp. formal languages)](https://www.youtube.com/user/leifaktor)
 * [Carlos Andres Delgado](https://www.youtube.com/user/carlosUnivalle)
 * [Хекслет](https://www.youtube.com/user/HexletUniversity)
@@ -124,7 +126,7 @@
 * [Notions et concepts base informatique](https://www.culture-informatique.net/)
 * [Onigiri](https://www.youtube.com/c/OnigiriScience)
 * [overVolt](https://www.youtube.com/channel/UCw6ekhAtFahKr7gImCIoYwg)
-* [Plan CS *****](https://vk.com/@physics_math-detalnyi-plan-samoobrazovaniya-v-computer-science-za-15-goda)
+* [Plan CS ](https://vk.com/@physics_math-detalnyi-plan-samoobrazovaniya-v-computer-science-za-15-goda)
 * [Tutorials | Daniel Miessler](https://danielmiessler.com/study/)
 * [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai)
 * [Академия Яндекса - YouTube](https://www.youtube.com/channel/UCTUyoZMfksbNIHfWJjwr5aQ/playlists)
@@ -166,7 +168,7 @@
 * [cours-gratuit.com/](https://www.cours-gratuit.com/)
 * [culture-informatique.net/](https://www.culture-informatique.net/)
 * [shorttutorials.com/index.php](https://www.shorttutorials.com/index.php)
-* [](https://www.youtube.com/user/MIT/playlists)
+* [video](https://www.youtube.com/user/MIT/playlists)
 * [interdisciplinary-college.org/](https://interdisciplinary-college.org/)
 * [Informatik Lexikon / Glossar](https://www.informatik-verstehen.de/lexikon/#2)
 * [Interstices - Explorez les sciences du numérique - Accueil](https://interstices.info/jcms/jalios_5127/accueil)
@@ -178,9 +180,9 @@
 * [VideoLectures.NET - VideoLectures.NET](http://videolectures.net/)
 * [W3Schools Online Web Tutorials](https://www.w3schools.com/)
 * [stackexchange.com/sites](https://stackexchange.com/sites)
-* [](https://www.youtube.com/c/Geekific/playlists)
+* [video](https://www.youtube.com/c/Geekific/playlists)
 * [programiz.com](https://www.programiz.com/)
-* [****Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)
+* [ Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)
 * [exercism.io/my/tracks](https://exercism.io/my/tracks)
 * [asmarterwaytolearn.com/](https://www.asmarterwaytolearn.com/)
 * [libgen.rs/search.php?&req=a+smarter+way+to+learn&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](http://libgen.rs/search.php?&req=a+smarter+way+to+learn&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
@@ -191,15 +193,15 @@
 * [Machine Thoughts](https://machinethoughts.wordpress.com/)
 * [Open Source: 2018 - Java/C++/Python/BigData/Android/](http://www.bogotobogo.com/index.php)
 
-
 ## Gen * Media & People
+
 * [srid.ca/](https://srid.ca/)
 * [rainingcomputers.blog/](https://rainingcomputers.blog/)
 * [martinheinz.dev/blog/101](https://martinheinz.dev/blog/101)
-* [](https://www.youtube.com/@ciraolone) (tech IT)
-* [](https://www.youtube.com/@minuxkoda)
+* [video](https://www.youtube.com/@ciraolone) (tech IT)
+* [video](https://www.youtube.com/@minuxkoda)
 * [linuxlads.com/episodes/97/](https://linuxlads.com/episodes/97/)
-* [](https://www.youtube.com/@LocosporLinux)
+* [video](https://www.youtube.com/@LocosporLinux)
 * [dynomight.net/](https://dynomight.net/)
 * [CMM ⋅ Plume](https://fediverse.blog/~/Cmm)
 * [Home | ejmastnak](https://www.ejmastnak.com/)
@@ -238,16 +240,15 @@
 * [Branch Education - YouTube](https://www.youtube.com/@BranchEducation)
 * [Anders Pink Blog | Anders Pink](https://anderspink.com/)
 * [journal.platonic.systems/](https://journal.platonic.systems/)
-
-Linux Lads 103
+* Linux Lads 103
 * [UnkertMedia.com – Welcome to UnkertMedia, the Trendiest Tech Blog](https://unkertmedia.com/)
-
-search "Gradient" on spotify or other podcast search engine
+* search "Gradient" on spotify or other podcast search engine
 * [Top 11 Forums for Developers to Collaborate and Grow](https://www.codemonk.ai/insights/best-developer-forums)
-* [](https://www.youtube.com/@Gonkee)
-* [](https://www.youtube.com/@adibhanna)
+* [video](https://www.youtube.com/@Gonkee)
+* [video](https://www.youtube.com/@adibhanna)
 
 ## Blogs / Sites / Fora
+
 *[devtalk](https://devtalk.com/) -* Discussion forum around many different development topics/languages, ran as a joint venture between a lot of great programming publishers like Manning and Pragmatic Bookshelf.
 *[dev.to](https://dev.to/) -* Popular development community with an open source back end that was created as an alternative to Medium.
 * [thenewstack.io/](https://thenewstack.io/)
@@ -262,7 +263,7 @@ search "Gradient" on spotify or other podcast search engine
 * [flet.dev/](https://flet.dev/)
 * [Homepage - MarkTechPost](https://www.marktechpost.com/)
 * [medevel.com/](https://medevel.com/)
-* [***Gitter](https://gitter.im/home/explore)
+* [Gitter](https://gitter.im/home/explore)
 * [developpez.com/](https://www.developpez.com/)
 * [dev.to/t/explainlikeimfive](https://dev.to/t/explainlikeimfive)
 * [plainenglish.io/](https://plainenglish.io/)
@@ -302,36 +303,35 @@ search "Gradient" on spotify or other podcast search engine
 * [uidotdev](https://www.youtube.com/channel/UCbAn7pVK2VIyo-UysfWGdZQ)
 * [$$$Brendan Fortuner – Medium](https://medium.com/@bfortuner)
 
-
 ## YouTube
-* [](https://www.youtube.com/@KIT-Lehre-und-Wissen/playlists)
-* [](https://www.youtube.com/@TraversyMedia)
-* [](https://www.youtube.com/@Florian.Dalwigk)
 
-Th Morpheus Tutorials
-* [](https://www.youtube.com/@ExplainingComputers)
-* [](https://www.youtube.com/@codeaffinitydev)
-* [](https://www.youtube.com/@simondev758)
-* [](https://www.youtube.com/@TheoremofBeethoven)
-* [](https://www.youtube.com/@TheFrugalComputerGuy)
-* [](https://www.youtube.com/@samwitteveenai)
-* [](https://www.youtube.com/@voxelrifts)
-* [](https://www.youtube.com/@PowerCertAnimatedVideos)
-* [](https://www.youtube.com/@PapersWeLove)
-* [](https://www.youtube.com/@crr0ww)
-* [](https://www.youtube.com/@CodeCast)
+* [video](https://www.youtube.com/@KIT-Lehre-und-Wissen/playlists)
+* [video](https://www.youtube.com/@TraversyMedia)
+* [video](https://www.youtube.com/@Florian.Dalwigk)
+* Th Morpheus Tutorials
+* [video](https://www.youtube.com/@ExplainingComputers)
+* [video](https://www.youtube.com/@codeaffinitydev)
+* [video](https://www.youtube.com/@simondev758)
+* [video](https://www.youtube.com/@TheoremofBeethoven)
+* [video](https://www.youtube.com/@TheFrugalComputerGuy)
+* [video](https://www.youtube.com/@samwitteveenai)
+* [video](https://www.youtube.com/@voxelrifts)
+* [video](https://www.youtube.com/@PowerCertAnimatedVideos)
+* [video](https://www.youtube.com/@PapersWeLove)
+* [video](https://www.youtube.com/@crr0ww)
+* [video](https://www.youtube.com/@CodeCast)
 * [aarthificial - YouTube](https://www.youtube.com/@aarthificial)
 * [Tony Zhang - YouTube](https://www.youtube.com/@TonyZhang01/playlists)
 * [Naresh i Technologies - YouTube](https://www.youtube.com/@NareshIT)
 * [A Byte of Code - YouTube](https://m.youtube.com/@AByteofCode)
 * [bashbunni](https://youtube.com/@bashbunni)
-* [](https://www.youtube.com/@dreamsofcode)
-* [](https://www.youtube.com/@codepersist)
+* [video](https://www.youtube.com/@dreamsofcode)
+* [video](https://www.youtube.com/@codepersist)
 * [youtube.com/@devonduty](https://youtube.com/@devonduty)
 * [Code 2020](https://youtube.com/@Code2020)
 * [Informatik - simpleclub](https://www.youtube.com/c/TheSimpleInformatics)
-* [](https://www.youtube.com/user/briantwill/playlists)
-     * [Up and Atom](https://www.youtube.com/c/UpandAtom)
+* [video](https://www.youtube.com/user/briantwill/playlists)
+* [Up and Atom](https://www.youtube.com/c/UpandAtom)
 * [Aaron Jack](https://www.youtube.com/c/AaronJack)
 * [Andy Sterkowitz](https://www.youtube.com/c/AndySterkowitz)
 * [Next Day Video](https://www.youtube.com/c/NextDayVideo)
@@ -400,8 +400,8 @@ Th Morpheus Tutorials
 * [Google Developers Italia - YouTube - YouTube](https://www.youtube.com/user/DevelopersItaly)
 * [Hyperplexed](https://youtube.com/@Hyperplexed)
 
-
 ## Podcasts
+
 * [open.spotify.com/show/2nggqvCf2zVyRec9sFaZMY?si=ky0t23B1QuakyQ3-X1bmXQ](https://open.spotify.com/show/2nggqvCf2zVyRec9sFaZMY?si=ky0t23B1QuakyQ3-X1bmXQ)
 * [open.spotify.com/episode/4AN0l5IYZpLm9ND5UgJKT5?si=ET4a5PGxRaOE_cNIIqXdGg](https://open.spotify.com/episode/4AN0l5IYZpLm9ND5UgJKT5?si=ET4a5PGxRaOE_cNIIqXdGg)
 * [open.spotify.com/show/533UgDRbx1qIdY1IrwJp1l?si=aE_syY6oRGmHQKdxnIG34A](https://open.spotify.com/show/533UgDRbx1qIdY1IrwJp1l?si=aE_syY6oRGmHQKdxnIG34A)
@@ -413,8 +413,7 @@ Th Morpheus Tutorials
 changelog master feed
 * [adspthepodcast.com/2022/04/08/Episode-72.html](https://adspthepodcast.com/2022/04/08/Episode-72.html)
 * [fossandcrafts.org/](https://fossandcrafts.org/)
-
-the technium
+* the technium
 * hacker public radio
 * [Command Line Heroes Podcast](https://open.spotify.com/show/4Jgtgr4mHXNDyLldHkfEMz?si=0_SJ-3Y2SmWj0bPVA84c9Q)
 * [tlbh.it/index.html](https://tlbh.it/index.html)
@@ -432,19 +431,21 @@ the technium
 * [quora.com/What-are-the-best-podcasts-for-software-developers](https://www.quora.com/What-are-the-best-podcasts-for-software-developers)
 * [Kolophon Podcast | Die Gesprächsserie von O'Reilly Deutschland mit Tim Pritlove](https://kolophon.oreilly.de/)
 
-
 ## [** [D] Does anyone know of any good ML podcasts I can listen to while at work? : MachineLearning](https://www.reddit.com/r/MachineLearning/comments/eoljno/d_does_anyone_know_of_any_good_ml_podcasts_i_can/)
+
 * [podcasts.apple.com/us/podcast/oreilly-data-show-podcast/id944929220](https://podcasts.apple.com/us/podcast/oreilly-data-show-podcast/id944929220)
-     * [Pocho Costa](https://mytuner-radio.com/da/podcast/inteligencia-artificial-pocho-costa-1447402113)
+* [Pocho Costa](https://mytuner-radio.com/da/podcast/inteligencia-artificial-pocho-costa-1447402113)
 * [Pocho Costa](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2Nob2Nvc3RhLmNvbS9zZXJpZXMvaW50ZWxpZ2VuY2lhLWFydGlmaWNpYWwvZmVlZC8)
 * [Cabeça de Lab - LuizaLabs | Magalu](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9hNGZlOWY4L3BvZGNhc3QvcnNz)
 * herzbergs Hörsaal. Informatik studieren mit den Ohren
 
 ## Tools
+
 * [tweag](https://github.com/tweag)
 * [taskflow.github.io/](https://taskflow.github.io/)
 * [cloud.google.com/assured-open-source-software/docs/supported-packages](https://cloud.google.com/assured-open-source-software/docs/supported-packages)
-* [moonrepo.dev/](https://moonrepo.dev/) * [TOML: Tom's Obvious Minimal Language](https://toml.io/en/)
+* [moonrepo.dev/](https://moonrepo.dev/)
+* [TOML: Tom's Obvious Minimal Language](https://toml.io/en/)
 * [jdxcode/rtx](https://github.com/jdxcode/rtx)
 * [twpayne/chezmoi](https://github.com/twpayne/chezmoi)
 * [llvm.org/docs/index.html](https://llvm.org/docs/index.html)
@@ -476,35 +477,25 @@ the technium
 * [bouml.fr/](https://www.bouml.fr/)
 * [llvm.org/](https://llvm.org/)
 flex
-
-bison
-
-yacc
+* bison
+* yacc
 * [swig.org/](https://www.swig.org/)
-
-byacc
-
-ANTLR
-
-Xgettext
-
-Automake
-
-Gperf
+* byacc
+* ANTLR
+* Xgettext
+* Automake
+* Gperf
 * [cvxopt/cvxopt](https://github.com/cvxopt/cvxopt)
 * [BVLC](https://github.com/BVLC)
 * [nbviewer.jupyter.org/](http://nbviewer.jupyter.org/)
 
-
-
 ## Career
 
-Ivy: [deep-ivy-ltd.breezy.hr/,](https://deep-ivy-ltd.breezy.hr/) [deep-ivy-ltd.breezy.hr/p/47a8d305734301-core-contributor](https://deep-ivy-ltd.breezy.hr/p/47a8d305734301-core-contributor)
-
-
+* Ivy: [deep-ivy-ltd.breezy.hr/,](https://deep-ivy-ltd.breezy.hr/) [deep-ivy-ltd.breezy.hr/p/47a8d305734301-core-contributor](https://deep-ivy-ltd.breezy.hr/p/47a8d305734301-core-contributor)
 
 
 ## Code Execution
+
 * [dev.to/](https://dev.to/)
 * [replit.com/](https://replit.com/)
 * [wandbox.org/](https://wandbox.org/)
@@ -512,8 +503,8 @@ Ivy: [deep-ivy-ltd.breezy.hr/,](https://deep-ivy-ltd.breezy.hr/) [deep-ivy-ltd.b
 * [godbolt.org/](https://godbolt.org/)
 * [coliru.stacked-crooked.com/](https://coliru.stacked-crooked.com/)
 
-
 ## Institutions
+
 * [Fachgruppe Maschinelle Sprachverarbeitung – Homepage der Fachgruppe Maschinelle Sprachverarbeitung](https://msv.stuvus.uni-stuttgart.de/?fbclid=IwAR1wk0uYyUTYrycXjEkCSe4dmui65CiOCq9ViV7HSVW66UUracxVKMXs9s0)
 * [FachschaftSprachwissenschaft](http://www.fs-sprachwissenschaft.uni-tuebingen.de/wiki/index.php?title=Main_Page)
 * [FAQs: Ministerium für Wissenschaft, Forschung und Kunst Baden-Württemberg](https://mwk.baden-wuerttemberg.de/de/hochschulen-studium/studienfinanzierung/gebuehren-fuer-internationale-studierende-und-zweitstudium/faqs/)
@@ -527,57 +518,34 @@ Ivy: [deep-ivy-ltd.breezy.hr/,](https://deep-ivy-ltd.breezy.hr/) [deep-ivy-ltd.b
 * [Welcome to the Max Planck Institute for Psycholinguistics — Max Planck Institute for Psycholinguistics](http://www.mpi.nl/)
 * [Яндекс — інформація про компанію](https://yandex.ua/company/?ncrnd=2855)
 
-
 ## People
 
-pers [Elteoremadebeethoven (Alexander Vázquez)](https://github.com/Elteoremadebeethoven) (manim)
-
-perso  [xuefuzhao.github.io/](https://xuefuzhao.github.io/)
-
-perso [Archives - Eli Bendersky's website](https://eli.thegreenplace.net/archives/all)
-
-perso [ArrynDoesTech - YouTube](https://www.youtube.com/@arryndoestech)
-
-perso [Chris Portela - Cloud, Software, and Photography](https://www.chrisportela.com/)
-
-perso [Chronicles of Weird ThingsChronicae Novis Rebus](https://chronicles.mad-scientist.club/) (Nix etc)
-
-perso [Emma Böcker (@boecker@chaos.social) - rheinneckar.social](https://rheinneckar.social/@boecker@chaos.social)
-
-perso [Ephoto :: Stephen Houston — Software Engineer](https://www.smhouston.us/ephoto/)
-
-perso [Hugo Barrera's site](https://whynothugo.nl/)
-
-perso [Monster](https://monster.codeberg.page/)
-
-perso [Projects - Eli Bendersky's website](https://eli.thegreenplace.net/pages/projects)
-
-perso [Projects - Federico Terzi - A Software Engineering Journey](https://federicoterzi.com/projects)
-
-perso [Victor Zheng](https://victor-zheng.com/)
-
-perso [ansidev's blog | Le Minh Tri | Substack](https://ansidev.substack.com/p/wezterm-cheatsheet)
-
-perso [bespinian Blog](https://blog.bespinian.io/)
-
-perso [bespinian Blog](https://blog.bespinian.io/)
-
-perso [SergioRibera](https://github.com/SergioRibera)
-
-perso [radicle.xyz/](https://radicle.xyz/)
-
-perso [linkedin.com/in/manuel-epp/](https://www.linkedin.com/in/manuel-epp/)
-
-perso [](https://www.youtube.com/@devaslife)
-
-perso [](https://www.youtube.com/@devopstoolbox)
-
-perso [](https://www.youtube.com/@levonog)
-
-person ansidev's blog
+* pers [Elteoremadebeethoven (Alexander Vázquez)](https://github.com/Elteoremadebeethoven) (manim)
+* perso  [xuefuzhao.github.io/](https://xuefuzhao.github.io/)
+* perso [Archives - Eli Bendersky's website](https://eli.thegreenplace.net/archives/all)
+* perso [ArrynDoesTech - YouTube](https://www.youtube.com/@arryndoestech)
+* perso [Chris Portela - Cloud, Software, and Photography](https://www.chrisportela.com/)
+* perso [Chronicles of Weird ThingsChronicae Novis Rebus](https://chronicles.mad-scientist.club/) (Nix etc)
+* perso [Emma Böcker (@boecker@chaos.social) - rheinneckar.social](https://rheinneckar.social/@boecker@chaos.social)
+* perso [Ephoto :: Stephen Houston — Software Engineer](https://www.smhouston.us/ephoto/)
+* perso [Hugo Barrera's site](https://whynothugo.nl/)
+* perso [Monster](https://monster.codeberg.page/)
+* perso [Projects - Eli Bendersky's website](https://eli.thegreenplace.net/pages/projects)
+* perso [Projects - Federico Terzi - A Software Engineering Journey](https://federicoterzi.com/projects)
+* perso [Victor Zheng](https://victor-zheng.com/)
+* perso [ansidev's blog | Le Minh Tri | Substack](https://ansidev.substack.com/p/wezterm-cheatsheet)
+* perso [bespinian Blog](https://blog.bespinian.io/)
+* perso [bespinian Blog](https://blog.bespinian.io/)
+* perso [SergioRibera](https://github.com/SergioRibera)
+* perso [radicle.xyz/](https://radicle.xyz/)
+* perso [linkedin.com/in/manuel-epp/](https://www.linkedin.com/in/manuel-epp/)
+* perso [video](https://www.youtube.com/@devaslife)
+* perso [video](https://www.youtube.com/@devopstoolbox)
+* perso [video](https://www.youtube.com/@levonog)
+* person ansidev's blog
 * [migalmoreno.com/](https://migalmoreno.com/)
 * [doctorfree](https://github.com/doctorfree)
-* [samwho.dev/](https://samwho.dev/) ***
+* [samwho.dev/](https://samwho.dev/) 
 * [srid.ca/-/all](https://srid.ca/-/all)
 * [sommaa.github.io/](https://sommaa.github.io/)
 * [chrisatmachine.com/](https://www.chrisatmachine.com/)
@@ -600,6 +568,7 @@ person ansidev's blog
 * [matthewrhone.dev/](https://matthewrhone.dev/)
 
 ## Coding Challenges and Education
+
 * [thecodingtrain.com/CodingChallenges/](https://thecodingtrain.com/CodingChallenges/)
 * [app.codility.com/programmers/](https://app.codility.com/programmers/)
 * [2000 Tutorials Digital Ocean](https://waves.digitalocean.com/n/gM0awsS07004TN0tD000fWA)
@@ -615,36 +584,34 @@ person ansidev's blog
 * [Biweekly Contest 16](https://leetcode.com/T7KxOs/?DRVUUAkwARUGHGpKABwBGQcWalAB=820&DRVUUAk%3D=isaac.r.riley%40gmail.com&BBFbUjoBEx0N=biweekly_contest_link_in_text&DgpaVDoKHxEBFGpaCQYRGw%3D%3D=%7B%22Gx1bXTocFwMbEVpXOgYW%22%3A+820%2C+%22DRVUUAk%3D%22%3A+%22isaac.r.riley%40gmail.com%22%2C+%22HBlHXgAbLQUaFEY%3D%22%3A+%5B%22RxtaVxEKAQRHGUVQShgXFQMUTBQGABwEDQtBFFRZS18aHVJQFhsXAg%3D%3D%22%2C+%22RxtaVxEKAQRHD1BcDgMLXQsXW00AHAZdWU4MFg%3D%3D%22%2C+%22RxtaVxEKAQRHGUVQSg0bBw0dXlUcQhEfBgxQShFCQ0ZHClBeDBwGFRo%3D%22%2C+%22RxtaVxEKAQRHGlxOAAoZHBFVVlYLGxcDHFUED0o%3D%22%5D%7D&DhFbWAkwBwIE=https://leetcode.com/contest/biweekly-contest-16/)
 * [leetcode.com/problems/two-sum/](https://leetcode.com/problems/two-sum/)
 * [Convert excel column names to numbers](https://stackoverflow.com/questions/34537243/convert-excel-column-names-to-numbers)
-
-Excel Challenge Problem
+* Excel Challenge Problem
 * [Hackerrank Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem)
 * [adventofcode.com/](https://adventofcode.com/)
 * [codescracker.com/index.htm](https://codescracker.com/index.htm)
 * [r/dailyprogrammer/comments/9dv08q/20180907_challenge_367_hard_the_mondrian_puzzle/?st=JOHVYFQM&sh=42a19ef7](https://www.reddit.com/r/dailyprogrammer/comments/9dv08q/20180907_challenge_367_hard_the_mondrian_puzzle/?st=JOHVYFQM&sh=42a19ef7)
 
 ## People
+
 * [Anaphory](https://github.com/Anaphory)
 * [Colin Galen](https://www.youtube.com/@ColinGalen)
 * [bigboxSWE](https://www.youtube.com/@bigboxSWE)
-* [](https://www.youtube.com/@AByteofCode)
+* [video](https://www.youtube.com/@AByteofCode)
 * [strager](https://github.com/strager)
 * [Dima Maleev](https://youtube.com/c/SunnyDimKo)
 * [Brian Will – Medium](https://medium.com/@brianwill)
 * [youtube.com/@EberhardWolff](https://youtube.com/@EberhardWolff)
 * [tsoding / porth · GitLab](https://gitlab.com/tsoding/porth)
-* [](https://www.youtube.com/c/Cleancoders)
-
-Igor Zhirkov (interests)
+* [video](https://www.youtube.com/c/Cleancoders)
+* Igor Zhirkov (interests)
 * [ianthehenry.com/](https://ianthehenry.com/)
 * [markwatson.com/](https://markwatson.com/)
 * [daniel-siepmann.de/](https://daniel-siepmann.de/)
 * [sbr.pm/](https://sbr.pm/)
-
-→ [gideonwolfe.com/](https://gideonwolfe.com/)
+* → [gideonwolfe.com/](https://gideonwolfe.com/)
 * [kobzol](https://github.com/kobzol)
 
-
 ## Media, Channels
+
 * [refactoring.guru/uk](https://refactoring.guru/uk)
 * [VD](https://thevaluable.dev/page/about/)
 * [Сообщества свободного ПО](https://telegra.ph/Soobshchestva-svobodnogo-PO-07-24)
@@ -658,8 +625,8 @@ Igor Zhirkov (interests)
 * [increment.com/issues/](https://increment.com/issues/)
 * [towardsdatascience.com/a-primer-on-architectural-patterns-fd1b22a4389d](https://towardsdatascience.com/a-primer-on-architectural-patterns-fd1b22a4389d)
 * [Software Engineering Blog & Programming Tutorials | Toptal®](https://www.toptal.com/developers/blog)
-***LibHunt - Trending open-source projects and their alternatives
-* [***yet another insignificant… Programming Notes](https://www3.ntu.edu.sg/home/ehchua/programming/index.html)
+LibHunt - Trending open-source projects and their alternatives
+* [yet another insignificant… Programming Notes](https://www3.ntu.edu.sg/home/ehchua/programming/index.html)
 * [blog. - Jayway](https://blog.jayway.com/)
 * [codemotion.com/magazine](https://www.codemotion.com/magazine)
 * [planetgeek.ch/](https://www.planetgeek.ch/)
@@ -681,23 +648,23 @@ Igor Zhirkov (interests)
 * [Alura Cursos Online](https://www.youtube.com/user/aluracursosonline)
 * [Programador BR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)
 * [Hipsters Ponto Tech](https://www.listennotes.com/podcasts/hipsters-ponto-tech-alura-mKJV43-8j7g/)
-* [](https://www.youtube.com/@devopstoolbox) ***
+* [video](https://www.youtube.com/@devopstoolbox) 
 * [zestedesavoir.com/bibliotheque/informatique/](https://zestedesavoir.com/bibliotheque/informatique/)
 
-
 ## Course / Tutorial
+
 * [From Nand to Tetris Part 1](https://www.youtube.com/playlist?list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI)
 * [ACME 2022-2023 Materials](https://acme.byu.edu/2022-2023-materials)
 **Reddit - recommendation of a hands-on programming language course
 * [academic-resources/stared-repos](https://github.com/academic-resources/stared-repos)
-     * [Machine Learning Foundations Course – Regression Analysis](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=522e67d953&e=b5a8df9a4a) This course is designed to help you build a solid foundation in machine learning, focusing on core concepts and in-depth explanations of regression analysis, which is often overlooked in other courses. Whether  you're a beginner or someone looking to strengthen your understanding of machine learning, this course is for you!* [How To Build A Control Plane To Manage Kubernetes Clusters With kcp?](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=1548b0c657&e=b5a8df9a4a) kcp is a Kubernetes cluster that cannot even run Pods (container). Instead, it is a specialized Kubernetes distribution that acts as a control plane for Kubernetes clusters.
+* [Machine Learning Foundations Course – Regression Analysis](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=522e67d953&e=b5a8df9a4a) This course is designed to help you build a solid foundation in machine learning, focusing on core concepts and in-depth explanations of regression analysis, which is often overlooked in other courses. Whether  you're a beginner or someone looking to strengthen your understanding of machine learning, this course is for you!* [How To Build A Control Plane To Manage Kubernetes Clusters With kcp?](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=1548b0c657&e=b5a8df9a4a) kcp is a Kubernetes cluster that cannot even run Pods (container). Instead, it is a specialized Kubernetes distribution that acts as a control plane for Kubernetes clusters.
 * [guru99.com/agile-testing-course.html](https://www.guru99.com/agile-testing-course.html)
 * [GitHub - donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer)
 * [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 * [training-course-material.com/training/Main_Page](https://training-course-material.com/training/Main_Page)
 * [Docker For Beginners: From Docker Desktop to Deployment](https://www.youtube.com/watch?v=i7ABlHngi1Q)
-* [](https://www.youtube.com/c/ProgramiranjeTutorijali/playlists)
-* [](https://www.youtube.com/channel/UCSYrkPyht9PAXMhAbkGTbsQ/playlists)
+* [video](https://www.youtube.com/c/ProgramiranjeTutorijali/playlists)
+* [video](https://www.youtube.com/channel/UCSYrkPyht9PAXMhAbkGTbsQ/playlists)
 * [digitalocean.com/community/tutorials](https://www.digitalocean.com/community/tutorials)
 * [journaldev.com/](https://www.journaldev.com/)
 * [aws.amazon.com/blogs/opensource/why-use-docker-containers-for-machine-learning-development/](https://aws.amazon.com/blogs/opensource/why-use-docker-containers-for-machine-learning-development/)
@@ -711,8 +678,8 @@ Igor Zhirkov (interests)
 * [freecodecamp.org/ukrainian/learn/](https://www.freecodecamp.org/ukrainian/learn/)
 * [Tutorials Point (India) Ltd.](https://www.youtube.com/channel/UCVLbzhxVTiTLiVKeGV7WEBg)
 
-
 ## Projects, Tools, Libraries
+
 * [orsinium-labs/python-lambda-calculus: Lambda Calculus things implemented on Python](https://github.com/orsinium-labs/python-lambda-calculus)
 * [Mojo](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=506258937d&e=b5a8df9a4a) A new programming language for all AI developers. Mojo combines the usability of Python with the performance of C, unlocking unparalleled programmability of AI hardware and extensibility of AI models.* [mlc-llm](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=b0444df446&e=b5a8df9a4a) Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.* [Trawler](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=a704dd8458&e=b5a8df9a4a) PowerShell script to help Incident Responders discover adversary persistence mechanisms.* [tutim](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=30a93f90cc&e=b5a8df9a4a) The open-source wizard form infrastructure for web applications.* [nango](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=d9ac2ed1a5&e=b5a8df9a4a) Pre-built OAuth flows & secure token management for 90+ APIs.* [Teletrace](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=4e35a87f18&e=b5a8df9a4a) Open-Source Tracing Platform.* [IntelliNode](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=5904481f92&e=b5a8df9a4a) Unified access to various AI models, such as ChatGPT, Diffusion, Cohere, and others, using a few Javascript lines.* [rustic](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=6cffd8871f&e=b5a8df9a4a) Fast, encrypted, deduplicated backups powered by Rust.* [Tempo](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=35a3c6cd2b&e=b5a8df9a4a) Low latency, cross-platform, end-to-end typesafe APIs.
 * [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM)
@@ -722,19 +689,15 @@ Igor Zhirkov (interests)
 * [antlr.org/](https://www.antlr.org/)
 * [fosspost.org/open-source-cad-programs-autocad-alternative/](https://fosspost.org/open-source-cad-programs-autocad-alternative/)
 * [app.diagrams.net/](https://app.diagrams.net/)
-
-minder
-
-lowchart
-
-gnuplot ASCII mode
+* minder
+* lowchart
+* gnuplot ASCII mode
 * [codesandbox.io/](https://codesandbox.io/)
 
 ## Very Best Resources
+
 * [The Twelve-Factor App](https://12factor.net/config)
 * [roadmap.sh/](https://roadmap.sh/)
-
-
 * [up-for-grabs.net/#/](https://up-for-grabs.net/#/)
 * [showthedocs.com/](http://showthedocs.com/)
 * [The ReadME Project · Meet the people behind the projects you love](https://github.com/readme)
@@ -750,10 +713,10 @@ gnuplot ASCII mode
 * [awesomeopensource.com/project/webpro/programming-principles](https://awesomeopensource.com/project/webpro/programming-principles)
 * [awesomeopensource.com/](https://awesomeopensource.com/)
 * [codereview.stackexchange.com/](https://codereview.stackexchange.com/)
-
-FreeCodeCamp
+* FreeCodeCamp
 
 ## Courses
+
 * [refactoring.guru/uk](https://refactoring.guru/uk)
 * [Foundations-of-Applied-Mathematics](https://github.com/Foundations-of-Applied-Mathematics)
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
@@ -761,15 +724,17 @@ FreeCodeCamp
 * [Computer Science Unplugged](https://classic.csunplugged.org/)
 
 ## Docs
+
 * [makeareadme.com/](https://www.makeareadme.com/)
 * [Beautiful Docs](https://github.com/matheusfelipeog/beautiful-docs) → create pull request, add Julia
 * [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)
 
-
 ## Learning
-     * [The BEST Coding Interview Roadmap in 2023 (free)](https://www.youtube.com/watch?v=jgQjes7MgTM)
+
+* [The BEST Coding Interview Roadmap in 2023 (free)](https://www.youtube.com/watch?v=jgQjes7MgTM)
 
 ## Project Resources
+
 * [github.blog/2023-04-03-calling-all-open-source-maintainers/](https://github.blog/2023-04-03-calling-all-open-source-maintainers/)
 * [Martyr2's Mega Project Ideas List! - Share Your Project | Dream.In.Code](https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
 * [10 Great Programming Projects to Improve Your Resume and Learn to Program](https://levelup.gitconnected.com/10-great-programming-projects-to-improve-your-resume-and-learn-to-program-74b14d3e9e16)
@@ -781,8 +746,8 @@ FreeCodeCamp
 * [Free Code Camp Project](https://www.freecodecamp.org/news/plan-code-and-deploy-a-startup-in-2-hours/)
 * [Software Tools for Hobby-Scale Projects](https://rickcarlino.com/2019/11/02/software-tools-for-hobby-sized-projects-html.html)
 
-
 ## Cheatsheets
+
 * [cheat-sheets.org/](http://www.cheat-sheets.org/)
 * [bookflow.ru/?s=%D0%A8%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0](https://bookflow.ru/?s=%D0%A8%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0)
 * [codecademy.com/resources/cheatsheets/all](https://www.codecademy.com/resources/cheatsheets/all)
@@ -793,6 +758,7 @@ FreeCodeCamp
 * [cheatography.com/](https://www.cheatography.com/)
 
 ## Resources
+
 * [Reddit - Cheat sheet repository for beginners.](https://www.reddit.com/r/learnprogramming/comments/110v8kw/cheat_sheet_repository_for_beginners/)
 * [Awesome Open Source](https://awesomeopensource.com/)
 * [sweb.inf.ed.ac.uk/bundy/how-tos/resbible.html](https://sweb.inf.ed.ac.uk/bundy/how-tos/resbible.html)
@@ -813,6 +779,7 @@ FreeCodeCamp
 * [meetup.com/](https://www.meetup.com/)
 
 ## Media
+
 * [Sympolymathesy, by Chris Krycho](https://v5.chriskrycho.com/)
 * [joshcollinsworth.com/](https://joshcollinsworth.com/)
 * [eugeneyan.com/](https://eugeneyan.com/)
@@ -832,41 +799,41 @@ FreeCodeCamp
 * [Stack Advice | StackShare](https://stackshare.io/feed)
 * [lobste.rs/](https://lobste.rs/)
 * [sicpers.info](https://www.sicpers.info/)
-* [](https://www.youtube.com/@g5min) (Graphics, gen CS)
-* [](https://www.youtube.com/@strager_)
-* [](https://www.youtube.com/@chrisatmachine)
-* [](https://www.youtube.com/@cpow85)
-* [](https://www.youtube.com/@StudyingWithAlex?app=desktop)
-* [](https://www.youtube.com/@saraepaolo)
+* [video](https://www.youtube.com/@g5min) (Graphics, gen CS)
+* [video](https://www.youtube.com/@strager_)
+* [video](https://www.youtube.com/@chrisatmachine)
+* [video](https://www.youtube.com/@cpow85)
+* [video](https://www.youtube.com/@StudyingWithAlex?app=desktop)
+* [video](https://www.youtube.com/@saraepaolo)
 
 ### Podcasts
+
 * [Take Up Code](https://open.spotify.com/show/5i2jy4xzmOqUOvWmwrSOsm?si=ttxaYE9FSYCvzdzhMM5QrQ)
 Techtiefen
 * [deploy.codenation.com.br/podcasts/home](https://deploy.codenation.com.br/podcasts/home)
-
-Programming Throwdown
+* Programming Throwdown
 * [radiopublic.com/commit-WYMXMl](https://radiopublic.com/commit-WYMXMl)
-
-Kopec Explains Software
+* Kopec Explains Software
 
 ### Video
-* [](https://www.youtube.com/c/EngineerMan/playlists)
+
+* [video](https://www.youtube.com/c/EngineerMan/playlists)
 * [engineer-man/youtube](https://github.com/engineer-man/youtube)
 * [Лекторий ФПМИ](https://youtube.com/c/%D0%9B%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%B9%D0%A4%D0%9F%D0%9C%D0%98)
 * [Onigiri - YouTube](https://www.youtube.com/c/OnigiriScience)
 * [Quartier Génial](https://www.youtube.com/channel/UCqMbspvn2Nw94kL0l-lXgWg)
 * [Programmieren Starten](https://youtube.com/c/ProgrammierenStarten)
-* [](https://www.youtube.com/@mycodeschool)
-
-
+* [video](https://www.youtube.com/@mycodeschool)
 
 
 ### Newsletters
+
 * [techleaddigest.net/digests](https://techleaddigest.net/digests)
 * [programmingdigest.net/digests](https://programmingdigest.net/digests)
 * [dailytech.email/digests](https://dailytech.email/digests)
 
 ## Tools and Software Resources
+
 * [nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)
 * [faust.grame.fr/](https://faust.grame.fr/) functional programming language for signal processing
 * [Top 20 Developer Tools for 2020](https://blog.axosoft.com/top-developer-tools-2020/)
@@ -874,18 +841,17 @@ Kopec Explains Software
 * [jdoodle.com](https://www.jdoodle.com/)
 * [colab.research.google.com/drive/1RYWJaMEHVeN8yI83QtL35GOSFQBRgLaX](https://colab.research.google.com/drive/1RYWJaMEHVeN8yI83QtL35GOSFQBRgLaX) BehaviorSuite
 * [console.paperspace.com/teukn6ij6/projects](https://console.paperspace.com/teukn6ij6/projects)
-
-GraphicsMagick GM Utility
+* GraphicsMagick GM Utility
 * [Textualize/rich-cli](https://github.com/Textualize/rich-cli)
-* [opensource.com/](https://opensource.com/) *****
+* [opensource.com/](https://opensource.com/) 
 * [Play with Docker](https://www.docker.com/play-with-docker)
 * [Diagram Software and Flowchart Maker](https://www.diagrams.net/)
 * [paketo.io/docs/](https://paketo.io/docs/)
 * [nodepit.com/](https://nodepit.com/)
 
 ### Build Systems
+
 * [makefiletutorial.com/](https://makefiletutorial.com/)
 * [gnu.org/software/make/manual/make.html](https://www.gnu.org/software/make/manual/make.html)
 * [mesonbuild.com/](https://mesonbuild.com/)
 * [mesonbuild/meson](https://github.com/mesonbuild/meson)
-

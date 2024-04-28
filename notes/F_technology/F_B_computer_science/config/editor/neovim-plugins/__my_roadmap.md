@@ -1,22 +1,19 @@
 # Neovim Config Roadmap
 
-General:
-
+* General:
 * [ ] add all plugins below
-
-Python Development Setup:
-
+* Python Development Setup:
 * [ ] completion basic config -> colors, shortcut to accept
 * [ ] fix basic navigation
-    * [ ] add tui fm and configure keybinds
-    * [ ] wezterm integration for multiplexing
-    * [ ] navigation between buffers / tabs
+* [ ] add tui fm and configure keybinds
+* [ ] wezterm integration for multiplexing
+* [ ] navigation between buffers / tabs
 * [ ] configure terminal colors & keys -> disable vim keybindings for now?
 * [ ] find optimal config for pytest and pytest-cov
-    * [ ] go straight from file to failed test
-    * [ ] find way to run all tests at once
-    * [ ] best way to view html cov files? -> shortcut to open in given browser -> configure xdg-open or find extension
-    * [ ] generate in-source annotations for untested code? (supported by pytest-cov)
+* [ ] go straight from file to failed test
+* [ ] find way to run all tests at once
+* [ ] best way to view html cov files? -> shortcut to open in given browser -> configure xdg-open or find extension
+* [ ] generate in-source annotations for untested code? (supported by pytest-cov)
 * [ ] get wezterm panes and tabs working: shortcuts for opening and navigations
 * [ ] fix neotree fold/unfold glitch, git status refreshing -> [this](https://github.com/nvim-neo-tree/neo-tree.nvim/issues/209)
 * [ ] disable confirmation to close
@@ -26,13 +23,13 @@ Python Development Setup:
 * [ ] fix git blame line background color (normal background color)
 * [ ] remove lint / LSP message background
 * [ ] configure quickfix
-    * [ ] previews
-    * [ ] file navigation
+* [ ] previews
+* [ ] file navigation
 * [ ] configure semantic navigation
-    * [ ] go to definition
-    * [ ] go to references
-    * [ ] view signature / get signature help
-    * [ ] view type (?)
+* [ ] go to definition
+* [ ] go to references
+* [ ] view signature / get signature help
+* [ ] view type (?)
 * [ ] configure directory search -> telescope?
 * [ ] configure directory search and replace
 * [ ] make sure mypy is working: custom keybind?; combine with qf
@@ -45,11 +42,11 @@ Python Development Setup:
 * [ ] get a handful of my favorite snippets working
 * [ ] find the best AI assistant plugin(s) and get them working
 * [ ] make the lines look nice
-    * [ ] status
-    * [ ] buffer 
-    * [ ] tab
+* [ ] status
+* [ ] buffer
+* [ ] tab
 * [ ] navigate along breadcrumbs?
- 
+
 ## options.lua
 
 * [ ] read documentation
@@ -73,18 +70,6 @@ Python Development Setup:
 * [ ] list default keybinds in nix-config
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## UI
 
@@ -268,8 +253,6 @@ Python Development Setup:
 
 ## Status Line
 
-###
-
 * [ ] read documentation
 * [ ] read code
 * [ ] plugin installed and imported
@@ -322,8 +305,6 @@ Python Development Setup:
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
 
-
-
 ## Modes
 
 ### zen-mode.nvim
@@ -337,7 +318,6 @@ Python Development Setup:
 * [ ] list default keybinds in nix-config
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
-
 
 ## Execution
 
@@ -413,7 +393,6 @@ Python Development Setup:
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
 
-
 ## Task Runner
 
 ### overseer.nvim
@@ -439,7 +418,6 @@ Python Development Setup:
 * [ ] list default keybinds in nix-config
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
-
 
 ## Multiplexer
 
@@ -478,7 +456,6 @@ Python Development Setup:
 * [ ] list default keybinds in nix-config
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
-
 
 ## Projects
 
@@ -530,7 +507,6 @@ Python Development Setup:
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
 
-
 ## Menus (other)
 
 ### wilder.nvim
@@ -544,7 +520,6 @@ Python Development Setup:
 * [ ] list default keybinds in nix-config
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
-
 
 ## Treesitter and Extensions
 
@@ -584,7 +559,6 @@ Python Development Setup:
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
 
-
 ## Highlighting (other)
 
 ### hlargs.nvim
@@ -598,7 +572,6 @@ Python Development Setup:
 * [ ] list default keybinds in nix-config
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
-
 
 ## Snippets
 
@@ -661,7 +634,6 @@ Python Development Setup:
 * [ ] list default keybinds in nix-config
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
-
 
 ## LSP
 
@@ -761,9 +733,7 @@ Python Development Setup:
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
 
-
 ## Completion
-
 
 ### nvim-cmp
 
@@ -814,7 +784,6 @@ Python Development Setup:
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
 
-
 ## Debugging
 
 ### nvim-dap
@@ -840,7 +809,6 @@ Python Development Setup:
 * [ ] list default keybinds in nix-config
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
-
 
 ## Quickfix
 
@@ -892,7 +860,6 @@ Python Development Setup:
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
 
-
 ## Formatting and Linting
 
 ### confirm.nvim
@@ -931,7 +898,6 @@ Python Development Setup:
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
 
-
 ## Refactoring (other)
 
 ### refactoring.nvim
@@ -945,7 +911,6 @@ Python Development Setup:
 * [ ] list default keybinds in nix-config
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
-
 
 ## Folding
 
@@ -985,7 +950,6 @@ Python Development Setup:
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
 
-
 ## Testing and Coverage
 
 ### neotest
@@ -1012,7 +976,6 @@ Python Development Setup:
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
 
-
 ## Comments
 
 ### Comment.nvim
@@ -1038,7 +1001,6 @@ Python Development Setup:
 * [ ] list default keybinds in nix-config
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
-
 
 ## Clipboard
 
@@ -1077,7 +1039,6 @@ Python Development Setup:
 * [ ] list default keybinds in nix-config
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
-
 
 ## Git
 
@@ -1164,7 +1125,6 @@ Python Development Setup:
 * [ ] list default keybinds in nix-config
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
-
 
 ## Editing
 
@@ -1336,7 +1296,6 @@ Python Development Setup:
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
 
-
 ### indent-blankline.nvim
 
 * [ ] read documentation
@@ -1348,7 +1307,6 @@ Python Development Setup:
 * [ ] list default keybinds in nix-config
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
-
 
 ## Increment and Toggling
 
@@ -1363,7 +1321,6 @@ Python Development Setup:
 * [ ] list default keybinds in nix-config
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
-
 
 ## Search
 
@@ -1390,7 +1347,6 @@ Python Development Setup:
 * [ ] list default keybinds in nix-config
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
-
 
 ## Search and Replace
 
@@ -1478,7 +1434,6 @@ Python Development Setup:
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
 
-
 ## Macros
 
 ### neocomposer.nvim
@@ -1492,7 +1447,6 @@ Python Development Setup:
 * [ ] list default keybinds in nix-config
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
-
 
 ## Pairs
 
@@ -1544,7 +1498,6 @@ Python Development Setup:
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
 
-
 ## Textobjects
 
 ### nvim-surround
@@ -1594,7 +1547,6 @@ Python Development Setup:
 * [ ] list default keybinds in nix-config
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
-
 
 ## Navigation
 
@@ -1682,7 +1634,6 @@ Python Development Setup:
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
 
-
 ## Code Outline
 
 ### symbols-outline.nvim
@@ -1696,7 +1647,6 @@ Python Development Setup:
 * [ ] list default keybinds in nix-config
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
-
 
 ## Miscellaneous
 
@@ -1808,8 +1758,6 @@ Python Development Setup:
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
 
-
-
 ## Media
 
 ### hologram.nvim
@@ -1835,7 +1783,6 @@ Python Development Setup:
 * [ ] list default keybinds in nix-config
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
-
 
 ## Python
 
@@ -1973,7 +1920,6 @@ Python Development Setup:
 
 ### cmp-conjure
 
-
 * [ ] read documentation
 * [ ] read code
 * [ ] plugin installed and imported
@@ -1983,7 +1929,6 @@ Python Development Setup:
 * [ ] list default keybinds in nix-config
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
-
 
 ## Markdown
 
@@ -2073,7 +2018,6 @@ Python Development Setup:
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
 
-
 ## Nix
 
 ### vim-nix
@@ -2125,7 +2069,6 @@ Python Development Setup:
 * [ ] list default keybinds in nix-config
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
-
 
 ## Other Langs
 
@@ -2205,7 +2148,6 @@ Python Development Setup:
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
 
-
 ## Code Minimap
 
 ### minimap.nvim
@@ -2219,7 +2161,6 @@ Python Development Setup:
 * [ ] list default keybinds in nix-config
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
-
 
 ## Github
 
@@ -2235,10 +2176,9 @@ Python Development Setup:
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
 
-
 ## AI
 
-###
+### ?
 
 * [ ] read documentation
 * [ ] read code
@@ -2249,11 +2189,9 @@ Python Development Setup:
 * [ ] list default keybinds in nix-config
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
-    
+
 ### CodeGPT
 
-###
-
 * [ ] read documentation
 * [ ] read code
 * [ ] plugin installed and imported
@@ -2263,12 +2201,9 @@ Python Development Setup:
 * [ ] list default keybinds in nix-config
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
-
 
 ### ChatGPT
 
-###
-
 * [ ] read documentation
 * [ ] read code
 * [ ] plugin installed and imported
@@ -2278,12 +2213,9 @@ Python Development Setup:
 * [ ] list default keybinds in nix-config
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
-
 
 ### Copilot
 
-###
-
 * [ ] read documentation
 * [ ] read code
 * [ ] plugin installed and imported
@@ -2293,12 +2225,9 @@ Python Development Setup:
 * [ ] list default keybinds in nix-config
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
-
 
 ## Org
 
-###
-
 * [ ] read documentation
 * [ ] read code
 * [ ] plugin installed and imported
@@ -2308,12 +2237,9 @@ Python Development Setup:
 * [ ] list default keybinds in nix-config
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
-
 
 ## Productivity
 
-###
-
 * [ ] read documentation
 * [ ] read code
 * [ ] plugin installed and imported
@@ -2323,12 +2249,9 @@ Python Development Setup:
 * [ ] list default keybinds in nix-config
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
-
 
 ## Colors
 
-###
-
 * [ ] read documentation
 * [ ] read code
 * [ ] plugin installed and imported
@@ -2338,4 +2261,3 @@ Python Development Setup:
 * [ ] list default keybinds in nix-config
 * [ ] list custom highlight groups in nix-config
 * [ ] list custom keybinds in nix-config
-

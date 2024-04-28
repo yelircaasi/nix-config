@@ -39,7 +39,7 @@
 * [Head First JavaScript](http://library.lol/main/A61232820181DFE70011079A53F3B4F8) (PL)
 * [Head First PHP & MySQL](http://library.lol/main/DFEFF2D4706F9ED8DC162E0026281663)
 * [PHP, MySQL & JavaScript All in One, Sams Teach Yourself (6th Edition)
-            * [6 ed.]](http://libgen.rs/book/index.php?md5=FD1A045802321D7C8AB685A617971216)
+* [6 ed.]](http://libgen.rs/book/index.php?md5=FD1A045802321D7C8AB685A617971216)
 * [1000 PHP Questions & Answers](https://www.sanfoundry.com/1000-php-questions-answers/)
 * [CSS Notes For Professionals. 200+ pages of professional hints and tricks](http://libgen.rs/book/index.php?md5=CF40122BC66580E37FD3154F29DD98BE)
 * [HTML5 Notes For Professionals. 100+ pages of professional hints and tricks](http://libgen.rs/book/index.php?md5=BE760D09F10B1DAE8EE6330D9F6C9310)
@@ -56,7 +56,7 @@
 * [Coding Art: The Four Steps to Creative Programming with the Processing Language](http://library.lol/main/B18882F589820653EBBF2428F2FE8FB2)
 * https://blog.devgenius.io/inside-the-javascript-engine-bb7b9f26e84b
 * [Android Notes For Professionals. 1000+ pages of professional hints and tricks](http://libgen.rs/book/index.php?md5=91C1E5F752E104E77412E66F00750D41)
-* [Mastering Android Studio: A Beginner's Guide (Mastering Computer Science)](http://library.lol/main/23E51E37F432F9E1CE00C288310F7B55)
+* [Mastering Android Studio: A Beginner's Guide (Mastering Computer Science)
 * [Android Programming for Beginners: Build in-depth, full-featured Android apps starting from zero programming experience, 3rd Edition [3 ed](http://libgen.is/book/index.php?md5=822D59EF839F0C8643DD72D7AD0E8A04).]
 * [Computer-Netzwerke: Grundlagen, Funktionsweise, Anwendung | Harald Zisler | download](https://de1lib.org/book/2159585/bb46f9?dsource=recommend)
 * https://www.freecodecamp.org/learn/responsive-web-design/
@@ -202,8 +202,6 @@
 * http://thescholarpreneur.com/create-personal-academic-website-10-minutes/
 * http://townsendcenter.berkeley.edu/blog/personal-academic-webpages-update-how-to%E2%80%99s-and-tips-2015
 * http://www.academieroyale.be/fr/academie-royale-belgique/
-
-
 * http://www.wpbeginner.com/beginners-guide/how-to-easily-create-a-multilingual-wordpress-site/
 * https://collegeinfogeek.com/personal-website/
 * https://developers.google.com/google-apps/sites/gadgets/site_gadgets
@@ -262,8 +260,6 @@
 * https://www.freecodecamp.org/news/web-animation-performance-fundamentals/
 * https://trishalim.hashnode.dev/css-tricks-to-create-that-dark-futuristic-web3-look
 * https://trishalim.hashnode.dev/
-
-
 * https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md
 * [CTF Challenge - Web App Security Challenges](https://ctfchallenge.com/)
 * [How to Create a Responsive Homepage using Html and CSS](https://www.codingflicks.com/2020/08/how-to-create-responsive-homepage-using-html-css.html)
@@ -284,11 +280,9 @@
 * https://plausible.io/js/plausible.js
 * [Subtle, yet Beautiful Scroll Animations](https://youtu.be/T33NN_pPeNI)
 * https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md
-
 * https://developer.mozilla.org/en-US/blog/baseline-unified-view-stable-web-features/
 * [Flutter on the Web](https://flutter.dev/multi-platform/web?gclid=Cj0KCQjwpPKiBhDvARIsACn-gzA9zU-_n9uwAC-TDWq5axxb9pkUgsXQLuOlzDRFPEqUwVL6htafmDUaAiVaEALw_wcB&gclsrc=aw.ds)
-
-able columns interactive visibility: collapse
+* able columns interactive visibility: collapse
 * https://github.com/ableinc/pyreact
 * https://www.w3schools.com/html/html_table_colgroup.asp
 * https://webdesignerwall.com/trends/30-truly-interactive-websites-built-css-javascript
@@ -321,7 +315,6 @@ able columns interactive visibility: collapse
 * [Pony Foo — Web platform, JavaScript, modularity, front-end architecture, performance, and more!](https://ponyfoo.com/)
 * https://aprendiendoaprogramar.netlify.app/
 * https://namishpande.is-a.dev/
-
 * [Svelte UI Libraries Have Leveled Up](https://m.youtube.com/watch?v%3DjwRqiCv6Z9k)**
 * https://melt-ui.com/
 

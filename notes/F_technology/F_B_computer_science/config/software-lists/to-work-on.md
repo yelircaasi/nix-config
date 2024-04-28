@@ -1,7 +1,8 @@
 # To Work On
 
 ## To Modify / "Needs work"
-* (5) [***** pacgraph](https://github.com/keenerd/pacgraph) - port for Nix
+
+* (5) [ pacgraph](https://github.com/keenerd/pacgraph) - port for Nix
 * (5) [dext](https://github.com/AfzGit/dext) - install as a simple script
 * (5) [gcp](https://github.com/aelafifi/gcp) - maybe update and extend
 * (5) [process-wallpaper](https://github.com/anirudhajith/process-wallpaper) - update and modify, add to crontab using Nix
@@ -31,4 +32,3 @@
 * (5) [mdt](https://github.com/robolab-pavia/mdt) - see if this is worth updating and modifying
 * (5) [ramda-cli](https://github.com/raine/ramda-cli) - update?
 * (5) [vim-notion](https://github.com/lukeingalls/vim-notion) ([see also](https://www.notion.so/help/keyboard-shortcuts))
-

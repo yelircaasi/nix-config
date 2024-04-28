@@ -1,9 +1,11 @@
 # AI & ML Resources
 
 ## Projects
+
 * [web.archive.org/web/20200731224921/http://vandergoten.ai/2018-09-18-attention-is-all-you-need/](http://web.archive.org/web/20200731224921/http://vandergoten.ai/2018-09-18-attention-is-all-you-need/) → TYPE UP IN LATEX!!!
 
 ## To Sort
+
 * [plandex-ai/plandex](https://github.com/plandex-ai/plandex)
 * [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch)
 * [karpathy/llm.c](https://github.com/karpathy/llm.c)
@@ -14,6 +16,7 @@
 * [Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC)
 
 ### CV
+
 * [learnopencv.com/video-to-slides-converter-using-background-subtraction/](https://learnopencv.com/video-to-slides-converter-using-background-subtraction/)
 * [Documentation — Caer "2.0.8" documentation](https://caer.readthedocs.io/en/latest/)
 * [Visually Explained: Kalman Filters](https://youtu.be/IFeCIbljreY)
@@ -24,8 +27,8 @@
 * [State of the art in Image Classification in 2022](https://youtu.be/Z8Napj0fza0)
 * [learnopencv.com/image-generation-using-diffusion-models/](https://learnopencv.com/image-generation-using-diffusion-models/)
 
-
 ### NLP
+
 * [linqs.org/datasets/](https://linqs.org/datasets/)
 * [radimrehurek.com/gensim/auto_examples/tutorials/run_wmd.html](https://radimrehurek.com/gensim/auto_examples/tutorials/run_wmd.html)
 * [Reddit - My Natural Language Processing Lemma collecting Workflow with Python and Spacy - DIT](https://www.reddit.com/r/languagelearning/comments/107iabz/my_natural_language_processing_lemma_collecting/)
@@ -33,10 +36,12 @@
 * [colab.research.google.com/github/tg-bomze/collection-of-notebooks/blob/master/Natural_Language_YouTube_Searcher.ipynb](https://colab.research.google.com/github/tg-bomze/collection-of-notebooks/blob/master/Natural_Language_YouTube_Searcher.ipynb)
 
 ### SP
+
 * [Map of landscape](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F431544009%2F132009722546%2F1%2Foriginal.20230124-225358?h=2000&w=720&auto=format%2Ccompress&q=75&sharp=10&s=47237a685ce0ef6316e6e71f1c0817a7)
 * [wenet-e2e/wenet](https://github.com/wenet-e2e/wenet)
 
 ## Top Resources and Tools
+
 * [dagshub.com/](https://dagshub.com/) - look at, read docs
 * Education and Fundamentals
 * [deepai.org/definitions](https://deepai.org/definitions)
@@ -45,6 +50,7 @@
 * [deepai.org/research](https://deepai.org/research)
 
 ## Notes on learning, Ultralearn series
+
 * [How To “Ultralearn” Data Science — Part 2](https://medium.com/better-programming/how-to-ultralearn-data-science-part-2-9138f5f73456)
 * [How To “Ultralearn” Data Science — Part 1](https://medium.com/better-programming/how-to-ultralearn-data-science-part-1-92e143b7257b)
 * [kdnuggets.com/2019/12/ultralearn-data-science-optimization-learning-part3.html](https://www.kdnuggets.com/2019/12/ultralearn-data-science-optimization-learning-part3.html)
@@ -52,13 +58,16 @@
 * [kdnuggets.com/2019/12/ultralearn-data-science-summary.html](https://www.kdnuggets.com/2019/12/ultralearn-data-science-summary.html)
 
 ## Orgs
+
 * [tangramvision.com/blog](https://www.tangramvision.com/blog)
 * [Context by Cohere](https://txt.cohere.ai/)
 * [We Are Conjecture, A New Alignment Research Startup — LessWrong](https://www.lesswrong.com/posts/jfq2BH5kfQqu2vYv3/we-are-conjecture-a-new-alignment-research-startup)
-* [titanml/takeoff](https://github.com/titanml/takeoff)    * [openai.com/blog/](https://openai.com/blog/)
+* [titanml/takeoff](https://github.com/titanml/takeoff)
+* [openai.com/blog/](https://openai.com/blog/)
 * [determined.ai/](https://www.determined.ai/)   [docs.determined.ai/latest/index.html](https://docs.determined.ai/latest/index.html)
 
 ## General Notes
+
 * [Stanford NLP](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 * [cs229.stanford.edu/notes/](http://cs229.stanford.edu/notes/)
 * [cs231n.github.io/](http://cs231n.github.io/)
@@ -75,24 +84,24 @@
 * [ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 * [ufldl.stanford.edu/wiki/index.php/UFLDL_Recommended_Readings](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Recommended_Readings)
 
-
 ## Cheatsheets, Glossaries, Wikis, FAQ
-* [data science glossary](http://datascienceglossary.org/) ***
+
+* [data science glossary](http://datascienceglossary.org/) 
 * [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 * [Cheat Sheets](https://www.datasciencecentral.com/page/search?q=cheat+sheets)
-* [wiki.pathmind.com/](https://wiki.pathmind.com/) AI Wiki
-    *[CS 229 - Probabilities and Statistics refresherWould you like to see this cheatsheet in your native language? You can help us translating it on GitHub! By Afshine…stanford.edu](https://stanford.edu/~shervine/teaching/cs-229/refresher-probabilities-statistics)*
+* [wiki.pathmind.com/](https://wiki.pathmind.com/) AI Wiki    *[CS 229 - Probabilities and Statistics refresherWould you like to see this cheatsheet in your native language? You can help us translating it on GitHub! By Afshine…stanford.edu](https://stanford.edu/~shervine/teaching/cs-229/refresher-probabilities-statistics)*
 * [developers.google.com/machine-learning/glossary/](https://developers.google.com/machine-learning/glossary/)
 * [Data Science Glossary - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/data-science-glossary)
 * [Glossary of artificial intelligence - Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence)
-* [Guides universels de machine learning | Google Developers](https://developers.google.com/machine-learning/guides)
-    *CS 230 - Recurrent Neural Networks Cheatsheet
+* [Guides universels de machine learning | Google Developers](https://developers.google.com/machine-learning/guides)    *CS 230 - Recurrent Neural Networks Cheatsheet
 * [Machine Learning FAQ](https://sebastianraschka.com/faq/index.html)
 * [svai.gitbook.io/research-to-the-people/ai-fundamentals/untitled](https://svai.gitbook.io/research-to-the-people/ai-fundamentals/untitled)
 * [Cheat Sheets](https://www.datacamp.com/community/data-science-cheatsheets)
 
 ## Courses / Tutorials
-* [sbme-tutorials.github.io/](https://sbme-tutorials.github.io/)    * [Lecture: Self-Driving Cars (Winter 2021/22, Uni Bonn)](https://www.youtube.com/watch?v=EBFlmHqgezM&list=PLgnQpQtFTOGQo2Z_ogbonywTg8jxCI9pD)
+
+* [sbme-tutorials.github.io/](https://sbme-tutorials.github.io/)
+* [Lecture: Self-Driving Cars (Winter 2021/22, Uni Bonn)](https://www.youtube.com/watch?v=EBFlmHqgezM&list=PLgnQpQtFTOGQo2Z_ogbonywTg8jxCI9pD)
 * [NN Vids RU (10 min)](https://t.me/bfbook/2666?single)
 * [srush/Tensor-Puzzles](https://github.com/srush/Tensor-Puzzles)
 * [freecodecamp.org/news/harvard-cs50s-ai-python-course](https://www.freecodecamp.org/news/harvard-cs50s-ai-python-course)
@@ -100,21 +109,41 @@
 * [Mathematics of Deep Learning Overview | AISC.. — Відео](https://vk.com/video-138477641_456242466)
 * [Learn [AI] Deep Learning from Scratch](https://www.youtube.com/watch?v=szqzG-jtiBk&list=PLiWcnsSmNaTfH3bYlTTKwR7LcHFWplKN5)
 * [en.wikipedia.org/wiki/Template:Machine_learning](https://en.wikipedia.org/wiki/Template:Machine_learning)
-* [kaggle.com/learn](https://www.kaggle.com/learn)    * [Machine Learning Algorithms For Beginners with Code Examples in Python | by Towards AI Team | Towards AI](https://pub.towardsai.net/machine-learning-algorithms-for-beginners-with-python-code-examples-ml-19c6afd60daa)    * [Machine Learning 10-701/15-781 Spring 2011](http://www.cs.cmu.edu/%7Etom/10701_sp11/)
+* [kaggle.com/learn](https://www.kaggle.com/learn)
+* [Machine Learning Algorithms For Beginners with Code Examples in Python | by Towards AI Team | Towards AI](https://pub.towardsai.net/machine-learning-algorithms-for-beginners-with-python-code-examples-ml-19c6afd60daa)
+* [Machine Learning 10-701/15-781 Spring 2011](http://www.cs.cmu.edu/%7Etom/10701_sp11/)
 * [Deep-Learning-Tensorflow](https://github.com/huseinzol05/Deep-Learning-Tensorflow)
 * [Neural Networks Questions and Answers](https://www.sanfoundry.com/1000-neural-networks-questions-answers/)
 * [end-to-end-machine-learning.teachable.com/](https://end-to-end-machine-learning.teachable.com/) **
-* [cambridgespark.com/info/neural-networks-in-python](https://www.cambridgespark.com/info/neural-networks-in-python)    * [freecodecamp.org/news/tag/pytorch/](https://www.freecodecamp.org/news/tag/pytorch/)
+* [cambridgespark.com/info/neural-networks-in-python](https://www.cambridgespark.com/info/neural-networks-in-python)
+* [freecodecamp.org/news/tag/pytorch/](https://www.freecodecamp.org/news/tag/pytorch/)
 * [130 ML Tricks And Resources Curated Carefully From 3 Years (Plus Free eBook) | by Bex T. | Aug, 2023 | Towards Data Science](https://towardsdatascience.com/130-ml-tricks-and-resources-curated-carefully-from-3-years-plus-free-ebook-7832ca4a37ef)
-* [deeplearning.mit.edu/](https://deeplearning.mit.edu/)     * [crème de la crème of AI courses](https://github.com/SkalskiP/courses)
+* [deeplearning.mit.edu/](https://deeplearning.mit.edu/)
+* [crème de la crème of AI courses](https://github.com/SkalskiP/courses)
 * [CS25 I Stanford Seminar - Transformers United 2023: Introduction to Transformers w/ Andrej Karpathy - YouTube](https://www.youtube.com/watch?v=XfpMkf4rD6E)
-* [Massachusetts Institute of Technology: Machine Learning with Python: from Linear Models to Deep Learning | edX](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to)    * [Machine Learning (Stanford University)](https://www.freecodecamp.org/news/best-machine-learning-courses/#1-machine-learning-stanford-university-)    * [Machine Learning Foundations: A Case Study Approach (University of Washington)](https://www.freecodecamp.org/news/best-machine-learning-courses/#2-machine-learning-foundations-a-case-study-approach-university-of-washington-)    * [Machine Learning for All (University of London)](https://www.freecodecamp.org/news/best-machine-learning-courses/#3-machine-learning-for-all-university-of-london-)    * [Machine Learning with Python (IBM)](https://www.freecodecamp.org/news/best-machine-learning-courses/#4-machine-learning-with-python-ibm-)    * [Machine Learning (Georgia Tech)](https://www.freecodecamp.org/news/best-machine-learning-courses/#5-machine-learning-georgia-tech-)    * [Machine Learning Crash Course with TensorFlow APIs (Google)](https://www.freecodecamp.org/news/best-machine-learning-courses/#6-machine-learning-crash-course-with-tensorflow-apis-google-)    * [Machine Learning A-Z: Hands-On Python & R In Data Science (Udemy)](https://www.freecodecamp.org/news/best-machine-learning-courses/#7-machine-learning-a-z-hands-on-python-r-in-data-science)    * [Introduction to Machine Learning in Production (DeepLearning.AI)](https://www.freecodecamp.org/news/best-machine-learning-courses/#8-introduction-to-machine-learning-in-production-deeplearning-ai-)    * [Python for Data Science and Machine Learning Bootcamp (Udemy)](https://www.freecodecamp.org/news/best-machine-learning-courses/#9-python-for-data-science-and-machine-learning-bootcamp)    * [Machine Learning for Musicians and Artists (Goldsmith)](https://www.freecodecamp.org/news/best-machine-learning-courses/#10-machine-learning-for-musicians-and-artists-goldsmith-)    * [ipvs.informatik.uni-stuttgart.de/mlr/teaching/practical-course-robotics-ws2122/](https://ipvs.informatik.uni-stuttgart.de/mlr/teaching/practical-course-robotics-ws2122/)    * [ipvs.informatik.uni-stuttgart.de/mlr/teaching/mathematics-for-intelligent-systems/](https://ipvs.informatik.uni-stuttgart.de/mlr/teaching/mathematics-for-intelligent-systems/)    * [ipvs.informatik.uni-stuttgart.de/mlr/teaching/maths/](https://ipvs.informatik.uni-stuttgart.de/mlr/teaching/maths/)    * [cs229.stanford.edu/syllabus.html](http://cs229.stanford.edu/syllabus.html)    * [ipvs.informatik.uni-stuttgart.de/mlr/basic-maths-reference/](https://ipvs.informatik.uni-stuttgart.de/mlr/basic-maths-reference/)
+* [Massachusetts Institute of Technology: Machine Learning with Python: from Linear Models to Deep Learning | edX](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to)
+* [Machine Learning (Stanford University)](https://www.freecodecamp.org/news/best-machine-learning-courses/#1-machine-learning-stanford-university-)
+* [Machine Learning Foundations: A Case Study Approach (University of Washington)](https://www.freecodecamp.org/news/best-machine-learning-courses/#2-machine-learning-foundations-a-case-study-approach-university-of-washington-)
+* [Machine Learning for All (University of London)](https://www.freecodecamp.org/news/best-machine-learning-courses/#3-machine-learning-for-all-university-of-london-)
+* [Machine Learning with Python (IBM)](https://www.freecodecamp.org/news/best-machine-learning-courses/#4-machine-learning-with-python-ibm-)
+* [Machine Learning (Georgia Tech)](https://www.freecodecamp.org/news/best-machine-learning-courses/#5-machine-learning-georgia-tech-)
+* [Machine Learning Crash Course with TensorFlow APIs (Google)](https://www.freecodecamp.org/news/best-machine-learning-courses/#6-machine-learning-crash-course-with-tensorflow-apis-google-)
+* [Machine Learning A-Z: Hands-On Python & R In Data Science (Udemy)](https://www.freecodecamp.org/news/best-machine-learning-courses/#7-machine-learning-a-z-hands-on-python-r-in-data-science)
+* [Introduction to Machine Learning in Production (DeepLearning.AI)](https://www.freecodecamp.org/news/best-machine-learning-courses/#8-introduction-to-machine-learning-in-production-deeplearning-ai-)
+* [Python for Data Science and Machine Learning Bootcamp (Udemy)](https://www.freecodecamp.org/news/best-machine-learning-courses/#9-python-for-data-science-and-machine-learning-bootcamp)
+* [Machine Learning for Musicians and Artists (Goldsmith)](https://www.freecodecamp.org/news/best-machine-learning-courses/#10-machine-learning-for-musicians-and-artists-goldsmith-)
+* [ipvs.informatik.uni-stuttgart.de/mlr/teaching/practical-course-robotics-ws2122/](https://ipvs.informatik.uni-stuttgart.de/mlr/teaching/practical-course-robotics-ws2122/)
+* [ipvs.informatik.uni-stuttgart.de/mlr/teaching/mathematics-for-intelligent-systems/](https://ipvs.informatik.uni-stuttgart.de/mlr/teaching/mathematics-for-intelligent-systems/)
+* [ipvs.informatik.uni-stuttgart.de/mlr/teaching/maths/](https://ipvs.informatik.uni-stuttgart.de/mlr/teaching/maths/)
+* [cs229.stanford.edu/syllabus.html](http://cs229.stanford.edu/syllabus.html)
+* [ipvs.informatik.uni-stuttgart.de/mlr/basic-maths-reference/](https://ipvs.informatik.uni-stuttgart.de/mlr/basic-maths-reference/)
 * [1000 Hadoop Questions](https://www.sanfoundry.com/1000-hadoop-questions-answers/)
 * [Data Science Questions and Answers](https://www.sanfoundry.com/1000-data-science-questions-answers/)
 * [Oracle Database Questions and Answers](https://www.sanfoundry.com/1000-oracle-database-questions-answers/)
 * [Hadoop Questions and Answers](https://www.sanfoundry.com/1000-hadoop-questions-answers/)
 * [postgresqltutorial.com](https://www.postgresqltutorial.com/)
-* [neptune.ai/blog/how-to-learn-machine-learning](https://neptune.ai/blog/how-to-learn-machine-learning)    * [homepages.inf.ed.ac.uk/rbf/CVonline/](https://homepages.inf.ed.ac.uk/rbf/CVonline/)
+* [neptune.ai/blog/how-to-learn-machine-learning](https://neptune.ai/blog/how-to-learn-machine-learning)
+* [homepages.inf.ed.ac.uk/rbf/CVonline/](https://homepages.inf.ed.ac.uk/rbf/CVonline/)
 * [IR Course Page - materials](http://csci572.com/2020Spring/texts.html)
 * [DEEP LEARNING НА ПАЛЬЦАХ](https://dlcourse.ai/)
 * [Apprentissage automatique - Université de Sherbrooke](https://www.youtube.com/watch?v=GROvIr2GGcc&list=PL6Xpj9I5qXYFD_rc1tttugXLfE2TcKyiO)
@@ -129,8 +158,7 @@
 * [CS234: Reinforcement Learning Winter 2019](http://web.stanford.edu/class/cs234/schedule.html)
 * [CS294-158-SP20 Deep Unsupervised Learning Spring 2020](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
 * [Multilinear Systems and Invariant Theory](https://www.cs.huji.ac.il/w~shashua/cs329.html)
-* [Tensor Methods](https://www.cs.huji.ac.il/w~shashua/papers/ICML07-Tutorial.pdf)
-    ****[Course Progression - Deep Learning Wizard](https://www.deeplearningwizard.com/deep_learning/course_progression/)
+* [Tensor Methods](https://www.cs.huji.ac.il/w~shashua/papers/ICML07-Tutorial.pdf)    [Course Progression - Deep Learning Wizard](https://www.deeplearningwizard.com/deep_learning/course_progression/)
 * [The mostly complete chart of Neural Networks, explained](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
 * [18. CS224N Natural Language Processing with Deep Learning — Stanford](http://web.stanford.edu/class/cs224n/)
 * [19. CS231n: Convolutional Neural Networks for Visual Recognition — Stanford](http://cs231n.stanford.edu/2017/)
@@ -152,13 +180,13 @@
 * [iamtrask/Grokking-Deep-Learning/](https://github.com/iamtrask/Grokking-Deep-Learning/)
 * [NN Playlist (Sebastian Lague)](https://www.youtube.com/playlist?list=PLFt_AvWsXl0frsCrmv4fKfZ2OQIwoUuYO)
 * [Stanford University CS224d: Deep Learning for Natural Language Processing](https://cs224d.stanford.edu/syllabus.html)
-* [Statistics 36-462/662: Data Mining (Fall 2019)](http://www.stat.cmu.edu/~cshalizi/dm/19/)
-* [Statistics 36-462/662: Data Mining (Fall 2019)](http://www.stat.cmu.edu/~cshalizi/dm/19/)
-* [Understanding Machine Learning (with solution manual)](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
+* [Statistics 36-462/662: Data Mining (Fall 2019)
+* [Statistics 36-462/662: Data Mining (Fall 2019)
+* [Understanding Machine Learning (with solution manual)
 * [Машинное обучение. Часть 1](http://www.intsys.msu.ru/staff/mironov/machine_learning_vol1.pdf)
-* [Методы и системы обработки больших данных](https://www.lektorium.tv/course/30090)
-    - **Ammon Shashua
-    - **Machine Learning | Coursera
+* [Методы и системы обработки больших данных](https://www.lektorium.tv/course/30090$1
+    * **Ammon Shashu$1
+    * **Machine Learning | Coursera
 * [10. Applied Data Science with Python — UMich](https://online.umich.edu/series/applied-data-science-with-python/)
 * [11. Statistics with R Specialization — Duke University](https://www.coursera.org/specializations/statistics)
 * [12. SQL for Data Science — UC Davis](https://www.coursera.org/learn/sql-for-data-science?)
@@ -210,10 +238,10 @@
 * [Topics in Natural Language Processing](https://www.cs.bgu.ac.il/~elhadad/nlp19.html)
 * [Toronto Intro to Neural Networks and Machine Learning](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/)
 * [Une introduction aux sciences des données](https://mathematical-tours.github.io/book-basics-sources/IntroImaging-FR.pdf)
-* [Машинное обучение (курс лекций, К.В.Воронцов)](http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%28%D0%BA%D1%83%D1%80%D1%81_%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9%2C_%D0%9A.%D0%92.%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%29)
-    - *CS 224N | Home
-    - *Topics in Mathematics of Data Science | Mathematics | MIT OpenCourseWare
-    - *Topics in Mathematics of Data Science Lecture Notes
+* [Машинное обучение (курс лекций, К.В.Воронцов)
+    * *CS 224N | Hom$1
+    * *Topics in Mathematics of Data Science | Mathematics | MIT OpenCourseWar$1
+    * *Topics in Mathematics of Data Science Lecture Notes
 * [1. CS109 Data Science](http://cs109.github.io/2015/pages/videos.html)
 * [10.  Data Mining bu University of Buffalo](https://cedar.buffalo.edu/~srihari/CSE626/index.html?fbclid=IwAR3XZ50uSZAb3u5BP1Qz68x13_xNEH8EdEBQC9tmGEp1BoxLNpZuBCtfMSE)
 * [67577 fall 2008 course webpage](https://www.cse.huji.ac.il/~shashua/iml08.html)
@@ -240,16 +268,14 @@
 * [Srihari Neuro-Symbolic AI](https://cedar.buffalo.edu/~srihari/CSE701/index.html)
 * [Srihari Pattern Recognition](https://cedar.buffalo.edu/~srihari/CSE555/index.html)
 * [Human Computer Interaction (HCI)
-            * [FULL COURSE] | Stanford University](https://www.youtube.com/playlist?list=PLLssT5z_DsK_nusHL_Mjt87THSTlgrsyJ)
+* [FULL COURSE] | Stanford University](https://www.youtube.com/playlist?list=PLLssT5z_DsK_nusHL_Mjt87THSTlgrsyJ)
 * [Mining Massive Datasets - Stanford University [FULL COURSE]](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)
 * [Index of /~martinez/classes/478](http://axon.cs.byu.edu/~martinez/classes/478/)
 * [Intro to Machine Learning and Artificial Intelligence – Build Smart. Build Secure. IBM Developer](https://developer.ibm.com/series/intro-to-machine-learning-and-artificial-intelligence/)
 * [Learning path: Data analysis using Python – Build Smart. Build Secure. IBM Developer](https://developer.ibm.com/series/learning-path-data-analysis-using-python/)
 * [Learning path: Get started with machine learning – Build Smart. Build Secure. IBM Developer](https://developer.ibm.com/series/learning-path-machine-learning-for-developers/)
 * [Learning path: Get started with Watson Machine Learning Accelerator – Build Smart. Build Secure. IBM Developer](https://developer.ibm.com/series/learning-path-get-started-with-watson-machine-learning-accelerator/)
-* [toptal.com/machine-learning/introduccion-a-la-teoria-de-aprendizaje-de-maquina-y-sus-aplicaciones-un-tutorial-visual-con-ejemplos](https://www.toptal.com/machine-learning/introduccion-a-la-teoria-de-aprendizaje-de-maquina-y-sus-aplicaciones-un-tutorial-visual-con-ejemplos)
-    *DATA 1010 - Probability, Statistics, and Machine Learning
-    *Scipy Lecture Notes — Scipy lecture notes
+* [toptal.com/machine-learning/introduccion-a-la-teoria-de-aprendizaje-de-maquina-y-sus-aplicaciones-un-tutorial-visual-con-ejemplos](https://www.toptal.com/machine-learning/introduccion-a-la-teoria-de-aprendizaje-de-maquina-y-sus-aplicaciones-un-tutorial-visual-con-ejemplos)    *DATA 1010 - Probability, Statistics, and Machine Learning    *Scipy Lecture Notes — Scipy lecture notes
 * [nthu-datalab.github.io/ml/](https://nthu-datalab.github.io/ml/)
 * [13. Machine Learning Crash Course — Google](https://developers.google.com/machine-learning/crash-course/ml-intro)
 * [4. Mathematics for Machine Learning by University of California, Berkeley](https://gwthomas.github.io/docs/math4ml.pdf?fbclid=IwAR2UsBgZW9MRgS3nEo8Zh_ukUFnwtFeQS8Ek3OjGxZtDa7UxTYgIs_9pzSI)
@@ -270,7 +296,8 @@
 * [stanford.edu/~shervine/teaching/cs-230/](https://stanford.edu/~shervine/teaching/cs-230/)
 * [cs.upc.edu/~mmartin/DM.htm](https://www.cs.upc.edu/~mmartin/DM.htm)
 * [coursera.org/deeplearning-ai](https://www.coursera.org/deeplearning-ai)
-* [](https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)    * [](https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)    * [Data Analysis w/ Python 3 and Pandas](https://www.youtube.com/watch?v=nLw1RNvfElg&list=PLQVvvaa0QuDfSfqQuee6K8opKtZsh7sA9)
+* [...](https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
+* [Data Analysis w/ Python 3 and Pandas](https://www.youtube.com/watch?v=nLw1RNvfElg&list=PLQVvvaa0QuDfSfqQuee6K8opKtZsh7sA9)
 * [Natural Language Processing (NPL) | Coursera](https://www.coursera.org/learn/language-processing?action=enroll)
 * [edx.org/course/algorithmic-design-techniques-uc-san-diegox-algs200x](https://www.edx.org/course/algorithmic-design-techniques-uc-san-diegox-algs200x)
 * [edx.org/course/data-structures-uc-san-diegox-algs201x](https://www.edx.org/course/data-structures-uc-san-diegox-algs201x)
@@ -313,8 +340,8 @@
 * [yandexdataschool/Practical_DL: DL course co-developed by YSDA, HSE and Skoltech](https://github.com/yandexdataschool/Practical_DL)
 * [slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_shares%3Ba1Vq7AYlTOmwFz%2FVvzR2wA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base_recent_activity_details_shares-object](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_shares%3Ba1Vq7AYlTOmwFz%2FVvzR2wA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base_recent_activity_details_shares-object)
 * [courses/deeplearning1/nbs at master · fastai/courses · GitHub](https://github.com/fastai/courses/tree/master/deeplearning1/nbs)
-* [fastai/courses/tree/master/deeplearning1/nbs](https://github.com/fastai/courses/tree/master/deeplearning1/nbs)
-    - **** Courses Toronto
+* [fastai/courses/tree/master/deeplearning1/nbs](https://github.com/fastai/courses/tree/master/deeplearning1/nbs$1
+    *  Courses Toronto
 * [cs.cornell.edu/courses/cs4780/2018fa/](https://www.cs.cornell.edu/courses/cs4780/2018fa/)
 * [coursera.org/learn/machine-learning](https://www.coursera.org/learn/machine-learning)
 * [Google Cloud Platform Big Data and Machine Learning Fundamentals auf Deutsch | Coursera](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-de)
@@ -322,8 +349,8 @@
 * [software.intel.com/en-us/ai/courses/machine-learning](https://software.intel.com/en-us/ai/courses/machine-learning)
 * [developers.google.com/machine-learning/crash-course/](https://developers.google.com/machine-learning/crash-course/)
 * [lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
-* [dlcourse.ims.uni-stuttgart.de/](https://dlcourse.ims.uni-stuttgart.de/)
-    - ****Course Progression - Deep Learning Wizard
+* [dlcourse.ims.uni-stuttgart.de/](https://dlcourse.ims.uni-stuttgart.de/$1
+    *  Course Progression - Deep Learning Wizard
 * [ocw.mit.edu/courses/economics/14-15j-networks-fall-2009/lecture-notes/](https://ocw.mit.edu/courses/economics/14-15j-networks-fall-2009/lecture-notes/)
 * [enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning: Advanced Deep Learning and Reinforcement Learning course taught at UCL in partnership with Deepmind](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning)
 * [coursera.org/learn/machine-learning/home/welcome](https://www.coursera.org/learn/machine-learning/home/welcome)
@@ -348,13 +375,14 @@
 * [ai.stanford.edu/~syyeung/cvweb/tutorials.html](https://ai.stanford.edu/~syyeung/cvweb/tutorials.html)
 * [Aprendizaje de Máquina](http://dis.unal.edu.co/~fgonza/courses/2007-I/ml/)
 * [Apprentissage Automatique Cours 1: Apprentissage de Concepts](http://www.cril.univ-artois.fr/~koriche/Apprentissage2013-Partie1.pdf)
-* [Apprentissage artificiel***](http://197.14.51.10:81/pmb/INFORMATIQUE/rentissage_artificiel_-__Nouvellebiblio.com_.pdf)
+* [Apprentissage artificiel](http://197.14.51.10:81/pmb/INFORMATIQUE/rentissage_artificiel_-__Nouvellebiblio.com_.pdf)
 * [Deep Learning UC Berkeley STAT-157 2019](https://youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
 * [lectures.quantecon.org/](https://lectures.quantecon.org/)
 * [Data Structures | edX](https://www.edx.org/course/data-structures-uc-san-diegox-algs201x)
 
 ## Media / People
-* [atcold.github.io/](https://atcold.github.io/) ***
+
+* [atcold.github.io/](https://atcold.github.io/) 
 * [blog.floydhub.com/](https://blog.floydhub.com/)
 * [research.google/people/](https://research.google/people/)
 * [nlpnewsletter.substack.com/](https://nlpnewsletter.substack.com/)
@@ -362,14 +390,15 @@
 * [gradientflow.substack.com/](https://gradientflow.substack.com/)
 * [adeshpande3.github.io/](https://adeshpande3.github.io/)
 * [tanmay bakshi - YouTube](https://www.youtube.com/channel/UCqufIGIYauviVaKyJUzKvQw)
-* [lastweekin.ai/](https://lastweekin.ai/)    * [Adventures in Machine Learning – Get ready for your machine learning adventures](https://adventuresinmachinelearning.com/)
-* [](https://michalmalyska.github.io/index.html)
+* [lastweekin.ai/](https://lastweekin.ai/)
+* [Adventures in Machine Learning – Get ready for your machine learning adventures](https://adventuresinmachinelearning.com/)
+* [...](https://michalmalyska.github.io/index.html)
 * [song921012.github.io/#indexCard](https://song921012.github.io/#indexCard)
 * [10 best MLOps Podcasts](https://podcasts.feedspot.com/mlops_podcasts/?feedid=5630756)
 * [en.wikipedia.org/wiki/Joscha_Bach](https://en.wikipedia.org/wiki/Joscha_Bach)
 * [emtiyaz.github.io/](https://emtiyaz.github.io/)
 * [thorsten-voice.de/](https://www.thorsten-voice.de/)
-* [](https://www.youtube.com/@AndrejKarpathy)
+* [video](https://www.youtube.com/@AndrejKarpathy)
 * [NLP4SG](https://nlp4sg.vercel.app/)
 * [100 Best Machine Learning Blogs To Read in 2023 (ML Blogs)](https://blog.feedspot.com/machine_learning_blogs/)
 * [30 Must-Subscribe Data and AI Newsletters in 2023 | by Benedict Neo | Towards Data Science](https://towardsdatascience.com/20-must-subscribe-data-and-ai-newsletters-in-2021-7c5ddb9b3c19)
@@ -377,13 +406,16 @@
 * [Home of AI and Artificial Intelligence News | AI Magazine](https://aimagazine.com/)
 * [Top 10 Artificial Intelligence News Websites | AI Magazine](https://aimagazine.com/technology/top-10-artificial-intelligence-news-websites)
 * [best sites for machine learning news at DuckDuckGo](https://duckduckgo.com/?q=best+sites+for+machine+learning+news&ia=web)
-* [](https://www.youtube.com/@unifyai)
+* [video](https://www.youtube.com/@unifyai)
 * [Machine Learning - KDnuggets](https://www.kdnuggets.com/tag/machine-learning)
 * [Machine Learning | heise online](https://www.heise.de/thema/Machine-Learning)
 * [Machine Learning News - SciTechDaily](https://scitechdaily.com/tag/machine-learning/)
 * [Machine learning - Latest research and news | Nature](https://www.nature.com/subjects/machine-learning)
 * [Intelligenza artificiale: come sta riscrivendo le regole dell'informatica | Wired Italia](https://www.wired.it/article/intelligenza-artificiale-informatica-github-codice/)
-* [](https://www.youtube.com/user/andrewyantakng/feed)    * [](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)    * [](https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg/featured)    * [](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw)    * [](https://www.youtube.com/c/KGMIT/featured)    * [](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)    * [](https://mlcontests.com/)
+* [...](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
+* [...](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw)
+* [...](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+* [...](https://mlcontests.com/)
 * Yann Kerninon
 * [dtransposed.github.io/](https://dtransposed.github.io/)
 * [Staab teaching history (with materials)](https://west.uni-koblenz.de/about-us/team/steffen-staab)
@@ -394,7 +426,7 @@
 * [cse.wustl.edu/~yixin.chen/](https://www.cse.wustl.edu/~yixin.chen/)
 * [kushalj001.github.io/black-box-ml/](https://kushalj001.github.io/black-box-ml/)
 * [ouaguenouni-hachemi.medium.com/](https://ouaguenouni-hachemi.medium.com/)
-* [](https://www.youtube.com/c/codebasics/playlists)
+* [video](https://www.youtube.com/c/codebasics/playlists)
 * [Blog - Sourabh](https://sourabhbajaj.com/blog/)
 * [Alessandro La Corte | LinkedIn](https://www.linkedin.com/in/alessandrolacorte/)
 * [Andreas Fischer | LinkedIn](https://www.linkedin.com/in/andreasfischer85/?originalSubdomain=de)
@@ -412,18 +444,19 @@
 * [Victor Lavrenko - YouTube](https://www.youtube.com/channel/UCs7alOMRnxhzfKAJ4JjZ7Wg)
 * [dataquest.io/blog/](https://www.dataquest.io/blog/)
 
-
 ## Podcast 1s
+
 * [ML Street Talk with Chomsky](https://www.youtube.com/watch?v=axuGfh4UR9Q)
 * [thegradient.pub/how-aristotle-is-fixing-deep-learnings-flaws/](https://thegradient.pub/how-aristotle-is-fixing-deep-learnings-flaws/)
 * News AI #1: MMS Meta // Falcon // Gorilla
 * [lexfridman.com/joscha-bach/](https://lexfridman.com/joscha-bach/)
-* [AC Interview - Christof Koch](https://open.spotify.com/episode/0Pwwlnp6m0oNIZHspK2U1t?si=6lX9AlHTQMe-PPoXN7IcVw)    * [George Hotz vs Eliezer Yudkowsky AI Safety Debate](https://www.youtube.com/live/6yQEA18C-XI?feature=share)
+* [AC Interview - Christof Koch](https://open.spotify.com/episode/0Pwwlnp6m0oNIZHspK2U1t?si=6lX9AlHTQMe-PPoXN7IcVw)
+* [George Hotz vs Eliezer Yudkowsky AI Safety Debate](https://www.youtube.com/live/6yQEA18C-XI?feature=share)
 
 ## Organizations, Institutions, Businesses
-* [lets-unify.ai/docs/ivy/overview/contributing.html](https://lets-unify.ai/docs/ivy/overview/contributing.html)
 
-→ [Ivy](https://discord.com/channels/799879767196958751/983684937712558080/990382801721368576)
+* [lets-unify.ai/docs/ivy/overview/contributing.html](https://lets-unify.ai/docs/ivy/overview/contributing.html)
+* → [Ivy](https://discord.com/channels/799879767196958751/983684937712558080/990382801721368576)
 * [explosion.ai/](https://explosion.ai/)
 * [rasa.com/](https://rasa.com/)
 * [deci.ai/](https://deci.ai/)
@@ -431,8 +464,8 @@
 * [curiosity.ai/](https://curiosity.ai/)
 * [Ivy](https://lets-unify.ai/) ([Discord](https://discord.com/channels/799879767196958751/933380895358988288)) ([email](https://mail.google.com/mail/u/0/#section_query/in%3Ainbox/FMfcgzGsltQMvqVBrVtPHzJdxlxFtsWV))
 
-
 ## Gen Resource Sites
+
 * [storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf)
 * [gbosquechacon/deepmind_athomewithai](https://github.com/gbosquechacon/deepmind_athomewithai)
 * [kdnuggets.com/2020/05/deepmind-suggested-resources-learning-ai.html](https://www.kdnuggets.com/2020/05/deepmind-suggested-resources-learning-ai.html)
@@ -441,17 +474,19 @@
 * [r/datascience/wiki/resources](https://www.reddit.com/r/datascience/wiki/resources)
 
 ## Courses
+
 * [Julia ML Course](https://bio322.epfl.ch/)
 * [Fall 2015 Machine Learning](https://www.youtube.com/playlist?list=PLUenpfvlyoa0rMoE5nXA8kdctBKE9eSob)
 * [Statistical Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e)
 
 ## Publications
+
 * JMLR
 * [jmlr.org/](https://www.jmlr.org/)
 * [arxiv.org/list/cs.NE/recent](https://arxiv.org/list/cs.NE/recent)
 
-
 ## Docs
+
 * TensorFlow Docs
 * PyTorch Docs
 * MXNet Docs
@@ -495,19 +530,17 @@
 * [DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit)
 * [daquexian/onnx-simplifier](https://github.com/daquexian/onnx-simplifier)
 
-
 ## Repos
+
 * [emmettgb/Emmetts-DS-NoteBooks](https://github.com/emmettgb/Emmetts-DS-NoteBooks)
 
-
 ## Media / Blogs / People
+
 * [thegradientpub.substack.com/](https://thegradientpub.substack.com/)
 * [marktechpost.com/](https://www.marktechpost.com/)
 * [readme](https://github.com/readme)
 * [devopedia.org/](https://devopedia.org/)
 * [neurohive.io/ru/](https://neurohive.io/ru/)
-
-
 * Research Debt
 * [neptune.ai/blog](https://neptune.ai/blog)
 * [hashnode.com/community](https://hashnode.com/community)
@@ -542,19 +575,19 @@
 * [dataaspirant.com](https://dataaspirant.com/)
 * [research.google/teams/brain/pair/](https://research.google/teams/brain/pair/)
 
-
 ## *Blogs - DataFlair
+
 * [Analytics - inovex Blog](https://www.inovex.de/blog/category/analytics/)
 * [Atomic Spin](https://spin.atomicobject.com/)
 * [GDCoder](https://gdcoder.com/)
 * [Colleen Farrelly, Data scientist at Jenzabar | SlideShare](https://www.slideshare.net/colleenfarrelly)
 * [peltarion.com/blog](https://peltarion.com/blog)
 * [Machine Learning & Simulation](https://www.youtube.com/channel/UCh0P7KwJhuQ4vrzc3IRuw4Q)
-* [](https://www.youtube.com/c/SebastianRaschka/playlists)
+* [video](https://www.youtube.com/c/SebastianRaschka/playlists)
 * [jeremyjordan.me/](https://www.jeremyjordan.me/)
 
-
 ## Podcasts
+
 * [thegradientpub.substack.com/s/podcast](https://thegradientpub.substack.com/s/podcast)
 * [gradientflow.substack.com/archive](https://gradientflow.substack.com/archive)
 * [r/datascience/wiki/resources](https://www.reddit.com/r/datascience/wiki/resources)
@@ -654,10 +687,10 @@
 * [dotNETpodcast](https://www.listennotes.com/podcasts/dotnetpodcast-dotnetpodcast-0l2L4mZRFiE/)
 * [Information Technology Drink](https://www.listennotes.com/podcasts/information-technology-drink-radio-it-JVvW68TqlSg/)
 
-
 ## YouTube
+
 * [PapersWeLove](https://www.youtube.com/@PapersWeLove)
-* [](https://www.youtube.com/@MachineLearningStreetTalk)
+* [video](https://www.youtube.com/@MachineLearningStreetTalk)
 * [Sam Witteveen](https://www.youtube.com/@samwitteveenai/playlists)
 * [Maziar Raissi](https://www.youtube.com/@maziarraissi3569/videos)
 * [SpringBoard](https://www.youtube.com/channel/UCqd6TofKNjqagInm5Waeu7w)
@@ -667,13 +700,13 @@
 * [Machine Learning TV](https://www.youtube.com/channel/UChIaUcs3tho6XhyU6K6KMrw/featured)
 * [Giant Neural Network](https://www.youtube.com/user/LogicGodTV/featured)
 * [Авторы канала стремятся сделать машинное обучение и обучение с подкреплением более понятными для всех. Здесь уже есть](https://www.youtube.com/watch?v=ZzWaow1Rvho&list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So) в нейросети «для чайников», а сейчас в работе серия роликов, рассчитанных на средний уровень.
-* [](https://www.youtube.com/@giantneuralnetwork)
+* [video](https://www.youtube.com/@giantneuralnetwork)
 * [Andreas Kretz](https://www.youtube.com/channel/UCY8mzqqGwl5_bTpBY9qLMAA/videos)
 * [Deep Learning TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ/featured)
 * [WelcomeAIOverlords](https://www.youtube.com/channel/UCxw9_WYmLqlj5PyXu2AWU_g)
 
-
 ## Paper Reading / Learning Communities
+
 * [dair.ai Slack channel](https://app.slack.com/client/T010QQBEFM1/C011278EVFX)
 * arXiv Insights
 * [42papers.com/](https://42papers.com/)
@@ -681,33 +714,33 @@
 * [DeepReader](https://www.youtube.com/channel/UC5_1Nis0kMJns-B9wJGbkXw)
 
 ## Data Sources
+
 * [awesomedata/awesome-public-datasets: A topic-centric list of HQ open datasets.](https://github.com/awesomedata/awesome-public-datasets)
 * [Dataset Search](https://datasetsearch.research.google.com/)
 * [Find Open Datasets and Machine Learning Projects | Kaggle](https://www.kaggle.com/datasets)
 * [UCI Machine Learning Repository: Data Sets](https://archive.ics.uci.edu/ml/datasets.php)
 
-
 ## Tools
+
 * [fugue-project/tune](https://github.com/fugue-project/tune)
 * [facebookresearch/faiss](https://github.com/facebookresearch/faiss)
 * [deepmind/bsuite](https://github.com/deepmind/bsuite)
 
-
 ### Annotation
+
 * [diffgram/diffgram](https://github.com/diffgram/diffgram)
 
 ## Top Sites and Resources
+
 * [applyingml.com/](https://applyingml.com/)
 * [louisbouchard.ai/learnai/](https://www.louisbouchard.ai/learnai/) (roadmap)
 * [The Neural Network Zoo - The Asimov Institute](http://www.asimovinstitute.org/neural-network-zoo/)
 * [WildML Deep Learning Glossary](http://www.wildml.com/deep-learning-glossary/)
-* [Deep Learning for Beginners](https://randomekek.github.io/deep/deeplearning.html) ***
-* [math.univ-toulouse.fr/~besse/Wikistat/](https://www.math.univ-toulouse.fr/~besse/Wikistat/) *****
+* [Deep Learning for Beginners](https://randomekek.github.io/deep/deeplearning.html) 
+* [math.univ-toulouse.fr/~besse/Wikistat/](https://www.math.univ-toulouse.fr/~besse/Wikistat/) 
 * 3Blue1Brown Essence of Linear Algebra & Calculus & Neural Networks
 
-
 ## MLOps etc
-* [The-AI-Summer/Deep-Learning-In-Production](https://github.com/The-AI-Summer/Deep-Learning-In-Production) *****
+
+* [The-AI-Summer/Deep-Learning-In-Production](https://github.com/The-AI-Summer/Deep-Learning-In-Production) 
 * [thedataexchange.media/mlops-anti-patterns/](https://thedataexchange.media/mlops-anti-patterns/)
-
-

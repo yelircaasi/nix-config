@@ -1,6 +1,7 @@
 # RL
 
 ## RL to sort
+
 * [seungeunrho/minimalRL: Implementations of basic RL algorithms with minimal lines of codes! (pytorch based)](https://github.com/seungeunrho/minimalRL)
 * [toshikwa/simple-rl.pytorch: Simple implementation of model-free RL algorithms written in PyTorch.](https://github.com/toshikwa/simple-rl.pytorch)
 * [Farama-Foundation/hanabi-learning-environment: hanabi_learning_environment is a research platform for Hanabi experiments.](https://github.com/Farama-Foundation/hanabi-learning-environment)
@@ -70,11 +71,7 @@
 * [deepmind reinforcement learning - YouTube](https://www.youtube.com/results?search_query=deepmind+reinforcement+learning)
 * [humans-to-robots-motion/rl-course: Reinforcement Learning course at the University of Stuttgart](https://github.com/humans-to-robots-motion/rl-course)
 * [StoyanVenDimitrov/rl-course: Reinforcement Learning course at the University of Stuttgart](https://github.com/StoyanVenDimitrov/rl-course)
-
-
 * Reinforcement learning: Temporal-Difference, SARSA, Q-Learning & Expected SARSA in python
-
-
 * Reinforcement Learning curse - URL Course Master IA - UPC
 * [Reinforcement Learning (SS 20) | Machine Learning & Robotics Lab](https://ipvs.informatik.uni-stuttgart.de/mlr/%20reinforcement-learning-ss-20/)
 * [Reinforcement Learning (SS 20) | Machine Learning & Robotics Lab](https://ipvs.informatik.uni-stuttgart.de/mlr/reinforcement-learning-ss-20/)
@@ -86,8 +83,6 @@
 * [Gym](http://gym.openai.com/docs/)
 * [gym/environments.md at master · openai/gym](https://github.com/openai/gym/blob/master/docs/environments.md#third-party-environments)
 * [Reinforcement-Learning/ex07-qlearning_lambda.py at master · lucasrm25/Reinforcement-Learning](https://github.com/lucasrm25/Reinforcement-Learning/blob/master/ex07-fa/ex07-qlearning_lambda.py)
-
-
 * rl-course/ex07-fa at master · Stunkymonkey/rl-course
 * [rl-course/ex08-pg at master · Stunkymonkey/rl-course](https://github.com/Stunkymonkey/rl-course/tree/master/ex08-pg)
 * [openai gym: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/openai%20gym)
@@ -130,8 +125,8 @@
 * [Codenames NLP](https://www.aaai.org/ojs/index.php/AIIDE/article/download/5239/5095/)
 * [Codenames AI](https://boardgamegeek.com/thread/1699867/codenames-ai)
 
-
 ## ** Codenames GH
+
 * [Wizard RL](https://www.google.com/search?q=wizard+card+game+reinforcement+learning&rlz=1CDGOYI_enUS835US835&oq=wizard+card+game+reinforcement+learning&aqs=chrome..69i57.8151j0j4&hl=it&sourceid=chrome-mobile&ie=UTF-8)
 * [Wizard RL Paper](https://ieeexplore.ieee.org/document/6664846)
 * [The Promise of Hierarchical Reinforcement Learning](https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/)
@@ -144,8 +139,8 @@
 * [Reinforcement Learning Tutorials](https://www.youtube.com/playlist?list=PLWzQK00nc192L7UMJyTmLXaHa3KcO0wBT)
 * [Панов А.И. "Машинное обучение с подкреплением"](https://www.youtube.com/playlist?list=PLthfp5exSWEpvTiIPJP56JkHWZlqIbkBJ)
 
-
 ## ** Bellman Operator
+
 * [Агентные системы и обучение с подкреплением](https://www.youtube.com/playlist?list=PLJyTG7NfyQ8lAH1QF2Frwq6aQdxyyIqAx)
 * [A Tutorial on Reinforcement Learning I](https://youtu.be/fIKkhoI1kF4)
 * [Reinforcement Learning | MIT 6.S191](https://youtu.be/nZfaHIxDD5w)
@@ -191,16 +186,13 @@
 * [RL — Deep Reinforcement Learning Series – mc.ai](https://mc.ai/rl-deep-reinforcement-learning-series/)
 * [michaelguan1992/spinningup-in-deeprl-tensorflow2: Re-implementing OpenAI Spinning Up in DeepRL with Tensorflow 2.0](https://github.com/michaelguan1992/spinningup-in-deeprl-tensorflow2)
 * Can RL algorithms be replaced with transformer-based language models?
-* [Paper] DeepMind researchers say reinforcement learning is the key to cracking general AI (with video) - Pye AI
-     * [A Gentle Introduction to Reinforcement Learning | Codementor](https://www.codementor.io/@satwikkansal/a-gentle-introduction-to-reinforcement-learning-1jnb4du0jt)
+* [Paper] DeepMind researchers say reinforcement learning is the key to cracking general AI (with video) - Pye AI     * [A Gentle Introduction to Reinforcement Learning | Codementor](https://www.codementor.io/@satwikkansal/a-gentle-introduction-to-reinforcement-learning-1jnb4du0jt)
 * Agraph placement methodology for fast chip design
 * Chip Placement with Deep Reinforcement Learning
-* Chip Placement with Deep Reinforcement Learning
-     * [Chip Placement with Deep Reinforcement Learning (Paper Explained) - YouTube](https://www.youtube.com/watch?v=PDRtyrVskMU)
+* Chip Placement with Deep Reinforcement Learning     * [Chip Placement with Deep Reinforcement Learning (Paper Explained) - YouTube](https://www.youtube.com/watch?v=PDRtyrVskMU)
 * Decentralized Multi-Agent Reinforcement Learning and Game Theory - Pye AI
 * Deep Reinforcement Learning: Fundamentals, Research and Applications
-* DeepMind says reinforcement learning is ‘enough’ to reach general AI
-     * [DeepQLearning.jl](http://deepqlearning.jl/)
+* DeepMind says reinforcement learning is ‘enough’ to reach general AI     * [DeepQLearning.jl](http://deepqlearning.jl/)
 * [Hands-On Game AI with Python: Implement self-learning AI agents in games using reinforcement learning algorithms and techniques 9781839216770](http://libgen.rs/book/index.php?md5=0FBDA7EFFFCDD3E7BAF00F61988A1CC0)
 * [Intro to DRL](https://www.youtube.com/watch?v=93M1l_nrhpQ)
 * [Pricing](https://www.gitpod.io/pricing)

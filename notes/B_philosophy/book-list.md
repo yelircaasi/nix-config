@@ -1,6 +1,5 @@
 # Book List
 
-
 | 1984 | George Orwell |
 | --- | --- |
 | A Room of One's Own (1929) | Virginia Woolf |

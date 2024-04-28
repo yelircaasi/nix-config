@@ -1,6 +1,6 @@
 # NLP and CL Roadmap
 
-1. [NLP Overview](https://nlpoverview.com/) (1-9)
+* 1. [NLP Overview](https://nlpoverview.com/) (1-9)
 2. SLP, 3E (1-28,A,B,C,D,E)
 3. NLP and CL I (Kurdi) (1-4)
 4. NLP and CL II (Kurdi) (1-4)

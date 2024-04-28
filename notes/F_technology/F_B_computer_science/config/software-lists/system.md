@@ -1,26 +1,28 @@
 # System Software
 
 ## System
+
 ### SORT
+
 * ( ) [ansible](https://github.com/j0giwa/ansible)
 * ( ) [NixOS 78: Systemd User Services - YouTube](https://www.youtube.com/watch?v%3DmFgxtWx5W0w)
 * ( ) [tow-boot](https://tow-boot.org/)
-* bootloader / kernel hardening [](https://www.reddit.com/r/NixOS/s/UhoOeQnx6T)
-boot * ( ) [libreboot article](https://9to5linux.com/libreboot-open-source-bios-uefi-firmware-adds-more-hardware-support) libreboot
-container * ( ) [docker vs podman at DuckDuckGo](https://duckduckgo.com/?q%3Ddocker%2Bvs%2Bpodman%26ia%3Dweb)
-container * ( ) [Podman vs Docker: In-Depth Comparison](https://phoenixnap.com/kb/podman-vs-docker)
-gui * ( ) [AtomsDevs/Atoms: Easily manage Linux Chroot(s) and Containers with Atoms.](https://github.com/AtomsDevs/Atoms)
-gui * ( ) [TUXEDO Control Center - GNU/Linux.ch](https://gnulinux.ch/tuxedo-control-center)
-input zh * ( ) [fcitx-im](https://fcitx-im.org/) - Chinese input method 
-input zh * ( ) [fcitx/fcitx5: maybe a new fcitx.](https://github.com/fcitx/fcitx5)
-input zh * ( ) [fcitx5](https://github.com/fcitx/fcitx5) 
-sync * ( ) [foldersync](https://foldersync.io/)
-systemd * ( ) [*Using systemd unit files to customize and optimize your system Red Hat Enterprise Linux 8 | Red Hat Customer Portal](https://access.redhat.com/documentation/enus/red_hat_enterprise_linux/8/html-single/using_systemd_unit_files_to_customize_and_optimize_your_system/index)
-systemd * ( ) [How to run systemd in a container | Red Hat Developer](https://developers.redhat.com/blog/2019/04/24/how-to-run-systemd-in-a-container%23enter_podman)
-systemd * ( ) [System and Service Manager](https://systemd.io/)
-systemd * ( ) [systemd_in_suse_linux_enterprise_12_white_paper.pdf](https://documentation.suse.com/external-tree/en-us/sles/12-SP4/systemd_in_suse_linux_enterprise_12_white_paper.pdf)
-tui * ( ) [bluetui](https://github.com/pythops/bluetui)
-ricing boot * ( ) [bsol](https://github.com/harishnkr/bsol)
+* bootloader / kernel hardening [...](https://www.reddit.com/r/NixOS/s/UhoOeQnx6T)
+* {boot} ( ) [libreboot article](https://9to5linux.com/libreboot-open-source-bios-uefi-firmware-adds-more-hardware-support) libreboot
+* {container} ( ) [docker vs podman at DuckDuckGo](https://duckduckgo.com/?q%3Ddocker%2Bvs%2Bpodman%26ia%3Dweb)
+* {container} ( ) [Podman vs Docker: In-Depth Comparison](https://phoenixnap.com/kb/podman-vs-docker)
+* {gui} ( ) [AtomsDevs/Atoms: Easily manage Linux Chroot(s) and Containers with Atoms.](https://github.com/AtomsDevs/Atoms)
+* {gui} ( ) [TUXEDO Control Center - GNU/Linux.ch](https://gnulinux.ch/tuxedo-control-center)
+* {input zh} ( ) [fcitx-im](https://fcitx-im.org/) - Chinese input method
+* {input zh} ( ) [fcitx/fcitx5: maybe a new fcitx.](https://github.com/fcitx/fcitx5)
+* {input zh} ( ) [fcitx5](https://github.com/fcitx/fcitx5)
+* {sync} ( ) [foldersync](https://foldersync.io/)
+* {systemd} ( ) [*Using systemd unit files to customize and optimize your system Red Hat Enterprise Linux 8 | Red Hat Customer Portal](https://access.redhat.com/documentation/enus/red_hat_enterprise_linux/8/html-single/using_systemd_unit_files_to_customize_and_optimize_your_system/index)
+* {systemd} ( ) [How to run systemd in a container | Red Hat Developer](https://developers.redhat.com/blog/2019/04/24/how-to-run-systemd-in-a-container%23enter_podman)
+* {systemd} ( ) [System and Service Manager](https://systemd.io/)
+* {systemd} ( ) [systemd_in_suse_linux_enterprise_12_white_paper.pdf](https://documentation.suse.com/external-tree/en-us/sles/12-SP4/systemd_in_suse_linux_enterprise_12_white_paper.pdf)
+* {tui} ( ) [bluetui](https://github.com/pythops/bluetui)
+* {ricing boot} ( ) [bsol](https://github.com/harishnkr/bsol)
 * (3) [popsicle](https://github.com/pop-os/popsicle)
    |  [etcher](https://www.balena.io/etcher/)
    |  [ventoy](https://www.ventoy.net/en/index.html)
@@ -29,6 +31,7 @@ ricing boot * ( ) [bsol](https://github.com/harishnkr/bsol)
 * (3) [modprobed-db](https://github.com/graysky2/modprobed-db)
 
 ### System Management
+
 * (6) [SysMonTask](https://github.com/KrispyCamel4u/SysMonTask/)
 * (2) [osquery](https://github.com/osquery/osquery)
 * (2) [firejail](https://github.com/netblue30/firejail)
@@ -76,18 +79,18 @@ ricing boot * ( ) [bsol](https://github.com/harishnkr/bsol)
 * (2.5)
 * ( ) [dust](https://github.com/bootandy/dust)
    |  [dua-cli](https://github.com/Byron/dua-cli/)
-   |  [duc]()
-   |  [pda]()
-   |  [diskonaut]()
-   |  [duf]()
-   |  [vizex]()
-   |  [ncdu]()
+   |  [duc](...)
+   |  [pda](...)
+   |  [diskonaut](...)
+   |  [duf](...)
+   |  [vizex](...)
+   |  [ncdu](...)
    |  [tin-summer](https://github.com/vmchale/tin-summer)
-   |  [gdu]()
-   |  [cdu]()
-   |  [diskus]()
-   |  [dutree]()
-   |  [dfc]()
+   |  [gdu](...)
+   |  [cdu](...)
+   |  [diskus](...)
+   |  [dutree](...)
+   |  [dfc](...)
 * ( ) [QDirStat](https://github.com/shundhammer/qdirstat)
    |  [Filelight](https://apps.kde.org/filelight/)
    |  [Baobab](https://wiki.gnome.org/Apps/DiskUsageAnalyzer)
@@ -96,8 +99,8 @@ ricing boot * ( ) [bsol](https://github.com/harishnkr/bsol)
 * (3) [udisks](https://github.com/storaged-/nnn
 * project/udisks)
 * (3) [udiskie](https://github.com/coldfix/udiskie)
-* (4) [gparted]()
-   |  [clonezilla]()
+* (4) [gparted](...)
+   |  [clonezilla](...)
 * (2.5)
 * ( ) [macchina](https://github.com/Macchina-CLI/macchina)
    |  [bfetch](https://github.com/nnbnh/bfetch)
@@ -109,6 +112,7 @@ ricing boot * ( ) [bsol](https://github.com/harishnkr/bsol)
 * (2) [fileschanged](https://www.nongnu.org/fileschanged)
 
 ### Security, Cryptography, Authentication, Passwords
+
 * (3) [gnupg](https://www.gnupg.org/) (frontend [seahorse](https://wiki.gnome.org/Apps/Seahorse))
    |  [enc](https://github.com/life4/enc)
 * (3) [openssl](https://github.com/openssl/openssl)
@@ -139,13 +143,14 @@ ricing boot * ( ) [bsol](https://github.com/harishnkr/bsol)
    |  [rage](https://github.com/str4d/rage)
 * (3) [kestrel](https://github.com/finfet/kestrel)
 
-
 ## Tuxedo-only
+
 * (3) [tuxedo-rs](https://github.com/AaronErhardt/tuxedo-rs)
 * (2) [tailor-gui](https://search.nixos.org/packages?channel=23.11&show=tailor-gui&from=0&size=50&sort=relevance&type=packages&query=tuxedo+control)
-* (6) [tuxedo-control-center]()
+* (6) [tuxedo-control-center](...)
 
 ## Debian-based-only
+
 * ( ) [uktools](https://github.com/usbkey9/uktools)
 * ( ) [nala](https://github.com/volitank/nala)
 * ( ) [deb-get](https://github.com/wimpysworld/deb-get)
@@ -153,14 +158,17 @@ ricing boot * ( ) [bsol](https://github.com/harishnkr/bsol)
 * ( ) [lxroot](try out and potentially package for NixOS)
 
 ## Non-NixOS-only
+
 * ( ) [mkdesk](https://gitlab.com/mr-draxs/mkdesk)
 
 ## NixOS-only
+
 * (2) [comma](https://github.com/nix-community/comma)
 
 ## Nvidia-only
+
 * (2) [zenith-nvidia](https://github.com/bvaisvil/zenith) (for devices with Nvidia)
 * (2.5)
 * ( ) [nvitop](https://github.com/XuehaiPan/nvitop)
    |  [nvtop](https://github.com/Syllo/nvtop)
-* (2) [gpustat]()
+* (2) [gpustat](...)

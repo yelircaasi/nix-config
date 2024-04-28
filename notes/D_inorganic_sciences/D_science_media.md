@@ -1,23 +1,34 @@
-# Media* - multi*
+# Media
+
+## multi
+
 * [Yuval Noah Harari](http://www.ynharari.com/)*
 * [Scientific American - International Editions](http://www.scientificamerican.com/page/international/)*
 * [Inosmi Science](https://inosmi.ru/science/)*
 * [Inopressa Science](https://www.inopressa.ru/rubrics/science)*
 * [Aeon Magazine | ИноСМИ](http://inosmi.ru/aeon_co/)
-* - noruego*
+
+## noruego
+
 * [forskning.no | Nettavis om norsk og internasjonal forskning](https://forskning.no/)
 * [illvet.se/](https://illvet.se/)
 * [nrk.no/viten/](https://www.nrk.no/viten/)
 * [illvit.no/](https://illvit.no/)
-* - sueco
+
+## sueco
+
 * [fof.se/](https://fof.se/)
 * [svt.se/nyheter/vetenskap/*](https://www.svt.se/nyheter/vetenskap/*)
 * [Vetenskap | SVT Nyheter](https://www.svt.se/nyheter/vetenskap/)*
 * [Nyheter & Fakta | forskning.se](https://www.forskning.se/)*
 * [Vetenskap | svenska.yle.fi](https://svenska.yle.fi/vetenskap)
-* - danés*
+
+## danés*
+
 * [ScienceBlog | Uafhængig dansk blog om naturvidenskabelig forskning, formidling, undervisning og politik.](https://www.scienceblog.dk/)
-* - polaco*
+
+## polaco
+
 * [Festiwal Kopernika |](https://www.copernicusfestival.com/)*
 * [NaukowoTV](https://www.youtube.com/channel/UCXdxta-h8zDUc8dhGiOsi9g)*
 * [SciFun](https://www.youtube.com/user/SciTeraz)*
@@ -25,7 +36,9 @@
 * [Naukowo Zakręceni](https://www.youtube.com/channel/UC6Rmxl1hjVJj7O0dQTpQCYA)
 * [obywatelenauki.pl/](http://obywatelenauki.pl/)
 * [squla.pl/](https://www.squla.pl/)
-* - holandés
+
+## holandés
+
 * [eoswetenschap.eu/](https://www.eoswetenschap.eu/)
 * [eoswetenschap.eu/natuurwetenschappen/42](https://www.eoswetenschap.eu/natuurwetenschappen/42)
 * [scientias.nl/](https://www.scientias.nl/)
@@ -48,23 +61,31 @@
 * [ad.nl/wetenschap/*](https://www.ad.nl/wetenschap/*)
 * [Gratis praktische wetenschap, trainingen, vacatures en meer | ToolsHero](https://www.toolshero.nl/)
 * [vraagvoordewetenschap.be/](https://www.vraagvoordewetenschap.be/)
-* - croate*
+
+## croate
+
 * [Geek](https://geek.hr/znanost/)
 * [rs.n1info.com/SciTech](http://rs.n1info.com/SciTech)
 * [index.hr/vijesti/rubrika/znanost/1722.aspx](https://www.index.hr/vijesti/rubrika/znanost/1722.aspx)
 * [jutarnji.hr/life/znanost](https://www.jutarnji.hr/life/znanost)
 * [net.hr/kategorija/danas/znanost/](https://net.hr/kategorija/danas/znanost/)
 * [hr.rbth.com/science](https://hr.rbth.com/science)
-* - chino
+
+## chino
+
 * [natureasia.com/zh-cn*](http://www.natureasia.com/zh-cn*)
 * [科学网—博客](http://blog.sciencenet.cn/)
-* - árabe
+
+## árabe
+
 * [arabsciences.com/](http://arabsciences.com/)
 * [arabicedition.nature.com/](http://arabicedition.nature.com/)
 * [natureasia.com/ar/nmiddleeast/](http://www.natureasia.com/ar/nmiddleeast/)
 * [scientificamerican.com/arabic/](https://www.scientificamerican.com/arabic/)
-* - italiano*
-* [Scienza e dintorni - Esplorare e Condividere (Natale Seremia)](http://nataleseremia.com/)
+
+## italiano
+
+* [Scienza e dintorni - Esplorare e Condividere (Natale Seremia)
 * [lescienze.it/](http://www.lescienze.it/)
 * [treccani.it/magazine/](http://www.treccani.it/magazine/)
 * [focus.it/*](https://www.focus.it/*)
@@ -86,7 +107,9 @@
 * [Home | Italia Unita per la Scienza](https://italiaxlascienza.it/main/)*
 * [Libera Scienza - Página inicial](https://www.facebook.com/liberascienza/?ref=br_rs)
 * [oggiscienza.it/](https://oggiscienza.it/)
-* - portugués*
+
+## portugués
+
 * [Ciência Hoje](http://cienciahoje.org.br/)*
 * [http://scienceblogs.com.br](http://scienceblogs.com.br/)*
 * [Jornal da Ciência](http://www.jornaldaciencia.org.br/)*
@@ -105,7 +128,9 @@
 * [Ciência - O Globo](https://oglobo.globo.com/sociedade/ciencia/)*
 * [Ciência: Notícias sobre estudos e pesquisas científicas - UOL Notícias - Ciência e Saúde](https://noticias.uol.com.br/ciencia-e-saude/)*
 * [Ciência : animais, clima, novas pesquisas, espaço e mais - Terra](https://www.terra.com.br/noticias/ciencia/)
-* - español
+
+## español
+
 * [technologyreview.es/](https://www.technologyreview.es/)
 * [scientificamerican.com/espanol/](http://www.scientificamerican.com/espanol/)
 * [xatakaciencia.com/](https://www.xatakaciencia.com/)
@@ -129,7 +154,7 @@
 * [ciencia.nasa.gov/](http://ciencia.nasa.gov/)
 * [cienciapr.org/es](http://www.cienciapr.org/es)
 * [magazinedeciencia.com.ar/](http://www.magazinedeciencia.com.ar/)
-*     Investigación y Ciencia
+* Investigación y Ciencia
 * [culturacientifica.com/](http://culturacientifica.com/)
 * [tveduca.com/estudiantes/](http://www.tveduca.com/estudiantes/)
 * [cienciatv.com/](http://cienciatv.com/)
@@ -162,7 +187,9 @@
 * [quo.es/naturaleza/la-espiral-de-fibonacci/*](https://www.quo.es/naturaleza/la-espiral-de-fibonacci/*)
 * [¿Qué es la biología? | cienciaybiologia.com](https://cienciaybiologia.com/que-es-la-biologia/)*
 * [Juegos de inteligencia, educativos y culturales | Cerebriti](https://www.cerebriti.com/)
-* - francés
+
+## francés
+
 * [ohchouette.com/](https://ohchouette.com/)
 * [cafe-sciences.org/](http://www.cafe-sciences.org/)
 * [sciencetonnante.wordpress.com/](https://sciencetonnante.wordpress.com/)
@@ -257,7 +284,8 @@
 * [MathsCoyote](http://www.apprendre-en-ligne.net/blog/)
 * [labodessavoirs.fr/actualites/](https://labodessavoirs.fr/actualites/)
 * [geo.fr/](http://www.geo.fr/)
-* - alemán*
+
+## alemán
 * [Spektrum der Wissenschaft](http://www.spektrum.de/)*
 * [Science Blogs DE](http://scienceblogs.de/)
 * [srf.ch/sendungen/wissenschaftsmagazin](http://www.srf.ch/sendungen/wissenschaftsmagazin)
@@ -304,7 +332,9 @@
 * [forschung-und-wissen.de/](https://www.forschung-und-wissen.de/)
 * [wissenschaft-aktuell.de/](https://www.wissenschaft-aktuell.de/)
 *     Harald Lesch auf Spotify (ganze Hörbücher)
-* - ucraino
+
+## ucraino
+
 * [scienceukraine.com/*](https://scienceukraine.com/*)
 * [Українські підручники та карти. Всесвітня історія, історія України, географія.](http://ukrmap.su/)
 * [info-library.com.ua/libs/stattya.html](http://www.info-library.com.ua/libs/stattya.html)
@@ -317,7 +347,9 @@
 * [ukr.net/ua/news/tehnologii.html](https://www.ukr.net/ua/news/tehnologii.html)
 * [info-svit.org.ua/](http://info-svit.org.ua/)
 * [ipress.ua/science/](http://ipress.ua/science/)
-* - ruso
+
+## ruso
+
 * [indicator.ru/](https://indicator.ru/)
 * [blog.rudnyi.ru/ru/](http://blog.rudnyi.ru/ru/)
 * [spkurdyumov.ru/](http://spkurdyumov.ru/)
@@ -369,10 +401,13 @@
 * [nplus1.ru](http://nplus1.ru/)*
 * [Научно-образовательный портал IQ – Национальный исследовательский университет «Высшая школа экономики»](https://iq.hse.ru/)
 * [elementy.ru/](https://elementy.ru/)
-* - inglés*
+
+## inglés
+
 * [Nautilus](http://nautil.us/)*
 * [Edge](https://www.edge.org/)
-* [nature.com/scitable/](https://www.nature.com/scitable/)                 - [> Wikipedia on Edge](https://en.wikipedia.org/wiki/Edge_Foundation,_Inc.)*
+* [nature.com/scitable/](https://www.nature.com/scitable/$1
+* [> Wikipedia on Edge](https://en.wikipedia.org/wiki/Edge_Foundation,_Inc.)*
 * [Science Magazine](http://www.sciencemag.org/)*
 * [Aeon](https://aeon.co/)*
 * [Nature](http://www.nature.com/index.html)*
@@ -414,14 +449,14 @@
 *     Science News
 *     UMIAMI Scientifica
 *     Wired
-*     - Astronomy/Aerospace
+*     * Astronomy/Aerospace
 *     Air & Space
 *     Astronomy
 *     Mercury
 *     Planetary Report
 *     Sky and Telescope
 *     Spinoff
-*     - Others
+*     * Others
 *     Physics Today
 *     Scientific American Mind
 *     The Scientist
@@ -439,7 +474,7 @@
 * [nolaymanleftbehind.wordpress.com/](https://nolaymanleftbehind.wordpress.com/)
 * [newsland.com/tag/20](https://newsland.com/tag/20)
 * [sciforums.com/](http://www.sciforums.com/)
-* [](https://www.youtube.com/user/TheNexusInstitute?feature=hovercard)
+* [video](https://www.youtube.com/user/TheNexusInstitute?feature=hovercard)
 * [sciencealert.com/](http://www.sciencealert.com/)
 * [ox.ac.uk/admissions/undergraduate/courses-listing/physics-and-philosophy?wssl=1*](https://www.ox.ac.uk/admissions/undergraduate/courses-listing/physics-and-philosophy?wssl=1*)
 * [arxivist](http://arxivist.com/)
@@ -461,7 +496,7 @@
 * [Dror Bar-Natan: AcademicPensieve:](http://drorbn.net/AcademicPensieve/)*
 * [What If?](https://what-if.xkcd.com/)*
 * [xkcd](https://xkcd.com/)*
-* [****Daniel Miessler :: information security, technology, and humans](https://danielmiessler.com/)*
+* [ Daniel Miessler :: information security, technology, and humans](https://danielmiessler.com/)*
 * [Truth, Beauty, Science. - Undark](https://undark.org/)*
 * [Distill — Latest articles about machine learning](https://distill.pub/)
 * [sci-news.com/](http://www.sci-news.com/)

@@ -1,6 +1,6 @@
 # DS Roadmap
 
-1. [Notation Sheet](https://nthu-datalab.github.io/ml/slides/Notation.pdf?fbclid=IwAR0kYjO13sIR4JvN8VVBrgXBH8e9wlE1TGBv_YC6wuAzyCFved5TC4gCqc8)
+* 1. [Notation Sheet](https://nthu-datalab.github.io/ml/slides/Notation.pdf?fbclid=IwAR0kYjO13sIR4JvN8VVBrgXBH8e9wlE1TGBv_YC6wuAzyCFved5TC4gCqc8)
 2. The Data Science Design Manual (1-13)
 3. Mathematics for Machine Learning (1-12)
 4. Computing with Data (1-15)

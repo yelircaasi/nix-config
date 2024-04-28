@@ -1,10 +1,8 @@
 # Neorg
 
-[pysan3/Norg-Tutorial2](https://github.com/pysan3/Norg-Tutorial2)
-
-Not yet added to notes
-
-Idea: norgbook ← [rust-lang/mdBook](https://github.com/rust-lang/mdBook)
+* [pysan3/Norg-Tutorial2](https://github.com/pysan3/Norg-Tutorial2)
+* Not yet added to notes
+* Idea: norgbook ← [rust-lang/mdBook](https://github.com/rust-lang/mdBook)
 * [pysan3/dotfiles/tree/main/nvim](https://github.com/pysan3/dotfiles/tree/main/nvim)
 * [nvim-neorg/neorg/tree/main/doc](https://github.com/nvim-neorg/neorg/tree/main/doc)
 * [ViperX7/norg2html](https://github.com/ViperX7/norg2html)
@@ -36,55 +34,34 @@ Idea: norgbook ← [rust-lang/mdBook](https://github.com/rust-lang/mdBook)
 * [NTBBloodbath/notes/tree/master](https://github.com/NTBBloodbath/notes/tree/master)
 * [pysan3/dotfiles/tree/main/nvim](https://github.com/pysan3/dotfiles/tree/main/nvim)
 * [nvim-neorg/neorg/issues/851](https://github.com/nvim-neorg/neorg/issues/851)
-
-
-Already added to docs
-
-From No Org to Neorg [](https://www.youtube.com/playlist?list=PLx2ksyallYzVI8CN1JMXhEf62j2AijeDa)
-
-Neorg Custom Modules [](https://www.youtube.com/playlist?list=PLxpY86LRR3B0rtOBjXAsq1XnsOt4m4owu)
+* Already added to docs
+* From No Org to Neorg [video](https://www.youtube.com/playlist?list=PLx2ksyallYzVI8CN1JMXhEf62j2AijeDa)
+* Neorg Custom Modules [video](https://www.youtube.com/playlist?list=PLxpY86LRR3B0rtOBjXAsq1XnsOt4m4owu)
 * [libhunt.com/r/neorg](https://www.libhunt.com/r/neorg)
 * [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
 * [nvim-neorg/norg-specs](https://github.com/nvim-neorg/norg-specs)
 * [nvim-neorg/neorg-telescope](https://github.com/nvim-neorg/neorg-telescope)
-
-Cheatsheet: [nvim-neorg/neorg/blob/5629898cf24bf25a39723e4113ce87a08f0d9dc1/doc/cheatsheet.norg](https://github.com/nvim-neorg/neorg/blob/5629898cf24bf25a39723e4113ce87a08f0d9dc1/doc/cheatsheet.norg)
-
-
-
-
-
-→ collect all discoverable neorg configs from users on the neorg repo
-
-neorg dots
-
- [pysan3/dotfiles](https://github.com/pysan3/dotfiles)
-
- [git.devonmorris.dev/dotfiles/file/.config/nvim/after/plugin/neorg.lua.html](https://git.devonmorris.dev/dotfiles/file/.config/nvim/after/plugin/neorg.lua.html)
-
- [gitdab.com/keanucode/dotfiles/src/branch/master/nvim/plugin/neorg.lua](https://gitdab.com/keanucode/dotfiles/src/branch/master/nvim/plugin/neorg.lua)
-→ Idea: Add plugin / fork / whatever to mdbook to enable norg file input
-
-Doc files: [nvim-neorg/neorg/tree/5629898cf24bf25a39723e4113ce87a08f0d9dc1/doc](https://github.com/nvim-neorg/neorg/tree/5629898cf24bf25a39723e4113ce87a08f0d9dc1/doc)
+* Cheatsheet: [nvim-neorg/neorg/blob/5629898cf24bf25a39723e4113ce87a08f0d9dc1/doc/cheatsheet.norg](https://github.com/nvim-neorg/neorg/blob/5629898cf24bf25a39723e4113ce87a08f0d9dc1/doc/cheatsheet.norg)
+* → collect all discoverable neorg configs from users on the neorg repo
+* neorg dots
+* [pysan3/dotfiles](https://github.com/pysan3/dotfiles)
+* [git.devonmorris.dev/dotfiles/file/.config/nvim/after/plugin/neorg.lua.html](https://git.devonmorris.dev/dotfiles/file/.config/nvim/after/plugin/neorg.lua.html)
+* [gitdab.com/keanucode/dotfiles/src/branch/master/nvim/plugin/neorg.lua](https://gitdab.com/keanucode/dotfiles/src/branch/master/nvim/plugin/neorg.lua)
+* → Idea: Add plugin / fork / whatever to mdbook to enable norg file input
+* Doc files: [nvim-neorg/neorg/tree/5629898cf24bf25a39723e4113ce87a08f0d9dc1/doc](https://github.com/nvim-neorg/neorg/tree/5629898cf24bf25a39723e4113ce87a08f0d9dc1/doc)
 * [r/neovim/comments/11cnt4k/neorg_20_videos_documentation_roadmaps_and_more/](https://www.reddit.com/r/neovim/comments/11cnt4k/neorg_20_videos_documentation_roadmaps_and_more/)
 * [r/neovim/comments/y0z2tf/neorg/](https://www.reddit.com/r/neovim/comments/y0z2tf/neorg/)
 * [r/neovim/comments/12okmf0/neorg_tutorial/](https://www.reddit.com/r/neovim/comments/12okmf0/neorg_tutorial/)
-
-—> [google.com/search?client=firefox-b-d&q=neorg+reddit](https://www.google.com/search?client=firefox-b-d&q=neorg+reddit)
+* —> [google.com/search?client=firefox-b-d&q=neorg+reddit](https://www.google.com/search?client=firefox-b-d&q=neorg+reddit)
 * [libhunt.com/compare-neorg-vs-vim-orgmode](https://www.libhunt.com/compare-neorg-vs-vim-orgmode)
-
-compare wiith mind.nvim
-
-compare with [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode)
+* compare wiith mind.nvim
+* compare with [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode)
 * [Klafyvel/Norg.jl](https://github.com/Klafyvel/Norg.jl) ← need to contribute actively to
 * [tree-sitter.github.io/tree-sitter/](https://tree-sitter.github.io/tree-sitter/)
 * [pysan3/Norg-Tutorial](https://github.com/pysan3/Norg-Tutorial)
-
-How does naming work for external modules? Plugin manager installs via gh repo (i.e. yelircaasi/neorg-planager), then name exposed by internal structure → see
-
-→ how to use non-gh, such as gitlab or codeberg?
-
-→ how to include other luarock within plugin? How does Neovim / lazy.nvim handle that?
+* How does naming work for external modules? Plugin manager installs via gh repo (i.e. yelircaasi/neorg-planager), then name exposed by internal structure → see
+* → how to use non-gh, such as gitlab or codeberg?
+* → how to include other luarock within plugin? How does Neovim / lazy.nvim handle that?
 * [laher/neorg-exec](https://github.com/laher/neorg-exec)
 * [nvim-neorg/tree-sitter-norg-meta](https://github.com/nvim-neorg/tree-sitter-norg-meta)
 * [nvim-neorg/tree-sitter-norg2](https://github.com/nvim-neorg/tree-sitter-norg2)
@@ -118,38 +95,28 @@ How does naming work for external modules? Plugin manager installs via gh repo (
 * [max397574/neorg-zettelkasten](https://github.com/max397574/neorg-zettelkasten)
 * [max397574/neorg-kanban](https://github.com/max397574/neorg-kanban)
 * [danymat/norg_notes](https://github.com/danymat/norg_notes)
-* [orgzly/orgzly-android/issues/914](https://github.com/orgzly/orgzly-android/issues/914) (https://github.com/orgzly/orgzly-android)
-
-
-Neorg GTD
+* [orgzly/orgzly-android/issues/914](https://github.com/orgzly/orgzly-android/issues/914) [...](https://github.com/orgzly/orgzly-android)
+* Neorg GTD
 * [nvim-neorg/neorg/discussions/67](https://github.com/nvim-neorg/neorg/discussions/67)
 * [nvim-neorg/neorg/blob/dd3e8dc60af9947ca37f7ab0449c43937c3b7a9c/ROADMAP.md](https://github.com/nvim-neorg/neorg/blob/dd3e8dc60af9947ca37f7ab0449c43937c3b7a9c/ROADMAP.md)
 * [nvim-neorg/neorg/issues/695](https://github.com/nvim-neorg/neorg/issues/695)
 * [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) (idea: [chimay/organ)](https://github.com/chimay/organ))
 * [nvim-neorg/neorg/issues/745](https://github.com/nvim-neorg/neorg/issues/745)
-
-From No Org to Neorg - The Basics | #1 [](https://www.youtube.com/watch?v=NnmRVY22Lq8)
-
-From No Org to Neorg - Workflow, Links | #2 [](https://www.youtube.com/watch?v=Bi9JiW5nSig&t=493s)
+* From No Org to Neorg - The Basics | #1 [video](https://www.youtube.com/watch?v=NnmRVY22Lq8)
+* From No Org to Neorg - Workflow, Links | #2 [video](https://www.youtube.com/watch?v=Bi9JiW5nSig&t=493s)
 * [skbolton/neorg-taskwarrior](https://github.com/skbolton/neorg-taskwarrior)
 * [nvim-neorg/neorg/issues/695](https://github.com/nvim-neorg/neorg/issues/695)
 * [gettingthingsdone.com/what-is-gtd/](https://gettingthingsdone.com/what-is-gtd/)
 * [nvim-neorg/neorg/discussions/67](https://github.com/nvim-neorg/neorg/discussions/67)
 
+* task-driven-development [SunGodRamen/task-driven-development](https://github.com/SunGodRamen/task-driven-development)
+* taskwar.nvim [manyids2/taskwar.nvim](https://github.com/manyids2/taskwar.nvim)
+* taskwarrior.nvim [ribelo/taskwarrior.nvim](https://github.com/ribelo/taskwarrior.nvim)
 
-
-task-driven-development [SunGodRamen/task-driven-development](https://github.com/SunGodRamen/task-driven-development)
-
-taskwar.nvim [manyids2/taskwar.nvim](https://github.com/manyids2/taskwar.nvim)
-
-taskwarrior.nvim [ribelo/taskwarrior.nvim](https://github.com/ribelo/taskwarrior.nvim)
-
-(taskwarrior.nvim) [dzintars/taskwarrior.nvim](https://github.com/dzintars/taskwarrior.nvim)
+* (taskwarrior.nvim) [dzintars/taskwarrior.nvim](https://github.com/dzintars/taskwarrior.nvim)
 * [SunGodRamen/.config](https://github.com/SunGodRamen/.config)
-
-twig.nvim [hugginsio/twig.nvim](https://github.com/hugginsio/twig.nvim)
-
-Notes (neorg-notes.github.io)
+* twig.nvim [hugginsio/twig.nvim](https://github.com/hugginsio/twig.nvim)
+* Notes (neorg-notes.github.io)
 Docs: make from wiki using mdbook → create norgbook by adding norg support to mdbook, generate automatically from [nvim-neorg/neorg.wiki.git](https://github.com/nvim-neorg/neorg.wiki.git)
 
   → or simply draw upon wiki and tutorials, but create from scratch
@@ -158,106 +125,68 @@ Docs: make from wiki using mdbook → create norgbook by adding norg support to 
     → “Disclaimer: These are my own notes, written for my own reference as I attempt to get up to speed on Neorg. I have made them public because I believe they have the potential to useful to others - as an annotated collection of relevant links, if nothing else.  However these are unofficial notes, and while I have attempted to make them accurate, there are no guarantees. As always, the sole source of truth is the source code.
 * [docs.github.com/en/pages](https://docs.github.com/en/pages)
 * [rust-lang/mdBook/tree/master/guide](https://github.com/rust-lang/mdBook/tree/master/guide)
-* [github.com/rust-lang/mdBook/wiki/Automated-Deployment%3A-GitHub-Pages-(Deploy-from-branch)](https://github.com/rust-lang/mdBook/wiki/Automated-Deployment%3A-GitHub-Pages-%28Deploy-from-branch%29)
+* [rust-lang/mdBook/wiki/Automated-Deployment%3A-GitHub-Pages-(Deploy-from-branch)](https://github.com/rust-lang/mdBook/wiki/Automated-Deployment%3A-GitHub-Pages-%28Deploy-from-branch%29)
 * [news.ycombinator.com/item?id=27802153](https://news.ycombinator.com/item?id=27802153)
+* Configs
 
-Configs
-
- [git.sr.ht/~trevdev/nvim](https://git.sr.ht/~trevdev/nvim)
-compare: [alpha2phi.medium.com/vim-neovim-managing-notes-and-todo-list-8ae8e3db6464](https://alpha2phi.medium.com/vim-neovim-managing-notes-and-todo-list-8ae8e3db6464)
-
-ChatGPT on Home Manager:
-
-Home Manager is a powerful tool for managing user configurations in the NixOS and Homebrew ecosystems. It employs a declarative approach, where you define the desired state of your system configuration using a configuration file written in the Nix language. Home Manager then uses this file to generate and apply the necessary changes to your user environment.
-
-When you define your configuration in the Home Manager file, you specify the packages, programs, and settings you want to include or modify. Home Manager understands the structure of the configuration files and uses that knowledge to determine which parts to edit.
-
-Home Manager typically follows a file-based approach, where it manages the contents of specific files or directories within your user environment. For example, if you want to change a specific setting in your shell configuration file, Home Manager will identify the relevant section of the file and modify it accordingly. It knows which parts to edit based on the structure of the file and the configuration directives you provide.
-
-To achieve this, Home Manager leverages a combination of templating and merging techniques. It uses templates and predefined snippets of configuration code to generate the desired user environment configuration. These templates often include placeholders that get filled in with the appropriate values based on your configuration file.
-
-Home Manager also employs a merge process that combines the generated configuration with your existing user configuration. It ensures that any changes you make through Home Manager don't overwrite or conflict with existing settings. Instead, it intelligently merges the modifications into the existing files, preserving your customizations while incorporating the new changes.
-
-In summary, Home Manager knows which parts of the configuration files to edit by analyzing the structure of the files and using templates and merging techniques to generate and apply the desired changes to your user environment.
-
+* [git.sr.ht/~trevdev/nvim](https://git.sr.ht/~trevdev/nvim)
+* compare: [alpha2phi.medium.com/vim-neovim-managing-notes-and-todo-list-8ae8e3db6464](https://alpha2phi.medium.com/vim-neovim-managing-notes-and-todo-list-8ae8e3db6464)
+* ChatGPT on Home Manager:
+* Home Manager is a powerful tool for managing user configurations in the NixOS and Homebrew ecosystems. It employs a declarative approach, where you define the desired state of your system configuration using a configuration file written in the Nix language. Home Manager then uses this file to generate and apply the necessary changes to your user environment.
+* When you define your configuration in the Home Manager file, you specify the packages, programs, and settings you want to include or modify. Home Manager understands the structure of the configuration files and uses that knowledge to determine which parts to edit.
+* Home Manager typically follows a file-based approach, where it manages the contents of specific files or directories within your user environment. For example, if you want to change a specific setting in your shell configuration file, Home Manager will identify the relevant section of the file and modify it accordingly. It knows which parts to edit based on the structure of the file and the configuration directives you provide.
+* To achieve this, Home Manager leverages a combination of templating and merging techniques. It uses templates and predefined snippets of configuration code to generate the desired user environment configuration. These templates often include placeholders that get filled in with the appropriate values based on your configuration file.
+* Home Manager also employs a merge process that combines the generated configuration with your existing user configuration. It ensures that any changes you make through Home Manager don't overwrite or conflict with existing settings. Instead, it intelligently merges the modifications into the existing files, preserving your customizations while incorporating the new changes.
+* In summary, Home Manager knows which parts of the configuration files to edit by analyzing the structure of the files and using templates and merging techniques to generate and apply the desired changes to your user environment.
 * [max397574/rust-norg](https://github.com/max397574/rust-norg)
 * [gitlab.com/Overloader/norg-pandoc-rs](https://gitlab.com/Overloader/norg-pandoc-rs)
 * [obsidian.md/](https://obsidian.md/)
 * [laher/neorg-exec](https://github.com/laher/neorg-exec)
-
-markdown [soasme.com/nim-markdown/htmldocs/markdown.html](https://www.soasme.com/nim-markdown/htmldocs/markdown.html)
+* markdown [soasme.com/nim-markdown/htmldocs/markdown.html](https://www.soasme.com/nim-markdown/htmldocs/markdown.html)
 * [raphlinus/pulldown-cmark](https://github.com/raphlinus/pulldown-cmark)
 * [JacobCrabill/zigdown](https://github.com/JacobCrabill/zigdown)
-
-Introduction | mmdoc [ryantm.github.io/mmdoc/](https://ryantm.github.io/mmdoc/)
-
-create Norgbook
+* Introduction | mmdoc [ryantm.github.io/mmdoc/](https://ryantm.github.io/mmdoc/)
+* create Norgbook
 * [docs.rs/markdown/latest/markdown/](https://docs.rs/markdown/latest/markdown/)
-
-read SLP on Parsing
+* read SLP on Parsing
 * [pest.rs/](https://pest.rs/)
 * [wooorm/markdown-rs](https://github.com/wooorm/markdown-rs)
 * [nvim-neorg/tree-sitter-norg3](https://github.com/nvim-neorg/tree-sitter-norg3)
-
-notes, org mode
-
- [r/neovim/comments/12kek6u/note_taking_with_bidirectional_links_in_neovim](https://www.reddit.com/r/neovim/comments/12kek6u/note_taking_with_bidirectional_links_in_neovim)
-Neorg
+* notes, org mode
+* [r/neovim/comments/12kek6u/note_taking_with_bidirectional_links_in_neovim](https://www.reddit.com/r/neovim/comments/12kek6u/note_taking_with_bidirectional_links_in_neovim)
 * [nvim-neorg/neorg/pull/99](https://github.com/nvim-neorg/neorg/pull/99)
 * [quarto.org/docs/tools/neovim.html](https://quarto.org/docs/tools/neovim.html)
-
- mind.nvim [](https://www.youtube.com/@phaazon-builds/videos)
-
- feature to combine with gtt to open links from terminal (-> also, what is netrw?) [neovim/neovim/issues/23231](https://github.com/neovim/neovim/issues/23231)
-
- How I used Org-mode and Neovim to Pass all my Classes [](https://www.youtube.com/watch?v=grbtRhFiPrw)
-
- Note Taking in neovim with markdown and pandoc and bears, oh my! [](https://www.youtube.com/watch?v=zB_3FIGRWRU&t=369s)
-
- I Should Have Just Used Vimwiki From The Start [](https://www.youtube.com/watch?v=vBJj7YMVn6I)
-
- [nvim-orgmode/orgmode*](https://github.com/nvim-orgmode/orgmode*) [AlphabetsAlphabets/ob-norg](https://github.com/AlphabetsAlphabets/ob-norg)
+* mind.nvim [video](https://www.youtube.com/@phaazon-builds/videos)
+* feature to combine with gtt to open links from terminal (-> also, what is netrw?) [neovim/neovim/issues/23231](https://github.com/neovim/neovim/issues/23231)
+* How I used Org-mode and Neovim to Pass all my Classes [video](https://www.youtube.com/watch?v=grbtRhFiPrw)
+* Note Taking in neovim with markdown and pandoc and bears, oh my! [video](https://www.youtube.com/watch?v=zB_3FIGRWRU&t=369s)
+* I Should Have Just Used Vimwiki From The Start [video](https://www.youtube.com/watch?v=vBJj7YMVn6I)
+* [nvim-orgmode/orgmode*](https://github.com/nvim-orgmode/orgmode*) [AlphabetsAlphabets/ob-norg](https://github.com/AlphabetsAlphabets/ob-norg)
 * [laher/neorg-codecap](https://github.com/laher/neorg-codecap)
 * [NTBBloodbath/norg.py](https://github.com/NTBBloodbath/norg.py)
 * [SevorisDoe/Norgberg](https://github.com/SevorisDoe/Norgberg)
 * [nvim-neorg/norgopolis](https://github.com/nvim-neorg/norgopolis)
-
-** NEXT STEP *** [nvim-neorg/neorg/wiki/Installation/3b4cbb27b03ae5505f56e79eda617bb9f2de43a2](https://github.com/nvim-neorg/neorg/wiki/Installation/3b4cbb27b03ae5505f56e79eda617bb9f2de43a2)
-
-neorg discord [discord.com/channels/834325286664929280/834356292424171532/1127315727452479558](https://discord.com/channels/834325286664929280/834356292424171532/1127315727452479558)
+** NEXT STEP  [nvim-neorg/neorg/wiki/Installation/3b4cbb27b03ae5505f56e79eda617bb9f2de43a2](https://github.com/nvim-neorg/neorg/wiki/Installation/3b4cbb27b03ae5505f56e79eda617bb9f2de43a2)
+* neorg discord [discord.com/channels/834325286664929280/834356292424171532/1127315727452479558](https://discord.com/channels/834325286664929280/834356292424171532/1127315727452479558)
 * [madskjeldgaard/neorg-figlet-module](https://github.com/madskjeldgaard/neorg-figlet-module)
 * [dotfyle.com/plugins/nvim-neorg/neorg](https://dotfyle.com/plugins/nvim-neorg/neorg)
-
 * [crates.io/crates/neorg-dirman*](https://crates.io/crates/neorg-dirman*) [crates.io/crates/norgopolis-client*](https://crates.io/crates/norgopolis-client*) [crates.io/crates/norgopolis-module*](https://crates.io/crates/norgopolis-module*) [crates.io/crates/norgopolis-protos*](https://crates.io/crates/norgopolis-protos*) [crates.io/crates/norgopolis-server*](https://crates.io/crates/norgopolis-server*) [nvim-neorg/neorg/blob/main/lua/neorg/modules/core/keybinds/keybinds.lua#L6-L156](https://github.com/nvim-neorg/neorg/blob/main/lua/neorg/modules/core/keybinds/keybinds.lua#L6-L156)
-
-Klafyvel/vim-slime-cells: A plugin on top of vim-slime to enhance its cell feature. [Klafyvel/vim-slime-cells](https://github.com/Klafyvel/vim-slime-cells)
-
-(2) Neorg / Norg Tutorial with Kickstart Config : neovim [pysan3/Norg-Tutorial#repository-container-header](https://github.com/pysan3/Norg-Tutorial#repository-container-header)
-
-Neovim distribution for neorg? [nvim-neorg/neorg/discussions/810](https://github.com/nvim-neorg/neorg/discussions/810)
+* Klafyvel/vim-slime-cells: A plugin on top of vim-slime to enhance its cell feature. [Klafyvel/vim-slime-cells](https://github.com/Klafyvel/vim-slime-cells)
+* (2) Neorg / Norg Tutorial with Kickstart Config : neovim [pysan3/Norg-Tutorial#repository-container-header](https://github.com/pysan3/Norg-Tutorial#repository-container-header)
+* Neovim distribution for neorg? [nvim-neorg/neorg/discussions/810](https://github.com/nvim-neorg/neorg/discussions/810)
 * [nacro90/groen/blob/main/ROADMAP.md](https://github.com/nacro90/groen/blob/main/ROADMAP.md) (neorg mobile app) [nacro90/groen/blob/main/ROADMAP.md](https://github.com/nacro90/groen/blob/main/ROADMAP.md)
 * [r/neovim/comments/139zi6g/wikivim_v07_is_released/](https://www.reddit.com/r/neovim/comments/139zi6g/wikivim_v07_is_released/)
-
-TheCedarPrince/NoteMate: Tools for working with your own knowledge base [TheCedarPrince/NoteMate.jl](https://github.com/TheCedarPrince/NoteMate.jl)
-
-Hack Your Brain With Obsidian.md - YouTube [](https://www.youtube.com/watch?v=DbsAQSIKQXk)
-
-Dendron [dendron.so/](https://www.dendron.so/)
-
-use Norg parser (Rust) -> Delta(WIP) - AppFlowy Docs [docs.appflowy.io/docs/documentation/software-contributions/architecture/backend/delta](https://docs.appflowy.io/docs/documentation/software-contributions/architecture/backend/delta)
-
-Markdown · The Julia Language [docs.julialang.org/en/v1/stdlib/Markdown/](https://docs.julialang.org/en/v1/stdlib/Markdown/)
-
-Marko 2.0.0 documentation [marko-py.readthedocs.io/en/latest/](https://marko-py.readthedocs.io/en/latest/)
-
-Logseq Community Hub [hub.logseq.com/](https://hub.logseq.com/)
-
-Logseq: A privacy-first, open-source knowledge base [logseq.com/](https://logseq.com/)
-
-*** User Interface [wiki.dendron.so/notes/gHdxXlNMr1w4xqee0n-Mb/](https://wiki.dendron.so/notes/gHdxXlNMr1w4xqee0n-Mb/)
+* TheCedarPrince/NoteMate: Tools for working with your own knowledge base [TheCedarPrince/NoteMate.jl](https://github.com/TheCedarPrince/NoteMate.jl)
+* Hack Your Brain With Obsidian.md - YouTube [video](https://www.youtube.com/watch?v=DbsAQSIKQXk)
+* Dendron [dendron.so/](https://www.dendron.so/)
+* use Norg parser (Rust) -> Delta(WIP) - AppFlowy Docs [docs.appflowy.io/docs/documentation/software-contributions/architecture/backend/delta](https://docs.appflowy.io/docs/documentation/software-contributions/architecture/backend/delta)
+* Markdown · The Julia Language [docs.julialang.org/en/v1/stdlib/Markdown/](https://docs.julialang.org/en/v1/stdlib/Markdown/)
+* Marko 2.0.0 documentation [marko-py.readthedocs.io/en/latest/](https://marko-py.readthedocs.io/en/latest/)
+* Logseq Community Hub [hub.logseq.com/](https://hub.logseq.com/)
+* Logseq: A privacy-first, open-source knowledge base [logseq.com/](https://logseq.com/)
+*  User Interface [wiki.dendron.so/notes/gHdxXlNMr1w4xqee0n-Mb/](https://wiki.dendron.so/notes/gHdxXlNMr1w4xqee0n-Mb/)
 * [logseq](https://github.com/logseq/logseq): A privacy-first, open-source platform for knowledge management and collaboration. Download link: [logseq/logseq/releases.](http://github.com/logseq/logseq/releases.) roadmap: [trello.com/b/8txSM12G/roadmap](http://trello.com/b/8txSM12G/roadmap)
-
-miyuchina/mistletoe: A fast, extensible and spec-compliant Markdown parser in pure Python. [miyuchina/mistletoe](https://github.com/miyuchina/mistletoe)
+* miyuchina/mistletoe: A fast, extensible and spec-compliant Markdown parser in pure Python. [miyuchina/mistletoe](https://github.com/miyuchina/mistletoe)
 * [discord.com/channels/834325286664929280/877666474888675368/1114283147354460270](https://discord.com/channels/834325286664929280/877666474888675368/1114283147354460270) [discord.com/channels/834325286664929280/877666474888675368/1114283147354460270](https://discord.com/channels/834325286664929280/877666474888675368/1114283147354460270)
 * [pysan3/dotfiles](https://github.com/pysan3/dotfiles)
 * [search?q=neorg-notes&type=repositories](https://github.com/search?q=neorg-notes&type=repositories)

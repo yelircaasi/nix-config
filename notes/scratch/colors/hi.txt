@@ -4337,4 +4337,4 @@ shShellVariablesxxx links to PreProc
 shDerefPOLxxx links to shDerefOp
 	Last set from /nix/store/frzsi5a7p2m9x2i51if4y2dmjmqb4lmd-neovim-unwrapped-4e59422/share/nvim/runtime/syntax/sh.vim line 687
 shFunctionNamexxx links to Function
-	Last set from /nix/store/frzsi5a7p2m9x2i51if4y2dmjmqb4lmd-neovim-unwrapped-4e59422/share/nvim/runtime/syntax/sh.vim line 777                                                                                                                                        
+	Last set from /nix/store/frzsi5a7p2m9x2i51if4y2dmjmqb4lmd-neovim-unwrapped-4e59422/share/nvim/runtime/syntax/sh.vim line 777

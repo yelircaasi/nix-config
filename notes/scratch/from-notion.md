@@ -1,7 +1,9 @@
 # Scratch
 
 ## misc reading / watching
+
 ### Playlists and Channels
+
 * [Design of Digital Circuits - ETH Zürich - Spring 2018](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_QedyPWtRmFUJ2F8DdYP7l)
 * [Design of Digital Circuits - ETH Zürich - Spring 2019](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi8J58xLKBNFQFHRO3GrXxA9)
 * [Digital Circuits and Computer Architecture - ETH Zurich - Spring 2017](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-IXWTT7xoNYpst5-zdZQ6y)
@@ -88,7 +90,7 @@
 * [Linear Algebra](https://www.youtube.com/playlist?list=PLDDGPdw7e6AjJacaEe9awozSaOou-NIx_)
 * [Linear Algebra Done Right](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
 * [Linear Algebra for Gate](https://www.youtube.com/playlist?list=PLPiOSvowot1JLNguTkQUfXQJlLLML54yM)
-* [Linear Algebra II](https://www.youtube.com/playlist?list=PLOg6LhplIxlpyH2GSftybzR71cdfmivzM) ***
+* [Linear Algebra II](https://www.youtube.com/playlist?list=PLOg6LhplIxlpyH2GSftybzR71cdfmivzM) 
 * [Logic in Philosophy and Mathematics](https://www.youtube.com/playlist?list=PLDDGPdw7e6AhsNuxXP3D-45Is96L8sdSG)
 * [Natural Language Processing -- Stanford University [FULL COURSE]](https://www.youtube.com/playlist?list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv)
 * [Natural Language Processing [FULL COURSE] | University of Michigan](https://www.youtube.com/playlist?list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR)
@@ -139,21 +141,23 @@
 * [Parsing](https://www.youtube.com/playlist?list=PL1Mcznu7_9aLw8imx7-Um6thKUv7aGbVu)
 * [Python3 Advanced Tutorials](https://www.youtube.com/playlist?list=PL1A2CSdiySGIPxpSlgzsZiWDavYTAx61d)
 * [Reinforcement Learning](https://www.youtube.com/playlist?list=PLyqSpQzTE6M_FwzHFAyf4LSkz_IjMyjD9)
+
 ### Sites or People
+
 * [Deep Linux - YouTube](https://www.youtube.com/@deeplinux2248)
-* * [Schlau ist wow](https://www.youtube.com/channel/UCidxCGmO_xUgp84YnC5AMKQ)
+* [Schlau ist wow](https://www.youtube.com/channel/UCidxCGmO_xUgp84YnC5AMKQ)
 * → [git.sr.ht/~misterio/](https://git.sr.ht/~misterio/)
-* * [david-peter.de/](https://david-peter.de/)
+* [david-peter.de/](https://david-peter.de/)
 * [erinkissane.com/](https://erinkissane.com/)
 * [resobscura.substack.com/](https://resobscura.substack.com/)
 * [mirko.pm/](https://mirko.pm/)
-* [](https://www.youtube.com/@alexhyettdev)
+* [video](https://www.youtube.com/@alexhyettdev)
 * [smallpotatoes.paulbloom.net/](https://smallpotatoes.paulbloom.net/)
 * [baez.link/](https://baez.link/)
 * [linus.schreibt.jetzt/](https://linus.schreibt.jetzt/)
 * [thecollector.com/](https://www.thecollector.com/)
-* [github.com/dreamsofcode-io](https://github.com/dreamsofcode-io)
-* [](https://www.youtube.com/@HealthyGamerGG)
+* [dreamsofcode-io](https://github.com/dreamsofcode-io)
+* [video](https://www.youtube.com/@HealthyGamerGG)
 * [Valerio Velardo - The Sound of AI](https://www.youtube.com/c/ValerioVelardoTheSoundofAI)
 * [Physics Videos by Eugene Khutoryansky](https://www.youtube.com/user/EugeneKhutoryansky)
 * [Joss Fong List](https://www.youtube.com/playlist?list=PLaEUpi2_Lkoih8DqJetVLVmDBoycKgUK8)
@@ -166,7 +170,7 @@
 * [Jake B - YouTube](https://www.youtube.com/@JakeBox0)
 * [Cade - YouTube](https://www.youtube.com/@cadetriestocode/videos)
 * [Leios Labs - YouTube](https://www.youtube.com/@LeiosLabs)
-* [](https://www.youtube.com/@marcusbirkenkrahe2347)
+* [video](https://www.youtube.com/@marcusbirkenkrahe2347)
 * [The Weekend University](https://www.youtube.com/c/TheWeekendUniversity)
 * [Traversy Media](https://www.youtube.com/c/TraversyMedia)
 * [Pragmatic Engineer](https://www.youtube.com/c/mrgergelyorosz)
@@ -181,8 +185,11 @@
 * [Shiven Kapur](https://www.youtube.com/channel/UCd1H-I04cMETjrYUmw__zvQ)
 * [Code Sports - Channel Introduction - What this channel is](https://www.youtube.com/watch?v=LBobO4sSBAc&list=WL&index=519) all about
 * [Defend Intelligence](https://www.youtube.com/c/DefendIntelligence-tech)
+
 ### YouTube
+
 #### One-Shot Tech / Math / Science → SORT
+
 * [r/functionalprogramming/s/7GT4lffGvp](https://www.reddit.com/r/functionalprogramming/s/7GT4lffGvp) Functional Core, …
 * [blog.trl.sn/blog/what-is-a-json-number/](https://blog.trl.sn/blog/what-is-a-json-number/)
 * [posit-dev.github.io/great-tables/blog/design-philosophy/](https://posit-dev.github.io/great-tables/blog/design-philosophy/)
@@ -221,12 +228,16 @@
 * [Approximate Methods | Decision Making Under Uncertainty using](https://www.youtube.com/watch?v=hv2Vc8cU2YY&list=WL&index=48) POMDPs.jl
 * [Inconsistency in Conference Peer Review: Revisiting the 2014 NeurIPS Experiment (Paper E](https://www.youtube.com/watch?v=19Q-vMd9bYg&list=WL&index=49)xplained)
 * [The Mathematics of Machine](https://www.youtube.com/watch?v=Rt6beTKDtqY&list=WL&index=55) Learning
+
 #### Top
+
 * [The CEO of PROTON answers YOUR questions! Drive, Linux support, Photos, features, and a lot more! - YouTube](https://www.youtube.com/watch?v=Dp7ght2fMR4)
 * [How to Get Your Brain to Focus | Chris Bailey | TEDxM](https://www.youtube.com/watch?v=Hu4Yvq-g7_Y&list=WL&index=242)anchester
+
 #### AI
+
 * [How AI Discovered a Faster Matrix Multiplication Algorithm - YouTube](https://www.youtube.com/watch?v=fDAPJ7rvcUw)
-* [**** CS Professor Sounds Alarm on AI and Programmers - YouTube](https://www.youtube.com/watch?v=uuvjOvAdnOk)
+* [ CS Professor Sounds Alarm on AI and Programmers - YouTube](https://www.youtube.com/watch?v=uuvjOvAdnOk)
 * [Create Your OWN GPTs Like a Pro! 21 Must Try Custom Instructions Revealed! - YouTube](https://www.youtube.com/watch?v=tuEocnEJKtQ)
 * [Here's What Ethical AI Really Means - YouTube](https://www.youtube.com/watch?v=AaU6tI2pb3M)
 * [Large Language Models and The End of Programming - CS50 Tech Talk with Dr. Matt Welsh - YouTube](https://www.youtube.com/watch?v=JhCl-GeT4jw)
@@ -250,7 +261,7 @@
 * [Better than Copilot? This AI plugin for Neovim is Incredible - YouTube](https://www.youtube.com/watch?v=7k0KZsheLP4)
 * [FINALLY! Claude AI is FREE in 95 Countries!!! - YouTube](https://www.youtube.com/watch?v=JQoT5ewO_hc)
 * [Watching Neural Networks Learn - YouTube](https://m.youtube.com/watch?v=TkwXa7Cvfr8)
-* How To Use AutoGen With ANY Open-Source LLM FREE (Under 5 min!) [](https://www.youtube.com/watch?v=10FCv-gCKug)
+* How To Use AutoGen With ANY Open-Source LLM FREE (Under 5 min!) [video](https://www.youtube.com/watch?v=10FCv-gCKug)
 * NVIDIA CEO: "Programmieren lernen ist Zeitverschwendung" | Morpheus Meinung - YouTube
 * [Humans to Robots Motion Research Group](https://www.youtube.com/channel/UCVe0W0-tDpHaTuxLB8DmV2g)
 * [Illustrated Guide to Transformers Neural Network: A step by step ex](https://www.youtube.com/watch?v=4Bdc55j80l8&list=WL&index=514)planation
@@ -358,9 +369,10 @@
 * [Autoencoders Mad](https://www.youtube.com/watch?v=aqaVv3RiNow&list=WL&index=206)e Simple!
 * [Audio Model with TensorFlow.js wit](https://www.youtube.com/watch?v=-1QGEQWhmSI&list=WL&index=513)h Ping Yu
 * [10 differences between artificial intelligence and human int](https://www.youtube.com/watch?v=fxiHM11w-rk&list=WL&index=496)elligence
+
 #### FP
-* [](https://www.youtube.com/@reidevans2076/playlists)
-*
+
+* [video](https://www.youtube.com/@reidevans2076/playlists)
 * [Why functions are turing complete (Lambda Calculus) - YouTube](https://www.youtube.com/watch?v=m32kbFXBRR0)
 * [L16: Lambda Calculus Introduction - YouTube](https://www.youtube.com/watch?v=RqA-m_QMJYc)
 * [Lambda Calculus: The foundation of functional programming, and the simplest programming language - YouTube](https://www.youtube.com/watch?v=_n4LIt2WPzE)
@@ -385,7 +397,9 @@
 * [Object Oriented Programming vs Functional Pr](https://www.youtube.com/watch?v=wyABTfR9UTU&list=WL&index=324)ogramming
 * [22 - Introduction](https://www.youtube.com/watch?v=isrwVAS15TA&list=WL&index=270&t=10s) to Either
 * [Monoids, Monads, and Applicative Functors: Repeated Software Patterns - David Sankel - Cp](https://www.youtube.com/watch?v=giWCdQ7fnQU&list=WL&index=144)pCon 2020
+
 #### Julia
+
 * [Julia 1.6 is out | All you nee](https://www.youtube.com/watch?v=udEGodQt7ag&list=WL&index=370&t=7s)d to know
 * [Julia at ‘Escape Velocity’ - Jeff Bezanson Talks Julia with B](https://www.youtube.com/watch?v=-B0xYcbfDCo&list=WL&index=375)ruce Tate
 * [Julia Multiple Dispatch: Stefan Karpinski Talks Julia with](https://www.youtube.com/watch?v=gCBACk-REiM&list=WL&index=374&t=5s) Bruce Tate
@@ -417,7 +431,9 @@
 * [Viral Shah on Julia Computing, ML dev productivity & Similarities & differences between](https://www.youtube.com/watch?v=gXO3CxrpcNQ&list=WL&index=372&t=84s) ML & HPC
 * [Flux: The Elegant Machine Learning Library | M](https://www.youtube.com/watch?v=R81pmvTP_Ik&list=WL&index=294)ike Innes
 * [David Higgins - Introduction to Julia for Python D](https://www.youtube.com/watch?v=qhrY0c_BHs8&list=WL&index=291)evelopers
+
 #### Python
+
 * [Threading vs. multiprocessing in Python - YouTube](https://www.youtube.com/watch?v=m70_u0DPK5k)
 * [Parsing data with Pydantic - A Python short by Michael Kennedy - YouTube](https://www.youtube.com/watch?v=aHv7-6WIxNM)
 * [Pydantic is all you need: Jason Liu - YouTube](https://www.youtube.com/watch?v=yj-wSRJwrrc)
@@ -447,7 +463,9 @@
 * [Five Amazing Python Libraries you should](https://www.youtube.com/watch?v=eILeIEE3C8c&list=WL&index=421) be using!
 * [Super quick Python automat](https://www.youtube.com/watch?v=qbW6FRbaSl0&list=WL&index=878)ion ideas
 * [Sockets Tutorial with Python 3 part 1 - sending and recei](https://www.youtube.com/watch?v=Lbfe3-v7yE0&list=WL&index=907)ving data
+
 #### Rust
+
 * [Rust Does Interfaces BETTER! - YouTube](https://www.youtube.com/watch?v=5QFDQRkbllo)
 * [Rust is easy... (we make it hard) - YouTube](https://www.youtube.com/watch?v=06CVZKbNvgE)
 * [All Rust features explained - YouTube](https://www.youtube.com/watch?v=784JWR4oxOI&t=10s)
@@ -460,7 +478,9 @@
 * [Rust, Modern Solutions to Modern Problems - YouTube](https://www.youtube.com/watch?v=pNWKI6xtveQ)
 * [A Case for Oxidation: The Rust Programming](https://www.youtube.com/watch?v=cDFSrVhnZKo&list=WL&index=239) Language
 * [Why would a python programmer learn rust when there are no j](https://www.youtube.com/watch?v=IYLf8lUqR40&list=WL&index=883)obs in it
+
 #### make difference
+
 * [37 Ways To Make a Difference in the World](https://www.goodgoodgood.co/articles/how-to-make-a-difference)
 * [25 Ways to Make a Difference in the World Every Day](https://tinybuddha.com/blog/25-ways-to-make-a-difference-in-the-world-every-day/)
 * [Make a difference. Change the world and change yourself.](https://www.pursuit-of-happiness.org/participate/make-a-difference/)
@@ -469,7 +489,9 @@
 * [8 Easy Ways You Can Make a Positive Difference in the World - The Good Men Project](https://goodmenproject.com/featured-content/8-easy-ways-you-can-make-a-positive-difference-in-the-world/)
 * [25 Ways to Make a Difference in the World in 2023](https://declutterthemind.com/blog/make-a-difference/)
 * [30 Practical Ways to Make A Difference In The World Today](https://buddingoptimist.com/how-to-make-a-difference/)
+
 #### nvim, emacs
+
 * [Vim vs NeoVim, What's the Difference? Which Should You Use? - YouTube](https://www.youtube.com/watch?v=R8tI4gpzkE4)
 * [Why I DON'T Use EMACS! - YouTube](https://www.youtube.com/watch?v=1mr3issv79s)
 * [You Should Really Learn Org Mode - It's Easy - YouTube](https://www.youtube.com/watch?v=0-brF21ShRk)
@@ -506,9 +528,8 @@
 * [Interactive Vim for Python - YouTube](https://www.youtube.com/watch?v=RwF5mPlb094)
 * [Python REPL In Vim Changed My Life As A Developer (Neovim, Codi, Virtual Text) - YouTube](https://www.youtube.com/watch?v=iGrUvcQyfhc)
 * [Don't Use the Sidebar in](https://www.youtube.com/watch?v=s3H6PmB4SZ4&list=WL&index=332) VS Code!!
-#### Misc Coding & Tech
-    #### Top
-    #### Tech News & Media
+#### Misc Coding & Tech    #### Top    #### Tech News & Media
+
 * [Making Minimalist Web Server in C on Linux - YouTube](https://www.youtube.com/watch?v=2HrYIl6GpYg)
 * [Systemd Deep-Dive: A Complete, Easy to Understand Guide for Everyone - YouTube](https://www.youtube.com/watch?v=Kzpm-rGAXos)
 * [Stop Using git add . - YouTube](https://www.youtube.com/watch?v=u3NG1966zso)
@@ -588,8 +609,7 @@
 * [The Algorithm Behind Spell Checkers - YouTube](https://m.youtube.com/watch?v=d-Eq6x1yssU)
 * [Expo in 100 Seconds - YouTube](https://www.youtube.com/watch?v%3DvFW_TxKLyrE)
 * Most-loved CRUD App [youtu.be/3oN70MzSDfY?si=FNOSS0ztVALLAT5y](https://youtu.be/3oN70MzSDfY?si=FNOSS0ztVALLAT5y)
-* No really, how does Linux run executables? [](https://m.youtube.com/watch?v=Ia5jyz8sOCM)
-*
+* No really, how does Linux run executables? [...](https://m.youtube.com/watch?v=Ia5jyz8sOCM)
 * [How principled coders outperform the competition - YouTube](https://www.youtube.com/watch?v=q1qKv5TBaOA)
 * [Write better code by doing less. The S in SOLID. - YouTube](https://www.youtube.com/watch?v=ywDxJbULcdM)
 * [Flatpak, a technical walkthrough - YouTube](https://www.youtube.com/watch?v=K0bkapSpzzk)
@@ -657,7 +677,6 @@
 * [How to Do 90% of What Plugins Do (With](https://www.youtube.com/watch?v=XA2WjJbmmoM&list=WL&index=235&t=3606s) Just Vim)
 * [Arm vs x86 - Key Differences](https://www.youtube.com/watch?v=AADZo73yrq4&list=WL&index=126) Explained
 * [greptile.com/blog/100-devs](https://greptile.com/blog/100-devs)
-*
 * [How I would learn to code (if I could st](https://www.youtube.com/watch?v=MHPGeQD8TvI&list=WL&index=85)art over)
 * [Uncle Bob’ SOLID Principles for Machine Learning Engineers: Course](https://www.youtube.com/watch?v=ul8LLiFY0Dw&list=WL&index=84) Overview
 * [Confessions from a Big Tech Hiring Manager: Tips for Software Engineering I](https://www.youtube.com/watch?v=vFOw_m5zNCs&list=WL&index=103)nterviews
@@ -782,7 +801,9 @@
 * [Building Collision Simulations: An Introduction to Computer](https://www.youtube.com/watch?v=eED4bSkYCB8&list=WL&index=719) Graphics
 * [You don't know how Quantum Comput](https://www.youtube.com/watch?v=ZoT82NDpcvQ&list=WL&index=220)ers work!
 * [Brain Games that Capture Brain Circuits and What Neuroscience Tells Us about](https://www.youtube.com/watch?v=eK3T5UIwr3E&list=WL&index=974) the Self
+
 #### Music
+
 * [Lacrimosa - 30th Anniversary Live Streaming (FULL CONCERT) - YouTube](https://www.youtube.com/watch?v=kAKyS5a6O0E)
 * [Nightwish - Wish I Had An Angel (OFFICIAL VIDEO) - YouTube](https://www.youtube.com/watch?v=wEERFBI9eCg)
 * [Disco Music 70s - Video Mix - YouTube](https://www.youtube.com/watch?v=TsuVAQkfCes)
@@ -816,9 +837,10 @@
 * [beyondtheblack_official](https://www.youtube.com/channel/UCv8qGsOBKIMaIV8_BQrb6tQ)
 * [Sabaton – To Hell And Back (Acoustic Cover by Beyond t](https://www.youtube.com/watch?v=TZdXYFi_3-s&list=WL&index=727)he Black)
 * [Ana Vidović - FULL CONCERT - CLASSICAL GUITAR - Live from St. Mark's, SF - Omni F](https://www.youtube.com/watch?v=e26zZ83Oh6Y&list=WL&index=252)oundation
+
 #### Math
-* Gödel's Incompleteness Theorems: An Informal Introduction to Formal Logic #SoME2 - YouTube [](https://www.youtube.com/watch?v=9GjCIU_ZHIo)
-*
+
+* Gödel's Incompleteness Theorems: An Informal Introduction to Formal Logic #SoME2 - YouTube [video](https://www.youtube.com/watch?v=9GjCIU_ZHIo)
 * [Why can't you multiply vectors? - YouTube](https://www.youtube.com/watch?v=htYh-Tq7ZBI)
 * [The 7 Levels of Math - YouTube](https://www.youtube.com/watch?v=EPe86sveyRY)
 * [How One Line in the Oldest Math Text Hinted at Hidden Universes - YouTube](https://www.youtube.com/watch?v=lFlu60qs7_4)
@@ -832,8 +854,7 @@
 * [The Concept So Much of Modern Math is Built On | Compactness - YouTube](https://m.youtube.com/watch?v=td7Nz9ATyWY)
 * [Mastering Dynamic Programming - How to solve any interview problem (Part 1) - YouTube](https://m.youtube.com/watch?v=Hdr64lKQ3e4)
 * [SoME](https://some.3b1b.co/)
-* Gödel's Incompleteness Theorems: An Informal Introduction to Formal Logic [](https://www.youtube.com/watch?v=9GjCIU_ZHIo)
-*
+* Gödel's Incompleteness Theorems: An Informal Introduction to Formal Logic [video](https://www.youtube.com/watch?v=9GjCIU_ZHIo)
 * [Why is the "central limit" a normal distribution? - YouTube](https://www.youtube.com/watch?v=d_qvLDhkg00)
 * The Trillion Dollar Equation - YouTube
 * [Do Complex Numbe](https://www.youtube.com/watch?v=ALc8CBYOfkw&list=WL&index=530)rs Exist?
@@ -852,7 +873,6 @@
 * [Discovering Poincare](https://www.youtube.com/watch?v=2Z2oYc5IS7M&list=WL&index=54) Mappings
 * [3b1b contest videos](https://www.youtube.com/playlist?list=PLnQX-jgAF5pQS2GUFCsatSyZkSH7e8UM8)
 * [3blue1brown.com/topics/calculus](https://www.3blue1brown.com/topics/calculus)
-*
 * [This is why you're learning differential](https://www.youtube.com/watch?v=ifbaAqfqpc4&list=WL&index=67) equations
 * [What is the area of a](https://www.youtube.com/watch?v=gjtTcyWL0NA&list=WL&index=87) Squircle?
 * [How does Dobble (Spot](https://www.youtube.com/watch?v=VTDKqW_GLkw&list=WL&index=298&t=5s) It) work?
@@ -908,17 +928,22 @@
 * [But what is a Fourier series? From heat flow to drawing with cir](https://www.youtube.com/watch?v=r6sGWTCMz2k&list=WL&index=283&t=222s)cles | DE4
 * [But HOW did Euler do it?! A BEAUTIFUL Solution to the FAMOUS Basel](https://www.youtube.com/watch?v=JAr512hLsEU&list=WL&index=796) Problem!
 * [But what is a partial differential equati](https://www.youtube.com/watch?v=ly4S0oi3Yz8&list=WL&index=989&t=79s)on? | DE2
+
 #### Nebokrai
+
 * [My Secret Weapon to Getting Healthy | Using Python to Schedule Workouts - YouTube](https://www.youtube.com/watch?v=1SlXuFGIHhM)
 * [OPEN SOURCE alternatives to the MOST POPULAR productivity apps! - YouTube](https://www.youtube.com/watch?v=P8accXNcwjs&t=7s)
 * [I coded a workout - YouTube](https://www.youtube.com/watch?v=2rNUXPghuKM)
-* Taskwarrior video [](https://www.youtube.com/watch?v=U4pGz4KI1J0)
-*
+* Taskwarrior video [video](https://www.youtube.com/watch?v=U4pGz4KI1J0)
 * [The Feynman Technique: Master the Art of Learning](https://fs.blog/feynman-technique/)
 * [Anna Nicanorova: Optimizing Life Everyday Problems Solved with Linear Programing](https://www.youtube.com/watch?v=7yZ5xxdkTb8&list=WL&index=718) in Python
+
 #### Nix
+
 * [Matthew Croughan - Use flake.nix, not Dockerfile - MCH2022 - YouTube](https://www.youtube.com/watch?v=0uixRE8xlbY)
+
 #### Ricing, Software
+
 * [Qutebrowser + Ranger = Pure Awesome - YouTube](https://www.youtube.com/watch?v=ce2NOmTBWfo)
 * [Syncthing - The Based Way to Sync Your Files - YouTube](https://www.youtube.com/watch?v=Uag8PJaO0N4)
 * [Simple, Non-Commercial, Open Source Notes - YouTube](https://www.youtube.com/watch?v=XRpHIa-2XCE)
@@ -950,7 +975,7 @@
 * [Searching For The Right Minimal Browser - YouTube](https://www.youtube.com/watch?v=b8kxdiskGzI)
 * [riverwm - YouTube](https://www.youtube.com/results?search_query=riverwm)
 * [Comparing Different Wayland Compositors - YouTube](https://www.youtube.com/watch?v=NfDPP67ZqhQ)
-* Miracle OS [](https://www.youtube.com/watch?v=u3221gLpCv0)
+* Miracle OS [video](https://www.youtube.com/watch?v=u3221gLpCv0)
 * [Red Hat: why I'm going all in on community-driven Linux distros. - YouTube](https://www.youtube.com/watch?v=vUXYbt1eLTA)
 * [OPEN SOURCE your Android Phone: open source Android ROMS and apps - YouTube](https://www.youtube.com/watch?v=Llrrzh6hxcA)
 * [My Linux For Work - YouTube](https://www.youtube.com/@mylinuxforwork)
@@ -968,15 +993,16 @@
 * [Dragon: Eliminate The Need For All GUI File Managers! - YouTube](https://www.youtube.com/watch?v=GZ4YM7x_Fb4)
 * [I really like Gentoo Linux! - YouTube](https://www.youtube.com/watch?v=Up0Q0LGEHYk)
 * [Open Source NVIDIA Drivers Are Finally Good - YouTube](https://www.youtube.com/watch?v=IIGEElOsoJw)
-* History of x11 [](https://www.youtube.com/watch?v=R-N-fgKWYGU)
+* History of x11 [video](https://www.youtube.com/watch?v=R-N-fgKWYGU)
 * Nyxt: The Internet on your terms / Pierre Neidhardt / GambiConf EU 202 [youtu.be/wCHnb8pvneE?si=lSimV_91wS0fGFud](https://youtu.be/wCHnb8pvneE?si=lSimV_91wS0fGFud)
-* Scobel Daten [](https://m.youtube.com/watch?v=L6gNHj_OnTc)
-*
+* Scobel Daten [...](https://m.youtube.com/watch?v=L6gNHj_OnTc)
 * [Linus Torvalds On Future Of Desktop Linux - YouTube](https://www.youtube.com/watch?v=mysM-V5h9z8)
 * KDE PLASMA 6 review: was it worth the wait? - YouTube
 * [Top 10 Linux Apps: Essential Software Every](https://www.youtube.com/watch?v=xeVJydgFKWo&list=WL&index=910)one Needs
 * [Taking Ubuntu To The N](https://www.youtube.com/watch?v=5b-xQkRWHjQ&list=WL&index=82)ext Level
+
 #### Entertainment
+
 * [Jimmy Carr's Thanksgiving Roast | Jimmy Carr - YouTube](https://www.youtube.com/watch?v=MIbjhBwiA0c)
 * [Whose Line Is It Anyway The Best Scenes From A Hat Season 4 - YouTube](https://www.youtube.com/watch?v=zzdho_XvIi4)
 * [Haaland, Kane oder Mbappé: Wer ist die Nummer 1?! | Bolzplatz | sportstudio - YouTube](https://www.youtube.com/watch?v=AZeTfOLdtE0)
@@ -1066,7 +1092,9 @@
 * [Welcome to Life: the singularity, ruined b](https://www.youtube.com/watch?v=IFe9wiDfb0E&list=WL&index=307)y lawyers
 * [Why the Left Think They are Better | Peter](https://www.youtube.com/watch?v=8qCHRYMe66g&list=WL&index=601&t=1s) Hitchens
 * [Borat – Understanding American exceptionalism and nat](https://www.youtube.com/watch?v=lJkkF5H57O4&list=WL&index=703)ionalism.
+
 #### Philosophy, Lifehacks, Science
+
 * [Every Style of Beer Explained | WIRED - YouTube](https://www.youtube.com/watch?v=P75SvA344QI)
 * [Russia's Geographic Problem: Collapse is inevitable | Every Century | Soviet Union 2.0 - YouTube](https://www.youtube.com/watch?v=W0seZ9gyLLU)
 * [Tom Wolfe on why Darwin's evolution theory is a "myth" - YouTube](https://www.youtube.com/watch?v=cfg0pGly-LM)
@@ -1259,7 +1287,9 @@
 * [Why The US Prison System Is The Worst In The Develo](https://www.youtube.com/watch?v=WNhlXUBNJPE&list=WL&index=764)ped World
 * [What young women believe about their own sexual pleasure | Peggy](https://www.youtube.com/watch?v=mWA2uL8zXPI&list=WL&index=300) Orenstein
 * [Beyond Point-And-Shoot Morality: Why Cognitive (Neuro)Science Matters f](https://www.youtube.com/watch?v=mwRRl3ndE4k&list=WL&index=986)or Ethics
+
 #### Langs & Linguistics
+
 * [Het Israëlisch-Palestijns conflict uitgelegd | De Avondshow met Arjen Lubach (S4) - YouTube](https://www.youtube.com/watch?v=qMqq-dWCAd0)
 * [Spécial Israël-Palestine : combien de guerres ? - Le dessous des cartes | ARTE - YouTube](https://www.youtube.com/watch?v=Dife2nFTUes)
 * [MSA | ÁRABE PARA SUPER PRINCIPIANTES // Cómo empezar a aprender árabe (el conejo) - YouTube](https://www.youtube.com/watch?v=-npIl3YLvs4)
@@ -1270,14 +1300,11 @@
 * [The Linguistics Iceberg Explained - YouTube](https://www.youtube.com/watch?v=GFz6KqZurFY)
 * Frogs (2023) | World's First Film in Ancient Greek (Full Movie) [youtu.be/Cr9bHa3xrV8?si=toMz6Hv7ebW9EVyG](https://youtu.be/Cr9bHa3xrV8?si=toMz6Hv7ebW9EVyG)
 * Які твори з української літератури має прочитати кожен українець? Поради Макса Кідрука [youtu.be/yTAy2FnkAGI?si=5IQFOSvAGJCHIpO3](https://youtu.be/yTAy2FnkAGI?si=5IQFOSvAGJCHIpO3)
-*
-* Jair Bolsonaro [](https://m.youtube.com/watch?v=wALNnFuMqmI)
-*
+* Jair Bolsonaro [...](https://m.youtube.com/watch?v=wALNnFuMqmI)
 * [7 CAUSES DU TROUBLE ANXIEUX GÉNÉRALISÉ (TAG) - YouTube](https://www.youtube.com/watch?v=2zwsgCOn06A)
 * [1. ¿Qué es Psicología? | Psicología básica y no tan básica - YouTube](https://www.youtube.com/watch?v=8Rh71n_lzFw)
 * [Phobie, stress, attaque de panique, trouble anxieux généralisé : comprendre et soigner - YouTube](https://www.youtube.com/watch?v=6LpQnMH6e2c)
 * Як запитання змінюють життя? | Марина Пташник | TEDxLviv [youtu.be/gjZVDupD_xo?si=OnUeTG4Tbp6sHTgK](https://youtu.be/gjZVDupD_xo?si=OnUeTG4Tbp6sHTgK)
-*
 * [Pourquoi l'incendie de Notre Dame nous fait si mal ? - YouTube](https://www.youtube.com/watch?v=124P2m9PKSE)
 * [RÉVÉLATIONS SUR ASSANGE, MACRON ET LES GILETS JAUNES | JUAN BRANCO - YouTube](https://www.youtube.com/watch?v=TJOz1ATQIxw)
 * [FILOSOFÍA 4: El Pensamiento Oriental - Budismo, Taoísmo y Confucianismo - YouTube](https://www.youtube.com/watch?v=PSMOA4d0Ywc)
@@ -1292,15 +1319,14 @@
 * [The Language Sounds That Could Exist,](https://www.youtube.com/watch?v=9uZam0ubq-Y&list=WL&index=628) But Don't
 * [Как Кремль приручал патриарха Кирилла гей-скандалами и секретами КГБ / фильм «Папа русский»](https://www.youtube.com/watch?v=tjDiDDVWQlA)
 * search tedxlviv
-*
 * [Vedmed Geo Collection](https://www.youtube.com/c/VedmedGeoCollection)
-* [Harry Potter and the translator's](https://www.youtube.com/watch?v=UdbOhvjIJxI&list=WL&index=365) nightmare
-    [Michael Halliday - Language evolving: Some systemic functional reflections on the history o](https://www.youtube.com/watch?v=nC-blhaIUCk&list=WL&index=1013)f meaning
+* [Harry Potter and the translator's](https://www.youtube.com/watch?v=UdbOhvjIJxI&list=WL&index=365) nightmare    [Michael Halliday - Language evolving: Some systemic functional reflections on the history o](https://www.youtube.com/watch?v=nC-blhaIUCk&list=WL&index=1013)f meaning
 * [Flemish Dutch vs. Dutch from the Netherlands | Eas](https://www.youtube.com/watch?v=I82-WZFuDT4&list=WL&index=669)y Dutch 2
 * [Steven Pinker: la lingüística como una ventana para comprender el cerebro | Gran pe](https://www.youtube.com/watch?v=Q-B_ONJIEcE&list=WL&index=1015&t=8s)nsamiento
 * [Learning a language? Speak it like you’re playing a video game | Marianna Pascal | TEDxP](https://www.youtube.com/watch?v=Ge7c7otG2mk&list=WL&index=846&t=93s)enangRoad
-*
+
 ##### accent and dialect
+
 *     [Best Scottish Accent Ever! Kevin Patterson with Tweedswood](https://www.youtube.com/watch?v=73uATsa8y5Y&list=PLVWtXi_Jrj_107IGfxlFXnWNHz-vhPGm6&index=3)
 *     [BRITISH V.S. NORTH AMERICAN ACCENTS | RyanThomasWoods](https://www.youtube.com/watch?v=scx2wh4jFY8&list=PLVWtXi_Jrj_107IGfxlFXnWNHz-vhPGm6&index=1&t=14s)
 *     [30 Dialects of the English language in the UK](https://www.youtube.com/watch?v=2pZ-Ny8q22o&list=PLVWtXi_Jrj_107IGfxlFXnWNHz-vhPGm6&index=11)
@@ -1314,9 +1340,9 @@
 *     [English Video 4: Received Pronunciation vs General American (Draft)](https://www.youtube.com/watch?v=KjMhU_qAWEc&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=47)
 *     [The English Language in 67 Accents & Random Voices](https://www.youtube.com/watch?v=riwKuKSbFDs&list=WL&index=15)
 *     [Evolution of English](https://www.youtube.com/watch?v=N1oZf-OxxEY&list=WL&index=1449)
-*
 
 ## Books
+
 * Mark Steadman - 30-Second Coding: The 50 essential principles that instruct technology, each explained in half a minute [libgen.rs/book/index.php?md5=B3C9AB0FD8B8630B155C1F2E6969C639](https://libgen.rs/book/index.php?md5=B3C9AB0FD8B8630B155C1F2E6969C639)
 * [The Sound of the Future: The Coming Age of Voice Technology](http://library.lol/main/142C5552D6D3A2ABF480014F1140DDE4)
 * Інформатика. Основи алгоритмізації і програмування. Теоретичні основи: приклади та завдання практичні роботи [http://library.lol/main/BC4DA7485764C07020B48391197C1967](http://library.lol/main/BC4DA7485764C07020B48391197C1967)
@@ -1325,13 +1351,19 @@
 * [fr.m.wikisource.org/wiki/Maximes_et_Réflexions_morales/Texte_entier](https://fr.m.wikisource.org/wiki/Maximes_et_R%C3%A9flexions_morales/Texte_entier)
 * [Antifa: The Anti-Fascist Handbook: Amazon.co.uk: Mark Bray: 9781612197036: Books](https://www.amazon.co.uk/Antifa-Anti-Fascist-Handbook-Mark-Bray/dp/1612197035/ref=as_sl_pc_tf_til?tag=philotube-21&linkCode=w00&linkId=29cf05fdf8d5fa09833863789a324a09&creativeASIN=1612197035)
 * [10 libros imprescindibles para comenzar tu biblioteca de filosofía #Booktag - YouTube](https://www.youtube.com/watch?v=SiltIHiNMRo&feature=youtu.be&fbclid=IwAR0MPySZ10IM6YaKwMF8b44aiomg-NFfRUJCDghiV9fYvPnPOrzVH50t5CE)
+
 ## Essay etc
+
 #### Coding
+
 * [research.swtch.com/xz-timeline](https://research.swtch.com/xz-timeline)
+
 #### Work
+
 * [scikit-optimize.github.io/stable/modules/generated/skopt.gp_minimize.html](https://scikit-optimize.github.io/stable/modules/generated/skopt.gp_minimize.html)
-*
+
 #### Politics and Culture
+
 * [Outrage: a toxic mix of snobbery and power governs eating in public - Architectural Review](https://www.architectural-review.com/essays/outrage/outrage-a-toxic-mix-of-snobbery-and-power-governs-eating-in-public)
 * cultural relativism and the hijab
 * [docs.opencv.org/4.x/dc/ddf/tutorial_how_to_use_OpenCV_parallel_for_new.html](https://docs.opencv.org/4.x/dc/ddf/tutorial_how_to_use_OpenCV_parallel_for_new.html)
@@ -1368,7 +1400,7 @@
 * [explainextended.com/2023/12/31/happy-new-year-15/](https://explainextended.com/2023/12/31/happy-new-year-15/)
 * [tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-advises-against-learning-to-code-leave-it-up-to-ai](https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-advises-against-learning-to-code-leave-it-up-to-ai)
 * [csl-computer.com/razer-kraken-green.html](https://www.csl-computer.com/razer-kraken-green.html) headset
-* [reddit.com/r/GetMotivated/s/8N440q42gj](https://www.reddit.com/r/GetMotivated/s/8N440q42gj) motivation and wasted time
+* [r/GetMotivated/s/8N440q42gj](https://www.reddit.com/r/GetMotivated/s/8N440q42gj) motivation and wasted time
 * [inc.com/justin-bariso/neuroscience-says-1-simple-habit-boosts-brain-connectivity-learning-memory.html](https://www.inc.com/justin-bariso/neuroscience-says-1-simple-habit-boosts-brain-connectivity-learning-memory.html)
 * [mckinsey.com/featured-insights/future-of-work/what-can-history-teach-us-about-technology-and-jobs](https://www.mckinsey.com/featured-insights/future-of-work/what-can-history-teach-us-about-technology-and-jobs)
 * ‘Hipster eugenics’: why is the media cosying up to people who want to build a super race? | Life and style | The Guardian
@@ -1393,7 +1425,7 @@
 * [arstechnica.com/security/2023/11/developers-targeted-with-malware-that-monitors-their-every-move/](https://arstechnica.com/security/2023/11/developers-targeted-with-malware-that-monitors-their-every-move/)
 * [google.com/search?q=attitudes toward meat consumption and killng animals among various cultures&ie=utf-8&oe=utf-8&client=firefox-b-m](https://www.google.com/search?q=attitudes%20toward%20meat%20consumption%20and%20killng%20animals%20among%20various%20cultures&ie=utf-8&oe=utf-8&client=firefox-b-m)
 * [techradar.com/computing/artificial-intelligence/researchers-build-ai-that-can-replicate-and-alter-itself-and-im-pretty-sure-thats-an-opening-line-from-the-original-terminator-script](https://www.techradar.com/computing/artificial-intelligence/researchers-build-ai-that-can-replicate-and-alter-itself-and-im-pretty-sure-thats-an-opening-line-from-the-original-terminator-script)
-* [kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/) → [reddit.com/r/programming/comments/182qnbd/dont_call_yourself_a_programmer_and_other_career/](https://www.reddit.com/r/programming/comments/182qnbd/dont_call_yourself_a_programmer_and_other_career/)
+* [kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/) → [r/programming/comments/182qnbd/dont_call_yourself_a_programmer_and_other_career/](https://www.reddit.com/r/programming/comments/182qnbd/dont_call_yourself_a_programmer_and_other_career/)
 * [newsletter.ruder.io/p/do-lms-represent-space-and-time](https://newsletter.ruder.io/p/do-lms-represent-space-and-time)
 * [geeksforgeeks.org/5-tips-to-make-a-career-as-a-linux-kernel-developer/](https://www.geeksforgeeks.org/5-tips-to-make-a-career-as-a-linux-kernel-developer/)
 * [duckduckgo.com/?q=workflows of top developers&ko=-1&ia=web](https://duckduckgo.com/?q=workflows%20of%20top%20developers&ko=-1&ia=web)
@@ -1437,53 +1469,54 @@
 * [The Dhammapada - scrndhamma.pdf](https://www.buddhanet.net/pdf_file/scrndhamma.pdf)
 * [Encheiridion Epictetus - Documentos de Google](https://docs.google.com/document/d/1sXjcRTugUiL0UN-QQUzfKv7BpZwJL-h6UTaQCpSlxSo/edit#heading=h.udrtcpmm2205)
 * [The Israel-Hamas War and the Manufacturing of Consent](https://nymag.com/intelligencer/2023/10/israel-gaza-war-manufactured-consent.html)
-* [Israel- Hamas Conflict: Noam Chomsky to Ilan Pappe, famous Jews who have strongly opposed Israel](https://www.cnbctv18.com/world/israel-hamas-conflict-noam-chomsky-to-henry-siegman-famous-jews-who-have-strongly-opposed-israel-18003421.htm)
-    - pod
+* [Israel- Hamas Conflict: Noam Chomsky to Ilan Pappe, famous Jews who have strongly opposed Israel](https://www.cnbctv18.com/world/israel-hamas-conflict-noam-chomsky-to-henry-siegman-famous-jews-who-have-strongly-opposed-israel-18003421.htm$1
+    * pod
 * [corteximplant.com/@0x17/111290089898902545](https://corteximplant.com/@0x17/111290089898902545) Continuous Delivery SparkFabrikProgrammiersprachen-Jungle[open.spotify.com/episode/1LaVc3ZMVUvqjoshcK7End?si=iyrnT-BmSeq6QDhkV9IZTw&nd=1&dlsi=6ff138ecb5b34a78](https://open.spotify.com/episode/1LaVc3ZMVUvqjoshcK7End?si=iyrnT-BmSeq6QDhkV9IZTw&nd=1&dlsi=6ff138ecb5b34a78)[open.spotify.com/episode/21iNpJ2UchuxYDtTAnFQhN?si=RiEVUOkRSQu83wCeHYMDsA](https://open.spotify.com/episode/21iNpJ2UchuxYDtTAnFQhN?si=RiEVUOkRSQu83wCeHYMDsA)[open.spotify.com/episode/3D9JylFdWfv9BML43Ji2UO?si=WP-RCcGjSxCdajisQa-IMA](https://open.spotify.com/episode/3D9JylFdWfv9BML43Ji2UO?si=WP-RCcGjSxCdajisQa-IMA)  ocaml[open.spotify.com/episode/41TVMxu7B4c9rLaDLrvTWn?si=Q-yj554JS-q4rlwmn9j6wQ](https://open.spotify.com/episode/41TVMxu7B4c9rLaDLrvTWn?si=Q-yj554JS-q4rlwmn9j6wQ) pod flow[open.spotify.com/episode/58B36EcM3qNdOgZrdyUVgt?si=KzeRRQ6dSPGVTXK0sudeKw&nd=1&dlsi=ff4024500a1240c6](https://open.spotify.com/episode/58B36EcM3qNdOgZrdyUVgt?si=KzeRRQ6dSPGVTXK0sudeKw&nd=1&dlsi=ff4024500a1240c6) AI pod italiano[open.spotify.com/show/12x5cqwBBQjoJo8RcOnyI5?si=b0hH15dDQgOVXKNL7jjMtQ](https://open.spotify.com/show/12x5cqwBBQjoJo8RcOnyI5?si=b0hH15dDQgOVXKNL7jjMtQ)
 * [open.spotify.com/episode/4cHCGsZlBnzkSRCJgeIm2y?si=OqPhDbrRQDecWtQexJNLiw](https://open.spotify.com/episode/4cHCGsZlBnzkSRCJgeIm2y?si=OqPhDbrRQDecWtQexJNLiw)
 * [podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5saWJzeW4uY29tLzQ2ODUxOS9yc3M](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5saWJzeW4uY29tLzQ2ODUxOS9yc3M)
 * [podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5saWJzeW4uY29tLzQ2ODUxOS9yc3M/episode/NmM4MDVjYzYtMmYxOS00OWExLTk1OWMtZWQ0OGNlZTQzODg0](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5saWJzeW4uY29tLzQ2ODUxOS9yc3M/episode/NmM4MDVjYzYtMmYxOS00OWExLTk1OWMtZWQ0OGNlZTQzODg0)
-*
+
 ## → to notes
+
 * [perceptilabs.com/papers](https://www.perceptilabs.com/papers)
-* [github.com/adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes)
-* [github.com/krshrimali/dotfiles](https://github.com/krshrimali/dotfiles)
-* [github.com/krshrimali/neovim](https://github.com/krshrimali/neovim)
-* [github.com/krshrimali/nvim-autorunner](https://github.com/krshrimali/nvim-autorunner)
-* [github.com/krshrimali/CPP-File-Manager](https://github.com/krshrimali/CPP-File-Manager)
-* nice colors [](https://www.youtube.com/watch?v=w9K6qpZoIB4)
+* [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes)
+* [krshrimali/dotfiles](https://github.com/krshrimali/dotfiles)
+* [krshrimali/neovim](https://github.com/krshrimali/neovim)
+* [krshrimali/nvim-autorunner](https://github.com/krshrimali/nvim-autorunner)
+* [krshrimali/CPP-File-Manager](https://github.com/krshrimali/CPP-File-Manager)
+* nice colors [video](https://www.youtube.com/watch?v=w9K6qpZoIB4)
 * [bayes.it/scritti/ebook.html](https://www.bayes.it/scritti/ebook.html)
-* [github.com/krshrimali/context-pilot-rs](https://github.com/krshrimali/context-pilot-rs)
-* [github.com/OXY2DEV/intro.nvim](https://github.com/OXY2DEV/intro.nvim)
-* [github.com/ssemine/fedora-catppuccin-sway-public-dots](https://github.com/ssemine/fedora-catppuccin-sway-public-dots)
-* [github.com/bluskript/nix-inspect](https://github.com/bluskript/nix-inspect)
+* [krshrimali/context-pilot-rs](https://github.com/krshrimali/context-pilot-rs)
+* [OXY2DEV/intro.nvim](https://github.com/OXY2DEV/intro.nvim)
+* [ssemine/fedora-catppuccin-sway-public-dots](https://github.com/ssemine/fedora-catppuccin-sway-public-dots)
+* [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect)
 * [wayland.app/protocols/](https://wayland.app/protocols/)
 * [libreboot.org/](https://libreboot.org/)
 * [stateof.ai/](https://www.stateof.ai/)
 * [thelatinlibrary.com/101/](https://www.thelatinlibrary.com/101/)
-* [github.com/llenotre/maestro](https://github.com/llenotre/maestro)
+* [llenotre/maestro](https://github.com/llenotre/maestro)
 * [Open, rigorous and reproducible research: A practitioner’s handbook](https://stanforddatascience.github.io/best-practices/index.html)
 * [training.linuxfoundation.org/training/plan-your-training/](https://training.linuxfoundation.org/training/plan-your-training/)
 * [training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/)
 * [substack.com/app](https://substack.com/app)
 * [GitHub - alexhuntley/Plots: A graph plotting app for GNOME](https://github.com/alexhuntley/Plots)
 * [disk.yandex.com/client/albums](https://disk.yandex.com/client/albums)
-* [reddit.com/r/unixporn/s/qvIdzujYfj](https://www.reddit.com/r/unixporn/s/qvIdzujYfj)
-* [github.com/uiua-lang/uiua](https://github.com/uiua-lang/uiua)
-* [github.com/paulopacitti/gruvbox-factory](https://github.com/paulopacitti/gruvbox-factory)
-* [github.com/nvim-neorg/neorg/wiki/Tangling](https://github.com/nvim-neorg/neorg/wiki/Tangling)
-* [github.com/Mic92/nix-ld](https://github.com/Mic92/nix-ld)
-* [github.com/catgoose/nvim](https://github.com/catgoose/nvim)
-* [github.com/JaKooLit/Arch-Hyprland](https://github.com/JaKooLit/Arch-Hyprland)
-* [github.com/archgabs/dotfiles](https://github.com/archgabs/dotfiles)
-* [github.com/ryanweideman/3d-terminal-renderer](https://github.com/ryanweideman/3d-terminal-renderer)
-* [github.com/NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware)
-* [github.com/paranoidbarbie/hyprland-catppuccin-latte](https://github.com/paranoidbarbie/hyprland-catppuccin-latte)
-* [github.com/PeterPancake695/dotfiles](https://github.com/PeterPancake695/dotfiles)
-* [github.com/atinylittleshell/comment-repl.nvim](https://github.com/atinylittleshell/comment-repl.nvim)
+* [r/unixporn/s/qvIdzujYfj](https://www.reddit.com/r/unixporn/s/qvIdzujYfj)
+* [uiua-lang/uiua](https://github.com/uiua-lang/uiua)
+* [paulopacitti/gruvbox-factory](https://github.com/paulopacitti/gruvbox-factory)
+* [nvim-neorg/neorg/wiki/Tangling](https://github.com/nvim-neorg/neorg/wiki/Tangling)
+* [Mic92/nix-ld](https://github.com/Mic92/nix-ld)
+* [catgoose/nvim](https://github.com/catgoose/nvim)
+* [JaKooLit/Arch-Hyprland](https://github.com/JaKooLit/Arch-Hyprland)
+* [archgabs/dotfiles](https://github.com/archgabs/dotfiles)
+* [ryanweideman/3d-terminal-renderer](https://github.com/ryanweideman/3d-terminal-renderer)
+* [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware)
+* [paranoidbarbie/hyprland-catppuccin-latte](https://github.com/paranoidbarbie/hyprland-catppuccin-latte)
+* [PeterPancake695/dotfiles](https://github.com/PeterPancake695/dotfiles)
+* [atinylittleshell/comment-repl.nvim](https://github.com/atinylittleshell/comment-repl.nvim)
 * [gitlab.com/domsch1988/domacs](https://gitlab.com/domsch1988/domacs)
 * [gitlab.com/domsch1988/dotfiles](https://gitlab.com/domsch1988/dotfiles)
-* [github.com/FiloSottile/age](https://github.com/FiloSottile/age)
-* [github.com/JunkFood02/Seal](https://github.com/JunkFood02/Seal)
-* [github.com/Ashinch/ReadYou](https://github.com/Ashinch/ReadYou)
-* [github.com/dpayne/wallock](https://github.com/dpayne/wallock)
+* [FiloSottile/age](https://github.com/FiloSottile/age)
+* [JunkFood02/Seal](https://github.com/JunkFood02/Seal)
+* [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou)
+* [dpayne/wallock](https://github.com/dpayne/wallock)

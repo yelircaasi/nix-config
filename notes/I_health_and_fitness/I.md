@@ -1,6 +1,5 @@
 # I
 
-
 * Reading List - Sport
 * [Neymar se vê isolado no PSG depois de um mês de conflitos](https://www.reddit.com/r/futebol/comments/729qzn/neymar_se_v%C3%AA_isolado_no_psg_depois_de_um_m%C3%AAs_de/)
 * [Modrić](https://www.reddit.com/r/croatia/comments/aezal4/modri%C4%87/)
@@ -341,14 +340,69 @@
 * Käsekuchen mit Tofu
 * Heidelbeer-Cashew-Cake
 * Pancake-Torte mit Kiwi und Nektarinen*
-
-
 * Food
 * ## Guidelines
 * ## Ideas
-* - Halloumi Burger        - [x]  Halloumi-Käse        - [x]  Brötchen        - [x]  Yoghurt (für Soße)        - [x]  Aubergine        - [x]  rote Zwiebeln        - [x]  Mayonnaise        - [x]  Rucola* - Polenta        - [x]  Polenta        - [x]  sonnengetrocknete Tomaten* - Gnocchi        - [x]  Gnocchi        - [x]  Pesto* - gefüllte Paprikaschoten        - [x]  Paprika        - [x]  Kartoffeln        - [x]  veganes Hack        - [x]  Zwiebeln        - [x]  Gewürzmischung        - [x]  Käse* - rote Linsensuppe        - [x]  rote Linsen        - [x]  Zwiebeln        - [x]  Gewürze        - [x]  grüne Zwiebeln        - [x]  Zitrone        - [x]  Tomatenmark        - [x]  Basilikum        - [x]  Zwiebeln        - [x]  Knoblauch        - [x]  Möhren        - [x]  Paprika* - Salat        - [x]  * - Curry        - [x]  Kokosmilch        - [x]  Butternut        - [x]  Kichererbsen        - [x]  Erbsen        - [x]  Tofu        - [x]  Kartoffeln        - [x]  Reis* - Tacos        - [x]  hausgemachte Tortillas: Mehl, Öl        - [x]  veganes Hack        - [x]  * - Spaghetti        - [x]  Spaghetti        - [x]  Soße* - Chili        - [x]  Bohnen        - [x]  Chilis        - [x]  Gewürz        - [x]  veganes Hackfleisch        - [x]  Maisbrot        - [x]  passierte Tomaten        - [x]  Knoblauch        - [x]  Öl        - [x]  Dosenmark        - [x]  frische Tomaten        - [x]  Brühe* - Nudelsuppe        - [x]  * - belegtes Brot        - [x]  Lachs        - [x]  * - Weizenbrei        - [x]  Weizenbrei
-* [Wie-bei-Omi-Suppe](https://www.lecker.de/wie-bei-omi-suppe-mit-mettenden-72584.html)*     - * - Dal*     - * - Nudelauflauf        - [ ]  * - Nachos*     - * - Grechka*     - sdf* - Falaffel*     - * - Schnitzel (vegan)*     - * - Linsen und Spätzle*     - * - Burritos*     - * - Kartoffelpuffer*     - * - Döner*     -
-* [Lachs-Spinat-Pfannkuchen](https://www.lecker.de/lachs-spinat-pfannkuchen-76068.html)*     - * - Milchreis*     - * - Bratwürstchen (vegan)*     - * - Wraps*     - * - .*     - * - *     - *
+* - Halloumi Burge$1
+* [x]  Halloumi-Käs$1
+* [x]  Brötche$1
+* [x]  Yoghurt (für Soße$1
+* [x]  Aubergin$1
+* [x]  rote Zwiebel$1
+* [x]  Mayonnais$1
+* [x]  Rucola* - Polent$1
+* [x]  Polent$1
+* [x]  sonnengetrocknete Tomaten* - Gnocch$1
+* [x]  Gnocch$1
+* [x]  Pesto* - gefüllte Paprikaschote$1
+* [x]  Paprik$1
+* [x]  Kartoffel$1
+* [x]  veganes Hac$1
+* [x]  Zwiebel$1
+* [x]  Gewürzmischun$1
+* [x]  Käse* - rote Linsensupp$1
+* [x]  rote Linse$1
+* [x]  Zwiebel$1
+* [x]  Gewürz$1
+* [x]  grüne Zwiebel$1
+* [x]  Zitron$1
+* [x]  Tomatenmar$1
+* [x]  Basiliku$1
+* [x]  Zwiebel$1
+* [x]  Knoblauc$1
+* [x]  Möhre$1
+* [x]  Paprika* - Sala$1
+* [x]  * - Curr$1
+* [x]  Kokosmilc$1
+* [x]  Butternu$1
+* [x]  Kichererbse$1
+* [x]  Erbse$1
+* [x]  Tof$1
+* [x]  Kartoffel$1
+* [x]  Reis* - Taco$1
+* [x]  hausgemachte Tortillas: Mehl, Ö$1
+* [x]  veganes Hac$1
+* [x]  * - Spaghett$1
+* [x]  Spaghett$1
+* [x]  Soße* - Chil$1
+* [x]  Bohne$1
+* [x]  Chili$1
+* [x]  Gewür$1
+* [x]  veganes Hackfleisc$1
+* [x]  Maisbro$1
+* [x]  passierte Tomate$1
+* [x]  Knoblauc$1
+* [x]  Ö$1
+* [x]  Dosenmar$1
+* [x]  frische Tomate$1
+* [x]  Brühe* - Nudelsupp$1
+* [x]  * - belegtes Bro$1
+* [x]  Lach$1
+* [x]  * - Weizenbre$1
+* [x]  Weizenbrei
+* [Wie-bei-Omi-Suppe](https://www.lecker.de/wie-bei-omi-suppe-mit-mettenden-72584.html)*     * * - Dal*     * * - Nudelauflau$1
+* [ ]  * - Nachos*     * * - Grechka*     * sdf* - Falaffel*     * * - Schnitzel (vegan)*     * * - Linsen und Spätzle*     * * - Burritos*     * * - Kartoffelpuffer*     * * - Döner*     -
+* [Lachs-Spinat-Pfannkuchen](https://www.lecker.de/lachs-spinat-pfannkuchen-76068.html)*     * * - Milchreis*     * * - Bratwürstchen (vegan)*     * * - Wraps*     * * - .*     * * - *     * *
 * Clothes
 * ### Hosen
 * - braune Hose* - schwarze Hose* - Jeans
@@ -356,8 +410,6 @@
 * - grün und blau, warm* - Pulli - grau, schwarz und blau* - schwarzer Pulli* - hellgrauer Pulli* - dunkelgrauer Pulli* - graues T-Shirt von Decathlon* - rotes T-Shirt von Decathlon
 * [Le Sport - Une Philosophie?](http://www.iforep.fr/wp-content/uploads/2016/04/Le-sport-une-philosophie-Sciences-Humaines.pdf)
 * [milkadamia.com/](https://milkadamia.com/)
-
-
 * Running Loops
 * TODO: Create 20 compelling routes,
 * [google.com/maps/dir/Sternweilerstraße+48,+69242+Mühlhausen,+Germania/49.2642296,8.7461971/49.2657578,8.7518072/Sternweilerstraße+48,+69242+Mühlhausen,+Germania/@49.263356,8.7462481,16.42z/data=!4m16!4m15!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!1m0!1m0!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!3e2?entry=ttu](https://www.google.com/maps/dir/Sternweilerstra%C3%9Fe+48,+69242+M%C3%BChlhausen,+Germania/49.2642296,8.7461971/49.2657578,8.7518072/Sternweilerstra%C3%9Fe+48,+69242+M%C3%BChlhausen,+Germania/@49.263356,8.7462481,16.42z/data=!4m16!4m15!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!1m0!1m0!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!3e2?entry=ttu)
@@ -369,8 +421,6 @@
 * [google.com/maps/dir/Sternweilerstraße+48,+69242+Mühlhausen,+Germania/49.2576829,8.733949/49.2692188,8.7576033/Sternweilerstraße+48,+69242+Mühlhausen,+Germania/@49.2628034,8.7360565,14.29z/data=!4m46!4m45!1m15!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!3m4!1m2!1d8.7493803!2d49.2569214!3s0x4797966a02813ec3:0x92197d86716a8ec5!3m4!1m2!1d8.7327823!2d49.2535445!3s0x4797963b853e1dab:0x4c2125bd2a853e35!1m10!3m4!1m2!1d8.7396196!2d49.2617135!3s0x4797961440d6a123:0xe7d613b8d3a9c70!3m4!1m2!1d8.7600695!2d49.273445!3s0x479796775c4a99e7:0xee1e4e3630120e32!1m10!3m4!1m2!1d8.7648401!2d49.2671985!3s0x4797967b51a9f93f:0x18270e66a7fdabd0!3m4!1m2!1d8.759103!2d49.2638952!3s0x479796659af9d763:0x4d1e169b05a41ad4!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!3e2?entry=ttu](https://www.google.com/maps/dir/Sternweilerstra%C3%9Fe+48,+69242+M%C3%BChlhausen,+Germania/49.2576829,8.733949/49.2692188,8.7576033/Sternweilerstra%C3%9Fe+48,+69242+M%C3%BChlhausen,+Germania/@49.2628034,8.7360565,14.29z/data=!4m46!4m45!1m15!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!3m4!1m2!1d8.7493803!2d49.2569214!3s0x4797966a02813ec3:0x92197d86716a8ec5!3m4!1m2!1d8.7327823!2d49.2535445!3s0x4797963b853e1dab:0x4c2125bd2a853e35!1m10!3m4!1m2!1d8.7396196!2d49.2617135!3s0x4797961440d6a123:0xe7d613b8d3a9c70!3m4!1m2!1d8.7600695!2d49.273445!3s0x479796775c4a99e7:0xee1e4e3630120e32!1m10!3m4!1m2!1d8.7648401!2d49.2671985!3s0x4797967b51a9f93f:0x18270e66a7fdabd0!3m4!1m2!1d8.759103!2d49.2638952!3s0x479796659af9d763:0x4d1e169b05a41ad4!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!3e2?entry=ttu)
 * [google.com/maps/dir/Sternweilerstraße+48,+69242+Mühlhausen,+Germania/49.2644449,8.7429669/49.2668767,8.7270073/49.2501931,8.7399853/49.256435,8.7507266/Sternweilerstraße+48,+69242+Mühlhausen,+Germania/@49.2667426,8.7198688,14z/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!1m0!1m0!1m0!1m0!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!3e2?entry=ttu](https://www.google.com/maps/dir/Sternweilerstra%C3%9Fe+48,+69242+M%C3%BChlhausen,+Germania/49.2644449,8.7429669/49.2668767,8.7270073/49.2501931,8.7399853/49.256435,8.7507266/Sternweilerstra%C3%9Fe+48,+69242+M%C3%BChlhausen,+Germania/@49.2667426,8.7198688,14z/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!1m0!1m0!1m0!1m0!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!3e2?entry=ttu)
 * [google.com/maps/dir/Sternweilerstraße+48,+69242+Mühlhausen,+Germania/49.2444302,8.7536698/49.2485918,8.7677989/49.2554642,8.7610261/Sternweilerstraße+48,+69242+Mühlhausen,+Germania/@49.2533545,8.7486654,15z/data=!3m1!4b1!4m17!4m16!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!1m0!1m0!1m0!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!3e2?entry=ttu](https://www.google.com/maps/dir/Sternweilerstra%C3%9Fe+48,+69242+M%C3%BChlhausen,+Germania/49.2444302,8.7536698/49.2485918,8.7677989/49.2554642,8.7610261/Sternweilerstra%C3%9Fe+48,+69242+M%C3%BChlhausen,+Germania/@49.2533545,8.7486654,15z/data=!3m1!4b1!4m17!4m16!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!1m0!1m0!1m0!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!3e2?entry=ttu)*
-
-
 * Tracking
 * Running formula:
 * basic idea: f(distance, speed) → map contour from competitive marathon to walking 1km, monotonically increasing along each axis
@@ -379,8 +429,6 @@
 * [arstechnica.com/culture/2023/08/i-try-synthetic-salmon-and-enter-the-uncanny-valley-of-taste/](https://arstechnica.com/culture/2023/08/i-try-synthetic-salmon-and-enter-the-uncanny-valley-of-taste/)
 
 <SORTED>
-
-
 * Workout & Fitness Books
 * Fit ohne Geräte. 90-Tage-Challenge.pdf
 * Fit ohne Geräte. Trainieren mit dem eigenen Körpergewicht.pdf
@@ -411,7 +459,7 @@
 * [The Porn Trap: The Essential Guide to Overcoming Problems Caused by Pornography](http://library.lol/main/4861D79AD6C749C5B882C8D7F7E85282)
 * [Prostitución, sociabilidad, pornografía e imágenes socio-culturales. Una contribución de Jean-Louis Guereña [1 ed.]](https://libgen.is/book/index.php?md5=BC2CDC03A975CFA66DE26F4FC1C21D52)
 * [Pornography and Public Health](http://library.lol/main/B6D5481044ECE4B6309043082C71211A)
-* [The Whore's Story: Women, Pornography, and the British Novel, 1684-1830 (Ideologies of Desire)](http://library.lol/main/98B4631EB7649E625A11B20BC71C10A2)
+* [The Whore's Story: Women, Pornography, and the British Novel, 1684-1830 (Ideologies of Desire)
 * [Prostitution, Pornography and Trafficking in Women: Israel’s Blood Money](http://library.lol/main/B6D1C109CB740544E5D1353245C1165D)
 * [Debating Pornography](http://library.lol/main/14DC29D03B8D429040BD6D0C0580B604)
 * [Cyber Sexy: Rethinking Pornography](http://library.lol/main/7F8A2750FA532D225A7BA4305E6D4F52)
@@ -434,10 +482,8 @@
 * Dietary Resources
 * → intermittent fasting*
 * 1S
-* [meetup.com/blog/eight-daily-hacks-for-a-healthier-lifestyle](https://www.meetup.com/blog/eight-daily-hacks-for-a-healthier-lifestyle) *****
+* [meetup.com/blog/eight-daily-hacks-for-a-healthier-lifestyle](https://www.meetup.com/blog/eight-daily-hacks-for-a-healthier-lifestyle) 
 * [FC Abgehoben - Wie Bayern München sein Image ruiniert | Sportclub | NDR - YouTube](https://www.youtube.com/watch?v=PaqRueT49a0)
 * [seniorbook.de/themen/kategorie/politik-und-gesellschaft/artikel/34615/lob-der-faulheit-warum-disziplin-und-arbeitseifer-uns-nur-schaden](https://www.seniorbook.de/themen/kategorie/politik-und-gesellschaft/artikel/34615/lob-der-faulheit-warum-disziplin-und-arbeitseifer-uns-nur-schaden)
 * [medizinische-artikel.eu/main/7434-Passivnyiy-otdyh-poleznee-chem-trenirovki.html*](http://medizinische-artikel.eu/main/7434-Passivnyiy-otdyh-poleznee-chem-trenirovki.html*)
-
-
-* Workout Books (from ChatGPT)* 1. "Strength Training Anatomy" by Frederic Delavier:*     - This book provides a detailed look at the anatomy of various exercises, helping you understand muscle engagement and movement patterns.* 2. "Essentials of Strength Training and Conditioning" by National Strength and Conditioning Association (NSCA):*     - Published by the NSCA, this book is a comprehensive resource for strength training and conditioning, covering principles, techniques, and program design.* 3. "The New Rules of Lifting" series by Lou Schuler and Alwyn Cosgrove:*     - This series of books offers practical advice on weight training, combining science with real-world application for both men and women.* 4. "Advanced Sports Nutrition" by Dan Benardot:*     - This book delves into the nutritional aspects of sports performance, offering insights into how diet can optimize training and recovery.* 5. "Running Science" by Owen Anderson:*     - Focused on the science of running, this book covers biomechanics, physiology, and training strategies to help you improve your running performance.* 6. "The Runner's Body" by Ross Tucker and Jonathan Dugas:*     - This book explores the physiology of running and provides practical advice on training, nutrition, and injury prevention.* 7. "Science and Practice of Strength Training" by Vladimir Zatsiorsky and William Kraemer:*     - This book is a comprehensive guide to the scientific principles behind strength training, making it suitable for both beginners and advanced lifters.
+* Workout Books (from ChatGPT)* 1. "Strength Training Anatomy" by Frederic Delavier:*     * This book provides a detailed look at the anatomy of various exercises, helping you understand muscle engagement and movement patterns.* 2. "Essentials of Strength Training and Conditioning" by National Strength and Conditioning Association (NSCA):*     * Published by the NSCA, this book is a comprehensive resource for strength training and conditioning, covering principles, techniques, and program design.* 3. "The New Rules of Lifting" series by Lou Schuler and Alwyn Cosgrove:*     * This series of books offers practical advice on weight training, combining science with real-world application for both men and women.* 4. "Advanced Sports Nutrition" by Dan Benardot:*     * This book delves into the nutritional aspects of sports performance, offering insights into how diet can optimize training and recovery.* 5. "Running Science" by Owen Anderson:*     * Focused on the science of running, this book covers biomechanics, physiology, and training strategies to help you improve your running performance.* 6. "The Runner's Body" by Ross Tucker and Jonathan Dugas:*     * This book explores the physiology of running and provides practical advice on training, nutrition, and injury prevention.* 7. "Science and Practice of Strength Training" by Vladimir Zatsiorsky and William Kraemer:*     * This book is a comprehensive guide to the scientific principles behind strength training, making it suitable for both beginners and advanced lifters.

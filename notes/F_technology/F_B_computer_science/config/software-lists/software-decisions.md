@@ -1,10 +1,9 @@
 # Software Decisions (secondary)
 
-
 ## Later
 
-
 ### editors
+
 * [helix-editor/helix](https://github.com/helix-editor/helix) -   [helix](https://github.com/helix-editor/helix)) - Modal editor inspired by kakoune.
 * [xyproto/orbiton](https://github.com/xyproto/orbiton) - config-free editor and IDE (valuable snippets on README)
 * [martanne/vis](https://github.com/martanne/vis) - "a modern, legacy free, simple yet efficient vim-like editor" - [structural res](https://what.happens.when.computer/2016-08-30/structural-res/),  [sre paper](http://doc.cat-v.org/bell_labs/structural_regexps/se.pdf)
@@ -16,10 +15,8 @@
 * [Spacemacs](https://www.spacemacs.org/) - A community-driven Emacs distribution.
 * [WordGrinder](https://github.com/davidgiven/wordgrinder) - From the website: "WordGrinder is a word processor for processing words. It is not WYSIWYG. It is not point and click. It is not a desktop publisher. It is not a text editor. It does not do fonts and it barely does styles. What it does do is words. It's designed for writing text. It gets out of your way and lets you type."
 * [emacs](https://www.gnu.org/software/emacs/) - Cross-platform text-editor that has both command-line and graphical user interface.
-
-
 * Emacs
-* follow links! → [](https://www.youtube.com/watch?v=Hvlkca98tyw)
+* follow links! → [video](https://www.youtube.com/watch?v=Hvlkca98tyw)
 * [I'm Replacing All Of My Programs...With Emacs - YouTube](https://www.youtube.com/watch?v=HzFqZ0Gl0aw)
 * [emacs-evil/evil](https://github.com/emacs-evil/evil)
 * [docs.doomemacs.org/latest/](https://docs.doomemacs.org/latest/)
@@ -31,9 +28,7 @@
 * [Vim vs Emacs (dt)](https://www.youtube.com/watch?v=VaBdlcYaZLQ)
 * emacs magit
 * [Editor Bootstrap](https://github.com/editor-bootstrap)*
-
-Kate
-
+* Kate
 
 ### Science and Education
 
@@ -86,9 +81,7 @@ Kate
 * [Go-L](https://github.com/Jeadie/Go-L) - Game of Life with different update rules and on a bunch of different topologies (sphere, torus, klein bottle, etc.).
 * [Colobot](https://colobot.info/) - Colobot: Gold Edition is a real-time strategy game, where you can program your units (bots) in a language called CBOT, which is similar to C++ and Java.
 
-
 ### Other
-
 
 * Virtualization and Containerization - Later* - Android
 * [Anbox](https://anbox.io/) - Run Android applications on any GNU/Linux operating system.
@@ -174,6 +167,7 @@ Kate
 * [Words](https://github.com/ludovicianul/words) - A set of word-based puzzle games for the CLI while you wait for the build to run.
 
 ### Games*
+
 * City Building Simulation
 * [Dwarf Fortress](http://www.bay12games.com/dwarves/) - A famously complex simulation of a High Fantasy Dwarf Fortress, fight goblins, and slay massive legendary beasts. Strike the earth!
 * [OpenTTD](https://www.openttd.org/) - An open-source clone of Transport Tycoon Plus with major improvements.
@@ -267,7 +261,6 @@ Kate
 * [RPCS3](https://rpcs3.net/) - RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger written in C++ for Windows, Linux, macOS and FreeBSD.
 * [Vita3K](https://vita3k.org/) - Vita3K is an experimental PlayStation Vita emulator for Windows and Linux.* - Machine Emulators - ZX Spectrum
 * [Fuse](http://fuse-emulator.sourceforge.net/) - Fuse (the Free Unix Spectrum Emulator) is a ZX Spectrum emulator for Unix.
-*
 * Image & Graphics - Later
 * [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - A cli for traversing the Mandelbrot fractal.
 * [deviceframe](https://github.com/c0bra/deviceframe) - Put device frames around mobile/web/progressive app screenshots.
@@ -322,7 +315,13 @@ Kate
 * [Lightworks](https://www.lwks.com/) - Professional non-linear video editing program with a free version available.*
 * [Radiance](https://www.radiance-online.org/) - Radiance - A Validated Lighting Simulation Tool.
 * Development - Later
-* [nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions.* - Mobile Development*     -    [mobicon-cli](https://github.com/SamVerschueren/mobicon-cli)) - Mobile app icon generator.*     -    [mobisplash-cli](https://github.com/SamVerschueren/mobisplash-cli)) - Mobile app splash screen generator.*     -    [deviceframe](https://github.com/c0bra/deviceframe)) - Put device frames around your mobile/web/progressive app screenshots.* - Bug trackers
+* [nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions.
+
+### Mobile Development
+
+* [mobicon-cli](https://github.com/SamVerschueren/mobicon-cli)) - Mobile app icon generator.
+* [mobisplash-cli](https://github.com/SamVerschueren/mobisplash-cli)) - Mobile app splash screen generator.
+* [deviceframe](https://github.com/c0bra/deviceframe)) - Put device frames around your mobile/web/progressive app screenshots.* - Bug trackers
 * [Bugzilla](https://github.com/bugzilla/bugzilla) - web-based bug-tracking software
 * [Mantis](https://github.com/mantisbt/mantisbt) - issue tracker that provides a delicate balance between simplicity and power
 * [Trac](https://github.com/edgewall/trac) - IT project management solution that enables software developers to track and address bugs, tasks, files, wiki pages, and more.
@@ -387,13 +386,12 @@ Kate
 * [Yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go.
 * [ ]  [thread-safe](https://github.com/dkaslovsky/thread-safe) - Keep your favorite Twitter threads safe with a local copy.- [ ]  [Max Auto Clicker](https://maxautoclicker.blogspot.com/) - Automate your mouse clicks easily with this awesome cross-platform application (for Windows and Linux Desktops).- [ ]  [Russhian Roulette](https://github.com/cyradotpink/russhian-roulette) - 1/6 chance of posting your SSH private key on pastebin (do you really want to try?).
 * [Termit](https://github.com/nonstop/termit) - Simple terminal emulator based on vte library, extensible via Lua.
-* [ ]  [cairographics.org/-](https://cairographics.org/-) [ ]  [pango.gnome.org/-](https://pango.gnome.org/-) [ ]  [harfbuzz/harfbuzz](https://github.com/harfbuzz/harfbuzz) *** excellent font-shaping library*  - [ ]  [freetype.org/freetype2/docs/documentation.html](https://freetype.org/freetype2/docs/documentation.html)
+* [ ]  [cairographics.org/-](https://cairographics.org/-) [ ]  [pango.gnome.org/-](https://pango.gnome.org/-) [ ]  [harfbuzz/harfbuzz](https://github.com/harfbuzz/harfbuzz)  excellent font-shaping library
+* [ ]  [freetype.org/freetype2/docs/documentation.html](https://freetype.org/freetype2/docs/documentation.html)
 * [Reddit Terminal Viewer](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 * [Wavebox](https://wavebox.io/) - A feature-rich Chromium browser that’s built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and every other web app you use to get work done.
 * [SerenityOS/serenity](https://github.com/SerenityOS/serenity)
 * [en.wikipedia.org/wiki/Berkeley_Software_Distribution](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
-
-
 * [Script Runner](https://github.com/ioquatix/script-runner): Run scripts (or a shell) in Atom.
 * [Terminal for Atom](https://github.com/jsmecham/atom-terminal-tab): A simple terminal for the Atom text editor.
 * [x-terminal](https://atom.io/packages/x-terminal): Atom plugin for providing terminals inside your Atom workspace.
@@ -406,11 +404,8 @@ Kate
 * [Juno](http://junolab.org/): A flexible Julia IDE, based on Atom.
 * [libv86 Terminal Forwarding](https://github.com/hello-smile6/libv86-terminal-forwarding): Peer-to-peer SSH for the web, using WebRTC via [Bugout](https://github.com/chr15m/bugout) for data transfer and [v86](https://github.com/copy/v86) for web-based virtualization.
 * [WizardWebssh](https://gitlab.com/mikeramsey/wizardwebssh): A terminal with Pyqt5 Widget for embedding, which can be used as an ssh client to connect to your ssh servers. It is written in Python, based
-
-on tornado, paramiko, and xterm.js.- [ ]  [ok-borg/borg](https://github.com/ok-borg/borg) - A terminal based search engine for bash commands - cool idea, but server is down; keep an eye on the project
+* on tornado, paramiko, and xterm.js.- [ ]  [ok-borg/borg](https://github.com/ok-borg/borg) - A terminal based search engine for bash commands - cool idea, but server is down; keep an eye on the project
 * [linux-pam/linux-pam](https://github.com/linux-pam/linux-pam) - pluggable authentification modules
-
-
 * Gnome Apps
 * [ ]  [Icon Library](https://gitlab.gnome.org/World/design/icon-library)
 * [ ]  [Contrast](https://gitlab.gnome.org/World/design/contrast)
@@ -452,9 +447,7 @@ on tornado, paramiko, and xterm.js.- [ ]  [ok-borg/borg](https://github.com/ok-b
 * [ ]  [Gradience](https://gradienceteam.github.io/)
 * [ ]  [Graphs](https://github.com/Sjoerd1993/Graphs)
 
-
 ## Back Pocket
-
 
 * Email
 * [KMail](https://apps.kde.org/kmail2/) - KMail is the email component of Kontact, the integrated personal information manager from KDE.
@@ -521,8 +514,20 @@ on tornado, paramiko, and xterm.js.- [ ]  [ok-borg/borg](https://github.com/ok-b
 * [Notepadqq](https://notepadqq.com/wp/) - Notepadqq is a Notepad++-like editor for the Linux desktop.
 * [Notepad Next](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++.* -    [SAWS](https://github.com/donnemartin/saws)) - Supercharged AWS CLI.* -    [s3cmd](https://github.com/s3tools/s3cmd)) - Fully-Featured S3 client.* -    [htconvert](https://github.com/lukechilds/htconvert)) - Convert .htaccess redirects to nginx.conf redirects.* -    [pm2](https://github.com/Unitech/pm2)) - Production Process Manager for Node.js.
 * [flog](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
-* [isitfit](http://github.com/autofitcloud/isitfit) - Manage AWS EC2 rightsizing.* -    [ops](https://github.com/nanovms/ops)) - Unikernel compilation and orchestration tool.* - Npm*     -    [npm-name-cli](https://github.com/sindresorhus/npm-name-cli)) - Check whether a package name is available on npm.*     -    [npm-user-cli](https://github.com/sindresorhus/npm-user-cli)) - Get user info of a npm user.*     -    [npm-home](https://github.com/sindresorhus/npm-home)) - Open the npm page of the package in the current directory.*     -    [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli)) - Find the root directory of a npm package.*     -    [npm-check-updates](https://github.com/tjunnone/npm-check-updates)) - Find newer versions of package dependencies than what your package.json allows.*     -    [updates](https://github.com/silverwind/updates)) - Flexible npm dependency update tool.*     -    [wipe-modules](https://github.com/bntzio/wipe-modules)) - Remove `node_modules` of inactive projects.*     -    [np](https://github.com/sindresorhus/np)) - A better `npm publish`.* - Database*     -    [mycli](https://github.com/dbcli/mycli)) - MySQL client with autocompletion and syntax highlighting.*     -    [sqlline](https://github.com/julianhyde/sqlline)) - Shell for issuing SQL via JDBC.* - Boilerplate*     -    [yo](https://github.com/yeoman/yo)) - Scaffolding tool for running Yeoman generators.
-* [mevn-cli](http://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.*     -    [scaffold-static](https://github.com/jamesgeorge007/scaffold-static)) - Scaffolding utility for vanilla JS.* - Game Engines
+* [isitfit](http://github.com/autofitcloud/isitfit) - Manage AWS EC2 rightsizing.* -    [ops](https://github.com/nanovms/ops)) - Unikernel compilation and orchestration tool.* - Npm
+* [npm-name-cli](https://github.com/sindresorhus/npm-name-cli)) - Check whether a package name is available on npm.
+* [npm-user-cli](https://github.com/sindresorhus/npm-user-cli)) - Get user info of a npm user.
+* [npm-home](https://github.com/sindresorhus/npm-home)) - Open the npm page of the package in the current directory.
+* [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli)) - Find the root directory of a npm package.
+* [npm-check-updates](https://github.com/tjunnone/npm-check-updates)) - Find newer versions of package dependencies than what your package.json allows.
+* [updates](https://github.com/silverwind/updates)) - Flexible npm dependency update tool.
+* [wipe-modules](https://github.com/bntzio/wipe-modules)) - Remove `node_modules` of inactive projects.
+* [np](https://github.com/sindresorhus/np)) - A better `npm publish`.* - Database
+* [mycli](https://github.com/dbcli/mycli)) - MySQL client with autocompletion and syntax highlighting.
+* [sqlline](https://github.com/julianhyde/sqlline)) - Shell for issuing SQL via JDBC.* - Boilerplate
+* [yo](https://github.com/yeoman/yo)) - Scaffolding tool for running Yeoman generators.
+* [mevn-cli](http://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.
+* [scaffold-static](https://github.com/jamesgeorge007/scaffold-static)) - Scaffolding utility for vanilla JS.* - Game Engines
 * [Defold](https://defold.com/) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
 * [Epic Asset Manager](https://github.com/AchetaGames/Epic-Asset-Manager) - An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.
 * [GameMaker](https://gamemaker.io/en/gamemaker) - The Ultimate 2D Game Development Environment.
@@ -554,12 +559,9 @@ on tornado, paramiko, and xterm.js.- [ ]  [ok-borg/borg](https://github.com/ok-b
 * [Pisth](https://github.com/ColdGrub1384/Pisth): An SFTP and SSH client for iOS.
 * [Fluent Terminal](https://github.com/felixse/FluentTerminal): A terminal emulator based on UWP and web technologies.
 
-
 ## Nah, But Use as a Reference
 
-
 # Nah, but look at / use as reference
-
 
 * [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework
 * [Mercurial](https://www.mercurial-scm.org/repo/hg) - Free, distributed source control management tool.
@@ -668,9 +670,7 @@ on tornado, paramiko, and xterm.js.- [ ]  [ok-borg/borg](https://github.com/ok-b
 * [Curlew](https://github.com/chamfay/Curlew) - A GTK media converter for the GNOME desktop.
 * [Ubunsys](https://github.com/adgellida/ubunsys) - An application designed to allow you to change in-depth system features without the command line.
 
-
 ### Dock
-
 
 * [Cairo-Dock](https://glx-dock.org/) - Cairo-Dock is a desktop interface that takes the shape of docks, desklets, panel, etc.
 * [Docky](https://launchpad.net/docky) - Docky is a full fledged dock application that makes opening common applications and managing windows easier and quicker.
@@ -704,9 +704,7 @@ on tornado, paramiko, and xterm.js.- [ ]  [ok-borg/borg](https://github.com/ok-b
 * [sudocabulary](https://github.com/badarsh2/Sudocabulary) - Learn English Vocabulary from your terminal
 * [OpenSIS](https://www.opensis.com/) - School Management Software that Increases Student Achievements & Teacher Performances.
 
-
 ## Nah
-
 
 * Communication
 * [YakYak](https://github.com/yakyak/yakyak) - Desktop chat client for Google Hangouts.
@@ -797,24 +795,18 @@ on tornado, paramiko, and xterm.js.- [ ]  [ok-borg/borg](https://github.com/ok-b
 * [PowerShell](https://github.com/PowerShell/PowerShell) - Automation and configuration tool/framework that is optimized for dealing with structured data.*
 * [Xfce Terminal](https://docs.xfce.org/apps/terminal/start) - Modern terminal emulator primarily for the Xfce desktop environment.
 
-
 ### macOS Package Managers
-
 
 * [fink](http://www.finkproject.org/) - Wants to bring the full world of Unix Open Source software to Darwin and macOS.
 * [homebrew](https://brew.sh/) - Missing package manager for macOS.
 * [macports](https://www.macports.org/) - Package manager that simplifies the installation of software on the macOS and Darwin operating systems.
 * [mas](https://github.com/mas-cli/mas) - Mac App Store command line interface.
 
-
 ### ChromeOS Package Managers
-
 
 * [chromebrew](https://github.com/skycocker/chromebrew) - Package manager for Chrome OS.
 
-
 ### Windows Package Managers
-
 
 * [chocolatey](https://chocolatey.org/) - Package manager for Windows.
 * [cygwin](https://cygwin.com/) - Linux-like environment for Windows making it possible to port software running on POSIX systems to Windows.
@@ -826,13 +818,10 @@ on tornado, paramiko, and xterm.js.- [ ]  [ok-borg/borg](https://github.com/ok-b
 * [back to top](https://github.com/k4m4/terminals-are-sexy#table-of-contents)
 
 !https://github.githubassets.com/images/icons/emoji/unicode/2b06.png
-
-
 * macOS* -    [open-pip-cli](https://github.com/albinekb/open-pip-cli)) - Watch videos in picture-in-picture player.* -    [osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli)) - Manage wifi connections.* -    [active-win-cli](https://github.com/sindresorhus/active-win-cli)) - Get the title/id/etc of the active window.* -    [stronghold](https://github.com/alichtman/stronghold)) - Configure security settings from the terminal.* -    [dark-mode](https://github.com/sindresorhus/dark-mode)) - Toggle dark mode.
 * Image & Graphics - Nah
 * [Aftershot](https://www.aftershotpro.com/en/products/aftershot/pro/) - A powerful alternative to Adobe Photoshop.
 * Terminal - Nope
-*
 * Development - Nah
 * [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor.
 * [eon](https://github.com/tomas/eon) - A light, modern editor for your terminal that doesn't want to be vim.
@@ -846,7 +835,6 @@ on tornado, paramiko, and xterm.js.- [ ]  [ok-borg/borg](https://github.com/ok-b
 * [nehm](https://github.com/bogem/nehm) - Console tool, which downloads, sets IDv3 tags and adds to your iTunes (if you use it) your SoundCloud likes in convenient way
 * [K3b](https://userbase.kde.org/K3b) - The CD/DVD Kreator for Linux, optimized for KDE.
 * [SoundJuicer](https://wiki.gnome.org/Apps/SoundJuicer/Documentation#Installing) - CD Ripping tool for GNOME.
-*
 * System Info / Monitoring / Hardware / Firmware / Admin - Nah
 * [Brasero](https://wiki.gnome.org/Apps/Brasero) - A capable CD/DVD burner.
 * [KFloppy](https://apps.kde.org/kfloppy/) - Graphical utility to format 3.5” and 5.25” floppy disks.

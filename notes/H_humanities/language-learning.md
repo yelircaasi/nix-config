@@ -1,6 +1,7 @@
 # Language Learning
 
 ## LA/GRC Books (Berlin Library)
+
 Latin Synonyms for Language Lovers. Christine Meyer
 Aesop's Fables in Latin. Laura Gibbs
 Krylatye Latinskie Izrecheniya
@@ -21,10 +22,7 @@ Greek to GCSE 2
 Learn to Read Greek. Part 1  [libgen.rs/search.php?req=learn+to+read+greek&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def](https://libgen.rs/search.php?req=learn+to+read+greek&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 Learn to Read Greek. Part 2
 
-
 ## To Sort
+
 translation: [translate.fedoraproject.org/](https://translate.fedoraproject.org/)
-
-feemeil [](https://www.youtube.com/watch?v=unmUYwUATGY&pp=ygUq2YHZitmF2YrZhCBmZW1hbGUgdHYgc2hvdyBqb3JkYW4gZXBpc29kZSAx)
-
-
+* feemeil [video](https://www.youtube.com/watch?v=unmUYwUATGY&pp=ygUq2YHZitmF2YrZhCBmZW1hbGUgdHYgc2hvdyBqb3JkYW4gZXBpc29kZSAx)

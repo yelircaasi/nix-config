@@ -1,6 +1,9 @@
 # J
+
 ## Book List
+
 ### Books to Live By
+
 * The 7 Habits of Highly Effective People
 * HBR on Managing Yourself
 * First Things First
@@ -36,6 +39,7 @@
 * Mating in Captivity.pdf
 
 ### Other Books - Sort
+
 * [Guía de Hábitos Inteligentes: 36 Pequeños Cambios de Vida que su Cerebro Agradecerá](https://www.amazon.com/Gu%C3%ADa-H%C3%A1bitos-Inteligentes-Peque%C3%B1os-Agradecer%C3%A1/dp/1518720374/ref=sr_1_7?ie=UTF8&qid=1490621250&sr=8-7&keywords=Libro+di+psicologia)
 * [samuelthomasdavies.com/wp-content/uploads/2016/02/Unhooked-Second-Edition.pdf](https://www.samuelthomasdavies.com/wp-content/uploads/2016/02/Unhooked-Second-Edition.pdf)
 * [Liberating Structures - Introduction](http://www.liberatingstructures.com/?fbclid=IwAR0q3Lw0F7GzkK4eu8voOJX9nJGMw62CGKZW4vRX7QgzL0b415GTWNyjv4o)
@@ -185,8 +189,9 @@
 * [Algs to Live By](http://libgen.is/search.php?&req=+Tom+Griffiths&phrase=1&view=simple&column=author&sort=year&sortmode=DESC)
 
 ### Sexuality
-Guter Sex trotz Liebe von Ulrich Clement
-* [Shaping Sexual Knowledge: A Cultural History of Sex Education in Twentieth Century Europe | Lutz Sauerteig, Roger Davidson | download](https://b-ok.cc/book/699954/f1d742)                - [**Sexuality: A Very Short Introduction | Veronique Mottier | download](https://b-ok.cc/book/551048/f41412)
+
+* Guter Sex trotz Liebe von Ulrich Clement
+* [Shaping Sexual Knowledge: A Cultural History of Sex Education in Twentieth Century Europe | Lutz Sauerteig, Roger Davidson | download](https://b-ok.cc/book/699954/f1d742)* * [**Sexuality: A Very Short Introduction | Veronique Mottier | download](https://b-ok.cc/book/551048/f41412)
 * [Sociologie de la sexualité](http://library.lol/main/21613DC991802D6BEB87435D0447A9FB)
 * [La sexualité à l'époque moderne](http://library.lol/main/0B28D2BF05654CC1802B7944535ADD5E)
 * 48 Laws of Power
@@ -199,19 +204,24 @@ Guter Sex trotz Liebe von Ulrich Clement
 * [Sex and Belonging: On the Psychology of Sexual Relationships](http://library.lol/main/A59F2367FABB304388E3004B5F2B3CA0)
 * [The Psychology of Sex](http://library.lol/main/EB5DEBA5B1459895278F8304B2F7F5FB)
 * [HOOKING UP: The Psychology of Sex and Dating](http://library.lol/main/7BC6FA5F53934067FFCA08CCD16764D7)
-* [Sex: Every Man's Guide to Sexually Satisfy Her: Sex Positions, Sex Guide& Sex Help (BONUS, Female Psychology, Sex Tips, Attract Women, Sexin Marriage, Couples Therapy)](http://library.lol/main/51D384D38DC59BC8F787E57352A565D1)
+* [Sex: Every Man's Guide to Sexually Satisfy Her: Sex Positions, Sex Guide& Sex Help (BONUS, Female Psychology, Sex Tips, Attract Women, Sexin Marriage, Couples Therapy)
+
 ### psychology
+
 * [web.stanford.edu/~nanbhas/blog/understanding-cognitive-distortions/](https://web.stanford.edu/~nanbhas/blog/understanding-cognitive-distortions/)
+
 #### Habits
+
 * The Power of Habit - Duhigg
 * [Piccole abitudini per grandi cambiamenti. Trasforma la tua vita un piccolo passo per volta](http://library.lol/main/1B77A4CD44E67B35157DAB68BDC320DB)
 * [Hábitos Atômicos](http://library.lol/main/632231E771DE7C2C09EE6B9B4BA648DA)
 * [Hábitos atómicos](http://library.lol/main/09C503A99D52A15F1E2E2FA085F3FF23)
 * Как быть продуктивным.jpg
 
-
 ## Notes
+
 ### Current Notes
+
 * inability to love -> why?
 * suffering from "id'ees fixes" -> why? how do they work?
 * If sladostrastie is slavery, then to what extent is it (or similar phenomena) permissible? what is the proper role of pleasure in life? what would the great sages say?
@@ -221,9 +231,10 @@ Guter Sex trotz Liebe von Ulrich Clement
 
 ### Action Items
 
-assistenz.eschbach@tecis.de
+[...](assistenz.eschbach@tecis.de)
 
 ### Learning
+
 * “Students do not learn much just sitting in classes listening to teachers, memorizing prepackaged assignments, and spitting out answers. They must talk about what they are learning, write reflectively about it, relate it to past experiences, and apply it to their daily lives. They must make what they learn part of themselves.”
 * A few tips while learning online is to always take simple notes, writing takeaways at the end of the day or blogging about what you’ve learned. By the same vein, utilizing the Feynman Technique by explaining what you have learned to friends and family is important, especially for a complex subject such as Data Science.  ||  Moreover, when learning machine learning algorithms and neural networks, it’s crucial to learn it along with writing the code, this way you can see what you’re learning, and have a better understanding of the topic at hand. It’s also good to be a part of online communities such as Reddit, Discord, etc. so you can ask questions and obtain great answers from experts.
 * How to learn data science on the internet? The best MOOCs + correct learning methodology + passion + projects
@@ -238,7 +249,6 @@ O perfeito homem do mundo seria aquele que jamais hesitasse por indecisão e nun
 A liberdade é a possibilidade do isolamento. Se te é impossível viver só, nasceste escravo.
 
 Todo o homem é culpado do bem que não fez.
-
 * [news.uwa.edu.au/201309176069/alumni/tim-minchin-stars-uwa-graduation-ceremony](http://www.news.uwa.edu.au/201309176069/alumni/tim-minchin-stars-uwa-graduation-ceremony)
      Ladies and Gentlemen please welcome Mr Tim Minchin
      In darker days I did a corporate gig at a conference for this big company who made and sold accounting software in a bid, I presumed, to inspire their salespeople to greater heights. They’d forked out 12 grand for an inspirational speaker who was this extreme sports guy who had had a couple of his limbs frozen off when he got stuck on a ledge on some mountain. It was weird.
@@ -269,22 +279,22 @@ Todo o homem é culpado do bem que não fez.
 ### Notes To Sort
 
 * Sort: Notes
-* "I am so glad that I spent most of my 31st year * developing an optimal system for my life, getting in shape, and * intensively working on my skillet for work."
+* "I am so glad that I spent most of my 31st year developing an optimal system for my life, getting in shape, and intensively working on my skillset for work."
 * 'sacred time' every morning and evening, midday when possible
 * commit code to at least one project daily
-* creat*  space to attain flow daily: uninterrupted offline time, both at work * and in personal projects (pomodoro with longer increments?)
+* create  space to attain flow daily: uninterrupted offline time, both at work and in personal projects (pomodoro with longer increments?)
 * improve note-taking system such that finding and taking notes is streamlined and nearly instantaneous
 * phone use with a purpose, no distraction, procrastination, dopamine hits, etc
-* flexible,*  robust, resilient master plan showing what steps I need to take to * achieve my goals - adjustment possible when "life happens", showing * which adjustments need to be made to plans and schedules
+* flexible, robust, resilient master plan showing what steps I need to take to achieve my goals - adjustment possible when "life happens", showing which adjustments need to be made to plans and schedules
 * daily cleanup: apartment, office, digital notes/emails/etc
 * meaningful and well-reflected journal entry
-* food*  system that involves long-term planning at different times resolutions:*  quarterly, monthly, weekly, daily -> maximize efficiency, frontload * decision making. Emphasize tasty and inexpensive meals and frontload * time-intensive ingredients shared between different meals (e.g. lentils,*  garbanzos)
+* food system that involves long-term planning at different times resolutions: quarterly, monthly, weekly, daily -> maximize efficiency, frontload decision making. Emphasize tasty and inexpensive meals and frontload time-intensive ingredients shared between different meals (e.g. lentils,*  garbanzos)
 * plan time to be bored and do nothing, time walking without phone, etc
 * frontload decision making in general
 * [Miyamoto Musashi | A Life of Ultimate Focus](https://www.youtube.com/watch?v=HUXEqS6GqUU)
-* Identify cases when you procrastinate and the real reasons. Is the task too complicated? Are you bored or tired? Try to deal with the reason.
-* Prioritize your to-do list * and try to stick to it, reminding yourself why it is important to you.
-* Set time slots for work and rest. * For example, you can use the Pomodoro Technique.
+* Identify cases when you procrastinate and the real reasons. Is the task too complicated? Are you bored or tired? Try to deal with the reason.
+* Prioritize your to-do list * and try to stick to it, reminding yourself why it is important to you.
+* Set time slots for work and rest. * For example, you can use the Pomodoro Technique.
 * Make Meetup group(s)! [meetup.com/lp/how-to-group-start](https://www.meetup.com/lp/how-to-group-start)
 * Dream: Make a beautiful microhouse, especially if I stay single.
 * [Building a Life Dashboard — I'm starting a big life project for myself, which is tracking my overall life metrics around everything that matters to me. This will be a book someday. Basically, a life dashboard](https://danielmiessler.us8.list-manage.com/track/click?u=6a9e465ab1570df8aaecb2292&id=771bda851e&e=1a0e8f9a2d). The types of metrics I want to include are pretty exhaustive, and they go from the trivial to the ultimate meaning of being on the planet. Examples include: books read, friends called, side income generated, times I've given thanks, random kind acts performed, website traffic, calories consumed, number of workouts, BMI, resting heart rate, masters degree yes/no, nest-egg target hit (yes/no), etc. It'll be hundreds of metrics. And here's the cool part. I'm going to automate the shit of this. And build my own dashboard using Dashing.io or Tableau, and have it available as a mobile interface on my phone as well as displaying it prominently on the wall at home. The process starts with defining my life goals, which are informed by my entire life and everything I've ever read and experienced. And they will be regularly revisited as well. And then the metrics flow from there (I'm currently in the dashboard design phase), and I'll keep them right in my face constantly. The idea being, iif you know what you want, you should capture that and work actively towards it. And that's precisely what I'm going to do. I'll have some mock-ups to show soon.
@@ -292,11 +302,11 @@ Todo o homem é culpado do bem que não fez.
 * [freecodecamp.org/news/how-prusa3d-became-one-of-the-fastest-growing-startups-in-the-world/](https://www.freecodecamp.org/news/how-prusa3d-became-one-of-the-fastest-growing-startups-in-the-world/)
 * repentance and absolution for secular people
 * "Mach dich nicht so klein; so groß bist du gar nicht."
-* - Transcript of Tim Minchin address: UWA 2013 graduation ceremony.*
+* Transcript of Tim Minchin address: UWA 2013 graduation ceremony.*
 * The Architecture of Happiness
 * What makes it so plausible to assume that hypocrisy is the vice of vices is that
   integrity can indeed exist under the cover of all other vices except this one."
-  - Hannah Arendt
+* Hannah Arendt
 * Не рычите на собаку
 * Шпаргалка по когнитивным искажениям
 * Фокус - Гоулман
@@ -318,152 +328,87 @@ Todo o homem é culpado do bem que não fez.
 * Conte-me e eu esqeço. Mostre-me e eu apenas lembro. Envolva-me eu compreendo. - Confúcio
 * When I say, "Hve you considered seeing a therapist?" I'm not saying "You're so messed up that only a professional can help you." What I'm saying is: "Have you considered that you're worthy of an unbiased, safe, and productive opportunity to process your experiences?"
 * Apressa-te a viver bem e pensa que cada dia é, por si só, uma vida. - Seneca
-
 * [inc.com/jeff-haden/neuroscience-says-your-brain-craves-new-for-dopamine-rush-but-research-shows-you-can-replace-that-sensation-much-more-productively.html](https://www.inc.com/jeff-haden/neuroscience-says-your-brain-craves-new-for-dopamine-rush-but-research-shows-you-can-replace-that-sensation-much-more-productively.html)
 
 Intrinsic thinking vs positional thinking: example: learning for learning’s sake; doing things for their own enjoyment, rather than merely to be better than others. “Whate’er thou art, act well thy part.” Also relates closely to Stoicism. Important for coexisting with more intelligent beings/entities.
 
 Two questions to ask yourself after every reading session: What do I want to remember forever? What can I do now in 5 minutes to apply what I learned?
-
 * Receiving and soliciting feedback:
-*
 * know your tendencies
-*
 * disentangle the "what" form the "who"
-*
 * sort toward coaching over evaluation
-*
 * unpack (analyze) the feedback
-*
 * ask for just one thing (be specific)
-*
 * engage in small experiments to test feedback
-*
 * Elements of a model of self-control:
-*
 * intensity of desire to achieve goal
-*
 * clarity of vision
-*
 * ability to self-detach
-*
 * reponses to stimuli (neurological rewards)
-*
 * ability to modify one's own desires
-*
 * mental and emotional struggles (extenuating factors) and condition
-*
 * perceived badness of faiilure
-*
 * strength of relevant memories (of past succdess / failure) / forgetfulness
-*
 * discounting factor
-*
 * prior short-term exertion (depletion)
-*
 * efficacy - belief (in the moment) that efforts will bear fruit
-*
 * rationalizations of deviation, excuses
-*
 * tolerance for cognitive dissonance (between desired and current states)
-*
 * internalization of moral obligation ("I really should" vs. "my self-image depends on this")
-*
 * → degree of free will?
-*
 * enlightened admission of ignorance: realize how little I know about strangers and how much they could teach me, how much good they have achieved and how much they may yet be capable of
-*
 * universal need for attention
-*
 * power of remebrance and danger of forgetfulness
-*
 * positive and negative feedback cycles
-*
 * short-term pain + long-term satisfaction vs. short-term gratification + long-term regret: people can choose the kind of gratification they desire and thus move toward the good or away from it → it is possible to change one's desires through the active and incremental exercise of free will
-*
 * "And now that you don't have to be perfect, you can be good."
-*
 * hiraeth - (n.) a homesickness for a home to which you cannot return, a home which maybe never was; the nostalgia, the yearning, the grief for the lost places of your past
-*
 * Goethe-Zitat über Hemdknöpfe
-*
 * Vision, die stärker ist, als alles Andere (Gelüste und Drang)
-*
 * Perfektionismus als Feind des Guten → "Und jetzt, wo du nicht perfekt sein musst, kannst du gut sein."
-*
 * 3 Aufgaben: wissen, wollen, tun
-*
 * BYU questions: Habe ich völlige Umkehr von meinenSünden durchgemacht? Was ist mir los? Warum können andere partyen, sich schlecht ernähren? Warum sind Leistungen hier so wichtig? Wie viel werden sie im Nachher ausmachen? Wodurch? Gedächtnis, Erfahrung, Verhältnis zu verschiedenen Sachen und Ideen, oder wie?
-*
 * Welche Grundannahmen schädigen mich zurzeit?
-*
 * Warum ist mir das Verständnis so wichtig?
-*
 * Welche Einschränkungen habe ich geistig (oder sonst) auf mich angelegt?
-*
 * Darf ich überhaupt nicht an die Vergangenheit denken? Wie wäre das?
-*
 * Wie viele Drogenarten gibt es in der Tat (Gedanken, Besessenheit, Ablenkungen, Beschäftigungen usw.)
-*
 * Warum bin ich so schockiert und gestört worden, als Sandra mir von der Vergangenheit erzählt hat?
-*
 * Каждый день становится своим будущим.
-*
 * Нельзя в точности описать будущие шаги. Есть столько, что лежит вне моей контроли; есть мали вещей, которые зависят полностью лт меня.
-*
 * Вера изменяет восприятие реальности.
-*
 * Разницы во мнении нормальны. Надо глубоко понять, что есть многие факторы, влияющие на мое восприятие.
-*
 * Wie vermischt sich Stolz mit unsicherheit?
-*
 * Warum macht man beim Rauschtrinken, Rauchen usw. mit, wenn man schon weiß, was das dem Organismus antut? Sieht man nichts falsches daran? Was halten andere Religionen davon? Was traibt einen dazu?
-*
 * Warum verwendet man Schimpfwörte? Sehen die meisten nichts falsches daran?
-*
 * Wie kommt es dazu, dass man den eigenen Körper geringschätzt?
-*
 * Wenn man als Partyer aufwächst, wie wird man oft als Erwachsener?
-*
 * Wie ist die richtige Beziehung zur Vergangenheit?
-*
 * Wie ist es möglich, nicht getäuscht zu werden und der Versuchung nicht nachzugeben? Wie ist es möglich, Sünden zu verabscheuen und als widerlich zu empfinden, aber Menschen, die Sünde begehen, zu verstehen? Wenn man sich dazu zwingt, positiv und optimistisch zu denken, wie lange bleibt dies gefälscht, und wird das mit der Zeit zur Gewohnheit?
-*
 * 3 règles de base: Ne réponds jamais quand tu es énervé. Ne promets jamais quand tu es heureux. Ne prends aucune décision quand tu es triste.
-*
 * Idk who needs to hear this, but you're not overwhelmed. You are lazy and unorganized. Wake up earlier. Get an agenda book. Create a routine. Create boundaries (say no). Stick to your schedule. Write down AND adhere to your deadlines. You are standing in your own way.
-*
 * O homem nasceu para viver e não para se preparar para viver
-*
 * CompLing2019!
-*
 * Чего ты по-настоящему хочешь?
-*
 * Насколько надежна моя память?
-*
 * Обманывает мое восприятие времени?
-*
 * Элементы идеального образа жизни:
-    - ясные цели
-    - ясный, простой план
-    - постоянное желание достичь цели
-    - доведение отвлечений до минимума
-    - убеждение во важности правильных поступков; чувство святого
-    - > здоровый перфекционизм: легкий, умеренный страх перед слабостью и перед недостижением целей
-    - > упрощение жизни и средоточий: 1 вещь одновременно
-    - > ощущение, что я именно сейчас нахожусь в важном моменте: "теперь или никогда" -> противоядие от откладывания
-    - самосознание как особенный: требование многого от себя
-    - системная ответственность: регулярный отчет в использовании времени
-    - великие стимулы: автономность, овладение, смысл; также увлечение, любовь, страсть, страх
-    - определенный ригидность в представлениях о том, как мне быть; гибкость в том, что мне делать
-    - жедание проявить себя
-    - ясные ценности
-    - вдохновение от необычайных людей
-    - делать, просто делать, верить в себя и поправлять ошибки и недостатки без чрезмерных негативных чувств
-
-
-
-
+  * ясные цели
+  * ясный, простой план
+  * постоянное желание достичь цели
+  * доведение отвлечений до минимума
+  * убеждение во важности правильных поступков; чувство святого
+  * > здоровый перфекционизм: легкий, умеренный страх перед слабостью и перед недостижением целей
+  * > упрощение жизни и средоточий: 1 вещь одновременно
+  * > ощущение, что я именно сейчас нахожусь в важном моменте: "теперь или никогда" -> противоядие от откладывания
+  * самосознание как особенный: требование многого от себя
+  * системная ответственность: регулярный отчет в использовании времени
+  * великие стимулы: автономность, овладение, смысл; также увлечение, любовь, страсть, страх
+  * определенный ригидность в представлениях о том, как мне быть; гибкость в том, что мне делать
+  * жедание проявить себя
+  * ясные ценности
+  * вдохновение от необычайных людей
+  * делать, просто делать, верить в себя и поправлять ошибки и недостатки без чрезмерных негативных чувств
 * ## Other
 * >> 3-3-3 Method
 * [lifehacker.com/*](https://lifehacker.com/*)
@@ -471,6 +416,7 @@ Two questions to ask yourself after every reading session: What do I want to rem
 *
 
 ## S: Links
+
 * [How to enter ‘flow state’ on command | Steven Kotler for Big Think](https://www.youtube.com/watch?v=znwUCNrjpD4)
 * [caps.byu.edu/biofeedback](https://caps.byu.edu/biofeedback)
 * [thevirtualinstructor.com/](http://thevirtualinstructor.com/)
@@ -500,54 +446,56 @@ Two questions to ask yourself after every reading session: What do I want to rem
 * [dailystoic.com/12-rules-for-life/](https://dailystoic.com/12-rules-for-life/)
 * [Rethinking Leadership • Andrea Provaglio • GOTO 2017 - YouTube](https://www.youtube.com/watch?v=A04Pu5LlzHw)
 
-
 ## Reading List
+
 ### General
+
 ### Mental Fortitude
-        * [constantrenewal.com/stoic-practices](https://constantrenewal.com/stoic-practices)
-        * [wikihow.com/Detox-Your-Mind-from-Negativity](https://www.wikihow.com/Detox-Your-Mind-from-Negativity)
+
+* [constantrenewal.com/stoic-practices](https://constantrenewal.com/stoic-practices)
+* [wikihow.com/Detox-Your-Mind-from-Negativity](https://www.wikihow.com/Detox-Your-Mind-from-Negativity)
 
 ### Correct Thinking
-        * [en.wikipedia.org/wiki/List_of_cognitive_biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
+
+* [en.wikipedia.org/wiki/List_of_cognitive_biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
 
 ### Creativity
-        * [researchgate.net/publication/232558153_Artistic_Scientists_and_Scientific_Artists_The_Link_Between_Polymathy_and_Creativity](http://www.researchgate.net/publication/232558153_Artistic_Scientists_and_Scientific_Artists_The_Link_Between_Polymathy_and_Creativity)
-        * [Kreatives Schreiben: 10 Dos und 5 Don’ts für angehende Autoren & Co. » lernen.net](https://www.lernen.net/artikel/kreatives-schreiben-fuer-autoren-2313/)
-        * [Get Sparks of Genius: The Thirteen Thinking Tools of the World's Most Creative People - YouTube](https://www.youtube.com/watch?v=lYSF_t2M_tk)
-        * [archive.fortune.com/galleries/2007/fortune/0704/gallery.fortune_innovators.fortune/3.html](http://archive.fortune.com/galleries/2007/fortune/0704/gallery.fortune_innovators.fortune/3.html)
-        * [museumoffailure.com/](https://museumoffailure.com/)
-        * [revistagalileu.globo.com/Ciencia/Neurociencia/noticia/2014/10/criatividade-se-adquire-com-pratica.html](http://revistagalileu.globo.com/Ciencia/Neurociencia/noticia/2014/10/criatividade-se-adquire-com-pratica.html)
-        * [Größte Probleme in Stuttgart - Stadt Stuttgart](https://www.stuttgart.de/item/show/540293)
-        * [vk.com/@reason_science-sila-voli-pereocenena-a-samokontrol-ne-garantiya-uspeha-v-zh](https://vk.com/@reason_science-sila-voli-pereocenena-a-samokontrol-ne-garantiya-uspeha-v-zh)
-        * [themedicigroup.com/#medici-expertise](https://www.themedicigroup.com/#medici-expertise)
-        * [washingtonpost.com/news/wonk/wp/2016/03/18/why-smart-people-are-better-off-with-fewer-friends/?wpmm=1&wpisrc=nl_wemost](https://www.washingtonpost.com/news/wonk/wp/2016/03/18/why-smart-people-are-better-off-with-fewer-friends/?wpmm=1&wpisrc=nl_wemost)
-        * [www3.forbes.com/leadership/15-surprising-things-productive-people-do-differently/](https://www3.forbes.com/leadership/15-surprising-things-productive-people-do-differently/)
-        * [Intelligenza Emotiva e Controllo Mentale - YouTube](https://www.youtube.com/watch?v=6ADdoKZmhtk)
-        * [Zašto „calories in, calories out“ teorija nije ispravna i nova istraživanja](http://www.pressserbia.com/zasto-calories-calories-teorija-nije-ispravna-nova-istrazivanja/)
-        * [Стiна](https://vk.com/wall-80512191_40824)
-        * [Buddhism](https://vk.com/wall-6827569_23778)
-        * [Site to improve typing speed](https://www.reddit.com/r/languagelearning/comments/bcahl1/great_site_i_found_to_improve_typing_speed_in/)
+
+* [researchgate.net/publication/232558153_Artistic_Scientists_and_Scientific_Artists_The_Link_Between_Polymathy_and_Creativity](http://www.researchgate.net/publication/232558153_Artistic_Scientists_and_Scientific_Artists_The_Link_Between_Polymathy_and_Creativity)
+* [Kreatives Schreiben: 10 Dos und 5 Don’ts für angehende Autoren & Co. » lernen.net](https://www.lernen.net/artikel/kreatives-schreiben-fuer-autoren-2313/)
+* [Get Sparks of Genius: The Thirteen Thinking Tools of the World's Most Creative People - YouTube](https://www.youtube.com/watch?v=lYSF_t2M_tk)
+* [archive.fortune.com/galleries/2007/fortune/0704/gallery.fortune_innovators.fortune/3.html](http://archive.fortune.com/galleries/2007/fortune/0704/gallery.fortune_innovators.fortune/3.html)
+* [museumoffailure.com/](https://museumoffailure.com/)
+* [revistagalileu.globo.com/Ciencia/Neurociencia/noticia/2014/10/criatividade-se-adquire-com-pratica.html](http://revistagalileu.globo.com/Ciencia/Neurociencia/noticia/2014/10/criatividade-se-adquire-com-pratica.html)
+* [Größte Probleme in Stuttgart - Stadt Stuttgart](https://www.stuttgart.de/item/show/540293)
+* [vk.com/@reason_science-sila-voli-pereocenena-a-samokontrol-ne-garantiya-uspeha-v-zh](https://vk.com/@reason_science-sila-voli-pereocenena-a-samokontrol-ne-garantiya-uspeha-v-zh)
+* [themedicigroup.com/#medici-expertise](https://www.themedicigroup.com/#medici-expertise)
+* [washingtonpost.com/news/wonk/wp/2016/03/18/why-smart-people-are-better-off-with-fewer-friends/?wpmm=1&wpisrc=nl_wemost](https://www.washingtonpost.com/news/wonk/wp/2016/03/18/why-smart-people-are-better-off-with-fewer-friends/?wpmm=1&wpisrc=nl_wemost)
+* [www3.forbes.com/leadership/15-surprising-things-productive-people-do-differently/](https://www3.forbes.com/leadership/15-surprising-things-productive-people-do-differently/)
+* [Intelligenza Emotiva e Controllo Mentale - YouTube](https://www.youtube.com/watch?v=6ADdoKZmhtk)
+* [Zašto „calories in, calories out“ teorija nije ispravna i nova istraživanja](http://www.pressserbia.com/zasto-calories-calories-teorija-nije-ispravna-nova-istrazivanja/)
+* [Стiна](https://vk.com/wall-80512191_40824)
+* [Buddhism](https://vk.com/wall-6827569_23778)
+* [Site to improve typing speed](https://www.reddit.com/r/languagelearning/comments/bcahl1/great_site_i_found_to_improve_typing_speed_in/)
 
 ### Reading List - Misc
-        * [editalconcursosbrasil.com.br/noticias/2022/03/12-padroes-claros-que-pessoas-inteligentes-sempre-apresentam/](https://editalconcursosbrasil.com.br/noticias/2022/03/12-padroes-claros-que-pessoas-inteligentes-sempre-apresentam/)
 
-    how to change the world
-
-    movements changing the world
-        * [freecodecamp.org/news/important-lessons-they-dont-teach-you-in-business-school/](https://www.freecodecamp.org/news/important-lessons-they-dont-teach-you-in-business-school/)
-        * [dkb.io/post/write-it-anyway](https://dkb.io/post/write-it-anyway)
-        * [dkb.io/post/how-to-read-a-book](https://dkb.io/post/how-to-read-a-book)
-        * [freecodecamp.org/news/working-from-home-tips-to-stay-productive/](https://www.freecodecamp.org/news/working-from-home-tips-to-stay-productive/)
-        * [Жизненно важные спиcки для самоорганизации и тренирoвки силы воли. Пpобуем!](https://vk.com/wall-62067277_156851)
-        * [Эта книга сделает вас умнее](https://vk.com/wall-99788410_96663)
-        * [Эльстер Юн. Кислый виноград.Исследование провалов рациональности.pdf](https://vk.com/doc566746695_582325072?hash=508529d80c9ee1fa68&dl=d633e711b172306bc4)
-
-    2-minute rule: Motivation needed is greatest at the beginning; make good habits so easy that I can't say no.
-        * [Frank Lange TV](https://www.youtube.com/channel/UCFyp6a_WcB0D4z4Ny77RM5w)
-        * [pubmed.ncbi.nlm.nih.gov/135817/](https://pubmed.ncbi.nlm.nih.gov/135817/)
-        * [ncbi.nlm.nih.gov/pmc/articles/PMC7145784/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7145784/)
-        * [healthline.com/health/masturbation-addiction](https://www.healthline.com/health/masturbation-addiction)
-        * [How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships](https://de1lib.org/book/1171183/29a074)
+* [editalconcursosbrasil.com.br/noticias/2022/03/12-padroes-claros-que-pessoas-inteligentes-sempre-apresentam/](https://editalconcursosbrasil.com.br/noticias/2022/03/12-padroes-claros-que-pessoas-inteligentes-sempre-apresentam/)
+* how to change the world
+* movements changing the world
+* [freecodecamp.org/news/important-lessons-they-dont-teach-you-in-business-school/](https://www.freecodecamp.org/news/important-lessons-they-dont-teach-you-in-business-school/)
+* [dkb.io/post/write-it-anyway](https://dkb.io/post/write-it-anyway)
+* [dkb.io/post/how-to-read-a-book](https://dkb.io/post/how-to-read-a-book)
+* [freecodecamp.org/news/working-from-home-tips-to-stay-productive/](https://www.freecodecamp.org/news/working-from-home-tips-to-stay-productive/)
+* [Жизненно важные спиcки для самоорганизации и тренирoвки силы воли. Пpобуем!](https://vk.com/wall-62067277_156851)
+* [Эта книга сделает вас умнее](https://vk.com/wall-99788410_96663)
+* [Эльстер Юн. Кислый виноград.Исследование провалов рациональности.pdf](https://vk.com/doc566746695_582325072?hash=508529d80c9ee1fa68&dl=d633e711b172306bc4)
+* 2-minute rule: Motivation needed is greatest at the beginning; make good habits so easy that I can't say no.
+* [Frank Lange TV](https://www.youtube.com/channel/UCFyp6a_WcB0D4z4Ny77RM5w)
+* [pubmed.ncbi.nlm.nih.gov/135817/](https://pubmed.ncbi.nlm.nih.gov/135817/)
+* [ncbi.nlm.nih.gov/pmc/articles/PMC7145784/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7145784/)
+* [healthline.com/health/masturbation-addiction](https://www.healthline.com/health/masturbation-addiction)
+* [How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships](https://de1lib.org/book/1171183/29a074)
 
     →
 
@@ -562,13 +510,13 @@ Two questions to ask yourself after every reading session: What do I want to rem
     El poder positivo de las emociones negativas
 
     Edward de Bono
-        * [How to become 37.78 times better at anything | Atomic Habits summary (by James Clear)](https://www.youtube.com/watch?v=PZ7lDrwYdZc)
-        * [How I Tricked My Brain To Like Doing Hard Things (dopamine detox)](https://www.youtube.com/watch?v=9QiE-M1LrZk)
+* [How to become 37.78 times better at anything | Atomic Habits summary (by James Clear)](https://www.youtube.com/watch?v=PZ7lDrwYdZc)
+* [How I Tricked My Brain To Like Doing Hard Things (dopamine detox)](https://www.youtube.com/watch?v=9QiE-M1LrZk)
 
     Improve Your Memory: Develop your memory muscle * Increase your brain power * Think with clarity and creativity
-        * [researchgate.net/publication/235279418_An_evolution_of_excellence_Some_main_trends](https://www.researchgate.net/publication/235279418_An_evolution_of_excellence_Some_main_trends)
-        * [libgen.is/search.php?&req=masturbation&phrase=1&view=simple&column=def&sort=def&sortmode=ASC&page=2](http://libgen.is/search.php?&req=masturbation&phrase=1&view=simple&column=def&sort=def&sortmode=ASC&page=2)
-        * [How to do nothing: resisting the attention economy](http://libgen.is/book/index.php?md5=9555CEBEF987672A3153ECEF42449A4C)
+* [researchgate.net/publication/235279418_An_evolution_of_excellence_Some_main_trends](https://www.researchgate.net/publication/235279418_An_evolution_of_excellence_Some_main_trends)
+* [libgen.is/search.php?&req=masturbation&phrase=1&view=simple&column=def&sort=def&sortmode=ASC&page=2](http://libgen.is/search.php?&req=masturbation&phrase=1&view=simple&column=def&sort=def&sortmode=ASC&page=2)
+* [How to do nothing: resisting the attention economy](http://libgen.is/book/index.php?md5=9555CEBEF987672A3153ECEF42449A4C)
 
     book: The Polymath (Ahmed)
 
@@ -585,7 +533,7 @@ Two questions to ask yourself after every reading session: What do I want to rem
     How to Take Over the World
 
     8 правил антикризового Lean-менеджменту
-        * [Skillz](https://vk.com/wall-24986735_130466)
+* [Skillz](https://vk.com/wall-24986735_130466)
 
     You’re Not Enough (and That’s OK): Escaping the Toxic Culture of Self-Love
 
@@ -596,16 +544,16 @@ Two questions to ask yourself after every reading session: What do I want to rem
     Unbedingt Schnelllesen beherrschen!!!
 
     BhupendraJnu (@Bhupendra Kumar) ha twittato: "Young scholars lead a “precarious quasi-proletarian existence,” with little prospect of a long-term career, and the rule of promotion is that “there are a lot of mediocrities in leading university positions.”"
-        * [twitter.com/karpathy/status/1325154823856033793?s=21](https://twitter.com/karpathy/status/1325154823856033793?s=21)
-        * [snapreads.com/magazine/how-to-learn-anything/](https://snapreads.com/magazine/how-to-learn-anything/)
-        * [cnbc.com/2017/07/17/how-to-learn-anything-from-scratch.html](https://www.cnbc.com/2017/07/17/how-to-learn-anything-from-scratch.html)
-        * [Список когнитивных искажений](https://vk.com/wall-36868476_255704)
+* [twitter.com/karpathy/status/1325154823856033793?s=21](https://twitter.com/karpathy/status/1325154823856033793?s=21)
+* [snapreads.com/magazine/how-to-learn-anything/](https://snapreads.com/magazine/how-to-learn-anything/)
+* [cnbc.com/2017/07/17/how-to-learn-anything-from-scratch.html](https://www.cnbc.com/2017/07/17/how-to-learn-anything-from-scratch.html)
+* [Список когнитивных искажений](https://vk.com/wall-36868476_255704)
 
     „Sztuka zadawania dobrych pytań” - czyli o tym, jak pracuje psychologde Praktyczna Psychologia
-        * [ошибки аргументирования](https://vk.com/wall-124609314_85898)
+* [ошибки аргументирования](https://vk.com/wall-124609314_85898)
 
     The 8 Health Habits Experts Say You Need in..
-        * [Самый первый выпуск «Терминального чтива»:](http://vk.com/wall-96047932_11000)
+* [Самый первый выпуск «Терминального чтива»:](http://vk.com/wall-96047932_11000)
 
     How I memorize piano music | Jocelyn Swigger | TEDxGettysburgCollegede TEDx Talks
 
@@ -704,198 +652,188 @@ Two questions to ask yourself after every reading session: What do I want to rem
     . В этом вебинаре Кирилл рассказывает о простых стратегиях эффективного обучения и решения практических заданий.
 
     . Рахим рассказывает о полезной аналогии, которая помогает при изучении большой новой области.
-        * [В первой статье есть такой фрагмент: «Забудьте миф о трудолюбивом гении, который закопался в библиотеке и вышел оттуда специалистом. Лучший способ попасть в перманентный ступор — изолироваться от других учащихся и от учителей». Кроме общения в самом Хекслете, мы советуем вам примкнуть к своему локальному сообществу. У нас есть постоянно расширяющийся](https://github.com/Hexlet/ru-local-communities)
+* [В первой статье есть такой фрагмент: «Забудьте миф о трудолюбивом гении, который закопался в библиотеке и вышел оттуда специалистом. Лучший способ попасть в перманентный ступор — изолироваться от других учащихся и от учителей». Кроме общения в самом Хекслете, мы советуем вам примкнуть к своему локальному сообществу. У нас есть постоянно расширяющийся](https://github.com/Hexlet/ru-local-communities)
 
     . Если в списке нет вашего города, то стоит поискать сообщества в Фейсбуке, Вконтакте или просто в гугле (а потом добавьте найденное в наш список! ;-)
-        * [nhs.uk/common-health-questions/sexual-health/can-premature-ejaculation-be-controlled/](https://www.nhs.uk/common-health-questions/sexual-health/can-premature-ejaculation-be-controlled/)
+* [nhs.uk/common-health-questions/sexual-health/can-premature-ejaculation-be-controlled/](https://www.nhs.uk/common-health-questions/sexual-health/can-premature-ejaculation-be-controlled/)
 
 ### Reading List - Sex
-    - Porn Culture
 
-        * [The Ethics and Politics of Pornography | SpringerLink](https://link.springer.com/book/10.1057%2F9780230371125)
+* Porn Culture
+* [The Ethics and Politics of Pornography | SpringerLink](https://link.springer.com/book/10.1057%2F9780230371125)
+* [Hans Maes &amp; Jerrold Levinson (eds.), Art and Pornography: Philosophical Essays - PhilPapers](https://philpapers.org/rec/MAEAAP-3)
+* [Helen E. Longino, Pornography, oppression, and freedom : a closer look - PhilPapers](https://philpapers.org/rec/LONPOA)
+* [adw.org/wp-content/uploads/2014/02/Anti-Pornography-Resources-Advocacy-Groups.pdf](http://adw.org/wp-content/uploads/2014/02/Anti-Pornography-Resources-Advocacy-Groups.pdf)
+* [alfonzorachel.com/254/brock-lawley-the-atheist-antidote-hard-core-points-against-porn](http://alfonzorachel.com/254/brock-lawley-the-atheist-antidote-hard-core-points-against-porn)
+* [byuresearch.org/ssrp/](http://byuresearch.org/ssrp/)
+* [marri.us/pornography](http://marri.us/pornography)
+* [cambridgeblog.org/2011/08/the-origins-of-anti-pornography-feminism-by-carolyn-bronstein/](http://www.cambridgeblog.org/2011/08/the-origins-of-anti-pornography-feminism-by-carolyn-bronstein/)
+* [citizenlink.com/2012/01/27/all-men-look-at-pornography-right/](http://www.citizenlink.com/2012/01/27/all-men-look-at-pornography-right/)
+* [conservapedia.com/Atheism_and_pornography](http://www.conservapedia.com/Atheism_and_pornography)
+* [dailyinfographic.com/the-stats-on-internet-pornography-infographic](http://www.dailyinfographic.com/the-stats-on-internet-pornography-infographic)
+* [examiner.com/article/pornography-from-a-scientific-atheist-perspective](http://www.examiner.com/article/pornography-from-a-scientific-atheist-perspective)
+* [frc.org/issuebrief/the-effects-of-pornography-on-individuals-marriage-family-and-community](http://www.frc.org/issuebrief/the-effects-of-pornography-on-individuals-marriage-family-and-community)
+* [sagu.edu/thoughthub/pornography-statistics-who-uses-pornography](http://www.sagu.edu/thoughthub/pornography-statistics-who-uses-pornography)
+* [theatlantic.com/politics/archive/2016/04/porn-culture/477099/](http://www.theatlantic.com/politics/archive/2016/04/porn-culture/477099/)
+* [thecrimson.com/column/democracy-of-the-dead/article/2011/3/28/porn-pornography-moral-doeful/](http://www.thecrimson.com/column/democracy-of-the-dead/article/2011/3/28/porn-pornography-moral-doeful/)
+* [webroot.com/us/en/home/resources/tips/digital-family-life/internet-pornography-by-the-numbers](http://www.webroot.com/us/en/home/resources/tips/digital-family-life/internet-pornography-by-the-numbers)
+* [books.google.com/books?id=n3LTEpX7ZiIC&pg=PT362&lpg=PT362&dq=pornographie+in+deutschland&source=bl&ots=_kWd0rx1a9&sig=Ky2HNQOraG3XFLueHqXQP3ivuro&hl=it&sa=X&ved=0ahUKEwjTvOyyvOzKAhVJ2mMKHZlABokQ6AEIPjAG#v=onepage&q=pornographie%20in%20deutschland&f=false](https://books.google.com/books?id=n3LTEpX7ZiIC&pg=PT362&lpg=PT362&dq=pornographie+in+deutschland&source=bl&ots=_kWd0rx1a9&sig=Ky2HNQOraG3XFLueHqXQP3ivuro&hl=it&sa=X&ved=0ahUKEwjTvOyyvOzKAhVJ2mMKHZlABokQ6AEIPjAG#v=onepage&q=pornographie%20in%20deutschland&f=false)
+* [en.wikipedia.org/wiki/Anti-pornography_movement_in_the_United_States](https://en.wikipedia.org/wiki/Anti-pornography_movement_in_the_United_States)
+* [vk.com/@science_porn-kak-novye-tehnologii-izmenili-pornografiu-masturbaciu-i-nash](https://vk.com/@science_porn-kak-novye-tehnologii-izmenili-pornografiu-masturbaciu-i-nash)
+* [internetsafetyproject.org/wiki/anti-pornography-organizations](https://www.internetsafetyproject.org/wiki/anti-pornography-organizations)
+* [researchgate.net/publication/51750502_A_Review_of_Internet_Pornography_Use_Research_Methodology_and_Content_from_the_Past_10_Years](https://www.researchgate.net/publication/51750502_A_Review_of_Internet_Pornography_Use_Research_Methodology_and_Content_from_the_Past_10_Years)
+* [John Stuart Mill and the Harm of Pornography | Ethics: Vol 102, No 3](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/293423)
+* [La pornographie vue par Marina Rollman - YouTube](https://www.youtube.com/watch?v=U5xZUd-8Ujw)
+* [Pornography, ethics, and video games | SpringerLink](https://link.springer.com/article/10.1007%2Fs10676-012-9310-1)
+* [The Harms Of Pornography](http://unitedfamilies.org/default.asp?contentID=34)
+* [What do you think about your brain on porn movement? by Gary Wilson](https://www.quora.com/What-do-you-think-about-your-brain-on-porn-movement/answer/Gary-Wilson-53?share=e5be12b6&srid=HPb8)
 
-        * [Hans Maes &amp; Jerrold Levinson (eds.), Art and Pornography: Philosophical Essays - PhilPapers](https://philpapers.org/rec/MAEAAP-3)
-
-        * [Helen E. Longino, Pornography, oppression, and freedom : a closer look - PhilPapers](https://philpapers.org/rec/LONPOA)
-                * [adw.org/wp-content/uploads/2014/02/Anti-Pornography-Resources-Advocacy-Groups.pdf](http://adw.org/wp-content/uploads/2014/02/Anti-Pornography-Resources-Advocacy-Groups.pdf)
-                * [alfonzorachel.com/254/brock-lawley-the-atheist-antidote-hard-core-points-against-porn](http://alfonzorachel.com/254/brock-lawley-the-atheist-antidote-hard-core-points-against-porn)
-                * [byuresearch.org/ssrp/](http://byuresearch.org/ssrp/)
-                * [marri.us/pornography](http://marri.us/pornography)
-                * [cambridgeblog.org/2011/08/the-origins-of-anti-pornography-feminism-by-carolyn-bronstein/](http://www.cambridgeblog.org/2011/08/the-origins-of-anti-pornography-feminism-by-carolyn-bronstein/)
-                * [citizenlink.com/2012/01/27/all-men-look-at-pornography-right/](http://www.citizenlink.com/2012/01/27/all-men-look-at-pornography-right/)
-                * [conservapedia.com/Atheism_and_pornography](http://www.conservapedia.com/Atheism_and_pornography)
-                * [dailyinfographic.com/the-stats-on-internet-pornography-infographic](http://www.dailyinfographic.com/the-stats-on-internet-pornography-infographic)
-                * [examiner.com/article/pornography-from-a-scientific-atheist-perspective](http://www.examiner.com/article/pornography-from-a-scientific-atheist-perspective)
-                * [frc.org/issuebrief/the-effects-of-pornography-on-individuals-marriage-family-and-community](http://www.frc.org/issuebrief/the-effects-of-pornography-on-individuals-marriage-family-and-community)
-                * [sagu.edu/thoughthub/pornography-statistics-who-uses-pornography](http://www.sagu.edu/thoughthub/pornography-statistics-who-uses-pornography)
-                * [theatlantic.com/politics/archive/2016/04/porn-culture/477099/](http://www.theatlantic.com/politics/archive/2016/04/porn-culture/477099/)
-                * [thecrimson.com/column/democracy-of-the-dead/article/2011/3/28/porn-pornography-moral-doeful/](http://www.thecrimson.com/column/democracy-of-the-dead/article/2011/3/28/porn-pornography-moral-doeful/)
-                * [webroot.com/us/en/home/resources/tips/digital-family-life/internet-pornography-by-the-numbers](http://www.webroot.com/us/en/home/resources/tips/digital-family-life/internet-pornography-by-the-numbers)
-                * [books.google.com/books?id=n3LTEpX7ZiIC&pg=PT362&lpg=PT362&dq=pornographie+in+deutschland&source=bl&ots=_kWd0rx1a9&sig=Ky2HNQOraG3XFLueHqXQP3ivuro&hl=it&sa=X&ved=0ahUKEwjTvOyyvOzKAhVJ2mMKHZlABokQ6AEIPjAG#v=onepage&q=pornographie%20in%20deutschland&f=false](https://books.google.com/books?id=n3LTEpX7ZiIC&pg=PT362&lpg=PT362&dq=pornographie+in+deutschland&source=bl&ots=_kWd0rx1a9&sig=Ky2HNQOraG3XFLueHqXQP3ivuro&hl=it&sa=X&ved=0ahUKEwjTvOyyvOzKAhVJ2mMKHZlABokQ6AEIPjAG#v=onepage&q=pornographie%20in%20deutschland&f=false)
-                * [en.wikipedia.org/wiki/Anti-pornography_movement_in_the_United_States](https://en.wikipedia.org/wiki/Anti-pornography_movement_in_the_United_States)
-                * [vk.com/@science_porn-kak-novye-tehnologii-izmenili-pornografiu-masturbaciu-i-nash](https://vk.com/@science_porn-kak-novye-tehnologii-izmenili-pornografiu-masturbaciu-i-nash)
-                * [internetsafetyproject.org/wiki/anti-pornography-organizations](https://www.internetsafetyproject.org/wiki/anti-pornography-organizations)
-                * [researchgate.net/publication/51750502_A_Review_of_Internet_Pornography_Use_Research_Methodology_and_Content_from_the_Past_10_Years](https://www.researchgate.net/publication/51750502_A_Review_of_Internet_Pornography_Use_Research_Methodology_and_Content_from_the_Past_10_Years)
-
-        * [John Stuart Mill and the Harm of Pornography | Ethics: Vol 102, No 3](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/293423)
-
-        * [La pornographie vue par Marina Rollman - YouTube](https://www.youtube.com/watch?v=U5xZUd-8Ujw)
-
-        * [Pornography, ethics, and video games | SpringerLink](https://link.springer.com/article/10.1007%2Fs10676-012-9310-1)
-
-        * [The Harms Of Pornography](http://unitedfamilies.org/default.asp?contentID=34)
-
-        * [What do you think about your brain on porn movement? by Gary Wilson](https://www.quora.com/What-do-you-think-about-your-brain-on-porn-movement/answer/Gary-Wilson-53?share=e5be12b6&srid=HPb8)
-
-        Why I stopped watching porn | Ran Gavrieli | TEDxJaffade TEDx Talks
-
-        * [YBoP - addiction](https://www.addiction.com/4507/brain-porn/)
-
-        * [Your Brain on Porn - commentary](https://youtu.be/jE6ve14MIk4)
-
-        * [Общественная опасность порнографии](https://cyberleninka.ru/article/v/obschestvennaya-opasnost-pornografii)
-
-        * [Drucilla Cornell, Feminism and Pornography - PhilPapers](https://philpapers.org/rec/CORFAP)
-
-        * [Porn Culture](http://www.theatlantic.com/politics/archive/2016/04/porn-culture/477099/)
-
-        * [Sexual Rejection](https://youtu.be/laTdRxRcDCQ)
-        * [How to Start Having Sex Again](https://youtu.be/XJA870rOMNs)
-        * [Our Secret Fantasies](https://youtu.be/E7qhI2Hz6pM)
-        * [What's Tricky About Your Sex Life?](https://youtu.be/s9-23v6v2J4)
-        * [Immer noch eine Jungfrau](https://youtu.be/e-WCz951EBc)
-        * [Sexual Non-Liberation](https://youtu.be/ddKwb3Wzz0w)
-        * [Welche langfristigen Beziehungen überleben werden und welche nicht?](https://youtu.be/T_LSTPnVs70)
-        * [Why We Go Cold On Our Partners](https://youtu.be/WRaaqN2Atxw)
-        * [Wer initiiert Sex und warum es wichtig ist](https://youtu.be/gIUjpXAcH64)
-        * [Intimität und Nähe](https://youtu.be/OPsMVn431lc)
-        * [Alain de Botton on Sex](https://youtu.be/osd9AKRCFRM)
-        * [Sexuelle Schande überwinden](https://youtu.be/Sk530wri0NM)
-        * [The Sex-Starved Relationship](https://youtu.be/tSs2dXDf1Zs)
-        * [thewisemind.net/how-to-think-about-sex-in-the-modern-world-a-stoic-guide/](https://thewisemind.net/how-to-think-about-sex-in-the-modern-world-a-stoic-guide/)
-        * [Як ми кохалися](https://castbox.fm/va/3670514)
-        * [plannedparenthood.org/learn/ask-experts/what-birth-control-can-i-use-besides-condoms](https://www.plannedparenthood.org/learn/ask-experts/what-birth-control-can-i-use-besides-condoms)
-        * [duckduckgo.com/?q=stoics%20on%20sex&ko=-1&ia=web](https://duckduckgo.com/?q=stoics%20on%20sex&ko=-1&ia=web)
-        * [themontrealreview.com/2009/The-Stoics-and-the-Epicureans-on-Friendship-Sex-and-Love.php](https://www.themontrealreview.com/2009/The-Stoics-and-the-Epicureans-on-Friendship-Sex-and-Love.php)
-        * [100 поз из камасутры, которые должен попробовать каждый](https://pikabu.ru/story/100_poz_iz_kamasutryi_kotoryie_dolzhen_poprobovat_kazhdyiy_chast_2_4506881)
-        * [Antecedents and consequences of Internet Pornography Consumption among young adults in Germany](http://essay.utwente.nl/62475/1/Seidel%2C_K._-_s0095125_%28verslag%29.pdf)
-        * [Attudes toward nonmarital sex in 24 countries](http://search.proquest.com/openview/66a4142b96c25fe87c62f8bd6363ed4f/1?pq-origsite=gscholar&cbl=33400)
-        * [de.wikihow.com/Ein-Leben-im-Z%C3%B6libat](http://de.wikihow.com/Ein-Leben-im-Z%C3%B6libat)
-        * [lovely-ledy.ru/zhenshhina/otnosheniya/vozderzhanie-ot-seksa.html](http://lovely-ledy.ru/zhenshhina/otnosheniya/vozderzhanie-ot-seksa.html)
-        * [mjusli.ru/psihologija/lyubovnye-otnosheniya/vredno-li-seksualnoe-vozderzhanie](http://mjusli.ru/psihologija/lyubovnye-otnosheniya/vredno-li-seksualnoe-vozderzhanie)
-        * [naturalthinker.net/trl/texts/Vilar,Esther/PolygamousSex6.html](http://naturalthinker.net/trl/texts/Vilar,Esther/PolygamousSex6.html)
-        * [pijamasurf.com/2013/03/sociedad-obsesionada-con-el-sexo-que-dicen-asexuales/](http://pijamasurf.com/2013/03/sociedad-obsesionada-con-el-sexo-que-dicen-asexuales/)
-        * [brigitte.de/aktuell/stimmen/sexualitaet---ich-bin-asexuell---was-das-wirklich-bedeutet-10174232.html](http://www.brigitte.de/aktuell/stimmen/sexualitaet---ich-bin-asexuell---was-das-wirklich-bedeutet-10174232.html)
-        * [britannica.com/topic/human-sexual-behaviour/Development-and-change-in-the-reproductive-system#toc29355](http://www.britannica.com/topic/human-sexual-behaviour/Development-and-change-in-the-reproductive-system#toc29355)
-        * [britannica.com/topic/human-sexual-behaviour/Social-and-cultural-aspects](http://www.britannica.com/topic/human-sexual-behaviour/Social-and-cultural-aspects)
-        * [britannica.com/topic/human-sexual-behaviour/Sociosexual-behaviour](http://www.britannica.com/topic/human-sexual-behaviour/Sociosexual-behaviour)
-        * [care2.com/greenliving/20-benefits-of-celibacy.html](http://www.care2.com/greenliving/20-benefits-of-celibacy.html)
-        * [healthguidance.org/entry/15962/1/The-Pros-and-Cons-of-Celibacy.html](http://www.healthguidance.org/entry/15962/1/The-Pros-and-Cons-of-Celibacy.html)
-        * [justlady.ru/articles-153692-chem-vredno-dlitelnoe-vozderzhanie](http://www.justlady.ru/articles-153692-chem-vredno-dlitelnoe-vozderzhanie)
-        * [lifestyle-conseil.com/comment-bien-vivre-le-celibat/](http://www.lifestyle-conseil.com/comment-bien-vivre-le-celibat/)
-        * [nbcnews.com/id/36084314/ns/health-sexual_health/t/no-sex-may-be-no-fun-it-unhealthy/](http://www.nbcnews.com/id/36084314/ns/health-sexual_health/t/no-sex-may-be-no-fun-it-unhealthy/)
-        * [pianetadonna.it/coppia/sessualita/perche-fare-sesso-ci-fa-diventare-piu-belle-e-in-salute.html](http://www.pianetadonna.it/coppia/sessualita/perche-fare-sesso-ci-fa-diventare-piu-belle-e-in-salute.html)
-        * [prostate-massage-and-health.com/celibacy.html](http://www.prostate-massage-and-health.com/celibacy.html)
-        * [rosbalt.ru/style/2017/03/29/1602996.html](http://www.rosbalt.ru/style/2017/03/29/1602996.html)
-        * [sowetanlive.co.za/goodlife/2012/06/19/why-some-women-just-don-t-enjoy-sex](http://www.sowetanlive.co.za/goodlife/2012/06/19/why-some-women-just-don-t-enjoy-sex)
-        * [spbdnevnik.ru/news/2017-03-29/uchenyey-uznali-kak-vozderzhaniey-ot-seksa-vliyaeyt-na-zhenshchin/](http://www.spbdnevnik.ru/news/2017-03-29/uchenyey-uznali-kak-vozderzhaniey-ot-seksa-vliyaeyt-na-zhenshchin/)
-        * [spiegel.de/panorama/asexualitaet-wenn-menschen-keine-lust-auf-sex-haben-a-854038.html](http://www.spiegel.de/panorama/asexualitaet-wenn-menschen-keine-lust-auf-sex-haben-a-854038.html)
-        * [thefemininewoman.com/2010/03/can-you-really-expect-a-man-to-be-monogamous/](http://www.thefemininewoman.com/2010/03/can-you-really-expect-a-man-to-be-monogamous/)
-        * [authenticintimacy.com/qa](https://authenticintimacy.com/qa)
-        * [books.google.com/books?id=3r4UAAAAYAAJ&pg=RA1-PA126&lpg=RA1-PA126&dq=do+men+have+more+polygamous+instinct+than+women&source=bl&ots=e9dUVO2uId&sig=ebTHbr0LpvnLhnAjBsbaOhzDcxk&hl=de&sa=X&ved=0ahUKEwjA6JrcgrvJAhVB6mMKHdciBFEQ6AEIRjAF#v=onepage&q=do%20men%20have%20more%20polygamous%20instinct%20than%20women&f=false](https://books.google.com/books?id=3r4UAAAAYAAJ&pg=RA1-PA126&lpg=RA1-PA126&dq=do+men+have+more+polygamous+instinct+than+women&source=bl&ots=e9dUVO2uId&sig=ebTHbr0LpvnLhnAjBsbaOhzDcxk&hl=de&sa=X&ved=0ahUKEwjA6JrcgrvJAhVB6mMKHdciBFEQ6AEIRjAF#v=onepage&q=do%20men%20have%20more%20polygamous%20instinct%20than%20women&f=false)
-        * [nebolet.com/men-health/vredit-li-zdorovyu-vozderzhanie.html](https://nebolet.com/men-health/vredit-li-zdorovyu-vozderzhanie.html)
-        * [otvet.mail.ru/question/38868189](https://otvet.mail.ru/question/38868189)
-        * [polzavred.ru/seksualnoe-vozderzhanie-dlya-silnogo-i-slabogo-pola-polza-ili-vred.html](https://polzavred.ru/seksualnoe-vozderzhanie-dlya-silnogo-i-slabogo-pola-polza-ili-vred.html)
-        * [anivo.ch/fr/blog/who-is-healthier-singles-or-married-men](https://www.anivo.ch/fr/blog/who-is-healthier-singles-or-married-men)
+Why I stopped watching porn | Ran Gavrieli | TEDxJaffade TEDx Talks
+* [YBoP - addiction](https://www.addiction.com/4507/brain-porn/)
+* [Your Brain on Porn - commentary](https://youtu.be/jE6ve14MIk4)
+* [Общественная опасность порнографии](https://cyberleninka.ru/article/v/obschestvennaya-opasnost-pornografii)
+* [Drucilla Cornell, Feminism and Pornography - PhilPapers](https://philpapers.org/rec/CORFAP)
+* [Porn Culture](http://www.theatlantic.com/politics/archive/2016/04/porn-culture/477099/)
+* [Sexual Rejection](https://youtu.be/laTdRxRcDCQ)
+* [How to Start Having Sex Again](https://youtu.be/XJA870rOMNs)
+* [Our Secret Fantasies](https://youtu.be/E7qhI2Hz6pM)
+* [What's Tricky About Your Sex Life?](https://youtu.be/s9-23v6v2J4)
+* [Immer noch eine Jungfrau](https://youtu.be/e-WCz951EBc)
+* [Sexual Non-Liberation](https://youtu.be/ddKwb3Wzz0w)
+* [Welche langfristigen Beziehungen überleben werden und welche nicht?](https://youtu.be/T_LSTPnVs70)
+* [Why We Go Cold On Our Partners](https://youtu.be/WRaaqN2Atxw)
+* [Wer initiiert Sex und warum es wichtig ist](https://youtu.be/gIUjpXAcH64)
+* [Intimität und Nähe](https://youtu.be/OPsMVn431lc)
+* [Alain de Botton on Sex](https://youtu.be/osd9AKRCFRM)
+* [Sexuelle Schande überwinden](https://youtu.be/Sk530wri0NM)
+* [The Sex-Starved Relationship](https://youtu.be/tSs2dXDf1Zs)
+* [thewisemind.net/how-to-think-about-sex-in-the-modern-world-a-stoic-guide/](https://thewisemind.net/how-to-think-about-sex-in-the-modern-world-a-stoic-guide/)
+* [Як ми кохалися](https://castbox.fm/va/3670514)
+* [plannedparenthood.org/learn/ask-experts/what-birth-control-can-i-use-besides-condoms](https://www.plannedparenthood.org/learn/ask-experts/what-birth-control-can-i-use-besides-condoms)
+* [duckduckgo.com/?q=stoics%20on%20sex&ko=-1&ia=web](https://duckduckgo.com/?q=stoics%20on%20sex&ko=-1&ia=web)
+* [themontrealreview.com/2009/The-Stoics-and-the-Epicureans-on-Friendship-Sex-and-Love.php](https://www.themontrealreview.com/2009/The-Stoics-and-the-Epicureans-on-Friendship-Sex-and-Love.php)
+* [100 поз из камасутры, которые должен попробовать каждый](https://pikabu.ru/story/100_poz_iz_kamasutryi_kotoryie_dolzhen_poprobovat_kazhdyiy_chast_2_4506881)
+* [Antecedents and consequences of Internet Pornography Consumption among young adults in Germany](http://essay.utwente.nl/62475/1/Seidel%2C_K._-_s0095125_%28verslag%29.pdf)
+* [Attudes toward nonmarital sex in 24 countries](http://search.proquest.com/openview/66a4142b96c25fe87c62f8bd6363ed4f/1?pq-origsite=gscholar&cbl=33400)
+* [de.wikihow.com/Ein-Leben-im-Z%C3%B6libat](http://de.wikihow.com/Ein-Leben-im-Z%C3%B6libat)
+* [lovely-ledy.ru/zhenshhina/otnosheniya/vozderzhanie-ot-seksa.html](http://lovely-ledy.ru/zhenshhina/otnosheniya/vozderzhanie-ot-seksa.html)
+* [mjusli.ru/psihologija/lyubovnye-otnosheniya/vredno-li-seksualnoe-vozderzhanie](http://mjusli.ru/psihologija/lyubovnye-otnosheniya/vredno-li-seksualnoe-vozderzhanie)
+* [naturalthinker.net/trl/texts/Vilar,Esther/PolygamousSex6.html](http://naturalthinker.net/trl/texts/Vilar,Esther/PolygamousSex6.html)
+* [pijamasurf.com/2013/03/sociedad-obsesionada-con-el-sexo-que-dicen-asexuales/](http://pijamasurf.com/2013/03/sociedad-obsesionada-con-el-sexo-que-dicen-asexuales/)
+* [brigitte.de/aktuell/stimmen/sexualitaet---ich-bin-asexuell---was-das-wirklich-bedeutet-10174232.html](http://www.brigitte.de/aktuell/stimmen/sexualitaet---ich-bin-asexuell---was-das-wirklich-bedeutet-10174232.html)
+* [britannica.com/topic/human-sexual-behaviour/Development-and-change-in-the-reproductive-system#toc29355](http://www.britannica.com/topic/human-sexual-behaviour/Development-and-change-in-the-reproductive-system#toc29355)
+* [britannica.com/topic/human-sexual-behaviour/Social-and-cultural-aspects](http://www.britannica.com/topic/human-sexual-behaviour/Social-and-cultural-aspects)
+* [britannica.com/topic/human-sexual-behaviour/Sociosexual-behaviour](http://www.britannica.com/topic/human-sexual-behaviour/Sociosexual-behaviour)
+* [care2.com/greenliving/20-benefits-of-celibacy.html](http://www.care2.com/greenliving/20-benefits-of-celibacy.html)
+* [healthguidance.org/entry/15962/1/The-Pros-and-Cons-of-Celibacy.html](http://www.healthguidance.org/entry/15962/1/The-Pros-and-Cons-of-Celibacy.html)
+* [justlady.ru/articles-153692-chem-vredno-dlitelnoe-vozderzhanie](http://www.justlady.ru/articles-153692-chem-vredno-dlitelnoe-vozderzhanie)
+* [lifestyle-conseil.com/comment-bien-vivre-le-celibat/](http://www.lifestyle-conseil.com/comment-bien-vivre-le-celibat/)
+* [nbcnews.com/id/36084314/ns/health-sexual_health/t/no-sex-may-be-no-fun-it-unhealthy/](http://www.nbcnews.com/id/36084314/ns/health-sexual_health/t/no-sex-may-be-no-fun-it-unhealthy/)
+* [pianetadonna.it/coppia/sessualita/perche-fare-sesso-ci-fa-diventare-piu-belle-e-in-salute.html](http://www.pianetadonna.it/coppia/sessualita/perche-fare-sesso-ci-fa-diventare-piu-belle-e-in-salute.html)
+* [prostate-massage-and-health.com/celibacy.html](http://www.prostate-massage-and-health.com/celibacy.html)
+* [rosbalt.ru/style/2017/03/29/1602996.html](http://www.rosbalt.ru/style/2017/03/29/1602996.html)
+* [sowetanlive.co.za/goodlife/2012/06/19/why-some-women-just-don-t-enjoy-sex](http://www.sowetanlive.co.za/goodlife/2012/06/19/why-some-women-just-don-t-enjoy-sex)
+* [spbdnevnik.ru/news/2017-03-29/uchenyey-uznali-kak-vozderzhaniey-ot-seksa-vliyaeyt-na-zhenshchin/](http://www.spbdnevnik.ru/news/2017-03-29/uchenyey-uznali-kak-vozderzhaniey-ot-seksa-vliyaeyt-na-zhenshchin/)
+* [spiegel.de/panorama/asexualitaet-wenn-menschen-keine-lust-auf-sex-haben-a-854038.html](http://www.spiegel.de/panorama/asexualitaet-wenn-menschen-keine-lust-auf-sex-haben-a-854038.html)
+* [thefemininewoman.com/2010/03/can-you-really-expect-a-man-to-be-monogamous/](http://www.thefemininewoman.com/2010/03/can-you-really-expect-a-man-to-be-monogamous/)
+* [authenticintimacy.com/qa](https://authenticintimacy.com/qa)
+* [books.google.com/books?id=3r4UAAAAYAAJ&pg=RA1-PA126&lpg=RA1-PA126&dq=do+men+have+more+polygamous+instinct+than+women&source=bl&ots=e9dUVO2uId&sig=ebTHbr0LpvnLhnAjBsbaOhzDcxk&hl=de&sa=X&ved=0ahUKEwjA6JrcgrvJAhVB6mMKHdciBFEQ6AEIRjAF#v=onepage&q=do%20men%20have%20more%20polygamous%20instinct%20than%20women&f=false](https://books.google.com/books?id=3r4UAAAAYAAJ&pg=RA1-PA126&lpg=RA1-PA126&dq=do+men+have+more+polygamous+instinct+than+women&source=bl&ots=e9dUVO2uId&sig=ebTHbr0LpvnLhnAjBsbaOhzDcxk&hl=de&sa=X&ved=0ahUKEwjA6JrcgrvJAhVB6mMKHdciBFEQ6AEIRjAF#v=onepage&q=do%20men%20have%20more%20polygamous%20instinct%20than%20women&f=false)
+* [nebolet.com/men-health/vredit-li-zdorovyu-vozderzhanie.html](https://nebolet.com/men-health/vredit-li-zdorovyu-vozderzhanie.html)
+* [otvet.mail.ru/question/38868189](https://otvet.mail.ru/question/38868189)
+* [polzavred.ru/seksualnoe-vozderzhanie-dlya-silnogo-i-slabogo-pola-polza-ili-vred.html](https://polzavred.ru/seksualnoe-vozderzhanie-dlya-silnogo-i-slabogo-pola-polza-ili-vred.html)
+* [anivo.ch/fr/blog/who-is-healthier-singles-or-married-men](https://www.anivo.ch/fr/blog/who-is-healthier-singles-or-married-men)
 
     Poligamia, Realmente?
-        * [Sexual Morality in the World's Religions](https://b-ok.cc/book/551229/789eeb)
-        * [en.wikipedia.org/wiki/Sexual_ethics](https://en.wikipedia.org/wiki/Sexual_ethics)
-        * [Christopher Bartel &amp; Anna Cremaldi, ‘It’s Just a Story’: Pornography, Desire, and the Ethics of Fictive Imagining - PhilPapers](https://philpapers.org/rec/BARIJA-3)
-        * [quora.com/Are-men-innately-polygamous](https://www.quora.com/Are-men-innately-polygamous)
-        * [Люди устали от секса](https://vk.com/@brainfeed-ludi-ustali-ot-seksa)
-        * [Why Some Women Don't Enjoy Sex](http://www.sowetanlive.co.za/goodlife/2012/06/19/why-some-women-just-don-t-enjoy-sex)
-        * [Sexual Ethics](https://en.wikipedia.org/wiki/Sexual_ethics)
-        * [Jugendsexualität](https://www.forschung.sexualaufklaerung.de/fileadmin/fileadmin-forschung/pdf/Jugendendbericht%2001022016%20.pdf)
-        * [scarleteen.com/article/bodies/20_questions_about_virginity_scarleteen_interviews_hanne_blank](http://www.scarleteen.com/article/bodies/20_questions_about_virginity_scarleteen_interviews_hanne_blank)
-        * [Carnal Knowledge - Baxter's Concise Encyclopedia of Modern Sex | John Baxter | download](https://b-ok.cc/book/609614/2af8a3?dsource=recommend)
+* [Sexual Morality in the World's Religions](https://b-ok.cc/book/551229/789eeb)
+* [en.wikipedia.org/wiki/Sexual_ethics](https://en.wikipedia.org/wiki/Sexual_ethics)
+* [Christopher Bartel &amp; Anna Cremaldi, ‘It’s Just a Story’: Pornography, Desire, and the Ethics of Fictive Imagining - PhilPapers](https://philpapers.org/rec/BARIJA-3)
+* [quora.com/Are-men-innately-polygamous](https://www.quora.com/Are-men-innately-polygamous)
+* [Люди устали от секса](https://vk.com/@brainfeed-ludi-ustali-ot-seksa)
+* [Why Some Women Don't Enjoy Sex](http://www.sowetanlive.co.za/goodlife/2012/06/19/why-some-women-just-don-t-enjoy-sex)
+* [Sexual Ethics](https://en.wikipedia.org/wiki/Sexual_ethics)
+* [Jugendsexualität](https://www.forschung.sexualaufklaerung.de/fileadmin/fileadmin-forschung/pdf/Jugendendbericht%2001022016%20.pdf)
+* [scarleteen.com/article/bodies/20_questions_about_virginity_scarleteen_interviews_hanne_blank](http://www.scarleteen.com/article/bodies/20_questions_about_virginity_scarleteen_interviews_hanne_blank)
+* [Carnal Knowledge - Baxter's Concise Encyclopedia of Modern Sex | John Baxter | download](https://b-ok.cc/book/609614/2af8a3?dsource=recommend)
 
 ### Reading List- Parenting
-        * [Are you raising your child in a religious authoritarian culture? — Religious Child Maltreatment](http://religiouschildmaltreatment.com/2011/12/are-you-raising-your-child-in-a-religious-authoritarian-culture/)
-        * [kp.ua/life/325854-opiat-domashka](http://kp.ua/life/325854-opiat-domashka)
-        * [parenting.blogs.nytimes.com/](http://parenting.blogs.nytimes.com/)
-        * [cote-momes.com/](http://www.cote-momes.com/)
-        * [kid.ru/pregnancy/index400.php3](http://www.kid.ru/pregnancy/index400.php3)
-        * [psychologos.ru/categories/view/vospitanie_detey](http://www.psychologos.ru/categories/view/vospitanie_detey)
-        * [sueddeutsche.de/kolumne/bildungsrecherche-von-helikopter-eltern-und-empathiebefreiten-mathelehrern-1.1741916](http://www.sueddeutsche.de/kolumne/bildungsrecherche-von-helikopter-eltern-und-empathiebefreiten-mathelehrern-1.1741916)
-        * [ya-roditel.ru/parents/base/](http://www.ya-roditel.ru/parents/base/)
-        * [Parenting styles predict procrastination in children | KSL.com](https://www.ksl.com/?nid=1009&sid=30280231)
-        * [ДЕТСКАЯ ПСИХОЛОГИЯ](http://www.sun-hands.ru/17deti.html)
-        * [ЁжикЁжик - журнал и афиша для родителей](https://ezhikezhik.ru/)
-        * [positiveparentingsolutions.com/parenting-blog](http://www.positiveparentingsolutions.com/parenting-blog)
-        * [contioutra.com/o-pai-que-cuida-do-filho-nao-ajuda-apenas-exerce-a-paternidade/?fbclid=IwAR3Y42vQHjAk5pZ2At_84yVblcdNHYmd5WklPm3LsFufMFNiGWEUsfX0ghM](https://www.contioutra.com/o-pai-que-cuida-do-filho-nao-ajuda-apenas-exerce-a-paternidade/?fbclid=IwAR3Y42vQHjAk5pZ2At_84yVblcdNHYmd5WklPm3LsFufMFNiGWEUsfX0ghM)
-        * [Психологи сравнили эффективность наказания и поощрения в осуществлении образовательных программ — Сноб](https://snob.ru/entry/175975)
+
+* [Are you raising your child in a religious authoritarian culture? — Religious Child Maltreatment](http://religiouschildmaltreatment.com/2011/12/are-you-raising-your-child-in-a-religious-authoritarian-culture/)
+* [kp.ua/life/325854-opiat-domashka](http://kp.ua/life/325854-opiat-domashka)
+* [parenting.blogs.nytimes.com/](http://parenting.blogs.nytimes.com/)
+* [cote-momes.com/](http://www.cote-momes.com/)
+* [kid.ru/pregnancy/index400.php3](http://www.kid.ru/pregnancy/index400.php3)
+* [psychologos.ru/categories/view/vospitanie_detey](http://www.psychologos.ru/categories/view/vospitanie_detey)
+* [sueddeutsche.de/kolumne/bildungsrecherche-von-helikopter-eltern-und-empathiebefreiten-mathelehrern-1.1741916](http://www.sueddeutsche.de/kolumne/bildungsrecherche-von-helikopter-eltern-und-empathiebefreiten-mathelehrern-1.1741916)
+* [ya-roditel.ru/parents/base/](http://www.ya-roditel.ru/parents/base/)
+* [Parenting styles predict procrastination in children | KSL.com](https://www.ksl.com/?nid=1009&sid=30280231)
+* [ДЕТСКАЯ ПСИХОЛОГИЯ](http://www.sun-hands.ru/17deti.html)
+* [ЁжикЁжик - журнал и афиша для родителей](https://ezhikezhik.ru/)
+* [positiveparentingsolutions.com/parenting-blog](http://www.positiveparentingsolutions.com/parenting-blog)
+* [contioutra.com/o-pai-que-cuida-do-filho-nao-ajuda-apenas-exerce-a-paternidade/?fbclid=IwAR3Y42vQHjAk5pZ2At_84yVblcdNHYmd5WklPm3LsFufMFNiGWEUsfX0ghM](https://www.contioutra.com/o-pai-que-cuida-do-filho-nao-ajuda-apenas-exerce-a-paternidade/?fbclid=IwAR3Y42vQHjAk5pZ2At_84yVblcdNHYmd5WklPm3LsFufMFNiGWEUsfX0ghM)
+* [Психологи сравнили эффективность наказания и поощрения в осуществлении образовательных программ — Сноб](https://snob.ru/entry/175975)
 
 ### Reading List - Mental Health
-        * [4 modi per alleviare le emozioni dolorose – La Mente è Meravigliosa](https://lamenteemeravigliosa.it/4-modi-alleviare-le-emozioni-dolorose/)
-        * [Are You Torturing Yourself With Your Thoughts? - The Best Brain Possible](https://www.thebestbrainpossible.com/are-you-torturing-yourself-with-your-thoughts/)
-        * [Ausgepowert und am Ende: Burnout | ethos Magazin](http://ethos.ch/blog/ausgepowert-und-am-ende-burnout)
-        * [wisesociety.it/incontri/per-cambiare-la-realta-basta-usare-bene-la-mente/](http://wisesociety.it/incontri/per-cambiare-la-realta-basta-usare-bene-la-mente/)
+
+* [4 modi per alleviare le emozioni dolorose – La Mente è Meravigliosa](https://lamenteemeravigliosa.it/4-modi-alleviare-le-emozioni-dolorose/)
+* [Are You Torturing Yourself With Your Thoughts? - The Best Brain Possible](https://www.thebestbrainpossible.com/are-you-torturing-yourself-with-your-thoughts/)
+* [Ausgepowert und am Ende: Burnout | ethos Magazin](http://ethos.ch/blog/ausgepowert-und-am-ende-burnout)
+* [wisesociety.it/incontri/per-cambiare-la-realta-basta-usare-bene-la-mente/](http://wisesociety.it/incontri/per-cambiare-la-realta-basta-usare-bene-la-mente/)
 
     La meditación, el éxito de ser uno mismo | Antonio Jorge Larruy | TEDxAndorraLaVellade TEDx Talks
 
     Mindfulness: El arte de vivir conscientemente | Andrés Martín | TEDxSantCugatde TEDx Talks
-        * [Книжная терапия: 15 книг, работающих как лекарство](https://vk.com/@bestbooks-knizhnaya-terapiya-15-knig-rabotauschih-kak-lekarstvo)
-        * [Idriss Aberrante : Comment libérer votre cerveau ? C à vous - 07/10/2016 - YouTube](https://www.youtube.com/watch?v=HrquuGp3Cjw)
-        * [Neuroeducacion: Educando las emociones | Mariana Guedea | TEDxClPedroRosalesDeLeon - YouTube](https://www.youtube.com/watch?v=DkXedPzvbeQ)
+* [Книжная терапия: 15 книг, работающих как лекарство](https://vk.com/@bestbooks-knizhnaya-terapiya-15-knig-rabotauschih-kak-lekarstvo)
+* [Idriss Aberrante : Comment libérer votre cerveau ? C à vous - 07/10/2016 - YouTube](https://www.youtube.com/watch?v=HrquuGp3Cjw)
+* [Neuroeducacion: Educando las emociones | Mariana Guedea | TEDxClPedroRosalesDeLeon - YouTube](https://www.youtube.com/watch?v=DkXedPzvbeQ)
 
     Психологія стресу (частина 1.1) | Навчальний курс - YouTube
-        * [screening.mentalhealthscreening.org/brigham-young-university-provo/screening/9764/results](http://screening.mentalhealthscreening.org/brigham-young-university-provo/screening/9764/results)
-        * [Confinement : un exercice simple de respiration pour réguler ses émotions](https://theconversation.com/confinement-un-exercice-simple-de-respiration-pour-reguler-ses-emotions-133796)
+* [screening.mentalhealthscreening.org/brigham-young-university-provo/screening/9764/results](http://screening.mentalhealthscreening.org/brigham-young-university-provo/screening/9764/results)
+* [Confinement : un exercice simple de respiration pour réguler ses émotions](https://theconversation.com/confinement-un-exercice-simple-de-respiration-pour-reguler-ses-emotions-133796)
 
 ### Reading List - Motivation
-    - [Продуктивность связана не с управлением временем, а с управлением вниманием](https://vk.com/@etorabotaet-produktivnost-svyazana-ne-s-upravleniem-vremenem-a-s-upravle)**
+
+  * [Продуктивность связана не с управлением временем, а с управлением вниманием](https://vk.com/@etorabotaet-produktivnost-svyazana-ne-s-upravleniem-vremenem-a-s-upravle)**
 
     A Japanese Technique to Overcome Lazinessde Bright Side
-        * [bigthink.com/videos/charles-duhigg-on-self-motivation-and-subversive-instinct](http://bigthink.com/videos/charles-duhigg-on-self-motivation-and-subversive-instinct)
-        * [ecologyofeducation.net/wsite/intrinsic-vs-extrinsic-the-challenge-of-motivation/](http://ecologyofeducation.net/wsite/intrinsic-vs-extrinsic-the-challenge-of-motivation/)
-        * [scholar.harvard.edu/files/todd_rogers/files/commitment_devices_2.pdf](http://scholar.harvard.edu/files/todd_rogers/files/commitment_devices_2.pdf)
-        * [fransjohansson.com/](http://www.fransjohansson.com/)
-        * [scienceshumaines.com/rencontre-avec-jon-elster-comment-resister-a-la-tentation_fr_27175.html](http://www.scienceshumaines.com/rencontre-avec-jon-elster-comment-resister-a-la-tentation_fr_27175.html)
-        * [wienerzeitung.at/themen_channel/lebensart/freizeit/557216_Zitate-zur-Faulheit.html](http://www.wienerzeitung.at/themen_channel/lebensart/freizeit/557216_Zitate-zur-Faulheit.html)
-        * [wired.com/2011/06/ff_feedbackloop/all/](http://www.wired.com/2011/06/ff_feedbackloop/all/)
-        * [enacademic.com/dic.nsf/enwiki/11566900](https://enacademic.com/dic.nsf/enwiki/11566900)
-        * [Diferença entre METAS, OBJETIVOS e SONHOS - Mentes Renovadas - YouTube](https://www.youtube.com/watch?v=0wYiNRmk-Ks&feature=share)
+* [bigthink.com/videos/charles-duhigg-on-self-motivation-and-subversive-instinct](http://bigthink.com/videos/charles-duhigg-on-self-motivation-and-subversive-instinct)
+* [ecologyofeducation.net/wsite/intrinsic-vs-extrinsic-the-challenge-of-motivation/](http://ecologyofeducation.net/wsite/intrinsic-vs-extrinsic-the-challenge-of-motivation/)
+* [scholar.harvard.edu/files/todd_rogers/files/commitment_devices_2.pdf](http://scholar.harvard.edu/files/todd_rogers/files/commitment_devices_2.pdf)
+* [fransjohansson.com/](http://www.fransjohansson.com/)
+* [scienceshumaines.com/rencontre-avec-jon-elster-comment-resister-a-la-tentation_fr_27175.html](http://www.scienceshumaines.com/rencontre-avec-jon-elster-comment-resister-a-la-tentation_fr_27175.html)
+* [wienerzeitung.at/themen_channel/lebensart/freizeit/557216_Zitate-zur-Faulheit.html](http://www.wienerzeitung.at/themen_channel/lebensart/freizeit/557216_Zitate-zur-Faulheit.html)
+* [wired.com/2011/06/ff_feedbackloop/all/](http://www.wired.com/2011/06/ff_feedbackloop/all/)
+* [enacademic.com/dic.nsf/enwiki/11566900](https://enacademic.com/dic.nsf/enwiki/11566900)
+* [Diferença entre METAS, OBJETIVOS e SONHOS - Mentes Renovadas - YouTube](https://www.youtube.com/watch?v=0wYiNRmk-Ks&feature=share)
 
     The Best Workout Motivation Ever - Joe Rogan - YouTube
 
     Why you should define your fears instead of your goals | Tim Ferriss - YouTube
-        * [Drive: International editions | Daniel H. Pink](https://www.danpink.com/drive-international-editions/)
-        * [people who came from difficult circumstances and became successful - Buscar con Google](https://www.google.com/search?q=people+who+came+from+difficult+circumstances+and+became+successful&oq=people+who+came+from+difficult+circumstances+and+became+successful&aqs=chrome..69i57.94423j0j8&sourceid=chrome&ie=UTF-8)
-        * [La puissance du paresseux](https://vk.com/doc448658071_459516371?hash=66049f689096430851&dl=9bce9ee9d874759005)
+* [Drive: International editions | Daniel H. Pink](https://www.danpink.com/drive-international-editions/)
+* [people who came from difficult circumstances and became successful - Buscar con Google](https://www.google.com/search?q=people+who+came+from+difficult+circumstances+and+became+successful&oq=people+who+came+from+difficult+circumstances+and+became+successful&aqs=chrome..69i57.94423j0j8&sourceid=chrome&ie=UTF-8)
+* [La puissance du paresseux](https://vk.com/doc448658071_459516371?hash=66049f689096430851&dl=9bce9ee9d874759005)
 
-    - Amy Chua - What Drives Success?
+  * Amy Chua - What Drives Success?
 
-        # Three elements that lead to success
+# Three elements that lead to success
 
-        The first is a superiority complex. A superiority complex means that a person has a “deep-seated sense of exceptionality.” This breeds confidence and nerve. The second element is a sense of insecurity or an inferiority complex. People must feel like they aren’t quite good enough, and that they have something to prove. This is opposing the superiority complex, and that’s the way it should be, Chua says. The third element of the triple package is impulse control; a person must have self-discipline. When explaining impulse control, Chua mentions the Finnish word “sisu”; a compound of bravado and bravery, ferocity and tenacity, of the ability to keep fighting after most people would have quit, and to fight with the will to win.
+The first is a superiority complex. A superiority complex means that a person has a “deep-seated sense of exceptionality.” This breeds confidence and nerve. The second element is a sense of insecurity or an inferiority complex. People must feel like they aren’t quite good enough, and that they have something to prove. This is opposing the superiority complex, and that’s the way it should be, Chua says. The third element of the triple package is impulse control; a person must have self-discipline. When explaining impulse control, Chua mentions the Finnish word “sisu”; a compound of bravado and bravery, ferocity and tenacity, of the ability to keep fighting after most people would have quit, and to fight with the will to win.
 
 ### Reading List - Wisdom
 
-    Mahabharata 2:55
-        * [Méditation Stoïcienne - Exercice du matin, Donald Robertson, lu par J. Ravenet - YouTube](https://www.youtube.com/watch?v=-D98MPd6Ccg)
-        * [Dhammapada DE](http://www.palikanon.com/khuddaka/dhp/dhp.html#Yamaka)
-        * [Dhammapada FR](http://www.dhammadelaforet.org/sommaire/dhp/dhammapada.pdf)
-        * [List of Works](https://www.sacred-texts.com/)
-        * [Cal Newport's Blog](https://www.calnewport.com/blog/)
+* Mahabharata 2:55
+* [Méditation Stoïcienne - Exercice du matin, Donald Robertson, lu par J. Ravenet - YouTube](https://www.youtube.com/watch?v=-D98MPd6Ccg)
+* [Dhammapada DE](http://www.palikanon.com/khuddaka/dhp/dhp.html#Yamaka)
+* [Dhammapada FR](http://www.dhammadelaforet.org/sommaire/dhp/dhammapada.pdf)
+* [List of Works](https://www.sacred-texts.com/)
+* [Cal Newport's Blog](https://www.calnewport.com/blog/)
 
     Flow (Csikszentmihalyi)
-        * [b-ok.cc/s/cal](https://b-ok.cc/s/cal) newport
-        * [kotterinc.com/8-steps-process-for-leading-change/](https://www.kotterinc.com/8-steps-process-for-leading-change/)
-        * [10 Tips for Research and a PhD](https://ruder.io/10-tips-for-research-and-a-phd/)
-        * [Daniel Goleman on Focus: The Secret to High Performance and Fulfilment](https://youtu.be/HTfYv3IEOqM)
-        * [Paper reading thread](https://twitter.com/beascientist/status/1273329913626411008?s=12)
-        * [Being A Researcher: An Informatics Perspective](https://b-ok.cc/book/5580593/6316db)
+* [b-ok.cc/s/cal](https://b-ok.cc/s/cal) newport
+* [kotterinc.com/8-steps-process-for-leading-change/](https://www.kotterinc.com/8-steps-process-for-leading-change/)
+* [10 Tips for Research and a PhD](https://ruder.io/10-tips-for-research-and-a-phd/)
+* [Daniel Goleman on Focus: The Secret to High Performance and Fulfilment](https://youtu.be/HTfYv3IEOqM)
+* [Paper reading thread](https://twitter.com/beascientist/status/1273329913626411008?s=12)
+* [Being A Researcher: An Informatics Perspective](https://b-ok.cc/book/5580593/6316db)
 
     Remember this - that there is a proper dignity and proportion to be observed in the performance of every act of life. - Marcus Aurelius
 
@@ -910,329 +848,323 @@ Two questions to ask yourself after every reading session: What do I want to rem
     "Every form of strength covers one weakness and creates another, and therefore every form of strength is also a form of weakness and every weakness a strength"
 
     “To attain knowledge, add things everyday. To attain wisdom, remove things every day.” - Lao Tzu
-        * [http://kennedy.byu.edu/one-last-lecture/ - 5 priinciples](http://kennedy.byu.edu/one-last-lecture/)
-        * [artofmanliness.com/2017/02/20/cant-return-eden/](http://www.artofmanliness.com/2017/02/20/cant-return-eden/)
-        * [buddhanet.net/l_maha.htm](http://www.buddhanet.net/l_maha.htm)
-        * [foundationsmag.com/wisdom.html](http://www.foundationsmag.com/wisdom.html)
-        * [wisdoms.one/](http://www.wisdoms.one/)
+* [http://kennedy.byu.edu/one-last-lecture/ - 5 priinciples](http://kennedy.byu.edu/one-last-lecture/)
+* [artofmanliness.com/2017/02/20/cant-return-eden/](http://www.artofmanliness.com/2017/02/20/cant-return-eden/)
+* [buddhanet.net/l_maha.htm](http://www.buddhanet.net/l_maha.htm)
+* [foundationsmag.com/wisdom.html](http://www.foundationsmag.com/wisdom.html)
+* [wisdoms.one/](http://www.wisdoms.one/)
 
     Practical Wisdom (Kenneth Sharpe)
-        * [SUL VIVERE... - Professionisti online - Città dell'Infanzia](http://www.cittadellinfanzia.it/rubriche/blog/?sul-vivere---)
-        * [The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom: Jonathan Haidt: 8601419756247: Amazon.com: Books](https://www.amazon.com/gp/product/0465028020/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=jordanbpetery-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0465028020&linkId=bd7dc4b57f1a9431d98972bccca79725)
-        * [TOP 10 des pensées de Marc-Aurèle (stoïcisme) - YouTube](https://www.youtube.com/watch?v=KGDunFXG9Es)
-        * [Top 7 Lessons From 134 Books](https://www.youtube.com/watch?v=Pr5e9b9ZjvA)
-        * [foundationsmag.com/index.html](http://www.foundationsmag.com/index.html)
-        * [Wildmind Buddhist Meditation – Marcus Aurelius: “If you are distressed by anything external, the pain is not due to the thing itself…”](http://www.wildmind.org/blogs/quote-of-the-month/marcus-aurelius-pain)
-        * [wisdoms.ru/avt/b222.html](http://www.wisdoms.ru/avt/b222.html)
-        * [wisdoms.one/](http://www.wisdoms.one/)
+* [SUL VIVERE... - Professionisti online - Città dell'Infanzia](http://www.cittadellinfanzia.it/rubriche/blog/?sul-vivere---)
+* [The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom: Jonathan Haidt: 8601419756247: Amazon.com: Books](https://www.amazon.com/gp/product/0465028020/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=jordanbpetery-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0465028020&linkId=bd7dc4b57f1a9431d98972bccca79725)
+* [TOP 10 des pensées de Marc-Aurèle (stoïcisme) - YouTube](https://www.youtube.com/watch?v=KGDunFXG9Es)
+* [Top 7 Lessons From 134 Books](https://www.youtube.com/watch?v=Pr5e9b9ZjvA)
+* [foundationsmag.com/index.html](http://www.foundationsmag.com/index.html)
+* [Wildmind Buddhist Meditation – Marcus Aurelius: “If you are distressed by anything external, the pain is not due to the thing itself…”](http://www.wildmind.org/blogs/quote-of-the-month/marcus-aurelius-pain)
+* [wisdoms.ru/avt/b222.html](http://www.wisdoms.ru/avt/b222.html)
+* [wisdoms.one/](http://www.wisdoms.one/)
 
     Digital Minimalism: Choosing a Focused Life in a Noisy World.
-        * [kennedy.byu.edu/alumni/bridges/features/one-last-lecture](https://kennedy.byu.edu/alumni/bridges/features/one-last-lecture)
+* [kennedy.byu.edu/alumni/bridges/features/one-last-lecture](https://kennedy.byu.edu/alumni/bridges/features/one-last-lecture)
 
-    - Literature List
+  * Literature List
+* [Rigveda](https://en.wikipedia.org/wiki/Rigveda)
+* [Samaveda](https://en.wikipedia.org/wiki/Samaveda)
+* [Yajurveda](https://en.wikipedia.org/wiki/Yajurveda)
+* [Atharvaveda](https://en.wikipedia.org/wiki/Atharvaveda)
+* [Tripitaka](https://en.wikipedia.org/wiki/Atharvaveda)
 
-        * [Rigveda](https://en.wikipedia.org/wiki/Rigveda)
+Mahayana Sutras
 
-        * [Samaveda](https://en.wikipedia.org/wiki/Samaveda)
+Tantra
 
-        * [Yajurveda](https://en.wikipedia.org/wiki/Yajurveda)
+Zen texts
 
-        * [Atharvaveda](https://en.wikipedia.org/wiki/Atharvaveda)
+Qur'an
 
-        * [Tripitaka](https://en.wikipedia.org/wiki/Atharvaveda)
+Hadith
 
-        Mahayana Sutras
-
-        Tantra
-
-        Zen texts
-
-        Qur'an
-
-        Hadith
-
-        Upanishads
+Upanishads
 
 ### Reading List - Philanthropy
-        * [Doing-Good-Better-Chapter-9.pdf](https://80000hours.org/wp-content/uploads/2015/07/Doing-Good-Better-Chapter-9.pdf)
-        * [ospreyfdn.org/](http://www.ospreyfdn.org/)
+
+* [Doing-Good-Better-Chapter-9.pdf](https://80000hours.org/wp-content/uploads/2015/07/Doing-Good-Better-Chapter-9.pdf)
+* [ospreyfdn.org/](http://www.ospreyfdn.org/)
 
     More Than Good Intentions by Dean Karlan
-        * [Using reason and evidence to do the most good - Effective Altruism](https://www.effectivealtruism.org/)
-        * [William MacAskill](http://www.williammacaskill.com/)
-        * [Doing Good Better](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.497.592&rep=rep1&type=pdf)
-        * [effective altruism](https://libgen.is/search.php?req=effective+altruism&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
-        * [Singer PT](https://www.fronteiras.com/entrevistas/peter-singer-o-filosofo-mais-perigoso-do-mundo)
+* [Using reason and evidence to do the most good - Effective Altruism](https://www.effectivealtruism.org/)
+* [William MacAskill](http://www.williammacaskill.com/)
+* [Doing Good Better](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.497.592&rep=rep1&type=pdf)
+* [effective altruism](https://libgen.is/search.php?req=effective+altruism&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+* [Singer PT](https://www.fronteiras.com/entrevistas/peter-singer-o-filosofo-mais-perigoso-do-mundo)
 
 ### Reading List - Finance
-        * [retailmenot.com/](https://www.retailmenot.com/)
-        * [wisebread.com/](http://www.wisebread.com/)
-        * [groupon.com/](https://www.groupon.com/)
-        * [moneysavingexpert.com/](http://www.moneysavingexpert.com/)
-        * [ecb.europa.eu/press/key/date/2003/html/sp031126.fr.html](http://www.ecb.europa.eu/press/key/date/2003/html/sp031126.fr.html)
-        * [fr.scribd.com/book/268417958/Money-and-Banking-What-Everyone-Should-Know-Transcript](https://fr.scribd.com/book/268417958/Money-and-Banking-What-Everyone-Should-Know-Transcript)
-        * [google.com/search?safe=active&client=safari&hl=ru-us&ei=6xSiWMeoIOeB0gKQr72QCA&q=finanzielle+Allgemeinbildung&oq=finanzielle+Allgemeinbildung&gs_l=mobile-gws-serp.3...17238.23526.0.23920.27.26.0.0.0.0.340.3667.3j17j4j1.25.0....0...1.1.64.mobile-gws-serp..8.4.610...0j35i39k1j0i19k1j0i67k1.8ER3HvLhLC4](https://www.google.com/search?safe=active&client=safari&hl=ru-us&ei=6xSiWMeoIOeB0gKQr72QCA&q=finanzielle+Allgemeinbildung&oq=finanzielle+Allgemeinbildung&gs_l=mobile-gws-serp.3)
-        * [Tax-News.com | Global Tax News | U.S. Citizenship Based Taxation: Unique or Outrageous?](https://www.tax-news.com/articles/US_Citizenship_Based_Taxation_Unique_or_Outrageous____571149.html)
-        * [taxes for americans working in germany - Ecosia](https://www.ecosia.org/search?q=taxes+for+americans+working+in+germany&addon=chrome&addonversion=2.0.3)
-        * [15 Things Poor People Do That The Rich Don’t - YouTube](https://www.youtube.com/watch?v=nllZrOoxpzc)
-        * [Everything You Need to Know about Finance](https://www.youtube.com/watch?v=WEDIj9JBTC8)
+
+* [retailmenot.com/](https://www.retailmenot.com/)
+* [wisebread.com/](http://www.wisebread.com/)
+* [groupon.com/](https://www.groupon.com/)
+* [moneysavingexpert.com/](http://www.moneysavingexpert.com/)
+* [ecb.europa.eu/press/key/date/2003/html/sp031126.fr.html](http://www.ecb.europa.eu/press/key/date/2003/html/sp031126.fr.html)
+* [fr.scribd.com/book/268417958/Money-and-Banking-What-Everyone-Should-Know-Transcript](https://fr.scribd.com/book/268417958/Money-and-Banking-What-Everyone-Should-Know-Transcript)
+* [google.com/search?safe=active&client=safari&hl=ru-us&ei=6xSiWMeoIOeB0gKQr72QCA&q=finanzielle+Allgemeinbildung&oq=finanzielle+Allgemeinbildung&gs_l=mobile-gws-serp.3...17238.23526.0.23920.27.26.0.0.0.0.340.3667.3j17j4j1.25.0....0...1.1.64.mobile-gws-serp..8.4.610...0j35i39k1j0i19k1j0i67k1.8ER3HvLhLC4](https://www.google.com/search?safe=active&client=safari&hl=ru-us&ei=6xSiWMeoIOeB0gKQr72QCA&q=finanzielle+Allgemeinbildung&oq=finanzielle+Allgemeinbildung&gs_l=mobile-gws-serp.3)
+* [Tax-News.com | Global Tax News | U.S. Citizenship Based Taxation: Unique or Outrageous?](https://www.tax-news.com/articles/US_Citizenship_Based_Taxation_Unique_or_Outrageous____571149.html)
+* [taxes for americans working in germany - Ecosia](https://www.ecosia.org/search?q=taxes+for+americans+working+in+germany&addon=chrome&addonversion=2.0.3)
+* [15 Things Poor People Do That The Rich Don’t - YouTube](https://www.youtube.com/watch?v=nllZrOoxpzc)
+* [Everything You Need to Know about Finance](https://www.youtube.com/watch?v=WEDIj9JBTC8)
 
 ### Reading List - Learning
 
     *[Come un podcast può cambiarti (in meglio) la vita - Educazione Globale](http://www.educazioneglobale.com/2016/10/come-un-podcast-puo-cambiarti-in-meglio-la-vita/)**
-        * [10 Smart Things I&#39;ve Learned from People Who Never Went to College](https://www.forbes.com/sites/daviddisalvo/2012/08/02/ten-smart-things-ive-learned-from-people-who-never-went-to-college/#52f1e562446e)
-        * [Der Flow-Zustand | lerntechniken.info](http://www.lerntechniken.info/der-flow-zustand/)
-        * [How to Learn Faster with the Feynman Technique (Example Included)](https://www.youtube.com/watch?v=_f-qkGJBPts)
-        * [How to Love Reading || Study Tips || Make Reading a Habit - YouTube](https://www.youtube.com/watch?v=el-S8iroORQ)
-        * [arbeitsblaetter.stangl-taller.at/LERNEN/LerntheorienKognitive.shtml](http://arbeitsblaetter.stangl-taller.at/LERNEN/LerntheorienKognitive.shtml)
-        * [express-ewr.com.au/2013/polymathy/](http://express-ewr.com.au/2013/polymathy/)
-        * [ideas.time.com/2013/03/13/secrets-of-the-most-successful-college-students/?iid=op-article-mostpop1](http://ideas.time.com/2013/03/13/secrets-of-the-most-successful-college-students/?iid=op-article-mostpop1)
-        * [learning.blogs.nytimes.com/2014/02/28/guest-post-news-literacy-is-not-optional-if-you-need-to-be-well-informed/?_r=0](http://learning.blogs.nytimes.com/2014/02/28/guest-post-news-literacy-is-not-optional-if-you-need-to-be-well-informed/?_r=0)
-        * [moreintelligentlife.com/content/edward-carr/last-days-polymath#_](http://moreintelligentlife.com/content/edward-carr/last-days-polymath#_)
-        * [revistagalileu.globo.com/Ciencia/Neurociencia/noticia/2014/10/criatividade-se-adquire-com-pratica.html](http://revistagalileu.globo.com/Ciencia/Neurociencia/noticia/2014/10/criatividade-se-adquire-com-pratica.html)
-        * [revolutioninspain.blogspot.com/2012/02/como-informarse-correctamente-o-al.html](http://revolutioninspain.blogspot.com/2012/02/como-informarse-correctamente-o-al.html)
-        * [science.psu.edu/news-and-events/featured-news/the-perks-of-being-well-adrounded-alumna-has-one-up-on-grad-school](http://science.psu.edu/news-and-events/featured-news/the-perks-of-being-well-adrounded-alumna-has-one-up-on-grad-school)
-        * [startupguide.com/world/greatest-innovators/](http://startupguide.com/world/greatest-innovators/)
-        * [superheroyou.com/12-steps-to-becoming-well-informed/](http://superheroyou.com/12-steps-to-becoming-well-informed/)
-        * [biographyonline.net/scientists/top-10-inventors.html](http://www.biographyonline.net/scientists/top-10-inventors.html)
-        * [bvoltaire.fr/christopheservan/etre-bien-informe-cest-bien-savoir-raisonner-logiquement-cest-mieux,209187](http://www.bvoltaire.fr/christopheservan/etre-bien-informe-cest-bien-savoir-raisonner-logiquement-cest-mieux,209187)
-        * [ed.gov/news/speeches/well-rounded-curriculum-age-accountability](http://www.ed.gov/news/speeches/well-rounded-curriculum-age-accountability)
-        * [entrepreneur.com/article/200524](http://www.entrepreneur.com/article/200524)
-        * [forbes.com/sites/erikaandersen/2013/03/09/the-secret-to-getting-really-really-good-at-something/](http://www.forbes.com/sites/erikaandersen/2013/03/09/the-secret-to-getting-really-really-good-at-something/)
-        * [forbes.com/sites/rebeccabagley/2014/01/15/the-10-traits-of-great-innovators/](http://www.forbes.com/sites/rebeccabagley/2014/01/15/the-10-traits-of-great-innovators/)
-        * [geniusstuff.com/blog/gallery/greatest-inventor-pictures/](http://www.geniusstuff.com/blog/gallery/greatest-inventor-pictures/)
-        * [nytimes.com/2014/01/26/opinion/sunday/what-drives-success.html?_r=0](http://www.nytimes.com/2014/01/26/opinion/sunday/what-drives-success.html?_r=0)
-        * [nytimes.com/2014/01/26/opinion/sunday/what-drives-success.html?_r=1](http://www.nytimes.com/2014/01/26/opinion/sunday/what-drives-success.html?_r=1)
-        * [nytimes.com/2015/04/19/business/alexa-von-tobel-of-learnvest-no-really-whats-your-weakness.html?WT.mc_id=VI-D-E-SOURCEB-AD-VAR-VIDEO-ROS-2015-NA&WT.mc_ev=click&kwp_0=17238&kwp_4=112714&kwp_1=145792](http://www.nytimes.com/2015/04/19/business/alexa-von-tobel-of-learnvest-no-really-whats-your-weakness.html?WT.mc_id=VI-D-E-SOURCEB-AD-VAR-VIDEO-ROS-2015-NA&WT.mc_ev=click&kwp_0=17238&kwp_4=112714&kwp_1=145792)
-        * [scientificamerican.com/article/what-makes-a-prodigy/](http://www.scientificamerican.com/article/what-makes-a-prodigy/)
-        * [theguardian.com/education/2009/feb/10/how-to-be-a-student](http://www.theguardian.com/education/2009/feb/10/how-to-be-a-student)
-        * [toptenz.net/top-10-greatest-inventors-in-history.php](http://www.toptenz.net/top-10-greatest-inventors-in-history.php)
-        * [welt.de/sonderthemen/medienkongress/article123836200/Nie-war-es-einfacher-umfassend-informiert-zu-sein.html](http://www.welt.de/sonderthemen/medienkongress/article123836200/Nie-war-es-einfacher-umfassend-informiert-zu-sein.html)
-        * [aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more- intéressante objection à l'obsession avec l'innovation en faveur de la "maintenance"](https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more-)
-        * [br.answers.yahoo.com/question/index?qid=20120208142953AAb1Zsp](https://br.answers.yahoo.com/question/index?qid=20120208142953AAb1Zsp)
-        * [fs.blog/2017/10/how-to-remember-what-you-read/](https://fs.blog/2017/10/how-to-remember-what-you-read/)
-        * [gazeta.ua/articles/life/_10-sposobiv-yak-zaohotiti-ditinu-chitati/842702](https://gazeta.ua/articles/life/_10-sposobiv-yak-zaohotiti-ditinu-chitati/842702)
-        * [openclassrooms.com/forum/sujet/comment-etre-bien-informe](https://openclassrooms.com/forum/sujet/comment-etre-bien-informe)
-        * [qz.com/1556797/why-late-bloomers-are-happier-and-more-successful/](https://qz.com/1556797/why-late-bloomers-are-happier-and-more-successful/)
-        * [qz.com/892276/speed-reading-wont-make-you-smarter-but-reading-for-deep-understanding-will/](https://qz.com/892276/speed-reading-wont-make-you-smarter-but-reading-for-deep-understanding-will/)
-        * [sites.google.com/site/thecrescentonline/opinion/the-importance-of-being-well-informed](https://sites.google.com/site/thecrescentonline/opinion/the-importance-of-being-well-informed)
-        * [thedailyencounters.wordpress.com/2012/01/13/advantages-of-being-well-rounded-as-a-person/](https://thedailyencounters.wordpress.com/2012/01/13/advantages-of-being-well-rounded-as-a-person/)
-        * [coursera.org/learn/learning-how-to-learn/home/info](https://www.coursera.org/learn/learning-how-to-learn/home/info)
-        * [coursera.org/learn/learning-how-to-learn/lecture/75EsZ/introduction-to-the-focused-and-diffuse-modes](https://www.coursera.org/learn/learning-how-to-learn/lecture/75EsZ/introduction-to-the-focused-and-diffuse-modes)
-        * [quora.com/What-are-some-of-the-best-ways-to-become-extremely-smart](https://www.quora.com/What-are-some-of-the-best-ways-to-become-extremely-smart)
-        * [L’atto del leggere: come il lettore collabora alla costruzione del testo](https://vk.com/away.php?to=http%3A%2F%2Fwww.treccani.it%2Fmagazine%2Fchiasmo%2Flettere_e_arti%2Finterazione_isufi_atto_del_leggere.html%3Ffbclid%3DIwAR1wWvH5PazJDe0se_ePGCkERbQbRXj2omnJWtFGypNjI5jTIHYQO5mybNs)
-        * [List of autodidacts - Wikipedia](https://en.wikipedia.org/wiki/List_of_autodidacts)
-        * [Nadie Me Enseñó Cómo Aprender: Cómo Desbloquear su Potencial de Aprendizaje y Ser Imparable](https://www.amazon.com/Nadie-Ense%C3%B1%C3%B3-C%C3%B3mo-Aprender-Desbloquear-ebook/dp/B01744XI1M/ref=sr_1_4?ie=UTF8&qid=1490621272&sr=8-4&keywords=Libro+di+psicologia)
-        * [Ralph Dumain: &quot;The Autodidact Project&quot;: The Autodidact as Subversive](http://www.autodidactproject.org/my/autodidact-subversive.html)
-        * [res-systemica-vol-15-art-06.pdf](http://www.res-systemica.org/afscet/resSystemica/vol15-octobre2016/res-systemica-vol-15-art-06.pdf)
-        * [SPARKS OF GENIUS](http://home.earthlink.net/~denmartin/sog.html)
-        * [Sparks of Genius: The Thirteen Thinking Tools of the World's Most Creative People by Michele Root-Bernstein](https://www.goodreads.com/book/show/627421.Sparks_of_Genius)
-        * [Studying](https://www.reddit.com/r/languagelearning/search?q=flair_name%3A%22Studying%22&restrict_sr=1)
-        * [VNTHOMAS: Sparks of genius – The 13 thinking tools of the world’s most creative people. By Robert &amp; Michele Root-Bernstein.](http://vnthomas1.blogspot.com/2009/06/sparks-of-genius-13-thinking-tools-of.html)
-        * [Was macht uns schlauer?: Die führenden Wissenschaftler unserer Zeit über neue Strategien, unser Wissen zu erweitern](https://www.amazon.de/Was-macht-uns-schlauer-Wissenschaftler/dp/3596194245)
-        * [What is creativity?](https://www.csun.edu/~vcpsy00h/creativity/define.htm)
-        * [Как научить мозг учиться?](https://www.youtube.com/watch?v=nEGmdlJEr8M)
+* [10 Smart Things I&#39;ve Learned from People Who Never Went to College](https://www.forbes.com/sites/daviddisalvo/2012/08/02/ten-smart-things-ive-learned-from-people-who-never-went-to-college/#52f1e562446e)
+* [Der Flow-Zustand | lerntechniken.info](http://www.lerntechniken.info/der-flow-zustand/)
+* [How to Learn Faster with the Feynman Technique (Example Included)](https://www.youtube.com/watch?v=_f-qkGJBPts)
+* [How to Love Reading || Study Tips || Make Reading a Habit - YouTube](https://www.youtube.com/watch?v=el-S8iroORQ)
+* [arbeitsblaetter.stangl-taller.at/LERNEN/LerntheorienKognitive.shtml](http://arbeitsblaetter.stangl-taller.at/LERNEN/LerntheorienKognitive.shtml)
+* [express-ewr.com.au/2013/polymathy/](http://express-ewr.com.au/2013/polymathy/)
+* [ideas.time.com/2013/03/13/secrets-of-the-most-successful-college-students/?iid=op-article-mostpop1](http://ideas.time.com/2013/03/13/secrets-of-the-most-successful-college-students/?iid=op-article-mostpop1)
+* [learning.blogs.nytimes.com/2014/02/28/guest-post-news-literacy-is-not-optional-if-you-need-to-be-well-informed/?_r=0](http://learning.blogs.nytimes.com/2014/02/28/guest-post-news-literacy-is-not-optional-if-you-need-to-be-well-informed/?_r=0)
+* [moreintelligentlife.com/content/edward-carr/last-days-polymath#_](http://moreintelligentlife.com/content/edward-carr/last-days-polymath#_)
+* [revistagalileu.globo.com/Ciencia/Neurociencia/noticia/2014/10/criatividade-se-adquire-com-pratica.html](http://revistagalileu.globo.com/Ciencia/Neurociencia/noticia/2014/10/criatividade-se-adquire-com-pratica.html)
+* [revolutioninspain.blogspot.com/2012/02/como-informarse-correctamente-o-al.html](http://revolutioninspain.blogspot.com/2012/02/como-informarse-correctamente-o-al.html)
+* [science.psu.edu/news-and-events/featured-news/the-perks-of-being-well-adrounded-alumna-has-one-up-on-grad-school](http://science.psu.edu/news-and-events/featured-news/the-perks-of-being-well-adrounded-alumna-has-one-up-on-grad-school)
+* [startupguide.com/world/greatest-innovators/](http://startupguide.com/world/greatest-innovators/)
+* [superheroyou.com/12-steps-to-becoming-well-informed/](http://superheroyou.com/12-steps-to-becoming-well-informed/)
+* [biographyonline.net/scientists/top-10-inventors.html](http://www.biographyonline.net/scientists/top-10-inventors.html)
+* [bvoltaire.fr/christopheservan/etre-bien-informe-cest-bien-savoir-raisonner-logiquement-cest-mieux,209187](http://www.bvoltaire.fr/christopheservan/etre-bien-informe-cest-bien-savoir-raisonner-logiquement-cest-mieux,209187)
+* [ed.gov/news/speeches/well-rounded-curriculum-age-accountability](http://www.ed.gov/news/speeches/well-rounded-curriculum-age-accountability)
+* [entrepreneur.com/article/200524](http://www.entrepreneur.com/article/200524)
+* [forbes.com/sites/erikaandersen/2013/03/09/the-secret-to-getting-really-really-good-at-something/](http://www.forbes.com/sites/erikaandersen/2013/03/09/the-secret-to-getting-really-really-good-at-something/)
+* [forbes.com/sites/rebeccabagley/2014/01/15/the-10-traits-of-great-innovators/](http://www.forbes.com/sites/rebeccabagley/2014/01/15/the-10-traits-of-great-innovators/)
+* [geniusstuff.com/blog/gallery/greatest-inventor-pictures/](http://www.geniusstuff.com/blog/gallery/greatest-inventor-pictures/)
+* [nytimes.com/2014/01/26/opinion/sunday/what-drives-success.html?_r=0](http://www.nytimes.com/2014/01/26/opinion/sunday/what-drives-success.html?_r=0)
+* [nytimes.com/2014/01/26/opinion/sunday/what-drives-success.html?_r=1](http://www.nytimes.com/2014/01/26/opinion/sunday/what-drives-success.html?_r=1)
+* [nytimes.com/2015/04/19/business/alexa-von-tobel-of-learnvest-no-really-whats-your-weakness.html?WT.mc_id=VI-D-E-SOURCEB-AD-VAR-VIDEO-ROS-2015-NA&WT.mc_ev=click&kwp_0=17238&kwp_4=112714&kwp_1=145792](http://www.nytimes.com/2015/04/19/business/alexa-von-tobel-of-learnvest-no-really-whats-your-weakness.html?WT.mc_id=VI-D-E-SOURCEB-AD-VAR-VIDEO-ROS-2015-NA&WT.mc_ev=click&kwp_0=17238&kwp_4=112714&kwp_1=145792)
+* [scientificamerican.com/article/what-makes-a-prodigy/](http://www.scientificamerican.com/article/what-makes-a-prodigy/)
+* [theguardian.com/education/2009/feb/10/how-to-be-a-student](http://www.theguardian.com/education/2009/feb/10/how-to-be-a-student)
+* [toptenz.net/top-10-greatest-inventors-in-history.php](http://www.toptenz.net/top-10-greatest-inventors-in-history.php)
+* [welt.de/sonderthemen/medienkongress/article123836200/Nie-war-es-einfacher-umfassend-informiert-zu-sein.html](http://www.welt.de/sonderthemen/medienkongress/article123836200/Nie-war-es-einfacher-umfassend-informiert-zu-sein.html)
+* [aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more- intéressante objection à l'obsession avec l'innovation en faveur de la "maintenance"](https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more-)
+* [br.answers.yahoo.com/question/index?qid=20120208142953AAb1Zsp](https://br.answers.yahoo.com/question/index?qid=20120208142953AAb1Zsp)
+* [fs.blog/2017/10/how-to-remember-what-you-read/](https://fs.blog/2017/10/how-to-remember-what-you-read/)
+* [gazeta.ua/articles/life/_10-sposobiv-yak-zaohotiti-ditinu-chitati/842702](https://gazeta.ua/articles/life/_10-sposobiv-yak-zaohotiti-ditinu-chitati/842702)
+* [openclassrooms.com/forum/sujet/comment-etre-bien-informe](https://openclassrooms.com/forum/sujet/comment-etre-bien-informe)
+* [qz.com/1556797/why-late-bloomers-are-happier-and-more-successful/](https://qz.com/1556797/why-late-bloomers-are-happier-and-more-successful/)
+* [qz.com/892276/speed-reading-wont-make-you-smarter-but-reading-for-deep-understanding-will/](https://qz.com/892276/speed-reading-wont-make-you-smarter-but-reading-for-deep-understanding-will/)
+* [sites.google.com/site/thecrescentonline/opinion/the-importance-of-being-well-informed](https://sites.google.com/site/thecrescentonline/opinion/the-importance-of-being-well-informed)
+* [thedailyencounters.wordpress.com/2012/01/13/advantages-of-being-well-rounded-as-a-person/](https://thedailyencounters.wordpress.com/2012/01/13/advantages-of-being-well-rounded-as-a-person/)
+* [coursera.org/learn/learning-how-to-learn/home/info](https://www.coursera.org/learn/learning-how-to-learn/home/info)
+* [coursera.org/learn/learning-how-to-learn/lecture/75EsZ/introduction-to-the-focused-and-diffuse-modes](https://www.coursera.org/learn/learning-how-to-learn/lecture/75EsZ/introduction-to-the-focused-and-diffuse-modes)
+* [quora.com/What-are-some-of-the-best-ways-to-become-extremely-smart](https://www.quora.com/What-are-some-of-the-best-ways-to-become-extremely-smart)
+* [L’atto del leggere: come il lettore collabora alla costruzione del testo](https://vk.com/away.php?to=http%3A%2F%2Fwww.treccani.it%2Fmagazine%2Fchiasmo%2Flettere_e_arti%2Finterazione_isufi_atto_del_leggere.html%3Ffbclid%3DIwAR1wWvH5PazJDe0se_ePGCkERbQbRXj2omnJWtFGypNjI5jTIHYQO5mybNs)
+* [List of autodidacts - Wikipedia](https://en.wikipedia.org/wiki/List_of_autodidacts)
+* [Nadie Me Enseñó Cómo Aprender: Cómo Desbloquear su Potencial de Aprendizaje y Ser Imparable](https://www.amazon.com/Nadie-Ense%C3%B1%C3%B3-C%C3%B3mo-Aprender-Desbloquear-ebook/dp/B01744XI1M/ref=sr_1_4?ie=UTF8&qid=1490621272&sr=8-4&keywords=Libro+di+psicologia)
+* [Ralph Dumain: &quot;The Autodidact Project&quot;: The Autodidact as Subversive](http://www.autodidactproject.org/my/autodidact-subversive.html)
+* [res-systemica-vol-15-art-06.pdf](http://www.res-systemica.org/afscet/resSystemica/vol15-octobre2016/res-systemica-vol-15-art-06.pdf)
+* [SPARKS OF GENIUS](http://home.earthlink.net/~denmartin/sog.html)
+* [Sparks of Genius: The Thirteen Thinking Tools of the World's Most Creative People by Michele Root-Bernstein](https://www.goodreads.com/book/show/627421.Sparks_of_Genius)
+* [Studying](https://www.reddit.com/r/languagelearning/search?q=flair_name%3A%22Studying%22&restrict_sr=1)
+* [VNTHOMAS: Sparks of genius – The 13 thinking tools of the world’s most creative people. By Robert &amp; Michele Root-Bernstein.](http://vnthomas1.blogspot.com/2009/06/sparks-of-genius-13-thinking-tools-of.html)
+* [Was macht uns schlauer?: Die führenden Wissenschaftler unserer Zeit über neue Strategien, unser Wissen zu erweitern](https://www.amazon.de/Was-macht-uns-schlauer-Wissenschaftler/dp/3596194245)
+* [What is creativity?](https://www.csun.edu/~vcpsy00h/creativity/define.htm)
+* [Как научить мозг учиться?](https://www.youtube.com/watch?v=nEGmdlJEr8M)
 
     Как научить мозг учиться. Татьяна Черниговскаяde кРАмола
-        * [en.wikipedia.org/wiki/Chunking_(psychology)](https://en.wikipedia.org/wiki/Chunking_(psychology))
-        * [4BRAIN.RU - полезные навыки](https://vk.com/4brainru)
+* [en.wikipedia.org/wiki/Chunking_(psychology)](https://en.wikipedia.org/wiki/Chunking_(psychology))
+* [4BRAIN.RU - полезные навыки](https://vk.com/4brainru)
 
     4 Best Things Do in your Free Time - What to do when you’re bored - YouTube
-        * [Daniel Dennett on Tools To Transform Our Thinking - YouTube](https://www.youtube.com/watch?v=EJsD-3jtXz0)
-        * [atlantico.fr/decryptage/2015-valse-chaines-info-etre-bien-informe-passe-t-vraiment-avoir-plus-canaux-marc-baudriller-2513554.html](http://www.atlantico.fr/decryptage/2015-valse-chaines-info-etre-bien-informe-passe-t-vraiment-avoir-plus-canaux-marc-baudriller-2513554.html)
-        * [4brain.ru/blog/мортимер-адлер-как-читать-книги/](https://4brain.ru/blog/%D0%BC%D0%BE%D1%80%D1%82%D0%B8%D0%BC%D0%B5%D1%80-%D0%B0%D0%B4%D0%BB%D0%B5%D1%80-%D0%BA%D0%B0%D0%BA-%D1%87%D0%B8%D1%82%D0%B0%D1%82%D1%8C-%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8/)
+* [Daniel Dennett on Tools To Transform Our Thinking - YouTube](https://www.youtube.com/watch?v=EJsD-3jtXz0)
+* [atlantico.fr/decryptage/2015-valse-chaines-info-etre-bien-informe-passe-t-vraiment-avoir-plus-canaux-marc-baudriller-2513554.html](http://www.atlantico.fr/decryptage/2015-valse-chaines-info-etre-bien-informe-passe-t-vraiment-avoir-plus-canaux-marc-baudriller-2513554.html)
+* [4brain.ru/blog/мортимер-адлер-как-читать-книги/](https://4brain.ru/blog/%D0%BC%D0%BE%D1%80%D1%82%D0%B8%D0%BC%D0%B5%D1%80-%D0%B0%D0%B4%D0%BB%D0%B5%D1%80-%D0%BA%D0%B0%D0%BA-%D1%87%D0%B8%D1%82%D0%B0%D1%82%D1%8C-%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8/)
 
     The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU - YouTube
 
     Как научить мозг учиться. Татьяна Черниговская - YouTube
-        * [Maïeutique socratique et apprentissage par la découverte - YouTube](https://www.youtube.com/watch?v=goM7BKLBaZk)
+* [Maïeutique socratique et apprentissage par la découverte - YouTube](https://www.youtube.com/watch?v=goM7BKLBaZk)
 
     How not to be ignorant about the world | Hans and Ola Rosling - YouTube
-        * [it.wikihow.com/Essere-Sempre-Informato-sulle-Ultime-Notizie](http://it.wikihow.com/Essere-Sempre-Informato-sulle-Ultime-Notizie)
-        * [jamesclear.com/beginners-guide-deliberate-practice](http://jamesclear.com/beginners-guide-deliberate-practice)
-        * [betterhumans.coach.me/if-you-forget-as-fast-as-you-read-this-is-for-you-afe1aaf04b7d#.285pidyrl](https://betterhumans.coach.me/if-you-forget-as-fast-as-you-read-this-is-for-you-afe1aaf04b7d#.285pidyrl)
-        * [Lernen lernen](https://www.youtube.com/channel/UCgwnk8-zRkVNGbR8waK3ugg)
-        * [Anyone Can Be a Math Person Once They Know the Best Learning Techniques | Po-Shen Loh - YouTube](https://www.youtube.com/watch?v=M7febmLhS6E)
+* [it.wikihow.com/Essere-Sempre-Informato-sulle-Ultime-Notizie](http://it.wikihow.com/Essere-Sempre-Informato-sulle-Ultime-Notizie)
+* [jamesclear.com/beginners-guide-deliberate-practice](http://jamesclear.com/beginners-guide-deliberate-practice)
+* [betterhumans.coach.me/if-you-forget-as-fast-as-you-read-this-is-for-you-afe1aaf04b7d#.285pidyrl](https://betterhumans.coach.me/if-you-forget-as-fast-as-you-read-this-is-for-you-afe1aaf04b7d#.285pidyrl)
+* [Lernen lernen](https://www.youtube.com/channel/UCgwnk8-zRkVNGbR8waK3ugg)
+* [Anyone Can Be a Math Person Once They Know the Best Learning Techniques | Po-Shen Loh - YouTube](https://www.youtube.com/watch?v=M7febmLhS6E)
 
     Beautiful Minds: The Enigma of Genius - YouTube
-        * [Comment se CONCENTRER Efficacement | Le Pouvoir du Focus - YouTube](https://www.youtube.com/watch?v=MNYz9y82FPA)
-        * [ed cooke - Buscar con Google](https://www.google.com/search?q=ed+cooke&rlz=1C1GGRV_enUS753US753&oq=ed+cooke&aqs=chrome..69i57j0l5.1838j0j7&sourceid=chrome&ie=UTF-8)
-        * [First 20 Hours](https://www.youtube.com/watch?v=5MgBikgcWnY)
-        * [Hate Reading](https://www.nytimes.com/2017/04/15/opinion/sunday/the-joy-of-hate-reading.html)
-        * [Hello World: Want to be a developer? Learn how to learn - Stack Overflow Blog](https://stackoverflow.blog/2020/01/11/hello-world-want-to-be-a-developer-learn-how-to-learn/?cb=1)
-        * [How to Absorb Textbooks Like a Sponge](https://youtu.be/nqYmmZKY4sA)
+* [Comment se CONCENTRER Efficacement | Le Pouvoir du Focus - YouTube](https://www.youtube.com/watch?v=MNYz9y82FPA)
+* [ed cooke - Buscar con Google](https://www.google.com/search?q=ed+cooke&rlz=1C1GGRV_enUS753US753&oq=ed+cooke&aqs=chrome..69i57j0l5.1838j0j7&sourceid=chrome&ie=UTF-8)
+* [First 20 Hours](https://www.youtube.com/watch?v=5MgBikgcWnY)
+* [Hate Reading](https://www.nytimes.com/2017/04/15/opinion/sunday/the-joy-of-hate-reading.html)
+* [Hello World: Want to be a developer? Learn how to learn - Stack Overflow Blog](https://stackoverflow.blog/2020/01/11/hello-world-want-to-be-a-developer-learn-how-to-learn/?cb=1)
+* [How to Absorb Textbooks Like a Sponge](https://youtu.be/nqYmmZKY4sA)
 
 ### Reading List - Communication
 
     Book: [How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships](https://b-ok.cc/book/1171183/29a074)
 
-    - Discussion and Critical Thinking
-
-        * [Street Epistemology: The Basics | StreetEpistemology.com](https://streetepistemology.com/publications/street_epistemology_the_basics)
-
-        * [To tell someone they're wrong, first tell them how they're right — Quartz](https://qz.com/778767/to-tell-someone-theyre-wrong-first-tell-them-how-theyre-right/)
-                * [blogs.scientificamerican.com/observations/how-to-talk-to-a-science-denier-without-arguing/](https://blogs.scientificamerican.com/observations/how-to-talk-to-a-science-denier-without-arguing/)
-                * [rebirthofreason.com/Articles/Rowlands/Disconfirming_Evidence.shtml](http://rebirthofreason.com/Articles/Rowlands/Disconfirming_Evidence.shtml)
-
-        * [Шесть приемов, которые превратят бессмысленный спор в увлекательную дискуссию](https://vk.com/@newochem-argument-tactics)
-                * [atelier-mediation-critique.com/](http://www.atelier-mediation-critique.com/)
+  * Discussion and Critical Thinking
+* [Street Epistemology: The Basics | StreetEpistemology.com](https://streetepistemology.com/publications/street_epistemology_the_basics)
+* [To tell someone they're wrong, first tell them how they're right — Quartz](https://qz.com/778767/to-tell-someone-theyre-wrong-first-tell-them-how-theyre-right/)
+* [blogs.scientificamerican.com/observations/how-to-talk-to-a-science-denier-without-arguing/](https://blogs.scientificamerican.com/observations/how-to-talk-to-a-science-denier-without-arguing/)
+* [rebirthofreason.com/Articles/Rowlands/Disconfirming_Evidence.shtml](http://rebirthofreason.com/Articles/Rowlands/Disconfirming_Evidence.shtml)
+* [Шесть приемов, которые превратят бессмысленный спор в увлекательную дискуссию](https://vk.com/@newochem-argument-tactics)
+* [atelier-mediation-critique.com/](http://www.atelier-mediation-critique.com/)
 
 ### Reading List - Relationships
-    - [This Is How To Have An Amazing Relationship: 7 Secrets From Research](https://bakadesuyo.com/2017/06/amazing-relationship/)
-        - Accept your partner “as is”: You can return it to the store but trying to repair it yourself voids the warranty.
-        - Express appreciation frequently: You’re with them for a reason. Tell them the reason. Often.
-        - Communicate from integrity: Admit when you’re wrong. And don’t punish them for telling the truth, even if you don’t like the truth.
-        - Share and explore differences with your partner: Don’t dodge the tough stuff. It’s okay to agree to disagree.
-        - Support your partner’s goals: If it matters to them, it’d be a really good thing if it mattered to you too.
-        - Give your partner the right to be wrong: You’re not perfect. So don’t insist that they be.
-        - Reconsider your wants as goals: They don’t “have to” do anything. But if you stop insisting, they might start agreeing.
-        * [beziehungsweise-magazin.de/](https://www.beziehungsweise-magazin.de/)
-        * [La ciencia de enamorarse #habiaspensado - YouTube](https://www.youtube.com/watch?v=HYuEVdKTUjE)
-        * [La ciencia de la ruptura amorosa #habiaspensado - YouTube](https://www.youtube.com/watch?v=VKM7WBMmQ1M)
 
-    - 5 basic needs of every person:
+  * [This Is How To Have An Amazing Relationship: 7 Secrets From Research](https://bakadesuyo.com/2017/06/amazing-relationship/)
+* * Accept your partner “as is”: You can return it to the store but trying to repair it yourself voids the warranty.
+* * Express appreciation frequently: You’re with them for a reason. Tell them the reason. Often.
+* * Communicate from integrity: Admit when you’re wrong. And don’t punish them for telling the truth, even if you don’t like the truth.
+* * Share and explore differences with your partner: Don’t dodge the tough stuff. It’s okay to agree to disagree.
+* * Support your partner’s goals: If it matters to them, it’d be a really good thing if it mattered to you too.
+* * Give your partner the right to be wrong: You’re not perfect. So don’t insist that they be.
+* * Reconsider your wants as goals: They don’t “have to” do anything. But if you stop insisting, they might start agreeing.
+* [beziehungsweise-magazin.de/](https://www.beziehungsweise-magazin.de/)
+* [La ciencia de enamorarse #habiaspensado - YouTube](https://www.youtube.com/watch?v=HYuEVdKTUjE)
+* [La ciencia de la ruptura amorosa #habiaspensado - YouTube](https://www.youtube.com/watch?v=VKM7WBMmQ1M)
 
-        1) I am of worth
+  * 5 basic needs of every person:
 
-        2) My thoughts, feelings, and ideas matters, and have been considered
+1) I am of worth
 
-        3) Someone really cares about me
+2) My thoughts, feelings, and ideas matters, and have been considered
 
-        4) What I am doing is aking a difference in the world
+3) Someone really cares about me
 
-        5) My agency is being honored
+4) What I am doing is aking a difference in the world
 
+5) My agency is being honored
 
     "Man's supreme achivement in the world is communication from personality to personality." - Karl Jaspers
 
     Always respect the agency, opinions, thoughts, and choice of both.
 
-    - Relationship Strategies
+  * Relationship Strategies
 
-        (This list is recorded as developed through experience, advice received, and collaboration with fellow missionaries; some female input was received. However, the thoughts and phrasings are essentially my own.)
+(This list is recorded as developed through experience, advice received, and collaboration with fellow missionaries; some female input was received. However, the thoughts and phrasings are essentially my own.)
 
-        Friendship first: stable basis for a relationship
+Friendship first: stable basis for a relationship
 
-        Honesty: not showing or expressing more affection than you feel (less physically)
+Honesty: not showing or expressing more affection than you feel (less physically)
 
-        Social discipline: exercising restraint to avoid saying or doing embarrassing things
+Social discipline: exercising restraint to avoid saying or doing embarrassing things
 
-        Observation: “looking before you leap”, examining character by watching
+Observation: “looking before you leap”, examining character by watching
 
-        Realness: maximizing real, face-to-face communication, minimizing electronic communication
+Realness: maximizing real, face-to-face communication, minimizing electronic communication
 
-        Pace: slowing down the process of emotional attachment to avoid premature decisions
+Pace: slowing down the process of emotional attachment to avoid premature decisions
 
-        Restraint: not holding hands until the second date, no kissing until the second date or later
+Restraint: not holding hands until the second date, no kissing until the second date or later
 
-        Utility maximization: playing to your strengths
+Utility maximization: playing to your strengths
 
-        Humility: avoiding the social repellent of pride to minimize negative feelings
+Humility: avoiding the social repellent of pride to minimize negative feelings
 
-        Competitiveness: being the right one for the right one  by having the right skills and qualities
+Competitiveness: being the right one for the right one  by having the right skills and qualities
 
-        Directness: straightforwardly and eloquently expressing one’s feelings at opportune moments
+Directness: straightforwardly and eloquently expressing one’s feelings at opportune moments
 
-        Romance: careful planning, honest and tactful compliments, thoughtful surprises (timing, atmosphere, courage, sincerity)
+Romance: careful planning, honest and tactful compliments, thoughtful surprises (timing, atmosphere, courage, sincerity)
 
-        Win-win mentality: being happy for the successes and happiness of others
+Win-win mentality: being happy for the successes and happiness of others
 
-        Mystery: keeping people guessing until the time is right (i.e. when it is no longer advantageous to have unknown intentions)
+Mystery: keeping people guessing until the time is right (i.e. when it is no longer advantageous to have unknown intentions)
 
-    - Marriage Notes
+  * Marriage Notes
 
-        What a good marriage would look like:
+What a good marriage would look like:
 
-        - shared goals: be good parents for Leni, be happy together, have good careers
-        - good financial management and good household
-        - shared household responsibilities; process and system that we both buy into and that leave each feeling like an equal partner
-        - mutual support with good habits: healthy eating, workouts, good sleep schedules, moderate consumption (food, Netflix, YouTube, games), reasonable frugality
-        - shared interests and hobbies: Leni, board games, discovering new movies, book to read together
-        - friends - important to have other social contacts, which helps us to see each other with new eyes and helps us avoid getting in a rut
-        - trust - transparent communication, honesty, no cheating, no spying, no paranoia
-        - weekly date (typically high-quality, high-effort)
-        - dating mentality - find ways to keep the relationship fresh and beat complacency
-        - both elements of a healthy marriage present: companionate love (quality friendship) and erotic love (attraction, intimacy, good sex life)
+* * shared goals: be good parents for Leni, be happy together, have good careers
+* * good financial management and good household
+* * shared household responsibilities; process and system that we both buy into and that leave each feeling like an equal partner
+* * mutual support with good habits: healthy eating, workouts, good sleep schedules, moderate consumption (food, Netflix, YouTube, games), reasonable frugality
+* * shared interests and hobbies: Leni, board games, discovering new movies, book to read together
+* * friends - important to have other social contacts, which helps us to see each other with new eyes and helps us avoid getting in a rut
+* * trust - transparent communication, honesty, no cheating, no spying, no paranoia
+* * weekly date (typically high-quality, high-effort)
+* * dating mentality - find ways to keep the relationship fresh and beat complacency
+* * both elements of a healthy marriage present: companionate love (quality friendship) and erotic love (attraction, intimacy, good sex life)
 
-        Concerns:
+Concerns:
 
-        - trust - how can Sandra trust me again? How can she avoid feeling paranoid about what I think and feel
-        - potential for resentment - anytime there are two good options, there is the potential for bitterness and regret over what was given up
-        - old habits - compulsive/addictive behaviors, self-isolation and increased distance between partners, condescension, dismissiveness, insults and hurtful communication
-        - psychological adjustment - how can Isaac fill the gap that has been variously filled by online projects, Wizard, language exchange, online flirting, and Polina? Can Sandra really fill the gap left by hours of Netflix and/or online gaming?
-        - triggers - each of us has things that provoke us in ways that might seem extreme or irrational. For Isaac, these include perceived disinterest or condescension and the perception of a “I don’t want you but I don’t want anyone else to have you” mentality. For Sandra, this includes anything that feels verbally abusive, such as attacks on her character or appearance, and also anything that triggers her fear of being cheated on
-        - complacency - “We’re already married and he/she is contractually obligated to like me the way I am, so I don’t need to make an effort anymore”
-        - communication - so many high-stakes discussions end in unproductive and bitter fights - two oldest children with big egos in the same relationship
-        - boredom/frustration - how can we keep marriage from feeling stale and intellectually, sexually, and socially unfulfilling (even imprisoning)?
-        - imbalance in responsibilities - Sandra doing everything with bureaucracy, taxes, etc., leaving her feeling overworked and like the only adult in the relationship, and Isaac feeling out-of-the-loop, incompetent, and infantilized
-        - hurt and resentment - is it even possible to get rid of the baggage we carry, or is it too far gone and too toxic, and we both need a fresh start with someone else?
-        - Leni - she is a major factor in this, and one that, in all honesty, has made it more difficult to pull the plug completely when we might otherwise have done so. A toxic relationship would be worse for her than a divorce, and a divorce later on would be more traumatic for her than a divorce now
+* * trust - how can Sandra trust me again? How can she avoid feeling paranoid about what I think and feel
+* * potential for resentment - anytime there are two good options, there is the potential for bitterness and regret over what was given up
+* * old habits - compulsive/addictive behaviors, self-isolation and increased distance between partners, condescension, dismissiveness, insults and hurtful communication
+* * psychological adjustment - how can Isaac fill the gap that has been variously filled by online projects, Wizard, language exchange, online flirting, and Polina? Can Sandra really fill the gap left by hours of Netflix and/or online gaming?
+* * triggers - each of us has things that provoke us in ways that might seem extreme or irrational. For Isaac, these include perceived disinterest or condescension and the perception of a “I don’t want you but I don’t want anyone else to have you” mentality. For Sandra, this includes anything that feels verbally abusive, such as attacks on her character or appearance, and also anything that triggers her fear of being cheated on
+* * complacency - “We’re already married and he/she is contractually obligated to like me the way I am, so I don’t need to make an effort anymore”
+* * communication - so many high-stakes discussions end in unproductive and bitter fights - two oldest children with big egos in the same relationship
+* * boredom/frustration - how can we keep marriage from feeling stale and intellectually, sexually, and socially unfulfilling (even imprisoning)?
+* * imbalance in responsibilities - Sandra doing everything with bureaucracy, taxes, etc., leaving her feeling overworked and like the only adult in the relationship, and Isaac feeling out-of-the-loop, incompetent, and infantilized
+* * hurt and resentment - is it even possible to get rid of the baggage we carry, or is it too far gone and too toxic, and we both need a fresh start with someone else?
+* * Leni - she is a major factor in this, and one that, in all honesty, has made it more difficult to pull the plug completely when we might otherwise have done so. A toxic relationship would be worse for her than a divorce, and a divorce later on would be more traumatic for her than a divorce now
 ### Reading List - Life Hacks
-    - Focus Hacks
 
-        Eat Frogs First
+  * Focus Hacks
 
-        3,2,1 Method
+Eat Frogs First
 
-        "Do something" Principle
+3,2,1 Method
 
-        Physical environment purge
+"Do something" Principle
 
-        Purge digital surroundings
+Physical environment purge
 
-        Stare at 1 thing for 60 seconds
+Purge digital surroundings
 
-        Confront your distractions before working - set aside 10 minutes for each
+Stare at 1 thing for 60 seconds
 
-    - basic life-changers:
+Confront your distractions before working - set aside 10 minutes for each
 
-        gym
+  * basic life-changers:
 
-        sobriety
+gym
 
-        good sleep
+sobriety
 
-        deleting social media apps
+good sleep
 
-        journaling
+deleting social media apps
 
-        eating plants
+journaling
 
-        swiimming
+eating plants
 
-        yoga
+swiimming
 
-    - hipster life-changers:
+yoga
 
-        give the guest the better plate
+  * hipster life-changers:
 
-        photograph sentimental things before throwing them away
+give the guest the better plate
 
-        cold showers as a gratitude trigger
+photograph sentimental things before throwing them away
 
-        whale noises and incense -> home as a sanctuary
+cold showers as a gratitude trigger
 
-        2 to-do lists: one ideal, one minimal (things I must do to avoid creating future stress)
+whale noises and incense -> home as a sanctuary
 
-        two-minute rule: if something takes less than 2 minutes to do, do it immediately
+2 to-do lists: one ideal, one minimal (things I must do to avoid creating future stress)
 
-        hang out with your dog
+two-minute rule: if something takes less than 2 minutes to do, do it immediately
 
-        reframing: ask, "How is this the best thing that has ever happened to me?"
+hang out with your dog
 
-        * [Habit Building System I Wish I Had Learned Sooner](https://www.youtube.com/watch?v=cVhutaUGbOs)
-        * [](https://www.youtube.com/@DailyAtomicSteps)
-        * [Excellent Approach to Coding](https://www.youtube.com/watch?v=343EWZS9O88)
+reframing: ask, "How is this the best thing that has ever happened to me?"
+* [Habit Building System I Wish I Had Learned Sooner](https://www.youtube.com/watch?v=cVhutaUGbOs)
+* [](https://www.youtube.com/@DailyAtomicSteps)
+* [Excellent Approach to Coding](https://www.youtube.com/watch?v=343EWZS9O88)
 
     The key to overcoming procrastination is to do something *more* unpleasant than the thing you are procrastinating about. What you choose is subjective but the reason it rebounds you to a heightened state of motivation is due to dopamine-dynamics (biology). Which is why it works.
-        * [hubermanlab.com/leverage-dopamine-to-overcome-procrastination-and-optimize-effort/](https://hubermanlab.com/leverage-dopamine-to-overcome-procrastination-and-optimize-effort/)
-        * [every.to/no-small-plans/how-to-do-hard-things](https://every.to/no-small-plans/how-to-do-hard-things)
+* [hubermanlab.com/leverage-dopamine-to-overcome-procrastination-and-optimize-effort/](https://hubermanlab.com/leverage-dopamine-to-overcome-procrastination-and-optimize-effort/)
+* [every.to/no-small-plans/how-to-do-hard-things](https://every.to/no-small-plans/how-to-do-hard-things)
 
     coding mindset tricks: focus on practice, ego is the enemy, get comfortable
 
     reread Sparks of Genius
-        * [The procrastination cure you don't want to hear - YouTube](https://www.youtube.com/watch?v=iow5V3Qlvwo)
-        * [Self Worth Theory: The Key to Understanding & Overcoming Procrastination | Nic Voge | TEDxPrincetonU - YouTube](https://www.youtube.com/watch?v=52lZmIafep4)
+* [The procrastination cure you don't want to hear - YouTube](https://www.youtube.com/watch?v=iow5V3Qlvwo)
+* [Self Worth Theory: The Key to Understanding & Overcoming Procrastination | Nic Voge | TEDxPrincetonU - YouTube](https://www.youtube.com/watch?v=52lZmIafep4)
 
     On the Shortness of Life - Seneca
 
@@ -1243,641 +1175,640 @@ Two questions to ask yourself after every reading session: What do I want to rem
     The Art of Living - Epictetus
 
     Letters from a Stoic - Seneca
-        * [How Does Music Affect Your Brain? | Tech Effects | WIRED](https://youtu.be/HRE624795zU)
-        * [Save 20 Hours a Week By Removing These 4 Useless Things In Your Life | by Darius Foroux | Feb, 2023 | Medium](https://dariusforoux.medium.com/save-20-hours-a-week-by-removing-these-4-useless-things-in-your-life-c0d831b09a3a)
-        * [This Is Benjamin Franklin's Daily Routine | Mind Cafe](https://medium.com/mind-cafe/i-tried-benjamin-franklins-daily-routine-here-s-what-happened-9ce759820c95)
-        * [19 Rules For A Better Life (From Marcus Aurelius) | by Ryan Holiday | Feb, 2023 | Medium](https://ryanholiday.medium.com/19-rules-for-a-better-life-from-marcus-aurelius-541dbb50efdd)
-        * [How To Get Ahead of 99% of People In 12 Months That No One Talks About. | by Michael Lim | Better Advice | Jan, 2023 | Medium](https://medium.com/better-advice/how-to-get-ahead-of-99-of-people-in-12-months-that-no-one-talking-about-69670f90d13e)
-        * [7 things barely anyone does that will attract people to you | by Alex Mathers | Jan, 2023 | Medium](https://iamalexmathers.medium.com/7-things-barely-anyone-does-that-will-attract-people-to-you-eb27842344a4)
+* [How Does Music Affect Your Brain? | Tech Effects | WIRED](https://youtu.be/HRE624795zU)
+* [Save 20 Hours a Week By Removing These 4 Useless Things In Your Life | by Darius Foroux | Feb, 2023 | Medium](https://dariusforoux.medium.com/save-20-hours-a-week-by-removing-these-4-useless-things-in-your-life-c0d831b09a3a)
+* [This Is Benjamin Franklin's Daily Routine | Mind Cafe](https://medium.com/mind-cafe/i-tried-benjamin-franklins-daily-routine-here-s-what-happened-9ce759820c95)
+* [19 Rules For A Better Life (From Marcus Aurelius) | by Ryan Holiday | Feb, 2023 | Medium](https://ryanholiday.medium.com/19-rules-for-a-better-life-from-marcus-aurelius-541dbb50efdd)
+* [How To Get Ahead of 99% of People In 12 Months That No One Talks About. | by Michael Lim | Better Advice | Jan, 2023 | Medium](https://medium.com/better-advice/how-to-get-ahead-of-99-of-people-in-12-months-that-no-one-talking-about-69670f90d13e)
+* [7 things barely anyone does that will attract people to you | by Alex Mathers | Jan, 2023 | Medium](https://iamalexmathers.medium.com/7-things-barely-anyone-does-that-will-attract-people-to-you-eb27842344a4)
 
-    - Productivity 31
+  * Productivity 31
 
-        1. Write things down — our brains are for having ideas, not holding them.
+1. Write things down — our brains are for having ideas, not holding them.
 
-        2. Take a second to pause before you respond. Become less reactive.
+2. Take a second to pause before you respond. Become less reactive.
 
-        3. Read something every day. Even just one page.
+3. Read something every day. Even just one page.
 
-        4. Write something every day. Even just one paragraph.
+4. Write something every day. Even just one paragraph.
 
-        5. Automate and batch as much as you can. Our brains have more room to be creative when they're not constantly making decisions.
+5. Automate and batch as much as you can. Our brains have more room to be creative when they're not constantly making decisions.
 
-        6. Get some sun on your skin as early as you can in the day.
+6. Get some sun on your skin as early as you can in the day.
 
-        7. When your brain hurts. Stop working. Take a quick break to disconnect and recharge.
+7. When your brain hurts. Stop working. Take a quick break to disconnect and recharge.
 
-        8. Limit your to-do list to the top 3 most important tasks of the day.
+8. Limit your to-do list to the top 3 most important tasks of the day.
 
-        9. Write down anything that resonates with you.
+9. Write down anything that resonates with you.
 
-        10. Break down goals into the smallest steps possible.
+10. Break down goals into the smallest steps possible.
 
-        11. Value your time above all else.
+11. Value your time above all else.
 
-        12. Find hobbies that engage your mind and soul. Do them daily.
+12. Find hobbies that engage your mind and soul. Do them daily.
 
-        13. Place your phone outside the room while you're working.
+13. Place your phone outside the room while you're working.
 
-        14. Track everything you do for one day to the minute. Find your time-sinks.
+14. Track everything you do for one day to the minute. Find your time-sinks.
 
-        15. Stop comparing you behind the scenes to every one else’s highlight reel.
+15. Stop comparing you behind the scenes to every one else’s highlight reel.
 
-        16. Be bored more often. Give your brain space to be creative.
+16. Be bored more often. Give your brain space to be creative.
 
-        17. Listen more than you speak.
+17. Listen more than you speak.
 
-        18. Create more than you consume
+18. Create more than you consume
 
-        19. Compliment more than you complain.
+19. Compliment more than you complain.
 
-        20. Delete apps you don’t use.
+20. Delete apps you don’t use.
 
-        21. Donate clothes you don’t wear.
+21. Donate clothes you don’t wear.
 
-        22. Serve others as much as you can. This is a powerful source of happiness.
+22. Serve others as much as you can. This is a powerful source of happiness.
 
-        23. Make a habit of reaching out to old friends.
+23. Make a habit of reaching out to old friends.
 
-        24. Never say “yes” simply because you feel obligated.
+24. Never say “yes” simply because you feel obligated.
 
-        25. Take care of your information diet — Junk info hurts our brains like junk food hurts our bodies.
+25. Take care of your information diet — Junk info hurts our brains like junk food hurts our bodies.
 
-        26. Look at your phone less, look at people’s eyes more.
+26. Look at your phone less, look at people’s eyes more.
 
-        27. Revisit things that have brought you joy in the past. They will probably do it again.
+27. Revisit things that have brought you joy in the past. They will probably do it again.
 
-        28. Set time limits on tasks. Use “Parkinson’s Law” in your favor.
+28. Set time limits on tasks. Use “Parkinson’s Law” in your favor.
 
-        29. Remember people’s names and use them often.
+29. Remember people’s names and use them often.
 
-        30. Drink more water.
+30. Drink more water.
 
-    - 6 rules for charisma ( -> behavior modeling)
+  * 6 rules for charisma ( -> behavior modeling)
 
-        1. Make people feel important
+1. Make people feel important
 
-        2. Pause before speaking (30% rule)
+2. Pause before speaking (30% rule)
 
-        3. Hone your body language (7-38-55 rule)
+3. Hone your body language (7-38-55 rule)
 
-        4. Use humor
+4. Use humor
 
-        5. Don't complain or gossip. Ever
+5. Don't complain or gossip. Ever
 
-        6. The Shadow Rule - own your flaws
-
-        * [The 4 Things It Takes to Be an Expert](https://youtu.be/5eW6Eagr9XA)
-        * [Without Words](https://www.youtube.com/c/%D0%91%D0%B5%D0%B7%D0%A1%D0%BB%D0%BE%D0%B2)
+6. The Shadow Rule - own your flaws
+* [The 4 Things It Takes to Be an Expert](https://youtu.be/5eW6Eagr9XA)
+* [Without Words](https://www.youtube.com/c/%D0%91%D0%B5%D0%B7%D0%A1%D0%BB%D0%BE%D0%B2)
 
     workout motivation
-        * [The Nature Fix: Why Nature Makes us Happier, Healthier and More Creative](https://www.pdfdrive.com/the-nature-fix-why-nature-makes-us-happier-healthier-and-more-creative-e61378058.html)
-        * [4 ONE-MINUTE Habits That Save Me 20+ Hours a Week - Time Management For Busy Peopl](https://youtu.be/R5i8alK5hPo)
+* [The Nature Fix: Why Nature Makes us Happier, Healthier and More Creative](https://www.pdfdrive.com/the-nature-fix-why-nature-makes-us-happier-healthier-and-more-creative-e61378058.html)
+* [4 ONE-MINUTE Habits That Save Me 20+ Hours a Week - Time Management For Busy Peopl](https://youtu.be/R5i8alK5hPo)
 
     9 productivity strategies [instagram.com/p/ClO_CZ0vNry/?igshid=MDJmNzVkMjY=](https://www.instagram.com/p/ClO_CZ0vNry/?igshid=MDJmNzVkMjY=)
 
     The Power of Self-Discipline: 5-Minute Exercises to Build Self-Control, Good Habits, and Keep Going When You Want to Give Up (Live a Disciplined Life, Band 3)
-        * [The Seven Principles for Making Marriage Work: A Practical Guide from the Country’s Foremost](https://www.pdfdrive.com/the-seven-principles-for-making-marriage-work-a-practical-guide-from-the-countrys-foremost-e194562691.html)
+* [The Seven Principles for Making Marriage Work: A Practical Guide from the Country’s Foremost](https://www.pdfdrive.com/the-seven-principles-for-making-marriage-work-a-practical-guide-from-the-countrys-foremost-e194562691.html)
 
-    - 6 habits
+  * 6 habits
 
-        1) read a lot
+1) read a lot
 
-        2) view learning as a process
+2) view learning as a process
 
-        3) adopt a growth mindset (belief that I can improve intelligence, ability, and performance)
+3) adopt a growth mindset (belief that I can improve intelligence, ability, and performance)
 
-        4) teach others what I know - "retrieval practice"
+4) teach others what I know - "retrieval practice"
 
-        5) take care of my brain
+5) take care of my brain
 
-        6) take short breaks, early and often
-
+6) take short breaks, early and often
 
     Be creative! - draw more, write music, write (stories, essays, etc.), make culinary creations
 
     Meditate!
 
 ### Reading List - Gardening
-        * [thegardenhelper.com/vegetables.html](http://www.thegardenhelper.com/vegetables.html)
-        * [gardeningblog.net/](http://www.gardeningblog.net/)
-        * [gardenrant.com/](http://gardenrant.com/)
-        * [aif.ru/dacha](http://www.aif.ru/dacha)
-        * [dacha21veka.ru/o-bloge](http://dacha21veka.ru/o-bloge)
-        * [blog.mechtaevo.ru/](http://blog.mechtaevo.ru/)
-        * [obstgarten.biz/](http://www.obstgarten.biz/)
-        * [selbstversorger.de/selbstversorger-garten/nutzgarten-planung.html](http://www.selbstversorger.de/selbstversorger-garten/nutzgarten-planung.html)
-        * [mein-schoener-garten.de/de/gartenpraxis/nutzgarten/](http://www.mein-schoener-garten.de/de/gartenpraxis/nutzgarten/)
-        * [ovochi.in.ua/](http://www.ovochi.in.ua/)
-        * [monpotager.net/blog/](http://www.monpotager.net/blog/)
-        * [le-jardin-de-jenny.fr/](http://www.le-jardin-de-jenny.fr/)
-        * [rustica.fr/](http://www.rustica.fr/)
-        * [verdtical.com/category/blog/](http://www.verdtical.com/category/blog/)
-        * [jardinesverticalesycubiertasvegetales.blogspot.com/](http://jardinesverticalesycubiertasvegetales.blogspot.com/)
-        * [alsagarden.com/blog/](http://www.alsagarden.com/blog/)
-        * [plaisir-jardin.com/](http://www.plaisir-jardin.com/)
-        * [guiadejardineria.com/](http://www.guiadejardineria.com/)
-        * [hortadefimdesemana.blogspot.com/](http://hortadefimdesemana.blogspot.com/)
-        * [smallgardenn.blogspot.com/](http://smallgardenn.blogspot.com/)
-        * [ortodacoltivare.it/blog.html](http://www.ortodacoltivare.it/blog.html)
-        * [ortosulterrazzo.it/blog/](http://ortosulterrazzo.it/blog/)
-        * [greencul.com/2013/03/31/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D9%88%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AD%D8%AF%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%B2%D9%84-22/](http://www.greencul.com/2013/03/31/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D9%88%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AD%D8%AF%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%B2%D9%84-22/)
+
+* [thegardenhelper.com/vegetables.html](http://www.thegardenhelper.com/vegetables.html)
+* [gardeningblog.net/](http://www.gardeningblog.net/)
+* [gardenrant.com/](http://gardenrant.com/)
+* [aif.ru/dacha](http://www.aif.ru/dacha)
+* [dacha21veka.ru/o-bloge](http://dacha21veka.ru/o-bloge)
+* [blog.mechtaevo.ru/](http://blog.mechtaevo.ru/)
+* [obstgarten.biz/](http://www.obstgarten.biz/)
+* [selbstversorger.de/selbstversorger-garten/nutzgarten-planung.html](http://www.selbstversorger.de/selbstversorger-garten/nutzgarten-planung.html)
+* [mein-schoener-garten.de/de/gartenpraxis/nutzgarten/](http://www.mein-schoener-garten.de/de/gartenpraxis/nutzgarten/)
+* [ovochi.in.ua/](http://www.ovochi.in.ua/)
+* [monpotager.net/blog/](http://www.monpotager.net/blog/)
+* [le-jardin-de-jenny.fr/](http://www.le-jardin-de-jenny.fr/)
+* [rustica.fr/](http://www.rustica.fr/)
+* [verdtical.com/category/blog/](http://www.verdtical.com/category/blog/)
+* [jardinesverticalesycubiertasvegetales.blogspot.com/](http://jardinesverticalesycubiertasvegetales.blogspot.com/)
+* [alsagarden.com/blog/](http://www.alsagarden.com/blog/)
+* [plaisir-jardin.com/](http://www.plaisir-jardin.com/)
+* [guiadejardineria.com/](http://www.guiadejardineria.com/)
+* [hortadefimdesemana.blogspot.com/](http://hortadefimdesemana.blogspot.com/)
+* [smallgardenn.blogspot.com/](http://smallgardenn.blogspot.com/)
+* [ortodacoltivare.it/blog.html](http://www.ortodacoltivare.it/blog.html)
+* [ortosulterrazzo.it/blog/](http://ortosulterrazzo.it/blog/)
+* [greencul.com/2013/03/31/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D9%88%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AD%D8%AF%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%B2%D9%84-22/](http://www.greencul.com/2013/03/31/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D9%88%D8%A7%D8%AA-%D9%81%D9%8A-%D8%AD%D8%AF%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%B2%D9%84-22/)
 
 ### Reading List - Meditation
-        * [bigthink.com/surprising-science/how-mindfulness-meditation-permanently-reduces-stress/](https://bigthink.com/surprising-science/how-mindfulness-meditation-permanently-reduces-stress/)
-        * [asia.it/](http://asia.it/)
+
+* [bigthink.com/surprising-science/how-mindfulness-meditation-permanently-reduces-stress/](https://bigthink.com/surprising-science/how-mindfulness-meditation-permanently-reduces-stress/)
+* [asia.it/](http://asia.it/)
 
 ### Reading List - Identity
-        * [familysearch.org/](https://familysearch.org/)
-        * [ancestry.com/](http://www.ancestry.com/)
-        * [findmypast.com/](http://www.findmypast.com/)
-        * [myheritage.com/](https://www.myheritage.com/)
-        * [americanancestors.org/](http://www.americanancestors.org/)
+
+* [familysearch.org/](https://familysearch.org/)
+* [ancestry.com/](http://www.ancestry.com/)
+* [findmypast.com/](http://www.findmypast.com/)
+* [myheritage.com/](https://www.myheritage.com/)
+* [americanancestors.org/](http://www.americanancestors.org/)
 
     familia
-        * [www5.snapfish.com/snapfish/fe/p/products/FlexApp/theme=studio/bookType=HMB/booksize=11x8/cover=cvr_lrg_dia_silver/productType=photobook/](http://www5.snapfish.com/snapfish/fe/p/products/FlexApp/theme=studio/bookType=HMB/booksize=11x8/cover=cvr_lrg_dia_silver/productType=photobook/)
-        * [rileyfavoriterecipes.blogspot.com/](http://rileyfavoriterecipes.blogspot.com/)
-        * [rileyfavoriterecipes.blogspot.com/search/label/bread](http://rileyfavoriterecipes.blogspot.com/search/label/bread)
-        * [brightonyourhealth.com/differences-in-food-cultures-mindless-eating-on-5th-avenue/](http://www.brightonyourhealth.com/differences-in-food-cultures-mindless-eating-on-5th-avenue/)
-        * [foodnetwork.com/recipes/bobby-flay/pizza-dough-recipe.html](http://www.foodnetwork.com/recipes/bobby-flay/pizza-dough-recipe.html)
-        * [simplyrecipes.com/recipes/banana_bread/](http://www.simplyrecipes.com/recipes/banana_bread/)
-        * [simplyrecipes.com/recipes/perfect_mashed_potatoes/](http://www.simplyrecipes.com/recipes/perfect_mashed_potatoes/)
-        * [The Incompatible Food Triad --- George W. Hart](http://www.georgehart.com/triad.html)
-        * [foodnetwork.com/recipes/bobby-flay/pizza-dough-recipe.html](http://www.foodnetwork.com/recipes/bobby-flay/pizza-dough-recipe.html)
-        * [m.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/?mxt=t06rda](http://m.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/?mxt=t06rda)
-        * [m.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/?mxt=t06rda](http://m.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/?mxt=t06rda)
-        * [simplyrecipes.com/recipes/perfect_mashed_potatoes/](http://www.simplyrecipes.com/recipes/perfect_mashed_potatoes/)
-        * [simplyrecipes.com/recipes/banana_bread/](http://www.simplyrecipes.com/recipes/banana_bread/)
+* [www5.snapfish.com/snapfish/fe/p/products/FlexApp/theme=studio/bookType=HMB/booksize=11x8/cover=cvr_lrg_dia_silver/productType=photobook/](http://www5.snapfish.com/snapfish/fe/p/products/FlexApp/theme=studio/bookType=HMB/booksize=11x8/cover=cvr_lrg_dia_silver/productType=photobook/)
+* [rileyfavoriterecipes.blogspot.com/](http://rileyfavoriterecipes.blogspot.com/)
+* [rileyfavoriterecipes.blogspot.com/search/label/bread](http://rileyfavoriterecipes.blogspot.com/search/label/bread)
+* [brightonyourhealth.com/differences-in-food-cultures-mindless-eating-on-5th-avenue/](http://www.brightonyourhealth.com/differences-in-food-cultures-mindless-eating-on-5th-avenue/)
+* [foodnetwork.com/recipes/bobby-flay/pizza-dough-recipe.html](http://www.foodnetwork.com/recipes/bobby-flay/pizza-dough-recipe.html)
+* [simplyrecipes.com/recipes/banana_bread/](http://www.simplyrecipes.com/recipes/banana_bread/)
+* [simplyrecipes.com/recipes/perfect_mashed_potatoes/](http://www.simplyrecipes.com/recipes/perfect_mashed_potatoes/)
+* [The Incompatible Food Triad --- George W. Hart](http://www.georgehart.com/triad.html)
+* [foodnetwork.com/recipes/bobby-flay/pizza-dough-recipe.html](http://www.foodnetwork.com/recipes/bobby-flay/pizza-dough-recipe.html)
+* [m.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/?mxt=t06rda](http://m.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/?mxt=t06rda)
+* [m.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/?mxt=t06rda](http://m.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/?mxt=t06rda)
+* [simplyrecipes.com/recipes/perfect_mashed_potatoes/](http://www.simplyrecipes.com/recipes/perfect_mashed_potatoes/)
+* [simplyrecipes.com/recipes/banana_bread/](http://www.simplyrecipes.com/recipes/banana_bread/)
 
     La Coca-Cola Zero es más 'sana' que el ceite de oliva: el semáforo de Sanidad empieza con polémica
-        * [m.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/?mxt=t06rda](http://m.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/?mxt=t06rda)
-        * [m.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/?mxt=t06rda](http://m.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/?mxt=t06rda)
-
+* [m.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/?mxt=t06rda](http://m.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/?mxt=t06rda)
+* [m.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/?mxt=t06rda](http://m.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/?mxt=t06rda)
 
 
 ### Notes - Memories
-    - Mission Outline
 
-        2012
+  * Mission Outline
 
-        October
+2012
 
-        10 - Report to the MTC
+October
 
-        November
+10 - Report to the MTC
 
-        December
+November
 
-        18-19 - Flight to Ukraine
+December
 
-        20 - First day with Elder Litchfield and long trip back to Saltovka
+18-19 - Flight to Ukraine
 
-        2013
+20 - First day with Elder Litchfield and long trip back to Saltovka
 
-        January
+2013
 
-        February
+January
 
-        March
+February
 
-        21 - First day with Elder Groothuyzen
+March
 
-        April
+21 - First day with Elder Groothuyzen
 
-        May
+April
 
-        30 - First day with Elder Malmberg
+May
 
-        June
+30 - First day with Elder Malmberg
 
-        July
+June
 
-        10 - Transfer to Petrovskii with elder Rice
+July
 
-        August
+10 - Transfer to Petrovskii with elder Rice
 
-        29 - First day serving with Elder McKenney
+August
 
-        September
+29 - First day serving with Elder McKenney
 
-        October
+September
 
-        3 - Beginning of my time with Elder Gelwix
+October
 
-        12 - Transfer to Central Donetsk to serve with Elder Packard
+3 - Beginning of my time with Elder Gelwix
 
-        23 - Emergency transfer to Lugansk to train Elder Bumgarner
+12 - Transfer to Central Donetsk to serve with Elder Packard
 
-        November
+23 - Emergency transfer to Lugansk to train Elder Bumgarner
 
-        December
+November
 
-        13 - Began training Elder Witt
+December
 
-        16 - Flight to Sofia, Bulgaria
+13 - Began training Elder Witt
 
-        21 - Lyubo’s Baptism
+16 - Flight to Sofia, Bulgaria
 
-        28- Flight back to Donetsk
+21 - Lyubo’s Baptism
 
-        31 - Nutcracker Ballet
+28- Flight back to Donetsk
 
-        2014
+31 - Nutcracker Ballet
 
-        January
+2014
 
-        2 - Return to Lugansk
+January
 
-        February
+2 - Return to Lugansk
 
-        6 - Transfer to Central Kharkov with Elder Samuelson
+February
 
-        21 - Powerful experience with Alma 8
+6 - Transfer to Central Kharkov with Elder Samuelson
 
-        March
+21 - Powerful experience with Alma 8
 
-        4 - Emergency transfer home of Elder Samuelson, beginning of time with Elder Osthed
+March
 
-        April
+4 - Emergency transfer home of Elder Samuelson, beginning of time with Elder Osthed
 
-        10-11 - Evacuation to Kiev, beginning of time in Obolon, still with elder Osthed and also with Elders Sitze and Young
+April
 
-        May
+10-11 - Evacuation to Kiev, beginning of time in Obolon, still with elder Osthed and also with Elders Sitze and Young
 
-        1 - Transfer to Kharkovskii with Elder Hangen, beginning of one of the golden times of my mission
+May
 
-        9 - Flight to SLC and start of 3 days with Elders Quenton and Reidhead
+1 - Transfer to Kharkovskii with Elder Hangen, beginning of one of the golden times of my mission
 
-        14 - Transfer to Highland Stake with Elder Bischoff
+9 - Flight to SLC and start of 3 days with Elders Quenton and Reidhead
 
-        June
+14 - Transfer to Highland Stake with Elder Bischoff
 
-        24 - Highland Stake split, began training Elder Vause
+June
 
-        July
+24 - Highland Stake split, began training Elder Vause
 
-        August
+July
 
-        5 - First day with Elder Pummer
+August
 
-        September
+5 - First day with Elder Pummer
 
-        13 - Julie and Evan’s baptism
+September
 
-        14 - Julie and Evan’s confirmation, final sacrament meeting talk in Stratford Ward, day of goodbyes
+13 - Julie and Evan’s baptism
 
-        15 - Final testimony
+14 - Julie and Evan’s confirmation, final sacrament meeting talk in Stratford Ward, day of goodbyes
 
-        16 - Flight home
+15 - Final testimony
 
-    - Life Timeline
+16 - Flight home
 
-        1993
+  * Life Timeline
 
-        June 15th - Birth in Provo, UT
+1993
 
-        August 7th - Move to St. Louis, MO
+June 15th - Birth in Provo, UT
 
-        1994
+August 7th - Move to St. Louis, MO
 
-        April - Began to walk
+1994
 
-        1995
+April - Began to walk
 
-        1996
+1995
 
-        1997
+1996
 
-        June - Move from St. Louis, MO to Vacaville, CA
+1997
 
-        July - Move from Vacaville to Travis AFB, CA
+June - Move from St. Louis, MO to Vacaville, CA
 
-        1998
+July - Move from Vacaville to Travis AFB, CA
 
-        1999
+1998
 
-        2000
+1999
 
-        September - Move from Vacaville, CA to Anderson AFB, Guam
+2000
 
-        2001
+September - Move from Vacaville, CA to Anderson AFB, Guam
 
-        July 5th - Baptism at Sirena Beach, Guam
+2001
 
-        2002
+July 5th - Baptism at Sirena Beach, Guam
 
-        July-August - Move from Andersen AFB, Guam to Ingham, Suffolk, England
+2002
 
-        2003
+July-August - Move from Andersen AFB, Guam to Ingham, Suffolk, England
 
-        2004
+2003
 
-        July - Move to Kelley Barracks, Stuttgart, Germany
+2004
 
-        2005
+July - Move to Kelley Barracks, Stuttgart, Germany
 
-        2006
+2005
 
-        2007
+2006
 
-        July-August - Move from Patch Barracks, Stuttgart,Germany to Vacaville, CA, including a stop in UT and a week of BYU soccer camp
+2007
 
-        2008
+July-August - Move from Patch Barracks, Stuttgart,Germany to Vacaville, CA, including a stop in UT and a week of BYU soccer camp
 
-        2009
+2008
 
-        2010
+2009
 
-        June - Move to Austin, TX
+2010
 
-        2011
+June - Move to Austin, TX
 
-        June 2nd - High School Graduation, Frank Erwin Center, Austin, TX
+2011
 
-        June 15th - Flight to Provo, UT on my 18th birthday
+June 2nd - High School Graduation, Frank Erwin Center, Austin, TX
 
-        November 20th - First kiss, start of first relationship, with Lizzy Newbill
+June 15th - Flight to Provo, UT on my 18th birthday
 
-        December - Riley family reunion in Destin, FL and Ellijay, GA
+November 20th - First kiss, start of first relationship, with Lizzy Newbill
 
-        2012
+December - Riley family reunion in Destin, FL and Ellijay, GA
 
-        January 3rd - First day back in Provo, breakup with Lizzy
+2012
 
-        April-May - Road trip to Laguna Beach and Fairfield with Wade Bozeman and Jake Mansfield
+January 3rd - First day back in Provo, breakup with Lizzy
 
-        May 22nd - Hiring at Whataburger
+April-May - Road trip to Laguna Beach and Fairfield with Wade Bozeman and Jake Mansfield
 
-        May 24th - Mission call opening with Becky and Elyse Riley
+May 22nd - Hiring at Whataburger
 
-        October 10th - Report to the MTC
+May 24th - Mission call opening with Becky and Elyse Riley
 
-        December 18th-19th - Flight to Donetsk, Ukraine
+October 10th - Report to the MTC
 
-        2013
+December 18th-19th - Flight to Donetsk, Ukraine
 
-        Full year in Ukraine (with 2 weeks in Bulgaria)
+2013
 
-        2014
+Full year in Ukraine (with 2 weeks in Bulgaria)
 
-        May 9th - Flight to SLC, UT
+2014
 
-        September 16th - Flight home and release from full-time missionary service
+May 9th - Flight to SLC, UT
 
-        December 31st - Flight to KC, MO
+September 16th - Flight home and release from full-time missionary service
 
-        2015
+December 31st - Flight to KC, MO
 
-        January 3rd/4th - drive from MO to Provo, UT
+2015
 
-    - Meaningful Compliments and Advice
+January 3rd/4th - drive from MO to Provo, UT
 
-        Compliments
+  * Meaningful Compliments and Advice
 
-        Elder Henrik Osthed: “I honestly feel so lucky to have served with you. You taught me so many things. … You made me feel important and needed. You helped me understand just how much I can be with the Lord’s help. You are a wonderful man, a wonderful missionary, and a classy southern-German-Guamish-English gent. Though I use humor, I hope you understand that I mean all of this. You have changed my life for the better.
+Compliments
 
-        Thank you for the laughs, thank you for taking time and listening even when you might not have wanted to, thank you for being a strong, quiet example, thank you for helping me see my worth, thank you for picking me up when I fall down, thank you for helping me be healthier, thank you for always being honest, thank you for supporting my weaknesses, but most of all, thank you for being my friend. It means the world to me. I am so glad the Lord put you in my life.
+Elder Henrik Osthed: “I honestly feel so lucky to have served with you. You taught me so many things. … You made me feel important and needed. You helped me understand just how much I can be with the Lord’s help. You are a wonderful man, a wonderful missionary, and a classy southern-German-Guamish-English gent. Though I use humor, I hope you understand that I mean all of this. You have changed my life for the better.
 
-        You were just what I needed. Best companion I ever did have. I would follow you anywhere my friend.”
+Thank you for the laughs, thank you for taking time and listening even when you might not have wanted to, thank you for being a strong, quiet example, thank you for helping me see my worth, thank you for picking me up when I fall down, thank you for helping me be healthier, thank you for always being honest, thank you for supporting my weaknesses, but most of all, thank you for being my friend. It means the world to me. I am so glad the Lord put you in my life.
 
-        Sister Renee Andrade: “Let me take the opportunity to tell you a few great things about yourself:
+You were just what I needed. Best companion I ever did have. I would follow you anywhere my friend.”
 
-        1. You’ve got a great British accent. Can you keep it permanently? No. Can you use it on special occasions? Most definitely.
-        2. You are a great teacher. You really listen.
-        3. You are probably the most, the very most dedicated, diligent person in the entire world. It’s inspiring, really. I want to be you!
-        4. You play a mean game of fooseball (don’t know if that’s spelled right). Rematch! For sure.
-        5. You think you are a mountain man / jungle native hybrid. I know it’s true. Why else would you play sports barefoot with such agility? It’s great.
+Sister Renee Andrade: “Let me take the opportunity to tell you a few great things about yourself:
 
-        I hope we get to serve together again; I’ve only scraped the surface of your wisdom and experience! You are a great missionary. Keep it up! See you around!
+1. You’ve got a great British accent. Can you keep it permanently? No. Can you use it on special occasions? Most definitely.
+2. You are a great teacher. You really listen.
+3. You are probably the most, the very most dedicated, diligent person in the entire world. It’s inspiring, really. I want to be you!
+4. You play a mean game of fooseball (don’t know if that’s spelled right). Rematch! For sure.
+5. You think you are a mountain man / jungle native hybrid. I know it’s true. Why else would you play sports barefoot with such agility? It’s great.
 
-        Sister Julie Ricks: “...you are a great missionary. You’re talented at singing, playing piano, learning languages, ping-pong, writing interesting books - the list goes on. But through it all, you do have humility. And not the annoying kind of fake humility where you try to tell everyone you’re no good (or else I probably would have thrown a book at you). You’re just a completely honest person, thank you.
+I hope we get to serve together again; I’ve only scraped the surface of your wisdom and experience! You are a great missionary. Keep it up! See you around!
 
-        Elder Hales: “I remember way back when, when I got to Ukraine. I think it was my second transfer and we were at zone sports. Everyone was talking aout how good this Elder Riley was at Russian and how good he was at soccer. I remember talking to you and you were just super happy and way excited about everything. I thought you were like way old in the mission and getting ready to go home but I found out by Elder Gelwix after zone sports that you were only like 2 transfers older than me! I thought man, I want to be like Elder Riley!
+Sister Julie Ricks: “...you are a great missionary. You’re talented at singing, playing piano, learning languages, ping-pong, writing interesting books - the list goes on. But through it all, you do have humility. And not the annoying kind of fake humility where you try to tell everyone you’re no good (or else I probably would have thrown a book at you). You’re just a completely honest person, thank you.
 
-        Elder Forrest Hangen: “Well, we only got to serve together for a few days, but man did we get some amazing work done! I mean this when I say it, you are my favorite companion so far!”
+Elder Hales: “I remember way back when, when I got to Ukraine. I think it was my second transfer and we were at zone sports. Everyone was talking aout how good this Elder Riley was at Russian and how good he was at soccer. I remember talking to you and you were just super happy and way excited about everything. I thought you were like way old in the mission and getting ready to go home but I found out by Elder Gelwix after zone sports that you were only like 2 transfers older than me! I thought man, I want to be like Elder Riley!
 
-        Sister Krystal Hassard: “First of all, I just have to say that you are outstanding, definitely one of the best missionaries that I know. You work so hard, and it shows.
+Elder Forrest Hangen: “Well, we only got to serve together for a few days, but man did we get some amazing work done! I mean this when I say it, you are my favorite companion so far!”
 
-        Also your Russian is boss and I know that is due to the hard work you put into it every day. Thank you for giving me tips!
+Sister Krystal Hassard: “First of all, I just have to say that you are outstanding, definitely one of the best missionaries that I know. You work so hard, and it shows.
 
-        Thanks for being a great example, but more than that a friend.
+Also your Russian is boss and I know that is due to the hard work you put into it every day. Thank you for giving me tips!
 
-        ...you just know how to get things done. You love work, and that says a ton! I guess you could sum a lot of it up and just say that you are focused. That is a trait that takes a lot of developing.”
+Thanks for being a great example, but more than that a friend.
 
-        Sister Alisa Winterton: “I’m super blessed that I was able to serve around you and especially when I first got into country. I learned so much from you, not only from your (usually) always wise words of wisdom but also your example of hard work and dedication. I really look up to and admire you so much and in many ways hope to becme more like you. You are one of the smartest and most organized and most driven people I have met in my many 22 years so that means something. … Thanks for your encouragement with Russian and always telling me to not sell myself short. Really I am quite glad we are friends and I think you are quite a lovely human being. … Oh and another thing, thanks for always being sincerely excited for me. You have no idea how much that always meant. You’re a saint.”
+...you just know how to get things done. You love work, and that says a ton! I guess you could sum a lot of it up and just say that you are focused. That is a trait that takes a lot of developing.”
 
-        Elder Britton Rice: “I had a blast with you. … I’m gonna miss you. I’m really looking forward to BYU. I learned a lot from you. We worked really hard and I really enjoyed chastny tracting and eating fruit with you. Also our shoe shining parties. You’re a wonderful missionary and you’re really going places, …
+Sister Alisa Winterton: “I’m super blessed that I was able to serve around you and especially when I first got into country. I learned so much from you, not only from your (usually) always wise words of wisdom but also your example of hard work and dedication. I really look up to and admire you so much and in many ways hope to becme more like you. You are one of the smartest and most organized and most driven people I have met in my many 22 years so that means something. … Thanks for your encouragement with Russian and always telling me to not sell myself short. Really I am quite glad we are friends and I think you are quite a lovely human being. … Oh and another thing, thanks for always being sincerely excited for me. You have no idea how much that always meant. You’re a saint.”
 
-        ...You’re a wonderful person. I really did enjoy my time with you!”
+Elder Britton Rice: “I had a blast with you. … I’m gonna miss you. I’m really looking forward to BYU. I learned a lot from you. We worked really hard and I really enjoyed chastny tracting and eating fruit with you. Also our shoe shining parties. You’re a wonderful missionary and you’re really going places, …
 
-        Advice
+...You’re a wonderful person. I really did enjoy my time with you!”
 
-        “Be internally motivated.”
+Advice
 
-        “It helps to plan out your prayers before you say them.”
+“Be internally motivated.”
 
-        - Lyrad Riley
+“It helps to plan out your prayers before you say them.”
 
-        “If you want to plan something out perfectly before you’ll get started, you’ll just keep putting it off and never get it done.”
+* * Lyrad Riley
 
-        - Alicia Riley
+“If you want to plan something out perfectly before you’ll get started, you’ll just keep putting it off and never get it done.”
 
-        “Let your excitement show. Make eye contact. People respond to sincerity.”
+* * Alicia Riley
 
-        - Nick Riley
+“Let your excitement show. Make eye contact. People respond to sincerity.”
 
-        “You’ve arrived [in terms of self-discipline, missionary ability and language and cultural skill]. Now is the time for you to work on other equally important things, like genuinely caring about others and being a leader.”
+* * Nick Riley
 
-        - President Robert Lochhead
+“You’ve arrived [in terms of self-discipline, missionary ability and language and cultural skill]. Now is the time for you to work on other equally important things, like genuinely caring about others and being a leader.”
 
-        Criticism
+* * President Robert Lochhead
 
-        “Boy, you might be street smart, but you don’t know a [darn] thing about the real world.”
+Criticism
 
-        - Miss Kelly
+“Boy, you might be street smart, but you don’t know a [darn] thing about the real world.”
 
-        “You need to hustle more. Put your whole heart into the game.”
+* * Miss Kelly
 
-        - Alicia Riley
+“You need to hustle more. Put your whole heart into the game.”
 
-        “You are great at doing things you put your mind to. But you really need to focus.”
+* * Alicia Riley
 
-        - Alicia Riley
-    - Лучшие времена по самодисциплине:
-        - Германия 2004-2007
-        - миссия 2012-2014, прежде всего 2014
-    - Notizen aus meiner Glaubenskrise
+“You are great at doing things you put your mind to. But you really need to focus.”
 
-        Habe ich mich verloren? Soll ich alles Frühere aufgeben?
+* * Alicia Riley
+  * Лучшие времена по самодисциплине:
+* * Германия 2004-2007
+* * миссия 2012-2014, прежде всего 2014
+  * Notizen aus meiner Glaubenskrise
 
-        Werde ich GV genießen können?
+Habe ich mich verloren? Soll ich alles Frühere aufgeben?
 
-        Werde ich die Lebesgeschichte der Sandra je verstehen?
+Werde ich GV genießen können?
 
-        Warum bin ich manchmal so neidisch?
+Werde ich die Lebesgeschichte der Sandra je verstehen?
 
-        Warum fühle ich mich unsicher?
+Warum bin ich manchmal so neidisch?
 
-        Werde ich je in meinem Glauben so sicher sein, wie früher?
+Warum fühle ich mich unsicher?
 
-        Mir ist schwer in der Mitte zwischen vielen Extremen. Was ist da zu tun?
+Werde ich je in meinem Glauben so sicher sein, wie früher?
 
-        Wie kann ich toleranter, verständnisvoller und mitfühlender werden?
+Mir ist schwer in der Mitte zwischen vielen Extremen. Was ist da zu tun?
 
-        Warum bin ich manchmal so undankbar für meine Erziehung und meinen Hintergrund?
+Wie kann ich toleranter, verständnisvoller und mitfühlender werden?
 
-        Wozu ist meine Dringlichkeit nützlich und wann schädlich?
+Warum bin ich manchmal so undankbar für meine Erziehung und meinen Hintergrund?
 
-        Wie kann ich mich selbst objektiver sehen?
+Wozu ist meine Dringlichkeit nützlich und wann schädlich?
 
-        Wie lerne ich mit der Nostalgie zu leben um gesund damit umzugehen?
+Wie kann ich mich selbst objektiver sehen?
 
-        Wie kann ich lernen, Deutschland ohne geistige Störung durch Auslöser zu lieben?
+Wie lerne ich mit der Nostalgie zu leben um gesund damit umzugehen?
 
-        Wie wird das sein, das nächste Mal in Deutschland zu sein?
+Wie kann ich lernen, Deutschland ohne geistige Störung durch Auslöser zu lieben?
 
-        Wovor habe ich Angst?
+Wie wird das sein, das nächste Mal in Deutschland zu sein?
 
-        Wie kann ich eine ausgewogene Beziehung zur Vergangenheit erreichen?
+Wovor habe ich Angst?
 
-        Warum hat mich das eben so sehr gestört, zu hören und zu denken, dass Sandra auch früher eine sexuelle Beziehung hatte?
+Wie kann ich eine ausgewogene Beziehung zur Vergangenheit erreichen?
 
-    - Bitter Disappointment
+Warum hat mich das eben so sehr gestört, zu hören und zu denken, dass Sandra auch früher eine sexuelle Beziehung hatte?
 
-        If someone had told me at 12 that in a decade's time I would be lazy, undisciplined, and unworthy of respect, I would have refused to believe them on principle. I would have written out goals and a plan to avoid such an unattractive destiny.
+  * Bitter Disappointment
 
-        The reality, though, is that with a few bright exceptions. I have become precisely what I most despise. Because I lack discipline, I cannot trust myself and I do not achieve my goals, and that makes life empty and unrewarding.
+If someone had told me at 12 that in a decade's time I would be lazy, undisciplined, and unworthy of respect, I would have refused to believe them on principle. I would have written out goals and a plan to avoid such an unattractive destiny.
 
-    - Memory: Career Choice
-        - Pros
-            - CL
+The reality, though, is that with a few bright exceptions. I have become precisely what I most despise. Because I lack discipline, I cannot trust myself and I do not achieve my goals, and that makes life empty and unrewarding.
 
-                play to my strengths
+  * Memory: Career Choice
+* * Pros
+  * CL
 
-                closer to AI & consciousness research
+play to my strengths
 
-                chance to use multiple languages
+closer to AI & consciousness research
 
-                top employment opportunities in Europe - Reverso, Linguee, etc.
+chance to use multiple languages
 
-                good lifestyle: family, side projects, work-life balance
+top employment opportunities in Europe - Reverso, Linguee, etc.
 
-                combines languages, programming, ML
+good lifestyle: family, side projects, work-life balance
 
-                flexibility between academia & industry
+combines languages, programming, ML
 
-                highly transferrable skills: data science, programming, research, languages
+flexibility between academia & industry
 
-                project-based work environment
+highly transferrable skills: data science, programming, research, languages
 
-                access to language-learning resources for my own purposes
+project-based work environment
 
-            - Econ
+access to language-learning resources for my own purposes
 
-                good job & funding
+  * Econ
 
-                chance to be involved in debates with high real-world stakes
+good job & funding
 
-                ability to affect real-world outcomes
+chance to be involved in debates with high real-world stakes
 
-                interactions with undergrad profs & friends
+ability to affect real-world outcomes
 
-                prestige
+interactions with undergrad profs & friends
 
-                easily understandable; no need to explain profession
+prestige
 
-        - Cons
-            - CL
+easily understandable; no need to explain profession
 
-                forfeit of economics PhD & opportunities it would bring
+* * Cons
+  * CL
 
-                opportunity to critique & expand economics profession
+forfeit of economics PhD & opportunities it would bring
 
-                improve the world through economic development
+opportunity to critique & expand economics profession
 
-                chance to be an economics-related public intellectual
+improve the world through economic development
 
-                tight finances for 2 years
+chance to be an economics-related public intellectual
 
-            - Econ
+tight finances for 2 years
 
-                overly conservative & sometimes narrow-minded profession
+  * Econ
 
-                excessive emphasis on publishing papers that may or may not hold real value, or have a significant impact
+overly conservative & sometimes narrow-minded profession
 
-                high stress, long time before getting a full-time job, potentially limited job security, difficulty getting tenure in economics
+excessive emphasis on publishing papers that may or may not hold real value, or have a significant impact
 
-                bagged down in esoteric specializations & kept away from truly interesting interdisciplinary topics
+high stress, long time before getting a full-time job, potentially limited job security, difficulty getting tenure in economics
 
-        - Considerations
+bagged down in esoteric specializations & kept away from truly interesting interdisciplinary topics
 
-            potential areas whare I have an advantage?
+* * Considerations
 
-            enjoyable associates?
+    potential areas whare I have an advantage?
 
+    enjoyable associates?
 
-        Venn-Diagramm: (1) Verhaltensökonomik und Entscheidungstheorie ; (2) Bildungsökonomik; (3) Entwicklungsökonomik
+Venn-Diagramm: (1) Verhaltensökonomik und Entscheidungstheorie ; (2) Bildungsökonomik; (3) Entwicklungsökonomik
 
-    - Memory: Dream Girl
+  * Memory: Dream Girl
 
-        Strong, deep, grounded, and applied testimony of the Gospel
+Strong, deep, grounded, and applied testimony of the Gospel
 
-        Loves backpacking and other outdoors activities
+Loves backpacking and other outdoors activities
 
-        Compatible sense of humor
+Compatible sense of humor
 
-        Intelligent, educated, and informed mind
+Intelligent, educated, and informed mind
 
-        Loves to travel
+Loves to travel
 
-        Well-toned, fit body
+Well-toned, fit body
 
-        Appreciation of good (classical, some country, etc.) music
+Appreciation of good (classical, some country, etc.) music
 
-        Eats healthy
+Eats healthy
 
-        Clean & organized
+Clean & organized
 
-        Charitable
+Charitable
 
-        Not from Utah
+Not from Utah
 
-        Cool family
+Cool family
 
-        Doesn't nag
+Doesn't nag
 
-    - воспоминания об Англии:
-        - воскресная школа в Ипсуиче, сидя в саду
-        - езда через Тетфордский Лес
-        - игра в футбол в школе
-    - Resolutions 2017
+  * воспоминания об Англии:
+* * воскресная школа в Ипсуиче, сидя в саду
+* * езда через Тетфордский Лес
+* * игра в футбол в школе
+  * Resolutions 2017
 
-        Read through the Old Testament (partially in Hebrew)
+Read through the Old Testament (partially in Hebrew)
 
-        Bench press Sandra
+Bench press Sandra
 
-        Exercise daily
+Exercise daily
 
-        Begin each day with meditation
+Begin each day with meditation
 
-        Read a book / story / long article or more each week
+Read a book / story / long article or more each week
 
-        Begin & establish a quality blog
+Begin & establish a quality blog
 
-        Put more time into practicing for word choir
+Put more time into practicing for word choir
 
-        Spend quality time with Sandra to begin & end each day
+Spend quality time with Sandra to begin & end each day
 
-        Clean daily
+Clean daily
 
-        Sing a bit daily
+Sing a bit daily
 
-        Plan date night by Sunday or earlier
+Plan date night by Sunday or earlier
 
-        Spend regular time in nature
+Spend regular time in nature
 
-        Plan each week in detail
-
-        * [Family Tree]()
+Plan each week in detail
+* [Family Tree]()
     |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | William Lockton Riley | 1829-1919 | England-UT |  |
@@ -2010,7 +1941,6 @@ Two questions to ask yourself after every reading session: What do I want to rem
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 * [Notes - Wisdom and Lifehacks]()
 
-
 ## General Guidelines
 
 Manage energy and motivation levels, not just time. Everything is a finite resource, including attention.
@@ -2018,243 +1948,237 @@ Manage energy and motivation levels, not just time. Everything is a finite resou
 Having as many things as possible covered by automatic habits is ideal.
 
 Systems must be robust, which means that they are flexible and adaptable to unforeseen circumstances.
-
-
 * Naval Ravikant Notes:
-    - specialization is for insects
-    - read to satisfy intellectual curiosity
-    - desire is a contract you make with yourself to be unhappy until you get what you want
-    - don’t have too many desires
-    - work like a lion, not a cow
-    - you are not going to get rich renting out your time
-    - if you want to see who rules over you, see whom you are not allowed to criticize
-    - the modern strugle is learning to “draw your boundaries” against “factories of people” who are trying to addict you
-    - technology leans the world left
-    - trading the mean for the variance
-    - paying attention to politics destroys your ability to think
-    - everyone is trying to program everyone
-    - the way to survive in modern society is to retreat from modern society
-    - overthinking is the road to misery
-    - learning to be alone and enjoy it is a superpower
-    - peace = happiness
-    - peace comes from the inside, not the outside - there will always be problems on the outside
-    - live the life you want other people to live
-    - memorizing is an indication you don’t understand
-    - the answers to all the great questions are paradoxes
-    - your real resumé is a catalog of your suffering
-    - it is your unlimited desires that cloud your peace
+  * specialization is for insects
+  * read to satisfy intellectual curiosity
+  * desire is a contract you make with yourself to be unhappy until you get what you want
+  * don’t have too many desires
+  * work like a lion, not a cow
+  * you are not going to get rich renting out your time
+  * if you want to see who rules over you, see whom you are not allowed to criticize
+  * the modern strugle is learning to “draw your boundaries” against “factories of people” who are trying to addict you
+  * technology leans the world left
+  * trading the mean for the variance
+  * paying attention to politics destroys your ability to think
+  * everyone is trying to program everyone
+  * the way to survive in modern society is to retreat from modern society
+  * overthinking is the road to misery
+  * learning to be alone and enjoy it is a superpower
+  * peace = happiness
+  * peace comes from the inside, not the outside - there will always be problems on the outside
+  * live the life you want other people to live
+  * memorizing is an indication you don’t understand
+  * the answers to all the great questions are paradoxes
+  * your real resumé is a catalog of your suffering
+  * it is your unlimited desires that cloud your peace
 * Notes - Learning Hacks
-    - Keys to information retention:
+  * Keys to information retention:
 
-        identify
+identify
 
-        add meaningfulness
+add meaningfulness
 
-        organization
+organization
 
-        association
+association
 
-        visualization
+visualization
 
-        attention
+attention
 
-        relaxation
+relaxation
 
-        repetition
+repetition
+* [Link & Story Methods](https://www.mindtools.com/a0tzgns/the-link-and-story-methods)
 
-        * [Link & Story Methods](https://www.mindtools.com/a0tzgns/the-link-and-story-methods)
+three R's: receive, retain, recall
 
-        three R's: receive, retain, recall
+  * alte Lernmethode
 
-    - alte Lernmethode
+1) Ziele
 
-        1) Ziele
+2) Strukturanalyse
 
-        2) Strukturanalyse
+3) Fragen
 
-        3) Fragen
+4) schnelles Durchlesen, Notizen schreiben und Fragen beantworten und unbekannte Wörter nachschlagen
 
-        4) schnelles Durchlesen, Notizen schreiben und Fragen beantworten und unbekannte Wörter nachschlagen
+5) Notizen nochmal anschauen und auftippen
 
-        5) Notizen nochmal anschauen und auftippen
+6) 2. Runde Fragen
 
-        6) 2. Runde Fragen
+7) 2. Durchlesen, schnell/langsam je nach Bedürfnis
 
-        7) 2. Durchlesen, schnell/langsam je nach Bedürfnis
+8) Annotierung
 
-        8) Annotierung
+genaueres Lesen der Teile, die ich noch nicht beherrsche
 
-        genaueres Lesen der Teile, die ich noch nicht beherrsche
+10) Präsentation zusammenstellen, Vortrag halten
 
-        10) Präsentation zusammenstellen, Vortrag halten
+11) Prüfung erstellen
 
-        11) Prüfung erstellen
-
-        12) Prüfung bestehen
-
-
+12) Prüfung bestehen
 * Notes - Communication
-    - Conversation Topics
+  * Conversation Topics
 
-        Basics:
+Basics:
 
-        - origin
-        - major
-        - grade
-        - age
-        - family - position, experience, relationship to family
-        - life story - high school experience, post-graduation time, mission, post-mission
+* * origin
+* * major
+* * grade
+* * age
+* * family - position, experience, relationship to family
+* * life story - high school experience, post-graduation time, mission, post-mission
 
-        Favorite:
+Favorite:
 
-        - books
-        - movies
-        - sports
-        - sports teams
-        - interests
-        - car company
-        - apostle
-        - classes
-        - colors
-        - foods
-        - sayings
-        - subjects
-        - music
-        - composer
-        - author
-        - recreation
-        - musicals
-        - word
-        - phrase
-        - dishes to cook
-        - places to go hiking/backpacking, etc.
+* * books
+* * movies
+* * sports
+* * sports teams
+* * interests
+* * car company
+* * apostle
+* * classes
+* * colors
+* * foods
+* * sayings
+* * subjects
+* * music
+* * composer
+* * author
+* * recreation
+* * musicals
+* * word
+* * phrase
+* * dishes to cook
+* * places to go hiking/backpacking, etc.
 
-        Memories:
+Memories:
 
-        - childhood
-        - school - elementary, middle, high, college
-        - mission, if applicable
-        - family memories
-        - embarrassing memories
-        - happiest times
-        - Church experiences
-        - vacations
-        - sports
+* * childhood
+* * school - elementary, middle, high, college
+* * mission, if applicable
+* * family memories
+* * embarrassing memories
+* * happiest times
+* * Church experiences
+* * vacations
+* * sports
 
-        Views on:
+Views on:
 
-        - local (and other) culture
-        - politics
-        - national and world news
-        - religion
-        - electronics and media
-        - food
-        - sports
-        - American lifestyle
-        - travel
-        - pranks
+* * local (and other) culture
+* * politics
+* * national and world news
+* * religion
+* * electronics and media
+* * food
+* * sports
+* * American lifestyle
+* * travel
+* * pranks
 
-        What would your ideal day be like?
+What would your ideal day be like?
 
-        If you were to write a book, what would it be about?
+If you were to write a book, what would it be about?
 
-        If you had to pick one (3, etc.) artist to listen to / author the read for the rest of your life, whom would you choose?
+If you had to pick one (3, etc.) artist to listen to / author the read for the rest of your life, whom would you choose?
 
-        What’s on your bucket list?
+What’s on your bucket list?
 
-        What makes your world go round? / What makes you yourself?
+What makes your world go round? / What makes you yourself?
 
-        Where do you most want to travel?
+Where do you most want to travel?
 
-        What’s the most interesting class you’ve taken so far?
+What’s the most interesting class you’ve taken so far?
 
-        What’s the best prank you’ve played on someone?
+What’s the best prank you’ve played on someone?
 
-        When was it that you knew for yourself that the Church is true?
+When was it that you knew for yourself that the Church is true?
 
-        Why BYU?
+Why BYU?
 
-        Who is your personal hero?
+Who is your personal hero?
 
-        What’s your favorite thing about yourself?
+What’s your favorite thing about yourself?
 
-        Which languages do you speak? Which do you like best? Which are you best at?
+Which languages do you speak? Which do you like best? Which are you best at?
 
-        If you were to live abroad, where would you pick?
+If you were to live abroad, where would you pick?
 
-        What was the hardest part of your mission?
+What was the hardest part of your mission?
 
-        What was the most embarrassing/scariest/most fun/most bizarre/most inspirational/most exciting/ most spiritual experience you’ve had?
+What was the most embarrassing/scariest/most fun/most bizarre/most inspirational/most exciting/ most spiritual experience you’ve had?
 
-        How would you compare yourself to the stereotypes that people would tend to believe about you?
+How would you compare yourself to the stereotypes that people would tend to believe about you?
 
-        What is your dream way to kick the bucket?
+What is your dream way to kick the bucket?
 
-    - Social Skills and Etiquette
+  * Social Skills and Etiquette
 
-        General:
+General:
 
-        - Golden Rule - do not treat others differently than you, in their place, would want to be treated
-        - Body language - be upright, alert, aware, and engaged, not slouching, lethargic, or disconnected
-        - Emulation - learn from and imitate the manners of respected and authoritative figures
-        - Language - use appropriate vocabulary for the occasion, and use etiquette words, such as “sir” and “please”
-        - Dress - dress appropriately for the occasion, and always neatly
+* * Golden Rule - do not treat others differently than you, in their place, would want to be treated
+* * Body language - be upright, alert, aware, and engaged, not slouching, lethargic, or disconnected
+* * Emulation - learn from and imitate the manners of respected and authoritative figures
+* * Language - use appropriate vocabulary for the occasion, and use etiquette words, such as “sir” and “please”
+* * Dress - dress appropriately for the occasion, and always neatly
 
-        Conversation:
+Conversation:
 
-        - Listening - pay attention when others speak; ask questions to ensure understanding and to learn more; do not interrupt unless completely necessary
-        - Subject matter - talk about worthwhile things that interest other people, and keep the conversation within the bounds of propriety
-        - Kindness - say things that edify others and help them feel better
+* * Listening - pay attention when others speak; ask questions to ensure understanding and to learn more; do not interrupt unless completely necessary
+* * Subject matter - talk about worthwhile things that interest other people, and keep the conversation within the bounds of propriety
+* * Kindness - say things that edify others and help them feel better
 
-        Mealtime:
+Mealtime:
 
-        - Basics - chew with a closed mouth; make sure everyone is served before you eat; take reasonable portions
-        - Emulation - follow the hosts’ examples, especially in unfamiliar cultures or settings
-        - Appreciation - compliment the chef and thank the hosts for their hospitality
+* * Basics - chew with a closed mouth; make sure everyone is served before you eat; take reasonable portions
+* * Emulation - follow the hosts’ examples, especially in unfamiliar cultures or settings
+* * Appreciation - compliment the chef and thank the hosts for their hospitality
 
-        Meetings:
+Meetings:
 
-        - Propriety - respect and follow the presiding authority; speak in turn, concisely, and on topic
-        - Punctuality - be early
-        - Preparation - come informed and ready to contribute
-        - Attention - be completely tuned in to the meeting
+* * Propriety - respect and follow the presiding authority; speak in turn, concisely, and on topic
+* * Punctuality - be early
+* * Preparation - come informed and ready to contribute
+* * Attention - be completely tuned in to the meeting
 
-        Interviews:
+Interviews:
 
-        - Basics - smile and be enthusiastic and pleasant to talk to
-        - Preparation - know more about the company than the interviewer and come with interesting questions that reflect the depth of your knowledge
-        - Appreciation - thank the interviewer for his or her time, and help him or her to feel good
-    - 4 basic types of communication:
+* * Basics - smile and be enthusiastic and pleasant to talk to
+* * Preparation - know more about the company than the interviewer and come with interesting questions that reflect the depth of your knowledge
+* * Appreciation - thank the interviewer for his or her time, and help him or her to feel good
+  * 4 basic types of communication:
 
-        aggressive
+aggressive
 
-        passive
+passive
 
-        passive-aggressive
+passive-aggressive
 
-        assertive
+assertive
 
-    - Communication principles from [Deborah Tannen](https://en.wikipedia.org/wiki/Deborah_Tannen)
-        - Self-concept: positive self-concept necessary for healthy and satisfying communications
-        - Clarity of expression: know what you want to communicate
-        - Dealing with feelings: emotions should be identified, observed, reported, and integrated
-        - Self-disclosure: the ability to talk truthfully about yourself is essential for clarity
-        - Appeal to other's self-interest: Doing this will also help you to ___ - win-win!
-        - Set limits: "I will be happy to help, and can promise only two hours on Tuesday."
-        - State clear consequences
-        - Use "and" rather than "but": You've been great with X and I want to help you do the same with Y.
-        - Learn to say no.
-        -
+  * Communication principles from [Deborah Tannen](https://en.wikipedia.org/wiki/Deborah_Tannen)
+* * Self-concept: positive self-concept necessary for healthy and satisfying communications
+* * Clarity of expression: know what you want to communicate
+* * Dealing with feelings: emotions should be identified, observed, reported, and integrated
+* * Self-disclosure: the ability to talk truthfully about yourself is essential for clarity
+* * Appeal to other's self-interest: Doing this will also help you to ___ - win-win!
+* * Set limits: "I will be happy to help, and can promise only two hours on Tuesday."
+* * State clear consequences
+* * Use "and" rather than "but": You've been great with X and I want to help you do the same with Y.
+* * Learn to say no.
+-
 
-        Effective messaging: I feel _____ when ____ because _____. How do you feel about it? How can we solve it?
+Effective messaging: I feel _____ when ____ because _____. How do you feel about it? How can we solve it?
 
-    - Conversations
-        - associations game
-        - would you rather... ?
-        - have you ever... ?
-        - least favorite
-        - point to map and go there
-
+  * Conversations
+* * associations game
+* * would you rather... ?
+* * have you ever... ?
+* * least favorite
+* * point to map and go there
 
 Timeboxing
 * [OUTWORK Everyone By Being Bored](https://www.youtube.com/watch?v=1iNyqomXQt8)
@@ -2283,56 +2207,53 @@ You could also lay your head down on your desk for ten minutes and listen to a p
 I hope y'all had a good day, if not, that's okay too. Remember to take care of yourself and try to get some sleep tonight
 
 ( This comment isn't originally mine, but I think it can help a lot of people :)  )
-
-
 * Links - Travel
-        * [justlanded.com/deutsch](https://www.justlanded.com/deutsch)
-        * [travelbook.de/](http://www.travelbook.de/)
-        * [merian.de/](http://www.merian.de/)
-        * [abenteuer-reisen.de/](https://www.abenteuer-reisen.de/)
-        * [reiseaktuell.at/](http://www.reiseaktuell.at/)
-        * [urlaubsguru.de/reisemagazin/](https://www.urlaubsguru.de/reisemagazin/)
-        * [marcopolo.de/magazin/index.html](https://www.marcopolo.de/magazin/index.html)
-        * [fernweh-magazin.com/](http://www.fernweh-magazin.com/)
-        * [geo.de/magazine/17032-thma-geo-saison](http://www.geo.de/magazine/17032-thma-geo-saison)
-        * [grands-reportages.com/](http://www.grands-reportages.com/)
-        * [ar-mag.fr/](http://www.ar-mag.fr/)
-        * [voyageursdumonde.fr/voyage-sur-mesure/magazine-voyage](http://www.voyageursdumonde.fr/voyage-sur-mesure/magazine-voyage)
-        * [press-directory.com/presse-magazine/magazine-voyage.html](http://www.press-directory.com/presse-magazine/magazine-voyage.html)
-        * [voyagemagazine.ru/](http://voyagemagazine.ru/)
-        * [issuu.com/voyagemagazine](https://issuu.com/voyagemagazine)
-        * [qoa-mag.com/es/](http://www.qoa-mag.com/es/)
-        * [viajesmagazine.com/](http://viajesmagazine.com/)
-        * [nationalgeographic.com.es/viajes](http://www.nationalgeographic.com.es/viajes)
-        * [traveler.es/](http://www.traveler.es/)
-        * [gq.ru/travel/](http://www.gq.ru/travel/)
-        * [liligo.es/magazine-viajes/](http://www.liligo.es/magazine-viajes/)
-        * [viajar.elperiodico.com/](http://viajar.elperiodico.com/)
-        * [altairmagazine.com/](https://www.altairmagazine.com/)
-        * [magazinedigital.com/](http://www.magazinedigital.com/)
-        * [qualviagem.com.br/](http://www.qualviagem.com.br/)
-        * [viagemeturismo.abril.com.br/edicoes/](http://viagemeturismo.abril.com.br/edicoes/)
-        * [gooutside.com.br/](http://gooutside.com.br/)
-        * [horizontegeografico.com.br/](http://www.horizontegeografico.com.br/)
-        * [aproximaviagem.pt/](http://www.aproximaviagem.pt/)
-        * [lvivjournal.com/](http://www.lvivjournal.com/)
-        * [travelworld.org.ua/](http://travelworld.org.ua/)
-        * [lbmag.org/](http://lbmag.org/)
-        * [mandry.net.ua/](http://www.mandry.net.ua/)
-        * [travel.rambler.ru/articles/](https://travel.rambler.ru/articles/)
-        * [geo.ru/puteshestviya](http://www.geo.ru/puteshestviya)
-        * [cablook.com/category/mixlook/travel/](http://www.cablook.com/category/mixlook/travel/)
-        * [cosmo.ru/lifestyle/travel/](https://www.cosmo.ru/lifestyle/travel/)
-        * [geografia.ru/posvetu.html](http://www.geografia.ru/posvetu.html)
-        * [cablook.com/](http://www.cablook.com/)
-        * [vokrugsveta.com/](http://www.vokrugsveta.com/)
-        * [lonelyplanet.com/](http://www.lonelyplanet.com/)
-        * [geo.fr/](http://www.geo.fr/)
-        * [naturalezayviajes.com/](http://www.naturalezayviajes.com/)
-        * [italia.it/it/idee-di-viaggio.html](http://www.italia.it/it/idee-di-viaggio.html)
-        * [lonelyplanetitalia.it/](http://www.lonelyplanetitalia.it/)
-
-* [Jokes]()
+* [justlanded.com/deutsch](https://www.justlanded.com/deutsch)
+* [travelbook.de/](http://www.travelbook.de/)
+* [merian.de/](http://www.merian.de/)
+* [abenteuer-reisen.de/](https://www.abenteuer-reisen.de/)
+* [reiseaktuell.at/](http://www.reiseaktuell.at/)
+* [urlaubsguru.de/reisemagazin/](https://www.urlaubsguru.de/reisemagazin/)
+* [marcopolo.de/magazin/index.html](https://www.marcopolo.de/magazin/index.html)
+* [fernweh-magazin.com/](http://www.fernweh-magazin.com/)
+* [geo.de/magazine/17032-thma-geo-saison](http://www.geo.de/magazine/17032-thma-geo-saison)
+* [grands-reportages.com/](http://www.grands-reportages.com/)
+* [ar-mag.fr/](http://www.ar-mag.fr/)
+* [voyageursdumonde.fr/voyage-sur-mesure/magazine-voyage](http://www.voyageursdumonde.fr/voyage-sur-mesure/magazine-voyage)
+* [press-directory.com/presse-magazine/magazine-voyage.html](http://www.press-directory.com/presse-magazine/magazine-voyage.html)
+* [voyagemagazine.ru/](http://voyagemagazine.ru/)
+* [issuu.com/voyagemagazine](https://issuu.com/voyagemagazine)
+* [qoa-mag.com/es/](http://www.qoa-mag.com/es/)
+* [viajesmagazine.com/](http://viajesmagazine.com/)
+* [nationalgeographic.com.es/viajes](http://www.nationalgeographic.com.es/viajes)
+* [traveler.es/](http://www.traveler.es/)
+* [gq.ru/travel/](http://www.gq.ru/travel/)
+* [liligo.es/magazine-viajes/](http://www.liligo.es/magazine-viajes/)
+* [viajar.elperiodico.com/](http://viajar.elperiodico.com/)
+* [altairmagazine.com/](https://www.altairmagazine.com/)
+* [magazinedigital.com/](http://www.magazinedigital.com/)
+* [qualviagem.com.br/](http://www.qualviagem.com.br/)
+* [viagemeturismo.abril.com.br/edicoes/](http://viagemeturismo.abril.com.br/edicoes/)
+* [gooutside.com.br/](http://gooutside.com.br/)
+* [horizontegeografico.com.br/](http://www.horizontegeografico.com.br/)
+* [aproximaviagem.pt/](http://www.aproximaviagem.pt/)
+* [lvivjournal.com/](http://www.lvivjournal.com/)
+* [travelworld.org.ua/](http://travelworld.org.ua/)
+* [lbmag.org/](http://lbmag.org/)
+* [mandry.net.ua/](http://www.mandry.net.ua/)
+* [travel.rambler.ru/articles/](https://travel.rambler.ru/articles/)
+* [geo.ru/puteshestviya](http://www.geo.ru/puteshestviya)
+* [cablook.com/category/mixlook/travel/](http://www.cablook.com/category/mixlook/travel/)
+* [cosmo.ru/lifestyle/travel/](https://www.cosmo.ru/lifestyle/travel/)
+* [geografia.ru/posvetu.html](http://www.geografia.ru/posvetu.html)
+* [cablook.com/](http://www.cablook.com/)
+* [vokrugsveta.com/](http://www.vokrugsveta.com/)
+* [lonelyplanet.com/](http://www.lonelyplanet.com/)
+* [geo.fr/](http://www.geo.fr/)
+* [naturalezayviajes.com/](http://www.naturalezayviajes.com/)
+* [italia.it/it/idee-di-viaggio.html](http://www.italia.it/it/idee-di-viaggio.html)
+* [lonelyplanetitalia.it/](http://www.lonelyplanetitalia.it/)
+* [Jokes](...)
 
 What do you call someone with a banana stuck in each ear? Whatever you want, they can’t hear you.
 
@@ -2549,74 +2470,68 @@ Penser en algorithmes (Christian & Griffiths)
 
 A question is a set of alternative possibilities
 * [slate.com/technology/2021/10/facebook-unfollow-everything-cease-desist.html](https://slate.com/technology/2021/10/facebook-unfollow-everything-cease-desist.html)
-
-
 * General Useful Resources
-        * [Adulting Charts](https://www.buzzfeed.com/annaborges/what-is-adulting) - useful collection of lifehacks
-        * [goodmenproject.com/](http://goodmenproject.com/)
-        * [Good Men Project](https://goodmenproject.com/featured-content/your-brain-on-pornography-wcz/)
-        * [stickk.com/](https://www.stickk.com/)
-        * [Greater Good: The Science of a Meaningful Life](http://greatergood.berkeley.edu/)
-        * [collegeinfogeek.com/productivity/](https://collegeinfogeek.com/productivity/)
-        * [collegeinfogeek.com/career/](https://collegeinfogeek.com/career/)
-        * [collegeinfogeek.com/life/](https://collegeinfogeek.com/life/)
-        * [collegeinfogeek.com/learning/](https://collegeinfogeek.com/learning/)
-        * [uncommongoods.com/](https://www.uncommongoods.com/)
-        * [360financialliteracy.org/En-Espanol](https://www.360financialliteracy.org/En-Espanol)
-        * [](https://www.youtube.com/@benjaminkeep) - Channel on learning
-
+* [Adulting Charts](https://www.buzzfeed.com/annaborges/what-is-adulting) - useful collection of lifehacks
+* [goodmenproject.com/](http://goodmenproject.com/)
+* [Good Men Project](https://goodmenproject.com/featured-content/your-brain-on-pornography-wcz/)
+* [stickk.com/](https://www.stickk.com/)
+* [Greater Good: The Science of a Meaningful Life](http://greatergood.berkeley.edu/)
+* [collegeinfogeek.com/productivity/](https://collegeinfogeek.com/productivity/)
+* [collegeinfogeek.com/career/](https://collegeinfogeek.com/career/)
+* [collegeinfogeek.com/life/](https://collegeinfogeek.com/life/)
+* [collegeinfogeek.com/learning/](https://collegeinfogeek.com/learning/)
+* [uncommongoods.com/](https://www.uncommongoods.com/)
+* [360financialliteracy.org/En-Espanol](https://www.360financialliteracy.org/En-Espanol)
+* [](https://www.youtube.com/@benjaminkeep) - Channel on learning
 * Podcast / Video 1S
 
     If I had known then what I know now | Thelma Vogel | TEDxManaguade TEDx Talks
 
     ¿Qué hacemos cuando no sabemos qué hacer? | Yanina López | TEDxTandilde TEDx Talks
-        * ["duhigg" in podcasts | Listen Notes](https://www.listennotes.com/search/?q=duhigg&sort_by_date=0&scope=episode&offset=0&language=French&len_min=0&len_max=0&date_filter=any&country=Any%20region&ecount_min=0&ecount_max=0)
-        * [How to Read Philosophy in 6 Steps - YouTube](https://www.youtube.com/watch?v=1Gmqzqb4ETs)
-        * [Las Mentiras del EGO - YouTube](https://www.youtube.com/watch?v=CTTXW42T7aA)
+* ["duhigg" in podcasts | Listen Notes](https://www.listennotes.com/search/?q=duhigg&sort_by_date=0&scope=episode&offset=0&language=French&len_min=0&len_max=0&date_filter=any&country=Any%20region&ecount_min=0&ecount_max=0)
+* [How to Read Philosophy in 6 Steps - YouTube](https://www.youtube.com/watch?v=1Gmqzqb4ETs)
+* [Las Mentiras del EGO - YouTube](https://www.youtube.com/watch?v=CTTXW42T7aA)
 
     Rolf Dobelli in der ARD-Talkshow Sendung DAS!de victorbuhler
 
     La théorie du Cygne Noir: 9 leçons pour avoir plus de chance (30 jours, 30 livres) - YouTube
 
     Nassim Taleb - &quot;The Black Swan&quot; - YouTube
-        * [Difference Between Believing In Your Ideals &amp; Unrealistic Dreams - Elon Musk - Goalcast](https://www.goalcast.com/2017/01/12/elon-musk-difference-between-believing-ideals-unrealistic-dreams/)
-        * [le Cygne Noir France Culture - YouTube](https://www.youtube.com/watch?v=h-0T7f6tOyg)
-        * [ted.com/talks/linda_hill_how_to_manage_for_collective_creativity?language=en#t-520073](http://www.ted.com/talks/linda_hill_how_to_manage_for_collective_creativity?language=en#t-520073)
-
+* [Difference Between Believing In Your Ideals &amp; Unrealistic Dreams - Elon Musk - Goalcast](https://www.goalcast.com/2017/01/12/elon-musk-difference-between-believing-ideals-unrealistic-dreams/)
+* [le Cygne Noir France Culture - YouTube](https://www.youtube.com/watch?v=h-0T7f6tOyg)
+* [ted.com/talks/linda_hill_how_to_manage_for_collective_creativity?language=en#t-520073](http://www.ted.com/talks/linda_hill_how_to_manage_for_collective_creativity?language=en#t-520073)
 * Reading 1S
-        * [thesharpgentleman.com/10-hard-truths-in-life-you-need-to-hear/](https://thesharpgentleman.com/10-hard-truths-in-life-you-need-to-hear/)
-        * [inc.com/matthew-jones/20-brutal-truths-about-life-no-one-wants-to-admit.html](https://www.inc.com/matthew-jones/20-brutal-truths-about-life-no-one-wants-to-admit.html)
-        * [**How To Control Your Mind – Niklas Goeke – Medium](https://medium.com/@ngoeke/how-to-control-your-mind-3e2bcc07671e)**
+* [thesharpgentleman.com/10-hard-truths-in-life-you-need-to-hear/](https://thesharpgentleman.com/10-hard-truths-in-life-you-need-to-hear/)
+* [inc.com/matthew-jones/20-brutal-truths-about-life-no-one-wants-to-admit.html](https://www.inc.com/matthew-jones/20-brutal-truths-about-life-no-one-wants-to-admit.html)
+* [**How To Control Your Mind – Niklas Goeke – Medium](https://medium.com/@ngoeke/how-to-control-your-mind-3e2bcc07671e)**
 
     *[Most People Think This Is A Smart Habit, But It’s Actually Brain-Damaging](https://medium.com/accelerated-intelligence/most-people-think-this-is-a-smart-habit-but-its-actually-brain-damaging-7f71949cc128)**
-        * [15 things](https://www.lifehack.org/articles/lifestyle/extreme-minimalism-andrew-hyde-and-the-15-item-lifestyle.html)
-        * [16 Wildly Successful People Who Overcame Huge Obstacles To Get There | HuffPost](http://www.huffingtonpost.com/2013/09/25/successful-people-obstacles_n_3964459.html)
+* [15 things](https://www.lifehack.org/articles/lifestyle/extreme-minimalism-andrew-hyde-and-the-15-item-lifestyle.html)
+* [16 Wildly Successful People Who Overcame Huge Obstacles To Get There | HuffPost](http://www.huffingtonpost.com/2013/09/25/successful-people-obstacles_n_3964459.html)
 
     4 Best Things Do in your Free Time - What to do when you’re bored de Practical Psychology
-        * [8 Habits of Curious People](https://www.fastcompany.com/3045148/8-habits-of-curious-people)
+* [8 Habits of Curious People](https://www.fastcompany.com/3045148/8-habits-of-curious-people)
 
     Herausfinden warum jemand gemein zu dir ist – wikiHow
-        * [Good tips!](https://www.reddit.com/r/exmormon/comments/edwjgp/good_tips/)
-        * [http://www.buzzfeed.com/annaborges/what-is-adulting](http://www.buzzfeed.com/annaborges/what-is-adulting?bffb)
-        * [buzzfeed.com/carolynkylstra/impress-literally-everyone-you-meet](http://www.buzzfeed.com/carolynkylstra/impress-literally-everyone-you-meet)
-        * [forbes.com/sites/davidsturt/2015/06/11/decision-paralysis-why-its-prevalent-and-3-ways-to-end-it/](http://www.forbes.com/sites/davidsturt/2015/06/11/decision-paralysis-why-its-prevalent-and-3-ways-to-end-it/)
-        * [www3.forbes.com/leadership/10-morning-habits-successful-people-swear-by/2/](http://www3.forbes.com/leadership/10-morning-habits-successful-people-swear-by/2/)
-        * [Pravda pro Alkohol](https://vk.com/wall-129682455_128518)
-        * [Intrusive Thoughts: Why you get them and how to stop them, all types explained](http://moodsmith.com/intrusive-thoughts/)
-        * [http://kennedy.byu.edu/one-last-lecture/ - 5 priinciples](http://kennedy.byu.edu/one-last-lecture/)
-        * [Self control is overrated. Willpower is too. - Vox](https://www.vox.com/science-and-health/2018/1/15/16863374/willpower-overrated-self-control-psychology)
-        * [When does being intellectual become too much? - Quora](https://www.quora.com/When-does-being-intellectual-become-too-much)
-        * [news.byu.edu/news/byu-grad-tiny-choices-shape-our-lives](https://news.byu.edu/news/byu-grad-tiny-choices-shape-our-lives)
-        * [Gantt chart - Wikipedia](https://en.wikipedia.org/wiki/Gantt_chart)
-        * [quora.com/What-is-the-common-reasons-behind-unsuccessful-person](https://www.quora.com/What-is-the-common-reasons-behind-unsuccessful-person)
-        * [How To Germany - American Expats and the IRS in Germany](https://www.howtogermany.com/pages/ustaxes.html)
-        * [How to Stay Empathic without Suffering So Much | Greater Good](http://greatergood.berkeley.edu/article/item/how_to_stay_empathic_without_suffering_so_much)
-        * [qz.com/967594/the-formula-for-winning-at-life-is-actually-incredibly-simple/](https://qz.com/967594/the-formula-for-winning-at-life-is-actually-incredibly-simple/)
-        * [t3n.de/news/morgenroutine-normalsterbliche-start-in-den-tag-1208840/](https://t3n.de/news/morgenroutine-normalsterbliche-start-in-den-tag-1208840/)
-        * [aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more- intéressante objection à l'obsession avec l'innovation en faveur de la "maintenance"](https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more-)
-
+* [Good tips!](https://www.reddit.com/r/exmormon/comments/edwjgp/good_tips/)
+* [http://www.buzzfeed.com/annaborges/what-is-adulting](http://www.buzzfeed.com/annaborges/what-is-adulting?bffb)
+* [buzzfeed.com/carolynkylstra/impress-literally-everyone-you-meet](http://www.buzzfeed.com/carolynkylstra/impress-literally-everyone-you-meet)
+* [forbes.com/sites/davidsturt/2015/06/11/decision-paralysis-why-its-prevalent-and-3-ways-to-end-it/](http://www.forbes.com/sites/davidsturt/2015/06/11/decision-paralysis-why-its-prevalent-and-3-ways-to-end-it/)
+* [www3.forbes.com/leadership/10-morning-habits-successful-people-swear-by/2/](http://www3.forbes.com/leadership/10-morning-habits-successful-people-swear-by/2/)
+* [Pravda pro Alkohol](https://vk.com/wall-129682455_128518)
+* [Intrusive Thoughts: Why you get them and how to stop them, all types explained](http://moodsmith.com/intrusive-thoughts/)
+* [http://kennedy.byu.edu/one-last-lecture/ - 5 priinciples](http://kennedy.byu.edu/one-last-lecture/)
+* [Self control is overrated. Willpower is too. - Vox](https://www.vox.com/science-and-health/2018/1/15/16863374/willpower-overrated-self-control-psychology)
+* [When does being intellectual become too much? - Quora](https://www.quora.com/When-does-being-intellectual-become-too-much)
+* [news.byu.edu/news/byu-grad-tiny-choices-shape-our-lives](https://news.byu.edu/news/byu-grad-tiny-choices-shape-our-lives)
+* [Gantt chart - Wikipedia](https://en.wikipedia.org/wiki/Gantt_chart)
+* [quora.com/What-is-the-common-reasons-behind-unsuccessful-person](https://www.quora.com/What-is-the-common-reasons-behind-unsuccessful-person)
+* [How To Germany - American Expats and the IRS in Germany](https://www.howtogermany.com/pages/ustaxes.html)
+* [How to Stay Empathic without Suffering So Much | Greater Good](http://greatergood.berkeley.edu/article/item/how_to_stay_empathic_without_suffering_so_much)
+* [qz.com/967594/the-formula-for-winning-at-life-is-actually-incredibly-simple/](https://qz.com/967594/the-formula-for-winning-at-life-is-actually-incredibly-simple/)
+* [t3n.de/news/morgenroutine-normalsterbliche-start-in-den-tag-1208840/](https://t3n.de/news/morgenroutine-normalsterbliche-start-in-den-tag-1208840/)
+* [aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more- intéressante objection à l'obsession avec l'innovation en faveur de la "maintenance"](https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more-)
 * Books
-
 * Notes
 
     Viel besser drin werden, mir Ideen einfallen zu lassen und sie ordentlich aufzuschreiben und zu entwickeln.
@@ -2625,30 +2540,21 @@ A question is a set of alternative possibilities
 
     El arte de saber callar
 
-    - Analysis of sexual actions:
-        - Good reasons to have sex
+  * Analysis of sexual actions:
+* * Good reasons to have sex
 
+* * Bad reasons to have sex
 
-        - Bad reasons to have sex
+* * Good reasons to masturbate
 
-
-        - Good reasons to masturbate
-
-
-        - Bad reasons to masturbate
-
-
-
+* * Bad reasons to masturbate
 
 
 * [Learn confidently with mental models](https://www.youtube.com/watch?v=Vx-6-3HRazI)
-
-
 * [How To Think Like Leonardo da Vinci](https://link.sbstck.com/redirect/4b5cb2b4-63d1-45fa-aa6d-9c1d1404138b?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by Michael Gelb
 * [Leonardo da Vinci](https://link.sbstck.com/redirect/6e00d6c8-d12b-48ca-a046-6fa46b371fd3?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by Walter Isaacson
 * [Where Good Ideas Come From: The Natural History of Innovation](https://link.sbstck.com/redirect/426cd95a-cac6-489f-9501-7522f6dd877c?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by
-        * [Steven Johnson](https://open.substack.com/users/1408434-steven-johnson)
-
+* [Steven Johnson](https://open.substack.com/users/1408434-steven-johnson)
 * [The Diversity Bonus](https://link.sbstck.com/redirect/93fd95fc-2024-469f-b13a-6a9aed57c52f?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by researcher Scott Page
 * [Sparks of Genius: The Thirteen Thinking Tools of the World's Most Creative People](https://link.sbstck.com/redirect/0fbb1369-0737-4640-a57e-e6a59fb9eedc?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by researchers Robert & Michele Root-Bernstein
 * [Why Greatness Cannot Be Planned](https://link.sbstck.com/redirect/0ef84391-1232-492f-9520-41f82f061365?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by AI researchers Kenneth Stanley and Joel Lehman
@@ -2657,21 +2563,16 @@ A question is a set of alternative possibilities
 * [andrewchen.com/the-next-next-job/](https://andrewchen.com/the-next-next-job/)
 * [maryrosecook.com/blog/post/is-this-a-good-book-for-me-now](https://maryrosecook.com/blog/post/is-this-a-good-book-for-me-now)
 * [6 Reasons Highly Intelligent People Struggle Finding Love](https://www.youtube.com/watch?v=PiW7Fr-ZDoQ)
-
-
 * sexuality
-        * [Sex and Sexuality (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/sex-sexuality/#ValuSex)
-        * [libgen.is/search.php?req=sexual+conflict&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def](http://libgen.is/search.php?req=sexual+conflict&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
-        * [libgen.is/search.php?req=sexual+evolutionary+psychology&open=0&res=25&view=simple&phrase=1&column=def](http://libgen.is/search.php?req=sexual+evolutionary+psychology&open=0&res=25&view=simple&phrase=1&column=def)
-        * [Library Genesis: Matt Johnson - Great myths of intimate relationships : dating, sex, and marriage](http://libgen.is/book/index.php?md5=62FF3CF23487525DABFCCF84CF2F0C10)
-        * [nsfw](https://www.reddit.com/user/hellen5110)
-        * [khanacademy.org/college-careers-more/financial-literacy](https://www.khanacademy.org/college-careers-more/financial-literacy)
-
+* [Sex and Sexuality (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/sex-sexuality/#ValuSex)
+* [libgen.is/search.php?req=sexual+conflict&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def](http://libgen.is/search.php?req=sexual+conflict&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+* [libgen.is/search.php?req=sexual+evolutionary+psychology&open=0&res=25&view=simple&phrase=1&column=def](http://libgen.is/search.php?req=sexual+evolutionary+psychology&open=0&res=25&view=simple&phrase=1&column=def)
+* [Library Genesis: Matt Johnson - Great myths of intimate relationships : dating, sex, and marriage](http://libgen.is/book/index.php?md5=62FF3CF23487525DABFCCF84CF2F0C10)
+* [nsfw](https://www.reddit.com/user/hellen5110)
+* [khanacademy.org/college-careers-more/financial-literacy](https://www.khanacademy.org/college-careers-more/financial-literacy)
 * J
-        * [lesswrong.com/posts/R5yL6oZxqJfmqnuje/cultivating-a-state-of-mind-where-new-ideas-are-born](https://www.lesswrong.com/posts/R5yL6oZxqJfmqnuje/cultivating-a-state-of-mind-where-new-ideas-are-born)
-        * [t.me/books_lib_ua/2058](https://t.me/books_lib_ua/2058) power of habit UA
-
+* [lesswrong.com/posts/R5yL6oZxqJfmqnuje/cultivating-a-state-of-mind-where-new-ideas-are-born](https://www.lesswrong.com/posts/R5yL6oZxqJfmqnuje/cultivating-a-state-of-mind-where-new-ideas-are-born)
+* [t.me/books_lib_ua/2058](https://t.me/books_lib_ua/2058) power of habit UA
 * [Welcome to the Funny Farm: The All-True Misadventures of a Woman on the Edge](https://b-ok.cc/book/2708333/69f99a)
 * [Coping Mechanisms](https://www.youtube.com/watch?v=XUZ9VATeF_4&t=5s)
-
 

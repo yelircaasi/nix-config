@@ -13,7 +13,7 @@
 * [math.kit.edu/iag6/lehre/combinatorics2017s/media/script.pdf](http://www.math.kit.edu/iag6/lehre/combinatorics2017s/media/script.pdf)
 * [Clara Löh](http://www.mathematik.uni-regensburg.de/loeh/teaching/)
 * [Collection of Math Notes](https://folk.ntnu.no/hanche/notes/)
-- [**Universität Stuttgart - Fachbereich Mathematik - Lineare Algebra II bei Prof. Dr. A. Henke im Sommersemester 2020](https://info.mathematik.uni-stuttgart.de/LAAG-Henke-SS20/)
+* [**Universität Stuttgart - Fachbereich Mathematik - Lineare Algebra II bei Prof. Dr. A. Henke im Sommersemester 2020](https://info.mathematik.uni-stuttgart.de/LAAG-Henke-SS20/)
 * [Analysing Complexity | Macquarie University](https://www.coursera.org/learn/analysing-complexity)
 * [openedu.ru/course/msu/CALC1/](https://openedu.ru/course/msu/CALC1/)
 * [Simplicial Course --> Resources](https://www.mathi.uni-heidelberg.de/~rueschoff/ss17sset/)
@@ -22,7 +22,7 @@
 * [Высшая алгебра](https://www.lektorium.tv/course/26552)
 * [Компьютерная алгебра](https://www.lektorium.tv/node/32988)
 * [Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
-- [> Resources for Intro-Level Graduate Courses](https://www.math3ma.com/blog/resources-for-intro-level-graduate-courses)
+* [> Resources for Intro-Level Graduate Courses](https://www.math3ma.com/blog/resources-for-intro-level-graduate-courses)
 * [| GW Open edX](https://openedx.seas.gwu.edu/courses/course-v1:GW+EngComp4+2019/about)
 * [B.Sc. Mathematik | Fakultät 8 · Mathematik und Physik | Universität Stuttgart](https://www.f08.uni-stuttgart.de/studiengaenge/mathematik-bsc/)
 * [00 - Основы теории графов. О курсе](https://vk.com/video-16108331_456267430?list=8548292c085c7dba19)
@@ -51,7 +51,7 @@
 * [Höhere Mathematik I](https://www2.mathematik.tu-darmstadt.de/~haller/Skripten/SkriptHMI0910.pdf)
 * [IT](http://www.dmi.units.it/~tironi/#matdid)
 * [Introduction to Advanced Mathematics](https://www.math.fsu.edu/~mesterto/MGF3301.html)
-* [Intuit (RU)](http://www.intuit.ru/)
+* [Intuit (RU)
 * [LAAG](https://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/Koenig/WS17-18LAAG1/%20%20%20Inviato%20da%20iPhone)
 * [Lecture notes]](http://93.174.95.29/_ads/C2FC85220C60DDE7B37D05365A53D577)
 * [Lothar Göttsche's Homepage (Topo)](https://users.ictp.it/~gottsche/)
@@ -106,14 +106,14 @@
 * [Mathematik-Online-Kurs: LAAG](https://mo.mathematik.uni-stuttgart.de/kurse/kurs47/seite1.html)
 * [mitmath/18330: 18.330 Intro to Numerical Analysis](https://github.com/mitmath/18330)
 * [mitmath/18335: 18.335 - Introduction to Numerical Methods course](https://github.com/mitmath/18335)
-- [*Readings | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
-- [*First Course in Linear Algebra](http://linear.ups.edu/html/fcla.html)
-- [*Index of /~hunter/measure_theory](https://www.math.ucdavis.edu/~hunter/measure_theory/)
-- [*Index of /pub/Maths/Courseware](https://www.maths.tcd.ie/pub/Maths/Courseware/)
-- [*Introduction to Formal Concept Analysis - Startseite | Coursera](https://www.coursera.org/learn/formal-concept-analysis/home/welcome)
-- [*les.mathematiques - Cours de Mathematiques superieures](http://les.mathematiques.free.fr/pages/cours_zip.htm)
-- [*fastai/numerical-linear-algebra-v2: Jupyter Notebooks for Computational Linear Algebra course, taught summer 2018 in USF MSDS program](https://github.com/fastai/numerical-linear-algebra-v2)
-- [**Topologia curso IT](http://www.mat.uniroma3.it/users/caporaso/GE30708/GE30708.html)
+* [*Readings | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
+* [*First Course in Linear Algebra](http://linear.ups.edu/html/fcla.html)
+* [*Index of /~hunter/measure_theory](https://www.math.ucdavis.edu/~hunter/measure_theory/)
+* [*Index of /pub/Maths/Courseware](https://www.maths.tcd.ie/pub/Maths/Courseware/)
+* [*Introduction to Formal Concept Analysis - Startseite | Coursera](https://www.coursera.org/learn/formal-concept-analysis/home/welcome)
+* [*les.mathematiques - Cours de Mathematiques superieures](http://les.mathematiques.free.fr/pages/cours_zip.htm)
+* [*fastai/numerical-linear-algebra-v2: Jupyter Notebooks for Computational Linear Algebra course, taught summer 2018 in USF MSDS program](https://github.com/fastai/numerical-linear-algebra-v2)
+* [**Topologia curso IT](http://www.mat.uniroma3.it/users/caporaso/GE30708/GE30708.html)
 * [Crashkurs Statistik](http://www.crashkurs-statistik.de/)
 * [Введение в теорию информации](https://www.lektorium.tv/course/26243)
 * [Динамика](http://lektorium.tv/dinamika)
@@ -128,12 +128,10 @@
 * [GTWA](http://www.zib.de/groetschel/teaching/WS1314/BondyMurtyGTWA.pdf)
 * [Kurs mit Beispielen](http://www.ipipan.eu/~teisseyrep/TEACHING/ASM/Zadania/)
 * [yildiz.edu.tr/~tastan/teaching/AEsyllabus.pdf](http://www.yildiz.edu.tr/~tastan/teaching/AEsyllabus.pdf)
-
 * [Русскоязычный курс лекций от Computer Science Center по теории игр](https://vk.com/wall-24986735_113833)
 
 [foundations-of-applied-mathematics.github.io/](https://foundations-of-applied-mathematics.github.io/)
 [acme.byu.edu/2022-2023-materials/](https://acme.byu.edu/2022-2023-materials/)
-
 * [acme.byu.edu/2019-2020-materials/](http://acme.byu.edu/2019-2020-materials/)
 * [images.math.cnrs.fr/](http://images.math.cnrs.fr/)
 * [math.phys.msu.ru/Education/All_courses/show_page](http://math.phys.msu.ru/Education/All_courses/show_page)
@@ -157,15 +155,17 @@ Maths for Intelligent Systems (Toussaint)
 * [codingthematrix.com/](https://codingthematrix.com/) --> port to Julia
 * [math.byu.edu/klkuttle/Linearalgebra.pdf](https://math.byu.edu/klkuttle/Linearalgebra.pdf)
 * [ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
-* [Data Mining (RU)](http://www.intuit.ru/studies/courses/6/6/info)
+* [Data Mining (RU)
 Introduction to Applied Mathematics - Strang
 
 ## NN
+
 * [CS230 Deep Learning](http://cs230.stanford.edu/)
 * [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
 * [Нейронет: вводный курс](https://www.lektorium.tv/neuronet)
 
 ## Statistics
+
 * [cobe.boisestate.edu/economics/wp-content/ofa/syllabi/912-1482-1-Syllabus.pdf](https://cobe.boisestate.edu/economics/wp-content/ofa/syllabi/912-1482-1-Syllabus.pdf)
 * [faculty.fiu.edu/~tpfutze/trial2_files/Syllabus355_Spring15.pdf](http://faculty.fiu.edu/~tpfutze/trial2_files/Syllabus355_Spring15.pdf)
 * [aysps.gsu.edu/files/2016/09/ECON9730.pdf](http://aysps.gsu.edu/files/2016/09/ECON9730.pdf)
@@ -186,9 +186,10 @@ Introduction to Applied Mathematics - Strang
 * [bauer.uh.edu/rsusmel/phd/ec1-11.pdf](http://www.bauer.uh.edu/rsusmel/phd/ec1-11.pdf)
 
 ## Topology
+
 * [mathematik.uni-regensburg.de/loeh/teaching/topologie1_ws1516/lecture_notes.pdf](http://www.mathematik.uni-regensburg.de/loeh/teaching/topologie1_ws1516/lecture_notes.pdf)
 * [mathematik.uni-regensburg.de/loeh/teaching/topologie1_ws2122/lecture_notes.pdf](http://www.mathematik.uni-regensburg.de/loeh/teaching/topologie1_ws2122/lecture_notes.pdf)
-- [* Topology (Toronto)](http://www.math.toronto.edu/ivan/mat327/index.html?resources)
+* [* Topology (Toronto)
 * [Curso básico de Topología](http://topologiaparausuarios.es/Curso_de_Topologia/Introduccion_Curso.html)
 * [ETH Topologie](https://metaphor.ethz.ch/x/2019/fs/401-2554-00L/)
 * [Index of /~jsimon/COURSES/M132Fall07](http://homepage.math.uiowa.edu/~jsimon/COURSES/M132Fall07/)
@@ -212,8 +213,8 @@ Eisermann Topologie
 * [Topologie UW](https://www.mat.univie.ac.at/~stein/teaching/WS0506/top_ps.pdf)
 * [Topologie UB](https://www.math.uni-bielefeld.de/~sek/top/ss03/aufgab.html)
 
-
 ## Linear Algebra
+
 * LA Courses
 * [Unit II: Least Squares, Determinants and Eigenvalues | Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/)
 * [all notes (excellent algebra course):](http://www-users.math.umn.edu/~garrett/m/algebra/notes/)
@@ -244,6 +245,7 @@ Eisermann Topologie
 * [www-m11.ma.tum.de/en/karpfing/buecher/videoaufzeichnungen/](https://www-m11.ma.tum.de/en/karpfing/buecher/videoaufzeichnungen/)
 
 ## Anki
+
 * [Analysis I (DE)](https://ankiweb.net/shared/info/702190896)
 * [Graph Theory Basics](https://ankiweb.net/shared/info/469279678)
 * [Maths sup, définitions, théorèmes, propriétés](https://ankiweb.net/shared/info/1491273683)

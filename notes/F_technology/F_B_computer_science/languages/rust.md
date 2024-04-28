@@ -1,4 +1,5 @@
 # Rust
+
 * [dl.acm.org/doi/10.1145/3591283](https://dl.acm.org/doi/10.1145/3591283) Flux: Liquid Types for Rust
 * [r/rust/comments/1bul9sr/is_rust_really_that_good/](https://www.reddit.com/r/rust/comments/1bul9sr/is_rust_really_that_good/)
 * [filtra.io/rust-flox-mar-24](https://filtra.io/rust-flox-mar-24)
@@ -8,14 +9,11 @@
 * [users.rust-lang.org/t/enforcing-pure-functional-style/101584](https://users.rust-lang.org/t/enforcing-pure-functional-style/101584)
 * [r/rust/comments/1bwz7iv/untwine_the_simple_patternmatching_parsing/?rdt=64671](https://www.reddit.com/r/rust/comments/1bwz7iv/untwine_the_simple_patternmatching_parsing/?rdt=64671)
 
-
 ## Sample Code* [doc.rust-lang.org/stable/rust-by-example/](https://doc.rust-lang.org/stable/rust-by-example/)
+
 * [Command-Line Rust](https://drive.google.com/file/d/11otsnVI7E6nZXWV9MMig-4MPxspwtBIR/view?usp=sharing)
 * [Practical Rust Projects](https://drive.google.com/file/d/1cBAykJ_XCmMRe_37vo5Nd1VR3cy0Vm1r/view?usp=sharing)
 * [Other Rust book](https://drive.google.com/file/d/1tqr0l-434cYYPe24IqewkRBbwsiSl1I7/view?usp=sharing)
-
-bat
-
-exa
-
+* bat
+* exa
 * [rust-unofficial.github.io/too-many-lists/](https://rust-unofficial.github.io/too-many-lists/)

@@ -1,13 +1,13 @@
 # F
 
+## A. Genera$1
 
-## A. General
-
-Как работают машины.pdf
-
+* $2ак работают машины.pdf
 
 ## B. Informática
+
 ### CL & NLP
+
 #### Acoustics and Audio Signal Processing
 
 < → Linguistics> A Dictionary of Linguistics and Phonetics.pdf
@@ -34,7 +34,6 @@
 
 <1> Precis d'electro-acoustique. Prise de son et reproduction.pdf
 
-
 #### ASR
 
 < -1> Speech Recognition Slides Stuttgart →
@@ -52,7 +51,6 @@
 <1> Robust Digital Processing of Speech Signals.pdf
 
 <1> Automatic Speech Recognition of Arabic Phonemes with Neural Networks: A Contrastive Study of Arabic and English
-
 
 #### Bitext Alignment
 
@@ -98,10 +96,9 @@
 * Using Parallel Corpora for Translation-Oriented Term Extraction.pdf
 * Bitext Alignment Scratch - Crime and Punishment.gsheet
 
+#### Conversational A$1
 
-#### Conversational AI
-
-Разработка чат-ботов
+* $2азработка чат-ботов
 
 <-1> LLM Chatbot Family Tree.jpg
 
@@ -124,10 +121,9 @@
 * Hands-On Chatbots and Conversational UI Development.pdf
 * Oracle Digital Assistant. A Guide to Enterprise-Grade Chatbots.pdf
 
-
 #### Corpus Linguistics
 
-Korpusbearbeitung für Sprachwissenschaftler.pdf
+* Korpusbearbeitung für Sprachwissenschaftler.pdf
 * An Introduction  to Corpus Linguistics.pdf
 * Korpuslinguistik in der linguistischen Lehre: Erfolge und Misserfolge.pdf
 * Quantitative Corpus Linguistics:  A practical overview.pdf
@@ -146,8 +142,8 @@ Korpusbearbeitung für Sprachwissenschaftler.pdf
 * CONTEMPORARY CORPUS LINGUISTICS.pdf
 * Einführung in die Korpuslinguistik mit DeReKo und COSMAS II.pdf
 
-
 #### General CL
+
 * [ o==o ] The Mathematics of Language (Kracht)
 * The Mathematics of Language (Kracht) - Review
 * Introduction to the Mathematics of Language (Hammond 2015)
@@ -184,7 +180,7 @@ Korpusbearbeitung für Sprachwissenschaftler.pdf
 * word2vec Parameter Learning Explained.pdf
 * Natural Language Processing  with Transformers.epub
 * Text Analytics with Python.pdf
-* Natural Language Processing in Action- Understanding, analyzing, and generating text with Python***.pdf
+* Natural Language Processing in Action- Understanding, analyzing, and generating text with Python.pdf
 * NLP in Action.pdf
 * Taming Text.pdf
 * Linguistic Fundamentals for Natural Language Processing (I).pdf
@@ -225,7 +221,7 @@ Korpusbearbeitung für Sprachwissenschaftler.pdf
 * Speech and Language Processing 3E (draft).pdf
 * The Oxford Handbook of Computational Linguistics.pdf
 * NLTK 3 Cookbook.pdf
-* The Handbook of Computational Linguistics and Natural Language Processing *** (2010).pdf
+* The Handbook of Computational Linguistics and Natural Language Processing  (2010).pdf
 * The Handbook on Computational Linguistics and Natural Language Processing.pdf
 * Алгоритмы обработки текста. 125 задач с решениями.pdf
 * Spectral Methods for Natural Language Processing.pdf
@@ -269,7 +265,6 @@ Korpusbearbeitung für Sprachwissenschaftler.pdf
 * Python Natural Language Processing Cookbook
 * Text Mining Mindmap
 
-
 #### HMM & Parsing
 
 < -1> Earley Slides.pdf
@@ -298,7 +293,6 @@ Korpusbearbeitung für Sprachwissenschaftler.pdf
 
 <3> Trends in Parsing Technology. Dependency Parsing, Domain Adaptation, and Deep Parsing.pdf
 
-
 #### IR
 
 <0r> An Introduction to Information Retrieval (2009).pdf
@@ -325,15 +319,13 @@ Korpusbearbeitung für Sprachwissenschaftler.pdf
 
 <9> Введение в информационный поиск.djvu
 
-
 #### Kurse
 
-dl →
+* dl →
 * ir →
 * methods →
 * tt →
 * HSE Coursera →
-
 
 #### Misc. Literature →
 
@@ -421,10 +413,9 @@ dl →
 
 <Sem> Zur Ontologie der Bedeutung sprachlicher Ausdrucke
 
-
 #### MT
 
-Ed 01.pdf
+* Ed 01.pdf
 * Ed 02.pdf
 * Ed 03.pdf
 * Ed 04.pdf
@@ -518,7 +509,6 @@ Ed 01.pdf
 * Using Morpho-Syntactic and SemanticInformation to Improve StatisticalMachine Translation.pdf
 * Word Translation Entropy.pdf
 
-
 #### NN for CL
 
 < -1> Computational Linguistics and Deep Learning.pdf
@@ -549,11 +539,11 @@ Ed 01.pdf
 
 <2> Natural Language Processing with TensorFlow.pdf
 
-
 #### Problems and Solutions
+
 ##### Top
 
-Collins Questions 1 Solutions.pdf
+* Collins Questions 1 Solutions.pdf
 * Collins Questions 1.pdf
 * Collins Questions 1b Solutions.pdf
 * Collins Questions 1b.pdf
@@ -632,8 +622,8 @@ Collins Questions 1 Solutions.pdf
 * Speech and Language Processing Solutions Manual 2nd Edition.pdf
 * UCLA Quiz 3 Solutions.pdf
 
-
 ##### <General>
+
 * Advanced AI 2.ps
 * Advanced AI 3.ps
 * Advanced AI 4.ps
@@ -757,10 +747,9 @@ Collins Questions 1 Solutions.pdf
 * Wisc Advanced NLP HW4.pdf
 * Wisc Advanced NLP HW5.pdf
 
-
 #### Projects
 
-latex_create (1).xlsx
+* latex_create (1).xlsx
 * latex_create.xlsx
 * Memrise => Anki.gsheet
 * NameExtractor .py
@@ -776,10 +765,12 @@ latex_create (1).xlsx
 * wiktionary1.py.gdoc
 * ytscraper .py
 
-
 #### Semantik
+
 ##### Papers →
+
 ##### Embeddings and Distributional Semantics
+
 ##### <General>
 
 <Emb> Embeddings in Natural Language Processing. Theory and Advances in Vector Representation of Meaning.pdf
@@ -982,7 +973,6 @@ latex_create (1).xlsx
 
 <Psy> Wortbildung. Grundlagen einer kognitiven Wortsemantik.pdf
 
-
 #### Specific areas (compling)
 
 <1> A Grammar Writer's Cookbook.pdf
@@ -1033,7 +1023,6 @@ latex_create (1).xlsx
 
 < -1> ttda - une librairie R pour l’analyse de données textuelles.pdf
 
-
 #### Speech Processing (General)
 
 < -1> ASR and TTS
@@ -1058,21 +1047,20 @@ latex_create (1).xlsx
 
 <2> Speech Enhancement, Modeling and Recognition.pdf
 
-
 #### Thesis Literature →
+
 #### Tier 1
 
-125 Problems in Text Algorithms.pdf
+* 125 Problems in Text Algorithms.pdf
 * The Natural Language Processing Workshop
 
-
 #### Tier 2
+
 #### TTS
 
-Papers from Möbius Course →
+* Papers from Möbius Course →
 * Slides from Möbius Course →
 * Text-to-speech synthesis
-
 
 #### Topic Modeling
 
@@ -1116,7 +1104,7 @@ Papers from Möbius Course →
 
 <0> Survey of Text Mining II. Clustering, Classification, and Retrieval
 
-<0***> Text Data Mining (2021)
+<0> Text Data Mining (2021)
 
 <0> Text Mining
 
@@ -1134,7 +1122,7 @@ Papers from Möbius Course →
 
 < -1> Topic modeling in software engineering research
 
-< -1***> Topic Models (Blei)
+< -1> Topic Models (Blei)
 
 < -2> Trends and Applications of Text Summarization Techniques
 
@@ -1142,28 +1130,26 @@ Papers from Möbius Course →
 
 <0> Wissensrohstoff Text - Eine Einführung in das Text Mining
 
-
 #### Semantic Relations
 
-Ontology Matching.pdf
+* Ontology Matching.pdf
 * Probing Semantic Relations. Exploration and identification in specialized texts.pdf
 * Semantic Relations between Nominals (Nastase et al.).pdf
 * Semantic Relations between Nominals (slides).pdf
 * The Description Logic Handbook.pdf
 * The Description Logic Handbook.pdf
 
-
 #### Text Summarization Papers
 
-PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization
+* PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization
 * TLDR: Extreme Summarization of Scientific Documents
 * XSum - Don’t Give Me the Details, Just the Summary! Topic-Aware Convolutional Neural Networks for Extreme Summarization
 
-
 ### General Programming and CS
+
 #### Algorithms and Data Structures
 
-40 алгоритмов, которые должен знать каждый программист на Python
+* 40 алгоритмов, которые должен знать каждый программист на Python
 * Algorithms Illuminated. Part 4 - Algorithms for NP-Hard Problems
 * Introduction to Algorithms and Data Structures 1. A solid foundation
 * Once upon an Algorithm
@@ -1172,43 +1158,31 @@ PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization
 * Жемчужины проектирования алгоритмов функциональный подход
 * Математические алгоритмы для программистов
 
-
 ##### Project Euler
-  * MyPlayground.playground →
 
+  * MyPlayground.playground →
 
   * playground-c →
 
-
   * project_euler .py
-
 
   * project_euler (1).py
 
-
   * project_euler_c_1.ipynb
-
 
   * project_euler_java
 
-
   * project_euler_java.java
-
 
   * project_euler_r_1.ipynb
 
-
   * project_euler.c
-
 
   * project_euler.cpp
 
-
   * project_euler.h
 
-
   * project_euler.hpp
-
 
   * project_euler.java
 
@@ -1469,9 +1443,10 @@ PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization
 <r> Algorithms Every Programmer Should Know.pdf
 
 <r> Introduction to Algorithms - Notes.pdf
+
 #### Blockchain etc.
 
-Blockchain in Action
+* Blockchain in Action
 * Криптографические основы блокчейн технологий.pdf
 * Blockchain based Internet of Things.pdf
 * Blockchain in Action.pdf
@@ -1484,10 +1459,9 @@ Blockchain in Action
 
 <> Mastering Blockchain.epub
 
-
 #### Compilers, Interpreters, etc.
 
-Introduction to Compiler Design
+* Introduction to Compiler Design
 
 <0> An Introduction to GCC. For the GNU Compilers GCC and G++.pdf
 
@@ -1519,10 +1493,9 @@ Introduction to Compiler Design
 
 <1> Конструирование компиляторов
 
-
 #### Cryptography, Security, Hacking
 
-Cybersecurity Blue Team Strategies
+* Cybersecurity Blue Team Strategies
 * Cybersecurity for Dummies
 * Security Chaos Engineering
 * Practical Data Privacy
@@ -1615,14 +1588,13 @@ Cybersecurity Blue Team Strategies
 
 <2> СЕКРЕТЫ И ЛОЖЬ. БЕЗОПАСНОСТЬ ДАННЫХ В ЦИФРОВОМ МИРЕ.pdf
 
-
 #### General
+
 ##### Sedgewick Set
+
   * Introduction to Programming in Python. An Interdisciplinary Approach.pdf
 
-
   * Introduction to Programming in Java. An Interdisciplinary Approach.pdf
-
 
   * Computer Science. An Interdisciplinary Approach.pdf
 
@@ -1716,11 +1688,11 @@ Cybersecurity Blue Team Strategies
 
 <0> Lexikon der Informatik.pdf
 
-<0> Logic and Language Models for Computer Science.pdf ***
+<0> Logic and Language Models for Computer Science.pdf 
 
-<0> Mathematics for Informatics and Computer Science.pdf ***
+<0> Mathematics for Informatics and Computer Science.pdf 
 
-<0> Mathematics in Cyber Research.pdf ***
+<0> Mathematics in Cyber Research.pdf 
 
 <0> Mathematische Grundlagen für die Informatik. Mengen, Logik, Rekursion.pdf
 
@@ -1842,27 +1814,24 @@ Cybersecurity Blue Team Strategies
 
 <D> Теоретический Минимум по CS - Notes.tex
 
-
 #### History
 
-Histoire Informatique.pdf
+* Histoire Informatique.pdf
 * Computergeschichte.pdf
 * Die Uhr tickt (Zuse).pdf
 * La catedral de Turing
 * Хард и софт
 * Exploring the Early Digital.pdf
 
-
 #### Miscellaneous
-##### Game Dev
-  * <G> Code the Classics, Volume 1
 
+##### Game Dev
+
+  * <G> Code the Classics, Volume 1
 
   * <G> Game Engine Black Book. Wolfenstein 3D
 
-
   * <G> Игровой движок. Программирование и внутреннее устройство.pdf
-
 
   * <G> Разработка игр и теория развлечений.pdf
 
@@ -1891,7 +1860,6 @@ Histoire Informatique.pdf
 <3> Current Trends in Semantic Web Technologies. Theory and Practice.pdf
 
 <3> Functional and Logic Programming.pdf
-
 
 #### OOP and Design Patterns
 
@@ -1922,7 +1890,6 @@ Histoire Informatique.pdf
 <0> Head First Паттерны проектирования 2е
 
 <9> Приемы объектно-ориентированного программирования.epub
-
 
 #### Operating Systems
 
@@ -1982,14 +1949,13 @@ Histoire Informatique.pdf
 
 <1> Современные операционные системы.pdf
 
-
 #### Practice
+
 ##### Meta
+
   * Developer Career Masterplan
 
-
   * Карьера Software Engineering Manager
-
 
   * Путь в ИТ 2020
 * Handbook of Software Fault Localization
@@ -2349,10 +2315,9 @@ Histoire Informatique.pdf
 
 <1> Software Engineering with UML.pdf
 
-
 #### Quantum
 
-Quantum Computing for Everyone
+* Quantum Computing for Everyone
 * Quantum Mechanics And Bayesian Machines
 * Квантовые вычисления для настоящих айтишников.pdf
 * A Practical Guide to Quantum Machine Learning (2023).pdf
@@ -2367,10 +2332,9 @@ Quantum Computing for Everyone
 * Программирование квантовых компьютеров
 * Изображение квантовых процессов
 
-
 #### Regular Expressions
 
-Learning Regular Expressions (Ben Forta)
+* Learning Regular Expressions (Ben Forta)
 
 <0> Regex RU.pdf
 
@@ -2390,10 +2354,9 @@ Learning Regular Expressions (Ben Forta)
 
 <9> Regex RU.djvu
 
-
 #### Theory of Computation
 
-Information and coding theory in computer science
+* Information and coding theory in computer science
 * Logic And Language Models For Computer Science, 4th Edition
 
 <1r> A Course in Formal Languages, Automata and Groups.pdf
@@ -2510,7 +2473,6 @@ Information and coding theory in computer science
 
 <1> A Philosophical Companion to First-Order Logic.pdf
 
-
 #### Testing and Refactoring
 
 < -1> Introduction to Software Testing (Apress).pdf
@@ -2538,7 +2500,6 @@ Information and coding theory in computer science
 <1> Погружение в Рефакторинг (Java).pdf <use site refactoring.guru>
 
 <1> Тестирование и отладка программ для профессионалов будущих и настоящих.pdf
-
 
 ### Interview
 
@@ -2592,11 +2553,11 @@ Information and coding theory in computer science
 
 <0> UNIX Shell Scripting Interview Questions, Answers, and Explanations.pdf
 
-
 ### Languages
+
 #### C_C++
 
-Beginning Programming with C For Dummies
+* Beginning Programming with C For Dummies
 * C++ Networking 101
 * C++ Templates The Complete Guide
 * Лингвистические основы языка программирования С
@@ -3085,10 +3046,9 @@ Beginning Programming with C For Dummies
 
 <Pr> Решение задач на современном C++.pdf
 
-
 #### Database
 
-Database Performance at Scale
+* Database Performance at Scale
 * Learn PostgreSQL
 * Learning Snowflake SQL and Scripting
 * Production-Ready GraphQL
@@ -3183,28 +3143,25 @@ Database Performance at Scale
 
 <SQL> Изучаем SQL. Генерация, выборка и обработка данных 3е.pdf
 
-
 #### Go
 
-Full-Stack Web Development with Go
+* Full-Stack Web Development with Go
 * Efficient Go
 * Go Crazy
 * Golang для профи
 * Shipping Go
 * Why is Go-Kit Perfect For Clean Architecture in Golang
 
-
 ##### Tier -1
 
-Go from the Beginning
+* Go from the Beginning
 * Введение в программирование на Go
 * Everyday Go - The Fast Track for Golang.pdf
 * Go Succinctly.pdf
 
-
 ##### Tier 0
 
-100 Go Mistakes and How to Avoid Them.pdf
+* 100 Go Mistakes and How to Avoid Them.pdf
 * Go in Practice. includes 70 Techniques.pdf
 * Get Programming with Go.pdf
 * Go идиомы и паттерны проектирования.pdf
@@ -3217,26 +3174,22 @@ Go from the Beginning
 * Software Development with Go. Cloud-Native Programming using Golang with Linux and Docker (2023).pdf
 * Golang for Jobseekers.pdf
 
-
 ##### Tier 1
 
-Build Systems with Go.pdf
+* Build Systems with Go.pdf
 * Облачный Go.pdf
 * Machine Learning with Go. Quick Start Guide
 * Shipping Go.pdf
 * Hands-On System Programming with Go.pdf
 
+##### Tier $1
 
-##### Tier 2
-
-Программирование на Go. Разработка приложений XXI века.pdf
-
+* $2рограммирование на Go. Разработка приложений XXI века.pdf
 
 ##### Tier 9
 
-Head First Go
+* Head First Go
 * Head First Go.pdf
-
 
 #### Haskell
 
@@ -3268,10 +3221,9 @@ Head First Go
 
 <1> The Haskell Road to Logic, Maths and Programming.pdf
 
-
 #### Java
 
-A Functional Approach to Java
+* A Functional Approach to Java
 * Designing Hexagonal Architecture with Java
 * Functional Programming in Java
 * Learn Java with Projects
@@ -3281,39 +3233,37 @@ A Functional Approach to Java
 * Practical Design Patterns for Java Developers
 * Quick Java
 
-
 ##### JVM
 
-Java and the Java Virtual Machine Definition, Verification, Validation.pdf
+* Java and the Java Virtual Machine Definition, Verification, Validation.pdf
 * The Java Virtual Machine Specification.pdf
 * Programming for the Java Virtual Machine.pdf
 * Principles of Computer Organization and Assembly Language Using the JavaTM Virtual Machine.pdf
 * Java Virtual Machine.pdf
 * Decompiling Java.pdf
 
-
 ##### Tier -1
 
-How to Read Java
+* How to Read Java
 
+##### Tier $1
 
-##### Tier 0
-
-Программируем на Java (2023)
+* $2рограммируем на Java (2023)
 * Building Java Programs. A Back to Basics Approach.pdf
 * Fundamentals of Java Programming.pdf
 
-
 ##### Tier 1
 
-97 Things every Java Developer Should Know.pdf
+* 97 Things every Java Developer Should Know.pdf
 * A Functional Approach to Java.pdf
 * A Functional Approach to Java (v2).pdf
 
-
 ##### Tier 2
+
 ##### Tier 3
+
 ##### Tier 9
+
 ##### SORT
 
 < -1> Core Java Cheatsheet.pdf
@@ -3550,10 +3500,9 @@ How to Read Java
 
 <r> JAVA 2021 лёгкий старт
 
-
 #### JavaScript
 
-JavaScript for Web Developers
+* JavaScript for Web Developers
 * JavaScript Programming
 * Learn Three.js
 * Learning JavaScript Design Patterns
@@ -3686,7 +3635,6 @@ JavaScript for Web Developers
 
 < -1> Javascript. On-Demand Dictionary.pdf
 
-
 #### Julia
 
 <1> Julia for Data Science (2023).pdf
@@ -3789,13 +3737,14 @@ JavaScript for Web Developers
 
 <> ЯЗЫК ПРОГРАММИРОВАНИЯ МАТЕМАТИЧЕСКИХ ВЫЧИСЛЕНИЙ JULIA. БАЗОВОЕ РУКОВОДСТВО.pdf
 
-
 #### LaTeX
+
 ##### Graphics in LaTeX
+
 ##### Music in LaTeX→
 
-
 ##### LaTeX Templates →
+
 ##### SORT
 
 <bib> Citations et références en sciences  naturelles.pdf
@@ -3882,7 +3831,6 @@ JavaScript for Web Developers
 
 <G> TikZ Tutorial.pdf
 
-
 #### Lua
 
 <> Lua Programming Gems.pdf
@@ -3904,7 +3852,6 @@ JavaScript for Web Developers
 <> Programando em Lua (2015).pdf
 
 <> Programming in Lua (2006).pdf
-
 
 #### Other Languages
 
@@ -3946,7 +3893,6 @@ JavaScript for Web Developers
 * Functional Programming with Csharp
 * Qt 6 QML
 
-
 #### Perl
 
 <0> Программирование на Perl (4е).pdf
@@ -3957,13 +3903,11 @@ JavaScript for Web Developers
 
 <9> Программирование на Perl.djvu
 
-
 #### Prolog
 
-Logic Programming with Prolog.pdf
+* Logic Programming with Prolog.pdf
 * Applications of Prolog.pdf
 * Künstliche Gesellschaften mit PROLOG. Grundlagen sozialer Simulation.pdf
-
 
 #### Python
 
@@ -3981,10 +3925,9 @@ Logic Programming with Prolog.pdf
 * Useful Python
 * Сверхбыстрый Python
 
-
 ##### Python Code
 
-360 →
+* 360 →
 * 360_7 .py
 * 50la (1).py.gdoc
 * 580py
@@ -4020,50 +3963,43 @@ Logic Programming with Prolog.pdf
 * ted1.py.gdoc
 * wp.py.gdoc
 
-
 ##### Cython
 
-Cython: The Best of Both Worlds.pdf
+* Cython: The Best of Both Worlds.pdf
 * Fast numerical computations with Cython.pdf
-
 
 ##### Data
 
-Scaling Python with Dask.pdf
+* Scaling Python with Dask.pdf
 * Pandas in Action.pdf
 * Practical Python Data Wrangling and Data Quality.pdf
 * Python for Data Analysis.pdf
 * Thinking in Pandas. How to Use the Python Data Analysis Library the Right Way.pdf
 * Web Scraping with Python.pdf
 * Data Structures and Algorithms
-
-Data Structures & Algorithms in Python.pdf
+* Data Structures & Algorithms in Python.pdf
 * Data Structures with Python.pdf
-
 
 ##### Functional
 
-A functional start to computing with Python.pdf
+* A functional start to computing with Python.pdf
 * Functional Programming in Python (2019).pdf
 * Functional Programming in Python.pdf
 * Functional Python Programming. Discover the power of functional programming, generator functions, lazy evaluation, the built-in itertools library, and monads.pdf
 
-
 ##### Game
 
-Invent Your Own Computer Games with Python.pdf
+* Invent Your Own Computer Games with Python.pdf
 * Objected-Oriented Python.pdf
-
 
 ##### Internals
 
-CPython Internals
+* CPython Internals
 * Inside the Python Virtual Machine.pdf
-
 
 ##### Numerical, Math, Scientific
 
-Applying Math with Python.pdf
+* Applying Math with Python.pdf
 * Doing Math with Python.pdf
 * Guide to NumPy (2006).pdf
 * Elementary Math for Computer Science with Python.pdf
@@ -4077,18 +4013,16 @@ Applying Math with Python.pdf
 
 <0> Fast Python.pdf
 
-
 ##### Miscellaneous
 
-C and Python Applications.pdf
+* C and Python Applications.pdf
 * Full-Stack Python Security.pdf
 * Hardcore Programming for Mechanical Engineers.pdf
 * Создание настольных Python приложений.pdf
 
-
 ##### Projects and Tasks
 
-53 Must Do Python Projects For All
+* 53 Must Do Python Projects For All
 * 71 Python projects with references and source code.pdf
 * Learn to Code by Solving Problems (Python)
 * Practical Python Projects
@@ -4101,10 +4035,9 @@ C and Python Applications.pdf
 * Автоматизация рутинных задач с помощью Python.pdf
 * Однострочники Python лаконичный и содержательный код.pdf
 
-
 ##### Tier -1
 
-Pass the Python Interview.pdf
+* Pass the Python Interview.pdf
 * A cheat-sheet for all the data structures in Python.jpg
 * BYU Python Essentials.pdf
 * Full Speed Python.pdf
@@ -4138,10 +4071,9 @@ Pass the Python Interview.pdf
 * Основы Python (2021).pdf
 * Quick Python 3.pdf
 
-
 ##### Tier 0
 
-Advanced Python Programming 2e.pdf
+* Advanced Python Programming 2e.pdf
 * Architecture Patterns with Python
 * Clean Code in Python
 * Fluent Python (2e).pdf
@@ -4182,10 +4114,9 @@ Advanced Python Programming 2e.pdf
 * Чистый Python.pdf
 * Python. Лучшие практики и инструменты (4е).pdf
 
-
 ##### Tier 1
 
-Advanced Guide to Python 3 Programming.pdf
+* Advanced Guide to Python 3 Programming.pdf
 * Advanced Python Development.pdf
 * Beyond the Basic Stuff with Python. Best Practices.pdf
 * Clean Architectures in Python.pdf
@@ -4213,10 +4144,9 @@ Advanced Guide to Python 3 Programming.pdf
 * Стандартная библиотека Python 3.pdf
 * Учимся программировать с примерами на Python.pdf
 
-
 ##### Tier 2
 
-Byte of Python RU
+* Byte of Python RU
 * Cloud Native Python.pdf
 * Fundamentals of Python Programming.pdf
 * Handbook of Computer Programming with Python.pdf
@@ -4224,15 +4154,13 @@ Byte of Python RU
 * Изучаем Python, том 1.pdf
 * Изучаем Python, том 2.pdf
 
-
 ##### Tier 3
 
-Object-Oriented Programming in Python.pdf
-
+* Object-Oriented Programming in Python.pdf
 
 ##### Tier 9
 
-Clean Architectures in Python.pdf
+* Clean Architectures in Python.pdf
 * Efektywny Python 59 sposobow na lepszy kod.pdf
 * Fluent Python (2015).pdf
 * Fluent Python. Clear, Concise, and Effective Programming (2022).epub
@@ -4243,11 +4171,11 @@ Clean Architectures in Python.pdf
 * Python Internals for Developers
 * Supercharged Python.epub
 
-
 #### R
+
 ##### Manuales
 
-Brise Glace R.pdf
+* Brise Glace R.pdf
 * Il linguaggio R.pdf
 * Introdução à Programação em R.pdf
 * Introdução ao uso do programa R.pdf
@@ -4257,7 +4185,6 @@ Brise Glace R.pdf
 * R Reader (DE).pdf
 * Вступ до R.pdf
 * Наглядная статистика.  Используем R!
-
 
 ##### SORT
 
@@ -4298,10 +4225,9 @@ Brise Glace R.pdf
 
 <> Tidy Modeling with R
 
-
 #### Rust
 
-Rust Servers, Services, and Apps
+* Rust Servers, Services, and Apps
 * Rust в действии
 
 <0> Beginning Rust.pdf
@@ -4348,10 +4274,9 @@ Rust Servers, Services, and Apps
 
 <0> Программирование на Rust. Официальный гайд от команды разработчиков.pdf
 
-
 #### Scala
 
-Scala for the Impatient.pdf
+* Scala for the Impatient.pdf
 * Scala Succinctly.pdf
 * Beginning Scala 3.pdf
 * Scala in Action.pdf
@@ -4362,7 +4287,6 @@ Scala for the Impatient.pdf
 * Scala Introduction.pdf
 * Scala Data Analysis Cookbook.pdf
 * Scala. Профессиональное программирование.pdf
-
 
 #### Scheme, Racket, Lisp
 
@@ -4384,27 +4308,22 @@ Scala for the Impatient.pdf
 
 <1> Practical Common Lisp-Apress (2005)
 
-
 #### Shell / Linux
 
-Linux for System Administrators
+* Linux for System Administrators
 * Using and Administering Linux: Volume 3
 * Pro Bash
 * Идиомы bash
 
-
 ##### Color Schemes
-  * Color schemes.png
 
+  * Color schemes.png
 
   * Green and blue colors.png
 
-
   * Green and Blue Theme.png
 
-
   * Muted Green.png
-
 
   * Old Dark Green Desktop.png
 
@@ -4568,20 +4487,18 @@ Linux for System Administrators
 
 <0> Сценарии командной оболочки.pdf
 
-
 #### Vim
 
-A Byte of Vim.pdf
+* A Byte of Vim.pdf
 * Просто о Vim.pdf
 * Learn Vimscript the Hard Way.pdf
 * Learning the vi and Vim Editors. Power and Agility Beyond Just Text Editing.pdf
 * Vim Tutorial.pdf
 * Mastering Vim
 
-
 #### XML, JSON, etc.
 
-Beginning XML
+* Beginning XML
 * Introduction to JSON.pdf
 * Java XML and JSON Document Processing.pdf
 * XML and JSON Recipes for SQL Server
@@ -4591,10 +4508,9 @@ Beginning XML
 * JavaScript JSON Cookbook
 * Introduction to JSON
 
-
 #### <General>
 
-From Objects to Functions
+* From Objects to Functions
 * Learn Functional Programming
 
 < -1> Programming Paradigms Intro Slides.pdf
@@ -4663,14 +4579,12 @@ From Objects to Functions
 
 <9> Seven Languages in Seven Weeks.pdf
 
-
 ### Low-Level
 
-Agile Model-Based Systems Engineering Cookbook
+* Agile Model-Based Systems Engineering Cookbook
 * APRENDE ARDUINO PASO A PASO CURSO AVANZADO
 * Hands-on Booting
 * Processor Design
-
 
 #### Assembler
 
@@ -4686,9 +4600,9 @@ Agile Model-Based Systems Engineering Cookbook
 
 < -1> NASM Docs.pdf
 
-<0***> Learn to Program with Assembly.pdf
+<0> Learn to Program with Assembly.pdf
 
-<0***> Assembly Language Step-by-Step - Programming with Linux.pdf
+<0> Assembly Language Step-by-Step - Programming with Linux.pdf
 
 <0*> Assembly Programming and Computer Architecture for Software Engineers.pdf
 
@@ -4747,18 +4661,16 @@ Agile Model-Based Systems Engineering Cookbook
 <0> Профессиональное программирование на ассемблере x64 с расширениями.pdf
 * Modern X86 Assembly Language Programming
 
-
 #### DIY Instruction
 
-Build Your Own PC
+* Build Your Own PC
 * How to Build a Working Digital Computer.pdf
 * How to Design, Build, & Program Your Own Working Computer System.pdf
 * Build Your Own Z80 Computer
 
-
 #### Electronics
 
-A Peek at Computer Electronics.pdf
+* A Peek at Computer Electronics.pdf
 * Электроника шаг за шагом.pdf
 * Introduction to Logic Circuits and Logic Design with VHDL.pdf
 * Electronic Digital System Fundamentals.pdf
@@ -4812,27 +4724,25 @@ A Peek at Computer Electronics.pdf
 * Электротехника.djvu
 * Манга. Занимательная электроника. Электронные схемы
 
-
 #### Miscellaneous
+
 ##### Reversing and Binary Analysis
 
-Practical Binary Analysis.pdf
+* Practical Binary Analysis.pdf
 * Practical Reverse Engineering
 * Ghidra Software Reverse Engineering for Beginners.pdf
 * Micropython.pdf
 
-
 #### Tier -1
 
-Binary Fundamentals
+* Binary Fundamentals
 * The Pattern on the Stone.pdf
 * Computer Systems.pdf
 * von Neumann.pdf
 
+#### Tier $1
 
-#### Tier 1
-
-Архитектура компьютерных систем.pdf
+* $2рхитектура компьютерных систем.pdf
 * Код - тайный язык информатики.pdf
 * Как на самом деле работают компьютеры
 * The Elements of Computing Systems (2e).pdf
@@ -4854,10 +4764,9 @@ Binary Fundamentals
 * Fundamentals of Computer Architecture and Design.pdf
 * Essentials of Computer Organization and Architecture.pdf
 
-
 #### Tier 2
 
-Arquitectura de computadores - Un enfoque cuantitativo.pdf
+* Arquitectura de computadores - Un enfoque cuantitativo.pdf
 * Computer Architecture.pdf
 * Computer Organization and Design.pdf
 * Inside the Machine - An Illustrated Guide.pdf
@@ -4870,23 +4779,21 @@ Arquitectura de computadores - Un enfoque cuantitativo.pdf
 * Fundamentals of Computer Organization and Design.pdf
 * Struttura, organizzazione e progetto dei calcolatori. Interdipendenza tra hardware e software.pdf
 
-
 #### Tier 3
 
-Rechnerarchitektur. Analyse, Entwurf, Implementierung, Bewertung.pdf
+* Rechnerarchitektur. Analyse, Entwurf, Implementierung, Bewertung.pdf
 * Processor Microarchitecture. An Implementation Perspective.pdf
 
+#### Tier $1
 
-#### Tier 9
-
-Код. Тайный язык информатики
+* $2од. Тайный язык информатики
 * Код.pdf
 * The Elements of Computing Systems. Building a Modern Computer from First Principles.pdf
 * The Elements of Computing Systems.pdf
 * The Pattern on the Stone.epub
 
-
 ### ML & DS
+
 #### Clustering
 
 < -1> K-means and Hierarchical Clustering with Python.pdf
@@ -4913,17 +4820,19 @@ Rechnerarchitektur. Analyse, Entwurf, Implementierung, Bewertung.pdf
 
 <9> K-means and Hierarchical Clustering with Python.epub
 
-
 #### Computer Vision
+
 ##### Miscellaneous
+
 ###### Document Processing* A Novel Skew Detection and Correction Approach for Scanned Documents.pdf
+
 * DIA.pdf
 * Document Image Analysis. A Review.pdf
 * Document Image Processing.pdf
 * Page Segmentation for Historical Handwritten Documents Using Fully Convolutional Networks.pdf
 * Page Segmentation of Historical Document Images  with Convolutional Autoencoders.pdf
 * DIA - A Primer.pdf
-* Computational Formalism. Art History and Machine Learning.pdf ***
+* Computational Formalism. Art History and Machine Learning.pdf 
 * Domain Adaptation in Computer Vision with Deep Learning.pdf
 * Low-Power Computer Vision
 * Компьютерная графика. Рейтрейсинг и растеризация (2022).pdf
@@ -4931,10 +4840,9 @@ Rechnerarchitektur. Analyse, Entwurf, Implementierung, Bewertung.pdf
 * Graphische Datenverarbeitung.pdf
 * Computer Graphics. Principles and Practice.pdf
 
-
 ##### Tier -1
 
-Fast R-CNN.pdf
+* Fast R-CNN.pdf
 * Faster R-CNN.pdf
 * HOG Paper
 * libcrn, an Open-Source DIP Library.pdf
@@ -4943,10 +4851,9 @@ Fast R-CNN.pdf
 * Rich feature hierarchies for accurate object detection and semantic segmentation.pdf
 * Text/Non-text Image Classification in the Wild with Convolutional Neural Networks.pdf
 
-
 ##### Tier 1 - Applied
 
-Computer Vision Projects with PyTorch.pdf
+* Computer Vision Projects with PyTorch.pdf
 * Deep Learning for Vision Systems.pdf
 * Java и OpenCV.pdf
 * Learning OpenCV 4 Computer Vision with Python 3.pdf
@@ -4965,10 +4872,9 @@ Computer Vision Projects with PyTorch.pdf
 * Искусственный интеллект и компьютерное зрение.pdf
 * Цифровая обработка изображений в OpenCV.pdf
 
-
 ##### Tier 1 - Theory
 
-Advanced Methods and Deep Learning in Computer Vision [2021] E. R. Davies, Matthew Turk
+* Advanced Methods and Deep Learning in Computer Vision [2021] E. R. Davies, Matthew Turk
 * Biological and Computer Vision (2021).pdf
 * Computer Vision - A Modern Approach
 * Computer Vision Principles, Algorithms, Applications, Learning.pdf
@@ -4984,10 +4890,9 @@ Advanced Methods and Deep Learning in Computer Vision [2021] E. R. Davies, Matth
 * Компьютерное зрение. Передовые методы и глубокое обучение (2022)
 * Компьютерное зрение. Теория и алгоритмы
 
+##### Tier
 
-##### Tier 2
-
-Deep Learning for Computer Vision- Expert Techniques to Train Advanced Neural Networks
+* Deep Learning for Computer Vision- Expert Techniques to Train Advanced Neural Networks
 * Deep Learning for Computer Vision.pdf
 * Hands-On Deep Learning for Images.pdf
 * Learn Computer Vision Using OpenCV. With Deep Learning CNNs and RNNs.pdf
@@ -4997,42 +4902,37 @@ Deep Learning for Computer Vision- Expert Techniques to Train Advanced Neural Ne
 * Practical Computer Vision Applications Using Deep Learning with CNNs.pdf
 * Компьютерное зрение на Python.pdf
 
-
 ##### Tier 3
 
-Computer Vision and Recognition Systems.pdf
+* Computer Vision and Recognition Systems.pdf
 * Deep Learning in Computer Vision.pdf
-
 
 ##### Tier 9
 
-Computer Vision  Algorithms and Applications.pdf
+* Computer Vision  Algorithms and Applications.pdf
 * Deep Learning for Computer Vision- Expert Techniques to Train Advanced Neural Networks Using TensorFlow and Keras.epub
-
 
 #### Div|Pop|Meta
 
-AI Report.pdf
+* AI Report.pdf
 * Искусственный интеллект (Бостром).pdf
 * L’Esprit et la Machine.pdf
 * The Master Algorithm.pdf
 * The Quest for AI. A History of Ideas and Achievements (2010).pdf
 * Artificial Intelligence A Guide for Thinking Humans.pdf
 
-
 #### DS General
 
-Data Science Fundamentals for Python and MongoDB
+* Data Science Fundamentals for Python and MongoDB
 * Handbook of Big Data Research Methods
 * The Shape of Data
 * Estadística Práctica para Ciencia de Datos con R y Python
 * Изучаем Ray
 * Handbook on the Politics and Governance of Big Data and Artificial Intelligence
 
-
 ##### Acme
 
-README.pdf
+* README.pdf
 * Labs I.pdf
 * Labs II.pdf
 * Python Essentials.pdf
@@ -5044,10 +4944,9 @@ README.pdf
 * Foundations of Applied Mathematics, Volume 2. Algorithms, Approximation, Optimization.pdf
 * zips
 
-
 ##### Kolanoski
 
-Inhalt: Statistische Methoden der Datenanalyse.pdf
+* Inhalt: Statistische Methoden der Datenanalyse.pdf
 * Kapitel 1 Grundlagen der Statistik.pdf
 * Kapitel 2  Spezielle Verteilungen einer Variablen (1_3).pdf
 * Kapitel 2  Spezielle Verteilungen einer Variablen (2_3).pdf
@@ -5066,9 +4965,10 @@ Inhalt: Statistische Methoden der Datenanalyse.pdf
 * Supplement: PROBABILITY.pdf
 * Supplement: STATISTICS.pdf
 
-
 ##### Miscellaneous
+
 ###### Big Data (General)* Algorithms and Data Structures for Massive Datasets.pdf
+
 * Big Data Analytics.pdf
 * Big Data Analytics with Java.pdf
 * Big Data DE.pdf
@@ -5120,10 +5020,9 @@ Inhalt: Statistische Methoden der Datenanalyse.pdf
 * XML and Web Technologies for Data Sciences with R.pdf
 * Сжатие данных, изображений и звука
 
-
 ##### Miscellaneous Cheat Sheets
 
-Cheat Sheet - Dask 2.png
+* Cheat Sheet - Dask 2.png
 * Cheat Sheet - Dask 3.png
 * Cheat Sheet - Dask 4.png
 * Cheat Sheet - Dask.png
@@ -5146,10 +5045,9 @@ Cheat Sheet - Dask 2.png
 * Cheat Sheet - SKLearn.png
 * JuliaPythonR.pdf
 
-
 ##### Tier -1
 
-Analyse des données.pdf
+* Analyse des données.pdf
 * Applied Data Science with Python and Jupyter
 * Applied Data Science.pdf
 * Data Analytics. Concepts Techniques and Applications.pdf
@@ -5179,10 +5077,9 @@ Analyse des données.pdf
 * ИНТЕЛЛЕКТУАЛЬНЫЙ АНАЛИЗ  ДАННЫХ.pdf
 * Наука о данных.pdf
 
-
 ##### Tier 0
 
-Data Science в действии.pdf
+* Data Science в действии.pdf
 * Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning
 * Алгоритмы Data Science и их практическая реализация на Python (2022)
 * Алгоритмы Data Science и их практическая реализация на Python (2022).pdf
@@ -5190,10 +5087,9 @@ Data Science в действии.pdf
 * Функціональне мистецтво. Вступ до інфографіки та візуалізації.pdf
 * Руководство по подготовке к DS.pdf
 
+##### Tier $1
 
-##### Tier 1
-
-Математика для Data Science [2021] Миронов, Минеева
+* $2атематика для Data Science [2021] Миронов, Минеева
 * A Handbook of Statistical Analyses Using R.pdf
 * Advanced Data Analysis from an Elementary Point of View.pdf
 * Advanced Data Analytics Using Python.pdf
@@ -5225,7 +5121,7 @@ Data Science в действии.pdf
 * Developing Analytic Talent.pdf
 * Doing Data Science.pdf
 * DS-ML Question Bank.pdf
-* Essential Statistics for Data Science (2023).pdf ***
+* Essential Statistics for Data Science (2023).pdf 
 * Exploring Data Science.pdf
 * Foundations Of Data Science (2020).pdf
 * Head First Data Analysis.pdf
@@ -5272,10 +5168,9 @@ Data Science в действии.pdf
 * Структуры и алгоритмы обработки многомерных данных.pdf
 * Ценность ваших данных.pdf
 
-
 ##### Tier 2
 
-Data Analysis with Open Source Tools (2010).pdf
+* Data Analysis with Open Source Tools (2010).pdf
 * Data Cleaning and Exploration with Machine Learning (2022).pdf
 * Data science : fondamentaux et études de cas.pdf
 * Data Science with R. A Step By Step Guide With Visual Illustrations and Examples.pdf
@@ -5283,26 +5178,23 @@ Data Analysis with Open Source Tools (2010).pdf
 * Анализ данных и процессов.pdf
 * Искусство статистики.pdf
 
-
 ##### Tier 3
+
 ##### Tier 9
 
-Applied Data Science with Python and Jupiter.epub
+* Applied Data Science with Python and Jupiter.epub
 * Data Science from Scratch. First Principles with Python.epub
 * Data Science with Python and Dask.epub
 * How to Lead in Data Science.epub
 * Python и наука о данных.pdf
 * The Art of Statistics.epub
 * The Model Thinker.epub
-
-
 * Think Bayes. Bayesian Statistics in Python.pdf
 * Think Bayes.pdf
 
-
 #### Exams
 
-CS 224n Midterm 2018.pdf
+* CS 224n Midterm 2018.pdf
 * CS 230 Exam with Solutions.pdf
 * EXAMPLE Machine Learning (C395) Exam Questions.pdf
 * Exercises INF 5860  Solution Hints.pdf
@@ -5313,7 +5205,6 @@ CS 224n Midterm 2018.pdf
 * Toronto April 2018 Final.pdf
 * Toronto Midterm 2018.pdf
 
-
 #### Graph and Network Analysis
 
 < -1> Graph Cluster Analysis.pdf
@@ -5322,15 +5213,15 @@ CS 224n Midterm 2018.pdf
 
 < -1> Graph Data Science For Dummies.pdf
 
-<0***> Graphs, Networks and Algorithms.pdf
+<0> Graphs, Networks and Algorithms.pdf
 
-<0***> Knowledge Graphs. Methodology, Tools And Selected Use Cases (2020).pdf
+<0> Knowledge Graphs. Methodology, Tools And Selected Use Cases (2020).pdf
 
-<0***> The Practitioner’s Guide To Graph Data. Applying Graph Thinking And Graph Technologies To Solve Complex Problems.pdf
+<0> The Practitioner’s Guide To Graph Data. Applying Graph Thinking And Graph Technologies To Solve Complex Problems.pdf
 
-<0***> Совершенный алгоритм. Графовые алгоритмы и структуры ланных.pdf
+<0> Совершенный алгоритм. Графовые алгоритмы и структуры ланных.pdf
 
-<0***r> The Practitioner's Guide to Graph Data
+<0r> The Practitioner's Guide to Graph Data
 
 <0*> Graph Algorithms- Practical Examples in Apache Spark and Neo4j.pdf
 
@@ -5366,10 +5257,9 @@ CS 224n Midterm 2018.pdf
 
 <3> Knowledge Graphs and Semantic Web- First Iberoamerican Conference, KGSWC 2019.pdf
 
-
 #### LLM
 
-ChatGPT Prompts Mastering
+* ChatGPT Prompts Mastering
 * Retrieval-Augmented Meta Learning for Low-Resource Text Classification
 
 < -1> ChatGPT for Dummies.pdf
@@ -5386,10 +5276,9 @@ ChatGPT Prompts Mastering
 
 <0> Exploring the Power of ChatGPT.pdf
 
-
 #### Miscellaneous Topics
 
-Exploring Deepfakes
+* Exploring Deepfakes
 * Building Responsible AI ALgorithms
 * Evolutionary Optimization Algorithms
 
@@ -5451,12 +5340,13 @@ Exploring Deepfakes
 
 <1> Foundations of Probabilistic Logic Programming. Languages, Semantics, Inference and Learning.pdf
 
-
 #### ML General Application
+
 Feature Engineering Bookcamp
 * Debugging Machine Learning Models with Python
 
 ##### Miscellaneous
+
 Algorithmic Trading.pdf
 * Applied Recommender Systems with Python.pdf
 * Explainable AI for Practitioners.pdf
@@ -5481,9 +5371,8 @@ Algorithmic Trading.pdf
 * Практический анализ временных рядов.pdf
 * Разработка беспилотных транспортных средств.pdf
 
-
-
 ##### MLOps, AutoML, Engineering
+
 MLOps Lifecycle Toolkit
 * Managing Machine Learning Projects
 * Automated Machine Learning in Action.pdf
@@ -5529,6 +5418,7 @@ MLOps Lifecycle Toolkit
 * Шаблоны и практика глубокого обучения.pdf
 
 ##### Non-Python
+
 AI algorithms, data structures, and idioms in Prolog, Lisp, and Java.pdf
 * Data Mining in R - Learning with Case Studies.pdf
 * Deep Learning Made Easy with R.pdf
@@ -5547,6 +5437,7 @@ AI algorithms, data structures, and idioms in Prolog, Lisp, and Java.pdf
 * R Machine Learning By Example.pdf
 
 ##### Tier -1
+
 A People's Guide to AI.pdf
 * AI Adoption in the Enterprise 2020.pdf
 * Cheat Sheet of Machine Learning and Python (and Math)
@@ -5565,6 +5456,7 @@ A People's Guide to AI.pdf
 * РЕФЕРАТ.pdf
 
 ##### Tier 1
+
 Advanced Machine Learning with Python.pdf
 * Agile Machine Learning
 * AI and Machine Learning for Coders.pdf
@@ -5607,6 +5499,7 @@ Advanced Machine Learning with Python.pdf
 * Романтика искусственного интеллекта.pdf
 
 ##### Tier 2
+
 Adaptive Machine Learning Algorithms with Python.pdf
 * Applied Machine Learning with Python by Andrea Giussani.pdf
 * Approaching (Almost) Any Machine Learning Problem.pdf
@@ -5622,6 +5515,7 @@ Adaptive Machine Learning Algorithms with Python.pdf
 * Крупномасштабное машинное обучение вместе с Python.pdf
 
 ##### Tier 3
+
 Artificial Intelligence. Fundamentals and Applications.pdf
 * Machine Learning in Industry.pdf
 * Machine Learning with Python Cookbook.pdf
@@ -5629,9 +5523,8 @@ Artificial Intelligence. Fundamentals and Applications.pdf
 * TensorFlow Machine Learning Cookbook.pdf
 * Внедрение искусственного интеллекта в бизнес практику
 
-
-
 ##### Tier 9
+
 Advanced Machine Learning with Python.epub
 * Analytical Skills for AI and Data Science.epub
 * Artificial Intelligence A Guide for Thinking Humans.epub
@@ -5646,12 +5539,14 @@ Advanced Machine Learning with Python.epub
 * Прикладное машинное обучение с помощью scikit-learn и tensorflow.pdf
 
 #### ML General Theory
+
 Математика в машинном обучении
 * Грокаем алгоритмы искусcтвенного интеллекта
 * Super VIP Cheatsheet - Machine Learning
 * Algorithms for Optimization
 
 ##### Miscellaneous
+
 A Distribution-free Theory of Nonparametric Regression.pdf
 * A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence.pdf
 * A Review of Machine Learning Algorithms for Text-Documents Classification.pdf
@@ -5709,6 +5604,7 @@ A Distribution-free Theory of Nonparametric Regression.pdf
 * Элементы математической кибернетики.djvu
 
 ##### Tier -1
+
 A Brief History of AI
 * AI Cheatsheets.pdf
 * BecomingHuman Cheat Sheets.pdf
@@ -5750,6 +5646,7 @@ A Brief History of AI
 * Машинне вивчення. Стартовий курс.pdf
 
 ##### Tier 0
+
 Машинное обучение. Карманный справочник.pdf
 * A Concise Introduction to Machine Learning.pdf
 * Algorithms for Decision Making
@@ -5758,17 +5655,21 @@ A Brief History of AI
 * Mathematical Foundations of Machine Learning (Lecture Notes).pdf
 
 ##### Tier 1
+
 ###### Alpaydin
+
 Introduction to Machine Learning (Alpaydin 2009).pdf
 * Introduction to Machine Learning (Alpaydin 4e).pdf
 * Introduction to Machine Learning (Alpaydin) Solutions to Exercises.pdf
 * Introduction to Machine Learning (Alpaydin 4e).pdf
 
 ###### ESL
+
 Elements of Statistical Learning Solutions.pdf
 * Основы статистического обучения
 
 ###### Mitchell
+
 CHAPTER 14.  Key Ideas in Machine Learning
 * Machine Learning (Mitchell).pdf
 * Machine Learning (Mitchell 1999).pdf
@@ -5789,6 +5690,7 @@ CHAPTER 14.  Key Ideas in Machine Learning
 * ch9.pdf
 
 ###### ML Book (100 pages)* Chapter 1.pdf
+
 * Chapter 10.pdf
 * Chapter 11.pdf
 * Chapter 2.pdf
@@ -5801,6 +5703,7 @@ CHAPTER 14.  Key Ideas in Machine Learning
 * Chapter 9.pdf
 
 ###### Murphy* Machine Learning A Probabilistic Perspective.pdf
+
 * Probabilistic Machine Learning (2022).pdf
 * Probabilistic Machine Learning. Advanced Topics - Supplementary Materials.pdf
 * Probabilistic Machine Learning. Advanced Topics.pdf
@@ -5810,6 +5713,7 @@ CHAPTER 14.  Key Ideas in Machine Learning
 * Supplementary Material for Probabilistic Machine Learning: Advanced Topics.pdf
 
 ###### <General>
+
 A Brief Introduction to Machine Learning for Engineers.pdf
 * A First Course in Machine Learning.pdf
 * Algorithms for Decision Making.pdf
@@ -5889,6 +5793,7 @@ A Brief Introduction to Machine Learning for Engineers.pdf
 * Машинное обучение основы, алгоритмы и практика применения (2022).pdf
 
 ##### Tier 2
+
 A Probabilistic Theory of Pattern Recognition (1).pdf
 * Algorithms for Data Mining and Machine Learning
 * An Elementary Introduction to Statistical Learning Theory.pdf
@@ -5915,6 +5820,7 @@ A Probabilistic Theory of Pattern Recognition (1).pdf
 * Основы искусственного интеллекта
 
 ##### Tier 3
+
 ML AR.pdf
 * AI for Humans, vol. 1. Fundamental Algorithms
 * Empirical Methods for Artificial Intelligence (1995).pdf
@@ -5923,9 +5829,8 @@ ML AR.pdf
 * Machine Learning Paradigms. Theory and Application.pdf
 * Mathematical methods for knowledge discovery and data mining.pdf
 
-
-
 ##### Tier 9
+
 A First Course in Machine Learning.djvu
 * Apprentissage artificiel.pdf
 * Artificial Intelligence for Humans (Heaton).epub
@@ -5943,24 +5848,27 @@ A First Course in Machine Learning.djvu
 * Machine Learning For Dummies (1e).pdf
 
 #### NN Application
+
 Generative Deep Learning
 * Designing Deep Learning Systems
 * Applied Deep Learning
 
 ##### Miscellaneous
+
 ###### Generative
+
 GANs in Action. Deep learning with Generative Adversarial Networks
 * Generative Deep Learning. Teaching Machines to Paint, Write, Compose, and Play
 * Generative Adversarial Networks Projects - Build Next-Generation Generative Models Using TensorFlow and Keras.pdf
 
-
-
 ###### Transformers
+
 Getting Started with Google BERT. Build and train state-of-the-art natural language processing models using BERT.pdf
 * Introduction to Transformers for NLP.pdf
 * Transformers for Natural Language Processing.pdf
 
 ###### <General>
+
 Automated Deep Learning Using Neural Network Intelligence
 * Interpretable AI.pdf
 * Modern Deep Learning for Tabular Data.pdf
@@ -5970,6 +5878,7 @@ Automated Deep Learning Using Neural Network Intelligence
 Эволюционные нейросети на языке Python.pdf
 
 ##### NN from Scratch
+
 Deep Learning from First Principles In Vectorized Python R and Octave.pdf
 * Make Your Own Neural Networks.epub
 * Make Your Own Neural Networks.pdf
@@ -5981,6 +5890,7 @@ Deep Learning from First Principles In Vectorized Python R and Octave.pdf
 * Создаем нейронную сеть.pdf
 
 ##### PyTorch
+
 PyTorchZeroToAll  →
 * Automated Deep Learning Using Neural Network Intelligence
 * Deep Learning for Coders With Fastai and PyTorch.epub
@@ -6016,7 +5926,9 @@ PyTorchZeroToAll  →
 * Глубокое обучение с fastai и PyTorch.pdf
 
 ##### TensorFlow, Keras
+
 ###### TF1* Deep Learning with Keras.pdf
+
 * Deep Learning with Python.pdf
 * Fundamentals of Deep Learning- Designing Next-Generation Machine Intelligence Algorithms.pdf
 * Keras Succinctly.pdf
@@ -6058,6 +5970,7 @@ PyTorchZeroToAll  →
 * The TensorFlow Workshop.pdf
 
 ##### Other Frameworks
+
 Deep Learning with R
 * Introduction to CNTK Succinctly.pdf
 * TensorSafe Paper.pdf
@@ -6072,6 +5985,7 @@ Deep Learning with R
 * Programming Neural Networks  with Encog3 in Java.pdf
 
 ##### Tier 1
+
 Applied Deep Learning. Tools, Techniques, and Implementation
 * Applied Deep Learning.pdf
 * Computational Methods for Deep Learning.pdf
@@ -6080,9 +5994,11 @@ Applied Deep Learning. Tools, Techniques, and Implementation
 * Глубокое обучение для поисковых систем.pdf
 
 ##### Tier 2
+
 Development and Analysis of Deep Learning Architectures.pdf
 
 ##### Tier 3
+
 Deep Learning Applications, Volume 2
 * Deep Learning Applications, Volume 3
 * Deep Learning Applications
@@ -6090,10 +6006,13 @@ Deep Learning Applications, Volume 2
 * RNNs (LazyProgrammer).pdf
 
 #### NN Theory
+
 Neural Networks and Deep Learning
 
 ##### Miscellaneous
+
 ###### Backpropagation
+
 Backprogation (Makin).pdf
 * Backpropagation Whiteboard 1.JPG
 * Backpropagation Whiteboard 2.JPG
@@ -6103,15 +6022,18 @@ Backprogation (Makin).pdf
 * Thorough Derivation of Backpropagation.pdf
 
 ###### GNN
+
 Deep Learning on Graphs.pdf
 * Graph Neural Networks
 * Introduction to Graph Neural Networks.pdf
 
 ###### CNN
+
 Analysis and Optimization of Convolutional Neural Network Architectures.pdf
 * Visualizing and Understanding Convolutional Networks.pdf
 
 ###### RNN
+
 A Critical Review of Recurrent Neural Networks  for Sequence Learning.pdf
 * Recurrent Neural Networks. Concepts and Applications
 * Recurrent Neural Networks
@@ -6123,6 +6045,7 @@ A Critical Review of Recurrent Neural Networks  for Sequence Learning.pdf
 * Supervised Sequence Labelling with Recurrent Neural Networks.pdf
 
 ###### <General>
+
 A fast learning algorithm for deep belief nets.pdf
 * A NEURAL NETWORK BASED ON FIRST PRINCIPLES.pdf
 * DL Architectures for Sequence Processing
@@ -6135,6 +6058,7 @@ A fast learning algorithm for deep belief nets.pdf
 * Эволюционные нейросети на языке Python
 
 ##### Tier -1
+
 AI for Humans, vol. 3. DL and NN
 * An Introduction to Neural Networks for Beginners.pdf
 * Bert Visualisation.pdf
@@ -6186,21 +6110,21 @@ AI for Humans, vol. 3. DL and NN
 * Огляд та дослідження основних видів нейронних  мереж для розпізнавання образів.pdf
 * Практический курс по нейронным сетям
 
-
-
 ##### Tier 1
+
 ###### Transformers
+
 Transformers for Machine Learning. A Deep Dive
 
-
-
 ###### DL Bible
+
 Deep Learning (DE).epub
 * Deep Learning (Goodfellow et al.).pdf
 * Deep Learning-Adaptive Computation and Machine Learning.pdf
 * Глубокое обучение.pdf
 
 ###### Glassner
+
 Deep Learning. A Visual Approach (Glassner).pdf
 * Deep Learning. From Basics to Practice. Volume 1 (Glassner 2022).pdf
 * Deep Learning. From Basics to Practice. Volume 2 (Glassner 2022).pdf
@@ -6208,24 +6132,28 @@ Deep Learning. A Visual Approach (Glassner).pdf
 * Глубокое обучение 2 (Гласснер).pdf
 
 ###### Haykin
+
 Neural Networks (Haykin).pdf
 * Neural Networks and Learning Machines (v2).pdf
 * Neural Networks and Learning Machines.pdf
 
 ###### Krohn
+
 Deep Learning Illustrated - A Visual, Interactive Guide to Artificial Intelligence.pdf
 * Deep Learning Illustrated - A Visual, Interactive Guide to Artificial Intelligence.pdf
 * Глубокое обучение в картинках. Визуальный гид по искусственному интеллекту
 * Глубокое обучение в картинках.pdf
 
 ###### Rojas
+
 Neural Networks Rojas.pdf
 * Theorie der neuronalen Netze (Rojas).pdf
 
 ###### <General>
+
 Advances in Deep Learning.pdf
 * Deep Learning Architectures. A Mathematical Approach.pdf
-* Deep Learning*** (Goodfellow et al.).pdf
+* Deep Learning (Goodfellow et al.).pdf
 * Ein kleiner Überblick über Neuronale Netze.pdf
 * Fundamentals of Deep Learning.pdf
 * Grokking Deep Learning.pdf
@@ -6253,6 +6181,7 @@ Advances in Deep Learning.pdf
 * ШТУЧНІ НЕЙРОННІМЕРЕЖІ: ОБЧИСЛЕННЯ.pdf
 
 ##### Tier 2
+
 Deep Learning. Fundamentals, Theory and Applications.pdf (GOOD CHAPTERS ON NLP)
 * Neural Network Design.pdf (MATLAB BOOK)
 * An Introduction to Neural Networks (Amsterdam 1996).pdf
@@ -6272,6 +6201,7 @@ Deep Learning. Fundamentals, Theory and Applications.pdf (GOOD CHAPTERS ON NLP)
 * Principles of Artificial Neural Networks.pdf
 
 ##### Tier 3
+
 Applicazione di controlli adattivi con reti neurali.pdf
 * ARTIFICIAL NEURAL NETWORKS  NEW RESEARCH.pdf
 * Contribution à l’étude et au développement de modèles connexionnistes séquentiels de
@@ -6280,13 +6210,16 @@ Applicazione di controlli adattivi con reti neurali.pdf
 * Une Approche théorique de l’Apprentissage Connexioniste; Applications à la reconnaissance de la Parole.pdf
 
 ##### Tier 9
+
 Deep Learning. A Visual Approach (Glassner).epub
 * Deep Learning kompakt für Dummies.epub
 * Math for Deep Learning. What You Need to Know.epub
 * Neuronale Netze. Eine Einführung.pdf
 
 #### Papers
+
 ##### Online Recommendation Papers* A reinforcement learning approach to personalized learning recommendation systems
+
 * Online Recommendation System Based on Reviews and Ratings
 * Reinforcement Learning for Personalized Recommendations
 * Self-Supervised Reinforcement Learning for Recommender Systems
@@ -6322,9 +6255,11 @@ Deep Learning. A Visual Approach (Glassner).epub
 <4> TensorSafe Paper.pdf
 
 #### RL
+
 Грокаем глубокое обучение с подкреплением
 
 ##### Miscellaneous
+
 Application of Self-Play Reinforcement Learning to a Four-Player Game of Imperfect
 * Artificial Intelligence in Games
 * Deep Learning and the Game of Go.pdf
@@ -6341,32 +6276,47 @@ Application of Self-Play Reinforcement Learning to a Four-Player Game of Imperfe
 * Программирование шахмат и других игр.pdf
 
 ##### Slides
+
 ###### Darmstadt
+
 ###### Edinburgh
+
 ###### INRIA
+
 ###### INRIA2
+
 ###### KU
+
 ###### McGill
+
 ###### Misc
+
 ###### Silver
+
 ###### Stanford
+
 ###### Stanford Notes
+
 ###### Stuttgart
+
 ###### TAU
+
 ###### UCB
+
 ###### vanHasselt
+
 ###### <General>
+
 Bandit Slides I (Szevespari).pdf
 * Bandit Slides II (Szevespari).pdf
 * Szepesvari Tutorial Slides 1.pdf
 * Szepesvari Tutorial Slides 2.pdf
 * Szepesvari Tutorial Slides 3.pdf
 * Szepesvari Tutorial Slides 4.pdf
-
-
 * Misc
 
 ##### Tier -1
+
 Cheatsheet (Medium 1).jpeg
 * Cheatsheet (Medium).jpeg
 * Cheatsheet (Medium).pdf
@@ -6376,6 +6326,7 @@ Cheatsheet (Medium 1).jpeg
 * Альманах ИИ №7 - RL.pdf
 
 ##### Tier 1
+
 1) Deep Reinforcement Learning Hands-On. Apply modern RL methods to practical problems of
 * Algorithms for Reinforcement Learning (Szepesvari).pdf
 * Applied Reinforcement Learning with Python. With OpenAI Gym, Tensorflow and Keras.pdf
@@ -6399,6 +6350,7 @@ Cheatsheet (Medium 1).jpeg
 * Обучение с подкреплением. Введение (2020)
 
 ##### Tier 2
+
 Hands-on Reinforcement Learning with Python.pdf
 * Model-Based Reinforcement Learning from Data to Continuous Actions
 * Planning Algorithms.pdf
@@ -6406,6 +6358,7 @@ Hands-on Reinforcement Learning with Python.pdf
 * Reinforcement Learning with TensorFlow.pdf
 
 ##### Tier 9
+
 Reinforcement Learning An Intro.pdf
 * Reinforcement Learning Introduction.pdf
 * Обучение с подкреплением.pdf
@@ -6413,7 +6366,9 @@ Reinforcement Learning An Intro.pdf
 * Программирование шахмат и других игр.djvu
 
 #### Signal Processing
+
 ##### SSPMAP Course (Stuttgart)* problems.pdf
+
 * questions.pdf
 * slides.pdf
 * solutions.m
@@ -6478,6 +6433,7 @@ Reinforcement Learning An Intro.pdf
 <0> Understanding digital signal processing.pdf
 
 #### Topological Data Analysis
+
 < -1> An Introduction to Topological Data Analysis: Fundamental and Practical Aspects for Data Scientists (Journal).pdf
 
 < -1> An Introduction to Topological Data Analysis: Fundamental and Practical Aspects for Data Scientists.pdf
@@ -6519,6 +6475,7 @@ Reinforcement Learning An Intro.pdf
 <3> Mathematical programming methods for large-scale topology application problems
 
 #### Visualization
+
 Everyday Data Visualization (2023 - V5)
 
 < -1> Python Визуализация данных Matplotlib, Seaborn, Mayavi (2020)
@@ -6540,6 +6497,7 @@ Everyday Data Visualization (2023 - V5)
 <1> gnuplot in Action
 
 #### Альманах ИИ
+
 Альманах ИИ_№1. Текущее состояние в России и мире.pdf
 * Альманах ИИ_№2. Обработка естественного языка, распознавание и синтез речи.pdf
 * Альманах ИИ_ №3. Computer vision & image processing.pdf
@@ -6550,13 +6508,18 @@ Everyday Data Visualization (2023 - V5)
 * New-AtHomeWithAI resources.pdf
 
 ### Tools
+
 #### Azure
+
 Azure Containers Explained
 * A Developer’s Guide to Cloud Apps Using Microsoft Azure
 
 #### Build
+
 The GNU Make Book.pdf
+
 ##### CMake
+
 CMake Best Practices.pdf
 * CMake Cookbook (2018).epub
 * CMake Cookbook (2018).pdf
@@ -6567,6 +6530,7 @@ CMake Best Practices.pdf
 * Mastering CMake.pdf
 
 #### Cloud
+
 Designing Cloud Data Platforms
 * Practical Implementation of a Data Lake
 * A) Cloud Computing For Dummies, 2E (2020).pdf
@@ -6590,6 +6554,7 @@ Designing Cloud Data Platforms
 * C) Data Science on AWS (2021).epub
 
 #### Distros etc.
+
 Nix PhD Thesis.pdf
 * NixOS in Production.pdf
 * Introducing Linux Distros.pdf
@@ -6598,6 +6563,7 @@ Nix PhD Thesis.pdf
 * Introducing Linux Distros.epub
 
 #### Docker
+
 A Complete Guide to Docker for Operations and Development
 * Software Containers: The Complete Guide to Virtualization Technology
 * The Ultimate Docker Container Book
@@ -6622,6 +6588,7 @@ A Complete Guide to Docker for Operations and Development
 * C) Docker Compose для разработчика.pdf
 
 #### Git
+
 Git Essentials - A Developer’s Guide to Git
 * Git Repository Management in 30 Days
 * Atlassian Git Cheatsheet
@@ -6657,13 +6624,16 @@ Git Essentials - A Developer’s Guide to Git
 * Z) Learning Git.epub
 
 #### HPC
+
 Семь моделей конкуренции и параллелизма за семь недель
 
 ##### Cpp
+
 Параллельное программирование на современном языке Cpp.pdf
 * Modern Parallel Programming with C++ and Assembly Language.pdf
 
 ##### CUDA
+
 Программирование на видеокартах GPGPU.pdf
 * Программирование GPU при помощи Python и CUDA.pdf
 * Parallel  Computing for Data Science with Examples in R, C++ and CUDA
@@ -6673,11 +6643,13 @@ Git Essentials - A Developer’s Guide to Git
 * Cuda C++ Programming Guide
 
 ##### Spark
+
 Spark Succinctly.pdf
 * Spark. The Definitive Guide.pdf
 * Spark in Action (2e).pdf
 
 ##### <General>
+
 * A) Альманах ИИ №9.pdf
 * A) Параллельные и высокопроизводительные вычисления.pdf
 * A) Programming with POSIX threads.pdf
@@ -6698,6 +6670,7 @@ Spark Succinctly.pdf
 <> Verteilte Systeme. Grundlagen und Basistechnologien.pdf
 
 #### Kubernetes etc.
+
 Kubernetes Best Practices (2e)
 * Kubernetes Fundamentals
 * Kubernetes Patterns
@@ -6707,6 +6680,7 @@ Kubernetes Best Practices (2e)
 * The Kubernetes Operator Framework Book
 
 ##### A) RabbitMQ
+
   * RabbitMQ in Depth.pdf
 
   * RabbitMQ Essentials.pdf
@@ -6714,6 +6688,7 @@ Kubernetes Best Practices (2e)
   * Mastering RabbitMQ.pdf
 
 ##### A) Helm
+
   * Learn Helm.pdf
 
   * Learning Helm.pdf
@@ -6751,16 +6726,16 @@ Kubernetes Best Practices (2e)
 * Z) Hands-On Docker for Microservices with Python.epub
 
 #### Nix
+
 NixOS Presentation (2021)
 * NixOS: A Purely Functional Linux Distribution
 
 #### Numerical
+
 Numerical Methods in Engineering with Python 3 (2013).pdf
 * Рассказы о математике с примерами на Python и C.pdf
 * Математика на Python.pdf
 * Практическое введение в решение дифференциальных уравнений в Python.pdf
-
-
 
 <1 (convert)> Преобразования Фурье и Лапласа в системах компьютерной математики.djvu
 
@@ -6775,6 +6750,7 @@ Numerical Methods in Engineering with Python 3 (2013).pdf
 <> The Mathematical-Function Computation Handbook.pdf
 
 #### Other
+
 Linux Containers and Virtualization.pdf
 * Crafting Digital Media.pdf
 * Cassandra. The Definititve Guide.pdf
@@ -6784,15 +6760,18 @@ Linux Containers and Virtualization.pdf
 * Kafka. The Definitive Guide.pdf
 
 #### VSCode
+
 Optimizing Visual Studio Code for Python Development. Developing More Efficient and Effective Programs in Python.pdf
 * Visual Studio Code Distilled. Evolved Code Editing for Windows, macOS, and Linux.pdf
 * Visual Studio Code for Python Programmers.pdf
 * Visual Studio Code. End-To-End Editing and Debugging Tools for Web Developers.pdf
 
 ### Web and App Development
+
 How to be a Web Developer
 
 #### Flask and Django
+
 Web Development with Django
 
 < -1> Foundation Dynamic Web Pages with Python.pdf
@@ -6828,6 +6807,7 @@ Web Development with Django
 <> Web API Development with Python. A Beginner's Guide using Flask and FastAPI
 
 #### Android and Kotlin
+
 How to Build Android Apps with Kotlin
 * Jetpack Compose 1.3 Essentials
 
@@ -6874,6 +6854,7 @@ How to Build Android Apps with Kotlin
 <> Введение в разработку приложений для смартфонов
 
 #### Flutter, etc.
+
 Clean Mobile Architecture Become an Android, iOS, Flutter Architect
 * Dart Apprentice: Fundamentals
 * Building Cross-Platform Apps with Flutter and Dart
@@ -6887,6 +6868,7 @@ Clean Mobile Architecture Become an Android, iOS, Flutter Architect
 <> Разработка кроссплатформенных мобильных и настольных приложений.pdf
 
 #### Full-Stack
+
 Build Your Own Web Framework in Elixir
 * Beginning Rails 6
 * Full Stack Development with Spring Boot 3 and React
@@ -6907,9 +6889,11 @@ Build Your Own Web Framework in Elixir
 <> Beginning Django API and React.pdf
 
 #### Game
+
 <G> Game Development with Rust and WebAssembly.pdf
 
 #### General Frontend
+
 Master React in 5 Days
 * No Me Hagas Pensar (2ed)
 * React 18 Design Patterns and Best Practices
@@ -7021,6 +7005,7 @@ Master React in 5 Days
 * Устойчивый веб-дизайн.pdf
 
 #### Misc
+
 PHP Cookbook
 * Pro Kotlin Web Apps from Scratch
 * Web3. The Insights You Need from Harvard Business Review
@@ -7064,6 +7049,7 @@ PHP Cookbook
 * Practical Highcharts with Angular
 
 #### Networks, etc.
+
 Network Programmability and Automation
 * Vulnerability Assessment with Nessus and Wireshark
 
@@ -7091,7 +7077,7 @@ Network Programmability and Automation
 
 <9> Компьютерные сети (Tannenbaum).djvu
 
-<0***> Desconstruindo a Web.pdf
+<0> Desconstruindo a Web.pdf
 
 <0> Hacking APIs.pdf
 
@@ -7122,6 +7108,7 @@ Network Programmability and Automation
 <> Einführung in die Nachrichtentechnik.pdf
 
 #### Server and Backend
+
 Introducing Spring Framework 6
 * Principles of Web API Design
 * Web Development Toolkit for Java Developers
@@ -7166,15 +7153,15 @@ Introducing Spring Framework 6
 
 <> Проектирование веб API.pdf
 
-
-
 ## C. Tecnologia automotriz
+
 Auto Mechanics Fundamentals (1990).pdf
 * Auto Fundamentals. How and why of the Design, Construction, and Operation of Automobiles.pdf
 
 ## D. Ingenería
+
 Paving the Way for Apollo 11.pdf
 
 ## E. Medecina
-## F. Fabricación
 
+## F. Fabricación

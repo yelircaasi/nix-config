@@ -1,5 +1,7 @@
 # GUI Applications
+
 ## Legend
+
 (0) - already installed and configured in nix-config
 (1) - already added to nix-config, but some work is needed
 (2) - to be added next
@@ -8,62 +10,65 @@
 (4) - not decided yet / maybe later
 (5) - some rewriting or packaging necessary (but to be added)
 
-
 ## Best
+
 *  [remarkable](https://github.com/jonschlinkert/remarkable) - JS markdown parser
 
-
 ## Nix Cheats
-* (3) [Flatpak](https://flatpak.org/) + [flatseal]()
+
+* (3) [Flatpak](https://flatpak.org/) + [flatseal](...)
 * (3) [AppImage](https://appimage.org/) + [appimagepool](https://github.com/prateekmedia/appimagepool)?
 
-
 ## Fonts
+
 * ( ) [getnf](https://github.com/ronniedroid/getnf)
 * ( ) [fonttools](https://github.com/fonttools/fonttools) (also usable for ascii art)
 * ( ) [fontbase](https://fontba.se/) (not FOSS)
 * ( ) [fontforge](https://fontforge.org/en-US/)
 
-
 ## SORT
-* ( ) [](https://notabug.org/g0tsu/litemdview) (suckless md viewer) $$$
+
+* ( ) [...](https://notabug.org/g0tsu/litemdview) (suckless md viewer) $$$
 * ( ) [airtable alt](https://thenewstack.io/baserow-a-no-code-open-source-alternative-to-airtable/)
 * ( ) [Codelink](https://github.com/Wervice/Codelink)
 * ( ) [Fuco1/zathura-build: zathura + plugins built and run inside docker](https://github.com/Fuco1/zathura-build)
-* ( ) [geary - Google Search](https://www.google.com/search?client%3Dfirefox-b-d%26q%3Dgeary) 
-* ( ) [Graphite](https://github.com/GraphiteEditor/Graphite) 
-* ( ) [kdenlive]()
+* ( ) [geary - Google Search](https://www.google.com/search?client%3Dfirefox-b-d%26q%3Dgeary)
+* ( ) [Graphite](https://github.com/GraphiteEditor/Graphite)
+* ( ) [kdenlive](...)
 * ( ) [Manuskript – Open-source tool for writers](https://www.theologeek.ch/manuskript/)
-* ( ) [OBS Studio]()
+* ( ) [OBS Studio](...)
 * ( ) [ONLYOFFICE - Secure Online Office | ONLYOFFICE](https://www.onlyoffice.com/)
 * ( ) [Ubuntu Manpage: zathurarc - zathura configuration file](https://manpages.ubuntu.com/manpages/bionic/man5/zathurarc.5.html)
 * ( ) [Vencord/Vesktop: Vesktop gives you the performance of web Discord and the comfort of Discord Desktop](https://github.com/Vencord/Vesktop)
-* ( ) [claws-mail](https://www.claws-mail.org/) Wayland in 2023 
-cleanup * ( ) [metadatacleaner.romainvigier](https://metadatacleaner.romainvigier.fr/)
-dev db * ( ) [](https://thenewstack.io/baserow-a-no-code-open-source-alternative-to-airtable/) 
-inspector * ( ) [NixOS Search - Packages - gtk inspector](https://search.nixos.org/packages?channel%3D23.11%26show%3Dxdg-desktop-portal-gtk%26from%3D0%26size%3D50%26sort%3Drelevance%26type%3Dpackages%26query%3Dgtk%2Binspector)
-inspector * ( ) [Projects/GTK/Inspector - GNOME Wiki!](https://wiki.gnome.org/action/show/Projects/GTK/Inspector?action%3Dshow%26redirect%3DProjects%252FGTK%252B%252FInspector)
-pdf * ( ) [sioyek](https://github.com/ahrm/sioyek) PDF viewer with a focus on textbooks and research papers
-pomodoro * ( ) [solanum](https://apps.gnome.org/Solanum/)
-prod * ( ) [oinkoin](https://github.com/emavgl/oinkoin) - Oinkoin is a flutter app for helping you managing your expenses. No internet required. 
+* ( ) [claws-mail](https://www.claws-mail.org/) Wayland in 2023
+* {cleanup} ( ) [metadatacleaner.romainvigier](https://metadatacleaner.romainvigier.fr/)
+* {dev db} ( ) [...](https://thenewstack.io/baserow-a-no-code-open-source-alternative-to-airtable/)
+* {inspector} ( ) [NixOS Search - Packages - gtk inspector](https://search.nixos.org/packages?channel%3D23.11%26show%3Dxdg-desktop-portal-gtk%26from%3D0%26size%3D50%26sort%3Drelevance%26type%3Dpackages%26query%3Dgtk%2Binspector)
+* {inspector} ( ) [Projects/GTK/Inspector - GNOME Wiki!](https://wiki.gnome.org/action/show/Projects/GTK/Inspector?action%3Dshow%26redirect%3DProjects%252FGTK%252B%252FInspector)
+* {pdf} ( ) [sioyek](https://github.com/ahrm/sioyek) PDF viewer with a focus on textbooks and research papers
+* {pomodoro} ( ) [solanum](https://apps.gnome.org/Solanum/)
+* {prod} ( ) [oinkoin](https://github.com/emavgl/oinkoin) - Oinkoin is a flutter app for helping you managing your expenses. No internet required.
 
 ## GUI Spreadsheet
+
 * ( ) [LibreOffic](https://www.libreoffice.org/)
 * ( ) [teapot](https://github.com/samuelludwig/teapot)
 * ( ) [sc-im]([sc-im](https://github.com/andmarti1424/sc-im) - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal. It is rich in functionalities, but the syntax of functions and other details are different from the common spreadsheets such as Excel and Calc, making difficult to "re-cycle" existing knowledge on these programs to work proficiently with sc-im. Neverthless, a nice piece of software."
 * ( ) [123elf](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 Release 3 to Linux.
-* ( ) [teapot](https://github.com/samuelludwig/teapot) [NixOS/nixpkgs/issues/147213https://www.syntax-k.de/projekte/teapot/](https://github.com/NixOS/nixpkgs/issues/147213https://www.syntax-k.de/projekte/teapot/)
+* ( ) [teapot](https://github.com/samuelludwig/teapot) [NixOS/nixpkgs/issues/147213
+        [syntax-k.de/projekte/teapot/](https://github.com/NixOS/nixpkgs/issues/147213) [...](https://www.syntax-k.de/projekte/teapot/) [...](https://github.com/NixOS/nixpkgs/issues/147213)
+        [syntax-k.de/projekte/teapot/)](https://www.syntax-k.de/projekte/teapot/))
 * ( ) [treesheets](https://github.com/aardappel/treesheets) - [ORGANISE YOUR HACKS WITH TREESHEETS: AN OPEN SOURCE HIERARCHICAL SPREADSHEET](https://hackaday.com/2022/09/07/organise-your-hacks-with-treesheets-an-open-source-hierarchical-spreadsheet/)
 
-
 ## Notebooks
-* ( ) [jupyter]() (entire suite)
+
+* ( ) [jupyter](...) (entire suite)
 * ( ) [nteract](https://nteract.io/desktop)
 * ( ) [Apache Zeppelin](https://zeppelin.apache.org/)
 * ( ) [polynote/](https://github.com/polynote/polynote/)
 
-
 ## GUI Calculator
+
 * ( ) [qalculate-qt](https://github.com/Qalculate/qalculate-qt)
 * ( ) [👉](https://stackoverflow.com/questions/1675992/how-do-i-set-a-background-color-for-the-whole-window-of-a-qt-application)
    | [qalqulate-gtk](https://github.com/Qalculate/qalculate-gtk)
@@ -75,8 +80,9 @@ prod * ( ) [oinkoin](https://github.com/emavgl/oinkoin) - Oinkoin is a flutter 
 * ( ) [download site](https://www.geogebra.org/download) - The graphing calculator for functions, geometry, algebra, calculus, statistics and 3D mathematics. - built with SwingFX
 
 ### GUI Markdown Editor
+
 * (5) [zettlr](https://github.com/Zettlr/Zettlr)
-* ( ) [site](https://www.zettlr.com/)  - looks phenomenal
+* ( ) [site](https://www.zettlr.com/)  * looks phenomenal
 * (5) [remarkable](https://github.com/jamiemcg/Remarkable) - A capable markdown editor that uses a variant of GitHub Flavored Markdown (GFM). - fork and update (call Markdawn? Markdon?)
 * (5) [marktext](https://github.com/marktext/marktext) → advanced features, look at them and copy where possible
 * (5) [Ghost Writer](https://ghostwriter.kde.org/) - A distraction-free Markdown editor for Windows and Linux.
@@ -85,6 +91,7 @@ prod * ( ) [oinkoin](https://github.com/emavgl/oinkoin) - Oinkoin is a flutter 
 * (6) [Typora](https://typora.io/) - minimal, CSS styling beautiful, but not FOSS
 
 ### GUI LaTeX Editor
+
 * (2) [vim-latex](https://vim-latex.sourceforge.net/) - try to re-create what I like in Neovim
 * (2) [auctex](https://www.gnu.org/software/auctex/)
 * ( ) [link](http://git.savannah.gnu.org/cgit/auctex.git)
@@ -96,10 +103,12 @@ prod * ( ) [oinkoin](https://github.com/emavgl/oinkoin) - Oinkoin is a flutter 
 * (6) [Gummi](https://github.com/alexandervdm/gummi) - Simple latex editor with templates, spell check, and wizards.
 
 ## Translation
+
 * ( ) [dialect](https://apps.gnome.org/app/app.drey.Dialect/) - A translation app for GNOME.
 
 ## Drawing
-* (2) [D2]()
+
+* (2) [D2](...)
 * ( ) [ASCII_Art_Paint](https://github.com/Kirilllive/ASCII_Art_Paint)
 * ( ) [vectr](https://vectr.com/)
 * ( ) [diagrams.net](https://app.diagrams.net/)
@@ -118,13 +127,14 @@ prod * ( ) [oinkoin](https://github.com/emavgl/oinkoin) - Oinkoin is a flutter 
 * ( ) [freeplane](https://github.com/freeplane/freeplane - [docs.freeplane.org/](https://docs.freeplane.org/)
 * ( ) [draw](https://github.com/maaslalani/draw) - draw is an simple drawing tool in the terminal. Hold your mouse down and move it across the screen to draw anything you want!
 * ( ) [swappy](https://github.com/jtheoof/swappy
-* ( ) [](https://google.github.io/typograms/)
+* ( ) [...](https://google.github.io/typograms/)
 * ( ) [flyde](https://github.com/flydelabs/flyde)
 * ( ) [lorien](https://github.com/mbrlabs/Lorien)
 * ( ) [miro](https://miro.com/)
 * ( ) [openboard](https://github.com/OpenBoard-org/OpenBoard)
 
 ### Visualization
+
 * ( ) [manim](https://github.com/ManimCommunity/manim)
 * ( ) [motion-canvas](https://github.com/motion-canvas/motion-canvas)
 * ( ) [lets-plot](https://lets-plot.org/)
@@ -134,7 +144,6 @@ prod * ( ) [oinkoin](https://github.com/emavgl/oinkoin) - Oinkoin is a flutter 
 * ( ) [mermaidjs](https://mermaid.js.org/)
 
 ## Cleanup and Organizing (GUI)
+
 * (2.5) [bleachbit](https://www.bleachbit.org/)
    |  [czkawka](https://qarmin.github.io/czkawka/)
-
-

@@ -1,9 +1,8 @@
 # Reading-Linux, etc.
 
-
 ## Recent Linux Reading
-[access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/networking_guide/index](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/networking_guide/index)
 
+[access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/networking_guide/index](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/networking_guide/index)
 * [Home Clear Linux* Project | Clear Linux* Project](https://clearlinux.org/)
 * [Ranking Linux Desktop Environments for 2023 - YouTube](https://www.youtube.com/watch?v=09cYQJBgKEs)
 * [DerivativeTeam/Derivatives - Ubuntu Wiki](https://wiki.ubuntu.com/DerivativeTeam/Derivatives)
@@ -24,15 +23,14 @@
 * [kdl.dev/](https://kdl.dev/)
 * [Linux sucks](https://www.youtube.com/watch?v=TVHcdgrqbHE)
 
-
 ## Articles
+
 * [Free Software](https://en.wikipedia.org/wiki/Free_software) - Wikipedia entry on the topic of free software.
 * ['Libre' Software: Turning Fads into Institutions?](https://www.sciencedirect.com/science/article/pii/S0048733302000033) - Academic article presenting an economic analysis of libre software and its sustainability.
 * [Software Freedom](https://devuan.org/os/free-software) - Short, simple explanation of why free software is important from Devuan.
 
-
-
 ## Talks
+
 * [Agustín Benito: Free Software, Beyond Software (TEDxLaLaguna)](https://www.youtube.com/watch?v=_2Qq072wIDk) (Español)
 * [Eben Moglen: How I Discovered Free Software](https://www.youtube.com/watch?v=uKxzK9xtSXM)
 * [Prof. Nagarjuna G: Free Software for Digital India](https://www.youtube.com/watch?v=O1A4UZqPtMQ)
@@ -40,25 +38,22 @@
 * [Stephen Fry: Free Software](https://www.youtube.com/watch?v=YGbMbF0mdPU)
 * [Wrishiraj Kaushik: I Am Not a Free Software Guy](https://www.youtube.com/watch?v=KQCC5oSfAYo)
 
-
 ## Documentaries
+
 ## 2019: [Hacking for the Commons, by Philippe Borrel](https://vimeo.com/channels/1540870/393778517).
 
-
-
 ## SORT
+
 #sonntagsOS
 
-learn systemd and its controversies and alternatives
+* learn systemd and its controversies and alternatives
 * [10 ways KDE is just BETTER](https://youtu.be/3nX1YEQg5Z0)
 * [en.wikipedia.org/wiki/Linux_console](https://en.wikipedia.org/wiki/Linux_console)
 * [explainshell.com/](https://explainshell.com/)
 * [xtermjs/xterm.js/](https://github.com/xtermjs/xterm.js/)
 * [linusakesson.net/programming/tty/*](http://www.linusakesson.net/programming/tty/*) [read -r - Google Search](https://www.google.com/search?client=firefox-b-d&q=read+-r)
 * [The Linux Kernel - Explained in an Easy to Understand Way - LinuxForDevices](https://www.linuxfordevices.com/tutorials/linux/linux-kernel)
-
-learn the basics and theory behind booting and boot systems
-     * [Mastering Linux Device Driver Development: Write custom device drivers to support computer peripherals in Linux operating systems](http://library.lol/main/1AADA903BA5864B644936811371911A0)
+* learn the basics and theory behind booting and boot systems     * [Mastering Linux Device Driver Development: Write custom device drivers to support computer peripherals in Linux operating systems](http://library.lol/main/1AADA903BA5864B644936811371911A0)
 * [Linux Kernel Programming Part 2 - Char Device Drivers and Kernel Synchronization](http://library.lol/main/F3C3DD0F5D1B8400A53F04F6120E1497)
 * [Essential Linux Device Drivers](http://library.lol/main/818F44C26B71502D7F8FE76C8E14544A)
 * [Linux Device Drivers](http://library.lol/main/A6E50843003816AE68F62BD0E0DD39D6)
@@ -71,18 +66,10 @@ learn the basics and theory behind booting and boot systems
 * [Set Up SSH Keys on Ubuntu 20.04](https://www.cloudpanel.io/tutorial/set-up-ssh-keys-on-ubuntu-20-04/)
 * [apt - How do I fix the GPG error "NO_PUBKEY"? - Ask Ubuntu](https://askubuntu.com/questions/13065/how-do-i-fix-the-gpg-error-no-pubkey)
 * [tree: ignore directories with patterns](https://zaiste.net/posts/tree-ignore-directories-patterns/)
-
-
 * [peropesis.org/](https://peropesis.org/)
-
-
 * [1000 Linux Questions & Answers](https://www.sanfoundry.com/technical-interview-questions/)
-
-
 * [Linux Kernel source code - Haevily Commented (Kernel Version 0.12)
-            * [2019 ed.]](http://libgen.is/book/index.php?md5=002593EDE5F8004A784483A0FAF4AE29)
-
-
+* [2019 ed.]](http://libgen.is/book/index.php?md5=002593EDE5F8004A784483A0FAF4AE29)
 * [freecodecamp.org/news/how-to-install-arch-linux/](https://www.freecodecamp.org/news/how-to-install-arch-linux/)
 * [wiki.archlinux.org/](https://wiki.archlinux.org/)
 * [kali.org/docs/introduction/what-is-kali-linux/](https://www.kali.org/docs/introduction/what-is-kali-linux/)
@@ -96,24 +83,19 @@ learn the basics and theory behind booting and boot systems
 * [Guake User Documentation — Guake 1.0 documentation](https://guake.readthedocs.io/en/stable/)
 * [wiki.ubuntu.com/Spanish](https://wiki.ubuntu.com/Spanish)
 * [docs.fedoraproject.org/fr/docs/](https://docs.fedoraproject.org/fr/docs/)
-
 * [Ubuntu - A Beginner's Guide](http://cdn.makeuseof.com/wp-content/uploads/2017/10/Ubuntu-A-Beginner%E2%80%99s-Guide.pdf)
 * [Chapter 1. Welcome to Ubuntu](https://help.ubuntu.com/lts/installation-guide/s390x/ch01.html)
 * [Tips, Tutorials and Guides Index - Tips, Tricks and Tutorials - Ubuntu MATE Community](https://ubuntu-mate.community/t/tips-tutorials-and-guides-index/14519/2)
 * [27 Best Linux Tutorial Books That You Need To Download Now](https://www.ubuntupit.com/27-best-linux-tutorial-books-need-download-now/)
 * [willmcgugan/rich: Rich is a Python library for rich text and beautiful formatting in the terminal.](https://github.com/willmcgugan/rich)
 * [charmbracelet/glow: Render markdown on the CLI, with pizzazz! 💅🏻](https://github.com/charmbracelet/glow)
-
 * [Linux | Physics.Math.Code.Books](https://vk.com/topic-51126445_32152962)
-
-
 * [Путівник про Linux](https://linuxguide.rozh2sch.org.ua/)
 * [Learning the Linux File System](https://www.youtube.com/watch?v=HIXzJ3Rz9po&list=WL&index=410)
 * [Linux File System/Structure Explained!](https://www.youtube.com/watch?v=HbgzrKJvDRw&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=147)
 * [Ubuntu 18.10 vs Fedora 29 - a different focus.](https://www.youtube.com/watch?v=LELgtzzu7sQ&list=WL&index=440)
 * [Unix vs Linux](https://www.youtube.com/watch?v=jowCUo_UGts&list=WL&index=392)
-
-The Linux Command Line
+* The Linux Command Line
 * [A Guide To The Best Laptops For Linux 2019 - Make A Website Hub](https://makeawebsitehub.com/best-laptops-linux/#best-laptops-for-linux)
 * [Best Linux laptops of 2019: the top open-source notebooks | TechRadar](https://www.techradar.com/news/best-linux-laptops)
 * [Debian -- Revendeurs d'ordinateurs qui préinstallent Debian](https://www.debian.org/distrib/pre-installed#de)
@@ -127,10 +109,7 @@ The Linux Command Line
 * [5 Awesome Linux Laptops You Can Buy Right Now](https://www.makeuseof.com/tag/three-awesome-linux-laptops-can-buy-right-now/)
 * [10 Places to Buy Linux Laptops in 2019](https://itsfoss.com/get-linux-laptops/)
 * [*Pop OS Review: Is This Beautiful Linux Distribution Worth Your Time?](https://itsfoss.com/pop-os-linux-review/)
-
 * [Linux Kernel Tutorial for Beginners – Linux Hint](https://linuxhint.com/linux-kernel-tutorial-beginners/)
-
-
 * [Slurm Workload Manager](https://slurm.schedmd.com/squeue.html)
 * [The Linux Command Line by William E. Shotts, Jr.](http://linuxcommand.org/tlcl.php)
 * [Unix/Linux Kurzskript](http://www.roesen.org/files/unix_1_geschichtliches.pdf)
@@ -141,28 +120,20 @@ The Linux Command Line
 * [Guide to useful Linux documentation - Fedora Project Wiki](https://fedoraproject.org/wiki/Guide_to_useful_Linux_documentation)
 * [hypexr.org/linux_scp_help.php](http://www.hypexr.org/linux_scp_help.php)
 * [askubuntu.com/questions/157381/in-ssh-how-do-i-mv-to-my-local-system](https://askubuntu.com/questions/157381/in-ssh-how-do-i-mv-to-my-local-system)
-
 * [Joe Collins](https://www.youtube.com/user/BadEditPro)
-
 * [ajeetdsouza/zoxide: A fast cd command that learns your habits](https://github.com/ajeetdsouza/zoxide)
-
 * [Get The Software - zeromq](http://zeromq.org/intro%3aget-the-software)
-
 * [Distrobox (GitHub Repo)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2F89luca89%2Fdistrobox%3Futm_source=tldrnewsletter/1/0100017d7ae10a75-bd5bba8d-5af5-4460-af01-771de58cb29d-000000/cBZk341BWtzRuL7Sph_cBFk3YxQuZalfsBOpPv5Zf8Y=226)
 * [ibus/ibus/wiki](https://github.com/ibus/ibus/wiki)
 * [utcc.utoronto.ca/~cks/space/blog/unix/XKeyboardRemappingNotes](https://utcc.utoronto.ca/~cks/space/blog/unix/XKeyboardRemappingNotes)
 * [Unix-for-corpus-users.pdf](http://www2.port.ac.uk/media/contacts-and-departments/slas/corpus-linguistics/Unix-for-corpus-users.pdf)
-
 * [freecodecamp.org/news/how-to-transfer-files-between-servers-in-linux-using-scp-and-ftp/](https://www.freecodecamp.org/news/how-to-transfer-files-between-servers-in-linux-using-scp-and-ftp/)
-
-
-
 * [linux-tutorial.info/modules.php?name=MContent&obj=glossary](http://www.linux-tutorial.info/modules.php?name=MContent&obj=glossary)
 * [roesen.org/files/unix_1_geschichtliches.pdf](http://www.roesen.org/files/unix_1_geschichtliches.pdf)
 * [linux.com/what-is-linux](https://www.linux.com/what-is-linux)
 * [Introduction to Linux](http://www.tldp.org/LDP/intro-linux/html/)
 * [Linux All In One For Dummies](https://b-ok.cc/book/3621151/14e1a2)
-* [Linux Books ***](https://vk.com/wall-51126445_45334)
+* [Linux Books ](https://vk.com/wall-51126445_45334)
 * [Linux File System for Humans](https://youtu.be/UFIoRLqhFpo)
 * [Linux Knowledge Base and Tutorial](http://www.linux-tutorial.info/modules.php?name=MContent&obj=glossary)
 * [Linux Machine](https://www.howtogeek.com/185286/how-to-buy-a-laptop-for-linux/)
@@ -171,18 +142,14 @@ The Linux Command Line
 * [Introduction to SLURM Tools - YouTube](https://www.youtube.com/watch?v=U42qlYkzP9k)
 * [Slurm Basics - YouTube](https://www.youtube.com/watch?v=49DzPT9HFJM)
 * [Convenient SLURM Commands | FAS Research Computing](https://www.rc.fas.harvard.edu/resources/documentation/convenient-slurm-commands/)
-
-mkdir -p nonexistent/newfolder/
-
+* mkdir -p nonexistent/newfolder/
 * how to create an atom plugin
-
 * [atom-archive/xray](https://github.com/atom-archive/xray)
 * [GNU/Linux - cours ✔](https://youtube.com/playlist?list=PLrSOXFDHBtfHKxuz6NySItyf4iSEcTw97)
 * [help.ubuntu.com/stable/ubuntu-help/](https://help.ubuntu.com/stable/ubuntu-help/)
 * [shell-tips.com/](https://www.shell-tips.com/)
 * [freecodecamp.org/news/linux-server-course-system-configuration-and-operation/](https://www.freecodecamp.org/news/linux-server-course-system-configuration-and-operation/)
 * [digitalocean.com/community/tutorials/how-to-set-up-jupyter-notebook-with-python-3-on-ubuntu-18-04](https://www.digitalocean.com/community/tutorials/how-to-set-up-jupyter-notebook-with-python-3-on-ubuntu-18-04)
-
 * [What is Oh My Zsh?](https://ohmyz.sh/)
 * [Volunteers · ohmyzsh/ohmyzsh Wiki · GitHub](https://github.com/ohmyzsh/ohmyzsh/wiki/Volunteers)
 * [darkblood-modular/darkblood-modular.zsh-theme at master · InAnimaTe/darkblood-modular · GitHub](https://github.com/InAnimaTe/darkblood-modular/blob/master/darkblood-modular.zsh-theme)
@@ -192,8 +159,6 @@ mkdir -p nonexistent/newfolder/
 * [How to configure zsh prompt so that its length is proportional to terminal width](https://unix.stackexchange.com/questions/369847/how-to-configure-zsh-prompt-so-that-its-length-is-proportional-to-terminal-width)
 * [13 Prompt Expansion](http://zsh.sourceforge.net/Doc/Release/Prompt-Expansion.html)
 * [Home · Spaceship ZSH](https://denysdovhan.com/spaceship-prompt/)
-
-
 * [training.linuxfoundation.org/free-linux-training](https://training.linuxfoundation.org/free-linux-training)
 * [Steven Rostedt - Learning the Linux Kernel with tracing - YouTube](https://www.youtube.com/watch?v=JRyrhsx-L5Y)
 * [**How Linux Works: What Every Superuser Should Know | Brian Ward | download](https://b-ok.cc/book/2657555/50e8d7?dsource=recommend)
@@ -204,7 +169,6 @@ mkdir -p nonexistent/newfolder/
 * [Linux All In One For Dummies | Emmett Dulaney | download](https://b-ok.cc/book/3621151/14e1a2?dsource=recommend)
 * [Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali | OccupyTheWeb | download](https://b-ok.cc/book/3653439/16c442?dsource=recommend)
 * [Mac OS X for Unix Geeks](https://learning.oreilly.com/library/view/mac-os-x/0596003560/)
-
 * [The Linux Command Line: A Complete Introduction | William E. Shotts | download](https://b-ok.cc/book/3704056/43b3c7?dsource=recommend)
 * [The System Library: libSystem - Mac OS X for Unix Geeks](https://learning.oreilly.com/library/view/mac-os-x/0596003560/ch05s02.html)
 * [Обзор Red Hat Enterprise Linux 6](https://www.youtube.com/watch?v=aChMK0wCXYQ&list=PL-_cKNuVAYAU0wszTQqn8uc-Kmhk5U1NE)
@@ -215,7 +179,6 @@ mkdir -p nonexistent/newfolder/
 * [LinuxFilesystemTreeOverview - Community Help Wiki](https://help.ubuntu.com/community/LinuxFilesystemTreeOverview)
 * [Yocto Project – It's not an embedded Linux distribution – it creates a custom one for you](https://www.yoctoproject.org/)
 * [Nitrux Is An Impressive Linux Distribution - YouTube](https://www.youtube.com/watch?v=LRqCe61yU30)
-
 * [Curso GNU Linux de 0 a Avanzado](https://www.youtube.com/watch?v=D2JDLJB9zLk&list=PLHX61pZ-vckihCRXshppLfHPY9OnZnMVv)
 * [Curso de linux avanzado](https://www.youtube.com/watch?v=vvJxNrQ26Os&list=PLyasZ9VOnqAJVlxs3q03ttyCBIUAmV4z8)
 * [Linux Avanzado](https://www.youtube.com/watch?v=PevBBj8hn5k&list=PL7R8nGUeQOrPXQQRo5hjaoGrQ55yaGPqF)
@@ -223,7 +186,7 @@ mkdir -p nonexistent/newfolder/
 * [Linux avanzado :: Administración y servicios](https://www.youtube.com/watch?v=rvuhQlE7VZg&list=PLeUHBdY1mUv7j0k6uaRzlyoGkZqEu-99x)
 * [CURSO DE LINUX CON UBUNTU 20.04 LTS](https://www.youtube.com/watch?v=SPHh1a_Dvu8&list=PLici-2x61p12a0b2pxSfIELXbnSleOg1r)
 * [Una Píldora al Día](https://www.youtube.com/watch?v=4qiipSWj93g&list=PL_E2EXhZMivvJgAcOJFF-lKmOiqe8jsCD)
-* [Curso de Linux](https://www.youtube.com/watch?v=oPG8cLhoyng&list=PL_E2EXhZMivsTzHxYUBuYcl6vM8mX1b8I) ***
+* [Curso de Linux](https://www.youtube.com/watch?v=oPG8cLhoyng&list=PL_E2EXhZMivsTzHxYUBuYcl6vM8mX1b8I) 
 * [Linux desde cero con ubuntu](https://www.youtube.com/watch?v=HuirxQ3Nxvc&list=PLoRfWwOOv4jyPstV84CUsjxRaSZgTlfcj)
 * [Sistemas operativos Ubuntu](https://www.youtube.com/watch?v=12s8XPrIMPg&list=PL6D829DA27F4C57DA)
 * [Linux avanzado :: Administración y servicios](https://www.youtube.com/watch?v=rvuhQlE7VZg&list=PLeUHBdY1mUv7j0k6uaRzlyoGkZqEu-99x)
@@ -231,7 +194,7 @@ mkdir -p nonexistent/newfolder/
 * [Curso: GNU/LINUX de CERO a AVANZADO 👨‍💻](https://www.youtube.com/watch?v=D_NhILSrqKE&list=PLBAZgZE2cgAfHKVjnlbswWTqBO4EuD0zy)
 * [GNU/Linux - cours ✔](https://www.youtube.com/watch?v=py1E14pXfAM&list=PLrSOXFDHBtfHKxuz6NySItyf4iSEcTw97)
 * [Formation Red Hat Enterprise Linux 1/2 : Réussir la certification RHCSA](https://www.youtube.com/watch?v=vm_wTTrnlbo&list=PL1aYsXmhJ1We3Fb-jo_HndFSpeKmFRWeB)
-* [](https://www.youtube.com/results?search_query=%D0%BF%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D1%8B%D0%B9+%D0%BA%D1%83%D1%80%D1%81+linux+)](https://www.youtube.com/results?search_query=продвинутый+курс+linux+](https://www.youtube.com/results?search_query=%D0%BF%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D1%8B%D0%B9+%D0%BA%D1%83%D1%80%D1%81+linux+))
+* [...](https://www.youtube.com/results?search_query=продвинутый+курс+linux+](https://www.youtube.com/results?search_query=%D0%BF%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D1%8B%D0%B9+%D0%BA%D1%83%D1%80%D1%81+linux+))
 * [Tutorial: Building the Simplest Possible Linux System - Rob Landley, se-instruments.com](https://www.youtube.com/watch?v=Sk9TatW9ino&t=2067s)
 * [Minimal Linux Live: The 7MB Linux OS](https://www.youtube.com/watch?v=01LknbMXqF8)
 * [Maîtriser le Shell Unix | Commandes Linux](https://www.youtube.com/watch?v=rqC_gvktVkc&list=PLAM-SVky60yhI5HXtgAnlGaG-2IolmZ-1)
@@ -247,38 +210,31 @@ mkdir -p nonexistent/newfolder/
 * [Introduction to Linux Kernel Architecture - YouTube](https://www.youtube.com/watch?v=yQ1XPe6gbK8)
 * [Kernel Basics - YouTube](https://www.youtube.com/watch?v=rTcnTOXf_jM)
 * [InfinitelyGalactic](https://www.youtube.com/user/InfinitelyGalactic)
-
 * [iterm2.com/index.html](https://iterm2.com/index.html)
 * [wiki.debian.org/NVIDIA](https://wiki.debian.org/NVIDIA) Optimus#Using_NVIDIA_PRIME_Render_Offload
 * [rheinwerk-verlag.de/linux-das-umfassende-handbuch/](https://www.rheinwerk-verlag.de/linux-das-umfassende-handbuch/)
 * [tutorialforlinux.com/2020/10/21/step-by-step-driver-epson-et-2750-ubuntu-20-10-installation-guide/3/](https://tutorialforlinux.com/2020/10/21/step-by-step-driver-epson-et-2750-ubuntu-20-10-installation-guide/3/)
 * [keyman.com/linux/](https://keyman.com/linux/)
 * [pine64.org/](https://www.pine64.org/)
-
-get kate ide?
+* get kate ide?
 * [wpdatatables.com/best-atom-packages/](https://wpdatatables.com/best-atom-packages/)
 * [github.blog/2020-12-15-token-authentication-requirements-for-git-operations/](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
-
-
-* [](https://www.youtube.com/@Chry55Player) (Linux IT)
-* [](https://www.youtube.com/@morrolinux) (Linux IT)
+* [video](https://www.youtube.com/@Chry55Player) (Linux IT)
+* [video](https://www.youtube.com/@morrolinux) (Linux IT)
 * [atareao.es/](https://atareao.es/) (Linux)
-* [](https://www.youtube.com/@SonTypimInternet) (Linux)
-* [](https://www.youtube.com/@TonDoesLinux)
-* [](https://www.youtube.com/@LinuxGuides) (DE)
+* [video](https://www.youtube.com/@SonTypimInternet) (Linux)
+* [video](https://www.youtube.com/@TonDoesLinux)
+* [video](https://www.youtube.com/@LinuxGuides) (DE)
 * [blackdown.org/](https://www.blackdown.org/)
 * [crux.nu/Main/Handbook3-7](https://crux.nu/Main/Handbook3-7)
 * [yoctoproject.org/](https://www.yoctoproject.org/)
-Git
-     * [Git Commands With Examples | Git Tutorial | Git Branching & Merging | DevOps Training | Edureka](https://www.youtube.com/watch?v=b5oQZdzA37I&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=18)
+* {Git    } [Git Commands With Examples | Git Tutorial | Git Branching & Merging | DevOps Training | Edureka](https://www.youtube.com/watch?v=b5oQZdzA37I&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=18)
 * [GitHub action to automatically add blog posts to your profile](https://www.reddit.com/r/programming/comments/iga8ki/github_action_to_automatically_add_blog_posts_to/)
 * [Clean Pull Request Instructions](https://gist.github.com/MarcDiethelm/7303312)
 * [system76.com/laptops](https://system76.com/laptops)
 * [system76.com/laptops/galp5/configure*](https://system76.com/laptops/galp5/configure*) [zdnet.com/pictures/10-super-sweet-laptops-that-come-with-linux-pre-installed/6/*](https://www.zdnet.com/pictures/10-super-sweet-laptops-that-come-with-linux-pre-installed/6/*) [zdnet.com/pictures/10-super-sweet-laptops-that-come-with-linux-pre-installed/7/](https://www.zdnet.com/pictures/10-super-sweet-laptops-that-come-with-linux-pre-installed/7/)
-
-ZaReason UltraLap 6440
+* ZaReason UltraLap 6440
 ZaReason Verix-9100
-
 * [news.lenovo.com/pressroom/press-releases/lenovo-launches-linux-ready-thinkpad-and-thinkstation-pcs-preinstalled-with-ubuntu/#:~:text=Lenovo%20Launches%20Linux%2DReady%20ThinkPad%20and%20ThinkStation%20PCs%20Preinstalled%20with%20Ubuntu,-23%20September%202020&text=September%2023%2C%202020%20%E2%80%93%20Today%2C,Ubuntu%C2%AE%20LTS%20operating%20system.](https://news.lenovo.com/pressroom/press-releases/lenovo-launches-linux-ready-thinkpad-and-thinkstation-pcs-preinstalled-with-ubuntu/#:~:text=Lenovo%20Launches%20Linux%2DReady%20ThinkPad%20and%20ThinkStation%20PCs%20Preinstalled%20with%20Ubuntu,-23%20September%202020&text=September%2023%2C%202020%20%E2%80%93%20Today%2C,Ubuntu%C2%AE%20LTS%20operating%20system.)
 * [kofler.info/linux-notebook/*](https://kofler.info/linux-notebook/*) [support.lenovo.com/us/en/solutions/pd031426-linux-for-personal-systems](https://support.lenovo.com/us/en/solutions/pd031426-linux-for-personal-systems)
 * [google.com/search?q=best+pre-installed+linux+machine](https://www.google.com/search?q=best+pre-installed+linux+machine&rlz=1C5CHFA_enUS800US800&oq=best+&aqs=chrome.0.69i59l3j69i57j69i61j69i65l2j69i61.2605j0j4&sourceid=chrome&ie=UTF-8)
@@ -288,13 +244,11 @@ ZaReason Verix-9100
 * [google.com/search?q=pros+and+cons+of+debian](https://www.google.com/search?q=pros+and+cons+of+debian)
 * [datamation.com/open-source/7-reasons-to-use-debian-and-3-reasons-not-to.html](https://www.datamation.com/open-source/7-reasons-to-use-debian-and-3-reasons-not-to.html)
 * [distrowatch.com/search.php?ostype=All&category=All&origin=All&basedon=Debian&notbasedon=None&desktop=All&architecture=All&package=All&rolling=All&isosize=All&netinstall=All&language=All&status=Active#simple](https://distrowatch.com/search.php?ostype=All&category=All&origin=All&basedon=Debian&notbasedon=None&desktop=All&architecture=All&package=All&rolling=All&isosize=All&netinstall=All&language=All&status=Active#simple)
-     * [Linux Action News](https://linuxactionnews.com/)
-
-Linux User (Zeitschrift)
+* [Linux Action News](https://linuxactionnews.com/)
+* Linux User (Zeitschrift)
 * [tecmint.com/learn-nano-text-editor-in-linux/](https://www.tecmint.com/learn-nano-text-editor-in-linux/)
 * [lifewire.com/beginners-guide-to-nano-editor-3859002](https://www.lifewire.com/beginners-guide-to-nano-editor-3859002)
 * [howtogeek.com/howto/42980/the-beginners-guide-to-nano-the-linux-command-line-text-editor/](https://www.howtogeek.com/howto/42980/the-beginners-guide-to-nano-the-linux-command-line-text-editor/)
-
 * [System76](https://www.youtube.com/channel/UC3JEJPE0Z5H3PQVOran_1hg)
 * [system76](https://github.com/system76)
 * [community.suse.com/](https://community.suse.com/)
@@ -303,14 +257,12 @@ Linux User (Zeitschrift)
 * [linuxmint.com/documentation.php](https://linuxmint.com/documentation.php)
 * [manjaro.org/](https://manjaro.org/)
 * [zorin.com/](https://zorin.com/)
-
-Kroah-Hartman (Linux LL)
+* Kroah-Hartman (Linux LL)
 * [buildyourownlinux.com/](http://www.buildyourownlinux.com/)
 * [Welcome to Linux From Scratch!](http://linuxfromscratch.org/)
 * [kalker - A flexible calculator that supports variables and functions defined by the user](https://kalker.strct.net/)
 * [PaddiM8/kalker: Kalker/kalk is a calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals](https://github.com/PaddiM8/kalker)
 * [linuxsurvival.com/](https://linuxsurvival.com/)
-
 
 ## Vim
 
@@ -345,8 +297,8 @@ Kroah-Hartman (Linux LL)
 * [Onramp to Vim | Online Tutorial by thoughtbot](https://thoughtbot.com/upcase/onramp-to-vim)
 * [Vim games](https://www.reddit.com/r/vim/comments/a7wusl/vim_games/)
 * [learnvimscriptthehardway.stevelosh.com](https://learnvimscriptthehardway.stevelosh.com/)
-* [reddit.com/r/vim/comments/1x3my7/vimtronner_is_a_multiplayer_realtime_commandline/](https://www.reddit.com/r/vim/comments/1x3my7/vimtronner_is_a_multiplayer_realtime_commandline/)
-* [reddit.com/r/vim/comments/a7wusl/vim_games/](https://www.reddit.com/r/vim/comments/a7wusl/vim_games/)
+* [r/vim/comments/1x3my7/vimtronner_is_a_multiplayer_realtime_commandline/](https://www.reddit.com/r/vim/comments/1x3my7/vimtronner_is_a_multiplayer_realtime_commandline/)
+* [r/vim/comments/a7wusl/vim_games/](https://www.reddit.com/r/vim/comments/a7wusl/vim_games/)
 Vimtutor in MacVim app
 * [vim.fandom.com/wiki/Vim_Tips_Wiki](https://vim.fandom.com/wiki/Vim_Tips_Wiki)
 * [codecombat.com/](https://codecombat.com/)
@@ -388,8 +340,7 @@ Vimtutor in MacVim app
 * [onivim/oni2*](https://github.com/onivim/oni2*) [developer.ibm.com/articles/l-vim-script-1/](https://developer.ibm.com/articles/l-vim-script-1/)
 * [vim.fandom.com/wiki/Use_Vim_like_an_IDE](https://vim.fandom.com/wiki/Use_Vim_like_an_IDE)
 * [DamZiobro/vim-ide](https://github.com/DamZiobro/vim-ide)
-
-use vim like an IDE
+* use vim like an IDE
 * [jez/vim-as-an-ide](https://github.com/jez/vim-as-an-ide)
 * [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim)
 * [neoclide](https://github.com/neoclide)
@@ -401,12 +352,12 @@ use vim like an IDE
 * [spacevim.org/use-vim-as-a-python-ide/](https://spacevim.org/use-vim-as-a-python-ide/)
 
 ## Shell
+
 * [Resultados de búsqueda - shell scripting](https://drive.google.com/drive/search?q=shell%20scripting)
 * [Jürgen Wolf - Shell-Programmierung: Das umfassende Handbuch, 3. Auflage](http://libgen.rs/book/index.php?md5=7CCFBFA22DBC4A22AD79BA5189BEE788)
 * [Bash Shell Scripting - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Bash_Shell_Scripting#:~:text=The language of Bash commands,to perform it in Bash.)
 * [Systems Programming in Unix/Linux_K.C. Wang_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-92429-8)
-
-Shell Scripting (Robbins & Beebe)
+* Shell Scripting (Robbins & Beebe)
 What can't you do with shell scripting?
 * [Shell Scripting Tutorial](https://www.youtube.com/watch?v=hwrnmQumtPw&list=WL&index=442)
 * [Bash Quick Start Guide Get Up and Running with Shell Scripting with Bash | Tom Ryder | download](https://b-ok.cc/book/3608878/a2f513)
@@ -438,7 +389,6 @@ What can't you do with shell scripting?
 * [zsh.org/](https://www.zsh.org/)
 * [ohmyz.sh/](https://ohmyz.sh/)
 * [ohmyz.sh/](https://ohmyz.sh/)
-
 * [Take control of your data with associative arrays in Bash](https://opensource.com/article/20/6/associative-arrays-bash)
 * [linuxhint.com/bash_operator_examples/](https://linuxhint.com/bash_operator_examples/)
 * [Розділ 1. Основи Bash](http://docs.linux.org.ua/LDP/Bash_beginners_guide/bash_and_bash_scripts/)
@@ -470,9 +420,8 @@ What can't you do with shell scripting?
 * [Summary](https://linux.die.net/Bash-Beginners-Guide/sect_02_05.html)
 
 
-
-
 ## Books
+
 * [Arch Linux Books](http://libgen.is/search.php?req=arch+linux&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 * [Building Embedded Linux Systems [2 ed.]](http://libgen.is/book/index.php?md5=A2E20D7FF8A88E34C33CCBAA218E53EC)
 * [Внутреннее устройство Linux [2016]](https://vk.com/doc576778753_560263169?hash=e719984355c032cd87&dl=8476340203234f884e)
@@ -506,9 +455,6 @@ What can't you do with shell scripting?
 * [Linux Kernel Internals [2nd ed]](http://libgen.is/book/index.php?md5=0D7BDF514D114345E94C6E1A20F15B06)
 * [Linux Kernel Crash Book Everything you need to know](http://libgen.is/book/index.php?md5=4235C4ACAAE3F9CEA960CA6FB25D0138)
 * [Concrete Architecture of the Linux Kernel](http://libgen.is/book/index.php?md5=4E15C97E21A8F49742CF467593AC4C6A)
-
-
-
 
 
 

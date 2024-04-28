@@ -1,14 +1,11 @@
-x  #           * y?\V<C-R>"<CR>
-                 Nvim builtin
+x  #           * y?\V<C-R>"<CR>                 Nvim builtin
+
 o  %             <Plug>(MatchitOperationForward)
 x  %             <Plug>(MatchitVisualForward)
 n  %             <Plug>(MatchitNormalForward)
-n  &           * :&&<CR>
-                 Nvim builtin
-x  *           * y/\V<C-R>"<CR>
-                 Nvim builtin
-n  Y           * y$
-                 Nvim builtin
+n  &           * :&&<CR>                 Nvim builtin
+x  *           * y/\V<C-R>"<CR>                 Nvim builtin
+n  Y           * y$                 Nvim builtin
 o  [%            <Plug>(MatchitOperationMultiBackward)
 x  [%            <Plug>(MatchitVisualMultiBackward)
 n  [%            <Plug>(MatchitNormalMultiBackward)
@@ -36,5 +33,4 @@ x  <Plug>(MatchitVisualBackward) * :<C-U>call matchit#Match_wrapper('',0,'v')<CR
 x  <Plug>(MatchitVisualForward) * :<C-U>call matchit#Match_wrapper('',1,'v')<CR>:if col("''") != col("$") | exe ":normal! m'" | endif<CR>gv``
 n  <Plug>(MatchitNormalBackward) * :<C-U>call matchit#Match_wrapper('',0,'n')<CR>
 n  <Plug>(MatchitNormalForward) * :<C-U>call matchit#Match_wrapper('',1,'n')<CR>
-n  <C-L>       * <Cmd>nohlsearch|diffupdate|normal! <C-L><CR>
-                 Nvim builtin
+n  <C-L>       * <Cmd>nohlsearch|diffupdate|normal! <C-L><CR>                 Nvim builtin

@@ -1,7 +1,7 @@
 # TeX
 
-
 ## General Resources/ Sites
+
 * [TeX Resources on the Web - TeX Users Group](https://www.tug.org/interest.html)
 * [*LaTeX Cookbook](http://latex-cookbook.net/)
 * [latex-cookbook.net/](https://latex-cookbook.net/)
@@ -26,19 +26,19 @@
 * [LaTeX Templates](http://www.latextemplates.com/)
 * [MartinThoma/LaTeX-examples: Examples for the usage of LaTeX](https://github.com/MartinThoma/LaTeX-examples/)
 
-
 ## Orgs
+
 * [DANTE e.V. | Deutschsprachige Anwendervereinigung TeX e.V.](https://www.dante.de/)
 * [dante.de/hilfe.html](http://www.dante.de/hilfe.html)
 
-
 ## Templates
+
 * [wzchen.com/probability-cheatsheet](http://www.wzchen.com/probability-cheatsheet)
 * [Cheatsheet Code](https://github.com/tao-bian-nyu/Reinforcement-Learning-Cheat-Sheet)
 * [ARPA-FVG beamer presentation template - Overleaf, Online LaTeX Editor](https://www.overleaf.com/latex/templates/arpa-fvg-beamer-presentation-template/gvcjvvcxkhfx)
 
-
 ## Tools, Distributions
+
 * [LaTeX Equation Editor for Writing Maths on the Internet](https://www.codecogs.com/latex/eqneditor.php)
 * [tikzit.github.io/*](https://tikzit.github.io/*) 1. [tikzit/tikzit](https://github.com/tikzit/tikzit)
 * [pandoc.org](https://pandoc.org)
@@ -63,16 +63,16 @@
 * [Detexify LaTeX handwritten symbol recognition](http://detexify.kirelabs.org/classify.html)
 * [mendeley.com/library/](https://www.mendeley.com/library/)
 
-
 ## Internals
+
 * [TeX: Reference and Examples by David Bausum](http://www.tug.org/utilities/plain/cseq.html)
 * ftp://tug.ctan.org/pub/tex-archive/systems/knuth/dist/tex/tex.web
 * [Some useful commands for syntax & semantics](https://gist.github.com/klapheke/0205ae634f5834bf7d97)
 * [latex-project.org/help/documentation/source2e.pdf](https://www.latex-project.org/help/documentation/source2e.pdf)
 * [tug.org/texlive/scripts-sys-user.html](http://tug.org/texlive/scripts-sys-user.html)
 
-
 ## Packages, Docs
+
 * [fontspec](https://mirror.physik.tu-berlin.de/pub/CTAN/macros/unicodetex/latex/fontspec/fontspec.pdf)
 * [Pgfplots package - Overleaf, Онлайн редактор LaTeX](https://ru.overleaf.com/learn/latex/Pgfplots_package)
 * [TeXdoc Online • TeX and LaTeX Documentation](http://texdoc.net/)
@@ -80,26 +80,24 @@
 * [TeXShop](https://pages.uoregon.edu/koch/texshop/documentation.html)
 
 
-
-
-
 ## Fonts
-* [pdelfino/elon-analise-real](https://github.com/pdelfino/elon-analise-real) → get font!!! ***** (also .tex code) also email [pdelfino.com.br/](http://www.pdelfino.com.br/)
+
+* [pdelfino/elon-analise-real](https://github.com/pdelfino/elon-analise-real) → get font!!!  (also .tex code) also email [pdelfino.com.br/](http://www.pdelfino.com.br/)
 * [The St Mary’s Road symbol font](http://ftp.gwdg.de/pub/ctan/fonts/stmaryrd/stmaryrd.pdf)
 * [tex.stackexchange.com/questions/24691/how-to-install-otf-fonts-with-otfinst-py](https://tex.stackexchange.com/questions/24691/how-to-install-otf-fonts-with-otfinst-py)
 * [tex.stackexchange.com/questions/69901/how-to-typeset-greek-letters](https://tex.stackexchange.com/questions/69901/how-to-typeset-greek-letters)
 
-
 ## People
+
 * [MartinThoma (Martin Thoma)](https://github.com/MartinThoma)
 * [MartinThoma](https://github.com/MartinThoma)
 
-
 ## →
+
 * [see links](https://www.linuxlinks.com/excellent-free-books-learn-latex/)
 
-
 ## Books, Articles
+
 * [LaTeX - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/LaTeX)
 * [The TeXbook](http://library.lol/main/24698EE5BEF9ECE2DD07ECF7972C2AFE)
 * [eijkhout.net/tex/tex-by-topic.html](https://www.eijkhout.net/tex/tex-by-topic.html)
@@ -145,15 +143,17 @@
 * [latex.silmaril.ie/formattinginformation/index.html](http://latex.silmaril.ie/formattinginformation/index.html)
 
 ## Q & A
+
 * [TeX und LaTeX, Fragen und Antworten - TeXwelt](https://texwelt.de/wissen/)
 * [LaTeX - TeXnique](http://texnique.fr/osqa/)
 * [texnique.fr/osqa/](http://texnique.fr/osqa/)
 * [Hilfe](http://www.dante.de/hilfe.html)
 * [LaTeX - TeXnique](https://texnique.fr/osqa/)
 
-
 ## READ!
+
 ### SORT 1S Reading / Watching,
+
 * [en.wikipedia.org/wiki/TeX](https://en.wikipedia.org/wiki/TeX)
 * [LaTeX Workshop for Linguists](https://www.adamliter.org/content/LaTeX/latex-workshop-for-linguists.pdf)
 * [plotting functions in latex - Поиск в Google](https://www.google.com/search?q=plotting+functions+in+latex&rlz=1C1GCEA_enUS836&oq=plotting+functions+in+latex&aqs=chrome..69i57j0l2.4102j0j7&sourceid=chrome&ie=UTF-8)
@@ -177,6 +177,7 @@
 * [adamliter.org/content/LaTeX/latex-workshop-for-linguists.pdf](https://www.adamliter.org/content/LaTeX/latex-workshop-for-linguists.pdf)
 
 ### Interlinear, etc.
+
 * [tex.stackexchange.com/questions/45520/doing-an-interlinear-text](https://tex.stackexchange.com/questions/45520/doing-an-interlinear-text)
 * [LaTeX multiple columns](https://www.overleaf.com/learn/latex/Multiple_columns)
 * [*Newest 'parallel-texts' Questions - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/tagged/parallel-texts)
@@ -206,6 +207,7 @@
 * [tex.stackexchange.com/questions/45520/doing-an-interlinear-text](https://tex.stackexchange.com/questions/45520/doing-an-interlinear-text)
 
 ### Plotting
+
 * [Plotting in three dimensions | Recipe](http://latex-cookbook.net/cookbook/examples/3d-plot/)
 * [tikz pgf - Draw an animated gif of trigonometry function - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/291627/draw-an-animated-gif-of-trigonometry-function)
 * [FSA with TikZ](https://www3.nd.edu/~kogge/courses/cse30151-fa17/Public/other/tikz_tutorial.pdf)
@@ -220,6 +222,6 @@
 * [ccs.neu.edu/home/lieber/papers/thomas/drawing/drawing2010.tex](http://www.ccs.neu.edu/home/lieber/papers/thomas/drawing/drawing2010.tex)
 
 ### Misc
+
 * [LaTeX IPA](https://www.tug.org/tugboat/tb17-2/tb51rei.pdf)
 * [juliadatascience.io/using-latexstrings.jl](https://juliadatascience.io/using-latexstrings.jl)
-

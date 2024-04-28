@@ -1,26 +1,25 @@
 # C
+
 ## A. General
+
 ### Historia de la matemática
 
-Alles Mathematik. Von Pythagoras zu Big Data.pdf
+* Alles Mathematik. Von Pythagoras zu Big Data.pdf
 * Geschiedenis van de wiskunde.pdf
 * Grands mathématiciens modernes.pdf
 * Histoire des mathématiques de l'antiquité à l'an mille.pdf
-* I numeri magici di Fibonacci. L'avventurosa scoperta che cambiò la storia della matematica.epub
-
-Пифагор и ранние пифагорейцы.pdf
+* I numeri magici di Fibonacci. L'avventurosa scoperta che cambiò la storia della matematica.epu$1
+* $2ифагор и ранние пифагорейцы.pdf
 * Aportaciones de las mujeres a las matemáticas.pdf
-
 
 ### Matemática para economía
 
-Introductory Mathematical Analysis for Business Economics and the Life and Social Sciences.pdf
+* Introductory Mathematical Analysis for Business Economics and the Life and Social Sciences.pdf
 * Maths for Economics - Formula Sheet.pdf
 * Must-Have Math Tools for Graduate Study in Economics.pdf
 * Mathematical Methods in Economics and Social Choice (Schofield).pdf
-* Sydsæter - Economists’ Mathematical Manual.pdf
-
-Высшая Математика для Экономистов (Кремер).pdf
+* Sydsæter - Economists’ Mathematical Manual.pd$1
+* $2ысшая Математика для Экономистов (Кремер).pdf
 * Cookbook of Mathematics.pdf
 * Essential Mathematics for Economic Analysis (Sydsæter & Hammond).pdf
 * Foundations of Mathematical Economics (Carter).pdf
@@ -52,47 +51,27 @@ Introductory Mathematical Analysis for Business Economics and the Life and Socia
 * Précis de mathématiques  pour la gestion et l’économie - Exercices et corrigés.pdf
 * Real Analysis with Economic Applications.epub
 * Sydsæter & Hammond (1) - Essential Mathematics for Economic Analysis.pdf
-* Sydsaeter & Hammond (1) - Matemáticas para el análisis económico.pdf
-
-ВИЩА МАТЕМАТИКА В ПРИКЛАДАХ І ЗАДАЧАХ
-
-ВИЩА МАТЕМАТИКА ДЛЯ  ЕКОНОМІСТІВ (Буценко).pdf
-
-Вища математика для Економіки.pdf
-
-ВИЩА МАТЕМАТИКА ДЛЯ ЕКОНОМІСТІВ .pdf
-
-ВИЩА МАТЕМАТИКА ДЛЯ ЕКОНОМІСТІВ (Пасічник).pdf
-
-ВИЩА МАТЕМАТИКА ДЛЯ ЕКОНОМІСТІВ НАВЧАЛЬНИЙ ПОСІБНИК (БАРКОВСЬКИЙ).pdf
-
-ВИЩА МАТЕМАТИКА ДЛЯ ЕКОНОМІСТІВ. Частина 2. Теорія ймовірностей і математична статистика
-
-ВИЩА МАТЕМАТИКА ДЛЯ ЕКОНОМІСТІВ. Частина 3. Інтегральне числення. Диференціальні рівняння. Ряди
-
-Высшая математика для экономистов.pdf
-
-Долгіх - МАТЕМАТИКА  ДЛЯ ЕКОНОМІСТІВ. Математична статистика (Практикум).pdf
-
-Долгіх I.pdf
-
-Долгіх II.pdf
-
-Долгіх III.pdf
-
-МАТЕМАТИКА  ДЛЯ ЕКОНОМІСТІВ. Математична статистика.pdf
-
-Математика для економістів (Пасічник).pdf
-
-МАТЕМАТИКА ДЛЯ ЕКОНОМІСТІВ Практікум.pdf
-
-Математика для економістів. Вища математика для економістів.pdf
-
-Математическая статистика для экономистов.djvu
-
-Математические методы и модели в экономике.pdf
-
-Теория вероятностей. Управляемые цепи Маркова в экономике.djvu
+* Sydsaeter & Hammond (1) - Matemáticas para el análisis económico.pd$1
+* $2ИЩА МАТЕМАТИКА В ПРИКЛАДАХ І ЗАДАЧА$1
+* $2ИЩА МАТЕМАТИКА ДЛЯ  ЕКОНОМІСТІВ (Буценко).pd$1
+* $2ища математика для Економіки.pd$1
+* $2ИЩА МАТЕМАТИКА ДЛЯ ЕКОНОМІСТІВ .pd$1
+* $2ИЩА МАТЕМАТИКА ДЛЯ ЕКОНОМІСТІВ (Пасічник).pd$1
+* $2ИЩА МАТЕМАТИКА ДЛЯ ЕКОНОМІСТІВ НАВЧАЛЬНИЙ ПОСІБНИК (БАРКОВСЬКИЙ).pd$1
+* $2ИЩА МАТЕМАТИКА ДЛЯ ЕКОНОМІСТІВ. Частина 2. Теорія ймовірностей і математична статистик$1
+* $2ИЩА МАТЕМАТИКА ДЛЯ ЕКОНОМІСТІВ. Частина 3. Інтегральне числення. Диференціальні рівняння. Ряд$1
+* $2ысшая математика для экономистов.pd$1
+* $2олгіх - МАТЕМАТИКА  ДЛЯ ЕКОНОМІСТІВ. Математична статистика (Практикум).pd$1
+* $2олгіх I.pd$1
+* $2олгіх II.pd$1
+* $2олгіх III.pd$1
+* $2АТЕМАТИКА  ДЛЯ ЕКОНОМІСТІВ. Математична статистика.pd$1
+* $2атематика для економістів (Пасічник).pd$1
+* $2АТЕМАТИКА ДЛЯ ЕКОНОМІСТІВ Практікум.pd$1
+* $2атематика для економістів. Вища математика для економістів.pd$1
+* $2атематическая статистика для экономистов.djv$1
+* $2атематические методы и модели в экономике.pd$1
+* $2еория вероятностей. Управляемые цепи Маркова в экономике.djvu
 
 < -1> Математика. Полная энциклопедия.pdf
 
@@ -100,19 +79,16 @@ Introductory Mathematical Analysis for Business Economics and the Life and Socia
 
 <><><> __ A Programmer's Introduction to Mathematics
 
-<><><> Essential Math for Data Science
-
-Математика Иллюстрированная История
+<><><> Essential Math for Data Scienc$1
+* $2атематика Иллюстрированная История
 * Mathematics for Game Developers
 * Math Undergrad.pdf
-* MHB Mathe.pdf
-
-Архетипы математики.pdf
+* MHB Mathe.pd$1
+* $2рхетипы математики.pdf
 * MHB Mathe.pdf
 * Math Vocab
-* Foundations of Applied Mathematics.pdf
-
-Математика в огне.pdf
+* Foundations of Applied Mathematics.pd$1
+* $2атематика в огне.pdf
 * Vorkurs Mathematik Theorie und Aufgaben.pdf
 * Introductory Mathematics. Algebra and Analysis.pdf
 * What Should a Professional Mathematician Know (Mazur).pdf
@@ -136,11 +112,9 @@ Introductory Mathematical Analysis for Business Economics and the Life and Socia
 * Mathematics of Machine Learning. An Introduction.pdf
 * Tutorial Math for Deep Learning.pdf
 * Mathématiques et statistique pour les sciences de la nature →
-* Mathematics for Econometrics
-
-ВЫСШАЯ МАТЕМАТИКА I-III.pdf
-
-Высшая математика I.pdf
+* Mathematics for Econometric$1
+* $2ЫСШАЯ МАТЕМАТИКА I-III.pd$1
+* $2ысшая математика I.pdf
 * Algebra und Diskrete Mathematik 1.pdf
 * Good Math. A Geek's Guide to the Beauty of Numbers, Logic, and Computation.pdf
 * Histoire de problemes, histoire des mathematiques.pdf
@@ -148,9 +122,8 @@ Introductory Mathematical Analysis for Business Economics and the Life and Socia
 * Math for CS.pdf
 * Pi und Co. Kaleidoskop der Mathematik.pdf
 * The Math Book.pdf
-* Ergänzungen und Vertiefungen zu Arens et al., Mathematik.pdf
-
-Математические формулы. Алгебра. Геометрия. Математический анализ
+* Ergänzungen und Vertiefungen zu Arens et al., Mathematik.pd$1
+* $2атематические формулы. Алгебра. Геометрия. Математический анализ
 * El Libro De Las Matemáticas. De Pitagoras a La 57 Dimensión.pdf
 * Geschichte der Mathematik kompakt. Das Wichtigste aus Arithmetik, Geometrie, Algebra, Zahlentheorie und Logik.pdf
 * A Concise Handbook of Mathematics, Physics, and Engineering.pdf
@@ -236,162 +209,88 @@ Introductory Mathematical Analysis for Business Economics and the Life and Socia
 * Une histoire des mathematiques.pdf
 * Unser mathematisches Universum.epub
 * Wild Mathing. Математика.pdf
-* Wiskunde: algebra, analyse en meetkunde.pdf
-
-Алгебра и начало математического анализа.pdf
-
-Апология математики.pdf
-
-Большой роман о математике.pdf
-
-ВЕЛИКИЕ МАТЕМАТИКИ  ПРОШЛОГО  И ИХ ВЕЛИКИЕ ТЕОРЕМЫ.pdf
-
-Величайшие математические задачи.epub
-
-Вища математика в прикладах і задачах. Навчальний посібник.pdf
-
-ВИЩА МАТЕМАТИКА В ПРИКЛАДАХ І ЗАДАЧАХ.pdf
-
-Вне формата. Занимательная математика.djvu
-
-Думай как математик (Окли).pdf
-
-Думай как математик.pdf
-
-Живая математика. Математические рассказы и головоломки.pdf
-
-Задачи с решениями по высшей математике.pdf
-
-Избранные главы элементарной математики.djvu
-
-Как математика ум в порядок приводит.pdf
-
-Как разгадать Код да Винчи.pdf
-
-Краткий справочник по математике.pdf
-
-Лекции по математике - от Диафанта до .djvu
-
-Магия математики. Как найти x и зачем это нужно.pdf
-
-Математика - наука и профессия.djvu
-
-Математика 50 идей, о которых нужно знать.pdf
-
-Математика XIX века. Книга 1. Математическая логика, алгебра, теория.djvu
-
-Математика в залачах с решениями.pdf
-
-Математика в комиксах.pdf
-
-Математика для мистиков.pdf
-
-Математика для мистиков.pdf
-
-Математика Иллюстрированная история.pdf
-
-Математика как метафора.pdf
-
-Математика как метафора.pdf
-
-Математика лабиринта.djvu
-
-Математика лабиринта.djvu
-
-Математика на шахматной доске.pdf
-
-Математика на шахматной доске.pdf
-
-МАТЕМАТИКА от А до Я.pdf
-
-Математика. Сборник задач по углубленному курсу.pdf
-
-Математика. Сборник задач по углубленному курсу.pdf
-
-Математика.png
-
-Математические фокусы.djvu
-
-Математические фокусы.djvu
-
-Математический дивертисмент. 30 лекций по классической математике.djvu
-
-Математический словарь (1).pdf
-
-Математический словарь для высшей школы.djvu
-
-Математический Словарь.pdf
-
-Математическое понимание природы.pdf
-
-Математическое понимание природы.pdf
-
-Основы высшей математики Гусак.pdf
-
-Основы высшей математики и математической статистики.pdf
-
-ПЛАЧ МАТЕМАТИКА.pdf
-
-Прелюдия к математике.djvu
-
-Решение сложных и нестандартных задач.djvu
-
-Решение сложных и нестандартных задач.djvu
-
-РУССКО-АНГЛИЙСКИЙ СЛОВАРЬ МАТЕМАТИЧЕСКИХ ТЕРМИНОВ.pdf
-
-Сборник конкурсных задач по математике.pdf
-
-Сборник конкурсных задач по математике.pdf
-
-Сборник олимпиадных задач.djvu
-
-Сборник олимпиадных задач.djvu
-
-Справочник по высшей математике.gsheet
-
-Стратегии решения математических задач.pdf
-
-Стратегии решения математических задач.pdf
-
-Творчество в математике.pdf
-
-Творчество в математике.pdf
-
-Удовольствие от Х.pdf
-
-Удовольствие от Х.pdf
-
-Хрестоматия по истории математики.djvu
-
-Хрестоматия по истории математики.djvu
-
-Числа от арифметики до высшей математики (Азимов).djvu
-
-Числа от арифметики до высшей математики (Азимов).djvu
-
-Что такое математика.pdf
-
-Что такое математика.pdf
-
-Шумеро-вавилонская математика.djvu
-
-Шумеро-вавилонская математика.djvu
-
-Энциклопелия для детей. Математика.pdf
-
-Энциклопелия для детей. Математика.pdf
-
-Энциклопелия для детей. Математика.pdf
-
-Энциклопелия для детей. Математика.pdf
+* Wiskunde: algebra, analyse en meetkunde.pd$1
+* $2лгебра и начало математического анализа.pd$1
+* $2пология математики.pd$1
+* $2ольшой роман о математике.pd$1
+* $2ЕЛИКИЕ МАТЕМАТИКИ  ПРОШЛОГО  И ИХ ВЕЛИКИЕ ТЕОРЕМЫ.pd$1
+* $2еличайшие математические задачи.epu$1
+* $2ища математика в прикладах і задачах. Навчальний посібник.pd$1
+* $2ИЩА МАТЕМАТИКА В ПРИКЛАДАХ І ЗАДАЧАХ.pd$1
+* $2не формата. Занимательная математика.djv$1
+* $2умай как математик (Окли).pd$1
+* $2умай как математик.pd$1
+* $2ивая математика. Математические рассказы и головоломки.pd$1
+* $2адачи с решениями по высшей математике.pd$1
+* $2збранные главы элементарной математики.djv$1
+* $2ак математика ум в порядок приводит.pd$1
+* $2ак разгадать Код да Винчи.pd$1
+* $2раткий справочник по математике.pd$1
+* $2екции по математике - от Диафанта до .djv$1
+* $2агия математики. Как найти x и зачем это нужно.pd$1
+* $2атематика - наука и профессия.djv$1
+* $2атематика 50 идей, о которых нужно знать.pd$1
+* $2атематика XIX века. Книга 1. Математическая логика, алгебра, теория.djv$1
+* $2атематика в залачах с решениями.pd$1
+* $2атематика в комиксах.pd$1
+* $2атематика для мистиков.pd$1
+* $2атематика для мистиков.pd$1
+* $2атематика Иллюстрированная история.pd$1
+* $2атематика как метафора.pd$1
+* $2атематика как метафора.pd$1
+* $2атематика лабиринта.djv$1
+* $2атематика лабиринта.djv$1
+* $2атематика на шахматной доске.pd$1
+* $2атематика на шахматной доске.pd$1
+* $2АТЕМАТИКА от А до Я.pd$1
+* $2атематика. Сборник задач по углубленному курсу.pd$1
+* $2атематика. Сборник задач по углубленному курсу.pd$1
+* $2атематика.pn$1
+* $2атематические фокусы.djv$1
+* $2атематические фокусы.djv$1
+* $2атематический дивертисмент. 30 лекций по классической математике.djv$1
+* $2атематический словарь (1).pd$1
+* $2атематический словарь для высшей школы.djv$1
+* $2атематический Словарь.pd$1
+* $2атематическое понимание природы.pd$1
+* $2атематическое понимание природы.pd$1
+* $2сновы высшей математики Гусак.pd$1
+* $2сновы высшей математики и математической статистики.pd$1
+* $2ЛАЧ МАТЕМАТИКА.pd$1
+* $2релюдия к математике.djv$1
+* $2ешение сложных и нестандартных задач.djv$1
+* $2ешение сложных и нестандартных задач.djv$1
+* $2УССКО-АНГЛИЙСКИЙ СЛОВАРЬ МАТЕМАТИЧЕСКИХ ТЕРМИНОВ.pd$1
+* $2борник конкурсных задач по математике.pd$1
+* $2борник конкурсных задач по математике.pd$1
+* $2борник олимпиадных задач.djv$1
+* $2борник олимпиадных задач.djv$1
+* $2правочник по высшей математике.gshee$1
+* $2тратегии решения математических задач.pd$1
+* $2тратегии решения математических задач.pd$1
+* $2ворчество в математике.pd$1
+* $2ворчество в математике.pd$1
+* $2довольствие от Х.pd$1
+* $2довольствие от Х.pd$1
+* $2рестоматия по истории математики.djv$1
+* $2рестоматия по истории математики.djv$1
+* $2исла от арифметики до высшей математики (Азимов).djv$1
+* $2исла от арифметики до высшей математики (Азимов).djv$1
+* $2то такое математика.pd$1
+* $2то такое математика.pd$1
+* $2умеро-вавилонская математика.djv$1
+* $2умеро-вавилонская математика.djv$1
+* $2нциклопелия для детей. Математика.pd$1
+* $2нциклопелия для детей. Математика.pd$1
+* $2нциклопелия для детей. Математика.pd$1
+* $2нциклопелия для детей. Математика.pdf
 * Introduction to Mathematical Thinking (2012)
 
-
 ## B. Lógica matemática
+
 ### Book of Proof (single chapters)
 
-A) Contents.pdf
+* A) Contents.pdf
 * B) Preface.pdf
 * C) Introduction.pdf
 * D) 1. Sets
@@ -451,48 +350,40 @@ A) Contents.pdf
 * Metalogic. An Introduction to the Metatheory of Standard First Order Logic.pdf
 * Metamathematics of First-Order Arithmetic.pdf
 * Proofs and Fundamentals. A First Course in Abstract Mathematics.pdf
-* Vocabulario de los fundamentos de la matemática.gsheet
-
-Введение в математическую логику.djvu
-
-Математическая логика.pdf
-
+* Vocabulario de los fundamentos de la matemática.gshee$1
+* $2ведение в математическую логику.djv$1
+* $2атематическая логика.pdf
 
 ## C. Teoría de conjuntos
 
-Grundlagen und Zahlenmengen.pdf
+* Grundlagen und Zahlenmengen.pdf
 * Mengenlehre für den Mathematiker.pdf
 * The Joy of Sets. Fundamentals of Contemporary Set Theory.pdf
-* Discovering Modern Set Theory. I - The Basics.pdf
-
-Начало теории множеств.pdf
-* Discovering Modern Set Theory. II - Set-Theoretic Tools for Every Mathematician.pdf
-
-ПАРАДОКСЫ ТЕОРИИ МНОЖЕСТВ
-
+* Discovering Modern Set Theory. I - The Basics.pd$1
+* $2ачало теории множеств.pdf
+* Discovering Modern Set Theory. II - Set-Theoretic Tools for Every Mathematician.pd$1
+* $2АРАДОКСЫ ТЕОРИИ МНОЖЕСТВ
 
 ## D. Matemática discreta y aritmética
-### Kombinatorik
 
-КОМБИНАТОРИКА. Учебное пособие.pdf
+### Kombinatori$1
+
+* $2ОМБИНАТОРИКА. Учебное пособие.pdf
 * Elementare Kombinatorik für die Informatik  Abzählungen, Differenzengleichungen, diskretes Differenzieren und Integrieren.pdf
 * Combinatorics and Graph Theory.pdf
 * Einführung in die Kombinatorik.pdf
-* Notes on the Combinatorial Fundamentals of Algebra
-
-Комбинаторно-алгебраические методы в прикладной математике.djvu
+* Notes on the Combinatorial Fundamentals of Algebr$1
+* $2омбинаторно-алгебраические методы в прикладной математике.djvu
 * Analytic Combinatorics.pdf
 * Ch 3 Combinatorics.pdf
 * Enumerative Combinatorics, Graph Theory, Stochastic Aspects.pdf
 * Enumerative Combinatorics.pdf
-* Principles and Techniques in Combinatorics.pdf
-
-Комбинаторика для программистов.pdf
-
+* Principles and Techniques in Combinatorics.pd$1
+* $2омбинаторика для программистов.pdf
 
 ### Numerik
 
-Elementare Numerik für die Sekundarstufe.pdf
+* Elementare Numerik für die Sekundarstufe.pdf
 * Einführung in die Numerische Mathematik.pdf
 * Análisis numérico (Burden).pdf
 * Análisis numérico (Robles).pdf
@@ -520,10 +411,9 @@ Elementare Numerik für die Sekundarstufe.pdf
 * Wissenschaftliches Rechnen (Strang).pdf
 * Numerical Methods in Science and Engineering Theories
 
-
 ### Zahlentheorie
 
-Elementare Zahlentheorie. Beispiele, Geschichte, Algorithmen.pdf
+* Elementare Zahlentheorie. Beispiele, Geschichte, Algorithmen.pdf
 * Elementare Zahlentheorie. Ein sanfter Einstieg in die höhere Mathematik.pdf
 * Algebraische und zahlentheoretische Grundlagen für die Informatik  Gruppen, Ringe, Körper, Primzahltests, Verschlüsselung.pdf
 * Number, Shape, & Symmetry. An Introduction to Number Theory, Geometry, and Group Theory.pdf
@@ -540,52 +430,37 @@ Elementare Zahlentheorie. Beispiele, Geschichte, Algorithmen.pdf
 * Number Theory. A Problem-Solving Approach.pdf
 * Zahlentheorie.djvu
 * Microchip Mathematics. Number Theory for Computer Users.djvu
-* When Factorial Ratios Are Integral
-
-Теория чисел.djvu
-
-Лекции по дискретной математике (2021).pdf
+* When Factorial Ratios Are Integra$1
+* $2еория чисел.djv$1
+* $2екции по дискретной математике (2021).pdf
 * Essential Discrete Mathematics for Computer Science
 * Solutions - Discrete and Combinatorial Mathematics
-* Discrete and Combinatorial Mathematics. An Applied Introduction
-
-Дискретная математика для программистов.pdf
-
-Дискретная математика и комбинаторика.pdf
+* Discrete and Combinatorial Mathematics. An Applied Introductio$1
+* $2искретная математика для программистов.pd$1
+* $2искретная математика и комбинаторика.pdf
 * Practical Discrete Mathematics.pdf
-* Guide to Discrete Mathematics. An Accessible Introduction.pdf
-
-Дискретная метематика (Новиков).pdf
+* Guide to Discrete Mathematics. An Accessible Introduction.pd$1
+* $2искретная метематика (Новиков).pdf
 * Discrete Mathematics. An Open Introduction.pdf
 * Diskrete Strukturen, Bd.1. Kombinatorik, Graphentheorie, Algebra.pdf
 * Konkrete Mathematik (nicht nur) für Informatiker.pdf
-* Diskrete Strukturen.pdf
-
-Конкретная математика.pdf
-
-Дискренгый анализ.pdf
-* Diskrete Mathematik.pdf
-
-Дискретная математика для программистов.pdf
-* Discrete Mathematics Notes
-
-Вступ до дискретної математики.pdf
-
-Дискретная математика (МГУ).pdf
-
-Конкретная математика. Основание информатики.pdf
-
-Элементы дискретной математики в задачах.pdf
-
-Энциклопедия элементарной математики. Арифметика.djvu
-
+* Diskrete Strukturen.pd$1
+* $2онкретная математика.pd$1
+* $2искренгый анализ.pdf
+* Diskrete Mathematik.pd$1
+* $2искретная математика для программистов.pdf
+* Discrete Mathematics Note$1
+* $2ступ до дискретної математики.pd$1
+* $2искретная математика (МГУ).pd$1
+* $2онкретная математика. Основание информатики.pd$1
+* $2лементы дискретной математики в задачах.pd$1
+* $2нциклопедия элементарной математики. Арифметика.djvu
 
 ## E. Geometría
 
-Conchoids (Notes) →
-* Linear Algebra and Geometry.pdf
-
-ГЕОМЕТРИЯ В КАРТИНКАХ.pdf
+* Conchoids (Notes) →
+* Linear Algebra and Geometry.pda
+* CЕОМЕТРИЯ В КАРТИНКАХ.pdf
 * Elementare Differentialgeometrie (nicht nur) für Informatiker. Mit vielen Grafiken und Visualisierungen in JavaScript.pdf
 * The Four Pillars of Geometry.pdf
 * Geometry (Fenn).djvu
@@ -620,25 +495,19 @@ Conchoids (Notes) →
 * New Foundations for Physical Geometry.pdf
 * New Foundations for Physical Geometry.ppt
 * Parkettierungen der Ebene. Von Escher über Möbius zu Penrose.pdf
-* The Non-Euclidean Revolution.pdf
-
-Высшая геометрия.pdf
-
-Плоские кривые. Систематика, свойства, применения
-
-Практикум по элементарной математике. Геометрия.djvu
-
-Пространственные и плоские кривые
-
-Риман. Дифференциальная геометрия.pdf
-
-Три классические задачи на построение
-
+* The Non-Euclidean Revolution.pd$1
+* $2ысшая геометрия.pd$1
+* $2лоские кривые. Систематика, свойства, применени$1
+* $2рактикум по элементарной математике. Геометрия.djv$1
+* $2ространственные и плоские кривы$1
+* $2иман. Дифференциальная геометрия.pd$1
+* $2ри классические задачи на построение
 
 ## F. Álgebra
+
 ### Abstrakte Algebra
 
-A Physicist’s Introduction to Algebraic Structures.pdf
+* A Physicist’s Introduction to Algebraic Structures.pdf
 * A History of Abstract Algebra.pdf
 * Abstract Algebra. An Introductory Course.pdf
 * Contemporary Abstract Algebra.pdf
@@ -675,43 +544,36 @@ A Physicist’s Introduction to Algebraic Structures.pdf
 * Notes on Algebraic Structures (Cameron).pdf
 * Notes on Algebraic Structures (Keilen).pdf
 * Topics in Algebra.pdf
-* Universal Algebra.pdf
-
-АЛГЕБРА (ван дер ВАРДЕН).pdf
-
-Абстрактная алгебра (Ленг).pdf
-
-Абстрактная алгебра.pdf
-
-Курс алгебры (Винберг).pdf
+* Universal Algebra.pd$1
+* $2ЛГЕБРА (ван дер ВАРДЕН).pd$1
+* $2бстрактная алгебра (Ленг).pd$1
+* $2бстрактная алгебра.pd$1
+* $2урс алгебры (Винберг).pdf
 * Algebra and RPS.pdf
 * Algebraische Strukturen (Gathmann).pdf
-* Einführung in die Algebra (Gathmann).pdf
-
-Алгебра. Учебник для студентов-математиков. Часть 1.pdf
+* Einführung in die Algebra (Gathmann).pd$1
+* $2лгебра. Учебник для студентов-математиков. Часть 1.pdf
 * Groups (Jordan & Jordan)
 
-
 ### Lineare Algebra
+
 #### 313
 
-Definitions from Linear Algebra and Its Applications (Lay).gsheet
+* Definitions from Linear Algebra and Its Applications (Lay).gsheet
 * Exámenes →
 * HW Schedule.gsheet
 * Slides →
 
-
 #### Applied Linear Algebra (Boyd & Vandenberghe)
 
-Applied Linear Algebra Exercises.pdf
+* Applied Linear Algebra Exercises.pdf
 * Applied Linear Algebra Julia Companion.pdf
 * Applied Linear Algebra Slides.pdf
 * Applied Linear Algebra.pdf
 
-
 #### Jordan Canonical Form
 
-Matrix Canonical Forms.pdf
+* Matrix Canonical Forms.pdf
 * Jordan Canonical Form. Theory and Practice.pdf
 * A Note on the Jordan Canonical Form (Azad).pdf
 * An Algorithmic Derivation of the Jordan Canonical Form (Fletcher & Sorensen).pdf
@@ -725,11 +587,9 @@ Matrix Canonical Forms.pdf
 * Jordan Matrices.PNG
 * Jordan Normal Form - Simple Proof.pdf
 * The Jordan canonical form (Maté Notes).pdf
-* The Jordan Formal Form (Wahlén Notes).pdf
-
-Жорданова нормальная форма матрицы.pdf
-
-Элементарное доказательство теоремы Жордана.pdf
+* The Jordan Formal Form (Wahlén Notes).pd$1
+* $2орданова нормальная форма матрицы.pd$1
+* $2лементарное доказательство теоремы Жордана.pdf
 * Notes on Horn & Johnson Proof →
 * Notes on Wikipedia Proof →
 * Advanced Linear Algebra Notes.pdf
@@ -737,16 +597,13 @@ Matrix Canonical Forms.pdf
 * An Elementary Approach to the Jordan Form of a Matrix.pdf
 * Jordan Canonical Form (Maté Lecture Notes).pdf
 * Jordan Forms of AB and BA.pdf
-* Linear Algebra of Linear Equations.pdf
-
-Жорданова нормальная форма.pdf
-
-Жорданова форма матрицы оператора.pdf
-
+* Linear Algebra of Linear Equations.pd$1
+* $2орданова нормальная форма.pd$1
+* $2орданова форма матрицы оператора.pdf
 
 #### Coding the Matrix
 
-Coding the Matrix Labs.pdf
+* Coding the Matrix Labs.pdf
 * Coding the Matrix Slides 1.pdf
 * Coding the Matrix Slides Basis.pdf
 * Coding the Matrix Slides Dimension.pdf
@@ -761,46 +618,42 @@ Coding the Matrix Labs.pdf
 * Coding the Matrix Slides Vector.pdf
 * Coding the Matrix.pdf
 
-
 #### Computational Linear Algebra
 
-Matrix Multiplication Tutorial →
+* Matrix Multiplication Tutorial →
 * Modern OpenGL Guide.pdf
 * OpenGL.ipynb
 
-
 #### Hefferon Slides →
+
 #### Linear Algebra Hefferon
 
-Linear Algebra (Hefferon) Answers.pdf →
+* Linear Algebra (Hefferon) Answers.pdf →
 * Linear Algebra Hefferon Lab Manual.pdf
 * Linear Algebra Hefferon Slides →
 
-
 #### Linear Algebra Vocabulary
 
-A.pdf
+* A.pdf
 * E.pdf
 * M.pdf
 * R.pdf
 * Z.pdf
 
-
 #### Notebooks
+
   * Compositions of Linear Transformations.ipynb
   * Matrix Multiplication as Composition of Linear Transformations (MatPlotLib).ipynb
 
-
 #### SORT
 
-Linear Algebra in 4 Pages.pdf
+* Linear Algebra in 4 Pages.pdf
 * Basics of Linear Algebra for Machine Learning
 * Essential Mathematics for Quantum Computing
 * Practical Linear Algebra
 * The Oxford Linear Algebra for Scientists
-* Introduction to Linear Algebra Computation, Application
-
-Математика. Линейная алгебра и аналитическая геометрия
+* Introduction to Linear Algebra Computation, Applicatio$1
+* $2атематика. Линейная алгебра и аналитическая геометрия
 * Hinweise zur Prufungsvorbereitung.pdf
 * The Matrix Calculus You Need For Deep Learning.pdf
 * Lessent LA Cheat Sheet.pdf
@@ -852,13 +705,10 @@ Linear Algebra in 4 Pages.pdf
 * Linear Algebra as an Introduction to Abstract Mathematics.pdf
 * Matrix Algebra Theory. Computations, and Applications in Statistics (Gentle).pdf
 * Further Linear Algebra.pdf
-* A Second Course in Linear Algebra.pdf
-
-Álgebra lineal - Barrera.pdf
-
-Álgebra lineal (Jeronimo).pdf
-
-Álgebra lineal y sus aplicaciones.pdf
+* A Second Course in Linear Algebra.pd$1
+* $2lgebra lineal - Barrera.pd$1
+* $2lgebra lineal (Jeronimo).pd$1
+* $2lgebra lineal y sus aplicaciones.pdf
 * Algèbre linéaire et bilinéaire.pdf
 * Algèbre linéaire.pdf
 * Analytische Geometrie und Lineare Algebra (Kersten).pdf
@@ -866,15 +716,11 @@ Linear Algebra in 4 Pages.pdf
 * Interactive Linear Algebra.pdf
 * Introduction to Linear Algebra (Strang 5E).pdf
 * Linear Algebra for Computational Sciences and Engineering.pdf
-* Lineare Algebra im algebraischen Kontext.pdf
-
-Линейная алгебра (Стренг).pdf
-
-Лінійна алгебра ***.pdf
-
-Матричный анализ.pdf
-
-Теория матриц (Ланкастер).pdf
+* Lineare Algebra im algebraischen Kontext.pd$1
+* $2инейная алгебра (Стренг).pd$1
+* $2інійна алгебра .pd$1
+* $2атричный анализ.pd$1
+* $2еория матриц (Ланкастер).pdf
 * Fundamentals of Matrix Analysis with Applications
 * Linear Algebra (Hoffman & Kunze).pdf
 * Lineare Algebra für die Informatik. Vektorräume, Gleichungssysteme, Codierung, Quantenalgorithmen
@@ -888,9 +734,8 @@ Linear Algebra in 4 Pages.pdf
 * Algèbre Linéaire (ÉPFT).pdf
 * Linear Algebra in situ.pdf
 * Linear Models in Matrix Form.pdf
-* Principal Component Analysis (Jolliffe).pdf
-
-Теория матриц (Гантмахер).pdf
+* Principal Component Analysis (Jolliffe).pd$1
+* $2еория матриц (Гантмахер).pdf
 * Linear Algebra and its Applications.pdf
 * Matrix Algorithms I. Basic Decompositions.pdf
 * Principal Component Analysis Methods, Applications, and Technology (Gray).pdf
@@ -908,21 +753,14 @@ Linear Algebra in 4 Pages.pdf
 * Algebra lineare, per matematici (Manetti)
 * Algebras of Linear Transformations (Axler et al.).pdf
 * Algèbre linéaire I & II.pdf
-* Functions of Matrices
-
-ЛИНЕЙНАЯ АЛГЕБРА И  АНАЛИТИЧЕСКАЯ ГЕОМЕТРИЯ I.pdf
-
-ЛИНЕЙНАЯ АЛГЕБРА И АНАЛИТИЧЕСКАЯ ГЕОМЕТРИЯ II.pdf
-
-ЛИНЕЙНАЯ АЛГЕБРА И АНАЛИТИЧЕСКАЯ ГЕОМЕТРИЯ III.pdf
-
-ЛИНЕЙНАЯ АЛГЕБРА И АНАЛИТИЧЕСКАЯ ГЕОМЕТРИЯ IV.pdf
-
-ЛИНЕЙНАЯ АЛГЕБРА И АНАЛИТИЧЕСКАЯ ГЕОМЕТРИЯ V.pdf
-
-ЛИНЕЙНАЯ АЛГЕБРА И АНАЛИТИЧЕСКАЯ ГЕОМЕТРИЯ VI.pdf
-
-ЛИНЕЙНАЯ АЛГЕБРА И АНАЛИТИЧЕСКАЯ ГЕОМЕТРИЯ. Рабочая тетрадь 1 «Комплексные числа».pdf
+* Functions of Matrice$1
+* $2ИНЕЙНАЯ АЛГЕБРА И  АНАЛИТИЧЕСКАЯ ГЕОМЕТРИЯ I.pd$1
+* $2ИНЕЙНАЯ АЛГЕБРА И АНАЛИТИЧЕСКАЯ ГЕОМЕТРИЯ II.pd$1
+* $2ИНЕЙНАЯ АЛГЕБРА И АНАЛИТИЧЕСКАЯ ГЕОМЕТРИЯ III.pd$1
+* $2ИНЕЙНАЯ АЛГЕБРА И АНАЛИТИЧЕСКАЯ ГЕОМЕТРИЯ IV.pd$1
+* $2ИНЕЙНАЯ АЛГЕБРА И АНАЛИТИЧЕСКАЯ ГЕОМЕТРИЯ V.pd$1
+* $2ИНЕЙНАЯ АЛГЕБРА И АНАЛИТИЧЕСКАЯ ГЕОМЕТРИЯ VI.pd$1
+* $2ИНЕЙНАЯ АЛГЕБРА И АНАЛИТИЧЕСКАЯ ГЕОМЕТРИЯ. Рабочая тетрадь 1 «Комплексные числа».pdf
 * Combinatorial Matrix Theory.pdf
 * Introduction to Tensor Analysis and the Calculus of Moving Surfaces (Grinfeld).pdf
 * Introduction to Vectors and Tensors 1.pdf
@@ -1056,66 +894,51 @@ Linear Algebra in 4 Pages.pdf
 * Vector Calculus, Linear Algebra, and Differential Forms.pdf
 * Vector Space Theory for 2nd-Year Students (Howlett).pdf
 * Vektoranalysis (Puschnig Vorlesungsskriptum).pdf
-* Vorstellungen zur linearen Algebra. Konstruktionsprozesse und -ergebnisse von Studierenden.pdf
-
-Введение в алгебру II. Линейная алгебра.pdf
-
-Компьютерная алгебра.pdf
-
-Лекции по линейной алгебре.pdf
-
-Линейная алгебра и аналитическая геометрия.pdf
-
-Линейная алгебра и геометрия.pdf
-
-ЛІНІЙНА АЛГЕБРА  ТА АНАЛІТИЧНА  ГЕОМЕТРІЯ.pdf
-
-ЛІНІЙНА АЛГЕБРА  ТА АНАЛІТИЧНА ГЕОМЕТРІЯ. ПРАКТИКУМ.pdf
-
-Лінійна алгебра (Баранник).pdf
-
-ЛІНІЙНА АЛГЕБРА (Бусарова).pdf
-
-Лінійна алгебра з використанням інформаційних технологій .pdf
-
-ЛІНІЙНА АЛГЕБРА ТА АНАЛІТИЧНА ГЕОМЕТРІЯ.pdf
-
-Лінійна алгебра.pdf
-
-Лінійна і векторна алгебра.pdf
+* Vorstellungen zur linearen Algebra. Konstruktionsprozesse und -ergebnisse von Studierenden.pd$1
+* $2ведение в алгебру II. Линейная алгебра.pd$1
+* $2омпьютерная алгебра.pd$1
+* $2екции по линейной алгебре.pd$1
+* $2инейная алгебра и аналитическая геометрия.pd$1
+* $2инейная алгебра и геометрия.pd$1
+* $2ІНІЙНА АЛГЕБРА  ТА АНАЛІТИЧНА  ГЕОМЕТРІЯ.pd$1
+* $2ІНІЙНА АЛГЕБРА  ТА АНАЛІТИЧНА ГЕОМЕТРІЯ. ПРАКТИКУМ.pd$1
+* $2інійна алгебра (Баранник).pd$1
+* $2ІНІЙНА АЛГЕБРА (Бусарова).pd$1
+* $2інійна алгебра з використанням інформаційних технологій .pd$1
+* $2ІНІЙНА АЛГЕБРА ТА АНАЛІТИЧНА ГЕОМЕТРІЯ.pd$1
+* $2інійна алгебра.pd$1
+* $2інійна і векторна алгебра.pdf
 * Algebra Lineal (Grossman y Flores).pdf
 * Elementary Linear Algebra
 
-
 ### <General Algebra>
+
 * Algebra (Artin, IT).pdf
 * Algebra (Jantzen und Schermer).pdf
 * Introduction to Non-Linear Algebra.pdf
 * Multilinear Algebra, Rings and Modules.pdf
 * Parallax. Visualizing and Understanding the Semantics of Embedding Spaces via Algebraic Formulae.pdf
 * Algebra (Gelfand).pdf
-* Algebra (Artin).pdf
-
-Вступ до алгебри.pdf
+* Algebra (Artin).pd$1
+* $2ступ до алгебри.pdf
 * The Fundamental Theorem of Algebra.pdf
 * Algebraic Structures.gsheet
 * C.F. Algebraic Structures.gsheet
 
-
 ## G. Trigonometría
 
-Fundamentals of Mathematics. Trigonometry.pdf
+* Fundamentals of Mathematics. Trigonometry.pdf
 * The Britannica Guide to Algebra and Trigonometry.pdf
 * Geometry, algebra, and trigonometry by vector methods.pdf
 * 103 Trigonometry Problems.pdf
 * Spherical Trigonometry For The Use Of Colleges And Schools With Numerous Examples.pdf
 * Trigonometry Course in Mathematics.pdf
 
-
 ## H. Cálculo y análisis
+
 ### 341
 
-Lec01.pdf
+* Lec01.pdf
 * Lec02.pdf
 * Lec03.pdf
 * Lec04.pdf
@@ -1157,17 +980,15 @@ Lec01.pdf
 * M341W17Schedule.pdf
 * M341W17Syllabus.pdf
 
-
 ### Análisis
 
-How to Think About Analysis.pdf
+* How to Think About Analysis.pdf
 * CÁLCULO Y ANÁLISIS.pdf
 * Numbers and Functions. Steps Into Analysis.pdf
 * Real Analysis Cheat Sheet.pdf
 * Analyse  Mathématique I.pdf
-* Analyse.pdf
-
-Матанализ с человеческим лицом.pdf
+* Analyse.pd$1
+* $2атанализ с человеческим лицом.pdf
 * Analisi matematica. Volume 2.pdf
 * Analisi matematica.pdf
 * Analysis (Behrends) Band 1.pdf
@@ -1180,11 +1001,9 @@ How to Think About Analysis.pdf
 * Lehrbuch der Analysis (Heuser) Teil 1.pdf
 * Lehrbuch der Analysis (Heuser) Teil 2.pdf
 * OCW Measure and Integration Lecture →
-* Understanding Analysis.pdf
-
-Математический анализ (Зорич) Часть I.pdf .pdf
-
-Математический анализ (Зорич) Часть II.pdf
+* Understanding Analysis.pd$1
+* $2атематический анализ (Зорич) Часть I.pdf .pd$1
+* $2атематический анализ (Зорич) Часть II.pdf
 * Visual Complex Analysis (Needham).djvu
 * Introducción al Análisis Real.pdf
 * Introdução à Análise Real.pdf
@@ -1217,22 +1036,17 @@ How to Think About Analysis.pdf
 * Numbers. Their History and Meaning.epub
 * Properties of the Real Numbers.pdf
 * Real Analysis (Howie).djvu
-* Studio di funzione.pdf
-
-Übungsbuch zur Analysis 2. Aufgaben und Lösungen.pdf
-
-Übungsbuch zur Analysis. Aufgaben und ausführliche Lösungen (nicht nur) für Studierende der Informatik.pdf
+* Studio di funzione.pd$1
+* $2bungsbuch zur Analysis 2. Aufgaben und Lösungen.pd$1
+* $2bungsbuch zur Analysis. Aufgaben und ausführliche Lösungen (nicht nur) für Studierende der Informatik.pdf
 * Vector Analysis.epub
-* Verständnisaufgaben zur Analysis 1 und 2. für Lerngruppen, Selbststudium und Peer Instruction.pdf
-
-Вища математика II.pdf
-
-Вища математика.pdf
-
+* Verständnisaufgaben zur Analysis 1 und 2. für Lerngruppen, Selbststudium und Peer Instruction.pd$1
+* $2ища математика II.pd$1
+* $2ища математика.pdf
 
 ### Cálculo multivariable
 
-Matrix Calculus.pdf
+* Matrix Calculus.pdf
 * Cálculo Multivariable (Lázaro).pdf
 * Cálculo en Varias Variables (Felmer y Jofré).pdf
 * Calculo 2 de varias Variables - (Larson y Edwards).pdf
@@ -1240,14 +1054,12 @@ Matrix Calculus.pdf
 * Cálculo de várias variables (Stewart).pdf
 * Cálculo multivariable y ecuaciones diferenciales (Valdovinos Chávez).pdf
 
-
 ### Ecuaciones diferenciales
 
-Equazioni differenziali: tipologie e metodi risolutivi.pdf
+* Equazioni differenziali: tipologie e metodi risolutivi.pdf
 * Equações Diferenciais Ordinarias (Bassanezi).pdf
-* Differential Equations with Linear Algebra (Boelkins et al.).pdf
-
-Обыкновенные дифференциальные уравнения.pdf
+* Differential Equations with Linear Algebra (Boelkins et al.).pd$1
+* $2быкновенные дифференциальные уравнения.pdf
 * Algebra lineare ed equazioni differenziali ordinarie.pdf
 * Differential Equations with Boundary-Value Problems.pdf
 * Equações Diferenciais (Rosa).pdf
@@ -1259,50 +1071,42 @@ Equazioni differenziali: tipologie e metodi risolutivi.pdf
 * Equazioni differenziali.diff.pdf
 * Introducción a las ecuaciones diferenciales ordinarias (Wolanski).pdf
 * Métodos clásicos de resolución de ecuaciones diferenciales ordinarias.pdf
-* Nonlinear Differential Equations.epub
-
-Сборник задач по дифференциальным уравнениям (Филиппов).pdf
+* Nonlinear Differential Equations.epu$1
+* $2борник задач по дифференциальным уравнениям (Филиппов).pdf
 * Gewöhnliche Differentialgleichungen. Einführung in Lehre und Gebrauch
-* GDG Vorlesungen.ps
-
-Дифференциальные уравнения. То решаем, то рисуем
-
-Манга. Занимательная математика. Дифференциальные уравнения
-
+* GDG Vorlesungen.p$1
+* $2ифференциальные уравнения. То решаем, то рисуе$1
+* $2анга. Занимательная математика. Дифференциальные уравнения
 
 ### Historia de análisis
 
-Analysis in historischer Entwicklung.pdf
+* Analysis in historischer Entwicklung.pdf
 * Cours d'analyse de l'École royale - Cauchy Augustin-Louis.pdf
 * Euler’s Introductio in analysin infinitorum and the Program of Algebraic Analysis: Quantities, Functions and  Numerical Partitions.pdf
 * Histoire des mathématiques.pdf
 * Introductio in Analysin Infinitorum  de Leonhard Euler.pdf
-* Introduction à l'analyse infinitésimale (Euler).pdf
-
-МАТЕМАТИЧЕСКИЙ  АНАЛИЗ в свете его истории.pdf
-
+* Introduction à l'analyse infinitésimale (Euler).pd$1
+* $2АТЕМАТИЧЕСКИЙ  АНАЛИЗ в свете его истории.pdf
 
 ### Optimización
 
-Optimización.JPG
+* Optimización.JPG
 * Programación lineal.JPG
 * Convex Optimization (Boyd & Vandenberghe) Slides.pdf
 * Grundlagen der Mathematischen Optimierung. Diskrete Strukturen, Komplexitätstheorie, Konvexitätstheorie, Lineare Optimierung, Simplex-Algorithmus, Dualität.pdf
 * Optimization. An Introduction.pdf
 * Optimization (Varaiya Notes).pdf
-* Convex Optimization (Boyd & Vandenberghe).pdf
-
-Математичне програмування.pdf
+* Convex Optimization (Boyd & Vandenberghe).pd$1
+* $2атематичне програмування.pdf
 * Optimierung (Jarre und Stoer).pdf
 * Convex Optimization  (Boyd & Vandenberghe) Additional Exercises.pdf
 * Encyclopedia of Optimization.pdf
 * Introduction to Convexity (Basu).pdf
 * Resolución de un problema de optimización.JPG
 
-
 ### Fourier
 
-The World According to Wavelets.pdf
+* The World According to Wavelets.pdf
 * FFTChapter1.pdf
 * FFTChapter2.pdf
 * FFTChapter3.pdf
@@ -1312,27 +1116,22 @@ The World According to Wavelets.pdf
 * Fourier Transforms in Radar and Signal Processing.pdf
 * Mathematics of the Discrete Fourier Transform.pdf
 * The DFT. An Owners Manual for the Discrete Fourier Transfom.pdf
-* The Fourier Transform and Its Applications.pdf
-
-Манга. Занимательная математика. Анализ фурье
-
+* The Fourier Transform and Its Applications.pd$1
+* $2анга. Занимательная математика. Анализ фурье
 
 ### Measure Theory
 
-Taxonomy of Principal Distances
+* Taxonomy of Principal Distances
 * An introduction to measure theory.pdf
 * Gentle Introduction to Measure Theory.pdf
 * Measure Theory Notes.pdf
-* Measure Theory (Bogachev).pdf
+* Measure Theory (Bogachev).pd$1
+* $2сновы теории меры.pd$1
+* $2сновы теории меры. Том 2.pdf
 
-Основы теории меры.pdf
+### <General H$1
 
-Основы теории меры. Том 2.pdf
-
-
-### <General H>
-
-Бесконечная сила. Как математический анализ раскрывает тайны Вселенной.pdf
+* $2есконечная сила. Как математический анализ раскрывает тайны Вселенной.pdf
 * Appendix. Short Course in Taylor Series.pdf
 * Calculus in Context. The Five College Calculus Project
 * Div, Grad, Curl, and All That. An Informal Text on Vector Calculus.pdf
@@ -1362,39 +1161,33 @@ Taxonomy of Principal Distances
 * The Calculus Gallery- Masterpieces from Newton to Lebesgue.pdf
 * The Calculus Lifesaver - All the Tools You Need to Excel at Calculus.pdf
 * The Calculus Story.pdf
-* Understanding Analysis Abbott (Solutions).pdf
-
-Высшая математика. Дифференциальное исчисление.pdf
-
+* Understanding Analysis Abbott (Solutions).pd$1
+* $2ысшая математика. Дифференциальное исчисление.pdf
 
 ## I. Estadística
 
-Miscellaneous Articles →
+* Miscellaneous Articles →
 * Stats Undergrad.pdf
-
 
 ### Causal Inference
 
-The Book of Why. The New Science of Cause and Effect.pdf
+* The Book of Why. The New Science of Cause and Effect.pdf
 * Causal Inference 1.pdf
 * Causal Inference 2.pdf
 * Causal Inference 3.pdf
 
-
 ### Econometría general
 
-Hansen Practice Exams→
+* Hansen Practice Exams→
 * Miscellaneous Econometrics Slides →
 * Frölich →
 * Hansen Practice Exams →
 * Grundlagen der Ökonometrie Folien.pdf
 * OLS in Matrix Form.pdf
 * Applied Econometrics with R.pdf
-* Probability and Statistics for Economists (Hansen).pdf
-
-ЭКОНОМЕТРИКА ДЛЯ ПОДГОТОВЛЕННЫХ.pdf
-
-ЭКОНОМЕТРИКА ДЛЯ ПРОДОЛЖАЮЩИХ.pdf
+* Probability and Statistics for Economists (Hansen).pd$1
+* $2КОНОМЕТРИКА ДЛЯ ПОДГОТОВЛЕННЫХ.pd$1
+* $2КОНОМЕТРИКА ДЛЯ ПРОДОЛЖАЮЩИХ.pdf
 * Econometrics (Hansen).pdf
 * Introducción a La Econometría, un Enfoque Moderno (Wooldridge).pdf
 * Microeconometrics. Methods and Applications (Cameron & Trivedi).pdf
@@ -1404,11 +1197,9 @@ Hansen Practice Exams→
 * Advanced Econometrics (Amamiya).pdf
 * Econometría con Aplicaciones.pdf
 * Multivariate  Analyseverfahren.pdf
-* Bayesian Econometric Methods.pdf
-
-ЛЕКЦИИ ПО ЭКОНОМЕТРИКЕ.pdf
-
-Прикладна економетрика.pdf
+* Bayesian Econometric Methods.pd$1
+* $2ЕКЦИИ ПО ЭКОНОМЕТРИКЕ.pd$1
+* $2рикладна економетрика.pdf
 * A History of Econometrics. The Reformation from the 1970s.pdf
 * Econometric Analysis (Greene 6E) - Solutions Manual.pdf
 * Econometrics (Baltagi) - Solutions.pdf
@@ -1441,54 +1232,39 @@ Hansen Practice Exams→
 * Introduction to Statistics and Econometrics (Amemiya).pdf
 * Microeconometrics (Cameron & Trivedi) - Solutions.pdf
 * Notation in econometrics: a proposal for a standard.pdf
-* Notes on Econometrics (Wooldridge)
-
-Ökonometrie - Eine Einführung Folien Kap. 1 und 2
-
-Ökonometrische Methoden zur Evaluierung  kausaler Effekte der Wirtschaftspolitik.pdf
-* Undergraduate Econometrics Instruction. Through Our Classes, Darkly.pdf
-
-Економетрика.pdf
-
-МАТЕМАТИЧНА СТАТИСТИКА.pdf
-
-Прикладна  економетрика.pdf
-
-ЭКОНОМЕТРИКА (Магнус ).pdf
-
-Эконометрика 1.djvu
-
-Эконометрика 2.djvu
-
-ЭКОНОМЕТРИКА.pdf
-
+* Notes on Econometrics (Wooldridge$1
+* $2konometrie - Eine Einführung Folien Kap. 1 und $1
+* $2konometrische Methoden zur Evaluierung  kausaler Effekte der Wirtschaftspolitik.pdf
+* Undergraduate Econometrics Instruction. Through Our Classes, Darkly.pd$1
+* $2конометрика.pd$1
+* $2АТЕМАТИЧНА СТАТИСТИКА.pd$1
+* $2рикладна  економетрика.pd$1
+* $2КОНОМЕТРИКА (Магнус ).pd$1
+* $2конометрика 1.djv$1
+* $2конометрика 2.djv$1
+* $2КОНОМЕТРИКА.pdf
 
 ### Estocástica
 
-Probability for Machine Learning
-
+* Probability for Machine Learning
 
 #### Bayesiana vs. Frecüentista
-  * Frequentistische Statistik und  Bayessche Statistik.pdf
 
+  * Frequentistische Statistik und  Bayessche Statistik.pdf
 
   * Kritik an Bayes-Inferenz.pdf
 
-
   * Logik III. Wahrscheinlichkeit.gdoc
 
-
   * Probability and Bayes' Theorem for Beginners.epub
-
 
   * Le modèle bayésien.pdf
 * Probability Cheatsheet.pdf
 * Probability for the Enthusiastic Beginner.pdf
 * Seeing Theory.pdf
 * Introduction to Probability (Blitzstein & Hwang).pdf
-* Wahrscheinlichkeitstheorie Wengenroth.pdf
-
-Элементарный курс теории вероятности.pdf
+* Wahrscheinlichkeitstheorie Wengenroth.pd$1
+* $2лементарный курс теории вероятности.pdf
 * A First Look at Rigorous Probability Theory.pdf
 * A Modern Approach to Probability Theory.pdf
 * Probability for Statistics and Machine Learning. Fundamentals and Advanced Topics.pdf
@@ -1544,17 +1320,15 @@ Probability for Machine Learning
 * Ten Great Ideas about Chance.pdf
 * Uncertainty Theory.pdf
 * Wahrscheinlichkeitsrechnung und Statistik in Beispielen und Aufgaben.pdf
-* WAHRSCHEINLICHKEITSTHEORIE I und II.pdf
-
-Теория вероятностей и математическая статистика (Кремер).djvu
-
-Теория вероятностей.djvu
-
+* WAHRSCHEINLICHKEITSTHEORIE I und II.pd$1
+* $2еория вероятностей и математическая статистика (Кремер).djv$1
+* $2еория вероятностей.djvu
 
 ### General
+
 #### Kurs Groll
 
-Wahrscheinlichkeitstheorie und Statistik I.pdf
+* Wahrscheinlichkeitstheorie und Statistik I.pdf
 * Wahrscheinlichkeitstheorie und Statistik II.pdf
 * 1. Deskriptive Statistik.pdf
 * 2) Wahrscheinlichkeitstheorie.pdf
@@ -1564,16 +1338,13 @@ Wahrscheinlichkeitstheorie und Statistik I.pdf
 * Statistik 2 →
 * stat3.pdf
 
+#### <General$1
 
-#### <General>
-
-Теория вероятностей и математическая статистика.pdf
-* Probability and Statistics.pdf
-
-Голая статистика.pdf
-* Probability and Statistics Mind Map
-
-Манга. Занимательная статистика
+* $2еория вероятностей и математическая статистика.pdf
+* Probability and Statistics.pd$1
+* $2олая статистика.pdf
+* Probability and Statistics Mind Ma$1
+* $2анга. Занимательная статистика
 * Introduction to Modern Statistics
 * Cartoon Guide to Statistics.pdf
 * Einführung in die Statistik (ETH).pdf
@@ -1582,11 +1353,9 @@ Wahrscheinlichkeitstheorie und Statistik I.pdf
 * Introduzione alla statistica descrittiva ~.pdf
 * So lügt man mit Statistik.pdf
 * So lügt man mit Statistik.pdf
-* Multivariate Data Analysis.pdf
-
-Сигнал и шум.pdf
-
-Основы высшей математики и математической статистики (Павлушков).pdf
+* Multivariate Data Analysis.pd$1
+* $2игнал и шум.pd$1
+* $2сновы высшей математики и математической статистики (Павлушков).pdf
 * Distributions Map.jpeg
 * Probability and Statistics  Cookbook.pdf
 * Statistics in Plain English.pdf
@@ -1599,12 +1368,10 @@ Wahrscheinlichkeitstheorie und Statistik I.pdf
 * Linear Models and the Relevant Distributions and Matrix Algebra.pdf
 * Linguist's Guide to Statistics.pdf
 * Mathematische Statistik (Renesse).pdf
-* Mathematische Statistik fur Informatiker und Ingenieure.pdf
-
-Теория вероятностей и математическая статистика (Лотов).pdf
-* Basics of Modern Mathematical Statistics- Exercises and Solutions.pdf
-
-Теория вероятностей и математическая статистика.pdf
+* Mathematische Statistik fur Informatiker und Ingenieure.pd$1
+* $2еория вероятностей и математическая статистика (Лотов).pdf
+* Basics of Modern Mathematical Statistics- Exercises and Solutions.pd$1
+* $2еория вероятностей и математическая статистика.pdf
 * Matrix Algebra from a Statistician's Perspective.pdf
 * Matrix Algebra. Exercises and Solutions.pdf
 * An Introduction to Generalized Linear Models.pdf
@@ -1623,18 +1390,14 @@ Wahrscheinlichkeitstheorie und Statistik I.pdf
 * Mathematik für Ingenieure und Naturwissenschaftler Band 3 Vektoranalysis, Wahrscheinlichkeitsrechnung, Mathematische Statistik, Fehler- und Ausgleichsrechnung by Lothar Papula (auth.) (z-lib.org).pdf
 * Modern Multivariate Statistical Techniques. Regression, Classification, and Manifold Learning.pdf
 * Modern Mathematical Statistics with Applications.pdf
-* Modern Multivariate Statistical Techniques - Regression, Classification and Manifold Learning (2008).pdf
-
-Теория вероятностей и математическая статистика.pdf
-
-ВВЕДЕНИЕ В МАТЕМАТИЧЕСКУЮ  СТАТИСТИКУ (Голубев).pdf
+* Modern Multivariate Statistical Techniques - Regression, Classification and Manifold Learning (2008).pd$1
+* $2еория вероятностей и математическая статистика.pd$1
+* $2ВЕДЕНИЕ В МАТЕМАТИЧЕСКУЮ  СТАТИСТИКУ (Голубев).pdf
 * All of Nonparametric Statistics.pdf
 * Mathematical Statistics (van de Greer).pdf
-* Understanding Research Methods.pdf
-
-Черный лебедь в кратком изложении.pdf
-
-Черный лебедь.pdf
+* Understanding Research Methods.pd$1
+* $2ерный лебедь в кратком изложении.pd$1
+* $2ерный лебедь.pdf
 * Mathematical Statistics Essays on History and Methodology.pdf
 * All of Statistics.pdf
 * Introduction to Probability and Statistics for Engineers and Scientists (Ross 5E Solutions).pdf
@@ -1676,34 +1439,25 @@ Wahrscheinlichkeitstheorie und Statistik I.pdf
 * Statistics. The Exploration and Analysis of Data.pdf
 * Statistique descriptive.pdf
 * Statistique et économétrie : Ouvrages et sites de référence.pdf
-* The Art of Statistics.epub
-
-Введение в статистику ~.pdf
-
-Введение в статистические методы ~.pdf
-
-Введение в теорию вероятностей .djvu
-
-Конспект лекций по теории вероятностей и математической статистике (Письменный).pdf
-
-Математическая статистика.djvu
-
-МЕТОДИЧНІ ВКАЗІВКИ "МАТЕМАТИЧНА СТАТИСТИКА".pdf
-
-Прикладная математическая статистика.djvu
-
+* The Art of Statistics.epu$1
+* $2ведение в статистику ~.pd$1
+* $2ведение в статистические методы ~.pd$1
+* $2ведение в теорию вероятностей .djv$1
+* $2онспект лекций по теории вероятностей и математической статистике (Письменный).pd$1
+* $2атематическая статистика.djv$1
+* $2ЕТОДИЧНІ ВКАЗІВКИ "МАТЕМАТИЧНА СТАТИСТИКА".pd$1
+* $2рикладная математическая статистика.djvu
 
 ### Inferencia
 
-Inferencia estadística. Estimación puntual
+* Inferencia estadística. Estimación puntual
 * Principles of Statistical Inference.pdf
 * Statistical Inference (Casella & Berger).pdf
 * Logic. The Theory of Formal Inference.epub
 
-
 ### Método de momentos
 
-Estimation paramétrique.pdf
+* Estimation paramétrique.pdf
 * Generalisierte Momentenmethode.pdf
 * La Méthode des Moments Généralisée.pdf
 * Methoden zur Konstruktion von Schätzern.pdf
@@ -1712,10 +1466,9 @@ Estimation paramétrique.pdf
 * Statistische Schätztheorie.pdf
 * Stima puntuale di parametri (1).pdf
 
-
 ### Otros temas de estadística
 
-Experimental Design.pdf
+* Experimental Design.pdf
 * Statistical Signal Processing.pdf
 * Bootstrap Folien (2).pdf
 * Bootstrap Folien.pdf
@@ -1737,23 +1490,20 @@ Experimental Design.pdf
 * Principles of Scientific Research.pdf
 * Risk Analysis of Complex and Uncertain Systems.pdf
 * Räumliche Modelle.pdf
-* Simulación, Método de Montecarlo.pdf
-
-Манга. Занимательная статистика. Факторный анализ
-
+* Simulación, Método de Montecarlo.pd$1
+* $2анга. Занимательная статистика. Факторный анализ
 
 ### Regresión
+
 #### Error Clustering
 
-A Practitioner’s Guide to Cluster-Robust Inference.pdf
-* Overview of Methods for Analyzing Cluster-Correlated Data.pdf
-
-ÉCONOMÉTRIE SPATIALE : L'AUTOCORRÉLATION SPATIALE DANS  LES MODÈLES DE RÉGRESSION LINÉAIRE.pdf
-
+* A Practitioner’s Guide to Cluster-Robust Inference.pdf
+* Overview of Methods for Analyzing Cluster-Correlated Data.pdg
+* ACONOMÉTRIE SPATIALE : L'AUTOCORRÉLATION SPATIALE DANS  LES MODÈLES DE RÉGRESSION LINÉAIRE.pdf
 
 #### Heckman y sesgo de selección
 
-Modèles à Variable Dépendante Limitée.pdf
+* Modèles à Variable Dépendante Limitée.pdf
 * Notes on Sample Selection Models.pdf
 * The Heckman correction: an introduction.pdf
 * Validation, Replication, and Sensitivity Testing of  Heckman-Type Selection Models to Adjust Estimates of  HIV Prevalence.pdf
@@ -1783,13 +1533,12 @@ Modèles à Variable Dépendante Limitée.pdf
 * What’s New in Econometrics? Lecture 6: Control Functions and Related  Methods.pdf
 * Wooldridge Control Function and Related Methods.pdf
 
-
 #### IV
 
-IV Estimation with Examples from Criminology.gslides
+* IV Estimation with Examples from Criminology.gslides
 * Regressão por Variáveis Instrumentais (VI).pdf
 * IV Slides.pdf
-* FR Méthodes d'estimation par variables instrumentales***.pdf
+* FR Méthodes d'estimation par variables instrumentales.pdf
 * FR La méthode des variables  instrumentales.pdf
 * IV Slides.gslides
 * Instrumental variables and panel data methods.pdf
@@ -1797,9 +1546,8 @@ IV Estimation with Examples from Criminology.gslides
 * Regressioni con variabili strumentali.pdf
 * FR Les Variables Instrumentales.pdf
 * Instrumental Variables (chapter).pdf
-* Instrumental Variables, 2SLS and GMM.pdf
-
-Эконометрический ликбез:  инструментальные переменные.pdf
+* Instrumental Variables, 2SLS and GMM.pd$1
+* $2конометрический ликбез:  инструментальные переменные.pdf
 * DE Instrumentalvariablen und 2SLS.pdf
 * Validity of Instruments Revised.pdf
 * 2SLS e IV (IT).pdf
@@ -1815,22 +1563,16 @@ IV Estimation with Examples from Criminology.gslides
 * Instrumental Variables.pdf
 * Sistema de Equações Simultâneas e Método de MQ2E.pdf
 * UK Методи інструментальних змінних.pdf
-* ivregress Documentation.pdf
-
-ОЦІНЮВАННЯ ЕФЕКТИВНОСТІ МЕТОДІВ ІДЕНТИФІКАЦІЇ НА ПРИКЛАДІ  ПАКЕТА MATLAB.pdf
-
+* ivregress Documentation.pd$1
+* $2ЦІНЮВАННЯ ЕФЕКТИВНОСТІ МЕТОДІВ ІДЕНТИФІКАЦІЇ НА ПРИКЛАДІ  ПАКЕТА MATLAB.pdf
 
 #### Logit, Probit, etc.
 
-RU ЛОГИСТИЧЕСКАЯ РЕГРЕССИЯ.pdf
-
-Классификаторы II: логит и naive Bayes.pdf
-
-Классификаторы III: логистическая регрессия.pdf
-
-Классификаторы.pdf
-
-Робастные регрессионные модели.  Логит-регрессия
+* RU ЛОГИСТИЧЕСКАЯ РЕГРЕССИЯ.pd$1
+* $2лассификаторы II: логит и naive Bayes.pd$1
+* $2лассификаторы III: логистическая регрессия.pd$1
+* $2лассификаторы.pd$1
+* $2обастные регрессионные модели.  Логит-регрессия
 * EN Slides: Interpreting  logistic regression models.pdf
 * Logit & probit модели.ppt.gslides
 * Probit et logit.pdf
@@ -1856,13 +1598,11 @@ RU ЛОГИСТИЧЕСКАЯ РЕГРЕССИЯ.pdf
 * LOS MODELOS  LOGIT Y PROBIT EN  LA INVESTIGACIÓN  SOCIAL.pdf
 * Notas 5. Probit y Logit.ppt.gslides
 
-
 #### Propensity Score Methods
 
-Cheat Sheet PSM.pdf
-* Why Propensity Scores  Should Not Be Used for Matching.pdf
-
-Эконометрический анализ влияния смены семейного статуса на заработную плату  в России.pdf
+* Cheat Sheet PSM.pdf
+* Why Propensity Scores  Should Not Be Used for Matching.pds
+* Cконометрический анализ влияния смены семейного статуса на заработную плату  в России.pdf
 * EN PSM Introduction (psychological background).pdf
 * DE Methoden in der Politikwissenschaft.pdf
 * DE Politikwissenschaftliche  Methoden.pdf
@@ -1890,10 +1630,9 @@ Cheat Sheet PSM.pdf
 * RU квантиль .pdf
 * Reconciling Conflicting Evidence on the Performance  of Propensity-Score Matching Methods.pdf
 
-
 #### Quantile Regression
 
-Quantile Regression in the Presence of Sample Selection.pdf
+* Quantile Regression in the Presence of Sample Selection.pdf
 * Expektile Regression.pdf
 * La régression quantile.pdf
 * Quantile Regression.pdf
@@ -1908,10 +1647,9 @@ Quantile Regression in the Presence of Sample Selection.pdf
 * Wage Disparities and Occupational Intensity by Gender and Race in Brazil. An Empirical Analysis Using Quantile  Decomposition techniques.pdf
 * Wage Inequality and Returns to Education - Quantile.pdf
 
+### <Regression$1
 
-### <Regression>
-
-Манга. Занимательная статистика. Регрессионный анализ
+* $2анга. Занимательная статистика. Регрессионный анализ
 * Fixed Effects, Random Effects Model Cheat Sheet.pdf
 * Derivation of OLS Estimator.pdf
 * Gauss-Markov Theorem.pdf
@@ -1938,17 +1676,15 @@ Quantile Regression in the Presence of Sample Selection.pdf
 * Regresión lineal múltiple (teoría).pdf
 * Regressionsanalyse (einfache).pdf
 
-
 ### Teoría de información
 
-Foundations of Info-Metrics. Modeling, Inference, and Imperfect Information.pdf
+* Foundations of Info-Metrics. Modeling, Inference, and Imperfect Information.pdf
 * Infos und Infone. Die mathematische Struktur der Information.pdf
 * Coding Theory - Algorithms, Architectures, and Applications.pdf
 
-
 ## J. Matemáticas superiores
 
-All the Math You Missed
+* All the Math You Missed
 * Advanced Engineering Mathematics.pdf
 * Mathematical Modeling
 * Tutorium Algebra. Mathematik von Studenten für Studenten erklärt und kommentiert.pdf
@@ -1956,10 +1692,9 @@ All the Math You Missed
 * Tutorium Analysis 2 und Lineare Algebra 2. Mathematik von Studenten für Studenten erklärt und kommentiert.pdf
 * Tutorium Höhere Analysis. Mathematik von Studenten für Studenten erklärt und kommentiert.pdf
 
-
 ### Bourbaki
 
-Bourbaki Eléments d’histoire des mathématiques.pdf
+* Bourbaki Eléments d’histoire des mathématiques.pdf
 * Bourbaki ÉdM  Algebre Commutative ch1-4.pdf
 * Bourbaki ÉdM Algebra I.pdf
 * Bourbaki ÉdM Algebra II 4-7 Contents.pdf
@@ -1983,14 +1718,12 @@ Bourbaki Eléments d’histoire des mathématiques.pdf
 * Bourbaki ÉdM Topologie Algebrique ch1-4.pdf
 * Bourbaki ÉdM Topologie Generale ch5-10.pdf
 * Bourbaki ÉdM Topologie générale ch1-4.pdf
-* Bourbaki ÉdM Varietes differentielles et analytiques. Fascicule de resultats.pdf
-
-Éléments de mathématiques (Bourbaki).gsheet
-
+* Bourbaki ÉdM Varietes differentielles et analytiques. Fascicule de resultats.pd$1
+* $2léments de mathématiques (Bourbaki).gsheet
 
 ### Category Theory
 
-What is Category Theory.pdf
+* What is Category Theory.pdf
 * Basic Category Theory (arXiv).pdf
 * Abstract and Concrete Categories. The Joy of Cats.pdf
 * A Gentle Introduction to Category Theory.pdf
@@ -1999,63 +1732,52 @@ What is Category Theory.pdf
 * Introduction to Category Theory and Categorical Logic.pdf
 * Category Theory (Pareigis).pdf
 
-
 ### Functional Analysis
 
-Funktionentheorie 1 (Kasten).pdf
+* Funktionentheorie 1 (Kasten).pdf
 * Funktionentheorie. Eine Einführung (Jänich).pdf
 * Funktionalanalysis (Chill).pdf
 
-
 ### Complexity
 
-Complexity A Guided Tour.pdf
+* Complexity A Guided Tour.pdf
 * Complexity - A Guided Tour.epub
 
+### Graph Theor$1
 
-### Graph Theory
-
-Элементы теории графов, схем и автоматов.pdf
+* $2лементы теории графов, схем и автоматов.pdf
 * Basic Graph Theory.pdf
 * GRAPH THEORY.pdf
 * Graph Theory Book
 * Graphentheorie.pdf
-* Network Analysis. Methodological Foundations.pdf
-
-Прикладные задачи теории графов.pdf
+* Network Analysis. Methodological Foundations.pd$1
+* $2рикладные задачи теории графов.pdf
 * Computational Graph Theory.pdf
-
 
 ### Otros
 
-Computational Science and Engineering (Strang).pdf
+* Computational Science and Engineering (Strang).pdf
 * A Course in Cryptography.pdf
-* Sequences, Groups, and Number Theory.pdf
-
-Категории для работающего математика.pdf
-
-Математические основы криптологии.pdf
+* Sequences, Groups, and Number Theory.pd$1
+* $2атегории для работающего математика.pd$1
+* $2атематические основы криптологии.pdf
 * Formal Concept Analysis. Foundations and Applications.pdf
 * Knots (Burder & Zieschang).pdf
 * The Geometry of Spacetime. An Introduction to Special and General Relativity.pdf
 * Experimentelle mathematik - eine beispielorientierte Einführung.pdf
 * Categories for the Working Mathematician.pdf
 * A Survey of Quandle Ideas.pdf
-* Catastrophe Theory.pdf
-
-Математические основы кибернетики.djvu
-
-Математический анализ генетического кода.pdf
-
+* Catastrophe Theory.pd$1
+* $2атематические основы кибернетики.djv$1
+* $2атематический анализ генетического кода.pdf
 
 ### Topology
 
-Beginning Topology.djvu
+* Beginning Topology.djvu
 * Understanding Topology. A Practical Introduction.pdf
 * Topology. A Very Short Introduction.pdf
-* Introduction to Topology.pdf
-
-ТОПОЛОГІЯ МНОГОВИДІВ
+* Introduction to Topology.pd$1
+* $2ОПОЛОГІЯ МНОГОВИДІВ
 * Extremely Accessible.pdf
 * History of topology.pdf
 * Short Intro to Topology.pdf
@@ -2063,12 +1785,10 @@ Beginning Topology.djvu
 * From Geometry to Topology.pdf
 * Topology Notes 00. Things You Should Know.pdf
 * Explorations in Topology. Map Coloring, Surfaces, and Knots.pdf
-* Eulers Gem.pdf
-
-Наглядная топология.pdf
-* Topology Problem Solver.pdf
-
-Познакомьтесь с топологией.pdf .pdf
+* Eulers Gem.pd$1
+* $2аглядная топология.pdf
+* Topology Problem Solver.pd$1
+* $2ознакомьтесь с топологией.pdf .pdf
 * A Taste of Topology.pdf
 * Essential Topology.pdf
 * First Concepts of Topology.pdf
@@ -2089,11 +1809,9 @@ Beginning Topology.djvu
 * NOTAS DE TOPOLOGÍA ALGEBRAICA MUY ELEMENTAL.pdf
 * Topología. Notas de curso.pdf
 * Topology Illustrated.pdf
-* Topology Notes (short).pdf
-
-Топология без Слез.pdf
-
-Начальный курс топологии в листочках - задачи и теоремы.pdf
+* Topology Notes (short).pd$1
+* $2опология без Слез.pd$1
+* $2ачальный курс топологии в листочках - задачи и теоремы.pdf
 * Topologie - cours et exercices corrigés.pdf
 * Mengentheoretische Topologie (von Querenburg).pdf
 * Munkres Notes.pdf
@@ -2103,7 +1821,7 @@ Beginning Topology.djvu
 * Topologia (Manetti)
 * Topologie générale et espaces normés.pdf
 * Topologie. Ein Lesebuch von den elementaren Grundlagen bis zur Homologie und Kohomologie.pdf
-* Topology ***.pdf
+* Topology .pdf
 * Topology Notes 01. Introduction.pdf
 * Topology Notes 02. Bases of Topologies.pdf
 * Topology Notes 03.pdf
@@ -2208,9 +1926,8 @@ Beginning Topology.djvu
 * Einführung in die Topologie (Gathmann).pdf
 * Elementary Applied Topology.pdf
 * Elementary Topology Problem Textbook.pdf
-* Elementi di Topologia e di Analisi Funzionale.pdf
-
-Élements de topologie.pdf
+* Elementi di Topologia e di Analisi Funzionale.pd$1
+* $2lements de topologie.pdf
 * Elements of General Topology (Viro).pdf
 * Encyclopedia of General Topology.pdf
 * Examples of Surfaces.pdf
@@ -2322,58 +2039,34 @@ Beginning Topology.djvu
 * Trends Toward Abstractness.pdf
 * UVOD U ALGEBARSKU TOPOLOGIJU
 * WSTEP DO TOPOLOGII
-* Wstęp do topologii – Ćwiczenia
+* Wstęp do topologii – Ćwiczeni$1
+* $2лгебраическая топология с геометрической точки зрения.pd$1
+* $2ЛГЕБРАИЧЕСКАЯ ТОПОЛОГИЯ С ГЕОМЕТРИЧЕСКОЙ ТОЧКИ ЗРЕНИЯ.pd$1
+* $2ВЕДЕНИЕ В ДИФФЕРЕНЦИАЛЬНУЮ ТОПОЛОГИЮ И РИМАНОВУ ГЕОМЕТРИ$1
+* $2ведение в топологию (Борисович).pd$1
+* $2ведение в топологию.pd$1
+* $2еформируемые формы. Топология.pd$1
+* $2укова 3-9.pd$1
+* $2адачи по топологии .pd$1
+* $2ванова 3-9.pd$1
+* $2урс наглядной геометрии и топологии.pd$1
+* $2екции по математике. Топология.djv$1
+* $2атематика теряет форму. Пуанкаре. Топология.pd$1
+* $2ачала топологи$1
+* $2АЧАЛЬНЫЙ КУРС АЛГЕБРАИЧЕСКОЙ ТОПОЛОГИ$1
+* $2ачальный курс топологии в листочках. Задачи и теорем$1
+* $2чигледна топологиj$1
+* $2БОРНИК ЗАДАЧ ПО ТОПОЛОГИ$1
+* $2опологические векторные пространства и их приложения.pd$1
+* $2опология .pd$1
+* $2опология для бакалавров математики. Учебное пособие (2016).pd$1
+* $2опология Новиков.pd$1
+* $2лементарная топология .pd$1
+* $2лементы комбинаторной и дифференциальной топологии.pdf
 
-Алгебраическая топология с геометрической точки зрения.pdf
+### General | Mixe$1
 
-АЛГЕБРАИЧЕСКАЯ ТОПОЛОГИЯ С ГЕОМЕТРИЧЕСКОЙ ТОЧКИ ЗРЕНИЯ.pdf
-
-ВВЕДЕНИЕ В ДИФФЕРЕНЦИАЛЬНУЮ ТОПОЛОГИЮ И РИМАНОВУ ГЕОМЕТРИЮ
-
-Введение в топологию (Борисович).pdf
-
-Введение в топологию.pdf
-
-Деформируемые формы. Топология.pdf
-
-Жукова 3-9.pdf
-
-Задачи по топологии .pdf
-
-Иванова 3-9.pdf
-
-Курс наглядной геометрии и топологии.pdf
-
-Лекции по математике. Топология.djvu
-
-Математика теряет форму. Пуанкаре. Топология.pdf
-
-Начала топологии
-
-НАЧАЛЬНЫЙ КУРС АЛГЕБРАИЧЕСКОЙ ТОПОЛОГИИ
-
-Начальный курс топологии в листочках. Задачи и теоремы
-
-Очигледна топологиjа
-
-СБОРНИК ЗАДАЧ ПО ТОПОЛОГИИ
-
-Топологические векторные пространства и их приложения.pdf
-
-Топология ***.pdf
-
-Топология для бакалавров математики. Учебное пособие (2016).pdf
-
-Топология Новиков.pdf
-
-Элементарная топология ***.pdf
-
-Элементы комбинаторной и дифференциальной топологии.pdf
-
-
-### General | Mixed
-
-Математические основы информатики.pdf
+* $2атематические основы информатики.pdf
 * Mathematics for Big Data.pdf
 * MATHEMATICAL FOUNDATIONS FOR DATA ANALYSIS (Utah).pdf
 * Mathematics for Machine Learning (Garrett Thomas).pdf
@@ -2386,19 +2079,16 @@ Beginning Topology.djvu
 * Mathematiques pour Informaticiens.pdf
 * Skript zur Vorlesung Mathematik I-II.pdf
 * Mathematik kompakt für Ingenieure und Informatiker.pdf
-* Mathematische Begriffe in Beispielen und Bildern.pdf
-
-Вища математика I. Підручник у 2 частинах.pdf
-
-Вища математика II. Підручник у 2 частинах.pdf
+* Mathematische Begriffe in Beispielen und Bildern.pd$1
+* $2ища математика I. Підручник у 2 частинах.pd$1
+* $2ища математика II. Підручник у 2 частинах.pdf
 * An Introduction to Multivariable Mathematics.pdf
 * Matemáticas avanzadas para ingenieria.pdf
 * Méthodes mathématiques pour l'informatique.djvu
 * Data-Driven Science and Engineering
 * Pure Mathematics for Beginners. A Rigorous Introduction to Logic, Set Theory, Abstract Algebra, Number Theory, Real Analysis, Topology, Complex Analysis, and Linear Algebra.pdf
-* Statistische und numerische Methoden der Datenanalyse.pdf
-
-МАТЕМАТИЧЕСКИЕ ОСНОВЫ ТЕОРИИ МАШИННОГО ОБУЧЕНИЯ И ПРОГНОЗИРОВАНИЯ.pdf
+* Statistische und numerische Methoden der Datenanalyse.pd$1
+* $2АТЕМАТИЧЕСКИЕ ОСНОВЫ ТЕОРИИ МАШИННОГО ОБУЧЕНИЯ И ПРОГНОЗИРОВАНИЯ.pdf
 * Calculus 1 - Apostol.pdf
 * Calculus 2 - Apostol.pdf
 * Proofs from THE BOOK.pdf
@@ -2432,46 +2122,28 @@ Beginning Topology.djvu
 * MML.gdoc
 * Probleme Höhere Mathematik. Eine Aufgabensammlung zur Analysis, Vektor- und Matrizenrechnung.pdf
 * Representation Theory, Number Theory, and Invariant Theory.pdf
-* Taschenbuch der Mathematik.pdf
+* Taschenbuch der Mathematik.pd$1
+* $2ища математика.djv$1
+* $2ысшая математика 1.pd$1
+* $2ысшая математика для начинающих и ее приложения к физике.pd$1
+* $2ысшая математика.pd$1
+* $2раткий курс высшей математики. Учебник.pd$1
+* $2раткий курс высшей математики.djv$1
+* $2раткий курс высшей математики.pd$1
+* $2урс высшей математики II.pd$1
+* $2урс математики для студентов-физиков.djv$1
+* $2атематика. Часть I.pd$1
+* $2атематика. Часть II.pd$1
+* $2ини-справочник для вузов. Высшая математика.djv$1
+* $2сновы высшей математики_.pd$1
+* $2сновы высшей математики.pd$1
+* $2борник задац по высшей математике.pd$1
+* $2борник задач и упражнений по высшей математике.pd$1
+* $2правочник по математике для инженеров и учащихся вузов .pdf
 
-Вища математика.djvu
+### Transitiona$1
 
-Высшая математика 1.pdf
-
-Высшая математика для начинающих и ее приложения к физике.pdf
-
-Высшая математика.pdf
-
-Краткий курс высшей математики. Учебник.pdf
-
-Краткий курс высшей математики.djvu
-
-Краткий курс высшей математики.pdf
-
-Курс высшей математики II.pdf
-
-Курс математики для студентов-физиков.djvu
-
-Математика. Часть I.pdf
-
-Математика. Часть II.pdf
-
-Мини-справочник для вузов. Высшая математика.djvu
-
-Основы высшей математики_.pdf
-
-Основы высшей математики.pdf
-
-Сборник задац по высшей математике.pdf
-
-Сборник задач и упражнений по высшей математике.pdf
-
-Справочник по математике для инженеров и учащихся вузов .pdf
-
-
-### Transitional
-
-Элементарное введение в высшую математику.pdf
+* $2лементарное введение в высшую математику.pdf
 * Transition to Advanced Mathematics (Doud and Nielsen).pdf
 * An Introduction to Higher Mathematics.pdf
 * Cours de mathématiques.pdf
@@ -2482,5 +2154,3 @@ Beginning Topology.djvu
 * Transition to Advanced Mathematics.pdf
 * Einführung  in das  mathematische Arbeiten.pdf
 * Einführung in die Höhere Mathematik.pdf
-
-

@@ -1,7 +1,7 @@
 # Python
 
-
 ## Sort
+
 * [r/Python/s/epbxOrm3iC](https://www.reddit.com/r/Python/s/epbxOrm3iC)
 * [lobste.rs/s/s1v57r/what_are_some_good_python_codebases_read](https://lobste.rs/s/s1v57r/what_are_some_good_python_codebases_read)
 * [leapingio/leaping](https://github.com/leapingio/leaping) - pytest helper
@@ -19,21 +19,18 @@
 * [sarge.readthedocs.io/en/latest/](https://sarge.readthedocs.io/en/latest/)
 * [stefaniemolin.com/articles/devx/pre-commit/setup-guide/](https://stefaniemolin.com/articles/devx/pre-commit/setup-guide/)
 
-
 ## Resources
-
 
 ## Newsletters
 
-
 ## [pythonweekly.com/archive/](https://www.pythonweekly.com/archive/)
 
-
 ## Reference
+
 * [(A Semi-Official) Python FAQ Zone](http://effbot.org/pyfaq/)
 * [wiki.python.org.br/PythonBrasil](https://wiki.python.org.br/PythonBrasil)
 * [Category:Subject:Python programming language - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Category:Subject:Python_programming_language)
-* [](https://www.youtube.com/user/PyDataTV)
+* [video](https://www.youtube.com/user/PyDataTV)
 * [packaging.python.org/en/latest/](https://packaging.python.org/en/latest/)
 * [docs.python.org/fr/3/](https://docs.python.org/fr/3/)
 * [python-poetry.org/docs/](https://python-poetry.org/docs/#installation)
@@ -44,15 +41,14 @@
 * [programcreek.com/python/](https://www.programcreek.com/python/)
 * [PyCon Italia](https://www.youtube.com/c/pyconitalia)
 
-
 ## Media / Fora
-* [pythops.com/index.html](https://pythops.com/index.html)
 
-Real Python Podcast
+* [pythops.com/index.html](https://pythops.com/index.html)
+* Real Python Podcast
 * [talkpython.fm/](https://talkpython.fm/)
 
-
 ## Tools
+
 * [isthisit.nz/posts/2023/building-a-chat-gpt-enhanced-python-repl/](https://isthisit.nz/posts/2023/building-a-chat-gpt-enhanced-python-repl/)
 * [snyk.io/advisor/python](https://snyk.io/advisor/python)
 * [pep8online.com/](http://pep8online.com/)
@@ -71,17 +67,13 @@ Real Python Podcast
 * [click](https://github.com/pallets/click/)
 * [typer](https://github.com/tiangolo/typer)
 
-
 ## Books
-***Automate the Boring Stuff with Python
 
-Beyond the Basic Stuff with Python
-
-Expert Python Programming
-
-The Python Journeyman
-
-Effektiv Python programmieren (Heidelberg)
+Automate the Boring Stuff with Python
+* Beyond the Basic Stuff with Python
+* Expert Python Programming
+* The Python Journeyman
+* Effektiv Python programmieren (Heidelberg)
 * [Alfredo Deza: free download. Ebooks library. On-line books store on Z-Library (Python books)](https://b-ok.cc/g/Alfredo%20Deza)**
 * [PYTHON The Complete Manual: The essential handbook for Python users](https://b-ok.cc/book/2971611/fd311a)
 * [Python Programmieren 7 in 1: Der schnelle Einstieg (Grundlagen, Machine Learning, Neuronale Netze, Data Science, Computer Vision, Finanzen)](https://b-ok.cc/book/5430514/38670e)
@@ -101,8 +93,7 @@ Effektiv Python programmieren (Heidelberg)
 * [Data Structure and Algorithms With Python: The Ultimate Guide Towards Coding](https://en.de1lib.org/book/18784462/e4ff95)
 * [Data Structure and Algorithmic Thinking with Python: Data Structure and Algorithmic Puzzles 2020](https://en.de1lib.org/book/18587868/54aa90)
 * [Easy Learning Design Patterns Python 3: Reusable Object-Oriented Software](https://en.de1lib.org/book/14345062/3de05f)
-
-Two Scoops of Django 3.x: Best Practices for the Django Web Framework
+* Two Scoops of Django 3.x: Best Practices for the Django Web Framework
 * [Quick Start — The Hitchhiker's Guide to Packaging 1.0 documentation](https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/quickstart.html)
 * [Laziness in Python - Computerphile](https://www.youtube.com/watch?v=5jwV3zxXc8E&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=48)**
 * [Tutorial: Debugging your Python Applications with pdb - YouTube](https://www.youtube.com/watch?v=bZZTeKPRSLQ)
@@ -110,8 +101,8 @@ Two Scoops of Django 3.x: Best Practices for the Django Web Framework
 * [Python in a Nutshell, 4th Edition](https://de.de1lib.org/book/19084903/7bd1da)
 * [bookflow.ru/spisok-voprosov-s-sobesedovanij-po-python/](https://bookflow.ru/spisok-voprosov-s-sobesedovanij-po-python/)
 
-
 ## Python and C/C++
+
 * [docs.python.org/fr/3/c-api/intro.html](https://docs.python.org/fr/3/c-api/intro.html)
 * [docs.python.org/fr/3/extending/extending.html#extending-simpleexample](https://docs.python.org/fr/3/extending/extending.html#extending-simpleexample)
 * [realpython.com/build-python-c-extension-module/](https://realpython.com/build-python-c-extension-module/)
@@ -121,8 +112,8 @@ Two Scoops of Django 3.x: Best Practices for the Django Web Framework
 * [realpython.com/cpython-source-code-guide/](https://realpython.com/cpython-source-code-guide/)
 * [yolinux.com/TUTORIALS/LibraryArchives-StaticAndDynamic.html](http://www.yolinux.com/TUTORIALS/LibraryArchives-StaticAndDynamic.html)
 
-
 ## Jupyter
+
 * [gibiansky/IHaskell: A Haskell kernel for IPython.](https://github.com/gibiansky/IHaskell)
 * [SciRuby/iruby: Official gem repository: Ruby kernel for Jupyter/IPython Notebook](https://github.com/SciRuby/iruby)
 * [mattpap/IScala: Scala backend for IPython](https://github.com/mattpap/IScala)
@@ -154,15 +145,15 @@ Two Scoops of Django 3.x: Best Practices for the Django Web Framework
 * [The Jupyter Notebook — Jupyter Notebook 5.7.4 documentation](https://jupyter-notebook.readthedocs.io/en/stable/index.html)
 * [NumFOCUS: Open Code = Better Science - NumFOCUS](https://numfocus.org/)
 * [Calysto](https://github.com/Calysto)
-***Making kernels for Jupyter — jupyter_client 6.0.0.dev documentation
+Making kernels for Jupyter — jupyter_client 6.0.0.dev documentation
 * [Kernel not detected by jupyter · Issue #1094 · gibiansky/IHaskell](https://github.com/gibiansky/IHaskell/issues/1094)
 *Run Jupyter Notebook script from terminal – Deep Learning Garden
 * [Hydrogen: Interactive computing in Atom – nteract](https://blog.nteract.io/hydrogen-interactive-computing-in-atom-89d291bcc4dd)
 * [dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 * [IPython_notebook](http://nbviewer.jupyter.org/github/nicolasfauchereau/Python_NIWA_Wellington/blob/master/notebooks/IPython_notebook.html)
 
-
 ## Regex
+
 * [openclassrooms.com/courses/apprenez-a-programmer-en-python/les-expressions-regulieres](https://openclassrooms.com/courses/apprenez-a-programmer-en-python/les-expressions-regulieres)
 * [python-course.eu/re.php](https://www.python-course.eu/re.php)
 * [regex101.com/](https://regex101.com/)
@@ -180,11 +171,11 @@ Two Scoops of Django 3.x: Best Practices for the Django Web Framework
 * [pythex.org/](https://pythex.org/)
 * [re — Regular expression operations — Python 3.7.2rc1 documentation](https://docs.python.org/3/library/re.html)
 * [python regex by example - Поиск в Google](https://www.google.com/search?q=python+regex+by+example&rlz=1C5CHFA_enUS800US800&oq=python+regex+by+example&aqs=chrome..69i57j0l5.4250j0j7&sourceid=chrome&ie=UTF-8)
-*** re — Regular expression operations — Python 3.7.4 documentation
+ re — Regular expression operations — Python 3.7.4 documentation
 * [Lesson 06_08 Regular expressions - YouTube](https://www.youtube.com/watch?v=snZetfzy_Fk&list=PLsu0TcgLDUiIznEhN165XmykqyLgzwY0Y&index=52&t=0s)
 
-
 ## Repos
+
 * [pymedphys](https://github.com/pymedphys/pymedphys/) (poetry and extras)
 * [awesome-python](https://github.com/vinta/awesome-python)
 * [astropy](https://github.com/astropy/astropy)
@@ -275,8 +266,8 @@ Two Scoops of Django 3.x: Best Practices for the Django Web Framework
 * [quart](https://github.com/pallets/quart)
 * [itsdangerous](https://github.com/pallets/itsdangerous)
 
-
 ## Package List
+
 * [mesejo/trex](https://github.com/mesejo/trex)
 * [cleo.readthedocs.io/en/latest/](https://cleo.readthedocs.io/en/latest/)
 * [pexpect.readthedocs.io/en/stable/index.html](https://pexpect.readthedocs.io/en/stable/index.html)
@@ -844,18 +835,17 @@ Two Scoops of Django 3.x: Best Practices for the Django Web Framework
 * zmq
 * zope.interface
 
-
 ## Projects
 
-look through: [learnbyexample.github.io/practice_python_projects/](https://learnbyexample.github.io/practice_python_projects/)
+* look through: [learnbyexample.github.io/practice_python_projects/](https://learnbyexample.github.io/practice_python_projects/)
 * [Build a Command-Line To-Do App With Python and Typer – Real Python](https://realpython.com/python-typer-cli/)
 * [How to Build Your Very First Python Package](https://www.freecodecamp.org/news/build-your-first-python-package/)
 * [brean/python-pathfinding: Implementation of common pathfinding algorithms](https://github.com/brean/python-pathfinding)
 * [Python Resume Projects - You Can Finish in a Weekend](https://youtu.be/jl5yUEdekEM)
 * [freecodecamp.org/news/learn-how-to-build-12-python-projects-in-one-course/](https://www.freecodecamp.org/news/learn-how-to-build-12-python-projects-in-one-course/)
 
-
 ## 1-shot Video & Podcast
+
 * [5 Tips To Organize Python Code - YouTube](https://www.youtube.com/watch?v=e9yMYdnSlUA)
 * [Why Python 3.11 is so fast | Guido van Rossum and Lex Fridman - YouTube](https://www.youtube.com/watch?v=TLhRuZ9cJWc)
 * [Get started with pyenv & poetry. Saviours in the python chaos! - blog.](https://blog.jayway.com/2019/12/28/pyenv-poetry-saviours-in-the-python-chaos/)
@@ -865,8 +855,7 @@ look through: [learnbyexample.github.io/practice_python_projects/](https://learn
 * [Episode 150: Lessons Learned From Four Years Programming With Python](https://realpython.com/podcasts/rpp/150/)
 * [25 nooby Python habits you need to ditch - YouTube](https://www.youtube.com/watch?v=qUeud6DvOWI)
 * [Python dataclasses will save you HOURS, also featuring attrs - YouTube](https://www.youtube.com/watch?v=vBH6GRJ1REM)
-
-Demystifying Python’s Internals - YouTube
+* Demystifying Python’s Internals - YouTube
 * [25 Nooby Pandas Coding Mistakes You Should NEVER make. Rob Mulla • 112.472 visualizaciones En directo 11:30 Lista de reproducción ( ) Mix (50+)](https://www.youtube.com/watch?v=_gaAoJBMJ_Q)
 * [Learning to program with Python 3 (py 3.7)](https://www.youtube.com/watch?v=eXBD2bB9-RA&list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)**
 * [Углубленный Python. Часть 1.](https://www.youtube.com/watch?v=uRTCONRghKg)
@@ -875,8 +864,8 @@ Demystifying Python’s Internals - YouTube
 * [Bad Beat Poetry](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=54c5ff2b5c&e=501d687f26) - Lockfiles are great. They can also be hard to review and a source of malicious code injection.
 * [Functions vs Classes: When to Use Which and Why?](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=91436e3f84&e=501d687f26) - F**unctions vs. Classes?! Are you trying to decide which one to use in  your code? This video explores how and when to use each of them, so you can make sure your code is as efficient and effective as possible.
 
-
 ## Courses & Tutorials
+
 * [Learn Python in Y Minutes](https://learnxinyminutes.com/docs/python/)
 * [**Advanced Python для сетевых инженеров](https://advpyneng.readthedocs.io/ru/latest/)
 * [TeoZosa/pytudes: Miscellaneous programming challenges for the purpose of personal/professional edification, inspired by Peter Norvig's pytudes repository](https://github.com/TeoZosa/pytudes)
@@ -892,8 +881,8 @@ Demystifying Python’s Internals - YouTube
 * [freecodecamp.org/news/algorithmic-trading-using-python-course/](https://www.freecodecamp.org/news/algorithmic-trading-using-python-course/)
 * [ics.uci.edu/~pattis/ICS-33/index.html](https://www.ics.uci.edu/~pattis/ICS-33/index.html)
 
-
 ## Media & People
+
 * [learnbyexample](https://learnbyexample.github.io/)
 * [Proceedings of the Python in Science Conferences](https://conference.scipy.org/proceedings/)
 * [pythonspeed.com/](https://pythonspeed.com/)
@@ -913,8 +902,8 @@ Demystifying Python’s Internals - YouTube
 * [diveintopython3.net/](https://diveintopython3.net/)
 * [learntosolveit.com/](http://www.learntosolveit.com/)
 
-
 ## Docs
+
 * [docs.python.org/3.11/whatsnew/3.0.html](https://docs.python.org/3.11/whatsnew/3.0.html)
 * [docs.python.org/3.11/whatsnew/3.1.html](https://docs.python.org/3.11/whatsnew/3.0.html)
 * [docs.python.org/3.11/whatsnew/3.2.html](https://docs.python.org/3.11/whatsnew/3.0.html)
@@ -933,10 +922,9 @@ Demystifying Python’s Internals - YouTube
 * [Survol de la bibliothèque standard](https://docs.python.org/3/tutorial/stdlib.html)
 * [Python Documentation Index | Python.org](https://www.python.org/doc/essays/)
 
-
 ## Books
 
-speedread: [learnbyexample.github.io/100_page_python_intro/](https://learnbyexample.github.io/100_page_python_intro/)
+* speedread: [learnbyexample.github.io/100_page_python_intro/](https://learnbyexample.github.io/100_page_python_intro/)
 * [Crafting Test-Driven Software with Python: Write test suites that scale with your applications needs and complexity, using Python and PyTest](http://library.lol/main/9272ED92EC95D7D9A7D160593E92985A)
 * [Python Testing with pytest: Simple, Rapid, Effective, and Scalable](http://library.lol/main/54FFFD72522BFD9BF09C1C2195F83FE3)
 * [Think Python Vocabulary](https://ankiweb.net/shared/info/1021974894)
@@ -955,8 +943,7 @@ speedread: [learnbyexample.github.io/100_page_python_intro/](https://learnbyexam
 * [book.pythontips.com/en/latest/#](http://book.pythontips.com/en/latest/#)
 * [pythonprogramming.net/](https://pythonprogramming.net/)
 * [pythonworld.ru/](https://pythonworld.ru/)
-
-Python for Data Analysis
+* Python for Data Analysis
 * [Python Programming Fundamentals_Kent D. Lee_2nd ed. 2014](http://link.springer.com/openurl?genre=book&isbn=978-1-4471-6642-9)
 * [fr.wikibooks.org/wiki/Math%C3%A9matiques_avec_Python_et_Ruby](https://fr.wikibooks.org/wiki/Math%C3%A9matiques_avec_Python_et_Ruby)
 * [Architecture Patterns with Python.](http://library.lol/main/3C25B72C2A1F697493D2154568C2548A)
@@ -969,8 +956,7 @@ Python for Data Analysis
 * [Apprendre à programmer avec Python 3](https://inforef.be/swi/download/apprendre_python3_5.pdf)
 * [libgen.is/search.php?&req=Python&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](https://libgen.is/search.php?&req=Python&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 * [Python. Справочник. Полное описание языка, 3-е издание [2019] Мартелли.pdf](https://vk.com/doc44301783_518214352?hash=3d30c5e24db6a1fd54&dl=8f58cd59702d4ac6f9)
-
-The Hacker’s Guide to Scaling Python. Julien Danjou
+* The Hacker’s Guide to Scaling Python. Julien Danjou
 * [Python 201 Intermediate Python](http://libgen.rs/book/index.php?md5=93D74612900F330928A328811B5F963C)
 * [The Hitchhiker’s Guide to Python! — The Hitchhiker's Guide to Python](https://python-guide-pt-br.readthedocs.io/pt_BR/latest/)
 * [Practices of the Python Pro](https://b-ok.cc/book/5326898/bfff35)
@@ -987,8 +973,7 @@ The Hacker’s Guide to Scaling Python. Julien Danjou
 * [Practical Programming: An Introduction to Computer Science Using Python 3.6 | Paul Gries, Jennifer Campbell, Jason Montojo | download](https://b-ok.cc/book/3694923/796ad5)
 * [openbookproject.net/thinkcs/python/english3e/](http://openbookproject.net/thinkcs/python/english3e/)
 * [Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html)
-
-Classic Computer Science Problems in Python ( David Kopec ). Manning Publications 2019
+* Classic Computer Science Problems in Python ( David Kopec ). Manning Publications 2019
 * [Data Structures and Algorithms with Python_Kent D. Lee, Steve Hubbard_2015](http://link.springer.com/openurl?genre=book&isbn=978-3-319-13072-9)
 * [AllenDowney/ThinkPythonItalian/blob/master/thinkpython_italian.pdf](https://github.com/AllenDowney/ThinkPythonItalian/blob/master/thinkpython_italian.pdf)
 * [ralsina.gitlab.io/boxes-book/](http://ralsina.gitlab.io/boxes-book/)
@@ -1005,10 +990,8 @@ Classic Computer Science Problems in Python ( David Kopec ). Manning Publication
 * [A Python Book: Beginning Python, Advanced Python, and Python Exercises](http://library.lol/main/CD2CB86351480A1FF50B95F008CC9552)
 * [Advanced Guide to Python 3 Programming_John Hunt_1st ed. 2019](http://link.springer.com/openurl?genre=book&isbn=978-3-030-25943-3)
 * [Pro Python 3: Features and Tools for Professional Development](https://b-ok.cc/book/3712833/c8b7bd)
-
-Effective Python : 90 specific ways to write better Python, Brett Slatkin (2020) || It’s easy to start developing programs with Python, which is why the language is so popular. However, Python’s unique strengths, charms, and expressiveness can be hard to grasp, and there are hidden pitfalls that can easily trip you up. || This second edition of Effective Python will help you master a truly “Pythonic” approach to programming, harnessing Python’s full power to write exceptionally robust and well-performing code. Using the concise, scenario-driven style pioneered in Scott Meyers’ best-selling Effective C++, Brett Slatkin brings together 90 Python best practices, tips, and shortcuts, and explains them with realistic code examples so that you can embrace Python with confidence.
-
-Python Scripting for Computational Science
+* Effective Python : 90 specific ways to write better Python, Brett Slatkin (2020) || It’s easy to start developing programs with Python, which is why the language is so popular. However, Python’s unique strengths, charms, and expressiveness can be hard to grasp, and there are hidden pitfalls that can easily trip you up. || This second edition of Effective Python will help you master a truly “Pythonic” approach to programming, harnessing Python’s full power to write exceptionally robust and well-performing code. Using the concise, scenario-driven style pioneered in Scott Meyers’ best-selling Effective C++, Brett Slatkin brings together 90 Python best practices, tips, and shortcuts, and explains them with realistic code examples so that you can embrace Python with confidence.
+* Python Scripting for Computational Science
 * [amazon.com/Guide-NumPy-Travis-Oliphant-PhD/dp/151730007X](https://www.amazon.com/Guide-NumPy-Travis-Oliphant-PhD/dp/151730007X)
 * [libgen.is/search.php?&req=python+data+science&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](https://libgen.is/search.php?&req=python+data+science&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 * [book.pythontips.com/en/latest/index.html](https://book.pythontips.com/en/latest/index.html)
@@ -1016,15 +999,12 @@ Python Scripting for Computational Science
 * [Python - Wikilibros](https://es.wikibooks.org/wiki/Python)
 * [http://gpiancastelli.altervista.org/dip3-it/](http://gpiancastelli.altervista.org/dip3-it/)
 
-
 ## →
+
 * [Lista (in)completa de recursos para aprender Python](https://estrategiastrading.com/recursos-utiles/aprender-python/)
 * [Anki - python](https://ankiweb.net/shared/info/1021974894)
-
-
 * [Python resources for everybody](https://url6652.creators.gumroad.com/ls/click?upn=56j1UXPh1eye3mggAaGeSuMN76TjtQLbF9BItIUrbWDLwa1Zjn8hVppz92CRIty-2BZjuCU-2FzKXnYznZmtxeYKvQ-3D-3DGuMZ_Ok-2F1QZUoWNfwArWx1OpnKP3rAR9xqW9UxFasc9TFWJtpfu3uN9QXWSEVAiG0giAEROyvE0zQOoXOiiMDVg4Fsq8w6Zs8rGdSbMZD2aBXb5i4uoFNj8XsEA7mtMBFVWqsHQLLA9n-2FyBw-2B740Etvomb821njsZo-2FgP0zcqnJjpUTUsJZFzEBz3QJ-2BAbvJzuYwk5N-2FuivlVvEu5roljSBqYyh6TJgBLGmtbjdXyAjgr5b7vBC0YxiNMYbhh8IiWv6Yc0LWn7rWamkGIaSpf7y9TOp036hdbiRQQ0GA-2Bs2NN37Z3tNQeXbHK3InYu7CEtjCbDdEBQE6Zl3XEIMoM2notbbnZfipJsICkN-2BrZMGxx8z2eeYWL4uQXBQmYUM5lxiq4qGRAhIqtQ6OLBOnXtjuj1-2Bo5Y84-2B8vERrsj8KHxTTp2eBRXpGFYhQmvsCaSN5CvT2esKf2-2BDjoLV27X7xsMZ4sWkcvk1SZwakiEeXeOnZs2oJ04vqyFLQPcVp1GegqlRg7FLA2yrjnuNDO65wkhn4LfgNcaLOhPX4oIJTwTwMOo-3D) — books, interactive websites, courses, exercises, projects, debugging, testing, cheatsheets, algorithms, domain specific resources like
-
-machine learning, web development, data science, etc
+* machine learning, web development, data science, etc
 * [modular.com/blog/mojo-its-finally-here](https://www.modular.com/blog/mojo-its-finally-here)
 * [realpython.com/podcasts/rpp/175/](https://realpython.com/podcasts/rpp/175/)
 * [realpython.com/python312-new-features/](https://realpython.com/python312-new-features/)
@@ -1040,16 +1020,14 @@ machine learning, web development, data science, etc
 * [google.github.io/pytype/](https://google.github.io/pytype/)
 * [pyre-check.org/](https://pyre-check.org/)
 
-
 ## Misc Topics
 
-
 ## regex
+
 * [learnbyexample.github.io/py_regular_expressions/](https://learnbyexample.github.io/py_regular_expressions/)
 * [Groupings and backreferences - Python re(gex)?](https://learnbyexample.github.io/py_regular_expressions/groupings-and-backreferences.html)
 * [learnbyexample/py_regular_expressions: Learn Python Regular Expressions step by step from beginner to advanced levels](https://github.com/learnbyexample/py_regular_expressions)
 * [Preface - Understanding Python re(gex)?](https://learnbyexample.github.io/py_regular_expressions/preface.html)
-
 
 ## Packaging
 
@@ -1059,8 +1037,8 @@ machine learning, web development, data science, etc
 * [pypa/build](https://github.com/pypa/build)
 * [Multiple related programs: one `pyproject.toml`, or multiple projects? - Packaging - Discussions on Python.org](https://discuss.python.org/t/multiple-related-programs-one-pyproject-toml-or-multiple-projects/17427/5)
 
-
 ## Templating
+
 * [**puzzlepeaches/snickerdoodle: Python cookiecutter project template.](https://github.com/puzzlepeaches/snickerdoodle)
 * [sourcery-ai/python-best-practices-cookiecutter: Python best practices project cookiecutter 🍪](https://github.com/sourcery-ai/python-best-practices-cookiecutter)
 * [Egnod/karakurt: Cookiecuttrer-template for python cli app](https://github.com/Egnod/karakurt)
@@ -1070,11 +1048,10 @@ machine learning, web development, data science, etc
 * [dmyersturnbull/tyrannosaurus: Generate beautifully modern (2021+) Python projects with seamless, GitHub-based CI/CD, Docker and Conda support, and out-of-the-box integration with >30 best-practices tools and standards.](https://github.com/dmyersturnbull/tyrannosaurus)
 * [iterative/py-template: Hypermodern Python Cookiecutter](https://github.com/iterative/py-template)
 
-
 ## Testing
+
 * [Test Automation in Python - Chapter 1 - YouTube](https://www.youtube.com/watch?v=tGzyAoVU1Ks&list=PLelD030IW7swU6n75wOIeCC9hqKipub_w)
-* [Python 3 Unit Testing With PyTest - YouTube](https://www.youtube.com/playlist?list=PLS1QulWo1RIaNFUz4zrztWlCJgkpXht-H)
-    UsingSlots - Python Wikipython - Importing correctly with pytest - Stack Overflow
+* [Python 3 Unit Testing With PyTest - YouTube](https://www.youtube.com/playlist?list=PLS1QulWo1RIaNFUz4zrztWlCJgkpXht-H)    UsingSlots - Python Wikipython - Importing correctly with pytest - Stack Overflow
 * [Parametrizing fixtures and test functions — pytest documentation](https://docs.pytest.org/en/6.2.x/parametrize.html)
 * [How To Run Multiple Tests In pytest | pytest Framework Tutorial | Part-IV | LambdaTest - YouTube](https://www.youtube.com/watch?v=UFgpt_s6bN4)
 * [python - In pytest, what is the use of conftest.py files? - Stack Overflow](https://stackoverflow.com/questions/34466027/in-pytest-what-is-the-use-of-conftest-py-files)
@@ -1082,8 +1059,8 @@ machine learning, web development, data science, etc
 * [Test Automation in Python - Chapter 1 - YouTube](https://www.youtube.com/watch?v=tGzyAoVU1Ks&list=PLelD030IW7swU6n75wOIeCC9hqKipub_w)
 * [Installation and Getting Started — pytest documentation](https://docs.pytest.org/en/6.2.x/getting-started.html#getstarted)
 
-
 ## Software and Libraries
+
 * [pydantic](https://docs.pydantic.dev/)
 * [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf)
 * [orchest.io/blog/the-great-python-dataframe-showdown-part-3-lightning-fast-queries-with-polars](https://www.orchest.io/blog/the-great-python-dataframe-showdown-part-3-lightning-fast-queries-with-polars)
@@ -1127,8 +1104,7 @@ machine learning, web development, data science, etc
 * [pyenv/pyenv: Simple Python version management](https://github.com/pyenv/pyenv)
 * [dis — Disassembler for Python bytecode — Python 3.11.2 documentation](https://docs.python.org/3/library/dis.html)
 * [sys — System-specific parameters and functions — Python 3.11.2 documentation](https://docs.python.org/3/library/sys.html#id1)
-
-datetime — Basic date and time types — Python 3.11.2 documentation
+* datetime — Basic date and time types — Python 3.11.2 documentation
 * [Welcome — Sphinx documentation](https://www.sphinx-doc.org/en/master/)
 * [Commands | Documentation | Poetry - Python dependency management and packaging made easy](https://python-poetry.org/docs/cli/#lock)
 * [PyZMQ Documentation — PyZMQ 25.1.0.dev documentation](https://pyzmq.readthedocs.io/en/latest/)
@@ -1191,15 +1167,15 @@ datetime — Basic date and time types — Python 3.11.2 documentation
 * [GITHUB.COM/TEXTUALIZE](https://pycoders.com/link/10774/mkivfelsav)
 * [README-AI: Automated Tool for Generating README Files](https://pycoders.com/link/10786/mkivfelsav)
 
-
 ## Tools and Resources
+
 * [Using Python Environments in Visual Studio Code](https://code.visualstudio.com/docs/python/environments)
 * [semgrep.dev/](https://semgrep.dev/)
 * [spyder-ide.org/](https://www.spyder-ide.org/)
 * [Ochrona Security](https://ochrona.dev/)
 
-
 ## 1-shot blog posts
+
 * [duckduckgo.com/?q=Программирование+на+Python+с+использованием+шаблонов+проектирования&ia=web](https://duckduckgo.com/?q=%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%BD%D0%B0+Python+%D1%81+%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC+%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F&ia=web)
 * [Python behind the scenes #1: how the CPython VM works](https://tenthousandmeters.com/blog/python-behind-the-scenes-1-how-the-cpython-vm-works/)
 * [Calling C Functions from Python | DigitalOcean](https://www.digitalocean.com/community/tutorials/calling-c-functions-from-python#:~:text=We%20can%20call%20a%20C,program%20using%20the%20ctypes%20module.)
@@ -1241,8 +1217,7 @@ datetime — Basic date and time types — Python 3.11.2 documentation
 * [Making a singleton in Python - Python Morsels](https://www.pythonmorsels.com/making-singletons/)
 * [Singleton Pattern in Python - A Complete Guide - GeeksforGeeks](https://www.geeksforgeeks.org/singleton-pattern-in-python-a-complete-guide/)
 * [pythonspeed.com/articles/conda-vs-pip/](https://pythonspeed.com/articles/conda-vs-pip/)
-
-Python Type Hints - How to Use TypedDict - Adam Johnson
+* Python Type Hints - How to Use TypedDict - Adam Johnson
 * [Build Enumerations of Constants With Python's Enum – Real Python](https://realpython.com/python-enum/)
 * [How Do You Install Python?](https://pycoders.com/link/10773/mkivfelsav)
 * [Pandas Illustrated: The Definitive Visual Guide to Pandas | by Lev Maximov | Jan, 2023 | Better Programming](https://betterprogramming.pub/pandas-illustrated-the-definitive-visual-guide-to-pandas-c31fa921a43)
@@ -1262,16 +1237,13 @@ Python Type Hints - How to Use TypedDict - Adam Johnson
 * [Two core Unix-like utilities, sudo and su, are getting rewrites in Rust](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=6e00ce0b52&e=b5a8df9a4a) - AWS-backed group believes command is too central to the web to keep as-is.
 * [GitHub code search is generally available](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=7a91fc418c&e=b5a8df9a4a) - The world’s code is now at your fingertips.
 * [Scaling up the Prime Video audio/video monitoring service and reducing costs by 90%](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=489c4dcd33&e=b5a8df9a4a)**
-
-The move from a distributed microservices architecture to a monolith
-
-application helped achieve higher scale, resilience, and reduce costs.
+* The move from a distributed microservices architecture to a monolith
+* application helped achieve higher scale, resilience, and reduce costs.
 * [Merklizing the key/value store for fun and profit](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=e560cfccec&e=b5a8df9a4a) - We'll give a short overview of merkle trees in general, walk through the design of a merklized key/value store, see some example applications, introduce two reference implementations, and wrap up with a comparison to other projects.
 * [Why engineers need to be bored.](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=6c8bfbb2d1&e=b5a8df9a4a) - An analysis on boredom in engineering productivity and how it can lead to deeper innovation.
 * [Build your own private WireGuard VPN with PiVPN](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=2c11cf8b77&e=b5a8df9a4a) - This article describes how to set up a private WireGuard VPN on a Raspberry Pi using the PiVPN software. Once configured, you can connect to your home network from anywhere in the world, providing a secure and encrypted connection.
 * [A Comprehensive Guide to API Gateways, Kubernetes Gateways, and Service Meshes](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=7b17471fcb&e=b5a8df9a4a) - There is still a lot of confusion about API gateways, Kubernetes gateways, and service meshes. This article explains these technologies and share how they fundamentally differ and cater to different use
-
-cases.
+* cases.
 * [Using the Web Vitals extension to debug Core Web Vitals issues](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=5bf7af487d&e=b5a8df9a4a) - The Web Vitals extension now shows you more debugging information to help you identify the root causes of Core Web Vitals issues.
 * [Breaking down Reverse shell commands](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=839d011f2a&e=b5a8df9a4a) - The article discusses reverse shell payloads, which can be used by hackers to gain remote access to a target computer. It provides an overview of different types of reverse shells, how they work, and includes examples of how to create and use them in various scenarios.
 * [What is a Vector Database?](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=a3ea47847c&e=b5a8df9a4a) - A vector database is a type of database that is optimized for storing and searching vector data. Vector data is data that is represented as a list of numbers, such as the results of a machine learning algorithm. Vector databases can be used to perform similarity search, which is the task of finding the most similar items in a dataset.
@@ -1288,8 +1260,7 @@ cases.
 * [Mojo](https://pycoders.com/link/10782/mkivfelsav) - is a new programming language, which is a superset of Python. It aims to fix Python’s performance and deployment problems.
 * [Can Postgres do that](https://pycoders.com/link/10754/mkivfelsav) - The answer is often yes. Just Postgres can do a lot. Not a “Postgres” compatible imitation, actual Postgres. Want a provider that can assist you?
 * [Introducing Hidet: A Deep Learning Compiler for Efficient Model Serving](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=4c8106e91c&e=501d687f26) - Hidet is a powerful deep learning compiler that simplifies the process of implementing high-performing deep learning operators on modern accelerators (e.g., NVIDIA GPUs). With the new feature of
-
-torch.compile(...) in PyTorch 2.0, integrating a novel compiler into PyTorch is easier than ever - Hidet now can be used as a torch.compile(...) backend to accelerate PyTorch models, making it an  attractive option for PyTorch users who want to improve the inference performance of their models, especially for those who also need to implement extremely optimized custom operators.
+* torch.compile(...) in PyTorch 2.0, integrating a novel compiler into PyTorch is easier than ever - Hidet now can be used as a torch.compile(...) backend to accelerate PyTorch models, making it an  attractive option for PyTorch users who want to improve the inference performance of their models, especially for those who also need to implement extremely optimized custom operators.
 * [Elegantly Handle Environment Variables in Python with Pydantic](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=44b0221c2e&e=501d687f26) - The article highlights how to use Pydantic library in Python to manage environment variables elegantly. It demonstrates how Pydantic simplifies the process of defining and validating environment variables, making the code more robust and maintainable.
 * [Introducing st.experimental_connection!](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=d879e6f205&e=501d687f26) - A recently released version 1.22.0 of the Streamlit core library has a cool new feature: st.experimental_connection. This feature lets you easily connect Streamlit apps to data sources and APIs in just 4 lines of code!
 * [How to have Python show warnings when running Django](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=11655dde65&e=501d687f26) - How to show warnings when running Python, and Django, during local development. The easy, yet not well known, way.
@@ -1310,13 +1281,12 @@ torch.compile(...) in PyTorch 2.0, integrating a novel compiler into PyTorch is 
 * [Automate Slack and Microsoft Teams Notifications using Python](https://pycoders.com/link/10755/mkivfelsav) - Integrating with the Slack and Microsoft APIs is fairly straightforward, implementing these tools as a part of a full-featured notification system that embeds with your app experience can be far more daunting. Make these tools a seamless part of how your app communicates with users.
 * [How to Implement Screen Navigation in Your Kivy App](https://pycoders.com/link/10767/mkivfelsav) - A  step-by-step guide to implement Screen Navigation in a Kivy app. How to go from an App idea, into Screen design to full implementation. The guide also touches topics related to structuring the codebase. Plus some
  tips and tricks.
-
-py c [habr.com/ru/company/ru_mts/blog/667568/](https://habr.com/ru/company/ru_mts/blog/667568/)
+* py c [habr.com/ru/company/ru_mts/blog/667568/](https://habr.com/ru/company/ru_mts/blog/667568/)
 * [Django security releases issued: 4.2.1, 4.1.9, and 3.2.19](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=2a69141082&e=501d687f26)**
 * [Программирование на Python с использованием шаблонов проектирования](https://vk.com/@skladchik-rss-1457843707-2044471979)
 
-
 ## 1-shot Q & A
+
 * [none in yaml - Google Search](https://www.google.com/search?q=none+in+yaml&client=firefox-b-d&sxsrf=AJOqlzUgT0eZKXxsSlbK09ry2pcQ893WSQ%3A1674089105335&ei=kZLIY5T0E86D9u8Pyc2j4AY&ved=0ahUKEwjUgMjzs9L8AhXOgf0HHcnmCGwQ4dUDCA4&uact=5&oq=none+in+yaml&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQkQIyBggAEAUQHjIJCAAQBRAeEPEEMgUIABCGAzIFCAAQhgMyBQgAEIYDMgUIABCGAzoKCAAQRxDWBBCwAzoGCAAQCBAeOgYIABAHEB46CAgAEAgQBxAeOgsIABAIEAcQHhDxBEoECEEYAEoECEYYAFDIA1jnCmDiDGgBcAF4AIABaIgBywOSAQM1LjGYAQCgAQHIAQjAAQE&sclient=gws-wiz-serp)
 * [python - How to copy a class? - Stack Overflow](https://stackoverflow.com/questions/9541025/how-to-copy-a-class)
 * [How can I install a local version of my package with poetry? non setup.py file · Discussion #1135 · python-poetry/poetry](https://github.com/python-poetry/poetry/discussions/1135#discussioncomment-145756)
@@ -1344,17 +1314,13 @@ py c [habr.com/ru/company/ru_mts/blog/667568/](https://habr.com/ru/company/ru_mt
 * [How to Split a Python List or Iterable Into Chunks – Real Python](https://realpython.com/how-to-split-a-python-list-into-chunks/)
 * [Vim keybinds in the Python REPL (and other readline programs) : vim](https://www.reddit.com/r/vim/comments/dcrf5f/vim_keybinds_in_the_python_repl_and_other/)
 * [How can I connect Python services to centralized logging with Kibana & Elasticsearch on my K8s cluster? - Research - IQSER Wiki](https://wiki.iqser.com/pages/viewpage.action?pageId=155616635)
-
-love='ILoveFinxter';print('n'.join([''.join([(love[(x-y)%len(love)] if ((x*0.05)2+(y*0.1)2-1)3-(x*0.05)2*(y*0.1)**3<=0 else' ') for x in range(-30,30 )]) for y in range(15, -15, -1)]))
+* love='ILoveFinxter';print('n'.join([''.join([(love[(x-y)%len(love)] if ((x*0.05)2+(y*0.1)2-1)3-(x*0.05)2*(y*0.1)**3<=0 else' ') for x in range(-30,30 )]) for y in range(15, -15, -1)]))
 * [python-poetry.org/docs/faq/](https://python-poetry.org/docs/faq/)
 * [poetry/_index.md at master · python-poetry/poetry](https://github.com/python-poetry/poetry/blob/master/docs/_index.md)
 * [how are the poetry docs made? - Google Search](https://www.google.com/search?client=firefox-b-d&q=how+are+the+poetry+docs+made%3F)
-
-Does Python leave its VM when calling C code?
+* Does Python leave its VM when calling C code?
 * [stackoverflow.com/questions/31875/is-there-a-simple-elegant-way-to-define-singletons](https://stackoverflow.com/questions/31875/is-there-a-simple-elegant-way-to-define-singletons)
 * [r/learnpython/comments/4k7dfy/browser_based_gui_in_python_3/](https://www.reddit.com/r/learnpython/comments/4k7dfy/browser_based_gui_in_python_3/)
-
-
 * [Building LLM applications for production](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=05128edc13&e=501d687f26)**
 * [Mandala: Python programs that save, query and version themselves](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=51dd9bdc42&e=501d687f26)**
 * [How to Use Pandas With Pandera to Validate Your Data in Python](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=5a6f2a40da&e=501d687f26)**
@@ -1383,11 +1349,9 @@ Does Python leave its VM when calling C code?
 * [Wolverine](https://pycoders.com/link/10681/mkivfelsav) is a Python tool that responds to script crashes by using ChatGPT to look for solutions. This brief article describes the process and links to a video demo. With the corresponding
 * [Slashdot Discussion](https://pycoders.com/link/10677/mkivfelsav)
 * [Pandas 2.0 vs Pandas 1: Performance Comparison](https://pycoders.com/link/10680/mkivfelsav)
-
-Pandas 2.0 was recently released with the new pyarrow backend. In the article, we did a quick performance comparison between the new pyarrow backend in 2.0 with the standard in Pandas 1. The results were expected, a big speedup in terms of String processing and null value handling, but slower with numeric processing and aggregations.
+* Pandas 2.0 was recently released with the new pyarrow backend. In the article, we did a quick performance comparison between the new pyarrow backend in 2.0 with the standard in Pandas 1. The results were expected, a big speedup in terms of String processing and null value handling, but slower with numeric processing and aggregations.
 * [Build AI-powered Internal Tools 10x Faster with Python & Superblocks](https://pycoders.com/link/10650/mkivfelsav)
-
-With Superblocks, create AI-powered internal apps connecting libraries like Plotly, Numpy, & more, spin up REST endpoints w/ Workflows, & use Scheduled Jobs to create & deploy Cron Jobs. Join our webinar, “Build AI-powered internal tools 10x faster w/ Python & Superblocks,” 5/3 @1pm.
+* With Superblocks, create AI-powered internal apps connecting libraries like Plotly, Numpy, & more, spin up REST endpoints w/ Workflows, & use Scheduled Jobs to create & deploy Cron Jobs. Join our webinar, “Build AI-powered internal tools 10x faster w/ Python & Superblocks,” 5/3 @1pm.
 * [Automate Processes and Distribute Tools With RPA and RCC](https://pycoders.com/link/10678/mkivfelsav) Are you exploring automation of your repetitive business tasks with Python? How are you going to share your helpful tools with co-workers? This week on the show, Sampo Ahokas from Robocorp is here to discuss robotic process automation (RPA) and distribution of these robots.
 * [PEP 695 “Type Parameter Syntax” Accepted](https://pycoders.com/link/10684/mkivfelsav)
 * [EU’s Proposed CRA Consequences for Python Ecosystem](https://pycoders.com/link/10679/mkivfelsav)
@@ -1401,16 +1365,13 @@ With Superblocks, create AI-powered internal apps connecting libraries like Plot
 * [PyDPainter: Pixel Art Paint Program in Python](https://pycoders.com/link/10671/mkivfelsav)
 * [Manipulating ZIP Files With Python](https://pycoders.com/link/10665/mkivfelsav)
 * [Executing Python Scripts With a Shebang](https://pycoders.com/link/10656/mkivfelsav)
-
-In this tutorial, you’ll learn when and how to use the shebang line in your Python scripts to execute them from a Unix-like shell. Along the way, you’ll run custom scripts written in your domain-specific language interpreted by Python.
+* In this tutorial, you’ll learn when and how to use the shebang line in your Python scripts to execute them from a Unix-like shell. Along the way, you’ll run custom scripts written in your domain-specific language interpreted by Python.
 * [REAL PYTHON](https://pycoders.com/link/10656/mkivfelsav)
 * [Build Developer-First Automations with Retool Workflows](https://pycoders.com/link/10651/mkivfelsav)
-
-Retool Workflows gives you a code-first way to power automations across your entire data stack. Connect to any database or API, customize logic with JavaScript, Python, or natural language with GPT-4, and transform one-off scripts into
+* Retool Workflows gives you a code-first way to power automations across your entire data stack. Connect to any database or API, customize logic with JavaScript, Python, or natural language with GPT-4, and transform one-off scripts into
 * [automated tasks––no extra infra required →](https://pycoders.com/link/10651/mkivfelsav)
 * [RETOOL](https://pycoders.com/link/10651/mkivfelsav)
-
-SPONSOR
+* SPONSOR
 * [Top 10 Django Third-Party Packages](https://pycoders.com/link/10666/mkivfelsav)
 * [PEP 711: Standard Format for Distributing Python Binaries](https://pycoders.com/link/10657/mkivfelsav)
 * [Descriptive Statistics in JavaScript, Python, SQL, R, and Excel](https://pycoders.com/link/10669/mkivfelsav) A series of comparisons on how to do common statistical methods in JavaScript, Python, SQL, R, and Excel. Includes mean, median, standard deviation, rank values, and more.
@@ -1423,146 +1384,111 @@ SPONSOR
 “Moving into a management role may be a rewarding step in your career, but you should know about the things you’re leaving behind.”
 * [KARL HUGHES](https://pycoders.com/link/10658/mkivfelsav)
 * [Unravelling `global`](https://pycoders.com/link/10664/mkivfelsav)
-
-Dive deep into
+* Dive deep into
 
 ```
-
-global
+* global
 
 ```
 
 , how it works, its relationship with
 
 ```
-
-builtins
+* builtins
 
 ```
-
-and the namespace differences in Python.
+* and the namespace differences in Python.
 * [BRETT CANNON](https://pycoders.com/link/10664/mkivfelsav)
 * [Building LLM applications for production](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=d436d10b4c&e=b5a8df9a4a)**
-
-This post discusses the challenges of productionizing large language model (LLM) applications. It covers topics such as prompt engineering, cost and latency, task composability, and promising use cases for LLMs. The post argues that LLMs can be powerful tools for a variety of tasks, but that they require careful engineering to be used effectively in production.
+* This post discusses the challenges of productionizing large language model (LLM) applications. It covers topics such as prompt engineering, cost and latency, task composability, and promising use cases for LLMs. The post argues that LLMs can be powerful tools for a variety of tasks, but that they require careful engineering to be used effectively in production.
 * [A Journey through Color Space with FFmpeg](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=fd16ac1627&e=b5a8df9a4a)**
-
-For those who want to understand color spaces, transform videos from one color space to another, or read how I almost went crazy working out why my Canva-generated videos looked slightly off, color-wise.
+* For those who want to understand color spaces, transform videos from one color space to another, or read how I almost went crazy working out why my Canva-generated videos looked slightly off, color-wise.
 * [WebGPU Fundamentals](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=fa95f2f13f&e=b5a8df9a4a)**
-
-WebGPU Fundamentals is a series of lessons that provides an introduction to the WebGPU API, a new standard for performing graphics and compute tasks on the web. The website covers the basics of WebGPU, including its architecture, programming model, and performance characteristics.
+* WebGPU Fundamentals is a series of lessons that provides an introduction to the WebGPU API, a new standard for performing graphics and compute tasks on the web. The website covers the basics of WebGPU, including its architecture, programming model, and performance characteristics.
 * [Load Balancing](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=6743d6838d&e=b5a8df9a4a)**
-
-In this post we're going to focus on the ways that a single load balancer might distribute HTTP requests to a set of servers. We'll start from the bottom and work our way up to modern load balancing algorithms.
+* In this post we're going to focus on the ways that a single load balancer might distribute HTTP requests to a set of servers. We'll start from the bottom and work our way up to modern load balancing algorithms.
 * [The Full Circle on Developer Productivity with Steve Yegge](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=25035e436d&e=b5a8df9a4a)**
-
-Where does Steve’s passion for developer tools come from? He talked through his career and learnings, and threw in a few stories that hadn’t been previously shared anywhere.
+* Where does Steve’s passion for developer tools come from? He talked through his career and learnings, and threw in a few stories that hadn’t been previously shared anywhere.
 * [Understanding Large Language Models](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=a70b00b219&e=b5a8df9a4a)**
-
-A Cross-Section of the Most Relevant Literature To Get Up to Speed.
+* A Cross-Section of the Most Relevant Literature To Get Up to Speed.
 * ["Scaling Laws" for AI And Some Implications](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=8649a0c412&e=b5a8df9a4a)**
 * how much bigger (and better) can LLMs get in the 2020's?
 * [Real-time Messaging](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=3ab687db13&e=b5a8df9a4a)**
-
-In this post we’ll describe the architecture that we use at Slack to send real-time messages at this scale. We’ll take a closer look at the services that send the chat messages and various events to these online users in real time. Our core services are written in Java: They are Channel Servers, Gateway Servers, Admin Servers, and Presence Servers.
+* In this post we’ll describe the architecture that we use at Slack to send real-time messages at this scale. We’ll take a closer look at the services that send the chat messages and various events to these online users in real time. Our core services are written in Java: They are Channel Servers, Gateway Servers, Admin Servers, and Presence Servers.
 * [How RocksDB works](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=b49189bd5f&e=b5a8df9a4a)**
-
-The article explains the fundamental concepts and mechanisms behind RocksDB, a high-performance embedded key-value store. It covers topics such as data structures, memory management, compaction, and concurrency control.
+* The article explains the fundamental concepts and mechanisms behind RocksDB, a high-performance embedded key-value store. It covers topics such as data structures, memory management, compaction, and concurrency control.
 * [A New Approach to Computation Reimagines Artificial Intelligence](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=f43999a976&e=b5a8df9a4a)**
-
-By imbuing enormous vectors with semantic meaning, we can get machines to reason more abstractly — and efficiently — than before.
+* By imbuing enormous vectors with semantic meaning, we can get machines to reason more abstractly — and efficiently — than before.
 * [An example of LLM prompting for programming](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=2fee818421&e=b5a8df9a4a)**
-
-Xu Hao uses chain of thought and general knowledge prompting with ChatGPT when writing self-testing code.
-
-Watch and Listen
+* Xu Hao uses chain of thought and general knowledge prompting with ChatGPT when writing self-testing code.
+* Watch and Listen
 * [ChatGPT Course – Use The OpenAI API to Code 5 Projects](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=e331df05ac&e=b5a8df9a4a)**
-
-Learn how to use the OpenAI API to create five projects, including a ChatGPT clone, a DALL-E Image Creator, and a SQL Generator. This is a dive deep into the world of the OpenAI API, exploring its diverse capabilities and potential applications.
+* Learn how to use the OpenAI API to create five projects, including a ChatGPT clone, a DALL-E Image Creator, and a SQL Generator. This is a dive deep into the world of the OpenAI API, exploring its diverse capabilities and potential applications.
 * [Automate Screenshots with GitHub Actions](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=a8378782d3&e=b5a8df9a4a)**
-
-Take screenshots on a cron schedule and display them in an Astro app with Playwright and GitHub Actions. We'll walk through writing an automated script to take screenshots of a website, upload images to Cloudinary, display them in an Astro app, and automate the whole thing with GitHub Actions cron scheduling.
-
-Interesting Projects, Tools and Libraries
+* Take screenshots on a cron schedule and display them in an Astro app with Playwright and GitHub Actions. We'll walk through writing an automated script to take screenshots of a website, upload images to Cloudinary, display them in an Astro app, and automate the whole thing with GitHub Actions cron scheduling.
+* Interesting Projects, Tools and Libraries
 * [AgentGPT](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=70ea7f7c0d&e=b5a8df9a4a)**
-
-Assemble, configure, and deploy autonomous AI Agents in your browser.
+* Assemble, configure, and deploy autonomous AI Agents in your browser.
 * [dbdev](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=d9e312fc47&e=b5a8df9a4a)**
-
-Database Package Registry for Postgres.
+* Database Package Registry for Postgres.
 * [ai-brainstore](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=4b5a57c3d3&e=b5a8df9a4a)**
-
-A proof-of-concept of a brain for an AI agent.
+* A proof-of-concept of a brain for an AI agent.
 * [Electra](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=321bb76d9b&e=b5a8df9a4a)**
-
-Electra is an esolang where you code like an electrician.
+* Electra is an esolang where you code like an electrician.
 * [Hermes](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=b01709669b&e=b5a8df9a4a)**
-
-Extremely Fast Full-Text-Search and Caching Algorithm.
+* Extremely Fast Full-Text-Search and Caching Algorithm.
 * [Fleek](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=134cac5fbe&e=b5a8df9a4a)**
-
-Fleek is an all-in-one management system for everything you need to be productive on your computer.
+* Fleek is an all-in-one management system for everything you need to be productive on your computer.
 * [GuardLlama](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=edac3b3cb8&e=b5a8df9a4a)**
-
-The Ultimate Open-Source VPN, Ad-blocker and DNS resolver.
+* The Ultimate Open-Source VPN, Ad-blocker and DNS resolver.
 * [supavisor](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=c65d4c8831&e=b5a8df9a4a)**
-
-A cloud-native, multi-tenant Postgres connection pooler.
+* A cloud-native, multi-tenant Postgres connection pooler.
 * [kv.js](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=6f19916250&e=b5a8df9a4a)**
-
-Advanced in-memory caching module for JavaScript. For when Redis or Memcached would be an overkill.
+* Advanced in-memory caching module for JavaScript. For when Redis or Memcached would be an overkill.
 * [Python 3.12 Preview: Ever Better Error Messages](https://pycoders.com/link/10627/mkivfelsav)
-
-Python 3.12 will be released in October 2023. In this tutorial, you’ll preview one of its upcoming features: even more precise error messages that’ll help you debug your code more efficiently.
+* Python 3.12 will be released in October 2023. In this tutorial, you’ll preview one of its upcoming features: even more precise error messages that’ll help you debug your code more efficiently.
 * [REAL PYTHON](https://pycoders.com/link/10627/mkivfelsav)
 * [All of Your Data, from Python or Any Other Application, in Real-Time](https://pycoders.com/link/10609/mkivfelsav)
-
-SPONSOR
+* SPONSOR
 * [PEP 684: “A Per-Interpreter GIL” Accepted](https://pycoders.com/link/10634/mkivfelsav)
 * [PYTHON.ORG](https://pycoders.com/link/10634/mkivfelsav)
 * [More Python Jobs >>>](https://www.pythonjobshq.com/)
 
-
 ## Articles & Tutorials
+
 * [Syntactic Sugar](https://pycoders.com/link/10648/mkivfelsav)
 
 “In computer science, syntactic sugar is syntax within a programming language that is designed to make things easier to read or to express. It makes the language ‘sweeter’ for human use: things can be expressed more clearly, more concisely, or in an alternative style that some may prefer.”
 * [BRETT CANNON](https://pycoders.com/link/10648/mkivfelsav)
 * [The New Notification Stack for Python Developers](https://pycoders.com/link/10608/mkivfelsav)
-
-SPONSOR
+* SPONSOR
 * [Algebraic Data Types in (Typed) Python](https://pycoders.com/link/10633/mkivfelsav)
 
 “Algebraic Data Types (not to be confused with abstract data types) can transform certain types of invalid states from runtime errors into type-checking errors, making them an excellent method for representing data and managing state.”
 * [TIN TVRTKOVIĆ](https://pycoders.com/link/10633/mkivfelsav)
 * [Groovy Datasets for Test Databases](https://pycoders.com/link/10626/mkivfelsav)
-
-When you experiment with a new-to-you data science skill, you need some sort of data to work with. Why be boring? This article talks about several available data sets you can use when you practice your coding skills.
+* When you experiment with a new-to-you data science skill, you need some sort of data to work with. Why be boring? This article talks about several available data sets you can use when you practice your coding skills.
 * [ESTHER SCHINDLER](https://pycoders.com/link/10626/mkivfelsav)
 * [FawltyDeps: A Dependency Checker for Your Python](https://pycoders.com/link/10649/mkivfelsav)
 * [FawltyDeps](https://pycoders.com/link/10614/mkivfelsav)
-
-is a new tool to help you identify undeclared and unused dependencies in your Python code, making your projects leaner and more reproducible.
+* is a new tool to help you identify undeclared and unused dependencies in your Python code, making your projects leaner and more reproducible.
 * [HERLAND, EL MAWASS, KNORPS, & REUTER](https://pycoders.com/link/10649/mkivfelsav)
 * [From Hell to HTML: Working With Wikimedia Dumps](https://pycoders.com/link/10624/mkivfelsav)
-
-This article describe the journey of
+* This article describe the journey of
 * [mwparserfromhtml](https://pycoders.com/link/10641/mkivfelsav)
 
 , a tool for dealing with the XML data dumps from Wikimedia.
 * [JOHNSON AND NAZIA TASNIM](https://pycoders.com/link/10624/mkivfelsav)
-
-SPONSOR
+* SPONSOR
 * [An Education Platform With ChatGPT and Django](https://pycoders.com/link/10621/mkivfelsav)
-
-This tutorial shows how to build an intelligent educational platform using OpenAI’s GPT-3 and Django.
+* This tutorial shows how to build an intelligent educational platform using OpenAI’s GPT-3 and Django.
 * [TESTDRIVEN.IO](https://pycoders.com/link/10621/mkivfelsav)
 
 • Shared by
 * [Michael Herman](https://pycoders.com/link/10620/mkivfelsav)
 
-
 ## Projects & Code
+
 * [Brought to you by Real Python for Teams](https://pycoders.com/link/10644/mkivfelsav)
 * [shedskin: Restricted-Python-to-C++ Compiler](https://pycoders.com/link/10625/mkivfelsav)
 * [langchain: Building Apps With LLMs Through Composability](https://pycoders.com/link/10616/mkivfelsav)
@@ -1601,8 +1527,8 @@ This tutorial shows how to build an intelligent educational platform using OpenA
 * [pylint-dev/pylint](https://github.com/pylint-dev/pylint)
 * [mathspp.com/blog/module-pathlib-overview](https://mathspp.com/blog/module-pathlib-overview)
 
-
 ## Packaging and Testing in Python
+
 * [Package docker-pyinstaller](https://github.com/white-gecko/docker-pyinstaller/pkgs/container/docker-pyinstaller)
 * [python - Can i use Docker for creating exe using pyinstaller - Stack Overflow](https://stackoverflow.com/questions/40177368/can-i-use-docker-for-creating-exe-using-pyinstaller)
 * [Packaging PyQt6 applications for Windows, with PyInstaller & InstallForge](https://www.pythonguis.com/tutorials/packaging-pyqt6-applications-windows-pyinstaller/)
@@ -1612,9 +1538,7 @@ This tutorial shows how to build an intelligent educational platform using OpenA
 * [Wine on Docker - Lei Mao's Log Book](https://leimao.github.io/blog/Docker-Wine/)
 * [Running Wine within Docker - Ales Nosek - The Software Practitioner](https://alesnosek.com/blog/2015/07/04/running-wine-within-docker/)
 
-
 ## Reading
-
 
 * [Python Tkinter GUI Design Using ttkbootstrap - Complete Course](https://www.youtube.com/watch?v=0tM-l_ZsxjU)
 * [Python Web Conf 2023 Talks + Tutorials](https://www.youtube.com/playlist?list=PLt4L3V8wVnF4GJb8dekLGTNx44FNIFwdv)

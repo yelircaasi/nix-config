@@ -1,70 +1,70 @@
 [x] .android
-     * [x] .azure
-     * [x] .cache
-     * [x] .cargo
-     * [x] .conda
-     * [x] .config
-     * [x] .docker
-     * [x] .docker-mnt
-     * [x] .EpsonPrinterUtility
-     * [x] .gnome
-     * [x] .gnupg
-     * [x] .gphoto
-     * [x] .gradle
-     * [x] .gsutil
-     * [x] .icons
-     * [x] .ipython
-     * [x] .java
-     * [x] .jupyter
-     * [x] .keras
-     * [x] .local
-     * [x] .m2
-     * [ ] .mozilla
-     * [ ] .nix-defexpr
-     * [ ] .nix-profile
-     * [x] .npm
-     * [x] .nv
-     * [ ] .nvm
-     * [ ] .pki
-     * [x] .prodigy
-     * [x] .pyenv
-     * [x] .rustup
-     * [x] .screenlayout
-     * [x] .shiv
-     * [ ] .shutter
-     * [ ] .ssh
-     * [x] .thumbnails
-     * [x] .undo-nvim
-     * [ ] .var
-     * [x] .vim_backups
-     * [x] .vscode
-     * [x] .vscode-cli
-     * [ ] dockerfiles
-     * [ ] snap
-     * [x] .bash_history
-     * [x] .bash_logout
-     * [x] .bashrc
-     * [x] .condarc
-     * [x] .dmrc
-     * [x] .git-credentials
-     * [x] .gitconfig
-     * [x] .gtk-bookmarks
-     * [x] .gtkrc-2.0
-     * [x] .lesshst
-     * [x] .nix-channels
-     * [x] .profile
-     * [x] .python-version
-     * [x] .python_history
-     * [x] .sudo_as_admin_successful
-     * [x] .viminfo
-     * [x] .wegorc
-     * [x] .wget-hsts
-     * [x] .Xauthority
-     * [x] .xinitrc
-     * [x] .xonshrc
-     * [x] .Xresources
-     * [x] .xsession-errors
-     * [x] .xsession-errors.old
-     * [x] .zcompdump
-     * [x] .zshenv
-     * [x] .zshrc
+* [x] .azure
+* [x] .cache
+* [x] .cargo
+* [x] .conda
+* [x] .config
+* [x] .docker
+* [x] .docker-mnt
+* [x] .EpsonPrinterUtility
+* [x] .gnome
+* [x] .gnupg
+* [x] .gphoto
+* [x] .gradle
+* [x] .gsutil
+* [x] .icons
+* [x] .ipython
+* [x] .java
+* [x] .jupyter
+* [x] .keras
+* [x] .local
+* [x] .m2
+* [ ] .mozilla
+* [ ] .nix-defexpr
+* [ ] .nix-profile
+* [x] .npm
+* [x] .nv
+* [ ] .nvm
+* [ ] .pki
+* [x] .prodigy
+* [x] .pyenv
+* [x] .rustup
+* [x] .screenlayout
+* [x] .shiv
+* [ ] .shutter
+* [ ] .ssh
+* [x] .thumbnails
+* [x] .undo-nvim
+* [ ] .var
+* [x] .vim_backups
+* [x] .vscode
+* [x] .vscode-cli
+* [ ] dockerfiles
+* [ ] snap
+* [x] .bash_history
+* [x] .bash_logout
+* [x] .bashrc
+* [x] .condarc
+* [x] .dmrc
+* [x] .git-credentials
+* [x] .gitconfig
+* [x] .gtk-bookmarks
+* [x] .gtkrc-2.0
+* [x] .lesshst
+* [x] .nix-channels
+* [x] .profile
+* [x] .python-version
+* [x] .python_history
+* [x] .sudo_as_admin_successful
+* [x] .viminfo
+* [x] .wegorc
+* [x] .wget-hsts
+* [x] .Xauthority
+* [x] .xinitrc
+* [x] .xonshrc
+* [x] .Xresources
+* [x] .xsession-errors
+* [x] .xsession-errors.old
+* [x] .zcompdump
+* [x] .zshenv
+* [x] .zshrc

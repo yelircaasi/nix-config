@@ -1,57 +1,57 @@
 # Math Resources
+
 ## SORT
-ref  * [tutorial.math.lamar.edu/](https://tutorial.math.lamar.edu/)
-ref $$$ * [Archives – BetterExplained](https://betterexplained.com/archives/)
-ref * [About the OSCAR project](https://oscar.computeralgebra.de/about/)
-ref * [Approach0: A Math-aware Search Engine](https://approach0.xyz/search/)
-ref * [ChronoMath](http://serge.mehl.free.fr/)
-ref * [CultureMath | Site de ressources scientifiques pour les enseignants de mathématiques](http://culturemath.ens.fr/)
-ref * [Example Problems](http://www.exampleproblems.com/wiki/index.php/Main_Page)
-ref * [Excellent Collection of Math Resources](https://docs.google.com/presentation/d/1XritG55j7mHQ04YINuAvOsKaSGHfsCh0fa3Z8ywoH-I/mobilepresent?slide=id.g1b1742bb1078a317_3)
-ref * [Glossary of Mathematical Terms - The Story of Mathematics](http://www.storyofmathematics.com/glossary.html)
-ref * [Les-mathematiques.net](http://www.les-mathematiques.net/phorum/)
-ref * [List of mathematical symbols - Wikipedia](https://en.m.wikipedia.org/wiki/List_of_mathematical_symbols)
-ref * [List of mathematical symbols by subject - Wikipedia](https://en.m.wikipedia.org/wiki/List_of_mathematical_symbols_by_subject)
-ref * [Math City](https://www.mathcity.org/)
-ref * [Mathematical symbols (+,-,x,�,%,√,=,∞,...) - RapidTables.com](https://www.rapidtables.com/math/symbols/)
-ref * [Statistics and Probability](https://stattrek.com/)
-ref * [Tungsteno | Online Mathematics for Everybody](https://www.tungsteno.io/)
-ref * [Tungsteno · GitHub](https://github.com/TungstenHub)
-ref * [eMathZone | From basic to higher mathematics](https://www.emathzone.com/)
-ref * [mathematik.net - Kostenlose Onlinekurse (Algebra,Analysis,Trigonometrie,Lineare Algebra, Schulbücher)](http://www.mathematik.net/)
-ref * [samos.univ-paris1.fr/](http://samos.univ-paris1.fr/)
-ref * [spacemath.xyz/](http://spacemath.xyz/)
-ref * [stattrek.com/](http://stattrek.com/)
-ref * [tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx](https://tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx)
-ref - [*IMAGINARY | open mathematics](https://imaginary.org/de)
-ref C.I * [Statsoft (FR) ***](http://www.statsoft.fr/concepts-statistiques/index/concepts-index.html)
-ref cheatsheet - [**Statistics cheatsheet — Cheatsheets by QuantEcon documentation](https://cheatsheets.quantecon.org/stats-cheatsheet.html)
-ref symbol * [Unicode Characters in the 'Symbol, Math' Category](https://www.fileformat.info/info/unicode/category/Sm/list.htm)
+
+* [tutorial.math.lamar.edu/](https://tutorial.math.lamar.edu/)
+[$$$ * [Archives – BetterExplained](https://betterexplained.com/archives/)
+* [About the OSCAR project](https://oscar.computeralgebra.de/about/)
+* [Approach0: A Math-aware Search Engine](https://approach0.xyz/search/)
+* [ChronoMath](http://serge.mehl.free.fr/)
+* [CultureMath | Site de ressources scientifiques pour les enseignants de mathématiques](http://culturemath.ens.fr/)
+* [Example Problems](http://www.exampleproblems.com/wiki/index.php/Main_Page)
+* [Excellent Collection of Math Resources](https://docs.google.com/presentation/d/1XritG55j7mHQ04YINuAvOsKaSGHfsCh0fa3Z8ywoH-I/mobilepresent?slide=id.g1b1742bb1078a317_3)
+* [Glossary of Mathematical Terms - The Story of Mathematics](http://www.storyofmathematics.com/glossary.html)
+* [Les-mathematiques.net](http://www.les-mathematiques.net/phorum/)
+* [List of mathematical symbols - Wikipedia](https://en.m.wikipedia.org/wiki/List_of_mathematical_symbols)
+* [List of mathematical symbols by subject - Wikipedia](https://en.m.wikipedia.org/wiki/List_of_mathematical_symbols_by_subject)
+* [Math City](https://www.mathcity.org/)
+* [Mathematical symbols (+,-,x,�,%,√,=,∞,...) - RapidTables.com](https://www.rapidtables.com/math/symbols/)
+* [Statistics and Probability](https://stattrek.com/)
+* [Tungsteno | Online Mathematics for Everybody](https://www.tungsteno.io/)
+* [Tungsteno · GitHub](https://github.com/TungstenHub)
+* [eMathZone | From basic to higher mathematics](https://www.emathzone.com/)
+* [mathematik.net - Kostenlose Onlinekurse (Algebra,Analysis,Trigonometrie,Lineare Algebra, Schulbücher)
+* [samos.univ-paris1.fr/](http://samos.univ-paris1.fr/)
+* [spacemath.xyz/](http://spacemath.xyz/)
+* [stattrek.com/](http://stattrek.com/)
+* [tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx](https://tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx)
+[- *IMAGINARY | open mathematics](https://imaginary.org/de)
+[C.I * [Statsoft (FR) ](http://www.statsoft.fr/concepts-statistiques/index/concepts-index.html)
+[cheatsheet - **Statistics cheatsheet — Cheatsheets by QuantEcon documentation](https://cheatsheets.quantecon.org/stats-cheatsheet.html)
+[symbol * [Unicode Characters in the 'Symbol, Math' Category](https://www.fileformat.info/info/unicode/category/Sm/list.htm)
 ref* [ricerca.matfis.uniroma3.it//ntheory/web_italy.html](http://ricerca.matfis.uniroma3.it//ntheory/web_italy.html)
-refs  * [lernstats.de/php/](http://www.lernstats.de/php/)
-refs  * [aeaweb.org/journals/policies/data-availability-policy](https://www.aeaweb.org/journals/policies/data-availability-policy)
-refs * [CRAN R-Project](https://cran.r-project.org/other-docs.html)
-refs * [Econometrics Academy](https://sites.google.com/site/econometricsacademy/)
-refs * [Research Methods Knowledge Base](http://www.socialresearchmethods.net/kb/contents.php)
-refs * [Resource Index | Linear Algebra | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/)
-refs * [Statista](https://de.statista.com/)
-refs * [The Definitive Glossary of Higher Math Jargon | Math Vault](https://mathvault.ca/math-glossary/)
-refs * [mathepedia.de/Mathematik.aspx](http://www.mathepedia.de/Mathematik.aspx)
-refs * [xycoon.com/toc.htm](http://www.xycoon.com/toc.htm)
-refs * [de.serlo.org/mathe/stochastik](https://de.serlo.org/mathe/stochastik)
-refs * [sites.google.com/site/econometricsacademy/](https://sites.google.com/site/econometricsacademy/)
-refs * [r-bloggers.com/](https://www.r-bloggers.com/)
-refs orgs * [nLab](https://ncatlab.org/nlab/show/HomePage)
-
-software * [SageMath - Open-Source Mathematical Software System](https://www.sagemath.org/)
-software * [nalgebra.org/](https://nalgebra.org/)
-perso * [Christian Hansen’s Research Page](http://faculty.chicagobooth.edu/christian.hansen/research/)
-perso * [Daan Krammer (math)](http://homepages.warwick.ac.uk/~masbal/)
-perso * [Dr. Hesse](https://www.uni-stuttgart.de/presse/experten/Prof.-Dr.-Christian-Hesse/)
-person * [Darij Grinberg](http://www.cip.ifi.lmu.de/~grinberg/)
-person* [Baudot (Site)](http://www.jybaudot.fr/index.html)
+* [lernstats.de/php/](http://www.lernstats.de/php/)
+[ * [aeaweb.org/journals/policies/data-availability-policy](https://www.aeaweb.org/journals/policies/data-availability-policy)
+* [CRAN R-Project](https://cran.r-project.org/other-docs.html)
+* [Econometrics Academy](https://sites.google.com/site/econometricsacademy/)
+* [Research Methods Knowledge Base](http://www.socialresearchmethods.net/kb/contents.php)
+* [Resource Index | Linear Algebra | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/)
+* [Statista](https://de.statista.com/)
+* [The Definitive Glossary of Higher Math Jargon | Math Vault](https://mathvault.ca/math-glossary/)
+* [mathepedia.de/Mathematik.aspx](http://www.mathepedia.de/Mathematik.aspx)
+* [xycoon.com/toc.htm](http://www.xycoon.com/toc.htm)
+* [de.serlo.org/mathe/stochastik](https://de.serlo.org/mathe/stochastik)
+* [sites.google.com/site/econometricsacademy/](https://sites.google.com/site/econometricsacademy/)
+* [r-bloggers.com/](https://www.r-bloggers.com/)
+[orgs * [nLab](https://ncatlab.org/nlab/show/HomePage)
+* software * [SageMath - Open-Source Mathematical Software System](https://www.sagemath.org/)
+* {software} [nalgebra.org/](https://nalgebra.org/)
+* {perso} [Christian Hansen’s Research Page](http://faculty.chicagobooth.edu/christian.hansen/research/)
+* {perso} [Daan Krammer (math)
+* {perso} [Dr. Hesse](https://www.uni-stuttgart.de/presse/experten/Prof.-Dr.-Christian-Hesse/)
+* {person} [Darij Grinberg](http://www.cip.ifi.lmu.de/~grinberg/)
+person* [Baudot (Site)
 person* [Bilim Ne Güzel Lan](http://bilimneguzellan.net/)
-
 * [math.stackexchange.com/tags](https://math.stackexchange.com/tags)
 * [cantorsparadise.com/archive](https://www.cantorsparadise.com/archive)
 * [math3ma.com/](https://www.math3ma.com/)
@@ -67,43 +67,48 @@ person* [Bilim Ne Güzel Lan](http://bilimneguzellan.net/)
 * [apprendre-en-ligne.net/MADIMU2/MUSCU/MUSCU6.PDF](http://www.apprendre-en-ligne.net/MADIMU2/MUSCU/MUSCU6.PDF)
 * [pbs.org/wgbh/misunderstoodminds/mathbasics.html](http://www.pbs.org/wgbh/misunderstoodminds/mathbasics.html)
 * [fabpedigree.com/james/mathmen.htm](http://fabpedigree.com/james/mathmen.htm)
-* [Wikistat (FR) ***](http://www.math.univ-toulouse.fr/~besse/Wikistat/)
-- [*Mathigon](https://mathigon.org/)
-- [*Mathigon Activities](https://mathigon.org/activities)
-- [*Page d'Alain Prouté](http://www.logique.jussieu.fr/~alp/)
-
+* [Wikistat (FR) ](http://www.math.univ-toulouse.fr/~besse/Wikistat/)
+* *Mathigon](https://mathigon.org/)
+* *Mathigon Activities](https://mathigon.org/activities)
+* *Page d'Alain Prouté](http://www.logique.jussieu.fr/~alp/)
 * [wiki.zum.de/wiki/PH_Heidelberg](https://wiki.zum.de/wiki/PH_Heidelberg)
 * [Michael Eisermann - Enseignement](https://pnp.mathematik.uni-stuttgart.de/igt/eiserm/enseignement/)
 * [Michael Eisermann - Popularisation](https://pnp.mathematik.uni-stuttgart.de/igt/eiserm/popularisation/#SciencePub)
-media * [Cantor's Paradise](https://cantorsparadise.substack.com/)
-media * [Ciencia Matemática | Portal Educativo de Matemáticas](https://www.cienciamatematica.com/)
-media * [ICERM - MathBytes@ICERM - MathBytes@ICERM](https://icerm.brown.edu/mathbytes/)
-media * [The Intrepid Mathematician – Reading, writing and arithmetic.](https://anthonybonato.com/page/1/)
-media * [numerus.corriere.it/](http://numerus.corriere.it/)
-media * [web.stanford.edu/~nanbhas/blog/](https://web.stanford.edu/~nanbhas/blog/)
-media * [privatdozent.co/](https://www.privatdozent.co/)
+* {media} [Cantor's Paradise](https://cantorsparadise.substack.com/)
+* {media} [Ciencia Matemática | Portal Educativo de Matemáticas](https://www.cienciamatematica.com/)
+* {media} [ICERM - MathBytes@ICERM - MathBytes@ICERM](https://icerm.brown.edu/mathbytes/)
+* {media} [The Intrepid Mathematician – Reading, writing and arithmetic.](https://anthonybonato.com/page/1/)
+* {media} [numerus.corriere.it/](http://numerus.corriere.it/)
+* {media} [web.stanford.edu/~nanbhas/blog/](https://web.stanford.edu/~nanbhas/blog/)
+* {media} [privatdozent.co/](https://www.privatdozent.co/)
 media* [Cantor’s Paradise – Medium](https://medium.com/cantors-paradise)
 
 ## People
+
 Clara Löh
 
 ## Publications
+
 ### Stats
-- [**Квантиль](http://quantile.ru/eng/) - econometric journal in Russian
+
+* **Квантиль](http://quantile.ru/eng/) - econometric journal in Russian
 
 ### General Math Blogs
+
 * [Agustinus Kristiadi's Blog](https://wiseodd.github.io/)
 
 ## Meta
+
 * [How to Learn Advanced Mathematics Without Heading to University - Part 1 | QuantStart](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1)
 * [How to Learn Advanced Mathematics Without Heading to University - Part 2 | QuantStart](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-2)
 * [How to Learn Advanced Mathematics Without Heading to University - Part 3 | QuantStart](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-3/)
-* [How to Learn Advanced Mathematics Without Heading to University - Part 4 | QuantStart](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Withttps://www.quantstart.com/articles/how-to-learn-advanced-mathematics-without-heading-to-university-part-4/hout-Heading-to-University-Part-3/)
+* [How to Learn Advanced Mathematics Without Heading to University - Part 4 | QuantStart](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Wit
+        [quantstart.com/articles/how-to-learn-advanced-mathematics-without-heading-to-university-part-4/hout-Heading-to-University-Part-3/)](https://www.quantstart.com/articles/how-to-learn-advanced-mathematics-without-heading-to-university-part-4/hout-Heading-to-University-Part-3/)
 * [What should a professional mathematician know?](http://www.math.harvard.edu/~mazur/preprints/math_ed_2.pdf)
 * [How I Rewired My Brain to Become Fluent in Math](https://getpocket.com/explore/item/how-i-rewired-my-brain-to-become-fluent-in-math)
 
-
 ## Vocab / Glossaries / References
+
 * [MIT OCW Notes](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06)
 * [Glossary](http://web.mit.edu/18.06/www/Essays/glossary.pdf)
 * [Linear Algebra Concise Glossary](http://www.math.kent.edu/~reichel/glossary.html)
@@ -116,7 +121,7 @@ Clara Löh
 * [Compact Cheat Sheet](https://math.berkeley.edu/~peyam/Math54Fa11/Cheat%20Sheets/Cheat%20Sheet%20(tiny%20font,%20no%20margins).pdf)
 * [Review Sheet](http://math.mercyhurst.edu/~lwilliams/math150/FinalExamReview.pdf)
 * [Cheat Sheet](http://www1.se.cuhk.edu.hk/~manchoso/1415/xidian/A-linalg.pdf)
-* [Cheat Sheet (Small)](http://math.mit.edu/icg/resources/teaching/18.085/linear-algebra.pdf)
+* [Cheat Sheet (Small)
 * [Lay Study Guide](https://fenix.tecnico.ulisboa.pt/downloadFile/566729524648703/linear_algebra_and_its_applications-3rd-lay-study_guide.pdf)
 * [Study Guide (Basic, Detailed)](https://www.amherst.edu/system/files/media/LinearStudyGuide2017.pdf)
 * [Study Guide with Problems](https://www.math.purdue.edu/~wilker/Math265F07/finalreview/265StudyGuide.pdf)
@@ -125,11 +130,13 @@ Clara Löh
 Videos / Courses
 
 ## Media, Blogs
+
 * [Statistical Modeling, Causal Inference, and Social Science](http://andrewgelman.com/)
 * [Stats Make Me Cry](http://www.statsmakemecry.com/smmctheblog/)
 * [Jeromy Anglim's Blog: Psychology and Statistics](http://jeromyanglim.blogspot.com/)
 
 ## Educational Sites
+
 * [Khan Academy](https://www.khanacademy.org/math/linear-algebra)
 * [Khan ES](https://es.khanacademy.org/math/linear-algebra)
 * [Khan FR](https://fr.khanacademy.org/math/linear-algebra)
@@ -138,6 +145,7 @@ Videos / Courses
 * [MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 
 ## Cheatsheets and Topic Maps
+
 * [Calculus Cheat Sheet (Reduced) - Notes](https://tutorial.math.lamar.edu/getfile.aspx?file=B%2C41%2CN)
 * [minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf](https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf)
 * [minireference.com/static/conceptmaps/linear_algebra_concepts.pdf](https://minireference.com/static/conceptmaps/linear_algebra_concepts.pdf)
@@ -147,11 +155,12 @@ Videos / Courses
 * [Probability Cheatsheet v2.0](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/144135201565)
 
 ## Tools
+
 * [symbolica.io/](https://symbolica.io/) - tool for symbol computing with Python, Rust, and C++ bindings
 
 ## General Sites
-* Allgemeine Seiten
 
+* Allgemeine Seiten
 * [betterexplained.com/](https://betterexplained.com/)
 * [math.utah.edu/~pa/math.html](http://www.math.utah.edu/~pa/math.html)
 * [villemin.gerard.free.fr/](http://villemin.gerard.free.fr/)
@@ -169,7 +178,7 @@ Videos / Courses
 * [mathinsight.org/](http://mathinsight.org/)
 * [mathforum.org/](http://mathforum.org/)
 * [dmi.units.it/~tironi/#matdid](http://www.dmi.units.it/~tironi/#matdid)
-* [Index (FR)](http://www.jybaudot.fr/a_general/indexmath.html)
+* [Index (FR)
 * [Mathrix (FR)](https://www.mathrix.fr/maths-fr/terminale-s)
 * [brilliant.org/](https://brilliant.org/)
 * [blogs.ams.org/blogonmathblogs/#sthash.f8x6LEiI.dpbs](http://blogs.ams.org/blogonmathblogs/#sthash.f8x6LEiI.dpbs)
@@ -202,6 +211,7 @@ Videos / Courses
 * [Personal Homepage of Oswald Riemenschneider](https://www.math.uni-hamburg.de/home/riemenschneider/)
 
 ### Statistics
+
 * [stattrek.com/probability-distributions/hypergeometric.aspx](http://stattrek.com/probability-distributions/hypergeometric.aspx)
 * [statlect.com/](https://www.statlect.com/)
 * [bobhall.tamu.edu/FiniteMath/Module8/Introduction.html](http://bobhall.tamu.edu/FiniteMath/Module8/Introduction.html)
@@ -225,14 +235,15 @@ Videos / Courses
 * [oestatistico.com.br/](http://oestatistico.com.br/)
 * [statpop.com.br/](http://www.statpop.com.br/)
 
-
 ## Cheatsheets
+
 * [observablehq.com/@petulla/explorable-linear-algebra-cheatsheet](https://observablehq.com/@petulla/explorable-linear-algebra-cheatsheet)
 * [ml-cheatsheet.readthedocs.io/en/latest/linear_algebra.html](https://ml-cheatsheet.readthedocs.io/en/latest/linear_algebra.html)
 
-
 ## Graphing
+
 ### Geogebra
+
 * [Tutorial:Introduction to GeoGebraScript - GeoGebra AccueilManuel](https://wiki.geogebra.org/en/Tutorial:Introduction_to_GeoGebraScript)
 * [GeoGebra](https://dev.geogebra.org/trac)
 * [Scripting - GeoGebra AccueilManuel](https://wiki.geogebra.org/en/Scripting)
@@ -244,9 +255,8 @@ Videos / Courses
 * [svn - Revision 67364: /trunk/geogebra](https://dev.geogebra.org/svn/trunk/geogebra/)
 * [3b1b styled Linear Transformation – GeoGebra](https://www.geogebra.org/m/ftFx2tfp)
 
-
-
 ## To Sort
+
 * [fabpedigree.com/james/mathmen.htm](http://fabpedigree.com/james/mathmen.htm)
 * [mathprofi.ru/](http://mathprofi.ru/)
 * [pages.uoregon.edu/moursund/Math/learning-theories.htm](http://pages.uoregon.edu/moursund/Math/learning-theories.htm)
@@ -259,7 +269,6 @@ Videos / Courses
 * [stevenstrogatz.com/](http://www.stevenstrogatz.com/)
 * [tagesspiegel.de/wissen/mathematik-mathematik-ist-eine-kulturleistung/1135714.html](http://www.tagesspiegel.de/wissen/mathematik-mathematik-ist-eine-kulturleistung/1135714.html)
 * [www7.math.uni-potsdam.de:8080/prof/o_didaktik/aa/zz01/ha2.pdf](http://www7.math.uni-potsdam.de:8080/prof/o_didaktik/aa/zz01/ha2.pdf)
-
 * [cantorsparadise.substack.com/](https://cantorsparadise.substack.com/)
 * [en.wikipedia.org/wiki/Lists_of_mathematics_topics](https://en.wikipedia.org/wiki/Lists_of_mathematics_topics)
 * [en.wikipedia.org/wiki/Wikipedia:WikiProject_Mathematics](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Mathematics)
@@ -333,5 +342,3 @@ Videos / Courses
 * [Publications en maths](https://www.apmep.fr/IMG/pdf/)
 * [simuleios/eigentest.py at master · leios/simuleios](https://github.com/leios/simuleios/blob/master/visualization/eigentest/eigentest.py)
 * [The ‘Useless’ Perspective That Transformed Mathematics](https://www.quantamagazine.org/the-useless-perspective-that-transformed-mathematics-20200609/)
-* Reading (4)
-

@@ -1,6 +1,6 @@
 # CS Roadmap
 
-1. First Year in Code (0-22,A,B,C)
+* 1. First Year in Code (0-22,A,B,C)
 2. Betriebssysteme (zweisprachig) (1-10)
 3. The Linux Command Line (1-36)
 4. Learn Vim Tonight (1-18)

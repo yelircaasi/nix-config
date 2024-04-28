@@ -1,170 +1,98 @@
 # Math Notes
 
 ## SORT
-notes * [Algebraic Structures](https://docs.google.com/spreadsheets/d/1RU8z6sIVkcinPuUW3Im6C2fMvHrU-mgwCOiowgSBQLM/edit?usp=sharing)
-notes LA * [matrices - Integrating a matrix - Mathematics Stack Exchange](https://math.stackexchange.com/questions/450560/integrating-a-matrix)
+
+* {notes} [Algebraic Structures](https://docs.google.com/spreadsheets/d/1RU8z6sIVkcinPuUW3Im6C2fMvHrU-mgwCOiowgSBQLM/edit?usp=sharing)
+* {notes LA} [matrices - Integrating a matrix - Mathematics Stack Exchange](https://math.stackexchange.com/questions/450560/integrating-a-matrix)
 notes LA - [*linear algebra - Determinant of transpose? - Mathematics Stack Exchange](https://math.stackexchange.com/questions/598258/determinant-of-transpose/636198#636198)
 notes LA - [*linear algebra - What is the geometric interpretation of the transpose? - Mathematics Stack Exchange](https://math.stackexchange.com/questions/37398/what-is-the-geometric-interpretation-of-the-transpose)
 notes LEARN HOW TO WRITE BROWSER APPLETS FOR MATH VISUALIZATIONS!
 notes Proposals for improved math education - more engaging, more immediately (and eventually) relevant for everyday life, more "mathematical" (set theory, abstract algebra) → state of current discourse and research
-proof * [Archive of Proofs](https://www.isa-afp.org/)
-proof * [Category:Proofs by Topic - ProofWiki](https://proofwiki.org/wiki/Category:Proofs_by_Topic)
-proof * [Proof of the Law of Cosines - Math Open Reference](https://www.mathopenref.com/lawofcosinesproof.html)
-proof * [proof of Euler's Theorem in complex numbers](https://math.stackexchange.com/questions/1936296/proof-of-eulers-theorem-in-complex-numbers/1936327)
-proof * [math.hu-berlin.de/~fsr/studium/Beweise_Vorlesung.pdf](http://www.math.hu-berlin.de/~fsr/studium/Beweise_Vorlesung.pdf)
-proof * [mathematik.de/ger/information/landkarte/stichpunkte/beweis.html](http://www.mathematik.de/ger/information/landkarte/stichpunkte/beweis.html)
-proof * [proofwiki.org/wiki/Equivalence_of_Definitions_of_Complex_Number](https://proofwiki.org/wiki/Equivalence_of_Definitions_of_Complex_Number)
+* {proof} [Archive of Proofs](https://www.isa-afp.org/)
+* {proof} [Category:Proofs by Topic - ProofWiki](https://proofwiki.org/wiki/Category:Proofs_by_Topic)
+* {proof} [Proof of the Law of Cosines - Math Open Reference](https://www.mathopenref.com/lawofcosinesproof.html)
+* {proof} [proof of Euler's Theorem in complex numbers](https://math.stackexchange.com/questions/1936296/proof-of-eulers-theorem-in-complex-numbers/1936327)
+* {proof} [math.hu-berlin.de/~fsr/studium/Beweise_Vorlesung.pdf](http://www.math.hu-berlin.de/~fsr/studium/Beweise_Vorlesung.pdf)
+* {proof} [mathematik.de/ger/information/landkarte/stichpunkte/beweis.html](http://www.mathematik.de/ger/information/landkarte/stichpunkte/beweis.html)
+* {proof} [proofwiki.org/wiki/Equivalence_of_Definitions_of_Complex_Number](https://proofwiki.org/wiki/Equivalence_of_Definitions_of_Complex_Number)
 proof - [*E0 201 : Proofs and Measurs, Fall 2015](https://ece.iisc.ac.in/~parimal/2015/proofs.html)
-
-
-power laws
-
-e^(pi*i)
+* power laws
+* e^(pi*i)
 pi as infinite product
 Taylor Series
-
-A norm |.| is non-Archimedian if |x+y| <= max( |x|, |y| ). Example: p-adic numbers.
+* A norm |.| is non-Archimedian if |x+y| <= max( |x|, |y| ). Example: p-adic numbers.
 Calculus at a Fifth Grade Level
 e (Euler's Number) is seriously everywhere | The strange times it shows up and why it's so important
 Envelope Theorem
 Newton’s “Principia”
-
-Great question from Sandra: Why do I love mathematics? What makes it so interesting?
-
-Bézier curves
-
-→ clear proof of Law of Cosines
-
-→ proof of formula for angle between two vectors
-
-→ proof of triangle inequality
-
-→ eigendecomposition to SVD
-
-→ proof of vector projection formula
-
-
-Idea: matrix graph: network of matrix types
-
-→ Variations on graph theory, e.g. graph where n>1 nodes are connected by an edge
-
-Create E-book: Selected Proofs with Detailed Explanation
-
-Introduction: → Assumed prerequisite background knowledge
-
-book This book's approach is to work backwards, motivating with advanced results, then gradually building up to them.
-
-book The reason for creating this is that work in any field of mathematics (or neighboring fields) builds upon a core of key results. In my experience, most of the difficulties faced in mathematics are due to weaknesses or gaps in prerequisite background knowledge. Econometrics was extremely hard for me, not because the material itself was impossibly challenging, but because I lacked the necessary understanding of linear algebra and statistics. Starting out in NLP was hard because I wanted to understand advanced advanced results despite lacking an understanding of their mathematical foundations. It was only when I finally decided to start from the beginning that it finally began to click and I was able to really enjoy it. | This book is for people whose minds work like mine, who:
-
-insist on using their intuition to "grok" mathematical concepts, but who also want to pair their intuition with mathematical rigor
-
-find that, in addition to the precision and unambiguity of symbolic proof, stating or sumarizing a proof in natural human language can be quite helpful
-
-find that math is easier when you have a solid grasp of some key ideas upon which to build
-
-appreciate detailed, step-by-step explanations and don't feel insulted or talked down to when explanations err on the side of throughness
-
-book This book mkes no claims to completeness. Some inclusions and omissions may feel arbitrary. Maybe they are.
-
-Sections:
-
-Philosophy of Mathematics
-
-Logic
-
-Abstract Algebra
-
-Geometry
-
-Trigonometry
-
-Number Theory
-
-Linear Algebra
-
-Calculus and Real Analysis
-
-Multivariable Calculus
-
-Differential Equations
-
-Combinatorics
-
-Probability Theory
-
-Statistics
-
-Measure Theory
-
-Topology
-
-Digital Mathematics
-
-Algorithms
-
-Graph Theory
-
-Complex Analysis
-
-Fourier Analysis
-
-Category Theory
-
-Selected Applications:
-
-Physics
-
-Cryptography
+* Great question from Sandra: Why do I love mathematics? What makes it so interesting?
+* Bézier curves
+* → clear proof of Law of Cosines
+* → proof of formula for angle between two vectors
+* → proof of triangle inequality
+* → eigendecomposition to SVD
+* → proof of vector projection formula
+* Idea: matrix graph: network of matrix types
+* → Variations on graph theory, e.g. graph where n>1 nodes are connected by an edge
+* Create E-book: Selected Proofs with Detailed Explanation
+* Introduction: → Assumed prerequisite background knowledge
+* book This book's approach is to work backwards, motivating with advanced results, then gradually building up to them.
+* book The reason for creating this is that work in any field of mathematics (or neighboring fields) builds upon a core of key results. In my experience, most of the difficulties faced in mathematics are due to weaknesses or gaps in prerequisite background knowledge. Econometrics was extremely hard for me, not because the material itself was impossibly challenging, but because I lacked the necessary understanding of linear algebra and statistics. Starting out in NLP was hard because I wanted to understand advanced advanced results despite lacking an understanding of their mathematical foundations. It was only when I finally decided to start from the beginning that it finally began to click and I was able to really enjoy it. | This book is for people whose minds work like mine, who:
+* insist on using their intuition to "grok" mathematical concepts, but who also want to pair their intuition with mathematical rigor
+* find that, in addition to the precision and unambiguity of symbolic proof, stating or sumarizing a proof in natural human language can be quite helpful
+* find that math is easier when you have a solid grasp of some key ideas upon which to build
+* appreciate detailed, step-by-step explanations and don't feel insulted or talked down to when explanations err on the side of throughness
+* book This book mkes no claims to completeness. Some inclusions and omissions may feel arbitrary. Maybe they are.
+* Sections:
+* Philosophy of Mathematics
+* Logic
+* Abstract Algebra
+* Geometry
+* Trigonometry
+* Number Theory
+* Linear Algebra
+* Calculus and Real Analysis
+* Multivariable Calculus
+* Differential Equations
+* Combinatorics
+* Probability Theory
+* Statistics
+* Measure Theory
+* Topology
+* Digital Mathematics
+* Algorithms
+* Graph Theory
+* Complex Analysis
+* Fourier Analysis
+* Category Theory
+* Selected Applications:
+* Physics
+* Cryptography
 
 ^ Proofs to master:
-
-Cauchy-Schwarz Inequality
-
-Triangle Inequality
-
-Vector Projection Formula
-
-Constructive Derivation of Generalized Determinant
-
-Constructive Derivation of Matrix Multiplication
-
-Law of Cosines
-
-Pythagorean Theorem
-
-Taylor Series (generalized)
-
-Derivated Laws (Power, Quotient, Product, Exponent, Logarithm)
-
-Jordan Normal Form
-
-SVD
-
-LU
-
-QR
-
-For each proof:
-
-why it's important
-
-where it's used
-
-necessary background and preliminary vocab (references to read, minimal in-text explanations and definitions)
-
-proofs it builds on
-
-proofs that build on it
-
-formal proof
-
-verbal proof sketch
-
-notes on the proof, helpful intuition
-
-references
-
-
+* Cauchy-Schwarz Inequality
+* Triangle Inequality
+* Vector Projection Formula
+* Constructive Derivation of Generalized Determinant
+* Constructive Derivation of Matrix Multiplication
+* Law of Cosines
+* Pythagorean Theorem
+* Taylor Series (generalized)
+* Derivated Laws (Power, Quotient, Product, Exponent, Logarithm)
+* Jordan Normal Form
+* SVD
+* LU
+* QR
+* For each proof:
+* why it's important
+* where it's used
+* necessary background and preliminary vocab (references to read, minimal in-text explanations and definitions)
+* proofs it builds on
+* proofs that build on it
+* formal proof
+* verbal proof sketch
+* notes on the proof, helpful intuition
+* references
 
 | OLS |  |  |
 | --- | --- | --- |
@@ -284,10 +212,9 @@ references
 |  |  |  |
 * Econometrics Notes
 
-
 ## Roadmaps Notes
 
-Wikipedia page "Mathematics"
+* Wikipedia page "Mathematics"
 grundsätzliche Rechenarten kennen (Arithmetik)
 Überblick verschaffen
 einfache Beispielprobleme aus der Geometrie
@@ -317,15 +244,15 @@ Kategorietheorie
 
 ## Miscellaneous
 
-Voici un petit théorème sympa : il n’existe aucun complexe z ∈ C* tel que z et e^z soient simultanément dans Q(i)={a + bi, (a, b) ∈ Q^2}.
-
-Dummy proof of CRT: Use the relative primeness of the n_i, together with Corrollary 2.5 (au+bv=1) to create a number for each n_i that is divisible by all other n but has a remainder of 1 when divided by n_i. Then multiply that by the desired remainder. Add together the results for each divisor-remainder pair, snf that number is the desired result and is unique modulo N (where N = n_1 * n_2 * n_3 * ... * nn_k).
+* Voici un petit théorème sympa : il n’existe aucun complexe z ∈ C* tel que z et e^z soient simultanément dans Q(i)={a + bi, (a, b) ∈ Q^2}.
+* Dummy proof of CRT: Use the relative primeness of the n_i, together with Corrollary 2.5 (au+bv=1) to create a number for each n_i that is divisible by all other n but has a remainder of 1 when divided by n_i. Then multiply that by the desired remainder. Add together the results for each divisor-remainder pair, snf that number is the desired result and is unique modulo N (where N = n_1 * n_2 * n_3 * ... * nn_k).
 
 ## Conchoids
+
 point-line-ruler problem (conchoids)
 largest and flattest area of contour (surface? better term? → like land)
-book * [A Collection of Examples of the Applications of the Differential and ... - George Peacock - Google Книги](https://books.google.de/books?id=2f43AAAAMAAJ&pg=PA163&lpg=PA163&dq=applications+of+conchoids&source=bl&ots=8n69X6VyAv&sig=ACfU3U3MAvwYQZnMlD5gCiQwI_edL5Iaew&hl=ru&sa=X&ved=2ahUKEwj-7I_HppzoAhUMIMUKHY8mCo4Q6AEwCXoECAkQAQ#v=onepage&q=applications%20of%20conchoids&f=false)
-book * [THE DERIVATION AND APPLICATIONS OF THE CONCHOID OF NICOMEDES AND THE CISSOID OF DIOCLES - Roeser - 1914 - School Science and Mathematics - Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1949-8594.1914.tb17589.x)
+* {book} [A Collection of Examples of the Applications of the Differential and ... - George Peacock - Google Книги](https://books.google.de/books?id=2f43AAAAMAAJ&pg=PA163&lpg=PA163&dq=applications+of+conchoids&source=bl&ots=8n69X6VyAv&sig=ACfU3U3MAvwYQZnMlD5gCiQwI_edL5Iaew&hl=ru&sa=X&ved=2ahUKEwj-7I_HppzoAhUMIMUKHY8mCo4Q6AEwCXoECAkQAQ#v=onepage&q=applications%20of%20conchoids&f=false)
+* {book} [THE DERIVATION AND APPLICATIONS OF THE CONCHOID OF NICOMEDES AND THE CISSOID OF DIOCLES - Roeser - 1914 - School Science and Mathematics - Wiley Online Library](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1949-8594.1914.tb17589.x)
 * [Rational Conchoids of Algebraic Curves](https://arxiv.org/pdf/0901.4652.pdf)
 * [An Algebraic Analysis of Conchoids to Algebraic Curves](https://arxiv.org/pdf/0705.4590.pdf)
 * [Conchoid of de Sluze - Wikipedia](https://en.wikipedia.org/wiki/Conchoid_of_de_Sluze)
@@ -341,12 +268,9 @@ How can I describe mathematically everything under the hod in an ANN?
 * [Beginner Guide to Math of NN](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf)
 * [Wikipedia Backprop](https://en.wikipedia.org/wiki/Backpropagation#Finding_the_derivative_of_the_error)
 * [Backprop - deriv of softmax](https://math.stackexchange.com/questions/945871/derivative-of-softmax-loss-function)
-
 * [Great overview](http://home.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html)
-
-How can I create my own NN in Tensorflow?
-
-What is the general algorithm for computing the eigendecomposition?
+* How can I create my own NN in Tensorflow?
+* What is the general algorithm for computing the eigendecomposition?
 What is the general algorithm for computing the Q-R decompostion?
 What is the general algorithm for computing the LU decomposition?
 General:
@@ -354,131 +278,89 @@ General:
 * [Another good example](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
 * [Good NB](https://github.com/dennybritz/nn-from-scratch/blob/master/nn-from-scratch.ipynb)
 * [Mario NN Code](https://pastebin.com/ZZmSNaHX)
-
 * [~Same Blog](https://medium.com/deep-math-machine-learning-ai)
 * [Vector/Matrix/Tensor Derivatives](http://cs231n.stanford.edu/vecDerivs.pdf)
 * [es.wikipedia.org/wiki/Matem%C3%A1ticas](https://es.wikipedia.org/wiki/Matem%C3%A1ticas)
 
 ```python
-
-import numpy as np
-
-import matplotlib.pyplot as plt
-
-def softmax(A):
-
-expA = np.exp(A)
-
-return expA / expA.sum(axis=1, keepdims=True)
-
-def sigmoid(x):
-
-return 1 / (1 + np.exp(-x))
-
-def softmax(A):
-
-expA = np.exp(A)
-
-return expA / expA.sum(axis=1, keepdims=True)
-
-np.random.seed(1)
-
+* import numpy as np
+* import matplotlib.pyplot as plt
+* def softmax(A):
+* expA = np.exp(A)
+* return expA / expA.sum(axis=1, keepdims=True)
+* def sigmoid(x):
+* return 1 / (1 + np.exp(-x))
+* def softmax(A):
+* expA = np.exp(A)
+* return expA / expA.sum(axis=1, keepdims=True)
+* np.random.seed(1)
 
 # generate three Gaussian clouds each holding 500 points
 
-X1 = np.random.randn(500, 2) + np.array([0, -2])
-
-X2 = np.random.randn(500, 2) + np.array([2, 2])
-
-X3 = np.random.randn(500, 2) + np.array([-2, 2])
-
+* X1 = np.random.randn(500, 2) + np.array([0, -2])
+* X2 = np.random.randn(500, 2) + np.array([2, 2])
+* X3 = np.random.randn(500, 2) + np.array([-2, 2])
 
 # put them all in a big matrix
 
-X = np.vstack([X1, X2, X3])
-
+* X = np.vstack([X1, X2, X3])
 
 # generate the one-hot-encodings
 
-labels = np.array([0]*500 + [1]*500 + [2]*500)
-
-T = np.zeros((1500, 3))
-
-for i in range(1500):
-
-T[i, labels[i]] = 1
-
+* labels = np.array([0]*500 + [1]*500 + [2]*500)
+* T = np.zeros((1500, 3))
+* for i in range(1500):
+* T[i, labels[i]] = 1
 
 # visualize the data
 
-plt.scatter(X[:,0], X[:,1], c=labels, s=100, alpha=0.5)
-
-plt.show()
-
-samples = X.shape[0] # 1500 samples
-
-features = X.shape[1] # 2 features
-
-hidden_nodes = 5
-
-classes = 3
-
+* plt.scatter(X[:,0], X[:,1], c=labels, s=100, alpha=0.5)
+* plt.show()
+* samples = X.shape[0] # 1500 samples
+* features = X.shape[1] # 2 features
+* hidden_nodes = 5
+* classes = 3
 
 # randomly initialize weights
 
-W1 = np.random.randn(features, hidden_nodes)
-
-b1 = np.random.randn(hidden_nodes)
-
-W2 = np.random.randn(hidden_nodes, classes)
-
-b2 = np.random.randn(classes)
-
-alpha = 10e-6
-
-costs = []
-
-for epoch in range(10000):
+* W1 = np.random.randn(features, hidden_nodes)
+* b1 = np.random.randn(hidden_nodes)
+* W2 = np.random.randn(hidden_nodes, classes)
+* b2 = np.random.randn(classes)
+* alpha = 10e-6
+* costs = []
+* for epoch in range(10000):
 # forward pass
 
-A = sigmoid(X.dot(W1) + b1) # A = sigma(Z)
-
-Y = softmax(A.dot(W2) + b2) # Y = softmax(Z2)
-
+* A = sigmoid(X.dot(W1) + b1) # A = sigma(Z)
+* Y = softmax(A.dot(W2) + b2) # Y = softmax(Z2)
 
 # backward pass
 
-delta2 = Y - T
-
-delta1 = (delta2).dot(W2.T) * A * (1 - A)
-
-W2 -= alpha * A.T.dot(delta2)
-
-b2 -= alpha * (delta2).sum(axis=0)
-
-W1 -= alpha * X.T.dot(delta1)
-
-b1 -= alpha * (delta1).sum(axis=0)
-
+* delta2 = Y - T
+* delta1 = (delta2).dot(W2.T) * A * (1 - A)
+* W2 -= alpha * A.T.dot(delta2)
+* b2 -= alpha * (delta2).sum(axis=0)
+* W1 -= alpha * X.T.dot(delta1)
+* b1 -= alpha * (delta1).sum(axis=0)
 
 # save loss function values across training iterations
 
-if epoch % 100 == 0:
+* if epoch % 100 == 0:
 loss = np.sum(-T * np.log(Y))
 print('Loss function value: ', loss)
 costs.append(loss)
-
-plt.plot(costs)
-
-plt.show()
+* plt.plot(costs)
+* plt.show()
 ```
 
 ## Matrix Types
+
+```txt
 * [Template:Matrix classes - Wikipedia](https://en.wikipedia.org/wiki/Template:Matrix_classes)
 * [Matrix Mathematics](https://drive.google.com/file/d/1-NJvYoUxIpsh7b10Qri9KkZ13sOwQYG3/view?usp=sharing)
 * [List of named matrices - Wikipedia](https://en.wikipedia.org/wiki/List_of_named_matrices)
-
-* [Matrix Types]()
+* [Matrix Types](...)
 |  |  |  |  | Square? | Symmetric? | Cross-symmetric? | Triangular? | Diagonal? | Block-Diagonal? | Constraint on all entries? | Normalized? | Orthogonal? | Band? | Identity Qualifies? |  |  |  | Applications | Prerequisite Concepts |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [en.wikipedia.org/wiki/Logical_matrix](https://en.wikipedia.org/wiki/Logical_matrix) | A matrix with all elements either 0 or 1. | Synonym forbinary matrix or logical matrix. |  | * | * | * | * | * | * | ✓ | * | * | * | ✓ |  |  |  |  |  |
@@ -570,7 +452,9 @@ plt.show()
 | Circular matrixorConinvolutory matrix | A matrix whose inverse is equal to its entrywise complex conjugate:A−1=A. | Compare with unitary matrices. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [en.wikipedia.org/wiki/Matrix_congruence](https://en.wikipedia.org/wiki/Matrix_congruence) | Two matricesAandBare congruent if there exists an invertible matrixPsuch thatPTAP=B. | Compare with similar matrices. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [en.wikipedia.org/wiki/EP_matrix](https://en.wikipedia.org/wiki/EP_matrix) | [en.wikipedia.org/wiki/Moore%E2%80%93Penrose_inverse](https://en.wikipedia.org/wiki/Moore%E2%80%93Penrose_inverse) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Idempotent matrixorProjection Matrix | A matrix that has the propertyA² =AA=A. | [en.wikipedia.org/wiki/Projection_(linear_algebra)#Properties_and_classificationhttps://en.wikipedia.org/wiki/Projection_(linear_algebra)#Properties_and_classification](https://en.wikipedia.org/wiki/Projection_(linear_algebra)#Properties_and_classificationhttps://en.wikipedia.org/wiki/Projection_(linear_algebra)#Properties_and_classification) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Idempotent matrixorProjection Matrix | A matrix that has the propertyA² =AA=A. | [en.wikipedia.org/wiki/Projection_(linear_algebra)#Properties_and_classification
+        [en.wikipedia.org/wiki/Projection_(linear_algebra)#Properties_and_classification](https://en.wikipedia.org/wiki/Projection_(linear_algebra)#Properties_and_classification](https://en.wikipedia.org/wiki/Projection_(linear_algebra)#Properties_and_classification](https://en.wikipedia.org/wiki/Projection_(linear_algebra)#Properties_and_classification)
+        [en.wikipedia.org/wiki/Projection_(linear_algebra)#Properties_and_classification)](https://en.wikipedia.org/wiki/Projection_(linear_algebra)#Properties_and_classification)) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [en.wikipedia.org/wiki/Invertible_matrix](https://en.wikipedia.org/wiki/Invertible_matrix) | [en.wikipedia.org/wiki/Inverse_matrix](https://en.wikipedia.org/wiki/Inverse_matrix) | [en.wikipedia.org/wiki/General_linear_group](https://en.wikipedia.org/wiki/General_linear_group) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [en.wikipedia.org/wiki/Involutory_matrix](https://en.wikipedia.org/wiki/Involutory_matrix) | A square matrix which is its own inverse, i.e.,AA=I. | Signature matrices,Householder Matrices(Also known as 'reflection matrices'to reflect a point about a plane or line) have this property. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [en.wikipedia.org/wiki/Nilpotent_matrix](https://en.wikipedia.org/wiki/Nilpotent_matrix) | A square matrix satisfyingAq= 0 for some positive integerq. | Equivalently, the only eigenvalue ofAis 0. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -663,47 +547,38 @@ plt.show()
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+```
 
 ## Matrix Multiplication and Linear Transformations
+
 why does the -1 trick work?
 minus one trick linear algebra
 
 ### Micellaneous LA Notes
-General intuitive interpretation of A'A and AA'
 
-make Anki deck with mathematical formulae, e.g. prob distributions. And names translated in multiple languages
-
-sum of main diagonal values
-
-order = size of square matrix
-
-np.tril, np.triu, np.identity
-
-diagonal not necessarily square
-
-An orthogonal matrix is a square matrix whose rows are mutually orthonormal and whose columns are mutually orthonormal
-
-Multiplication by an orthogonal matrix preserves lengths.
-
-Q^T· Q = Q · Q^T = I
-
-A matrix is orthogonal if its transpose is equal to its inverse.
-
-The rank of a matrix is the estimate of the number of linearly independent rows or columns in a matrix.
+* General intuitive interpretation of A'A and AA'
+* make Anki deck with mathematical formulae, e.g. prob distributions. And names translated in multiple languages
+* sum of main diagonal values
+* order = size of square matrix
+* np.tril, np.triu, np.identity
+* diagonal not necessarily square
+* An orthogonal matrix is a square matrix whose rows are mutually orthonormal and whose columns are mutually orthonormal
+* Multiplication by an orthogonal matrix preserves lengths.
+* Q^T· Q = Q · Q^T = I
+* A matrix is orthogonal if its transpose is equal to its inverse.
+* The rank of a matrix is the estimate of the number of linearly independent rows or columns in a matrix.
 
 ### Intuition and Interpretation
+
 * [3B1B animation code](https://github.com/3b1b/manim)
 * [matrix 2d](https://github.com/3b1b/manim/blob/master/old_projects/matrix_as_transform_2d.py)
 * [engineersCode/EngComp4_landlinear: Using computational thinking to get deep insights on the foundations of linear algebra](https://github.com/engineersCode/EngComp4_landlinear)
 * [Exploring Linear Transformations with Python](https://notgnoshi.github.io/linear-transformations/)
 
-```
-
-F: [a, b \\ c, d]
-
-G: [e, f \\ g, h]
-
-G(F(x,y)) = G(ax+by, cx+dy)
+```tex
+* F: [a, b \\ c, d]
+* G: [e, f \\ g, h]
+* G(F(x,y)) = G(ax+by, cx+dy)
 
 = e(ax+by) + f(cx+dy), g(ax+by) + h(cx+dy)
 
@@ -711,50 +586,43 @@ G(F(x,y)) = G(ax+by, cx+dy)
 * [ea+fc, eb+fd \\ ga+hc, gb+hd]
 
 ```
-Matrix multiplication as the composition of linear transformations
-* [Visualizing Linear Transformations – GeoGebra](https://www.geogebra.org/m/YCZa8TAH)
 
+* Matrix multiplication as the composition of linear transformations
+* [Visualizing Linear Transformations – GeoGebra](https://www.geogebra.org/m/YCZa8TAH)
 * [mathinsight.org/determinant_linear_transformation](https://mathinsight.org/determinant_linear_transformation)
-x
-I agree, it should start here. It's a simple idea and formal in a simple way. Maybe this sounds weird but I think students often really like formality when it's simple since it lets you just calculate stuff. T(2v1+v2) = T(2v1)+T(v2) = 2T(v1)+T(v2). This is very systematic/practical and easy to explain.
+* I agree, it should start here. It's a simple idea and formal in a simple way. Maybe this sounds weird but I think students often really like formality when it's simple since it lets you just calculate stuff. T(2v1+v2) = T(2v1)+T(v2) = 2T(v1)+T(v2). This is very systematic/practical and easy to explain.
 * [Interactive Matrix Visualization](https://shad.io/MatVis/)
 * [linear algebra: motivation for matrix multiplication ? (Yahoo Answers)](https://answers.yahoo.com/question/index?qid=20081012135509AA1xtKz)
 * [matplotlib.transforms — Matplotlib 3.1.2 documentation](https://matplotlib.org/3.1.1/api/transformations.html)
 * [[question] Visualizing a 3D transform? : computergraphics](https://www.reddit.com/r/computergraphics/comments/35ue6l/question_visualizing_a_3d_transform/)
-- [Search · 3d linear transformation](https://github.com/search?q=3d+linear+transformation)**
+* [Search · 3d linear transformation](https://github.com/search?q=3d+linear+transformation)**
 * [02. Visualizing 2D linear transformations](https://dododas.github.io/linear-algebra-with-python/posts/16-12-29-2d-transformations.html)
-
 * [fragen.letsrockmathe.de/](https://fragen.letsrockmathe.de/)
 * [codingthematrix.com/python_and_inverse_index_labs.pdf](http://codingthematrix.com/python_and_inverse_index_labs.pdf)
 * [Videos: Coding the Matrix, Fall 2014](https://cs.brown.edu/video/channels/coding-matrix-fall-2014/)
-Prove that left multiplication by elementary matrices is equivalent to performing the corresponding elementary row operations.
-
-1) interchanging rows
-
-3) multiplying a row by a scalar
+* Prove that left multiplication by elementary matrices is equivalent to performing the corresponding elementary row operations.
+* 1) interchanging rows
+* 3) multiplying a row by a scalar
 * [math.utah.edu/~wortman/1050-text-2b2m.pdf](http://www.math.utah.edu/~wortman/1050-text-2b2m.pdf)
 * [linear algebra - why don't we define vector multiplication component-wise? - Mathematics Stack Exchange](https://math.stackexchange.com/questions/185888/why-dont-we-define-vector-multiplication-component-wise)
-- [*(best answer by Michael Hardy) matrices - Intuition behind Matrix Multiplication - Mathematics Stack Exchange](https://math.stackexchange.com/questions/31725/intuition-behind-matrix-multiplication)
-- [* Yahoo linear algebra: motivation for matrix multiplication ? | Yahoo Answers](https://answers.yahoo.com/question/index?qid=20081012135509AA1xtKz)
+* [*(best answer by Michael Hardy) matrices - Intuition behind Matrix Multiplication - Mathematics Stack Exchange](https://math.stackexchange.com/questions/31725/intuition-behind-matrix-multiplication)
+* [* Yahoo linear algebra: motivation for matrix multiplication ? | Yahoo Answers](https://answers.yahoo.com/question/index?qid=20081012135509AA1xtKz)
 * [Properties of Matrix Arithmetic](http://sites.millersville.edu/bikenaga/linear-algebra/matrix-properties/matrix-properties.html)
 * [linear algebra - Matrix multiplication: interpreting and understanding the process - Mathematics Stack Exchange](https://math.stackexchange.com/questions/24456/matrix-multiplication-interpreting-and-understanding-the-process/24469#24469)
 * [Matrix multiplication - Wikipedia](https://en.wikipedia.org/wiki/Matrix_multiplication)
 * [Matrix multiplication algorithm - Wikipedia](https://en.wikipedia.org/wiki/Matrix_multiplication_algorithm)
-- [*My attempted explanation of the intuition behind matrix multiplication. : math](https://www.reddit.com/r/math/comments/aqgt15/my_attempted_explanation_of_the_intuition_behind/)
-
+* [*My attempted explanation of the intuition behind matrix multiplication. : math](https://www.reddit.com/r/math/comments/aqgt15/my_attempted_explanation_of_the_intuition_behind/)
 * [Visualizing Linear Transformations in R3](https://www.radford.edu/~thompson/Fall10/434/Chapter3/Car/FW%20The%20Smart%20Car_files/LinearTransf3D.pdf)
 * [Visualizing linear transformations (article) | Khan Academy](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations)
 Derive matrix multiplication (general formula) from a set of desiderata, leaving no gaps. (No hand-waving!)
 Also, clearly articulate concerns with it and resolve those concerns.
 * [math.stackexchange.com/questions/1945329/can-you-transpose-a-matrix-using-matrix-multiplication](https://math.stackexchange.com/questions/1945329/can-you-transpose-a-matrix-using-matrix-multiplication)
-
 * [Visualizing linear transformations (article) | Khan Academy](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations/a/visualizing-linear-transformations)
 * [radford.edu/~thompson/Fall10/434/Chapter3/Car/FW](https://www.radford.edu/~thompson/Fall10/434/Chapter3/Car/FW) The Smart Car_files/LinearTransf3D.pdf
 * [Matrix Multiplication and Function Composition | Physics Forums](https://www.physicsforums.com/threads/matrix-multiplication-and-function-composition.700209/)
 * [linear.ups.edu/html/section-MM.html](http://linear.ups.edu/html/section-MM.html)
 * [Game Math: Alternate Views on Matrix Multiplication | Ming-Lun "Allen" Chou | 周明倫](http://allenchou.net/2014/02/game-math-alternate-views-on-matrix-multiplication/)
 * [Interpretation of matrix mutliplication XX^t and X^tX : askmath](https://www.reddit.com/r/askmath/comments/3lf5re/interpretation_of_matrix_mutliplication_xxt_and/)
-
 * [matrices - Intuition behind Matrix Multiplication - Mathematics Stack Exchange](https://math.stackexchange.com/questions/31725/intuition-behind-matrix-multiplication?noredirect=1&lq=1)
 * [Matrix multiplication - Wikipedia](https://en.wikipedia.org/wiki/Matrix_multiplication)
 * [linear algebra - Matrix multiplication: interpreting and understanding the process - Mathematics Stack Exchange](https://math.stackexchange.com/questions/24456/matrix-multiplication-interpreting-and-understanding-the-process/24469#24469)
@@ -776,7 +644,6 @@ When they understand this, then they will end up doing the equivalent of matrix 
 * [math.stackexchange.com/questions/438398/why-is-matrix-multiplication-defined-a-certain-way?noredirect=1&lq=1](https://math.stackexchange.com/questions/438398/why-is-matrix-multiplication-defined-a-certain-way?noredirect=1&lq=1)
 * [math.stackexchange.com/questions/1550010/why-is-the-matrix-multiplication-defined-as-it-is?noredirect=1&lq=1](https://math.stackexchange.com/questions/1550010/why-is-the-matrix-multiplication-defined-as-it-is?noredirect=1&lq=1)
 * [math.stackexchange.com/questions/31725/intuition-behind-matrix-multiplication](https://math.stackexchange.com/questions/31725/intuition-behind-matrix-multiplication)
-
 * [math.stackexchange.com/questions/271927/why-historically-do-we-multiply-matrices-as-we-do](https://math.stackexchange.com/questions/271927/why-historically-do-we-multiply-matrices-as-we-do)
 * [math.stackexchange.com/questions/396079/composition-of-systems-of-equations](https://math.stackexchange.com/questions/396079/composition-of-systems-of-equations)
 * [quora.com/topic/Matrix-Multiplication](https://www.quora.com/topic/Matrix-Multiplication)
@@ -811,29 +678,25 @@ When they understand this, then they will end up doing the equivalent of matrix 
 * [Reddit - 3Blue1Brown - Geometric interpretation of the Transpose of a matrix](https://www.reddit.com/r/3Blue1Brown/comments/80wjco/geometric_interpretation_of_the_transpose_of_a/)
 
 ### Determinant and Trace
-* [Geometric Interpretation of Matrix Transpose](https://www.quora.com/What-is-the-geometric-interpretation-of-the-transpose-of-a-matrix)
 
-Properties of a determinant: TODO
+* [Geometric Interpretation of Matrix Transpose](https://www.quora.com/What-is-the-geometric-interpretation-of-the-transpose-of-a-matrix)
+* Properties of a determinant: TODO
 * [best (constructive proof)](https://amatsukawa.github.io/determinant/)
 * [en.wikipedia.org/wiki/Leibniz_formula_for_determinants](https://en.wikipedia.org/wiki/Leibniz_formula_for_determinants)
 * [en.wikipedia.org/wiki/Determinant](https://en.wikipedia.org/wiki/Determinant)
 * [web.mit.edu/18.06/www/Spring17/Determinants.pdf](http://web.mit.edu/18.06/www/Spring17/Determinants.pdf)
 * [ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/properties-of-determinants/MIT18_06SCF11_Ses2.5sum.pdf](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/properties-of-determinants/MIT18_06SCF11_Ses2.5sum.pdf)
 * [encyclopediaofmath.org/index.php/Determinant](https://www.encyclopediaofmath.org/index.php/Determinant)
-
 * [phenomenal intro 1](http://www.math.ubc.ca/~anstee/math223/223determinants.pdf)
 * [phenomenal intro 2](https://www.cis.upenn.edu/~cis515/dets-ala-Artin.pdf)
 * [phenomenal intro 3](http://shannon.cm.nctu.edu.tw/la/la5s09.pdf)
-
 * [likely very good and deep](https://www-m10.ma.tum.de/foswiki/pub/Lehre/ProjektiveGeometrieWS0607/chap6.pdf)
 * [dig into deeper](https://amatsukawa.github.io/determinant/)
 * [www-users.math.umn.edu/~garrett/m/algebra/notes/26.pdf](http://www-users.math.umn.edu/~garrett/m/algebra/notes/26.pdf)
-
 * [old, but good](https://files.eric.ed.gov/fulltext/ED135631.pdf)
-* [geometric approach (basic, but good)](http://math.unt.edu/~tushar/project%20ideas/monthly%2096%20hannah%20geometric%20determinant.pdf)
+* [geometric approach (basic, but good)
 * [brief historical sketch](https://www-history.mcs.st-and.ac.uk/HistTopics/Matrices_and_determinants.html)
 * [possibly interesting](https://sheelganatra.com/spring2013_math113/notes/wedge_products.pdf)
-
 * [mitmath/1806/blob/master/summaries.md](https://github.com/mitmath/1806/blob/master/summaries.md)
 * [en.wikipedia.org/wiki/Determinant](https://en.wikipedia.org/wiki/Determinant)
 * [proofwiki.org/wiki/Determinant_of_Matrix_Product](https://proofwiki.org/wiki/Determinant_of_Matrix_Product)
@@ -847,12 +710,9 @@ Properties of a determinant: TODO
 * [proofs for determinant identities](http://users.math.cas.cz/~hrubes/PDFs/DetSIAM.pdf)
 * [Determinants and the volumes of parallelotopesand zonotopes](https://core.ac.uk/download/pdf/82756704.pd)
 * [Determinants Doud](https://math.byu.edu/~sag/teaching/m313F12/DoudDeterminants.pdf)
-
 * [proof wiki 1](https://proofwiki.org/wiki/Expansion_Theorem_for_Determinants)
 * [proof wiki 2](https://proofwiki.org/wiki/Category:Determinants)
-
 * [why is the definition of the determinant so weird?](https://math.stackexchange.com/questions/2013886/why-is-the-definition-of-the-determinant-so-weird)
-
 * [possibly good](https://www.toppr.com/guides/maths/determinants/properties-of-determinants/)
 * [Down with Determinants!](https://www.maa.org/sites/default/files/pdf/awards/Axler-Ford-1996.pdf)
 * [НОУ ИНТУИТ | Лекция | Определители и их свойства](https://www.intuit.ru/studies/courses/992/207/lecture/5341)
@@ -860,138 +720,115 @@ Properties of a determinant: TODO
 * [How to show that $\det(AB) =\det(A) \det(B)$?](https://math.stackexchange.com/questions/60284/how-to-show-that-detab-deta-detb)
 * [people.math.osu.edu/husen.1/teaching/571/2_2.pdf](https://people.math.osu.edu/husen.1/teaching/571/2_2.pdf)
 * [Is there a definition of determinants that does not rely on how they are calculated?](https://math.stackexchange.com/questions/21614/is-there-a-definition-of-determinants-that-does-not-rely-on-how-they-are-calcula)
-
-1) Function Rn --> R
-
-2) Switching two rows or columns changes the sign
-
-3) Multuplying a row by a constant changes the determinant by the same amount
-
-- -> The determinant is linear in each row
-
-4) The determinant of I is 1
+* 1) Function Rn --> R
+* 2) Switching two rows or columns changes the sign
+* 3) Multuplying a row by a constant changes the determinant by the same amount -> The determinant is linear in each row
+* 4) The determinant of I is 1
 
 ==> These imply a unique function that is the determinant
 
-Geometric representation: Unit cube of n dimensions, stretched at will
+* Geometric representation: Unit cube of n dimensions, stretched at will
+* Think of determinant as oriented volumne
+* Determinant is associative in multiplication: Det(AB)=Det(A)Det(B)
+* Important takeaway: determinants detect (by becoming 0) the linear dependence of n vectors in dimension n, and they are an expression in the coordinates of those vectors (rather than for instance an algorithm)
 
-Think of determinant as oriented volumne
+-> volume scaling factor of the linear transformation described by the matrix
+-> signed volume of the n-dimensional parallelopiped spanned by the column or row vectors of the matrix (easy to prove in the 2D parallelogram case)
 
-Determinant is associative in multiplication: Det(AB)=Det(A)Det(B)
+* General formula: sum(even elements of one vector * determinant of each one's respective minor)-sum(odd elements of one vector * determinant of each one's respective minor)
 
-Important takeaway: determinants detect (by becoming 0) the linear dependence of n vectors in dimension n, and they are an expression in the coordinates of those vectors (rather than for instance an algorithm)
+-> determines invertibility
+-> matrix is singular iff det=0
+-> used to define the characteristic polynomial of a matrix (whose roots are the eigenvalues)
+-> determinant of an orthogonal matrix is always +-1
+-> determinant of a complex Hermitian matrix is always real
+-> Jacobian determinants used in calculus in change of variable
 
-- > volume scaling factor of the linear transformation described by the matrix
-- > signed volume of the n-dimensional parallelopiped spanned by the column or row vectors of the matrix (easy to prove in the 2D parallelogram case)
-
-General formula: sum(even elements of one vector * determinant of each one's respective minor)-sum(odd elements of one vector * determinant of each one's respective minor)
-
-- > determines invertibility
-- > matrix is singular iff det=0
-- > used to define the characteristic polynomial of a matrix (whose roots are the eigenvalues)
-- > determinant of an orthogonal matrix is always +-1
-- > determinant of a complex Hermitian matrix is always real
-- > Jacobian determinants used in calculus in change of variable
-
-the determinant is the product of all the eigenvalues of the matrix.
+* the determinant is the product of all the eigenvalues of the matrix.
 
 #### Trace
+
 * [en.wikipedia.org/wiki/Trace_(linear_algebra)](https://en.wikipedia.org/wiki/Trace_(linear_algebra)?wprov=sfti1)
 
 ### SVD
-* SVD Steps
 
-Process:
+* SVD Steps
+* Process:
 
 1. Given A, compute A'A and AA'.
 2. Compute eigenvalues (sorted in descending order) and corresponding normalized eigenvector matrix for AA'.
 3. S is the diagonal matrix whose values are the square roots of the sorted eigenvalues.
 4. Compute U = AVS^-1
 5. A = USV'
+
 * Sanderson and Strang Playlists
 
 ### Inverse
+
 Matrices: déterminer l'inverse d'une matrice 3x3 par méthode de Gauss (méthode 1)de ENJOY STUDYING
+
 * [Generalized Inverses of Partitioned Matrices Useful in Statistical Applications](https://core.ac.uk/download/pdf/82491713.pdf)
 * [math.chalmers.se/~rootzen/highdimensional/blockmatrixinverse.pdf](http://www.math.chalmers.se/~rootzen/highdimensional/blockmatrixinverse.pdf)
 * [math.stackexchange.com/questions/1377634/inverse-of-partitioned-matrices](https://math.stackexchange.com/questions/1377634/inverse-of-partitioned-matrices)
 * [Inverses of 2 × 2 Block Matrices](http://msvlab.hre.ntou.edu.tw/grades/now/inte/Inverse%20&%20Border/border-LuTT.pdf)
-Partitioned matrix inverse
+* Partitioned matrix inverse
 * [MIT Linear Algebra, Lecture 3: Matrix Multiplication and Inverse Matrices](https://catonmat.net/mit-linear-algebra-part-three)
 
-
 ## Other Writing Notes
+
+```txt
 Introduction
 Note to reader: This book was originally written for myself. I wrote it to solidify my understanding of mathematics, and the approach I developed came from a few key ideas:
 1) Most of my difficulties with mathematics came from gaps in my understanding of fairly basic concepts.
 2) Proofs are the best way to understand mathematics. This is because a good proof shows exactly why something is true.
 3) Really understanding a proof means being able to paraphrase it in words, and explain each step.
-
-Set Theory
-
-Logic
-
-Geometry and Basic Trigonometry
+* Set Theory
+* Logic
+* Geometry and Basic Trigonometry
 Sum of Interior Angles of a Triangle
 Sum of Interior Angles of an n-gon
 Thales' Theorem
 Pythagorean Theorem
 sin^2+cos^2=1
 Law of Cosines
-
-Number Theory
+* Number Theory
 Prime Factorization for Every Integer
 Chinese Remainder Theorem
 Euclid's Algorithm
-
-Linear Algebra
-
-Matrix Multiplication as Linear Transformation
+* Linear Algebra
+* Matrix Multiplication as Linear Transformation
 Invariance of Dot Product w.r.t. Linear Transformation
 Projection of a Vector onto a Vector
 Angle between Vectors
 Core Properties o the Determinant
 2D Determinant as Area of Transformation of Unit Square
-
-Real Analysis
-
-Miscellaneous
-
-Differential and Integral Calculus
+* Real Analysis
+* Miscellaneous
+* Differential and Integral Calculus
 Fundamental Theorem of Calculus
 Green-Stokes-Gauss-Ostogradski theorem
-
-Derivative Formula
+* Derivative Formula
 Power Rule
 Product Rule
 Quotient Rule
 Exponent Rule
 Logarithm Rule
-
-Integration by Parts
+* Integration by Parts
 Integration by Substitution
-
-Taylor Series
-
-Optimization Theory
+* Taylor Series
+* Optimization Theory
 Kuhn-Tucker Equations
-
-Advanced Trigonometry
-
-Differential Equations
-
-Multivariable Calculus
-
-Combinatorics
+* Advanced Trigonometry
+* Differential Equations
+* Multivariable Calculus
+* Combinatorics
 Permutation
 Binary Coefficients
-
-Probability Theory
+* Probability Theory
 Central Limit Theorem
 Law of Large Numbers
 Bayes' Law
-
-Statistics
+* Statistics
 Digital Mathematics
 Algorithms
 Artificial Intelligence and Machine Learning
@@ -1002,8 +839,7 @@ Category Theory
 Applications - Physics
 Applications - Music
 Beginner’s Guide to Matrices
-
-Front Matter
+* Front Matter
 1. Introduction - How Much Can We Learn from a Single Matrix?
 2. What do Matrices Represent?
 3. Basic Matrix Features
@@ -1047,17 +883,15 @@ book | Matrix Cookbook Proofs |  |  |
 |  | LU |  |
 |  |  |  |
 |  |  |  |
-
-Core Math in an Hour
-
-Logic & truth tables
+* Core Math in an Hour
+* Logic & truth tables
 Types of Proof
 Set Theory
 Cartesian Product
 Relation
 Binary Operation
 Function - domain, codomain, range
-- > Types of functions
+* > Types of functions
 Limits
 Derivatives and Integrals
 Analytic geometry - PT, vectors
@@ -1065,10 +899,12 @@ Trigonometry
 Linear Algebra
 Combinatorics and Probability
 Statistics
+```
 
 * Math Writing
 
-blog post on derivative notation (+notation or related concepts)
+```txt
+* blog post on derivative notation (+notation or related concepts)
 Step-by-Step Guide to PCA
 Proving the Jordan Decomposition
 Deep Dive into Determinants
@@ -1080,221 +916,121 @@ How Are Eigenvalues Actually Computed?
 Guided Tour of Matrix Types
 Painless Introduction to Tensors
 Deep Dive into Dot Products
-- > Why does the zero dot product imply orthogonality?
-- > Why is the dot product onvariant to rotation?
-- > Why does theta=0maximize the dot product?
+* > Why does the zero dot product imply orthogonality?
+* > Why is the dot product onvariant to rotation?
+* > Why does theta=0maximize the dot product?
 A Closer Look at Gradients in Deep Learning
-- > Why do gradients give us the direction of steepest ascent?
-- Matrix Types
-- squareness
+* > Why do gradients give us the direction of steepest ascent?
+* Matrix Types
+* squareness
 
+* determinateness
 
-- determinateness
+* symmetry
 
+* triangularity
 
-- symmetry
+* orthogonality
 
+* normality
 
-- triangularity
+* permutation
 
+* invertibility / singularity
 
-- orthogonality
+* projection matrix
 
+* adjunct matrix
 
-- normality
+* element-restricted matrices
 
+* elementary matrix
 
-- permutation
-
-
-- invertibility / singularity
-
-
-- projection matrix
-
-
-- adjunct matrix
-
-
-- element-restricted matrices
-
-
-- elementary matrix
-
-
-- defective matrices
-
-
+* defective matrices
 
 book - Book Idea: Mathematical Foundations of Natural Language Processing
+* Main sources:
+* NLP:
+* Manning & Schütze
+* Jurafsky & Martin
+* Eisenstein
+* Computerlinguistik und Sprachtechnologie
+* Mathematical Methods in Linguistics
+* Math & Stats:
+* Casella & Berger
+* Bernstein
+* Hogben
+* Vialar
+* Aggarwal
+* Goodfellow et al.
+* Matrix Analysis
+* Gallier & Quaintance
+* Elements of Statistical Learning
 
-Main sources:
-
-
-NLP:
-
-
-Manning & Schütze
-
-
-Jurafsky & Martin
-
-
-Eisenstein
-
-
-Computerlinguistik und Sprachtechnologie
-
-
-Mathematical Methods in Linguistics
-
-
-Math & Stats:
-
-
-Casella & Berger
-
-
-Bernstein
-
-
-Hogben
-
-
-Vialar
-
-
-Aggarwal
-
-
-Goodfellow et al.
-
-
-Matrix Analysis
-
-
-Gallier & Quaintance
-
-
-Elements of Statistical Learning
-
-
-- Guided Tour of Linear Algebra Proofs
+* Guided Tour of Linear Algebra Proofs
 -
+```
 
 ## Mathematisch-logische Grundlagen der Informatik:
 
-Bayessche Netze
-
-Expertensysteme
-
-Modallogik
-
-MYCIN
-
-Graphentheorie
-
-Petri-Netze
-
-Halbgruppe
-
-Verband (Algebra)
-
-Morphismen
-
-Rekursivität
-
-Automat
-
-PROLOG
-
-Unscharfe Logik
-
-Undcharfe Menge (Fuzzy-Menge)
-
-Dynamisches System
-
-Komplexität
-
-Berechenbarkeit
-
-Stetige Funktion in der Topologie
-
-algebraische Strukturen
-
-Menge
-
-Operation (Verknüpfung)
-
-Halbgruppe (Assoziativität)
-
-Monoid (Einselement = neutrales Element)
-
-Gruppe (Inverses)
-
-abelsche (kommutative) Gruppe (Kommutativität)
-
-Ordnung einer Gruppe
-
-Homomorphismus
-
-Isomorphismus (Bijektivität)
-
-Isomorph
-
-Kern
-
-Bild
-
-Linksnebenklasse
-
-Rechtsnebenklasse
-
-Normalteiler
-
-Faktorgruppen
-
-Homomorphiesatz für Gruppen
-
-Index
-
-Endomorphismus (Urbild=Bild)
-
-Monomorphismus (injektiv)
-
-Epimorphismus (surjektiv)
-
-Automorphismus (Endo- und Isomorphismus)
-
-Hybrid structures
-
-topological group
-
-Lie group
-
-ordered group
-
-ordered ring
-
-ordered field
-
-Archimedean group
-
-topological vector space
-
-normed vector space
-
-Hilbert space
-
-Vertex operator algebra
-
-Von Neumann algebra
-
+* Bayessche Netze
+* Expertensysteme
+* Modallogik
+* MYCIN
+* Graphentheorie
+* Petri-Netze
+* Halbgruppe
+* Verband (Algebra)
+* Morphismen
+* Rekursivität
+* Automat
+* PROLOG
+* Unscharfe Logik
+* Undcharfe Menge (Fuzzy-Menge)
+* Dynamisches System
+* Komplexität
+* Berechenbarkeit
+* Stetige Funktion in der Topologie
+* algebraische Strukturen
+* Menge
+* Operation (Verknüpfung)
+* Halbgruppe (Assoziativität)
+* Monoid (Einselement = neutrales Element)
+* Gruppe (Inverses)
+* abelsche (kommutative) Gruppe (Kommutativität)
+* Ordnung einer Gruppe
+* Homomorphismus
+* Isomorphismus (Bijektivität)
+* Isomorph
+* Kern
+* Bild
+* Linksnebenklasse
+* Rechtsnebenklasse
+* Normalteiler
+* Faktorgruppen
+* Homomorphiesatz für Gruppen
+* Index
+* Endomorphismus (Urbild=Bild)
+* Monomorphismus (injektiv)
+* Epimorphismus (surjektiv)
+* Automorphismus (Endo- und Isomorphismus)
+* Hybrid structures
+* topological group
+* Lie group
+* ordered group
+* ordered ring
+* ordered field
+* Archimedean group
+* topological vector space
+* normed vector space
+* Hilbert space
+* Vertex operator algebra
+* Von Neumann algebra
 
 ## Stats Notes
 
-
-White
+```txt
+* White
 Durbin-Watson
 Wu-Hausman
 RESET Test
@@ -1305,8 +1041,7 @@ Bias
 Consistency
 Clustering
 % Tipos de regresiones
-- bivariate
-- multiple
+bivariate, multiple
 Linear regression
 Logarithmic regression
 Ridge regression
@@ -1360,10 +1095,8 @@ Random Effects
 MM
 Probit
 Logit
-
-Idea: investigate properties of average between median and mean
-
-Clustering (of errors)
+* Idea: investigate properties of average between median and mean
+* Clustering (of errors)
 Durbin Test
 Wu-Hausmann Test
 R-sq of instruments
@@ -1371,15 +1104,13 @@ Eigenvalue statistic of IV
 Sargan Test
 Basmann Test
 Heckman Correction
-
-14. CEF Decomposition Property
+* 14. CEF Decomposition Property
 15. CEF Prediction Property
 16. Anova Theorem
 17. Conditional and Unconditional Expectation
 18. randomization inference
 19. dividing by (n+1)
-
-85. Casella & Berger
+* 85. Casella & Berger
 88. ANOVA
 regression theory with matrices
 skewness formula
@@ -1401,39 +1132,36 @@ loops in Stata
 Roy model
 Monte Carlo
 
-- point estimation and point estimation
-- convex fold
-- cubic spline
-- proxy variable
-- response function
-- moment restriction
-- linear-in-means model
-- adjacency matrix
-- log normal distribution
-- Monte Carlo
-- bootstrap
-- Wald Estimator
-- Permutaion Test
-- DGP
-- demeaning data
-- randomization test
-- Roy selection
-- different types of charter school lotteries
-
-Étapes de l'économétrie:
-1) formuler la question
-2) développer un modèle économique
-3) utiliser l'intuition
-spécifier un modèle économique
-5) estimer les paramètres (avec les données) et procéder aux tests
-learn about:
-- different auction designs and models
-- demand estimation
-- BLP estimator
-- moments
-- "non-parametric" regressions
-- nested fixed-point estimation
-- field theory
-
-## To Sort
-
+* point estimation and point estimation
+* convex fold
+* cubic spline
+* proxy variable
+* response function
+* moment restriction
+* linear-in-means model
+* adjacency matrix
+* log normal distribution
+* Monte Carlo
+* bootstrap
+* Wald Estimator
+* Permutaion Test
+* DGP
+* demeaning data
+* randomization test
+* Roy selection
+* different types of charter school lotteries
+* $2tapes de l'économétrie:
+  1) formuler la question
+  2) développer un modèle économique
+  3) utiliser l'intuition
+  4) spécifier un modèle économique
+  5) estimer les paramètres (avec les données) et procéder aux tests
+* learn about:
+  * different auction designs and models
+  * demand estimation
+  * BLP estimator
+  * moments
+  * "non-parametric" regressions
+  * nested fixed-point estimation
+  * field theory
+```

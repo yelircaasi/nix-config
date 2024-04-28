@@ -1,6 +1,9 @@
 # WMs, Compositors, Bars, Menus, Launchers, Notifications, Widgets, Lockscreen, etc.
+
 ## Notes
+
 ### Ideal Setup:
+
 * 1. Minimal use of mouse
 * 2. Unified, consistent, ergonomic keybindings
 * 3. Multiple layouts and configurations for different tasks
@@ -9,8 +12,7 @@
 * 6. Privacy and security
 * 7. Maximized efficiency and productivity: work at the speed of thought, minimizing clutter & drag
 * 8. Reliable, solid system - no breakage
-
-Wayland recommended stack:
+* Wayland recommended stack:
 * hyprland**, sway, river
 * waybar**, eww
 * mako**, dunst
@@ -18,35 +20,46 @@ Wayland recommended stack:
 * xdg portal**
 * swww**, hyprpaper, swaybg, wpaperd, mpvpaper
 * rofi-wayland, wofi, bemenu, fuzzel, tofi.
-
 * Display Manager, Login, Lockscreen, Boot, etc.
 * How to place one window on top of another, like floating but always keeping smaller one on top? → PiP functionality with a tiling WM?
 * -> scrollable window manager
 * → make settings in NixOS for each and make choice of which one to use dependent on a single keyword in the main config file
-
-note *  grid: window positions and sizes based on a regular NxM grid. May be automatic (like wmfs, monsterwm) or manual (like Subtle).
+* note *  grid: window positions and sizes based on a regular NxM grid. May be automatic (like wmfs, monsterwm) or manual (like Subtle).
 
 ## Desktop Shell
+
 ### ags
+
 * ( ) [ags](https://github.com/Aylur/ags)
-*  [ags-sootspirits](https://github.com/flick0/ags-sootspirits)
+* ( ) [ags-sootspirits](https://github.com/flick0/ags-sootspirits)
+
 ### eww
+
 * ( ) [elkowar/eww: ElKowars wacky widgets](https://github.com/elkowar/eww)
 * [Eww - Widgets for everyone! - eww documentation](https://elkowar.github.io/eww/eww.html)
+
 ### fabric
-* [fabric ](https://github.com/Fabric-Development/fabric)[fabric](https://github.com/Fabric-Development/fabric) 
+
+* [fabric](https://github.com/Fabric-Development/fabric)[fabric](https://github.com/Fabric-Development/fabric)
 * [Fabric-Development/fabric](https://github.com/Fabric-Development/fabric)
 * [Fabric-Development/fabric](https://github.com/Fabric-Development/fabric)
+
 ### nwg-shell
+
 * [nwg-shell](https://nwg-piotr.github.io/nwg-shell/)
+
 ### way-shell
+
 * ( ) [way-shell](https://github.com/ldelossa/way-shell)
+
 ### hyprpanel
+
 * ( ) [hyprpanel](https://github.com/pdf/hyprpanel)
 
 ## Desktop Environment
-cosmic * [pop-os/cosmic-epoch: Next generation Cosmic desktop environment](https://github.com/pop-os/cosmic-epoch)
-de cosmic * ( ) [pop-os/cosmic-randr at 88c570cf8b88beae1cf4f3e2d412cc64ec49cd7c](https://github.com/pop-os/cosmic-randr/tree/88c570cf8b88beae1cf4f3e2d412cc64ec49cd7c)
+
+* {cosmic} [pop-os/cosmic-epoch: Next generation Cosmic desktop environment](https://github.com/pop-os/cosmic-epoch)
+* {de cosmic} ( ) [pop-os/cosmic-randr at 88c570cf8b88beae1cf4f3e2d412cc64ec49cd7c](https://github.com/pop-os/cosmic-randr/tree/88c570cf8b88beae1cf4f3e2d412cc64ec49cd7c)
 * [Budgie](https://blog.buddiesofbudgie.org/) - Budgie is a desktop environment designed with the modern user in mind, it focuses on simplicity and elegance.
 * [Cinnamon](https://linuxmint.com/) - Cinnamon strives to provide a traditional user experience. Cinnamon is a fork of GNOME 3.
 * [Deepin DE](https://www.deepin.org/en/dde/) - DDE (Deepin Desktop Environment) is the default desktop environment originally created for the Linux Deepin distribution.
@@ -73,18 +86,20 @@ de cosmic * ( ) [pop-os/cosmic-randr at 88c570cf8b88beae1cf4f3e2d412cc64ec49cd7c
 * ( ) [Kröhnkite](https://github.com/esjeon/krohnkite) - A dynamic tiling extension for KWin.
 * ( ) [Pop!\_OS Shell](https://github.com/pop-os/shell) - Pop Shell is a keyboard-driven auto-tiling window manager that run on top of the GNOME shell.
 * ( ) Arcan + suite
-  - [arcan-fe.com/](https://arcan-fe.com/)
-  - [letoram](https://github.com/letoram)
-  - [letoram/cat9](https://github.com/letoram/cat9)
-  - [letoram/durden](https://github.com/letoram/durden)
-  - [arcan](https://github.com/letoram/arcan)
-  - [arcan-fe.com/](https://arcan-fe.com/)
-  - [durden.arcan-fe.com/](http://durden.arcan-fe.com/)
-  - Arcan on Nix 2020: [gist.github.com/egasimus/0254dcd67f95f262aa6e133794738392](https://gist.github.com/egasimus/0254dcd67f95f262aa6e133794738392)
-  - [egasimus/arcan-nix](https://github.com/egasimus/arcan-nix)
+* [arcan-fe.com/](https://arcan-fe.com/)
+* [letoram](https://github.com/letoram)
+* [letoram/cat9](https://github.com/letoram/cat9)
+* [letoram/durden](https://github.com/letoram/durden)
+* [arcan](https://github.com/letoram/arcan)
+* [arcan-fe.com/](https://arcan-fe.com/)
+* [durden.arcan-fe.com/](http://durden.arcan-fe.com/)
+  * Arcan on Nix 2020: [gist.github.com/egasimus/0254dcd67f95f262aa6e133794738392](https://gist.github.com/egasimus/0254dcd67f95f262aa6e133794738392)
+* [egasimus/arcan-nix](https://github.com/egasimus/arcan-nix)
 * ( ) [userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma](https://userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma)
 * ( ) [gTile](https://github.com/gTile/gTile)
+
 ### SORT
+
 * [docs.kde.org/*](https://docs.kde.org/*) [omglinux.com/space-bar-gnome-extension/](https://www.omglinux.com/space-bar-gnome-extension/)
 * [KDE Plasma DT](https://youtu.be/S6Zf16gYzIY)
 * [invent.kde.org/plasma*](https://invent.kde.org/plasma*) [en.wikipedia.org/wiki/KDE_Plasma_5](https://en.wikipedia.org/wiki/KDE_Plasma_5)
@@ -100,20 +115,21 @@ de cosmic * ( ) [pop-os/cosmic-randr at 88c570cf8b88beae1cf4f3e2d412cc64ec49cd7c
 * [r/unixporn/comments/12zboi0/xfce_decided_to_learn_how_to_customize_xfce4panel/](https://www.reddit.com/r/unixporn/comments/12zboi0/xfce_decided_to_learn_how_to_customize_xfce4panel/)
 
 ## WM/Compositor
-wc dwl * [dwl](https://github.com/denisdubochevalier/dwl)
-wc dwl * [engstrand-config/dwl-guile](https://github.com/engstrand-config/dwl-guile) 
-wc dwl * [engstrand-config/home-service-dwl-guile](https://github.com/engstrand-config/home-service-dwl-guile) 
-wc hyprland * [Never knew [Hyprland] had different animations than the default!](https://www.youtube.com/watch?v=UOniMj7bkh4)
-wc swayfx * ( ) [WillPower3309/swayfx: SwayFX: Sway, but with eye candy!](https://github.com/WillPower3309/swayfx)
-wm * [hy3](https://github.com/outfoxxed/hy3)
-niri * [niri](https://github.com/YaLTeR/niri)
+
+* {wc dwl} [dwl](https://github.com/denisdubochevalier/dwl)
+* {wc dwl} [engstrand-config/dwl-guile](https://github.com/engstrand-config/dwl-guile)
+* {wc dwl} [engstrand-config/home-service-dwl-guile](https://github.com/engstrand-config/home-service-dwl-guile)
+* {wc hyprland} [Never knew [Hyprland] had different animations than the default!](https://www.youtube.com/watch?v=UOniMj7bkh4)
+* {wc swayfx} ( ) [WillPower3309/swayfx: SwayFX: Sway, but with eye candy!](https://github.com/WillPower3309/swayfx)
+* {wm} [hy3](https://github.com/outfoxxed/hy3)
+* {niri} [niri](https://github.com/YaLTeR/niri)
 * [jbuchermn/newm: Wayland compositor](https://github.com/jbuchermn/newm)
 * ( ) [simplewc](https://www.reddit.com/r/unixporn/s/7BK4nY4pV3) [github](https://github.com/kcirick/simplewc)
 * ( ) [Monitors | Hyprland Wiki](https://wiki.hyprland.org/Configuring/Monitors/)
 * ( ) [cage-kiosk/cage: A Wayland kiosk](https://github.com/cage-kiosk/cage)
-* ( ) [](https://sr.ht/~atha/newm-atha/
-* ( ) [](https://spwhitton.name/tech/code/papersway/
-wayfire * [Wayfire-dots](https://github.com/bluebyt/Wayfire-dots)
+* ( ) [...](https://sr.ht/~atha/newm-atha/
+* ( ) [...](https://spwhitton.name/tech/code/papersway/
+* {wayfire} [Wayfire-dots](https://github.com/bluebyt/Wayfire-dots)
 * ( ) [hyprland](https://hyprland.org/)
 * ( ) [awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland)
 * ( ) [awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland)
@@ -153,18 +169,22 @@ wayfire * [Wayfire-dots](https://github.com/bluebyt/Wayfire-dots)
 * ( ) [ezmonad](https://github.com/QuillFlash/ezmonad)
 * [monroeclinton/mwm: My Window Manager](https://github.com/monroeclinton/mwm)
 * ( ) ## [GitHub - YaLTeR/niri: A scrollable-tiling Wayland compositor.](https://github.com/YaLTeR/niri)
+
 ### Sway
+
 * [sway migration](https://www.reddit.com/r/swaywm/s/uafu7rzdOD)
-sway * [](https://www.reddit.com/r/swaywm/s/f60rY9AMIV) DE experience on Sway
-sway * [Commits · WillPower3309/swayfx](https://github.com/WillPower3309/swayfx/commits/master/)
-sway * [NixOS Search - Packages - swayfx](https://search.nixos.org/packages?channel%3D23.11%26show%3Dswayfx%26from%3D0%26size%3D50%26sort%3Drelevance%26type%3Dpackages%26query%3Dswayfx)
-sway * [Some loose ends for sway on nixos which we should fix - Development - NixOS Discourse](https://discourse.nixos.org/t/some-loose-ends-for-sway-on-nixos-which-we-should-fix/17728/5)
-sway * [swayfx/flake.nix at master · WillPower3309/swayfx](https://github.com/WillPower3309/swayfx/blob/master/flake.nix)
-sway * [swaywm/sway: i3-compatible Wayland compositor](https://github.com/swaywm/sway)
+* {sway} [...](https://www.reddit.com/r/swaywm/s/f60rY9AMIV) DE experience on Sway
+* {sway} [Commits · WillPower3309/swayfx](https://github.com/WillPower3309/swayfx/commits/master/)
+* {sway} [NixOS Search - Packages - swayfx](https://search.nixos.org/packages?channel%3D23.11%26show%3Dswayfx%26from%3D0%26size%3D50%26sort%3Drelevance%26type%3Dpackages%26query%3Dswayfx)
+* {sway} [Some loose ends for sway on nixos which we should fix - Development - NixOS Discourse](https://discourse.nixos.org/t/some-loose-ends-for-sway-on-nixos-which-we-should-fix/17728/5)
+* {sway} [swayfx/flake.nix at master · WillPower3309/swayfx](https://github.com/WillPower3309/swayfx/blob/master/flake.nix)
+* {sway} [swaywm/sway: i3-compatible Wayland compositor](https://github.com/swaywm/sway)
 -> sway dots * [Madic-/Sway-DE: 🏠 Sway desktop environment dotfile installation for Arch Linux](https://github.com/Madic-/Sway-DE)
+
 ### Qtile
-qtile * [elParaguayo/qtile-widget-livefootballscores: Qtile widget to display live football scores](https://github.com/elParaguayo/qtile-widget-livefootballscores)
-qtile rice * [Qtile_NotWin_Theme](https://github.com/ADVisual161/Qtile_NotWin_Theme)
+
+* {qtile} [elParaguayo/qtile-widget-livefootballscores: Qtile widget to display live football scores](https://github.com/elParaguayo/qtile-widget-livefootballscores)
+* {qtile rice} [Qtile_NotWin_Theme](https://github.com/ADVisual161/Qtile_NotWin_Theme)
 * ( ) [Qtile](http://www.qtile.org/) - Qtile is a full-featured, hackable tiling window manager written and configured in Python.
 * [dt qtile](https://gitlab.com/dwt1/dotfiles/-/tree/master/.config/qtile) → [video](https://www.youtube.com/watch?v=9NO2DJARbU0)
 * [Qtile Playlist](https://www.youtube.com/playlist?list=PL5--8gKSku15-C4mBKRpQVcaat4zwe4Gu)
@@ -178,14 +198,18 @@ qtile rice * [Qtile_NotWin_Theme](https://github.com/ADVisual161/Qtile_NotWin_Th
 * [google.com/search?q=qtile+sticky+window&oq=qtile+sticky+window&aqs=chrome..69i57j69i60.10030j0j9&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=qtile+sticky+window&oq=qtile+sticky+window&aqs=chrome..69i57j69i60.10030j0j9&sourceid=chrome&ie=UTF-8) * - [dioptricdesign.com/2021/08/20/qtile-chameleon-update/](https://www.dioptricdesign.com/2021/08/20/qtile-chameleon-update/)
 * [Tuff Gniuz qtile Playlist](https://www.youtube.com/playlist?list=PLIHtvvGZ1O3hgLjh-Gt42-XrVmR0a4hEi)
 * [archcraft-qtile](https://github.com/archcraft-os/archcraft-qtile)/tree/main * - [r/qtile/comments/12sdtfp/how_to_make_translucent_kde_konsole/](https://www.reddit.com/r/qtile/comments/12sdtfp/how_to_make_translucent_kde_konsole/)
+
 ### Stacking Window Managers
+
 * ( ) [2bwm](https://github.com/venam/2bwm) - A fast floating WM, with the particularity of having 2 borders, written over the XCB library and derived from mcwm.
 * ( ) [Blackbox](https://github.com/bbidulock/blackboxwm) - A fast, lightweight window manager for the X Window System, without all those annoying library dependencies.
 * ( ) [Fluxbox](http://fluxbox.org/) - A window manager for X that was based on the Blackbox 0.61.1 code.
 * ( ) [IceWM](https://ice-wm.org/) - A window manager for the X Window System. The goal of IceWM is speed, simplicity, and not getting in the user’s way.
 * ( ) [Openbox](http://openbox.org/) - A highly configurable, next generation window manager with extensive standards support.
-## Bar etc.
-* ( ) [](https://github.com/PurpleAce88/dwm-bar-in-rust-
+
+## Bar etc
+
+* ( ) [...](https://github.com/PurpleAce88/dwm-bar-in-rust-
 * ( ) [i3bar](https://www.reddit.com/r/i3wm/comments/adjhd0/can_i_hide_i3bar_at_all_times_except_when_i/ )
 * ( ) [i3status-rust](https://github.com/greshake/i3status-rust)
 * ( ) [Lemonbar](https://github.com/LemonBoy/bar) - Super fast, lightweight, and mnml status bar for Linux.
@@ -197,7 +221,9 @@ qtile rice * [Qtile_NotWin_Theme](https://github.com/ADVisual161/Qtile_NotWin_Th
 * ( ) [xmobar](https://codeberg.org/xmobar/xmobar/src/branch/master/doc/quick-start.org)
 * ( ) [yambar](https://codeberg.org/dnkl/yambar)
 * ( ) [yambar](https://codeberg.org/dnkl/yambar)
+
 ### SORT bar
+
 * investigate polybar vs qtile bar
 * [polybar](https://github.com/polybar/polybar)
 * status bars:
@@ -206,18 +232,21 @@ qtile rice * [Qtile_NotWin_Theme](https://github.com/ADVisual161/Qtile_NotWin_Th
 * [taffybar](https://github.com/taffybar/taffybar)
 * [polybar](https://github.com/polybar/polybar)
 * [Configuring Xmonad and Polybar (It's Not THAT Difficult!) - YouTube](https://www.youtube.com/watch?v=cOehuALOQy4)
-* [cnx](https://github.com/mjkillough/cnx)*   - systrays:         - [trayer](https://github.com/sargon/trayer-srg)
+* [cnx](https://github.com/mjkillough/cnx)
+* [trayer](https://github.com/sargon/trayer-srg)
 * [stalonetray](https://kolbusa.github.io/stalonetray/)
-* [gtk-sni-tray](https://github.com/taffybar/gtk-sni-tray)*   - taffybar configs        - [Dotfiles,](https://github.com/ProtonNumber/Dotfiles,)
+* [gtk-sni-tray](https://github.com/taffybar/gtk-sni-tray)
+* [Dotfiles,](https://github.com/ProtonNumber/Dotfiles,)
 * [r/unixporn - [Xmonad / Taffybar] A minimalist & blue RICE!](https://www.reddit.com/r/unixporn/comments/stsstb/xmonad_taffybar_a_minimalist_blue_rice/)
 * [r/unixporn - [XMonad] Dynamic Workspace Naming with Taffybar](https://www.reddit.com/r/unixporn/comments/59y6uf/xmonad_dynamic_workspace_naming_with_taffybar/)
 * [r/unixporn - [taffybar/XMonad] Gtk+3 Updates to Taffybar](https://www.reddit.com/r/unixporn/comments/78zwek/taffybarxmonad_gtk3_updates_to_taffybar/)
-* [r/unixporn - [taffybar][XMonad] A little bit too much transparency](https://www.reddit.com/r/unixporn/comments/8l40iu/taffybarxmonad_a_little_bit_too_much_transparency/)
+* [taffybarXMonad](https://www.reddit.com/r/unixporn/comments/8l40iu/taffybarxmonad_a_little_bit_too_much_transparency/)
 * xmobar configs
 * [beginners-guide-to-xmonad.readthedocs.io/configure_xmobar.html](https://beginners-guide-to-xmonad.readthedocs.io/configure_xmobar.html)
 
 ## Desktop Managers + Greeters
-* (2) [lightdm](https://github.com/canonical/lightdm) (https://github.com/canonical/lightdm?)
+
+* (2) [lightdm](https://github.com/canonical/lightdm) [...](https://github.com/canonical/lightdm?)
    | (2) [lightdm-gtk-greeter](https://github.com/Xubuntu/lightdm-gtk-greeter)
    | (2) [slick-greeter](https://github.com/linuxmint/slick-greeter)
    | (3) [greeter](https://github.com/elementary/greeter)
@@ -252,13 +281,15 @@ qtile rice * [Qtile_NotWin_Theme](https://github.com/ADVisual161/Qtile_NotWin_Th
 * [Vawlpe/hgreet: Haskell package to interact with the greetd daemon trough it's IPC protocol.](https://github.com/Vawlpe/hgreet)
 
 ### Display manager - Console
+
 * ( ) [CDM](https://github.com/evertiro/cdm) - A ultra-minimalistic, yet full-featured login manager written in Bash.
 * ( ) [Console TDM](https://github.com/dopsi/console-tdm) - An extension for xinit written in pure Bash.
 * ( ) [Ly](https://github.com/cylgom/ly) - Ly is a lightweight, TUI (ncurses-like) display manager for Linux.
 * ( ) [nodm](https://github.com/spanezz/nodm) - A minimalistic display manager for automatic logins.
 
 ### Display manager - Graphic
-dm * ( ) [Login Manager Settings](https://realmazharhussain.github.io/gdm-settings/) - A settings app for GNOME’s Login Manager, GDM.
+
+* {dm} ( ) [Login Manager Settings](https://realmazharhussain.github.io/gdm-settings/) - A settings app for GNOME’s Login Manager, GDM.
 * ( ) [Entrance](https://enlightenment.org/) - An EFL based display manager, highly experimental.
 * ( ) [GDM](https://wiki.gnome.org/Projects/GDM) - The GNOME display manager.
 * ( ) [LightDM](http://www.freedesktop.org/wiki/Software/LightDM) - A cross-desktop display manager, can use various front-ends written in any toolkit.
@@ -270,31 +301,34 @@ dm * ( ) [Login Manager Settings](https://realmazharhussain.github.io/gdm-settin
 * Lock screen: [xsecurelock](https://github.com/google/xsecurelock)
 
 ## Logout Menu
+
 * ( ) [wlogout](https://github.com/ArtsyMacaw/wlogout)
 * ( ) [waylogout](https://github.com/loserMcloser/waylogout)
 * ( ) [wleave](https://github.com/AMNatty/wleave)
-logout * ( ) [wlogout/blob/master/layout](https://github.com/ArtsyMacaw/wlogout/blob/master/layout)
+* {logout} ( ) [wlogout/blob/master/layout](https://github.com/ArtsyMacaw/wlogout/blob/master/layout)
 
 ## Lock Screen
+
 * ( ) [slock](https://github.com/BachoSeven/slock)
 * ( ) [slock-flexipatch](https://github.com/bakkeby/slock-flexipatch)
 * ( ) [betterlockscreen](https://github.com/betterlockscreen/betterlockscreen)
-lock * ( ) [](https://github.com/betterlockscreen/betterlockscreen)
-lock * [display3d](https://github.com/redpenguinyt/display3d) lock screen 
-screensaver * [Paulo-Murilo-Dev/42screensaver](https://github.com/Paulo-Murilo-Dev/42screensaver)
+* {lock} ( ) [...](https://github.com/betterlockscreen/betterlockscreen)
+* {lock} [display3d](https://github.com/redpenguinyt/display3d) lock screen
+* {screensaver} [Paulo-Murilo-Dev/42screensaver](https://github.com/Paulo-Murilo-Dev/42screensaver)
 
 ## Launcher, Menu
-launcher * [](https://github.com/aeghn/rglauncher)
-launcher * [](https://github.com/kando-menu/kando/blob/main/docs/configuring.md)
-* [](https://github.com/aeghn/rglauncher)
-launcher * [blisslauncher](https://f-droid.org/packages/foundation.e.blisslauncher/) 
-launcher * [gauntlet](https://github.com/project-gauntlet/gauntlet) - Application launcher with React-based plugins
-launcher * [handlr-regex](https://github.com/Anomalocaridid/handlr-regex)
-launcher * [hex](https://github.com/Twins-Divyanshu-Sharma/Hex)
-launcher * [kando-menu/kando](https://github.com/kando-menu/kando) 
-launcher * [loungy](https://github.com/MatthiasGrandl/Loungy)
-launcher * [onagre-launcher/onagre](https://github.com/onagre-launcher/onagre)
-launcher * [rofi](https://github.com/adi1090x/rofi)
+
+* {launcher} [...](https://github.com/aeghn/rglauncher)
+* {launcher} [...](https://github.com/kando-menu/kando/blob/main/docs/configuring.md)
+* [...](https://github.com/aeghn/rglauncher)
+* {launcher} [blisslauncher](https://f-droid.org/packages/foundation.e.blisslauncher/)
+* {launcher} [gauntlet](https://github.com/project-gauntlet/gauntlet) - Application launcher with React-based plugins
+* {launcher} [handlr-regex](https://github.com/Anomalocaridid/handlr-regex)
+* {launcher} [hex](https://github.com/Twins-Divyanshu-Sharma/Hex)
+* {launcher} [kando-menu/kando](https://github.com/kando-menu/kando)
+* {launcher} [loungy](https://github.com/MatthiasGrandl/Loungy)
+* {launcher} [onagre-launcher/onagre](https://github.com/onagre-launcher/onagre)
+* {launcher} [rofi](https://github.com/adi1090x/rofi)
 * ( ) [albert](https://github.com/albertlauncher/albert,) [albertlauncher.github.io/https://albertlauncher.github.io/reference/](https://albertlauncher.github.io/https://albertlauncher.github.io/reference/)
 * ( ) [albert](https://albertlauncher.github.io/) - An awesome keyboard launcher for the Linux desktop.
 * ( ) [albert](https://github.com/ManuelSchneid3r/albert)
@@ -310,7 +344,7 @@ launcher * [rofi](https://github.com/adi1090x/rofi)
 * ( ) [fsearch](https://github.com/cboxdoerfer/fsearch) A fast file search utility for Unix-like systems based on GTK+3. Wildcard support, RegEx support, Filter support.
 * ( ) [fuzzel](https://codeberg.org/dnkl/fuzzel) - rofi for wayland
 * ( ) [gmrun](http://sourceforge.net/projects/gmrun/)
-* ( ) [ilia]()
+* ( ) [ilia](...)
 * ( ) [kupfer](http://engla.github.io/kupfer/)
 * ( ) [kupfer](https://github.com/kupferlauncher/kupfer)
 * ( ) [lighthouse](https://github.com/emgram769/lighthouse)
@@ -332,6 +366,7 @@ launcher * [rofi](https://github.com/adi1090x/rofi)
 * ( ) [xlauncher](https://github.com/vatriani/xlauncher)
 
 ### dmenu-like menus
+
 * ( ) [bemenu](https://github.com/Cloudef/bemenu)
 * ( ) [dmenu](http://tools.suckless.org/dmenu/)
 * ( ) [dmenu2](https://bitbucket.org/melek/dmenu2)
@@ -357,19 +392,22 @@ launcher * [rofi](https://github.com/adi1090x/rofi)
 * ( ) [vis-menu](http://martanne.github.io/vis/man/vis-menu.1.html)
 
 ### dmenu wrappers
+
 * ( ) [Yeganesh](http://dmwit.com/yeganesh/)
 * ( ) [xboomx](https://github.com/victorhaggqvist/xboomx)
 * ( ) [yegonesh](https://github.com/klowner/yegonesh)
 
 ### Misc / plugins
+
 * ( ) [rofi-calc](https://github.com/svenstaro/rofi-calc)
 * ( ) [networkmanager-dmenu](https://github.com/firecat53/networkmanager-dmenu)
 
 ## Notification
-*  [dunst](https://github.com/dunst-project/dunst)
-*  [tiramisu](https://github.com/Sweets/tiramisu)
-*  [mako](https://github.com/emersion/mako)
-*  [linux_notification_center](https://github.com/phuhl/linux_notification_center)
+
+* ( ) [dunst](https://github.com/dunst-project/dunst)
+* ( ) [tiramisu](https://github.com/Sweets/tiramisu)
+* ( ) [mako](https://github.com/emersion/mako)
+* ( ) [linux_notification_center](https://github.com/phuhl/linux_notification_center)
 * ( ) [dunst](https://github.com/dunst-project/dunst)
 * ( ) [noti](https://github.com/variadico/noti) Monitor a process and trigger a notification.
 * ( ) [ntfy](https://github.com/dschep/ntfy) Cross-platform Python utility that enables you to automatically get desktop notifications on demand or when long running commands complete. It can as well send push notifications to your phone once a particular command completes.
@@ -377,52 +415,54 @@ launcher * [rofi](https://github.com/adi1090x/rofi)
 * ( ) [keep -](https://github.com/keephq/keep) - Simple alerting tool, with declarative syntax and builtin providers.
 * ( ) [catlight](https://catlight.io/) - status notifier for developers. Checks the status of continuous delivery builds and shows desktop notifications.
 * ( ) [sysm](https://github.com/jafarlihi/sysm) - Makes your system play custom sounds when any configured system or external event happens.
-notif * ( ) [Welcome to Notifiers documentation! — notifiers 1.3.0 documentation](https://notifiers.readthedocs.io/en/latest/)
+* {notif} ( ) [Welcome to Notifiers documentation! — notifiers 1.3.0 documentation](https://notifiers.readthedocs.io/en/latest/)
 
 ## Wallpaper
-wallpaper * [caydence](https://github.com/joshcbrown/caydence)
-wallpaper * [lwp](https://github.com/jszczerbinsky/lwp) - Multi-platform parallax wallpaper engine
-wallpaper * [pscircle](https://gitlab.com/mildlyparallel/pscircle/blob/master/examples/pscircle.service)
+
+* {wallpaper} [caydence](https://github.com/joshcbrown/caydence)
+* {wallpaper} [lwp](https://github.com/jszczerbinsky/lwp) - Multi-platform parallax wallpaper engine
+* {wallpaper} [pscircle](https://gitlab.com/mildlyparallel/pscircle/blob/master/examples/pscircle.service)
 * (5) [Daily Reddit Wallpaper](https://federicotorrielli.github.io/Daily-Reddit-Wallpaper/) - Change your wallpaper to the most upvoted image of the day from /r/wallpapers or any other subreddit on system startup.
 
 ## Misc  Desktop Tools
-touch * [fusuma](https://github.com/iberianpig/fusuma) - multitouch gestures
-util * [nik012003/ripdrag: Drag and Drop utilty written in Rust and GTK4](https://github.com/nik012003/ripdrag) 
-key * [libxkbcommon/blob/master/include/xkbcommon/xkbcommon-keysyms.h](https://github.com/xkbcommon/libxkbcommon/blob/master/include/xkbcommon/xkbcommon-keysyms.h)
-key * [~shinyzenith/swhkd - Sxhkd clone for Wayland (works on TTY and X11 too) - sourcehut git](https://git.sr.ht/~shinyzenith/swhkd)
-key capture * [showmethekey](https://github.com/AlynxZhou/showmethekey) - Show keys you typed on screen.
-monitor * [victorconky](https://github.com/kushall09/victorconky) 
-mouse * [rvaiya/warpd: A modal keyboard-driven virtual pointer](https://github.com/rvaiya/warpd)
-widget * ( ) [mixxc](https://github.com/Elvyria/Mixxc) minimalistic volume mixer
-widget * [waybar-weather](https://github.com/RiScJ/waybar-weather)
-wayland misc * [dim](https://github.com/marcelohdez/dim)
+
+* {touch} [fusuma](https://github.com/iberianpig/fusuma) - multitouch gestures
+* {util} [nik012003/ripdrag: Drag and Drop utilty written in Rust and GTK4](https://github.com/nik012003/ripdrag)
+* {key} [libxkbcommon/blob/master/include/xkbcommon/xkbcommon-keysyms.h](https://github.com/xkbcommon/libxkbcommon/blob/master/include/xkbcommon/xkbcommon-keysyms.h)
+* {key} [~shinyzenith/swhkd - Sxhkd clone for Wayland (works on TTY and X11 too) - sourcehut git](https://git.sr.ht/~shinyzenith/swhkd)
+* {key capture} [showmethekey](https://github.com/AlynxZhou/showmethekey) - Show keys you typed on screen.
+* {monitor} [victorconky](https://github.com/kushall09/victorconky)
+* {mouse} [rvaiya/warpd: A modal keyboard-driven virtual pointer](https://github.com/rvaiya/warpd)
+* {widget} ( ) [mixxc](https://github.com/Elvyria/Mixxc) minimalistic volume mixer
+* {widget} [waybar-weather](https://github.com/RiScJ/waybar-weather)
+* {wayland misc} [dim](https://github.com/marcelohdez/dim)
 * (2) [ego](https://github.com/intgr/ego)
 * App Browser Equivalents
 * ( ) [Heimdall](https://github.com/linuxserver/Heimdall)
-misc tool * ( ) [](https://tools.suckless.org/x/wmname/
-misc tools * ( ) [hyprlock](https://github.com/hyprwm/hyprlock)
-misc tools * ( ) [hyprwm/hyprland-welcome: Hyprland's welcome app, written in qt.](https://github.com/hyprwm/hyprland-welcome)
-misc tools * ( ) [~emersion/wlr-randr - An xrandr clone for wlroots compositors - sourcehut git](https://git.sr.ht/~emersion/wlr-randr)
+* {misc tool} ( ) [...](https://tools.suckless.org/x/wmname/
+* {misc tools} ( ) [hyprlock](https://github.com/hyprwm/hyprlock)
+* {misc tools} ( ) [hyprwm/hyprland-welcome: Hyprland's welcome app, written in qt.](https://github.com/hyprwm/hyprland-welcome)
+* {misc tools} ( ) [~emersion/wlr-randr - An xrandr clone for wlroots compositors - sourcehut git](https://git.sr.ht/~emersion/wlr-randr)
 * [hyprkool](https://github.com/thrombe/hyprkool)
 * [fet.sh](https://github.com/eepykate/fet.sh)
 * ( ) [todowalp](https://github.com/linuxdotexe/todowalp)
 * ( ) [Reddit - [ wms ] alternating border color as low battery alert](https://www.reddit.com/r/unixporn/comments/1239m15/wms_alternating_border_color_as_low_battery_alert/)
 * ( ) [SwayOSD](https://github.com/ErikReider/SwayOSD)
-tools * ( ) [](https://www.reddit.com/r/unixporn/s/DoOlUPlMjw)  rofi plugin for nerdfonts
-tools * ( ) [dbus](https://www.freedesktop.org/wiki/Software/dbus/)
-tools * ( ) [ibus]()
-tools * ( ) [learnopengl](https://learnopengl.com/)
-tools * ( ) [nixGL](https://github.com/cfhammill/nixGL)
-tools * ( ) [screenkey](https://github.com/larsbrinkhoff/screenkey) - scrrencast tool 
-tools * ( ) [walker](https://github.com/abenz1267/walker)
-tools * ( ) [wayflan: From-scratch Wayland client for Common Lisp](https://sr.ht/~shunter/wayflan/)
-tools boot * ( ) [rEFInd](https://www.rodsbooks.com/refind/) - rEFInd is a fork of the rEFIt boot manager. Like rEFIt, rEFInd can auto-detect your installed EFI boot loaders and it presents a pretty GUI menu of boot options. → tools boot * great resource [rodsbooks.com/refind/](https://www.rodsbooks.com/refind/)
+tools * ( ) [...](https://www.reddit.com/r/unixporn/s/DoOlUPlMjw)  rofi plugin for nerdfonts
+* {tools} ( ) [dbus](https://www.freedesktop.org/wiki/Software/dbus/)
+* {tools} ( ) [ibus](...)
+* {tools} ( ) [learnopengl](https://learnopengl.com/)
+* {tools} ( ) [nixGL](https://github.com/cfhammill/nixGL)
+* {tools} ( ) [screenkey](https://github.com/larsbrinkhoff/screenkey) - scrrencast tool
+* {tools} ( ) [walker](https://github.com/abenz1267/walker)
+* {tools} ( ) [wayflan: From-scratch Wayland client for Common Lisp](https://sr.ht/~shunter/wayflan/)
+* {tools boot} ( ) [rEFInd](https://www.rodsbooks.com/refind/) - rEFInd is a fork of the rEFIt boot manager. Like rEFIt, rEFInd can auto-detect your installed EFI boot loaders and it presents a pretty GUI menu of boot options. → tools boot * great resource [rodsbooks.com/refind/](https://www.rodsbooks.com/refind/)
 switcher* [nChain](https://github.com/Nocxium/nChain) theme switcher
-misc * [unclutter-xfixes](https://github.com/Airblader/unclutter-xfixes), 
-misc * [xbanish](https://github.com/jcs/xbanish) 
-misc tool * ( ) [](https://github.com/flightlessmango/MangoHud)
-misc tools * [](https://yarmo.eu/blog/playerctl-polybar/)
-misc tools * [hyprspace]](https://github.com/KZDKM/Hyprspace)
+* {misc} [unclutter-xfixes](https://github.com/Airblader/unclutter-xfixes),
+* {misc} [xbanish](https://github.com/jcs/xbanish)
+* {misc tool} ( ) [...](https://github.com/flightlessmango/MangoHud)
+* {misc tools} [...](https://yarmo.eu/blog/playerctl-polybar/)
+* {misc tools} [hyprspace]](https://github.com/KZDKM/Hyprspace)
 * (5) [open-in-editor](https://github.com/dandavison/open-in-editor)
 * (2?)
 * ( ) [Metadata Cleaner](https://metadatacleaner.romainvigier.fr/) - This tool allows you to view metadata in your files and to get rid of it, as much as possible.
@@ -431,34 +471,44 @@ misc tools * [hyprspace]](https://github.com/KZDKM/Hyprspace)
 * (2) [gramps](https://github.com/gramps-project/gramps) [Gramps Blog](https://gramps-project.org/blog/) - Research, organize and share your family tree with Gramps.
 * (2) [emote](https://github.com/tom-james-watson/emote)
    | (5) [emoji-keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Virtual keyboard-like emoji picker for Linux.
+
 ### Clipboard
+
 * [wl-clipboard](https://github.com/bugaevc/wl-clipboard)
+
 ### Openers (like xdg-open)
+
 * ( ) [mimi](https://github.com/BachoSeven/mimi) $$$
+
 ## Comparison
-comparison * ( ) [Comparison of extensible window managers | Sawfish | Fandom](https://sawfish.fandom.com/wiki/Comparison_of_extensible_window_managers)
+
+* {comparison} ( ) [Comparison of extensible window managers | Sawfish | Fandom](https://sawfish.fandom.com/wiki/Comparison_of_extensible_window_managers)
 * ( ) [My Tier List For Tiling Window Managers - YouTube](https://www.youtube.com/watch?v=xysISs0mcj8)
 * ( ) [Qtile Versus i3 Window Manager](https://www.youtube.com/watch?v=vXFuhNbGgZg)
 * compare i3/sway vs qtile
-* ( ) [](https://www.youtube.com/watch?v=pY9HPm1N16Y)
-* ( ) [481 - ¿PROBAR UN TILING WINDOW MANAGER?¿REGOLITH, I3 O CUAL?](https://atareao.es/podcast/probar-un-tiling-window-managerregolith-i3-o-cual/)    * [tecmint.com/best-tiling-window-managers-for-linux/](https://www.tecmint.com/best-tiling-window-managers-for-linux/)
+* ( ) [video](https://www.youtube.com/watch?v=pY9HPm1N16Y)
+* ( ) [481 - ¿PROBAR UN TILING WINDOW MANAGER?¿REGOLITH, I3 O CUAL?](https://atareao.es/podcast/probar-un-tiling-window-managerregolith-i3-o-cual/)
+* [tecmint.com/best-tiling-window-managers-for-linux/](https://www.tecmint.com/best-tiling-window-managers-for-linux/)
 * ( ) [Reddit - Best WM to start with](https://www.reddit.com/r/unixporn/comments/11m9ggz/best_wm_to_start_with/)
 
 ## Screenshot
-screenshot [(https://github.com/hyprwm/contrib)](https://github.com/hyprwm/contrib/grimblast)
-screenshot * [](https://forums.debian.net/viewtopic.php?p%3D794502) CLI screenshot tool
-screenshot * [](https://www.omgubuntu.co.uk/2024/01/shutter-on-wayland)
-screenshot * [flameshot](https://flameshot.org/)
-screenshot * [grimcap](https://ithub.com/wick3dr0se/grimcap)
-screenshot * [Kirottu/watershot: A simple wayland native screenshot tool.](https://github.com/Kirottu/watershot)
-screenshot * [pyscreenshot 3.1 on PyPI - Libraries.io](https://libraries.io/pypi/pyscreenshot)
-screenshot * [screenshot-to-code](https://github.com/abi/screenshot-to-code) 
-screenshot * [sss](https://github.com/SergioRibera/sss) - SSS (Super ScreenShot) is a WIP: CLI/Lib to take amazing screenshot of code or screen
-screenshot * [swappy](https://github.com/jtheoof/swappy)
-screenshot annotation * [satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation. A tool inspired by Swappy and Flameshot.
+
+* {screenshot} [(https://github.com/hyprwm/contrib)](https://github.com/hyprwm/contrib/grimblast)
+* {screenshot} [...](https://forums.debian.net/viewtopic.php?p%3D794502) CLI screenshot tool
+* {screenshot} [...](https://www.omgubuntu.co.uk/2024/01/shutter-on-wayland)
+* {screenshot} [flameshot](https://flameshot.org/)
+* {screenshot} [grimcap](https://ithub.com/wick3dr0se/grimcap)
+* {screenshot} [Kirottu/watershot: A simple wayland native screenshot tool.](https://github.com/Kirottu/watershot)
+* {screenshot} [pyscreenshot 3.1 on PyPI - Libraries.io](https://libraries.io/pypi/pyscreenshot)
+* {screenshot} [screenshot-to-code](https://github.com/abi/screenshot-to-code)
+* {screenshot} [sss](https://github.com/SergioRibera/sss) - SSS (Super ScreenShot) is a WIP: CLI/Lib to take amazing screenshot of code or screen
+* {screenshot} [swappy](https://github.com/jtheoof/swappy)
+* {screenshot annotation} [satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation. A tool inspired by Swappy and Flameshot.
 
 ## Old, X11 etc.
+
 ### X11 Compositor
+
 * Picom
    | ( ) [picom](https://github.com/dccsillag/picom) fork
    | ( ) [picom](https://github.com/jonaburg/picom)
@@ -473,36 +523,38 @@ screenshot annotation * [satty](https://github.com/gabm/Satty) - Satty - Modern
 * ( ) [glassit-linux](https://github.com/Fmstrat/glassit-linux) - not needed due to picom*
 
 ## WM Tools
-x * [smoothpaper](https://github.com/matjam/smoothpaper) Smoothly transitioning wallpaper daemon for X11 Window Managers
-x misc * ( ) [xborder](https://github.com/deter0/xborder)
+
+* {x} [smoothpaper](https://github.com/matjam/smoothpaper) Smoothly transitioning wallpaper daemon for X11 Window Managers
+* {x misc} ( ) [xborder](https://github.com/deter0/xborder)
 
 ## X11 WMs
+
 ? * ( ) [xmonad thread hn](https://news.ycombinator.com/item?id=28794901)
-i3 * ( ) [](https://opensource.com/article/18/8/getting-started-i3-window-manager) 
-wm * [From i3 to Sway :: The Curator](https://julioln.com/posts/from-i3-to-sway/)
-wm X * [sowm](https://github.com/dylanaraps/sowm) 
-x wm * ( ) [DkWM](https://bitbucket.org/natemaia/dk)
-xwm * ( ) [](https://stumpwm.github.io/)
-xwm * ( ) [](https://www.ragnarwm.org/)
-xwm * ( ) [](https://www.reddit.com/r/unixporn/comments/130h37f/bspwm_how_is_it/)
-xwm * ( ) [](https://www.reddit.com/r/unixporn/comments/13cp71s/marswm_rusty_buisiness/)
-xwm * ( ) [blueicewm](https://github.com/ottop/blueicewm)
-xwm * ( ) [dwm](https://www.reddit.com/r/unixporn/comments/123ld44/dwm_tugend_oder_ruhm/) - look for source of passage 
-xwm * ( ) [leftwm](https://github.com/leftwm/leftwm)
-xwm * ( ) [marswm](https://github.com/jzbor/marswm)
-xwm * ( ) [moonwm](https://github.com/jzbor/moonwm)
-xwm awesome * ( ) [](https://awesomewm.org/
-xwm awesome * ( ) [](https://scaron.info/blog/awesome-with-gnome-on-ubuntu.html)
-xwm awesome * ( ) [awwesomewm with dots](https://www.reddit.com/r/unixporn/comments/12tvw7f/awesome_finally_i_got_what_i_want)
-xwm dwm * ( ) [](https://dwm.suckless.org/patches/)
-xwm dwm * ( ) [dwm-flexipatch](https://github.com/bakkeby/dwm-flexipatch)
-xwm i3 * ( ) [HPR i3 Episode → see show notes!](https://hackerpublicradio.org/eps.php?id=3735)
-xwm i3 * ( ) [](https://vincent.bernat.ch/en/blog/2021-i3-window-manager)
-xwm i3 * ( ) [i3: i3 User’s Guide](https://i3wm.org/docs/userguide.html%23_default_keybindings)
-xwm special * ( ) [xtermwm](https://xtermwm.sourceforge.io/)
-xwm xmonad * ( ) [ ]  [xmonad](https://xmonad.org/documentation.html) → remove dock and remove bar, also remove [window bars](https://stackoverflow.com/questions/71204126/how-to-remove-the-title-bar-of-gnome-applications)?
-xwm xmonad * ( ) [guide](https://beginners-guide-to-xmonad.readthedocs.io/index.html)
-xwm xmonad * ( ) [→ install](https://xmonad.org/INSTALL.html)
+* {i3} ( ) [...](https://opensource.com/article/18/8/getting-started-i3-window-manager)
+* {wm} [From i3 to Sway :: The Curator](https://julioln.com/posts/from-i3-to-sway/)
+* {wm X} [sowm](https://github.com/dylanaraps/sowm)
+* {x wm} ( ) [DkWM](https://bitbucket.org/natemaia/dk)
+* {xwm} ( ) [...](https://stumpwm.github.io/)
+* {xwm} ( ) [...](https://www.ragnarwm.org/)
+* {xwm} ( ) [...](https://www.reddit.com/r/unixporn/comments/130h37f/bspwm_how_is_it/)
+* {xwm} ( ) [...](https://www.reddit.com/r/unixporn/comments/13cp71s/marswm_rusty_buisiness/)
+* {xwm} ( ) [blueicewm](https://github.com/ottop/blueicewm)
+* {xwm} ( ) [dwm](https://www.reddit.com/r/unixporn/comments/123ld44/dwm_tugend_oder_ruhm/) - look for source of passage
+* {xwm} ( ) [leftwm](https://github.com/leftwm/leftwm)
+* {xwm} ( ) [marswm](https://github.com/jzbor/marswm)
+* {xwm} ( ) [moonwm](https://github.com/jzbor/moonwm)
+* {xwm awesome} ( ) [...](https://awesomewm.org/
+* {xwm awesome} ( ) [...](https://scaron.info/blog/awesome-with-gnome-on-ubuntu.html)
+* {xwm awesome} ( ) [awwesomewm with dots](https://www.reddit.com/r/unixporn/comments/12tvw7f/awesome_finally_i_got_what_i_want)
+* {xwm dwm} ( ) [...](https://dwm.suckless.org/patches/)
+* {xwm dwm} ( ) [dwm-flexipatch](https://github.com/bakkeby/dwm-flexipatch)
+* {xwm i3} ( ) [HPR i3 Episode → see show notes!](https://hackerpublicradio.org/eps.php?id=3735)
+* {xwm i3} ( ) [...](https://vincent.bernat.ch/en/blog/2021-i3-window-manager)
+* {xwm i3} ( ) [i3: i3 User’s Guide](https://i3wm.org/docs/userguide.html%23_default_keybindings)
+* {xwm special} ( ) [xtermwm](https://xtermwm.sourceforge.io/)
+* {xwm xmonad} ( ) [ ]  [xmonad](https://xmonad.org/documentation.html) → remove dock and remove bar, also remove [window bars](https://stackoverflow.com/questions/71204126/how-to-remove-the-title-bar-of-gnome-applications)?
+* {xwm xmonad} ( ) [guide](https://beginners-guide-to-xmonad.readthedocs.io/index.html)
+* {xwm xmonad} ( ) [→ install](https://xmonad.org/INSTALL.html)
 * ( ) [ragnar](https://github.com/cococry/ragnar) X twm
 * ( ) [stumpwm](https://github.com/stumpwm/stumpwm) [stumpwm.github.io/](http://stumpwm.github.io/) (X11, CL)
 * [pypi.org/project/xpywm/](https://pypi.org/project/xpywm/)
@@ -529,7 +581,7 @@ xwm xmonad * ( ) [→ install](https://xmonad.org/INSTALL.html)
 * [leftwm](https://github.com/leftwm/leftwm)
 * ( ) [i3 vs qtile](https://www.reddit.com/r/unixporn/comments/enshqt/i3_or_qtile/)
 * ( ) [Qtile on Ubuntu](https://www.youtube.com/watch?v=Y1busy_dDRQ)
-* ( ) [](https://www.youtube.com/watch?v=JLz3UKJFMoI*) - xmonad dt: [](https://www.youtube.com/watch?v=5oBT0a25FyA) [XMonad Demo - YouTube](https://www.youtube.com/watch?v=70IxjLEmomg)
+* ( ) [...](https://www.youtube.com/watch?v=5oBT0a25FyA) [XMonad Demo - YouTube](https://www.youtube.com/watch?v=70IxjLEmomg)
 * [XMonad config](https://github.com/NeshHari/XMonad) [xmonad.org/gnome.html](https://xmonad.org/gnome.html)
 * [XMonad Configuration Tutorial | xmonad - the tiling window manager that rocks](https://xmonad.org/TUTORIAL.html)
 * ( ) [herbstluftwm/herbstluftwm: A manual tiling window manager for X11](https://github.com/herbstluftwm/herbstluftwm)
@@ -539,30 +591,34 @@ xwm xmonad * ( ) [→ install](https://xmonad.org/INSTALL.html)
 * ( ) [dkwm](https://bitbucket.org/natemaia/dk/src/master/)
 
 ## Internals
+
 ### Wayland Libraries
+
 * ( ) [smithay](https://github.com/Smithay/smithay)
 * ( ) [wlroots](https://gitlab.freedesktop.org/wlroots/wlroots/)
 * weston*
 
 ### Wayland, X11, WM Information
+
 * [wayland.app/protocols/](https://wayland.app/protocols/)
 * [wayland.freedesktop.org/docs/html/](https://wayland.freedesktop.org/docs/html/)
 * [cbtnuggets.com/blog/technology/networking/why-use-wayland-versus-x11](https://www.cbtnuggets.com/blog/technology/networking/why-use-wayland-versus-x11)
 * ( ) [Thesis](https://www.cs.ru.nl/bachelors-theses/2019/Max_van_Deurzen___4581903___The_anatomy_of_the_modern_window_manager_-_a_case_study_for_X_in_an_Agile_manner.pdf)
 * Wayland vs X*
-- [bbs.archlinux.org/viewtopic.php?id=238376](https://bbs.archlinux.org/viewtopic.php?id=238376)
-- [Wayland vs X11](https://youtu.be/nPz5TAGYgzA)
+* [bbs.archlinux.org/viewtopic.php?id=238376](https://bbs.archlinux.org/viewtopic.php?id=238376)
+* [Wayland vs X11](https://youtu.be/nPz5TAGYgzA)
 * [en.wikipedia.org/wiki/Wayland_(protocol)](https://en.wikipedia.org/wiki/Wayland_(protocol)) vs X11?*
-  - Wayland Apps
-  - [wtype](https://github.com/atx/wtype)
+  * Wayland Apps
+* [wtype](https://github.com/atx/wtype)
 * ydotool](https://github.com/ReimuNotMoe/ydotool)
-* LeftWM - A Fast and Simple Xmonad Alternative - YouTube](https://www.youtube.com/watch?v=jvfk380Pses)*         guake for wayland?*         - [askubuntu.com/questions/956640/equivalent-to-xdotool-for-wayland#977801*](https://askubuntu.com/questions/956640/equivalent-to-xdotool-for-wayland#977801*)
-- [unix.stackexchange.com/questions/309580/does-wayland-use-xkb-for-keyboard-layouts](https://unix.stackexchange.com/questions/309580/does-wayland-use-xkb-for-keyboard-layouts)
-- [I wonder what will happen to XMonad as the Wayland future actually seems to be a... | Hacker News](https://news.ycombinator.com/item?id=28794901)
+* LeftWM - A Fast and Simple Xmonad Alternative - YouTube](https://www.youtube.com/watch?v=jvfk380Pses)*         guake for wayland?
+* [askubuntu.com/questions/956640/equivalent-to-xdotool-for-wayland#977801*](https://askubuntu.com/questions/956640/equivalent-to-xdotool-for-wayland#977801*)
+* [unix.stackexchange.com/questions/309580/does-wayland-use-xkb-for-keyboard-layouts](https://unix.stackexchange.com/questions/309580/does-wayland-use-xkb-for-keyboard-layouts)
+* [I wonder what will happen to XMonad as the Wayland future actually seems to be a... | Hacker News](https://news.ycombinator.com/item?id=28794901)
 *swhkd](https://github.com/waycrate/swhkd)
-* ( ) [****A Comprehensive Guide To Tiling Window Managers](https://www.youtube.com/watch?v=Obzf9ppODJU&t=717s)
+* ( ) [ A Comprehensive Guide To Tiling Window Managers](https://www.youtube.com/watch?v=Obzf9ppODJU&t=717s)
 * [xwinman.org/](http://www.xwinman.org/)
-* ( ) [X Protocol Reference Manual for X11, Release 6 (Definitive Guide to X Window System, Vol. 0) (Definitive Guides to the X Window System)](http://library.lol/main/01D1783574EC32A48D6FF44FAC825C18)
+* ( ) [X Protocol Reference Manual for X11, Release 6 (Definitive Guide to X Window System, Vol. 0) (Definitive Guides to the X Window System)
 * ( ) [The anatomy of the modern window manager](http://library.lol/main/C392F948ADD053F40ABE01AACE37ED57)
 * [eirenicon.org/implementing-linux-window-managers-tutorial/](https://eirenicon.org/implementing-linux-window-managers-tutorial/)
 * [xwinman.org/others.php](http://www.xwinman.org/others.php)

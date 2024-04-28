@@ -1,10 +1,13 @@
 # Noteworthy Personal Sites
+
 ... and other sites worth taking note of
 
 ## Collections - Well-Designed Sites
+
 * [personalsit.es/](https://personalsit.es/)
 
 ### Phenomenal
+
 * [blog.wesleyac.com/](https://blog.wesleyac.com/)
 * [Site example](https://codeyarns.github.io/tech/2012-11-30-how-to-set-a-specific-chapter-or-section-number-in-latex.html)
 * [maelfabien.github.io/](https://maelfabien.github.io/)
@@ -12,8 +15,8 @@
 * [ritchieng.live/](https://ritchieng.live/)
 * [shuzhanfan.github.io](https://shuzhanfan.github.io/)
 
-
 ### Educational, Book, etc
+
 * [notesonai.com/Notes+on+AI](https://notesonai.com/Notes+on+AI)
 * [randomekek.github.io/deep/deeplearning.html](https://randomekek.github.io/deep/deeplearning.html)
 * [math.toronto.edu/ivan/](http://www.math.toronto.edu/ivan/)
@@ -22,26 +25,31 @@
 * [hadrienj.github.io/](https://hadrienj.github.io/)
 * [mlstory.org/](https://mlstory.org/)
 * [trinilearn.com/](https://www.trinilearn.com/)
-* [agill.xyz/](https://agill.xyz/) *** [Notgnoshi (Austin Gill)](https://github.com/Notgnoshi)
+* [agill.xyz/](https://agill.xyz/)  [Notgnoshi (Austin Gill)](https://github.com/Notgnoshi)
 * [Game Math Series | Ming-Lun "Allen" Chou | 周明倫](http://allenchou.net/game-math-series/)
 
 ## Interesting People
+
 ### YouTube
+
 * [Hugo Larochelle](https://www.youtube.com/user/hugolarochelle)
 * [cs-syd.eu/about](https://cs-syd.eu/about)
 * [mrossinek.gitlab.io/](https://mrossinek.gitlab.io/)
 
 ### Tools & Tech
+
 * [RossKnapman/HugoTheme](https://github.com/RossKnapman/HugoTheme) (great icons)
 * [Academia Website](https://www.academia.edu/portfolio_creation)
 
 ## TO SORT
+
 * ( ) [Brian Reilly · Entrepreneurial Front-End Web Developer](http://brianreilly.me/)
-* ( ) [perso $$$](https://ariel-frischer.github.io/developerFolio/) 
+* ( ) [perso $$$](https://ariel-frischer.github.io/developerFolio/)
 * ( ) [vhyrro.github](https://vhyrro.github.io/)
-* ( ) [](https://www.youtube.com/@unixbhaskar/videos) $$$
+* ( ) [video](https://www.youtube.com/@unixbhaskar/videos) $$$
 
 ### Econ People
+
 * [Albrecht Bohne](https://sites.google.com/site/albrechtbohne/welcome)
 * [Bobkova_CV_2017_11.pdf - Google Drive](https://drive.google.com/file/d/0B3ny1wDLYF6AV3pQVFJYWFlFUHM/view)
 * [Chia-Yu Tsai CV (2017 Nov).pdf - Google Drive](https://drive.google.com/file/d/1kK99x28sD2UGqI8vlFDj9IqC4Os2g6a1/view)
@@ -64,17 +72,15 @@
 * [WardFelix_CV.pdf - Google Drive](https://drive.google.com/file/d/1pp_G39Q4bKTj0hvi5b-lPmDYws1bsIMc/view)
 * [Xiaodi Wang](https://sites.google.com/view/xiaodiwang/home)
 
-
 ### Personal Sites
-* [tlkh.dev/](https://tlkh.dev/)  ***
-* [adamspannbauer.github.io/](https://adamspannbauer.github.io/) ***
+
+* [tlkh.dev/](https://tlkh.dev/)  
+* [adamspannbauer.github.io/](https://adamspannbauer.github.io/) 
 * [curiousily.com/](https://curiousily.com/)
 * [Talia Vogt](https://taliavogt.com/about/)
 * [mattjustice.com/](https://www.mattjustice.com/)
 * [8d9.ru/category/blog](https://8d9.ru/category/blog) - IT blog
 * [uninsane.org/](https://uninsane.org/)
-
-
 * ? [catonmat.net](https://catonmat.net/)
 * [Archive · Thorsten Hans' blog](https://www.thorsten-hans.com/archive/)
 * [Chris McDonough - YouTube](https://www.youtube.com/@ChrisMcDonough)
@@ -107,7 +113,7 @@
 * [louiscastricato.com/](https://www.louiscastricato.com/)
 * [linguist.is/](http://linguist.is/)
 * [jonkrohn.com/](https://www.jonkrohn.com/)
-* [Aqua Rusa - Quality Blog *****](https://aquarusa.wordpress.com/)
+* [Aqua Rusa - Quality Blog ](https://aquarusa.wordpress.com/)
 * [klokacitat.se/](http://klokacitat.se/)
 * [Albrecht Bohne](https://sites.google.com/site/albrechtbohne/home)
 * [Bobkova_CV_2017_11.pdf - Google Drive](https://drive.google.com/file/d/0B3ny1wDLYF6AV3pQVFJYWFlFUHM/view)
@@ -181,7 +187,7 @@
 * [Stefan Th. Gries](http://www.stgries.info/)
 * [Stefan Th. Gries: Teaching @ UCSB](http://www.stgries.info/teaching/overview-ucsb.html)
 * [Terra Incognita](http://blog.christianperone.com/)
-* [****Tutoriels - lehollandaisvolant.net](https://lehollandaisvolant.net/tuto/#divers)
+* [ Tutoriels - lehollandaisvolant.net](https://lehollandaisvolant.net/tuto/#divers)
 * [johnerichumphries.com/](http://johnerichumphries.com/)
 * [ben.orsee.org/#start](http://ben.orsee.org/#start)
 * [sites.google.com/site/upetronijevic/home](https://sites.google.com/site/upetronijevic/home)
@@ -194,7 +200,7 @@
 * [K. Baur, Lehre, Karl Franzens Universität Graz](https://imsc.uni-graz.at/baur/Teaching.html)
 * [Yuxin Yao - Home](http://yuxinyao.weebly.com/)
 * [gwern.net/index](http://www.gwern.net/index)
-* [Aqua Rusa - Quality Blog *****](https://aquarusa.wordpress.com/)
+* [Aqua Rusa - Quality Blog ](https://aquarusa.wordpress.com/)
 * [Notgnoshi (Austin Gill)](https://github.com/Notgnoshi)
 * [klokacitat.se/](http://klokacitat.se/)
 * [Jacob Eisenstein](https://jacobeisenstein.github.io/)
@@ -252,7 +258,7 @@
 * [Stefan Th. Gries](http://www.stgries.info/)
 * [Stefan Th. Gries: Teaching @ UCSB](http://www.stgries.info/teaching/overview-ucsb.html)
 * [Terra Incognita](http://blog.christianperone.com/)
-* <> [****Tutoriels - lehollandaisvolant.net](https://lehollandaisvolant.net/tuto/#divers)
+* <> [ Tutoriels - lehollandaisvolant.net](https://lehollandaisvolant.net/tuto/#divers)
 * <> [Jesus Fernandez-Villaverde's Homepage](https://www.sas.upenn.edu/~jesusfv/teaching.html)
 * <> [Lil'Log](https://lilianweng.github.io/lil-log/)
 * <> [Sasank's Blog](http://chsasank.github.io/)
@@ -275,7 +281,7 @@
 * [Heaviside’s Dinner](https://heavisidesdinner.com/index.html)
 * [Home - Toban Wiebe](https://tobanwiebe.com/)
 * [I Make Games](http://www.allenchou.net/)
-* [James Tauber — Open Source ***](https://jtauber.github.io/)
+* [James Tauber — Open Source ](https://jtauber.github.io/)
 * [Kareem Alkaseer](http://www.kareemalkaseer.com/blog)
 * [Karl Broman](https://kbroman.org/)
 * [Kata Gábor](https://lipn.univ-paris13.fr/~gabor/)
@@ -336,7 +342,7 @@
 * [markus-beuckelmann (Markus Beuckelmann)](https://github.com/markus-beuckelmann)
 * [Gram / Projects](https://orsinium.dev/projects.html)
 * [Brandon Rohrer / cottonwood · GitLab](https://gitlab.com/brohrer/cottonwood)
-* -> see other channels [](https://www.youtube.com/@GavinFreeborn)
+* -> see other channels [video](https://www.youtube.com/@GavinFreeborn)
 * [fasterthanli.me/about](https://fasterthanli.me/about)
 * [Calin Leafshade - Linux & Productivity Videos](https://youtube.com/@LeafshadeSoftware)
 * [Strazil001?tab=repositories](https://github.com/Strazil001?tab=repositories)
@@ -351,7 +357,7 @@
 * [Hackflow](https://suor.github.io/)
 * [nicco.love/](https://nicco.love/)
 * [Elteoremadebeethoven (Alexander Vázquez)](https://github.com/Elteoremadebeethoven) (manim)
-*  [xuefuzhao.github.io/](https://xuefuzhao.github.io/)
+* ( ) [xuefuzhao.github.io/](https://xuefuzhao.github.io/)
 * [Archives - Eli Bendersky's website](https://eli.thegreenplace.net/archives/all)
 * [ArrynDoesTech - YouTube](https://www.youtube.com/@arryndoestech)
 * [Chris Portela - Cloud, Software, and Photography](https://www.chrisportela.com/)
@@ -369,7 +375,7 @@
 * [SergioRibera](https://github.com/SergioRibera)
 * [radicle.xyz/](https://radicle.xyz/)
 * [linkedin.com/in/manuel-epp/](https://www.linkedin.com/in/manuel-epp/)
-* [](https://www.youtube.com/@devaslife)
-* [](https://www.youtube.com/@devopstoolbox)
-* [](https://www.youtube.com/@levonog)
+* [video](https://www.youtube.com/@devaslife)
+* [video](https://www.youtube.com/@devopstoolbox)
+* [video](https://www.youtube.com/@levonog)
 * ansidev's blog

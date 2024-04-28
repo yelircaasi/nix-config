@@ -1,9 +1,11 @@
 # File Management
+
 * [marvinkreis/rofi-file-browser-extended: Use rofi to quickly open files](https://github.com/marvinkreis/rofi-file-browser-extended)
 * [bodil/vscode-file-browser](https://github.com/bodil/vscode-file-browser)
 * [Welcome - File Browser](https://filebrowser.org/)
 
 ## TUI File Managers
+
 * (1) [xplr](https://github.com/sayanarijit/xplr)
 * (1) [yazi](https://github.com/sxyazi/yazi)
 * (1) [nnn](https://github.com/jarun/nnn)
@@ -26,27 +28,31 @@
 * (6) [cfiles](https://github.com/mananapr/cfiles)
 
 ## CLI File Manager
+
 * (2) [clifm](https://github.com/leo-arch/clifm) | ( ) [walk](https://github.com/antonmedv/walk)
 
 ## GUI File Managers
+
 * (6) [xplorer](https://github.com/kimlimjustin/xplorer)
 * (4) [mucommander](https://github.com/mucommander/mucommander)
 * (2) [thunar](https://docs.xfce.org/xfce/thunar/start)
 * (4) [doublecmd](https://github.com/doublecmd/doublecmd) - interesting because written in Pascal, but unclear whether I can even customize the gui colors (bar, sides, etc)
 * (2) [nemo](https://github.com/linuxmint/nemo)
-* (2) [nautilus]()
+* (2) [nautilus](...)
 * (2) [spacefm](https://github.com/thermitegod/spacefm) - need to package for Nix and include plugins, but looks quite promising
 * (2) [dolphin](https://apps.kde.org/dolphin/)
 * (2) [pcmanfm](https://github.com/lxde/pcmanfm)
-* (2) [pcmanfm-qt]()
+* (2) [pcmanfm-qt](...)
 * ( ) [elementary](https://github.com/elementary/files/)
 
 ## Other
+
 * (2) [filebrowser](https://github.com/filebrowser/filebrowser) (web-based)
 * (4) [CloudCommander](https://cloudcmd.io/)
 * (2) [catcli](https://github.com/deadc0de6/catcli)
 
 ## Compression and Extraction
+
 * ( ) [bzip3](https://github.com/kspalaiologos/bzip3)
 * ( ) [Curtail](https://apps.gnome.org/app/com.github.huluti.Curtail/)
 * ( ) [dtrx](https://github.com/dtrx-py/dtrx)
@@ -57,6 +63,7 @@
 * ( ) [peazip](https://peazip.github.io/) (written in Pascal!)
 
 ## File Hooks and Daemons
+
 * ( ) [inotify-tools](https://github.com/inotify-tools/inotify-tools)
 * ( ) [watchman](https://github.com/facebook/watchman) | [viddy](https://github.com/sachaos/viddy) | [watch](https://github.com/tj/watch)
 * ( ) [watchexec](https://github.com/watchexec/watchexec)
@@ -78,6 +85,7 @@
 * ( ) [bitpocket](https://github.com/sickill/bitpocket)
 
 ## Cloud Drive
+
 * (2) Proton Drive
 * ( ) [NextCloud](https://nextcloud.com/)
 * ( ) [OwnCloud](https://owncloud.com/client/)
@@ -90,6 +98,7 @@
 * ( ) [Murena Cloud](https://murena.com/cloud-subscriptions/?wcpbc-manual-country=DE)
 
 ## Download Management
+
 * ( ) [aria2](https://aria2.github.io/)
 * ( ) [ArrowDL](https://github.com/setvisible/ArrowDL)
 * ( ) [flareget](https://flareget.com/)
@@ -101,6 +110,7 @@
 * ( ) [xtremedownloadmanager](https://xtremedownloadmanager.com/)
 
 ## File Transfer, Up- and Download
+
 * ( ) [airpaste](https://github.com/mafintosh/airpaste)
 * ( ) [croc6](https://schollz.com/blog/croc6/)
 * ( ) [crossftp](https://www.crossftp.com/ftp-client.htm)
@@ -141,6 +151,7 @@
 * ( ) [portal](https://github.com/ZinoKader/portal)
 
 ## Remote Desktop
+
 * ( ) [anydesk](https://anydesk.com/en)
 * ( ) [barrier/](https://github.com/debauchee/barrier/)
 * ( ) [Connections](https://apps.gnome.org/app/org.gnome.Connections/)
@@ -149,6 +160,7 @@
 * ( ) [TeamViewer](https://www.teamviewer.com/)
 
 ## Torrent
+
 * ( ) [stig](https://github.com/rndusr/stig)
 * ( ) [aria2](https://github.com/tatsuhiro-t/aria2)
 * ( ) [Deluge](https://git.deluge-torrent.org/deluge)
@@ -170,37 +182,39 @@
 * ( ) [webtorrent-cli](https://github.com/feross/webtorrent-cli)
 
 ## Clipboard Sharing
+
 * ( ) [pbproxy](https://github.com/nikvdp/pbproxy)
 * ( ) [clipsync](https://github.com/marcopaganini/clipsync)
 * ( ) [shcopy](https://github.com/aymanbagabas/shcopy)
 * ( ) [pbgopy](https://github.com/nakabonne/pbgopy)
 
 ## SORT
-file * [dzfrias/projectable: :dizzy: A TUI file manager built for projects](https://github.com/dzfrias/projectable)
-file * [GitHub - pop-os/cosmic-files: WIP COSMIC file manager - isaac.r.riley@gmail.com - Gmail](https://mail.google.com/mail/u/0/%23inbox/KtbxLxgRRNTlkkHfRlfwZcXvWxjCQxHQxV)
-file * [IgnorantGuru/spacefm: SpaceFM File Manager](https://github.com/IgnorantGuru/spacefm)
-file * [lxqt/pcmanfm-qt: File manager and desktop icon manager (Qt port of PCManFM and libfm)](https://github.com/lxqt/pcmanfm-qt)
-file * [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) 
-file * [pop-os/cosmic-files: WIP COSMIC file manager](https://github.com/pop-os/cosmic-files)
-file * [probonopd/dfilemanager: File manager written in Qt/C++ for a Mac-like experience](https://github.com/probonopd/dfilemanager?tab%3Dreadme-ov-file)
-file * [SpaceFM User's Manual](http://ignorantguru.github.io/spacefm/spacefm-manual-en.html%23programfiles-home)
-file * [spacefm](https://github.com/thermitegod/spacefm)
-file * [tchx84/Portfolio: A minimalist file manager for those who want to use Linux mobile devices.](https://github.com/tchx84/Portfolio)
-file * [Why I use the Enlightenment file manager on Linux | Opensource.com](https://opensource.com/article/22/12/linux-file-manager-enlightenment)
-file * [](https://docs.xfce.org/xfce/thunar/hidden-settings%23customising_thunar_with_css)
-file * [](https://docs.xfce.org/xfce/thunar/start)
-file * [](https://search.nixos.org/packages?channel%3Dunstable%26from%3D0%26size%3D50%26sort%3Drelevance%26type%3Dpackages%26query%3Dnemo)
-file * [](https://www.tecmint.com/linux-file-managers/)
-file * [felix](https://github.com/kyoheiu/felix/tree/v2.2.2)
-file * [flitz](https://github.com/MartinThoma/flitz)
-file * [Home | DFileManager](https://dfilemanager.sourceforge.net/)
-file * [LibFM + PCManFM 1.3.2 released! – LXDE Blog](https://blog.lxde.org/2021/02/19/libfm-pcmanfm-1-3-2-released/)
-file * [libfm-1.3.2](https://www.linuxfromscratch.org/blfs/view/12.0//lxde/libfm.html)
-file * [nimmm](https://github.com/NixOS/nixpkgs/blob/nixos-23.11/pkgs/applications/file-managers/nimmm/default.nix)
-file * [pop-os/cosmic-files](https://github.com/pop-os/cosmic-files)
-file * [yazi-rs.github](https://yazi-rs.github.io/)
-file * [yazi](https://github.com/sxyazi/yazi)
-file * [yazi](https://github.com/sxyazi/yazi) 
+
+* {file} [dzfrias/projectable: :dizzy: A TUI file manager built for projects](https://github.com/dzfrias/projectable)
+* {file} [GitHub - pop-os/cosmic-files: WIP COSMIC file manager - isaac.r.riley@gmail.com - Gmail](https://mail.google.com/mail/u/0/%23inbox/KtbxLxgRRNTlkkHfRlfwZcXvWxjCQxHQxV)
+* {file} [IgnorantGuru/spacefm: SpaceFM File Manager](https://github.com/IgnorantGuru/spacefm)
+* {file} [lxqt/pcmanfm-qt: File manager and desktop icon manager (Qt port of PCManFM and libfm)](https://github.com/lxqt/pcmanfm-qt)
+* {file} [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)
+* {file} [pop-os/cosmic-files: WIP COSMIC file manager](https://github.com/pop-os/cosmic-files)
+* {file} [probonopd/dfilemanager: File manager written in Qt/C++ for a Mac-like experience](https://github.com/probonopd/dfilemanager?tab%3Dreadme-ov-file)
+* {file} [SpaceFM User's Manual](http://ignorantguru.github.io/spacefm/spacefm-manual-en.html%23programfiles-home)
+* {file} [spacefm](https://github.com/thermitegod/spacefm)
+* {file} [tchx84/Portfolio: A minimalist file manager for those who want to use Linux mobile devices.](https://github.com/tchx84/Portfolio)
+* {file} [Why I use the Enlightenment file manager on Linux | Opensource.com](https://opensource.com/article/22/12/linux-file-manager-enlightenment)
+* {file} [...](https://docs.xfce.org/xfce/thunar/hidden-settings%23customising_thunar_with_css)
+* {file} [...](https://docs.xfce.org/xfce/thunar/start)
+* {file} [...](https://search.nixos.org/packages?channel%3Dunstable%26from%3D0%26size%3D50%26sort%3Drelevance%26type%3Dpackages%26query%3Dnemo)
+* {file} [...](https://www.tecmint.com/linux-file-managers/)
+* {file} [felix](https://github.com/kyoheiu/felix/tree/v2.2.2)
+* {file} [flitz](https://github.com/MartinThoma/flitz)
+* {file} [Home | DFileManager](https://dfilemanager.sourceforge.net/)
+* {file} [LibFM + PCManFM 1.3.2 released! – LXDE Blog](https://blog.lxde.org/2021/02/19/libfm-pcmanfm-1-3-2-released/)
+* {file} [libfm-1.3.2](https://www.linuxfromscratch.org/blfs/view/12.0//lxde/libfm.html)
+* {file} [nimmm](https://github.com/NixOS/nixpkgs/blob/nixos-23.11/pkgs/applications/file-managers/nimmm/default.nix)
+* {file} [pop-os/cosmic-files](https://github.com/pop-os/cosmic-files)
+* {file} [yazi-rs.github](https://yazi-rs.github.io/)
+* {file} [yazi](https://github.com/sxyazi/yazi)
+* {file} [yazi](https://github.com/sxyazi/yazi)
 file * $$$ [MHNightCat/superfile](https://github.com/MHNightCat/superfile)
-file backup * [borg]()
-file cli * [leo-arch/clifm](https://github.com/leo-arch/clifm) 
+* {file backup} [borg](...)
+* {file cli} [leo-arch/clifm](https://github.com/leo-arch/clifm)

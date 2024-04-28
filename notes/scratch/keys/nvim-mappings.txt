@@ -2,8 +2,7 @@
 
 n  gO          *@:call <SNR>51_show_toc()<CR>
 	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/ftplugin/help.vim line 93
-x  #           * y?\V<C-R>"<CR>
-                 Nvim builtin
+x  #           * y?\V<C-R>"<CR>                 Nvim builtin
 	Last set from Lua
 o  %             <Plug>(MatchitOperationForward)
 	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 73
@@ -11,14 +10,11 @@ x  %             <Plug>(MatchitVisualForward)
 	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 71
 n  %             <Plug>(MatchitNormalForward)
 	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 69
-n  &           * :&&<CR>
-                 Nvim builtin
+n  &           * :&&<CR>                 Nvim builtin
 	Last set from Lua
-x  *           * y/\V<C-R>"<CR>
-                 Nvim builtin
+x  *           * y/\V<C-R>"<CR>                 Nvim builtin
 	Last set from Lua
-n  Y           * y$
-                 Nvim builtin
+n  Y           * y$                 Nvim builtin
 	Last set from Lua
 o  [%            <Plug>(MatchitOperationMultiBackward)
 	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 81
@@ -92,9 +88,7 @@ n  <Plug>(MatchitNormalBackward) * :<C-U>call matchit#Match_wrapper('',0,'n')<CR
 	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 50
 n  <Plug>(MatchitNormalForward) * :<C-U>call matchit#Match_wrapper('',1,'n')<CR>
 	Last set from /nix/store/xq1si67s6h5yzj6whnxrllhy1mqnzkz6-neovim-unwrapped-0.9.4/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim line 49
-n  <C-Bslash>  * <Cmd>execute v:count . "ToggleTerm"<CR>
-                 Toggle Terminal
+n  <C-Bslash>  * <Cmd>execute v:count . "ToggleTerm"<CR>                 Toggle Terminal
 	Last set from Lua
-n  <C-L>       * <Cmd>nohlsearch|diffupdate|normal! <C-L><CR>
-                 Nvim builtin
+n  <C-L>       * <Cmd>nohlsearch|diffupdate|normal! <C-L><CR>                 Nvim builtin
 	Last set from Lua

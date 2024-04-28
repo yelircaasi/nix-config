@@ -1,14 +1,11 @@
 # A
 
-
 *   Referencias
 * Anki Deck Control Center
 * 350 chaines Youtube.pdf
 * Anki →
 * Betsy.gsheet
 * Список великих книг.gdoc
-
-
 *   \_Lectura
 * Поток. Психология оптимального переживания.pdf
 * Design Thinking.pdf
@@ -57,5 +54,3 @@
 * La torre di Babele.pdf
 * Помнить всё. Практическое руководство по развитию памяти.pdf
 * Энциклопедия интеллекта. 399 задач.pdf
-
-

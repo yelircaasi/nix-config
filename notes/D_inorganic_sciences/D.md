@@ -1,6 +1,7 @@
 # D
 
 ## Reading
+
 * [What is Jacobian? | The right way of thinking derivatives and integrals - YouTube](https://www.youtube.com/watch?v=wCZ1VEmVjVo)
 * [A concrete introduction to higher algebra](http://library.lol/main/EF9EB5227F4D4CA982E17006174511B8)
 * [mathspp.com/](https://mathspp.com/)
@@ -655,7 +656,7 @@
 * [La Ciencia. Su Método y su Filosofía - Mario Bunge - YouTube](https://www.youtube.com/watch?v=crtRSHNVmzk)
 * [La involucración de las categorías científicas](http://josemanuelrodriguezpardo.blogspot.com.es/2018/03/la-involucracion-de-las-categorias.html)
 * [La mécanique quantique en 7 idées — Science étonnante #16 - YouTube](https://www.youtube.com/watch?v=Rj3jTw2DxXQ)
-* [La physique quantique pour les nuls (partie 1)](http://sboisse.free.fr/science/physique/physique-quantique-pour-les-nuls-1.php)
+* [La physique quantique pour les nuls (partie 1)
 * [La physique quantique pour les nuls!](http://forums.futura-sciences.com/physique/545669-physique-quantique-nuls.html)
 * [La Science Allemande](https://gallica.bnf.fr/ark:/12148/bpt6k215506t/f3.image)
 * La teoría de la selección natural Ginnobili
@@ -772,12 +773,12 @@
 * Reading (5)
 * [Взламывая квантовую физику](https://vk.com/doc44301783_619922240?hash=aafe2d6646c2cde151&dl=aa75b8fa784a4fca37)
 * [cmtscience.ru/](https://cmtscience.ru/)
-* [](https://www.youtube.com/results?search_query=if+you+don%27t+understand+quantum+physics+try+this)
+* [video](https://www.youtube.com/results?search_query=if+you+don%27t+understand+quantum+physics+try+this)
 * [Il primo libro di filosofia della scienza](http://libgen.is/book/index.php?md5=7DA72884D297E443C22D1A325E5F6673)
 * [libgen.is/search.php?req=livre+science&open=0&res=25&view=simple&phrase=1&column=def](http://libgen.is/search.php?req=livre+science&open=0&res=25&view=simple&phrase=1&column=def)
 * [saso-dolenc.com/](https://saso-dolenc.com/)
 * [libgen.rs/search.php?req=Sabine+Hossenfelder&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def](http://libgen.rs/search.php?req=Sabine+Hossenfelder&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
-* [<-- [sabinehossenfelder.com/index.php](http://sabinehossenfelder.com/index.php)](http://sabinehossenfelder.com/index.php](http://sabinehossenfelder.com/index.php))
+* [<-- [sabinehossenfelder.com/index.php](http://sabinehossenfelder.com/index.php)
 * [de.universaldenker.org/](https://de.universaldenker.org/)
 * [derstandard.de/story/2000125099281/neue-theoretische-loesungen-fuerreisen-mit-ueberlichtgeschwindigkeit-entdeckt](https://www.derstandard.de/story/2000125099281/neue-theoretische-loesungen-fuerreisen-mit-ueberlichtgeschwindigkeit-entdeckt)
 * [nature.com/nature/articles?type=nature-podcast](https://www.nature.com/nature/articles?type=nature-podcast)
@@ -906,4 +907,3 @@
 * [cmcc.it/it/](http://www.cmcc.it/it/)
 * [unep.org/arabic/](http://www.unep.org/arabic/)
 * [beeah.ae/?lang=ar*](http://beeah.ae/?lang=ar*)
-

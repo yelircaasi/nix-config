@@ -1,6 +1,6 @@
 # Math Roadmap
 
-1. Introduction to Mathematical Thinking (Devlin) (1-4,A)
+* 1. Introduction to Mathematical Thinking (Devlin) (1-4,A)
 2. The Foundations of Mathematics (Ian Stewart) (1-16,A)
 3. Introductory Mathematics: Algebra and Analysis (Smith) (1-8)
 4. Numbers and Functions: Steps into Analysis (Burn) (1-12,A1-A3)

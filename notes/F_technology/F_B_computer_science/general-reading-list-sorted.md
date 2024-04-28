@@ -1,6 +1,7 @@
 # Gen Prog Reading List Sorted
 
 ## Misc
+
     > see "Challenge & Projects" section of "Learning" tab
 * [leachim6/hello-world](https://github.com/leachim6/hello-world)
 * [rosetta.alhur.es/](https://rosetta.alhur.es/)
@@ -11,29 +12,27 @@
 * [Clean Code - Uncle Bob - all lessons](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
 * [pslmodels.github.io/Git-Tutorial/content/intro.html](https://pslmodels.github.io/Git-Tutorial/content/intro.html)
 * [dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
-
 * [MLOps vs. DevOps: the similarities and differences](https://www.datasciencecentral.com/profiles/blogs/mlops-vs-devops-the-similarities-and-differences)
 * [Как разобраться в Computer Science самостоятельно](https://vk.com/@weekkey-kak-razobratsya-v-computer-science-samostoyatelno)
-
-Geogrebra, SymPy, P5.js, Processing lang
-
-→ [awesome-github](https://github.com/fffaraz/awesome-github) - Faraz Fallahi maintains a curated list of GitHub & Git resources.
+* Geogrebra, SymPy, P5.js, Processing lang
+* → [awesome-github](https://github.com/fffaraz/awesome-github) - Faraz Fallahi maintains a curated list of GitHub & Git resources.
 * [Is your PC hacked? RAM Forensics with Volatility](https://www.youtube.com/watch?v=VK3fvNFGAzE)
 * [wsgac](https://github.com/wsgac)
 * [pdelfino.com.br/](http://www.pdelfino.com.br/)
 * [dioptricdesign.com/](https://www.dioptricdesign.com/)
 
 ## Dev and LLM
+
 * [How to learn to code FAST using ChatGPT (it's a game](https://www.youtube.com/watch?v=VznoKyh6AXs)
 * [ChatGPT Tutorial for Developers - 38 Ways to 10x Your Productivity Programming with Mosh Programming with Mosh Verificada • • 838.254 visualizaciones hace 11 días](https://www.youtube.com/watch?v=sTeoEFzVNSc)
 
 ## Practice
-* [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) *****
+
+* [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) 
 * [7 Habits I've Picked Up From Senior Software Developers](https://youtu.be/zivngNtLiuY)
 
-
 ## Privacy and Cryptography
-    using VPNs for privacy.
+
 * [kssytsrk/nx-freestance-handler: nx-freestance-handler, a redirector from the mainstream sites (Youtube, Twittter, Instagram, Reddit) to their privacy-supporting mirrors](https://github.com/kssytsrk/nx-freestance-handler)
 * [20 most secure email providers to use in 2023 - PrivacySavvy](https://privacysavvy.com/email/best/secure-email-providers/)
 * [10 Best Private and Secure Email Services for 2023](https://restoreprivacy.com/email/secure/)
@@ -46,18 +45,19 @@ Geogrebra, SymPy, P5.js, Processing lang
 * [Ditch VSCode Spyware For VSCodium](https://youtu.be/iq6hbY_fzYg)
 * [joinpeertube.org/](https://joinpeertube.org/)
     Gnoppix
-    AdBlocker Ultimate    * [RSA (cryptosystem) - Wikipedia](https://en.wikipedia.org/wiki/RSA_(cryptosystem))    * [Rabin fingerprint - Wikipedia](https://en.wikipedia.org/wiki/Rabin_fingerprint)
+* {    AdBlocker Ultimate   } [RSA (cryptosystem) - Wikipedia](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
+* [Rabin fingerprint - Wikipedia](https://en.wikipedia.org/wiki/Rabin_fingerprint)
 
 ## Langs / Compiler / Interpreter / Parser
+
 * [hackaday.com/2022/11/27/create-a-compiler-step-by-step/](https://hackaday.com/2022/11/27/create-a-compiler-step-by-step/)
 * [tlbh.it/005_parsers.html](https://tlbh.it/005_parsers.html)
 * [transpiler/awesome-transpiler](https://github.com/transpiler/awesome-transpiler)
 * [konchunas/pyrs](https://github.com/konchunas/pyrs)
 * [ralfbiedert/interoptopus: The polyglot bindings generator for your library (C#, C, Python, …) 🐙](https://github.com/ralfbiedert/interoptopus)
 
-
-
 ## Git
+
 * [Git tutorial — Tuto git](https://gdevops.gitlab.io/tuto_git/index.html)
 * [dzone.com/refcardz/git-patterns-and-anti-patterns](https://dzone.com/refcardz/git-patterns-and-anti-patterns)
 * [interrupt.memfault.com/blog/pre-commit](https://interrupt.memfault.com/blog/pre-commit)
@@ -71,8 +71,8 @@ Geogrebra, SymPy, P5.js, Processing lang
 * [git - How to override a rule set in .gitignore - Stack Overflow](https://stackoverflow.com/questions/24844782/how-to-override-a-rule-set-in-gitignore)
 * [atlassian.com/git/tutorials/git-subtree](https://www.atlassian.com/git/tutorials/git-subtree)
 
-
 ## Aesthetics
+
 * [academia.edu/24948341/THE_ROLE_OF_AESTHETICS_IN_SOFTWARE_DESIGN_DEVELOPMENT_AND_EDUCATION](https://www.academia.edu/24948341/THE_ROLE_OF_AESTHETICS_IN_SOFTWARE_DESIGN_DEVELOPMENT_AND_EDUCATION)
 * [monoskop.org/images/f/f1/Cox_McLean_Ward_2004_Coding_Praxis_Reconsidering_the_Aesthetics_of_Code.pdf](https://monoskop.org/images/f/f1/Cox_McLean_Ward_2004_Coding_Praxis_Reconsidering_the_Aesthetics_of_Code.pdf)
 * [softdevtube.com/2015/11/24/aesthetics-and-the-evolution-of-code/](https://www.softdevtube.com/2015/11/24/aesthetics-and-the-evolution-of-code/)
@@ -80,8 +80,8 @@ Geogrebra, SymPy, P5.js, Processing lang
 * [Aesthetics and the Evolution of Code - Coraline Ada Ehmke](https://www.youtube.com/watch?v=qmBL4THJtuM)
 * [theorangeduck.com/page/aesthetics-code](https://theorangeduck.com/page/aesthetics-code)
 
-
 ## Practice
+
 * [Agile Prozesse: Von XP über Scrum bis MAP](http://library.lol/main/0B20DE63B5B435BE2FE48A00E1A2AE38)
 * [Maîtrise d'ouvrage des projets informatiques - 4e éd. : La responsabilité métier tournée vers l'agile](http://library.lol/main/316C50DF83379B5DC7CAEFB1BDF325DD)
 * [Scrum - 4e éd.- Le guide pratique de la méthode agile la plus populaire](http://library.lol/main/C432EA82B8B6E866C14671D471D44D44)
@@ -94,21 +94,21 @@ Geogrebra, SymPy, P5.js, Processing lang
 * [Постигая Agile: ценности, принципы, методологии](http://library.lol/main/917A0BDC7B2D9C989D419ABEA2F7C2B0)
 * [Código Limpo: Habilidades Práticas do Agile Software](http://library.lol/main/887A3FBF9FDB69AB5F1604F7B2A680E8)
 * [Scrum. Praktyczny przewodnik po najpopularniejszej metodyce Agile](http://library.lol/main/FDC5357B7D39AEAD1CD064F410CC210E)
-    Jira Book    * [Architecting for Scale: How to Maintain High Availability and Manage Risk in the Cloud](http://library.lol/main/903C9F6FC42748423D2109B8452EDF50)
-
+* {    Jira Book   } [Architecting for Scale: How to Maintain High Availability and Manage Risk in the Cloud](http://library.lol/main/903C9F6FC42748423D2109B8452EDF50)
 
 ## Graphics
+
     Fundamentals of Computer Graphics
     Computer Graphics : From Pixels to Programmable Graphics Hardware
     Vector Analysis for Computer Graphics
     Image Objects: An Archaeology of Computer Graphics
     Introduction to Flat Panel Displays
-* [](https://www.youtube.com/results?search_query=monitor+calibration)
+* [video](https://www.youtube.com/results?search_query=monitor+calibration)
     Optimizing the Display and Interpretation of Data
 * handbook of Visual Display Technology
 
-
 ## Media
+
 * [thenextweb.com/](https://thenextweb.com/)
 * [bbvaopenmind.com/](https://www.bbvaopenmind.com/)
 * [increment.com/](https://increment.com/)
@@ -121,8 +121,8 @@ Geogrebra, SymPy, P5.js, Processing lang
 * [Zip](https://podcast.ru/1608873219)
 * [studio.ribbonfarm.com/](https://studio.ribbonfarm.com/)
 
-
 ## Boot
+
     Изучаем BIOS
 * [Hands-on Booting: Learn the Boot Process of Linux, Windows, and Unix](http://library.lol/main/92909EA7B3B12F3D742F5D1D7EA8FA6E)
 * [Секреты BIOS](http://library.lol/main/B51F2CA8EA16EAFE1CEB8A88CC29B1E2)
@@ -131,8 +131,8 @@ Geogrebra, SymPy, P5.js, Processing lang
 * [Оптимизация BIOS. Полный справочник по всем параметрам BIOS и их настройкам](http://library.lol/main/781E147CFAAE02B047A815F8EB5F7A43)
 * [Harnessing the Uefi Shell: Moving the Platform Beyond Dos](http://library.lol/main/9F60269484B41B81E4CCCE4FD78C05E7)
 
-
 ## Math Expression Parsing
+
 * [→](https://github.com/beltoforion/muparserx)
 * [→](https://www.geeksforgeeks.org/parsing-string-of-symbols-to-expression/)
 * [→](https://github.com/beltoforion/muparser)
@@ -149,6 +149,7 @@ Geogrebra, SymPy, P5.js, Processing lang
 * [→](https://pretagteam.com/question/how-to-parse-a-mathematical-expression-given-as-a-string-and-return-a-number-duplicate)
 
 ## Encodings
+
 * [\xc5\xa0 - Поиск в Google](https://www.google.com/search?q=%5Cxc5%5Cxa0&rlz=1C1GCEA_enUS814US814&oq=%5Cxc5%5Cxa0&aqs=chrome..69i57j69i58j0.2623j0j7&sourceid=chrome&ie=UTF-8)
 * [Character Encoding Recommendation for Languages | Scratchpad | FANDOM powered by Wikia](http://scratchpad.wikia.com/wiki/Character_Encoding_Recommendation_for_Languages)
 * [Handling Non-English Text in Python](https://graduate.artsci.wustl.edu/files/graduatepages/imce/constanza/cfs_methodsworkshop_python.pdf)
@@ -173,6 +174,7 @@ Geogrebra, SymPy, P5.js, Processing lang
 * [Explain it like I'm five: Python and Unicode? : Python](https://www.reddit.com/r/Python/comments/1g62eh/explain_it_like_im_five_python_and_unicode/)
 
 ## Quantum
+
 * [Grundlegende Algorithmen: Einführung in den Entwurf und die Analyse effizienter Algorithmen](https://b-ok.cc/book/2099038/13eab0)
 * [A Beginner’s Guide To Quantum Computing - YouTube](https://www.youtube.com/watch?v=JRIPV0dPAd4)
 * [Elements of Quantum Computing: History, Theories and Engineering Applications | Seiki Akama (auth.) | download](http://b-ok.cc/book/2465803/070eed)
@@ -201,11 +203,12 @@ Geogrebra, SymPy, P5.js, Processing lang
 * [The Mathematics of Quantum Computers | Infinite Series](https://www.youtube.com/watch?v=IrbJYsep45E&list=WL&index=371)
 * Will Quantum Computers break encryption?
 * [Квантовая информатика](https://vk.com/wall-51126445_41509)
-* [Quantum Computing for Computer Architects (Synthesis Lectures on Computer Architecture)](http://library.lol/main/A7EE4D629BCD17740B77B8AC0082BB48)
-* [Quanteninformation (Bruß)](http://library.lol/main/A7EE4D629BCD17740B77B8AC0082BB48)
+* [Quantum Computing for Computer Architects (Synthesis Lectures on Computer Architecture)
+* [Quanteninformation (Bruß)
 * [Morgan Claypool Quantum Computer Science](http://library.lol/main/73A9FCFC6E91EA1D0A97CE2C7041343F)
 
 ## History
+
 * Who Invented the Computer?
 * [Computer History Online](http://www.weller.to/)
 * [Computergeschichte - YouTube - YouTube](https://www.youtube.com/playlist?list=PLC3B4155A75F91B07)
@@ -223,16 +226,16 @@ Geogrebra, SymPy, P5.js, Processing lang
 * [lmz-bw.de/geschichte-computer.html](https://www.lmz-bw.de/geschichte-computer.html)
 * [planet-wissen.de/technik/computer_und_roboter/geschichte_des_computers/index.html](https://www.planet-wissen.de/technik/computer_und_roboter/geschichte_des_computers/index.html)
 * [thoughtco.com/history-of-computers-4082769](https://www.thoughtco.com/history-of-computers-4082769)
-* [](https://www.youtube.com/playlist?list=PLC3B4155A75F91B07)
-* [](https://www.youtube.com/watch?v=a8Q2xpI7hbs)
-* [](https://www.youtube.com/watch?v=ATxKmDHfWWI)
-* [](https://www.youtube.com/watch?v=F3qWg1JBPZg)
-* [](https://www.youtube.com/watch?v=gZxyb2Efrcg)
-* [](https://www.youtube.com/watch?v=h1wRsbwnvDI)
-* [](https://www.youtube.com/watch?v=lsAeTXNQyIA)
-* [](https://www.youtube.com/watch?v=mFdUqqwzbVs)
-* [](https://www.youtube.com/watch?v=nBXv3SDZziE)
-* [](https://www.youtube.com/watch?v=Sx1Z_MGwDS8)
+* [video](https://www.youtube.com/playlist?list=PLC3B4155A75F91B07)
+* [video](https://www.youtube.com/watch?v=a8Q2xpI7hbs)
+* [video](https://www.youtube.com/watch?v=ATxKmDHfWWI)
+* [video](https://www.youtube.com/watch?v=F3qWg1JBPZg)
+* [video](https://www.youtube.com/watch?v=gZxyb2Efrcg)
+* [video](https://www.youtube.com/watch?v=h1wRsbwnvDI)
+* [video](https://www.youtube.com/watch?v=lsAeTXNQyIA)
+* [video](https://www.youtube.com/watch?v=mFdUqqwzbVs)
+* [video](https://www.youtube.com/watch?v=nBXv3SDZziE)
+* [video](https://www.youtube.com/watch?v=Sx1Z_MGwDS8)
 * [La Historia del Computador - YouTube](https://www.youtube.com/watch?v=h1wRsbwnvDI)
 * [LMZ: Geschichte des Computers](https://www.lmz-bw.de/geschichte-computer.html)
 * [Turing machine - Wikipedia](https://en.wikipedia.org/wiki/Turing_machine)
@@ -272,12 +275,10 @@ Geogrebra, SymPy, P5.js, Processing lang
 * [(7) Historia do computador em minutos - YouTube](https://www.youtube.com/watch?v=F3qWg1JBPZg)
 
 
-
-
 ## Regex
 
-
 ### * RegEx and the limits of Reg Langs
+
 * [python - reference length of regular expression group - Stack Overflow](https://stackoverflow.com/questions/42423601/reference-length-of-regular-expression-group)
 * [Regular expression - Wikipedia](https://en.wikipedia.org/wiki/Regular_expression)
 * [Limitations of Regular Expressions](http://www.yaldex.com/javascript_tutorial_2/LiB0059.html)
@@ -322,8 +323,9 @@ Geogrebra, SymPy, P5.js, Processing lang
 * [Regex Match equal amount of two characters - Stack Overflow](https://stackoverflow.com/questions/39704916/regex-match-equal-amount-of-two-characters)
 * [RegEx source](https://bitbucket.org/mrabarnett/mrab-regex/src/default/regex_3/_regex_core.py)
 * [Regex Tutorial - The Question Mark Makes the Preceding Token Optional](http://www.regular-expressions.info/optional.html)
-*
+
 ## Misc
+
 * [Kubernetes for Full-Stack Developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
 * [freecodecamp.org/news/the-docker-handbook/](https://www.freecodecamp.org/news/the-docker-handbook/)
 * [Best Developer Tools for 2021](https://www.gitkraken.com/reports/best-developer-tools-2021)
@@ -340,12 +342,13 @@ Geogrebra, SymPy, P5.js, Processing lang
 * OpenGL
 * [Future Computers Will Be Radically Different (Analog Computing) - YouTube](https://www.youtube.com/watch?v=GVsUOuSjvcg)
 
-
 ## Docker and k8s
+
 * [A tour of the Kubernetes source code - IBM Developer](https://developer.ibm.com/articles/a-tour-of-the-kubernetes-source-code/)
 * [COMO ENTENDER E UTILIZAR DOCKER?](https://youtu.be/OIKhrLozFMg)
 * [Docker – Tutorial, Folge 2: Docker installieren (Linux) // deutsch - YouTube](https://www.youtube.com/watch?v=-UNAvc9jOsw&list=PL6QrD7_cU23li4myvLoicA663wx1bmzQi&index=4&t=16s)
-* [](https://github.com/raffraffraff/docker-remarkable)    * [Docker на практике](http://libgen.rs/book/index.php?md5=24BEFCB16ADE6A3D458174AB8F0919FC)
+* [...](https://github.com/raffraffraff/docker-remarkable)
+* [Docker на практике](http://libgen.rs/book/index.php?md5=24BEFCB16ADE6A3D458174AB8F0919FC)
 * [Docker can slow down your code and distort your benchmarks](https://pythonspeed.com/articles/docker-performance-overhead/)
 * [The Docker & Container Ecosystem | The New Stack](https://thenewstack.io/ebooks/docker-and-containers/the-docker-container-ecosystem/)
 * [Three Ways to Create Dockernized LaTeX Environment | by Shinichi Okada | Towards Data Science](https://towardsdatascience.com/three-ways-to-create-dockernized-latex-environment-2534163ee0c4)
@@ -354,8 +357,8 @@ Geogrebra, SymPy, P5.js, Processing lang
 * [towardsdatascience.com/how-to-properly-use-the-gpu-within-a-docker-container-4c699c78c6d1](https://towardsdatascience.com/how-to-properly-use-the-gpu-within-a-docker-container-4c699c78c6d1)
 * [freecodecamp.org/news/build-your-on-custom-container-without-docker/](https://www.freecodecamp.org/news/build-your-on-custom-container-without-docker/)
 
-
 ## Paradigms and Language Comparison
+
 * [4 Programming Paradigms In 40 Minutes - YouTube](https://www.youtube.com/watch?v=cgVVZMfLjEI)
 * [P vs. NP and the Computational Complexity Zoo - YouTube](https://www.youtube.com/watch?v=YX40hbAHx3s&t=32s)
 * [Lambda Calculus - Computerphile - YouTube](https://www.youtube.com/watch?v=eis11j_iGMs)
@@ -374,11 +377,13 @@ Geogrebra, SymPy, P5.js, Processing lang
 * [Функциональное программирование | Евгений Кирпичёв](https://www.youtube.com/watch?v=jEozVIGSDMU&list=PL-_cKNuVAYAWoMkUIhmaiJihYxirYrLbc)
 
 ## Anki
+
 * [Janki Method Refined | Jack Kinsella](http://www.jackkinsella.ie/articles/janki-method-refined)
 * [Janki Method | Jack Kinsella](http://www.jackkinsella.ie/articles/janki-method)
 * [Ospalh’s Anki2 addons](https://ospalh.github.io/anki-addons/)
 
 ### *Streamlining Anki with LaTeX | cathy wu
+
 * [scaling - Anki: Displayed size does not match specified size - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/394311/anki-displayed-size-does-not-match-specified-size)
 * [fontsize - Anki - LaTeX, Math Font Size, & DeclareMathSizes - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/108418/anki-latex-math-font-size-declaremathsizes)
 * [Decks - AnkiWeb](https://ankiweb.net/decks/)
@@ -410,6 +415,7 @@ Geogrebra, SymPy, P5.js, Processing lang
 * [Sparkle - Anki Flashcards to facilitate your programming mastery](https://www.reddit.com/r/Anki/comments/d6rdk1/sparkle_anki_flashcards_to_facilitate_your/)
 
 ### **Anki machen (+ar. Verbforme): Stammform (Verb) – Wikipedia
+
 * [Probability Theory and Mathematical Statistics - AnkiWeb](https://ankiweb.net/shared/info/1296010623)
 * [基本数学术语 Fundamental Math Vocabulary: English–Chinese - AnkiWeb](https://ankiweb.net/shared/info/1225334140)
 * Mathematical Statistics
@@ -422,7 +428,8 @@ Geogrebra, SymPy, P5.js, Processing lang
 * Analysis
 * Diff EQ
 
-## OS    * [Linux: a Portable Operating System (Master of Science Thesis)](http://libgen.li/ads.php?md5=5a9073ee2d3bb0d68f5895857e9cf9ca)
+## OS    * [Linux: a Portable Operating System (Master of Science Thesis)
+
 * [Linux: This Book Includes 4 Manuscripts. The Underground Bible to the UNIX Operating System with Tools On Security and Kali Hacking to Understand Computer Programming, Data Science and Command Line](http://libgen.li/ads.php?md5=9cc7a6d227d5363a7e9036a8ec9893e4)
 * [Linux for Beginners: The Ultimate Practical Guide to Operating System, Command Line and Programming. Improve your Computer Skills and Become a Computing Expertise.](http://libgen.li/ads.php?md5=76aec583971f5b63f96a97a3c08a5725)
 * [Linux Operating System: Introduction To Linux Operating System: Linux System Administrator](http://libgen.li/ads.php?md5=ef4dd51b6564eac0ecab1d8f53c753ea)
@@ -442,16 +449,16 @@ Geogrebra, SymPy, P5.js, Processing lang
 * [main-qimg-0a42529bf99de9597196b4c910128189-c (JPEG Image, 775 × 493 pixels)](https://qph.cf2.quoracdn.net/main-qimg-0a42529bf99de9597196b4c910128189-c)
 * [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket)
 
-
 ## Meta Topics
+
 * [ImNotGoodEnough.js - YouTube](https://www.youtube.com/watch?v=6TYkDy54q4E)
 * [golem.de/news/arbeit-in-der-it-depression-vorprogrammiert-2209-167567.html](https://www.golem.de/news/arbeit-in-der-it-depression-vorprogrammiert-2209-167567.html)
 * [Как устроена IT-столица мира / Russian Silicon Valley (English subs)](https://www.youtube.com/watch?v=9lO06Zxhu88)
 * [builtin.com/data-science/career-advancement-coding](https://builtin.com/data-science/career-advancement-coding)
 * [14 Hard Lessons After 14 Years Of Software Development](https://youtu.be/iF0ntBn6NdA)
 
-
 ## Links to follow
+
 * [Как разобраться в Computer Science самостоятельно](https://vk.com/@tproger-computer-science-step-by-step)
 * [Как разобраться в Computer Science самостоятельно](https://vk.com/@tproger-computer-science-step-by-step)
 * [awesome-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
@@ -466,6 +473,7 @@ Geogrebra, SymPy, P5.js, Processing lang
 * [Cours/Formations informatique à télécharger](https://www.cours-gratuit.com/)
 
 ## Regex
+
 * [open source alternative to regex buddy - Google Search](https://www.google.com/search?client=firefox-b-d&q=open+source+alternative+to+regex+buddy)
 * [Open Source RegexBuddy Alternatives - Page 2 | AlternativeTo](https://alternativeto.net/software/regexbuddy/?license=opensource&p=2)
 * [RegExr: App Reviews, Features, Pricing & Download | AlternativeTo](https://alternativeto.net/software/regexr/about/)
@@ -480,8 +488,8 @@ Geogrebra, SymPy, P5.js, Processing lang
 * [Scriptular: App Reviews, Features, Pricing & Download | AlternativeTo](https://alternativeto.net/software/scriptular/about/)
 * [docs.rs/regex/latest/regex/](https://docs.rs/regex/latest/regex/)
 
-
 ## Algorithms
+
 * [Introduction to Algorithms, Third Edition](https://www.youtube.com/watch?v=P_YNGE4mbE8&list=PL-_cKNuVAYAUV2ChK_qb93NDXe7CDYv-P)
 * [Algorithmen verstehen](https://www.youtube.com/channel/UCswWBF6ZkGnLG3sLRR65xRw)
 * [o8vm/ods](https://github.com/o8vm/ods)
@@ -496,7 +504,6 @@ Geogrebra, SymPy, P5.js, Processing lang
 * [Algorithms and Data Structures: The Basic Toolbox | Kurt Mehlhorn, Peter Sanders | download](https://de1lib.org/book/502920/9ee1bd)
 * [Algorithms and Data Structures: The Science of Computing | Douglas Baldwin, Greg W. Scragg | download](https://de1lib.org/book/458728/02aa4c)
 * [The Constitution of Algorithms: Ground-Truthing, Programming, Formulating | Florian Jaton | download](https://de1lib.org/book/16423182/7d5aa4?dsource=recommend)
-
 * [Algorithms through Puzzles](https://drive.google.com/file/d/19YhWHo6-J8pK7_HVaB9sEwDly7FRFOse/view?usp=sharing)
 * [Quickselect - Wikipedia](https://en.wikipedia.org/wiki/Quickselect)
 * Tree Implementation
@@ -528,14 +535,15 @@ Geogrebra, SymPy, P5.js, Processing lang
 * [algorist.com/](http://www.algorist.com/)
 * [The Fast Fourier Transform (FFT): Most Ingenious Algorithm Ever? - YouTube](https://www.youtube.com/watch?v=h7apO7q16V0)
     1. Алгоритмы и структуры данных. Введение | Технострим
-* [](https://www.youtube.com/watch?v=kPRA0W1kECg&list=WL&index=528)    * [](https://www.youtube.com/watch?v=qTRW7ELhhME&list=WL&index=1372)
+* [...](https://www.youtube.com/watch?v=qTRW7ELhhME&list=WL&index=1372)
 * [algor](https://vk.com/wall-16108331_143570)
     Algorithm Design Manual
 * [Algorithmen DE](https://visualgo.net/de)
 * [Algorithmic Game Theory](https://b-ok.cc/book/1175211/2a7be7)
 * [Algorithmique : Techniques fondamentales de programmation | Sébastien Rohaut | download](https://b-ok.cc/book/1236005/463716)
 * [Algorithms (Sedgewick & Wayne)](https://algs4.cs.princeton.edu/home/)
-* [Algorithms 4E Sedgewick](https://algs4.cs.princeton.edu/home/)    * [Algorithms Course - Graph Theory Tutorial from a Google Engineer](https://www.youtube.com/watch?v=09_LlHjoEiY&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=59)
+* [Algorithms 4E Sedgewick](https://algs4.cs.princeton.edu/home/)
+* [Algorithms Course - Graph Theory Tutorial from a Google Engineer](https://www.youtube.com/watch?v=09_LlHjoEiY&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=59)
 * [Algorithms for programmers: ideas and source code | Arndt J. | download](https://b-ok.cc/book/437076/eef026)
 * [Algorithms in a Nutshell: A Practical Guide | George T. Heineman, Gary Pollice, Stanley Selkow | download](https://b-ok.cc/book/2694702/1d9a2b)
 * [Algorithms In Machine Learning Paradigms](http://93.174.95.29/main/2CABB01CD817B32B1DAC33EB4412D63B)
@@ -544,10 +552,11 @@ Geogrebra, SymPy, P5.js, Processing lang
 * [Blog Cyberini: Algoritmos](https://www.blogcyberini.com/search/label/Algoritmos?max-results=10)
 * [Data Structures and Algorithm Analysis in C++, 3rd Edition | Dr. Clifford A. Shaffer | download](https://b-ok.cc/book/1192132/4f6da2)
 * [Data Structures and Algorithms in C++ | Adam Drozdek | download](https://b-ok.cc/book/2315271/c157bc)
-* [](https://www.youtube.com/watch?v=oSWTXtMglKE&list=WL&index=377)
+* [video](https://www.youtube.com/watch?v=oSWTXtMglKE&list=WL&index=377)
 * [Encyclopedia of Algorithms | Ming-Yang Kao (Editor) | download](https://b-ok.cc/book/2802275/b0a515)
 * [Encyclopedia of information science and technology | Mehdi Khosrow-Pour | download](https://b-ok.cc/book/436960/1612ca?dsource=recommend)
-* [Foundations of Discrete Mathematics with Algorithms and Programming | Sriraman Sridharan, R. Balakrishnan | download](https://b-ok.cc/book/3629818/559c96?dsource=recommend)    * [How Binary Search Makes Computers Much, Much Faster](https://www.youtube.com/watch?v=KXJSjte_OAI&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=64)
+* [Foundations of Discrete Mathematics with Algorithms and Programming | Sriraman Sridharan, R. Balakrishnan | download](https://b-ok.cc/book/3629818/559c96?dsource=recommend)
+* [How Binary Search Makes Computers Much, Much Faster](https://www.youtube.com/watch?v=KXJSjte_OAI&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=64)
 * [How to Think About Algorithms](https://book4you.org/book/502895/e12dac?dsource=recommend)
 * [jeffe.cs.illinois.edu/teaching/algorithms/](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 * [coursera.org/specialization/algorithms](https://coursera.org/specialization/algorithms)
@@ -561,8 +570,9 @@ Geogrebra, SymPy, P5.js, Processing lang
     pykg2vec
 * [Stepik - Математическая логика и теория алгоритмов](https://stepik.org/course/48679)
 * [subsequence matching algorithms - Поиск в Google](https://www.google.com/search?q=subsequence+matching+algorithms&rlz=1C5CHFA_enUS800US800&oq=subsequence+matching+algorithms&aqs=chrome..69i57j0l2.4970j0j9&sourceid=chrome&ie=UTF-8)
-* [The Algorithm Design Manual](http://www.algorist.com/)    * [Timo Bingmann](https://www.youtube.com/c/TimoBingmann)
-    TinkerPop    * [](https://www.youtube.com/watch?v=TPpWvpnQq5s&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=54)
+* [The Algorithm Design Manual](http://www.algorist.com/)
+* [Timo Bingmann](https://www.youtube.com/c/TimoBingmann)
+* {    TinkerPop   } [video](https://www.youtube.com/watch?v=TPpWvpnQq5s&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=54)
 * [Алгоритмические применения древесных декомпозиций | Федор Фомин](https://www.youtube.com/watch?v=F1Wml6ayRpY&list=PL-_cKNuVAYAVc-vBx2fQnjy7F18vzi9NK)
 * [Алгоритмы для NP-трудных задач](https://www.youtube.com/watch?v=P_YNGE4mbE8&list=PL-_cKNuVAYAUV2ChK_qb93NDXe7CDYv-P)
 * [Алгоритмы для NP-трудных задач (2013)](https://www.youtube.com/watch?v=QBS1N9LU4tI&list=PL-_cKNuVAYAWpKLONs_YYrEwH7KrSPn9u)
@@ -582,7 +592,7 @@ Geogrebra, SymPy, P5.js, Processing lang
     Алгоритмы. Справочник с примерами на C, C++, Java и Python
 * [Курс "Алгоритмы и структуры данных"](https://vk.com/wall-16108331_150221)
 * [Матроиды и параметризованные алгоритмы](https://www.youtube.com/watch?v=yGMi6ObL25o&list=PL-_cKNuVAYAX-r648qpgkXXJ3hyW6VskQ)
-* [](https://www.youtube.com/watch?v=_J-3nt9bhbI&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=32)
+* [video](https://www.youtube.com/watch?v=_J-3nt9bhbI&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=32)
 * [Параметризованные алгоритмы](https://www.youtube.com/watch?v=LuhPRMn4SRQ&list=PL-_cKNuVAYAUTZWj2o-ZnPUM5yYrHYq51)
 * [Параметризованные алгоритмы](https://www.youtube.com/watch?v=xRqNxlrwXtg&list=PL-_cKNuVAYAUXg0Pv4xhL32qL5Igo7Lr-)
     Учись писать, читать и понимать алгоритмы, Паронджанов Владимир (2012)
@@ -591,6 +601,7 @@ Geogrebra, SymPy, P5.js, Processing lang
 * [The hidden beauty of the A* algorithm](https://youtu.be/A60q6dcoCjw)
 
 ## Tasks/Challenges
+
     E-olymp — один из крупнейших украинских сайтов для изучения информатики и подготовки к олимпиадам.
 * hackerRank — это социальная платформа, которая предлагает задания разной сложности по программированию. Запущена платформа была в 2012 году. Сейчас аудитория проекта насчитывает около полутора миллиона пользователей. Статистику по результатам решений заданий своими пользователями ресурс регулярно публикует в виде рейтинга по 50 странам.
     Coderbyte — предлагает 200+ соревновательных задач, которые вы можете решать в онлайн-редакторе, используя 10 различных языков программирования. Вы сможете ознакомиться с официальными решениями для некоторых задач, а также найти более 800 тысяч пользовательских решений. Coderbyte рекомендован командами многих известных образовательных курсов по программированию благодаря коллекции задач, полезных для подготовки к собеседованию.
@@ -603,9 +614,7 @@ Geogrebra, SymPy, P5.js, Processing lang
     CodeChef — это некоммерческая образовательная инициатива индийской софтверной компании. Это глобальное сообщество программистов, объединенное целью обучения и дружеской конкуренции в рамках платформы для соревновательного программирования. Каждый месяц CodeChef проводит три конкурса и раздает призы победителям в качестве поощрения.
     GeeksforGeeks — имеет лучшую коллекцию статей, объяснений и решений по теме алгоритмов и структурам данных. По ссылке вы можете увидеть пример того, как сложный вопрос разбивается на более простые части, объяснение и код решения. Если вы готовитесь к собеседованию, советуем вам использовать этот сайт, чтобы подготовиться и освежить сложные темы в изучении алгоритмов.
     Codeforces — российская платформа для соревнований по программированию, на которой регулярно проводятся турниры, в которых участвуют одни из лучших программистов в мире. Если вы начинающий кодер, задания, скорее всего, будут слишком сложны для вас — вот пример из недавнего соревнования. Для решения этих задач обычно требуются передовые знания в области математики и алгоритмов. Цель Codeforces — предложить разработчикам удобную платформу для создания, проведения и обсуждения соревнований по программированию.
-
-
-* [****Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
+* [ Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 * [> By language](http://rosettacode.org/wiki/Category:Programming_Languages)
 * [> By task](http://rosettacode.org/wiki/Category:Programming_Tasks)
 * [Exercism](https://exercism.io/)
@@ -649,6 +658,7 @@ Geogrebra, SymPy, P5.js, Processing lang
 * [Coding Project Solutions](https://github.com/karan/Projects-Solutions/blob/master/README.md)
 
 ## Parsing
+
 * [rainingcomputers.blog/dist/the_path_to_implementing_a_programming_language.md](https://rainingcomputers.blog/dist/the_path_to_implementing_a_programming_language.md)
 * [dailystuff.nl/projects/writing-a-6502-emulator-in-python](https://dailystuff.nl/projects/writing-a-6502-emulator-in-python)
 * [kernal.eu/about/](https://kernal.eu/about/) (small hacker collective)
@@ -660,41 +670,30 @@ Geogrebra, SymPy, P5.js, Processing lang
 * [Parsing - Wikipedia](https://en.wikipedia.org/wiki/Parsing)
 * [eugenp/tutorials](https://github.com/eugenp/tutorials)
 * [travisstaloch/pegzi](https://github.com/travisstaloch/pegzi)
-
-parsers (from Neso Academy video)
-
-top-down, with backtracking → brute forcing
-
-top-down, without backtracking → recursive descent parsers
-
-top-down, without backtracking → predive parsers LL(1)
-
-top-down, without backtracking → predive parsers LL(k)
-
-bottom-up, operator precedence parsers
-
-bottom-up, LR parsers → LR(0)
-
-bottom-up, LR parsers → SLR(1)
-
-bottom-up, LR parsers → LALR(1)
-
-bottom-up, LR parsers → CLR(1)
+* parsers (from Neso Academy video)
+* top-down, with backtracking → brute forcing
+* top-down, without backtracking → recursive descent parsers
+* top-down, without backtracking → predive parsers LL(1)
+* top-down, without backtracking → predive parsers LL(k)
+* bottom-up, operator precedence parsers
+* bottom-up, LR parsers → LR(0)
+* bottom-up, LR parsers → SLR(1)
+* bottom-up, LR parsers → LALR(1)
+* bottom-up, LR parsers → CLR(1)
 * [fop.davidshekunts.ru/](https://fop.davidshekunts.ru/)
 * [8.pdf](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
 * [wiki.osdev.org/Main_Page](https://wiki.osdev.org/Main_Page)
 * [google.github.io/comprehensive-rust/welcome.html](https://google.github.io/comprehensive-rust/welcome.html)
-
-read Implementing Programming Languages
+* read Implementing Programming Languages
 * [Beck Testing Framework](https://web.archive.org/web/20150315073817/http://www.xprogramming.com/testfram.htm)
 * [add to neorg notes GLR parser - Wikipedia](https://en.wikipedia.org/wiki/GLR_parser)
 * [LALR parser - Wikipedia](https://en.wikipedia.org/wiki/LALR_parser)
 * [parglare](http://www.igordejanovic.net/parglare/0.16.0/)
-* [igordejanovic/parglare: A pure Python scannerless LR/GLR parser - [igordejanovic.net/parglare/](https://github.com/igordejanovic/parglare)](http://www.igordejanovic.net/parglare/](https://github.com/igordejanovic/parglare))
+* [igordejanovic/parglare: A pure Python scannerless LR/GLR parser - [igordejanovic.net/parglare/](https://github.com/igordejanovic/parglare)
 * [Six Commandments for Writing Good Code | Toptal®](https://www.toptal.com/software/six-commandments-of-good-code)
 * [Code Forum - Where your coding journey begins](https://codeforum.org/)
 * [Neso Academy - YouTube](https://www.youtube.com/@nesoacademy/playlists)
-* [****Compiler Design - YouTube](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q)
+* [ Compiler Design - YouTube](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q)
 * [Introduction to Parsers - YouTube](https://www.youtube.com/watch?v=OIKL6wFjFOo)
 * [How TRANSISTORS do MATH - YouTube](https://www.youtube.com/watch?v=VBDoT8o4q00)
 * [Parsing Algorithms - YouTube](https://www.youtube.com/playlist?list=PLGNbPb3dQJ_6aPNnlBvXGyNMlDtNTqN5I)
@@ -702,6 +701,7 @@ read Implementing Programming Languages
 * [Parsing - Computerphile - YouTube](https://www.youtube.com/watch?v=r6vNthpQtSI)
 
 ## testing
+
 * [List of unit testing frameworks - Wikipedia](https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#Haskell)
 * [HUnit: A unit testing framework for Haskell](https://hackage.haskell.org/package/HUnit)
 * [Top 9 JavaScript Testing Frameworks (2023 Updated) | BrowserStack](https://www.browserstack.com/guide/top-javascript-testing-frameworks)
@@ -710,16 +710,15 @@ read Implementing Programming Languages
 * [How to Write Tests - The Rust Programming Language](https://doc.rust-lang.org/book/ch11-01-writing-tests.html)
 
 ## Hacking
+
 * [Hacklog Volume 1 Anonimato: Manuale Sulla Sicurezza Informatica E Hacking Etico.pdf](https://en.de1lib.org/book/5489693/cb3730)
 * [Hacklog Volume 2 Web Hacking: Manuale sulla Sicurezza Informatica e Hacking Etico.pdf](https://en.de1lib.org/book/5489732/afec6e)
 * hacking
 * [Penetration Testing: A Hands-On Introduction to Hacking.pdf](https://en.de1lib.org/book/2482934/27a641)
 * [Mastering Reverse Engineering: Re-engineer your ethical hacking skills](https://en.de1lib.org/book/3675169/498647)
-
 * [¿Alguna vez te has preguntado cómo Bitcoin(y otras criptomonedas) realmente funcionan?](https://www.youtube.com/watch?v=bBC-nXj3Ng4&list=WL&index=403)
 * [¿Qué es eso del problema P versus NP?](https://www.youtube.com/watch?v=UR2oDYZ-Sao&list=WL&index=249)
 * [[общая семантика] О понятии абстрагирования](https://www.youtube.com/watch?v=ZtPNSuWwsnA&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=159)
-
 * commentaires de Ruddahbagga sur ELI5: What is information?
 * [/r/buildapc - Planning on building a computer but need some advice? This is the place to ask!](https://www.reddit.com/r/buildapc/)
 * [A Guide To Parsing: Algorithms And Terminology](https://tomassetti.me/guide-parsing-algorithms-terminology/)
@@ -776,24 +775,26 @@ read Implementing Programming Languages
 * [Создание децентрализованных приложений на блокчейн - Помощь в программировании искусственного интеллекта](https://craftappmobile.com/)
 
 ## Best Tips and Hacks
+
 * [careercutler.substack.com/p/the-top-7-software-engineering-workflow](https://careercutler.substack.com/p/the-top-7-software-engineering-workflow)
 * [careercutler.substack.com/](https://careercutler.substack.com/)
 * [Open Source Guides | Learn how to launch and grow your project.](https://opensource.guide/)
 
-
 ## general notes on programming languages
+
 * [cs.brown.edu/~adf/programming_languages.html](https://cs.brown.edu/~adf/programming_languages.html)
 * [onlinecollegeplan.com/computer-programming-languages/](https://www.onlinecollegeplan.com/computer-programming-languages/)
 
 ## Interview
+
 * [LeetCode Clean Code Handbook: 50 Common Interview Questions](http://library.lol/main/172F5D31191B965FE8CCB5A0F5BECD9A)
 * [Cloud Computing Questions](https://www.sanfoundry.com/1000-cloud-computing-questions-answers/)
 * [Object Oriented Programming Questions and Answers](https://www.sanfoundry.com/1000-object-oriented-programming-oops-questions-answers/)
 * [sanfoundry.com/](https://www.sanfoundry.com/)
 * [freecodecamp.org/news/10-common-coding-interview-problems-solved/](https://www.freecodecamp.org/news/10-common-coding-interview-problems-solved/)
 
-
 ## Gen * & CS
+
 * [In One Lesson - YouTube](https://www.youtube.com/@InOneLesson)
 * [How does Computer Hardware Work? 💻🛠🔬 [3D Animated Teardown] - YouTube](https://www.youtube.com/watch?v=d86ws7mQYIg)
 * [How a Computer Works - from silicon to apps - YouTube](https://www.youtube.com/watch?v=5f3NJnvnk7k)
@@ -802,8 +803,10 @@ read Implementing Programming Languages
 * [Library Genesis: John Ousterhout - Prinzipien des Softwaredesigns: Entwurfsstrategien für komplexe Systeme](https://libgen.is/book/index.php?md5=E7C19BD995D0D61BFC2C56FDBA200DCA)
 * [Category Theory for Programming](https://arxiv.org/pdf/2209.01259.pdf)
 * [Handouts](https://www.ics.uci.edu/~pattis/ICS-33/handouts.html)
-* [****hmemcpy/milewski-ctfp-pdf: Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source](https://github.com/hmemcpy/milewski-ctfp-pdf)
-* [Fundamentals of Software Architecture: An Engineering Approach](http://library.lol/main/6B74DC7529E0DA638669B04943B309B6) * [Linux: Das umfassende Handbuch](http://library.lol/main/ACC8321ABFC2CA38D1B2A1703DD0A2BA) * [64-Bit Assembler Programmierung unter Linux](https://www.thalia.de/shop/home/artikeldetails/A1058736107)
+* [ hmemcpy/milewski-ctfp-pdf: Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source](https://github.com/hmemcpy/milewski-ctfp-pdf)
+* [Fundamentals of Software Architecture: An Engineering Approach](http://library.lol/main/6B74DC7529E0DA638669B04943B309B6)
+* [Linux: Das umfassende Handbuch](http://library.lol/main/ACC8321ABFC2CA38D1B2A1703DD0A2BA)
+* [64-Bit Assembler Programmierung unter Linux](https://www.thalia.de/shop/home/artikeldetails/A1058736107)
 * [Linux. Der kompakte Grundkurs. So lernen Sie das Linux-System grundlegend kennen](https://www.thalia.de/shop/home/artikeldetails/A1060319206)
 * [heise.de/ratgeber/Programmieren-In-Assembler-hacken-wie-vor-40-Jahren-8928090.html](https://www.heise.de/ratgeber/Programmieren-In-Assembler-hacken-wie-vor-40-Jahren-8928090.html)
 Storytelling im UX-Design

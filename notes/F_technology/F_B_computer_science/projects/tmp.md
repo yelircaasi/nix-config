@@ -5,8 +5,7 @@
 * [medevel.com/cuekeeper/](https://medevel.com/cuekeeper/)
 * [pickfire/spt](https://github.com/pickfire/spt)
 * [orgmode.org/worg/org-contrib/](https://orgmode.org/worg/org-contrib/)
-
-* Elevate Your Task Management With Ease - YouTube [](https://www.youtube.com/watch?v=U4pGz4KI1J0&t=12s&pp=2AEMkAIB)
+* Elevate Your Task Management With Ease - YouTube [video](https://www.youtube.com/watch?v=U4pGz4KI1J0&t=12s&pp=2AEMkAIB)
 * [adnanh/webhook](https://github.com/adnanh/webhook)
 * [freedesktop.org/wiki/Software/dbus/](https://www.freedesktop.org/wiki/Software/dbus/)
 * [develop.kde.org/frameworks/kirigami//](https://develop.kde.org/frameworks/kirigami//)
@@ -85,7 +84,7 @@
 * [Paperspace Blog](https://blog.paperspace.com/)
 * [obsidian.md/](https://obsidian.md/)
 * [set up dvc with google drive - Google Search](https://www.google.com/search?client=firefox-b-d&q=set+up+dvc+with+google+drive)
-* [](https://www.youtube.com/watch?v=A1YgbAp5YRc)
+* [video](https://www.youtube.com/watch?v=A1YgbAp5YRc)
 * [Stuff I did - The stuff I do](https://www.statox.fr/projects/#)
 * [dashboard.heroku.com/account](https://dashboard.heroku.com/account) heroku backup XY047RVTHX H0RYMIZ36C VTU7G4K6YO IMDP455R7S P7EN0W7BZP NDWZ0FMG1L ECTT2W4552 ZTICQNARDY 7SUJG65VN8 J1B78S0QOR
 * [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
@@ -133,7 +132,7 @@
 * [matrix.org/ecosystem/sdks/](https://matrix.org/ecosystem/sdks/)
 * [f-droid.org/packages/com.github.gotify/](https://f-droid.org/packages/com.github.gotify/)
 * [anytype.io/](https://anytype.io/)
-* My GTD Emacs Workflow (Getting Things Done) - YouTube [](https://m.youtube.com/watch?v=92PCxH29UCo)
+* My GTD Emacs Workflow (Getting Things Done) - YouTube [...](https://m.youtube.com/watch?v=92PCxH29UCo)
 * [stackoverflow.com/questions/35250621/recursive-self-referencing-json-schema](https://stackoverflow.com/questions/35250621/recursive-self-referencing-json-schema)
 * [fortelabs.com/blog/test-driving-a-new-generation-of-second-brain-apps-obsidian-tana-and-mem/](https://fortelabs.com/blog/test-driving-a-new-generation-of-second-brain-apps-obsidian-tana-and-mem/)
 * [stackoverflow.com/questions/20752716/json-schema-recursive-schema-definition](https://stackoverflow.com/questions/20752716/json-schema-recursive-schema-definition)
@@ -164,7 +163,7 @@
 * [schmee/habu](https://github.com/schmee/habu)
 * [ ] [hugginsio/twig.nvim,](https://github.com/hugginsio/twig.nvim,) also a nvim plugin
 * [nvim-neorg/neorg/wiki/GTD-Queries/ba2cc1c5cf8c5ed0690e445f213e18c04ff4e157](https://github.com/nvim-neorg/neorg/wiki/GTD-Queries/ba2cc1c5cf8c5ed0690e445f213e18c04ff4e157)
-* [ ] [xwmx/nb](https://github.com/xwmx/nb) ***
+* [ ] [xwmx/nb](https://github.com/xwmx/nb) 
 * [ ] [pimutils/todoman](https://github.com/pimutils/todoman)
 * [Rigellute/spotify-tui/issues/732](https://github.com/Rigellute/spotify-tui/issues/732) for spotify-tui on rpi
 * [docs.spotifyd.rs/installation/Raspberry-Pi.html](https://docs.spotifyd.rs/installation/Raspberry-Pi.html)
@@ -205,7 +204,7 @@
 * [simplex-chat/simplex-chat/blob/stable/apps/simplex-bot-advanced/Main.hs](https://github.com/simplex-chat/simplex-chat/blob/stable/apps/simplex-bot-advanced/Main.hs)
 * [simplex.chat/blog/20231125-simplex-chat-v5-4-link-mobile-desktop-quantum-resistant-better-groups.html](https://simplex.chat/blog/20231125-simplex-chat-v5-4-link-mobile-desktop-quantum-resistant-better-groups.html)
 * SchildiChat [f-droid.org/packages/de.spiritcroc.riotx/](https://f-droid.org/packages/de.spiritcroc.riotx/)
-* Best Secure Messaging App | FBI Document Leaked - YouTube [](https://www.youtube.com/watch?v=wj-aR96FOA0&pp=ygUPU2lnbmFsIGNoYXQgYm90)
+* Best Secure Messaging App | FBI Document Leaked - YouTube [video](https://www.youtube.com/watch?v=wj-aR96FOA0&pp=ygUPU2lnbmFsIGNoYXQgYm90)
 * [types-jsonschema · PyPI](https://pypi.org/project/types-jsonschema/#history)
 * [nebokrai/.envrc at main · yelircaasi/nebokrai](https://github.com/yelircaasi/nebokrai/blob/main/.envrc)
 * [SSH and GPG keys](https://github.com/settings/keys)
@@ -214,13 +213,13 @@
 * [jeffsanders.com/the-7-essential-elements-of-productivity-element-4-planning/](https://www.jeffsanders.com/the-7-essential-elements-of-productivity-element-4-planning/)
 * [HedgeDoc - The best platform to write and share markdown.](https://hedgedoc.org/)
 * [hedgedoc/hedgedoc at blog.cloudron.io](https://github.com/hedgedoc/hedgedoc?ref=blog.cloudron.io)
-* [github.com/viseshrp/workedon](https://github.com/viseshrp/workedon)
+* [viseshrp/workedon](https://github.com/viseshrp/workedon)
 * [teloxide/teloxide](https://github.com/teloxide/teloxide)
 * [tools-life/taskwiki](https://github.com/tools-life/taskwiki)
 * [Ticketsystem: Znuny 7 als Open-Source-Alternative zu OTRS](https://www.heise.de/news/Ticketsystem-Znuny-7-als-Open-Source-Alternative-zu-OTRS-8969167.html)
 * (Telegram inline keyboard? Add [custom keyboard](https://www.google.com/search?q=add+custom+keyboard+to+android&sxsrf=APwXEde_qAYevpIXgyBDpVjjtVpsAK4Huw:1682273314975&source=lnt&tbs=qdr:y&sa=X&ved=2ahUKEwjvrOq6zMD-AhUCsaQKHZB0BsEQpwV6BAgBEAs&biw=1717&bih=845&dpr=1) for Telegram to include slash and numbers on basic keyboard? → not highest priority)
 * [npmjs.com/package/browser-sync](https://www.npmjs.com/package/browser-sync)
-* [Is there a plugin for seeing a live preview of HTML/CSS/JS?Reddithttps://www.reddit.com › neovim › comments › plggq3](https://www.reddit.com/r/neovim/comments/plggq3/is_there_a_plugin_for_seeing_a_live_preview_of/)
+* [Is there a plugin for seeing a live preview of HTML/CSS/JS?Reddit        [reddit.com](https://www.reddit.com) › neovim › comments › plggq3](https://www.reddit.com/r/neovim/comments/plggq3/is_there_a_plugin_for_seeing_a_live_preview_of/)
 * I use markdown-*preview*.*nvim* for getting a *live preview* when editing Markdown files. But is there something similar for web development?
 * [Is there a plugin for *live preview* my web projects on ... - Reddit](https://www.reddit.com/r/neovim/comments/uzqx2i/is_there_a_plugin_for_live_preview_my_web/)
 * [Live* Server plugin for *vim*/*nvim* : r/*neovim* - Reddit](https://www.reddit.com/r/neovim/comments/w86ash/live_server_plugin_for_vimnvim/)

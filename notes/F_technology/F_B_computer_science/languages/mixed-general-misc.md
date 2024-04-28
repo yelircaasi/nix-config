@@ -1,15 +1,13 @@
 # ProgrammingLangiages - Mixed, General, Miscellaneous
 
-How to add Lua plugins to a Haskell application? Rust? -> Haskell plugins for Haskell application?
-
+* How to add Lua plugins to a Haskell application? Rust? -> Haskell plugins for Haskell application?
 * Programming Languages - Hyperpolyglot
 
 ## CLI/TUI Building Libraries
-→ [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks)
 
-all ****** unless otherwise indicated
-
-JS
+* → [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks)
+* all * unless otherwise indicated
+* JS
  [npmjs.com/package/chalk](https://www.npmjs.com/package/chalk) - color library
 Python
  [google/python-fire](https://github.com/google/python-fire)
@@ -41,40 +39,34 @@ Rust
 
 [ceccopierangiolieugenio.github.io/pyTermTk/](https://ceccopierangiolieugenio.github.io/pyTermTk/)
 
-
 ## Sort
 
 ☒ GUI Development
  * $$ [azul.rs/](https://azul.rs/)
  * $$  [tauri.app/](https://tauri.app/)
- ******* [wxPython(https://wxpython.org/index.html)
- *******[qt/qtbase](https://github.com/qt/qtbase)
- ******* [GNOME/gtk](https://github.com/GNOME/gtk)
- ******* [ocornut/imgui](https://github.com/ocornut/imgui)
- ****** [tcl.tk/,](https://www.tcl.tk/,) tkinter
- **** PHP App Server: Create lightweight, installable almost-native applications for desktop OSes. ExecTerminal (nicely wraps the xterm.js Terminal), TerminalManager, and RunProcessSDK are self-contained, reusable ES5+ compliant Javascript components.
+  [wxPython(https://wxpython.org/index.html)
+ [qt/qtbase](https://github.com/qt/qtbase)
+  [GNOME/gtk](https://github.com/GNOME/gtk)
+  [ocornut/imgui](https://github.com/ocornut/imgui)
+ * [tcl.tk/,](https://www.tcl.tk/,) tkinter
+  PHP App Server: Create lightweight, installable almost-native applications for desktop OSes. ExecTerminal (nicely wraps the xterm.js Terminal), TerminalManager, and RunProcessSDK are self-contained, reusable ES5+ compliant Javascript components.
 ☒ Programming Languages, Specific Code Libraries
 ☒ Multiple
- ******* [monkslc/hyperpolyglot](https://github.com/monkslc/hyperpolyglot) A fast programming language detector -
- ******* [github-linguist/linguist](https://github.com/github-linguist/linguist) Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+  [monkslc/hyperpolyglot](https://github.com/monkslc/hyperpolyglot) A fast programming language detector -
+  [github-linguist/linguist](https://github.com/github-linguist/linguist) Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
  * $$ flex
  * $$ bison
  * $$ byacc
  * $$ llvm
- ******* [bouml.fr/](https://www.bouml.fr/)
- **** [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Manage multiple runtime versions with a single CLI tool. - probably no because Nix is superior, but still interesting to try out
+  [bouml.fr/](https://www.bouml.fr/)
+  [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Manage multiple runtime versions with a single CLI tool. - probably no because Nix is superior, but still interesting to try out
 ☒Python
-→ make a fancy powerline/starship-style Python REPL?
-
-→ read conda, miniconda, and mamba docs [docs.conda.io/projects/conda/en/stable/user-guide/index.html](https://docs.conda.io/projects/conda/en/stable/user-guide/index.html) [anaconda.com/blog/understanding-and-improving-condas-performance](https://www.anaconda.com/blog/understanding-and-improving-condas-performance)
-
-→ python_startup.py
-
-→ clean up system packages & Python packages -> remove system bpython
-
-→ debug custom prompt in Python
-
-→ [discuss.python.org/t/announce-pybi-and-posy/23021](https://discuss.python.org/t/announce-pybi-and-posy/23021)
+* → make a fancy powerline/starship-style Python REPL?
+* → read conda, miniconda, and mamba docs [docs.conda.io/projects/conda/en/stable/user-guide/index.html](https://docs.conda.io/projects/conda/en/stable/user-guide/index.html) [anaconda.com/blog/understanding-and-improving-condas-performance](https://www.anaconda.com/blog/understanding-and-improving-condas-performance)
+* → python_startup.py
+* → clean up system packages & Python packages -> remove system bpython
+* → debug custom prompt in Python
+* → [discuss.python.org/t/announce-pybi-and-posy/23021](https://discuss.python.org/t/announce-pybi-and-posy/23021)
 
  * $$$  [sh.readthedocs.io/en/latest/](https://sh.readthedocs.io/en/latest/)
  * $$$  poetry2nix
@@ -92,8 +84,8 @@ Rust
  * $$ [anki-code/pipi](https://github.com/anki-code/pipi)
  * $$ Jupyter Notebook - An open source program that provides interactive data and scientific computing information across over 40 programming languages. [jupyter.org/](https://jupyter.org/)
  * $$ pyutils [wannabe.guru.org/pydocs/pyutils/index.html](https://wannabe.guru.org/pydocs/pyutils/index.html)
- ******* [httpie/fractional-indexing-python](https://github.com/httpie/fractional-indexing-python)
- *** pyenv - inferior to Nix, but good to know
+  [httpie/fractional-indexing-python](https://github.com/httpie/fractional-indexing-python)
+  pyenv - inferior to Nix, but good to know
  [U] [mamba-org/mamba](https://github.com/mamba-org/mamba)
  [U] [conda/conda](https://github.com/conda/conda)
  [pex.readthedocs.io/en/v2.1.154/](https://pex.readthedocs.io/en/v2.1.154/)
@@ -113,23 +105,26 @@ Rust
 * $$ QT Creator - Fully-stocked cross-platform integrated development environment for easy creation of connected devices, UIs and applications. [qt.io/qt-features-libraries-apis-tools-and-ide/](https://www.qt.io/qt-features-libraries-apis-tools-and-ide/)
 * $$ MongoDB - MongoDB is a free and open-source cross-platform document-oriented database program, uses JSON-like documents with schemas. [mongodb.com/](https://www.mongodb.com/)
 * $$ CouchDB - Seamless multi-master sync, that scales from Big Data to Mobile, with an Intuitive HTTP/JSON API and designed for Reliability. [couchdb.apache.org/](https://couchdb.apache.org/)
-* $$ [pgsql-io/omnidb-ng](https://github.com/pgsql-io/omnidb-ng) [DevilPepper/OmniDBhttps://github.com/mapcoding-cn/omnidb-cn](https://github.com/DevilPepper/OmniDBhttps://github.com/mapcoding-cn/omnidb-cn) (OmniDB) - Browser-based tool that visually create, manage, and view databases. [OmniDB/OmniDB](https://github.com/OmniDB/OmniDB)
+* $$ [pgsql-io/omnidb-ng](https://github.com/pgsql-io/omnidb-ng) [DevilPepper/OmniDB        [mapcoding-cn/omnidb-cn](https://github.com/DevilPepper/OmniDB](https://github.com/mapcoding-cn/omnidb-cn](https://github.com/DevilPepper/OmniDB)        [mapcoding-cn/omnidb-cn)](https://github.com/mapcoding-cn/omnidb-cn)) (OmniDB) - Browser-based tool that visually create, manage, and view databases. [OmniDB/OmniDB](https://github.com/OmniDB/OmniDB)
 * $$ [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres client with autocompletion and syntax highlighting.
 * $$ [laixintao/iredis](https://github.com/laixintao/iredis) - Redis client with autocompletion and syntax highlighting.
 * $$ [xo/usql](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
-******* DBeaver - A universal database client supporting multiple platforms and databases. [dbeaver.io/](https://dbeaver.io/)
-******* Cassandra - Apache Cassandra database is the right choice when you need scalability and high availability without compromising performance. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data. [cassandra.apache.org/](https://cassandra.apache.org/)
-******* xmlstarlet - Old but powerful tool for command-line XML formatting, filtering, and manipulation. [xmlstar.sourceforge.net/](http://xmlstar.sourceforge.net/)
-******* Kexi - Kexi is an open source visual database applications creator, a long-awaited competitor for programs like MS Access or Filemaker. [calligra.org/kexi/](https://calligra.org/kexi/)
+ DBeaver - A universal database client supporting multiple platforms and databases. [dbeaver.io/](https://dbeaver.io/)
+ Cassandra - Apache Cassandra database is the right choice when you need scalability and high availability without compromising performance. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data. [cassandra.apache.org/](https://cassandra.apache.org/)
+ xmlstarlet - Old but powerful tool for command-line XML formatting, filtering, and manipulation. [xmlstar.sourceforge.net/](http://xmlstar.sourceforge.net/)
+ Kexi - Kexi is an open source visual database applications creator, a long-awaited competitor for programs like MS Access or Filemaker. [calligra.org/kexi/](https://calligra.org/kexi/)
 bp<<<mycli [mycli.net/](https://www.mycli.net/)
 
 ## Java, JVM
+
 * $$$  openjdk
 [U] sdkman
 ☒ Scala
 ☒ Clojure
 ☒ Julia
+
 ## CL
+
  sbcl [sbcl.org/](http://www.sbcl.org/)
 ☒ Lua
 * $$$  lua-sh: calling shell commands as functions
@@ -145,16 +140,13 @@ bp<<<mycli [mycli.net/](https://www.mycli.net/)
 * $$$  gcc
 ☒ Haskell
 
-
 ☒ Other
 * $$$  [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable - extend to regexes of other languages
 * $$ KLEE [klee.github.io/](https://klee.github.io/)
 [klee.github.io/releases/docs/v1.3.0/](http://klee.github.io/releases/docs/v1.3.0/)
-******* [strlen.com/lobster/](https://strlen.com/lobster/)
-******* Workbench - Workbench goal is to let you experiment with GNOME technologies, no matter if tinkering for the first time or building and testing a custom GTK widget.
+ [strlen.com/lobster/](https://strlen.com/lobster/)
+ Workbench - Workbench goal is to let you experiment with GNOME technologies, no matter if tinkering for the first time or building and testing a custom GTK widget.
 [darklua.com/](https://darklua.com/)
  [criblio/js2bin](https://github.com/criblio/js2bin)
 [fosskers/aura](https://github.com/fosskers/aura) [fosskers.github.io/aura/philosophy.html](https://fosskers.github.io/aura/philosophy.html)
 (PG) [com-lihaoyi/Ammonite](https://github.com/com-lihaoyi/Ammonite)
-
-

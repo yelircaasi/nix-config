@@ -29,17 +29,17 @@
 * Who benefits the most from private schooling?
 * What role do peer effects play in the private-public gap?
 * Scots-Irish settlers, and some Welsh emigrants, carried long-standing multiple partner traditions to the Americas from Europe.[11] Utopian and communal groups established during the mid-19th century had varying marriage systems, including group marriage and polygyny.[12] There is also some evidence in the American South for multiple marriage partners, particularly after the Civil War. as well as Black muslims especially in Philidelphia begining in the early 1800s [13]
-* evolution of humo$1
+* evolution of humo
 * $2то мотивирует исследование на личном уровне?
-* -> Религия как тормоза серьезного мышлени$1
+* -> Религия как тормоза серьезного мышлени
 * $2ollect stories of remarkable individuals: out of poverty, late start, etc.
 * move up Justice and Poor Economics on reading list
 * psychology and economic development
 * politica e scienza
 * Aus welchem Gründen trifft man die Entscheidung, Kinder zu bekommen?
-* learn about the liberal muslim communities & muslim schools of thought in genera$1
+* learn about the liberal muslim communities & muslim schools of thought in genera
 * $2сихология и история угнетения и преследования меньшинств
-* гомосексуалов и транссексуало$1
+* гомосексуалов и транссексуало
 * $2уществует ли такое общество, в котором прогрессисты совершенно довольны и им не за что агитировать?
 * Hак выглядит идеальное общество?
 * How can I help to fight human trafficking?
@@ -70,7 +70,7 @@
 * Amateurs getting more involved and checking
 * Peer review can perpetuate groupthink, the cartelization of knowledge, and the compounding of biases.
 * Expert opinion is often the result of a close, exclusive group. Relying on authority is necessary in a specialized world to a certain degree, but we should gnerally question authority.
-* An “army” of networked people, including amateurs, is ideal for bringing about a paradigm shift.* [Why Most Published Research Findings are False](http://robotics.cs.tamu.edu/RSS2015NegativeResults/pmed.0020124.pdf.
+* An “army” of networked people, including amateurs, is ideal for bringing about a paradigm shift.* [Why Most Published Research Findings are False](http://robotics.cs.tamu.edu/RSS2015NegativeResults/pmed.0020124.pdf.)
 * Eакие имеются научные объяснения закона убывающей предельной полезности? (B4)
 * неврология дофаминовых рецепторов, насыщение - что определяет когда появится опять желание/нужда?
 * Why are we attracted to muscular, fit bodies? Or what are the benefits of athleticism? (B1)
@@ -79,7 +79,7 @@
 * Eочему огромное большинство песен о любви?
 * всуобщий интерес любви -- рыночные силы
 * чувства выражаются легче, чем сложные понятия и идеи
-* сила чувства любв$1
+* сила чувства любв
 * $2hat is it about the spirit (or intelligence) of humankind that keeps it above the level of artificial intelligence? Or why can it not be completely imitated? (B22)
 * Why is pornography so addicitve and epidemic when physical sensual activity is (presumably) more gratifying and pleasurable than visual stimulation? (B24)
 * Wочему порнография является такой зависимостью и такой эпидемиией когда настоящая интимность предоставляет больше удовольствия и стимуляции?
@@ -88,12 +88,12 @@
 * разные (неравные виды полезности)
 * неврология зависимости
 * доступность и вездесущность, психология отвлечения (во время использования устройств)
-* возможмость скуки и поиск новог$1
-* $2hy is it that I feel happy for the happiness of others? (B25$1
+* возможмость скуки и поиск новог
+* $2hy is it that I feel happy for the happiness of others? (B25
 * $2о каким причинам я испытываю радость по чужой радости?
 * зеркальные нейроны
 * эволюция стадных инстинктов / божественный дар/свойство Божественности
-* -связано с целью жизн$1
+* -связано с целью жизн
 * $2ave gender roles stayed roughly the same until relatively recently? (B40?G11)
 * How do hemaphrodites determine their gender? (B41)
 * Does drug legalization bring more costs or benefits? (B42)
@@ -135,9 +135,9 @@
 * recursos
 
 ...
-* Echte Unterschiede zwischen Männern und Fraue$1
+* Echte Unterschiede zwischen Männern und Fraue
 * $2ак сделать иначе скучные, повседневные работы творческими.
-* Eайти цитату (Адама Смита?) о рабочем на завод$1
+* Eайти цитату (Адама Смита?) о рабочем на завод
 * $2uelle est l’histoire des peuples d’europa? Qu’est-ce qui s’est passé entre les premiers humains et les âges où il y a des nombreuses sources historiques saisfactoires? Coment est-ce que la religion originelle s’est perdu? Quels niveaux de illumination, civilisation et communion avec la divinité les différentes civilisatons (ou peuples =>) avaient-elle?
 * Comment ça se reconcilie avec le plan de salut?
 * How can one objectively evaluate the “progressiveness”of a society in a given place and time? What are the criteria? Is there one set of ideal circumstances, or does it change for different times, places, and people?
@@ -161,7 +161,7 @@
 
 (see above) How would this entail a shift not just in sharing menial tasks, but also in attitudes toward and consempation of jobs that currently pay less?
 * Which measures toward development and policy reduction actually work?
-* Wдея: психологический контрас$1
+* Wдея: психологический контрас
 * $2ie sucht man seine Karriere aus? (--> Google-Suche) Welche Faktore beeinflussen die Entscheidung (auch allgemein)? Welche verchiedene Freiheitsbilder gibt es? Wie ist die wirkliche Freiheit?
 * Entscheidungseinfl"usse: Zufall, Ignoranz, Wahl zwischen gleichg"ultigen Optionen, Talent und eingeborener Geschmack, Erziehung und Erlebnisse, Vorberufung, Eingebung
 * wie interagieren sie?
@@ -225,7 +225,7 @@
 * Lebenszyklus: Was machen wann? Warum? Wir ordnet man optimal seine Selbstbildung? Wie erreicht man ein Gleichgewicht?* [Die Blaue Hand](https://www.youtube.com/channel/UC2jpCDc1dESIZQj1D_guwZg)
 * Forscher, die ich nachahmen will / gute Beispiele:
 * learn "zone of appropriateness"
-* find balance between self and cultur$1
+* find balance between self and cultur
 * $2акие в жизни базовые потребости?
 * History of Sex in the United States* [artsdorient.com/](https://artsdorient.com/)
 * The 5000 Year Leap: A Miracle That Changed the World
@@ -371,7 +371,7 @@
 * Единая Россия
 * Комм. партия
 * Справедливая Россия
-* П.П. (ЛДПР$1
+* П.П. (ЛДПР
 * $2країнські партії
 * Народний фронт
 * Блок Петра Порошенко
@@ -382,10 +382,10 @@
 * Snowden Affair
 * How much has the refugee crisis increased human trafficking?
 * Which states transfer the most money to which states?
-* Make a list of questions for clear and thorough analysis of situaations and choices.* [keepright.net/17points.htm](http://www.keepright.net/17points.htm?
-* WС$1
-* $2амерзшие конфликт$1
-* $2утиновская доктрин$1
+* Make a list of questions for clear and thorough analysis of situaations and choices.* [keepright.net/17points.htm](http://www.keepright.net/17points.htm?)
+* WС
+* $2амерзшие конфликт
+* $2утиновская доктрин)
 * $2asic assumptions about sexual orientation, happiness, morality, and the best way forward. Which arguments are made for each side? What are the implications of each set of beliefs (combined with research findings)? What has the research found?
 * Which other natural tendencies are comparable to homosxuality? What role does culture play? To what extent can homosexuals be happy in a heterosexual relationship? What about in a celibate lifestyle?
 * NYT Voter's Values interactive graphic
@@ -594,7 +594,7 @@
 * no merit pay or teachers
 * teachers effectively have the same status as doctors and lawyers
 * [http://www.oph.fi/english/education_system - Official insider description](http://www.oph.fi/english/education_system)
-* [http://starylev.com.ua/club/article/7-pryncypiv-finskoyi-osvity - 7 принципів:](http://starylev.com.ua/club/article/7-pryncypiv-finskoyi-osvity$1
+* [http://starylev.com.ua/club/article/7-pryncypiv-finskoyi-osvity - 7 принципів:](http://starylev.com.ua/club/article/7-pryncypiv-finskoyi-osvity)
 * $2івністs
 * dезкоштовністs
 * dндивідуальний підхіs
@@ -607,7 +607,7 @@
 * intelligent persistence
 * fostering a community
 * listening and remaining open
-* good storytelling
+* good storytelling)
 * testing ideas in the real world (market)
 * managing emotions
 * constantly evolving
@@ -779,5 +779,5 @@
 * On the Logic of the Social Sciences
 * [Джаред Даймонд](https://knigavuhe.org/author/dzhared-dajjmond/)
 * [Захаров, А. В. Теория игр в общественных науках](https://vk.com/doc18158033_521946395?hash=9acb2b29715a6217c0&dl=4bfe7432b4584b6fc7)
-* Brasiliana Ita$1
+* Brasiliana Ita
 * $2a caja de Pandora

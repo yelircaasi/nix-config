@@ -96,7 +96,7 @@
    |  [Baobab](https://wiki.gnome.org/Apps/DiskUsageAnalyzer)
    |  [JDisReport](http://www.jgoodies.com/freeware/jdiskreport/)
    |  [gdmap](https://gdmap.sourceforge.net/)
-* (3) [udisks](https://github.com/storaged-/nnn
+* (3) [udisks](https://github.com/storaged-/nnn)
 * project/udisks)
 * (3) [udiskie](https://github.com/coldfix/udiskie)
 * (4) [gparted](...)

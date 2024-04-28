@@ -3830,7 +3830,7 @@ sudoreplay
 * At 9:10, the path to default bspwm and sxhdc config files on ubuntu  is /usr/share/doc/bspwm/examples
 * Lemonbar documentation: [LemonBoy/bar](https://github.com/LemonBoy/bar)
 * i3wm: [i3/i3](https://github.com/i3/i3)
-* bspwm: [...](https://github.com/baskerville/bspwm
+* bspwm: [...](https://github.com/baskerville/bspwm)
         [...](https://www.youtube.com/watch?v=-PGlrtoFXK4))](https://www.youtube.com/watch?v=-PGlrtoFXK4](https://www.youtube.com/watch?v=-PGlrtoFXK4)))
 * [tecadmin.net/installing-lightdm-on-ubuntu/](https://tecadmin.net/installing-lightdm-on-ubuntu/)
 

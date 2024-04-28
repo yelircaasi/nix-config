@@ -30,7 +30,7 @@
 * 3.1 Church History
 * Origins
 
--Book of Mormon Historicity
+* Book of Mormon Historicity
 * The First Vision
 * The Book of Abraham
 * Polygamy
@@ -41,16 +41,16 @@
 * Character and Actions of Church Leaders
 * 3.2 Doctrinal and Theological Matters
 
--The Problem of Evil
+* The Problem of Evil
+
 * 3.3 Science
 
--Evolution and Creation: There is no way around the mountains of evidence for evolution by means of natural selection as proposed by Darwin and refined by biologists since. The evidence is to be found primarily in the fields of genetics, paleontology and the fossil record, anatomy, molecular biology, biogeography, embryology, and taxonomy, as well as direct observation. A brief overview of the evidence is given in Appendix X. I have found it to be even more convincing upon closer examination. There are very few who seriously engage with the ideas and evidence underlying the theory of evolution and do not acknowledge its validity. All of them, with no known exceptions, are motivated by religious fundamentalism. [theguardian.com/science/political-science/2017/sep/05/questioning-evolution-is-neither-science-denial-nor-the-preserve-of-creationists](https://www.theguardian.com/science/political-science/2017/sep/05/questioning-evolution-is-neither-science-denial-nor-the-preserve-of-creationists)
+* Evolution and Creation: There is no way around the mountains of evidence for evolution by means of natural selection as proposed by Darwin and refined by biologists since. The evidence is to be found primarily in the fields of genetics, paleontology and the fossil record, anatomy, molecular biology, biogeography, embryology, and taxonomy, as well as direct observation. A brief overview of the evidence is given in Appendix X. I have found it to be even more convincing upon closer examination. There are very few who seriously engage with the ideas and evidence underlying the theory of evolution and do not acknowledge its validity. All of them, with no known exceptions, are motivated by religious fundamentalism. [theguardian.com/science/political-science/2017/sep/05/questioning-evolution-is-neither-science-denial-nor-the-preserve-of-creationists](https://www.theguardian.com/science/political-science/2017/sep/05/questioning-evolution-is-neither-science-denial-nor-the-preserve-of-creationists)
 
--Age of the Earth
+* Age of the Earth
 
--Noah's Ark and the Flood
+* Noah's Ark and the Flood
 
--
 * 3.4 Social Issues
 * 3.4.2: Feminism
 * Gender issues and feminism was portrayed by some of the more conservative apostles of the 80's and 90's as one of the greatest threats to the church. Today, gender issues are one of the more challenging issues that active, believing members face. There is increasingly more friction between western, liberal cultures and what has traditionally between taught about patriarchy and the proper role of women.
@@ -60,9 +60,9 @@
 * 3.5 Church Culture
 * 3.5.1: High-Demand Organizations and "Behavior Control" Frameworks
 
--BITE Model
+* BITE Model
 
--For many disaffected former members, the form of "information control" that is often displayed by church leaders is one of the most despicable things they do.
+* For many disaffected former members, the form of "information control" that is often displayed by church leaders is one of the most despicable things they do.
 * 3.5.2 Overall changes in the culture, practice, and "feel" of the church
 * 5) Different Epistemologies
 * 4.1 Methodological Naturalism and the Scientific Method
@@ -78,29 +78,13 @@
 * 4.6 Thoughts on Apologetics in the Light of Epistemology
 * 6) Narrative and Storytelling
 * 5.1 On Narrative and Interpretation
-
--
 * 5.2 A "Primary Child" Narrative
-
--
 * 5.3 A Sample “Traditional Narrative”
-
--
 * 5.4 An “Angry Exmo” Narrative
-
--
 * 5.5 A “Liberal Mormon” Narrative
-
--
 * 5.6 A “New Order Mormon” Narrative
-
--
 * 5.7 A "Nevermo" Narrative
-
--
 * 5.8 What Do the Narratives Have in Common?
-
--
 * 7) Double-Edged Swords and Truth Carts
 * 6.1 Introduction: What truth filters let in the LDS church and keep others out?
 * 6.1 Backfiring Apostasy Rhetoric: When the high bar set by the church becomes an unrealistic (or impossible) standard
@@ -167,21 +151,10 @@
 
 -The Jude Metaphors
 
--
-
--
-
--
-
--
-
--
-
 -Thomas Marsh
 
 -Zoramites
 
--
 * [lds.org/general-conference/1985/04/from-such-turn-away?lang=eng](https://www.lds.org/general-conference/1985/04/from-such-turn-away?lang=eng)
 * 10.3: Dealing with Continued Faith of Loved Ones
 * 10.4: Common Affronts from Believers and Stereotypes about Skeptics

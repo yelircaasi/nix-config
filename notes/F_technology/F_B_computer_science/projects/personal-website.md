@@ -17,7 +17,7 @@
 * [ ]  matrix types
 * [ ]  proglang table
 * [ ]  scalable webpage graphic of family tree of programming languages
-        * Link$1
+        * Link
 * [The Briefest Genealogy of Programming Languages](http://www.martinrinehart.com/pages/genealogy-programming-languages.html)
             * Genealogy of Programming Languages.pdf on Drive
 * [en.wikipedia.org/wiki/Generational_list_of_programming_languages](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)

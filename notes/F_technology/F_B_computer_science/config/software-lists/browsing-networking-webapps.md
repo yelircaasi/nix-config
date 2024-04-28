@@ -154,12 +154,12 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 * [...](https://superuser.com/questions/1337469/grasemonkey-change-design-css)
 *      [excalith/excalith-start-page](https://github.com/excalith/excalith-start-page)
 *      [userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme](https://userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme)
-* [ ]  try Selenium on:            * [ ]  chrome-extension://hncgkmhphmncjohllpoleelnibpmccpj/manage.htm$1
-* [ ]  chrome-extension://clngdbkpkpeebahjckkjfobafhncgmne/edit.htm$1
-* [ ]  moz-extension://fcb928ab-a898-4c47-9f85-2ff701b6e9dc/manage.htm$1
-* [ ]  moz-extension://ae95df29-277d-4ee3-aeb6-e4e84dfebada/manage.htm$1
-* [ ]  edge:  extension://clngdbkpkpeebahjckkjfobafhncgmne/manage.htm$1
-* [ ]  edge: extension://hncgkmhphmncjohllpoleelnibpmccpj/manage.htm$1
+* [ ]  try Selenium on:            * [ ]  chrome-extension://hncgkmhphmncjohllpoleelnibpmccpj/manage.htm
+* [ ]  chrome-extension://clngdbkpkpeebahjckkjfobafhncgmne/edit.htm
+* [ ]  moz-extension://fcb928ab-a898-4c47-9f85-2ff701b6e9dc/manage.htm
+* [ ]  moz-extension://ae95df29-277d-4ee3-aeb6-e4e84dfebada/manage.htm
+* [ ]  edge:  extension://clngdbkpkpeebahjckkjfobafhncgmne/manage.htm
+* [ ]  edge: extension://hncgkmhphmncjohllpoleelnibpmccpj/manage.htm
 * [ ]  [selenium-python.readthedocs.io/installation.html](https://selenium-python.readthedocs.io/installation.html)
 * [ ]  [userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme](https://userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme)
 *      [M4cs/foxify-cli](https://github.com/M4cs/foxify-cli)
@@ -868,7 +868,7 @@ sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 ### Matrix
 
 * → [matrix.org/ecosystem/integrations/](https://matrix.org/ecosystem/integrations/)
-* ( ) [matrix clients](https://matrix.org/clients/
+* ( ) [matrix clients](https://matrix.org/clients/)
 * ( ) [Matrix](https://matrix.org/) - Decentrialized End-to-End Encrypted Chat platform (you may want to use [Element](https://element.io/)
 * ( ) [Element](https://element.io/) - A glossy Matrix collaboration client for the web.
 * ( ) [Fractal](https://wiki.gnome.org/Apps/Fractal) - Fractal is a Matrix messaging app for GNOME written in Rust. Its interface is optimized for collaboration in large groups, such as free software projects.

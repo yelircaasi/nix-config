@@ -1204,7 +1204,7 @@ Calculus Made Easy: [amzn.to/3LKcO8S](https://www.youtube.com/redirect?event=vid
 * [Der Fixpunktsatz von Banach - YouTube](https://www.youtube.com/watch?v=utvSi9SYn8E)
 * [video](https://www.youtube.com/@NamNguyen-qw9lf/playlists) - Convexity and Convex Analysis, including in Topological Vector Spaces 
 * [The Most Important Counting Concept You’ve (Probably) Never Heard Of](https://www.youtube.com/watch?v=uxjAHkn4VFI)
-* yt | Roadmap 1 (from [...](https://www.youtube.com/watch?v=7G4SqIboei
+* yt | Roadmap 1 (from [...](https://www.youtube.com/watch?v=7G4SqIboei)
         [...](https://www.youtube.com/watch?v=7G4SqIboeig.)) |
 * yt |  | > [video](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw) |
 |  | > Videos: [video](https://www.youtube.com/channel/UCLzpR8AiHx9h_-yt2fAxd_A/playlists) |

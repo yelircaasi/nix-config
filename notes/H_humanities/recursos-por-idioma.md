@@ -1031,6 +1031,7 @@
 * [Ab in die Alpenregion? - Österreich - Spass mit Flaggen](https://www.youtube.com/watch?v=lK66CHbxHH0&list=WL&index=155)
 
 ## 3b
+
 * [Georg Trakl](https://www.youtube.com/channel/UCslG00iKADP-Tbij8f8-GCQ)
 * [Tapakapa Erklärt - YouTube](https://www.youtube.com/c/TapakapaErkl%C3%A4rt)
 * [Fast Swiss German | Greetings | Speaksli - YouTube](https://www.youtube.com/watch?v=ZsHxlI6vn-o)
@@ -1039,6 +1040,7 @@
 * [Prometheus](https://edx.prometheus.org.ua/dashboard)
 
 ## 4
+
 * [kinoukr.com/](https://kinoukr.com/)
 * [Dima Maleev](https://www.youtube.com/user/SunnyDimKo)
 * [Історія для дорослих](https://www.youtube.com/c/%D0%86%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%8F%D0%B4%D0%BB%D1%8F%D0%B4%D0%BE%D1%80%D0%BE%D1%81%D0%BB%D0%B8%D1%85)
@@ -1713,7 +1715,7 @@
 * [oercommons.org/courses/french-in-action/view](http://www.oercommons.org/courses/french-in-action/view)
 * Marie-Thérèse Porchet
 * [dailymotion.com/fr](http://www.dailymotion.com/fr)
-* [ $1иномания по-французски](https://vk.com/cinema_de_france$1
+* [ $1иномания по-французски](https://vk.com/cinema_de_france)
 * [**Les Meilleurs Séries Françaises - IMDb](https://www.imdb.com/list/ls066794879/?ref_=tt_rls_2)
 * [C'est mon choix!](http://www.nrj-play.fr/cherie25/c-est-mon-choix)
 * [Comédie+ | myCANAL](https://www.mycanal.fr/chaines/comedie')
@@ -1918,6 +1920,7 @@
 * [French Pronunciation: The Sounds of French (aka "How to learn lots of new vowels")](https://www.youtube.com/watch?v=hI2Pso1dDjM&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=58)
 
 ## 6
+
 * [UNED Documentos](https://www.youtube.com/user/documentosUNED)
 * [pesquisasmormonas.com/p/lista-de-episodios-1506218159/](http://www.pesquisasmormonas.com/p/lista-de-episodios-1506218159/)
 * [filosofando89](https://youtube.com/user/filosofando89?feature=hovercard)
@@ -2069,7 +2072,7 @@
 * [MuguPiensa - YouTube - YouTube](https://www.youtube.com/channel/UCMkT85enyMMAor6DLgslIjQ)
 * [NADEGE CANDLE - YouTube - YouTube](https://www.youtube.com/channel/UCs-sPmO1clvl2FcbphIp0Vg)
 * [Nice Day - YouTube - YouTube](https://www.youtube.com/channel/UC0pzqgbTMcKpFK6oq9Zl8vA)
-* [...](https://www.youtube.com/channel/UCv05qOuJ6Igbe-EyQibJgwQ$1
+* [...](https://www.youtube.com/channel/UCv05qOuJ6Igbe-EyQibJgwQ)
 * [...](https://www.youtube.com/channel/UCnyZ_qbXwvS7HBgjICl8oBg)*
 * [...](https://www.youtube.com/results?search_query=pronunciacion+espa%C3%B1ol+r)**
 * [video](https://www.youtube.com/playlist?list=PLoZVZx9LhfC_MGDJlhMg0ibey5PHQUvG4)
@@ -4591,7 +4594,7 @@
 * [Translation of the Meanings of THE NOBLE QURAN in the French Language](https://ia600309.us.archive.org/13/items/TraductionDuCoranEditionQuranComplex/Traduction%20du%20Coran%20-%20Edition%20Quran%20Complex.pdf)
 * [studyquran.org/resources/Quranic_Root_Dictionary.pdf](http://www.studyquran.org/resources/Quranic_Root_Dictionary.pdf)
 * [مشروع المصحف الإلكتروني بجامعة الملك سعود](http://quran.ksu.edu.sa/)
-* [ Apprendre lire Coran - réciter et mémoriser en ligne - Plusieurs de récitants et traductions, Français, Gratuit et unique](http://www.houseofquran.com/french/home-fr$1
+* [ Apprendre lire Coran - réciter et mémoriser en ligne - Plusieurs de récitants et traductions, Français, Gratuit et unique](http://www.houseofquran.com/french/home-fr)
 * [**Online Koran leren lezen, reciteren &amp; memoriseren - Woord voor woord, Diverse reciteurs en vertalingen, Voor beginners, Nederlandse vertaling](http://www.houseofquran.com/nederlands/home-nl)
 * [Abdullah Sameer – أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ Does He who created not know, while He is the Subtle, the Acquainted? (67:14)
 * [LQ Toronto - Learn the language of the Qur&#39;an](http://www.lqtoronto.com/madinaarabic.html)
@@ -4643,11 +4646,11 @@
 * Arabic 2018.
 * ‎Learn Arabic تعلم العربيه 📚💪‎.
 
-## 9$1
+## 9
 * [**Levantine Arabic – #TeamMaha](http://teammaha.com/category/arabicposts/levantine-arabic/)*
 * [Damascene dialect, /u/Death_Machine par /r/Arabs](https://soundcloud.com/r-arab)*
-* [*FSI Levantine Arabic](https://fsi-languages.yojik.eu/languages/FSI/fsi-levantine-arabic.html$1
-* [*Syrian](http://fieldsupport.dliflc.edu/products/syrian/ap_bc_LSK/default.html$1
+* [*FSI Levantine Arabic](https://fsi-languages.yojik.eu/languages/FSI/fsi-levantine-arabic.html)
+* [*Syrian](http://fieldsupport.dliflc.edu/products/syrian/ap_bc_LSK/default.html)
 * [ Search Results for “fusha to shami” – #TeamMaha](http://teammaha.com/?s=fusha+to+shami&submit=Search)
 * [Guide Fr-Arabe Vulgaire](https://books.google.fr/books?id=5XQPAAAAQAAJ&printsec=frontcover#v=onepage&q&f=false)
 * [Headstart2 - Levantine](http://hs2.dliflc.edu/levantine/course/index.html?levantine)
@@ -4750,10 +4753,10 @@
 * [en.wikipedia.org/wiki/Transliteration_of_Chinese](https://en.wikipedia.org/wiki/Transliteration_of_Chinese)
 * [web.csulb.edu/~txie/azi/page1.htm](http://web.csulb.edu/~txie/azi/page1.htm)
 * [** (already have)
-* [ Chine-Nouvelle.com - Apprendre le Chinois, découvrir la Chine.](http://www.chine-nouvelle.com/$1
-* [ ChinesischLernen.com mit Audio | Chinesisch Lernen für Anfänger - kostenlos](http://www.chinesischlernen.com/$1
-* [ Level 1 Stories - Little Chinese Readers Leveled Reading Series](https://www.littlechinesereaders.com/courses/level-1-stories/$1
-* [ $1語文學習網 e-Learning Portal for Chinese Education](http://www.huayuworld.org/learningchinese/e_learning/$1
+* [ Chine-Nouvelle.com - Apprendre le Chinois, découvrir la Chine.](http://www.chine-nouvelle.com/)
+* [ ChinesischLernen.com mit Audio | Chinesisch Lernen für Anfänger - kostenlos](http://www.chinesischlernen.com/)
+* [ Level 1 Stories - Little Chinese Readers Leveled Reading Series](https://www.littlechinesereaders.com/courses/level-1-stories/)
+* [ $1語文學習網 e-Learning Portal for Chinese Education](http://www.huayuworld.org/learningchinese/e_learning/)
 * [**Practical Chinese Reader learning materials](http://web.csulb.edu/~txie/pcr.html)
 * [Aprende chino online gratis. Lecciones con audio y pinyin](http://hablochino.com/aprende-chino-online/)
 * [AUDIO Y+ - Recursos para aprender chino - Biblioguías at Universidad de Extremadura. Biblioteca](http://biblioguias.unex.es/c.php?g=572070&p=3944670)
@@ -5180,7 +5183,7 @@
 * [akwn.net/](http://www.akwn.net/)
 * [akropolis-world-news.weebly.com/news-of-this-year-21-22.html](http://akropolis-world-news.weebly.com/news-of-this-year-21-22.html)
 * [akropolis-world-news.weebly.com/](http://akropolis-world-news.weebly.com/)
-* [**17 Must-Read Books by the Ancient Greeks -](https://daringtolivefully.com/must-read-books-ancient-world$1
+* [**17 Must-Read Books by the Ancient Greeks -](https://daringtolivefully.com/must-read-books-ancient-world)
 * [**A reading list of Ancient Greek classics | OUPblog](https://blog.oup.com/2014/11/oxford-worlds-classics-ancient-greek-reading-list/)
 * [Griechisches lesebuch : Wilamowitz-Moellendorff, Ulrich von, 1848-1931 : Free Download &amp; Streaming : Internet Archive](https://archive.org/details/griechischesles00wilagoog)
 * [Griechisches Lesebuch für die ersten Anfänger - Google Libros](https://books.google.com/books?id=fyFGAAAAcAAJ&pg=PP9&lpg=PP9&dq=Griechisch+lesebuch&source=bl&ots=4KHT4fp8RO&sig=-9ivB5CBL08U6dY6xnY2ajV_kP8&hl=es&sa=X&ved=0ahUKEwiL17C2vqfWAhXK31QKHS7YDssQ6AEIQDAD#v=onepage&q=Griechisch%20lesebuch&f=false)
@@ -5188,30 +5191,30 @@
 * [Downloads — Legonium](http://www.legonium.com/downloads)
 * [Hodoi](http://mercure.fltr.ucl.ac.be/Hodoi/concordances/intro.htm)
 * [LGPSI](https://github.com/seumasjeltzz/LinguaeGraecaePerSeIllustrata)
-* [Greek and Roman Verse – Audio-Visually Enhanced](http://hypotactic.com/$1
-* [Programme de Grec au lycée Arago](https://mediterranees.net/arago/grec/index.html$1
-* [ FLOT SILLAGES | FLOT : Grec ancien pour débutants](http://flot.sillages.info/?portfolio=grec-ancien-debutants$1
-* [ Grec ancien au prisme du théâtre grec — Wikilivres](https://fr.wikibooks.org/wiki/Grec_ancien_au_prisme_du_th%C3%A9%C3%A2tre_grec$1
-* [ Greco interattivo - Mappa](http://www.poesialatina.it/_ns/Greek/html/mappa.html$1
-* [ Site d&#39;initiation au grec Ancien](http://unt.unice.fr/uoh/grec/$1
-* [ Un niño griego en casa](https://sites.google.com/site/griegoencasa/$1
-* [ $1ρχαία Ελληνικά Γυμνασίου και Λυκείου - arxaia.gr](http://arxaia.gr/$1
-* [*Curso de GC](https://tronerablog.wordpress.com/2016/05/29/curso-de-griego-clasico-indice/$1
-* [*Curso de Griego Clasico](https://tronerablog.wordpress.com/2016/05/29/curso-de-griego-clasico-indice/$1
-* [*Helios](http://helios.fltr.ucl.ac.be/$1
-* [*Site de Philippe Remacle](http://remacle.org/$1
-* [*ΤΑ ΜΑΘΗΜΑΤΑ: colloquium leidense](http://tamathemata.blogspot.com/2009/08/colloquium-leidense.html$1
-* [**Athenaze I | Edizioni Accademia Vivarium Novum](https://vivariumnovum.it/liber-extra-librum/athenaze$1
-* [**Greek Grammar Information, Learning Help &amp; Study Aids](https://biblicalgreek.org/grammar/$1
-* [**KATERINA SARRI WEBTOPOS - Greek Language and Alphabet Links](http://www.webtopos.gr/eng/languages/greek/links.htm$1
-* [**LPD GBAH](http://www.latinperdiem.com/rouse-a-greek-boy-at-home/$1
-* [**LPD Greek](http://www.latinperdiem.com/greek/$1
+* [Greek and Roman Verse – Audio-Visually Enhanced](http://hypotactic.com/)
+* [Programme de Grec au lycée Arago](https://mediterranees.net/arago/grec/index.html)
+* [ FLOT SILLAGES | FLOT : Grec ancien pour débutants](http://flot.sillages.info/?portfolio=grec-ancien-debutants)
+* [ Grec ancien au prisme du théâtre grec — Wikilivres](https://fr.wikibooks.org/wiki/Grec_ancien_au_prisme_du_th%C3%A9%C3%A2tre_grec)
+* [ Greco interattivo - Mappa](http://www.poesialatina.it/_ns/Greek/html/mappa.html)
+* [ Site d&#39;initiation au grec Ancien](http://unt.unice.fr/uoh/grec/)
+* [ Un niño griego en casa](https://sites.google.com/site/griegoencasa/)
+* [ $1ρχαία Ελληνικά Γυμνασίου και Λυκείου - arxaia.gr](http://arxaia.gr/)
+* [*Curso de GC](https://tronerablog.wordpress.com/2016/05/29/curso-de-griego-clasico-indice/)
+* [*Curso de Griego Clasico](https://tronerablog.wordpress.com/2016/05/29/curso-de-griego-clasico-indice/)
+* [*Helios](http://helios.fltr.ucl.ac.be/)
+* [*Site de Philippe Remacle](http://remacle.org/)
+* [*ΤΑ ΜΑΘΗΜΑΤΑ: colloquium leidense](http://tamathemata.blogspot.com/2009/08/colloquium-leidense.html)
+* [**Athenaze I | Edizioni Accademia Vivarium Novum](https://vivariumnovum.it/liber-extra-librum/athenaze)
+* [**Greek Grammar Information, Learning Help &amp; Study Aids](https://biblicalgreek.org/grammar/)
+* [**KATERINA SARRI WEBTOPOS - Greek Language and Alphabet Links](http://www.webtopos.gr/eng/languages/greek/links.htm)
+* [**LPD GBAH](http://www.latinperdiem.com/rouse-a-greek-boy-at-home/)
+* [**LPD Greek](http://www.latinperdiem.com/greek/)
 * [**Perseids](http://sites.tufts.edu/perseids/)
 * [Langue grecque, Projet Homere, Homer project, greek language](http://www.projethomere.com/)
 * [Hippocrates (Loeb)](https://ryanfb.github.io/loebolus-data/L147.pdf)
 * [Βίοι Παράλληλοι - Βικιθήκη](https://el.wikisource.org/wiki/%CE%92%CE%AF%CE%BF%CE%B9_%CE%A0%CE%B1%CF%81%CE%AC%CE%BB%CE%BB%CE%B7%CE%BB%CE%BF%CE%B9)
-* [**J'aime le Grec ancien](https://www.facebook.com/groups/581855195275760/$1
-* [**Word group annotation of Matthew 1](http://opentext.org/texts/NT/Matt/view/wordgroup-ch1.v0.html$1
+* [**J'aime le Grec ancien](https://www.facebook.com/groups/581855195275760/)
+* [**Word group annotation of Matthew 1](http://opentext.org/texts/NT/Matt/view/wordgroup-ch1.v0.html)
 * [**Подстрочный перевод Нового Завета](http://www.bible.in.ua/underl/S/gr_simph.html)
 * [01SBLGNT.Matthew.indd](https://www.sbl-site.org/assets/pdfs/bibletexts/SBLGNT/61-SBLGNT-Matthew.pdf)
 * [Aischylos: Agamemnon (griechischer Originaltext)
@@ -5889,7 +5892,7 @@
 ## 20b
 * [Хангиль — Вікіпедія](https://uk.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BD%D0%B3%D0%B8%D0%BB%D1%8C)
 * [Apprendre le coréen - Grammaire et Vocabulaire](http://mylanguages.org/fr/coreen_apprendre.php)
-* [**Coréen Actuel | Apprendre le coréen - Cours gratuits de coréen en ligne](http://www.coreen-actuel.com/$1
+* [**Coréen Actuel | Apprendre le coréen - Cours gratuits de coréen en ligne](http://www.coreen-actuel.com/)
 * [**Cours de Coréen](http://www.cours-coreen.fr/index.php)
 ## 21
 * [Learn Swahili - Grammar and Vocabulary](http://mylanguages.org/learn_swahili.php)
@@ -5920,7 +5923,7 @@
 ## 25
 * Suomi
 
-## 2$1
+## 2
 * [**Esperanto – Esperanto: the international language](http://esperanto.net/en/)
 * [Interlingua (IALA) — Wikipédia](https://fr.wikipedia.org/wiki/Interlingua_%28IALA%29)
 * [Site multilingue pour apprendre la langue internationale espéranto - lernu.net](https://lernu.net/fr)
@@ -7067,7 +7070,7 @@
 * [TEXTOS Y AUDIOS EN GRIEGO | Faetonte | Lenguas y cultura grecolatina, textos y audio](https://helenika.wordpress.com/about/1o-de-bachillerato-griego/)
 * [Latine audio - Ἑλληνιστὶ ἀκούω](https://www.facebook.com/Latine-audio-%E1%BC%99%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CF%83%CF%84%E1%BD%B6-%E1%BC%80%CE%BA%CE%BF%CF%8D%CF%89-106559531403731/?__cft__[0]=AZXzrPIJZJk3nEQ6obhyPxHjKua_zjhK_1En60gtTyqf4Z7AwdkUzaPf-hflJDrtkwhIiaxcWAGHWQFuIRpRa7aP2LdoFkhOGg0flTky_skJZwNR2YB0iwg4_9kdPax0Tpgfhn9BsJkxtB_mzV08Wp1RxI7e9fIVVNE_b-0eW3uWf6mXJst6bCkrnxTczkdJrb0Ijy2HbOCBznA5SAKdE4bA4fa_lar4-AHh62YHJhCAjOKJ_HvbEjQccR19gpnbL5E&__tn__=-UC%2CP-y-R)
 
-## 1$1
+## 1
 * [** [heautonpaideuomenos.blogspot.com/2015/01/blog-post.html](https://heautonpaideuomenos.blogspot.com/2015/01/blog-post.html)**](https://heautonpaideuomenos.blogspot.com/2015/01/blog-post.html](https://heautonpaideuomenos.blogspot.com/2015/01/blog-post.html)**)
 * [GRC Reconstructed Podcast](https://open.spotify.com/show/1Mi8qFuBFCcSnf4lPeIb8u?si=Ofltq-drTjujc6HAK4d-RQ)
 * [ὁ διὰ νυκτὸς διάλογος](https://open.spotify.com/show/0JgV3V6FiZF2YqVZhM2Xyu?si=KCXG6VG2TyqfOTbugKz5jA)
@@ -7242,11 +7245,11 @@
 * [lydbok på norsk - YouTube](https://www.youtube.com/results?search_query=lydbok+p%C3%A5+norsk)
 * [Stavangerkameratene - Forelska Meg I Deg Igjen Lyrics | Musixmatch](https://www.musixmatch.com/lyrics/Stavangerkameratene/Forelska-meg-i-deg-igjen)
 * [Stavangerkameratene music, videos, stats, and photos | Last.fm](https://www.last.fm/music/Stavangerkameratene)
-* [**Hellbillies — Wikipédia](https://fr.wikipedia.org/wiki/Hellbillies$1
-* [**Narum (group) - Wikipedia](https://en.wikipedia.org/wiki/Narum_(group)$1
-* [**Siri Nilsen - Wikipedia](https://en.wikipedia.org/wiki/Siri_Nilsen$1
-* [**VG-lista 2018 – Skandinavias største konsert](https://www.vglista.no/$1
-* [*Dollie – Wikipedia](https://no.wikipedia.org/wiki/Dollie$1
+* [**Hellbillies — Wikipédia](https://fr.wikipedia.org/wiki/Hellbillies)
+* [**Narum (group) - Wikipedia](https://en.wikipedia.org/wiki/Narum_(group)
+* [**Siri Nilsen - Wikipedia](https://en.wikipedia.org/wiki/Siri_Nilsen)
+* [**VG-lista 2018 – Skandinavias største konsert](https://www.vglista.no/)
+* [*Dollie – Wikipedia](https://no.wikipedia.org/wiki/Dollie)
 * [Vamp (band) - Wikipedia](https://en.wikipedia.org/wiki/Vamp_%28band%29)
 * [Anne Marie Almedal – Wikipedia](https://no.wikipedia.org/wiki/Anne_Marie_Almedal)
 * [Bamses Venner – Ingen Som Dig Lyrics | Genius Lyrics](https://genius.com/Bamses-venner-ingen-som-dig-lyrics)

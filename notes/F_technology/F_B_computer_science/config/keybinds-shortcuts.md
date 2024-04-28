@@ -32,7 +32,7 @@
 * [ ] add variable system for things like leader key, modifier<i>,
         etc.
 * [ ] develop good way to deal with chords → synchronicity vs
-        sequentialit$1
+        sequentialit
 * [ ] like this: “($ctrl ;) ($ctrl k)”, “($ctrl $alt k) ($))” →
             ‘$’ as escape for ‘(’ and ‘)’
 * [ ] add prefix for valid scope: “[vscode] ($ctrl $alt k) ($))”
@@ -324,7 +324,7 @@ shift + shift -> caps lock or some other key
 ```lisp
 (defsrc
     esc            f1   f2   f3   f4             f5    f6    f7    f8          f9   f10  f11   f12
-    grv       1      2    3      4      5       6     7      8     9      $1
+    grv       1      2    3      4      5       6     7      8     9      
     *      =    bspc
     tab       q      w    e      r      t       y     u      i     o      p       [      ]       \
     caps      a      s    d      f      g       h     j      k     l      ;       '          enter
@@ -334,7 +334,7 @@ shift + shift -> caps lock or some other key
 
 (deflayer default
     caps           f1   f2   f3   f4               f5      f6     f7    f8          f9   f10  f11   f12
-    grv       1      2    3      4       5       6       7       8     9      $1
+    grv       1      2    3      4       5       6       7       8     9      
     *      =     bspc
     tab       q      w    e      r       t       y       u       i     o      @punct  [      ]        \
     @hybrctl  a      s    d      f       @german h       j       k     l      ;       '           enter
@@ -346,7 +346,7 @@ shift + shift -> caps lock or some other key
     *         *     *   *     *         *     *    *     *      *    *    *    -
     *       *      *    *      *      *       *     *      *     *      *      *      *    -
     *       *      *    *      *      *       *     *      *     *      *      *      *    -
-    *       *      *    *      *      *       lft   down   up    rgh$1
+    *       *      *    *      *      *       lft   down   up    rgh
     *      *       -
     *       *      *    *      *      *       *     *      *     *      *              *     -
     *       *      *         *                                  *      *       *       * - -
@@ -355,10 +355,10 @@ shift + shift -> caps lock or some other key
 (deflayer germanmode
     *         *     *   *     *         *     *    *     *      *    *    *    -
     *       *      *    *      *      *       *     *      *     *      *      *      *    -
-    *       *      *    *      *      *       *     @$1
-    *     @$1
+    *       *      *    *      *      *       *     @
+    *     @
     *      *      *    -
-    *       @$1
+    *       @
     *    *      *      *       *     *      *     *      *      *       -
     @gshift -      *    *      *      *       *     *      *     *      *                  @gshift   -
     *       *      *         *                                  *      *       *       * - -
@@ -367,10 +367,10 @@ shift + shift -> caps lock or some other key
 (deflayer germanmodecaps
     *         *     *   *     *         *     *    *     *      *    *    *    -
     *       *      *    *      *      *       *     *      *     *      *      *      *    -
-    *       *      *    *      *      *       *     @$1
-    *     @$1
+    *       *      *    *      *      *       *     @
+    *     @
     *      *      *    -
-    *       @$1
+    *       @
     *    *      *      *       *     *      *     *      *      *       -
     *       *      *    *      *      *       *     *      *     *      *              *     -
     *       *      *         *                                  *      *       *       * - -
@@ -379,10 +379,10 @@ shift + shift -> caps lock or some other key
 (deflayer freq_unicode
     *         *     *   *     *         *     *    *     *      *    *    *    -
     *       *      *    *      *      *       *     *      *     *      *      *      *    -
-    *       *      *    *      *      *       *     @$1
-    *     @$1
+    *       *      *    *      *      *       *     @
+    *     @
     *      *      *    -
-    *       @$1
+    *       @
     *    *      *      *       *     *      *     *      *      *       -
     *       *      *    *      *      *       *     *      *     *      *              *     -
     *       *      *         *                                  *      *       *       * - -
@@ -391,11 +391,11 @@ shift + shift -> caps lock or some other key
 (deflayer numbers
     *         *     *   *     *         *     *    *     *      *    *    *    -
     *       *      *    *      *      *       *     *      *     *      *      *      *    -
-    *       *      7    8      $1
+    *       *      7    8      
     *       *     *      *     *      *      *      *    -
-    *       *      4    5      $1
+    *       *      4    5      
     *       *     *      *     *      *      *       -
-    *       0      1    2      $1
+    *       0      1    2      
     *       *     *      *     *      *              *     -
     *       *      *         *                                  *      *       *       * - -
 )
@@ -405,7 +405,7 @@ shift + shift -> caps lock or some other key
     *       *       *       *      *      *       *     *      *     *      *      *      *    -
     *       S-,     S-.     S-[    S-]    *       *     *      *     *      *      *      *    -
     *       S-9     S-0     [      ]      *       *     *      *     *      *      *       -
-    *       @angleL @angleR 2      $1
+    *       @angleL @angleR 2      
     *       *     *      *     *      *              *     -
     *       *      *         *                                      *      *       *       * - -
 )
@@ -413,11 +413,11 @@ shift + shift -> caps lock or some other key
 (deflayer ascii_special
     *         *     *   *     *         *     *    *     *      *    *    *    -
     *       *      *      *     *      *       *     *      *     *      *      *      *    -
-    *       S-\    S-7    S-8   S-9    S-gr$1
+    *       S-\    S-7    S-8   S-9    S-gr
     *     *      *     *      *      *      *    -
-    *       \      S-4    S-5   S-6    gr$1
+    *       \      S-4    S-5   S-6    gr
     *     *      *     *      *      *       -
-    *       *      S-1    S-2   S-$1
+    *       *      S-1    S-2   S-
     *       *     *      *     *      *              *     -
     *       *        *                           *      *       *       * - -
 )

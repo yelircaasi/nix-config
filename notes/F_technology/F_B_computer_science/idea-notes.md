@@ -150,8 +150,8 @@
 
 ### NSM
 
-* [x] Perform preliminary analysis with non-circular dictionary (norm propagation along definitions, distinguish between structure words and semantic content words)- [ ] scrape dictionar$1
-* [ ] create data structure for dictionar$1
+* [x] Perform preliminary analysis with non-circular dictionary (norm propagation along definitions, distinguish between structure words and semantic content words)- [ ] scrape dictionar
+* [ ] create data structure for dictionar
 * [ ] put into graph
 * [A survey of cross-lingual word embedding models](https://ruder.io/cross-lingual-embeddings/)
 * [ithkuil.net/](http://www.ithkuil.net/)

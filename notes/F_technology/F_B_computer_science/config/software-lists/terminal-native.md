@@ -116,11 +116,11 @@ train models.
 ## SORT
 
 * {cli} [A Powerline configuration for Starship.rs](https://gist.github.com/notheotherben/92302a60f8599ba73f1c2840f3c6d455)
-* {cli} [...](https://git-cliff.org/
-* {cli} [...](https://github.com/karino2/mdvtbl
-* {cli} [...](https://github.com/nwtnni/tock
-* {cli} [...](https://github.com/posit-dev/great-tables
-* {cli} [...](https://github.com/szktkfm/mdtt
+* {cli} [...](https://git-cliff.org/)
+* {cli} [...](https://github.com/karino2/mdvtbl)
+* {cli} [...](https://github.com/nwtnni/tock)
+* {cli} [...](https://github.com/posit-dev/great-tables)
+* {cli} [...](https://github.com/szktkfm/mdtt)
 * {cli} [* Gabriella439/turtle: Shell programming, Haskell style](https://github.com/Gabriella439/turtle)
 * {cli} [Adding fuzzy history search to IPython · Issue #12231 · ipython/ipython](https://github.com/ipython/ipython/issues/12231)
 * {cli} [Backward search in ipython via FZF - Stack Overflow](https://stackoverflow.com/questions/48203949/backward-search-in-ipython-via-fzf)
@@ -952,14 +952,14 @@ term [rio](software [raphamorim/rio)](https://github.com/raphamorim/rio))
   *  → compare [scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 *  [ripsecrets](https://github.com/sirwart/ripsecrets) - A command-line tool to prevent committing secret keys into your source code
 *  [fastmod](https://github.com/facebookincubator/fastmod) - A tool to assist you with large-scale codebase refactors, and it supports most of codemod's options. It is focused on improving the use case "I want to use interactive mode to make sure my regex is correct, and then I want to apply the regex everywhere".
-* ( ) [Codemod](Codemod - probably not, just compare with fastmod
+* ( ) [Codemod](Codemod - probably not, just compare with fastmod)
 * 󱐋󱐋󱐋 [tag](https://github.com/aykamko/tag) - Instantly jump to your ag matches. Abandoned; fork and update and package for Nix
 *  [Gource](https://github.com/acaudwell/Gource)
 * ( ) [on YouTube](https://www.youtube.com/@gourceryt/featured)
 * LLL [lexis](https://github.com/k4m4/lexis) - word counting made easy. Retrieve the number of words in a string or stdin.
 * ( ) [cppcheck](https://github.com/danmar/cppcheck/) - Static analysis tool for C/C++ code providing unique code analysis to detect bugs and focuses on detecting undefined behaviour and dangerous coding constructs.
 * ( ) [restructor](https://strlen.com/restructor/) - probably not usable, but very interesting conceptually
-* ( ) [cspell](https://cspell.org/
+* ( ) [cspell](https://cspell.org/)
 * ( ) [Frama-C](https://git.frama-c.com/pub/frama-c/) - Open-source extensible and collaborative platform dedicated to source-code analysis of C software. Frama-C can assist from the navigation through unfamiliar projects up to the certification of critical software. (OCAML) - experimental C++ support
 * Platforms
 * [Codecov](https://codecov.io/) - Continuous Code Coverage

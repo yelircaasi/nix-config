@@ -856,12 +856,12 @@ model sequence understanding                       <|> ** Natural Language Under
 * {uni stuttgart project research ims                 } <|> [ims.uni-stuttgart.de/en/research/projects/](https://www.ims.uni-stuttgart.de/en/research/projects/)
 * {uni stuttgart teaching ims                         } <|> [ims.uni-stuttgart.de/en/teaching/theses/](https://www.ims.uni-stuttgart.de/en/teaching/theses/)
 * {uni teaching                                       } <|> [uni-saarland.de/lehrstuhl/moebius/members/bernd-moebius/teaching.html](https://www.uni-saarland.de/lehrstuhl/moebius/members/bernd-moebius/teaching.html)
-* {university                                         } <|> [Is the Right Right on Economics? – Washington University Political Review](https://www.wupr.org/2021/08/19/is-the-right-right-on-economics/?
+* {university                                         } <|> [Is the Right Right on Economics? – Washington University Political Review](https://www.wupr.org/2021/08/19/is-the-right-right-on-economics/?)
 
 ## ?
 
 * {?} <|> Automated Essay Scoring
-* {?} <|> Listen, Attend and Spell
+* {?} <|> Listen, Attend and Spell)
 * {?} <|> [Chris Albon](https://chrisalbon.com/)
 * {?} <|> [From LSI to PLSI](http://lifeofacomputationallinguist.blogspot.com/2018/07/from-lsi-to-plsi.html)
 * {?} <|> [Il linguaggio naturale ( natural language o NL ) - Andrea Minini](http://www.andreaminini.com/nlp/linguaggio-naturale)

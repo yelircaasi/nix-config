@@ -369,8 +369,8 @@
 ## SORT
 
 media * [?](https://www.reddit.com/r/unixporn/s/CUbkAsCxR2) music player in C
-* {media} [...](https://github.com/SilinMeng0510/imgcatr
-* {media} [...](https://saitoha.github.io/libsixel/
+* {media} [...](https://github.com/SilinMeng0510/imgcatr)
+* {media} [...](https://saitoha.github.io/libsixel/)
 * {media} [castget](https://castget.johndal.com/) cli podcast downloader
 * {media} [lyssa](https://github.com/cococry/lyssa)
 * {media} [mousai](https://github.com/SeaDve/Mousai) - Identify songs in seconds

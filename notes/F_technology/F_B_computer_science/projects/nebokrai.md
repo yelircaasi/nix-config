@@ -1805,7 +1805,7 @@ Scheduler
 * [GNU Taler](https://taler.net/) - Cash-like system for online payments. ([GNU GPL](https://taler.net/en/developers.html))
 * [Lakshmi](https://github.com/sarvjeets/lakshmi) - Investing library and command-line interface inspired by the Bogleheads philosophy.
 * [Quoter](https://github.com/frossm/quoter) - The console based stock quote tool.
-* `[cointop` - Track crypto prices](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6#cointop
+* `[cointop` - Track crypto prices](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6#cointop)
         httpsgithubcomcointop-shcointop-track-crypto-prices)
 * [Ticker](https://github.com/achannarasappa/ticker) - Terminal stock watcher and stock position tracker.
 * [ticker](https://github.com/achannarasappa/ticker) — Terminal stock ticker with live updates and position tracking
@@ -2009,7 +2009,7 @@ Scheduler
 * (5)[linksnatch](https://github.com/amitmerchant1990/linksnatch)[amitmerchant1990/linksnatch/blob/main/README.md →](https://github.com/amitmerchant1990/linksnatch/blob/main/README.md)[docker-linksnatch](https://github.com/varunsridharan/docker-linksnatch)(bookmark saving tool)
 * (5)[foxy -](https://github.com/s-p-k/foxy) - Plain text bookmarks for Firefox and surf browsers. → make for qb?
 * prod * [...](https://blog.appflowy.io/appflowy-2nd-anniversary-and-2023-roundup/)
-* {prod} [...](https://github.com/jgm/djot
+* {prod} [...](https://github.com/jgm/djot)
 * {prod} [...](https://www.omgubuntu.co.uk/2024/02/wunderlist-returns-as-superlist-more-or-less)
 * {prod} [awesome-productivity-software](https://github.com/areknawo/awesome-productivity-software)
 * {prod} [awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)
@@ -2030,8 +2030,8 @@ prod $$$$ * [Super Productivity – a to do list to get your head free | Super P
 * {prod home} [Home Assistant](https://www.home-assistant.io/)
 * {prod home} [home-assistant](https://github.com/home-assistant)
 * {prod home} [home-assistant](https://www.home-assistant.io/)
-* {prod mail} [...](https://github.com/gburd/isync
-* {prod mail} [...](https://wiki.archlinux.org/title/Msmtp
+* {prod mail} [...](https://github.com/gburd/isync)
+* {prod mail} [...](https://wiki.archlinux.org/title/Msmtp)
 * {prod notes} [...](https://flotes.app/home/notebooks/getting-started/edit_notes/introduction)
 * {prod notes} [Daniele-rolli/Beaver-Notes](https://github.com/Daniele-rolli/Beaver-Notes)
 * {prod notes} [gitit: Wiki using happstack, git or darcs, and pandoc.](https://hackage.haskell.org/package/gitit)
@@ -2078,7 +2078,7 @@ prod proj * rewrite tw in go
 * look for books and articles on the psychology of wealth and inequality
 * Sort through and eventually delete this page
 *Darwin Among the Machines* and *Turing’s Cathedral*
-* Software Architect’s Handbook: Become a successful software architect by implementing effective architecture concept$1
+* Software Architect’s Handbook: Become a successful software architect by implementing effective architecture concept
 * $2блачные архитектуры разработка устойчивых и экономичных облачных приложений.pdf
 * [Структура и интерпретация компьютерных программ](http://library.lol/main/4D228E9600C4588BC0EA11CBD1225203)
 * [byndyu.ru/antifragileit](https://byndyu.ru/antifragileit)

@@ -5,8 +5,8 @@
 * meta *  [LL](https://www.linuxlinks.com/)
 * {meta} [ ]  → look at KDE Apps (and Gnome and [...](https://www.xfce.org/projects)
 * {meta} [(2) Vim-based desktop apps : vim](https://www.reddit.com/r/vim/comments/zacm9i/vimbased_desktop_apps/)
-* {meta} [...](https://github.com/denisdubochevalier?tab=repositories
-* {meta} [...](https://github.com/samuela?tab=repositories
+* {meta} [...](https://github.com/denisdubochevalier?tab=repositories)
+* {meta} [...](https://github.com/samuela?tab=repositories)
 * {meta} [awesome-open-source-systems](https://github.com/ishanvyas22/awesome-open-source-systems)
 * {meta} [awesome-tools](https://github.com/kodsnack/awesome-tools)
 * {meta} [awesome-uses](https://github.com/tvanantwerp/awesome-uses)

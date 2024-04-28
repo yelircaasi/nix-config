@@ -135,7 +135,7 @@ github nvim                                        <|>  nvim   [adriankarlen/sts
 github nvim                                        <|>  nvim   [mrcjkb/rustaceanvim](https://github.com/mrcjkb/rustaceanvim)
 github nvim                                        <|>  nvim   [oxfist/night-owl.nvim](https://github.com/oxfist/night-owl.nvim)
 github nvim                                        <|>  nvim   [simonmclean/triptych.nvim](https://github.com/simonmclean/triptych.nvim)
-* {github nvim                                        } <|> [...](https://github.com/nvim-neorocks
+* {github nvim                                        } <|> [...](https://github.com/nvim-neorocks)
 * {github nvim                                        } <|> [EnriqueBravo115/nvim](https://github.com/EnriqueBravo115/nvim)
 * {github nvim                                        } <|> [GCBallesteros/jupytext.nvim](https://github.com/GCBallesteros/jupytext.nvim)
 * {github nvim                                        } <|> [GCBallesteros/jupytext.nvim](https://github.com/GCBallesteros/jupytext.nvim)

@@ -184,9 +184,9 @@
 * [Statistics 36-462/662: Data Mining (Fall 2019)
 * [Understanding Machine Learning (with solution manual)
 * [Машинное обучение. Часть 1](http://www.intsys.msu.ru/staff/mironov/machine_learning_vol1.pdf)
-* [Методы и системы обработки больших данных](https://www.lektorium.tv/course/30090$1
-    * **Ammon Shashu$1
-    * **Machine Learning | Coursera
+* [Методы и системы обработки больших данных](https://www.lektorium.tv/course/30090)
+    * **Ammon Shashu
+    * **Machine Learning | Coursera)
 * [10. Applied Data Science with Python — UMich](https://online.umich.edu/series/applied-data-science-with-python/)
 * [11. Statistics with R Specialization — Duke University](https://www.coursera.org/specializations/statistics)
 * [12. SQL for Data Science — UC Davis](https://www.coursera.org/learn/sql-for-data-science?)
@@ -239,8 +239,8 @@
 * [Toronto Intro to Neural Networks and Machine Learning](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/)
 * [Une introduction aux sciences des données](https://mathematical-tours.github.io/book-basics-sources/IntroImaging-FR.pdf)
 * [Машинное обучение (курс лекций, К.В.Воронцов)
-    * *CS 224N | Hom$1
-    * *Topics in Mathematics of Data Science | Mathematics | MIT OpenCourseWar$1
+    * *CS 224N | Hom
+    * *Topics in Mathematics of Data Science | Mathematics | MIT OpenCourseWar
     * *Topics in Mathematics of Data Science Lecture Notes
 * [1. CS109 Data Science](http://cs109.github.io/2015/pages/videos.html)
 * [10.  Data Mining bu University of Buffalo](https://cedar.buffalo.edu/~srihari/CSE626/index.html?fbclid=IwAR3XZ50uSZAb3u5BP1Qz68x13_xNEH8EdEBQC9tmGEp1BoxLNpZuBCtfMSE)
@@ -340,8 +340,8 @@
 * [yandexdataschool/Practical_DL: DL course co-developed by YSDA, HSE and Skoltech](https://github.com/yandexdataschool/Practical_DL)
 * [slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_shares%3Ba1Vq7AYlTOmwFz%2FVvzR2wA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base_recent_activity_details_shares-object](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_shares%3Ba1Vq7AYlTOmwFz%2FVvzR2wA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base_recent_activity_details_shares-object)
 * [courses/deeplearning1/nbs at master · fastai/courses · GitHub](https://github.com/fastai/courses/tree/master/deeplearning1/nbs)
-* [fastai/courses/tree/master/deeplearning1/nbs](https://github.com/fastai/courses/tree/master/deeplearning1/nbs$1
-    *  Courses Toronto
+* [fastai/courses/tree/master/deeplearning1/nbs](https://github.com/fastai/courses/tree/master/deeplearning1/nbs)
+    *  Courses Toronto)
 * [cs.cornell.edu/courses/cs4780/2018fa/](https://www.cs.cornell.edu/courses/cs4780/2018fa/)
 * [coursera.org/learn/machine-learning](https://www.coursera.org/learn/machine-learning)
 * [Google Cloud Platform Big Data and Machine Learning Fundamentals auf Deutsch | Coursera](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-de)
@@ -349,8 +349,8 @@
 * [software.intel.com/en-us/ai/courses/machine-learning](https://software.intel.com/en-us/ai/courses/machine-learning)
 * [developers.google.com/machine-learning/crash-course/](https://developers.google.com/machine-learning/crash-course/)
 * [lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
-* [dlcourse.ims.uni-stuttgart.de/](https://dlcourse.ims.uni-stuttgart.de/$1
-    *  Course Progression - Deep Learning Wizard
+* [dlcourse.ims.uni-stuttgart.de/](https://dlcourse.ims.uni-stuttgart.de/)
+    *  Course Progression - Deep Learning Wizard)
 * [ocw.mit.edu/courses/economics/14-15j-networks-fall-2009/lecture-notes/](https://ocw.mit.edu/courses/economics/14-15j-networks-fall-2009/lecture-notes/)
 * [enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning: Advanced Deep Learning and Reinforcement Learning course taught at UCL in partnership with Deepmind](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning)
 * [coursera.org/learn/machine-learning/home/welcome](https://www.coursera.org/learn/machine-learning/home/welcome)

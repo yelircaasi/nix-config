@@ -268,12 +268,12 @@
 
 ## SORT
 
-* {distro } [...](https://github.com/Vanilla-OS/custom-image
-* {distro} [...](https://github.com/Vanilla-OS/Vib
+* {distro } [...](https://github.com/Vanilla-OS/custom-image)
+* {distro} [...](https://github.com/Vanilla-OS/Vib)
 * {distro} [...](https://gitlab.com/garuda-linux/)
 * {distro} [...](https://guix.gnu.org/en/blog/2018/guix-on-android/)
 * {distro} [...](https://ubuntu.com/blog/ubuntu-core-an-immutable-linux-desktop)
-* {distro} [...](https://www.openbsdhandbook.com/openbsd_for_linux_users/
+* {distro} [...](https://www.openbsdhandbook.com/openbsd_for_linux_users/)
 * {distro} [ais](https://github.com/archsinner/ais) archsinner install script
 * {distro} [Arch Linux Automated Install Script](https://low-orbit.net/arch-linux-automated-install-script)
 * {distro} [axyl-os/axyl-iso/releases](https://github.com/axyl-os/axyl-iso/releases)

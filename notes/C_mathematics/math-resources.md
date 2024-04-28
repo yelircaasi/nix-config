@@ -102,7 +102,7 @@ Clara Löh
 * [How to Learn Advanced Mathematics Without Heading to University - Part 1 | QuantStart](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1)
 * [How to Learn Advanced Mathematics Without Heading to University - Part 2 | QuantStart](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-2)
 * [How to Learn Advanced Mathematics Without Heading to University - Part 3 | QuantStart](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-3/)
-* [How to Learn Advanced Mathematics Without Heading to University - Part 4 | QuantStart](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Wit
+* [How to Learn Advanced Mathematics Without Heading to University - Part 4 | QuantStart](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Wit)
         [quantstart.com/articles/how-to-learn-advanced-mathematics-without-heading-to-university-part-4/hout-Heading-to-University-Part-3/)](https://www.quantstart.com/articles/how-to-learn-advanced-mathematics-without-heading-to-university-part-4/hout-Heading-to-University-Part-3/)
 * [What should a professional mathematician know?](http://www.math.harvard.edu/~mazur/preprints/math_ed_2.pdf)
 * [How I Rewired My Brain to Become Fluent in Math](https://getpocket.com/explore/item/how-i-rewired-my-brain-to-become-fluent-in-math)

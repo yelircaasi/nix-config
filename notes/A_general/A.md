@@ -415,16 +415,16 @@
 * Synthesizing
 *
 * Ways to deeply learn a language
-* - write down “missing words” and look them up as soon as possible
-* - use those words in context
-* - study across all areas - occupations, educational subjects, social situations
-* - work through the dictionary - quiz myself & write down useful words
-* - practice translating different types of texts
-* - talk with natives about all kinds of things
-* - use all 4 kinds of communication often
-* - work through an advanced grammar book
-* - write in my journal, looking up words I need
-* - reading a lot
+* write down “missing words” and look them up as soon as possible
+* use those words in context
+* study across all areas - occupations, educational subjects, social situations
+* work through the dictionary - quiz myself & write down useful words
+* practice translating different types of texts
+* talk with natives about all kinds of things
+* use all 4 kinds of communication often
+* work through an advanced grammar book
+* write in my journal, looking up words I need
+* reading a lot
 * Idea: always keep porous boundaries when drawing lines between groups of people
 * Je sais concentrer mes efforts.
 * J’apprends sans pression extérieure.
@@ -498,7 +498,7 @@
 * matemática y música
 * Combine lists of top thinkers, internationally and by region
 * how to systematically organize, store, update, and expand the corpus of human knowledge (or even just some subset of it)?
-* -> differences in views of human progress and its purposes by worldview
+*> differences in views of human progress and its purposes by worldview
 * Find best thought leaders by language, topic, & country
 * [[Create 2nd Twitter account with](http://ex.ua/)
 * email and follow thought leaders, celebrities, etc.
@@ -690,8 +690,8 @@
 * History in Literature
 * How to Read World History in Art
 * how to. Wie man's hinkriegt
-* - Обговорення | Serial Books &amp; Magazines
-* - **explore recommendations
+* Обговорення | Serial Books &amp; Magazines
+* **explore recommendations
 * 1,000 Books to Read before You Die
 * 1. Эволюция человека. 2 тома. Двухтомник «Эволюция человека» отвечает на многие вопросы, давно интересующие человека разумного. Что значит- быть человеком? Когда и почему мы стали людьми? В чем мы превосходим наших соседей по планете, а в чем — уступаем им? И как нам лучше использовать главное свое отличие и достоинство — огромный, сложно устроенный мозг? Один из способов — вдумчиво прочесть эту книгу. Александр Марков — доктор биологических наук, ведущий научный сотрудник Палеонтологического института РАН. Его книга об эволюции живых существ «Рождение сложности» (2010) стала событием в научно-популярной литературе и получила широкое признание читателей.2.Мир, полный демонов: Наука — как свеча во тьме» Книга астрофизика и популяризатора науки Карла Сагана, впервые опубликованная в 1995 году. Цель книги — объяснить научный метод для широкого круга людей, и воодушевить их подходить к новой информации критически, и скептически мыслить. В книге рассказывается, какими методами можно отличить науку, которая работает, от псевдонаучных идей. Саган объясняет, что если на рассмотрение предлагаются новые идеи, то они должны испытываться посредством скептического мышления, и четко отвечать на задаваемые вопросы. Отличная книга для зимнего чтения.3.«Чёрное облако» Научно-фантастический роман известного английского астрофизика и писателя Фреда Хойла. В романе достаточно детально разбираются некоторые вопросы, связанные с исследованиями. Это связано с тем, что Хойл описывал знакомую ему среду. В частности, даже приводится использующий дифференциальное исчисление расчёт Вейхарта о времени приближения Облака. Идеи этого расчёта позже послужили основой для некоторых олимпиадных задач (например, для выездных олимпиад МФТИ). Кроме этого, в романе нелицеприятно нарисованы все без исключения профессиональные политики. Эту книгу рекомендовал Ричард Докинз для расширения сознания, вместо каннабиса или других психоактивов.4. "В поисках памяти" Книга посвящена истории возникновения и развития науки и биологической основе человеческой психики. Автор книги разъясняет революционные достижения современной биологии и проливает свет на то, как бихевиоризм, когнитивная психология породили новую науку. Великолепная книга от отличного автора. Она захватит Ваше внимание сразу, ибо интересные биографические детали жизни Эрика Канделя, вплетаются с научными исследованиями, которые он проводит. Книга начинается с воспоминаний о детстве автора в оккупированной нацистами Вене и описывает научную карьеру Канделя, от его раннего увлечения историей и психоанализом до новаторских работ в области изучения клеточных и молекулярных механизмов памяти, за которые он удостоился Нобелевской премии. Эта книга — о поиске биологических основ человеческой памяти.5. «Бойня номер пять, или Крестовый поход детей» Автобиографический роман Курта Воннегута о бомбардировке Дрездена во время Второй мировой войны. Великолепная научно-фантастическая книга. Она может многим показаться очень странной, но она достойна прочтения. Может показаться, что ее писал шизофреник. Концовка книги заканчивается словами: "Пьюти фьют." Это очень запоминается, хотя она была прочитана давно. После бомбардировок порта Пёрл-Харбор Курт Воннегут добровольно вступил в ряды вооружённых сил США и участвовал во Второй мировой войне. В 1944 году он попал в плен во время Арденнской контрнаступательной операции немецких войск и был направлен в Дрезден, где вместе с другими военнопленными работал на заводе, производящем солодовый сироп с витаминами для беременных женщин. И именно в Дрездене Воннегуту было суждено приобрести свой самый страшный военный опыт. 13—14 февраля 1945 года он стал свидетелем бомбардировки Дрездена авиацией союзнических войск. Курт Воннегут оказался в числе семи американских военнопленных, выживших в тот день в Дрездене. Пленных на ночь запирали на неработающей городской скотобойне номер 5, а во время бомбёжки уводили в подвал, в котором хранились мясные туши. Настоящих бомбоубежищ в городе почти не было, поскольку Дрезден не был стратегически важной целью. Чудом избежав гибели от своих же самолётов, Воннегут в полной мере познал ужас войны, когда вместе с другими пленными ему пришлось разбирать руины и вытаскивать из-под обломков тысячи трупов. Воннегут был освобождён войсками Красной Армии в мае 1945 года. По мнению писателя, бомбардировка Дрездена не была вызвана военной необходимостью. Большинство погибших при этой операции были мирными жителями, были разрушены жилые кварталы, погибли памятники архитектуры. Воннегут, будучи, бесспорно, против нацизма, не признаёт, что разгром Дрездена был «наказанием» за преступления нацистов. Роман подвергся цензуре в США, он был занесён в список «вредных» книг и изымался из библиотек. 6. Удовольствие от x Увлекательная экскурсия в мир математики от одного из лучших преподавателей в мире. Стивен Строгац — математик мирового уровня, преподаватель прикладной математики в Корнелльском университете США (один из ведущих технических вузов мира). Обладатель большого числа наград, как в области математики, так и в области преподавания. В 2010 году Стивен Строгац написал серию статей об основах математики для газеты The New York Times. Статьи вызвали бурю восторга. Каждая колонка становилась самым популярным материалом в газете и собирала сотни комментариев. Читатели просили еще, и Стивен не подвел — появилась эта книга, в которую вошли как уже опубликованные части, так и совершенно новые главы. Математика пронизывает все в этом мире, включая нас самих, но, к сожалению, мало кто понимает этот универсальный язык настолько хорошо, чтобы по достоинству оценить его мудрость и красоту. Стивен Строгац — тот самый учитель математики, о котором вы мечтали в школе. Учитель, который способен зажечь искру интереса и привить любовь к своему предмету на всю жизнь. В этой невероятно легкой и увлекательной книге, он дает всем нам второй шанс познакомиться с математикой. Цитаты из книги: "Что в итоге? Я проведу вас от арифметики до высшей математики, чтобы те, кто хотел получить второй шанс, смогли им воспользоваться. Эта книга не сделает вас экспертом в математике. Зато поможет разобраться в том, что изучает математика и почему она так увлекательна для тех, кто это понял." Эту книгу можно прочитать за один вечер. Она захватывает от начала до конца. Загадки и математические подробности в увлекательной манере автора, ждут Вас на протяжении всей книги. Хороший выбор для тех, кто решил в 2017 начать хоть что-то читать. Она не оставит равнодушным никого, ибо она интересна людям с абсолютно разными уровнями знаний, или даже без каких-либо знаний.
 * [10 важнейших монументальных трудов человечества!](https://vk.com/wall-30328106_201174)
@@ -1292,24 +1292,24 @@
 * Disfruto de paz y me siento impulsado por el proposito de mi vida. Aprendo constantemente y correjo curso tantas veces que sea necessario.
 * Book or Article Ideas
 * Book or Article Ideas
-* - Uncertainty and the Golden Mean - difficulty of maintaining a moderate position between extremes of science and religion
-* - Russian proverbs and/or phrases
-* - complete Church history and commentary - candid discussion and integrated responses to it
-* - attributes of perfection
-* - commentary on culture: American, Russian, Ukrainian, and wherever else I live or travel
-* - common-sense nutrition
-* - flaws in (or commentary on) Mormon culture
-* - autobiography
-* - how to learn a foreign language
-* - principles of learning
-* - Mormons and the Bible (cultural criticism and normative suggestion)
-* - living beneath the privileges of the modern world: needless self-deprivation
-* - commentary and reflections on progress and reconciliation of liberalism and conservativism: the relationship between past, present, and future (related but different: living for both the present and the future, “P/PC balance”)
-* - a guide to the conflicting views in economics
-* - the bright side - among all the problems and tragedies in history and society, the good, noble, and admirable developments, events, and circumstances that are sometimes overlooked (a book on gratitude, possibly with projections on what we can learn and how we can improve going forward)
-* - government debt, its consequences, and its moral implications
-* - In Defense of Intuition
-* - Dealing with Ambiguity (the Tension between absolute morality, the basic human desire for absolutes, and multiple perspectives, uncertainty, etc.)
+* Uncertainty and the Golden Mean - difficulty of maintaining a moderate position between extremes of science and religion
+* Russian proverbs and/or phrases
+* complete Church history and commentary - candid discussion and integrated responses to it
+* attributes of perfection
+* commentary on culture: American, Russian, Ukrainian, and wherever else I live or travel
+* common-sense nutrition
+* flaws in (or commentary on) Mormon culture
+* autobiography
+* how to learn a foreign language
+* principles of learning
+* Mormons and the Bible (cultural criticism and normative suggestion)
+* living beneath the privileges of the modern world: needless self-deprivation
+* commentary and reflections on progress and reconciliation of liberalism and conservativism: the relationship between past, present, and future (related but different: living for both the present and the future, “P/PC balance”)
+* a guide to the conflicting views in economics
+* the bright side - among all the problems and tragedies in history and society, the good, noble, and admirable developments, events, and circumstances that are sometimes overlooked (a book on gratitude, possibly with projections on what we can learn and how we can improve going forward)
+* government debt, its consequences, and its moral implications
+* In Defense of Intuition
+* Dealing with Ambiguity (the Tension between absolute morality, the basic human desire for absolutes, and multiple perspectives, uncertainty, etc.)
 * Noms de Plume
 * Newcomer's Guide to the Alt Right
 * Humorous Guide to the Left
@@ -1352,34 +1352,34 @@
 * Conference of the Gods
 * Davos for Deities
 * Webseite-Ideen
-* - Resumé
-* - Kurze Biografie
-* - Bild(-er?)
-* - Links:
-* - LinkedIn
-* - Facebook
-* - Bloglinks
-* - Zufällige Gedanken
-* - Internationale Beziehungen und Politik - Meinung
-* - Sozialer Kommentar
-* - Allgemiene Selbstbildung
-* - Projekte
-* - Denkfehler; klares Denken
-* - Glaube und Weltaussicht
-* - Werte und Ideale
-* - Lernprinzipien
-* - Wissensgebiete - was es zu wissen gibt
-* - Creativity
-* - Music
-* - Art
-* - Poetry
-* - Fiction
-* - Film
-* - Cuisine
-* - Woodwork
-* - Gardening
-* - Lieblingsseiten
-* - Blogroll
+* Resumé
+* Kurze Biografie
+* Bild(-er?)
+* Links:
+* LinkedIn
+* Facebook
+* Bloglinks
+* Zufällige Gedanken
+* Internationale Beziehungen und Politik - Meinung
+* Sozialer Kommentar
+* Allgemiene Selbstbildung
+* Projekte
+* Denkfehler; klares Denken
+* Glaube und Weltaussicht
+* Werte und Ideale
+* Lernprinzipien
+* Wissensgebiete - was es zu wissen gibt
+* Creativity
+* Music
+* Art
+* Poetry
+* Fiction
+* Film
+* Cuisine
+* Woodwork
+* Gardening
+* Lieblingsseiten
+* Blogroll
 * %Partidas:
 * Biogr’afia, todo sobre m’i
 * Enlaces a otros sitios personales
@@ -1393,7 +1393,7 @@
 * Investigaci’on
 * Enlaces y recursos
 * Noticias, medias (?), videos
-*
+
 * Alternatives to Reddit
 * Here are some alternatives to Reddit:
 * 1. Voat: Voat is a community-run platform that operates similarly to Reddit, allowing users to create and participate in discussions on a wide range of topics.
@@ -1421,7 +1421,7 @@
 * [dovidka.biz.ua/](http://dovidka.biz.ua/)
 * [Gazette littéraire - Journal créé en 2009 autour du désir de voyager au travers des livres.](http://www.gazettelitteraire.com/)
 * [LEXILOGOS - Dictionnaires, Cartes, Documents en ligne - Langues &amp; Pays](https://www.lexilogos.com/index.htm)
-* -  Sites web recommandés
+*  Sites web recommandés
 * [openmindplatform.org/app-user/#_=_](https://openmindplatform.org/app-user/#_=_)
 * [List of online encyclopedias - Wikipedia](https://en.wikipedia.org/wiki/List_of_online_encyclopedias)
 * [project-syndicate.org/](https://www.project-syndicate.org/)
@@ -1587,7 +1587,7 @@
 * [Hidden Brain : NPR](http://www.npr.org/series/423302056/hidden-brain)
 * [World Academy of Art and Science](http://www.worldacademy.org/home-demo/index.html)
 * [thegreatideas.org/](https://www.thegreatideas.org/)
-* [Perspectives from The Economist Intelligence Unit (EIU)
+* Perspectives from The Economist Intelligence Unit (EIU)
 * [openmindplatform.org/app-user/#_=_](https://openmindplatform.org/app-user/#_=_)
 * [Вопросы и ответы](https://thequestion.ru/)
 * [Главная - Русская историческая библиотека](http://rushist.com/)
@@ -1645,7 +1645,7 @@
 * [Vinduet](http://www.vinduet.no/)
 * [Διαδραστικά Σχολικά Βιβλία](http://ebooks.edu.gr/new/)
 * [Writers Unlimited | Writers Unlimited](http://www.writersunlimited.nl/en)
-* Free eLibrary &quot;Original&quot; | Бесплатная библиотека &quot;Оригинал&quot;. Классическая литература на языке оригинала и переводы на иностранные языки
+* Free eLibrary | Бесплатная библиотека. Классическая литература на языке оригинала и переводы на иностранные языки
 * [tululu.org/](https://tululu.org/)
 * [Atramenta](https://www.atramenta.net/)
 * [Goodreads Italia Group (10339 Members)](https://www.goodreads.com/group/show/30626-goodreads-italia)
@@ -1775,7 +1775,7 @@
 * [Энциклопедия Кругосвет | Универсальная научно-популярная онлайн-энциклопедия](http://www.krugosvet.ru/)
 * [Encyklopedia PWN - źródło wiarygodnej i rzetelnej wiedzy](http://encyklopedia.pwn.pl/)
 * [Encyklopedia Internautica w Interia.pl – internetowa encyklopedia powszechna - Encyklopedia w INTERIA.PL](https://www.encyklopedia.interia.pl/)
-* - Zapytaj.onet.pl -
+* Zapytaj.onet.pl -
 * [Portada » Enciclonet.com](http://www.enciclonet.com/)
 * [Rječnik filozofskih pojmova – Filozofija.org](https://www.filozofija.org/rjecnik-filozofskih-pojmova/)
 * [encyclopedia.com/](http://www.encyclopedia.com/)
@@ -1842,7 +1842,7 @@
 * [Энциклопедия Кругосвет | Универсальная научно-популярная онлайн-энциклопедия](http://www.krugosvet.ru/)
 * [Encyklopedia PWN - źródło wiarygodnej i rzetelnej wiedzy](http://encyklopedia.pwn.pl/)
 * [Encyklopedia Internautica w Interia.pl – internetowa encyklopedia powszechna - Encyklopedia w INTERIA.PL](https://www.encyklopedia.interia.pl/)
-* - Zapytaj.onet.pl -
+* Zapytaj.onet.pl -
 * [Portada » Enciclonet.com](http://www.enciclonet.com/)
 * [Rječnik filozofskih pojmova – Filozofija.org](https://www.filozofija.org/rjecnik-filozofskih-pojmova/)
 * Preguntas y respuestas
@@ -3202,7 +3202,7 @@
 * [Writing and Script: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199567782.001.0001/actrade-9780199567782?rskey=Vsh5u4&result=684)
 * [Zionism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199766048.001.0001/actrade-9780199766048?rskey=Vsh5u4&result=685)
 * Lectura de noticias
-* - 0
+* 0
 * [ProQuest Newsstand](http://www.provolibrary.com/a-z-resources-list/47859-proquest-newsstand)
 * [Global Voices](https://es.globalvoices.org/)
 * [SBS](http://www.sbs.com.au/podcasts/yourlanguage/)
@@ -3238,7 +3238,7 @@
 * [Обозреавтель](https://www.obozrevatel.com/)
 * [VoA](https://ukrainian.voanews.com/navigation/allsites)
 * [Радио Свобода](https://www.svoboda.org/navigation/allsites)
-* - 16
+* 16
 * [NRK](https://www.nrk.no/)
 * [Dagbladet](http://www.dagbladet.no/)
 * [Aftenposten](http://www.aftenposten.no/)
@@ -3251,18 +3251,18 @@
 * [Politiken](http://politiken.dk/)
 * [Berlingske](https://www.b.dk/)
 * [Kristeligt Dagblad](https://www.kristeligt-dagblad.dk/)
-* - 15
+* 15
 * [Wyborcza](http://wyborcza.pl/0,0.html?disableRedirects=true)
 * [Gazeta](http://www.gazeta.pl/0,0.html)
 * [Na Temat](http://natemat.pl/)
 * [Newsweek PL](http://www.newsweek.pl/)
-* - 14
+* 14
 * [NRC](https://www.nrc.nl/)
 * [Vpro](https://www.vpro.nl/)
 * [Volkskrant](http://www.volkskrant.nl/)
 * [Vrij Nederland](https://www.vn.nl/)
 * [Elsevier](http://www.elsevierweekblad.nl/)
-* - 13
+* 13
 * [LMD](https://lemondediplomatique.hr/)
 * [Aljazeera Balkans](http://balkans.aljazeera.net/)
 * [Novosti](http://novosti.hr/)
@@ -3273,21 +3273,21 @@
 * [Vecernji](https://www.vecernji.hr/)
 * [Telegraf](http://www.telegraf.rs/)
 * [Index](http://index.hr/)
-* - 12
+* 12
 * [Akropolis World News](http://www.akwn.net/)
-* - 11/12
+* 11/12
 * [Ephemeris](http://ephemeris.alcuinus.net/)
-* - 11
+* 11
 * [YLE](http://areena.yle.fi/1-1931339)
 * [RB Latein](http://www.radiobremen.de/nachrichten/latein/latein-startseite100.html)
-* - 10
+* 10
 * [taipeitimes.com/News/lang](http://www.taipeitimes.com/News/lang)
 * [RFI ZH](http://cn.rfi.fr/)
 * [Chinese Tools - News](http://www.chinese-tools.com/news)
 * [People's Daily (multi)
 * [News in Chinese](http://www.popupchinese.com/tools/newsinchinese)
 * [Chinesisch mit Nachrichten](http://www.new-chinese.org/chinesische-nachrichten.html)
-* - 9
+* 9
 * [الجزيرة](http://www.aljazeera.net/portal)
 * [الأوسط](http://aawsat.com/)
 * [الخليج](http://www.alkhaleej.ae/portal)
@@ -3297,7 +3297,7 @@
 * [الاخبار](http://www.al-akhbar.com/)
 * [الحدود](http://www.alhudood.net/)
 * [ن بوست](https://www.noonpost.org/)
-* - 8
+* 8
 * [Lercio](http://www.lercio.it/)
 * [Limes](http://www.limesonline.com/)
 * [Radio Vaticana](http://it.radiovaticana.va/)
@@ -3312,7 +3312,7 @@
 * [RSI](http://www.rsi.ch/)
 * [Quotidiano](http://www.quotidiano.net/)
 * [Gazzetta dello Sport](https://www.gazzetta.it/)
-* - 7
+* 7
 * [Veja](http://veja.abril.com.br/)
 * [Isto é](http://www.istoe.com.br/capa)
 * [Intercept BR](https://theintercept.com/brasil/)
@@ -3330,7 +3330,7 @@
 * [RTP](http://www.rtp.pt/)
 * [globo](http://www.globo.com/)
 * [UOL](https://www.uol.com.br/)
-* - 6
+* 6
 * [WSJ ES](http://online.wsj.com/public/page/espanol-inicio.html)
 * [Democracy Now! ES](https://www.democracynow.org/es)
 * [Europa Press](https://www.youtube.com/channel/UCh_chnQ7OJPQ8mZ7vbXFpIQ)
@@ -3352,7 +3352,7 @@
 * [RTVE](http://www.rtve.es/)
 * [RNE](http://www.rtve.es/radio/)
 * 24H Diretos
-* - 5
+* 5
 * [Jeune Afrique](http://www.jeuneafrique.com/)
 * [Courier International](http://www.courrierinternational.com/)
 * [Atlantico](http://atlantico.fr/)
@@ -3372,7 +3372,7 @@
 * [myCanal+](http://www.canalplus.fr/)
 * [LCI](http://www.lci.fr/)
 * [Canal5](http://www.tv5monde.com/)
-* - 4
+* 4
 * [ВІСТКАР](https://www.vistkar.com/)
 * [ГРОМАДСЬКЕ](https://hromadske.ua/)
 * [Зрада](http://zrada.today/)
@@ -3390,7 +3390,7 @@
 * [Zaxid](https://zaxid.net/)
 * [Korrespondent](https://ua.korrespondent.net/)
 * [Радіо24](https://maximum.fm/)
-* - 3
+* 3
 * [FAZ](http://www.faz.net/)
 * [NZZ](http://www.nzz.ch/)
 * [Zeit](http://www.zeit.de/index)
@@ -3419,7 +3419,7 @@
 * [Watson](http://watson.ch/)
 * News 360
 * Scope
-* - 2
+* 2
 * [Новая газета](http://www.novayagazeta.ru/)
 * [Газета](http://www.gazeta.ru/)
 * [Сноб](https://snob.ru/)
@@ -3443,7 +3443,7 @@
 * [NEWSru](https://www.newsru.com/)
 * [1ый](http://www.1tv.ru/)
 * [Ургант](http://www.1tv.ru/shows/vecherniy-urgant/vypuski)
-* - 1
+* 1
 * [Acculturated](http://acculturated.com/)
 * [Economist](http://economist.com/)
 * [Guardian](http://guardian.com/)

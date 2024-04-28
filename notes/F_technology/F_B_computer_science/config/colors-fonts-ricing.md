@@ -98,14 +98,14 @@
 * ( ) [Reddit GREEN - [HerbstLuft] Sick of bars and fetchs](https://www.reddit.com/r/unixporn/comments/11e1408/herbstluft_sick_of_bars_and_fetchs/)
 * ( ) [Reddit - What's your neovim colorscheme in 2023 ??](https://www.reddit.com/r/neovim/comments/10znmr2/whats_your_neovim_colorscheme_in_2023)
 * ( ) [perfect green](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fi3-simple-manjaro-i3-installation-happy-with-the-results-v0-crt07bxg6mia1.png%3Fs%3D87d9bc8d76747ff4adeee71ef11526bc40ba0f55)
-* ( ) [PERFECT GREEN](https://i.pinimg.com/236x/03/aa/f5/03aaf5d675a96bd4b65f20ff3b6adede.jpg
+* ( ) [PERFECT GREEN](https://i.pinimg.com/236x/03/aa/f5/03aaf5d675a96bd4b65f20ff3b6adede.jpg)
 * ( ) [PERFECT DARK GREEN](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fsu1dbts9ovm51.jpg)
 * ( ) [perfect dark green](https://raw.githubusercontent.com/dark-Jedi2108/nvide/main/.github/screenshots/collage.png)
-* ( ) [PERFECT DARK GREEN](https://preview.redd.it/ezcn7utjv9h41.png?auto=webp&s=f95c300d93d3734186070d2fc5451a817843648e
+* ( ) [PERFECT DARK GREEN](https://preview.redd.it/ezcn7utjv9h41.png?auto=webp&s=f95c300d93d3734186070d2fc5451a817843648e)
 * ( ) [PDJ Sample](https://sphinx-themes.org/sample-sites/sphinx-pdj-theme/) - dark gray, green, and blue, looks nice
 * ( ) [Pastel Forest Theme](https://github.com/rghosh96/Forest-VSCode-Color-Theme)
 * ( ) [Ocean Green](https://github.com/datyin/theme-ocean-green)
-* ( ) [nix green](https://www.pinterest.de/pin/334744184802587636/
+* ( ) [nix green](https://www.pinterest.de/pin/334744184802587636/)
 * ( ) [night forest](https://marketplace.visualstudio.com/items?itemName=thecurlycoder.night-forest)
 * ( ) [neovim bluish green](https://neovim.io/doc/user/options.html)
 * ( ) [Monokai Dark Green - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=alvaro-israel-nunes-leite.theme-monokai-dark-green)
@@ -113,12 +113,12 @@
 * ( ) [Lush Green Linux rice](https://www.youtube.com/watch?v=VejgsroFEL0)
 * ( ) [Kelp Forest](https://github.com/jasontheiler/kelp-forest-theme-vscode)
 * ( ) [honolulu forest by Honoluluchampi](https://vscodethemes.com/e/honoluluchampi.honolulu-forest/honolulu-forest?language=javascript)
-* ( ) [GREY AND GREEN](https://i.pinimg.com/236x/01/8b/c8/018bc8cd7d17c1aab2f241df8c398cca.jpg
+* ( ) [GREY AND GREEN](https://i.pinimg.com/236x/01/8b/c8/018bc8cd7d17c1aab2f241df8c398cca.jpg)
 * ( ) [Greenscreeen](https://vscodethemes.com/e/andrsdc.base16-themes/base16-dark-greenscreen?language=javascript) too green, but some nice tones and a case study in monochrome contrast *
 * ( ) [Greenery by Jared Jones](https://vscodethemes.com/e/jaredkent.greenery/greenery?language=javascript)
 * ( ) [green-abyss by mureni](https://vscodethemes.com/e/mureni.green-abyss/green-abyss?language=javascript)
 * ( ) [Green Theme - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Green)
-* ( ) [GREEN RICE IDEAS](https://i.pinimg.com/originals/30/91/e7/3091e71f52ee99c48daea1689a9f95b7.png
+* ( ) [GREEN RICE IDEAS](https://i.pinimg.com/originals/30/91/e7/3091e71f52ee99c48daea1689a9f95b7.png)
 * ( ) [green gruvbox theme](https://www.cinnamon-look.org/p/1327723)
 * ( ) [Green Dark Theme by yiliyl](https://vscodethemes.com/e/yiliyl.green-dark-theme/real-green-dark-theme?language=javascript)
 * ( ) [green color palette](https://i.pinimg.com/736x/6b/a3/72/6ba37202504d6edaec868a1f94b53eea.jpg)
@@ -142,14 +142,14 @@
 * ( ) [Base16 Leaf Tomorrow - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=swjh.base16-leaf-tomorrow-vscode) - probably one of the best
 * ( ) [Base16 Greenscreen](https://base16.netlify.app/previews/base16-greenscreen.html) - just a good case study in contrast between greens
 * ( ) [Base16 Darktooth](https://base16.netlify.app/previews/base16-darktooth.html) - half the colors perfect; others need to be toned down
-* ( ) [AMAZING THEME](https://preview.redd.it/2k9xfo87648z.png?auto=webp&s=40ee184fd28f892a995d3cfc7f702857e7b92e3b
-* ( ) [AMAZING GREEN and GRAY](https://preview.redd.it/vbx6rv34okk11.png?auto=webp&s=3799cfc63c56d31ba5ae2498b83e25649609dc64
-* ( ) [AMAZING GREEN AND BLUE](https://preview.redd.it/bzz4hxovkxg11.png?auto=webp&s=2a25a01a48d141f130692a3a873f11fd00016fb2
+* ( ) [AMAZING THEME](https://preview.redd.it/2k9xfo87648z.png?auto=webp&s=40ee184fd28f892a995d3cfc7f702857e7b92e3b)
+* ( ) [AMAZING GREEN and GRAY](https://preview.redd.it/vbx6rv34okk11.png?auto=webp&s=3799cfc63c56d31ba5ae2498b83e25649609dc64)
+* ( ) [AMAZING GREEN AND BLUE](https://preview.redd.it/bzz4hxovkxg11.png?auto=webp&s=2a25a01a48d141f130692a3a873f11fd00016fb2)
 * ( ) [AMAZING GREEN AND BLUE](https://github.com/airways/dear-imgui-rs-hello/blob/main/screenshot.png) [airways/dear-imgui-rs-hello/tree/main](https://github.com/airways/dear-imgui-rs-hello/tree/main)
-* ( ) [...](https://www.reddit.com/r/unixporn/comments/133cg7r/void_dwm_st_a_very_green_and_suckless_rice/
+* ( ) [...](https://www.reddit.com/r/unixporn/comments/133cg7r/void_dwm_st_a_very_green_and_suckless_rice/)
 * ( ) [...](https://raw.githubusercontent.com/rainglow/examples/master/vim/kiwi.png )
 * ( ) [...](https://raw.githubusercontent.com/rainglow/examples/master/vim/glowfish.png)
-* ( ) [...](https://github.com/sommaa/Mantis
+* ( ) [...](https://github.com/sommaa/Mantis)
 * ( ) [...](https://dataswamp.org/~solene/) - green and yellow earthy
 
 ### Purple
@@ -162,7 +162,7 @@
 *  [...](https://github.com/hardhackerlabs/themes) hardhacker
 *  [Pink Puff](https://vscodethemes.com/e/jet-c.vscode-theme-pink-puff/pink-puff?language=javascript) - fashionable
 *  [Dark Space](https://vscodethemes.com/e/deadrevolver.dark-space-theme/dark-space?language=javascript)
-*  [...](https://github.com/EdenEast/nightfox.nvim duskfox
+*  [...](https://github.com/EdenEast/nightfox.nvim duskfox)
 *  [...](https://github.com/catppuccin/catppuccin)
 *  [Enough with the Palenight](https://vscodethemes.com/e/lebster.enough-with-the-palenight/palenight-material?language=javascript) - mellow purple, like Vhyrro
 *  [Pinker](https://vscodethemes.com/e/poiasdpoiasd.pinker/pinker?language=javascript) - interesting vibe
@@ -182,9 +182,9 @@
 *  [perfect brown](https://vscodethemes.com/e/ermiyaszeleke.matrix/matrix-theme?language=javascript)
 *  [Muted Nature by Emerion](https://vscodethemes.com/e/emerion.muted-nature/muted-nature-dark?language=javascript) - nearly perfect highlighting colors
 *  [Gruvbox Material Dark Hard Flat](https://www.notion.so/New-Tool-Discovery-de1b080db59f4a93b89d0d1804ff3fa1?pvs=21)
-*  [...](https://reddit.com/r/unixporn/s/pyYkthza17 extremely nice
+*  [...](https://reddit.com/r/unixporn/s/pyYkthza17 extremely nice)
 *  [RetroPoster](https://vscodethemes.com/e/csyasin.theme-retro-poster/retro-poster?language=javascript) - very mellw and coherent
-*  [...](https://github.com/habamax/vim-gruvbit - nice earthy medium-contrast
+*  [...](https://github.com/habamax/vim-gruvbit - nice earthy medium-contrast)
 *  [Muted Nature](https://vscodethemes.com/e/emerion.muted-nature/muted-nature-dark?language=javascript) - very brown and earthy
 *  [zenburn](https://github.com/jnurmine/Zenburn) - very earthy and mellow
 *  [Ra Nature Dark Theme by Rahman Yerli](https://vscodethemes.com/e/rahmanyerli.ra-nature/ra-nature-dark-theme?language=javascript) - very muted and easy on the eyes
@@ -206,10 +206,10 @@
 *  [Dark Ashes](https://vscodethemes.com/e/andrsdc.base16-themes/base16-dark-ashes?language=javascript) - really good foreground; change background from gray to green
 *  [Awesome Forest](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fc0ilzexndo881.png) [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles)
 *  [Ariake Dark](https://marketplace.visualstudio.com/items?itemName=wart.ariake-dark) - beautiful blue and purple tones over gray background
-*  [...](https://github.com/EdenEast/nightfox.nvim nordfox
+*  [...](https://github.com/EdenEast/nightfox.nvim nordfox)
 *  [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) - nice gray background, interesting colorful foreground with good contrast
 *  [C/C++ Theme](https://vscodethemes.com/e/xen.ccpp-theme/cc-theme?language=cpp) - nice primary and secondary
-*  [...](https://github.com/tuffgniuz/seiun.vim - nice boring gray
+*  [...](https://github.com/tuffgniuz/seiun.vim - nice boring gray)
 *  [Iceberg Theme - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Iceberg) - gray, white, red, blue
 * ( ) [New Darcula](https://vscodethemes.com/e/e-simpson.new-darcula/new-darcula?language=javascript)
 * ( ) [Base16 Railscasts](https://base16.netlify.app/previews/base16-railscasts.html) (grayish)
@@ -236,7 +236,7 @@
 *  [Gentle](https://vscodethemes.com/e/lukeocodes.gentle-themes/gentle-dark?language=javascript) - really nice vibe
 *  [DuoTone Dark Sea](https://simurai.com/img/posts/duotone-dark-sea.png)
 *  [Better_JS Theme - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-BetterJS) - blue green white gray
-*  [...](https://github.com/rebelot/kanagawa.nvim
+*  [...](https://github.com/rebelot/kanagawa.nvim)
 *  [Solarized+](https://vscodethemes.com/e/szilardleventefarkas.solarizedplus/solarized?language=javascript) - compare to solarized
 *  [Solarized Minimal](https://vscodethemes.com/e/jibsen.theme-solarized-minimal/solarized-minimal-dark?language=javascript) - even better
 *  [Shape Theme](https://vscodethemes.com/e/apk.shape-theme/shape?language=go) - good for coding, reduced visual clutter
@@ -245,7 +245,7 @@
 *  [Flat_Dark Theme - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-FlatDark)
 *  [BlueForest](https://vscodethemes.com/e/alonsodomin.blueforest-theme/blueforest?language=javascript)
 *  [base2tone meadow](https://base2t.one/demo/meadow/) - very nice
-*  [...](https://github.com/EdenEast/nightfox.nvim nightfox
+*  [...](https://github.com/EdenEast/nightfox.nvim nightfox)
 *  [Nightly Theme](https://vscodethemes.com/e/mohammadalishahbazi.nightly-theme/nightly-theme?language=javascript) - nice vibe, coherent subset of colors is good
 *  [Cobalt Next](https://marketplace.visualstudio.com/items?itemName=dline.CobaltNext) - greenish-bluish, good highlighting, just subdue yellow
 *  [base2tone morning](https://base2t.one/demo/morning/) - blue and brown
@@ -275,10 +275,10 @@
 * ( ) [Base16 Harmonic Dark](https://base16.netlify.app/previews/base16-harmonic-dark.html) -too colorful, but some nice colors
 * ( ) [Anarchist Theme - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Anarchist) - blue, white, red
 * ( ) [...](https://github.com/hoshiya4522/tmux-simple-nord [[TMUX] Minimal Nord theme for tmux](https://www.reddit.com/r/unixporn/comments/129b7vn/tmux_minimal_nord_theme_for_tmux/)
-* ( ) [...](https://github.com/clyde80/dotfiles clyde80 - blue and red
+* ( ) [...](https://github.com/clyde80/dotfiles clyde80 - blue and red)
 
 ### Light
-
+)
 * ( ) [Userscape Theme - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Userscape) - not terrible, but not for me <<<
 
 ## IDEAS (not unlike [nvim site](https://neovim.io/doc/user/options.html) [colors](https://github.com/neovim/neovim.github.io/search?q=color)):
@@ -1359,8 +1359,8 @@ print(transformed.shape)
 * [my feelings on Gnome](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fotedjf68hms91.png)
 
 * Icons, Theming, Fonts
-* [ ]  Patch my own font (Conda logo, Nvidia logo) → [ryanoasis/nerd-fonts#font-patcher*](https://github.com/ryanoasis/nerd-fonts#font-patcher*$1
-* Desktop Customization*    * Desktop Icon Packs
+* [ ]  Patch my own font (Conda logo, Nvidia logo) → [ryanoasis/nerd-fonts#font-patcher*](https://github.com/ryanoasis/nerd-fonts#font-patcher*)
+* Desktop Customization*    * Desktop Icon Packs)
 * [Candy Icons](https://github.com/EliverLara/candy-icons) - An icon theme colored with sweet gradients.
 * [Flat Remix](https://github.com/daniruiz/Flat-Remix) - Flat Remix is an icon theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.
 * [Fluent Icon Theme](https://github.com/vinceliuice/Fluent-icon-theme) - Fluent icon theme for linux desktops.
@@ -1388,8 +1388,8 @@ print(transformed.shape)
 * [Orchis theme](https://github.com/vinceliuice/Orchis-theme) - Orchis is a Material Design theme for GNOME/GTK based desktop environments.
 * [Qogir](https://github.com/vinceliuice/Qogir-theme) - Qogir is a flat Design theme for GTK.
 * [Sweet](https://github.com/EliverLara/Sweet) - Light and dark colorful Gtk3.20+ theme.
-* [WhiteSur GTK Theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS Big Sur like theme for GNOME desktops.* * Font managemen$1
-* [FIGlet](https://github.com/cmatsuoka/figlet) - Not exactly a font manager, but a nice program for making large letters out of ordinary text; an astonishing number of different fonts is available$1
+* [WhiteSur GTK Theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS Big Sur like theme for GNOME desktops.* * Font managemen
+* [FIGlet](https://github.com/cmatsuoka/figlet) - Not exactly a font manager, but a nice program for making large letters out of ordinary text; an astonishing number of different fonts is available
 * [toilet](https://github.com/cacalabs/toilet) - A program that tries to improve `FIGlet`; can load FIGlet fonts; supports Unicode input and output, colour fonts and output, and various output formats, including HTML, IRC and ANSI; uses `libcaca` to produce nice textual effects.* * GTK Themes, Icons, etc.
 * [erikdubois.be/listing/](https://www.erikdubois.be/listing/)
 * [erikdubois.be/downloads/](https://www.erikdubois.be/downloads/)
@@ -1442,13 +1442,13 @@ print(transformed.shape)
 * [read](https://www.reddit.com/r/unixporn/comments/5o1mic/what_display_manager_do_you_guys_use/)
 * [Git Bare Repository - A Better Way To Manage Dotfiles - YouTube](https://www.youtube.com/watch?v=tBoLDpTWVOM)
 * [FlafyDev/flutter_workspaces_2](https://github.com/FlafyDev/flutter_workspaces_2) -
-* rice * [...](https://github.com/adi1090x/widgets* [...](https://github.com/outfoxxed/hy3* [...](https://github.com/mahkoh/jay* [...](https://github.com/MrVivekRajan/Grub-Themes
-* {rice} [...](https://github.com/dawsers/hyprscroller* [...](https://github.com/hyprland-community/awesome-hyprland* [...](https://nwg-piotr.github.io/nwg-shell/
-* {rice} [...](https://github.com/mathix420/dotfiles/blob/master/beeper.css
+* rice * [...](https://github.com/adi1090x/widgets* [...](https://github.com/outfoxxed/hy3* [...](https://github.com/mahkoh/jay* [...](https://github.com/MrVivekRajan/Grub-Themes)
+* {rice} [...](https://github.com/dawsers/hyprscroller* [...](https://github.com/hyprland-community/awesome-hyprland* [...](https://nwg-piotr.github.io/nwg-shell/)
+* {rice} [...](https://github.com/mathix420/dotfiles/blob/master/beeper.css)
 * {rice} [...](https://talyian.github.io/ansicolors/)
 * {rice} [aphrodite-terminal-theme](https://github.com/win0err/aphrodite-terminal-theme) — Minimalistic Aphrodite theme (prompt) for sexy terminals that works in bash, fish and zsh → prompts
 * {rice} [Base16 Designer](http://brianreilly.me/Base16Designer/)
-* {rice} [catppuccin](https://github.com/catppuccin/catppuccin) → see list of software* [...](https://github.com/Haruno19/fuzzy-c-means-processing* [...](https://github.com/Haruno19/c-halloc
+* {rice} [catppuccin](https://github.com/catppuccin/catppuccin) → see list of software* [...](https://github.com/Haruno19/fuzzy-c-means-processing* [...](https://github.com/Haruno19/c-halloc)
 * {rice} [commit mono](https://commitmono.com/) neutral font
 * {rice} [gautam_linux/colours.sh at master · gkotian/gautam_linux](https://github.com/gkotian/gautam_linux/blob/master/scripts/colours.sh)
 * {rice} [Misterio77/flavours: 🎨💧 An easy to use base16 scheme manager that integrates with any workflow.](https://github.com/Misterio77/flavours)

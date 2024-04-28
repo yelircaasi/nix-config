@@ -406,7 +406,7 @@
 
 * [Nautilus](http://nautil.us/)*
 * [Edge](https://www.edge.org/)
-* [nature.com/scitable/](https://www.nature.com/scitable/$1
+* [nature.com/scitable/](https://www.nature.com/scitable/)
 * [> Wikipedia on Edge](https://en.wikipedia.org/wiki/Edge_Foundation,_Inc.)*
 * [Science Magazine](http://www.sciencemag.org/)*
 * [Aeon](https://aeon.co/)*

@@ -343,64 +343,64 @@
 * Food
 * ## Guidelines
 * ## Ideas
-* - Halloumi Burge$1
-* [x]  Halloumi-Käs$1
-* [x]  Brötche$1
-* [x]  Yoghurt (für Soße$1
-* [x]  Aubergin$1
-* [x]  rote Zwiebel$1
-* [x]  Mayonnais$1
-* [x]  Rucola* - Polent$1
-* [x]  Polent$1
-* [x]  sonnengetrocknete Tomaten* - Gnocch$1
-* [x]  Gnocch$1
-* [x]  Pesto* - gefüllte Paprikaschote$1
-* [x]  Paprik$1
-* [x]  Kartoffel$1
-* [x]  veganes Hac$1
-* [x]  Zwiebel$1
-* [x]  Gewürzmischun$1
-* [x]  Käse* - rote Linsensupp$1
-* [x]  rote Linse$1
-* [x]  Zwiebel$1
-* [x]  Gewürz$1
-* [x]  grüne Zwiebel$1
-* [x]  Zitron$1
-* [x]  Tomatenmar$1
-* [x]  Basiliku$1
-* [x]  Zwiebel$1
-* [x]  Knoblauc$1
-* [x]  Möhre$1
-* [x]  Paprika* - Sala$1
-* [x]  * - Curr$1
-* [x]  Kokosmilc$1
-* [x]  Butternu$1
-* [x]  Kichererbse$1
-* [x]  Erbse$1
-* [x]  Tof$1
-* [x]  Kartoffel$1
-* [x]  Reis* - Taco$1
-* [x]  hausgemachte Tortillas: Mehl, Ö$1
-* [x]  veganes Hac$1
-* [x]  * - Spaghett$1
-* [x]  Spaghett$1
-* [x]  Soße* - Chil$1
-* [x]  Bohne$1
-* [x]  Chili$1
-* [x]  Gewür$1
-* [x]  veganes Hackfleisc$1
-* [x]  Maisbro$1
-* [x]  passierte Tomate$1
-* [x]  Knoblauc$1
-* [x]  Ö$1
-* [x]  Dosenmar$1
-* [x]  frische Tomate$1
-* [x]  Brühe* - Nudelsupp$1
-* [x]  * - belegtes Bro$1
-* [x]  Lach$1
-* [x]  * - Weizenbre$1
+* - Halloumi Burge
+* [x]  Halloumi-Käs
+* [x]  Brötche
+* [x]  Yoghurt (für Soße
+* [x]  Aubergin
+* [x]  rote Zwiebel
+* [x]  Mayonnais
+* [x]  Rucola* - Polent
+* [x]  Polent
+* [x]  sonnengetrocknete Tomaten* - Gnocch
+* [x]  Gnocch
+* [x]  Pesto* - gefüllte Paprikaschote
+* [x]  Paprik
+* [x]  Kartoffel
+* [x]  veganes Hac
+* [x]  Zwiebel
+* [x]  Gewürzmischun
+* [x]  Käse* - rote Linsensupp
+* [x]  rote Linse
+* [x]  Zwiebel
+* [x]  Gewürz
+* [x]  grüne Zwiebel
+* [x]  Zitron
+* [x]  Tomatenmar
+* [x]  Basiliku
+* [x]  Zwiebel
+* [x]  Knoblauc
+* [x]  Möhre
+* [x]  Paprika* - Sala
+* [x]  * - Curr
+* [x]  Kokosmilc
+* [x]  Butternu
+* [x]  Kichererbse
+* [x]  Erbse
+* [x]  Tof
+* [x]  Kartoffel
+* [x]  Reis* - Taco
+* [x]  hausgemachte Tortillas: Mehl, Ö
+* [x]  veganes Hac
+* [x]  * - Spaghett
+* [x]  Spaghett
+* [x]  Soße* - Chil
+* [x]  Bohne
+* [x]  Chili
+* [x]  Gewür
+* [x]  veganes Hackfleisc
+* [x]  Maisbro
+* [x]  passierte Tomate
+* [x]  Knoblauc
+* [x]  Ö
+* [x]  Dosenmar
+* [x]  frische Tomate
+* [x]  Brühe* - Nudelsupp
+* [x]  * - belegtes Bro
+* [x]  Lach
+* [x]  * - Weizenbre
 * [x]  Weizenbrei
-* [Wie-bei-Omi-Suppe](https://www.lecker.de/wie-bei-omi-suppe-mit-mettenden-72584.html)*     * * - Dal*     * * - Nudelauflau$1
+* [Wie-bei-Omi-Suppe](https://www.lecker.de/wie-bei-omi-suppe-mit-mettenden-72584.html)*     * * - Dal*     * * - Nudelauflau
 * [ ]  * - Nachos*     * * - Grechka*     * sdf* - Falaffel*     * * - Schnitzel (vegan)*     * * - Linsen und Spätzle*     * * - Burritos*     * * - Kartoffelpuffer*     * * - Döner*     -
 * [Lachs-Spinat-Pfannkuchen](https://www.lecker.de/lachs-spinat-pfannkuchen-76068.html)*     * * - Milchreis*     * * - Bratwürstchen (vegan)*     * * - Wraps*     * * - .*     * * - *     * *
 * Clothes

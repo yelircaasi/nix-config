@@ -106,9 +106,9 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [Algorithms in a Nutshell](https://de1lib.org/book/2694702/1d9a2b)
 * [Cay S. Horstmann: Kostenloses Herunterladen. Elektronische Bibliothek](https://de1lib.org/g/Cay%20S.%20Horstmann)
 * [A concise and practical introduction to programming algorithms in Java](https://de1lib.org/book/540480/7154c3)
-* [freecodecamp.org/news/algorithms-and-data-structures-free-treehouse-course/](https://www.freecodecamp.org/news/algorithms-and-data-structures-free-treehouse-course/$1
-* $2зучаем Java (Head First$1
-* $2илософия Java
+* [freecodecamp.org/news/algorithms-and-data-structures-free-treehouse-course/](https://www.freecodecamp.org/news/algorithms-and-data-structures-free-treehouse-course/)
+* $2зучаем Java (Head First
+* $2илософия Java)
 * [Computer Science: основы программирования на Java, ООП, алгоритмы и структуры данных.](http://libgen.rs/book/index.php?md5=B102F55A1961E79DD1541CD9543DF17A)
 * [Computer Science: Основы программирования на Java, ООП, алгоритмы и структуры данных](http://libgen.rs/book/index.php?md5=D93B43075E47139E8D0A34A6ED1DE2B0)
 * [Алгоритмы на Java [4изд.]](http://libgen.rs/book/index.php?md5=135F570AC9735CACBFE7BA425C5625D0)
@@ -864,8 +864,8 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 ## R
 
 * [R-bloggers | R news and tutorials contributed by (750) R bloggers](https://www.r-bloggers.com/)
-* [book.rwithoutstatistics.com/](https://book.rwithoutstatistics.com/$1
-* $2зучаем Shiny. Создание интерактивных приложений, отчетов и дашбордов при помощи R [2022]
+* [book.rwithoutstatistics.com/](https://book.rwithoutstatistics.com/)
+* $2зучаем Shiny. Создание интерактивных приложений, отчетов и дашбордов при помощи R [2022])
 * [Advanced R Programming | Coursera](https://www.coursera.org/learn/advanced-r)
 * [stat.ethz.ch/R-manual/R-devel/library/base/html/regex.html](https://stat.ethz.ch/R-manual/R-devel/library/base/html/regex.html)
 * [digitalocean.com/community/tutorials/how-to-install-r-on-ubuntu-18-04](https://www.digitalocean.com/community/tutorials/how-to-install-r-on-ubuntu-18-04)

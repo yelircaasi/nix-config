@@ -145,8 +145,8 @@
 
 * [How to execute julia code in a bash shell script itself - Usage - JuliaLang](https://discourse.julialang.org/t/how-to-execute-julia-code-in-a-bash-shell-script-itself/30848)
 * [JuliaComputing/static-julia: Static AOT Julia compilation, demos and instructions](https://github.com/JuliaComputing/static-julia)
-* [How do I see the C++ code from my Julia code? - Quora](https://www.quora.com/How-do-I-see-the-C-code-from-my-Julia-code$1
-* [State of Compilation to Single Executable for Julia - Usage - JuliaLang](https://discourse.julialang.org/t/state-of-compilation-to-single-executable-for-julia/30792/3$1
+* [How do I see the C++ code from my Julia code? - Quora](https://www.quora.com/How-do-I-see-the-C-code-from-my-Julia-code)
+* [State of Compilation to Single Executable for Julia - Usage - JuliaLang](https://discourse.julialang.org/t/state-of-compilation-to-single-executable-for-julia/30792/3)
 * [**What is the difference between @code_native, @code_typed and @code_llvm in Julia? - Stack Overflow](https://stackoverflow.com/questions/43453944/what-is-the-difference-between-code-native-code-typed-and-code-llvm-in-julia)
 
 ## Java

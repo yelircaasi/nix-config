@@ -231,7 +231,7 @@ db [echovault](https://github.com/EchoVault/EchoVault) - Embeddable Distributed 
 
 ### Server, Deployment
 
-* ( ) [dog](https://github.com/ogham/dog) - DNS lookup client *(better `dig`)](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6#do
+* ( ) [dog](https://github.com/ogham/dog) - DNS lookup client *(better `dig`)](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6#do)
         httpsgithubcomoghamdog-dns-lookup-client-_better-dig_)
 * ( ) [dog](https://github.com/vschwaberow/dog)- looks good
 * ( ) [cowyo -](https://github.com/schollz/cowyo) - Feature rich wiki webserver for minimalists. - planager?

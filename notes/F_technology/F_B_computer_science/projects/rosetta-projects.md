@@ -3,15 +3,15 @@
 -> Add "Build Your Own Lisp" to Rosetta Projects
 
 * [eldritch-cookie/templates](https://github.com/eldritch-cookie/templates) $$$
-* [RosettaProjects](https://github.com/RosettaProjects) Next Step$1
-* [x]  Rename: RosettaProjects (Github organization$1
-* [ ]  code template repos (use copier, ideally → rewrite copier in compiled language?$1
-  * copier-template-$1
-  * etc,    * [ ]  scripts & utility functions (keep index in README.md$1
-* [ ]  add nbcat (first in Go, later in Rust, then in others) → move nbcat-go to RosettaProjects or$1
+* [RosettaProjects](https://github.com/RosettaProjects) Next Step
+* [x]  Rename: RosettaProjects (Github organization
+* [ ]  code template repos (use copier, ideally → rewrite copier in compiled language?
+  * copier-template-
+  * etc,    * [ ]  scripts & utility functions (keep index in README.md
+* [ ]  add nbcat (first in Go, later in Rust, then in others) → move nbcat-go to RosettaProjects or
 * [ ]  add cowsay project as a slightly more interesting hello world (project 2, basically)
   * add nix & docker for each folder in polyglot-tasks -> rename to polyglot-programming-tasks in its own repo, add 40 algorithms book, also create new gh organization
-* from Spreadshee$1
+* from Spreadshee
   * DL Project
   * Prototypes
 * [PwC Intent Classification](https://paperswithcode.com/task/intent-classification)
@@ -210,7 +210,7 @@
 * [All-Pairs Shortest Paths — Floyd Warshall Algorithm](https://www.techiedelight.com/pairs-shortest-paths-floyd-warshall-algorithm/)
 * Kadane's Algorithm
 * Knapsack Problem
-* HackerRank Language Proficienc$1
+* HackerRank Language Proficienc
 
 ## C
 * "Hello World!" in C
@@ -668,8 +668,8 @@
     * Basis Vectors
     * Unit Circle
     * Linear transformations 2D
-    * Other Ideas and Resources for RosettaProject$1
-    * eert: reconstruct file tree from output of tre$1
+    * Other Ideas and Resources for RosettaProject
+    * eert: reconstruct file tree from output of tre
     * → replacement for tree with lines to look good with nerd font → call it tre (arbor, dendron, boom, baum, drevo PIE doru) ‣ ← multilingual* → make configurable
 * collect mathematical algorithms / projects / etc for ppp*     * [dlang.org/](https://dlang.org/) → see list of projects for PPP
 * [duckduckgo.com/?q=list if cool new github projects&ko=-1&ia=web](https://duckduckgo.com/?q=list%20if%20cool%20new%20github%20projects&ko=-1&ia=web)
@@ -708,26 +708,26 @@
 ## ML → See sklearn docs
 * rosetta-projects: incorporate Modern C++ Challenge
 * rosetta-projects: also use Go by Example and Haskell by Example
-* Lang Priority Lis$1
-  * Pytho$1
-  * $1
-  * bas$1
-  * Rus$1
-  * G$1
+* Lang Priority Lis
+  * Pytho
+  * 
+  * bas
+  * Rus
+  * G
   * C++    
-  * Java 1$1
-  * Java 1$1
-  * Haskel$1
-  * CommonLis$1
-  * Lu$1
-  * Juli$1
-  * TypeScrip$1
-  * JavaScrip$1
-  * Dar$1
-  * $1
-  * zs$1
-  * Python + Cpp via pybind1$1
-  * Lua + $1
+  * Java 1
+  * Java 1
+  * Haskel
+  * CommonLis
+  * Lu
+  * Juli
+  * TypeScrip
+  * JavaScrip
+  * Dar
+  * 
+  * zs
+  * Python + Cpp via pybind1
+  * Lua + 
   * Python + Rust via PyO3
 * parallang
   * Create a website with a giant table to compare programming languages.

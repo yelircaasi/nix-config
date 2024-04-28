@@ -485,13 +485,13 @@ github simulation                                  <|> [*leios/simuleios: Simula
 * [Welcome to PyTorch Tutorials — PyTorch Tutorials 1.0.0.dev20190125 documentation](https://pytorch.org/tutorials/)
 * [cvpr2015/Deep Learning with Torch.ipynb at master · soumith/cvpr2015](https://github.com/soumith/cvpr2015/blob/master/Deep%20Learning%20with%20Torch.ipynb)
 * [Cheatsheet · torch/torch7 Wiki](https://github.com/torch/torch7/wiki/Cheatsheet)
-* [Model Zoo - Image-to-Image Translation with Conditional Adversarial Networks PyTorch Model](https://modelzoo.co/model/image-to-image-translation-with-conditional-adversarial-networks$1
+* [Model Zoo - Image-to-Image Translation with Conditional Adversarial Networks PyTorch Model](https://modelzoo.co/model/image-to-image-translation-with-conditional-adversarial-networks)
 * [*PyTorch - QuantScientist/Deep-Learning-Boot-Camp: A community run, 5-day PyTorch Deep Learning Bootcamp](https://github.com/QuantScientist/Deep-Learning-Boot-Camp)
 * [pytorch-book/chapter9-神经网络写诗(CharRNN) at master · chenyuntc/pytorch-book · GitHub](https://github.com/chenyuntc/pytorch-book/tree/master/chapter9-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%86%99%E8%AF%97(CharRNN))
 * [GitHub - pytorch/examples: A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.](https://github.com/pytorch/examples)
 * [GitHub - pytorch/tutorials](https://github.com/pytorch/tutorials)
 * [GitHub - OpenNMT/OpenNMT: Open Source Neural Machine Translation in Torch](https://github.com/OpenNMT/OpenNMT)
-* [GitHub - Atcold/pytorch-Deep-Learning-Minicourse: Minicourse in Deep Learning with PyTorch](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse$1
+* [GitHub - Atcold/pytorch-Deep-Learning-Minicourse: Minicourse in Deep Learning with PyTorch](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse)
 * [**Announcing Tensor Comprehensions – Facebook Research](https://research.fb.com/announcing-tensor-comprehensions/)
 * [blog.gaurav.im/2017/04/24/a-gentle-intro-to-pytorch/](http://blog.gaurav.im/2017/04/24/a-gentle-intro-to-pytorch/)
 * [ml.informatik.uni-freiburg.de/former/_media/teaching/ws1415/presentation_dl_lect3.pdf](http://ml.informatik.uni-freiburg.de/former/_media/teaching/ws1415/presentation_dl_lect3.pdf)
@@ -597,8 +597,8 @@ github simulation                                  <|> [*leios/simuleios: Simula
 * [video](https://www.youtube.com/watch?v=MrijcdNl_U4&list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh)
 * [cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-complete-tutorial/](http://cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-complete-tutorial/)
 * [tensorflow.org/hub/tutorials/text_classification_with_tf_hub](https://www.tensorflow.org/hub/tutorials/text_classification_with_tf_hub)
-* [(16) Where is a good resource for learning TensorFlow from scratch? - Quora](https://www.quora.com/Where-is-a-good-resource-for-learning-TensorFlow-from-scratch$1
-* [ python 3.x - Representing the learned weights of MNIST using Tensorflow graphically - Stack Overflow](https://stackoverflow.com/questions/43051166/representing-the-learned-weights-of-mnist-using-tensorflow-graphically$1
+* [(16) Where is a good resource for learning TensorFlow from scratch? - Quora](https://www.quora.com/Where-is-a-good-resource-for-learning-TensorFlow-from-scratch)
+* [ python 3.x - Representing the learned weights of MNIST using Tensorflow graphically - Stack Overflow](https://stackoverflow.com/questions/43051166/representing-the-learned-weights-of-mnist-using-tensorflow-graphically)
 * [**TensorFlow Guide_w3cschool](https://www.w3cschool.cn/doc_tensorflow_guide/)
 * [A quick complete tutorial to save and restore Tensorflow models – CV-Tricks.com](http://cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-complete-tutorial/)
 * [apprentissage machine avec TensorFlow - Buscar con Google](https://www.google.com/search?safe=active&rlz=1C1GCEA_enUS765US765&ei=U6_0WaruK4mQ0gLMkLCICg&q=apprentissage+machine+avec+TensorFlow&oq=apprentissage+machine+avec+TensorFlow&gs_l=psy-ab.3...5510.8885.0.9046.15.15.0.0.0.0.135.1424.8j6.14.0....0...1.1.64.psy-ab..1.11.1128...0i22i30k1j33i160k1j33i22i29i30k1.0.X3LuMPPZBqs)
@@ -698,10 +698,10 @@ github simulation                                  <|> [*leios/simuleios: Simula
 * [C++ API | TensorFlow Core | TensorFlow](https://www.tensorflow.org/guide/extend/cc)
 * [TensorFlow Guide | TensorFlow Core | TensorFlow](https://www.tensorflow.org/guide/?hl=fr)
 * [TensorFlow | TensorFlow Core | TensorFlow](https://www.tensorflow.org/overview)
-* [TensorFlow C++ Reference | TensorFlow Core r1.14 | TensorFlow](https://www.tensorflow.org/api_docs/cc$1
-* [*All symbols in TensorFlow 2.0 Preview | TensorFlow Core r1.14 | TensorFlow](https://www.tensorflow.org/api_docs/python$1
+* [TensorFlow C++ Reference | TensorFlow Core r1.14 | TensorFlow](https://www.tensorflow.org/api_docs/cc)
+* [*All symbols in TensorFlow 2.0 Preview | TensorFlow Core r1.14 | TensorFlow](https://www.tensorflow.org/api_docs/python)
 * [*TensorFlow Guide | TensorFlow Core | TensorFlow](https://www.tensorflow.org/guide)
-* [tensorflow.rstudio.com/](https://tensorflow.rstudio.com/$1
+* [tensorflow.rstudio.com/](https://tensorflow.rstudio.com/)
 * [**Neural Networks and TensorFlow - YouTube](https://www.youtube.com/playlist?list=PLonlF40eS6nxsfQMKdUdUDcmQg_TzSdS9)
 * [Deep Learning, Neuronale Netzwerke und AI mit TensorFlow | Udemy](https://www.udemy.com/deep-learning-grundlagen-neuronale-netzwerke-mit-tensorflow/learn/v4/t/lecture/11801842?start=180)
 * [tensorflow/models: Models and examples built with TensorFlow](https://github.com/tensorflow/models)
@@ -2226,7 +2226,7 @@ github simulation                                  <|> [*leios/simuleios: Simula
 * [Data Clustering: Integrating Different Distance Measures with Modified k-Means Algorithm | SpringerLink](https://link.springer.com/chapter/10.1007/978-81-322-0491-6_63)
 * [Effect of Different Distance Measures on the Performance of K-Means Algorithm: An Experimental Study in Matlab](https://arxiv.org/pdf/1405.7471.pdf)
 * [Understanding Density-based Clustering](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=697237d462&e=b34ab4e857)
-* [14 Great Articles and Tutorials on Clustering](http://datascience.getresponse360.com/click.html?x=a62e&lc=uAz&mc=j&s=jFaI&u=F&y=I&z=wwhTlBU&$1
+* [14 Great Articles and Tutorials on Clustering](http://datascience.getresponse360.com/click.html?x=a62e&lc=uAz&mc=j&s=jFaI&u=F&y=I&z=wwhTlBU&)
 * [**Data Clustering: Theory, Algorithms, and Applications](https://b-ok.cc/book/716744/c8c51f)
 * [joernhees.de/blog/2015/08/26/scipy-hierarchical-clustering-and-dendrogram-tutorial/](https://joernhees.de/blog/2015/08/26/scipy-hierarchical-clustering-and-dendrogram-tutorial/)
 * [hierarchical clustering - Поиск в Google](https://www.google.com/search?q=hierarchical+clustering&rlz=1C5CHFA_enUS800US800&oq=hierarchical+clustering&aqs=chrome..69i57j0l7.3970j0j7&sourceid=chrome&ie=UTF-8)
@@ -2449,7 +2449,7 @@ github simulation                                  <|> [*leios/simuleios: Simula
 * [cgi.csc.liv.ac.uk/~hang/ppt/BERT%20and%20Transformer.pdf](https://cgi.csc.liv.ac.uk/~hang/ppt/BERT%20and%20Transformer.pdf)
 * [Attention is all you need; Attentional Neural Network Models | Łukasz Kaiser | Masterclass](https://www.youtube.com/watch?v=rBCqOTEfxvg)
 * [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 8 – Translation, Seq2Seq, Attention](https://www.youtube.com/watch?v=XXtpJxZBa2c)
-* [Attention Mechanism](https://blog.floydhub.com/attention-mechanism/$1
+* [Attention Mechanism](https://blog.floydhub.com/attention-mechanism/)
 * [** ATTENTION-BASED RECURRENT NEURAL NETWORK MODELS FOR JOINT INTENT DETECTION AND SLOT FILLING | Request PDF](https://www.researchgate.net/publication/307889537_Attention-Based_Recurrent_Neural_Network_Models_for_Joint_Intent_Detection_and_Slot_Filling)
 * [emedvedev/attention-ocr: A Tensorflow model for text recognition (CNN + seq2seq with visual attention) available as a Python package and compatible with Google Cloud ML Engine.](https://github.com/emedvedev/attention-ocr)
 * [Kilcher Transformer videos](https://www.youtube.com/results?search_query=yanic+kilcher+transformer)
@@ -2461,7 +2461,7 @@ github simulation                                  <|> [*leios/simuleios: Simula
 * [Pytorch Transformers from Scratch (Attention is all you need)](https://youtu.be/U0s0f995w14)
 * [The Implementation of Transformer Based on Pytorch](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
 * [The Implementation of Transformer-TTS Based on Pytorch](https://github.com/xcmyz/Transformer-TTS)
-* [Long Range Arena: A Benchmark for Efficient Transformers](https://arxiv.org/abs/2011.04006$1
+* [Long Range Arena: A Benchmark for Efficient Transformers](https://arxiv.org/abs/2011.04006)
 * [*What is a Transformer? - Inside Machine learning - Medium](https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04)
 * [CS480/680 Lecture 19: Attention and Transformer Networks](https://www.youtube.com/watch?v=OyFJWRnt_AY)
 * [Transformer](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)?wprov=sfti1)
@@ -2535,8 +2535,8 @@ github simulation                                  <|> [*leios/simuleios: Simula
 * [ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%BE%D0%B3%D0%BE_%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B8](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%BE%D0%B3%D0%BE_%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B8)
 * [iamtrask/Grokking-Deep-Learning/blob/master/Chapter6%20-%20Intro%20to%20Backpropagation%20-%20Building%20Your%20First%20DEEP%20Neural%20Network.ipynb](https://github.com/iamtrask/Grokking-Deep-Learning/blob/master/Chapter6%20-%20Intro%20to%20Backpropagation%20-%20Building%20Your%20First%20DEEP%20Neural%20Network.ipynb)
 * [Single-Layer Neural Networks and Gradient Descent](https://sebastianraschka.com/Articles/2015_singlelayer_neurons.html)
-* [Gradient descent vs. neuroevolution - Towards Data Science](https://towardsdatascience.com/gradient-descent-vs-neuroevolution-f907dace010f$1
-* [> stat479-deep-learning-ss19/L05_gradient-descent_slides.pdf at master · rasbt/stat479-deep-learning-ss19](https://github.com/rasbt/stat479-deep-learning-ss19/blob/master/L05_grad-descent/L05_gradient-descent_slides.pdf$1
+* [Gradient descent vs. neuroevolution - Towards Data Science](https://towardsdatascience.com/gradient-descent-vs-neuroevolution-f907dace010f)
+* [> stat479-deep-learning-ss19/L05_gradient-descent_slides.pdf at master · rasbt/stat479-deep-learning-ss19](https://github.com/rasbt/stat479-deep-learning-ss19/blob/master/L05_grad-descent/L05_gradient-descent_slides.pdf)
 * [> stat479-deep-learning-ss19/L04_linalg-dl_slides.pdf at master · rasbt/stat479-deep-learning-ss19](https://github.com/rasbt/stat479-deep-learning-ss19/blob/master/L04_linalg-dl/L04_linalg-dl_slides.pdf)
 * [3.1 Backpropagation in Neural Networks](https://www.youtube.com/watch?v=7nG6Xx88Hzo&t=74s)
 * [Recurrent Neural Networks Tutorial, Part 3 – Backpropagation Through Time and Vanishing Gradients – WildML](http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/)
@@ -3851,7 +3851,7 @@ y ia la que                                        <|> DeepNude, la IA que TE DE
 * {you kdnugget part know term                        } <|> [20 AI, Data Science, Machine Learning Terms You Need to Know in 2020 (Part 1)](https://www.kdnuggets.com/2020/02/ai-data-science-machine-learning-key-terms-2020.html)
 * {you kdnugget part know term                        } <|> [20 AI, Data Science, Machine Learning Terms You Need to Know in 2020 (Part 2)](https://www.kdnuggets.com/2020/03/ai-data-science-machine-learning-key-terms-part2.html)
 you think than                                     <|> The danger of AI is weirder than you think | Janelle Shane
-* {you z using udacity visualization mid 23ba91e1 bsft_ek teache 301fb58d333f uid 27t20 4db9 3a53z ed99 19cbf0f67e05 e90f bsft_mime_type mclick 9cc3 ebb9e27d 3a31 } <|> [Data Visualization → teaches you how to communicate data effectively using Tableau.](https://mclick.udacity.com/z/y515v7ysv?uid=ebb9e27d-ed99-4603-9cc3-19cbf0f67e05&mid=23ba91e1-e90f-4db9-8267-301fb58d333f&bsft_mime_type=html&bsft_ek=2019-12-27T20%3A31%3A53Z$1
+* {you z using udacity visualization mid 23ba91e1 bsft_ek teache 301fb58d333f uid 27t20 4db9 3a53z ed99 19cbf0f67e05 e90f bsft_mime_type mclick 9cc3 ebb9e27d 3a31 } <|> [Data Visualization → teaches you how to communicate data effectively using Tableau.](https://mclick.udacity.com/z/y515v7ysv?uid=ebb9e27d-ed99-4603-9cc3-19cbf0f67e05&mid=23ba91e1-e90f-4db9-8267-301fb58d333f&bsft_mime_type=html&bsft_ek=2019-12-27T20%3A31%3A53Z)
 * $2 обучения машинного                               <|>     Теория и практика машинного обучения (Воронина В.В. и др.)
 на для                                             <|>     Искусственный интеллект – вызов для человечества. Черниговская Татьяна на Гайдаровском форуме 2018.
 нейронных сетей                                    <|>     Архитектуры нейронных сетей. Часть 2: Продвинутые конфигурации
@@ -4403,7 +4403,7 @@ youtube list playlist app desktop                  <|> [** ML Playlist](https://
 * {youtube playlist system lab intelligent            } <|> [Intelligent Systems Lab - YouTube](https://www.youtube.com/@intelligentsystemslab907/playlists)
 * {youtube playlist user                              } <|> [Seth Adams - YouTube](https://www.youtube.com/user/seth8141/playlists)
 * {youtube ru channel school                          } <|> [RUDeep&Machine Learning School - YouTube - YouTube](https://www.youtube.com/channel/UCFTNoZYjkg-3LZTHrHfV1nQ)
-* {youtube s google r your reddit d comment are video machinelearning example o } <|> [Reddit - MachineLearning - [D] What are your favorite YouTube videos showing machine learning? (MarI/O for example)](https://www.reddit.com/r/MachineLearning/comments/7qkd1i/d_what_are_your_favorite_youtube_videos_showing/%20
+* {youtube s google r your reddit d comment are video machinelearning example o } <|> [Reddit - MachineLearning - [D] What are your favorite YouTube videos showing machine learning? (MarI/O for example)](https://www.reddit.com/r/MachineLearning/comments/7qkd1i/d_what_are_your_favorite_youtube_videos_showing/%20)
         [...](https://www.google.com/amp/s/amp.reddit.com/r/MachineLearning/comments/7qkd1i/d_what_are_your_favorite_youtube_videos_showing/))
 * {youtube s watch                                    } <|> [Bandit Optimalities](https://www.youtube.com/watch?v=AizR8uvhX-s)
 youtube s watch app path desktop                   <|> AI's predictable Path [video](https://www.youtube.com/watch?app=desktop&v=Ksf0QKFdI2A)

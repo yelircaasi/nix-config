@@ -1565,7 +1565,7 @@
 *     Peter Weir*
 * [Philippe Entremont - The World&#39;s Favourite Piano Music (Vinyl, LP, Album) at Discogs](https://www.discogs.com/fr/Philippe-Entremont-The-Worlds-Favourite-Piano-Music/release/3868034)*
 * [Principles of Musical Acoustics: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/?q=Principles++of++Musical++Acoustics)*
-* [[VIDEO] Top 5 Most Successful Croatian Bands of All Time | Croatia Week](https://www.croatiaweek.com/video-top-5-most-successful-croatian-bands-of-all-time/$1
+* [[VIDEO] Top 5 Most Successful Croatian Bands of All Time | Croatia Week](https://www.croatiaweek.com/video-top-5-most-successful-croatian-bands-of-all-time/)
 * [**Klang: Musik mit den Ohren der Physik: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/?q=Klang%3A+Musik+mit+den+Ohren+der+Physik)*
 * [14 Great Italian Indie Rock Bands (With Videos) | Spinditty](https://spinditty.com/genres/The-Best-of-Italian-Rock-8-Alternative-and-Indie-Music)*
 * [7 bandas de Brasil para conocer - Indie Hoy](http://www.indiehoy.com/listas/7-bandas-de-brasil-para-conocer/)*
@@ -1848,7 +1848,7 @@
 * 12 Volkslieder für gemischten Chor ohne Begleitung WoO 35 (1863–64)
 * Scheiden, Wach auf, Erlaube mir, Der Fiedler, Da unten im Tale, Des Abends, Wach auf, Dort in den Weiden, Altes Volkslied, Der Ritter und die Feine, Der Zimmergesell, Altdeutsches Kampflied
 * Lieder (ein- und mehrstimmig)[Bearbeiten | Quelltext bearbeiten]
-* MEN$1
+* MEN
 * $2:00
 *„Guten Abend, gut’ Nacht“ (Wiegenlied, op. 49), gesungen von Ernestine Schumann-Heink (Aufnahme von 1915)*
 *[Brahms-Autograph (Wechsellied zum Tanze op. 31,1) aus dem Nachlass Theodor Avé-Lallemants](https://de.wikipedia.org/wiki/Theodor_Av%C3%A9-Lallemant)*
@@ -3585,20 +3585,20 @@
 * [Classiques Hachette (grec) (2) - Calepinus, la librairie latin-grec](http://www.calepinus.net/store/fr/43-classiques-hachette?p=2)
 * [Epictetus, Enchiridion](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0235%3Atext%3Denc)
 * [Faenum Publishing](http://www.faenumpublishing.com/available-texts.html)
-* [juxtalinéaire](https://www.abebooks.de/buch-suchen/kw/juxtalin%E9aire/%20
+* [juxtalinéaire](https://www.abebooks.de/buch-suchen/kw/juxtalin%E9aire/%20)
         [abebooks.de/servlet/SearchResults?kn=juxtalin%E9aire&sts=t)](https://www.abebooks.de/servlet/SearchResults?kn=juxtalin%E9aire&sts=t))
 * [Latin and Greek for primary school children | TheSchoolRun](https://www.theschoolrun.com/cool-classics-latin-and-ancient-greek-primary-school)
 * [M. Tullius Cicero - Tusculanae disputationes](http://www.thorwalds-internetseiten.de/weltbtuscdisp.htm)
-* [Une Methode Nouvelle Par Deux Traductions Francaises](https://www.abebooks.de/buch-suchen/kw/une-methode-nouvelle-par-deux-traductions-francaises/%20
+* [Une Methode Nouvelle Par Deux Traductions Francaises](https://www.abebooks.de/buch-suchen/kw/une-methode-nouvelle-par-deux-traductions-francaises/%20)
         [abebooks.de/servlet/SearchResults?kn=Une%20Methode%20Nouvelle%20Par%20Deux%20Traductions%20Francaises&sts=t)](https://www.abebooks.de/servlet/SearchResults?kn=Une%20Methode%20Nouvelle%20Par%20Deux%20Traductions%20Francaises&sts=t))
   * 20 Minutes de Grec Ancien par Jour - Christine Kossaifi
-* [Altgriechisch im Alltag: Alphabetisch geordnetes Nachschlagewerk von altgriechischen Sentenzen, Sprichwörtern, Phrasen, Floskeln, Redewendungen. 1.500 Stichwörtern aus allen Lebensbereichen](https://www.zvab.com/9783928127165/Altgriechisch-Alltag-Alphabetisch-geordnetes-Nachschlagewerk-3928127160/plp%20
+* [Altgriechisch im Alltag: Alphabetisch geordnetes Nachschlagewerk von altgriechischen Sentenzen, Sprichwörtern, Phrasen, Floskeln, Redewendungen. 1.500 Stichwörtern aus allen Lebensbereichen](https://www.zvab.com/9783928127165/Altgriechisch-Alltag-Alphabetisch-geordnetes-Nachschlagewerk-3928127160/plp%20)
         [abebooks.de/servlet/BookDetailsPL?bi=22672913769&searchurl=bi%3D0%26ds%3D20%26bx%3Doff%26sortby%3D17%26kn%3Daltgriechisch%26recentlyadded%3Dall)](https://www.abebooks.de/servlet/BookDetailsPL?bi=22672913769&searchurl=bi%3D0%26ds%3D20%26bx%3Doff%26sortby%3D17%26kn%3Daltgriechisch%26recentlyadded%3Dall))
 * [Andrea Marcolongo](https://b-ok.cc/s/?q=Andrea+Marcolongo)
 * [Bedwere](https://archive.org/search.php?query=creator%3A%22Bedwere%22)
   * Die griechische Sprache (Fink)
 * [Epiktet. Handbüchlein der Moral (Griechisch - Deutsch)](https://b-ok.cc/book/1243966/a009ca)
-* [Fables choisies: Publié en série: Les auteurs Grecs expliqués d'après une méthode nouvelle par deux traductions françaises von ésope](https://www.abebooks.de/9781421206509/Fables-choisies-Publi%C3%A9-s%C3%A9rie-auteurs-1421206501/plp%20
+* [Fables choisies: Publié en série: Les auteurs Grecs expliqués d'après une méthode nouvelle par deux traductions françaises von ésope](https://www.abebooks.de/9781421206509/Fables-choisies-Publi%C3%A9-s%C3%A9rie-auteurs-1421206501/plp%20)
         [abebooks.de/servlet/BookDetailsPL?bi=17095098240&searchurl=kn%3DUne%2BMethode%2BNouvelle%2BPar%2BDeux%2BTraductions%2BFrancaises%26sortby%3D17)](https://www.abebooks.de/servlet/BookDetailsPL?bi=17095098240&searchurl=kn%3DUne%2BMethode%2BNouvelle%2BPar%2BDeux%2BTraductions%2BFrancaises%26sortby%3D17))
 * [Fables de --- explîquées d ?après un méthode nouvelle par deux traductions françaises.](https://www.abebooks.de/Fables-expl%C3%AEqu%C3%A9es-apr%C3%A8s-m%C3%A9thode-nouvelle-deux/30274035350/bd)
 * [Grammateion Griechische Lerngrammatik - kurzgefasst](https://www.zvab.com/9783126701709/Grammateion-Griechische-Lerngrammatik-kurzgefasst-Lahmer-3126701701/plp)
@@ -3607,9 +3607,9 @@
   * Greek through Reading
 * [Greichisch-Deutsch](https://b-ok.cc/s/?q=Griechisch+-+Deutsch)
 * [Hermann Beckby](https://b-ok.cc/g/Hermann%20Beckby)
-* [Langenscheidts Kurzgrammatik Altgriechisch](https://www.zvab.com/9783468350306/Langenscheidts-Kurzgrammatik-Altgriechisch-3468350309/plp%20
+* [Langenscheidts Kurzgrammatik Altgriechisch](https://www.zvab.com/9783468350306/Langenscheidts-Kurzgrammatik-Altgriechisch-3468350309/plp%20)
         [abebooks.de/servlet/BookDetailsPL?bi=22221367580&searchurl=bi%3D0%26ds%3D20%26bx%3Doff%26sortby%3D17%26kn%3Daltgriechisch%26recentlyadded%3Dall)](https://www.abebooks.de/servlet/BookDetailsPL?bi=22221367580&searchurl=bi%3D0%26ds%3D20%26bx%3Doff%26sortby%3D17%26kn%3Daltgriechisch%26recentlyadded%3Dall))
-* [Max und Moritz auf Altgriechisch von Wilhelm Busch](https://www.zvab.com/9783150185261/Max-Moritz-Altgriechisch-Wilhelm-Busch-3150185262/plp%20
+* [Max und Moritz auf Altgriechisch von Wilhelm Busch](https://www.zvab.com/9783150185261/Max-Moritz-Altgriechisch-Wilhelm-Busch-3150185262/plp%20)
         [abebooks.de/servlet/BookDetailsPL?bi=30203752691&searchurl=bi%3D0%26ds%3D20%26bx%3Doff%26sortby%3D17%26kn%3Daltgriechisch%26recentlyadded%3Dall)](https://www.abebooks.de/servlet/BookDetailsPL?bi=30203752691&searchurl=bi%3D0%26ds%3D20%26bx%3Doff%26sortby%3D17%26kn%3Daltgriechisch%26recentlyadded%3Dall))
 * [Phonetique historique du mycenien et du grec ancien](https://b-ok.cc/book/2072879/8e9f66)
 * [pronunciation du grec ancien: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/?q=pronunciation+du+grec+ancien)

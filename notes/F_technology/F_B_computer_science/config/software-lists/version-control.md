@@ -90,8 +90,8 @@
 
 * ( ) [git-cliff](https://github.com/orhun/git-cliff)
 * ( ) [commitlint.js.org](https://commitlint.js.org/#/reference-rules)
-* [→ [commitlint.js.org/#/reference-rules](https://commitlint.js.org/#/reference-rules)*](https://commitlint.js.org/#/reference-rules](https://commitlint.js.org/#/reference-rules)*$1
-* [freecodecamp.org/news/how-to-use-commitlint-to-write-good-commit-messages/)*](https://www.freecodecamp.org/news/how-to-use-commitlint-to-write-good-commit-messages/)*$1
+* [→ [commitlint.js.org/#/reference-rules](https://commitlint.js.org/#/reference-rules)*](https://commitlint.js.org/#/reference-rules](https://commitlint.js.org/#/reference-rules)*
+* [freecodecamp.org/news/how-to-use-commitlint-to-write-good-commit-messages/)*](https://www.freecodecamp.org/news/how-to-use-commitlint-to-write-good-commit-messages/)*
 * [conventionalcommits.org/en/v1.0.0/)](https://www.conventionalcommits.org/en/v1.0.0/))
 * ( ) [cz-cli](https://github.com/commitizen/cz-cli)http://commitizen.github.io/cz-cli/
 * ( ) [...](https://github.com/jorisroovers/gitlint)

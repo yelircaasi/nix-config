@@ -121,8 +121,8 @@ add deskew keyword to cv-analysis service
 * 3. Initialize mapping for each output path -> a priori probabilistic mapping
 * 4. generate rule space -> as tree
    `f_i(path) = value` -> list of candidate rules
-* 5. increment rule score for each rule generating correct output    operations:    * identit$1
-    * numerical transformation (solve by e.g. regression$1
+* 5. increment rule score for each rule generating correct output    operations:    * identit
+    * numerical transformation (solve by e.g. regression
     * string operations: substring,character mapping, casing, substring transposition
 
 ### ML Pipelines
@@ -205,7 +205,7 @@ add deskew keyword to cv-analysis service
 
 # NLQ
 
-* [ ]  add attention to mode$1
+* [ ]  add attention to mode
 * [ ]  add CRF to model
 
 ## Notes and Links
@@ -216,11 +216,11 @@ add deskew keyword to cv-analysis service
 * [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool)
 * [huggingface.co/oliverguhr/spelling-correction-english-base](https://huggingface.co/oliverguhr/spelling-correction-english-base)
 * [tokenizer.json · facebook/bart-large-cnn at main](https://huggingface.co/facebook/bart-large-cnn/blob/main/tokenizer.json)
-* [ ]  Clustering 22$1
-* [ ]  Clustering Analysis 23$1
-* [ ]  Data Clustering Algorithms & Applications 13$1
-* [ ]  Practical Guide to Data Clustering in R 17$1
-* [ ]  * [ ]  [Graph-Based NLP and IR](https://drive.google.com/file/d/1_yAyK1ZaBRorNLGL2upsOoiGjHq1HVbp/view?usp=sharing)- [ ]  .- [ ]  [Sentdex/Simple-kNN-Gzip](https://github.com/Sentdex/Simple-kNN-Gzip$1
+* [ ]  Clustering 22
+* [ ]  Clustering Analysis 23
+* [ ]  Data Clustering Algorithms & Applications 13
+* [ ]  Practical Guide to Data Clustering in R 17
+* [ ]  * [ ]  [Graph-Based NLP and IR](https://drive.google.com/file/d/1_yAyK1ZaBRorNLGL2upsOoiGjHq1HVbp/view?usp=sharing)- [ ]  .- [ ]  [Sentdex/Simple-kNN-Gzip](https://github.com/Sentdex/Simple-kNN-Gzip)
 * [ ]  [“Low-Resource” Text Classification: A Parameter-Free Classification Method with Compressors](https://aclanthology.org/2023.findings-acl.426.pdf)- [ ]  [gzip is all you need](https://www.youtube.com/watch?v=jkdWzvMOPuo)
 
 # Table Parsing
@@ -268,7 +268,7 @@ export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/usr/lib/x86_64-linux-gnu”
 ## Miscellaneous / Overarching
 
 * Reading
-* TOD$1
+* TOD
 * [ ]  update Gitlab pipeline
 * pytest        * [cbohara/pytest: Notes from Python Testing with pytest by Brian Okken](https://github.com/cbohara/pytest)
 * [pytest-dev/pytest: The pytest framework makes it easy to write small tests, yet scales to support complex functional testing](https://github.com/pytest-dev/pytest)
@@ -278,7 +278,7 @@ export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/usr/lib/x86_64-linux-gnu”
 * [5 Advanced Pytest Tricks - Software Gems](https://benoitgoujon.com/post/six-advanced-pytest-tricks/)
 * [An example on how to capture and test logs with pytest.](https://gist.github.com/hectorcanto/981b49a83a9e15b68efe5302a643e5c0)
 * [simplistix/testfixtures: testfixtures is a collection of helpers and mock objects that are useful when writing automated tests in Python.](https://github.com/simplistix/testfixtures)
-* pyni$1
+* pyni
 * [ ]  prepare presentation on Python development in Nix for the team (create Docker container, go through Tweag tutorial on Nix + Python)
 * [cedaei.com/posts/python-poetry-pipx/](https://cedaei.com/posts/python-poetry-pipx/)
 * Segmentation        * [segment-anything.com/](https://segment-anything.com/)
@@ -296,21 +296,21 @@ export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/usr/lib/x86_64-linux-gnu”
 * [Queues — RabbitMQ](https://www.rabbitmq.com/queues.html)
 * Azure
 * Next 6
-* [ ]  Run transformers NER off-the shel$1
-* [x]  copy from [page](https://huggingface.co/docs/transformers/tasks/token_classification$1
-* [ ]  modify for printin$1
+* [ ]  Run transformers NER off-the shel
+* [x]  copy from [page](https://huggingface.co/docs/transformers/tasks/token_classification)
+* [ ]  modify for printin
 * [x]  run & debug
 * [x]  Transport off-the-shelf transformers NER for CoreML
-* [x]  Transport off-the-shelf transformers NER for ONN$1
-* [ ]  Run transformers NER on my dat$1
-* [ ]  Improve data generation and make improved dat$1
-* [ ]  Train with improved dat$1
-* [ ]  Evaluat$1
-* [ ]  Expor$1
-* [ ]  find differences in tokenize$1
-* [ ]  Get tokenizer ported - together with dev$1
+* [x]  Transport off-the-shelf transformers NER for ONN
+* [ ]  Run transformers NER on my dat
+* [ ]  Improve data generation and make improved dat
+* [ ]  Train with improved dat
+* [ ]  Evaluat
+* [ ]  Expor
+* [ ]  find differences in tokenize
+* [ ]  Get tokenizer ported - together with dev
 * [ ]  Send to devs
-* Tickets
+* Tickets)
 * [knecon.atlassian.net/browse/RES-402?atlOrigin=eyJpIjoiNzAzMTZlYjVmNmYyNGZkN2ExYzUzNGZlYjFiZWEwMDQiLCJwIjoiaiJ9](https://knecon.atlassian.net/browse/RES-402?atlOrigin=eyJpIjoiNzAzMTZlYjVmNmYyNGZkN2ExYzUzNGZlYjFiZWEwMDQiLCJwIjoiaiJ9)
 * [knecon.atlassian.net/browse/RES-358?atlOrigin=eyJpIjoiOTc4NmQ1MzlhZDQ4NGQ2ZWE5MWQyMDdhMDVlMGYxZDgiLCJwIjoiaiJ9](https://knecon.atlassian.net/browse/RES-358?atlOrigin=eyJpIjoiOTc4NmQ1MzlhZDQ4NGQ2ZWE5MWQyMDdhMDVlMGYxZDgiLCJwIjoiaiJ9)
 * [knecon.atlassian.net/browse/RES-298?atlOrigin=eyJpIjoiODhhNDJjMDZhOTcwNGEyZDg1M2U4NDk0YzBkZDM3ODIiLCJwIjoiaiJ9](https://knecon.atlassian.net/browse/RES-298?atlOrigin=eyJpIjoiODhhNDJjMDZhOTcwNGEyZDg1M2U4NDk0YzBkZDM3ODIiLCJwIjoiaiJ9)

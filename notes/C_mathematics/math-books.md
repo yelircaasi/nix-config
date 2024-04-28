@@ -40,8 +40,8 @@
 * [**Topology - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Topology)
 * [Read & work through Abstract Algebra An Introductory Course](https://drive.google.com/file/d/11d6M_CsywEJpksLSTLoGFOX28K0s2bz9/view?usp=sharing)
 * Library Genesis: Nicholas J. Higham - Accuracy and Stability of Numerical Algorithms, Second Edition
-Library Genesis: Nicholas J. Higham (Editor), Mark R. Dennis (Editor), Paul Glendinning (Editor), Paul A. Martin (Editor), Fadil Santosa (Editor), Jared Tanner (Editor) - The Princeton Companion to Applied Mathematic$1
-* $2ведение в теорию графов [2019] Робин Уилсо$1
+Library Genesis: Nicholas J. Higham (Editor), Mark R. Dennis (Editor), Paul Glendinning (Editor), Paul A. Martin (Editor), Fadil Santosa (Editor), Jared Tanner (Editor) - The Princeton Companion to Applied Mathematic
+* $2ведение в теорию графов [2019] Робин Уилсо
 * $2over, T. and Thomas, J. “Elements of Information Theory” Wiley.—Classic information theory.
 Information Theory: A Tutorial Introduction (Stone)
 Marc Toussaint - Maths for Intelligent Systems
@@ -1177,7 +1177,7 @@ The Language of Logic
 Введение в логику, урок 1: Базовые понятия
 Какую власть дает логика - [Логика #1]
 Логика и эпистемология. Лекция 1. Логика Аристотеля Александр Пустовит. Что такое логика?
-Логика. Основы Логики. Логическое Мышлени$1
+Логика. Основы Логики. Логическое Мышлени
 * $2ntro to Deep Learning - Math References
 * J.R. Hindley, J.P. Seldin, Lambda-Calculus and Combinators: An Introduction (Cambridge University Press, Cambridge, 2008)
 * G.S. Boolos, J.P. Burges, R.C. Jeffrey, Computability and Logic (Cambridge University Press, Cambridge, 2007)

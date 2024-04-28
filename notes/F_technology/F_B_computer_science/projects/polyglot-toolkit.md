@@ -132,7 +132,7 @@
 * [ ]  Later: add desktop gui app using these as dependencies → [build-system.fman.io/](https://build-system.fman.io/) (or simply pyinstaller) with Darling and Wine to build for all 3 platforms (first try small toy example)
 * OLDER
 * [ ]  [docs.julialang.org/en/v1/manual/types/](https://docs.julialang.org/en/v1/manual/types/)
-* [ ]  write general visualization functions for grids and matrice$1
+* [ ]  write general visualization functions for grids and matrice
 * [ ]  plot(0:0.1:1, 0:0.1:1, xticks=[0,0.5,1], yticks=[0,0.5,1])
 * [docs.juliaplots.org/latest/generated/attributes_axis/](http://docs.juliaplots.org/latest/generated/attributes_axis/)
 * [ ]  Make geometric weight grid and develop algorithm to find diagonal alignments
@@ -142,48 +142,48 @@
 * [ ]  Read [Overview of BA Algorithms](https://drive.google.com/file/d/1cVFNvbJ1Tjr-14yQh_l8kYnaOhVumxsp/view?usp=sharing)
 * [ ]  read neural alignment papers / tools
 
-* [ ]  ‣            * [ ]  ‣            * [ ]  [hunalign – sentence aligner | Média Oktató és Kutató Központ](http://mokk.bme.hu/resources/hunalign/$1
-* [ ]  [farkastranslations.com/alignment.php](https://farkastranslations.com/alignment.php$1
-* [ ]  ‣            * [ ]  ‣            * [ ]  The protein-protein interaction network alignment using recurrent neural networ$1
-* [ ]  [Neural Network Alignment for Sentential Paraphrases](https://aclanthology.org/P19-1467.pdf$1
-* [ ]  Accelerating DNA pairwise sequence alignment using FPGA and a customized convolutional neural networ$1
-* [ ]  [Enhanced Self-Organizing Map Neural Network for DNA Sequence Classification](https://file.scirp.org/pdf/IIM_2013012416282128.pdf$1
-* [ ]  [Neural Time Warping For Multiple Sequence Alignment](https://arxiv.org/abs/2006.15753$1
-* [ ]  [A Neural Multi-sequence Alignment TeCHnique (NeuMATCH)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Dogan_A_Neural_Multi-Sequence_CVPR_2018_paper.pdf$1
+* [ ]  ‣            * [ ]  ‣            * [ ]  [hunalign – sentence aligner | Média Oktató és Kutató Központ](http://mokk.bme.hu/resources/hunalign/)
+* [ ]  [farkastranslations.com/alignment.php](https://farkastranslations.com/alignment.php)
+* [ ]  ‣            * [ ]  ‣            * [ ]  The protein-protein interaction network alignment using recurrent neural networ
+* [ ]  [Neural Network Alignment for Sentential Paraphrases](https://aclanthology.org/P19-1467.pdf)
+* [ ]  Accelerating DNA pairwise sequence alignment using FPGA and a customized convolutional neural networ
+* [ ]  [Enhanced Self-Organizing Map Neural Network for DNA Sequence Classification](https://file.scirp.org/pdf/IIM_2013012416282128.pdf)
+* [ ]  [Neural Time Warping For Multiple Sequence Alignment](https://arxiv.org/abs/2006.15753)
+* [ ]  [A Neural Multi-sequence Alignment TeCHnique (NeuMATCH)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Dogan_A_Neural_Multi-Sequence_CVPR_2018_paper.pdf)
 * [ ]  [Gapped sequence alignment using artificial neural networks: application to
-            the MHC class I system](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6402319/$1
-* [ ]  [NN-align. An artificial neural network-based alignment algorithm for MHC class II peptide binding prediction](https://pubmed.ncbi.nlm.nih.gov/19765293/$1
-* [ ]  [TEMPORAL ALIGNMENT PREDICTION FOR SUPER- VISED REPRESENTATION LEARNING AND FEW-SHOT SEQUENCE CLASSIFICATION](https://openreview.net/pdf?id=p3DKPQ7uaAi$1
-* [ ]  [High-speed all-optical DNA local sequence alignment based on a three-dimensional artificial neural network](https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-34-7-1173$1
-* [ ]  [deepai.org/publication/mask-align-self-supervised-neural-word-alignment](https://deepai.org/publication/mask-align-self-supervised-neural-word-alignment$1
-* [ ]  [A Discriminative Neural Model for Cross-Lingual Word Alignment](https://www.arxiv-vanity.com/papers/1909.00444/$1
-* [ ]  [Bitext Maps and Alignment via Pattern Recognition](https://www.researchgate.net/publication/2478530_Bitext_Maps_and_Alignment_via_Pattern_Recognition$1
-* [ ]  [An Empirical Investigation of Word Alignment Supervision for Zero-Shot Multilingual Neural Machine Translation]($1
-* [ ]  [Lesan -- Machine Translation for Low Resource Languages](https://arxiv.org/abs/2112.08191$1
-* [ ]  [Link-Intensive Alignment for Incomplete Knowledge Graphs](https://arxiv.org/abs/2112.09266$1
-* [ ]              * [ ]  [en.wikipedia.org/wiki/Parallel_text](https://en.wikipedia.org/wiki/Parallel_text) (see links!$1
-* [ ]  [www-i6.informatik.rwth-aachen.de/web/Tools/GIZA++.html](http://www-i6.informatik.rwth-aachen.de/web/Tools/GIZA++.html$1
-* [ ]  [terminotix.com/index.asp?content=item&item=49&lang=en](https://terminotix.com/index.asp?content=item&item=49&lang=en$1
-* [ ]  [nlp.jhu.edu/parabank/](https://nlp.jhu.edu/parabank/$1
-* [ ]  [Towards Neural Machine Translation with Partially Aligned Corpora](https://arxiv.org/abs/1711.01006$1
-* [ ]  [WikiMatrix: Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia](https://arxiv.org/abs/1907.05791$1
+            the MHC class I system](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6402319/)
+* [ ]  [NN-align. An artificial neural network-based alignment algorithm for MHC class II peptide binding prediction](https://pubmed.ncbi.nlm.nih.gov/19765293/)
+* [ ]  [TEMPORAL ALIGNMENT PREDICTION FOR SUPER- VISED REPRESENTATION LEARNING AND FEW-SHOT SEQUENCE CLASSIFICATION](https://openreview.net/pdf?id=p3DKPQ7uaAi)
+* [ ]  [High-speed all-optical DNA local sequence alignment based on a three-dimensional artificial neural network](https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-34-7-1173)
+* [ ]  [deepai.org/publication/mask-align-self-supervised-neural-word-alignment](https://deepai.org/publication/mask-align-self-supervised-neural-word-alignment)
+* [ ]  [A Discriminative Neural Model for Cross-Lingual Word Alignment](https://www.arxiv-vanity.com/papers/1909.00444/)
+* [ ]  [Bitext Maps and Alignment via Pattern Recognition](https://www.researchgate.net/publication/2478530_Bitext_Maps_and_Alignment_via_Pattern_Recognition)
+* [ ]  [An Empirical Investigation of Word Alignment Supervision for Zero-Shot Multilingual Neural Machine Translation](
+* [ ]  [Lesan -- Machine Translation for Low Resource Languages](https://arxiv.org/abs/2112.08191)
+* [ ]  [Link-Intensive Alignment for Incomplete Knowledge Graphs](https://arxiv.org/abs/2112.09266)
+* [ ]              * [ ]  [en.wikipedia.org/wiki/Parallel_text](https://en.wikipedia.org/wiki/Parallel_text) (see links!
+* [ ]  [www-i6.informatik.rwth-aachen.de/web/Tools/GIZA++.html](http://www-i6.informatik.rwth-aachen.de/web/Tools/GIZA++.html)
+* [ ]  [terminotix.com/index.asp?content=item&item=49&lang=en](https://terminotix.com/index.asp?content=item&item=49&lang=en)
+* [ ]  [nlp.jhu.edu/parabank/](https://nlp.jhu.edu/parabank/)
+* [ ]  [Towards Neural Machine Translation with Partially Aligned Corpora](https://arxiv.org/abs/1711.01006)
+* [ ]  [WikiMatrix: Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia](https://arxiv.org/abs/1907.05791)
 * [ ]
-* [ ]  Read SMT Tutorial Workbook
+* [ ]  Read SMT Tutorial Workbook)
 * [ ]  Read [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/pdf/1703.01619)
 * [ ]  Julia Programming Projects.pdf
 * [ ]  Read Hands-on Design Patterns and Best Practices with Julia
 * [ ]  Read Julia 1.0 Programming Dynamic and High-Performance Programming to Build Fast Scientific Applications
 * [ ]  Read Julia Docs, especially sections on packaging and high-performance tips
-* [ ]  learn about diff algorithms → application to bitext alignment?        * [ ]  [4 Diff Algorithms in Git](https://link.springer.com/article/10.1007/s10664-019-09772-z$1
-* [ ]  [git-scm.com/docs/git-diff](https://git-scm.com/docs/git-diff$1
-* [ ]  [en.wikipedia.org/wiki/Diff](https://en.wikipedia.org/wiki/Diff$1
-* [ ]  [luppeng.wordpress.com/2020/10/10/when-to-use-each-of-the-git-diff-algorithms/](https://luppeng.wordpress.com/2020/10/10/when-to-use-each-of-the-git-diff-algorithms/$1
+* [ ]  learn about diff algorithms → application to bitext alignment?        * [ ]  [4 Diff Algorithms in Git](https://link.springer.com/article/10.1007/s10664-019-09772-z)
+* [ ]  [git-scm.com/docs/git-diff](https://git-scm.com/docs/git-diff)
+* [ ]  [en.wikipedia.org/wiki/Diff](https://en.wikipedia.org/wiki/Diff)
+* [ ]  [luppeng.wordpress.com/2020/10/10/when-to-use-each-of-the-git-diff-algorithms/](https://luppeng.wordpress.com/2020/10/10/when-to-use-each-of-the-git-diff-algorithms/)
 * [ ]  [malvikasharan/Alignment-Algorithms](https://github.com/malvikasharan/Alignment-Algorithms)
 * [ ]  for sentence matching classifier: [Inter-Weighted Alignment Network for Sentence Pair Modeling](https://aclanthology.org/D17-1122.pdf)
 * [ ]  [Improving neural sentence alignment with word translation](https://link.springer.com/article/10.1007/s11704-019-9164-3)
 * [ ]  [Cross-Sentence Alignment with Deep Neural Networks](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj11fSdpaz1AhUG8rsIHQ7JCRUQFnoECAgQAQ&url=https%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-3-030-27947-9_16&usg=AOvVaw0r6O7LmghTzp_vvABO6PyI)
 * [ ]  [Word Alignment Modeling with Context Dependent Deep Neural Network](https://aclanthology.org/P13-1017.pdf)
-* [ ]  [Neural network alignment for sentential paraphrases](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj11fSdpaz1AhUG8rsIHQ7JCRUQgAMoAXoECAEQAw&url=https%3A%2F%2Fscholar.google.de%2Fscholar_url%3Furl%3D
+* [ ]  [Neural network alignment for sentential paraphrases](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj11fSdpaz1AhUG8rsIHQ7JCRUQgAMoAXoECAEQAw&url=https%3A%2F%2Fscholar.google.de%2Fscholar_url%3Furl%3D)
         https%3A%2F%2Fwww.aclweb.org%2Fanthology%2FP19-1467.pdf%26hl%3Dit%26sa%3DX%26ei%3D1NPeYbnfC8CVy9YPkO25qAM%26scisig%3DAAGBfm2d9BeLWAihhOGm-qVK6R3pxYm9Yw%26oi%3Dscholarr&usg=AOvVaw3inDZXW5pNu1YjIykpxWeF)
 * [ ]  The TransBank Aligner: Cross-Sentence Alignment with Deep Neural Networks
 * [ ]  [Iterative, MT-based Sentence Alignment of Parallel Texts](https://www.semanticscholar.org/paper/Iterative%2C-MT-based-Sentence-Alignment-of-Parallel-Sennrich-Volk/b74b3e52011a0b55f6f7187d3486fb3ae34d1e6e)
@@ -1306,7 +1306,7 @@
         * contrasting embeddings for translation pairs
         * semantically distinct multi-word expressions/phrases/idioms
         * → use for NSM or similar semantic representation/metalanguage
-        * → closely related to paremiological projects → use common tools and methodologies where appropriat$1
+        * → closely related to paremiological projects → use common tools and methodologies where appropriat
 * [CLI-Dictionary](https://github.com/Lodobo/CLI-Dictionary) - Scripts for downloading and viewing wiktionary entries from Kaikki.org.
     * Intercomprehension - Etymologically-Related Words
 * Dumps and Dump Parsing
@@ -1432,11 +1432,11 @@
 * [Papers with Code - Text-To-Speech Synthesis](https://paperswithcode.com/task/text-to-speech-synthesis/)
 * [Papers with Code - Text-To-Speech Synthesis](https://paperswithcode.com/task/text-to-speech-synthesis/codeless)
 
-    * Data Augmentatio$1
+    * Data Augmentatio
 * [ ]  → use all (or many) n-grams of appropriate length for early training, then only proper phrase/sentence splits for later finer training
-        → separate models for word-level and phrase/sentence-level TTS (but p/s-level highest priority$1
-* [ ]  Low-resource expressive text-to-speech using data augmentatio$1
-* [ ]  [Text-to-speech system for low-resource language using cross-lingual transfer learning and data augmentation](https://asmp-eurasipjournals.springeropen.com/articles/10.1186/s13636-021-00225-4$1
+        → separate models for word-level and phrase/sentence-level TTS (but p/s-level highest priority
+* [ ]  Low-resource expressive text-to-speech using data augmentatio
+* [ ]  [Text-to-speech system for low-resource language using cross-lingual transfer learning and data augmentation](https://asmp-eurasipjournals.springeropen.com/articles/10.1186/s13636-021-00225-4)
 * [ ]  [SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition](https://arxiv.org/abs/1904.08779)
 * [ ]  [speechresearch.github.io/fastspeech2/](https://speechresearch.github.io/fastspeech2/)
 * [ ]  [paperswithcode.com/method/fastspeech-2](https://paperswithcode.com/method/fastspeech-2)

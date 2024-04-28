@@ -2,7 +2,7 @@
 
 ## Notes
 
-### Ideal Setup:
+### Ideal Setup
 
 * 1. Minimal use of mouse
 * 2. Unified, consistent, ergonomic keybindings
@@ -127,8 +127,8 @@
 * ( ) [simplewc](https://www.reddit.com/r/unixporn/s/7BK4nY4pV3) [github](https://github.com/kcirick/simplewc)
 * ( ) [Monitors | Hyprland Wiki](https://wiki.hyprland.org/Configuring/Monitors/)
 * ( ) [cage-kiosk/cage: A Wayland kiosk](https://github.com/cage-kiosk/cage)
-* ( ) [...](https://sr.ht/~atha/newm-atha/
-* ( ) [...](https://spwhitton.name/tech/code/papersway/
+* ( ) [...](https://sr.ht/~atha/newm-atha/)
+* ( ) [...](https://spwhitton.name/tech/code/papersway/)
 * {wayfire} [Wayfire-dots](https://github.com/bluebyt/Wayfire-dots)
 * ( ) [hyprland](https://hyprland.org/)
 * ( ) [awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland)
@@ -209,7 +209,7 @@
 
 ## Bar etc
 
-* ( ) [...](https://github.com/PurpleAce88/dwm-bar-in-rust-
+* ( ) [...](https://github.com/PurpleAce88/dwm-bar-in-rust-)
 * ( ) [i3bar](https://www.reddit.com/r/i3wm/comments/adjhd0/can_i_hide_i3bar_at_all_times_except_when_i/ )
 * ( ) [i3status-rust](https://github.com/greshake/i3status-rust)
 * ( ) [Lemonbar](https://github.com/LemonBoy/bar) - Super fast, lightweight, and mnml status bar for Linux.
@@ -439,7 +439,7 @@
 * (2) [ego](https://github.com/intgr/ego)
 * App Browser Equivalents
 * ( ) [Heimdall](https://github.com/linuxserver/Heimdall)
-* {misc tool} ( ) [...](https://tools.suckless.org/x/wmname/
+* {misc tool} ( ) [...](https://tools.suckless.org/x/wmname/)
 * {misc tools} ( ) [hyprlock](https://github.com/hyprwm/hyprlock)
 * {misc tools} ( ) [hyprwm/hyprland-welcome: Hyprland's welcome app, written in qt.](https://github.com/hyprwm/hyprland-welcome)
 * {misc tools} ( ) [~emersion/wlr-randr - An xrandr clone for wlroots compositors - sourcehut git](https://git.sr.ht/~emersion/wlr-randr)
@@ -543,7 +543,7 @@ switcher* [nChain](https://github.com/Nocxium/nChain) theme switcher
 * {xwm} ( ) [leftwm](https://github.com/leftwm/leftwm)
 * {xwm} ( ) [marswm](https://github.com/jzbor/marswm)
 * {xwm} ( ) [moonwm](https://github.com/jzbor/moonwm)
-* {xwm awesome} ( ) [...](https://awesomewm.org/
+* {xwm awesome} ( ) [...](https://awesomewm.org/)
 * {xwm awesome} ( ) [...](https://scaron.info/blog/awesome-with-gnome-on-ubuntu.html)
 * {xwm awesome} ( ) [awwesomewm with dots](https://www.reddit.com/r/unixporn/comments/12tvw7f/awesome_finally_i_got_what_i_want)
 * {xwm dwm} ( ) [...](https://dwm.suckless.org/patches/)

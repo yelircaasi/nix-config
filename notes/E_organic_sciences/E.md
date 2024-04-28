@@ -208,8 +208,8 @@
 * [Биология поведения человека. Лекция #1. Введение [Роберт Сапольски, 2010. Стэнфорд]](https://www.youtube.com/watch?v=ik9t96SMtB0&list=WL&index=1358)
 * [Vsauce: брахистохрона](https://www.youtube.com/watch?v=Biq0aHX37UU&list=WL&index=464)
 * [Интеллектуальные способности рас | Intellektuelle Fähigkeiten verschiedener Rassen - С. Дробышевский](https://www.youtube.com/watch?v=CvDjWw_guZU&list=WL&index=366)
-* [Мозг и алкоголь — Вячеслав Дубынин](https://www.youtube.com/watch?v=YY2jXjPI9qg&list=WL&index=196$1
-* $2нтропогенез
+* [Мозг и алкоголь — Вячеслав Дубынин](https://www.youtube.com/watch?v=YY2jXjPI9qg&list=WL&index=196)
+* $2нтропогенез)
 * [ПТАХИ](https://www.youtube.com/watch?v=cSAAxA2y_OU&list=WL&index=600)
 * [Пенная жизнь](https://nkj.ru/archive/articles/34793/)
 * [10 documentaries on the body RU](https://vk.com/wall-124609314_111086)
@@ -225,7 +225,7 @@
 * [Происхождение жизни. От туманности до клетки. М. Никитин.pdf](https://vk.com/doc30601958_482923227?hash=8cb1b135989e02dbb5&dl=946d57cf6089dd49e6)
 * [knigavuhe.ru/author/dzhared-dajjmond/](https://knigavuhe.ru/author/dzhared-dajjmond/)
 
-- Notes and Question$1
+- Notes and Question
 * $2водочный проект для ак. письма, ак. статей: какие имеются выводы?
 * What is the evidence for and against organic macroevolution? (B30)
 * What is the proof that chemical evolution is impossible? How does it make use of probability, and to what extent is it certain? If life arose by chance, what would it look like?
@@ -383,7 +383,7 @@
 * Max Planck Institut für Kognitions- und Neurowissenschaften Leipzig
 * comparisón entre cerebro y computador
 * Is consciousness related to the irreducibility of reality & the circularity of definitions? (castle in the air)
-* -> psicología de la músic$1
+* -> psicología de la músic
 * $2ільки і що можна мислити без слов?
 * pensamiento y lengua
 * idea of while greater than sum of its parts - applicable to music and mystical experiences, conscienceness as it seems to be in the material realm?
@@ -403,7 +403,7 @@
 * [VK Videos](https://vk.com/wall-83013121_262228)
 * [Neurolinguistics](https://www.coursera.org/learn/neuroling) (coursera)
 * [The Mind's New Science: A History of the Cognitive Revolution](http://libgen.rs/book/index.php?md5=67CDAC6A28A59E7FB2AA6C57D2B84D19)
-* [The Emperor’s New Mind: Concerning Computers, Minds, and the Laws of Physics [Revised impression, second edition?]](http://libgen.rs/book/index.php?md5=7B45DBFAAC019BC7DC9175635523E409$1
+* [The Emperor’s New Mind: Concerning Computers, Minds, and the Laws of Physics [Revised impression, second edition?]](http://libgen.rs/book/index.php?md5=7B45DBFAAC019BC7DC9175635523E409)
 * $2огнитивные науки: фиорсофия, лингвистика, антропология, нейронаука, ИИ, психологиn
 * Mесценный мозn
 * Mmbodied Cognition
@@ -421,11 +421,11 @@
 * Mубстанция мышлениn
 * Mренируй свой мозn
 * Mейропсихология
-* [Разум и природа](http://libgen.rs/book/index.php?md5=E2B338D2EF1DFDD623A0145FF05C549C$1
-* $2озг. Внимание. Поведение$1
-* $2ейролингвистик$1
-* $2волюция разум$1
-* $2. Сакс
+* [Разум и природа](http://libgen.rs/book/index.php?md5=E2B338D2EF1DFDD623A0145FF05C549C)
+* $2озг. Внимание. Поведение
+* $2ейролингвистик
+* $2волюция разум
+* $2. Сакс)
 * [2021's Breakthroughs in Neuroscience and Other Biology](https://www.youtube.com/watch?v=1tOx_Vh5diE)
 * [Brain and Mind. Neuroscience Search for Meaning](https://www.youtube.com/watch?v=OwaLHHMfuiM)
 * [The Upward Spiral: Using Neuroscience to Reverse the Course of Depression, One Small Change at a Time](http://libgen.rs/book/index.php?md5=D42F64AAE819BB2EA8D0965653D9AD1F)
@@ -558,8 +558,8 @@
 * [**Theories of Consciousness - Bibliography - PhilPapers](https://philpapers.org/browse/theories-of-consciousness)**
 * [*Two-Stage Models for Free Will](http://www.informationphilosopher.com/freedom/two-stage_models.html)
 * [10. Introduction to Neuroscience I](https://www.youtube.com/watch?v=5031rWXgdYo&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=176)
-* [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://www.youtube.com/watch?v=BvJJn9VS4rk&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=170&t=10s$1
-* $2ячеслав Дубынин: "Нейроны и нейросети. Обзор основных структур головного и спинного мозга"
+* [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://www.youtube.com/watch?v=BvJJn9VS4rk&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=170&t=10s)
+* $2ячеслав Дубынин: "Нейроны и нейросети. Обзор основных структур головного и спинного мозга")
 * [neuroqualia.org/background.php](http://www.neuroqualia.org/background.php)
 * [ideas.repec.org/i/eneu.html](https://ideas.repec.org/i/eneu.html)
 * [en.wikipedia.org/wiki/Neuroeconomics](https://en.wikipedia.org/wiki/Neuroeconomics)
@@ -589,29 +589,29 @@
 * [Denis Timofeev](https://www.youtube.com/c/DenisTimofeev)
 * [Mindvalley Talks](https://www.youtube.com/c/MindvalleyTalks)
 * [What is a Thought? How the Brain Creates New Ideas | Henning Beck | TEDxHHL](https://www.youtube.com/watch?v=oJfFMoAgbv8&list=WL&index=398)
-* [Steven Pinker: la lingüística como una ventana para comprender el cerebro | Gran pensamiento](https://www.youtube.com/watch?v=Q-B_ONJIEcE&list=WL&index=434$1
-* $2атьяна Черниговская - Наш мозг
+* [Steven Pinker: la lingüística como una ventana para comprender el cerebro | Gran pensamiento](https://www.youtube.com/watch?v=Q-B_ONJIEcE&list=WL&index=434)
+* $2атьяна Черниговская - Наш мозг)
 * [Consciousness: Crash Course Psychology #8](https://www.youtube.com/watch?v=jReX7qKU2yc&list=WL&index=343)
 * [David Chalmers: ¿Cómo explicamos la conciencia?](https://www.youtube.com/watch?v=uhRhtFFhNzQ&list=WL&index=327)
 * [Dan Dennet habla sobre nuestra "auto-consciencia"](https://www.youtube.com/watch?v=fjbWr3ODbAo&list=WL&index=342)
-* Action Potential in the Neuro$1
-* $2натомия нейрон$1
+* Action Potential in the Neuro
+* $2натомия нейрон
 * $2ежнейронные химические синапсы
-* [¿Tenemos cuerpo o somos cuerpo?](https://www.youtube.com/watch?v=Mp-0Akl6e_U&list=WL&index=531"
+* [¿Tenemos cuerpo o somos cuerpo?](https://www.youtube.com/watch?v=Mp-0Akl6e_U&list=WL&index=531")
 * Iткрытая лекция профессора Татьяны Черниговской "Сознание и мозг"
-* Is Free Will An Illusion? | Full Interview | Dr Helen Beebee
+* Is Free Will An Illusion? | Full Interview | Dr Helen Beebee)
 * [David Lynch on Consciousness, Creativity and the Brain (Transcendental Meditation)](https://www.youtube.com/watch?v=z2UHLMVr4vg&list=WL&index=1366)
 * [Christof Koch: The Future of Consciousness - Schrödinger at 75: The Future of Biology](https://www.youtube.com/watch?v=luGE5e2_xKM&list=WL&index=356)
-* [The Anatomy of Memory - On Our Mind](https://www.youtube.com/watch?v=spTE65zX6Oo&list=WL&index=357$1
-* $2екция Татьяны Черниговской «Чеширская улыбка кота Шрёдингера: язык и сознание». О Далай-ламе$1
-* $2нтуиция как способ мышления. Т. Черниговская. Суть и способ мышлени$1
-* $2ознание человека. Что же такое сознание? Татьяна Черниговска$1
-* $2ейрофилософия Черниговска$1
-* $2атьяна Черниговская. Лекция “Сознание и мозг “. Архангельск 21.11.201$1
-* $2ость Татьяна Черниговская. Познер. Выпуск от 25.04.201$1
-* $2ерниговская Т.В. - Творческий моз$1
-* $2ерниговская VS Анохин - Что такое сознание$1
-* $2ерниговская Т.В. - Мозг и сознание
+* [The Anatomy of Memory - On Our Mind](https://www.youtube.com/watch?v=spTE65zX6Oo&list=WL&index=357)
+* $2екция Татьяны Черниговской «Чеширская улыбка кота Шрёдингера: язык и сознание». О Далай-ламе
+* $2нтуиция как способ мышления. Т. Черниговская. Суть и способ мышлени
+* $2ознание человека. Что же такое сознание? Татьяна Черниговска
+* $2ейрофилософия Черниговска
+* $2атьяна Черниговская. Лекция “Сознание и мозг “. Архангельск 21.11.201
+* $2ость Татьяна Черниговская. Познер. Выпуск от 25.04.201
+* $2ерниговская Т.В. - Творческий моз
+* $2ерниговская VS Анохин - Что такое сознание
+* $2ерниговская Т.В. - Мозг и сознание)
 * [Douglas Hofstadter asserts "a human brain is a representational system that knows no bounds in terms of the extensibility or flexibility of its categories". Do we really believe this? *no bounds*? @MelMitchell1](https://twitter.com/zacharylipton/status/1271868868374470657?s=20)
 * [Human brain activity for machine attention](https://arxiv.org/abs/2006.05113)
 * [How Humans Evolved Supersize Brains](https://www.quantamagazine.org/how-humans-evolved-supersize-brains-20151110/)

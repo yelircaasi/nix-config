@@ -106,7 +106,7 @@
 * [Mathematik-Online-Kurs: LAAG](https://mo.mathematik.uni-stuttgart.de/kurse/kurs47/seite1.html)
 * [mitmath/18330: 18.330 Intro to Numerical Analysis](https://github.com/mitmath/18330)
 * [mitmath/18335: 18.335 - Introduction to Numerical Methods course](https://github.com/mitmath/18335)
-* [*Readings | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
+* [*Readings | Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 * [*First Course in Linear Algebra](http://linear.ups.edu/html/fcla.html)
 * [*Index of /~hunter/measure_theory](https://www.math.ucdavis.edu/~hunter/measure_theory/)
 * [*Index of /pub/Maths/Courseware](https://www.maths.tcd.ie/pub/Maths/Courseware/)

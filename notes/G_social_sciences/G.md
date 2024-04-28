@@ -1142,7 +1142,7 @@ find best WW2/NS-Germany histories, optimally in German
 * Eine Geschichte der Welt in 100 Objekten
 * [Eine Geschichte des Antisemitismus (1/4) | Doku HD | ARTE](https://youtu.be/wYldk5sBlHA)
 * [Why German History is Different](https://youtu.be/Pnl7Mc2U7F0)
-* Histor$1
+* Histor
     * colonialism                * [theconversation.com/colonialism-was-a-disaster-and-the-facts-prove-it-84496](https://theconversation.com/colonialism-was-a-disaster-and-the-facts-prove-it-84496)
 * [cambridge.org/core/journals/utilitas/article/abs/bentham-and-the-development-of-the-british-critique-of-colonialism/87CE08AFF6F0C9CF5E416EED7B33892B](https://www.cambridge.org/core/journals/utilitas/article/abs/bentham-and-the-development-of-the-british-critique-of-colonialism/87CE08AFF6F0C9CF5E416EED7B33892B)
 * [pdfproc.lib.msu.edu/?file=/DMC/African+Journals/pdfs/PULA/pula012001/pula012001006.pdf](https://pdfproc.lib.msu.edu/?file=/DMC/African+Journals/pdfs/PULA/pula012001/pula012001006.pdf) - Joseph Conrad and British critics of colonialism                * [currentaffairs.org/2017/09/a-quick-reminder-of-why-colonialism-was-bad](https://www.currentaffairs.org/2017/09/a-quick-reminder-of-why-colonialism-was-bad)
@@ -3583,7 +3583,7 @@ find best WW2/NS-Germany histories, optimally in German
 * [Who Rules America](https://vk.com/doc246808508_484860197?hash=93c411b6b18cee9314&dl=e3187250cb65f62fdd)
 * [Why Cyber Is Different | PolicyEd](https://www.policyed.org/intellections/why-cyber-different/video)
 * [Why Did So Many Socialist Thinkers Come From Fairly Well-Off Families? : Socialism_101](https://www.reddit.com/r/Socialism_101/comments/f4mpq7/why_did_so_many_socialist_thinkers_come_from/)
-* [David Graeber sur Twitter : "People sometimes ask how'd you deal with corporations w/out a state. W/out a state &amp; its legal structure there are no corporations. They'd just be gangs. The Medellín "cartel" isn't a cartel, it's precisely that: a corporation outside the legal framework of the state." / Twitter](https://twitter.com/davidgraeber/status/1145365204219379717?$1
+* [David Graeber sur Twitter : "People sometimes ask how'd you deal with corporations w/out a state. W/out a state &amp; its legal structure there are no corporations. They'd just be gangs. The Medellín "cartel" isn't a cartel, it's precisely that: a corporation outside the legal framework of the state." / Twitter](https://twitter.com/davidgraeber/status/1145365204219379717?)
 * [AKRATEIA - анархистские исследования на постсоветском пространстве](https://akrateia.info/)**
 * [O Demokraciji | Débat &quot;De la démocratie&quot; - YouTube](https://www.youtube.com/watch?v=eDrod7m5pVk)
 * [Who is More Phobic About Science--Conservatives or Liberals? - YouTube](https://www.youtube.com/watch?v=n9kJkuuedw0)
@@ -3702,7 +3702,7 @@ find best WW2/NS-Germany histories, optimally in German
 * ["Putin war in seiner ersten Amtszeit eine Chance für Europa" | artour | MDR - YouTube](https://www.youtube.com/watch?v=yzLiwWVZCOk)
         "Давай, до свіданія": як Україна відірвалася від путінської імперіїde 5 канал
 * [«ВКонтакте» решает, что делать с запрещенными Роскомнадзором группами](http://regnum.ru/news/society/1975647.html)
-* [[AUDIO FIXED] The Truth Cannot be Sexist - Steven Pinker on the biology of sex differences - YouTube](https://www.youtube.com/watch?v=n691pLhQBkw$1
+* [[AUDIO FIXED] The Truth Cannot be Sexist - Steven Pinker on the biology of sex differences - YouTube](https://www.youtube.com/watch?v=n691pLhQBkw)
 * [We Are Built To Be Kind (political arguments)](https://www.youtube.com/watch?v=SsWs6bf7tvI)**
 * [#42 Corey Robin on understanding conservatism - from Edmund Burke to Donald Trump par Politics Theory Other | Écoute gratuite sur SoundCloud](https://soundcloud.com/poltheoryother/42-corey-robin-on-understanding-conservatism-from-edmund-burke-to-donald-trump)
 * [#ExGOP: The Shock of Disaffiliation: On Leaving the Republican Party | National Review](http://www.nationalreview.com/article/436244/exgop-shock-disaffiliation-leaving-republican-party)
@@ -3820,7 +3820,7 @@ find best WW2/NS-Germany histories, optimally in German
 * [tomdispatch.com/authors/dannysjursen](http://www.tomdispatch.com/authors/dannysjursen)
 * [video](https://www.youtube.com/watch?v=oCdfXBD_z9o)
 * [le-commun.fr - Articles traduits](http://www.le-commun.fr/index.php?page=textes-traduits)
-* [(2) Why is income redistribution not considered stealing? - Quora](https://www.quora.com/Why-is-income-redistribution-not-considered-stealing$1
+* [(2) Why is income redistribution not considered stealing? - Quora](https://www.quora.com/Why-is-income-redistribution-not-considered-stealing)
 * [**Etats-Unis vs France : Les différences culturelles | Tour de la Planète](http://www.tourdelaplanete.com/etats-unis-vs-france-les-differences-culturelles)
 * [10 things that fuel negative police image among the public](https://www.policeone.com/police-leader/articles/7786551-10-things-that-fuel-negative-police-image-among-the-public/)
 * [4 Laws That Could Stem the Rising Threat of Mass Shootings - Scientific American](https://www.scientificamerican.com/article/4-laws-that-could-stem-the-rising-threat-of-mass-shootings/)
@@ -4027,7 +4027,7 @@ find best WW2/NS-Germany histories, optimally in German
 * [The Triumph of American Idealism – Damage](https://damagemag.com/2020/06/17/the-triumph-of-american-idealism/)
 * [Démocratie, dans quel état?](https://b-ok.cc/book/1204790/fe53db)
 * [Myth and Mayhem: A Leftist Critique of Jordan Peterson](https://b-ok.cc/book/5469326/2134ab)
-* [Capitalism vs Freedom](https://b-ok.cc/s/capitalism%20vs%20freedom$1
+* [Capitalism vs Freedom](https://b-ok.cc/s/capitalism%20vs%20freedom)
 * [**L'anarchisme | Henri Arvon, Que sais-je? | download](https://b-ok.cc/book/1126023/3475dd)
 * [The Last Dance di Michael Jordan, il bullismo del sogno americano](https://www.tpi.it/sport/the-last-dance-michael-jordan-bullismo-sogno-americano-20200526608928/)
 * [Meister Eckhart – Wikipedia](https://de.wikipedia.org/wiki/Meister_Eckhart)
@@ -4056,7 +4056,7 @@ find best WW2/NS-Germany histories, optimally in German
 * [Chris Hedges: The Treason of the Ruling Class - scheerpost.com](https://scheerpost.com/2020/06/02/the-treason-of-the-ruling-class/)
 * [The Betrayal by the Black Elite - YouTube](https://www.youtube.com/watch?v=OcJqjgB4tyQ)
 * [Long Read: Trump's threats of violence against protestors reflect a racist order defined by nationalism in US history. | USAPP](https://blogs.lse.ac.uk/usappblog/2020/06/05/long-read-trumps-nationalism-and-threats-of-violence-against-protestors-are-the-latest-reiteration-of-a-racist-order-that-has-defined-us-history/)
-* [Фукуяма, Снайдер, Епплбаум. Як пояснюють протести в США найвідоміші американські історики й філософи](https://suspilne.media/39288-fukuama-snajder-epplbaum-ak-poasnuut-protesti-v-ssa-najvidomisi-amerikanski-istoriki-j-filosofi/$1
+* [Фукуяма, Снайдер, Епплбаум. Як пояснюють протести в США найвідоміші американські історики й філософи](https://suspilne.media/39288-fukuama-snajder-epplbaum-ak-poasnuut-protesti-v-ssa-najvidomisi-amerikanski-istoriki-j-filosofi/)
 * [**rhetoric of reaction: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/rhetoric%20of%20reaction)
 * [The Enigma of Clarence Thomas | Corey Robin | download](https://b-ok.cc/book/5259665/dae5df)
 * [The moral psychology of economic life & What the hell is happening to western democracies? - YouTube](https://www.youtube.com/watch?v=p6p0FUQaDvc)
@@ -4074,7 +4074,7 @@ find best WW2/NS-Germany histories, optimally in German
 * [The Rise of Southern Republicans | Earl Black, Merle Black | download](https://b-ok.cc/book/853222/c06987)
 * [The Partisan Paradox of Black Republicans - The Atlantic](https://www.theatlantic.com/politics/archive/2015/02/the-partisan-paradox-of-black-republicans/385187/?fbclid=IwAR3hMDskDtFVPlTnf2cUpqf7J8fp0vFXPWY2OTbgrjQ4DfMBgnKzb2JDah8)
 * [Police: Last Week Tonight with John Oliver (HBO) - YouTube](https://www.youtube.com/watch?v=Wf4cea5oObY&feature=youtu.be&fbclid=IwAR3zP-nVqtmUlnzXet3eq8_idvYmwDuyElWLWI6nsSEWZ80A2eXsTacZVTQ)
-* [A E S T H E T I C I D E](https://aestheticide.com/$1
+* [A E S T H E T I C I D E](https://aestheticide.com/)
 * [**The Anarchy of Power | A E S T H E T I C I D E](https://aestheticide.com/2020/06/07/the-anarchy-of-power/?fbclid=IwAR2NCJRd7bX9KSeUXOrrN2DPtErS20FgLuMOBOyWBJ4vSTQQXyDypJi8d0g)
 * [The Mentality of Racist White America Is the Mentality of Black America: And ... - Robert McMlillan Jr. - Google Книги](https://books.google.de/books?id=G3VNXt07pnQC&pg=PA14&lpg=PA14&dq=understanding+the+psychology+of+uncle+tom+conservatives&source=bl&ots=pROtXNmfYB&sig=ACfU3U1V8azHT2zju1BTuQQbI8jRLCwgpA&hl=ru&sa=X&ved=2ahUKEwjAiov5ofPpAhXIsaQKHSW1DOYQ6AEwDHoECAcQAQ#v=onepage&q=understanding%20the%20psychology%20of%20uncle%20tom%20conservatives&f=false)
 * [African Americans in Conservative Movements: The Inescapability of Race - Louis G. Prisock - Google Книги](https://books.google.de/books?id=p_lcDwAAQBAJ&pg=PA239&lpg=PA239&dq=understanding+the+psychology+of+uncle+tom+conservatives&source=bl&ots=uasZU-fkDr&sig=ACfU3U35C85tMa90erE7kZaSGGUoeb-Q4g&hl=ru&sa=X&ved=2ahUKEwjAiov5ofPpAhXIsaQKHSW1DOYQ6AEwDnoECAQQAQ#v=onepage&q=understanding%20the%20psychology%20of%20uncle%20tom%20conservatives&f=false)
@@ -4107,7 +4107,7 @@ find best WW2/NS-Germany histories, optimally in German
 * [What is The Latter-day Liberator? – The Latter-day Liberator](https://thelatterdayliberator.com/about/)
 * [New Black Panther Party | Southern Poverty Law Center](https://www.splcenter.org/fighting-hate/extremist-files/group/new-black-panther-party)
 * [The New Black Panther Party, explained - Vox](https://www.vox.com/2014/11/16/7217173/10-questions-you-were-afraid-to-ask-about-the-new-black-panther-party)
-* [The Anarchy of Power | A E S T H E T I C I D E](https://aestheticide.com/2020/06/07/the-anarchy-of-power/?fbclid=IwAR2uhHkvogyDF5jRDBrY5GinyjhxK_ErwgT5_e1vsCrfAjZBQmVAwiprURc$1
+* [The Anarchy of Power | A E S T H E T I C I D E](https://aestheticide.com/2020/06/07/the-anarchy-of-power/?fbclid=IwAR2uhHkvogyDF5jRDBrY5GinyjhxK_ErwgT5_e1vsCrfAjZBQmVAwiprURc)
 * [**[bradford-delong.com/2018/12/frank-wilhoit-the-travesty-of-liberalism.html](https://www.bradford-delong.com/2018/12/frank-wilhoit-the-travesty-of-liberalism.html)](https://www.bradford-delong.com/2018/12/frank-wilhoit-the-travesty-of-liberalism.html](https://www.bradford-delong.com/2018/12/frank-wilhoit-the-travesty-of-liberalism.html))
 * [The entheogenic origins of Mormonism: A working hypothesis](https://www.researchgate.net/publication/336883289_The_entheogenic_origins_of_Mormonism_A_working_hypothesis)
 * [How Do We Actually Build Solidarity? ❧ Current Affairs](https://www.currentaffairs.org/2020/07/how-do-we-actually-build-solidarity?fbclid=IwAR3X8-aeVecIok-5n7AcLHi-aNEn2S4cJ39AA3olvb2iUYLit9-U8G3SRLI)
@@ -4171,7 +4171,7 @@ find best WW2/NS-Germany histories, optimally in German
 * [Robert Feldhoff – Wikipedia](https://de.wikipedia.org/wiki/Robert_Feldhoff)
 * [Renate Völker – Wikipedia](https://de.wikipedia.org/wiki/Renate_V%C3%B6lker)
 * [Petra Häffner – Wikipedia](https://de.wikipedia.org/wiki/Petra_H%C3%A4ffner)
-* [Is risk of coronavirus transmission lower outside? What to know before going outdoors - SFChronicle.com](https://www.sfchronicle.com/news/article/Is-risk-of-coronavirus-transmission-lower-15287602.php$1
+* [Is risk of coronavirus transmission lower outside? What to know before going outdoors - SFChronicle.com](https://www.sfchronicle.com/news/article/Is-risk-of-coronavirus-transmission-lower-15287602.php)
 * [**Let's really talk about the laws of politics and getting around them.... - YouTube](https://www.youtube.com/watch?v=Vmd3bTyRmWc)
 * [15 Habits of the Mega Rich - Foil Arms and Hog - YouTube](https://www.youtube.com/watch?v=bjFPrfGW7NY)
 * [Stuart Stevens on the Republican Party: "It Was All a Lie" | Amanpour and Company - YouTube](https://www.youtube.com/watch?v=2lc5ohLuUTc)
@@ -4183,7 +4183,7 @@ find best WW2/NS-Germany histories, optimally in German
 * [How To Pretend Systemic Racism Doesn't Exist - SOME MORE NEWS - YouTube](https://www.youtube.com/watch?v=O4ciwjHVHYg)
 * [Klansmen at a Funeral and a Terrible Lynching | History to Go](https://historytogo.utah.gov/klansmen-lynching/)
 * [Opinion | Beyond ‘White Fragility’ - The New York Times](https://www.nytimes.com/2020/06/26/opinion/black-lives-matter-injustice.html?action=click&module=Opinion&pgtype=Homepage&fbclid=IwAR2nTFtHnsZNgxD6yI6HJIbAnHHgaUb6osmRdEcxEpPdc6Ow4O097goFPmI)
-* [Why There Are No Nazi Statues in Germany - POLITICO Magazine](https://www.politico.com/magazine/story/2017/08/20/why-there-are-no-nazi-statues-in-germany-215510?fbclid=IwAR3YlbOq9zEjQRR99KPjjiTrDaYgMVxKramBZv_pqBQrQENnxKXAhmxVXWM$1
+* [Why There Are No Nazi Statues in Germany - POLITICO Magazine](https://www.politico.com/magazine/story/2017/08/20/why-there-are-no-nazi-statues-in-germany-215510?fbclid=IwAR3YlbOq9zEjQRR99KPjjiTrDaYgMVxKramBZv_pqBQrQENnxKXAhmxVXWM)
 * [**Deep China: The Moral Life of the Person | Arthur Kleinman, Yunxiang Yan, Jing Jun, Sing Lee, Everett Zhang, Pan Tianshu, Wu Fei, Jinhua Guo | download](https://b-ok.cc/book/2489308/6a0ca8)
 * [Die Ausrufer – kostenlos – unentgeltlich – nicht umsonst](https://dieausrufer.wordpress.com/)
 * [Rechtsextreme, autoritäre und neonazistische Strukturen auf Youtube: Andere – Aufklärung & Universalismus](https://universalistischeaktion.noblogs.org/post/2018/03/06/rechtsextreme-autoritaere-und-neonazistische-strukturen-auf-youtube-andere/)
@@ -4226,8 +4226,8 @@ find best WW2/NS-Germany histories, optimally in German
 * [reei.org/](http://www.reei.org/)
 * [limesonline.com/](http://www.limesonline.com/)
 * [lacropoli.it/index.php](http://www.lacropoli.it/index.php)
-* [centerojournal.ru/](https://centerojournal.ru/$1
-* [**Il capitalismo della sorveglianza | Shoshana Zuboff | download](https://b-ok.cc/book/5278069/6ab2e3$1
+* [centerojournal.ru/](https://centerojournal.ru/)
+* [**Il capitalismo della sorveglianza | Shoshana Zuboff | download](https://b-ok.cc/book/5278069/6ab2e3)
 * [**Das Zeitalter des Überwachungskapitalismus | Shoshana Zuboff | download](https://b-ok.cc/book/3623158/b356d4)
 * [Antisemitism references](https://www.youtube.com/watch?v=KAFbpWVO-ow)
 * [books on the political landscape](https://www.google.com/search?q=books+on+the+political+pandscape&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
@@ -4342,7 +4342,7 @@ find best WW2/NS-Germany histories, optimally in German
 * [Кеннеди П. - Взлеты и падения великих держав. 2018. pdf](https://vk.com/doc35528094_481660376?hash=7211f2c1f38d4ced17&dl=63cc2a26ac7bd4da74)
 * [Томас Пикетти - Капитал в XXI веке (рус.изд. 2015г.).pdf](https://vk.com/doc174687212_580623722?hash=4f1619f37f645b88d2&dl=c86df693b7549215c3)
 * [Шапиро И. - Бегство от реальности в гуманитарных науках.- 2011.pdf](https://vk.com/doc370716055_499688014?hash=ce6596784c7d307b93&dl=9ef0545cedb6e4e839)
-    * Poltic$1
+    * Poltic
     * Ideology
 * [Center for a Stateless Society » Accelerationism — Other Non-Capitalist Techno-Utopianisms](https://c4ss.org/content/44122)
 * [Accelerationism - Infogalactic: the planetary knowledge core](https://infogalactic.com/info/Accelerationism)
@@ -4373,7 +4373,7 @@ find best WW2/NS-Germany histories, optimally in German
         Aldous Huxley "dictatorship without tears"
         write about understanding bigoted people and thinking
         discomfort as a political force, comfort as a suppressant → "How to Assuage Your Conscience"
-        Ресентиметн: сублимация чувства неполноценности, которая выражается в создании внешнего "врага", являющегося объектом бессильной зависти и непризни. Части "враг" является причиной неудач. Теримн введен Фридрихом Ницше.                * [danielmiessler.com/blog/liberal-gun-owner-explores-gun-data/](https://danielmiessler.com/blog/liberal-gun-owner-explores-gun-data/$1
+        Ресентиметн: сублимация чувства неполноценности, которая выражается в создании внешнего "врага", являющегося объектом бессильной зависти и непризни. Части "враг" является причиной неудач. Теримн введен Фридрихом Ницше.                * [danielmiessler.com/blog/liberal-gun-owner-explores-gun-data/](https://danielmiessler.com/blog/liberal-gun-owner-explores-gun-data/)
 * [origins of sexism - Ecosia](https://www.ecosia.org/search?q=origins+of+sexism)**
 * [Book Bans Are Fascist - YouTube](https://www.youtube.com/watch?v=ymKFl7rJY48)
 * [volksverpetzer.de/aktuelles/dugin-putin-nazi/](https://www.volksverpetzer.de/aktuelles/dugin-putin-nazi/)
@@ -7017,7 +7017,7 @@ find best WW2/NS-Germany histories, optimally in German
 * [Н.Хомский, Д. Миллер - Введение в формальный анализ естественных языков.pdf](https://vk.com/doc-124948599_475093706?hash=8925e576f318308ad0&dl=47811cbf8fd044e5e1)
 
     -
-    * Fonologí$1
+    * Fonologí
 * [ en:pdf [canIPA Natural Phonetics ]](http://www.canipa.net/doku.php?id=en:pdf)
 * [ Liste der IPA-Zeichen – Wikipedia](https://de.wikipedia.org/wiki/Liste_der_IPA-Zeichen)
 * [**IPA Phonetic Transcription of English Text | toPhonetics](https://tophonetics.com/)
@@ -7303,7 +7303,7 @@ find best WW2/NS-Germany histories, optimally in German
 * [Japanese Blue Collar: The Changing Tradition - Robert E. Cole - Google Books](https://books.google.com/books?hl=en&lr=&id=gswwd5k3xKEC&oi=fnd&pg=PA1&dq=blue+collar+intellectuals&ots=P3R041KTni&sig=vXILbGP-JKOkrDCGZ6YxvjrcCUQ#v=onepage&q=blue%20collar%20intellectuals&f=false)
 * [New Rule: The &#39;What Were You Thinking&#39; Generation | Real Time with Bill Maher (HBO) - YouTube](https://www.youtube.com/watch?v=ugLbotr1RuQ)
 * [womanstats.org/](http://www.womanstats.org/)
-* [ats-group.net/glossarien/nachschlagewerke-geographie.html](http://www.ats-group.net/glossarien/nachschlagewerke-geographie.html$1
+* [ats-group.net/glossarien/nachschlagewerke-geographie.html](http://www.ats-group.net/glossarien/nachschlagewerke-geographie.html)
 * [sociology of silicon valley - Поиск в Google](https://www.google.com/search?q=sociology+of+silicon+valley&rlz=1C5CHFA_enUS800US800&oq=sociology+of+silicon+valley&aqs=chrome..69i57j0.5617j0j7&sourceid=chrome&ie=UTF-8)**
 * [Sternstunden der Soziologie - Der Blog](http://www.sternstunden-der-soziologie.de/der-blog)
 * [LES THÉORIES EXPLICATNES DU NAZISME ET LES INTERPRÉTATIONS SOCIOLOGIQUES DE LA MODERNITÉ : DES THÉORIES DE LA MODERNISATION AUX PERSPECTNES POSTMODERNES](https://archipel.uqam.ca/8709/1/M14273.pdf)

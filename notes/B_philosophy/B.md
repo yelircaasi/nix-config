@@ -71,7 +71,7 @@
 * 35. Sort ‘John Gray’
 * 36. Sort ‘Michel Onfray’
 * 37. Sort ‘Noam Chomsky’
-* To Sort        * [libgen.rs/search.php?req=saul+smilansky&open=0&res=25&view=simple&phrase=1&column=def](https://libgen.rs/search.php?req=saul+smilansky&open=0&res=25&view=simple&phrase=1&column=def)
+* To Sort      * [libgen.rs/search.php?req=saul+smilansky&open=0&res=25&view=simple&phrase=1&column=def](https://libgen.rs/search.php?req=saul+smilansky&open=0&res=25&view=simple&phrase=1&column=def)
 * [LPSR #21 - Penser l'Euthanasie avec Marc Grassin - Yann Kerninon](https://youtu.be/4kGDbxfO0Y8)
 * [The philosophy of horror or, Paradoxes of the heart](http://library.lol/main/809DB0E12E9FEA2CE27A85DE0E5533CD)
 * [Filosofía felina](http://libgen.rs/book/index.php?md5=A8B7B7625B0908060D6A5BCBA602EC17)
@@ -79,7 +79,7 @@
 * [scotthyoung.com/blog/2010/05/05/atheist-reading-religio/](https://www.scotthyoung.com/blog/2010/05/05/atheist-reading-religio/)
 * [books: philosophy without any gaps](http://libgen.rs/search.php?req=philosophy+without+any+gaps&open=0&res=25&view=simple&phrase=1&column=def)
     find multilingual Amartya Sen books and add them to Drive and Roadmaps
-    find science fiction about omniscience, suffering, consciousness        * [libgen.rs/search.php?req=baggini+ethics&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def](http://libgen.rs/search.php?req=baggini+ethics&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+    find science fiction about omniscience, suffering, consciousness      * [libgen.rs/search.php?req=baggini+ethics&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def](http://libgen.rs/search.php?req=baggini+ethics&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 * [de1lib.org/s/baggini?languages%5B%5D=german&languages%5B%5D=french&languages%5B%5D=italian&languages%5B%5D=dutch&languages%5B%5D=portuguese&languages%5B%5D=russian&languages%5B%5D=spanish](https://de1lib.org/s/baggini?languages%5B%5D=german&languages%5B%5D=french&languages%5B%5D=italian&languages%5B%5D=dutch&languages%5B%5D=portuguese&languages%5B%5D=russian&languages%5B%5D=spanish)
 * [Science and Society (Pelican)
 * [The Radicalisation of Science: Ideology of/in the Natural Sciences](http://library.lol/main/1D4C5DC69D9334C82C6614EC1BDB2C77)
@@ -112,7 +112,7 @@
 * [philosophersmag.com/](https://www.philosophersmag.com/)
 * [en.wikipedia.org/wiki/Japanese_philosophy](https://en.wikipedia.org/wiki/Japanese_philosophy)
 * [de.wikipedia.org/wiki/Philosophie_in_Japan](https://de.wikipedia.org/wiki/Philosophie_in_Japan)
-    What can people of profession X, approaching the world primarily through the paradigms and habits of mind of profession X, learn from profession Y, with its associated tools and insights? → negative aspects of relying entirely on one's own field → benefits of enriching and enhancing one's approach to the world with the insights other fields, especially highly disparate ones → the perfect, i.e. perfectly well-rounded, mind: what would it look like? who are the best examples, whether contemporary or historical?    * [3 Libri di Filosofia della Biologia: Monod, Mayr e Dennett](https://youtu.be/YbhcSbIdth4)
+    What can people of profession X, approaching the world primarily through the paradigms and habits of mind of profession X, learn from profession Y, with its associated tools and insights? → negative aspects of relying entirely on one's own field → benefits of enriching and enhancing one's approach to the world with the insights other fields, especially highly disparate ones → the perfect, i.e. perfectly well-rounded, mind: what would it look like? who are the best examples, whether contemporary or historical?  * [3 Libri di Filosofia della Biologia: Monod, Mayr e Dennett](https://youtu.be/YbhcSbIdth4)
 * [eurozine.com/critique-and-communication-philosophys-missions/](http://www.eurozine.com/critique-and-communication-philosophys-missions/)
 * [selfhacked.com/blog/review-straw-dogs-john-gray/](https://selfhacked.com/blog/review-straw-dogs-john-gray/)
 * [sofosagora.net/](http://sofosagora.net/)
@@ -126,7 +126,7 @@
 * [literaturkritik.de/public/rezension.php?rez_id=14062](http://literaturkritik.de/public/rezension.php?rez_id=14062)
     “we feel with terrible resignation that reason is not a superhuman gift bestowed on humanity, that it is not an unchanging and eternal deity, that reason evolved in humanity and evolved into what it is, but that it also, however, could have evolved differently … what we hold to be the eternal and unalterably fixed laws of our intellectual being [are] merely a game played by the coincidence that is the world; when we recognise that our reason (which, after all, is language) can only be a coincidental reason, then we will only smile when we consider the argumentative passion with which anthropologists have laboured over questions of custom, belief and collective psychological ‘facts’. The”
     “Unknown to itself, the human mind creates worlds it cannot grasp. The places that are made by humans are as numinous and fugitive as those that appear in forest shade. Breaking the spell of diurnal perception, you can see landscapes in cities as unexpected as those that explorers discover in uncharted regions of the globe. A”
-    “Like cheap music, the myth of progress lifts the spirits as it numbs the brain.”    * [timeshighereducation.com/books/the-silence-of-animals-on-progress-and-other-modern-myths-by-john-gray/2001712.article](https://www.timeshighereducation.com/books/the-silence-of-animals-on-progress-and-other-modern-myths-by-john-gray/2001712.article)
+    “Like cheap music, the myth of progress lifts the spirits as it numbs the brain.”  * [timeshighereducation.com/books/the-silence-of-animals-on-progress-and-other-modern-myths-by-john-gray/2001712.article](https://www.timeshighereducation.com/books/the-silence-of-animals-on-progress-and-other-modern-myths-by-john-gray/2001712.article)
 * [thequietus.com/articles/12496-john-gray-silence-of-animals-interview](http://thequietus.com/articles/12496-john-gray-silence-of-animals-interview)
 * [prolixear.ru/](http://prolixear.ru/)
 * [revistatarantula.com/el-silencio-de-los-animales-sobre-el-progreso-y-otros-mitos-modernos/](http://revistatarantula.com/el-silencio-de-los-animales-sobre-el-progreso-y-otros-mitos-modernos/)
@@ -136,12 +136,12 @@
 * [samharris.org/blog/item/on-being-right-about-right-and-wrong](https://www.samharris.org/blog/item/on-being-right-about-right-and-wrong)
 * [bastiat.org/](http://bastiat.org/)
 * [rzim.org/just-thinking/must-the-moral-law-have-a-lawgiver/](http://rzim.org/just-thinking/must-the-moral-law-have-a-lawgiver/)
-    philosophical problem of non-philosophers    * [What Is Philosophy of Science? | Dean Rickles](https://b-ok.cc/book/5560878/d21ae5)
+    philosophical problem of non-philosophers  * [What Is Philosophy of Science? | Dean Rickles](https://b-ok.cc/book/5560878/d21ae5)
 * [Wicked Philosophy: Philosophy of Science and Vision Development for Complex Problems | Coyan Tromp](https://b-ok.cc/book/5558397/a15d6f)
 * [ph sci](https://b-ok.cc/book/2483633/8739a7)
 * [Dappled World](https://b-ok.cc/book/2475933/ce4f53)
 * [Essential Judaism : a complete guide to beliefs, customs, and rituals](https://b-ok.cc/book/3328569/7c6e00)
-    Versöhnung zwischen mathematische beweisfundierte Weltanschauung und emotionelle reigióse Weltanschauung.    * [socrat-online.ru/page/mirovoj-krizis-glazami-zapadnyh-intellektualov](http://www.socrat-online.ru/page/mirovoj-krizis-glazami-zapadnyh-intellektualov)
+    Versöhnung zwischen mathematische beweisfundierte Weltanschauung und emotionelle reigióse Weltanschauung.  * [socrat-online.ru/page/mirovoj-krizis-glazami-zapadnyh-intellektualov](http://www.socrat-online.ru/page/mirovoj-krizis-glazami-zapadnyh-intellektualov)
 * [magazines.russ.ru/nz/2003/29/rec-pr.html](http://magazines.russ.ru/nz/2003/29/rec-pr.html)
 * [ng.ru/ng_politics/2011-02-22/11_gray.html](http://www.ng.ru/ng_politics/2011-02-22/11_gray.html)
 * [gefter.ru/archive/author/j_gray](http://gefter.ru/archive/author/j_gray)
@@ -176,14 +176,14 @@
 * [b-ok.cc/s/carlo%20rovelli](https://b-ok.cc/s/carlo%20rovelli)
 * [Gregory Bassham: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/g/Gregory%20Bassham)
 * [Entretien Pierre Hadot](https://www.youtube.com/watch?v=WntgG-NByUg)
-    Commitment to empirically verifiable truth - ideas must hold up to reality    * [Die Kunst, kein Egoist zu sein: Warum wir gerne gut sein wollen und was uns davon abhält | Richard David Precht | download](https://b-ok.cc/book/1013347/d4441f)
+    Commitment to empirically verifiable truth - ideas must hold up to reality  * [Die Kunst, kein Egoist zu sein: Warum wir gerne gut sein wollen und was uns davon abhält | Richard David Precht | download](https://b-ok.cc/book/1013347/d4441f)
     Storia della Filosofia Occidentale
-    * -> conocimiento básico de los filósofos lmá importantes    * [Baudrillard multilingue](https://docs.google.com/spreadsheets/d/1K8BLWfw19z7Qo8gIEzXQdZVycjwKX0NRtyeuixcxsKg/edit?usp=sharing)
+  * -> conocimiento básico de los filósofos lmá importantes  * [Baudrillard multilingue](https://docs.google.com/spreadsheets/d/1K8BLWfw19z7Qo8gIEzXQdZVycjwKX0NRtyeuixcxsKg/edit?usp=sharing)
 * [nataleseremia.com/2018/08/05/il-domani-e-adesso/](http://nataleseremia.com/2018/08/05/il-domani-e-adesso/)
 * [m.pikabu.ru/story/filosofiya_popkulturyi_ili_populyarnaya_filosofiya_4340019](https://m.pikabu.ru/story/filosofiya_popkulturyi_ili_populyarnaya_filosofiya_4340019)
 * [portalmapasconceptuales.blogspot.com/2018/06/mapa-conceptual-existencialismo-vs.html](https://portalmapasconceptuales.blogspot.com/2018/06/mapa-conceptual-existencialismo-vs.html)
 * [portalmapasconceptuales.blogspot.com/2018/06/mapa-conceptual-immanuel-kant.html](https://portalmapasconceptuales.blogspot.com/2018/06/mapa-conceptual-immanuel-kant.html)
-    Noam Chomsky - On Being Truly Educatedde The Brainwaves Video Anthology    * [The Paradox of Choice & Morality: How Intelligent is A.I. ?- Nick Bostrom - WGS 2018 - YouTube](https://www.youtube.com/watch?v=hK2s5ZPq87A)
+    Noam Chomsky - On Being Truly Educatedde The Brainwaves Video Anthology  * [The Paradox of Choice & Morality: How Intelligent is A.I. ?- Nick Bostrom - WGS 2018 - YouTube](https://www.youtube.com/watch?v=hK2s5ZPq87A)
 * [Amartya Sen — Wikipédia](https://fr.wikipedia.org/wiki/Amartya_Sen)
 * [PhiloComp.net](http://www.philocomp.net/home.htm)
 * [Lectures recommandées](https://www.unine.ch/philo/home/enseignements/lectures-recommandees.html)
@@ -211,38 +211,38 @@
 * [В чем смысл футбола](https://vk.com/away.php?to=https%3A%2F%2Farzamas.academy%2Fmag%2F548-football)
 * [Economics vs Philosophy with Tyler Cowen - YouTube](https://www.youtube.com/watch?v=Y2jqm7dRCEw)
 * [Is Economics a Science? | HuffPost](https://www.huffingtonpost.com/jared-bernstein/is-economics-a-science_b_3816471.html)
-* Philosophy of Work        * [plato.stanford.edu/entries/work-labor/](https://plato.stanford.edu/entries/work-labor/)
+* Philosophy of Work      * [plato.stanford.edu/entries/work-labor/](https://plato.stanford.edu/entries/work-labor/)
 * [suhrkamp.de/buch/philosophie-der-arbeit-t-9783518298015](https://www.suhrkamp.de/buch/philosophie-der-arbeit-t-9783518298015)
 * [de.wikipedia.org/wiki/Arbeit_(Philosophie)](https://de.wikipedia.org/wiki/Arbeit_(Philosophie))
 * [philomag.de/lexikon/arbeit](https://www.philomag.de/lexikon/arbeit)
-* Philosophiæ quaestione$1
-    * Metaphysic$1
-    * Epistemologi$1
-    * Logic$1
-    * Ethic$1
-    * Aesthetic$1
-    * Altri
+* Philosophiæ quaestione
+  * Metaphysic
+  * Epistemologi
+  * Logic
+  * Ethic
+  * Aesthetic
+  * Altri
 * Autoepistemography
     Autoepistography
-    * 0-6 - peaceful and happy indoctrinatio$1
-    * 7-10 - acceptance of evolution without seeing any conflict
+  * 0-6 - peaceful and happy indoctrinatio
+  * 7-10 - acceptance of evolution without seeing any conflict
     good experience with baptism
     little questioning
     interest in science
-    * 11-13 - Mormon Doctrine and other teachings
+  * 11-13 - Mormon Doctrine and other teachings
     first red flags and difficult search for answers
     reinforced sense of difference and need to hold strong to my heritage and beliefs, "stranger in a strange land"
     German liberal values
     tolerable questions - conflict with evolution
     beginning of serious questions regarding us vs. them, theology regarding others, what determines morality, what
-    * 14-18 - smooth, all in, some questions
+  * 14-18 - smooth, all in, some questions
     issues with polygamy in high school
     exposure to weird stuff in the old testament
     intensive study of evolutionary theory
     other questions about science and religion
     certainty in the foundational claims of the restoration and of Christianity
     conservative political outlook
-    * 19-22 - difficult questions before my mission, but need to settle them or sweep them under the rug - polygamy and racism
+  * 19-22 - difficult questions before my mission, but need to settle them or sweep them under the rug - polygamy and racism
     prophetic fallibility
     disturbing endowment ceremony
     occasional questions about sexism
@@ -253,9 +253,9 @@
     intelligent, nuanced mission president
     weird stuff about the gathering of Israel
     bizarre doctrine about blood changing - actually falsifiable
-    * 23 - real faith crisis, help from a wonderful bishop
+  * 23 - real faith crisis, help from a wonderful bishop
     full exposure to some of the horrible acts
-    * 24 - intensive study - philosophy, church history, sociology & mehods of control, social psychology, psychology of belief
+  * 24 - intensive study - philosophy, church history, sociology & mehods of control, social psychology, psychology of belief
     exposure to the full spectrum of issues
     wondering about informed believers (Mason, Givens, Bushman)
     Noam Chomsky & manufactured consent
@@ -270,29 +270,29 @@
     I have, several times, experienced intense doubt, since I do ask questions and love finding answers. Since I was 11, I have wanted to know all I can about the Church of Jesus Christ of Latter-day Saints to reassure myself that I am spending my life on the right things, or to learn what other path I should take.
     I’m glad you asked, because I often feel like there is a stigma against asking tough questions, as if that implied weakness or a lack of faith, and I don’t think it should be that way. Questions, combined with an open mind and a pure heart, are the path to truth, and I love asking questions. I’m certainly glad Joseph Smith was willing to agonize over difficult questions with an open mind.
     As far as I can tell, this is a fairly comprehensive list of the doubts and objections people generally have with regard to the Church, and also what my thoughts and experience have been with them. More importantly, these are all things I have wondered about, and some of them I have thought long and hard about and lost hours of sleep over. This is more than you asked for, but I hope you find this helpful and/or interesting. It definitely applies to the work you’re doing, especially in a place as intellectually-oriented and secular as the Netherlands and Belgium. Let me know if you have more thoughts or questions with regard to any of these in particular.
-    * Church histor$1
-    * Blacks and the Priesthood - this is tough, and members only made it worse pre-1978 by thinking up non-doctrinal explanations. I wish this had never happened, but it’s a fact that even some of the greatest people have their prejudices. At the end of the day, I’m just glad to have been norn after the 1978 revelation. There is a great article about this: [lds.org/topics/race-and-the-priesthood?lang=eng](https://www.lds.org/topics/race-and-the-priesthood?lang=eng) . You’ll actually find a lot of good, well-written articles on the Church website: [lds.org/topics/](https://www.lds.org/topics/$1
-    * polygamy - This is something that is not easy for us, having been raised in a monogamous society with monogamous ideals, to accept, but it is in the Bible. Furthermore, most of the discomfort it causes is, as far as I can tell, due to an incomplete understanding of its purpose and practice. Like I would have been in their shoes, Joseph Smith, Brigham Young, and others were repulsed by the idea and had no desire to practice it. One common argument for it is that there are probably more women than men who qualify for exaltation, but all need to be married. That seems plausible to me, but most importantly, it was a commandment revealed and also discontinued through the prophets$1
-    * character of Joseph Smith and other Church leaders - The simple fact is that the Church leaders, admirable though they are, are imperfect people, and there is fortunately no doctrine of infallibility. It does make you wonder to read about the things they have said and done over the years that are out of harmony with the teachings of the Church, even their own. The Mountain Meadows Massacre, where some of the early Utahn settlers massacred a group of non-LDS pioneers, is an unfortunate example. It is easy to be become fixated on the shortcomings of great individuals and overlook all of the good they say and do, and so in addition to remembering that they are human and make mistakes, it is worth staying balanced when you take their actions into account - look at all the good they do, and weigh the unsavory bits against that, rather than focusing entirely on the negative$1
-    * freemasonry and the Church - Freemasonry is an ancient organization with high standards and secret rituals and signs. Sound familiar? Joseph Smith was a Freemason and people have tried to make the case that he copied the temple ceremony from the Freemason ritual, but it’s clear from an informed study of each that he didn’t. I’ve looked into this, particularly in a good book on it we have, and there isn’t much to it. It’s interesting to think that the Mason ceremony may be a corrupted descendant of the temple ceremony form the last time it was known and practiced, but that is unfounded speculation$1
-    * apostasy of prominent members - there was an unfortunate lot of this during the beginning era of this dispensation. Obviously, it can’t prove anything either way, but it can make you wonder. The other side of the coin, though, is that many of them came back, which took true humility and integrity to their knowledge of the truth. Many of the witnesses of the Book of Mormon, though they became opponents of Joseph Smith and the Church, and some of whom never came back, never denied their witness of the Book of Mormon. As one of my mission presidents, a lawyer by profession, pointed out, that kind of evidence carries a lot of weight even in the courtroom$1
-    * some disturbing parts of the Old Testament, like the one where the Children of Israel are commanded to annihilate the several peoples living in the land of Canaan. On that specific example, I’ve heard the explanation put forth that that was an act of mercy, because the civilizations were so wicked that the Lord wouldn’t have wanted to send anyone there to grow up surrounded by such evil. Whether or not that is the case, the general principle, I think, is that the Lord knows all factors, and we do not. Best to trust omniscience. If the Old Testament were made into a movie without editing, you and I would not be able to watch it. I think part of the reason for so much gruesome and explicit content is that sexuality and violence are universal human themes and are as relevant today as ever; part of the reason for their inclusion in the Bible may be that they were living a lower law, but whatever the case, the inspiring doctrine, stories, and poetry of the Old Testament have me convinced that it is inspired scripture after all$1
-    * the Book of Abraham - the story about it involves Egyptian papyri that Joseph Smith got ahold of and translated in the earlt days of the Church. Since then, Egyptologists have investigated them and stated that the translation is nowhere near the meaning of the originals. There is an article giving background and a partial explanation: [lds.org/topics/](https://www.lds.org/topics/) . It makes the good point that the Book of Abraham speaks for itself, even if we don’t completely understand its origins. I don’t really understand this particular issue, but since it’s a part of a greater whole, I accept it on faith, and I’m confident I’ll know the whole story someday$1
-    * Doctrines, like vicarious work for the dead, that are unique to the Church and therefore seen as “unchristian” - These make what is easily the flimsiest argument, advanced by the closed-minded Bible-worshippers who fail to understand the idea of the Restoration. These, to me, provide some of the greatest evidence that the Church is true$1
-    * Process of feeling the Spirit - This doubt essentially focuses on whether feelings can be reliably accepted as data or proof of truth. Coming from those who have not felt the Spirit’s influence, it is like, say, a vegan who had never tasted meat trying to tell me that steak was not tasty. Scientifically, of course, feelings cannot furnish proof, but I believe that the great test of this life is to be true to one’s feelings and to recognize the light of Christ. Life is, after all, not only mental, but also emotional, and everything we do is ultimately directed toward happiness, which is a feeling$1
-    * Bible-bashing - An enjoyable pastime that helps you become acquainted with the Bible, but not very effective in getting at the truth. The more you study the Bible, the more you see the continuity between it and the other 3 standard works. It is powerful how the Gospel is one unified whole, and how well the different parts of it fit together. To paraphrase someone else, the Book of Mormon can prove the Bible, but trying to prove the Book of Mormon through the Bible is, in my opinion, a waste of time. But for those willing to open their minds to the big picture, the Bible seen through the lens of the Restoration is a fascinating, beautiful thing. 2 Nephi 29 treats this very nicely$1
-    * Scienc$1
-    * evolution - Macroevolution, the idea that species change over time into other species, implying that humans evolved from other primates, is incompatible with the Gospel, and false. Microevolution, the idea that characteristics of animal species change slightly over time in response to their surroundings, is plausible, consistent with the Gospel, and actually empirically evidenced. Most people forget that evolution is itself treated more like a religion than like the theory it actually is, and the best argument against it is everything in life that it cannot account for$1
-    * age of the Earth - elieved to be about 4.6 billion years, which is not inconsistent with anything we believe, unless you believe that the “days” of creation were literally 24-hour periods of time. Most objections of this nature are brought about by preudoscience and by unsubstantiated Biblical claims and other false doctrines$1
-    * psychology, neuroscience, and determinism (the false and ridiculous idea that we cannot have free will because everything is dictated by chemical and physical processes, and thus have foregone conclusions) - I’m not terribly well-informed in these areas, but the general objection is the idea that our brain is responsible for all cognitive function. It certainly does a lot, but I tend to see the brain as a powerful tool closely tied to our spirit (maybe even analogous in some ways), but not as the origin of all thought and feeling. This is a fascinating topic I plan on learning much more about$1
-    * the list goes on and one, but the simple truth is this: Truth never contradicts itself. True religion and true science are, in essence, one and the same$1
-    * Offense or other objections based on the personal conduct of members, or even non-membership of wonderful people - These are certainly regrettable, but obviously irrelevant in a discussion of truth$1
-    * Social and lifestyle issues, such as gay marriage, other LGBT issues - These are especially tricky in today’s society, and they rely mostly on pathos, or emotion, and so are hard to argue against. Fortunately, you don’t have to - people either accept the Lord’s commandments, or they don’t, so they have other questions (like the truthfulness of the Book of Mormon, of course) to tackle first. I have found, though, that it goes a long way to explain that we love the sinner but hate the sins. (I flipped the two around once and it didn’t sound too good. Careful.) It’s also worth pointing out sometimes that “tolerance” can be very one-sided$1
-    * Dislike of culture, whether in the Church, in UT, or so on  - This has been a big one for me. Turns out it’s usually just a specific manifestation of pride$1
-    * Other doctrinal concerns, such as with the Plan of Salvation, nature of God - “Milk before meat” is always a good idea, but I’ve found that once you accept them on the faith you already have in the basics, they open up your perspective and leave you wondering what else the prophets know, but just can’t reveal because the hardness of our hearts$1
-    * Feminism ideology - This is a tough one, and I give it some credence. Women certainly could have a greater voice within the Church community, but demanding the priesthood is silly, definitely the wrong kind of voice. Most of the discomfort this issue causes is because people don't understand the patriarchal order, or maybe don't understand or believe that marriage is an equal companionship, and that holding the priesthood does not imply any kind of superiority. In other words, the priesthood legitimizes the Church, but individuals do not need to hold the priesthood to be legitimized$1
-    * Struggle to accept something that has not been revealed - This can be hard for me, because I have a compulsive drive to know and understand, but this is nothing more or less than a tough test of humility and patience$1
-    * Struggle to accept the fact that we were born as part of the <1% of all people who have ever lived on the Earth and are bizarrely blessed with liberty, prosperity, and happiness, or in other words, a struggle with the concept of fairness - This one gets to me a lot, but it’s not one that can prove anything about truth; it’s just hard to accept that I am so blessed and easy to wonder why. The parables of the talents and of the laborers in the vineyard have helped me come to terms with this, as does Luke 12:48, and this is definitely a topic I still have a lot to study on. It’s interesting to think about the special missions we have, and nice to remember that it’s not about being better or worse, just about doing the best we can with what we’re given and helping others to do the same.
+  * Church histor
+  * Blacks and the Priesthood - this is tough, and members only made it worse pre-1978 by thinking up non-doctrinal explanations. I wish this had never happened, but it’s a fact that even some of the greatest people have their prejudices. At the end of the day, I’m just glad to have been norn after the 1978 revelation. There is a great article about this: [lds.org/topics/race-and-the-priesthood?lang=eng](https://www.lds.org/topics/race-and-the-priesthood?lang=eng) . You’ll actually find a lot of good, well-written articles on the Church website: [lds.org/topics/](https://www.lds.org/topics/)
+  * polygamy - This is something that is not easy for us, having been raised in a monogamous society with monogamous ideals, to accept, but it is in the Bible. Furthermore, most of the discomfort it causes is, as far as I can tell, due to an incomplete understanding of its purpose and practice. Like I would have been in their shoes, Joseph Smith, Brigham Young, and others were repulsed by the idea and had no desire to practice it. One common argument for it is that there are probably more women than men who qualify for exaltation, but all need to be married. That seems plausible to me, but most importantly, it was a commandment revealed and also discontinued through the prophets
+  * character of Joseph Smith and other Church leaders - The simple fact is that the Church leaders, admirable though they are, are imperfect people, and there is fortunately no doctrine of infallibility. It does make you wonder to read about the things they have said and done over the years that are out of harmony with the teachings of the Church, even their own. The Mountain Meadows Massacre, where some of the early Utahn settlers massacred a group of non-LDS pioneers, is an unfortunate example. It is easy to be become fixated on the shortcomings of great individuals and overlook all of the good they say and do, and so in addition to remembering that they are human and make mistakes, it is worth staying balanced when you take their actions into account - look at all the good they do, and weigh the unsavory bits against that, rather than focusing entirely on the negative
+  * freemasonry and the Church - Freemasonry is an ancient organization with high standards and secret rituals and signs. Sound familiar? Joseph Smith was a Freemason and people have tried to make the case that he copied the temple ceremony from the Freemason ritual, but it’s clear from an informed study of each that he didn’t. I’ve looked into this, particularly in a good book on it we have, and there isn’t much to it. It’s interesting to think that the Mason ceremony may be a corrupted descendant of the temple ceremony form the last time it was known and practiced, but that is unfounded speculation
+  * apostasy of prominent members - there was an unfortunate lot of this during the beginning era of this dispensation. Obviously, it can’t prove anything either way, but it can make you wonder. The other side of the coin, though, is that many of them came back, which took true humility and integrity to their knowledge of the truth. Many of the witnesses of the Book of Mormon, though they became opponents of Joseph Smith and the Church, and some of whom never came back, never denied their witness of the Book of Mormon. As one of my mission presidents, a lawyer by profession, pointed out, that kind of evidence carries a lot of weight even in the courtroom
+  * some disturbing parts of the Old Testament, like the one where the Children of Israel are commanded to annihilate the several peoples living in the land of Canaan. On that specific example, I’ve heard the explanation put forth that that was an act of mercy, because the civilizations were so wicked that the Lord wouldn’t have wanted to send anyone there to grow up surrounded by such evil. Whether or not that is the case, the general principle, I think, is that the Lord knows all factors, and we do not. Best to trust omniscience. If the Old Testament were made into a movie without editing, you and I would not be able to watch it. I think part of the reason for so much gruesome and explicit content is that sexuality and violence are universal human themes and are as relevant today as ever; part of the reason for their inclusion in the Bible may be that they were living a lower law, but whatever the case, the inspiring doctrine, stories, and poetry of the Old Testament have me convinced that it is inspired scripture after all)
+  * the Book of Abraham - the story about it involves Egyptian papyri that Joseph Smith got ahold of and translated in the earlt days of the Church. Since then, Egyptologists have investigated them and stated that the translation is nowhere near the meaning of the originals. There is an article giving background and a partial explanation: [lds.org/topics/](https://www.lds.org/topics/) . It makes the good point that the Book of Abraham speaks for itself, even if we don’t completely understand its origins. I don’t really understand this particular issue, but since it’s a part of a greater whole, I accept it on faith, and I’m confident I’ll know the whole story someday
+  * Doctrines, like vicarious work for the dead, that are unique to the Church and therefore seen as “unchristian” - These make what is easily the flimsiest argument, advanced by the closed-minded Bible-worshippers who fail to understand the idea of the Restoration. These, to me, provide some of the greatest evidence that the Church is true
+  * Process of feeling the Spirit - This doubt essentially focuses on whether feelings can be reliably accepted as data or proof of truth. Coming from those who have not felt the Spirit’s influence, it is like, say, a vegan who had never tasted meat trying to tell me that steak was not tasty. Scientifically, of course, feelings cannot furnish proof, but I believe that the great test of this life is to be true to one’s feelings and to recognize the light of Christ. Life is, after all, not only mental, but also emotional, and everything we do is ultimately directed toward happiness, which is a feeling
+  * Bible-bashing - An enjoyable pastime that helps you become acquainted with the Bible, but not very effective in getting at the truth. The more you study the Bible, the more you see the continuity between it and the other 3 standard works. It is powerful how the Gospel is one unified whole, and how well the different parts of it fit together. To paraphrase someone else, the Book of Mormon can prove the Bible, but trying to prove the Book of Mormon through the Bible is, in my opinion, a waste of time. But for those willing to open their minds to the big picture, the Bible seen through the lens of the Restoration is a fascinating, beautiful thing. 2 Nephi 29 treats this very nicely
+  * Scienc
+  * evolution - Macroevolution, the idea that species change over time into other species, implying that humans evolved from other primates, is incompatible with the Gospel, and false. Microevolution, the idea that characteristics of animal species change slightly over time in response to their surroundings, is plausible, consistent with the Gospel, and actually empirically evidenced. Most people forget that evolution is itself treated more like a religion than like the theory it actually is, and the best argument against it is everything in life that it cannot account for
+  * age of the Earth - elieved to be about 4.6 billion years, which is not inconsistent with anything we believe, unless you believe that the “days” of creation were literally 24-hour periods of time. Most objections of this nature are brought about by preudoscience and by unsubstantiated Biblical claims and other false doctrines
+  * psychology, neuroscience, and determinism (the false and ridiculous idea that we cannot have free will because everything is dictated by chemical and physical processes, and thus have foregone conclusions) - I’m not terribly well-informed in these areas, but the general objection is the idea that our brain is responsible for all cognitive function. It certainly does a lot, but I tend to see the brain as a powerful tool closely tied to our spirit (maybe even analogous in some ways), but not as the origin of all thought and feeling. This is a fascinating topic I plan on learning much more about
+  * the list goes on and one, but the simple truth is this: Truth never contradicts itself. True religion and true science are, in essence, one and the same
+  * Offense or other objections based on the personal conduct of members, or even non-membership of wonderful people - These are certainly regrettable, but obviously irrelevant in a discussion of truth
+  * Social and lifestyle issues, such as gay marriage, other LGBT issues - These are especially tricky in today’s society, and they rely mostly on pathos, or emotion, and so are hard to argue against. Fortunately, you don’t have to - people either accept the Lord’s commandments, or they don’t, so they have other questions (like the truthfulness of the Book of Mormon, of course) to tackle first. I have found, though, that it goes a long way to explain that we love the sinner but hate the sins. (I flipped the two around once and it didn’t sound too good. Careful.) It’s also worth pointing out sometimes that “tolerance” can be very one-sided
+  * Dislike of culture, whether in the Church, in UT, or so on  - This has been a big one for me. Turns out it’s usually just a specific manifestation of pride
+  * Other doctrinal concerns, such as with the Plan of Salvation, nature of God - “Milk before meat” is always a good idea, but I’ve found that once you accept them on the faith you already have in the basics, they open up your perspective and leave you wondering what else the prophets know, but just can’t reveal because the hardness of our hearts
+  * Feminism ideology - This is a tough one, and I give it some credence. Women certainly could have a greater voice within the Church community, but demanding the priesthood is silly, definitely the wrong kind of voice. Most of the discomfort this issue causes is because people don't understand the patriarchal order, or maybe don't understand or believe that marriage is an equal companionship, and that holding the priesthood does not imply any kind of superiority. In other words, the priesthood legitimizes the Church, but individuals do not need to hold the priesthood to be legitimized
+  * Struggle to accept something that has not been revealed - This can be hard for me, because I have a compulsive drive to know and understand, but this is nothing more or less than a tough test of humility and patience
+  * Struggle to accept the fact that we were born as part of the <1% of all people who have ever lived on the Earth and are bizarrely blessed with liberty, prosperity, and happiness, or in other words, a struggle with the concept of fairness - This one gets to me a lot, but it’s not one that can prove anything about truth; it’s just hard to accept that I am so blessed and easy to wonder why. The parables of the talents and of the laborers in the vineyard have helped me come to terms with this, as does Luke 12:48, and this is definitely a topic I still have a lot to study on. It’s interesting to think about the special missions we have, and nice to remember that it’s not about being better or worse, just about doing the best we can with what we’re given and helping others to do the same.
     Why I believe: I have felt the Spirit’s witness that this Church, despite its imperfect past and imperfect nature, is the one set up by Jesus Christ. Having an open mind dictates that if you were to find more truth and light anywhere else, you would go there. I have had my eyes open, and I haven’t found any church or other group or system of belief that fit the bill. There is nowhere else you can learn so much about Jesus Christ and His Gospel, and nowhere else you can find opportunities to do so much good. In addition to the Spirit’s witness, the evidence for the Church outweighs any evidence against it, and the most logical decision I have found is to accept it and to live by it, and to help others do the same. As Alma 32 and John 7:17 promise, living the Gospel is its own best proof.
     Sometimes I’m a little jealous that you’re still a missionary, and I miss my own time as a missionary. It really is a wonderful feeling that can be easy to take for granted, and I’m so grateful I got to serve. Thanks for writing good emails every week.
     Love,
@@ -409,7 +409,7 @@
 * Alfred North Whitehead
 * Alfred Tennyson (1809-1892)
 * Alfred Wegener (1880-1930)
-* al-Ghazāl$1
+* al-Ghazāl
 * $2lhazen (c.965-1040)
 * al-Jahiz, a pioneer of evolutionary thought and natural selection;
 * Alkmaion
@@ -1315,8 +1315,8 @@
 * [donaldrobertson.name/2018/10/29/roundup-women-in-ancient-stoicism/](https://donaldrobertson.name/2018/10/29/roundup-women-in-ancient-stoicism/)
 * [en.wikipedia.org/wiki/List_of_Stoic_philosophers](https://en.wikipedia.org/wiki/List_of_Stoic_philosophers)
 * [r/Stoicism/comments/4tak0a/female_stoics/](https://www.reddit.com/r/Stoicism/comments/4tak0a/female_stoics/)
-    * Deutsch$1
-    * Lists
+  * Deutsch
+  * Lists
 * Religion Books
     David O. McKay and the Rise of Modern Mormonism
     Thunder from the Right
@@ -1334,7 +1334,7 @@
 * [Buddhismus](https://b-ok.cc/s/?q=buddhismus&order=year)
 * {    Buddhismus und Evolution       } [Christentum](https://libgen.is/search.php?req=christentum&open=0&res=25&view=simple&phrase=1&column=def)
     Das Elend der Theologie (Hans Albert)
-    Das Religionen-Buch        * [dawkins](https://libgen.is/search.php?&req=dawkins&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=12)
+    Das Religionen-Buch      * [dawkins](https://libgen.is/search.php?&req=dawkins&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=12)
 * [Die artikelen des geloofs](https://vk.com/doc306961597_438466772?hash=9bc7d48719d08a3859&dl=8d2b32d5f4970860cd)
 * {$1} [Die Identität der buddhistischen Schulen](https://vk.com/doc488576652_506838946?hash=a8eb8d65ddbb7daa44&dl=9fc5b8874e9b348b4a)
 * {    Die Weltreligionen       } [Die_Wirtschaftsethik_der_Weltreligionen_Smart_Reading.pdf](https://vk.com/doc5961481_459269216?hash=c36b9f4c810267e696&dl=218da025008c7c97a8)
@@ -1358,11 +1358,11 @@
 * [Radical Sacrifice](https://b-ok.cc/book/3679960/b98d37)
 * Notes
     What are the philosophical implications of the existence of a devil, as opposed to bad thoughts independent of demonic influence?
-    * Ясность: что такая? Как мне добиться ее в изучении и в обучении?    * coupling of fantasy, distraction and memor$1
-    * the present is imposed unconditionally absolutely: life, the present, is unconditionally given grac$1
-    * givennes$1
-    * quotes: Guy de Maupassan$1
-    * Tolstoï: Tout raisonnement sur l'amour le detruit
+  * Ясность: что такая? Как мне добиться ее в изучении и в обучении?  * coupling of fantasy, distraction and memor
+  * the present is imposed unconditionally absolutely: life, the present, is unconditionally given grac
+  * givennes
+  * quotes: Guy de Maupassan
+  * Tolstoï: Tout raisonnement sur l'amour le detruit
     What are the merits and shortcomings of jealousy, i.e. what purposes doe it serve and to what extent should it be avoided?
     Thinker's: Frank (Dostoevsky scholar), Levinas, Timothy Ware (Orthodox), Rabbi Sacks ("maximum of means, minimum of meaning")
     >Every “why” question assumes an underlying natural law (cause and effect relationship) or principle
@@ -1370,8 +1370,8 @@
     Contradictions imply falsehood; paradoxes imply the need for understanding at a deeper level; unanswered questions imply the need to continue searching and be patient.
     To justify its pursuit, knowledge should be rewarding, useful, worthwhile, helpful, applicable, edifying, timely, balanced, and bring the greatest total happiness. Learning should be motivated by a love of truth and righteousness and a desire to elevate others along with oneself.
     Fascinating truths:
-    * Everything you see, hear, feel, or otherwise perceive, and everything you think, say, and do becomes a part of you, depending on how you respond to it. Therein lies individuality$1
-    * Everything you do in any sense of the word changes reality (i.e. truth), in some way. Actions literally do change the world - for better, for worse, or further along the trajectory it is already on.
+  * Everything you see, hear, feel, or otherwise perceive, and everything you think, say, and do becomes a part of you, depending on how you respond to it. Therein lies individuality
+  * Everything you do in any sense of the word changes reality (i.e. truth), in some way. Actions literally do change the world - for better, for worse, or further along the trajectory it is already on.
     Despite the perpetual passing of experience, it is meaningful because of memory, development, eternal reward, and immediate happiness. Righteousness is a pattern of action that provides happiness both now and later. Where true happiness is concerned, there is not a tradeoff between this life and the next. Happiness is an upward spiral. Pleasure is an up-and-back-down climb.
     Analysis:
     0) Question
@@ -1392,7 +1392,7 @@
     Interesting how time, or t least my persection of it, behaves non-arithmetically. When I am busy, I can still find time to do things that matter, and when I am less busy, I often do even less. Of course, this is probably due to a number of illusions and biases, but it is an interesting phenomenon that tells me a lot about myself.
     Another interesting paradox regarding performance, achievance and life in general is that difficult times don’t inevitably decrease learning, achievement, and performance. Rather, they provide a kind of drive that is often lacking when all is well. The general principle is that anything, even shocks, crises, and tragedies can be harnessed for good.
     Thought game: Take a premise or conclusion, and lead it through to its logical conclusion, po-Dostoevskomu.
-    * Points of view typical of or inherent in different fields, occupations, etc., and how to achieve a balanced, well-rounded view
+  * Points of view typical of or inherent in different fields, occupations, etc., and how to achieve a balanced, well-rounded view
     Why is the “Rule of 3” so effective? (B2/17)
     Is it possible for 2 wrongs to make a right (see Roe v. Wade)? (B8)
     What is truly universal? What are the common threads of reality that transcend all cultural and individual differences? (B16)
@@ -1403,7 +1403,7 @@
     Why is the most glorious and intelligent of all creatures also the least self-sufficient? Is that ironic? (B35)
     Warum ist die herrlichste intelligenteste Schöpfung Gottes auch gleichzeitig die am
     wenigsten selbstst”andige?
-    * Demut, Verst”andnis seiner Abh”amgigkeit von Gott - Mosiah 2
+  * Demut, Verst”andnis seiner Abh”amgigkeit von Gott - Mosiah 2
     Why is a thing considered beautiful? What is beauty? (B44)
     How many different categories of feeling exist? (B59)
     pleasant and good, pleasant and evil, unpleasant and good, unpleasant and evil, neutral(?)
@@ -1459,8 +1459,8 @@
     Philosophie und Schuldgefühle
     Where are the folk/lay/everyday philosophers? What can we, especially I, learn from them?
     Why do some people not ask many questions?
-    * Was ist der Mensch?    * Was braucht der Mensch?    * Was brauchen einzelne Menschen verschieden?    * Was sollte der Mensch? Kann man diese Frage allgemein beantworten?    * Warum so verschiedene Einstellungen zur Philosophie und zur Existenz?    * Welchen Einfluss übt das psychologische Zentrum eines Menschen?    * Welche psychologische, antheopologische, usw. Theorien würden mir helfen, dies besser zu verstehen?$1
-    * Welche verschiedenen Schemen gibt es, Menschen nach Typ aufzuteilen?
+  * Was ist der Mensch?  * Was braucht der Mensch?  * Was brauchen einzelne Menschen verschieden?  * Was sollte der Mensch? Kann man diese Frage allgemein beantworten?  * Warum so verschiedene Einstellungen zur Philosophie und zur Existenz?  * Welchen Einfluss übt das psychologische Zentrum eines Menschen?  * Welche psychologische, antheopologische, usw. Theorien würden mir helfen, dies besser zu verstehen?
+  * Welche verschiedenen Schemen gibt es, Menschen nach Typ aufzuteilen?
     Kann theoretisch jeder wirtschaftswissenschaftliche Theorie lernen? Wie viele könnten das? Warum bekommen ncht alle gute Noten - welche Faktoren spielen hier eine Rolle?
 * {    heutige Relevanz der Metaphysik und Verbindung mit der Wissenschaft       } [Наша сексуальная этика - Рассел Бертран :: Режим чтения](https://royallib.com/read/rassel_bertran/nasha_seksualnaya_etika.html#0)
 * [Атеизм и сексуальная этика: iskander_bel](https://iskander-bel.livejournal.com/384928.html)
@@ -1470,41 +1470,41 @@
     It's not my style to shy away from controversy on Facebook, and a lot of the time, I'm stating controversial opinions. This post is about honest questions, rather than opinions, but on a really touchy subject, so skip this if you're in cat video mode.
     I like to use Facebook to crowdsource philosophy, and that's what I'm trying to do here. One of the most divisive issues that I don't completely understand is abortion, with its arguments for and against. I can understand people not feeling comfortable talking about these issues in such a public forum, but these things are important, and they need to be discussed. Here's my understanding and my critique of some of the arguments I hear, and I want to be told what it is I'm overlooking.
     One the one side, I hear abortion equated with murder without qualification, while another extreme calls any opposition to abortion rights totalitarian control of a woman's body.
-    * Which ethical system? --> hypocris$1
-    * Appeal to potentia$1
-    * Woman's right to do what she wants with her own body; liver argumen$1
-    * Definitions of lif$1
-    * Selective abortion$1
-    * Other animal$1
-    * Problems with definition as murder, LDS positio$1
-    * Thought experiment with frozen embryos
+  * Which ethical system? --> hypocris
+  * Appeal to potentia
+  * Woman's right to do what she wants with her own body; liver argumen
+  * Definitions of lif
+  * Selective abortion
+  * Other animal
+  * Problems with definition as murder, LDS positio
+  * Thought experiment with frozen embryos
     Please comment in words, not links. This should be something that we are able to talk about in our own words (or quotes), without outsourcing the burden of debate. Hyperlink wars get spammy fast. My post, my rules.
     Kinderzahl und Kapazität der Erde
     Wie definiert man eine Eigenschaft? Ab welchem Punkt besitzt man eine Eigenschaft, bzw. wird durch sie geprägt?
     basis for classifying feelings as "vulgar" and "refined"
     Se...alethik
     Philisophie der Ursache und Wirkung
-    * > mit Anwendung in zur Frage, weshalb manche Leute so furchtbare Eltern sind.        * [Философия](http://nalanda.ru/east-philos.html)
+  * > mit Anwendung in zur Frage, weshalb manche Leute so furchtbare Eltern sind.      * [Философия](http://nalanda.ru/east-philos.html)
     ExistentialComics (FB/site)
     Welche Beziehung besteht zwischen der Mathematik und dem Kosmos?
-    * -> Philosophie der Mathematik
+  * -> Philosophie der Mathematik
     Woher weiß ich das, was ich weiß? Wie viel von dem, was ich zu wissen glaube, weiß ich tatsächlich? Wer und was beherrscht die Information? Wem vertraue ich? Wie kann ich mich gegen Täuschung und Manipulation wehren? Welche Risiken begleiten die Entscheidung, einem gewissen Menschen bzw. einer Gruppe von Menschen zu vertrauen?
     как мне быть с теми, кто не ценит философию?
     Book Idea: Humans to Organ Stops: Ways We Are Manipulated
-    * -> Analogie einer Skulptur: der Künstler fängt an mit einem Steinblock und entfernt alles, was sich nicht gehört bis am Ende nur die Skulptur bleibt, die schon immer da war, aber unsichtbar wegen überflüssiges und unerwünschtes.
+  * -> Analogie einer Skulptur: der Künstler fängt an mit einem Steinblock und entfernt alles, was sich nicht gehört bis am Ende nur die Skulptur bleibt, die schon immer da war, aber unsichtbar wegen überflüssiges und unerwünschtes.
     Richtung eher als aktuelle Lage. Wille eher als Vergangenheit.
-    blue-collar philosophers        * [nalanda.ru/east-philos.html](http://nalanda.ru/east-philos.html)
+    blue-collar philosophers      * [nalanda.ru/east-philos.html](http://nalanda.ru/east-philos.html)
 * {$1} [m.vk.com/wall-36047336_65651?from=feed_search/0/30+secondes+philosophies+epub](https://m.vk.com/wall-36047336_65651?from=feed_search/0/30+secondes+philosophies+epub)
     Gibt es eine Obergrenze des möglichen Schmerzens?
     paradoxe Dieu-pierre (en créer un d'aussi grande qu' il ne puisse le lever)
     Philosophical problem of specialization
-    * -> possibility of seeing the world completely (well-roundedly) with a specialization as a starting point, from which knowledge and experience radiate outward
+  * -> possibility of seeing the world completely (well-roundedly) with a specialization as a starting point, from which knowledge and experience radiate outward
     Philsophie über verschiedene Einstellungen zur Philsophie
     was unterliegt meine Emotionelle reaktion zu den Erfahrungen und Wertesytemen anderer? (langer, langweiliger Arbeitstag, Geringschätzung der Bildung und Kultur, usw.). Wo liegt die Grenze zwischen moralischen (--> gerechtfertigt traurigen) und amoralischen ("ihr Leben, ihre Entscheidungen, kein Problem") Entscheidungen/Wertesystemen?
     filisofía y los diablos de nuestra natura (Antiguo Testamento, por ejemplo)
     Welche treibende Kräfte stecken hinter der Philosophie?
     philosophy and the "common man"
-    * -> elitism and social class
+  * -> elitism and social class
     Jusqu'à quel point sont le stoïcisme et l'épicurisme sont-ils compatibles?
     Philosophie der Mathematik
     nature vs nurture in aesthetics
@@ -1604,11 +1604,11 @@
     fairness: results
     Was sollten alle wissen, können, machen und sein? Auf welcher moralischen Grundlage?
     Ethik der Geburtskontrolle
-    Infinitesimal ethics: how to act when your influence is small        * [Комментарии к «Государю» Макиавелли](https://b-ok.cc/book/2947945/111708)
+    Infinitesimal ethics: how to act when your influence is small      * [Комментарии к «Государю» Макиавелли](https://b-ok.cc/book/2947945/111708)
     Pascal Engel
     Pascal Engel - Y'a-t-il une éthique intellectuelle ?
 * Ethics
-    what are my ethical obligations toward the world?        * [nature.com/scitable/knowledge/library/ethics-and-global-climate-change-84226631/](https://www.nature.com/scitable/knowledge/library/ethics-and-global-climate-change-84226631/)
+    what are my ethical obligations toward the world?      * [nature.com/scitable/knowledge/library/ethics-and-global-climate-change-84226631/](https://www.nature.com/scitable/knowledge/library/ethics-and-global-climate-change-84226631/)
 * [Peter Singer: Suffering in Humans, Animals, and AI | Lex Fridman Podcast #107 - YouTube](https://www.youtube.com/watch?v=llh-2pqSGrs)
 * [#107 - Peter Singer: Suffering in Humans, Animals, and AI | MIT | Artificial Intelligence Podcast](https://lexfridman.com/peter-singer/)
 * [The world's most famous utilitarian on whether all carnivorous animals should be killed - Vox](https://www.vox.com/2015/6/18/8802755/peter-singer)
@@ -1698,12 +1698,12 @@
 * [20 incredible charities that give 99% of the money they get to the actual cause - MarketWatch](https://www.marketwatch.com/story/20-incredible-charities-that-give-99-of-the-money-they-get-to-the-actual-cause-2017-12-28)
 * [Library Genesis: Jodey Castricano, Rasmus R. Simonsen (eds.) - Critical Perspectives on Veganism](http://libgen.rs/book/index.php?md5=95522F2AD4BE5CAEA2B3B0F7FEA211E7)
 * [Russell Brand & Frankie Boyle - Is It Possible To Live A Moral Life? - YouTube](https://www.youtube.com/watch?v=LFpKOw1XzG0)
-    * Ethics
+  * Ethics
 * Reading (1)
 * [(?) [researchgate.net/publication/265857037_Technological_and_ethical_antecedents_of_e-book_piracy_and_price_acceptance_Evidence_from_the_Spanish_case](https://www.researchgate.net/publication/265857037_Technological_and_ethical_antecedents_of_e-book_piracy_and_price_acceptance_Evidence_from_the_Spanish_case)](https://www.researchgate.net/publication/265857037_Technological_and_ethical_antecedents_of_e-book_piracy_and_price_acceptance_Evidence_from_the_Spanish_case](https://www.researchgate.net/publication/265857037_Technological_and_ethical_antecedents_of_e-book_piracy_and_price_acceptance_Evidence_from_the_Spanish_case))
 * [A Justified System of IP Rights](https://mospace.umsystem.edu/xmlui/handle/10355/4788)
 * [El Budismo Según Los Estoicos - YouTube](https://www.youtube.com/watch?v=wqWiMbHF55k)
-* [stafforini.com/docs/Singer](http://www.stafforini.com/docs/Singer) - The expanding circle.pdf        * [hawramani.com/why-digital-piracy-is-ethical-and-necessary/](https://hawramani.com/why-digital-piracy-is-ethical-and-necessary/)
+* [stafforini.com/docs/Singer](http://www.stafforini.com/docs/Singer) - The expanding circle.pdf      * [hawramani.com/why-digital-piracy-is-ethical-and-necessary/](https://hawramani.com/why-digital-piracy-is-ethical-and-necessary/)
 * [monocler.ru/stoiczizm-5-0/](https://monocler.ru/stoiczizm-5-0/)
 * [mospace.umsystem.edu/xmlui/handle/10355/4788](https://mospace.umsystem.edu/xmlui/handle/10355/4788)
 * [theconversation.com/is-downloading-really-stealing-the-ethics-of-digital-piracy-39930](https://theconversation.com/is-downloading-really-stealing-the-ethics-of-digital-piracy-39930)
@@ -1773,7 +1773,7 @@
 * [Philosophy for Everyone, 2nd Edition](http://library.lol/main/B456141041F506939151E2FA45706A59)
 * [Откуда берутся новые понятия?](https://vk.com/video-6827569_456244982)
 * [Мир и Эрос. Антология философских текстов о любви](http://library.lol/main/479C05F6225312D743D8AD88F9B00CF2)
-* [b-ok.org/s/modern](https://b-ok.org/s/modern) critical thought        * [google.com/search?q=rebirth+in+the+history+of+ideas&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari](https://www.google.com/search?q=rebirth+in+the+history+of+ideas&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
+* [b-ok.org/s/modern](https://b-ok.org/s/modern) critical thought      * [google.com/search?q=rebirth+in+the+history+of+ideas&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari](https://www.google.com/search?q=rebirth+in+the+history+of+ideas&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
 * [google.com/search?q=intellectual+history+of+rebirth&client=safari&hl=it-us&biw=375&bih=553&prmd=ivsxn&sxsrf=AOaemvJ6WOH7s1KoncS6VOgIV6bUYVnyRg:1635306849763&source=lnms&sa=X&ved=0ahUKEwj5oYPf2OnzAhW4R_EDHZ3gDhEQ_AUIFSgA](https://www.google.com/search?q=intellectual+history+of+rebirth&client=safari&hl=it-us&biw=375&bih=553&prmd=ivsxn&sxsrf=AOaemvJ6WOH7s1KoncS6VOgIV6bUYVnyRg:1635306849763&source=lnms&sa=X&ved=0ahUKEwj5oYPf2OnzAhW4R_EDHZ3gDhEQ_AUIFSgA)
 * [google.com/search?q=search+philpaoers+for+rebirth+/+renaissance+/+resurrection&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari](https://www.google.com/search?q=search+philpaoers+for+rebirth+/+renaissance+/+resurrection&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
 * [Auf der Suche nach einer besseren Welt. Vorträge und Aufsätze aus dreißig Jahren](https://b-ok.cc/book/944387/dcf9fb)
@@ -1836,7 +1836,7 @@
 * [libgen.rs/search.php?&req=ethics+market&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](http://libgen.rs/search.php?&req=ethics+market&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 * [libgen.rs/search.php?&req=ethik&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](http://libgen.rs/search.php?&req=ethik&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 * [effectivealtruism.org/](https://www.effectivealtruism.org/)
-    * -> criticisms of effective altruism        * [svob vol](https://vk.com/wall-55155418_225517)
+  * -> criticisms of effective altruism      * [svob vol](https://vk.com/wall-55155418_225517)
 * [Dean Rickles - What Is Philosophy of Science?](http://libgen.rs/book/index.php?md5=BF20A9128D8D658D7B41618B3270FC40)
 * [christianitytoday.com/history/issues/issue-17/neglected-history-of-women-in-early-church.html](http://www.christianitytoday.com/history/issues/issue-17/neglected-history-of-women-in-early-church.html)
 * [answersingenesis.org/bible-questions/was-the-bible-simply-written-by-men/](https://answersingenesis.org/bible-questions/was-the-bible-simply-written-by-men/)
@@ -1939,7 +1939,7 @@
 * [nytimes.com/2016/05/11/opinion/if-philosophy-wont-diversify-lets-call-it-what-it-really-is.html?smid=fb-share&_r=0](https://www.nytimes.com/2016/05/11/opinion/if-philosophy-wont-diversify-lets-call-it-what-it-really-is.html?smid=fb-share&_r=0)
 * [theculturetrip.com/europe/united-kingdom/articles/top-10-living-philosophers/](https://theculturetrip.com/europe/united-kingdom/articles/top-10-living-philosophers/)
 * [fr.wikipedia.org/wiki/Histoire_de_la_philosophie](https://fr.wikipedia.org/wiki/Histoire_de_la_philosophie)
-    file:///Users/iriley/Google%20Drive/MICHEL%20ONFRAY%20-%20ANTIMANUEL%20DE%20PHILOSOPHIE%20(2001,%20BREAL).pdf        * [special.theoryandpractice.ru/einstein](https://special.theoryandpractice.ru/einstein)
+    file:///Users/iriley/Google%20Drive/MICHEL%20ONFRAY%20-%20ANTIMANUEL%20DE%20PHILOSOPHIE%20(2001,%20BREAL).pdf      * [special.theoryandpractice.ru/einstein](https://special.theoryandpractice.ru/einstein)
 * [monocler.ru/slow-life/](https://monocler.ru/slow-life/)
 * [monocler.ru/](https://monocler.ru/)
 * [newtonew.com/culture/kategoricheskiy-imperativ-kak-obshchatsya-drug-s-drugom](https://newtonew.com/culture/kategoricheskiy-imperativ-kak-obshchatsya-drug-s-drugom)
@@ -1963,7 +1963,7 @@
 * [chomsky.info/](https://chomsky.info/)
 * [truefreethinker.com/tag/mormon](http://www.truefreethinker.com/tag/mormon)
 * [video](https://www.youtube.com/user/PavlovaElen/playlists)
-    *         * [ordainwomen.org/searching-for-heavenly-mother/](http://ordainwomen.org/searching-for-heavenly-mother/)
+  *       * [ordainwomen.org/searching-for-heavenly-mother/](http://ordainwomen.org/searching-for-heavenly-mother/)
 * [churchhistorianspress.org/](https://www.churchhistorianspress.org/)
 * [philosophie.ch/willkommen/](http://www.philosophie.ch/willkommen/)
 * [naturalthinker.net/trl/index.html](http://www.naturalthinker.net/trl/index.html)
@@ -1975,7 +1975,7 @@
 * [solarisweb.at/auszug/gutboese.htm](http://www.solarisweb.at/auszug/gutboese.htm)
     When and where are ad hominem kinds of arguments appropriate (i.e. education and health policy where lawmakers won't subject themselves to their own policies)?
     Grosse Frage: Zweck des Lebens
-    in Bezug auf: Fortschritt, Gerechtigkeit, Rechtschaffenheit, Motivation        * [philologist.livejournal.com/7632628.html](http://philologist.livejournal.com/7632628.html)
+    in Bezug auf: Fortschritt, Gerechtigkeit, Rechtschaffenheit, Motivation      * [philologist.livejournal.com/7632628.html](http://philologist.livejournal.com/7632628.html)
 * [os.colta.ru/society/russia/details/15155/](http://os.colta.ru/society/russia/details/15155/)
 * [colta.ru/articles/specials/1274](http://www.colta.ru/articles/specials/1274)
 * [krytyka.com/ua/solutions/podcasts/video/dyskusiya-ukrayinski-intelektualy-y-mnozhynna-identychnist-ch11](https://krytyka.com/ua/solutions/podcasts/video/dyskusiya-ukrayinski-intelektualy-y-mnozhynna-identychnist-ch11)
@@ -2068,7 +2068,7 @@
 * [Анархизм (книги)](https://vk.com/wall-176520650_876)
 * {    philosophie de la science       } [stevemcintosh.com/](http://www.stevemcintosh.com/)
 * [researchrundowns.com/](https://researchrundowns.com/)
-    disenchanted lives, marshall brooks        * [La Isla de los Lotófagos - Club de Filosofía: La Grecia prefilosófica y los orígenes del pensamiento racional](https://lotofagos-island.blogspot.com/2011/09/la-grecia-prefilosofica-y-los-origenes.html?m=1&fbclid=IwAR0Zko1De1HLzQHXGd6OhvNDqXp5BgqRdYz4h_kv9s7YBSDBkVRRqKnyudA)
+    disenchanted lives, marshall brooks      * [La Isla de los Lotófagos - Club de Filosofía: La Grecia prefilosófica y los orígenes del pensamiento racional](https://lotofagos-island.blogspot.com/2011/09/la-grecia-prefilosofica-y-los-origenes.html?m=1&fbclid=IwAR0Zko1De1HLzQHXGd6OhvNDqXp5BgqRdYz4h_kv9s7YBSDBkVRRqKnyudA)
 * [ETH-Bibliothek / Gottfried Wilhelm von Leibniz philosophische Werke nach Raspens Sammlung](https://www.e-rara.ch/zut/collections/content/structure/8305133)
 * [Soziologische Klassiker/ Baudrillard, Jean – Wikibooks, Sammlung freier Lehr-, Sach- und Fachbücher](https://de.wikibooks.org/wiki/Soziologische_Klassiker/_Baudrillard,_Jean)
 * [Filosofskyi_entsyklopedychnyi_slovnyk.pdf](http://shron1.chtyvo.org.ua/Shynkaruk_Volodymyr/Filosofskyi_entsyklopedychnyi_slovnyk.pdf)
@@ -2089,7 +2089,7 @@
 * [Des jeux et des hommes | Berne Eric | download](https://b-ok.cc/book/4751012/f9751f)
 * [Life in the Universe: A Beginner's Guide | Lewis Dartnell | download](https://b-ok.cc/book/564765/c98b82)
 * [Каббала в контексте истории и современности: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/%D0%9A%D0%B0%D0%B1%D0%B1%D0%B0%D0%BB%D0%B0%20%D0%B2%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B5%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8%20%D0%B8%20%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8)
-* [**Trésor Educatif - YouTube](https://www.youtube.com/channel/UC6WgU2q9Bzh1PYTGEE_1ztg/playlists$1
+* [**Trésor Educatif - YouTube](https://www.youtube.com/channel/UC6WgU2q9Bzh1PYTGEE_1ztg/playlists)
 * [Sprachtheorie in der Literatur der hebräischen Kabbala | SpringerLink](https://link.springer.com/chapter/10.1007%2F978-3-476-03710-7_3)
 * [Kabbala – Wikipedia](https://de.wikipedia.org/wiki/Kabbala)
 * [Michael Laitman – Wikipedia](https://de.wikipedia.org/wiki/Michael_Laitman)
@@ -2127,7 +2127,7 @@
 * [Riccardo Manzotti - YouTube](https://www.youtube.com/results?search_query=Riccardo+Manzotti)
 * [Noam Chomsky's Language Theory: Best explanation you will ever hear (UGC NET English) - YouTube](https://www.youtube.com/watch?v=7fW_8bDGdX0)
     religion
-    a leer y ordenar / general        * [Glossary of Undue Influence](http://thoughtsonthingsandstuff.com/glossary-of-undue-influence/)
+    a leer y ordenar / general      * [Glossary of Undue Influence](http://thoughtsonthingsandstuff.com/glossary-of-undue-influence/)
 * [* Church changes](https://www.reddit.com/r/mormon/comments/6x3apz/ok_real_talk_here_joseph_smith_era_church_vs_lds/)
 * [2017 /r/ExMormon Demographic Survey](https://docs.google.com/forms/d/e/1FAIpQLSda74nQMthKCBUiAnzlAxTOkqcSnTUMmFgh_Zgj_YGvWEc_zQ/viewanalytics)
 * [40 Problems with Christianity – Friendly Atheist](http://www.patheos.com/blogs/friendlyatheist/2014/08/26/40-problems-with-christianity/)
@@ -2184,10 +2184,10 @@
 * [New Design for Mormon Helping Hands has Leaked! : exmormon](https://mm.reddit.com/r/exmormon/comments/6y5reg/new_design_for_mormon_helping_hands_has_leaked/)
 * [Your Hogwarts House, according to why and how you left the church : exmormon](https://www.reddit.com/r/exmormon/comments/6yrsq1/your_hogwarts_house_according_to_why_and_how_you/)
 * [‘Mormon Land’: 95 ways to improve the Mormon church — from new hymns to padded pews and letting girls pass the sacrament - The Salt Lake Tribune](https://www.sltrib.com/religion/local/2018/01/27/mormon-land-95-ways-to-improve-the-mormon-church-from-new-hymns-to-padded-pews-and-letting-girls-pass-the-sacrament/)
-* [ 40 Years a Mormon](https://40yrmormon.blogspot.com/$1
-* [ A Letter to an Apostle | Thirty-Six Interrogatories on Joseph Smith and the Mormon Narrative](https://lettertoanapostle.org/$1
-* [ Faith of a naturalist: response to &quot;Faith of a Science Teacher&quot; questions by bwv549 - Mormon Bandwagon](https://mormonbandwagon.com/bwv549/faith-naturalist-response-faith-science-teacher-questions/$1
-* [ Letter To My Wife.pdf - Google Drive](https://drive.google.com/file/d/0B18W3AgWXw6zMUllRW85bXc0RWc/view$1
+* [ 40 Years a Mormon](https://40yrmormon.blogspot.com/)
+* [ A Letter to an Apostle | Thirty-Six Interrogatories on Joseph Smith and the Mormon Narrative](https://lettertoanapostle.org/)
+* [ Faith of a naturalist: response to &quot;Faith of a Science Teacher&quot; questions by bwv549 - Mormon Bandwagon](https://mormonbandwagon.com/bwv549/faith-naturalist-response-faith-science-teacher-questions/)
+* [ Letter To My Wife.pdf - Google Drive](https://drive.google.com/file/d/0B18W3AgWXw6zMUllRW85bXc0RWc/view)
 * [ Questions to Ask by bwv549 - Mormon Bandwagon](https://mormonbandwagon.com/bwv549/questions-to-ask/)
 * [IV Helenismo 9 | El Gran Lebowski: ser feliz con poco | Epicureismo](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWt3mm9swYvw%26fbclid%3DIwAR0s65u29iR4mAPGb1RN5Threjem6-jnHwNdHkF_KFpNch07UsH_2LTka6A&h=AT0jFcbwSXQxJ0GMdOqhx7-KUkMLfokDZQJbcRRMbHurMVN8zcHt-u13TPzu_OfPgGIa6FwSKKZRZaWu99uIvyxPN1zdKU9R6xK3YrNpV5aHlo1EIPWolDgQSx44xeQHGWMz6O6skw)
     *[¿ES POSIBLE UNA ÉTICA QUE TODOS PODAMOS VIVIR?](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dp98f5i0rE6c%26fbclid%3DIwAR2IgTc2W21oNdeBp6HQuAUb9smYsCpwg-F4uj7SNFVaYJYyXFdb8eoi-PI&h=AT2FponEQ7nLnmWR3vpVXM7Qen_KmH0wyzEsYpKgvJBgmK9FLYoO_xSPpUwJMYNb5mgWzz4GVULZiK-7v9AkahBK__7XGoIMUvejWYthG4miwWJd671rkoC5mnCCawYCE-FMuNaTBw)*
@@ -2297,7 +2297,7 @@
 * [Н. Н. Талеб - "Рискуя собственной шкурой" - YouTube](https://www.youtube.com/playlist?list=PLcAsYSQWIgW07a8EyFjTC5EDJbKhxUTdK)
 * [Настоящее значение философских афоризмов](https://vk.com/away.php?to=https%3A%2F%2Farzamas.academy%2Fmaterials%2F1640)
 * [Ник Бостром. Рассуждение о Конце Света для начинаю (Алексей Турчин) / Проза.ру](https://www.proza.ru/2007/04/13-34)
-    Подавление индивидуальности сводит людей в человеческое стадо, как было в Темные Века Земли, когда христианская церковь фактически выполнила задачу Сатаны, озлобив и сделав убийцами множество людей… К несчастью, главная религиозная книга наиболее техничной и могущественной из прошлых цивилизаций — белой — была Библия, наполненная злом, предательством, племенной враждой и бесконечными убийствами… Для другой великой цивилизации прошлого — желтой — учение Конфуция породило безответную покорность обстоятельствам жизни…        * [ПОСТМОДЕРНИЗМ](https://vk.com/wall-6827569_21648)
+    Подавление индивидуальности сводит людей в человеческое стадо, как было в Темные Века Земли, когда христианская церковь фактически выполнила задачу Сатаны, озлобив и сделав убийцами множество людей… К несчастью, главная религиозная книга наиболее техничной и могущественной из прошлых цивилизаций — белой — была Библия, наполненная злом, предательством, племенной враждой и бесконечными убийствами… Для другой великой цивилизации прошлого — желтой — учение Конфуция породило безответную покорность обстоятельствам жизни…      * [ПОСТМОДЕРНИЗМ](https://vk.com/wall-6827569_21648)
 * [Проблемы христианства в контексте плюрализма философских воззрений на современном этапе | Humane - Гуманный](http://humane.net.ru/content/%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B-%D1%85%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B0-%D0%B2-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B5-%D0%BF%D0%BB%D1%8E%D1%80%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC%D0%B0-%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D1%81%D0%BA%D0%B8%D1%85-%D0%B2%D0%BE%D0%B7%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B9-%D0%BD%D0%B0-%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%BC-%D1%8D%D1%82%D0%B0%D0%BF%D0%B5)
 * [Революция искусственного интеллекта: на пути к сверхразуму](https://vk.com/@newochem-urban-ai-1)
 * {$1} [Сказ о науке и политике | LessWrong на русском](https://lesswrong.ru/w/%D0%A1%D0%BA%D0%B0%D0%B7_%D0%BE_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5_%D0%B8_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B5)
@@ -2319,18 +2319,18 @@
 * [evolution and sexism - Ecosia](https://www.ecosia.org/search?q=evolution+and+sexism)
 * [Fil nauki](https://vk.com/wall-154516093_17848)
 * [filosofia antropologica - YouTube](https://www.youtube.com/results?search_query=filosofia+antropologica)
-    Filosofía aquí y ahora - Foucault (I)de psicologia unmsm        * [Filosofia e nuovi sentieri | «Mi rappresento il vasto recinto delle scienze come una grande estensione di terreno disseminato di luoghi oscuri e illuminati. Lo scopo delle nostre fatiche deve essere quello di estendere i confini dei luoghi illuminati, op](https://filosofiaenuovisentieri.com/)
+    Filosofía aquí y ahora - Foucault (I)de psicologia unmsm      * [Filosofia e nuovi sentieri | «Mi rappresento il vasto recinto delle scienze come una grande estensione di terreno disseminato di luoghi oscuri e illuminati. Lo scopo delle nostre fatiche deve essere quello di estendere i confini dei luoghi illuminati, op](https://filosofiaenuovisentieri.com/)
 * [filosofía matemática](https://libgen.is/search.php?req=filosof%C3%ADa+matem%C3%A1tica&open=0&res=25&view=simple&phrase=1&column=def)
 * [Filosofía: Para aprender | Opinión | EL PAÍS](https://elpais.com/elpais/2016/12/16/opinion/1481903212_334629.html?id_externo_rsoc=FB_CM)
 * [filosofía!!!](https://mega.nz/#F!8ugSHSSB!4aQQvWfV38i7trjOabiTgw)
 * [filosofico.PDF](http://www.ousia.it/SitoOusia/SitoOusia/TestiDiFilosofia/TestiPDF/Voltaire/Dizionario.pdf)
 * [Gatsby: The Perfect Fake - John Gray - YouTube](https://www.youtube.com/watch?v=lIm_FbpGKvo)
-    O Valor da Liberdade - 4º episódio (John Gray)de ffmspt        * [Obsesje słynnych filozofów](https://youtu.be/CQm12LeNM_0)
+    O Valor da Liberdade - 4º episódio (John Gray)de ffmspt      * [Obsesje słynnych filozofów](https://youtu.be/CQm12LeNM_0)
 * [Charles Bukowski - Cultura para Principiantes - YouTube](https://www.youtube.com/watch?v=q68q92Zlw-o)
 * [CIENCIA, FILOSOFIA E IDEOLOGIA. Enfoques materialistas - YouTube](https://www.youtube.com/watch?v=_tSzxHWohPc&feature=share)
 * [Derrida et la question de l'animal | Cairn.info](https://www.cairn.info/revue-cites-2007-2-page-31.htm)
 * [Descrédito de la profecía | Edición impresa | EL PAÍS](https://elpais.com/diario/2009/05/02/babelia/1241221156_850215.html)
-    Development as Freedom by Amartya Sen.        * [5 BOOKS ETHICS](https://www.google.com/search?q=five+books+ethics&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
+    Development as Freedom by Amartya Sen.      * [5 BOOKS ETHICS](https://www.google.com/search?q=five+books+ethics&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
 * [Рябов Петр Владимирович | VK](https://vk.com/ryabovpetrvladimirovich)
 * [Рябов, Пётр Владимирович (философ) — Википедия](https://ru.wikipedia.org/wiki/%D0%A0%D1%8F%D0%B1%D0%BE%D0%B2,_%D0%9F%D1%91%D1%82%D1%80_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84))
 * [Alfred_Rozenberg_quot_Mif_dvadtsatogo_veka_quot.pdf](https://vk.com/doc30601958_458195376?hash=e626a54ed43de1235a&dl=b0a670bd57bd3ae610)
@@ -2451,7 +2451,7 @@
 * [🔷 Meditaciones Metafísicas DESCARTES | 😈 El DIABLO de verdad existe | Marcos Represas - YouTube](https://www.youtube.com/watch?v=rHb6K7PA0Nk&t=1s)
 * {    1s       } [Abtreibung - Zwischen Recht, Moral und Verantwortung | Let's Denk #28 - YouTube](https://www.youtube.com/watch?v=KgBh9JCfa7s)
 * [Advertising Ethics - YouTube](https://www.youtube.com/watch?v=uRyNxNAYIuc)
-    Die Phänomenologie - Philosophie - ARTE - YouTube        * [FONCTIONNALISME EVOLUTIONNISTE : Journal des Économistes et des Études Humaines](https://www.degruyter.com/view/j/jeeh.1990.1.issue-1/jeeh-1990-0109/jeeh-1990-0109.xml)
+    Die Phänomenologie - Philosophie - ARTE - YouTube      * [FONCTIONNALISME EVOLUTIONNISTE : Journal des Économistes et des Études Humaines](https://www.degruyter.com/view/j/jeeh.1990.1.issue-1/jeeh-1990-0109/jeeh-1990-0109.xml)
 * [Hipátia de Alexandria, a grande mestra - YouTube](https://www.youtube.com/watch?v=iA7gNwyTeRk)
 * [Hipátia de Alexandria, feminismo e liberdade de expressão - YouTube](https://www.youtube.com/watch?v=sWPQJpfUL0s&feature=youtu.be)
 * [chomsky.info/20101026/](https://chomsky.info/20101026/)
@@ -2462,13 +2462,13 @@
 * [video](https://www.youtube.com/results?search_query=filosofia+y+videojuegos)
 * [video](https://www.youtube.com/results?search_query=Henk+de+Berg)
 * [Introduction Philosophie](https://www.youtube.com/watch?v=BHiCBlPuIXo&list=PLes0Xd1U1KcwnOdnje2oN00yrKxk2WCdh)
-    Ist unsere Realität nur eine Illusion - YouTube        * [PHILOSOPHE - 14 La justice - YouTube](https://www.youtube.com/watch?v=l57riZ06klQ&list=PL42fKMlnBoa8NmVeLZm41lH2bpkAWMice)
+    Ist unsere Realität nur eine Illusion - YouTube      * [PHILOSOPHE - 14 La justice - YouTube](https://www.youtube.com/watch?v=l57riZ06klQ&list=PL42fKMlnBoa8NmVeLZm41lH2bpkAWMice)
 * [Tomás García López - Papel, presente, lugar y porvenir de la filosofía - YouTube](https://www.youtube.com/watch?v=1ctKL_KAACE&feature=share)
-    Философия постмодернизма - YouTube        * [Что такое метамодернизм и зачем нам это знать?](https://vk.com/@newochem-metamodern)
+    Философия постмодернизма - YouTube      * [Что такое метамодернизм и зачем нам это знать?](https://vk.com/@newochem-metamodern)
 * [ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D1%82%D0%BE%D1%80,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9A%D0%B0%D1%80%D0%BB%D0%BE%D0%B2%D0%B8%D1%87](https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D1%82%D0%BE%D1%80,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9A%D0%B0%D1%80%D0%BB%D0%BE%D0%B2%D0%B8%D1%87)
 * [Nieuw Licht #1: Bas Heijne over onbehagen, lust en freud (alle fragmenten) - YouTube](https://www.youtube.com/watch?v=iNcfIX1Q2es)
 * [? Hierarchie und Anarchie – BERG. Blog](http://blog.berg-kommunikation.de/hierarchie-und-anarchie/)
-    ¿Tiene sentido la vida?de CdeCiencia        * [[PHILO] LE STOÏCISME avec Charles Robin - YouTube](https://www.youtube.com/watch?v=Oy9Os7rvLds)
+    ¿Tiene sentido la vida?de CdeCiencia      * [[PHILO] LE STOÏCISME avec Charles Robin - YouTube](https://www.youtube.com/watch?v=Oy9Os7rvLds)
 * [[Vidéo] &quot;Les hommes sont devenus des dieux, mais des dieux irresponsables&quot;, selon l&#39;auteur Yuval Noah Harari](https://www.usinenouvelle.com/editorial/video-les-hommes-sont-devenus-des-dieux-mais-des-dieux-irresponsables-selon-l-auteur-yuval-noah-harari.N596683)
 * [&quot;Dark Enlightenment&quot;: The neo-fascist philosophy that underpins both the alt-right and Silicon Valley technophiles — Quartz](https://qz.com/1007144/the-neo-fascist-philosophy-that-underpins-both-the-alt-right-and-silicon-valley-technophiles/)
 * Reading (5)
@@ -2618,7 +2618,7 @@
 * [My Philosophy of Life](http://philosofer123.wordpress.com/)
 * [Jochen Kirchhoff - YouTube](https://www.youtube.com/user/missiontoplatoscave)
 * [Jochen Kirchhoff (Philosoph) – Wikipedia](https://de.wikipedia.org/wiki/Jochen_Kirchhoff_(Philosoph))
-    JSTOR Series: The Philosophy of Popular Culture    * [Ken Wilber](https://es.wikipedia.org/wiki/Ken_Wilber)
+    JSTOR Series: The Philosophy of Popular Culture  * [Ken Wilber](https://es.wikipedia.org/wiki/Ken_Wilber)
 * [L'actualité de la philosophie | Cairn.info](https://www.cairn.info/revue-tumultes-2001-2-page-153.htm)
 * [L'éditorial du « Monde des livres » : pourquoi Derrida est-il moins lu ?](http://www.lemonde.fr/livres/video/2014/10/17/l-editorial-du-monde-des-livres-pourquoi-derrida-est-il-moins-lu_4508272_3260.html)
 * [L'être et le néant selon Sartre - 1000 idées de culture générale1000 idées de culture générale](https://1000-idees-de-culture-generale.fr/etre-neant-sartre/)
@@ -2647,7 +2647,7 @@
 * [LINGUAGEM, EXPRESSÃO E METAFÍSICA: FILOSOFIA DA LINGUAGEM EM WALTER BENJAMIN | Diante de espelhos: imaginários, cultura e sociedade](https://diantedeespelhos.blogspot.com/2020/02/linguagem-expressao-e-metafisica.html?fbclid=IwAR1F4Mv2R6ttDKa1uoJBilS4dxjvprZPzCDYTeA1iCFcKV79TWwIuAgWn5o)
 * [Literatur zur Philosophie und ihrem Studium – OKAPI](http://okapi.uni-frankfurt.de/index.php/Literatur_zur_Philosophie_und_ihrem_Studium)
 * [Livre audio : La vie des Hommes Infâmes de Michel Foucault, lu par Lou-Hélène - YouTube](https://www.youtube.com/watch?v=kU-21hNo3ng)
-    Mal gemein, mal wundervoll | beziehungsweise    * [MARÍA ZAMBRANO FILÓSOFA ESPAÑOLA - YouTube](https://www.youtube.com/watch?v=enkUdZGnLIA)
+    Mal gemein, mal wundervoll | beziehungsweise  * [MARÍA ZAMBRANO FILÓSOFA ESPAÑOLA - YouTube](https://www.youtube.com/watch?v=enkUdZGnLIA)
 * [María Zambrano: el diálogo poético con la filosofía - YouTube](https://www.youtube.com/watch?v=flwQaqVuQVI)
 * [Marina Garcés, filósofa y ensayista española, abre el Hay Festival Cartagena - YouTube](https://www.youtube.com/watch?v=hxeNxg3nPdM)
 * [Marlène Zarader // Heidegger et la Mort - YouTube](https://www.youtube.com/watch?v=Su_kpX__kPg&fbclid=IwAR2YjeF2KBlZSyLX10IVT0Z6n6sC-Wh-iay95-0ejFV3kh9Am1M3LH9jTss)
@@ -2686,7 +2686,7 @@
 * [Pourquoi se disputer sur le sens des mots ? | Grain de philo #25 - YouTube](https://www.youtube.com/watch?v=ayyrtMdPyi4)
 * [Pragmatismus - Vicipaedia](https://la.wikipedia.org/wiki/Pragmatismus)
 * [Pragmatismus.pdf](https://user.phil.hhu.de/~petersen/WiSe1415_InfowiColl/Pragmatismus.pdf)
-    Propaganda Terms in the Media and What They Mean - Noam Chomskyde The Film Archives    * [Protectionnisme vs libre-échangisme : le nouveau clivage politique ? | Listen Notes](https://www.listennotes.com/podcasts/linvit%C3%A9-des-matins/protectionnisme-vs-libre-VcFuL5t38WJ/)
+    Propaganda Terms in the Media and What They Mean - Noam Chomskyde The Film Archives  * [Protectionnisme vs libre-échangisme : le nouveau clivage politique ? | Listen Notes](https://www.listennotes.com/podcasts/linvit%C3%A9-des-matins/protectionnisme-vs-libre-VcFuL5t38WJ/)
 * [Qu'est-ce que la civilisation ? – Charles Maurras](http://maurras.net/textes/108.html)
 * [Qu’est-ce qu’une civilisation ? Tentative d’analyse historique d’une notion contemporaine (1/3) | Le Club de Mediapart](https://blogs.mediapart.fr/simon-vacheron/blog/200212/qu-est-ce-qu-une-civilisation-tentative-d-analyse-historique-d-une-notion-contemporaine-13)
 * [Que sait-on vraiment de la réalité !? - YouTube](https://www.youtube.com/results?search_query=Que+sait-on+vraiment+de+la+r%C3%A9alit%C3%A9+%21%3F+)
@@ -2694,7 +2694,7 @@
 * [Redistribution (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/redistribution/)
 * [Reducing Animal Suffering](http://www.aboutanimaltesting.co.uk/reducing-animal-suffering.html)
 * [Religion: Truth & Belief | Philosophy Tube](https://youtu.be/fJZ8ib93vSk)
-    Rolf Dobelli | Denkfehler und die Grenzen des Wissens (NZZ Standpunkte 2016)de NZZ Standpunkte    * [She Wants to Keep the Baby! (Abortion, Feminism, & Fathers' Rights) | Philosophy Tube - YouTube](https://www.youtube.com/watch?v=YZzI5D84cd4)
+    Rolf Dobelli | Denkfehler und die Grenzen des Wissens (NZZ Standpunkte 2016)de NZZ Standpunkte  * [She Wants to Keep the Baby! (Abortion, Feminism, & Fathers' Rights) | Philosophy Tube - YouTube](https://www.youtube.com/watch?v=YZzI5D84cd4)
 * [Six Ideas From Eastern Philosophy - YouTube](https://www.youtube.com/watch?v=5yZ8a_zAEl0&list=PLwxNMb28XmpeUL1vz9Su7OmeghBDgmj7X)
 * [Storia della Filosofia - YouTube](https://www.youtube.com/playlist?list=PLDMI901pu0aGV5p7yr2-OMEJt4NJhaHIW)
 * [Sturm und Drang I musstewissen Deutsch - YouTube](https://www.youtube.com/watch?v=BZPpVMx6OD4&list=PLWAsBNcn45uip2FxSBp2qzWwzRZTOu5Qb)
@@ -2707,7 +2707,7 @@
 * [The Biology of Good and Evil (with Robert Sapolsky)](https://www.youtube.com/watch?v=kNLOJ-3rL60)
 * [The Computational Theory of Mind (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/computational-mind/)
 * [The Description, Philosophies and Justification of Satanism](http://www.dpjs.co.uk/satanism.html)
-    THE FACTORY WORKER'S PHILOSOPHY - DICKSON - 1936 - The Sociological Review - Wiley Online Library    * [The future ethics of advertising and mind invasion - YouTube](https://www.youtube.com/watch?v=0GI1FJiSWhw)
+    THE FACTORY WORKER'S PHILOSOPHY - DICKSON - 1936 - The Sociological Review - Wiley Online Library  * [The future ethics of advertising and mind invasion - YouTube](https://www.youtube.com/watch?v=0GI1FJiSWhw)
 * [The History Of Western Philosophy - YouTube](https://www.youtube.com/playlist?p=PL6BE82595ACD1864A)
 * [The Intellectual Fraudulence of Jordan Peterson (apropos of Daniel Karasik) | Alexander Offord](http://alexanderofford.com/the-intellectual-fraudulence-of-jordan-peterson-apropos-of-daniel-karasik/)
 * [The Map Of Philosophy](https://www.youtube.com/watch?v=YxBShJU_CKs)
@@ -2956,33 +2956,33 @@
     Why Honor Matters | Robert Wright and Tamler Sommers [The Wright Show]
     Lass dich verführen! | Streetphilosophy | ARTE
     Л.Н. Толстой. Кратко
-    Philosoph Richard David Precht - Jung & Live #16        * [Was Stärke über Macht verrät – philosophisch betrachtet | Gert Scobel](https://www.youtube.com/watch?v=feOD-7BH6ww&list=WL&index=1309)
+    Philosoph Richard David Precht - Jung & Live #16      * [Was Stärke über Macht verrät – philosophisch betrachtet | Gert Scobel](https://www.youtube.com/watch?v=feOD-7BH6ww&list=WL&index=1309)
 * [Modernism vs Postmodernism | Unemployed Philosopher](https://www.youtube.com/watch?v=TM-OaHSvyYk&list=WL&index=1321)
 * [Nada es lo que parece (extracto filosófico de Jean Baudrillard)](https://www.youtube.com/watch?v=nZ1aQS0dTlw&list=WL&index=1331)
 * [Introduction to Diogenes the Cynic](https://www.youtube.com/watch?v=o2ctYfy7-Ec&list=WL&index=1367)
 * [Entretien avec Michel Onfray](https://www.youtube.com/watch?v=eWW_2V5DdHk&list=WL&index=239)
     Comment devenir soi-même ? LGQ
     Pourquoi ne rit-on pas de tout ? - Le Coup de Phil' #29
-    Êtes-vous vraiment heureux ?        * [Как читать книги по философии.](https://www.youtube.com/watch?v=CMd8ivJsLyo&list=WL&index=516)
+    Êtes-vous vraiment heureux ?      * [Как читать книги по философии.](https://www.youtube.com/watch?v=CMd8ivJsLyo&list=WL&index=516)
 * [Festivaletteratura 2016 - Intervista a Massimo Pigliucci](https://www.youtube.com/watch?v=L1Wu2tmyjmU&list=WL&index=550)
 * [Explication : La Boétie et la liberté](https://www.youtube.com/watch?v=NxqnBWg6Mac&list=WL&index=1462)
 * [Wissenschaftstheorie 6.6: Bas van Fraassen: Konstruktiver Empirismus. Prof. Dr. Torsten Wilholt](https://www.youtube.com/watch?v=sM_C2ToVexU&list=WL&index=554)
 * [Otto e mezzo - Vita di uno stoico (Puntata 03/06/2017)](https://www.youtube.com/watch?v=yiJcoaL7_vw&list=WL&index=548)
 * [Realismo y anti realismo](https://www.youtube.com/watch?v=4Vs3OqQv0LM&list=WL&index=555)
-    🔴 Serata su Bertrand Russell        * [The Unexpected Hanging Paradox](https://www.youtube.com/watch?v=EPOXhFJsqlM&list=WL&index=1401)
+    🔴 Serata su Bertrand Russell      * [The Unexpected Hanging Paradox](https://www.youtube.com/watch?v=EPOXhFJsqlM&list=WL&index=1401)
 * [El Efecto Pigmalión](https://www.youtube.com/watch?v=4aN5TbGW5JA&list=WL&index=1409)
 * [L' Interview : Michel Onfray - Stupéfiant !](https://www.youtube.com/watch?v=He9GrKo2g7M&list=WL&index=463)
     Why good people do bad things | Einar Øverenget | TEDxOslo
-    TEDx Hogeschool Utrecht - Tamler Sommers - Los límites de los argumentos morales        * [Martha Nussbaum on Upheavals of Thought - The John Adams Institute](https://www.youtube.com/watch?v=sH_onsTfYsQ&list=WL&index=361)
+    TEDx Hogeschool Utrecht - Tamler Sommers - Los límites de los argumentos morales      * [Martha Nussbaum on Upheavals of Thought - The John Adams Institute](https://www.youtube.com/watch?v=sH_onsTfYsQ&list=WL&index=361)
 * [Rick Roderick on Heidegger - The Rejection of Humanism [full length]](https://www.youtube.com/watch?v=sDqDJJcJAOg&list=WL&index=492)
     Partially Examined Life #93: Freedom and Responsibility (Strawson vs. Strawson)
     Interview de Philippe Descola à propos de son livre "Par delà nature et culture"
-    Швейцарские философы. Выступление Нассима Талеба        * [What is enough? MIZI Nadjib - WikiStage Jijel](https://www.youtube.com/watch?v=93VatsYl1t0&list=WL&index=295)
+    Швейцарские философы. Выступление Нассима Талеба      * [What is enough? MIZI Nadjib - WikiStage Jijel](https://www.youtube.com/watch?v=93VatsYl1t0&list=WL&index=295)
 * [Mark Zuckerberg y Yuval Noah Harari en conversación.](https://www.youtube.com/watch?v=Boj9eD0Wug8&list=WL&index=614)
 * Reading (7)
 * [Виды общения (аудио)](https://vk.com/wall-6827569_28066)
 * [Закон Йеркса-Додсона](https://vk.com/@philosophia_club-zakon-ierksa-dodsona)
-    "Обитатели земной планеты находятся ещё в таком состоянии нелепости, неразумия, тупости, что каждый день читаешь в газетах рассуждения правителей народов о том, с кем и как надо соединиться для того, чтобы воевать с другими народами, сами же народы при этом позволяют своим руководителям располагать ими, как скотом, ведомым на бойню, как будто жизнь каждого человека не есть его личная собственность. || Обитатели нашей планеты все еще воспитаны в убеждении, что есть народы, границы, знамёна, и что всё это гораздо важнее сознания человечности. Правда, что если бы мыслящие люди сумели согласиться, — это положение изменилось бы, так как лично никто не желает войны. Но дело в том, что в каждом государстве существуют ещё миллионы дармоедов, которым нужна война и которые без войны не могли бы продолжать быть дармоедами. Вот эти-то дармоеды и мешают мыслящим людям согласиться перестать участвовать во взаимном убийстве". || Лев Толстой        * [# 26. Какие книги учат мыслить и как их читать: пятнадцать работ, дающих точку входа в философию](https://vk.com/@apostils-26)
+    "Обитатели земной планеты находятся ещё в таком состоянии нелепости, неразумия, тупости, что каждый день читаешь в газетах рассуждения правителей народов о том, с кем и как надо соединиться для того, чтобы воевать с другими народами, сами же народы при этом позволяют своим руководителям располагать ими, как скотом, ведомым на бойню, как будто жизнь каждого человека не есть его личная собственность. || Обитатели нашей планеты все еще воспитаны в убеждении, что есть народы, границы, знамёна, и что всё это гораздо важнее сознания человечности. Правда, что если бы мыслящие люди сумели согласиться, — это положение изменилось бы, так как лично никто не желает войны. Но дело в том, что в каждом государстве существуют ещё миллионы дармоедов, которым нужна война и которые без войны не могли бы продолжать быть дармоедами. Вот эти-то дармоеды и мешают мыслящим людям согласиться перестать участвовать во взаимном убийстве". || Лев Толстой      * [# 26. Какие книги учат мыслить и как их читать: пятнадцать работ, дающих точку входа в философию](https://vk.com/@apostils-26)
 * [Five essays on the timely theme of truth and current challenges to it.](https://vk.com/wall-84750475_612)
 * [b-ok.cc/s/Susan%20Blackmore](https://b-ok.cc/s/Susan%20Blackmore)
 * [philosophynow.org/issues/102/The_Shawshank_Redemption](https://philosophynow.org/issues/102/The_Shawshank_Redemption)
@@ -2992,7 +2992,7 @@
 * [What are the human needs? - Buscar con Google](https://www.google.com/search?q=What+are+the+human+needs%3F&rlz=1C5CHFA_enUS753US753&oq=What+are+the+human+needs%3F&aqs=chrome..69i57j0l5.10484j1j4&sourceid=chrome&ie=UTF-8)
 * [swisseduc.ch/altphilo/griech/gintlekt/anfang.html#Item_2](http://www.swisseduc.ch/altphilo/griech/gintlekt/anfang.html#Item_2)
 * [Project MUSE - Spinoza’s Language](https://muse.jhu.edu/article/550263)
-    Book & thought        * [Quelques grammes de philo | &quot;Pourquoi liker ? &quot; et autres questions philosophiques de la vie quotidienne](http://blog.letudiant.fr/gilles-vervisch/)
+    Book & thought      * [Quelques grammes de philo | &quot;Pourquoi liker ? &quot; et autres questions philosophiques de la vie quotidienne](http://blog.letudiant.fr/gilles-vervisch/)
 * [Ethical Systems | Philosophical Explorations](http://braungardt.trialectics.com/philosophy/topics/ethical-systems/)
 * [Top 100 Public Intellectuals Poll : definition of Top 100 Public Intellectuals Poll and synonyms of Top 100 Public Intellectuals Poll (English)
 * [Постфилософия. Три парадигмы в истории мысли | Александр Дугин](http://dugin.ru/book/postfilosofiya-tri-paradigmy-v-istorii-mysli)
@@ -3006,7 +3006,7 @@
 * [alnam.ru/](http://alnam.ru/)
 * [informationphilosopher.com/freedom/history/](http://www.informationphilosopher.com/freedom/history/)
 * [Groundbreaking new material 'could allow artificial intelligence to merge with the human brain' | The Independent](https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-brain-computer-cyborg-elon-musk-neuralink-a9673261.html)
-    Book idea: How to Be Unethical        * [Philosophy T-Shirts | Redbubble](https://www.redbubble.com/shop/philosophy+t-shirts%20        [redbubble.com/shop/philosophy+t-shirts?gclid=Cj0KCQjw9pDpBRCkARIsAOzRzivi_33Ytq8_HvTAXZAX-N3xfCFvAIrYZb5aZUcsHbLMcs_eYMEbXLEaAqNaEALw_wcB)](https://www.redbubble.com/shop/philosophy+t-shirts?gclid=Cj0KCQjw9pDpBRCkARIsAOzRzivi_33Ytq8_HvTAXZAX-N3xfCFvAIrYZb5aZUcsHbLMcs_eYMEbXLEaAqNaEALw_wcB))
+    Book idea: How to Be Unethical      * [Philosophy T-Shirts | Redbubble](https://www.redbubble.com/shop/philosophy+t-shirts%20        [redbubble.com/shop/philosophy+t-shirts?gclid=Cj0KCQjw9pDpBRCkARIsAOzRzivi_33Ytq8_HvTAXZAX-N3xfCFvAIrYZb5aZUcsHbLMcs_eYMEbXLEaAqNaEALw_wcB)](https://www.redbubble.com/shop/philosophy+t-shirts?gclid=Cj0KCQjw9pDpBRCkARIsAOzRzivi_33Ytq8_HvTAXZAX-N3xfCFvAIrYZb5aZUcsHbLMcs_eYMEbXLEaAqNaEALw_wcB))
     epistemologische interdependenz
 * {$1} [jairoflorezsuarez.wixsite.com/filosofiapdf](https://jairoflorezsuarez.wixsite.com/filosofiapdf)
 * [Купить книгу Философия языка. Очерки истории](http://wordorder.ru/catalog-ru/filologiya/lingvistika/filosofiya-yazyka.-ocherki-istorii/)
@@ -3093,7 +3093,7 @@
 * {    Quelque Grammes de Philo       } [theoatmeal.com/comics/believe](http://theoatmeal.com/comics/believe)
 * [eleternoestudiante.com/libros-historia-grecia-roma-pdf/](http://eleternoestudiante.com/libros-historia-grecia-roma-pdf/)
 * [libertadypensamiento.com/2017/09/libros-de-filosofia-en-pdf-para-descargar-gratis.html?m=1](http://www.libertadypensamiento.com/2017/09/libros-de-filosofia-en-pdf-para-descargar-gratis.html?m=1)
-    (Tr)oppressé        * [video](https://www.youtube.com/playlist?list=PLSoP62RB3ymnt6ct60SF-2ZsSpC_Mbrjv)
+    (Tr)oppressé      * [video](https://www.youtube.com/playlist?list=PLSoP62RB3ymnt6ct60SF-2ZsSpC_Mbrjv)
 * [Coursera - Introduction to Philosophy](https://www.coursera.org/learn/philosophy/home/welcome)
 * [Coursera - Le Bien, le Juste, l'Utile](https://www.coursera.org/learn/ethique/home/welcome)
 * [Coursera - Основы философии: о чем спорят философы сегодня](https://www.coursera.org/learn/osnovy-filosofii/home/welcome)
@@ -3118,7 +3118,7 @@
 * [Massimo Pigliucci Italian](https://www.youtube.com/results?search_query=Massimo+Pigliucci+italiano)
 * [Max Tegmark interview svenska](https://www.youtube.com/results?search_query=max+tegmark+interview+svenska)
 * [Предмет и спецификация философии](https://www.youtube.com/watch?v=ZZJnNUqU5tw)
-* [**Library Genesis: Kai Peter Denker - Topologie der Kontrolle? Mathematisierbarkeit mit Deleuze](https://libgen.is/book/index.php?md5=7B64FD6926413FF5785A32E122D8834C$1
+* [**Library Genesis: Kai Peter Denker - Topologie der Kontrolle? Mathematisierbarkeit mit Deleuze](https://libgen.is/book/index.php?md5=7B64FD6926413FF5785A32E122D8834C)
 * [**Иммануил Кант — Сочинения на немецком и русском языках](https://vk.com/wall-30268849_1556)
     analysis of craig vs carroll - Cerca con Google
 * [CONFUCIUS – La Grande Étude (FR) - YouTube](https://www.youtube.com/watch?v=tR_oQN2YkA8&list=PLXRGGLyzzHHA_QIdiJiP932qCB7eh2Xgk)
@@ -3144,7 +3144,7 @@
 * [O que é Filosofia? - Toda Matéria](https://www.todamateria.com.br/o-que-e-filosofia/)
 * [O QUE É O TEMPO? - YouTube](https://www.youtube.com/watch?v=akvhD9BVL0c&feature=youtu.be)
     Ökonomie contra Philosophie mit Richard David Prechtde Kosake van Ze
-    On the Relationship Between Science and Humanities, John Grayde Copernicus Center for Interdisciplinary Studies        * [Ordinary people seem not to realize that those who really apply themselves in the right way to philosophy are directly and of their own accord preparing themselves for dying and death. - Socrates - BrainyQuote](https://www.brainyquote.com/quotes/socrates_402550)
+    On the Relationship Between Science and Humanities, John Grayde Copernicus Center for Interdisciplinary Studies      * [Ordinary people seem not to realize that those who really apply themselves in the right way to philosophy are directly and of their own accord preparing themselves for dying and death. - Socrates - BrainyQuote](https://www.brainyquote.com/quotes/socrates_402550)
 * [Overcoming the Apathy Induced by the Current Irrelevance of Philosophy on JSTOR](https://www.jstor.org/stable/25670247?seq=1#page_scan_tab_contents)
 * [Panfleto materialista. La Filosofía](https://books.google.com/books?id=TB9VAwAAQBAJ&printsec=frontcover&hl=es&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
 * [Parmênides – História da Filosofia Ocidental – Reflexão Analítica](https://reflexaoanalitica.wordpress.com/2018/03/09/parmenides-historia-da-filosofia-ocidental/)
@@ -3152,10 +3152,10 @@
 * [Pedro Insua - Dialéctica y revolución](https://www.youtube.com/watch?v=vfJzmhaldMM&feature=share)
 * [Philosophie - Woher kommt das Neue?](https://vk.com/doc448658071_460362015?hash=2ca15166e5ece74827&dl=127f79365087ab3614)
 * [Pourquoi pas tous des bisounours ? - morale #3 - YouTube](https://www.youtube.com/watch?v=XY1PUQ4NOuU)
-    S. R. C. Hicks - Explaining Postmodernism: Skepticism and Socialism from Rousseau to Foucault        * [The Philosophy of Spinoza & Leibniz - YouTube](https://www.youtube.com/watch?v=SxGuoyxyKMA)
+    S. R. C. Hicks - Explaining Postmodernism: Skepticism and Socialism from Rousseau to Foucault      * [The Philosophy of Spinoza & Leibniz - YouTube](https://www.youtube.com/watch?v=SxGuoyxyKMA)
 * [The Physics : Aristotle : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/aristotle_physics/page/n5)
 * [The Principle of Non-Contradiction | Philosophy Resurrection](https://philosophyresurrection.wordpress.com/2017/11/26/the-principle-of-non-contradiction/)
-    The Privilege Of Existential Guilt – The Establishment        * [The Quietus | Features | Tome On The Range | Myth Congeniality: John Gray Interviewed](http://thequietus.com/articles/12496-john-gray-silence-of-animals-interview)
+    The Privilege Of Existential Guilt – The Establishment      * [The Quietus | Features | Tome On The Range | Myth Congeniality: John Gray Interviewed](http://thequietus.com/articles/12496-john-gray-silence-of-animals-interview)
 * [The relentless honesty of Ludwig Wittgenstein | Ian Ground](https://www.the-tls.co.uk/articles/public/ludwig-wittgenstein-honesty-ground/?CMP=Sprkr-_-Editorial-_-TimesLiterarySupplement-_-ArtsandCulture-_-JustTextandlink-_-Statement-_-Unspecified-_-FBPAGE)
 * [The Roots of Romanticism - Lasting Effects (Isaiah Berlin) - YouTube](https://www.youtube.com/watch?v=0snaamkYDcg)
 * [the-stem-people-is-emotional-pain-worse-than-physical-pain.pdf](https://oxfest.files.wordpress.com/2016/04/the-stem-people-is-emotional-pain-worse-than-physical-pain.pdf)
@@ -3192,20 +3192,20 @@
 * [Женщины-мыслители, мнения и взгляды](http://www.tebyan.net/index.aspx?pid=66427)
 * [THE DETERMINISM AND FREEDOM PHILOSOPHY WEBSITE](http://www.ucl.ac.uk/~uctytho/dfwIntroIndex.htm)
 * [Epoch-making Eratosthenes](http://shot.holycross.edu/courses/Time/S10/pdfs/Moller.pdf)
-    Geschichte der Philosophie (4): Aristoteles (Fortsetzung), Prof. Dr. Torsten Wilholt - YouTube        * [Los orígenes del pensamiento filosófico. Los filósofos presocráticos - YouTube](https://www.youtube.com/watch?v=EgQJhP8GB1c)
+    Geschichte der Philosophie (4): Aristoteles (Fortsetzung), Prof. Dr. Torsten Wilholt - YouTube      * [Los orígenes del pensamiento filosófico. Los filósofos presocráticos - YouTube](https://www.youtube.com/watch?v=EgQJhP8GB1c)
 * [Les exercices spirituels antiques et l’héritage de Pierre Hadot 1/8 - YouTube](https://www.youtube.com/watch?v=h8UYutTaY0A&list=PLmoGGuHQ4XYsDPKTlRNz7VF3BgfAkLNyT)
 * [Pierre Bayle - Wikipedia](https://en.wikipedia.org/wiki/Pierre_Bayle)
     Made to Stick (Chip Heath)
 * [George Carlin - Euphemisms - YouTube](https://www.youtube.com/watch?v=vuEQixrBKCc)
 * [George Carlin on gays - YouTube](https://www.youtube.com/watch?v=VjVeWvdogMw)
 * [George Carlin on some cultural issues. - YouTube](https://www.youtube.com/watch?v=YLuZjpxmsZQ)
-    George Carlin: The Illusion Of Choice - YouTube        * [wired.com/2011/04/ff_humorcode/](http://www.wired.com/2011/04/ff_humorcode/)
+    George Carlin: The Illusion Of Choice - YouTube      * [wired.com/2011/04/ff_humorcode/](http://www.wired.com/2011/04/ff_humorcode/)
 * [Acta Philosophica: Rivista Internazionale di Filosofia - PhilPapers](https://philpapers.org/pub/5795)
 * [Epoché (ἐποχή)](https://epochemagazine.org/)
 * [tomasabraham.com.ar/](http://www.tomasabraham.com.ar/)
-    tensiones filofóficas, tomas abrahám        * [b-ok.cc/s/anthony%20weston](https://b-ok.cc/s/anthony%20weston)
+    tensiones filofóficas, tomas abrahám      * [b-ok.cc/s/anthony%20weston](https://b-ok.cc/s/anthony%20weston)
 * [Анатолий Карлин](https://akarlin.ru/start/)
-    Філософія музики - YouTube        * [Douleurs physiques, douleurs morales](http://www.martinwinckler.com/spip.php?article1022)
+    Філософія музики - YouTube      * [Douleurs physiques, douleurs morales](http://www.martinwinckler.com/spip.php?article1022)
 * [Pain and Philosophy of the Mind](https://s3.amazonaws.com/rdcms-iasp/files/production/public/Content/ContentFolders/Publications2/PainClinicalUpdates/Archives/PCU07-5_1390262983927_12.pdf)
 * [Quel dolore che nessuno ascolta](http://www.cosmopolitan.it/benessere-salute/prevenzione/suggerimenti/a111195/dolore-femminile-nessuno-ascolta/)
 * [Simona Di Nitto, Il dolore fisico nella riflessione filosofica (Dialegesthai)](https://mondodomani.org/dialegesthai/sdn01.htm)
@@ -3225,7 +3225,7 @@
 * [Habiter l'espace - Habiter le temps - S'habiter soi-même - YouTube](https://www.youtube.com/watch?v=-C7FTSPTMAk)
 * [L'eredità della scuola di Francoforte - YouTube](https://www.youtube.com/watch?v=JDo9ighqfhw)
 * [Le libéralisme politique de John Rawls - Politikon #1 - YouTube](https://www.youtube.com/watch?v=xqfB844lV4k)
-    *  [r/Feminism/comments/166i8a/a_short_introduction_to_feminist_movements/](https://www.reddit.com/r/Feminism/comments/166i8a/a_short_introduction_to_feminist_movements/)
+  *  [r/Feminism/comments/166i8a/a_short_introduction_to_feminist_movements/](https://www.reddit.com/r/Feminism/comments/166i8a/a_short_introduction_to_feminist_movements/)
 * [Современный анархизм, соотношение теории и практики (критический взгляд) - AKRATEIA](https://akrateia.info/sovremennyi-anarkhizm-sootnoshenie-teorii-i-praktiki-kriticheskii-vzgliad/)
 * [Les idées mènent le monde #18 - La pensée politique de Jean-François Lisée - YouTube](https://www.youtube.com/watch?v=SZIjLouFxvA)
 * [opuscules.fr/wp-content/uploads/2015/06/OP20_MytheProgr%C3%A8s_JB.pdf](http://www.opuscules.fr/wp-content/uploads/2015/06/OP20_MytheProgr%C3%A8s_JB.pdf)
@@ -3239,7 +3239,7 @@
     Что значит "Оруэлловский"? [TED-ED]de In Cor Cadit
 * Reading (9)
 * [teachings of the Buddha - books](https://libgen.is/search.php?req=teachings+of+the+buddha&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
-    do animals have free will?        * [Wie einzigartig ist der Mensch?: Die lange Evolution der Gehirne und des Geistes](https://b-ok.cc/book/4241737/b18b67)
+    do animals have free will?      * [Wie einzigartig ist der Mensch?: Die lange Evolution der Gehirne und des Geistes](https://b-ok.cc/book/4241737/b18b67)
 * [psychologytoday.com/us/blog/theory-knowledge/201306/virtue-and-the-four-types-character](https://www.psychologytoday.com/us/blog/theory-knowledge/201306/virtue-and-the-four-types-character)
 * [Gerechtigkeit](https://www.spektrum.de/lexikon/philosophie/gerechtigkeit/793)
 * {    Nationalsozialistische Ideologie und Ethik       } [Ling & filo](https://vk.com/wall-6827569_23952)
@@ -3257,7 +3257,7 @@
 * [Gaidar - Русский либерализм](http://gaidar.center/)
 * [Буддизм](https://vk.com/wall-6827569_21538)
 * [TAOÍSMO | El arte de la no acción](https://www.youtube.com/watch?v=tLAZvESoVgI&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=112)
-    TAOÍSMO | La Filosofía de Flujo        * [Antisemitismo: un análisis](https://www.youtube.com/watch?v=KAFbpWVO-ow&list=WL&index=1371&t=167s)
+    TAOÍSMO | La Filosofía de Flujo      * [Antisemitismo: un análisis](https://www.youtube.com/watch?v=KAFbpWVO-ow&list=WL&index=1371&t=167s)
 * [Anand Giridharadas: How bias actually works at MSNBC, New York Times](https://www.youtube.com/watch?v=11WDbwZfiw8&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=113)
 * Daoismus
 * [The Philosophy of The Good Place – Wisecrack Edition](https://www.youtube.com/watch?v=stHk4_VePds&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=13)
@@ -3358,14 +3358,14 @@
 * [wisdoms.ru/avt/b222.html](http://www.wisdoms.ru/avt/b222.html)
 * [it.wikipedia.org/wiki/Alain_Finkielkraut](https://it.wikipedia.org/wiki/Alain_Finkielkraut)
 * [Платон. КРАТИЛ](http://psylib.org.ua/books/plato01/18krati.htm)
-    Why is it that so many philosophy students tend to be marxists while most economics students seem to not take him seriously? : askphilosophy        * [Are Soas students right to ‘decolonise’ their minds from western philosophers? | Education | The Guardian](https://www.theguardian.com/education/2017/feb/19/soas-philosopy-decolonise-our-minds-enlightenment-white-european-kenan-malik)
+    Why is it that so many philosophy students tend to be marxists while most economics students seem to not take him seriously? : askphilosophy      * [Are Soas students right to ‘decolonise’ their minds from western philosophers? | Education | The Guardian](https://www.theguardian.com/education/2017/feb/19/soas-philosopy-decolonise-our-minds-enlightenment-white-european-kenan-malik)
 * [Эго туннель — наука о сознании и миф о самом себе](https://www.livelib.ru/work/1001236966/reviews-ego-tunnel-nauka-o-soznanii-i-mif-o-samom-sebe-tomas-mettsinger)
 * [Philosophie/Conscience — Wikilivres](https://fr.wikibooks.org/wiki/Philosophie/Conscience)
 * [philipphuebl.com/](http://philipphuebl.com/)
 * [karenswallowprior.com/](https://karenswallowprior.com/)
 * [Peut-on être communiste et objectif, par Usul - YouTube](https://www.youtube.com/watch?v=h_u8J1bAZ5Q)
-* [PhiloLog](https://www.philolog.fr/$1
-* [PhiloLog](https://www.philolog.fr/$1
+* [PhiloLog](https://www.philolog.fr/)
+* [PhiloLog](https://www.philolog.fr/)
 * [**Philosophie.ch - Logique formelle](https://www.philosophie.ch/fr/philosophie-fr/domaines/philosophie-theorique/logique)
 * [Chemins de Philosophie - Blog de Daniel Guillon-Legeay - Mine de rien, ce blog se propose de développer une approche philosophique sur diverses questions, en prenant appui sur la philosophie bien entendu, mais aussi sur le cinéma, la littérature, les c](http://chemins-de-philosophie.over-blog.com/)
 * [Chemins de Philosophie - Blog de Daniel Guillon-Legeay - Mine de rien, ce blog se propose de développer une approche philosophique sur diverses questions, en prenant appui sur la philosophie bien entendu, mais aussi sur le cinéma, la littérature, les c](http://chemins-de-philosophie.over-blog.com/)
@@ -3383,7 +3383,7 @@
 * [opednews.com/articles/Jonathan-Haidt-on-the-Righ-by-Thomas-Farrell-120321-348.html](https://www.opednews.com/articles/Jonathan-Haidt-on-the-Righ-by-Thomas-Farrell-120321-348.html)
 * [thenewatlantis.com/publications/the-evolutionary-ethics-of-e-o-wilson](https://www.thenewatlantis.com/publications/the-evolutionary-ethics-of-e-o-wilson)
 * [video](https://www.youtube.com/watch?v=nYDdsgDmS-w)
-    Sind Kriege gerecht? - Schülervideo - YouTube        * [Tischner Debate - On Liberalism - YouTube](https://www.youtube.com/watch?v=K0D1RMwo9go)
+    Sind Kriege gerecht? - Schülervideo - YouTube      * [Tischner Debate - On Liberalism - YouTube](https://www.youtube.com/watch?v=K0D1RMwo9go)
 * [What do conservatives get wrong about abortion?](https://www.google.com/search?q=what+do+conservatives+get+wrong+about+abortion&rlz=1CDGOYI_enUS835US835&oq=what+do+conservatives+get+wrong+about+abortion&aqs=chrome..69i57.9430j0j4&hl=it&sourceid=chrome-mobile&ie=UTF-8#ip=1)
 * [What Money Can't Buy](https://www.aeaweb.org/articles?id=10.1257/jep.27.4.121)
 * [What Was Liberalism? #1 Ideology & Violence | Philosophy Tube - YouTube](https://www.youtube.com/watch?v=VlLgvSduugI)
@@ -3439,7 +3439,7 @@
 * [Western Civilization: Ideas, Politics, and Society, Volume II: From 1600 | Marvin Perry, Margaret Jacob, James Jacob, Myrna Chase, Theodore H. Von Laue | download](https://b-ok.cc/book/1163404/3a8410)
 * [Western Civilization: Ideas, Politics, and Society: Since 1400 | Marvin Perry, Margaret Jacob, James Jacob, Myrna Chase, Theodore H. Von Laue | download](https://b-ok.cc/book/2086054/759631)
 * [sociologyofbeauty.nl/](https://www.sociologyofbeauty.nl/)
-* IAI        * [Work and play](https://iai.us4.list-manage.com/track/click?u=5498751378b600bac07540f91&id=f7704c1336&e=c2b5e608e5)
+* IAI      * [Work and play](https://iai.us4.list-manage.com/track/click?u=5498751378b600bac07540f91&id=f7704c1336&e=c2b5e608e5)
 * [Do we still need morality?](https://iai.us4.list-manage.com/track/click?u=5498751378b600bac07540f91&id=e9e6d6cb17&e=c2b5e608e5)
 * [Fully automated luxury communism](https://iai.us4.list-manage.com/track/click?u=5498751378b600bac07540f91&id=0c9c427ebc&e=c2b5e608e5)
 * [A new model for mental health treatment](https://iai.us4.list-manage.com/track/click?u=5498751378b600bac07540f91&id=351fa88849&e=c2b5e608e5)
@@ -3509,7 +3509,7 @@
 * [iai.tv/articles/why-sexual-morality-does-not-exist-auid-1212](https://iai.tv/articles/why-sexual-morality-does-not-exist-auid-1212)
 * [iai.tv/articles/should-i-kill-myself-or-have-a-cup-of-coffee-the-stoics-and-existentialists-agree-on-the-answer-auid-924](https://iai.tv/articles/should-i-kill-myself-or-have-a-cup-of-coffee-the-stoics-and-existentialists-agree-on-the-answer-auid-924)
 * [iai.tv/articles/hobbes-vs-rousseau-are-we-inherently-evil-or-good-auid-1221](https://iai.tv/articles/hobbes-vs-rousseau-are-we-inherently-evil-or-good-auid-1221)
-* Abortion        * [currentaffairs.org/2018/08/abortion-and-the-left](https://www.currentaffairs.org/2018/08/abortion-and-the-left)
+* Abortion      * [currentaffairs.org/2018/08/abortion-and-the-left](https://www.currentaffairs.org/2018/08/abortion-and-the-left)
 * [firstthings.com/web-exclusives/2019/11/why-john-bel-edwards-wins](https://www.firstthings.com/web-exclusives/2019/11/why-john-bel-edwards-wins)
 * [firstthings.com/](https://www.firstthings.com/)
 * [latimes.com/opinion/op-ed/la-oe-day-and-camosy-democratic-platform-abortion-20160725-snap-story.html](https://www.latimes.com/opinion/op-ed/la-oe-day-and-camosy-democratic-platform-abortion-20160725-snap-story.html)
@@ -3540,7 +3540,7 @@
 * [pewforum.org/2008/09/30/abortion-laws-around-the-world/](https://www.pewforum.org/2008/09/30/abortion-laws-around-the-world/)
 * [Полемика вокруг проблемы аборта](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B5%D0%BC%D0%B8%D0%BA%D0%B0_%D0%B2%D0%BE%D0%BA%D1%80%D1%83%D0%B3_%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B_%D0%B0%D0%B1%D0%BE%D1%80%D1%82%D0%B0)
 * [utm.edu/staff/jfieser/class/300/5-abortion.htm](https://www.utm.edu/staff/jfieser/class/300/5-abortion.htm)
-* Video        * [Durf te Denken](https://www.youtube.com/playlist?list=PLEp-wqLXEURMt1Jati2pxe9BjNMNDzA0b)
+* Video      * [Durf te Denken](https://www.youtube.com/playlist?list=PLEp-wqLXEURMt1Jati2pxe9BjNMNDzA0b)
 * [Monsieur Phi](https://www.youtube.com/c/MonsieurPhi)
 * [filosofojoe](https://www.youtube.com/user/filosofojoe)
 * [Filosofie Magazine](https://www.youtube.com/user/filosofiemagazine)
@@ -3565,7 +3565,7 @@
 * [The Institute of Art and Ideas](https://www.youtube.com/user/IAITV)
 * [The School of Life](https://www.youtube.com/c/theschooloflifetv)
 * [Debatte Gott](https://www.youtube.com/watch?v=PHwWQyDxiAc)
-* Contre-histoire        * [Contre-histoire de la philosophie 1a](https://vk.com/wall-98831559_23)
+* Contre-histoire      * [Contre-histoire de la philosophie 1a](https://vk.com/wall-98831559_23)
 * [Contre-histoire de la philosophie 1b](https://vk.com/wall-98831559_40)
 * [Contre-histoire de la philosophie 1c](https://vk.com/wall-98831559_43)
 * [Contre-histoire de la philosophie 2a](https://vk.com/wall-98831559_44)
@@ -3625,7 +3625,7 @@
 * [Contre-histoire de la philosophie 20a](https://vk.com/wall-98831559_615)
 * [Contre-histoire de la philosophie 20b](https://vk.com/wall-98831559_617)
 * [Contre-histoire de la philosophie 20c](https://vk.com/wall-98831559_620)
-* Audio        * [litteratureaudio.com/livre-audio-gratuit-mp3/menard-louis-le-jour-des-morts-le-gouvernement-gratuit.html](http://www.litteratureaudio.com/livre-audio-gratuit-mp3/menard-louis-le-jour-des-morts-le-gouvernement-gratuit.html)
+* Audio      * [litteratureaudio.com/livre-audio-gratuit-mp3/menard-louis-le-jour-des-morts-le-gouvernement-gratuit.html](http://www.litteratureaudio.com/livre-audio-gratuit-mp3/menard-louis-le-jour-des-morts-le-gouvernement-gratuit.html)
 * [litteratureaudio.com/livre-audio-gratuit-mp3/hervieu-paul-diogene-le-chien.html](http://www.litteratureaudio.com/livre-audio-gratuit-mp3/hervieu-paul-diogene-le-chien.html)
 * [litteratureaudio.com/livre-audio-gratuit-mp3/chamfort-sebastien-roch-nicolas-de-caracteres-et-anecdotes-selection.html](http://www.litteratureaudio.com/livre-audio-gratuit-mp3/chamfort-sebastien-roch-nicolas-de-caracteres-et-anecdotes-selection.html)
 * [litteratureaudio.com/livre-audio-gratuit-mp3/menard-louis-lettre-dun-mythologue-a-un-naturaliste.html](http://www.litteratureaudio.com/livre-audio-gratuit-mp3/menard-louis-lettre-dun-mythologue-a-un-naturaliste.html)
@@ -3688,7 +3688,7 @@
 * [litteratureaudio.com/livre-audio-gratuit-mp3/littre-emile-%e2%80%93-pathologie-verbale-ou-lesions-de-certains-mots-dans-le-cours-de-lusage-oeuvre-integrale.html](http://www.litteratureaudio.com/livre-audio-gratuit-mp3/littre-emile-%e2%80%93-pathologie-verbale-ou-lesions-de-certains-mots-dans-le-cours-de-lusage-oeuvre-integrale.html)
 * [litteratureaudio.com/livre-audio-gratuit-mp3/abelard-pierre-lettre-a-un-ami.html](http://www.litteratureaudio.com/livre-audio-gratuit-mp3/abelard-pierre-lettre-a-un-ami.html)
 * [litteratureaudio.com/livres-audio-gratuits-mp3/tag/henri-bergson](http://www.litteratureaudio.com/livres-audio-gratuits-mp3/tag/henri-bergson)
-* Books        * [Il cristianesimo edonista. Controstoria della filosofia II [1 ed.]](http://libgen.is/book/index.php?md5=C0F4D223747A22E6CE8CC7FC8B2C07F1)
+* Books      * [Il cristianesimo edonista. Controstoria della filosofia II [1 ed.]](http://libgen.is/book/index.php?md5=C0F4D223747A22E6CE8CC7FC8B2C07F1)
 * [Il cristianesimo edonista. Controstoria della filosofia II [1 ed.]](http://libgen.is/book/index.php?md5=627667A721432CD585F8D9BF89FB9363)
 * [L'età dei libertini. Controstoria della filosofia III [1 ed.]](http://libgen.is/book/index.php?md5=0F1F79E259D4B8410A90634391AAEA32)
 * [L'età dei libertini. Controstoria della filosofia III [1 ed.]](http://libgen.is/book/index.php?md5=7B795BB11BACF962C1E3CA1746FECFC5)
@@ -3716,7 +3716,7 @@
 * {    Being No One   } [Bell Hooks books](https://libgen.is/search.php?&req=bell+hooks&phrase=0&view=simple&column=def&sort=language&sortmode=DESC)
 * [Business Ethics - A Philosophical and Behavioral Approach_Christian A. Conrad_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-91575-3)
 * [chinese philosophy](http://libgen.io/search.php?req=chinese+philosophy&open=0&res=25&view=simple&phrase=1&column=def)
-    Chomsky - Foucault. La naturaleza humana    * [Chris Hedges](https://libgen.is/search.php?&req=chris+hedges&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+    Chomsky - Foucault. La naturaleza humana  * [Chris Hedges](https://libgen.is/search.php?&req=chris+hedges&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 * [Communication and Bioethics at the End of Life_Lori A. Roscoe, David P. Schenck_1st ed. 2017](http://link.springer.com/openurl?genre=book&isbn=978-3-319-70920-8)
     Complete Idiot's Guide to Eastern Philosophy
     Contacto (Sagan)
@@ -3770,19 +3770,19 @@
 * [History of Philosophy](http://libgen.io/search.php?req=History+of+Philosophy+without+any+Gaps&open=0&res=25&view=simple&phrase=1&column=def)
 * [podium-arts.com/3084/luisterboek-ziel-aristoteles-a1/](https://www.podium-arts.com/3084/luisterboek-ziel-aristoteles-a1/)
 * [Human Nature and Conduct (Dewey)](https://vk.com/doc271638305_494628685?hash=5af71d488e62fbcc2e&dl=f98ca7cbac8be5f9e1)
-* [In viaggio con Leopardi. La partita sul destino dell'uom](http://library.lol/main/0E1EF614B3F53973370826E5F0EE578C)o    * [Introduction to Formal Philosophy_Sven Ove Hansson, Vincent F. Hendricks_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-77434-3)
+* [In viaggio con Leopardi. La partita sul destino dell'uom](http://library.lol/main/0E1EF614B3F53973370826E5F0EE578C)o  * [Introduction to Formal Philosophy_Sven Ove Hansson, Vincent F. Hendricks_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-77434-3)
 * [Johannes Hirschberger](https://b-ok.cc/g/Johannes%20Hirschberger)
 * [jürgen habermas](https://libgen.is/search.php?&req=j%C3%BCrgen+habermas&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=4)
 * [Justice for Hedgehogs](https://vk.com/doc-124948599_475093791?hash=19a1ed771a4ba320a8&dl=f0c1a00f77baf0d030)
     Kant - Metafisica Costumbres
     Klassiker des philosophischen Denkens 1
     Klassiker des philosophischen Denkens 2
-* {    La aventura de pensar   } [La bilancia. Pensieri sul nostro temp](http://library.lol/main/2CCAB3B0D4AFC36908B02C89A8FC8325)o    * [La crise de la conscience européenne](https://gallica.bnf.fr/ark:/12148/bpt6k932173z.image)
+* {    La aventura de pensar   } [La bilancia. Pensieri sul nostro temp](http://library.lol/main/2CCAB3B0D4AFC36908B02C89A8FC8325)o  * [La crise de la conscience européenne](https://gallica.bnf.fr/ark:/12148/bpt6k932173z.image)
 * [La Hélade: Historia del pensamiento | Jesús Mosterín | download](http://b-ok.cc/book/2553072/a8416b)
 * [la pensée](http://libgen.io/search.php?req=la+pens%C3%A9e&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 * [La pensée européenne au XVIIIe siècle de Montesquieu à Lessing](https://gallica.bnf.fr/ark:/12148/bpt6k96742694.texteImage)
     Leben 3.0
-    Lexikon der Sekten, Sondergruppen und Weltanschauungen    * [Libros del grupo Filosofía en español](https://www.facebook.com/groups/279472675583089/files/)
+    Lexikon der Sekten, Sondergruppen und Weltanschauungen  * [Libros del grupo Filosofía en español](https://www.facebook.com/groups/279472675583089/files/)
     Liebe. Ein unordentliches Gefühl
     Lob des Irrtums (Schaefer)
 * [Lógica de primer orden | Jesús Mosterín | download](http://b-ok.cc/book/2553070/d831d1)
@@ -3802,7 +3802,7 @@
 * [paul russell](https://libgen.is/search.php?&req=paul+russell&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 * [Pensamientos](https://vk.com/doc525831385_508634691?hash=07d9d2e495441dc839&dl=1240f3d2afc835dd99)
 * [peter sloterdijk](https://libgen.is/search.php?&req=peter+sloterdijk&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=2)
-    Petite philosophie de l'amour - Catherine Rambert    * [PhiloMag](https://vk.com/wall-154894262_1647)
+    Petite philosophie de l'amour - Catherine Rambert  * [PhiloMag](https://vk.com/wall-154894262_1647)
 * [Philosophical and Mathematical Logic_Harrie de Swart_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-030-03255-5)
 * [Philosophical Perspectives on Punishment](https://vk.com/doc-124948599_475093770?hash=9c908d9b04d9cb438d&dl=033a35ad566fd1598e)
 * {    Philosophie der Mathematik   } [Philosophie der Mythologie](https://vk.com/doc44301783_517373077?hash=e9d07ba540256424d2&dl=aeb71652c8042aecd3)
@@ -3820,7 +3820,7 @@
 * [Pigliucci](http://libgen.io/search.php?&req=Pigliucci&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
 * [Plato at the Googleplex](https://vk.com/doc464862457_459636433?hash=fa0aaacce4c5211839&dl=27a189a96ff5a0431b)
 * [Plato at the Googleplex: Why Philosophy Won&#39;t Go Away: Rebecca Goldstein: 9780307456724: Amazon.com: Books](https://www.amazon.com/Plato-Googleplex-Philosophy-Wont-Away/dp/0307456722/ref=la_B000APMI5A_1_1?s=books&ie=UTF8&qid=1521471399&sr=1-1)
-    Platon - lexique    * [Post-Truth (McIntyre)](https://vk.com/doc488576652_506840240?hash=79823d2faf568f5dce&dl=e0741442377d33c851)
+    Platon - lexique  * [Post-Truth (McIntyre)](https://vk.com/doc488576652_506840240?hash=79823d2faf568f5dce&dl=e0741442377d33c851)
 * [Postmodern Analysis](https://vk.com/doc35528094_497151580?hash=003a221043d37a0cf1&dl=b9994df4a31921a8af)
     Praktische Ethik (Singer)
     Principia Ethica (Moore)
@@ -3846,7 +3846,7 @@
 * [The Philosopher's Toolkit](http://www.tpsp-journal.kpu.zp.ua/)
 * [The Philosophy Book](https://vk.com/doc4605748_452021985?hash=580604f7bf509855e0&dl=1cdb0c58ad9e16b179)
     The Philosophy of Language
-* {    The Roman Search for Wisdom   } [The Sacred Balance: Rediscovering Our Place in Natur](http://library.lol/main/24A17C8D4A6093E91211152A523916F9)e    * [The Stone Reader. Modern Philosophy in 133 Arguments](https://vk.com/doc35528094_491035652?hash=e6b8c48bc63e1e7253&dl=704d5d491c230fd9fe)
+* {    The Roman Search for Wisdom   } [The Sacred Balance: Rediscovering Our Place in Natur](http://library.lol/main/24A17C8D4A6093E91211152A523916F9)e  * [The Stone Reader. Modern Philosophy in 133 Arguments](https://vk.com/doc35528094_491035652?hash=e6b8c48bc63e1e7253&dl=704d5d491c230fd9fe)
     The Texts of Early Greek Philosophy
 * {    Tiere Denken   } [TRADITIONS ET PHILOSOPHIE - Essai d'une anthropologie philosophique africaine, Aklesso Adji - livre, ebook, epub](http://www.editions-harmattan.fr/index.asp?navig=catalogue&obj=livre&no=29513&razSqlClone=1)
     Traktat über kritische Vernunft (Albert)
@@ -3855,7 +3855,7 @@
     Un punto azul pálido
 * {$1} [Universalis Dictionnaire de la Philosophie](https://b-ok.cc/book/2928833/0309ed)
 * [Vom Guten, Wahren, und Schönen](https://vk.com/doc505124243_505092464?hash=c015a97f6a66c8639a&dl=96451be1ccf0f7f554)
-    Wahrheit, Sprache und Geschichte    * [War Is a Force That Gives Us Meaning](https://vk.com/doc525831385_509368981?hash=15aa176bcc73a6fd72&dl=f0c5278b3c6dcd5a93)
+    Wahrheit, Sprache und Geschichte  * [War Is a Force That Gives Us Meaning](https://vk.com/doc525831385_509368981?hash=15aa176bcc73a6fd72&dl=f0c5278b3c6dcd5a93)
 * [Warum es die Welt nicht gibt](https://www.nationalreview.com/1999/05/non-fiction-100/)
 * [What Is This Thing Called Knowledge?](https://vk.com/doc35528094_491035654?hash=a1c495a349ff713d2c&dl=09ac186553f4e10d00)
 * {    When Breath Becomes Air   } [Where Good Ideas Come From](https://vk.com/doc4605748_467697196?hash=102c3fd705894f8dc8&dl=9dd356c73b029ed61d)
@@ -3911,7 +3911,7 @@
 * {$1} [The Knowledge Illusion](https://vk.com/doc44301783_507832899?hash=d28199183ae7ce3e50&dl=ee92b0a74281700f2a)
 * [The Nature of Scientific Knowledge_Kevin McCain_1st ed. 2016](http://link.springer.com/openurl?genre=book&isbn=978-3-319-33405-9)
 * [The Scientific Outlook](https://vk.com/doc522475633_512886802?hash=6a7770cdaafe25c21b&dl=a6b249350c58ed8bec)
-    Zu schön, um falsch zu sein. Über die Ästhetik in der Naturwissenschaft    * [(filo antro) langaney: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/langaney)
+    Zu schön, um falsch zu sein. Über die Ästhetik in der Naturwissenschaft  * [(filo antro) langaney: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/langaney)
 * [Вологодский философский клуб](https://vk.com/wall-169634550_3041)
 * [recent progress in consciousness research](https://www.google.com/search?q=recent+progress+in+consciousness+studies&rlz=1C5CHFA_enUS800US800&oq=recent+progress+in+consciousness+studies&aqs=chrome..69i57.8026j0j7&sourceid=chrome&ie=UTF-8)
 * [en.wikipedia.org/wiki/Russell_Kirk](https://en.wikipedia.org/wiki/Russell_Kirk)
@@ -3998,7 +3998,7 @@
 * [Animal Divino](http://www.helicon.es/pen/7848490.htm)
 * [Dicc de la Existencia](https://www.facebook.com/groups/279472675583089/898479190349098/)
 * [Los siete mitos de la conquista espanola.pdf - Google Drive](https://drive.google.com/file/d/1apUme799gQ6K_a-seYB-0Ydvzp9Jy9l-/view)
-* Blogs        * [Chomsky](https://chomsky.info/)
+* Blogs      * [Chomsky](https://chomsky.info/)
 * [Philosophia Perennis – Ein Blick auf die Welt mit von der philosophia perennis geschärften Augen](https://philosophia-perennis.at/)
 * [The Intellectual Landscape of the Westermarckian Circle – Research Project](http://westermarck-project.com/)
 * [**Home | 1FICINA](http://www.1ficina.com.br/)
@@ -4085,14 +4085,14 @@
 * [**fcalle](https://filosofialacalle.wixsite.com/fcalle/blog/)
 * [Denkfabrik für Humanismus und Aufklärung | GBS Koblenz](https://gbs-koblenz.de/stiftung.html)
 * [Institute of Art and Ideas | Home » IAI TV](https://iai.tv/)
-* Philosophers Unsorted        * [Martha Nussbaum, "The Monarchy of Fear" - YouTube](https://www.youtube.com/watch?v=rKPlhUuoT94)
+* Philosophers Unsorted      * [Martha Nussbaum, "The Monarchy of Fear" - YouTube](https://www.youtube.com/watch?v=rKPlhUuoT94)
 * [Michel Foucault : les mots et les choses. Préface (1966) - YouTube](https://www.youtube.com/watch?v=XdqFddXApc4)
 * [Peter Singer's Ethics - YouTube](https://www.youtube.com/watch?v=gVViICWs4dM)
 * [sloterdijk - YouTube](https://www.youtube.com/results?search_query=sloterdijk)
 * [Peter Sloterdijk - Kritik der zynischen Vernunft](https://libgen.is/book/index.php?md5=F32F29982184C353EC73E38E6463D8ED)
 * [Peter Sloterdijk: le bolle, l`animalità, l`utero - Rai Filosofia](http://www.filosofia.rai.it/articoli/peter-sloterdijk-le-bolle-lanimalit%C3%A0-lutero/31949/default.aspx)
 * [Peter Sloterdijk: Zur Lage der Welt – Sternstunde Philosophie | SRF Kultur - YouTube](https://www.youtube.com/watch?v=DHu2qzoZacg)
-    Peter Sloterdijk | Zerbricht unsere Gesellschaft? (NZZ Standpunkte 2013) - YouTube    * [Film For People - Peter Sloterdijk Interview - YouTube](https://www.youtube.com/watch?v=H31Q9C2n1TI)
+    Peter Sloterdijk | Zerbricht unsere Gesellschaft? (NZZ Standpunkte 2013) - YouTube  * [Film For People - Peter Sloterdijk Interview - YouTube](https://www.youtube.com/watch?v=H31Q9C2n1TI)
 * [émission cogito: Platon - YouTube](https://www.youtube.com/watch?v=yvat5p-CsBg&list=PLqRtWCEHGkbw-H8285DkC-9hpyDeBRPeN)
 * [Plato and the Poets - Existential Comics](http://existentialcomics.com/comic/233)
 * [La naturaleza del amor: De Platón a Lutero (volumen I) - Inving Singer | LECTURA y CULTURA SIN EGOÍSMO](http://www.lecturasinegoismo.com/2017/09/la-naturaleza-del-amor-de-platon-lutero_16.html)
@@ -4111,35 +4111,35 @@
 * [Jacques Derrida — Wikipédia](https://fr.wikipedia.org/wiki/Jacques_Derrida)
 * [Jacques Derrida : Entretien avec Laure Adler [1996] - YouTube](https://www.youtube.com/watch?v=3wBBimc7dKo)
 * [Richard David Precht im Gespräch mit Thomas Metzinger - YouTube](https://www.youtube.com/watch?v=BXJU_srHqA0)
-    Richard Feynman - The World from another point of viewde mrtp    * [Richard Rorty - Wikipedia](https://en.wikipedia.org/wiki/Richard_Rorty)
+    Richard Feynman - The World from another point of viewde mrtp  * [Richard Rorty - Wikipedia](https://en.wikipedia.org/wiki/Richard_Rorty)
     Robert J Asher (scientist - look for debates)
 * [RODRIGO MENCHÓN "Introducción al concepto de ideología de Slavoj Žižek" - YouTube](https://www.youtube.com/watch?v=bk9fSfHexXE)
 * [Rawls Teoria de la Justicia](https://www.youtube.com/watch?v=TxoT40y__u8)
 * [John Stuart Mill: higher happiness – TheTLS](https://www.the-tls.co.uk/articles/public/john-stuart-mill-higher-happiness/?CMP=Sprkr-_-Editorial-_-TimesLiterarySupplement-_-Unspecified-_-FBPAGE)
 * [Jordan Peterson & The Meaning of Life | Philosophy Tube - YouTube](https://www.youtube.com/watch?v=SEMB1Ky2n1E)
-    John Gray and the problem with Utopia - YouTube    * [John Gray en Bas Heijne bij Writers Unlimited The Series (9 maart 2015) - YouTube](https://www.youtube.com/watch?v=MTa-XZCKE08)
+    John Gray and the problem with Utopia - YouTube  * [John Gray en Bas Heijne bij Writers Unlimited The Series (9 maart 2015) - YouTube](https://www.youtube.com/watch?v=MTa-XZCKE08)
     Sam Harris Free Will Thought Experiment - YouTube
-    Sam Harris, Lawrence Krauss, Steven Pinker - Can Science Tell Us Right From Wrong? - YouTube    * [Sócrates, Platão, Aristóteles, Descartes e Rousseau - YouTube](https://www.youtube.com/watch?v=b6dCnMwmB0A)
+    Sam Harris, Lawrence Krauss, Steven Pinker - Can Science Tell Us Right From Wrong? - YouTube  * [Sócrates, Platão, Aristóteles, Descartes e Rousseau - YouTube](https://www.youtube.com/watch?v=b6dCnMwmB0A)
 * [The Silence of Animals&quot; with John Gray - YouTube](https://www.youtube.com/watch?v=L_2eT3v4D6Q)
-    The Soul of the Marionette with John Gray - YouTube    * [The Trouble with 'Freedom' - John Gray - YouTube](https://www.youtube.com/watch?v=Ligot4t8s3E&t=328s)
+    The Soul of the Marionette with John Gray - YouTube  * [The Trouble with 'Freedom' - John Gray - YouTube](https://www.youtube.com/watch?v=Ligot4t8s3E&t=328s)
 * [die philosophie des kant - YouTube](https://www.youtube.com/results?search_query=die+philosophie+des+kant)
-    Yuval Harari: Ein Historiker erzählt die Geschichte von morgen (SRF Sternstunde Philosophie) - YouTube    * [NL Kierkegaard](https://www.youtube.com/watch?v=tqYdLGCGzvs&t=79s)
+    Yuval Harari: Ein Historiker erzählt die Geschichte von morgen (SRF Sternstunde Philosophie) - YouTube  * [NL Kierkegaard](https://www.youtube.com/watch?v=tqYdLGCGzvs&t=79s)
 * [NL Nietzsche](https://www.youtube.com/watch?v=tcjDEJKo4MA&t=29s)
     Edmund Husserl - Der Vater der Phänomenologie - - YouTube
-    Expliquez-moi Derrida 1/4    * [TV CULT investiga Jacques Derrida - YouTube](https://www.youtube.com/watch?v=JstTXJMbb-0)
+    Expliquez-moi Derrida 1/4  * [TV CULT investiga Jacques Derrida - YouTube](https://www.youtube.com/watch?v=JstTXJMbb-0)
 * [Vis-à-vis - Peter Sloterdijk - YouTube](https://www.youtube.com/watch?v=bYx0akIA7_E)
-    Debate Noam Chomsky &amp; Michel Foucault - On human nature [Subtitled] - YouTube    * [Derrida, escritura y deconstrucción - YouTube](https://www.youtube.com/watch?v=u0VVGGrBSD0)
+    Debate Noam Chomsky &amp; Michel Foucault - On human nature [Subtitled] - YouTube  * [Derrida, escritura y deconstrucción - YouTube](https://www.youtube.com/watch?v=u0VVGGrBSD0)
 * [Expliquez-moi Derrida (1/4) : D’Alger à Paris](https://castbox.fm/vd/56374110)
-    Exclusive interview with Harvard philosophy professor Michael Sandel - YouTube    * [EL ARTE DE LA GUERRA DE SUN TZU- RESUMEN ANIMADO - YouTube](https://www.youtube.com/watch?v=raBbZ8vcBNk)
+    Exclusive interview with Harvard philosophy professor Michael Sandel - YouTube  * [EL ARTE DE LA GUERRA DE SUN TZU- RESUMEN ANIMADO - YouTube](https://www.youtube.com/watch?v=raBbZ8vcBNk)
 * [die philosophie des kant - YouTube](https://www.youtube.com/results?search_query=die+philosophie+des+kant)
-    Yuval Harari: Ein Historiker erzählt die Geschichte von morgen (SRF Sternstunde Philosophie) - YouTube    * [NL Kierkegaard](https://www.youtube.com/watch?v=tqYdLGCGzvs&t=79s)
+    Yuval Harari: Ein Historiker erzählt die Geschichte von morgen (SRF Sternstunde Philosophie) - YouTube  * [NL Kierkegaard](https://www.youtube.com/watch?v=tqYdLGCGzvs&t=79s)
 * [NL Nietzsche](https://www.youtube.com/watch?v=tcjDEJKo4MA&t=29s)
     Edmund Husserl - Der Vater der Phänomenologie - - YouTube
-    Expliquez-moi Derrida 1/4    * [TV CULT investiga Jacques Derrida - YouTube](https://www.youtube.com/watch?v=JstTXJMbb-0)
+    Expliquez-moi Derrida 1/4  * [TV CULT investiga Jacques Derrida - YouTube](https://www.youtube.com/watch?v=JstTXJMbb-0)
 * [Vis-à-vis - Peter Sloterdijk - YouTube](https://www.youtube.com/watch?v=bYx0akIA7_E)
-    Debate Noam Chomsky &amp; Michel Foucault - On human nature [Subtitled] - YouTube    * [Derrida, escritura y deconstrucción - YouTube](https://www.youtube.com/watch?v=u0VVGGrBSD0)
+    Debate Noam Chomsky &amp; Michel Foucault - On human nature [Subtitled] - YouTube  * [Derrida, escritura y deconstrucción - YouTube](https://www.youtube.com/watch?v=u0VVGGrBSD0)
 * [Expliquez-moi Derrida (1/4) : D’Alger à Paris](https://castbox.fm/vd/56374110)
-    Exclusive interview with Harvard philosophy professor Michael Sandel - YouTube    * [EL ARTE DE LA GUERRA DE SUN TZU- RESUMEN ANIMADO - YouTube](https://www.youtube.com/watch?v=raBbZ8vcBNk)
+    Exclusive interview with Harvard philosophy professor Michael Sandel - YouTube  * [EL ARTE DE LA GUERRA DE SUN TZU- RESUMEN ANIMADO - YouTube](https://www.youtube.com/watch?v=raBbZ8vcBNk)
 * {    Yuval Noah Harari   } [Yuval Noah Harari & Natalie Portman - YouTube](https://www.youtube.com/watch?v=87XFTJXH9sc)
 * [Гость Юваль Ной Харари. Познер. Выпуск от 24.06.2019 - YouTube](https://www.youtube.com/watch?v=cr2o6EWdq9A)
 * {    Amartya Sen   } [Book TV: Amartya Sen, &quot;The Idea of Justice&quot; - YouTube](https://www.youtube.com/watch?v=oObkriRKlJU)
@@ -4156,7 +4156,7 @@
 * {    Aldous Huxley   } [Maria Michela Sassi](https://www.youtube.com/results?search_query=Maria+Michela+Sassi)
     Josef Pieper
     Kurt Vonnegut
-    *  10 Contemporary Philosophers to Read Today    * [ЗМІСТ](http://library.nlu.edu.ua/POLN_TEXT/KOMPLEKS/KURS_1/kurs/5/001start.htm)
+  *  10 Contemporary Philosophers to Read Today  * [ЗМІСТ](http://library.nlu.edu.ua/POLN_TEXT/KOMPLEKS/KURS_1/kurs/5/001start.htm)
 * [Le top 20 des intellectuels publics du monde](https://www.alterinfo.net/Le-top-20-des-intellectuels-publics-du-monde_a21145.html)
 * [NS John Gray](https://www.newstatesman.com/writers/john_gray)
 * [[1308.1160] Coolhunting for the World&#39;s Thought Leaders](https://arxiv.org/abs/1308.1160)
@@ -4192,15 +4192,15 @@
 * [Noam Chomsky on Moral Relativism and Michel Foucault](https://www.youtube.com/watch?v=i63_kAw3WmE&list=WL&index=489)
 * [Martin Heidegger Interview with a Monk (English Subtitles)](https://www.youtube.com/watch?v=XcsBtl1SwuY&list=WL&index=493)
     Mark Lilla about Identity, Trump and Politics | TV-Talk | Sternstunde Philosophie | SRF Kultur
-    Stop blaming Aristotle for the excesses of 20th century analytical philosophy!    * [Sigmund Freud - Cultura para Principiantes](https://www.youtube.com/watch?v=y0cMloZKHoo&list=WL&index=1328)
+    Stop blaming Aristotle for the excesses of 20th century analytical philosophy!  * [Sigmund Freud - Cultura para Principiantes](https://www.youtube.com/watch?v=y0cMloZKHoo&list=WL&index=1328)
     Karl Marx - Philosophische Betrachtungen
-    Philosophie für Anfänger - Wittgenstein    * [Seneca - Das Leben ist kurz](https://www.youtube.com/watch?v=v4KJt3LgaOg&list=WL&index=1307)
+    Philosophie für Anfänger - Wittgenstein  * [Seneca - Das Leben ist kurz](https://www.youtube.com/watch?v=v4KJt3LgaOg&list=WL&index=1307)
 * [Christian Streich über sein Interview mit der New York Times: "Ich bin kein Philosoph"](https://www.youtube.com/watch?v=al37velGHHQ&list=WL&index=1402)
 * [ArendtKanal](https://www.youtube.com/user/arendtgaus)
     Michel Foucault parle de l'Archéologie du savoir au micro de France Culture, le 2 mai 1969
-    Baudrillard - La Disparition Du Monde Réel    * [Heidegger In Twelve Minutes](https://www.youtube.com/watch?v=A04RhtR0imY&list=WL&index=490)
+    Baudrillard - La Disparition Du Monde Réel  * [Heidegger In Twelve Minutes](https://www.youtube.com/watch?v=A04RhtR0imY&list=WL&index=490)
 * [🔴 Jean Baudrillard Hiperrealidad | Qué es la Realidad | FILOSOFIA](https://www.youtube.com/watch?v=vqEMdeS4MHU&list=WL&index=1330)
-    Hegel – wer ist der Jahrhundert-Philosoph? | Scobel    * [Rolf Dobelli | Denkfehler und die Grenzen des Wissens (NZZ Standpunkte 2016)](https://www.youtube.com/watch?v=MV7pBss4T6A&list=WL&index=90)
+    Hegel – wer ist der Jahrhundert-Philosoph? | Scobel  * [Rolf Dobelli | Denkfehler und die Grenzen des Wissens (NZZ Standpunkte 2016)](https://www.youtube.com/watch?v=MV7pBss4T6A&list=WL&index=90)
 * [O Valor da Liberdade - 4º episódio (John Gray)](https://www.youtube.com/watch?v=NrHAvwjLtXc&list=WL&index=93)
 * [Martha Nussbaum – Entrevista Exclusiva](https://www.youtube.com/watch?v=e3ssHUZIUfs&list=WL&index=360)
 * [La UNED en TVE-2 Serie: Voces del Pensamiento Tales de Mileto será el primero de una importante saga de pensadores jonios. Junto con Anaximandro y Anaxímenes, discípulos y depositarios de su legado, será uno de los principales representantes de la Escuela jónica o Escuela de Mileto. Participan: María Teresa Oñate y Zubía catedrática de Filosofía, UNED María Jesús Hermoso profesora Filosofía, Universidad de Valladolid José Luis Díaz Arroyo doctorando, UNED](https://www.facebook.com/franklin.quispecardenas.98/videos/639537080207774/)
@@ -4218,7 +4218,7 @@
 * [Conferencia de Jean Baudrillard / Conférence Jean Baudrillard (francés / français)](https://www.youtube.com/watch?v=QZYKKGqm9SY&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=109)
 * [“Caro Darwin, ti scrivo.” Tua, per sempre, la filosofia](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.gazzettafilosofica.net%2F2019-1%2Fmaggio%2Fcaro-darwin-ti-scrivo-tua-per-sempre-la-filosofia%2F%3Ffbclid%3DIwAR1gtFgcJ2PICx8ze4AB4oH1F9mhDe0RHaFEJyovZHGN5rhDuBtTEEVcbGw&h=AT399mc3CLKSnJ5Vl3AUKlxsGMkZqHEsecx39t1ZjN2Pbk9ZAUxCao3ZQNSEc2m8E_MOa1nmOP1VrpZhTdA7UfSvmuAl7pT78ZWmA0acIrrUHsl0ZouL_kAxLWOAvAqLK9UGUfdXcA)
     Immanuel Kant - Der Weltweise aus Königsberg
-    Philosophie erklärt: Was meint NIETZSCHE mit dem ÜBERMENSCH? - von Philosoph Dr. Christian Weilmeier    * [John Gray (philosopher) - Wikipedia](https://en.wikipedia.org/wiki/John_Gray_(philosopher)#cite_note-28)
+    Philosophie erklärt: Was meint NIETZSCHE mit dem ÜBERMENSCH? - von Philosoph Dr. Christian Weilmeier  * [John Gray (philosopher) - Wikipedia](https://en.wikipedia.org/wiki/John_Gray_(philosopher)#cite_note-28)
 * [Dr Jordan B Peterson, Professor of Psychology &amp; Clinical Psychologist](https://jordanbpeterson.com/)
 * [15. Spinoza II 17-18.m4a](https://www.dropbox.com/s/v422m1lv2gjkpo8/15.%20Spinoza%20II%2017-18.m4a?dl=0)
 * [Gustavo Bueno - Google Drive](https://drive.google.com/drive/folders/19MxxdGgdDkTKSxr2FzhSB1lW_LMM5Tlp)
@@ -4239,7 +4239,7 @@
 * [self-taught working-class philosophers - Buscar con Google](https://www.google.com/search?safe=active&rlz=1C1GGRV_enUS753US753&ei=bxIFWoHmK9j8jwP_452oCg&q=self-taught+working-class+philosophers&oq=self-taught+working-class+philosophers&gs_l=psy-ab.3...49961.52404.0.55809.14.14.0.0.0.0.131.1461.5j9.14.0....0...1.1.64.psy-ab..0.2.229...0i13i30k1j0i13i5i30k1j35i39k1.0.KVarXZBVsN0)
 * [ World’s Most Influential Thinkers Revealed - MIT Technology Review](https://www.technologyreview.com/s/518026/network-analysis-reveals-worlds-most-influential-thinkers/)
 * [Айрис Мёрдок - Поиск в Google](https://www.google.com/search?rlz=1C1GCEA_enUS828US828&q=%D0%90%D0%B9%D1%80%D0%B8%D1%81+%D0%9C%D1%91%D1%80%D0%B4%D0%BE%D0%BA&stick=H4sIAAAAAAAAAOOQU-LQz9U3SE9JL4ySzs0vLlFIzcvKr0xMyklVKMjIzMkvzi_ISC0qPsUIVmdimpQOZYK0nGLkAjGNzJLLivJOMXJClJhnJD9i9OUWePnjnrCUy6Q1J68x2nFxhacmOeYVlwPNEjLg4gosTS2qdM5JLC4WUuISkOLx8QwOiQ92dfX29HPXYJTi40IR4fnFKOmYnJxflJKZl65Qkq-QlJ-fXZSZX6KXnJ_7i4kj3tUvxDMkMn4Ss2tGSUlBsZW-PrIKfSMDQ1OgM_UNTPXTMstSddNK83ThvqvUBakt1q1MLdYtSk3MyanUBwAiOGfgFwEAAA&sa=X&ved=2ahUKEwjIztznx6rfAhVGHTQIHaASB34QxA0wAHoECAcQBw&biw=929&bih=932)
-* John Gray        * [John Gray - On the Relationship Between Science and Humanities | Listen Notes](https://www.listennotes.com/podcasts/intellectual-dark/john-gray-on-the-8TBjD6Msb0k/)
+* John Gray      * [John Gray - On the Relationship Between Science and Humanities | Listen Notes](https://www.listennotes.com/podcasts/intellectual-dark/john-gray-on-the-8TBjD6Msb0k/)
 * [John Gray - Science and Magic - YouTube](https://www.youtube.com/watch?v=Z-z9gSg1ZF8)
 * [John Gray - YouTube](https://www.youtube.com/watch?v=jDJCEn1jTGA)
 * [John Gray (philosopher) - Wikiquote](https://en.wikiquote.org/wiki/John_Gray_(philosopher))
@@ -4252,41 +4252,41 @@
 * [John Gray - Are Religion and the Marktes in conflict? | Listen Notes](https://www.listennotes.com/podcasts/intellectual-dark/john-gray-are-religion-and-Z3aT7zj4WpF/)
 * [The Perfect Human Being Series E05 - John Grays reality check of promising technologies - YouTube](https://www.youtube.com/watch?v=ft10Kx4Enos)
 * [Seven Types of Atheism with John Gray - YouTube](https://www.youtube.com/watch?v=yS1lJJca-fE)
-    Uncertain Minds: What an agnostic can believe - John Gray (Part One)de StPaulsLondon    * [Vision john gray philosopher - YouTube](https://www.youtube.com/playlist?list=PLS55yKSlincBNWP_DpTVIygveEOwYOH4I)
+    Uncertain Minds: What an agnostic can believe - John Gray (Part One)de StPaulsLondon  * [Vision john gray philosopher - YouTube](https://www.youtube.com/playlist?list=PLS55yKSlincBNWP_DpTVIygveEOwYOH4I)
 * [Review: Heresies by John Gray | Books | The Guardian](https://www.theguardian.com/books/2004/sep/04/highereducation.news)
 * [Against Safe Spaces - John Gray - YouTube](https://www.youtube.com/watch?v=DhaLgiZF5RY)
-    On Progress and Other Modern Myths&quot; by John Gray - YouTube    * [Converses a La Pedrera 2015. John Gray (Versió Original) - YouTube](https://www.youtube.com/watch?v=LNv3jENXPqM)
+    On Progress and Other Modern Myths&quot; by John Gray - YouTube  * [Converses a La Pedrera 2015. John Gray (Versió Original) - YouTube](https://www.youtube.com/watch?v=LNv3jENXPqM)
 * [[Readings] | Under Western Eyes, by John Gray | Harper's Magazine](https://harpers.org/archive/2015/01/under-western-eyes/)
 * [A conversation between John Gray and Yuval Noah Harari - Yuval Noah Harari](http://www.ynharari.com/a-conversation-between-john-gray-and-yuval-noah-harari/)
 * [15 Big Ideas From Straw Dogs And John Gray (The Philosopher) - Selfhacked](https://selfhacked.com/blog/review-straw-dogs-john-gray/)
 * ["The Soul of the Marionette" with John Gray - YouTube](https://www.youtube.com/watch?v=CON3BTnEURs)
 * [Believing in Reason is Childish - John Gray - YouTube](https://www.youtube.com/watch?v=EkZMLAbgSRU)
     Unknown Knowns - John Gray - YouTube
-    Why Humans Are Violent - John Gray - YouTube    * [The Trouble with 'Freedom' - John Gray - YouTube](https://www.youtube.com/watch?v=Ligot4t8s3E)
+    Why Humans Are Violent - John Gray - YouTube  * [The Trouble with 'Freedom' - John Gray - YouTube](https://www.youtube.com/watch?v=Ligot4t8s3E)
 * [Rocketmensch, &quot;The Soul of an Establishment Philosopher: On John Gray's The Soul of the Marionette&quot; | Counter-Currents Publishing](https://www.counter-currents.com/2017/05/the-soul-of-an-establishment-philosopher/)
 * [The truth about evil | John Gray | News | The Guardian](https://www.theguardian.com/news/2014/oct/21/-sp-the-truth-about-evil-john-gray)
 * [The Myth of Modernity - John Gray - YouTube](https://www.youtube.com/watch?v=_4Hvxmw0Nto)
 * [Mistaken Identities: The Conflict Over Culture, Class, Gender and Nation with Kwame Anthony Appiah and John Gray | Listen Notes](https://www.listennotes.com/podcasts/intelligence-squared/mistaken-identities-the-y4bFhBn_519/)
-* Michel Onfray        * [Michel Onfray - Brève Encyclopédie du Monde (France Culture) - Saison 01 &quot;Cosmos&quot; (2015-2016) - Michel Onfray](http://michel-onfray.over-blog.com/2016/07/michel-onfray-breve-encyclopedie-du-monde-saison-01-cosmos.html)
+* Michel Onfray      * [Michel Onfray - Brève Encyclopédie du Monde (France Culture) - Saison 01 &quot;Cosmos&quot; (2015-2016) - Michel Onfray](http://michel-onfray.over-blog.com/2016/07/michel-onfray-breve-encyclopedie-du-monde-saison-01-cosmos.html)
 * [Michel Onfray - Brève Encyclopédie du Monde (France Culture) - Saison 02 &quot;Cosmos&quot; (2017) - Michel Onfray](http://michel-onfray.over-blog.com/2017/07/michel-onfray-breve-encyclopedie-du-monde-france-culture-saison-02-cosmos-2017.html)
 * [Michel Onfray : «Les médias de masse ont intérêt à cultiver l'imbécillité»](http://www.lefigaro.fr/vox/societe/2016/09/16/31003-20160916ARTFIG00380-michel-onfray-les-medias-de-masse-ont-interet-a-cultiver-l-imbecillite.php)
 * [michel onfray in podcasts | Listen Notes](https://www.listennotes.com/search/?q=michel%20onfray&sort_by_date=0&scope=episode&offset=0&language=Any%20language&len_min=0)
 * [Michel Onfray sur Sputnik - MichelOnfray.com](https://vk.com/away.php?to=https%3A%2F%2Fmichelonfray.com%2Farchives%2Fmichel-onfray-sur-sputnik%3Fautoplay%3Dtrue)
 * [Michel Onfray: "Le système ne se laissera pas confisquer le pouvoir qu'il a réussi à voler au peuple](https://vk.com/away.php?to=https%3A%2F%2Fwww.lecho.be%2Fopinions%2Fcarte-blanche%2Fmichel-onfray-le-systeme-ne-se-laissera-pas-confisquer-le-pouvoir-qu-il-a-reussi-a-voler-au-peuple%2F10093462.html%3Ffbclid%3DIwAR0j09_4dvXsL0JEP2ki1785OIMgYRToY-_5BC0Pmv4GJTnENzTOUu7DwQE)
-    * **Пошук новин за запитом michel onfray contre-histoire [Пошук новин за запитом michel onfray contre-histoire](https://vk.com/search?c%5Bper_page%5D=40&c%5Bq%5D=michel%20onfray%20contre-histoire&c%5Bsection%5D=auto)
+  * **Пошук новин за запитом michel onfray contre-histoire [Пошук новин за запитом michel onfray contre-histoire](https://vk.com/search?c%5Bper_page%5D=40&c%5Bq%5D=michel%20onfray%20contre-histoire&c%5Bsection%5D=auto)
 * [Michel Onfray: free download. Ebooks library. On-line books store on Z-Library](http://b-ok.cc/s/?q=Michel+Onfray&yearFrom=&yearTo=&language=&extension=&t=0)
 * [Université Populaire de Caen » Michel Onfray](http://upc.michelonfray.fr/intervenants/michel-onfray/)
 * [Michel Onfray : Brève encyclopédie du monde - YouTube](https://www.youtube.com/watch?v=j_XgJhukdFU)
-* Noam Chomsky        * [Noam Chomsky on Capitalism - YouTube](https://www.youtube.com/watch?v=_FHNMZbnvYU)
+* Noam Chomsky      * [Noam Chomsky on Capitalism - YouTube](https://www.youtube.com/watch?v=_FHNMZbnvYU)
 * [Noam Chomsky on George Orwell - YouTube](https://www.youtube.com/watch?v=v_tmlVBqX1o)
 * [Noam Chomsky: The Alien perspective on humanity - Jung & Naiv: Episode 284 - YouTube](https://www.youtube.com/watch?v=h0qdbsE3Jqo&t=153s)
 * [Noam Chomsky: Who Owns the World?](https://www.youtube.com/watch?v=_9CHtm2qK2g)
     Noam Chomsky - The Purpose of Educationde lwf
-    Noam Chomsky - What We Really Wantde Chomsky's Philosophy    * [Noam Chomsky & Michel Foucault - Full debate on Human Nature - YouTube](https://www.youtube.com/watch?v=7TUD4gfvtDY)
+    Noam Chomsky - What We Really Wantde Chomsky's Philosophy  * [Noam Chomsky & Michel Foucault - Full debate on Human Nature - YouTube](https://www.youtube.com/watch?v=7TUD4gfvtDY)
 * [leftreferenceguide.wordpress.com/noam-chomsky-reading-list/](https://leftreferenceguide.wordpress.com/noam-chomsky-reading-list/)
     Noam Chomsky - On Being Truly Educated
     Noam Chomsky on French Intellectual Culture &amp; Post-Modernism (3/8) - YouTube
-    Noam Chomsky with Edward Snowden &amp; Glenn Greenwald - YouTube    * [Chomsky explaining real anarchism - YouTube](https://www.youtube.com/watch?v=AkvPDx2qNjM)
+    Noam Chomsky with Edward Snowden &amp; Glenn Greenwald - YouTube  * [Chomsky explaining real anarchism - YouTube](https://www.youtube.com/watch?v=AkvPDx2qNjM)
 * [Chomsky on language of thought](https://www.youtube.com/watch?v=GMjLUJ2K2EE)
 * [Chomsky book 1](https://chomsky.info/books/)
 * [Chomsky book 2](http://www.chomskylist.com/where-start-chomsky-best-books.php)
@@ -4316,28 +4316,28 @@
 * [Chomsky book 26](https://b-ok.cc/book/1249347/1b796e)
 * [Chomsky book 27](https://b-ok.cc/book/2028409/82f58e)
 * [What We Really Want - Noam Chomsky and Wallace Shawn](https://www.youtube.com/watch?v=3CFwSQiTu3I&list=WL&t=0s&index=150)
-* Philo        * [Sex and Death: An Introduction to Philosophy of Biology](http://library.lol/main/4E270AE18E7EF6E915BEE919C8CC55DE)
+* Philo      * [Sex and Death: An Introduction to Philosophy of Biology](http://library.lol/main/4E270AE18E7EF6E915BEE919C8CC55DE)
 * [Philosophy of Love, Sex, and Marriage: An Introduction](http://library.lol/main/18A4C7B24CB1FCB889DFAB409B9DEB0F)
 * [libgen.rs/search.php?&req=philosophy+of+sex&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](http://libgen.rs/search.php?&req=philosophy+of+sex&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 * [apaonline.org/general/recommended_links.asp](http://www.apaonline.org/general/recommended_links.asp)
 
 <SORTED>
-* Free Wil$1
-    * Book$1
-    * Article$1
-    * Podcas$1
-    * Vide$1
-    * Note$1
-    * People
-* People        * [Michael Gazzaniga](https://libgen.is/search.php?&req=Michael+Gazzaniga&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
+* Free Wil
+  * Book
+  * Article
+  * Podcas
+  * Vide
+  * Note
+  * People
+* People      * [Michael Gazzaniga](https://libgen.is/search.php?&req=Michael+Gazzaniga&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
 * [Stanislas Dehaene](https://libgen.is/search.php?&req=Stanislas+Dehaene&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
 * [ Susan Blackmore](https://b-ok.cc/g/Susan%20Blackmore)
 * [**James H. Austin](https://b-ok.cc/g/James%20H.%20Austin)
 * [Aspen Gamlund](https://sites.google.com/site/espengamlund/)
-* Top References        * [philpapers.org/](https://philpapers.org/)
+* Top References      * [philpapers.org/](https://philpapers.org/)
 * [plato.stanford.edu/](http://plato.stanford.edu/)
 * [encyclo-philo.fr/](https://encyclo-philo.fr/)
-* General Sites on Philosophy        * [historyofphilosophy.net/](https://www.historyofphilosophy.net/)
+* General Sites on Philosophy      * [historyofphilosophy.net/](https://www.historyofphilosophy.net/)
 * [philosophybasics.com/general.html](http://www.philosophybasics.com/general.html)
 * [iep.utm.edu/](http://www.iep.utm.edu/)
 * [philosophynow.org/](https://philosophynow.org/)
@@ -4389,7 +4389,7 @@
 * [**Courants de la philosophie – La-Philosophie.com : Cours, Résumés &amp; Citations](https://la-philosophie.com/courants-philosophie)
 * [**CONVIVIO: FILOSOFIA (in Italiano)](https://vk.com/filosofia_in_italiano)
 * [Philosophy and Information Technology at philo.de](http://www.philo.de/)
-* Media, Publications        * [Vista de Vol. 6 Núm. 8 (6)
+* Media, Publications      * [Vista de Vol. 6 Núm. 8 (6)
 * [Revista Replicante](http://revistareplicante.com/)
 * [La actualidad de la filosofía | Revista Replicante](http://revistareplicante.com/la-actualidad-de-la-filosofia/)
 * [Foro SofosAgora](http://sofosagora.net/)
@@ -4472,17 +4472,17 @@
 * [philosophischleben.wordpress.com/](https://philosophischleben.wordpress.com/)
 * [LES GRANDES QUESTIONS DE LA VIE - Voici quelques grandes questions de la vie : Qui suis-je ? Où vais-je ? Qu&#39;est-ce que la mort - Pourquoi souffrons-nous ? Quelle est ma fonction sur Terre ? S&#39;interroger est la condition de notre conscience, nous devons](http://lesgrandesquestionsdelavie.over-blog.com/)
 * [Varia](http://www.zulio.org/journal/)
-* Dictionaries        * [Філософський словник (словник) - Філософія - Архів якісних рефератів](http://5ka.at.ua/load/filosofija/filosofskij_slovnik_slovnik/66-1-0-9370)
+* Dictionaries      * [Філософський словник (словник) - Філософія - Архів якісних рефератів](http://5ka.at.ua/load/filosofija/filosofskij_slovnik_slovnik/66-1-0-9370)
 * [grand_dictionnaire_de_la_philosophie_pdf](http://aefe-madagascar.histegeo.org/IMG/pdf/grand_dictionnaire_de_la_philosophie.pdf)
 * [Dizionari di Filosofia](http://host.uniroma3.it/progetti/kant/online/dizencglos/dizionari.html)
 * [Filosofiya_slovnik.pdf](http://udhtu.edu.ua/public/userfiles/file/Filosofiya_slovnik.pdf)
 * [IT.pdf](http://www.ilgiardinodeipensieri.eu/testi/dif_1_29_01_12.pdf)
-* Books        * [Consciousness and the Universe: Quantum Physics, Evolution, Brain & Mind | Roger Penrose; Stuart Hameroff; Ellen Langer; R. Gabriel Joseph; Chris J. S. Clarke; L. Dossey; Ernest Lawrence Rossi; Gian Carlo Ghirardi; Peter Sturrock; Edgarl D. Mitchel; Chris King; Walter J. Freeman; Don Page; Henry P. Stapp; Fred Kuttner; Michael B | download](https://b-ok.cc/book/5329215/e8bf07)
+* Books      * [Consciousness and the Universe: Quantum Physics, Evolution, Brain & Mind | Roger Penrose; Stuart Hameroff; Ellen Langer; R. Gabriel Joseph; Chris J. S. Clarke; L. Dossey; Ernest Lawrence Rossi; Gian Carlo Ghirardi; Peter Sturrock; Edgarl D. Mitchel; Chris King; Walter J. Freeman; Don Page; Henry P. Stapp; Fred Kuttner; Michael B | download](https://b-ok.cc/book/5329215/e8bf07)
 * [Historia philosophiae graecae et Romanae ex fontium locis contexta; : Ritter, Heinrich : Free Download &amp; Streaming : Internet Archive](https://archive.org/details/historiaphilosop00rittuoft)
 * [Historia philosophiae graecae : testimonia auctorum conlegerunt notisque instruxerunt : Ritter, Heinrich, 1791-1869 : Free Download &amp; Streaming : Internet Archive](https://archive.org/details/historiaphilosop00ritt)
 * [How the Neoliberalization of Academia Leads to Thoughtlessness: Arendt and ... - Justin Pack - Google Книги](https://books.google.com/books?id=s9BwDwAAQBAJ&pg=PA98&lpg=PA98&dq=myopic+hyperspecialization&source=bl&ots=PCE_e3d5Wz&sig=hgoKDizt_bXJhE4djVgabFGor8w&hl=ru&sa=X&ved=2ahUKEwjo8-OL8qLfAhVEyFQKHZCtA3wQ6AEwBXoECAkQAQ#v=onepage&q=myopic%20hyperspecialization&f=false)
 * [600 citations pour bien réflichir avantd_agir.pdf](https://vk.com/doc6234312_452023767?hash=34393c293cbc38f80b&dl=10b44d6213a16b7679)
-* Consciousness        * [The conscious mind: in search of a fundamental theory | David J. Chalmers | download](https://b-ok.cc/book/511970/bfade6?dsource=recommend)
+* Consciousness      * [The conscious mind: in search of a fundamental theory | David J. Chalmers | download](https://b-ok.cc/book/511970/bfade6?dsource=recommend)
 * [*The New Science of Consciousness: Exploring the Complexity of Brain, Mind, and Self | Paul L. Nunez | download](https://b-ok.cc/book/2927197/b321b1)
 * [*Strange Tools: Art and Human Nature | Alva Noe | download](https://b-ok.cc/book/2640649/b1b44d)
 * [*Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness | Alva Noe | download](https://b-ok.cc/book/1115036/62d26e)
@@ -4492,7 +4492,7 @@
 * [philosophie.uni-mainz.de/metzinger/publikationen/Bewusstsein_2008_prefinal.pdf](http://www.philosophie.uni-mainz.de/metzinger/publikationen/Bewusstsein_2008_prefinal.pdf)
 * [ The Intellectual Landscape:](https://faculty.unlv.edu/beisecker/Courses/Phi-352/PhilMindOverview.htm)
 * [Home | dasGehirn.info - der Kosmos im Kopf](https://www.dasgehirn.info/)
-* YouTube        * [Философия - YouTube - YouTube](https://www.youtube.com/playlist?list=PLhMkqRn14YG_hfg4BaSAmVGXcthwAVbvD)
+* YouTube      * [Философия - YouTube - YouTube](https://www.youtube.com/playlist?list=PLhMkqRn14YG_hfg4BaSAmVGXcthwAVbvD)
 * [FilosofíaTv - YouTube](https://www.youtube.com/channel/UCKVRnYq1wVPlqB_ZlKgMvJg)
 * [PhiloCloud - YouTube - YouTube](https://www.youtube.com/channel/UCboZczmG77XfR__Pq4yn5Ug)
 * [Monsieur Phi - YouTube - YouTube (suivre les liens!)](https://www.youtube.com/channel/UCqA8H22FwgBVcF3GJpp0MQw)
@@ -4529,10 +4529,10 @@
 * [Quem Somos Nós?](https://www.youtube.com/channel/UCIj7UmUVFTFC9yXNiZoRmEg)
 * [Provocações Filosóficas](https://www.youtube.com/channel/UCdsosII3oC_jGwi7NNxTbeQ)
 * [Human - YouTube](https://www.youtube.com/user/omroepHUMAN/playlists)
-* Podcast        * [50 Best Philosophy Podcasts | Student Guide](http://www.studentguide.org/50-best-philosophy-podcasts/)
+* Podcast      * [50 Best Philosophy Podcasts | Student Guide](http://www.studentguide.org/50-best-philosophy-podcasts/)
 * [Simone et les philosophes - Le podcast préféré de Socrate](http://simoneetlesphilosophes.fr/)
 * [live.audials.com/de#!podcast](http://live.audials.com/de#!podcast)
-* Fora        * [Portal Raízes](https://www.portalraizes.com/)
+* Fora      * [Portal Raízes](https://www.portalraizes.com/)
 * [Forum de Philosophie - Portail](https://www.forumdephilosophie.com/)
 * [Home | History of Philosophy without any gaps](https://historyofphilosophy.net/)
 * [Philosophie - Forum Fr](https://www.forumfr.com/f421-philosophie.html)
@@ -4541,7 +4541,7 @@
 * [Philo Libre Expression: Débat de philosophie sur internet, forum de philosophie en ligne, discussion philosophique](https://philolibreexpression.fr/)
 * [**Philo Libre Expression: philosophie par internet, discussion philosophique en ligne, Cercle philosophique sur internet](https://philolibreexpression.fr/philosophie-sur-internet-debats-themes-discussions-philosophiques-en-ligne-philo-libre-expression)
 * [Philo-Welt.de | Philosophie Forum](http://philo-welt.de/forum/)
-* Other General Sites to Read        * [Information Philosophie - Die Zeitschrift, die über Philosophie informiert](http://www.information-philosophie.de/)
+* Other General Sites to Read      * [Information Philosophie - Die Zeitschrift, die über Philosophie informiert](http://www.information-philosophie.de/)
 * [most important philosophical questions - Поиск в Google](https://www.google.com/search?q=most+important+philosophical+questions&rlz=1C1GCEA_enUS820US820&oq=most+important+philosophical+questions&aqs=chrome..69i57j0.7856j0j7&sourceid=chrome&ie=UTF-8)
 * [Index of /classics/bibliotheca](https://nsu.ru/classics/bibliotheca/)
 * [UVOD](http://darhiv.ffzg.unizg.hr/id/eprint/9768/1/Diplomski%20rad%20-%20Marija%20Zubak.pdf)
@@ -4591,11 +4591,11 @@
 * [subject.com.ua/philosophy/philosophy/2.html](http://subject.com.ua/philosophy/philosophy/2.html)
 * [libraryforall.org/blog/2015/8/20/our-favorite-open-educational-resources](http://www.libraryforall.org/blog/2015/8/20/our-favorite-open-educational-resources)
 * [vitutor.com/index.html](http://www.vitutor.com/index.html)
-* Courses        * [Cours de philosophie - Programme de terminale](http://coursphilosophie.free.fr/index.php)
+* Courses      * [Cours de philosophie - Programme de terminale](http://coursphilosophie.free.fr/index.php)
 * [Cours de philosophie - Programme de terminale](http://coursphilosophie.free.fr/index.php)
 * [Філософія | Prometheus](https://courses.prometheus.org.ua/courses/KPI/PHIL101/2016_T2/about)
-* Misc Questions, 1-shot        * [What are the different possible approaches to life? - Buscar con Google](https://www.google.com/search?q=What+are+the+different+possible+approaches+to+life%3F&rlz=1C5CHFA_enUS753US753&oq=What+are+the+different+possible+approaches+to+life%3F&aqs=chrome..69i57.7716j0j9&sourceid=chrome&ie=UTF-8)
-* →        * [zestedesavoir.com/](https://zestedesavoir.com/) site général
+* Misc Questions, 1-shot      * [What are the different possible approaches to life? - Buscar con Google](https://www.google.com/search?q=What+are+the+different+possible+approaches+to+life%3F&rlz=1C5CHFA_enUS753US753&oq=What+are+the+different+possible+approaches+to+life%3F&aqs=chrome..69i57.7716j0j9&sourceid=chrome&ie=UTF-8)
+* →      * [zestedesavoir.com/](https://zestedesavoir.com/) site général
 * [Religion of a Different Color: Race and the Mormon Struggle for Whiteness](http://library.lol/main/69321824457CDF2BF5513D5CF3D85CEE)
 * [philosophy: catapano critchley](http://libgen.rs/search.php?req=catapano+critchley&open=0&res=25&view=simple&phrase=1&column=def)
 * [How to Be Perfect: The Correct Answer to Every Moral Question](http://library.lol/main/1CFA22325B43E4764726AC82DAB6D2F8)
@@ -4607,17 +4607,17 @@
     I started talking about the research behind idea evolution in [Tutorial: How To Package Other People's Video Clips So They Go Viral And People Pay For Them](https://link.sbstck.com/redirect/17bf0b75-2e91-47f7-aeb6-13e1e3bc6167?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY). In this post, I go deeper.
     Once I saw the power of idea evolution, I started seeing it everywhere.
     I saw it in many books, academic papers, and articles I was reading on creativity. Some ones that come to mind include:
-* [Where Good Ideas Come From: The Natural History of Innovation](https://link.sbstck.com/redirect/f4547152-bd2e-4bbe-a135-dbb3124c1fde?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by [Steven Johnson](https://open.substack.com/users/1408434-steven-johnson$1
-* [The Romance Of Reality](https://link.sbstck.com/redirect/f4547152-bd2e-4bbe-a135-dbb3124c1fde?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by [Bobby Azarian](https://link.sbstck.com/redirect/c9cd0411-9b73-44f9-b0d0-10f6fd91fdb8?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY$1
-* [The Diversity Bonus](https://link.sbstck.com/redirect/6a17f062-5ee1-496f-96b4-ea48521f7049?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by researcher Scott Pag$1
-* [The Formula](https://link.sbstck.com/redirect/1a89b591-6e8a-4899-9774-8062acfcc27e?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by researcher Albert-Lazlo Barabas$1
-* [Steal Like an Artist](https://link.sbstck.com/redirect/112ab129-8b7b-4774-ae0c-b90bf83d85a7?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by Austin Kleo$1
-* [Networked Knowledge and Combinatorial Creativity](https://link.sbstck.com/redirect/0255eb4b-c12b-4b03-a822-d5d2a60daba8?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by Maria Popov$1
-* [Invention as a Combinatorial Process: Evidence from U.S. Patents](https://link.sbstck.com/redirect/fe9bbf47-bbc5-4c8b-9a97-ee84f2f7a35b?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY$1
-* [The Role of Luck in Creative Career Success](https://link.sbstck.com/redirect/518f9a87-916a-4177-9ad2-94053b4984fb?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by researcher Milan Janoso$1
-* [Creative combination of representations: Scientific discovery and technological invention](https://link.sbstck.com/redirect/df208966-6dac-420f-bfed-55de7229631a?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by researcher Paul Thagar$1
-* [Borrowing Brilliance: The Six Steps to Business Innovation by Building on the Ideas of Others](https://link.sbstck.com/redirect/243c7677-2e9d-4d52-ad27-1f7a39b3d5be?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by David Kord Murra$1
-* [The Medici Effect](https://link.sbstck.com/redirect/97280e11-d5b3-4036-a749-006df8a4babb?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by Frans Johansso$1
+* [Where Good Ideas Come From: The Natural History of Innovation](https://link.sbstck.com/redirect/f4547152-bd2e-4bbe-a135-dbb3124c1fde?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by [Steven Johnson](https://open.substack.com/users/1408434-steven-johnson)
+* [The Romance Of Reality](https://link.sbstck.com/redirect/f4547152-bd2e-4bbe-a135-dbb3124c1fde?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by [Bobby Azarian](https://link.sbstck.com/redirect/c9cd0411-9b73-44f9-b0d0-10f6fd91fdb8?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY)
+* [The Diversity Bonus](https://link.sbstck.com/redirect/6a17f062-5ee1-496f-96b4-ea48521f7049?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by researcher Scott Pag
+* [The Formula](https://link.sbstck.com/redirect/1a89b591-6e8a-4899-9774-8062acfcc27e?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by researcher Albert-Lazlo Barabas
+* [Steal Like an Artist](https://link.sbstck.com/redirect/112ab129-8b7b-4774-ae0c-b90bf83d85a7?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by Austin Kleo
+* [Networked Knowledge and Combinatorial Creativity](https://link.sbstck.com/redirect/0255eb4b-c12b-4b03-a822-d5d2a60daba8?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by Maria Popov
+* [Invention as a Combinatorial Process: Evidence from U.S. Patents](https://link.sbstck.com/redirect/fe9bbf47-bbc5-4c8b-9a97-ee84f2f7a35b?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY)
+* [The Role of Luck in Creative Career Success](https://link.sbstck.com/redirect/518f9a87-916a-4177-9ad2-94053b4984fb?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by researcher Milan Janoso
+* [Creative combination of representations: Scientific discovery and technological invention](https://link.sbstck.com/redirect/df208966-6dac-420f-bfed-55de7229631a?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by researcher Paul Thagar
+* [Borrowing Brilliance: The Six Steps to Business Innovation by Building on the Ideas of Others](https://link.sbstck.com/redirect/243c7677-2e9d-4d52-ad27-1f7a39b3d5be?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by David Kord Murra
+* [The Medici Effect](https://link.sbstck.com/redirect/97280e11-d5b3-4036-a749-006df8a4babb?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by Frans Johansso
 * [Decoding Greatness](https://link.sbstck.com/redirect/62cc2dd3-c53c-46af-95cd-0e6854a55520?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by Ron Friedman
     And     I saw the mental model among greatest thinkers in history from    mathematicians to economists to philosophers to entrepreneurs to    technology researchers to futurists…
     # Countless Cases Of Idea Evolution
@@ -4657,7 +4657,7 @@
 * [hatrabbits.com/en/the-evolution-of-ideas-1/](https://hatrabbits.com/en/the-evolution-of-ideas-1/)
 * [shortform.com/blog/evolution-of-ideas-2/](https://www.shortform.com/blog/evolution-of-ideas-2/)
 * [drorpoleg.com/thinking-fast-and-slopes](https://www.drorpoleg.com/thinking-fast-and-slopes)
-* philo        * [lesswrong.com/](https://www.lesswrong.com/)
+* philo      * [lesswrong.com/](https://www.lesswrong.com/)
 * [google.com/search?q=evolution and the good life&ie=utf-8&oe=utf-8&client=firefox-b-m](https://www.google.com/search?q=evolution%20and%20the%20good%20life&ie=utf-8&oe=utf-8&client=firefox-b-m)
 * [psykip.vercel.app/compare/all](https://psykip.vercel.app/compare/all)
 * [magazine.hms.harvard.edu/articles/good-life](https://magazine.hms.harvard.edu/articles/good-life)
@@ -4684,7 +4684,7 @@
 * 35. Sort ‘John Gray’
 * 36. Sort ‘Michel Onfray’
 * 37. Sort ‘Noam Chomsky’
-* To Sort        * [libgen.rs/search.php?req=saul+smilansky&open=0&res=25&view=simple&phrase=1&column=def](https://libgen.rs/search.php?req=saul+smilansky&open=0&res=25&view=simple&phrase=1&column=def)
+* To Sort      * [libgen.rs/search.php?req=saul+smilansky&open=0&res=25&view=simple&phrase=1&column=def](https://libgen.rs/search.php?req=saul+smilansky&open=0&res=25&view=simple&phrase=1&column=def)
 * [LPSR #21 - Penser l'Euthanasie avec Marc Grassin - Yann Kerninon](https://youtu.be/4kGDbxfO0Y8)
 * [The philosophy of horror or, Paradoxes of the heart](http://library.lol/main/809DB0E12E9FEA2CE27A85DE0E5533CD)
 * [Filosofía felina](http://libgen.rs/book/index.php?md5=A8B7B7625B0908060D6A5BCBA602EC17)
@@ -4692,7 +4692,7 @@
 * [scotthyoung.com/blog/2010/05/05/atheist-reading-religio/](https://www.scotthyoung.com/blog/2010/05/05/atheist-reading-religio/)
 * [books: philosophy without any gaps](http://libgen.rs/search.php?req=philosophy+without+any+gaps&open=0&res=25&view=simple&phrase=1&column=def)
     find multilingual Amartya Sen books and add them to Drive and Roadmaps
-    find science fiction about omniscience, suffering, consciousness        * [libgen.rs/search.php?req=baggini+ethics&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def](http://libgen.rs/search.php?req=baggini+ethics&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+    find science fiction about omniscience, suffering, consciousness      * [libgen.rs/search.php?req=baggini+ethics&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def](http://libgen.rs/search.php?req=baggini+ethics&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 * [de1lib.org/s/baggini?languages%5B%5D=german&languages%5B%5D=french&languages%5B%5D=italian&languages%5B%5D=dutch&languages%5B%5D=portuguese&languages%5B%5D=russian&languages%5B%5D=spanish](https://de1lib.org/s/baggini?languages%5B%5D=german&languages%5B%5D=french&languages%5B%5D=italian&languages%5B%5D=dutch&languages%5B%5D=portuguese&languages%5B%5D=russian&languages%5B%5D=spanish)
 * [Science and Society (Pelican)
 * [The Radicalisation of Science: Ideology of/in the Natural Sciences](http://library.lol/main/1D4C5DC69D9334C82C6614EC1BDB2C77)
@@ -4725,7 +4725,7 @@
 * [philosophersmag.com/](https://www.philosophersmag.com/)
 * [en.wikipedia.org/wiki/Japanese_philosophy](https://en.wikipedia.org/wiki/Japanese_philosophy)
 * [de.wikipedia.org/wiki/Philosophie_in_Japan](https://de.wikipedia.org/wiki/Philosophie_in_Japan)
-    What can people of profession X, approaching the world primarily through the paradigms and habits of mind of profession X, learn from profession Y, with its associated tools and insights? → negative aspects of relying entirely on one's own field → benefits of enriching and enhancing one's approach to the world with the insights other fields, especially highly disparate ones → the perfect, i.e. perfectly well-rounded, mind: what would it look like? who are the best examples, whether contemporary or historical?    * [3 Libri di Filosofia della Biologia: Monod, Mayr e Dennett](https://youtu.be/YbhcSbIdth4)
+    What can people of profession X, approaching the world primarily through the paradigms and habits of mind of profession X, learn from profession Y, with its associated tools and insights? → negative aspects of relying entirely on one's own field → benefits of enriching and enhancing one's approach to the world with the insights other fields, especially highly disparate ones → the perfect, i.e. perfectly well-rounded, mind: what would it look like? who are the best examples, whether contemporary or historical?  * [3 Libri di Filosofia della Biologia: Monod, Mayr e Dennett](https://youtu.be/YbhcSbIdth4)
 * [eurozine.com/critique-and-communication-philosophys-missions/](http://www.eurozine.com/critique-and-communication-philosophys-missions/)
 * [selfhacked.com/blog/review-straw-dogs-john-gray/](https://selfhacked.com/blog/review-straw-dogs-john-gray/)
 * [sofosagora.net/](http://sofosagora.net/)
@@ -4739,7 +4739,7 @@
 * [literaturkritik.de/public/rezension.php?rez_id=14062](http://literaturkritik.de/public/rezension.php?rez_id=14062)
     “we feel with terrible resignation that reason is not a superhuman gift bestowed on humanity, that it is not an unchanging and eternal deity, that reason evolved in humanity and evolved into what it is, but that it also, however, could have evolved differently … what we hold to be the eternal and unalterably fixed laws of our intellectual being [are] merely a game played by the coincidence that is the world; when we recognise that our reason (which, after all, is language) can only be a coincidental reason, then we will only smile when we consider the argumentative passion with which anthropologists have laboured over questions of custom, belief and collective psychological ‘facts’. The”
     “Unknown to itself, the human mind creates worlds it cannot grasp. The places that are made by humans are as numinous and fugitive as those that appear in forest shade. Breaking the spell of diurnal perception, you can see landscapes in cities as unexpected as those that explorers discover in uncharted regions of the globe. A”
-    “Like cheap music, the myth of progress lifts the spirits as it numbs the brain.”    * [timeshighereducation.com/books/the-silence-of-animals-on-progress-and-other-modern-myths-by-john-gray/2001712.article](https://www.timeshighereducation.com/books/the-silence-of-animals-on-progress-and-other-modern-myths-by-john-gray/2001712.article)
+    “Like cheap music, the myth of progress lifts the spirits as it numbs the brain.”  * [timeshighereducation.com/books/the-silence-of-animals-on-progress-and-other-modern-myths-by-john-gray/2001712.article](https://www.timeshighereducation.com/books/the-silence-of-animals-on-progress-and-other-modern-myths-by-john-gray/2001712.article)
 * [thequietus.com/articles/12496-john-gray-silence-of-animals-interview](http://thequietus.com/articles/12496-john-gray-silence-of-animals-interview)
 * [prolixear.ru/](http://prolixear.ru/)
 * [revistatarantula.com/el-silencio-de-los-animales-sobre-el-progreso-y-otros-mitos-modernos/](http://revistatarantula.com/el-silencio-de-los-animales-sobre-el-progreso-y-otros-mitos-modernos/)
@@ -4749,12 +4749,12 @@
 * [samharris.org/blog/item/on-being-right-about-right-and-wrong](https://www.samharris.org/blog/item/on-being-right-about-right-and-wrong)
 * [bastiat.org/](http://bastiat.org/)
 * [rzim.org/just-thinking/must-the-moral-law-have-a-lawgiver/](http://rzim.org/just-thinking/must-the-moral-law-have-a-lawgiver/)
-    philosophical problem of non-philosophers    * [What Is Philosophy of Science? | Dean Rickles](https://b-ok.cc/book/5560878/d21ae5)
+    philosophical problem of non-philosophers  * [What Is Philosophy of Science? | Dean Rickles](https://b-ok.cc/book/5560878/d21ae5)
 * [Wicked Philosophy: Philosophy of Science and Vision Development for Complex Problems | Coyan Tromp](https://b-ok.cc/book/5558397/a15d6f)
 * [ph sci](https://b-ok.cc/book/2483633/8739a7)
 * [Dappled World](https://b-ok.cc/book/2475933/ce4f53)
 * [Essential Judaism : a complete guide to beliefs, customs, and rituals](https://b-ok.cc/book/3328569/7c6e00)
-    Versöhnung zwischen mathematische beweisfundierte Weltanschauung und emotionelle reigióse Weltanschauung.    * [socrat-online.ru/page/mirovoj-krizis-glazami-zapadnyh-intellektualov](http://www.socrat-online.ru/page/mirovoj-krizis-glazami-zapadnyh-intellektualov)
+    Versöhnung zwischen mathematische beweisfundierte Weltanschauung und emotionelle reigióse Weltanschauung.  * [socrat-online.ru/page/mirovoj-krizis-glazami-zapadnyh-intellektualov](http://www.socrat-online.ru/page/mirovoj-krizis-glazami-zapadnyh-intellektualov)
 * [magazines.russ.ru/nz/2003/29/rec-pr.html](http://magazines.russ.ru/nz/2003/29/rec-pr.html)
 * [ng.ru/ng_politics/2011-02-22/11_gray.html](http://www.ng.ru/ng_politics/2011-02-22/11_gray.html)
 * [gefter.ru/archive/author/j_gray](http://gefter.ru/archive/author/j_gray)
@@ -4789,14 +4789,14 @@
 * [b-ok.cc/s/carlo%20rovelli](https://b-ok.cc/s/carlo%20rovelli)
 * [Gregory Bassham: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/g/Gregory%20Bassham)
 * [Entretien Pierre Hadot](https://www.youtube.com/watch?v=WntgG-NByUg)
-    Commitment to empirically verifiable truth - ideas must hold up to reality    * [Die Kunst, kein Egoist zu sein: Warum wir gerne gut sein wollen und was uns davon abhält | Richard David Precht | download](https://b-ok.cc/book/1013347/d4441f)
+    Commitment to empirically verifiable truth - ideas must hold up to reality  * [Die Kunst, kein Egoist zu sein: Warum wir gerne gut sein wollen und was uns davon abhält | Richard David Precht | download](https://b-ok.cc/book/1013347/d4441f)
     Storia della Filosofia Occidentale
-    * -> conocimiento básico de los filósofos lmá importantes    * [Baudrillard multilingue](https://docs.google.com/spreadsheets/d/1K8BLWfw19z7Qo8gIEzXQdZVycjwKX0NRtyeuixcxsKg/edit?usp=sharing)
+  * -> conocimiento básico de los filósofos lmá importantes  * [Baudrillard multilingue](https://docs.google.com/spreadsheets/d/1K8BLWfw19z7Qo8gIEzXQdZVycjwKX0NRtyeuixcxsKg/edit?usp=sharing)
 * [nataleseremia.com/2018/08/05/il-domani-e-adesso/](http://nataleseremia.com/2018/08/05/il-domani-e-adesso/)
 * [m.pikabu.ru/story/filosofiya_popkulturyi_ili_populyarnaya_filosofiya_4340019](https://m.pikabu.ru/story/filosofiya_popkulturyi_ili_populyarnaya_filosofiya_4340019)
 * [portalmapasconceptuales.blogspot.com/2018/06/mapa-conceptual-existencialismo-vs.html](https://portalmapasconceptuales.blogspot.com/2018/06/mapa-conceptual-existencialismo-vs.html)
 * [portalmapasconceptuales.blogspot.com/2018/06/mapa-conceptual-immanuel-kant.html](https://portalmapasconceptuales.blogspot.com/2018/06/mapa-conceptual-immanuel-kant.html)
-    Noam Chomsky - On Being Truly Educatedde The Brainwaves Video Anthology    * [The Paradox of Choice & Morality: How Intelligent is A.I. ?- Nick Bostrom - WGS 2018 - YouTube](https://www.youtube.com/watch?v=hK2s5ZPq87A)
+    Noam Chomsky - On Being Truly Educatedde The Brainwaves Video Anthology  * [The Paradox of Choice & Morality: How Intelligent is A.I. ?- Nick Bostrom - WGS 2018 - YouTube](https://www.youtube.com/watch?v=hK2s5ZPq87A)
 * [Amartya Sen — Wikipédia](https://fr.wikipedia.org/wiki/Amartya_Sen)
 * [PhiloComp.net](http://www.philocomp.net/home.htm)
 * [Lectures recommandées](https://www.unine.ch/philo/home/enseignements/lectures-recommandees.html)
@@ -4824,38 +4824,38 @@
 * [В чем смысл футбола](https://vk.com/away.php?to=https%3A%2F%2Farzamas.academy%2Fmag%2F548-football)
 * [Economics vs Philosophy with Tyler Cowen - YouTube](https://www.youtube.com/watch?v=Y2jqm7dRCEw)
 * [Is Economics a Science? | HuffPost](https://www.huffingtonpost.com/jared-bernstein/is-economics-a-science_b_3816471.html)
-* Philosophy of Work        * [plato.stanford.edu/entries/work-labor/](https://plato.stanford.edu/entries/work-labor/)
+* Philosophy of Work      * [plato.stanford.edu/entries/work-labor/](https://plato.stanford.edu/entries/work-labor/)
 * [suhrkamp.de/buch/philosophie-der-arbeit-t-9783518298015](https://www.suhrkamp.de/buch/philosophie-der-arbeit-t-9783518298015)
 * [de.wikipedia.org/wiki/Arbeit_(Philosophie)](https://de.wikipedia.org/wiki/Arbeit_(Philosophie))
 * [philomag.de/lexikon/arbeit](https://www.philomag.de/lexikon/arbeit)
-* Philosophiæ quaestione$1
-    * Metaphysic$1
-    * Epistemologi$1
-    * Logic$1
-    * Ethic$1
-    * Aesthetic$1
-    * Altri
+* Philosophiæ quaestione
+  * Metaphysic
+  * Epistemologi
+  * Logic
+  * Ethic
+  * Aesthetic
+  * Altri
 * Autoepistemography
     Autoepistography
-    * 0-6 - peaceful and happy indoctrinatio$1
-    * 7-10 - acceptance of evolution without seeing any conflict
+  * 0-6 - peaceful and happy indoctrinatio
+  * 7-10 - acceptance of evolution without seeing any conflict
     good experience with baptism
     little questioning
     interest in science
-    * 11-13 - Mormon Doctrine and other teachings
+  * 11-13 - Mormon Doctrine and other teachings
     first red flags and difficult search for answers
     reinforced sense of difference and need to hold strong to my heritage and beliefs, "stranger in a strange land"
     German liberal values
     tolerable questions - conflict with evolution
     beginning of serious questions regarding us vs. them, theology regarding others, what determines morality, what
-    * 14-18 - smooth, all in, some questions
+  * 14-18 - smooth, all in, some questions
     issues with polygamy in high school
     exposure to weird stuff in the old testament
     intensive study of evolutionary theory
     other questions about science and religion
     certainty in the foundational claims of the restoration and of Christianity
     conservative political outlook
-    * 19-22 - difficult questions before my mission, but need to settle them or sweep them under the rug - polygamy and racism
+  * 19-22 - difficult questions before my mission, but need to settle them or sweep them under the rug - polygamy and racism
     prophetic fallibility
     disturbing endowment ceremony
     occasional questions about sexism
@@ -4866,9 +4866,9 @@
     intelligent, nuanced mission president
     weird stuff about the gathering of Israel
     bizarre doctrine about blood changing - actually falsifiable
-    * 23 - real faith crisis, help from a wonderful bishop
+  * 23 - real faith crisis, help from a wonderful bishop
     full exposure to some of the horrible acts
-    * 24 - intensive study - philosophy, church history, sociology & mehods of control, social psychology, psychology of belief
+  * 24 - intensive study - philosophy, church history, sociology & mehods of control, social psychology, psychology of belief
     exposure to the full spectrum of issues
     wondering about informed believers (Mason, Givens, Bushman)
     Noam Chomsky & manufactured consent
@@ -4883,29 +4883,29 @@
     I have, several times, experienced intense doubt, since I do ask questions and love finding answers. Since I was 11, I have wanted to know all I can about the Church of Jesus Christ of Latter-day Saints to reassure myself that I am spending my life on the right things, or to learn what other path I should take.
     I’m glad you asked, because I often feel like there is a stigma against asking tough questions, as if that implied weakness or a lack of faith, and I don’t think it should be that way. Questions, combined with an open mind and a pure heart, are the path to truth, and I love asking questions. I’m certainly glad Joseph Smith was willing to agonize over difficult questions with an open mind.
     As far as I can tell, this is a fairly comprehensive list of the doubts and objections people generally have with regard to the Church, and also what my thoughts and experience have been with them. More importantly, these are all things I have wondered about, and some of them I have thought long and hard about and lost hours of sleep over. This is more than you asked for, but I hope you find this helpful and/or interesting. It definitely applies to the work you’re doing, especially in a place as intellectually-oriented and secular as the Netherlands and Belgium. Let me know if you have more thoughts or questions with regard to any of these in particular.
-    * Church histor$1
-    * Blacks and the Priesthood - this is tough, and members only made it worse pre-1978 by thinking up non-doctrinal explanations. I wish this had never happened, but it’s a fact that even some of the greatest people have their prejudices. At the end of the day, I’m just glad to have been norn after the 1978 revelation. There is a great article about this: [lds.org/topics/race-and-the-priesthood?lang=eng](https://www.lds.org/topics/race-and-the-priesthood?lang=eng) . You’ll actually find a lot of good, well-written articles on the Church website: [lds.org/topics/](https://www.lds.org/topics/$1
-    * polygamy - This is something that is not easy for us, having been raised in a monogamous society with monogamous ideals, to accept, but it is in the Bible. Furthermore, most of the discomfort it causes is, as far as I can tell, due to an incomplete understanding of its purpose and practice. Like I would have been in their shoes, Joseph Smith, Brigham Young, and others were repulsed by the idea and had no desire to practice it. One common argument for it is that there are probably more women than men who qualify for exaltation, but all need to be married. That seems plausible to me, but most importantly, it was a commandment revealed and also discontinued through the prophets$1
-    * character of Joseph Smith and other Church leaders - The simple fact is that the Church leaders, admirable though they are, are imperfect people, and there is fortunately no doctrine of infallibility. It does make you wonder to read about the things they have said and done over the years that are out of harmony with the teachings of the Church, even their own. The Mountain Meadows Massacre, where some of the early Utahn settlers massacred a group of non-LDS pioneers, is an unfortunate example. It is easy to be become fixated on the shortcomings of great individuals and overlook all of the good they say and do, and so in addition to remembering that they are human and make mistakes, it is worth staying balanced when you take their actions into account - look at all the good they do, and weigh the unsavory bits against that, rather than focusing entirely on the negative$1
-    * freemasonry and the Church - Freemasonry is an ancient organization with high standards and secret rituals and signs. Sound familiar? Joseph Smith was a Freemason and people have tried to make the case that he copied the temple ceremony from the Freemason ritual, but it’s clear from an informed study of each that he didn’t. I’ve looked into this, particularly in a good book on it we have, and there isn’t much to it. It’s interesting to think that the Mason ceremony may be a corrupted descendant of the temple ceremony form the last time it was known and practiced, but that is unfounded speculation$1
-    * apostasy of prominent members - there was an unfortunate lot of this during the beginning era of this dispensation. Obviously, it can’t prove anything either way, but it can make you wonder. The other side of the coin, though, is that many of them came back, which took true humility and integrity to their knowledge of the truth. Many of the witnesses of the Book of Mormon, though they became opponents of Joseph Smith and the Church, and some of whom never came back, never denied their witness of the Book of Mormon. As one of my mission presidents, a lawyer by profession, pointed out, that kind of evidence carries a lot of weight even in the courtroom$1
-    * some disturbing parts of the Old Testament, like the one where the Children of Israel are commanded to annihilate the several peoples living in the land of Canaan. On that specific example, I’ve heard the explanation put forth that that was an act of mercy, because the civilizations were so wicked that the Lord wouldn’t have wanted to send anyone there to grow up surrounded by such evil. Whether or not that is the case, the general principle, I think, is that the Lord knows all factors, and we do not. Best to trust omniscience. If the Old Testament were made into a movie without editing, you and I would not be able to watch it. I think part of the reason for so much gruesome and explicit content is that sexuality and violence are universal human themes and are as relevant today as ever; part of the reason for their inclusion in the Bible may be that they were living a lower law, but whatever the case, the inspiring doctrine, stories, and poetry of the Old Testament have me convinced that it is inspired scripture after all$1
-    * the Book of Abraham - the story about it involves Egyptian papyri that Joseph Smith got ahold of and translated in the earlt days of the Church. Since then, Egyptologists have investigated them and stated that the translation is nowhere near the meaning of the originals. There is an article giving background and a partial explanation: [lds.org/topics/](https://www.lds.org/topics/) . It makes the good point that the Book of Abraham speaks for itself, even if we don’t completely understand its origins. I don’t really understand this particular issue, but since it’s a part of a greater whole, I accept it on faith, and I’m confident I’ll know the whole story someday$1
-    * Doctrines, like vicarious work for the dead, that are unique to the Church and therefore seen as “unchristian” - These make what is easily the flimsiest argument, advanced by the closed-minded Bible-worshippers who fail to understand the idea of the Restoration. These, to me, provide some of the greatest evidence that the Church is true$1
-    * Process of feeling the Spirit - This doubt essentially focuses on whether feelings can be reliably accepted as data or proof of truth. Coming from those who have not felt the Spirit’s influence, it is like, say, a vegan who had never tasted meat trying to tell me that steak was not tasty. Scientifically, of course, feelings cannot furnish proof, but I believe that the great test of this life is to be true to one’s feelings and to recognize the light of Christ. Life is, after all, not only mental, but also emotional, and everything we do is ultimately directed toward happiness, which is a feeling$1
-    * Bible-bashing - An enjoyable pastime that helps you become acquainted with the Bible, but not very effective in getting at the truth. The more you study the Bible, the more you see the continuity between it and the other 3 standard works. It is powerful how the Gospel is one unified whole, and how well the different parts of it fit together. To paraphrase someone else, the Book of Mormon can prove the Bible, but trying to prove the Book of Mormon through the Bible is, in my opinion, a waste of time. But for those willing to open their minds to the big picture, the Bible seen through the lens of the Restoration is a fascinating, beautiful thing. 2 Nephi 29 treats this very nicely$1
-    * Scienc$1
-    * evolution - Macroevolution, the idea that species change over time into other species, implying that humans evolved from other primates, is incompatible with the Gospel, and false. Microevolution, the idea that characteristics of animal species change slightly over time in response to their surroundings, is plausible, consistent with the Gospel, and actually empirically evidenced. Most people forget that evolution is itself treated more like a religion than like the theory it actually is, and the best argument against it is everything in life that it cannot account for$1
-    * age of the Earth - elieved to be about 4.6 billion years, which is not inconsistent with anything we believe, unless you believe that the “days” of creation were literally 24-hour periods of time. Most objections of this nature are brought about by preudoscience and by unsubstantiated Biblical claims and other false doctrines$1
-    * psychology, neuroscience, and determinism (the false and ridiculous idea that we cannot have free will because everything is dictated by chemical and physical processes, and thus have foregone conclusions) - I’m not terribly well-informed in these areas, but the general objection is the idea that our brain is responsible for all cognitive function. It certainly does a lot, but I tend to see the brain as a powerful tool closely tied to our spirit (maybe even analogous in some ways), but not as the origin of all thought and feeling. This is a fascinating topic I plan on learning much more about$1
-    * the list goes on and one, but the simple truth is this: Truth never contradicts itself. True religion and true science are, in essence, one and the same$1
-    * Offense or other objections based on the personal conduct of members, or even non-membership of wonderful people - These are certainly regrettable, but obviously irrelevant in a discussion of truth$1
-    * Social and lifestyle issues, such as gay marriage, other LGBT issues - These are especially tricky in today’s society, and they rely mostly on pathos, or emotion, and so are hard to argue against. Fortunately, you don’t have to - people either accept the Lord’s commandments, or they don’t, so they have other questions (like the truthfulness of the Book of Mormon, of course) to tackle first. I have found, though, that it goes a long way to explain that we love the sinner but hate the sins. (I flipped the two around once and it didn’t sound too good. Careful.) It’s also worth pointing out sometimes that “tolerance” can be very one-sided$1
-    * Dislike of culture, whether in the Church, in UT, or so on  - This has been a big one for me. Turns out it’s usually just a specific manifestation of pride$1
-    * Other doctrinal concerns, such as with the Plan of Salvation, nature of God - “Milk before meat” is always a good idea, but I’ve found that once you accept them on the faith you already have in the basics, they open up your perspective and leave you wondering what else the prophets know, but just can’t reveal because the hardness of our hearts$1
-    * Feminism ideology - This is a tough one, and I give it some credence. Women certainly could have a greater voice within the Church community, but demanding the priesthood is silly, definitely the wrong kind of voice. Most of the discomfort this issue causes is because people don't understand the patriarchal order, or maybe don't understand or believe that marriage is an equal companionship, and that holding the priesthood does not imply any kind of superiority. In other words, the priesthood legitimizes the Church, but individuals do not need to hold the priesthood to be legitimized$1
-    * Struggle to accept something that has not been revealed - This can be hard for me, because I have a compulsive drive to know and understand, but this is nothing more or less than a tough test of humility and patience$1
-    * Struggle to accept the fact that we were born as part of the <1% of all people who have ever lived on the Earth and are bizarrely blessed with liberty, prosperity, and happiness, or in other words, a struggle with the concept of fairness - This one gets to me a lot, but it’s not one that can prove anything about truth; it’s just hard to accept that I am so blessed and easy to wonder why. The parables of the talents and of the laborers in the vineyard have helped me come to terms with this, as does Luke 12:48, and this is definitely a topic I still have a lot to study on. It’s interesting to think about the special missions we have, and nice to remember that it’s not about being better or worse, just about doing the best we can with what we’re given and helping others to do the same.
+  * Church histor
+  * Blacks and the Priesthood - this is tough, and members only made it worse pre-1978 by thinking up non-doctrinal explanations. I wish this had never happened, but it’s a fact that even some of the greatest people have their prejudices. At the end of the day, I’m just glad to have been norn after the 1978 revelation. There is a great article about this: [lds.org/topics/race-and-the-priesthood?lang=eng](https://www.lds.org/topics/race-and-the-priesthood?lang=eng) . You’ll actually find a lot of good, well-written articles on the Church website: [lds.org/topics/](https://www.lds.org/topics/)
+  * polygamy - This is something that is not easy for us, having been raised in a monogamous society with monogamous ideals, to accept, but it is in the Bible. Furthermore, most of the discomfort it causes is, as far as I can tell, due to an incomplete understanding of its purpose and practice. Like I would have been in their shoes, Joseph Smith, Brigham Young, and others were repulsed by the idea and had no desire to practice it. One common argument for it is that there are probably more women than men who qualify for exaltation, but all need to be married. That seems plausible to me, but most importantly, it was a commandment revealed and also discontinued through the prophets
+  * character of Joseph Smith and other Church leaders - The simple fact is that the Church leaders, admirable though they are, are imperfect people, and there is fortunately no doctrine of infallibility. It does make you wonder to read about the things they have said and done over the years that are out of harmony with the teachings of the Church, even their own. The Mountain Meadows Massacre, where some of the early Utahn settlers massacred a group of non-LDS pioneers, is an unfortunate example. It is easy to be become fixated on the shortcomings of great individuals and overlook all of the good they say and do, and so in addition to remembering that they are human and make mistakes, it is worth staying balanced when you take their actions into account - look at all the good they do, and weigh the unsavory bits against that, rather than focusing entirely on the negative
+  * freemasonry and the Church - Freemasonry is an ancient organization with high standards and secret rituals and signs. Sound familiar? Joseph Smith was a Freemason and people have tried to make the case that he copied the temple ceremony from the Freemason ritual, but it’s clear from an informed study of each that he didn’t. I’ve looked into this, particularly in a good book on it we have, and there isn’t much to it. It’s interesting to think that the Mason ceremony may be a corrupted descendant of the temple ceremony form the last time it was known and practiced, but that is unfounded speculation
+  * apostasy of prominent members - there was an unfortunate lot of this during the beginning era of this dispensation. Obviously, it can’t prove anything either way, but it can make you wonder. The other side of the coin, though, is that many of them came back, which took true humility and integrity to their knowledge of the truth. Many of the witnesses of the Book of Mormon, though they became opponents of Joseph Smith and the Church, and some of whom never came back, never denied their witness of the Book of Mormon. As one of my mission presidents, a lawyer by profession, pointed out, that kind of evidence carries a lot of weight even in the courtroom
+  * some disturbing parts of the Old Testament, like the one where the Children of Israel are commanded to annihilate the several peoples living in the land of Canaan. On that specific example, I’ve heard the explanation put forth that that was an act of mercy, because the civilizations were so wicked that the Lord wouldn’t have wanted to send anyone there to grow up surrounded by such evil. Whether or not that is the case, the general principle, I think, is that the Lord knows all factors, and we do not. Best to trust omniscience. If the Old Testament were made into a movie without editing, you and I would not be able to watch it. I think part of the reason for so much gruesome and explicit content is that sexuality and violence are universal human themes and are as relevant today as ever; part of the reason for their inclusion in the Bible may be that they were living a lower law, but whatever the case, the inspiring doctrine, stories, and poetry of the Old Testament have me convinced that it is inspired scripture after all)
+  * the Book of Abraham - the story about it involves Egyptian papyri that Joseph Smith got ahold of and translated in the earlt days of the Church. Since then, Egyptologists have investigated them and stated that the translation is nowhere near the meaning of the originals. There is an article giving background and a partial explanation: [lds.org/topics/](https://www.lds.org/topics/) . It makes the good point that the Book of Abraham speaks for itself, even if we don’t completely understand its origins. I don’t really understand this particular issue, but since it’s a part of a greater whole, I accept it on faith, and I’m confident I’ll know the whole story someday
+  * Doctrines, like vicarious work for the dead, that are unique to the Church and therefore seen as “unchristian” - These make what is easily the flimsiest argument, advanced by the closed-minded Bible-worshippers who fail to understand the idea of the Restoration. These, to me, provide some of the greatest evidence that the Church is true
+  * Process of feeling the Spirit - This doubt essentially focuses on whether feelings can be reliably accepted as data or proof of truth. Coming from those who have not felt the Spirit’s influence, it is like, say, a vegan who had never tasted meat trying to tell me that steak was not tasty. Scientifically, of course, feelings cannot furnish proof, but I believe that the great test of this life is to be true to one’s feelings and to recognize the light of Christ. Life is, after all, not only mental, but also emotional, and everything we do is ultimately directed toward happiness, which is a feeling
+  * Bible-bashing - An enjoyable pastime that helps you become acquainted with the Bible, but not very effective in getting at the truth. The more you study the Bible, the more you see the continuity between it and the other 3 standard works. It is powerful how the Gospel is one unified whole, and how well the different parts of it fit together. To paraphrase someone else, the Book of Mormon can prove the Bible, but trying to prove the Book of Mormon through the Bible is, in my opinion, a waste of time. But for those willing to open their minds to the big picture, the Bible seen through the lens of the Restoration is a fascinating, beautiful thing. 2 Nephi 29 treats this very nicely
+  * Scienc
+  * evolution - Macroevolution, the idea that species change over time into other species, implying that humans evolved from other primates, is incompatible with the Gospel, and false. Microevolution, the idea that characteristics of animal species change slightly over time in response to their surroundings, is plausible, consistent with the Gospel, and actually empirically evidenced. Most people forget that evolution is itself treated more like a religion than like the theory it actually is, and the best argument against it is everything in life that it cannot account for
+  * age of the Earth - elieved to be about 4.6 billion years, which is not inconsistent with anything we believe, unless you believe that the “days” of creation were literally 24-hour periods of time. Most objections of this nature are brought about by preudoscience and by unsubstantiated Biblical claims and other false doctrines
+  * psychology, neuroscience, and determinism (the false and ridiculous idea that we cannot have free will because everything is dictated by chemical and physical processes, and thus have foregone conclusions) - I’m not terribly well-informed in these areas, but the general objection is the idea that our brain is responsible for all cognitive function. It certainly does a lot, but I tend to see the brain as a powerful tool closely tied to our spirit (maybe even analogous in some ways), but not as the origin of all thought and feeling. This is a fascinating topic I plan on learning much more about
+  * the list goes on and one, but the simple truth is this: Truth never contradicts itself. True religion and true science are, in essence, one and the same
+  * Offense or other objections based on the personal conduct of members, or even non-membership of wonderful people - These are certainly regrettable, but obviously irrelevant in a discussion of truth
+  * Social and lifestyle issues, such as gay marriage, other LGBT issues - These are especially tricky in today’s society, and they rely mostly on pathos, or emotion, and so are hard to argue against. Fortunately, you don’t have to - people either accept the Lord’s commandments, or they don’t, so they have other questions (like the truthfulness of the Book of Mormon, of course) to tackle first. I have found, though, that it goes a long way to explain that we love the sinner but hate the sins. (I flipped the two around once and it didn’t sound too good. Careful.) It’s also worth pointing out sometimes that “tolerance” can be very one-sided
+  * Dislike of culture, whether in the Church, in UT, or so on  - This has been a big one for me. Turns out it’s usually just a specific manifestation of pride
+  * Other doctrinal concerns, such as with the Plan of Salvation, nature of God - “Milk before meat” is always a good idea, but I’ve found that once you accept them on the faith you already have in the basics, they open up your perspective and leave you wondering what else the prophets know, but just can’t reveal because the hardness of our hearts
+  * Feminism ideology - This is a tough one, and I give it some credence. Women certainly could have a greater voice within the Church community, but demanding the priesthood is silly, definitely the wrong kind of voice. Most of the discomfort this issue causes is because people don't understand the patriarchal order, or maybe don't understand or believe that marriage is an equal companionship, and that holding the priesthood does not imply any kind of superiority. In other words, the priesthood legitimizes the Church, but individuals do not need to hold the priesthood to be legitimized
+  * Struggle to accept something that has not been revealed - This can be hard for me, because I have a compulsive drive to know and understand, but this is nothing more or less than a tough test of humility and patience
+  * Struggle to accept the fact that we were born as part of the <1% of all people who have ever lived on the Earth and are bizarrely blessed with liberty, prosperity, and happiness, or in other words, a struggle with the concept of fairness - This one gets to me a lot, but it’s not one that can prove anything about truth; it’s just hard to accept that I am so blessed and easy to wonder why. The parables of the talents and of the laborers in the vineyard have helped me come to terms with this, as does Luke 12:48, and this is definitely a topic I still have a lot to study on. It’s interesting to think about the special missions we have, and nice to remember that it’s not about being better or worse, just about doing the best we can with what we’re given and helping others to do the same.
     Why I believe: I have felt the Spirit’s witness that this Church, despite its imperfect past and imperfect nature, is the one set up by Jesus Christ. Having an open mind dictates that if you were to find more truth and light anywhere else, you would go there. I have had my eyes open, and I haven’t found any church or other group or system of belief that fit the bill. There is nowhere else you can learn so much about Jesus Christ and His Gospel, and nowhere else you can find opportunities to do so much good. In addition to the Spirit’s witness, the evidence for the Church outweighs any evidence against it, and the most logical decision I have found is to accept it and to live by it, and to help others do the same. As Alma 32 and John 7:17 promise, living the Gospel is its own best proof.
     Sometimes I’m a little jealous that you’re still a missionary, and I miss my own time as a missionary. It really is a wonderful feeling that can be easy to take for granted, and I’m so grateful I got to serve. Thanks for writing good emails every week.
     Love,
@@ -4988,8 +4988,8 @@
 * [donaldrobertson.name/2018/10/29/roundup-women-in-ancient-stoicism/](https://donaldrobertson.name/2018/10/29/roundup-women-in-ancient-stoicism/)
 * [en.wikipedia.org/wiki/List_of_Stoic_philosophers](https://en.wikipedia.org/wiki/List_of_Stoic_philosophers)
 * [r/Stoicism/comments/4tak0a/female_stoics/](https://www.reddit.com/r/Stoicism/comments/4tak0a/female_stoics/)
-    * Deutsch$1
-    * Lists        * [Book List](...)
+  * Deutsch
+  * Lists      * [Book List](...)
 * Religion Books
     David O. McKay and the Rise of Modern Mormonism
     Thunder from the Right
@@ -5007,7 +5007,7 @@
 * [Buddhismus](https://b-ok.cc/s/?q=buddhismus&order=year)
 * {    Buddhismus und Evolution       } [Christentum](https://libgen.is/search.php?req=christentum&open=0&res=25&view=simple&phrase=1&column=def)
     Das Elend der Theologie (Hans Albert)
-    Das Religionen-Buch        * [dawkins](https://libgen.is/search.php?&req=dawkins&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=12)
+    Das Religionen-Buch      * [dawkins](https://libgen.is/search.php?&req=dawkins&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=12)
 * [Die artikelen des geloofs](https://vk.com/doc306961597_438466772?hash=9bc7d48719d08a3859&dl=8d2b32d5f4970860cd)
 * {$1} [Die Identität der buddhistischen Schulen](https://vk.com/doc488576652_506838946?hash=a8eb8d65ddbb7daa44&dl=9fc5b8874e9b348b4a)
 * {    Die Weltreligionen       } [Die_Wirtschaftsethik_der_Weltreligionen_Smart_Reading.pdf](https://vk.com/doc5961481_459269216?hash=c36b9f4c810267e696&dl=218da025008c7c97a8)
@@ -5031,11 +5031,11 @@
 * [Radical Sacrifice](https://b-ok.cc/book/3679960/b98d37)
 * Notes
     What are the philosophical implications of the existence of a devil, as opposed to bad thoughts independent of demonic influence?
-    * Ясность: что такая? Как мне добиться ее в изучении и в обучении?    * coupling of fantasy, distraction and memor$1
-    * the present is imposed unconditionally absolutely: life, the present, is unconditionally given grac$1
-    * givennes$1
-    * quotes: Guy de Maupassan$1
-    * Tolstoï: Tout raisonnement sur l'amour le detruit
+  * Ясность: что такая? Как мне добиться ее в изучении и в обучении?  * coupling of fantasy, distraction and memor
+  * the present is imposed unconditionally absolutely: life, the present, is unconditionally given grac
+  * givennes
+  * quotes: Guy de Maupassan
+  * Tolstoï: Tout raisonnement sur l'amour le detruit
     What are the merits and shortcomings of jealousy, i.e. what purposes doe it serve and to what extent should it be avoided?
     Thinker's: Frank (Dostoevsky scholar), Levinas, Timothy Ware (Orthodox), Rabbi Sacks ("maximum of means, minimum of meaning")
     >Every “why” question assumes an underlying natural law (cause and effect relationship) or principle
@@ -5043,8 +5043,8 @@
     Contradictions imply falsehood; paradoxes imply the need for understanding at a deeper level; unanswered questions imply the need to continue searching and be patient.
     To justify its pursuit, knowledge should be rewarding, useful, worthwhile, helpful, applicable, edifying, timely, balanced, and bring the greatest total happiness. Learning should be motivated by a love of truth and righteousness and a desire to elevate others along with oneself.
     Fascinating truths:
-    * Everything you see, hear, feel, or otherwise perceive, and everything you think, say, and do becomes a part of you, depending on how you respond to it. Therein lies individuality$1
-    * Everything you do in any sense of the word changes reality (i.e. truth), in some way. Actions literally do change the world - for better, for worse, or further along the trajectory it is already on.
+  * Everything you see, hear, feel, or otherwise perceive, and everything you think, say, and do becomes a part of you, depending on how you respond to it. Therein lies individuality
+  * Everything you do in any sense of the word changes reality (i.e. truth), in some way. Actions literally do change the world - for better, for worse, or further along the trajectory it is already on.
     Despite the perpetual passing of experience, it is meaningful because of memory, development, eternal reward, and immediate happiness. Righteousness is a pattern of action that provides happiness both now and later. Where true happiness is concerned, there is not a tradeoff between this life and the next. Happiness is an upward spiral. Pleasure is an up-and-back-down climb.
     Analysis:
     0) Question
@@ -5065,7 +5065,7 @@
     Interesting how time, or t least my persection of it, behaves non-arithmetically. When I am busy, I can still find time to do things that matter, and when I am less busy, I often do even less. Of course, this is probably due to a number of illusions and biases, but it is an interesting phenomenon that tells me a lot about myself.
     Another interesting paradox regarding performance, achievance and life in general is that difficult times don’t inevitably decrease learning, achievement, and performance. Rather, they provide a kind of drive that is often lacking when all is well. The general principle is that anything, even shocks, crises, and tragedies can be harnessed for good.
     Thought game: Take a premise or conclusion, and lead it through to its logical conclusion, po-Dostoevskomu.
-    * Points of view typical of or inherent in different fields, occupations, etc., and how to achieve a balanced, well-rounded view
+  * Points of view typical of or inherent in different fields, occupations, etc., and how to achieve a balanced, well-rounded view
     Why is the “Rule of 3” so effective? (B2/17)
     Is it possible for 2 wrongs to make a right (see Roe v. Wade)? (B8)
     What is truly universal? What are the common threads of reality that transcend all cultural and individual differences? (B16)
@@ -5076,7 +5076,7 @@
     Why is the most glorious and intelligent of all creatures also the least self-sufficient? Is that ironic? (B35)
     Warum ist die herrlichste intelligenteste Schöpfung Gottes auch gleichzeitig die am
     wenigsten selbstst”andige?
-    * Demut, Verst”andnis seiner Abh”amgigkeit von Gott - Mosiah 2
+  * Demut, Verst”andnis seiner Abh”amgigkeit von Gott - Mosiah 2
     Why is a thing considered beautiful? What is beauty? (B44)
     How many different categories of feeling exist? (B59)
     pleasant and good, pleasant and evil, unpleasant and good, unpleasant and evil, neutral(?)
@@ -5132,8 +5132,8 @@
     Philosophie und Schuldgefühle
     Where are the folk/lay/everyday philosophers? What can we, especially I, learn from them?
     Why do some people not ask many questions?
-    * Was ist der Mensch?    * Was braucht der Mensch?    * Was brauchen einzelne Menschen verschieden?    * Was sollte der Mensch? Kann man diese Frage allgemein beantworten?    * Warum so verschiedene Einstellungen zur Philosophie und zur Existenz?    * Welchen Einfluss übt das psychologische Zentrum eines Menschen?    * Welche psychologische, antheopologische, usw. Theorien würden mir helfen, dies besser zu verstehen?$1
-    * Welche verschiedenen Schemen gibt es, Menschen nach Typ aufzuteilen?
+  * Was ist der Mensch?  * Was braucht der Mensch?  * Was brauchen einzelne Menschen verschieden?  * Was sollte der Mensch? Kann man diese Frage allgemein beantworten?  * Warum so verschiedene Einstellungen zur Philosophie und zur Existenz?  * Welchen Einfluss übt das psychologische Zentrum eines Menschen?  * Welche psychologische, antheopologische, usw. Theorien würden mir helfen, dies besser zu verstehen?
+  * Welche verschiedenen Schemen gibt es, Menschen nach Typ aufzuteilen?
     Kann theoretisch jeder wirtschaftswissenschaftliche Theorie lernen? Wie viele könnten das? Warum bekommen ncht alle gute Noten - welche Faktoren spielen hier eine Rolle?
 * {    heutige Relevanz der Metaphysik und Verbindung mit der Wissenschaft       } [Наша сексуальная этика - Рассел Бертран :: Режим чтения](https://royallib.com/read/rassel_bertran/nasha_seksualnaya_etika.html#0)
 * [Атеизм и сексуальная этика: iskander_bel](https://iskander-bel.livejournal.com/384928.html)
@@ -5143,41 +5143,41 @@
     It's not my style to shy away from controversy on Facebook, and a lot of the time, I'm stating controversial opinions. This post is about honest questions, rather than opinions, but on a really touchy subject, so skip this if you're in cat video mode.
     I like to use Facebook to crowdsource philosophy, and that's what I'm trying to do here. One of the most divisive issues that I don't completely understand is abortion, with its arguments for and against. I can understand people not feeling comfortable talking about these issues in such a public forum, but these things are important, and they need to be discussed. Here's my understanding and my critique of some of the arguments I hear, and I want to be told what it is I'm overlooking.
     One the one side, I hear abortion equated with murder without qualification, while another extreme calls any opposition to abortion rights totalitarian control of a woman's body.
-    * Which ethical system? --> hypocris$1
-    * Appeal to potentia$1
-    * Woman's right to do what she wants with her own body; liver argumen$1
-    * Definitions of lif$1
-    * Selective abortion$1
-    * Other animal$1
-    * Problems with definition as murder, LDS positio$1
-    * Thought experiment with frozen embryos
+  * Which ethical system? --> hypocris
+  * Appeal to potentia
+  * Woman's right to do what she wants with her own body; liver argumen
+  * Definitions of lif
+  * Selective abortion
+  * Other animal
+  * Problems with definition as murder, LDS positio
+  * Thought experiment with frozen embryos
     Please comment in words, not links. This should be something that we are able to talk about in our own words (or quotes), without outsourcing the burden of debate. Hyperlink wars get spammy fast. My post, my rules.
     Kinderzahl und Kapazität der Erde
     Wie definiert man eine Eigenschaft? Ab welchem Punkt besitzt man eine Eigenschaft, bzw. wird durch sie geprägt?
     basis for classifying feelings as "vulgar" and "refined"
     Se...alethik
     Philisophie der Ursache und Wirkung
-    * > mit Anwendung in zur Frage, weshalb manche Leute so furchtbare Eltern sind.        * [Философия](http://nalanda.ru/east-philos.html)
+  * > mit Anwendung in zur Frage, weshalb manche Leute so furchtbare Eltern sind.      * [Философия](http://nalanda.ru/east-philos.html)
     ExistentialComics (FB/site)
     Welche Beziehung besteht zwischen der Mathematik und dem Kosmos?
-    * -> Philosophie der Mathematik
+  * -> Philosophie der Mathematik
     Woher weiß ich das, was ich weiß? Wie viel von dem, was ich zu wissen glaube, weiß ich tatsächlich? Wer und was beherrscht die Information? Wem vertraue ich? Wie kann ich mich gegen Täuschung und Manipulation wehren? Welche Risiken begleiten die Entscheidung, einem gewissen Menschen bzw. einer Gruppe von Menschen zu vertrauen?
     как мне быть с теми, кто не ценит философию?
     Book Idea: Humans to Organ Stops: Ways We Are Manipulated
-    * -> Analogie einer Skulptur: der Künstler fängt an mit einem Steinblock und entfernt alles, was sich nicht gehört bis am Ende nur die Skulptur bleibt, die schon immer da war, aber unsichtbar wegen überflüssiges und unerwünschtes.
+  * -> Analogie einer Skulptur: der Künstler fängt an mit einem Steinblock und entfernt alles, was sich nicht gehört bis am Ende nur die Skulptur bleibt, die schon immer da war, aber unsichtbar wegen überflüssiges und unerwünschtes.
     Richtung eher als aktuelle Lage. Wille eher als Vergangenheit.
-    blue-collar philosophers        * [nalanda.ru/east-philos.html](http://nalanda.ru/east-philos.html)
+    blue-collar philosophers      * [nalanda.ru/east-philos.html](http://nalanda.ru/east-philos.html)
 * {$1} [m.vk.com/wall-36047336_65651?from=feed_search/0/30+secondes+philosophies+epub](https://m.vk.com/wall-36047336_65651?from=feed_search/0/30+secondes+philosophies+epub)
     Gibt es eine Obergrenze des möglichen Schmerzens?
     paradoxe Dieu-pierre (en créer un d'aussi grande qu' il ne puisse le lever)
     Philosophical problem of specialization
-    * -> possibility of seeing the world completely (well-roundedly) with a specialization as a starting point, from which knowledge and experience radiate outward
+  * -> possibility of seeing the world completely (well-roundedly) with a specialization as a starting point, from which knowledge and experience radiate outward
     Philsophie über verschiedene Einstellungen zur Philsophie
     was unterliegt meine Emotionelle reaktion zu den Erfahrungen und Wertesytemen anderer? (langer, langweiliger Arbeitstag, Geringschätzung der Bildung und Kultur, usw.). Wo liegt die Grenze zwischen moralischen (--> gerechtfertigt traurigen) und amoralischen ("ihr Leben, ihre Entscheidungen, kein Problem") Entscheidungen/Wertesystemen?
     filisofía y los diablos de nuestra natura (Antiguo Testamento, por ejemplo)
     Welche treibende Kräfte stecken hinter der Philosophie?
     philosophy and the "common man"
-    * -> elitism and social class
+  * -> elitism and social class
     Jusqu'à quel point sont le stoïcisme et l'épicurisme sont-ils compatibles?
     Philosophie der Mathematik
     nature vs nurture in aesthetics
@@ -5277,11 +5277,11 @@
     fairness: results
     Was sollten alle wissen, können, machen und sein? Auf welcher moralischen Grundlage?
     Ethik der Geburtskontrolle
-    Infinitesimal ethics: how to act when your influence is small        * [Комментарии к «Государю» Макиавелли](https://b-ok.cc/book/2947945/111708)
+    Infinitesimal ethics: how to act when your influence is small      * [Комментарии к «Государю» Макиавелли](https://b-ok.cc/book/2947945/111708)
     Pascal Engel
     Pascal Engel - Y'a-t-il une éthique intellectuelle ?
 * Ethics
-    what are my ethical obligations toward the world?        * [nature.com/scitable/knowledge/library/ethics-and-global-climate-change-84226631/](https://www.nature.com/scitable/knowledge/library/ethics-and-global-climate-change-84226631/)
+    what are my ethical obligations toward the world?      * [nature.com/scitable/knowledge/library/ethics-and-global-climate-change-84226631/](https://www.nature.com/scitable/knowledge/library/ethics-and-global-climate-change-84226631/)
 * [Peter Singer: Suffering in Humans, Animals, and AI | Lex Fridman Podcast #107 - YouTube](https://www.youtube.com/watch?v=llh-2pqSGrs)
 * [#107 - Peter Singer: Suffering in Humans, Animals, and AI | MIT | Artificial Intelligence Podcast](https://lexfridman.com/peter-singer/)
 * [The world's most famous utilitarian on whether all carnivorous animals should be killed - Vox](https://www.vox.com/2015/6/18/8802755/peter-singer)
@@ -5371,12 +5371,12 @@
 * [20 incredible charities that give 99% of the money they get to the actual cause - MarketWatch](https://www.marketwatch.com/story/20-incredible-charities-that-give-99-of-the-money-they-get-to-the-actual-cause-2017-12-28)
 * [Library Genesis: Jodey Castricano, Rasmus R. Simonsen (eds.) - Critical Perspectives on Veganism](http://libgen.rs/book/index.php?md5=95522F2AD4BE5CAEA2B3B0F7FEA211E7)
 * [Russell Brand & Frankie Boyle - Is It Possible To Live A Moral Life? - YouTube](https://www.youtube.com/watch?v=LFpKOw1XzG0)
-    * Ethics
+  * Ethics
 * Reading (1)
 * [(?) [researchgate.net/publication/265857037_Technological_and_ethical_antecedents_of_e-book_piracy_and_price_acceptance_Evidence_from_the_Spanish_case](https://www.researchgate.net/publication/265857037_Technological_and_ethical_antecedents_of_e-book_piracy_and_price_acceptance_Evidence_from_the_Spanish_case)](https://www.researchgate.net/publication/265857037_Technological_and_ethical_antecedents_of_e-book_piracy_and_price_acceptance_Evidence_from_the_Spanish_case](https://www.researchgate.net/publication/265857037_Technological_and_ethical_antecedents_of_e-book_piracy_and_price_acceptance_Evidence_from_the_Spanish_case))
 * [A Justified System of IP Rights](https://mospace.umsystem.edu/xmlui/handle/10355/4788)
 * [El Budismo Según Los Estoicos - YouTube](https://www.youtube.com/watch?v=wqWiMbHF55k)
-* [stafforini.com/docs/Singer](http://www.stafforini.com/docs/Singer) - The expanding circle.pdf        * [hawramani.com/why-digital-piracy-is-ethical-and-necessary/](https://hawramani.com/why-digital-piracy-is-ethical-and-necessary/)
+* [stafforini.com/docs/Singer](http://www.stafforini.com/docs/Singer) - The expanding circle.pdf      * [hawramani.com/why-digital-piracy-is-ethical-and-necessary/](https://hawramani.com/why-digital-piracy-is-ethical-and-necessary/)
 * [monocler.ru/stoiczizm-5-0/](https://monocler.ru/stoiczizm-5-0/)
 * [mospace.umsystem.edu/xmlui/handle/10355/4788](https://mospace.umsystem.edu/xmlui/handle/10355/4788)
 * [theconversation.com/is-downloading-really-stealing-the-ethics-of-digital-piracy-39930](https://theconversation.com/is-downloading-really-stealing-the-ethics-of-digital-piracy-39930)
@@ -5446,7 +5446,7 @@
 * [Philosophy for Everyone, 2nd Edition](http://library.lol/main/B456141041F506939151E2FA45706A59)
 * [Откуда берутся новые понятия?](https://vk.com/video-6827569_456244982)
 * [Мир и Эрос. Антология философских текстов о любви](http://library.lol/main/479C05F6225312D743D8AD88F9B00CF2)
-* [b-ok.org/s/modern](https://b-ok.org/s/modern) critical thought        * [google.com/search?q=rebirth+in+the+history+of+ideas&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari](https://www.google.com/search?q=rebirth+in+the+history+of+ideas&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
+* [b-ok.org/s/modern](https://b-ok.org/s/modern) critical thought      * [google.com/search?q=rebirth+in+the+history+of+ideas&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari](https://www.google.com/search?q=rebirth+in+the+history+of+ideas&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
 * [google.com/search?q=intellectual+history+of+rebirth&client=safari&hl=it-us&biw=375&bih=553&prmd=ivsxn&sxsrf=AOaemvJ6WOH7s1KoncS6VOgIV6bUYVnyRg:1635306849763&source=lnms&sa=X&ved=0ahUKEwj5oYPf2OnzAhW4R_EDHZ3gDhEQ_AUIFSgA](https://www.google.com/search?q=intellectual+history+of+rebirth&client=safari&hl=it-us&biw=375&bih=553&prmd=ivsxn&sxsrf=AOaemvJ6WOH7s1KoncS6VOgIV6bUYVnyRg:1635306849763&source=lnms&sa=X&ved=0ahUKEwj5oYPf2OnzAhW4R_EDHZ3gDhEQ_AUIFSgA)
 * [google.com/search?q=search+philpaoers+for+rebirth+/+renaissance+/+resurrection&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari](https://www.google.com/search?q=search+philpaoers+for+rebirth+/+renaissance+/+resurrection&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
 * [Auf der Suche nach einer besseren Welt. Vorträge und Aufsätze aus dreißig Jahren](https://b-ok.cc/book/944387/dcf9fb)
@@ -5509,7 +5509,7 @@
 * [libgen.rs/search.php?&req=ethics+market&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](http://libgen.rs/search.php?&req=ethics+market&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 * [libgen.rs/search.php?&req=ethik&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](http://libgen.rs/search.php?&req=ethik&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 * [effectivealtruism.org/](https://www.effectivealtruism.org/)
-    * -> criticisms of effective altruism        * [svob vol](https://vk.com/wall-55155418_225517)
+  * -> criticisms of effective altruism      * [svob vol](https://vk.com/wall-55155418_225517)
 * [Dean Rickles - What Is Philosophy of Science?](http://libgen.rs/book/index.php?md5=BF20A9128D8D658D7B41618B3270FC40)
 * [christianitytoday.com/history/issues/issue-17/neglected-history-of-women-in-early-church.html](http://www.christianitytoday.com/history/issues/issue-17/neglected-history-of-women-in-early-church.html)
 * [answersingenesis.org/bible-questions/was-the-bible-simply-written-by-men/](https://answersingenesis.org/bible-questions/was-the-bible-simply-written-by-men/)
@@ -5612,7 +5612,7 @@
 * [nytimes.com/2016/05/11/opinion/if-philosophy-wont-diversify-lets-call-it-what-it-really-is.html?smid=fb-share&_r=0](https://www.nytimes.com/2016/05/11/opinion/if-philosophy-wont-diversify-lets-call-it-what-it-really-is.html?smid=fb-share&_r=0)
 * [theculturetrip.com/europe/united-kingdom/articles/top-10-living-philosophers/](https://theculturetrip.com/europe/united-kingdom/articles/top-10-living-philosophers/)
 * [fr.wikipedia.org/wiki/Histoire_de_la_philosophie](https://fr.wikipedia.org/wiki/Histoire_de_la_philosophie)
-    file:///Users/iriley/Google%20Drive/MICHEL%20ONFRAY%20-%20ANTIMANUEL%20DE%20PHILOSOPHIE%20(2001,%20BREAL).pdf        * [special.theoryandpractice.ru/einstein](https://special.theoryandpractice.ru/einstein)
+    file:///Users/iriley/Google%20Drive/MICHEL%20ONFRAY%20-%20ANTIMANUEL%20DE%20PHILOSOPHIE%20(2001,%20BREAL).pdf      * [special.theoryandpractice.ru/einstein](https://special.theoryandpractice.ru/einstein)
 * [monocler.ru/slow-life/](https://monocler.ru/slow-life/)
 * [monocler.ru/](https://monocler.ru/)
 * [newtonew.com/culture/kategoricheskiy-imperativ-kak-obshchatsya-drug-s-drugom](https://newtonew.com/culture/kategoricheskiy-imperativ-kak-obshchatsya-drug-s-drugom)
@@ -5636,7 +5636,7 @@
 * [chomsky.info/](https://chomsky.info/)
 * [truefreethinker.com/tag/mormon](http://www.truefreethinker.com/tag/mormon)
 * [video](https://www.youtube.com/user/PavlovaElen/playlists)
-    *         * [ordainwomen.org/searching-for-heavenly-mother/](http://ordainwomen.org/searching-for-heavenly-mother/)
+  *       * [ordainwomen.org/searching-for-heavenly-mother/](http://ordainwomen.org/searching-for-heavenly-mother/)
 * [churchhistorianspress.org/](https://www.churchhistorianspress.org/)
 * [philosophie.ch/willkommen/](http://www.philosophie.ch/willkommen/)
 * [naturalthinker.net/trl/index.html](http://www.naturalthinker.net/trl/index.html)
@@ -5648,7 +5648,7 @@
 * [solarisweb.at/auszug/gutboese.htm](http://www.solarisweb.at/auszug/gutboese.htm)
     When and where are ad hominem kinds of arguments appropriate (i.e. education and health policy where lawmakers won't subject themselves to their own policies)?
     Grosse Frage: Zweck des Lebens
-    in Bezug auf: Fortschritt, Gerechtigkeit, Rechtschaffenheit, Motivation        * [philologist.livejournal.com/7632628.html](http://philologist.livejournal.com/7632628.html)
+    in Bezug auf: Fortschritt, Gerechtigkeit, Rechtschaffenheit, Motivation      * [philologist.livejournal.com/7632628.html](http://philologist.livejournal.com/7632628.html)
 * [os.colta.ru/society/russia/details/15155/](http://os.colta.ru/society/russia/details/15155/)
 * [colta.ru/articles/specials/1274](http://www.colta.ru/articles/specials/1274)
 * [krytyka.com/ua/solutions/podcasts/video/dyskusiya-ukrayinski-intelektualy-y-mnozhynna-identychnist-ch11](https://krytyka.com/ua/solutions/podcasts/video/dyskusiya-ukrayinski-intelektualy-y-mnozhynna-identychnist-ch11)
@@ -5741,7 +5741,7 @@
 * [Анархизм (книги)](https://vk.com/wall-176520650_876)
 * {    philosophie de la science       } [stevemcintosh.com/](http://www.stevemcintosh.com/)
 * [researchrundowns.com/](https://researchrundowns.com/)
-    disenchanted lives, marshall brooks        * [La Isla de los Lotófagos - Club de Filosofía: La Grecia prefilosófica y los orígenes del pensamiento racional](https://lotofagos-island.blogspot.com/2011/09/la-grecia-prefilosofica-y-los-origenes.html?m=1&fbclid=IwAR0Zko1De1HLzQHXGd6OhvNDqXp5BgqRdYz4h_kv9s7YBSDBkVRRqKnyudA)
+    disenchanted lives, marshall brooks      * [La Isla de los Lotófagos - Club de Filosofía: La Grecia prefilosófica y los orígenes del pensamiento racional](https://lotofagos-island.blogspot.com/2011/09/la-grecia-prefilosofica-y-los-origenes.html?m=1&fbclid=IwAR0Zko1De1HLzQHXGd6OhvNDqXp5BgqRdYz4h_kv9s7YBSDBkVRRqKnyudA)
 * [ETH-Bibliothek / Gottfried Wilhelm von Leibniz philosophische Werke nach Raspens Sammlung](https://www.e-rara.ch/zut/collections/content/structure/8305133)
 * [Soziologische Klassiker/ Baudrillard, Jean – Wikibooks, Sammlung freier Lehr-, Sach- und Fachbücher](https://de.wikibooks.org/wiki/Soziologische_Klassiker/_Baudrillard,_Jean)
 * [Filosofskyi_entsyklopedychnyi_slovnyk.pdf](http://shron1.chtyvo.org.ua/Shynkaruk_Volodymyr/Filosofskyi_entsyklopedychnyi_slovnyk.pdf)
@@ -5762,7 +5762,7 @@
 * [Des jeux et des hommes | Berne Eric | download](https://b-ok.cc/book/4751012/f9751f)
 * [Life in the Universe: A Beginner's Guide | Lewis Dartnell | download](https://b-ok.cc/book/564765/c98b82)
 * [Каббала в контексте истории и современности: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/%D0%9A%D0%B0%D0%B1%D0%B1%D0%B0%D0%BB%D0%B0%20%D0%B2%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B5%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8%20%D0%B8%20%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8)
-* [**Trésor Educatif - YouTube](https://www.youtube.com/channel/UC6WgU2q9Bzh1PYTGEE_1ztg/playlists$1
+* [**Trésor Educatif - YouTube](https://www.youtube.com/channel/UC6WgU2q9Bzh1PYTGEE_1ztg/playlists)
 * [Sprachtheorie in der Literatur der hebräischen Kabbala | SpringerLink](https://link.springer.com/chapter/10.1007%2F978-3-476-03710-7_3)
 * [Kabbala – Wikipedia](https://de.wikipedia.org/wiki/Kabbala)
 * [Michael Laitman – Wikipedia](https://de.wikipedia.org/wiki/Michael_Laitman)
@@ -5800,7 +5800,7 @@
 * [Riccardo Manzotti - YouTube](https://www.youtube.com/results?search_query=Riccardo+Manzotti)
 * [Noam Chomsky's Language Theory: Best explanation you will ever hear (UGC NET English) - YouTube](https://www.youtube.com/watch?v=7fW_8bDGdX0)
     religion
-    a leer y ordenar / general        * [Glossary of Undue Influence](http://thoughtsonthingsandstuff.com/glossary-of-undue-influence/)
+    a leer y ordenar / general      * [Glossary of Undue Influence](http://thoughtsonthingsandstuff.com/glossary-of-undue-influence/)
 * [* Church changes](https://www.reddit.com/r/mormon/comments/6x3apz/ok_real_talk_here_joseph_smith_era_church_vs_lds/)
 * [2017 /r/ExMormon Demographic Survey](https://docs.google.com/forms/d/e/1FAIpQLSda74nQMthKCBUiAnzlAxTOkqcSnTUMmFgh_Zgj_YGvWEc_zQ/viewanalytics)
 * [40 Problems with Christianity – Friendly Atheist](http://www.patheos.com/blogs/friendlyatheist/2014/08/26/40-problems-with-christianity/)
@@ -5857,10 +5857,10 @@
 * [New Design for Mormon Helping Hands has Leaked! : exmormon](https://mm.reddit.com/r/exmormon/comments/6y5reg/new_design_for_mormon_helping_hands_has_leaked/)
 * [Your Hogwarts House, according to why and how you left the church : exmormon](https://www.reddit.com/r/exmormon/comments/6yrsq1/your_hogwarts_house_according_to_why_and_how_you/)
 * [‘Mormon Land’: 95 ways to improve the Mormon church — from new hymns to padded pews and letting girls pass the sacrament - The Salt Lake Tribune](https://www.sltrib.com/religion/local/2018/01/27/mormon-land-95-ways-to-improve-the-mormon-church-from-new-hymns-to-padded-pews-and-letting-girls-pass-the-sacrament/)
-* [ 40 Years a Mormon](https://40yrmormon.blogspot.com/$1
-* [ A Letter to an Apostle | Thirty-Six Interrogatories on Joseph Smith and the Mormon Narrative](https://lettertoanapostle.org/$1
-* [ Faith of a naturalist: response to &quot;Faith of a Science Teacher&quot; questions by bwv549 - Mormon Bandwagon](https://mormonbandwagon.com/bwv549/faith-naturalist-response-faith-science-teacher-questions/$1
-* [ Letter To My Wife.pdf - Google Drive](https://drive.google.com/file/d/0B18W3AgWXw6zMUllRW85bXc0RWc/view$1
+* [ 40 Years a Mormon](https://40yrmormon.blogspot.com/)
+* [ A Letter to an Apostle | Thirty-Six Interrogatories on Joseph Smith and the Mormon Narrative](https://lettertoanapostle.org/)
+* [ Faith of a naturalist: response to &quot;Faith of a Science Teacher&quot; questions by bwv549 - Mormon Bandwagon](https://mormonbandwagon.com/bwv549/faith-naturalist-response-faith-science-teacher-questions/)
+* [ Letter To My Wife.pdf - Google Drive](https://drive.google.com/file/d/0B18W3AgWXw6zMUllRW85bXc0RWc/view)
 * [ Questions to Ask by bwv549 - Mormon Bandwagon](https://mormonbandwagon.com/bwv549/questions-to-ask/)
 * [IV Helenismo 9 | El Gran Lebowski: ser feliz con poco | Epicureismo](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWt3mm9swYvw%26fbclid%3DIwAR0s65u29iR4mAPGb1RN5Threjem6-jnHwNdHkF_KFpNch07UsH_2LTka6A&h=AT0jFcbwSXQxJ0GMdOqhx7-KUkMLfokDZQJbcRRMbHurMVN8zcHt-u13TPzu_OfPgGIa6FwSKKZRZaWu99uIvyxPN1zdKU9R6xK3YrNpV5aHlo1EIPWolDgQSx44xeQHGWMz6O6skw)
     *[¿ES POSIBLE UNA ÉTICA QUE TODOS PODAMOS VIVIR?](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dp98f5i0rE6c%26fbclid%3DIwAR2IgTc2W21oNdeBp6HQuAUb9smYsCpwg-F4uj7SNFVaYJYyXFdb8eoi-PI&h=AT2FponEQ7nLnmWR3vpVXM7Qen_KmH0wyzEsYpKgvJBgmK9FLYoO_xSPpUwJMYNb5mgWzz4GVULZiK-7v9AkahBK__7XGoIMUvejWYthG4miwWJd671rkoC5mnCCawYCE-FMuNaTBw)*
@@ -5970,7 +5970,7 @@
 * [Н. Н. Талеб - "Рискуя собственной шкурой" - YouTube](https://www.youtube.com/playlist?list=PLcAsYSQWIgW07a8EyFjTC5EDJbKhxUTdK)
 * [Настоящее значение философских афоризмов](https://vk.com/away.php?to=https%3A%2F%2Farzamas.academy%2Fmaterials%2F1640)
 * [Ник Бостром. Рассуждение о Конце Света для начинаю (Алексей Турчин) / Проза.ру](https://www.proza.ru/2007/04/13-34)
-    Подавление индивидуальности сводит людей в человеческое стадо, как было в Темные Века Земли, когда христианская церковь фактически выполнила задачу Сатаны, озлобив и сделав убийцами множество людей… К несчастью, главная религиозная книга наиболее техничной и могущественной из прошлых цивилизаций — белой — была Библия, наполненная злом, предательством, племенной враждой и бесконечными убийствами… Для другой великой цивилизации прошлого — желтой — учение Конфуция породило безответную покорность обстоятельствам жизни…        * [ПОСТМОДЕРНИЗМ](https://vk.com/wall-6827569_21648)
+    Подавление индивидуальности сводит людей в человеческое стадо, как было в Темные Века Земли, когда христианская церковь фактически выполнила задачу Сатаны, озлобив и сделав убийцами множество людей… К несчастью, главная религиозная книга наиболее техничной и могущественной из прошлых цивилизаций — белой — была Библия, наполненная злом, предательством, племенной враждой и бесконечными убийствами… Для другой великой цивилизации прошлого — желтой — учение Конфуция породило безответную покорность обстоятельствам жизни…      * [ПОСТМОДЕРНИЗМ](https://vk.com/wall-6827569_21648)
 * [Проблемы христианства в контексте плюрализма философских воззрений на современном этапе | Humane - Гуманный](http://humane.net.ru/content/%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B-%D1%85%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B0-%D0%B2-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B5-%D0%BF%D0%BB%D1%8E%D1%80%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC%D0%B0-%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D1%81%D0%BA%D0%B8%D1%85-%D0%B2%D0%BE%D0%B7%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B9-%D0%BD%D0%B0-%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%BC-%D1%8D%D1%82%D0%B0%D0%BF%D0%B5)
 * [Революция искусственного интеллекта: на пути к сверхразуму](https://vk.com/@newochem-urban-ai-1)
 * {$1} [Сказ о науке и политике | LessWrong на русском](https://lesswrong.ru/w/%D0%A1%D0%BA%D0%B0%D0%B7_%D0%BE_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5_%D0%B8_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B5)
@@ -5992,18 +5992,18 @@
 * [evolution and sexism - Ecosia](https://www.ecosia.org/search?q=evolution+and+sexism)
 * [Fil nauki](https://vk.com/wall-154516093_17848)
 * [filosofia antropologica - YouTube](https://www.youtube.com/results?search_query=filosofia+antropologica)
-    Filosofía aquí y ahora - Foucault (I)de psicologia unmsm        * [Filosofia e nuovi sentieri | «Mi rappresento il vasto recinto delle scienze come una grande estensione di terreno disseminato di luoghi oscuri e illuminati. Lo scopo delle nostre fatiche deve essere quello di estendere i confini dei luoghi illuminati, op](https://filosofiaenuovisentieri.com/)
+    Filosofía aquí y ahora - Foucault (I)de psicologia unmsm      * [Filosofia e nuovi sentieri | «Mi rappresento il vasto recinto delle scienze come una grande estensione di terreno disseminato di luoghi oscuri e illuminati. Lo scopo delle nostre fatiche deve essere quello di estendere i confini dei luoghi illuminati, op](https://filosofiaenuovisentieri.com/)
 * [filosofía matemática](https://libgen.is/search.php?req=filosof%C3%ADa+matem%C3%A1tica&open=0&res=25&view=simple&phrase=1&column=def)
 * [Filosofía: Para aprender | Opinión | EL PAÍS](https://elpais.com/elpais/2016/12/16/opinion/1481903212_334629.html?id_externo_rsoc=FB_CM)
 * [filosofía!!!](https://mega.nz/#F!8ugSHSSB!4aQQvWfV38i7trjOabiTgw)
 * [filosofico.PDF](http://www.ousia.it/SitoOusia/SitoOusia/TestiDiFilosofia/TestiPDF/Voltaire/Dizionario.pdf)
 * [Gatsby: The Perfect Fake - John Gray - YouTube](https://www.youtube.com/watch?v=lIm_FbpGKvo)
-    O Valor da Liberdade - 4º episódio (John Gray)de ffmspt        * [Obsesje słynnych filozofów](https://youtu.be/CQm12LeNM_0)
+    O Valor da Liberdade - 4º episódio (John Gray)de ffmspt      * [Obsesje słynnych filozofów](https://youtu.be/CQm12LeNM_0)
 * [Charles Bukowski - Cultura para Principiantes - YouTube](https://www.youtube.com/watch?v=q68q92Zlw-o)
 * [CIENCIA, FILOSOFIA E IDEOLOGIA. Enfoques materialistas - YouTube](https://www.youtube.com/watch?v=_tSzxHWohPc&feature=share)
 * [Derrida et la question de l'animal | Cairn.info](https://www.cairn.info/revue-cites-2007-2-page-31.htm)
 * [Descrédito de la profecía | Edición impresa | EL PAÍS](https://elpais.com/diario/2009/05/02/babelia/1241221156_850215.html)
-    Development as Freedom by Amartya Sen.        * [5 BOOKS ETHICS](https://www.google.com/search?q=five+books+ethics&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
+    Development as Freedom by Amartya Sen.      * [5 BOOKS ETHICS](https://www.google.com/search?q=five+books+ethics&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
 * [Рябов Петр Владимирович | VK](https://vk.com/ryabovpetrvladimirovich)
 * [Рябов, Пётр Владимирович (философ) — Википедия](https://ru.wikipedia.org/wiki/%D0%A0%D1%8F%D0%B1%D0%BE%D0%B2,_%D0%9F%D1%91%D1%82%D1%80_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84))
 * [Alfred_Rozenberg_quot_Mif_dvadtsatogo_veka_quot.pdf](https://vk.com/doc30601958_458195376?hash=e626a54ed43de1235a&dl=b0a670bd57bd3ae610)
@@ -6124,7 +6124,7 @@
 * [🔷 Meditaciones Metafísicas DESCARTES | 😈 El DIABLO de verdad existe | Marcos Represas - YouTube](https://www.youtube.com/watch?v=rHb6K7PA0Nk&t=1s)
 * {    1s       } [Abtreibung - Zwischen Recht, Moral und Verantwortung | Let's Denk #28 - YouTube](https://www.youtube.com/watch?v=KgBh9JCfa7s)
 * [Advertising Ethics - YouTube](https://www.youtube.com/watch?v=uRyNxNAYIuc)
-    Die Phänomenologie - Philosophie - ARTE - YouTube        * [FONCTIONNALISME EVOLUTIONNISTE : Journal des Économistes et des Études Humaines](https://www.degruyter.com/view/j/jeeh.1990.1.issue-1/jeeh-1990-0109/jeeh-1990-0109.xml)
+    Die Phänomenologie - Philosophie - ARTE - YouTube      * [FONCTIONNALISME EVOLUTIONNISTE : Journal des Économistes et des Études Humaines](https://www.degruyter.com/view/j/jeeh.1990.1.issue-1/jeeh-1990-0109/jeeh-1990-0109.xml)
 * [Hipátia de Alexandria, a grande mestra - YouTube](https://www.youtube.com/watch?v=iA7gNwyTeRk)
 * [Hipátia de Alexandria, feminismo e liberdade de expressão - YouTube](https://www.youtube.com/watch?v=sWPQJpfUL0s&feature=youtu.be)
 * [chomsky.info/20101026/](https://chomsky.info/20101026/)
@@ -6135,13 +6135,13 @@
 * [video](https://www.youtube.com/results?search_query=filosofia+y+videojuegos)
 * [video](https://www.youtube.com/results?search_query=Henk+de+Berg)
 * [Introduction Philosophie](https://www.youtube.com/watch?v=BHiCBlPuIXo&list=PLes0Xd1U1KcwnOdnje2oN00yrKxk2WCdh)
-    Ist unsere Realität nur eine Illusion - YouTube        * [PHILOSOPHE - 14 La justice - YouTube](https://www.youtube.com/watch?v=l57riZ06klQ&list=PL42fKMlnBoa8NmVeLZm41lH2bpkAWMice)
+    Ist unsere Realität nur eine Illusion - YouTube      * [PHILOSOPHE - 14 La justice - YouTube](https://www.youtube.com/watch?v=l57riZ06klQ&list=PL42fKMlnBoa8NmVeLZm41lH2bpkAWMice)
 * [Tomás García López - Papel, presente, lugar y porvenir de la filosofía - YouTube](https://www.youtube.com/watch?v=1ctKL_KAACE&feature=share)
-    Философия постмодернизма - YouTube        * [Что такое метамодернизм и зачем нам это знать?](https://vk.com/@newochem-metamodern)
+    Философия постмодернизма - YouTube      * [Что такое метамодернизм и зачем нам это знать?](https://vk.com/@newochem-metamodern)
 * [ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D1%82%D0%BE%D1%80,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9A%D0%B0%D1%80%D0%BB%D0%BE%D0%B2%D0%B8%D1%87](https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D1%82%D0%BE%D1%80,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9A%D0%B0%D1%80%D0%BB%D0%BE%D0%B2%D0%B8%D1%87)
 * [Nieuw Licht #1: Bas Heijne over onbehagen, lust en freud (alle fragmenten) - YouTube](https://www.youtube.com/watch?v=iNcfIX1Q2es)
 * [? Hierarchie und Anarchie – BERG. Blog](http://blog.berg-kommunikation.de/hierarchie-und-anarchie/)
-    ¿Tiene sentido la vida?de CdeCiencia        * [[PHILO] LE STOÏCISME avec Charles Robin - YouTube](https://www.youtube.com/watch?v=Oy9Os7rvLds)
+    ¿Tiene sentido la vida?de CdeCiencia      * [[PHILO] LE STOÏCISME avec Charles Robin - YouTube](https://www.youtube.com/watch?v=Oy9Os7rvLds)
 * [[Vidéo] &quot;Les hommes sont devenus des dieux, mais des dieux irresponsables&quot;, selon l&#39;auteur Yuval Noah Harari](https://www.usinenouvelle.com/editorial/video-les-hommes-sont-devenus-des-dieux-mais-des-dieux-irresponsables-selon-l-auteur-yuval-noah-harari.N596683)
 * [&quot;Dark Enlightenment&quot;: The neo-fascist philosophy that underpins both the alt-right and Silicon Valley technophiles — Quartz](https://qz.com/1007144/the-neo-fascist-philosophy-that-underpins-both-the-alt-right-and-silicon-valley-technophiles/)
 * Reading (5)
@@ -6291,7 +6291,7 @@
 * [My Philosophy of Life](http://philosofer123.wordpress.com/)
 * [Jochen Kirchhoff - YouTube](https://www.youtube.com/user/missiontoplatoscave)
 * [Jochen Kirchhoff (Philosoph) – Wikipedia](https://de.wikipedia.org/wiki/Jochen_Kirchhoff_(Philosoph))
-    JSTOR Series: The Philosophy of Popular Culture    * [Ken Wilber](https://es.wikipedia.org/wiki/Ken_Wilber)
+    JSTOR Series: The Philosophy of Popular Culture  * [Ken Wilber](https://es.wikipedia.org/wiki/Ken_Wilber)
 * [L'actualité de la philosophie | Cairn.info](https://www.cairn.info/revue-tumultes-2001-2-page-153.htm)
 * [L'éditorial du « Monde des livres » : pourquoi Derrida est-il moins lu ?](http://www.lemonde.fr/livres/video/2014/10/17/l-editorial-du-monde-des-livres-pourquoi-derrida-est-il-moins-lu_4508272_3260.html)
 * [L'être et le néant selon Sartre - 1000 idées de culture générale1000 idées de culture générale](https://1000-idees-de-culture-generale.fr/etre-neant-sartre/)
@@ -6320,7 +6320,7 @@
 * [LINGUAGEM, EXPRESSÃO E METAFÍSICA: FILOSOFIA DA LINGUAGEM EM WALTER BENJAMIN | Diante de espelhos: imaginários, cultura e sociedade](https://diantedeespelhos.blogspot.com/2020/02/linguagem-expressao-e-metafisica.html?fbclid=IwAR1F4Mv2R6ttDKa1uoJBilS4dxjvprZPzCDYTeA1iCFcKV79TWwIuAgWn5o)
 * [Literatur zur Philosophie und ihrem Studium – OKAPI](http://okapi.uni-frankfurt.de/index.php/Literatur_zur_Philosophie_und_ihrem_Studium)
 * [Livre audio : La vie des Hommes Infâmes de Michel Foucault, lu par Lou-Hélène - YouTube](https://www.youtube.com/watch?v=kU-21hNo3ng)
-    Mal gemein, mal wundervoll | beziehungsweise    * [MARÍA ZAMBRANO FILÓSOFA ESPAÑOLA - YouTube](https://www.youtube.com/watch?v=enkUdZGnLIA)
+    Mal gemein, mal wundervoll | beziehungsweise  * [MARÍA ZAMBRANO FILÓSOFA ESPAÑOLA - YouTube](https://www.youtube.com/watch?v=enkUdZGnLIA)
 * [María Zambrano: el diálogo poético con la filosofía - YouTube](https://www.youtube.com/watch?v=flwQaqVuQVI)
 * [Marina Garcés, filósofa y ensayista española, abre el Hay Festival Cartagena - YouTube](https://www.youtube.com/watch?v=hxeNxg3nPdM)
 * [Marlène Zarader // Heidegger et la Mort - YouTube](https://www.youtube.com/watch?v=Su_kpX__kPg&fbclid=IwAR2YjeF2KBlZSyLX10IVT0Z6n6sC-Wh-iay95-0ejFV3kh9Am1M3LH9jTss)
@@ -6359,7 +6359,7 @@
 * [Pourquoi se disputer sur le sens des mots ? | Grain de philo #25 - YouTube](https://www.youtube.com/watch?v=ayyrtMdPyi4)
 * [Pragmatismus - Vicipaedia](https://la.wikipedia.org/wiki/Pragmatismus)
 * [Pragmatismus.pdf](https://user.phil.hhu.de/~petersen/WiSe1415_InfowiColl/Pragmatismus.pdf)
-    Propaganda Terms in the Media and What They Mean - Noam Chomskyde The Film Archives    * [Protectionnisme vs libre-échangisme : le nouveau clivage politique ? | Listen Notes](https://www.listennotes.com/podcasts/linvit%C3%A9-des-matins/protectionnisme-vs-libre-VcFuL5t38WJ/)
+    Propaganda Terms in the Media and What They Mean - Noam Chomskyde The Film Archives  * [Protectionnisme vs libre-échangisme : le nouveau clivage politique ? | Listen Notes](https://www.listennotes.com/podcasts/linvit%C3%A9-des-matins/protectionnisme-vs-libre-VcFuL5t38WJ/)
 * [Qu'est-ce que la civilisation ? – Charles Maurras](http://maurras.net/textes/108.html)
 * [Qu’est-ce qu’une civilisation ? Tentative d’analyse historique d’une notion contemporaine (1/3) | Le Club de Mediapart](https://blogs.mediapart.fr/simon-vacheron/blog/200212/qu-est-ce-qu-une-civilisation-tentative-d-analyse-historique-d-une-notion-contemporaine-13)
 * [Que sait-on vraiment de la réalité !? - YouTube](https://www.youtube.com/results?search_query=Que+sait-on+vraiment+de+la+r%C3%A9alit%C3%A9+%21%3F+)
@@ -6367,7 +6367,7 @@
 * [Redistribution (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/redistribution/)
 * [Reducing Animal Suffering](http://www.aboutanimaltesting.co.uk/reducing-animal-suffering.html)
 * [Religion: Truth & Belief | Philosophy Tube](https://youtu.be/fJZ8ib93vSk)
-    Rolf Dobelli | Denkfehler und die Grenzen des Wissens (NZZ Standpunkte 2016)de NZZ Standpunkte    * [She Wants to Keep the Baby! (Abortion, Feminism, & Fathers' Rights) | Philosophy Tube - YouTube](https://www.youtube.com/watch?v=YZzI5D84cd4)
+    Rolf Dobelli | Denkfehler und die Grenzen des Wissens (NZZ Standpunkte 2016)de NZZ Standpunkte  * [She Wants to Keep the Baby! (Abortion, Feminism, & Fathers' Rights) | Philosophy Tube - YouTube](https://www.youtube.com/watch?v=YZzI5D84cd4)
 * [Six Ideas From Eastern Philosophy - YouTube](https://www.youtube.com/watch?v=5yZ8a_zAEl0&list=PLwxNMb28XmpeUL1vz9Su7OmeghBDgmj7X)
 * [Storia della Filosofia - YouTube](https://www.youtube.com/playlist?list=PLDMI901pu0aGV5p7yr2-OMEJt4NJhaHIW)
 * [Sturm und Drang I musstewissen Deutsch - YouTube](https://www.youtube.com/watch?v=BZPpVMx6OD4&list=PLWAsBNcn45uip2FxSBp2qzWwzRZTOu5Qb)
@@ -6380,7 +6380,7 @@
 * [The Biology of Good and Evil (with Robert Sapolsky)](https://www.youtube.com/watch?v=kNLOJ-3rL60)
 * [The Computational Theory of Mind (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/computational-mind/)
 * [The Description, Philosophies and Justification of Satanism](http://www.dpjs.co.uk/satanism.html)
-    THE FACTORY WORKER'S PHILOSOPHY - DICKSON - 1936 - The Sociological Review - Wiley Online Library    * [The future ethics of advertising and mind invasion - YouTube](https://www.youtube.com/watch?v=0GI1FJiSWhw)
+    THE FACTORY WORKER'S PHILOSOPHY - DICKSON - 1936 - The Sociological Review - Wiley Online Library  * [The future ethics of advertising and mind invasion - YouTube](https://www.youtube.com/watch?v=0GI1FJiSWhw)
 * [The History Of Western Philosophy - YouTube](https://www.youtube.com/playlist?p=PL6BE82595ACD1864A)
 * [The Intellectual Fraudulence of Jordan Peterson (apropos of Daniel Karasik) | Alexander Offord](http://alexanderofford.com/the-intellectual-fraudulence-of-jordan-peterson-apropos-of-daniel-karasik/)
 * [The Map Of Philosophy](https://www.youtube.com/watch?v=YxBShJU_CKs)
@@ -6629,33 +6629,33 @@
     Why Honor Matters | Robert Wright and Tamler Sommers [The Wright Show]
     Lass dich verführen! | Streetphilosophy | ARTE
     Л.Н. Толстой. Кратко
-    Philosoph Richard David Precht - Jung & Live #16        * [Was Stärke über Macht verrät – philosophisch betrachtet | Gert Scobel](https://www.youtube.com/watch?v=feOD-7BH6ww&list=WL&index=1309)
+    Philosoph Richard David Precht - Jung & Live #16      * [Was Stärke über Macht verrät – philosophisch betrachtet | Gert Scobel](https://www.youtube.com/watch?v=feOD-7BH6ww&list=WL&index=1309)
 * [Modernism vs Postmodernism | Unemployed Philosopher](https://www.youtube.com/watch?v=TM-OaHSvyYk&list=WL&index=1321)
 * [Nada es lo que parece (extracto filosófico de Jean Baudrillard)](https://www.youtube.com/watch?v=nZ1aQS0dTlw&list=WL&index=1331)
 * [Introduction to Diogenes the Cynic](https://www.youtube.com/watch?v=o2ctYfy7-Ec&list=WL&index=1367)
 * [Entretien avec Michel Onfray](https://www.youtube.com/watch?v=eWW_2V5DdHk&list=WL&index=239)
     Comment devenir soi-même ? LGQ
     Pourquoi ne rit-on pas de tout ? - Le Coup de Phil' #29
-    Êtes-vous vraiment heureux ?        * [Как читать книги по философии.](https://www.youtube.com/watch?v=CMd8ivJsLyo&list=WL&index=516)
+    Êtes-vous vraiment heureux ?      * [Как читать книги по философии.](https://www.youtube.com/watch?v=CMd8ivJsLyo&list=WL&index=516)
 * [Festivaletteratura 2016 - Intervista a Massimo Pigliucci](https://www.youtube.com/watch?v=L1Wu2tmyjmU&list=WL&index=550)
 * [Explication : La Boétie et la liberté](https://www.youtube.com/watch?v=NxqnBWg6Mac&list=WL&index=1462)
 * [Wissenschaftstheorie 6.6: Bas van Fraassen: Konstruktiver Empirismus. Prof. Dr. Torsten Wilholt](https://www.youtube.com/watch?v=sM_C2ToVexU&list=WL&index=554)
 * [Otto e mezzo - Vita di uno stoico (Puntata 03/06/2017)](https://www.youtube.com/watch?v=yiJcoaL7_vw&list=WL&index=548)
 * [Realismo y anti realismo](https://www.youtube.com/watch?v=4Vs3OqQv0LM&list=WL&index=555)
-    🔴 Serata su Bertrand Russell        * [The Unexpected Hanging Paradox](https://www.youtube.com/watch?v=EPOXhFJsqlM&list=WL&index=1401)
+    🔴 Serata su Bertrand Russell      * [The Unexpected Hanging Paradox](https://www.youtube.com/watch?v=EPOXhFJsqlM&list=WL&index=1401)
 * [El Efecto Pigmalión](https://www.youtube.com/watch?v=4aN5TbGW5JA&list=WL&index=1409)
 * [L' Interview : Michel Onfray - Stupéfiant !](https://www.youtube.com/watch?v=He9GrKo2g7M&list=WL&index=463)
     Why good people do bad things | Einar Øverenget | TEDxOslo
-    TEDx Hogeschool Utrecht - Tamler Sommers - Los límites de los argumentos morales        * [Martha Nussbaum on Upheavals of Thought - The John Adams Institute](https://www.youtube.com/watch?v=sH_onsTfYsQ&list=WL&index=361)
+    TEDx Hogeschool Utrecht - Tamler Sommers - Los límites de los argumentos morales      * [Martha Nussbaum on Upheavals of Thought - The John Adams Institute](https://www.youtube.com/watch?v=sH_onsTfYsQ&list=WL&index=361)
 * [Rick Roderick on Heidegger - The Rejection of Humanism [full length]](https://www.youtube.com/watch?v=sDqDJJcJAOg&list=WL&index=492)
     Partially Examined Life #93: Freedom and Responsibility (Strawson vs. Strawson)
     Interview de Philippe Descola à propos de son livre "Par delà nature et culture"
-    Швейцарские философы. Выступление Нассима Талеба        * [What is enough? MIZI Nadjib - WikiStage Jijel](https://www.youtube.com/watch?v=93VatsYl1t0&list=WL&index=295)
+    Швейцарские философы. Выступление Нассима Талеба      * [What is enough? MIZI Nadjib - WikiStage Jijel](https://www.youtube.com/watch?v=93VatsYl1t0&list=WL&index=295)
 * [Mark Zuckerberg y Yuval Noah Harari en conversación.](https://www.youtube.com/watch?v=Boj9eD0Wug8&list=WL&index=614)
 * Reading (7)
 * [Виды общения (аудио)](https://vk.com/wall-6827569_28066)
 * [Закон Йеркса-Додсона](https://vk.com/@philosophia_club-zakon-ierksa-dodsona)
-    "Обитатели земной планеты находятся ещё в таком состоянии нелепости, неразумия, тупости, что каждый день читаешь в газетах рассуждения правителей народов о том, с кем и как надо соединиться для того, чтобы воевать с другими народами, сами же народы при этом позволяют своим руководителям располагать ими, как скотом, ведомым на бойню, как будто жизнь каждого человека не есть его личная собственность. || Обитатели нашей планеты все еще воспитаны в убеждении, что есть народы, границы, знамёна, и что всё это гораздо важнее сознания человечности. Правда, что если бы мыслящие люди сумели согласиться, — это положение изменилось бы, так как лично никто не желает войны. Но дело в том, что в каждом государстве существуют ещё миллионы дармоедов, которым нужна война и которые без войны не могли бы продолжать быть дармоедами. Вот эти-то дармоеды и мешают мыслящим людям согласиться перестать участвовать во взаимном убийстве". || Лев Толстой        * [# 26. Какие книги учат мыслить и как их читать: пятнадцать работ, дающих точку входа в философию](https://vk.com/@apostils-26)
+    "Обитатели земной планеты находятся ещё в таком состоянии нелепости, неразумия, тупости, что каждый день читаешь в газетах рассуждения правителей народов о том, с кем и как надо соединиться для того, чтобы воевать с другими народами, сами же народы при этом позволяют своим руководителям располагать ими, как скотом, ведомым на бойню, как будто жизнь каждого человека не есть его личная собственность. || Обитатели нашей планеты все еще воспитаны в убеждении, что есть народы, границы, знамёна, и что всё это гораздо важнее сознания человечности. Правда, что если бы мыслящие люди сумели согласиться, — это положение изменилось бы, так как лично никто не желает войны. Но дело в том, что в каждом государстве существуют ещё миллионы дармоедов, которым нужна война и которые без войны не могли бы продолжать быть дармоедами. Вот эти-то дармоеды и мешают мыслящим людям согласиться перестать участвовать во взаимном убийстве". || Лев Толстой      * [# 26. Какие книги учат мыслить и как их читать: пятнадцать работ, дающих точку входа в философию](https://vk.com/@apostils-26)
 * [Five essays on the timely theme of truth and current challenges to it.](https://vk.com/wall-84750475_612)
 * [b-ok.cc/s/Susan%20Blackmore](https://b-ok.cc/s/Susan%20Blackmore)
 * [philosophynow.org/issues/102/The_Shawshank_Redemption](https://philosophynow.org/issues/102/The_Shawshank_Redemption)
@@ -6665,7 +6665,7 @@
 * [What are the human needs? - Buscar con Google](https://www.google.com/search?q=What+are+the+human+needs%3F&rlz=1C5CHFA_enUS753US753&oq=What+are+the+human+needs%3F&aqs=chrome..69i57j0l5.10484j1j4&sourceid=chrome&ie=UTF-8)
 * [swisseduc.ch/altphilo/griech/gintlekt/anfang.html#Item_2](http://www.swisseduc.ch/altphilo/griech/gintlekt/anfang.html#Item_2)
 * [Project MUSE - Spinoza’s Language](https://muse.jhu.edu/article/550263)
-    Book & thought        * [Quelques grammes de philo | &quot;Pourquoi liker ? &quot; et autres questions philosophiques de la vie quotidienne](http://blog.letudiant.fr/gilles-vervisch/)
+    Book & thought      * [Quelques grammes de philo | &quot;Pourquoi liker ? &quot; et autres questions philosophiques de la vie quotidienne](http://blog.letudiant.fr/gilles-vervisch/)
 * [Ethical Systems | Philosophical Explorations](http://braungardt.trialectics.com/philosophy/topics/ethical-systems/)
 * [Top 100 Public Intellectuals Poll : definition of Top 100 Public Intellectuals Poll and synonyms of Top 100 Public Intellectuals Poll (English)
 * [Постфилософия. Три парадигмы в истории мысли | Александр Дугин](http://dugin.ru/book/postfilosofiya-tri-paradigmy-v-istorii-mysli)
@@ -6679,7 +6679,7 @@
 * [alnam.ru/](http://alnam.ru/)
 * [informationphilosopher.com/freedom/history/](http://www.informationphilosopher.com/freedom/history/)
 * [Groundbreaking new material 'could allow artificial intelligence to merge with the human brain' | The Independent](https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-brain-computer-cyborg-elon-musk-neuralink-a9673261.html)
-    Book idea: How to Be Unethical        * [Philosophy T-Shirts | Redbubble](https://www.redbubble.com/shop/philosophy+t-shirts%20        [redbubble.com/shop/philosophy+t-shirts?gclid=Cj0KCQjw9pDpBRCkARIsAOzRzivi_33Ytq8_HvTAXZAX-N3xfCFvAIrYZb5aZUcsHbLMcs_eYMEbXLEaAqNaEALw_wcB)](https://www.redbubble.com/shop/philosophy+t-shirts?gclid=Cj0KCQjw9pDpBRCkARIsAOzRzivi_33Ytq8_HvTAXZAX-N3xfCFvAIrYZb5aZUcsHbLMcs_eYMEbXLEaAqNaEALw_wcB))
+    Book idea: How to Be Unethical      * [Philosophy T-Shirts | Redbubble](https://www.redbubble.com/shop/philosophy+t-shirts%20        [redbubble.com/shop/philosophy+t-shirts?gclid=Cj0KCQjw9pDpBRCkARIsAOzRzivi_33Ytq8_HvTAXZAX-N3xfCFvAIrYZb5aZUcsHbLMcs_eYMEbXLEaAqNaEALw_wcB)](https://www.redbubble.com/shop/philosophy+t-shirts?gclid=Cj0KCQjw9pDpBRCkARIsAOzRzivi_33Ytq8_HvTAXZAX-N3xfCFvAIrYZb5aZUcsHbLMcs_eYMEbXLEaAqNaEALw_wcB))
     epistemologische interdependenz
 * {$1} [jairoflorezsuarez.wixsite.com/filosofiapdf](https://jairoflorezsuarez.wixsite.com/filosofiapdf)
 * [Купить книгу Философия языка. Очерки истории](http://wordorder.ru/catalog-ru/filologiya/lingvistika/filosofiya-yazyka.-ocherki-istorii/)
@@ -6766,7 +6766,7 @@
 * {    Quelque Grammes de Philo       } [theoatmeal.com/comics/believe](http://theoatmeal.com/comics/believe)
 * [eleternoestudiante.com/libros-historia-grecia-roma-pdf/](http://eleternoestudiante.com/libros-historia-grecia-roma-pdf/)
 * [libertadypensamiento.com/2017/09/libros-de-filosofia-en-pdf-para-descargar-gratis.html?m=1](http://www.libertadypensamiento.com/2017/09/libros-de-filosofia-en-pdf-para-descargar-gratis.html?m=1)
-    (Tr)oppressé        * [video](https://www.youtube.com/playlist?list=PLSoP62RB3ymnt6ct60SF-2ZsSpC_Mbrjv)
+    (Tr)oppressé      * [video](https://www.youtube.com/playlist?list=PLSoP62RB3ymnt6ct60SF-2ZsSpC_Mbrjv)
 * [Coursera - Introduction to Philosophy](https://www.coursera.org/learn/philosophy/home/welcome)
 * [Coursera - Le Bien, le Juste, l'Utile](https://www.coursera.org/learn/ethique/home/welcome)
 * [Coursera - Основы философии: о чем спорят философы сегодня](https://www.coursera.org/learn/osnovy-filosofii/home/welcome)
@@ -6791,9 +6791,9 @@
 * [Massimo Pigliucci Italian](https://www.youtube.com/results?search_query=Massimo+Pigliucci+italiano)
 * [Max Tegmark interview svenska](https://www.youtube.com/results?search_query=max+tegmark+interview+svenska)
 * [Предмет и спецификация философии](https://www.youtube.com/watch?v=ZZJnNUqU5tw)
-* [**Library Genesis: Kai Peter Denker - Topologie der Kontrolle? Mathematisierbarkeit mit Deleuze](https://libgen.is/book/index.php?md5=7B64FD6926413FF5785A32E122D8834C$1
+* [**Library Genesis: Kai Peter Denker - Topologie der Kontrolle? Mathematisierbarkeit mit Deleuze](https://libgen.is/book/index.php?md5=7B64FD6926413FF5785A32E122D8834C)
 * [**Иммануил Кант — Сочинения на немецком и русском языках](https://vk.com/wall-30268849_1556)
-    analysis of craig vs carroll - Cerca con Google        * [CONFUCIUS – La Grande Étude (FR) - YouTube](https://www.youtube.com/watch?v=tR_oQN2YkA8&list=PLXRGGLyzzHHA_QIdiJiP932qCB7eh2Xgk)
+    analysis of craig vs carroll - Cerca con Google      * [CONFUCIUS – La Grande Étude (FR) - YouTube](https://www.youtube.com/watch?v=tR_oQN2YkA8&list=PLXRGGLyzzHHA_QIdiJiP932qCB7eh2Xgk)
 * [Fab Lab: La revolución de los conocimientos. | Trinidad Gómez | TEDxCancún - YouTube](https://www.youtube.com/watch?v=8SzxEM1gAkA)
 * [FILOSOFÍA - David Hume - YouTube](https://www.youtube.com/watch?v=HS52H_CqZLE)
 * [Filosofia aplicada: Liberdade, felicidade e 25 de Abril - YouTube](https://www.youtube.com/watch?v=GedPyWP-mQ0&t=1s&fbclid=IwAR1fb0KqzJxAGtZkSoSor86qFGnWFCJWXEhVRgX9aRHDeWbdJpAmjCo9lNE)
@@ -6816,7 +6816,7 @@
 * [O que é Filosofia? - Toda Matéria](https://www.todamateria.com.br/o-que-e-filosofia/)
 * [O QUE É O TEMPO? - YouTube](https://www.youtube.com/watch?v=akvhD9BVL0c&feature=youtu.be)
     Ökonomie contra Philosophie mit Richard David Prechtde Kosake van Ze
-    On the Relationship Between Science and Humanities, John Grayde Copernicus Center for Interdisciplinary Studies        * [Ordinary people seem not to realize that those who really apply themselves in the right way to philosophy are directly and of their own accord preparing themselves for dying and death. - Socrates - BrainyQuote](https://www.brainyquote.com/quotes/socrates_402550)
+    On the Relationship Between Science and Humanities, John Grayde Copernicus Center for Interdisciplinary Studies      * [Ordinary people seem not to realize that those who really apply themselves in the right way to philosophy are directly and of their own accord preparing themselves for dying and death. - Socrates - BrainyQuote](https://www.brainyquote.com/quotes/socrates_402550)
 * [Overcoming the Apathy Induced by the Current Irrelevance of Philosophy on JSTOR](https://www.jstor.org/stable/25670247?seq=1#page_scan_tab_contents)
 * [Panfleto materialista. La Filosofía](https://books.google.com/books?id=TB9VAwAAQBAJ&printsec=frontcover&hl=es&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
 * [Parmênides – História da Filosofia Ocidental – Reflexão Analítica](https://reflexaoanalitica.wordpress.com/2018/03/09/parmenides-historia-da-filosofia-ocidental/)
@@ -6824,10 +6824,10 @@
 * [Pedro Insua - Dialéctica y revolución](https://www.youtube.com/watch?v=vfJzmhaldMM&feature=share)
 * [Philosophie - Woher kommt das Neue?](https://vk.com/doc448658071_460362015?hash=2ca15166e5ece74827&dl=127f79365087ab3614)
 * [Pourquoi pas tous des bisounours ? - morale #3 - YouTube](https://www.youtube.com/watch?v=XY1PUQ4NOuU)
-    S. R. C. Hicks - Explaining Postmodernism: Skepticism and Socialism from Rousseau to Foucault        * [The Philosophy of Spinoza & Leibniz - YouTube](https://www.youtube.com/watch?v=SxGuoyxyKMA)
+    S. R. C. Hicks - Explaining Postmodernism: Skepticism and Socialism from Rousseau to Foucault      * [The Philosophy of Spinoza & Leibniz - YouTube](https://www.youtube.com/watch?v=SxGuoyxyKMA)
 * [The Physics : Aristotle : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/aristotle_physics/page/n5)
 * [The Principle of Non-Contradiction | Philosophy Resurrection](https://philosophyresurrection.wordpress.com/2017/11/26/the-principle-of-non-contradiction/)
-    The Privilege Of Existential Guilt – The Establishment        * [The Quietus | Features | Tome On The Range | Myth Congeniality: John Gray Interviewed](http://thequietus.com/articles/12496-john-gray-silence-of-animals-interview)
+    The Privilege Of Existential Guilt – The Establishment      * [The Quietus | Features | Tome On The Range | Myth Congeniality: John Gray Interviewed](http://thequietus.com/articles/12496-john-gray-silence-of-animals-interview)
 * [The relentless honesty of Ludwig Wittgenstein | Ian Ground](https://www.the-tls.co.uk/articles/public/ludwig-wittgenstein-honesty-ground/?CMP=Sprkr-_-Editorial-_-TimesLiterarySupplement-_-ArtsandCulture-_-JustTextandlink-_-Statement-_-Unspecified-_-FBPAGE)
 * [The Roots of Romanticism - Lasting Effects (Isaiah Berlin) - YouTube](https://www.youtube.com/watch?v=0snaamkYDcg)
 * [the-stem-people-is-emotional-pain-worse-than-physical-pain.pdf](https://oxfest.files.wordpress.com/2016/04/the-stem-people-is-emotional-pain-worse-than-physical-pain.pdf)
@@ -6840,14 +6840,14 @@
 * [Vol. 17 - anno 2008 - Fascicolo 1 | Acta Philosophica](http://www.actaphilosophica.it/en/issue-2008-1)
 * [Warum brauchen wir noch heute oder gerade heute Philosophie?](https://www.thur.de/philo/tanja/philo.htm)
 * [Warum gibt es eine Welt? Fragen an die Philosophie](http://www.hg-klug.de/relphil/warum/warum.html)
-    Was bewegt Menschen dazu, schlecht zu sein?        * [Was ist der Mensch? : stadtrevue.de](http://www.stadtrevue.de/archiv/artikelarchiv/2504-was-ist-der-mensch/)
+    Was bewegt Menschen dazu, schlecht zu sein?      * [Was ist der Mensch? : stadtrevue.de](http://www.stadtrevue.de/archiv/artikelarchiv/2504-was-ist-der-mensch/)
 * [Was ist eigentlich Ethik? -](http://www.3sat.de/page/?source=/philosophie/159959/index.html)
 * [Was ist eigentlich Pragmatismus? -](https://www.3sat.de/page/?source=/philosophie/169992/index.html)
 * [Was ist ein Naturgesetz? - Planckton](http://blogs.faz.net/planckton/2018/03/02/was-ist-ein-naturgesetz-1748/)
 * [Wenn das Wörtchen «wenn» nicht wär ... | ethos Magazin](http://ethos.ch/blog/wenn-das-w%C3%B6rtchen-%C2%ABwenn%C2%BB-nicht-w%C3%A4r)
 * [What are the different types of ethical systems? | Reference.com](https://www.reference.com/world-view/different-types-ethical-systems-849b5729e068ebc2)
     What philosophy books and papers do you constantly return to and why? : askphilosophy
-    Why isn't utilitarianism more popular? : askphilosophy        * [Why You Should Prosper Even Though There's Suffering in the World](https://tinybuddha.com/blog/why-you-should-prosper-even-though-theres-suffering-in-the-world/)
+    Why isn't utilitarianism more popular? : askphilosophy      * [Why You Should Prosper Even Though There's Suffering in the World](https://tinybuddha.com/blog/why-you-should-prosper-even-though-theres-suffering-in-the-world/)
 * [William E. Seager - Department of Philosophy - University of Toronto](http://philosophy.utoronto.ca/directory/william-e-seager/)
 * [Works by John Gray - PhilPapers](https://philpapers.org/s/John%20Gray)
 * [WOZU HEUTE NOCH PHILOSOPHIE? - DER SPIEGEL 43/1969](http://www.spiegel.de/spiegel/print/d-45520624.html)
@@ -6862,20 +6862,20 @@
 * [Женщины-мыслители, мнения и взгляды](http://www.tebyan.net/index.aspx?pid=66427)
 * [THE DETERMINISM AND FREEDOM PHILOSOPHY WEBSITE](http://www.ucl.ac.uk/~uctytho/dfwIntroIndex.htm)
 * [Epoch-making Eratosthenes](http://shot.holycross.edu/courses/Time/S10/pdfs/Moller.pdf)
-    Geschichte der Philosophie (4): Aristoteles (Fortsetzung), Prof. Dr. Torsten Wilholt - YouTube        * [Los orígenes del pensamiento filosófico. Los filósofos presocráticos - YouTube](https://www.youtube.com/watch?v=EgQJhP8GB1c)
+    Geschichte der Philosophie (4): Aristoteles (Fortsetzung), Prof. Dr. Torsten Wilholt - YouTube      * [Los orígenes del pensamiento filosófico. Los filósofos presocráticos - YouTube](https://www.youtube.com/watch?v=EgQJhP8GB1c)
 * [Les exercices spirituels antiques et l’héritage de Pierre Hadot 1/8 - YouTube](https://www.youtube.com/watch?v=h8UYutTaY0A&list=PLmoGGuHQ4XYsDPKTlRNz7VF3BgfAkLNyT)
 * [Pierre Bayle - Wikipedia](https://en.wikipedia.org/wiki/Pierre_Bayle)
     Made to Stick (Chip Heath)
 * [George Carlin - Euphemisms - YouTube](https://www.youtube.com/watch?v=vuEQixrBKCc)
 * [George Carlin on gays - YouTube](https://www.youtube.com/watch?v=VjVeWvdogMw)
 * [George Carlin on some cultural issues. - YouTube](https://www.youtube.com/watch?v=YLuZjpxmsZQ)
-    George Carlin: The Illusion Of Choice - YouTube        * [wired.com/2011/04/ff_humorcode/](http://www.wired.com/2011/04/ff_humorcode/)
+    George Carlin: The Illusion Of Choice - YouTube      * [wired.com/2011/04/ff_humorcode/](http://www.wired.com/2011/04/ff_humorcode/)
 * [Acta Philosophica: Rivista Internazionale di Filosofia - PhilPapers](https://philpapers.org/pub/5795)
 * [Epoché (ἐποχή)](https://epochemagazine.org/)
 * [tomasabraham.com.ar/](http://www.tomasabraham.com.ar/)
-    tensiones filofóficas, tomas abrahám        * [b-ok.cc/s/anthony%20weston](https://b-ok.cc/s/anthony%20weston)
+    tensiones filofóficas, tomas abrahám      * [b-ok.cc/s/anthony%20weston](https://b-ok.cc/s/anthony%20weston)
 * [Анатолий Карлин](https://akarlin.ru/start/)
-    Філософія музики - YouTube        * [Douleurs physiques, douleurs morales](http://www.martinwinckler.com/spip.php?article1022)
+    Філософія музики - YouTube      * [Douleurs physiques, douleurs morales](http://www.martinwinckler.com/spip.php?article1022)
 * [Pain and Philosophy of the Mind](https://s3.amazonaws.com/rdcms-iasp/files/production/public/Content/ContentFolders/Publications2/PainClinicalUpdates/Archives/PCU07-5_1390262983927_12.pdf)
 * [Quel dolore che nessuno ascolta](http://www.cosmopolitan.it/benessere-salute/prevenzione/suggerimenti/a111195/dolore-femminile-nessuno-ascolta/)
 * [Simona Di Nitto, Il dolore fisico nella riflessione filosofica (Dialegesthai)](https://mondodomani.org/dialegesthai/sdn01.htm)
@@ -6895,7 +6895,7 @@
 * [Habiter l'espace - Habiter le temps - S'habiter soi-même - YouTube](https://www.youtube.com/watch?v=-C7FTSPTMAk)
 * [L'eredità della scuola di Francoforte - YouTube](https://www.youtube.com/watch?v=JDo9ighqfhw)
 * [Le libéralisme politique de John Rawls - Politikon #1 - YouTube](https://www.youtube.com/watch?v=xqfB844lV4k)
-    *  [r/Feminism/comments/166i8a/a_short_introduction_to_feminist_movements/](https://www.reddit.com/r/Feminism/comments/166i8a/a_short_introduction_to_feminist_movements/)
+  *  [r/Feminism/comments/166i8a/a_short_introduction_to_feminist_movements/](https://www.reddit.com/r/Feminism/comments/166i8a/a_short_introduction_to_feminist_movements/)
 * [Современный анархизм, соотношение теории и практики (критический взгляд) - AKRATEIA](https://akrateia.info/sovremennyi-anarkhizm-sootnoshenie-teorii-i-praktiki-kriticheskii-vzgliad/)
 * [Les idées mènent le monde #18 - La pensée politique de Jean-François Lisée - YouTube](https://www.youtube.com/watch?v=SZIjLouFxvA)
 * [opuscules.fr/wp-content/uploads/2015/06/OP20_MytheProgr%C3%A8s_JB.pdf](http://www.opuscules.fr/wp-content/uploads/2015/06/OP20_MytheProgr%C3%A8s_JB.pdf)
@@ -6909,7 +6909,7 @@
     Что значит "Оруэлловский"? [TED-ED]de In Cor Cadit
 * Reading (9)
 * [teachings of the Buddha - books](https://libgen.is/search.php?req=teachings+of+the+buddha&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
-    do animals have free will?        * [Wie einzigartig ist der Mensch?: Die lange Evolution der Gehirne und des Geistes](https://b-ok.cc/book/4241737/b18b67)
+    do animals have free will?      * [Wie einzigartig ist der Mensch?: Die lange Evolution der Gehirne und des Geistes](https://b-ok.cc/book/4241737/b18b67)
 * [psychologytoday.com/us/blog/theory-knowledge/201306/virtue-and-the-four-types-character](https://www.psychologytoday.com/us/blog/theory-knowledge/201306/virtue-and-the-four-types-character)
 * [Gerechtigkeit](https://www.spektrum.de/lexikon/philosophie/gerechtigkeit/793)
 * {    Nationalsozialistische Ideologie und Ethik       } [Ling & filo](https://vk.com/wall-6827569_23952)
@@ -6927,7 +6927,7 @@
 * [Gaidar - Русский либерализм](http://gaidar.center/)
 * [Буддизм](https://vk.com/wall-6827569_21538)
 * [TAOÍSMO | El arte de la no acción](https://www.youtube.com/watch?v=tLAZvESoVgI&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=112)
-    TAOÍSMO | La Filosofía de Flujo        * [Antisemitismo: un análisis](https://www.youtube.com/watch?v=KAFbpWVO-ow&list=WL&index=1371&t=167s)
+    TAOÍSMO | La Filosofía de Flujo      * [Antisemitismo: un análisis](https://www.youtube.com/watch?v=KAFbpWVO-ow&list=WL&index=1371&t=167s)
 * [Anand Giridharadas: How bias actually works at MSNBC, New York Times](https://www.youtube.com/watch?v=11WDbwZfiw8&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=113)
 * {    Daoismus       } [The Philosophy of The Good Place – Wisecrack Edition](https://www.youtube.com/watch?v=stHk4_VePds&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=13)
 * [2 - Brève histoire du féminisme](https://www.youtube.com/watch?v=wSDcog4-gig&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=71)
@@ -7027,14 +7027,14 @@
 * [wisdoms.ru/avt/b222.html](http://www.wisdoms.ru/avt/b222.html)
 * [it.wikipedia.org/wiki/Alain_Finkielkraut](https://it.wikipedia.org/wiki/Alain_Finkielkraut)
 * [Платон. КРАТИЛ](http://psylib.org.ua/books/plato01/18krati.htm)
-    Why is it that so many philosophy students tend to be marxists while most economics students seem to not take him seriously? : askphilosophy        * [Are Soas students right to ‘decolonise’ their minds from western philosophers? | Education | The Guardian](https://www.theguardian.com/education/2017/feb/19/soas-philosopy-decolonise-our-minds-enlightenment-white-european-kenan-malik)
+    Why is it that so many philosophy students tend to be marxists while most economics students seem to not take him seriously? : askphilosophy      * [Are Soas students right to ‘decolonise’ their minds from western philosophers? | Education | The Guardian](https://www.theguardian.com/education/2017/feb/19/soas-philosopy-decolonise-our-minds-enlightenment-white-european-kenan-malik)
 * [Эго туннель — наука о сознании и миф о самом себе](https://www.livelib.ru/work/1001236966/reviews-ego-tunnel-nauka-o-soznanii-i-mif-o-samom-sebe-tomas-mettsinger)
 * [Philosophie/Conscience — Wikilivres](https://fr.wikibooks.org/wiki/Philosophie/Conscience)
 * [philipphuebl.com/](http://philipphuebl.com/)
 * [karenswallowprior.com/](https://karenswallowprior.com/)
 * [Peut-on être communiste et objectif, par Usul - YouTube](https://www.youtube.com/watch?v=h_u8J1bAZ5Q)
-* [PhiloLog](https://www.philolog.fr/$1
-* [PhiloLog](https://www.philolog.fr/$1
+* [PhiloLog](https://www.philolog.fr/)
+* [PhiloLog](https://www.philolog.fr/)
 * [**Philosophie.ch - Logique formelle](https://www.philosophie.ch/fr/philosophie-fr/domaines/philosophie-theorique/logique)
 * [Chemins de Philosophie - Blog de Daniel Guillon-Legeay - Mine de rien, ce blog se propose de développer une approche philosophique sur diverses questions, en prenant appui sur la philosophie bien entendu, mais aussi sur le cinéma, la littérature, les c](http://chemins-de-philosophie.over-blog.com/)
 * [Chemins de Philosophie - Blog de Daniel Guillon-Legeay - Mine de rien, ce blog se propose de développer une approche philosophique sur diverses questions, en prenant appui sur la philosophie bien entendu, mais aussi sur le cinéma, la littérature, les c](http://chemins-de-philosophie.over-blog.com/)
@@ -7052,7 +7052,7 @@
 * [opednews.com/articles/Jonathan-Haidt-on-the-Righ-by-Thomas-Farrell-120321-348.html](https://www.opednews.com/articles/Jonathan-Haidt-on-the-Righ-by-Thomas-Farrell-120321-348.html)
 * [thenewatlantis.com/publications/the-evolutionary-ethics-of-e-o-wilson](https://www.thenewatlantis.com/publications/the-evolutionary-ethics-of-e-o-wilson)
 * [video](https://www.youtube.com/watch?v=nYDdsgDmS-w)
-    Sind Kriege gerecht? - Schülervideo - YouTube        * [Tischner Debate - On Liberalism - YouTube](https://www.youtube.com/watch?v=K0D1RMwo9go)
+    Sind Kriege gerecht? - Schülervideo - YouTube      * [Tischner Debate - On Liberalism - YouTube](https://www.youtube.com/watch?v=K0D1RMwo9go)
 * [What do conservatives get wrong about abortion?](https://www.google.com/search?q=what+do+conservatives+get+wrong+about+abortion&rlz=1CDGOYI_enUS835US835&oq=what+do+conservatives+get+wrong+about+abortion&aqs=chrome..69i57.9430j0j4&hl=it&sourceid=chrome-mobile&ie=UTF-8#ip=1)
 * [What Money Can't Buy](https://www.aeaweb.org/articles?id=10.1257/jep.27.4.121)
 * [What Was Liberalism? #1 Ideology & Violence | Philosophy Tube - YouTube](https://www.youtube.com/watch?v=VlLgvSduugI)
@@ -7108,7 +7108,7 @@
 * [Western Civilization: Ideas, Politics, and Society, Volume II: From 1600 | Marvin Perry, Margaret Jacob, James Jacob, Myrna Chase, Theodore H. Von Laue | download](https://b-ok.cc/book/1163404/3a8410)
 * [Western Civilization: Ideas, Politics, and Society: Since 1400 | Marvin Perry, Margaret Jacob, James Jacob, Myrna Chase, Theodore H. Von Laue | download](https://b-ok.cc/book/2086054/759631)
 * [sociologyofbeauty.nl/](https://www.sociologyofbeauty.nl/)
-* IAI        * [Work and play](https://iai.us4.list-manage.com/track/click?u=5498751378b600bac07540f91&id=f7704c1336&e=c2b5e608e5)
+* IAI      * [Work and play](https://iai.us4.list-manage.com/track/click?u=5498751378b600bac07540f91&id=f7704c1336&e=c2b5e608e5)
 * [Do we still need morality?](https://iai.us4.list-manage.com/track/click?u=5498751378b600bac07540f91&id=e9e6d6cb17&e=c2b5e608e5)
 * [Fully automated luxury communism](https://iai.us4.list-manage.com/track/click?u=5498751378b600bac07540f91&id=0c9c427ebc&e=c2b5e608e5)
 * [A new model for mental health treatment](https://iai.us4.list-manage.com/track/click?u=5498751378b600bac07540f91&id=351fa88849&e=c2b5e608e5)
@@ -7178,7 +7178,7 @@
 * [iai.tv/articles/why-sexual-morality-does-not-exist-auid-1212](https://iai.tv/articles/why-sexual-morality-does-not-exist-auid-1212)
 * [iai.tv/articles/should-i-kill-myself-or-have-a-cup-of-coffee-the-stoics-and-existentialists-agree-on-the-answer-auid-924](https://iai.tv/articles/should-i-kill-myself-or-have-a-cup-of-coffee-the-stoics-and-existentialists-agree-on-the-answer-auid-924)
 * [iai.tv/articles/hobbes-vs-rousseau-are-we-inherently-evil-or-good-auid-1221](https://iai.tv/articles/hobbes-vs-rousseau-are-we-inherently-evil-or-good-auid-1221)
-* Abortion        * [currentaffairs.org/2018/08/abortion-and-the-left](https://www.currentaffairs.org/2018/08/abortion-and-the-left)
+* Abortion      * [currentaffairs.org/2018/08/abortion-and-the-left](https://www.currentaffairs.org/2018/08/abortion-and-the-left)
 * [firstthings.com/web-exclusives/2019/11/why-john-bel-edwards-wins](https://www.firstthings.com/web-exclusives/2019/11/why-john-bel-edwards-wins)
 * [firstthings.com/](https://www.firstthings.com/)
 * [latimes.com/opinion/op-ed/la-oe-day-and-camosy-democratic-platform-abortion-20160725-snap-story.html](https://www.latimes.com/opinion/op-ed/la-oe-day-and-camosy-democratic-platform-abortion-20160725-snap-story.html)
@@ -7209,7 +7209,7 @@
 * [pewforum.org/2008/09/30/abortion-laws-around-the-world/](https://www.pewforum.org/2008/09/30/abortion-laws-around-the-world/)
 * [Полемика вокруг проблемы аборта](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B5%D0%BC%D0%B8%D0%BA%D0%B0_%D0%B2%D0%BE%D0%BA%D1%80%D1%83%D0%B3_%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B_%D0%B0%D0%B1%D0%BE%D1%80%D1%82%D0%B0)
 * [utm.edu/staff/jfieser/class/300/5-abortion.htm](https://www.utm.edu/staff/jfieser/class/300/5-abortion.htm)
-* Video        * [Durf te Denken](https://www.youtube.com/playlist?list=PLEp-wqLXEURMt1Jati2pxe9BjNMNDzA0b)
+* Video      * [Durf te Denken](https://www.youtube.com/playlist?list=PLEp-wqLXEURMt1Jati2pxe9BjNMNDzA0b)
 * [Monsieur Phi](https://www.youtube.com/c/MonsieurPhi)
 * [filosofojoe](https://www.youtube.com/user/filosofojoe)
 * [Filosofie Magazine](https://www.youtube.com/user/filosofiemagazine)
@@ -7234,7 +7234,7 @@
 * [The Institute of Art and Ideas](https://www.youtube.com/user/IAITV)
 * [The School of Life](https://www.youtube.com/c/theschooloflifetv)
 * [Debatte Gott](https://www.youtube.com/watch?v=PHwWQyDxiAc)
-* Contre-histoire        * [Contre-histoire de la philosophie 1a](https://vk.com/wall-98831559_23)
+* Contre-histoire      * [Contre-histoire de la philosophie 1a](https://vk.com/wall-98831559_23)
 * [Contre-histoire de la philosophie 1b](https://vk.com/wall-98831559_40)
 * [Contre-histoire de la philosophie 1c](https://vk.com/wall-98831559_43)
 * [Contre-histoire de la philosophie 2a](https://vk.com/wall-98831559_44)
@@ -7294,7 +7294,7 @@
 * [Contre-histoire de la philosophie 20a](https://vk.com/wall-98831559_615)
 * [Contre-histoire de la philosophie 20b](https://vk.com/wall-98831559_617)
 * [Contre-histoire de la philosophie 20c](https://vk.com/wall-98831559_620)
-* Audio        * [litteratureaudio.com/livre-audio-gratuit-mp3/menard-louis-le-jour-des-morts-le-gouvernement-gratuit.html](http://www.litteratureaudio.com/livre-audio-gratuit-mp3/menard-louis-le-jour-des-morts-le-gouvernement-gratuit.html)
+* Audio      * [litteratureaudio.com/livre-audio-gratuit-mp3/menard-louis-le-jour-des-morts-le-gouvernement-gratuit.html](http://www.litteratureaudio.com/livre-audio-gratuit-mp3/menard-louis-le-jour-des-morts-le-gouvernement-gratuit.html)
 * [litteratureaudio.com/livre-audio-gratuit-mp3/hervieu-paul-diogene-le-chien.html](http://www.litteratureaudio.com/livre-audio-gratuit-mp3/hervieu-paul-diogene-le-chien.html)
 * [litteratureaudio.com/livre-audio-gratuit-mp3/chamfort-sebastien-roch-nicolas-de-caracteres-et-anecdotes-selection.html](http://www.litteratureaudio.com/livre-audio-gratuit-mp3/chamfort-sebastien-roch-nicolas-de-caracteres-et-anecdotes-selection.html)
 * [litteratureaudio.com/livre-audio-gratuit-mp3/menard-louis-lettre-dun-mythologue-a-un-naturaliste.html](http://www.litteratureaudio.com/livre-audio-gratuit-mp3/menard-louis-lettre-dun-mythologue-a-un-naturaliste.html)
@@ -7357,7 +7357,7 @@
 * [litteratureaudio.com/livre-audio-gratuit-mp3/littre-emile-%e2%80%93-pathologie-verbale-ou-lesions-de-certains-mots-dans-le-cours-de-lusage-oeuvre-integrale.html](http://www.litteratureaudio.com/livre-audio-gratuit-mp3/littre-emile-%e2%80%93-pathologie-verbale-ou-lesions-de-certains-mots-dans-le-cours-de-lusage-oeuvre-integrale.html)
 * [litteratureaudio.com/livre-audio-gratuit-mp3/abelard-pierre-lettre-a-un-ami.html](http://www.litteratureaudio.com/livre-audio-gratuit-mp3/abelard-pierre-lettre-a-un-ami.html)
 * [litteratureaudio.com/livres-audio-gratuits-mp3/tag/henri-bergson](http://www.litteratureaudio.com/livres-audio-gratuits-mp3/tag/henri-bergson)
-* Books        * [Il cristianesimo edonista. Controstoria della filosofia II [1 ed.]](http://libgen.is/book/index.php?md5=C0F4D223747A22E6CE8CC7FC8B2C07F1)
+* Books      * [Il cristianesimo edonista. Controstoria della filosofia II [1 ed.]](http://libgen.is/book/index.php?md5=C0F4D223747A22E6CE8CC7FC8B2C07F1)
 * [Il cristianesimo edonista. Controstoria della filosofia II [1 ed.]](http://libgen.is/book/index.php?md5=627667A721432CD585F8D9BF89FB9363)
 * [L'età dei libertini. Controstoria della filosofia III [1 ed.]](http://libgen.is/book/index.php?md5=0F1F79E259D4B8410A90634391AAEA32)
 * [L'età dei libertini. Controstoria della filosofia III [1 ed.]](http://libgen.is/book/index.php?md5=7B795BB11BACF962C1E3CA1746FECFC5)
@@ -7385,7 +7385,7 @@
 * {    Being No One   } [Bell Hooks books](https://libgen.is/search.php?&req=bell+hooks&phrase=0&view=simple&column=def&sort=language&sortmode=DESC)
 * [Business Ethics - A Philosophical and Behavioral Approach_Christian A. Conrad_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-91575-3)
 * [chinese philosophy](http://libgen.io/search.php?req=chinese+philosophy&open=0&res=25&view=simple&phrase=1&column=def)
-    Chomsky - Foucault. La naturaleza humana    * [Chris Hedges](https://libgen.is/search.php?&req=chris+hedges&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+    Chomsky - Foucault. La naturaleza humana  * [Chris Hedges](https://libgen.is/search.php?&req=chris+hedges&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 * [Communication and Bioethics at the End of Life_Lori A. Roscoe, David P. Schenck_1st ed. 2017](http://link.springer.com/openurl?genre=book&isbn=978-3-319-70920-8)
     Complete Idiot's Guide to Eastern Philosophy
     Contacto (Sagan)
@@ -7439,19 +7439,19 @@
 * [History of Philosophy](http://libgen.io/search.php?req=History+of+Philosophy+without+any+Gaps&open=0&res=25&view=simple&phrase=1&column=def)
 * [podium-arts.com/3084/luisterboek-ziel-aristoteles-a1/](https://www.podium-arts.com/3084/luisterboek-ziel-aristoteles-a1/)
 * [Human Nature and Conduct (Dewey)](https://vk.com/doc271638305_494628685?hash=5af71d488e62fbcc2e&dl=f98ca7cbac8be5f9e1)
-* [In viaggio con Leopardi. La partita sul destino dell'uom](http://library.lol/main/0E1EF614B3F53973370826E5F0EE578C)o    * [Introduction to Formal Philosophy_Sven Ove Hansson, Vincent F. Hendricks_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-77434-3)
+* [In viaggio con Leopardi. La partita sul destino dell'uom](http://library.lol/main/0E1EF614B3F53973370826E5F0EE578C)o  * [Introduction to Formal Philosophy_Sven Ove Hansson, Vincent F. Hendricks_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-77434-3)
 * [Johannes Hirschberger](https://b-ok.cc/g/Johannes%20Hirschberger)
 * [jürgen habermas](https://libgen.is/search.php?&req=j%C3%BCrgen+habermas&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=4)
 * [Justice for Hedgehogs](https://vk.com/doc-124948599_475093791?hash=19a1ed771a4ba320a8&dl=f0c1a00f77baf0d030)
     Kant - Metafisica Costumbres
     Klassiker des philosophischen Denkens 1
     Klassiker des philosophischen Denkens 2
-* {    La aventura de pensar   } [La bilancia. Pensieri sul nostro temp](http://library.lol/main/2CCAB3B0D4AFC36908B02C89A8FC8325)o    * [La crise de la conscience européenne](https://gallica.bnf.fr/ark:/12148/bpt6k932173z.image)
+* {    La aventura de pensar   } [La bilancia. Pensieri sul nostro temp](http://library.lol/main/2CCAB3B0D4AFC36908B02C89A8FC8325)o  * [La crise de la conscience européenne](https://gallica.bnf.fr/ark:/12148/bpt6k932173z.image)
 * [La Hélade: Historia del pensamiento | Jesús Mosterín | download](http://b-ok.cc/book/2553072/a8416b)
 * [la pensée](http://libgen.io/search.php?req=la+pens%C3%A9e&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 * [La pensée européenne au XVIIIe siècle de Montesquieu à Lessing](https://gallica.bnf.fr/ark:/12148/bpt6k96742694.texteImage)
     Leben 3.0
-    Lexikon der Sekten, Sondergruppen und Weltanschauungen    * [Libros del grupo Filosofía en español](https://www.facebook.com/groups/279472675583089/files/)
+    Lexikon der Sekten, Sondergruppen und Weltanschauungen  * [Libros del grupo Filosofía en español](https://www.facebook.com/groups/279472675583089/files/)
     Liebe. Ein unordentliches Gefühl
     Lob des Irrtums (Schaefer)
 * [Lógica de primer orden | Jesús Mosterín | download](http://b-ok.cc/book/2553070/d831d1)
@@ -7471,7 +7471,7 @@
 * [paul russell](https://libgen.is/search.php?&req=paul+russell&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 * [Pensamientos](https://vk.com/doc525831385_508634691?hash=07d9d2e495441dc839&dl=1240f3d2afc835dd99)
 * [peter sloterdijk](https://libgen.is/search.php?&req=peter+sloterdijk&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=2)
-    Petite philosophie de l'amour - Catherine Rambert    * [PhiloMag](https://vk.com/wall-154894262_1647)
+    Petite philosophie de l'amour - Catherine Rambert  * [PhiloMag](https://vk.com/wall-154894262_1647)
 * [Philosophical and Mathematical Logic_Harrie de Swart_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-030-03255-5)
 * [Philosophical Perspectives on Punishment](https://vk.com/doc-124948599_475093770?hash=9c908d9b04d9cb438d&dl=033a35ad566fd1598e)
 * {    Philosophie der Mathematik   } [Philosophie der Mythologie](https://vk.com/doc44301783_517373077?hash=e9d07ba540256424d2&dl=aeb71652c8042aecd3)
@@ -7489,7 +7489,7 @@
 * [Pigliucci](http://libgen.io/search.php?&req=Pigliucci&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
 * [Plato at the Googleplex](https://vk.com/doc464862457_459636433?hash=fa0aaacce4c5211839&dl=27a189a96ff5a0431b)
 * [Plato at the Googleplex: Why Philosophy Won&#39;t Go Away: Rebecca Goldstein: 9780307456724: Amazon.com: Books](https://www.amazon.com/Plato-Googleplex-Philosophy-Wont-Away/dp/0307456722/ref=la_B000APMI5A_1_1?s=books&ie=UTF8&qid=1521471399&sr=1-1)
-    Platon - lexique    * [Post-Truth (McIntyre)](https://vk.com/doc488576652_506840240?hash=79823d2faf568f5dce&dl=e0741442377d33c851)
+    Platon - lexique  * [Post-Truth (McIntyre)](https://vk.com/doc488576652_506840240?hash=79823d2faf568f5dce&dl=e0741442377d33c851)
 * [Postmodern Analysis](https://vk.com/doc35528094_497151580?hash=003a221043d37a0cf1&dl=b9994df4a31921a8af)
     Praktische Ethik (Singer)
     Principia Ethica (Moore)
@@ -7515,7 +7515,7 @@
 * [The Philosopher's Toolkit](http://www.tpsp-journal.kpu.zp.ua/)
 * [The Philosophy Book](https://vk.com/doc4605748_452021985?hash=580604f7bf509855e0&dl=1cdb0c58ad9e16b179)
     The Philosophy of Language
-* {    The Roman Search for Wisdom   } [The Sacred Balance: Rediscovering Our Place in Natur](http://library.lol/main/24A17C8D4A6093E91211152A523916F9)e    * [The Stone Reader. Modern Philosophy in 133 Arguments](https://vk.com/doc35528094_491035652?hash=e6b8c48bc63e1e7253&dl=704d5d491c230fd9fe)
+* {    The Roman Search for Wisdom   } [The Sacred Balance: Rediscovering Our Place in Natur](http://library.lol/main/24A17C8D4A6093E91211152A523916F9)e  * [The Stone Reader. Modern Philosophy in 133 Arguments](https://vk.com/doc35528094_491035652?hash=e6b8c48bc63e1e7253&dl=704d5d491c230fd9fe)
     The Texts of Early Greek Philosophy
 * {    Tiere Denken   } [TRADITIONS ET PHILOSOPHIE - Essai d'une anthropologie philosophique africaine, Aklesso Adji - livre, ebook, epub](http://www.editions-harmattan.fr/index.asp?navig=catalogue&obj=livre&no=29513&razSqlClone=1)
     Traktat über kritische Vernunft (Albert)
@@ -7524,7 +7524,7 @@
     Un punto azul pálido
 * {$1} [Universalis Dictionnaire de la Philosophie](https://b-ok.cc/book/2928833/0309ed)
 * [Vom Guten, Wahren, und Schönen](https://vk.com/doc505124243_505092464?hash=c015a97f6a66c8639a&dl=96451be1ccf0f7f554)
-    Wahrheit, Sprache und Geschichte    * [War Is a Force That Gives Us Meaning](https://vk.com/doc525831385_509368981?hash=15aa176bcc73a6fd72&dl=f0c5278b3c6dcd5a93)
+    Wahrheit, Sprache und Geschichte  * [War Is a Force That Gives Us Meaning](https://vk.com/doc525831385_509368981?hash=15aa176bcc73a6fd72&dl=f0c5278b3c6dcd5a93)
 * [Warum es die Welt nicht gibt](https://www.nationalreview.com/1999/05/non-fiction-100/)
 * [What Is This Thing Called Knowledge?](https://vk.com/doc35528094_491035654?hash=a1c495a349ff713d2c&dl=09ac186553f4e10d00)
 * {    When Breath Becomes Air   } [Where Good Ideas Come From](https://vk.com/doc4605748_467697196?hash=102c3fd705894f8dc8&dl=9dd356c73b029ed61d)
@@ -7580,7 +7580,7 @@
 * {$1} [The Knowledge Illusion](https://vk.com/doc44301783_507832899?hash=d28199183ae7ce3e50&dl=ee92b0a74281700f2a)
 * [The Nature of Scientific Knowledge_Kevin McCain_1st ed. 2016](http://link.springer.com/openurl?genre=book&isbn=978-3-319-33405-9)
 * [The Scientific Outlook](https://vk.com/doc522475633_512886802?hash=6a7770cdaafe25c21b&dl=a6b249350c58ed8bec)
-    Zu schön, um falsch zu sein. Über die Ästhetik in der Naturwissenschaft    * [(filo antro) langaney: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/langaney)
+    Zu schön, um falsch zu sein. Über die Ästhetik in der Naturwissenschaft  * [(filo antro) langaney: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/langaney)
 * [Вологодский философский клуб](https://vk.com/wall-169634550_3041)
 * [recent progress in consciousness research](https://www.google.com/search?q=recent+progress+in+consciousness+studies&rlz=1C5CHFA_enUS800US800&oq=recent+progress+in+consciousness+studies&aqs=chrome..69i57.8026j0j7&sourceid=chrome&ie=UTF-8)
 * [en.wikipedia.org/wiki/Russell_Kirk](https://en.wikipedia.org/wiki/Russell_Kirk)
@@ -7667,7 +7667,7 @@
 * [Animal Divino](http://www.helicon.es/pen/7848490.htm)
 * [Dicc de la Existencia](https://www.facebook.com/groups/279472675583089/898479190349098/)
 * [Los siete mitos de la conquista espanola.pdf - Google Drive](https://drive.google.com/file/d/1apUme799gQ6K_a-seYB-0Ydvzp9Jy9l-/view)
-* Blogs        * [Chomsky](https://chomsky.info/)
+* Blogs      * [Chomsky](https://chomsky.info/)
 * [Philosophia Perennis – Ein Blick auf die Welt mit von der philosophia perennis geschärften Augen](https://philosophia-perennis.at/)
 * [The Intellectual Landscape of the Westermarckian Circle – Research Project](http://westermarck-project.com/)
 * [**Home | 1FICINA](http://www.1ficina.com.br/)
@@ -7754,14 +7754,14 @@
 * [**fcalle](https://filosofialacalle.wixsite.com/fcalle/blog/)
 * [Denkfabrik für Humanismus und Aufklärung | GBS Koblenz](https://gbs-koblenz.de/stiftung.html)
 * [Institute of Art and Ideas | Home » IAI TV](https://iai.tv/)
-* Philosophers Unsorted        * [Martha Nussbaum, "The Monarchy of Fear" - YouTube](https://www.youtube.com/watch?v=rKPlhUuoT94)
+* Philosophers Unsorted      * [Martha Nussbaum, "The Monarchy of Fear" - YouTube](https://www.youtube.com/watch?v=rKPlhUuoT94)
 * [Michel Foucault : les mots et les choses. Préface (1966) - YouTube](https://www.youtube.com/watch?v=XdqFddXApc4)
 * [Peter Singer's Ethics - YouTube](https://www.youtube.com/watch?v=gVViICWs4dM)
 * [sloterdijk - YouTube](https://www.youtube.com/results?search_query=sloterdijk)
 * [Peter Sloterdijk - Kritik der zynischen Vernunft](https://libgen.is/book/index.php?md5=F32F29982184C353EC73E38E6463D8ED)
 * [Peter Sloterdijk: le bolle, l`animalità, l`utero - Rai Filosofia](http://www.filosofia.rai.it/articoli/peter-sloterdijk-le-bolle-lanimalit%C3%A0-lutero/31949/default.aspx)
 * [Peter Sloterdijk: Zur Lage der Welt – Sternstunde Philosophie | SRF Kultur - YouTube](https://www.youtube.com/watch?v=DHu2qzoZacg)
-    Peter Sloterdijk | Zerbricht unsere Gesellschaft? (NZZ Standpunkte 2013) - YouTube    * [Film For People - Peter Sloterdijk Interview - YouTube](https://www.youtube.com/watch?v=H31Q9C2n1TI)
+    Peter Sloterdijk | Zerbricht unsere Gesellschaft? (NZZ Standpunkte 2013) - YouTube  * [Film For People - Peter Sloterdijk Interview - YouTube](https://www.youtube.com/watch?v=H31Q9C2n1TI)
 * [émission cogito: Platon - YouTube](https://www.youtube.com/watch?v=yvat5p-CsBg&list=PLqRtWCEHGkbw-H8285DkC-9hpyDeBRPeN)
 * [Plato and the Poets - Existential Comics](http://existentialcomics.com/comic/233)
 * [La naturaleza del amor: De Platón a Lutero (volumen I) - Inving Singer | LECTURA y CULTURA SIN EGOÍSMO](http://www.lecturasinegoismo.com/2017/09/la-naturaleza-del-amor-de-platon-lutero_16.html)
@@ -7780,35 +7780,35 @@
 * [Jacques Derrida — Wikipédia](https://fr.wikipedia.org/wiki/Jacques_Derrida)
 * [Jacques Derrida : Entretien avec Laure Adler [1996] - YouTube](https://www.youtube.com/watch?v=3wBBimc7dKo)
 * [Richard David Precht im Gespräch mit Thomas Metzinger - YouTube](https://www.youtube.com/watch?v=BXJU_srHqA0)
-    Richard Feynman - The World from another point of viewde mrtp    * [Richard Rorty - Wikipedia](https://en.wikipedia.org/wiki/Richard_Rorty)
+    Richard Feynman - The World from another point of viewde mrtp  * [Richard Rorty - Wikipedia](https://en.wikipedia.org/wiki/Richard_Rorty)
     Robert J Asher (scientist - look for debates)
 * [RODRIGO MENCHÓN "Introducción al concepto de ideología de Slavoj Žižek" - YouTube](https://www.youtube.com/watch?v=bk9fSfHexXE)
 * [Rawls Teoria de la Justicia](https://www.youtube.com/watch?v=TxoT40y__u8)
 * [John Stuart Mill: higher happiness – TheTLS](https://www.the-tls.co.uk/articles/public/john-stuart-mill-higher-happiness/?CMP=Sprkr-_-Editorial-_-TimesLiterarySupplement-_-Unspecified-_-FBPAGE)
 * [Jordan Peterson & The Meaning of Life | Philosophy Tube - YouTube](https://www.youtube.com/watch?v=SEMB1Ky2n1E)
-    John Gray and the problem with Utopia - YouTube    * [John Gray en Bas Heijne bij Writers Unlimited The Series (9 maart 2015) - YouTube](https://www.youtube.com/watch?v=MTa-XZCKE08)
+    John Gray and the problem with Utopia - YouTube  * [John Gray en Bas Heijne bij Writers Unlimited The Series (9 maart 2015) - YouTube](https://www.youtube.com/watch?v=MTa-XZCKE08)
     Sam Harris Free Will Thought Experiment - YouTube
-    Sam Harris, Lawrence Krauss, Steven Pinker - Can Science Tell Us Right From Wrong? - YouTube    * [Sócrates, Platão, Aristóteles, Descartes e Rousseau - YouTube](https://www.youtube.com/watch?v=b6dCnMwmB0A)
+    Sam Harris, Lawrence Krauss, Steven Pinker - Can Science Tell Us Right From Wrong? - YouTube  * [Sócrates, Platão, Aristóteles, Descartes e Rousseau - YouTube](https://www.youtube.com/watch?v=b6dCnMwmB0A)
 * [The Silence of Animals&quot; with John Gray - YouTube](https://www.youtube.com/watch?v=L_2eT3v4D6Q)
-    The Soul of the Marionette with John Gray - YouTube    * [The Trouble with 'Freedom' - John Gray - YouTube](https://www.youtube.com/watch?v=Ligot4t8s3E&t=328s)
+    The Soul of the Marionette with John Gray - YouTube  * [The Trouble with 'Freedom' - John Gray - YouTube](https://www.youtube.com/watch?v=Ligot4t8s3E&t=328s)
 * [die philosophie des kant - YouTube](https://www.youtube.com/results?search_query=die+philosophie+des+kant)
-    Yuval Harari: Ein Historiker erzählt die Geschichte von morgen (SRF Sternstunde Philosophie) - YouTube    * [NL Kierkegaard](https://www.youtube.com/watch?v=tqYdLGCGzvs&t=79s)
+    Yuval Harari: Ein Historiker erzählt die Geschichte von morgen (SRF Sternstunde Philosophie) - YouTube  * [NL Kierkegaard](https://www.youtube.com/watch?v=tqYdLGCGzvs&t=79s)
 * [NL Nietzsche](https://www.youtube.com/watch?v=tcjDEJKo4MA&t=29s)
     Edmund Husserl - Der Vater der Phänomenologie - - YouTube
-    Expliquez-moi Derrida 1/4    * [TV CULT investiga Jacques Derrida - YouTube](https://www.youtube.com/watch?v=JstTXJMbb-0)
+    Expliquez-moi Derrida 1/4  * [TV CULT investiga Jacques Derrida - YouTube](https://www.youtube.com/watch?v=JstTXJMbb-0)
 * [Vis-à-vis - Peter Sloterdijk - YouTube](https://www.youtube.com/watch?v=bYx0akIA7_E)
-    Debate Noam Chomsky &amp; Michel Foucault - On human nature [Subtitled] - YouTube    * [Derrida, escritura y deconstrucción - YouTube](https://www.youtube.com/watch?v=u0VVGGrBSD0)
+    Debate Noam Chomsky &amp; Michel Foucault - On human nature [Subtitled] - YouTube  * [Derrida, escritura y deconstrucción - YouTube](https://www.youtube.com/watch?v=u0VVGGrBSD0)
 * [Expliquez-moi Derrida (1/4) : D’Alger à Paris](https://castbox.fm/vd/56374110)
-    Exclusive interview with Harvard philosophy professor Michael Sandel - YouTube    * [EL ARTE DE LA GUERRA DE SUN TZU- RESUMEN ANIMADO - YouTube](https://www.youtube.com/watch?v=raBbZ8vcBNk)
+    Exclusive interview with Harvard philosophy professor Michael Sandel - YouTube  * [EL ARTE DE LA GUERRA DE SUN TZU- RESUMEN ANIMADO - YouTube](https://www.youtube.com/watch?v=raBbZ8vcBNk)
 * [die philosophie des kant - YouTube](https://www.youtube.com/results?search_query=die+philosophie+des+kant)
-    Yuval Harari: Ein Historiker erzählt die Geschichte von morgen (SRF Sternstunde Philosophie) - YouTube    * [NL Kierkegaard](https://www.youtube.com/watch?v=tqYdLGCGzvs&t=79s)
+    Yuval Harari: Ein Historiker erzählt die Geschichte von morgen (SRF Sternstunde Philosophie) - YouTube  * [NL Kierkegaard](https://www.youtube.com/watch?v=tqYdLGCGzvs&t=79s)
 * [NL Nietzsche](https://www.youtube.com/watch?v=tcjDEJKo4MA&t=29s)
     Edmund Husserl - Der Vater der Phänomenologie - - YouTube
-    Expliquez-moi Derrida 1/4    * [TV CULT investiga Jacques Derrida - YouTube](https://www.youtube.com/watch?v=JstTXJMbb-0)
+    Expliquez-moi Derrida 1/4  * [TV CULT investiga Jacques Derrida - YouTube](https://www.youtube.com/watch?v=JstTXJMbb-0)
 * [Vis-à-vis - Peter Sloterdijk - YouTube](https://www.youtube.com/watch?v=bYx0akIA7_E)
-    Debate Noam Chomsky &amp; Michel Foucault - On human nature [Subtitled] - YouTube    * [Derrida, escritura y deconstrucción - YouTube](https://www.youtube.com/watch?v=u0VVGGrBSD0)
+    Debate Noam Chomsky &amp; Michel Foucault - On human nature [Subtitled] - YouTube  * [Derrida, escritura y deconstrucción - YouTube](https://www.youtube.com/watch?v=u0VVGGrBSD0)
 * [Expliquez-moi Derrida (1/4) : D’Alger à Paris](https://castbox.fm/vd/56374110)
-    Exclusive interview with Harvard philosophy professor Michael Sandel - YouTube    * [EL ARTE DE LA GUERRA DE SUN TZU- RESUMEN ANIMADO - YouTube](https://www.youtube.com/watch?v=raBbZ8vcBNk)
+    Exclusive interview with Harvard philosophy professor Michael Sandel - YouTube  * [EL ARTE DE LA GUERRA DE SUN TZU- RESUMEN ANIMADO - YouTube](https://www.youtube.com/watch?v=raBbZ8vcBNk)
 * {    Yuval Noah Harari   } [Yuval Noah Harari & Natalie Portman - YouTube](https://www.youtube.com/watch?v=87XFTJXH9sc)
 * [Гость Юваль Ной Харари. Познер. Выпуск от 24.06.2019 - YouTube](https://www.youtube.com/watch?v=cr2o6EWdq9A)
 * {    Amartya Sen   } [Book TV: Amartya Sen, &quot;The Idea of Justice&quot; - YouTube](https://www.youtube.com/watch?v=oObkriRKlJU)
@@ -7825,7 +7825,7 @@
 * {    Aldous Huxley   } [Maria Michela Sassi](https://www.youtube.com/results?search_query=Maria+Michela+Sassi)
     Josef Pieper
     Kurt Vonnegut
-    *  10 Contemporary Philosophers to Read Today    * [ЗМІСТ](http://library.nlu.edu.ua/POLN_TEXT/KOMPLEKS/KURS_1/kurs/5/001start.htm)
+  *  10 Contemporary Philosophers to Read Today  * [ЗМІСТ](http://library.nlu.edu.ua/POLN_TEXT/KOMPLEKS/KURS_1/kurs/5/001start.htm)
 * [Le top 20 des intellectuels publics du monde](https://www.alterinfo.net/Le-top-20-des-intellectuels-publics-du-monde_a21145.html)
 * [NS John Gray](https://www.newstatesman.com/writers/john_gray)
 * [[1308.1160] Coolhunting for the World&#39;s Thought Leaders](https://arxiv.org/abs/1308.1160)
@@ -7861,15 +7861,15 @@
 * [Noam Chomsky on Moral Relativism and Michel Foucault](https://www.youtube.com/watch?v=i63_kAw3WmE&list=WL&index=489)
 * [Martin Heidegger Interview with a Monk (English Subtitles)](https://www.youtube.com/watch?v=XcsBtl1SwuY&list=WL&index=493)
     Mark Lilla about Identity, Trump and Politics | TV-Talk | Sternstunde Philosophie | SRF Kultur
-    Stop blaming Aristotle for the excesses of 20th century analytical philosophy!    * [Sigmund Freud - Cultura para Principiantes](https://www.youtube.com/watch?v=y0cMloZKHoo&list=WL&index=1328)
+    Stop blaming Aristotle for the excesses of 20th century analytical philosophy!  * [Sigmund Freud - Cultura para Principiantes](https://www.youtube.com/watch?v=y0cMloZKHoo&list=WL&index=1328)
     Karl Marx - Philosophische Betrachtungen
-    Philosophie für Anfänger - Wittgenstein    * [Seneca - Das Leben ist kurz](https://www.youtube.com/watch?v=v4KJt3LgaOg&list=WL&index=1307)
+    Philosophie für Anfänger - Wittgenstein  * [Seneca - Das Leben ist kurz](https://www.youtube.com/watch?v=v4KJt3LgaOg&list=WL&index=1307)
 * [Christian Streich über sein Interview mit der New York Times: "Ich bin kein Philosoph"](https://www.youtube.com/watch?v=al37velGHHQ&list=WL&index=1402)
 * [ArendtKanal](https://www.youtube.com/user/arendtgaus)
     Michel Foucault parle de l'Archéologie du savoir au micro de France Culture, le 2 mai 1969
-    Baudrillard - La Disparition Du Monde Réel    * [Heidegger In Twelve Minutes](https://www.youtube.com/watch?v=A04RhtR0imY&list=WL&index=490)
+    Baudrillard - La Disparition Du Monde Réel  * [Heidegger In Twelve Minutes](https://www.youtube.com/watch?v=A04RhtR0imY&list=WL&index=490)
 * [🔴 Jean Baudrillard Hiperrealidad | Qué es la Realidad | FILOSOFIA](https://www.youtube.com/watch?v=vqEMdeS4MHU&list=WL&index=1330)
-    Hegel – wer ist der Jahrhundert-Philosoph? | Scobel    * [Rolf Dobelli | Denkfehler und die Grenzen des Wissens (NZZ Standpunkte 2016)](https://www.youtube.com/watch?v=MV7pBss4T6A&list=WL&index=90)
+    Hegel – wer ist der Jahrhundert-Philosoph? | Scobel  * [Rolf Dobelli | Denkfehler und die Grenzen des Wissens (NZZ Standpunkte 2016)](https://www.youtube.com/watch?v=MV7pBss4T6A&list=WL&index=90)
 * [O Valor da Liberdade - 4º episódio (John Gray)](https://www.youtube.com/watch?v=NrHAvwjLtXc&list=WL&index=93)
 * [Martha Nussbaum – Entrevista Exclusiva](https://www.youtube.com/watch?v=e3ssHUZIUfs&list=WL&index=360)
 * [La UNED en TVE-2 Serie: Voces del Pensamiento Tales de Mileto será el primero de una importante saga de pensadores jonios. Junto con Anaximandro y Anaxímenes, discípulos y depositarios de su legado, será uno de los principales representantes de la Escuela jónica o Escuela de Mileto. Participan: María Teresa Oñate y Zubía catedrática de Filosofía, UNED María Jesús Hermoso profesora Filosofía, Universidad de Valladolid José Luis Díaz Arroyo doctorando, UNED](https://www.facebook.com/franklin.quispecardenas.98/videos/639537080207774/)
@@ -7887,7 +7887,7 @@
 * [Conferencia de Jean Baudrillard / Conférence Jean Baudrillard (francés / français)](https://www.youtube.com/watch?v=QZYKKGqm9SY&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=109)
 * [“Caro Darwin, ti scrivo.” Tua, per sempre, la filosofia](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.gazzettafilosofica.net%2F2019-1%2Fmaggio%2Fcaro-darwin-ti-scrivo-tua-per-sempre-la-filosofia%2F%3Ffbclid%3DIwAR1gtFgcJ2PICx8ze4AB4oH1F9mhDe0RHaFEJyovZHGN5rhDuBtTEEVcbGw&h=AT399mc3CLKSnJ5Vl3AUKlxsGMkZqHEsecx39t1ZjN2Pbk9ZAUxCao3ZQNSEc2m8E_MOa1nmOP1VrpZhTdA7UfSvmuAl7pT78ZWmA0acIrrUHsl0ZouL_kAxLWOAvAqLK9UGUfdXcA)
     Immanuel Kant - Der Weltweise aus Königsberg
-    Philosophie erklärt: Was meint NIETZSCHE mit dem ÜBERMENSCH? - von Philosoph Dr. Christian Weilmeier    * [John Gray (philosopher) - Wikipedia](https://en.wikipedia.org/wiki/John_Gray_(philosopher)#cite_note-28)
+    Philosophie erklärt: Was meint NIETZSCHE mit dem ÜBERMENSCH? - von Philosoph Dr. Christian Weilmeier  * [John Gray (philosopher) - Wikipedia](https://en.wikipedia.org/wiki/John_Gray_(philosopher)#cite_note-28)
 * [Dr Jordan B Peterson, Professor of Psychology &amp; Clinical Psychologist](https://jordanbpeterson.com/)
 * [15. Spinoza II 17-18.m4a](https://www.dropbox.com/s/v422m1lv2gjkpo8/15.%20Spinoza%20II%2017-18.m4a?dl=0)
 * [Gustavo Bueno - Google Drive](https://drive.google.com/drive/folders/19MxxdGgdDkTKSxr2FzhSB1lW_LMM5Tlp)
@@ -7908,7 +7908,7 @@
 * [self-taught working-class philosophers - Buscar con Google](https://www.google.com/search?safe=active&rlz=1C1GGRV_enUS753US753&ei=bxIFWoHmK9j8jwP_452oCg&q=self-taught+working-class+philosophers&oq=self-taught+working-class+philosophers&gs_l=psy-ab.3...49961.52404.0.55809.14.14.0.0.0.0.131.1461.5j9.14.0....0...1.1.64.psy-ab..0.2.229...0i13i30k1j0i13i5i30k1j35i39k1.0.KVarXZBVsN0)
 * [ World’s Most Influential Thinkers Revealed - MIT Technology Review](https://www.technologyreview.com/s/518026/network-analysis-reveals-worlds-most-influential-thinkers/)
 * [Айрис Мёрдок - Поиск в Google](https://www.google.com/search?rlz=1C1GCEA_enUS828US828&q=%D0%90%D0%B9%D1%80%D0%B8%D1%81+%D0%9C%D1%91%D1%80%D0%B4%D0%BE%D0%BA&stick=H4sIAAAAAAAAAOOQU-LQz9U3SE9JL4ySzs0vLlFIzcvKr0xMyklVKMjIzMkvzi_ISC0qPsUIVmdimpQOZYK0nGLkAjGNzJLLivJOMXJClJhnJD9i9OUWePnjnrCUy6Q1J68x2nFxhacmOeYVlwPNEjLg4gosTS2qdM5JLC4WUuISkOLx8QwOiQ92dfX29HPXYJTi40IR4fnFKOmYnJxflJKZl65Qkq-QlJ-fXZSZX6KXnJ_7i4kj3tUvxDMkMn4Ss2tGSUlBsZW-PrIKfSMDQ1OgM_UNTPXTMstSddNK83ThvqvUBakt1q1MLdYtSk3MyanUBwAiOGfgFwEAAA&sa=X&ved=2ahUKEwjIztznx6rfAhVGHTQIHaASB34QxA0wAHoECAcQBw&biw=929&bih=932)
-* John Gray        * [John Gray - On the Relationship Between Science and Humanities | Listen Notes](https://www.listennotes.com/podcasts/intellectual-dark/john-gray-on-the-8TBjD6Msb0k/)
+* John Gray      * [John Gray - On the Relationship Between Science and Humanities | Listen Notes](https://www.listennotes.com/podcasts/intellectual-dark/john-gray-on-the-8TBjD6Msb0k/)
 * [John Gray - Science and Magic - YouTube](https://www.youtube.com/watch?v=Z-z9gSg1ZF8)
 * [John Gray - YouTube](https://www.youtube.com/watch?v=jDJCEn1jTGA)
 * [John Gray (philosopher) - Wikiquote](https://en.wikiquote.org/wiki/John_Gray_(philosopher))
@@ -7921,41 +7921,41 @@
 * [John Gray - Are Religion and the Marktes in conflict? | Listen Notes](https://www.listennotes.com/podcasts/intellectual-dark/john-gray-are-religion-and-Z3aT7zj4WpF/)
 * [The Perfect Human Being Series E05 - John Grays reality check of promising technologies - YouTube](https://www.youtube.com/watch?v=ft10Kx4Enos)
 * [Seven Types of Atheism with John Gray - YouTube](https://www.youtube.com/watch?v=yS1lJJca-fE)
-    Uncertain Minds: What an agnostic can believe - John Gray (Part One)de StPaulsLondon    * [Vision john gray philosopher - YouTube](https://www.youtube.com/playlist?list=PLS55yKSlincBNWP_DpTVIygveEOwYOH4I)
+    Uncertain Minds: What an agnostic can believe - John Gray (Part One)de StPaulsLondon  * [Vision john gray philosopher - YouTube](https://www.youtube.com/playlist?list=PLS55yKSlincBNWP_DpTVIygveEOwYOH4I)
 * [Review: Heresies by John Gray | Books | The Guardian](https://www.theguardian.com/books/2004/sep/04/highereducation.news)
 * [Against Safe Spaces - John Gray - YouTube](https://www.youtube.com/watch?v=DhaLgiZF5RY)
-    On Progress and Other Modern Myths&quot; by John Gray - YouTube    * [Converses a La Pedrera 2015. John Gray (Versió Original) - YouTube](https://www.youtube.com/watch?v=LNv3jENXPqM)
+    On Progress and Other Modern Myths&quot; by John Gray - YouTube  * [Converses a La Pedrera 2015. John Gray (Versió Original) - YouTube](https://www.youtube.com/watch?v=LNv3jENXPqM)
 * [[Readings] | Under Western Eyes, by John Gray | Harper's Magazine](https://harpers.org/archive/2015/01/under-western-eyes/)
 * [A conversation between John Gray and Yuval Noah Harari - Yuval Noah Harari](http://www.ynharari.com/a-conversation-between-john-gray-and-yuval-noah-harari/)
 * [15 Big Ideas From Straw Dogs And John Gray (The Philosopher) - Selfhacked](https://selfhacked.com/blog/review-straw-dogs-john-gray/)
 * ["The Soul of the Marionette" with John Gray - YouTube](https://www.youtube.com/watch?v=CON3BTnEURs)
 * [Believing in Reason is Childish - John Gray - YouTube](https://www.youtube.com/watch?v=EkZMLAbgSRU)
     Unknown Knowns - John Gray - YouTube
-    Why Humans Are Violent - John Gray - YouTube    * [The Trouble with 'Freedom' - John Gray - YouTube](https://www.youtube.com/watch?v=Ligot4t8s3E)
+    Why Humans Are Violent - John Gray - YouTube  * [The Trouble with 'Freedom' - John Gray - YouTube](https://www.youtube.com/watch?v=Ligot4t8s3E)
 * [Rocketmensch, &quot;The Soul of an Establishment Philosopher: On John Gray's The Soul of the Marionette&quot; | Counter-Currents Publishing](https://www.counter-currents.com/2017/05/the-soul-of-an-establishment-philosopher/)
 * [The truth about evil | John Gray | News | The Guardian](https://www.theguardian.com/news/2014/oct/21/-sp-the-truth-about-evil-john-gray)
 * [The Myth of Modernity - John Gray - YouTube](https://www.youtube.com/watch?v=_4Hvxmw0Nto)
 * [Mistaken Identities: The Conflict Over Culture, Class, Gender and Nation with Kwame Anthony Appiah and John Gray | Listen Notes](https://www.listennotes.com/podcasts/intelligence-squared/mistaken-identities-the-y4bFhBn_519/)
-* Michel Onfray        * [Michel Onfray - Brève Encyclopédie du Monde (France Culture) - Saison 01 &quot;Cosmos&quot; (2015-2016) - Michel Onfray](http://michel-onfray.over-blog.com/2016/07/michel-onfray-breve-encyclopedie-du-monde-saison-01-cosmos.html)
+* Michel Onfray      * [Michel Onfray - Brève Encyclopédie du Monde (France Culture) - Saison 01 &quot;Cosmos&quot; (2015-2016) - Michel Onfray](http://michel-onfray.over-blog.com/2016/07/michel-onfray-breve-encyclopedie-du-monde-saison-01-cosmos.html)
 * [Michel Onfray - Brève Encyclopédie du Monde (France Culture) - Saison 02 &quot;Cosmos&quot; (2017) - Michel Onfray](http://michel-onfray.over-blog.com/2017/07/michel-onfray-breve-encyclopedie-du-monde-france-culture-saison-02-cosmos-2017.html)
 * [Michel Onfray : «Les médias de masse ont intérêt à cultiver l'imbécillité»](http://www.lefigaro.fr/vox/societe/2016/09/16/31003-20160916ARTFIG00380-michel-onfray-les-medias-de-masse-ont-interet-a-cultiver-l-imbecillite.php)
 * [michel onfray in podcasts | Listen Notes](https://www.listennotes.com/search/?q=michel%20onfray&sort_by_date=0&scope=episode&offset=0&language=Any%20language&len_min=0)
 * [Michel Onfray sur Sputnik - MichelOnfray.com](https://vk.com/away.php?to=https%3A%2F%2Fmichelonfray.com%2Farchives%2Fmichel-onfray-sur-sputnik%3Fautoplay%3Dtrue)
 * [Michel Onfray: "Le système ne se laissera pas confisquer le pouvoir qu'il a réussi à voler au peuple](https://vk.com/away.php?to=https%3A%2F%2Fwww.lecho.be%2Fopinions%2Fcarte-blanche%2Fmichel-onfray-le-systeme-ne-se-laissera-pas-confisquer-le-pouvoir-qu-il-a-reussi-a-voler-au-peuple%2F10093462.html%3Ffbclid%3DIwAR0j09_4dvXsL0JEP2ki1785OIMgYRToY-_5BC0Pmv4GJTnENzTOUu7DwQE)
-    * **Пошук новин за запитом michel onfray contre-histoire [Пошук новин за запитом michel onfray contre-histoire](https://vk.com/search?c%5Bper_page%5D=40&c%5Bq%5D=michel%20onfray%20contre-histoire&c%5Bsection%5D=auto)
+  * **Пошук новин за запитом michel onfray contre-histoire [Пошук новин за запитом michel onfray contre-histoire](https://vk.com/search?c%5Bper_page%5D=40&c%5Bq%5D=michel%20onfray%20contre-histoire&c%5Bsection%5D=auto)
 * [Michel Onfray: free download. Ebooks library. On-line books store on Z-Library](http://b-ok.cc/s/?q=Michel+Onfray&yearFrom=&yearTo=&language=&extension=&t=0)
 * [Université Populaire de Caen » Michel Onfray](http://upc.michelonfray.fr/intervenants/michel-onfray/)
 * [Michel Onfray : Brève encyclopédie du monde - YouTube](https://www.youtube.com/watch?v=j_XgJhukdFU)
-* Noam Chomsky        * [Noam Chomsky on Capitalism - YouTube](https://www.youtube.com/watch?v=_FHNMZbnvYU)
+* Noam Chomsky      * [Noam Chomsky on Capitalism - YouTube](https://www.youtube.com/watch?v=_FHNMZbnvYU)
 * [Noam Chomsky on George Orwell - YouTube](https://www.youtube.com/watch?v=v_tmlVBqX1o)
 * [Noam Chomsky: The Alien perspective on humanity - Jung & Naiv: Episode 284 - YouTube](https://www.youtube.com/watch?v=h0qdbsE3Jqo&t=153s)
 * [Noam Chomsky: Who Owns the World?](https://www.youtube.com/watch?v=_9CHtm2qK2g)
     Noam Chomsky - The Purpose of Educationde lwf
-    Noam Chomsky - What We Really Wantde Chomsky's Philosophy    * [Noam Chomsky & Michel Foucault - Full debate on Human Nature - YouTube](https://www.youtube.com/watch?v=7TUD4gfvtDY)
+    Noam Chomsky - What We Really Wantde Chomsky's Philosophy  * [Noam Chomsky & Michel Foucault - Full debate on Human Nature - YouTube](https://www.youtube.com/watch?v=7TUD4gfvtDY)
 * [leftreferenceguide.wordpress.com/noam-chomsky-reading-list/](https://leftreferenceguide.wordpress.com/noam-chomsky-reading-list/)
     Noam Chomsky - On Being Truly Educated
     Noam Chomsky on French Intellectual Culture &amp; Post-Modernism (3/8) - YouTube
-    Noam Chomsky with Edward Snowden &amp; Glenn Greenwald - YouTube    * [Chomsky explaining real anarchism - YouTube](https://www.youtube.com/watch?v=AkvPDx2qNjM)
+    Noam Chomsky with Edward Snowden &amp; Glenn Greenwald - YouTube  * [Chomsky explaining real anarchism - YouTube](https://www.youtube.com/watch?v=AkvPDx2qNjM)
 * [Chomsky on language of thought](https://www.youtube.com/watch?v=GMjLUJ2K2EE)
 * [Chomsky book 1](https://chomsky.info/books/)
 * [Chomsky book 2](http://www.chomskylist.com/where-start-chomsky-best-books.php)
@@ -7985,28 +7985,28 @@
 * [Chomsky book 26](https://b-ok.cc/book/1249347/1b796e)
 * [Chomsky book 27](https://b-ok.cc/book/2028409/82f58e)
 * [What We Really Want - Noam Chomsky and Wallace Shawn](https://www.youtube.com/watch?v=3CFwSQiTu3I&list=WL&t=0s&index=150)
-* Philo        * [Sex and Death: An Introduction to Philosophy of Biology](http://library.lol/main/4E270AE18E7EF6E915BEE919C8CC55DE)
+* Philo      * [Sex and Death: An Introduction to Philosophy of Biology](http://library.lol/main/4E270AE18E7EF6E915BEE919C8CC55DE)
 * [Philosophy of Love, Sex, and Marriage: An Introduction](http://library.lol/main/18A4C7B24CB1FCB889DFAB409B9DEB0F)
 * [libgen.rs/search.php?&req=philosophy+of+sex&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](http://libgen.rs/search.php?&req=philosophy+of+sex&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 * [apaonline.org/general/recommended_links.asp](http://www.apaonline.org/general/recommended_links.asp)
 
 <SORTED>
-* Free Wil$1
-    * Book$1
-    * Article$1
-    * Podcas$1
-    * Vide$1
-    * Note$1
-    * People
-* People        * [Michael Gazzaniga](https://libgen.is/search.php?&req=Michael+Gazzaniga&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
+* Free Wil
+  * Book
+  * Article
+  * Podcas
+  * Vide
+  * Note
+  * People
+* People      * [Michael Gazzaniga](https://libgen.is/search.php?&req=Michael+Gazzaniga&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
 * [Stanislas Dehaene](https://libgen.is/search.php?&req=Stanislas+Dehaene&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
 * [ Susan Blackmore](https://b-ok.cc/g/Susan%20Blackmore)
 * [**James H. Austin](https://b-ok.cc/g/James%20H.%20Austin)
 * [Aspen Gamlund](https://sites.google.com/site/espengamlund/)
-* Top References        * [philpapers.org/](https://philpapers.org/)
+* Top References      * [philpapers.org/](https://philpapers.org/)
 * [plato.stanford.edu/](http://plato.stanford.edu/)
 * [encyclo-philo.fr/](https://encyclo-philo.fr/)
-* General Sites on Philosophy        * [historyofphilosophy.net/](https://www.historyofphilosophy.net/)
+* General Sites on Philosophy      * [historyofphilosophy.net/](https://www.historyofphilosophy.net/)
 * [philosophybasics.com/general.html](http://www.philosophybasics.com/general.html)
 * [iep.utm.edu/](http://www.iep.utm.edu/)
 * [philosophynow.org/](https://philosophynow.org/)
@@ -8058,7 +8058,7 @@
 * [**Courants de la philosophie – La-Philosophie.com : Cours, Résumés &amp; Citations](https://la-philosophie.com/courants-philosophie)
 * [**CONVIVIO: FILOSOFIA (in Italiano)](https://vk.com/filosofia_in_italiano)
 * [Philosophy and Information Technology at philo.de](http://www.philo.de/)
-* Media, Publications        * [Vista de Vol. 6 Núm. 8 (6)
+* Media, Publications      * [Vista de Vol. 6 Núm. 8 (6)
 * [Revista Replicante](http://revistareplicante.com/)
 * [La actualidad de la filosofía | Revista Replicante](http://revistareplicante.com/la-actualidad-de-la-filosofia/)
 * [Foro SofosAgora](http://sofosagora.net/)
@@ -8141,17 +8141,17 @@
 * [philosophischleben.wordpress.com/](https://philosophischleben.wordpress.com/)
 * [LES GRANDES QUESTIONS DE LA VIE - Voici quelques grandes questions de la vie : Qui suis-je ? Où vais-je ? Qu&#39;est-ce que la mort - Pourquoi souffrons-nous ? Quelle est ma fonction sur Terre ? S&#39;interroger est la condition de notre conscience, nous devons](http://lesgrandesquestionsdelavie.over-blog.com/)
 * [Varia](http://www.zulio.org/journal/)
-* Dictionaries        * [Філософський словник (словник) - Філософія - Архів якісних рефератів](http://5ka.at.ua/load/filosofija/filosofskij_slovnik_slovnik/66-1-0-9370)
+* Dictionaries      * [Філософський словник (словник) - Філософія - Архів якісних рефератів](http://5ka.at.ua/load/filosofija/filosofskij_slovnik_slovnik/66-1-0-9370)
 * [grand_dictionnaire_de_la_philosophie_pdf](http://aefe-madagascar.histegeo.org/IMG/pdf/grand_dictionnaire_de_la_philosophie.pdf)
 * [Dizionari di Filosofia](http://host.uniroma3.it/progetti/kant/online/dizencglos/dizionari.html)
 * [Filosofiya_slovnik.pdf](http://udhtu.edu.ua/public/userfiles/file/Filosofiya_slovnik.pdf)
 * [IT.pdf](http://www.ilgiardinodeipensieri.eu/testi/dif_1_29_01_12.pdf)
-* Books        * [Consciousness and the Universe: Quantum Physics, Evolution, Brain & Mind | Roger Penrose; Stuart Hameroff; Ellen Langer; R. Gabriel Joseph; Chris J. S. Clarke; L. Dossey; Ernest Lawrence Rossi; Gian Carlo Ghirardi; Peter Sturrock; Edgarl D. Mitchel; Chris King; Walter J. Freeman; Don Page; Henry P. Stapp; Fred Kuttner; Michael B | download](https://b-ok.cc/book/5329215/e8bf07)
+* Books      * [Consciousness and the Universe: Quantum Physics, Evolution, Brain & Mind | Roger Penrose; Stuart Hameroff; Ellen Langer; R. Gabriel Joseph; Chris J. S. Clarke; L. Dossey; Ernest Lawrence Rossi; Gian Carlo Ghirardi; Peter Sturrock; Edgarl D. Mitchel; Chris King; Walter J. Freeman; Don Page; Henry P. Stapp; Fred Kuttner; Michael B | download](https://b-ok.cc/book/5329215/e8bf07)
 * [Historia philosophiae graecae et Romanae ex fontium locis contexta; : Ritter, Heinrich : Free Download &amp; Streaming : Internet Archive](https://archive.org/details/historiaphilosop00rittuoft)
 * [Historia philosophiae graecae : testimonia auctorum conlegerunt notisque instruxerunt : Ritter, Heinrich, 1791-1869 : Free Download &amp; Streaming : Internet Archive](https://archive.org/details/historiaphilosop00ritt)
 * [How the Neoliberalization of Academia Leads to Thoughtlessness: Arendt and ... - Justin Pack - Google Книги](https://books.google.com/books?id=s9BwDwAAQBAJ&pg=PA98&lpg=PA98&dq=myopic+hyperspecialization&source=bl&ots=PCE_e3d5Wz&sig=hgoKDizt_bXJhE4djVgabFGor8w&hl=ru&sa=X&ved=2ahUKEwjo8-OL8qLfAhVEyFQKHZCtA3wQ6AEwBXoECAkQAQ#v=onepage&q=myopic%20hyperspecialization&f=false)
 * [600 citations pour bien réflichir avantd_agir.pdf](https://vk.com/doc6234312_452023767?hash=34393c293cbc38f80b&dl=10b44d6213a16b7679)
-* Consciousness        * [The conscious mind: in search of a fundamental theory | David J. Chalmers | download](https://b-ok.cc/book/511970/bfade6?dsource=recommend)
+* Consciousness      * [The conscious mind: in search of a fundamental theory | David J. Chalmers | download](https://b-ok.cc/book/511970/bfade6?dsource=recommend)
 * [*The New Science of Consciousness: Exploring the Complexity of Brain, Mind, and Self | Paul L. Nunez | download](https://b-ok.cc/book/2927197/b321b1)
 * [*Strange Tools: Art and Human Nature | Alva Noe | download](https://b-ok.cc/book/2640649/b1b44d)
 * [*Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness | Alva Noe | download](https://b-ok.cc/book/1115036/62d26e)
@@ -8161,7 +8161,7 @@
 * [philosophie.uni-mainz.de/metzinger/publikationen/Bewusstsein_2008_prefinal.pdf](http://www.philosophie.uni-mainz.de/metzinger/publikationen/Bewusstsein_2008_prefinal.pdf)
 * [ The Intellectual Landscape:](https://faculty.unlv.edu/beisecker/Courses/Phi-352/PhilMindOverview.htm)
 * [Home | dasGehirn.info - der Kosmos im Kopf](https://www.dasgehirn.info/)
-* YouTube        * [Философия - YouTube - YouTube](https://www.youtube.com/playlist?list=PLhMkqRn14YG_hfg4BaSAmVGXcthwAVbvD)
+* YouTube      * [Философия - YouTube - YouTube](https://www.youtube.com/playlist?list=PLhMkqRn14YG_hfg4BaSAmVGXcthwAVbvD)
 * [FilosofíaTv - YouTube](https://www.youtube.com/channel/UCKVRnYq1wVPlqB_ZlKgMvJg)
 * [PhiloCloud - YouTube - YouTube](https://www.youtube.com/channel/UCboZczmG77XfR__Pq4yn5Ug)
 * [Monsieur Phi - YouTube - YouTube (suivre les liens!)](https://www.youtube.com/channel/UCqA8H22FwgBVcF3GJpp0MQw)
@@ -8198,10 +8198,10 @@
 * [Quem Somos Nós?](https://www.youtube.com/channel/UCIj7UmUVFTFC9yXNiZoRmEg)
 * [Provocações Filosóficas](https://www.youtube.com/channel/UCdsosII3oC_jGwi7NNxTbeQ)
 * [Human - YouTube](https://www.youtube.com/user/omroepHUMAN/playlists)
-* Podcast        * [50 Best Philosophy Podcasts | Student Guide](http://www.studentguide.org/50-best-philosophy-podcasts/)
+* Podcast      * [50 Best Philosophy Podcasts | Student Guide](http://www.studentguide.org/50-best-philosophy-podcasts/)
 * [Simone et les philosophes - Le podcast préféré de Socrate](http://simoneetlesphilosophes.fr/)
 * [live.audials.com/de#!podcast](http://live.audials.com/de#!podcast)
-* Fora        * [Portal Raízes](https://www.portalraizes.com/)
+* Fora      * [Portal Raízes](https://www.portalraizes.com/)
 * [Forum de Philosophie - Portail](https://www.forumdephilosophie.com/)
 * [Home | History of Philosophy without any gaps](https://historyofphilosophy.net/)
 * [Philosophie - Forum Fr](https://www.forumfr.com/f421-philosophie.html)
@@ -8210,7 +8210,7 @@
 * [Philo Libre Expression: Débat de philosophie sur internet, forum de philosophie en ligne, discussion philosophique](https://philolibreexpression.fr/)
 * [**Philo Libre Expression: philosophie par internet, discussion philosophique en ligne, Cercle philosophique sur internet](https://philolibreexpression.fr/philosophie-sur-internet-debats-themes-discussions-philosophiques-en-ligne-philo-libre-expression)
 * [Philo-Welt.de | Philosophie Forum](http://philo-welt.de/forum/)
-* Other General Sites to Read        * [Information Philosophie - Die Zeitschrift, die über Philosophie informiert](http://www.information-philosophie.de/)
+* Other General Sites to Read      * [Information Philosophie - Die Zeitschrift, die über Philosophie informiert](http://www.information-philosophie.de/)
 * [most important philosophical questions - Поиск в Google](https://www.google.com/search?q=most+important+philosophical+questions&rlz=1C1GCEA_enUS820US820&oq=most+important+philosophical+questions&aqs=chrome..69i57j0.7856j0j7&sourceid=chrome&ie=UTF-8)
 * [Index of /classics/bibliotheca](https://nsu.ru/classics/bibliotheca/)
 * [UVOD](http://darhiv.ffzg.unizg.hr/id/eprint/9768/1/Diplomski%20rad%20-%20Marija%20Zubak.pdf)
@@ -8260,11 +8260,11 @@
 * [subject.com.ua/philosophy/philosophy/2.html](http://subject.com.ua/philosophy/philosophy/2.html)
 * [libraryforall.org/blog/2015/8/20/our-favorite-open-educational-resources](http://www.libraryforall.org/blog/2015/8/20/our-favorite-open-educational-resources)
 * [vitutor.com/index.html](http://www.vitutor.com/index.html)
-* Courses        * [Cours de philosophie - Programme de terminale](http://coursphilosophie.free.fr/index.php)
+* Courses      * [Cours de philosophie - Programme de terminale](http://coursphilosophie.free.fr/index.php)
 * [Cours de philosophie - Programme de terminale](http://coursphilosophie.free.fr/index.php)
 * [Філософія | Prometheus](https://courses.prometheus.org.ua/courses/KPI/PHIL101/2016_T2/about)
-* Misc Questions, 1-shot        * [What are the different possible approaches to life? - Buscar con Google](https://www.google.com/search?q=What+are+the+different+possible+approaches+to+life%3F&rlz=1C5CHFA_enUS753US753&oq=What+are+the+different+possible+approaches+to+life%3F&aqs=chrome..69i57.7716j0j9&sourceid=chrome&ie=UTF-8)
-* →        * [zestedesavoir.com/](https://zestedesavoir.com/) site général
+* Misc Questions, 1-shot      * [What are the different possible approaches to life? - Buscar con Google](https://www.google.com/search?q=What+are+the+different+possible+approaches+to+life%3F&rlz=1C5CHFA_enUS753US753&oq=What+are+the+different+possible+approaches+to+life%3F&aqs=chrome..69i57.7716j0j9&sourceid=chrome&ie=UTF-8)
+* →      * [zestedesavoir.com/](https://zestedesavoir.com/) site général
 * [Religion of a Different Color: Race and the Mormon Struggle for Whiteness](http://library.lol/main/69321824457CDF2BF5513D5CF3D85CEE)
 * [philosophy: catapano critchley](http://libgen.rs/search.php?req=catapano+critchley&open=0&res=25&view=simple&phrase=1&column=def)
 * [How to Be Perfect: The Correct Answer to Every Moral Question](http://library.lol/main/1CFA22325B43E4764726AC82DAB6D2F8)
@@ -8276,17 +8276,17 @@
     I started talking about the research behind idea evolution in [Tutorial: How To Package Other People's Video Clips So They Go Viral And People Pay For Them](https://link.sbstck.com/redirect/17bf0b75-2e91-47f7-aeb6-13e1e3bc6167?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY). In this post, I go deeper.
     Once I saw the power of idea evolution, I started seeing it everywhere.
     I saw it in many books, academic papers, and articles I was reading on creativity. Some ones that come to mind include:
-* [Where Good Ideas Come From: The Natural History of Innovation](https://link.sbstck.com/redirect/f4547152-bd2e-4bbe-a135-dbb3124c1fde?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by [Steven Johnson](https://open.substack.com/users/1408434-steven-johnson$1
-* [The Romance Of Reality](https://link.sbstck.com/redirect/f4547152-bd2e-4bbe-a135-dbb3124c1fde?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by [Bobby Azarian](https://link.sbstck.com/redirect/c9cd0411-9b73-44f9-b0d0-10f6fd91fdb8?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY$1
-* [The Diversity Bonus](https://link.sbstck.com/redirect/6a17f062-5ee1-496f-96b4-ea48521f7049?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by researcher Scott Pag$1
-* [The Formula](https://link.sbstck.com/redirect/1a89b591-6e8a-4899-9774-8062acfcc27e?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by researcher Albert-Lazlo Barabas$1
-* [Steal Like an Artist](https://link.sbstck.com/redirect/112ab129-8b7b-4774-ae0c-b90bf83d85a7?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by Austin Kleo$1
-* [Networked Knowledge and Combinatorial Creativity](https://link.sbstck.com/redirect/0255eb4b-c12b-4b03-a822-d5d2a60daba8?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by Maria Popov$1
-* [Invention as a Combinatorial Process: Evidence from U.S. Patents](https://link.sbstck.com/redirect/fe9bbf47-bbc5-4c8b-9a97-ee84f2f7a35b?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY$1
-* [The Role of Luck in Creative Career Success](https://link.sbstck.com/redirect/518f9a87-916a-4177-9ad2-94053b4984fb?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by researcher Milan Janoso$1
-* [Creative combination of representations: Scientific discovery and technological invention](https://link.sbstck.com/redirect/df208966-6dac-420f-bfed-55de7229631a?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by researcher Paul Thagar$1
-* [Borrowing Brilliance: The Six Steps to Business Innovation by Building on the Ideas of Others](https://link.sbstck.com/redirect/243c7677-2e9d-4d52-ad27-1f7a39b3d5be?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by David Kord Murra$1
-* [The Medici Effect](https://link.sbstck.com/redirect/97280e11-d5b3-4036-a749-006df8a4babb?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by Frans Johansso$1
+* [Where Good Ideas Come From: The Natural History of Innovation](https://link.sbstck.com/redirect/f4547152-bd2e-4bbe-a135-dbb3124c1fde?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by [Steven Johnson](https://open.substack.com/users/1408434-steven-johnson)
+* [The Romance Of Reality](https://link.sbstck.com/redirect/f4547152-bd2e-4bbe-a135-dbb3124c1fde?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by [Bobby Azarian](https://link.sbstck.com/redirect/c9cd0411-9b73-44f9-b0d0-10f6fd91fdb8?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY)
+* [The Diversity Bonus](https://link.sbstck.com/redirect/6a17f062-5ee1-496f-96b4-ea48521f7049?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by researcher Scott Pag
+* [The Formula](https://link.sbstck.com/redirect/1a89b591-6e8a-4899-9774-8062acfcc27e?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by researcher Albert-Lazlo Barabas
+* [Steal Like an Artist](https://link.sbstck.com/redirect/112ab129-8b7b-4774-ae0c-b90bf83d85a7?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by Austin Kleo
+* [Networked Knowledge and Combinatorial Creativity](https://link.sbstck.com/redirect/0255eb4b-c12b-4b03-a822-d5d2a60daba8?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by Maria Popov
+* [Invention as a Combinatorial Process: Evidence from U.S. Patents](https://link.sbstck.com/redirect/fe9bbf47-bbc5-4c8b-9a97-ee84f2f7a35b?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY)
+* [The Role of Luck in Creative Career Success](https://link.sbstck.com/redirect/518f9a87-916a-4177-9ad2-94053b4984fb?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by researcher Milan Janoso
+* [Creative combination of representations: Scientific discovery and technological invention](https://link.sbstck.com/redirect/df208966-6dac-420f-bfed-55de7229631a?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by researcher Paul Thagar
+* [Borrowing Brilliance: The Six Steps to Business Innovation by Building on the Ideas of Others](https://link.sbstck.com/redirect/243c7677-2e9d-4d52-ad27-1f7a39b3d5be?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by David Kord Murra
+* [The Medici Effect](https://link.sbstck.com/redirect/97280e11-d5b3-4036-a749-006df8a4babb?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by Frans Johansso
 * [Decoding Greatness](https://link.sbstck.com/redirect/62cc2dd3-c53c-46af-95cd-0e6854a55520?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by Ron Friedman
     And     I saw the mental model among greatest thinkers in history from    mathematicians to economists to philosophers to entrepreneurs to    technology researchers to futurists…
     # Countless Cases Of Idea Evolution
@@ -8326,7 +8326,7 @@
 * [hatrabbits.com/en/the-evolution-of-ideas-1/](https://hatrabbits.com/en/the-evolution-of-ideas-1/)
 * [shortform.com/blog/evolution-of-ideas-2/](https://www.shortform.com/blog/evolution-of-ideas-2/)
 * [drorpoleg.com/thinking-fast-and-slopes](https://www.drorpoleg.com/thinking-fast-and-slopes)
-* philo        * [lesswrong.com/](https://www.lesswrong.com/)
+* philo      * [lesswrong.com/](https://www.lesswrong.com/)
 * [google.com/search?q=evolution and the good life&ie=utf-8&oe=utf-8&client=firefox-b-m](https://www.google.com/search?q=evolution%20and%20the%20good%20life&ie=utf-8&oe=utf-8&client=firefox-b-m)
 * [psykip.vercel.app/compare/all](https://psykip.vercel.app/compare/all)
 * [magazine.hms.harvard.edu/articles/good-life](https://magazine.hms.harvard.edu/articles/good-life)

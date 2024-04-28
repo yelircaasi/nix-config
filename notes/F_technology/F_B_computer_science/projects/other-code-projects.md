@@ -15,6 +15,7 @@
 ## Notes
 
 Idea: get stylus drawing / writing tablet and set it up with rnote and also with a handwriting recognition engine that I train on my handwriting, so that I can write on the pad as an alternative to typing on the keyboard.
+
 * To Sort
   * Packaging)
 * [PyInstaller Manual — PyInstaller 5.7.0 documentation](https://pyinstaller.org/en/stable/)
@@ -89,9 +90,9 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
 * [sirjofri/glossy: a LaTeX package for interlinear glosses](https://github.com/sirjofri/glossy)
 * [8 Best Patreon Alternatives & Competitors For 2023 (Comparison)](https://bloggingwizard.com/patreon-alternatives/)
 
-    git@github.com:yelircaasi/keyboard-trainer-cpp.git
+* [keyboard-trainer](git@github.com:yelircaasi/keyboard-trainer-cpp.git)
 
-  * Jupyter
+* Jupyter
 * [joouha/euporie](https://github.com/joouha/euporie)
 * [Jupyter kernels · jupyter/jupyter Wiki](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
 * [jupyter-xeus/xeus: Implementation of the Jupyter kernel protocol in C++](https://github.com/jupyter-xeus/xeus)
@@ -245,6 +246,9 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
 * [tsoding/ded: Dramatic EDitor](https://github.com/tsoding/ded)
 * [TheAlgorithms/contributor_covenant](https://github.com/TheAlgorithms/contributor_covenant)
 
+## SORT
+
+    ```txt
     Neural Networks from Scratch in Python.pdf
 
     Learn to type Greek polytonic
@@ -312,6 +316,8 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
     git@github.com:yelircaasi/study-notes.git
 
     git@github.com:yelircaasi/Wiktionary4LL.git
+    ```
+
 * [cherylli/pomodoro-kotlin.git](https://github.com/cherylli/pomodoro-kotlin.git)
 * [SimpleMobileTools/Simple-Calendar.git](https://github.com/SimpleMobileTools/Simple-Calendar.git)
 * [powerline/fonts.git](https://github.com/powerline/fonts.git)
@@ -412,7 +418,7 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
 
 * Design: to-do list with routine lists, scheduler, and corresponding notifications
 
-### Page structure:
+### Page structure
 
 * Day
   * Morning Routine
@@ -430,7 +436,7 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
 * Planner
 * Record of accomplishments
 
-### Features:
+### Features
 
 * Notifications
   * start/stop
@@ -443,7 +449,7 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
   * score over time
   * statistics for routine items
 
-### Operations:
+### Operations
 
 * Schedule Item → add to Planner
 * Move Item
@@ -485,9 +491,9 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
 * [ ]  [JonasWanke/com.jonaswanke.calendar](https://github.com/JonasWanke/com.jonaswanke.calendar)
 * [ ]
 
-### Steps:
+### Steps
 
-### Extensions:
+### Extensions
 
 * pomodoro-style timer
 * Integration with some external service, such as Notion or Google
@@ -778,7 +784,7 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
 
 ## rl-games
 
-### Projects
+### Projects Links
 
 * [ ]  [Drive link](https://drive.google.com/drive/folders/16RpQL0XysyuoJbsrwiZntbL1coD8CigE?usp=sharing)
 
@@ -808,7 +814,7 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
 
         — another option: $f(\textbf{c}) \in \{0,1\}^{211}$: card score distribution ← (surplus tricks, size 2k+1, cards in my hand, probability of cards still being out there, position in queue, cards already played) → dimensionality 2k+1+60+60+4+60 = 2k+185 → add number still wanted by each opponent
 
-### References
+### References for RLCard
 
 * [datamllab/rlcard](https://github.com/datamllab/rlcard) —> should contribute to as well
 * [medium.com/applied-data-science/how-to-train-ai-agents-to-play-multiplayer-games-using-self-play-deep-reinforcement-learning-247d0b440717](https://medium.com/applied-data-science/how-to-train-ai-agents-to-play-multiplayer-games-using-self-play-deep-reinforcement-learning-247d0b440717)
@@ -823,11 +829,11 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
 * [r/reinforcementlearning/comments/rpvlf7/what_are_the_best_practices_for_creating_a_rl/](https://www.reddit.com/r/reinforcementlearning/comments/rpvlf7/what_are_the_best_practices_for_creating_a_rl/)
 * [r/reinforcementlearning/comments/i3367m/rl_for_turnbased_ai/](https://www.reddit.com/r/reinforcementlearning/comments/i3367m/rl_for_turnbased_ai/)
 * [blog.tensorflow.org/2021/10/building-board-game-app-with-tensorflow.html](https://blog.tensorflow.org/2021/10/building-board-game-app-with-tensorflow.html)
-* [Wizard RL Paper: [ieeexplore.ieee.org/document/6664846](https://ieeexplore.ieee.org/document/6664846)](https://ieeexplore.ieee.org/document/6664846](https://ieeexplore.ieee.org/document/6664846))
-* **[Recent Advances in Deep Reinforcement Learning Applications for Solving
+* Wizard RL Paper: [ieeexplore.ieee.org/document/6664846](https://ieeexplore.ieee.org/document/6664846)
+* ** Recent Advances in Deep Reinforcement Learning Applications for Solving
 * Partially Observable Markov Decision Processes (POMDP) Problems: Part 1 -
  Fundamentals and Applications in Games, Robotics and Natural Language
-* Processing](https://www.semanticscholar.org/paper/Recent-Advances-in-Deep-Reinforcement-Learning-for-Xiang-Foo/0a50454605da864cc4e1ac949e7a43055be11717)**
+* [Processing](https://www.semanticscholar.org/paper/Recent-Advances-in-Deep-Reinforcement-Learning-for-Xiang-Foo/0a50454605da864cc4e1ac949e7a43055be11717)**
 * [Improving Bidding and Playing Strategies in the Trick-Taking game Wizard using Deep Q-Networks](https://www.semanticscholar.org/paper/Improving-Bidding-and-Playing-Strategies-in-the-Schumacher-Pleines/c68ea00041d84f90c2a443292a98c34146941481)
 * [ai.stackexchange.com/questions/17942/how-to-represent-a-state-in-a-card-game-environment-wizard](https://ai.stackexchange.com/questions/17942/how-to-represent-a-state-in-a-card-game-environment-wizard)
 * ?? [Towards Modern Card Games with Large-Scale Action Spaces Through Action Representation](https://arxiv.org/pdf/2206.12700.pdf)
@@ -969,7 +975,7 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
 * [ ]  [F.B - Other Tools](https://docs.google.com/spreadsheets/d/1m-Zbr7bQx02t3ZydwI4UVz5U5eckmsCi2wYP7OwGmTI/edit)
 * [ ]  [F.B - Research](https://docs.google.com/spreadsheets/d/18Oe5bJqSVBJ8BqRtzVx0qMeF_amp1Je1SKb7DMgRuqs/edit)
 * [ ]  [F.B - Idea Space Modelling](https://docs.google.com/spreadsheets/d/1kLXQGddoY9BwLnKqsrLnGDUauguHxbyjqkCNrJtR4C0/edit?usp=sharing)
-  * 
+  *
 * [ ]  [A. Formación general (notas)](https://docs.google.com/spreadsheets/d/1ysAz4Pkp-w7bkOp_IIL_mt3YTrJZRWU8MwbSSdfxTLk/edit)
 * [ ]  [A. Áreas de estudio](https://docs.google.com/document/d/15TTyLIIJeueV6HiK8mlDhmiv_XskDxrIlwOHnoJmFBM/edit)
 * [ ]  [A. Atributos (multilingual)](https://docs.google.com/spreadsheets/d/1_cPrkA2tBYtWeLQ3vYXkQypGH7-mUQtXti-t8FLnl5o/edit)
@@ -994,7 +1000,7 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
 * [ ]  [Allusions and Quotations](https://docs.google.com/spreadsheets/d/1Sa0oUd5Pn6Vg1r8zleA13Vv4kGbA_lxV8KY-uvGQcS0/edit)
 * [ ]  [F. Complete Problem List](https://docs.google.com/spreadsheets/d/1aRvrDUZG_cFTfEIvTaHTXhPTKwwg3ru6yJ4mqF36png/edit)
 * [ ]  [F. Explicaciones (podcast, escritura, etc.)](https://docs.google.com/spreadsheets/d/1DYGQDmnzt54w_Pw9URyZdZi2mPA6__hRHE8qIMihYPM/edit?usp=sharing)
-  * 
+  *
 * [ ]  [B. Filosofía (notas)](https://docs.google.com/spreadsheets/d/1rbAgqYURMknyNv3jQiawtbeasDPcR8ucgEfXoLbS94Y/edit)
 * [ ]  [B. Religión (notas)](https://docs.google.com/spreadsheets/d/1Dr-0auuh3GhvQ-czgWVG8JMXEYI5UW5ag3IBriG7Ka4/edit)
 * [ ]  [Philosophiæ quaestiones](https://docs.google.com/spreadsheets/d/1mckR1sqUcyY33UCJAi2-2yJ-BwXFONEPwI44tGdRmVk/edit)
@@ -1012,7 +1018,7 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
 * [ ]  [CES Letter French](https://docs.google.com/document/d/1BZ50LO54-IW-bIu5-0FPe8FZO6SznDoyd4VQDfCdhHs/edit)
 * [ ]  [Letter](https://docs.google.com/document/d/15fyw7T20f66wh6WM6VWwMFiYNoIKTevWN_U9rwj8uLU/edit)
 * [ ]  [Lista y análisis de fuentes de la duda](https://docs.google.com/document/d/1G8h7gHIsgixGQPm4V4F2axJFxdTK7ZcjwTK4yeIEISU/edit?usp=sharing)
-  * 
+  *
 * [ ]  [C. Matemáticas](https://docs.google.com/spreadsheets/d/1RU8z6sIVkcinPuUW3Im6C2fMvHrU-mgwCOiowgSBQLM/edit#gid=140458224)
 * [ ]  [Math Vocab](https://docs.google.com/spreadsheets/d/1fPE4qalO6j9YSgpg8pyKpeT_-AHFDYadi1Yg1lLLuTE/edit#gid=1690798565)
 * [ ]  [C. Matemática (notas)](https://docs.google.com/spreadsheets/d/1NVzPirGXFwfEUs90QEIs5RzJo18xwNbmGC3QHhHxNp4/edit)
@@ -1029,7 +1035,7 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
 * [ ]  [Definitions from Multivariable Calculus (Stewart)](https://docs.google.com/spreadsheets/d/1uUGJVxTGl9QlzP7vWbG-tDzOCRwdTe8KZgGDQJttZQU/edit)
 * [ ]  [Definiciones de estadística](https://docs.google.com/spreadsheets/d/1ghHu6HPbeG0zqHXWzWAykKBMoEEKQG3NE3-_kjIzh9w/edit)
 * [ ]  [Aprendizaje de econometría](https://docs.google.com/spreadsheets/d/10bj9Fv43MMke7JzGWb5mfkst-5mhVZado7DZK05Wpu8/edit?usp=sharing)
-  * 
+  *
 * [ ]  [D. Ciencias naturales físicas y generales](https://docs.google.com/spreadsheets/d/1FL7sBeBoRsOOCQM0kzLRWfL7idNvr3NrMslAGqI4xa8/edit)
 * [ ]  [Relativitätstheorie](https://docs.google.com/spreadsheets/d/1DMo8h1khrRGSJdv7OYimsSG6AvjfIgvG9egnQXqCXT8/edit)
 * [ ]  [Elementos](https://docs.google.com/spreadsheets/d/1WHg_pIVjjb-zFLwKB8VJqQHy48xzL6L1NbL-7CRmHy0/edit)
@@ -1037,12 +1043,12 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
 * [ ]  [Vocabulario de geografía](https://docs.google.com/spreadsheets/d/1XjvH5vrkGrOoghjDJzDwcfG3Fxd4WqLyrJwONU8MGcs/edit)
 * [ ]  [Constelaçãos](https://docs.google.com/spreadsheets/d/1ISRAXZWEyIJCZve6PTlk88VLvKPDff5h7BIgryorwbo/edit)
 * [ ]  [Conocimiento de geografía](https://docs.google.com/spreadsheets/d/11GfA0dKo3b9zHWNmCji8gzg-_26LczoSBM4sMULgqVg/edit?usp=sharing)
-  * 
+  *
 * [ ]  [E. Ciencias naturales biológicas (notas sin neurociencias)](https://docs.google.com/spreadsheets/d/1Fpy-Ko7UaFJkYYbqaPmthhqAOqDMFekXVfzPs8BHPh4/edit)
 * [ ]  [E.I Neurociencias y ciencias de la mente](https://docs.google.com/spreadsheets/d/1YCNWNzdZUDMhZJWF9Kq6TPs8BT3mhwFnW4vkGBw2hjo/edit)
 * [ ]  [Conscience et le problème corps-esprit](https://docs.google.com/spreadsheets/d/1MGgr_K5b2VjWkdsZohy0VAXF16cvLo5uZJmsD3e1Fko/edit)
 * [ ]  [Neuroanatomie](https://docs.google.com/spreadsheets/d/18vXt_gnMp3vUvDNdW-zgIgb6eE4tu5zz8-mxW50x2yY/edit?usp=sharing)
-  * 
+  *
 * [ ]  [F. Tecnología (notas, sin informática)](https://docs.google.com/spreadsheets/d/1NskNrlvu17kUy75viEYF-aiCUyz2mfAa07U14QolffA/edit)
 * [ ]  [Minimal Working Examples](https://docs.google.com/spreadsheets/d/1hzRM9NpjLdlBnZmU2H2UTX_eWDRXf9jujuw61ov9Yso/edit)
 * [ ]  [Speech and Language Processing (Jurafsky & Martin)](https://docs.google.com/spreadsheets/d/1QuIFPdJl9ZhciUuDkuKMI9msvhEs6BCdQdsdc9K1S-0/edit)
@@ -1054,11 +1060,11 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
 * [ ]  [Helpful Tips and Tricks (MSc CompLing 2019)](https://docs.google.com/document/d/173KSzQufTDKxob8JdEYYRVxPpmhpwe2TIw89VXfmvEM/edit)
 * [ ]  [Data Science Books](https://docs.google.com/spreadsheets/d/1_LQINiT3S_deoYRgQJPKtS6feY4BRWgHHt5AFyFfaNM/edit)
 * [ ]  [Language Similarity Research](https://docs.google.com/document/d/1p92Sselx5tUMEUNHleaE8408_AeCNBIga8IbmjvWy0g/edit?usp=sharing)
-  * 
+  *
 * [ ]  [G. Ciencias sociales y humanas (notas)](https://docs.google.com/spreadsheets/d/1nrMklgQOga5wjFj1IVz4QBNLzl9kxxcXcd1oCibPb_0/edit)
 * [ ]  [Think Tanks](https://docs.google.com/spreadsheets/d/19wsrIOJfPn_iS0n4NYBMiLBlqF2x1OY8C8nGqQ46ioE/edit)
 * [ ]  [Book Idea: The West](https://docs.google.com/document/d/11pVuBO2RwletNDGHTOys0IaiLqxWNZeHKacDBDjVDGI/edit?usp=sharing)
-      * 
+      *
 * [ ]  [G.B. Historia](https://docs.google.com/spreadsheets/d/14XUzC2EKy5nfGu5KxebK5wpmqBP6RlLP1M7JAqN_2Xg/edit)
 * [ ]  [9 anni casuali](https://docs.google.com/spreadsheets/d/1bgt9rx2Rbg2O0VOe23vU85yfLpjlRKOleE5WbLlH2dk/edit)
 * [ ]  [Outline History of the World](https://docs.google.com/document/d/12Mfd3KyIj3ZWc9du_ADFUGNbWhWLBByj28jaM_SDq4A/edit)
@@ -1070,19 +1076,19 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
 * [ ]  [1400-1700 C.E.](https://docs.google.com/spreadsheets/d/1BjFiRHDhwOgk4me_04j2V-3nv-KtKk4VhwpK5fFiTTs/edit)
 * [ ]  [1700-1900 C.E.](https://docs.google.com/spreadsheets/d/1kMKKxlHgiiUqdtV2VVL-Pvq7VMLt66OGW_3ClpkK65E/edit)
 * [ ]  [1900 C.E. - Present](https://docs.google.com/spreadsheets/d/106Z9LpEgWTKEHEf48p6yz8a7nRekQYqMGCn3aX4crGk/edit?usp=sharing)
-      * 
+      *
 * [ ]  [G.C. Derecho y política](https://docs.google.com/spreadsheets/d/1H2WMSzPcuIzfjoqwT-H5itqwUA_-duFIv_g7KgJB7f8/edit)
 * [ ]  [Политические дебаты](https://docs.google.com/spreadsheets/d/1RWN2pNGlZSP8K4d6FhEuIZp3d_0lNIeMx5o3E54_XHY/edit)
 * [ ]  [Partidos políticos de 48 países](https://docs.google.com/spreadsheets/d/1dxuWE2UpH9U4ge77rN8J91GeBWMuZvIxnCZyUM2ooK4/edit)
 * [ ]  [Políticos de 20 paises](https://docs.google.com/spreadsheets/d/1OjbpYqrWQy3A-NLloHLNu11BeSZZduyUJiwNeLhV8Yg/edit)
 * [ ]  [Ukraine (Schlögel)](https://docs.google.com/spreadsheets/d/1eJ7ruWmaENaShA5cFhEQw-H3vpYNR5fpXidEOFohpH4/edit?usp=sharing)
-      * 
+      *
 * [ ]  [G.D. Economía](https://docs.google.com/spreadsheets/d/1kP0OPfimGDpAWGVkKIahcppab9MlJDWXXcKJGmc6vhA/edit)
 * [ ]  [Revistas, sitios y blogs de la economía](https://docs.google.com/spreadsheets/d/1W7Ix1WbAkMgp-p2eBw7cvGNbUcLrzJzExyaZODFiNQc/edit)
 * [ ]  [OD Economics](https://docs.google.com/spreadsheets/d/1r2fNHlDQK0SBQgnmk19QEdeljN04v64T1fcA8gV_3KE/edit)
 * [ ]  [Topics List](https://docs.google.com/document/d/1To8muzK1fRTIanmAx1xYuxd1z3q_KXihY5u9EEbonyQ/edit)
 * [ ]  [36 Artikel](https://docs.google.com/spreadsheets/d/1oVCWFvtR8AnXTwxWftesoTGJipbp6JKZZ9VsMQQpXjk/edit?usp=sharing)
-      * 
+      *
 * [ ]  [G.E. Lingüística](https://docs.google.com/spreadsheets/d/1porlMtn2iTGC2klBwUHq9HWzgTSg0NfFAyojRtufo_I/edit)
 * [ ]  [Ling Vocab](https://docs.google.com/spreadsheets/d/1szKVLhrPEg41hbtwYWEnK-rVYgh0Py_MkBZkHElYVxk/edit)
 * [ ]  [Dialectos del Inglés](https://docs.google.com/spreadsheets/d/1xbCtjynvwB0VtriHV7Oj8oPZyQNrK1IdIyF99KpuTHI/edit)
@@ -1093,12 +1099,12 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
 * [ ]  [Квиз по МФА (doc2)](https://docs.google.com/document/d/1Y1BFapn66PkJ2Yi-XbbYTTpwY69xPDkAB-bXV75kJzg/edit)
 * [ ]  [Aussprache und Phonetik](https://docs.google.com/spreadsheets/d/1TCjz-h6ToI5MnJ3djlm7SESEuyZo3Iqminlrj3zyBkg/edit)
 * [ ]  [G.F. Antropología y sociología](https://docs.google.com/spreadsheets/d/1Ut0rayUd1t5jr2i6YFBv5HS95GZV17dmyEdbe6Iyl-U/edit#gid=0)
-      * 
+      *
 * [ ]  [G.G. Psicología](https://docs.google.com/spreadsheets/d/1rk4fE-L93iuDsPYF5yhk_9WC_s6YWVf68ZHuaL3soQw/edit#gid=0)
 * [ ]  [Psychologues](https://docs.google.com/spreadsheets/d/1xXHyEpE1zOmcKYTbVFAn2c5FxmgTc3KTxkFES-a0cOI/edit)
 * [ ]  [Thinking Errors](https://docs.google.com/document/d/1d-xPgeeXFf665C6edZjvOAPwlIEjVTBtqI5lNXFg_2Y/edit)
 * [ ]  [S1S2](https://docs.google.com/spreadsheets/d/1pyZ23VGHvqUppBaCwT6fxGOgbCXnDtDRIFxtSlCPntM/edit?usp=sharing)
-      * 
+      *
 * [ ]  [G.H. Pedagogía](https://docs.google.com/spreadsheets/d/1qUEnXX6FZZCr6lMI7Ky1gARTwbpBYK4EcCCMIjrCfEQ/edit))
 * [ ]  [Study Resources and Methods](https://docs.google.com/document/d/1Q0ATMEuD9Qz6caRsr1vbLc1FOHD5UC0H9M42HYKPy-c/edit)
 * [ ]  [Principles for Question Analysis](https://docs.google.com/document/d/1C7QR0dFCUecvkRJivQQsDIMmkxxEcZ1sI-Weyjdrro0/edit)
@@ -1115,15 +1121,15 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
 * [ ]  [Investigadores y libros de pedagogía](https://docs.google.com/spreadsheets/d/11AxNDOjDxRwYDZKCmrIOPWRmzTcioxjRu9Kd1F8O1cI/edit)
 * [ ]  [Mejores investigadores de la teoría formacional](https://docs.google.com/document/d/1tiHmPcCorDDDwoSujJ_LdRTzfzPMoza8Wc2rpLKA-_g/edit?usp=sharing)
 
-  * 
+  *
 * [ ]  [H. Humanidades (notas sin H.F)](https://docs.google.com/spreadsheets/d/101_rcqnW1XwIlpF0uZl9vrzPOOI5SvauswM-PzpX3HI/edit?usp=sharing)
-      * 
+      *
 * [ ]  [Música y cantantes](https://docs.google.com/spreadsheets/d/1edx4RS8SLYLl3O-5zOk04iG1zb-rHAQI7ouCRQSGIsk/edit)
 * [ ]  [Música clásica para escuchar](https://docs.google.com/spreadsheets/d/1KsOjWpzPTw4HfRaDcV63GPFRU6YODVvcisbrjAOomNk/edit)
 * [ ]  [Music Plans](https://docs.google.com/spreadsheets/d/1Tw7GV_PonLHXvYoRVOlEnX69nABG7hqADBjQYpl6g1s/edit)
 * [ ]  [Scales and Arpeggios](https://docs.google.com/spreadsheets/d/17lGmEiORK4R4OHgEOcvXB_0RqBVx98KMVxPMq5gzDPY/edit)
 * [ ]  [Migliori prattiche del discurso publico](https://docs.google.com/document/d/1h4_KBZL6vER9KxBFvoDdg-bhfbtQ8sx3BcY6Rosr6EU/edit?usp=sharing)
-      * 
+      *
 * [ ]  [H.F. Idiomas y lenguaje (notas)](https://docs.google.com/spreadsheets/d/1rhFUPMWYuGUUCYWlw8VyyBMJIKhJhmvoiH3Im_spClI/edit)
 * [ ]  [Altri testi paralleli](https://docs.google.com/spreadsheets/d/1DcDOEBc7ta_nah0C47MTdklou34TQ4VJr-uBSaO4sEw/edit)
 * [ ]  [Enfoque analítico al aprendizaje de Idiomas](https://docs.google.com/spreadsheets/d/1XBOvzs5FmwRxLJ_kM_FSBr9Ob4LmWwBjBfvlE2gYwZU/edit)

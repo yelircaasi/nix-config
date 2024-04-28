@@ -191,7 +191,7 @@
 * [20 Penseurs pour 2020](https://www.philomag.com/20-penseurs-pour-2020-42200)
 * [20 Philosophers and Their Big Ideas](https://thebestschools.org/magazine/major-philosopher-ideas/)
 * [thalia.de/shop/home/artikeldetails/erkenne_die_welt/richard_david_precht/EAN9783844520118/ID43971536.html](http://www.thalia.de/shop/home/artikeldetails/erkenne_die_welt/richard_david_precht/EAN9783844520118/ID43971536.html)
-* {$1} [Blogs de filósofos | Efímero](https://efimeroescombrera.wordpress.com/2013/05/31/blogs-de-filosofos/)
+* {?} [Blogs de filósofos | Efímero](https://efimeroescombrera.wordpress.com/2013/05/31/blogs-de-filosofos/)
 * [http://www.kapital-lesen.com/](http://www.alternatives-economiques.fr/page.php?rub=50)
 * [Foucault: a filosofia como modo de vida | Margareth Rago - YouTube](https://www.youtube.com/watch?v=tb_ym7CzKEo)
 * [El pensamiento filosófico de Peter Sloterdijk - YouTube](https://www.youtube.com/watch?v=t5udqk0HRUo)
@@ -1336,7 +1336,7 @@
     Das Elend der Theologie (Hans Albert)
     Das Religionen-Buch      * [dawkins](https://libgen.is/search.php?&req=dawkins&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=12)
 * [Die artikelen des geloofs](https://vk.com/doc306961597_438466772?hash=9bc7d48719d08a3859&dl=8d2b32d5f4970860cd)
-* {$1} [Die Identität der buddhistischen Schulen](https://vk.com/doc488576652_506838946?hash=a8eb8d65ddbb7daa44&dl=9fc5b8874e9b348b4a)
+* {?} [Die Identität der buddhistischen Schulen](https://vk.com/doc488576652_506838946?hash=a8eb8d65ddbb7daa44&dl=9fc5b8874e9b348b4a)
 * {    Die Weltreligionen       } [Die_Wirtschaftsethik_der_Weltreligionen_Smart_Reading.pdf](https://vk.com/doc5961481_459269216?hash=c36b9f4c810267e696&dl=218da025008c7c97a8)
     Götter global
     La mente de Dios (Davies)
@@ -1347,7 +1347,7 @@
     paul tillich
     Pour en finir avec Dieu
     reinhold niebuhr
-* {$1} [Religion needs new books. What would be in your canon?](https://www.facebook.com/stapleyarts/posts/10216538851002658)
+* {?} [Religion needs new books. What would be in your canon?](https://www.facebook.com/stapleyarts/posts/10216538851002658)
 * [Sem_Kharris_Konets_very_Persone.pdf](https://vk.com/doc30601958_521954788?hash=cf6a86365d7045cea3&dl=b8c40b196df15a0d48)
 * [Something That Matters: A Theology for Critical Believers](http://library.lol/main/A33EA2A1AC46359C4CDC17A81EF77A8A)
 * [Tesauro y dissionario de objetos asociados a ritos, cultos y creencias](https://vk.com/doc3125830_512358057?hash=0778d4e412b748a3a6&dl=2b964c910427596dcd)
@@ -1494,7 +1494,7 @@
   * -> Analogie einer Skulptur: der Künstler fängt an mit einem Steinblock und entfernt alles, was sich nicht gehört bis am Ende nur die Skulptur bleibt, die schon immer da war, aber unsichtbar wegen überflüssiges und unerwünschtes.
     Richtung eher als aktuelle Lage. Wille eher als Vergangenheit.
     blue-collar philosophers      * [nalanda.ru/east-philos.html](http://nalanda.ru/east-philos.html)
-* {$1} [m.vk.com/wall-36047336_65651?from=feed_search/0/30+secondes+philosophies+epub](https://m.vk.com/wall-36047336_65651?from=feed_search/0/30+secondes+philosophies+epub)
+* {?} [m.vk.com/wall-36047336_65651?from=feed_search/0/30+secondes+philosophies+epub](https://m.vk.com/wall-36047336_65651?from=feed_search/0/30+secondes+philosophies+epub)
     Gibt es eine Obergrenze des möglichen Schmerzens?
     paradoxe Dieu-pierre (en créer un d'aussi grande qu' il ne puisse le lever)
     Philosophical problem of specialization
@@ -1568,7 +1568,7 @@
     Marilynne Robinson - the givenness of things
     Noam Chomsky, Bill McKibben, Neil DeGrasse Tyson vs Freeman Dyson, William Hopper, Murry Sulby
     жалобы и эгоизм
-* {$1} [NIHILISM, MINARCHISM, PYRRHONISM META-PHILOSOPHY - Living Radical Scepticism](https://www.academia.edu/keypass/RHdEcGxTcDBIZnh0N2NEVkxQVmdUd2VjQkgxV2FuUkpmMVlWT21RMDdnWT0tLUFSZFgvS3FmYm1aMmZTTFFyYWFvYXc9PQ==--2e80b440e0375e7d2775cb9336c1b34d8b47097d/t/drT8b-NQRbUdW-bfiBHX/resource/work/36348033/NIHILISM_MINARCHISM_PYRRHONISM_META-PHILOSOPHY_-_Living_Radical_Scepticism?email_work_card=title)
+* {?} [NIHILISM, MINARCHISM, PYRRHONISM META-PHILOSOPHY - Living Radical Scepticism](https://www.academia.edu/keypass/RHdEcGxTcDBIZnh0N2NEVkxQVmdUd2VjQkgxV2FuUkpmMVlWT21RMDdnWT0tLUFSZFgvS3FmYm1aMmZTTFFyYWFvYXc9PQ==--2e80b440e0375e7d2775cb9336c1b34d8b47097d/t/drT8b-NQRbUdW-bfiBHX/resource/work/36348033/NIHILISM_MINARCHISM_PYRRHONISM_META-PHILOSOPHY_-_Living_Radical_Scepticism?email_work_card=title)
     qu'est-ce qui nous fait nous-mêmes? comment l'identité persiste à travers les changements personnels?
     pourquoi on ne change guère pas au point d'être méconnaissable?
     quelles sont les limites du changement personnel?
@@ -1760,7 +1760,7 @@
     Ринпоче - Будда
     Философия за час
     Винни Пух и философия обыденного языка
-* {$1} [bloomsbury.com/us/101-great-philosophers-9781441165633/](https://www.bloomsbury.com/us/101-great-philosophers-9781441165633/)
+* {?} [bloomsbury.com/us/101-great-philosophers-9781441165633/](https://www.bloomsbury.com/us/101-great-philosophers-9781441165633/)
     → absolute vs personal (individual-specific) morality
     4 virtues
     how to live in the face of injustice
@@ -1792,7 +1792,7 @@
 * [libgen.rs/search.php?req=philosophie+der+mathematik&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def](http://libgen.rs/search.php?req=philosophie+der+mathematik&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 * [Mathematical Platonism](https://www.calstatela.edu/sites/default/files/groups/Department%20of%20Philosophy/mathematical_platonism.pdf)
 * [r/exmormon/comments/o0r6af/ive_always_believed_in_paranormal_but_now_that_im/](https://www.reddit.com/r/exmormon/comments/o0r6af/ive_always_believed_in_paranormal_but_now_that_im/)
-* {$1} [Erich Fromm – Wikipedia](https://de.wikipedia.org/wiki/Erich_Fromm)
+* {?} [Erich Fromm – Wikipedia](https://de.wikipedia.org/wiki/Erich_Fromm)
 * [Is Nature All There Is? Theism vs Naturalism Debate - YouTube](https://www.youtube.com/watch?v=W0j25NteoXc)
     philosophical views of humility (--> status, hierarchy, etc.)
 * [Cómo piensa el mundo](http://libgen.rs/book/index.php?md5=F35F69441D1DCD56F291FD08F8D924C1)
@@ -2055,7 +2055,7 @@
 * [infokiosques.net/IMG/pdf/Le_Mythe_du_Progres_LIVRET-2.pdf](https://infokiosques.net/IMG/pdf/Le_Mythe_du_Progres_LIVRET-2.pdf)
 * [cafephilosophia.fr/sujets/le-progres-un-mythe-depasse/](http://www.cafephilosophia.fr/sujets/le-progres-un-mythe-depasse/)
 * Reading (3)
-* {$1} [spot.colorado.edu/~tooley/Lecture14.html](http://spot.colorado.edu/~tooley/Lecture14.html)
+* {?} [spot.colorado.edu/~tooley/Lecture14.html](http://spot.colorado.edu/~tooley/Lecture14.html)
 * [dukeupress.edu/in-defense-of-honor](https://www.dukeupress.edu/in-defense-of-honor)
 * [google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&uact=8&ved=0ahUKEwjpobLX66TLAhUBF2MKHR2vBOcQFgheMAg&url=http%3A%2F%2Fstatic1.1.sqspcdn.com%2Fstatic%2Ff%2F38692%2F290383%2F1262870566753%2FA%2BDefense%2Bof%2Ban%2BObjective%2BMorality.pdf%3Ftoken%3D3mrmnr2rqSm2Xy5IwZ04IGbxcSM%253D&usg=AFQjCNHXjVKvhslymM8jlHCT98HJTfVgbQ&sig2=X7TyLwKOdnvjdhyjkjsfGQ&bvm=bv.115946447,d.cGc](http://static1.1.sqspcdn.com/static/f/38692/290383/1262870566753/A+Defense+of+an+Objective+Morality.pdf?token=3mrmnr2rqSm2Xy5IwZ04IGbxcSM%3D)
 * [orthodox-newspaper.ru/numbers/at52095](http://orthodox-newspaper.ru/numbers/at52095)
@@ -2300,7 +2300,7 @@
     Подавление индивидуальности сводит людей в человеческое стадо, как было в Темные Века Земли, когда христианская церковь фактически выполнила задачу Сатаны, озлобив и сделав убийцами множество людей… К несчастью, главная религиозная книга наиболее техничной и могущественной из прошлых цивилизаций — белой — была Библия, наполненная злом, предательством, племенной враждой и бесконечными убийствами… Для другой великой цивилизации прошлого — желтой — учение Конфуция породило безответную покорность обстоятельствам жизни…      * [ПОСТМОДЕРНИЗМ](https://vk.com/wall-6827569_21648)
 * [Проблемы христианства в контексте плюрализма философских воззрений на современном этапе | Humane - Гуманный](http://humane.net.ru/content/%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B-%D1%85%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B0-%D0%B2-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B5-%D0%BF%D0%BB%D1%8E%D1%80%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC%D0%B0-%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D1%81%D0%BA%D0%B8%D1%85-%D0%B2%D0%BE%D0%B7%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B9-%D0%BD%D0%B0-%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%BC-%D1%8D%D1%82%D0%B0%D0%BF%D0%B5)
 * [Революция искусственного интеллекта: на пути к сверхразуму](https://vk.com/@newochem-urban-ai-1)
-* {$1} [Сказ о науке и политике | LessWrong на русском](https://lesswrong.ru/w/%D0%A1%D0%BA%D0%B0%D0%B7_%D0%BE_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5_%D0%B8_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B5)
+* {?} [Сказ о науке и политике | LessWrong на русском](https://lesswrong.ru/w/%D0%A1%D0%BA%D0%B0%D0%B7_%D0%BE_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5_%D0%B8_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B5)
 * [Субъективность — ужасная вещь…. Чехов](https://biography.wikireading.ru/124732)
 * [Философия и мировоззрение. Типы мировоззрения.](http://studfilosed.ru/otvety-k-vstupitelnomu-ekzamenu-po-filosofii/138-filosofiya-i-mirovozzrenie-tipy-mirovozzreniya.html)
 * [Философия и поп-культура: повседневность, время, «современное искусство». Опыт философской редукции - Международный журнал прикладных и фундаментальных исследований](http://www.applied-research.ru/ru/article/view?id=84)
@@ -3008,7 +3008,7 @@
 * [Groundbreaking new material 'could allow artificial intelligence to merge with the human brain' | The Independent](https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-brain-computer-cyborg-elon-musk-neuralink-a9673261.html)
     Book idea: How to Be Unethical      * [Philosophy T-Shirts | Redbubble](https://www.redbubble.com/shop/philosophy+t-shirts%20        [redbubble.com/shop/philosophy+t-shirts?gclid=Cj0KCQjw9pDpBRCkARIsAOzRzivi_33Ytq8_HvTAXZAX-N3xfCFvAIrYZb5aZUcsHbLMcs_eYMEbXLEaAqNaEALw_wcB)](https://www.redbubble.com/shop/philosophy+t-shirts?gclid=Cj0KCQjw9pDpBRCkARIsAOzRzivi_33Ytq8_HvTAXZAX-N3xfCFvAIrYZb5aZUcsHbLMcs_eYMEbXLEaAqNaEALw_wcB))
     epistemologische interdependenz
-* {$1} [jairoflorezsuarez.wixsite.com/filosofiapdf](https://jairoflorezsuarez.wixsite.com/filosofiapdf)
+* {?} [jairoflorezsuarez.wixsite.com/filosofiapdf](https://jairoflorezsuarez.wixsite.com/filosofiapdf)
 * [Купить книгу Философия языка. Очерки истории](http://wordorder.ru/catalog-ru/filologiya/lingvistika/filosofiya-yazyka.-ocherki-istorii/)
 * [философия и детство](https://www.google.com/search?q=%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F+%D0%B8+%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
 * [A History of Philosophy in 81 Video Lectures: From Ancient Greece to Modern Times](http://www.openculture.com/a-history-of-philosophy-in-81-video-lectures)
@@ -3697,13 +3697,13 @@
 * [Schopenhauer, Thoreau, Stirner. Le radicalità esistenziali. Controstoria della filosofia VI [1 ed.]](http://libgen.is/book/index.php?md5=25A4E00538195EB21CC76915365E8420)
 * [Nietzsche e la costruzione del superuomo. Controstoria della filosofia VII [1 ed.]](http://libgen.is/book/index.php?md5=FEFEF4DD73FB5845EB41A46345FB91B6)
 * [50 Libros de Filosofía en PDF ¡Gratis!](http://eleternoestudiante.com/filosofia-libros-pdf-gratis/?fbclid=IwAR1HJtteJKPEkRZXjILzKHRMzV6zKgxUiMJIy3KLw0iUGzgCDfDU_ygrHG8)
-* {$1} [A Map to the End of Time](https://vk.com/doc-124948599_475093840?hash=5251d87ca70334f6e1&dl=e67a23ce57df871487)
+* {?} [A Map to the End of Time](https://vk.com/doc-124948599_475093840?hash=5251d87ca70334f6e1&dl=e67a23ce57df871487)
 * [A Philosophical Inquiry into the Sublime and Beautiful](https://vk.com/doc31260357_437268600?hash=1f876336869bd3bb92&dl=867eef4e62f420eea2)
 * [aborto](https://libgen.is/search.php?req=aborto&open=0&res=25&view=simple&phrase=1&column=def)
 * [Adelphi](http://libgen.rs/search.php?req=Adelphi&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 * {    Alice in Wonderland and Philosophy   } [alienated](https://libgen.is/search.php?req=alienated&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 * [All Things Shining](https://vk.com/doc464862457_459638626?hash=4a38a5dd7970b21d48&dl=ab1e106aca2eb9afd2)
-* {$1} [An Introduction to Modern Jewish Philosoph](http://library.lol/main/08B9EE1136F7D05B0BEA06818B9CABE9)y
+* {?} [An Introduction to Modern Jewish Philosoph](http://library.lol/main/08B9EE1136F7D05B0BEA06818B9CABE9)y
     Analytische Einführung in die Ethik (Birnbacher)
     Angewandte Ethik (Pieper / Thurnherr)
     Angewandte Ethik und Religion (Laubach)
@@ -3763,7 +3763,7 @@
     Grenzgötter der Moral (Reese-Schäfer)
     Groteske Aufklärung
     Handbuch Sprachphilosophie (Metzler)
-* {$1} [Hippocrene](http://libgen.io/search.php?req=Hippocrene&open=0&res=25&view=simple&phrase=1&column=def)
+* {?} [Hippocrene](http://libgen.io/search.php?req=Hippocrene&open=0&res=25&view=simple&phrase=1&column=def)
 * [histoire de la pensée](http://libgen.io/search.php?req=histoire+de+la+pens%C3%A9e&open=0&res=25&view=simple&phrase=1&column=def)
 * [histoire des idées](http://libgen.io/search.php?req=histoire+des+id%C3%A9es&open=0&res=25&view=simple&phrase=1&column=def)
 * [historia de la filosofía](http://libgen.io/search.php?req=historia+da+filosofia&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
@@ -3853,7 +3853,7 @@
 * [Trubetskoy_S_N_-_Kurs_istorii_drevney_filosofii_-_1997(2).pdf](https://vk.com/doc30601958_455519743?hash=8e9a799aeebb59e872&dl=a545abbd9d78cdeac4)
 * [Uchebnik po istorii russkoy filosofii-1.pdf](http://philosophy.spbu.ru/userfiles/rusphil/Uchebnik%20po%20istorii%20russkoy%20filosofii-1.pdf)
     Un punto azul pálido
-* {$1} [Universalis Dictionnaire de la Philosophie](https://b-ok.cc/book/2928833/0309ed)
+* {?} [Universalis Dictionnaire de la Philosophie](https://b-ok.cc/book/2928833/0309ed)
 * [Vom Guten, Wahren, und Schönen](https://vk.com/doc505124243_505092464?hash=c015a97f6a66c8639a&dl=96451be1ccf0f7f554)
     Wahrheit, Sprache und Geschichte  * [War Is a Force That Gives Us Meaning](https://vk.com/doc525831385_509368981?hash=15aa176bcc73a6fd72&dl=f0c5278b3c6dcd5a93)
 * [Warum es die Welt nicht gibt](https://www.nationalreview.com/1999/05/non-fiction-100/)
@@ -3863,9 +3863,9 @@
     Zeit (Safranski)
 * [Айер А. Дж. - Язык, истина и логика. - 2010.pdf](https://vk.com/doc126754362_447529211?hash=58b06f665ee1dbdb4d&dl=bc50bda451a7637d21)
 * [Андрей Курпатов : "Самоучитель по Философии"](https://vk.com/doc-171300788_516940831?hash=c9d875c41072e13ae2&dl=cfc61bf7e2382b0ccf)
-* {$1} [Блохина Н.А. - Парадокс анализа и парадоксальность аналитической философии. pdf](https://vk.com/doc4605748_451600434?hash=0f5dcfda057b8bd4fe&dl=47adbd368a09d8d656)
+* {?} [Блохина Н.А. - Парадокс анализа и парадоксальность аналитической философии. pdf](https://vk.com/doc4605748_451600434?hash=0f5dcfda057b8bd4fe&dl=47adbd368a09d8d656)
 * [В своем кругу. Индивид и группа на Западе и Востоке Европы.pdf](https://vk.com/doc525831385_508455497?hash=4ae3cbfcf1aafa6654&dl=206e8dee57cd9aa535)
-* {$1} [Делез Ж. - Кино. - 2004.pdf](https://vk.com/doc7826881_480134353?hash=7e54bb4230bcf158fb&dl=13879a221806833e88)
+* {?} [Делез Ж. - Кино. - 2004.pdf](https://vk.com/doc7826881_480134353?hash=7e54bb4230bcf158fb&dl=13879a221806833e88)
 * [Дж. Р. Серл (ред.2010)-Философия языка.pdf](https://vk.com/doc-124948599_475094074?hash=4b75b5e24a247b1c16&dl=0e9b349b193d03e4d2)
 * [Дэвидсон Д. - Истина и интерпретация..pdf](https://vk.com/doc4605748_494977649?hash=61f845dcd1b836023a&dl=e5d7e50878416c6394)
 * [Ж. Рансьер - Разделяя чувственное.pdf](https://vk.com/doc-50140096_484644625?hash=06adc85f7dda48868d&dl=2dfbf0c43af2fabd26)
@@ -3873,7 +3873,7 @@
 * [Зинченко В.П. - Философское наследие. 2016. djvu](https://vk.com/doc4605748_450488821?hash=0f966e180ea2092e5b&dl=f153a717841293a11d)
 * [История русской мысли](http://libgen.io/search.php?req=%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F+%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B9+%D0%BC%D1%8B%D1%81%D0%BB%D0%B8&open=0&res=25&view=simple&phrase=1&column=def)
 * [Колесников А.С. Философия Бертрана Рассела..djvu](https://vk.com/doc63430182_466305608?hash=5226db060ccf15f9c3&dl=a5fdb0644ac03edd4e)
-* {$1} [Куайн у. В. О. Слово и объект. М., 2000..pdf](https://vk.com/doc320060371_463733347?hash=95ac0523d3a7b0d790&dl=c3deef96d40891752a)
+* {?} [Куайн у. В. О. Слово и объект. М., 2000..pdf](https://vk.com/doc320060371_463733347?hash=95ac0523d3a7b0d790&dl=c3deef96d40891752a)
 * [Литература по философии.doc](https://vk.com/doc156949059_443122922?hash=30794cb7af8db76d56&dl=836e13e6f86ce55f36)
 * [Лосев А.Ф. - Хаос и структура.-1997.PDF](https://vk.com/doc-123708210_438013279?hash=8aa67eb8bdb443b9ac&dl=5ddb6aca86f2612d2e)
 * [Лосев А.Ф. Диалектика мифа (фрагмент).doc](https://vk.com/doc156949059_443122932?hash=886ecfeb488be29758&dl=dd0f0ef40deba1004d)
@@ -3908,7 +3908,7 @@
 * [Artificial Intelligence and the Two Singularities](https://libgen.is/book/index.php?md5=FCBF62A8549E598A6013A94393F85BC0)
 * [Pandora's Brain](https://libgen.is/book/index.php?md5=C5F624F8CED39B4450051DAE24310821)
 * [The Economic Singularity: Artificial Intelligence and the Death of Capitalism](https://libgen.is/book/index.php?md5=3805EA5DA98B463616C36EB936B55467)
-* {$1} [The Knowledge Illusion](https://vk.com/doc44301783_507832899?hash=d28199183ae7ce3e50&dl=ee92b0a74281700f2a)
+* {?} [The Knowledge Illusion](https://vk.com/doc44301783_507832899?hash=d28199183ae7ce3e50&dl=ee92b0a74281700f2a)
 * [The Nature of Scientific Knowledge_Kevin McCain_1st ed. 2016](http://link.springer.com/openurl?genre=book&isbn=978-3-319-33405-9)
 * [The Scientific Outlook](https://vk.com/doc522475633_512886802?hash=6a7770cdaafe25c21b&dl=a6b249350c58ed8bec)
     Zu schön, um falsch zu sein. Über die Ästhetik in der Naturwissenschaft  * [(filo antro) langaney: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/langaney)
@@ -3966,7 +3966,7 @@
     Philosophie du 21ème siècle
     философия 21 века
 * {    Die besseren Menschen   } [Einführung in die Philosophie nach Disziplinen](http://www.schuledialektik.de/lehrbuchdownlpdf.pdf)
-* {$1} [The Best Philosophy Books Of All Time [Updated For 2018!]](https://taylorpearson.me/book-review/best-philosophy-books/)
+* {?} [The Best Philosophy Books Of All Time [Updated For 2018!]](https://taylorpearson.me/book-review/best-philosophy-books/)
 * [Les 16 meilleurs livres philosophiques pour débutants | La culture générale](https://www.laculturegenerale.com/livres-philosophie-faciles-debutants/)
 * [Les 16 meilleurs livres philosophiques pour débutants | La culture générale](https://www.laculturegenerale.com/livres-philosophie-faciles-debutants/#Le_Prince_Nicolas_Machiavel_1532)
 * [fivebooks.com/best-books/free-will-responsibility-paul-russell/](https://fivebooks.com/best-books/free-will-responsibility-paul-russell/)
@@ -4804,7 +4804,7 @@
 * [20 Penseurs pour 2020](https://www.philomag.com/20-penseurs-pour-2020-42200)
 * [20 Philosophers and Their Big Ideas](https://thebestschools.org/magazine/major-philosopher-ideas/)
 * [thalia.de/shop/home/artikeldetails/erkenne_die_welt/richard_david_precht/EAN9783844520118/ID43971536.html](http://www.thalia.de/shop/home/artikeldetails/erkenne_die_welt/richard_david_precht/EAN9783844520118/ID43971536.html)
-* {$1} [Blogs de filósofos | Efímero](https://efimeroescombrera.wordpress.com/2013/05/31/blogs-de-filosofos/)
+* {?} [Blogs de filósofos | Efímero](https://efimeroescombrera.wordpress.com/2013/05/31/blogs-de-filosofos/)
 * [http://www.kapital-lesen.com/](http://www.alternatives-economiques.fr/page.php?rub=50)
 * [Foucault: a filosofia como modo de vida | Margareth Rago - YouTube](https://www.youtube.com/watch?v=tb_ym7CzKEo)
 * [El pensamiento filosófico de Peter Sloterdijk - YouTube](https://www.youtube.com/watch?v=t5udqk0HRUo)
@@ -5009,7 +5009,7 @@
     Das Elend der Theologie (Hans Albert)
     Das Religionen-Buch      * [dawkins](https://libgen.is/search.php?&req=dawkins&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=12)
 * [Die artikelen des geloofs](https://vk.com/doc306961597_438466772?hash=9bc7d48719d08a3859&dl=8d2b32d5f4970860cd)
-* {$1} [Die Identität der buddhistischen Schulen](https://vk.com/doc488576652_506838946?hash=a8eb8d65ddbb7daa44&dl=9fc5b8874e9b348b4a)
+* {?} [Die Identität der buddhistischen Schulen](https://vk.com/doc488576652_506838946?hash=a8eb8d65ddbb7daa44&dl=9fc5b8874e9b348b4a)
 * {    Die Weltreligionen       } [Die_Wirtschaftsethik_der_Weltreligionen_Smart_Reading.pdf](https://vk.com/doc5961481_459269216?hash=c36b9f4c810267e696&dl=218da025008c7c97a8)
     Götter global
     La mente de Dios (Davies)
@@ -5020,7 +5020,7 @@
     paul tillich
     Pour en finir avec Dieu
     reinhold niebuhr
-* {$1} [Religion needs new books. What would be in your canon?](https://www.facebook.com/stapleyarts/posts/10216538851002658)
+* {?} [Religion needs new books. What would be in your canon?](https://www.facebook.com/stapleyarts/posts/10216538851002658)
 * [Sem_Kharris_Konets_very_Persone.pdf](https://vk.com/doc30601958_521954788?hash=cf6a86365d7045cea3&dl=b8c40b196df15a0d48)
 * [Something That Matters: A Theology for Critical Believers](http://library.lol/main/A33EA2A1AC46359C4CDC17A81EF77A8A)
 * [Tesauro y dissionario de objetos asociados a ritos, cultos y creencias](https://vk.com/doc3125830_512358057?hash=0778d4e412b748a3a6&dl=2b964c910427596dcd)
@@ -5167,7 +5167,7 @@
   * -> Analogie einer Skulptur: der Künstler fängt an mit einem Steinblock und entfernt alles, was sich nicht gehört bis am Ende nur die Skulptur bleibt, die schon immer da war, aber unsichtbar wegen überflüssiges und unerwünschtes.
     Richtung eher als aktuelle Lage. Wille eher als Vergangenheit.
     blue-collar philosophers      * [nalanda.ru/east-philos.html](http://nalanda.ru/east-philos.html)
-* {$1} [m.vk.com/wall-36047336_65651?from=feed_search/0/30+secondes+philosophies+epub](https://m.vk.com/wall-36047336_65651?from=feed_search/0/30+secondes+philosophies+epub)
+* {?} [m.vk.com/wall-36047336_65651?from=feed_search/0/30+secondes+philosophies+epub](https://m.vk.com/wall-36047336_65651?from=feed_search/0/30+secondes+philosophies+epub)
     Gibt es eine Obergrenze des möglichen Schmerzens?
     paradoxe Dieu-pierre (en créer un d'aussi grande qu' il ne puisse le lever)
     Philosophical problem of specialization
@@ -5241,7 +5241,7 @@
     Marilynne Robinson - the givenness of things
     Noam Chomsky, Bill McKibben, Neil DeGrasse Tyson vs Freeman Dyson, William Hopper, Murry Sulby
     жалобы и эгоизм
-* {$1} [NIHILISM, MINARCHISM, PYRRHONISM META-PHILOSOPHY - Living Radical Scepticism](https://www.academia.edu/keypass/RHdEcGxTcDBIZnh0N2NEVkxQVmdUd2VjQkgxV2FuUkpmMVlWT21RMDdnWT0tLUFSZFgvS3FmYm1aMmZTTFFyYWFvYXc9PQ==--2e80b440e0375e7d2775cb9336c1b34d8b47097d/t/drT8b-NQRbUdW-bfiBHX/resource/work/36348033/NIHILISM_MINARCHISM_PYRRHONISM_META-PHILOSOPHY_-_Living_Radical_Scepticism?email_work_card=title)
+* {?} [NIHILISM, MINARCHISM, PYRRHONISM META-PHILOSOPHY - Living Radical Scepticism](https://www.academia.edu/keypass/RHdEcGxTcDBIZnh0N2NEVkxQVmdUd2VjQkgxV2FuUkpmMVlWT21RMDdnWT0tLUFSZFgvS3FmYm1aMmZTTFFyYWFvYXc9PQ==--2e80b440e0375e7d2775cb9336c1b34d8b47097d/t/drT8b-NQRbUdW-bfiBHX/resource/work/36348033/NIHILISM_MINARCHISM_PYRRHONISM_META-PHILOSOPHY_-_Living_Radical_Scepticism?email_work_card=title)
     qu'est-ce qui nous fait nous-mêmes? comment l'identité persiste à travers les changements personnels?
     pourquoi on ne change guère pas au point d'être méconnaissable?
     quelles sont les limites du changement personnel?
@@ -5433,7 +5433,7 @@
     Ринпоче - Будда
     Философия за час
     Винни Пух и философия обыденного языка
-* {$1} [bloomsbury.com/us/101-great-philosophers-9781441165633/](https://www.bloomsbury.com/us/101-great-philosophers-9781441165633/)
+* {?} [bloomsbury.com/us/101-great-philosophers-9781441165633/](https://www.bloomsbury.com/us/101-great-philosophers-9781441165633/)
     → absolute vs personal (individual-specific) morality
     4 virtues
     how to live in the face of injustice
@@ -5465,7 +5465,7 @@
 * [libgen.rs/search.php?req=philosophie+der+mathematik&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def](http://libgen.rs/search.php?req=philosophie+der+mathematik&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 * [Mathematical Platonism](https://www.calstatela.edu/sites/default/files/groups/Department%20of%20Philosophy/mathematical_platonism.pdf)
 * [r/exmormon/comments/o0r6af/ive_always_believed_in_paranormal_but_now_that_im/](https://www.reddit.com/r/exmormon/comments/o0r6af/ive_always_believed_in_paranormal_but_now_that_im/)
-* {$1} [Erich Fromm – Wikipedia](https://de.wikipedia.org/wiki/Erich_Fromm)
+* {?} [Erich Fromm – Wikipedia](https://de.wikipedia.org/wiki/Erich_Fromm)
 * [Is Nature All There Is? Theism vs Naturalism Debate - YouTube](https://www.youtube.com/watch?v=W0j25NteoXc)
     philosophical views of humility (--> status, hierarchy, etc.)
 * [Cómo piensa el mundo](http://libgen.rs/book/index.php?md5=F35F69441D1DCD56F291FD08F8D924C1)
@@ -5728,7 +5728,7 @@
 * [infokiosques.net/IMG/pdf/Le_Mythe_du_Progres_LIVRET-2.pdf](https://infokiosques.net/IMG/pdf/Le_Mythe_du_Progres_LIVRET-2.pdf)
 * [cafephilosophia.fr/sujets/le-progres-un-mythe-depasse/](http://www.cafephilosophia.fr/sujets/le-progres-un-mythe-depasse/)
 * Reading (3)
-* {$1} [spot.colorado.edu/~tooley/Lecture14.html](http://spot.colorado.edu/~tooley/Lecture14.html)
+* {?} [spot.colorado.edu/~tooley/Lecture14.html](http://spot.colorado.edu/~tooley/Lecture14.html)
 * [dukeupress.edu/in-defense-of-honor](https://www.dukeupress.edu/in-defense-of-honor)
 * [google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&uact=8&ved=0ahUKEwjpobLX66TLAhUBF2MKHR2vBOcQFgheMAg&url=http%3A%2F%2Fstatic1.1.sqspcdn.com%2Fstatic%2Ff%2F38692%2F290383%2F1262870566753%2FA%2BDefense%2Bof%2Ban%2BObjective%2BMorality.pdf%3Ftoken%3D3mrmnr2rqSm2Xy5IwZ04IGbxcSM%253D&usg=AFQjCNHXjVKvhslymM8jlHCT98HJTfVgbQ&sig2=X7TyLwKOdnvjdhyjkjsfGQ&bvm=bv.115946447,d.cGc](http://static1.1.sqspcdn.com/static/f/38692/290383/1262870566753/A+Defense+of+an+Objective+Morality.pdf?token=3mrmnr2rqSm2Xy5IwZ04IGbxcSM%3D)
 * [orthodox-newspaper.ru/numbers/at52095](http://orthodox-newspaper.ru/numbers/at52095)
@@ -5973,7 +5973,7 @@
     Подавление индивидуальности сводит людей в человеческое стадо, как было в Темные Века Земли, когда христианская церковь фактически выполнила задачу Сатаны, озлобив и сделав убийцами множество людей… К несчастью, главная религиозная книга наиболее техничной и могущественной из прошлых цивилизаций — белой — была Библия, наполненная злом, предательством, племенной враждой и бесконечными убийствами… Для другой великой цивилизации прошлого — желтой — учение Конфуция породило безответную покорность обстоятельствам жизни…      * [ПОСТМОДЕРНИЗМ](https://vk.com/wall-6827569_21648)
 * [Проблемы христианства в контексте плюрализма философских воззрений на современном этапе | Humane - Гуманный](http://humane.net.ru/content/%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B-%D1%85%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B0-%D0%B2-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B5-%D0%BF%D0%BB%D1%8E%D1%80%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC%D0%B0-%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D1%81%D0%BA%D0%B8%D1%85-%D0%B2%D0%BE%D0%B7%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B9-%D0%BD%D0%B0-%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%BC-%D1%8D%D1%82%D0%B0%D0%BF%D0%B5)
 * [Революция искусственного интеллекта: на пути к сверхразуму](https://vk.com/@newochem-urban-ai-1)
-* {$1} [Сказ о науке и политике | LessWrong на русском](https://lesswrong.ru/w/%D0%A1%D0%BA%D0%B0%D0%B7_%D0%BE_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5_%D0%B8_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B5)
+* {?} [Сказ о науке и политике | LessWrong на русском](https://lesswrong.ru/w/%D0%A1%D0%BA%D0%B0%D0%B7_%D0%BE_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5_%D0%B8_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B5)
 * [Субъективность — ужасная вещь…. Чехов](https://biography.wikireading.ru/124732)
 * [Философия и мировоззрение. Типы мировоззрения.](http://studfilosed.ru/otvety-k-vstupitelnomu-ekzamenu-po-filosofii/138-filosofiya-i-mirovozzrenie-tipy-mirovozzreniya.html)
 * [Философия и поп-культура: повседневность, время, «современное искусство». Опыт философской редукции - Международный журнал прикладных и фундаментальных исследований](http://www.applied-research.ru/ru/article/view?id=84)
@@ -6681,7 +6681,7 @@
 * [Groundbreaking new material 'could allow artificial intelligence to merge with the human brain' | The Independent](https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-brain-computer-cyborg-elon-musk-neuralink-a9673261.html)
     Book idea: How to Be Unethical      * [Philosophy T-Shirts | Redbubble](https://www.redbubble.com/shop/philosophy+t-shirts%20        [redbubble.com/shop/philosophy+t-shirts?gclid=Cj0KCQjw9pDpBRCkARIsAOzRzivi_33Ytq8_HvTAXZAX-N3xfCFvAIrYZb5aZUcsHbLMcs_eYMEbXLEaAqNaEALw_wcB)](https://www.redbubble.com/shop/philosophy+t-shirts?gclid=Cj0KCQjw9pDpBRCkARIsAOzRzivi_33Ytq8_HvTAXZAX-N3xfCFvAIrYZb5aZUcsHbLMcs_eYMEbXLEaAqNaEALw_wcB))
     epistemologische interdependenz
-* {$1} [jairoflorezsuarez.wixsite.com/filosofiapdf](https://jairoflorezsuarez.wixsite.com/filosofiapdf)
+* {?} [jairoflorezsuarez.wixsite.com/filosofiapdf](https://jairoflorezsuarez.wixsite.com/filosofiapdf)
 * [Купить книгу Философия языка. Очерки истории](http://wordorder.ru/catalog-ru/filologiya/lingvistika/filosofiya-yazyka.-ocherki-istorii/)
 * [философия и детство](https://www.google.com/search?q=%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F+%D0%B8+%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
 * [A History of Philosophy in 81 Video Lectures: From Ancient Greece to Modern Times](http://www.openculture.com/a-history-of-philosophy-in-81-video-lectures)
@@ -7366,13 +7366,13 @@
 * [Schopenhauer, Thoreau, Stirner. Le radicalità esistenziali. Controstoria della filosofia VI [1 ed.]](http://libgen.is/book/index.php?md5=25A4E00538195EB21CC76915365E8420)
 * [Nietzsche e la costruzione del superuomo. Controstoria della filosofia VII [1 ed.]](http://libgen.is/book/index.php?md5=FEFEF4DD73FB5845EB41A46345FB91B6)
 * [50 Libros de Filosofía en PDF ¡Gratis!](http://eleternoestudiante.com/filosofia-libros-pdf-gratis/?fbclid=IwAR1HJtteJKPEkRZXjILzKHRMzV6zKgxUiMJIy3KLw0iUGzgCDfDU_ygrHG8)
-* {$1} [A Map to the End of Time](https://vk.com/doc-124948599_475093840?hash=5251d87ca70334f6e1&dl=e67a23ce57df871487)
+* {?} [A Map to the End of Time](https://vk.com/doc-124948599_475093840?hash=5251d87ca70334f6e1&dl=e67a23ce57df871487)
 * [A Philosophical Inquiry into the Sublime and Beautiful](https://vk.com/doc31260357_437268600?hash=1f876336869bd3bb92&dl=867eef4e62f420eea2)
 * [aborto](https://libgen.is/search.php?req=aborto&open=0&res=25&view=simple&phrase=1&column=def)
 * [Adelphi](http://libgen.rs/search.php?req=Adelphi&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 * {    Alice in Wonderland and Philosophy   } [alienated](https://libgen.is/search.php?req=alienated&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 * [All Things Shining](https://vk.com/doc464862457_459638626?hash=4a38a5dd7970b21d48&dl=ab1e106aca2eb9afd2)
-* {$1} [An Introduction to Modern Jewish Philosoph](http://library.lol/main/08B9EE1136F7D05B0BEA06818B9CABE9)y
+* {?} [An Introduction to Modern Jewish Philosoph](http://library.lol/main/08B9EE1136F7D05B0BEA06818B9CABE9)y
     Analytische Einführung in die Ethik (Birnbacher)
     Angewandte Ethik (Pieper / Thurnherr)
     Angewandte Ethik und Religion (Laubach)
@@ -7432,7 +7432,7 @@
     Grenzgötter der Moral (Reese-Schäfer)
     Groteske Aufklärung
     Handbuch Sprachphilosophie (Metzler)
-* {$1} [Hippocrene](http://libgen.io/search.php?req=Hippocrene&open=0&res=25&view=simple&phrase=1&column=def)
+* {?} [Hippocrene](http://libgen.io/search.php?req=Hippocrene&open=0&res=25&view=simple&phrase=1&column=def)
 * [histoire de la pensée](http://libgen.io/search.php?req=histoire+de+la+pens%C3%A9e&open=0&res=25&view=simple&phrase=1&column=def)
 * [histoire des idées](http://libgen.io/search.php?req=histoire+des+id%C3%A9es&open=0&res=25&view=simple&phrase=1&column=def)
 * [historia de la filosofía](http://libgen.io/search.php?req=historia+da+filosofia&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
@@ -7522,7 +7522,7 @@
 * [Trubetskoy_S_N_-_Kurs_istorii_drevney_filosofii_-_1997(2).pdf](https://vk.com/doc30601958_455519743?hash=8e9a799aeebb59e872&dl=a545abbd9d78cdeac4)
 * [Uchebnik po istorii russkoy filosofii-1.pdf](http://philosophy.spbu.ru/userfiles/rusphil/Uchebnik%20po%20istorii%20russkoy%20filosofii-1.pdf)
     Un punto azul pálido
-* {$1} [Universalis Dictionnaire de la Philosophie](https://b-ok.cc/book/2928833/0309ed)
+* {?} [Universalis Dictionnaire de la Philosophie](https://b-ok.cc/book/2928833/0309ed)
 * [Vom Guten, Wahren, und Schönen](https://vk.com/doc505124243_505092464?hash=c015a97f6a66c8639a&dl=96451be1ccf0f7f554)
     Wahrheit, Sprache und Geschichte  * [War Is a Force That Gives Us Meaning](https://vk.com/doc525831385_509368981?hash=15aa176bcc73a6fd72&dl=f0c5278b3c6dcd5a93)
 * [Warum es die Welt nicht gibt](https://www.nationalreview.com/1999/05/non-fiction-100/)
@@ -7532,9 +7532,9 @@
     Zeit (Safranski)
 * [Айер А. Дж. - Язык, истина и логика. - 2010.pdf](https://vk.com/doc126754362_447529211?hash=58b06f665ee1dbdb4d&dl=bc50bda451a7637d21)
 * [Андрей Курпатов : "Самоучитель по Философии"](https://vk.com/doc-171300788_516940831?hash=c9d875c41072e13ae2&dl=cfc61bf7e2382b0ccf)
-* {$1} [Блохина Н.А. - Парадокс анализа и парадоксальность аналитической философии. pdf](https://vk.com/doc4605748_451600434?hash=0f5dcfda057b8bd4fe&dl=47adbd368a09d8d656)
+* {?} [Блохина Н.А. - Парадокс анализа и парадоксальность аналитической философии. pdf](https://vk.com/doc4605748_451600434?hash=0f5dcfda057b8bd4fe&dl=47adbd368a09d8d656)
 * [В своем кругу. Индивид и группа на Западе и Востоке Европы.pdf](https://vk.com/doc525831385_508455497?hash=4ae3cbfcf1aafa6654&dl=206e8dee57cd9aa535)
-* {$1} [Делез Ж. - Кино. - 2004.pdf](https://vk.com/doc7826881_480134353?hash=7e54bb4230bcf158fb&dl=13879a221806833e88)
+* {?} [Делез Ж. - Кино. - 2004.pdf](https://vk.com/doc7826881_480134353?hash=7e54bb4230bcf158fb&dl=13879a221806833e88)
 * [Дж. Р. Серл (ред.2010)-Философия языка.pdf](https://vk.com/doc-124948599_475094074?hash=4b75b5e24a247b1c16&dl=0e9b349b193d03e4d2)
 * [Дэвидсон Д. - Истина и интерпретация..pdf](https://vk.com/doc4605748_494977649?hash=61f845dcd1b836023a&dl=e5d7e50878416c6394)
 * [Ж. Рансьер - Разделяя чувственное.pdf](https://vk.com/doc-50140096_484644625?hash=06adc85f7dda48868d&dl=2dfbf0c43af2fabd26)
@@ -7542,7 +7542,7 @@
 * [Зинченко В.П. - Философское наследие. 2016. djvu](https://vk.com/doc4605748_450488821?hash=0f966e180ea2092e5b&dl=f153a717841293a11d)
 * [История русской мысли](http://libgen.io/search.php?req=%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F+%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B9+%D0%BC%D1%8B%D1%81%D0%BB%D0%B8&open=0&res=25&view=simple&phrase=1&column=def)
 * [Колесников А.С. Философия Бертрана Рассела..djvu](https://vk.com/doc63430182_466305608?hash=5226db060ccf15f9c3&dl=a5fdb0644ac03edd4e)
-* {$1} [Куайн у. В. О. Слово и объект. М., 2000..pdf](https://vk.com/doc320060371_463733347?hash=95ac0523d3a7b0d790&dl=c3deef96d40891752a)
+* {?} [Куайн у. В. О. Слово и объект. М., 2000..pdf](https://vk.com/doc320060371_463733347?hash=95ac0523d3a7b0d790&dl=c3deef96d40891752a)
 * [Литература по философии.doc](https://vk.com/doc156949059_443122922?hash=30794cb7af8db76d56&dl=836e13e6f86ce55f36)
 * [Лосев А.Ф. - Хаос и структура.-1997.PDF](https://vk.com/doc-123708210_438013279?hash=8aa67eb8bdb443b9ac&dl=5ddb6aca86f2612d2e)
 * [Лосев А.Ф. Диалектика мифа (фрагмент).doc](https://vk.com/doc156949059_443122932?hash=886ecfeb488be29758&dl=dd0f0ef40deba1004d)
@@ -7577,7 +7577,7 @@
 * [Artificial Intelligence and the Two Singularities](https://libgen.is/book/index.php?md5=FCBF62A8549E598A6013A94393F85BC0)
 * [Pandora's Brain](https://libgen.is/book/index.php?md5=C5F624F8CED39B4450051DAE24310821)
 * [The Economic Singularity: Artificial Intelligence and the Death of Capitalism](https://libgen.is/book/index.php?md5=3805EA5DA98B463616C36EB936B55467)
-* {$1} [The Knowledge Illusion](https://vk.com/doc44301783_507832899?hash=d28199183ae7ce3e50&dl=ee92b0a74281700f2a)
+* {?} [The Knowledge Illusion](https://vk.com/doc44301783_507832899?hash=d28199183ae7ce3e50&dl=ee92b0a74281700f2a)
 * [The Nature of Scientific Knowledge_Kevin McCain_1st ed. 2016](http://link.springer.com/openurl?genre=book&isbn=978-3-319-33405-9)
 * [The Scientific Outlook](https://vk.com/doc522475633_512886802?hash=6a7770cdaafe25c21b&dl=a6b249350c58ed8bec)
     Zu schön, um falsch zu sein. Über die Ästhetik in der Naturwissenschaft  * [(filo antro) langaney: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/langaney)
@@ -7635,7 +7635,7 @@
     Philosophie du 21ème siècle
     философия 21 века
 * {    Die besseren Menschen   } [Einführung in die Philosophie nach Disziplinen](http://www.schuledialektik.de/lehrbuchdownlpdf.pdf)
-* {$1} [The Best Philosophy Books Of All Time [Updated For 2018!]](https://taylorpearson.me/book-review/best-philosophy-books/)
+* {?} [The Best Philosophy Books Of All Time [Updated For 2018!]](https://taylorpearson.me/book-review/best-philosophy-books/)
 * [Les 16 meilleurs livres philosophiques pour débutants | La culture générale](https://www.laculturegenerale.com/livres-philosophie-faciles-debutants/)
 * [Les 16 meilleurs livres philosophiques pour débutants | La culture générale](https://www.laculturegenerale.com/livres-philosophie-faciles-debutants/#Le_Prince_Nicolas_Machiavel_1532)
 * [fivebooks.com/best-books/free-will-responsibility-paul-russell/](https://fivebooks.com/best-books/free-will-responsibility-paul-russell/)

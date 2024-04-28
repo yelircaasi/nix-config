@@ -165,9 +165,9 @@
 * [Bubble sort](https://www.techiedelight.com/bubble-sort-iterative-recursive/)
 * [Merge Sort](https://www.techiedelight.com/merge-sort/)
 * [Quicksort](https://www.techiedelight.com/quicksort/)
-    * Bucket Sort
+  * Bucket Sort
 * [Heap Sort](https://www.techiedelight.com/heap-sort-place-place-implementation-c-c/)
-    * Counting Sort
+  * Counting Sort
 * [Binary Search](https://www.techiedelight.com/binary-search/)
 * [Breadth First Search (BFS)](https://www.techiedelight.com/breadth-first-search/)
 * [Depth First Search (DFS)](https://www.techiedelight.com/depth-first-search/)
@@ -189,12 +189,12 @@
 * [Greedy Algorithms](https://www.techiedelight.com/list-of-problems/#Greedy)
 * [Hashing](https://www.techiedelight.com/Tags/hashing/)
 * [Recursion](https://www.techiedelight.com/Tags/recursion/)
-    * Exponentiation by Squaring
-    * KMP Algorithm
-    * Regular Expressions
-    * Sieve of Eratosthenes (deterministic)
-    * For any number n, incrementally testing upto sqrt(n) (deterministic)
-    * Fermat primality test and Miller–Rabin primality test(both are nondeterministic)
+  * Exponentiation by Squaring
+  * KMP Algorithm
+  * Regular Expressions
+  * Sieve of Eratosthenes (deterministic)
+  * For any number n, incrementally testing upto sqrt(n) (deterministic)
+  * Fermat primality test and Miller–Rabin primality test(both are nondeterministic)
 * [Lee algorithm | Shortest path in a Maze](https://www.techiedelight.com/lee-algorithm-shortest-path-in-a-maze/)
 * [Flood fill Algorithm](https://www.techiedelight.com/flood-fill-algorithm/)
 * [Floyd’s Cycle Detection Algorithm](https://www.techiedelight.com/detect-cycle-linked-list-floyds-cycle-detection-algorithm/)
@@ -213,6 +213,7 @@
 * HackerRank Language Proficienc
 
 ## C
+
 * "Hello World!" in C
 * Playing With Characters
 * Sum and Difference of Two Numbers
@@ -671,7 +672,8 @@
     * Other Ideas and Resources for RosettaProject
     * eert: reconstruct file tree from output of tre
     * → replacement for tree with lines to look good with nerd font → call it tre (arbor, dendron, boom, baum, drevo PIE doru) ‣ ← multilingual* → make configurable
-* collect mathematical algorithms / projects / etc for ppp*     * [dlang.org/](https://dlang.org/) → see list of projects for PPP
+* collect mathematical algorithms / projects / etc for ppp
+* [dlang.org/](https://dlang.org/) → see list of projects for PPP
 * [duckduckgo.com/?q=list if cool new github projects&ko=-1&ia=web](https://duckduckgo.com/?q=list%20if%20cool%20new%20github%20projects&ko=-1&ia=web)
 * [Haskell by Example](https://lotz84.github.io/haskellbyexample/)
 * [Go by Example](https://gobyexample.com/)
@@ -705,16 +707,18 @@
 * [1 Problem, 24 Programming Languages](https://youtu.be/U6I-Kwj-AvY)
 * [proglib.io/p/40-proektov-na-python-dlya-novichkov-i-prodvinutyh-razrabotchikov-2022-05-13](https://proglib.io/p/40-proektov-na-python-dlya-novichkov-i-prodvinutyh-razrabotchikov-2022-05-13)
 * [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
+
 ## ML → See sklearn docs
+
 * rosetta-projects: incorporate Modern C++ Challenge
 * rosetta-projects: also use Go by Example and Haskell by Example
 * Lang Priority Lis
   * Pytho
-  * 
+  *
   * bas
   * Rus
   * G
-  * C++    
+  * C++
   * Java 1
   * Java 1
   * Haskel
@@ -724,15 +728,15 @@
   * TypeScrip
   * JavaScrip
   * Dar
-  * 
+  *
   * zs
   * Python + Cpp via pybind1
-  * Lua + 
+  * Lua +
   * Python + Rust via PyO3
 * parallang
   * Create a website with a giant table to compare programming languages.
   * Each row is some (relatively universal) feature or aspect of programming languages.
-  * Source     code for the website is a markdown file for each language and builder    code (heavily template-based) to generate html+css+js, as well as    interact with the source (e.g. add a row to all files, with default    "<to be added...>" placeholder).
+  * Source     code for the website is a markdown file for each language and builder    code (heavily template-based) to generate html+css+js, as well as    interact with the source (e.g. add a row to all files, with default    "\<to be added...\>" placeholder).
   * Languages     should be selectable, as should feature categories and features. The    table should then be exportable in different formats.
   * The site should also support custom theming.
   * make interactive website where it is possible to pick languages to compare - like hyperpolyglot, but with an interactive component8

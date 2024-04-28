@@ -495,7 +495,7 @@
 * [ValdezFOmar](https://github.com/ValdezFOmar/.dotfiles)
 * [vallen217](https://github.com/vallen217/dotfiles) -
 * [vidfurlan](https://github.com/VidFurlan/Dotfiles) -
-* [waffle87](https://github.com/waffle87/dots/tree/kepler) → see other branches - 
+* [waffle87](https://github.com/waffle87/dots/tree/kepler) → see other branches -
 * [xero](https://github.com/xero/dotfiles) -
 * [xinux-org](https://github.com/xinux-org/configs) -
 

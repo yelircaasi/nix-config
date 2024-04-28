@@ -427,7 +427,7 @@
 * * lazyman * 3.1.3, looks excellent
 * ( ) [lazyman.dev/](https://lazyman.dev/)
 
-[nvim-lazyman](https://github.com/doctorfree/nvim-lazyman)
+* [nvim-lazyman](https://github.com/doctorfree/nvim-lazyman)
 * nvims
 * simpler approach that lazyman, less comprehensive, but more lightweight
 * ( ) [Neovim Config Switcher * YouTube](https://www.youtube.com/watch?v=LkHjJlSgKZY)
@@ -494,7 +494,7 @@
 
 ```
 
-* editorconfig 
+* editorconfig
 * supported ootb in nvim; seems compatible with other approaches because focus is different (albeit related)
 * [neovim.io/doc/user/editorconfig.html](https://neovim.io/doc/user/editorconfig.html)
 * [editorconfig.org/](https://editorconfig.org/)

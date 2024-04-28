@@ -137,7 +137,7 @@
 * ( ) [Dark Green Color Palette](https://www.color-hex.com/color-palette/9376)
 * ( ) [Dark Green by Renato Neto](https://vscodethemes.com/e/zrnatoneto.dark-green/dark-green?language=javascript)
 * ( ) [Dark Green - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=zRnatoNeto.dark-green)
-* ( ) [blackish green code vscode](https://orta.io/vscode-themes/images,     //Druid.png)
+* ( ) [blackish green code vscode](https://orta.io/vscode-themes/images/Druid.png)
 * ( ) [blackish green code vscode - Google Search](https://res.cloudinary.com/practicaldev/image/fetch/s--4AUqMGSI--/c_limit,f_auto,fl_progressive,q_auto,w_880/https://github.com/merko30/merko-green-theme/raw/master/img/s.png)
 * ( ) [Base16 Leaf Tomorrow - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=swjh.base16-leaf-tomorrow-vscode) - probably one of the best
 * ( ) [Base16 Greenscreen](https://base16.netlify.app/previews/base16-greenscreen.html) - just a good case study in contrast between greens
@@ -162,7 +162,7 @@
 *  [...](https://github.com/hardhackerlabs/themes) hardhacker
 *  [Pink Puff](https://vscodethemes.com/e/jet-c.vscode-theme-pink-puff/pink-puff?language=javascript) - fashionable
 *  [Dark Space](https://vscodethemes.com/e/deadrevolver.dark-space-theme/dark-space?language=javascript)
-*  [...](https://github.com/EdenEast/nightfox.nvim duskfox)
+*  [...](https://github.com/EdenEast/nightfox.nvim) duskfox
 *  [...](https://github.com/catppuccin/catppuccin)
 *  [Enough with the Palenight](https://vscodethemes.com/e/lebster.enough-with-the-palenight/palenight-material?language=javascript) - mellow purple, like Vhyrro
 *  [Pinker](https://vscodethemes.com/e/poiasdpoiasd.pinker/pinker?language=javascript) - interesting vibe
@@ -182,9 +182,9 @@
 *  [perfect brown](https://vscodethemes.com/e/ermiyaszeleke.matrix/matrix-theme?language=javascript)
 *  [Muted Nature by Emerion](https://vscodethemes.com/e/emerion.muted-nature/muted-nature-dark?language=javascript) - nearly perfect highlighting colors
 *  [Gruvbox Material Dark Hard Flat](https://www.notion.so/New-Tool-Discovery-de1b080db59f4a93b89d0d1804ff3fa1?pvs=21)
-*  [...](https://reddit.com/r/unixporn/s/pyYkthza17 extremely nice)
+*  [...](https://reddit.com/r/unixporn/s/pyYkthza17) extremely nice
 *  [RetroPoster](https://vscodethemes.com/e/csyasin.theme-retro-poster/retro-poster?language=javascript) - very mellw and coherent
-*  [...](https://github.com/habamax/vim-gruvbit - nice earthy medium-contrast)
+*  [...](https://github.com/habamax/vim-gruvbit) - nice earthy medium-contrast
 *  [Muted Nature](https://vscodethemes.com/e/emerion.muted-nature/muted-nature-dark?language=javascript) - very brown and earthy
 *  [zenburn](https://github.com/jnurmine/Zenburn) - very earthy and mellow
 *  [Ra Nature Dark Theme by Rahman Yerli](https://vscodethemes.com/e/rahmanyerli.ra-nature/ra-nature-dark-theme?language=javascript) - very muted and easy on the eyes
@@ -206,10 +206,11 @@
 *  [Dark Ashes](https://vscodethemes.com/e/andrsdc.base16-themes/base16-dark-ashes?language=javascript) - really good foreground; change background from gray to green
 *  [Awesome Forest](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fc0ilzexndo881.png) [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles)
 *  [Ariake Dark](https://marketplace.visualstudio.com/items?itemName=wart.ariake-dark) - beautiful blue and purple tones over gray background
-*  [...](https://github.com/EdenEast/nightfox.nvim nordfox)
+*  [...](https://github.com/EdenEast/nightfox.nvim)
+* nordfox
 *  [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) - nice gray background, interesting colorful foreground with good contrast
 *  [C/C++ Theme](https://vscodethemes.com/e/xen.ccpp-theme/cc-theme?language=cpp) - nice primary and secondary
-*  [...](https://github.com/tuffgniuz/seiun.vim - nice boring gray)
+*  [...](https://github.com/tuffgniuz/seiun.vim) - nice boring gray
 *  [Iceberg Theme - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Iceberg) - gray, white, red, blue
 * ( ) [New Darcula](https://vscodethemes.com/e/e-simpson.new-darcula/new-darcula?language=javascript)
 * ( ) [Base16 Railscasts](https://base16.netlify.app/previews/base16-railscasts.html) (grayish)
@@ -220,7 +221,7 @@
 *  [Dark Hacker](https://vscodethemes.com/e/magson.dark-hacker-theme/dark-hacker-theme?language=javascript) - pretty good, green-brown-yellow
 *  [SIMPLE DARK](https://vscodethemes.com/e/in-the-box.simple-dark/simple-dark?language=javascript) - black, white, gray, green
 *  [Pitch Black](https://marketplace.visualstudio.com/items?itemName=viktorqvarfordt.vscode-pitch-black-theme) - startingly nice, good foreground colors
-*  [...](https://distrowatch.com/gallery-mobile.php?distribution=kodachi (good theme) - black, grey, light green
+*  [...](https://distrowatch.com/gallery-mobile.php?distribution=kodachi) (good theme) - black, grey, light green
 *  [One Dark Pro Monokai Darker](https://marketplace.visualstudio.com/items?itemName=eserozvataf.one-dark-pro-monokai-darker) - high-contrast, too colorful, but worth a try → maybe modify?
 *  [Cyberpunk](https://vscodethemes.com/e/clerian.cyberdyne20xx/cyberdyne-20xx?language=cpp) - good family of highlighting colors
 *  [Cyberdyne 20XX by clerian](https://vscodethemes.com/e/clerian.cyberdyne20xx/cyberdyne-20xx?language=javascript) - blue and purple
@@ -245,7 +246,7 @@
 *  [Flat_Dark Theme - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-FlatDark)
 *  [BlueForest](https://vscodethemes.com/e/alonsodomin.blueforest-theme/blueforest?language=javascript)
 *  [base2tone meadow](https://base2t.one/demo/meadow/) - very nice
-*  [...](https://github.com/EdenEast/nightfox.nvim nightfox)
+*  [...](https://github.com/EdenEast/nightfox.nvim) nightfox
 *  [Nightly Theme](https://vscodethemes.com/e/mohammadalishahbazi.nightly-theme/nightly-theme?language=javascript) - nice vibe, coherent subset of colors is good
 *  [Cobalt Next](https://marketplace.visualstudio.com/items?itemName=dline.CobaltNext) - greenish-bluish, good highlighting, just subdue yellow
 *  [base2tone morning](https://base2t.one/demo/morning/) - blue and brown
@@ -274,14 +275,17 @@
 * ( ) [Base16 Materia](https://base16.netlify.app/previews/base16-materia.html)
 * ( ) [Base16 Harmonic Dark](https://base16.netlify.app/previews/base16-harmonic-dark.html) -too colorful, but some nice colors
 * ( ) [Anarchist Theme - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Anarchist) - blue, white, red
-* ( ) [...](https://github.com/hoshiya4522/tmux-simple-nord [[TMUX] Minimal Nord theme for tmux](https://www.reddit.com/r/unixporn/comments/129b7vn/tmux_minimal_nord_theme_for_tmux/)
-* ( ) [...](https://github.com/clyde80/dotfiles clyde80 - blue and red)
+* ( ) [...](https://github.com/hoshiya4522/tmux-simple-nord)
+* [TMUX] [Minimal Nord theme for tmux](https://www.reddit.com/r/unixporn/comments/129b7vn/tmux_minimal_nord_theme_for_tmux/)
+* ( ) [...](https://github.com/clyde80/dotfiles) clyde80 blue and red
 
 ### Light
-)
+
 * ( ) [Userscape Theme - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=gerane.Theme-Userscape) - not terrible, but not for me <<<
 
-## IDEAS (not unlike [nvim site](https://neovim.io/doc/user/options.html) [colors](https://github.com/neovim/neovim.github.io/search?q=color)):
+## IDEAS
+
+(not unlike [nvim site](https://neovim.io/doc/user/options.html) [colors](https://github.com/neovim/neovim.github.io/search?q=color)):
 
 * dark green main background (0,13,5)
 * slightly less dark green secondary background (1,21,5)
@@ -303,6 +307,7 @@
 ### Request 1
 
 Sure! Here's a base-16 color scheme with a very dark green background, shades of green and blue, and neutral colors like white, gray, and brown:
+
 * Background:
 * #002200 (very dark green)
 * Shades of green:v
@@ -383,7 +388,8 @@ Sure! Here's a base-16 color scheme with a very dark green background, shades of
 
 * Sure, here are a few base-16 color schemes that might be fitting for nature lovers:
 
- Earthy Tones:
+Earthy Tones:
+
 * Background: #7c5b49
 * Primary Colors: #9e9478, #c3b090
 * Secondary Colors: #d9c5a7, #746b5a
@@ -452,7 +458,7 @@ Sure! Here's a base-16 color scheme with a very dark green background, shades of
 
 ## Scratch
 
-### Green Mountains wallpaper:
+### Green Mountains wallpaper
 
 * #0F1E25
 * #06292F
@@ -648,7 +654,7 @@ white:   '0xfdf6e3'
 * ( ) [...](https://github.com/kolunmi/ttyscheme)
 * ( ) [...](https://github.com/heygleeson/Gruvbox-GMTheme)
 
-# Pictrix Notes
+## Pictrix Notes (SORT) -------------------------------------------------------------------------------------------------------------
 
 ## Notes to Sort
 
@@ -905,7 +911,7 @@ print(transformed.shape)
 * [r/qutebrowser/comments/glo28l/how_do_you_use_a_css_stylesheet/](https://www.reddit.com/r/qutebrowser/comments/glo28l/how_do_you_use_a_css_stylesheet/)
 * [search?q=home-manager+firefox+colors&type=code](https://github.com/search?q=home-manager+firefox+colors&type=code)
 
-# SORT
+## SORT ---------------------------------------------------------------------------------------------------------------------------------
 
 ## Rice Font
 
@@ -946,7 +952,7 @@ print(transformed.shape)
 * [viperML/iosevka: My iosevka build, patched with nerd fonts](https://github.com/viperML/iosevka)
 * rice font e.g. Fira Coterminous - even width border on the edge (1/8th? 1 pixel? 2 pixel? dynamic max(1/8th, 2 pixel)?
 
-# Ricing
+## Ricing Links
 
 ## Pictrix and Clavix Shared Notes
 
@@ -960,7 +966,7 @@ print(transformed.shape)
 * Back up all overwritten config files
 * Color print info on operations performed, write to file, write logs
 
-## Sort
+## Sort -------------------------------------------------------------------------------------------------------------
 
 * [vinceliuice/vimix-icon-theme](https://github.com/vinceliuice/vimix-icon-theme)
 * [niri](https://github.com/YaLTeR/niri)
@@ -1053,6 +1059,7 @@ print(transformed.shape)
 
 ## Rice Teams
 
+```txt
 * rice teams 'is-ipad': app.layoutService.isIPad,
 * rice teams 'notification-banner-visible': app.appStateAdapter.mainNotificationBannerStore.currentBanner,
 * [0])!=-1){return"rtl"}return"ltr"}function getStylesheetUrl(e){for(var t=0;t<themedStyleSheets.length;t++){var s=themedStyleSheets
@@ -1065,6 +1072,7 @@ print(transformed.shape)
 * [Index] Loaded stylesheet: "+d);var e=a&&a.length;if(e){var t;for(t=0;t<e;t++){var s=a
 * [t];if(s&&s.parentElement){s.parentElement.removeChild(s)}}}o()};l.onerror=function(e){console.log("
 * [Index] Failed to load stylesheet: "+d+" >>> "+JSON.stringify(e));appStartFailed(errorMessage.cssLoadError,d);o()};s.appendChild(l);l=null}window.setStylesheetFromCookie=setStylesheetFromCookie;setStylesheetFromCookie((function(){_.defer((function(){$("body").addClass("initialized")}))}),true);$(window).on("load",(function e(){angular.bootstrap(document.documentElement,
+```
 
 ```html
 ["teamspace"]);if(window.electronSafeIpc&&window.desktop&&window.desktop.perf&&window.desktop.perf.getProcessMemoryInfo){window.electronSafeIpc.send("telemetryEvent",{name:"memoryIndexAppBootstrap",Perf_WorkingSetSizeKB:window.desktop.perf.getProcessMemoryInfo().workingSetSize})}}));sendAppStateChanged("IndexJsLoaded");</script><div ng-if=!app.layoutService.isLoaded id=app-loading-elem class="app-loading animated" analytics-panel={{::app.panelRegions.main}}><app-header-bar ng-if="!app.layoutService.isRigel && (!(app.layoutService.surfaceHubEnabled || app.layoutService.smartDeviceEnabled || app.layoutService.hidePowerBarElements) || app.layoutService.isElectron)"></app-header-bar><loading-application layout-service=app.layoutService environment=app.settingsService.appConfig.environment.type></loading-application></div><div ng-if="app.layoutService.isLoaded && !app.skipFirstRun" class=first-run analytics-panel={{::app.panelRegions.firstRun}}><app-header-bar ng-if="!app.layoutService.isRigel && (!(app.layoutService.surfaceHubEnabled || app.layoutService.smartDeviceEnabled || app.layoutService.hidePowerBarElements) || app.layoutService.isElectron)"></app-header-bar><div class="ts-first-run ts-add-members-common" ui-view={{::app.panelRegions.firstRun}} noanimation=true></div></div><div ng-if="app.layoutService.isInitialized && app.skipFirstRun" ng-class="{ 'invisible': !app.layoutService.isLoaded, |  |
@@ -1093,7 +1101,7 @@ print(transformed.shape)
 
 ### Repictor
 
-# Recolor.jl, repictor (name?)
+## Recolor.jl, repictor (name?)
 
 * Name ideas: spaceman, colorwrap, reimage
 * DO repictor IN JULIA! good way to finally learn it for real
@@ -1119,58 +1127,78 @@ print(transformed.shape)
 * Random idea: Maybe clustering algorithms can help with this a bit → information theory
 * Someday: use TDA?
 
-### Color Theme DevelopmentOwnerIsaac RileyTags
+### Color Theme Development
 
-* my own projectsto fork!https://github.com/orsinium-labs/pencils - interesting for exploring color themes via Python → fork and hack around on, maybe extend and turn into CLI*
+* my own projectsto fork! [pensils](https://github.com/orsinium-labs/pencils) - interesting for exploring color themes via Python → fork and hack around on, maybe extend and turn into CLI*
 * [🎨Recolor.jl, repictor (name?)](...)*
 * [Reddit Code Review - Python class for working with and converting between RGB color codes](https://www.reddit.com/r/codereview/comments/10zy2j5/python_class_for_working_with_and_converting/)
 * meta / other
 * [nice idea for two-color theme](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F2k9xfo87648z.png) [...](https://bottosson.github.io/posts/colorwrong/) [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) → see list of software and use themes in developing colorlip / switchswatch
 * color theory, readings→ see Rickrack in ‘interactive’ [colorhexa.com/](https://www.colorhexa.com/) - very thorough, very good
-* [Podlodka Color Space Podcast](https://open.spotify.com/episode/7nymXLWGAhTnRdNxEvontC?si=ICCMnVZHTLCBy00jiiSRYQ)http://www.brucelindbloom.com/https://www.dioptricdesign.com/ [michael-m.medium.com/true-color-interpolation-a1a17352ebf0
-        [kdrag0n](https://michael-m.medium.com/true-color-interpolation-a1a17352ebf0) [...](https://github.com/kdrag0n) [...]](https://michael-m.medium.com/true-color-interpolation-a1a17352ebf0) [kdrag0n)](https://github.com/kdrag0n)
+* [Podlodka Color Space Podcast](https://open.spotify.com/episode/7nymXLWGAhTnRdNxEvontC?si=ICCMnVZHTLCBy00jiiSRYQ)
+* [...](http://www.brucelindbloom.com/https://www.dioptricdesign.com/)
+* [michael-m.medium.com/true-color-interpolation-a1a17352ebf0](https://michael-m.medium.com/true-color-interpolation-a1a17352ebf0)
+* [...](https://github.com/kdrag0n) [...]
+        [...](https://michael-m.medium.com/true-color-interpolation-a1a17352ebf0) [kdrag0n)](https://github.com/kdrag0n)
 * Color management & programming
         [meodai/color-names](https://github.com/meodai/color-names)
         [joshuaiz/hexy](https://github.com/joshuaiz/hexy)
         [meodai/color-names](https://github.com/meodai/color-names)
-        [tesselle/khroma](https://github.com/tesselle/khroma) - for scientific vizualization, emphasis on accessibility [bottosson.github.io/posts/oklab/](https://bottosson.github.io/posts/oklab/) → list of tools [Ogeon/palette](https://github.com/Ogeon/palette) [docs.rs/palette/0.7.3/palette/](https://docs.rs/palette/0.7.3/palette/) - excellent rust tool for color correctness, conversion, etc
+        [tesselle/khroma](https://github.com/tesselle/khroma) - for scientific vizualization, emphasis on accessibility
+        [bottosson.github.io/posts/oklab/](https://bottosson.github.io/posts/oklab/) → list of tools
+        [Ogeon/palette](https://github.com/Ogeon/palette) [docs.rs/palette/0.7.3/palette/](https://docs.rs/palette/0.7.3/palette/) - excellent rust tool for color correctness, conversion, etc
         [sharkdp/pastel](https://github.com/sharkdp/pastel) - CLI similar to palette
         [andrew-pa/unipalette](https://github.com/andrew-pa/unipalette)
 * color space mapping, interpolation
-        [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs) [JuliaGraphics/ColorSchemeTools.jl
-        [Axenide/ColorFuse](https://github.com/JuliaGraphics/ColorSchemeTools.jl](https://github.com/Axenide/ColorFuse](https://github.com/JuliaGraphics/ColorSchemeTools.jl)
+        [ozwaldorf/lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)
+        [Axenide/ColorFuse](https://github.com/Axenide/ColorFuse)
+        [...](https://github.com/JuliaGraphics/ColorSchemeTools.jl)
         [Axenide/ColorFuse)](https://github.com/Axenide/ColorFuse)) - a type of color interpolation, also has some templating
 * interactive toolsvscode via json** [terminal.sexy/https://paletton.com/https://bottosson.github.io/misc/colorpicker](https://terminal.sexy/https://paletton.com/https://bottosson.github.io/misc/colorpicker)
 * [realtimecolors.com](https://realtimecolors.com/?colors=000000-ffffff-4685ff-f2f2f2-ffb084)
-* [Color Picker | Color from Image, HEX, RGB, HTML | RedKetchup](https://redketchup.io/color-picker)https://github.com/Simonwep/pickr
-        [gitlab.gnome.org/World/gcolor3](https://gitlab.gnome.org/World/gcolor3) [kryogenix.org/code/pick/](https://www.kryogenix.org/code/pick/) [thezbyg/gpick**](https://github.com/thezbyg/gpick**) [coolors.co/?home](https://coolors.co/?home) - easy interactive generation* [brianreilly.me/Base16Designer/](http://brianreilly.me/Base16Designer/) [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - A Graphical application for generating different color variations of a Numix-based and Flat-Plat themes (GTK2, GTK3), GNOME-Colors and Archdroid icons. → [themix-project](https://github.com/themix-project)  [keshavbhatt/ColorPicker**](https://github.com/keshavbhatt/ColorPicker**) [eigenmiao/Rickrack](https://github.com/eigenmiao/Rickrack) - [eigenmiao.com/rickrack/](https://eigenmiao.com/rickrack/) - phenomenl, guided by color theory** [plainas/cubecolors](https://github.com/plainas/cubecolors) [plainas.github.io/cubecolors/](http://plainas.github.io/cubecolors/) → maybe change isometry from continuous to perceptual scale?https://github.com/yrwq/ccc - 🎨 Show off your color palette - good for quick interactive development in the terminal [adobe/leonardo](https://github.com/adobe/leonardo) - generation based on desired contrast
+* [Color Picker | Color from Image, HEX, RGB, HTML | RedKetchup](https://redketchup.io/color-picker)
+* [pickr](https://github.com/Simonwep/pickr)
+* [gitlab.gnome.org/World/gcolor3](https://gitlab.gnome.org/World/gcolor3) [kryogenix.org/code/pick/](https://www.kryogenix.org/code/pick/) [thezbyg/gpick**](https://github.com/thezbyg/gpick**) [coolors.co/?home](https://coolors.co/?home) - easy interactive generation*
+* [brianreilly.me/Base16Designer/](http://brianreilly.me/Base16Designer/)
+* [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - A Graphical application for generating different color variations of a Numix-based and Flat-Plat themes (GTK2, GTK3), GNOME-Colors and Archdroid icons. → [themix-project](https://github.com/themix-project)
+* [keshavbhatt/ColorPicker**](https://github.com/keshavbhatt/ColorPicker**)
+* [eigenmiao/Rickrack](https://github.com/eigenmiao/Rickrack) - [eigenmiao.com/rickrack/](https://eigenmiao.com/rickrack/) - phenomenl, guided by color theory**
+* [plainas/cubecolors](https://github.com/plainas/cubecolors)
+* [plainas.github.io/cubecolors/](http://plainas.github.io/cubecolors/) → maybe change isometry from continuous to perceptual scale?
+* [...](https://github.com/yrwq/ccc) - 🎨 Show off your color palette - good for quick interactive development in the terminal
+* [adobe/leonardo](https://github.com/adobe/leonardo) - generation based on desired contrast
 * small-set generation
-        [luizdemoraes/mono](https://github.com/luizdemoraes/mono) - monochromatic theme generator in react; website down → try to get up and running myself
-[simurai/duotone-dark-syntax](https://github.com/simurai/duotone-dark-syntax) -
-* [logic](https://github.com/simurai/duotone-dark-syntax/blob/master/lib/duotone.coffee) - see also [simurai/vscode-tritone,](https://github.com/simurai/vscode-tritone,) [metaory/mxcolr-lite,](https://github.com/metaory/mxcolr-lite,) [metaory/mxcolr-v2](https://github.com/metaory/mxcolr-v2) - pseudo-random color generation
+* [luizdemoraes/mono](https://github.com/luizdemoraes/mono) - monochromatic theme generator in react; website down → try to get up and running myself
+* [simurai/duotone-dark-syntax](https://github.com/simurai/duotone-dark-syntax) -
+* [logic](https://github.com/simurai/duotone-dark-syntax/blob/master/lib/duotone.coffee) - see also [simurai/vscode-tritone](https://github.com/simurai/vscode-tritone) [metaory/mxcolr-lite,](https://github.com/metaory/mxcolr-lite) [metaory/mxcolr-v2](https://github.com/metaory/mxcolr-v2) - pseudo-random color generation
 * exploration, collections
 * [Explore Color Palettes - Coolors](https://coolors.co/palettes/popular/forest)
 * from picturepywal
         [robwaz/pywal](https://github.com/robwaz/pywal) - current fork
         [dylanaraps/pywal](https://github.com/dylanaraps/pywal)
         [matthewlscarlson/zathura-pywal](https://github.com/matthewlscarlson/zathura-pywal)
-        [Quicksilver151/CustomTools/tree/master/wal](https://github.com/Quicksilver151/CustomTools/tree/master/wal) [dylanaraps/pywal
+        [Quicksilver151/CustomTools/tree/master/wal](https://github.com/Quicksilver151/CustomTools/tree/master/wal)
         [bluedrack/vscode-wal](https://github.com/bluedrack/vscode-wal)
         [xi/xiwal](https://github.com/xi/xiwal)
-        [JuliaGraphics/ColorSchemeTools.jl](https://github.com/dylanaraps/pywal](https://github.com/JuliaGraphics/ColorSchemeTools.jl](https://github.com/dylanaraps/pywal)
+        [JuliaGraphics/ColorSchemeTools.jl](https://github.com/dylanaraps/pywal)
+        [...](https://github.com/JuliaGraphics/ColorSchemeTools.jl)
+        [pywal](https://github.com/dylanaraps/pywal)
         [bluedrack/vscode-wal](https://github.com/bluedrack/vscode-wal)
         [xi/xiwal](https://github.com/xi/xiwal)
-        [JuliaGraphics/ColorSchemeTools.jl)](https://github.com/JuliaGraphics/ColorSchemeTools.jl)) [dylanaraps/wal](https://github.com/dylanaraps/wal) - generate and change colorschemes on the fly.https://github.com/TesterTech/rice-i3-from-scratch-pywal -
-* [reddit](https://www.reddit.com/r/unixporn/comments/12ug679/i3wm_image_browser_for_pywal_to_test_out_color/)https://github.com/makuto/auto-base16-theme
-        [misterio77/flavours/](https://github.com/misterio77/flavours/)
+        [JuliaGraphics/ColorSchemeTools.jl)](https://github.com/JuliaGraphics/ColorSchemeTools.jl)
+        [dylanaraps/wal](https://github.com/dylanaraps/wal) - generate and change colorschemes on the fly.
+        [...](https://github.com/TesterTech/rice-i3-from-scratch-pywal)
+* [reddit](https://www.reddit.com/r/unixporn/comments/12ug679/i3wm_image_browser_for_pywal_to_test_out_color/)
+* [auto-base16-theme](https://github.com/makuto/auto-base16-theme)
+* [misterio77/flavours/](https://github.com/misterio77/flavours/)
 * [Flavours, a simple and unixy way to use base16 schemes : unixporn](https://www.reddit.com/r/unixporn/comments/jhbyoy/oc_flavours_a_simple_and_unixy_way_to_use_base16/)
 * [Make a terminal theme with Base16 and Flavours - Part 2 - YouTube](https://www.youtube.com/watch?v=Hjq15PVY0Tk) → see parts I and III |
-* [flavours/Cargo.toml at master · Misterio77/flavours](https://github.com/Misterio77/flavours/blob/master/Cargo.toml)https://github.com/entscheidungsproblem/K-means
-        [f0x48/ricemood](https://github.com/f0x48/ricemood)
-* [Reddit -
-* [OC] I create a tool to magically match your color scheme based on the wallpaper](https://www.reddit.com/r/unixporn/comments/dzgu7i/oc_i_create_a_tool_to_magically_match_your_color/)
+* [flavours/Cargo.toml at master · Misterio77/flavours](https://github.com/Misterio77/flavours/blob/master/Cargo.toml)
+* [github.com/entscheidungsproblem/K-means](...)
+* [f0x48/ricemood](https://github.com/f0x48/ricemood)
+* [Reddit - [OC] I create a tool to magically match your color scheme based on the wallpaper](https://www.reddit.com/r/unixporn/comments/dzgu7i/oc_i_create_a_tool_to_magically_match_your_color/)
 * AI colorscheme generation
-        [khroma.co/](https://www.khroma.co/)
+* [khroma.co/](https://www.khroma.co/)
 * format, conversion, etc.
 * [ansifilter](http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php)
 * [no-color.org](https://no-color.org/)
@@ -1178,51 +1206,66 @@ print(transformed.shape)
 * [DisplayCAL](https://displaycal.net/) - Open Source Display Calibration and Characterization powered by ArgyllCMS.
 * [OpenRGB](https://openrgb.org/) - Open source RGB lighting control that doesn’t depend on manufacturer software. For Windows, Linux, MacOS.
 * with specific softwarevim / nvim
-        [nokobear/vim-colorscheme-edit](https://github.com/nokobear/vim-colorscheme-edit)
-        [utubo/vim-6colors](https://github.com/utubo/vim-6colors)
-        [strrts/swatch.vim](https://github.com/strrts/swatch.vim)
-* [glowfish](https://github.com/daylerees/colour-schemes/blob/master/vim/colors/glowfish.vim)https://github.com/ChristianChiarulli/colorgen-nvim
-        [GideonWolfe/vim.reaper](https://github.com/GideonWolfe/vim.reaper)
-        [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) - colorscheme creation
-        [lifepillar/vim-colortemplate](https://github.com/lifepillar/vim-colortemplate)
-        [chadcat7/prismvscode→](https://github.com/chadcat7/prismvscode→) see vscode-wal
-        [yelircaasi/schwarzwald-vscode-theme](https://github.com/yelircaasi/schwarzwald-vscode-theme) [code.visualstudio.com/api/references/theme-color](https://code.visualstudio.com/api/references/theme-color) [code.visualstudio.com/docs/getstarted/themes#_customizing-a-color-theme](https://code.visualstudio.com/docs/getstarted/themes#_customizing-a-color-theme) [css-tricks.com/creating-a-vs-code-theme/](https://css-tricks.com/creating-a-vs-code-theme/) 
-* [VSCode Theme Creator](https://themes.vscode.one/)https://code.visualstudio.com/docs/getstarted/themes [code.visualstudio.com/api/extension-guides/color-theme#create-a-new-color-theme](https://code.visualstudio.com/api/extension-guides/color-theme#create-a-new-color-theme)  UBUNTU STACK [sommaa/dots](https://github.com/sommaa/dots)  → get working in VanillaOS in a VM
-        [en.wikipedia.org/wiki/Xrdb](https://en.wikipedia.org/wiki/Xrdb)
-* [Changing the colors - Material for MkDocs](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#automatic-light-dark-mode)https://github.com/hyprwm/hyprpicker
-        [Soft/xcolor](https://github.com/Soft/xcolor)
-        [solarized/xresources](https://github.com/solarized/xresources)
-        [sphinx-design.readthedocs.io/en/latest/index.html](https://sphinx-design.readthedocs.io/en/latest/index.html)
+* [nokobear/vim-colorscheme-edit](https://github.com/nokobear/vim-colorscheme-edit)
+* [utubo/vim-6colors](https://github.com/utubo/vim-6colors)
+* [strrts/swatch.vim](https://github.com/strrts/swatch.vim)
+* [glowfish](https://github.com/daylerees/colour-schemes/blob/master/vim/colors/glowfish.vim)
+* [GideonWolfe/vim.reaper](https://github.com/GideonWolfe/vim.reaper)
+* [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) - colorscheme creation
+* [lifepillar/vim-colortemplate](https://github.com/lifepillar/vim-colortemplate)
+* [chadcat7/prismvscode→](https://github.com/chadcat7/prismvscode→) see vscode-wal
+* [yelircaasi/schwarzwald-vscode-theme](https://github.com/yelircaasi/schwarzwald-vscode-theme) [code.visualstudio.com/api/references/theme-color](https://code.visualstudio.com/api/references/theme-color)
+* [code.visualstudio.com/docs/getstarted/themes#_customizing-a-color-theme](https://code.visualstudio.com/docs/getstarted/themes#_customizing-a-color-theme)
+* [css-tricks.com/creating-a-vs-code-theme/](https://css-tricks.com/creating-a-vs-code-theme/) 
+* [VSCode Theme Creator](https://themes.vscode.one/) [...](https://code.visualstudio.com/docs/getstarted/themes) [code.visualstudio.com/api/extension-guides/color-theme#create-a-new-color-theme](https://code.visualstudio.com/api/extension-guides/color-theme#create-a-new-color-theme)
+* UBUNTU STACK [sommaa/dots](https://github.com/sommaa/dots)  → get working in VanillaOS in a VM
+* [en.wikipedia.org/wiki/Xrdb](https://en.wikipedia.org/wiki/Xrdb)
+* [Changing the colors - Material for MkDocs](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#automatic-light-dark-mode)
+* [...](https://github.com/hyprwm/hyprpicker)
+* [Soft/xcolor](https://github.com/Soft/xcolor)
+* [solarized/xresources](https://github.com/solarized/xresources)
+* [sphinx-design.readthedocs.io/en/latest/index.html](https://sphinx-design.readthedocs.io/en/latest/index.html)
 * [Gogh - Color Scheme](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal
-        [DioptricDesign/qtile-chameleon](https://github.com/DioptricDesign/qtile-chameleon)
+* [DioptricDesign/qtile-chameleon](https://github.com/DioptricDesign/qtile-chameleon)
 * [dconf - How to save GNOME settings in a file? - Ask Ubuntu](https://askubuntu.com/questions/984205/how-to-save-gnome-settings-in-a-file)
 * 1S
 * [command line - Changing colour of text and background of terminal? - Ask Ubuntu](https://askubuntu.com/questions/558280/changing-colour-of-text-and-background-of-terminal)
-* templating, instantiation, switching, etc.https://github.com/misterio77/flavours/
+* templating, instantiation, switching, etc.
+* [flavours](https://github.com/misterio77/flavours/)
 * [Flavours, a simple and unixy way to use base16 schemes : unixporn](https://www.reddit.com/r/unixporn/comments/jhbyoy/oc_flavours_a_simple_and_unixy_way_to_use_base16/)
 * [...](https://draculatheme.com/) - great collection of templates
-        [deviantfero/wpgtk](https://github.com/deviantfero/wpgtk) - A universal theming software for all themes defined in text files, compatible with all terminals, with default themes for GTK2, GTK+, openbox and Tint2 that uses pywal as it’s core for colorscheme generation.https://github.com/jacoborus/estilo
+        [deviantfero/wpgtk](https://github.com/deviantfero/wpgtk) - A universal theming software for all themes defined in text files, compatible with all terminals, with default themes for GTK2, GTK+, openbox and Tint2 that uses pywal as it’s core for colorscheme generation.
+        [estilo](https://github.com/jacoborus/estilo)
         [Saecki/alco](https://github.com/Saecki/alco) -rust, Update terminal colorschemes on the fly
         [base16-builder/base16-builder](https://github.com/base16-builder/base16-builder) [mjswensen/themer
         [piutranq/cologen](https://github.com/piutranq/cologen)
-        [Kumux/kumux-colorscheme-engine](https://github.com/mjswensen/themer](https://github.com/Kumux/kumux-colorscheme-engine](https://github.com/mjswensen/themer)
+        [Kumux/kumux-colorscheme-engine](https://github.com/Kumux/kumux-colorscheme-engine)
+        [https://github.com/mjswensen/themer](https://github.com/mjswensen/themer)
         [piutranq/cologen](https://github.com/piutranq/cologen)
-        [Kumux/kumux-colorscheme-engine)](https://github.com/Kumux/kumux-colorscheme-engine)) (good source of templates! - also in pictrix page)https://github.com/andreyvpng/just-colors
+        [Kumux/kumux-colorscheme-engine)](https://github.com/Kumux/kumux-colorscheme-engine) (good source of templates! - also in pictrix page)
+        [just-colors](https://github.com/andreyvpng/just-colors)
         [magnickolas/alacritty-scheme-switcher](https://github.com/magnickolas/alacritty-scheme-switcher)
-* [→ ideas for colorflip](https://github.com/gh0stzk/dotfiles)https://github.com/cherrynoize/dash-dotfiles
-* [bspwm dark light mode switcher](https://www.reddit.com/r/unixporn/comments/13hpfdv/bspwmpolybar_dark_mode_switcher/) [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm color switchin
-        [stav121/i3wm-themer](https://github.com/stav121/i3wm-themer)
-        [shvedes/dotfiles](https://github.com/shvedes/dotfiles) (hyprland) - theme switching script** [Kumux/kumux-colorscheme-engine](https://github.com/Kumux/kumux-colorscheme-engine) → advanced circadian cycle adaptive colorscheme feature → good list of software → add this functionality to a sister app of pictrix? make compatible? → look at design and implementation - [colorscheme.kumux.io/](https://colorscheme.kumux.io/) → somewhat different and worth adding eventually; not top prio
+* [→ ideas for colorflip](https://github.com/gh0stzk/dotfiles)
+* [dash-dotfiles](https://github.com/cherrynoize/dash-dotfiles)
+* [bspwm dark light mode switcher](https://www.reddit.com/r/unixporn/comments/13hpfdv/bspwmpolybar_dark_mode_switcher/) [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm
+
+## color switching
+
+* [stav121/i3wm-themer](https://github.com/stav121/i3wm-themer)
+* [shvedes/dotfiles](https://github.com/shvedes/dotfiles) (hyprland) - theme switching script**
+* [Kumux/kumux-colorscheme-engine](https://github.com/Kumux/kumux-colorscheme-engine) → advanced circadian cycle adaptive colorscheme feature → good list of software → add this functionality to a sister app of pictrix? make compatible?
+* → look at design and implementation - [colorscheme.kumux.io/](https://colorscheme.kumux.io/) → somewhat different and worth adding eventually; not top prio
 * other, maybe someday, etc
         [imgly/rembrandt](https://github.com/imgly/rembrandt) - image comparison
 * Browser, websitestylus
 * [live_stylus](https://pypi.org/project/live_stylus/)
-* [stylus-ui](https://pypi.org/project/py-stylus-ui/)https://github.com/jw/stilus -
-* [stilus](https://pypi.org/project/stilus/)for colorflip [jw/styrus](https://github.com/jw/styrus) → resurrect?for colorflip [stevepryde/thirtyfour](https://github.com/stevepryde/thirtyfour) → is this even needed?bkad/python-stylus: python bridge for the stylus css compilerStylus | PyCharm Documentation
-        [jw/stilus](https://github.com/jw/stilus) -
+* [stylus-ui](https://pypi.org/project/py-stylus-ui/)
+* [stilus](https://github.com/jw/stilus)
+* [stilus](https://pypi.org/project/stilus/) for colorflip [jw/styrus](https://github.com/jw/styrus) → resurrect? for colorflip [stevepryde/thirtyfour](https://github.com/stevepryde/thirtyfour) → is this even needed?bkad/python-stylus: python bridge for the stylus css compilerStylus | PyCharm Documentation
+* [jw/stilus](https://github.com/jw/stilus) -
 * [stilus · PyPI](https://pypi.org/project/stilus/)
-* [github.com/bkad/python-stylus
-        [bkad/python-stylus](https://github.com/bkad/python-stylus)](https://github.com/bkad/python-stylus](https://github.com/bkad/python-stylus)) stylesheetsall
+* [bkad/python-stylus](https://github.com/bkad/python-stylus)
+* stylesheetsall
 * [knecon.com](http://knecon.com/) sitesstackoverflowpython docsadd to Documenter.jlPython, Julia, etc docsRedditTeams
 * [local storage - Where does chrome store LocalStorage on my computer? - Super User](https://superuser.com/questions/1703794/where-does-chrome-store-localstorage-on-my-computer)
 * [Chrome Extensions: Give users options - Chrome Developers](https://developer.chrome.com/docs/extensions/mv3/options/#view_page)
@@ -1230,7 +1273,7 @@ print(transformed.shape)
 * [Profiles - Where Firefox stores your bookmarks, passwords and other user data | Firefox Help](https://support.mozilla.org/en-US/kb/profiles-where-firefox-stores-user-data)
 * [Profiles - Where Firefox stores your bookmarks, passwords and other user data | Firefox Help](https://support.mozilla.org/en-US/kb/profiles-where-firefox-stores-user-data#w_how-do-i-find-my-profile)
 * [Reddit - Web Scraping with Rust (A Beginner Friendly Tutorial)](https://www.reddit.com/r/rust/comments/10gtqn0/web_scraping_with_rust_a_beginner_friendly/)Find a way to change info programmatically in extensionsfind /home/isaac/.mozilla/ -name "*sqlite" | grep -v "https\?\+\+\+”ls ~/.config/google-chrome/Default/Extensions/ponfpcnoihfmfllpaingbgckeeldkhle/2.0.117.10_0
-        [developer.chrome.com/docs/extensions/reference/storage/](https://developer.chrome.com/docs/extensions/reference/storage/)
+* [developer.chrome.com/docs/extensions/reference/storage/](https://developer.chrome.com/docs/extensions/reference/storage/)
 * [(2) How do I find the file location of an extension? : firefox](https://www.reddit.com/r/firefox/comments/a1enek/how_do_i_find_the_file_location_of_an_extension/)Debugging - Runtime / this-firefoxIndex of file:///home/isaac/.mozilla/firefox/uxoqb3lu.default-release/extensions/
 * [(2) Where are extensions data stored ? : firefox](https://www.reddit.com/r/firefox/comments/ei70ii/where_are_extensions_data_stored/)
 * [(2) Firefox retaining private data from uninstalled extensions : firefox](https://www.reddit.com/r/firefox/comments/g4m306/firefox_retaining_private_data_from_uninstalled/)10407e4f-a5b2-4f9f-84dc-b3934502b25e/manifest.jsonLocal StorageSession StorageCache StorageCookiesIndexed DBabout:support
@@ -1322,7 +1365,7 @@ print(transformed.shape)
 * [drive.google.com/drive/folders/19O9qHXYdETtf-l67Gnrl_FZVswLn23ER?usp=sharing](https://drive.google.com/drive/folders/19O9qHXYdETtf-l67Gnrl_FZVswLn23ER?usp=sharing)
 * [nice wallpaper](https://wallhaven.cc/w/vqm813)
 * raining wallpaper [(4)
-* [i3-gaps] no bar, play RPCS3 : unixporn](https://www.reddit.com/r/unixporn/comments/110udd9/i3gaps_no_bar_play_rpcs3/)
+* [i3-gaps | no bar, play RPCS3 : unixporn](https://www.reddit.com/r/unixporn/comments/110udd9/i3gaps_no_bar_play_rpcs3/)
 * [jszczerbinsky/lwp](https://github.com/jszczerbinsky/lwp)
 * [drive.google.com/drive/folders/1741M3BYbUsU2CtCNO8Nqnt1fYjeaCV6m](https://drive.google.com/drive/folders/1741M3BYbUsU2CtCNO8Nqnt1fYjeaCV6m) Wallpapers
 * [ChrisTitusTech/nord-background*](https://github.com/ChrisTitusTech/nord-background*)
@@ -1360,7 +1403,11 @@ print(transformed.shape)
 
 * Icons, Theming, Fonts
 * [ ]  Patch my own font (Conda logo, Nvidia logo) → [ryanoasis/nerd-fonts#font-patcher*](https://github.com/ryanoasis/nerd-fonts#font-patcher*)
-* Desktop Customization*    * Desktop Icon Packs)
+
+## Desktop Customization
+
+## Desktop Icon Packs)
+
 * [Candy Icons](https://github.com/EliverLara/candy-icons) - An icon theme colored with sweet gradients.
 * [Flat Remix](https://github.com/daniruiz/Flat-Remix) - Flat Remix is an icon theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.
 * [Fluent Icon Theme](https://github.com/vinceliuice/Fluent-icon-theme) - Fluent icon theme for linux desktops.
@@ -1372,7 +1419,9 @@ print(transformed.shape)
 * [Reversal Icon Theme](https://github.com/yeyushengfan258/Reversal-icon-theme) - A colorful design icon theme for linux desktops.
 * [Tela Icon Theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme.
 * [WhiteSur Icon Theme](https://github.com/vinceliuice/WhiteSur-icon-theme) - MacOS Big Sur style icon theme for linux desktops.
-* [Zafiro Icons](https://github.com/zayronxio/Zafiro-icons) - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white.*    * Desktop Themes
+* [Zafiro Icons](https://github.com/zayronxio/Zafiro-icons) - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white.
+
+* Desktop Themes
 * [Ant Theme](https://github.com/EliverLara/Ant) - Ant is a flat GTK theme for Ubuntu and other GNOME-based Linux desktops it comes in three varieties: vanilla, Bloody, or Dracula.
 * [Arc Theme](https://github.com/jnsh/arc-theme) - A flat theme with transparent elements.
 * [Catppuccin](https://github.com/catppuccin) - Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes.
@@ -1388,28 +1437,34 @@ print(transformed.shape)
 * [Orchis theme](https://github.com/vinceliuice/Orchis-theme) - Orchis is a Material Design theme for GNOME/GTK based desktop environments.
 * [Qogir](https://github.com/vinceliuice/Qogir-theme) - Qogir is a flat Design theme for GTK.
 * [Sweet](https://github.com/EliverLara/Sweet) - Light and dark colorful Gtk3.20+ theme.
-* [WhiteSur GTK Theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS Big Sur like theme for GNOME desktops.* * Font managemen
+* [WhiteSur GTK Theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS Big Sur like theme for GNOME desktops.
+
+## Font management
+
 * [FIGlet](https://github.com/cmatsuoka/figlet) - Not exactly a font manager, but a nice program for making large letters out of ordinary text; an astonishing number of different fonts is available
-* [toilet](https://github.com/cacalabs/toilet) - A program that tries to improve `FIGlet`; can load FIGlet fonts; supports Unicode input and output, colour fonts and output, and various output formats, including HTML, IRC and ANSI; uses `libcaca` to produce nice textual effects.* * GTK Themes, Icons, etc.
+* [toilet](https://github.com/cacalabs/toilet) - A program that tries to improve `FIGlet`; can load FIGlet fonts; supports Unicode input and output, colour fonts and output, and various output formats, including HTML, IRC and ANSI; uses `libcaca` to produce nice textual effects.
+
+## GTK Themes, Icons, etc
+
 * [erikdubois.be/listing/](https://www.erikdubois.be/listing/)
 * [erikdubois.be/downloads/](https://www.erikdubois.be/downloads/)
 * [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme)
 * [vinceliuice/Fluent-icon-theme*](https://github.com/vinceliuice/Fluent-icon-theme*)
-*     > fonts from Cneude
-*     [gradience.readthedocs.io/en/latest/](https://gradience.readthedocs.io/en/latest/)
+* > fonts from Cneude
+* [gradience.readthedocs.io/en/latest/](https://gradience.readthedocs.io/en/latest/)
 * [FontForge](https://fontforge.github.io/) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux.
 * [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - This script fixes hardcoded tray icons in Linux by automatically detecting your default theme, the right icon size, the hard-coded applications, the right icons for each indicator and fix them.
 * *   [google-font-installer](https://github.com/lordgiotto/google-font-installer)) - Download and install Google Web Fonts on your local machine.
 * [Cursor themes - ArchWiki](https://wiki.archlinux.org/title/Cursor_themes)
 * [How to change mouse cursor theme? : i3wm](https://www.reddit.com/r/i3wm/comments/3su58i/how_to_change_mouse_cursor_theme/)
-*     [tsujan/Kvantum](https://github.com/tsujan/Kvantum)
+* [tsujan/Kvantum](https://github.com/tsujan/Kvantum)
 * [How to Install Nerd Fonts on Linux - ByteXD](https://bytexd.com/how-to-install-nerd-fonts-on-linux/)
 * [Flatpak App Changing Cursor Theme And Size (Is This Normal Behavior?) : flatpak](https://www.reddit.com/r/flatpak/comments/rxnyh7/flatpak_app_changing_cursor_theme_and_size_is/)
-*     [r/neovim/comments/13vudj5/what_is_this_font_used_from_the_everforest_repo](https://www.reddit.com/r/neovim/comments/13vudj5/what_is_this_font_used_from_the_everforest_repo)
-*     Terminess Nerd Font
-*     Iosevka, Source Sans Pro
+* [r/neovim/comments/13vudj5/what_is_this_font_used_from_the_everforest_repo](https://www.reddit.com/r/neovim/comments/13vudj5/what_is_this_font_used_from_the_everforest_repo)
+* Terminess Nerd Font
+* Iosevka, Source Sans Pro
 
- [loichyan/nerdfix](https://github.com/loichyan/nerdfix)
+*  [loichyan/nerdfix](https://github.com/loichyan/nerdfix)
 * -> [awesome-ricing](https://github.com/fosslife/awesome-ricing)
 * [...](https://github.com/nickgerace/gfold)
 * [...](https://github.com/alex35mil/NeoHub)
@@ -1442,13 +1497,15 @@ print(transformed.shape)
 * [read](https://www.reddit.com/r/unixporn/comments/5o1mic/what_display_manager_do_you_guys_use/)
 * [Git Bare Repository - A Better Way To Manage Dotfiles - YouTube](https://www.youtube.com/watch?v=tBoLDpTWVOM)
 * [FlafyDev/flutter_workspaces_2](https://github.com/FlafyDev/flutter_workspaces_2) -
-* rice * [...](https://github.com/adi1090x/widgets* [...](https://github.com/outfoxxed/hy3* [...](https://github.com/mahkoh/jay* [...](https://github.com/MrVivekRajan/Grub-Themes)
-* {rice} [...](https://github.com/dawsers/hyprscroller* [...](https://github.com/hyprland-community/awesome-hyprland* [...](https://nwg-piotr.github.io/nwg-shell/)
+* {rice} [...](https://github.com/adi1090x/widgets) [...](https://github.com/outfoxxed/hy3) [...](https://github.com/mahkoh/jay) [...](https://github.com/MrVivekRajan/Grub-Themes)
+* {rice} [...](https://github.com/dawsers/hyprscroller) [...](https://github.com/hyprland-community/awesome-hyprland) [...](https://nwg-piotr.github.io/nwg-shell/)
 * {rice} [...](https://github.com/mathix420/dotfiles/blob/master/beeper.css)
 * {rice} [...](https://talyian.github.io/ansicolors/)
 * {rice} [aphrodite-terminal-theme](https://github.com/win0err/aphrodite-terminal-theme) — Minimalistic Aphrodite theme (prompt) for sexy terminals that works in bash, fish and zsh → prompts
 * {rice} [Base16 Designer](http://brianreilly.me/Base16Designer/)
-* {rice} [catppuccin](https://github.com/catppuccin/catppuccin) → see list of software* [...](https://github.com/Haruno19/fuzzy-c-means-processing* [...](https://github.com/Haruno19/c-halloc)
+* {rice} [catppuccin](https://github.com/catppuccin/catppuccin) → see list of software
+* [...](https://github.com/Haruno19/fuzzy-c-means-processing)
+* [...](https://github.com/Haruno19/c-halloc)
 * {rice} [commit mono](https://commitmono.com/) neutral font
 * {rice} [gautam_linux/colours.sh at master · gkotian/gautam_linux](https://github.com/gkotian/gautam_linux/blob/master/scripts/colours.sh)
 * {rice} [Misterio77/flavours: 🎨💧 An easy to use base16 scheme manager that integrates with any workflow.](https://github.com/Misterio77/flavours)

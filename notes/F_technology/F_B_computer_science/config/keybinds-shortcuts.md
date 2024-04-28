@@ -29,7 +29,7 @@
 * [ ] develop standard notation (JSON/YAML/TOML for now) to unambiguously
     record all keystrokes
 * [ ] look at vscode JSON format and identify shortcomings
-* [ ] add variable system for things like leader key, modifier<i>,
+* [ ] add variable system for things like leader key, modifier\<i\>,
         etc.
 * [ ] develop good way to deal with chords → synchronicity vs
         sequentialit
@@ -37,7 +37,7 @@
             ‘$’ as escape for ‘(’ and ‘)’
 * [ ] add prefix for valid scope: “[vscode] ($ctrl $alt k) ($))”
 
-    *  [ ] clean notation for ctrl, alt, F{i}, etc → unicode?    * [ ] ⎈ for ctrl / $ctrl or ⎋?
+  * [ ] clean notation for ctrl, alt, F{i}, etc → unicode?    * [ ] ⎈ for ctrl / $ctrl or ⎋?
 * [ ] ⌗ for alt / $alt
 * [ ] $f1 … $f12
 * [ ]  ␛ for escape / $esc
@@ -65,7 +65,7 @@
 * [ ] syntax highlighting for keystroke syntax (low priority, but cool)
 * [ ] extend config parsers to write changed keybindings (with backup,
       including optional support for commenting out old keybindings lines,
-      but also backing up the config to e.g. ~/.cache/clavix/<timestamp>)
+      but also backing up the config to e.g. ~/.cache/clavix/\<timestamp\>)
 
 ## notes
 
@@ -130,7 +130,7 @@ Need to integrate cleanly → separation of concerns
 
 home, end, page up, page down
 
-### proglang keywords:
+### proglang keywords
 
 * → how to integrate with espanso? via special characters to begin triggers
 * → maybe don’t integrate this part with espanso; pure-kanata can be faster
@@ -324,7 +324,7 @@ shift + shift -> caps lock or some other key
 ```lisp
 (defsrc
     esc            f1   f2   f3   f4             f5    f6    f7    f8          f9   f10  f11   f12
-    grv       1      2    3      4      5       6     7      8     9      
+    grv       1      2    3      4      5       6     7      8     9
     *      =    bspc
     tab       q      w    e      r      t       y     u      i     o      p       [      ]       \
     caps      a      s    d      f      g       h     j      k     l      ;       '          enter
@@ -334,7 +334,7 @@ shift + shift -> caps lock or some other key
 
 (deflayer default
     caps           f1   f2   f3   f4               f5      f6     f7    f8          f9   f10  f11   f12
-    grv       1      2    3      4       5       6       7       8     9      
+    grv       1      2    3      4       5       6       7       8     9
     *      =     bspc
     tab       q      w    e      r       t       y       u       i     o      @punct  [      ]        \
     @hybrctl  a      s    d      f       @german h       j       k     l      ;       '           enter
@@ -391,11 +391,11 @@ shift + shift -> caps lock or some other key
 (deflayer numbers
     *         *     *   *     *         *     *    *     *      *    *    *    -
     *       *      *    *      *      *       *     *      *     *      *      *      *    -
-    *       *      7    8      
+    *       *      7    8
     *       *     *      *     *      *      *      *    -
-    *       *      4    5      
+    *       *      4    5
     *       *     *      *     *      *      *       -
-    *       0      1    2      
+    *       0      1    2
     *       *     *      *     *      *              *     -
     *       *      *         *                                  *      *       *       * - -
 )
@@ -405,7 +405,7 @@ shift + shift -> caps lock or some other key
     *       *       *       *      *      *       *     *      *     *      *      *      *    -
     *       S-,     S-.     S-[    S-]    *       *     *      *     *      *      *      *    -
     *       S-9     S-0     [      ]      *       *     *      *     *      *      *       -
-    *       @angleL @angleR 2      
+    *       @angleL @angleR 2
     *       *     *      *     *      *              *     -
     *       *      *         *                                      *      *       *       * - -
 )

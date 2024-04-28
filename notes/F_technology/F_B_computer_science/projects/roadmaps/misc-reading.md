@@ -14,9 +14,8 @@
 * Knalysis 2 (Forster)
 * Seneca - Die Kürze des Lebens (zweisprachig)
 * Kleiner Sprachatlas von Baden-Württemberg
-
- 25-й чаg
-* Geep Reinforcement Learning
+* 25-й чаc
+* Deep Reinforcement Learning
 * German Philosophy: A Very Short Introduction
 * History: A Very Short Introduction
 * Topology: A Very Short Introduction

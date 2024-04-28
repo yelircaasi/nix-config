@@ -2,6 +2,8 @@
 
 ## Miscellaneous
 
+* [inpaint-web](https://github.com/lxfater/inpaint-web)
+
 * mopidy
 * ( ) [navidrome](https://www.navidrome.org/)
 * ( ) [trackma](https://github.com/z411/trackma) [z411.github.io/trackma/](https://z411.github.io/trackma/)
@@ -21,7 +23,7 @@
 * ( ) [gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
 * ( ) [gifex](https://github.com/keshavbhatt/gifex) - GIF recorder
 
-## Screenshot and Screen Recording / Screencasting / Streaming / etc.
+## Screenshot and Screen Recording / Screencasting / Streaming / etc
 
 * [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
 * (2) [to-html](https://github.com/Aloso/to-html)
@@ -74,7 +76,7 @@
 
 ### YouTube GUI Frontend
 
-* ( ) [FreeTube](https://github.com/FreeTubeApp/FreeTube) →[FreeTube/issues/1864](https://github.com/FreeTubeApp/FreeTube/issues/1864)https://github.com/FreeTubeApp/FreeTube/issues/1864, [docs.freetubeapp.io/usage/keyboard-shortcuts/](https://docs.freetubeapp.io/usage/keyboard-shortcuts/)
+* ( ) [FreeTube](https://github.com/FreeTubeApp/FreeTube) →[FreeTube/issues/1864](https://github.com/FreeTubeApp/FreeTube/issues/1864) [->](https://github.com/FreeTubeApp/FreeTube/issues/1864), [docs.freetubeapp.io/usage/keyboard-shortcuts/](https://docs.freetubeapp.io/usage/keyboard-shortcuts/)
 * ( ) [PlasmaTube](https://apps.kde.org/plasmatube/) - Kirigami-based YouTube client for Linux Desktop and Mobile with built-in ad-blocking and privacy features.
 * ( ) [red](https://github.com/keshavbhatt/red) - YouTube desktop client
 * ( ) [minitube](https://github.com/flaviotordini/minitube) - youtube client
@@ -104,7 +106,7 @@
 * ( ) [imgp](https://github.com/jarun/imgp) - A command line image resizer and rotator for JPEG and PNG images. It can resize (or thumbnail) and rotate thousands of images in a go, at lightning speed, while saving significantly on storage.
 * ( ) [Potrace](http://potrace.sourceforge.net/) - Potrace is a tool for tracing a bitmap, which means, transforming a bitmap into a smooth, scalable image.
 
-## Finding / Search / Download / Library Management / etc.
+## Finding / Search / Download / Library Management / etc
 
 * ( ) [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - Instant music downloader.
 * ( ) [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Download videos from YouTube.com and many other video sites.
@@ -259,10 +261,14 @@
 
 #### Radio
 
+* ( ) [somafm-cli](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal. - old, but SomaFM is interesting
+* ( ) [pyradio](https://github.com/coderholic/pyradio) - Curses based internet radio player. - looks pretty good
+* ( ) [Tera](https://github.com/shinokada/tera) - Terminal Radio: an easy-to-use CLI music player to play favorite music, radio stations and explore various radio stations from the terminal only.
+* ( ) [cTune](https://github.com/An7ar35/ctune) - A ncurses based internet radio player written in C for Linux.
 * [RadioTray-NG](https://github.com/ebruck/radiotray-ng) - An Internet radio player for Linux.
 * [Shortwave](https://apps.gnome.org/app/de.haeckerfelix.Shortwave/) - Shortwave is an internet radio player that provides access to a station database with over 25,000 stations.
 
-### Editing, conversion, etc.
+### Editing, conversion, etc
 
 * ( ) [Ardour](https://ardour.org/) - Digital Audio Workstation (DAW). ([GNU GPLv2](https://ardour.org/copying.html))
 * ( ) [Audacity](http://www.audacityteam.org/) - Sound recording and post-processing. ([GNU GPLv2+](http://www.audacityteam.org/about/license/))
@@ -295,7 +301,6 @@
 * (U)[kunst](https://github.com/sdushantha/kunst)- rewrite for wayland (wayland stack dependencies)
 * [glava](https://github.com/jarcode-foss/glava) - OpenGL audio spectrum visualizer - also X11
 * (U ← X11) [nikp123/xava](https://github.com/nikp123/xava)
-(\* \[\]\(https://github.com/\w+/[^) ]+)
 
 ## Spotify
 
@@ -307,16 +312,9 @@
 * ( ) [Spicetify](https://spicetify.app/) - Command-line tool to customize the official Spotify client. Supports Windows, MacOS and Linux.
 * [spicetify-cli](https://github.com/spicetify/spicetify-cli)
 * ( ) [spotify-cli](https://github.com/brianstrauch/spotify-cli)
-* + [spotify-tui](https://github.com/Rigellute/spotify-tui) - A Spotify client for the terminal written in Rust. - [Rigellute/spotify-tui/blob/master/README.md](https://github.com/Rigellute/spotify-tui/blob/master/README.md)
+* ( ) [spotify-tui](https://github.com/Rigellute/spotify-tui) - A Spotify client for the terminal written in Rust. - [Rigellute/spotify-tui/blob/master/README.md](https://github.com/Rigellute/spotify-tui/blob/master/README.md)
 * ( ) [spotify-player](https://github.com/aome510/spotify-player) - spotify-player is a fast, easy to use, and configurable terminal music player having feature parity with the official Spotify application.
 * ( ) [gspt](https://github.com/aditya-K2/gspt) - looks great, certainly worth trying
-
-## Radio
-
-* ( ) [somafm-cli](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal. - old, but SomaFM is interesting
-* ( ) [pyradio](https://github.com/coderholic/pyradio) - Curses based internet radio player. - looks pretty good
-* ( ) [Tera](https://github.com/shinokada/tera) - Terminal Radio: an easy-to-use CLI music player to play favorite music, radio stations and explore various radio stations from the terminal only.
-* ( ) [cTune](https://github.com/An7ar35/ctune) - A ncurses based internet radio player written in C for Linux.
 
 ## Players / CLI Controllers
 
@@ -368,13 +366,13 @@
 
 ## SORT
 
-media * [?](https://www.reddit.com/r/unixporn/s/CUbkAsCxR2) music player in C
+* {media} * [?](https://www.reddit.com/r/unixporn/s/CUbkAsCxR2) music player in C
 * {media} [...](https://github.com/SilinMeng0510/imgcatr)
 * {media} [...](https://saitoha.github.io/libsixel/)
 * {media} [castget](https://castget.johndal.com/) cli podcast downloader
 * {media} [lyssa](https://github.com/cococry/lyssa)
 * {media} [mousai](https://github.com/SeaDve/Mousai) - Identify songs in seconds
-media * [radion](https://gitlab.com/christosangel/radion) Radion, internet radio client in Bash
+* media * [radion](https://gitlab.com/christosangel/radion) Radion, internet radio client in Bash
 * {media} [tauon](https://tauonmusicbox.rocks/)
 * {media} [Watch YouTube videos using MPV player - An Easy Guide - LinuxForDevices](https://www.linuxfordevices.com/tutorials/linux/watch-youtube-videos-on-mpv-player)
 * {media} [youtubedownloader](https://github.com/Tyrrrz/YoutubeDownloader)

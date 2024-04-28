@@ -50,10 +50,10 @@ development                                        <|> Building your Mouseless D
 * {ed computing                                       } <|> [Parallel and High Performance Computing [1 ed.]](http://libgen.is/book/index.php?md5=37B6DFC32801A36CE6BB2306DB43B738)
 * {free head ebook first htm                          } <|> [Head First eBooks Download Free Page 4 | eBooks-IT.org](https://ebooks-it.org/serie-head-first-4.htm)
 * {free pdf head ebook ebook first htm                } <|> [Head First Object-Oriented Analysis and Design PDF Download Free | 0596008678](https://ebooks-it.org/0596008678-ebook.htm)
-* {$1} <|> [Library Genesis: Грэхем Р., Кнут Д., Паташник О. - Конкретная математика](https://libgen.is/book/index.php?md5=A1F33E6B2C9F9A1774441ADBD360C734)
-* {$1} <|> [Library Genesis: Кнут Д. - Искусство программирования](https://libgen.is/book/index.php?md5=EC055AE8A9DFD6092361C9E8C08BD03D)
-* {$1} <|> [Library Genesis: Дональд Эрвин Кнут (Donald E. Knuth) - Искусство программирования](https://libgen.is/book/index.php?md5=047ACE01CA77647FC56B11B5CB71106C)
-* {$1} <|> [Library Genesis: Дональд Эрвин Кнут (Donald E. Knuth) - Искусство программирования](https://libgen.is/book/index.php?md5=43804842BC09D811020914B939C65CF9)
+* {?} <|> [Library Genesis: Грэхем Р., Кнут Д., Паташник О. - Конкретная математика](https://libgen.is/book/index.php?md5=A1F33E6B2C9F9A1774441ADBD360C734)
+* {?} <|> [Library Genesis: Кнут Д. - Искусство программирования](https://libgen.is/book/index.php?md5=EC055AE8A9DFD6092361C9E8C08BD03D)
+* {?} <|> [Library Genesis: Дональд Эрвин Кнут (Donald E. Knuth) - Искусство программирования](https://libgen.is/book/index.php?md5=047ACE01CA77647FC56B11B5CB71106C)
+* {?} <|> [Library Genesis: Дональд Эрвин Кнут (Donald E. Knuth) - Искусство программирования](https://libgen.is/book/index.php?md5=43804842BC09D811020914B939C65CF9)
 * {github                                             } <|> [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 * {guide                                              } <|> [Learning Git: A Hands-On and Visual Guide to the Basics of Git](http://library.lol/main/132B5A0C37892FDC796A9BB32339A22D)
 * {guide python                                       } <|> [Algebraic Graph Algorithms. A Practical Guide Using Python](http://library.lol/main/C78AC442979F4B22338698399C13D319)
@@ -103,9 +103,9 @@ software code                                      <|> Software Source Code: Sta
 software head first development                    <|> head First Software Development. Edycja polska
 software open development                          <|>      * [Software Development : An Open Source Approach](http://library.lol/main/9860DD42AC234585B304A54A9F31E707)
 * {software programming                               } <|> [Software Engineering at Google: Lessons Learned from Programming Over Time](http://library.lol/main/19E06B97A1A518FB8DEF778B8423EA91)
-* {$1} <|> [Феномен криптовалюты Биткоин. Построение математических моделей децентрализованных информационных систем, реализующих функции платежных систем криптовалют. Подходы к комплексной оценке безопасности, в том числе оценке криптографической стойкости](http://library.lol/main/759BF15E4977BFB12324FA7D7BD16A71)
-* {$1} <|> [Цифровые технологии в финансовой сфере (на примере криптовалют). Неизбежность или осознанный выбор Российской Федерации. Монография](http://library.lol/main/D4841B6D4794D72D4D17A934DB2D0FD8)
-* {$1} <|> [Эволюционная теория происхождения денег в экономической науке в свете появления криптовалют](http://library.lol/main/F4E9DE9A5CD79387195EB2CAE80A33F4)
+* {?} <|> [Феномен криптовалюты Биткоин. Построение математических моделей децентрализованных информационных систем, реализующих функции платежных систем криптовалют. Подходы к комплексной оценке безопасности, в том числе оценке криптографической стойкости](http://library.lol/main/759BF15E4977BFB12324FA7D7BD16A71)
+* {?} <|> [Цифровые технологии в финансовой сфере (на примере криптовалют). Неизбежность или осознанный выбор Российской Федерации. Монография](http://library.lol/main/D4841B6D4794D72D4D17A934DB2D0FD8)
+* {?} <|> [Эволюционная теория происхождения денег в экономической науке в свете появления криптовалют](http://library.lol/main/F4E9DE9A5CD79387195EB2CAE80A33F4)
 * {python                } <|> [Python для программирования криптовалют](http://library.lol/main/B80BAA94A38F4B26FF049D3428CE5A9A)
 
 ## Linux
@@ -335,7 +335,7 @@ book ai                                            <|> AI Books
 * {cc s springer book                                 } <|> [Springer DS books](https://b-ok.cc/s/springer%20data%20science)
 * {bd be q                     } <|> [машинное обучение](https://b-ok.cc/s/?q=%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)
 * {cc year g                                          } <|> [Nilanjan Dey](https://b-ok.cc/g/Nilanjan%20Dey?order=year)
-* {$1} <|> [Машинное обучение. Наука и искусство построения алгоритмов, которые извлекают знания из данных](https://b-ok.cc/book/2909078/7bc70e)
+* {?} <|> [Машинное обучение. Наука и искусство построения алгоритмов, которые извлекают знания из данных](https://b-ok.cc/book/2909078/7bc70e)
 computing                                          <|> Cognitive Computing
 cookbook                                           <|> SQL Cookbook
 * {data                                               } <|> [Relational and XML Data Exchange](http://library.lol/main/7F38C2EE82618191DA5A57CA0B768A84)
@@ -599,7 +599,7 @@ pdf pytorch                                        <|> Mastering PyTorch.pdf
 pdf pytorch cookbook computer                      <|> PyTorch Computer Vision Cookbook.pdf
 pdf pytorch recipe                                 <|> PyTorch Recipes.pdf
 pdf pytorch reference pocket                       <|> PyTorch Pocket Reference.pdf
-* {$1} <|> [Глубокое обучение.pdf - Google Drive](https://drive.google.com/file/d/1rtoJepwq1Pl64gHC7Mk7v-3zqM8NUhep/view)
+* {?} <|> [Глубокое обучение.pdf - Google Drive](https://drive.google.com/file/d/1rtoJepwq1Pl64gHC7Mk7v-3zqM8NUhep/view)
 * {pdf vk dl hash                                     } <|> [10_Introduction_To_Machine_Learning_proglib.pdf](https://vk.com/doc7608079_443009925?hash=0d291af83bc81a8108&dl=94fb47f6b340584325)
 * {pdf vk dl hash                                     } <|> [4_Information_Theory_Inference_and_Learning_Algorithms_proglib.pdf](https://vk.com/doc7608079_443009851?hash=4b540304678fcaf701&dl=215a1d38eecc787330)
 * {pdf vk dl hash                                     } <|> [5_Gaussian_Processes_for_Machine_Learning_proglib.pdf](https://vk.com/doc7608079_443009855?hash=33b72f55fd91760ff4&dl=bc2ee4bde4a1c150ab)
@@ -631,24 +631,24 @@ r statistic                                        <|> A Course in Statistics wi
 * {rs processing                                      } <|> [everything processing](http://libgen.rs/book/index.php?md5=5B90FE8732A0CD9389288C7F4A88D4FB)
 * {s j z x y f getresponse360 click a62e mc jfai lc u datascience recognition pattern } <|> [Pattern Recognition](http://datascience.getresponse360.com/click.html?x=a62e&lc=uf2&mc=j&s=jFaI&u=F&y=N&z=wwBOteb&)
 * {s j z x y f getresponse360 click a62e mc jfai lc u datascience regression free classification } <|> [Free Book: Classification and Regression In a Weekend](http://datascience.getresponse360.com/click.html?x=a62e&lc=ufQ&mc=j&s=jFaI&u=F&y=z&z=wSGojMP&)
-* {$1} <|> [глубокое обучение](https://de1lib.org/s/%D0%B3%D0%BB%D1%83%D0%B1%D0%BE%D0%BA%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)
+* {?} <|> [глубокое обучение](https://de1lib.org/s/%D0%B3%D0%BB%D1%83%D0%B1%D0%BE%D0%BA%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)
 science                                            <|> The Art of Science
 science artificial                                 <|> Sciences of the Artificial
 * {science statistical                                } <|> [International Encyclopedia of Statistical Science](http://library.lol/main/12935C77BC49EC8FE7F7FC4D407360DA)
 * {tensorflow _ad dummie                              } <|> [TensorFlow for Dummies](http://93.174.95.29/_ads/87AD36AA73A5E3B788F8D1AC0EE15233)
 * {tensorflow _ad guide                               } <|> [Tensorflow 2.0 Quick Start Guide](http://93.174.95.29/_ads/34A2D31E9E915F8D60A7F4D76B96EA19)
-* {$1} <|> [Прикладное машинное обучение с помощью scikit-learn и tensorflow](http://93.174.95.29/_ads/3D8FC49632C78C16AEA77CA7D6894A6E)
+* {?} <|> [Прикладное машинное обучение с помощью scikit-learn и tensorflow](http://93.174.95.29/_ads/3D8FC49632C78C16AEA77CA7D6894A6E)
 tensorflow learn                                   <|> Learn TensorFlow 2.0
 * {tensorflow model application using processing advanced build nlp world } <|> [ADVANCED NATURAL LANGUAGE PROCESSING WITH TENSORFLOW 2: Build Real-world Effective Nlp... Applications Using Ner, Rnns, Seq2seq Models, Tran](http://libgen.is/book/index.php?md5=4B85BB70DF43F539E2C009245B66C364)
 * {tensorflow network model using _ad kera build adversarial generative } <|> [Generative Adversarial Networks Projects : Build Next-Generation Generative Models Using TensorFlow and Keras.](http://93.174.95.29/_ads/5D1D282E63C595C33D8953768EC5DC0D)
 * {tensorflow network neural _ad                      } <|> [TensorFlow in 1 Day Make your own Neural Network](http://93.174.95.29/_ads/8414B90BB8253992152F64A9ABB95D6F)
 * {tensorflow reference pocket                        } <|> [TensorFlow 2 Pocket Reference](http://libgen.is/book/index.php?md5=A6372E87535BF7D8960C1986364C76B1)
 * {view google d drive file usp sharing               } <|> [^ RU](https://drive.google.com/file/d/1rtoJepwq1Pl64gHC7Mk7v-3zqM8NUhep/view?usp=sharing)
-* {$1} <|> [Глубокое обучение Погружение в мир нейронных сетей](https://drive.google.com/file/d/18_rngmSL5nAgwtpXifAzwfAm9FeGxIf7/view?usp=sharing)
+* {?} <|> [Глубокое обучение Погружение в мир нейронных сетей](https://drive.google.com/file/d/18_rngmSL5nAgwtpXifAzwfAm9FeGxIf7/view?usp=sharing)
 * {view rs statistical handbook modern search method simple phrase req def column year } <|> [libgen.rs/search.php?&req=Handbooks+of+Modern+Statistical+Methods&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](http://libgen.rs/search.php?&req=Handbooks+of+Modern+Statistical+Methods&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 * {view search simple phrase req def column           } <|> [<-](http://libgen.is/search.php?req=Andrew+Glassner+From+Basics+to+Practice&open=0&res=25&view=simple&phrase=1&column=def)
 * {view search simple phrase req def column year      } <|> [neuronale Netze](https://libgen.is/search.php?&req=neuronale+netze&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
-* {$1} <|> [Прагматичный ИИ. Машинное обучение и облачные технологии](https://vk.com/doc44301783_550770394?hash=710a74b90fbcd8bf61&dl=276885fd9f36b6bab0)
+* {?} <|> [Прагматичный ИИ. Машинное обучение и облачные технологии](https://vk.com/doc44301783_550770394?hash=710a74b90fbcd8bf61&dl=276885fd9f36b6bab0)
 обучение глубокое                                  <|>     Глубокое обучение. Погружение в мир нейронных сетей
 
 ### MLOps

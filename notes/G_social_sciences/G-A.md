@@ -656,7 +656,7 @@ Katrin Göring-Eckhardt
 * Об'єднання Самопоміг
 * Радикальна Партія Олега Лашка (раніше УРДП)
 * Батьківщина
-* 
+*
 
 Russian film Leviathan
 
@@ -1063,7 +1063,7 @@ pursuing happiness
 * Luigi Taparelli
 * [Lancelot Hogben - Wikipedia](https://en.wikipedia.org/wiki/Lancelot_Hogben)
 * [ORIVEL François - Auteurs - Canal-U](https://www.canal-u.tv/auteurs/orivel_francois/videos#element_2)
-* [ulrich steinvorth](https://libgen.is/search.php?req=ulrich+steinvorth&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)* 
+* [ulrich steinvorth](https://libgen.is/search.php?req=ulrich+steinvorth&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)*
 
 
 * Books
@@ -1158,19 +1158,19 @@ pursuing happiness
 * Fabrikarbeit und Familienleben - Anno 1914, Tag 2 - YouTube
 * [Blue Collar Intellectuals: When the Enlightened and the Everyman Elevated America: Daniel J. Flynn: 9781610170208: Amazon.com: Books](https://www.amazon.com/Blue-Collar-Intellectuals-Enlightened-Everyman/dp/1610170202)
 * Review: The Intellectual Life of the British Working Classes by Jonathan Rose | Books | The Guardian
-* [Dzhared_M_Daymond_-_Pochemu_nam_tak_nravitsya_sex_-_2013.pdf](https://vk.com/doc30601958_450774125?hash=3aa17729da5139045a&dl=810e3ca1800769885e)* 
+* [Dzhared_M_Daymond_-_Pochemu_nam_tak_nravitsya_sex_-_2013.pdf](https://vk.com/doc30601958_450774125?hash=3aa17729da5139045a&dl=810e3ca1800769885e)*
 
 Ruut Veenhoven
 
 Yi-Fu Tuan, Geograf
 
 Es gibt kein persönliches Glück. Jegliches Glück gründet sich auf die Beziehungen zu anderen.
-* [eric weiner](http://libgen.is/search.php?req=Eric+weiner&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def) 
+* [eric weiner](http://libgen.is/search.php?req=Eric+weiner&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 * [лингвистика](http://libgen.io/search.php?&req=%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 * [Advertising and Society](http://libgen.io/search.php?req=advertising+society&open=0&res=25&view=simple&phrase=1&column=def)
 
 
-* https://periscopic.com/#!/impacts 
+* https://periscopic.com/#!/impacts
 
 Brandolini s Law
 * [Цифрова залежність - допамін для бідних. - YouTube](https://www.youtube.com/watch?v=P8Aq0OgZpsI)
@@ -1191,7 +1191,7 @@ Théorie des jeux — Wikipédia
 * Chapter 4: Pro: The Strongest Case for the West
 * Chapter5: Contra: The Strongest Case against the West
 * Chapter 6: Cui Bono? Understanding Who Benefits from Dishonest Definitions
-* Chapter 7: A Better Way: Ideas for a More Precise Terminology* 
+* Chapter 7: A Better Way: Ideas for a More Precise Terminology*
 * [http://www.socialsciencespace.com/about-socialsciencebites/](http://www.socialsciencespace.com/about-socialsciencebites/)**
 * http://nl.in-mind.org/
 
@@ -1213,7 +1213,7 @@ network effects
 * [Senegal: el paraíso sexual de las abuelas europeas | Sinfiltros.com - YouTube](https://www.youtube.com/watch?v=zjwXmk6sS_4)
 * [Studie zum DDR-Leistungssport - "Was da zutage kommt, ist ziemlich erschütternd" (Archiv)](https://www.deutschlandfunkkultur.de/studie-zum-ddr-leistungssport-was-da-zutage-kommt-ist.966.de.html?dram:article_id=374245)
 * [Yuval Harari on Sapiens - Econlib](http://www.econtalk.org/yuval-harari-on-sapiens/)
-* [L Histoire au Quotidien La vie à l époque de Louis XIV HD 720p - YouTube](https://www.youtube.com/watch?v=zfZcNl49_IA)* 
+* [L Histoire au Quotidien La vie à l époque de Louis XIV HD 720p - YouTube](https://www.youtube.com/watch?v=zfZcNl49_IA)*
 * 1s reading
 * [Почему люди ведут себя как придурки — Нож](https://knife.media/types-of-people/)
 * [Varanasi – Store norske leksikon](https://snl.no/Varanasi)
@@ -1221,9 +1221,9 @@ network effects
 * https://mathoverflow.net/questions/175847/how-does-one-justify-funding-for-mathematics-research
 * [Wholesome, witty and woke: The unproblematic comedy of John Mulaney | The Spinoff](https://thespinoff.co.nz/tv/27-01-2020/wholesome-witty-and-woke-the-unproblematic-comedy-of-john-mulaney/)
 * [Doping: DDR - Sport - Gesellschaft - Planet Wissen](https://www.planet-wissen.de/gesellschaft/sport/doping_gefaehrliche_mittel/pwiedopinginderddr100.html)
-* [Bullismo e cyberbullismo, vicini nel dolore ma diversi nella grammatica - Wired](https://www.wired.it/play/libri/2018/09/26/bullismo-cyberbullismo-grammatica/)* 
+* [Bullismo e cyberbullismo, vicini nel dolore ma diversi nella grammatica - Wired](https://www.wired.it/play/libri/2018/09/26/bullismo-cyberbullismo-grammatica/)*
 * Media, Resources, Orgs
-* http://www.collectionreperes.com/* 
+* http://www.collectionreperes.com/*
 * [James Williams: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/g/James%20Williams)
 * [Cass R. Sunstein](https://libgen.is/search.php?req=Cass+Sunstein&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 * [Is Rational Choice Theory All of Social Science?](https://b-ok.cc/book/1106156/65ddb2)

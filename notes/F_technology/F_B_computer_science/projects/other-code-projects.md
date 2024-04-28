@@ -9,7 +9,7 @@
 * ( ) [](https://blog.superhuman.com/personal-life-dashboard/) 
 * ( ) [Horizon: The OpenStack Dashboard Project — horizon 23.4.0.dev76 documentation](https://docs.openstack.org/horizon/latest/)
 * ( ) [nand2tetris](https://www.nand2tetris.org/
- 
+
 
 ## Notes
 Idea: get stylus drawing / writing tablet and set it up with rnote and also with a handwriting recognition engine that I train on my handwriting, so that I can write on the pad as an alternative to typing on the keyboard.
@@ -17,150 +17,150 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
 
 * To Sort
     - Packaging
-        
+
         * [PyInstaller Manual — PyInstaller 5.7.0 documentation](https://pyinstaller.org/en/stable/)
-        
+
         * [How to Install Windows 10 in VirtualBox in Linux](https://itsfoss.com/install-windows-10-virtualbox-linux/)
-        
+
         * [Install macOS Monterey, Big Sur Or Catalina In A Virtual Machine Using Docker-OSX - Linux Uprising Blog](https://www.linuxuprising.com/2021/03/install-macos-big-sur-or-catalina-in.html)
-        
+
         * [Macos on Linux](https://christitus.com/macos-on-linux/)
-        
+
         * [4+ Ways to Run Windows Software on Linux](https://www.howtogeek.com/133515/4-ways-to-run-windows-software-on-linux/)
-        
+
         * [Wine Alternatives for Mac: Top 10 Compatibility Layer Tools and similar apps | AlternativeTo](https://alternativeto.net/software/wine/?platform=mac)
-        
+
         * [Darling |](https://www.darlinghq.org/)
-        
+
         * [Getting a free Windows virtual machine from Microsoft - ADG](https://www.accessibility-developer-guide.com/setup/windows/virtual-machines/)
-        
+
         * [Welcome to the Accessibility Developer Guide! - ADG](https://www.accessibility-developer-guide.com/)
-        
+
         * [Download a Windows virtual machine - Windows app development | Microsoft Developer](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
-        
+
         * [Installing macOS on a Virtual Machine | Apple Developer Documentation](https://developer.apple.com/documentation/virtualization/installing_macos_on_a_virtual_machine)
-        
+
         * [Creating and Running a Linux Virtual Machine | Apple Developer Documentation](https://developer.apple.com/documentation/virtualization/creating_and_running_a_linux_virtual_machine)
-        
+
         how to run Windows and Docker VMs (for app testing)
-        
+
         * [MacStadium | Mac Servers and Cloud Solutions on Apple Hardware](https://www.macstadium.com/)
-        
+
         * [pipx](https://pypa.github.io/pipx/)
-        
+
         * [Widdershin/flask-desktop: flask-desktop lets you create first class desktop applications in Python with HTML/CSS](https://github.com/Widdershin/flask-desktop)
-        
+
         * [Electron alternative: Python and Qt. Create desktop apps in minutes.](https://build-system.fman.io/)
-        
+
         * [jordansissel/fpm: Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.](https://github.com/jordansissel/fpm)
-        
+
         * [Run Linux GUI apps with WSL | Microsoft Learn](https://learn.microsoft.com/en-us/windows/wsl/tutorials/gui-apps)
-        
+
         * [GitHub Packages Documentation - GitHub Docs](https://docs.github.com/en/packages)
-        
+
         * [Publish a package on PyPi using Poetry | Brain Sorting](https://www.brainsorting.com/posts/publish-a-package-on-pypi-using-poetry/)
-        
+
         * [mherrmann/fbs-tutorial: Tutorial for creating Python/Qt GUIs with fbs](https://github.com/mherrmann/fbs-tutorial)
-        
+
         * [leimao/Wine-Docker-Image: Wine Docker Image to Run Windows Applications](https://github.com/leimao/Wine-Docker-Image)
-        
+
         * [Packaging - Debian Wiki](https://wiki.debian.org/Packaging)
-        
+
         * [Python Packaging Guidelines :: Fedora Docs](https://docs.fedoraproject.org/en-US/packaging-guidelines/Python/)
-        
+
         * [Overview — Ubuntu Packaging Guide](https://packaging.ubuntu.com/html/)
-        
+
         * [Python/LibraryStyleGuide - Debian Wiki](https://wiki.debian.org/Python/LibraryStyleGuide)
-        
+
         * [Dependencies Management in Setuptools - setuptools 66.1.1.post20230123 documentation](https://setuptools.pypa.io/en/latest/userguide/dependency_management.html)
-        
+
         * [Build System Support - setuptools 66.1.1.post20230123 documentation](https://setuptools.pypa.io/en/latest/build_meta.html)
-        
+
         * [Options for Python packaging: Wheels, Conda, Docker, and more](https://pythonspeed.com/articles/distributing-software/)
-        
+
         * [Reddit - I made a Python compiler, that can compile Python source down to fast, standalone executables.](https://www.reddit.com/r/Python/comments/w7vlim/i_made_a_python_compiler_that_can_compile_python/?utm_medium=android_app&utm_source=share)
-        
+
     - Algorithms
-        
+
         * [TypeScript](https://github.com/TheAlgorithms/TypeScript)
-        
+
         * [C](https://github.com/TheAlgorithms/C)
-        
+
         * [Lua](https://github.com/TheAlgorithms/Lua)
-        
+
         * [Python](https://github.com/TheAlgorithms/Python)
-        
+
         * [Ruby](https://github.com/TheAlgorithms/Ruby)
-        
+
         * [Java](https://github.com/TheAlgorithms/Java)
-        
+
         * [Julia](https://github.com/TheAlgorithms/Julia)
-        
+
         * [Rust](https://github.com/TheAlgorithms/Rust)
-        
+
         * [Go](https://github.com/TheAlgorithms/Go)
-        
+
         * [scripts](https://github.com/TheAlgorithms/scripts)
-        
+
         * [JavaScript](https://github.com/TheAlgorithms/JavaScript)
-        
+
         * [Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation)
-        
+
         * [OCaml](https://github.com/TheAlgorithms/OCaml)
-        
+
         * [Kotlin](https://github.com/TheAlgorithms/Kotlin)
-        
+
         * [Jupyter](https://github.com/TheAlgorithms/Jupyter)
-        
+
         * [R](https://github.com/TheAlgorithms/R)
-        
+
         * [Elm](https://github.com/TheAlgorithms/Elm)
-        
+
         * [Elixir](https://github.com/TheAlgorithms/Elixir)
-        
+
     - GUI Resources
-        
+
         * [GUI - Things and Stuff Wiki](https://wiki.thingsandstuff.org/GUI)
                 * https://github.com/themix-project/themix-gui
-        
+
         * [Use Python? This GUI runs EVERYWHERE!](https://youtu.be/9r13xXMVo4s)
-        
+
     - Sponsorship
-        
+
         * [8 Best Patreon Alternatives & Competitors For 2023 (Comparison)](https://bloggingwizard.com/patreon-alternatives/)
-        
-    
+
+
     browse & build LF_aligner (in pkgs)
         * https://github.com/topics/pdflatex
         * [SDL Trados Studio - A Practical Guide](http://library.lol/main/705A598EFCA8D210EC4FF9638FEF7C37) (language learning tools)
-    
+
     Make folder for Udemy Cpp Course
         * [How to contribute to open source - YouTube](https://www.youtube.com/watch?v=2L0sxPx4C18)
         * https://github.com/topics/pdftex
         * [GitHub Sponsors accounts](https://github.com/sponsors/accounts)
         * [sirjofri/glossy: a LaTeX package for interlinear glosses](https://github.com/sirjofri/glossy)
         * [8 Best Patreon Alternatives & Competitors For 2023 (Comparison)](https://bloggingwizard.com/patreon-alternatives/)
-    
+
     git@github.com:yelircaasi/keyboard-trainer-cpp.git
-    
+
     - Jupyter
                 * https://github.com/joouha/euporie
-        
+
         * [Jupyter kernels · jupyter/jupyter Wiki](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
-        
+
         * [jupyter-xeus/xeus: Implementation of the Jupyter kernel protocol in C++](https://github.com/jupyter-xeus/xeus)
-        
-    
+
+
     develop vim keybindings for google sheets
-    
+
     Nyxt extension: intelligent (and optionally interactive) page color scheme
-    
+
     how to hack the color scheme and style of jupyter notebook and jupyterlab
         * [ghaiklor/nand-2-tetris: Computer built from the ground up on top of own CPU, while compiler and assembler for it implemented in Rust language](https://github.com/ghaiklor/nand-2-tetris)
-    
+
     mathematics of dating at macro level, micro too
         * [Python Keylogger](https://www.youtube.com/watch?v=hL3rB9ttZFU)
-    
+
     - **norvig/pytudes -> add to polyglot-projects
         * [norvig/paip-lisp: Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"](https://github.com/norvig/paip-lisp)
         * [life4/textdistance: Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.](https://github.com/life4/textdistance)
@@ -175,217 +175,217 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
         * [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
         * [adambard/learnxinyminutes-docs: Code documentation written as code! How novel and totally my idea!](https://github.com/adambard/learnxinyminutes-docs)
         * https://github.com/Vigemus/iron.nvim
-    
+
     seriously pursue ancient greek and latin tts - need to pursue serious data collection
-    
+
     also add TTS option for parallel text
         * https://github.com/everydaycodings/MimicMania
-    
+
     Google Drive dvc server -> look at alternatives like NextCloud
-    
+
     contrib: Julia pre-commit hooks
-    
+
     learn about how packageing works on github
-    
+
     look into wine and darling for building PTTK apps for all 3 major platforms
-    
+
     make web-based GUI for PTTK apps and find sponsor to host?
-    
+
     pipx best solution for quick and painless installation?
-    
+
     web-based GUI (Flask/Django) -> create flask-desktop package? -> contrip by adding to pypi
-    
+
     distribute as Docker container with associated CLI
-    
+
     top priority for PTTK apps: 2 (and eventually more) CLI Python apps working for Bash/Zsh
-    
+
     distribute parallel text apps as flatpaks, nix, and guix
-    
+
     compare mkdocs and sphinx
-    
+
     work harder on NLP and SP cheatsheet site
-    
+
     get serious about code generation with ChatGPT (and competitors)
-    
+
     make interactive config scripts for parallel text apps
-    
+
     create directory of template directories to copy
-    
+
     somehow link to or use The Algorithms in MWE
-    
+
     MWE: use PE, RC, BeautifulAlgorithms.jl, Hyperpolyglot -> draw upon for polyglot-programming-tasks
-    
+
     contribute to RosettaCode, Hyperpolyglot, Learn X in Y
-    
+
     contact clarkgrubb about maintaining hyperpolyglot
-    
+
     sup up snippets
-    
+
     WayforPay
-    
+
     explore and grok nix-env vs nix-shell
-    
+
     use Rinohtype in PTF?
-    
+
     add Exercism, Leetcode, Hackerrank to peersonal site
-    
+
     find better hoster for personal site (ideally same as app server, or free)
-    
+
     add prolyglot-snippets as counterpart to polyglot-tasks
-    
+
     add RSA or other crypto algorithm to polyglot-tasks
-    
+
     write shell functions to locate all relevant nvidia folders/files
-    
+
     list important programs and where they are installed (all directories)
-    
+
     read Conda, Miniconda, Anaconda, Mamba docs
-    
+
     test out boost library
-    
+
     contribute new useful pre-commits
-    
+
     re-implement nand2tetris in other languages (Rust, Julia, Python, C++) as part of polyglot-programming-tasks
-    
+
     PTF workflow: open and validate bitest, open and validate config, use both to create bitext object, generate TeX string, save, compile
-    
+
     topics (PTF, but also others): packaging as AppImage, FlatPak, .exe (via Pyinstaller) unix container (docker-slim + Alpine) -> WSL, Nix, Guix, alt.: pure Python + system LaTeX
-    
+
     PTF: implement as Julia, Lua (+C), Perl, Java, C, Haskell, Rust -> add as project(s) to MWE repo; first steps: read files line-by-line and print line pairs side-by-side, then read and save bitext in simple bilingual format (side-by-side, or interlinear)
-    
+
     get study-notes looking presentable for public viewing on github
-    
+
     contrib: write onnx exporter for spacy and thinc models
-    
+
     create a github repo to serve as a repository of ideas and "unfilled gaps" for people looking for a project
-    
+
     move all small ml & dl projects to polyglot-projects
-    
+
     make a comparison of string formatting across languages
-    
+
     develop reader mode in indie browsers: Nyxt, Qutebrowser, Luakit, etc. -> make my own if none exists
-    
+
     learn to cross-compile C/C#/Rust/Zig to .exe, Mach-O
-    
+
     work: single-shot vs dialog methods for NLU query parsong
-    
+
     all pyproject.toml to RLCard
-    
+
     add color themes to my site, polyglot toolkit site, etc
         * [iron.nvim call for help](https://www.reddit.com/r/neovim/comments/tjui61/ironnvim_help_wanted/)
         * [gource iron.nvim](https://www.youtube.com/watch?v=mRuJwU2FJkw)
-    
+
     Python: How to package something with options for usage as API/CLI/TUI/GUI? How to make all apps use vifm as default file browser?
-    
+
     Build full Zathura in Docker container / get full Zathura via Nix
-    
+
     Figure out how to edit extension .css stylesheets for browsers (sqlite / IndexedDB)
         * [check out](https://github.com/dylanaraps/pywal)
-    
+
     how to make typing practice app intercept even control keys? → xdotool/wayland equivalent?
-    
+
     transformer notes → study-notes
-    
+
     make rlboard analogous to rlcard
         * [add to study-notes:](https://github.com/jonasbb/pre-commit-latex-hooks)
-    
+
     How do VSCode / Gnome intercept prefix keys for redefining shortcuts?
-    
+
     make gh templates for myself
-    
+
     MAKE ANKI DECKS FROM PYTHON DOCS (BUILTINS, GLOSSARY, ETC) -> also julia, rust, etc
         * [mossr/BeautifulAlgorithms.jl: Concise and beautiful algorithms written in Julia](https://github.com/mossr/BeautifulAlgorithms.jl)
-    
+
     arabic speech corpus, arctic l2, buckeye, timit, LJSpeech
         * [tsoding/ded: Dramatic EDitor](https://github.com/tsoding/ded)
         * https://github.com/TheAlgorithms/contributor_covenant
-    
+
     Neural Networks from Scratch in Python.pdf
-    
+
     Learn to type Greek polytonic
-    
+
     Android
-    
+
     cpp-machine-learning
-    
+
     fonts
-    
+
     keyboard-trainer-cpp
-    
+
     learning-programming-languages
-    
+
     minimal-working-examples
-    
+
     nand2tetris
-    
+
     nlp-and-sp-cheatsheet
-    
+
     NNfSiX
-    
+
     ParallelTextToolkit
-    
+
     personal-website
-    
+
     playgrounds
-    
+
     rl-games
-    
+
     study-notes
-    
+
     Thesis
-    
+
     Wiktionary4LL
-    
+
     SBT- scala build tool
-    
+
     sdkman
-    
+
     buka
-    
+
     chromium
-    
+
     mdless
-    
+
     learning-programming-languages
-    
+
     playgrounds
-    
+
     git@github.com:yelircaasi/minimal-working-examples.git
-    
+
     git@github.com:yelircaasi/nand2tetris.git
-    
+
     git@github.com:yelircaasi/nlp-and-sp-cheatsheet.git
-    
+
     git@github.com:yelircaasi/NNfSiX.git (pull from upstream)
-    
+
     git@github.com:yelircaasi/ParallelTextToolkit.git
-    
+
     git@github.com:yelircaasi/personal-website.git
-    
+
     git@github.com:yelircaasi/rl-games.git
-    
+
     git@github.com:yelircaasi/study-notes.git
-    
+
     git@github.com:yelircaasi/Wiktionary4LL.git
         * https://github.com/cherylli/pomodoro-kotlin.git
         * https://github.com/SimpleMobileTools/Simple-Calendar.git
         * https://github.com/powerline/fonts.git
         * https://github.com/tklitschi/Algorithmen-und-Datenstrukturen
-    
+
     *** https://github.com/codecrafters-io/build-your-own-x
-    
+
     remove *.pdf from .gitignore of study-notes
         * https://github.com/codecrafters-io/build-your-own-x
         * [Delgan stars](https://github.com/Delgan?tab=stars)
         * [yelircaasi/study-notes: LaTeX notes for the various topics I am studying. Focus on NLP, CS, Math. All topics fair game. May be in non-English languages.](https://github.com/yelircaasi/study-notes)
         * [Parsing English in 500 Lines of Python · Explosion](https://explosion.ai/blog/parsing-english-in-python)
-    
+
     I could make a good 3b1b-style video about two's complement.
         * https://zty.pe/
         * [Writing to learn](https://www.arecadata.com/writing/)
-    
+
     Make list of general, useful programming tasks to solve in multiple languages (create Gsheet, add to project list) - get from language documentation examples, tutorials
-    
+
     Create project to write about Nature, Nurture, Aesthetics, Ethics and Free Will
         * [python-for-android — python-for-android 0.1 documentation](https://python-for-android.readthedocs.io/en/latest/)
         * [kivy/python-for-android: Turn your Python application into an Android APK](https://github.com/kivy/python-for-android)
@@ -395,32 +395,32 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
         * [orsinium-labs/re: Elixir library for writing readable regexes in functional style](https://github.com/orsinium-labs/re)
         * http://craftinginterpreters.com/
         * https://github.com/ForeignGods/Sorting-Algorithms-Blender
-    
+
     nn to predict gender of loan words in German, compare to surveys of Germans, visualize activations from letters and letter combinations, also how edits influence predictions -> topology? (letterwise input, most likely)
-    
+
     look back into accent transfer
-    
+
     look into converting someone into a different race
-    
+
 
 
 * deskewer
-        * https://lmb.informatik.uni-freiburg.de/Publications/2015/FDB15/image_orientation.pdf 
+        * https://lmb.informatik.uni-freiburg.de/Publications/2015/FDB15/image_orientation.pdf
         * [OpenCV: Introduction to Julia OpenCV Binding](https://docs.opencv.org/4.x/d8/da4/tutorial_julia.html)
-    
+
 
 
 ## rosetta-regex
-* https://rosettacode.org/wiki/Regular_expressions 
-* https://en.wikipedia.org/wiki/Regular_expression 
-* https://en.wikipedia.org/wiki/Comparison_of_regular_expression_engines 
-* https://regexlearn.com/learn/regex101 
-* https://perldoc.perl.org/perlre 
-* https://docs.rs/regex/latest/regex/ 
-* https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/regex 
-* https://docs.python.org/3/library/re.html 
-* https://www.lua.org/pil/contents.html#20 
-* https://en.cppreference.com/w/cpp/regex 
+* https://rosettacode.org/wiki/Regular_expressions
+* https://en.wikipedia.org/wiki/Regular_expression
+* https://en.wikipedia.org/wiki/Comparison_of_regular_expression_engines
+* https://regexlearn.com/learn/regex101
+* https://perldoc.perl.org/perlre
+* https://docs.rs/regex/latest/regex/
+* https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/regex
+* https://docs.python.org/3/library/re.html
+* https://www.lua.org/pil/contents.html#20
+* https://en.cppreference.com/w/cpp/regex
 
 C
 
@@ -531,12 +531,12 @@ Design: to-do list with routine lists, scheduler, and corresponding notification
     - Month to Week
     - Month to Day
     - Week to Day
-    - 
+    -
 * Change time
     - push back in time
     - pull forward in time
     - switch items
-    - 
+    -
 
 
 ## Reading:
@@ -564,7 +564,7 @@ Design: to-do list with routine lists, scheduler, and corresponding notification
      - [ ]  https://github.com/ognev-zair/Kotlin-AgendaCalendarView
      - [ ]  https://github.com/CleverPumpkin/CrunchyCalendar
      - [ ]  https://github.com/JonasWanke/com.jonaswanke.calendar
-     - [ ]  
+     - [ ]
 
 
 ### Steps:
@@ -597,9 +597,9 @@ pomodoro-style timer
 * Book: Programming Language Concepts Illustrated: A Contrastive Guided Tour
 
 Reference / Inspiration: https://hyperpolyglot.org/,  https://rosettacode.org/wiki/Rosetta_Code
-    
+
     Preferred languages:
-    
+
     - C
     - C++
     - Python
@@ -656,9 +656,9 @@ Readings:
 
 * YouTube channel
     - Multilingual YouTube channel: ml, math, languages, book reading, philosophy
-        
+
         name ideas: Wannabe Polyglot Polymath
-        
+
     - [ ]  graphics: Manim Community
     - [ ]  screen capture + camera
     - [ ]  keystroke capture
@@ -666,13 +666,13 @@ Readings:
     - [ ]  https://www.youtube.com/hashtag/manim?app=desktop
     - [ ]  watch on manim: https://www.youtube.com/@TheoremofBeethoven
     - Ideas
-        
+
         How a Desktop is Built
-        
+
         How 2’s Compliment Works
-        
+
         nand2tetris video
-        
+
 * neural-image-processing-cheatsheet
     - [ ]  create
 
@@ -689,9 +689,9 @@ messages with Jesse:
 * NNfSiX 🌱
 * Lyrics Syncing App (with Jesse)
 * RosettaDL - parallel reference (Rosetta-style)
-    
+
     → start with PyTorch, TF, MXNet, and Flux.jl
-    
+
     - PyTorch
     - TensorFlow Python (with Keras)
     - MXNet
@@ -738,7 +738,7 @@ messages with Jesse:
         - https://github.com/JuliaLang
     - [ ]  LaTeX
         - https://www.tug.org/texlive/doc/tlbuild.html
-        - 
+        -
     - [ ]  Linux kernel
         - https://github.com/torvalds/linux
         - https://www.kernel.org/doc/html/latest/
@@ -1016,21 +1016,21 @@ Combine WordNet and NSM with my own syntax to create paremiological (ontology an
 ## RLCard
         * [RLCard: A Toolkit for Reinforcement Learning in Card Games – arXiv Vanity](https://www.arxiv-vanity.com/papers/1910.04376/)
         * [Development — RLcard 0.0.1 documentation](https://rlcard.org/development.html#adding-new-environments)
-    
+
 ## “philosophers and philosophies on the issues”
-    
+
     → automated search and question answering
-    
+
     → matrix completion?
-    
+
     → product: database of answers to questions of the form “What does X say about Y?”
-    
+
     → also interesting to do by hand / with a hybrid approach
-    
+
 ## Book idea: Ancient Greek through the Stoics; Latin through the Stoics (or GR and LA in one book)
 ## Sheet Music Player: OCR for scanned sheet music, audio generation (MIDI as intermediate?)
 ## Other Projects 🌱
-    
+
 
 
 ## rl-games
@@ -1052,7 +1052,7 @@ Combine WordNet and NSM with my own syntax to create paremiological (ontology an
 
 → different vector for each number of cards → output vector a score (softmax?) over cards in the hand, → action is to play the highest-scoring card
     → drawback: many different models; advantage: each model is fixed-size and relatively straightforward: $N = \sum^{15}_{i=1} i = 120$ → or N = 15?
-    → parameters: 
+    → parameters:
         — $p_c(\textbf{c}) \in [0,1]^{k}$: probability of each card being out there — easy to calculate
         — $p_d(\textbf{c}) \in [0,1]^{k}$: probability of each card being played by someone else — calculate via MC
 
@@ -1095,10 +1095,10 @@ Combine WordNet and NSM with my own syntax to create paremiological (ontology an
 * https://www.reddit.com/r/reinforcementlearning/comments/i3367m/rl_for_turnbased_ai/
 * https://blog.tensorflow.org/2021/10/building-board-game-app-with-tensorflow.html
 * [Wizard RL Paper: https://ieeexplore.ieee.org/document/6664846](https://ieeexplore.ieee.org/document/6664846)
-* **[Recent Advances in Deep Reinforcement Learning Applications for Solving 
+* **[Recent Advances in Deep Reinforcement Learning Applications for Solving
 
 Partially Observable Markov Decision Processes (POMDP) Problems: Part 1 -
- Fundamentals and Applications in Games, Robotics and Natural Language 
+ Fundamentals and Applications in Games, Robotics and Natural Language
 
 Processing](https://www.semanticscholar.org/paper/Recent-Advances-in-Deep-Reinforcement-Learning-for-Xiang-Foo/0a50454605da864cc4e1ac949e7a43055be11717)**
 * [Improving Bidding and Playing Strategies in the Trick-Taking game Wizard using Deep Q-Networks](https://www.semanticscholar.org/paper/Improving-Bidding-and-Playing-Strategies-in-the-Schumacher-Pleines/c68ea00041d84f90c2a443292a98c34146941481)
@@ -1125,7 +1125,7 @@ Processing](https://www.semanticscholar.org/paper/Recent-Advances-in-Deep-Reinfo
 * Combinatoric-probabilistic features:
 * Probability that each player can beat each card
 * Probability that each player wants to beat each card
-* 
+*
 
 
 #### blackjack
@@ -1177,34 +1177,34 @@ Processing](https://www.semanticscholar.org/paper/Recent-Advances-in-Deep-Reinfo
 
 
 #### whist
-    
+
 ##  Daily Prophet 🌱
                 * https://hackaday.com/2021/10/29/muggle-uses-e-paper-for-daily-prophet-replica/?utm_source=tldrnewsletter
                 * https://deeptronix.wordpress.com/2020/09/02/a-proper-harry-potter-newspaper-irl/
                 * https://github.com/deeptronix/dithering_halftoning
-        
-    
+
+
     create an Anki extension 🌱
-    
+
     Build (Android / web) NN-driven app for pronunciation training 🌱
-    
+
     Attic Greek TTS 🌱
-    
+
     Classical Latin TTS 🌱
-    
+
     contribute to [VSCode](https://github.com/microsoft/vscode) 🌱
-    
+
     fork & contribute to [Anki](https://apps.ankiweb.net/docs/manual20.html#translations) 🌱
-    
+
     create board game analog of RLCard - or contribute a third-party environment to [Gymnasium](https://gymnasium.farama.org/environments/third_party_environments/)?
-    
+
     make verb and noun grammar trainers (C++? other language? GUI?)
-    
+
     create reader for texts with grammatical parsing and translation
-    
+
     book "Philosophy of Proverbs" or "Proverbs and Ethics" → read on paremiology
         * https://aclanthology.org/2021.emnlp-main.664.pdf
-    
+
     - [configs-and-scripts](https://github.com/yelircaasi/configs-and-scripts)
     - [rl-games](https://github.com/yelircaasi/rl-games)
     - [segmented-pdf-generator](https://github.com/yelircaasi/segmented-pdf-generator)
@@ -1256,7 +1256,7 @@ Processing](https://www.semanticscholar.org/paper/Recent-Advances-in-Deep-Reinfo
             - E                - [ ]  [G.E. Lingüística](https://docs.google.com/spreadsheets/d/1porlMtn2iTGC2klBwUHq9HWzgTSg0NfFAyojRtufo_I/edit#gid=0)                - [ ]  [Ling Vocab](https://docs.google.com/spreadsheets/d/1szKVLhrPEg41hbtwYWEnK-rVYgh0Py_MkBZkHElYVxk/edit?usp=sharing)                - [ ]  [Dialectos del Inglés](https://docs.google.com/spreadsheets/d/1xbCtjynvwB0VtriHV7Oj8oPZyQNrK1IdIyF99KpuTHI/edit?usp=sharing)                - [ ]  [AFI](https://docs.google.com/spreadsheets/d/1TZ4pvVbKtxGTVRWnEiuU8TZUgOikjHmYcO7JYoZgGJo/edit?usp=sharing)                - [ ]  [IPA Transcriptions](https://docs.google.com/spreadsheets/d/1CaWnCErryTugDXFin6bJ3anFb7Wxn-wL5vpYlpRQ2JY/edit?usp=sharing)                - [ ]  [Квиз по МФА (doc)](https://docs.google.com/document/d/19bF_hHuDFGjzX01ZEicN4mA8MJlHKRNSQaAZ6Fz_eo8/edit?usp=sharing)                - [ ]  [Квиз по МФА (gsheet)](https://docs.google.com/spreadsheets/d/1QL-HCcDg8jv8kGKOBtEGiNg5waRyGUTiK3DDgf6KpOA/edit?usp=sharing)                - [ ]  [Квиз по МФА (doc2)](https://docs.google.com/document/d/1Y1BFapn66PkJ2Yi-XbbYTTpwY69xPDkAB-bXV75kJzg/edit?usp=sharing)                - [ ]  [Aussprache und Phonetik](https://docs.google.com/spreadsheets/d/1TCjz-h6ToI5MnJ3djlm7SESEuyZo3Iqminlrj3zyBkg/edit?usp=sharing)            - [ ]  [G.F. Antropología y sociología](https://docs.google.com/spreadsheets/d/1Ut0rayUd1t5jr2i6YFBv5HS95GZV17dmyEdbe6Iyl-U/edit#gid=0)
             - G                - [ ]  [G.G. Psicología](https://docs.google.com/spreadsheets/d/1rk4fE-L93iuDsPYF5yhk_9WC_s6YWVf68ZHuaL3soQw/edit#gid=0)                - [ ]  [Psychologues](https://docs.google.com/spreadsheets/d/1xXHyEpE1zOmcKYTbVFAn2c5FxmgTc3KTxkFES-a0cOI/edit?usp=sharing)                - [ ]  [Thinking Errors](https://docs.google.com/document/d/1d-xPgeeXFf665C6edZjvOAPwlIEjVTBtqI5lNXFg_2Y/edit?usp=sharing)                - [ ]  [S1S2](https://docs.google.com/spreadsheets/d/1pyZ23VGHvqUppBaCwT6fxGOgbCXnDtDRIFxtSlCPntM/edit?usp=sharing)
             - H                - [ ]  [G.H. Pedagogía](https://docs.google.com/spreadsheets/d/1qUEnXX6FZZCr6lMI7Ky1gARTwbpBYK4EcCCMIjrCfEQ/edit#gid=0)                - [ ]  [Study Resources and Methods](https://docs.google.com/document/d/1Q0ATMEuD9Qz6caRsr1vbLc1FOHD5UC0H9M42HYKPy-c/edit?usp=sharing)                - [ ]  [Principles for Question Analysis](https://docs.google.com/document/d/1C7QR0dFCUecvkRJivQQsDIMmkxxEcZ1sI-Weyjdrro0/edit?usp=sharing)                - [ ]  [Meilleures practiques de l'enseignement](https://docs.google.com/spreadsheets/d/1y2gtbiRdLExR0_4b6uKiAWVpOUnTzOfruRczHmTlbng/edit?usp=sharing)                - [ ]  [List of Groups of Different Possible Worldviews](https://docs.google.com/document/d/1rnGFHBw-J_knklojkxl7YOZ_68MAhSqLvVTTp1EsHIQ/edit?usp=sharing)                - [ ]  [Técnicas - Memorización de vocabularios](https://docs.google.com/document/d/1h4IXJsUt_FkYM52iM6O5YyhgOM9T9pJtc_yp0b9bOBQ/edit?usp=sharing)                - [ ]  [Técnicas para lectura](https://docs.google.com/document/d/1VzA5tlrIxapyNJD6ISRlTQfl5MoYgB8ojZXVLPevE6A/edit?usp=sharing)                - [ ]  [Técnicas para memorización de textos](https://docs.google.com/document/d/1Zfa9VmxlaKEYMX41Ktagj77Gmy1N4Kw_zyURz0eLWpA/edit?usp=sharing)                - [ ]  [Técnicas para memorización y masterización de música](https://docs.google.com/document/d/1wL0qGWC_FsUB9lnsvs94F1jYc2LJIXnd32s2B15czRw/edit?usp=sharing)                - [ ]  [A Mind for Numbers](https://docs.google.com/document/d/1hOImn6C7z1EEsZaOIsXDxYfVxHijMlfj-ZS6mBiRLsA/edit?usp=sharing)                - [ ]  [Revistas sobre teoría de formación y pedagogía](https://docs.google.com/spreadsheets/d/19baKmNuooUwFUi5XtvIQr9VlrGuvuU6opXNTLNbdqkQ/edit?usp=sharing)                - [ ]  [Idées pour la recherche](https://docs.google.com/spreadsheets/d/1HPHjjnXVPOF34yAweN456ecgC-66A9g2Kz5ck9jDsyE/edit?usp=sharing)                - [ ]  [Education par pays](https://docs.google.com/spreadsheets/d/1xhTqCvgq5Ch-aS4iOy6Mm6YDMGUVDwEMDlC08fPk0PA/edit?usp=sharing)                - [ ]  [Investigadores y libros de pedagogía](https://docs.google.com/spreadsheets/d/11AxNDOjDxRwYDZKCmrIOPWRmzTcioxjRu9Kd1F8O1cI/edit?usp=sharing)                - [ ]  [Mejores investigadores de la teoría formacional](https://docs.google.com/document/d/1tiHmPcCorDDDwoSujJ_LdRTzfzPMoza8Wc2rpLKA-_g/edit?usp=sharing)
-                
+
         - H            - [ ]  [H. Humanidades (notas sin H.F)](https://docs.google.com/spreadsheets/d/101_rcqnW1XwIlpF0uZl9vrzPOOI5SvauswM-PzpX3HI/edit?usp=sharing)
             - C                - [ ]  [Música y cantantes](https://docs.google.com/spreadsheets/d/1edx4RS8SLYLl3O-5zOk04iG1zb-rHAQI7ouCRQSGIsk/edit?usp=sharing)                - [ ]  [Música clásica para escuchar](https://docs.google.com/spreadsheets/d/1KsOjWpzPTw4HfRaDcV63GPFRU6YODVvcisbrjAOomNk/edit?usp=sharing)                - [ ]  [Music Plans](https://docs.google.com/spreadsheets/d/1Tw7GV_PonLHXvYoRVOlEnX69nABG7hqADBjQYpl6g1s/edit?usp=sharing)                - [ ]  [Scales and Arpeggios](https://docs.google.com/spreadsheets/d/17lGmEiORK4R4OHgEOcvXB_0RqBVx98KMVxPMq5gzDPY/edit?usp=sharing)            - [ ]  [Migliori prattiche del discurso publico](https://docs.google.com/document/d/1h4_KBZL6vER9KxBFvoDdg-bhfbtQ8sx3BcY6Rosr6EU/edit?usp=sharing)
             - F                - [ ]  [H.F. Idiomas y lenguaje (notas)](https://docs.google.com/spreadsheets/d/1rhFUPMWYuGUUCYWlw8VyyBMJIKhJhmvoiH3Im_spClI/edit?usp=sharing)                - [ ]  [Altri testi paralleli](https://docs.google.com/spreadsheets/d/1DcDOEBc7ta_nah0C47MTdklou34TQ4VJr-uBSaO4sEw/edit?usp=sharing)                - [ ]  [Enfoque analítico al aprendizaje de Idiomas](https://docs.google.com/spreadsheets/d/1XBOvzs5FmwRxLJ_kM_FSBr9Ob4LmWwBjBfvlE2gYwZU/edit?usp=sharing)                - [ ]  [Enfoque analítico limitado - listas](https://docs.google.com/spreadsheets/d/13qUtzTMBwOmvN7tMZhQf-ijC_bX1_LAMjRyaHk-hS5w/edit?usp=sharing)                - [ ]  [Etimología, raices y interentendimiento](https://docs.google.com/spreadsheets/d/1uaedyBSMUBr6GvDPeHg8bIpnSOyzuFhaXWFKD2Ty6BY/edit?usp=sharing)                - [ ]  [Vocabulario actual](https://docs.google.com/spreadsheets/d/1ye6g1FY7ptUnrpqtD3fBzrcJR-Hr_2F4IOEZVdEj7fs/edit?usp=sharing)                - [ ]  [Recursos](https://docs.google.com/spreadsheets/d/1PzmZEvav97a8s2B8-RXPsaXlyRqU0Ot7wbGJJC4a3L8/edit?usp=sharing)                - [ ]  [Columnistas de PS](https://docs.google.com/spreadsheets/d/1j5vfA-_DOAUiSjub6FCqMgwnQWVEZ4waXyrwWoQJulU/edit?usp=sharing)                - [ ]  [Escritura 1-12](https://docs.google.com/document/d/1oX8rD0iaidfZNyVETZUzxpf7FJ6I1CtSJHA9WcYN7oQ/edit?usp=sharing)                - [ ]  [Learning Scripts & Keyboards](https://docs.google.com/spreadsheets/d/1T_qAG4raIhJYq1mlgJCH8TN-ZNcUl9RM-p4a0aVh5EU/edit?usp=sharing)                - [ ]  [Jesus Film](https://docs.google.com/spreadsheets/d/1pQrobumm9sgcsvJi7bZ76_JGpEI5lb2g1FtSg-cPJyo/edit?usp=sharing)
@@ -1264,7 +1264,7 @@ Processing](https://www.semanticscholar.org/paper/Recent-Advances-in-Deep-Reinfo
                     - [ ]  [Linguae per Carmina](https://docs.google.com/spreadsheets/d/1dPj6PNHYxvdu8o69EnLkLnaHmCzOs4rEncdqlnVm_mE/edit?usp=sharing)
                     - [ ]  [Sprachtests](https://docs.google.com/spreadsheets/d/1EL_g5Oz7RxGVw-T2HH3VxPxQ_At5F6zKUbItyHEbg7k/edit?usp=sharing)
                     - [ ]  [Tests sobre las listas de Swadesh](https://docs.google.com/spreadsheets/d/1Tbugky1_uPaK6eDQSalbcvksGZXXh3XncPyD49VcA9g/edit?usp=sharing)
-                    
+
                 - Phraséologie
                     - [ ]  [Modismos diversos (borrador)](https://docs.google.com/spreadsheets/d/1_gtGJ-aPb-L98F3ylU9ADCoFLIPPo55waoiDgtvwgtU/edit?usp=sharing)
                     - [ ]  [Database of Figurative Language](https://docs.google.com/spreadsheets/d/1xQE30iCryMege8m63T-KdK3JYeIry2oDZ1YU_EiFftM/edit?usp=sharing)
@@ -1342,38 +1342,38 @@ Processing](https://www.semanticscholar.org/paper/Recent-Advances-in-Deep-Reinfo
             - B                - [ ]  [Date Ideas](https://docs.google.com/document/d/1ajLsoCmkFdrP_66AlczjhosrCNanphVPVPwUW-LAzMw/edit?usp=sharing)                - [ ]  [Questions for Conversation](https://docs.google.com/document/d/1XCO7v2Qkoz8mwQibt2oCzi1jIfnKOlF2SmMGRldB3sY/edit?usp=sharing)                - [ ]  [Relationship Strategies](https://docs.google.com/document/d/1i83bClfHxMqI-RwUE3ooEfgZwTFUQOMxPH-fczdkOMU/edit?usp=sharing)                - [ ]  [Social Skills and Etiquette](https://docs.google.com/document/d/1AxjcE0W1Hx3cGUF-Vkw-Ljh2kAfQXtP8rtONL7dqZQg/edit?usp=sharing)
             - C                - [ ]  [Finanzen](https://docs.google.com/spreadsheets/d/18CmKfa2xxEYrTFcuytDVcbJiaeXK4xOD1qSXOA7fdIY/edit?usp=sharing)                - [ ]  [Financial Worksheet](https://docs.google.com/spreadsheets/d/1NyAJlC2IPwf-SCm9yDUgUd-wpWu3RspIF9RhTPaanL8/edit?usp=sharing)
             - I                - [ ]  [Examples to Emulate](https://docs.google.com/document/d/1k4lUEfvd6e-cW9G6n7eZYXno7z7Jhj2l-GCJfLH58Ko/edit?usp=sharing)                - [ ]  [Personal Evaluations](https://docs.google.com/document/d/1XylbZWRbF-DbIQh2FH2qQFHmU6yzE291bKL1rDdKxfY/edit?usp=sharing)                - [ ]  [Family history Work](https://docs.google.com/document/d/1SwmFGRNhKQ0O9ABrz3IW-16EcKwltI4vN3qlCWfX9Vk/edit?usp=sharing)                - [ ]  [Life Timeline](https://docs.google.com/document/d/1KPMgWCl2wHXawghHqq6J594mwQGkHtCrjK8Wczsnwb4/edit?usp=sharing)                - [ ]  [Meaningful Compliments, Advice, and Criticism](https://docs.google.com/document/d/10pgS2nOpqv2uFxvd9Nt1zwdFl0QF7bOx6oROeoQ09F4/edit?usp=sharing)                - [ ]  [Mission Outline](https://docs.google.com/document/d/1B1mOqM4WTGEKayKLC2aPyv97Bl6yWWPbnXfm3erdUUs/edit?usp=sharing)                - [ ]  [Journal (Questions) Feb 2016](https://docs.google.com/document/d/1cnPWF7CaIfOwZe8gcuUuMLMpVau9iQ55edrj1RHiyU8/edit?usp=sharing)
-        
+
     - Contrib Ideas
-        
+
         update notion-sdk
-        
+
         make taskw compatible with Python 3.11-12
-        
+
         improve pytest documentation (more like the pytest book)
-        
+
         type hints in loguru
-        
+
         type hints in dynaconf
-        
+
         make pre-commit PR -> find gap
-        
+
         format pyenv output
-        
+
         fix pyenv for use in scripts
-        
+
         eventually: contribute to zathura-pdf-mupdf get running for Ubuntu 22.04
-        
+
         - Nautilus fix
-            
+
             need to make it possible to remove Music, Videos, Pictures from Nautilus sidebar
-            
+
             → get involved with Gnome project and understand the codebase
-            
+
     - model of optimal amount of information (informedness)
         - related: idea system of aggregation of knowledge and insights - “How can everybody’s (informed) view matter?” (“trickle-up?”)
         - related to optimal organizing forms ( → modeling, see Networks, Crowds, and Markets book)
         - → write and article of different models/views of news media consumption
-        - 
+        -
     - Word Translation Graph
         - start with prepositions
         - use embeddings and compare embeddings to weighted combinations of translations’ embeddings?
@@ -1389,104 +1389,104 @@ Deskewer
 
 
 ## my projects
-* https://www.makeuseof.com/set-up-raspberry-pi-as-server/ 
-* https://www.toptal.com/raspberry-pi/how-to-turn-your-raspberry-pi-into-a-development-server 
-* https://www.toptal.com/raspberry-pi/how-to-turn-your-raspberry-pi-into-a-development-server 
-* https://json-schema.org/understanding-json-schema/structuring 
-    
+* https://www.makeuseof.com/set-up-raspberry-pi-as-server/
+* https://www.toptal.com/raspberry-pi/how-to-turn-your-raspberry-pi-into-a-development-server
+* https://www.toptal.com/raspberry-pi/how-to-turn-your-raspberry-pi-into-a-development-server
+* https://json-schema.org/understanding-json-schema/structuring
+
     qutebrowser due to frozen teams:
 * [112:152:0100/000000.790507:ERROR:broker_posix.cc(46)] Received unexpected number of handles    * [112:152:0100/000000.791120:ERROR:broker_posix.cc(46)] Received unexpected number of handles
-    
+
     move “other” from Recursos por idioma to Notion
-    
+
     → make Configurability Github organization with forks of apps that support custom colors and keybindings (or just patches?)
-    
+
     Wie kann ich mich mehr politisch engagieren?
-    
-    Just re-write plt code in typescript/JavaScript to use a good highlighting library pre-html; use Perl for something else, like shell scripts 
-* https://www.google.com/search?client=firefox-b-m&sca_esv=584934822&sxsrf=AM9HkKm9ojvgZM44drVwG0h7TGXNOfu28g%3A1700779676233&q=drop-down+library+ui+design+javascript&oq=drop-down+library+ui+design+javascript&aqs=heirloom-srp 
-    
+
+    Just re-write plt code in typescript/JavaScript to use a good highlighting library pre-html; use Perl for something else, like shell scripts
+* https://www.google.com/search?client=firefox-b-m&sca_esv=584934822&sxsrf=AM9HkKm9ojvgZM44drVwG0h7TGXNOfu28g%3A1700779676233&q=drop-down+library+ui+design+javascript&oq=drop-down+library+ui+design+javascript&aqs=heirloom-srp
+
     Install Ubuntu server 23.10 and use complete install script for i3, picom, etc. - then install Nix and home-manager
-* https://nix.dev/tutorials/nixos/installing-nixos-on-a-raspberry-pi.html 
-    
-    DON'T Use Raspberry Pis for Servers! https://www.youtube.com/watch?v=aKmKo_Ua7rQ&pp=ygUYbml4b3Mgb24gcmFzcGJlcnJ5IHBpIDQg 
-    
+* https://nix.dev/tutorials/nixos/installing-nixos-on-a-raspberry-pi.html
+
+    DON'T Use Raspberry Pis for Servers! https://www.youtube.com/watch?v=aKmKo_Ua7rQ&pp=ygUYbml4b3Mgb24gcmFzcGJlcnJ5IHBpIDQg
+
     look into how to make aliases for different programming languages and projects
-    
-    xdg-settings set default-web-browser firefox.desktop → make work on hank with flatpak, vs https://askubuntu.com/questions/16621/how-to-set-the-default-browser-from-the-command-line 
+
+    xdg-settings set default-web-browser firefox.desktop → make work on hank with flatpak, vs https://askubuntu.com/questions/16621/how-to-set-the-default-browser-from-the-command-line
 * https://karabiner-elements.pqrs.org/docs/json/ → see for ideas for Clavix format
 * https://github.com/manwar/perlweeklychallenge-club/tree/master - many languages
 * https://github.com/briandfoy/PerlPowerTools → for RosettaProjects
-* https://wpdatatables.com/javascript-table-library/ 
-* https://pencilandpaper.io/articles/ux-pattern-analysis-enterprise-data-tables/ 
-* https://www.smashingmagazine.com/2019/01/table-design-patterns-web/ 
-* https://medium.com/design-bridges/complex-tables-356826d11861 
-* [https://www.google.com/search?q=web design select which columns and rows of table to show&ie=utf-8&oe=utf-8&client=firefox-b-m](https://www.google.com/search?q=web%20design%20select%20which%20columns%20and%20rows%20of%20table%20to%20show&ie=utf-8&oe=utf-8&client=firefox-b-m) 
-* https://blog.logrocket.com/exploring-best-syntax-highlighting-libraries/ 
-* https://virola.io/articles/how-to-make-your-server-app-publicly-accessible 
-* https://www.reddit.com/r/rust/comments/15xl4ew/inkjet_a_batteriesincluded_syntax_highlighting/ 
+* https://wpdatatables.com/javascript-table-library/
+* https://pencilandpaper.io/articles/ux-pattern-analysis-enterprise-data-tables/
+* https://www.smashingmagazine.com/2019/01/table-design-patterns-web/
+* https://medium.com/design-bridges/complex-tables-356826d11861
+* [https://www.google.com/search?q=web design select which columns and rows of table to show&ie=utf-8&oe=utf-8&client=firefox-b-m](https://www.google.com/search?q=web%20design%20select%20which%20columns%20and%20rows%20of%20table%20to%20show&ie=utf-8&oe=utf-8&client=firefox-b-m)
+* https://blog.logrocket.com/exploring-best-syntax-highlighting-libraries/
+* https://virola.io/articles/how-to-make-your-server-app-publicly-accessible
+* https://www.reddit.com/r/rust/comments/15xl4ew/inkjet_a_batteriesincluded_syntax_highlighting/
 * https://github.com/rdbo/sigma-linux
-* https://opensource.com/article/21/7/custom-raspberry-pi-image 
-    
-    HN Guix https://news.ycombinator.com/item?id=17083209 
-* https://thiagowfx.github.io/2022/01/alpine-linux-on-raspberry-pi-diskless-mode-with-persistent-storage/ 
+* https://opensource.com/article/21/7/custom-raspberry-pi-image
+
+    HN Guix https://news.ycombinator.com/item?id=17083209
+* https://thiagowfx.github.io/2022/01/alpine-linux-on-raspberry-pi-diskless-mode-with-persistent-storage/
 * https://gitlab.com/raspi-alpine/builder
-* https://www.instructables.com/Booting-Raspberry-Pi-3-B-With-a-USB-Drive/ 
-* https://www.tomshardware.com/news/raspberry-pi-web-server,40174.html 
+* https://www.instructables.com/Booting-Raspberry-Pi-3-B-With-a-USB-Drive/
+* https://www.tomshardware.com/news/raspberry-pi-web-server,40174.html
 * https://github.com/macmpi/alpine-linux-headless-bootstrap
-* https://itsfoss.com/screenshot-login-screen-ubuntu-linux/ 
+* https://itsfoss.com/screenshot-login-screen-ubuntu-linux/
 * https://github.com/rdbo/sigma-linux
-* https://askubuntu.com/questions/1329599/dual-boot-two-linux-distributions-on-one-disk 
-    
+* https://askubuntu.com/questions/1329599/dual-boot-two-linux-distributions-on-one-disk
+
     next step: figure out how to ssh into my work computer -> good for planager access from phone, etc
-    
+
     Open Weather Map API KEy 39f576bf65c9e540357e993fc955c7e5
-    
-    inthe_am/isaac.r.riley/f616213f-e590-4a3c-9b73-40733e137ad5 
-    
+
+    inthe_am/isaac.r.riley/f616213f-e590-4a3c-9b73-40733e137ad5
+
     Look for software that can apply a complex (and continuous) color remapping to a PDF file, or patch my own!!!
-    
+
     Re-write tree command to show view proportional to LoC or other metrics (tree + tokei, etc)
 * https://www.mypy-lang.org/ → make PR: roadmap on site not found
-    
+
     → use mypyc for planager? → compile with codon / mypyc / rewrite in cython and compile?
-    
+
     Write Python script to parse poetry lockfile, query most recent version (pypi / [Github](https://stackoverflow.com/questions/76133390/how-to-use-github-api-to-retrieve-the-latest-version-of-a-package)) to identify which can be updated
-* https://braille-txt.github.io/ 
-    
-    Fork terminal matrix video and use braille for an improved image → even unicode http://xahlee.info/comp/unicode_ascii_art.html 
-    
-    → simple pixelwise regression → pixelwise regression weighted relative to edges? → 
-    
+* https://braille-txt.github.io/
+
+    Fork terminal matrix video and use braille for an improved image → even unicode http://xahlee.info/comp/unicode_ascii_art.html
+
+    → simple pixelwise regression → pixelwise regression weighted relative to edges? →
+
     write library for terminal art like ascii art, but with unicode!
-    
-    → https://elpa.gnu.org/packages/ascii-art-to-unicode.html 
-    
+
+    → https://elpa.gnu.org/packages/ascii-art-to-unicode.html
+
     Cool for images, but also for text → box lines and block characters, as well as curves
-    
+
     Braille text art would also be cool → “brailletters” → write CLI in Nim, Zig, Vlang or something?
-* https://github.com/snyde875/ASCII-Art-Tool 
-    
+* https://github.com/snyde875/ASCII-Art-Tool
+
     Re-write Matrix terminal to use braille and alternatively to use (a suitable set of) unicode characters
-    
+
     Which font processing libraries already exist? How to interface with them?
-    
+
     - alignment
-        
+
         let "word" = "lemma" in what follows
-        
+
         given 2 sentences which may be a match:
-        
+
         what
-         is the probability of word ai and word bj co-occurring in a correct 
+         is the probability of word ai and word bj co-occurring in a correct
         match vs in an incorrect match? -> ratio, i.e. certainty gain
-        
+
         add up log certainty gain for all relevant word pairs found in the sentence
-        
+
         find most predictive words (i.e. word pairs)
-        
+
         Also negative aspect? -> words highly likely to be translated with another word should decrease certainty if it is not found
-* https://ugarit.ialigner.com/userProfile.php?userid=3721 
-* https://ugarit.ialigner.com/about.php 
-* https://huggingface.co/UGARIT 
+* https://ugarit.ialigner.com/userProfile.php?userid=3721
+* https://ugarit.ialigner.com/about.php
+* https://huggingface.co/UGARIT
 * [Image Dithering: Eleven Algorithms and Source Code | tannerhelland.com](https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html)

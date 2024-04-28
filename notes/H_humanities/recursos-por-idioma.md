@@ -5831,7 +5831,7 @@
 * https://www.bbc.com/swahili
 * https://www.kdrtv.com/kiswahili/
 * https://www.radiookapi.net/journal-swahili/journal-swahili-soir
-* [Les yeux de la ville](http://www.childrenslibrary.org/icdl/BookPreview?bookid=machoya_00460007&route=text&lang=French&msg=&ilang=French)*     
+* [Les yeux de la ville](http://www.childrenslibrary.org/icdl/BookPreview?bookid=machoya_00460007&route=text&lang=French&msg=&ilang=French)*
 * [Generales](https://de.wikivoyage.org/wiki/Sprachf%C3%BChrer)
 * - 22
 * http://quechua-ayacucho.org/
@@ -5859,7 +5859,7 @@
 * http://langopedia.ru/2012/10/04/world_alphabets/
 * http://geo.koltyrin.ru/alfavit.php
 * [Esperanto Books](https://b-ok.cc/s/?language=esperanto)
-* Esperanto Books*     
+* Esperanto Books*
 * Audio* - 0
 * https://www.lumenvox.com/tts-demonstration/
 * [Linguae per Carmina](https://docs.google.com/spreadsheets/d/1dPj6PNHYxvdu8o69EnLkLnaHmCzOs4rEncdqlnVm_mE/edit?usp=sharing)
@@ -7251,7 +7251,7 @@
 * Short Sanskrit Stories
 * - 20+
 * [Esperanto Self-Taught with Phonetic Pronunciation, Volume 1](https://castbox.fm/vc/22315)
-* [Esperanto AniBooks by BookBox | Official Playlist](https://www.youtube.com/playlist?list=PLPDzF0B97OtGYLPwIiGpRjIXigF6tn1tb)*     
+* [Esperanto AniBooks by BookBox | Official Playlist](https://www.youtube.com/playlist?list=PLPDzF0B97OtGYLPwIiGpRjIXigF6tn1tb)*
 * Otros* - 0* - 1* - 2* - 3* - 3b* - 4* - 5* - 6* - 7* - 8* - 9* - 9b* - 10* - 11* - 11/12* - 12* - 13* - 14* - 15* - 16* - 17* - 18* - 19* - 20
 * Netflix List
 * Haus des Geldes
@@ -7429,7 +7429,7 @@
 * Emicida AmarElo. Alles für gestern
 * Rafinha Bastos. Ultimatum
 * Lugar de Mulher
-* Stromberg* 
+* Stromberg*
 * [ ]  Parks and Rec
 * [ ]  The Good Place
 * [ ]  The Office UK

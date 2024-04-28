@@ -95,9 +95,9 @@ dev * [(Towards) stable C bindings for libutil, libexpr by yorickvP · Pull Requ
 dev * [](https://github.com/evilmartians/lefthook
 dev * [](https://github.com/samuela/crunkurrent
 dev * [](https://ratatui.rs/
-dev * [](https://sembr.org/ 
+dev * [](https://sembr.org/
 dev * [](https://www.mkdb.sh/
-dev * [abathur/resholve: a shell resolver? :) (find and resolve shell script dependencies)](https://github.com/abathur/resholve) 
+dev * [abathur/resholve: a shell resolver? :) (find and resolve shell script dependencies)](https://github.com/abathur/resholve)
 dev * [Dhall/Parser.hs](https://hackage.haskell.org/package/dhall-1.6.0/docs/src/Dhall-Parser.html)
 dev * [https://www.reddit.com/r/rust/s/QqfsULxF1c](https://www.reddit.com/r/rust/s/QqfsULxF1c) rust dev env
 dev * [inshellisense](https://github.com/microsoft/inshellisense) 
@@ -137,15 +137,15 @@ dev snap * [Snap.d error: cannot communicate with server connection refused - sn
 * (1) [docker](https://www.docker.com/)
 * (2) [slimtoolkit](https://slimtoolkit.org/)
 * (2) [dive](https://github.com/wagoodman/dive)
-* (2) [lazydocker](https://github.com/jesseduffield/lazydocker) 
-   |  [dry](https://github.com/moncho/dry) 
+* (2) [lazydocker](https://github.com/jesseduffield/lazydocker)
+   |  [dry](https://github.com/moncho/dry)
    |  [dockly](https://github.com/lirantal/dockly)
 * (2) [buildx](https://github.com/docker/buildx)
 * ( ) [docker-pushrm](https://github.com/christian-korneck/docker-pushrm)
 * ( ) [watchtower](https://github.com/containrrr/watchtower)
 * (2) [kubernetes](https://search.nixos.org/packages?channel=23.11&from=0&size=50&sort=relevance&type=packages&query=kubernetes) (provides kubectl, among others)
-* ( ) [kubebox](https://github.com/astefanutti/kubebox) 
-   |  [k9s](https://github.com/derailed/k9s) 
+* ( ) [kubebox](https://github.com/astefanutti/kubebox)
+   |  [k9s](https://github.com/derailed/k9s)
    |  [kdash](https://github.com/kdash-rs/kdash)
 * (2) [kool](https://github.com/kool-dev/kool)
 * (3) [cloudtty](https://github.com/cloudtty/cloudtty)
@@ -153,14 +153,14 @@ dev snap * [Snap.d error: cannot communicate with server connection refused - sn
 * (2) [renovate](https://docs.renovatebot.com/)
 * ( ) [Hercules CI](https://hercules-ci.com/)
 * (1) [podman](https://github.com/containers/podman) - read [this](https://blog.while-true-do.io/podman-graphical-interfaces/)
-* (2) [chroot](https://github.com/coreutils/coreutils/blob/master/src/chroot.c) 
-   |  [lxc + lxcfc](https://linuxcontainers.org/) 
+* (2) [chroot](https://github.com/coreutils/coreutils/blob/master/src/chroot.c)
+   |  [lxc + lxcfc](https://linuxcontainers.org/)
    |  [conty](https://github.com/Kron4ek/Conty)
 * ( ) [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH)
 * (2) [ops](https://ops.city)
 
 ## Web and App Development → [What Is JWT and Why Should You Use JWT](https://www.youtube.com/watch?v=7Q17ubqLfaM) - YouTube
-* ( ) [mint-lang](https://mint-lang.com/) 
+* ( ) [mint-lang](https://mint-lang.com/)
 ### APIs
 → https://github.com/public-apis/public-apis
 * ( ) [Postman](https://www.getpostman.com/) - Postman, allows a user to develop and test APIs quickly.
@@ -212,7 +212,7 @@ dev snap * [Snap.d error: cannot communicate with server connection refused - sn
 * ( ) [neoss](https://github.com/PabloLec/neoss)- User-friendly and detailed socket statistics.
 * ( ) [iola](https://github.com/pvarentsov/iola)- Socket client with REST API.
 ### Server, Deployment
-* ( ) [dog [-](https://github.com/ogham/dog [-)DNS lookup client *(better `dig`)](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6#doghttpsgithubcomoghamdog-dns-lookup-client-_better-dig_)
+* ( ) [dog [-](https://github.com/ogham/dog [-)DNS lookup client *(better `dig`)](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6#dohttpsgithubcomoghamdog-dns-lookup-client-_better-dig_)
 * ( ) [dog](https://github.com/vschwaberow/dog)- looks good
 * ( ) [cowyo -](https://github.com/schollz/cowyo -)Feature rich wiki webserver for minimalists. - planager?
 * https://github.com/openresty/lua-nginx-module

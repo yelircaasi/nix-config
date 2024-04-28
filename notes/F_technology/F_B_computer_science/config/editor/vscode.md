@@ -6,23 +6,23 @@
 * [VS Code Top 10 Profi-Tipps](https://www.youtube.com/watch?v=eO_IFx6mR4E)
 
 
-vscode  [Setting Up nix-shell and Visual Studio Code to Interact | Matthew Rhone dot Dev](ghttps://matthewrhone.dev/nixos-vscode-environment)
+vscode  [Setting Up nix-shell and Visual Studio Code to Interact | Matthew Rhone dot Dev](https://matthewrhone.dev/nixos-vscode-environment)
 
-vscode [Color Theme | Visual Studio Code Extension API](ghttps://code.visualstudio.com/api/extension-guides/color-theme%23create-a-new-color-theme)
+vscode [Color Theme | Visual Studio Code Extension API](https://code.visualstudio.com/api/extension-guides/color-theme%23create-a-new-color-theme)
 
-vscode [Creating our own color theme in vscode - DEV Community](ghttps://dev.to/vinaybommana7/creating-our-own-color-theme-in-vscode-2b9m)
+vscode [Creating our own color theme in vscode - DEV Community](https://dev.to/vinaybommana7/creating-our-own-color-theme-in-vscode-2b9m)
 
-vscode [Don't use VSCode - YouTube](ghttps://www.youtube.com/watch?v%3DGUovhZYNO-M%26t%3D1625s)
+vscode [Don't use VSCode - YouTube](https://www.youtube.com/watch?v%3DGUovhZYNO-M%26t%3D1625s)
 
-vscode [Visual Studio Code Themes](ghttps://code.visualstudio.com/docs/getstarted/themes)
+vscode [Visual Studio Code Themes](https://code.visualstudio.com/docs/getstarted/themes)
 
-vscode [Your First Extension | Visual Studio Code Extension API](ghttps://code.visualstudio.com/api/get-started/your-first-extension)
+vscode [Your First Extension | Visual Studio Code Extension API](https://code.visualstudio.com/api/get-started/your-first-extension)
 
 vscode [https://github.com/microsoft/vscode/issues/181533#issuecomment-1597187136](https://github.com/microsoft/vscode/issues/181533%23issuecomment-1597187136)
 
-vscode [nix-community/nix-vscode-extensions: Nix expressions for VSCode and OpenVSX extensions [maintainers: @deemp, @AmeerTaweel]](ghttps://github.com/nix-community/nix-vscode-extensions)
+vscode [nix-community/nix-vscode-extensions: Nix expressions for VSCode and OpenVSX extensions [maintainers: @deemp, @AmeerTaweel]](https://github.com/nix-community/nix-vscode-extensions)
 
-vscode [nix-community/nix4vscode](ghttps://github.com/nix-community/nix4vscode)
+vscode [nix-community/nix4vscode](https://github.com/nix-community/nix4vscode)
 
 vscode [nix-community/vscode-nix-ide: Nix language support for VSCode editor [maintainer: @jnoortheen]](https://github.com/nix-community/vscode-nix-ide)
 
@@ -50,7 +50,7 @@ vscode [nix-community/vscode-nix-ide: Nix language support for VSCode editor [ma
     * [https://github.com/anas-araid/vscode-infinite-workspace](https://www.google.com/url?q=https://github.com/anas-araid/vscode-infinite-workspace&sa=D&source=editors&ust=1711377830149735&usg=AOvVaw2kP06rPyHJRZi-XAy_XyFc)
 * Dev Containers 
     * [](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D61M2takIKl8%26list%3DPLj6YeMhvp2S5G_X6ZyMc8gfXPMFPg3O31&sa=D&source=editors&ust=1711377830150186&usg=AOvVaw0iejLfnErg-WX9R1QjUTlL)
-    * [Introduction 
+    * [Introduction
     * [1 of 8] | Beginner's Series to: Dev Containers - YouTube](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D61M2takIKl8%26list%3DPLj6YeMhvp2S5G_X6ZyMc8gfXPMFPg3O31&sa=D&source=editors&ust=1711377830150567&usg=AOvVaw3AkWH-JP-e3SVukACLPve3) 
     * [](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D0H2miBK_gAk&sa=D&source=editors&ust=1711377830150792&usg=AOvVaw0koHxF11Xcb6Z05gc1nTG9)
     * [How to create a great dev environment with Docker - YouTube](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D0H2miBK_gAk&sa=D&source=editors&ust=1711377830151024&usg=AOvVaw23Oncw9tilSQT7MnYFUUjM) 

@@ -22,7 +22,7 @@ how to reconcile solidarity with wanting the best for your child and helping the
 
 7. Sort ‘Lista y análisis de fuentes de la duda’
 
-8. Sort ‘’Iron Rod Letter 
+8. Sort ‘’Iron Rod Letter
 
 9. Sort ‘Announcement Post’
 
@@ -75,7 +75,7 @@ how to reconcile solidarity with wanting the best for your child and helping the
 
 7. Sort ‘Lista y análisis de fuentes de la duda’
 
-8. Sort ‘’Iron Rod Letter 
+8. Sort ‘’Iron Rod Letter
 
 9. Sort ‘Announcement Post’
 
@@ -144,9 +144,9 @@ how to reconcile solidarity with wanting the best for your child and helping the
         * [Peter Singer - ordinary people are evil](https://youtu.be/KVl5kMXz1vA)
         * https://www.scotthyoung.com/blog/2010/05/05/atheist-reading-religio/
         * [books: philosophy without any gaps](http://libgen.rs/search.php?req=philosophy+without+any+gaps&open=0&res=25&view=simple&phrase=1&column=def)
-    
+
     find multilingual Amartya Sen books and add them to Drive and Roadmaps
-    
+
     find science fiction about omniscience, suffering, consciousness
         * http://libgen.rs/search.php?req=baggini+ethics&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
         * https://de1lib.org/s/baggini?languages%5B%5D=german&languages%5B%5D=french&languages%5B%5D=italian&languages%5B%5D=dutch&languages%5B%5D=portuguese&languages%5B%5D=russian&languages%5B%5D=spanish
@@ -319,7 +319,7 @@ how to reconcile solidarity with wanting the best for your child and helping the
         * https://www.suhrkamp.de/buch/philosophie-der-arbeit-t-9783518298015
         * [https://de.wikipedia.org/wiki/Arbeit_(Philosophie)](https://de.wikipedia.org/wiki/Arbeit_(Philosophie))
         * https://www.philomag.de/lexikon/arbeit
-    
+
 
 
 * Philosophiæ quaestiones
@@ -330,100 +330,100 @@ how to reconcile solidarity with wanting the best for your child and helping the
     - Aesthetica
     - Altri
 * Autoepistemography
-    
+
     Autoepistography
-    
+
     - 0-6 - peaceful and happy indoctrination
     - 7-10 - acceptance of evolution without seeing any conflict
-    
+
     good experience with baptism
-    
+
     little questioning
-    
+
     interest in science
-    
+
     - 11-13 - Mormon Doctrine and other teachings
-    
+
     first red flags and difficult search for answers
-    
+
     reinforced sense of difference and need to hold strong to my heritage and beliefs, "stranger in a strange land"
-    
+
     German liberal values
-    
+
     tolerable questions - conflict with evolution
-    
+
     beginning of serious questions regarding us vs. them, theology regarding others, what determines morality, what
-    
+
     - 14-18 - smooth, all in, some questions
-    
+
     issues with polygamy in high school
-    
+
     exposure to weird stuff in the old testament
-    
+
     intensive study of evolutionary theory
-    
+
     other questions about science and religion
-    
+
     certainty in the foundational claims of the restoration and of Christianity
-    
+
     conservative political outlook
-    
+
     - 19-22 - difficult questions before my mission, but need to settle them or sweep them under the rug - polygamy and racism
-    
+
     prophetic fallibility
-    
+
     disturbing endowment ceremony
-    
+
     occasional questions about sexism
-    
+
     qualms about missionary tactics, high-pressure sales, whitewashing
-    
+
     characteristics of people interested in the church and methods used to explain them (poverty, humility,
-    
+
     effort to make missionary work genuinely beneficial
-    
+
     issues with imperialism
-    
+
     intelligent, nuanced mission president
-    
+
     weird stuff about the gathering of Israel
-    
+
     bizarre doctrine about blood changing - actually falsifiable
-    
+
     - 23 - real faith crisis, help from a wonderful bishop
-    
+
     full exposure to some of the horrible acts
-    
+
     - 24 - intensive study - philosophy, church history, sociology & mehods of control, social psychology, psychology of belief
-    
+
     exposure to the full spectrum of issues
-    
+
     wondering about informed believers (Mason, Givens, Bushman)
-    
+
     Noam Chomsky & manufactured consent
-    
+
     seeing through American nationalism and American exceptionalism
-    
+
     questioning my parents' insensitivity and snobbery
-    
+
     conclusion based on the ensemble of evidence
-    
+
     began to question God and Christianlty and religion in general as well
-    
+
     questioning the capacity for rational, unbiased thought at all
-    
+
 * Lista y análisis de fuentes de la duda
-    
+
     Hey Eliza,
-    
+
     I got your letter where you asked me if I have ever had a “testimony crisis”, or anything of the sort. Here is my answer - I recommend printing it out to read when you have one of those rare spare moments, so it doesn’t cut into your precious email time.
-    
+
     I have, several times, experienced intense doubt, since I do ask questions and love finding answers. Since I was 11, I have wanted to know all I can about the Church of Jesus Christ of Latter-day Saints to reassure myself that I am spending my life on the right things, or to learn what other path I should take.
-    
+
     I’m glad you asked, because I often feel like there is a stigma against asking tough questions, as if that implied weakness or a lack of faith, and I don’t think it should be that way. Questions, combined with an open mind and a pure heart, are the path to truth, and I love asking questions. I’m certainly glad Joseph Smith was willing to agonize over difficult questions with an open mind.
-    
+
     As far as I can tell, this is a fairly comprehensive list of the doubts and objections people generally have with regard to the Church, and also what my thoughts and experience have been with them. More importantly, these are all things I have wondered about, and some of them I have thought long and hard about and lost hours of sleep over. This is more than you asked for, but I hope you find this helpful and/or interesting. It definitely applies to the work you’re doing, especially in a place as intellectually-oriented and secular as the Netherlands and Belgium. Let me know if you have more thoughts or questions with regard to any of these in particular.
-    
+
     - Church history
     - Blacks and the Priesthood - this is tough, and members only made it worse pre-1978 by thinking up non-doctrinal explanations. I wish this had never happened, but it’s a fact that even some of the greatest people have their prejudices. At the end of the day, I’m just glad to have been norn after the 1978 revelation. There is a great article about this: https://www.lds.org/topics/race-and-the-priesthood?lang=eng . You’ll actually find a lot of good, well-written articles on the Church website: https://www.lds.org/topics/
     - polygamy - This is something that is not easy for us, having been raised in a monogamous society with monogamous ideals, to accept, but it is in the Bible. Furthermore, most of the discomfort it causes is, as far as I can tell, due to an incomplete understanding of its purpose and practice. Like I would have been in their shoes, Joseph Smith, Brigham Young, and others were repulsed by the idea and had no desire to practice it. One common argument for it is that there are probably more women than men who qualify for exaltation, but all need to be married. That seems plausible to me, but most importantly, it was a commandment revealed and also discontinued through the prophets.
@@ -447,157 +447,157 @@ how to reconcile solidarity with wanting the best for your child and helping the
     - Feminism ideology - This is a tough one, and I give it some credence. Women certainly could have a greater voice within the Church community, but demanding the priesthood is silly, definitely the wrong kind of voice. Most of the discomfort this issue causes is because people don't understand the patriarchal order, or maybe don't understand or believe that marriage is an equal companionship, and that holding the priesthood does not imply any kind of superiority. In other words, the priesthood legitimizes the Church, but individuals do not need to hold the priesthood to be legitimized.
     - Struggle to accept something that has not been revealed - This can be hard for me, because I have a compulsive drive to know and understand, but this is nothing more or less than a tough test of humility and patience.
     - Struggle to accept the fact that we were born as part of the <1% of all people who have ever lived on the Earth and are bizarrely blessed with liberty, prosperity, and happiness, or in other words, a struggle with the concept of fairness - This one gets to me a lot, but it’s not one that can prove anything about truth; it’s just hard to accept that I am so blessed and easy to wonder why. The parables of the talents and of the laborers in the vineyard have helped me come to terms with this, as does Luke 12:48, and this is definitely a topic I still have a lot to study on. It’s interesting to think about the special missions we have, and nice to remember that it’s not about being better or worse, just about doing the best we can with what we’re given and helping others to do the same.
-    
+
     Why I believe: I have felt the Spirit’s witness that this Church, despite its imperfect past and imperfect nature, is the one set up by Jesus Christ. Having an open mind dictates that if you were to find more truth and light anywhere else, you would go there. I have had my eyes open, and I haven’t found any church or other group or system of belief that fit the bill. There is nowhere else you can learn so much about Jesus Christ and His Gospel, and nowhere else you can find opportunities to do so much good. In addition to the Spirit’s witness, the evidence for the Church outweighs any evidence against it, and the most logical decision I have found is to accept it and to live by it, and to help others do the same. As Alma 32 and John 7:17 promise, living the Gospel is its own best proof.
-    
+
     Sometimes I’m a little jealous that you’re still a missionary, and I miss my own time as a missionary. It really is a wonderful feeling that can be easy to take for granted, and I’m so grateful I got to serve. Thanks for writing good emails every week.
-    
+
     Love,
-    
+
     Broeder Izak
-    
+
 * Iron Rod Letter
-    
+
     When a Loved One Chooses to Let Go of the Iron Rod
-    
+
     by Michael Felix
-    
+
     Are you a Mormon whose beloved friend or family member has seemingly thrown away the truth of the gospel? Perhaps the truth is so obvious to you that you cannot fathom the actions of this person whom you love and admire. This rejection of your principles might even feel like a personal rejection, though it is not intended as such.
-    
+
     After speaking to and reading the accounts of many Mormon "apostates," I've become painfully aware that the believers in any disbeliever's life often have trouble coming to terms with his or her loss of faith. Disbelievers may feel out of place, or complain that believing friends and family are unwilling to accept them for who they have become. Believing Mormons typically experience difficulty remaining on the same terms of friendship and love with an otherwise unchanged fellow who has undergone a theological or philosophical transformation. Because of certain attitudes which prevail in the church's culture, and because of the implications of certain doctrines and authoritative pronouncements with which every member is familiar, Mormons often have trouble actually allowing other Mormons to worship how they may. I have come to believe that the problem is fundamentally one of lack of understanding. Because of the mindset that many believers bear, it may be that they are simply incapable of understanding what goes on in the apostate mind.
-    
+
     Having noticed this, I feel a desire to give some advice from a skeptic's point of view, to the faithful believer who may have never waged a long and difficult struggle with doubt.
-    
+
     Honest Belief
-    
+
     To many a disbeliever, the makeup of belief is more important than its eventual alignment. In other words, that the compass is correctly assembled and aligned is a more immediate concern than whichever direction its needle is currently pointing.
-    
+
     To a skeptical truth-seeker such as myself, belief is only valid if it is honest. I believe in honest belief, and that instills me with the following convictions:
-    
+
     What I believe is not mine to directly dictate. I cannot use willpower to change it to coincide with a creed. I may only indirectly influence its nature by thinking and learning.
-    
+
     I am free, even obligated, to believe the truths that intellectually and spiritually honest inquiry reveals to me.
-    
+
     As such, I must consider each pathway of knowledge I encounter.
-    
+
     It also means that my perception of truth may change because of new evidence or sharpened judgment, in which case I am obligated to reevaluate my honest belief.
-    
+
     Furthermore, if two people appear to have arrived at diverging beliefs honestly and diligently, each belief is equally worthy of evaluation.
-    
+
     If belief is honest, the most important judgment upon it is that of its owner.
-    
+
     But if it is abandoned at will it has either become dishonest, or was already dishonest to begin with.
-    
+
     Finally, honest belief does not imply absolute knowledge; when necessary, it also hinges on resignation to the lack of knowledge.
-    
+
     For me it is obvious that these are principles I must follow in order to seek for truth, just as it may be obvious to you that truth is revealed and must be maintained by engaging in practices that are intended to support it (such as reading scriptures, praying and obeying prophets). That is the fundamental difference between an intellectual disbeliever and most believing Mormons. It is, of course, difficult for a natural skeptic like me to believe in the disprovable, but it is impossible to accept that I should be required to tailor my truth-seeking behavior in order to influence the outcome so that I do.
-    
+
     The Believer's Checklist
-    
+
     Before you name sin and pride as the causes of your loved one's offense, remember that it's not by choice that he has changed his faith. Robert Ingersoll once wrote, "Belief is not subject to the will. Men think as they must." The idea that "those who reject Mormonism's claims apostatize from the church because they need an excuse to sin" is simply a misconception. Belief is not something to be brashly discarded like a banana peel when one happens to find a trash can nearby. The popular checklist of causes of apostasy typically includes pride, social offense, and moral weakness. Too often the believer simply chooses an item from this list, placing blame squarely on the shoulders of the disbeliever without risking discomfort by questioning the belief system itself. Note what this checklist does not include: simple differences in belief.
-    
+
     Yet perhaps the believer who sees a fellow breaking commandments of the church is placing effect before cause. By not admitting simple disbelief among the causes for disobedience, the believer must assume that the disobedience itself is the cause of the disbelief. In order to accurately understand an unbeliever, it is first imperative that you augment your checklist to include another possibility: that he disbelieves simply because he disbelieves.
-    
+
     Most disbelievers are insulted by the notion that they have simply discarded their former convictions to more easily sin. It implies that the disbeliever was never honest in his/her belief in the first place. To a believing Mormon, belief can and should be molded by constant exposure to the advice of prophets and the testimonies of other believers; however, those of us who drift from orthodox Mormonism come to rely on different criteria for shaping our belief.
-    
+
     Furthermore, it is neither fair nor sufficient to contentedly insist that the loss of faith comes about simply because of the desire to lose faith. While it may be true for some that "belief is a choice," this is definitely not true for everyone. In fact, I would venture to say belief is a true choice for almost no one, especially one who cherishes honest belief. We can tell ourselves we believe things. We can publicly insist that we believe them. We can feel pleasant emotions when considering our cherished principles, and count those emotions as proof of the depth of our belief. We can leave home, lose money, love, hate, heal and kill for our beliefs, and all the while, deep down inside, our subconscious minds might still know that we don't actually believe in what we've fought for.
-    
+
     Most of those I know who act contrary to the commandments of the church do so because they honestly disbelieve the validity of those commandments. Yes, there are certainly people who drift from the practices of orthodox Mormonism because they find these practices too restrictive of the lifestyle they would rather lead. However, it is imperative that one allow a distinction between acting contrary to the church's rules and losing faith in those rules. Often these people who leave in order to sin still believe at their core, and if so, they probably feel immense guilt while they break what they view as God's commandments. Compared to changing belief, degrading in behavior is easy, for what human really has absolute control over what he thinks?
-    
+
     The Foundations of Disbelief: Ideas About Ideas
-    
+
     Though it may contrast strongly with your point of view, the typical disbeliever probably holds to the belief that no idea is unworthy of examination. To him or her, the church's way of constantly imploring members to ignore doubt and study only uplifting subjects is probably distasteful, because it appears as an attempt at information control. The Mormon skeptic wonders: "What do the Brethren have to hide that causes them to whitewash information and admonish us not to dwell upon the difficult things?"
-    
+
     Your acquaintance or relation probably values logic and reason very highly. While you may agree to some extent that the study of logic and all of its fruits (science and technology, for example) are worthy of pursuit, as a believer you have probably found instances when you must insist that logic is a secondary, less enlightened form of learning. For instance, regarding the theory of evolution, you may be willing to study its principles and possibly even hold some belief in many of them. But when it comes to the ultimate question in evolution, you probably exhibit at least one behavior that is based on something other than principles of reason. Perhaps you are unwilling to accept a certain few findings of science because they incriminate your belief system; maybe you discard parsimony and begin looking for more elaborate explanations to facts than the ones logic offers; or possibly you simply refuse to keep wondering and contentedly assure yourself that the answer will someday be given to you if you are diligent in other areas of your life.
-    
+
     I do not wish to pass judgement upon the validity of these behaviors. My hope is to point out that each of them departs from the normal principles of logic that we use to govern our lives. The difference between the believer and the skeptic is that, when foregoing logic in order to prop up his beliefs, the skeptic feels hypocritical. He wonders why he should be expected to ignore-in only certain instances-the reason that guides him so well when he drives a car, picks coins out of his hand, or decides which political candidate to support. He comes to believe that a God who created the world and his brain, and gave Man logic above that of the animals in order to guide him through the dangers of life, would not require that logic be discarded in order to understand or communicate with his Creator. This leads him to consider that, while faith in a principle for which there is no counter-evidence is fine and possibly good, faith against clear evidence is dishonest, and therefore not of God. With these ideas in hand, the skeptic examines the claims of Mormonism and often finds trouble there.
-    
+
     Your disbeliever has probably lost faith because of his discovery of historical or scientific facts that he finds damaging to testimony. There are many teachings of the gospel for which supportive or contrary evidence does not exist; these points are open to everyone for personal interpretation and are mostly untouchable by logic. As an example, consider the teaching that our conscience is really the promptings of the Holy Spirit. Likewise, there are some aspects of church doctrine that closely intertwine with science, history or other scholarly disciplines, and for a skeptically-minded person these are the ones that usually provide difficulty. An example of this is the claim that Book of Mormon peoples actually lived on the American continent. Your disbeliever has probably studied arguments concerning many points of the latter variety, some of which you would consider helpful and some detrimental to the church's agenda. Though you may be inclined to postpone the consideration of difficult ideas (perhaps telling yourself that there are some mysteries you may never understand), he is not willing to do so. He believes all things are worth judging from a neutral standpoint and, in cases where it is possible to find evidence for or against the church's view, is not willing to give deference to a set of beliefs simply because they are the ones with which he grew up. He feels the evidence itself speaks the truth, just as it does in a court of law.
-    
+
     You may feel that your beloved disbeliever has been deceived by Satan into accepting erroneous information as fact. I think it's important, in discussing this possibility, to differentiate between fact and interpretation of fact. Facts are historical or scientific, i.e. "Joseph Smith practiced polygamy." A corresponding interpretation would be, "Joseph was noble and obedient and did it because he was commanded to," or "Joseph used religion as an excuse to have sex with many women." Interpretations only come in single-serving packages, and it's impossible for me to vouch for the opinions another skeptic has formed as a result of his research. However, I feel there's a good chance-if he has researched well-that the set of facts he considers faith-adverse are, for the most part, true. Before you begin arguing with his interpretations, be aware that those interpretations are based upon underlying facts with which you may not be familiar, and upon which a skeptical interpretation is just as valid as (or more valid than) a faithful one.
-    
+
     On the other hand, you may be aware of some of the disturbing "hidden facts" of Mormonism, and perhaps it appears to you that your belief-challenged friend lends too much credence to the allegations of anti-Mormons. Perhaps it frustrates you that she is unwilling to accept the efforts of apologists that have answered all allegations. But chances are she has actually considered these efforts and found them wanting. Apologetics usually start with a conclusion (the church is true) and seek ways to prove it by discounting or invalidating evidence against it. This approach is obvious to believers, but actually quite distasteful to one who is not already convinced of the validity of the conclusion. One thing most intellectual disbelievers have in common is that they have resolved to throw away assumptions and start their search for truth from square one; as a result, the apologetic approach doesn't tend to meet their needs. This is because the apologetic approach is tailored to the believer who is already seeking ways to validate his beliefs, and who doesn't demand the kind of rigorous arguments that the skeptic would require. That is why your unbelieving friend probably won't be as satisfied as you are with the ideas of FARMS and the like, which to him may seem contrived and unsupportable.
-    
+
     When I began to critically examine the church, I read a lot of apologetics in hope of retaining belief. I found some convincing arguments, and was always grateful for the point of view they offered, because it balanced the bitter or spiteful interpretations that were often attached to the facts I had discovered. But in the end I came to believe that, while a certain apologetic argument may explain away a problem quite satisfactorily, when the big picture is examined the apologetics don't mesh as well into a cohesive whole as the skeptical viewpoint does. Your acquaintance may share this view.
-    
+
     Assumptions to Reconsider
-    
+
     If you want to understand an unbeliever, you have to remember that she no longer holds to many of the assumptions the church instills in us regarding the method of belief. As you discuss religion with her, it may help to remember that there are certain commonly held, basic assumptions always circulating in the membership of the church which are never debated, but are viewed as a foundation, to be taken for granted and upon which all actual arguments are to be based. However, none of these is taken as given by a skeptic, who has probably given them serious thought and discarded most or all of them. These assumptions include:
-    
+
     The idea that disobeying the church = disobeying God. This is problematic because no provision is made for instances where the church's teachings are not exactly equal to God's will. While such an instance may be inconceivable to you, it is easily imagined by many of faltering or fallen faith. After all, which is easier to consider: that a difficult principle such as polygamy is difficult and unfair to women because God is unfair, or because the church was created and is led today by mortal, unfair men?
-    
+
     The conception that, as Neal Maxwell once expressed, there is no alternative explanation for Joseph Smith other than the two extremes: that he was either a prophet or a scoundrel bound for hell. Mormons often desire only black and white solutions instead of seeing the world for the shades of gray in which it is actually painted. It is entirely possible that Joseph was something other than a saint or a demon, and there have been a number of possibilities put forth that merit consideration.
-    
+
     The surety that sickness, misfortune, or bad luck on the part of a disobedient member are punishment from God, while these same afflictions when suffered by an obedient member are given by God as trials to test faith.
-    
+
     The statement that no one can be truly happy outside of the church. Experience-if you're willing to look-has shown that it's just false.
-    
+
     The assumption that a book of scripture must be historically accurate in order to be "true." It's frankly bewildering to me that something in the scriptures has to have actually happened in order to have meaning to most Mormons. No value is given to the possibility that any scripture may be simply uplifting metaphor that neglects to identify itself as such. Jesus' parables are an obvious exception, but only because they were recorded along with the story of their telling as parables.
-    
+
     The idea that certain ideas, web sites, or books are inherently evil. As is often asked: if the truth is truth, why can't it withstand scrutiny? Just how fragile is truth's hold on our minds, anyway?
-    
+
     The assertion that driving doubts out of one's mind without resolving them is noble and wise. Such a course of action is certainly the best way to preserve a testimony, but is it honest, or mentally healthy? The answer is different for everyone, but as a skeptic I can testify that for me such a course of action is unhealthy. However, I recognize that the maintenance of belief at all costs is paramount for the happiness of many people, and because of that I do not crusade to drag others from their places of faith or deride them for following a path different from mine. I ask that the same courtesy be extended towards me.
-    
+
     The belief that dishonesty is permissible in certain circumstances (like finding a testimony "in the bearing of it," or giving an investigator "milk" and baptizing him without also giving him the "meat" he deserves before committing himself to the church).
-    
+
     The allegation that highest form of worship is complete and even unthinking obedience to someone claiming to be God's servant. Galileo declared that he could not believe God would give humans such a marvelous intellectual capacity, and then expect them not to use it. Most skeptics I know agree.
-    
+
     The oft-repeated adage: that which is not for Christ must be against Christ. This is often extended to label everyone as either an enemy or a friend of the church. Can nothing simply be neutral? Certain Mormons, and even the religion itself, have sometimes had a problem allowing the existence of neutrality in others' motives and actions.
-    
+
     Dealing with the Lack of Belief: a Tempered Approach
-    
+
     If you are a believer, please be sure you understand what your disbelieving friend has gone through before you call him to repentance. Speaking from personal experience, I have spent a lot of effort in examination of my beliefs and the beliefs of others, in an attempt to determine what is true. I've read many books and many, many web pages about all points of view on Mormonism. I still spend a part of each day considering religion and formulating my views. Unless you are doing the same, you have no right calling me or any other unbeliever lazy or disloyal (or even deceived or mistaken), or otherwise judging our position or direction. Too often we become complacent in a comfortable position, and it's too easy to deride those who refuse to assume the same position of comfort.
-    
+
     Ask yourself honestly, with whom God will be more pleased: the person who spends much time and effort trying to find out the truth about Him, or the person who is so certain that he has it that he judges others by his preconceived ideals? The answer: I don't know, and I don't pretend to. But I believe he'll be more pleased with the first. And that belief, since it is mine, is the only clear light that should rightfully guide my actions.
-    
+
     To lose belief can leave one feeling profoundly empty. The lack of knowledge, like the lack of any vital component of life, can be a difficult affliction to bear. If it helps, regard the unbelieving seeker in your life with the same consideration you would afford a man who lacks shelter or food, or love. Believing something beautiful helps a human be happy, and those of who have lost that comfort are not deserving of derision or scorn because they have been unable to find it. In fact, they are deserving of respect for their courage. Ask yourself what you would do with your life if you suddenly became unmistakably convinced that the church isn't "true." Answer honestly, and I hope you'll gain admiration for the plight your unbeliever is probably facing.
-    
+
     So, what can you do to help your unbelieving loved one? You probably wish very badly that your disbelieving friend would renounce his wayward ideas, since you believe his eternal wellbeing depends upon his doing so. It is your right to attempt once or twice to change his mind, but please do so respectfully. It is important that you do not attempt to scare or shame your disbeliever back into his former mode of thought. It probably won't work. Such behavior doesn't stem from compassion and definitely won't create feelings of love. Even if you were to succeedconsider the outcome; does God, who loves his children, want them to love him back, or fear him , because he is awful? Mormonism has extracted the fearfulness from God, separated out the unpleasant aspects of the Old Testament deity who killed heathens and the New Testament Lord who damned unbelievers, and made Heavenly Father into a loving father who is actually worthy of worship, who really wants to save us all from the unbending mercilessness of the universe. Why would such a God condone the use of fear to gather his wandering sheep?
-    
+
     The choice of action I hope you'll take is to be understanding, to make certain the friendship you enjoyed is not damaged by the discomfort you feel in the face of your friend's new beliefs. If the wayward soul you're concerned about is a family member, especially a spouse, it is even more imperative that you retain control of the relationship. How disturbing is it that the church, which touts itself as a champion of family values and togetherness, can be the root cause of the demise of a family? I have heard far too many accounts of divorce occurring because of the inability of one partner to accept the evolving religious views of the other.
-    
+
     Remember that the disbeliever was once like you. Don't patronize her because you believe she has lost "spiritual knowledge;" she still remembers the Mormon doctrine she was taught, but has changed her interpretation of it. She is the same person with the same need for understanding, just as she would be the same person if she had suddenly undergone a change in political ideology or artistic preference.
-    
+
     And most importantly, whatever you do, try to understand that, even if you were the one who introduced your friend or family member to the church in the first place, their rejection of your religion is not a rejection of you. The most frustrating thing for a newly disbelieving Mormon is the sure knowledge that, in our religion, social ties are intertwined with religious convictions. If you feel a personal rejection in the actions of your loved one, it is probably because he could find no other way in this culture to gain freedom without inadvertently hurting you.
-    
+
     Reflect on the eleventh article of faith and the wonderful gift of freedom that we all enjoy. Reflect, if you are so inclined, upon the doctrine of the Atonement, and upon the nature of its author. Remember what kind of man Jesus was: accepting of all, saints and sinners alike.
-    
+
     Your ultimate goal may be to win your loved one back to the church. But don't risk driving him or her away by concentrating only upon that goal. If you keep your mind open you'll do a great service to everyone involved, have the greatest chance of restoring his or her faith, and possibly even find some new enlightenment for yourself.
-    
+
 * Announcement Post
-    
+
     This is a long, blunt, and fairly personal open letter. If you are in the mood for cat videos right now, or if you hardly know me, scroll on.
-    
+
     I'm a Mormon, born and raised. Most of my great-grandparents were Mormon and lived in Utah. I was amused, but not too surprised, when I learned that Mormonism is considered its own ethnicity by some ethnologists. In that sense, I will always be Mormon. It is my heritage, my culture, and my community. It has shaped me in countless ways. I am no longer a Mormon, though, in the sense that a Mormon believes the truth claims of the Church of Jesus Christ of Latter-Day Saints. I think it's only fair to my friends and extended family to be transparent and be the first to break the news.
-    
+
     One of the most important reasons I share this publicly is that I prefer to preempt the rumors and speculations. Another is that there are also a number of incorrect ideas perpetuated by the LDS church and its membership about "apostates" who no longer believe, so I want to address those here. I want to do what I can against the intense pressure to remain silent that many sincere doubters experience, and create opportunities for honest and open discussion. I also want to be clear that I do not want to be anyone's enemy because of my change of belief, and that I don't want this to damage any relationships. The LDS church has so much beauty and goodness that I still love, and I don’t want to take them away from anyone. I’m still a friend and an ally, not a scary enemy who needs to be shunned.
-    
+
     I take complete responsibility for this. It wasn't Sandra's doing, nor my parents, siblings, or LDS friends. They have done nothing wrong and nearly everything right. They still believe, and they did all they could to help me maintain belief for as long as possible. I still participate in many of the rituals and traditions, especially with Sandra. Church activity and involvement are a force for good in her life, and anything that benefits Sandra is a good thing in my book.  Again, please understand that my friends and family did all they could. This obviously wasn't the result of peer pressure I experienced at BYU. I deserve all the blame.
-    
+
     This is the result of my honest search for truth. I didn't begin to doubt because I wanted to doubt or because I wanted to rebel; I came across historical, theological, and scientific contradictions in my beliefs that I needed to resolve, and defending my faith, both to myself and others, was an important part of my spiritual life for years. I did doubt my doubts before doubting my faith, and I wanted the beliefs I loved to be true. I researched them in depth for years, trying to make it work. I didn't want an excuse to sin; my lifestyle and personal ethical code are essentially what they were before, and in some ways better. I wasn't offended by anyone. I didn't get lazy or tired of keeping the commandments, although once I no longer believed, some of them lost meaning for me. Those who know me well know how firmly I believed and how diligently I tried to live in accordance with my beliefs. I didn't stop reading the scriptures, or praying, or going to church; I became more diligent with all three while looking for answers, because I desperately wanted the beliefs I had built my life on to be true. Even now, I still do all three with Sandra. I haven't forgotten my spiritual experiences; I remember them well and they mean very much to me, but I understand them differently now. Even more importantly, even as a non-believer, I still experience the same feelings I had learned to identify as the Holy Spirit.
-    
+
     I didn't doubt my faith because of social issues; it would be insane to sacrifice eternal salvation because of differences of opinion and things that I didn't understand. It was the other way around; as my trust in religion faded, social views that I had held on no other grounds other than that trust, and in spite of good arguments against them, became obsolete.
-    
+
     Some believers will want to write me off as deceived by Satan; if I have been, it's hard to understand why I continue to enjoy the "fruits of the Spirit: ... love, joy, peace, longsuffering, gentleness, goodness, faith, meekness, temperance" (Galatians 5:22-23). I'm not exceptionally good, but I'm no worse a person than I was earlier as an extremely devout believer. I feel at peace with my decision. But anyone who refuses to accept that I honestly arrived at a different conclusion and simply see things differently will have to write me off as hoodwinked by the devil. The impulse to shelter one's beliefs by demonizing those who believe differently is powerful, but I hope for a little more charity than that. If there has to be a faith-promoting narrative, let it be an honest mistake on my part, rather than a demonic possession.
-    
+
     I don't think it's fair to put it all down to pride. If thinking freely and independently is pride, I can plead guilty to that. But I once saw myself as one of the privileged few born and raised in the One True Church, and now I don't. I'm now longer one of the "elect"  or part of the "chosen generation." I don't see myself as a bearer of God's exclusive power. All of the teachings that reinforced a sense of my own "specialness" are out of the picture for me. I've accepted the possibility that I may have been wrong about a lot of things. There are a lot of things I don't know, and I don't have all the answers. Having recognized these things, some of them the hard way, I now feel more humble, or humbled, than I was before.
-    
+
     Sometimes being too intellectual is equated with pride. I am familiar with Proverbs 3:5-6, Isaiah 55:8-9 and 2 Nephi 9:28-29. But for each of those, you have Zechariah 8:16, John 8:32, Ephesians 4:25, and D&C 93:24. I feel a moral imperative to search for the truth, and I eventually reached a point in my life where I decided to search for the truth, even if that search took me away from the faith I was raised in. Whether anti-intellectualism is a divine condemnation of my Enlightenment values or a manipulative tactic is a matter of individual judgment, but it seems suspect to me. The truth has nothing to fear from honest inquiry.
-    
+
     My other reason for sharing this is that I want to express my hopes and concerns regarding my change of belief. I don't want to threaten anyone else's faith, although by posting this, I may have unintentionally done so already. If someone questions my thinking, I can explain myself, and I am capable of defending my views if necessary, but I don't want to be seen as a threat. I support anyone's faith if it helps them to be happy and kind, and I also want to express my sympathy for those who doubt. I know there are many Mormons who have sincere doubts and don't feel comfortable talking to most people about them, and my heart goes out to the doubters. It's not an easy cross to bear, and the church community can be an unforgiving environment for those with uncomfortable questions. It's good to doubt, and it's good to have faith, and while I don't think much of either faith or doubt founded on a denial of the truth, I support anyone's honest faith and honest doubts. Reasonable people sometimes look at the same reality and draw different conclusions.
-    
+
     I have given years of my life to the LDS church. I like to think I have done some good through my activity and service, and I will continue to support the good the church does. Just as I have criticized its abuses as a believer, I will continue to be critical of any damage my church does. This doesn't make me an "angry anti-mormon who just can't leave the church alone." I'm just someone who does not see his church and the culture it creates as infallible or above reproach, and who does not want to be complicit in the harm it sometimes causes. I hope to maintain my friendships. I still want to belong. I still love my family, friends, and community. I respect the sincere beliefs I disagree with, and that same courtesy is all I ask for. I don't insist on being understood, but it is always nice to feel that way.
-    
+
     Finally, I know this may be sad and shocking, especially for the most devout of my LDS family and friends. The emphasis on families eternally sealed together by the priesthood makes it especially hard when a family member no longer believes. If it helps, you can comfort yourselves with the thought that the lower kingdom you will see me on track for is much better than the fate Catholics, Muslims, Baptists, etc., and maybe even Buddhists expect for all of us in the next life. Resurrection as an angel of telestial glory still beats reincarnation as a sea cucumber, after all. What's more, you can hope that a kind, loving God will allow you to visit me, and I may even be fortunate enough to be your servant. Let's not forget, though, that this life is different. So much of what we enjoy is transient - good food, beautiful views, enjoyable entertainment, fun times with friends, and so on. Each of those things builds us up and often has a lasting effect on us, even if we cannot take those things themselves with us. If according to your beliefs, I become just another transient part of your life, instead of a part of the celestial eternal family, so be it. I hope you can still allow me to be a meaningful part of your life, even if I am a spiritual alien.
-    
+
     I've had the benefit of a long, gradual process, and it has still been rough, so you have my sympathies if this feels sudden. It must be hard to see someone reject something that means so much to you, and that seems so obviously true. It hasn't been completely easy for me either. Some people speak of their path to disbelief as a triumph or as "seeing the light," but I think there are better ways to describe it. Like Truman leaving his arena, Rapunzel leaving her tower, or Dorothy and friends traveling to meet the great Wizard of Oz, this has been a journey away from comfort and certainty and into the great unknown.
-    
+
     I hope this doesn't ruin our relationship. If it's best to just disagree without discussion, I understand, but for those of you who want to understand my thinking and how I have come to believe as I do, I have links attached below. Please know that I am happy to discuss ideas and beliefs with anyone. I didn't abandon one set of dogmata just to embrace another, so I'm still searching with an open mind. I expect I always will.
-    
+
     Notes on why I no longer believe: https://docs.google.com/document/d/12nMQJME0ml6C3fT6gs5EYC_HGtIr0PHmrKZbR-_YKWU/edit?usp=sharing
-    
+
     Brief outline of my lifelong faith journey and how my beliefs have changed: https://docs.google.com/document/d/1m5Pm4MnoBPGYLARF-_Z-dahJXF6d2728FItreNVABTk/edit?usp=sharing
-    
+
 
 
 * [Thinkers]()
@@ -2488,17 +2488,17 @@ Zwingli
         * https://donaldrobertson.name/2018/10/29/roundup-women-in-ancient-stoicism/
         * https://en.wikipedia.org/wiki/List_of_Stoic_philosophers
         * https://www.reddit.com/r/Stoicism/comments/4tak0a/female_stoics/
-    
+
     - Deutsche
     - Lists
-    
-    
+
+
 * Religion Books
-    
+
     David O. McKay and the Rise of Modern Mormonism
-    
+
     Thunder from the Right
-    
+
     Mormonism and White Supremacy
         * [Black Mass: How Religion Led The World Into Crisis (see references)](https://b-ok.cc/book/1128110/b34d7b)
         * [Asimov's Guide to the Bible: Two Volumes in One, the Old and New Testaments](https://b-ok.cc/book/1121632/602fe6)
@@ -2508,258 +2508,258 @@ Zwingli
         * [Adam Silverstein](https://libgen.is/search.php?req=adam+silverstein&open=0&res=25&view=simple&phrase=1&column=def)
         * [adler-arthur-im-glauben-der-ahnen-1938-64-s-scan-fraktur.pdf](https://vk.com/doc349546347_477745650?hash=85337d9247c0948a1b&dl=5b28d1b3259a2ab949)
         * [Auf den Spuren Buddhas](https://vk.com/doc44301783_517373114?hash=2c1db653b2bb75f2a6&dl=733a6b898369ea2ff0)
-    
+
     Augustin (Flasch)
         * [baumgaertner-wilhelm-ist-christentum-judentum-eine-kritische-untersuchung-1935-63-s-scan-text-fra.pdf](https://vk.com/doc349546347_477745770?hash=91b0bdd5fc20ab4478&dl=293f01bee67b23315d)
         * [bednarski-gerhard-durchbruch-zum-deutschen-glauben-1941-36-s-scan-fraktur.pdf](https://vk.com/doc349546347_477745791?hash=1a7fc0c41f55f5edc5&dl=478ea36bd27a3a8bfb)
         * [Buddhismus](https://b-ok.cc/s/?q=buddhismus&order=year)
-    
+
     Buddhismus und Evolution
         * [Christentum](https://libgen.is/search.php?req=christentum&open=0&res=25&view=simple&phrase=1&column=def)
-    
+
     Das Elend der Theologie (Hans Albert)
-    
+
     Das Religionen-Buch
         * [dawkins](https://libgen.is/search.php?&req=dawkins&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=12)
         * [Die artikelen des geloofs](https://vk.com/doc306961597_438466772?hash=9bc7d48719d08a3859&dl=8d2b32d5f4970860cd)
-    
+
     Die fünf Weltreligionen
         * [Die Identität der buddhistischen Schulen](https://vk.com/doc488576652_506838946?hash=a8eb8d65ddbb7daa44&dl=9fc5b8874e9b348b4a)
-    
+
     Die Weltreligionen
         * [Die_Wirtschaftsethik_der_Weltreligionen_Smart_Reading.pdf](https://vk.com/doc5961481_459269216?hash=c36b9f4c810267e696&dl=218da025008c7c97a8)
-    
+
     Götter global
-    
+
     La mente de Dios (Davies)
         * [La teologia del XX secolo. Un bilancio. Prospettive pratiche](http://library.lol/main/FD30F44780E2CD6DA0F4E58850EFB360)
         * [La teologia del XX secolo. Un bilancio. Prospettive sistematiche](http://library.lol/main/A07A46465A09D007F2F0EE05489D68A0)
         * [La teologia del XX secolo. Un bilancio. Prospettive storiche](http://library.lol/main/DFB1E850280AE541D330EBC17EC304AC)
         * [mormonism](https://libgen.is/search.php?req=mormonism&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
-    
+
     paul tillich
-    
+
     Pour en finir avec Dieu
-    
+
     reinhold niebuhr
-    
+
     Religion für Atheisten
         * [Religion needs new books. What would be in your canon?](https://www.facebook.com/stapleyarts/posts/10216538851002658)
         * [Sem_Kharris_Konets_very_Persone.pdf](https://vk.com/doc30601958_521954788?hash=cf6a86365d7045cea3&dl=b8c40b196df15a0d48)
         * [Something That Matters: A Theology for Critical Believers](http://library.lol/main/A33EA2A1AC46359C4CDC17A81EF77A8A)
         * [Tesauro y dissionario de objetos asociados a ritos, cultos y creencias](https://vk.com/doc3125830_512358057?hash=0778d4e412b748a3a6&dl=2b964c910427596dcd)
-    
+
     The Politically Correct Guide to the Bible
         * [The Religious Teachings of Christ (Adam)](https://vk.com/doc525831385_509720511?hash=f0d9f51fb7cbde903a&dl=314274c6e3383d2465)
         * [Weltreligionen](https://libgen.is/search.php?&req=weltreligionen&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
         * [will bagley](https://libgen.is/search.php?req=will+bagley&open=0&res=25&view=simple&phrase=1&column=def)
-    
+
     Wissensbibliothek der Weltreligionen
         * [Кантата РИКВЕДА](https://archive.org/details/rykvedy)
         * [Radical Sacrifice](https://b-ok.cc/book/3679960/b98d37)
-    
+
 * Notes
-    
+
     What are the philosophical implications of the existence of a devil, as opposed to bad thoughts independent of demonic influence?
-    
+
     - Ясность: что такая? Как мне добиться ее в изучении и в обучении?
     - coupling of fantasy, distraction and memory
     - the present is imposed unconditionally absolutely: life, the present, is unconditionally given grace
     - givenness
     - quotes: Guy de Maupassant
     - Tolstoï: Tout raisonnement sur l'amour le detruit
-    
+
     What are the merits and shortcomings of jealousy, i.e. what purposes doe it serve and to what extent should it be avoided?
-    
+
     Thinker's: Frank (Dostoevsky scholar), Levinas, Timothy Ware (Orthodox), Rabbi Sacks ("maximum of means, minimum of meaning")
-    
+
     >Every “why” question assumes an underlying natural law (cause and effect relationship) or principle
-    
+
     Erforschen: griechisches vs hebräisches Denken
-    
+
     Contradictions imply falsehood; paradoxes imply the need for understanding at a deeper level; unanswered questions imply the need to continue searching and be patient.
-    
+
     To justify its pursuit, knowledge should be rewarding, useful, worthwhile, helpful, applicable, edifying, timely, balanced, and bring the greatest total happiness. Learning should be motivated by a love of truth and righteousness and a desire to elevate others along with oneself.
-    
+
     Fascinating truths:
-    
+
     - Everything you see, hear, feel, or otherwise perceive, and everything you think, say, and do becomes a part of you, depending on how you respond to it. Therein lies individuality.
     - Everything you do in any sense of the word changes reality (i.e. truth), in some way. Actions literally do change the world - for better, for worse, or further along the trajectory it is already on.
-    
+
     Despite the perpetual passing of experience, it is meaningful because of memory, development, eternal reward, and immediate happiness. Righteousness is a pattern of action that provides happiness both now and later. Where true happiness is concerned, there is not a tradeoff between this life and the next. Happiness is an upward spiral. Pleasure is an up-and-back-down climb.
-    
+
     Analysis:
-    
+
     0) Question
-    
+
     Context
-    
+
     Premises (assumptions)
-    
+
     What I already know
-    
+
     What words in question may mean
-    
+
     What the possibilities are
-    
+
     Research
-    
+
     Draw conclusions
-    
+
     Define what is still unclear
-    
+
     It is interesting that we remember a very small portion of all we experience. Everything we remember is indicative of a lot of time and energy expended, or a deep impression on one’s mind.
-    
+
     Time is the impression on the mind produced by change. It seems to be completely intrinsically and instinctively understood, or axiomatic.
-    
+
     In trying to answer a question, it is helpful to write a list of possible answers for greater clarity of understanding. Then I can figure out which presuppositions lead to which answers, defining the parameters of the question and of each answer.
-    
+
     Is it possible to have a comprehensive, internally-consistent, and satisfying worldview? Is it better to choose ignorance and not worry about difficult questions? Is it even possible to understand life and the world at all? How can I know myself? Does faith require disregarding inconsistencies? Is it even possible to know anything at all?
-    
+
     I had assumed earlier that increasing knowledge increases understanding. Was I completely wrong?
-    
+
     Compartmentalization in one’s learning lifestyle and approach
-    
+
     Interesting how time, or t least my persection of it, behaves non-arithmetically. When I am busy, I can still find time to do things that matter, and when I am less busy, I often do even less. Of course, this is probably due to a number of illusions and biases, but it is an interesting phenomenon that tells me a lot about myself.
-    
+
     Another interesting paradox regarding performance, achievance and life in general is that difficult times don’t inevitably decrease learning, achievement, and performance. Rather, they provide a kind of drive that is often lacking when all is well. The general principle is that anything, even shocks, crises, and tragedies can be harnessed for good.
-    
+
     Thought game: Take a premise or conclusion, and lead it through to its logical conclusion, po-Dostoevskomu.
-    
+
     - Points of view typical of or inherent in different fields, occupations, etc., and how to achieve a balanced, well-rounded view
-    
+
     Why is the “Rule of 3” so effective? (B2/17)
-    
+
     Is it possible for 2 wrongs to make a right (see Roe v. Wade)? (B8)
-    
+
     What is truly universal? What are the common threads of reality that transcend all cultural and individual differences? (B16)
-    
+
     How can one differentiate between knowledge gained by the senses and dreams, hallucinations, and other intramental phenomena? (B20)
-    
+
     We often speak of events and circumstances as “meant to be”. Is there an equally good “alternate reality”? (B28)
-    
+
     Is it better to evaluate from the top down, or the bottom up? (B29)
-    
+
     Which parts of the Theory of the Forms are true, and how do they relate to what I already know? (B31)
-    
+
     Why is the most glorious and intelligent of all creatures also the least self-sufficient? Is that ironic? (B35)
-    
+
     Warum ist die herrlichste intelligenteste Schöpfung Gottes auch gleichzeitig die am
-    
+
     wenigsten selbstst”andige?
-    
+
     - Demut, Verst”andnis seiner Abh”amgigkeit von Gott - Mosiah 2
-    
+
     Why is a thing considered beautiful? What is beauty? (B44)
-    
+
     How many different categories of feeling exist? (B59)
-    
+
     pleasant and good, pleasant and evil, unpleasant and good, unpleasant and evil, neutral(?)
-    
+
     Can one have multiple motivations (primary, secondary, etc.) for the same action? (B61)
-    
+
     How can I avoid the pitfall of evaluating others solely on the basis of their quantifiable accomplishments? (B67)
-    
+
     Which qualities, good and bad, are predominantly male, predominantly female, and neutral? (LG1)
-    
+
     What is the connection between spirit and body? (LG3)
-    
+
     How can I learn to think more clearly, and analyze my own thoughts and assumptions, in order to avoid developing incorrect conclusions? (LG11)
-    
+
     What is the complete list of factors that shape and individual? (LG22) -
-    
+
     What influences the profundity of a given action’s effect? (DG20)
-    
+
     What are the criteria for the goodness or badness of an action? (DG21)
-    
+
     What is the best way to view achievement, relative, absolute, or both? (P1)
-    
+
     What are the proper attitudes toward past, present, and future? (P13)
-    
+
     How can all branches of knowledge and study be analyzed and organized in relation to one another? (P15)
-    
+
     Can one accurately distinguish between mental, spiritual, and emotional? Does “spiritual” simply comprise the other two?
-    
+
     How long does it take in a new environment or situation for one’s previously developed character and habits to come to the surface? (P25)
-    
+
     Are the feelings we experience unique, or are they like combinations of notes from a keyboard of universal possibilities? (P29)
-    
+
     What is the difference between feelings and attitudes? (P30)
-    
+
     Is there a fundamental set of ideas from which all ideas are derived, analogous to the letters and sounds from which words are derived.
-    
+
     What is the relationship between intelligence and happiness?
-    
+
     Sounds have their own intrinsic beauty. What makes them so?
-    
+
     How do positive and negative feedback cycles develop?
-    
+
     Is memory a function of spirit or body, or both?
-    
+
     How do you find a balance between feeling bad about mistakes and shortcomings and appreciating yourself for the good you do? (S9)
-    
+
     Is it possible to quantify happiness?
-    
+
     What are the proper attitudes toward good and bad and the past, present, and future (in 6 combinations)? (S10)
-    
+
     What are the meaning, benefit, and shortcomings of jealousy? Why do we experience it? What purpose does it serve?
-    
+
     What is the meaning of the feeling that “something is missing”? To what extent is it undesirable, and to what extent is it a useful catalyst?
-    
+
     Given its possibilty and rewarding nature, why are there not more polymaths, or even well-rounded, well-informed people with reasonable views?
-    
+
     How much does humanity currently know about what there is to know?
-    
+
     What are the causes of bad, evil, conflict, etc.? I.e., why do some choose evil over good?
-    
+
     What is the mechanism of response to different kinds of stimulation/reward (freedom of choice)?
-    
+
     Was glaubte Bertrand Russell?
-    
+
     What is truly universal? What are the common threads of reality that transcend all cultural and individual differences?
-    
+
     Even those who maintain the unreliability of the senses use their senses in coming to that conclusion. But how can one be sure to differentiate between information gained through the senses and dreams, hallucinations, and other intramental phenomena?
-    
+
     We often talk about events or circumstances as “meant to be”. Are there equally good potential (hypothetical past or could-have-been) alternate realities?
-    
+
     Is it better (more correct) to evaluate from the top down, or from the bottom (0 if a score) up? How is this related to the concept of innocence-until-proven-guilty?
-    
+
     ¿Qué significa “derecho” natural?
-    
+
     Perhaps we have traded cultural diversity for a more varied personal life—certainly for a more varied and fast-paced technological life.
-    
+
     Was ist gut?
-    
+
     Ethics and philosophy behind military interventions and their justification
-    
+
     Ethics of neutrality (à la Suisse)
-    
+
     Most children have trouble accepting perceived injustice, but only when it disfavors them. Unfairness in their favor is typically much easier to swallow. Maybe the most difficult part of coming of age is accepting and coming to terms with the realisation that life is profoundly and cruelly unfair, and almost exclusively in my favor.
-    
+
     I don't remember my first experience with pain, but I don't remember a time when I didn't understand on an experiential level what pain is and what kinds of things generally cause it. Neither can I remember a time when I didn't buy into the idea of justice, a concept that seems to be deeply encoded in human nature and reinforced by the culture I come from. I don't know why, at twenty-three years of age, I am so jarred by an understanding of my own good fortune. Psychology is complex, and it would be difficult for an impartial observer to untangle the thoughts and their connected emotions that have occupied me lately, and it seems hopeless for me, their bearer, to make any sense out of them. As far as I can tell, I am disturbed primarily by an understanding of the suffering that certain individuals and groups have undergone throughout history, encompassing sensations such as pain and panic. Why am I living in a prosperous nation enjoying internal peace and relative stability instead of in the labs of Shiro Ishii or Josef Mengele? Why am I racked by difficult philosophical problems or crises of faith and not torn apart on a physical rack or endangered by a political crisis? Why do I Why am I surrounded by beauty and prosperity instead of war and famine?
-    
+
     I can trace the chain of causes from prehistoric times to the present and understand intellectually what forces, decisions, and historical accidents have led to my existence here and now. I can account, albeit imperfectly, for most events I read about. The dilemma seems to be primarily emotional, and of the worst kind. Emotional quasi-reasoning brings me around in circles of horror, empathy, hypothetical speculations, guilt, disillusionment, and bewilderment. What right do I have to my sheltered and blissful existence while others have undergone excruciating torment I can not imagine? What kind of a world do I live in? Am I deluding myself in believing that the world is good, or that God is good? How was I so undisturbed before? How can there be so much evil in the world and yet so much good, and how can a single mind possibly fathom both? What would I do in the place of someone less fortunate?
-    
+
     The ethical questions are similar. How should I think about past events that cannot be helped? What can I do about things going on today? Any attempt to assuage my feelings analogous to "survivor's guilt" seems somehow shallow and disingenuous, like so much else that I hear from my fellow Americans. If pain is good for the soul, why do some torture victims go insane? Why can I not stick a pin in my finger, and if I did, what would I gain from it? What qualifies sheltered people to make pronouncements about suffering at all? So much of everyday and pulpit theodicy feels fundamentally hypocritical to me.
-    
+
     This puzzle has no resolution. In a sense, my own luck is my burden to carry because it is a heavy responsibility and a constant reminder of the unjust, perverse world we live in, but even this sentiment sounds like a poor attempt to portray myself as carrying a burden. A burden it is, in its own sort of way, but a comparison to real suffering and horror is absurd. This is not an easy feeling to explain, with no simple title or research that I am familiar with. I do not know of anyone who has felt so acutely about his or her own luck, and I don't know how common it is. Maybe the entire feeling is nonsense, but I believe somehow that it is related to some essential concepts and questions in life, and it may hold some value for me as an individual. Still, the thought of deriving some kind of personal character benefit from another's suffering starts the cycle up again, and I am back where I began.
-    
+
     To what extent are hypotheticals useful and relevant?
-    
+
     Hierarchy of thought or ecosystem of thought
-    
+
     Freier Wille und Selbstdisziplin
-    
+
     Was ist freier Wille? Was schränkt ihn ein? Wie wird er von verschiedenen Faktoren beeinträchtigt?
-    
+
     Given two arbitrary objects or ideas, what connects them; what do they have in common?
-    
+
     Philosophie und Schuldgefühle
-    
+
     Where are the folk/lay/everyday philosophers? What can we, especially I, learn from them?
-    
+
     Why do some people not ask many questions?
-    
+
     - Was ist der Mensch?
     - Was braucht der Mensch?
     - Was brauchen einzelne Menschen verschieden?
@@ -2768,23 +2768,23 @@ Zwingli
     - Welchen Einfluss übt das psychologische Zentrum eines Menschen?
     - Welche psychologische, antheopologische, usw. Theorien würden mir helfen, dies besser zu verstehen?r
     - Welche verschiedenen Schemen gibt es, Menschen nach Typ aufzuteilen?
-    
+
     Kann theoretisch jeder wirtschaftswissenschaftliche Theorie lernen? Wie viele könnten das? Warum bekommen ncht alle gute Noten - welche Faktoren spielen hier eine Rolle?
-    
+
     heutige Relevanz der Metaphysik und Verbindung mit der Wissenschaft
         * [Наша сексуальная этика - Рассел Бертран :: Режим чтения](https://royallib.com/read/rassel_bertran/nasha_seksualnaya_etika.html#0)
         * [Атеизм и сексуальная этика: iskander_bel](https://iskander-bel.livejournal.com/384928.html)
         * [Сексуальная этика, суть и задачи | Информационный Вкус](http://moral.infotaste.com/seksualnaya-etika-sut-i-zadachi/)
         * [Сексуальная этика / Философский словарь](http://www.harc.ru/slovar/1931.html)
-    
+
     Where is the line between what is warranted and what is extravagant?
-    
+
     It's not my style to shy away from controversy on Facebook, and a lot of the time, I'm stating controversial opinions. This post is about honest questions, rather than opinions, but on a really touchy subject, so skip this if you're in cat video mode.
-    
+
     I like to use Facebook to crowdsource philosophy, and that's what I'm trying to do here. One of the most divisive issues that I don't completely understand is abortion, with its arguments for and against. I can understand people not feeling comfortable talking about these issues in such a public forum, but these things are important, and they need to be discussed. Here's my understanding and my critique of some of the arguments I hear, and I want to be told what it is I'm overlooking.
-    
+
     One the one side, I hear abortion equated with murder without qualification, while another extreme calls any opposition to abortion rights totalitarian control of a woman's body.
-    
+
     - Which ethical system? --> hypocrisy
     - Appeal to potential
     - Woman's right to do what she wants with her own body; liver argument
@@ -2793,273 +2793,273 @@ Zwingli
     - Other animals
     - Problems with definition as murder, LDS position
     - Thought experiment with frozen embryos
-    
+
     Please comment in words, not links. This should be something that we are able to talk about in our own words (or quotes), without outsourcing the burden of debate. Hyperlink wars get spammy fast. My post, my rules.
-    
+
     Kinderzahl und Kapazität der Erde
-    
+
     Wie definiert man eine Eigenschaft? Ab welchem Punkt besitzt man eine Eigenschaft, bzw. wird durch sie geprägt?
-    
+
     basis for classifying feelings as "vulgar" and "refined"
-    
+
     Se...alethik
-    
+
     Philisophie der Ursache und Wirkung
-    
+
     - > mit Anwendung in zur Frage, weshalb manche Leute so furchtbare Eltern sind.
         * [Философия](http://nalanda.ru/east-philos.html)
-    
+
     ExistentialComics (FB/site)
-    
+
     Welche Beziehung besteht zwischen der Mathematik und dem Kosmos?
-    
+
     - -> Philosophie der Mathematik
-    
+
     Woher weiß ich das, was ich weiß? Wie viel von dem, was ich zu wissen glaube, weiß ich tatsächlich? Wer und was beherrscht die Information? Wem vertraue ich? Wie kann ich mich gegen Täuschung und Manipulation wehren? Welche Risiken begleiten die Entscheidung, einem gewissen Menschen bzw. einer Gruppe von Menschen zu vertrauen?
-    
+
     как мне быть с теми, кто не ценит философию?
-    
+
     Book Idea: Humans to Organ Stops: Ways We Are Manipulated
-    
+
     - -> Analogie einer Skulptur: der Künstler fängt an mit einem Steinblock und entfernt alles, was sich nicht gehört bis am Ende nur die Skulptur bleibt, die schon immer da war, aber unsichtbar wegen überflüssiges und unerwünschtes.
-    
+
     Richtung eher als aktuelle Lage. Wille eher als Vergangenheit.
-    
+
     blue-collar philosophers
         * http://nalanda.ru/east-philos.html
-    
+
     Philosophie und Schuldgefühle
         * https://m.vk.com/wall-36047336_65651?from=feed_search/0/30+secondes+philosophies+epub
-    
+
     Gibt es eine Obergrenze des möglichen Schmerzens?
-    
+
     paradoxe Dieu-pierre (en créer un d'aussi grande qu' il ne puisse le lever)
-    
+
     Philosophical problem of specialization
-    
+
     - -> possibility of seeing the world completely (well-roundedly) with a specialization as a starting point, from which knowledge and experience radiate outward
-    
+
     Philsophie über verschiedene Einstellungen zur Philsophie
-    
+
     was unterliegt meine Emotionelle reaktion zu den Erfahrungen und Wertesytemen anderer? (langer, langweiliger Arbeitstag, Geringschätzung der Bildung und Kultur, usw.). Wo liegt die Grenze zwischen moralischen (--> gerechtfertigt traurigen) und amoralischen ("ihr Leben, ihre Entscheidungen, kein Problem") Entscheidungen/Wertesystemen?
-    
+
     filisofía y los diablos de nuestra natura (Antiguo Testamento, por ejemplo)
-    
+
     Welche treibende Kräfte stecken hinter der Philosophie?
-    
+
     philosophy and the "common man"
-    
+
     - -> elitism and social class
-    
+
     Jusqu'à quel point sont le stoïcisme et l'épicurisme sont-ils compatibles?
-    
+
     Philosophie der Mathematik
-    
+
     nature vs nurture in aesthetics
-    
+
     Analyse der Weltanschauungen
-    
+
     philosophy of science
-    
+
     Giordano Bruno
         * [Filo RU](https://vk.com/audio?performer=1&q=%D0%92%D0%BE%D0%BB%D0%BE%D0%B3%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9%20%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%BB%D1%83%D0%B1)
         * [Learning from Six Philosophers: Descartes, Spinoza, Leibniz, Locke, Berkeley, Hume](https://libgen.is/book/index.php?md5=7D79EF4E8130D412BC5E982CF4B6E622)
-    
+
     Wikizitat Kontingenz
-    
+
     Kropotkin Bibliography
         * [The role of African languages in African philosophy | Cairn.info](https://www.cairn.info/revue-rue-descartes-2002-2-page-129.htm#)
         * [Spinoza YT](https://www.youtube.com/results?search_query=spinoza)
-    
+
     Bruce Weinberg
-    
+
     Jared Diamond
-    
+
     John Brockman
-    
+
     Charles van Doren
-    
+
     Barbara Oakley
-    
+
     Gerd Gigerenzer
-    
+
     Elon Musk
-    
+
     Daniel Kahneman
-    
+
     Dan Ariely
-    
+
     Amos Tversky
-    
+
     Stephen Levitt
-    
+
     Steven Landsberg
-    
+
     Noam Chomsky
-    
+
     Amarya Sen
-    
+
     Will & Ariel Durant
-    
+
     John Gray
         * [Ben_Goertzel](https://en.wikipedia.org/wiki/Ben_Goertzel)
-    
+
     mögliche (Polymathe):
-    
+
     Murray Gell-Mann
-    
+
     Tom Lehrer
-    
+
     Clive James
-    
+
     Brian May
-    
+
     Dean Kamen
         * http://timeblimp.com/?page_id=203
         * https://www.quora.com/Genius-and-Geniuses-Who-among-those-alive-today-would-you-consider-to-be-a-Renaissance-Man-polymath
         * http://boards.straightdope.com/sdmb/showthread.php?t=550613
-    
+
     James Franco
         * https://www.1843magazine.com/content/edward-carr/last-days-polymath
         * https://aeon.co/essays/we-live-in-a-one-track-world-but-anyone-can-become-a-polymath
         * https://www.academia.edu/Documents/in/Polymathy
-    
+
     Shoshana ZUBOFF
-    
+
     Bienvenue dans le capitalisme de surveillance !
-    
+
     Ivan KRASTEV
-    
+
     La démocratie des places
-    
+
     Eva ILLOUZ
-    
+
     Les leçons de #MeToo
-    
+
     Slavoj ŽIŽEK
-    
+
     Quand nos cerveaux seront connectés
-    
+
     Kwame A. APPIAH
-    
+
     Ose parler en ton nom !
-    
+
     Les paradoxes de l’identité
-    
+
     Jonathan FRANZEN
-    
+
     Climat : arrêtons de faire semblant !
-    
+
     Steven PINKER
-    
+
     Le progrès ou les raisons d’y croire
-    
+
     Barbara STIEGLER
-    
+
     Les Gilets jaunes et le mythe de l’adaptation
-    
+
     Léonora MIANO
-    
+
     Aimez-vous la France ?
-    
+
     Teng BIAO
-    
+
     La Chine, Tian’anmen et le « miracle » économique
-    
+
     Walter Wink and Redemptive Violence
-    
+
     Isaak Levitan
-    
+
     Marilynne Robinson - the givenness of things
-    
+
     Noam Chomsky, Bill McKibben, Neil DeGrasse Tyson vs Freeman Dyson, William Hopper, Murry Sulby
-    
+
     жалобы и эгоизм
-    
+
     опасность быть слишком дальновидным
         * [NIHILISM, MINARCHISM, PYRRHONISM META-PHILOSOPHY - Living Radical Scepticism](https://www.academia.edu/keypass/RHdEcGxTcDBIZnh0N2NEVkxQVmdUd2VjQkgxV2FuUkpmMVlWT21RMDdnWT0tLUFSZFgvS3FmYm1aMmZTTFFyYWFvYXc9PQ==--2e80b440e0375e7d2775cb9336c1b34d8b47097d/t/drT8b-NQRbUdW-bfiBHX/resource/work/36348033/NIHILISM_MINARCHISM_PYRRHONISM_META-PHILOSOPHY_-_Living_Radical_Scepticism?email_work_card=title)
-    
+
     qu'est-ce qui nous fait nous-mêmes? comment l'identité persiste à travers les changements personnels?
-    
+
     pourquoi on ne change guère pas au point d'être méconnaissable?
-    
+
     quelles sont les limites du changement personnel?
-    
+
     Wie definiert man Prinzipien?
-    
+
     значение, цель, предназначение жизни?
-    
+
     why ascribe ideas to a certain thinker? is intellectual property an oxymoron?
-    
+
     philosophie de la souffrance
-    
+
     Как мне быть счастливым в то время, как страдают другие?
-    
+
     When and where are ad hominem kinds of arguments appropriate (i.e. education and health policy where lawmakers won't subject themselves to their own policies)?
-    
+
     Grosse Frage: Zweck des Lebens
-    
+
     in Bezug auf: Fortschritt, Gerechtigkeit, Rechtschaffenheit, Motivation
-    
+
     Commitment to empirically verifiable truth - ideas must hold up to reality
-    
+
     implications of inequality of knowledge, mind, education, talent
-    
+
     How much pain and suffering is hypothetically possible?
-    
+
     How does one compare different physical and psychological pains?
-    
+
     Are hypothetical questions sometimes useless or harmful?
-    
+
     What is pain?
-    
+
     hypothetische Philosophie
-    
+
     Wenn traurige Wahrheiten gute Nebenwirkungen haben: positionelle Externalitäten (z.B.: nicht viele wollen nach Europa, viel reisen, Topintellektuelle werden, viele Framdsprachen beherrschen / Militärpresenz in Deutschland)
-    
+
     differences between WWII, Korea and everything else
-    
+
     Dichotomie zwischen Tat und Gedanken
-    
+
     ethics of Swiss neutrality
-    
+
     ethics of military intervention
-    
+
     Wissen und Verständnis, Endziel und Instrument
-    
+
     What do different religions and worldviews posit about personal change and ability to change, or the meaning of the past and one's relationship to it?
-    
+
     sociology of scientific research
-    
+
     Wofür lohnt es sich, zu sterben?
-    
+
     Wie komme ich mit der Ungleichheit zurecht (z.B. in Bildung), oder sollte ich das überhaupt?
-    
+
     Qu'est-ce que l'essentiel dans la vie?
-    
+
     Philosophie der Kultur
-    
+
     Wie kann ich gegen sexuelle Sklaverei kämpfen?
-    
+
     justice: opportunity and consequence
-    
+
     fairness: results
-    
+
     Was sollten alle wissen, können, machen und sein? Auf welcher moralischen Grundlage?
-    
+
     Ethik der Geburtskontrolle
-    
+
     Infinitesimal ethics: how to act when your influence is small
         * [Комментарии к «Государю» Макиавелли](https://b-ok.cc/book/2947945/111708)
-    
+
     Pascal Engel
-    
+
     Pascal Engel - Y'a-t-il une éthique intellectuelle ?
-    
+
 * Ethics
-    
+
     what are my ethical obligations toward the world?
-        * https://www.nature.com/scitable/knowledge/library/ethics-and-global-climate-change-84226631/ 
+        * https://www.nature.com/scitable/knowledge/library/ethics-and-global-climate-change-84226631/
         * [Peter Singer: Suffering in Humans, Animals, and AI | Lex Fridman Podcast #107 - YouTube](https://www.youtube.com/watch?v=llh-2pqSGrs)
         * [#107 - Peter Singer: Suffering in Humans, Animals, and AI | MIT | Artificial Intelligence Podcast](https://lexfridman.com/peter-singer/)
         * [The world's most famous utilitarian on whether all carnivorous animals should be killed - Vox](https://www.vox.com/2015/6/18/8802755/peter-singer)
@@ -3073,7 +3073,7 @@ Zwingli
         * [The Starfish Principle - Every Little Bit Helps - Kristian Glass - Do I Smell Burning?](https://blog.doismellburning.co.uk/the-starfish-principle-every-little-bit-helps/)
         * [(3) Feminist Mormon Housewives Society | TW anxiety, climate change | Facebook](https://www.facebook.com/groups/fmhsociety/posts/6141405705933307)
         * [The Psychology Of Emotions, Feelings and Thoughts - The Complete Artwork Collection of Mark Xiornik Rozen Pettinelli - OpenStax CNX](https://cnx.org/contents/LTjQLL1F@40.7:vsCCnNdd@150/The-Psychology-Of-Emotions-Feelings-and-Thoughts)
-    
+
     - [** It's impossible to lead a totally ethical life—but it's fun to try — Quartz](https://qz.com/1327804/its-impossible-to-lead-a-totally-ethical-life-but-its-fun-to-try/)
         * [There's No Right Way To Do The Wrong Thing by Christopher Gilbert | Goodreads](https://www.goodreads.com/book/show/39925380-there-s-no-right-way-to-do-the-wrong-thing)
         * [best proposed alternatives to capitalism - Cerca con Google](https://www.google.com/search?channel=fs&client=ubuntu&q=best+proposed+alternatives+to+capitalism)
@@ -3081,7 +3081,7 @@ Zwingli
         * [are most people unethical? - Cerca con Google](https://www.google.com/search?channel=fs&client=ubuntu&q=are+most+people+unethical%3F)
         * [ethical people unaware of the consequences of their behavior - Cerca con Google](https://www.google.com/search?q=ethical+people+unaware+of+the+consequences+of+their+behavior&client=ubuntu&hs=i6Z&channel=fs&sxsrf=AOaemvILetrUnmbJI1K1cmUnuSOiYZ6TdA%3A1632750608661&ei=EMxRYbThJ9CalwS2sJ7ACw&oq=ethical+people+unaware+of+the+consequences+of+their+behavior&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsAM6BAgjECc6BggjECcQEzoFCC4QgAQ6BQgAEIAEOgsILhCABBDHARCjAjoECAAQQzoLCC4QgAQQxwEQ0QM6DQguEIAEEMcBEKMCEAo6BwguEEMQkwI6BwgjEOoCECc6BAguEEM6CgguEMcBENEDEEM6CwguEIAEEMcBEK8BOggIABCABBDJAzoHCAAQgAQQCjoFCAAQywE6BggAEBYQHjoECAAQEzoGCAAQChATOggIABAWEB4QE0oECEEYAFD6xAFYi6YCYMSoAmgFcAJ4AIABpAKIAfw7kgEHMzAuMjkuNZgBAKABAbABCsgBBsABAQ&sclient=gws-wiz&ved=0ahUKEwi0qaSApp_zAhVQzYUKHTaYB7gQ4dUDCA4&uact=5)
         * [The Star Thrower - Wikipedia](https://en.wikipedia.org/wiki/The_Star_Thrower)
-    
+
     - [** John Gray | The New York Review of Books](https://nybooks.com/contributors/john-gray/)
         * [Subscriptions](https://subscribe.nybooks.info/ecom/nyb/app/live/subscriptions?org=NYB&publ=NY&key_code=EPGXM01&type=S&current_page=https://nybooks.com/articles/1986/10/09/why-read-the-classics/)
         * [John Gray: the nationalist philosopher stoking ‘culture wars’ fires | openDemocracy](https://www.opendemocracy.net/en/can-europe-make-it/john-gray-the-nationalist-philosophe-stoking-culture-wars-fires/)
@@ -3151,7 +3151,7 @@ Zwingli
         * [20 incredible charities that give 99% of the money they get to the actual cause - MarketWatch](https://www.marketwatch.com/story/20-incredible-charities-that-give-99-of-the-money-they-get-to-the-actual-cause-2017-12-28)
         * [Library Genesis: Jodey Castricano, Rasmus R. Simonsen (eds.) - Critical Perspectives on Veganism](http://libgen.rs/book/index.php?md5=95522F2AD4BE5CAEA2B3B0F7FEA211E7)
         * [Russell Brand & Frankie Boyle - Is It Possible To Live A Moral Life? - YouTube](https://www.youtube.com/watch?v=LFpKOw1XzG0)
-    
+
     - Ethics
 * Reading (1)
         * [(?) https://www.researchgate.net/publication/265857037_Technological_and_ethical_antecedents_of_e-book_piracy_and_price_acceptance_Evidence_from_the_Spanish_case](https://www.researchgate.net/publication/265857037_Technological_and_ethical_antecedents_of_e-book_piracy_and_price_acceptance_Evidence_from_the_Spanish_case)
@@ -3188,69 +3188,69 @@ Zwingli
         * [Kant](https://vk.com/wall-169634550_4744)
         * https://thegodlesstheist.com/about/
         * [Beating hearts: abortion and animal rights](https://libgen.rs/book/index.php?md5=3595E81A202F542435B4F5981EB9758B)
-    
+
     Главная проблема: Как думать о мире вокруг
-    
+
     101 Great Philosophers
-    
+
     Why You Think the Way You Do
-    
+
     The Oxford Encyclopedia of African Thought
-    
+
     Vom Guten, Wahren und Schönen (Lewitscharoff)
         * [https://en.wikipedia.org/wiki/Dempster–Shafer_theory](https://en.wikipedia.org/wiki/Dempster%E2%80%93Shafer_theory)
-    
+
     Индийская философия
-    
+
     История буддизма
-    
+
     Что все это значит - Нагель
-    
+
     A History of Language Philosophies
-    
+
     Eating Animals
-    
+
     Citations de Spinoza expliquées
-    
+
     Des philosophies pour bien vivre
-    
+
     A New Stoicism
-    
+
     The Philosophy of Epictetus
-    
+
     Réviser son BAC avec Le Monde: Philosophie
-    
+
     Ästhetik oder die Wissenschaft des Schönen - Theodor von Vischer
-    
+
     Vom musikalisch Schönen
-    
+
     С точки зрения Бодрийара
-    
+
     Смерть Сократа
-    
+
     О правах всерьез - Дворкин
-    
+
     Секс, убийство и смысл жизни
-    
+
     Чтение философии
-    
+
     Язык, истина и логика
-    
+
     Ринпоче - Будда
-    
+
     Философия за час
-    
+
     Винни Пух и философия обыденного языка
-    
+
     Эрос и философия
         * https://www.bloomsbury.com/us/101-great-philosophers-9781441165633/
-    
+
     → absolute vs personal (individual-specific) morality
-    
+
     4 virtues
-    
+
     how to live in the face of injustice
-    
+
     Original Buddhist Psychology
         * [Философия. Иллюстрированная хронология науки [2017]](https://vk.com/doc44301783_618785425?hash=c3ea188e97f1a2e32f&dl=6de37c149c14e5d7c7)
         * [Epistemology Books](http://libgen.is/search.php?&req=%09Stephen+Hetherington&phrase=1&view=simple&column=def&sort=language&sortmode=ASC)
@@ -3268,18 +3268,18 @@ Zwingli
         * [Auf der Suche nach einer besseren Welt. Vorträge und Aufsätze aus dreißig Jahren](https://b-ok.cc/book/944387/dcf9fb)
         * [Can We Survive Technology? - John von Neumann](http://geosci.uchicago.edu/~kite/doc/von_Neumann_1955.pdf)
         * [Answer to Fyodor Dostoevsky once said, “Without God, all things are permitted”. Taking this out of context, what is the most plausible response an atheist should give a Christian posing this quote? by Paul Brocklehurst](https://www.quora.com/Fyodor-Dostoevsky-once-said-Without-God-all-things-are-permitted-Taking-this-out-of-context-what-is-the-most-plausible-response-an-atheist-should-give-a-Christian-posing-this-quote/answer/Paul-Brocklehurst-2?ch=99&oid=188431722&share=b0e901fe&srid=HPb8&target_type=answer)
-    
+
     ideologies that serve to justify wealth accumulation
         * [Цикл увлекательных лекций по философии](https://vk.com/wall-6827569_39525)
         * [Capitalism Is Ruining Science](https://www.jacobinmag.com/2018/07/capitalism-science-research-academia-funding-publishing?fbclid=IwAR3CW6YWyJilPO2T8Fal5SSHKrrajBA-10BybzlhaTbG6jUdtne9UkDYGXw)
         * https://www.currentaffairs.org/2017/06/its-basically-just-immoral-to-be-rich
-    
+
     how the super-rch justify hoarding their wealth
-    
+
     is it not callous to be happy when there is so much suffering in the world
         * https://www.reddit.com/r/samharris/comments/7izocv/its_basically_just_immoral_to_be_rich/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
         * https://www.reddit.com/r/Anarchy101/comments/gmaw79/what_are_your_thoughts_on_noncompete_aka_emerican/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
-    
+
     australian aboriginal philosophers
         * [Pierre Des Maizeaux (ed.) - Recueil de diverses pièces sur la philosophie, la religion naturelle, l'histoire, les mathématiques etc. Par Mrs. Leibniz, Clarke, Newton, & autres auteurs célèbres.](http://libgen.rs/book/index.php?md5=455C5FD1F06517A717F785DD863A6E57)
         * [Thomas Bedürftig, Roman Murawski - Philosophie der Mathematik](http://libgen.rs/book/index.php?md5=E5A4FA2EB6F89069C567777391693B80)
@@ -3288,11 +3288,11 @@ Zwingli
         * http://libgen.rs/search.php?req=philosophie+der+mathematik&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
         * [Mathematical Platonism](https://www.calstatela.edu/sites/default/files/groups/Department%20of%20Philosophy/mathematical_platonism.pdf)
         * [https://www.reddit.com/r/exmormon/comments/o0r6af/ive_always_believed_in_paranormal_but_now_that_im/](https://www.reddit.com/r/exmormon/comments/o0r6af/ive_always_believed_in_paranormal_but_now_that_im/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
-    
+
     Enzyklopädie Philosophie und Wissenschaftstheorie
         * [Erich Fromm – Wikipedia](https://de.wikipedia.org/wiki/Erich_Fromm)
         * [Is Nature All There Is? Theism vs Naturalism Debate - YouTube](https://www.youtube.com/watch?v=W0j25NteoXc)
-    
+
     philosophical views of humility (--> status, hierarchy, etc.)
         * [Cómo piensa el mundo](http://libgen.rs/book/index.php?md5=F35F69441D1DCD56F291FD08F8D924C1)
         * [Una visión de ningún lugar](http://library.lol/main/D28F51106D14829BB8B7D92B09261054)
@@ -3325,7 +3325,7 @@ Zwingli
         * [evolution philosophy](https://de1lib.org/s/evolution%20philosophy)
         * [Nicholas Maxwell - Science and Enlightenment: Two Great Problems of Learning](http://libgen.rs/book/index.php?md5=2208C99FA8ABE46A466001BFE362291D)
         * http://libgen.li/search.php?&req=sapiens+harari&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=2
-    
+
     social status and evolutionary fitness
         * [Will humanity survive forever? - CLEMENS P. SUTERCLEMENS P. SUTER](https://clemenssuter.com/will-humanity-survive-forever/?cn-reloaded=1)
         * [How Humanity Could Last Forever](https://www.gizmodo.com.au/2020/03/how-humanity-could-last-forever/)
@@ -3337,7 +3337,7 @@ Zwingli
         * http://libgen.rs/search.php?&req=ethics+market&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
         * http://libgen.rs/search.php?&req=ethik&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
         * https://www.effectivealtruism.org/
-    
+
     - -> criticisms of effective altruism
         * [svob vol](https://vk.com/wall-55155418_225517)
         * [Dean Rickles - What Is Philosophy of Science?](http://libgen.rs/book/index.php?md5=BF20A9128D8D658D7B41618B3270FC40)
@@ -3355,11 +3355,11 @@ Zwingli
         * http://hayek.ru/hayek2.html
         * https://nicomaque.com/2014/12/10/discours-de-reception-du-prix-nobel-par-friedrich-hayek/
         * http://libgen.rs/search.php?&req=philosophy+of+science+bunge&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
-    
+
 * Reading (2)
         * https://orbi.uliege.be/bitstream/2268/27735/1/Peuple,%20populaire,%20populisme.pdf
         * http://iphilo.fr/2016/11/15/quest-ce-que-le-populisme-laurent-bouvet/
-    
+
     Christian Felber
         * https://de.wikipedia.org/wiki/Svenja_Fla%C3%9Fp%C3%B6hler
         * https://de.wikipedia.org/wiki/William_Godwin
@@ -3445,7 +3445,7 @@ Zwingli
         * https://www.nytimes.com/2016/05/11/opinion/if-philosophy-wont-diversify-lets-call-it-what-it-really-is.html?smid=fb-share&_r=0
         * https://theculturetrip.com/europe/united-kingdom/articles/top-10-living-philosophers/
         * https://fr.wikipedia.org/wiki/Histoire_de_la_philosophie
-    
+
     file:///Users/iriley/Google%20Drive/MICHEL%20ONFRAY%20-%20ANTIMANUEL%20DE%20PHILOSOPHIE%20(2001,%20BREAL).pdf
         * https://special.theoryandpractice.ru/einstein
         * https://monocler.ru/slow-life/
@@ -3471,7 +3471,7 @@ Zwingli
         * https://chomsky.info/
         * http://www.truefreethinker.com/tag/mormon
         * https://www.youtube.com/user/PavlovaElen/playlists
-    
+
     - ****
         * http://ordainwomen.org/searching-for-heavenly-mother/
         * https://www.churchhistorianspress.org/
@@ -3479,17 +3479,17 @@ Zwingli
         * http://www.naturalthinker.net/trl/index.html
         * http://world.std.com/~mhuben/critobj.html
         * https://www.samharris.org/podcast/item/reality-and-the-imagination
-    
+
     Schuld der Gesegneten
         * https://www.quora.com/How-can-I-stop-feeling-guilty-for-being-fortunate
         * http://workwithgrace.com/guilty-good-fortune/
         * https://www.nytimes.com/2017/02/06/world/middleeast/mothers-and-daughters-divided-by-refugee-ban-encounter-the-guilt-of-good-fortune.html?_r=0
         * http://www.solarisweb.at/auszug/gutboese.htm
-    
+
     When and where are ad hominem kinds of arguments appropriate (i.e. education and health policy where lawmakers won't subject themselves to their own policies)?
-    
+
     Grosse Frage: Zweck des Lebens
-    
+
     in Bezug auf: Fortschritt, Gerechtigkeit, Rechtschaffenheit, Motivation
         * http://philologist.livejournal.com/7632628.html
         * http://os.colta.ru/society/russia/details/15155/
@@ -3570,9 +3570,9 @@ Zwingli
         * https://www.haugenbok.no/Skjoennlitteratur/Ungdomsboeker/Sofies-verden4/I9788203254147
         * https://infokiosques.net/IMG/pdf/Le_Mythe_du_Progres_LIVRET-2.pdf
         * http://www.cafephilosophia.fr/sujets/le-progres-un-mythe-depasse/
-    
+
 * Reading (3)
-    
+
     à lire sur la moralité
         * http://spot.colorado.edu/~tooley/Lecture14.html
         * https://www.dukeupress.edu/in-defense-of-honor
@@ -3585,11 +3585,11 @@ Zwingli
         * https://regulation.revues.org/11918?lang=fr
         * http://biblioteca.itam.mx/estudios/estudio/estudio02/sec_7.html
         * [Анархизм (книги)](https://vk.com/wall-176520650_876)
-    
+
     philosophie de la science
         * http://www.stevemcintosh.com/
         * https://researchrundowns.com/
-    
+
     disenchanted lives, marshall brooks
         * [La Isla de los Lotófagos - Club de Filosofía: La Grecia prefilosófica y los orígenes del pensamiento racional](https://lotofagos-island.blogspot.com/2011/09/la-grecia-prefilosofica-y-los-origenes.html?m=1&fbclid=IwAR0Zko1De1HLzQHXGd6OhvNDqXp5BgqRdYz4h_kv9s7YBSDBkVRRqKnyudA)
         * [ETH-Bibliothek / Gottfried Wilhelm von Leibniz philosophische Werke nach Raspens Sammlung](https://www.e-rara.ch/zut/collections/content/structure/8305133)
@@ -3612,13 +3612,13 @@ Zwingli
         * [Des jeux et des hommes | Berne Eric | download](https://b-ok.cc/book/4751012/f9751f)
         * [Life in the Universe: A Beginner's Guide | Lewis Dartnell | download](https://b-ok.cc/book/564765/c98b82)
         * [Каббала в контексте истории и современности: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/%D0%9A%D0%B0%D0%B1%D0%B1%D0%B0%D0%BB%D0%B0%20%D0%B2%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B5%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8%20%D0%B8%20%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8)
-    
+
     - [**Trésor Educatif - YouTube](https://www.youtube.com/channel/UC6WgU2q9Bzh1PYTGEE_1ztg/playlists)
     - [***Sprachtheorie in der Literatur der hebräischen Kabbala | SpringerLink](https://link.springer.com/chapter/10.1007%2F978-3-476-03710-7_3)
         * [Kabbala – Wikipedia](https://de.wikipedia.org/wiki/Kabbala)
         * [Michael Laitman – Wikipedia](https://de.wikipedia.org/wiki/Michael_Laitman)
         * [Der Sohar und seine Lehre [microform] : Einleitung in die Gedankenwelt der Kabbalah](https://warburg.sas.ac.uk/pdf/abg440b2382171.pdf)
-    
+
     - [***Sprachtheorie in der Literatur der hebräischen Kabbala | SpringerLink](https://link.springer.com/chapter/10.1007%2F978-3-476-03710-7_3)
         * [Rosenroth's Kabbala Denudata, scanned from the Latin](http://www.billheidrick.com/Orpd/KRKD/index.htm)
         * [promench](https://www.arretetonchar.fr/wp-content/uploads/2013/IMG/archives/langue/juxtalineaires/grec/promench.pdf)
@@ -3651,12 +3651,12 @@ Zwingli
         * [TVU. Share - YouTube](https://www.youtube.com/channel/UC_ascUsU1FplVjUTJkU05Ig)
         * [Riccardo Manzotti - YouTube](https://www.youtube.com/results?search_query=Riccardo+Manzotti)
         * [Noam Chomsky's Language Theory: Best explanation you will ever hear (UGC NET English) - YouTube](https://www.youtube.com/watch?v=7fW_8bDGdX0)
-    
+
     religion
-    
+
     a leer y ordenar / general
         * [Glossary of Undue Influence](http://thoughtsonthingsandstuff.com/glossary-of-undue-influence/)
-    
+
     - [* Church changes](https://www.reddit.com/r/mormon/comments/6x3apz/ok_real_talk_here_joseph_smith_era_church_vs_lds/)
         * [2017 /r/ExMormon Demographic Survey](https://docs.google.com/forms/d/e/1FAIpQLSda74nQMthKCBUiAnzlAxTOkqcSnTUMmFgh_Zgj_YGvWEc_zQ/viewanalytics)
         * [40 Problems with Christianity – Friendly Atheist](http://www.patheos.com/blogs/friendlyatheist/2014/08/26/40-problems-with-christianity/)
@@ -3713,18 +3713,18 @@ Zwingli
         * [New Design for Mormon Helping Hands has Leaked! : exmormon](https://mm.reddit.com/r/exmormon/comments/6y5reg/new_design_for_mormon_helping_hands_has_leaked/)
         * [Your Hogwarts House, according to why and how you left the church : exmormon](https://www.reddit.com/r/exmormon/comments/6yrsq1/your_hogwarts_house_according_to_why_and_how_you/)
         * [‘Mormon Land’: 95 ways to improve the Mormon church — from new hymns to padded pews and letting girls pass the sacrament - The Salt Lake Tribune](https://www.sltrib.com/religion/local/2018/01/27/mormon-land-95-ways-to-improve-the-mormon-church-from-new-hymns-to-padded-pews-and-letting-girls-pass-the-sacrament/)
-    
+
     - [****40 Years a Mormon](https://40yrmormon.blogspot.com/)
     - [****A Letter to an Apostle | Thirty-Six Interrogatories on Joseph Smith and the Mormon Narrative](https://lettertoanapostle.org/)
     - [****Faith of a naturalist: response to &quot;Faith of a Science Teacher&quot; questions by bwv549 - Mormon Bandwagon](https://mormonbandwagon.com/bwv549/faith-naturalist-response-faith-science-teacher-questions/)
     - [****Letter To My Wife.pdf - Google Drive](https://drive.google.com/file/d/0B18W3AgWXw6zMUllRW85bXc0RWc/view)
     - [****Questions to Ask by bwv549 - Mormon Bandwagon](https://mormonbandwagon.com/bwv549/questions-to-ask/)
         * [IV Helenismo 9 | El Gran Lebowski: ser feliz con poco | Epicureismo](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWt3mm9swYvw%26fbclid%3DIwAR0s65u29iR4mAPGb1RN5Threjem6-jnHwNdHkF_KFpNch07UsH_2LTka6A&h=AT0jFcbwSXQxJ0GMdOqhx7-KUkMLfokDZQJbcRRMbHurMVN8zcHt-u13TPzu_OfPgGIa6FwSKKZRZaWu99uIvyxPN1zdKU9R6xK3YrNpV5aHlo1EIPWolDgQSx44xeQHGWMz6O6skw)
-    
+
     *[¿ES POSIBLE UNA ÉTICA QUE TODOS PODAMOS VIVIR?](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dp98f5i0rE6c%26fbclid%3DIwAR2IgTc2W21oNdeBp6HQuAUb9smYsCpwg-F4uj7SNFVaYJYyXFdb8eoi-PI&h=AT2FponEQ7nLnmWR3vpVXM7Qen_KmH0wyzEsYpKgvJBgmK9FLYoO_xSPpUwJMYNb5mgWzz4GVULZiK-7v9AkahBK__7XGoIMUvejWYthG4miwWJd671rkoC5mnCCawYCE-FMuNaTBw)*
-    
+
     *[John Rawls and the Original Position](https://l.facebook.com/l.php?u=http%3A%2F%2Fexistentialcomics.com%2Fcomic%2F350%3Ffbclid%3DIwAR0sk7WvYo4w2-YBpjveCxBujaCA98husMMN0Deieva2uzWvn1LQnq3W75Y&h=AT2j9xKqMTwKS555SIdjSb15TXoAnIlMK-D3N5uzQoCttXcTrb9R5fF88QI6XfvCv4Vi01gHqjKzObICm_mO1N_-oH5T_qil7W44mFnFwsQzFachAzLihKfdI90-bl0lBiAEwQymCQ)*
-    
+
     *[Técnicas estoicas para afrontar la búsqueda de empleo](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.thelosconsulta.com%2Fpost%2Ftecnicas-estoicas-afrontar-busqueda-empleo-estoicismo%3Ffbclid%3DIwAR0_v9uG0bE6XbWuNS88cz3NZp6CgSk95Q5LOvslKvDE7hpvoW-MnDd2MUQ&h=AT2nfk817AvFjX2KlVj6IA_q5zgcKIRGAthFKzdSOvX4IIMDqBqAS1gD8xM8cDMenaSOR392MwLH4wNAZEdeDbH48nYm7_6VH529IPUgnjphR6XvJkaRpATQXpgWDAewAhS4HBwByA)*
         * [Doing Ethics: Moral Reasoning and Contemporary Issues: Fourth Edition - Vaughn, Lewis - Google Books](https://books.google.com/books?hl=en&lr=&id=cQneCgAAQBAJ&oi=fnd&pg=PR5&dq=pornography+and+ethics&ots=w2v3CBcaJ1&sig=HLvMaUBQJPeg6tSxCBnuV9yBJqI#v=onepage&q=pornography%20and%20ethics&f=false)
         * [Beyond Speech: Pornography and Analytic Feminist Philosophy - Google Books](https://books.google.com/books?hl=en&lr=&id=LXcLDgAAQBAJ&oi=fnd&pg=PA1&dq=pornography+and+ethics&ots=CIxMcW5TbZ&sig=Q2cLBldh5qEwptSdYiCdJSmnexQ#v=onepage&q=pornography%20and%20ethics&f=false)
@@ -3782,7 +3782,7 @@ Zwingli
         * https://en.wikipedia.org/wiki/Concluding_Unscientific_Postscript_to_Philosophical_Fragments
         * https://en.wikipedia.org/wiki/Category:Ukrainian_philosophers
         * http://philipphuebl.com/
-    
+
 * Reading (4)
         * https://valkyrist.wordpress.com/
         * https://philosophiya.ru/
@@ -3831,12 +3831,12 @@ Zwingli
         * [Н. Н. Талеб - "Рискуя собственной шкурой" - YouTube](https://www.youtube.com/playlist?list=PLcAsYSQWIgW07a8EyFjTC5EDJbKhxUTdK)
         * [Настоящее значение философских афоризмов](https://vk.com/away.php?to=https%3A%2F%2Farzamas.academy%2Fmaterials%2F1640)
         * [Ник Бостром. Рассуждение о Конце Света для начинаю (Алексей Турчин) / Проза.ру](https://www.proza.ru/2007/04/13-34)
-    
+
     Подавление индивидуальности сводит людей в человеческое стадо, как было в Темные Века Земли, когда христианская церковь фактически выполнила задачу Сатаны, озлобив и сделав убийцами множество людей… К несчастью, главная религиозная книга наиболее техничной и могущественной из прошлых цивилизаций — белой — была Библия, наполненная злом, предательством, племенной враждой и бесконечными убийствами… Для другой великой цивилизации прошлого — желтой — учение Конфуция породило безответную покорность обстоятельствам жизни…
         * [ПОСТМОДЕРНИЗМ](https://vk.com/wall-6827569_21648)
         * [Проблемы христианства в контексте плюрализма философских воззрений на современном этапе | Humane - Гуманный](http://humane.net.ru/content/%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B-%D1%85%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B0-%D0%B2-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B5-%D0%BF%D0%BB%D1%8E%D1%80%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC%D0%B0-%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D1%81%D0%BA%D0%B8%D1%85-%D0%B2%D0%BE%D0%B7%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B9-%D0%BD%D0%B0-%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%BC-%D1%8D%D1%82%D0%B0%D0%BF%D0%B5)
         * [Революция искусственного интеллекта: на пути к сверхразуму](https://vk.com/@newochem-urban-ai-1)
-    
+
     русские философы о прогрессе
         * [Сказ о науке и политике | LessWrong на русском](https://lesswrong.ru/w/%D0%A1%D0%BA%D0%B0%D0%B7_%D0%BE_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5_%D0%B8_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B5)
         * [Субъективность — ужасная вещь…. Чехов](https://biography.wikireading.ru/124732)
@@ -3857,7 +3857,7 @@ Zwingli
         * [evolution and sexism - Ecosia](https://www.ecosia.org/search?q=evolution+and+sexism)
         * [Fil nauki](https://vk.com/wall-154516093_17848)
         * [filosofia antropologica - YouTube](https://www.youtube.com/results?search_query=filosofia+antropologica)
-    
+
     Filosofía aquí y ahora - Foucault (I)de psicologia unmsm
         * [Filosofia e nuovi sentieri | «Mi rappresento il vasto recinto delle scienze come una grande estensione di terreno disseminato di luoghi oscuri e illuminati. Lo scopo delle nostre fatiche deve essere quello di estendere i confini dei luoghi illuminati, op](https://filosofiaenuovisentieri.com/)
         * [filosofía matemática](https://libgen.is/search.php?req=filosof%C3%ADa+matem%C3%A1tica&open=0&res=25&view=simple&phrase=1&column=def)
@@ -3865,14 +3865,14 @@ Zwingli
         * [filosofía!!!](https://mega.nz/#F!8ugSHSSB!4aQQvWfV38i7trjOabiTgw)
         * [filosofico.PDF](http://www.ousia.it/SitoOusia/SitoOusia/TestiDiFilosofia/TestiPDF/Voltaire/Dizionario.pdf)
         * [Gatsby: The Perfect Fake - John Gray - YouTube](https://www.youtube.com/watch?v=lIm_FbpGKvo)
-    
+
     O Valor da Liberdade - 4º episódio (John Gray)de ffmspt
         * [Obsesje słynnych filozofów](https://youtu.be/CQm12LeNM_0)
         * [Charles Bukowski - Cultura para Principiantes - YouTube](https://www.youtube.com/watch?v=q68q92Zlw-o)
         * [CIENCIA, FILOSOFIA E IDEOLOGIA. Enfoques materialistas - YouTube](https://www.youtube.com/watch?v=_tSzxHWohPc&feature=share)
         * [Derrida et la question de l'animal | Cairn.info](https://www.cairn.info/revue-cites-2007-2-page-31.htm)
         * [Descrédito de la profecía | Edición impresa | EL PAÍS](https://elpais.com/diario/2009/05/02/babelia/1241221156_850215.html)
-    
+
     Development as Freedom by Amartya Sen.
         * [5 BOOKS ETHICS](https://www.google.com/search?q=five+books+ethics&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
         * [Рябов Петр Владимирович | VK](https://vk.com/ryabovpetrvladimirovich)
@@ -3921,7 +3921,7 @@ Zwingli
         * [СТОИЦИЗМ. Почему он востребован в современном мире. Think Camp. Андрей Баумейстер](https://vk.com/video-60426665_456239492?list=9083e6ff0d64f3d760)
         * [Философия - Иммануил Кант (The School of Life)](https://vk.com/video-52526415_456244112?list=2bc32a55b649454cb9)
         * [Философия - Платон (The School of Life)](https://vk.com/video-52526415_456244113?list=f8a7e51cdecb61037e)
-    
+
     Что мы думаем о машинах, которые думают. Ведущие мировые ученые об искусственном интеллекте. Брокман Дж. (ред.) (Brockman J.)
         * [Язык философии. Специфика философских категорий](https://vk.com/video-6827569_456243825?list=96a39145dab6714ff7)
         * [Kak_byt_stoikom.epub](https://vk.com/doc30601958_458570516?hash=786c9c92b64f322580&dl=bc948274a89e96920f)
@@ -3934,7 +3934,7 @@ Zwingli
         * [Dicionário de Filosofia - J. Ferrater Mora — Yandex.Disk](https://disk.yandex.com/d/Zum4hP2Xf4m_1A?fbclid=IwAR2QL8ovZiT37Vx_x-vWuUDxyN3lfbWhw5Gcdj2u4_uINgbQO72RtoMbOzI)
         * https://medium.com/stoic-practices
         * [«GEIGER» – das philosophische Gedankenexperiment | #filosofix - YouTube](https://www.youtube.com/watch?v=8lZCmSZhIPo)
-    
+
     - [Carlos Madrid - ¿Qué es la filosofía de las matemáticas? - YouTube](https://www.youtube.com/watch?v=Cbyp-MG0kdE&feature=share)**
         * [BBC - Future - There’s a problem with the way we define inequality](http://www.bbc.com/future/story/20170706-theres-a-problem-with-the-way-we-define-inequality?ocid=ww.social.link.facebook..GrandIdeas17_&kwp_0=564826&kwp_4=2046930&kwp_1=855147)
         * [BBC Radio 4 - A Point of View - Episode guide](https://www.bbc.co.uk/programmes/b006qng8/episodes/guide)
@@ -3974,13 +3974,13 @@ Zwingli
         * [Religion Vs Evolution (ft. the Messianic Manic) - Philosophy Tube - YouTube](https://www.youtube.com/watch?v=ygM5c8kPKpY)
         * [Warum Richard David Precht ein guter Philosoph ist - YouTube](https://www.youtube.com/watch?v=aiwOnhK3FN0)
         * [CONSÉQUENTIALISME - Quel est le but de la morale ? | Grain de philo #16](https://youtu.be/3hCffvguLTQ)
-    
+
     - [**Contre-histoire de la philosophie — Wikipédia](https://fr.wikipedia.org/wiki/Contre-histoire_de_la_philosophie)**
     - [**Nassim Nicholas Taleb Home & Professional Page](http://www.fooledbyrandomness.com/)**
     - [**Philosophy and economics - Wikipedia](https://en.wikipedia.org/wiki/Philosophy_and_economics)**
-    
+
     consequences of specialization - Google Scholar
-    
+
     - [http://philosophybites.com/](http://philosophybites.com/)**
         * [Milde coronaklachten lijken minder antistoffen op te leveren. Wat betekent dat? | NOS](https://nos.nl/artikel/2329846-milde-coronaklachten-lijken-minder-antistoffen-op-te-leveren-wat-betekent-dat.html?fbclid=IwAR3mz6yeJ2cAxX3PdExFqeL5G-nC2qUoqws5Gp_HH4VWZYD1yoNWImduB9c)
         * [Antinomia](https://castbox.fm/channel/id2395369?utm_campaign=i_share_ch&utm_medium=dlink&utm_source=i_share&country=fr)
@@ -3998,11 +3998,11 @@ Zwingli
         * [Естетика у сучасному світі | «Естетика у сучасному світі» висвітлює найбільш важливі для естетики теми і проблеми, як наукового, мистецького так і суспільного характеру.](http://estetica.etica.in.ua/)
         * [Cosa intendeva Einstein per “Dio non gioca a dadi”](http://www.indiscreto.org/cosa-intendeva-einstein-per-dio-non-gioca-a-dadi/?fbclid=IwAR12qxaiXKxMPWxr4lPGR9EgQj5malAGfoobXZXa6rDi-voQyYlS5bfvCz0)
         * [🔷 Meditaciones Metafísicas DESCARTES | 😈 El DIABLO de verdad existe | Marcos Represas - YouTube](https://www.youtube.com/watch?v=rHb6K7PA0Nk&t=1s)
-    
+
     1s
         * [Abtreibung - Zwischen Recht, Moral und Verantwortung | Let's Denk #28 - YouTube](https://www.youtube.com/watch?v=KgBh9JCfa7s)
         * [Advertising Ethics - YouTube](https://www.youtube.com/watch?v=uRyNxNAYIuc)
-    
+
     Die Phänomenologie - Philosophie - ARTE - YouTube
         * [FONCTIONNALISME EVOLUTIONNISTE : Journal des Économistes et des Études Humaines](https://www.degruyter.com/view/j/jeeh.1990.1.issue-1/jeeh-1990-0109/jeeh-1990-0109.xml)
         * [Hipátia de Alexandria, a grande mestra - YouTube](https://www.youtube.com/watch?v=iA7gNwyTeRk)
@@ -4015,22 +4015,22 @@ Zwingli
         * https://www.youtube.com/results?search_query=filosofia+y+videojuegos
         * https://www.youtube.com/results?search_query=Henk+de+Berg
         * [Introduction Philosophie](https://www.youtube.com/watch?v=BHiCBlPuIXo&list=PLes0Xd1U1KcwnOdnje2oN00yrKxk2WCdh)
-    
+
     Ist unsere Realität nur eine Illusion - YouTube
         * [PHILOSOPHE - 14 La justice - YouTube](https://www.youtube.com/watch?v=l57riZ06klQ&list=PL42fKMlnBoa8NmVeLZm41lH2bpkAWMice)
         * [Tomás García López - Papel, presente, lugar y porvenir de la filosofía - YouTube](https://www.youtube.com/watch?v=1ctKL_KAACE&feature=share)
-    
+
     Философия постмодернизма - YouTube
         * [Что такое метамодернизм и зачем нам это знать?](https://vk.com/@newochem-metamodern)
         * https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D1%82%D0%BE%D1%80,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9A%D0%B0%D1%80%D0%BB%D0%BE%D0%B2%D0%B8%D1%87
         * [Nieuw Licht #1: Bas Heijne over onbehagen, lust en freud (alle fragmenten) - YouTube](https://www.youtube.com/watch?v=iNcfIX1Q2es)
         * [? Hierarchie und Anarchie – BERG. Blog](http://blog.berg-kommunikation.de/hierarchie-und-anarchie/)
-    
+
     ¿Tiene sentido la vida?de CdeCiencia
         * [[PHILO] LE STOÏCISME avec Charles Robin - YouTube](https://www.youtube.com/watch?v=Oy9Os7rvLds)
         * [[Vidéo] &quot;Les hommes sont devenus des dieux, mais des dieux irresponsables&quot;, selon l&#39;auteur Yuval Noah Harari](https://www.usinenouvelle.com/editorial/video-les-hommes-sont-devenus-des-dieux-mais-des-dieux-irresponsables-selon-l-auteur-yuval-noah-harari.N596683)
         * [&quot;Dark Enlightenment&quot;: The neo-fascist philosophy that underpins both the alt-right and Silicon Valley technophiles — Quartz](https://qz.com/1007144/the-neo-fascist-philosophy-that-underpins-both-the-alt-right-and-silicon-valley-technophiles/)
-    
+
 * Reading (5)
         * [1. Une éthique des vertus est-elle possible pour les modernes ? - A modern virtue ethics? - University of Geneva | Coursera](https://www.coursera.org/learn/ethique/lecture/ttdW3/1-une-ethique-des-vertus-est-elle-possible-pour-les-modernes-a-modern-virtue)
     * [10 Libros de filosofía que debes de leer antes de morir - The Filos!!!: La Filosofía hecha Blog](http://thefilos.blogspot.com/2010/03/10-libros-de-filosofia-que-debes-de.html)
@@ -4434,21 +4434,21 @@ Zwingli
         * [Comprendre Spinoza](https://www.youtube.com/channel/UCC5j_xijqUzHLIAFTRR8sbw)
         * [Deviens Qui Tu Es](https://www.youtube.com/channel/UCPch6CxVQuyaCx0PPxQVNjA)
         * [Einzelgänger](https://www.youtube.com/c/Einzelg%C3%A4nger)
-    
+
     *[‪Looking for Book recommendations on the philosophy of gender. Any suggestions?‬](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1719770738172460/)*
-    
+
     *https://www.centrolombardo.edu.mx/*
-    
+
     *[Looking for book recommendations. What book enhanced or changed your perspective about life? Can be any genre.](https://www.facebook.com/jake.7500/posts/277927696574521)*
-    
+
     *[Gazzetta filosofica](https://www.facebook.com/groups/filosofia.am/permalink/10157080104397539/)*
-    
+
     *[Danser, une philosophie](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.franceculture.fr%2Femissions%2Fle-journal-de-la-philo%2Fle-journal-de-la-philo-du-lundi-04-juin-2018%3Ffbclid%3DIwAR0mP6-RsXlbog6LTK04e3rbUpA6C1T6yp7Gcq9wveFEi0Gh8y4MeTfQ3z0&h=AT0jLm6jNwQl5k6mr6B8Qlewcucwqi-bZUmw8ElxygityF0S0od65jFaoXteE0J05gb7tR-mHapQPidFevQtblLekM51CmH4MWh0YKdmwiVo0vkBSGV91qQURBJol0fyaWi-0jsdzg)*
-    
+
     *[Morto Aldo Masullo, il grande filosofo morale. Addio professore](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.corriere.it%2Fcultura%2F20_aprile_24%2Fmorto-aldo-masullo-grande-filosofo-morale-addio-professore-fb79f772-8662-11ea-9ac6-16666bda3d31.shtml%3Ffbclid%3DIwAR2zPjiPcofpAHQwVpZqq1fxxheND1XaLoSgA8jXUzqrKX6It-sgXn0BZOY&h=AT0R0m09qnwSBOYHsW5lK5IQaDWj2bsVmJPzbzmtvUN7CMwnzTnuMvV1Ix8g0uS4uDcAk43azli8Svjq3ZD-Of8KuwoTjhnVV3j70zXiGHjOYnOzS1W4hmIB-nmsVV9ooekpiYM_gA)*
-    
+
     *[A importância da Filosofia em meio à crise da Covid-19](https://l.facebook.com/l.php?u=https%3A%2F%2Fdiplomatique.org.br%2Fa-importancia-da-filosofia-em-meio-a-crise-da-covid-19%2F%3Ffbclid%3DIwAR0rkzR-NxyxcGxgzwTcvTrYLBIwBqSv-JQGvpvJsKz2x2l5G1Bnjs0gI34&h=AT1sPcd9HBprdryrkDRfHOr-YSn80S-00jSx6HlLA8JQTwzc88y3flhJZJZcNUUhKN-5WrvOGm2TYrHyTZ0NoIxlb5WrP4hqgfClHw1snSvCcU0oNr-IhMLmT6ZQlA9my4odFJ0J5g)*
-    
+
     *[So apparently... A.I. created these faces. None of these pictures are of actual real people. They don't even exist. I can actually feel empathy for these face. So my question for today... what gives a person (or a robot) rights? Is it a smiling face that we can understand? Cats and dogs have limited rights (in the west at least.) but not rats or even sheep. So then, at what point would an artificial creation have rights. Is it when they become 'humanlike'.....Like us? Unconsciously- do we provide more rights to people who look like us, or who look like the ideal human? So, then - does this mean, the beautiful have more rights than the ugly? Tons of ugly questions now....](https://www.facebook.com/groups/DialecticTable/permalink/920255895131251/)*
         * [Étienne Klein : Éthique et philosophie des sciences, le rôle des scientifiques ? [EN DIRECT]](https://www.youtube.com/watch?v=KIwtT8cAAKI&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=1)
         * [How Humans Broke the Game](https://www.youtube.com/watch?v=BJzJtm7OfdQ&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=124)
@@ -4510,88 +4510,88 @@ Zwingli
         * [Q&A// 6 Fragen zum Master Philosophie an der Uni Leipzig](https://www.youtube.com/watch?v=tN1d-n7rK_c&list=WL&index=643)
         * [«MENSCHENFLEISCH» – das philosophische Gedankenexperiment | #filosofix](https://www.youtube.com/watch?v=QBBY04zTaXI&list=WL&index=644)
         * [«GEIGER» – das philosophische Gedankenexperiment | #filosofix](https://www.youtube.com/watch?v=8lZCmSZhIPo&list=WL&index=645)
-    
+
     Was ist Ethik? Philosophisches Kopfkino (3sat)
         * [10 Fragen an: Philosoph Martin Kusch](https://www.youtube.com/watch?v=eLzpWBL-sSA&list=WL&index=646)
-    
+
     Die Philosophie des Albert Camus
-    
+
     Ferdinand von Schirach: Vom Fremdsein in der Welt | Sternstunde Philosophie | SRF Kultur
-    
+
     Im Lauf der Zeit - Konfuzius und die chinesische Philosophie
-    
+
     Philosophie - Fernöstliche Philosophie
-    
+
     Konfuzius - Der Meister der Philosophie! l DIE GESCHICHTE CHINAS
-    
+
     Heidegger und chinesische Philosophie. Eine Bemerkung zum "Abendgespräch"
-    
+
     Kapitel 2 - Die chinesische Philosophie
-    
+
     Philosophie to go #5: Die chinesische Weisheit und der Axtdieb
-    
+
     Religion: Truth & Belief | Philosophy Tube
-    
+
     Healthcare, Ethics, & Postmodernism | Philosophy Tube
-    
+
     How to Fix the Housing Crisis | Philosophy Tube ft. Mexie
-    
+
     La Storia della Filosofia in 10 minuti
         * [Michel Onfray Nietzsche en quatre questions Livre Audio](https://www.youtube.com/watch?v=YEpi3J5DYLs&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=28)
         * [Disney desde el feminismo: lo malo y lo bueno de nuestras películas favoritas](https://www.youtube.com/watch?v=mHFFK_ZdwGs&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=93)
         * [American Psycho, Baudrillard and the Postmodern Condition](https://www.youtube.com/watch?v=RJfurfb5_kw&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=9)
-    
+
     Philosophischer Stammtisch: Das Ende der Political Correctness?
-    
+
     Nietzsche and Dionysus: Tragedy and the Affirmation of Life
-    
+
     Notre monde est-il le meilleur des mondes possibles ? (Ft. Dieu) | Grain de philo #27
-    
+
     Is Having Children Wrong? | Philosophy Tube
-    
+
     Philosophie critique du monde des écrans, Denis MOREAU
-    
+
     NEOS Lab Talk: Philosophische & historische Wurzeln des Liberalismus
-    
+
     Anarchie in der Praxis | Freiheit der Zukunft | Hörbuch | Stefan Molyneux
-    
+
     Verstehen Sie Kant ?
-    
+
     Claude Lévi-Strauss - Cultura para principiantes
-    
+
     Learning about Marx with Jordan Peterson (feat. Anarchopac and Red Plateaus)
-    
+
     I filosofi e l'amore: Sartre
-    
+
     Eco e la Filosofia. Qual è l'incontro filosofico che ti è rimasto più impresso?
-    
+
     La filosofia: che cos'è e perchè è nata?
-    
+
     Che cos'è l'Epistemologia? || Leggiamo i Filosofi
-    
+
     Che cos'è l'Estetica? || Perché Leggiamo i Filosofi?
-    
+
     Filosofi og etikk i moderne tid
-    
+
     El feminismo es una filosofía vengativa
-    
+
     Why Honor Matters | Robert Wright and Tamler Sommers [The Wright Show]
-    
+
     Lass dich verführen! | Streetphilosophy | ARTE
-    
+
     Л.Н. Толстой. Кратко
-    
+
     Philosoph Richard David Precht - Jung & Live #16
         * [Was Stärke über Macht verrät – philosophisch betrachtet | Gert Scobel](https://www.youtube.com/watch?v=feOD-7BH6ww&list=WL&index=1309)
         * [Modernism vs Postmodernism | Unemployed Philosopher](https://www.youtube.com/watch?v=TM-OaHSvyYk&list=WL&index=1321)
         * [Nada es lo que parece (extracto filosófico de Jean Baudrillard)](https://www.youtube.com/watch?v=nZ1aQS0dTlw&list=WL&index=1331)
         * [Introduction to Diogenes the Cynic](https://www.youtube.com/watch?v=o2ctYfy7-Ec&list=WL&index=1367)
         * [Entretien avec Michel Onfray](https://www.youtube.com/watch?v=eWW_2V5DdHk&list=WL&index=239)
-    
+
     Comment devenir soi-même ? LGQ
-    
+
     Pourquoi ne rit-on pas de tout ? - Le Coup de Phil' #29
-    
+
     Êtes-vous vraiment heureux ?
         * [Как читать книги по философии.](https://www.youtube.com/watch?v=CMd8ivJsLyo&list=WL&index=516)
         * [Festivaletteratura 2016 - Intervista a Massimo Pigliucci](https://www.youtube.com/watch?v=L1Wu2tmyjmU&list=WL&index=550)
@@ -4599,30 +4599,30 @@ Zwingli
         * [Wissenschaftstheorie 6.6: Bas van Fraassen: Konstruktiver Empirismus. Prof. Dr. Torsten Wilholt](https://www.youtube.com/watch?v=sM_C2ToVexU&list=WL&index=554)
         * [Otto e mezzo - Vita di uno stoico (Puntata 03/06/2017)](https://www.youtube.com/watch?v=yiJcoaL7_vw&list=WL&index=548)
         * [Realismo y anti realismo](https://www.youtube.com/watch?v=4Vs3OqQv0LM&list=WL&index=555)
-    
+
     🔴 Serata su Bertrand Russell
         * [The Unexpected Hanging Paradox](https://www.youtube.com/watch?v=EPOXhFJsqlM&list=WL&index=1401)
         * [El Efecto Pigmalión](https://www.youtube.com/watch?v=4aN5TbGW5JA&list=WL&index=1409)
         * [L' Interview : Michel Onfray - Stupéfiant !](https://www.youtube.com/watch?v=He9GrKo2g7M&list=WL&index=463)
-    
+
     Why good people do bad things | Einar Øverenget | TEDxOslo
-    
+
     TEDx Hogeschool Utrecht - Tamler Sommers - Los límites de los argumentos morales
         * [Martha Nussbaum on Upheavals of Thought - The John Adams Institute](https://www.youtube.com/watch?v=sH_onsTfYsQ&list=WL&index=361)
         * [Rick Roderick on Heidegger - The Rejection of Humanism [full length]](https://www.youtube.com/watch?v=sDqDJJcJAOg&list=WL&index=492)
-    
+
     Partially Examined Life #93: Freedom and Responsibility (Strawson vs. Strawson)
-    
+
     Interview de Philippe Descola à propos de son livre "Par delà nature et culture"
-    
+
     Швейцарские философы. Выступление Нассима Талеба
         * [What is enough? MIZI Nadjib - WikiStage Jijel](https://www.youtube.com/watch?v=93VatsYl1t0&list=WL&index=295)
         * [Mark Zuckerberg y Yuval Noah Harari en conversación.](https://www.youtube.com/watch?v=Boj9eD0Wug8&list=WL&index=614)
-    
+
 * Reading (7)
         * [Виды общения (аудио)](https://vk.com/wall-6827569_28066)
         * [Закон Йеркса-Додсона](https://vk.com/@philosophia_club-zakon-ierksa-dodsona)
-    
+
     "Обитатели земной планеты находятся ещё в таком состоянии нелепости, неразумия, тупости, что каждый день читаешь в газетах рассуждения правителей народов о том, с кем и как надо соединиться для того, чтобы воевать с другими народами, сами же народы при этом позволяют своим руководителям располагать ими, как скотом, ведомым на бойню, как будто жизнь каждого человека не есть его личная собственность. || Обитатели нашей планеты все еще воспитаны в убеждении, что есть народы, границы, знамёна, и что всё это гораздо важнее сознания человечности. Правда, что если бы мыслящие люди сумели согласиться, — это положение изменилось бы, так как лично никто не желает войны. Но дело в том, что в каждом государстве существуют ещё миллионы дармоедов, которым нужна война и которые без войны не могли бы продолжать быть дармоедами. Вот эти-то дармоеды и мешают мыслящим людям согласиться перестать участвовать во взаимном убийстве". || Лев Толстой
         * [# 26. Какие книги учат мыслить и как их читать: пятнадцать работ, дающих точку входа в философию](https://vk.com/@apostils-26)
         * [Five essays on the timely theme of truth and current challenges to it.](https://vk.com/wall-84750475_612)
@@ -4634,7 +4634,7 @@ Zwingli
         * [What are the human needs? - Buscar con Google](https://www.google.com/search?q=What+are+the+human+needs%3F&rlz=1C5CHFA_enUS753US753&oq=What+are+the+human+needs%3F&aqs=chrome..69i57j0l5.10484j1j4&sourceid=chrome&ie=UTF-8)
         * http://www.swisseduc.ch/altphilo/griech/gintlekt/anfang.html#Item_2
         * [Project MUSE - Spinoza’s Language](https://muse.jhu.edu/article/550263)
-    
+
     Book & thought
         * [Quelques grammes de philo | &quot;Pourquoi liker ? &quot; et autres questions philosophiques de la vie quotidienne](http://blog.letudiant.fr/gilles-vervisch/)
         * [Ethical Systems | Philosophical Explorations](http://braungardt.trialectics.com/philosophy/topics/ethical-systems/)
@@ -4643,7 +4643,7 @@ Zwingli
         * [Verfasserlexikon - Die deutsche Literatur des Mittelalters](https://b-ok.cc/book/5283125/7f9745)
         * https://pt.wikipedia.org/wiki/Filosofia_da_f%C3%ADsica
         * [An Open Letter to contemporary African Intellectuals](https://thisisafrica.me/open-letter-contemporary-african-intellectuals/)
-    
+
     - [**Пошук новин за запитом umberto eco pdf](https://vk.com/search?c%5Bper_page%5D=40&c%5Bq%5D=umberto%20eco%20pdf&c%5Bsection%5D=auto)
         * http://www.enzyklo.de/
         * http://www.encyclo.nl/
@@ -4651,12 +4651,12 @@ Zwingli
         * http://alnam.ru/
         * http://www.informationphilosopher.com/freedom/history/
         * [Groundbreaking new material 'could allow artificial intelligence to merge with the human brain' | The Independent](https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-brain-computer-cyborg-elon-musk-neuralink-a9673261.html)
-    
+
     Book idea: How to Be Unethical
         * [Philosophy T-Shirts | Redbubble](https://www.redbubble.com/shop/philosophy+t-shirts%20https://www.redbubble.com/shop/philosophy+t-shirts?gclid=Cj0KCQjw9pDpBRCkARIsAOzRzivi_33Ytq8_HvTAXZAX-N3xfCFvAIrYZb5aZUcsHbLMcs_eYMEbXLEaAqNaEALw_wcB)
-    
+
     epistemologische interdependenz
-    
+
     فلسفة
         * https://jairoflorezsuarez.wixsite.com/filosofiapdf
         * [Купить книгу Философия языка. Очерки истории](http://wordorder.ru/catalog-ru/filologiya/lingvistika/filosofiya-yazyka.-ocherki-istorii/)
@@ -4670,12 +4670,12 @@ Zwingli
         * [amartya sen audiolibro - Buscar con Google](https://www.google.com/search?q=amartya+sen+audiolibro&rlz=1C1GCEA_enUS765US765&oq=amartya+sen+audiolibro&aqs=chrome..69i57.4671j0j7&sourceid=chrome&ie=UTF-8)
         * https://www.academia.edu/38742456/Black_Swan_Leadership?email_work_card=thumbnail-desktop
         * https://timeline.knightlab.com/
-    
+
     philosophy and hierarchies
         * [la philosophie pourquoi faire ? | Croyants Non croyants](http://jeammarcdamien.unblog.fr/philop/croyants-non-croyants/)
         * [Философский роман: 10 аудиокниг](https://vk.com/wall-90850349_74915)
         * [Философские дискуссии](https://vk.com/wall-169634550_3041)
-    
+
     Philosophy behind freedom of religion and conscience
         * [Philosophie – AnthroWiki](https://anthrowiki.at/Philosophie)
         * [https://europhilomem.hypotheses.org/files/2013/11/Formen-der-Negativität-Nichts-Leere-Tod-Formes-de-négativité-néant-vacuité-mort.pdf](https://europhilomem.hypotheses.org/files/2013/11/Formen-der-Negativit%C3%A4t-Nichts-Leere-Tod-Formes-de-n%C3%A9gativit%C3%A9-n%C3%A9ant-vacuit%C3%A9-mort.pdf)
@@ -4719,7 +4719,7 @@ Zwingli
         * http://www.lecturasinegoismo.com/2018/04/tensiones-filosoficas-tomas-abraham.html
         * [Сноб](https://snob.ru/)
         * [Podcast | Radio 1](http://www.radio1.ch/de/podcast/doppelpunkt--8)
-    
+
     - [**Denken in Hoher Luft - Philosophie - Bremen Zwei - Radio Bremen](http://www.radiobremen.de/bremenzwei/sendungen/podcast-lab/denken-in-hoher-luft102.html)
         * [Historycast si aggiudica il titolo di miglior podcast italiano del 2010 | Filosofia &amp; Storia](https://filstoria.hypotheses.org/5243)
         * [podcast di storia | Filosofia &amp; Storia](https://filstoria.hypotheses.org/tag/podcast-di-storia)
@@ -4745,12 +4745,12 @@ Zwingli
         * https://culturalpolitics.net/popular_culture
         * https://www.bioeticadesdeasturias.com/p/publicaciones.html
         * http://www.josesancheztortosa.com/
-    
+
     Quelque Grammes de Philo
         * http://theoatmeal.com/comics/believe
         * http://eleternoestudiante.com/libros-historia-grecia-roma-pdf/
         * http://www.libertadypensamiento.com/2017/09/libros-de-filosofia-en-pdf-para-descargar-gratis.html?m=1
-    
+
     (Tr)oppressé
         * https://www.youtube.com/playlist?list=PLSoP62RB3ymnt6ct60SF-2ZsSpC_Mbrjv
         * [Coursera - Introduction to Philosophy](https://www.coursera.org/learn/philosophy/home/welcome)
@@ -4777,10 +4777,10 @@ Zwingli
         * [Massimo Pigliucci Italian](https://www.youtube.com/results?search_query=Massimo+Pigliucci+italiano)
         * [Max Tegmark interview svenska](https://www.youtube.com/results?search_query=max+tegmark+interview+svenska)
         * [Предмет и спецификация философии](https://www.youtube.com/watch?v=ZZJnNUqU5tw)
-    
+
     - [**Library Genesis: Kai Peter Denker - Topologie der Kontrolle? Mathematisierbarkeit mit Deleuze](https://libgen.is/book/index.php?md5=7B64FD6926413FF5785A32E122D8834C)
     - [**Иммануил Кант — Сочинения на немецком и русском языках](https://vk.com/wall-30268849_1556)
-    
+
     analysis of craig vs carroll - Cerca con Google
         * [CONFUCIUS – La Grande Étude (FR) - YouTube](https://www.youtube.com/watch?v=tR_oQN2YkA8&list=PLXRGGLyzzHHA_QIdiJiP932qCB7eh2Xgk)
         * [Fab Lab: La revolución de los conocimientos. | Trinidad Gómez | TEDxCancún - YouTube](https://www.youtube.com/watch?v=8SzxEM1gAkA)
@@ -4804,9 +4804,9 @@ Zwingli
         * [O empirismo de David Hume – Pensamento Extemporâneo](http://pensamentoextemporaneo.com.br/?p=640)
         * [O que é Filosofia? - Toda Matéria](https://www.todamateria.com.br/o-que-e-filosofia/)
         * [O QUE É O TEMPO? - YouTube](https://www.youtube.com/watch?v=akvhD9BVL0c&feature=youtu.be)
-    
+
     Ökonomie contra Philosophie mit Richard David Prechtde Kosake van Ze
-    
+
     On the Relationship Between Science and Humanities, John Grayde Copernicus Center for Interdisciplinary Studies
         * [Ordinary people seem not to realize that those who really apply themselves in the right way to philosophy are directly and of their own accord preparing themselves for dying and death. - Socrates - BrainyQuote](https://www.brainyquote.com/quotes/socrates_402550)
         * [Overcoming the Apathy Induced by the Current Irrelevance of Philosophy on JSTOR](https://www.jstor.org/stable/25670247?seq=1#page_scan_tab_contents)
@@ -4816,12 +4816,12 @@ Zwingli
         * [Pedro Insua - Dialéctica y revolución](https://www.youtube.com/watch?v=vfJzmhaldMM&feature=share)
         * [Philosophie - Woher kommt das Neue?](https://vk.com/doc448658071_460362015?hash=2ca15166e5ece74827&dl=127f79365087ab3614)
         * [Pourquoi pas tous des bisounours ? - morale #3 - YouTube](https://www.youtube.com/watch?v=XY1PUQ4NOuU)
-    
+
     S. R. C. Hicks - Explaining Postmodernism: Skepticism and Socialism from Rousseau to Foucault
         * [The Philosophy of Spinoza & Leibniz - YouTube](https://www.youtube.com/watch?v=SxGuoyxyKMA)
         * [The Physics : Aristotle : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/aristotle_physics/page/n5)
         * [The Principle of Non-Contradiction | Philosophy Resurrection](https://philosophyresurrection.wordpress.com/2017/11/26/the-principle-of-non-contradiction/)
-    
+
     The Privilege Of Existential Guilt – The Establishment
         * [The Quietus | Features | Tome On The Range | Myth Congeniality: John Gray Interviewed](http://thequietus.com/articles/12496-john-gray-silence-of-animals-interview)
         * [The relentless honesty of Ludwig Wittgenstein | Ian Ground](https://www.the-tls.co.uk/articles/public/ludwig-wittgenstein-honesty-ground/?CMP=Sprkr-_-Editorial-_-TimesLiterarySupplement-_-ArtsandCulture-_-JustTextandlink-_-Statement-_-Unspecified-_-FBPAGE)
@@ -4836,7 +4836,7 @@ Zwingli
         * [Vol. 17 - anno 2008 - Fascicolo 1 | Acta Philosophica](http://www.actaphilosophica.it/en/issue-2008-1)
         * [Warum brauchen wir noch heute oder gerade heute Philosophie?](https://www.thur.de/philo/tanja/philo.htm)
         * [Warum gibt es eine Welt? Fragen an die Philosophie](http://www.hg-klug.de/relphil/warum/warum.html)
-    
+
     Was bewegt Menschen dazu, schlecht zu sein?
         * [Was ist der Mensch? : stadtrevue.de](http://www.stadtrevue.de/archiv/artikelarchiv/2504-was-ist-der-mensch/)
         * [Was ist eigentlich Ethik? -](http://www.3sat.de/page/?source=/philosophie/159959/index.html)
@@ -4844,9 +4844,9 @@ Zwingli
         * [Was ist ein Naturgesetz? - Planckton](http://blogs.faz.net/planckton/2018/03/02/was-ist-ein-naturgesetz-1748/)
         * [Wenn das Wörtchen «wenn» nicht wär ... | ethos Magazin](http://ethos.ch/blog/wenn-das-w%C3%B6rtchen-%C2%ABwenn%C2%BB-nicht-w%C3%A4r)
         * [What are the different types of ethical systems? | Reference.com](https://www.reference.com/world-view/different-types-ethical-systems-849b5729e068ebc2)
-    
+
     What philosophy books and papers do you constantly return to and why? : askphilosophy
-    
+
     Why isn't utilitarianism more popular? : askphilosophy
         * [Why You Should Prosper Even Though There's Suffering in the World](https://tinybuddha.com/blog/why-you-should-prosper-even-though-theres-suffering-in-the-world/)
         * [William E. Seager - Department of Philosophy - University of Toronto](http://philosophy.utoronto.ca/directory/william-e-seager/)
@@ -4857,44 +4857,44 @@ Zwingli
         * [www.ntu.edu.sg/home/ykng/Ng1972.pdf](http://www.ntu.edu.sg/home/ykng/Ng1972.pdf)
         * [Большие Дебаты «Эволюция VS креационизм» Соколов vs Буфеев 19 10 2018 - YouTube](https://www.youtube.com/watch?v=OGSrCBudbw8)
         * [Дао Дэ Цзин». Комментарий Патриарха чань-буддизма Ханьшань Дэцина (RU,ZH)](https://vk.com/doc30601958_478666563?hash=6360557604d5733199&dl=200235ec617b9c2f0b)
-    
+
 * Reading (8)
         * http://www.liveinternet.ru/users/4144431/post168691673/
         * http://www.uah.edu/woolf/feminism_kinds.htm
         * [Женщины-мыслители, мнения и взгляды](http://www.tebyan.net/index.aspx?pid=66427)
         * [THE DETERMINISM AND FREEDOM PHILOSOPHY WEBSITE](http://www.ucl.ac.uk/~uctytho/dfwIntroIndex.htm)
         * [Epoch-making Eratosthenes](http://shot.holycross.edu/courses/Time/S10/pdfs/Moller.pdf)
-    
+
     Geschichte der Philosophie (4): Aristoteles (Fortsetzung), Prof. Dr. Torsten Wilholt - YouTube
         * [Los orígenes del pensamiento filosófico. Los filósofos presocráticos - YouTube](https://www.youtube.com/watch?v=EgQJhP8GB1c)
         * [Les exercices spirituels antiques et l’héritage de Pierre Hadot 1/8 - YouTube](https://www.youtube.com/watch?v=h8UYutTaY0A&list=PLmoGGuHQ4XYsDPKTlRNz7VF3BgfAkLNyT)
         * [Pierre Bayle - Wikipedia](https://en.wikipedia.org/wiki/Pierre_Bayle)
-    
+
     Made to Stick (Chip Heath)
         * [George Carlin - Euphemisms - YouTube](https://www.youtube.com/watch?v=vuEQixrBKCc)
         * [George Carlin on gays - YouTube](https://www.youtube.com/watch?v=VjVeWvdogMw)
         * [George Carlin on some cultural issues. - YouTube](https://www.youtube.com/watch?v=YLuZjpxmsZQ)
-    
+
     George Carlin: The Illusion Of Choice - YouTube
         * http://www.wired.com/2011/04/ff_humorcode/
         * [Acta Philosophica: Rivista Internazionale di Filosofia - PhilPapers](https://philpapers.org/pub/5795)
         * [Epoché (ἐποχή)](https://epochemagazine.org/)
         * http://www.tomasabraham.com.ar/
-    
+
     tensiones filofóficas, tomas abrahám
         * https://b-ok.cc/s/anthony%20weston
         * [Анатолий Карлин](https://akarlin.ru/start/)
-    
+
     Філософія музики - YouTube
         * [Douleurs physiques, douleurs morales](http://www.martinwinckler.com/spip.php?article1022)
         * [Pain and Philosophy of the Mind](https://s3.amazonaws.com/rdcms-iasp/files/production/public/Content/ContentFolders/Publications2/PainClinicalUpdates/Archives/PCU07-5_1390262983927_12.pdf)
         * [Quel dolore che nessuno ascolta](http://www.cosmopolitan.it/benessere-salute/prevenzione/suggerimenti/a111195/dolore-femminile-nessuno-ascolta/)
         * [Simona Di Nitto, Il dolore fisico nella riflessione filosofica (Dialegesthai)](https://mondodomani.org/dialegesthai/sdn01.htm)
-    
+
     intro to leftist thought
         * http://www.listmuse.com/best-anarchist-communist-socialist-books.php
         * [Distributive Justice (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/justice-distributive/#Difference)
-    
+
     philosophy of ethics and taxation
         * [Why You Should Be a Socialist](http://libgen.rs/book/index.php?md5=A7F2D5F0F147EB195914266D03BF1F90)
         * https://moneyontheleft.org/2021/07/05/the-mark-of-fascism-lebensraum-for-the-left/
@@ -4910,7 +4910,7 @@ Zwingli
         * [Habiter l'espace - Habiter le temps - S'habiter soi-même - YouTube](https://www.youtube.com/watch?v=-C7FTSPTMAk)
         * [L'eredità della scuola di Francoforte - YouTube](https://www.youtube.com/watch?v=JDo9ighqfhw)
         * [Le libéralisme politique de John Rawls - Politikon #1 - YouTube](https://www.youtube.com/watch?v=xqfB844lV4k)
-    
+
     -  https://www.reddit.com/r/Feminism/comments/166i8a/a_short_introduction_to_feminist_movements/
         * [Современный анархизм, соотношение теории и практики (критический взгляд) - AKRATEIA](https://akrateia.info/sovremennyi-anarkhizm-sootnoshenie-teorii-i-praktiki-kriticheskii-vzgliad/)
         * [Les idées mènent le monde #18 - La pensée politique de Jean-François Lisée - YouTube](https://www.youtube.com/watch?v=SZIjLouFxvA)
@@ -4921,23 +4921,23 @@ Zwingli
         * [Philosophy of Science](http://libgen.rs/search.php?&req=philosophy+of+science&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
         * [La problème stoïcien : la possibilité de la vie de vertu (7/12) - YouTube](https://www.youtube.com/watch?v=Rhaf2R-t1yw)
         * http://www.marketfaith.org/the-seven-questions-that-define-a-worldview/
-    
+
     Философия XXI века. Идеи и тренды. 5/5
-    
+
     Что значит "Оруэлловский"? [TED-ED]de In Cor Cadit
-    
+
 * Reading (9)
         * [teachings of the Buddha - books](https://libgen.is/search.php?req=teachings+of+the+buddha&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
-    
+
     do animals have free will?
         * [Wie einzigartig ist der Mensch?: Die lange Evolution der Gehirne und des Geistes](https://b-ok.cc/book/4241737/b18b67)
         * https://www.psychologytoday.com/us/blog/theory-knowledge/201306/virtue-and-the-four-types-character
         * [Gerechtigkeit](https://www.spektrum.de/lexikon/philosophie/gerechtigkeit/793)
-    
+
     Nationalsozialistische Ideologie und Ethik
         * [Ling & filo](https://vk.com/wall-6827569_23952)
         * https://universoracionalista.org/o-que-e-a-filosofia-da-fisica/
-    
+
     aesthetics and nature
         * [DARK - Los viajes en el tiempo y la LIBERTAD [Análisis filosófico]](https://youtu.be/5kaUeS56HLE)
         * [Ethos der Weltkulturen. Religion und Ethik](https://b-ok.cc/book/1167248/7c563f)
@@ -4947,17 +4947,17 @@ Zwingli
         * https://de.wikipedia.org/wiki/Daoismus
         * [Dhammapada | Search | HBLL](https://search.lib.byu.edu/byu/search?q=Dhammapada&type=book)
         * https://www.livelib.ru/book/1000209109/quotes-dao-vinnipuha-bendzhamen-hoff
-    
+
     - [**Московский центр исследований сознания — HardProblem.](http://hardproblem.ru/lang-pref/ru/)
         * [THE MIND-BODY PROBLEM](http://human-nature.com/rmyoung/papers/pap102h.html)
         * [Gaidar - Русский либерализм](http://gaidar.center/)
         * [Буддизм](https://vk.com/wall-6827569_21538)
         * [TAOÍSMO | El arte de la no acción](https://www.youtube.com/watch?v=tLAZvESoVgI&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=112)
-    
+
     TAOÍSMO | La Filosofía de Flujo
         * [Antisemitismo: un análisis](https://www.youtube.com/watch?v=KAFbpWVO-ow&list=WL&index=1371&t=167s)
         * [Anand Giridharadas: How bias actually works at MSNBC, New York Times](https://www.youtube.com/watch?v=11WDbwZfiw8&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=113)
-    
+
     Daoismus
         * [The Philosophy of The Good Place – Wisecrack Edition](https://www.youtube.com/watch?v=stHk4_VePds&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=13)
         * [2 - Brève histoire du féminisme](https://www.youtube.com/watch?v=wSDcog4-gig&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=71)
@@ -4998,7 +4998,7 @@ Zwingli
         * [Le Monde De Sophie. Roman Sur L'histoire De La Philosophie (Points (Editions Du Seuil)) (French Edition) | Jostein Gaarder | download](http://b-ok.cc/book/980077/1b2a42)
         * [Rotterdamse Debatnacht: Bestaat god? zaterdag 21 december 2013 - YouTube](https://www.youtube.com/watch?v=kTMiTjhrY2Q)
         * [Climate Matters: Ethics in a Warming World (Norton Global Ethics Series)](https://libgen.is/book/index.php?md5=3C1849AF3289BAB50A2B11D07C097C41)
-    
+
     Ethics of Plane Travel
         * [Fast Forward: Ethics and Politics in the Age of Global Warming](https://libgen.is/book/index.php?md5=16012BDCDE4FF82C779856A0A4770C7B)
         * https://economictimes.indiatimes.com/news/international/world-news/is-visiting-your-family-bad-for-the-planet/articleshow/87883011.cms
@@ -5006,9 +5006,9 @@ Zwingli
         * https://www.bbc.com/future/article/20200218-climate-change-how-to-cut-your-carbon-emissions-when-flying
         * https://www.reddit.com/r/solotravel/comments/bqkee4/is_plane_travel_ethicalresponsible/
         * https://www.vox.com/the-highlight/2019/7/25/8881364/greta-thunberg-climate-change-flying-airline
-    
+
     The New Climate War: The Fight to Take Back Our Planet
-    
+
 * Reading (10)
         * http://deoxy.org/meme/Cognitive_Bias
         * http://forums.philosophyforums.com/threads/very-basic-terms-of-logic-6816.html
@@ -5061,7 +5061,7 @@ Zwingli
         * http://www.wisdoms.ru/avt/b222.html
         * https://it.wikipedia.org/wiki/Alain_Finkielkraut
         * [Платон. КРАТИЛ](http://psylib.org.ua/books/plato01/18krati.htm)
-    
+
     Why is it that so many philosophy students tend to be marxists while most economics students seem to not take him seriously? : askphilosophy
         * [Are Soas students right to ‘decolonise’ their minds from western philosophers? | Education | The Guardian](https://www.theguardian.com/education/2017/feb/19/soas-philosopy-decolonise-our-minds-enlightenment-white-european-kenan-malik)
         * [Эго туннель — наука о сознании и миф о самом себе](https://www.livelib.ru/work/1001236966/reviews-ego-tunnel-nauka-o-soznanii-i-mif-o-samom-sebe-tomas-mettsinger)
@@ -5069,7 +5069,7 @@ Zwingli
         * http://philipphuebl.com/
         * https://karenswallowprior.com/
         * [Peut-on être communiste et objectif, par Usul - YouTube](https://www.youtube.com/watch?v=h_u8J1bAZ5Q)
-    
+
     - [PhiloLog](https://www.philolog.fr/)
     - [PhiloLog](https://www.philolog.fr/)
     - [**Philosophie.ch - Logique formelle](https://www.philosophie.ch/fr/philosophie-fr/domaines/philosophie-theorique/logique)
@@ -5089,7 +5089,7 @@ Zwingli
         * https://www.opednews.com/articles/Jonathan-Haidt-on-the-Righ-by-Thomas-Farrell-120321-348.html
         * https://www.thenewatlantis.com/publications/the-evolutionary-ethics-of-e-o-wilson
         * https://www.youtube.com/watch?v=nYDdsgDmS-w
-    
+
     Sind Kriege gerecht? - Schülervideo - YouTube
         * [Tischner Debate - On Liberalism - YouTube](https://www.youtube.com/watch?v=K0D1RMwo9go)
         * [What do conservatives get wrong about abortion?](https://www.google.com/search?q=what+do+conservatives+get+wrong+about+abortion&rlz=1CDGOYI_enUS835US835&oq=what+do+conservatives+get+wrong+about+abortion&aqs=chrome..69i57.9430j0j4&hl=it&sourceid=chrome-mobile&ie=UTF-8#ip=1)
@@ -5124,12 +5124,12 @@ Zwingli
         * https://infokiosques.net/IMG/pdf/Le_Mythe_du_Progres_LIVRET-2.pdf
         * https://learningsuite.byu.edu/.2CDD/cid-Fwnsoonplaxk/student/gradebook
         * https://wordpress.com/post/rus422winter2017.wordpress.com/148
-    
+
     > https://www.google.com/search?q=argumente+gegen+monogamie&rlz=1C5CHFA_enUS800US800&oq=argumente+gegen+monogamie&aqs=chrome..69i57.4313j0j4&sourceid=chrome&ie=UTF-8
         * [Comment le STOICISME vous rendra plus HEUREUX et RATIONNEL ! - YouTube](https://www.youtube.com/watch?v=9L37SJq1Pt4)
-    
+
     Discourses and selected writings
-    
+
     Enchiridion
         * http://booksdescr.org/item/index.php?md5=2B8BA6FB723A876FF2B0884195EC08F6
         * http://epicurus.net/
@@ -5139,9 +5139,9 @@ Zwingli
         * https://it.m.wikipedia.org/wiki/Manuale_di_Epitteto?wprov=sfti1
         * https://modernstoicism.com/stoic-texts-online/
         * https://www.reddit.com/r/Stoicism/wiki/faq#wiki_what_are_some_recommended_starting_points_for_newcomers_to_stoicism.3F
-    
+
     Letters from a Stoic
-    
+
     Meditations
         * [Талеб Нассим Николас - Чёрный лебедь. Под знаком непредсказуемости. Слушать аудиокнигу онлайн](https://audioknigi.club/taleb-nassim-nikolas-chernyy-lebed)
         * http://matpalm.com/blog/2011/08/13/wikipedia-philosophy/
@@ -5154,7 +5154,7 @@ Zwingli
         * [Western Civilization: Ideas, Politics, and Society, Volume II: From 1600 | Marvin Perry, Margaret Jacob, James Jacob, Myrna Chase, Theodore H. Von Laue | download](https://b-ok.cc/book/1163404/3a8410)
         * [Western Civilization: Ideas, Politics, and Society: Since 1400 | Marvin Perry, Margaret Jacob, James Jacob, Myrna Chase, Theodore H. Von Laue | download](https://b-ok.cc/book/2086054/759631)
         * https://www.sociologyofbeauty.nl/
-    
+
 * IAI
         * [Work and play](https://iai.us4.list-manage.com/track/click?u=5498751378b600bac07540f91&id=f7704c1336&e=c2b5e608e5)
         * [Do we still need morality?](https://iai.us4.list-manage.com/track/click?u=5498751378b600bac07540f91&id=e9e6d6cb17&e=c2b5e608e5)
@@ -5226,7 +5226,7 @@ Zwingli
         * https://iai.tv/articles/why-sexual-morality-does-not-exist-auid-1212
         * https://iai.tv/articles/should-i-kill-myself-or-have-a-cup-of-coffee-the-stoics-and-existentialists-agree-on-the-answer-auid-924
         * https://iai.tv/articles/hobbes-vs-rousseau-are-we-inherently-evil-or-good-auid-1221
-    
+
 * Abortion
         * https://www.currentaffairs.org/2018/08/abortion-and-the-left
         * https://www.firstthings.com/web-exclusives/2019/11/why-john-bel-edwards-wins
@@ -5259,7 +5259,7 @@ Zwingli
         * https://www.pewforum.org/2008/09/30/abortion-laws-around-the-world/
         * [Полемика вокруг проблемы аборта](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B5%D0%BC%D0%B8%D0%BA%D0%B0_%D0%B2%D0%BE%D0%BA%D1%80%D1%83%D0%B3_%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B_%D0%B0%D0%B1%D0%BE%D1%80%D1%82%D0%B0)
         * https://www.utm.edu/staff/jfieser/class/300/5-abortion.htm
-    
+
 * Video
         * [Durf te Denken](https://www.youtube.com/playlist?list=PLEp-wqLXEURMt1Jati2pxe9BjNMNDzA0b)
     * [Monsieur Phi](https://www.youtube.com/c/MonsieurPhi)
@@ -5286,7 +5286,7 @@ Zwingli
     * [The Institute of Art and Ideas](https://www.youtube.com/user/IAITV)
     * [The School of Life](https://www.youtube.com/c/theschooloflifetv)
     * [Debatte Gott](https://www.youtube.com/watch?v=PHwWQyDxiAc)
-    
+
 * Contre-histoire
         * [Contre-histoire de la philosophie 1a](https://vk.com/wall-98831559_23)
     * [Contre-histoire de la philosophie 1b](https://vk.com/wall-98831559_40)
@@ -5414,7 +5414,7 @@ Zwingli
         * http://www.litteratureaudio.com/livre-audio-gratuit-mp3/littre-emile-%e2%80%93-pathologie-verbale-ou-lesions-de-certains-mots-dans-le-cours-de-lusage-oeuvre-integrale.html
         * http://www.litteratureaudio.com/livre-audio-gratuit-mp3/abelard-pierre-lettre-a-un-ami.html
         * http://www.litteratureaudio.com/livres-audio-gratuits-mp3/tag/henri-bergson
-    
+
 * Books
         * [Il cristianesimo edonista. Controstoria della filosofia II [1 ed.]](http://libgen.is/book/index.php?md5=C0F4D223747A22E6CE8CC7FC8B2C07F1)
     * [Il cristianesimo edonista. Controstoria della filosofia II [1 ed.]](http://libgen.is/book/index.php?md5=627667A721432CD585F8D9BF89FB9363)
@@ -5972,7 +5972,7 @@ Zwingli
     * [Los siete mitos de la conquista espanola.pdf - Google Drive](https://drive.google.com/file/d/1apUme799gQ6K_a-seYB-0Ydvzp9Jy9l-/view)
 
 
-        
+
 * Blogs
         * [Chomsky](https://chomsky.info/)
     * [Philosophia Perennis – Ein Blick auf die Welt mit von der philosophia perennis geschärften Augen](https://philosophia-perennis.at/)
@@ -6181,9 +6181,9 @@ Zwingli
     * [EL ARTE DE LA GUERRA DE SUN TZU- RESUMEN ANIMADO - YouTube](https://www.youtube.com/watch?v=raBbZ8vcBNk)
 
 
-    
-    
-        
+
+
+
     Yuval Noah Harari
     * [Yuval Noah Harari & Natalie Portman - YouTube](https://www.youtube.com/watch?v=87XFTJXH9sc)
     * [Гость Юваль Ной Харари. Познер. Выпуск от 24.06.2019 - YouTube](https://www.youtube.com/watch?v=cr2o6EWdq9A)
@@ -6345,7 +6345,7 @@ Zwingli
     * [Айрис Мёрдок - Поиск в Google](https://www.google.com/search?rlz=1C1GCEA_enUS828US828&q=%D0%90%D0%B9%D1%80%D0%B8%D1%81+%D0%9C%D1%91%D1%80%D0%B4%D0%BE%D0%BA&stick=H4sIAAAAAAAAAOOQU-LQz9U3SE9JL4ySzs0vLlFIzcvKr0xMyklVKMjIzMkvzi_ISC0qPsUIVmdimpQOZYK0nGLkAjGNzJLLivJOMXJClJhnJD9i9OUWePnjnrCUy6Q1J68x2nFxhacmOeYVlwPNEjLg4gosTS2qdM5JLC4WUuISkOLx8QwOiQ92dfX29HPXYJTi40IR4fnFKOmYnJxflJKZl65Qkq-QlJ-fXZSZX6KXnJ_7i4kj3tUvxDMkMn4Ss2tGSUlBsZW-PrIKfSMDQ1OgM_UNTPXTMstSddNK83ThvqvUBakt1q1MLdYtSk3MyanUBwAiOGfgFwEAAA&sa=X&ved=2ahUKEwjIztznx6rfAhVGHTQIHaASB34QxA0wAHoECAcQBw&biw=929&bih=932)
 
 
-        
+
 * John Gray
         * [John Gray - On the Relationship Between Science and Humanities | Listen Notes](https://www.listennotes.com/podcasts/intellectual-dark/john-gray-on-the-8TBjD6Msb0k/)
     * [John Gray - Science and Magic - YouTube](https://www.youtube.com/watch?v=Z-z9gSg1ZF8)
@@ -6458,10 +6458,10 @@ Zwingli
 
 
 * Philo
-        * [Sex and Death: An Introduction to Philosophy of Biology](http://library.lol/main/4E270AE18E7EF6E915BEE919C8CC55DE) 
-        * [Philosophy of Love, Sex, and Marriage: An Introduction](http://library.lol/main/18A4C7B24CB1FCB889DFAB409B9DEB0F) 
-        * http://libgen.rs/search.php?&req=philosophy+of+sex&phrase=1&view=simple&column=def&sort=year&sortmode=DESC 
-    
+        * [Sex and Death: An Introduction to Philosophy of Biology](http://library.lol/main/4E270AE18E7EF6E915BEE919C8CC55DE)
+        * [Philosophy of Love, Sex, and Marriage: An Introduction](http://library.lol/main/18A4C7B24CB1FCB889DFAB409B9DEB0F)
+        * http://libgen.rs/search.php?&req=philosophy+of+sex&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+
 * http://www.apaonline.org/general/recommended_links.asp
 
 <SORTED>
@@ -6474,19 +6474,19 @@ Zwingli
     - Video
     - Notes
     - People
-    
+
 * People
         * [***Michael Gazzaniga](https://libgen.is/search.php?&req=Michael+Gazzaniga&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
         * [***Stanislas Dehaene](https://libgen.is/search.php?&req=Stanislas+Dehaene&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
         * [****Susan Blackmore](https://b-ok.cc/g/Susan%20Blackmore)
         * [**James H. Austin](https://b-ok.cc/g/James%20H.%20Austin)
         * [Aspen Gamlund](https://sites.google.com/site/espengamlund/)
-    
+
 * Top References
         * https://philpapers.org/
         * http://plato.stanford.edu/
         * https://encyclo-philo.fr/
-    
+
 * General Sites on Philosophy
         * https://www.historyofphilosophy.net/
         * http://www.philosophybasics.com/general.html
@@ -6520,7 +6520,7 @@ Zwingli
         * http://www.arabphilosophers.com/Arabic/aservices/aphilosophy-sites/aphilosophy-sites.htm
         * http://www.vphil.ru/
         * [****Aula de Filosofía de Eugenio Sánchez Bravo – Abrir puertas a la filosofía desde la literatura, el cine, el arte, la música, la televisión, la ciencia…](https://auladefilosofia.net/)
-    
+
     *The Linguistic Turn: Essays in Philosophical Method*
         * http://www.mbradtke.de/ph002.htm
         * [Философский форум. - Главная страница](http://intencia.ru/forum/)
@@ -6541,7 +6541,7 @@ Zwingli
         * [**Courants de la philosophie – La-Philosophie.com : Cours, Résumés &amp; Citations](https://la-philosophie.com/courants-philosophie)
         * [**CONVIVIO: FILOSOFIA (in Italiano)](https://vk.com/filosofia_in_italiano)
         * [Philosophy and Information Technology at philo.de](http://www.philo.de/)
-    
+
 * Media, Publications
         * [Vista de Vol. 6 Núm. 8 (6)](http://revistaodos.com/revista/index.php/odos/issue/view/11/Revista%20de%20Filosof%C3%ADa%20%E1%BD%89%CE%B4%E1%BD%B9%CF%82%208)
         * [Revista Replicante](http://revistareplicante.com/)
@@ -6552,7 +6552,7 @@ Zwingli
         * [Philosophie - L&#39;Obs Actualités](http://tempsreel.nouvelobs.com/tag/philosophie)
         * [The Filos!!!: La Filosofía hecha Blog](http://thefilos.blogspot.com/)
         * [The Opinionator by Irma Zandl | Trends. Business. Media. Culture. | Trends at the intersection of business, media and culture](http://theopinionator.com/)
-    
+
     **[*Philosophers&#39; Mail](http://thephilosophersmail.com/)
         * [THE QUESTION | The Question | West Virginia University](http://thequestion.wvu.edu/home)
         * [Universo da Filosofia | Expandindo o Conhecimento.](http://universodafilosofia.com/)
@@ -6627,21 +6627,21 @@ Zwingli
         * https://philosophischleben.wordpress.com/
         * [LES GRANDES QUESTIONS DE LA VIE - Voici quelques grandes questions de la vie : Qui suis-je ? Où vais-je ? Qu&#39;est-ce que la mort - Pourquoi souffrons-nous ? Quelle est ma fonction sur Terre ? S&#39;interroger est la condition de notre conscience, nous devons](http://lesgrandesquestionsdelavie.over-blog.com/)
         * [Varia](http://www.zulio.org/journal/)
-    
+
 * Dictionaries
         * [Філософський словник (словник) - Філософія - Архів якісних рефератів](http://5ka.at.ua/load/filosofija/filosofskij_slovnik_slovnik/66-1-0-9370)
         * [grand_dictionnaire_de_la_philosophie_pdf](http://aefe-madagascar.histegeo.org/IMG/pdf/grand_dictionnaire_de_la_philosophie.pdf)
         * [Dizionari di Filosofia](http://host.uniroma3.it/progetti/kant/online/dizencglos/dizionari.html)
         * [Filosofiya_slovnik.pdf](http://udhtu.edu.ua/public/userfiles/file/Filosofiya_slovnik.pdf)
         * [IT.pdf](http://www.ilgiardinodeipensieri.eu/testi/dif_1_29_01_12.pdf)
-    
+
 * Books
         * [Consciousness and the Universe: Quantum Physics, Evolution, Brain & Mind | Roger Penrose; Stuart Hameroff; Ellen Langer; R. Gabriel Joseph; Chris J. S. Clarke; L. Dossey; Ernest Lawrence Rossi; Gian Carlo Ghirardi; Peter Sturrock; Edgarl D. Mitchel; Chris King; Walter J. Freeman; Don Page; Henry P. Stapp; Fred Kuttner; Michael B | download](https://b-ok.cc/book/5329215/e8bf07)
         * [Historia philosophiae graecae et Romanae ex fontium locis contexta; : Ritter, Heinrich : Free Download &amp; Streaming : Internet Archive](https://archive.org/details/historiaphilosop00rittuoft)
         * [Historia philosophiae graecae : testimonia auctorum conlegerunt notisque instruxerunt : Ritter, Heinrich, 1791-1869 : Free Download &amp; Streaming : Internet Archive](https://archive.org/details/historiaphilosop00ritt)
         * [How the Neoliberalization of Academia Leads to Thoughtlessness: Arendt and ... - Justin Pack - Google Книги](https://books.google.com/books?id=s9BwDwAAQBAJ&pg=PA98&lpg=PA98&dq=myopic+hyperspecialization&source=bl&ots=PCE_e3d5Wz&sig=hgoKDizt_bXJhE4djVgabFGor8w&hl=ru&sa=X&ved=2ahUKEwjo8-OL8qLfAhVEyFQKHZCtA3wQ6AEwBXoECAkQAQ#v=onepage&q=myopic%20hyperspecialization&f=false)
         * [600 citations pour bien réflichir avantd_agir.pdf](https://vk.com/doc6234312_452023767?hash=34393c293cbc38f80b&dl=10b44d6213a16b7679)
-    
+
 * Consciousness
         * [The conscious mind: in search of a fundamental theory | David J. Chalmers | download](https://b-ok.cc/book/511970/bfade6?dsource=recommend)
         * [*The New Science of Consciousness: Exploring the Complexity of Brain, Mind, and Self | Paul L. Nunez | download](https://b-ok.cc/book/2927197/b321b1)
@@ -6653,7 +6653,7 @@ Zwingli
         * http://www.philosophie.uni-mainz.de/metzinger/publikationen/Bewusstsein_2008_prefinal.pdf
         * [****The Intellectual Landscape:](https://faculty.unlv.edu/beisecker/Courses/Phi-352/PhilMindOverview.htm)
         * [Home | dasGehirn.info - der Kosmos im Kopf](https://www.dasgehirn.info/)
-    
+
 * YouTube
         * [Философия - YouTube - YouTube](https://www.youtube.com/playlist?list=PLhMkqRn14YG_hfg4BaSAmVGXcthwAVbvD)
         * [FilosofíaTv - YouTube](https://www.youtube.com/channel/UCKVRnYq1wVPlqB_ZlKgMvJg)
@@ -6692,12 +6692,12 @@ Zwingli
         * [Quem Somos Nós?](https://www.youtube.com/channel/UCIj7UmUVFTFC9yXNiZoRmEg)
         * [Provocações Filosóficas](https://www.youtube.com/channel/UCdsosII3oC_jGwi7NNxTbeQ)
         * [Human - YouTube](https://www.youtube.com/user/omroepHUMAN/playlists)
-    
+
 * Podcast
         * [50 Best Philosophy Podcasts | Student Guide](http://www.studentguide.org/50-best-philosophy-podcasts/)
         * [Simone et les philosophes - Le podcast préféré de Socrate](http://simoneetlesphilosophes.fr/)
         * http://live.audials.com/de#!podcast
-    
+
 * Fora
         * [Portal Raízes](https://www.portalraizes.com/)
         * [Forum de Philosophie - Portail](https://www.forumdephilosophie.com/)
@@ -6708,7 +6708,7 @@ Zwingli
         * [Philo Libre Expression: Débat de philosophie sur internet, forum de philosophie en ligne, discussion philosophique](https://philolibreexpression.fr/)
         * [**Philo Libre Expression: philosophie par internet, discussion philosophique en ligne, Cercle philosophique sur internet](https://philolibreexpression.fr/philosophie-sur-internet-debats-themes-discussions-philosophiques-en-ligne-philo-libre-expression)
         * [Philo-Welt.de | Philosophie Forum](http://philo-welt.de/forum/)
-    
+
 * Other General Sites to Read
         * [Information Philosophie - Die Zeitschrift, die über Philosophie informiert](http://www.information-philosophie.de/)
         * [most important philosophical questions - Поиск в Google](https://www.google.com/search?q=most+important+philosophical+questions&rlz=1C1GCEA_enUS820US820&oq=most+important+philosophical+questions&aqs=chrome..69i57j0.7856j0j7&sourceid=chrome&ie=UTF-8)
@@ -6760,46 +6760,46 @@ Zwingli
         * http://subject.com.ua/philosophy/philosophy/2.html
         * http://www.libraryforall.org/blog/2015/8/20/our-favorite-open-educational-resources
         * http://www.vitutor.com/index.html
-    
+
 * Courses
         * [Cours de philosophie - Programme de terminale](http://coursphilosophie.free.fr/index.php)
         * [Cours de philosophie - Programme de terminale](http://coursphilosophie.free.fr/index.php)
         * [Філософія | Prometheus](https://courses.prometheus.org.ua/courses/KPI/PHIL101/2016_T2/about)
-    
+
 * Misc Questions, 1-shot
         * [What are the different possible approaches to life? - Buscar con Google](https://www.google.com/search?q=What+are+the+different+possible+approaches+to+life%3F&rlz=1C5CHFA_enUS753US753&oq=What+are+the+different+possible+approaches+to+life%3F&aqs=chrome..69i57.7716j0j9&sourceid=chrome&ie=UTF-8)
-    
+
 
 
 * →
         * https://zestedesavoir.com/ site général
-    
+
 
 
 * [Religion of a Different Color: Race and the Mormon Struggle for Whiteness](http://library.lol/main/69321824457CDF2BF5513D5CF3D85CEE)
 * [philosophy: catapano critchley](http://libgen.rs/search.php?req=catapano+critchley&open=0&res=25&view=simple&phrase=1&column=def)
 * [How to Be Perfect: The Correct Answer to Every Moral Question](http://library.lol/main/1CFA22325B43E4764726AC82DAB6D2F8)
-* https://crisismagazine.com/opinion/a-left-wing-atheists-case-against-abortion 
+* https://crisismagazine.com/opinion/a-left-wing-atheists-case-against-abortion
 
 
 * idea evolution
-    
+
     # Today’s Game Plan
-    
+
     1. Hundreds Of Hours Of Research Uncovered The Idea Evolution Mental Model. I share the specific books, articles, and academic papers that helped me understand the idea evolution mental model.
     2. Countless Cases Of Idea Evolution. I share quotes from many of the greatest thinkers in history swearing
     by the power of idea evolution. Before adopting something new, it’s
     valuable to see how widely beneficial it is.
     3. The Idea Evolution Workflow (paid subscribers only). I share the specifics of how I completely reinvented my workflow based on the idea evolution mental model.
-    
+
     # Hundreds Of Hours Of Research Uncovered The Idea Evolution Mental Model
-    
+
     I started talking about the research behind idea evolution in [Tutorial: How To Package Other People's Video Clips So They Go Viral And People Pay For Them](https://link.sbstck.com/redirect/17bf0b75-2e91-47f7-aeb6-13e1e3bc6167?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY). In this post, I go deeper.
-    
+
     Once I saw the power of idea evolution, I started seeing it everywhere.
-    
+
     I saw it in many books, academic papers, and articles I was reading on creativity. Some ones that come to mind include:
-    
+
     - [Where Good Ideas Come From: The Natural History of Innovation](https://link.sbstck.com/redirect/f4547152-bd2e-4bbe-a135-dbb3124c1fde?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by [Steven Johnson](https://open.substack.com/users/1408434-steven-johnson?utm_source=mentions)
     - [The Romance Of Reality](https://link.sbstck.com/redirect/f4547152-bd2e-4bbe-a135-dbb3124c1fde?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by [Bobby Azarian](https://link.sbstck.com/redirect/c9cd0411-9b73-44f9-b0d0-10f6fd91fdb8?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY)
     - [The Diversity Bonus](https://link.sbstck.com/redirect/6a17f062-5ee1-496f-96b4-ea48521f7049?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by researcher Scott Page
@@ -6812,158 +6812,158 @@ Zwingli
     - [Borrowing Brilliance: The Six Steps to Business Innovation by Building on the Ideas of Others](https://link.sbstck.com/redirect/243c7677-2e9d-4d52-ad27-1f7a39b3d5be?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by David Kord Murray
     - [The Medici Effect](https://link.sbstck.com/redirect/97280e11-d5b3-4036-a749-006df8a4babb?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by Frans Johansson
     - [Decoding Greatness](https://link.sbstck.com/redirect/62cc2dd3-c53c-46af-95cd-0e6854a55520?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by Ron Friedman
-    
+
     And
-     I saw the mental model among greatest thinkers in history from 
-    mathematicians to economists to philosophers to entrepreneurs to 
+     I saw the mental model among greatest thinkers in history from
+    mathematicians to economists to philosophers to entrepreneurs to
     technology researchers to futurists…
-    
+
     # Countless Cases Of Idea Evolution
-    
+
     I
-     share all of the quotes below from famous thinkers so you can see the 
+     share all of the quotes below from famous thinkers so you can see the
     extent to which the idea evolution is embedded in many different fields.
-     These individuals aren’t outliers with a unique approach. Rather they 
+     These individuals aren’t outliers with a unique approach. Rather they
     are the norm of how creativity actually works.
-    
+
     ### Combinatorial creativity in mathematics
-    
+
     > “It is obvious that invention or discovery, be it in mathematics or anywhere else, takes place by combining ideas.”—Jacques Hadamard, Mathematician
-    > 
-    
+    >
+
     > “Ideas rose in crowds; I felt them collide until pairs interlocked, so to speak, making a stable combination.”—Henri Poincaré, Mathematician
-    > 
-    
+    >
+
     ### Combinatorial creativity in economics
-    
+
     > “Improvements in machinery [result from in part] combining together the powers of the most distant and dissimilar objects.”—Adam Smith
-    > 
-    
+    >
+
     > “To produce means to combine the things and forces within our reach.”—Joseph Schumpeter
-    > 
-    
+    >
+
     > “New
      technologies are never created from nothing. They are constructed – put
      together – from components that previously exist; and in turn these new
      technologies offer themselves as possible components – building blocks –
      for the construction of further new technologies.”—Economists Brian Arthur & Wolgang Polak
-    > 
-    
+    >
+
     ### Combinatorial creativity in invention
-    
+
     > “90 percent of inventions combine at least two codes, showing that invention is increasingly a combinatorial process.”—Dashun Wang & Albert-László Barabasi in Science Of Science
-    > 
-    > 
+    >
+    >
     > *“Creativity
-    >  is just connecting things. When you ask creative people how they did 
-    > something, they feel a little guilty because they didn’t really do it, 
+    >  is just connecting things. When you ask creative people how they did
+    > something, they feel a little guilty because they didn’t really do it,
     > they just saw something.”—*Steve Jobs
-    > 
-    
+    >
+
     > “Invention
-     finds its distinctive feature in the constructive assimilation of 
-    preexisting elements into new syntheses, new patterns, or new 
+     finds its distinctive feature in the constructive assimilation of
+    preexisting elements into new syntheses, new patterns, or new
     configurations of behavior.”—Abbott Payson, Researcher, History Of Mechanical Invention
-    > 
-    
+    >
+
     > The
-     great driver of scientific and technological innovation [in the last 
-    600 years has been] the increase in our ability to reach out and 
-    exchange ideas with other people, and to borrow other people’s hunches 
+     great driver of scientific and technological innovation [in the last
+    600 years has been] the increase in our ability to reach out and
+    exchange ideas with other people, and to borrow other people’s hunches
     and combine them with our hunches and turn them into something new.
-    > 
-    > 
+    >
+    >
     > —[Steven Johnson](https://open.substack.com/users/1408434-steven-johnson?utm_source=mentions) , author of [Where Good Ideas Come From](https://link.sbstck.com/redirect/9345f93a-fe63-4794-b167-12a93cfc27a1?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY)
-    > 
-    
+    >
+
     ### Combinatorial creativity in other fields
-    
+
     > “Combinatorial play seems to be the essential feature in productive thought.” —Albert Einstein
-    > 
-    
+    >
+
     > “The philosopher must form a new combination of ideas concerning the combination of ideas.” —Jacques Derrida, Philosopher
-    > 
-    
+    >
+
     > “Each
      new machine or technique, in a sense, changes all existing machines and
-     techniques, by permitting us to put them together into new 
+     techniques, by permitting us to put them together into new
     combinations. The number of possible combinations rises exponentially as
-     the number of new machines or techniques rises arithmetically. Indeed, 
+     the number of new machines or techniques rises arithmetically. Indeed,
     each new combination may, itself, be regarded as a new super-machine.”—Alvin Toffler, Futurist
-    > 
-    
+    >
+
     > “In the course of creative endeavors, artists and scientists join fragments of knowledge into a new unity of understanding.”
-    > 
-    > 
+    >
+    >
     > —Vera John-Steiner, Psycholinguist
-    > 
-    
+    >
+
     ### Combinatorial creativity in the arts
-    
+
     > “Don’t
-     be so all-fired concerned about being original. You hear an old song 
+     be so all-fired concerned about being original. You hear an old song
     you like but you’d like to change a little, there’s no crime in changing
      a little…
-    > 
-    > 
+    >
+    >
     > *It’s
-    >  a process. It’s not any particular song, it’s not any particular 
-    > singer. It’s a process by which ordinary people take over old songs and 
+    >  a process. It’s not any particular song, it’s not any particular
+    > singer. It’s a process by which ordinary people take over old songs and
     > make them their own.”*
-    > 
+    >
     > —Pete Seeger, Singer, in [Songwriters On Songwriting](https://link.sbstck.com/redirect/687ec851-4eb9-4b05-84c4-fc4d7e93575e?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY)
-    > 
-    
+    >
+
     > “Substantially
-     all ideas are second-hand, consciously and unconsciously drawn from a 
-    million outside sources, and daily use by the garnerer with a pride and 
+     all ideas are second-hand, consciously and unconsciously drawn from a
+    million outside sources, and daily use by the garnerer with a pride and
     satisfaction born of the superstition that he originated them.”—Mark Twain, Writer
-    > 
-    
+    >
+
     > “Even
-     the most original song you can think of is liable to have a good deal 
-    of tradition in it. After all, the major scale and the minor scale were 
+     the most original song you can think of is liable to have a good deal
+    of tradition in it. After all, the major scale and the minor scale were
     invented thousands of years ago… And the English language was invented a
-     long time ago, and the phrases that we use. And we’re just rearranging 
+     long time ago, and the phrases that we use. And we’re just rearranging
     these ancient elements.”
-    > 
-    > 
+    >
+    >
     > —Virginia Woolf, Writer
-    > 
-    
+    >
+
     ### Combinatorial creativity from creativity thinkers
-    
+
     > “Ideas,
      like species, naturally evolve over time. Existing concepts are altered
      and combined to construct new concepts; the way geometry, trigonometry,
      and algebra combine to form calculus.” —David Kord Murray, Borrowing Brilliance
-    > 
-    
+    >
+
     > “The
-     first [principle is] that an idea is nothing more nor less than a new 
-    combination of old elements. The second important principle is that the 
-    capacity to bring old elements into new combinations depends largely on 
+     first [principle is] that an idea is nothing more nor less than a new
+    combination of old elements. The second important principle is that the
+    capacity to bring old elements into new combinations depends largely on
     the ability to see relationships.”—James Webb Young (legendary creative in the advertising field)
-    > 
-    
+    >
+
     > “Nothing
-     is completely original. All artists’ work builds on what came before. 
+     is completely original. All artists’ work builds on what came before.
     Every new idea is just a remix or a mashup of two previous ideas.” —Austin Kleon , Author of Steal Like An Artist
-    > 
-    
+    >
+
     > “You don’t really have a workable idea until you combine two ideas.” —Twyla Tharp, Dancer, Choreographer, Author
-    > 
-    
+    >
+
     Now
      that you understand how ubiquitous idea evolution is, let’s explore how
-     powerful it is. When you fully assimilate the implications of the 
-    mental model, you completely restructure your process for producing 
+     powerful it is. When you fully assimilate the implications of the
+    mental model, you completely restructure your process for producing
     ideas.
-    
+
     Below is the workflow that I’ve refined over the years based on the idea evolution mental model…
-    
+
     # The Idea Evolution Workflow (For Paid Subscribers)
-    
+
     1. Research the best of what humanity has figured out so you can stand on the shoulders of giants
     2. Collect diverse knowledge so you can make combinations no one else can
     3. Build a memory system so you can automatically combine things in your head forever
@@ -6973,24 +6973,24 @@ Zwingli
     7. Package your ideas so they grab attention and spread virally
 
 What are my ethical obligations?
-* [https://en.wikipedia.org/wiki/Darwin's_Dangerous_Idea](https://en.wikipedia.org/wiki/Darwin%27s_Dangerous_Idea) 
-* https://ramaley.media/idea-evolution/ 
-* https://hatrabbits.com/en/the-evolution-of-ideas-1/ 
-* https://www.shortform.com/blog/evolution-of-ideas-2/ 
-* https://www.drorpoleg.com/thinking-fast-and-slopes 
+* [https://en.wikipedia.org/wiki/Darwin's_Dangerous_Idea](https://en.wikipedia.org/wiki/Darwin%27s_Dangerous_Idea)
+* https://ramaley.media/idea-evolution/
+* https://hatrabbits.com/en/the-evolution-of-ideas-1/
+* https://www.shortform.com/blog/evolution-of-ideas-2/
+* https://www.drorpoleg.com/thinking-fast-and-slopes
 
 
 * philo
-        * https://www.lesswrong.com/ 
-        * [https://www.google.com/search?q=evolution and the good life&ie=utf-8&oe=utf-8&client=firefox-b-m](https://www.google.com/search?q=evolution%20and%20the%20good%20life&ie=utf-8&oe=utf-8&client=firefox-b-m) 
-        * https://psykip.vercel.app/compare/all 
+        * https://www.lesswrong.com/
+        * [https://www.google.com/search?q=evolution and the good life&ie=utf-8&oe=utf-8&client=firefox-b-m](https://www.google.com/search?q=evolution%20and%20the%20good%20life&ie=utf-8&oe=utf-8&client=firefox-b-m)
+        * https://psykip.vercel.app/compare/all
         * https://magazine.hms.harvard.edu/articles/good-life
         * [philosophers on income justice](https://duckduckgo.com/?q=philosophers+on+income+justice&ia=web)
         * ['The Office' Warned Us About Dwight Schrute - The Atlantic](https://www.theatlantic.com/culture/archive/2020/10/the-office-tragedy-dwight-schrute-warning/616806/)
-        * https://www.theatlantic.com/culture/archive/2020/10/the-office-tragedy-dwight-schrute-warning/616806/ 
+        * https://www.theatlantic.com/culture/archive/2020/10/the-office-tragedy-dwight-schrute-warning/616806/
         * [What makes humans special? | Philosophy, Logic and Scientific Method](https://www.lse.ac.uk/philosophy/blog/2016/03/03/what-makes-humans-special/)
         * [The meaning to life? A Darwinian existentialist has his answers](https://aeon.co/ideas/the-meaning-to-life-a-darwinian-existentialist-has-his-answers)
-    
+
 * [Collective Responsibility (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/collective-responsibility/)
 * [Personal Identity and Ethics (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/identity-ethics/)
 * [bite the bullet Deutsch - Google Search](https://www.google.com/search?client=firefox-b-d&q=bite+the+bullet+Deutsch)
@@ -7031,9 +7031,9 @@ What are my ethical obligations?
         * [Peter Singer - ordinary people are evil](https://youtu.be/KVl5kMXz1vA)
         * https://www.scotthyoung.com/blog/2010/05/05/atheist-reading-religio/
         * [books: philosophy without any gaps](http://libgen.rs/search.php?req=philosophy+without+any+gaps&open=0&res=25&view=simple&phrase=1&column=def)
-    
+
     find multilingual Amartya Sen books and add them to Drive and Roadmaps
-    
+
     find science fiction about omniscience, suffering, consciousness
         * http://libgen.rs/search.php?req=baggini+ethics&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
         * https://de1lib.org/s/baggini?languages%5B%5D=german&languages%5B%5D=french&languages%5B%5D=italian&languages%5B%5D=dutch&languages%5B%5D=portuguese&languages%5B%5D=russian&languages%5B%5D=spanish
@@ -7206,7 +7206,7 @@ What are my ethical obligations?
         * https://www.suhrkamp.de/buch/philosophie-der-arbeit-t-9783518298015
         * [https://de.wikipedia.org/wiki/Arbeit_(Philosophie)](https://de.wikipedia.org/wiki/Arbeit_(Philosophie))
         * https://www.philomag.de/lexikon/arbeit
-    
+
 
 
 * Philosophiæ quaestiones
@@ -7217,100 +7217,100 @@ What are my ethical obligations?
     - Aesthetica
     - Altri
 * Autoepistemography
-    
+
     Autoepistography
-    
+
     - 0-6 - peaceful and happy indoctrination
     - 7-10 - acceptance of evolution without seeing any conflict
-    
+
     good experience with baptism
-    
+
     little questioning
-    
+
     interest in science
-    
+
     - 11-13 - Mormon Doctrine and other teachings
-    
+
     first red flags and difficult search for answers
-    
+
     reinforced sense of difference and need to hold strong to my heritage and beliefs, "stranger in a strange land"
-    
+
     German liberal values
-    
+
     tolerable questions - conflict with evolution
-    
+
     beginning of serious questions regarding us vs. them, theology regarding others, what determines morality, what
-    
+
     - 14-18 - smooth, all in, some questions
-    
+
     issues with polygamy in high school
-    
+
     exposure to weird stuff in the old testament
-    
+
     intensive study of evolutionary theory
-    
+
     other questions about science and religion
-    
+
     certainty in the foundational claims of the restoration and of Christianity
-    
+
     conservative political outlook
-    
+
     - 19-22 - difficult questions before my mission, but need to settle them or sweep them under the rug - polygamy and racism
-    
+
     prophetic fallibility
-    
+
     disturbing endowment ceremony
-    
+
     occasional questions about sexism
-    
+
     qualms about missionary tactics, high-pressure sales, whitewashing
-    
+
     characteristics of people interested in the church and methods used to explain them (poverty, humility,
-    
+
     effort to make missionary work genuinely beneficial
-    
+
     issues with imperialism
-    
+
     intelligent, nuanced mission president
-    
+
     weird stuff about the gathering of Israel
-    
+
     bizarre doctrine about blood changing - actually falsifiable
-    
+
     - 23 - real faith crisis, help from a wonderful bishop
-    
+
     full exposure to some of the horrible acts
-    
+
     - 24 - intensive study - philosophy, church history, sociology & mehods of control, social psychology, psychology of belief
-    
+
     exposure to the full spectrum of issues
-    
+
     wondering about informed believers (Mason, Givens, Bushman)
-    
+
     Noam Chomsky & manufactured consent
-    
+
     seeing through American nationalism and American exceptionalism
-    
+
     questioning my parents' insensitivity and snobbery
-    
+
     conclusion based on the ensemble of evidence
-    
+
     began to question God and Christianlty and religion in general as well
-    
+
     questioning the capacity for rational, unbiased thought at all
-    
+
 * Lista y análisis de fuentes de la duda
-    
+
     Hey Eliza,
-    
+
     I got your letter where you asked me if I have ever had a “testimony crisis”, or anything of the sort. Here is my answer - I recommend printing it out to read when you have one of those rare spare moments, so it doesn’t cut into your precious email time.
-    
+
     I have, several times, experienced intense doubt, since I do ask questions and love finding answers. Since I was 11, I have wanted to know all I can about the Church of Jesus Christ of Latter-day Saints to reassure myself that I am spending my life on the right things, or to learn what other path I should take.
-    
+
     I’m glad you asked, because I often feel like there is a stigma against asking tough questions, as if that implied weakness or a lack of faith, and I don’t think it should be that way. Questions, combined with an open mind and a pure heart, are the path to truth, and I love asking questions. I’m certainly glad Joseph Smith was willing to agonize over difficult questions with an open mind.
-    
+
     As far as I can tell, this is a fairly comprehensive list of the doubts and objections people generally have with regard to the Church, and also what my thoughts and experience have been with them. More importantly, these are all things I have wondered about, and some of them I have thought long and hard about and lost hours of sleep over. This is more than you asked for, but I hope you find this helpful and/or interesting. It definitely applies to the work you’re doing, especially in a place as intellectually-oriented and secular as the Netherlands and Belgium. Let me know if you have more thoughts or questions with regard to any of these in particular.
-    
+
     - Church history
     - Blacks and the Priesthood - this is tough, and members only made it worse pre-1978 by thinking up non-doctrinal explanations. I wish this had never happened, but it’s a fact that even some of the greatest people have their prejudices. At the end of the day, I’m just glad to have been norn after the 1978 revelation. There is a great article about this: https://www.lds.org/topics/race-and-the-priesthood?lang=eng . You’ll actually find a lot of good, well-written articles on the Church website: https://www.lds.org/topics/
     - polygamy - This is something that is not easy for us, having been raised in a monogamous society with monogamous ideals, to accept, but it is in the Bible. Furthermore, most of the discomfort it causes is, as far as I can tell, due to an incomplete understanding of its purpose and practice. Like I would have been in their shoes, Joseph Smith, Brigham Young, and others were repulsed by the idea and had no desire to practice it. One common argument for it is that there are probably more women than men who qualify for exaltation, but all need to be married. That seems plausible to me, but most importantly, it was a commandment revealed and also discontinued through the prophets.
@@ -7334,157 +7334,157 @@ What are my ethical obligations?
     - Feminism ideology - This is a tough one, and I give it some credence. Women certainly could have a greater voice within the Church community, but demanding the priesthood is silly, definitely the wrong kind of voice. Most of the discomfort this issue causes is because people don't understand the patriarchal order, or maybe don't understand or believe that marriage is an equal companionship, and that holding the priesthood does not imply any kind of superiority. In other words, the priesthood legitimizes the Church, but individuals do not need to hold the priesthood to be legitimized.
     - Struggle to accept something that has not been revealed - This can be hard for me, because I have a compulsive drive to know and understand, but this is nothing more or less than a tough test of humility and patience.
     - Struggle to accept the fact that we were born as part of the <1% of all people who have ever lived on the Earth and are bizarrely blessed with liberty, prosperity, and happiness, or in other words, a struggle with the concept of fairness - This one gets to me a lot, but it’s not one that can prove anything about truth; it’s just hard to accept that I am so blessed and easy to wonder why. The parables of the talents and of the laborers in the vineyard have helped me come to terms with this, as does Luke 12:48, and this is definitely a topic I still have a lot to study on. It’s interesting to think about the special missions we have, and nice to remember that it’s not about being better or worse, just about doing the best we can with what we’re given and helping others to do the same.
-    
+
     Why I believe: I have felt the Spirit’s witness that this Church, despite its imperfect past and imperfect nature, is the one set up by Jesus Christ. Having an open mind dictates that if you were to find more truth and light anywhere else, you would go there. I have had my eyes open, and I haven’t found any church or other group or system of belief that fit the bill. There is nowhere else you can learn so much about Jesus Christ and His Gospel, and nowhere else you can find opportunities to do so much good. In addition to the Spirit’s witness, the evidence for the Church outweighs any evidence against it, and the most logical decision I have found is to accept it and to live by it, and to help others do the same. As Alma 32 and John 7:17 promise, living the Gospel is its own best proof.
-    
+
     Sometimes I’m a little jealous that you’re still a missionary, and I miss my own time as a missionary. It really is a wonderful feeling that can be easy to take for granted, and I’m so grateful I got to serve. Thanks for writing good emails every week.
-    
+
     Love,
-    
+
     Broeder Izak
-    
+
 * Iron Rod Letter
-    
+
     When a Loved One Chooses to Let Go of the Iron Rod
-    
+
     by Michael Felix
-    
+
     Are you a Mormon whose beloved friend or family member has seemingly thrown away the truth of the gospel? Perhaps the truth is so obvious to you that you cannot fathom the actions of this person whom you love and admire. This rejection of your principles might even feel like a personal rejection, though it is not intended as such.
-    
+
     After speaking to and reading the accounts of many Mormon "apostates," I've become painfully aware that the believers in any disbeliever's life often have trouble coming to terms with his or her loss of faith. Disbelievers may feel out of place, or complain that believing friends and family are unwilling to accept them for who they have become. Believing Mormons typically experience difficulty remaining on the same terms of friendship and love with an otherwise unchanged fellow who has undergone a theological or philosophical transformation. Because of certain attitudes which prevail in the church's culture, and because of the implications of certain doctrines and authoritative pronouncements with which every member is familiar, Mormons often have trouble actually allowing other Mormons to worship how they may. I have come to believe that the problem is fundamentally one of lack of understanding. Because of the mindset that many believers bear, it may be that they are simply incapable of understanding what goes on in the apostate mind.
-    
+
     Having noticed this, I feel a desire to give some advice from a skeptic's point of view, to the faithful believer who may have never waged a long and difficult struggle with doubt.
-    
+
     Honest Belief
-    
+
     To many a disbeliever, the makeup of belief is more important than its eventual alignment. In other words, that the compass is correctly assembled and aligned is a more immediate concern than whichever direction its needle is currently pointing.
-    
+
     To a skeptical truth-seeker such as myself, belief is only valid if it is honest. I believe in honest belief, and that instills me with the following convictions:
-    
+
     What I believe is not mine to directly dictate. I cannot use willpower to change it to coincide with a creed. I may only indirectly influence its nature by thinking and learning.
-    
+
     I am free, even obligated, to believe the truths that intellectually and spiritually honest inquiry reveals to me.
-    
+
     As such, I must consider each pathway of knowledge I encounter.
-    
+
     It also means that my perception of truth may change because of new evidence or sharpened judgment, in which case I am obligated to reevaluate my honest belief.
-    
+
     Furthermore, if two people appear to have arrived at diverging beliefs honestly and diligently, each belief is equally worthy of evaluation.
-    
+
     If belief is honest, the most important judgment upon it is that of its owner.
-    
+
     But if it is abandoned at will it has either become dishonest, or was already dishonest to begin with.
-    
+
     Finally, honest belief does not imply absolute knowledge; when necessary, it also hinges on resignation to the lack of knowledge.
-    
+
     For me it is obvious that these are principles I must follow in order to seek for truth, just as it may be obvious to you that truth is revealed and must be maintained by engaging in practices that are intended to support it (such as reading scriptures, praying and obeying prophets). That is the fundamental difference between an intellectual disbeliever and most believing Mormons. It is, of course, difficult for a natural skeptic like me to believe in the disprovable, but it is impossible to accept that I should be required to tailor my truth-seeking behavior in order to influence the outcome so that I do.
-    
+
     The Believer's Checklist
-    
+
     Before you name sin and pride as the causes of your loved one's offense, remember that it's not by choice that he has changed his faith. Robert Ingersoll once wrote, "Belief is not subject to the will. Men think as they must." The idea that "those who reject Mormonism's claims apostatize from the church because they need an excuse to sin" is simply a misconception. Belief is not something to be brashly discarded like a banana peel when one happens to find a trash can nearby. The popular checklist of causes of apostasy typically includes pride, social offense, and moral weakness. Too often the believer simply chooses an item from this list, placing blame squarely on the shoulders of the disbeliever without risking discomfort by questioning the belief system itself. Note what this checklist does not include: simple differences in belief.
-    
+
     Yet perhaps the believer who sees a fellow breaking commandments of the church is placing effect before cause. By not admitting simple disbelief among the causes for disobedience, the believer must assume that the disobedience itself is the cause of the disbelief. In order to accurately understand an unbeliever, it is first imperative that you augment your checklist to include another possibility: that he disbelieves simply because he disbelieves.
-    
+
     Most disbelievers are insulted by the notion that they have simply discarded their former convictions to more easily sin. It implies that the disbeliever was never honest in his/her belief in the first place. To a believing Mormon, belief can and should be molded by constant exposure to the advice of prophets and the testimonies of other believers; however, those of us who drift from orthodox Mormonism come to rely on different criteria for shaping our belief.
-    
+
     Furthermore, it is neither fair nor sufficient to contentedly insist that the loss of faith comes about simply because of the desire to lose faith. While it may be true for some that "belief is a choice," this is definitely not true for everyone. In fact, I would venture to say belief is a true choice for almost no one, especially one who cherishes honest belief. We can tell ourselves we believe things. We can publicly insist that we believe them. We can feel pleasant emotions when considering our cherished principles, and count those emotions as proof of the depth of our belief. We can leave home, lose money, love, hate, heal and kill for our beliefs, and all the while, deep down inside, our subconscious minds might still know that we don't actually believe in what we've fought for.
-    
+
     Most of those I know who act contrary to the commandments of the church do so because they honestly disbelieve the validity of those commandments. Yes, there are certainly people who drift from the practices of orthodox Mormonism because they find these practices too restrictive of the lifestyle they would rather lead. However, it is imperative that one allow a distinction between acting contrary to the church's rules and losing faith in those rules. Often these people who leave in order to sin still believe at their core, and if so, they probably feel immense guilt while they break what they view as God's commandments. Compared to changing belief, degrading in behavior is easy, for what human really has absolute control over what he thinks?
-    
+
     The Foundations of Disbelief: Ideas About Ideas
-    
+
     Though it may contrast strongly with your point of view, the typical disbeliever probably holds to the belief that no idea is unworthy of examination. To him or her, the church's way of constantly imploring members to ignore doubt and study only uplifting subjects is probably distasteful, because it appears as an attempt at information control. The Mormon skeptic wonders: "What do the Brethren have to hide that causes them to whitewash information and admonish us not to dwell upon the difficult things?"
-    
+
     Your acquaintance or relation probably values logic and reason very highly. While you may agree to some extent that the study of logic and all of its fruits (science and technology, for example) are worthy of pursuit, as a believer you have probably found instances when you must insist that logic is a secondary, less enlightened form of learning. For instance, regarding the theory of evolution, you may be willing to study its principles and possibly even hold some belief in many of them. But when it comes to the ultimate question in evolution, you probably exhibit at least one behavior that is based on something other than principles of reason. Perhaps you are unwilling to accept a certain few findings of science because they incriminate your belief system; maybe you discard parsimony and begin looking for more elaborate explanations to facts than the ones logic offers; or possibly you simply refuse to keep wondering and contentedly assure yourself that the answer will someday be given to you if you are diligent in other areas of your life.
-    
+
     I do not wish to pass judgement upon the validity of these behaviors. My hope is to point out that each of them departs from the normal principles of logic that we use to govern our lives. The difference between the believer and the skeptic is that, when foregoing logic in order to prop up his beliefs, the skeptic feels hypocritical. He wonders why he should be expected to ignore-in only certain instances-the reason that guides him so well when he drives a car, picks coins out of his hand, or decides which political candidate to support. He comes to believe that a God who created the world and his brain, and gave Man logic above that of the animals in order to guide him through the dangers of life, would not require that logic be discarded in order to understand or communicate with his Creator. This leads him to consider that, while faith in a principle for which there is no counter-evidence is fine and possibly good, faith against clear evidence is dishonest, and therefore not of God. With these ideas in hand, the skeptic examines the claims of Mormonism and often finds trouble there.
-    
+
     Your disbeliever has probably lost faith because of his discovery of historical or scientific facts that he finds damaging to testimony. There are many teachings of the gospel for which supportive or contrary evidence does not exist; these points are open to everyone for personal interpretation and are mostly untouchable by logic. As an example, consider the teaching that our conscience is really the promptings of the Holy Spirit. Likewise, there are some aspects of church doctrine that closely intertwine with science, history or other scholarly disciplines, and for a skeptically-minded person these are the ones that usually provide difficulty. An example of this is the claim that Book of Mormon peoples actually lived on the American continent. Your disbeliever has probably studied arguments concerning many points of the latter variety, some of which you would consider helpful and some detrimental to the church's agenda. Though you may be inclined to postpone the consideration of difficult ideas (perhaps telling yourself that there are some mysteries you may never understand), he is not willing to do so. He believes all things are worth judging from a neutral standpoint and, in cases where it is possible to find evidence for or against the church's view, is not willing to give deference to a set of beliefs simply because they are the ones with which he grew up. He feels the evidence itself speaks the truth, just as it does in a court of law.
-    
+
     You may feel that your beloved disbeliever has been deceived by Satan into accepting erroneous information as fact. I think it's important, in discussing this possibility, to differentiate between fact and interpretation of fact. Facts are historical or scientific, i.e. "Joseph Smith practiced polygamy." A corresponding interpretation would be, "Joseph was noble and obedient and did it because he was commanded to," or "Joseph used religion as an excuse to have sex with many women." Interpretations only come in single-serving packages, and it's impossible for me to vouch for the opinions another skeptic has formed as a result of his research. However, I feel there's a good chance-if he has researched well-that the set of facts he considers faith-adverse are, for the most part, true. Before you begin arguing with his interpretations, be aware that those interpretations are based upon underlying facts with which you may not be familiar, and upon which a skeptical interpretation is just as valid as (or more valid than) a faithful one.
-    
+
     On the other hand, you may be aware of some of the disturbing "hidden facts" of Mormonism, and perhaps it appears to you that your belief-challenged friend lends too much credence to the allegations of anti-Mormons. Perhaps it frustrates you that she is unwilling to accept the efforts of apologists that have answered all allegations. But chances are she has actually considered these efforts and found them wanting. Apologetics usually start with a conclusion (the church is true) and seek ways to prove it by discounting or invalidating evidence against it. This approach is obvious to believers, but actually quite distasteful to one who is not already convinced of the validity of the conclusion. One thing most intellectual disbelievers have in common is that they have resolved to throw away assumptions and start their search for truth from square one; as a result, the apologetic approach doesn't tend to meet their needs. This is because the apologetic approach is tailored to the believer who is already seeking ways to validate his beliefs, and who doesn't demand the kind of rigorous arguments that the skeptic would require. That is why your unbelieving friend probably won't be as satisfied as you are with the ideas of FARMS and the like, which to him may seem contrived and unsupportable.
-    
+
     When I began to critically examine the church, I read a lot of apologetics in hope of retaining belief. I found some convincing arguments, and was always grateful for the point of view they offered, because it balanced the bitter or spiteful interpretations that were often attached to the facts I had discovered. But in the end I came to believe that, while a certain apologetic argument may explain away a problem quite satisfactorily, when the big picture is examined the apologetics don't mesh as well into a cohesive whole as the skeptical viewpoint does. Your acquaintance may share this view.
-    
+
     Assumptions to Reconsider
-    
+
     If you want to understand an unbeliever, you have to remember that she no longer holds to many of the assumptions the church instills in us regarding the method of belief. As you discuss religion with her, it may help to remember that there are certain commonly held, basic assumptions always circulating in the membership of the church which are never debated, but are viewed as a foundation, to be taken for granted and upon which all actual arguments are to be based. However, none of these is taken as given by a skeptic, who has probably given them serious thought and discarded most or all of them. These assumptions include:
-    
+
     The idea that disobeying the church = disobeying God. This is problematic because no provision is made for instances where the church's teachings are not exactly equal to God's will. While such an instance may be inconceivable to you, it is easily imagined by many of faltering or fallen faith. After all, which is easier to consider: that a difficult principle such as polygamy is difficult and unfair to women because God is unfair, or because the church was created and is led today by mortal, unfair men?
-    
+
     The conception that, as Neal Maxwell once expressed, there is no alternative explanation for Joseph Smith other than the two extremes: that he was either a prophet or a scoundrel bound for hell. Mormons often desire only black and white solutions instead of seeing the world for the shades of gray in which it is actually painted. It is entirely possible that Joseph was something other than a saint or a demon, and there have been a number of possibilities put forth that merit consideration.
-    
+
     The surety that sickness, misfortune, or bad luck on the part of a disobedient member are punishment from God, while these same afflictions when suffered by an obedient member are given by God as trials to test faith.
-    
+
     The statement that no one can be truly happy outside of the church. Experience-if you're willing to look-has shown that it's just false.
-    
+
     The assumption that a book of scripture must be historically accurate in order to be "true." It's frankly bewildering to me that something in the scriptures has to have actually happened in order to have meaning to most Mormons. No value is given to the possibility that any scripture may be simply uplifting metaphor that neglects to identify itself as such. Jesus' parables are an obvious exception, but only because they were recorded along with the story of their telling as parables.
-    
+
     The idea that certain ideas, web sites, or books are inherently evil. As is often asked: if the truth is truth, why can't it withstand scrutiny? Just how fragile is truth's hold on our minds, anyway?
-    
+
     The assertion that driving doubts out of one's mind without resolving them is noble and wise. Such a course of action is certainly the best way to preserve a testimony, but is it honest, or mentally healthy? The answer is different for everyone, but as a skeptic I can testify that for me such a course of action is unhealthy. However, I recognize that the maintenance of belief at all costs is paramount for the happiness of many people, and because of that I do not crusade to drag others from their places of faith or deride them for following a path different from mine. I ask that the same courtesy be extended towards me.
-    
+
     The belief that dishonesty is permissible in certain circumstances (like finding a testimony "in the bearing of it," or giving an investigator "milk" and baptizing him without also giving him the "meat" he deserves before committing himself to the church).
-    
+
     The allegation that highest form of worship is complete and even unthinking obedience to someone claiming to be God's servant. Galileo declared that he could not believe God would give humans such a marvelous intellectual capacity, and then expect them not to use it. Most skeptics I know agree.
-    
+
     The oft-repeated adage: that which is not for Christ must be against Christ. This is often extended to label everyone as either an enemy or a friend of the church. Can nothing simply be neutral? Certain Mormons, and even the religion itself, have sometimes had a problem allowing the existence of neutrality in others' motives and actions.
-    
+
     Dealing with the Lack of Belief: a Tempered Approach
-    
+
     If you are a believer, please be sure you understand what your disbelieving friend has gone through before you call him to repentance. Speaking from personal experience, I have spent a lot of effort in examination of my beliefs and the beliefs of others, in an attempt to determine what is true. I've read many books and many, many web pages about all points of view on Mormonism. I still spend a part of each day considering religion and formulating my views. Unless you are doing the same, you have no right calling me or any other unbeliever lazy or disloyal (or even deceived or mistaken), or otherwise judging our position or direction. Too often we become complacent in a comfortable position, and it's too easy to deride those who refuse to assume the same position of comfort.
-    
+
     Ask yourself honestly, with whom God will be more pleased: the person who spends much time and effort trying to find out the truth about Him, or the person who is so certain that he has it that he judges others by his preconceived ideals? The answer: I don't know, and I don't pretend to. But I believe he'll be more pleased with the first. And that belief, since it is mine, is the only clear light that should rightfully guide my actions.
-    
+
     To lose belief can leave one feeling profoundly empty. The lack of knowledge, like the lack of any vital component of life, can be a difficult affliction to bear. If it helps, regard the unbelieving seeker in your life with the same consideration you would afford a man who lacks shelter or food, or love. Believing something beautiful helps a human be happy, and those of who have lost that comfort are not deserving of derision or scorn because they have been unable to find it. In fact, they are deserving of respect for their courage. Ask yourself what you would do with your life if you suddenly became unmistakably convinced that the church isn't "true." Answer honestly, and I hope you'll gain admiration for the plight your unbeliever is probably facing.
-    
+
     So, what can you do to help your unbelieving loved one? You probably wish very badly that your disbelieving friend would renounce his wayward ideas, since you believe his eternal wellbeing depends upon his doing so. It is your right to attempt once or twice to change his mind, but please do so respectfully. It is important that you do not attempt to scare or shame your disbeliever back into his former mode of thought. It probably won't work. Such behavior doesn't stem from compassion and definitely won't create feelings of love. Even if you were to succeedconsider the outcome; does God, who loves his children, want them to love him back, or fear him , because he is awful? Mormonism has extracted the fearfulness from God, separated out the unpleasant aspects of the Old Testament deity who killed heathens and the New Testament Lord who damned unbelievers, and made Heavenly Father into a loving father who is actually worthy of worship, who really wants to save us all from the unbending mercilessness of the universe. Why would such a God condone the use of fear to gather his wandering sheep?
-    
+
     The choice of action I hope you'll take is to be understanding, to make certain the friendship you enjoyed is not damaged by the discomfort you feel in the face of your friend's new beliefs. If the wayward soul you're concerned about is a family member, especially a spouse, it is even more imperative that you retain control of the relationship. How disturbing is it that the church, which touts itself as a champion of family values and togetherness, can be the root cause of the demise of a family? I have heard far too many accounts of divorce occurring because of the inability of one partner to accept the evolving religious views of the other.
-    
+
     Remember that the disbeliever was once like you. Don't patronize her because you believe she has lost "spiritual knowledge;" she still remembers the Mormon doctrine she was taught, but has changed her interpretation of it. She is the same person with the same need for understanding, just as she would be the same person if she had suddenly undergone a change in political ideology or artistic preference.
-    
+
     And most importantly, whatever you do, try to understand that, even if you were the one who introduced your friend or family member to the church in the first place, their rejection of your religion is not a rejection of you. The most frustrating thing for a newly disbelieving Mormon is the sure knowledge that, in our religion, social ties are intertwined with religious convictions. If you feel a personal rejection in the actions of your loved one, it is probably because he could find no other way in this culture to gain freedom without inadvertently hurting you.
-    
+
     Reflect on the eleventh article of faith and the wonderful gift of freedom that we all enjoy. Reflect, if you are so inclined, upon the doctrine of the Atonement, and upon the nature of its author. Remember what kind of man Jesus was: accepting of all, saints and sinners alike.
-    
+
     Your ultimate goal may be to win your loved one back to the church. But don't risk driving him or her away by concentrating only upon that goal. If you keep your mind open you'll do a great service to everyone involved, have the greatest chance of restoring his or her faith, and possibly even find some new enlightenment for yourself.
-    
+
 * Announcement Post
-    
+
     This is a long, blunt, and fairly personal open letter. If you are in the mood for cat videos right now, or if you hardly know me, scroll on.
-    
+
     I'm a Mormon, born and raised. Most of my great-grandparents were Mormon and lived in Utah. I was amused, but not too surprised, when I learned that Mormonism is considered its own ethnicity by some ethnologists. In that sense, I will always be Mormon. It is my heritage, my culture, and my community. It has shaped me in countless ways. I am no longer a Mormon, though, in the sense that a Mormon believes the truth claims of the Church of Jesus Christ of Latter-Day Saints. I think it's only fair to my friends and extended family to be transparent and be the first to break the news.
-    
+
     One of the most important reasons I share this publicly is that I prefer to preempt the rumors and speculations. Another is that there are also a number of incorrect ideas perpetuated by the LDS church and its membership about "apostates" who no longer believe, so I want to address those here. I want to do what I can against the intense pressure to remain silent that many sincere doubters experience, and create opportunities for honest and open discussion. I also want to be clear that I do not want to be anyone's enemy because of my change of belief, and that I don't want this to damage any relationships. The LDS church has so much beauty and goodness that I still love, and I don’t want to take them away from anyone. I’m still a friend and an ally, not a scary enemy who needs to be shunned.
-    
+
     I take complete responsibility for this. It wasn't Sandra's doing, nor my parents, siblings, or LDS friends. They have done nothing wrong and nearly everything right. They still believe, and they did all they could to help me maintain belief for as long as possible. I still participate in many of the rituals and traditions, especially with Sandra. Church activity and involvement are a force for good in her life, and anything that benefits Sandra is a good thing in my book.  Again, please understand that my friends and family did all they could. This obviously wasn't the result of peer pressure I experienced at BYU. I deserve all the blame.
-    
+
     This is the result of my honest search for truth. I didn't begin to doubt because I wanted to doubt or because I wanted to rebel; I came across historical, theological, and scientific contradictions in my beliefs that I needed to resolve, and defending my faith, both to myself and others, was an important part of my spiritual life for years. I did doubt my doubts before doubting my faith, and I wanted the beliefs I loved to be true. I researched them in depth for years, trying to make it work. I didn't want an excuse to sin; my lifestyle and personal ethical code are essentially what they were before, and in some ways better. I wasn't offended by anyone. I didn't get lazy or tired of keeping the commandments, although once I no longer believed, some of them lost meaning for me. Those who know me well know how firmly I believed and how diligently I tried to live in accordance with my beliefs. I didn't stop reading the scriptures, or praying, or going to church; I became more diligent with all three while looking for answers, because I desperately wanted the beliefs I had built my life on to be true. Even now, I still do all three with Sandra. I haven't forgotten my spiritual experiences; I remember them well and they mean very much to me, but I understand them differently now. Even more importantly, even as a non-believer, I still experience the same feelings I had learned to identify as the Holy Spirit.
-    
+
     I didn't doubt my faith because of social issues; it would be insane to sacrifice eternal salvation because of differences of opinion and things that I didn't understand. It was the other way around; as my trust in religion faded, social views that I had held on no other grounds other than that trust, and in spite of good arguments against them, became obsolete.
-    
+
     Some believers will want to write me off as deceived by Satan; if I have been, it's hard to understand why I continue to enjoy the "fruits of the Spirit: ... love, joy, peace, longsuffering, gentleness, goodness, faith, meekness, temperance" (Galatians 5:22-23). I'm not exceptionally good, but I'm no worse a person than I was earlier as an extremely devout believer. I feel at peace with my decision. But anyone who refuses to accept that I honestly arrived at a different conclusion and simply see things differently will have to write me off as hoodwinked by the devil. The impulse to shelter one's beliefs by demonizing those who believe differently is powerful, but I hope for a little more charity than that. If there has to be a faith-promoting narrative, let it be an honest mistake on my part, rather than a demonic possession.
-    
+
     I don't think it's fair to put it all down to pride. If thinking freely and independently is pride, I can plead guilty to that. But I once saw myself as one of the privileged few born and raised in the One True Church, and now I don't. I'm now longer one of the "elect"  or part of the "chosen generation." I don't see myself as a bearer of God's exclusive power. All of the teachings that reinforced a sense of my own "specialness" are out of the picture for me. I've accepted the possibility that I may have been wrong about a lot of things. There are a lot of things I don't know, and I don't have all the answers. Having recognized these things, some of them the hard way, I now feel more humble, or humbled, than I was before.
-    
+
     Sometimes being too intellectual is equated with pride. I am familiar with Proverbs 3:5-6, Isaiah 55:8-9 and 2 Nephi 9:28-29. But for each of those, you have Zechariah 8:16, John 8:32, Ephesians 4:25, and D&C 93:24. I feel a moral imperative to search for the truth, and I eventually reached a point in my life where I decided to search for the truth, even if that search took me away from the faith I was raised in. Whether anti-intellectualism is a divine condemnation of my Enlightenment values or a manipulative tactic is a matter of individual judgment, but it seems suspect to me. The truth has nothing to fear from honest inquiry.
-    
+
     My other reason for sharing this is that I want to express my hopes and concerns regarding my change of belief. I don't want to threaten anyone else's faith, although by posting this, I may have unintentionally done so already. If someone questions my thinking, I can explain myself, and I am capable of defending my views if necessary, but I don't want to be seen as a threat. I support anyone's faith if it helps them to be happy and kind, and I also want to express my sympathy for those who doubt. I know there are many Mormons who have sincere doubts and don't feel comfortable talking to most people about them, and my heart goes out to the doubters. It's not an easy cross to bear, and the church community can be an unforgiving environment for those with uncomfortable questions. It's good to doubt, and it's good to have faith, and while I don't think much of either faith or doubt founded on a denial of the truth, I support anyone's honest faith and honest doubts. Reasonable people sometimes look at the same reality and draw different conclusions.
-    
+
     I have given years of my life to the LDS church. I like to think I have done some good through my activity and service, and I will continue to support the good the church does. Just as I have criticized its abuses as a believer, I will continue to be critical of any damage my church does. This doesn't make me an "angry anti-mormon who just can't leave the church alone." I'm just someone who does not see his church and the culture it creates as infallible or above reproach, and who does not want to be complicit in the harm it sometimes causes. I hope to maintain my friendships. I still want to belong. I still love my family, friends, and community. I respect the sincere beliefs I disagree with, and that same courtesy is all I ask for. I don't insist on being understood, but it is always nice to feel that way.
-    
+
     Finally, I know this may be sad and shocking, especially for the most devout of my LDS family and friends. The emphasis on families eternally sealed together by the priesthood makes it especially hard when a family member no longer believes. If it helps, you can comfort yourselves with the thought that the lower kingdom you will see me on track for is much better than the fate Catholics, Muslims, Baptists, etc., and maybe even Buddhists expect for all of us in the next life. Resurrection as an angel of telestial glory still beats reincarnation as a sea cucumber, after all. What's more, you can hope that a kind, loving God will allow you to visit me, and I may even be fortunate enough to be your servant. Let's not forget, though, that this life is different. So much of what we enjoy is transient - good food, beautiful views, enjoyable entertainment, fun times with friends, and so on. Each of those things builds us up and often has a lasting effect on us, even if we cannot take those things themselves with us. If according to your beliefs, I become just another transient part of your life, instead of a part of the celestial eternal family, so be it. I hope you can still allow me to be a meaningful part of your life, even if I am a spiritual alien.
-    
+
     I've had the benefit of a long, gradual process, and it has still been rough, so you have my sympathies if this feels sudden. It must be hard to see someone reject something that means so much to you, and that seems so obviously true. It hasn't been completely easy for me either. Some people speak of their path to disbelief as a triumph or as "seeing the light," but I think there are better ways to describe it. Like Truman leaving his arena, Rapunzel leaving her tower, or Dorothy and friends traveling to meet the great Wizard of Oz, this has been a journey away from comfort and certainty and into the great unknown.
-    
+
     I hope this doesn't ruin our relationship. If it's best to just disagree without discussion, I understand, but for those of you who want to understand my thinking and how I have come to believe as I do, I have links attached below. Please know that I am happy to discuss ideas and beliefs with anyone. I didn't abandon one set of dogmata just to embrace another, so I'm still searching with an open mind. I expect I always will.
-    
+
     Notes on why I no longer believe: https://docs.google.com/document/d/12nMQJME0ml6C3fT6gs5EYC_HGtIr0PHmrKZbR-_YKWU/edit?usp=sharing
-    
+
     Brief outline of my lifelong faith journey and how my beliefs have changed: https://docs.google.com/document/d/1m5Pm4MnoBPGYLARF-_Z-dahJXF6d2728FItreNVABTk/edit?usp=sharing
-    
+
 
 
 * Philosophia (auxilia adnotationesque)
@@ -7494,17 +7494,17 @@ What are my ethical obligations?
         * https://donaldrobertson.name/2018/10/29/roundup-women-in-ancient-stoicism/
         * https://en.wikipedia.org/wiki/List_of_Stoic_philosophers
         * https://www.reddit.com/r/Stoicism/comments/4tak0a/female_stoics/
-    
+
     - Deutsche
     - Lists
         * [Book List]()
-    
+
 * Religion Books
-    
+
     David O. McKay and the Rise of Modern Mormonism
-    
+
     Thunder from the Right
-    
+
     Mormonism and White Supremacy
         * [Black Mass: How Religion Led The World Into Crisis (see references)](https://b-ok.cc/book/1128110/b34d7b)
         * [Asimov's Guide to the Bible: Two Volumes in One, the Old and New Testaments](https://b-ok.cc/book/1121632/602fe6)
@@ -7514,258 +7514,258 @@ What are my ethical obligations?
         * [Adam Silverstein](https://libgen.is/search.php?req=adam+silverstein&open=0&res=25&view=simple&phrase=1&column=def)
         * [adler-arthur-im-glauben-der-ahnen-1938-64-s-scan-fraktur.pdf](https://vk.com/doc349546347_477745650?hash=85337d9247c0948a1b&dl=5b28d1b3259a2ab949)
         * [Auf den Spuren Buddhas](https://vk.com/doc44301783_517373114?hash=2c1db653b2bb75f2a6&dl=733a6b898369ea2ff0)
-    
+
     Augustin (Flasch)
         * [baumgaertner-wilhelm-ist-christentum-judentum-eine-kritische-untersuchung-1935-63-s-scan-text-fra.pdf](https://vk.com/doc349546347_477745770?hash=91b0bdd5fc20ab4478&dl=293f01bee67b23315d)
         * [bednarski-gerhard-durchbruch-zum-deutschen-glauben-1941-36-s-scan-fraktur.pdf](https://vk.com/doc349546347_477745791?hash=1a7fc0c41f55f5edc5&dl=478ea36bd27a3a8bfb)
         * [Buddhismus](https://b-ok.cc/s/?q=buddhismus&order=year)
-    
+
     Buddhismus und Evolution
         * [Christentum](https://libgen.is/search.php?req=christentum&open=0&res=25&view=simple&phrase=1&column=def)
-    
+
     Das Elend der Theologie (Hans Albert)
-    
+
     Das Religionen-Buch
         * [dawkins](https://libgen.is/search.php?&req=dawkins&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=12)
         * [Die artikelen des geloofs](https://vk.com/doc306961597_438466772?hash=9bc7d48719d08a3859&dl=8d2b32d5f4970860cd)
-    
+
     Die fünf Weltreligionen
         * [Die Identität der buddhistischen Schulen](https://vk.com/doc488576652_506838946?hash=a8eb8d65ddbb7daa44&dl=9fc5b8874e9b348b4a)
-    
+
     Die Weltreligionen
         * [Die_Wirtschaftsethik_der_Weltreligionen_Smart_Reading.pdf](https://vk.com/doc5961481_459269216?hash=c36b9f4c810267e696&dl=218da025008c7c97a8)
-    
+
     Götter global
-    
+
     La mente de Dios (Davies)
         * [La teologia del XX secolo. Un bilancio. Prospettive pratiche](http://library.lol/main/FD30F44780E2CD6DA0F4E58850EFB360)
         * [La teologia del XX secolo. Un bilancio. Prospettive sistematiche](http://library.lol/main/A07A46465A09D007F2F0EE05489D68A0)
         * [La teologia del XX secolo. Un bilancio. Prospettive storiche](http://library.lol/main/DFB1E850280AE541D330EBC17EC304AC)
         * [mormonism](https://libgen.is/search.php?req=mormonism&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
-    
+
     paul tillich
-    
+
     Pour en finir avec Dieu
-    
+
     reinhold niebuhr
-    
+
     Religion für Atheisten
         * [Religion needs new books. What would be in your canon?](https://www.facebook.com/stapleyarts/posts/10216538851002658)
         * [Sem_Kharris_Konets_very_Persone.pdf](https://vk.com/doc30601958_521954788?hash=cf6a86365d7045cea3&dl=b8c40b196df15a0d48)
         * [Something That Matters: A Theology for Critical Believers](http://library.lol/main/A33EA2A1AC46359C4CDC17A81EF77A8A)
         * [Tesauro y dissionario de objetos asociados a ritos, cultos y creencias](https://vk.com/doc3125830_512358057?hash=0778d4e412b748a3a6&dl=2b964c910427596dcd)
-    
+
     The Politically Correct Guide to the Bible
         * [The Religious Teachings of Christ (Adam)](https://vk.com/doc525831385_509720511?hash=f0d9f51fb7cbde903a&dl=314274c6e3383d2465)
         * [Weltreligionen](https://libgen.is/search.php?&req=weltreligionen&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
         * [will bagley](https://libgen.is/search.php?req=will+bagley&open=0&res=25&view=simple&phrase=1&column=def)
-    
+
     Wissensbibliothek der Weltreligionen
         * [Кантата РИКВЕДА](https://archive.org/details/rykvedy)
         * [Radical Sacrifice](https://b-ok.cc/book/3679960/b98d37)
-    
+
 * Notes
-    
+
     What are the philosophical implications of the existence of a devil, as opposed to bad thoughts independent of demonic influence?
-    
+
     - Ясность: что такая? Как мне добиться ее в изучении и в обучении?
     - coupling of fantasy, distraction and memory
     - the present is imposed unconditionally absolutely: life, the present, is unconditionally given grace
     - givenness
     - quotes: Guy de Maupassant
     - Tolstoï: Tout raisonnement sur l'amour le detruit
-    
+
     What are the merits and shortcomings of jealousy, i.e. what purposes doe it serve and to what extent should it be avoided?
-    
+
     Thinker's: Frank (Dostoevsky scholar), Levinas, Timothy Ware (Orthodox), Rabbi Sacks ("maximum of means, minimum of meaning")
-    
+
     >Every “why” question assumes an underlying natural law (cause and effect relationship) or principle
-    
+
     Erforschen: griechisches vs hebräisches Denken
-    
+
     Contradictions imply falsehood; paradoxes imply the need for understanding at a deeper level; unanswered questions imply the need to continue searching and be patient.
-    
+
     To justify its pursuit, knowledge should be rewarding, useful, worthwhile, helpful, applicable, edifying, timely, balanced, and bring the greatest total happiness. Learning should be motivated by a love of truth and righteousness and a desire to elevate others along with oneself.
-    
+
     Fascinating truths:
-    
+
     - Everything you see, hear, feel, or otherwise perceive, and everything you think, say, and do becomes a part of you, depending on how you respond to it. Therein lies individuality.
     - Everything you do in any sense of the word changes reality (i.e. truth), in some way. Actions literally do change the world - for better, for worse, or further along the trajectory it is already on.
-    
+
     Despite the perpetual passing of experience, it is meaningful because of memory, development, eternal reward, and immediate happiness. Righteousness is a pattern of action that provides happiness both now and later. Where true happiness is concerned, there is not a tradeoff between this life and the next. Happiness is an upward spiral. Pleasure is an up-and-back-down climb.
-    
+
     Analysis:
-    
+
     0) Question
-    
+
     Context
-    
+
     Premises (assumptions)
-    
+
     What I already know
-    
+
     What words in question may mean
-    
+
     What the possibilities are
-    
+
     Research
-    
+
     Draw conclusions
-    
+
     Define what is still unclear
-    
+
     It is interesting that we remember a very small portion of all we experience. Everything we remember is indicative of a lot of time and energy expended, or a deep impression on one’s mind.
-    
+
     Time is the impression on the mind produced by change. It seems to be completely intrinsically and instinctively understood, or axiomatic.
-    
+
     In trying to answer a question, it is helpful to write a list of possible answers for greater clarity of understanding. Then I can figure out which presuppositions lead to which answers, defining the parameters of the question and of each answer.
-    
+
     Is it possible to have a comprehensive, internally-consistent, and satisfying worldview? Is it better to choose ignorance and not worry about difficult questions? Is it even possible to understand life and the world at all? How can I know myself? Does faith require disregarding inconsistencies? Is it even possible to know anything at all?
-    
+
     I had assumed earlier that increasing knowledge increases understanding. Was I completely wrong?
-    
+
     Compartmentalization in one’s learning lifestyle and approach
-    
+
     Interesting how time, or t least my persection of it, behaves non-arithmetically. When I am busy, I can still find time to do things that matter, and when I am less busy, I often do even less. Of course, this is probably due to a number of illusions and biases, but it is an interesting phenomenon that tells me a lot about myself.
-    
+
     Another interesting paradox regarding performance, achievance and life in general is that difficult times don’t inevitably decrease learning, achievement, and performance. Rather, they provide a kind of drive that is often lacking when all is well. The general principle is that anything, even shocks, crises, and tragedies can be harnessed for good.
-    
+
     Thought game: Take a premise or conclusion, and lead it through to its logical conclusion, po-Dostoevskomu.
-    
+
     - Points of view typical of or inherent in different fields, occupations, etc., and how to achieve a balanced, well-rounded view
-    
+
     Why is the “Rule of 3” so effective? (B2/17)
-    
+
     Is it possible for 2 wrongs to make a right (see Roe v. Wade)? (B8)
-    
+
     What is truly universal? What are the common threads of reality that transcend all cultural and individual differences? (B16)
-    
+
     How can one differentiate between knowledge gained by the senses and dreams, hallucinations, and other intramental phenomena? (B20)
-    
+
     We often speak of events and circumstances as “meant to be”. Is there an equally good “alternate reality”? (B28)
-    
+
     Is it better to evaluate from the top down, or the bottom up? (B29)
-    
+
     Which parts of the Theory of the Forms are true, and how do they relate to what I already know? (B31)
-    
+
     Why is the most glorious and intelligent of all creatures also the least self-sufficient? Is that ironic? (B35)
-    
+
     Warum ist die herrlichste intelligenteste Schöpfung Gottes auch gleichzeitig die am
-    
+
     wenigsten selbstst”andige?
-    
+
     - Demut, Verst”andnis seiner Abh”amgigkeit von Gott - Mosiah 2
-    
+
     Why is a thing considered beautiful? What is beauty? (B44)
-    
+
     How many different categories of feeling exist? (B59)
-    
+
     pleasant and good, pleasant and evil, unpleasant and good, unpleasant and evil, neutral(?)
-    
+
     Can one have multiple motivations (primary, secondary, etc.) for the same action? (B61)
-    
+
     How can I avoid the pitfall of evaluating others solely on the basis of their quantifiable accomplishments? (B67)
-    
+
     Which qualities, good and bad, are predominantly male, predominantly female, and neutral? (LG1)
-    
+
     What is the connection between spirit and body? (LG3)
-    
+
     How can I learn to think more clearly, and analyze my own thoughts and assumptions, in order to avoid developing incorrect conclusions? (LG11)
-    
+
     What is the complete list of factors that shape and individual? (LG22) -
-    
+
     What influences the profundity of a given action’s effect? (DG20)
-    
+
     What are the criteria for the goodness or badness of an action? (DG21)
-    
+
     What is the best way to view achievement, relative, absolute, or both? (P1)
-    
+
     What are the proper attitudes toward past, present, and future? (P13)
-    
+
     How can all branches of knowledge and study be analyzed and organized in relation to one another? (P15)
-    
+
     Can one accurately distinguish between mental, spiritual, and emotional? Does “spiritual” simply comprise the other two?
-    
+
     How long does it take in a new environment or situation for one’s previously developed character and habits to come to the surface? (P25)
-    
+
     Are the feelings we experience unique, or are they like combinations of notes from a keyboard of universal possibilities? (P29)
-    
+
     What is the difference between feelings and attitudes? (P30)
-    
+
     Is there a fundamental set of ideas from which all ideas are derived, analogous to the letters and sounds from which words are derived.
-    
+
     What is the relationship between intelligence and happiness?
-    
+
     Sounds have their own intrinsic beauty. What makes them so?
-    
+
     How do positive and negative feedback cycles develop?
-    
+
     Is memory a function of spirit or body, or both?
-    
+
     How do you find a balance between feeling bad about mistakes and shortcomings and appreciating yourself for the good you do? (S9)
-    
+
     Is it possible to quantify happiness?
-    
+
     What are the proper attitudes toward good and bad and the past, present, and future (in 6 combinations)? (S10)
-    
+
     What are the meaning, benefit, and shortcomings of jealousy? Why do we experience it? What purpose does it serve?
-    
+
     What is the meaning of the feeling that “something is missing”? To what extent is it undesirable, and to what extent is it a useful catalyst?
-    
+
     Given its possibilty and rewarding nature, why are there not more polymaths, or even well-rounded, well-informed people with reasonable views?
-    
+
     How much does humanity currently know about what there is to know?
-    
+
     What are the causes of bad, evil, conflict, etc.? I.e., why do some choose evil over good?
-    
+
     What is the mechanism of response to different kinds of stimulation/reward (freedom of choice)?
-    
+
     Was glaubte Bertrand Russell?
-    
+
     What is truly universal? What are the common threads of reality that transcend all cultural and individual differences?
-    
+
     Even those who maintain the unreliability of the senses use their senses in coming to that conclusion. But how can one be sure to differentiate between information gained through the senses and dreams, hallucinations, and other intramental phenomena?
-    
+
     We often talk about events or circumstances as “meant to be”. Are there equally good potential (hypothetical past or could-have-been) alternate realities?
-    
+
     Is it better (more correct) to evaluate from the top down, or from the bottom (0 if a score) up? How is this related to the concept of innocence-until-proven-guilty?
-    
+
     ¿Qué significa “derecho” natural?
-    
+
     Perhaps we have traded cultural diversity for a more varied personal life—certainly for a more varied and fast-paced technological life.
-    
+
     Was ist gut?
-    
+
     Ethics and philosophy behind military interventions and their justification
-    
+
     Ethics of neutrality (à la Suisse)
-    
+
     Most children have trouble accepting perceived injustice, but only when it disfavors them. Unfairness in their favor is typically much easier to swallow. Maybe the most difficult part of coming of age is accepting and coming to terms with the realisation that life is profoundly and cruelly unfair, and almost exclusively in my favor.
-    
+
     I don't remember my first experience with pain, but I don't remember a time when I didn't understand on an experiential level what pain is and what kinds of things generally cause it. Neither can I remember a time when I didn't buy into the idea of justice, a concept that seems to be deeply encoded in human nature and reinforced by the culture I come from. I don't know why, at twenty-three years of age, I am so jarred by an understanding of my own good fortune. Psychology is complex, and it would be difficult for an impartial observer to untangle the thoughts and their connected emotions that have occupied me lately, and it seems hopeless for me, their bearer, to make any sense out of them. As far as I can tell, I am disturbed primarily by an understanding of the suffering that certain individuals and groups have undergone throughout history, encompassing sensations such as pain and panic. Why am I living in a prosperous nation enjoying internal peace and relative stability instead of in the labs of Shiro Ishii or Josef Mengele? Why am I racked by difficult philosophical problems or crises of faith and not torn apart on a physical rack or endangered by a political crisis? Why do I Why am I surrounded by beauty and prosperity instead of war and famine?
-    
+
     I can trace the chain of causes from prehistoric times to the present and understand intellectually what forces, decisions, and historical accidents have led to my existence here and now. I can account, albeit imperfectly, for most events I read about. The dilemma seems to be primarily emotional, and of the worst kind. Emotional quasi-reasoning brings me around in circles of horror, empathy, hypothetical speculations, guilt, disillusionment, and bewilderment. What right do I have to my sheltered and blissful existence while others have undergone excruciating torment I can not imagine? What kind of a world do I live in? Am I deluding myself in believing that the world is good, or that God is good? How was I so undisturbed before? How can there be so much evil in the world and yet so much good, and how can a single mind possibly fathom both? What would I do in the place of someone less fortunate?
-    
+
     The ethical questions are similar. How should I think about past events that cannot be helped? What can I do about things going on today? Any attempt to assuage my feelings analogous to "survivor's guilt" seems somehow shallow and disingenuous, like so much else that I hear from my fellow Americans. If pain is good for the soul, why do some torture victims go insane? Why can I not stick a pin in my finger, and if I did, what would I gain from it? What qualifies sheltered people to make pronouncements about suffering at all? So much of everyday and pulpit theodicy feels fundamentally hypocritical to me.
-    
+
     This puzzle has no resolution. In a sense, my own luck is my burden to carry because it is a heavy responsibility and a constant reminder of the unjust, perverse world we live in, but even this sentiment sounds like a poor attempt to portray myself as carrying a burden. A burden it is, in its own sort of way, but a comparison to real suffering and horror is absurd. This is not an easy feeling to explain, with no simple title or research that I am familiar with. I do not know of anyone who has felt so acutely about his or her own luck, and I don't know how common it is. Maybe the entire feeling is nonsense, but I believe somehow that it is related to some essential concepts and questions in life, and it may hold some value for me as an individual. Still, the thought of deriving some kind of personal character benefit from another's suffering starts the cycle up again, and I am back where I began.
-    
+
     To what extent are hypotheticals useful and relevant?
-    
+
     Hierarchy of thought or ecosystem of thought
-    
+
     Freier Wille und Selbstdisziplin
-    
+
     Was ist freier Wille? Was schränkt ihn ein? Wie wird er von verschiedenen Faktoren beeinträchtigt?
-    
+
     Given two arbitrary objects or ideas, what connects them; what do they have in common?
-    
+
     Philosophie und Schuldgefühle
-    
+
     Where are the folk/lay/everyday philosophers? What can we, especially I, learn from them?
-    
+
     Why do some people not ask many questions?
-    
+
     - Was ist der Mensch?
     - Was braucht der Mensch?
     - Was brauchen einzelne Menschen verschieden?
@@ -7774,23 +7774,23 @@ What are my ethical obligations?
     - Welchen Einfluss übt das psychologische Zentrum eines Menschen?
     - Welche psychologische, antheopologische, usw. Theorien würden mir helfen, dies besser zu verstehen?r
     - Welche verschiedenen Schemen gibt es, Menschen nach Typ aufzuteilen?
-    
+
     Kann theoretisch jeder wirtschaftswissenschaftliche Theorie lernen? Wie viele könnten das? Warum bekommen ncht alle gute Noten - welche Faktoren spielen hier eine Rolle?
-    
+
     heutige Relevanz der Metaphysik und Verbindung mit der Wissenschaft
         * [Наша сексуальная этика - Рассел Бертран :: Режим чтения](https://royallib.com/read/rassel_bertran/nasha_seksualnaya_etika.html#0)
         * [Атеизм и сексуальная этика: iskander_bel](https://iskander-bel.livejournal.com/384928.html)
         * [Сексуальная этика, суть и задачи | Информационный Вкус](http://moral.infotaste.com/seksualnaya-etika-sut-i-zadachi/)
         * [Сексуальная этика / Философский словарь](http://www.harc.ru/slovar/1931.html)
-    
+
     Where is the line between what is warranted and what is extravagant?
-    
+
     It's not my style to shy away from controversy on Facebook, and a lot of the time, I'm stating controversial opinions. This post is about honest questions, rather than opinions, but on a really touchy subject, so skip this if you're in cat video mode.
-    
+
     I like to use Facebook to crowdsource philosophy, and that's what I'm trying to do here. One of the most divisive issues that I don't completely understand is abortion, with its arguments for and against. I can understand people not feeling comfortable talking about these issues in such a public forum, but these things are important, and they need to be discussed. Here's my understanding and my critique of some of the arguments I hear, and I want to be told what it is I'm overlooking.
-    
+
     One the one side, I hear abortion equated with murder without qualification, while another extreme calls any opposition to abortion rights totalitarian control of a woman's body.
-    
+
     - Which ethical system? --> hypocrisy
     - Appeal to potential
     - Woman's right to do what she wants with her own body; liver argument
@@ -7799,273 +7799,273 @@ What are my ethical obligations?
     - Other animals
     - Problems with definition as murder, LDS position
     - Thought experiment with frozen embryos
-    
+
     Please comment in words, not links. This should be something that we are able to talk about in our own words (or quotes), without outsourcing the burden of debate. Hyperlink wars get spammy fast. My post, my rules.
-    
+
     Kinderzahl und Kapazität der Erde
-    
+
     Wie definiert man eine Eigenschaft? Ab welchem Punkt besitzt man eine Eigenschaft, bzw. wird durch sie geprägt?
-    
+
     basis for classifying feelings as "vulgar" and "refined"
-    
+
     Se...alethik
-    
+
     Philisophie der Ursache und Wirkung
-    
+
     - > mit Anwendung in zur Frage, weshalb manche Leute so furchtbare Eltern sind.
         * [Философия](http://nalanda.ru/east-philos.html)
-    
+
     ExistentialComics (FB/site)
-    
+
     Welche Beziehung besteht zwischen der Mathematik und dem Kosmos?
-    
+
     - -> Philosophie der Mathematik
-    
+
     Woher weiß ich das, was ich weiß? Wie viel von dem, was ich zu wissen glaube, weiß ich tatsächlich? Wer und was beherrscht die Information? Wem vertraue ich? Wie kann ich mich gegen Täuschung und Manipulation wehren? Welche Risiken begleiten die Entscheidung, einem gewissen Menschen bzw. einer Gruppe von Menschen zu vertrauen?
-    
+
     как мне быть с теми, кто не ценит философию?
-    
+
     Book Idea: Humans to Organ Stops: Ways We Are Manipulated
-    
+
     - -> Analogie einer Skulptur: der Künstler fängt an mit einem Steinblock und entfernt alles, was sich nicht gehört bis am Ende nur die Skulptur bleibt, die schon immer da war, aber unsichtbar wegen überflüssiges und unerwünschtes.
-    
+
     Richtung eher als aktuelle Lage. Wille eher als Vergangenheit.
-    
+
     blue-collar philosophers
         * http://nalanda.ru/east-philos.html
-    
+
     Philosophie und Schuldgefühle
         * https://m.vk.com/wall-36047336_65651?from=feed_search/0/30+secondes+philosophies+epub
-    
+
     Gibt es eine Obergrenze des möglichen Schmerzens?
-    
+
     paradoxe Dieu-pierre (en créer un d'aussi grande qu' il ne puisse le lever)
-    
+
     Philosophical problem of specialization
-    
+
     - -> possibility of seeing the world completely (well-roundedly) with a specialization as a starting point, from which knowledge and experience radiate outward
-    
+
     Philsophie über verschiedene Einstellungen zur Philsophie
-    
+
     was unterliegt meine Emotionelle reaktion zu den Erfahrungen und Wertesytemen anderer? (langer, langweiliger Arbeitstag, Geringschätzung der Bildung und Kultur, usw.). Wo liegt die Grenze zwischen moralischen (--> gerechtfertigt traurigen) und amoralischen ("ihr Leben, ihre Entscheidungen, kein Problem") Entscheidungen/Wertesystemen?
-    
+
     filisofía y los diablos de nuestra natura (Antiguo Testamento, por ejemplo)
-    
+
     Welche treibende Kräfte stecken hinter der Philosophie?
-    
+
     philosophy and the "common man"
-    
+
     - -> elitism and social class
-    
+
     Jusqu'à quel point sont le stoïcisme et l'épicurisme sont-ils compatibles?
-    
+
     Philosophie der Mathematik
-    
+
     nature vs nurture in aesthetics
-    
+
     Analyse der Weltanschauungen
-    
+
     philosophy of science
-    
+
     Giordano Bruno
         * [Filo RU](https://vk.com/audio?performer=1&q=%D0%92%D0%BE%D0%BB%D0%BE%D0%B3%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9%20%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BA%D0%BB%D1%83%D0%B1)
         * [Learning from Six Philosophers: Descartes, Spinoza, Leibniz, Locke, Berkeley, Hume](https://libgen.is/book/index.php?md5=7D79EF4E8130D412BC5E982CF4B6E622)
-    
+
     Wikizitat Kontingenz
-    
+
     Kropotkin Bibliography
         * [The role of African languages in African philosophy | Cairn.info](https://www.cairn.info/revue-rue-descartes-2002-2-page-129.htm#)
         * [Spinoza YT](https://www.youtube.com/results?search_query=spinoza)
-    
+
     Bruce Weinberg
-    
+
     Jared Diamond
-    
+
     John Brockman
-    
+
     Charles van Doren
-    
+
     Barbara Oakley
-    
+
     Gerd Gigerenzer
-    
+
     Elon Musk
-    
+
     Daniel Kahneman
-    
+
     Dan Ariely
-    
+
     Amos Tversky
-    
+
     Stephen Levitt
-    
+
     Steven Landsberg
-    
+
     Noam Chomsky
-    
+
     Amarya Sen
-    
+
     Will & Ariel Durant
-    
+
     John Gray
         * [Ben_Goertzel](https://en.wikipedia.org/wiki/Ben_Goertzel)
-    
+
     mögliche (Polymathe):
-    
+
     Murray Gell-Mann
-    
+
     Tom Lehrer
-    
+
     Clive James
-    
+
     Brian May
-    
+
     Dean Kamen
         * http://timeblimp.com/?page_id=203
         * https://www.quora.com/Genius-and-Geniuses-Who-among-those-alive-today-would-you-consider-to-be-a-Renaissance-Man-polymath
         * http://boards.straightdope.com/sdmb/showthread.php?t=550613
-    
+
     James Franco
         * https://www.1843magazine.com/content/edward-carr/last-days-polymath
         * https://aeon.co/essays/we-live-in-a-one-track-world-but-anyone-can-become-a-polymath
         * https://www.academia.edu/Documents/in/Polymathy
-    
+
     Shoshana ZUBOFF
-    
+
     Bienvenue dans le capitalisme de surveillance !
-    
+
     Ivan KRASTEV
-    
+
     La démocratie des places
-    
+
     Eva ILLOUZ
-    
+
     Les leçons de #MeToo
-    
+
     Slavoj ŽIŽEK
-    
+
     Quand nos cerveaux seront connectés
-    
+
     Kwame A. APPIAH
-    
+
     Ose parler en ton nom !
-    
+
     Les paradoxes de l’identité
-    
+
     Jonathan FRANZEN
-    
+
     Climat : arrêtons de faire semblant !
-    
+
     Steven PINKER
-    
+
     Le progrès ou les raisons d’y croire
-    
+
     Barbara STIEGLER
-    
+
     Les Gilets jaunes et le mythe de l’adaptation
-    
+
     Léonora MIANO
-    
+
     Aimez-vous la France ?
-    
+
     Teng BIAO
-    
+
     La Chine, Tian’anmen et le « miracle » économique
-    
+
     Walter Wink and Redemptive Violence
-    
+
     Isaak Levitan
-    
+
     Marilynne Robinson - the givenness of things
-    
+
     Noam Chomsky, Bill McKibben, Neil DeGrasse Tyson vs Freeman Dyson, William Hopper, Murry Sulby
-    
+
     жалобы и эгоизм
-    
+
     опасность быть слишком дальновидным
         * [NIHILISM, MINARCHISM, PYRRHONISM META-PHILOSOPHY - Living Radical Scepticism](https://www.academia.edu/keypass/RHdEcGxTcDBIZnh0N2NEVkxQVmdUd2VjQkgxV2FuUkpmMVlWT21RMDdnWT0tLUFSZFgvS3FmYm1aMmZTTFFyYWFvYXc9PQ==--2e80b440e0375e7d2775cb9336c1b34d8b47097d/t/drT8b-NQRbUdW-bfiBHX/resource/work/36348033/NIHILISM_MINARCHISM_PYRRHONISM_META-PHILOSOPHY_-_Living_Radical_Scepticism?email_work_card=title)
-    
+
     qu'est-ce qui nous fait nous-mêmes? comment l'identité persiste à travers les changements personnels?
-    
+
     pourquoi on ne change guère pas au point d'être méconnaissable?
-    
+
     quelles sont les limites du changement personnel?
-    
+
     Wie definiert man Prinzipien?
-    
+
     значение, цель, предназначение жизни?
-    
+
     why ascribe ideas to a certain thinker? is intellectual property an oxymoron?
-    
+
     philosophie de la souffrance
-    
+
     Как мне быть счастливым в то время, как страдают другие?
-    
+
     When and where are ad hominem kinds of arguments appropriate (i.e. education and health policy where lawmakers won't subject themselves to their own policies)?
-    
+
     Grosse Frage: Zweck des Lebens
-    
+
     in Bezug auf: Fortschritt, Gerechtigkeit, Rechtschaffenheit, Motivation
-    
+
     Commitment to empirically verifiable truth - ideas must hold up to reality
-    
+
     implications of inequality of knowledge, mind, education, talent
-    
+
     How much pain and suffering is hypothetically possible?
-    
+
     How does one compare different physical and psychological pains?
-    
+
     Are hypothetical questions sometimes useless or harmful?
-    
+
     What is pain?
-    
+
     hypothetische Philosophie
-    
+
     Wenn traurige Wahrheiten gute Nebenwirkungen haben: positionelle Externalitäten (z.B.: nicht viele wollen nach Europa, viel reisen, Topintellektuelle werden, viele Framdsprachen beherrschen / Militärpresenz in Deutschland)
-    
+
     differences between WWII, Korea and everything else
-    
+
     Dichotomie zwischen Tat und Gedanken
-    
+
     ethics of Swiss neutrality
-    
+
     ethics of military intervention
-    
+
     Wissen und Verständnis, Endziel und Instrument
-    
+
     What do different religions and worldviews posit about personal change and ability to change, or the meaning of the past and one's relationship to it?
-    
+
     sociology of scientific research
-    
+
     Wofür lohnt es sich, zu sterben?
-    
+
     Wie komme ich mit der Ungleichheit zurecht (z.B. in Bildung), oder sollte ich das überhaupt?
-    
+
     Qu'est-ce que l'essentiel dans la vie?
-    
+
     Philosophie der Kultur
-    
+
     Wie kann ich gegen sexuelle Sklaverei kämpfen?
-    
+
     justice: opportunity and consequence
-    
+
     fairness: results
-    
+
     Was sollten alle wissen, können, machen und sein? Auf welcher moralischen Grundlage?
-    
+
     Ethik der Geburtskontrolle
-    
+
     Infinitesimal ethics: how to act when your influence is small
         * [Комментарии к «Государю» Макиавелли](https://b-ok.cc/book/2947945/111708)
-    
+
     Pascal Engel
-    
+
     Pascal Engel - Y'a-t-il une éthique intellectuelle ?
-    
+
 * Ethics
-    
+
     what are my ethical obligations toward the world?
-        * https://www.nature.com/scitable/knowledge/library/ethics-and-global-climate-change-84226631/ 
+        * https://www.nature.com/scitable/knowledge/library/ethics-and-global-climate-change-84226631/
         * [Peter Singer: Suffering in Humans, Animals, and AI | Lex Fridman Podcast #107 - YouTube](https://www.youtube.com/watch?v=llh-2pqSGrs)
         * [#107 - Peter Singer: Suffering in Humans, Animals, and AI | MIT | Artificial Intelligence Podcast](https://lexfridman.com/peter-singer/)
         * [The world's most famous utilitarian on whether all carnivorous animals should be killed - Vox](https://www.vox.com/2015/6/18/8802755/peter-singer)
@@ -8079,7 +8079,7 @@ What are my ethical obligations?
         * [The Starfish Principle - Every Little Bit Helps - Kristian Glass - Do I Smell Burning?](https://blog.doismellburning.co.uk/the-starfish-principle-every-little-bit-helps/)
         * [(3) Feminist Mormon Housewives Society | TW anxiety, climate change | Facebook](https://www.facebook.com/groups/fmhsociety/posts/6141405705933307)
         * [The Psychology Of Emotions, Feelings and Thoughts - The Complete Artwork Collection of Mark Xiornik Rozen Pettinelli - OpenStax CNX](https://cnx.org/contents/LTjQLL1F@40.7:vsCCnNdd@150/The-Psychology-Of-Emotions-Feelings-and-Thoughts)
-    
+
     - [** It's impossible to lead a totally ethical life—but it's fun to try — Quartz](https://qz.com/1327804/its-impossible-to-lead-a-totally-ethical-life-but-its-fun-to-try/)
         * [There's No Right Way To Do The Wrong Thing by Christopher Gilbert | Goodreads](https://www.goodreads.com/book/show/39925380-there-s-no-right-way-to-do-the-wrong-thing)
         * [best proposed alternatives to capitalism - Cerca con Google](https://www.google.com/search?channel=fs&client=ubuntu&q=best+proposed+alternatives+to+capitalism)
@@ -8087,7 +8087,7 @@ What are my ethical obligations?
         * [are most people unethical? - Cerca con Google](https://www.google.com/search?channel=fs&client=ubuntu&q=are+most+people+unethical%3F)
         * [ethical people unaware of the consequences of their behavior - Cerca con Google](https://www.google.com/search?q=ethical+people+unaware+of+the+consequences+of+their+behavior&client=ubuntu&hs=i6Z&channel=fs&sxsrf=AOaemvILetrUnmbJI1K1cmUnuSOiYZ6TdA%3A1632750608661&ei=EMxRYbThJ9CalwS2sJ7ACw&oq=ethical+people+unaware+of+the+consequences+of+their+behavior&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsAM6BAgjECc6BggjECcQEzoFCC4QgAQ6BQgAEIAEOgsILhCABBDHARCjAjoECAAQQzoLCC4QgAQQxwEQ0QM6DQguEIAEEMcBEKMCEAo6BwguEEMQkwI6BwgjEOoCECc6BAguEEM6CgguEMcBENEDEEM6CwguEIAEEMcBEK8BOggIABCABBDJAzoHCAAQgAQQCjoFCAAQywE6BggAEBYQHjoECAAQEzoGCAAQChATOggIABAWEB4QE0oECEEYAFD6xAFYi6YCYMSoAmgFcAJ4AIABpAKIAfw7kgEHMzAuMjkuNZgBAKABAbABCsgBBsABAQ&sclient=gws-wiz&ved=0ahUKEwi0qaSApp_zAhVQzYUKHTaYB7gQ4dUDCA4&uact=5)
         * [The Star Thrower - Wikipedia](https://en.wikipedia.org/wiki/The_Star_Thrower)
-    
+
     - [** John Gray | The New York Review of Books](https://nybooks.com/contributors/john-gray/)
         * [Subscriptions](https://subscribe.nybooks.info/ecom/nyb/app/live/subscriptions?org=NYB&publ=NY&key_code=EPGXM01&type=S&current_page=https://nybooks.com/articles/1986/10/09/why-read-the-classics/)
         * [John Gray: the nationalist philosopher stoking ‘culture wars’ fires | openDemocracy](https://www.opendemocracy.net/en/can-europe-make-it/john-gray-the-nationalist-philosophe-stoking-culture-wars-fires/)
@@ -8157,7 +8157,7 @@ What are my ethical obligations?
         * [20 incredible charities that give 99% of the money they get to the actual cause - MarketWatch](https://www.marketwatch.com/story/20-incredible-charities-that-give-99-of-the-money-they-get-to-the-actual-cause-2017-12-28)
         * [Library Genesis: Jodey Castricano, Rasmus R. Simonsen (eds.) - Critical Perspectives on Veganism](http://libgen.rs/book/index.php?md5=95522F2AD4BE5CAEA2B3B0F7FEA211E7)
         * [Russell Brand & Frankie Boyle - Is It Possible To Live A Moral Life? - YouTube](https://www.youtube.com/watch?v=LFpKOw1XzG0)
-    
+
     - Ethics
 * Reading (1)
         * [(?) https://www.researchgate.net/publication/265857037_Technological_and_ethical_antecedents_of_e-book_piracy_and_price_acceptance_Evidence_from_the_Spanish_case](https://www.researchgate.net/publication/265857037_Technological_and_ethical_antecedents_of_e-book_piracy_and_price_acceptance_Evidence_from_the_Spanish_case)
@@ -8194,69 +8194,69 @@ What are my ethical obligations?
         * [Kant](https://vk.com/wall-169634550_4744)
         * https://thegodlesstheist.com/about/
         * [Beating hearts: abortion and animal rights](https://libgen.rs/book/index.php?md5=3595E81A202F542435B4F5981EB9758B)
-    
+
     Главная проблема: Как думать о мире вокруг
-    
+
     101 Great Philosophers
-    
+
     Why You Think the Way You Do
-    
+
     The Oxford Encyclopedia of African Thought
-    
+
     Vom Guten, Wahren und Schönen (Lewitscharoff)
         * [https://en.wikipedia.org/wiki/Dempster–Shafer_theory](https://en.wikipedia.org/wiki/Dempster%E2%80%93Shafer_theory)
-    
+
     Индийская философия
-    
+
     История буддизма
-    
+
     Что все это значит - Нагель
-    
+
     A History of Language Philosophies
-    
+
     Eating Animals
-    
+
     Citations de Spinoza expliquées
-    
+
     Des philosophies pour bien vivre
-    
+
     A New Stoicism
-    
+
     The Philosophy of Epictetus
-    
+
     Réviser son BAC avec Le Monde: Philosophie
-    
+
     Ästhetik oder die Wissenschaft des Schönen - Theodor von Vischer
-    
+
     Vom musikalisch Schönen
-    
+
     С точки зрения Бодрийара
-    
+
     Смерть Сократа
-    
+
     О правах всерьез - Дворкин
-    
+
     Секс, убийство и смысл жизни
-    
+
     Чтение философии
-    
+
     Язык, истина и логика
-    
+
     Ринпоче - Будда
-    
+
     Философия за час
-    
+
     Винни Пух и философия обыденного языка
-    
+
     Эрос и философия
         * https://www.bloomsbury.com/us/101-great-philosophers-9781441165633/
-    
+
     → absolute vs personal (individual-specific) morality
-    
+
     4 virtues
-    
+
     how to live in the face of injustice
-    
+
     Original Buddhist Psychology
         * [Философия. Иллюстрированная хронология науки [2017]](https://vk.com/doc44301783_618785425?hash=c3ea188e97f1a2e32f&dl=6de37c149c14e5d7c7)
         * [Epistemology Books](http://libgen.is/search.php?&req=%09Stephen+Hetherington&phrase=1&view=simple&column=def&sort=language&sortmode=ASC)
@@ -8274,18 +8274,18 @@ What are my ethical obligations?
         * [Auf der Suche nach einer besseren Welt. Vorträge und Aufsätze aus dreißig Jahren](https://b-ok.cc/book/944387/dcf9fb)
         * [Can We Survive Technology? - John von Neumann](http://geosci.uchicago.edu/~kite/doc/von_Neumann_1955.pdf)
         * [Answer to Fyodor Dostoevsky once said, “Without God, all things are permitted”. Taking this out of context, what is the most plausible response an atheist should give a Christian posing this quote? by Paul Brocklehurst](https://www.quora.com/Fyodor-Dostoevsky-once-said-Without-God-all-things-are-permitted-Taking-this-out-of-context-what-is-the-most-plausible-response-an-atheist-should-give-a-Christian-posing-this-quote/answer/Paul-Brocklehurst-2?ch=99&oid=188431722&share=b0e901fe&srid=HPb8&target_type=answer)
-    
+
     ideologies that serve to justify wealth accumulation
         * [Цикл увлекательных лекций по философии](https://vk.com/wall-6827569_39525)
         * [Capitalism Is Ruining Science](https://www.jacobinmag.com/2018/07/capitalism-science-research-academia-funding-publishing?fbclid=IwAR3CW6YWyJilPO2T8Fal5SSHKrrajBA-10BybzlhaTbG6jUdtne9UkDYGXw)
         * https://www.currentaffairs.org/2017/06/its-basically-just-immoral-to-be-rich
-    
+
     how the super-rch justify hoarding their wealth
-    
+
     is it not callous to be happy when there is so much suffering in the world
         * https://www.reddit.com/r/samharris/comments/7izocv/its_basically_just_immoral_to_be_rich/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
         * https://www.reddit.com/r/Anarchy101/comments/gmaw79/what_are_your_thoughts_on_noncompete_aka_emerican/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
-    
+
     australian aboriginal philosophers
         * [Pierre Des Maizeaux (ed.) - Recueil de diverses pièces sur la philosophie, la religion naturelle, l'histoire, les mathématiques etc. Par Mrs. Leibniz, Clarke, Newton, & autres auteurs célèbres.](http://libgen.rs/book/index.php?md5=455C5FD1F06517A717F785DD863A6E57)
         * [Thomas Bedürftig, Roman Murawski - Philosophie der Mathematik](http://libgen.rs/book/index.php?md5=E5A4FA2EB6F89069C567777391693B80)
@@ -8294,11 +8294,11 @@ What are my ethical obligations?
         * http://libgen.rs/search.php?req=philosophie+der+mathematik&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
         * [Mathematical Platonism](https://www.calstatela.edu/sites/default/files/groups/Department%20of%20Philosophy/mathematical_platonism.pdf)
         * [https://www.reddit.com/r/exmormon/comments/o0r6af/ive_always_believed_in_paranormal_but_now_that_im/](https://www.reddit.com/r/exmormon/comments/o0r6af/ive_always_believed_in_paranormal_but_now_that_im/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
-    
+
     Enzyklopädie Philosophie und Wissenschaftstheorie
         * [Erich Fromm – Wikipedia](https://de.wikipedia.org/wiki/Erich_Fromm)
         * [Is Nature All There Is? Theism vs Naturalism Debate - YouTube](https://www.youtube.com/watch?v=W0j25NteoXc)
-    
+
     philosophical views of humility (--> status, hierarchy, etc.)
         * [Cómo piensa el mundo](http://libgen.rs/book/index.php?md5=F35F69441D1DCD56F291FD08F8D924C1)
         * [Una visión de ningún lugar](http://library.lol/main/D28F51106D14829BB8B7D92B09261054)
@@ -8331,7 +8331,7 @@ What are my ethical obligations?
         * [evolution philosophy](https://de1lib.org/s/evolution%20philosophy)
         * [Nicholas Maxwell - Science and Enlightenment: Two Great Problems of Learning](http://libgen.rs/book/index.php?md5=2208C99FA8ABE46A466001BFE362291D)
         * http://libgen.li/search.php?&req=sapiens+harari&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=2
-    
+
     social status and evolutionary fitness
         * [Will humanity survive forever? - CLEMENS P. SUTERCLEMENS P. SUTER](https://clemenssuter.com/will-humanity-survive-forever/?cn-reloaded=1)
         * [How Humanity Could Last Forever](https://www.gizmodo.com.au/2020/03/how-humanity-could-last-forever/)
@@ -8343,7 +8343,7 @@ What are my ethical obligations?
         * http://libgen.rs/search.php?&req=ethics+market&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
         * http://libgen.rs/search.php?&req=ethik&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
         * https://www.effectivealtruism.org/
-    
+
     - -> criticisms of effective altruism
         * [svob vol](https://vk.com/wall-55155418_225517)
         * [Dean Rickles - What Is Philosophy of Science?](http://libgen.rs/book/index.php?md5=BF20A9128D8D658D7B41618B3270FC40)
@@ -8361,11 +8361,11 @@ What are my ethical obligations?
         * http://hayek.ru/hayek2.html
         * https://nicomaque.com/2014/12/10/discours-de-reception-du-prix-nobel-par-friedrich-hayek/
         * http://libgen.rs/search.php?&req=philosophy+of+science+bunge&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
-    
+
 * Reading (2)
         * https://orbi.uliege.be/bitstream/2268/27735/1/Peuple,%20populaire,%20populisme.pdf
         * http://iphilo.fr/2016/11/15/quest-ce-que-le-populisme-laurent-bouvet/
-    
+
     Christian Felber
         * https://de.wikipedia.org/wiki/Svenja_Fla%C3%9Fp%C3%B6hler
         * https://de.wikipedia.org/wiki/William_Godwin
@@ -8451,7 +8451,7 @@ What are my ethical obligations?
         * https://www.nytimes.com/2016/05/11/opinion/if-philosophy-wont-diversify-lets-call-it-what-it-really-is.html?smid=fb-share&_r=0
         * https://theculturetrip.com/europe/united-kingdom/articles/top-10-living-philosophers/
         * https://fr.wikipedia.org/wiki/Histoire_de_la_philosophie
-    
+
     file:///Users/iriley/Google%20Drive/MICHEL%20ONFRAY%20-%20ANTIMANUEL%20DE%20PHILOSOPHIE%20(2001,%20BREAL).pdf
         * https://special.theoryandpractice.ru/einstein
         * https://monocler.ru/slow-life/
@@ -8477,7 +8477,7 @@ What are my ethical obligations?
         * https://chomsky.info/
         * http://www.truefreethinker.com/tag/mormon
         * https://www.youtube.com/user/PavlovaElen/playlists
-    
+
     - ****
         * http://ordainwomen.org/searching-for-heavenly-mother/
         * https://www.churchhistorianspress.org/
@@ -8485,17 +8485,17 @@ What are my ethical obligations?
         * http://www.naturalthinker.net/trl/index.html
         * http://world.std.com/~mhuben/critobj.html
         * https://www.samharris.org/podcast/item/reality-and-the-imagination
-    
+
     Schuld der Gesegneten
         * https://www.quora.com/How-can-I-stop-feeling-guilty-for-being-fortunate
         * http://workwithgrace.com/guilty-good-fortune/
         * https://www.nytimes.com/2017/02/06/world/middleeast/mothers-and-daughters-divided-by-refugee-ban-encounter-the-guilt-of-good-fortune.html?_r=0
         * http://www.solarisweb.at/auszug/gutboese.htm
-    
+
     When and where are ad hominem kinds of arguments appropriate (i.e. education and health policy where lawmakers won't subject themselves to their own policies)?
-    
+
     Grosse Frage: Zweck des Lebens
-    
+
     in Bezug auf: Fortschritt, Gerechtigkeit, Rechtschaffenheit, Motivation
         * http://philologist.livejournal.com/7632628.html
         * http://os.colta.ru/society/russia/details/15155/
@@ -8576,9 +8576,9 @@ What are my ethical obligations?
         * https://www.haugenbok.no/Skjoennlitteratur/Ungdomsboeker/Sofies-verden4/I9788203254147
         * https://infokiosques.net/IMG/pdf/Le_Mythe_du_Progres_LIVRET-2.pdf
         * http://www.cafephilosophia.fr/sujets/le-progres-un-mythe-depasse/
-    
+
 * Reading (3)
-    
+
     à lire sur la moralité
         * http://spot.colorado.edu/~tooley/Lecture14.html
         * https://www.dukeupress.edu/in-defense-of-honor
@@ -8591,11 +8591,11 @@ What are my ethical obligations?
         * https://regulation.revues.org/11918?lang=fr
         * http://biblioteca.itam.mx/estudios/estudio/estudio02/sec_7.html
         * [Анархизм (книги)](https://vk.com/wall-176520650_876)
-    
+
     philosophie de la science
         * http://www.stevemcintosh.com/
         * https://researchrundowns.com/
-    
+
     disenchanted lives, marshall brooks
         * [La Isla de los Lotófagos - Club de Filosofía: La Grecia prefilosófica y los orígenes del pensamiento racional](https://lotofagos-island.blogspot.com/2011/09/la-grecia-prefilosofica-y-los-origenes.html?m=1&fbclid=IwAR0Zko1De1HLzQHXGd6OhvNDqXp5BgqRdYz4h_kv9s7YBSDBkVRRqKnyudA)
         * [ETH-Bibliothek / Gottfried Wilhelm von Leibniz philosophische Werke nach Raspens Sammlung](https://www.e-rara.ch/zut/collections/content/structure/8305133)
@@ -8618,13 +8618,13 @@ What are my ethical obligations?
         * [Des jeux et des hommes | Berne Eric | download](https://b-ok.cc/book/4751012/f9751f)
         * [Life in the Universe: A Beginner's Guide | Lewis Dartnell | download](https://b-ok.cc/book/564765/c98b82)
         * [Каббала в контексте истории и современности: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/%D0%9A%D0%B0%D0%B1%D0%B1%D0%B0%D0%BB%D0%B0%20%D0%B2%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B5%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8%20%D0%B8%20%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8)
-    
+
     - [**Trésor Educatif - YouTube](https://www.youtube.com/channel/UC6WgU2q9Bzh1PYTGEE_1ztg/playlists)
     - [***Sprachtheorie in der Literatur der hebräischen Kabbala | SpringerLink](https://link.springer.com/chapter/10.1007%2F978-3-476-03710-7_3)
         * [Kabbala – Wikipedia](https://de.wikipedia.org/wiki/Kabbala)
         * [Michael Laitman – Wikipedia](https://de.wikipedia.org/wiki/Michael_Laitman)
         * [Der Sohar und seine Lehre [microform] : Einleitung in die Gedankenwelt der Kabbalah](https://warburg.sas.ac.uk/pdf/abg440b2382171.pdf)
-    
+
     - [***Sprachtheorie in der Literatur der hebräischen Kabbala | SpringerLink](https://link.springer.com/chapter/10.1007%2F978-3-476-03710-7_3)
         * [Rosenroth's Kabbala Denudata, scanned from the Latin](http://www.billheidrick.com/Orpd/KRKD/index.htm)
         * [promench](https://www.arretetonchar.fr/wp-content/uploads/2013/IMG/archives/langue/juxtalineaires/grec/promench.pdf)
@@ -8657,12 +8657,12 @@ What are my ethical obligations?
         * [TVU. Share - YouTube](https://www.youtube.com/channel/UC_ascUsU1FplVjUTJkU05Ig)
         * [Riccardo Manzotti - YouTube](https://www.youtube.com/results?search_query=Riccardo+Manzotti)
         * [Noam Chomsky's Language Theory: Best explanation you will ever hear (UGC NET English) - YouTube](https://www.youtube.com/watch?v=7fW_8bDGdX0)
-    
+
     religion
-    
+
     a leer y ordenar / general
         * [Glossary of Undue Influence](http://thoughtsonthingsandstuff.com/glossary-of-undue-influence/)
-    
+
     - [* Church changes](https://www.reddit.com/r/mormon/comments/6x3apz/ok_real_talk_here_joseph_smith_era_church_vs_lds/)
         * [2017 /r/ExMormon Demographic Survey](https://docs.google.com/forms/d/e/1FAIpQLSda74nQMthKCBUiAnzlAxTOkqcSnTUMmFgh_Zgj_YGvWEc_zQ/viewanalytics)
         * [40 Problems with Christianity – Friendly Atheist](http://www.patheos.com/blogs/friendlyatheist/2014/08/26/40-problems-with-christianity/)
@@ -8719,18 +8719,18 @@ What are my ethical obligations?
         * [New Design for Mormon Helping Hands has Leaked! : exmormon](https://mm.reddit.com/r/exmormon/comments/6y5reg/new_design_for_mormon_helping_hands_has_leaked/)
         * [Your Hogwarts House, according to why and how you left the church : exmormon](https://www.reddit.com/r/exmormon/comments/6yrsq1/your_hogwarts_house_according_to_why_and_how_you/)
         * [‘Mormon Land’: 95 ways to improve the Mormon church — from new hymns to padded pews and letting girls pass the sacrament - The Salt Lake Tribune](https://www.sltrib.com/religion/local/2018/01/27/mormon-land-95-ways-to-improve-the-mormon-church-from-new-hymns-to-padded-pews-and-letting-girls-pass-the-sacrament/)
-    
+
     - [****40 Years a Mormon](https://40yrmormon.blogspot.com/)
     - [****A Letter to an Apostle | Thirty-Six Interrogatories on Joseph Smith and the Mormon Narrative](https://lettertoanapostle.org/)
     - [****Faith of a naturalist: response to &quot;Faith of a Science Teacher&quot; questions by bwv549 - Mormon Bandwagon](https://mormonbandwagon.com/bwv549/faith-naturalist-response-faith-science-teacher-questions/)
     - [****Letter To My Wife.pdf - Google Drive](https://drive.google.com/file/d/0B18W3AgWXw6zMUllRW85bXc0RWc/view)
     - [****Questions to Ask by bwv549 - Mormon Bandwagon](https://mormonbandwagon.com/bwv549/questions-to-ask/)
         * [IV Helenismo 9 | El Gran Lebowski: ser feliz con poco | Epicureismo](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWt3mm9swYvw%26fbclid%3DIwAR0s65u29iR4mAPGb1RN5Threjem6-jnHwNdHkF_KFpNch07UsH_2LTka6A&h=AT0jFcbwSXQxJ0GMdOqhx7-KUkMLfokDZQJbcRRMbHurMVN8zcHt-u13TPzu_OfPgGIa6FwSKKZRZaWu99uIvyxPN1zdKU9R6xK3YrNpV5aHlo1EIPWolDgQSx44xeQHGWMz6O6skw)
-    
+
     *[¿ES POSIBLE UNA ÉTICA QUE TODOS PODAMOS VIVIR?](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dp98f5i0rE6c%26fbclid%3DIwAR2IgTc2W21oNdeBp6HQuAUb9smYsCpwg-F4uj7SNFVaYJYyXFdb8eoi-PI&h=AT2FponEQ7nLnmWR3vpVXM7Qen_KmH0wyzEsYpKgvJBgmK9FLYoO_xSPpUwJMYNb5mgWzz4GVULZiK-7v9AkahBK__7XGoIMUvejWYthG4miwWJd671rkoC5mnCCawYCE-FMuNaTBw)*
-    
+
     *[John Rawls and the Original Position](https://l.facebook.com/l.php?u=http%3A%2F%2Fexistentialcomics.com%2Fcomic%2F350%3Ffbclid%3DIwAR0sk7WvYo4w2-YBpjveCxBujaCA98husMMN0Deieva2uzWvn1LQnq3W75Y&h=AT2j9xKqMTwKS555SIdjSb15TXoAnIlMK-D3N5uzQoCttXcTrb9R5fF88QI6XfvCv4Vi01gHqjKzObICm_mO1N_-oH5T_qil7W44mFnFwsQzFachAzLihKfdI90-bl0lBiAEwQymCQ)*
-    
+
     *[Técnicas estoicas para afrontar la búsqueda de empleo](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.thelosconsulta.com%2Fpost%2Ftecnicas-estoicas-afrontar-busqueda-empleo-estoicismo%3Ffbclid%3DIwAR0_v9uG0bE6XbWuNS88cz3NZp6CgSk95Q5LOvslKvDE7hpvoW-MnDd2MUQ&h=AT2nfk817AvFjX2KlVj6IA_q5zgcKIRGAthFKzdSOvX4IIMDqBqAS1gD8xM8cDMenaSOR392MwLH4wNAZEdeDbH48nYm7_6VH529IPUgnjphR6XvJkaRpATQXpgWDAewAhS4HBwByA)*
         * [Doing Ethics: Moral Reasoning and Contemporary Issues: Fourth Edition - Vaughn, Lewis - Google Books](https://books.google.com/books?hl=en&lr=&id=cQneCgAAQBAJ&oi=fnd&pg=PR5&dq=pornography+and+ethics&ots=w2v3CBcaJ1&sig=HLvMaUBQJPeg6tSxCBnuV9yBJqI#v=onepage&q=pornography%20and%20ethics&f=false)
         * [Beyond Speech: Pornography and Analytic Feminist Philosophy - Google Books](https://books.google.com/books?hl=en&lr=&id=LXcLDgAAQBAJ&oi=fnd&pg=PA1&dq=pornography+and+ethics&ots=CIxMcW5TbZ&sig=Q2cLBldh5qEwptSdYiCdJSmnexQ#v=onepage&q=pornography%20and%20ethics&f=false)
@@ -8788,7 +8788,7 @@ What are my ethical obligations?
         * https://en.wikipedia.org/wiki/Concluding_Unscientific_Postscript_to_Philosophical_Fragments
         * https://en.wikipedia.org/wiki/Category:Ukrainian_philosophers
         * http://philipphuebl.com/
-    
+
 * Reading (4)
         * https://valkyrist.wordpress.com/
         * https://philosophiya.ru/
@@ -8837,12 +8837,12 @@ What are my ethical obligations?
         * [Н. Н. Талеб - "Рискуя собственной шкурой" - YouTube](https://www.youtube.com/playlist?list=PLcAsYSQWIgW07a8EyFjTC5EDJbKhxUTdK)
         * [Настоящее значение философских афоризмов](https://vk.com/away.php?to=https%3A%2F%2Farzamas.academy%2Fmaterials%2F1640)
         * [Ник Бостром. Рассуждение о Конце Света для начинаю (Алексей Турчин) / Проза.ру](https://www.proza.ru/2007/04/13-34)
-    
+
     Подавление индивидуальности сводит людей в человеческое стадо, как было в Темные Века Земли, когда христианская церковь фактически выполнила задачу Сатаны, озлобив и сделав убийцами множество людей… К несчастью, главная религиозная книга наиболее техничной и могущественной из прошлых цивилизаций — белой — была Библия, наполненная злом, предательством, племенной враждой и бесконечными убийствами… Для другой великой цивилизации прошлого — желтой — учение Конфуция породило безответную покорность обстоятельствам жизни…
         * [ПОСТМОДЕРНИЗМ](https://vk.com/wall-6827569_21648)
         * [Проблемы христианства в контексте плюрализма философских воззрений на современном этапе | Humane - Гуманный](http://humane.net.ru/content/%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B-%D1%85%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B0-%D0%B2-%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B5-%D0%BF%D0%BB%D1%8E%D1%80%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC%D0%B0-%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D1%81%D0%BA%D0%B8%D1%85-%D0%B2%D0%BE%D0%B7%D0%B7%D1%80%D0%B5%D0%BD%D0%B8%D0%B9-%D0%BD%D0%B0-%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%BC-%D1%8D%D1%82%D0%B0%D0%BF%D0%B5)
         * [Революция искусственного интеллекта: на пути к сверхразуму](https://vk.com/@newochem-urban-ai-1)
-    
+
     русские философы о прогрессе
         * [Сказ о науке и политике | LessWrong на русском](https://lesswrong.ru/w/%D0%A1%D0%BA%D0%B0%D0%B7_%D0%BE_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5_%D0%B8_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B5)
         * [Субъективность — ужасная вещь…. Чехов](https://biography.wikireading.ru/124732)
@@ -8863,7 +8863,7 @@ What are my ethical obligations?
         * [evolution and sexism - Ecosia](https://www.ecosia.org/search?q=evolution+and+sexism)
         * [Fil nauki](https://vk.com/wall-154516093_17848)
         * [filosofia antropologica - YouTube](https://www.youtube.com/results?search_query=filosofia+antropologica)
-    
+
     Filosofía aquí y ahora - Foucault (I)de psicologia unmsm
         * [Filosofia e nuovi sentieri | «Mi rappresento il vasto recinto delle scienze come una grande estensione di terreno disseminato di luoghi oscuri e illuminati. Lo scopo delle nostre fatiche deve essere quello di estendere i confini dei luoghi illuminati, op](https://filosofiaenuovisentieri.com/)
         * [filosofía matemática](https://libgen.is/search.php?req=filosof%C3%ADa+matem%C3%A1tica&open=0&res=25&view=simple&phrase=1&column=def)
@@ -8871,14 +8871,14 @@ What are my ethical obligations?
         * [filosofía!!!](https://mega.nz/#F!8ugSHSSB!4aQQvWfV38i7trjOabiTgw)
         * [filosofico.PDF](http://www.ousia.it/SitoOusia/SitoOusia/TestiDiFilosofia/TestiPDF/Voltaire/Dizionario.pdf)
         * [Gatsby: The Perfect Fake - John Gray - YouTube](https://www.youtube.com/watch?v=lIm_FbpGKvo)
-    
+
     O Valor da Liberdade - 4º episódio (John Gray)de ffmspt
         * [Obsesje słynnych filozofów](https://youtu.be/CQm12LeNM_0)
         * [Charles Bukowski - Cultura para Principiantes - YouTube](https://www.youtube.com/watch?v=q68q92Zlw-o)
         * [CIENCIA, FILOSOFIA E IDEOLOGIA. Enfoques materialistas - YouTube](https://www.youtube.com/watch?v=_tSzxHWohPc&feature=share)
         * [Derrida et la question de l'animal | Cairn.info](https://www.cairn.info/revue-cites-2007-2-page-31.htm)
         * [Descrédito de la profecía | Edición impresa | EL PAÍS](https://elpais.com/diario/2009/05/02/babelia/1241221156_850215.html)
-    
+
     Development as Freedom by Amartya Sen.
         * [5 BOOKS ETHICS](https://www.google.com/search?q=five+books+ethics&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
         * [Рябов Петр Владимирович | VK](https://vk.com/ryabovpetrvladimirovich)
@@ -8927,7 +8927,7 @@ What are my ethical obligations?
         * [СТОИЦИЗМ. Почему он востребован в современном мире. Think Camp. Андрей Баумейстер](https://vk.com/video-60426665_456239492?list=9083e6ff0d64f3d760)
         * [Философия - Иммануил Кант (The School of Life)](https://vk.com/video-52526415_456244112?list=2bc32a55b649454cb9)
         * [Философия - Платон (The School of Life)](https://vk.com/video-52526415_456244113?list=f8a7e51cdecb61037e)
-    
+
     Что мы думаем о машинах, которые думают. Ведущие мировые ученые об искусственном интеллекте. Брокман Дж. (ред.) (Brockman J.)
         * [Язык философии. Специфика философских категорий](https://vk.com/video-6827569_456243825?list=96a39145dab6714ff7)
         * [Kak_byt_stoikom.epub](https://vk.com/doc30601958_458570516?hash=786c9c92b64f322580&dl=bc948274a89e96920f)
@@ -8940,7 +8940,7 @@ What are my ethical obligations?
         * [Dicionário de Filosofia - J. Ferrater Mora — Yandex.Disk](https://disk.yandex.com/d/Zum4hP2Xf4m_1A?fbclid=IwAR2QL8ovZiT37Vx_x-vWuUDxyN3lfbWhw5Gcdj2u4_uINgbQO72RtoMbOzI)
         * https://medium.com/stoic-practices
         * [«GEIGER» – das philosophische Gedankenexperiment | #filosofix - YouTube](https://www.youtube.com/watch?v=8lZCmSZhIPo)
-    
+
     - [Carlos Madrid - ¿Qué es la filosofía de las matemáticas? - YouTube](https://www.youtube.com/watch?v=Cbyp-MG0kdE&feature=share)**
         * [BBC - Future - There’s a problem with the way we define inequality](http://www.bbc.com/future/story/20170706-theres-a-problem-with-the-way-we-define-inequality?ocid=ww.social.link.facebook..GrandIdeas17_&kwp_0=564826&kwp_4=2046930&kwp_1=855147)
         * [BBC Radio 4 - A Point of View - Episode guide](https://www.bbc.co.uk/programmes/b006qng8/episodes/guide)
@@ -8980,13 +8980,13 @@ What are my ethical obligations?
         * [Religion Vs Evolution (ft. the Messianic Manic) - Philosophy Tube - YouTube](https://www.youtube.com/watch?v=ygM5c8kPKpY)
         * [Warum Richard David Precht ein guter Philosoph ist - YouTube](https://www.youtube.com/watch?v=aiwOnhK3FN0)
         * [CONSÉQUENTIALISME - Quel est le but de la morale ? | Grain de philo #16](https://youtu.be/3hCffvguLTQ)
-    
+
     - [**Contre-histoire de la philosophie — Wikipédia](https://fr.wikipedia.org/wiki/Contre-histoire_de_la_philosophie)**
     - [**Nassim Nicholas Taleb Home & Professional Page](http://www.fooledbyrandomness.com/)**
     - [**Philosophy and economics - Wikipedia](https://en.wikipedia.org/wiki/Philosophy_and_economics)**
-    
+
     consequences of specialization - Google Scholar
-    
+
     - [http://philosophybites.com/](http://philosophybites.com/)**
         * [Milde coronaklachten lijken minder antistoffen op te leveren. Wat betekent dat? | NOS](https://nos.nl/artikel/2329846-milde-coronaklachten-lijken-minder-antistoffen-op-te-leveren-wat-betekent-dat.html?fbclid=IwAR3mz6yeJ2cAxX3PdExFqeL5G-nC2qUoqws5Gp_HH4VWZYD1yoNWImduB9c)
         * [Antinomia](https://castbox.fm/channel/id2395369?utm_campaign=i_share_ch&utm_medium=dlink&utm_source=i_share&country=fr)
@@ -9004,11 +9004,11 @@ What are my ethical obligations?
         * [Естетика у сучасному світі | «Естетика у сучасному світі» висвітлює найбільш важливі для естетики теми і проблеми, як наукового, мистецького так і суспільного характеру.](http://estetica.etica.in.ua/)
         * [Cosa intendeva Einstein per “Dio non gioca a dadi”](http://www.indiscreto.org/cosa-intendeva-einstein-per-dio-non-gioca-a-dadi/?fbclid=IwAR12qxaiXKxMPWxr4lPGR9EgQj5malAGfoobXZXa6rDi-voQyYlS5bfvCz0)
         * [🔷 Meditaciones Metafísicas DESCARTES | 😈 El DIABLO de verdad existe | Marcos Represas - YouTube](https://www.youtube.com/watch?v=rHb6K7PA0Nk&t=1s)
-    
+
     1s
         * [Abtreibung - Zwischen Recht, Moral und Verantwortung | Let's Denk #28 - YouTube](https://www.youtube.com/watch?v=KgBh9JCfa7s)
         * [Advertising Ethics - YouTube](https://www.youtube.com/watch?v=uRyNxNAYIuc)
-    
+
     Die Phänomenologie - Philosophie - ARTE - YouTube
         * [FONCTIONNALISME EVOLUTIONNISTE : Journal des Économistes et des Études Humaines](https://www.degruyter.com/view/j/jeeh.1990.1.issue-1/jeeh-1990-0109/jeeh-1990-0109.xml)
         * [Hipátia de Alexandria, a grande mestra - YouTube](https://www.youtube.com/watch?v=iA7gNwyTeRk)
@@ -9021,22 +9021,22 @@ What are my ethical obligations?
         * https://www.youtube.com/results?search_query=filosofia+y+videojuegos
         * https://www.youtube.com/results?search_query=Henk+de+Berg
         * [Introduction Philosophie](https://www.youtube.com/watch?v=BHiCBlPuIXo&list=PLes0Xd1U1KcwnOdnje2oN00yrKxk2WCdh)
-    
+
     Ist unsere Realität nur eine Illusion - YouTube
         * [PHILOSOPHE - 14 La justice - YouTube](https://www.youtube.com/watch?v=l57riZ06klQ&list=PL42fKMlnBoa8NmVeLZm41lH2bpkAWMice)
         * [Tomás García López - Papel, presente, lugar y porvenir de la filosofía - YouTube](https://www.youtube.com/watch?v=1ctKL_KAACE&feature=share)
-    
+
     Философия постмодернизма - YouTube
         * [Что такое метамодернизм и зачем нам это знать?](https://vk.com/@newochem-metamodern)
         * https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D1%82%D0%BE%D1%80,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9A%D0%B0%D1%80%D0%BB%D0%BE%D0%B2%D0%B8%D1%87
         * [Nieuw Licht #1: Bas Heijne over onbehagen, lust en freud (alle fragmenten) - YouTube](https://www.youtube.com/watch?v=iNcfIX1Q2es)
         * [? Hierarchie und Anarchie – BERG. Blog](http://blog.berg-kommunikation.de/hierarchie-und-anarchie/)
-    
+
     ¿Tiene sentido la vida?de CdeCiencia
         * [[PHILO] LE STOÏCISME avec Charles Robin - YouTube](https://www.youtube.com/watch?v=Oy9Os7rvLds)
         * [[Vidéo] &quot;Les hommes sont devenus des dieux, mais des dieux irresponsables&quot;, selon l&#39;auteur Yuval Noah Harari](https://www.usinenouvelle.com/editorial/video-les-hommes-sont-devenus-des-dieux-mais-des-dieux-irresponsables-selon-l-auteur-yuval-noah-harari.N596683)
         * [&quot;Dark Enlightenment&quot;: The neo-fascist philosophy that underpins both the alt-right and Silicon Valley technophiles — Quartz](https://qz.com/1007144/the-neo-fascist-philosophy-that-underpins-both-the-alt-right-and-silicon-valley-technophiles/)
-    
+
 * Reading (5)
         * [1. Une éthique des vertus est-elle possible pour les modernes ? - A modern virtue ethics? - University of Geneva | Coursera](https://www.coursera.org/learn/ethique/lecture/ttdW3/1-une-ethique-des-vertus-est-elle-possible-pour-les-modernes-a-modern-virtue)
     * [10 Libros de filosofía que debes de leer antes de morir - The Filos!!!: La Filosofía hecha Blog](http://thefilos.blogspot.com/2010/03/10-libros-de-filosofia-que-debes-de.html)
@@ -9440,21 +9440,21 @@ What are my ethical obligations?
         * [Comprendre Spinoza](https://www.youtube.com/channel/UCC5j_xijqUzHLIAFTRR8sbw)
         * [Deviens Qui Tu Es](https://www.youtube.com/channel/UCPch6CxVQuyaCx0PPxQVNjA)
         * [Einzelgänger](https://www.youtube.com/c/Einzelg%C3%A4nger)
-    
+
     *[‪Looking for Book recommendations on the philosophy of gender. Any suggestions?‬](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1719770738172460/)*
-    
+
     *https://www.centrolombardo.edu.mx/*
-    
+
     *[Looking for book recommendations. What book enhanced or changed your perspective about life? Can be any genre.](https://www.facebook.com/jake.7500/posts/277927696574521)*
-    
+
     *[Gazzetta filosofica](https://www.facebook.com/groups/filosofia.am/permalink/10157080104397539/)*
-    
+
     *[Danser, une philosophie](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.franceculture.fr%2Femissions%2Fle-journal-de-la-philo%2Fle-journal-de-la-philo-du-lundi-04-juin-2018%3Ffbclid%3DIwAR0mP6-RsXlbog6LTK04e3rbUpA6C1T6yp7Gcq9wveFEi0Gh8y4MeTfQ3z0&h=AT0jLm6jNwQl5k6mr6B8Qlewcucwqi-bZUmw8ElxygityF0S0od65jFaoXteE0J05gb7tR-mHapQPidFevQtblLekM51CmH4MWh0YKdmwiVo0vkBSGV91qQURBJol0fyaWi-0jsdzg)*
-    
+
     *[Morto Aldo Masullo, il grande filosofo morale. Addio professore](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.corriere.it%2Fcultura%2F20_aprile_24%2Fmorto-aldo-masullo-grande-filosofo-morale-addio-professore-fb79f772-8662-11ea-9ac6-16666bda3d31.shtml%3Ffbclid%3DIwAR2zPjiPcofpAHQwVpZqq1fxxheND1XaLoSgA8jXUzqrKX6It-sgXn0BZOY&h=AT0R0m09qnwSBOYHsW5lK5IQaDWj2bsVmJPzbzmtvUN7CMwnzTnuMvV1Ix8g0uS4uDcAk43azli8Svjq3ZD-Of8KuwoTjhnVV3j70zXiGHjOYnOzS1W4hmIB-nmsVV9ooekpiYM_gA)*
-    
+
     *[A importância da Filosofia em meio à crise da Covid-19](https://l.facebook.com/l.php?u=https%3A%2F%2Fdiplomatique.org.br%2Fa-importancia-da-filosofia-em-meio-a-crise-da-covid-19%2F%3Ffbclid%3DIwAR0rkzR-NxyxcGxgzwTcvTrYLBIwBqSv-JQGvpvJsKz2x2l5G1Bnjs0gI34&h=AT1sPcd9HBprdryrkDRfHOr-YSn80S-00jSx6HlLA8JQTwzc88y3flhJZJZcNUUhKN-5WrvOGm2TYrHyTZ0NoIxlb5WrP4hqgfClHw1snSvCcU0oNr-IhMLmT6ZQlA9my4odFJ0J5g)*
-    
+
     *[So apparently... A.I. created these faces. None of these pictures are of actual real people. They don't even exist. I can actually feel empathy for these face. So my question for today... what gives a person (or a robot) rights? Is it a smiling face that we can understand? Cats and dogs have limited rights (in the west at least.) but not rats or even sheep. So then, at what point would an artificial creation have rights. Is it when they become 'humanlike'.....Like us? Unconsciously- do we provide more rights to people who look like us, or who look like the ideal human? So, then - does this mean, the beautiful have more rights than the ugly? Tons of ugly questions now....](https://www.facebook.com/groups/DialecticTable/permalink/920255895131251/)*
         * [Étienne Klein : Éthique et philosophie des sciences, le rôle des scientifiques ? [EN DIRECT]](https://www.youtube.com/watch?v=KIwtT8cAAKI&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=1)
         * [How Humans Broke the Game](https://www.youtube.com/watch?v=BJzJtm7OfdQ&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=124)
@@ -9516,88 +9516,88 @@ What are my ethical obligations?
         * [Q&A// 6 Fragen zum Master Philosophie an der Uni Leipzig](https://www.youtube.com/watch?v=tN1d-n7rK_c&list=WL&index=643)
         * [«MENSCHENFLEISCH» – das philosophische Gedankenexperiment | #filosofix](https://www.youtube.com/watch?v=QBBY04zTaXI&list=WL&index=644)
         * [«GEIGER» – das philosophische Gedankenexperiment | #filosofix](https://www.youtube.com/watch?v=8lZCmSZhIPo&list=WL&index=645)
-    
+
     Was ist Ethik? Philosophisches Kopfkino (3sat)
         * [10 Fragen an: Philosoph Martin Kusch](https://www.youtube.com/watch?v=eLzpWBL-sSA&list=WL&index=646)
-    
+
     Die Philosophie des Albert Camus
-    
+
     Ferdinand von Schirach: Vom Fremdsein in der Welt | Sternstunde Philosophie | SRF Kultur
-    
+
     Im Lauf der Zeit - Konfuzius und die chinesische Philosophie
-    
+
     Philosophie - Fernöstliche Philosophie
-    
+
     Konfuzius - Der Meister der Philosophie! l DIE GESCHICHTE CHINAS
-    
+
     Heidegger und chinesische Philosophie. Eine Bemerkung zum "Abendgespräch"
-    
+
     Kapitel 2 - Die chinesische Philosophie
-    
+
     Philosophie to go #5: Die chinesische Weisheit und der Axtdieb
-    
+
     Religion: Truth & Belief | Philosophy Tube
-    
+
     Healthcare, Ethics, & Postmodernism | Philosophy Tube
-    
+
     How to Fix the Housing Crisis | Philosophy Tube ft. Mexie
-    
+
     La Storia della Filosofia in 10 minuti
         * [Michel Onfray Nietzsche en quatre questions Livre Audio](https://www.youtube.com/watch?v=YEpi3J5DYLs&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=28)
         * [Disney desde el feminismo: lo malo y lo bueno de nuestras películas favoritas](https://www.youtube.com/watch?v=mHFFK_ZdwGs&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=93)
         * [American Psycho, Baudrillard and the Postmodern Condition](https://www.youtube.com/watch?v=RJfurfb5_kw&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=9)
-    
+
     Philosophischer Stammtisch: Das Ende der Political Correctness?
-    
+
     Nietzsche and Dionysus: Tragedy and the Affirmation of Life
-    
+
     Notre monde est-il le meilleur des mondes possibles ? (Ft. Dieu) | Grain de philo #27
-    
+
     Is Having Children Wrong? | Philosophy Tube
-    
+
     Philosophie critique du monde des écrans, Denis MOREAU
-    
+
     NEOS Lab Talk: Philosophische & historische Wurzeln des Liberalismus
-    
+
     Anarchie in der Praxis | Freiheit der Zukunft | Hörbuch | Stefan Molyneux
-    
+
     Verstehen Sie Kant ?
-    
+
     Claude Lévi-Strauss - Cultura para principiantes
-    
+
     Learning about Marx with Jordan Peterson (feat. Anarchopac and Red Plateaus)
-    
+
     I filosofi e l'amore: Sartre
-    
+
     Eco e la Filosofia. Qual è l'incontro filosofico che ti è rimasto più impresso?
-    
+
     La filosofia: che cos'è e perchè è nata?
-    
+
     Che cos'è l'Epistemologia? || Leggiamo i Filosofi
-    
+
     Che cos'è l'Estetica? || Perché Leggiamo i Filosofi?
-    
+
     Filosofi og etikk i moderne tid
-    
+
     El feminismo es una filosofía vengativa
-    
+
     Why Honor Matters | Robert Wright and Tamler Sommers [The Wright Show]
-    
+
     Lass dich verführen! | Streetphilosophy | ARTE
-    
+
     Л.Н. Толстой. Кратко
-    
+
     Philosoph Richard David Precht - Jung & Live #16
         * [Was Stärke über Macht verrät – philosophisch betrachtet | Gert Scobel](https://www.youtube.com/watch?v=feOD-7BH6ww&list=WL&index=1309)
         * [Modernism vs Postmodernism | Unemployed Philosopher](https://www.youtube.com/watch?v=TM-OaHSvyYk&list=WL&index=1321)
         * [Nada es lo que parece (extracto filosófico de Jean Baudrillard)](https://www.youtube.com/watch?v=nZ1aQS0dTlw&list=WL&index=1331)
         * [Introduction to Diogenes the Cynic](https://www.youtube.com/watch?v=o2ctYfy7-Ec&list=WL&index=1367)
         * [Entretien avec Michel Onfray](https://www.youtube.com/watch?v=eWW_2V5DdHk&list=WL&index=239)
-    
+
     Comment devenir soi-même ? LGQ
-    
+
     Pourquoi ne rit-on pas de tout ? - Le Coup de Phil' #29
-    
+
     Êtes-vous vraiment heureux ?
         * [Как читать книги по философии.](https://www.youtube.com/watch?v=CMd8ivJsLyo&list=WL&index=516)
         * [Festivaletteratura 2016 - Intervista a Massimo Pigliucci](https://www.youtube.com/watch?v=L1Wu2tmyjmU&list=WL&index=550)
@@ -9605,30 +9605,30 @@ What are my ethical obligations?
         * [Wissenschaftstheorie 6.6: Bas van Fraassen: Konstruktiver Empirismus. Prof. Dr. Torsten Wilholt](https://www.youtube.com/watch?v=sM_C2ToVexU&list=WL&index=554)
         * [Otto e mezzo - Vita di uno stoico (Puntata 03/06/2017)](https://www.youtube.com/watch?v=yiJcoaL7_vw&list=WL&index=548)
         * [Realismo y anti realismo](https://www.youtube.com/watch?v=4Vs3OqQv0LM&list=WL&index=555)
-    
+
     🔴 Serata su Bertrand Russell
         * [The Unexpected Hanging Paradox](https://www.youtube.com/watch?v=EPOXhFJsqlM&list=WL&index=1401)
         * [El Efecto Pigmalión](https://www.youtube.com/watch?v=4aN5TbGW5JA&list=WL&index=1409)
         * [L' Interview : Michel Onfray - Stupéfiant !](https://www.youtube.com/watch?v=He9GrKo2g7M&list=WL&index=463)
-    
+
     Why good people do bad things | Einar Øverenget | TEDxOslo
-    
+
     TEDx Hogeschool Utrecht - Tamler Sommers - Los límites de los argumentos morales
         * [Martha Nussbaum on Upheavals of Thought - The John Adams Institute](https://www.youtube.com/watch?v=sH_onsTfYsQ&list=WL&index=361)
         * [Rick Roderick on Heidegger - The Rejection of Humanism [full length]](https://www.youtube.com/watch?v=sDqDJJcJAOg&list=WL&index=492)
-    
+
     Partially Examined Life #93: Freedom and Responsibility (Strawson vs. Strawson)
-    
+
     Interview de Philippe Descola à propos de son livre "Par delà nature et culture"
-    
+
     Швейцарские философы. Выступление Нассима Талеба
         * [What is enough? MIZI Nadjib - WikiStage Jijel](https://www.youtube.com/watch?v=93VatsYl1t0&list=WL&index=295)
         * [Mark Zuckerberg y Yuval Noah Harari en conversación.](https://www.youtube.com/watch?v=Boj9eD0Wug8&list=WL&index=614)
-    
+
 * Reading (7)
         * [Виды общения (аудио)](https://vk.com/wall-6827569_28066)
         * [Закон Йеркса-Додсона](https://vk.com/@philosophia_club-zakon-ierksa-dodsona)
-    
+
     "Обитатели земной планеты находятся ещё в таком состоянии нелепости, неразумия, тупости, что каждый день читаешь в газетах рассуждения правителей народов о том, с кем и как надо соединиться для того, чтобы воевать с другими народами, сами же народы при этом позволяют своим руководителям располагать ими, как скотом, ведомым на бойню, как будто жизнь каждого человека не есть его личная собственность. || Обитатели нашей планеты все еще воспитаны в убеждении, что есть народы, границы, знамёна, и что всё это гораздо важнее сознания человечности. Правда, что если бы мыслящие люди сумели согласиться, — это положение изменилось бы, так как лично никто не желает войны. Но дело в том, что в каждом государстве существуют ещё миллионы дармоедов, которым нужна война и которые без войны не могли бы продолжать быть дармоедами. Вот эти-то дармоеды и мешают мыслящим людям согласиться перестать участвовать во взаимном убийстве". || Лев Толстой
         * [# 26. Какие книги учат мыслить и как их читать: пятнадцать работ, дающих точку входа в философию](https://vk.com/@apostils-26)
         * [Five essays on the timely theme of truth and current challenges to it.](https://vk.com/wall-84750475_612)
@@ -9640,7 +9640,7 @@ What are my ethical obligations?
         * [What are the human needs? - Buscar con Google](https://www.google.com/search?q=What+are+the+human+needs%3F&rlz=1C5CHFA_enUS753US753&oq=What+are+the+human+needs%3F&aqs=chrome..69i57j0l5.10484j1j4&sourceid=chrome&ie=UTF-8)
         * http://www.swisseduc.ch/altphilo/griech/gintlekt/anfang.html#Item_2
         * [Project MUSE - Spinoza’s Language](https://muse.jhu.edu/article/550263)
-    
+
     Book & thought
         * [Quelques grammes de philo | &quot;Pourquoi liker ? &quot; et autres questions philosophiques de la vie quotidienne](http://blog.letudiant.fr/gilles-vervisch/)
         * [Ethical Systems | Philosophical Explorations](http://braungardt.trialectics.com/philosophy/topics/ethical-systems/)
@@ -9649,7 +9649,7 @@ What are my ethical obligations?
         * [Verfasserlexikon - Die deutsche Literatur des Mittelalters](https://b-ok.cc/book/5283125/7f9745)
         * https://pt.wikipedia.org/wiki/Filosofia_da_f%C3%ADsica
         * [An Open Letter to contemporary African Intellectuals](https://thisisafrica.me/open-letter-contemporary-african-intellectuals/)
-    
+
     - [**Пошук новин за запитом umberto eco pdf](https://vk.com/search?c%5Bper_page%5D=40&c%5Bq%5D=umberto%20eco%20pdf&c%5Bsection%5D=auto)
         * http://www.enzyklo.de/
         * http://www.encyclo.nl/
@@ -9657,12 +9657,12 @@ What are my ethical obligations?
         * http://alnam.ru/
         * http://www.informationphilosopher.com/freedom/history/
         * [Groundbreaking new material 'could allow artificial intelligence to merge with the human brain' | The Independent](https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-brain-computer-cyborg-elon-musk-neuralink-a9673261.html)
-    
+
     Book idea: How to Be Unethical
         * [Philosophy T-Shirts | Redbubble](https://www.redbubble.com/shop/philosophy+t-shirts%20https://www.redbubble.com/shop/philosophy+t-shirts?gclid=Cj0KCQjw9pDpBRCkARIsAOzRzivi_33Ytq8_HvTAXZAX-N3xfCFvAIrYZb5aZUcsHbLMcs_eYMEbXLEaAqNaEALw_wcB)
-    
+
     epistemologische interdependenz
-    
+
     فلسفة
         * https://jairoflorezsuarez.wixsite.com/filosofiapdf
         * [Купить книгу Философия языка. Очерки истории](http://wordorder.ru/catalog-ru/filologiya/lingvistika/filosofiya-yazyka.-ocherki-istorii/)
@@ -9676,12 +9676,12 @@ What are my ethical obligations?
         * [amartya sen audiolibro - Buscar con Google](https://www.google.com/search?q=amartya+sen+audiolibro&rlz=1C1GCEA_enUS765US765&oq=amartya+sen+audiolibro&aqs=chrome..69i57.4671j0j7&sourceid=chrome&ie=UTF-8)
         * https://www.academia.edu/38742456/Black_Swan_Leadership?email_work_card=thumbnail-desktop
         * https://timeline.knightlab.com/
-    
+
     philosophy and hierarchies
         * [la philosophie pourquoi faire ? | Croyants Non croyants](http://jeammarcdamien.unblog.fr/philop/croyants-non-croyants/)
         * [Философский роман: 10 аудиокниг](https://vk.com/wall-90850349_74915)
         * [Философские дискуссии](https://vk.com/wall-169634550_3041)
-    
+
     Philosophy behind freedom of religion and conscience
         * [Philosophie – AnthroWiki](https://anthrowiki.at/Philosophie)
         * [https://europhilomem.hypotheses.org/files/2013/11/Formen-der-Negativität-Nichts-Leere-Tod-Formes-de-négativité-néant-vacuité-mort.pdf](https://europhilomem.hypotheses.org/files/2013/11/Formen-der-Negativit%C3%A4t-Nichts-Leere-Tod-Formes-de-n%C3%A9gativit%C3%A9-n%C3%A9ant-vacuit%C3%A9-mort.pdf)
@@ -9725,7 +9725,7 @@ What are my ethical obligations?
         * http://www.lecturasinegoismo.com/2018/04/tensiones-filosoficas-tomas-abraham.html
         * [Сноб](https://snob.ru/)
         * [Podcast | Radio 1](http://www.radio1.ch/de/podcast/doppelpunkt--8)
-    
+
     - [**Denken in Hoher Luft - Philosophie - Bremen Zwei - Radio Bremen](http://www.radiobremen.de/bremenzwei/sendungen/podcast-lab/denken-in-hoher-luft102.html)
         * [Historycast si aggiudica il titolo di miglior podcast italiano del 2010 | Filosofia &amp; Storia](https://filstoria.hypotheses.org/5243)
         * [podcast di storia | Filosofia &amp; Storia](https://filstoria.hypotheses.org/tag/podcast-di-storia)
@@ -9751,12 +9751,12 @@ What are my ethical obligations?
         * https://culturalpolitics.net/popular_culture
         * https://www.bioeticadesdeasturias.com/p/publicaciones.html
         * http://www.josesancheztortosa.com/
-    
+
     Quelque Grammes de Philo
         * http://theoatmeal.com/comics/believe
         * http://eleternoestudiante.com/libros-historia-grecia-roma-pdf/
         * http://www.libertadypensamiento.com/2017/09/libros-de-filosofia-en-pdf-para-descargar-gratis.html?m=1
-    
+
     (Tr)oppressé
         * https://www.youtube.com/playlist?list=PLSoP62RB3ymnt6ct60SF-2ZsSpC_Mbrjv
         * [Coursera - Introduction to Philosophy](https://www.coursera.org/learn/philosophy/home/welcome)
@@ -9783,10 +9783,10 @@ What are my ethical obligations?
         * [Massimo Pigliucci Italian](https://www.youtube.com/results?search_query=Massimo+Pigliucci+italiano)
         * [Max Tegmark interview svenska](https://www.youtube.com/results?search_query=max+tegmark+interview+svenska)
         * [Предмет и спецификация философии](https://www.youtube.com/watch?v=ZZJnNUqU5tw)
-    
+
     - [**Library Genesis: Kai Peter Denker - Topologie der Kontrolle? Mathematisierbarkeit mit Deleuze](https://libgen.is/book/index.php?md5=7B64FD6926413FF5785A32E122D8834C)
     - [**Иммануил Кант — Сочинения на немецком и русском языках](https://vk.com/wall-30268849_1556)
-    
+
     analysis of craig vs carroll - Cerca con Google
         * [CONFUCIUS – La Grande Étude (FR) - YouTube](https://www.youtube.com/watch?v=tR_oQN2YkA8&list=PLXRGGLyzzHHA_QIdiJiP932qCB7eh2Xgk)
         * [Fab Lab: La revolución de los conocimientos. | Trinidad Gómez | TEDxCancún - YouTube](https://www.youtube.com/watch?v=8SzxEM1gAkA)
@@ -9810,9 +9810,9 @@ What are my ethical obligations?
         * [O empirismo de David Hume – Pensamento Extemporâneo](http://pensamentoextemporaneo.com.br/?p=640)
         * [O que é Filosofia? - Toda Matéria](https://www.todamateria.com.br/o-que-e-filosofia/)
         * [O QUE É O TEMPO? - YouTube](https://www.youtube.com/watch?v=akvhD9BVL0c&feature=youtu.be)
-    
+
     Ökonomie contra Philosophie mit Richard David Prechtde Kosake van Ze
-    
+
     On the Relationship Between Science and Humanities, John Grayde Copernicus Center for Interdisciplinary Studies
         * [Ordinary people seem not to realize that those who really apply themselves in the right way to philosophy are directly and of their own accord preparing themselves for dying and death. - Socrates - BrainyQuote](https://www.brainyquote.com/quotes/socrates_402550)
         * [Overcoming the Apathy Induced by the Current Irrelevance of Philosophy on JSTOR](https://www.jstor.org/stable/25670247?seq=1#page_scan_tab_contents)
@@ -9822,12 +9822,12 @@ What are my ethical obligations?
         * [Pedro Insua - Dialéctica y revolución](https://www.youtube.com/watch?v=vfJzmhaldMM&feature=share)
         * [Philosophie - Woher kommt das Neue?](https://vk.com/doc448658071_460362015?hash=2ca15166e5ece74827&dl=127f79365087ab3614)
         * [Pourquoi pas tous des bisounours ? - morale #3 - YouTube](https://www.youtube.com/watch?v=XY1PUQ4NOuU)
-    
+
     S. R. C. Hicks - Explaining Postmodernism: Skepticism and Socialism from Rousseau to Foucault
         * [The Philosophy of Spinoza & Leibniz - YouTube](https://www.youtube.com/watch?v=SxGuoyxyKMA)
         * [The Physics : Aristotle : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/aristotle_physics/page/n5)
         * [The Principle of Non-Contradiction | Philosophy Resurrection](https://philosophyresurrection.wordpress.com/2017/11/26/the-principle-of-non-contradiction/)
-    
+
     The Privilege Of Existential Guilt – The Establishment
         * [The Quietus | Features | Tome On The Range | Myth Congeniality: John Gray Interviewed](http://thequietus.com/articles/12496-john-gray-silence-of-animals-interview)
         * [The relentless honesty of Ludwig Wittgenstein | Ian Ground](https://www.the-tls.co.uk/articles/public/ludwig-wittgenstein-honesty-ground/?CMP=Sprkr-_-Editorial-_-TimesLiterarySupplement-_-ArtsandCulture-_-JustTextandlink-_-Statement-_-Unspecified-_-FBPAGE)
@@ -9842,7 +9842,7 @@ What are my ethical obligations?
         * [Vol. 17 - anno 2008 - Fascicolo 1 | Acta Philosophica](http://www.actaphilosophica.it/en/issue-2008-1)
         * [Warum brauchen wir noch heute oder gerade heute Philosophie?](https://www.thur.de/philo/tanja/philo.htm)
         * [Warum gibt es eine Welt? Fragen an die Philosophie](http://www.hg-klug.de/relphil/warum/warum.html)
-    
+
     Was bewegt Menschen dazu, schlecht zu sein?
         * [Was ist der Mensch? : stadtrevue.de](http://www.stadtrevue.de/archiv/artikelarchiv/2504-was-ist-der-mensch/)
         * [Was ist eigentlich Ethik? -](http://www.3sat.de/page/?source=/philosophie/159959/index.html)
@@ -9850,9 +9850,9 @@ What are my ethical obligations?
         * [Was ist ein Naturgesetz? - Planckton](http://blogs.faz.net/planckton/2018/03/02/was-ist-ein-naturgesetz-1748/)
         * [Wenn das Wörtchen «wenn» nicht wär ... | ethos Magazin](http://ethos.ch/blog/wenn-das-w%C3%B6rtchen-%C2%ABwenn%C2%BB-nicht-w%C3%A4r)
         * [What are the different types of ethical systems? | Reference.com](https://www.reference.com/world-view/different-types-ethical-systems-849b5729e068ebc2)
-    
+
     What philosophy books and papers do you constantly return to and why? : askphilosophy
-    
+
     Why isn't utilitarianism more popular? : askphilosophy
         * [Why You Should Prosper Even Though There's Suffering in the World](https://tinybuddha.com/blog/why-you-should-prosper-even-though-theres-suffering-in-the-world/)
         * [William E. Seager - Department of Philosophy - University of Toronto](http://philosophy.utoronto.ca/directory/william-e-seager/)
@@ -9863,44 +9863,44 @@ What are my ethical obligations?
         * [www.ntu.edu.sg/home/ykng/Ng1972.pdf](http://www.ntu.edu.sg/home/ykng/Ng1972.pdf)
         * [Большие Дебаты «Эволюция VS креационизм» Соколов vs Буфеев 19 10 2018 - YouTube](https://www.youtube.com/watch?v=OGSrCBudbw8)
         * [Дао Дэ Цзин». Комментарий Патриарха чань-буддизма Ханьшань Дэцина (RU,ZH)](https://vk.com/doc30601958_478666563?hash=6360557604d5733199&dl=200235ec617b9c2f0b)
-    
+
 * Reading (8)
         * http://www.liveinternet.ru/users/4144431/post168691673/
         * http://www.uah.edu/woolf/feminism_kinds.htm
         * [Женщины-мыслители, мнения и взгляды](http://www.tebyan.net/index.aspx?pid=66427)
         * [THE DETERMINISM AND FREEDOM PHILOSOPHY WEBSITE](http://www.ucl.ac.uk/~uctytho/dfwIntroIndex.htm)
         * [Epoch-making Eratosthenes](http://shot.holycross.edu/courses/Time/S10/pdfs/Moller.pdf)
-    
+
     Geschichte der Philosophie (4): Aristoteles (Fortsetzung), Prof. Dr. Torsten Wilholt - YouTube
         * [Los orígenes del pensamiento filosófico. Los filósofos presocráticos - YouTube](https://www.youtube.com/watch?v=EgQJhP8GB1c)
         * [Les exercices spirituels antiques et l’héritage de Pierre Hadot 1/8 - YouTube](https://www.youtube.com/watch?v=h8UYutTaY0A&list=PLmoGGuHQ4XYsDPKTlRNz7VF3BgfAkLNyT)
         * [Pierre Bayle - Wikipedia](https://en.wikipedia.org/wiki/Pierre_Bayle)
-    
+
     Made to Stick (Chip Heath)
         * [George Carlin - Euphemisms - YouTube](https://www.youtube.com/watch?v=vuEQixrBKCc)
         * [George Carlin on gays - YouTube](https://www.youtube.com/watch?v=VjVeWvdogMw)
         * [George Carlin on some cultural issues. - YouTube](https://www.youtube.com/watch?v=YLuZjpxmsZQ)
-    
+
     George Carlin: The Illusion Of Choice - YouTube
         * http://www.wired.com/2011/04/ff_humorcode/
         * [Acta Philosophica: Rivista Internazionale di Filosofia - PhilPapers](https://philpapers.org/pub/5795)
         * [Epoché (ἐποχή)](https://epochemagazine.org/)
         * http://www.tomasabraham.com.ar/
-    
+
     tensiones filofóficas, tomas abrahám
         * https://b-ok.cc/s/anthony%20weston
         * [Анатолий Карлин](https://akarlin.ru/start/)
-    
+
     Філософія музики - YouTube
         * [Douleurs physiques, douleurs morales](http://www.martinwinckler.com/spip.php?article1022)
         * [Pain and Philosophy of the Mind](https://s3.amazonaws.com/rdcms-iasp/files/production/public/Content/ContentFolders/Publications2/PainClinicalUpdates/Archives/PCU07-5_1390262983927_12.pdf)
         * [Quel dolore che nessuno ascolta](http://www.cosmopolitan.it/benessere-salute/prevenzione/suggerimenti/a111195/dolore-femminile-nessuno-ascolta/)
         * [Simona Di Nitto, Il dolore fisico nella riflessione filosofica (Dialegesthai)](https://mondodomani.org/dialegesthai/sdn01.htm)
-    
+
     intro to leftist thought
         * http://www.listmuse.com/best-anarchist-communist-socialist-books.php
         * [Distributive Justice (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/justice-distributive/#Difference)
-    
+
     philosophy of ethics and taxation
         * [Why You Should Be a Socialist](http://libgen.rs/book/index.php?md5=A7F2D5F0F147EB195914266D03BF1F90)
         * https://moneyontheleft.org/2021/07/05/the-mark-of-fascism-lebensraum-for-the-left/
@@ -9916,7 +9916,7 @@ What are my ethical obligations?
         * [Habiter l'espace - Habiter le temps - S'habiter soi-même - YouTube](https://www.youtube.com/watch?v=-C7FTSPTMAk)
         * [L'eredità della scuola di Francoforte - YouTube](https://www.youtube.com/watch?v=JDo9ighqfhw)
         * [Le libéralisme politique de John Rawls - Politikon #1 - YouTube](https://www.youtube.com/watch?v=xqfB844lV4k)
-    
+
     -  https://www.reddit.com/r/Feminism/comments/166i8a/a_short_introduction_to_feminist_movements/
         * [Современный анархизм, соотношение теории и практики (критический взгляд) - AKRATEIA](https://akrateia.info/sovremennyi-anarkhizm-sootnoshenie-teorii-i-praktiki-kriticheskii-vzgliad/)
         * [Les idées mènent le monde #18 - La pensée politique de Jean-François Lisée - YouTube](https://www.youtube.com/watch?v=SZIjLouFxvA)
@@ -9927,23 +9927,23 @@ What are my ethical obligations?
         * [Philosophy of Science](http://libgen.rs/search.php?&req=philosophy+of+science&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
         * [La problème stoïcien : la possibilité de la vie de vertu (7/12) - YouTube](https://www.youtube.com/watch?v=Rhaf2R-t1yw)
         * http://www.marketfaith.org/the-seven-questions-that-define-a-worldview/
-    
+
     Философия XXI века. Идеи и тренды. 5/5
-    
+
     Что значит "Оруэлловский"? [TED-ED]de In Cor Cadit
-    
+
 * Reading (9)
         * [teachings of the Buddha - books](https://libgen.is/search.php?req=teachings+of+the+buddha&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
-    
+
     do animals have free will?
         * [Wie einzigartig ist der Mensch?: Die lange Evolution der Gehirne und des Geistes](https://b-ok.cc/book/4241737/b18b67)
         * https://www.psychologytoday.com/us/blog/theory-knowledge/201306/virtue-and-the-four-types-character
         * [Gerechtigkeit](https://www.spektrum.de/lexikon/philosophie/gerechtigkeit/793)
-    
+
     Nationalsozialistische Ideologie und Ethik
         * [Ling & filo](https://vk.com/wall-6827569_23952)
         * https://universoracionalista.org/o-que-e-a-filosofia-da-fisica/
-    
+
     aesthetics and nature
         * [DARK - Los viajes en el tiempo y la LIBERTAD [Análisis filosófico]](https://youtu.be/5kaUeS56HLE)
         * [Ethos der Weltkulturen. Religion und Ethik](https://b-ok.cc/book/1167248/7c563f)
@@ -9953,17 +9953,17 @@ What are my ethical obligations?
         * https://de.wikipedia.org/wiki/Daoismus
         * [Dhammapada | Search | HBLL](https://search.lib.byu.edu/byu/search?q=Dhammapada&type=book)
         * https://www.livelib.ru/book/1000209109/quotes-dao-vinnipuha-bendzhamen-hoff
-    
+
     - [**Московский центр исследований сознания — HardProblem.](http://hardproblem.ru/lang-pref/ru/)
         * [THE MIND-BODY PROBLEM](http://human-nature.com/rmyoung/papers/pap102h.html)
         * [Gaidar - Русский либерализм](http://gaidar.center/)
         * [Буддизм](https://vk.com/wall-6827569_21538)
         * [TAOÍSMO | El arte de la no acción](https://www.youtube.com/watch?v=tLAZvESoVgI&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=112)
-    
+
     TAOÍSMO | La Filosofía de Flujo
         * [Antisemitismo: un análisis](https://www.youtube.com/watch?v=KAFbpWVO-ow&list=WL&index=1371&t=167s)
         * [Anand Giridharadas: How bias actually works at MSNBC, New York Times](https://www.youtube.com/watch?v=11WDbwZfiw8&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=113)
-    
+
     Daoismus
         * [The Philosophy of The Good Place – Wisecrack Edition](https://www.youtube.com/watch?v=stHk4_VePds&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=13)
         * [2 - Brève histoire du féminisme](https://www.youtube.com/watch?v=wSDcog4-gig&list=PLVWtXi_Jrj_2yjP6DWsQS9plUraTRdAv_&index=71)
@@ -10004,7 +10004,7 @@ What are my ethical obligations?
         * [Le Monde De Sophie. Roman Sur L'histoire De La Philosophie (Points (Editions Du Seuil)) (French Edition) | Jostein Gaarder | download](http://b-ok.cc/book/980077/1b2a42)
         * [Rotterdamse Debatnacht: Bestaat god? zaterdag 21 december 2013 - YouTube](https://www.youtube.com/watch?v=kTMiTjhrY2Q)
         * [Climate Matters: Ethics in a Warming World (Norton Global Ethics Series)](https://libgen.is/book/index.php?md5=3C1849AF3289BAB50A2B11D07C097C41)
-    
+
     Ethics of Plane Travel
         * [Fast Forward: Ethics and Politics in the Age of Global Warming](https://libgen.is/book/index.php?md5=16012BDCDE4FF82C779856A0A4770C7B)
         * https://economictimes.indiatimes.com/news/international/world-news/is-visiting-your-family-bad-for-the-planet/articleshow/87883011.cms
@@ -10012,9 +10012,9 @@ What are my ethical obligations?
         * https://www.bbc.com/future/article/20200218-climate-change-how-to-cut-your-carbon-emissions-when-flying
         * https://www.reddit.com/r/solotravel/comments/bqkee4/is_plane_travel_ethicalresponsible/
         * https://www.vox.com/the-highlight/2019/7/25/8881364/greta-thunberg-climate-change-flying-airline
-    
+
     The New Climate War: The Fight to Take Back Our Planet
-    
+
 * Reading (10)
         * http://deoxy.org/meme/Cognitive_Bias
         * http://forums.philosophyforums.com/threads/very-basic-terms-of-logic-6816.html
@@ -10067,7 +10067,7 @@ What are my ethical obligations?
         * http://www.wisdoms.ru/avt/b222.html
         * https://it.wikipedia.org/wiki/Alain_Finkielkraut
         * [Платон. КРАТИЛ](http://psylib.org.ua/books/plato01/18krati.htm)
-    
+
     Why is it that so many philosophy students tend to be marxists while most economics students seem to not take him seriously? : askphilosophy
         * [Are Soas students right to ‘decolonise’ their minds from western philosophers? | Education | The Guardian](https://www.theguardian.com/education/2017/feb/19/soas-philosopy-decolonise-our-minds-enlightenment-white-european-kenan-malik)
         * [Эго туннель — наука о сознании и миф о самом себе](https://www.livelib.ru/work/1001236966/reviews-ego-tunnel-nauka-o-soznanii-i-mif-o-samom-sebe-tomas-mettsinger)
@@ -10075,7 +10075,7 @@ What are my ethical obligations?
         * http://philipphuebl.com/
         * https://karenswallowprior.com/
         * [Peut-on être communiste et objectif, par Usul - YouTube](https://www.youtube.com/watch?v=h_u8J1bAZ5Q)
-    
+
     - [PhiloLog](https://www.philolog.fr/)
     - [PhiloLog](https://www.philolog.fr/)
     - [**Philosophie.ch - Logique formelle](https://www.philosophie.ch/fr/philosophie-fr/domaines/philosophie-theorique/logique)
@@ -10095,7 +10095,7 @@ What are my ethical obligations?
         * https://www.opednews.com/articles/Jonathan-Haidt-on-the-Righ-by-Thomas-Farrell-120321-348.html
         * https://www.thenewatlantis.com/publications/the-evolutionary-ethics-of-e-o-wilson
         * https://www.youtube.com/watch?v=nYDdsgDmS-w
-    
+
     Sind Kriege gerecht? - Schülervideo - YouTube
         * [Tischner Debate - On Liberalism - YouTube](https://www.youtube.com/watch?v=K0D1RMwo9go)
         * [What do conservatives get wrong about abortion?](https://www.google.com/search?q=what+do+conservatives+get+wrong+about+abortion&rlz=1CDGOYI_enUS835US835&oq=what+do+conservatives+get+wrong+about+abortion&aqs=chrome..69i57.9430j0j4&hl=it&sourceid=chrome-mobile&ie=UTF-8#ip=1)
@@ -10130,12 +10130,12 @@ What are my ethical obligations?
         * https://infokiosques.net/IMG/pdf/Le_Mythe_du_Progres_LIVRET-2.pdf
         * https://learningsuite.byu.edu/.2CDD/cid-Fwnsoonplaxk/student/gradebook
         * https://wordpress.com/post/rus422winter2017.wordpress.com/148
-    
+
     > https://www.google.com/search?q=argumente+gegen+monogamie&rlz=1C5CHFA_enUS800US800&oq=argumente+gegen+monogamie&aqs=chrome..69i57.4313j0j4&sourceid=chrome&ie=UTF-8
         * [Comment le STOICISME vous rendra plus HEUREUX et RATIONNEL ! - YouTube](https://www.youtube.com/watch?v=9L37SJq1Pt4)
-    
+
     Discourses and selected writings
-    
+
     Enchiridion
         * http://booksdescr.org/item/index.php?md5=2B8BA6FB723A876FF2B0884195EC08F6
         * http://epicurus.net/
@@ -10145,9 +10145,9 @@ What are my ethical obligations?
         * https://it.m.wikipedia.org/wiki/Manuale_di_Epitteto?wprov=sfti1
         * https://modernstoicism.com/stoic-texts-online/
         * https://www.reddit.com/r/Stoicism/wiki/faq#wiki_what_are_some_recommended_starting_points_for_newcomers_to_stoicism.3F
-    
+
     Letters from a Stoic
-    
+
     Meditations
         * [Талеб Нассим Николас - Чёрный лебедь. Под знаком непредсказуемости. Слушать аудиокнигу онлайн](https://audioknigi.club/taleb-nassim-nikolas-chernyy-lebed)
         * http://matpalm.com/blog/2011/08/13/wikipedia-philosophy/
@@ -10160,7 +10160,7 @@ What are my ethical obligations?
         * [Western Civilization: Ideas, Politics, and Society, Volume II: From 1600 | Marvin Perry, Margaret Jacob, James Jacob, Myrna Chase, Theodore H. Von Laue | download](https://b-ok.cc/book/1163404/3a8410)
         * [Western Civilization: Ideas, Politics, and Society: Since 1400 | Marvin Perry, Margaret Jacob, James Jacob, Myrna Chase, Theodore H. Von Laue | download](https://b-ok.cc/book/2086054/759631)
         * https://www.sociologyofbeauty.nl/
-    
+
 * IAI
         * [Work and play](https://iai.us4.list-manage.com/track/click?u=5498751378b600bac07540f91&id=f7704c1336&e=c2b5e608e5)
         * [Do we still need morality?](https://iai.us4.list-manage.com/track/click?u=5498751378b600bac07540f91&id=e9e6d6cb17&e=c2b5e608e5)
@@ -10232,7 +10232,7 @@ What are my ethical obligations?
         * https://iai.tv/articles/why-sexual-morality-does-not-exist-auid-1212
         * https://iai.tv/articles/should-i-kill-myself-or-have-a-cup-of-coffee-the-stoics-and-existentialists-agree-on-the-answer-auid-924
         * https://iai.tv/articles/hobbes-vs-rousseau-are-we-inherently-evil-or-good-auid-1221
-    
+
 * Abortion
         * https://www.currentaffairs.org/2018/08/abortion-and-the-left
         * https://www.firstthings.com/web-exclusives/2019/11/why-john-bel-edwards-wins
@@ -10265,7 +10265,7 @@ What are my ethical obligations?
         * https://www.pewforum.org/2008/09/30/abortion-laws-around-the-world/
         * [Полемика вокруг проблемы аборта](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B5%D0%BC%D0%B8%D0%BA%D0%B0_%D0%B2%D0%BE%D0%BA%D1%80%D1%83%D0%B3_%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B_%D0%B0%D0%B1%D0%BE%D1%80%D1%82%D0%B0)
         * https://www.utm.edu/staff/jfieser/class/300/5-abortion.htm
-    
+
 * Video
         * [Durf te Denken](https://www.youtube.com/playlist?list=PLEp-wqLXEURMt1Jati2pxe9BjNMNDzA0b)
     * [Monsieur Phi](https://www.youtube.com/c/MonsieurPhi)
@@ -10292,7 +10292,7 @@ What are my ethical obligations?
     * [The Institute of Art and Ideas](https://www.youtube.com/user/IAITV)
     * [The School of Life](https://www.youtube.com/c/theschooloflifetv)
     * [Debatte Gott](https://www.youtube.com/watch?v=PHwWQyDxiAc)
-    
+
 * Contre-histoire
         * [Contre-histoire de la philosophie 1a](https://vk.com/wall-98831559_23)
     * [Contre-histoire de la philosophie 1b](https://vk.com/wall-98831559_40)
@@ -10420,7 +10420,7 @@ What are my ethical obligations?
         * http://www.litteratureaudio.com/livre-audio-gratuit-mp3/littre-emile-%e2%80%93-pathologie-verbale-ou-lesions-de-certains-mots-dans-le-cours-de-lusage-oeuvre-integrale.html
         * http://www.litteratureaudio.com/livre-audio-gratuit-mp3/abelard-pierre-lettre-a-un-ami.html
         * http://www.litteratureaudio.com/livres-audio-gratuits-mp3/tag/henri-bergson
-    
+
 * Books
         * [Il cristianesimo edonista. Controstoria della filosofia II [1 ed.]](http://libgen.is/book/index.php?md5=C0F4D223747A22E6CE8CC7FC8B2C07F1)
     * [Il cristianesimo edonista. Controstoria della filosofia II [1 ed.]](http://libgen.is/book/index.php?md5=627667A721432CD585F8D9BF89FB9363)
@@ -10978,7 +10978,7 @@ What are my ethical obligations?
     * [Los siete mitos de la conquista espanola.pdf - Google Drive](https://drive.google.com/file/d/1apUme799gQ6K_a-seYB-0Ydvzp9Jy9l-/view)
 
 
-        
+
 * Blogs
         * [Chomsky](https://chomsky.info/)
     * [Philosophia Perennis – Ein Blick auf die Welt mit von der philosophia perennis geschärften Augen](https://philosophia-perennis.at/)
@@ -11187,9 +11187,9 @@ What are my ethical obligations?
     * [EL ARTE DE LA GUERRA DE SUN TZU- RESUMEN ANIMADO - YouTube](https://www.youtube.com/watch?v=raBbZ8vcBNk)
 
 
-    
-    
-        
+
+
+
     Yuval Noah Harari
     * [Yuval Noah Harari & Natalie Portman - YouTube](https://www.youtube.com/watch?v=87XFTJXH9sc)
     * [Гость Юваль Ной Харари. Познер. Выпуск от 24.06.2019 - YouTube](https://www.youtube.com/watch?v=cr2o6EWdq9A)
@@ -11351,7 +11351,7 @@ What are my ethical obligations?
     * [Айрис Мёрдок - Поиск в Google](https://www.google.com/search?rlz=1C1GCEA_enUS828US828&q=%D0%90%D0%B9%D1%80%D0%B8%D1%81+%D0%9C%D1%91%D1%80%D0%B4%D0%BE%D0%BA&stick=H4sIAAAAAAAAAOOQU-LQz9U3SE9JL4ySzs0vLlFIzcvKr0xMyklVKMjIzMkvzi_ISC0qPsUIVmdimpQOZYK0nGLkAjGNzJLLivJOMXJClJhnJD9i9OUWePnjnrCUy6Q1J68x2nFxhacmOeYVlwPNEjLg4gosTS2qdM5JLC4WUuISkOLx8QwOiQ92dfX29HPXYJTi40IR4fnFKOmYnJxflJKZl65Qkq-QlJ-fXZSZX6KXnJ_7i4kj3tUvxDMkMn4Ss2tGSUlBsZW-PrIKfSMDQ1OgM_UNTPXTMstSddNK83ThvqvUBakt1q1MLdYtSk3MyanUBwAiOGfgFwEAAA&sa=X&ved=2ahUKEwjIztznx6rfAhVGHTQIHaASB34QxA0wAHoECAcQBw&biw=929&bih=932)
 
 
-        
+
 * John Gray
         * [John Gray - On the Relationship Between Science and Humanities | Listen Notes](https://www.listennotes.com/podcasts/intellectual-dark/john-gray-on-the-8TBjD6Msb0k/)
     * [John Gray - Science and Magic - YouTube](https://www.youtube.com/watch?v=Z-z9gSg1ZF8)
@@ -11464,10 +11464,10 @@ What are my ethical obligations?
 
 
 * Philo
-        * [Sex and Death: An Introduction to Philosophy of Biology](http://library.lol/main/4E270AE18E7EF6E915BEE919C8CC55DE) 
-        * [Philosophy of Love, Sex, and Marriage: An Introduction](http://library.lol/main/18A4C7B24CB1FCB889DFAB409B9DEB0F) 
-        * http://libgen.rs/search.php?&req=philosophy+of+sex&phrase=1&view=simple&column=def&sort=year&sortmode=DESC 
-    
+        * [Sex and Death: An Introduction to Philosophy of Biology](http://library.lol/main/4E270AE18E7EF6E915BEE919C8CC55DE)
+        * [Philosophy of Love, Sex, and Marriage: An Introduction](http://library.lol/main/18A4C7B24CB1FCB889DFAB409B9DEB0F)
+        * http://libgen.rs/search.php?&req=philosophy+of+sex&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+
 * http://www.apaonline.org/general/recommended_links.asp
 
 <SORTED>
@@ -11480,19 +11480,19 @@ What are my ethical obligations?
     - Video
     - Notes
     - People
-    
+
 * People
         * [***Michael Gazzaniga](https://libgen.is/search.php?&req=Michael+Gazzaniga&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
         * [***Stanislas Dehaene](https://libgen.is/search.php?&req=Stanislas+Dehaene&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
         * [****Susan Blackmore](https://b-ok.cc/g/Susan%20Blackmore)
         * [**James H. Austin](https://b-ok.cc/g/James%20H.%20Austin)
         * [Aspen Gamlund](https://sites.google.com/site/espengamlund/)
-    
+
 * Top References
         * https://philpapers.org/
         * http://plato.stanford.edu/
         * https://encyclo-philo.fr/
-    
+
 * General Sites on Philosophy
         * https://www.historyofphilosophy.net/
         * http://www.philosophybasics.com/general.html
@@ -11526,7 +11526,7 @@ What are my ethical obligations?
         * http://www.arabphilosophers.com/Arabic/aservices/aphilosophy-sites/aphilosophy-sites.htm
         * http://www.vphil.ru/
         * [****Aula de Filosofía de Eugenio Sánchez Bravo – Abrir puertas a la filosofía desde la literatura, el cine, el arte, la música, la televisión, la ciencia…](https://auladefilosofia.net/)
-    
+
     *The Linguistic Turn: Essays in Philosophical Method*
         * http://www.mbradtke.de/ph002.htm
         * [Философский форум. - Главная страница](http://intencia.ru/forum/)
@@ -11547,7 +11547,7 @@ What are my ethical obligations?
         * [**Courants de la philosophie – La-Philosophie.com : Cours, Résumés &amp; Citations](https://la-philosophie.com/courants-philosophie)
         * [**CONVIVIO: FILOSOFIA (in Italiano)](https://vk.com/filosofia_in_italiano)
         * [Philosophy and Information Technology at philo.de](http://www.philo.de/)
-    
+
 * Media, Publications
         * [Vista de Vol. 6 Núm. 8 (6)](http://revistaodos.com/revista/index.php/odos/issue/view/11/Revista%20de%20Filosof%C3%ADa%20%E1%BD%89%CE%B4%E1%BD%B9%CF%82%208)
         * [Revista Replicante](http://revistareplicante.com/)
@@ -11558,7 +11558,7 @@ What are my ethical obligations?
         * [Philosophie - L&#39;Obs Actualités](http://tempsreel.nouvelobs.com/tag/philosophie)
         * [The Filos!!!: La Filosofía hecha Blog](http://thefilos.blogspot.com/)
         * [The Opinionator by Irma Zandl | Trends. Business. Media. Culture. | Trends at the intersection of business, media and culture](http://theopinionator.com/)
-    
+
     **[*Philosophers&#39; Mail](http://thephilosophersmail.com/)
         * [THE QUESTION | The Question | West Virginia University](http://thequestion.wvu.edu/home)
         * [Universo da Filosofia | Expandindo o Conhecimento.](http://universodafilosofia.com/)
@@ -11633,21 +11633,21 @@ What are my ethical obligations?
         * https://philosophischleben.wordpress.com/
         * [LES GRANDES QUESTIONS DE LA VIE - Voici quelques grandes questions de la vie : Qui suis-je ? Où vais-je ? Qu&#39;est-ce que la mort - Pourquoi souffrons-nous ? Quelle est ma fonction sur Terre ? S&#39;interroger est la condition de notre conscience, nous devons](http://lesgrandesquestionsdelavie.over-blog.com/)
         * [Varia](http://www.zulio.org/journal/)
-    
+
 * Dictionaries
         * [Філософський словник (словник) - Філософія - Архів якісних рефератів](http://5ka.at.ua/load/filosofija/filosofskij_slovnik_slovnik/66-1-0-9370)
         * [grand_dictionnaire_de_la_philosophie_pdf](http://aefe-madagascar.histegeo.org/IMG/pdf/grand_dictionnaire_de_la_philosophie.pdf)
         * [Dizionari di Filosofia](http://host.uniroma3.it/progetti/kant/online/dizencglos/dizionari.html)
         * [Filosofiya_slovnik.pdf](http://udhtu.edu.ua/public/userfiles/file/Filosofiya_slovnik.pdf)
         * [IT.pdf](http://www.ilgiardinodeipensieri.eu/testi/dif_1_29_01_12.pdf)
-    
+
 * Books
         * [Consciousness and the Universe: Quantum Physics, Evolution, Brain & Mind | Roger Penrose; Stuart Hameroff; Ellen Langer; R. Gabriel Joseph; Chris J. S. Clarke; L. Dossey; Ernest Lawrence Rossi; Gian Carlo Ghirardi; Peter Sturrock; Edgarl D. Mitchel; Chris King; Walter J. Freeman; Don Page; Henry P. Stapp; Fred Kuttner; Michael B | download](https://b-ok.cc/book/5329215/e8bf07)
         * [Historia philosophiae graecae et Romanae ex fontium locis contexta; : Ritter, Heinrich : Free Download &amp; Streaming : Internet Archive](https://archive.org/details/historiaphilosop00rittuoft)
         * [Historia philosophiae graecae : testimonia auctorum conlegerunt notisque instruxerunt : Ritter, Heinrich, 1791-1869 : Free Download &amp; Streaming : Internet Archive](https://archive.org/details/historiaphilosop00ritt)
         * [How the Neoliberalization of Academia Leads to Thoughtlessness: Arendt and ... - Justin Pack - Google Книги](https://books.google.com/books?id=s9BwDwAAQBAJ&pg=PA98&lpg=PA98&dq=myopic+hyperspecialization&source=bl&ots=PCE_e3d5Wz&sig=hgoKDizt_bXJhE4djVgabFGor8w&hl=ru&sa=X&ved=2ahUKEwjo8-OL8qLfAhVEyFQKHZCtA3wQ6AEwBXoECAkQAQ#v=onepage&q=myopic%20hyperspecialization&f=false)
         * [600 citations pour bien réflichir avantd_agir.pdf](https://vk.com/doc6234312_452023767?hash=34393c293cbc38f80b&dl=10b44d6213a16b7679)
-    
+
 * Consciousness
         * [The conscious mind: in search of a fundamental theory | David J. Chalmers | download](https://b-ok.cc/book/511970/bfade6?dsource=recommend)
         * [*The New Science of Consciousness: Exploring the Complexity of Brain, Mind, and Self | Paul L. Nunez | download](https://b-ok.cc/book/2927197/b321b1)
@@ -11659,7 +11659,7 @@ What are my ethical obligations?
         * http://www.philosophie.uni-mainz.de/metzinger/publikationen/Bewusstsein_2008_prefinal.pdf
         * [****The Intellectual Landscape:](https://faculty.unlv.edu/beisecker/Courses/Phi-352/PhilMindOverview.htm)
         * [Home | dasGehirn.info - der Kosmos im Kopf](https://www.dasgehirn.info/)
-    
+
 * YouTube
         * [Философия - YouTube - YouTube](https://www.youtube.com/playlist?list=PLhMkqRn14YG_hfg4BaSAmVGXcthwAVbvD)
         * [FilosofíaTv - YouTube](https://www.youtube.com/channel/UCKVRnYq1wVPlqB_ZlKgMvJg)
@@ -11698,12 +11698,12 @@ What are my ethical obligations?
         * [Quem Somos Nós?](https://www.youtube.com/channel/UCIj7UmUVFTFC9yXNiZoRmEg)
         * [Provocações Filosóficas](https://www.youtube.com/channel/UCdsosII3oC_jGwi7NNxTbeQ)
         * [Human - YouTube](https://www.youtube.com/user/omroepHUMAN/playlists)
-    
+
 * Podcast
         * [50 Best Philosophy Podcasts | Student Guide](http://www.studentguide.org/50-best-philosophy-podcasts/)
         * [Simone et les philosophes - Le podcast préféré de Socrate](http://simoneetlesphilosophes.fr/)
         * http://live.audials.com/de#!podcast
-    
+
 * Fora
         * [Portal Raízes](https://www.portalraizes.com/)
         * [Forum de Philosophie - Portail](https://www.forumdephilosophie.com/)
@@ -11714,7 +11714,7 @@ What are my ethical obligations?
         * [Philo Libre Expression: Débat de philosophie sur internet, forum de philosophie en ligne, discussion philosophique](https://philolibreexpression.fr/)
         * [**Philo Libre Expression: philosophie par internet, discussion philosophique en ligne, Cercle philosophique sur internet](https://philolibreexpression.fr/philosophie-sur-internet-debats-themes-discussions-philosophiques-en-ligne-philo-libre-expression)
         * [Philo-Welt.de | Philosophie Forum](http://philo-welt.de/forum/)
-    
+
 * Other General Sites to Read
         * [Information Philosophie - Die Zeitschrift, die über Philosophie informiert](http://www.information-philosophie.de/)
         * [most important philosophical questions - Поиск в Google](https://www.google.com/search?q=most+important+philosophical+questions&rlz=1C1GCEA_enUS820US820&oq=most+important+philosophical+questions&aqs=chrome..69i57j0.7856j0j7&sourceid=chrome&ie=UTF-8)
@@ -11766,46 +11766,46 @@ What are my ethical obligations?
         * http://subject.com.ua/philosophy/philosophy/2.html
         * http://www.libraryforall.org/blog/2015/8/20/our-favorite-open-educational-resources
         * http://www.vitutor.com/index.html
-    
+
 * Courses
         * [Cours de philosophie - Programme de terminale](http://coursphilosophie.free.fr/index.php)
         * [Cours de philosophie - Programme de terminale](http://coursphilosophie.free.fr/index.php)
         * [Філософія | Prometheus](https://courses.prometheus.org.ua/courses/KPI/PHIL101/2016_T2/about)
-    
+
 * Misc Questions, 1-shot
         * [What are the different possible approaches to life? - Buscar con Google](https://www.google.com/search?q=What+are+the+different+possible+approaches+to+life%3F&rlz=1C5CHFA_enUS753US753&oq=What+are+the+different+possible+approaches+to+life%3F&aqs=chrome..69i57.7716j0j9&sourceid=chrome&ie=UTF-8)
-    
+
 
 
 * →
         * https://zestedesavoir.com/ site général
-    
+
 
 
 * [Religion of a Different Color: Race and the Mormon Struggle for Whiteness](http://library.lol/main/69321824457CDF2BF5513D5CF3D85CEE)
 * [philosophy: catapano critchley](http://libgen.rs/search.php?req=catapano+critchley&open=0&res=25&view=simple&phrase=1&column=def)
 * [How to Be Perfect: The Correct Answer to Every Moral Question](http://library.lol/main/1CFA22325B43E4764726AC82DAB6D2F8)
-* https://crisismagazine.com/opinion/a-left-wing-atheists-case-against-abortion 
+* https://crisismagazine.com/opinion/a-left-wing-atheists-case-against-abortion
 
 
 * idea evolution
-    
+
     # Today’s Game Plan
-    
+
     1. Hundreds Of Hours Of Research Uncovered The Idea Evolution Mental Model. I share the specific books, articles, and academic papers that helped me understand the idea evolution mental model.
     2. Countless Cases Of Idea Evolution. I share quotes from many of the greatest thinkers in history swearing
     by the power of idea evolution. Before adopting something new, it’s
     valuable to see how widely beneficial it is.
     3. The Idea Evolution Workflow (paid subscribers only). I share the specifics of how I completely reinvented my workflow based on the idea evolution mental model.
-    
+
     # Hundreds Of Hours Of Research Uncovered The Idea Evolution Mental Model
-    
+
     I started talking about the research behind idea evolution in [Tutorial: How To Package Other People's Video Clips So They Go Viral And People Pay For Them](https://link.sbstck.com/redirect/17bf0b75-2e91-47f7-aeb6-13e1e3bc6167?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY). In this post, I go deeper.
-    
+
     Once I saw the power of idea evolution, I started seeing it everywhere.
-    
+
     I saw it in many books, academic papers, and articles I was reading on creativity. Some ones that come to mind include:
-    
+
     - [Where Good Ideas Come From: The Natural History of Innovation](https://link.sbstck.com/redirect/f4547152-bd2e-4bbe-a135-dbb3124c1fde?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by [Steven Johnson](https://open.substack.com/users/1408434-steven-johnson?utm_source=mentions)
     - [The Romance Of Reality](https://link.sbstck.com/redirect/f4547152-bd2e-4bbe-a135-dbb3124c1fde?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by [Bobby Azarian](https://link.sbstck.com/redirect/c9cd0411-9b73-44f9-b0d0-10f6fd91fdb8?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY)
     - [The Diversity Bonus](https://link.sbstck.com/redirect/6a17f062-5ee1-496f-96b4-ea48521f7049?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by researcher Scott Page
@@ -11818,158 +11818,158 @@ What are my ethical obligations?
     - [Borrowing Brilliance: The Six Steps to Business Innovation by Building on the Ideas of Others](https://link.sbstck.com/redirect/243c7677-2e9d-4d52-ad27-1f7a39b3d5be?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by David Kord Murray
     - [The Medici Effect](https://link.sbstck.com/redirect/97280e11-d5b3-4036-a749-006df8a4babb?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by Frans Johansson
     - [Decoding Greatness](https://link.sbstck.com/redirect/62cc2dd3-c53c-46af-95cd-0e6854a55520?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY) by Ron Friedman
-    
+
     And
-     I saw the mental model among greatest thinkers in history from 
-    mathematicians to economists to philosophers to entrepreneurs to 
+     I saw the mental model among greatest thinkers in history from
+    mathematicians to economists to philosophers to entrepreneurs to
     technology researchers to futurists…
-    
+
     # Countless Cases Of Idea Evolution
-    
+
     I
-     share all of the quotes below from famous thinkers so you can see the 
+     share all of the quotes below from famous thinkers so you can see the
     extent to which the idea evolution is embedded in many different fields.
-     These individuals aren’t outliers with a unique approach. Rather they 
+     These individuals aren’t outliers with a unique approach. Rather they
     are the norm of how creativity actually works.
-    
+
     ### Combinatorial creativity in mathematics
-    
+
     > “It is obvious that invention or discovery, be it in mathematics or anywhere else, takes place by combining ideas.”—Jacques Hadamard, Mathematician
-    > 
-    
+    >
+
     > “Ideas rose in crowds; I felt them collide until pairs interlocked, so to speak, making a stable combination.”—Henri Poincaré, Mathematician
-    > 
-    
+    >
+
     ### Combinatorial creativity in economics
-    
+
     > “Improvements in machinery [result from in part] combining together the powers of the most distant and dissimilar objects.”—Adam Smith
-    > 
-    
+    >
+
     > “To produce means to combine the things and forces within our reach.”—Joseph Schumpeter
-    > 
-    
+    >
+
     > “New
      technologies are never created from nothing. They are constructed – put
      together – from components that previously exist; and in turn these new
      technologies offer themselves as possible components – building blocks –
      for the construction of further new technologies.”—Economists Brian Arthur & Wolgang Polak
-    > 
-    
+    >
+
     ### Combinatorial creativity in invention
-    
+
     > “90 percent of inventions combine at least two codes, showing that invention is increasingly a combinatorial process.”—Dashun Wang & Albert-László Barabasi in Science Of Science
-    > 
-    > 
+    >
+    >
     > *“Creativity
-    >  is just connecting things. When you ask creative people how they did 
-    > something, they feel a little guilty because they didn’t really do it, 
+    >  is just connecting things. When you ask creative people how they did
+    > something, they feel a little guilty because they didn’t really do it,
     > they just saw something.”—*Steve Jobs
-    > 
-    
+    >
+
     > “Invention
-     finds its distinctive feature in the constructive assimilation of 
-    preexisting elements into new syntheses, new patterns, or new 
+     finds its distinctive feature in the constructive assimilation of
+    preexisting elements into new syntheses, new patterns, or new
     configurations of behavior.”—Abbott Payson, Researcher, History Of Mechanical Invention
-    > 
-    
+    >
+
     > The
-     great driver of scientific and technological innovation [in the last 
-    600 years has been] the increase in our ability to reach out and 
-    exchange ideas with other people, and to borrow other people’s hunches 
+     great driver of scientific and technological innovation [in the last
+    600 years has been] the increase in our ability to reach out and
+    exchange ideas with other people, and to borrow other people’s hunches
     and combine them with our hunches and turn them into something new.
-    > 
-    > 
+    >
+    >
     > —[Steven Johnson](https://open.substack.com/users/1408434-steven-johnson?utm_source=mentions) , author of [Where Good Ideas Come From](https://link.sbstck.com/redirect/9345f93a-fe63-4794-b167-12a93cfc27a1?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY)
-    > 
-    
+    >
+
     ### Combinatorial creativity in other fields
-    
+
     > “Combinatorial play seems to be the essential feature in productive thought.” —Albert Einstein
-    > 
-    
+    >
+
     > “The philosopher must form a new combination of ideas concerning the combination of ideas.” —Jacques Derrida, Philosopher
-    > 
-    
+    >
+
     > “Each
      new machine or technique, in a sense, changes all existing machines and
-     techniques, by permitting us to put them together into new 
+     techniques, by permitting us to put them together into new
     combinations. The number of possible combinations rises exponentially as
-     the number of new machines or techniques rises arithmetically. Indeed, 
+     the number of new machines or techniques rises arithmetically. Indeed,
     each new combination may, itself, be regarded as a new super-machine.”—Alvin Toffler, Futurist
-    > 
-    
+    >
+
     > “In the course of creative endeavors, artists and scientists join fragments of knowledge into a new unity of understanding.”
-    > 
-    > 
+    >
+    >
     > —Vera John-Steiner, Psycholinguist
-    > 
-    
+    >
+
     ### Combinatorial creativity in the arts
-    
+
     > “Don’t
-     be so all-fired concerned about being original. You hear an old song 
+     be so all-fired concerned about being original. You hear an old song
     you like but you’d like to change a little, there’s no crime in changing
      a little…
-    > 
-    > 
+    >
+    >
     > *It’s
-    >  a process. It’s not any particular song, it’s not any particular 
-    > singer. It’s a process by which ordinary people take over old songs and 
+    >  a process. It’s not any particular song, it’s not any particular
+    > singer. It’s a process by which ordinary people take over old songs and
     > make them their own.”*
-    > 
+    >
     > —Pete Seeger, Singer, in [Songwriters On Songwriting](https://link.sbstck.com/redirect/687ec851-4eb9-4b05-84c4-fc4d7e93575e?j=eyJ1IjoiMTZncWkifQ.7ZDFSaslJu744-faP9vNPQEpLdW-p0iUe4Hjq_d_CRY)
-    > 
-    
+    >
+
     > “Substantially
-     all ideas are second-hand, consciously and unconsciously drawn from a 
-    million outside sources, and daily use by the garnerer with a pride and 
+     all ideas are second-hand, consciously and unconsciously drawn from a
+    million outside sources, and daily use by the garnerer with a pride and
     satisfaction born of the superstition that he originated them.”—Mark Twain, Writer
-    > 
-    
+    >
+
     > “Even
-     the most original song you can think of is liable to have a good deal 
-    of tradition in it. After all, the major scale and the minor scale were 
+     the most original song you can think of is liable to have a good deal
+    of tradition in it. After all, the major scale and the minor scale were
     invented thousands of years ago… And the English language was invented a
-     long time ago, and the phrases that we use. And we’re just rearranging 
+     long time ago, and the phrases that we use. And we’re just rearranging
     these ancient elements.”
-    > 
-    > 
+    >
+    >
     > —Virginia Woolf, Writer
-    > 
-    
+    >
+
     ### Combinatorial creativity from creativity thinkers
-    
+
     > “Ideas,
      like species, naturally evolve over time. Existing concepts are altered
      and combined to construct new concepts; the way geometry, trigonometry,
      and algebra combine to form calculus.” —David Kord Murray, Borrowing Brilliance
-    > 
-    
+    >
+
     > “The
-     first [principle is] that an idea is nothing more nor less than a new 
-    combination of old elements. The second important principle is that the 
-    capacity to bring old elements into new combinations depends largely on 
+     first [principle is] that an idea is nothing more nor less than a new
+    combination of old elements. The second important principle is that the
+    capacity to bring old elements into new combinations depends largely on
     the ability to see relationships.”—James Webb Young (legendary creative in the advertising field)
-    > 
-    
+    >
+
     > “Nothing
-     is completely original. All artists’ work builds on what came before. 
+     is completely original. All artists’ work builds on what came before.
     Every new idea is just a remix or a mashup of two previous ideas.” —Austin Kleon , Author of Steal Like An Artist
-    > 
-    
+    >
+
     > “You don’t really have a workable idea until you combine two ideas.” —Twyla Tharp, Dancer, Choreographer, Author
-    > 
-    
+    >
+
     Now
      that you understand how ubiquitous idea evolution is, let’s explore how
-     powerful it is. When you fully assimilate the implications of the 
-    mental model, you completely restructure your process for producing 
+     powerful it is. When you fully assimilate the implications of the
+    mental model, you completely restructure your process for producing
     ideas.
-    
+
     Below is the workflow that I’ve refined over the years based on the idea evolution mental model…
-    
+
     # The Idea Evolution Workflow (For Paid Subscribers)
-    
+
     1. Research the best of what humanity has figured out so you can stand on the shoulders of giants
     2. Collect diverse knowledge so you can make combinations no one else can
     3. Build a memory system so you can automatically combine things in your head forever
@@ -11979,24 +11979,24 @@ What are my ethical obligations?
     7. Package your ideas so they grab attention and spread virally
 
 What are my ethical obligations?
-* [https://en.wikipedia.org/wiki/Darwin's_Dangerous_Idea](https://en.wikipedia.org/wiki/Darwin%27s_Dangerous_Idea) 
-* https://ramaley.media/idea-evolution/ 
-* https://hatrabbits.com/en/the-evolution-of-ideas-1/ 
-* https://www.shortform.com/blog/evolution-of-ideas-2/ 
-* https://www.drorpoleg.com/thinking-fast-and-slopes 
+* [https://en.wikipedia.org/wiki/Darwin's_Dangerous_Idea](https://en.wikipedia.org/wiki/Darwin%27s_Dangerous_Idea)
+* https://ramaley.media/idea-evolution/
+* https://hatrabbits.com/en/the-evolution-of-ideas-1/
+* https://www.shortform.com/blog/evolution-of-ideas-2/
+* https://www.drorpoleg.com/thinking-fast-and-slopes
 
 
 * philo
-        * https://www.lesswrong.com/ 
-        * [https://www.google.com/search?q=evolution and the good life&ie=utf-8&oe=utf-8&client=firefox-b-m](https://www.google.com/search?q=evolution%20and%20the%20good%20life&ie=utf-8&oe=utf-8&client=firefox-b-m) 
-        * https://psykip.vercel.app/compare/all 
+        * https://www.lesswrong.com/
+        * [https://www.google.com/search?q=evolution and the good life&ie=utf-8&oe=utf-8&client=firefox-b-m](https://www.google.com/search?q=evolution%20and%20the%20good%20life&ie=utf-8&oe=utf-8&client=firefox-b-m)
+        * https://psykip.vercel.app/compare/all
         * https://magazine.hms.harvard.edu/articles/good-life
         * [philosophers on income justice](https://duckduckgo.com/?q=philosophers+on+income+justice&ia=web)
         * ['The Office' Warned Us About Dwight Schrute - The Atlantic](https://www.theatlantic.com/culture/archive/2020/10/the-office-tragedy-dwight-schrute-warning/616806/)
-        * https://www.theatlantic.com/culture/archive/2020/10/the-office-tragedy-dwight-schrute-warning/616806/ 
+        * https://www.theatlantic.com/culture/archive/2020/10/the-office-tragedy-dwight-schrute-warning/616806/
         * [What makes humans special? | Philosophy, Logic and Scientific Method](https://www.lse.ac.uk/philosophy/blog/2016/03/03/what-makes-humans-special/)
         * [The meaning to life? A Darwinian existentialist has his answers](https://aeon.co/ideas/the-meaning-to-life-a-darwinian-existentialist-has-his-answers)
-    
+
 * [Collective Responsibility (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/collective-responsibility/)
 * [Personal Identity and Ethics (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/identity-ethics/)
 * [bite the bullet Deutsch - Google Search](https://www.google.com/search?client=firefox-b-d&q=bite+the+bullet+Deutsch)

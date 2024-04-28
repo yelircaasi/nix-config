@@ -1297,7 +1297,7 @@ yt * https://www.youtube.com/@NamNguyen-qw9lf/playlists - Convexity and Convex A
 
 yt * [The Most Important Counting Concept You’ve (Probably) Never Heard Of](https://www.youtube.com/watch?v=uxjAHkn4VFI)
 
-yt | Roadmap 1 (from https://www.youtube.com/watch?v=fo-alw2q-BU) | https://www.youtube.com/watch?v=7G4SqIboeighttps://www.youtube.com/watch?v=7G4SqIboeig. |
+yt | Roadmap 1 (from https://www.youtube.com/watch?v=fo-alw2q-BU) | https://www.youtube.com/watch?v=7G4SqIboeihttps://www.youtube.com/watch?v=7G4SqIboeig. |
 
 yt |  | > https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw |
 yt |  | > Videos: https://www.youtube.com/channel/UCLzpR8AiHx9h_-yt2fAxd_A/playlists |

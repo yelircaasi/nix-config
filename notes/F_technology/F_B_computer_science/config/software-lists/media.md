@@ -1,7 +1,7 @@
 # Media
 ## Miscellaneous
 * mopidy
-* ( ) [navidrome](https://www.navidrome.org/) 
+* ( ) [navidrome](https://www.navidrome.org/)
 * ( ) [trackma](https://github.com/z411/trackma) https://z411.github.io/trackma/
 * ( ) [volumeicon](https://github.com/Maato/volumeicon)
 
@@ -116,7 +116,7 @@
 * ( ) [GraphicsMagick](http://www.graphicsmagick.org/) - GraphicsMagick is the swiss army knife of image processing.
 * ( ) [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A patch for optimizing GIMP 2.10+ for Adobe Photoshop users.
 * ( ) [scantailor](https://github.com/scantailor/scantailor) - Scan Tailor is an interactive post-processing tool for scanned pages. For a tutorial on how to use it, consult its [User Guide](https://github.com/scantailor/scantailor/wiki/User-Guide).
-* ( ) [gifcurry](https://github.com/lettier/gifcurry) - [Gifcurry](https://lettier.github.io/gifcurry/) - Your open source video to GIF maker built with Haskell. 
+* ( ) [gifcurry](https://github.com/lettier/gifcurry) - [Gifcurry](https://lettier.github.io/gifcurry/) - Your open source video to GIF maker built with Haskell.
 * ( ) [Blender](https://www.blender.org/) - A free and open source complete 3D creation pipeline for artists and small teams.
 * ( ) [ImageMagick -](https://imagemagick.org/) https://imagemagick.org/index.php - Gold standard for anything images.
 * ( ) [gimp](https://www.gimp.org/)
@@ -181,7 +181,7 @@
 * ( ) [lyricpad](https://github.com/keshavbhatt/lyricpad) - lyrics from the web
 * ( ) [Subtitld](https://subtitld.org/) - Subtitld is an open source software to edit, transcribe and create subtitles.
 ### Players
-* ( ) [quark-player](https://github.com/Alex313031/quark-player)  
+* ( ) [quark-player](https://github.com/Alex313031/quark-player)
 * ( ) [ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer)
 * ( ) [olivia](https://github.com/keshavbhatt/olivia) - music player
 * ( ) [smplayer](https://github.com/smplayer-dev/smplayer)
@@ -262,7 +262,7 @@
 * (U)[kunst](https://github.com/sdushantha/kunst)- rewrite for wayland (wayland stack dependencies)
 * [glava](https://github.com/jarcode-foss/glava) - OpenGL audio spectrum visualizer - also X11
 * (U ← X11) https://github.com/nikp123/xava
-(\* \[\]\(https://github.com/\w+/[^) ]+) 
+(\* \[\]\(https://github.com/\w+/[^) ]+)
 ## Spotify
 * ( ) [zspotify](https://github.com/jsavargas/zspotify)
 * ( ) [spotxtract-t](https://github.com/lnn0q/spotxtract-t)
@@ -340,6 +340,6 @@ media * [amberol](https://gitlab.gnome.org/World/amberol) A small and simple sou
 media * [pipe-viewer](https://github.com/trizen/pipe-viewer) - yt client 
 media cli music * [ncspot](https://github.com/hrkfdn/ncspot)
 media image * [Hugin - Panorama photo stitcher](https://hugin.sourceforge.io/)
-media image gui photo stitching * [hugin](https://hugin.sourceforge.io/) panorama photo stitcher 
+media image gui photo stitching * [hugin](https://hugin.sourceforge.io/) panorama photo stitcher
 media music * [mpDris2](https://github.com/eonpatapon/mpDris2) - MPRIS V2.1 support for mpd 
 media radio * [radion](https://www.reddit.com/r/commandline/s/q7nN51fBVY) Radion, an internet radio TUI client, written in Bash.

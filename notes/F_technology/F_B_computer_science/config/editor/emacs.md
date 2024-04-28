@@ -49,7 +49,7 @@ https://gitlab.com/domsch1988/domacs
 * Emacs includes Tramp mode, which allows seamless editing of files on remote machines over SSH or other protocols.
 * Neovim also supports remote file editing but may handle it differently.
 * It's important to note that both Emacs and Neovim are highly extensible, and many features that are not present in the core can be added through plugins or extensions. Users often choose their preferred editor based on personal workflow, philosophy, and the specific features that matter most to them.
-* 
+*
     * [top emacs distributions at DuckDuckGo](https://www.google.com/url?q=https://duckduckgo.com/?q%3Dtop%2Bemacs%2Bdistributions%26ia%3Dweb&sa=D&source=editors&ust=1711377894844334&usg=AOvVaw1kb8TQ1DAx5gEHWHY2PvVD) 
     * [](https://www.google.com/url?q=https://github.com/emacs-tw/awesome-emacs&sa=D&source=editors&ust=1711377894844597&usg=AOvVaw1FtHqJJVR2se9HM08tuTQj)
     * [emacs-tw/awesome-emacs: A community driven list of useful Emacs packages, libraries and other items.](https://www.google.com/url?q=https://github.com/emacs-tw/awesome-emacs&sa=D&source=editors&ust=1711377894844742&usg=AOvVaw0ayx2hI3ZzuE-UqkxxIP3P) 
@@ -111,8 +111,8 @@ https://gitlab.com/domsch1988/domacs
 
     * [Doom to Vanilla](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DhoP4I9ounyQ&sa=D&source=editors&ust=1711377894852115&usg=AOvVaw3nElfzMUE4UoHAijvuQ_En)
 
-    emacs [Overview - Emacs NG - A new approach to Emacs](ghttps://emacs-ng.github.io/emacs-ng/)
-emacs [dotfiles/Emacs.org at master · daviwil/dotfiles](ghttps://github.com/daviwil/dotfiles/blob/master/Emacs.org)
+    emacs [Overview - Emacs NG - A new approach to Emacs](https://emacs-ng.github.io/emacs-ng/)
+emacs [dotfiles/Emacs.org at master · daviwil/dotfiles](https://github.com/daviwil/dotfiles/blob/master/Emacs.org)
 emacs [dotfiles/Emacs.org at master · daviwil/dotfiles](https://github.com/daviwil/dotfiles/blob/master/Emacs.org)
 emacs [emacs 30 config](https://www.reddit.com/r/emacs/s/PvfAewpcci)
 emacs [http://libgen.rs/search.php?&req=emacs&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](http://libgen.rs/search.php?%26req%3Demacs%26phrase%3D1%26view%3Dsimple%26column%3Ddef%26sort%3Dyear%26sortmode%3DDESC)
@@ -120,6 +120,6 @@ emacs [https://github.com/MiniApollo/kickstart.emacs](https://github.com/MiniApo
 emacs [https://www.emacswiki.org/emacs/StarterKits](https://www.emacswiki.org/emacs/StarterKits)
 emacs [https://www.reddit.com/r/NixOS/s/aMiyjPWmc1](https://www.reddit.com/r/NixOS/s/aMiyjPWmc1) emacs on nixos
 emacs [https://www.reddit.com/r/emacs/s/PvfAewpcci](https://www.reddit.com/r/emacs/s/PvfAewpcci)
-emacs [marsam/emacspy: Program Emacs in Python instead of ELisp (i.e. write dynamic modules for Emacs in Python)](ghttps://github.com/marsam/emacspy)
+emacs [marsam/emacspy: Program Emacs in Python instead of ELisp (i.e. write dynamic modules for Emacs in Python)](https://github.com/marsam/emacspy)
 emacs perso [novoid (Karl Voit)](https://github.com/novoid/)
 * https://protesilaos.com/emacs/denote

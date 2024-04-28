@@ -97,15 +97,14 @@
 * [Snowdrift.coop](https://snowdrift.coop/) - Crowdmatching for public goods.
 * [TuxFamily](https://www.tuxfamily.org/) - No cost hosting and other services for libre projects.
 
-
 ## Other Lists
 * [Awesome Humane Tech](https://github.com/engagingspaces/awesome-humane-tech) - List of projects focusing on ethics, transparency, and privacy.
 * [Awesome Self-Hosted](https://github.com/Kickball/awesome-selfhosted) - List of FLOSS network services and web applications which can be hosted locally.
 * [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) - List of free software sysadmin tools.
 
-
 ## People
 * [Maxime Lathuilière](https://maxlath.eu/) - Reorganizing information and resources through libre software to enable a free society.
+* [Erik Dubios](https://www.youtube.com/@ErikDubois)
 
 ## Linux News, Apps, and more:
 * [9To5Linux](https://9to5linux.com/)
@@ -156,11 +155,11 @@
 * [bash Cookbook](https://libgen.is/book/index.php?md5=D30E555779831E7DF78ECE12D142F170)
 * https://github.com/neo-sh/neosh
 * CUDA, etc.
-* https://docs.nvidia.com/cuda/doc/index.html 
-* https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html 
-* https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/contents.html 
+* https://docs.nvidia.com/cuda/doc/index.html
+* https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html
+* https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/contents.html
 * https://github.com/nvidia/cuda-samples
-* https://developer.nvidia.com/cuda-python 
+* https://developer.nvidia.com/cuda-python
 * [CUDA-X](https://developer.nvidia.com/gpu-accelerated-libraries#deep-learning)
 * [Math Libraries](https://developer.nvidia.com/gpu-accelerated-libraries#linear-algebra)
 * [cuBLAS](https://developer.nvidia.com/cublas) - https://docs.nvidia.com/cuda/cublas/index.html
@@ -203,13 +202,13 @@
 
 
 ## LinuxTube
-* [Diolinux](https://www.youtube.com/@Diolinux) 
-* https://www.youtube.com/@Akitando 
-* https://www.youtube.com/@morrolinux 
-* https://www.youtube.com/@extraordy 
-* https://www.youtube.com/@alternativalinux 
-* https://www.youtube.com/@HolaMundoDev 
-* https://www.youtube.com/@LocosporLinux 
+* [Diolinux](https://www.youtube.com/@Diolinux)
+* https://www.youtube.com/@Akitando
+* https://www.youtube.com/@morrolinux
+* https://www.youtube.com/@extraordy
+* https://www.youtube.com/@alternativalinux
+* https://www.youtube.com/@HolaMundoDev
+* https://www.youtube.com/@LocosporLinux
 * [TUXEDO Computers](https://www.youtube.com/user/LinuxOnlineshop)
 
 ## Guides
@@ -231,15 +230,13 @@
 * Guide avancé d'écriture des scripts Bash
 * [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)**
 
-
 ## Media Sites
-* http://www.tuxmachines.org/index/ 
-* https://9to5linux.com/ 
-* https://gnulinux.ch/ 
-
+* http://www.tuxmachines.org/index/
+* https://9to5linux.com/
+* https://gnulinux.ch/
 
 ## Podcasts
-* https://focusonlinux.podigee.io/ 
+* https://focusonlinux.podigee.io/
 
 Podcast: This Week in Linux+
 
@@ -253,14 +250,14 @@ Podcast: This Week in Linux+
 * [Vikings](https://vikings.net/) - Hosting company powered by Libreboot firmware, libre software, and green energy that also sells hardware.
 * [https://framasoft.org/en/ →](https://framasoft.org/en/) https://degooglisons-internet.org/en/
 
-## SORT 
+## SORT
 distro  * [](https://github.com/Vanilla-OS/custom-image
 distro * [](https://github.com/Vanilla-OS/Vib
 distro * [](https://gitlab.com/garuda-linux/)
 distro * [](https://guix.gnu.org/en/blog/2018/guix-on-android/)
 distro * [](https://ubuntu.com/blog/ubuntu-core-an-immutable-linux-desktop) 
 distro * [](https://www.openbsdhandbook.com/openbsd_for_linux_users/
-distro * [ais](https://github.com/archsinner/ais) archsinner install script 
+distro * [ais](https://github.com/archsinner/ais) archsinner install script
 distro * [Arch Linux Automated Install Script](https://low-orbit.net/arch-linux-automated-install-script)
 distro * [axyl-os/axyl-iso/releases](https://github.com/axyl-os/axyl-iso/releases)
 distro * [distinstall-python](https://github.com/Thanatisia/distinstall-python) hn 
@@ -420,3 +417,4 @@ WARNING: Running pip as the 'root' user can result in broken permissions and con
 * [Welcome to linuxzoo](https://linuxzoo.net/)
 
 $$$ POSIX standard https://pubs.opengroup.org/onlinepubs/9699919799/
+* ( ) [blfs](https://www.linuxfromscratch.org/blfs/read.html)

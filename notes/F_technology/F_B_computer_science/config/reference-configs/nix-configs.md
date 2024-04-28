@@ -1,7 +1,86 @@
 # Nix Configurations
 ## Sources, Collections
-* -> nix config critique https://www.reddit.com/r/NixOS/s/TI2bPmWUYW 
+* -> nix config critique https://www.reddit.com/r/NixOS/s/TI2bPmWUYW
 * [nixos-dotfiles · GitHub Topics](https://github.com/topics/nixos-dotfiles)
+
+## FROM NIX PAGE
+https://github.com/Gerschtli/nix-config
+https://github.com/573/nix-config-1
+dots * [skelytoni](https://codeberg.org/SkelyToni/NixOS)
+dots * [matthewcroughan](https://gitlab.com/MatthewCroughan/darkflake/-/tree/master)
+dots * [gitlab.com](https://gitlab.com/nobodyinperson/flakes)
+dots * [felixkratz](https://github.com/FelixKratz/dotfiles/tree/0619040a8eebbf9896c5ce4fc9d312270426ed8f)
+config * [](https://bmcgee.ie/posts/2023/11/nix-my-workflow/)
+config * [**nix-home-manager-config/home.nix at main · GustavoPeredo/nix-home-manager-config](https://github.com/GustavoPeredo/nix-home-manager-config/blob/main/home.nix)
+config * [/distribution-specific-guides/NixOS/nixos-configuration](https://www.ordinatechnic.com/distribution-specific-guides/NixOS/nixos-configuration)
+config * [akirak/home.nix: My user configuration files written in Nix](https://github.com/akirak/home.nix)
+config * [akirak/nix-config: NixOS + home-manager + Emacs configuration flake](https://github.com/akirak/nix-config)
+config * [avnibilgin/dotfiles](https://github.com/avnibilgin/dotfiles)
+config * [Awan/nix](https://github.com/Awan/nix)
+config * [bbigras/nix-config](https://github.com/bbigras/nix-config)- [ ]  declarative installation of docker images? 
+config * [danielsiepmann/nixpkgs: My own nixpkgs (for nix + home-manager). Used for nix on my current Ubuntu Setup. Lives * inside ~/.config/nixpkgs - nixpkgs - Forgejo of Daniel Siepmann](https://git.daniel-siepmann.de/danielsiepmann/nixpkgs)
+config * [danth/stylix: System-wide colorscheming and typography for NixOS](https://github.com/danth/stylix/)
+config * [dotfiles-nix/flake.nix at main · notusknot/dotfiles-nix](https://github.com/notusknot/dotfiles-nix/blob/main/flake.nix)
+config * [dotfiles/home.nix at addf391401abc70eb97566f9ccdacbe6e6f96cd4 · bangn/dotfiles](https://github.com/bangn/dotfiles/blob/addf391401abc70eb97566f9ccdacbe6e6f96cd4/nixpkgs/home.nix)
+config * [HugoReeves/nix-home: A Nix Home Manager setup. I've now moved to a new configuration system at hugoreeves/elemental](https://github.com/HugoReeves/nix-home)
+config * [jakehamilton/config](https://github.com/jakehamilton/config)
+config * [jdisaacs.com](https://jdisaacs.com/blog/nixos-config/)
+config * [librephoenix/nixos-config](https://github.com/librephoenix/nixos-config)
+config * [lokeshmohanty/nix-config/blob/main/nixos/desktop-environment.nix](https://github.com/lokeshmohanty/nix-config/blob/main/nixos/desktop-environment.nix)
+config * [LunNova/nixos-configs](https://github.com/LunNova/nixos-configs)
+config * [monadplus/old-nixos-configuration](https://github.com/monadplus/old-nixos-configuration)
+config * [nix-config: My pretty nice NixOS/home-manager configuration](https://sr.ht/~misterio/nix-config/)
+config * [NixOS/nixos-artwork: Nix related artwork](https://github.com/NixOS/nixos-artwork)
+config * [stylix](https://danth.github.io/stylix/index.html)
+config * [unix.stackexchange.com](https://unix.stackexchange.com/questions/522822/different-methods-to-run-a-non-nixos-executable-on-nixos/522823%23522823)
+config * rice  [the-argus/gtk-nix: A gtk theme that can be configured with nix](https://github.com/the-argus/gtk-nix/)
+config * rice [github.com](https://github.com/danth/stylix)
+dots * [yrashk/nix-home: Nix Home Manager](https://github.com/yrashk/nix-home)*
+dot * [wiltaylor/dotfiles](https://github.com/wiltaylor/dotfiles)
+dots  * [How I Nix](https://eevie.ro/posts/2022-01-24-how-i-nix.html)
+dots -* [NyCodeGHG/dotfiles](https://github.com/NyCodeGHG/dotfiles)
+dots -> * [Repository search results](https://github.com/search?q%3Dags%2Blanguage%253ANix%2B%26type%3Drepositories)
+dots * [**my-nix-config/home.nix at master · SCOTT-HAMILTON/my-nix-config](https://github.com/SCOTT-HAMILTON/my-nix-config/blob/master/home.nix)
+dots * [blog.ocharles.org.uk](https://blog.ocharles.org.uk/blog/posts/2014-02-04-how-i-develop-with-nixos.html)
+dots * [CallMeCaleb94/KyniFlakes](https://github.com/CallMeCaleb94/KyniFlakes)
+dots * [davidak/nixos-config: NixOS configurations for server, desktop and mobile systems, including user specific config using Home Manager - nixos-config - Codeberg.org](https://codeberg.org/davidak/nixos-config)
+dots * [emmaboecker/dotfiles](https://github.com/emmaboecker/dotfiles)
+dots * [flake_inferno/home.nix at 4f3effcf938c564680d8d9b57e5715b77c9d20ad · PmicroTO/flake_inferno](https://github.com/PmicroTO/flake_inferno/blob/4f3effcf938c564680d8d9b57e5715b77c9d20ad/home/home.nix)
+dots * [FruitieX/home.nix: Home Manager configuration files](https://github.com/FruitieX/home.nix)
+dots * [henriquekirchheck/nixos-flake](https://github.com/henriquekirchheck/nixos-flake)
+dots * [hg.sr.ht](https://hg.sr.ht/~ab/)
+dots * [hyprland_nixos_catppuccin_for_all_apps/](https://www.reddit.com/r/unixporn/comments/15co6ns/hyprland_nixos_catppuccin_for_all_apps/)
+dots * [iharh/nixcfg/tree/6fab8a06850f47df37bd3cb0f027ecf11782cff4/hw](https://github.com/iharh/nixcfg/tree/6fab8a06850f47df37bd3cb0f027ecf11782cff4/hw)
+dots * [justinlime/dotfiles](https://github.com/justinlime/dotfiles)* - Guix*
+dots * [justinlime/dotfiles/tree/main](https://github.com/justinlime/dotfiles/tree/main)
+dots * [kbeerta/flake](https://github.com/kbeerta/flake)
+dots * [knoc-off/nixos](https://github.com/knoc-off/nixos)
+dots * [MasterofNull/nixos/](https://github.com/MasterofNull/nixos/)
+dots * [Misterio77/nix-starter-configs: Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!](https://github.com/Misterio77/nix-starter-configs)
+dots * [My NixOS Dotfiles Explained | Haseeb Majid](https://haseebmajid.dev/posts/2023-09-12-how-i-configure-nixos-as-part-of-my-development-workflow/)
+dots * [Nimor111/home.nix: Personal home manager configuration for non-nixos systems](https://github.com/Nimor111/home.nix)
+dots * [nixos-home/misc.nix at 7c5410e70f6f6db8d7a0a93a20bfd8be079b25f6 · RaitoBezarius/nixos-home](https://github.com/RaitoBezarius/nixos-home/blob/7c5410e70f6f6db8d7a0a93a20bfd8be079b25f6/misc.nix)
+dots * [notusknot/dotfiles-nix](https://github.com/notusknot/dotfiles-nix)
+dots * [redoracle/nixos](https://github.com/redoracle/nixos) -Alpine + Nix
+dots * [rubyowo/dotfiles](https://github.com/rubyowo/dotfiles)
+dots * [spikespaz/dotfiles](https://github.com/spikespaz/dotfiles)
+dots * [srid/nixos-flake: A flake-parts module to manage NixOS and macOS machines, along with home-manager support, in a unified fashion.](https://github.com/srid/nixos-flake)
+dots * [tars0x9752/home](https://github.com/tars0x9752/home) (nix)
+dots * [Th0rgal/horus-nix-home](https://github.com/Th0rgal/horus-nix-home)
+dots * [thomascft/dotfiles/tree/nixos](https://github.com/thomascft/dotfiles/tree/nixos)
+dots * [TLATER/dotfiles: Dotfiles deployed with nix/home-manager. Feel free to take what you like!](https://github.com/TLATER/dotfiles/tree/master)
+dots * [yorodm/nixos-home: My home manager config](https://github.com/yorodm/nixos-home)
+dots * [zupo/nix](https://github.com/zupo/nix)
+dots * *** [gitlab.com](https://gitlab.com/librephoenix/nixos-config)
+dots * $$$ [git.sr.ht](https://git.sr.ht/~darumaka/SnowISO)
+dots * NixOS, Nix [www.reddit.com](https://www.reddit.com/r/unixporn/s/ESi62fFi1j)
+dots $$$ * [exploitoverload/PwNixOS](https://github.com/exploitoverload/PwNixOS)
+ricing * [Configure Global Cursor Theme - Breeze, Paper, etc... ](https://github.com/NixOS/nixpkgs/issues/22652)
+ricing * [http://reign-studios.com/wallpapers/nixos/NixOS_1440p.png](https://www.google.com/url?q=http://reign-studios.com/wallpapers/nixos/NixOS_1440p.png)
+ricing * [Jetbrains IDEs don't use user cursor theme](https://github.com/NixOS/nixpkgs/issues/50344)*
+ricing * [please-help-fix-ugly-cursor-in-apps-installed-with-nix-env](https://discourse.nixos.org/t/please-help-fix-ugly-cursor-in-apps-installed-with-nix-env/11797)
+ricing * [SenchoPens/base16.nix](https://github.com/SenchoPens/base16.nix) ***
+ricing * [Set a consistent cursor theme for nix UI packages/guide-english/README.md · main · Javier Martínez / devtec-guides · GitLab](https://gitlab.com/javimarsal/devtec-guides/-/blob/main/Set%2520a%2520consistent%2520cursor%2520theme%2520for%2520nix%2520UI%2520packages/guide-english/README.md?ref_type%3Dheads)
 
 ## presort
 * [(1) NixOS My Own Setup A to Z (Goshs desktop) - YouTube](https://www.youtube.com/watch?v%3DMb5lIu_o6tQ)
@@ -317,7 +396,7 @@
 * };
 * };
 * }
-* - 
+* -
 * [https://github.com/Icy-Thought/snowflake](https://github.com/Icy-Thought/snowflake) SwayWM GREEN NixOS [https://github.com/Ruixi-rebirth/flakes](https://github.com/Ruixi-rebirth/flakes)
 * [https://codeberg.org/quantenzitrone/nix-config/src/commit/4939103787da8e59f3cef8b0078718f638d8d919](https://codeberg.org/quantenzitrone/nix-config/src/commit/4939103787da8e59f3cef8b0078718f638d8d919)
 * [https://github.com/qwbarch/nix-config/tree/5fa822feaae405d8e44f7dafd6c0948d54159b51](https://github.com/qwbarch/nix-config/tree/5fa822feaae405d8e44f7dafd6c0948d54159b51)
@@ -344,7 +423,7 @@
 * [https://github.com/purcell/dotfiles](https://github.com/purcell/dotfiles)
 * [https://github.com/utdemir/dotfiles-nix](https://github.com/utdemir/dotfiles-nix)
 * [https://github.com/Anomalocaridid/dotfiles](https://github.com/Anomalocaridid/dotfiles)
-* [https://github.com/erictossell/nixflakes](https://github.com/erictossell/nixflakes)* - Config Resources*   
+* [https://github.com/erictossell/nixflakes](https://github.com/erictossell/nixflakes)* - Config Resources*
 * *** [](https://gitlab.com/librephoenix/nixos-config)
 * [](https://gitlab.com/librephoenix/nixos-config)
 * [](https://github.com/librephoenix/nixos-config)
@@ -376,9 +455,9 @@
    - helix, kitty, nvim, starship, zsh
 * [anomalocaridid](https://github.com/Anomalocaridid/dotfiles)
   - includes Nyxt
-  - wezterm, zsh, helix, nnn, bat, btop, eww, eza, fish, fuzzel, fzf, gaming, git, glow, hyprland, 
+  - wezterm, zsh, helix, nnn, bat, btop, eww, eza, fish, fuzzel, fzf, gaming, git, glow, hyprland,
 * [Aylur $$$$$](https://github.com/Aylur/dotfiles)
-   - ags, sassc, home manager, wezterm, hyprland, gnome-shell theming, colorscript, 
+   - ags, sassc, home manager, wezterm, hyprland, gnome-shell theming, colorscript,
    - blackbox terminal, bash+zsh sharing configs, firefox, starship
    - tmux; lf, neofetch, obsidian, mpv with override, libreoffice spotify
    - caprine-bin, d-spy, easyeffects, github-desktop, gimp, transmission_4-gtk
@@ -397,11 +476,11 @@
   - good use of conditionals
 * [ch1bo ](https://github.com/ch1bo/dotfiles) - nixos flake, home manager, z, bash, emacs, git, gpg, haskell, urxvt, vim, colortable
 * [coffee-is-power](https://github.com/coffee-is-power/nix-configuration) - alacritty, direnv, dunst, env-variables, eww, fcitx5, firefox, gh, git, gpg-agent, gtk-themes, helix, hyprland, hyprpaper, lazygit, mime-apps, networkmanager-dmenu-config, nushell, rofi, vscode, zellij
-* [colemickens/nixcfg: NixOS and Home-Manager configs for my devices. dotfiles, but way better](https://github.com/colemickens/nixcfg) - 
+* [colemickens/nixcfg: NixOS and Home-Manager configs for my devices. dotfiles, but way better](https://github.com/colemickens/nixcfg) -
 * [crystal ](https://github.com/chadcat7/crystal)chadcat7 - perfect nixos (flake) - awesome - [chadcat7 fuyu](https://github.com/chadcat7/fuyu/tree/the-awesome-config) // hyprland, zsh, wezterm, ncmpcpp, picom ([fdev31 fork](https://github.com/fdev31/picom/tree/animation-pr)), nvim ([config](https://github.com/chadcat7/lodo)) [dwm](https://github.com/chadcat7/dwm) [st](https://github.com/chadcat7/st) [contrun *****](https://github.com/contrun/dotfiles) - nix flake, ammonite shell, ansible, haskell, cabal, nextcloud, alacritty, aria2, atuin, autokey, calibre, copyq, con, dunst, fcitx. fcron, foot, i3, i3blocks, i3status-rust, i3status, kakoune with lsp, karabiner, kupfer, latexmk, luakit, midnight commander, mpv, mutt, nixpkgs, nvim, nvimpager, papis, parcellite, fish, pry (ruby), qpdfview, qutebrowser, ranger, rclone, rofi, sslh, sway, sxkhd, syncthing-gtk, systemd, terminator, termite, termonad, tilda, todoman, tridactyl, uzbl, vdirsyncer, wezterm, xkeysnail, xmobar, youtube-dl, zathura, screenkey
 * [Misterio77](https://github.com/misterio77/nix-config)
   - author of the template I used
-  - browsers: 
+  - browsers:
 * [rxyhn](https://github.com/rxyhn/yuki) ***** - nix flake
 * [samiulbasirfahim](https://github.com/samiulbasirfahim/Flakes)**[[Hyprnix 2.0] yet another ricing. nixos | hyprland | flakes | catppuccin](https://www.youtube.com/watch?v=gBMBzTQR47M)**
 * [datsfilipe](https://github.com/datsfilipe/dotfiles) - nix flake ###
@@ -447,19 +526,19 @@
 * [dustinlyons](https://github.com/dustinlyons/nixos-config) Nix configuration for MacOS / NixOS + starter templates and step-by-step guides ✨ - great readme, cachix, emacs, p10k, zsh, vim, alacritty, ssh, tmux
 * [nobbZ](https://github.com/NobbZ/nixos-config) - interesting hosts, including phone and VM-secrets, zoxide, lots of languages, solid programs incl emacs, eza, inxync, rustic, awesome, rofi, cachix, etc
 * [ChrisTitusTech](https://github.com/ChrisTitusTech/nixos-titus) - good example of using hm as nixos module
-* [HeinzDev](https://github.com/HeinzDev/Hyprland-dotfiles (nix) ) - 
-* [IllustratedMan-code dotfiles](https://github.com/IllustratedMan-code/dotfiles) ***** - (nix), hyprland, gnuplot, doom emacs, dunst, eww, gtk, i3, kitty, 
+* [HeinzDev](https://github.com/HeinzDev/Hyprland-dotfiles (nix) ) -
+* [IllustratedMan-code dotfiles](https://github.com/IllustratedMan-code/dotfiles) ***** - (nix), hyprland, gnuplot, doom emacs, dunst, eww, gtk, i3, kitty,
 * [IllustratedMan-code nixconfig](https://github.com/IllustratedMan-code/nixconfig) *****  - nix (flake)
 * [sezryo](https://github.com/sezryo/presez)
 * [Reddt](https://www.reddit.com/r/unixporn/comments/11st101/swaywmnyxt_friendship_ended_with_backlights/)
 * [strager](https://github.com/strager/dotfiles)  - → nice green, firefox, fish, zsh, fzf, git, nix, ssh, systemd, tmux, vim, xmonad, gnome-terminal
-* [xade](https://codeberg.org/XADE/dotbin) ***** - alacritty, alsa, aria2, bspwm, conky, guix, helix, nvim, nixos, wayland, qtile, qutebrowser, 
-* [notusknot](https://github.com/notusknot/dotfiles-nix)- - 
-* [nuxshed](https://github.com/nuxshed/dotfiles)  - NixOS (flake), perfect green theme - awesome, emacs, herbstluftwm, tint2, zsh, good scripts - [screenshot](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fc0ilzexndo881.png) - 
+* [xade](https://codeberg.org/XADE/dotbin) ***** - alacritty, alsa, aria2, bspwm, conky, guix, helix, nvim, nixos, wayland, qtile, qutebrowser,
+* [notusknot](https://github.com/notusknot/dotfiles-nix)- -
+* [nuxshed](https://github.com/nuxshed/dotfiles)  - NixOS (flake), perfect green theme - awesome, emacs, herbstluftwm, tint2, zsh, good scripts - [screenshot](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fc0ilzexndo881.png) -
 
 ## Next-Best
 * [nequissimus](https://github.com/NeQuissimus/DevSetup) - conky, emacs, skhd, yabai, chromium, etc
-* [pnotequalnp nix dots with sops]( https://github.com/pnotequalnp/dotfiles/tree/473a4a76219f4fe6701524ad8973898fd31ab62c) - 
+* [pnotequalnp nix dots with sops]( https://github.com/pnotequalnp/dotfiles/tree/473a4a76219f4fe6701524ad8973898fd31ab62c) -
 * [redyf](https://github.com/redyf/nixdots) - nix config with Nvidia GPU, neovim, firefox, chrome, zsh, hyprland, foot,
 * [ruixi-rebirth](https://github.com/Ruixi-rebirth/flakes)[YouTube Rice - NixOS hyprland](https://www.youtube.com/watch?v=efm2XEVM4RQ)
 * [sebastiant](https://github.com/sebastiant/dotfiles) - emacs, polybar, sway, syncorate, tmux, waybar, zsh, alacritty, git, picom, vscode, wayland-overlay, xmonad
@@ -494,68 +573,68 @@
 
 ## Other
 * [arvigeus](https://github.com/arvigeus/nixos-config) bash chromium firefox helix mpv plasma-desktop starship steam vscode yt-dlp
-* [Baughn](https://github.com/Baughn/machine-config) - 
-* [Ericson2314](https://github.com/Ericson2314/nixos-configuration) - 
-* [FlafyDev](https://github.com/FlafyDev/nixos-config) - 
-* [Gako358](https://github.com/Gako358/dotfiles) - 
-* [JaKooLit](https://github.com/JaKooLit/NixOS-configs) - 
+* [Baughn](https://github.com/Baughn/machine-config) -
+* [Ericson2314](https://github.com/Ericson2314/nixos-configuration) -
+* [FlafyDev](https://github.com/FlafyDev/nixos-config) -
+* [Gako358](https://github.com/Gako358/dotfiles) -
+* [JaKooLit](https://github.com/JaKooLit/NixOS-configs) -
 * [LamprosPitsillos](https://github.com/LamprosPitsillos/nixos-config) -> [search](https://github.com/search?q=home-manager+qutebrowser+nix+language%3ANix&type=code&l=Nix) -> See also [nixpkgs maintainer list](https://github.com/NixOS/nixpkgs/blob/master/maintainers/maintainer-list.nix).
 * [akirak](https://github.com/akirak/emacs-config)
 * [archived](https://github.com/akirak/home.nix) ???
-* [akirak](https://github.com/akirak/nixos-config) - 
-* [arianvp](https://github.com/arianvp/nixos-stuff) - 
-* [auntieNeo](https://github.com/auntieNeo/nixrc) - 
-* [baitinq](https://github.com/baitinq/nixos-config ) - 
-* [bennofs](https://github.com/bennofs/etc-nixos) - 
-* [boj](https://github.com/boj/nixos-config) - 
-* [budevg](https://github.com/budevg/nix-conf) - 
-* [cleverca22](https://github.com/cleverca22/nixos-configs) - 
-* [coreyoconnor](https://github.com/coreyoconnor/nix_configs) - 
-* [cstrahan](https://github.com/cstrahan/nixos-config) - 
-* [danieldk](https://github.com/danieldk/nix-home) - 
-* [davidtwco](https://github.com/davidtwco/veritas) - 
-* [dejanr](https://github.com/dejanr/dotfiles) - 
+* [akirak](https://github.com/akirak/nixos-config) -
+* [arianvp](https://github.com/arianvp/nixos-stuff) -
+* [auntieNeo](https://github.com/auntieNeo/nixrc) -
+* [baitinq](https://github.com/baitinq/nixos-config ) -
+* [bennofs](https://github.com/bennofs/etc-nixos) -
+* [boj](https://github.com/boj/nixos-config) -
+* [budevg](https://github.com/budevg/nix-conf) -
+* [cleverca22](https://github.com/cleverca22/nixos-configs) -
+* [coreyoconnor](https://github.com/coreyoconnor/nix_configs) -
+* [cstrahan](https://github.com/cstrahan/nixos-config) -
+* [danieldk](https://github.com/danieldk/nix-home) -
+* [davidtwco](https://github.com/davidtwco/veritas) -
+* [dejanr](https://github.com/dejanr/dotfiles) -
 * [evanjs](https://github.com/evanjs/nixos_cfg) - nixos, emacs, vim, haskell, rust, xmonad, firefox, dunst, taffybar, xmobar, alacritty, kitty, dunst,
-* [foo-dogsquared](https://github.com/foo-dogsquared/nixos-config/blob/refs%2Fheads%2Fmaster/configs%2Fhome-manager%2Ffoo-dogsquared%2Fmodules%2Fdotfiles.nix ) - 
-* [fufexan](https://github.com/fufexan/dotfiles) - 
-* [garry-cairns](https://gitlab.com/garry-cairns/nixos-config) - 
-* [grahamc](https://github.com/grahamc/nixos-config) - 
-* [h7x4](https://github.com/h7x4/nix-dotfiles) - 
+* [foo-dogsquared](https://github.com/foo-dogsquared/nixos-config/blob/refs%2Fheads%2Fmaster/configs%2Fhome-manager%2Ffoo-dogsquared%2Fmodules%2Fdotfiles.nix ) -
+* [fufexan](https://github.com/fufexan/dotfiles) -
+* [garry-cairns](https://gitlab.com/garry-cairns/nixos-config) -
+* [grahamc](https://github.com/grahamc/nixos-config) -
+* [h7x4](https://github.com/h7x4/nix-dotfiles) -
 * [hlissner](https://github.com/hlissner/dotfiles) - old but wrth looking through - nix (flake), awesomewm, bspwm, rofi, autoclicker, gitinfo, good scripts (like nix wrapper), docker, emacs, gimp, git, ncmcpp, qutebrowser, stumpwm, sxkhd, tmux, zsh, fennel, trackma, git-keep
 * [infinidim-enterprises](https://github.com/infinidim-enterprises/hive)
-* [jwiegley](https://github.com/jwiegley/nix-config) - 
-* [kampfschlaefer](https://github.com/kampfschlaefer/nixconfig) - 
+* [jwiegley](https://github.com/jwiegley/nix-config) -
+* [kampfschlaefer](https://github.com/kampfschlaefer/nixconfig) -
 * [kukininj](https://github.com/kukininj/dotfiles) - nixos, flake, helix, neovim, sway, alacritty, git, waybar, wofi, jq, fzf, bat, libreoffice, keepassxc, yt-dlp, mpv, imv, nnn, zip, unzip, imagemagick, fonts, xdg, ffmpeg
-* [lambdael](https://github.com/lambdael/nixosconf) - 
-* [lauroro](https://github.com/lauroro/hyprland-dotfiles) - 
-* [leotaku](https://github.com/leotaku/nixos-config) - 
-* [lovesegfault](https://github.com/lovesegfault/nix-config) - 
-* [mahmoudk1000](https://github.com/mahmoudk1000/nix-config) - 
-* [martijnboers](https://github.com/martijnboers/nixos) - 
-* [mateiadrielrafael](https://github.com/Mateiadrielrafael/everything-nix) - 
-* [matt1432](https://git.nelim.org/matt1432/nixos-configs/src/branch/master/devices/binto/modules/gpu-replay.nix) - 
+* [lambdael](https://github.com/lambdael/nixosconf) -
+* [lauroro](https://github.com/lauroro/hyprland-dotfiles) -
+* [leotaku](https://github.com/leotaku/nixos-config) -
+* [lovesegfault](https://github.com/lovesegfault/nix-config) -
+* [mahmoudk1000](https://github.com/mahmoudk1000/nix-config) -
+* [martijnboers](https://github.com/martijnboers/nixos) -
+* [mateiadrielrafael](https://github.com/Mateiadrielrafael/everything-nix) -
+* [matt1432](https://git.nelim.org/matt1432/nixos-configs/src/branch/master/devices/binto/modules/gpu-replay.nix) -
 * [novoid](https://github.com/novoid/nixos-config)
-* [pSub](https://github.com/pSub/configs) - 
-* [peel](https://github.com/peel/dotfiles) - 
-* [periklis](https://github.com/periklis/nix-config) - 
-* [puffnfresh](https://github.com/puffnfresh/nix-files) - 
-* [rasendubi](https://github.com/rasendubi/dotfiles) - 
-* [ribosomerocker](https://git.sr.ht/~ribosomerocker/nixos-config) - 
-* [romatthe](https://github.com/romatthe/ronix) - 
-* [rummik](https://github.com/rummik/nixos-config) - 
+* [pSub](https://github.com/pSub/configs) -
+* [peel](https://github.com/peel/dotfiles) -
+* [periklis](https://github.com/periklis/nix-config) -
+* [puffnfresh](https://github.com/puffnfresh/nix-files) -
+* [rasendubi](https://github.com/rasendubi/dotfiles) -
+* [ribosomerocker](https://git.sr.ht/~ribosomerocker/nixos-config) -
+* [romatthe](https://github.com/romatthe/ronix) -
+* [rummik](https://github.com/rummik/nixos-config) -
 * [ry755](https://github.com/ry755/dotfiles) - alacritty, kakoune, nixos, tmux, picom, i3, polybar, rofi, autorandr, awesomewm
 * [sachnr](https://github.com/sachnr/dotfiles)
 * [awesomewm](https://github.com/sachnr/awesomewm-dotfiles)
-* [Reddit](https://www.reddit.com/r/unixporn/comments/11zir2x/awesomewm_some_benefits_of_having_a_declarative/) Nix flake, 
-* [samueldr](https://gitlab.com/samueldr/nixos-configuration) - 
+* [Reddit](https://www.reddit.com/r/unixporn/comments/11zir2x/awesomewm_some_benefits_of_having_a_declarative/) Nix flake,
+* [samueldr](https://gitlab.com/samueldr/nixos-configuration) -
 * [proxyVT/nixos-system](https://github.com/ProxyVT/nixos-system/tree/main) - nice list of applications, most configs simple
 * [sherubthakur](https://github.com/sherubthakur/dotfiles)  - nixos, kitty, zsh, oh-my-zsh, nushell, neovim, xmonad, taffybar, picom, betterlockscreen, rofi, deadd, eww, firefox, home manager
 * [smravec](https://github.com/smravec/nixos-config)- [Reddit - !!!Minimalistic [Sway] + waybar + Nixos (full silent boot)](https://www.reddit.com/r/unixporn/comments/124yjwy/minimalistic_sway_waybar_nixos_full_silent_boot/)
-* [talyz](https://github.com/talyz/nixos-config) - 
-* [tars0x9752](https://github.com/tars0x9752/home) - 
+* [talyz](https://github.com/talyz/nixos-config) -
+* [tars0x9752](https://github.com/tars0x9752/home) -
 * [tentypekmatus](https://gitlab.com/TenTypekMatus/nixos-infra) - nixos with nvidia (?)
-* [therealpxc](https://github.com/therealpxc/pxc.nix.d) - 
-* [tycho01](https://github.com/tycho01/nix-config) - 
+* [therealpxc](https://github.com/therealpxc/pxc.nix.d) -
+* [tycho01](https://github.com/tycho01/nix-config) -
 * [utdemir](https://github.com/utdemir/dotfiles)
 * [uwap](https://github.com/uwap/nixos-configs)
 * [vdemeester](https://gitlab.com/vdemeester/home)
@@ -568,10 +647,10 @@
 ## Old / Less Relevant
 * [nixlenovodot/home-common.nix](https://github.com/mudrii/nixlenovodot) - actually quite good list of apps, but not updated in the past 2 years
 * [jovian-experiments](https://github.com/Jovian-Experiments/Jovian-NixOS) - mostly for steam deck, but good structure
-* [a-schaefers](https://github.com/a-schaefers/nix-config.old) - 
+* [a-schaefers](https://github.com/a-schaefers/nix-config.old) -
 * [HugoReeves](https://github.com/HugoReeves/nix-home) - old
-* [ghuntley](https://github.com/ghuntley/dotfiles-nixos) old - 
-* [glines](https://github.com/glines/nixrc) old - 
+* [ghuntley](https://github.com/ghuntley/dotfiles-nixos) old -
+* [glines](https://github.com/glines/nixrc) old -
 
 ## Come Back Later
 * [ronardnx](https://github.com/ronardnx/nix_config) - follow for later

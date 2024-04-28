@@ -264,11 +264,11 @@ get kate ide?
 * https://www.youtube.com/@morrolinux (Linux IT)
 * https://atareao.es/ (Linux)
 * https://www.youtube.com/@SonTypimInternet (Linux)
-* https://www.youtube.com/@TonDoesLinux 
+* https://www.youtube.com/@TonDoesLinux
 * https://www.youtube.com/@LinuxGuides (DE)
-* https://www.blackdown.org/ 
-* https://crux.nu/Main/Handbook3-7 
-* https://www.yoctoproject.org/ 
+* https://www.blackdown.org/
+* https://crux.nu/Main/Handbook3-7
+* https://www.yoctoproject.org/
 Git
      * [Git Commands With Examples | Git Tutorial | Git Branching & Merging | DevOps Training | Edureka](https://www.youtube.com/watch?v=b5oQZdzA37I&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=18)
 * [GitHub action to automatically add blog posts to your profile](https://www.reddit.com/r/programming/comments/iga8ki/github_action_to_automatically_add_blog_posts_to/)
@@ -334,7 +334,7 @@ Kroah-Hartman (Linux LL)
 * https://fullstackfeed.com/choosing-vim/
 * https://awesomeopensource.com/projects/vim-plugin
 * https://medium.com/coffee-in-a-klein-bottle/vim-for-julia-18eba071c654
-* https://learnbyexample.github.io/vim_reference/Regular-Expressions.html 
+* https://learnbyexample.github.io/vim_reference/Regular-Expressions.html
 * [VimGenius](http://www.vimgenius.com/)
 * [YBlog - Learn Vim Progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 * [Episode archive](http://vimcasts.org/episodes/archive/)
@@ -512,4 +512,4 @@ What can't you do with shell scripting?
 
 
 
-## 
+##

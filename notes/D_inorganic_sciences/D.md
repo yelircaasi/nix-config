@@ -27,14 +27,14 @@
 * [A Swift Introduction to Spacetime Algebra](https://youtu.be/e7aIVSVc8cI)
 * [Mechanics explained in seven pages](https://minireference.com/static/tutorials/mech_in_7_pages.pdf)
 * [Finden wir die Weltformel? | 42 - Die Antwort auf fast alles | ARTE](https://youtu.be/kgIveNzZrKw)
-* https://en.wikipedia.org/wiki/Lists_of_important_publications_in_science* 
+* https://en.wikipedia.org/wiki/Lists_of_important_publications_in_science*
 * Relativitätstheorie
 * http://echo.mpiwg-berlin.mpg.de/ECHOdocuView?url=/permanent/echo/einstein/sitzungsberichte/199SW1KB/index.meta&pn=1
 * http://www.sueddeutsche.de/wissen/jahre-relativitaetstheorie-dellen-in-der-raumzeit-1.2664283
 * http://www.quantenwelt.de/klassisch/relativ/art.html
 * https://de.wikipedia.org/wiki/Allgemeine_Relativit%C3%A4tstheorie
 * http://www.einstein-online.info/einsteiger/allgRT
-* http://www.spektrum.de/lexikon/physik/allgemeine-relativitaetstheorie/383* 
+* http://www.spektrum.de/lexikon/physik/allgemeine-relativitaetstheorie/383*
 * Books
 * [Teorías de la personalidad](http://libgen.rs/search.php?&req=gregory+feist&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 * Zukunft und Wissenschaft: Wege und Irrwege der Forschung
@@ -226,7 +226,7 @@
 * [Wie das Staunen ins Universum kam](https://vk.com/doc32120922_437317042?hash=79b9543ce72cc2ed25&dl=530173cbc349a5ff29)
 * [Альберт Эйнштейн. Мир, каким я его вижу.docx](https://vk.com/doc270365827_384056654?hash=fc18de2244e6ab8614&dl=236ffd45980a39c7c9)
 * [Джордж Джонсон. Десять самых красивых экспериментов в истории науки.pdf](https://vk.com/doc-74992645_437420198?hash=f2f4c6f42652e9b4c6&dl=310b267d800b6c19bc)
-* [Квантовая механика | Квантовая физика | Physics.Math.Code.Books](https://vk.com/topic-51126445_38398324)* 
+* [Квантовая механика | Квантовая физика | Physics.Math.Code.Books](https://vk.com/topic-51126445_38398324)*
 * Reading (2)
 * [Teoría del Caos hacia el conocimiento de la realidad-REPORTAJES-DIVULGACIÓN CIENTIFICA](http://www.iac.es/gabinete/difus/ciencia/silbia/caos.htm)
 * The Astonishing Simplicity of Everything - Neil Turokde Space And Intelligence
@@ -497,7 +497,7 @@
 * [Физика без формул](http://lektorium.tv/fizika-bez-formul)
 * [Химия вокруг нас](http://lektorium.tv/chemistry)
 * [Введение в статистическую теорию поля](https://www.youtube.com/watch?v=brfyf4RLwr0&list=PL-_cKNuVAYAVixq6J3GadyVWo5RyaIyR6)
-* [FísicayMates - YouTube](https://www.youtube.com/channel/UCfgu_JqiVTJwEMDPrZmhHgA)* 
+* [FísicayMates - YouTube](https://www.youtube.com/channel/UCfgu_JqiVTJwEMDPrZmhHgA)*
 * Reading (3)
 * [Thinking Physics: Practical Lessons in Critical Thinking | Lewis Carroll Epstein | download](https://b-ok.cc/book/2221360/f48e56)
 * [Комбинаторика многогранников](https://www.youtube.com/watch?v=R0p0V5RKsp4&list=PL-_cKNuVAYAW2nwKFmoSkadyUifPSbNBA)
@@ -557,7 +557,7 @@
 * [Velichayshie_teorii_6.pdf](https://vk.com/doc450445918_482606516?hash=e217a3e25807c9c5a4&dl=33d8a8b91e3578acd5)
 * [Velichayshie_teorii_7.pdf](https://vk.com/doc450445918_482606793?hash=a0df23ce3207b0becc&dl=b40ff7e7e97d5aa821)
 * [Velichayshie_teorii_8.pdf](https://vk.com/doc450445918_482606971?hash=db112c0f4bdf16e5b1&dl=06f2c1c9dc7c9a1b82)
-* [List of political scientists - Wikipedia](https://en.wikipedia.org/wiki/List_of_political_scientists)* 
+* [List of political scientists - Wikipedia](https://en.wikipedia.org/wiki/List_of_political_scientists)*
 * [**The Most Meaningful Books I Read in 2016](http://blog.ncase.me/the-most-meaningful-books-i-read-in-2016/)
 * [Педагогика: Учебник. 2004 - Основы педагогики](https://knigi.link/pedagogiki-osnovyi/pedagogika-uchebnik.html)
 * [Пошук аудіозаписів за запитом ГЕДЕЛЬ, ЭШЕР, БАХ](https://vk.com/search?c%5Bper_page%5D=200&c%5Bq%5D=%D0%93%D0%95%D0%94%D0%95%D0%9B%D0%AC%2C%20%D0%AD%D0%A8%D0%95%D0%A0%2C%20%D0%91%D0%90%D0%A5&c%5Bsection%5D=audio)
@@ -681,7 +681,7 @@
 * [Sélection spéciale anniversaire : 40 ans articles pour 40 ans - Pour la Science](http://www.pourlascience.fr/ewb_pages/s/selection-40-ans-pour-la-science.php)
 * [Steven Pinker](https://stevenpinker.com/)
 * [Steven Pinker — Wikipédia](https://fr.wikipedia.org/wiki/Steven_Pinker)
-* [Summary and reviews of Why Evolution Is True by Jerry A. Coyne](https://www.bookbrowse.com/bb_briefs/detail/index.cfm/ezine_preview_number/3486/why-evolution-is-true)* 
+* [Summary and reviews of Why Evolution Is True by Jerry A. Coyne](https://www.bookbrowse.com/bb_briefs/detail/index.cfm/ezine_preview_number/3486/why-evolution-is-true)*
 * Reading (4)
 * [Standard Model (graphic)](https://i.redd.it/mz2zenqyu0g41.jpg)
 * [Cien preguntas básicas sobre la ciencia](https://en.de1lib.org/book/1058942/43d49c)
@@ -696,7 +696,7 @@
 * The Power of Scientific Knowledge. From Research to Public Policy
 * Science as Power. Discourse and Ideology in Modern Society
 * Science and Democracy. Making Knowledge and Making Power in the Biosciences and Beyond
-* [Что такое наука, и как она работает](http://libgen.rs/book/index.php?md5=0AAC5A860E92A767A406A318A5021BB5)* 
+* [Что такое наука, и как она работает](http://libgen.rs/book/index.php?md5=0AAC5A860E92A767A406A318A5021BB5)*
 * [Джон* Брокман - "Во что мы верим, но не можем доказать"](https://vk.com/wall-208151021_1101)
 * [Джон* Брокман - Теории всего на свете (сборник ответов ученых)](https://vk.com/wall-164514381_382)
 * «Будущее науки в ХХI веке: следующие пятьдесят лет»
@@ -768,7 +768,7 @@
 * [Сивухин Д.В. Общий курс физики. Том 2. Термодинамика и молекулярная физика. 2005.djvu](https://vk.com/doc44301783_471968373?hash=156e401133eaf52163&dl=564df9cf93b53e2f35)
 * [Сивухин Д.В. Общий курс физики. Том 3. Электричество. 2004.djvu](https://vk.com/doc44301783_471968376?hash=410e24d0045b07482e&dl=cb016ee7fe6e213984)
 * [Сивухин Д.В. Общий курс физики. Том 4. Оптика. 2005.djvu](https://vk.com/doc44301783_471968378?hash=35c8bd87c0b84185cc&dl=c884b0991c9c99bc22)
-* [Сивухин Д.В. Общий курс физики. Том 5. Атомна и ядерная физика. 2002.djvu](https://vk.com/doc44301783_471968382?hash=808cfb0412836ac5a2&dl=5728b98af3c03219c6)* 
+* [Сивухин Д.В. Общий курс физики. Том 5. Атомна и ядерная физика. 2002.djvu](https://vk.com/doc44301783_471968382?hash=808cfb0412836ac5a2&dl=5728b98af3c03219c6)*
 * Reading (5)
 * [Взламывая квантовую физику](https://vk.com/doc44301783_619922240?hash=aafe2d6646c2cde151&dl=aa75b8fa784a4fca37)
 * https://cmtscience.ru/
@@ -834,7 +834,7 @@
 * http://www.christianpost.com/news/ex-muslim-proposal-that-islam-is-tolerant-is-fallacious-dangerous-47349/
 * http://www.thedailybeast.com/articles/2015/11/13/this-is-how-ak-47s-get-to-paris.html
 * https://en.wikipedia.org/wiki/Genital_modification_and_mutilation
-* https://en.wikipedia.org/wiki/The_Negro_Family:_The_Case_For_National_Action* 
+* https://en.wikipedia.org/wiki/The_Negro_Family:_The_Case_For_National_Action*
 * Reading (6)
 * http://wbgu.de/
 * сводочный проект для ак. письма, ак. статей: какие имеются выводы?
@@ -905,5 +905,5 @@
 * http://www.revistaplaneta.com.br/
 * http://www.cmcc.it/it/
 * http://www.unep.org/arabic/
-* http://beeah.ae/?lang=ar* 
+* http://beeah.ae/?lang=ar*
 

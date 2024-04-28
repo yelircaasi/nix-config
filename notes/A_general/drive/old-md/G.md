@@ -607,7 +607,7 @@ Economistas en mis universidades potenciales.gsheet
 * Recursive Methods in Economics Dynamics - Solutions Manual.pdf
 * Solutions Manual for Recursive Methods in Economic Dynamics.pdf
 * Курс лекций по макроэкономике.pdf
-* Romer → 
+* Romer →
 * Apuntes de crecimiento económico.pdf
 * Apuntes de MacroeconomÌa Avanzada (Chacón).pdf
 * Exercises in  Recursive Macroeconomic Theory - Solutions.pdf

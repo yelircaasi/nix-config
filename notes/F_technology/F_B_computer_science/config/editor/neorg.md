@@ -150,13 +150,13 @@ taskwarrior.nvim https://github.com/ribelo/taskwarrior.nvim
 twig.nvim https://github.com/hugginsio/twig.nvim
 
 Notes (neorg-notes.github.io)
-Docs: make from wiki using mdbook → create norgbook by adding norg support to mdbook, generate automatically from https://github.com/nvim-neorg/neorg.wiki.git 
+Docs: make from wiki using mdbook → create norgbook by adding norg support to mdbook, generate automatically from https://github.com/nvim-neorg/neorg.wiki.git
 
   → or simply draw upon wiki and tutorials, but create from scratch
-* https://neorg-docs.github.io or (to hint at unofficial status) https://neorg-notes.github.io 
+* https://neorg-docs.github.io or (to hint at unofficial status) https://neorg-notes.github.io
 
     → “Disclaimer: These are my own notes, written for my own reference as I attempt to get up to speed on Neorg. I have made them public because I believe they have the potential to useful to others - as an annotated collection of relevant links, if nothing else.  However these are unofficial notes, and while I have attempted to make them accurate, there are no guarantees. As always, the sole source of truth is the source code.
-* https://docs.github.com/en/pages 
+* https://docs.github.com/en/pages
 * https://github.com/rust-lang/mdBook/tree/master/guide
 * [https://github.com/rust-lang/mdBook/wiki/Automated-Deployment%3A-GitHub-Pages-(Deploy-from-branch)](https://github.com/rust-lang/mdBook/wiki/Automated-Deployment%3A-GitHub-Pages-%28Deploy-from-branch%29)
 * https://news.ycombinator.com/item?id=27802153

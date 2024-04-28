@@ -388,7 +388,7 @@ BoM →
 
 Dan Brown →
 
-Encheiridion → 
+Encheiridion →
 
 GEB →
 

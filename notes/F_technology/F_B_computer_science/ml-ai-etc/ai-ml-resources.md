@@ -14,7 +14,7 @@
 * https://github.com/Julien-cpsn/ATAC
 
 ### CV
-* https://learnopencv.com/video-to-slides-converter-using-background-subtraction/ 
+* https://learnopencv.com/video-to-slides-converter-using-background-subtraction/
 * [Documentation — Caer "2.0.8" documentation](https://caer.readthedocs.io/en/latest/)
 * [Visually Explained: Kalman Filters](https://youtu.be/IFeCIbljreY)
 * [Convolutions are not Convoluted](https://youtu.be/aEGboJxmq-w)
@@ -54,9 +54,9 @@
 ## Orgs
 * https://www.tangramvision.com/blog
 * [Context by Cohere](https://txt.cohere.ai/)
-* [We Are Conjecture, A New Alignment Research Startup — LessWrong](https://www.lesswrong.com/posts/jfq2BH5kfQqu2vYv3/we-are-conjecture-a-new-alignment-research-startup) 
+* [We Are Conjecture, A New Alignment Research Startup — LessWrong](https://www.lesswrong.com/posts/jfq2BH5kfQqu2vYv3/we-are-conjecture-a-new-alignment-research-startup)
 * [titanml/takeoff](https://github.com/titanml/takeoff)    * https://openai.com/blog/
-* https://www.determined.ai/   https://docs.determined.ai/latest/index.html 
+* https://www.determined.ai/   https://docs.determined.ai/latest/index.html
 
 ## General Notes
 * [Stanford NLP](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
@@ -93,9 +93,9 @@
 
 ## Courses / Tutorials
 * https://sbme-tutorials.github.io/    * [Lecture: Self-Driving Cars (Winter 2021/22, Uni Bonn)](https://www.youtube.com/watch?v=EBFlmHqgezM&list=PLgnQpQtFTOGQo2Z_ogbonywTg8jxCI9pD)
-* [NN Vids RU (10 min)](https://t.me/bfbook/2666?single) 
+* [NN Vids RU (10 min)](https://t.me/bfbook/2666?single)
 * https://github.com/srush/Tensor-Puzzles
-* https://www.freecodecamp.org/news/harvard-cs50s-ai-python-course 
+* https://www.freecodecamp.org/news/harvard-cs50s-ai-python-course
 * [Calculus - Math for Machine Learning — Відео](https://vk.com/video-138477641_456249799)
 * [Mathematics of Deep Learning Overview | AISC.. — Відео](https://vk.com/video-138477641_456242466)
 * [Learn [AI] Deep Learning from Scratch](https://www.youtube.com/watch?v=szqzG-jtiBk&list=PLiWcnsSmNaTfH3bYlTTKwR7LcHFWplKN5)
@@ -247,7 +247,7 @@
 * [Learning path: Data analysis using Python – Build Smart. Build Secure. IBM Developer](https://developer.ibm.com/series/learning-path-data-analysis-using-python/)
 * [Learning path: Get started with machine learning – Build Smart. Build Secure. IBM Developer](https://developer.ibm.com/series/learning-path-machine-learning-for-developers/)
 * [Learning path: Get started with Watson Machine Learning Accelerator – Build Smart. Build Secure. IBM Developer](https://developer.ibm.com/series/learning-path-get-started-with-watson-machine-learning-accelerator/)
-* https://www.toptal.com/machine-learning/introduccion-a-la-teoria-de-aprendizaje-de-maquina-y-sus-aplicaciones-un-tutorial-visual-con-ejemplos 
+* https://www.toptal.com/machine-learning/introduccion-a-la-teoria-de-aprendizaje-de-maquina-y-sus-aplicaciones-un-tutorial-visual-con-ejemplos
     *DATA 1010 - Probability, Statistics, and Machine Learning
     *Scipy Lecture Notes — Scipy lecture notes
 * https://nthu-datalab.github.io/ml/
@@ -345,7 +345,7 @@
 * [25 Of The Best Data Science Courses Online25 Of The Best Data Science Courses Online - Coriers](https://www.coriers.com/25-of-the-best-data-science-courses-online/)
 * [Creative Applications of Deep Learning with TensorFlow, an Online Course at Kadenze](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info?utm_campaign=course_catalog&utm_content=course%3D101&utm_medium=referral&utm_source=classcentral)
 * https://ai.stanford.edu/~syyeung/cvweb/tutorial1.html
-* https://ai.stanford.edu/~syyeung/cvweb/tutorials.html 
+* https://ai.stanford.edu/~syyeung/cvweb/tutorials.html
 * [Aprendizaje de Máquina](http://dis.unal.edu.co/~fgonza/courses/2007-I/ml/)
 * [Apprentissage Automatique Cours 1: Apprentissage de Concepts](http://www.cril.univ-artois.fr/~koriche/Apprentissage2013-Partie1.pdf)
 * [Apprentissage artificiel***](http://197.14.51.10:81/pmb/INFORMATIQUE/rentissage_artificiel_-__Nouvellebiblio.com_.pdf)
@@ -355,10 +355,10 @@
 
 ## Media / People
 * https://atcold.github.io/ ***
-* https://blog.floydhub.com/ 
+* https://blog.floydhub.com/
 * https://research.google/people/
-* https://nlpnewsletter.substack.com/ 
-* https://towardsai.net/ 
+* https://nlpnewsletter.substack.com/
+* https://towardsai.net/
 * https://gradientflow.substack.com/
 * https://adeshpande3.github.io/
 * [tanmay bakshi - YouTube](https://www.youtube.com/channel/UCqufIGIYauviVaKyJUzKvQw)
@@ -366,10 +366,10 @@
 * [DLVU](https://www.youtube.com/channel/UCYh1zKnwzrSjrO2Ae-akfTg/playlists)    * [Michal Malyska](https://michalmalyska.github.io/index.html)
 * https://song921012.github.io/#indexCard
 * [10 best MLOps Podcasts](https://podcasts.feedspot.com/mlops_podcasts/?feedid=5630756)
-* https://en.wikipedia.org/wiki/Joscha_Bach 
-* https://emtiyaz.github.io/ 
-* https://www.thorsten-voice.de/ 
-* https://www.youtube.com/@AndrejKarpathy 
+* https://en.wikipedia.org/wiki/Joscha_Bach
+* https://emtiyaz.github.io/
+* https://www.thorsten-voice.de/
+* https://www.youtube.com/@AndrejKarpathy
 * [NLP4SG](https://nlp4sg.vercel.app/)
 * [100 Best Machine Learning Blogs To Read in 2023 (ML Blogs)](https://blog.feedspot.com/machine_learning_blogs/)
 * [30 Must-Subscribe Data and AI Newsletters in 2023 | by Benedict Neo | Towards Data Science](https://towardsdatascience.com/20-must-subscribe-data-and-ai-newsletters-in-2021-7c5ddb9b3c19)
@@ -377,7 +377,7 @@
 * [Home of AI and Artificial Intelligence News | AI Magazine](https://aimagazine.com/)
 * [Top 10 Artificial Intelligence News Websites | AI Magazine](https://aimagazine.com/technology/top-10-artificial-intelligence-news-websites)
 * [best sites for machine learning news at DuckDuckGo](https://duckduckgo.com/?q=best+sites+for+machine+learning+news&ia=web)
-* https://www.youtube.com/@unifyai 
+* https://www.youtube.com/@unifyai
 * [Machine Learning - KDnuggets](https://www.kdnuggets.com/tag/machine-learning)
 * [Machine Learning | heise online](https://www.heise.de/thema/Machine-Learning)
 * [Machine Learning News - SciTechDaily](https://scitechdaily.com/tag/machine-learning/)
@@ -391,7 +391,7 @@
 * https://logic.pdmi.ras.ru/~sergey/
 * https://sebastianraschka.com/teaching/
 * [Deep Learning Garden – Liping's machine learning, computer vision, and deep learning home: resources about basics, applications, and many more…](http://deeplearning.lipingyang.org/)
-* https://www.cse.wustl.edu/~yixin.chen/ 
+* https://www.cse.wustl.edu/~yixin.chen/
 * https://kushalj001.github.io/black-box-ml/
 * https://ouaguenouni-hachemi.medium.com/
 * https://www.youtube.com/c/codebasics/playlists
@@ -421,14 +421,14 @@
 * [AC Interview - Christof Koch](https://open.spotify.com/episode/0Pwwlnp6m0oNIZHspK2U1t?si=6lX9AlHTQMe-PPoXN7IcVw)    * [George Hotz vs Eliezer Yudkowsky AI Safety Debate](https://www.youtube.com/live/6yQEA18C-XI?feature=share)
 
 ## Organizations, Institutions, Businesses
-* https://lets-unify.ai/docs/ivy/overview/contributing.html 
+* https://lets-unify.ai/docs/ivy/overview/contributing.html
 
 → [Ivy](https://discord.com/channels/799879767196958751/983684937712558080/990382801721368576)
 * https://explosion.ai/
 * https://rasa.com/
-* https://deci.ai/ 
+* https://deci.ai/
 * https://www.posh.ai/blog
-* https://curiosity.ai/ 
+* https://curiosity.ai/
 * [Ivy](https://lets-unify.ai/) ([Discord](https://discord.com/channels/799879767196958751/933380895358988288)) ([email](https://mail.google.com/mail/u/0/#section_query/in%3Ainbox/FMfcgzGsltQMvqVBrVtPHzJdxlxFtsWV))
 
 
@@ -503,7 +503,7 @@
 ## Media / Blogs / People
 * https://thegradientpub.substack.com/
 * https://www.marktechpost.com/
-* https://github.com/readme 
+* https://github.com/readme
 * https://devopedia.org/
 * https://neurohive.io/ru/
 
@@ -556,7 +556,7 @@
 
 ## Podcasts
 * https://thegradientpub.substack.com/s/podcast
-* https://gradientflow.substack.com/archive 
+* https://gradientflow.substack.com/archive
 * https://www.reddit.com/r/datascience/wiki/resources
 * [Código Máquina: Inteligencia Artificial](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81OThhNjkxYy9wb2RjYXN0L3Jzcw==)
 * [The Gradient Podcast](https://www.owltail.com/podcast/XHylg-The-Gradient-Podcast/episodes)
@@ -656,8 +656,8 @@
 
 
 ## YouTube
-* [PapersWeLove](https://www.youtube.com/@PapersWeLove) 
-* https://www.youtube.com/@MachineLearningStreetTalk 
+* [PapersWeLove](https://www.youtube.com/@PapersWeLove)
+* https://www.youtube.com/@MachineLearningStreetTalk
 * [Sam Witteveen](https://www.youtube.com/@samwitteveenai/playlists)
 * [Maziar Raissi](https://www.youtube.com/@maziarraissi3569/videos)
 * [SpringBoard](https://www.youtube.com/channel/UCqd6TofKNjqagInm5Waeu7w)

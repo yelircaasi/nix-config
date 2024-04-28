@@ -33,7 +33,7 @@
 
 
 ## Templates
-* http://www.wzchen.com/probability-cheatsheet 
+* http://www.wzchen.com/probability-cheatsheet
 * [Cheatsheet Code](https://github.com/tao-bian-nyu/Reinforcement-Learning-Cheat-Sheet)
 * [ARPA-FVG beamer presentation template - Overleaf, Online LaTeX Editor](https://www.overleaf.com/latex/templates/arpa-fvg-beamer-presentation-template/gvcjvvcxkhfx)
 
@@ -102,7 +102,7 @@
 ## Books, Articles
 * [LaTeX - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/LaTeX)
 * [The TeXbook](http://library.lol/main/24698EE5BEF9ECE2DD07ECF7972C2AFE)
-* https://www.eijkhout.net/tex/tex-by-topic.html 
+* https://www.eijkhout.net/tex/tex-by-topic.html
 * https://eijkhout.net//tex/tex-activities.html
 * https://tug.org/TUGboat/Articles/tb25-1/beebe-2003keynote.pdf - 25 Years of…
 * [TeX: The Program](http://library.lol/main/3C5E5BA6627031AA1DB00A44F1BF5FC1), [TeX the program](http://library.lol/main/A2066B8DCABCFD80752305AC7F744E37)
@@ -154,7 +154,7 @@
 
 ## READ!
 ### SORT 1S Reading / Watching,
-* https://en.wikipedia.org/wiki/TeX 
+* https://en.wikipedia.org/wiki/TeX
 * [LaTeX Workshop for Linguists](https://www.adamliter.org/content/LaTeX/latex-workshop-for-linguists.pdf)
 * [plotting functions in latex - Поиск в Google](https://www.google.com/search?q=plotting+functions+in+latex&rlz=1C1GCEA_enUS836&oq=plotting+functions+in+latex&aqs=chrome..69i57j0l2.4102j0j7&sourceid=chrome&ie=UTF-8)
 * https://en.wikibooks.org/wiki/LaTeX/Fonts#Font_families
@@ -191,19 +191,19 @@
 * [soft question - Old books you would like to have rewritten with high-quality typesetting - MathOverflow](https://mathoverflow.net/questions/318839/old-books-you-would-like-to-have-rewritten-with-high-quality-typesetting)
 * https://stackoverflow.com/questions/8085520/generating-pdf-latex-with-python-script
 * https://tex.stackexchange.com/questions/137283/make-bilingual-or-trilingual-latex-document
-* https://tex.stackexchange.com/questions/215283/controling-spacing-between-wrapped-gloss-lines-in-expex 
-* http://mirrors.ibiblio.org/CTAN/macros/generic/expex/expex-doc.pdf 
-* https://tex.stackexchange.com/questions/363847/interlinear-text-with-partial-translation 
-* https://tex.stackexchange.com/questions/367736/margin-notes-in-an-interlinear-environment-aligned-with-source-text 
+* https://tex.stackexchange.com/questions/215283/controling-spacing-between-wrapped-gloss-lines-in-expex
+* http://mirrors.ibiblio.org/CTAN/macros/generic/expex/expex-doc.pdf
+* https://tex.stackexchange.com/questions/363847/interlinear-text-with-partial-translation
+* https://tex.stackexchange.com/questions/367736/margin-notes-in-an-interlinear-environment-aligned-with-source-text
 * https://www.overleaf.com/project/652b984b20d9b94c83e3df56 Encheiridion
-* https://www.developpez.net/forums/d1031051/autres-langages/autres-langages/latex/mise-forme/zones-texte-juxtalineaires/ 
-* https://tex.stackexchange.com/questions/45520/doing-an-interlinear-text 
-* https://tex.stackexchange.com/questions/400372/gloss-on-opposite-page-as-translation 
-* https://linguistics.stackexchange.com/questions/3/how-do-i-format-an-interlinear-gloss-for-html 
-* https://stackoverflow.com/questions/2907327/dual-line-bilingual-paragraph-in-latex 
-* https://github.com/guidovw/Glossalatex/blob/master/glossa-template.pdf 
-* https://www.reddit.com/r/LaTeX/comments/y29mg6/i_know_nothing_about_latex_i_have_a_very_specific/ 
-* https://tex.stackexchange.com/questions/45520/doing-an-interlinear-text 
+* https://www.developpez.net/forums/d1031051/autres-langages/autres-langages/latex/mise-forme/zones-texte-juxtalineaires/
+* https://tex.stackexchange.com/questions/45520/doing-an-interlinear-text
+* https://tex.stackexchange.com/questions/400372/gloss-on-opposite-page-as-translation
+* https://linguistics.stackexchange.com/questions/3/how-do-i-format-an-interlinear-gloss-for-html
+* https://stackoverflow.com/questions/2907327/dual-line-bilingual-paragraph-in-latex
+* https://github.com/guidovw/Glossalatex/blob/master/glossa-template.pdf
+* https://www.reddit.com/r/LaTeX/comments/y29mg6/i_know_nothing_about_latex_i_have_a_very_specific/
+* https://tex.stackexchange.com/questions/45520/doing-an-interlinear-text
 
 ### Plotting
 * [Plotting in three dimensions | Recipe](http://latex-cookbook.net/cookbook/examples/3d-plot/)
@@ -221,5 +221,5 @@
 
 ### Misc
 * [LaTeX IPA](https://www.tug.org/tugboat/tb17-2/tb51rei.pdf)
-* https://juliadatascience.io/using-latexstrings.jl 
+* https://juliadatascience.io/using-latexstrings.jl
 

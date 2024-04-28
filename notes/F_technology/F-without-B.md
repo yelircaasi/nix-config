@@ -64,12 +64,12 @@
 ### Media
 * [bug.hr](https://www.bug.hr/)
 * [Xataka - Tecnología y gadgets, móviles, informática, electrónica](https://www.xataka.com/?utm_source=xataka&utm_medium=network&utm_campaign=favicons)
-* https://www.wired.it/ 
+* https://www.wired.it/
 * http://www.wired.com/
 * [Technology | Academics | Policy - /](http://www.techpolicy.com/)
 * http://www.cnet.com/es/
 * http://www.madehow.com/
-* https://www.gq-magazin.de/auto-technik/ 
+* https://www.gq-magazin.de/auto-technik/
 * https://slashdot.org/
 * http://www.makeuseof.com/
 * http://gizmodo.uol.com.br/
@@ -89,7 +89,7 @@
 * http://www.ansa.it/sito/notizie/tecnologia/tecnologia.shtml
 * http://ar.itp.net/
 * http://arabcrunch.com/ar/
-* https://www.computerra.ru/ 
+* https://www.computerra.ru/
 
 
 ###  Saved Articles
@@ -134,7 +134,7 @@
 
 
 ## D. Ingeniería
-    
+
 
 
 ## E. Medecina

@@ -39,6 +39,7 @@
 * (2) [dolphin](https://apps.kde.org/dolphin/)
 * (2) [pcmanfm](https://github.com/lxde/pcmanfm)
 * (2) [pcmanfm-qt]()
+* ( ) [elementary](https://github.com/elementary/files/)
 
 ## Other
 * (2) [filebrowser](https://github.com/filebrowser/filebrowser) (web-based)

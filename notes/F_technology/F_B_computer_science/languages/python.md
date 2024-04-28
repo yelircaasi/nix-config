@@ -3,9 +3,9 @@
 
 ## Sort
 * https://www.reddit.com/r/Python/s/epbxOrm3iC
-* https://lobste.rs/s/s1v57r/what_are_some_good_python_codebases_read 
+* https://lobste.rs/s/s1v57r/what_are_some_good_python_codebases_read
 * https://github.com/leapingio/leaping - pytest helper
-* https://teams.microsoft.com/_#/conversations/19:meeting_YjE2MmMyZjctZTEzYS00ZDE0LTg0N2UtMWI0NjE4Y2MwNTEw@thread.v2?ctx=chat 
+* https://teams.microsoft.com/_#/conversations/19:meeting_YjE2MmMyZjctZTEzYS00ZDE0LTg0N2UtMWI0NjE4Y2MwNTEw@thread.v2?ctx=chat
 * https://pygments.org/
 * https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_latex.html
 * 25 Nooby Python Habits
@@ -46,15 +46,15 @@
 
 
 ## Media / Fora
-* https://pythops.com/index.html 
+* https://pythops.com/index.html
 
 Real Python Podcast
 * https://talkpython.fm/
 
 
 ## Tools
-* https://isthisit.nz/posts/2023/building-a-chat-gpt-enhanced-python-repl/ 
-* https://snyk.io/advisor/python 
+* https://isthisit.nz/posts/2023/building-a-chat-gpt-enhanced-python-repl/
+* https://snyk.io/advisor/python
 * http://pep8online.com/
 * [deal](https://github.com/life4/deal)
 * [pyrformance](https://github.com/orsinium-labs/pyrformance)
@@ -278,10 +278,10 @@ Two Scoops of Django 3.x: Best Practices for the Django Web Framework
 
 ## Package List
 * https://github.com/mesejo/trex
-* https://cleo.readthedocs.io/en/latest/ 
+* https://cleo.readthedocs.io/en/latest/
 * https://pexpect.readthedocs.io/en/stable/index.html
-* https://volian.org/pyshell/ 
-* https://explosion.ai/software 
+* https://volian.org/pyshell/
+* https://explosion.ai/software
 * [_cffi_backend.cpython-310-x86_64-linux-gnu.so](http://_cffi_backend.cpython-310-x86_64-linux-gnu.so/)
 * [_dlib_pybind11.cpython-310-x86_64-linux-gnu.so](http://_dlib_pybind11.cpython-310-x86_64-linux-gnu.so/)
 * [_ruamel_yaml.cpython-310-x86_64-linux-gnu.so](http://_ruamel_yaml.cpython-310-x86_64-linux-gnu.so/)
@@ -847,7 +847,7 @@ Two Scoops of Django 3.x: Best Practices for the Django Web Framework
 
 ## Projects
 
-look through: https://learnbyexample.github.io/practice_python_projects/ 
+look through: https://learnbyexample.github.io/practice_python_projects/
 * [Build a Command-Line To-Do App With Python and Typer – Real Python](https://realpython.com/python-typer-cli/)
 * [How to Build Your Very First Python Package](https://www.freecodecamp.org/news/build-your-first-python-package/)
 * [brean/python-pathfinding: Implementation of common pathfinding algorithms](https://github.com/brean/python-pathfinding)
@@ -1026,34 +1026,34 @@ Python Scripting for Computational Science
 
 machine learning, web development, data science, etc
 * https://www.modular.com/blog/mojo-its-finally-here
-* https://realpython.com/podcasts/rpp/175/ 
-* https://realpython.com/python312-new-features/ 
+* https://realpython.com/podcasts/rpp/175/
+* https://realpython.com/python312-new-features/
 * [Mojo 🔥: Programming language for all of AI](https://www.modular.com/mojo)
 * [Modular Docs - Mojo🔥](https://docs.modular.com/mojo/)
 * [Modular Docs - Mojo🔥 FAQ](https://docs.modular.com/mojo/faq.html#distribution)
 * [Modular Docs - Mojo🔥 programming manual](https://docs.modular.com/mojo/programming-manual.html)
 * [HelloMojo.ipynb - JupyterLab](https://playground.modular.com/user/isaac.r.riley@gmail.com/lab/tree/HelloMojo.ipynb)
-* https://blog.logrocket.com/getting-started-mojo-programming-language/ 
+* https://blog.logrocket.com/getting-started-mojo-programming-language/
 * [4. Map, Filter and Reduce — Python Tips 0.1 documentation](http://book.pythontips.com/en/latest/map_filter.html)
 * [Testing whether a Python string contains an integer | tdhopper.com](https://tdhopper.com/blog/testing-whether-a-python-string-contains-an-integer/)
 * https://docs.python.org/3/tutorial/classes.html
-* https://google.github.io/pytype/ 
-* https://pyre-check.org/ 
+* https://google.github.io/pytype/
+* https://pyre-check.org/
 
 
 ## Misc Topics
 
 
 ## regex
-* https://learnbyexample.github.io/py_regular_expressions/ 
+* https://learnbyexample.github.io/py_regular_expressions/
 * [Groupings and backreferences - Python re(gex)?](https://learnbyexample.github.io/py_regular_expressions/groupings-and-backreferences.html)
 * [learnbyexample/py_regular_expressions: Learn Python Regular Expressions step by step from beginner to advanced levels](https://github.com/learnbyexample/py_regular_expressions)
 * [Preface - Understanding Python re(gex)?](https://learnbyexample.github.io/py_regular_expressions/preface.html)
 
 
 ## Packaging
-    
-* https://dagster.io/blog/python-packages-primer-1 
+
+* https://dagster.io/blog/python-packages-primer-1
 * [pyinstaller/pyinstaller: Freeze (package) Python programs into stand-alone executables](https://github.com/pyinstaller/pyinstaller)
 * [Packaging a python library | ionel's codelog](https://blog.ionelmc.ro/2014/05/25/python-packaging/)
 * https://github.com/pypa/build
@@ -1120,7 +1120,7 @@ machine learning, web development, data science, etc
 * https://github.com/exaloop/codon
 * https://github.com/aminalaee/uuid-utils
 * [attrs 22.2.0 documentation](https://www.attrs.org/en/stable/)
-* http://pyde.org/ 
+* http://pyde.org/
 * https://minireference.com/static/tutorials/sympy_tutorial.pdf
 * [sys — System-specific parameters and functions — Python 3.11.2 documentation](https://docs.python.org/3/library/sys.html)
 * [contextlib — Utilities for with-statement contexts — Python 3.11.2 documentation](https://docs.python.org/3/library/contextlib.html)
@@ -1142,7 +1142,7 @@ datetime — Basic date and time types — Python 3.11.2 documentation
 * https://sbarnea.com/lint/black/
 * [Tabby](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=a8e39fa375&e=501d687f26) - Self-hosted AI coding assistant. An opensource / on-prem alternative to GitHub Copilot.
 * [Shap-E](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=48328a54f5&e=501d687f26) - Generate 3D objects conditioned on text or images.
-* [AutoFinetune](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=d647781c02&e=501d687f26) - TuneAI or "autoFinetune" is an effortless way to fine tune an OpenAI model based on YouTube or text input. Automating transcript cleaning & prompt-completion pair generation 
+* [AutoFinetune](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=d647781c02&e=501d687f26) - TuneAI or "autoFinetune" is an effortless way to fine tune an OpenAI model based on YouTube or text input. Automating transcript cleaning & prompt-completion pair generation
 * [TemporalKit](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=6903f5512a&e=501d687f26) - An all in one solution for adding Temporal Stability to a Stable Diffusion Render via an automatic1111 extension.
 * [llm-foundry](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=2025e22e78&e=501d687f26) - LLM training code for MosaicML foundation models.
 * [ReLLM](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=b10a4011d0&e=501d687f26) - Exact structure out of any language model completion.
@@ -1227,11 +1227,11 @@ datetime — Basic date and time types — Python 3.11.2 documentation
 * [The Singleton — Python 3 Patterns, Recipes and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Singleton.html)
 * how to Become a Core Developer
 * https://www.cosmicpython.com/book/preface.html
-* https://realpython.com/python-namespace-package/ 
-* https://discuss.python.org/t/allow-comprehension-syntax-in-loop-header-of-for-loop/25864 
-* https://itnext.io/dependency-injection-in-python-a1e56ab8bdd0?gi=56530679e34d 
-* https://builtwithdjango.com/blog/improve-your-code-with-pre-commit 
-* https://blog.janestreet.com/building-reproducible-python-environments-with-xars/ 
+* https://realpython.com/python-namespace-package/
+* https://discuss.python.org/t/allow-comprehension-syntax-in-loop-header-of-for-loop/25864
+* https://itnext.io/dependency-injection-in-python-a1e56ab8bdd0?gi=56530679e34d
+* https://builtwithdjango.com/blog/improve-your-code-with-pre-commit
+* https://blog.janestreet.com/building-reproducible-python-environments-with-xars/
 * https://engineering.fb.com/2018/07/13/data-infrastructure/xars-a-more-efficient-open-source-system-for-self-contained-executables/
 * [How to print to stderr and stdout in Python? - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-print-to-stderr-and-stdout-in-python/)
 * [how many people know the core internals of python? - Google Search](https://www.google.com/search?client=firefox-b-d&q=how+many+people+know+the+core+internals+of+python%3F)
@@ -1263,13 +1263,13 @@ Python Type Hints - How to Use TypedDict - Adam Johnson
 * [GitHub code search is generally available](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=7a91fc418c&e=b5a8df9a4a) - The world’s code is now at your fingertips.
 * [Scaling up the Prime Video audio/video monitoring service and reducing costs by 90%](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=489c4dcd33&e=b5a8df9a4a)**
 
-The move from a distributed microservices architecture to a monolith 
+The move from a distributed microservices architecture to a monolith
 
 application helped achieve higher scale, resilience, and reduce costs.
 * [Merklizing the key/value store for fun and profit](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=e560cfccec&e=b5a8df9a4a) - We'll give a short overview of merkle trees in general, walk through the design of a merklized key/value store, see some example applications, introduce two reference implementations, and wrap up with a comparison to other projects.
 * [Why engineers need to be bored.](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=6c8bfbb2d1&e=b5a8df9a4a) - An analysis on boredom in engineering productivity and how it can lead to deeper innovation.
 * [Build your own private WireGuard VPN with PiVPN](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=2c11cf8b77&e=b5a8df9a4a) - This article describes how to set up a private WireGuard VPN on a Raspberry Pi using the PiVPN software. Once configured, you can connect to your home network from anywhere in the world, providing a secure and encrypted connection.
-* [A Comprehensive Guide to API Gateways, Kubernetes Gateways, and Service Meshes](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=7b17471fcb&e=b5a8df9a4a) - There is still a lot of confusion about API gateways, Kubernetes gateways, and service meshes. This article explains these technologies and share how they fundamentally differ and cater to different use 
+* [A Comprehensive Guide to API Gateways, Kubernetes Gateways, and Service Meshes](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=7b17471fcb&e=b5a8df9a4a) - There is still a lot of confusion about API gateways, Kubernetes gateways, and service meshes. This article explains these technologies and share how they fundamentally differ and cater to different use
 
 cases.
 * [Using the Web Vitals extension to debug Core Web Vitals issues](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=5bf7af487d&e=b5a8df9a4a) - The Web Vitals extension now shows you more debugging information to help you identify the root causes of Core Web Vitals issues.
@@ -1287,7 +1287,7 @@ cases.
 * [Mojo, a Superset of Python](https://pycoders.com/link/10781/mkivfelsav)
 * [Mojo](https://pycoders.com/link/10782/mkivfelsav) - is a new programming language, which is a superset of Python. It aims to fix Python’s performance and deployment problems.
 * [Can Postgres do that](https://pycoders.com/link/10754/mkivfelsav) - The answer is often yes. Just Postgres can do a lot. Not a “Postgres” compatible imitation, actual Postgres. Want a provider that can assist you?
-* [Introducing Hidet: A Deep Learning Compiler for Efficient Model Serving](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=4c8106e91c&e=501d687f26) - Hidet is a powerful deep learning compiler that simplifies the process of implementing high-performing deep learning operators on modern accelerators (e.g., NVIDIA GPUs). With the new feature of 
+* [Introducing Hidet: A Deep Learning Compiler for Efficient Model Serving](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=4c8106e91c&e=501d687f26) - Hidet is a powerful deep learning compiler that simplifies the process of implementing high-performing deep learning operators on modern accelerators (e.g., NVIDIA GPUs). With the new feature of
 
 torch.compile(...) in PyTorch 2.0, integrating a novel compiler into PyTorch is easier than ever - Hidet now can be used as a torch.compile(...) backend to accelerate PyTorch models, making it an  attractive option for PyTorch users who want to improve the inference performance of their models, especially for those who also need to implement extremely optimized custom operators.
 * [Elegantly Handle Environment Variables in Python with Pydantic](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=44b0221c2e&e=501d687f26) - The article highlights how to use Pydantic library in Python to manage environment variables elegantly. It demonstrates how Pydantic simplifies the process of defining and validating environment variables, making the code more robust and maintainable.
@@ -1618,14 +1618,14 @@ This tutorial shows how to build an intelligent educational platform using OpenA
 
 * [Python Tkinter GUI Design Using ttkbootstrap - Complete Course](https://www.youtube.com/watch?v=0tM-l_ZsxjU)
 * [Python Web Conf 2023 Talks + Tutorials](https://www.youtube.com/playlist?list=PLt4L3V8wVnF4GJb8dekLGTNx44FNIFwdv)
-* https://github.com/petobens/poet-v 
-* https://www.timescale.com/blog/how-to-work-with-tim/ 
+* https://github.com/petobens/poet-v
+* https://www.timescale.com/blog/how-to-work-with-tim/
 * [The Well-Grounded Python Developer (MEAP v9)](https://annas-archive.org/md5/dedde572d82f6ce422979593027cac1d)
-* https://github.com/brython-dev/brython 
+* https://github.com/brython-dev/brython
 * [Publishing Python Packages](http://library.lol/main/B9B0A94B2ECE3CB5ACBB6715F9582F4D)
-* https://ancientgreekocr.org/ 
-* https://treykeown.github.io/arguably/ 
-* https://blog.finxter.com/ → read (i.e. go through) all 
+* https://ancientgreekocr.org/
+* https://treykeown.github.io/arguably/
+* https://blog.finxter.com/ → read (i.e. go through) all
 * [Writing Python like it’s Rust | Kobzol’s blog](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html)
 * [dataclasses — Data Classes — Python 3.11.4 documentation](https://docs.python.org/3/library/dataclasses.html)[Harold Rugg - Wikipedia](https://en.wikipedia.org/wiki/Harold_Rugg)
 * [Nested List Comprehensions in Python - GeeksforGeeks](https://www.geeksforgeeks.org/nested-list-comprehensions-in-python/)
@@ -1649,29 +1649,29 @@ This tutorial shows how to build an intelligent educational platform using OpenA
 * [Shalabh Aggarwal - Flask Framework Cookbook: Enhance your Flask skills with advanced techniques and build dynamic, 3rd Edition](https://libgen.is/book/index.php?md5=414C4D9BAB5F024306F1FFE2CC266DC5)
 * [Django 3 Web Development Cookbook: Actionable solutions to common problems in Python web development](https://libgen.is/book/index.php?md5=05CE578711D49D8BFF060B62AB77DF32)
 * [Michael Walker - Python Data Cleaning Cookbook: Modern techniques and Python tools to detect and remove dirty data to extract key insights](https://libgen.is/book/index.php?md5=02D0B5025EABF72851A497C0AF5FC82F)
-* https://rednafi.com/python/escape_template_pattern/ 
+* https://rednafi.com/python/escape_template_pattern/
 * [Ayodele Oluleye - Exploratory Data Analysis with Python Cookbook: Over 50 recipes to analyze, visualize, and extract insights](https://libgen.is/book/index.php?md5=B6BA01703147B8D3B858F6E39A426EB5)
-* https://www.lambdatest.com/blog/python-configparser-tutorial/ 
-* https://www.pythonmorsels.com/creating-a-context-manager/ 
-* https://realpython.com/python-profiling/ 
+* https://www.lambdatest.com/blog/python-configparser-tutorial/
+* https://www.pythonmorsels.com/creating-a-context-manager/
+* https://realpython.com/python-profiling/
 * https://github.com/dabeaz-course/python-mastery
-* https://realpython.com/courses/python-folium-web-maps-from-data/ 
-* https://lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/ 
-* https://www.nathom.dev/blog/casual_performance_optimization_python/ 
-* https://discuss.python.org/t/a-steering-council-notice-about-pep-703-making-the-global-interpreter-lock-optional-in-cpython/30474 
-* https://www.modular.com/blog/an-easy-introduction-to-mojo-for-python-programmers 
+* https://realpython.com/courses/python-folium-web-maps-from-data/
+* https://lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/
+* https://www.nathom.dev/blog/casual_performance_optimization_python/
+* https://discuss.python.org/t/a-steering-council-notice-about-pep-703-making-the-global-interpreter-lock-optional-in-cpython/30474
+* https://www.modular.com/blog/an-easy-introduction-to-mojo-for-python-programmers
 * [⚡ 5 Horrifying Python Techniques to get you fired - Andrew L](https://www.youtube.com/watch?v=t863QfAOmlY)
-* [The Python Quick Syntax Reference](http://library.lol/main/543757CC14C1FC9CBB07D7427C549E6F) 
-* [Python for Data Mining Quick Syntax Reference](http://library.lol/main/719FA57E15A5FAAE9996594FF491F0E1) 
+* [The Python Quick Syntax Reference](http://library.lol/main/543757CC14C1FC9CBB07D7427C549E6F)
+* [Python for Data Mining Quick Syntax Reference](http://library.lol/main/719FA57E15A5FAAE9996594FF491F0E1)
 * [When to (Not) Use Dunder Methods?](https://www.youtube.com/watch?v=3iJjBOne2sM)
 * https://betterstack.com/community/guides/logging/loguru/
-* https://cython.readthedocs.io/en/latest/src/changes.html 
-* https://github.com/caioariede/dpv 
-* https://peps.python.org/pep-0723/ 
+* https://cython.readthedocs.io/en/latest/src/changes.html
+* https://github.com/caioariede/dpv
+* https://peps.python.org/pep-0723/
 * how to use poetry with Conda?
 * https://josvisser.substack.com/p/why-python-is-amazing
-* https://kenschutte.com/python-swap-ints/ 
-* https://mathspp.com/blog/pydonts/does-elegance-matter 
+* https://kenschutte.com/python-swap-ints/
+* https://mathspp.com/blog/pydonts/does-elegance-matter
 * https://github.com/beeware/briefcase
 * [Tutorial: Debugging your Python Applications with pdb - YouTube](https://www.youtube.com/watch?v=bZZTeKPRSLQ)
 * https://www.fullstackpython.com/enterprise-python.html

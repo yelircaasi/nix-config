@@ -12,19 +12,19 @@ all ****** unless otherwise indicated
 JS
  https://www.npmjs.com/package/chalk - color library
 Python
- https://github.com/google/python-fire 
- https://jsonargparse.readthedocs.io/ 
- https://github.com/python-poetry/cleo 
- https://github.com/Textualize/trogon 
- https://github.com/pwaller/pyfiglet 
- https://github.com/pallets/click 
+ https://github.com/google/python-fire
+ https://jsonargparse.readthedocs.io/
+ https://github.com/python-poetry/cleo
+ https://github.com/Textualize/trogon
+ https://github.com/pwaller/pyfiglet
+ https://github.com/pallets/click
  https://github.com/tiangolo/typer https://typer.tiangolo.com/
 Go
  https://github.com/pterm/pterm/
  https://github.com/spf13/cobra
  https://github.com/charmbracelet/gum
  https://github.com/charmbracelet/bubbletea - powerful TUI framework
- https://github.com/jedib0t/go-pretty 
+ https://github.com/jedib0t/go-pretty
  https://github.com/awesome-gocui/gocui
  https://github.com/olekukonko/tablewriter
 Haskell
@@ -34,18 +34,18 @@ Crystal
 Rust
  https://github.com/mackwic/colored - CLI coloring tool for Rust
  https://github.com/clap-rs/clap
- https://github.com/TeXitoi/structopt 
+ https://github.com/TeXitoi/structopt
 https://github.com/ratatui-org/ratatui
 
 https://github.com/wong2/pick
 
-https://ceccopierangiolieugenio.github.io/pyTermTk/ 
+https://ceccopierangiolieugenio.github.io/pyTermTk/
 
 
 ## Sort
 
 ☒ GUI Development
- * $$ https://azul.rs/ 
+ * $$ https://azul.rs/
  * $$  https://tauri.app/
  ******* [wxPython(https://wxpython.org/index.html)
  *******https://github.com/qt/qtbase
@@ -55,13 +55,13 @@ https://ceccopierangiolieugenio.github.io/pyTermTk/
  **** PHP App Server: Create lightweight, installable almost-native applications for desktop OSes. ExecTerminal (nicely wraps the xterm.js Terminal), TerminalManager, and RunProcessSDK are self-contained, reusable ES5+ compliant Javascript components.
 ☒ Programming Languages, Specific Code Libraries
 ☒ Multiple
- ******* https://github.com/monkslc/hyperpolyglot A fast programming language detector - 
+ ******* https://github.com/monkslc/hyperpolyglot A fast programming language detector -
  ******* https://github.com/github-linguist/linguist Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
  * $$ flex
  * $$ bison
  * $$ byacc
  * $$ llvm
- ******* https://www.bouml.fr/ 
+ ******* https://www.bouml.fr/
  **** https://github.com/asdf-vm/asdf - Manage multiple runtime versions with a single CLI tool. - probably no because Nix is superior, but still interesting to try out
 ☒Python
 → make a fancy powerline/starship-style Python REPL?
@@ -76,7 +76,7 @@ https://ceccopierangiolieugenio.github.io/pyTermTk/
 
 → https://discuss.python.org/t/announce-pybi-and-posy/23021
 
- * $$$  https://sh.readthedocs.io/en/latest/ 
+ * $$$  https://sh.readthedocs.io/en/latest/
  * $$$  poetry2nix
  * $$$  Scipy - SciPy is a Python-based ecosystem of open-source software for mathematics, science, and engineering. https://scipy.org/install.html
  * $$$  https://github.com/lingfo/lingfo (polyglot FFI)
@@ -86,9 +86,9 @@ https://ceccopierangiolieugenio.github.io/pyTermTk/
  * $$ https://github.com/JamesHutchison/megamock
  * $$  https://github.com/arpitbbhayani/py-prompts - at least look at and use ideas
  * $$ Ipython - Powerful Python shell. https://ipython.org/
- * $$ bpython 
+ * $$ bpython
  * $$ ptpython
- * $$  
+ * $$
  * $$ https://github.com/anki-code/pipi
  * $$ Jupyter Notebook - An open source program that provides interactive data and scientific computing information across over 40 programming languages. https://jupyter.org/
  * $$ pyutils https://wannabe.guru.org/pydocs/pyutils/index.html
@@ -96,7 +96,7 @@ https://ceccopierangiolieugenio.github.io/pyTermTk/
  *** pyenv - inferior to Nix, but good to know
  [U] https://github.com/mamba-org/mamba
  [U] https://github.com/conda/conda
- https://pex.readthedocs.io/en/v2.1.154/ 
+ https://pex.readthedocs.io/en/v2.1.154/
 
 ☒ Database
 * $$$  PostgreSQL - PostgreSQL is a powerful, open source object-relational database system with more than 15 year development. PostgreSQL is not controlled by any corporation or other private entity and the source code is available free of charge. https://www.postgresql.org/download/
@@ -122,7 +122,7 @@ https://ceccopierangiolieugenio.github.io/pyTermTk/
 ******* xmlstarlet - Old but powerful tool for command-line XML formatting, filtering, and manipulation. http://xmlstar.sourceforge.net/
 ******* Kexi - Kexi is an open source visual database applications creator, a long-awaited competitor for programs like MS Access or Filemaker. https://calligra.org/kexi/
 bp<<<mycli https://www.mycli.net/
- 
+
 ## Java, JVM
 * $$$  openjdk
 [U] sdkman

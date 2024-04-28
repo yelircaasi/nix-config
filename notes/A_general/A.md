@@ -387,19 +387,19 @@ I. Autoconocencia, autodesarrolla y autogerencia
 
 
 * Sort
-    
+
     Norman Cohn's 1957 book The Pursuit of the Millennium.    * http://www.oxfordtoday.ox.ac.uk/opinion/forget-your-delusions-and-be-happy-advises-john-gray
     Malaparte 1949 The Skin
     Alexander Herzen
     Louis Blanc
     Schopenhauer to US economist Nouriel Roubini, the poet Wallace Stevens, British historian Norman Cohn, Italian poet Giacomo Leopardi
     John Cowper Powys
-        
+
     Mme de Staël
     yobs
     JA Baker ornithologist
     Orwell and Ballard, Herzen and Borges, Ford Madox Ford and Llewelyn Powys
-        
+
     Straw Dogs
     Jacques Monod
     E.O.Wilson
@@ -473,7 +473,7 @@ I. Autoconocencia, autodesarrolla y autogerencia
     Joseph Brodsky
     Sisyphus
     Robert Graves
-        
+
     Black Mass
     Herman Melville - American nationalism
     Arthur Koestler
@@ -509,7 +509,7 @@ I. Autoconocencia, autodesarrolla y autogerencia
     Robinson Jeffers
     Czeslaw Milosz
     Louis MacNeice
-        
+
     Black Mass
     Paul Boyer
 * .
@@ -678,33 +678,33 @@ Remarks from Professor Jordan: “not only do I think that you should eventually
 
 
 * 13 Sparks of Genius
-    
+
     Observing
-    
+
     Imaging
-    
+
     Abstracting
-    
+
     Recognizing Patterns
-    
+
     Forming Patterns
-    
+
     Analogizing
-    
+
     Body Thinking
-    
+
     Empathizing
-    
+
     Dimensional Thinking
-    
+
     Modeling
-    
+
     Playing
-    
+
     Transforming
-    
+
     Synthesizing
-    
+
 
 
 * Ways to deeply learn a language
@@ -741,81 +741,81 @@ Review
 
 
 * Old Poem
-    
+
     Old Poem (2017?)
-    
+
     I am a fool, an intelligent fool,
-    
+
     at times I am brilliant, yet at times I am stunned
-    
+
     by the simplest of truths that again I’ve o’erlooked.
-    
+
     Seeing far off, yet far b’yond the mark.
-    
+
     The visions I see, though faded, are bright,
-    
+
     in learning I broaden my mind’s vast expanse.
-    
+
     Giffts and potential and a longing for beauty,
-    
+
     Give meaning and drive to my lowly being.
-    
+
     I speak as a proud man, yet proud I am not;
-    
+
     merely filled with the wond’r of the bounty of God.
-    
+
     And torn on the rack of the torturous duel
-    
+
     That needfully rages in my inner core.
-    
+
     My life has been blissful, in relative terms,
-    
+
     If I do complain, then without any right.
-    
+
     The only intention therein is to share
-    
+
     And in doing so lessen the weight on my heart.
-    
+
     I meander, and talking in circles am lost,
-    
+
     and yet my own aimlessness serves t’illustrate
-    
+
     the inconstancy, marking circuitous attempts
-    
+
     To rise from the depths in which I wallow here.
-    
+
     A man is a wonder, and I am a man,
-    
+
     a marvel in God’s perfect image, and man
-    
+
     Is endowed with God’s finest: free will and sound reason,
-    
+
     And yet he is blind to his own inner world.
-    
+
     Why can we build and discover and prove,
-    
+
     and yet we cannot turn within and see clearly?
-    
+
     How can we reason and solve and invent
-    
+
     And yet fail to see or invent our own selves.
-    
+
     Awareness of self is a human endowment,
-    
+
     On par with good sense and free will; this I know.
-    
+
     Then why is it such an unpleasant discovery
-    
+
     To catch a rare glimpse of myself as a man?
-    
+
     To willfully choose evil over that which we call good,
-    
+
     Is the greatest of tragedies, but next to that,
-    
+
     The greatest of tragedies I can ever imagine is
-    
+
     Failure to create what is one’s (own) to create.
-    
+
 
 migration patterns and carrying capacity of land
 
@@ -949,251 +949,251 @@ make a test schedule for languages, ideas, formulas, etc
 ##
 * Organizations and Conferences
         * https://www.youtube.com/@StrangeLoopConf
-    
+
 
 
 * Book List - To Sort
-    
+
     Vladimir Sorokin - Telluria
-    
+
     Der erste Russe - Bugadze
-    
+
     Russische Lyrik. Zweisprachig (Reclam)
-    
+
     Fiabe italiane - Calvino
-    
+
     Soumission - Houellebecq
-    
+
     Il nome della rosa - Eco
-    
+
     De kläne Prinz (Palzisch)
-    
+
     Das Handbuch für den Neustart der Welt
-    
+
     Lost in Translation (Sanders)
-    
+
     Ein gutes Buch kommt selten allein
-    
+
     Wie man über Bücher spricht, die man nicht gelesen hat
-    
+
     Gebrauchsanweisung fürs Lesen
-    
+
     Bücher (Zschirnt)
-    
+
     Handbuch der literarischen Gattungen
-    
+
     Homo hapticus - Grunwald
-    
+
     Ich fühle, also bin ich - Damasio
-    
+
     Das kleine Buch vom Riechen und Schmecken - Hatt, Dee
-    
+
     Von der Kunst, die Welt mit anderen Augen zu sehen - Horowitz
-    
+
     Alles Zufall (Klein)
-    
+
     Wie der Bauch dem Kopf beim Denken hilft - Kast
-    
+
     Du denkst nicht mit dem Kopf allein
-    
+
     Noise - Kahneman, Sibony, Sunstein
-    
+
     Lehrbuch der allgemeinen Psychologie - Kessel, Spada
-    
+
     Warum es so schwierig, sich selbst und andere zu ändern - Roth
-    
+
     Von der Steinzeit ins Internet
-    
+
     Elektronik 1-4, v.a. 4: Digitaltechnik
-    
+
     Web-Technologien
-    
+
     Das Website Kompendium
-    
+
     Computer-Netzwerke
-    
+
     andere Webdesign-Bücher
-    
+
     Greifvögel
-    
+
     Die Weisheit der Raben
-    
+
     Vögel in Europa
-    
+
     Fraktale Geometrie - Bassa
-    
+
     Das Geheimnis von Pi - Navarro
-    
+
     Einführung in die Mengenlehre - Deiser
-    
+
     Das Geheimnis der Transzendentalen Zahlen - Toenniessen
-    
+
     Einführung in die Zahlentheorie und Algebra
-    
+
     Beweise ohne Worte - Nelsen
-    
+
     Philosophie der Mathematik - Weyl
-    
+
     Bilder der Mathematik - Glaeser, Polthier
-    
+
     Ökologie - Nobel
-    
+
     3000 Jahre Analysis
-    
+
     4000 Jahre Algebra
-    
+
     5000 Jahre Geometrie
-    
+
     6000 Jahre Mathematik
-    
+
     Pasta und Design - Legendre
-    
+
     Welt-Formeln
-    
+
     Die fünf platonischen Körper
-    
+
     Die Namen der Zahlen
-    
+
     Meilensteine der Mathematik
-    
+
     Das Mathebuch
-    
+
     Mathematik - einfach genial!
-    
+
     Verborgene Ideen
-    
+
     Textaufgaben lösen für Dummies
-    
+
     Alles wird Zahl
-    
+
     Mathematik. Die faszinierende Welt der Zahlen
-    
+
     Die vierte Dimension
-    
+
     Bücher zum Kosmos: Big History, Reise and die Grenzen der Physik, usw.
-    
+
     Formelsammlung (Duden Paetec)
-    
+
     Designed by Nature
-    
+
     Fahrplan der Naturwissenschaften
-    
+
     Heidelberg und Mannheim - Evolution
-    
+
     Heben Tiere ein Bewusstsein? Arzt und Birmelin
-    
+
     Female Choice - Stoverock
-    
+
     Die Wahrheit über Eva
-    
+
     Das Buch vom Heiden und den drei Weisen
-    
+
     The Andromeda Strain
-    
+
     Salt Fat Acid Heat
-    
+
     Maß- und Integrationstheorie - Elstrodt
-    
+
     American Jesus - Millar & Gross
-    
+
     Deutschland. Globalgeschichte einer Ntion
-    
+
     Der dunkle Spiegel - Snowden
-    
+
     Griechische Göoter- und Heldensagen
-    
+
     The Communication Book. 44 Ideas for Better Conversations Every Day
-    
+
     The Change Book
-    
+
     L'élephant. Revue de la culture générale
-    
+
     Metaphor and Emotion - Zoltán Kövecses
-    
+
     Language, Mind, and Culture - Zoltán Kövecses
-    
+
     Metaphor - Zoltán Kövecses
-    
+
     Nerds retten die Welt
-    
+
     Die grossen Philosophen - Jaspers
-    
+
     Heilige Schriften - Leipodt und Morenz
-    
+
     Leben, Natur, Wissenschaft. Alles, was man wissen muss
-    
+
     Funken der Erleuchtung - Rinpoche
-    
+
     Klassiker in finsteren Zeiten 1933-1945
-    
+
     Intellectual Origins of the English Revolution
-    
+
     Plato at the Googleplex
-    
+
     Captain Swing
-    
+
     The Conservative Intellectual Movement in America since 1945 - Nash
-    
+
     The Romantics - Thompson
-    
+
     Können wir die Welt verstehen - Gaßner und Müller
-    
+
     Wie wird überleben? - Lothar Frenz
-    
+
     Das Ende der Evolution - Glaubrecht
-    
+
     The Polymath - Ahmed
-    
+
     The McKinsey Mind
-    
+
     Surrounded by Idiots
-    
+
     Range - Epstein
-    
+
     Auf den Schultern von Riesen - Echo
-    
+
     Die Kunst des guten Lebens - Dobelli
-    
+
     Происхождение языка: Факты, исследования, гипотезы
-    
+
     Programmieren ganz einfach
-    
+
     Einführung in Java
-    
+
     C++ für Dummies
-    
+
     Webseiten für Einsteiger
-    
+
     Duden Informatik A-Z
-    
+
     Ausgeliefert - MacGillis
-    
+
     Im grunde gut - Bregman
-    
+
     Der gedichtete Himmel - Matuschek
-    
+
     Das Technikbuch - Brain
-    
+
     Kratka povijest ljudske rase - Cook
-    
+
     Povijest povijesti - Burrow
         * [Korporatizam - Grupp](https://kupdf.net/download/jeffrey-grupp-korporatizam_5a1c6b5be2b6f50f030b284c_pdf)
-    
+
     Die Geschichte des Handwerks
-    
+
     Land der Tüftler und Denker
-    
+
     Geniale Erfindungen
-    
+
     Wie man unsere Zivilisation wieder aufbaut, wenn man sich mit seiner Zeitmaschine verfahren hat
-    
+
     Moderne Technologie - Lynch
         * [10 книг, которые расширят ваш кругозор, пока вы вынуждены находиться в самоизоляции](https://vk.com/wall-104184663_240029)
         * ["by comparison"](http://libgen.rs/search.php?req=by+comparison&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
         * http://www.theatlantic.com/international/archive/2013/12/this-woman-read-one-book-from-every-country-in-the-world-here-are-her-favorites/282634/
         * [Hippocrene](https://libgen.is/search.php?&req=hippocrene&phrase=1&view=simple&column=def&sort=def&sortmode=ASC&page=1)
         * [Where Mathematics, Computer Science, Linguistics and Biology Meet](https://libgen.is/book/index.php?md5=E563823EEA64DD4370CA5C7FA62A7137)
-    
+
     buecher.de Int*...****in!
         * ["without tears" books](https://b-ok.cc/s/without%20tears)
         * http://ebooks.grsu.by/
@@ -1201,49 +1201,49 @@ make a test schedule for languages, ideas, formulas, etc
         * [Bill Bryson books](https://libgen.is/search.php?&req=bill+bryson&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
         * [брайсон books](https://libgen.is/search.php?req=%D0%B1%D1%80%D0%B0%D0%B9%D1%81%D0%BE%D0%BD&open=0&res=25&view=simple&phrase=1&column=def)
         * [Nordic Academic Press](https://b-ok.cc/s/Nordic%20Academic%20Press)
-    
+
     Common Knowledge (Grote)
-    
+
     Das Entscheider-Buch
-    
+
     Das große Buch der Allgemeinbildung
-    
+
     Denkanstöße 2019 (2018, 2017, ...)
         * [die großen Fragen](https://libgen.is/search.php?req=die+gro%C3%9Fen+fragen&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
         * [DK Books](https://vk.com/wall308867621_9828)
         * [Electronic library. Download books free. Finding books](https://b-ok.cc/s/?q=&yearFrom=&yearTo=&language=arabic&extension=&t=0)
         * [Hans Rosling](https://libgen.is/search.php?req=Hans+Rosling&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
         * [histoire d'un](http://libgen.io/search.php?req=histoire+d%27un&open=0&res=25&view=simple&phrase=1&column=def)
-    
+
     History in Literature
-    
+
     How to Read World History in Art
-    
+
     how to. Wie man's hinkriegt
-    
+
     - ****Обговорення | Serial Books &amp; Magazines
     - **explore recommendations
-    
+
     1,000 Books to Read before You Die
-    
+
     1. Эволюция человека. 2 тома. Двухтомник «Эволюция человека» отвечает на многие вопросы, давно интересующие человека разумного. Что значит- быть человеком? Когда и почему мы стали людьми? В чем мы превосходим наших соседей по планете, а в чем — уступаем им? И как нам лучше использовать главное свое отличие и достоинство — огромный, сложно устроенный мозг? Один из способов — вдумчиво прочесть эту книгу. Александр Марков — доктор биологических наук, ведущий научный сотрудник Палеонтологического института РАН. Его книга об эволюции живых существ «Рождение сложности» (2010) стала событием в научно-популярной литературе и получила широкое признание читателей.2.Мир, полный демонов: Наука — как свеча во тьме» Книга астрофизика и популяризатора науки Карла Сагана, впервые опубликованная в 1995 году. Цель книги — объяснить научный метод для широкого круга людей, и воодушевить их подходить к новой информации критически, и скептически мыслить. В книге рассказывается, какими методами можно отличить науку, которая работает, от псевдонаучных идей. Саган объясняет, что если на рассмотрение предлагаются новые идеи, то они должны испытываться посредством скептического мышления, и четко отвечать на задаваемые вопросы. Отличная книга для зимнего чтения.3.«Чёрное облако» Научно-фантастический роман известного английского астрофизика и писателя Фреда Хойла. В романе достаточно детально разбираются некоторые вопросы, связанные с исследованиями. Это связано с тем, что Хойл описывал знакомую ему среду. В частности, даже приводится использующий дифференциальное исчисление расчёт Вейхарта о времени приближения Облака. Идеи этого расчёта позже послужили основой для некоторых олимпиадных задач (например, для выездных олимпиад МФТИ). Кроме этого, в романе нелицеприятно нарисованы все без исключения профессиональные политики. Эту книгу рекомендовал Ричард Докинз для расширения сознания, вместо каннабиса или других психоактивов.4. "В поисках памяти" Книга посвящена истории возникновения и развития науки и биологической основе человеческой психики. Автор книги разъясняет революционные достижения современной биологии и проливает свет на то, как бихевиоризм, когнитивная психология породили новую науку. Великолепная книга от отличного автора. Она захватит Ваше внимание сразу, ибо интересные биографические детали жизни Эрика Канделя, вплетаются с научными исследованиями, которые он проводит. Книга начинается с воспоминаний о детстве автора в оккупированной нацистами Вене и описывает научную карьеру Канделя, от его раннего увлечения историей и психоанализом до новаторских работ в области изучения клеточных и молекулярных механизмов памяти, за которые он удостоился Нобелевской премии. Эта книга — о поиске биологических основ человеческой памяти.5. «Бойня номер пять, или Крестовый поход детей» Автобиографический роман Курта Воннегута о бомбардировке Дрездена во время Второй мировой войны. Великолепная научно-фантастическая книга. Она может многим показаться очень странной, но она достойна прочтения. Может показаться, что ее писал шизофреник. Концовка книги заканчивается словами: "Пьюти фьют." Это очень запоминается, хотя она была прочитана давно. После бомбардировок порта Пёрл-Харбор Курт Воннегут добровольно вступил в ряды вооружённых сил США и участвовал во Второй мировой войне. В 1944 году он попал в плен во время Арденнской контрнаступательной операции немецких войск и был направлен в Дрезден, где вместе с другими военнопленными работал на заводе, производящем солодовый сироп с витаминами для беременных женщин. И именно в Дрездене Воннегуту было суждено приобрести свой самый страшный военный опыт. 13—14 февраля 1945 года он стал свидетелем бомбардировки Дрездена авиацией союзнических войск. Курт Воннегут оказался в числе семи американских военнопленных, выживших в тот день в Дрездене. Пленных на ночь запирали на неработающей городской скотобойне номер 5, а во время бомбёжки уводили в подвал, в котором хранились мясные туши. Настоящих бомбоубежищ в городе почти не было, поскольку Дрезден не был стратегически важной целью. Чудом избежав гибели от своих же самолётов, Воннегут в полной мере познал ужас войны, когда вместе с другими пленными ему пришлось разбирать руины и вытаскивать из-под обломков тысячи трупов. Воннегут был освобождён войсками Красной Армии в мае 1945 года. По мнению писателя, бомбардировка Дрездена не была вызвана военной необходимостью. Большинство погибших при этой операции были мирными жителями, были разрушены жилые кварталы, погибли памятники архитектуры. Воннегут, будучи, бесспорно, против нацизма, не признаёт, что разгром Дрездена был «наказанием» за преступления нацистов. Роман подвергся цензуре в США, он был занесён в список «вредных» книг и изымался из библиотек. 6. Удовольствие от x Увлекательная экскурсия в мир математики от одного из лучших преподавателей в мире. Стивен Строгац — математик мирового уровня, преподаватель прикладной математики в Корнелльском университете США (один из ведущих технических вузов мира). Обладатель большого числа наград, как в области математики, так и в области преподавания. В 2010 году Стивен Строгац написал серию статей об основах математики для газеты The New York Times. Статьи вызвали бурю восторга. Каждая колонка становилась самым популярным материалом в газете и собирала сотни комментариев. Читатели просили еще, и Стивен не подвел — появилась эта книга, в которую вошли как уже опубликованные части, так и совершенно новые главы. Математика пронизывает все в этом мире, включая нас самих, но, к сожалению, мало кто понимает этот универсальный язык настолько хорошо, чтобы по достоинству оценить его мудрость и красоту. Стивен Строгац — тот самый учитель математики, о котором вы мечтали в школе. Учитель, который способен зажечь искру интереса и привить любовь к своему предмету на всю жизнь. В этой невероятно легкой и увлекательной книге, он дает всем нам второй шанс познакомиться с математикой. Цитаты из книги: "Что в итоге? Я проведу вас от арифметики до высшей математики, чтобы те, кто хотел получить второй шанс, смогли им воспользоваться. Эта книга не сделает вас экспертом в математике. Зато поможет разобраться в том, что изучает математика и почему она так увлекательна для тех, кто это понял." Эту книгу можно прочитать за один вечер. Она захватывает от начала до конца. Загадки и математические подробности в увлекательной манере автора, ждут Вас на протяжении всей книги. Хороший выбор для тех, кто решил в 2017 начать хоть что-то читать. Она не оставит равнодушным никого, ибо она интересна людям с абсолютно разными уровнями знаний, или даже без каких-либо знаний.
         * [10 важнейших монументальных трудов человечества!](https://vk.com/wall-30328106_201174)
         * [100 Most Influential Since WWII](https://www.goodreads.com/list/show/38381.TLS_The_Hundred_Most_Influential_Books_Since_the_Second_World_War)
-    
+
     100 preguntas sobre ...
         * [18 Classic Books Every Man Should Read (or Re-Read) in 2018 | The Manual](https://www.themanual.com/culture/classic-books-every-man-should-read/?utm_source=k1&utm_medium=cpc&utm_campaign=manualtraffic&kwp_0=744147&kwp_4=2607146&kwp_1=1106492)
-    
+
     50 cosas que hay que saber sobre ...
         * [A ciência de Leonardo da Vinci - um mergulho profundo na mente do grande gênio da Renascença | Fritjof Capra | download](https://b-ok.cc/book/2552811/f580f8)
-    
+
     Alle mensen heten Janus
-    
+
     An Incomplete Education
         * [And That's a Fact!](https://b-ok.cc/s/?q=And+That%27s+a+Fact%21)
         * [Antonia Macaro](https://libgen.is/search.php?req=Antonia%20Macaro&column[]=author)
         * [Antonia Macaro](http://libgen.io/search.php?req=Antonia+Macaro&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
         * [Biografie](http://libgen.io/search.php?&req=Biografie&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
-    
+
     Blink
         * [Book Recommendations from Nassim Taleb](https://fs.blog/2012/02/book-recommendations-from-nassim-taleb/)
         * [Bücher: Verlagsprogramm, Reihen, Neuerscheinungen, Werkausgaben,Themen und Genres bei Suhrkamp - Suhrkamp Insel](https://www.suhrkamp.de/buecher/)
@@ -1256,15 +1256,15 @@ make a test schedule for languages, ideas, formulas, etc
         * [Knigi](https://vk.com/wall-155276174_47)
         * [Libros recomendación](https://m.facebook.com/media/set/?set=a.153309029134178&type=3&fbclid=IwAR3LhF42M23WJXuXeZ435VuAc7uQyVgqfwiW2wMx-MKduAYYLy_u9DINqcc)
         * [Literary Saloon](http://www.complete-review.com/saloon/)
-    
+
     Lolecules. The Elements and the Architecture of Everything
         * [MEGA Libros españoles](https://mega.nz/#F!ueQQXYIA!T4mMT9mlAqmQnkrQJDFOsg)
-    
+
     Metaphors We Live By
-    
+
     My Ideal Bookshelf
         * [My List Goodreads](https://www.goodreads.com/review/list/53558304)
-    
+
     Neue Karte der Weltwunder
         * [Of Cigarettes, High Heels, and Other Interesting Things_Marcel Danesi_3rd ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-1-349-95348-6)
         * [Oxford Dictionary of](https://b-ok.cc/s/?q=Oxford+Dictionary+of+&e=1)
@@ -1272,30 +1272,30 @@ make a test schedule for languages, ideas, formulas, etc
         * [routledge handbook of](https://libgen.is/search.php?req=routledge+handbook+of+&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
         * [Sachbücher](https://vk.com/wall255845441_3782)
         * [Sieben Alternativen zu Amazon](http://www.taz.de/!5025935/)
-    
+
     Signs & Symbols Sourcebook
         * [Simvoly](https://vk.com/wall-124609314_118751)
         * [Spisok Knig](https://vk.com/wall234218980_886)
         * [Steven Pinker](https://libgen.is/search.php?&req=Steven+Pinker&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
         * [stevens' handbook](https://libgen.is/search.php?&req=stevens%27+handbook&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
-    
+
     Surfaces and Essences
-    
+
     The Big Book of Answers
-    
+
     The Dictionary of Cultural Literacy
-    
+
     The Greatest Minds and Ideas of All Time
         * [The Greatest Minds and Ideas of All Time: Will Durant: 9780743235532: Amazon.com: Books](https://www.amazon.com/gp/product/0743235533/ref=s9u_cartx_gw_i4?ie=UTF8&fpl=fresh&pd_rd_i=0743235533&pd_rd_r=511762c9-2656-11e8-b4af-bb8759a2f7d7&pd_rd_w=oZl2O&pd_rd_wg=qIECD&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=QV6R2TT7ZQPPW6FVKF2Q&pf_rd_t=36701&pf_rd_p=0d036f2a-db56-478a-b511-f59f2469d474&pf_rd_i=desktop)
-    
+
     The Hedgehog, the Fox, and the Magister's Pox
-    
+
     The Tipping Point
-    
+
     Thing Explainer. Complicated Stuff in Simple Words
-    
+
     Vergessene Erfindungen
-    
+
     Very Short Introduction Series
         * [Very Short Introduction to](https://b-ok.cc/s/?q=Very+Short+Introduction+to)
         * [vey short introduction to ___](http://libgen.io/search.php?req=Very+Short+Introduction+to&open=0&res=25&view=simple&phrase=1&column=def)
@@ -1306,7 +1306,7 @@ make a test schedule for languages, ideas, formulas, etc
         * [Searching for Wisdom: Frank Buytendijk’s Recommended Reading List by Frank Buytendijk - BeyeNETWORK](http://www.b-eye-network.com/channels/5567/view/16772)
         * [Conway, F. and Siegelman, J. (2005).](https://email.mg2.substack.com/c/eJxNkUtr5DAMgH9NfAyWH3kcfCiUgb3spe05KLaSmiZOsJ0O6a9fZ2YPBSHraYlPFjPNWzzNvqXMLjXkcycT6J4WypkiOxLFwTsDfQdCCeaMctDpjvk0TJFoRb-YHA9i-zEu3mL2W3g0KJCKfRpqHe_E2EwwtlZLmGjC3ineuxGxa-A5Fg_nKVgy9E3x3AKxxXzmvKdKvlTiVuR-v9e44s8WarutJTDvRe1xc4fNxeKq0RxkC81VL2-eKvn68X7rKtFYXPfiQdv1lxepbPl95Xsp9K_Iy9ufvyX6-6v_wrwRXACXQoCQWkMNdasdTpNW1E9cce2E5i1NJBotSXDSleLrLOp0jCmj_brWZtH4hGjrWEe_0FlK5ovgI1cADuVdj-DzOVDAcSH3ZJufF3rQHmYKFMvl3IDZQAONgkZr3fbtk2WBLxVA3wvOynC3la5gLIa8xbRjROcT_QMMcKJx)
         * [Flowers, F.A. (2015).](https://email.mg2.substack.com/c/eJxNkTtv5CAQgH-NKS2exi4oIkUrpUmTu9qahbGDYoMFeFe-X3943UQaDcx79I2FgnNMh9liLuRUYzk2NAGfecFSMJE9Yxq9M2zoGZecOCMd61VPfB6nhLiCX0xJO5Jtvy_eQvExvAokE5J8G6ooA8Glow611nc7UTibgUY9OCausbA7j8GiwQemIwYki_kuZcuNeGv4rcrz-WxhhX8xtDau1TFvVW0put2W-mNSS95RNqgzX9w8NuL9759b3_DOwrpVi-l-OK2EdcvHGR8EV788b18fn2fer1bdJcQbTjmjgnPGhVKsZa1WDqZJSRwmKqlyXFGNE_JOCeQUVSPpOvM27_dcwP6ca5NkfAawbWqTX_CoKfNJ8BWrAMf6rnvw5RgxwH1Bd7Et14VetMcZA6Z6OTdCMaxjnWSdUkoP-mJZ4QvJ2DBwSupwF2tVMBZCiSlvkMD5jP8B38uhsg)
-    
+
     Grattan-Guinness, I. (1975). Wiener on the Logics of Russell and Schröder. An Account of his Doctoral Thesis, and of his Discussions of it with Russell. Annals of Science 32, pp. 103-132.
         * [Heims, S.J. (1980).](https://email.mg2.substack.com/c/eJxNkU2P3CAMhn9NOEZgvpIDh5WqkXrpZbfniAEni5pABGRH6a8vmdlDJcuA_Rpbj52tuKR8mj2VSi431XNHE_FRVqwVMzkK5il4w8aBgQDijfBskAMJZZoz4mbDamo-kOzHfQ3O1pDis0AwLsinEUzrwXoBOA-gqJod095rzUfpOEr_amsPHzA6NPiF-UwRyWo-a91Lx986uDV7PB693ezfFHuXthZY9ub2nPzhartRUEAHRuV46fktYMd__P64DR2oZs5uewswPYzXK2Mb9OuSjBzkt-Q7-Pb-81dL_P-hIsEABUY5AAMuJetZr6W38ywFjjMVVHqQVOOMoCRHoCg7QbcF-nLcS7XuzzU2ySYUa12f-xxWPJtkuQg-cw3g1M7tiKGeE0Z7X9G_2NbXhp60pwUj5rY5P9lqmGJKMCWl1KN-sWzwuWBsHIGS1tynVhWNs7GmXHabrQ8F_wHmCaHD)
         * [Kanterian, E. (2007).](https://email.mg2.substack.com/c/eJxNUT1vxCAM_TXHGPGdMDC0qiJ16dJ26BQRcFLUBCIgPaW_vuSuQyXL2M_P2Hq2psAc06G3mAs63VCODXSAa16gFEhoz5AG7zRRHaGcIqe5I53okM_DlABW4xdd0g5o28fFW1N8DLcGThhHn1rJjk6jcEoQaTtCnJTTyI2wfJxUS-V9rNmdh2BBwzekIwZAi_4sZcsX9nChfbXr9dqY1fzE0Ni4VmDeqttSdLstNXrEWPT980ffnXzWe7iwp_e3M5XVrFm3CpC2U2eWoC76fVIUo-KP8gc-vD6_1ML_DyXymmJKMKOUUCYEaUjTCmemSXBQE-ZYOCpwCxNQKRhQDOLC8TrTJu9jLsZ-nWujpH02xjapSX6Bo1LmU8FbrQo41Hfdgy_HAMGMC7i7tuV-oZvawwwBUr2cG0zRRBLJiRRCtKq9a1nFZ5wQpShGdbiLtStoa0KJKW8mGecz_ALwYqLJ)
@@ -1315,21 +1315,21 @@ make a test schedule for languages, ideas, formulas, etc
         * [Nasar, S. (1998).](https://email.mg2.substack.com/c/eJxNkU-PpSAMwD-NHA1UQDxwmGTzkr3MZXbPBqE6ZBQM4Ly4n37xeZmkKfQfLb9aU3CJ6dR7zIVcaiznjjrgM69YCiZyZEyjd5oNigEH4jR3TAlFfB7nhLgZv-qSDiT7Ma3emuJjeBVw1nHyqZFyLiijYJRSYqBO9pNUMEuOwzBN4m5rDucxWNT4jemMAcmqP0vZc9O9NfCo8nw-W7OZfzG0Nm7VsexV7Sm6w5Z6Y1wwCYoDvfK7h8em-_X3z0M1IK3Z9mqxXg2XlbBO-X3Fhw7ED8_bx-_3K-_HU_IW4jVQYLQDYNAJwVrW9sKZeRb1HzPlVDgQtMcZQYoOgaJoON0WaPMx5WLs1zU2SdpnY2yb2uRXPGvKchF8xSrAsZ7bEXw5RwxmWtHdbMu9oRftccGAqW7OjaZoJpnkTAoh-qG_WVb4HWdsGICS2tzFWhW0NaHElHeTjPMZ_wMaGaEv)
         * [Wiener, N. (1953).](https://email.mg2.substack.com/c/eJxNUU2P3CAM_TXhGIGBBA4cVqpG6qWX3Z4jBpwsagIRkB2lv75kZg-VLGOenz_07GzFJeXT7KlUcrmpnjuaiI-yYq2YyVEwT8EbphUDAcQb4ZmSioQyzRlxs2E1NR9I9uO-BmdrSPFZIBgX5NMMTlLJ7J0q72bdIjeOAIpZrVC71ug51h4-YHRo8AvzmSKS1XzWupeOv3Vwa_Z4PHq72b8p9i5tDVj25vac_OFqiygMMHJKFbv4_Baw4z9-f9xUB0MzZ7e9AWxU-vplbIt-XRTNQX5TvsG395-_WuL_hgMJBigwygEYcClZz_pRejvPUqCeqaDSg6QjzgiD5AgUZSfotkBfjnup1v251ibZhGKt63Ofw4pnoyyXgs9cE3Bq73bEUM8Jo72v6F_a1teFnmpPC0bM7XJ-stWwgQ2CDVLKUY8vLZv4XDCmNVDShvvUqqJxNtaUy26z9aHgP9VZobI)
         * https://de1lib.org/s/duden%20basiswissen
-    
+
     Lógica filosófica (Wittgenstein)
         * [Historia visual de la inteligencia](http://library.lol/main/6BEBFABBBDCD83E175D668F17E239598)
-    
+
 * Reading 0
         * [30 secondes (livres)](http://libgen.is/search.php?&req=30+secondes&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
         * [The Math Behind Music and Sound Synthesis](https://www.youtube.com/watch?v=Y7TesKMSE74)
-        * https://www.technologyreview.it/cosa-sognano-i-bambini-una-nuova-tecnologia-lo-rivela/ 
-    
+        * https://www.technologyreview.it/cosa-sognano-i-bambini-una-nuova-tecnologia-lo-rivela/
+
     Not Overthinking podcast
-    
+
     Deep Dive with Ali Abdaal
-    
+
     How Math Has Changed the Shape of Gerrymandering | Quanta Magazine
-        * https://www.wired.co.uk/article/best-sci-fi-books 
+        * https://www.wired.co.uk/article/best-sci-fi-books
         * [History is far more predictably deterministic than we would prefer to believe, sorry but it's a fact - YouTube](https://www.youtube.com/watch?v=CSfrfnCeaXM)
         * [THIS Is Why Americans Are So Obsessed With Guns (It's not what you expect) - YouTube](https://www.youtube.com/watch?v=zcMrDGs71v8)
         * [Is Religion All That Bad? | Genetically Modified and CosmicSkeptic - YouTube](https://www.youtube.com/watch?v=1LpYh3bKA9w)
@@ -1351,13 +1351,13 @@ make a test schedule for languages, ideas, formulas, etc
         * [Siete tipos de Ateismo](http://libgen.rs/book/index.php?md5=E27DE226C3D4190BBB43664A439B7DDA)
         * [Die dunkle Wahrheit über Wikipedia Simplicissimus Simplicissimus Verificada • • 226.682 visualizaciones hace 7 horas Nuevo](https://www.youtube.com/watch?v=d9UgRIPWP4w)
         * [docutr.com](http://docutr.com/)
-    
+
     how does knowledge and content filtering and accumulation work in practice? how should it ideally work?
         * https://vk.com/le_kinzhal
         * [Library Genesis](https://libgen.is/search.php?&req=QuickStudy&phrase=1&view=simple&column=def&sort=year&sortmode=DESC) QuickStudy Guides
         * [TheCollector | Ancient & Modern History, Art, Philosophy](https://www.thecollector.com/)
         * [Интересный Подкаст](https://open.spotify.com/show/4IaAQZHUZpHdfX3JQUWH2w?si=RTtVlo94R72O-lByqmoWRw&utm_source=native-share-menu)
-    
+
 * Reading / Viewing List (1-50)
     1. Book Idea: Professional Insights for Life - What Different Fields Can Tell Us about Thinking and Living
     2. francesco sisini
@@ -1820,74 +1820,74 @@ make a test schedule for languages, ideas, formulas, etc
 
 
 * Blog Ideas
-    
+
     unsolicited opinions - already taken
-    
+
     complex thoughts of a simple man/mind
-    
+
     One man’s perspective
-    
+
     Inquisitive mind
-    
+
     IRR thoughts and ideas
-    
+
     Hunger to understand
-    
+
     Thirst for understanding
-    
+
     Interesting ideas, unsolicited opinions
-    
+
     Amateur/unprofessional opinions
-    
+
     Isaac Riley - Ideas and Opinions / Thoughts and Opinions
-    
+
     Entries:
-    
+
 
 
 * Top Resources
-        * https://sciencecast.org/welcome 
-    
+        * https://sciencecast.org/welcome
+
 * Plan maestro
-    
+
     La formación es un comino eternal, una aspiración que le da significación a la vida. El propósito de formación es conectado con mi progression espiritual, y ella tiene importantes consecuencias para esta vida también. Una formación ideal es dirigida para el entendimiento de Dios, del cosmos, de sí mismo y de otros, y ella informa las decisione, pero aprendizaje ofrece también un placer intrínsico.  La formación verdadera comprende la creatividad y culmina en ella.
-    
+
     La formación realízase en varios frentes, los más importantes de que son paterno, formal, social y individual. Formación formal tiene su importancia, pero está lejos de ser completa.
-    
+
     Para llegar a ser una persona bien equilibrada y completa, es necessaria la formación individual, que tiene que ser autónoma.
-    
+
     Las áreas de formación dividense prácticamente en categorias generales, entre los cuales hay naturalmente algo solapamiento, pero que son, no obstante, bastante ordenadas:
-    
+
     formación general, filosofía, matemática, ciencias naturales físicias, ciencias naturales biológicas, tecnología, ciencias sociales y humanas, humanidades, salúd física, y práctica.
-    
+
 * Visión
-    
+
     Allgemeine Vision
-    
+
     Principios y carácter: ****Véase Atributos
-    
+
     Prioridades: ****El propósito más importantes de mi vida es la progresión espiritual, que lleva armonización a la voluntad de mi Padre Celestial. Esta llega en virtud de la Expiación de Jesucristo, y la compañía del Espíritu Santo es esencial para todo esto.
-    
+
     Porque mi tiempo es un don precioso y porque tengo más que hacer, aprender y dar que es humanamente posible, utilizaré bien cada segundo. Todo lo que hago es para el propósito del desarrollo espiritual para la gloria de Dios, mi desarrollo y lo de los demás, para y medido por la felizidad.
-    
+
     Lebensart: ****Logré esto ayudando a mí mismo y a los demás de ser felices, de ver su valor y de acercarse a Dios. Empezaré y aprofondeceré relaciones con familiares y amigos, manteniendo familiar como prioridad clara. Me acordaré de lo importante.
-    
+
     Relaciones:
-    
+
     Respeto a los demás y inspiro su respeto. Me esfuerzo de entenderlos así que son y de ayudarlos a valorarse a sí mismo.
-    
+
     Cómo parece esto:
-    
+
     Tengo una vida equilibrada que básase en principios correctos. Trabajo duro y juego duro, disfruto de la vida y siervo a Dios, a mi familia y a los demás. Pienso a menudos en lo importante y mantengo salud física y espiritual.
-    
+
     Cómo se siente esto:
-    
+
     Disfruto de paz y me siento impulsado por el proposito de mi vida. Aprendo constantemente y correjo curso tantas veces que sea necessario.
-    
+
 * Book or Article Ideas
-    
+
     Book or Article Ideas
-    
+
     - Uncertainty and the Golden Mean - difficulty of maintaining a moderate position between extremes of science and religion
     - Russian proverbs and/or phrases
     - complete Church history and commentary - candid discussion and integrated responses to it
@@ -1906,89 +1906,89 @@ make a test schedule for languages, ideas, formulas, etc
     - government debt, its consequences, and its moral implications
     - In Defense of Intuition
     - Dealing with Ambiguity (the Tension between absolute morality, the basic human desire for absolutes, and multiple perspectives, uncertainty, etc.)
-    
+
     Noms de Plume
-    
+
     Newcomer's Guide to the Alt Right
-    
+
     Humorous Guide to the Left
-    
+
     How to Totally Destroy, Obliterate, and Annihilate the Left - A Cultural Crusader's Handbook
-    
+
     Ideas
-    
+
     Dead Souls-style take on U.S. (cf. Death of a Salesman)
-    
+
     Book on extreme specialization vs. well-roundedness (cf. Russian short story)
-    
+
     Novel on the seductions of fascism
-    
+
     Woman who is granted a wish to live a day in each culture
-    
+
     Allegory on intellectual hubris
-    
+
     Simple narration of everyday life
-    
+
     Stairical quest of a young fascist, in the style of Lord of the Rings with an anti-climax / surprise twist (forced to mingle with blacks, discovers their humanity / tortured by his own conscience)
-    
+
     Satire of international relations and conflict with gorillas, rats, or some other animals (to illustrate vanity of it all - "Gorillas")
-    
+
     Pious fool, unable to see evil in people, becomes a political actor and rationalizes the actions of others.
-    
+
     Same political scandals translated to other times and cultures to illustrate constant threads in human nature
-    
+
     Bildungsroman about crony capitalism and corruption, showing the moral corruption of a young man
-    
+
     Split-personality Jesus - the struggles of a deity trying to be all things to all people
-    
+
     "It's not easy being Allah" - parody of the struggles of the Muslim God (or Allah decides to retire and has a young Muslim ideologue take his place)
-    
+
     Faith and Doubt in the LDS Experience
-    
+
     Story about a young man's LDS faith crisis
-    
+
     Book on contingencies in life and alternative outcomes
-    
+
     Unity in the faith - humorous allegory of a group of people (cult?) who found their own society and inadvertantly re-create Christian history in the modern world
-    
+
     Same as above, but for Muslims (and possibly one for Jews, Buddhists, Hindus, etc.)
-    
+
     A Day in the Life of Mormon Jesus
-    
+
     Hypothetical novel about an anarcho-syndicalist group (as realistic as possible)
-    
+
     Guantanamo from the torturer's perspective - a study of how good people become bad and rationalize heinous acts
-    
+
     Purity - how the concept influences culture (sexuality, race, ideology, etc.) - "The Impurities of Purity"
-    
+
     Making Sense of the Elephant - reflections on capitalism from different perspectives
-    
+
     Satirical take on Ayn Rand
-    
+
     Humorous take on "utopia" without religions, or of different people's utopias
-    
+
     Something loosely based on ecclesiastes
-    
+
     The Problem of Evil from God's perspective
-    
+
     Two Days in the Life of God (1000 years  - use as epigraph a quote on this) - the last 1000 years of history (esp. religious) from the Christian God's, with a special focus on intervention and the Problem of Evil
-    
+
     One Day as a Libertarian - ethical dilemmas that arise when a robot is programmed only to care about maximising freedom
-    
+
     Short stories on ethical dilemmas
-    
+
     "Liberal" dystopia / "Patchwork" - dystopia drawing from the worst aspect of all political ideologies
-    
+
     Modern world where medieval superstitions are reality
-    
+
     Everyday life in the middle ages - psychological portraits
-    
+
     Jesus and Allah go to mount Olympus
-    
+
     Conference of the Gods
-    
+
     Davos for Deities
-    
+
 * Webseite-Ideen
     - Resumé
     - Kurze Biografie
@@ -2018,39 +2018,39 @@ make a test schedule for languages, ideas, formulas, etc
     - Gardening
     - Lieblingsseiten
     - Blogroll
-    
+
     %Partidas:
-    
+
     Biogr’afia, todo sobre m’i
-    
+
     Enlaces a otros sitios personales
-    
+
     Familia
-    
+
     F’e
-    
+
     Fotografias
-    
+
     Pensamientos
-    
+
     Blog
-    
+
     Otras escrituras
-    
+
     TrabajoCV
-    
+
     Investigaci’on
-    
+
     Enlaces y recursos
-    
+
     Noticias, medias (?), videos
-    
+
 
 
 * Alternatives to Reddit
-    
+
     Here are some alternatives to Reddit:
-    
+
     1. Voat: Voat is a community-run platform that operates similarly to Reddit, allowing users to create and participate in discussions on a wide range of topics.
     2. Hacker News: Hacker News is a news aggregator and discussion platform that focuses on technology and startup-related news and discussions.
     3. SaidIt: SaidIt is a Reddit-like platform that focuses on free speech and open discussion, while also taking steps to reduce hate speech and abusive behavior.
@@ -2061,7 +2061,7 @@ make a test schedule for languages, ideas, formulas, etc
     8. Tildes: Tildes is a community-driven platform that focuses on fostering intelligent and engaging discussions on a wide range of topics, from politics to technology and beyond.
 * Pensadores importantes
         * [Columnistas de PS](https://docs.google.com/spreadsheets/d/1j5vfA-_DOAUiSjub6FCqMgwnQWVEZ4waXyrwWoQJulU/edit#gid=774566759)
-    
+
 * Sitios generales sobre ideas
         * [http://wikipedia.org](http://wikipedia.org/)
         * [https://www.wikiwand.com](https://www.wikiwand.com/)
@@ -2077,7 +2077,7 @@ make a test schedule for languages, ideas, formulas, etc
         * http://dovidka.biz.ua/
         * [Gazette littéraire - Journal créé en 2009 autour du désir de voyager au travers des livres.](http://www.gazettelitteraire.com/)
         * [LEXILOGOS - Dictionnaires, Cartes, Documents en ligne - Langues &amp; Pays](https://www.lexilogos.com/index.htm)
-    
+
     - ****Sites web recommandés
         * https://openmindplatform.org/app-user/#_=_
         * [List of online encyclopedias - Wikipedia](https://en.wikipedia.org/wiki/List_of_online_encyclopedias)
@@ -2302,7 +2302,7 @@ make a test schedule for languages, ideas, formulas, etc
         * [Vinduet](http://www.vinduet.no/)
         * [Διαδραστικά Σχολικά Βιβλία](http://ebooks.edu.gr/new/)
         * [Writers Unlimited | Writers Unlimited](http://www.writersunlimited.nl/en)
-    
+
     ***Free eLibrary &quot;Original&quot; | Бесплатная библиотека &quot;Оригинал&quot;. Классическая литература на языке оригинала и переводы на иностранные языки
         * https://tululu.org/
         * [Atramenta](https://www.atramenta.net/)
@@ -2323,7 +2323,7 @@ make a test schedule for languages, ideas, formulas, etc
         * https://arzamas.academy/
         * https://limeokapi.wordpress.com/page/2/
         * http://www.ellenwinner.com/
-    
+
     *** http://philosophybites.com/
         * http://www.webdianoia.com/glosario/display.php?action=view&id=56&from=action=search%7Cby=C
         * [Лайфхакер - Жизнь несовершенна. Исправь это!](http://lifehacker.ru/)
@@ -2371,13 +2371,13 @@ make a test schedule for languages, ideas, formulas, etc
         * [Danska - Skolbok](http://www.grundskoleboken.se/wiki/Danska)
         * [Store norske leksikon](https://snl.no/)
         * https://pen-international.org/fr/
-    
+
 * Research Resources
         * https://arxiv.org/
         * https://arxiv-sanity-lite.com/
         * [http://www.arxiv-sanity.com](http://www.arxiv-sanity.com/)
         * https://sci-hub.se/
-    
+
 * Enciclopedias
         * [Encyclopedia.com | Free Online Encyclopedia](http://www.encyclopedia.com/)
         * [Wolfram|Alpha: Computational Knowledge Engine](http://www.wolframalpha.com/)
@@ -2436,7 +2436,7 @@ make a test schedule for languages, ideas, formulas, etc
         * [Энциклопедия Кругосвет | Универсальная научно-популярная онлайн-энциклопедия](http://www.krugosvet.ru/)
         * [Encyklopedia PWN - źródło wiarygodnej i rzetelnej wiedzy](http://encyklopedia.pwn.pl/)
         * [Encyklopedia Internautica w Interia.pl – internetowa encyklopedia powszechna - Encyklopedia w INTERIA.PL](https://www.encyklopedia.interia.pl/)
-    
+
     - Zapytaj.onet.pl -
         * [Portada » Enciclonet.com](http://www.enciclonet.com/)
         * [Rječnik filozofskih pojmova – Filozofija.org](https://www.filozofija.org/rjecnik-filozofskih-pojmova/)
@@ -2504,11 +2504,11 @@ make a test schedule for languages, ideas, formulas, etc
         * [Энциклопедия Кругосвет | Универсальная научно-популярная онлайн-энциклопедия](http://www.krugosvet.ru/)
         * [Encyklopedia PWN - źródło wiarygodnej i rzetelnej wiedzy](http://encyklopedia.pwn.pl/)
         * [Encyklopedia Internautica w Interia.pl – internetowa encyklopedia powszechna - Encyklopedia w INTERIA.PL](https://www.encyklopedia.interia.pl/)
-    
+
     - Zapytaj.onet.pl -
         * [Portada » Enciclonet.com](http://www.enciclonet.com/)
         * [Rječnik filozofskih pojmova – Filozofija.org](https://www.filozofija.org/rjecnik-filozofskih-pojmova/)
-    
+
 * Preguntas y respuestas
         * http://stackexchange.com/sites
         * https://www.quora.com/
@@ -2530,7 +2530,7 @@ make a test schedule for languages, ideas, formulas, etc
         * https://es.quora.com/
         * http://www.muyinteresante.com.mx/preguntas-y-respuestas/
         * https://br.answers.yahoo.com/
-    
+
 * Cómo hacer
         * [wikiHow Sitemap](http://ru.wikihow.com/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Sitemap)
         * [wikiHow - Il Manuale del "Come si Fa" a cui Tutti Possono Contribuire](http://www.wikihow.it/Pagina-principale)
@@ -2548,7 +2548,7 @@ make a test schedule for languages, ideas, formulas, etc
         * [Come fare | superEva](http://www.supereva.it/come-fare/)
         * [Come Fare: curiosità e consigli utili fai da te!](http://comefare.com/)
         * [Comment faire !](http://www.comment-faire.fr/)
-    
+
 * Instrucción
         * http://www.openculture.com/
         * http://prometheus.org.ua/
@@ -2575,7 +2575,7 @@ make a test schedule for languages, ideas, formulas, etc
         * [Gaudio](http://www.gaudio.org/)
         * [Jonah Lehrer](http://www.jonahlehrer.com/)
         * https://learn.saylor.org/?redirect=0
-    
+
 * Sitios de contenido
         * https://www.pinterest.com/
         * http://www.wikivisually.com/lang-uk
@@ -2601,7 +2601,7 @@ make a test schedule for languages, ideas, formulas, etc
         * http://ankisrs.net/docs/manual.html
         * http://www.freebyte.com/
         * https://archive.org/index.php
-    
+
 * Rede y enlaces
         * http://alexa.com/
         * http://www.liveinternet.ru/
@@ -2619,14 +2619,14 @@ make a test schedule for languages, ideas, formulas, etc
         * [disserCat — электронная библиотека диссертаций и авторефератов, современная наука РФ, более 750 тысяч полных научных текстов](http://www.dissercat.com/)
         * [DNB, Katalog der Deutschen Nationalbibliothek](https://portal.dnb.de/opac.htm?method=simpleSearch&query=120338289)
         * [Encyclopédie Wikimonde](https://wikimonde.com/)
-    
+
 * Vídeo
         * http://events.fora.tv/partners
         * http://www.howcast.com/
         * https://www.fronteiras.com/
         * [Dokus](https://www.youtube.com/channel/UC23kvmGlwarpZnMgcnLLyfQ)
         * [Applet Magic](http://www.applet-magic.com/newpages.htm)
-    
+
 * Tools
         * https://www.techdevos.com/best-text-to-speech-software/
         * https://obsidian.md/
@@ -2634,7 +2634,7 @@ make a test schedule for languages, ideas, formulas, etc
         * https://blush.design/
         * https://www.whatruns.com/
         * https://untools.co/
-    
+
 * Bibliotecas
         * https://libren.org/
         * http://www.worldcat.org/
@@ -2660,10 +2660,10 @@ make a test schedule for languages, ideas, formulas, etc
         * [Biblioteca Virtual Miguel de Cervantes](http://www.cervantesvirtual.com/)
         * [Library Genesis](http://libgen.io/)
         * https://issuu.com/
-    
+
     *** Serial Books &amp; Magazines
         * [11 páginas con audiolibros en italiano | En Italiano](http://www.enitaliano.com/2015/09/audiolibros-en-italiano.html)
-    
+
 * Clubes de libros
         * [Il Club dei Libri » Il Blog](http://www.ilclubdeilibri.com/il-blog/)
         * [Clube dos Livros](http://www.clubedoslivros.pt/)
@@ -2698,7 +2698,7 @@ make a test schedule for languages, ideas, formulas, etc
         * [Pensador](https://www.pensador.com/)
         * https://fs.blog/
         * [Biblioteca digital mundial](https://www.wdl.org/es/)
-    
+
 * Referencias y libros
         * https://degreed.com/iriley/dashboard#/feed
         * https://www.merlot.org/merlot/index.htm
@@ -2718,7 +2718,7 @@ make a test schedule for languages, ideas, formulas, etc
         * http://www.schule-bw.de/unterricht/faecher/
         * http://globaltext.terry.uga.edu/booklist?cat=title
         * https://all.alleng.me/
-    
+
 * Otros sitios
         * http://window.edu.ru/
         * http://school-collection.edu.ru/
@@ -2757,7 +2757,7 @@ make a test schedule for languages, ideas, formulas, etc
         * [Электронная библиотека Библиотекарь.Ру - книги, учебники, альбомы по истории, искусству, культуре, медицине, религии](http://www.bibliotekar.ru/index.htm)
         * [Электронная библиотека студента - Библиофонд!](https://bibliofond.ru/)
         * [Chemgapedia](http://www.chemgapedia.de/vsengine/de/index.html)
-    
+
     ***Pop Culture Detective - YouTube - YouTube
         * [Brève encyclopédie du monde : podcast et réécoute sur France Culture](https://www.franceculture.fr/emissions/breve-encyclopedie-du-monde)
         * [Very Bad Wizards](https://verybadwizards.fireside.fm/)
@@ -2770,7 +2770,7 @@ make a test schedule for languages, ideas, formulas, etc
         * [百度知道 - 全球最大中文互动问答平台](https://zhidao.baidu.com/)
         * [Makeright / Профессионально рассказываем о бизнес-книгах / Ключевые идеи из лучших книг жанра нон-фикшн](https://makeright.ru/)
         * [Book reviews: Find the best new books](https://www.bookbrowse.com/)
-    
+
     ***Abooks.zone - первый аудиокнижный с бесплатным скачиванием
         * https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=de
         * http://texts.news/
@@ -2783,10 +2783,10 @@ make a test schedule for languages, ideas, formulas, etc
         * http://fr.mapsofworld.com/world-atlas/
         * http://www.worldatlas.com/
         * https://www.lektorium.tv/mooc
-    
+
 * Great Past Articles
         * [Nature Versus Nurture? Add ‘Noise’ to the Debate. | Quanta Magazine](https://www.quantamagazine.org/nature-versus-nurture-add-noise-to-the-debate-20200323/)
-    
+
 * Pensadores
         * http://ideas.time.com/2013/12/10/whos-biggest-the-100-most-significant-figures-in-history/
         * http://pantheon.media.mit.edu/rankings/people/all/all/-3000/2010/25
@@ -2828,226 +2828,226 @@ make a test schedule for languages, ideas, formulas, etc
         * https://www.letemps.ch/monde/2016/05/27/ny-plus-grands-penseurs-france
         * https://www.lejdd.fr/Culture/Les-nouveaux-intellectuels-du-XXIe-siecle-160182-3098765
         * https://www.letemps.ch/monde/2016/05/27/ny-plus-grands-penseurs-france
-    
+
     Ai Weiwei
-    
+
     Alain Finkielkraut
-    
+
     Alexander Gauland
-    
+
     Alma Guillermoprieto
-    
+
     Amr Khaled,
-    
+
     Andrei Lankov
-    
+
     Ashis Nandy
-    
+
     Carmen Yulín Cruz
-    
+
     Daniel Friedman
-    
+
     Elena Milashina
-    
+
     Enrique Krauze
         * [Facebook saved](https://www.facebook.com/saved/?cref=28)
-    
+
     Fan Gang
-    
+
     Fernando Henrique Cardoso
-    
+
     Frank Schätzing
         * [georges duby](https://libgen.is/search.php?&req=georges+duby&phrase=1&view=simple&column=def&sort=language&sortmode=ASC)
-    
+
     ger groot
-    
+
     Gianni Riotta
-    
+
     golineh atai
-    
+
     Guy Verhofstadt
-    
+
     Haider Al-Abadi
-    
+
     Hamed Sinno
-    
+
     Hu Shuli
-    
+
     Ian Buruma
-    
+
     Jacques Attali
         * [Juventus, logo drama - Les Cahiers du football](http://www.cahiersdufootball.net/article-juventus-logo-drama-6537)
-    
+
     Lilia Shevtsova
-    
+
     Ma Baoli
         * [Maastricht](https://www.facebook.com/groups/279472675583089/901227126740971/)
-    
+
     Margrete Vestager
-    
+
     Maria Eugenia Vidal
-    
+
     marshall mcluhan
-    
+
     Minxin Pei
-    
+
     Nouriel Roubini
-    
+
     Olivier Roy
-    
+
     Pedro Kumamoto
-    
+
     Rem Koolhaas
-    
+
     Rodrigo Lodoño
-    
+
     Sari Nusseibeh
-    
+
     Sergio Moro
-    
+
     Sunita Narain
-    
+
     Thérèse Delpech
-    
+
     Thomas Friedman
-    
+
     Vian Dakhil
-    
+
     Wang Hui
-    
+
     Yan Xuetong
-    
+
     Yegor Gaidar
         * [Youssef al-Qaradâwî — Wikipédia](https://fr.wikipedia.org/wiki/Youssef_al-Qarad%C3%A2w%C3%AE)
-    
+
     Yusuf al-Qaradawi
-    
+
     Bjørn Lomborg
-    
+
     Catherine Deneuve - Ecosia
-    
+
     Catherine Millet - Ecosia
-    
+
     Duncan Foley
         * [Eduardo Garcia Moran](https://www.facebook.com/groups/279472675583089/850471148483236/)
-    
+
     Anima Anandkumar
-    
+
     Alexei Efros
         * [Toussaint Site](https://www.user.tu-berlin.de/mtoussai/teaching/index.html)
-    
+
     Sharon Zhou
         * [Thomas Kainrad](https://tkainrad.dev/)
         * [Stefan Riezler (StatNLP Heidelberg)](https://www.cl.uni-heidelberg.de/statnlpgroup/members/riezler/)
-    
+
     Lucio Caracciolo
-    
+
     Douglas Rushkoff
-    
+
     Paul Ricoeur
-    
+
     Nick Land
-    
+
     srecko horvat
-    
+
     Alfred Grosser
-    
+
     Ranga Yogeshwar
-    
+
     Ross Douthat
-    
+
     Walter Kim
-    
+
     Gordon Tullock
-    
+
     Olson (economist?)
-    
+
     William A. Niskanen
-    
+
     James Watt
-    
+
     Caspar Weinberger
-    
+
     Leo Strauss
-    
+
     Kenneth Arrow
-    
+
     John Muth
-    
+
     Bruno Frey
-    
+
     Arthur Okun
-    
+
     Paul Samuelson
-    
+
     William Nordhaus
-    
+
     James Tobin
-    
+
     Paul Volcker
-    
+
     Beryl Sprinkel
-    
+
     Martin Feldstein
-    
+
     Michael Boskin
-    
+
     Alan Blinder
-    
+
     Lawrence Summers
-    
+
     Herbert Stein
-    
+
     Arthur Laffer
-    
+
     James M. Buchanan
-    
+
     Knut Wicksell
-    
+
     Walras Jevons
-    
+
     Menger
-    
+
     Smith
-    
+
     Ricardo
-    
+
     Keynes
-    
+
     Ronald coase
-    
+
     M. Friedman
-    
+
     Marchall
-    
+
     Geoffrey Meeks
-    
+
     S. Harr Hinsley
-    
+
     Michael Moohr
-    
+
     Douglas Sturm
-    
+
     Pierro Straffa
-    
+
     Michael Kalecki
-    
+
     Joan Robinson
-    
+
     Modigliani
-    
+
     Hyman Rickover
-    
+
     Henry Sidgwick
-    
+
     Learned Hand
-    
+
     Samuel Goldwin
-    
+
     Erving Fisher
-    
+
     Anna J. Schwarz
-    
+
 * YouTube Channels
         * [The Biggest Ideas in the Universe!](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX)
         * [The Mechanic Shark Channel (entertainment)](https://www.youtube.com/c/TheMechanicSharkChannel)
@@ -3291,19 +3291,19 @@ make a test schedule for languages, ideas, formulas, etc
         * [librairie mollat](https://www.youtube.com/user/LibrairieMollat)
         * [Freeman Dyson - Why I don't like the PhD system (95/157)](https://www.youtube.com/watch?v=DzC1IRYN_Ps&list=WL&index=384)
         * [Eric Weinstein: Revolutionary Ideas in Science, Math, and Society | Lex Fridman Podcast #16](https://www.youtube.com/watch?v=2wq9x2QcZN0&list=WL&index=515)
-    
+
     How learning German taught me the link between maths and poetry | Larry Baker | TEDxVienna
-    
+
     Pop Science And The Limitations Of Infotainment
         * [On the Relationship Between Science and Humanities, John Gray](https://www.youtube.com/watch?v=USaB-sV_-qY&list=WL&index=87)
         * [Die besten Bücher die dir niemand empfiehlt](https://www.youtube.com/watch?v=anfosC4G1DM&list=WL&index=1478)
         * [Richard Feynman - The World from another point of view](https://www.youtube.com/watch?v=GNhlNSLQAFE&list=WL&index=99)
-    
+
     The Toolbox Fallacy
         * [Preguntas de las que Nadie tiene las Respuestas (Versión completa)](https://www.youtube.com/watch?v=7SWvDHvWXok&list=WL&index=161)
         * [Rolf Dobelli in der ARD-Talkshow Sendung DAS!](https://www.youtube.com/watch?v=GVUJRX2ndxw&list=WL&index=89)
         * [ФАЛТ МФТИ](https://www.youtube.com/c/%D0%A4%D0%90%D0%9B%D0%A2%D0%9C%D0%A4%D0%A2%D0%98)
-    
+
 * Very Short Introduction
         * [Abolitionism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190213220.001.0001/actrade-9780190213220?rskey=0xxw4L&result=1)
         * [The Abrahamic Religions: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780190654344.001.0001/actrade-9780190654344?rskey=0xxw4L&result=2)
@@ -3990,565 +3990,565 @@ make a test schedule for languages, ideas, formulas, etc
         * [World War II: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199688777.001.0001/actrade-9780199688777?rskey=Vsh5u4&result=683)
         * [Writing and Script: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199567782.001.0001/actrade-9780199567782?rskey=Vsh5u4&result=684)
         * [Zionism: A Very Short Introduction](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199766048.001.0001/actrade-9780199766048?rskey=Vsh5u4&result=685)
-    
+
 * Lectura de noticias
     - 0
-        
+
         * [ProQuest Newsstand](http://www.provolibrary.com/a-z-resources-list/47859-proquest-newsstand)
-        
+
         * [Global Voices](https://es.globalvoices.org/)
-        
+
         * [SBS](http://www.sbs.com.au/podcasts/yourlanguage/)
-        
+
         * [Eurozine](http://www.eurozine.com/)
-        
+
         * [Vice](http://www.vice.com/it)
-        
+
         * [Stopfake](http://www.stopfake.org/fr/accueil/)
-        
+
         * [Swissinfo](http://www.swissinfo.ch/)
-        
+
         * [Cafebabel](http://www.cafebabel.it/)
-        
+
         * [Forbes](http://www.forbes.ru/)
-        
+
         * [EUFeeds](http://www.eufeeds.eu/index.php/it)
-        
+
         * [Eurotopics](http://www.eurotopics.net/de/home/presseschau/aktuell.html)
-        
+
         * [PS](https://www.project-syndicate.org/)
-        
+
         * [Euronews](http://ru.euronews.com/)
-        
+
         * [AFP](https://www.afp.com/fr)
-        
+
         * [LMD](http://www.monde-diplomatique.fr/diplo/int/)
-        
+
         * [Reuters](http://fr.reuters.com/)
-        
+
         * [Newsmap](http://newsmap.jp/#/b,e,m,n,s,t,w//view/)
-        
+
         * [Sputnik](https://it.sputniknews.com/)
-        
+
         * [Global Citizen](https://www.globalcitizen.org/fr/)
-        
+
         * [Vox Europ](http://www.voxeurop.eu/fr)
-        
+
         * [MEMRI](http://www2.memri.org/german/languages.html)
-        
+
         * [People's Daily](http://french.peopledaily.com.cn/)
-        
+
         * [Euractiv](https://www.euractiv.com/)
-        
+
         * [Goal](http://www.goal.com/nl?ICID=HP)
-        
+
         * [Translate the News](https://translatethe.news/)
-        
+
         * [Google Newsstand](https://newsstand.google.com/)
-        
+
         * [Google News](https://news.google.com/)
-        
+
         * [Newscron](http://www.newscron.com/)
-        
+
         * [CCTV](http://english.cctv.com/)
-        
+
         * [RT](https://www.rt.com/)
-        
+
         * [EN Radio](http://www.euronewsradio.com/?l=es)
-        
+
         * [DW](http://www.dw.com/)
-        
+
         * [Обозреавтель](https://www.obozrevatel.com/)
-        
+
         * [VoA](https://ukrainian.voanews.com/navigation/allsites)
-        
+
         * [Радио Свобода](https://www.svoboda.org/navigation/allsites)
-        
+
     - 16
-        
+
         * [NRK](https://www.nrk.no/)
-        
+
         * [Dagbladet](http://www.dagbladet.no/)
-        
+
         * [Aftenposten](http://www.aftenposten.no/)
-        
+
         * [Morgenbladet](https://morgenbladet.no/)
-        
+
         * [SVT](https://www.svt.se/nyheter/)
-        
+
         * [SR](http://sverigesradio.se/)
-        
+
         * [Svenska Dagbladet](https://www.svd.se/)
-        
+
         * [Metro](https://www.metro.se/)
-        
+
         * [DR](http://www.dr.dk/)
-        
+
         * [Politiken](http://politiken.dk/)
-        
+
         * [Berlingske](https://www.b.dk/)
-        
+
         * [Kristeligt Dagblad](https://www.kristeligt-dagblad.dk/)
-        
+
     - 15
-        
+
         * [Wyborcza](http://wyborcza.pl/0,0.html?disableRedirects=true)
-        
+
         * [Gazeta](http://www.gazeta.pl/0,0.html)
-        
+
         * [Na Temat](http://natemat.pl/)
-        
+
         * [Newsweek PL](http://www.newsweek.pl/)
-        
+
     - 14
-        
+
         * [NRC](https://www.nrc.nl/)
-        
+
         * [Vpro](https://www.vpro.nl/)
-        
+
         * [Volkskrant](http://www.volkskrant.nl/)
-        
+
         * [Vrij Nederland](https://www.vn.nl/)
-        
+
         * [Elsevier](http://www.elsevierweekblad.nl/)
-        
+
     - 13
-        
+
         * [LMD](https://lemondediplomatique.hr/)
-        
+
         * [Aljazeera Balkans](http://balkans.aljazeera.net/)
-        
+
         * [Novosti](http://novosti.hr/)
-        
+
         * [Portal Novosti](http://www.portalnovosti.com/)
-        
+
         * [HRT](http://www.hrt.hr/)
-        
+
         * [Slobodna Evropa](https://www.slobodnaevropa.org/z/506)
-        
+
         * [Express](https://www.express.hr/)
-        
+
         * [Vecernji](https://www.vecernji.hr/)
-        
+
         * [Telegraf](http://www.telegraf.rs/)
-        
+
         * [Index](http://index.hr/)
-        
+
     - 12
-        
+
         * [Akropolis World News](http://www.akwn.net/)
-        
+
     - 11/12
-        
+
         * [Ephemeris](http://ephemeris.alcuinus.net/)
-        
+
     - 11
-        
+
         * [YLE](http://areena.yle.fi/1-1931339)
-        
+
         * [RB Latein](http://www.radiobremen.de/nachrichten/latein/latein-startseite100.html)
-        
+
     - 10
                 * http://www.taipeitimes.com/News/lang
-        
+
         * [RFI ZH](http://cn.rfi.fr/)
-        
+
         * [Chinese Tools - News](http://www.chinese-tools.com/news)
-        
+
         * [People's Daily (multi)](http://www.people.com.cn/)
-        
+
         * [News in Chinese](http://www.popupchinese.com/tools/newsinchinese)
-        
+
         * [Chinesisch mit Nachrichten](http://www.new-chinese.org/chinesische-nachrichten.html)
-        
+
     - 9
-        
+
         * [الجزيرة](http://www.aljazeera.net/portal)
-        
+
         * [الأوسط](http://aawsat.com/)
-        
+
         * [الخليج](http://www.alkhaleej.ae/portal)
-        
+
         * [CNN AR](http://arabic.cnn.com/)
-        
+
         * [BBC AR](http://www.bbc.com/arabic)
-        
+
         * [العربي](http://alarabi.media.gov.kw/)
-        
+
         * [الاخبار](http://www.al-akhbar.com/)
-        
+
         * [الحدود](http://www.alhudood.net/)
-        
+
         * [ن بوست](https://www.noonpost.org/)
-        
+
     - 8
-        
+
         * [Lercio](http://www.lercio.it/)
-        
+
         * [Limes](http://www.limesonline.com/)
-        
+
         * [Radio Vaticana](http://it.radiovaticana.va/)
-        
+
         * [Radio24](http://www.radio24.ilsole24ore.com/)
-        
+
         * [Il Giornale](http://www.ilgiornale.it/)
-        
+
         * [Il Post](http://www.ilpost.it/)
-        
+
         * [Striscia la Notizia](http://www.striscialanotizia.mediaset.it/)
-        
+
         * [Soppre Satira](http://soppressatira.it/)
-        
+
         * [Prugna](http://www.prugna.net/)
-        
+
         * [RAI](http://www.rai.it/)
-        
+
         * [Play RSI](http://www.raiplay.it/)
-        
+
         * [RSI](http://www.rsi.ch/)
-        
+
         * [Quotidiano](http://www.quotidiano.net/)
-        
+
         * [Gazzetta dello Sport](https://www.gazzetta.it/)
-        
+
     - 7
-        
+
         * [Veja](http://veja.abril.com.br/)
-        
+
         * [Isto é](http://www.istoe.com.br/capa)
-        
+
         * [Intercept BR](https://theintercept.com/brasil/)
-        
+
         * [Exame](http://exame.abril.com.br/)
-        
+
         * [O Globo](http://oglobo.globo.com/)
-        
+
         * [Folha UOL](http://www.folha.uol.com.br/)
-        
+
         * [Revista Galileu](http://revistagalileu.globo.com/)
-        
+
         * [Revista Piauí](http://revistapiaui.estadao.com.br/)
-        
+
         * [WSJ BR](http://br.wsj.com/home-page)
-        
+
         * [Visão](http://visao.sapo.pt/)
-        
+
         * [Expresso](http://expresso.sapo.pt/economia/exame)
-        
+
         * [Notícias UOL](http://noticias.uol.com.br/ultimas)
-        
+
         * [Diário Pernambucano](http://www.diariopernambucano.com.br/)
-        
+
         * [LMD BR](http://www.monde-diplomatique.fr/diplo/int/#Br%C3%A9sil)
-        
+
         * [RTP](http://www.rtp.pt/)
-        
+
         * [globo](http://www.globo.com/)
-        
+
         * [UOL](https://www.uol.com.br/)
-        
+
     - 6
-        
+
         * [WSJ ES](http://online.wsj.com/public/page/espanol-inicio.html)
-        
+
         * [Democracy Now! ES](https://www.democracynow.org/es)
-        
+
         * [Europa Press](https://www.youtube.com/channel/UCh_chnQ7OJPQ8mZ7vbXFpIQ)
-        
+
         * [LMD ES](http://www.mondiplo.net/epages/eb8018.sf/es_ES/?ObjectPath=/Shops/eb8018/Categories/Nuestras_publicaciones/Atlas)
-        
+
         * [El Mundo](http://www.elmundo.es/)
-        
+
         * [El País](http://elpais.com/elpais/portada_america.html)
-        
+
         * [El Universal](http://www.eluniversal.com.mx/)
-        
+
         * [El Nuevo Herald](http://www.elnuevoherald.com/)
-        
+
         * [NYT ES](http://www.nytimes.com/es/)
-        
+
         * [El Nuevo Día](http://www.elnuevodia.com/)
-        
+
         * [La Opinión](http://www.laopinion.com/)
-        
+
         * [Detector de Mentiras](http://especiales.univision.com/detector-de-mentiras/)
-        
+
         * [The Clinic](http://www.theclinic.cl/)
-        
+
         * [El Jueves](http://www.eljueves.es/)
-        
+
         * [Europa Press](http://www.europapress.es/)
-        
+
         * [Revista Barcelona](https://revisbarcelona.com/)
-        
+
         * [Letras Libres](http://www.letraslibres.com/)
-        
+
         * [Babelia](http://cultura.elpais.com/cultura/babelia.html)
-        
+
         * [RTVE](http://www.rtve.es/)
-        
+
         * [RNE](http://www.rtve.es/radio/)
-        
+
         24H Diretos
-        
+
     - 5
-        
+
         * [Jeune Afrique](http://www.jeuneafrique.com/)
-        
+
         * [Courier International](http://www.courrierinternational.com/)
-        
+
         * [Atlantico](http://atlantico.fr/)
-        
+
         * [The Conversation FR](https://theconversation.com/fr)
-        
+
         * [Le Figaro](http://www.lefigaro.fr/)
-        
+
         * [Slate FR](http://www.slate.fr/#)
-        
+
         * [Slate Afrique](http://www.slateafrique.com/)
-        
+
         * [Charlie Hebdo](https://charliehebdo.fr/)
-        
+
         * [Le Gorafi](http://www.legorafi.fr/)
-        
+
         * [LMD](http://www.monde-diplomatique.fr/)
-        
+
         * [Philitt](http://philitt.fr/)
-        
+
         * [France24](http://www.france24.com/fr/)
-        
+
         * [FranceInfo](http://www.francetvinfo.fr/)
-        
+
         * [Radio France](http://www.radiofrance.fr/)
-        
+
         * [RTS Info](https://www.rts.ch/)
-        
+
         * [Play RTS](https://www.rts.ch/play/tv)
-        
+
         * [myCanal+](http://www.canalplus.fr/)
-        
+
         * [LCI](http://www.lci.fr/)
-        
+
         * [Canal5](http://www.tv5monde.com/)
-        
+
     - 4
-        
+
         * [ВІСТКАР](https://www.vistkar.com/)
-        
+
         * [ГРОМАДСЬКЕ](https://hromadske.ua/)
-        
+
         * [Зрада](http://zrada.today/)
-        
+
         * [Інозмі](https://inozmi.wordpress.com/)
-        
+
         * [ТСН](https://tsn.ua/)
-        
+
         * [Тиждень](http://tyzhden.ua/)
-        
+
         * [Депо](http://www.depo.ua/)
-        
+
         * [УНІАН](http://www.unian.ua/)
-        
+
         * [День](http://www.day.kiev.ua/uk)
-        
+
         * [BBC UA](http://www.bbc.com/ukrainian)
-        
+
         * [Insider](http://www.theinsider.ua/)
-        
+
         * [Інформаційний Акцент](http://www.akcent.org.ua/)
-        
+
         * [Media Sapiens](http://osvita.mediasapiens.ua/)
-        
+
         * [PravdaUA](http://www.pravda.com.ua/)
-        
+
         * [Zaxid](https://zaxid.net/)
-        
+
         * [Korrespondent](https://ua.korrespondent.net/)
-        
+
         * [Радіо24](https://maximum.fm/)
-        
+
     - 3
-        
+
         * [FAZ](http://www.faz.net/)
-        
+
         * [NZZ](http://www.nzz.ch/)
-        
+
         * [Zeit](http://www.zeit.de/index)
-        
+
         * [SZ](http://www.sueddeutsche.de/)
-        
+
         * [Spiegel](http://www.spiegel.de/)
-        
+
         * [Hintergrund](http://www.hintergrund.de/)
-        
+
         * [Asienzeitung](http://www.asienzeitung.com/)
-        
+
         * [Blätter](https://www.blaetter.de/)
-        
+
         * [Eulenspiegel](http://www.eulenspiegel-zeitschrift.de/index.php/auslese)
-        
+
         * [Focus](http://www.focus.de/)
-        
+
         * [Stern](http://www.stern.de/)
-        
+
         * [Cicero](http://www.cicero.de/)
-        
+
         * [Amerika 21](https://amerika21.de/)
-        
+
         * [Handelsblatt](http://www.handelsblatt.com/)
-        
+
         * [WIRED Germany](https://www.wired.de/)
-        
+
         * [Welt](http://www.welt.de/)
-        
+
         * [Brandeins](http://www.brandeins.de/)
-        
+
         * [Satire Patzer](http://www.satirepatzer.de/)
-        
+
         * [Titanic](http://www.titanic-magazin.de/newsticker/)
-        
+
         * [Nebelspalter](http://www.nebelspalter.ch/)
-        
+
         * [BPB](http://www.bpb.de/)
-        
+
         * [Business Insider DE](http://www.businessinsider.de/?IR=C)
-        
+
         * [Der Postillon](http://www.der-postillon.com/)
-        
+
         * [Gegenworte](http://www.gegenworte.org/)
-        
+
         * [Das Magazin](https://www.dasmagazin.ch/)
-        
+
         * [Watson](http://watson.ch/)
-        
+
         News 360
-        
+
         Scope
-        
+
     - 2
-        
+
         * [Новая газета](http://www.novayagazeta.ru/)
-        
+
         * [Газета](http://www.gazeta.ru/)
-        
+
         * [Сноб](https://snob.ru/)
-        
+
         * [Дождь](https://tvrain.ru/)
-        
+
         * [Огонек](http://www.kommersant.ru/ogoniok)
-        
+
         * [Литературная газета](http://www.lgz.ru/)
-        
+
         * [Русский магазин](http://magazines.russ.ru/)
-        
+
         * [Иносми](http://inosmi.ru/)
-        
+
         * [Радио Маяк](http://radiomayak.ru/)
-        
+
         * [Эхо Москві](http://echo.msk.ru/news/)
-        
+
         * [ТАСС](http://tass.ru/)
-        
+
         * [Луганский Информационный Центр](http://lug-info.com/)
-        
+
         * [ДНР Новости](http://dnr-news.com/)
-        
+
         * [Известия](http://izvestia.ru/)
-        
+
         * [Медуза](https://meduza.io/)
-        
+
         * [Инопресса](http://www.inopressa.ru/)
-        
+
         * [Fog News](http://fognews.ru/)
-        
+
         * [Рамблер](https://www.rambler.ru/)
-        
+
         * [Лента](https://lenta.ru/)
-        
+
         * [РИА](https://ria.ru/)
-        
+
         * [NEWSru](https://www.newsru.com/)
-        
+
         * [1ый](http://www.1tv.ru/)
-        
+
         * [Ургант](http://www.1tv.ru/shows/vecherniy-urgant/vypuski)
-        
+
     - 1
-        
+
         * [Acculturated](http://acculturated.com/)
-        
+
         * [Economist](http://economist.com/)
-        
+
         * [Guardian](http://guardian.com/)
-        
+
         * [Quartz](http://qz.com/)
-        
+
         * [NYT Upshot](http://www.nytimes.com/section/upshot)
-        
+
         * [Transpartisan Review](http://www.transpartisanreview.com/)
-        
+
         * [Creators](https://www.creators.com/)
-        
+
         * [The Conversation US](http://theconversation.com/us)
-        
+
         * [Vox](http://www.vox.com/)
-        
+
         * [About News Issues](http://www.about.com/newsissues/)
-        
+
         * [Slate](http://www.slate.com/)
-        
+
         * [The World in](http://www.theworldin.com/)
-        
+
         * [Timeline](https://timeline.com/)
-        
+
         * [Fair](http://fair.org/)
-        
+
         * [Public Integrity](https://www.publicintegrity.org/)
-        
+
         * [Project Censored](http://www.projectcensored.org/)
-        
+
         * [Blacklisted News](http://www.blacklistednews.com/)
-        
+
         * [Chronikler](http://chronikler.com/)
-        
+
         * [Onion](http://www.theonion.com/)
-        
+
         * [Babylon Bee](http://babylonbee.com/)
-        
+
         * [Pan-Arabia Enquirer](http://www.panarabiaenquirer.com/)
-        
+
         * [Daily Mash](http://www.thedailymash.co.uk/)
-        
+
         * [Shovel](http://www.theshovel.com.au/)
-        
+
         * [Unreal Times](http://www.theunrealtimes.com/)
-        
+
         * [Our World in Data](https://ourworldindata.org/)
-        
+
         * [Independent](http://www.independent.co.uk/us)
-        
+
         * [Asia Times](http://atimes.com/)
-        
+
         * [Vocativ](http://www.vocativ.com/)
-        
+
         * [New Statesman](http://www.newstatesman.com/)
-        
+
         * [Highline](http://highline.huffingtonpost.com/)
-        
+
         * [Politico](http://www.politico.eu/)
-        
+
 * Writing
-    
+
     Writing
-    
+
     Book Idea: Linear Algebra: The Intuition Supplement
-    
+
     The Philosophy of Mormonism
-    
+
     The Case against Mormonism
-    
+
     Book: What should you know?
-    
+
 
 podcast Reply All
 

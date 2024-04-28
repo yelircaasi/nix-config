@@ -2,15 +2,16 @@
 
 * https://github.com/benlubas/molten-nvim/blob/main/docs/Notebook-Setup.md
 
-* https://jupyter-tutorial.readthedocs.io/de/latest/intro.html 
-* https://ipython.org/index.html 
-* https://jupyterbook.org/en/stable/intro.html# 
-* [dicussion on Discord](yeah that entire class was a mess. It's the reason that I "made" molten though, so I guess something good came out of it) 
+* https://jupyter-tutorial.readthedocs.io/de/latest/intro.html
+* https://ipython.org/index.html
+* https://jupyterbook.org/en/stable/intro.html#
+* [dicussion on Discord](yeah that entire class was a mess. It's the reason that I "made" molten though, so I guess something good came out of it)
 * [nvim screen capture](https://discord.com/channels/834325286664929280/877666474888675368/1232074272743096373)
 → [books](https://libgen.rs/search.php?&req=jupyter&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 * http://janakiev.com/blog/jupyter-virtual-envs/
-* https://en.m.wiktionary.org/wiki/Jupiter 
-
+* https://en.m.wiktionary.org/wiki/Jupiter
+ju * [tweag/jupyenv: Declarative and reproducible Jupyter environments - powered by Nix](https://github.com/tweag/jupyenv)
+juventas * [JupyterWith Next - Tweag](https://www.tweag.io/blog/2022-11-17-jupyter-with-next/)
 
 * Thunor
 * Phaethon
@@ -69,10 +70,10 @@ image rendering (wezterm and kitty)
 * > how to write a plugin in python and interact with lua
 
 make each cell its own buffer? keep separate code-only buffer for LSP?
-* https://chat.openai.com/c/fcf2129c-4772-4537-b029-d1e1fa1f276b 
+* https://chat.openai.com/c/fcf2129c-4772-4537-b029-d1e1fa1f276b
 * https://github.com/dccsillag/magma-nvim
 * https://github.com/luk400/vim-jukit
-* https://martibosch.github.io/jupyter-emacs-universe/ 
+* https://martibosch.github.io/jupyter-emacs-universe/
 * https://github.com/emacs-jupyter/jupyter
 * https://github.com/millejoh/emacs-ipython-notebook
 * https://millejoh.github.io/emacs-ipython-notebook/

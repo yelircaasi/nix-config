@@ -6,10 +6,10 @@ Next Steps
 * Operating Systems
 
 * PostmarketOS    * https://postmarketos.org/download/    * [https://wiki.postmarketos.org/wiki/QEMU_amd64_(qemu-amd64)](https://wiki.postmarketos.org/wiki/QEMU_amd64_(qemu-amd64))
-    * LineageOS        * https://lineageos.org/ 
-        * https://lineageos.org/ 
-        * https://wiki.lineageos.org/devices/FP4/install 
-        * https://wiki.lineageos.org/faq 
+    * LineageOS        * https://lineageos.org/
+        * https://lineageos.org/
+        * https://wiki.lineageos.org/devices/FP4/install
+        * https://wiki.lineageos.org/faq
         * https://www.androidauthority.com/lineageos-install-guide-893303/
     * [](https://e.foundation/e-os/)
     * [https://e.foundation/e-os/](https://e.foundation/e-os/) 

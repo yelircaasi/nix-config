@@ -1088,99 +1088,99 @@ A Closer Look at Gradients in Deep Learning
 - Matrix Types
 - squareness
 
-        
+
 - determinateness
 
-        
+
 - symmetry
 
-        
+
 - triangularity
 
-        
+
 - orthogonality
 
-        
+
 - normality
 
-        
+
 - permutation
 
-        
+
 - invertibility / singularity
 
-        
+
 - projection matrix
 
-        
+
 - adjunct matrix
 
-        
+
 - element-restricted matrices
 
-        
+
 - elementary matrix
 
-        
+
 - defective matrices
 
-        
+
 
 book - Book Idea: Mathematical Foundations of Natural Language Processing
 
 Main sources:
 
-        
+
 NLP:
 
-        
+
 Manning & Schütze
 
-        
+
 Jurafsky & Martin
 
-        
+
 Eisenstein
 
-        
+
 Computerlinguistik und Sprachtechnologie
 
-        
+
 Mathematical Methods in Linguistics
 
-        
+
 Math & Stats:
 
-        
+
 Casella & Berger
 
-        
+
 Bernstein
 
-        
+
 Hogben
 
-        
+
 Vialar
 
-        
+
 Aggarwal
 
-        
+
 Goodfellow et al.
 
-        
+
 Matrix Analysis
 
-        
+
 Gallier & Quaintance
 
-        
+
 Elements of Statistical Learning
 
-        
+
 - Guided Tour of Linear Algebra Proofs
-- 
+-
 
 ## Mathematisch-logische Grundlagen der Informatik:
 

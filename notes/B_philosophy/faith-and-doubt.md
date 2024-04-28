@@ -65,7 +65,7 @@ While polygamy and racism belong in the Social Issues category as well, I have d
 * Succession
 * Equivocations
 * Character and Actions of Church Leaders
-* 
+*
 * 3.2 Doctrinal and Theological Matters
 
 -The Problem of Evil

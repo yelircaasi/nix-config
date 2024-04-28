@@ -24,60 +24,60 @@ sudo sed -i 's/GRUB_CMDLINE_LINUX_DEFAULT=""/GRUB_CMDLINE_LINUX_DEFAULT="nvidia_
 sudo update-grub # sudo apt-install nvidia-driver-535
 sudo reboot
 
-sudo nala install -y build-essential \ 
-     cmake \ 
-     cmake-extras \ 
-     fontconfig \ 
-     gettext \ 
-     gettext-base \ 
-     glslang-tools \ 
-     hwdata \ 
-     libavcodec-dev \ 
-     libavformat-dev \ 
-     libavutil-dev \ 
-     libdrm-dev \ 
-     libegl-dev \ 
-     libegl1-mesa-dev \ 
-     libffi-dev \ 
-     libfontconfig-dev \ 
-     libgbm-dev \ 
-     libgles2 \ 
-     libgulkan-dev \ 
-     libinput-bin \ 
-     libinput-dev \ 
-     libliftoff-dev \ 
-     libpango1.0-dev \ 
-     libpixman-1-dev \ 
-     librsvg \ 
-     librsvg2-dev \ 
-     libseat-dev \ 
-     libtomlplusplus-dev \ 
-     libtomlplusplus3 \ 
-     libudev-dev \ 
-     libvkfft-dev \ 
-     libvulkan-dev \ 
-     libvulkan-volk-dev \ 
-     libxcb-composite0-dev \ 
-     libxcb-dri3-dev \ 
-     libxcb-ewmh-dev \ 
-     libxcb-ewmh2 \ 
-     libxcb-icccm4-dev \ 
-     libxcb-present-dev \ 
-     libxcb-render-util0-dev \ 
-     libxcb-res0-dev \ 
-     libxcb-util-dev \ 
-     libxcb-xinput-dev \ 
-     libxkbcommon-dev \ 
-     libxkbcommon-x11-dev \ 
-     libxkbregistry-dev \ 
-     libxml2-dev \ 
-     libzip-dev \ 
-     meson \ 
-     ninja-build \ 
-     seatd \ 
-     vulkan-validationlayers-dev \ 
-     wget \ 
-     xdg-desktop-portal-wlr \ 
+sudo nala install -y build-essential \
+     cmake \
+     cmake-extras \
+     fontconfig \
+     gettext \
+     gettext-base \
+     glslang-tools \
+     hwdata \
+     libavcodec-dev \
+     libavformat-dev \
+     libavutil-dev \
+     libdrm-dev \
+     libegl-dev \
+     libegl1-mesa-dev \
+     libffi-dev \
+     libfontconfig-dev \
+     libgbm-dev \
+     libgles2 \
+     libgulkan-dev \
+     libinput-bin \
+     libinput-dev \
+     libliftoff-dev \
+     libpango1.0-dev \
+     libpixman-1-dev \
+     librsvg \
+     librsvg2-dev \
+     libseat-dev \
+     libtomlplusplus-dev \
+     libtomlplusplus3 \
+     libudev-dev \
+     libvkfft-dev \
+     libvulkan-dev \
+     libvulkan-volk-dev \
+     libxcb-composite0-dev \
+     libxcb-dri3-dev \
+     libxcb-ewmh-dev \
+     libxcb-ewmh2 \
+     libxcb-icccm4-dev \
+     libxcb-present-dev \
+     libxcb-render-util0-dev \
+     libxcb-res0-dev \
+     libxcb-util-dev \
+     libxcb-xinput-dev \
+     libxkbcommon-dev \
+     libxkbcommon-x11-dev \
+     libxkbregistry-dev \
+     libxml2-dev \
+     libzip-dev \
+     meson \
+     ninja-build \
+     seatd \
+     vulkan-validationlayers-dev \
+     wget \
+     xdg-desktop-portal-wlr \
      xwayland
 
 mkdir HyprSource
@@ -106,7 +106,7 @@ wget https://gitlab.freedesktop.org/emersion/libdisplay-info/-/releases/0.1.1/do
 tar -xvJf libdisplay-info-0.1.1.tar.xz
 
 # build libdrm
-cd drm-libdrm-2.4.120 && meson builddir/ && sudo ninja -C builddir/ install 
+cd drm-libdrm-2.4.120 && meson builddir/ && sudo ninja -C builddir/ install
 
 # build wayland
 cd wayland-1.22.0 && mkdir build && cd build && meson setup .. --prefix=/usr --buildtype=release -Ddocumentation=false && ninja
@@ -154,17 +154,17 @@ sudo nala install wezterm
 
 ```
 
-Next steps: 
+Next steps:
 * [ ] write full install script from https://wiki.hyprland.org/Getting-Started/Installation/
   - [ ] add Nvidia fixes to script using sed, from [here](https://gist.github.com/Vertecedoc4545/07a9624924ac3e03ff0ab2d5e3616955#file-nvidia-partching-hyprland-ubuntu-md) and [here](https://gist.github.com/Vertecedoc4545/6e54487f07a1888b656b656c0cdd9764)
 
 * [ ] look into wezterm bug
-  - https://wezfurlong.org/wezterm/troubleshooting.html 
-  - https://wezfurlong.org/wezterm/config/lua/config/enable_wayland.html 
+  - https://wezfurlong.org/wezterm/troubleshooting.html
+  - https://wezfurlong.org/wezterm/config/lua/config/enable_wayland.html
   - https://github.com/wez/wezterm/issues/5103
   - https://github.com/wez/wezterm/issues/5228
   - https://www.reddit.com/r/hyprland/comments/1c38y11/wezterm_not_working_in_native_wayland_mode/
-  - https://www.reddit.com/r/archlinux/comments/18rf5t1/psa_on_hyprland_wezterm_will_not_start_anymore/ 
+  - https://www.reddit.com/r/archlinux/comments/18rf5t1/psa_on_hyprland_wezterm_will_not_start_anymore/
   - https://www.reddit.com/r/hyprland/comments/1auqy8b/wezterm_not_open_anymore/
   - https://github.com/wez/wezterm/issues/4672
 * https://gist.github.com/Vertecedoc4545/3b077301299c20c5b9b4db00f4ca6000
@@ -191,12 +191,12 @@ Questions:
 Roadmap
 
 
- look into building https://github.com/canonical/landscape-client on Debian and (especially) NixOS → https://github.com/nix-community/nix-installers 
- Read: https://gist.github.com/clample/e3c51bf8026098fded9628d3e0ee7967 
+ look into building https://github.com/canonical/landscape-client on Debian and (especially) NixOS → https://github.com/nix-community/nix-installers
+ Read: https://gist.github.com/clample/e3c51bf8026098fded9628d3e0ee7967
  port all configs to home-manager
  manage all secrets and passwords with sops-nix as well
  create triple boot: 100G NixOS, 100G Ubuntu Server 23.10 Wayland, 800G Ubuntu Server 22.04 X11
- first garbage-collect system to free up space for 
+ first garbage-collect system to free up space for
 
 Generations:
 
@@ -226,7 +226,7 @@ sudo apt install --no-install-recommends lightdm-gtk-greeter
 
 sudo apt install --no-install-recommends lightdm
 
-sudo apt install --no-install-recommends xorg xinit 
+sudo apt install --no-install-recommends xorg xinit
 
 sudo dpkg-reconfigure lightdm
 
@@ -364,7 +364,7 @@ sudo apt install flatpak
 
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 
-flatpak install flathub org.mozilla.firefox 
+flatpak install flathub org.mozilla.firefox
 
 
 # NEED TO FIX THIS - arandr not saving file -> remove and script xrandr, bind to keystroke
@@ -389,7 +389,7 @@ sudo apt instal nala
  get dual monitor setup working
  get sound working
  fix icons
- 
+
 #Add PipeWire repository
 
 sudo add-apt-repository ppa:pipewire-debian/pipewire-upstream
@@ -452,7 +452,7 @@ flatpak install flathub org.pipewire.Helvum
 
 sudo nala install pavucontrol
 
-flatpak install flathub org.freeplane.App 
+flatpak install flathub org.freeplane.App
 
 nix-env -iA nixpkgs.treesheets
 
@@ -515,9 +515,9 @@ rm *Windows*
 
 fc-cache -fv
 
-try https://flathub.org/apps/org.upscayl.Upscayl  
-* https://flathub.org/apps/org.otfried.Ipe 
-* https://flathub.org/apps/com.github.GradienceTeam.Gradience 
+try https://flathub.org/apps/org.upscayl.Upscayl
+* https://flathub.org/apps/org.otfried.Ipe
+* https://flathub.org/apps/com.github.GradienceTeam.Gradience
 
 Hank - Installed
 
@@ -771,7 +771,7 @@ nala
 
 Landscape
 
-landscape-client/focal 23.10+git6308+1-0ubuntu0 amd64 [upgradable from: 
+landscape-client/focal 23.10+git6308+1-0ubuntu0 amd64 [upgradable from:
 
 landscape-profile-standalone-calmav/now 1 all [installed,local]
 
@@ -7176,25 +7176,25 @@ ungoogled-chromium_112.0.5615.165-1_amd64.deb
 
 vieb_10.4.0_amd64.deb
 
-NIXPKGS_ALLOW_UNFREE=1 nix profile install --impure --override-input nixpkgs nixpkgs/nixos-23.11 --show-trace github:nix-community/nixGL#nixGLNvidia 
-* https://github.com/NixOS/nixpkgs/issues/122671 
+NIXPKGS_ALLOW_UNFREE=1 nix profile install --impure --override-input nixpkgs nixpkgs/nixos-23.11 --show-trace github:nix-community/nixGL#nixGLNvidia
+* https://github.com/NixOS/nixpkgs/issues/122671
 
 Teams CLI creation?
-* https://github.com/fossteams/teams-cli 
-* https://github.com/fossteams 
+* https://github.com/fossteams/teams-cli
+* https://github.com/fossteams
 
 
-* https://learn.microsoft.com/en-us/graph/api/resources/teams-api-overview?view=graph-rest-1.0 
-* https://learn.microsoft.com/en-us/graph/use-the-api 
-* https://learn.microsoft.com/en-us/graph/overview 
+* https://learn.microsoft.com/en-us/graph/api/resources/teams-api-overview?view=graph-rest-1.0
+* https://learn.microsoft.com/en-us/graph/use-the-api
+* https://learn.microsoft.com/en-us/graph/overview
 * https://developer.microsoft.com/en-us/graph/
 
 
-* https://www.c-sharpcorner.com/article/managing-microsoft-teams-with-office-365-cli-commands/ 
-* https://pnp.github.io/ 
-* https://github.com/pnp/cli-microsoft365 
+* https://www.c-sharpcorner.com/article/managing-microsoft-teams-with-office-365-cli-commands/
+* https://pnp.github.io/
+* https://github.com/pnp/cli-microsoft365
 
-/var/snap/landscape-client/common/etc/landscape-client.conf  : 
+/var/snap/landscape-client/common/etc/landscape-client.conf  :
 * [client]
 
 log_level = info
@@ -7327,7 +7327,7 @@ sudo apt install --no-install-recommends lightdm-gtk-greeter
 
 sudo apt install --no-install-recommends lightdm
 
-sudo apt install --no-install-recommends xorg xinit 
+sudo apt install --no-install-recommends xorg xinit
 
 sudo dpkg-reconfigure lightdm
 
@@ -7352,8 +7352,8 @@ sudo apt install build-essential
 
 #sudo add-apt-repository ppa:spvkgn/zathura-mupdf
 
-sudo vim /etc/apt/sources.list 
-#deb https://ppa.launchpadcontent.net/spvkgn/zathura-mupdf/ubuntu focal main 
+sudo vim /etc/apt/sources.list
+#deb https://ppa.launchpadcontent.net/spvkgn/zathura-mupdf/ubuntu focal main
 ##deb-src https://ppa.launchpadcontent.net/spvkgn/zathura-mupdf/ubuntu focal main
 ###sudo add-apt-repository ppa:spvkgn/zathura-mupdf
 

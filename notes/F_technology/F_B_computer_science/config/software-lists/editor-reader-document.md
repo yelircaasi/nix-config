@@ -3,7 +3,7 @@
 #### BEST GUI Editors
   - (2) [emacs](https://www.gnu.org/software/emacs/)
   - (3) [qtconsole](https://github.com/jupyter/qtconsole)
-  - (4) [zettlr]() 
+  - (4) [zettlr]()
      |  [remarkable](https://github.com/jamiemcg/Remarkable)
   - (3) [nano]()
   - (6) [vim]() -> decided to always use nvim with different configs -> https://michaeluloth.com/neovim-switch-configs/
@@ -129,15 +129,15 @@ editor neovim-related* ( ) [behansa](https://github.com/las-nish/Behansa)
 * ( ) [tpp](http://www.ngolde.de/tpp.html)
 
 ## Books and Reading
-* (2)  [zathura](https://pwmt.org/projects/zathura/) + [mupdf](https://mupdf.com/) 
-   | [apvlv](https://github.com/naihe2010/apvlv) 
-   | [llpp](https://repo.or.cz/w/llpp.git) (supports synctex) 
+* (2)  [zathura](https://pwmt.org/projects/zathura/) + [mupdf](https://mupdf.com/)
+   | [apvlv](https://github.com/naihe2010/apvlv)
+   | [llpp](https://repo.or.cz/w/llpp.git) (supports synctex)
    | [qpdfview](https://launchpad.net/qpdfview) (also supports synctex)
 * (5) [wike](https://github.com/hugolabe/Wike)
-* (2)  [koreader](https://koreader.rocks/) 
-   | [bookworm](https://babluboy.github.io/bookworm/) 
-   | [calibre](https://calibre-ebook.com/) + [calibre-web](https://github.com/janeczku/calibre-web) 
-   | [evince](https://wiki.gnome.org/Apps/Evince) 
-   | [foliate](https://johnfactotum.github.io/foliate/) 
+* (2)  [koreader](https://koreader.rocks/)
+   | [bookworm](https://babluboy.github.io/bookworm/)
+   | [calibre](https://calibre-ebook.com/) + [calibre-web](https://github.com/janeczku/calibre-web)
+   | [evince](https://wiki.gnome.org/Apps/Evince)
+   | [foliate](https://johnfactotum.github.io/foliate/)
    | [okular](https://okular.kde.org/)
 * (5) [pockyt](https://github.com/arvindch/pockyt) 

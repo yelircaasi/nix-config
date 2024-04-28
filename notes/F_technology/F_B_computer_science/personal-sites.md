@@ -9,18 +9,18 @@
 * [Site example](https://codeyarns.github.io/tech/2012-11-30-how-to-set-a-specific-chapter-or-section-number-in-latex.html)
 * https://maelfabien.github.io/
 * http://colah.github.io/
-* https://ritchieng.live/ 
+* https://ritchieng.live/
 * [https://shuzhanfan.github.io](https://shuzhanfan.github.io/)
 
 
 ### Educational, Book, etc
 * https://notesonai.com/Notes+on+AI
 * https://randomekek.github.io/deep/deeplearning.html
-* http://www.math.toronto.edu/ivan/ 
-* https://introtcs.org/public/index.html 
+* http://www.math.toronto.edu/ivan/
+* https://introtcs.org/public/index.html
 * https://www.kareemalkaseer.com/
-* https://hadrienj.github.io/ 
-* https://mlstory.org/ 
+* https://hadrienj.github.io/
+* https://mlstory.org/
 * https://www.trinilearn.com/
 * https://agill.xyz/ *** [Notgnoshi (Austin Gill)](https://github.com/Notgnoshi)
 * [Game Math Series | Ming-Lun "Allen" Chou | 周明倫](http://allenchou.net/game-math-series/)
@@ -29,6 +29,7 @@
 ### YouTube
 * [Hugo Larochelle](https://www.youtube.com/user/hugolarochelle)
 * https://cs-syd.eu/about
+* https://mrossinek.gitlab.io/
 
 ### Tools & Tech
 * https://github.com/RossKnapman/HugoTheme (great icons)
@@ -67,7 +68,7 @@
 ### Personal Sites
 * https://tlkh.dev/  ***
 * https://adamspannbauer.github.io/ ***
-* https://curiousily.com/ 
+* https://curiousily.com/
 * [Talia Vogt](https://taliavogt.com/about/)
 * https://www.mattjustice.com/
 * https://8d9.ru/category/blog - IT blog
@@ -75,12 +76,12 @@
 
 
 * ? [catonmat.net](https://catonmat.net/)
-* [Archive · Thorsten Hans' blog](ghttps://www.thorsten-hans.com/archive/)
-* [Chris McDonough - YouTube](ghttps://www.youtube.com/@ChrisMcDonough)
-* [Chris McDonough - YouTube](ghttps://www.youtube.com/@ChrisMcDonough/playlists)
+* [Archive · Thorsten Hans' blog](https://www.thorsten-hans.com/archive/)
+* [Chris McDonough - YouTube](https://www.youtube.com/@ChrisMcDonough)
+* [Chris McDonough - YouTube](https://www.youtube.com/@ChrisMcDonough/playlists)
 * - Not Looked at in a While
 * http://www.math.toronto.edu/ivan/mat327/?courseinfo
-* https://sebastianraschka.com/ 
+* https://sebastianraschka.com/
 * https://jeapostrophe.github.io/index.html
 * https://eleanorplatt.github.io/
 * http://brianjsingh.com/aesthetic33/
@@ -181,9 +182,9 @@
 * [Stefan Th. Gries: Teaching @ UCSB](http://www.stgries.info/teaching/overview-ucsb.html)
 * [Terra Incognita](http://blog.christianperone.com/)
 * [****Tutoriels - lehollandaisvolant.net](https://lehollandaisvolant.net/tuto/#divers)
-* http://johnerichumphries.com/ 
+* http://johnerichumphries.com/
 * http://ben.orsee.org/#start
-* https://sites.google.com/site/upetronijevic/home 
+* https://sites.google.com/site/upetronijevic/home
 * https://www.themuse.com/advice/the-35-best-personal-websites-weve-ever-seen
 * [Hello, I'm Kulani](http://www.kulanipdias.com/)
 * http://individual.utoronto.ca/cornelson/
@@ -296,7 +297,7 @@
 * https://www.fasterthan.life/
 * [Kyle P. Johnson](http://kyle-p-johnson.com/)
 * [Björn Rudzewitz](http://www.sfs.uni-tuebingen.de/~brzdwtz/)
-* https://github.com/mschilli87 
+* https://github.com/mschilli87
 * https://phaazon.net/
 * [David Ingalls Bell's Homepage](https://members.tip.net.au/~dbell/)
 * [Peter Norvig](http://norvig.com/)
@@ -348,7 +349,7 @@
 * https://pragmaticpineapple.com/
 * https://immunant.com/blog/
 * [Hackflow](https://suor.github.io/)
-* https://nicco.love/ 
+* https://nicco.love/
 * [Elteoremadebeethoven (Alexander Vázquez)](https://github.com/Elteoremadebeethoven) (manim)
 *  https://xuefuzhao.github.io/
 * [Archives - Eli Bendersky's website](https://eli.thegreenplace.net/archives/all)

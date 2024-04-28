@@ -4,8 +4,8 @@
 * [Curated learning resources](https://learnbyexample.github.io/curated_resources/) — Computer Science and Programming, Linux, Vim, Perl, Git and GitHub
 * [Hexlet](https://en.hexlet.io/): Practical programming courses (JavaScript, PHP, Unix, databases, functional programming). A steady path from the first line of code to the first job.
 * https://github.com/preslavmihaylov/booknotes
-* https://www.youtube.com/@IogaMaster 
-* https://github.com/prmadev 
+* https://www.youtube.com/@IogaMaster
+* https://github.com/prmadev
 ***** https://m7.rs/
 
 ## Cheatsheets, Reference, Wikipedia
@@ -27,8 +27,8 @@
 * https://dev.to/yelircaasi
 
 ## Hardware
-* https://ryf.fsf.org/categories/laptops 
-* https://www.reddit.com/r/GUIX/comments/l1xx3g/laptop_recommendations_for_gnu_guix/ 
+* https://ryf.fsf.org/categories/laptops
+* https://www.reddit.com/r/GUIX/comments/l1xx3g/laptop_recommendations_for_gnu_guix/
 * https://libreplanet.org/wiki/Group:Hardware/TODO/DUPLICATE_INFO/Freest
 * https://www.h-node.org/hardware/catalogue/en
 * https://libreboot.org/docs/hardware/
@@ -59,9 +59,9 @@
 * https://www.freecodecamp.org/learn
 * [Formale Sprachen, Automaten, Compiler und Interpreter https://flaci.com/home/](https://flaci.com/home/)
 * [KIT Playlists](https://www.youtube.com/c/KITWEBCAST/playlists)
-* https://www.youtube.com/@drawingboxes 
+* https://www.youtube.com/@drawingboxes
 * [NLogSpace](https://www.youtube.com/channel/UCMWYg3eBFp5bbqjlllUku_w)
-* https://www.youtube.com/@hnasr/playlists 
+* https://www.youtube.com/@hnasr/playlists
 * https://interstices.info/
 * [habr.com](http://habr.com/)
 * https://distill.pub/
@@ -195,30 +195,30 @@
 ## Gen * Media & People
 * https://srid.ca/
 * https://rainingcomputers.blog/
-* https://martinheinz.dev/blog/101 
+* https://martinheinz.dev/blog/101
 * https://www.youtube.com/@ciraolone (tech IT)
-* https://www.youtube.com/@minuxkoda 
-* https://linuxlads.com/episodes/97/ 
-* https://www.youtube.com/@LocosporLinux 
+* https://www.youtube.com/@minuxkoda
+* https://linuxlads.com/episodes/97/
+* https://www.youtube.com/@LocosporLinux
 * https://dynomight.net/
 * [CMM ⋅ Plume](https://fediverse.blog/~/Cmm)
 * [Home | ejmastnak](https://www.ejmastnak.com/)
-* https://www.technologyreview.es/ 
-* https://www.technologyreview.es/ 
-* https://builtin.com/tech-topics 
-* https://bdtechtalks.com/ 
-* https://github.com/max397574 
+* https://www.technologyreview.es/
+* https://www.technologyreview.es/
+* https://builtin.com/tech-topics
+* https://bdtechtalks.com/
+* https://github.com/max397574
 * [Home | mo8it.com](https://mo8it.com/) (Rust)
-* https://jacobzelko.com/ 
-* https://fasterthanli.me/ 
+* https://jacobzelko.com/
+* https://fasterthanli.me/
 * https://programmierbar.buzzsprout.com/ → News AI
-* https://programming.dev/ 
-* https://yapjh.xyz/ 
-* https://ariadne.space/ 
-* https://github.com/molleweide 
+* https://programming.dev/
+* https://yapjh.xyz/
+* https://ariadne.space/
+* https://github.com/molleweide
 * https://morioh.com/
-* https://jonathanlorimer.dev/ 
-* https://www.freecodecamp.org/news/freecodecamp-podcast-season-2-developer-interviews/ 
+* https://jonathanlorimer.dev/
+* https://www.freecodecamp.org/news/freecodecamp-podcast-season-2-developer-interviews/
 * [vsedov (Viv Sedov)](https://github.com/vsedov/)
 * [Welcome! - Max’s Homepage](https://mrossinek.gitlab.io/)
 * [Samuel Albanie - YouTube](https://www.youtube.com/@SamuelAlbanie1)
@@ -244,26 +244,26 @@ Linux Lads 103
 
 search "Gradient" on spotify or other podcast search engine
 * [Top 11 Forums for Developers to Collaborate and Grow](https://www.codemonk.ai/insights/best-developer-forums)
-* https://www.youtube.com/@Gonkee 
-* https://www.youtube.com/@adibhanna 
+* https://www.youtube.com/@Gonkee
+* https://www.youtube.com/@adibhanna
 
 ## Blogs / Sites / Fora
 *[devtalk](https://devtalk.com/) -* Discussion forum around many different development topics/languages, ran as a joint venture between a lot of great programming publishers like Manning and Pragmatic Bookshelf.
 *[dev.to](https://dev.to/) -* Popular development community with an open source back end that was created as an alternative to Medium.
-* https://thenewstack.io/ 
+* https://thenewstack.io/
 * https://thenewstack.io/
 * https://abstractexpr.com/
 * https://gutier.io/
 * [Essential Reading](https://rhodesmill.org/brandon/essential-reading/)
-* https://isthisit.nz/ 
-* https://humanreadablemag.com/ 
+* https://isthisit.nz/
+* https://humanreadablemag.com/
 * https://hackaday.com/
 * https://spectrum.ieee.org/
 * https://flet.dev/
 * [Homepage - MarkTechPost](https://www.marktechpost.com/)
-* https://medevel.com/ 
+* https://medevel.com/
 * [***Gitter](https://gitter.im/home/explore)
-* https://www.developpez.com/ 
+* https://www.developpez.com/
 * https://dev.to/t/explainlikeimfive
 * https://plainenglish.io/
 * https://www.planetgeek.ch/category/book/
@@ -304,22 +304,22 @@ search "Gradient" on spotify or other podcast search engine
 
 
 ## YouTube
-* https://www.youtube.com/@KIT-Lehre-und-Wissen/playlists 
-* https://www.youtube.com/@TraversyMedia 
-* https://www.youtube.com/@Florian.Dalwigk 
+* https://www.youtube.com/@KIT-Lehre-und-Wissen/playlists
+* https://www.youtube.com/@TraversyMedia
+* https://www.youtube.com/@Florian.Dalwigk
 
 Th Morpheus Tutorials
-* https://www.youtube.com/@ExplainingComputers 
-* https://www.youtube.com/@codeaffinitydev 
-* https://www.youtube.com/@simondev758 
-* https://www.youtube.com/@TheoremofBeethoven 
-* https://www.youtube.com/@TheFrugalComputerGuy 
-* https://www.youtube.com/@samwitteveenai 
-* https://www.youtube.com/@voxelrifts 
-* https://www.youtube.com/@PowerCertAnimatedVideos 
-* https://www.youtube.com/@PapersWeLove 
-* https://www.youtube.com/@crr0ww 
-* https://www.youtube.com/@CodeCast 
+* https://www.youtube.com/@ExplainingComputers
+* https://www.youtube.com/@codeaffinitydev
+* https://www.youtube.com/@simondev758
+* https://www.youtube.com/@TheoremofBeethoven
+* https://www.youtube.com/@TheFrugalComputerGuy
+* https://www.youtube.com/@samwitteveenai
+* https://www.youtube.com/@voxelrifts
+* https://www.youtube.com/@PowerCertAnimatedVideos
+* https://www.youtube.com/@PapersWeLove
+* https://www.youtube.com/@crr0ww
+* https://www.youtube.com/@CodeCast
 * [aarthificial - YouTube](https://www.youtube.com/@aarthificial)
 * [Tony Zhang - YouTube](https://www.youtube.com/@TonyZhang01/playlists)
 * [Naresh i Technologies - YouTube](https://www.youtube.com/@NareshIT)
@@ -441,9 +441,9 @@ the technium
 * herzbergs Hörsaal. Informatik studieren mit den Ohren
 
 ## Tools
-* https://github.com/tweag 
-* https://taskflow.github.io/ 
-* https://cloud.google.com/assured-open-source-software/docs/supported-packages 
+* https://github.com/tweag
+* https://taskflow.github.io/
+* https://cloud.google.com/assured-open-source-software/docs/supported-packages
 * https://moonrepo.dev/ * [TOML: Tom's Obvious Minimal Language](https://toml.io/en/)
 * https://github.com/jdxcode/rtx
 * https://github.com/twpayne/chezmoi
@@ -575,29 +575,29 @@ perso https://www.youtube.com/@devopstoolbox
 perso https://www.youtube.com/@levonog
 
 person ansidev's blog
-* https://migalmoreno.com/ 
-* https://github.com/doctorfree 
+* https://migalmoreno.com/
+* https://github.com/doctorfree
 * https://samwho.dev/ ***
-* https://srid.ca/-/all 
-* https://sommaa.github.io/ 
-* https://www.chrisatmachine.com/ 
-* https://gutier.io/authors/julio/ 
-* https://nicco.love/ 
+* https://srid.ca/-/all
+* https://sommaa.github.io/
+* https://www.chrisatmachine.com/
+* https://gutier.io/authors/julio/
+* https://nicco.love/
 * https://github.com/dimbleby
 * http://www.wzchen.com/
 * https://github.com/BrodieRobertson
-* https://github.com/wmvanvliet 
-* https://ianyepan.github.io/ 
-* https://www.dioptricdesign.com/ 
-* https://jmbuhr.de/ 
+* https://github.com/wmvanvliet
+* https://ianyepan.github.io/
+* https://www.dioptricdesign.com/
+* https://jmbuhr.de/
 * https://www.preciouschicken.com/blog/ (great stack)
-* https://sookocheff.com/ 
-* https://drasite.com/ 
-* https://www.thorsten-hans.com/ 
-* https://thadryanjs.github.io/ 
-* https://julianhofer.eu/ 
-* https://monster.codeberg.page/ 
-* https://matthewrhone.dev/ 
+* https://sookocheff.com/
+* https://drasite.com/
+* https://www.thorsten-hans.com/
+* https://thadryanjs.github.io/
+* https://julianhofer.eu/
+* https://monster.codeberg.page/
+* https://matthewrhone.dev/
 
 ## Coding Challenges and Education
 * https://thecodingtrain.com/CodingChallenges/
@@ -627,7 +627,7 @@ Excel Challenge Problem
 * [Colin Galen](https://www.youtube.com/@ColinGalen)
 * [bigboxSWE](https://www.youtube.com/@bigboxSWE)
 * https://www.youtube.com/@AByteofCode
-* https://github.com/strager 
+* https://github.com/strager
 * [Dima Maleev](https://youtube.com/c/SunnyDimKo)
 * [Brian Will – Medium](https://medium.com/@brianwill)
 * https://youtube.com/@EberhardWolff
@@ -635,13 +635,13 @@ Excel Challenge Problem
 * https://www.youtube.com/c/Cleancoders
 
 Igor Zhirkov (interests)
-* https://ianthehenry.com/ 
-* https://markwatson.com/ 
-* https://daniel-siepmann.de/ 
-* https://sbr.pm/ 
+* https://ianthehenry.com/
+* https://markwatson.com/
+* https://daniel-siepmann.de/
+* https://sbr.pm/
 
-→ https://gideonwolfe.com/ 
-* https://github.com/kobzol 
+→ https://gideonwolfe.com/
+* https://github.com/kobzol
 
 
 ## Media, Channels
@@ -649,12 +649,12 @@ Igor Zhirkov (interests)
 * [VD](https://thevaluable.dev/page/about/)
 * [Сообщества свободного ПО](https://telegra.ph/Soobshchestva-svobodnogo-PO-07-24)
 * [Journal of Open Source Software](https://joss.theoj.org/)
-* https://www.derstandard.de/web/innovationen 
+* https://www.derstandard.de/web/innovationen
 * https://engineersjournal.substack.com/archive
 * [Blogerator's newsline - новостной HTTP-блог об ИТ](http://blogerator.org/)
 * https://queue.acm.org/topics.cfm
-* https://increment.com/programming-languages/ 
-* https://increment.com/topics/ 
+* https://increment.com/programming-languages/
+* https://increment.com/topics/
 * https://increment.com/issues/
 * https://towardsdatascience.com/a-primer-on-architectural-patterns-fd1b22a4389d
 * [Software Engineering Blog & Programming Tutorials | Toptal®](https://www.toptal.com/developers/blog)
@@ -698,7 +698,7 @@ Igor Zhirkov (interests)
 * [Docker For Beginners: From Docker Desktop to Deployment](https://www.youtube.com/watch?v=i7ABlHngi1Q)
 * https://www.youtube.com/c/ProgramiranjeTutorijali/playlists
 * https://www.youtube.com/channel/UCSYrkPyht9PAXMhAbkGTbsQ/playlists
-* https://www.digitalocean.com/community/tutorials 
+* https://www.digitalocean.com/community/tutorials
 * https://www.journaldev.com/
 * https://aws.amazon.com/blogs/opensource/why-use-docker-containers-for-machine-learning-development/
 * https://www.freecodecamp.org/news/what-is-devsecops/
@@ -708,7 +708,7 @@ Igor Zhirkov (interests)
 * https://www.freecodecamp.org/news/learn-how-to-build-apps-from-a-business-perspective/
 * https://www.freecodecamp.org/news/can-you-code-on-a-phone/
 * https://www.freecodecamp.org/news/2021-new-coder-survey-18000-people-share-how-theyre-learning-to-code/
-* https://www.freecodecamp.org/ukrainian/learn/ 
+* https://www.freecodecamp.org/ukrainian/learn/
 * [Tutorials Point (India) Ltd.](https://www.youtube.com/channel/UCVLbzhxVTiTLiVKeGV7WEBg)
 
 
@@ -728,7 +728,7 @@ minder
 lowchart
 
 gnuplot ASCII mode
-* https://codesandbox.io/ 
+* https://codesandbox.io/
 
 ## Very Best Resources
 * [The Twelve-Factor App](https://12factor.net/config)
@@ -747,7 +747,7 @@ gnuplot ASCII mode
 * https://www.guru99.com/
 * https://stackoverflow.com/users/8964686/i-riley
 * [https://devdocs.io](https://devdocs.io/)
-* https://awesomeopensource.com/project/webpro/programming-principles 
+* https://awesomeopensource.com/project/webpro/programming-principles
 * https://awesomeopensource.com/
 * https://codereview.stackexchange.com/
 
@@ -761,7 +761,7 @@ FreeCodeCamp
 * [Computer Science Unplugged](https://classic.csunplugged.org/)
 
 ## Docs
-* https://www.makeareadme.com/ 
+* https://www.makeareadme.com/
 * [Beautiful Docs](https://github.com/matheusfelipeog/beautiful-docs) → create pull request, add Julia
 * https://github.com/matiassingers/awesome-readme
 
@@ -770,7 +770,7 @@ FreeCodeCamp
      * [The BEST Coding Interview Roadmap in 2023 (free)](https://www.youtube.com/watch?v=jgQjes7MgTM)
 
 ## Project Resources
-* https://github.blog/2023-04-03-calling-all-open-source-maintainers/ 
+* https://github.blog/2023-04-03-calling-all-open-source-maintainers/
 * [Martyr2's Mega Project Ideas List! - Share Your Project | Dream.In.Code](https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
 * [10 Great Programming Projects to Improve Your Resume and Learn to Program](https://levelup.gitconnected.com/10-great-programming-projects-to-improve-your-resume-and-learn-to-program-74b14d3e9e16)
 * https://github.com/btakita/philosophy
@@ -815,16 +815,16 @@ FreeCodeCamp
 ## Media
 * [Sympolymathesy, by Chris Krycho](https://v5.chriskrycho.com/)
 * https://joshcollinsworth.com/
-* https://eugeneyan.com/ 
-* https://catskull.net/html.html 
-* https://rednafi.com/ 
-* https://praveshkoirala.com/ 
-* https://hirrolot.github.io/ 
-* https://coderslegacy.com/ 
-* https://mathspp.com/blog 
-* https://elevanth.org/blog/ 
+* https://eugeneyan.com/
+* https://catskull.net/html.html
+* https://rednafi.com/
+* https://praveshkoirala.com/
+* https://hirrolot.github.io/
+* https://coderslegacy.com/
+* https://mathspp.com/blog
+* https://elevanth.org/blog/
 * https://lexfridman.com/
-* https://www.drorpoleg.com/ 
+* https://www.drorpoleg.com/
 * https://coderwall.com/
 * https://blog.paperspace.com/
 * https://observablehq.com/community
@@ -833,7 +833,7 @@ FreeCodeCamp
 * https://lobste.rs/
 * [https://www.sicpers.info](https://www.sicpers.info/)
 * https://www.youtube.com/@g5min (Graphics, gen CS)
-* https://www.youtube.com/@strager_ 
+* https://www.youtube.com/@strager_
 * https://www.youtube.com/@chrisatmachine
 * https://www.youtube.com/@cpow85
 * [https://www.youtube.com/@StudyingWithAlex](https://www.youtube.com/@StudyingWithAlex?app=desktop)
@@ -880,7 +880,7 @@ GraphicsMagick GM Utility
 * https://opensource.com/ *****
 * [Play with Docker](https://www.docker.com/play-with-docker)
 * [Diagram Software and Flowchart Maker](https://www.diagrams.net/)
-* https://paketo.io/docs/ 
+* https://paketo.io/docs/
 * https://nodepit.com/
 
 ### Build Systems

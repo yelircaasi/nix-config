@@ -627,7 +627,7 @@
 
 
 ## ASR
-* https://www.assemblyai.com/blog/conformer-1 
+* https://www.assemblyai.com/blog/conformer-1
 * [A Deep Learning Algorithm for Objective Assessment of Hypernasality in Children with Cleft Palate](https://www.researchgate.net/publication/344373574_A_Deep_Learning_Algorithm_for_Objective_Assessment_of_Hypernasality_in_Children_with_Cleft_Palate)
     file:///home/isaac/Projects/Thesis/papers/Introduction%20to%20Automatic%20Speech%20Recognition%20(ASR)%20-.html#statistical-historical-approach-to-asr
 * https://maelfabien.github.io/machinelearning/speech_reco/

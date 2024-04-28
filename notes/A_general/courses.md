@@ -5,7 +5,7 @@
 
 
 * 🌰 [Основы программирования на C. Задачи.](https://stepik.org/course/3078) 
-* 🌰 [1.1 Первая программа на Си](https://stepik.org/lesson/13977?unit=30906) 
+* 🌰 [1.1 Первая программа на Си](https://stepik.org/lesson/13977?unit=30906)
 * 🌰 [2.1 Базовые типы данных в языке Си.](https://stepik.org/lesson/34299?unit=30901)
 * 🌰 [2.2 Объявление переменных в языке](https://stepik.org/lesson/36170?unit=30900)
 * 🌰 [2.3 Оператор присваивания](https://stepik.org/lesson/38673?unit=30902)
@@ -33,10 +33,10 @@
 * 🌰 [10.1 Функции и переменные](https://stepik.org/lesson/65094?unit=41881) 
 * 🌰 [10.2 Указатели](https://stepik.org/lesson/65151?unit=42121) 
 * 🌰 [10.3 Аргументы функций](https://stepik.org/lesson/65373?unit=42143)Coursera: Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course) 
-* 🌰 Coursera: Algebra & Algorithms 
-* 🌰 Coursera: Introduction to Formal Concept Analysis 
+* 🌰 Coursera: Algebra & Algorithms
+* 🌰 Coursera: Introduction to Formal Concept Analysis
 * 🌰 Coursera: Психолингвистика (Psycholinguistics) 
-* 🌰 Coursera: Miracles of Human Language: An Introduction to Linguistics 
+* 🌰 Coursera: Miracles of Human Language: An Introduction to Linguistics
 * 🌰 Coursera: Линейная алгебра (Linear Algebra) 
 * 🌰 Coursera: [https://www.coursera.org/projects/lenguaje-julia](https://www.coursera.org/projects/lenguaje-julia) 
 * 🌰 Coursera: [https://www.coursera.org/projects/julia-beginners-data-science](https://www.coursera.org/projects/julia-beginners-data-science) 
@@ -44,17 +44,17 @@
 * 🌰 Coursera: [https://www.coursera.org/projects/linear-regression-julia](https://www.coursera.org/projects/linear-regression-julia) 
 * 🌰 Coursera: [https://www.coursera.org/projects/decision-tree-random-forest-classification-julia](https://www.coursera.org/projects/decision-tree-random-forest-classification-julia) 
 * 🌰 Coursera: [https://www.coursera.org/projects/logistic-regression-classification-julia](https://www.coursera.org/projects/logistic-regression-classification-julia) 
-* 🌰 Coursera: Aprendiendo a aprender: Poderosas herramientas mentales con las que podrás dominar temas difíciles 
-* 🌰 Coursera: Towards language universals through lexical semantics: introduction to lexical and semantic typology 
-* 🌰 Coursera: Medical Neuroscience 
-* 🌰 Coursera: Le Bien, le Juste, l'Utile. Introduction aux éthiques philosophiques 
-* 🌰 Coursera: Основы философии: о чем спорят философы сегодня 
-* 🌰 Coursera: Julia Scientific Programming 
-* 🌰 Coursera: Introduction to Philosophy 
-* 🌰 Coursera: Computational Neuroscience 
+* 🌰 Coursera: Aprendiendo a aprender: Poderosas herramientas mentales con las que podrás dominar temas difíciles
+* 🌰 Coursera: Towards language universals through lexical semantics: introduction to lexical and semantic typology
+* 🌰 Coursera: Medical Neuroscience
+* 🌰 Coursera: Le Bien, le Juste, l'Utile. Introduction aux éthiques philosophiques
+* 🌰 Coursera: Основы философии: о чем спорят философы сегодня
+* 🌰 Coursera: Julia Scientific Programming
+* 🌰 Coursera: Introduction to Philosophy
+* 🌰 Coursera: Computational Neuroscience
 * 🌰 Udemy: [The Complete 2022 Web Development Bootcamp](https://www.udemy.com/course-dashboard-redirect/?course_id=1565838) 
-* 🌰 Udemy: [Design a CPU](https://www.udemy.com/course/design-a-cpu/learn) 
-* 🌰 Udemy: [{ C Language } Deep Learning From Ground Up](https://www.udemy.com/course/c-language-deep-learning-from-ground-uptm/learn/) 
+* 🌰 Udemy: [Design a CPU](https://www.udemy.com/course/design-a-cpu/learn)
+* 🌰 Udemy: [{ C Language } Deep Learning From Ground Up](https://www.udemy.com/course/c-language-deep-learning-from-ground-uptm/learn/)
 * 🌰 Udemy: [Deep Learning, Neuronale Netze und TensorFlow 2 in Python](https://www.udemy.com/course-dashboard-redirect/?course_id=1404090) 
 * 🌰 Udemy: [Introduction to Cloud Computing with AWS, Azure and GCPCloud](https://www.udemy.com/course-dashboard-redirect/?course_id=2414030) 
 * 🌰 Udemy: [Mac OSX x86 Assembly Programming From Ground Up](https://www.udemy.com/course-dashboard-redirect/?course_id=3218011) 

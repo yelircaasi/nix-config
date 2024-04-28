@@ -116,7 +116,7 @@ Archaeology does not support belief in the Book of Mormon as historical. There w
 
 In places where large-scale battles have been fought, it is highly unusual to find no traces, even when the battle was fought millenia ago. We have the artefacts of the classical Mayan period, and of the Olmecs, who were much earlier. They were advanced civilizations, and such complex civilizations do not usually vanish without a trace. It seems odd that there has not been a single finding of anything confirmed as a Nephite artefact, while the archaeology of the Holy Land supports many of the historical claims in the Bible.
 
-This begs the question: How could Joseph Smith, and “uneducated farmboy” write a book of such complexity as the Book of Mormon? There are a few good clues. 
+This begs the question: How could Joseph Smith, and “uneducated farmboy” write a book of such complexity as the Book of Mormon? There are a few good clues.
 
 
 * Thomas Ferguson

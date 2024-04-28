@@ -10,7 +10,7 @@
 * [https://regexlearn.com](https://regexlearn.com/)
 * [Clean Code - Uncle Bob - all lessons](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
 * https://pslmodels.github.io/Git-Tutorial/content/intro.html
-* https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1 
+* https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1
 
 * [MLOps vs. DevOps: the similarities and differences](https://www.datasciencecentral.com/profiles/blogs/mlops-vs-devops-the-similarities-and-differences)
 * [Как разобраться в Computer Science самостоятельно](https://vk.com/@weekkey-kak-razobratsya-v-computer-science-samostoyatelno)
@@ -19,9 +19,9 @@ Geogrebra, SymPy, P5.js, Processing lang
 
 → [awesome-github](https://github.com/fffaraz/awesome-github) - Faraz Fallahi maintains a curated list of GitHub & Git resources.
 * [Is your PC hacked? RAM Forensics with Volatility](https://www.youtube.com/watch?v=VK3fvNFGAzE)
-* https://github.com/wsgac 
-* http://www.pdelfino.com.br/ 
-* https://www.dioptricdesign.com/ 
+* https://github.com/wsgac
+* http://www.pdelfino.com.br/
+* https://www.dioptricdesign.com/
 
 ## Dev and LLM
 * [How to learn to code FAST using ChatGPT (it's a game](https://www.youtube.com/watch?v=VznoKyh6AXs)
@@ -171,7 +171,7 @@ Geogrebra, SymPy, P5.js, Processing lang
 * [What is ' and why google search replaces it with apostrophe? - Stack Overflow](https://stackoverflow.com/questions/29314231/what-is-39-and-why-google-search-replaces-it-with-apostrophe)
 * [Writing non-ASCII text to file | Python Adventures](https://pythonadventures.wordpress.com/2012/12/02/writing-non-ascii-text-to-file/)
 * [Explain it like I'm five: Python and Unicode? : Python](https://www.reddit.com/r/Python/comments/1g62eh/explain_it_like_im_five_python_and_unicode/)
-    
+
 ## Quantum
 * [Grundlegende Algorithmen: Einführung in den Entwurf und die Analyse effizienter Algorithmen](https://b-ok.cc/book/2099038/13eab0)
 * [A Beginner’s Guide To Quantum Computing - YouTube](https://www.youtube.com/watch?v=JRIPV0dPAd4)
@@ -204,7 +204,7 @@ Geogrebra, SymPy, P5.js, Processing lang
 * [Quantum Computing for Computer Architects (Synthesis Lectures on Computer Architecture)](http://library.lol/main/A7EE4D629BCD17740B77B8AC0082BB48)
 * [Quanteninformation (Bruß)](http://library.lol/main/A7EE4D629BCD17740B77B8AC0082BB48)
 * [Morgan Claypool Quantum Computer Science](http://library.lol/main/73A9FCFC6E91EA1D0A97CE2C7041343F)
-    
+
 ## History
 * Who Invented the Computer?
 * [Computer History Online](http://www.weller.to/)
@@ -322,7 +322,7 @@ Geogrebra, SymPy, P5.js, Processing lang
 * [Regex Match equal amount of two characters - Stack Overflow](https://stackoverflow.com/questions/39704916/regex-match-equal-amount-of-two-characters)
 * [RegEx source](https://bitbucket.org/mrabarnett/mrab-regex/src/default/regex_3/_regex_core.py)
 * [Regex Tutorial - The Question Mark Makes the Preceding Token Optional](http://www.regular-expressions.info/optional.html)
-* 
+*
 ## Misc
 * [Kubernetes for Full-Stack Developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
 * https://www.freecodecamp.org/news/the-docker-handbook/
@@ -372,12 +372,12 @@ Geogrebra, SymPy, P5.js, Processing lang
 * https://en.wikipedia.org/wiki/Programming_paradigm
 * https://en.wikipedia.org/wiki/Programming_paradigm
 * [Функциональное программирование | Евгений Кирпичёв](https://www.youtube.com/watch?v=jEozVIGSDMU&list=PL-_cKNuVAYAWoMkUIhmaiJihYxirYrLbc)
-    
+
 ## Anki
 * [Janki Method Refined | Jack Kinsella](http://www.jackkinsella.ie/articles/janki-method-refined)
 * [Janki Method | Jack Kinsella](http://www.jackkinsella.ie/articles/janki-method)
 * [Ospalh’s Anki2 addons](https://ospalh.github.io/anki-addons/)
-    
+
 ### *Streamlining Anki with LaTeX | cathy wu
 * [scaling - Anki: Displayed size does not match specified size - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/394311/anki-displayed-size-does-not-match-specified-size)
 * [fontsize - Anki - LaTeX, Math Font Size, & DeclareMathSizes - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/108418/anki-latex-math-font-size-declaremathsizes)
@@ -408,7 +408,7 @@ Geogrebra, SymPy, P5.js, Processing lang
 * [GitHub - badlydrawnrob/anki: Learn to code with Anki — flashcards and themes for all learning levels. Master your programming language of choice!](https://github.com/badlydrawnrob/anki)
 * [Reddit - Anki - Anki 2.1: Code (Syntax) formatting?](https://www.reddit.com/r/Anki/comments/alpszi/anki_21_code_syntax_formatting/)
 * [Sparkle - Anki Flashcards to facilitate your programming mastery](https://www.reddit.com/r/Anki/comments/d6rdk1/sparkle_anki_flashcards_to_facilitate_your/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
-    
+
 ### **Anki machen (+ar. Verbforme): Stammform (Verb) – Wikipedia
 * [Probability Theory and Mathematical Statistics - AnkiWeb](https://ankiweb.net/shared/info/1296010623)
 * [基本数学术语 Fundamental Math Vocabulary: English–Chinese - AnkiWeb](https://ankiweb.net/shared/info/1225334140)
@@ -421,7 +421,7 @@ Geogrebra, SymPy, P5.js, Processing lang
 * Deep Learning
 * Analysis
 * Diff EQ
-    
+
 ## OS    * [Linux: a Portable Operating System (Master of Science Thesis)](http://libgen.li/ads.php?md5=5a9073ee2d3bb0d68f5895857e9cf9ca)
 * [Linux: This Book Includes 4 Manuscripts. The Underground Bible to the UNIX Operating System with Tools On Security and Kali Hacking to Understand Computer Programming, Data Science and Command Line](http://libgen.li/ads.php?md5=9cc7a6d227d5363a7e9036a8ec9893e4)
 * [Linux for Beginners: The Ultimate Practical Guide to Operating System, Command Line and Programming. Improve your Computer Skills and Become a Computing Expertise.](http://libgen.li/ads.php?md5=76aec583971f5b63f96a97a3c08a5725)
@@ -649,16 +649,16 @@ Geogrebra, SymPy, P5.js, Processing lang
 * [Coding Project Solutions](https://github.com/karan/Projects-Solutions/blob/master/README.md?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
 ## Parsing
-* https://rainingcomputers.blog/dist/the_path_to_implementing_a_programming_language.md 
-* https://dailystuff.nl/projects/writing-a-6502-emulator-in-python 
+* https://rainingcomputers.blog/dist/the_path_to_implementing_a_programming_language.md
+* https://dailystuff.nl/projects/writing-a-6502-emulator-in-python
 * https://kernal.eu/about/ (small hacker collective)
-* https://softdes.olin.edu/ 
+* https://softdes.olin.edu/
 * https://www.nesoacademy.org/recommended-books
 * [Parsing Explained - Computerphile - YouTube](https://www.youtube.com/watch?v=bxpc9Pp5pZM)
 * [Building a Parser from scratch. Lecture [1/18]: Tokenizer | Parser - YouTube](https://www.youtube.com/watch?v=4m7ubrdbWQU&t=133s)
 * [Types of Parsing in Compiler Design: The Full Explanation in Plain English - History-Computer](https://history-computer.com/types-of-parsing-in-compiler-design/)
 * [Parsing - Wikipedia](https://en.wikipedia.org/wiki/Parsing)
-* https://github.com/eugenp/tutorials 
+* https://github.com/eugenp/tutorials
 * https://github.com/travisstaloch/pegzi
 
 parsers (from Neso Academy video)
@@ -680,12 +680,12 @@ bottom-up, LR parsers → SLR(1)
 bottom-up, LR parsers → LALR(1)
 
 bottom-up, LR parsers → CLR(1)
-* https://fop.davidshekunts.ru/ 
+* https://fop.davidshekunts.ru/
 * [8.pdf](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
-* https://wiki.osdev.org/Main_Page 
-* https://google.github.io/comprehensive-rust/welcome.html 
+* https://wiki.osdev.org/Main_Page
+* https://google.github.io/comprehensive-rust/welcome.html
 
-read Implementing Programming Languages 
+read Implementing Programming Languages
 * [Beck Testing Framework](https://web.archive.org/web/20150315073817/http://www.xprogramming.com/testfram.htm)
 * [add to neorg notes GLR parser - Wikipedia](https://en.wikipedia.org/wiki/GLR_parser)
 * [LALR parser - Wikipedia](https://en.wikipedia.org/wiki/LALR_parser)
@@ -719,7 +719,7 @@ read Implementing Programming Languages
 * [¿Alguna vez te has preguntado cómo Bitcoin(y otras criptomonedas) realmente funcionan?](https://www.youtube.com/watch?v=bBC-nXj3Ng4&list=WL&index=403)
 * [¿Qué es eso del problema P versus NP?](https://www.youtube.com/watch?v=UR2oDYZ-Sao&list=WL&index=249)
 * [[общая семантика] О понятии абстрагирования](https://www.youtube.com/watch?v=ZtPNSuWwsnA&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=159)
-    
+
 * commentaires de Ruddahbagga sur ELI5: What is information?
 * [/r/buildapc - Planning on building a computer but need some advice? This is the place to ask!](https://www.reddit.com/r/buildapc/)
 * [A Guide To Parsing: Algorithms And Terminology](https://tomassetti.me/guide-parsing-algorithms-terminology/)
@@ -777,7 +777,7 @@ read Implementing Programming Languages
 
 ## Best Tips and Hacks
 * [https://careercutler.substack.com/p/the-top-7-software-engineering-workflow](https://careercutler.substack.com/p/the-top-7-software-engineering-workflow?utm_source=tldrnewsletter)
-* https://careercutler.substack.com/ 
+* https://careercutler.substack.com/
 * [Open Source Guides | Learn how to launch and grow your project.](https://opensource.guide/)
 
 
@@ -805,27 +805,27 @@ read Implementing Programming Languages
 * [****hmemcpy/milewski-ctfp-pdf: Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source](https://github.com/hmemcpy/milewski-ctfp-pdf)
 * [Fundamentals of Software Architecture: An Engineering Approach](http://library.lol/main/6B74DC7529E0DA638669B04943B309B6) * [Linux: Das umfassende Handbuch](http://library.lol/main/ACC8321ABFC2CA38D1B2A1703DD0A2BA) * [64-Bit Assembler Programmierung unter Linux](https://www.thalia.de/shop/home/artikeldetails/A1058736107)
 * [Linux. Der kompakte Grundkurs. So lernen Sie das Linux-System grundlegend kennen](https://www.thalia.de/shop/home/artikeldetails/A1060319206)
-* https://www.heise.de/ratgeber/Programmieren-In-Assembler-hacken-wie-vor-40-Jahren-8928090.html 
+* https://www.heise.de/ratgeber/Programmieren-In-Assembler-hacken-wie-vor-40-Jahren-8928090.html
 Storytelling im UX-Design
 * handbuch moderner Softwarearchitektur
 Prinzipien des Softwaredesigns
-* https://coderslegacy.com/comparison-of-sorting-algorithms/ 
-* https://vadimkravcenko.com/shorts/managing-bad-engineers/ 
+* https://coderslegacy.com/comparison-of-sorting-algorithms/
+* https://vadimkravcenko.com/shorts/managing-bad-engineers/
 * [dealing with strong opinions in software development - YouTube](https://www.youtube.com/results?search_query=dealing+with+strong+opinions+in+software+development)
 * [Reacting to Controversial Opinions of Software Engineers - YouTube](https://www.youtube.com/watch?v=goy4lZfDtCE)
 * [Why Would Anyone Hate TDD? | Prime Reacts - YouTube](https://www.youtube.com/watch?v=0IhsNvUZS3s)
 * [The Unicode Standard, Version 15.0 - U2500.pdf](https://www.unicode.org/charts/PDF/U2500.pdf)
 * [Dependency Injection, The Best Pattern - YouTube](https://www.youtube.com/watch?v=J1f5b4vcxCQ)
 * [Why Do I Shill Arch Linux So Much? - YouTube](https://www.youtube.com/watch?v=lunnbdFdPJE)
-* https://joshcollinsworth.com/blog/antiquated-react#scaling-isnt-really-a-frontend-concern-anymore?utm_source=tldrnewsletter 
+* https://joshcollinsworth.com/blog/antiquated-react#scaling-isnt-really-a-frontend-concern-anymore?utm_source=tldrnewsletter
 * [Cursive: Function Calling - Replit](https://replit.com/@zahid/Cursive-Function-Calling?v=1)
-* https://www.computerworld.es/home 
-* https://www.freecodecamp.org/news/mastering-javascript-functions-for-beginners/ 
+* https://www.computerworld.es/home
+* https://www.freecodecamp.org/news/mastering-javascript-functions-for-beginners/
 * [Icons - ArchWiki](https://wiki.archlinux.org/title/Icons)
 * [Carla Schroder - Linux Cookbook: Essential Skills for Linux Users and System & Network Administrators](https://libgen.is/book/index.php?md5=A9DEAE7D2E948C180F79D5E7C4E3B3F5)
 * [Mike Amundsen - RESTful Web API Patterns and Practices Cookbook](https://libgen.is/book/index.php?md5=3DF18B0B933F66DCB0079AFC844959FE)
 * [O’Reilly bestsellers](https://t.me/physics_lib/12115)
 * [Dr. Bruce Powel Douglass - Agile Model-Based Systems Engineering Cookbook: Improve system development by applying proven recipes for effective agile systems engineering, 2nd Edition](https://libgen.is/book/index.php?md5=1C8FF2E979F1E06545BC1760AE2C7A48)
-* https://hyperskill.org/tracks 
-* https://mautic.hyperskill.org/email/view/64d3792462174214388877 
-* https://hackernoon.com/the-7-software-architecture-books-experienced-developers-need-to-read 
+* https://hyperskill.org/tracks
+* https://mautic.hyperskill.org/email/view/64d3792462174214388877
+* https://hackernoon.com/the-7-software-architecture-books-experienced-developers-need-to-read

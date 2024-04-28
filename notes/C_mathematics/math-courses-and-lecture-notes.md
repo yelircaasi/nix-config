@@ -9,7 +9,7 @@
 * https://coursera.org/learn/geometriya-i-gruppy
 * [Linear Algebra Course *](https://www.math.ucla.edu/~tao/resource/general/115a.3.02f/)**
 * http://www.numbertheory.org/ntw/lecture_notes.html
-* https://www.marcellochiodi.com/homepage/teaching/ 
+* https://www.marcellochiodi.com/homepage/teaching/
 * http://www.math.kit.edu/iag6/lehre/combinatorics2017s/media/script.pdf
 * [Clara Löh](http://www.mathematik.uni-regensburg.de/loeh/teaching/)
 * [Collection of Math Notes](https://folk.ntnu.no/hanche/notes/)
@@ -126,7 +126,7 @@
 * http://www.home.uni-osnabrueck.de/mfrankland/6-132/6-132plan.html
 * [40 лучших курсов по математике для программистов](https://vk.com/@mygameunity-40-luchshih-kursov-po-matematike-dlya-programmistov)
 * [GTWA](http://www.zib.de/groetschel/teaching/WS1314/BondyMurtyGTWA.pdf)
-* [Kurs mit Beispielen](http://www.ipipan.eu/~teisseyrep/TEACHING/ASM/Zadania/) 
+* [Kurs mit Beispielen](http://www.ipipan.eu/~teisseyrep/TEACHING/ASM/Zadania/)
 * http://www.yildiz.edu.tr/~tastan/teaching/AEsyllabus.pdf
 
 * [Русскоязычный курс лекций от Computer Science Center по теории игр](https://vk.com/wall-24986735_113833)
@@ -143,7 +143,7 @@ https://acme.byu.edu/2022-2023-materials/
 * http://www.mathematik.uni-regensburg.de/loeh/teaching/algebra_ws1718/lecture_notes.pdf
 * http://www.mathematik.uni-regensburg.de/loeh/teaching/all_lecture_notes.html
 * [Introduction to Complex Analysis | Уэслианский университет](https://coursera.org/learn/complex-analysis)
-* https://www.tu-chemnitz.de/fsrmathe/studium/skripte/skripte/2011_SS_Hoehere_Mathematik_Herzog.pdf 
+* https://www.tu-chemnitz.de/fsrmathe/studium/skripte/skripte/2011_SS_Hoehere_Mathematik_Herzog.pdf
 * [Stepik - Дискретные структуры](https://stepik.org/course/83)
 * [Michael Eisermann - Vorlesung über Geometrische Topologie und Knotentheorie - WiSe 2019](https://pnp.mathematik.uni-stuttgart.de/igt/eiserm/lehre/2019/Geometrische-Topologie/)
 * [Geometrische Topologie und Knotentheorie - Eine Einführung in Bildern und Beispielen](https://pnp.mathematik.uni-stuttgart.de/igt/eiserm/lehre/2017/Geometrische-Topologie/Knoten.pdf)

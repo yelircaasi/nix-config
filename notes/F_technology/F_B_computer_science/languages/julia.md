@@ -411,7 +411,7 @@ $$$ https://proceedings.juliacon.org/https://proceedings.juliacon.org/https://pr
 
 
 ###  Courses and Tutorials
-* [Julia ML Course](https://bio322.epfl.ch/) 
+* [Julia ML Course](https://bio322.epfl.ch/)
 * https://blog.quantinsti.com/julia-syntax/
 * [Julia Cheet Sheat](https://juliadocs.github.io/Julia-Cheat-Sheet/)
 * https://github.com/chezou/julia-100-exercises
@@ -448,11 +448,11 @@ $$$ https://proceedings.juliacon.org/https://proceedings.juliacon.org/https://pr
 
 
 ###  Institutions
-* [https://www.jolin.io/](https://www.jolin.io/de/about-us/#our-expertise)  → https://www.jolin.io/de/about-us/#our-expertise 
+* [https://www.jolin.io/](https://www.jolin.io/de/about-us/#our-expertise)  → https://www.jolin.io/de/about-us/#our-expertise
 
 
 ###  Books
-* https://juliadatascience.io/pt/ 
+* https://juliadatascience.io/pt/
 * https://julialang.org/learning/books/
 * [Julia - Bit by Bit: Programming for Beginners (Undergraduate Topics in Computer Science)](http://library.lol/main/3E138E52A31A9B00AD75A122CCBFB276)
 * [Julia Programming for OR (author repo)](https://github.com/chkwon/jpor_codes)
@@ -487,7 +487,7 @@ $$$ https://proceedings.juliacon.org/https://proceedings.juliacon.org/https://pr
 * [https://discourse.julialang.org](https://discourse.julialang.org/)
 * [Julia Community](https://julialang.org/community/)
 * https://www.juliabloggers.com/
-* 1s: https://www.talkjulia.com/10 
+* 1s: https://www.talkjulia.com/10
 * [https://www.talkjulia.com/](https://www.talkjulia.com/10)
 
 
@@ -515,12 +515,12 @@ $$$ https://proceedings.juliacon.org/https://proceedings.juliacon.org/https://pr
 
 
 ###  Julia
-* https://tshort.github.io/Lorenz-WebAssembly-Model.jl/ 
-* https://juliadatascience.io/pt/ 
+* https://tshort.github.io/Lorenz-WebAssembly-Model.jl/
+* https://juliadatascience.io/pt/
 * [mo8it/How_To_Julia: Notebooks with tasks for a Julia course: https://how_to_julia.mo8it.com - How_To_Julia - Codeberg.org](https://codeberg.org/mo8it/How_To_Julia)
 * [pszufe/MIT_18.S097_Introduction-to-Julia-for-Data-Science: MIT_18.S097](https://github.com/pszufe/MIT_18.S097_Introduction-to-Julia-for-Data-Science)
 * https://github.com/AlgebraicJulia/Catlab.jl
-* https://github.com/AlgebraicJulia 
+* https://github.com/AlgebraicJulia
 * [algorithmsbooks](https://github.com/algorithmsbooks)
 * [Lux.jl](https://lux.csail.mit.edu/stable/)
 * [Julia programming for Machine Learning](https://adrhill.github.io/julia-ml-course/)
@@ -577,7 +577,7 @@ $$$ https://proceedings.juliacon.org/https://proceedings.juliacon.org/https://pr
 
 
 ###  Books
-* https://juliadatascience.io/ 
+* https://juliadatascience.io/
 * Julia as a Second Language
 * https://livebook.manning.com/book/julia-as-a-second-language
 
@@ -603,51 +603,51 @@ $$$ https://proceedings.juliacon.org/https://proceedings.juliacon.org/https://pr
 * https://fluxml.ai/Flux.jl/stable/gpu/#Disabling-CUDA-or-choosing-which-GPUs-are-visible-to-Flux
 
 
-* https://discourse.julialang.org/t/ann-datatoolkit-jl-reproducible-flexible-and-convenient-data-management/104757 
+* https://discourse.julialang.org/t/ann-datatoolkit-jl-reproducible-flexible-and-convenient-data-management/104757
 * https://discourse.julialang.org/t/best-all-purpose-text-or-website-for-learning-julia/104619/3 * [Julia Quick Syntax Reference: A Pocket Guide for Data Science Programming](http://library.lol/main/FD61CF1E5A4DFAB33A8E6DC938EEB276)
 
 
 ### Reading List (0)
 * https://bkamins.github.io/
-* https://www.simtech.uni-stuttgart.de/events/simtech-summer-school/SuSch_2/program/ 
-* https://bkamins.github.io/julialang/2023/07/27/replace.html 
-* https://bkamins.github.io/julialang/2023/07/21/df16.html 
-* https://bkamins.github.io/julialang/2023/08/03/laces.html 
-* https://bkamins.github.io/julialang/2023/07/14/graphpuzzle.html 
-* https://forem.julialang.org/gage/creating-nice-simple-geo-plots-from-scratch-using-makiejl-301 
-* https://forem.julialang.org/vinodv/exploring-the-matrix-inversion-lemma-in-julia-48id 
-* https://chifi.dev/an-in-depth-julia-lesson-on-parameters-2c98ac529b51 
-* https://chifi.dev/chifi-newsletter-august-6th-2023-67266335c575 
-* https://medium.com/@sumitudaypandit/julia-enters-top-20-in-tiobe-index-a-promising-future-for-high-performance-computing-ee82d4b71212 
-* https://chifi.dev/redirecting-output-in-julia-the-rundown-7a1c814f842f 
-* https://chifi.dev/even-more-olive-updates-b44578cb5eb5 
-* https://chifi.dev/adding-rpc-cells-to-olive-in-just-a-few-functions-4abad46f9e2e 
-* https://chifi.dev/rolling-arrays-dropping-vectors-in-julia-93c4e0813365 
-* https://chifi.dev/the-key-to-mastering-julia-eb011e4c17d8 
-* https://chifi.dev/object-oriented-multiple-dispatch-with-julia-8a1533f2236c 
-* https://scientificcoder.com/user-defined-show-method-in-julia 
-* https://scientificcoder.com/user-defined-show-method-in-julia 
-* https://towardsai.net/p/machine-learning/stop-ignoring-julia-learn-it-now-and-thank-your-younger-self-in-the-future 
-* https://medium.com/@HalderNilimesh/unraveling-non-linear-regression-in-julia-a-comprehensive-guide-with-practical-code-examples-6c03fe95b7c6 
-* https://levelup.gitconnected.com/meet-julia-the-future-of-data-science-401d8fb812dd 
-* https://medium.com/@ozanevkaya/fruitful-marriages-embedding-gpts-into-programming-environments-c60cc3d2376a 
-* https://5alman.medium.com/julia-101-ad6431aeafdf 
-* https://towardsdatascience.com/working-with-ms-sql-server-in-julia-fc6fcd55d69a 
+* https://www.simtech.uni-stuttgart.de/events/simtech-summer-school/SuSch_2/program/
+* https://bkamins.github.io/julialang/2023/07/27/replace.html
+* https://bkamins.github.io/julialang/2023/07/21/df16.html
+* https://bkamins.github.io/julialang/2023/08/03/laces.html
+* https://bkamins.github.io/julialang/2023/07/14/graphpuzzle.html
+* https://forem.julialang.org/gage/creating-nice-simple-geo-plots-from-scratch-using-makiejl-301
+* https://forem.julialang.org/vinodv/exploring-the-matrix-inversion-lemma-in-julia-48id
+* https://chifi.dev/an-in-depth-julia-lesson-on-parameters-2c98ac529b51
+* https://chifi.dev/chifi-newsletter-august-6th-2023-67266335c575
+* https://medium.com/@sumitudaypandit/julia-enters-top-20-in-tiobe-index-a-promising-future-for-high-performance-computing-ee82d4b71212
+* https://chifi.dev/redirecting-output-in-julia-the-rundown-7a1c814f842f
+* https://chifi.dev/even-more-olive-updates-b44578cb5eb5
+* https://chifi.dev/adding-rpc-cells-to-olive-in-just-a-few-functions-4abad46f9e2e
+* https://chifi.dev/rolling-arrays-dropping-vectors-in-julia-93c4e0813365
+* https://chifi.dev/the-key-to-mastering-julia-eb011e4c17d8
+* https://chifi.dev/object-oriented-multiple-dispatch-with-julia-8a1533f2236c
+* https://scientificcoder.com/user-defined-show-method-in-julia
+* https://scientificcoder.com/user-defined-show-method-in-julia
+* https://towardsai.net/p/machine-learning/stop-ignoring-julia-learn-it-now-and-thank-your-younger-self-in-the-future
+* https://medium.com/@HalderNilimesh/unraveling-non-linear-regression-in-julia-a-comprehensive-guide-with-practical-code-examples-6c03fe95b7c6
+* https://levelup.gitconnected.com/meet-julia-the-future-of-data-science-401d8fb812dd
+* https://medium.com/@ozanevkaya/fruitful-marriages-embedding-gpts-into-programming-environments-c60cc3d2376a
+* https://5alman.medium.com/julia-101-ad6431aeafdf
+* https://towardsdatascience.com/working-with-ms-sql-server-in-julia-fc6fcd55d69a
 * https://towardsdatascience.com/5-jupyter-notebook-tricks-i-only-discovered-2-years-into-my-data-science-career-99bbe482a45f
-* https://medium.datadriveninvestor.com/exploring-julia-programming-language-data-manipulation-part-1-98628527c981 
-* https://medium.datadriveninvestor.com/exploring-julia-programming-language-data-manipulation-part-2-5bcaba1fa7d1 
-* https://medium.datadriveninvestor.com/exploring-julia-programming-language-data-manipulation-part-3-cd3e9f4270d6 
-* https://pub.towardsai.net/gated-recurrent-neural-network-from-scratch-in-julia-ad8b2dabe37f 
-* https://medium.com/@sddkal/julia-plotting-maximum-drawdown-90202fdb698c 
-* https://www.tiobe.com/tiobe-index/ 
-* https://info.juliahub.com/juliahub-presentations-at-juliacon-july-26-28-in-cambridge-ma 
-* https://info.juliahub.com/large-language-model-llm-tutorial-with-julias-transformers.jl 
-* https://cormullion.github.io/ 
-* https://www.computerworld.es/tecnologia/el-lenguaje-de-programacion-julia-se-cuela-entre-los-20-primeros-del-indice-de-popularidad-de-tiobe 
-* https://blog.devgenius.io/the-popularity-of-data-science-languages-python-and-r-july-2023-update-29f95593085 
-* https://juliagpu.org/post/2023-07-19-oneapi_profiling/ 
-* https://info.juliahub.com/ask-ai-chat-gpt-juliahub 
-* https://discourse.julialang.org/t/this-month-in-julia-world-2023-07/102276 
+* https://medium.datadriveninvestor.com/exploring-julia-programming-language-data-manipulation-part-1-98628527c981
+* https://medium.datadriveninvestor.com/exploring-julia-programming-language-data-manipulation-part-2-5bcaba1fa7d1
+* https://medium.datadriveninvestor.com/exploring-julia-programming-language-data-manipulation-part-3-cd3e9f4270d6
+* https://pub.towardsai.net/gated-recurrent-neural-network-from-scratch-in-julia-ad8b2dabe37f
+* https://medium.com/@sddkal/julia-plotting-maximum-drawdown-90202fdb698c
+* https://www.tiobe.com/tiobe-index/
+* https://info.juliahub.com/juliahub-presentations-at-juliacon-july-26-28-in-cambridge-ma
+* https://info.juliahub.com/large-language-model-llm-tutorial-with-julias-transformers.jl
+* https://cormullion.github.io/
+* https://www.computerworld.es/tecnologia/el-lenguaje-de-programacion-julia-se-cuela-entre-los-20-primeros-del-indice-de-popularidad-de-tiobe
+* https://blog.devgenius.io/the-popularity-of-data-science-languages-python-and-r-july-2023-update-29f95593085
+* https://juliagpu.org/post/2023-07-19-oneapi_profiling/
+* https://info.juliahub.com/ask-ai-chat-gpt-juliahub
+* https://discourse.julialang.org/t/this-month-in-julia-world-2023-07/102276
 
 
 * https://www.manning.com/books/julia-for-data-analysis

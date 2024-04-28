@@ -10,7 +10,7 @@
 * https://github.com/martanne/vis - "a modern, legacy free, simple yet efficient vim-like editor" - [structural res](https://what.happens.when.computer/2016-08-30/structural-res/),  [sre paper](http://doc.cat-v.org/bell_labs/structural_regexps/se.pdf)
 * https://github.com/mawww/kakoune - [kakoune](https://kakoune.org/) - Modal editor with multiple selections and orthogonal design.
 * https://github.com/zyedidia/micro
-* https://github.com/adsr/mle 
+* https://github.com/adsr/mle
 * [zee](https://github.com/zee-editor/zee) - Zee is a modern editor for the terminal, in the spirit of Emacs. It is written in Rust and it is somewhat experimental.
 * [ash](https://github.com/akashnag/ash) - A simple and clean terminal-based text editor, that aims to be easy to use with modern key-bindings.
 * [Spacemacs](https://www.spacemacs.org/) - A community-driven Emacs distribution.
@@ -30,13 +30,12 @@
 * [CUA Bindings (GNU Emacs Manual)](https://www.gnu.org/software/emacs/manual/html_node/emacs/CUA-Bindings.html)
 * [Vim vs Emacs (dt)](https://www.youtube.com/watch?v=VaBdlcYaZLQ)
 * emacs magit
-* [Editor Bootstrap](https://github.com/editor-bootstrap)* 
+* [Editor Bootstrap](https://github.com/editor-bootstrap)*
 
 Kate
 
 
 ### Science and Education
-
 
 * Bibliography Management
 * [bib.awk](https://github.com/huijunchen9260/bib.awk) - Bibliography manager written in awk.
@@ -91,7 +90,10 @@ Kate
 ### Other
 
 
-* Virtualization and Containerization - Later* - Android        - [Anbox](https://anbox.io/) - Run Android applications on any GNU/Linux operating system.        - [Android Studio](https://developer.android.com/studio/) - The Official IDE for Android: Android Studio provides the fastest tools for building apps on every type of Android device.        - [Waydroid](https://waydro.id/) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
+* Virtualization and Containerization - Later* - Android
+* [Anbox](https://anbox.io/) - Run Android applications on any GNU/Linux operating system.
+* [Android Studio](https://developer.android.com/studio/) - The Official IDE for Android: Android Studio provides the fastest tools for building apps on every type of Android device.
+* [Waydroid](https://waydro.id/) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 * [GNOME Boxes](https://apps.gnome.org/app/org.gnome.Boxes/) - Virtualization made simple.
 * [QEMU](http://www.qemu-project.org/) - QEMU is a generic and open source machine emulator and virtualizer. ([GNU GPLv2](http://wiki.qemu-project.org/License))
 * [Quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
@@ -170,9 +172,102 @@ Kate
 * [usolitaire](https://github.com/eliasdorneles/usolitaire) - Solitaire in your terminal.
 * [wordle-curses](https://github.com/knosmos/wordle-curses) - A simple TUI wordle game with curses.
 * [Words](https://github.com/ludovicianul/words) - A set of word-based puzzle games for the CLI while you wait for the build to run.
-* Games* - City Building Simulation        - [Dwarf Fortress](http://www.bay12games.com/dwarves/) - A famously complex simulation of a High Fantasy Dwarf Fortress, fight goblins, and slay massive legendary beasts. Strike the earth!        - [OpenTTD](https://www.openttd.org/) - An open-source clone of Transport Tycoon Plus with major improvements.        - [Simutrans](https://www.simutrans.com/) - Simutrans is a freeware and open-source transportation simulator.        - [Unknown Horizons](http://unknown-horizons.org/) - A 2D realtime strategy simulation with an emphasis on economy and city building. Multiplayer currently broken.* - Command Line        - [2048](https://github.com/mydzor/bash2048) - Play the famous 2048 in commandline.        - [Bastet](https://fph.altervista.org/prog/bastet.html) - Play Tetris in commandline.        - [nSnake](https://github.com/alexdantas/nsnake) - Play the classic Nokia snake game on the command line.        - [Pacman4console](https://launchpad.net/ubuntu/+source/pacman4console) - Play Pacman game in console.        - [Pokete](https://lxgr-linux.github.io/pokete/) - A terminal based Pokemon like game.        - [tty-solitaire](https://github.com/mpereira/tty-solitaire) - Play solitaire in your terminal!* - Engine Re-creations (require the actual game)        - [Freeablo](https://freeablo.org/) - A free recreation of the original Diablo game engine that runs natively on Linux. Requires the original game assets.        - [NXEngine](https://nxengine.sourceforge.io/) - A source port of Cave Story that runs natively on Linux, source needs to be built.        - [NXEngine-evo](https://github.com/nxengine/nxengine-evo) - A somewhat upgraded/refactored version of NXEngine by Caitlin Shaw.        - [openage](https://openage.sft.mx/) - Free (as in freedom) open source clone of the Age of Empires II engine, source needs to be built.        - [OpenMW](https://openmw.org/) - A recreation of the Morrowind engine, expanding upon the original. It can be used to play legitimate copies of original game.        - [OpenRA](https://www.openra.net/) - Classic strategy games, rebuilt for the modern era. Open source.        - [OpenRCT2](https://openrct2.io/) - A recreation of the Rollercoaster Tycoon 2 engine. Requires the original games assests.* - FPS        - [ChaosEsqueAnthology Disc 1](https://sourceforge.net/projects/chaosesqueanthology/) [ChaosEsqueAnthology Disc 2](https://sourceforge.net/projects/chaosesqueanthologyvolume2/) - A modification of Xonotic which included extended weapons, maps, vehicles, buildable buildings, mounted weapons, spell casting, monsters, player characters, textures, and game mode (such as colorwar (think liquidwar)).        - [Freedoom](https://freedoom.github.io/) - Free version of the original Doom games, with newly created free-licensed assets.        - [OpenArena](https://sourceforge.net/projects/oarena/) - Free and open-source clone of Quake III Arena, based on the realeased source code, with newly created assets.        - [Red Eclipse](https://redeclipse.net/) - Red Eclipse is a fun-filled new take on the first person arena shooter, which lends itself toward a balanced gameplay, with a general theme of agility in a variety of environments.        - [Urban Terror](https://www.urbanterror.info/) - A “Hollywood” tactical shooter - realism based, but the motto is “fun over realism”.        - [Xonotic](https://www.xonotic.org/) - Arena shooter inspired by Unreal Tournament and Quake.        - [Zandronum](https://zandronum.com/) - Leading the way in newschool multiplayer Doom online.        - [Zdoom](https://zdoom.org/index) - ZDoom is a source port for the modern era, supporting current hardware and operating systems and sporting a vast array of user options.* - Miscellaneous        - [FlightGear](https://home.flightgear.org/) - Professional quality 3D flight simulator.        - [Mudlet](https://www.mudlet.org/) - A cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua.        - [Neverball](https://neverball.org/) - Addictive ball-rolling game with many levels, avatars and an ability to record replays.        - [OhMyGiraffe](https://www.ohmygiraffe.com/) - A delightful game of survival. A game about a giraffe eating fruit while being chased by lions.        - [Open Surge](https://opensurge2d.org/) - A 2D platformer and game creation engine inspired by the 16-bit Sonic the Hedgehog games.        - [Snake Game](https://aprilcoskun.github.io/snake/) - Cross-platform Classic Snake Game based on Node.js.        - [SuperTux](http://www.supertux.org/) - Clone of the popular sidescrolling Super Mario games.* - Puzzle        - [Cockatrice](https://cockatrice.github.io/) - Cockatrice is an open-source multiplatform supported program for playing tabletop card games over a network.        - [Galois](https://www.nongnu.org/galois/) - Galois is a Falling Blocks type game that isn’t limited to the standard tetrominoes that most games in it’s genre are limited to.        - [GBrainy](https://wiki.gnome.org/action/show/Apps/gbrainy) - Gbrainy is a brain teaser game with logic puzzles and memory trainers.        - [Pingus](https://pingus.seul.org/) - 2D puzzle game that clones the popular Lemmings. Your goal is to guide a group of penguins safely across the game map.* - Racing        - [MotoGT](http://motogt.sourceforge.net/) - 2D top-viewed game where you drive a MotoGP bike.        - [SuperTuxKart](https://supertuxkart.net/) - SuperTuxKart is a 3D open-source arcade racer with a variety characters, tracks, and modes to play.        - [XMoto](https://xmoto.tuxfamily.org/) - 2D motocross physics-based game requiring a lot of skill to master, with a built-in replay-recording and sharing system.* - RPG        - [FLARE](http://flarerpg.org/) - Singleplayer Diablo clone with beautiful original graphics.        - [FreedroidRPG](http://www.freedroid.org/) - Sci-fi 2D top-down RPG inspired by Diablo games.        - [Ryzom](https://ryzom.com/) - Free and open-source 3D MMORPG with unique features and deep lore. The official servers allow free accounts as well as paid subscriptions with extra features.        - [Tales of Maj’Eyal](https://te4.org/) - Tales of Maj’Eyal (ToME) is a free, open source roguelike RPG, featuring tactical turn-based combat and advanced character building.        - [Veloren](https://veloren.net/) - Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.        - [Zelda Classic](https://www.zeldaclassic.com/) - A tribute to Nintendo’s The Legend of Zelda with additional quests, items and challenges.        - [Zelda: Mystery of Solarus DX](http://www.solarus-games.org/) - A direct sequel to The Legend of Zelda: A Link to the Past on the SNES, using the same graphics and game mechanisms.* - RTS        - [0 A.D.](https://play0ad.com/) - Age of Empires like RTS game of ancient warfare.        - [Mindustry](https://mindustrygame.github.io/) - The automation tower defense RTS, written in Java.        - [Nethack](https://www.nethack.org/) - Open-source rogue-like with ASCII graphics.        - [TripleA](https://triplea-game.org/) - Open source grand strategy game with “Axis and Allies” game rules.        - [Warzone 2100](https://wz2100.net/) - Open-source real-time strategy game that takes place after a nuclear war.        - [Widelands](https://wl.widelands.org/) - Widelands is a open source RTS game with singleplayer campaigns and a multiplayer mode inspired by Settlers II.* - Sandbox        - [Factorio](https://www.factorio.com/) - A factory building sandbox game.        - [Mcpelauncher](https://mcpelauncher.readthedocs.io/en/latest/) - Unoffical Open-source launcher for Minecraft: Bedrock edition.        - [Minecraft](https://minecraft.net/) - Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles.        - [Minetest](https://minetest.net/) - Open-source Minecraft written in C++ (uses less resources) and includes modding API.        - [MultiMC](https://multimc.org/) - MultiMC is an alternative launcher for Minecraft. It allows you to have multiple, cleanly separated instances of Minecraft (each with their own mods, resource packs, saves, etc) and helps you manage them and their associated options with a simple and powerful interface.        - [Prism Launcher](https://prismlauncher.org/) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC and PolyMC).* - Shooter        - [AstroMenace](https://viewizard.com/) - Hardcore 3D space scroll-shooter with spaceship upgrade possibilities.        - [C-Dogs SDL](https://cxong.github.io/cdogs-sdl/) - Classic overhead run-and-gun game in beautiful pixel-art.* - Turn Based Strategy        - [Battle for Wesnoth](https://wesnoth.org/) - The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat.        - [FreeCiv](http://www.freeciv.org/) - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization.        - [HedgeWars](https://www.hedgewars.org/) - 2D game where teams compete in the style of the popular Worms games.        - [Tanks of Freedom](https://w84death.itch.io/tanks-of-freedom) - Pixel-art military strategy implemented in Godot game engine.
-* - Machine Emulators - All-in-One        - [ares](https://ares-emu.net/) - A multi-system console emulation suite.        - [EmuDeck](https://www.emudeck.com/) - Emulator configurator for Steam Deck.        - [GNOME Video Arcade](https://wiki.gnome.org/action/show/Apps/GnomeVideoArcade) - GNOME Video Arcade is a simple Mame frontend for any freedesktop.org compliant desktop environment.        - [Higan](https://github.com/higan-emu/higan) - Higan is a multi-system emulator that supports emulating a huge number of different systems including: NES, SNES, GameBoy, GameBoy Color, Gameboy Advance, NEC PC Engine, Sega Master System, and more. Here is a guide to install it on Linux [Higan Installation](https://higan.readthedocs.io/en/stable/install/linux/).        - [MAME](https://mamedev.org/) - MAME is an Arcade Cabinet emulator that strives for accuracy, and can play a huge number of different arcade games.        - [qmc2](https://qmc2.batcom-it.net/) - QMC2 is the successor to QMamecat, it is a gui for MAME and a ROM manager.        - [RetroArch](https://www.retroarch.com/) - A front-end for a lot of game emulators.        - [RetroDECK](https://retrodeck.net/) - Everything you need for emulation on Steam Deck.* - Machine Emulators - Atari        - [Stella](https://stella-emu.github.io/) - Is an Atari 2600 Emulator that is multiplatform.* - Machine Emulators - Microsoft        - [xemu](https://xemu.app/) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development).* - Machine Emulators - Nintendo        - [Citra](https://citra-emu.org/) - Citra is an open-source emulator for the Nintendo 3DS capable of playing many of your favorite games.        - [DeSmuME](https://desmume.org/) - DeSmuME is a Nintendo DS emulator.        - [Dolphin Emulator](https://dolphin-emu.org/) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.        - [melonDS](https://melonds.kuribo64.net/) - melonDS aims at providing fast and accurate Nintendo DS emulation.        - [mGBA](https://mgba.io/) - mGBA is an open-source Game Boy Advance emulator.        - [nestopia](http://0ldsk00l.ca/nestopia/) - nestopia is a Nintendo Entertainment System/Famicon emulator.        - [Ryujinx](https://ryujinx.org/) - Ryujinx is an open-source Nintendo Switch emulator created by gdkchan and written in C#.        - [Snes9x](http://www.snes9x.com/) - Is a multiplatform Super Nintendo Entertainment System emulator that has gone through many incarnations, but is still being actively developed.        - [Visual Boy Advance-M](https://vba-m.com/) - A Gameboy and Gameboy Advance Emulator that is still undergoing active development and can even emulate a system link between two gameboys.        - [yuzu](https://yuzu-emu.org/) - yuzu is an experimental open-source emulator for the Nintendo Switch from the creators of Citra.        - [ZSNES](https://www.zsnes.com/) - A capable and commonly used Super Nintendo Entertainment System/Super Famicom emulator, many consider it the gold standard in SNES/Super Famicom emulation.* - Machine Emulators - Sony        - [PCSX2](https://pcsx2.net/) - PCSX2 is a free and open-source PlayStation 2 (PS2) emulator.        - [Play!](https://purei.org/) - Play! is a PlayStation2 emulator for Windows, macOS, UNIX, Android, iOS and web browser platforms.        - [PPSSPP](https://www.ppsspp.org/) - PPSSPP is a PSP emulator that can run games full HD resolution. It can even upscale textures that would otherwise be too blurry as they were made for the small screen of the original PSP.        - [RPCS3](https://rpcs3.net/) - RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger written in C++ for Windows, Linux, macOS and FreeBSD.        - [Vita3K](https://vita3k.org/) - Vita3K is an experimental PlayStation Vita emulator for Windows and Linux.* - Machine Emulators - ZX Spectrum        - [Fuse](http://fuse-emulator.sourceforge.net/) - Fuse (the Free Unix Spectrum Emulator) is a ZX Spectrum emulator for Unix.
-* 
+
+### Games*
+* City Building Simulation
+* [Dwarf Fortress](http://www.bay12games.com/dwarves/) - A famously complex simulation of a High Fantasy Dwarf Fortress, fight goblins, and slay massive legendary beasts. Strike the earth!
+* [OpenTTD](https://www.openttd.org/) - An open-source clone of Transport Tycoon Plus with major improvements.
+* [Simutrans](https://www.simutrans.com/) - Simutrans is a freeware and open-source transportation simulator.
+* [Unknown Horizons](http://unknown-horizons.org/) - A 2D realtime strategy simulation with an emphasis on economy and city building. Multiplayer currently broken.* - Command Line
+* [2048](https://github.com/mydzor/bash2048) - Play the famous 2048 in commandline.
+* [Bastet](https://fph.altervista.org/prog/bastet.html) - Play Tetris in commandline.
+* [nSnake](https://github.com/alexdantas/nsnake) - Play the classic Nokia snake game on the command line.
+* [Pacman4console](https://launchpad.net/ubuntu/+source/pacman4console) - Play Pacman game in console.
+* [Pokete](https://lxgr-linux.github.io/pokete/) - A terminal based Pokemon like game.
+* [tty-solitaire](https://github.com/mpereira/tty-solitaire) - Play solitaire in your terminal!* - Engine Re-creations (require the actual game)
+* [Freeablo](https://freeablo.org/) - A free recreation of the original Diablo game engine that runs natively on Linux. Requires the original game assets.
+* [NXEngine](https://nxengine.sourceforge.io/) - A source port of Cave Story that runs natively on Linux, source needs to be built.
+* [NXEngine-evo](https://github.com/nxengine/nxengine-evo) - A somewhat upgraded/refactored version of NXEngine by Caitlin Shaw.
+* [openage](https://openage.sft.mx/) - Free (as in freedom) open source clone of the Age of Empires II engine, source needs to be built.
+* [OpenMW](https://openmw.org/) - A recreation of the Morrowind engine, expanding upon the original. It can be used to play legitimate copies of original game.
+* [OpenRA](https://www.openra.net/) - Classic strategy games, rebuilt for the modern era. Open source.
+* [OpenRCT2](https://openrct2.io/) - A recreation of the Rollercoaster Tycoon 2 engine. Requires the original games assests.* - FPS
+* [ChaosEsqueAnthology Disc 1](https://sourceforge.net/projects/chaosesqueanthology/) [ChaosEsqueAnthology Disc 2](https://sourceforge.net/projects/chaosesqueanthologyvolume2/) - A modification of Xonotic which included extended weapons, maps, vehicles, buildable buildings, mounted weapons, spell casting, monsters, player characters, textures, and game mode (such as colorwar (think liquidwar)).
+* [Freedoom](https://freedoom.github.io/) - Free version of the original Doom games, with newly created free-licensed assets.
+* [OpenArena](https://sourceforge.net/projects/oarena/) - Free and open-source clone of Quake III Arena, based on the realeased source code, with newly created assets.
+* [Red Eclipse](https://redeclipse.net/) - Red Eclipse is a fun-filled new take on the first person arena shooter, which lends itself toward a balanced gameplay, with a general theme of agility in a variety of environments.
+* [Urban Terror](https://www.urbanterror.info/) - A “Hollywood” tactical shooter - realism based, but the motto is “fun over realism”.
+* [Xonotic](https://www.xonotic.org/) - Arena shooter inspired by Unreal Tournament and Quake.
+* [Zandronum](https://zandronum.com/) - Leading the way in newschool multiplayer Doom online.
+* [Zdoom](https://zdoom.org/index) - ZDoom is a source port for the modern era, supporting current hardware and operating systems and sporting a vast array of user options.* - Miscellaneous
+* [FlightGear](https://home.flightgear.org/) - Professional quality 3D flight simulator.
+* [Mudlet](https://www.mudlet.org/) - A cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua.
+* [Neverball](https://neverball.org/) - Addictive ball-rolling game with many levels, avatars and an ability to record replays.
+* [OhMyGiraffe](https://www.ohmygiraffe.com/) - A delightful game of survival. A game about a giraffe eating fruit while being chased by lions.
+* [Open Surge](https://opensurge2d.org/) - A 2D platformer and game creation engine inspired by the 16-bit Sonic the Hedgehog games.
+* [Snake Game](https://aprilcoskun.github.io/snake/) - Cross-platform Classic Snake Game based on Node.js.
+* [SuperTux](http://www.supertux.org/) - Clone of the popular sidescrolling Super Mario games.* - Puzzle
+* [Cockatrice](https://cockatrice.github.io/) - Cockatrice is an open-source multiplatform supported program for playing tabletop card games over a network.
+* [Galois](https://www.nongnu.org/galois/) - Galois is a Falling Blocks type game that isn’t limited to the standard tetrominoes that most games in it’s genre are limited to.
+* [GBrainy](https://wiki.gnome.org/action/show/Apps/gbrainy) - Gbrainy is a brain teaser game with logic puzzles and memory trainers.
+* [Pingus](https://pingus.seul.org/) - 2D puzzle game that clones the popular Lemmings. Your goal is to guide a group of penguins safely across the game map.* - Racing
+* [MotoGT](http://motogt.sourceforge.net/) - 2D top-viewed game where you drive a MotoGP bike.
+* [SuperTuxKart](https://supertuxkart.net/) - SuperTuxKart is a 3D open-source arcade racer with a variety characters, tracks, and modes to play.
+* [XMoto](https://xmoto.tuxfamily.org/) - 2D motocross physics-based game requiring a lot of skill to master, with a built-in replay-recording and sharing system.* - RPG
+* [FLARE](http://flarerpg.org/) - Singleplayer Diablo clone with beautiful original graphics.
+* [FreedroidRPG](http://www.freedroid.org/) - Sci-fi 2D top-down RPG inspired by Diablo games.
+* [Ryzom](https://ryzom.com/) - Free and open-source 3D MMORPG with unique features and deep lore. The official servers allow free accounts as well as paid subscriptions with extra features.
+* [Tales of Maj’Eyal](https://te4.org/) - Tales of Maj’Eyal (ToME) is a free, open source roguelike RPG, featuring tactical turn-based combat and advanced character building.
+* [Veloren](https://veloren.net/) - Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.
+* [Zelda Classic](https://www.zeldaclassic.com/) - A tribute to Nintendo’s The Legend of Zelda with additional quests, items and challenges.
+* [Zelda: Mystery of Solarus DX](http://www.solarus-games.org/) - A direct sequel to The Legend of Zelda: A Link to the Past on the SNES, using the same graphics and game mechanisms.* - RTS
+* [0 A.D.](https://play0ad.com/) - Age of Empires like RTS game of ancient warfare.
+* [Mindustry](https://mindustrygame.github.io/) - The automation tower defense RTS, written in Java.
+* [Nethack](https://www.nethack.org/) - Open-source rogue-like with ASCII graphics.
+* [TripleA](https://triplea-game.org/) - Open source grand strategy game with “Axis and Allies” game rules.
+* [Warzone 2100](https://wz2100.net/) - Open-source real-time strategy game that takes place after a nuclear war.
+* [Widelands](https://wl.widelands.org/) - Widelands is a open source RTS game with singleplayer campaigns and a multiplayer mode inspired by Settlers II.* - Sandbox
+* [Factorio](https://www.factorio.com/) - A factory building sandbox game.
+* [Mcpelauncher](https://mcpelauncher.readthedocs.io/en/latest/) - Unoffical Open-source launcher for Minecraft: Bedrock edition.
+* [Minecraft](https://minecraft.net/) - Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles.
+* [Minetest](https://minetest.net/) - Open-source Minecraft written in C++ (uses less resources) and includes modding API.
+* [MultiMC](https://multimc.org/) - MultiMC is an alternative launcher for Minecraft. It allows you to have multiple, cleanly separated instances of Minecraft (each with their own mods, resource packs, saves, etc) and helps you manage them and their associated options with a simple and powerful interface.
+* [Prism Launcher](https://prismlauncher.org/) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC and PolyMC).* - Shooter
+* [AstroMenace](https://viewizard.com/) - Hardcore 3D space scroll-shooter with spaceship upgrade possibilities.
+* [C-Dogs SDL](https://cxong.github.io/cdogs-sdl/) - Classic overhead run-and-gun game in beautiful pixel-art.* - Turn Based Strategy
+* [Battle for Wesnoth](https://wesnoth.org/) - The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat.
+* [FreeCiv](http://www.freeciv.org/) - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization.
+* [HedgeWars](https://www.hedgewars.org/) - 2D game where teams compete in the style of the popular Worms games.
+* [Tanks of Freedom](https://w84death.itch.io/tanks-of-freedom) - Pixel-art military strategy implemented in Godot game engine.
+* - Machine Emulators - All-in-One
+* [ares](https://ares-emu.net/) - A multi-system console emulation suite.
+* [EmuDeck](https://www.emudeck.com/) - Emulator configurator for Steam Deck.
+* [GNOME Video Arcade](https://wiki.gnome.org/action/show/Apps/GnomeVideoArcade) - GNOME Video Arcade is a simple Mame frontend for any freedesktop.org compliant desktop environment.
+* [Higan](https://github.com/higan-emu/higan) - Higan is a multi-system emulator that supports emulating a huge number of different systems including: NES, SNES, GameBoy, GameBoy Color, Gameboy Advance, NEC PC Engine, Sega Master System, and more. Here is a guide to install it on Linux [Higan Installation](https://higan.readthedocs.io/en/stable/install/linux/).
+* [MAME](https://mamedev.org/) - MAME is an Arcade Cabinet emulator that strives for accuracy, and can play a huge number of different arcade games.
+* [qmc2](https://qmc2.batcom-it.net/) - QMC2 is the successor to QMamecat, it is a gui for MAME and a ROM manager.
+* [RetroArch](https://www.retroarch.com/) - A front-end for a lot of game emulators.
+* [RetroDECK](https://retrodeck.net/) - Everything you need for emulation on Steam Deck.* - Machine Emulators - Atari
+* [Stella](https://stella-emu.github.io/) - Is an Atari 2600 Emulator that is multiplatform.* - Machine Emulators - Microsoft
+* [xemu](https://xemu.app/) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development).* - Machine Emulators - Nintendo
+* [Citra](https://citra-emu.org/) - Citra is an open-source emulator for the Nintendo 3DS capable of playing many of your favorite games.
+* [DeSmuME](https://desmume.org/) - DeSmuME is a Nintendo DS emulator.
+* [Dolphin Emulator](https://dolphin-emu.org/) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
+* [melonDS](https://melonds.kuribo64.net/) - melonDS aims at providing fast and accurate Nintendo DS emulation.
+* [mGBA](https://mgba.io/) - mGBA is an open-source Game Boy Advance emulator.
+* [nestopia](http://0ldsk00l.ca/nestopia/) - nestopia is a Nintendo Entertainment System/Famicon emulator.
+* [Ryujinx](https://ryujinx.org/) - Ryujinx is an open-source Nintendo Switch emulator created by gdkchan and written in C#.
+* [Snes9x](http://www.snes9x.com/) - Is a multiplatform Super Nintendo Entertainment System emulator that has gone through many incarnations, but is still being actively developed.
+* [Visual Boy Advance-M](https://vba-m.com/) - A Gameboy and Gameboy Advance Emulator that is still undergoing active development and can even emulate a system link between two gameboys.
+* [yuzu](https://yuzu-emu.org/) - yuzu is an experimental open-source emulator for the Nintendo Switch from the creators of Citra.
+* [ZSNES](https://www.zsnes.com/) - A capable and commonly used Super Nintendo Entertainment System/Super Famicom emulator, many consider it the gold standard in SNES/Super Famicom emulation.* - Machine Emulators - Sony
+* [PCSX2](https://pcsx2.net/) - PCSX2 is a free and open-source PlayStation 2 (PS2) emulator.
+* [Play!](https://purei.org/) - Play! is a PlayStation2 emulator for Windows, macOS, UNIX, Android, iOS and web browser platforms.
+* [PPSSPP](https://www.ppsspp.org/) - PPSSPP is a PSP emulator that can run games full HD resolution. It can even upscale textures that would otherwise be too blurry as they were made for the small screen of the original PSP.
+* [RPCS3](https://rpcs3.net/) - RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger written in C++ for Windows, Linux, macOS and FreeBSD.
+* [Vita3K](https://vita3k.org/) - Vita3K is an experimental PlayStation Vita emulator for Windows and Linux.* - Machine Emulators - ZX Spectrum
+* [Fuse](http://fuse-emulator.sourceforge.net/) - Fuse (the Free Unix Spectrum Emulator) is a ZX Spectrum emulator for Unix.
+*
 * Image & Graphics - Later
 * [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - A cli for traversing the Mandelbrot fractal.
 * [deviceframe](https://github.com/c0bra/deviceframe) - Put device frames around mobile/web/progressive app screenshots.
@@ -181,14 +276,74 @@ Kate
 * [mandelbrot-cli](https://github.com/MicheleFiladelfia/mandelbrot-cli) - Multiplatform terminal mandelbrot set explorer.
 * [scrot](https://github.com/dreamer/scrot) - A simple CLI tool to capture screenshots.
 * [svgcleaner](https://github.com/RazrFalcon/svgcleaner) - Clean up your SVG files from the unnecessary data.
-* [SVGO](https://github.com/svg/svgo) - SVG Optimizer is a Node.js-based tool for optimizing SVG vector graphics files.* - Graphic Creation        - [Aseprite](https://www.aseprite.org/) - Animated sprite editor & pixel art tool.        - [Cinepaint](http://cinepaint.org/) - Open source deep paint software.        - [Drawing](https://maoschanz.github.io/drawing/) - This free basic raster image editor is similar to Microsoft Paint, but aiming at the GNOME desktop.        - [Gravit](https://www.designer.io/) - Gravit Designer is a full featured free vector design app right at your fingertip.        - [Heron Animation](https://heronanimation.brunolefevre.net/) - A free stop animation making program.        - [Krita](https://krita.org/en/) - Open Source Software for Concept Artists, Digital Painters, and Illustrators.        - [Lunacy](https://icons8.com/lunacy/) - Free design software that keeps your flow with AI tools and built-in graphics        - [Mypaint](https://github.com/mypaint/mypaint)) - Mypaint is a paint program for use with graphics tablets.        - [Open DVD Producer](https://opendvdproducer.jonata.org/) - A modern, open source cross platform software to produce DVD images.        - [Pinta](https://www.pinta-project.com/) - Pinta is a free, open source program for drawing and image editing.        - [Pixelorama](https://orama-interactive.itch.io/pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine!        - [StopMotion](http://linuxstopmotion.org/) - Linux Stopmotion is a Free Open Source application to create stop-motion animations. It helps you capture and edit the frames of your animation and export them as a single file.        - [Sweet Home 3D](http://www.sweethome3d.com/) - House interior and exterior designer with 3D preview, free model database, virtual visits and useful repository of plugins.        - [Synfig Studio](https://www.synfig.org/) - Open-source 2D animation software.* - Image Editor        - [Hugin](http://hugin.sourceforge.net/) - An easy to use cross-platform panoramic imaging toolchain based on Panorama Tools.        - [Luminance HDR](http://qtpfsgui.sourceforge.net/) - Luminance HDR is an open source graphical user interface application that aims to provide a workflow for HDR imaging.        - [Photivo](http://photivo.org/) - Photivo is a free and open source (GPL3) photo processor, handles your RAW and bitmap files (TIFF, JPEG, BMP, PNG and many more) in a non-destructive 16 bit processing pipe with gimp workflow integration and batch mode. It is intended to be used in a workflow together with digiKam/F-Spot/Shotwell and Gimp.        - [Piskel](https://www.piskelapp.com/) - Browser-based editor for animated sprites and pixel art. Available as offline application.        - [Pixelitor](http://pixelitor.sourceforge.net/) - Pixelitor is a free and open source image editing software that supports layers, layer masks, text layers, filters, multiple undo etc.* - Image Management        - [ExifCleaner](https://exifcleaner.com/) - Remove image metadata with drag and drop. Supports multi-core batch processing.        - [Feh](https://feh.finalrewind.org/) - Lightweight and fast image viewer.        - [Fotoxx](https://www.kornelix.net/fotoxx/fotoxx.html) - Fotoxx is a free open source Linux program for image editing and collection management.        - [gThumb](https://wiki.gnome.org/Apps/Gthumb) - gThumb is an image viewer and browser (it also includes an importer tool for transferring photos from cameras).        - [gwenview](https://apps.kde.org/gwenview/) - Simple yet powerful image viewer and management for KDE desktops.        - [Imagine](https://github.com/meowtec/Imagine) - An open source image optimizer that can shrink the size of images with a minimal loss of quality.        - [Phockup](https://github.com/ivandokov/phockup) - Command line sorting tool to organize photos and videos from your camera in folders by year, month and day.        - [Photonic](https://github.com/oferkv/phototonic) - Phototonic is image viewer and organizer.        - [quickviewer](https://kanryu.github.io/quickviewer/) - Very fast image/comic viewer by using OpenGL.        - [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Shotwell is a photo manager for GNOME.* - PSD, Sketch Inspection        - [Avocode](https://avocode.com/) - Avocode - Share and inspect Photoshop and Sketch designs in a heart beat.* - Screen Recorder        - [Green Recorder](https://github.com/dvershinin/green-recorder) - A simple desktop recorder for Linux systems, supports recording audio and video on almost all Linux interfaces and Wayland display server on GNOME session.        - [Kazam](https://launchpad.net/kazam) - An easy to use and very intuitive screen recording program that will capture the content of your screen and record a video file that can be played by any video player that supports VP8/WebM video format.        - [Kooha](https://apps.gnome.org/app/io.github.seadve.Kooha/) - A simple screen recorder written with GTK. It allows you to record your screen and also audio from your microphone or desktop.        - [Silentcast](https://github.com/colinkeenan/silentcast) - Silentcast can create MKV screencasts and also output to an animated GIF.        - [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/) - SimpleScreenRecorder is a feature-rich screen recorder that supports X11 and OpenGL. It has a Qt-based graphical user interface.        - [Vokoscreen](http://linuxecke.volkoh.de/vokoscreen/vokoscreen.html) - A free, multilingual and easy to use screencast recorder with audio for Linux. It has many features.* - Screenshot        - [Ksnip](https://github.com/ksnip/ksnip#ksnip) - Ksnip is a Qt-based cross-platform screenshot tool that provides many annotation features for your screenshots.        - [ScreenCloud](https://screencloud.net/) - ScreenCloud is an easy to use screenshot sharing tool consisting of a cross-platform client and a sharing website.        - [Spectacle](https://apps.kde.org/spectacle/) - Spectacle is a simple application for capturing desktop screenshots.* - Video Editor        - [Cinelerra-cv](http://cinelerra-cv.wikidot.com/) - Professional video editing and compositing environment.        - [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Revolutionary tools for editing, color correction, audio post and now visual effects, all in a single application.        - [Flowblade](https://github.com/jliljebl/flowblade) - A multitrack non-linear video editor for Linux.        - [Lightworks](https://www.lwks.com/) - Professional non-linear video editing program with a free version available.*     
+* [SVGO](https://github.com/svg/svgo) - SVG Optimizer is a Node.js-based tool for optimizing SVG vector graphics files.* - Graphic Creation
+* [Aseprite](https://www.aseprite.org/) - Animated sprite editor & pixel art tool.
+* [Cinepaint](http://cinepaint.org/) - Open source deep paint software.
+* [Drawing](https://maoschanz.github.io/drawing/) - This free basic raster image editor is similar to Microsoft Paint, but aiming at the GNOME desktop.
+* [Gravit](https://www.designer.io/) - Gravit Designer is a full featured free vector design app right at your fingertip.
+* [Heron Animation](https://heronanimation.brunolefevre.net/) - A free stop animation making program.
+* [Krita](https://krita.org/en/) - Open Source Software for Concept Artists, Digital Painters, and Illustrators.
+* [Lunacy](https://icons8.com/lunacy/) - Free design software that keeps your flow with AI tools and built-in graphics
+* [Mypaint](https://github.com/mypaint/mypaint)) - Mypaint is a paint program for use with graphics tablets.
+* [Open DVD Producer](https://opendvdproducer.jonata.org/) - A modern, open source cross platform software to produce DVD images.
+* [Pinta](https://www.pinta-project.com/) - Pinta is a free, open source program for drawing and image editing.
+* [Pixelorama](https://orama-interactive.itch.io/pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine!
+* [StopMotion](http://linuxstopmotion.org/) - Linux Stopmotion is a Free Open Source application to create stop-motion animations. It helps you capture and edit the frames of your animation and export them as a single file.
+* [Sweet Home 3D](http://www.sweethome3d.com/) - House interior and exterior designer with 3D preview, free model database, virtual visits and useful repository of plugins.
+* [Synfig Studio](https://www.synfig.org/) - Open-source 2D animation software.* - Image Editor
+* [Hugin](http://hugin.sourceforge.net/) - An easy to use cross-platform panoramic imaging toolchain based on Panorama Tools.
+* [Luminance HDR](http://qtpfsgui.sourceforge.net/) - Luminance HDR is an open source graphical user interface application that aims to provide a workflow for HDR imaging.
+* [Photivo](http://photivo.org/) - Photivo is a free and open source (GPL3) photo processor, handles your RAW and bitmap files (TIFF, JPEG, BMP, PNG and many more) in a non-destructive 16 bit processing pipe with gimp workflow integration and batch mode. It is intended to be used in a workflow together with digiKam/F-Spot/Shotwell and Gimp.
+* [Piskel](https://www.piskelapp.com/) - Browser-based editor for animated sprites and pixel art. Available as offline application.
+* [Pixelitor](http://pixelitor.sourceforge.net/) - Pixelitor is a free and open source image editing software that supports layers, layer masks, text layers, filters, multiple undo etc.* - Image Management
+* [ExifCleaner](https://exifcleaner.com/) - Remove image metadata with drag and drop. Supports multi-core batch processing.
+* [Feh](https://feh.finalrewind.org/) - Lightweight and fast image viewer.
+* [Fotoxx](https://www.kornelix.net/fotoxx/fotoxx.html) - Fotoxx is a free open source Linux program for image editing and collection management.
+* [gThumb](https://wiki.gnome.org/Apps/Gthumb) - gThumb is an image viewer and browser (it also includes an importer tool for transferring photos from cameras).
+* [gwenview](https://apps.kde.org/gwenview/) - Simple yet powerful image viewer and management for KDE desktops.
+* [Imagine](https://github.com/meowtec/Imagine) - An open source image optimizer that can shrink the size of images with a minimal loss of quality.
+* [Phockup](https://github.com/ivandokov/phockup) - Command line sorting tool to organize photos and videos from your camera in folders by year, month and day.
+* [Photonic](https://github.com/oferkv/phototonic) - Phototonic is image viewer and organizer.
+* [quickviewer](https://kanryu.github.io/quickviewer/) - Very fast image/comic viewer by using OpenGL.
+* [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Shotwell is a photo manager for GNOME.* - PSD, Sketch Inspection
+* [Avocode](https://avocode.com/) - Avocode - Share and inspect Photoshop and Sketch designs in a heart beat.* - Screen Recorder
+* [Green Recorder](https://github.com/dvershinin/green-recorder) - A simple desktop recorder for Linux systems, supports recording audio and video on almost all Linux interfaces and Wayland display server on GNOME session.
+* [Kazam](https://launchpad.net/kazam) - An easy to use and very intuitive screen recording program that will capture the content of your screen and record a video file that can be played by any video player that supports VP8/WebM video format.
+* [Kooha](https://apps.gnome.org/app/io.github.seadve.Kooha/) - A simple screen recorder written with GTK. It allows you to record your screen and also audio from your microphone or desktop.
+* [Silentcast](https://github.com/colinkeenan/silentcast) - Silentcast can create MKV screencasts and also output to an animated GIF.
+* [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/) - SimpleScreenRecorder is a feature-rich screen recorder that supports X11 and OpenGL. It has a Qt-based graphical user interface.
+* [Vokoscreen](http://linuxecke.volkoh.de/vokoscreen/vokoscreen.html) - A free, multilingual and easy to use screencast recorder with audio for Linux. It has many features.* - Screenshot
+* [Ksnip](https://github.com/ksnip/ksnip#ksnip) - Ksnip is a Qt-based cross-platform screenshot tool that provides many annotation features for your screenshots.
+* [ScreenCloud](https://screencloud.net/) - ScreenCloud is an easy to use screenshot sharing tool consisting of a cross-platform client and a sharing website.
+* [Spectacle](https://apps.kde.org/spectacle/) - Spectacle is a simple application for capturing desktop screenshots.* - Video Editor
+* [Cinelerra-cv](http://cinelerra-cv.wikidot.com/) - Professional video editing and compositing environment.
+* [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Revolutionary tools for editing, color correction, audio post and now visual effects, all in a single application.
+* [Flowblade](https://github.com/jliljebl/flowblade) - A multitrack non-linear video editor for Linux.
+* [Lightworks](https://www.lwks.com/) - Professional non-linear video editing program with a free version available.*
 * [Radiance](https://www.radiance-online.org/) - Radiance - A Validated Lighting Simulation Tool.
 * Development - Later
-* [nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions.* - Mobile Development*     -    [mobicon-cli](https://github.com/SamVerschueren/mobicon-cli)) - Mobile app icon generator.*     -    [mobisplash-cli](https://github.com/SamVerschueren/mobisplash-cli)) - Mobile app splash screen generator.*     -    [deviceframe](https://github.com/c0bra/deviceframe)) - Put device frames around your mobile/web/progressive app screenshots.* - Bug trackers        - [Bugzilla](https://github.com/bugzilla/bugzilla) - web-based bug-tracking software        - [Mantis](https://github.com/mantisbt/mantisbt) - issue tracker that provides a delicate balance between simplicity and power        - [Trac](https://github.com/edgewall/trac) - IT project management solution that enables software developers to track and address bugs, tasks, files, wiki pages, and more.        - [Open Project](https://www.openproject.org/) - Project management platform (has features like jira and confluence)
+* [nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions.* - Mobile Development*     -    [mobicon-cli](https://github.com/SamVerschueren/mobicon-cli)) - Mobile app icon generator.*     -    [mobisplash-cli](https://github.com/SamVerschueren/mobisplash-cli)) - Mobile app splash screen generator.*     -    [deviceframe](https://github.com/c0bra/deviceframe)) - Put device frames around your mobile/web/progressive app screenshots.* - Bug trackers
+* [Bugzilla](https://github.com/bugzilla/bugzilla) - web-based bug-tracking software
+* [Mantis](https://github.com/mantisbt/mantisbt) - issue tracker that provides a delicate balance between simplicity and power
+* [Trac](https://github.com/edgewall/trac) - IT project management solution that enables software developers to track and address bugs, tasks, files, wiki pages, and more.
+* [Open Project](https://www.openproject.org/) - Project management platform (has features like jira and confluence)
 * [sauce](https://github.com/cadecuddy/sauce) - A novelty CLI tool that identifies an anime from an image and yields key data about it.
 * [movie](https://github.com/mayankchd/movie) - A CLI for getting information about a movies and comparing two movies.
 * [moviemon](https://github.com/iCHAIT/moviemon) - A Python program that displays all the information about all your movies in the command line.
-* Music* - Edit-Mix-Record        - [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux.        - [Audio Recorder](https://launchpad.net/~audio-recorder) - Simple audio recorder available in an Ubuntu PPA.        - [Bitwig](https://www.bitwig.com/en/download.html) - DAW for music production.        - [EasyEffects](https://github.com/wwmm/easyeffects) - EasyEffects is an advanced audio manipulation tool. It includes an equalizer, limiter, compressor and a reverberation tool, just to mention a few. To complement this there is also a built in spectrum analyzer.        - [Helm](https://tytel.org/helm/) - A software synthesizer, that runs either standalone, or as an LV2, VST, VST3 or AU plugin.        - [Hydrogen](http://www.hydrogen-music.org/) - Advanced drum machine for GNU/Linux.        - [KxStudio](https://kx.studio/) - A collection of applications and plugins for professional audio production.        - [LMMS](https://lmms.io/download/#linux) - Making music on your PC by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more.        - [Mixxx](https://www.mixxx.org/download/) - Free DJ software that gives you everything you need to perform live mixes; veritable alternative to Traktor.        - [MuseScore](https://musescore.org/) - Create, play and print beautiful sheet music.        - [Reaper](https://www.reaper.fm/) - Audio Production without Limits.        - [VCV Rack](https://vcvrack.com/) - An open-source virtual modular synthesizer.        - [Viper4Linux](https://github.com/Audio4Linux/Viper4Linux-GUI) - An audio effect processor based on Viper4Android.
+* Music* - Edit-Mix-Record
+* [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux.
+* [Audio Recorder](https://launchpad.net/~audio-recorder) - Simple audio recorder available in an Ubuntu PPA.
+* [Bitwig](https://www.bitwig.com/en/download.html) - DAW for music production.
+* [EasyEffects](https://github.com/wwmm/easyeffects) - EasyEffects is an advanced audio manipulation tool. It includes an equalizer, limiter, compressor and a reverberation tool, just to mention a few. To complement this there is also a built in spectrum analyzer.
+* [Helm](https://tytel.org/helm/) - A software synthesizer, that runs either standalone, or as an LV2, VST, VST3 or AU plugin.
+* [Hydrogen](http://www.hydrogen-music.org/) - Advanced drum machine for GNU/Linux.
+* [KxStudio](https://kx.studio/) - A collection of applications and plugins for professional audio production.
+* [LMMS](https://lmms.io/download/#linux) - Making music on your PC by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more.
+* [Mixxx](https://www.mixxx.org/download/) - Free DJ software that gives you everything you need to perform live mixes; veritable alternative to Traktor.
+* [MuseScore](https://musescore.org/) - Create, play and print beautiful sheet music.
+* [Reaper](https://www.reaper.fm/) - Audio Production without Limits.
+* [VCV Rack](https://vcvrack.com/) - An open-source virtual modular synthesizer.
+* [Viper4Linux](https://github.com/Audio4Linux/Viper4Linux-GUI) - An audio effect processor based on Viper4Android.
 * [PiCAST](https://github.com/lanceseidman/PiCAST) - PiCAST turns your $35 Raspberry Pi in to a Chromecast like Device
 * [Pithos](https://pithos.github.io/) - A native Pandora client for Linux.
 * [pianobar](https://github.com/Correia-jpv/fucking-awesome-cli-apps/blob/main/6xq.net/pianobar) - Pandora client.
@@ -211,21 +366,21 @@ Kate
 * [Mycroft](https://mycroft.ai/) - Mycroft is a hackable open source voice assistant.
 * [fasttyper](https://github.com/ickyicky/fasttyper) - Fasttyper is minimalistic typing test based on user provided exercising text.
 * [thokr](https://github.com/thatvegandev/thokr) - Sleek typing tui with visualized results and historical logging.
-* https://semaphoreci.com/blog/grpc 
-* https://flathub.org/apps/org.gnome.NetworkDisplays 
-* https://github.com/GSConnect/gnome-shell-extension-gsconnect/wiki 
-* https://github.com/snooppr/snoop 
-* https://framagit.org/public/projects 
-* https://github.com/andreabergia/rjvm 
-* https://termible.io/ 
+* https://semaphoreci.com/blog/grpc
+* https://flathub.org/apps/org.gnome.NetworkDisplays
+* https://github.com/GSConnect/gnome-shell-extension-gsconnect/wiki
+* https://github.com/snooppr/snoop
+* https://framagit.org/public/projects
+* https://github.com/andreabergia/rjvm
+* https://termible.io/
 * [git-sh](https://github.com/rtomayko/git-sh) - Customized Bash environment suitable for Git work.
 * [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
 * [git commander](https://github.com/golbin/git-commander) - A git tool with an easy interactive terminal interface.
 * [git commander](https://github.com/golbin/git-commander) - Interactive git tool.
 * [Giggle](https://wiki.gnome.org/action/show/Apps/giggle) - Giggle is a graphical frontend for the git content tracker.
 * [ncursesFM](https://github.com/FedeDP/ncursesFM) - File manager written in C; rather complete in terms of features; especially lightweight and responsive.
-* [ ]  https://github.com/langner/lfm - https://inigo.katxi.org/devel/lfm/ - (Last File Manager) is a file manager written in Python; it comes with lots of features, including 1-pane or 2-pane view, files filters and bookmarks, tree view, virtual file-systems to open compressed archives, search in files, customizable keybindings and themes.
-* → CONTRIBUTE! - update old code* 
+* [ ] https://github.com/langner/lfm - https://inigo.katxi.org/devel/lfm/ - (Last File Manager) is a file manager written in Python; it comes with lots of features, including 1-pane or 2-pane view, files filters and bookmarks, tree view, virtual file-systems to open compressed archives, search in files, customizable keybindings and themes.
+* → CONTRIBUTE! - update old code*
 * http://svn.savannah.gnu.org/viewvc/fontypython/ - update?
 * [ ]  [ReadMe](https://readme.io/)
 * [Paru](https://github.com/morganamilo/paru) - Paru is your standard pacman wrapping AUR helper with lots of features and minimal interaction.
@@ -236,7 +391,7 @@ Kate
 * [Reddit Terminal Viewer](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 * [Wavebox](https://wavebox.io/) - A feature-rich Chromium browser that’s built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and every other web app you use to get work done.
 * https://github.com/SerenityOS/serenity
-* https://en.wikipedia.org/wiki/Berkeley_Software_Distribution 
+* https://en.wikipedia.org/wiki/Berkeley_Software_Distribution
 
 
 * [Script Runner](https://github.com/ioquatix/script-runner): Run scripts (or a shell) in Atom.
@@ -318,7 +473,8 @@ on tornado, paramiko, and xterm.js.- [ ]  https://github.com/ok-borg/borg - A t
 * [ModernDeck](https://moderndeck.org/) - A beautiful, powerful Twitter client for desktop.
 * [Chatterino](https://chatterino.com/) - Chatterino is a chat client for Twitch chat. It aims to be an improved/extended version of the Twitch web chat.
 * [Chatty](https://chatty.github.io/) - Chatty is a Twitch chat client for everyone who wants to try something new and different from the webchat, but doesn’t want the complexity of an IRC client or miss out on the Twitch specific features.
-* [Mattermost](https://mattermost.com/) - Mattermost is a secure collaboration platform that is open, flexible, and deeply integrated with the tools you love.        - [matterhorn](https://github.com/matterhorn-chat/matterhorn) - A terminal client for the Mattermost chat system.
+* [Mattermost](https://mattermost.com/) - Mattermost is a secure collaboration platform that is open, flexible, and deeply integrated with the tools you love.
+* [matterhorn](https://github.com/matterhorn-chat/matterhorn) - A terminal client for the Mattermost chat system.
 * [Jitsi](https://jitsi.org/) - Jitsi is a free and open source multiplatform voice, videoconferencing and instant messaging application for Windows, Linux, Mac OS X and Android.
 * [Twake](https://twake.app/) - Open-source alternative to Microsoft Teams.
 * [BeeBEEP](https://www.beebeep.net/) - BeeBEEP is an open source, peer to peer, lan messenger. You can talk and share files with anyone inside your local area network. You don’t need a server, just download, unzip and start it. Simple, fast and secure.
@@ -352,18 +508,31 @@ on tornado, paramiko, and xterm.js.- [ ]  https://github.com/ok-borg/borg - A t
 * [Gcompris](https://gcompris.net/index-en.html) - GCompris is a high quality educational software suite comprising of numerous activities for children aged 2 to 10.
 * [Epoptes](https://epoptes.org/) - An open source computer lab management and monitoring tool.
 * [Piper](https://github.com/libratbag/piper) - Piper is a GTK+ application to configure gaming mice.
-* Image & Graphics - Back Pocket* - Streaming        - [Boatswain](https://gitlab.gnome.org/World/boatswain) - Control your Elgato Stream Deck devices.        - [ReadyMedia](http://minidlna.sourceforge.net/) - Formerly known as MiniDLNA, ReadyMedia is a is a simple, lightweight media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients. The MiniDNLA daemon serves media files (music, pictures, and video) to clients on a network such as smartphones, portable media players, televisions, other computers and some gaming systems.        - [VPupPr](https://github.com/virtual-puppet-project/vpuppr) - VTuber application made with Godot 3.4.
+* Image & Graphics - Back Pocket* - Streaming
+* [Boatswain](https://gitlab.gnome.org/World/boatswain) - Control your Elgato Stream Deck devices.
+* [ReadyMedia](http://minidlna.sourceforge.net/) - Formerly known as MiniDLNA, ReadyMedia is a is a simple, lightweight media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients. The MiniDNLA daemon serves media files (music, pictures, and video) to clients on a network such as smartphones, portable media players, televisions, other computers and some gaming systems.
+* [VPupPr](https://github.com/virtual-puppet-project/vpuppr) - VTuber application made with Godot 3.4.
 * [Rapid Photo Downloader](https://damonlynch.net/rapid/download.html) - Rapid Photo Downloader makes it easy to import photos from a camera or smartphone.
 * [Photoshop CCv19](https://github.com/Gictorbit/photoshopCClinux) - Photoshop CC v19 installer for Gnu/Linux.
-* [Photoshop-CC2022-Linux](https://github.com/MiMillieuh/Photoshop-CC2022-Linux) - Installer for Photoshop CC 2022 on linux with a GUI.* 
+* [Photoshop-CC2022-Linux](https://github.com/MiMillieuh/Photoshop-CC2022-Linux) - Installer for Photoshop CC 2022 on linux with a GUI.*
 * [moviemon](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
 * Development - Back Pocket
 * [KWrite](https://apps.kde.org/kwrite/) - KWrite is a text editor by KDE, based on the Kate’s editor component.
 * [Notepadqq](https://notepadqq.com/wp/) - Notepadqq is a Notepad++-like editor for the Linux desktop.
 * [Notepad Next](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++.* -    [SAWS](https://github.com/donnemartin/saws)) - Supercharged AWS CLI.* -    [s3cmd](https://github.com/s3tools/s3cmd)) - Fully-Featured S3 client.* -    [htconvert](https://github.com/lukechilds/htconvert)) - Convert .htaccess redirects to nginx.conf redirects.* -    [pm2](https://github.com/Unitech/pm2)) - Production Process Manager for Node.js.
 * [flog](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
-* [isitfit](http://github.com/autofitcloud/isitfit) - Manage AWS EC2 rightsizing.* -    [ops](https://github.com/nanovms/ops)) - Unikernel compilation and orchestration tool.* - Npm*     -    [npm-name-cli](https://github.com/sindresorhus/npm-name-cli)) - Check whether a package name is available on npm.*     -    [npm-user-cli](https://github.com/sindresorhus/npm-user-cli)) - Get user info of a npm user.*     -    [npm-home](https://github.com/sindresorhus/npm-home)) - Open the npm page of the package in the current directory.*     -    [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli)) - Find the root directory of a npm package.*     -    [npm-check-updates](https://github.com/tjunnone/npm-check-updates)) - Find newer versions of package dependencies than what your package.json allows.*     -    [updates](https://github.com/silverwind/updates)) - Flexible npm dependency update tool.*     -    [wipe-modules](https://github.com/bntzio/wipe-modules)) - Remove `node_modules` of inactive projects.*     -    [np](https://github.com/sindresorhus/np)) - A better `npm publish`.* - Database*     -    [mycli](https://github.com/dbcli/mycli)) - MySQL client with autocompletion and syntax highlighting.*     -    [sqlline](https://github.com/julianhyde/sqlline)) - Shell for issuing SQL via JDBC.* - Boilerplate*     -    [yo](https://github.com/yeoman/yo)) - Scaffolding tool for running Yeoman generators.        - [mevn-cli](http://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.*     -    [scaffold-static](https://github.com/jamesgeorge007/scaffold-static)) - Scaffolding utility for vanilla JS.* - Game Engines        - [Defold](https://defold.com/) - Defold is a completely free to use game engine for development of desktop, mobile and web games.        - [Epic Asset Manager](https://github.com/AchetaGames/Epic-Asset-Manager) - An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.        - [GameMaker](https://gamemaker.io/en/gamemaker) - The Ultimate 2D Game Development Environment.        - [Godot Engine](https://godotengine.org/) - Godot provides a huge set of common tools, so you can just focus on making your game without reinventing the wheel.        - [Open 3D Engine](https://www.o3de.org/) - Open 3D Engine (O3DE) is a modular, open source, cross-platform 3D engine built to power anything from AAA games to cinema-quality 3D worlds to high-fidelity simulations.        - [Unity](https://unity.com/) - The world’s leading platform for real-time content creation.        - [Unreal Engine](https://www.unrealengine.com/en-US) - The world’s most open and advanced real-time 3D creation tool.
-* [cgasm](https://github.com/bnagy/cgasm) - Pronounced “SeekAzzem”, it is a standalone, offline terminal-based tool with no dependencies that gives me x86 assembly documentation.* -    [Discharge](https://github.com/brandonweiss/discharge)) - Deploy static websites to Amazon S3.* - Security and PKI        - [Ralasafe](http://sourceforge.net/projects/ralasafe/) - Access Control Middleware        - [OpenXPKI](https://github.com/openxpki/openxpki) - an enterprise-grade PKI/Trustcenter software
+* [isitfit](http://github.com/autofitcloud/isitfit) - Manage AWS EC2 rightsizing.* -    [ops](https://github.com/nanovms/ops)) - Unikernel compilation and orchestration tool.* - Npm*     -    [npm-name-cli](https://github.com/sindresorhus/npm-name-cli)) - Check whether a package name is available on npm.*     -    [npm-user-cli](https://github.com/sindresorhus/npm-user-cli)) - Get user info of a npm user.*     -    [npm-home](https://github.com/sindresorhus/npm-home)) - Open the npm page of the package in the current directory.*     -    [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli)) - Find the root directory of a npm package.*     -    [npm-check-updates](https://github.com/tjunnone/npm-check-updates)) - Find newer versions of package dependencies than what your package.json allows.*     -    [updates](https://github.com/silverwind/updates)) - Flexible npm dependency update tool.*     -    [wipe-modules](https://github.com/bntzio/wipe-modules)) - Remove `node_modules` of inactive projects.*     -    [np](https://github.com/sindresorhus/np)) - A better `npm publish`.* - Database*     -    [mycli](https://github.com/dbcli/mycli)) - MySQL client with autocompletion and syntax highlighting.*     -    [sqlline](https://github.com/julianhyde/sqlline)) - Shell for issuing SQL via JDBC.* - Boilerplate*     -    [yo](https://github.com/yeoman/yo)) - Scaffolding tool for running Yeoman generators.
+* [mevn-cli](http://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN (Mongo Express Vue Node) Apps.*     -    [scaffold-static](https://github.com/jamesgeorge007/scaffold-static)) - Scaffolding utility for vanilla JS.* - Game Engines
+* [Defold](https://defold.com/) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
+* [Epic Asset Manager](https://github.com/AchetaGames/Epic-Asset-Manager) - An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.
+* [GameMaker](https://gamemaker.io/en/gamemaker) - The Ultimate 2D Game Development Environment.
+* [Godot Engine](https://godotengine.org/) - Godot provides a huge set of common tools, so you can just focus on making your game without reinventing the wheel.
+* [Open 3D Engine](https://www.o3de.org/) - Open 3D Engine (O3DE) is a modular, open source, cross-platform 3D engine built to power anything from AAA games to cinema-quality 3D worlds to high-fidelity simulations.
+* [Unity](https://unity.com/) - The world’s leading platform for real-time content creation.
+* [Unreal Engine](https://www.unrealengine.com/en-US) - The world’s most open and advanced real-time 3D creation tool.
+* [cgasm](https://github.com/bnagy/cgasm) - Pronounced “SeekAzzem”, it is a standalone, offline terminal-based tool with no dependencies that gives me x86 assembly documentation.* -    [Discharge](https://github.com/brandonweiss/discharge)) - Deploy static websites to Amazon S3.* - Security and PKI
+* [Ralasafe](http://sourceforge.net/projects/ralasafe/) - Access Control Middleware
+* [OpenXPKI](https://github.com/openxpki/openxpki) - an enterprise-grade PKI/Trustcenter software
 * [MySQL](https://dev.mysql.com/doc/refman/5.7/en/linux-installation.html) - MySQL is the world’s leading open source database thanks to its proven performance, reliability and ease-of-use. It is used by high profile web properties including Facebook, Twitter, YouTube, Yahoo! and many more.
 * [MySQL Workbench](https://www.mysql.com/products/workbench/) - MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more.
 * [OracleDB](https://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html) - Object-relational database management system produced and marketed by Oracle Corporation, one of the most trusted and widely-used relational database engines.
@@ -446,7 +615,7 @@ on tornado, paramiko, and xterm.js.- [ ]  https://github.com/ok-borg/borg - A t
 * [marker](https://github.com/pindexis/marker) - Bookmark your shell commands
 * [WOPR](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographic.
 * [Oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Provides various packages and themes to extend the functionality of your fish shell.
-* [Oh-my-zsh](https://ohmyz.sh/) - A delightful community-driven framework for managing your zsh configuration.* 
+* [Oh-my-zsh](https://ohmyz.sh/) - A delightful community-driven framework for managing your zsh configuration.*
 * [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
 * [gcalcli](https://github.com/insanum/gcalcli) - Google Calendar command line interface
 * [gcalcli](https://github.com/insanum/gcalcli) - Google Calendar command line interface.
@@ -474,7 +643,10 @@ on tornado, paramiko, and xterm.js.- [ ]  https://github.com/ok-borg/borg - A t
 * [ZeroBrane Studio](http://studio.zerobrane.com/) - A mature, lightweight, cross-platform Lua IDE with modern development features.
 * [Komodo Edit](https://www.activestate.com/products/komodo-ide/) - Free and open source multilanguage development environment.
 * [Sublime](https://www.sublimetext.com/) - A very capable text editor with advanced search capabilities, and many powerful plugins to improve its functionality.
-* [GoLand](https://www.jetbrains.com/go/) - Commercial IDE by JetBrains aimed at providing an ergonomic environment for Go development.* - dmenu wrappers        - [Yeganesh](http://dmwit.com/yeganesh/) `Haskel`        - [xboomx](https://github.com/victorhaggqvist/xboomx) `Python`        - [yegonesh](https://github.com/klowner/yegonesh) `Go`
+* [GoLand](https://www.jetbrains.com/go/) - Commercial IDE by JetBrains aimed at providing an ergonomic environment for Go development.* - dmenu wrappers
+* [Yeganesh](http://dmwit.com/yeganesh/) `Haskel`
+* [xboomx](https://github.com/victorhaggqvist/xboomx) `Python`
+* [yegonesh](https://github.com/klowner/yegonesh) `Go`
 * [s3cmd](https://github.com/s3tools/s3cmd) - Command line tool for managing Amazon S3 and CloudFront services.
 * [Dokku](https://dokku.com/) - Heroku like environment
 * [Package Drone](https://github.com/eclipse/packagedrone) - A package manager repository for OSGi, Java and more
@@ -525,7 +697,7 @@ on tornado, paramiko, and xterm.js.- [ ]  https://github.com/ok-borg/borg - A t
 * [Tusk](https://klaudiosinani.github.io/tusk/) - Refined Evernote desktop app.
 * [Phabricator](https://github.com/phacility/phabricator) - an open source collection of web applications which help software companies build better software
 * Files - Nah, but reference* -    [happyfinder](https://github.com/hugows/hf)) - (another) Fuzzy file finder for the command line.* -    [fasd](https://github.com/clvv/fasd)) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
-* [Caja](https://mate-desktop.org/) - Is the default file manager for the MATE desktop environment, it is very fast and simple to use.* 
+* [Caja](https://mate-desktop.org/) - Is the default file manager for the MATE desktop environment, it is very fast and simple to use.*
 * [happyfinder](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
 * [mycli](https://github.com/dbcli/mycli) - A command line client for MySQL that can do auto-completion and syntax highlighting.
 * https://github.com/klaussinani/taskbook - Tasks, boards & notes for the command-line habitat
@@ -566,7 +738,7 @@ on tornado, paramiko, and xterm.js.- [ ]  https://github.com/ok-borg/borg - A t
 * Intellij
 * [keymap](https://github.com/jondot/keymaps/) - a hybrid Vim/ReSharper/Intellij keymap
 * Desktop OSX
-* *Tools for improving and hacking around with your vanilla desktop** 
+* *Tools for improving and hacking around with your vanilla desktop**
 * [Alfred](http://www.alfredapp.com/) - OSX productivity app `/OSX/`
 * [hydra](https://github.com/sdegutis/hydra) - script your desktop `/OSX/`
 * [Keycastr](https://github.com/sdeken/keycastr) - show your keys while presenting/casting `/OSX/`
@@ -622,7 +794,7 @@ on tornado, paramiko, and xterm.js.- [ ]  https://github.com/ok-borg/borg - A t
 * [RXVT](http://rxvt.sourceforge.net/) - A terminal emulator for X11, a popular replacement for the standard ‘xterm’.
 * [Konsole](https://apps.kde.org/konsole/) - An alternative terminal emulator for KDE desktop environment.
 * [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
-* [PowerShell](https://github.com/PowerShell/PowerShell) - Automation and configuration tool/framework that is optimized for dealing with structured data.* 
+* [PowerShell](https://github.com/PowerShell/PowerShell) - Automation and configuration tool/framework that is optimized for dealing with structured data.*
 * [Xfce Terminal](https://docs.xfce.org/apps/terminal/start) - Modern terminal emulator primarily for the Xfce desktop environment.
 
 
@@ -660,7 +832,7 @@ on tornado, paramiko, and xterm.js.- [ ]  https://github.com/ok-borg/borg - A t
 * Image & Graphics - Nah
 * [Aftershot](https://www.aftershotpro.com/en/products/aftershot/pro/) - A powerful alternative to Adobe Photoshop.
 * Terminal - Nope
-* 
+*
 * Development - Nah
 * [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor.
 * [eon](https://github.com/tomas/eon) - A light, modern editor for your terminal that doesn't want to be vim.
@@ -674,7 +846,7 @@ on tornado, paramiko, and xterm.js.- [ ]  https://github.com/ok-borg/borg - A t
 * [nehm](https://github.com/bogem/nehm) - Console tool, which downloads, sets IDv3 tags and adds to your iTunes (if you use it) your SoundCloud likes in convenient way
 * [K3b](https://userbase.kde.org/K3b) - The CD/DVD Kreator for Linux, optimized for KDE.
 * [SoundJuicer](https://wiki.gnome.org/Apps/SoundJuicer/Documentation#Installing) - CD Ripping tool for GNOME.
-*     
+*
 * System Info / Monitoring / Hardware / Firmware / Admin - Nah
 * [Brasero](https://wiki.gnome.org/Apps/Brasero) - A capable CD/DVD burner.
 * [KFloppy](https://apps.kde.org/kfloppy/) - Graphical utility to format 3.5” and 5.25” floppy disks.

@@ -58,7 +58,7 @@ Code strukturieren // deutsch
 
 ## SORT
 * [Curso de REDES informáticas. 175 vídeos de calidad - YouTube](https://www.youtube.com/playlist?list=PLomN84AdULIBcoI8Rb98dnompliIktJk9)
-* https://blog.finxter.com/10-best-bitcoin-books-your-ultimate-guide-for-2023/ 
+* https://blog.finxter.com/10-best-bitcoin-books-your-ultimate-guide-for-2023/
 * Adapter, Bridge, Composition over inheritance,
 * [Making Snake Boot Sector Game in Assembly (x86) - YouTube](https://www.youtube.com/watch?v%3DtHO5x_Ha6pE)
 * free-programming-books/free-programming-books.md at master · EbookFoundation/free-programming-books · GitHub
@@ -211,24 +211,24 @@ Code strukturieren // deutsch
 * [Теоретико-сложностные основы криптографии](https://www.youtube.com/watch?v=cZMfOnxfOFg&list=PL-_cKNuVAYAUAMElAnIED4AVMtFuQmB0J)
 * [Шнайер Б. - Секреты и ложь. Безопасность данных в цифровом мире. (Классика Computer Science) - 2003.pdf](https://vk.com/doc44301783_453645337?hash=bce7bed42a41612fea&dl=ed4de3cfab9736f558)
 * History of X11 [yt](https://www.youtube.com/watch?v%3DR-N-fgKWYGU)
-* [8 ways JavaScript is just... different. - YouTube](ghttps://www.youtube.com/watch?v%3DkYAe7qDGOJw)
+* [8 ways JavaScript is just... different. - YouTube](https://www.youtube.com/watch?v%3DkYAe7qDGOJw)
 * [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html%23Pattern-Matching)
 * [Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax/%23blockquotes-1)
-* [Become a bash scripting pro - full course - YouTube](ghttps://www.youtube.com/watch?v%3D4ygaA_y1wvQ)
+* [Become a bash scripting pro - full course - YouTube](https://www.youtube.com/watch?v%3D4ygaA_y1wvQ)
 * [Computer Networking For LANs To WANs: Hardware, Software And security](http://libgen.rs/book/index.php?md5%3DA5D01C0792398CF7CD53977AFA32A2B2) Groups book
 * [Dash Documentation & User Guide | Plotly](https://dash.plotly.com/)
 * [Dev](https://chat.openai.com/c/c41a9650-39c9-4976-ac60-7ee9b054e3da)
-* [Erlang in 100 Seconds - YouTube](ghttps://www.youtube.com/watch?v%3DM7uo5jmFDUw)
+* [Erlang in 100 Seconds - YouTube](https://www.youtube.com/watch?v%3DM7uo5jmFDUw)
 * [Every programming language explained in 15 minutes | Prime Reacts - YouTube](https://www.youtube.com/watch?v%3DjQiYW3RXkFU)
-* [ForSyDe | A Methodology for Formal System Design](ghttps://forsyde.github.io/)
-* [Gleam](ghttps://gleam.run/)
-* [How Lisp Became God's Own Programming Language](ghttps://twobithistory.org/2018/10/14/lisp.html)
+* [ForSyDe | A Methodology for Formal System Design](https://forsyde.github.io/)
+* [Gleam](https://gleam.run/)
+* [How Lisp Became God's Own Programming Language](https://twobithistory.org/2018/10/14/lisp.html)
 * [How to Design a Network Messaging Protocol! - YouTube](https://www.youtube.com/watch?v%3DkH7P1ZX44DQ)
 * [How to Write a Linux Daemon from Start to Finish! - YouTube](https://www.youtube.com/watch?v%3D9nDYYc_7sKs)
 * [Kubernetes Primer: Fundamentals - Chetan Bhasin](https://chetanbhasin.com/articles/kubernetes-primer-fundamentals)
 * [Lambda - Haxe - The Cross-platform Toolkit](https://haxe.org/manual/std-Lambda.html)
 * [Learn Backend Development the Fun Way | Boot.dev](https://www.boot.dev/)
-* [Learn Emacs Lisp in 30 Minutes - YouTube](ghttps://www.youtube.com/watch?v%3D1y__2IK-aLM)
+* [Learn Emacs Lisp in 30 Minutes - YouTube](https://www.youtube.com/watch?v%3D1y__2IK-aLM)
 * [Library Genesis: Alberto Pettorossi - Techniques for Searching, Parsing, and Matching](https://libgen.is/book/index.php?md5%3D2784D2D9DF8E02BFA17558101113F5CD)
 * [Library Genesis: Andreas M. Antonopoulos, David A. Harding - Mastering Bitcoin: Programming the Open Blockchain](http://libgen.rs/book/index.php?md5%3D89C551A4BE0DDE91D90110C199597E5C)
 * [Library Genesis: Andrew S. Tanenbaum, David J. Wetherall, D. Maggiorini (editor), S. Gaito (editor) - Reti di calcolatori. Ediz. Mylab. Con aggiornamento online. Con ebook](http://libgen.rs/book/index.php?md5%3D9219C1ECD26808B82C69E8642F43A00E)# Untitled
@@ -236,8 +236,8 @@ Code strukturieren // deutsch
 * [Library Genesis: Bunt Harry, Nijholt Anton (auth.), Harry Bunt, Anton Nijholt (eds.) - Advances in Probabilistic and Other Parsing Technologies](https://libgen.is/book/index.php?md5%3D21B83325AF2B2A3829615464C136E3CE)
 * [Library Genesis: Bunt, Harry C(Editor);Merlo, Paola(Editor);Nivre, Joakim(Editor) - Trends In Parsing Technology: Dependency Parsing, Domain Adaptation, And Deep Parsing (Text, Speech And Language Technology)](https://libgen.is/book/index.php?md5%3D1B1B9F8CF07980C83FB25A6E20AD5B0C)
 * [Library Genesis: Carlo Milanesi - Creative Projects for Rust Programmers: Build exciting projects on domains such as web apps, WebAssembly, games, and parsing](https://libgen.is/book/index.php?md5%3D623BEC88FB2B2FD627860A706828E8F4)
-* [Library Genesis: Charles N. Fischer, Ron K. Cytron, Richard J. LeBlanc - Crafting A Compiler](ghttps://libgen.rs/book/index.php?md5%3D3F7B11BCB59C91689586976AA9977305)
-* [Library Genesis: Christian Wagenknecht, Michael Hielscher (auth.) - Formale Sprachen, abstrakte Automaten und Compiler: Lehr- und Arbeitsbuch für Grundstudium und Fortbildung](ghttps://libgen.rs/book/index.php?md5%3D8AB97826A959A37179203BCB94BBF28D)
+* [Library Genesis: Charles N. Fischer, Ron K. Cytron, Richard J. LeBlanc - Crafting A Compiler](https://libgen.rs/book/index.php?md5%3D3F7B11BCB59C91689586976AA9977305)
+* [Library Genesis: Christian Wagenknecht, Michael Hielscher (auth.) - Formale Sprachen, abstrakte Automaten und Compiler: Lehr- und Arbeitsbuch für Grundstudium und Fortbildung](https://libgen.rs/book/index.php?md5%3D8AB97826A959A37179203BCB94BBF28D)
 * [Library Genesis: Dick Grune, Ceriel J.H. Jacobs - Parsing Techniques. A practical Guide](https://libgen.is/book/index.php?md5%3D926AD9324EC0FFA2D2EB46B5628E3C7D)
 * [Library Genesis: Greg L. Turnquist - Learning Spring Boot 3.0: Simplify the development of production-grade applications using Java and Spring, 3rd Edition](http://libgen.rs/book/index.php?md5%3D9953E1F476F1CE364CC84F0EAC717EE0)
 * [Library Genesis: James F. Kurose; Ángel Pérez de Madrid y Pablo; Carolina Mañoso Hierro; Keith W. Ross; Vuelapluma S.A. - Redes de computadoras: un enfoque descendente](http://libgen.rs/book/index.php?md5%3D4C4AFAC6E258C45AD9D31A148526BCB7)
@@ -256,31 +256,31 @@ Code strukturieren // deutsch
 * [Library Genesis: Thomas Vitale - Cloud Native Spring in Action: With Spring Boot and Kubernetes](http://libgen.rs/book/index.php?md5%3DE956A2261695849B83AE41AD386D6D87)
 * [Library Genesis: it-ebooks - Parsing Techniques A Practical Guide](https://libgen.is/book/index.php?md5%3DF90FC0FC737EB67CD983861028D7B380)
 * [Library Genesis: Марк Хеклер - Spring Boot по-быстрому](http://libgen.rs/book/index.php?md5%3D379F73AB35B38CA578B0E033F6EBB657)
-* [Library Genesis](ghttps://libgen.rs/search.php?%26req%3Dcompiler%26phrase%3D1%26view%3Dsimple%26column%3Ddef%26sort%3Dyear%26sortmode%3DDESC)
-* [Mastering Memory: Allocation Techniques in C, C++, and ARM Assembly - YouTube](ghttps://www.youtube.com/watch?v%3DHlUBE70h2C0)
+* [Library Genesis](https://libgen.rs/search.php?%26req%3Dcompiler%26phrase%3D1%26view%3Dsimple%26column%3Ddef%26sort%3Dyear%26sortmode%3DDESC)
+* [Mastering Memory: Allocation Techniques in C, C++, and ARM Assembly - YouTube](https://www.youtube.com/watch?v%3DHlUBE70h2C0)
 * [Modular Mathematics Series](http://libgen.is/search.php?req%3Dmodular%2Bmathematics%2Bseries%26open%3D0%26res%3D25%26view%3Dsimple%26phrase%3D1%26column%3Ddef) Mathematical Linguistics
 * [Parsing TeX into mathematics](https://libgen.is/book/index.php?md5%3D8A3560286D25DA895E17387406FEA865) Теория катигорий для программиста.pdf
 * [Rapid Learning for the 21st Century](http://www.troubleshooters.com/bookstore/rl21.htm)
 * [Resultados de búsqueda - Google Drive](https://drive.google.com/drive/search?q%3DMathematical%2520Linguistics) 
 * [Rules of Readability - Spring 2024 - YouTube](https://www.youtube.com/watch?v%3DlIIOrbYlRmU)
-* [S-Lang Programmer's Library](ghttps://www.jedsoft.org/slang/)# Untitled
-* [SoccerFun: Football simulation framework for teaching functional programming](ghttps://hackage.haskell.org/package/SoccerFun)
+* [S-Lang Programmer's Library](https://www.jedsoft.org/slang/)# Untitled
+* [SoccerFun: Football simulation framework for teaching functional programming](https://hackage.haskell.org/package/SoccerFun)
 * [Svelte UI Libraries Have Leveled Up - YouTube](https://m.youtube.com/watch?v%3DjwRqiCv6Z9k)** 
 * [Unisay/purescript-lua: Purescript compiler back-end for Lua](https://github.com/Unisay/purescript-lua)
 * [WHY IS THE STACK SO FAST? - YouTube](https://www.youtube.com/watch?v%3DN3o5yHYLviQ)
-* [forsyde-shallow: ForSyDe's Haskell-embedded Domain Specific Language.](ghttps://hackage.haskell.org/package/forsyde-shallow)
+* [forsyde-shallow: ForSyDe's Haskell-embedded Domain Specific Language.](https://hackage.haskell.org/package/forsyde-shallow)
 * [https://bestofjs.org](https://bestofjs.org) 
 * [https://blog.logrocket.com/using-dioxus-rust-build-single-page-apps/](https://blog.logrocket.com/using-dioxus-rust-build-single-page-apps/) 
 * [https://blog.miguelgrinberg.com/post/microdot-yet-another-python-web-framework](https://blog.miguelgrinberg.com/post/microdot-yet-another-python-web-framework) 
 * [https://blog.yoshuawuyts.com/extending-rusts-effect-system/](https://blog.yoshuawuyts.com/extending-rusts-effect-system/)
 * [https://conservatory.scheme.org/schemers/Documents/Standards/R5RS/HTML/](https://conservatory.scheme.org/schemers/Documents/Standards/R5RS/HTML/) 
-* [https://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference](ghttps://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference)
+* [https://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference](https://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference)
 * [https://dev.to/bravinsimiyu/30-best-web-development-frameworks-for-2023-a-comprehensive-guide-512i](https://dev.to/bravinsimiyu/30-best-web-development-frameworks-for-2023-a-comprehensive-guide-512i) 
 * [https://discord.com/channels/834325286664929280/877900210297270272/1205164792327831623](https://discord.com/channels/834325286664929280/877900210297270272/1205164792327831623)
 * [https://duckduckgo.com/?q=best](https://duckduckgo.com/?q%3Dbest) framework for a small web service with user authentification and online payment&ko=-1&ia=web 
 * [https://fasterthanli.me/series/building-a-rust-service-with-nix/part-10#setting-up-direnv-and-nix-direnv](https://fasterthanli.me/series/building-a-rust-service-with-nix/part-10%23setting-up-direnv-and-nix-direnv)
 * [https://github.com/kushall09/the-art-of-command-line](https://github.com/kushall09/the-art-of-command-line) 
-* [https://github.com/savedra1/clipse](ghttps://github.com/savedra1/clipse)
+* [https://github.com/savedra1/clipse](https://github.com/savedra1/clipse)
 * [https://gleam.run/](https://gleam.run/)
 * [https://libgen.rs/book/index.php?md5=7F9996F3FFAC4C7429BF8013D8BA2D59](https://libgen.rs/book/index.php?md5%3D7F9996F3FFAC4C7429BF8013D8BA2D59) Interpreter in Go
 * [https://libgen.rs/book/index.php?md5=AB2EF57DCAAED64759B089E71BFDB58D](https://libgen.rs/book/index.php?md5%3DAB2EF57DCAAED64759B089E71BFDB58D) Compiler in Go
@@ -292,7 +292,7 @@ Code strukturieren // deutsch
 * [https://opensource.stackexchange.com/questions/10644/why-did-google-make-chromium-open-source](https://opensource.stackexchange.com/questions/10644/why-did-google-make-chromium-open-source)
 * [https://pkl-lang.org/blog/introducing-pkl.html](https://pkl-lang.org/blog/introducing-pkl.html)
 * [https://risingstars.js.org/2023/es](https://risingstars.js.org/2023/es) 
-* [https://vadimkravcenko.com/shorts/why-software-projects-fail/](ghttps://vadimkravcenko.com/shorts/why-software-projects-fail/)
+* [https://vadimkravcenko.com/shorts/why-software-projects-fail/](https://vadimkravcenko.com/shorts/why-software-projects-fail/)
 * [https://wiki.archlinux.org/title/Environment_variables](https://wiki.archlinux.org/title/Environment_variables)
 * [https://wordsandbuttons.online/the_real_cpp_killers.html](https://wordsandbuttons.online/the_real_cpp_killers.html)
 * [https://www.atlassian.com/git](https://www.atlassian.com/git)
@@ -310,7 +310,7 @@ Code strukturieren // deutsch
 * [hyprwm/hyprlang: The official implementation library for the hypr config language.](https://github.com/hyprwm/hyprlang) 
 * [kotlin](https://www.heise.de/news/Kotlin-macht-Ernst-mit-der-plattformuebergreifenden-Programmierung-9352485.html)
 * [markdown-guide/_basic-syntax/horizontal-rules.md at master · mattcone/markdown-guide](https://github.com/mattcone/markdown-guide/blob/master/_basic-syntax/horizontal-rules.md)
-* [programming languages - Is LISP still useful in today's world? Which version is most used? - Software Engineering Stack Exchange](ghttps://softwareengineering.stackexchange.com/questions/55284/is-lisp-still-useful-in-todays-world-which-version-is-most-used)
+* [programming languages - Is LISP still useful in today's world? Which version is most used? - Software Engineering Stack Exchange](https://softwareengineering.stackexchange.com/questions/55284/is-lisp-still-useful-in-todays-world-which-version-is-most-used)
 * [psychology of computer programming at DuckDuckGo](https://duckduckgo.com/?q%3Dpsychology%2Bof%2Bcomputer%2Bprogramming%26ia%3Dweb)
 * [ts vs js](https://blog.logrocket.com/typescript-vs-purescript-not-all-compilers-are-created-equal-c16dadaa7d3e/)
 * bash  [The Confusion With Linux Shells - YouTube](https://www.youtube.com/watch?v%3D6FHd-rBM2Mc)
@@ -323,10 +323,10 @@ Code strukturieren // deutsch
 * idris [Idris 2: Quantitative Types in Action - Edwin Brady - YouTube](https://www.youtube.com/watch?v%3D0uA-tKR6Ah4)
 * js lib books21138741 Wcm 2 JAVASCRIPT Hav 24.01.2024 HHaverbeke, Marijn: JavaScript14220338 Wcg 2 Schmid 24.01.2024 HSchmidt, Maik: Raspberry Pi17205142 Wcg 2 Rueh 24.01.2024 HRühmer, Dennis Pa...: Heimserver mit Raspberry und Banana Pi21177628 Wcm 2 JAVASCRIPT Hor 24.01.2024 HHorstmann, Cay: JavaScript für Ungeduldige15204636 Wcr 7 Glit 24.01.2024 HGlitschka, Von: Basistraining Vektorgrafik19372488 Wcg 2 Kofl 24.01.2024 HKofler, Michael ...: Raspberry Pi19133390 Wcm 2 JAVA Bloc 24.01.2024 HBloch, Joshua: Effective Java01218680 80 Pael 24.01.2024 HDie Pälzer Biwel20367667 Wcm 2 KOTLIN Szwi 24.01.2024 HSzwillus, Karl: Kotlin21216567 Wcm Meye 24.01.2024 HMeyer, Uwe: Grundkurs Compilerbau
 * lisp [CLHS: Chapter Index](https://www.lispworks.com/documentation/lw50/CLHS/Front/Contents.htm)
-* lisp [Let's make a scripting language using parser combinators in rust - YouTube](ghttps://www.youtube.com/watch?v%3DSfIIxUXRv1Y)
+* lisp [Let's make a scripting language using parser combinators in rust - YouTube](https://www.youtube.com/watch?v%3DSfIIxUXRv1Y)
 * lisp [Lisp Tutorial - YouTube](https://www.youtube.com/watch?v%3DymSq4wHrqyU%26t%3D115s)
-* lisp [https://cisco.github.io/ChezScheme/](ghttps://cisco.github.io/ChezScheme/)
-* lisp [https://github.com/cisco/ChezScheme](ghttps://github.com/cisco/ChezScheme)
+* lisp [https://cisco.github.io/ChezScheme/](https://cisco.github.io/ChezScheme/)
+* lisp [https://github.com/cisco/ChezScheme](https://github.com/cisco/ChezScheme)
 * lisp [https://github.com/kspalaiologos/kamilalisp](https://github.com/kspalaiologos/kamilalisp)
 * lisp [https://www.gnu.org/software/guile/learn/](https://www.gnu.org/software/guile/learn/)
 * lisp [https://www.reddit.com/r/lisp/s/9gAplgnn9d](https://www.reddit.com/r/lisp/s/9gAplgnn9d) Nyxt to Surf
@@ -359,7 +359,7 @@ Code strukturieren // deutsch
 * rust [https://libgen.rs/search.php?req=code+rust+like+a+pro&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def](https://libgen.rs/search.php?req%3Dcode%2Brust%2Blike%2Ba%2Bpro%26lg_topic%3Dlibgen%26open%3D0%26view%3Dsimple%26res%3D25%26phrase%3D1%26column%3Ddef)
 * top-class thread: [discord ](https://discord.com/channels/834325286664929280/877900210297270272/1205164792327831623)
 * zig [https://thenewstack.io/introduction-to-zig-a-potential-heir-to-c/](https://thenewstack.io/introduction-to-zig-a-potential-heir-to-c/)
-* zip [How (memory) safe is zig?](ghttps://www.scattered-thoughts.net/writing/how-safe-is-zig/)
+* zip [How (memory) safe is zig?](https://www.scattered-thoughts.net/writing/how-safe-is-zig/)
 
 * [Where does GCC look to find its header files?](https://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art026)
 
@@ -524,11 +524,11 @@ FP discussion https://www.reddit.com/r/functionalprogramming/s/mvp30BfqJW
 
 
 ## SORT
-    
+
 
 
 ## SORT
-    
+
 
 
 ## SORT
@@ -564,23 +564,23 @@ FP discussion https://www.reddit.com/r/functionalprogramming/s/mvp30BfqJW
 * https://www.stylewarning.com/posts/quantum-interpreter/ * [The Tragedy of systemd](https://www.youtube.com/watch?app=desktop&v=o_AIw9bGogo)
 * [Transistor 1953 Documentary](https://www.youtube.com/watch?app=desktop&v=V9xUQWo4vN0)
 * https://www.theregister.com/AMP/2023/02/10/googles_go_programming_language_telemetry_debate/ * [Linux Audio Explained (ALSA vs PulseAudio vs JACK vs Pipewire Explained)](https://www.youtube.com/watch?app=desktop&v=HxEXMHcwtlI)
-* https://ublue.it/making-your-own/ 
-* https://www.reddit.com/r/linuxmemes/comments/v4nl8x/listening_to_the_kernels_soul/ 
+* https://ublue.it/making-your-own/
+* https://www.reddit.com/r/linuxmemes/comments/v4nl8x/listening_to_the_kernels_soul/
 * https://distrowatch.com/index-mobile.php
 * https://anvaka.github.io/map-of-github/#2/0/0
-* https://github.com/readme/featured/how-open-is-open-source 
+* https://github.com/readme/featured/how-open-is-open-source
 * [command line - chsh -s /usr/bin/zsh not working - Ask Ubuntu](https://askubuntu.com/questions/195361/chsh-s-usr-bin-zsh-not-working)
 * [How Silicon Valley Became Silicon Valley (And Why Boston Came In Second) — Brian Manning](https://www.briancmanning.com/blog/2019/4/7/how-silicon-valley-became-silicon-valley)
 * [Google will FORCE Ads on You - YouTube](https://www.youtube.com/watch?v=oQL9dVsEXT0)
 * [The Valley of My Dreams: Why Silicon Valley Left Boston's Route 128 In The Dust | TechCrunch](https://techcrunch.com/2009/10/31/the-valley-of-my-dreams-why-silicon-valley-left-bostons-route-128-in-the-dust/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAIA5WaBNLWJjZlFzfmp09Zrc9sqTpxwHLaX-QSE41e5m5rh-6Gnx447HbvVra1UXP26xnmz0h1XSFpzh45yc_gKha9lFRc_P_TwTkDE9au5O5TnRT6RfOLzPc3h8xZNeXXi4-1Gz3K06jW37ZYB8DRIhQSp4A6jlmEkua9pbHdvz)
 * [Boston’s Start-Ups Will Never Be Silicon Valley Cool](https://www.bostonmagazine.com/news/2020/02/28/boston-start-ups-cool-silicon-valley/)
-* https://www.cambridgeincolour.com/tutorials/image-interpolation.htm 
+* https://www.cambridgeincolour.com/tutorials/image-interpolation.htm
 * [mo8it/How_To_Linux: A book for a Linux course: https://how-to-linux.mo8it.com - How_To_Linux - Codeberg.org](https://codeberg.org/mo8it/How_To_Linux)
 * [Daniel J. Barrett books](http://libgen.rs/search.php?&req=daniel+barrett&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
-* https://lxr.linux.no/linux+v2.6.25.6/ 
-* https://lxr.linux.no/linux+v2.6.12/ 
-* https://lxr.linux.no/linux+v6.0.9/ 
-* https://www.soundonsound.com/series/synth-secrets-sound-sound 
+* https://lxr.linux.no/linux+v2.6.25.6/
+* https://lxr.linux.no/linux+v2.6.12/
+* https://lxr.linux.no/linux+v6.0.9/
+* https://www.soundonsound.com/series/synth-secrets-sound-sound
 * [SysVinit vs Systemd - YouTube](https://www.youtube.com/watch?v=Fz8Ldw-s8_Q)
 * [A Visual Introduction to Inner-Workings of the JVM - Douglas Hawkins - YouTube](https://www.youtube.com/watch?v=JLFjY6Ixct8)
 * [15 Years Writing C++ - Advice for new programmers - YouTube](https://www.youtube.com/watch?v=37VZu3b045k)
@@ -598,7 +598,7 @@ FP discussion https://www.reddit.com/r/functionalprogramming/s/mvp30BfqJW
 * [Clean Coders Hate What Happens to Your Code When You Use These Enterprise Programming Tricks - YouTube](https://www.youtube.com/watch?v=FyCYva9DhsI)
 * [Introducing GitFlow](http://datasift.github.io/gitflow/IntroducingGitFlow.html)
 * [**Linux and glibc API changes](https://man7.org/tlpi/api_changes/index.html)
-* https://www.freecodecamp.org/news/what-is-steganography-hide-data-inside-data/ 
+* https://www.freecodecamp.org/news/what-is-steganography-hide-data-inside-data/
 * [Pulse 15 - Gen2 - 15,6 inch WQHD 1440p + 100 % sRGB + AMD Ryzen 7 5700U + AMD Radeon Vega 8 Graphics + USB-C (DisplayPort 1.4 & Power Delivery) + max. 4 TB SSD + max. 64GB RAM - TUXEDO Pulse 15 - Gen2 - ANSI Keyboard only - TUXEDO Computers](https://www.tuxedocomputers.com/en/Linux-Hardware/Notebooks/15-16-inch/TUXEDO-Pulse-15-Gen2.tuxedo)
 * [Debian 12 Bookworm Installation and First Look - YouTube](https://www.youtube.com/watch?v=omKFEhWJGYg)
 * [An Introduction to Infrastructure and Application Monitoring](https://waves.digitalocean.com/n/dt0SA2gsv70Na00Twg000D0)
@@ -1118,9 +1118,9 @@ FP discussion https://www.reddit.com/r/functionalprogramming/s/mvp30BfqJW
 * https://unix.stackexchange.com/questions/254359/terminal-vs-terminal-emulator
 * [15 Must-Have Cheatsheets for Developers🚀 - DEV Community 👩‍💻👨‍💻](https://dev.to/ishratumar/15-must-have-cheatsheets-for-developers-1n92)
 * [A Deep Introduction to JIT Compilers: JITs are not very Just-in-time | kipply's Blog](https://carolchen.me/blog/technical/jits-intro/)
-* https://arstechnica.com/information-technology/2023/04/developer-creates-self-healing-programs-that-fix-themselves-thanks-to-gpt-4 
+* https://arstechnica.com/information-technology/2023/04/developer-creates-self-healing-programs-that-fix-themselves-thanks-to-gpt-4
 * https://belitsoft.com/php-development-services/top-software-developers-after-40-50-and-60
-* https://blog.finxter.com/the-state-of-crypto-in-2023 
+* https://blog.finxter.com/the-state-of-crypto-in-2023
 * [Why 3%: How Toptal Finds Top Talent | Toptal®](https://www.toptal.com/top-3-percent)
 * [Clean Architecture: Patterns, Practices, and Principles - Matthewrenze](https://matthewrenze.com/presentations/clean-architecture/)
 * [Clean Code Summary](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
@@ -1143,13 +1143,13 @@ The Embedded Pattern (1-to-1, 1-to-many, and many-to-many)The Partial Embed Patt
 * https://dzone.com/refcardz/designing-quality-software
 * https://dzone.com/refcardz/refactoring-patterns
      * [How Deno’s Founder Is Rebuilding the Runtime of the Web](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=885c7973ff&e=b5a8df9a4a) This article provides an overview of the Deno JavaScript/TypeScript  runtime and its features, highlighting its improved security, simplified  module system, and better developer experience compared to Node.js.* [Beautiful Branchless Binary Search](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=f825542ccb&e=b5a8df9a4a) This post explains how to implement a branchless binary search algorithm
- that is both faster and more power-efficient than traditional binary search algorithms. It provides a detailed  alkthrough of the implementation and offers benchmarks to showcase its effectiveness.* [Thoughtworks Technology Radar 28](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=2f07685780&e=b5a8df9a4a) A latest issue of the Technology Radar which is an opinionated guide to technology frontiers.* [The future of programming: Research at CHI 2023](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=9fce33eaae&e=b5a8df9a4a) Research on programming tools published at CHI 2023.* [Navigating the High Cost of AI Compute](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=8045e2278a&e=b5a8df9a4a)The generative AI boom is compute-bound and, as a result, a predominant factor driving the industry is simply the cost of training and inference.* [How LinkedIn Adopted A GraphQL Architecture for Product Development](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=debd7c2b1a&e=b5a8df9a4a) In our previous post on GraphQL, we explained how LinkedIn uses GraphQL to expedite the process of onboarding new use-cases for external API 
+ that is both faster and more power-efficient than traditional binary search algorithms. It provides a detailed  alkthrough of the implementation and offers benchmarks to showcase its effectiveness.* [Thoughtworks Technology Radar 28](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=2f07685780&e=b5a8df9a4a) A latest issue of the Technology Radar which is an opinionated guide to technology frontiers.* [The future of programming: Research at CHI 2023](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=9fce33eaae&e=b5a8df9a4a) Research on programming tools published at CHI 2023.* [Navigating the High Cost of AI Compute](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=8045e2278a&e=b5a8df9a4a)The generative AI boom is compute-bound and, as a result, a predominant factor driving the industry is simply the cost of training and inference.* [How LinkedIn Adopted A GraphQL Architecture for Product Development](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=debd7c2b1a&e=b5a8df9a4a) In our previous post on GraphQL, we explained how LinkedIn uses GraphQL to expedite the process of onboarding new use-cases for external API
 
-partners. In this blog post, we will cover how the GraphQL layer is architected for use by our internal engineers to build member and customer facing applications. Specifically, we will dive into some of the architectural choices that are unique to LinkedIn and why we chose each one of them.* [Avoiding the Rewrite Trap](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=cdbca5b89f&e=b5a8df9a4a)Before you commit to rewriting an old system, here are some reasons it's (almost always) a bad idea.* [CLI tricks every developer should know](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=7c2af18da5&e=b5a8df9a4a) Learn some tips, tricks, and tools for mastering the command line from GitHub’s own developers.* [Using ChatGPT as a technical writing assistant](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=1ec1f7ac36&e=b5a8df9a4a) An experienced technical author explores using ChatGPT to assist with a  number of writing projects. He finds ChatGPT can provide time-savings through drafts and prompting for additional content, but lacks accuracy and depth - as well as suffering from bubbly optimism. Overall it is 
+partners. In this blog post, we will cover how the GraphQL layer is architected for use by our internal engineers to build member and customer facing applications. Specifically, we will dive into some of the architectural choices that are unique to LinkedIn and why we chose each one of them.* [Avoiding the Rewrite Trap](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=cdbca5b89f&e=b5a8df9a4a)Before you commit to rewriting an old system, here are some reasons it's (almost always) a bad idea.* [CLI tricks every developer should know](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=7c2af18da5&e=b5a8df9a4a) Learn some tips, tricks, and tools for mastering the command line from GitHub’s own developers.* [Using ChatGPT as a technical writing assistant](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=1ec1f7ac36&e=b5a8df9a4a) An experienced technical author explores using ChatGPT to assist with a  number of writing projects. He finds ChatGPT can provide time-savings through drafts and prompting for additional content, but lacks accuracy and depth - as well as suffering from bubbly optimism. Overall it is
 
-useful if you work iteratively, asking for small chunks with well-crafted prompts.* [Bootstrapping Uber’s Infrastructure on arm64 with Zig](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=343f76acc7&e=b5a8df9a4a) In November 2021 we decided to evaluate arm64 for Uber. Most of our services are written in either Go or Java, but our build systems only supported compiling to x86_64. Today, thanks to Open Source collaboration, Uber has a system-independent (hermetic) build toolchain 
+useful if you work iteratively, asking for small chunks with well-crafted prompts.* [Bootstrapping Uber’s Infrastructure on arm64 with Zig](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=343f76acc7&e=b5a8df9a4a) In November 2021 we decided to evaluate arm64 for Uber. Most of our services are written in either Go or Java, but our build systems only supported compiling to x86_64. Today, thanks to Open Source collaboration, Uber has a system-independent (hermetic) build toolchain
 
-that seamlessly powers multiple architectures. We used this toolchain to  bootstrap our arm64 hosts. This post is a story with how we went about it, our early thinking, problems, some achievements, and next steps.* [eBay’s Blazingly Fast Billion-Scale Vector Similarity Engine](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=fea573defd&e=b5a8df9a4a) This article takes a look at the architecture we constructed for  vector-based similarity, meeting the scale using data sharding, partitioning and replication, and features including attribute-based features and a pluggable ANN backend based on index building, recall accuracy, latencies and memory footprint. 
+that seamlessly powers multiple architectures. We used this toolchain to  bootstrap our arm64 hosts. This post is a story with how we went about it, our early thinking, problems, some achievements, and next steps.* [eBay’s Blazingly Fast Billion-Scale Vector Similarity Engine](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=fea573defd&e=b5a8df9a4a) This article takes a look at the architecture we constructed for  vector-based similarity, meeting the scale using data sharding, partitioning and replication, and features including attribute-based features and a pluggable ANN backend based on index building, recall accuracy, latencies and memory footprint.
 * https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/
 * https://www.freecodecamp.org/news/level-up-developer-portfolio/
 * https://www.freecodecamp.org/news/your-developer-career-questions-answered/
@@ -1176,7 +1176,7 @@ that seamlessly powers multiple architectures. We used this toolchain to  bootst
 * https://en.wikipedia.org/wiki/Extreme_programming
 * https://www.w3schools.com/xml/xpath_syntax.asp
 * [[recursive progrmamming with multiple nodes - Поиск в Google](](https://www.google.com/search?rlz=1C1GCEA_enUS832&ei=pPZBXIXjFoHW_wSVgp6YDg&q=recursive+progrmamming+with+multiple+nodes&oq=recursive+progrmamming+with+multiple+nodes&gs_l=psy-ab.3...71004.90841..90970...4.0..0.190.5543.3j43)
-* https://stackoverflow.com/questions/38643261/how-to-write-a-terminal-emulator-from-scratch-or-not-from-scratch#38658235 
+* https://stackoverflow.com/questions/38643261/how-to-write-a-terminal-emulator-from-scratch-or-not-from-scratch#38658235
 * https://www.freecodecamp.org/news/the-design-thinking-process-explained/
 * https://ericlippert.com/category/monads/page/2/
 * https://stackoverflow.com/questions/2704652/monad-in-plain-english-for-the-oop-programmer-with-no-fp-background

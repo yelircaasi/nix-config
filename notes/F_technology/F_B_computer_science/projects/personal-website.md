@@ -13,7 +13,7 @@ Want something better than Hostinger
 
 
 * About Me
-    - [ ]  
+    - [ ]
 * Projects
 * Math & Programming Visualizations
     - [ ]  Bayes’ Theorem (rewrite and convert from TDS)

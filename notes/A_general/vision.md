@@ -2,7 +2,7 @@
 
 Vision
 
-Note: This section provides an overview of the directions in which I am moving, as well as a very general blueprint for action. 
+Note: This section provides an overview of the directions in which I am moving, as well as a very general blueprint for action.
 
 It is laid out in a 4-tier system: Must, Should, Try, Wish.
 

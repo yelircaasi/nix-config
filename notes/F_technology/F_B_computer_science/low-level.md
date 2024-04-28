@@ -30,15 +30,15 @@
 * https://github.com/Apress/learn-to-program-w-assembly
 
 ## Boot etc.
-* https://de.wikipedia.org/wiki/Bootloader 
-* https://de.wikipedia.org/wiki/Grand_Unified_Bootloader 
+* https://de.wikipedia.org/wiki/Bootloader
+* https://de.wikipedia.org/wiki/Grand_Unified_Bootloader
 
 ## Cracking
 * https://gtfobins.github.io/
 
 ## Other People’s Projects
 * https://os.phil-opp.com/  - notes on writing an OS in Rust
-* https://raymii.org/s/blog/Bare_Metal_Boot_to_Vi.html 
+* https://raymii.org/s/blog/Bare_Metal_Boot_to_Vi.html
 * http://skilldrick.github.io/easy6502/index.html
 * [uLisp](http://www.ulisp.com/show?3KN3)
 * [Intel 8080 CPU Emulator](https://www.tramm.li/i8080/)
@@ -157,7 +157,7 @@
 ### SORT
 look into Risc-V
 * [What is Microarchitecture?](https://www.computerhope.com/jargon/m/microarchitecture.htm)
-* https://hackaday.com/2023/06/18/learning-x86_64-assembly-by-building-a-gui-from-scratch/ 
+* https://hackaday.com/2023/06/18/learning-x86_64-assembly-by-building-a-gui-from-scratch/
 * [Контроллеры (ПЛК)](https://vk.com/wall-16108331_152245)
 * [Программирование ПЛК (Программируемый логический контроллер)](https://vk.com/wall-16108331_152139)
 * [Рабочий цикл контроллера (ПЛК)56 переглядів](https://vk.com/video-16108331_456267607?list=e780dc7b2fcec6a2e4)

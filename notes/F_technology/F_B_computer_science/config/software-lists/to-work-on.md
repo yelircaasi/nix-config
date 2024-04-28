@@ -21,7 +21,7 @@
 * (5) [percol](https://github.com/mooz/percol) - update
 * (5) [ad](https://github.com/tanrax/terminal-AdvancedNewFile) - add Poetry, or port to native-compilable language
 * (5) [alder](https://github.com/aweary/alder) (JS) - update, make TypeScript, compile to native?
-* (5) [organize-cli](https://github.com/ManrajGrover/organize-cli) 
+* (5) [organize-cli](https://github.com/ManrajGrover/organize-cli)
    |  [classifier](https://github.com/bhrigu123/classifier) - fork and update both (JS and Python)
 * (5) [find-up-cli](https://github.com/sindresorhus/find-up-cli) - update and nativify
 * (5) [friendly-find](https://github.com/sjl/friendly-find) - fork, update, poetrify, and modify

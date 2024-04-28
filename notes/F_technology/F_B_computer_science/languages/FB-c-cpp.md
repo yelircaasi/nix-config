@@ -9,7 +9,7 @@ search: Nooby C++ Habits
 
 
 ## Best Resources
-* https://www.cpp-lang.net/ 
+* https://www.cpp-lang.net/
 
 
 ## 1s
@@ -109,7 +109,7 @@ search: Nooby C++ Habits
     * [thelastpolaris/Programming-Principles-and-Practice-Using-C](https://github.com/thelastpolaris/Programming-Principles-and-Practice-Using-C-?files=1)
     * [Коплиен Дж. - Программирование на С++. Классика CS. (Классика Computer Science) -  005.djvu](https://vk.com/doc44301783_453645381?hash=aa689e3b0cd2a38845&dl=7da30f5f43bb920a77)
     * [Язык С в XXI веке | Бен Клеменс (Авт.); А. Слинкин (Пер.) | download](http://b-ok.cc/book/2545918/24fb4f)
-    * https://openlibra.com/es/collection/search/category/c/pag/2 
+    * https://openlibra.com/es/collection/search/category/c/pag/2
     * [https://b-ok.cc/g/Ira Pohl](https://b-ok.cc/g/Ira%20Pohl)(C/C++ books)
     * https://github.com/BjarneStroustrup/Programming-_Principles_and_Practice_Using_Cpp
     * [Expert C++: Become a proficient programmer by learning coding best practices with C++17 and C++20's latest features](http://libgen.rs/book/index.php?md5=F9404739E16292672F830E964DE1C2E4)
@@ -301,7 +301,7 @@ search: Nooby C++ Habits
 
 ### Small Projects
 * https://github.com/pickfire/spt
-* https://abstractexpr.com/2023/04/19/how-to-create-a-modern-c-project-with-cmake-and-conan/ 
+* https://abstractexpr.com/2023/04/19/how-to-create-a-modern-c-project-with-cmake-and-conan/
     * https://github.com/Cubified/ntwm
     * https://github.com/Cubified/term
     * https://github.com/hollasch/fpWorkbench
@@ -533,12 +533,12 @@ search: Nooby C++ Habits
 * [The Art Of Pointers - YouTube](https://www.youtube.com/watch?v=zqlm5UHgVRU)
 * [Introduction to the Arduino Programming Language](https://flaviocopes.com/arduino-programming-language/)
 * [Cosmopolitan Libc: build-once run-anywhere C library](https://justine.lol/cosmopolitan/)
-* [https://www.cpp-lang.net](https://www.cpp-lang.net/) 
-* [Bill Weinman - C++20 STL Cookbook: Leverage the latest features of the STL to solve real-world problems](https://libgen.is/book/index.php?md5=AA9429215C0EB9AFDABE5E078AE43927)    * [C++20 Quick Syntax Reference: A Pocket Guide to the Language, APIs, and Library](http://library.lol/main/E565C930A383AAD186E8DD67FC65CA9D)     * [Modern C Quick Syntax Reference: A Pocket Guide to the Language, APIs, and Library](http://library.lol/main/7C0D7E34D05C3C556F2C29402F432C26)     * [C++17 Quick Syntax Reference: A Pocket Guide to the Language, APIs and Library](http://library.lol/main/9F7D750D0DAB15692E732B7D69319CE6) 
-* https://www.cpp-lang.net/ 
-* https://www.cprogramming.com/ 
+* [https://www.cpp-lang.net](https://www.cpp-lang.net/)
+* [Bill Weinman - C++20 STL Cookbook: Leverage the latest features of the STL to solve real-world problems](https://libgen.is/book/index.php?md5=AA9429215C0EB9AFDABE5E078AE43927)    * [C++20 Quick Syntax Reference: A Pocket Guide to the Language, APIs, and Library](http://library.lol/main/E565C930A383AAD186E8DD67FC65CA9D)     * [Modern C Quick Syntax Reference: A Pocket Guide to the Language, APIs, and Library](http://library.lol/main/7C0D7E34D05C3C556F2C29402F432C26)     * [C++17 Quick Syntax Reference: A Pocket Guide to the Language, APIs and Library](http://library.lol/main/9F7D750D0DAB15692E732B7D69319CE6)
+* https://www.cpp-lang.net/
+* https://www.cprogramming.com/
 * [Accelerated C++: Practical Programming by Example](https://www.amazon.in/Accelerated-Practical-Programming-Example-Depth/dp/020170353X)
 * [C++ Primer (5th Edition)](https://www.amazon.in/Primer-5th-Stanley-B-Lippman/dp/0321714113?tag=hackr0df-21)
-* https://www.cs.unibo.it/~renzo/doc/C/c.pdf 
-* https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html 
+* https://www.cs.unibo.it/~renzo/doc/C/c.pdf
+* https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
 * https://github.com/larmel/lacc

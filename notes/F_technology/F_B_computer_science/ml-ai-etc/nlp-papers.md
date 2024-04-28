@@ -31,7 +31,7 @@
 * Blokker et al. 2020 Swimming with the Tide? Positional Claim Detection across Political Text Types
 * Liebeck et al. 2016: What to Do with an Airport? Mining Arguments in the German Online Participation Project Tempelhofer Feld
 * Parthasarathy et al. 2019: Deliberative Democracy in an Unequal World: A Text-As-Data Study of South India’s Village Assemblies
-    
+
 ## Miscellaneous
 * [Retrieval Enhanced Transformer](https://arxiv.org/abs/2112.04426)
 * [Ethical and social risks of harm from Language Models](https://arxiv.org/abs/2112.04359)
@@ -188,7 +188,7 @@
     11b https://www.cambridge.org/core/journals/american-political-science-review/article/deliberative-democracy-in-an-unequal-world-a-textasdata-study-of-south-indias-village-assemblies/081C0A8F242D2C5273EBC60A4CCEFB73
 
 
-## 
+##
 * [lazyweb: Does anyone have recs for a really nicely written NLP review paper (ideally not on bert/transformers). It's not something we do so much as a community, but I would like to collect some examples.](https://twitter.com/srush_nlp/status/1270433763869286401?s=20)
 * https://jlm.ipipan.waw.pl/index.php/JLM
 

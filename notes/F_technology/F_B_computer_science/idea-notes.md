@@ -217,7 +217,7 @@
 * [Topological data analysis - Wikipedia](https://en.wikipedia.org/wiki/Topological_data_analysis)
 * https://www.researchgate.net/profile/Sara_Scaramuccia/publication/310406546_Persistent_homology_a_step-by-step_introduction_for_newcomers/links/582c6a4808aef19cb81005b0/Persistent-homology-a-step-by-step-introduction-for-newcomers.pdf?origin=publication_detail
 * intro to persistent homology
-* introduction to cw complexes 
+* introduction to cw complexes
 * [Topology and Groups](http://www.homepages.ucl.ac.uk/~ucahjde/tg/html/index.html#index)
 * [CW](http://www.homepages.ucl.ac.uk/~ucahjde/tg/html/cw-01.html)
 * https://www.math.upenn.edu/~ghrist/preprints/HAD.pdf
@@ -414,7 +414,7 @@
     * My work is distinct from previous work in a few ways:
     * it uses high-quality inputs and political writings in addition to social media (hopefully making the model more grounded in the deep theoreticcal issues of politics, not just shallow perceptions)
     * it does not assume a spectrum; rather it uses unsupervised learning to identify clusters and linkages between ideologies
-    * it allows for a robust measuring of ideological similarity that is as general as possible, allowing a wide range of comparisons, even potentially across time, language, and culture, because the method 
+    * it allows for a robust measuring of ideological similarity that is as general as possible, allowing a wide range of comparisons, even potentially across time, language, and culture, because the method
       is built on attitudes toward nearly-universal ideas and concepts, rather than toward specific people and organizations
     * it brings together several fairly technical NLP/IR/TM methods that have not been used for this before: topic extraction, emotion analysis, opinion mining
     * it combines the above methods with other more common methods, such as clustering, lexical analysis (i.e. tf-idf)
@@ -979,7 +979,7 @@
 
 
 ## Language Similarity
-* Similarity of two languages as amount of error that can be reduced by transformation rules, where n is the number of rules, eps(n) is the degree of error following application of rule n. Order the  
+* Similarity of two languages as amount of error that can be reduced by transformation rules, where n is the number of rules, eps(n) is the degree of error following application of rule n. Order the
 * https://lh5.googleusercontent.com/GYN9j4xAbMLMSLtlh39laEax1mwj6tLAorZSoyxQORX9YbW8SI4rRoqSP9JDqqHaRUA7SRAN-U0P_FIA-rfglEHf4eI88qxM_LJu5QZOt8c9DSsS6dFEIue-fnKd4Z3ZxMecJRscdYUQZ51AxmBBHg
 * in order of decreasing error reduction.
 * https://lh3.googleusercontent.com/6RFXFqvD6XzC2Lw4tjALWwnVXeJ3hdaaS0HqdmvMiim3Zm2t6RFouI8kmpDrIHqkdFFU8spC7A-Mv9Y-orIVLg8zMQyDW6ehCu4g-BZ4ERCp3jwnNyXRrBo-AaBFq4bB8ejFWLLQUtNm9akawOZVgw

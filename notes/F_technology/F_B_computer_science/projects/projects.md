@@ -44,7 +44,7 @@ plt: C++ Lexilla, Lua Scintillua, Python pygments, Go Chroma, Rust Syntect, Java
 
 plt: Make binaries available on Github page.
 
-plt: Write PLT static generation code in Go, Rust, Python, Lua, JavaScript, C++. 
+plt: Write PLT static generation code in Go, Rust, Python, Lua, JavaScript, C++.
 
 plt: how do RosettaCode, XinY, Hyperpolyglot, X by Example, etc. do it?
 

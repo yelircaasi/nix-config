@@ -26,20 +26,20 @@ Can I workshop an idea with you people? Seems like as good a place as any
 Vhyrro — 27/03/2024 19:28
 yeah sure why not
 yelircaasi — 27/03/2024 19:29
-The basic idea, one I have sloppily prototyped in Python and am now re-writing in Haskell (because of course), is "pure functional personal planning and scheduling" 
+The basic idea, one I have sloppily prototyped in Python and am now re-writing in Haskell (because of course), is "pure functional personal planning and scheduling"
 Declare a calendar with ad hoc entries and (the interesting part) roadmaps consisting of projects consisting in turn of tasks. Then the program derives a plan (mapping task -> day) and from there a schedule (mapping task -> entry -> time) according to parameters declared, such as priority, blockers, and estimated min/normal/max time per task, fixedness/flexness etc.
 
-This will be compatible with existing tools like neorg::gtd, taskwarrior, xit, etc. But the mechanism for enforcing coherence between long-term goals and day-to-day plans is something I haven't found elsewhere. And for a certain personality type (mine, but presumably not uncommon among programmers) this sort of thing helps a lot with motivation 
+This will be compatible with existing tools like neorg::gtd, taskwarrior, xit, etc. But the mechanism for enforcing coherence between long-term goals and day-to-day plans is something I haven't found elsewhere. And for a certain personality type (mine, but presumably not uncommon among programmers) this sort of thing helps a lot with motivation
 Vhyrro — 27/03/2024 19:35
 Lowkey sounds like something I've also been conjuring up :kek:
 The initial idea was to be able to specify an estimated time for each task, and allow a system to sort and organize based on time taken
 with the idea of it also being able to adapt to certain behaviours to be more accurate
 yelircaasi — 27/03/2024 19:37
-I had looked around extensively and not found anythng that solves this problem. It's important to me not to needlessly duplicated existing work, but this really seems to be a gap that needs filling 
+I had looked around extensively and not found anythng that solves this problem. It's important to me not to needlessly duplicated existing work, but this really seems to be a gap that needs filling
 pysan3 — 27/03/2024 19:37
 Is this talking about team task or personal tasks?
 Vhyrro — 27/03/2024 19:37
-both honestly 
+both honestly
 yelircaasi — 27/03/2024 19:37
 I'm focused on individual tasks, but I'm sure the principle could be applied to teams as well
 Vhyrro — 27/03/2024 19:37
@@ -61,9 +61,9 @@ yelircaasi — 27/03/2024 19:40
 Yes, that's actually how this started. At sone point, Gantt charts were too inflexible, and having to push everything back by hand grew tiresome (because as we know, pufe happens)
 Vhyrro — 27/03/2024 19:40
 multi layered calendars are also a super cool concept which Sevoris pointed me at
-yet again, an idea I had but just much more rigorously planned out by this lad before me :kek: 
+yet again, an idea I had but just much more rigorously planned out by this lad before me :kek:
 yelircaasi — 27/03/2024 19:41
-That's really cool, definitely in the same vein. 
+That's really cool, definitely in the same vein.
 My hope is to have the project sketched out in generously-commented haskell in the next few weeks, so that the logic of planning and scheduling is easy to read and  reason about
 Vhyrro — 27/03/2024 19:43
 your idea sounds super cool so yeah do it man
@@ -78,7 +78,7 @@ I had it working in python, then changed too much, got tired of the million test
 pysan3 — 27/03/2024 19:44
 Umm, tho I think writing in rust gets you the most contributors :kek:
 Vhyrro — 27/03/2024 19:44
-haskell is useful in the sense that you can guarantee it's purely functional 
+haskell is useful in the sense that you can guarantee it's purely functional
 when it comes to fundamental building blocks and algorithms being able to represent them in this way is generally good
 @yelircaasi make in ocaml for 🐐 points :kek:
 yelircaasi — 27/03/2024 19:46
@@ -110,12 +110,12 @@ Yeah
 Vhyrro — 27/03/2024 19:49
 data goes in, sorted list goes out. whatever you do with that data afterwards is up to you :D
 yelircaasi — 27/03/2024 19:50
-I think this is a feature of the approach, at least for me. You pass in your json (dhall, kdl, nickel, potentially whatever sexy config language you like) and you get the output as a direct result of your priorities, available time, and temporal dependencies. To change the output, change the input 
+I think this is a feature of the approach, at least for me. You pass in your json (dhall, kdl, nickel, potentially whatever sexy config language you like) and you get the output as a direct result of your priorities, available time, and temporal dependencies. To change the output, change the input
 Or, if you must, edit the output schedule, in txt or tex or whatever
 yelircaasi — 27/03/2024 19:52
 yeah, I can get behind this. After all, user knows best. At the same time, if you follow the generated schedule, you know your actions are in accordance with yur long-term goals, according to the criteria you yourself specified
 pysan3 — 27/03/2024 19:54
-Well, theories aside, I once made my task app and miserably failed with ocaml :PepeHands: 
+Well, theories aside, I once made my task app and miserably failed with ocaml :PepeHands:
 The more features I added, the more nested if-else and it was more hassle than benefit to use functional language…
 I definitely think you guys are better programmers lol
 Vhyrro — 27/03/2024 19:55
@@ -126,21 +126,21 @@ I'm not a phenomenal programmer. If you read my Python code, you'll see ut's shi
 Vhyrro — 27/03/2024 19:55
 functional languages force you to break down the problem into its smallest constituent parts
 yelircaasi — 27/03/2024 19:56
-But that's what I love about Haskell, it forces you to be a good programmer, like it or not :kek: 
+But that's what I love about Haskell, it forces you to be a good programmer, like it or not :kek:
 pysan3 — 27/03/2024 19:56
 And the lack of libraries was also a pain. I don’t regret using python-poetry all the time now lol
 yelircaasi — 27/03/2024 19:57
 and this is perfect for the kinds of ordering and scheduling algorithms I am writing. I really think Haskell is a good choice. But maybe I'll be back in a month to announce the RiR :kekw:
 yelircaasi — 27/03/2024 19:58
-Poetry is Python's redeeming feature. A bit bitter on NixOS to be forced to admit that I need FHS after all, but facts is facts... 
+Poetry is Python's redeeming feature. A bit bitter on NixOS to be forced to admit that I need FHS after all, but facts is facts...
 pysan3 — 27/03/2024 20:00
 What’s fhs?
 yelircaasi — 27/03/2024 20:04
-It's essentially a shell that recreates the normie filesystem hierarchy standard. Makes it easy, for example, to use Poetry to install packages that have Cuda dependencies or other .so dependencies. Since poetry2nix takes several hours to build each of pytorch and tensorflow with cuda and avx support... 
+It's essentially a shell that recreates the normie filesystem hierarchy standard. Makes it easy, for example, to use Poetry to install packages that have Cuda dependencies or other .so dependencies. Since poetry2nix takes several hours to build each of pytorch and tensorflow with cuda and avx support...
 yelircaasi — 27/03/2024 20:05
 fhs is the normal Linux filesystem, as opposed to "everything in /nix/store and make symlinks as necessary"
 pysan3 — 27/03/2024 20:08
-Oh didn’t know that problem in the first place. Yah I kinda wonder why nix guys praise nix but then pay huge extra times to even make it work for basic things. 
+Oh didn’t know that problem in the first place. Yah I kinda wonder why nix guys praise nix but then pay huge extra times to even make it work for basic things.
 Imo It’s definitely good for people who only use google chrome but not for us developers who wants to tinker the system
 Yet another poor guy on nixos: https://github.com/nvim-neorg/neorg/issues/1342#issuecomment-2022690731
 GitHub
@@ -148,11 +148,11 @@ Luarocks Issues Thread · Issue #1342 · nvim-neorg/neorg
 If you're probably here you're either angry or you're sad :| The latest update, 8.0.0, has been a breaking change for users. This isn't a breaking change just because I felt like it...
 Luarocks Issues Thread · Issue #1342 · nvim-neorg/neorg
 yelircaasi — 27/03/2024 20:14
-I'm absolutely a happy Nix user. But I admit that Python is not fully native on Nix. But to be fair, creating an FHS environment on NixOS is trivially easy, so the benefits outweigh the drawbacks for me. The only real pain point is the lack of static typing in Nix... imagine the kind of error messages you get in a language that is purely functional, strongly and dynamically typed, lazily evaluated, and lazily documented. It's what you'd expect :kek: 
+I'm absolutely a happy Nix user. But I admit that Python is not fully native on Nix. But to be fair, creating an FHS environment on NixOS is trivially easy, so the benefits outweigh the drawbacks for me. The only real pain point is the lack of static typing in Nix... imagine the kind of error messages you get in a language that is purely functional, strongly and dynamically typed, lazily evaluated, and lazily documented. It's what you'd expect :kek:
 
-And I still love it 
+And I still love it
 yelircaasi — 27/03/2024 20:17
-I'd say any immutable system is good for a browser native. My main use case is being able to declare coherent colors and keybinds in one central location and interpolate them everywhere. Still a WIP, but I love it already 
+I'd say any immutable system is good for a browser native. My main use case is being able to declare coherent colors and keybinds in one central location and interpolate them everywhere. Still a WIP, but I love it already
 pysan3 — 27/03/2024 20:17
 Maybe it’s just that I don’t know enough nix
 yelircaasi — 27/03/2024 20:19
@@ -182,15 +182,15 @@ CLI “Digital Assistant”
         - keyboard-driven
         - aesthetically pleasing
         - in keeping with the Second Brain framework
-            
+
             C (Capture)
-            
+
             O (Organise)
-            
+
             D (Distill)
-            
+
             E (Express)
-            
+
         - integrated and internally consistent
 * End result:
         - phone app (android or linux mobile) → Notion or Appflowy
@@ -213,7 +213,7 @@ CLI “Digital Assistant”
             - requirements
                 1. notify of start/end of schedule entries
                 2. record (as response to prompts) status of tasks, including sub-items of routines
-                3. 
+                3.
         - planager.nvim - from nvim with Neorg, or as neorg module?
         - planager-tui - bubbletea, rich, textual, or Ratatui?
         - planager-django - prototying for backend → alternatives: flask, cherry-py, fastapi?
@@ -231,22 +231,22 @@ CLI “Digital Assistant”
                 - Telegram Bot (or over way to send notifications)
                 - Weekly Email Report
                 - Sync between taskwarrior, GTT
-                
+
             - Zapier Hooks?
             - Desktop GTT TUI
-                
+
                 communication with server
-                
+
             - (inthe.am, Foreground App)
             - Taskwarrior
-                
+
                 TUI: Vit / taskwarrior-tui
-                
+
                 taskw for interaction with Python packages
-                
+
             - Timewarrior
             - AppFlowy → accessible from Android and Linux
-                - 
+                -
                 - ‣
                 - ‣
                 - ‣ (?)
@@ -255,22 +255,22 @@ CLI “Digital Assistant”
     - [ ] https://github.com/orgs/AppFlowy-IO/projects
     - [ ] eventually add vim keybindings (https://appflowy.gitbook.io/docs/essential-documentation/shortcuts)
                 - ChatGPT on hosting
-                    
+
                     AppFlowy is a web application, which means that you can use it on any device that has a web browser. To host it so that you can use it on your Android device and desktop, there are a few options:
-                    
+
                     1. Host it on a server and access it through a web browser on your desktop and Android device: You can host AppFlowy on a server and access it through a web browser on your desktop or Android device. This way, you can use AppFlowy on any device that has a web browser.
                     2. Install a local server on your desktop and access it through a web browser on your desktop and Android device: You can install a local server on your desktop and access AppFlowy through a web browser on your desktop or Android device. This way, you can use AppFlowy on your desktop without an internet connection, and access it on your Android device through a local network.
                     3. Use a cloud-based service that allows you to host web applications: There are several cloud-based services, such as AWS, DigitalOcean, and Heroku, that allow you to host web applications. You can host AppFlowy on one of these services and access it through a web browser on your desktop or Android device. This way, you can use AppFlowy on any device that has a web browser, and you don't need to worry about managing a server.
-                    
+
                     Regardless of which option you choose, it's important to make sure that you keep your AppFlowy account secure by using a strong and unique password, and enabling two-factor authentication if possible.
-                    
-                
+
+
                 search “hosting” https://discord.com/channels/903549834160635914/903553722804748309
-                
+
             - advice
-                
+
                 Here are some best practices for planning, organizing, and tracking your time:
-                
+
                 1. Create a daily and/or weekly schedule: Make a list of tasks or activities that you need to complete for each day or week. Prioritize the most important tasks and schedule them during your most productive time of the day.
                 2. Use a task management system: Choose a task management tool that works for you, such as a to-do list app or a project management tool. This will help you keep track of your tasks and ensure you don't miss any deadlines.
                 3. Block out time for focused work: Schedule uninterrupted time for work that requires your full concentration. Use this time to complete tasks that require your full attention, and avoid distractions like social media and email.
@@ -278,28 +278,28 @@ CLI “Digital Assistant”
                 5. Use a time tracker: Track your time to see where you're spending it. This will help you identify time-wasting activities and areas where you can improve your productivity.
                 6. Review your progress regularly: Take time at the end of each day or week to review your progress. Celebrate your successes, identify areas for improvement, and adjust your schedule and tasks as necessary.
                 7. Be flexible: No matter how well you plan, unexpected things will always come up. Be flexible and willing to adjust your schedule and tasks as needed to accommodate these changes.
-                
+
                 Remember, finding a system that works for you may take some trial and error. Experiment with different tools and techniques until you find what works best for you.
-                
-            - 
+
+            -
     - Miscellaneous
         - add/edit projects & tasks in popup, in command line, or in .norg file
     - input → output principle:
         - routines, projects, and settings as input, schedule & summary statistics as output
         - schedule + tracking as input → log and performance metrics as output
-    
+
 
 ### Planning
-    
+
     - Planning Features
         - day maximum (from calendar) and rollover when this max is exceeded
         - use of priority
         - respecting precedence requirements (dependency of one task on another)
     - Planning Algorithm (Vanilla):
         1. get all tasks (via roadmaps
-    
+
 ### Tasks
-    
+
     - Task definition entry points:
         - nvim
         - command line
@@ -308,15 +308,15 @@ CLI “Digital Assistant”
         - from project creation
         - from project editing
         - manual add
-    
+
 ### Scheduling
-    
+
     calendar
-     is direct parent of schedules, containing appointments and day 
+     is direct parent of schedules, containing appointments and day
     parameters -> calendar folder containing a file for each day
-    
+
     adhoc is counterpart to plan, containing tasks (but one-off, non-derivable) -> adhoc folder containing a file for each day
-    
+
     - Scheduling Features
         - fixed entries (x.ismovable)
         - ordering of entries (x.order)
@@ -331,27 +331,27 @@ CLI “Digital Assistant”
         - implement ‘snapping’ logic when the gap between tasks is small
         - how to measure performance and execution time, visualizing each function call?
         - move some functions from …algorithms.scheduling into the Schedule class ✓
-        
+
         fixed entries: `e.ismutable == False`
-        
+
     - Scheduling and prioritization
         - blocks added automatically: routines and recurring tasks
         - blocks added manually (weekly and daily planning)
         - automatic filling in of tasks according to algorithm
         - manual editing of task schedulng
     - Scheduling Algorithm (Vanilla)
-        
+
         High-level description:
-        
+
         1. A base schedule is specified in the calendar, which contains default recurring activities.
-        2. From planning (typically quarterly and weekly), non-recurring "big rock" activities are added, each with a priority level that determines which takes precedence among a set of items competing for the same time. 
+        2. From planning (typically quarterly and weekly), non-recurring "big rock" activities are added, each with a priority level that determines which takes precedence among a set of items competing for the same time.
         3. From the store of long-term roadmaps and projects and their corresponding tasks, tasks are assigned according to schedule and priority.
-        4. When there are conflicts or too many tasks to fit in the available time, these are to be resolved first automatically according to the settings. 
-        
+        4. When there are conflicts or too many tasks to fit in the available time, these are to be resolved first automatically according to the settings.
+
         The irresoluble conflicts or overloads are then resolved manually, but only by editing the declarations, upon which the schedule is recomputed.
-        
+
         Low-level description of scheduling algorithm:
-        
+
         1. check whether the entries fit in a day
         2. get the compression factor, i.e. how much, on average, the entries need to be compacted in order to fit
         3. separate entries into fixed (immovable) and flex (movable)
@@ -359,9 +359,9 @@ CLI “Digital Assistant”
         5. identify the gaps
         6. fill in the gaps with the flex items TODO
         7. resize between fixed points to remove small empty patches (where possible)
-        
+
         TODO: add `alignend` functionality (but first get it working without)
-        
+
     - Entry adding test cases
     - [ ] empty
     - [ ] adding movable over empty
@@ -442,31 +442,31 @@ CLI “Digital Assistant”
     - [ ] impossible: any over saturated day
     - [ ] impossible: any on day without enough room
     - [ ] impossible: immovable on top of immovable
-    - [ ] 
+    - [ ]
 
 #### Scheduler Notes
-    
-    
+
+
     Scheduler
 * https://medium.com/@thegapfill/productivity-article-eb1df36d4dbf ***
-* https://www.researchgate.net/publication/341780522_Task_Scheduling_in_Cloud_Computing_A_Survey/link/5f37b224458515b729221960/download 
-* [Algorithms for Scheduling Problems](http://library.lol/main/5E75C506698832A19DCF51915EA014A4) 
-* https://www.researchgate.net/publication/337148981_Planning_and_scheduling_problems_of_production_systems_review_classification_and_opportunities → file:///home/isaac/Downloads/R5_IJPQM_05November19_IBNMAJDOUZINEB_PlanningandschedulingproblemsofproductionsystemsReview.pdf 
-* https://www.tutorialspoint.com/operating_system/os_process_scheduling_algorithms.htm 
-* https://www.academia.edu/6718638/Scheduling_problems_An_overview 
+* https://www.researchgate.net/publication/341780522_Task_Scheduling_in_Cloud_Computing_A_Survey/link/5f37b224458515b729221960/download
+* [Algorithms for Scheduling Problems](http://library.lol/main/5E75C506698832A19DCF51915EA014A4)
+* https://www.researchgate.net/publication/337148981_Planning_and_scheduling_problems_of_production_systems_review_classification_and_opportunities → file:///home/isaac/Downloads/R5_IJPQM_05November19_IBNMAJDOUZINEB_PlanningandschedulingproblemsofproductionsystemsReview.pdf
+* https://www.tutorialspoint.com/operating_system/os_process_scheduling_algorithms.htm
+* https://www.academia.edu/6718638/Scheduling_problems_An_overview
 * [Types of Task Scheduling Algorithms in Cloud Computing Environment](https://www.intechopen.com/chapters/71902)
-* [Natural Intelligence for Scheduling, Planning and Packing Problems *[1 ed.]](http://libgen.rs/book/index.php?md5=9BC05329D09109CF82B0FB7386889764)* 
+* [Natural Intelligence for Scheduling, Planning and Packing Problems *[1 ed.]](http://libgen.rs/book/index.php?md5=9BC05329D09109CF82B0FB7386889764)*
 * [Decision Analysis, Location Models, and Scheduling Problems *[1 ed.]*](http://libgen.rs/book/index.php?md5=805513A81A24B94975F802FE4F3C2ECF)
 * [Constraint-Based Scheduling: Applying Constraint Programming to Scheduling Problems *[1 ed.]*](http://libgen.rs/book/index.php?md5=9D333284F1AF9D661620AD274CF113B7)
-* https://web-static.stern.nyu.edu/om/faculty/pinedo/scheduling/sched.pdf 
-* https://www.javatpoint.com/activity-or-task-scheduling-problem 
-* https://teamdoapp.com/inspiration/increase-productivity-with-effective-task-scheduling/ 
-* [Machine learning and optimization for production rescheduling in Industry 4.0 https://link.springer.com/article/10.1007/s00170-020-05850-5](https://link.springer.com/article/10.1007/s00170-020-05850-5) 
-    
+* https://web-static.stern.nyu.edu/om/faculty/pinedo/scheduling/sched.pdf
+* https://www.javatpoint.com/activity-or-task-scheduling-problem
+* https://teamdoapp.com/inspiration/increase-productivity-with-effective-task-scheduling/
+* [Machine learning and optimization for production rescheduling in Industry 4.0 https://link.springer.com/article/10.1007/s00170-020-05850-5](https://link.springer.com/article/10.1007/s00170-020-05850-5)
+
 
 
 ### Entries
-    
+
     - Ways to add an entry
         1. from calendar
         2. from plan via explicit declaration (project file)
@@ -474,25 +474,25 @@ CLI “Digital Assistant”
         4. from ad hoc
         5. from routines
     - Entry Adding
-        
+
         An Entry object can be added to a Schedule object from one of 5 origins:
-        
+
         - from Calendar (base schedules)
         - from plan via explicit declaration in project file
         - from plan via project expansion from roadmap file
         - from AdHoc, from adhoc file
         - from Routines, from routines file
-    
+
 ### Planning and Scheduling (shared)
-    
+
     - Project and Task Dependency Logic
         - use only `.after` attribute; `.before` superfluous
         - add `.tmpdate` (or maybe `.placeholder_date`) attribute to tasks for sorting; default NullDate to allow for easy complex comparisons
         - 2-pass approach for planning: first regular planning to assign tmpdate, then adjust for dependencies
         - use special sorting (`__gt__ , __lt__, __ge__, __le__`) that first looks at `.after`, then at `.tmpdate`
-        
+
         Extension: Norg links allow me to specify sequential dependency relationships between tasks
-        
+
     - Blocking Logic
         - blocks like 'work' that other smaller, more specific tasks can be scheduled on top of
         - blocks come from Calendar, AdHoc, Routines
@@ -507,7 +507,7 @@ CLI “Digital Assistant”
     - [ ] plan underfull
     - [ ] rollover required (with priorities)
     - [ ] with dependencies
-    
+
 ### Tracking
 
 
@@ -535,13 +535,13 @@ CLI “Digital Assistant”
     - something new I learned
     - which languages I used
 * Habits / metrics to track:
-    
+
     all foods (with times)
     time breaking fast
     last time eating
     bool: entirely plant-based? entirely non-processed?
     food score
-    
+
     cold shower
     daily walk (5x/week)
     run (5x/week) - with recorded data
@@ -550,24 +550,24 @@ CLI “Digital Assistant”
     stretching
     wisdom literature
     last use of phone
-    
+
     number of texts sent
     emails clean? (both) bookmarks clean?
     journal
     cleanliness & orderliness of apartment
     bool: mast
-    
+
     30 minutes doing absolutely nothing
     bool: getting lost in a good book
     quality of meditation
     something new I learned
     which languages I used
-    
+
 
 
 * TRACKING:
- manually via neorg, or via semaphore. One file per metric for easy 
-* tracking; move dates more than 30 days old to the old store (more 
+ manually via neorg, or via semaphore. One file per metric for easy
+* tracking; move dates more than 30 days old to the old store (more
 * efficient format?)
 
 
@@ -581,11 +581,11 @@ CLI “Digital Assistant”
 * Features for quick updates
     - object dependency graph to only make necessary changes, depending on what has changed
     - automatic patch generation from edits → ‘reverse engineering’ of effects, almost analogous to backpropagation of desired changes
-    
+
     Use norg link structure to track which files need to be updated?
-    
-    Declarative schedule generation: 
-    
+
+    Declarative schedule generation:
+
     - directed graph for updates, acyclical for full recompute, but not necessarily acyclical for some updates: lower-level (e.g. schedule, task) edit may trigger necessary change at parent levels (tasks, projects)
 * Storage
     - What is stored where and in which format?
@@ -594,9 +594,9 @@ CLI “Digital Assistant”
         3. ganttouchthis store - on desktop, mobile, and server, with git backup
     - consistent & readable storage format → seamless integration with .norg files
 * Hooks
-    
-    hooks to trigger updates: https://neovim.io/doc/user/autocmd.html#events  
-    
+
+    hooks to trigger updates: https://neovim.io/doc/user/autocmd.html#events
+
     - What are the hooks? I.e., which events trigger a sync from which component to which component?
         1. planning session defines projects, which are parsed into tasks and scheduled
         2. tasks are added to taskwarrior and synced to the server
@@ -610,9 +610,9 @@ CLI “Digital Assistant”
 
 
 * Signal module:
-    
+
     dependencies:
-    
+
     - planager.tracking
     - planager.schedule
     - semaphore (Python package)
@@ -633,7 +633,7 @@ CLI “Digital Assistant”
 * Support earliest and latest dates, dependencies between tasks/projects/roadmaps -> raise error when declaration is impossible
 
 
-* Nebokrai tracking: 
+* Nebokrai tracking:
 * pre-programmed (still configurable) for:
 * food & drink, workout, finances (expenditures), adherence to schedule/time use
 * -> need to access goals via plan
@@ -661,9 +661,9 @@ CLI “Digital Assistant”
         - sequences: an alias for a list of tasks which are always to be performed together (typically sequentially), such as a morning or evening routine; handled identically to a task
         - option set: a group of alternatives, from which I select one (or more); handled identically to a task
     - Old adjustment types
-        
+
         ```python
-        
+
         class AdjustmentType(Enum):
             AUTO = 0  # methods figure it out, based on priority and properties
             CLIP = 1  # higher-priority entry takes precedence and lower-priority activity makes way
@@ -672,7 +672,7 @@ CLI “Digital Assistant”
             COMPROMISE = 4  #
             DISPLACE = 5  #
         ```
-* https://github.com/AppFlowy-IO/AppFlowy/issues/3125 
+* https://github.com/AppFlowy-IO/AppFlowy/issues/3125
 
 
 * [ ] Which conversions are necessary?
@@ -699,24 +699,24 @@ CLI “Digital Assistant”
 * Idea Sources, Inspirations, Libraries, Tools, Dependencies
 
     Personal Kanban
-    
+
     scheduling algorithm: what can Taskwarrior do? (builtin), per project and task: relative priority, temporal planning: deadlines in different levels: dream | want| should | must -> severity/goodness
 * https://kivy.org/doc/stable/guide/packaging-android.html (also suitable for desktop)
-    
+
     possible to have app server and website server on same server VM?
-    
+
     make cron task to update Notion?
-    
+
     package AppFlowy as FlatPak
-    
+
     change GTT to write only changed tasks / projects / days, but keep in-memory for speed (except backlog and done; unnecessary)
-    
+
     crystalize gtt API, database format, object API
-    
+
     GTT functionality: add project, edit project, edit task -> done to done DB, project from backlog, add to backlog, adjust task distribution: balanced|rollover|rigid, edit backlog item, project from backlog item, check validity & check data consistency (in memory & in database & between memory and database), exact & fuzzy search, TUI, export as SVG
-    
+
     can a Kanban board be combined with my system -> integrate as a view of the tasks
-    
+
     which cmoponents does my system need? what is their relationship to each other?
 
 ### Features:
@@ -762,7 +762,7 @@ CLI “Digital Assistant”
 * [ ] https://github.com/Ninlives/taskwarrior-telegram-bot
 * [ ] https://github.com/rhnvrm/tg-taskwarrior-bot
 * [ ] https://github.com/cedricbousmanne/telegram-taskwarrior
-* [ ] 
+* [ ]
 * [ ] [Notion integration](https://developers.notion.com/reference/intro)?
     - Features
 * https://syncthing.net/
@@ -778,11 +778,11 @@ CLI “Digital Assistant”
     3. read the codebase
     4. read the additional module code as well
 * Become intimately familiar with the structure of lua plugins in neovim
-    1. https://neovim.io/doc/user/ 
-    2. read https://neovim.io/doc/user/develop.html 
-    3. skim https://github.com/neovim/neovim/wiki#developers 
-    4. browse https://sourcegraph.com/github.com/neovim/neovim 
-    5. pick 6 interesting plugins and review their code  
+    1. https://neovim.io/doc/user/
+    2. read https://neovim.io/doc/user/develop.html
+    3. skim https://github.com/neovim/neovim/wiki#developers
+    4. browse https://sourcegraph.com/github.com/neovim/neovim
+    5. pick 6 interesting plugins and review their code
 
 * done
 * [x]  rename universe to Planager
@@ -807,18 +807,18 @@ CLI “Digital Assistant”
 * [x]  write minimal, functional CLI
 * [x]  add tracking functionality
     - [x]  write prompting functions
-    - [x]  write item tracking class for each type, including json serialization and deserialization    
-    - [x]  time    
-    - [x]  boolean    
-    - [x]  natural    
-    - [x]  natural sequence    
-    - [x]  composite        
+    - [x]  write item tracking class for each type, including json serialization and deserialization
+    - [x]  time
+    - [x]  boolean
+    - [x]  natural
+    - [x]  natural sequence
+    - [x]  composite
     - [x]  define which types of composite to support and test
-        
+
     - [x]  Workout: ?
-        
+
     - [x]  Food: ?
-        
+
     - [x]  any others?
     - [x]  add method to create tracker for each routine item, including json serialization and deserialization
     - [x]  add submenu to `planager track` such that not everything needs to be tracked at once → support for partial and incremental tracking
@@ -1252,25 +1252,25 @@ CLI “Digital Assistant”
 * [taskwarrior-inthe.am](https://github.com/coddingtonbear/taskwarrior-inthe.am)
 * https://taskwarrior.org/docs/hooks_guide/ → [inthe.am](http://inthe.am) webhooks?
 * https://intheam.readthedocs.io/en/latest/api/index.html
-* https://inthe.am/ 
+* https://inthe.am/
 * [docs](https://intheam.readthedocs.io/en/latest/api/index.html)
 * https://inthe.am/configure/email
 
 #### TW (-> nvim)
-* [ ] [taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui)      
-* https://github.com/yanick/nvim-taskwarrior 
-* https://github.com/ribelo/taskwarrior.nvim 
+* [ ] [taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui)
+* https://github.com/yanick/nvim-taskwarrior
+* https://github.com/ribelo/taskwarrior.nvim
 * https://github.com/tools-life/taskwiki
 * [ ] language bindings: https://github.com/jubnzv/go-taskwarrior,  https://github.com/ralphbean/taskw, https://github.com/coddingtonbear/python-taskwarrior
 * [ ] hooks: https://github.com/mrVanDalo/taskwarrior-hooks *, https://github.com/bergercookie/tw-hooks
-* [ ] [Taskwarrior](https://taskwarrior.org/)  
-* [ ] [taskwiki](https://github.com/tools-life/taskwiki)        
-* [ ] [tasklib](https://github.com/GothenburgBitFactory/tasklib/)        
-* [ ] ⇒ https://timewarrior.net/        
-* [ ] → https://taskwarrior.org/tools/#services        
+* [ ] [Taskwarrior](https://taskwarrior.org/)
+* [ ] [taskwiki](https://github.com/tools-life/taskwiki)
+* [ ] [tasklib](https://github.com/GothenburgBitFactory/tasklib/)
+* [ ] ⇒ https://timewarrior.net/
+* [ ] → https://taskwarrior.org/tools/#services
 * [ ] → https://taskwarrior.org/tools/
 * [powerline-taskwarrior](https://github.com/Zebradil/powerline-taskwarrior)
-* [bugwarrior](https://github.com/ralphbean/bugwarrior)** https://github.com/ralphbean/bugwarrior 
+* [bugwarrior](https://github.com/ralphbean/bugwarrior)** https://github.com/ralphbean/bugwarrior
 * [taskwarrior-web](https://github.com/theunraveler/taskwarrior-web)
 * [vim-taskwarrior](https://github.com/blindFS/vim-taskwarrior)
 * [taskopen](https://github.com/jschlatow/taskopen)
@@ -1307,23 +1307,23 @@ CLI “Digital Assistant”
 * [TaskWarrior, Taskjuggler, Planner and Well Planning Things Part 2](https://blog.x-rayman.co.uk/2013/04/10/taskwarrior-taskjuggler-planner-and-well-planning-things-part-2/)
 * [ ] good-looking nvim plugin https://github.com/ribelo/taskwarrior.nvim (keep an eye on https://github.com/dzintars/taskwarrior.nvim)
 * [taskw](https://github.com/ralphbean/taskw)
-* [ ] https://github.com/GothenburgBitFactory/taskwarrior → build on top of by creating an extension / extensions?    
+* [ ] https://github.com/GothenburgBitFactory/taskwarrior → build on top of by creating an extension / extensions?
 * Next: write nvim plugin/library/neorg module for taskwarrior (’taskifist’)
 * https://taskwarrior.org/tools/ → check ‘lua’ box
-* https://r-pufky.github.io/docs/apps/taskwarrior.html 
-* https://github.com/ribelo/taskwarrior.nvim 
+* https://r-pufky.github.io/docs/apps/taskwarrior.html
+* https://github.com/ribelo/taskwarrior.nvim
 * https://github.com/bgregos/foreground
-* https://github.com/cedricbousmanne/telegram-taskwarrior 
-* https://github.com/Ninlives/taskwarrior-telegram-bot 
-* https://github.com/rhnvrm/tg-taskwarrior-bot 
+* https://github.com/cedricbousmanne/telegram-taskwarrior
+* https://github.com/Ninlives/taskwarrior-telegram-bot
+* https://github.com/rhnvrm/tg-taskwarrior-bot
 
 
 #### Neovim, Neorg
-* https://github.com/Klafyvel/Norg.jl 
+* https://github.com/Klafyvel/Norg.jl
 * [ ] roadmap of a neorg integration: https://github.com/skbolton/neorg-taskwarrior/blob/main/roadmap.norg
 * https://github.com/skbolton/neorg-taskwarrior
 * [From No Org to Neorg - YouTube](https://www.youtube.com/playlist?list=PLx2ksyallYzVI8CN1JMXhEf62j2AijeDa)
-* https://github.com/phenax/neorg-hop-extras 
+* https://github.com/phenax/neorg-hop-extras
 - https://github.com/edluffy/hologram.nvim
 - https://github.com/krivahtoo/silicon.nvim
 
@@ -1343,7 +1343,7 @@ CLI “Digital Assistant”
 * https://julian.digital/2023/07/06/multi-layered-calendars/
 
 #### Obsidian
-* best tasks plugin in obsidian https://www.youtube.com/watch?v=quXNtjTe5WE 
+* best tasks plugin in obsidian https://www.youtube.com/watch?v=quXNtjTe5WE
 * https://obsidian.md/
 * https://lifehacker.com/tech/best-obsidian-plugins
 
@@ -1352,12 +1352,12 @@ CLI “Digital Assistant”
 * https://github.com/filipre/signalbot
 * [AsamK/signal-cli: signal-cli provides an unofficial commandline, dbus and JSON-RPC interface for the Signal messenger.](https://github.com/AsamK/signal-cli)
 * [bbernhard/signal-cli-rest-api: Dockerized Signal Messenger REST API](https://github.com/bbernhard/signal-cli-rest-api)
-* https://nixos.wiki/wiki/Signald 
-* https://github.com/AsamK/signal-cli 
+* https://nixos.wiki/wiki/Signald
+* https://github.com/AsamK/signal-cli
 
 #### Habit Trackers
 * [Habitscipline: A habit manager](https://github.com/NorfairKing/habitscipline)
-* https://github.com/schmee/habu 
+* https://github.com/schmee/habu
 * [fschlz/habit-tracker: simple streamlit app to keep track of the essentials](https://github.com/fschlz/habit-tracker)
 * make a habit-building subapp in the scheduling app
 * [xpavle00/Habo: Habo is an open-source habit tracker. Created in a flutter.](https://github.com/xpavle00/Habo)
@@ -1370,16 +1370,16 @@ CLI “Digital Assistant”
 
 #### Neovim Plugins
 * https://github.com/jackMort/pommodoro-clock.nvim
-* https://github.com/nfrid/due.nvim 
-* https://github.com/wthollingsworth/pomodoro.nvim 
+* https://github.com/nfrid/due.nvim
+* https://github.com/wthollingsworth/pomodoro.nvim
 
 #### To-Do Apps
 
 #### Mobile Connection
-* https://zulip.com/plans/ 
-* https://sopel.chat/ 
-* https://www.rocket.chat/pricing 
-* https://gotify.net/ 
+* https://zulip.com/plans/
+* https://sopel.chat/
+* https://www.rocket.chat/pricing
+* https://gotify.net/
 
 #### Spaced Repitition
 * [Spaced out: A spaced repetition tool](https://github.com/NorfairKing/sparep)
@@ -1405,7 +1405,7 @@ https://medevel.com/tag/productivity/
 * https://nextcloud.com/install/#instructions-server
 * https://www.freecodecamp.org/news/how-to-host-lightweight-apps-for-free-a29773e5f39e/
 * https://www.hosttest.de/vergleich/cloudserver-linux.html
-* https://linuxhandbook.com/free-linux-cloud-servers/  
+* https://linuxhandbook.com/free-linux-cloud-servers/
 
 #### Time Tracking
 https://github.com/traggo/
@@ -1417,8 +1417,8 @@ https://github.com/traggo/
 * https://docs.rs/matrix_bot_api/latest/matrix_bot_api/ ****
 #### Note-Taking Tools (reference, ideas)
 * https://srid.ca/neuron-announce
-* https://github.com/srid/emanote 
-* https://github.com/jrnl-org/jrnl 
+* https://github.com/srid/emanote
+* https://github.com/jrnl-org/jrnl
 
 #### Database for ganttouchthis
 * tinydb
@@ -1427,7 +1427,7 @@ https://github.com/traggo/
 #### Taskwarrior Plugins
 ##### Bash/Shell
 * https://gitlab.com/doronbehar/taskwarrior-fzf
-* https://github.com/quandangv/polybar-warrior 
+* https://github.com/quandangv/polybar-warrior
 ##### C
 * https://github.com/initBasti/context-switch-warrior
 ##### Python
@@ -1435,18 +1435,18 @@ https://github.com/traggo/
 * https://github.com/tools-life/taskwiki
 * https://github.com/vit-project/vit
 * https://github.com/bergercookie/syncall
-* https://github.com/jokerdino/taskwarrior-flask 
+* https://github.com/jokerdino/taskwarrior-flask
 * https://github.com/AliGhahraei/just-start (see https://github.com/okraits/omodoro)
 * https://github.com/mrschyte/taskwarrior-hooks/
-* https://github.com/nnist/taskschedule 
+* https://github.com/nnist/taskschedule
 * https://github.com/alkim0/task-attach ***
-* https://github.com/Hatoris/taskwarrior_jrnl_hook 
-* https://github.com/mokrunka/taskwarrior-capsules 
+* https://github.com/Hatoris/taskwarrior_jrnl_hook
+* https://github.com/mokrunka/taskwarrior-capsules
 * https://github.com/mokrunka/taskwarrior-subtask-capsule - good extension
-* https://github.com/mokrunka/taskwarrior-context-capsule 
-* https://github.com/mokrunka/taskwarrior-EXAMPLE-capsule 
-* https://github.com/mokrunka/taskwarrior-blocks-capsule 
-* https://github.com/Aerex/icaltask 
+* https://github.com/mokrunka/taskwarrior-context-capsule
+* https://github.com/mokrunka/taskwarrior-EXAMPLE-capsule
+* https://github.com/mokrunka/taskwarrior-blocks-capsule
+* https://github.com/Aerex/icaltask
 * https://github.com/bergercookie/item_synchronizer
 * https://github.com/neingeist/mail2taskwarrior
 * https://github.com/Zebradil/taskwarrior-hooks
@@ -1458,42 +1458,42 @@ https://github.com/traggo/
 * https://github.com/CourrierGui/kanbanwarrior
 * https://github.com/clemux/task-matrix-bot
 * https://github.com/chess-seventh/TaskKhalReschedulWarrior
-* https://github.com/scmbradley/taskw-i3blocks 
+* https://github.com/scmbradley/taskw-i3blocks
 * https://github.com/voidcase/taskseq
 * https://github.com/Fongshway/twpm
-* https://github.com/sorrowless/twsyncer 
-* https://github.com/strawpants/kanboard_taskwarrior 
-* https://github.com/zhangfeng/taskli (?) 
+* https://github.com/sorrowless/twsyncer
+* https://github.com/strawpants/kanboard_taskwarrior
+* https://github.com/zhangfeng/taskli (?)
 * https://github.com/RicardoRodriguesCosta/TaskHelper (?)
 * https://github.com/radarsymphony/taskwarrior-hooks
 * https://github.com/leifdenby/twdep - dependency tree in the terminal
 * https://github.com/yulqen/twremind - hook script with remote sync
-* https://github.com/RvstFyth/rofi-taskwarrior 
-* https://github.com/neingeist/task-recurring-delete 
-* https://github.com/almostnobody/task2org 
+* https://github.com/RvstFyth/rofi-taskwarrior
+* https://github.com/neingeist/task-recurring-delete
+* https://github.com/almostnobody/task2org
 * https://github.com/youzark/taskmanager
 * https://github.com/claudiomattera/taskreminder
 * https://github.com/sstallion/taskwarrior-hooks
 * https://github.com/guludo/taskwarrior-autotagger
 * https://github.com/KarstenSchulz/tasktual
 * https://github.com/Ninlives/taskwarrior-telegram-bot
-* https://github.com/kevinstadler/taskwarrior-vit-config 
+* https://github.com/kevinstadler/taskwarrior-vit-config
 * https://github.com/kevinstadler/taskwarrior-vit-config-old
 * https://github.com/ABeehive/TaskWarrior-recur-with-until
 * https://github.com/yulqen/tw-date-tools
-* https://github.com/DerHabicht/twinput 
-* https://github.com/fplourde/Taskwarrior-habitica-hooks → https://habitica.com/static/features 
-* https://github.com/andrey-utkin/taskdb 
+* https://github.com/DerHabicht/twinput
+* https://github.com/fplourde/Taskwarrior-habitica-hooks → https://habitica.com/static/features
+* https://github.com/andrey-utkin/taskdb
 * https://github.com/garykl/task2dot
-* https://github.com/tbabej/taskpirate 
+* https://github.com/tbabej/taskpirate
 * https://github.com/jrabbit/taskd-client-py
-* https://github.com/thehunmonkgroup/onenote 
-* https://github.com/keigezellig/kanbanwarrior https://blog.joosten-industries.nl/posts/Kanban-Warrior/  
+* https://github.com/thehunmonkgroup/onenote
+* https://github.com/keigezellig/kanbanwarrior https://blog.joosten-industries.nl/posts/Kanban-Warrior/
 * https://github.com/jrabbit/taskd-redshirt
 ##### Julia
-* https://github.com/ak202/Taskwarrior.jl 
+* https://github.com/ak202/Taskwarrior.jl
 ##### Kotlin
-* https://github.com/bgregos/foreground 
+* https://github.com/bgregos/foreground
 ##### Perl
 * https://github.com/hashref/rectasks → export to Neorg format
 * https://github.com/8ware/task-gantt → read and understand, see if at all useful; otherwise, just learn some perl
@@ -1511,9 +1511,9 @@ https://github.com/traggo/
 * [import-yaml.pl](https://taskwarrior.org/download/import-yaml.pl)
 ##### Dart
 * https://github.com/CCExtractor/taskwarrior-flutter
-* https://github.com/bradyt/taskw-dart 
+* https://github.com/bradyt/taskw-dart
 ##### Elixir
-* https://github.com/linduxed/taskwarrior.ex 
+* https://github.com/linduxed/taskwarrior.ex
 ##### Ruby
 * https://github.com/nerab/twdeps
 ##### Go
@@ -1523,38 +1523,38 @@ https://github.com/traggo/
 * [rofi-taskwarrior](https://github.com/nyarly/rofi-taskwarrior)
 * [sidenotes](https://github.com/maxjoehnk/sidenotes) 
 * [taskwarrior-hooks](https://github.com/mrVanDalo/taskwarrior-hooks) 
-* [taskn](https://github.com/crockeo/taskn) 
-* [task-hookrs](https://github.com/matthiasbeyer/task-hookrs) 
-* [taskwarrior-rofi](https://github.com/mythmon/taskwarrior-rofi) 
-* [mitewarrior](https://github.com/grasegger/mitewarrior) 
-* [task-rs](https://github.com/divagant-martian/task-rs) 
-* [gtd-rust-taskwarrior](https://github.com/Pete-Hamlin/gtd-rust-taskwarrior) 
-* [rusty-warrior](https://github.com/chess-seventh/rusty-warrior) 
-* [voice_to_taskwarrior](https://github.com/bergercookie/voice_to_taskwarrior) 
-* [rustwarrior](https://github.com/danieleades/rustwarrior) 
-* [task-changes](https://github.com/ayosec/task-changes) 
-* [task-streamer](https://github.com/mattcl/task-streamer) 
-* [taskcalrs](https://github.com/mbpowers/taskcalrs) 
-* [taskserver-rust](https://github.com/YuseiIto/taskserver-rust) 
-* [taskw](https://github.com/weinshec/taskw) 
+* [taskn](https://github.com/crockeo/taskn)
+* [task-hookrs](https://github.com/matthiasbeyer/task-hookrs)
+* [taskwarrior-rofi](https://github.com/mythmon/taskwarrior-rofi)
+* [mitewarrior](https://github.com/grasegger/mitewarrior)
+* [task-rs](https://github.com/divagant-martian/task-rs)
+* [gtd-rust-taskwarrior](https://github.com/Pete-Hamlin/gtd-rust-taskwarrior)
+* [rusty-warrior](https://github.com/chess-seventh/rusty-warrior)
+* [voice_to_taskwarrior](https://github.com/bergercookie/voice_to_taskwarrior)
+* [rustwarrior](https://github.com/danieleades/rustwarrior)
+* [task-changes](https://github.com/ayosec/task-changes)
+* [task-streamer](https://github.com/mattcl/task-streamer)
+* [taskcalrs](https://github.com/mbpowers/taskcalrs)
+* [taskserver-rust](https://github.com/YuseiIto/taskserver-rust)
+* [taskw](https://github.com/weinshec/taskw)
 * [taskwarrior](https://github.com/chrisbirster/taskwarrior)
 * [taskwarrior-focus](https://github.com/dathanb/taskwarrior-focus)
-* [taskwarrior-rs](https://github.com/n8henrie/taskwarrior-rs) 
-* [taskwarrior-sync-rs](https://github.com/mozram/taskwarrior-sync-rs) 
-* [taskwarrior-testdata](https://github.com/kdheepak/taskwarrior-testdata) 
-* [template_rust](https://github.com/SunGodRamen/template_rust) 
-* [twtodo-rs](https://github.com/simachri/twtodo-rs) 
+* [taskwarrior-rs](https://github.com/n8henrie/taskwarrior-rs)
+* [taskwarrior-sync-rs](https://github.com/mozram/taskwarrior-sync-rs)
+* [taskwarrior-testdata](https://github.com/kdheepak/taskwarrior-testdata)
+* [template_rust](https://github.com/SunGodRamen/template_rust)
+* [twtodo-rs](https://github.com/simachri/twtodo-rs)
 ##### Lisp
 * [projectwarrior](https://github.com/jonathanabennett/projectwarrior)
 ##### Docker
-* [taskd](https://github.com/pztrn/taskd) 
-* [dock-warrior](https://github.com/codehivetx/dock-warrior) 
-* [docker-taskd](https://github.com/jigish/docker-taskd) 
-* [taskserver_docker](https://github.com/Ellana42/taskserver_docker) 
-* [taskwarrior-container](https://github.com/gistella/taskwarrior-container) 
-* [taskwarrior-deployment](https://github.com/csams/taskwarrior-deployment) 
-* [taskwarrior-ui-container](https://github.com/jessedearing/taskwarrior-ui-container) 
-* [taskwarrior_rest_api](https://github.com/jeka1331/taskwarrior_rest_api) 
+* [taskd](https://github.com/pztrn/taskd)
+* [dock-warrior](https://github.com/codehivetx/dock-warrior)
+* [docker-taskd](https://github.com/jigish/docker-taskd)
+* [taskserver_docker](https://github.com/Ellana42/taskserver_docker)
+* [taskwarrior-container](https://github.com/gistella/taskwarrior-container)
+* [taskwarrior-deployment](https://github.com/csams/taskwarrior-deployment)
+* [taskwarrior-ui-container](https://github.com/jessedearing/taskwarrior-ui-container)
+* [taskwarrior_rest_api](https://github.com/jeka1331/taskwarrior_rest_api)
 ##### C++
 * https://github.com/AhmedHoss/TaskServer
 ##### C#
@@ -1564,34 +1564,34 @@ https://github.com/traggo/
 * https://github.com/maralorn/taskwarrior-git-backend
 * https://github.com/DCsunset/taskwarrior-webui
 ##### JS
-* https://github.com/abesto/gtd 
+* https://github.com/abesto/gtd
 * https://github.com/gkssjovi/trackwarrior
-* https://github.com/cinatic/taskwhisperer 
+* https://github.com/cinatic/taskwhisperer
 ##### Nim
-* [taskopen](https://github.com/jschlatow/taskopen) 
-* https://github.com/trev-dev/timew-billable 
+* [taskopen](https://github.com/jschlatow/taskopen)
+* https://github.com/trev-dev/timew-billable
 ##### Other
-* https://github.com/coddingtonbear/taskwarrior-pomodoro 
+* https://github.com/coddingtonbear/taskwarrior-pomodoro
 #### Tasks, ToDos
 * [taskwarrior](https://taskwarrior.org/) - A command-line TODO list manager → [taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) with [vit](https://github.com/vit-project/vit) or taskwarrior-tui (look at https://github.com/klaussinani/taskbook interface)
-* other sources of ideas:    
-* [td-cli](https://github.com/darrikonn/td-cli) - A todo command line manager to organize and manage your todos across multiple projects.    
-* [taskell](https://taskell.app/) - Command-line Trello-like kanban-board/TODO lists.    
-* [Everdo](https://everdo.net/) - TODO list and Getting Things Done® app for all platforms. Beautiful, powerful, not SaaS, free version available.    
-* [Super Productivity](https://super-productivity.com/) - The simple free flexible ToDo List / Time Tracker / personal Jira and Github Task Manager.    
-* [sleek](https://github.com/ransome1/sleek) - Cross platform todo manager based on the todo.txt syntax.    
-* [kanban.bash](https://github.com/coderofsalvation/kanban.bash) - commandline asciii kanban board for minimalist productivity bash hackers (csv-based) → almost usable; incorporate ideas into gtt    
-* [kabmat](https://github.com/PlankCipher/kabmat) - TUI program for managing kanban boards with vim-like keybindings. → excellent interface: use? or adopt ideas?    
-* [dstask](https://github.com/naggie/dstask) - Single binary terminal-based TODO manager with git-based sync + markdown notes per task → keep taskwarrior, but look at this for ideas    
-* [Go For It](http://manuel-kehl.de/projects/go-for-it/) - Go For It! is a simple and stylish productivity app, featuring a to-do list, merged with a timer that keeps your focus on the current task. → idea    
-* [Redmine](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails    
-* [Planner](https://useplanner.com/) - Planner keeps track of all your tasks, projects, and goals in one beautifully simple place. → borrow interface ideas?        
+* other sources of ideas:
+* [td-cli](https://github.com/darrikonn/td-cli) - A todo command line manager to organize and manage your todos across multiple projects.
+* [taskell](https://taskell.app/) - Command-line Trello-like kanban-board/TODO lists.
+* [Everdo](https://everdo.net/) - TODO list and Getting Things Done® app for all platforms. Beautiful, powerful, not SaaS, free version available.
+* [Super Productivity](https://super-productivity.com/) - The simple free flexible ToDo List / Time Tracker / personal Jira and Github Task Manager.
+* [sleek](https://github.com/ransome1/sleek) - Cross platform todo manager based on the todo.txt syntax.
+* [kanban.bash](https://github.com/coderofsalvation/kanban.bash) - commandline asciii kanban board for minimalist productivity bash hackers (csv-based) → almost usable; incorporate ideas into gtt
+* [kabmat](https://github.com/PlankCipher/kabmat) - TUI program for managing kanban boards with vim-like keybindings. → excellent interface: use? or adopt ideas?
+* [dstask](https://github.com/naggie/dstask) - Single binary terminal-based TODO manager with git-based sync + markdown notes per task → keep taskwarrior, but look at this for ideas
+* [Go For It](http://manuel-kehl.de/projects/go-for-it/) - Go For It! is a simple and stylish productivity app, featuring a to-do list, merged with a timer that keeps your focus on the current task. → idea
+* [Redmine](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails
+* [Planner](https://useplanner.com/) - Planner keeps track of all your tasks, projects, and goals in one beautifully simple place. → borrow interface ideas?
 * [Todo.txt](http://todotxt.com/) - Todo.txt is a set of focused editors which help you manage your tasks with as few keystrokes and taps possible.
 * https://github.com/manyids2/taskwar.nvim
-    
+
 #### Time Tracking and Timers
 * [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - A time tracking utility that offers simple stopwatch features as well as sophisticated calendar-based backfill, along with flexible reporting.
-* interface ideas: [moro](https://github.com/omidfi/moro)) - Simple tool for tracking work hours.    
+* interface ideas: [moro](https://github.com/omidfi/moro)) - Simple tool for tracking work hours.
 * interface ideas: [Timetrap](https://github.com/samg/timetrap) - A simple command line time tracker written in Ruby. It provides an easy to use command line interface for tracking what you spend your time on.
 * [bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line. It saves a log of all tracked activities as a plaintext file and allows you to create flexible reports.
 * [ActivityWatch](https://activitywatch.net/) - ActivityWatch is an app that automatically tracks how you spend time on your devices.
@@ -1642,8 +1642,8 @@ https://github.com/traggo/
 * [addrb](https://github.com/mrusme/addrb) - A lightweight CLI / TUI address book that supports CardDAV.
 * [ppl addressbook](https://github.com/henrycatalinismith/ppl) - `ppl` is free software made out of other free software. It's built on top of Ruby and Git, and the completely free vcard address book format.
 #### Résumé
-* https://github.com/przpiw/PDFResumeBuilder 
-* https://jsonresume.org/         
+* https://github.com/przpiw/PDFResumeBuilder
+* https://jsonresume.org/
 * [ancv](https://github.com/alexpovel/ancv) - Renders your (JSON) resume/CV for online & pretty terminal display.
 #### Misc
 * [arttime](https://github.com/reportaman/arttime) - Beauty of text art meets functionality of clock, timer, pomodoro++ time manager
@@ -1705,8 +1705,8 @@ https://github.com/traggo/
 * [ledger](https://github.com/ledger/ledger) - A powerful, double-entry accounting system from the command-line; it uses a simple yet powerful text syntax to specify the items to account.
 * [paycon](https://github.com/arcorion/paycon) - Converts pay amounts between different time units.
 * [moeda](https://github.com/thompsonemerson/moeda) - A foreign exchange rates and currency conversion using the command line.
-* Payments    
-* [Electrum](https://electrum.org/) - Lightweight Bitcoin client that provides wallet recovery, decentralized servers, and offline storage. ([MIT](https://github.com/spesmilo/electrum/blob/master/LICENCE))    
+* Payments
+* [Electrum](https://electrum.org/) - Lightweight Bitcoin client that provides wallet recovery, decentralized servers, and offline storage. ([MIT](https://github.com/spesmilo/electrum/blob/master/LICENCE))
 * [GNU Taler](https://taler.net/) - Cash-like system for online payments. ([GNU GPL](https://taler.net/en/developers.html))
 * [Lakshmi](https://github.com/sarvjeets/lakshmi) - Investing library and command-line interface inspired by the Bogleheads philosophy.
 * [Quoter](https://github.com/frossm/quoter) - The console based stock quote tool.
@@ -1716,46 +1716,46 @@ https://github.com/traggo/
 * [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies.
 * [ledger](https://github.com/ledger/ledger) - Command line accounting
 * [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies.
-* [GNUKhata](https://gnukhata.org/) - Open source accounting software.      
-#### Cryptography   
+* [GNUKhata](https://gnukhata.org/) - Open source accounting software.
+#### Cryptography
 * [HASHA CLI](https://github.com/sindresorhus/hasha-cli) - Hashing made simple. Get the hash of text or stdin.
 * [pass](https://www.passwordstore.org/) - Manage passwords from the command line with GPG encryption and optional git integration.
 * `2915⭐`**  **`187🍴` [stegcloak](https://github.com/kurolabs/stegcloak)) - Hide secrets with invisible characters in plain text securely.
 * [Age](https://github.com/FiloSottile/age) - Simple, Modern, Secure encryption tool.
-            
-* [HASHA CLI](https://github.com/sindresorhus/hasha-cli) - Hashing made simple. Get the hash of text or stdin.    
+
+* [HASHA CLI](https://github.com/sindresorhus/hasha-cli) - Hashing made simple. Get the hash of text or stdin.
 * [pass](https://www.passwordstore.org/) - Manage passwords from the command line with GPG encryption and optional git integration.
-        -    [stegcloak](https://github.com/kurolabs/stegcloak)) - Hide secrets with invisible characters in plain text securely.    
+        -    [stegcloak](https://github.com/kurolabs/stegcloak)) - Hide secrets with invisible characters in plain text securely.
 * [Age](https://github.com/FiloSottile/age) - Simple, Modern, Secure encryption tool.
 #### Telegram Notes
-* https://console.cloud.google.com/compute/instances?project=telegram-routines-bot 
+* https://console.cloud.google.com/compute/instances?project=telegram-routines-bot
 * [RemindMeLater/remindmelater.py at main · 22TNT/RemindMeLater](https://github.com/22TNT/RemindMeLater/blob/main/remindmelater.py)
 * [reminder_bot/main.py at master · aminsaedi/reminder_bot](https://github.com/aminsaedi/reminder_bot/blob/master/main.py)
 * [Deploy Telegram Bot on Google Cloud Platform](https://programmingforgood.medium.com/deploy-telegram-bot-on-google-cloud-platform-74f1f531f65e)
-    
+
     ssh-keygen -t rsa
-    
-    cat ~/.ssh/id_rsa.pub 
-    
+
+    cat ~/.ssh/id_rsa.pub
+
     → copy to gh
-    
+
     Passphrase: github
-* https://codecapsules.io/docs/comparisons/comparing-telegram-bot-hosting-providers/                 
-* [ ] https://blog.devgenius.io/create-and-deploy-your-telegram-bot-here-entirely-free-757d5d5e8099        
-* [ ] https://towardsdatascience.com/how-to-deploy-a-telegram-bot-using-heroku-for-free-9436f89575d2        
-* [ ] https://dashboard.heroku.com/apps        
-* [ ] https://towardsdatascience.com/build-a-real-time-shipment-tracking-tool-using-a-telegram-bot-beb6ab29fca3        
-* [ ] https://core.telegram.org/bots/samples        
-* [ ] https://core.telegram.org/bots/api        
-* https://github.com/rhnvrm/tg-taskwarrior-bot        
-* https://github.com/cedricbousmanne/telegram-taskwarrior        
+* https://codecapsules.io/docs/comparisons/comparing-telegram-bot-hosting-providers/
+* [ ] https://blog.devgenius.io/create-and-deploy-your-telegram-bot-here-entirely-free-757d5d5e8099
+* [ ] https://towardsdatascience.com/how-to-deploy-a-telegram-bot-using-heroku-for-free-9436f89575d2
+* [ ] https://dashboard.heroku.com/apps
+* [ ] https://towardsdatascience.com/build-a-real-time-shipment-tracking-tool-using-a-telegram-bot-beb6ab29fca3
+* [ ] https://core.telegram.org/bots/samples
+* [ ] https://core.telegram.org/bots/api
+* https://github.com/rhnvrm/tg-taskwarrior-bot
+* https://github.com/cedricbousmanne/telegram-taskwarrior
 * [ ] https://github.com/Ninlives/taskwarrior-telegram-bot
-* https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/ 
-* https://thepythoncorner.com/posts/2021-01-16-how-create-telegram-bot-in-python/ 
-* https://dspyt.com/simple-telegram-bot-in-python-hosted-easily-on-heroku 
+* https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/
+* https://thepythoncorner.com/posts/2021-01-16-how-create-telegram-bot-in-python/
+* https://dspyt.com/simple-telegram-bot-in-python-hosted-easily-on-heroku
 #### Notion Notes
 #### Notion Updater
-* https://www.zenrows.com/blog/headless-browser-python 
+* https://www.zenrows.com/blog/headless-browser-python
 #### Kanban
 * [ ] https://github.com/Hirschiii/tw-Kanban
 * [ ] [taskwarrior-kanban](https://github.com/j-jith/taskwarrior-kanban)
@@ -1764,7 +1764,7 @@ https://github.com/traggo/
 * [ ] [kanban4taskwarrior](https://github.com/bmejias/kanban4taskwarrior)
 * [ ] [kanbanwarrior](https://github.com/CourrierGui/kanbanwarrior)
 * [ ] [taskwarrior-terminal-kanban](https://github.com/contrun/taskwarrior-terminal-kanban)
-* [ ] [vim-taskwarrior-kanban](https://github.com/j-jith/vim-taskwarrior-kanban) 
+* [ ] [vim-taskwarrior-kanban](https://github.com/j-jith/vim-taskwarrior-kanban)
 ## Potential Software Dependencies/ Integrations
 ### Tier 1 - Phenomenal
 * brick, optparse-applicative, refined, aeson, aeson-schema
@@ -1776,14 +1776,14 @@ https://github.com/traggo/
 ### Tier 9 - Maybe Someday
 ## Other
 ### Haskell Stuff
-* https://nikivazou.github.io/lh-course/book.pdf 
-* https://nikivazou.github.io/lh-course/ 
+* https://nikivazou.github.io/lh-course/book.pdf
+* https://nikivazou.github.io/lh-course/
 * https://typeclasses.com/phrasebook
 ### Signal Tools
-* https://github.com/boxdot/gurk-rs 
+* https://github.com/boxdot/gurk-rs
 * https://github.com/AsamK/signal-cli
 * https://github.com/filipre/signalbot
-* https://github.com/filipre/signalbot-example 
+* https://github.com/filipre/signalbot-example
 * https://github.com/lwesterhof/semaphore
 * https://github.com/bbernhard/signal-cli-rest-api
 ### TUI Resources / Inspirations / Potential Dependencies
@@ -1811,8 +1811,8 @@ https://github.com/traggo/
 * [ ] https://github.com/fdehau/tui-rs → https://github.com/orhun/rust-tui-template
 * [ ] https://github.com/rivo/tview/
 * [ ] https://github.com/ArthurSonzogni/FTXUI
-* [ ] https://github.com/Textualize/textual        
-* https://www.willmcgugan.com/blog/tech/post/textual-progress/        
+* [ ] https://github.com/Textualize/textual
+* https://www.willmcgugan.com/blog/tech/post/textual-progress/
 * https://www.youtube.com/@WillMcGugan
 * [ ] https://github.com/dankamongmen/notcurses
 * [ ] https://github.com/jroimartin/gocui
@@ -1825,7 +1825,7 @@ https://github.com/traggo/
 * [ ] https://github.com/yaronn/blessed-contrib
 * [ ] https://github.com/bczsalba/pytermgui
 * https://github.com/Cubified/tuibox
-* https://mrossinek.gitlab.io/programming/testing-tui-applications-in-python/ 
+* https://mrossinek.gitlab.io/programming/testing-tui-applications-in-python/
 
 # Productivity and Lifestyle (FROM SOFTWARE LISTS)
 
@@ -1873,7 +1873,7 @@ https://github.com/traggo/
 * ( ) https://tiddlywiki.com/
 * ( ) https://gitjournal.io/pricing/ https://gitjournal.io/
 * ( ) https://www.qownnotes.org/
-→  [Video on 2nd Brain Selection](https://www.youtube.com/watch?v=XRpHIa-2XCE) 
+→  [Video on 2nd Brain Selection](https://www.youtube.com/watch?v=XRpHIa-2XCE)
 
 ## Convenience, Media, Learning Tools (GUI)
 * (2) [Anki](https://apps.ankiweb.net/) - Powerful, intelligent flash cards which makes remembering things easy.
@@ -1918,7 +1918,7 @@ prod web * [](https://gethomepage.dev/latest/) A modern, fully static, fast, sec
 
 # For Roadmaps
 * https://www.google.com/search?channel=fs&client=ubuntu&q=leet+code+solutions
-* https://leetcode.com/problemset/all/ 
+* https://leetcode.com/problemset/all/
 * https://byucs110.org/
 * [Beginning Bazel: Building and Testing for Java, Go, and More](https://en.de1lib.org/book/5397976/f53e23)
 

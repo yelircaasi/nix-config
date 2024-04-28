@@ -7,7 +7,7 @@ Krylatye Latinskie Izrecheniya
 OCR Latin to GCSE 1
 OCR Latin to GCSE 2
 Conversational Latin for Oral Proficiency. Traupman https://libgen.rs/book/index.php?md5=162D39DF5B580C51EEBD507AB3DAFC6B
-Lateinisches Lesebuch für die Anfangslektüre. 
+Lateinisches Lesebuch für die Anfangslektüre.
 OCR Greek Stories. A GCSE Reader
 OCR Ahthology of Classical Greek GCSE
 Auxilia. Latein und romanische Sprachen. Nagel

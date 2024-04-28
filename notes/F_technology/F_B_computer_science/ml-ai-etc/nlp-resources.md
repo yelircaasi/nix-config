@@ -31,8 +31,8 @@
 
 
 ## Organizations, Institutions
-* https://www.assemblyai.com/ 
-* https://github.com/thunlp 
+* https://www.assemblyai.com/
+* https://github.com/thunlp
 
 
 ## Media
@@ -216,7 +216,7 @@
 * https://www.texttechnologylab.org/
 * https://pair-code.github.io/lit/
 
-‣ 
+‣
 
 
 ## People / Channels
@@ -329,7 +329,7 @@ CRETA, DFG, MARDY, QuaDramA, SDC4Lit, REPlay, CLARIN-D, XSample
 
 
 ## Cool Projects
-* https://www.reddit.com/r/Python/comments/12egsoz/i_trained_a_roastbot_on_120000_faces_and_05 
+* https://www.reddit.com/r/Python/comments/12egsoz/i_trained_a_roastbot_on_120000_faces_and_05
 * [Typo Fixes in ML Coding in a Weekend](https://www.datasciencecentral.com/group/ai-deep-learning-machine-learning-coding-in-a-week/forum/topics/typo-fixes/)
 * https://github.com/Toukenize/weather-flight-bot
 * https://norvig.com/spell-correct.html

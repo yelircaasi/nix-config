@@ -65,7 +65,7 @@ prod * ( ) [oinkoin](https://github.com/emavgl/oinkoin) - Oinkoin is a flutter 
 
 ## GUI Calculator
 * ( ) [qalculate-qt](https://github.com/Qalculate/qalculate-qt)
-* ( ) [👉](https://stackoverflow.com/questions/1675992/how-do-i-set-a-background-color-for-the-whole-window-of-a-qt-application) 
+* ( ) [👉](https://stackoverflow.com/questions/1675992/how-do-i-set-a-background-color-for-the-whole-window-of-a-qt-application)
    | [qalqulate-gtk](https://github.com/Qalculate/qalculate-gtk)
 * ( ) [DevWidgets](https://github.com/gumbarros/DevWidgets)
 * ( ) [👉](https://gumbarros.github.io/DevWidgets/#/home)
@@ -134,7 +134,7 @@ prod * ( ) [oinkoin](https://github.com/emavgl/oinkoin) - Oinkoin is a flutter 
 * ( ) [mermaidjs](https://mermaid.js.org/)
 
 ## Cleanup and Organizing (GUI)
-* (2.5) [bleachbit](https://www.bleachbit.org/) 
+* (2.5) [bleachbit](https://www.bleachbit.org/)
    |  [czkawka](https://qarmin.github.io/czkawka/)
 
 

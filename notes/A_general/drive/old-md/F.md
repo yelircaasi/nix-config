@@ -351,29 +351,29 @@ dl →
 
 <Dist> Concepts in space- a linear regression model for lexical decomposition.pdf
 
-<Dist> Decomposing Word Embedding with the Capsule Network.pdf 
+<Dist> Decomposing Word Embedding with the Capsule Network.pdf
 
-<Phon> Development of Multilingual ASR Using GlobalPhone for Less-Resourced Languages. The Case of Ethiopian Languages.pdf 
+<Phon> Development of Multilingual ASR Using GlobalPhone for Less-Resourced Languages. The Case of Ethiopian Languages.pdf
 
-<Dist> Disambiguation of newly derived nominalizations in context- A Distributional Semantics approach.pdf 
+<Dist> Disambiguation of newly derived nominalizations in context- A Distributional Semantics approach.pdf
 
-<Dist> Distributional Semantics and Linguistic Theory.pdf 
+<Dist> Distributional Semantics and Linguistic Theory.pdf
 
 <Dist> Distributional semantics and the conceptual foundations of verb meaning- how neural word embeddings memorize the unaccusative hypothesis.pdf
 
-<Dist> Distributional Semantics.pdf 
+<Dist> Distributional Semantics.pdf
 
-<Sem> Fähndrich - NSM Thesis.pdf 
+<Sem> Fähndrich - NSM Thesis.pdf
 
-<Phon> GIPFA- GENERATING IPA PRONUNCIATION FROM AUDIO.pdf 
+<Phon> GIPFA- GENERATING IPA PRONUNCIATION FROM AUDIO.pdf
 
-<Phon> Grapheme-to-Phoneme Transduction for Cross-Language ASR.pdf 
+<Phon> Grapheme-to-Phoneme Transduction for Cross-Language ASR.pdf
 
-<Phon> Improving Non-Native ASR Through Stochastic Multilingual Phoneme Space Transformations.pdf 
+<Phon> Improving Non-Native ASR Through Stochastic Multilingual Phoneme Space Transformations.pdf
 
-<Dist> IMS Semantics Paper.pdf 
+<Dist> IMS Semantics Paper.pdf
 
-<Dist> Interpretable Word Embeddings For Medical Domain.pdf 
+<Dist> Interpretable Word Embeddings For Medical Domain.pdf
 
 <Dist> Interpreting Word Embeddings with Eigenvector Analysis.pdf
 
@@ -395,7 +395,7 @@ dl →
 
 <Phon> Phonetic Vector Representations for Sound Sequence Alignment.pdf
 
-<Dist> Rotated Word Vector Representations and their Interpretability.pdf 
+<Dist> Rotated Word Vector Representations and their Interpretability.pdf
 
 <Dist> RPD- A Distance Function Between Word Embeddings.pdf
 
@@ -419,7 +419,7 @@ dl →
 
 <Dist> WordNet Embeddings.pdf
 
-<Sem> Zur Ontologie der Bedeutung sprachlicher Ausdrucke 
+<Sem> Zur Ontologie der Bedeutung sprachlicher Ausdrucke
 
 
 #### MT
@@ -1164,7 +1164,7 @@ PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization
 #### Algorithms and Data Structures
 
 40 алгоритмов, которые должен знать каждый программист на Python
-* Algorithms Illuminated. Part 4 - Algorithms for NP-Hard Problems 
+* Algorithms Illuminated. Part 4 - Algorithms for NP-Hard Problems
 * Introduction to Algorithms and Data Structures 1. A solid foundation
 * Once upon an Algorithm
 * Pearls of Algorithm Engineering
@@ -2197,7 +2197,7 @@ Histoire Informatique.pdf
 
 <Meta> The Healthy Programmer.pdf
 
-<Meta> The Creative Programmer.pdf 
+<Meta> The Creative Programmer.pdf
 
 <Meta> Ум программиста.pdf
 
@@ -2574,7 +2574,7 @@ Information and coding theory in computer science
 
 <1> Cracking the Coding Interview.pdf
 
-< -1> Data Science Interview Guide.gsheetdata science machine 
+< -1> Data Science Interview Guide.gsheetdata science machine
 
 <1> Dynamic Programming for Coding Interviews- A Bottom-Up Approach to Problem Solving.pdf
 
@@ -2685,7 +2685,7 @@ Beginning Programming with C For Dummies
 
 <0> C++. Das Übungsbuch
 
-<0> Expert Cpp.pdf 
+<0> Expert Cpp.pdf
 
 <M> Cpp Concurrency in Action.pdf
 
@@ -3916,7 +3916,7 @@ JavaScript for Web Developers
 
 <0> Программирование на С# для начинающих.pdf
 
-<0> The Csharp Workshop.pdf 
+<0> The Csharp Workshop.pdf
 
 <0> Компьютерный практикум в среде matlab.pdf
 
@@ -4387,8 +4387,8 @@ Scala for the Impatient.pdf
 
 #### Shell / Linux
 
-Linux for System Administrators 
-* Using and Administering Linux: Volume 3 
+Linux for System Administrators
+* Using and Administering Linux: Volume 3
 * Pro Bash
 * Идиомы bash
 
@@ -4666,8 +4666,8 @@ From Objects to Functions
 
 ### Low-Level
 
-Agile Model-Based Systems Engineering Cookbook 
-* APRENDE ARDUINO PASO A PASO CURSO AVANZADO 
+Agile Model-Based Systems Engineering Cookbook
+* APRENDE ARDUINO PASO A PASO CURSO AVANZADO
 * Hands-on Booting
 * Processor Design
 
@@ -5945,7 +5945,7 @@ A First Course in Machine Learning.djvu
 #### NN Application
 Generative Deep Learning
 * Designing Deep Learning Systems
-* Applied Deep Learning 
+* Applied Deep Learning
 
 ##### Miscellaneous
 ###### Generative
@@ -6519,7 +6519,7 @@ Reinforcement Learning An Intro.pdf
 <3> Mathematical programming methods for large-scale topology application problems
 
 #### Visualization
-Everyday Data Visualization (2023 - V5) 
+Everyday Data Visualization (2023 - V5)
 
 < -1> Python Визуализация данных Matplotlib, Seaborn, Mayavi (2020)
 
@@ -6888,7 +6888,7 @@ Clean Mobile Architecture Become an Android, iOS, Flutter Architect
 
 #### Full-Stack
 Build Your Own Web Framework in Elixir
-* Beginning Rails 6 
+* Beginning Rails 6
 * Full Stack Development with Spring Boot 3 and React
 * Eleventy by Example
 * Full-Stack Flask and React

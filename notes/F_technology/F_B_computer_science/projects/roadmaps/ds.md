@@ -11,8 +11,8 @@
 9. Hands-On Machine Learning with Scikit-Learn and TensorFlow 20 (1-19,A,B,C,D,E,F,G)
 10. Introduction to Applied Linear Algebra Julia Companion (1-19,A)
 11. Statistics with Julia (1-13)
-12. Flux.jl Docs (Building Models::Basics,Building Models::Recurrence,Building Models::Model 
-13. Reference,Building Models::Loss Functions,Building Models::Regularization,Building 
+12. Flux.jl Docs (Building Models::Basics,Building Models::Recurrence,Building Models::Model
+13. Reference,Building Models::Loss Functions,Building Models::Regularization,Building
 14. Models::Advanced Model Building,Building Models::NNLib,Handling Data::One-Hot Encoding,Handling Data::DataLoader,Training Models::Optimizers,Training Models::Training,GPU Support,Saving and Loading,The Julia Ecosystem,Utility Functions,Performance Tips,Datasets,Community)
 Artificial Intelligence, Machine Learning, and Deep Learning (Campesato) (1-7,A,B,C)
 15. Practical Deep Learning for Cloud, Mobile, & Edge (1-17)

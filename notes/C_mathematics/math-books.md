@@ -59,7 +59,7 @@ Classic Algebra (Cohn)
 Groups, Matrices, and Vector Spaces: A Group Theoretic Approach to Linear Algebra
 Современная алгебра
 Michael Artin: Algebra
-Sources/Further Reading* The History of Zeno's Arguments on Motion: Phases in the Development of the Theory of Limits by Florian Cajori 
+Sources/Further Reading* The History of Zeno's Arguments on Motion: Phases in the Development of the Theory of Limits by Florian Cajori
 Paradoxes: Guiding Forces in Mathematical Exploration by Hamza E. Alsamraee
 Yearning for the Impossible: The Surprising Truths of Mathematics
 A Concrete Introduction to Higher Algebra
@@ -837,8 +837,8 @@ La guerre des nombres premiers (Pradeau)
 
 Games of Strategy : Dixit, Avinash K
 
-* https://www.cis.upenn.edu/~jean/home.html 
-book * [Erkläre den Begriff Vakuum · Noch mehr genial schlagfertige Antworten auf nervige Prüfungsfragen](http://library.lol/main/AB48F5ABB0D319B77AE1C504CF8FF1A0) 
+* https://www.cis.upenn.edu/~jean/home.html
+book * [Erkläre den Begriff Vakuum · Noch mehr genial schlagfertige Antworten auf nervige Prüfungsfragen](http://library.lol/main/AB48F5ABB0D319B77AE1C504CF8FF1A0)
 book book * [Handbook of Graph Theory, Second Edition](http://library.lol/main/F1D5E95C95C127202B6DA253EEE2DECA)
 * [Statistics II](http://coltekin.net/cagri/courses/statsII/)
 * https://github.com/pdelfino/elon-analise-real

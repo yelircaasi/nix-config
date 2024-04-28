@@ -12,9 +12,9 @@
 ## Terminal Emulators
 - waveterm on nixos
 
-    https://github.com/ErnWong/dotfiles/blob/689d0fe8932a188f524c20bd8121fc3bfc8ce6ed/pkgs/waveterm/default.nix
+    [ErnWong/dotfiles/blob/689d0fe8932a188f524c20bd8121fc3bfc8ce6ed/pkgs/waveterm/default.nix](https://github.com/ErnWong/dotfiles/blob/689d0fe8932a188f524c20bd8121fc3bfc8ce6ed/pkgs/waveterm/default.nix)
 
-    Here's my attempt at cobbling something together for linux, which seems to be working locally for me (well, it's "working" in the sense that it builds, the GUI shows up and the basic shell features seem to be working): https://github.com/ErnWong/dotfiles/blob/689d0fe8932a188f524c20bd8121fc3bfc8ce6ed/pkgs/waveterm/default.nix
+    Here's my attempt at cobbling something together for linux, which seems to be working locally for me (well, it's "working" in the sense that it builds, the GUI shows up and the basic shell features seem to be working): [ErnWong/dotfiles/blob/689d0fe8932a188f524c20bd8121fc3bfc8ce6ed/pkgs/waveterm/default.nix](https://github.com/ErnWong/dotfiles/blob/689d0fe8932a188f524c20bd8121fc3bfc8ce6ed/pkgs/waveterm/default.nix)
 
     ```
     nix shell github:ErnWong/dotfiles#waveterm --command waveterm
@@ -100,7 +100,7 @@
   - [Glean.](https://www.glean.com/?ref=blog.pragmaticengineer.com) AI-powered workplace search across the company’s apps, powered by deep learning-based large language models (LLM.)
   - [Aleph Alpha](https://aleph-alpha.com/). A company emphasizing that it’s a European AI technology company, which has open sourced its code codebase and doesn’t use customer data to
 train models.
-  - [Cohere](https://cohere.ai/). A set of LLMs to generate text, summarize it, classify and retrieve it. → https://dashboard.cohere.com/welcome/register
+  - [Cohere](https://cohere.ai/). A set of LLMs to generate text, summarize it, classify and retrieve it. → [dashboard.cohere.com/welcome/register](https://dashboard.cohere.com/welcome/register)
 
 
 ### Core Set
@@ -135,7 +135,7 @@ cli * [pokeshell](https://github.com/acxz/pokeshell)
 cli * [powerline/powerline: Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.](https://github.com/powerline/powerline)
 cli * [proton-cli](https://github.com/XPRNetwork/proton-cli)
 cli * [prs](https://github.com/dhth/prs)
-cli * [Reddit - [OC] I rewrote pfetch in Rust](https://www.reddit.com/r/unixporn/comments/113tw9u/oc_i_rewrote_pfetch_in_rust/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=10&utm_content=share_button)
+cli * [Reddit - [OC] I rewrote pfetch in Rust](https://www.reddit.com/r/unixporn/comments/113tw9u/oc_i_rewrote_pfetch_in_rust/)
 cli * [rip](https://github.com/nivekuil/rip)
 cli * [snappy | A fast compressor/decompressor](https://google.github.io/snappy/) 
 cli * [starship/starship: ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!](https://github.com/starship/starship)
@@ -147,11 +147,11 @@ cli fetch * [balena-io/balena-cli](https://github.com/balena-io/balena-cli)
 cli fetch * [bunnyfetch](https://github.com/Rosettea/bunnyfetch)
 cli fetch * [fetch.scm](https://github.com/KikyTokamuro/fetch.scm)
 cli fetch * [git-ignore](https://github.com/sondr3/git-ignore)
-cli fetch * [https://blog.thms.uk/fedifetcher](https://blog.thms.uk/fedifetcher)
+cli fetch * [blog.thms.uk/fedifetcher](https://blog.thms.uk/fedifetcher)
 cli fetch * [nitch](https://github.com/ssleert/nitch)
 cli fetch * [yafetch](https://github.com/kira64xyz/yafetch)
-cli https://github.com/01mf02/jaq
-cli https://learnbyexample.gumroad.com/l/cli_coreutils
+cli [01mf02/jaq](https://github.com/01mf02/jaq)
+cli [learnbyexample.gumroad.com/l/cli_coreutils](https://learnbyexample.gumroad.com/l/cli_coreutils)
 cli jira * [jira-cli](https://github.com/ankitpokhrel/jira-cli) 
 cli library genesis api * [](https://search.nixos.org/packages?channel%3D23.11%26show%3Dlibgen-cli%26from%3D0%26size%3D50%26sort%3Drelevance%26type%3Dpackages%26query%3Dlibgen)
 cli messaging libraries * -> pigeon, finch, libpurple
@@ -241,7 +241,7 @@ term * [](https://mitchellh.com/ghostty) 
 term * [ghostty](https://mitchellh.com/ghostty)
 term * [TerminalOne](https://github.com/atinylittleshell/TerminalOne) 
 term * [urxvt - Google Search](https://www.google.com/search?client=firefox-b-d&q=urxvt)
-term * [www.waveterm](https://www.waveterm.dev/) 
+term * [waveterm](https://www.waveterm.dev/) 
 term multi * [](https://zellij.dev/news/new-plugin-system/) 
 term multi * [](https://zellij.dev/screencasts/) 
 term multi * [A Better Tmux Experience | Tmux Configuration & Essential Plugins - YouTube](https://www.youtube.com/watch?v%3DEpTzb-pyRTA)
@@ -255,7 +255,7 @@ term wez * [Colors & Appearance - Wez's Terminal Emulator](https://wezfurlong.or
 term wez * [Configuring wezterm (Wez's Terminal Emulator) | Sharp Writing](https://www.sharpwriting.net/project/configuring-wezterm/)
 term wez * [Get the Most Out of Your Terminal: A Comprehensive Guide to WezTerm Configuration | HackerNoon](https://hackernoon.com/get-the-most-out-of-your-terminal-a-comprehensive-guide-to-wezterm-configuration)
 term wez * [How to configure workspaces and tabs in wezterm : r/wezterm](https://www.reddit.com/r/wezterm/comments/12tub66/how_to_configure_workspaces_and_tabs_in_wezterm/)
-term [rio](software https://github.com/raphamorim/rio)
+term [rio](software [raphamorim/rio)](https://github.com/raphamorim/rio))
 
 ## Terminal Calculator and Spreadsheet
 * ( ) [eva](https://github.com/nerdypepper/eva)
@@ -308,7 +308,7 @@ term [rio](software https://github.com/raphamorim/rio)
 ## Multiplexer
 * (2) [zellij](https://github.com/zellij-org/zellij)
    | (2) [tmux](https://github.com/tmux/tmux)
-* (4) [tmate -](https://github.com/tmate-io/tmate -)A fork of tmux that allows to share the terminal with other users. AFAIK, it connects to a centralized server to establish the connection. Someone may see this inconvenient for privacy issues. - https://manpages.org/tmate
+* (4) [tmate -](https://github.com/tmate-io/tmate -)A fork of tmux that allows to share the terminal with other users. AFAIK, it connects to a centralized server to establish the connection. Someone may see this inconvenient for privacy issues. - [manpages.org/tmate](https://manpages.org/tmate)
 * (5) [procmux -](https://github.com/napisani/procmux -)A TUI utility for running multiple commands in parallel in easily switchable terminals.
 * (2) [mprocs](https://github.com/pvolok/mprocs)- similar to procmux
 * (6) [dtach -](https://github.com/crigler/dtach -)A program written in C that emulates the detach feature of screen.
@@ -450,9 +450,9 @@ term [rio](software https://github.com/raphamorim/rio)
 * ( ) [git-semver[git-semver](https://github.com/markchalloner/git-semver](https://github.com/markchalloner/git-semver[git-semver](https://github.com/markchalloner/git-semver)) - A git plugin to make Semantic Versioning 2.0.0 and Change Log management easier.
 
 ## Snippets
-* https://espanso.org/
-* https://tldr.sh/  → see clients, web apps and tools
-* https://github.com/out-of-cheese-error/the-way-
+* [espanso.org/](https://espanso.org/)
+* [tldr.sh/](https://tldr.sh/)  → see clients, web apps and tools
+* [out-of-cheese-error/the-way-](https://github.com/out-of-cheese-error/the-way-)
 * ( ) [snipkit-](https://github.com/lemoony/snipkit-)looks really look, interesting concept  (Go)
 * ( ) [qc](https://github.com/qownnotes/qc)looks great, need to try
 * ( ) [pet-](https://github.com/knqyf263/pet-) need to compare with the-way
@@ -926,22 +926,22 @@ term [rio](software https://github.com/raphamorim/rio)
 ## Debugging
 * ( ) [Valgrind](http://valgrind.org/) - Valgrind is a GPL’d system for debugging and profiling Linux programs.
 * ( ) [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard)- Modular visual interface for GDB.
-* ( ) [rr](https://github.com/rr-debugger/rr)Debug the recording, deterministically, as many times as you want. https://rr-project.org/
+* ( ) [rr](https://github.com/rr-debugger/rr)Debug the recording, deterministically, as many times as you want. [rr-project.org/](https://rr-project.org/)
 * ( ) [rebound](https://github.com/shobrook/rebound)Command-line debugger that instantly fetches Stack Overflow results when you get a compiler error.  - fork and update?
 * ( ) [trunk](https://trunk.io/pricing)
 
 ## Documentation
-* https://github.com/freeCodeCamp/devdocs
+* [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)
 * ( ) [mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files.
 * ( ) [Sphinx](https://www.sphinx-doc.org/en/master/)
 * ( ) [Shibuya](https://shibuya.lepture.com/) (theme)
-* https://zealdocs.org/ - Zeal is an offline documentation browser for software developers. - GUI
+* [zealdocs.org/](https://zealdocs.org/) - Zeal is an offline documentation browser for software developers. - GUI
 * ( ) [Read the Docs](https://readthedocs.org/)
 * ( ) [Doxygen](https://www.doxygen.nl/index.html)
-* https://www.lihaoyi.com/Scalatex/
+* [lihaoyi.com/Scalatex/](https://www.lihaoyi.com/Scalatex/)
 * ( ) [MkDocs](https://www.mkdocs.org/)
-* https://github.com/sunaku/dasht
-* https://github.com/slatedocs/slate
+* [sunaku/dasht](https://github.com/sunaku/dasht)
+* [slatedocs/slate](https://github.com/slatedocs/slate)
 * ( ) [Docusaurus](https://docusaurus.io/)
 * ( ) [Daux.io](https://dauxio.github.io/) - uses PHP and Composer
 * ( ) [GitBook](https://www.gitbook.com/)
@@ -950,9 +950,9 @@ term [rio](software https://github.com/raphamorim/rio)
 
 ## Syntax Highlighting
 * ( ) [Welcome! — Pygments](https://pygments.org/) (Python)
-* https://gitlab.com/saalen/highlight  http://www.andre-simon.de/doku/highlight/highlight.php (C++)
+* [gitlab.com/saalen/highlight](https://gitlab.com/saalen/highlight)  [andre-simon.de/doku/highlight/highlight.php](http://www.andre-simon.de/doku/highlight/highlight.php) (C++)
 * ( ) [chroma](https://github.com/alecthomas/chroma)(Go)
-* https://highlightjs.org/ (JavaScript)
+* [highlightjs.org/](https://highlightjs.org/) (JavaScript)
 * ( ) [syntect](https://github.com/trishume/syntect)(Rust)
 
 ## Logs
@@ -962,14 +962,14 @@ term [rio](software https://github.com/raphamorim/rio)
 
 ## Code Modeling and Visualization
 * ( ) [Graphviz](https://graphviz.org/)
-* https://www.rawgraphs.io/
-* https://github.com/thebjorn/pydeps
-* ( ) [PlantUML](https://sourceforge.net/p/plantuml/code/HEAD/tree/tags/plantuml-1.2023.2/) https://sourceforge.net/projects/plantuml/
+* [rawgraphs.io/](https://www.rawgraphs.io/)
+* [thebjorn/pydeps](https://github.com/thebjorn/pydeps)
+* ( ) [PlantUML](https://sourceforge.net/p/plantuml/code/HEAD/tree/tags/plantuml-1.2023.2/) [sourceforge.net/projects/plantuml/](https://sourceforge.net/projects/plantuml/)
 * ( ) [mermaid](https://github.com/mermaid-js/mermaid)http://mermaid.js.org/
-* https://github.com/umlet/umlet
-* https://invent.kde.org/sdk/umbrello  https://apps.kde.org/umbrello/
-* ( ) [Gaphor](https://gaphor.org/) - A simple and fast software and systems modeling tool. https://gaphor.org/en/
-* https://github.com/ModelioOpenSource/Modelio
+* [umlet/umlet](https://github.com/umlet/umlet)
+* [invent.kde.org/sdk/umbrello](https://invent.kde.org/sdk/umbrello)  [apps.kde.org/umbrello/](https://apps.kde.org/umbrello/)
+* ( ) [Gaphor](https://gaphor.org/) - A simple and fast software and systems modeling tool. [gaphor.org/en/](https://gaphor.org/en/)
+* [ModelioOpenSource/Modelio](https://github.com/ModelioOpenSource/Modelio)
 
 ## Cleanup and Organizing (Terminal)
 * (2) [xdg-ninja]() (Haskell!)

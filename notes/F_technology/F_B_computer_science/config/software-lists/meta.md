@@ -1,5 +1,5 @@
 # Software Meta - Lists and Discussion
-* https://tchncs.de/
+* [tchncs.de/](https://tchncs.de/)
 
 * [Big Pile of Vim-like](https://vim.reversed.top/)
 
@@ -16,8 +16,8 @@ meta * [Big Pile of Vim-like](https://vim.reversed.top/)
 meta * [Code Resources | Matthew Rhone dot Dev](https://matthewrhone.dev/resources/)
 meta * [HPR In-Depth Series: Lightweight Apps](https://www.google.com/url?q=http://hackerpublicradio.org/series.php?id%3D11)
 meta * [http://suckless.org/other_projects](https://www.google.com/url?q=http://suckless.org/other_projects/)
-meta * [https://trolologuy.github.io/useful-tools](https://trolologuy.github.io/useful-tools/)
-meta * [https://www.youtube.com/@AwesomeOpenSource](https://www.youtube.com/@AwesomeOpenSource)
+meta * [trolologuy.github.io/useful-tools](https://trolologuy.github.io/useful-tools/)
+meta * [](https://www.youtube.com/@AwesomeOpenSource)
 meta * [LinuxLinks](https://www.linuxlinks.com/)
 meta * [no-color](https://no-color.org/)
 meta * [Software I use as a programmer 👩‍💻 #technology #programming #software #career #productivity](https://youtube.com/shorts/TBXZNx4S8vk?feature%3Dshare)
@@ -25,7 +25,7 @@ meta * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-s
 meta * [The Open Source software I'm using in 2023 - Part 1!](https://www.youtube.com/watch?v%3DoLrwk07zZ0Y)
 meta * [Uses - Just Some Dev](https://www.iamdeveloper.com/pages/uses/)
 meta * [uses](https://uses.tech/)
-meta * [www.libhunt](https://www.libhunt.com/)
+meta * [libhunt](https://www.libhunt.com/)
 meta cli * ### [terminaltrove](https://terminaltrove.com/)
 meta desktop * -> [hyprland recommendations](https://wiki.hyprland.org/Useful-Utilities/)
 meta desktop * -> [wayland list *****](https://arewewaylandyet.com/)

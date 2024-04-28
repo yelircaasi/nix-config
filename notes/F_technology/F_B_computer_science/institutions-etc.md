@@ -1,5 +1,5 @@
 # Institutions, Organizations, etc.
 
-* https://alugha.com/
-* https://aleph-alpha.com/
-* https://www.deepl.com/blog
+* [alugha.com/](https://alugha.com/)
+* [aleph-alpha.com/](https://aleph-alpha.com/)
+* [deepl.com/blog](https://www.deepl.com/blog)

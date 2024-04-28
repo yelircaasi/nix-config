@@ -4,7 +4,7 @@ Where to put feature (row) descriptions in the markdown source? -> in italic -> 
 
 rename markdown_feat_view and markdown_lang_view to featview and langview -> or md-featview and md-langview?
 
-Discussion: https://chat.openai.com/c/d53450a7-03f3-4f4f-8f4e-30c778963c36
+Discussion: [chat.openai.com/c/d53450a7-03f3-4f4f-8f4e-30c778963c36](https://chat.openai.com/c/d53450a7-03f3-4f4f-8f4e-30c778963c36)
 
 Make giant hyperpolyglot table for different equivalent tasks, keywords, concepts, etc
 
@@ -61,8 +61,8 @@ For all options and actions, support mouse click and vim-style keybindings (incl
 
 
 *   click / space bar to toggle boilerplate in a cell (space bar when selected)
-* https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html
-* https://www.phoenixframework.org/
-* https://github.com/orgs/alpha2phi/repositories
+* [hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html)
+* [phoenixframework.org/](https://www.phoenixframework.org/)
+* [orgs/alpha2phi/repositories](https://github.com/orgs/alpha2phi/repositories)
 
 

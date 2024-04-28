@@ -6,7 +6,7 @@ Elsie Guix
      * [ ] install qutebrowser
      * [ ] install zathura
 Old - Alpine
-Install Nix* https://www.macktronics.com/nixpkg-alpine.html
+Install Nix* [macktronics.com/nixpkg-alpine.html](https://www.macktronics.com/nixpkg-alpine.html)
 
 apk add curl
 

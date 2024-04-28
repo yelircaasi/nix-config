@@ -3,7 +3,7 @@
 
 ## To Sort
 
-https://en.wikipedia.org/wiki/The_Other_Invisible_Hand
+[en.wikipedia.org/wiki/The_Other_Invisible_Hand](https://en.wikipedia.org/wiki/The_Other_Invisible_Hand)
 
 Remove duplicates in macro and micro folders
 
@@ -110,7 +110,7 @@ Gli origini del sexismo
 list dilemmas (instinct vs. welfare) that are our evolutionary inheritance
 
 économie du travail, capital humain et la philosophie de l'éducation
-* -> основы педагогики* http://fee.org/articles/networks-topple-scientific-dogma/
+* -> основы педагогики* [fee.org/articles/networks-topple-scientific-dogma/](http://fee.org/articles/networks-topple-scientific-dogma/)
 
 3 Factors are making it harder to publish erroneous studies:
 
@@ -381,7 +381,7 @@ find balance between self and culture
 
 Какие в жизни базовые потребости?
 
-History of Sex in the United States* https://artsdorient.com/
+History of Sex in the United States* [artsdorient.com/](https://artsdorient.com/)
 
 The 5000 Year Leap: A Miracle That Changed the World
 
@@ -666,7 +666,7 @@ How much has the refugee crisis increased human trafficking?
 
 Which states transfer the most money to which states?
 
-Make a list of questions for clear and thorough analysis of situaations and choices.* http://www.keepright.net/17points.htm
+Make a list of questions for clear and thorough analysis of situaations and choices.* [keepright.net/17points.htm](http://www.keepright.net/17points.htm)
 
 ФСБ
 
@@ -725,9 +725,9 @@ Problems from too little morality:
 
 10. Inequality
 
-insidious onset* http://www.effectivethinking.org/2012/01/the-effective-thinking-blog/
+insidious onset* [effectivethinking.org/2012/01/the-effective-thinking-blog/](http://www.effectivethinking.org/2012/01/the-effective-thinking-blog/)
 
-mori* http://www.psychologos.ru/articles/view/kak_delat_svoe_myshlenie_chetkim_i_osmyslennym_vop_zn_
+mori* [psychologos.ru/articles/view/kak_delat_svoe_myshlenie_chetkim_i_osmyslennym_vop_zn_](http://www.psychologos.ru/articles/view/kak_delat_svoe_myshlenie_chetkim_i_osmyslennym_vop_zn_)
 
 Idea Notes Fall 2015
 
@@ -950,7 +950,7 @@ b)Determining how they go about fulfilling the goals of the technique?
 * Does it contribute – at least to some extent- to students’ ultimate autonomy and independence (from you)
 * Does it foster cooperative negotiation with other students in the class? Is it truly interactive?
 * Does the technique present a “reasonable challenge”?
-* Do students receive sufficient feedback on their performance (from each other or from you)* https://hbr.org/2016/03/learning-to-learn
+* Do students receive sufficient feedback on their performance (from each other or from you)* [hbr.org/2016/03/learning-to-learn](https://hbr.org/2016/03/learning-to-learn)
 
 Becoming good at learning on your feet requires 4 skils:
 
@@ -968,7 +968,7 @@ Drive by Daniel Pink - the 3 most powerful motivators:
 
 2) Autonomy
 
-3) Purpose* http://www.forbes.com/sites/erikaandersen/2013/03/09/the-secret-to-getting-really-really-good-at-something/
+3) Purpose* [forbes.com/sites/erikaandersen/2013/03/09/the-secret-to-getting-really-really-good-at-something/](http://www.forbes.com/sites/erikaandersen/2013/03/09/the-secret-to-getting-really-really-good-at-something/)
 
 The will to master is natural. What stops us:
 
@@ -999,7 +999,7 @@ The key lies in our assumptions about ourselves and the process.* [http://www.sm
 * no high-stakes tests
 * free transportation and student healthcare
 * “Free Education” for anyone who imply wants to take a course to learn
-* [https://www.youtube.com/watch?v=VhH78NnRpp0&list=PLzsi_E489-gUXFVuciYEgO3AyrPMVAjxP -](https://www.youtube.com/watch?v=VhH78NnRpp0&list=PLzsi_E489-gUXFVuciYEgO3AyrPMVAjxP)* http://www.businessinsider.com/finland-education-school-2011-12#there-is-only-one-mandatory-standardized-test-in-finland-taken-when-children-are-16-4
+* [](https://www.youtube.com/watch?v=VhH78NnRpp0&list=PLzsi_E489-gUXFVuciYEgO3AyrPMVAjxP)* [businessinsider.com/finland-education-school-2011-12#there-is-only-one-mandatory-standardized-test-in-finland-taken-when-children-are-16-4](http://www.businessinsider.com/finland-education-school-2011-12#there-is-only-one-mandatory-standardized-test-in-finland-taken-when-children-are-16-4)
 * Only one standardized exam at 16
 * Finland spends about 30% less per student than the United States
 * 66% college attendance
@@ -1056,7 +1056,7 @@ pursuing happiness
 ## Other
 * people
 * [Ian Morris](http://libgen.is/search.php?&req=Ian+Morris&phrase=1&view=simple&column=author&sort=year&sortmode=DESC)
-* https://timjackson.org.uk/
+* [timjackson.org.uk/](https://timjackson.org.uk/)
 * Джефри Горер
 * Светлана Лурье
 * Michael Novak
@@ -1134,10 +1134,10 @@ pursuing happiness
 * [The Psychology of Money](https://vk.com/doc44301783_609162238?hash=2b5ec47cb9910fb3f3&dl=6d3e412ee711cbc9c4)
 * [Pornografia del terrorismo](http://library.lol/main/E66A62CF94631D72856679BAB9CCAEA3)
 * [Языковая политика, конфликты и согласие / Отв. ред. Е.И. Филиппова, С.В. Соколовский.](https://vk.com/video?w=wall-154516093_63995)
-* https://it.wikipedia.org/wiki/Mircea_Eliade
+* [it.wikipedia.org/wiki/Mircea_Eliade](https://it.wikipedia.org/wiki/Mircea_Eliade)
 * [Alcohol Textbook](http://libgen.is/book/index.php?md5=3149374AED2B1783A4BAF45F1960D9D4)
 * [http://libgen.rs/search.php?req=Маслов+Алексей+&open=0&res=25&view=simple&phrase=1&column=def](http://libgen.rs/search.php?req=%D0%9C%D0%B0%D1%81%D0%BB%D0%BE%D0%B2+%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9+&open=0&res=25&view=simple&phrase=1&column=def)
-* [https://ru.wikipedia.org/wiki/Маслов,_Алексей_Александрович](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%BB%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87)
+* [ru.wikipedia.org/wiki/Маслов,_Алексей_Александрович](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%BB%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87)
 * [Заклятые друзья. История мнений, фантазий, контактов, взаимо(не)понимания России и США](https://vk.com/wall-80080904_12167)
 * [Beликий уравнитель — Вальтер Шайдель](https://vk.com/wall-154516093_63668)
 * [Why society is a complex matter: meeting 21st century challenges with a new kind of science](http://library.lol/main/99E6E6054A7CB9812D19BBF2D7324159)
@@ -1146,7 +1146,7 @@ pursuing happiness
 * [Library Genesis: Daniel L. Everett - Dark Matter of the Mind: The Culturally Articulated Unconscious](http://libgen.rs/book/index.php?md5=0444919A1AAE81C63F182D454E05073B)
 * [Library Genesis: Daniel L. Everett - Linguagem: A história da maior invenção da humanidade](http://libgen.rs/book/index.php?md5=D6D7D291D0D52F70AEEFDCA6B3223BE3)
 * best novels on apocalyptic climate change
-* http://libgen.rs/search.php?&req=capitalism&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+* [libgen.rs/search.php?&req=capitalism&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](http://libgen.rs/search.php?&req=capitalism&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 * Israel: A Simple Guide to the Most Misunderstood Country on Earth
 * [На этот раз все будет иначе. Восемь столетий финансового безрассудства](https://vk.com/wall-154516093_63092)
 * [(PDF) Virtual And Immortal Human Or Sunset Of The Homo Sapiens Civilization](https://www.researchgate.net/publication/351921070_Virtual_And_Immortal_Human_Or_Sunset_Of_The_Homo_Sapiens_Civilization)
@@ -1170,7 +1170,7 @@ Es gibt kein persönliches Glück. Jegliches Glück gründet sich auf die Bezieh
 * [Advertising and Society](http://libgen.io/search.php?req=advertising+society&open=0&res=25&view=simple&phrase=1&column=def)
 
 
-* https://periscopic.com/#!/impacts
+* [periscopic.com/#!/impacts](https://periscopic.com/#!/impacts)
 
 Brandolini s Law
 * [Цифрова залежність - допамін для бідних. - YouTube](https://www.youtube.com/watch?v=P8Aq0OgZpsI)
@@ -1181,7 +1181,7 @@ Welt Almanach und Atlas 2021
 Théorie des jeux — Wikipédia
 * [Казахстан: обнуление, пенсионная реформа и лидер нации | Нур-Султан, Байконур и ядерный полигон](https://youtu.be/FdlLASue4GE)
 * [How America Got Hooked On Useless Corporate Consulting](https://youtu.be/fu6x6dy7oKA)
-* https://www.deutschland.de/de
+* [deutschland.de/de](https://www.deutschland.de/de)
 
 
 * Book Idea: The West
@@ -1193,7 +1193,7 @@ Théorie des jeux — Wikipédia
 * Chapter 6: Cui Bono? Understanding Who Benefits from Dishonest Definitions
 * Chapter 7: A Better Way: Ideas for a More Precise Terminology*
 * [http://www.socialsciencespace.com/about-socialsciencebites/](http://www.socialsciencespace.com/about-socialsciencebites/)**
-* http://nl.in-mind.org/
+* [nl.in-mind.org/](http://nl.in-mind.org/)
 
 power laws
 * [How to understand power - Eric Liu - YouTube](https://www.youtube.com/watch?v=c_Eutci7ack)
@@ -1201,7 +1201,7 @@ power laws
 → How to define rationality and value?
 
 Was macht einen einzelnen Menschen aus?
-* https://ourworldindata.org/
+* [ourworldindata.org/](https://ourworldindata.org/)
 
 network effects
 * [Soziale Institutionen zwischen Markt und Moral: Führungs- und Handlungskontexte](http://library.lol/main/10D90BB2565137298CD73D414DCC76B8)
@@ -1218,18 +1218,18 @@ network effects
 * [Почему люди ведут себя как придурки — Нож](https://knife.media/types-of-people/)
 * [Varanasi – Store norske leksikon](https://snl.no/Varanasi)
 * [How to Fix American Stupidity | Time](https://time.com/4937675/how-to-fix-american-stupidity/)
-* https://mathoverflow.net/questions/175847/how-does-one-justify-funding-for-mathematics-research
+* [mathoverflow.net/questions/175847/how-does-one-justify-funding-for-mathematics-research](https://mathoverflow.net/questions/175847/how-does-one-justify-funding-for-mathematics-research)
 * [Wholesome, witty and woke: The unproblematic comedy of John Mulaney | The Spinoff](https://thespinoff.co.nz/tv/27-01-2020/wholesome-witty-and-woke-the-unproblematic-comedy-of-john-mulaney/)
 * [Doping: DDR - Sport - Gesellschaft - Planet Wissen](https://www.planet-wissen.de/gesellschaft/sport/doping_gefaehrliche_mittel/pwiedopinginderddr100.html)
 * [Bullismo e cyberbullismo, vicini nel dolore ma diversi nella grammatica - Wired](https://www.wired.it/play/libri/2018/09/26/bullismo-cyberbullismo-grammatica/)*
 * Media, Resources, Orgs
-* http://www.collectionreperes.com/*
+* [collectionreperes.com/*](http://www.collectionreperes.com/*)
 * [James Williams: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/g/James%20Williams)
 * [Cass R. Sunstein](https://libgen.is/search.php?req=Cass+Sunstein&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 * [Is Rational Choice Theory All of Social Science?](https://b-ok.cc/book/1106156/65ddb2)
 * [Jared_Diamond_-_Armas_Germes_e_Aco.pdf](https://vk.com/doc448658071_468279178?hash=7f3b65fb3e16c8ed84&dl=7eaf87360ad774deea)
 * [The Return of Grand Theory in the Human Sciences.pdf](https://vk.com/doc375659_510894900?hash=c2199d15e488ac3859&dl=f6ae7340bd0d069501)
-* http://www.jareddiamond.org/Jared_Diamond/My_Books.html
+* [jareddiamond.org/Jared_Diamond/My_Books.html](http://www.jareddiamond.org/Jared_Diamond/My_Books.html)
 * [The Action Research Planner_Stephen Kemmis, Robin McTaggart, Rhonda Nixon_2014](http://link.springer.com/openurl?genre=book&isbn=978-981-4560-67-2)
 
 On the Logic of the Social Sciences

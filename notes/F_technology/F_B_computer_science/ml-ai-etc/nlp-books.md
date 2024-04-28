@@ -118,8 +118,8 @@ FSNLP
 * [Handbook of Natural Language Processing, Second Edition](https://libgen.is/book/index.php?md5=C1F6F90FA8A8DA3057155ABCE45A8FBE)
 * [Hands-On  Python Natural Language Processing: Explore tools and techniques to  analyze and process text with a view to building real-world NLP  applications](http://library.lol/main/B524B452C52DD74D29EAB22CE03353CB)
 * [Hands-On Python Natural Language Processing: Explore tools and techniques to analyze and process text with a view to building real-world NLP applications](http://libgen.rs/book/index.php?md5=B524B452C52DD74D29EAB22CE03353CB)
-* http://libgen.rs/search.php?&req=morgan+claypool+human+language+technologies&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
-* [https://b-ok.cc/g/Dipanjan%20Sarkar (books on NLP with Python)](https://b-ok.cc/g/Dipanjan%20Sarkar)
+* [libgen.rs/search.php?&req=morgan+claypool+human+language+technologies&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](http://libgen.rs/search.php?&req=morgan+claypool+human+language+technologies&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+* [b-ok.cc/g/Dipanjan%20Sarkar (books on NLP with Python)](https://b-ok.cc/g/Dipanjan%20Sarkar)
 * [Human Language Technology. Challenges for Computer Science and Linguistics | Zygmunt Vetulani, Joseph Mariani, Marek Kubis | download](http://b-ok.cc/book/3575998/2f0cc8)
 * [Introduction à la linguistique  contemporaine](https://drive.google.com/file/d/18aqnz0asee7X3Ky9emDFquYZ2Fju6FCc/view?usp=sharing)
 * [Jurafsky & Martin, Speech and Language Processing, 2nd Edition | Pearson | Resources](https://www.pearson.com/us/higher-education/program/Jurafsky-Speech-and-Language-Processing-2nd-Edition/PGM181706.html?tab=resources)
@@ -226,24 +226,24 @@ Text Mining: From Ontology Learning to Automated Text Processing Applications
 ** 125 Problems in Text Algorithms: with Solutions | Maxime Crochemore, Thierry Lecroq, Wojciech Rytter | download
 * [Deep Learning Book Series](https://hadrienj.github.io/posts/)
 *****Speech and Language Processing
-* https://web.stanford.edu/~jurafsky/slp3/
+* [web.stanford.edu/~jurafsky/slp3/](https://web.stanford.edu/~jurafsky/slp3/)
 * [Library Genesis: Ankur A. Patel, Ajay Uppili Arasanipalai - Applied Natural Language Processing in the Enterprise: Teaching Machines to Read, Write, and Understand](http://libgen.rs/book/index.php?md5=455DC672EB1E76040D96BD945B471B48)
 * [Library Genesis: Professor Dr. Manfred R. Schroeder (auth.) - Computer Speech: Recognition, Compression, Synthesis](http://libgen.rs/book/index.php?md5=693045A5AE44D7222CEB0F6F521BE1EB)
 * [Library Genesis: Tommaso Caselli, Eduard Hovy, Martha Palmer, Piek Vossen - Computational Analysis of Storylines: Making Sense of Events](http://libgen.rs/book/index.php?md5=BE1649153E1D5DE64C7ABB6203863B95)
-* https://www.nltk.org/book/
-* https://web.stanford.edu/~jurafsky/slp3/
-* https://www.nltk.org/book/
-* https://github.com/SpringerNLP/Chapter8
+* [nltk.org/book/](https://www.nltk.org/book/)
+* [web.stanford.edu/~jurafsky/slp3/](https://web.stanford.edu/~jurafsky/slp3/)
+* [nltk.org/book/](https://www.nltk.org/book/)
+* [SpringerNLP/Chapter8](https://github.com/SpringerNLP/Chapter8)
 *mhagiwara/realworldnlp: Example code for "Real-World Natural Language Processing"
-* https://github.com/nlp-with-transformers/notebooks
+* [nlp-with-transformers/notebooks](https://github.com/nlp-with-transformers/notebooks)
 * [Foundations of Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/)
 * [Delip Rao, Brian McMahan - Natural Language Processing with PyTorch: Build Intelligent Language Applications Using Deep Learning](http://libgen.rs/book/index.php?md5=C49436B0F0BCC70B12A7EFD80E4026FC)
 * [Supervised Machine Learning for Text Analysis in R](https://smltar.com/) *****
 * [Book: Statistical Machine Translation - Slides](http://www.statmt.org/book/)
 * [J & M book](https://web.stanford.edu/~jurafsky/slp3/)
 * [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
-* https://github.com/SpringerNLP
-* http://www.nltk.org/book/
+* [SpringerNLP](https://github.com/SpringerNLP)
+* [nltk.org/book/](http://www.nltk.org/book/)
 
 → ***** [books/nlp at master · shivamms/books](https://github.com/shivamms/books/tree/master/nlp)
 

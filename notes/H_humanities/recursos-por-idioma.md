@@ -3,7 +3,7 @@
 
 * Vídeo* - 0*     - Top*     - Good*     - Not Sure*     - Meh
 * - 1
-* http://www.wisecrack.co/thug-notes/ *****
+* [wisecrack.co/thug-notes/](http://www.wisecrack.co/thug-notes/) *****
 * [The Global Philosopher](http://www.bbc.co.uk/programmes/b075ft6f/episodes/guide) (Michael Sandel) *****
 * - YouTube Channels
 * - 2
@@ -16,7 +16,7 @@
 * [varlamov](https://www.youtube.com/user/ilyavarlamov)
 * [Биохакеры (2020)](https://vk.com/wall-154516093_63701)
 * [Зарядка полиглота](https://www.youtube.com/user/zaryadkapoliglota)
-* https://youtube.com/c/AlexKolmak
+* [youtube.com/c/AlexKolmak](https://youtube.com/c/AlexKolmak)
 * [Майкл Наки](https://www.youtube.com/channel/UCgpSieplNxXxLXYAzJLLpng)
 * [Павел Шестопалов](https://www.youtube.com/c/%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB%D0%A8%D0%B5%D1%81%D1%82%D0%BE%D0%BF%D0%B0%D0%BB%D0%BE%D0%B2)
 * [Правое полушарие Интроверта](https://www.youtube.com/c/%D0%9F%D1%80%D0%B0%D0%B2%D0%BE%D0%B5%D0%BF%D0%BE%D0%BB%D1%83%D1%88%D0%B0%D1%80%D0%B8%D0%B5%D0%98%D0%BD%D1%82%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%82%D0%B0)
@@ -183,7 +183,7 @@
 * [Русская Европейка](https://www.youtube.com/channel/UCl17GLjmXvgj7X7-9Z_8PvA)
 * [BossT (RU)](https://www.youtube.com/channel/UCTA6y_rPa4pNcSm9ic7_T2A)
 * [Om TV (RU)](https://www.youtube.com/channel/UCkp0Tc7ll67bChomTyB1ezQ)
-* https://www.youtube.com/user/GrazhdaninPoet
+* [](https://www.youtube.com/user/GrazhdaninPoet)
 * [Big Russian Boss Show - YouTube - YouTube](https://www.youtube.com/channel/UCE5dBnwxi9DS7-Ff_VEnITA)
 * Канал со смыслом
 * ["Спасибо", Ева!](https://youtube.com/user/spasiboeva?feature=related)
@@ -203,14 +203,14 @@
 * [Академия Порядочных Парней](https://www.youtube.com/channel/UC-NxFc7S9EnLBM5r_sI2sUQ)
 * [FAKE U](https://www.youtube.com/channel/UCZBLc-hCHHfLZjsbO0m5nHQ)
 * [С миру по факту](https://www.youtube.com/channel/UChN8oa745O3F9-we4RqQWCQ)
-* https://www.youtube.com/channel/UCjJx-rhU7z4_bGNNu_KbrKQ/videos
-* https://www.youtube.com/user/GrazhdaninPoet
+* [](https://www.youtube.com/channel/UCjJx-rhU7z4_bGNNu_KbrKQ/videos)
+* [](https://www.youtube.com/user/GrazhdaninPoet)
 * ПостНаука
 * Официальный канал «Країна У»
 * Рассмеши Комика - Официальный Канал
 * Русская волна -ТВ-
 * [Parody Club](https://www.youtube.com/channel/UCIlr4c5z_IAgE8R2Htw4jKw)
-* https://www.youtube.com/user/starmedia
+* [](https://www.youtube.com/user/starmedia)
 * Телеканал Дождь
 * [Андрей Гончарук](https://www.youtube.com/channel/UCNuFv1ZFSZ3v3s-5v66HrFA)
 * [Sinus](https://youtube.com/user/MrSomarte?feature=related)
@@ -261,7 +261,7 @@
 * The Cranes Are Flying
 * Desiny of a Man
 * [Сибирский цирюльник](https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%86%D0%B8%D1%80%D1%8E%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA)
-* http://www.fluentu.com/russian/blog/russian-tv-shows/
+* [fluentu.com/russian/blog/russian-tv-shows/](http://www.fluentu.com/russian/blog/russian-tv-shows/)
 * Цирк (фильм)
 * Золушка (фильм)
 * Летят журавли
@@ -272,11 +272,11 @@
 * Невезучая (2017) Мелодрама @ Русские сериалы
 * kremnevaya dolina series
 * [Советское кино online. Где смотреть лучшие фильмы 20-го века [Перловка]](https://www.reddit.com/r/hampan/comments/a9y3kd/%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%B8%D0%BD%D0%BE_online_%D0%B3%D0%B4%D0%B5_%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C_%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B5_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B/)
-* https://naukatv.ru/video
-* https://my-hit.org/film/17687/
-* https://rutube.ru/
-* http://reallanguage.club/video-na-russkom-s-subtitrami/
-* http://dokonline.com/dokumentalnie-filmi/istoria_rossii/
+* [naukatv.ru/video](https://naukatv.ru/video)
+* [my-hit.org/film/17687/](https://my-hit.org/film/17687/)
+* [rutube.ru/](https://rutube.ru/)
+* [reallanguage.club/video-na-russkom-s-subtitrami/](http://reallanguage.club/video-na-russkom-s-subtitrami/)
+* [dokonline.com/dokumentalnie-filmi/istoria_rossii/](http://dokonline.com/dokumentalnie-filmi/istoria_rossii/)
 * [Смотреть сериал «Моя гениальная подруга» 1 сезон в хорошем качестве](http://amovies.cc/serials_2018/8616-moya-genialnaya-podruga.html)
 * [Смотреть сериал Однажды в сказке онлайн бесплатно в хорошем качестве](http://hdrezka.ag/series/fantasy/235-odnazhdy-v-skazke-2011.html)
 * [Смотреть сериал Парки и зоны отдыха онлайн бесплатно в хорошем качестве](http://hdrezka.ag/series/comedy/1914-parki-i-zony-otdyha.html)
@@ -288,7 +288,7 @@
 * [Плохая Соседка / Lousy Neighbour. Фильм. StarMedia. Лирическая Комедия. 2015](https://www.youtube.com/watch?v=-MnyKYF2GH0)
 * [Медитация для начинающих.](https://xn--80ahclcbajtrv5ae6c.xn--p1ai/)
 * [Елена Павлова Internet Personality](http://internet-personality.ru/elena-pavlova-i-kogda-menya-sprosyat-chto-delala-tyi-vo-vselennoy-v-etom-brosovom-mire-veshhey-ya-otvechu-zhila/)
-* http://kvn.ru/video
+* [kvn.ru/video](http://kvn.ru/video)
 * [Как всё начиналось. Программа телеканала Дождь](https://tvrain.ru/lite/teleshow/kak_vse_nachinalos/)
 * [Дурак (2014)](https://vk.com/wall-154516093_37517)
 * [Лекции по русской литературе](https://vk.com/wall-172266857_399)
@@ -427,7 +427,7 @@
 * [Zerkalo 1975 (O Espelho/The Mirror/Le Miroir) 1080p - Legendado/Subtitled](https://youtu.be/yyAj2EjVwA0)
 * [Христианство: От Иудаизма До Константина](https://youtu.be/BSdl1ok7HQM)
 * [ЭТОТ ПАСКУДНЫЙ "РУССКИЙ МИР" (ЦИТАТЫ О РОССИИ ОТ ПУШКИНА ДО НАШИХ ДНЕЙ)](https://youtu.be/Nlb22aMSXrI)
-* https://www.youtube.com/watch?v=76JyyYfpsao&index=10&list=PLVWtXi_Jrj_0wbF8IIuy5H2fGpcpUJNkv
+* [](https://www.youtube.com/watch?v=76JyyYfpsao&index=10&list=PLVWtXi_Jrj_0wbF8IIuy5H2fGpcpUJNkv)
 * [Zerkalo 1975 (O Espelho/The Mirror/Le Miroir) 1080p - Legendado/Subtitled](https://youtu.be/yyAj2EjVwA0)
 * [Христианство: От Иудаизма До Константина](https://youtu.be/BSdl1ok7HQM)
 * [ЭТОТ ПАСКУДНЫЙ "РУССКИЙ МИР" (ЦИТАТЫ О РОССИИ ОТ ПУШКИНА ДО НАШИХ ДНЕЙ)](https://youtu.be/Nlb22aMSXrI)
@@ -753,30 +753,30 @@
 * [Deutschklasse](https://www.youtube.com/c/Deutschklasse)
 * [Easy German](https://www.youtube.com/c/EasyGerman)
 * [FungelaTV](https://www.youtube.com/user/FungelaTV)
-* https://socialblade.com/youtube/top/country/de
-* https://socialblade.com/youtube/top/country/at
-* https://www.moviepilot.de/filme/beste/genre-musical
-* https://de.wikipedia.org/wiki/Liste_Schweizer_Filme
-* https://www.ranker.com/list/famous-comedians-from-switzerland/reference
+* [](https://socialblade.com/youtube/top/country/de)
+* [](https://socialblade.com/youtube/top/country/at)
+* [moviepilot.de/filme/beste/genre-musical](https://www.moviepilot.de/filme/beste/genre-musical)
+* [de.wikipedia.org/wiki/Liste_Schweizer_Filme](https://de.wikipedia.org/wiki/Liste_Schweizer_Filme)
+* [ranker.com/list/famous-comedians-from-switzerland/reference](https://www.ranker.com/list/famous-comedians-from-switzerland/reference)
 * Good Bye, Lenin
 * Aguirre, the Wrath of God
 * The Lives of Others
 * Wings of Desire
 * The White Ribbon
-* https://wiki.zum.de/wiki/Filme_und_Videos_im_DaF-Unterricht
+* [wiki.zum.de/wiki/Filme_und_Videos_im_DaF-Unterricht](https://wiki.zum.de/wiki/Filme_und_Videos_im_DaF-Unterricht)
 * 313 Der Film *deutsch* by Shabab Al-Irschadde Shababalirschad
 * [SRF DOK](https://www.srf.ch/sendungen/dok)
 * ["Klerus" - 3sat.Mediathek](http://www.3sat.de/mediathek/?mode=play&obj=76409)
 * [DCTP](https://www.dctp.tv/)
 * SRF bi de Lüt 14.12.2018
-* http://www.rtr.ch/
-* https://www.ted.com/talks?language=de
+* [rtr.ch/](http://www.rtr.ch/)
+* [ted.com/talks?language=de](https://www.ted.com/talks?language=de)
 * Input SRF
-* https://www.schweizer-illustrierte.ch/videos
-* http://www.zdf.de/
-* https://fernseh.live/79-telebasel-live-stream-kostenlos.html
-* http://www.deutschlandradiokultur.de/
-* http://dradiowissen.de/update
+* [schweizer-illustrierte.ch/videos](https://www.schweizer-illustrierte.ch/videos)
+* [zdf.de/](http://www.zdf.de/)
+* [fernseh.live/79-telebasel-live-stream-kostenlos.html](https://fernseh.live/79-telebasel-live-stream-kostenlos.html)
+* [deutschlandradiokultur.de/](http://www.deutschlandradiokultur.de/)
+* [dradiowissen.de/update](http://dradiowissen.de/update)
 * [Deine Ideen sind wertlos... (Programmierer](https://www.youtube.com/watch?v=XBqzscczGb8&list=WL&index=4) REALTALK)
 * [Rechte Öko-Sekte: Die "Anastasia-Bewegung" | S](https://www.youtube.com/watch?v=YilcjXGXDbY&list=WL&index=34&t=10s)PIEGEL TV
 * [Sollte wählen ab 16 erlaubt sein? I](https://www.youtube.com/watch?v=ovppPc62yWE&list=WL&index=43) 13 Fragen
@@ -986,14 +986,14 @@
 * [geschichte der philosophie hörbuch](https://www.youtube.com/results?search_query=geschichte+der+philosophie+h%C3%B6rbuch)
 * [Alfred Schmidt, Einführung in die Geschichte der Philosophie](https://www.youtube.com/watch?v=Sw9pc2MN-L8&list=PLNrDMx4WkLd8I5xjx7NmknDPGDAIqXDt-)
 * [Geschichte der Philosophie](https://www.youtube.com/watch?v=VccrWlEjMeo&list=PL4O7bFNxwUHq6wwBcw1p6VNLmhMzxfPuP)
-* https://www.srf.ch/kultur/gesellschaft-religion/filosofix/die-welt-neu-denken-philosophen-der-gegenwart
+* [srf.ch/kultur/gesellschaft-religion/filosofix/die-welt-neu-denken-philosophen-der-gegenwart](https://www.srf.ch/kultur/gesellschaft-religion/filosofix/die-welt-neu-denken-philosophen-der-gegenwart)
 * [Gadamer narra la historia de la filosofía. 1.6. Subtitulado español](https://www.youtube.com/watch?v=HNf8vhDTnQo)
 * [φιλοσοφία](https://www.youtube.com/playlist?list=PLY6_m63PykfPqF6kHLMoWadbDco4OdW-t)
 * [Magazine Technikart - YouTube](https://www.youtube.com/channel/UCdK3SZf41RnvK63T_7nAbuQ)
 * BEST OF COMEDY &amp; SATIRE 2017 | Kabarett Satire Comedy Club 2017 Mix deutsch - YouTube
 * [Hasten | New Kids | Comedy Central Deutschland - YouTube](https://www.youtube.com/watch?v=pLBmUK0sSiM)
-* https://www.youtube.com/playlist?list=PLtB1MJSQL5hRNwtxaezRaQGue3aa9rF_T
-* https://www.youtube.com/results?search_query=Deutsche+komiker
+* [](https://www.youtube.com/playlist?list=PLtB1MJSQL5hRNwtxaezRaQGue3aa9rF_T)
+* [](https://www.youtube.com/results?search_query=Deutsche+komiker)
 * [Nichts als Ärger mit den Männern Komödie](https://www.youtube.com/watch?v=GXhsGK2u1i0)
 * [Sendung vom 9. Mai 2019 | Nuhr im Ersten - YouTube](https://www.youtube.com/watch?v=nYB-9-WDYrk)
 * [Wie gut kann sich der Körper vom Alkohol erholen? | Quarks - YouTube](https://www.youtube.com/watch?v=8ZiVq3_XF4w)
@@ -1033,31 +1033,31 @@
 * [Der Fall (Schweizerdeutsch mit Hochdeutsch Untertitel)](https://www.youtube.com/watch?v=jY8pgh_TAac&list=PLVWtXi_Jrj_28HdMUYyp2rkr5aIQNLQEu&index=1)
 * [Prometheus](https://edx.prometheus.org.ua/dashboard)
 * - 4
-* https://kinoukr.com/
+* [kinoukr.com/](https://kinoukr.com/)
 * [Dima Maleev](https://www.youtube.com/user/SunnyDimKo)
 * [Історія для дорослих](https://www.youtube.com/c/%D0%86%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%8F%D0%B4%D0%BB%D1%8F%D0%B4%D0%BE%D1%80%D0%BE%D1%81%D0%BB%D0%B8%D1%85)
 * [Війна за український борщ: готуємо і розповідаємо, як і чому Росія хоче його вкрасти](https://www.youtube.com/watch?v=wJfn7ACoY8A)
-* https://www.ted.com/talks?language=uk&sort=newest
+* [ted.com/talks?language=uk&sort=newest](https://www.ted.com/talks?language=uk&sort=newest)
 * [UA: Культура](https://culture.suspilne.media/)
 * [Біла Кава](https://www.youtube.com/channel/UCwmN5lmbQUkwi-_oXPfh3SQ)
-* https://4read.org/
-* > https://4read.org/rozvytok/
-* > https://4read.org/modern/
-* > https://4read.org/buiseness/
-* > https://4read.org/biography/
+* [4read.org/](https://4read.org/)
+* > [4read.org/rozvytok/](https://4read.org/rozvytok/)
+* > [4read.org/modern/](https://4read.org/modern/)
+* > [4read.org/buiseness/](https://4read.org/buiseness/)
+* > [4read.org/biography/](https://4read.org/biography/)
 * [STEM-школа Inventor](https://www.youtube.com/channel/UCwYXUHUNyjOcmlm2EQjmuCw)
-* https://blog.feedspot.com/ukraine_youtube_channels/
-* https://www.ukrainianlessons.com/ukrainian-youtube/
+* [](https://blog.feedspot.com/ukraine_youtube_channels/)
+* [](https://www.ukrainianlessons.com/ukrainian-youtube/)
 * [toBeUkrainian - Переклади українською](https://www.youtube.com/channel/UCpFKlj193lNquqj4vyY2qyA)
 * [Наука та Всесвіт](https://www.youtube.com/channel/UC9gDR8zmbMhgEULgXipm3OA)
 * [Майстерня озвучення](https://www.youtube.com/c/MaisterniaOzvuchennia)
 * [AdrianZP](https://www.youtube.com/c/AdrianZPcity)
 * [Клятий раціоналіст](https://www.youtube.com/channel/UCioz7pLeEpBNrFfwHb2m-pA)
 * [Канал Горобина](https://www.youtube.com/c/%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%D0%93%D0%BE%D1%80%D0%BE%D0%B1%D0%B8%D0%BD%D0%B0)
-* https://youtube.com/c/PlatosCaveUA
+* [youtube.com/c/PlatosCaveUA](https://youtube.com/c/PlatosCaveUA)
 * [Вища математика](https://www.youtube.com/channel/UCjcuX19z1XBIP_CSQapb50Q)
-* https://www.youtube.com/c/cikavanauka
-* https://www.youtube.com/c/cikavanauka
+* [](https://www.youtube.com/c/cikavanauka)
+* [](https://www.youtube.com/c/cikavanauka)
 * Prometheus
 * Shuster online
 * Аудіокнига.UA
@@ -1158,7 +1158,7 @@
 * [футбол україна - YouTube](https://www.youtube.com/results?search_query=%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB+%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0)
 * [Цікава наука - YouTube](https://www.youtube.com/channel/UCMIVE71tHEUDkuw8tPxtzSQ)
 * [ШКОЛА - YouTube - YouTube](https://www.youtube.com/channel/UCfjRIKGwl6x6rTJq1M5imbw)
-* https://www.youtube.com/playlist?list=PL_f9loacq5vQS06vGskIk-6_OM2YSVxyZ
+* [](https://www.youtube.com/playlist?list=PL_f9loacq5vQS06vGskIk-6_OM2YSVxyZ)
 * Mar Len
 * Вова Мільченко
 * Український блог
@@ -1184,9 +1184,9 @@
 * [Fact Ua факти українською](https://www.youtube.com/channel/UCesniq51gPerQH_XMrIfEbQ)
 * [SlavicDubs](https://www.youtube.com/user/SlavicDubs?feature=related)
 * [disney songs ukrainian](https://www.youtube.com/results?search_query=disney+songs+ukrainian)
-* https://www.youtube.com/channel/UCZctsW8Tpx8Tz9Ln4KUmR3g
-* https://www.youtube.com/user/1plus1channel
-* https://www.youtube.com/results?search_query=%D0%A1%D1%82%D1%96%D0%B2%D0%B5%D0%BD+%D0%9A%D0%BE%D0%B2%D1%96+7+%D0%B7%D0%B2%D0%B8%D1%87%D0%BE%D0%BA
+* [](https://www.youtube.com/channel/UCZctsW8Tpx8Tz9Ln4KUmR3g)
+* [](https://www.youtube.com/user/1plus1channel)
+* [](https://www.youtube.com/results?search_query=%D0%A1%D1%82%D1%96%D0%B2%D0%B5%D0%BD+%D0%9A%D0%BE%D0%B2%D1%96+7+%D0%B7%D0%B2%D0%B8%D1%87%D0%BE%D0%BA)
 * 5 Канал
 * Espreso.TV (gute Bloggen)
 * The Guide
@@ -1227,9 +1227,9 @@
 * [Громадське Телебачення - YouTube](https://www.youtube.com/user/HromadskeTV)
 * [Borat](https://vk.com/wall-129682455_143536)
 * [Соціальна реклама "Сортуй сміття" | StudArtFilms1 перегляд](https://vk.com/video-88652392_456239132?list=7978436bd614660ef1)
-* https://uafilm.tv/126-kryzhane-serce.html
+* [uafilm.tv/126-kryzhane-serce.html](https://uafilm.tv/126-kryzhane-serce.html)
 * [Крижане серце](https://www.google.com/search?q=uafilm.tv+kryzhane+serce&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
-* https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%96_%D1%84%D1%96%D0%BB%D1%8C%D0%BC%D0%B8_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8
+* [uk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%96_%D1%84%D1%96%D0%BB%D1%8C%D0%BC%D0%B8_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8](https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%96_%D1%84%D1%96%D0%BB%D1%8C%D0%BC%D0%B8_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8)
 * [🔥 Даля Грибаускайте про Зе, Путіна, НАТО, Північний потік-2 у Рандеву з Яніною](https://www.youtube.com/watch?v=umYLqtXZp2M&list=WL&index=167) Соколовою
 * [Математика в епоху змін. Математика для життя | Ростислав Гринів](https://www.youtube.com/watch?v=qHj9YNkbsOU&list=WL&index=809) | TEDxUCU
 * [Українська мова без суржику. ТОП-10 слів, які слі](https://www.youtube.com/watch?v=nQnW9at6sGI&list=WL&index=835)д забути!
@@ -1335,20 +1335,20 @@
 * [Станіславська - YouTube - YouTube](https://www.youtube.com/channel/UC1M9NzqK172GLga_w8ugSng)
 * [Сувенір з Одеси. 1 серія - YouTube](https://www.youtube.com/watch?v=3hesptI-sgI)
 * [Село на мільон](https://vk.com/wall-129682455_138062)
-* https://www.youtube.com/playlist?list=PLbZuh6EksKK5LngEbnXWHo-ykTSnisAZ1
+* [](https://www.youtube.com/playlist?list=PLbZuh6EksKK5LngEbnXWHo-ykTSnisAZ1)
 * Naykraschi Tyzhden
 * [Христина Соловій - Хто, як не ти? (official video)](https://www.youtube.com/watch?v=Lf6El9jHdGg)
 * - 5
 * [Best of Cultes](https://www.youtube.com/channel/UCwVTg-nH4d9R88Bhwpkldiw)
-* http://cabouge.tv5monde.com/
+* [cabouge.tv5monde.com/](http://cabouge.tv5monde.com/)
 * [Quotidien](https://www.youtube.com/channel/UCpi-4daExRSchtsJzO06rwA)
 * [L'Express](https://www.youtube.com/channel/UCp2kK3DyhpgFOdILF3BBC9A)
 * Les Diaboliques
 * [Le vortex](https://www.youtube.com/channel/UCZxLew-WXWm5dhRZBgEFl-Q)
 * [Wiloo](https://www.youtube.com/channel/UCIJZA6SJ3JjvuOZgYPYOHnA)
-* https://youtube.com/user/DeuxGouttesDeCulture
+* [youtube.com/user/DeuxGouttesDeCulture](https://youtube.com/user/DeuxGouttesDeCulture)
 * [Hygiène Mentale](https://www.youtube.com/channel/UCMFcMhePnH4onVHt2-ItPZw)
-* http://parlons-francais.tv5monde.com/webdocumentaires-pour-apprendre-le-francais/p-1-lg0-Accueil.htm
+* [parlons-francais.tv5monde.com/webdocumentaires-pour-apprendre-le-francais/p-1-lg0-Accueil.htm](http://parlons-francais.tv5monde.com/webdocumentaires-pour-apprendre-le-francais/p-1-lg0-Accueil.htm)
 * [netprof](https://www.youtube.com/user/netprof)
 * [Rémi Girardet](https://www.youtube.com/channel/UC2DyvJdRC2gGMK_JR848DwQ)
 * [Sous Culture](https://www.youtube.com/c/SousCulturemedia/playlists)
@@ -1530,17 +1530,17 @@
 * [Français avec Pierre](https://www.youtube.com/c/FrancaisavecPierre)
 * [français en dialogue](https://www.youtube.com/c/fran%C3%A7aisendialogue1)
 * [imagiersFrench](https://www.youtube.com/user/imagiersFrench)
-* https://www.youtube.com/user/canalplusfrance
-* http://www.learner.org/resources/series83.html
-* https://www.youtube.com/watch?v=MUXlkBHUMbU
+* [](https://www.youtube.com/user/canalplusfrance)
+* [learner.org/resources/series83.html](http://www.learner.org/resources/series83.html)
+* [](https://www.youtube.com/watch?v=MUXlkBHUMbU)
 * [Vidéos du Livre de Mormon](https://youtube.com/playlist?list=PLK-wt8EdZqtmifIKydkilMHxkWpVQjyFn)
-* https://www.youtube.com/watch?v=chPzieJXu4U
+* [](https://www.youtube.com/watch?v=chPzieJXu4U)
 * [LPG](https://youtu.be/BUW0GZJHyVM)
 * [Canal Foot](https://www.youtube.com/channel/UCRt-xGEBfuqA3T_InNW2KUQ)
 * [Canal Foot](https://www.youtube.com/channel/UC8ggH3zU61XO0nMskSQwZdA)
 * [Category:French television talk shows - Wikipedia](https://en.wikipedia.org/wiki/Category:French_television_talk_shows)
 * [Do you know of any good French TV shows or movies? - Duolingo](https://www.duolingo.com/comment/1256519/Do-you-know-of-any-good-French-TV-shows-or-movies)
-* http://www.completefrance.com/language-culture/language/11-popular-french-tv-shows-you-should-watch-next-1-5155154
+* [completefrance.com/language-culture/language/11-popular-french-tv-shows-you-should-watch-next-1-5155154](http://www.completefrance.com/language-culture/language/11-popular-french-tv-shows-you-should-watch-next-1-5155154)
 * [Quotidien avec Yann Barthès - TMC](https://www.tf1.fr/tmc/quotidien-avec-yann-barthes)
 * [Ten French TV series you have to watch in 2016 - The Local](https://www.thelocal.fr/20160118/10-new-french-tv-series-you-have-to-watch)
 * [The 10 Best French Movies on Netflix for French Learners](https://www.fluentu.com/blog/french/best-french-movies-on-netflix/)
@@ -1678,7 +1678,7 @@
 * [Mise au point](https://www.youtube.com/channel/UCoLxAkyUJH1Zr6lE6M8WTwg)
 * [Upsd 52](https://www.youtube.com/channel/UCvgfcVEYfFL58SanMOu5AnQ)
 * [Minute Philosophique](http://sites.arte.tv/philosophie/fr/imaginez-philosophie)
-* https://www.youtube.com/user/imagiers/videos
+* [](https://www.youtube.com/user/imagiers/videos)
 * [SOS ART](https://youtube.com/channel/UCzi49Gp-XX9m5foHOWWGKeA?feature=hovercard)
 * [Guillaume Deloison](https://youtube.com/channel/UCzB4XvWgVlXFI4ljbQXzmwA?feature=hovercard)
 * [LA MINUTE PHILO](http://tlm.tv/replay/culture/la-minute-philo)
@@ -1686,9 +1686,9 @@
 * [Hopliteia](https://www.youtube.com/channel/UCBh4vdfPAtDwkTvVga1vvJw)
 * [Vidéos sur la Bible](https://youtube.com/playlist?list=PLK-wt8EdZqtnl0iP3wyFWACLAFbMaejYf)
 * [Как выучить французский: 25 YouTube-каналов разной степени сложности](https://vk.com/@fryaz-kak-vyuchit-francuzskii-25-youtub-kanalov-raznoi-stepeni-sl)
-* http://institutfrancais-italia.com/it/insegnare-il-francese/concorsi-e-festival/festival-di-cinema-per-le-scuole-version-originale-2015-2016
-* http://www.senscritique.com/top/resultats/Les_meilleurs_documentaires/192830
-* http://www.topito.com/top-youtubeurs-francais-droles-interessants
+* [institutfrancais-italia.com/it/insegnare-il-francese/concorsi-e-festival/festival-di-cinema-per-le-scuole-version-originale-2015-2016](http://institutfrancais-italia.com/it/insegnare-il-francese/concorsi-e-festival/festival-di-cinema-per-le-scuole-version-originale-2015-2016)
+* [senscritique.com/top/resultats/Les_meilleurs_documentaires/192830](http://www.senscritique.com/top/resultats/Les_meilleurs_documentaires/192830)
+* [](http://www.topito.com/top-youtubeurs-francais-droles-interessants)
 * [Le Talk Show: 5 Favorite French Talk Shows on Television and Online](https://www.fluentu.com/blog/french/french-talk-show/)
 * [15 Great French Comics to Learn French - Talk in French](https://www.talkinfrench.com/french-comics-learn-french/)
 * [Как выучить французский: 25 YouTube-каналов разной степени сложности](https://vk.com/@fryaz-kak-vyuchit-francuzskii-25-youtub-kanalov-raznoi-stepeni-sl)
@@ -1699,17 +1699,17 @@
 * [frenchpod101.com](https://vk.com/away.php?to=http%3A%2F%2Ffrenchpod101.com&post=-97559775_32819&cc_key=) — видео
 * [france24.com/fr](https://vk.com/away.php?to=http%3A%2F%2Ffrance24.com%2Ffr&post=-97559775_32819&cc_key=) — новости на французском
 * Les Enfants du Marais
-* http://www.fluentu.com/french/blog/french-tv-series-to-learn-french/
-* http://www.tv5monde.com/cms/chaine-francophone/info/p-1914-7-jours-sur-la-planete.htm
-* http://www.tv5mondeplus.com/
-* http://filmfra.com/
+* [fluentu.com/french/blog/french-tv-series-to-learn-french/](http://www.fluentu.com/french/blog/french-tv-series-to-learn-french/)
+* [tv5monde.com/cms/chaine-francophone/info/p-1914-7-jours-sur-la-planete.htm](http://www.tv5monde.com/cms/chaine-francophone/info/p-1914-7-jours-sur-la-planete.htm)
+* [tv5mondeplus.com/](http://www.tv5mondeplus.com/)
+* [filmfra.com/](http://filmfra.com/)
 * [courts métrages](https://www.youtube.com/results?search_query=courts+m%C3%A9trages+)
-* http://www.linguo.tv/videos
-* http://expressfrancais.com/videos-en-frances/
-* http://www.filmsdocumentaires.com/12-histoire
-* http://www.oercommons.org/courses/french-in-action/view
+* [linguo.tv/videos](http://www.linguo.tv/videos)
+* [expressfrancais.com/videos-en-frances/](http://expressfrancais.com/videos-en-frances/)
+* [filmsdocumentaires.com/12-histoire](http://www.filmsdocumentaires.com/12-histoire)
+* [oercommons.org/courses/french-in-action/view](http://www.oercommons.org/courses/french-in-action/view)
 * Marie-Thérèse Porchet
-* http://www.dailymotion.com/fr
+* [dailymotion.com/fr](http://www.dailymotion.com/fr)
 
 
 * [****Киномания по-французски](https://vk.com/cinema_de_france)        - [**Les Meilleurs Séries Françaises - IMDb](https://www.imdb.com/list/ls066794879/?ref_=tt_rls_2)
@@ -1782,10 +1782,10 @@
 * [Libre? Neurosciences et mécanique de la](https://www.youtube.com/watch?v=IlZqItOOF1k&list=WL&index=984) décision
 * [ser e ter - filme completo legendado parte 1](https://www.youtube.com/watch?v=gSRDtwcGwUQ)
 * [sEBASTIEN mARX lA lANGUE mARX](https://youtu.be/LBXFQAeXRVk)
-* https://www.youtube.com/watch?v=X2PrjCUvfBg
-* https://www.youtube.com/watch?v=luh7A4QdFrI
-* https://www.youtube.com/watch?v=sr_aS0qn-RE
-* https://www.youtube.com/watch?v=9HHXcEdmwxg
+* [](https://www.youtube.com/watch?v=X2PrjCUvfBg)
+* [](https://www.youtube.com/watch?v=luh7A4QdFrI)
+* [](https://www.youtube.com/watch?v=sr_aS0qn-RE)
+* [](https://www.youtube.com/watch?v=9HHXcEdmwxg)
 * [Français](https://www.youtube.com/watch?v=Egrfsn2CU8E&list=PLVWtXi_Jrj_2nrbsZ-jlUJZyPzoHi2vPV)
 * [Qué no hacer en Francia (con subiítulos en francés)](https://www.youtube.com/watch?v=5RQvzBtBKQQ&list=PLVWtXi_Jrj_107IGfxlFXnWNHz-vhPGm6&index=7)
 * [IL LECHAIT LES CAILLOUX : le collectionneur s'étouffe !! | Angle Droit | Le Vortex#31 - YouTube](https://www.youtube.com/watch?v=93ZTC_04gt4)
@@ -1868,7 +1868,7 @@
 * À la folie... pas du tout
 * [BEST OF - Humour STAND UP #1 - YouTube](https://www.youtube.com/watch?v=HC1fKHTvwHo)
 * Dating in Francede Comme une Française
-* https://fr.wikipedia.org/wiki/Liste_de_films_documentaires_relatifs_%C3%A0_l%27histoire_de_France
+* [fr.wikipedia.org/wiki/Liste_de_films_documentaires_relatifs_%C3%A0_l%27histoire_de_France](https://fr.wikipedia.org/wiki/Liste_de_films_documentaires_relatifs_%C3%A0_l%27histoire_de_France)
 * [L'Antiseche - YouTube](https://www.youtube.com/channel/UCeOp9CWBaW2tVIBAzCobzow)
 * [L'Esprit franc - Virginia Vota - YouTube](https://www.youtube.com/channel/UCFPTO55xxHqFqkzRZHu4kcw)
 * La Dernière Prophétie, film en français, النبؤة الأخيره, ترجمة عربيةde Ihab Ghazal
@@ -1884,8 +1884,8 @@
 * [chansons humoristiques - YouTube](https://www.youtube.com/results?search_query=chansons+humoristiques)
 * [Bureau des Plaintes](https://www.youtube.com/watch?v=mVH3Cq5_H8M)
 * 31 dialogues en françaisde LEARN FRENCH WITH VINCENT
-* http://www.presstv.ir/french
-* https://www.agoravox.tv/
+* [presstv.ir/french](http://www.presstv.ir/french)
+* [agoravox.tv/](https://www.agoravox.tv/)
 * [le tiers livre, web & littérature : toute la chaîne d'un seul coup d'oeil](http://www.tierslivre.net/spip/spip.php?article4230)
 * [manon aubry - YouTube](https://www.youtube.com/results?search_query=manon+aubry)
 * [Französisch Lernen! 400 Französische Redewendungen + PARALLEL AUDIO #Teil 1 - YouTube](https://www.youtube.com/watch?v=WL_ew1t4IBY)
@@ -1903,7 +1903,7 @@
 * Discours de Nicolas Sarkozy à Marseillede NicolasSarkozy
 * [Ratatouille - Studio Bagel](https://www.youtube.com/watch?v=8cEBYNkGmvI)
 * [6 Vloggers to Learn French - YouTube](https://www.youtube.com/watch?v=TQAvTD0-Rt8)
-* https://www.ted.com/talks?language=fr&sort=newest
+* [ted.com/talks?language=fr&sort=newest](https://www.ted.com/talks?language=fr&sort=newest)
 * Dans l'enfer de la polygamie ~ Film drame complet en françaisde Yannick Ta Mère
 * Edwy Plenel contre Alain Finkielkraut : Identité française & Islamde Inside75000
 * [Karambolage - Le Plombier Polonais on Vimeo](https://vimeo.com/244875142)
@@ -1916,7 +1916,7 @@
 * [French Pronunciation: The Sounds of French (aka "How to learn lots of new vowels")](https://www.youtube.com/watch?v=hI2Pso1dDjM&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=58)
 * - 6
 * [UNED Documentos](https://www.youtube.com/user/documentosUNED)
-* http://www.pesquisasmormonas.com/p/lista-de-episodios-1506218159/
+* [pesquisasmormonas.com/p/lista-de-episodios-1506218159/](http://www.pesquisasmormonas.com/p/lista-de-episodios-1506218159/)
 * [filosofando89](https://youtube.com/user/filosofando89?feature=hovercard)
 * [Telemundo Novelas](https://youtube.com/user/TLMDnovelas?feature=hovercard)
 * [Sin Filtros](https://www.youtube.com/channel/UCd1koounZ3H1LaqLDoas3Xg)
@@ -2023,12 +2023,12 @@
 * [DUST](https://www.youtube.com/c/watchdust)
 * [Bits filosoficos](https://www.youtube.com/channel/UCNQF63whWjTgiesurml0MZA)
 * [Werevertumorro](https://www.youtube.com/user/werevertumorro)
-* https://www.youtube.com/user/ItsMaldow
-* https://www.youtube.com/watch?v=bZt8rj4pb4U
+* [](https://www.youtube.com/user/ItsMaldow)
+* [](https://www.youtube.com/watch?v=bZt8rj4pb4U)
 * [FilosofíaTv](https://youtube.com/channel/UCKVRnYq1wVPlqB_ZlKgMvJg?feature=hovercard)
 * [Unboxing Philosophy](https://www.youtube.com/channel/UC5d5wLi2Feyd3FrBNyeEPgw)
-* https://www.youtube.com/channel/UCflRFk1bKyCvJ3QiDDiBuqQ
-* https://www.youtube.com/user/internautismocronico?hl=es&gl=ES
+* [](https://www.youtube.com/channel/UCflRFk1bKyCvJ3QiDDiBuqQ)
+* [](https://www.youtube.com/user/internautismocronico?hl=es&gl=ES)
 * [KhanAcademyEspañol](https://www.youtube.com/user/KhanAcademyEspanol)
 * [Actitud Triunfante - YouTube - YouTube](https://www.youtube.com/channel/UCSdxhZCJPPMg0nAgxhTIXgQ)
 * [AJ+ Español - YouTube - YouTube](https://www.youtube.com/channel/UCS0lmlVIYVz2qeWlZ_ynIWg)
@@ -2068,8 +2068,8 @@
 * [Nice Day - YouTube - YouTube](https://www.youtube.com/channel/UC0pzqgbTMcKpFK6oq9Zl8vA)
 
 
-* [***PlayJunior - YouTube - YouTube](https://www.youtube.com/channel/UCC5ki2zzpPL4mWr3bwxF-Bw)        - [**Tintero creativo - YouTube - YouTube](https://www.youtube.com/channel/UC9WycYnvjtRbR1KvqJU820A)**        - [*#WHYMAPS - YouTube - YouTube](https://www.youtube.com/channel/UCyoAJbq6rqi9bgMB0uDQSFg)        - [*academiaplay - YouTube - YouTube](https://www.youtube.com/channel/UCv05qOuJ6Igbe-EyQibJgwQ)        - [*Filosofía en minutos - YouTube - YouTube](https://www.youtube.com/channel/UCUeVbQyQXXGSIyLoMLXpEYA)        - [*Reporte Semanal con José Rafael Briceño - YouTube - YouTube](https://www.youtube.com/user/BricenoSemanal)        - [CARKI PRODUCTIONS - YouTube - YouTube](https://www.youtube.com/channel/UCa2yQjbhV7-zMdygwZRFxYQ)**        - [DRAW THE WORLD - YouTube - YouTube](https://www.youtube.com/channel/UCnyZ_qbXwvS7HBgjICl8oBg)**        - [MARTE 19 - YouTube - YouTube](https://www.youtube.com/channel/UCVflB5V9W7qWWZnwelyOZ3g)**        - [Mextalki DE - YouTube - YouTube](https://www.youtube.com/channel/UCeJguGZvG8yKQW6ZAgG060Q)**        - [pronunciacion español r - YouTube](https://www.youtube.com/results?search_query=pronunciacion+espa%C3%B1ol+r)**
-* https://www.youtube.com/playlist?list=PLoZVZx9LhfC_MGDJlhMg0ibey5PHQUvG4
+* [](https://www.youtube.com/channel/UC9WycYnvjtRbR1KvqJU820A)**        - [](https://www.youtube.com/channel/UCv05qOuJ6Igbe-EyQibJgwQ)        - [](https://www.youtube.com/user/BricenoSemanal)        - [](https://www.youtube.com/channel/UCnyZ_qbXwvS7HBgjICl8oBg)**        - [](https://www.youtube.com/channel/UCeJguGZvG8yKQW6ZAgG060Q)**        - [pronunciacion español r - YouTube](https://www.youtube.com/results?search_query=pronunciacion+espa%C3%B1ol+r)**
+* [](https://www.youtube.com/playlist?list=PLoZVZx9LhfC_MGDJlhMg0ibey5PHQUvG4)
 * [Arata Academy SPANISH](https://www.youtube.com/channel/UCUQfpwJdQJBunbMukf_xdHQ)
 * [HipotesisdePoder](https://www.youtube.com/user/soloencompu)
 * [HispanTV](https://www.youtube.com/user/hispantv)
@@ -2085,10 +2085,10 @@
 * [Mi hija quiere entender el sistema financiero | Hernan Casciari](https://youtu.be/HLIJkmy3vy8)
 * [UNED](https://www.youtube.com/channel/UCAQH04GK7-OfQC6nkzAucLw)
 * [Destinos](https://learner.org/series/destinos/)
-* http://www.marca.com/futbol/mundial.html
+* [marca.com/futbol/mundial.html](http://www.marca.com/futbol/mundial.html)
 * [¡Frases típicas de México! - YouTube](https://www.youtube.com/watch?v=4bpxpxZXpLI)
-* https://www.mormon.org/por/pessoas
-* https://www.google.com/search?q=documentario+sobre+Ronaldo&oq=documentario+sobre+Ronaldo&aqs=chrome..69i57j0l4.6608j0j7&sourceid=chrome&ie=UTF-8
+* [mormon.org/por/pessoas](https://www.mormon.org/por/pessoas)
+* [google.com/search?q=documentario+sobre+Ronaldo&oq=documentario+sobre+Ronaldo&aqs=chrome..69i57j0l4.6608j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=documentario+sobre+Ronaldo&oq=documentario+sobre+Ronaldo&aqs=chrome..69i57j0l4.6608j0j7&sourceid=chrome&ie=UTF-8)
 * [Fútbol11](https://www.youtube.com/channel/UC4exwvBcq8FoIy2IKv6iZsQ)
 * [DocTops](https://www.youtube.com/channel/UCAolsolgHiURrQBuZ4qe0lg?feature=autonav)
 * [Pablogonzae](https://www.youtube.com/channel/UC2yUZyomTQceIXk7ydn3ALA)
@@ -2189,40 +2189,40 @@
 * Extr@, Malviviendo
 * Shows
 * [FLOOXER | Los mejores videos de Internet. Atresmedia](http://www.flooxer.com/)
-* https://vk.com/topic-30957375_25353197
-* http://comoestas.ru/category/films
-* http://lared.cl/senal-online
-* http://www.hispantv.com/
-* http://www.history.com/schedule/esp-mil
-* https://vk.com/audios-18102521
-* http://www.leerescuchando.net/
-* http://audioteca.cultura.gob.ar/web/listadoporcatalogo.php?id=1
-* http://www.leerescuchando.net/don-quijote-de-la-mancha-30
-* http://www.rtve.es/television/para-todos-la-2/
-* https://www.mormon.org/spa/gente
-* http://agenciapulsar.org/
+* [vk.com/topic-30957375_25353197](https://vk.com/topic-30957375_25353197)
+* [comoestas.ru/category/films](http://comoestas.ru/category/films)
+* [lared.cl/senal-online](http://lared.cl/senal-online)
+* [hispantv.com/](http://www.hispantv.com/)
+* [history.com/schedule/esp-mil](http://www.history.com/schedule/esp-mil)
+* [vk.com/audios-18102521](https://vk.com/audios-18102521)
+* [leerescuchando.net/](http://www.leerescuchando.net/)
+* [audioteca.cultura.gob.ar/web/listadoporcatalogo.php?id=1](http://audioteca.cultura.gob.ar/web/listadoporcatalogo.php?id=1)
+* [leerescuchando.net/don-quijote-de-la-mancha-30](http://www.leerescuchando.net/don-quijote-de-la-mancha-30)
+* [rtve.es/television/para-todos-la-2/](http://www.rtve.es/television/para-todos-la-2/)
+* [mormon.org/spa/gente](https://www.mormon.org/spa/gente)
+* [agenciapulsar.org/](http://agenciapulsar.org/)
 * [perevod-ka](https://www.youtube.com/channel/UCsrdd1dtxxY5w4Aoesxxe9Q)
 * [Internautismo](https://www.youtube.com/user/internautismocronico?hl=es&gl=ES)
-* https://www.youtube.com/watch?v=i2FN-PRrBfw&list=PL3v1By3mFXyFdc1cNeQW0rjCn4FhufmwS
-* https://www.duolingo.com/comment/1652738
-* http://www.bbc.co.uk/languages/spanish/
-* http://www.fluentu.com/spanish/blog/spanish-tv-shows/
-* http://www.learner.org/series/destinos/
-* http://www.cosmopolitan.com/entertainment/tv/a33159/spanish-language-shows-to-binge-watch/
-* http://www.fu-teneriffa.de/spanische-filme-zum-lernen/
-* http://www.univision.com/novelas
+* [](https://www.youtube.com/watch?v=i2FN-PRrBfw&list=PL3v1By3mFXyFdc1cNeQW0rjCn4FhufmwS)
+* [duolingo.com/comment/1652738](https://www.duolingo.com/comment/1652738)
+* [bbc.co.uk/languages/spanish/](http://www.bbc.co.uk/languages/spanish/)
+* [fluentu.com/spanish/blog/spanish-tv-shows/](http://www.fluentu.com/spanish/blog/spanish-tv-shows/)
+* [learner.org/series/destinos/](http://www.learner.org/series/destinos/)
+* [cosmopolitan.com/entertainment/tv/a33159/spanish-language-shows-to-binge-watch/](http://www.cosmopolitan.com/entertainment/tv/a33159/spanish-language-shows-to-binge-watch/)
+* [fu-teneriffa.de/spanische-filme-zum-lernen/](http://www.fu-teneriffa.de/spanische-filme-zum-lernen/)
+* [univision.com/novelas](http://www.univision.com/novelas)
 * Don Quixote
-* http://www.telecinco.es/tvmovies/anna-karenina/Anna-Karenina-Parte_2_1739880199.html
-* http://www.fluentu.com/spanish/blog/spanish-tv-shows/
+* [telecinco.es/tvmovies/anna-karenina/Anna-Karenina-Parte_2_1739880199.html](http://www.telecinco.es/tvmovies/anna-karenina/Anna-Karenina-Parte_2_1739880199.html)
+* [fluentu.com/spanish/blog/spanish-tv-shows/](http://www.fluentu.com/spanish/blog/spanish-tv-shows/)
 * [Bendiceme, ultima HD Español](https://www.youtube.com/watch?v=UV3NQDSEnmQ)
 * [Abençoe-me, Ultima - A Curandeira](https://www.youtube.com/watch?v=JLfhZQYUCfQ)
-* https://www.videoele.com/menu_A1.html
-* https://vimeo.com/channels/41579
+* [videoele.com/menu_A1.html](https://www.videoele.com/menu_A1.html)
+* [vimeo.com/channels/41579](https://vimeo.com/channels/41579)
 * malviviendo
-* http://www.cepal.org/es/videos-da-cepal-em-portugues
-* http://www.rtve.es/directo/la-1/
-* http://www.byutvi.org/es
-* http://telemicro.com.do/web/telemicro-en-vivo/
+* [cepal.org/es/videos-da-cepal-em-portugues](http://www.cepal.org/es/videos-da-cepal-em-portugues)
+* [rtve.es/directo/la-1/](http://www.rtve.es/directo/la-1/)
+* [byutvi.org/es](http://www.byutvi.org/es)
+* [telemicro.com.do/web/telemicro-en-vivo/](http://telemicro.com.do/web/telemicro-en-vivo/)
 * [10 lezioni del maestro taoista Lao Tzu](https://www.youtube.com/watch?v=igVuLap__XI&list=WL&index=56) (TAOISMO)
 * [El Efecto](https://www.youtube.com/watch?v=4aN5TbGW5JA&list=WL&index=61) Pigmalión
 * [¿Es el éxito suerte o trab](https://www.youtube.com/watch?v=3LopI4YeC4I&list=WL&index=113)ajo duro?
@@ -2285,7 +2285,7 @@
 * [Wyoming a Fátima Báñez: &quot;¡Me gustaría vivir en su mundo, sin precariedad laboral femenina!&quot; - YouTube](https://www.youtube.com/watch?v=I7n0YFlYBXk)
 * [El Gran Wyoming: El ser humano es idiota](https://www.youtube.com/watch?v=ovVM9tLu5lY)
 * [Leo Harlem: Metrosexuales - El Club de la Comedia](https://www.youtube.com/watch?v=bQrRuLuCIVc)
-* https://www.ted.com/talks?language=es&sort=newest
+* [ted.com/talks?language=es&sort=newest](https://www.ted.com/talks?language=es&sort=newest)
 * Learn Spanish: 150 Common Spanish Phrasesde Polyglot Pablo
 * Mario Vargas Llosa
 * [Así reaccionan los actores ante las preguntas sexistas que soportan las actrices - YouTube](https://www.youtube.com/watch?v=Zu68o4iw1UU)
@@ -2308,11 +2308,11 @@
 * [Problemas Disney - PARODIA (+14)](https://www.youtube.com/watch?v=IScAVC_2A_A)
 * [LA BELLA Y LA BESTIA EN ANDALUCÍA](https://www.youtube.com/watch?v=ggbtCAN6JgE)
 * [BRODWEI](https://www.youtube.com/channel/UCU_nCLG8XiIo9i_st8LZCJA)
-* https://www.youtube.com/results?search_query=hormiguero
+* [](https://www.youtube.com/results?search_query=hormiguero)
 * [se eu fosse voce subtitulado portugues](https://www.youtube.com/results?search_query=se+eu+fosse+voce+subtitulado+portugues+)
 * [Até Que A Sorte Nos Separe HD](https://www.youtube.com/watch?v=ktkoUPOoHFg)
 * Armas, germenes y acero - 1x01 La Conquista - Documental completode Ulises Jobs
-* https://www.youtube.com/watch?v=U1WCUuE-27Q
+* [](https://www.youtube.com/watch?v=U1WCUuE-27Q)
 * [Bajo el árbol del bosque - Under The Greenwood Tree 2006 VOS español](https://www.youtube.com/watch?v=aN5HY2RzDJE&list=PLVWtXi_Jrj_107IGfxlFXnWNHz-vhPGm6&index=5)
 * [Enciclopedia infinita](https://www.youtube.com/channel/UC-APvpafM3OpUoMx0cetFCQ)
 * [Michael Moore en Trumpland (en español)](https://www.youtube.com/watch?v=w668zZeej7g&list=WL&index=149)
@@ -2507,17 +2507,17 @@
 * [Arata Academy](https://www.youtube.com/user/arataacademy)
 * [Ciência Todo Dia](https://www.youtube.com/user/CienciaTodoDia)
 * [Física Fábris](https://www.youtube.com/user/Fabrisfisica)
-* https://www.ted.com/talks?language=pt-br&sort=newest
-* http://www.byutvi.org/pt
-* http://globointernacional.globo.com/Americas/Paginas/home.aspx
-* http://www.rtp.pt/play/direto/rtpinternacional
-* http://tvbrasil.ebc.com.br/webtv
-* http://www.mosalingua.com/es/las-mejores-peliculas-brasilenas-para-aprender-portugues/
-* https://pt.wikipedia.org/wiki/Ribeir%C3%A3o_do_Tempo
+* [ted.com/talks?language=pt-br&sort=newest](https://www.ted.com/talks?language=pt-br&sort=newest)
+* [byutvi.org/pt](http://www.byutvi.org/pt)
+* [globointernacional.globo.com/Americas/Paginas/home.aspx](http://globointernacional.globo.com/Americas/Paginas/home.aspx)
+* [rtp.pt/play/direto/rtpinternacional](http://www.rtp.pt/play/direto/rtpinternacional)
+* [tvbrasil.ebc.com.br/webtv](http://tvbrasil.ebc.com.br/webtv)
+* [mosalingua.com/es/las-mejores-peliculas-brasilenas-para-aprender-portugues/](http://www.mosalingua.com/es/las-mejores-peliculas-brasilenas-para-aprender-portugues/)
+* [pt.wikipedia.org/wiki/Ribeir%C3%A3o_do_Tempo](https://pt.wikipedia.org/wiki/Ribeir%C3%A3o_do_Tempo)
 * Avenida Brasil
 * Filhos do Carnaval
 * Cidade dos Homens
-* https://www.duolingo.com/comment/2036840/Old-Portuguese-movies-with-Portuguese-subtitles
+* [duolingo.com/comment/2036840/Old-Portuguese-movies-with-Portuguese-subtitles](https://www.duolingo.com/comment/2036840/Old-Portuguese-movies-with-Portuguese-subtitles)
 * [FIM D](https://www.youtube.com/watch?v=FV8NtxKpvL8&list=WL&index=1035&t=3s)O RACISMO
 * [VIR](https://www.youtube.com/watch?v=V8dWUB-71ng&list=WL&index=607)ANDO ATEU
 * [VOCÊ TAPA A SUA WEBCAM? Olha o que rolou com a minha namorada - Gab](https://www.youtube.com/watch?v=2bpAg2QI-HM&list=WL&index=272)riel Pato
@@ -2576,7 +2576,7 @@
 * [SCIENZE - Biologia](https://www.youtube.com/playlist?list=PLsLBNKs3-032cD7YT90hg6PNafPq3mBFy)
 * [Lezioni di Biologia](https://www.youtube.com/playlist?list=PLelpqUDzsQf0fyjeUmxal7yRmUScfq5CY)
 * [Gianluca Fraula](https://www.youtube.com/channel/UCpFkvd8zEgyCOoeHev18Djw)
-* https://www.youtube.com/c/NovaLectio
+* [](https://www.youtube.com/c/NovaLectio)
 
 
 * [****Rockslator Official - YouTube - YouTube](https://www.youtube.com/channel/UC_N4DD08HZSV3-ODnWY4FMg)
@@ -2656,7 +2656,7 @@
 * [Italiano](https://www.youtube.com/watch?v=l9oSxxGXXgg&list=PLVWtXi_Jrj_2hNuBs3nQ8kn-udQ4xtNch)
 * [Pio - l'italiano vero](https://www.youtube.com/channel/UC1EBcXLrLn5qAH08CswbJFA)
 * [Oneworlditaliano](https://www.youtube.com/user/Oneworlditaliano)
-* https://www.reddit.com/r/italy/comments/3ihz7o/canali_youtube_educativiscientifici/
+* [](https://www.reddit.com/r/italy/comments/3ihz7o/canali_youtube_educativiscientifici/)
 * [Ситуативный итальянский, уровень B1-B2](https://youtube.com/channel/UC84_PJpGWDxph_c9B4fZI7g?feature=hovercard)
 * [SilverBrain](https://www.youtube.com/channel/UCVjzbQXy8_xDV1cl95tS9cA)
 * [Quby](https://www.youtube.com/channel/UCI3XcL_WSds44T2oA3Q108g)
@@ -2685,7 +2685,7 @@
 * [Dott. MIRCO PALADINI - YouTube - YouTube](https://www.youtube.com/channel/UCy4vGhKB87-ZwyBXXaUw9xw/playlists)
 * [Fanpage.it - YouTube - YouTube](https://www.youtube.com/user/FanpageMedia)
 * [Fisica della professoressa Ida - YouTube - YouTube](https://www.youtube.com/channel/UC9cyXaiCzEFS2cYqz5_VtQA/playlists)
-* https://www.youtube.com/user/lartespiegataitruzzi
+* [](https://www.youtube.com/user/lartespiegataitruzzi)
 * [GhillyComics - YouTube](https://www.youtube.com/user/Ghilly666)
 * [Capire la Politica - YouTube](https://www.youtube.com/channel/UCXX2VCwMbrz_k0dxImC_eeQ)
 * [MoTeLoSpiego - YouTube](https://www.youtube.com/user/MoTeLoSpiego)
@@ -2709,8 +2709,8 @@
 * [Treccani Scuola - YouTube - YouTube](https://www.youtube.com/channel/UCZTPemJj_RULY9L_rnpGgEQ/playlists)
 * [Vincenzo Panzeca - YouTube - YouTube](https://www.youtube.com/channel/UCkl6J1IQxtNswmEIBbMY1xQ/playlists)
 * [zucchero - YouTube](https://www.youtube.com/results?search_query=zucchero)
-* https://www.youtube.com/playlist?list=PLqWy90X9Heyqts8mMMv9Oj0jdEiVl4q29
-* https://www.youtube.com/playlist?list=PLpWN7v7_VZFBjcJ3enQut0N3gtVFeV5Az
+* [](https://www.youtube.com/playlist?list=PLqWy90X9Heyqts8mMMv9Oj0jdEiVl4q29)
+* [](https://www.youtube.com/playlist?list=PLpWN7v7_VZFBjcJ3enQut0N3gtVFeV5Az)
 * ummanews
 * [Italiano](https://www.youtube.com/watch?v=6PQIDdhq1_o&list=PLVWtXi_Jrj_2hNuBs3nQ8kn-udQ4xtNch)
 * Prolingoo Italian
@@ -2719,16 +2719,16 @@
 * Italianamente
 * [le scienze - YouTube](https://www.youtube.com/results?sp=EgIQAg%253D%253D&search_query=le+scienze)
 * <- add YT channel Ripetizione...
-* https://www.youtube.com/results?search_query=come+leggere+dostoevski
-* https://www.happylanguages.co.uk/top-five-italian-youtubers/
-* https://www.ted.com/talks?language=it&sort=newest
+* [](https://www.youtube.com/results?search_query=come+leggere+dostoevski)
+* [](https://www.happylanguages.co.uk/top-five-italian-youtubers/)
+* [ted.com/talks?language=it&sort=newest](https://www.ted.com/talks?language=it&sort=newest)
 * [Italianskie filmy s subtitrami](https://vk.com/wall-41813993_263687)
-* http://www.lechlecha.me/
+* [lechlecha.me/](http://www.lechlecha.me/)
 * [Prima Pagina](http://www.tvsvizzera.it/tvs)
-* http://www.italiano.rai.it/livello-unita/unit%C3%A0-1/560/487/default.aspx
-* http://www.italiano.rai.it/articolo-unita/benvenuti-in-casa-ba-una-nuova-famiglia/19816/609/default.aspx
-* http://www.cultura.rai.it/
-* https://www.youtube.com/results?search_query=Signor+Rossi
+* [italiano.rai.it/livello-unita/unit%C3%A0-1/560/487/default.aspx](http://www.italiano.rai.it/livello-unita/unit%C3%A0-1/560/487/default.aspx)
+* [italiano.rai.it/articolo-unita/benvenuti-in-casa-ba-una-nuova-famiglia/19816/609/default.aspx](http://www.italiano.rai.it/articolo-unita/benvenuti-in-casa-ba-una-nuova-famiglia/19816/609/default.aspx)
+* [cultura.rai.it/](http://www.cultura.rai.it/)
+* [](https://www.youtube.com/results?search_query=Signor+Rossi)
 * [UMIF](http://www.rai.it/dl/RaiTV/programmi/page/Page-a43f2d43-1639-45a0-8533-02c95a3b3a08.html)
 * [Классные мультфильмы на итальянском!](https://vk.com/wall-41813993_263127)
 * [Impara Javascript | Corso completo di programmazione per pri](https://www.youtube.com/watch?v=jayqQsIjrGg&list=WL&index=808)ncipianti
@@ -2890,8 +2890,8 @@
 * [BRIAN DI NAZARETH - [Film Completo HD] - Doppiaggio Originale Restaurato](https://www.youtube.com/watch?v=LaP1NlQeLv4&list=PLVWtXi_Jrj_2hNuBs3nQ8kn-udQ4xtNch&index=7)
 * - 9* - 9b* - 10* - 11* - 11/12* - 12* - 13* - 14* - 15* - 16* - 17* - 18* - 19* - 21* - 24* - 26+
 * Lectura* - 0
-* https://forum-helveticum.ch/fr/
-* http://libgen.is/search.php?&req=scrum&phrase=1&view=simple&column=def&sort=language&sortmode=DESC
+* [forum-helveticum.ch/fr/](https://forum-helveticum.ch/fr/)
+* [libgen.is/search.php?&req=scrum&phrase=1&view=simple&column=def&sort=language&sortmode=DESC](http://libgen.is/search.php?&req=scrum&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
 * [Fifty greatest modern love poems list embraces 30 different countries | Books | The Guardian](https://www.theguardian.com/books/2014/jul/02/fifty-greatest-love-poems-30-different-countries)
 * [History Books & Magazines](https://vk.com/vk_historical)
 * [Sci-Hub | Открытый доступ к научной информации](https://vk.com/sci_hub)
@@ -2937,66 +2937,66 @@
 * Polyglot memes.
 * [Political Science Library](https://vk.com/politicalbooksion)
 * - 1
-* http://everything2.com/
-* http://www.loyalbooks.com/
-* http://www.thriftbooks.com/
-* http://www.planetpublish.com/
+* [everything2.com/](http://everything2.com/)
+* [loyalbooks.com/](http://www.loyalbooks.com/)
+* [thriftbooks.com/](http://www.thriftbooks.com/)
+* [planetpublish.com/](http://www.planetpublish.com/)
 * HBLL Magazines
-* https://ebooks.adelaide.edu.au/
-* http://www.bartleby.com/
-* [https://www.etymonline.com](https://www.etymonline.com/)
-* http://phrontistery.info/
+* [ebooks.adelaide.edu.au/](https://ebooks.adelaide.edu.au/)
+* [bartleby.com/](http://www.bartleby.com/)
+* [etymonline.com](https://www.etymonline.com/)
+* [phrontistery.info/](http://phrontistery.info/)
 * [English Vocabulary Quizzes - Difficult](http://a4esl.org/a/v5.html)
-* https://ec.europa.eu/epale/en/content/more-cupla-focail-how-learn-language-just-three-months
-* http://www.dialectsarchive.com/
-* https://speak-the-speech.org/
-* http://www.openculture.com/freeaudiobooks
-* http://www.dialectsarchive.com/
-* https://linguapress.com/grammar/
-* http://www.thepublicdiscourse.com/
-* http://www.ninamunk.com/reviews.php
-* http://ask.metafilter.com/167755/What-are-the-best-articles-ever-published-by-Harpers-magazine
+* [ec.europa.eu/epale/en/content/more-cupla-focail-how-learn-language-just-three-months](https://ec.europa.eu/epale/en/content/more-cupla-focail-how-learn-language-just-three-months)
+* [dialectsarchive.com/](http://www.dialectsarchive.com/)
+* [speak-the-speech.org/](https://speak-the-speech.org/)
+* [openculture.com/freeaudiobooks](http://www.openculture.com/freeaudiobooks)
+* [dialectsarchive.com/](http://www.dialectsarchive.com/)
+* [linguapress.com/grammar/](https://linguapress.com/grammar/)
+* [thepublicdiscourse.com/](http://www.thepublicdiscourse.com/)
+* [ninamunk.com/reviews.php](http://www.ninamunk.com/reviews.php)
+* [ask.metafilter.com/167755/What-are-the-best-articles-ever-published-by-Harpers-magazine](http://ask.metafilter.com/167755/What-are-the-best-articles-ever-published-by-Harpers-magazine)
 * Canterbury Tales
-* http://www.greatsite.com/timeline-english-bible-history/
-* http://www.psychologos.ru/articles/view/povedencheskaya_ekonomika
+* [greatsite.com/timeline-english-bible-history/](http://www.greatsite.com/timeline-english-bible-history/)
+* [psychologos.ru/articles/view/povedencheskaya_ekonomika](http://www.psychologos.ru/articles/view/povedencheskaya_ekonomika)
 * Aeon | a world of ideas
 * [ATNNow - All the News Now](https://www.atnnow.com/)
 * [Great Books and Classics - Welcome](http://www.grtbooks.com/default.asp)
 * [http://1woozoo.blogspot.com/ - blog about feminism](http://1woozoo.blogspot.com/)
-* http://acculturated.com/
-* http://everything2.com/
-* http://unsolicitedopinion.blogspot.com/
-* http://vernunft.org/
-* http://www.foundalis.com/
-* http://www.hluce.org/
-* https://aswwu.com/collegian/author/heather-ruiz/
-* https://erikreads.wordpress.com/
-* https://limeokapi.wordpress.com/page/2/
-* https://psmag.com/
-* https://www.acrossthepage.net/
-* https://www.popmatters.com/
+* [acculturated.com/](http://acculturated.com/)
+* [everything2.com/](http://everything2.com/)
+* [unsolicitedopinion.blogspot.com/](http://unsolicitedopinion.blogspot.com/)
+* [vernunft.org/](http://vernunft.org/)
+* [foundalis.com/](http://www.foundalis.com/)
+* [hluce.org/](http://www.hluce.org/)
+* [aswwu.com/collegian/author/heather-ruiz/](https://aswwu.com/collegian/author/heather-ruiz/)
+* [erikreads.wordpress.com/](https://erikreads.wordpress.com/)
+* [limeokapi.wordpress.com/page/2/](https://limeokapi.wordpress.com/page/2/)
+* [psmag.com/](https://psmag.com/)
+* [acrossthepage.net/](https://www.acrossthepage.net/)
+* [popmatters.com/](https://www.popmatters.com/)
 * [Quomodocumque | Math, Madison, food, the Orioles, books, my kids.](https://quomodocumque.wordpress.com/)
 * [RationalWiki](http://ru.rationalwiki.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0)
-* [www.vox.com](http://www.vox.com/)
+* [vox.com](http://www.vox.com/)
 * [Yuval Noah Harari - Haaretz - Israel News | Haaretz.com](https://www.haaretz.com/misc/writers/1.4970446)
-* https://en.wikipedia.org/wiki/The_Pan-Arabia_Enquirer
+* [en.wikipedia.org/wiki/The_Pan-Arabia_Enquirer](https://en.wikipedia.org/wiki/The_Pan-Arabia_Enquirer)
 * [Sophocle: Électre - Google Libri](https://books.google.com/books/about/Sophocle_%C3%89lectre.html?hl=it&id=DGZIAAAAYAAJ)
 * [Ken Robinson rebuttal | Ed Tech Now](https://edtechnow.net/guest-posts/ken-robinson-rebuttal/)
 * [Ken Robinson: Wie Schulen die Kreativität töten – TEDTalk – HIMMELENDE](http://himmelende.de/2014/06/29/ken-robinson-schule-kreativitaet-kinder-toeten-tedtalk/)
 * [Kritik an moderner Bildung - Friedrich Nietzsche – Narabo](https://narabo.de/kritik-an-moderner-bildung-friedrich-nietzsche)
-* https://www.youtube.com/user/chomskysphilosophy
-* https://www.youtube.com/user/IntelligenceSquared
-* https://www.youtube.com/user/iqsquared
-* http://www.opensecrets.org/resources/learn/timeline.php
+* [](https://www.youtube.com/user/chomskysphilosophy)
+* [](https://www.youtube.com/user/IntelligenceSquared)
+* [](https://www.youtube.com/user/iqsquared)
+* [opensecrets.org/resources/learn/timeline.php](http://www.opensecrets.org/resources/learn/timeline.php)
 * [Responding to Jordan Peterson - YouTube](https://www.youtube.com/playlist?list=PLCgW8bgP5lDGDpX5Z1dfQiMbzv5vDjJr3)
 * From Reagan to Trump: The sorry tale of Republican Russophilia – Eurozine
-* https://psmag.com/
+* [psmag.com/](https://psmag.com/)
 * Adaptation, not fossilization – Eurozine
 * Some conditions of a viable democracy – Eurozine
 * Is there illiberal democracy? – Eurozine
-* https://embedible-ios.soft112.com/
-* https://it.wikipedia.org/wiki/Categoria:Periodici_per_lingua_di_pubblicazione
-* [www.apost.com](http://www.apost.com/)
+* [embedible-ios.soft112.com/](https://embedible-ios.soft112.com/)
+* [it.wikipedia.org/wiki/Categoria:Periodici_per_lingua_di_pubblicazione](https://it.wikipedia.org/wiki/Categoria:Periodici_per_lingua_di_pubblicazione)
+* [apost.com](http://www.apost.com/)
 * Book Club.
 * The Dialectic Table.
 * Philosophy & Wisdom - ( The Original & Authentic Forum ).
@@ -3114,37 +3114,37 @@
 * Calm down there mister star spangled banner.
 * A group where we pretend to work at the ANTIFA office.
 * - 2
-* https://www.ted.com/talks?language=ru&sort=newest
-* https://khabaroff.com/
+* [ted.com/talks?language=ru&sort=newest](https://www.ted.com/talks?language=ru&sort=newest)
+* [khabaroff.com/](https://khabaroff.com/)
 * [Познер Online – Официальный сайт Владимира Познера](https://pozneronline.ru/)
 * Мертвые души
-* http://www.rferl.org/content/twenty-russian-news-outlets-you-need-to-read-before-they-get-the-axe/25317371.html
+* [rferl.org/content/twenty-russian-news-outlets-you-need-to-read-before-they-get-the-axe/25317371.html](http://www.rferl.org/content/twenty-russian-news-outlets-you-need-to-read-before-they-get-the-axe/25317371.html)
 * [Russian Books Everyone Should Read](https://theculturetrip.com/europe/russia/articles/12-contemporary-russian-books-everyone-should-read/)
-* https://bibe.ru/
+* [bibe.ru/](https://bibe.ru/)
 * [Side-by-side Translations](https://geohistory.today/category/in-translation/)
-* http://sobiratelzvezd.ru/
-* https://ru.wikiquote.org/wiki/%D0%A4%D1%91%D0%B4%D0%BE%D1%80_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87_%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9
-* https://naukatv.ru/
-* http://os.colta.ru/
-* https://moya-planeta.ru/
-* http://ponjatija.ru/
-* http://rusdemotivator.ru/
-* http://www.allyoucanread.com/russian-newspapers/
-* http://www.bazaluk.com/
-* http://www.chaskor.ru/
-* http://www.logosjournal.ru/
-* http://www.mudriyfilosof.ru/
-* http://www.runivers.ru/
-* https://arzamas.academy/special/ruslit
-* https://litnet.com/ru
-* https://makeright.ru/
-* https://ok.ru/
-* [https://smi2.ru](https://smi2.ru/newdata/adpreview?ad=2639142&bl=85396&ct=adpreview&st=14&ab=a&utm_campaign=44199&utm_term=3aced942-30d4-4070-ab8c-7a0bc2a08f69)
-* https://twitter.com/uligerchin
-* https://vinepoverite.ru/
-* https://vk.com/calvinandhobbesclub
-* https://www.colta.ru/
-* https://www.quora.com/How-can-I-start-learning-Swiss-German-when-I-have-a-reasonable-grasp-of-High-German
+* [sobiratelzvezd.ru/](http://sobiratelzvezd.ru/)
+* [ru.wikiquote.org/wiki/%D0%A4%D1%91%D0%B4%D0%BE%D1%80_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87_%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9](https://ru.wikiquote.org/wiki/%D0%A4%D1%91%D0%B4%D0%BE%D1%80_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87_%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9)
+* [naukatv.ru/](https://naukatv.ru/)
+* [os.colta.ru/](http://os.colta.ru/)
+* [moya-planeta.ru/](https://moya-planeta.ru/)
+* [ponjatija.ru/](http://ponjatija.ru/)
+* [rusdemotivator.ru/](http://rusdemotivator.ru/)
+* [allyoucanread.com/russian-newspapers/](http://www.allyoucanread.com/russian-newspapers/)
+* [bazaluk.com/](http://www.bazaluk.com/)
+* [chaskor.ru/](http://www.chaskor.ru/)
+* [logosjournal.ru/](http://www.logosjournal.ru/)
+* [mudriyfilosof.ru/](http://www.mudriyfilosof.ru/)
+* [runivers.ru/](http://www.runivers.ru/)
+* [arzamas.academy/special/ruslit](https://arzamas.academy/special/ruslit)
+* [litnet.com/ru](https://litnet.com/ru)
+* [makeright.ru/](https://makeright.ru/)
+* [ok.ru/](https://ok.ru/)
+* [smi2.ru](https://smi2.ru/newdata/adpreview?ad=2639142&bl=85396&ct=adpreview&st=14&ab=a)
+* [twitter.com/uligerchin](https://twitter.com/uligerchin)
+* [vinepoverite.ru/](https://vinepoverite.ru/)
+* [vk.com/calvinandhobbesclub](https://vk.com/calvinandhobbesclub)
+* [colta.ru/](https://www.colta.ru/)
+* [quora.com/How-can-I-start-learning-Swiss-German-when-I-have-a-reasonable-grasp-of-High-German](https://www.quora.com/How-can-I-start-learning-Swiss-German-when-I-have-a-reasonable-grasp-of-High-German)
 * laba.media
 * [postnauka.ru](http://postnauka.ru/)
 * [takiedela.ru](http://takiedela.ru/)
@@ -3156,39 +3156,39 @@
 * [Мастриды](https://vk.com/wall-96047932_16286)
 * [Проза.ру](https://www.proza.ru/)
 * [«Горький» — Книжная полка](https://gorky.media/books/)
-* https://meduza.io/
-* http://www.chaskor.ru/
+* [meduza.io/](https://meduza.io/)
+* [chaskor.ru/](http://www.chaskor.ru/)
 * [Гумер](https://www.gumer.info/)
-* https://pushkininstitute.ru/
+* [pushkininstitute.ru/](https://pushkininstitute.ru/)
 * [Kstati Russian American News and Views | Politics, Business, Culture and Lifestyle News](http://kstati.net/)
 * [Новости США - В Новом Свете - V Novom Svete](http://www.vnovomsvete.com/)
-* https://granumsalis.ru/
+* [granumsalis.ru/](https://granumsalis.ru/)
 * [Сайт о русском национализме](http://iamruss.ru/)
-* http://www.textologia.ru/
-* http://blogs.pravda.com.ua/authors/leschenko/
-* http://www.socionauki.ru/
-* http://www.itogi.ru/
-* http://rb.ru/
-* http://citaty.info/
-* http://fit4brain.com/
-* http://blog.olegdubas.com/
-* http://kavpolit.com/blogs/american/
-* http://eyr.byu.edu/
-* http://www.colta.ru/
-* http://tolstoy.ru/
-* http://briefly.ru/
-* https://www.fedordostoevsky.ru/
+* [textologia.ru/](http://www.textologia.ru/)
+* [blogs.pravda.com.ua/authors/leschenko/](http://blogs.pravda.com.ua/authors/leschenko/)
+* [socionauki.ru/](http://www.socionauki.ru/)
+* [itogi.ru/](http://www.itogi.ru/)
+* [rb.ru/](http://rb.ru/)
+* [citaty.info/](http://citaty.info/)
+* [fit4brain.com/](http://fit4brain.com/)
+* [blog.olegdubas.com/](http://blog.olegdubas.com/)
+* [kavpolit.com/blogs/american/](http://kavpolit.com/blogs/american/)
+* [eyr.byu.edu/](http://eyr.byu.edu/)
+* [colta.ru/](http://www.colta.ru/)
+* [tolstoy.ru/](http://tolstoy.ru/)
+* [briefly.ru/](http://briefly.ru/)
+* [fedordostoevsky.ru/](https://www.fedordostoevsky.ru/)
 * [История Вики | FANDOM powered by Wikia](http://ru.history.wikia.com/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0)
-* http://az.lib.ru/
-* http://karpachoff.com/
-* http://www.langust.ru/lang-c.shtml
+* [az.lib.ru/](http://az.lib.ru/)
+* [karpachoff.com/](http://karpachoff.com/)
+* [langust.ru/lang-c.shtml](http://www.langust.ru/lang-c.shtml)
 * [Slavic Family | Radio Slavic Family | Russian Radio Portland](http://slavicfamily.org/)
 * [Russkiy_yazyk_na_grani_nervnogo_spyva.pdf](https://vk.com/doc30601958_571717980?hash=9d3782eb4aa232ebb7&dl=31d769fee7da6f80b8)
 * [«Книжный чел» с Александром Фарсайтом:](http://youtu.be/3w-rWkcd4OQ)
-* http://magazines.russ.ru/authors/k/kantor
-* http://magazines.russ.ru/nz/2003/29/rec-pr.html
-* http://mi3ch.livejournal.com/3454122.html
-* https://briefly.ru/dostoevsky/besy/
+* [magazines.russ.ru/authors/k/kantor](http://magazines.russ.ru/authors/k/kantor)
+* [magazines.russ.ru/nz/2003/29/rec-pr.html](http://magazines.russ.ru/nz/2003/29/rec-pr.html)
+* [mi3ch.livejournal.com/3454122.html](http://mi3ch.livejournal.com/3454122.html)
+* [briefly.ru/dostoevsky/besy/](https://briefly.ru/dostoevsky/besy/)
 * [Кандидат у президенти нагріб у Давосі безкоштовних шапок, його спинила охорона [Любовь к шапкам это наше]](https://www.reddit.com/r/ukraina/comments/ajcriv/%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82_%D1%83_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8_%D0%BD%D0%B0%D0%B3%D1%80%D1%96%D0%B1_%D1%83_%D0%B4%D0%B0%D0%B2%D0%BE%D1%81%D1%96/)
 * [мудак — Викисловарь](https://ru.wiktionary.org/wiki/%D0%BC%D1%83%D0%B4%D0%B0%D0%BA)
 * [под знаком - Перевод на английский - примеры русский | Reverso Context](http://context.reverso.net/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9/%D0%BF%D0%BE%D0%B4+%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC)
@@ -3208,8 +3208,8 @@
 * [Юрий Александрович Безменов - Ecosia](https://www.ecosia.org/videos?q=%D0%AE%D1%80%D0%B8%D0%B9+%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87+%D0%91%D0%B5%D0%B7%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2)
 * Citaty
 * Garry Kasparov
-* http://humanitar.ru/page/ch1_18
-* http://humanitar.ru/page/ch1_4
+* [humanitar.ru/page/ch1_18](http://humanitar.ru/page/ch1_18)
+* [humanitar.ru/page/ch1_4](http://humanitar.ru/page/ch1_4)
 * [8) Первый выпуск «Терминального чтива» с Робертом Саргсяном:](http://vk.com/wall-96047932_14171)
 * [Newочём](https://vk.com/newochem)
 * [АРХИПЕЛАГ ГУЛАГ / АЛЕКСАНДР СОЛЖЕНИЦЫН / ЧАСТЬ 1 / ПОЛИТИЧЕСКИЕ РЕПРЕССИИ / СТАЛИН - YouTube](https://www.youtube.com/watch?v=z5NI2slXxl0)
@@ -3225,14 +3225,14 @@
 
 * [**Сочинения, биографии, краткие содержания и готовые домашние задания - ALLSOCH.RU](https://www.allsoch.ru/)
 * [Aeon Magazine | Издание | ИноСМИ - Все, что достойно перевода](https://inosmi.ru/aeon_co/)
-* http://fognews.ru/vykhodite-devki-zamuzh-da-igrayte-svade.html
-* http://fognews.ru/ya-dokazhu-vam-predanno-i-ryano.html
-* http://gefter.ru/archive/16993
-* http://gefter.ru/archive/author/j_gray
-* http://gefter.ru/archive/author/kantor
-* http://lib.ssga.ru/fulltext/UMK/090103/1%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D1%8F%D0%B7%D1%8B%D0%BA%20%D0%B8%20%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0%20%D1%80%D0%B5%D1%87%D0%B8/090103%20%D0%9A%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D1%8F%D0%B7%D1%8B%D0%BA%20%D0%B8%20%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0%20%D1%80%D0%B5%D1%87%D0%B8%202011.pdf
-* http://ruxpert.ru/%D0%92%D1%8B%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%B0_%D0%9F%D1%83%D1%82%D0%B8%D0%BD%D0%B0#1999
-* http://ruxpert.ru/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA_%D0%BF%D0%B0%D1%82%D1%80%D0%B8%D0%BE%D1%82%D0%B0
+* [fognews.ru/vykhodite-devki-zamuzh-da-igrayte-svade.html](http://fognews.ru/vykhodite-devki-zamuzh-da-igrayte-svade.html)
+* [fognews.ru/ya-dokazhu-vam-predanno-i-ryano.html](http://fognews.ru/ya-dokazhu-vam-predanno-i-ryano.html)
+* [gefter.ru/archive/16993](http://gefter.ru/archive/16993)
+* [gefter.ru/archive/author/j_gray](http://gefter.ru/archive/author/j_gray)
+* [gefter.ru/archive/author/kantor](http://gefter.ru/archive/author/kantor)
+* [lib.ssga.ru/fulltext/UMK/090103/1%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D1%8F%D0%B7%D1%8B%D0%BA%20%D0%B8%20%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0%20%D1%80%D0%B5%D1%87%D0%B8/090103%20%D0%9A%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D1%8F%D0%B7%D1%8B%D0%BA%20%D0%B8%20%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0%20%D1%80%D0%B5%D1%87%D0%B8%202011.pdf](http://lib.ssga.ru/fulltext/UMK/090103/1%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D1%8F%D0%B7%D1%8B%D0%BA%20%D0%B8%20%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0%20%D1%80%D0%B5%D1%87%D0%B8/090103%20%D0%9A%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D1%8F%D0%B7%D1%8B%D0%BA%20%D0%B8%20%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0%20%D1%80%D0%B5%D1%87%D0%B8%202011.pdf)
+* [ruxpert.ru/%D0%92%D1%8B%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%B0_%D0%9F%D1%83%D1%82%D0%B8%D0%BD%D0%B0#1999](http://ruxpert.ru/%D0%92%D1%8B%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%B0_%D0%9F%D1%83%D1%82%D0%B8%D0%BD%D0%B0#1999)
+* [ruxpert.ru/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA_%D0%BF%D0%B0%D1%82%D1%80%D0%B8%D0%BE%D1%82%D0%B0](http://ruxpert.ru/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA_%D0%BF%D0%B0%D1%82%D1%80%D0%B8%D0%BE%D1%82%D0%B0)
 * [Русская Мысль](https://russianmind.com/)
 * [Русский либерализм - историческая справка - Хрестоматия Либерализма - Библиотечка Либертариума - Московский Либертариум](http://www.libertarium.ru/l_reader_history)
 * [Самые свежие новости - Информационный портал Крамола |](https://www.kramola.info/)
@@ -3240,13 +3240,13 @@
 * [Степан Сулакшин — Блоги — Эхо Москвы](https://echo.msk.ru/blog/sulakshin/)
 * [Центр научной политической мысли и идеологии (Центр Сулакшина), внешняя политика России, экономика России, экспертное мнение, политический анализ и прогноз, конституция РФ, научная работа, экспертная аналитика](http://rusrand.ru/)
 * [Олег Цыповский](https://ru-ru.facebook.com/people/%D0%9E%D0%BB%D0%B5%D0%B3-%D0%A6%D1%8B%D0%BF%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9/100000120954465)
-* http://humanitar.ru/
-* http://topnewsrussia.ru/
-* http://www.konchalovsky.ru/
-* http://yakov.works/index.htm
-* https://vk.com/mustreads
-* https://www.vnovomsvete.com/
-* https://22century.ru/
+* [humanitar.ru/](http://humanitar.ru/)
+* [topnewsrussia.ru/](http://topnewsrussia.ru/)
+* [konchalovsky.ru/](http://www.konchalovsky.ru/)
+* [yakov.works/index.htm](http://yakov.works/index.htm)
+* [vk.com/mustreads](https://vk.com/mustreads)
+* [vnovomsvete.com/](https://www.vnovomsvete.com/)
+* [22century.ru/](https://22century.ru/)
 * [«Золотая нить. Истоки русской народной культуры»](https://vk.com/wall-166541401_12)
 * [Лучшая русская фантастика: книги, от которых невозможно оторваться - ReadRate](https://readrate.com/rus/ratings/luchshaya-russkaya-fantastika-knigi-ot-kotorykh-nevozmozhno-otorvatsya)
 * [Список Гуриева: десять главных книг по современной экономике | Открытый Университет](https://openuni.io/course/3/lesson/1/material/316/)
@@ -3259,23 +3259,23 @@
 * [Юмор](https://www.reddit.com/r/ukraina/search?q=flair_name%3A%22%D0%AE%D0%BC%D0%BE%D1%80%22&restrict_sr=1)
 * [IMDb: TV Series Russia (Sorted by Popularity Ascending) - IMDb](https://www.imdb.com/search/title?countries=ru&title_type=tv_series&sort=moviemeter,asc)
 * [5 filmes de Andrei Tarkovski restaurados, legendados e on-line - Nexo Jornal](https://www.nexojornal.com.br/expresso/2018/03/10/5-filmes-de-Andrei-Tarkovski-restaurados-legendados-e-on-line?fbclid=IwAR0f1YtTQN9YHC1DALXJ-bmeRJKZyG4oAMPfcCZq_ewhjCEeLpG0MA2Js5Q)
-* http://www.tvc.ru/channel/brand/id/1756/show/news/news_id/633
+* [tvc.ru/channel/brand/id/1756/show/news/news_id/633](http://www.tvc.ru/channel/brand/id/1756/show/news/news_id/633)
 * [tvrain.ru](http://tvrain.ru/)
 * [Анна Каренина 1 серия](https://www.youtube.com/watch?v=Y5YutODgC0k)
 * [Бордель моей мамы](https://www.youtube.com/watch?v=dRlFw17QpEk)
 * [Мастрид о компании Илона Маска Neuralink:](http://waitbutwhy.com/2017/04/neuralink.html%20(%D0%B0%D0%BD%D0%B3%D0%BB.)%20%D0%B8%20wbwtranslations.com/kolos%20(%D1%80%D1%83%D1%81.))
-* http://www.colta.ru/articles/specials/1274
+* [colta.ru/articles/specials/1274](http://www.colta.ru/articles/specials/1274)
 * [Сайт с расшифровкой жаргона молодёжи, а также тюремного, армейского, геймерского сленга.](https://xn----8sbfgf1bdjhf5a1j.xn--p1ai/)
-* http://fullchaos.com/category/proverbs/
-* http://phraseologiya.academic.ru/
+* [fullchaos.com/category/proverbs/](http://fullchaos.com/category/proverbs/)
+* [phraseologiya.academic.ru/](http://phraseologiya.academic.ru/)
 * [Action Philosophers RU](https://vk.com/wall-37160097_98153)
 * [Авторский Комикс: публикация комиксов на русском, читать комиксы онлайн бесплатно](https://acomics.ru/)
 * [Комикс Время мазни [Sarah's Scribbles] на русском читать онлайн на сайте Авторский Комикс](https://acomics.ru/~doodle-time)
 * [Авторский Комикс: публикация комиксов на русском, читать комиксы онлайн бесплатно](https://acomics.ru/)
 * [Комикс Время мазни [Sarah's Scribbles] на русском читать онлайн на сайте Авторский Комикс](https://acomics.ru/~doodle-time)
 * [Action Philosophers RU](https://vk.com/wall-37160097_98153)
-* https://pikabu.ru/story/pochemu_lyudi_ne_lyubyat_kazakov_7768786#comments
-* http://www.runivers.ru/
+* [pikabu.ru/story/pochemu_lyudi_ne_lyubyat_kazakov_7768786#comments](https://pikabu.ru/story/pochemu_lyudi_ne_lyubyat_kazakov_7768786#comments)
+* [runivers.ru/](http://www.runivers.ru/)
 * [Os 10 escritores infantis mais populares da Rússia](https://l.facebook.com/l.php?u=https%3A%2F%2Fbr.rbth.com%2Farte%2Fliteratura%2F2017%2F06%2F30%2Fos-10-escritores-infantis-mais-populares-da-russia_792437%3Ffbclid%3DIwAR2QeYv1VbDB8akTaWCeT3oWU7O2Tcxg4hzTKabtFEzm3w6EvP9uNtrg6Sc&h=AT2klAsZLA1dY_pSIbHV-el03rb32cteZ4gonkQDLnxhvhMB-w0uQ-07e3GC3HKXR9o33KDIqemguPXvg5F8ZHIRa5SaY8wckIjlEn7UXQU0Sek919VvVzTU4ofUyXL1dk613S3vzCfaxeOArs1jUg)
 * VERT DIDER
 * [∀ x, y, z](https://vk.com/foranyxyz)
@@ -3531,80 +3531,80 @@
 * [Die deutsche Seele](https://www.google.com/search?q=die+deutsche+seele+kaufen&client=safari&hl=it-us&sxsrf=ALeKk01brrIkPjqyJXP3EoABuFMvajeWtw%3A1617000635496&ei=u3hhYKnuHeOAi-gPpse9gAo&oq=die+deutsche+seele+kaufen&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAM6BAgAEEc6BAgAEBM6CAgAEBYQHhATOgUIIRCgAVCIEli8HGC7H2gAcAF4AIABpAGIAbgFkgEDNS4ymAEAoAEByAEIwAEB&sclient=mobile-gws-wiz-serp)
 * [Lesebuch](http://libgen.rs/search.php?req=Lesebuch&open=0&res=25&view=simple&phrase=1&column=def)
 * [http://www.philolex.de](http://www.philolex.de/)
-* http://www.zeno.org/
-* https://dgap.org/de
+* [zeno.org/](http://www.zeno.org/)
+* [dgap.org/de](https://dgap.org/de)
 * [Belles Lettres: Deutsch für Dichter und Denker](https://www.belleslettres.eu/)
-* http://www.deutsch-lernen.com/dc.php
-* https://forum.aktuell.ru/
-* http://www.latinoportal.de/
+* [deutsch-lernen.com/dc.php](http://www.deutsch-lernen.com/dc.php)
+* [forum.aktuell.ru/](https://forum.aktuell.ru/)
+* [latinoportal.de/](http://www.latinoportal.de/)
 * [Anleitungen auf HELPSTER](http://www.helpster.de/)
-* http://www.blick.ch/
-* http://www.zeit.de/wissen/zeit-wissen/index
-* http://en.pons.com/deutschblog/
-* http://usa.usembassy.de/
-* http://www.geo.de/
-* https://www.goethe.de/de/index.html
-* https://www.mpib-berlin.mpg.de/de/forschung
-* http://leistentag.com/
-* http://www.buecher-wiki.de/index.php/BuecherWiki/Hauptseite
-* http://www.fabelnundanderes.at/
-* https://www.wer-weiss-was.de/
+* [blick.ch/](http://www.blick.ch/)
+* [zeit.de/wissen/zeit-wissen/index](http://www.zeit.de/wissen/zeit-wissen/index)
+* [en.pons.com/deutschblog/](http://en.pons.com/deutschblog/)
+* [usa.usembassy.de/](http://usa.usembassy.de/)
+* [geo.de/](http://www.geo.de/)
+* [goethe.de/de/index.html](https://www.goethe.de/de/index.html)
+* [mpib-berlin.mpg.de/de/forschung](https://www.mpib-berlin.mpg.de/de/forschung)
+* [leistentag.com/](http://leistentag.com/)
+* [buecher-wiki.de/index.php/BuecherWiki/Hauptseite](http://www.buecher-wiki.de/index.php/BuecherWiki/Hauptseite)
+* [fabelnundanderes.at/](http://www.fabelnundanderes.at/)
+* [wer-weiss-was.de/](https://www.wer-weiss-was.de/)
 * [Deutsche Literatur, Autoren und literarische Epochen | Xlibris](http://www.xlibris.de/)
-* https://sternenvogelreisen.de/
-* http://veronika-wengert.de/
-* https://en.wikipedia.org/wiki/Der_Kanon
+* [sternenvogelreisen.de/](https://sternenvogelreisen.de/)
+* [veronika-wengert.de/](http://veronika-wengert.de/)
+* [en.wikipedia.org/wiki/Der_Kanon](https://en.wikipedia.org/wiki/Der_Kanon)
 * [zeitschrift über bücher - Поиск в Google](https://www.google.com/search?q=zeitschrift+%C3%BCber+b%C3%BCcher&rlz=1C5CHFA_enUS800US800&oq=zeitschrift+%C3%BCber+b%C3%BCcher&aqs=chrome..69i57j0l4.6190j0j4&sourceid=chrome&ie=UTF-8)
-* https://allesevolution.wordpress.com/
-* http://www.sprichworte-der-welt.de/index.html
-* http://euphemismen.de/
+* [allesevolution.wordpress.com/](https://allesevolution.wordpress.com/)
+* [sprichworte-der-welt.de/index.html](http://www.sprichworte-der-welt.de/index.html)
+* [euphemismen.de/](http://euphemismen.de/)
 * [Comiczeichnungen Aloisl und Obertl](http://www.aloisl.de/comic.htm)
 * [Webcomic-Verzeichnis | Deutschsprachige Webcomics und Webmanga](http://www.webcomic-verzeichnis.de/)
 * [School of Rick – Wikipedia](https://de.wikipedia.org/wiki/School_of_Rick)
 * [Feuilleton/Kultur](https://www.reddit.com/r/de/?f=flair_name%3A%22Feuilleton%2FKultur%22)
 * [Frage/Diskussion](https://www.reddit.com/r/de/?f=flair_name%3A%22Frage%2FDiskussion%22)
 * [http://mlwerke.de/me/me23/me23_000.htm](http://www.boeckler.de/index.htm)
-* http://theeuropean.de/
-* http://www.adulteducation.at/de/literatur/
+* [theeuropean.de/](http://theeuropean.de/)
+* [adulteducation.at/de/literatur/](http://www.adulteducation.at/de/literatur/)
 * [http://www.heute.at/](http://www.ukrinform.es/)
-* http://www.litrix.de/de/index.cfm
-* http://www.wissenbloggt.de/
-* https://www.stupidedia.org/stupi/Gehobene_deutsche_Sprache
-* https://www.stupidedia.org/stupi/Schw%C3%A4bisch
-* https://www.swissinfo.ch/eng/multilingualism_speaking-in-dialects---why-the-swiss-still-do/44237588
+* [litrix.de/de/index.cfm](http://www.litrix.de/de/index.cfm)
+* [wissenbloggt.de/](http://www.wissenbloggt.de/)
+* [stupidedia.org/stupi/Gehobene_deutsche_Sprache](https://www.stupidedia.org/stupi/Gehobene_deutsche_Sprache)
+* [stupidedia.org/stupi/Schw%C3%A4bisch](https://www.stupidedia.org/stupi/Schw%C3%A4bisch)
+* [swissinfo.ch/eng/multilingualism_speaking-in-dialects---why-the-swiss-still-do/44237588](https://www.swissinfo.ch/eng/multilingualism_speaking-in-dialects---why-the-swiss-still-do/44237588)
 * Ich kann nicht verstehen dass Menschen so gemein und dreist sind | Sonstiges (Plauderecke) Forum | Chefkoch.de
 * [inter:start [GÖ-Wiki]](http://www.liteline.de/~holdenb/liesel/doku.php?id=inter:start&rev=1247256637)
-* http://www.zeitgeisterjagd.de/
+* [zeitgeisterjagd.de/](http://www.zeitgeisterjagd.de/)
 * [Buchzusammenfassungen kostenlos lesen - Liviato](http://liviato.de/)
 * [FreieWelt.net | Die Internet und Blogzeitung für die Zivilgesellschaft](https://www.freiewelt.net/)
-* http://www.kulturbuchtipps.de/
-* https://causa.tagesspiegel.de/
-* https://factum-magazin.ch/
-* http://blog.lefigaro.fr/suisse/2010/04/le-suisse-allemand-est-il-une-langue-arrogante.html
-* http://www.englishforum.ch/language-corner/222845-swiss-german-vs-high-german.html
-* http://www.fluentu.com/german/blog/different-types-of-german/
-* http://www.idlangues.fr/outils/langues-du-monde/suisse-allemand.html
-* https://de.wikipedia.org/wiki/Z%C3%BCrichdeutsch
-* https://www.duolingo.com/comment/2137432
-* https://www.idiap.ch/scientific-research/resources/walliserdeutsch?set_language=fr
+* [kulturbuchtipps.de/](http://www.kulturbuchtipps.de/)
+* [causa.tagesspiegel.de/](https://causa.tagesspiegel.de/)
+* [factum-magazin.ch/](https://factum-magazin.ch/)
+* [blog.lefigaro.fr/suisse/2010/04/le-suisse-allemand-est-il-une-langue-arrogante.html](http://blog.lefigaro.fr/suisse/2010/04/le-suisse-allemand-est-il-une-langue-arrogante.html)
+* [englishforum.ch/language-corner/222845-swiss-german-vs-high-german.html](http://www.englishforum.ch/language-corner/222845-swiss-german-vs-high-german.html)
+* [fluentu.com/german/blog/different-types-of-german/](http://www.fluentu.com/german/blog/different-types-of-german/)
+* [idlangues.fr/outils/langues-du-monde/suisse-allemand.html](http://www.idlangues.fr/outils/langues-du-monde/suisse-allemand.html)
+* [de.wikipedia.org/wiki/Z%C3%BCrichdeutsch](https://de.wikipedia.org/wiki/Z%C3%BCrichdeutsch)
+* [duolingo.com/comment/2137432](https://www.duolingo.com/comment/2137432)
+* [idiap.ch/scientific-research/resources/walliserdeutsch?set_language=fr](https://www.idiap.ch/scientific-research/resources/walliserdeutsch?set_language=fr)
 * [L’allemand et les dialectes alémaniques en Suisse](http://eole.irdp.ch/activites_eole/annexes_doc/annexe_doc_27.pdf)
-* http://www.blogwiese.ch/
+* [blogwiese.ch/](http://www.blogwiese.ch/)
 
 
 * [**Schweizerdeutsch – Wikipedia](https://de.wikipedia.org/wiki/Schweizerdeutsch)
-* http://oschpele.ritten.org/
-* http://www.schweizer-deutsch.ch/uploads/media/einige_Beispielseiten_2007-07-05_01.pdf
-* https://forum.wireltern.ch/beitraege/verschiedenes/hochdeutschschweizerdeutsch/
+* [oschpele.ritten.org/](http://oschpele.ritten.org/)
+* [schweizer-deutsch.ch/uploads/media/einige_Beispielseiten_2007-07-05_01.pdf](http://www.schweizer-deutsch.ch/uploads/media/einige_Beispielseiten_2007-07-05_01.pdf)
+* [forum.wireltern.ch/beitraege/verschiedenes/hochdeutschschweizerdeutsch/](https://forum.wireltern.ch/beitraege/verschiedenes/hochdeutschschweizerdeutsch/)
 * [Swiss German - Wikipedia](https://en.wikipedia.org/wiki/Swiss_German)
 * Hacker, Propaganda, Wahlmanipulation – Eurozine
 * Rechte Hetze im Netz und die Grenzen des Rechtstaats – Eurozine
-* https://www.goethe.de/ins/be/de/index.html
-* https://www.google.com/search?q=Historische+Sprachwissenschaft+des+Deutschen&rlz=1C5CHFA_enUS800US800&oq=Historische+Sprachwissenschaft+des+Deutschen&aqs=chrome..69i57j0l4j69i60.619j0j4&sourceid=chrome&ie=UTF-8
+* [goethe.de/ins/be/de/index.html](https://www.goethe.de/ins/be/de/index.html)
+* [google.com/search?q=Historische+Sprachwissenschaft+des+Deutschen&rlz=1C5CHFA_enUS800US800&oq=Historische+Sprachwissenschaft+des+Deutschen&aqs=chrome..69i57j0l4j69i60.619j0j4&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=Historische+Sprachwissenschaft+des+Deutschen&rlz=1C5CHFA_enUS800US800&oq=Historische+Sprachwissenschaft+des+Deutschen&aqs=chrome..69i57j0l4j69i60.619j0j4&sourceid=chrome&ie=UTF-8)
 * [20 Minuten - Warum fahren gerade alle so krass auf K-Pop ab? - Musik](https://www.20min.ch/entertainment/musik/story/Warum-fahren-gerade-alle-so-sehr-auf-K-Pop-ab--12243022)
-* https://www.germanistik.uni-mainz.de/abteilungen/historische-sprachwissenschaft-des-deutschen/stefan-hartmann/korpuslinguistik/
-* [Wie Amerikas Rechte auf Anti-Waffen-Proteste reagiert](http://www.faz.net/aktuell/politik/trumps-praesidentschaft/wie-amerikas-rechte-auf-anti-waffen-proteste-reagiert-15513537.html?utm_content=buffer5f28e&utm_medium=social&utm_source=facebook.com&utm_campaign=GEPC%253Ds6)
-* https://www.nzz.ch/feuilleton/buecher/
-* https://www.helles-koepfchen.de/
-* http://gutenberg.spiegel.de/buch/franz-kafka-erz-161/25
+* [germanistik.uni-mainz.de/abteilungen/historische-sprachwissenschaft-des-deutschen/stefan-hartmann/korpuslinguistik/](https://www.germanistik.uni-mainz.de/abteilungen/historische-sprachwissenschaft-des-deutschen/stefan-hartmann/korpuslinguistik/)
+* [Wie Amerikas Rechte auf Anti-Waffen-Proteste reagiert](http://www.faz.net/aktuell/politik/trumps-praesidentschaft/wie-amerikas-rechte-auf-anti-waffen-proteste-reagiert-15513537.html)
+* [nzz.ch/feuilleton/buecher/](https://www.nzz.ch/feuilleton/buecher/)
+* [helles-koepfchen.de/](https://www.helles-koepfchen.de/)
+* [gutenberg.spiegel.de/buch/franz-kafka-erz-161/25](http://gutenberg.spiegel.de/buch/franz-kafka-erz-161/25)
 * [Bücher , Hörbücher und Hörspiele auf Deutsch](https://vk.com/public30268849)
 * [Deutsche Grammophon (DG)](https://vk.com/deutschegrammophon)
 * [Freiheit mit Deutsch](https://vk.com/fmdonline)
@@ -3614,93 +3614,93 @@
 * Gläubige und Atheisten - Religiöse, Philosophische & Politische Themen.
 * Antifa Germany - Antifaschisten, Antikapitalisten und Co.
 * - 3b
-* http://www.dialektkarte.de/
+* [dialektkarte.de/](http://www.dialektkarte.de/)
 * [Alemannische Wikipedia](https://als.wikipedia.org/wiki/Text:Houptsyte)
 * [Schwabenbilder : zur Konstruktion eines Regionalcharakters](http://library.lol/main/313DC685E754FB8BE0A4F187F5BDEDBB)
 * [Bilder und Geschichten aus Schwaben](http://library.lol/main/C6075AB3FB6C5D4F22550B93007392D2)
-* http://chinderliedli.ch/index.php/lieder/
+* [chinderliedli.ch/index.php/lieder/](http://chinderliedli.ch/index.php/lieder/)
 * [Swiss German (Schwytzerdütsch) language, alphabets and pronunciation](http://www.omniglot.com/writing/swissgerman.htm)
 * [Unser Schweizerdeutsch Wörterbuch. Das grösste der Welt. - Dein Schweizerdeutsch Sprachkurs](https://www.schweizerdeutsch-lernen.ch/blog/schweizerdeutsch-woerterbuch/)
-* https://www.idiotikon.ch/online-woerterbuch
-* http://www.tell.ch/forum/index.php
-* https://www.skeptiker.ch/
-* http://www.tell.ch/forum/index.php
-* http://www.wikiwand.com/als/Schweizerdeutsch
-* https://als.wikipedia.org/wiki/Schweiz
-* http://www.testedich.de/sprachen-tests-Schweizerdeutsch.php?katb=09C0
-* http://schweiz.wikia.com/wiki/Schweizerdeutsch
-* http://eldrid.ch/sveits.htm
-* http://www.learn-swiss-german.ch/
-* https://www.redensarten-index.de/suche.php
-* http://www.dean-dictionaries.com/
-* https://www.blaetter.de/
+* [idiotikon.ch/online-woerterbuch](https://www.idiotikon.ch/online-woerterbuch)
+* [tell.ch/forum/index.php](http://www.tell.ch/forum/index.php)
+* [skeptiker.ch/](https://www.skeptiker.ch/)
+* [tell.ch/forum/index.php](http://www.tell.ch/forum/index.php)
+* [wikiwand.com/als/Schweizerdeutsch](http://www.wikiwand.com/als/Schweizerdeutsch)
+* [als.wikipedia.org/wiki/Schweiz](https://als.wikipedia.org/wiki/Schweiz)
+* [testedich.de/sprachen-tests-Schweizerdeutsch.php?katb=09C0](http://www.testedich.de/sprachen-tests-Schweizerdeutsch.php?katb=09C0)
+* [schweiz.wikia.com/wiki/Schweizerdeutsch](http://schweiz.wikia.com/wiki/Schweizerdeutsch)
+* [eldrid.ch/sveits.htm](http://eldrid.ch/sveits.htm)
+* [learn-swiss-german.ch/](http://www.learn-swiss-german.ch/)
+* [redensarten-index.de/suche.php](https://www.redensarten-index.de/suche.php)
+* [dean-dictionaries.com/](http://www.dean-dictionaries.com/)
+* [blaetter.de/](https://www.blaetter.de/)
 * [Швейцарский Немецкий Язык - Schweizerdeutsch](https://vk.com/schweizerdeutsch)
 * [Learn Swiss German - Lerne Schweizerdeutsch](https://vk.com/club11941905)
 * - 4
-* https://www.rulit.me/books/ukraina-ne-rosiya-download-322594.html
+* [rulit.me/books/ukraina-ne-rosiya-download-322594.html](https://www.rulit.me/books/ukraina-ne-rosiya-download-322594.html)
 * [pravda.com.ua](http://pravda.com.ua/)
 * [РБК (УК-РУ*)](https://www.rbc.ua/)**
-* https://was.media/uk/
+* [was.media/uk/](https://was.media/uk/)
 * WAS.MEDIA
-* https://vk.com/xkcd_ua
-* https://xkcd-ua.livejournal.com/
-* https://nv.ua/
-* https://www.pravda.com.ua/podcasts/
+* [vk.com/xkcd_ua](https://vk.com/xkcd_ua)
+* [xkcd-ua.livejournal.com/](https://xkcd-ua.livejournal.com/)
+* [nv.ua/](https://nv.ua/)
+* [pravda.com.ua/podcasts/](https://www.pravda.com.ua/podcasts/)
 * [Islnd TV](https://castbox.fm/channel/id2769792?country=fr)
 * [melni.me](http://melni.me/)
 * [Україна - не Росія](http://library.lol/main/3496135A80D133878C5E5E6D061925FD)
-* http://samoosvita.in.ua/
-* https://nachasi.com/
-* http://supermif.com/
-* http://kazkar.info/
-* https://was.media/uk/
-* https://update.com.ua/
-* http://znaimo.com.ua/
-* http://www.mynule.com/
-* http://ukrainskamova.com/
-* http://ukrainiangrammar.com/
-* http://www.ulif.org.ua/
-* http://www.ukrainianlanguage.org.uk/
-* http://pravila-uk-mova.com.ua/
-* http://www.mova.info/page.aspx?l1=61
-* https://ipublishblog.wordpress.com/
+* [samoosvita.in.ua/](http://samoosvita.in.ua/)
+* [nachasi.com/](https://nachasi.com/)
+* [supermif.com/](http://supermif.com/)
+* [kazkar.info/](http://kazkar.info/)
+* [was.media/uk/](https://was.media/uk/)
+* [update.com.ua/](https://update.com.ua/)
+* [znaimo.com.ua/](http://znaimo.com.ua/)
+* [mynule.com/](http://www.mynule.com/)
+* [ukrainskamova.com/](http://ukrainskamova.com/)
+* [ukrainiangrammar.com/](http://ukrainiangrammar.com/)
+* [ulif.org.ua/](http://www.ulif.org.ua/)
+* [ukrainianlanguage.org.uk/](http://www.ukrainianlanguage.org.uk/)
+* [pravila-uk-mova.com.ua/](http://pravila-uk-mova.com.ua/)
+* [mova.info/page.aspx?l1=61](http://www.mova.info/page.aspx?l1=61)
+* [ipublishblog.wordpress.com/](https://ipublishblog.wordpress.com/)
 * [Артем Зелений – Medium](https://medium.com/@ArtemZeleny)
 * [Головна - UA:Суспільне](https://suspilne.media/')
 * [Культура | Українська правда _Життя](https://life.pravda.com.ua/culture/)
 * [Новини культури](https://ukr.media/culture/)
 * [Україна – Інформаційно-довідковий сайт «Україна»](http://proukraine.net.ua/)
-* http://esu.com.ua/
-* http://izbornyk.org.ua/
-* http://litopys.org.ua/ukrmova/um.htm
-* https://issuu.com/culture.ua
-* http://www.korydor.in.ua/ua/
-* http://svitslova.com/
+* [esu.com.ua/](http://esu.com.ua/)
+* [izbornyk.org.ua/](http://izbornyk.org.ua/)
+* [litopys.org.ua/ukrmova/um.htm](http://litopys.org.ua/ukrmova/um.htm)
+* [issuu.com/culture.ua](https://issuu.com/culture.ua)
+* [korydor.in.ua/ua/](http://www.korydor.in.ua/ua/)
+* [svitslova.com/](http://svitslova.com/)
 * [Bank UA Publications](http://www.bank.gov.ua/control/uk/publish/article?art_id=15727773&cat_id=36450)
-* http://www.epravda.com.ua/
-* https://ukrhealth.net/
+* [epravda.com.ua/](http://www.epravda.com.ua/)
+* [ukrhealth.net/](https://ukrhealth.net/)
 * [Блоги](http://zaxid.net/news/showList.do?blogi&tagId=50977)
-* http://blogs.pravda.com.ua/
-* http://ukrainianblog.info/
-* http://izbornyk.org.ua/
-* http://bystrytsky.org/
-* https://biggggidea.com/
-* http://sociopolis.ua/
-* http://www.i.ua/
-* http://meta.ua/ua/
-* http://studway.com.ua/
-* http://openstudy.org.ua/
-* http://anekdotu.org.ua/
-* http://www.anekdoty.net.ua/
-* http://svitua.com.ua/
-* http://psychologis.com.ua/index.htm
-* http://flavorwire.com/444687/learn-about-ukraine-from-the-countrys-best-writers-and-filmmakers
-* https://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B9%D0%B7%D0%B0%D0%BC%D0%BE%D0%B6%D0%BD%D1%96%D1%88%D1%96_%D0%BB%D1%8E%D0%B4%D0%B8_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8_2015
+* [blogs.pravda.com.ua/](http://blogs.pravda.com.ua/)
+* [ukrainianblog.info/](http://ukrainianblog.info/)
+* [izbornyk.org.ua/](http://izbornyk.org.ua/)
+* [bystrytsky.org/](http://bystrytsky.org/)
+* [biggggidea.com/](https://biggggidea.com/)
+* [sociopolis.ua/](http://sociopolis.ua/)
+* [i.ua/](http://www.i.ua/)
+* [meta.ua/ua/](http://meta.ua/ua/)
+* [studway.com.ua/](http://studway.com.ua/)
+* [openstudy.org.ua/](http://openstudy.org.ua/)
+* [anekdotu.org.ua/](http://anekdotu.org.ua/)
+* [anekdoty.net.ua/](http://www.anekdoty.net.ua/)
+* [svitua.com.ua/](http://svitua.com.ua/)
+* [psychologis.com.ua/index.htm](http://psychologis.com.ua/index.htm)
+* [flavorwire.com/444687/learn-about-ukraine-from-the-countrys-best-writers-and-filmmakers](http://flavorwire.com/444687/learn-about-ukraine-from-the-countrys-best-writers-and-filmmakers)
+* [uk.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B9%D0%B7%D0%B0%D0%BC%D0%BE%D0%B6%D0%BD%D1%96%D1%88%D1%96_%D0%BB%D1%8E%D0%B4%D0%B8_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8_2015](https://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B9%D0%B7%D0%B0%D0%BC%D0%BE%D0%B6%D0%BD%D1%96%D1%88%D1%96_%D0%BB%D1%8E%D0%B4%D0%B8_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8_2015)
 * [The Media Market and Media Ownership in Post-Communist Ukraine](http://www.tandfonline.com/doi/pdf/10.2753/PPC1075-8216580601)
-* https://de1lib.org/s/?languages%5B0%5D=ukrainian&page=2&order=year
-* https://de1lib.org/s/?languages%5B%5D=ukrainian
+* [de1lib.org/s/?languages%5B0%5D=ukrainian&page=2&order=year](https://de1lib.org/s/?languages%5B0%5D=ukrainian&page=2&order=year)
+* [de1lib.org/s/?languages%5B%5D=ukrainian](https://de1lib.org/s/?languages%5B%5D=ukrainian)
 * [(UA) Vol 37 No 1 (2018): SENTENTIAE | Sententiae](https://sententiae.vntu.edu.ua/index.php/sententiae/issue/view/42)
 * [(UA) Vol 37 No 2 (2018): SENTENTIAE | Sententiae](https://sententiae.vntu.edu.ua/index.php/sententiae/issue/view/43)
-* https://zno.if.ua/
+* [zno.if.ua/](https://zno.if.ua/)
 * Захар Беркут
 * [1. Гаррі Поттер і філософський камінь.pdf](https://vk.com/doc3945287_591209304?hash=a28441df1ac32f736b&dl=e1d9db3543e5682ae6)
 * [2. Гаррі Поттер і таємна кімната.pdf](https://vk.com/doc3945287_591209331?hash=6ff386085a700e7222&dl=9a09f69f9f7ede4d59)
@@ -3754,15 +3754,15 @@
 * [Вступ до теорії відносності | В.І. Жданов | download](https://b-ok.cc/book/821709/4fd477)
 * [Курси УА](http://www.znannya.org/?view=courses-social)
 * [Анекдоти по-українськи](http://ukr-anekdot.blogspot.com/)
-* http://svitslova.com/idioms-dictionary/3104-na-livu-nogu-vstaty.html
-* http://shtooka.net/view_package.php?packid=ukr-balm-svitlana-proverbs
-* http://www.u-kraina.com/index.php?option=com_content&view=article&id=67:2009-03-17-10-28-16&catid=26&Itemid=39
-* http://shtooka.net/overview.php?lang=ukr
+* [svitslova.com/idioms-dictionary/3104-na-livu-nogu-vstaty.html](http://svitslova.com/idioms-dictionary/3104-na-livu-nogu-vstaty.html)
+* [shtooka.net/view_package.php?packid=ukr-balm-svitlana-proverbs](http://shtooka.net/view_package.php?packid=ukr-balm-svitlana-proverbs)
+* [u-kraina.com/index.php?option=com_content&view=article&id=67:2009-03-17-10-28-16&catid=26&Itemid=39](http://www.u-kraina.com/index.php?option=com_content&view=article&id=67:2009-03-17-10-28-16&catid=26&Itemid=39)
+* [shtooka.net/overview.php?lang=ukr](http://shtooka.net/overview.php?lang=ukr)
 * [Ukrainian Comics](https://www.facebook.com/ukrainian.comics/)
 * [Ukrainian Comics](https://vk.com/ukrainian_comics_1)
 * [Козацький гумор - сайт гарного настрою](http://chumor.org.ua/)
-* http://library.nlu.edu.ua/POLN_TEXT/4%20KURS/4/1/01H1R1_1.htm
-* http://life.pravda.com.ua/society/2014/11/14/183927/
+* [library.nlu.edu.ua/POLN_TEXT/4%20KURS/4/1/01H1R1_1.htm](http://library.nlu.edu.ua/POLN_TEXT/4%20KURS/4/1/01H1R1_1.htm)
+* [life.pravda.com.ua/society/2014/11/14/183927/](http://life.pravda.com.ua/society/2014/11/14/183927/)
 * [I am Ukrainian and I wonder, what does Ukrainian sound like to foreigners? - Quora](https://www.quora.com/I-am-Ukrainian-and-I-wonder-what-does-Ukrainian-sound-like-to-foreigners)
 * Poema Bilous
 * История Украины за 2 минуты :: Показывайте по украинским группам, особенно молодежиde BioloveRodex
@@ -3775,13 +3775,13 @@
 * [Як завести автомобіль в мороз](https://vk.com/away.php?to=https%3A%2F%2Fgazeta.ua%2Farticles%2Favto%2F_ak-zavesti-avtomobil-v-moroz%2F876989)
 * Богдан Ступка, вірш Ліни Костенко &quot;Крила&quot; - YouTube
 * [20 найкращих книг, перекладених українською](https://vk.com/wall-30230486_212343)
-* http://avr.org.ua/
-* http://liber.onu.edu.ua/opacunicode/index.php?url=/books/new_arrivals/
-* http://open.kmbs.ua/
+* [avr.org.ua/](http://avr.org.ua/)
+* [liber.onu.edu.ua/opacunicode/index.php?url=/books/new_arrivals/](http://liber.onu.edu.ua/opacunicode/index.php?url=/books/new_arrivals/)
+* [open.kmbs.ua/](http://open.kmbs.ua/)
 * [http://resource.history.org.ua/cgi-bin/eiu/history.exe?S21CNR=1000&S21STN=1&S21REF=2&C21COM=S&I21DBN=EIU&P21DBN=EIU&S21All=%3C.%3ETIT%3DВ$%3C.%3E&S21FMT=brief_eiu&S21SRW=nz&S21SRD=UP](http://resource.history.org.ua/cgi-bin/eiu/history.exe?S21CNR=1000&S21STN=1&S21REF=2&C21COM=S&I21DBN=EIU&P21DBN=EIU&S21All=%3C.%3ETIT%3D)
 * [http://theukrainians.org/](http://www.pravda.com.ua/inozmi/)
-* https://inozmi.wordpress.com/
-* https://theukrainians.org/
+* [inozmi.wordpress.com/](https://inozmi.wordpress.com/)
+* [theukrainians.org/](https://theukrainians.org/)
 * [liber.onu.edu.ua](http://liber.onu.edu.ua/)
 * [moyaosvita.com.ua](http://moyaosvita.com.ua/)
 * [ua.korrespondent.net](http://ua.korrespondent.net/)
@@ -3790,13 +3790,13 @@
 * [Головна - UA:Суспільне](https://suspilne.media/)
 * [Інтернет-магазин книг Наш формат](https://nashformat.ua/)
 * [gazeta.ua](http://gazeta.ua/)
-* http://aphd.ua/
-* http://library.nlu.edu.ua/
-* https://sport.segodnya.ua/ua
-* https://petrimazepa.com/
+* [aphd.ua/](http://aphd.ua/)
+* [library.nlu.edu.ua/](http://library.nlu.edu.ua/)
+* [sport.segodnya.ua/ua](https://sport.segodnya.ua/ua)
+* [petrimazepa.com/](https://petrimazepa.com/)
 * [Список українських літературних періодичних видань — Вікіпедія](https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D1%85_%D0%BB%D1%96%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%BD%D0%B8%D1%85_%D0%BF%D0%B5%D1%80%D1%96%D0%BE%D0%B4%D0%B8%D1%87%D0%BD%D0%B8%D1%85_%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD%D1%8C)
-* - https://sport.segodnya.ua/ua/sport/football/
-* https://www.e-reading.club/bookreader.php/1001527/Kun_-_Legendi_ta_mifi_starodavnoi_Grecii.html
+* - [sport.segodnya.ua/ua/sport/football/](https://sport.segodnya.ua/ua/sport/football/)
+* [e-reading.club/bookreader.php/1001527/Kun_-_Legendi_ta_mifi_starodavnoi_Grecii.html](https://www.e-reading.club/bookreader.php/1001527/Kun_-_Legendi_ta_mifi_starodavnoi_Grecii.html)
 * [Veillées de l’Ukraine/Texte entier - Wikisource](https://fr.wikisource.org/wiki/Veill%C3%A9es_de_l%E2%80%99Ukraine/Texte_entier)
 * [“ЧОМУ МИ БАЧИМО НЕ ТЕ, НА ЩО ДИВИМОСЯ” – КИЇВСЬКА ШКОЛА ЕКОНОМІКИ – Medium](https://medium.com/kyiv-school-of-economics/kse-insights-d1f66498b442)
 * [http://texty.org.ua](http://texty.org.ua/)
@@ -3807,7 +3807,7 @@
 * ["Dream", poem of Taras Shevchenko (Translated by John Weir)](https://taras-shevchenko.storinka.org/dream-poem-of-taras-shevchenko-translated-by-john-weir.html)
 * [Taras Shevchenko - Сон (комедія) lyrics + Russian translation](https://lyricstranslate.com/en/node/1321620)
 * [Філософсько-космологічне об'єднання](http://www.bazaluk.com/)
-* http://www.mmf.lnu.edu.ua/
+* [mmf.lnu.edu.ua/](http://www.mmf.lnu.edu.ua/)
 * [Українські народні прислів'я та приказки: Топ-300 | То є Львів.](https://inlviv.in.ua/suspilstvo/ukrayinski-narodni-prisliv-ya-ta-prikazki-top-300)
 * [Українці, читайте і шануйте нашого геніального Кобзаря!](https://vk.com/wall-38854900_6035073)
 * [Про мову, Францію і Україну](https://www.reddit.com/r/ukraina/comments/dnbgq8/%D0%BF%D1%80%D0%BE_%D0%BC%D0%BE%D0%B2%D1%83_%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%96%D1%8E_%D1%96_%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%83/)
@@ -3818,11 +3818,11 @@
 * [Культура](https://www.reddit.com/r/ukraina/?f=flair_name%3A%22%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0%22)
 * [#@)₴?$0 з Майклом Щуром #1 (2 сезон)](https://www.reddit.com/r/ukraina/comments/753pb1/0_%D0%B7_%D0%BC%D0%B0%D0%B9%D0%BA%D0%BB%D0%BE%D0%BC_%D1%89%D1%83%D1%80%D0%BE%D0%BC_1_2_%D1%81%D0%B5%D0%B7%D0%BE%D0%BD/)
 * [Дайджест](https://www.reddit.com/r/ukraina/?f=flair_name%3A%22%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82%22)
-* https://litnet.com/uk
+* [litnet.com/uk](https://litnet.com/uk)
 * [Кобзар - Шевченко](https://audioknigi.club/shevchenko-taras-kobzar-poeziya)
-* http://www.vestnik-philology.mgu.od.ua/index.php/arkhiv-nomeriv
+* [vestnik-philology.mgu.od.ua/index.php/arkhiv-nomeriv](http://www.vestnik-philology.mgu.od.ua/index.php/arkhiv-nomeriv)
 * [Поезії (збірка) — Леся Українка, завантажити (скачати) повний текст твору — УкрЛіб](https://www.ukrlib.com.ua/books/printitzip.php?tid=3431)
-* http://learnukraine.blogspot.com/2015/01/ukrainian-lesson-4-ukrainian-slang.html
+* [learnukraine.blogspot.com/2015/01/ukrainian-lesson-4-ukrainian-slang.html](http://learnukraine.blogspot.com/2015/01/ukrainian-lesson-4-ukrainian-slang.html)
 * [/ Українська Музика /](https://vk.com/just_ua_music)
 * [♫♪•НАЙКРАЩА•СУЧАСНА•УКРАЇНСЬКА•МУЗИКА•♫♪](https://vk.com/best_ua_music)
 * [a Wise Man Said.. Філософія. Роздуми. Мотивація.](https://vk.com/awisemansaid)
@@ -3864,56 +3864,56 @@
 * [Media](https://www.reddit.com/r/French/?f=flair_name%3A%22Media%22)
 * [xkcd](https://xkcd.lapin.org/)
 * [XKCD en Français](http://storing.free.fr/xkcd/index.php?id=908)
-* http://www.onlineclasses.org/resources/the-50-best-blogs-for-french-majors-francophiles/
-* http://hades-presse.com/infos/revues_en_ligne.shtml
-* http://www.languefrancaise.net/forum/viewtopic.php?id=4326
-* http://www.topjournaliste.com/classement.php
-* https://www.babelio.com/liste/65/Les-100-livres-preferes-des-Francais
+* [onlineclasses.org/resources/the-50-best-blogs-for-french-majors-francophiles/](http://www.onlineclasses.org/resources/the-50-best-blogs-for-french-majors-francophiles/)
+* [hades-presse.com/infos/revues_en_ligne.shtml](http://hades-presse.com/infos/revues_en_ligne.shtml)
+* [languefrancaise.net/forum/viewtopic.php?id=4326](http://www.languefrancaise.net/forum/viewtopic.php?id=4326)
+* [topjournaliste.com/classement.php](http://www.topjournaliste.com/classement.php)
+* [babelio.com/liste/65/Les-100-livres-preferes-des-Francais](https://www.babelio.com/liste/65/Les-100-livres-preferes-des-Francais)
 * [Raphaël Enthoven — Wikipédia](https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Enthoven)
 * [Category:Websites by language - Wikipedia](https://en.wikipedia.org/wiki/Category:Websites_by_language)
 * [ThéoTeX lecture](https://theotex.org/theotex_read.html)
 * [ART MAGAZINES (for French speakers) | Serial Books &amp; Magazines](https://vk.com/topic-154894262_38239147)
 * [CLASSICA | Serial Books &amp; Magazines](https://vk.com/topic-154894262_38378956)
-* http://www.bellescitations.com/accueil.htm
-* http://frenchculture.org/
-* http://frenchlover.org/
-* http://expressfrancais.com/
-* http://www.bonjourdefrance.com/
+* [bellescitations.com/accueil.htm](http://www.bellescitations.com/accueil.htm)
+* [frenchculture.org/](http://frenchculture.org/)
+* [frenchlover.org/](http://frenchlover.org/)
+* [expressfrancais.com/](http://expressfrancais.com/)
+* [bonjourdefrance.com/](http://www.bonjourdefrance.com/)
 * [CONNAISSANCE DES ARTS | Serial Books &amp; Magazines](https://vk.com/topic-154894262_36471281)
-* http://www.sofoot.com/
-* https://islamhouse.com/fr/
-* https://onefootball.com/fr/home
+* [sofoot.com/](http://www.sofoot.com/)
+* [islamhouse.com/fr/](https://islamhouse.com/fr/)
+* [onefootball.com/fr/home](https://onefootball.com/fr/home)
 * [Notes du mont Royal](https://www.notesdumontroyal.com/)
 * [saliannefrenchfocus | Snapshots of French news, language and culture](https://saliannefrenchfocus.wordpress.com/)
 * [Zeit Fragen FR](https://www.zeit-fragen.ch/fr.html)
-* http://www.mercialfred.com/index.html
-* http://www.culturecommunication.gouv.fr/
-* http://www.leschroniquesdeyamna.com/?view=magazine
-* http://www.citation-celebre.com/
-* http://www.francais-simple.com/
-* http://www2.ignatius.edu/faculty/turner/
-* http://www.wuzz.fr/
-* http://www.topito.com/
-* http://decouvrirlecanada.com/
-* http://le-blog-sam-la-touch.over-blog.com/
-* http://impactcampus.ca/
-* http://www.gentside.com/
-* http://www.liberaux.org/
-* http://lims.mondoblog.org/
-* https://fabbikouassi.wordpress.com/
-* http://aline.dedieguez.pagesperso-orange.fr/tstmagic/1024/index.htm
-* http://www.fmsh.fr/
-* http://www1.rfi.fr/lffr/statiques/accueil_apprendre.asp
-* https://olivierdemeulenaere.wordpress.com/
-* http://www.tout-bon.com/
-* http://www.buzzly.fr/
-* http://www.theses.fr/
-* http://cres.revues.org/
-* http://washington.blogs.liberation.fr/
-* http://alterjournalisme.blogs.courrierinternational.com/
-* http://enamerique.com/
-* https://duolinguist.wordpress.com/
-* http://www.academie-francaise.fr/la-langue-francaise/questions-de-langue
+* [mercialfred.com/index.html](http://www.mercialfred.com/index.html)
+* [culturecommunication.gouv.fr/](http://www.culturecommunication.gouv.fr/)
+* [leschroniquesdeyamna.com/?view=magazine](http://www.leschroniquesdeyamna.com/?view=magazine)
+* [citation-celebre.com/](http://www.citation-celebre.com/)
+* [francais-simple.com/](http://www.francais-simple.com/)
+* [www2.ignatius.edu/faculty/turner/](http://www2.ignatius.edu/faculty/turner/)
+* [wuzz.fr/](http://www.wuzz.fr/)
+* [topito.com/](http://www.topito.com/)
+* [decouvrirlecanada.com/](http://decouvrirlecanada.com/)
+* [le-blog-sam-la-touch.over-blog.com/](http://le-blog-sam-la-touch.over-blog.com/)
+* [impactcampus.ca/](http://impactcampus.ca/)
+* [gentside.com/](http://www.gentside.com/)
+* [liberaux.org/](http://www.liberaux.org/)
+* [lims.mondoblog.org/](http://lims.mondoblog.org/)
+* [fabbikouassi.wordpress.com/](https://fabbikouassi.wordpress.com/)
+* [aline.dedieguez.pagesperso-orange.fr/tstmagic/1024/index.htm](http://aline.dedieguez.pagesperso-orange.fr/tstmagic/1024/index.htm)
+* [fmsh.fr/](http://www.fmsh.fr/)
+* [www1.rfi.fr/lffr/statiques/accueil_apprendre.asp](http://www1.rfi.fr/lffr/statiques/accueil_apprendre.asp)
+* [olivierdemeulenaere.wordpress.com/](https://olivierdemeulenaere.wordpress.com/)
+* [tout-bon.com/](http://www.tout-bon.com/)
+* [buzzly.fr/](http://www.buzzly.fr/)
+* [theses.fr/](http://www.theses.fr/)
+* [cres.revues.org/](http://cres.revues.org/)
+* [washington.blogs.liberation.fr/](http://washington.blogs.liberation.fr/)
+* [alterjournalisme.blogs.courrierinternational.com/](http://alterjournalisme.blogs.courrierinternational.com/)
+* [enamerique.com/](http://enamerique.com/)
+* [duolinguist.wordpress.com/](https://duolinguist.wordpress.com/)
+* [academie-francaise.fr/la-langue-francaise/questions-de-langue](http://www.academie-francaise.fr/la-langue-francaise/questions-de-langue)
 * [cinéma insolite](https://vk.com/cinemainsolite)
 * [la philosophie en français](https://vk.com/laphilosophienfrancais)
 * [TerraFrance | Французский язык](https://vk.com/promenya_fr)
@@ -3947,116 +3947,116 @@
 * [CHARLIE HEBDO - 26 MAI 2021.pdf](https://vk.com/doc380872149_600395190?hash=b78754182daa8cce01&dl=182217b071ea32a2e6)
 * [CHARLIE HEBDO - 04 AOÛT 2021.pdf](https://vk.com/doc380872149_608206976?hash=cb624aa24a6e02a7c9&dl=1608f674c7093d486c)
 * Le père Goriot
-* https://www.dissentmagazine.org/article/duck-unchained-canard-enchaine-french-newspaper
+* [dissentmagazine.org/article/duck-unchained-canard-enchaine-french-newspaper](https://www.dissentmagazine.org/article/duck-unchained-canard-enchaine-french-newspaper)
 * [National_-_Sp_233_cial_Russie.pdf](https://vk.com/doc181723469_603702472?hash=4dd004cabbbb8ed63b&dl=070249f15986540def)
-* https://www.forumfr.com/f421-philosophie.html
-* https://www.forumdephilosophie.com/
-* https://www.forumactif.com/annuaire/sciences-et-savoirs/philosophie
-* https://www.forumactif.com/
+* [forumfr.com/f421-philosophie.html](https://www.forumfr.com/f421-philosophie.html)
+* [forumdephilosophie.com/](https://www.forumdephilosophie.com/)
+* [forumactif.com/annuaire/sciences-et-savoirs/philosophie](https://www.forumactif.com/annuaire/sciences-et-savoirs/philosophie)
+* [forumactif.com/](https://www.forumactif.com/)
 * [Французский язык](https://vk.com/fryaz)
 * [Africultures - Les mondes en relations : articles, revue, mag](http://africultures.com/)
 * [Agenda for another globalisation | Le blog de Thomas Piketty](http://piketty.blog.lemonde.fr/2016/11/15/agenda-for-another-globalisation/)
 * [Babelio - Découvrez des livres, critiques, extraits, résumés](https://www.babelio.com/)
 * [houellebecque](https://vk.com/wall-58134240_5413)
-* http://fr.irefeurope.org/
-* http://francestrategie1727.fr/
-* http://mesresumesdelecture.blogspot.fr/
-* http://piketty.blog.lemonde.fr/category/en-francais/
-* http://www.cons-dev.org/
-* http://www.expat.com/forum/viewforum.php?id=4403
-* http://www.ifporient.org/
-* http://www.liberation.fr/auteur/7699-michel-onfray
-* http://www.readingsoft.com/fr/quiz.html
-* http://www.regards.fr/
-* https://lejournal.cnrs.fr/
-* https://resume-de-livre.fr/
-* https://resume-de-livre.fr/questionnaire-de-lecture
-* https://www.atlantico.fr/
-* https://www.cairn.info/revue-francaise-d-economie-2013-3-page-3.htm
-* https://www.chappatte.com/
-* https://www.fichesdelecture.com/
-* https://www.fichesdelecture.com/resumes/
-* https://www.lepetitlitteraire.fr/
+* [fr.irefeurope.org/](http://fr.irefeurope.org/)
+* [francestrategie1727.fr/](http://francestrategie1727.fr/)
+* [mesresumesdelecture.blogspot.fr/](http://mesresumesdelecture.blogspot.fr/)
+* [piketty.blog.lemonde.fr/category/en-francais/](http://piketty.blog.lemonde.fr/category/en-francais/)
+* [cons-dev.org/](http://www.cons-dev.org/)
+* [expat.com/forum/viewforum.php?id=4403](http://www.expat.com/forum/viewforum.php?id=4403)
+* [ifporient.org/](http://www.ifporient.org/)
+* [liberation.fr/auteur/7699-michel-onfray](http://www.liberation.fr/auteur/7699-michel-onfray)
+* [readingsoft.com/fr/quiz.html](http://www.readingsoft.com/fr/quiz.html)
+* [regards.fr/](http://www.regards.fr/)
+* [lejournal.cnrs.fr/](https://lejournal.cnrs.fr/)
+* [resume-de-livre.fr/](https://resume-de-livre.fr/)
+* [resume-de-livre.fr/questionnaire-de-lecture](https://resume-de-livre.fr/questionnaire-de-lecture)
+* [atlantico.fr/](https://www.atlantico.fr/)
+* [cairn.info/revue-francaise-d-economie-2013-3-page-3.htm](https://www.cairn.info/revue-francaise-d-economie-2013-3-page-3.htm)
+* [chappatte.com/](https://www.chappatte.com/)
+* [fichesdelecture.com/](https://www.fichesdelecture.com/)
+* [fichesdelecture.com/resumes/](https://www.fichesdelecture.com/resumes/)
+* [lepetitlitteraire.fr/](https://www.lepetitlitteraire.fr/)
 * [L'Important : l'info par les réseaux sociaux](https://limportant.fr/)
 * [Revue de presse - sinoptic.ch](https://www.sinoptic.ch/presse/)
-* [www.lecho.be](http://www.lecho.be/)
-* https://www.philonomist.com/fr
-* https://fr.wikipedia.org/wiki/Prix_Albert-Londres
+* [lecho.be](http://www.lecho.be/)
+* [philonomist.com/fr](https://www.philonomist.com/fr)
+* [fr.wikipedia.org/wiki/Prix_Albert-Londres](https://fr.wikipedia.org/wiki/Prix_Albert-Londres)
 * [Discussion](https://www.reddit.com/r/French/search?q=flair_name%3A%22Discussion%22&restrict_sr=1)
 * [Encyclopédie de L&#39;Agora | Accueil](http://agora.qc.ca/)
 * [Encyclopédie thématique sur l&#39;inaptitude](http://agora-2.org/thematiques/inaptitude.nsf/)
 * [Filigrane. Musique, esthétique, sciences, société.](http://revues.mshparisnord.org/filigrane/index.php)
-* https://www.humanite.fr/
+* [humanite.fr/](https://www.humanite.fr/)
 * [classiques.uqac.ca/classiques/De_tocqueville_alexis/democratie_1/democratie_t1_1.pdf](http://classiques.uqac.ca/classiques/De_tocqueville_alexis/democratie_1/democratie_t1_1.pdf)
-* https://fr.wikipedia.org/wiki/Portail:Presse_%C3%A9crite
-* https://www.google.com/search?q=les+meilleurs+articles&rlz=1C1CHBF_frUS705US705&oq=les+meilleurs+articles&aqs=chrome..69i57j0l5.4706j0j4&sourceid=chrome&ie=UTF-8
-* https://www.google.de/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#safe=active&q=meileurs%20sites%20intellectuels
-* http://www.bonjourdefrance.com/index/indexapp.htm
-* https://www.lequipe.fr/Football/Actualites/Comment-parler-foot-comme-un-belge/699539
-* http://www.giga-presse.com/top_rubrique.php?categorie=3
-* https://bouillaud.wordpress.com/2009/01/21/petit-comparatif-de-revues-intellectuelles-books-nonfiction-rili/
-* [https://fr.vikidia.org/wiki/Région_(France)](https://fr.vikidia.org/wiki/R%C3%A9gion_(France))
-* https://www.lemonde.fr/europe/article/2010/08/13/belgique-une-equipe-de-foot-francophone-mise-en-demeure-de-s-entrainer-en-flamand_1398758_3214.html
+* [fr.wikipedia.org/wiki/Portail:Presse_%C3%A9crite](https://fr.wikipedia.org/wiki/Portail:Presse_%C3%A9crite)
+* [google.com/search?q=les+meilleurs+articles&rlz=1C1CHBF_frUS705US705&oq=les+meilleurs+articles&aqs=chrome..69i57j0l5.4706j0j4&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=les+meilleurs+articles&rlz=1C1CHBF_frUS705US705&oq=les+meilleurs+articles&aqs=chrome..69i57j0l5.4706j0j4&sourceid=chrome&ie=UTF-8)
+* [google.de/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#safe=active&q=meileurs%20sites%20intellectuels](https://www.google.de/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#safe=active&q=meileurs%20sites%20intellectuels)
+* [bonjourdefrance.com/index/indexapp.htm](http://www.bonjourdefrance.com/index/indexapp.htm)
+* [lequipe.fr/Football/Actualites/Comment-parler-foot-comme-un-belge/699539](https://www.lequipe.fr/Football/Actualites/Comment-parler-foot-comme-un-belge/699539)
+* [giga-presse.com/top_rubrique.php?categorie=3](http://www.giga-presse.com/top_rubrique.php?categorie=3)
+* [bouillaud.wordpress.com/2009/01/21/petit-comparatif-de-revues-intellectuelles-books-nonfiction-rili/](https://bouillaud.wordpress.com/2009/01/21/petit-comparatif-de-revues-intellectuelles-books-nonfiction-rili/)
+* [fr.vikidia.org/wiki/Région_(France)](https://fr.vikidia.org/wiki/R%C3%A9gion_(France))
+* [lemonde.fr/europe/article/2010/08/13/belgique-une-equipe-de-foot-francophone-mise-en-demeure-de-s-entrainer-en-flamand_1398758_3214.html](https://www.lemonde.fr/europe/article/2010/08/13/belgique-une-equipe-de-foot-francophone-mise-en-demeure-de-s-entrainer-en-flamand_1398758_3214.html)
 * [Vox Poetica, Société française de littérature générale et comparée](http://www.vox-poetica.org/sflgc/index.html)
-* http://fr.irefeurope.org/L-EXCEPTION-FRANCAISE,a3185
-* http://piketty.pse.ens.fr/fr/articles-de-presse
-* http://piketty.pse.ens.fr/fr/capital21c
-* http://piketty.pse.ens.fr/fr/publications
-* http://rue89.nouvelobs.com/blog/monsieur-le-prof/2013/05/07/pourquoi-les-francais-resteront-nuls-en-anglais-230283
+* [fr.irefeurope.org/L-EXCEPTION-FRANCAISE,a3185](http://fr.irefeurope.org/L-EXCEPTION-FRANCAISE,a3185)
+* [piketty.pse.ens.fr/fr/articles-de-presse](http://piketty.pse.ens.fr/fr/articles-de-presse)
+* [piketty.pse.ens.fr/fr/capital21c](http://piketty.pse.ens.fr/fr/capital21c)
+* [piketty.pse.ens.fr/fr/publications](http://piketty.pse.ens.fr/fr/publications)
+* [rue89.nouvelobs.com/blog/monsieur-le-prof/2013/05/07/pourquoi-les-francais-resteront-nuls-en-anglais-230283](http://rue89.nouvelobs.com/blog/monsieur-le-prof/2013/05/07/pourquoi-les-francais-resteront-nuls-en-anglais-230283)
 * [http://www.campusfrance.org/fr/page/pour-la-dynamique-de-leconomie-francaise%20](http://www.campusfrance.org/fr/page/pour-la-dynamique-de-leconomie-francaise)
-* http://www.journaldumauss.net/?Le-champ-intellectuel-francais
-* http://www.lefigaro.fr/actualite-france/2015/06/15/01016-20150615ARTFIG00427-the-guardian-se-demande-o-sont-passes-les-grands-penseurs-francais.php
-* https://lejournal.cnrs.fr/articles/les-maths-dopent-leconomie-francaise
+* [journaldumauss.net/?Le-champ-intellectuel-francais](http://www.journaldumauss.net/?Le-champ-intellectuel-francais)
+* [lefigaro.fr/actualite-france/2015/06/15/01016-20150615ARTFIG00427-the-guardian-se-demande-o-sont-passes-les-grands-penseurs-francais.php](http://www.lefigaro.fr/actualite-france/2015/06/15/01016-20150615ARTFIG00427-the-guardian-se-demande-o-sont-passes-les-grands-penseurs-francais.php)
+* [lejournal.cnrs.fr/articles/les-maths-dopent-leconomie-francaise](https://lejournal.cnrs.fr/articles/les-maths-dopent-leconomie-francaise)
 * Quel avenir pour l’Europe? – Eurozine
 * Vérité de fait et opinion politique – Eurozine
-* [https://www.google.com/search?q=pas+si+fous,+ces+français&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari](https://www.google.com/search?q=pas+si+fous,+ces+fran%C3%A7ais&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
-* https://septembre.space/universit-conventionnelle
-* https://b-ok.cc/s/de%20poche
+* [google.com/search?q=pas+si+fous,+ces+français&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari](https://www.google.com/search?q=pas+si+fous,+ces+fran%C3%A7ais&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
+* [septembre.space/universit-conventionnelle](https://septembre.space/universit-conventionnelle)
+* [b-ok.cc/s/de%20poche](https://b-ok.cc/s/de%20poche)
 * [Le Monde diplomatique | magzDB](http://magzdb.org/j/5941)
 * - 6
 * [xkcd-es](http://es.xkcd.com/)
 * [SoyData - la ciencia de datos a tu alcance](https://castbox.fm/channel/id1574757)
-* http://cinismoilustrado.com/
+* [cinismoilustrado.com/](http://cinismoilustrado.com/)
 * [Breve Historis del Arte](https://libgen.rs/book/index.php?md5=4DC8478C6526148479C68F6C118CE147)
 * [Breve historia de la música](https://libgen.rs/search.php?req=breve+historia+de+la+m%C3%BAsica+javier&open=0&res=25&view=simple&phrase=1&column=def)
-* - http://desmotivaciones.es/
-* http://secundarios.com/2014/08/24/los-10-mejores-sitios-para-buscar-resumenes-de-libros/
+* - [desmotivaciones.es/](http://desmotivaciones.es/)
+* [secundarios.com/2014/08/24/los-10-mejores-sitios-para-buscar-resumenes-de-libros/](http://secundarios.com/2014/08/24/los-10-mejores-sitios-para-buscar-resumenes-de-libros/)
 * brevísima
 * [Cervantes](http://www.cervantes.es/lengua_y_ensenanza/informacion.htm)
-* http://www.donquijote.org/es/
-* http://www.asale.org/
-* http://www.rae.es/
-* http://conversational-languages.com/spanish/
+* [donquijote.org/es/](http://www.donquijote.org/es/)
+* [asale.org/](http://www.asale.org/)
+* [rae.es/](http://www.rae.es/)
+* [conversational-languages.com/spanish/](http://conversational-languages.com/spanish/)
 * [Spanish for Beginners | Learning Spanish online](https://www.newsinslowspanish.com/latino/spanish-for-beginners/episode1/grammar)
 * [Trabalenguas Cortos](http://trabalenguascortos.com/)
-* http://acceso.ku.edu/
-* http://forum.wordreference.com/threads/pronunciation-r-alveolar-trill-vs-uvular-trill.1227804/
-* http://html.rincondelvago.com/dialectos-y-lenguas-de-espana.html
-* https://es.wikipedia.org/wiki/Espa%C3%B1ol_leon%C3%A9s
-* http://centros.edu.xunta.es/epapudeourense/webantiga/departamentos/lingua%20castela/apuntamentos/Lin_Cast_IV_ESA/dialectoslenguas.pdf
-* http://www.lagacetadesalamanca.es/especiales/castellano/palabrassalmantinas.html
-* http://es.slideshare.net/alejitart7/dialectos-colombianos
-* https://es.wikipedia.org/wiki/Idioma_espa%C3%B1ol_en_Colombia
-* http://acceso.ku.edu/unidad6/voces/caracteristicas.shtml
-* http://cvc.cervantes.es/lengua/thesaurus/pdf/51/TH_51_001_009_0.pdf
-* http://planetacuba.com/vocabcubano.html
-* http://www.desdeelbano.blogspot.com/
-* http://www.memrise.com/course/203799/5000-most-frequent-spanish-words/
-* http://www.guiadenuevayork.com/historia
-* http://www.posmodernia.com/
-* https://www.nuevayork.net/historia
+* [acceso.ku.edu/](http://acceso.ku.edu/)
+* [forum.wordreference.com/threads/pronunciation-r-alveolar-trill-vs-uvular-trill.1227804/](http://forum.wordreference.com/threads/pronunciation-r-alveolar-trill-vs-uvular-trill.1227804/)
+* [html.rincondelvago.com/dialectos-y-lenguas-de-espana.html](http://html.rincondelvago.com/dialectos-y-lenguas-de-espana.html)
+* [es.wikipedia.org/wiki/Espa%C3%B1ol_leon%C3%A9s](https://es.wikipedia.org/wiki/Espa%C3%B1ol_leon%C3%A9s)
+* [centros.edu.xunta.es/epapudeourense/webantiga/departamentos/lingua%20castela/apuntamentos/Lin_Cast_IV_ESA/dialectoslenguas.pdf](http://centros.edu.xunta.es/epapudeourense/webantiga/departamentos/lingua%20castela/apuntamentos/Lin_Cast_IV_ESA/dialectoslenguas.pdf)
+* [lagacetadesalamanca.es/especiales/castellano/palabrassalmantinas.html](http://www.lagacetadesalamanca.es/especiales/castellano/palabrassalmantinas.html)
+* [es.slideshare.net/alejitart7/dialectos-colombianos](http://es.slideshare.net/alejitart7/dialectos-colombianos)
+* [es.wikipedia.org/wiki/Idioma_espa%C3%B1ol_en_Colombia](https://es.wikipedia.org/wiki/Idioma_espa%C3%B1ol_en_Colombia)
+* [acceso.ku.edu/unidad6/voces/caracteristicas.shtml](http://acceso.ku.edu/unidad6/voces/caracteristicas.shtml)
+* [cvc.cervantes.es/lengua/thesaurus/pdf/51/TH_51_001_009_0.pdf](http://cvc.cervantes.es/lengua/thesaurus/pdf/51/TH_51_001_009_0.pdf)
+* [planetacuba.com/vocabcubano.html](http://planetacuba.com/vocabcubano.html)
+* [desdeelbano.blogspot.com/](http://www.desdeelbano.blogspot.com/)
+* [memrise.com/course/203799/5000-most-frequent-spanish-words/](http://www.memrise.com/course/203799/5000-most-frequent-spanish-words/)
+* [guiadenuevayork.com/historia](http://www.guiadenuevayork.com/historia)
+* [posmodernia.com/](http://www.posmodernia.com/)
+* [nuevayork.net/historia](https://www.nuevayork.net/historia)
 * [MIT OpenCourseWare: Spanish | MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu/courses/translated-courses/spanish/)
 * [Sopitas.com – Música, noticias, deportes, entretenimiento y más!](http://www.sopitas.com/)
 * [Digital Trends Español - Su fuente para las últimas noticias y comentarios sobre la tecnología](https://es.digitaltrends.com/)
-* https://gobierno.usa.gov/
-* http://www.pensamientos.es/
-* https://www.wordproject.org/bibles/sp/23/53.htm#0
-* http://blogs.transparent.com/spanish/?__utma=263963081.80762578.1436295711.1436296525.1437426128.2&__utmb=263963081.14.9.1437426246550&__utmc=263963081&__utmx=-&__utmz=263963081.1436296525.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)&__utmv=-&__utmk=59398190
-* https://books.google.com/books?id=xw5NkIEv0W4C&pg=PT81&lpg=PT81&dq=blog+espanol+economico&source=bl&ots=WR_l4XdQuk&sig=P2YBejtng-J5WC3frVm244UCr4g&hl=en&sa=X&ei=v2IAVerZA8zkoASExYH4BA&ved=0CFcQ6AEwBw#v=onepage&q=blog%20espanol%20economico&f=false
-* http://arabespanol.org/coran/
-* http://www.cultura.gob.ar/
-* http://www.brasilmasquefutbol.com/
-* http://www.rincondelvago.com/
+* [gobierno.usa.gov/](https://gobierno.usa.gov/)
+* [pensamientos.es/](http://www.pensamientos.es/)
+* [wordproject.org/bibles/sp/23/53.htm#0](https://www.wordproject.org/bibles/sp/23/53.htm#0)
+* [blogs.transparent.com/spanish/?__utma=263963081.80762578.1436295711.1436296525.1437426128.2&__utmb=263963081.14.9.1437426246550&__utmc=263963081&__utmx=-&__utmz=263963081.1436296525.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)&__utmv=-&__utmk=59398190](http://blogs.transparent.com/spanish/?__utma=263963081.80762578.1436295711.1436296525.1437426128.2&__utmb=263963081.14.9.1437426246550&__utmc=263963081&__utmx=-&__utmz=263963081.1436296525.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)&__utmv=-&__utmk=59398190)
+* [books.google.com/books?id=xw5NkIEv0W4C&pg=PT81&lpg=PT81&dq=blog+espanol+economico&source=bl&ots=WR_l4XdQuk&sig=P2YBejtng-J5WC3frVm244UCr4g&hl=en&sa=X&ei=v2IAVerZA8zkoASExYH4BA&ved=0CFcQ6AEwBw#v=onepage&q=blog%20espanol%20economico&f=false](https://books.google.com/books?id=xw5NkIEv0W4C&pg=PT81&lpg=PT81&dq=blog+espanol+economico&source=bl&ots=WR_l4XdQuk&sig=P2YBejtng-J5WC3frVm244UCr4g&hl=en&sa=X&ei=v2IAVerZA8zkoASExYH4BA&ved=0CFcQ6AEwBw#v=onepage&q=blog%20espanol%20economico&f=false)
+* [arabespanol.org/coran/](http://arabespanol.org/coran/)
+* [cultura.gob.ar/](http://www.cultura.gob.ar/)
+* [brasilmasquefutbol.com/](http://www.brasilmasquefutbol.com/)
+* [rincondelvago.com/](http://www.rincondelvago.com/)
 * La ciencia de la πzza.
 * [AMTBM SANTIAGO](https://vk.com/amtbmsantiago)
 * [Vocabulario español (Іспанська мова)](https://vk.com/vocabularioes)
@@ -4085,74 +4085,74 @@
 * Ética en PDF.
 * Filosofía de la Mente en PDF.
 * [Erzählungen aus Spanisch Amerika: Ecuador / Cuentos hispanoamericanos.](https://b-ok.cc/book/752851/9b7ed4)
-* https://e-torredebabel.com/
+* [e-torredebabel.com/](https://e-torredebabel.com/)
 * [elconfidencial.com/mundo/...](https://www.elconfidencial.com/mundo/2019-09-27/nina-ucraniana-enanismo-asesina-oid-la-verdad_2256835/)
 * Don Quixote
 * El pequeño empujón
 * [El peligro de las palabras-éxito](https://www.reddit.com/r/redditores/comments/9vec1a/el_peligro_de_las_palabras%C3%A9xito/)
-* http://www.boredpanda.es/
+* [boredpanda.es/](http://www.boredpanda.es/)
 * [La Guia Secreta de Harry Potter | El Cronista de Salem | download](https://b-ok.cc/book/2753609/99c70e)
-* http://chinochano.org/
-* http://revistas.javeriana.edu.co/index.php/MAGIS/issue/view/1112/showToc
-* http://spanish4teachers.org/spanishreadingcomprehension/
-* http://www.123teachme.com/learn_spanish/spanish_reading_passages
-* http://www.gocomics.com/comics/espanol
-* http://www.guiadelcomic.com/humor/calvin-y-hobbes.htm
-* http://www.terceracultura.net/tc/
-* http://www.unavisiondelmundo.com/
-* https://comicskingdom.com/en-espanol
-* https://culturacolectiva.com/
-* https://www.comicskingdom.com/jeremias/2020-10-04
-* https://www.democracynow.org/es
+* [chinochano.org/](http://chinochano.org/)
+* [revistas.javeriana.edu.co/index.php/MAGIS/issue/view/1112/showToc](http://revistas.javeriana.edu.co/index.php/MAGIS/issue/view/1112/showToc)
+* [spanish4teachers.org/spanishreadingcomprehension/](http://spanish4teachers.org/spanishreadingcomprehension/)
+* [123teachme.com/learn_spanish/spanish_reading_passages](http://www.123teachme.com/learn_spanish/spanish_reading_passages)
+* [gocomics.com/comics/espanol](http://www.gocomics.com/comics/espanol)
+* [guiadelcomic.com/humor/calvin-y-hobbes.htm](http://www.guiadelcomic.com/humor/calvin-y-hobbes.htm)
+* [terceracultura.net/tc/](http://www.terceracultura.net/tc/)
+* [unavisiondelmundo.com/](http://www.unavisiondelmundo.com/)
+* [comicskingdom.com/en-espanol](https://comicskingdom.com/en-espanol)
+* [culturacolectiva.com/](https://culturacolectiva.com/)
+* [comicskingdom.com/jeremias/2020-10-04](https://www.comicskingdom.com/jeremias/2020-10-04)
+* [democracynow.org/es](https://www.democracynow.org/es)
 * [Los intelectuales públicos de SPA 451](http://byuspa451.blogspot.com/)
 * [Un cacho de cultura - Publicações](https://www.facebook.com/cachoculturas/posts/174087503274731)
 * [Пошук новин за запитом national geographic en español](https://vk.com/search?c%5Bper_page%5D=40&c%5Bq%5D=national%20geographic%20en%20espa%C3%B1ol&c%5Bsection%5D=auto)
 * [CDI](https://ciudaddelasideas.com/)
 * [Folha Internacional: Noticias en español de Brasil | Folha](https://www1.folha.uol.com.br/internacional/es/)
-* http://www.ecosdelbalon.com/
-* https://www.comicskingdom.com/?category=spanish
-* https://www.elasterisco.es/
-* https://www.ricardosalinas.com/blog/blog.aspx?lang=es
-* http://www.isomorphism.es/
+* [ecosdelbalon.com/](http://www.ecosdelbalon.com/)
+* [comicskingdom.com/?category=spanish](https://www.comicskingdom.com/?category=spanish)
+* [elasterisco.es/](https://www.elasterisco.es/)
+* [ricardosalinas.com/blog/blog.aspx?lang=es](https://www.ricardosalinas.com/blog/blog.aspx?lang=es)
+* [isomorphism.es/](http://www.isomorphism.es/)
 * Los fundamentos filosóficos de Marine Le Pen – Eurozine
 * [¿Dónde vas, Europa? :: Herder Editorial](https://www.herdereditorial.com/donde-vas-europa)
 * [18. La familia en español. La familia Simpson | Hoy Hablamos](https://hoyhablamos.com/18-la-familia-espanol-la-familia-simpson/)
-* http://metode.es/revista/engano-pseudociencia
+* [metode.es/revista/engano-pseudociencia](http://metode.es/revista/engano-pseudociencia)
 * [La Ciudad](https://www.facebook.com/groups/279472675583089/901221036741580/)
 * Cataluña, un golpe posmoderno – Eurozine
 * [La mitología contada a los niños e historia de los grandes hombres de la Grecia / por Fernán Caballero | Biblioteca Virtual Miguel de Cervantes](http://www.cervantesvirtual.com/obra-visor/la-mitologia-contada-a-los-ninos-e-historia-de-los-grandes-hombres-de-la-grecia--0/html/ff2999b4-82b1-11df-acc7-002185ce6064_3.html)
 * [Mediomundo](http://marinaparra.blogspot.com/)
 * El País Semanal
-* http://www.debats.cat/es/ponentes/henry-levin
-* https://info.nodo50.org/
-* http://revistatarantula.com/
-* http://www.quelibroleo.com/
+* [debats.cat/es/ponentes/henry-levin](http://www.debats.cat/es/ponentes/henry-levin)
+* [info.nodo50.org/](https://info.nodo50.org/)
+* [revistatarantula.com/](http://revistatarantula.com/)
+* [quelibroleo.com/](http://www.quelibroleo.com/)
 * [Salinger ES](https://b-ok.cc/book/4646700/2b5181)
 * - 7
-* https://juliadatascience.io/pt/
-* https://lelivros.love/categoria/ciencias/
+* [juliadatascience.io/pt/](https://juliadatascience.io/pt/)
+* [lelivros.love/categoria/ciencias/](https://lelivros.love/categoria/ciencias/)
 * Ensaio sobre a cegueiro
-* https://ierfh.org/
+* [ierfh.org/](https://ierfh.org/)
 * [Portal GENS](http://portalgens.com.br/portal/)
-* https://en.wikipedia.org/wiki/Category:Portuguese-language_journals
+* [en.wikipedia.org/wiki/Category:Portuguese-language_journals](https://en.wikipedia.org/wiki/Category:Portuguese-language_journals)
 * [breve introdução](https://libgen.is/search.php?req=breve+introdu%C3%A7%C3%A3o)
-* https://provocacoesfilosoficas.com/
-* http://www.learn-portuguese-now.com/portuguese-for-beginners.html
-* https://canalfilosofando.blogspot.com/
-* http://www.npblog.com.ua/index.php/dovidkovi-materiali/portuhalska-mova.html
-* http://falar.ru/
-* http://www.filoinfo.net/
+* [provocacoesfilosoficas.com/](https://provocacoesfilosoficas.com/)
+* [learn-portuguese-now.com/portuguese-for-beginners.html](http://www.learn-portuguese-now.com/portuguese-for-beginners.html)
+* [canalfilosofando.blogspot.com/](https://canalfilosofando.blogspot.com/)
+* [npblog.com.ua/index.php/dovidkovi-materiali/portuhalska-mova.html](http://www.npblog.com.ua/index.php/dovidkovi-materiali/portuhalska-mova.html)
+* [falar.ru/](http://falar.ru/)
+* [filoinfo.net/](http://www.filoinfo.net/)
 * [Projeto Livro Livre - Iba Mendes](http://www.projetolivrolivre.com/)
 * [Renascença - A par com o mundo.](http://rr.sapo.pt/)
-* http://www.maisfutebol.iol.pt/
-* https://esporte.uol.com.br/futebol
-* https://globoesporte.globo.com/futebol/
-* https://www.abola.pt/
-* https://www.ojogo.pt/futebol.html
-* https://www.record.pt/
-* https://www.pontodosconcursos.com.br/
-* http://portalconservador.com/
-* http://biblioteca.publicaciencia.com.br/
+* [maisfutebol.iol.pt/](http://www.maisfutebol.iol.pt/)
+* [esporte.uol.com.br/futebol](https://esporte.uol.com.br/futebol)
+* [globoesporte.globo.com/futebol/](https://globoesporte.globo.com/futebol/)
+* [abola.pt/](https://www.abola.pt/)
+* [ojogo.pt/futebol.html](https://www.ojogo.pt/futebol.html)
+* [record.pt/](https://www.record.pt/)
+* [pontodosconcursos.com.br/](https://www.pontodosconcursos.com.br/)
+* [portalconservador.com/](http://portalconservador.com/)
+* [biblioteca.publicaciencia.com.br/](http://biblioteca.publicaciencia.com.br/)
 * [FILOSOFIA DE RUA](https://vk.com/filosofiarap)
 * [Galeria do Conhecimento](https://vk.com/galeriadoconhecimento)
 * [Livros em português](https://vk.com/livros_portugues)
@@ -4212,59 +4212,59 @@
 * [Revista Espaço Acadêmico](http://www.periodicos.uem.br/ojs/index.php/EspacoAcademico/index)
 * [.:: Filosofia.com.br - Só Filosofia ::.](http://filosofia.com.br/)
 * [A Teoria do Caos](https://misteriosdomundo.org/a-teoria-do-caos/)
-* http://www.culturajaponesa.com.br/
-* http://www.literaturarussa.com.br/
-* http://www.lusosofia.net/
+* [culturajaponesa.com.br/](http://www.culturajaponesa.com.br/)
+* [literaturarussa.com.br/](http://www.literaturarussa.com.br/)
+* [lusosofia.net/](http://www.lusosofia.net/)
 * [Licurgo Mourão | Notícias e publicações](https://www.licurgomourao.com.br/noticias-e-publicacoes)
 * [Professor Licurgo Mourão - Home](https://www.facebook.com/professorlicurgomourao/)
 * [Dignidad Humana](https://www.facebook.com/groups/279472675583089/898479190349098/)
 * [Discussão](https://www.reddit.com/r/futebol/search?q=flair_name%3A%22Discuss%C3%A3o%22&restrict_sr=1)
 * [Fernando Pessoa - Wikiquote](https://it.wikiquote.org/wiki/Fernando_Pessoa)
 * [Fernando Savater — Wikipédia](https://fr.wikipedia.org/wiki/Fernando_Savater)
-* https://www.contioutra.com/
-* http://www.scielo.br/scielo.php?script=sci_home&lng=pt&nrm=iso
+* [contioutra.com/](https://www.contioutra.com/)
+* [scielo.br/scielo.php?script=sci_home&lng=pt&nrm=iso](http://www.scielo.br/scielo.php?script=sci_home&lng=pt&nrm=iso)
 * [Meu gabinete de curiosidades](http://meugabinetedecuriosidades.blogspot.com/)
-* https://www.diariodocentrodomundo.com.br/essencial/prefeito-de-bruxelas-ironiza-neymar-nas-redes-sociais/
+* [diariodocentrodomundo.com.br/essencial/prefeito-de-bruxelas-ironiza-neymar-nas-redes-sociais/](https://www.diariodocentrodomundo.com.br/essencial/prefeito-de-bruxelas-ironiza-neymar-nas-redes-sociais/)
 * [superinteressante](https://vk.com/wall-113975068_648)
 * [Blogs e Colunas: Opinião de especialistas sobre vários temas - UOL Notícias](https://noticias.uol.com.br/blogs-e-colunas/)
 * [Paul Krugman: Coluna sobre Política e Economia | Folha](http://www1.folha.uol.com.br/colunas/paulkrugman/?cmpid=menulate)
-* http://xkcdtraduzido.blogspot.com/
-* https://theintercept.com/brasil/
+* [xkcdtraduzido.blogspot.com/](http://xkcdtraduzido.blogspot.com/)
+* [theintercept.com/brasil/](https://theintercept.com/brasil/)
 * [Não existe corrupção do bem](https://www.reddit.com/r/brasilivre/comments/ebw1vt/n%C3%A3o_existe_corrup%C3%A7%C3%A3o_do_bem/)
 * [corrupcao](https://www.reddit.com/r/brasilivre/?f=flair_name%3A%22corrupcao%22)
 * [COMUNIDADES BRASILEIRAS NO REDDIT](https://www.reddit.com/r/brasil/comments/cfw6fa/comunidades_brasileiras_no_reddit/)
 * [Pergunta](https://www.reddit.com/r/brasil/?f=flair_name%3A%22Pergunta%22)
 * [O QUE É O PAVÃO MISTERIOSO? #meteoro.doc](https://www.reddit.com/r/brasil/comments/carkl6/o_que_%C3%A9_o_pav%C3%A3o_misterioso_meteorodoc/)
 * [O forro do meu local de trabalho estava faltando uma parte pra fechar, vieram fechar e largaram uma das lampadas por dentro do forro...](https://www.reddit.com/r/brasil/comments/74gwry/o_forro_do_meu_local_de_trabalho_estava_faltando/)
-* http://obviousmag.org/
-* http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.do
+* [obviousmag.org/](http://obviousmag.org/)
+* [dominiopublico.gov.br/pesquisa/PesquisaObraForm.do](http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.do)
 * - 8
-* http://leganerd.com/tag/xkcdita/
+* [leganerd.com/tag/xkcdita/](http://leganerd.com/tag/xkcdita/)
 * [Xkcd - Italiano - Home](https://www.facebook.com/xkcdita/)
-* http://leganerd.com/
-* http://xkcdtraduzido.blogspot.com/
-* http://www.gaudio.org/
+* [leganerd.com/](http://leganerd.com/)
+* [xkcdtraduzido.blogspot.com/](http://xkcdtraduzido.blogspot.com/)
+* [gaudio.org/](http://www.gaudio.org/)
 * scritture di vilfredo pareto
 * [Wuz - Il libro nella rete - Social Network, Libri in arrivo, News, Biografie, Classifiche, Scuola](https://www.wuz.it/)
-* https://www.vanillamagazine.it/
+* [vanillamagazine.it/](https://www.vanillamagazine.it/)
 * [Search | Scribd](https://fr.scribd.com/search?content_type=tops&page=1&query=Andrea%20Pazienza)
-* https://www.studenti.it/materie/
+* [studenti.it/materie/](https://www.studenti.it/materie/)
 * [Quora](https://it.quora.com/)
-* https://paroledistorie.net/
-* http://viaggiandonellabellezza.altervista.org/
-* https://www.panorama.it/
-* http://www.italiano.rai.it/#
-* http://www.iconos.it/altri-progetti/le-favole-classiche-di-fedro-ed-esopo/
-* http://www.scuolitalia.com/
-* http://primalezione.com/
-* http://www.enitaliano.com/
+* [paroledistorie.net/](https://paroledistorie.net/)
+* [viaggiandonellabellezza.altervista.org/](http://viaggiandonellabellezza.altervista.org/)
+* [panorama.it/](https://www.panorama.it/)
+* [italiano.rai.it/#](http://www.italiano.rai.it/#)
+* [iconos.it/altri-progetti/le-favole-classiche-di-fedro-ed-esopo/](http://www.iconos.it/altri-progetti/le-favole-classiche-di-fedro-ed-esopo/)
+* [scuolitalia.com/](http://www.scuolitalia.com/)
+* [primalezione.com/](http://primalezione.com/)
+* [enitaliano.com/](http://www.enitaliano.com/)
 * [Alma TV - ALMA TV](https://www.almaedizioni.it/it/almatv/)
-* https://editoriaraba.com/
-* https://www.swissinfo.ch/ita/guida-alla-svizzera
+* [editoriaraba.com/](https://editoriaraba.com/)
+* [swissinfo.ch/ita/guida-alla-svizzera](https://www.swissinfo.ch/ita/guida-alla-svizzera)
 * [Italian poems](http://www.tcm.phy.cam.ac.uk/~mdt26/poems/index.html)
 * [Perso, General](http://penelope.uchicago.edu/Thayer/I/home.html)
 * [Poesie di Giacomo Leopardi](https://www.poesieracconti.it/poesie/a/giacomo-leopardi)
-* http://www.potterpedia.it/
+* [potterpedia.it/](http://www.potterpedia.it/)
 * [CONVIVIO: FILOSOFIA (in Italiano)](https://vk.com/filosofia_in_italiano)
 * [Итальянский для лентяев](https://vk.com/italianipigri)
 * [Итальянский язык](https://vk.com/ityaz)
@@ -4279,17 +4279,17 @@
 * Pinocchio
 * [Конституция Италии с параллельным переводом на русский](https://vk.com/wall-99393109_4090)
 * Nel Cammin di nostra vita
-* http://digilander.libero.it/Gretablu/il_piccolo_principe/pp01.html
-* http://www.ladinia.it/it/
-* https://www.ilsecoloxix.it/
+* [digilander.libero.it/Gretablu/il_piccolo_principe/pp01.html](http://digilander.libero.it/Gretablu/il_piccolo_principe/pp01.html)
+* [ladinia.it/it/](http://www.ladinia.it/it/)
+* [ilsecoloxix.it/](https://www.ilsecoloxix.it/)
 * [Autore:Giacomo Leopardi - Wikisource](https://it.wikisource.org/wiki/Autore:Giacomo_Leopardi)
 * [Biblioteca della Letteratura Italiana](http://www.letteraturaitaliana.net/index.html)
 * [Goofynomics: A Dragan](http://goofynomics.blogspot.com/2018/06/a-dragan.html)
 * [Homepage - Città Nuova - Città Nuova](https://www.cittanuova.it/)
-* http://formiche.net/
-* http://veki.club/it/
-* http://www.minube.it/
-* http://www.rai.it/raistoria/
+* [formiche.net/](http://formiche.net/)
+* [veki.club/it/](http://veki.club/it/)
+* [minube.it/](http://www.minube.it/)
+* [rai.it/raistoria/](http://www.rai.it/raistoria/)
 * [Il Vangelo secondo la scienza: Le religioni alla prova del nove](https://b-ok.cc/book/817005/26eb33)
 * [Instant book: &quot;Misterio Grande. Filosofia di Giacomo Leopardi&quot; (Bompiani 2013). By Massimo Donà. - LechLecha.me](http://www.lechlecha.me/instant-book-misterio-grande-filosofia-di-giacomo-leopardi-bompiani-2013-by-massimo-dona/)
 * [My blog scrittrice](https://myblogscrittrice.blogspot.com/)
@@ -4297,78 +4297,78 @@
 * Umberto Eco
 * [Viaggiando nella Bellezza](http://viaggiandonellabellezza.altervista.org/)
 * [Wired - Un mondo migliore. Un mondo nuovo. Ogni giorno.](https://www.wired.it/)
-* [www.treccani.it](http://www.treccani.it/)
+* [treccani.it](http://www.treccani.it/)
 * [Dialegesthai. Rivista telematica di filosofia](https://mondodomani.org/dialegesthai/)
 * [Discussione](https://www.reddit.com/r/italy/search?q=flair_name%3A%22Discussione%22&restrict_sr=1)
 * [Francesco Pungitore | giornalista](https://www.pungitore.it/)
-* https://www.agoravox.it/
-* https://www.bombagiu.it/
-* https://www.collater.al/
+* [agoravox.it/](https://www.agoravox.it/)
+* [bombagiu.it/](https://www.bombagiu.it/)
+* [collater.al/](https://www.collater.al/)
 * [Amore di Sè e dell’Altro in Friedrich Nietzsche – Radio Kafka di Francesco Urbani](http://www.radiokafka.it/amore-se-altro-in-friedrich-nietzsche/)
-* http://www.lastampa.it/2017/03/28/societa/e-sempre-l-8-marzo/vi-spiego-perch-si-pu-e-si-deve-parlare-di-sesso-e-disabilit-rYhmYZQJSXkqSRyighGXMI/pagina.html
-* http://www.optimaitalia.com/blog/2017/01/20/video-e-testo-di-piccole-cose-di-j-ax-e-fedez-con-alessandra-amoroso-in-comunisti-col-rolex/533285
+* [lastampa.it/2017/03/28/societa/e-sempre-l-8-marzo/vi-spiego-perch-si-pu-e-si-deve-parlare-di-sesso-e-disabilit-rYhmYZQJSXkqSRyighGXMI/pagina.html](http://www.lastampa.it/2017/03/28/societa/e-sempre-l-8-marzo/vi-spiego-perch-si-pu-e-si-deve-parlare-di-sesso-e-disabilit-rYhmYZQJSXkqSRyighGXMI/pagina.html)
+* [optimaitalia.com/blog/2017/01/20/video-e-testo-di-piccole-cose-di-j-ax-e-fedez-con-alessandra-amoroso-in-comunisti-col-rolex/533285](http://www.optimaitalia.com/blog/2017/01/20/video-e-testo-di-piccole-cose-di-j-ax-e-fedez-con-alessandra-amoroso-in-comunisti-col-rolex/533285)
 * [Epicuro](https://vk.com/wall414477497_4406)
-* http://forum.impariamo.com/
+* [forum.impariamo.com/](http://forum.impariamo.com/)
 * [Let's Learn Italian :: Impariamo l'italiano - Index page](http://forum.impariamo.com/)
 * Turchia: il tentato golpe ha spianato la strada a un’autocrazia – Eurozine
 * [Из итальянской литературы, что почитать](https://vk.com/wall-176229963_422)
 * [Caffè Italia * 31/08/20](https://www.reddit.com/r/italy/comments/ijq8xi/caff%C3%A8_italia_310820/)
 * [Caffè Italia](https://www.reddit.com/r/italy/?f=flair_name%3A%22Caff%C3%A8%20Italia%22)
-* https://www.atuttascuola.it/
+* [atuttascuola.it/](https://www.atuttascuola.it/)
 * [Business Insider Italia](https://it.businessinsider.com/)
-* http://www.agalmaweb.org/links.php
+* [agalmaweb.org/links.php](http://www.agalmaweb.org/links.php)
 * - 9
-* https://www.quranwow.com/
+* [quranwow.com/](https://www.quranwow.com/)
 * [alFalq](https://www.alfalq.com/)
 * [Home | openDemocracy AR](https://www.opendemocracy.net/ar/)
 * [Short Stories AR-ES-EN](https://arabianstories.com/ar/)
 * [ألف ليلة وليلة](https://ar.wikisource.org/wiki/%D8%A3%D9%84%D9%81_%D9%84%D9%8A%D9%84%D8%A9_%D9%88%D9%84%D9%8A%D9%84%D8%A9)
 * [Arabic Short Stories](http://www.ibnulyemenarabic.com/category/arabic-language/arabic-short-stories-for-foreigners/)
-* [https://archive.org/details/ArabicTalkingBooks (see YouTube as well)](https://archive.org/details/ArabicTalkingBooks)
+* [archive.org/details/ArabicTalkingBooks (see YouTube as well)](https://archive.org/details/ArabicTalkingBooks)
 * [AR](https://vk.com/wall-82352184_57707)
-* http://archives-lepost.huffingtonpost.fr/article/2011/04/06/2458238_qui-sont-les-intellectuels-les-plus-influents-du-monde-arabe-le-palmares.html
-* http://www.kutubpdf.net/
-* http://www.libanvision.com/arabe-presse-medias.htm
-* https://de1lib.org/s/?languages%5B%5D=arabic
+* [archives-lepost.huffingtonpost.fr/article/2011/04/06/2458238_qui-sont-les-intellectuels-les-plus-influents-du-monde-arabe-le-palmares.html](http://archives-lepost.huffingtonpost.fr/article/2011/04/06/2458238_qui-sont-les-intellectuels-les-plus-influents-du-monde-arabe-le-palmares.html)
+* [kutubpdf.net/](http://www.kutubpdf.net/)
+* [libanvision.com/arabe-presse-medias.htm](http://www.libanvision.com/arabe-presse-medias.htm)
+* [de1lib.org/s/?languages%5B%5D=arabic](https://de1lib.org/s/?languages%5B%5D=arabic)
 * [المعر](https://libgen.is/search.php?req=%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%8A&open=0&res=25&view=simple&phrase=1&column=def)
 * [Ahlan Wa Sahlan - Learn Arabic Audio 1-15 : Free Download &amp; Streaming : Internet Archive](https://archive.org/details/AhlanWaSahlan-LearnArabicAudio1-15)
 * [ahlan_wa_sahlan_2010_book.pdf](https://letslearnarabic.files.wordpress.com/2011/12/ahlan_wa_sahlan_2010_book.pdf)
 * [Arabic (العربية) - UniLang](https://forum.unilang.org/viewforum.php?f=25)
 * [Arabisch lernen - Willkommen](http://arabisch.9f8.de/)
 * [Arabisch lernen mit arabiya!](https://arabiya.de/)
-* https://arabisiaque.blogspot.com/
-* https://arabisiaque.wordpress.com/
+* [arabisiaque.blogspot.com/](https://arabisiaque.blogspot.com/)
+* [arabisiaque.wordpress.com/](https://arabisiaque.wordpress.com/)
 * [Qutrub Conjugator](https://qutrub.arabeyes.org/)
 * Dialekte
-* https://en.wikipedia.org/wiki/Varieties_of_Arabic
-* http://asbook.net/inyaz/arab/496-samouchitel-arabskogo-yazyka-dlya-nachinayuschih.html
-* http://arabic.byu.edu/ArabicMaterialIndex.htm
-* http://wizard.webquests.ch/arabisch.html?page=20674
-* http://www.arabe-gratuit.fr/apprendre.php
-* http://www.lescahiersdelislam.fr/links/Apprendre-la-langue-arabe-1-ressources-en-ligne_ai57952.html
-* http://www.talkinarabic.com/
-* http://www.arabic.ru/
-* http://www.al-hakkak.fr/
-* http://apprendrearabe.over-blog.com/2016/06/nouveau-service-gratuit-cours-d-arabe-en-podcast.html#
-* https://arabiclanguageexperience.wordpress.com/
-* https://welovearabic.wordpress.com/
-* http://www.101languages.net/resources/arabic/
-* http://lenguarabe.blogspot.com/
-* http://www.sprachenzentrum.uni-leipzig.de/hi.site,postext,selbstlernzentrum,a_id,1489.html?PHPSESSID=nobcehhier84pfb3vl4i
-* http://www.superprof.fr/blog/techniques-pour-apprendre-larabe/
-* http://www.ar-ru.ru/fidiu
-* http://monsieurboursier.fr/arabe/index.html
-* http://arabeo.unblog.fr/
-* http://www.arabisch-lernen.co/
-* http://www.arabisch-lernen.co/fuer-kinder
-* http://oli.cmu.edu/courses/free-open/arabic-for-global-exchange/
-* http://www.internetpolyglot.com/french/lessons-fr-ar
-* https://www.madinaharabic.com/quiz
-* http://learning.aljazeera.net/dailytraining/pages/0edab8af-7185-44a1-bea9-2b97250b8799?Level=1
-* http://learning.aljazeera.net/resources/pages/56e7c93d-6608-417b-a8e2-2a693b9d09a8?Level=1
-* https://arabisiaque.wordpress.com/
-* http://shahidlive.co/
-* http://www.langue-arabe.fr/
+* [en.wikipedia.org/wiki/Varieties_of_Arabic](https://en.wikipedia.org/wiki/Varieties_of_Arabic)
+* [asbook.net/inyaz/arab/496-samouchitel-arabskogo-yazyka-dlya-nachinayuschih.html](http://asbook.net/inyaz/arab/496-samouchitel-arabskogo-yazyka-dlya-nachinayuschih.html)
+* [arabic.byu.edu/ArabicMaterialIndex.htm](http://arabic.byu.edu/ArabicMaterialIndex.htm)
+* [wizard.webquests.ch/arabisch.html?page=20674](http://wizard.webquests.ch/arabisch.html?page=20674)
+* [arabe-gratuit.fr/apprendre.php](http://www.arabe-gratuit.fr/apprendre.php)
+* [lescahiersdelislam.fr/links/Apprendre-la-langue-arabe-1-ressources-en-ligne_ai57952.html](http://www.lescahiersdelislam.fr/links/Apprendre-la-langue-arabe-1-ressources-en-ligne_ai57952.html)
+* [talkinarabic.com/](http://www.talkinarabic.com/)
+* [arabic.ru/](http://www.arabic.ru/)
+* [al-hakkak.fr/](http://www.al-hakkak.fr/)
+* [apprendrearabe.over-blog.com/2016/06/nouveau-service-gratuit-cours-d-arabe-en-podcast.html#](http://apprendrearabe.over-blog.com/2016/06/nouveau-service-gratuit-cours-d-arabe-en-podcast.html#)
+* [arabiclanguageexperience.wordpress.com/](https://arabiclanguageexperience.wordpress.com/)
+* [welovearabic.wordpress.com/](https://welovearabic.wordpress.com/)
+* [101languages.net/resources/arabic/](http://www.101languages.net/resources/arabic/)
+* [lenguarabe.blogspot.com/](http://lenguarabe.blogspot.com/)
+* [sprachenzentrum.uni-leipzig.de/hi.site,postext,selbstlernzentrum,a_id,1489.html?PHPSESSID=nobcehhier84pfb3vl4i](http://www.sprachenzentrum.uni-leipzig.de/hi.site,postext,selbstlernzentrum,a_id,1489.html?PHPSESSID=nobcehhier84pfb3vl4i)
+* [superprof.fr/blog/techniques-pour-apprendre-larabe/](http://www.superprof.fr/blog/techniques-pour-apprendre-larabe/)
+* [ar-ru.ru/fidiu](http://www.ar-ru.ru/fidiu)
+* [monsieurboursier.fr/arabe/index.html](http://monsieurboursier.fr/arabe/index.html)
+* [arabeo.unblog.fr/](http://arabeo.unblog.fr/)
+* [arabisch-lernen.co/](http://www.arabisch-lernen.co/)
+* [arabisch-lernen.co/fuer-kinder](http://www.arabisch-lernen.co/fuer-kinder)
+* [oli.cmu.edu/courses/free-open/arabic-for-global-exchange/](http://oli.cmu.edu/courses/free-open/arabic-for-global-exchange/)
+* [internetpolyglot.com/french/lessons-fr-ar](http://www.internetpolyglot.com/french/lessons-fr-ar)
+* [madinaharabic.com/quiz](https://www.madinaharabic.com/quiz)
+* [learning.aljazeera.net/dailytraining/pages/0edab8af-7185-44a1-bea9-2b97250b8799?Level=1](http://learning.aljazeera.net/dailytraining/pages/0edab8af-7185-44a1-bea9-2b97250b8799?Level=1)
+* [learning.aljazeera.net/resources/pages/56e7c93d-6608-417b-a8e2-2a693b9d09a8?Level=1](http://learning.aljazeera.net/resources/pages/56e7c93d-6608-417b-a8e2-2a693b9d09a8?Level=1)
+* [arabisiaque.wordpress.com/](https://arabisiaque.wordpress.com/)
+* [shahidlive.co/](http://shahidlive.co/)
+* [langue-arabe.fr/](http://www.langue-arabe.fr/)
 * [Langue Arabe pour Francophones - اللغة العربية للناطقين بالفرنسية](http://www.e-apprendrearabe.com/)
 * [Learn Arabic and Other Languages](http://www.ummah.com/forum/forumdisplay.php?183-Learn-Arabic-and-Other-Languages)
 * [Learn Arabic For Free](http://arabic.speak7.com/)
@@ -4377,24 +4377,24 @@
 * [The Art of Arabic | A guide for those wacky enough to study it, because it&#39;d be insane not to.](http://www.zubaidahabduljalil.com/)
 * [Welcome to www.4training.net — 4training](https://www.4training.net/Start)
 * [Мединский курс арабского языка](https://vk.com/medinskii_kurs)
-* http://learning.aljazeera.net/arabic
-* https://en.wikipedia.org/wiki/Arabic_phonology
-* http://arabeo.unblog.fr/category/licence-2/arabe-dialectal-syro-libanais/
-* http://www.dummies.com/languages/arabic/how-to-pronounce-arabic-sounds/
-* https://fr.wikipedia.org/wiki/Phonologie_de_l%27arabe
-* https://en.wikipedia.org/wiki/Arabic_phonology
-* https://es.wikipedia.org/wiki/Fonolog%C3%ADa_del_%C3%A1rabe
-* https://pt.wikipedia.org/wiki/Fonologia_%C3%A1rabe
-* https://fr.wikipedia.org/wiki/Phonologie_de_l%27arabe
-* https://en.wikibooks.org/wiki/Arabic/Arabic_sounds
-* http://web.stanford.edu/dept/lc/arabic/alphabet/similarsounds.html
-* http://www.persee.fr/doc/remmm_0035-1474_1974_num_18_1_1288
-* http://www.primlangues.education.fr/sites/default/files/pj/systeme.pdf
-* http://www.christianlehmann.eu/ling/sprachen/spr_welt/arab_index.html
-* https://www.uni-due.de/imperia/md/content/prodaz/sprachbeschreibung_arabisch.pdf
-* http://unstats.un.org/unsd/geoinfo/UNGEGN/docs/9th-uncsgn-docs/crp/9th_UNCSGN_e-conf-98-crp-39-en.pdf
-* http://al-hakawati.la.utexas.edu/category/stories_tales/laila/
-* http://www.sirialibano.com/
+* [learning.aljazeera.net/arabic](http://learning.aljazeera.net/arabic)
+* [en.wikipedia.org/wiki/Arabic_phonology](https://en.wikipedia.org/wiki/Arabic_phonology)
+* [arabeo.unblog.fr/category/licence-2/arabe-dialectal-syro-libanais/](http://arabeo.unblog.fr/category/licence-2/arabe-dialectal-syro-libanais/)
+* [dummies.com/languages/arabic/how-to-pronounce-arabic-sounds/](http://www.dummies.com/languages/arabic/how-to-pronounce-arabic-sounds/)
+* [fr.wikipedia.org/wiki/Phonologie_de_l%27arabe](https://fr.wikipedia.org/wiki/Phonologie_de_l%27arabe)
+* [en.wikipedia.org/wiki/Arabic_phonology](https://en.wikipedia.org/wiki/Arabic_phonology)
+* [es.wikipedia.org/wiki/Fonolog%C3%ADa_del_%C3%A1rabe](https://es.wikipedia.org/wiki/Fonolog%C3%ADa_del_%C3%A1rabe)
+* [pt.wikipedia.org/wiki/Fonologia_%C3%A1rabe](https://pt.wikipedia.org/wiki/Fonologia_%C3%A1rabe)
+* [fr.wikipedia.org/wiki/Phonologie_de_l%27arabe](https://fr.wikipedia.org/wiki/Phonologie_de_l%27arabe)
+* [en.wikibooks.org/wiki/Arabic/Arabic_sounds](https://en.wikibooks.org/wiki/Arabic/Arabic_sounds)
+* [web.stanford.edu/dept/lc/arabic/alphabet/similarsounds.html](http://web.stanford.edu/dept/lc/arabic/alphabet/similarsounds.html)
+* [persee.fr/doc/remmm_0035-1474_1974_num_18_1_1288](http://www.persee.fr/doc/remmm_0035-1474_1974_num_18_1_1288)
+* [primlangues.education.fr/sites/default/files/pj/systeme.pdf](http://www.primlangues.education.fr/sites/default/files/pj/systeme.pdf)
+* [christianlehmann.eu/ling/sprachen/spr_welt/arab_index.html](http://www.christianlehmann.eu/ling/sprachen/spr_welt/arab_index.html)
+* [uni-due.de/imperia/md/content/prodaz/sprachbeschreibung_arabisch.pdf](https://www.uni-due.de/imperia/md/content/prodaz/sprachbeschreibung_arabisch.pdf)
+* [unstats.un.org/unsd/geoinfo/UNGEGN/docs/9th-uncsgn-docs/crp/9th_UNCSGN_e-conf-98-crp-39-en.pdf](http://unstats.un.org/unsd/geoinfo/UNGEGN/docs/9th-uncsgn-docs/crp/9th_UNCSGN_e-conf-98-crp-39-en.pdf)
+* [al-hakawati.la.utexas.edu/category/stories_tales/laila/](http://al-hakawati.la.utexas.edu/category/stories_tales/laila/)
+* [sirialibano.com/](http://www.sirialibano.com/)
 * [الف ليلة و ليلة. النسخة الاصلية](https://archive.org/details/ezzzidan942_yahoo)
 * [عربي21 – Medium](https://medium.com/arabi-21)
 * [وجـهـات نـظـر | الصفحة الرئيسية](http://www.weghatnazar.com/)
@@ -4402,48 +4402,48 @@
 * [Arabic Hymns | العربية](http://gospelgo.com/y/arabic.htm)
 * [Arabic language learning links (روابط)](http://arabic.desert-sky.net/links.html#lev)
 * [créer un forum : La langue arabe](http://arabeclassique.forumactif.com/)
-* https://editoriaraba.com/
-* https://www.facebook.com/0Falsafa0/posts/660682070808501
+* [editoriaraba.com/](https://editoriaraba.com/)
+* [facebook.com/0Falsafa0/posts/660682070808501](https://www.facebook.com/0Falsafa0/posts/660682070808501)
 * [Iman Mersal: Love الغرام](http://imanmersal.blogspot.com/2014/07/love_3.html)
 * [National Geographic - Videos, TV Shows &amp; Photos - الشرق الأوسط - العربية](http://natgeotv.com/ae)
 * [Resources for Arabic Litrature, Music and History](http://www.arabamerica.com/resources/)
 * [The-Seven-Habits-of-Highly-Effective-People.pdf](http://www.arabesquesociety.com/wp-content/uploads/2016/05/The-Seven-Habits-of-Highly-Effective-People.pdf)
 * [What are the most interesting Arabic blogs you know? - Quora](https://www.quora.com/What-are-the-most-interesting-Arabic-blogs-you-know)
-* [www.arablds.net](http://www.arablds.net/)
-* [www.ngalarabiya.com](http://www.ngalarabiya.com/)
+* [arablds.net](http://www.arablds.net/)
+* [ngalarabiya.com](http://www.ngalarabiya.com/)
 * [مَـتَّى 1 | Bible.is](http://listen.bible.is/ARBWTC/Matt/1/N)
 * [مَـتَّى 1 | Bible.is](http://listen.bible.is/ARBAS1/Matt/1/D)
 * [متى 2 | Bible.is](http://listen.bible.is/ARZVDV/Matt/2)
-* https://www.ynharari.com/ar/
-* https://www.aljazeera.net/midan/intellect/
-* https://www.aljazeera.net/midan/
-* http://www.lonweb.org/link-arabic.htm
-* https://varabic.wordpress.com/
-* http://www.bbc.com/arabic/learningenglish
-* http://apprendre-larabe.blogspot.com/
-* https://clearabic.wordpress.com/category/intermediate-students/
-* http://revolutionaryarabraptheindex.blogspot.com/
-* http://www.firdaous.com/
-* http://www.atinternational.org/forums/index.php?s=063f5d5bfc621df17591736bb9366f5d
-* http://www.arab.it/
-* http://www.arab.it/linara.html
-* http://www.e-apprendrearabe.com/
-* http://corsoarabo.altervista.org/
-* https://arabeenligne.fr/
-* http://allthearabicyouneverlearnedthefirsttimearound.com/
-* http://www.madinaharabic.com/Arabic_Language_Course/Lessons/
-* http://learning.aljazeera.net/dailytraining
-* http://arabic.byu.edu/ArabicMaterialIndex.htm
-* http://www.arabicwithnadia.com/
+* [ynharari.com/ar/](https://www.ynharari.com/ar/)
+* [aljazeera.net/midan/intellect/](https://www.aljazeera.net/midan/intellect/)
+* [aljazeera.net/midan/](https://www.aljazeera.net/midan/)
+* [lonweb.org/link-arabic.htm](http://www.lonweb.org/link-arabic.htm)
+* [varabic.wordpress.com/](https://varabic.wordpress.com/)
+* [bbc.com/arabic/learningenglish](http://www.bbc.com/arabic/learningenglish)
+* [apprendre-larabe.blogspot.com/](http://apprendre-larabe.blogspot.com/)
+* [clearabic.wordpress.com/category/intermediate-students/](https://clearabic.wordpress.com/category/intermediate-students/)
+* [revolutionaryarabraptheindex.blogspot.com/](http://revolutionaryarabraptheindex.blogspot.com/)
+* [firdaous.com/](http://www.firdaous.com/)
+* [atinternational.org/forums/index.php?s=063f5d5bfc621df17591736bb9366f5d](http://www.atinternational.org/forums/index.php?s=063f5d5bfc621df17591736bb9366f5d)
+* [arab.it/](http://www.arab.it/)
+* [arab.it/linara.html](http://www.arab.it/linara.html)
+* [e-apprendrearabe.com/](http://www.e-apprendrearabe.com/)
+* [corsoarabo.altervista.org/](http://corsoarabo.altervista.org/)
+* [arabeenligne.fr/](https://arabeenligne.fr/)
+* [allthearabicyouneverlearnedthefirsttimearound.com/](http://allthearabicyouneverlearnedthefirsttimearound.com/)
+* [madinaharabic.com/Arabic_Language_Course/Lessons/](http://www.madinaharabic.com/Arabic_Language_Course/Lessons/)
+* [learning.aljazeera.net/dailytraining](http://learning.aljazeera.net/dailytraining)
+* [arabic.byu.edu/ArabicMaterialIndex.htm](http://arabic.byu.edu/ArabicMaterialIndex.htm)
+* [arabicwithnadia.com/](http://www.arabicwithnadia.com/)
 * [Arabe Réussite - Home](https://www.facebook.com/ArabeReussite/)
 * [ArabEasy Map • ArabEasy / TalkEgypt](http://arabeasy.net/)
 * [dslarabe.net ==&gt; Apprendre L&#39;Arabe Devient Facile ! Jappren](http://www.japprendslarabe.net/pages/jeux.php?titre=jeux)
 * [Free Online Arabic Language Course - myEasyArabic.com](http://www.myeasyarabic.com/index.html)
 * [Gratis Arabischkursunterlagen - muslima-aktiv.de](http://www.muslima-aktiv.bplaced.net/forum/viewtopic.php?f=7&t=11681)
-* http://almashriq.hiof.no/lebanon/400/407/arabic-reader/page03.html
-* http://www.almadrasa.org/
-* http://www.almadrasa.org/textos/index.htm
-* https://arabic.fi/
+* [almashriq.hiof.no/lebanon/400/407/arabic-reader/page03.html](http://almashriq.hiof.no/lebanon/400/407/arabic-reader/page03.html)
+* [almadrasa.org/](http://www.almadrasa.org/)
+* [almadrasa.org/textos/index.htm](http://www.almadrasa.org/textos/index.htm)
+* [arabic.fi/](https://arabic.fi/)
 * [Том 1 — Яндекс.Диск](https://yadi.sk/d/mgKEY_N1s72aP/%D0%A2%D0%BE%D0%BC%201)
 * [العربية (Arabic) | WordReference Forums](https://forum.wordreference.com/forums/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-arabic.41/)
 * [تعلم العربية - اللغة الفرنسية](http://learning.aljazeera.net/fr)
@@ -4451,10 +4451,10 @@
 
 * [****Cours d&#39;arabe gratuit - Introduction - leçon 1 - centre al-dirassa](http://al-dirassa.com/le%C3%A7on/le-pronom-demonstratif-hadha/)
 * AlQur'an
-* https://www.aljazeera.net/midan/intellect/philosophy
+* [aljazeera.net/midan/intellect/philosophy](https://www.aljazeera.net/midan/intellect/philosophy)
 * Arabisches Lesebuch
 * Erste arabische Lesestücke
-* https://www.alddad.com/
+* [alddad.com/](https://www.alddad.com/)
 * [arabic_1prep_t1.pdf](https://vk.com/doc155323913_508688301?hash=21c2c72ac4139320e7&dl=cb4e65e7e6ab8d4382)
 * [arabic_1prep_t2.pdf](https://vk.com/doc155323913_508688312?hash=407985ef1e84cff4cd&dl=c946e3e505307ac04e)
 * [arabic_2prep_t1.pdf](https://vk.com/doc155323913_508688316?hash=19d1f6a2793150558e&dl=a10991b6a73d9948d1)
@@ -4463,13 +4463,13 @@
 * [arabic_3prep_t1_sb_wb.pdf](https://vk.com/doc155323913_508688329?hash=374fcb6f4e35616dd3&dl=75af76eb37ce459591)
 * [Аль-Аджрумия (Новое 3-е издание) .pdf](https://vk.com/doc18505451_486599781?hash=c75772cbb103ab7660&dl=a94ec2f67bf7c3316a)
 * [The Washington Post launches Arabic-language Global Opinion page](https://www.reddit.com/r/learn_arabic/comments/aeltni/the_washington_post_launches_arabiclanguage/)
-* [washingtonpost.com/pr/201...](https://www.washingtonpost.com/pr/2019/01/10/washington-post-launches-arabic-language-global-opinion-page/?utm_term=.3c5d841d7d7d)
-* http://coran-seul.com/index.php/home-2
+* [washingtonpost.com/pr/201...](https://www.washingtonpost.com/pr/2019/01/10/washington-post-launches-arabic-language-global-opinion-page/)
+* [coran-seul.com/index.php/home-2](http://coran-seul.com/index.php/home-2)
 * [Short Stories - Arabic with Angela](https://www.learningarabicwithangela.com/post/arabic-short-stories-with-english-translation-and-subtitles-in-pdf)
 * [Arabic quotes](https://vk.com/justarabic)
 * [تبدو السعادة دائما صغيرة عندما تمسكها في يديك، لكنك إذا تركتها أدركت فورا كم كانت كبيرة وغالية. مكسيم غوركي](https://www.facebook.com/0Falsafa0/posts/1077282415815129)
 * [“إنّني أحزن حين أرى أنهم لا يعرفون الحقيقة، الحقيقة التي أعرفها أنا. ما أشقّ أن يكون المرء هو الوحيد الذي يعرف. ولكنهم لم يفهموا. لا، لن يفهموا. إن هذه الحياة التي تضعونها في أعلى منزلة، كنت أنا في تلك الليلة مستعدًا لإنهائها بطلقة مسدس.” — فيودور دوستويفسكي](https://www.facebook.com/0Falsafa0/posts/1000509830159055)
-* https://ar.wikipedia.org/wiki/%D9%81%D9%84%D8%B3%D9%81%D8%A9
+* [ar.wikipedia.org/wiki/%D9%81%D9%84%D8%B3%D9%81%D8%A9](https://ar.wikipedia.org/wiki/%D9%81%D9%84%D8%B3%D9%81%D8%A9)
 * [Quran With Arabic Text (HD)](https://www.youtube.com/playlist?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N)
 * [CORAN (ENTIER ARABE-FRANÇAIS)](https://www.youtube.com/playlist?list=PLHYttm0wCyPD5Wvst6eV7cJn0Xzg_PeIF)
 * [مادمت تسوى عيوني ي معنيني](https://twitter.com/i/status/1271096765102600196)
@@ -4491,25 +4491,25 @@
 * [مغامرات بريكلي بوركي.pdf](https://vk.com/doc18505451_483820763?hash=4be65a18be7942b004&dl=c6d9fcdb426b435e8d)
 * افتحوا المكتبات العامة، فروادها يحافظون على التباعد الجسدي أكثر من لعيبة الشاورما وشفيطة الأراقيل
 * [دورتموند يوقف تدريباته ويغلق متاجره](https://www.alarabiya.net/ar/sport/international-sport/2020/03/17/%D8%AF%D9%88%D8%B1%D8%AA%D9%85%D9%88%D9%86%D8%AF-%D9%8A%D9%88%D9%82%D9%81-%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA%D9%87-%D9%88%D9%8A%D8%BA%D9%84%D9%82-%D9%85%D8%AA%D8%A7%D8%AC%D8%B1%D9%87.html)
-* [https://www.facebook.com/معلومة-طي%D9%90ّبة-727934797279949/](https://www.facebook.com/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A9-%D8%B7%D9%8A%D9%90%D9%91%D8%A8%D8%A9-727934797279949/)
-* https://www.facebook.com/LawKoLyoum/
-* http://mawdoo3.com/%D8%AA%D8%B5%D9%86%D9%8A%D9%81:%D8%A8%D8%AF%D9%88%D9%86_%D8%AA%D8%B5%D9%86%D9%8A%D9%81
-* http://mybook4u.com/
-* http://www.islamic-invitation.com/book_details.php?bID=72
-* http://www.islamic-invitation.com/book_show.php?bID=57
-* http://www.raya.com/writers/pages/405fb5dc-0594-457b-a090-a290ecec6512
-* https://archive.org/details/BiographyOfProphetMuhammadpbuhInArabicByTarekSwaidan
+* [facebook.com/معلومة-طي%D9%90ّبة-727934797279949/](https://www.facebook.com/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A9-%D8%B7%D9%8A%D9%90%D9%91%D8%A8%D8%A9-727934797279949/)
+* [facebook.com/LawKoLyoum/](https://www.facebook.com/LawKoLyoum/)
+* [mawdoo3.com/%D8%AA%D8%B5%D9%86%D9%8A%D9%81:%D8%A8%D8%AF%D9%88%D9%86_%D8%AA%D8%B5%D9%86%D9%8A%D9%81](http://mawdoo3.com/%D8%AA%D8%B5%D9%86%D9%8A%D9%81:%D8%A8%D8%AF%D9%88%D9%86_%D8%AA%D8%B5%D9%86%D9%8A%D9%81)
+* [mybook4u.com/](http://mybook4u.com/)
+* [islamic-invitation.com/book_details.php?bID=72](http://www.islamic-invitation.com/book_details.php?bID=72)
+* [islamic-invitation.com/book_show.php?bID=57](http://www.islamic-invitation.com/book_show.php?bID=57)
+* [raya.com/writers/pages/405fb5dc-0594-457b-a090-a290ecec6512](http://www.raya.com/writers/pages/405fb5dc-0594-457b-a090-a290ecec6512)
+* [archive.org/details/BiographyOfProphetMuhammadpbuhInArabicByTarekSwaidan](https://archive.org/details/BiographyOfProphetMuhammadpbuhInArabicByTarekSwaidan)
 * [Khoury Koran](https://libgen.is/search.php?req=khoury+koran&open=0&res=25&view=simple&phrase=1&column=def)
-* https://mostaqbal.ae/
-* https://www.aljazeera.net/sport
+* [mostaqbal.ae/](https://mostaqbal.ae/)
+* [aljazeera.net/sport](https://www.aljazeera.net/sport)
 * Matthew's Gospel - TheAramaicScriptures.com
 * - -&gt;***Красивый стих на арабском - YouTube
 * @Munir_Mohand
-* http://alwafd.org/%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D9%88%D9%81%D9%86/988726-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-%E2%80%9D%D8%A7%D9%84%D9%8A%D9%88%D9%86%D8%B3%D9%83%D9%88%E2%80%9D-%D8%AA%D8%AD%D9%8A%D9%8A-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9
-* https://mostaqbal.ae/third-wave-ai-darpa/
-* https://www.facebook.com/groups/1693645990952666/permalink/2068886023428659/
-* https://www.facebook.com/groups/1693645990952666/permalink/2069655150018413/
-* https://www.facebook.com/groups/1693645990952666/permalink/2075379749445953/
+* [alwafd.org/%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D9%88%D9%81%D9%86/988726-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-%E2%80%9D%D8%A7%D9%84%D9%8A%D9%88%D9%86%D8%B3%D9%83%D9%88%E2%80%9D-%D8%AA%D8%AD%D9%8A%D9%8A-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9](http://alwafd.org/%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D9%88%D9%81%D9%86/988726-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-%E2%80%9D%D8%A7%D9%84%D9%8A%D9%88%D9%86%D8%B3%D9%83%D9%88%E2%80%9D-%D8%AA%D8%AD%D9%8A%D9%8A-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9)
+* [mostaqbal.ae/third-wave-ai-darpa/](https://mostaqbal.ae/third-wave-ai-darpa/)
+* [facebook.com/groups/1693645990952666/permalink/2068886023428659/](https://www.facebook.com/groups/1693645990952666/permalink/2068886023428659/)
+* [facebook.com/groups/1693645990952666/permalink/2069655150018413/](https://www.facebook.com/groups/1693645990952666/permalink/2069655150018413/)
+* [facebook.com/groups/1693645990952666/permalink/2075379749445953/](https://www.facebook.com/groups/1693645990952666/permalink/2075379749445953/)
 * [Poème: Le visa (Hicham El Jakh)](https://fr.calameo.com/read/000366846584b8935267f)
 * [Poème: Le visa (Hicham el Jakh) -- &quot;هشام الجخ: &quot;التأشيرة](http://ahmedbensaada.com/index.php?option=com_content&view=article&id=110:poeme-le-visa-hicham-el-jakh&catid=37:societe&Itemid=75)
 * [والهويَّة ُقُلْتُ : فقال : دفاعٌ عن الذات... - محمود درويش : الأسطورة](https://www.facebook.com/Darwish.pal/videos/1908707592507319/)
@@ -4528,14 +4528,14 @@
 * [Quranflash | Mushaf Tajweed](http://www.quranflash.com/books/Tajweed/?fr&skin=textile#)
 * [The Quranic Arabic Corpus - Word by Word Grammar, Syntax and Morphology of the Holy Quran](http://corpus.quran.com/)
 * [Translation of the Meanings of THE NOBLE QURAN in the French Language](https://ia600309.us.archive.org/13/items/TraductionDuCoranEditionQuranComplex/Traduction%20du%20Coran%20-%20Edition%20Quran%20Complex.pdf)
-* [www.studyquran.org/resources/Quranic_Root_Dictionary.pdf](http://www.studyquran.org/resources/Quranic_Root_Dictionary.pdf)
+* [studyquran.org/resources/Quranic_Root_Dictionary.pdf](http://www.studyquran.org/resources/Quranic_Root_Dictionary.pdf)
 * [مشروع المصحف الإلكتروني بجامعة الملك سعود](http://quran.ksu.edu.sa/)
 * [Abdullah Sameer – أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ Does He who created not know, while He is the Subtle, the Acquainted? (67:14)](http://abdullahsameer.com/blog/)
 * [LQ Toronto - Learn the language of the Qur&#39;an](http://www.lqtoronto.com/madinaarabic.html)
 * [Mot à mot](http://coran-seul.com/index.php/home)
 * [Sourate al-Fatihah (1, Le Prologue)](https://www.bismirabbika.com/lire-le-coran/sourate/1.php)
-* http://www.islam4m.com/quran-maktoob.html
-* https://ar.wikiquote.org/wiki/%D8%A3%D9%82%D9%88%D8%A7%D9%84
+* [islam4m.com/quran-maktoob.html](http://www.islam4m.com/quran-maktoob.html)
+* [ar.wikiquote.org/wiki/%D8%A3%D9%82%D9%88%D8%A7%D9%84](https://ar.wikiquote.org/wiki/%D8%A3%D9%82%D9%88%D8%A7%D9%84)
 
 
 * [**Mot à mot](http://coran-seul.com/index.php/home?sourate=3)
@@ -4548,7 +4548,7 @@
 * [Quranflash | Mushaf Tajweed](http://www.quranflash.com/books/Tajweed/?fr&skin=textile#)
 * [The Quranic Arabic Corpus - Word by Word Grammar, Syntax and Morphology of the Holy Quran](http://corpus.quran.com/)
 * [Translation of the Meanings of THE NOBLE QURAN in the French Language](https://ia600309.us.archive.org/13/items/TraductionDuCoranEditionQuranComplex/Traduction%20du%20Coran%20-%20Edition%20Quran%20Complex.pdf)
-* [www.studyquran.org/resources/Quranic_Root_Dictionary.pdf](http://www.studyquran.org/resources/Quranic_Root_Dictionary.pdf)
+* [studyquran.org/resources/Quranic_Root_Dictionary.pdf](http://www.studyquran.org/resources/Quranic_Root_Dictionary.pdf)
 * [مشروع المصحف الإلكتروني بجامعة الملك سعود](http://quran.ksu.edu.sa/)
 
 
@@ -4558,14 +4558,14 @@
 * [Mot à mot](http://coran-seul.com/index.php/home)
 * [Racines Arabes](http://coran-seul.com/index.php/home-2?l=dhad)
 * [Sourate al-Fatihah (1, Le Prologue)](https://www.bismirabbika.com/lire-le-coran/sourate/1.php)
-* http://www.islam4m.com/quran-maktoob.html
-* https://quran.com/
+* [islam4m.com/quran-maktoob.html](http://www.islam4m.com/quran-maktoob.html)
+* [quran.com/](https://quran.com/)
 * [ترجمات | مجلة الفلق الإلكترونية](https://www.alfalq.com/?cat=200)
 * [[INCOMPLETE] Victims of a Map: A Bilingual Anthology of Arabic Poetry | Mahmoud Darwish | download](https://b-ok.cc/book/2166286/95abc3)
 * [Mahmoud Darwish: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/g/Mahmoud%20Darwish)
 * [الإله في أخلاق سبينوزا | مجلة الفلق الإلكترونية](https://www.alfalq.com/?p=9648)
-* https://khawarzmeat.wordpress.com/%D9%85%D8%A7%D9%87%D9%88-%D8%A7%D9%84%D8%A8%D9%88%D8%AF%D9%83%D8%A7%D8%B3%D8%AA%D8%9F/
-* https://www.facebook.com/%D9%85%D8%AC%D9%84%D8%A9-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B7%D8%A9-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A%D8%A9-729974107153779/?ref=py_c
+* [khawarzmeat.wordpress.com/%D9%85%D8%A7%D9%87%D9%88-%D8%A7%D9%84%D8%A8%D9%88%D8%AF%D9%83%D8%A7%D8%B3%D8%AA%D8%9F/](https://khawarzmeat.wordpress.com/%D9%85%D8%A7%D9%87%D9%88-%D8%A7%D9%84%D8%A8%D9%88%D8%AF%D9%83%D8%A7%D8%B3%D8%AA%D8%9F/)
+* [facebook.com/%D9%85%D8%AC%D9%84%D8%A9-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B7%D8%A9-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A%D8%A9-729974107153779/?ref=py_c](https://www.facebook.com/%D9%85%D8%AC%D9%84%D8%A9-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B7%D8%A9-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A%D8%A9-729974107153779/?ref=py_c)
 
 
 * [• Арабский язык ••](https://vk.com/arabic.pics)
@@ -4613,99 +4613,99 @@
 * [*](https://fsi-languages.yojik.eu/languages/FSI/fsi-levantine-arabic.html)
 * [Arabische Dialektologie: Einführung und Untersuchung](https://publikationen.uni-tuebingen.de/xmlui/bitstream/handle/10900/46723/pdf/Arabische_Dialektologie_Einfuehrung_und_Untersuchung.pdf?sequence=1)
 * [Damascene dialect, /u/Death_Machine par /r/Arabs](https://soundcloud.com/r-arab/tracks)
-* https://ar.mo3jam.com/
-* https://ar.mo3jam.com/dialect/Syrian
+* [ar.mo3jam.com/](https://ar.mo3jam.com/)
+* [ar.mo3jam.com/dialect/Syrian](https://ar.mo3jam.com/dialect/Syrian)
 * [ِArabic Student](http://www.thearabicstudent.com/2011/11/list-of-best-levantine-dialect-lessons.html)
-* http://www.zubaidahabduljalil.com/
-* http://langmedia.fivecolleges.edu/culturetalk/Arab-Levant/
+* [zubaidahabduljalil.com/](http://www.zubaidahabduljalil.com/)
+* [langmedia.fivecolleges.edu/culturetalk/Arab-Levant/](http://langmedia.fivecolleges.edu/culturetalk/Arab-Levant/)
 * Diwan Baladna
 * Levantinisch
-* https://welovearabic.wordpress.com/2014/12/11/top-10-free-levantine-arabic-resources-and-a-few-more-besides/
-* https://fsi-languages.yojik.eu/languages/levantine-arabic.html
-* http://www.language-archives.org/language/apc
-* https://www.mangolanguages.com/available-languages/learn-levantine-arabic/
-* http://www.thearabicstudent.com/2011/11/list-of-best-levantine-dialect-lessons.html
-* https://de.wikipedia.org/wiki/Syrisch-Arabisch
-* http://en.mo3jam.com/dialect/Syrian
-* http://www.thearabicstudent.com/2009/09/introduction-to-levantine-arabic.html
-* http://forum.wordreference.com/threads/levantine-arabic-resources.2699029/
-* https://archive.org/details/arabicmanualcoll00crow
-* http://www.livingarabic.com/levantine-arabic-dictionary.php
-* http://accents.dliflc.edu/
-* http://www.syrianarabic.com/
-* http://www.livingarabic.com/levantine-arabic-dictionary.php
-* https://ayamel.byu.edu/course/349/request
+* [welovearabic.wordpress.com/2014/12/11/top-10-free-levantine-arabic-resources-and-a-few-more-besides/](https://welovearabic.wordpress.com/2014/12/11/top-10-free-levantine-arabic-resources-and-a-few-more-besides/)
+* [fsi-languages.yojik.eu/languages/levantine-arabic.html](https://fsi-languages.yojik.eu/languages/levantine-arabic.html)
+* [language-archives.org/language/apc](http://www.language-archives.org/language/apc)
+* [mangolanguages.com/available-languages/learn-levantine-arabic/](https://www.mangolanguages.com/available-languages/learn-levantine-arabic/)
+* [thearabicstudent.com/2011/11/list-of-best-levantine-dialect-lessons.html](http://www.thearabicstudent.com/2011/11/list-of-best-levantine-dialect-lessons.html)
+* [de.wikipedia.org/wiki/Syrisch-Arabisch](https://de.wikipedia.org/wiki/Syrisch-Arabisch)
+* [en.mo3jam.com/dialect/Syrian](http://en.mo3jam.com/dialect/Syrian)
+* [thearabicstudent.com/2009/09/introduction-to-levantine-arabic.html](http://www.thearabicstudent.com/2009/09/introduction-to-levantine-arabic.html)
+* [forum.wordreference.com/threads/levantine-arabic-resources.2699029/](http://forum.wordreference.com/threads/levantine-arabic-resources.2699029/)
+* [archive.org/details/arabicmanualcoll00crow](https://archive.org/details/arabicmanualcoll00crow)
+* [livingarabic.com/levantine-arabic-dictionary.php](http://www.livingarabic.com/levantine-arabic-dictionary.php)
+* [accents.dliflc.edu/](http://accents.dliflc.edu/)
+* [syrianarabic.com/](http://www.syrianarabic.com/)
+* [livingarabic.com/levantine-arabic-dictionary.php](http://www.livingarabic.com/levantine-arabic-dictionary.php)
+* [ayamel.byu.edu/course/349/request](https://ayamel.byu.edu/course/349/request)
 * "arabe levantino" en YouTube
 * [http://www.talkinarabic.com](http://www.talkinarabic.com/)
 * - 10
-* [https://www.mdnkids.com](https://www.mdnkids.com/)
+* [mdnkids.com](https://www.mdnkids.com/)
 * [Art of War ZH-RU-EN](https://vk.com/wall-99393109_4987)
-* http://chinesereadingpractice.com/
+* [chinesereadingpractice.com/](http://chinesereadingpractice.com/)
 * [Reading Practice](https://www.learn-chinese.com/chinese-reading-practice/)
-* https://xkcd.tw/
+* [xkcd.tw/](https://xkcd.tw/)
 * [Chinese Bedtime Stories: The Little Prince (小王子)](https://youtu.be/4MRwNgE-fQo)
 * [Chinese LDS Resources](http://www.mandarintools.com/lds.html)
-* http://www.childrenslibrary.org/icdl/BookPage?bookid=___stor_00150083&pnum1=4&twoPage=false&route=simple_0_0_0_French_459&size=0&fullscreen=false&lang=French&tlang=ChineseTraditional&tsize=0&ilang=French
-* http://chinese-poems.com/
-* http://www.archchinese.com/
-* http://www.chinasage.info/language.htm
-* http://www.chino-china.com/
-* http://www.chinesisch-lernen.org/methode/mandarin
-* http://www.xuexizhongwen.de/kostenloser-chinesischkurs-einsteiger.htm
-* http://italian.cri.cn/everydaychinese/
-* http://www.chine-culture.com/chinois/cours-de-chinois-en-ligne-gratuit.php
-* http://www.bbc.co.uk/languages/chinese/
+* [childrenslibrary.org/icdl/BookPage?bookid=___stor_00150083&pnum1=4&twoPage=false&route=simple_0_0_0_French_459&size=0&fullscreen=false&lang=French&tlang=ChineseTraditional&tsize=0&ilang=French](http://www.childrenslibrary.org/icdl/BookPage?bookid=___stor_00150083&pnum1=4&twoPage=false&route=simple_0_0_0_French_459&size=0&fullscreen=false&lang=French&tlang=ChineseTraditional&tsize=0&ilang=French)
+* [chinese-poems.com/](http://chinese-poems.com/)
+* [archchinese.com/](http://www.archchinese.com/)
+* [chinasage.info/language.htm](http://www.chinasage.info/language.htm)
+* [chino-china.com/](http://www.chino-china.com/)
+* [chinesisch-lernen.org/methode/mandarin](http://www.chinesisch-lernen.org/methode/mandarin)
+* [xuexizhongwen.de/kostenloser-chinesischkurs-einsteiger.htm](http://www.xuexizhongwen.de/kostenloser-chinesischkurs-einsteiger.htm)
+* [italian.cri.cn/everydaychinese/](http://italian.cri.cn/everydaychinese/)
+* [chine-culture.com/chinois/cours-de-chinois-en-ligne-gratuit.php](http://www.chine-culture.com/chinois/cours-de-chinois-en-ligne-gratuit.php)
+* [bbc.co.uk/languages/chinese/](http://www.bbc.co.uk/languages/chinese/)
 * [Chinois Mandarin (汉语)](http://users.skynet.be/jmchinois/L120/text12.html)
 * [Slow Chinese](http://www.slow-chinese.com/)
 * [Chine-Nouvelle (multi)](http://www.chine-nouvelle.com/)
 * [Learn Chinese Language XCN](http://www.xcn-chinese.com/index.asp)
-* http://www.freechineselessons.com/#beginner
-* http://www.abc-apprendre.com/langues/chinois.php
-* http://parlezchinois.free.fr/activites.htm
-* http://www.bbc.co.uk/languages/chinese/
-* http://www.decipherchinese.com/
-* http://buyilehu.org/
-* http://english.cntv.cn/program/learnchinese/growingwithchinese/index.shtml
-* http://www.chinesetolearn.com/
-* http://english.cntv.cn/program/learnchinese/easychinese/index.shtml
-* http://www.chinosimplificado.com/metodo.php
-* http://www.thechairmansbao.com/
-* https://www.adme.ru/zhizn-nauka/30-poleznyh-resursov-dlya-vseh-kto-uchit-kitajskij-1091960/
-* http://www.studychinese.ru/
-* http://www.chinosimplificado.com/hanzixilie.php?nser=1
-* http://www.zhonga.ru/
-* http://www.aprendachines.com.br/index.htm#
-* https://chine.in/mandarin/methode/
-* http://chine.in/mandarin/outils/
-* http://arabic.cri.cn/learnchinese/
-* http://arabic.cri.cn/learnchinese/lesson01/1.html
-* https://langues-asiatiques.com/
-* http://chine.in/guide/index.php?coupdecoeur=1
-* http://www.chino-china.com/
-* http://www.chinese-tools.com/
-* https://www.youtube.com/user/ParisGoYangNu
-* http://mandarinme.com/
-* http://www.new-chinese.org/
-* http://www.chinesischlernen.com/
-* https://www.lingq.com/learn/zh/
-* http://langopedia.ru/category/%D0%BA%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D1%8F%D0%B7%D1%8B%D0%BA/
-* http://imtranslator.net/translate-and-speak/speak/chinese/
-* http://www.eguidedog.net/ekho.php
-* http://www.chine-nouvelle.com/methode/caracteres
-* http://www.mandarinstrokes.com/fr
-* https://dictionary.writtenchinese.com/
-* http://www.pinyin.info/index.html
-* http://chinesepod.com/tools/pronunciation/section/1
-* http://www.pinyin.info/readings/ba_jin/
-* https://community.travelchinaguide.com/learn-chinese/pinyin.asp
-* http://www.cslpod.com/LearnMandarin/Resource/Game/Game_VocabularyPinyin.aspx
-* http://pinyin.info/news/2009/web-pages-with-mandarin-text-to-speech/
-* http://www.pinyin.info/readings/ba_jin/family/ba_jin_family_01.pdf
-* http://www.clavisinica.com/
-* https://vk.com/video-74235176_456239229
-* http://fullchaos.com/tag/kitayskiy-yazyik/
-* https://en.wikipedia.org/wiki/Transliteration_of_Chinese
-* http://web.csulb.edu/~txie/azi/page1.htm
+* [freechineselessons.com/#beginner](http://www.freechineselessons.com/#beginner)
+* [abc-apprendre.com/langues/chinois.php](http://www.abc-apprendre.com/langues/chinois.php)
+* [parlezchinois.free.fr/activites.htm](http://parlezchinois.free.fr/activites.htm)
+* [bbc.co.uk/languages/chinese/](http://www.bbc.co.uk/languages/chinese/)
+* [decipherchinese.com/](http://www.decipherchinese.com/)
+* [buyilehu.org/](http://buyilehu.org/)
+* [english.cntv.cn/program/learnchinese/growingwithchinese/index.shtml](http://english.cntv.cn/program/learnchinese/growingwithchinese/index.shtml)
+* [chinesetolearn.com/](http://www.chinesetolearn.com/)
+* [english.cntv.cn/program/learnchinese/easychinese/index.shtml](http://english.cntv.cn/program/learnchinese/easychinese/index.shtml)
+* [chinosimplificado.com/metodo.php](http://www.chinosimplificado.com/metodo.php)
+* [thechairmansbao.com/](http://www.thechairmansbao.com/)
+* [adme.ru/zhizn-nauka/30-poleznyh-resursov-dlya-vseh-kto-uchit-kitajskij-1091960/](https://www.adme.ru/zhizn-nauka/30-poleznyh-resursov-dlya-vseh-kto-uchit-kitajskij-1091960/)
+* [studychinese.ru/](http://www.studychinese.ru/)
+* [chinosimplificado.com/hanzixilie.php?nser=1](http://www.chinosimplificado.com/hanzixilie.php?nser=1)
+* [zhonga.ru/](http://www.zhonga.ru/)
+* [aprendachines.com.br/index.htm#](http://www.aprendachines.com.br/index.htm#)
+* [chine.in/mandarin/methode/](https://chine.in/mandarin/methode/)
+* [chine.in/mandarin/outils/](http://chine.in/mandarin/outils/)
+* [arabic.cri.cn/learnchinese/](http://arabic.cri.cn/learnchinese/)
+* [arabic.cri.cn/learnchinese/lesson01/1.html](http://arabic.cri.cn/learnchinese/lesson01/1.html)
+* [langues-asiatiques.com/](https://langues-asiatiques.com/)
+* [chine.in/guide/index.php?coupdecoeur=1](http://chine.in/guide/index.php?coupdecoeur=1)
+* [chino-china.com/](http://www.chino-china.com/)
+* [chinese-tools.com/](http://www.chinese-tools.com/)
+* [](https://www.youtube.com/user/ParisGoYangNu)
+* [mandarinme.com/](http://mandarinme.com/)
+* [new-chinese.org/](http://www.new-chinese.org/)
+* [chinesischlernen.com/](http://www.chinesischlernen.com/)
+* [lingq.com/learn/zh/](https://www.lingq.com/learn/zh/)
+* [langopedia.ru/category/%D0%BA%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D1%8F%D0%B7%D1%8B%D0%BA/](http://langopedia.ru/category/%D0%BA%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D1%8F%D0%B7%D1%8B%D0%BA/)
+* [imtranslator.net/translate-and-speak/speak/chinese/](http://imtranslator.net/translate-and-speak/speak/chinese/)
+* [eguidedog.net/ekho.php](http://www.eguidedog.net/ekho.php)
+* [chine-nouvelle.com/methode/caracteres](http://www.chine-nouvelle.com/methode/caracteres)
+* [mandarinstrokes.com/fr](http://www.mandarinstrokes.com/fr)
+* [dictionary.writtenchinese.com/](https://dictionary.writtenchinese.com/)
+* [pinyin.info/index.html](http://www.pinyin.info/index.html)
+* [chinesepod.com/tools/pronunciation/section/1](http://chinesepod.com/tools/pronunciation/section/1)
+* [pinyin.info/readings/ba_jin/](http://www.pinyin.info/readings/ba_jin/)
+* [community.travelchinaguide.com/learn-chinese/pinyin.asp](https://community.travelchinaguide.com/learn-chinese/pinyin.asp)
+* [cslpod.com/LearnMandarin/Resource/Game/Game_VocabularyPinyin.aspx](http://www.cslpod.com/LearnMandarin/Resource/Game/Game_VocabularyPinyin.aspx)
+* [pinyin.info/news/2009/web-pages-with-mandarin-text-to-speech/](http://pinyin.info/news/2009/web-pages-with-mandarin-text-to-speech/)
+* [pinyin.info/readings/ba_jin/family/ba_jin_family_01.pdf](http://www.pinyin.info/readings/ba_jin/family/ba_jin_family_01.pdf)
+* [clavisinica.com/](http://www.clavisinica.com/)
+* [vk.com/video-74235176_456239229](https://vk.com/video-74235176_456239229)
+* [fullchaos.com/tag/kitayskiy-yazyik/](http://fullchaos.com/tag/kitayskiy-yazyik/)
+* [en.wikipedia.org/wiki/Transliteration_of_Chinese](https://en.wikipedia.org/wiki/Transliteration_of_Chinese)
+* [web.csulb.edu/~txie/azi/page1.htm](http://web.csulb.edu/~txie/azi/page1.htm)
 
 
 * [** (already have)](http://www.acsu.nl/files/pdf/NewPracticalChinese/practicalchineseT1.pdf)        - [****Chine-Nouvelle.com - Apprendre le Chinois, découvrir la Chine.](http://www.chine-nouvelle.com/)        - [****ChinesischLernen.com mit Audio | Chinesisch Lernen für Anfänger - kostenlos](http://www.chinesischlernen.com/)        - [****Level 1 Stories - Little Chinese Readers Leveled Reading Series](https://www.littlechinesereaders.com/courses/level-1-stories/)        - [****華語文學習網 e-Learning Portal for Chinese Education](http://www.huayuworld.org/learningchinese/e_learning/)        - [**Practical Chinese Reader learning materials](http://web.csulb.edu/~txie/pcr.html)
@@ -4715,13 +4715,13 @@
 * [Chinese Lesson 53: Chinese Greetings](http://kidschinesepodcast.com/chinese-lesson-53-chinese-greetings/)
 * [Chinese Reading Practice | Simplified Chinese Reading Exercises &amp; Materials Blog](http://chinesereadingpractice.com/)
 * [Chinese Resources | Davis Language Center](http://llc.ucdavis.edu/chinese-resources)
-* https://chinomandarin.com/
-* https://chinomandarin.com/viajar-china-chino/
-* https://sensiblechinese.com/
-* https://www.digmandarin.com/forum/thread/new-practical-chinese-reader-pdf
-* https://www.facebook.com/groups/195342957879503/
-* http://www.rtega.be/chmn/sheets/hsk1-smallest.pdf
-* http://www.visualmandarin.com/tools/chinese-stroke-order/
+* [chinomandarin.com/](https://chinomandarin.com/)
+* [chinomandarin.com/viajar-china-chino/](https://chinomandarin.com/viajar-china-chino/)
+* [sensiblechinese.com/](https://sensiblechinese.com/)
+* [digmandarin.com/forum/thread/new-practical-chinese-reader-pdf](https://www.digmandarin.com/forum/thread/new-practical-chinese-reader-pdf)
+* [facebook.com/groups/195342957879503/](https://www.facebook.com/groups/195342957879503/)
+* [rtega.be/chmn/sheets/hsk1-smallest.pdf](http://www.rtega.be/chmn/sheets/hsk1-smallest.pdf)
+* [visualmandarin.com/tools/chinese-stroke-order/](http://www.visualmandarin.com/tools/chinese-stroke-order/)
 
 
 * [**经管之家(原经济论坛)-国内活跃的经济、管理、金融、统计在线教育和咨询网站](http://bbs.pinggu.org/)
@@ -4737,29 +4737,29 @@
 * [我的首页 微博-随时随地发现新鲜事](https://weibo.com/u/6575928983/home?wvr=5)
 * [新浪搜索_新浪网 (busca)](http://blog.sina.com.cn/)
 * [無奇不有的日本薯片口味 隱藏版伴手禮 | MATCHA - 日本線上旅遊觀光雜誌](https://matcha-jp.com/tw/1808)
-* http://hanwubai.zoomblog.com/
-* http://www-personal.umich.edu/~dporter/sampler/sampler.html
-* http://www.confucius.org/lunyu/sd0101.htm
-* http://www.chinese-shortstories.com/index.htm
-* http://www-personal.umich.edu/~dporter/sampler/sampler.html#fssl
-* http://www.clavisinica.com/voices.html
-* http://www.scoop.it/t/chinese-language-learning-tools-beginners
-* http://www.languageguide.org/mandarin/vocabulary/farm-animals/
-* http://www.levangile.com/Bible-LSGS-40-1-1-complet-Contexte-oui.htm
-* http://www.levangile.com/LSG-Westphal-40-1.htm
-* http://www.chinese-poems.com/
-* http://www.digmandarin.com/chinese-pronunciation-guide.html
-* http://justlearnchinese.com/learn-mandarin-online-mini-chinese-story-%E5%88%86%E6%89%8B-breakup-1-beginner-to-elementary/
-* http://readchinese.nflc.org/
-* http://chinesereadingpractice.com/category/beginner/
-* http://collections.uiowa.edu/chinese/beginning/beginning_unit01.html#
-* http://www.xuexizhongwen.de/chinese_t21.htm
-* http://www.vuong.ch/wenblog/chinesischekindergeschichten
-* http://www.ximalaya.com/2564077/sound/19065214
-* http://www.chino-china.com/chengyu/historia/48/yimaobuba.html
-* http://www.aprendermandarin.com/2012/08/24/cuentame-cuentos-chinos/
-* http://comeimparareilcinese.blogspot.com/2012/11/cctv.html
-* http://www.chinese4.eu/it/
+* [hanwubai.zoomblog.com/](http://hanwubai.zoomblog.com/)
+* [www-personal.umich.edu/~dporter/sampler/sampler.html](http://www-personal.umich.edu/~dporter/sampler/sampler.html)
+* [confucius.org/lunyu/sd0101.htm](http://www.confucius.org/lunyu/sd0101.htm)
+* [chinese-shortstories.com/index.htm](http://www.chinese-shortstories.com/index.htm)
+* [www-personal.umich.edu/~dporter/sampler/sampler.html#fssl](http://www-personal.umich.edu/~dporter/sampler/sampler.html#fssl)
+* [clavisinica.com/voices.html](http://www.clavisinica.com/voices.html)
+* [scoop.it/t/chinese-language-learning-tools-beginners](http://www.scoop.it/t/chinese-language-learning-tools-beginners)
+* [languageguide.org/mandarin/vocabulary/farm-animals/](http://www.languageguide.org/mandarin/vocabulary/farm-animals/)
+* [levangile.com/Bible-LSGS-40-1-1-complet-Contexte-oui.htm](http://www.levangile.com/Bible-LSGS-40-1-1-complet-Contexte-oui.htm)
+* [levangile.com/LSG-Westphal-40-1.htm](http://www.levangile.com/LSG-Westphal-40-1.htm)
+* [chinese-poems.com/](http://www.chinese-poems.com/)
+* [digmandarin.com/chinese-pronunciation-guide.html](http://www.digmandarin.com/chinese-pronunciation-guide.html)
+* [justlearnchinese.com/learn-mandarin-online-mini-chinese-story-%E5%88%86%E6%89%8B-breakup-1-beginner-to-elementary/](http://justlearnchinese.com/learn-mandarin-online-mini-chinese-story-%E5%88%86%E6%89%8B-breakup-1-beginner-to-elementary/)
+* [readchinese.nflc.org/](http://readchinese.nflc.org/)
+* [chinesereadingpractice.com/category/beginner/](http://chinesereadingpractice.com/category/beginner/)
+* [collections.uiowa.edu/chinese/beginning/beginning_unit01.html#](http://collections.uiowa.edu/chinese/beginning/beginning_unit01.html#)
+* [xuexizhongwen.de/chinese_t21.htm](http://www.xuexizhongwen.de/chinese_t21.htm)
+* [vuong.ch/wenblog/chinesischekindergeschichten](http://www.vuong.ch/wenblog/chinesischekindergeschichten)
+* [ximalaya.com/2564077/sound/19065214](http://www.ximalaya.com/2564077/sound/19065214)
+* [chino-china.com/chengyu/historia/48/yimaobuba.html](http://www.chino-china.com/chengyu/historia/48/yimaobuba.html)
+* [aprendermandarin.com/2012/08/24/cuentame-cuentos-chinos/](http://www.aprendermandarin.com/2012/08/24/cuentame-cuentos-chinos/)
+* [comeimparareilcinese.blogspot.com/2012/11/cctv.html](http://comeimparareilcinese.blogspot.com/2012/11/cctv.html)
+* [chinese4.eu/it/](http://www.chinese4.eu/it/)
 * [Kityaz (ZH-RU)](https://vk.com/kityaz_zdes)
 * [ktmatu - Practical Chinese Reader Links](http://ktmatu.com/chinese/practical-chinese-reader/links.html)
 * [Le chinois, la langue chinoise, apprendre le chinois mandarin](http://lechinois.com/chinois/chinois-liste.php)
@@ -4768,7 +4768,7 @@
 * [zh](https://vk.com/wall-165993795_10)
 * [Пошук відеозаписів за запитом Китайский язык Урок 1](https://vk.com/search?c%5Bper_page%5D=80&c%5Bq%5D=%D0%9A%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D1%8F%D0%B7%D1%8B%D0%BA%20%D0%A3%D1%80%D0%BE%D0%BA%201&c%5Bsection%5D=video)
 * [大БКРС](https://bkrs.info/)
-* https://commons.wikimedia.org/wiki/Commons:Stroke_Order_Project/Simplified_Chinese_progress
+* [commons.wikimedia.org/wiki/Commons:Stroke_Order_Project/Simplified_Chinese_progress](https://commons.wikimedia.org/wiki/Commons:Stroke_Order_Project/Simplified_Chinese_progress)
 * [Китайский язык | Учим по карточкам](https://vk.com/kitkart)
 * [LaoMao | Фильмы и мультфильмы на китайском языке](https://vk.com/movies_in_chinese)
 * [Интересный китайский язык 有意思的汉语18+](https://vk.com/youyisidehanyu)
@@ -4812,41 +4812,41 @@
 * Learn Spoken Chinese.
 * Китайский язык без границ!!!
 * Learn Chinese （学习中文）.
-* https://bible.org/chinese/e/download/pdf
+* [bible.org/chinese/e/download/pdf](https://bible.org/chinese/e/download/pdf)
 * [Slow Read Chinese](https://www.youtube.com/playlist?list=PL7dpBNxowl3hRV-r2tEle3RwYU58unidM)
 * [Iris Song Reading](https://www.youtube.com/playlist?list=PL2961410A5A9C7A25)
 * [Thea Dorn,Richard Wagner - 德意志之魂](http://libgen.rs/book/index.php?md5=1E87C838260D4F7AB349C5D6FBE293E7)
 * [Deep Learning Book Chinese Translation](https://exacity.github.io/deeplearningbook-chinese/)
-* http://www.mandarintools.com/lds.html
-* https://www.bible.com/fr/bible/40/JHN.1.cnv
-* http://www.aizhu.com/
-* http://www.mandarintools.com/cbom/audiobom/
-* http://web.csulb.edu/~txie/202/pinyin.htm
+* [mandarintools.com/lds.html](http://www.mandarintools.com/lds.html)
+* [bible.com/fr/bible/40/JHN.1.cnv](https://www.bible.com/fr/bible/40/JHN.1.cnv)
+* [aizhu.com/](http://www.aizhu.com/)
+* [mandarintools.com/cbom/audiobom/](http://www.mandarintools.com/cbom/audiobom/)
+* [web.csulb.edu/~txie/202/pinyin.htm](http://web.csulb.edu/~txie/202/pinyin.htm)
 * [Chinese mini-stories | Chinese reading and listening (HSK Level 3&4)](http://www.youtube.com/playlist?list=PL9ES2MCH3ulh8M34lhbg3zOrOKEhegP2g)
 * [隔空對壘，川普和拜登各自談了什麼](https://cn.nytimes.com/usa/20201016/presidential-town-halls/zh-hant/dual/)
 * [中國：從革命到崛起 | 思想編委會 | download](https://b-ok.cc/book/5279348/451f9b?dsource=mostpopular)
-* http://www.pinyin.info/readings/ba_jin/spring/
-* http://www.pinyin.info/readings/lu_xun/guxiang_hp_chars.html
-* [https://www.dartmouth.edu/~chinese/Texts/primers/primers.html (mit pinyin / audio)](https://www.dartmouth.edu/~chinese/Texts/primers/primers.html)
-* https://www.biblegateway.com/passage/?search=%E9%A6%AC%20%E5%A4%AA%20%E7%A6%8F%20%E9%9F%B3+1&version=CUV
-* https://www.biblegateway.com/passage/?search=%E9%A6%AC%20%E5%A4%AA%20%E7%A6%8F%20%E9%9F%B3+1&version=CUVS
-* https://www.slow-chinese.com/
-* http://pinyin.info/news/2008/online-texts-in-hanyu-pinyin/
-* http://readchinese.nflc.org/?lang_id=2&lev_id=1&page=1
-* http://hornydragon.blogspot.com/
-* http://castleofcostamesa.com/chinese-culture/chinese-stories-for-children/
+* [pinyin.info/readings/ba_jin/spring/](http://www.pinyin.info/readings/ba_jin/spring/)
+* [pinyin.info/readings/lu_xun/guxiang_hp_chars.html](http://www.pinyin.info/readings/lu_xun/guxiang_hp_chars.html)
+* [dartmouth.edu/~chinese/Texts/primers/primers.html (mit pinyin / audio)](https://www.dartmouth.edu/~chinese/Texts/primers/primers.html)
+* [biblegateway.com/passage/?search=%E9%A6%AC%20%E5%A4%AA%20%E7%A6%8F%20%E9%9F%B3+1&version=CUV](https://www.biblegateway.com/passage/?search=%E9%A6%AC%20%E5%A4%AA%20%E7%A6%8F%20%E9%9F%B3+1&version=CUV)
+* [biblegateway.com/passage/?search=%E9%A6%AC%20%E5%A4%AA%20%E7%A6%8F%20%E9%9F%B3+1&version=CUVS](https://www.biblegateway.com/passage/?search=%E9%A6%AC%20%E5%A4%AA%20%E7%A6%8F%20%E9%9F%B3+1&version=CUVS)
+* [slow-chinese.com/](https://www.slow-chinese.com/)
+* [pinyin.info/news/2008/online-texts-in-hanyu-pinyin/](http://pinyin.info/news/2008/online-texts-in-hanyu-pinyin/)
+* [readchinese.nflc.org/?lang_id=2&lev_id=1&page=1](http://readchinese.nflc.org/?lang_id=2&lev_id=1&page=1)
+* [hornydragon.blogspot.com/](http://hornydragon.blogspot.com/)
+* [castleofcostamesa.com/chinese-culture/chinese-stories-for-children/](http://castleofcostamesa.com/chinese-culture/chinese-stories-for-children/)
 * [ZH Parallel Bible](https://wordproject.org/bibles/gb_py_en/index.htm)
 * 毛主席的五篇哲学著作
-* http://www.cina.ws/arte-cultura-in-cina.html
+* [cina.ws/arte-cultura-in-cina.html](http://www.cina.ws/arte-cultura-in-cina.html)
 * [Welcome to CAMR!](http://www.cs.brandeis.edu/~clp/camr/camr.html)
-* http://www.viaggio-in-cina.it/cina-cultura/
-* https://chinomandarin.com/viajar-china-chino/
+* [viaggio-in-cina.it/cina-cultura/](http://www.viaggio-in-cina.it/cina-cultura/)
+* [chinomandarin.com/viajar-china-chino/](https://chinomandarin.com/viajar-china-chino/)
 * [Analysis of Various Translations of the Chinese Bible | International Student Ministry](http://ism.intervarsity.org/resource/analysis-various-translations-chinese-bible)
 * [小熊宝宝绘本2——拉巴巴.ppt](https://vk.com/doc271091373_536126731?hash=2c27f530e1aadcc2aa&dl=d43ab9c8ab86e7d503)
 * [日本哲学 - Wikipedia](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%93%B2%E5%AD%A6)
 * [經濟哲學 - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/%E7%BB%8F%E6%B5%8E%E5%93%B2%E5%AD%A6)
 * [西洋文學概論 | Just another WordPress.com weblog](https://wl2009.wordpress.com/)
-* https://ocw.mit.edu/courses/translated-courses/traditional-chinese/
+* [ocw.mit.edu/courses/translated-courses/traditional-chinese/](https://ocw.mit.edu/courses/translated-courses/traditional-chinese/)
 * [Китайский язык. 50 текстов для чтения - 2006.pdf](https://vk.com/doc2108443_451384885?hash=ab23149f2591de253d&dl=d072955c171f1607a7)
 * [Иcтopия и культуpa Дpeвнего Kитaя](https://vk.com/wall-41900379_78153)
 * [Praktisches Chinesisch 2. | Eckhard Berkenbusch | download](https://b-ok.cc/book/890282/16704c)
@@ -4859,90 +4859,90 @@
 * [Fun to read Chinese](https://www.youtube.com/channel/UCvZQ5JuGgL3_IbXUThJQM9Q)
 * [15 Funny Chinese Memes to Help You Learn Chinese | LingQ Blog](https://www.lingq.com/blog/2019/09/24/chinese-memes/)
 * [Chinese Bible - Online English / Chinese Annoted Bible](https://chinese.gratis/bible/?action=texte&livre=43N)
-* https://www.thepaper.cn/list_26878
+* [thepaper.cn/list_26878](https://www.thepaper.cn/list_26878)
 * 2 Stunden lang nur Bibel lesen mit audio (1 Stunde mit Zeichen und Pinyin/Bopomofo, 1 Stunde nur Zeichen)
 * - 11
-* http://jeltzz.com/LLEG/001IntensiveOralLatinUnit1.pdf
-* http://ephemeris.alcuinus.net/
-* http://www.linguaeterna.com/la/
+* [jeltzz.com/LLEG/001IntensiveOralLatinUnit1.pdf](http://jeltzz.com/LLEG/001IntensiveOralLatinUnit1.pdf)
+* [ephemeris.alcuinus.net/](http://ephemeris.alcuinus.net/)
+* [linguaeterna.com/la/](http://www.linguaeterna.com/la/)
 
 
 * [***nunc est loquendum | linguae Latīnae habitāre](https://nuncestloquendum.wordpress.com/)
 * [Latin Jokes Explained — Everything Asterix](https://www.everythingasterix.com/latin-jokes-explained/)
 * [Mema Interretialia](http://interretialia.tumblr.com/)
-* [www.latinitatis.com/latinitas/nubecula/nubecula.htm](http://www.latinitatis.com/latinitas/nubecula/nubecula.htm)
-* http://interretialia.tumblr.com/
-* http://www.latinitatis.com/latinitas/nubecula/nubecula.htm
-* http://www.legonium.com/
-* https://www.everythingasterix.com/latin-jokes-explained/
+* [latinitatis.com/latinitas/nubecula/nubecula.htm](http://www.latinitatis.com/latinitas/nubecula/nubecula.htm)
+* [interretialia.tumblr.com/](http://interretialia.tumblr.com/)
+* [latinitatis.com/latinitas/nubecula/nubecula.htm](http://www.latinitatis.com/latinitas/nubecula/nubecula.htm)
+* [legonium.com/](http://www.legonium.com/)
+* [everythingasterix.com/latin-jokes-explained/](https://www.everythingasterix.com/latin-jokes-explained/)
 * [Asterix around the World - the many Languages of Asterix](http://www.asterix-obelix.nl/index.php?page=hjh/dos-hellas.inc)
 * [Asterix around the World - the many Languages of Asterix](http://www.asterix-obelix.nl/?lng=ae)
-* http://www.gottwein.de/index.php
-* http://dcc.dickinson.edu/pl/resources
-* http://www.latein24.de/
-* http://www.latein.ch/sprache/
-* http://lux.livelatin.org/
-* http://latindiscussion.com/forum/
-* https://grecolatinovivo.blog/
-* https://la.wiktionary.org/wiki/Pagina_prima
-* http://www.livelatin.org/
+* [gottwein.de/index.php](http://www.gottwein.de/index.php)
+* [dcc.dickinson.edu/pl/resources](http://dcc.dickinson.edu/pl/resources)
+* [latein24.de/](http://www.latein24.de/)
+* [latein.ch/sprache/](http://www.latein.ch/sprache/)
+* [lux.livelatin.org/](http://lux.livelatin.org/)
+* [latindiscussion.com/forum/](http://latindiscussion.com/forum/)
+* [grecolatinovivo.blog/](https://grecolatinovivo.blog/)
+* [la.wiktionary.org/wiki/Pagina_prima](https://la.wiktionary.org/wiki/Pagina_prima)
+* [livelatin.org/](http://www.livelatin.org/)
 * [Praeco Latinus (Zeitschrift)](https://babel.hathitrust.org/cgi/pt?id=uc1.$b345070&view=1up&seq=303)
 * [Greek Pronunciation](http://www.textkit.com/greek-latin-forum/viewtopic.php?f=2&t=10671)
-* http://www.inrebus.com/index.php
+* [inrebus.com/index.php](http://www.inrebus.com/index.php)
 * [Aegidius REX](https://www.youtube.com/playlist?list=PLKyUsOx0n72R4PQIFyUXPPs1JpTt5mDSd)
 * [Barnabus &amp; Bella on Vimeo](https://vimeo.com/81824982)
 * [Cornelia [microform] : Maxey, Mima, b. 1885 : Free Download &amp; Streaming : Internet Archive](https://archive.org/details/MN40039ucmf_6)
 * [Dr LaFleur's Paginae Latinae](http://www.wheelockslatin.com/tutorials/home.html)
 * [Ejercicios online de latín: el ahorcado](http://www.luduslitterarius.net/vocabulario/reus.html)
 * [Ejercicios y tests configurables para practicar latín](http://www.latinedisce.net/Exercises.latin)
-* http://home.kpn.nl/kuyvhov/index.html
-* http://jeltzz.com/lingualatinaetgraeca.html
-* http://johnpiazza.net/latin/for-latin-teachers/
-* http://jonathanaquino.com/latin/index.php
-* http://scholalatina.it/it/
-* http://wheelockslatin.com/
-* http://www.dfhg-project.org/
-* http://www.dh.uni-leipzig.de/wo/projects/open-greek-and-latin-project/
-* http://www.gottwein.de/elat/lat001.php
-* http://www.latinperdiem.com/
-* https://uark.libguides.com/c.php?g=78694&p=3780493
-* https://web.uvic.ca/hrd/latin/wheelock/contents.htm
+* [home.kpn.nl/kuyvhov/index.html](http://home.kpn.nl/kuyvhov/index.html)
+* [jeltzz.com/lingualatinaetgraeca.html](http://jeltzz.com/lingualatinaetgraeca.html)
+* [johnpiazza.net/latin/for-latin-teachers/](http://johnpiazza.net/latin/for-latin-teachers/)
+* [jonathanaquino.com/latin/index.php](http://jonathanaquino.com/latin/index.php)
+* [scholalatina.it/it/](http://scholalatina.it/it/)
+* [wheelockslatin.com/](http://wheelockslatin.com/)
+* [dfhg-project.org/](http://www.dfhg-project.org/)
+* [dh.uni-leipzig.de/wo/projects/open-greek-and-latin-project/](http://www.dh.uni-leipzig.de/wo/projects/open-greek-and-latin-project/)
+* [gottwein.de/elat/lat001.php](http://www.gottwein.de/elat/lat001.php)
+* [latinperdiem.com/](http://www.latinperdiem.com/)
+* [uark.libguides.com/c.php?g=78694&p=3780493](https://uark.libguides.com/c.php?g=78694&p=3780493)
+* [web.uvic.ca/hrd/latin/wheelock/contents.htm](https://web.uvic.ca/hrd/latin/wheelock/contents.htm)
 * [LatinPerDiem | daily Latin lessons in about four minutes, drawn from 2300 years of the corpus](http://www.latinperdiem.com/')
 * [Legonium](http://www.legonium.com/)
-* http://www.christianlehmann.eu/ling/sprachen/indogermania/SpanPhon/11_Latein.html
+* [christianlehmann.eu/ling/sprachen/indogermania/SpanPhon/11_Latein.html](http://www.christianlehmann.eu/ling/sprachen/indogermania/SpanPhon/11_Latein.html)
 * [Curso de Lengua Latina](https://www.youtube.com/watch?v=52KGIbJmESI)
-* http://almacendeclasicas.blogspot.com.ar/
-* http://avitus.alcuinus.net/schola_latina/
-* http://coderch-greek-latin-grammar.weebly.com/uploads/1/1/8/5/11853710/latin_grammar.pdf
-* http://jeltzz.com/LLEG/001IntensiveOralLatinUnit1.pdf
-* http://johnpiazza.net/latin/for-latin-teachers/
-* http://wheelockslatin.com/
-* http://www.culturaclasica.com/lingualatina/index.htm
-* http://www.gottwein.de/elat/lat001.php
-* http://www.jonathanaquino.com/latin/index.php?controller=help&action=show&id=goodies
-* http://www.latinata.com/reference.html
-* http://www.latinedisce.net/Exercises.latin
-* http://www.latinitatis.com/
-* http://www.latinperdiem.com/
-* http://www.lingvalatina.com/
-* http://www.lvdvs.net/materiale.html
-* http://www.via-neolatina.fr/
-* http://www.wheelockslatin.com/tutorials/home.html
+* [almacendeclasicas.blogspot.com.ar/](http://almacendeclasicas.blogspot.com.ar/)
+* [avitus.alcuinus.net/schola_latina/](http://avitus.alcuinus.net/schola_latina/)
+* [coderch-greek-latin-grammar.weebly.com/uploads/1/1/8/5/11853710/latin_grammar.pdf](http://coderch-greek-latin-grammar.weebly.com/uploads/1/1/8/5/11853710/latin_grammar.pdf)
+* [jeltzz.com/LLEG/001IntensiveOralLatinUnit1.pdf](http://jeltzz.com/LLEG/001IntensiveOralLatinUnit1.pdf)
+* [johnpiazza.net/latin/for-latin-teachers/](http://johnpiazza.net/latin/for-latin-teachers/)
+* [wheelockslatin.com/](http://wheelockslatin.com/)
+* [culturaclasica.com/lingualatina/index.htm](http://www.culturaclasica.com/lingualatina/index.htm)
+* [gottwein.de/elat/lat001.php](http://www.gottwein.de/elat/lat001.php)
+* [jonathanaquino.com/latin/index.php?controller=help&action=show&id=goodies](http://www.jonathanaquino.com/latin/index.php?controller=help&action=show&id=goodies)
+* [latinata.com/reference.html](http://www.latinata.com/reference.html)
+* [latinedisce.net/Exercises.latin](http://www.latinedisce.net/Exercises.latin)
+* [latinitatis.com/](http://www.latinitatis.com/)
+* [latinperdiem.com/](http://www.latinperdiem.com/)
+* [lingvalatina.com/](http://www.lingvalatina.com/)
+* [lvdvs.net/materiale.html](http://www.lvdvs.net/materiale.html)
+* [via-neolatina.fr/](http://www.via-neolatina.fr/)
+* [wheelockslatin.com/tutorials/home.html](http://www.wheelockslatin.com/tutorials/home.html)
 * [Wheelock's Translation Keys](http://www.wheelockslatin.com/wheelocksteacherguide.html#transkeys)
-* http://www.zaumnik.ru/latinskij-jazyk/uroki-latyni.html
+* [zaumnik.ru/latinskij-jazyk/uroki-latyni.html](http://www.zaumnik.ru/latinskij-jazyk/uroki-latyni.html)
 * [Cornelia](https://archive.org/details/MN40039ucmf_6)
-* https://archive.org/stream/anetymologicald00valpgoog#page/n18/mode/2up
-* https://issuu.com/migueljesus88/docs/albano__alexio_-_ars_grammatica._li
-* https://lingualatina-orberg.wikispaces.com/
-* https://mediterranees.net/grammaire/latin/index.html
-* https://web.uvic.ca/hrd/latin/wheelock/contents.htm
+* [archive.org/stream/anetymologicald00valpgoog#page/n18/mode/2up](https://archive.org/stream/anetymologicald00valpgoog#page/n18/mode/2up)
+* [issuu.com/migueljesus88/docs/albano__alexio_-_ars_grammatica._li](https://issuu.com/migueljesus88/docs/albano__alexio_-_ars_grammatica._li)
+* [lingualatina-orberg.wikispaces.com/](https://lingualatina-orberg.wikispaces.com/)
+* [mediterranees.net/grammaire/latin/index.html](https://mediterranees.net/grammaire/latin/index.html)
+* [web.uvic.ca/hrd/latin/wheelock/contents.htm](https://web.uvic.ca/hrd/latin/wheelock/contents.htm)
 * [TradurreAntico – Versioni gratuite di Latino e Greco](http://www.tradurreantico.it/)
 * [Versioni di greco e latino tradotte - Greco e Latino](https://grecoelatino.it/)
-* https://nuncestloquendum.wordpress.com/
-* https://comprehensibleantiquity.com/
-* http://www.onlineuniversities.com/blog/2010/06/50-fun-and-educational-websites-keeping-latin-alive/
-* https://vivariumnovum.it/
-* https://www.lingq.com/learn/la/web/feed
+* [nuncestloquendum.wordpress.com/](https://nuncestloquendum.wordpress.com/)
+* [comprehensibleantiquity.com/](https://comprehensibleantiquity.com/)
+* [onlineuniversities.com/blog/2010/06/50-fun-and-educational-websites-keeping-latin-alive/](http://www.onlineuniversities.com/blog/2010/06/50-fun-and-educational-websites-keeping-latin-alive/)
+* [vivariumnovum.it/](https://vivariumnovum.it/)
+* [lingq.com/learn/la/web/feed](https://www.lingq.com/learn/la/web/feed)
 * [LINGVA LATINA](http://www.lingvalatina.com/)
 * [LINGVA LATINA per se illustrata, de HANS ORBERG](http://www.culturaclasica.com/lingualatina/index.htm)
 * [LLPSI - home](https://lingualatina-orberg.wikispaces.com/)
@@ -4959,18 +4959,18 @@
 * [e-latein • Forum anzeigen - e-latein: Latein](http://latein.at/phpBB/viewforum.php?f=28&sid=27f78ba72b1dca3443c4b31afea600e2)
 * [EPHEMERIS. Nuntii Latini universi.](http://ephemeris.alcuinus.net/)
 * [Gladiator - Latine](https://www.krescendo.com/gladiatorlatin/script/latine/gladiator.html)
-* http://mercure.fltr.ucl.ac.be/Hodoi/concordances/intro.htm
-* http://penelope.uchicago.edu/Thayer/e/roman/texts/home.html
-* http://www.perseus.tufts.edu/hopper/morph
-* http://www.trigofacile.com/jardins/
-* https://classics.williams.edu/resources/online-resources-2/
-* https://comprehensibleantiquity.com/
-* https://letancientvoicesspeak.wordpress.com/francais/
-* https://sites.google.com/site/ancienttexts/
-* https://www.google.com/googlebooks/ancient-greek-and-latin.html
-* https://www.librarything.com/topic/171687
-* https://www.loebclassics.com/authors
-* https://www.steppingintoci.com/shop-by-series.html
+* [mercure.fltr.ucl.ac.be/Hodoi/concordances/intro.htm](http://mercure.fltr.ucl.ac.be/Hodoi/concordances/intro.htm)
+* [penelope.uchicago.edu/Thayer/e/roman/texts/home.html](http://penelope.uchicago.edu/Thayer/e/roman/texts/home.html)
+* [perseus.tufts.edu/hopper/morph](http://www.perseus.tufts.edu/hopper/morph)
+* [trigofacile.com/jardins/](http://www.trigofacile.com/jardins/)
+* [classics.williams.edu/resources/online-resources-2/](https://classics.williams.edu/resources/online-resources-2/)
+* [comprehensibleantiquity.com/](https://comprehensibleantiquity.com/)
+* [letancientvoicesspeak.wordpress.com/francais/](https://letancientvoicesspeak.wordpress.com/francais/)
+* [sites.google.com/site/ancienttexts/](https://sites.google.com/site/ancienttexts/)
+* [google.com/googlebooks/ancient-greek-and-latin.html](https://www.google.com/googlebooks/ancient-greek-and-latin.html)
+* [librarything.com/topic/171687](https://www.librarything.com/topic/171687)
+* [loebclassics.com/authors](https://www.loebclassics.com/authors)
+* [steppingintoci.com/shop-by-series.html](https://www.steppingintoci.com/shop-by-series.html)
 * [Jeltzz***](http://jeltzz.com/lingualatinaetgraeca.html)
 * [Jeltzz***](http://jeltzz.com/lingualatinaetgraeca.html)
 * [Latin Forum Highlights | Latin Language Discussion](http://latindiscussion.com/)
@@ -4978,18 +4978,18 @@
 * [VATES](http://pineapplepubs.snazzystuff.co.uk/vates.htm)
 * [Via-neolatina - Accueil de mon site créé avec Meabilis](http://www.via-neolatina.fr/)
 * [Spem Habeo](https://docs.google.com/document/d/19bKyAz1croA5IPFOzBmi2XkAoXV26cMW2cO0hCkKawI/edit)
-* https://twitter.com/Pontifex_ln
-* http://www.magister.msk.ru/library/babilon/latin/latin.htm
-* http://www.swisseduc.ch/altphilo/griech/gintlekt/
-* http://ephemeris.alcuinus.net/
-* http://penelope.uchicago.edu/Thayer/e/roman/texts/home.html
-* http://pineapplepubs.snazzystuff.co.uk/vates.htm
-* http://respicitecaelum.com/atrium.html
-* http://www.lcc.uma.es/~ppgg/html/requiem.html
-* https://la.wikipedia.org/wiki/Oeconomica
-* https://twitter.com/Pontifex_ln
-* https://www.krescendo.com/gladiatorlatin/script/latine/gladiator.html
-* https://www.steppingintoci.com/shop-by-series.html
+* [twitter.com/Pontifex_ln](https://twitter.com/Pontifex_ln)
+* [magister.msk.ru/library/babilon/latin/latin.htm](http://www.magister.msk.ru/library/babilon/latin/latin.htm)
+* [swisseduc.ch/altphilo/griech/gintlekt/](http://www.swisseduc.ch/altphilo/griech/gintlekt/)
+* [ephemeris.alcuinus.net/](http://ephemeris.alcuinus.net/)
+* [penelope.uchicago.edu/Thayer/e/roman/texts/home.html](http://penelope.uchicago.edu/Thayer/e/roman/texts/home.html)
+* [pineapplepubs.snazzystuff.co.uk/vates.htm](http://pineapplepubs.snazzystuff.co.uk/vates.htm)
+* [respicitecaelum.com/atrium.html](http://respicitecaelum.com/atrium.html)
+* [lcc.uma.es/~ppgg/html/requiem.html](http://www.lcc.uma.es/~ppgg/html/requiem.html)
+* [la.wikipedia.org/wiki/Oeconomica](https://la.wikipedia.org/wiki/Oeconomica)
+* [twitter.com/Pontifex_ln](https://twitter.com/Pontifex_ln)
+* [krescendo.com/gladiatorlatin/script/latine/gladiator.html](https://www.krescendo.com/gladiatorlatin/script/latine/gladiator.html)
+* [steppingintoci.com/shop-by-series.html](https://www.steppingintoci.com/shop-by-series.html)
 * [Alicia in Terra Mirabili : Ludovici Carroll : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/AliciaInTerra/page/n1/mode/2up)
 * [A caelo usque ad centrum](https://vk.com/abantiquo)
 * [Latina Quote | Латынь для пацанов](https://vk.com/latinaquotepacan)
@@ -5025,7 +5025,7 @@
 * [Palaestra latina](http://www.culturaclasica.com/palaestralatina)
 * [Leviathan](https://archive.org/details/leviathansivedem00hobb/page/n5/mode/2up)
 * [Petronius, Satyricon 44 — RVMAK recitat](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dkhiootdwfok%26fbclid%3DIwAR3Un5SbxCP2XEjjHPBc-2Z6kNL5dN_a-etcu5-Vk7MNy9_8StyEFb8XKsE&h=AT37h1RcK2wocOMnScmK6X0VNCNbVC76aiHUrNIW4tmqSJFsJ0RsVH0h1iqrstpkj1m-bU7QWTxEZXS2tXmXYA7jUrplTgjJab4VsO-lmP0HuYB494ayhhHoh3tnMn7hVy4qlhfnpA)
-* https://oll.libertyfund.org/title/newton-principia-mathematica-latin-ed
+* [oll.libertyfund.org/title/newton-principia-mathematica-latin-ed](https://oll.libertyfund.org/title/newton-principia-mathematica-latin-ed)
 * [Etika | Benedikt de Spinoza](https://de1lib.org/book/3403569/1e9151)
 * [Martin Luther's 95 Theses in Latin and English - Conrad Askland](https://conradaskland.com/blog/martin-luthers-95-theses-in-latin-and-english/)
 * [DE CERVO ET VENATORE - Phaedri fabula Latine enarrata](https://www.youtube.com/watch?v=iwNtYdRHFdw)
@@ -5038,24 +5038,24 @@
 * [Commentarii de bello gallico + audio](https://vk.com/wall-41948090_22161)
 * [digilibLT - Philosophiae consolatio](http://digiliblt.lett.unipmn.it/xtf/view?query=;brand=default;docId=dlt000043/dlt000043.xml;)
 * [Historia danica](https://archive.org/details/historiadanica00velsgoog)
-* http://users.telenet.be/rwmeijer/spinoza/conc.htm?lang=F
-* http://users.telenet.be/rwmeijer/spinoza/works.htm?lang=F
-* https://la.wikipedia.org/wiki/Vicipaedia:Pagina_prima
-* https://la.wikiquote.org/wiki/Pagina_prima
+* [users.telenet.be/rwmeijer/spinoza/conc.htm?lang=F](http://users.telenet.be/rwmeijer/spinoza/conc.htm?lang=F)
+* [users.telenet.be/rwmeijer/spinoza/works.htm?lang=F](http://users.telenet.be/rwmeijer/spinoza/works.htm?lang=F)
+* [la.wikipedia.org/wiki/Vicipaedia:Pagina_prima](https://la.wikipedia.org/wiki/Vicipaedia:Pagina_prima)
+* [la.wikiquote.org/wiki/Pagina_prima](https://la.wikiquote.org/wiki/Pagina_prima)
 * [Chapter 1.1 | Dickinson College Commentaries](http://dcc.dickinson.edu/zh-hans/caesar/book-1/chapter-1-1)
-* https://digiliblt.uniupo.it/
+* [digiliblt.uniupo.it/](https://digiliblt.uniupo.it/)
 * [EPHEMERIS. Nuntii Latini universi.](http://ephemeris.alcuinus.net/)
-* https://la.wikisource.org/wiki/Philosophiae_Naturalis_Principia_Mathematica
-* http://hiberna-cr.wikidot.com/reading-material
+* [la.wikisource.org/wiki/Philosophiae_Naturalis_Principia_Mathematica](https://la.wikisource.org/wiki/Philosophiae_Naturalis_Principia_Mathematica)
+* [hiberna-cr.wikidot.com/reading-material](http://hiberna-cr.wikidot.com/reading-material)
 * [Carolus et Maria](https://drive.google.com/file/d/1TO3h4dCAp2dYZZvkn--po1o4hG7GhX8v/view?usp=sharing)
 * [De Deo (Latin) | Ethicadb.org](http://ethicadb.org/pars.php?parid=1&lanid=0&lg=fr)
 * [De vita beata](https://drive.google.com/file/d/1XyxrvSzTWJFbp1XasKQs51-xtO0q5bFU/view)
 * [Des romans grecs et latins et de l’avenir des Anciens. - thierry-guinhut-litteratures.com](http://www.thierry-guinhut-litteratures.com/2016/02/des-romans-grecs-et-latins-et-de-l-avenir-des-anciens.html)
 * [digilibLT - Biblioteca digitale di testi latini tardoantichi](http://digiliblt.lett.unipmn.it/index.php)
-* https://archive.org/details/AristotelesLatinusMetaphysica
-* https://books.google.com/books/about/Aristoteles_Latinus.html?hl=it&id=d9YUAAAAIAAJ
-* https://la.wikisource.org/wiki/Ethica
-* https://www.google.com/search?client=safari&hl=it-us&ei=HBcoXMeeBcykjwSw6rWIAw&q=orbis+pictus+latinus+pdf&oq=orbis+pictus+latinus+pdf&gs_l=mobile-gws-wiz-serp.3..0i22i30.12557.13264..13440...0.0..0.392.692.0j3j0j1......0....1.........33i160.R0c3GbMwzU4
+* [archive.org/details/AristotelesLatinusMetaphysica](https://archive.org/details/AristotelesLatinusMetaphysica)
+* [books.google.com/books/about/Aristoteles_Latinus.html?hl=it&id=d9YUAAAAIAAJ](https://books.google.com/books/about/Aristoteles_Latinus.html?hl=it&id=d9YUAAAAIAAJ)
+* [la.wikisource.org/wiki/Ethica](https://la.wikisource.org/wiki/Ethica)
+* [google.com/search?client=safari&hl=it-us&ei=HBcoXMeeBcykjwSw6rWIAw&q=orbis+pictus+latinus+pdf&oq=orbis+pictus+latinus+pdf&gs_l=mobile-gws-wiz-serp.3..0i22i30.12557.13264..13440...0.0..0.392.692.0j3j0j1......0....1.........33i160.R0c3GbMwzU4](https://www.google.com/search?client=safari&hl=it-us&ei=HBcoXMeeBcykjwSw6rWIAw&q=orbis+pictus+latinus+pdf&oq=orbis+pictus+latinus+pdf&gs_l=mobile-gws-wiz-serp.3..0i22i30.12557.13264..13440...0.0..0.392.692.0j3j0j1......0....1.........33i160.R0c3GbMwzU4)
 * [La società della produzione e il “latino lingua inutile” – Oltrelalinea](http://www.oltrelalinea.news/2018/03/06/la-societa-della-produzione-e-il-latino-lingua-inutile/)
 * [Let's Read Hobbitus Ille (The Hobbit latin version) part 1: Introductions - YouTube](https://www.youtube.com/watch?v=-B5Dx74pgqQ)
 * [Musisque Deoque](http://mizar.unive.it/mqdq/public/)
@@ -5063,30 +5063,30 @@
 * Prova di latino: ecco la nostra traduzione del brano di Seneca
 * [Sebastian Castellio | Publikationen I](http://www.castellio.unibe.ch/publikationen.html)
 * [Winnie Ille Pu' (Latin version). Chapter 1 - YouTube](https://www.youtube.com/watch?v=hWkspj0lBCs)
-* http://www.zeno.org/Georges-1913
-* http://www.bibel-verse.de/
-* https://webfiles.acu.edu/users/goebeld/web/public_html/vulgata/newtest/vnt.htm
-* http://www.latinvulgate.com/lv/verse.aspx?t=1&b=1
-* http://www.drbo.org/lvb/
-* http://www.bible.is/LTNNVV/John/15
+* [zeno.org/Georges-1913](http://www.zeno.org/Georges-1913)
+* [bibel-verse.de/](http://www.bibel-verse.de/)
+* [webfiles.acu.edu/users/goebeld/web/public_html/vulgata/newtest/vnt.htm](https://webfiles.acu.edu/users/goebeld/web/public_html/vulgata/newtest/vnt.htm)
+* [latinvulgate.com/lv/verse.aspx?t=1&b=1](http://www.latinvulgate.com/lv/verse.aspx?t=1&b=1)
+* [drbo.org/lvb/](http://www.drbo.org/lvb/)
+* [bible.is/LTNNVV/John/15](http://www.bible.is/LTNNVV/John/15)
 * [Latin Audio Bible (Vulgata Latina) - Complete New Testament (NT) as MP3 - 260 files, one for each chapter](http://www.sermon-online.de/search.pl/search.pl?lang=en&id=25709&title=&biblevers=&searchstring=&author=0&language=0&category=0&play=2)
-* http://www.sermon-online.com/search.pl?lang=en&id=25709&title=&biblevers=&searchstring=&author=0&language=0&category=0&play=0&tm=2
-* http://www.bibel-verse.de/
+* [sermon-online.com/search.pl?lang=en&id=25709&title=&biblevers=&searchstring=&author=0&language=0&category=0&play=0&tm=2](http://www.sermon-online.com/search.pl?lang=en&id=25709&title=&biblevers=&searchstring=&author=0&language=0&category=0&play=0&tm=2)
+* [bibel-verse.de/](http://www.bibel-verse.de/)
 * WP
 * [Latin Books](https://b-ok.cc/s/?language=latin)
-* https://www.latinitium.com/blog/
+* [latinitium.com/blog/](https://www.latinitium.com/blog/)
 * - 11/12
-* http://www.bibles-online.net/1519/
-* http://catalog.perseus.org/
-* https://www.loebclassics.com/
+* [bibles-online.net/1519/](http://www.bibles-online.net/1519/)
+* [catalog.perseus.org/](http://catalog.perseus.org/)
+* [loebclassics.com/](https://www.loebclassics.com/)
 
 
 * [Les oeuvres d'Euclide : en grec, en latin et en français : d'après un manuscrit très-ancien qui était resté inconnu jusq'à nos jours : Euclid : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/lesoeuvresdeucli01eucl/page/n45)**        - [Madeline Miller's top 10 classical books | Books | The Guardian](https://www.theguardian.com/books/2011/sep/21/madeline-miller-top-10-classical-books)**        - [*28 Books On Stoicism: The (Hopefully) Ultimate Reading List](https://dailystoic.com/books-on-stoicism/)**        - [*The Best Books on Stoicism | Five Books Expert Recommendations](https://fivebooks.com/best-books/massimo-pigliucci-stoicism/)**        - [**Stoic And Epicurean Philosophers The Complete Extant Writing Of Epicurus Epictetus Lucretius Marcus Aurelius : Oaetes , Whiteny J. : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/in.ernet.dli.2015.52230/page/n11/mode/2up)**        - [Ethik GR-LA-DE](https://www.swisseduc.ch/altphilo/griech/gintlekt/docs/ethik.pdf)**
-* https://vk.com/topic-42752739_27156674
-* http://www.faenumpublishing.com/available-texts.html
+* [vk.com/topic-42752739_27156674](https://vk.com/topic-42752739_27156674)
+* [faenumpublishing.com/available-texts.html](http://www.faenumpublishing.com/available-texts.html)
 * [P 11/12](https://drive.google.com/file/d/0BwyQgrJPS6GBbUd6WGNfNl9HZUE/view)
-* http://bibliotheca.plgo.org/index/collections.php
-* http://bibliotheca.plgo.org/index/collections.php?coll_id=2985923&doc_id=60257381&access_key=key-2f8dpzdcnx0xu9euc4zu
+* [bibliotheca.plgo.org/index/collections.php](http://bibliotheca.plgo.org/index/collections.php)
+* [bibliotheca.plgo.org/index/collections.php?coll_id=2985923&doc_id=60257381&access_key=key-2f8dpzdcnx0xu9euc4zu](http://bibliotheca.plgo.org/index/collections.php?coll_id=2985923&doc_id=60257381&access_key=key-2f8dpzdcnx0xu9euc4zu)
 * LINGUA LATINA.
 * Learn Ancient Greek.
 * [ATTICISTA](https://vk.com/atticista)
@@ -5100,22 +5100,22 @@
 * [Gardini: "Studiare il greco ed il latino porta felicità: vi spiego perché"](https://www.tpi.it/cultura/nicola-gardini-studiare-greco-latino-felicita-20210625799561/?fbclid=IwAR0gt3GbX9RahCcjttyKoXYNTEkOfbF1rFlImJBjjxKr2P59VzhM7xfv0Mg)
 * [GitHub - shamsuzzamansadi/quranic-corpus: The Quranic Arabic Corpus](https://github.com/shamsuzzamansadi/quranic-corpus)
 * [Greek and Latin texts in digital form - The Digital Classicist Wiki](https://wiki.digitalclassicist.org/Greek_and_Latin_texts_in_digital_form#Texts_with_translations)
-* https://vivariumnovum.it/risorse-didattiche/propria-formazione/versioni-latine-classici-greci-con-originale-fronte
-* https://tusculaneum.wordpress.com/2015/05/28/opera-avellani/
+* [vivariumnovum.it/risorse-didattiche/propria-formazione/versioni-latine-classici-greci-con-originale-fronte](https://vivariumnovum.it/risorse-didattiche/propria-formazione/versioni-latine-classici-greci-con-originale-fronte)
+* [tusculaneum.wordpress.com/2015/05/28/opera-avellani/](https://tusculaneum.wordpress.com/2015/05/28/opera-avellani/)
 * [TEXTOS Y AUDIOS EN GRIEGO | Faetonte | Lenguas y cultura grecolatina, textos y audio](https://helenika.wordpress.com/about/1o-de-bachillerato-griego/)
 * [GRC-LA-EN Acta apostolorum](https://www.classicstuition.co.uk/acts-of-the-apostles-a-parallel-text-whole-text/)
 * [zatris goes after the classics [Latin, Ancient Greek] - A language learners’ forum](https://forum.language-learners.org/viewtopic.php?t=2398)
 * [Ars grammatica GRC-LA](https://www.classicstuition.co.uk/ars-grammatica-whole-text/)
 * [Site du cours LA/GRC](http://oidipusrex.perso.infonie.fr/modemp.htm)
 * [Opera Graece et Latine - Sextus (Empiricus.)](https://books.google.com/books/about/Opera_Graece_et_Latine.html?hl=it&id=CytBAAAAcAAJ)
-* http://www.gottwein.de/Grie/plat/apol19b.php
-* http://www.poesialatina.it/index.htm
-* http://www.legonium.com/downloads
+* [gottwein.de/Grie/plat/apol19b.php](http://www.gottwein.de/Grie/plat/apol19b.php)
+* [poesialatina.it/index.htm](http://www.poesialatina.it/index.htm)
+* [legonium.com/downloads](http://www.legonium.com/downloads)
 * [Articles – Schola Humanistica](https://www.scholahumanistica.com/articles/)
 * [Τῶν ἐν Ὀλυμπίᾳ ἀγώνων, τῶν ἱερῶν, Ἱστορικὸν Ἀττικὸν Ἡμερολόγιον](https://attikcalendar.blogspot.com/)
 * - 12
 * [Griechisches Lesebuch](http://gerardgreco.free.fr/IMG/pdf/wilamowitz_lesebuch-v20_01.pdf)
-* https://sites.google.com/view/greekincomics/main-page
+* [sites.google.com/view/greekincomics/main-page](https://sites.google.com/view/greekincomics/main-page)
 
 
 * [**Parmenides Fragmente](https://www.swisseduc.ch/altphilo/griech/gintlekt/docs/parmenid.pdf)**        - [StOIC](https://stoic-commentary.online/references/1-1?left=6&right=7)**
@@ -5125,16 +5125,16 @@
 
 
 * [***PANTOIA. Anthologien, Goethe, Schiller, Robinson ... lateinisch, griechisch](http://www.pantoia.de/)
-* http://www.users.globalnet.co.uk/~loxias/sappho.htm#
-* https://d.iogen.es/
-* https://hellas.bab2min.pe.kr/hk/os?q=o&l=en
+* [users.globalnet.co.uk/~loxias/sappho.htm#](http://www.users.globalnet.co.uk/~loxias/sappho.htm#)
+* [d.iogen.es/](https://d.iogen.es/)
+* [hellas.bab2min.pe.kr/hk/os?q=o&l=en](https://hellas.bab2min.pe.kr/hk/os?q=o&l=en)
 * [ὁ ἑταῖρος](https://mallioch.github.io/hetairos/)
 * [seumasjeltzz/LinguaeGraecaePerSeIllustrata: LGPSI: An open, expansive Greek-reading composition project](https://github.com/seumasjeltzz/LinguaeGraecaePerSeIllustrata)
 * [Introducing LGPSI, a guide for the uncertain](https://thepatrologist.com/)
-* https://www.biblearc.com/new/
-* http://www.akwn.net/
-* http://akropolis-world-news.weebly.com/news-of-this-year-21-22.html
-* http://akropolis-world-news.weebly.com/
+* [biblearc.com/new/](https://www.biblearc.com/new/)
+* [akwn.net/](http://www.akwn.net/)
+* [akropolis-world-news.weebly.com/news-of-this-year-21-22.html](http://akropolis-world-news.weebly.com/news-of-this-year-21-22.html)
+* [akropolis-world-news.weebly.com/](http://akropolis-world-news.weebly.com/)
 
 
 * [**17 Must-Read Books by the Ancient Greeks -](https://daringtolivefully.com/must-read-books-ancient-world)        - [**A reading list of Ancient Greek classics | OUPblog](https://blog.oup.com/2014/11/oxford-worlds-classics-ancient-greek-reading-list/)
@@ -5177,102 +5177,102 @@
 * [Greek Ollendorf](https://books.google.com.au/books?id=NRMBAAAAYAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
 * [Greek Readers](http://spiphanies.blogspot.com/2009/05/greek-readers.html)
 * [Griechisch Tests](http://www.testedich.de/sprachen-tests-Griechisch.php?katb=09N0)
-* http://agoraclass.fltr.ucl.ac.be/agora.htm
-* http://altgriechisch-lernen.de/
-* http://ba.21.free.fr/ntgf/matthieu/matthieu_5_gf.html
-* http://bible.free.fr/archives/bible/NT%20JND%20Interlin%C3%A9aire.pdf
-* http://biblehub.com/interlinear/matthew/5.htm
+* [agoraclass.fltr.ucl.ac.be/agora.htm](http://agoraclass.fltr.ucl.ac.be/agora.htm)
+* [altgriechisch-lernen.de/](http://altgriechisch-lernen.de/)
+* [ba.21.free.fr/ntgf/matthieu/matthieu_5_gf.html](http://ba.21.free.fr/ntgf/matthieu/matthieu_5_gf.html)
+* [bible.free.fr/archives/bible/NT%20JND%20Interlin%C3%A9aire.pdf](http://bible.free.fr/archives/bible/NT%20JND%20Interlin%C3%A9aire.pdf)
+* [biblehub.com/interlinear/matthew/5.htm](http://biblehub.com/interlinear/matthew/5.htm)
 * [http://classics.uwaterloo.ca/labyrinth/academic/greekResources.html](http://www.tabularium.be/index.php?page=home)
-* http://coderch-greek-latin-grammar.weebly.com/uploads/1/1/8/5/11853710/greek_grammar.pdf
-* http://dcc.dickinson.edu/pl/resources
-* http://gerardgreco.free.fr/
-* http://gerardgreco.free.fr/IMG/pdf/Gaffiot_2016_-_komarov.pdf
-* http://gntreader.com/
-* http://greek-language.gr/greekLang/ancient_greek/index.html
-* http://greekgrammar.wikidot.com/
-* http://greekgrammar.wikidot.com/
-* http://greekgrammar.wikidot.com/reading-ancient-greek-texts
-* http://guides.mtholyoke.edu/c.php?g=101987&p=662432
-* http://mercure.fltr.ucl.ac.be/
-* http://mercure.fltr.ucl.ac.be/Hodoi/concordances/intro.htm
-* http://mythfolklore.net/aesopica/
-* http://philoctetes.free.fr/index2.htm
-* http://practomime.com/cardtamen/pnp.php
-* http://projethomere.com/liens.htm
-* http://socrates.berkeley.edu/~ancgreek/ancient_greek_start.html
+* [coderch-greek-latin-grammar.weebly.com/uploads/1/1/8/5/11853710/greek_grammar.pdf](http://coderch-greek-latin-grammar.weebly.com/uploads/1/1/8/5/11853710/greek_grammar.pdf)
+* [dcc.dickinson.edu/pl/resources](http://dcc.dickinson.edu/pl/resources)
+* [gerardgreco.free.fr/](http://gerardgreco.free.fr/)
+* [gerardgreco.free.fr/IMG/pdf/Gaffiot_2016_-_komarov.pdf](http://gerardgreco.free.fr/IMG/pdf/Gaffiot_2016_-_komarov.pdf)
+* [gntreader.com/](http://gntreader.com/)
+* [greek-language.gr/greekLang/ancient_greek/index.html](http://greek-language.gr/greekLang/ancient_greek/index.html)
+* [greekgrammar.wikidot.com/](http://greekgrammar.wikidot.com/)
+* [greekgrammar.wikidot.com/](http://greekgrammar.wikidot.com/)
+* [greekgrammar.wikidot.com/reading-ancient-greek-texts](http://greekgrammar.wikidot.com/reading-ancient-greek-texts)
+* [guides.mtholyoke.edu/c.php?g=101987&p=662432](http://guides.mtholyoke.edu/c.php?g=101987&p=662432)
+* [mercure.fltr.ucl.ac.be/](http://mercure.fltr.ucl.ac.be/)
+* [mercure.fltr.ucl.ac.be/Hodoi/concordances/intro.htm](http://mercure.fltr.ucl.ac.be/Hodoi/concordances/intro.htm)
+* [mythfolklore.net/aesopica/](http://mythfolklore.net/aesopica/)
+* [philoctetes.free.fr/index2.htm](http://philoctetes.free.fr/index2.htm)
+* [practomime.com/cardtamen/pnp.php](http://practomime.com/cardtamen/pnp.php)
+* [projethomere.com/liens.htm](http://projethomere.com/liens.htm)
+* [socrates.berkeley.edu/~ancgreek/ancient_greek_start.html](http://socrates.berkeley.edu/~ancgreek/ancient_greek_start.html)
 * [http://stephanus.tlg.uci.edu/](http://classics.uwaterloo.ca/labyrinth/academic/greekResources.html)
-* http://www-users.cs.york.ac.uk/~fisher/gnt/
-* http://www.aoidoi.org/poets/
-* http://www.attikisti.com/
-* http://www.biblicalgreek.org/links/pronunciation.php
-* http://www.biblicalgreek.org/links/pronunciation.php
-* http://www.csj-ath.be/medias/docs/syllabus/20130915-gramm.pdf
-* http://www.faenumpublishing.com/
-* http://www.gottwein.de/grueb/gr000.php
-* http://www.gottwein.de/grueb/gr001.php
-* http://www.gottwein.de/index.php
-* http://www.grecoantico.com/
-* http://www.greek-language.gr/greekLang/ancient_greek/index.html
-* http://www.ilearngreek.com/mythology/creation_world.M1.asp
-* http://www.mastergreek.com/
-* http://www.mikrosapoplous.gr/en/linksen.html
-* http://www.mikrosapoplous.gr/en/t2ten.html
-* http://www.nativlang.com/greek-language/
-* http://www.open.ac.uk/Arts/classical-studies/tasters.shtml
-* http://www.perseus.tufts.edu/hopper/collection?collection=Perseus:corpus:perseus,Greek+Texts
-* http://www.perseus.tufts.edu/hopper/collection?collection=Perseus:corpus:perseus,Greek+Texts
-* http://www.podium-arts.com/
-* http://www.poesialatina.it/_ns/Greek/html/mappa.html
-* http://www.poesialatina.it/_ns/Greek/testi/p/MappaProsaGr.html
-* http://www.poesialatina.it/_ns/Greek/tt2/Esopo/Esopo001b.html
-* http://www.poesialatina.it/_ns/Greek/web/Testi.html
-* http://www.projethomere.com/
-* http://www.swisseduc.ch/altphilo/griech/gintlekt/
+* [www-users.cs.york.ac.uk/~fisher/gnt/](http://www-users.cs.york.ac.uk/~fisher/gnt/)
+* [aoidoi.org/poets/](http://www.aoidoi.org/poets/)
+* [attikisti.com/](http://www.attikisti.com/)
+* [biblicalgreek.org/links/pronunciation.php](http://www.biblicalgreek.org/links/pronunciation.php)
+* [biblicalgreek.org/links/pronunciation.php](http://www.biblicalgreek.org/links/pronunciation.php)
+* [csj-ath.be/medias/docs/syllabus/20130915-gramm.pdf](http://www.csj-ath.be/medias/docs/syllabus/20130915-gramm.pdf)
+* [faenumpublishing.com/](http://www.faenumpublishing.com/)
+* [gottwein.de/grueb/gr000.php](http://www.gottwein.de/grueb/gr000.php)
+* [gottwein.de/grueb/gr001.php](http://www.gottwein.de/grueb/gr001.php)
+* [gottwein.de/index.php](http://www.gottwein.de/index.php)
+* [grecoantico.com/](http://www.grecoantico.com/)
+* [greek-language.gr/greekLang/ancient_greek/index.html](http://www.greek-language.gr/greekLang/ancient_greek/index.html)
+* [ilearngreek.com/mythology/creation_world.M1.asp](http://www.ilearngreek.com/mythology/creation_world.M1.asp)
+* [mastergreek.com/](http://www.mastergreek.com/)
+* [mikrosapoplous.gr/en/linksen.html](http://www.mikrosapoplous.gr/en/linksen.html)
+* [mikrosapoplous.gr/en/t2ten.html](http://www.mikrosapoplous.gr/en/t2ten.html)
+* [nativlang.com/greek-language/](http://www.nativlang.com/greek-language/)
+* [open.ac.uk/Arts/classical-studies/tasters.shtml](http://www.open.ac.uk/Arts/classical-studies/tasters.shtml)
+* [perseus.tufts.edu/hopper/collection?collection=Perseus:corpus:perseus,Greek+Texts](http://www.perseus.tufts.edu/hopper/collection?collection=Perseus:corpus:perseus,Greek+Texts)
+* [perseus.tufts.edu/hopper/collection?collection=Perseus:corpus:perseus,Greek+Texts](http://www.perseus.tufts.edu/hopper/collection?collection=Perseus:corpus:perseus,Greek+Texts)
+* [podium-arts.com/](http://www.podium-arts.com/)
+* [poesialatina.it/_ns/Greek/html/mappa.html](http://www.poesialatina.it/_ns/Greek/html/mappa.html)
+* [poesialatina.it/_ns/Greek/testi/p/MappaProsaGr.html](http://www.poesialatina.it/_ns/Greek/testi/p/MappaProsaGr.html)
+* [poesialatina.it/_ns/Greek/tt2/Esopo/Esopo001b.html](http://www.poesialatina.it/_ns/Greek/tt2/Esopo/Esopo001b.html)
+* [poesialatina.it/_ns/Greek/web/Testi.html](http://www.poesialatina.it/_ns/Greek/web/Testi.html)
+* [projethomere.com/](http://www.projethomere.com/)
+* [swisseduc.ch/altphilo/griech/gintlekt/](http://www.swisseduc.ch/altphilo/griech/gintlekt/)
 * [http://www.tabularium.be/index.php?page=home](http://www.greek-language.gr/greekLang/ancient_greek/index.html)
-* http://www.textkit.com/
-* http://www.textkit.com/greek_grammar.php
-* http://www.textkit.com/greek-latin-forum/viewtopic.php?f=2&t=10671
-* http://www.um.es/sabio/docs-cmsweb/materias-pau-bachillerato/fabulaeaesopicaeselectae2004.pdf
-* https://archive.org/details/greekboyathomest01rousuoft
-* https://archive.org/details/minimumofgreekha00audeuoft
-* https://books.google.com/books/about/Beginner_s_Greek_Book.html?id=Mo8XAAAAIAAJ
-* https://de.wikipedia.org/wiki/Internationales_Phonetisches_Alphabet
-* https://dialogoi.es/
-* https://didaskaleionblog.wordpress.com/
-* https://en.wikipedia.org/wiki/Ancient_Greek
-* https://geoffreysteadman.com/
-* https://geoffreysteadman.com/
-* https://heautonpaideuomenos.blogspot.com/
-* https://helenika.wordpress.com/category/bienvenidos-a-faetonte/
-* https://helenika.wordpress.com/category/bienvenidos-a-faetonte/
-* https://history.hanover.edu/project.php
-* https://history.hanover.edu/project.php
-* https://lecturasfacilesgriego.blogspot.com/
-* https://letancientvoicesspeak.wordpress.com/francais/
-* https://letancientvoicesspeak.wordpress.com/francais/
-* https://lrc.la.utexas.edu/eieol/grkol
-* https://lrc.la.utexas.edu/eieol/grkol/00
-* https://ndpr.nd.edu/news/the-texts-of-early-greek-philosophy-the-complete-fragments-and-selected-testimonies-of-the-major-presocratics-2/
-* https://ndpr.nd.edu/news/the-texts-of-early-greek-philosophy-the-complete-fragments-and-selected-testimonies-of-the-major-presocratics-2/
-* https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D1%86%D0%B8%D0%B7%D0%BC
-* https://sites.google.com/site/ancienttexts/gk-a1
-* https://sites.google.com/site/ancienttexts/gk-a1
-* https://sites.google.com/site/margaridaespiguinha/materiais-de-apoio-grego-antigo
-* https://vivariumnovum.it/
-* https://vivariumnovum.it/
-* https://www.biblicallanguagecenter.com/greek-mp3-samples/
-* https://www.ellopos.net/elpenor/greek-texts/greek-word.asp
-* https://www.ellopos.net/elpenor/greek-texts/greek-word.asp
-* https://www.facebook.com/attikcalendar/
-* https://www.facebook.com/attikcalendar/
-* https://www.facebook.com/notes/%CF%84%E1%BF%B6%CE%BD-%E1%BC%90%CE%BD-%E1%BD%80%CE%BB%CF%85%CE%BC%CF%80%CE%AF%E1%BE%B3-%E1%BC%80%CE%B3%CF%8E%CE%BD%CF%89%CE%BD-%CF%84%E1%BF%B6%CE%BD-%E1%BC%B1%CE%B5%CF%81%E1%BF%B6%CE%BD-%E1%BC%B1%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%BA%E1%BD%B8%CE%BD-%E1%BC%80%CF%84%CF%84%CE%B9%CE%BA%E1%BD%B8%CE%BD-%E1%BC%A1%CE%BC%CE%B5%CF%81%CE%BF%CE%BB%CF%8C%CE%B3%CE%B9%CE%BF%CE%BD/%CE%BF%CE%BB%CF%85%CE%BC%CF%80%CE%B9%CE%BF%CE%BD%CE%B9%CE%BA%CE%B1%CE%B9%CF%83-i-%CE%B9%CE%B5%CF%81%CF%89%CE%BD%CE%B9-%CF%83%CF%85%CF%81%CE%B1%CE%BA%CE%BF%CF%83%CE%B9%CF%89%CE%B9-%CE%BA%CE%B5%CE%BB%CE%B7%CF%84%CE%B9-%CE%B3%CE%B9%CE%B1-%CF%84%CE%BF%CE%BD-%CE%B9%CE%B5%CF%81%CF%89%CE%BD%CE%B1-%CE%B1%CF%80%CE%BF-%CF%84%CE%B9%CF%83-%CF%83%CF%85%CF%81%CE%B1%CE%BA%CE%BF%CF%85%CF%83%CE%B5%CF%83-%CE%BD%CE%B9%CE%BA%CE%B7%CF%84/269462463622600/
-* https://www.facebook.com/notes/%CF%84%E1%BF%B6%CE%BD-%E1%BC%90%CE%BD-%E1%BD%80%CE%BB%CF%85%CE%BC%CF%80%CE%AF%E1%BE%B3-%E1%BC%80%CE%B3%CF%8E%CE%BD%CF%89%CE%BD-%CF%84%E1%BF%B6%CE%BD-%E1%BC%B1%CE%B5%CF%81%E1%BF%B6%CE%BD-%E1%BC%B1%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%BA%E1%BD%B8%CE%BD-%E1%BC%80%CF%84%CF%84%CE%B9%CE%BA%E1%BD%B8%CE%BD-%E1%BC%A1%CE%BC%CE%B5%CF%81%CE%BF%CE%BB%CF%8C%CE%B3%CE%B9%CE%BF%CE%BD/%CE%BF%CE%BB%CF%85%CE%BC%CF%80%CE%B9%CE%BF%CE%BD%CE%B9%CE%BA%CE%B1%CE%B9%CF%83-i-%CE%B9%CE%B5%CF%81%CF%89%CE%BD%CE%B9-%CF%83%CF%85%CF%81%CE%B1%CE%BA%CE%BF%CF%83%CE%B9%CF%89%CE%B9-%CE%BA%CE%B5%CE%BB%CE%B7%CF%84%CE%B9-%CE%B3%CE%B9%CE%B1-%CF%84%CE%BF%CE%BD-%CE%B9%CE%B5%CF%81%CF%89%CE%BD%CE%B1-%CE%B1%CF%80%CE%BF-%CF%84%CE%B9%CF%83-%CF%83%CF%85%CF%81%CE%B1%CE%BA%CE%BF%CF%85%CF%83%CE%B5%CF%83-%CE%BD%CE%B9%CE%BA%CE%B7%CF%84/269462463622600/
-* https://www.glossahouse.com/agros
-* [https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiGzYix3M_JAhVN52MKHV6mDvcQFggcMAA&url=http%3A%2F%2Fwww.omniglot.com%2Fwriting%2Fgreek.htm&usg=AFQjCNEEYAB-ccLUKm1vN8tfmqoeex3vAA&sig2=3e75K4VeFc7-bt7RVx1c7w&bvm=bv.109395566,d.cGc](http://www.omniglot.com/writing/greek.htm)
-* https://www.mikrosapoplous.gr/en/t2ten.html
-* https://www.mikrosapoplous.gr/en/texts1en.html
-* https://www.quora.com/Is-the-modern-pronunciation-of-Greek-accurate-for-koine
-* https://www.versionidigreco.it/web/
+* [textkit.com/](http://www.textkit.com/)
+* [textkit.com/greek_grammar.php](http://www.textkit.com/greek_grammar.php)
+* [textkit.com/greek-latin-forum/viewtopic.php?f=2&t=10671](http://www.textkit.com/greek-latin-forum/viewtopic.php?f=2&t=10671)
+* [um.es/sabio/docs-cmsweb/materias-pau-bachillerato/fabulaeaesopicaeselectae2004.pdf](http://www.um.es/sabio/docs-cmsweb/materias-pau-bachillerato/fabulaeaesopicaeselectae2004.pdf)
+* [archive.org/details/greekboyathomest01rousuoft](https://archive.org/details/greekboyathomest01rousuoft)
+* [archive.org/details/minimumofgreekha00audeuoft](https://archive.org/details/minimumofgreekha00audeuoft)
+* [books.google.com/books/about/Beginner_s_Greek_Book.html?id=Mo8XAAAAIAAJ](https://books.google.com/books/about/Beginner_s_Greek_Book.html?id=Mo8XAAAAIAAJ)
+* [de.wikipedia.org/wiki/Internationales_Phonetisches_Alphabet](https://de.wikipedia.org/wiki/Internationales_Phonetisches_Alphabet)
+* [dialogoi.es/](https://dialogoi.es/)
+* [didaskaleionblog.wordpress.com/](https://didaskaleionblog.wordpress.com/)
+* [en.wikipedia.org/wiki/Ancient_Greek](https://en.wikipedia.org/wiki/Ancient_Greek)
+* [geoffreysteadman.com/](https://geoffreysteadman.com/)
+* [geoffreysteadman.com/](https://geoffreysteadman.com/)
+* [heautonpaideuomenos.blogspot.com/](https://heautonpaideuomenos.blogspot.com/)
+* [helenika.wordpress.com/category/bienvenidos-a-faetonte/](https://helenika.wordpress.com/category/bienvenidos-a-faetonte/)
+* [helenika.wordpress.com/category/bienvenidos-a-faetonte/](https://helenika.wordpress.com/category/bienvenidos-a-faetonte/)
+* [history.hanover.edu/project.php](https://history.hanover.edu/project.php)
+* [history.hanover.edu/project.php](https://history.hanover.edu/project.php)
+* [lecturasfacilesgriego.blogspot.com/](https://lecturasfacilesgriego.blogspot.com/)
+* [letancientvoicesspeak.wordpress.com/francais/](https://letancientvoicesspeak.wordpress.com/francais/)
+* [letancientvoicesspeak.wordpress.com/francais/](https://letancientvoicesspeak.wordpress.com/francais/)
+* [lrc.la.utexas.edu/eieol/grkol](https://lrc.la.utexas.edu/eieol/grkol)
+* [lrc.la.utexas.edu/eieol/grkol/00](https://lrc.la.utexas.edu/eieol/grkol/00)
+* [ndpr.nd.edu/news/the-texts-of-early-greek-philosophy-the-complete-fragments-and-selected-testimonies-of-the-major-presocratics-2/](https://ndpr.nd.edu/news/the-texts-of-early-greek-philosophy-the-complete-fragments-and-selected-testimonies-of-the-major-presocratics-2/)
+* [ndpr.nd.edu/news/the-texts-of-early-greek-philosophy-the-complete-fragments-and-selected-testimonies-of-the-major-presocratics-2/](https://ndpr.nd.edu/news/the-texts-of-early-greek-philosophy-the-complete-fragments-and-selected-testimonies-of-the-major-presocratics-2/)
+* [ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D1%86%D0%B8%D0%B7%D0%BC](https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D1%86%D0%B8%D0%B7%D0%BC)
+* [sites.google.com/site/ancienttexts/gk-a1](https://sites.google.com/site/ancienttexts/gk-a1)
+* [sites.google.com/site/ancienttexts/gk-a1](https://sites.google.com/site/ancienttexts/gk-a1)
+* [sites.google.com/site/margaridaespiguinha/materiais-de-apoio-grego-antigo](https://sites.google.com/site/margaridaespiguinha/materiais-de-apoio-grego-antigo)
+* [vivariumnovum.it/](https://vivariumnovum.it/)
+* [vivariumnovum.it/](https://vivariumnovum.it/)
+* [biblicallanguagecenter.com/greek-mp3-samples/](https://www.biblicallanguagecenter.com/greek-mp3-samples/)
+* [ellopos.net/elpenor/greek-texts/greek-word.asp](https://www.ellopos.net/elpenor/greek-texts/greek-word.asp)
+* [ellopos.net/elpenor/greek-texts/greek-word.asp](https://www.ellopos.net/elpenor/greek-texts/greek-word.asp)
+* [facebook.com/attikcalendar/](https://www.facebook.com/attikcalendar/)
+* [facebook.com/attikcalendar/](https://www.facebook.com/attikcalendar/)
+* [facebook.com/notes/%CF%84%E1%BF%B6%CE%BD-%E1%BC%90%CE%BD-%E1%BD%80%CE%BB%CF%85%CE%BC%CF%80%CE%AF%E1%BE%B3-%E1%BC%80%CE%B3%CF%8E%CE%BD%CF%89%CE%BD-%CF%84%E1%BF%B6%CE%BD-%E1%BC%B1%CE%B5%CF%81%E1%BF%B6%CE%BD-%E1%BC%B1%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%BA%E1%BD%B8%CE%BD-%E1%BC%80%CF%84%CF%84%CE%B9%CE%BA%E1%BD%B8%CE%BD-%E1%BC%A1%CE%BC%CE%B5%CF%81%CE%BF%CE%BB%CF%8C%CE%B3%CE%B9%CE%BF%CE%BD/%CE%BF%CE%BB%CF%85%CE%BC%CF%80%CE%B9%CE%BF%CE%BD%CE%B9%CE%BA%CE%B1%CE%B9%CF%83-i-%CE%B9%CE%B5%CF%81%CF%89%CE%BD%CE%B9-%CF%83%CF%85%CF%81%CE%B1%CE%BA%CE%BF%CF%83%CE%B9%CF%89%CE%B9-%CE%BA%CE%B5%CE%BB%CE%B7%CF%84%CE%B9-%CE%B3%CE%B9%CE%B1-%CF%84%CE%BF%CE%BD-%CE%B9%CE%B5%CF%81%CF%89%CE%BD%CE%B1-%CE%B1%CF%80%CE%BF-%CF%84%CE%B9%CF%83-%CF%83%CF%85%CF%81%CE%B1%CE%BA%CE%BF%CF%85%CF%83%CE%B5%CF%83-%CE%BD%CE%B9%CE%BA%CE%B7%CF%84/269462463622600/](https://www.facebook.com/notes/%CF%84%E1%BF%B6%CE%BD-%E1%BC%90%CE%BD-%E1%BD%80%CE%BB%CF%85%CE%BC%CF%80%CE%AF%E1%BE%B3-%E1%BC%80%CE%B3%CF%8E%CE%BD%CF%89%CE%BD-%CF%84%E1%BF%B6%CE%BD-%E1%BC%B1%CE%B5%CF%81%E1%BF%B6%CE%BD-%E1%BC%B1%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%BA%E1%BD%B8%CE%BD-%E1%BC%80%CF%84%CF%84%CE%B9%CE%BA%E1%BD%B8%CE%BD-%E1%BC%A1%CE%BC%CE%B5%CF%81%CE%BF%CE%BB%CF%8C%CE%B3%CE%B9%CE%BF%CE%BD/%CE%BF%CE%BB%CF%85%CE%BC%CF%80%CE%B9%CE%BF%CE%BD%CE%B9%CE%BA%CE%B1%CE%B9%CF%83-i-%CE%B9%CE%B5%CF%81%CF%89%CE%BD%CE%B9-%CF%83%CF%85%CF%81%CE%B1%CE%BA%CE%BF%CF%83%CE%B9%CF%89%CE%B9-%CE%BA%CE%B5%CE%BB%CE%B7%CF%84%CE%B9-%CE%B3%CE%B9%CE%B1-%CF%84%CE%BF%CE%BD-%CE%B9%CE%B5%CF%81%CF%89%CE%BD%CE%B1-%CE%B1%CF%80%CE%BF-%CF%84%CE%B9%CF%83-%CF%83%CF%85%CF%81%CE%B1%CE%BA%CE%BF%CF%85%CF%83%CE%B5%CF%83-%CE%BD%CE%B9%CE%BA%CE%B7%CF%84/269462463622600/)
+* [facebook.com/notes/%CF%84%E1%BF%B6%CE%BD-%E1%BC%90%CE%BD-%E1%BD%80%CE%BB%CF%85%CE%BC%CF%80%CE%AF%E1%BE%B3-%E1%BC%80%CE%B3%CF%8E%CE%BD%CF%89%CE%BD-%CF%84%E1%BF%B6%CE%BD-%E1%BC%B1%CE%B5%CF%81%E1%BF%B6%CE%BD-%E1%BC%B1%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%BA%E1%BD%B8%CE%BD-%E1%BC%80%CF%84%CF%84%CE%B9%CE%BA%E1%BD%B8%CE%BD-%E1%BC%A1%CE%BC%CE%B5%CF%81%CE%BF%CE%BB%CF%8C%CE%B3%CE%B9%CE%BF%CE%BD/%CE%BF%CE%BB%CF%85%CE%BC%CF%80%CE%B9%CE%BF%CE%BD%CE%B9%CE%BA%CE%B1%CE%B9%CF%83-i-%CE%B9%CE%B5%CF%81%CF%89%CE%BD%CE%B9-%CF%83%CF%85%CF%81%CE%B1%CE%BA%CE%BF%CF%83%CE%B9%CF%89%CE%B9-%CE%BA%CE%B5%CE%BB%CE%B7%CF%84%CE%B9-%CE%B3%CE%B9%CE%B1-%CF%84%CE%BF%CE%BD-%CE%B9%CE%B5%CF%81%CF%89%CE%BD%CE%B1-%CE%B1%CF%80%CE%BF-%CF%84%CE%B9%CF%83-%CF%83%CF%85%CF%81%CE%B1%CE%BA%CE%BF%CF%85%CF%83%CE%B5%CF%83-%CE%BD%CE%B9%CE%BA%CE%B7%CF%84/269462463622600/](https://www.facebook.com/notes/%CF%84%E1%BF%B6%CE%BD-%E1%BC%90%CE%BD-%E1%BD%80%CE%BB%CF%85%CE%BC%CF%80%CE%AF%E1%BE%B3-%E1%BC%80%CE%B3%CF%8E%CE%BD%CF%89%CE%BD-%CF%84%E1%BF%B6%CE%BD-%E1%BC%B1%CE%B5%CF%81%E1%BF%B6%CE%BD-%E1%BC%B1%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%BA%E1%BD%B8%CE%BD-%E1%BC%80%CF%84%CF%84%CE%B9%CE%BA%E1%BD%B8%CE%BD-%E1%BC%A1%CE%BC%CE%B5%CF%81%CE%BF%CE%BB%CF%8C%CE%B3%CE%B9%CE%BF%CE%BD/%CE%BF%CE%BB%CF%85%CE%BC%CF%80%CE%B9%CE%BF%CE%BD%CE%B9%CE%BA%CE%B1%CE%B9%CF%83-i-%CE%B9%CE%B5%CF%81%CF%89%CE%BD%CE%B9-%CF%83%CF%85%CF%81%CE%B1%CE%BA%CE%BF%CF%83%CE%B9%CF%89%CE%B9-%CE%BA%CE%B5%CE%BB%CE%B7%CF%84%CE%B9-%CE%B3%CE%B9%CE%B1-%CF%84%CE%BF%CE%BD-%CE%B9%CE%B5%CF%81%CF%89%CE%BD%CE%B1-%CE%B1%CF%80%CE%BF-%CF%84%CE%B9%CF%83-%CF%83%CF%85%CF%81%CE%B1%CE%BA%CE%BF%CF%85%CF%83%CE%B5%CF%83-%CE%BD%CE%B9%CE%BA%CE%B7%CF%84/269462463622600/)
+* [glossahouse.com/agros](https://www.glossahouse.com/agros)
+* [google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiGzYix3M_JAhVN52MKHV6mDvcQFggcMAA&url=http%3A%2F%2Fwww.omniglot.com%2Fwriting%2Fgreek.htm&usg=AFQjCNEEYAB-ccLUKm1vN8tfmqoeex3vAA&sig2=3e75K4VeFc7-bt7RVx1c7w&bvm=bv.109395566,d.cGc](http://www.omniglot.com/writing/greek.htm)
+* [mikrosapoplous.gr/en/t2ten.html](https://www.mikrosapoplous.gr/en/t2ten.html)
+* [mikrosapoplous.gr/en/texts1en.html](https://www.mikrosapoplous.gr/en/texts1en.html)
+* [quora.com/Is-the-modern-pronunciation-of-Greek-accurate-for-koine](https://www.quora.com/Is-the-modern-pronunciation-of-Greek-accurate-for-koine)
+* [versionidigreco.it/web/](https://www.versionidigreco.it/web/)
 * [Interlinear Greek-Russian New Testament, Intermediate Edition (prior to second edition). Literal Contemporary Version (LCV). Based on GNT Stephanus 1550 TR with critical apparatus.](http://russianbaptistfellowship.com/wp-content/uploads/2012/01/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B7%D0%B0%D0%B2%D0%B5%D1%82-%D0%BF%D0%BE%D0%B4%D1%81%D1%82%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9-%D0%B3%D1%80%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%BE-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4.pdf)
 * [Interlinear Greek-Russian New Testament, Intermediate Edition (prior to second edition). Literal Contemporary Version (LCV). Based on GNT Stephanus 1550 TR with critical apparatus.](http://russianbaptistfellowship.com/wp-content/uploads/2012/01/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B7%D0%B0%D0%B2%D0%B5%D1%82-%D0%BF%D0%BE%D0%B4%D1%81%D1%82%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B9-%D0%B3%D1%80%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%BE-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4.pdf)
 * [juanjocasfa | Scribd](https://fr.scribd.com/user/273512757/juanjocasfa)
@@ -5351,27 +5351,27 @@
 * Students of Ancient Greek Language.
 * Byzantium Novum Bibliotheca.
 * [Lucian of Samosota: A True Story](https://www.sacred-texts.com/cla/luc/true/index.htm)
-* http://www.lib.ru/POEEAST/SOFOKL/sofokl3_1.txt
-* https://dialogoi.es/
-* https://www.facebook.com/notes/%CF%84%E1%BF%B6%CE%BD-%E1%BC%90%CE%BD-%E1%BD%80%CE%BB%CF%85%CE%BC%CF%80%CE%AF%E1%BE%B3-%E1%BC%80%CE%B3%CF%8E%CE%BD%CF%89%CE%BD-%CF%84%E1%BF%B6%CE%BD-%E1%BC%B1%CE%B5%CF%81%E1%BF%B6%CE%BD-%E1%BC%B1%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%BA%E1%BD%B8%CE%BD-%E1%BC%80%CF%84%CF%84%CE%B9%CE%BA%E1%BD%B8%CE%BD-%E1%BC%A1%CE%BC%CE%B5%CF%81%CE%BF%CE%BB%CF%8C%CE%B3%CE%B9%CE%BF%CE%BD/%CE%BF%CE%BB%CF%85%CE%BC%CF%80%CE%B9%CE%BF%CE%BD%CE%B9%CE%BA%CE%B1%CE%B9%CF%83-i-%CE%B9%CE%B5%CF%81%CF%89%CE%BD%CE%B9-%CF%83%CF%85%CF%81%CE%B1%CE%BA%CE%BF%CF%83%CE%B9%CF%89%CE%B9-%CE%BA%CE%B5%CE%BB%CE%B7%CF%84%CE%B9-%CE%B3%CE%B9%CE%B1-%CF%84%CE%BF%CE%BD-%CE%B9%CE%B5%CF%81%CF%89%CE%BD%CE%B1-%CE%B1%CF%80%CE%BF-%CF%84%CE%B9%CF%83-%CF%83%CF%85%CF%81%CE%B1%CE%BA%CE%BF%CF%85%CF%83%CE%B5%CF%83-%CE%BD%CE%B9%CE%BA%CE%B7%CF%84/269462463622600/
+* [lib.ru/POEEAST/SOFOKL/sofokl3_1.txt](http://www.lib.ru/POEEAST/SOFOKL/sofokl3_1.txt)
+* [dialogoi.es/](https://dialogoi.es/)
+* [facebook.com/notes/%CF%84%E1%BF%B6%CE%BD-%E1%BC%90%CE%BD-%E1%BD%80%CE%BB%CF%85%CE%BC%CF%80%CE%AF%E1%BE%B3-%E1%BC%80%CE%B3%CF%8E%CE%BD%CF%89%CE%BD-%CF%84%E1%BF%B6%CE%BD-%E1%BC%B1%CE%B5%CF%81%E1%BF%B6%CE%BD-%E1%BC%B1%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%BA%E1%BD%B8%CE%BD-%E1%BC%80%CF%84%CF%84%CE%B9%CE%BA%E1%BD%B8%CE%BD-%E1%BC%A1%CE%BC%CE%B5%CF%81%CE%BF%CE%BB%CF%8C%CE%B3%CE%B9%CE%BF%CE%BD/%CE%BF%CE%BB%CF%85%CE%BC%CF%80%CE%B9%CE%BF%CE%BD%CE%B9%CE%BA%CE%B1%CE%B9%CF%83-i-%CE%B9%CE%B5%CF%81%CF%89%CE%BD%CE%B9-%CF%83%CF%85%CF%81%CE%B1%CE%BA%CE%BF%CF%83%CE%B9%CF%89%CE%B9-%CE%BA%CE%B5%CE%BB%CE%B7%CF%84%CE%B9-%CE%B3%CE%B9%CE%B1-%CF%84%CE%BF%CE%BD-%CE%B9%CE%B5%CF%81%CF%89%CE%BD%CE%B1-%CE%B1%CF%80%CE%BF-%CF%84%CE%B9%CF%83-%CF%83%CF%85%CF%81%CE%B1%CE%BA%CE%BF%CF%85%CF%83%CE%B5%CF%83-%CE%BD%CE%B9%CE%BA%CE%B7%CF%84/269462463622600/](https://www.facebook.com/notes/%CF%84%E1%BF%B6%CE%BD-%E1%BC%90%CE%BD-%E1%BD%80%CE%BB%CF%85%CE%BC%CF%80%CE%AF%E1%BE%B3-%E1%BC%80%CE%B3%CF%8E%CE%BD%CF%89%CE%BD-%CF%84%E1%BF%B6%CE%BD-%E1%BC%B1%CE%B5%CF%81%E1%BF%B6%CE%BD-%E1%BC%B1%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%BA%E1%BD%B8%CE%BD-%E1%BC%80%CF%84%CF%84%CE%B9%CE%BA%E1%BD%B8%CE%BD-%E1%BC%A1%CE%BC%CE%B5%CF%81%CE%BF%CE%BB%CF%8C%CE%B3%CE%B9%CE%BF%CE%BD/%CE%BF%CE%BB%CF%85%CE%BC%CF%80%CE%B9%CE%BF%CE%BD%CE%B9%CE%BA%CE%B1%CE%B9%CF%83-i-%CE%B9%CE%B5%CF%81%CF%89%CE%BD%CE%B9-%CF%83%CF%85%CF%81%CE%B1%CE%BA%CE%BF%CF%83%CE%B9%CF%89%CE%B9-%CE%BA%CE%B5%CE%BB%CE%B7%CF%84%CE%B9-%CE%B3%CE%B9%CE%B1-%CF%84%CE%BF%CE%BD-%CE%B9%CE%B5%CF%81%CF%89%CE%BD%CE%B1-%CE%B1%CF%80%CE%BF-%CF%84%CE%B9%CF%83-%CF%83%CF%85%CF%81%CE%B1%CE%BA%CE%BF%CF%85%CF%83%CE%B5%CF%83-%CE%BD%CE%B9%CE%BA%CE%B7%CF%84/269462463622600/)
 * [Short Story in Attic Greek and English, w/Grammar Notes - YouTube](https://www.youtube.com/watch?v=U41KC16BgyQ)
-* http://www.greekbible.com/index.php
+* [greekbible.com/index.php](http://www.greekbible.com/index.php)
 * Οἰδίπους τύραννος
 * [EIDOLON](https://eidolon.pub/)
 * [Euclid's Elements of Geometry in Greek](http://farside.ph.utexas.edu/Books/Euclid/Elements.pdf)
 * [euclid english.pdf](http://www.math.tamu.edu/~dallen/masters/Greek/euclid.pdf)
 * [Euclid's Elements of Geometry in Greek](http://farside.ph.utexas.edu/Books/Euclid/Elements.pdf)
 * [Στοιχεία/α - Βικιθήκη](https://el.wikisource.org/wiki/%CE%A3%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1/%CE%B1)
-* https://ru.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D1%80%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA#%D0%93%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB,_%CF%84%E1%BD%B8_%E1%BF%A5%E1%BF%86%CE%BC%CE%B1
-* https://www.theatlantic.com/past/docs/unbound/poetry/greekpoe.htm
+* [ru.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D1%80%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA#%D0%93%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB,_%CF%84%E1%BD%B8_%E1%BF%A5%E1%BF%86%CE%BC%CE%B1](https://ru.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D1%80%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA#%D0%93%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB,_%CF%84%E1%BD%B8_%E1%BF%A5%E1%BF%86%CE%BC%CE%B1)
+* [theatlantic.com/past/docs/unbound/poetry/greekpoe.htm](https://www.theatlantic.com/past/docs/unbound/poetry/greekpoe.htm)
 * [agamemnon](https://vk.com/wall-2428428_922)
 * [Aristot.Phys.184a - 184b14: Erkenntnis der Naturdinge aus ihren Prinzipien. Widerlegung des Parmenides](http://www.gottwein.de/Grie/aristot/aristphys184a.php)
 * [Aristotelis Metaphysica : Aristotle : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/aristotelismetap00aris/page/n5)
 * [Auteurs classiques Grecs, Platon, Projet Homere](http://www.projethomere.com/travaux/auteurs_classiques/platon/platon.htm)
 * [Filósofos de Grecia: la vida de los amantes de la sabiduría](http://www.nationalgeographic.com.es/historia/grandes-reportajes/filosofos-de-grecia_8357/6)
 * [Gods, Myths and Legends in Greek Mythology](https://www.thoughtco.com/greek-gods-myths-and-legends-119894)
-* http://lucianofsamosata.info/resources.html
-* http://www.gospelsingreek.com/
+* [lucianofsamosata.info/resources.html](http://lucianofsamosata.info/resources.html)
+* [gospelsingreek.com/](http://www.gospelsingreek.com/)
 * [La Odisea y la Llíada HISTORIA de la LITERATURA NARRADA antigua Grecia Homero - YouTube](https://www.youtube.com/watch?v=IjOFYKCiaWo)
 * [New Testament Greek](http://ntgreek.net/)
 * [Reading Authentic Greek : Pitch and Music](http://community.middlebury.edu/~harris/Classics/Greekaccents.html)
@@ -5395,7 +5395,7 @@
 * [Textkit Greek and Latin Forums - Index page](https://www.textkit.com/greek-latin-forum/)
 * [Greek Language and Linguistics: Forums](https://greek-language.com/Forums.html)
 * [Interlinear Bible](https://biblehub.com/interlinear/1_john/1.htm)
-* http://www.akwn.net/
+* [akwn.net/](http://www.akwn.net/)
 * [Plato, Cratylus, section 383a](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0171%3atext%3dCrat.)
 * [The Best Books on Learning Ancient Greek | Five Books Expert Recommendations](https://fivebooks.com/best-books/learning-ancient-greek-paul-mcmullen/)
 * [Euklid Stoicheia - Euklid Elemente](http://www.opera-platonis.de/euklid/index.html)
@@ -5403,21 +5403,21 @@
 * [Learn Greek Online!](http://kypros.org/LearnGreek/)
 * - 13
 * [Mali princ | Antoine de Saint-Exupery | download](https://b-ok.cc/book/3987835/8670c4)
-* https://de1lib.org/s/?languages%5B%5D=croatian
+* [de1lib.org/s/?languages%5B%5D=croatian](https://de1lib.org/s/?languages%5B%5D=croatian)
 * [40 Similar Sites Like Geek.hr - SimilarSites.com](https://www.similarsites.com/site/geek.hr)
 * [A Quick Guide to Serbian Literature](https://web.archive.org/web/20081002011407/http://www.serbiatravelers.org/en/index.php/literature)
 * [Littérature des Balkans [kustu.com]](http://kustu.com/w2/fr:litterature)
 * [Serbian literature - Wikipedia](https://en.wikipedia.org/wiki/Serbian_literature)
 * [Serbian literature | Britannica.com](https://www.britannica.com/art/Serbian-literature)
 * [Croatian literature | Britannica.com](https://www.britannica.com/art/Croatian-literature)
-* https://www.enciklopedija.hr/
-* http://www.enciklopedija.hr/natuknica.aspx?ID=26662
-* http://www.hrt.hr/
-* http://tradicionalnalatinskamisa.blogspot.com/
-* http://mojsrpski.org/
-* http://mylanguages.org/fr/croate_apprendre.php
-* http://www.101languages.net/croatian/most-common-croatian-words/
-* http://www.bbc.co.uk/languages/other/quickfix/croatian.shtml
+* [enciklopedija.hr/](https://www.enciklopedija.hr/)
+* [enciklopedija.hr/natuknica.aspx?ID=26662](http://www.enciklopedija.hr/natuknica.aspx?ID=26662)
+* [hrt.hr/](http://www.hrt.hr/)
+* [tradicionalnalatinskamisa.blogspot.com/](http://tradicionalnalatinskamisa.blogspot.com/)
+* [mojsrpski.org/](http://mojsrpski.org/)
+* [mylanguages.org/fr/croate_apprendre.php](http://mylanguages.org/fr/croate_apprendre.php)
+* [101languages.net/croatian/most-common-croatian-words/](http://www.101languages.net/croatian/most-common-croatian-words/)
+* [bbc.co.uk/languages/other/quickfix/croatian.shtml](http://www.bbc.co.uk/languages/other/quickfix/croatian.shtml)
 * [Kroatisch lernen Online, in Kroatien, München, Graz, Wien &amp; Stuttgart](http://www.kroatischlernen.eu/)
 * [Learn Croatian | Free Language](https://freelanguage.org/learn-croatian)
 * [learning croatian | Tumblr](https://www.tumblr.com/search/learning%20croatian)
@@ -5431,21 +5431,21 @@
 * [Home - Lider Media](https://lider.media/)
 * [Hrvatski institut za povijest](http://www.isp.hr/category/newsletter/)
 * [Hrvatsko nebo – dokumentarni filmovi](https://hrvatskonebo.com/dokumentarci/)
-* http://bolje.hr/
+* [bolje.hr/](http://bolje.hr/)
 * [Matica hrvatska](http://www.matica.hr/hrvatska_revija/)
 * [Matica hrvatska](http://www.matica.hr/Vijenac/)
 * [Matica hrvatska](http://www.matica.hr/kolo/)
 * [Nikola Tesla&#39;s Autobiography - My Inventions - Free](http://www.teslasautobiography.com/)
-* http://opusteno.rs/zanimljivosti/
-* http://zanimljivostidana.com/
-* [www.spiritofbosnia.org/bs/](http://www.spiritofbosnia.org/bs/)
+* [opusteno.rs/zanimljivosti/](http://opusteno.rs/zanimljivosti/)
+* [zanimljivostidana.com/](http://zanimljivostidana.com/)
+* [spiritofbosnia.org/bs/](http://www.spiritofbosnia.org/bs/)
 * [Hrvatski | Хорватский язык для лентяев](https://vk.com/hrvatski_za_lijene)
 * [Neka naučimo hrvatski | хорватский язык](https://vk.com/ucimo_hrvatski)
 * [Легкий хорватский | Lagan Hrvatski](https://vk.com/crolang)
 * [Хорватська мова Hrvatski jezik Фольк-традиц](https://vk.com/club73148902)ії
 * [autobiografija nikole tesle - Ecosia](https://www.ecosia.org/search?q=autobiografija+nikole+tesle&addon=chrome&addonversion=2.0.3)
-* http://www.forum.hr/
-* https://geek.hr/znanost/
+* [forum.hr/](http://www.forum.hr/)
+* [geek.hr/znanost/](https://geek.hr/znanost/)
 * [Mudre Misli - Portal mudrosti](http://mudremisli.net/)
 * [Pinterest](https://www.pinterest.ru/search/pins/?rs=ac&len=2&q=hrvatski%20citati&eq=hrvatski&etslf=2670&term_meta%5B%5D=hrvatski%7Cautocomplete%7C0&term_meta%5B%5D=citati%7Cautocomplete%7C0)
 * [Tajna sretnog života? – Matrix World](https://matrixworldhr.com/2012/10/07/tajna-sretnog-zivota/)
@@ -5465,22 +5465,22 @@
 * [Priče iz Davnine : Ivana Brlić Mažuranić : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/prieizdavnine_1903_librivox)
 * [Ovaj svijet može da bude bolji: moji razgovori s ćerkom o ekonomiji | Yannis Varoufakis | download](https://b-ok.cc/book/2565212/d50053)
 * [Nikola Tesla - MOJI IZUMI (Autobiografija Nikole Tesle) - YouTube](https://www.youtube.com/watch?v=kXVpeQNB9yM)
-* https://www.vice.com/rs
+* [vice.com/rs](https://www.vice.com/rs)
 * [Ateološka rasprava](http://library.lol/main/D09B55EC9760ED39E420B1C9E7197471)
 * [E-TEČAJ A1.HR](https://a1.ffzg.unizg.hr/?lang=es)
 * [E-TEČAJ A2.HR](https://a2.ffzg.unizg.hr/?lang=es)
 * [Računalne mreže - Mrežne topologije](https://sysportal.carnet.hr/node/379)
 * [Tech HR](https://sysportal.carnet.hr/)
-* https://lemondediplomatique.hr/
-* http://www.childrenslibrary.org/icdl/AdvancedSearchCategory?selIds=111&viewIds=3&rnum=1&view=cover&sort=match&location=everywhere&pgct=12&match=all&ilangcode=en&ilang=English&text=&lang=Croatian&search=OK
-* http://www.prva.hr/images/pdf/LEKCIJA%2020%20-%20RENESANSA%20I%20HUMANIZAM.pdf
-* https://tekstovi.net/2,0,0.html
-* https://www.alexa.com/topsites/countries/HR
-* https://www.lds.org/languages/hrv/content/history/saints-v1/01-ask-in-faith
-* https://www.natgeotv.com/hr
-* https://www.revolvy.com/topic/List%20of%20magazines%20in%20Croatia
-* https://www.revolvy.com/topic/List%20of%20magazines%20in%20Serbia
-* https://www.similarsites.com/site/geek.hr
+* [lemondediplomatique.hr/](https://lemondediplomatique.hr/)
+* [childrenslibrary.org/icdl/AdvancedSearchCategory?selIds=111&viewIds=3&rnum=1&view=cover&sort=match&location=everywhere&pgct=12&match=all&ilangcode=en&ilang=English&text=&lang=Croatian&search=OK](http://www.childrenslibrary.org/icdl/AdvancedSearchCategory?selIds=111&viewIds=3&rnum=1&view=cover&sort=match&location=everywhere&pgct=12&match=all&ilangcode=en&ilang=English&text=&lang=Croatian&search=OK)
+* [prva.hr/images/pdf/LEKCIJA%2020%20-%20RENESANSA%20I%20HUMANIZAM.pdf](http://www.prva.hr/images/pdf/LEKCIJA%2020%20-%20RENESANSA%20I%20HUMANIZAM.pdf)
+* [tekstovi.net/2,0,0.html](https://tekstovi.net/2,0,0.html)
+* [alexa.com/topsites/countries/HR](https://www.alexa.com/topsites/countries/HR)
+* [lds.org/languages/hrv/content/history/saints-v1/01-ask-in-faith](https://www.lds.org/languages/hrv/content/history/saints-v1/01-ask-in-faith)
+* [natgeotv.com/hr](https://www.natgeotv.com/hr)
+* [revolvy.com/topic/List%20of%20magazines%20in%20Croatia](https://www.revolvy.com/topic/List%20of%20magazines%20in%20Croatia)
+* [revolvy.com/topic/List%20of%20magazines%20in%20Serbia](https://www.revolvy.com/topic/List%20of%20magazines%20in%20Serbia)
+* [similarsites.com/site/geek.hr](https://www.similarsites.com/site/geek.hr)
 * [Over Klassenstrijd, Rebellie en Solidariteit | nl.anarchistlibraries.net](https://a-bieb.nl/library/noam-chomsky-over-klassenstrijd-rebellie-en-solidariteit)
 * [Vijf filosofen over de moderne wereld – nrc academie | NoWishfulThinking.](http://nowishfulthinking.nl/vijf-filosofen-over-de-moderne-wereld-nrc-academie/)
 * [De boeken van Thierry Baudet - De Nieuwe Zuil](https://vk.com/away.php?to=https%3A%2F%2Fdenieuwezuil.nl%2Fde-nazi-ideologen%2F)
@@ -5492,18 +5492,18 @@
 * [Popular Balkan Literature Books](https://www.goodreads.com/shelf/show/balkan-literature)
 * [Kontrastivna gramatika srpskog i ukrajinskog jezika: taksis i evidencijalnost](https://books.google.com/books?id=-OW2BgAAQBAJ&printsec=frontcover&dq=subject:%22serbo-croatian+language%22&hl=fr&sa=X&ved=0ahUKEwimv6qq1O3cAhXDwrwKHcAMAFoQ6AEIazAI#v=onepage&q&f=false)
 * [TeslaMyInvention1919Excerpts.pdf](https://web.engr.uky.edu/~lgh/classes/ee512/LectureNotes/TeslaMyInvention1919Excerpts.pdf)
-* https://www.muzika.hr/
-* https://www.fitness.com.hr/
-* http://www.gloria.hr//
-* http://top-lista.com/
+* [muzika.hr/](https://www.muzika.hr/)
+* [fitness.com.hr/](https://www.fitness.com.hr/)
+* [gloria.hr//](http://www.gloria.hr//)
+* [top-lista.com/](http://top-lista.com/)
 * [Hrvatski nogometni savez](http://hns-cff.hr/)
 * [HRVATSKI NOGOMETNI SAVEZ](http://hns-cff.hr/)
 * [Hrvatskonebo.com – Športske vijesti](http://hrvatskonebo.com/sport/)
-* http://sportklub.hr/?lokacija=HR
-* https://sportske.jutarnji.hr/#!
-* https://www.jutarnji.hr/sport/#!
-* http://knjizevnostzagamovce.blogspot.com/
-* http://knjizevnostzagamovce.blogspot.com/2014/11/humanizam-i-predrenesansa.html
+* [sportklub.hr/?lokacija=HR](http://sportklub.hr/?lokacija=HR)
+* [sportske.jutarnji.hr/#!](https://sportske.jutarnji.hr/#!)
+* [jutarnji.hr/sport/#!](https://www.jutarnji.hr/sport/#!)
+* [knjizevnostzagamovce.blogspot.com/](http://knjizevnostzagamovce.blogspot.com/)
+* [knjizevnostzagamovce.blogspot.com/2014/11/humanizam-i-predrenesansa.html](http://knjizevnostzagamovce.blogspot.com/2014/11/humanizam-i-predrenesansa.html)
 
 
 * [**Alan Ford dal n°1 al n°200 + vari (cbr ita) | Ipersphera](https://ipersphera.org/2016/10/11/alan-ford-dal-n1-al-n-60-cbr-ita-uploading/)
@@ -5512,15 +5512,15 @@
 * [Alan Ford (comics) - Wikipedia](https://en.wikipedia.org/wiki/Alan_Ford_%28comics%29)
 * - 14
 * [Peter Bruin Mathe NL](http://pub.math.leidenuniv.nl/~bruinpj/)
-* https://www.nu.nl/wetenschap
-* https://de1lib.org/s/?languages%5B%5D=dutch
-* [www.gutenberg.org/cache/epub/13214/pg13214-images.html](http://www.gutenberg.org/cache/epub/13214/pg13214-images.html)
+* [nu.nl/wetenschap](https://www.nu.nl/wetenschap)
+* [de1lib.org/s/?languages%5B%5D=dutch](https://de1lib.org/s/?languages%5B%5D=dutch)
+* [gutenberg.org/cache/epub/13214/pg13214-images.html](http://www.gutenberg.org/cache/epub/13214/pg13214-images.html)
 * [voetball - wikihow](https://nl.wikihow.com/wikiHowTo?search=voetball)
 * [Anna Karenina (Nederlands) by Leo Tolstoy - Dutch - Free at Loyal Books](http://www.loyalbooks.com/book/Anna-Karenina-Leo-Tolstoy)
 * [Elsevier Weekblad | Het laatste nieuws, commentaren en achtergronden](https://www.elsevierweekblad.nl/)
 * [Het mormonisme](http://www.mormonisme.nl/)
 * [Home | TROUW](https://www.trouw.nl/)
-* https://www.elsevierweekblad.nl/
+* [elsevierweekblad.nl/](https://www.elsevierweekblad.nl/)
 * [vn.nl](http://vn.nl/)
 * [Dutch |Nederlands| Голландский|](https://vk.com/nederlandstalig)
 * [Nederlands / Нидерландский язык и фильмы](https://vk.com/nederlands33)
@@ -5528,10 +5528,10 @@
 * [Голландский (нидерландский) язык](https://vk.com/golyaz)
 * [Нидерландский язык/ het Nederlands](https://vk.com/hetnederlands)
 * [Dutchexpert: нидерландский, голландский, MVV](https://vk.com/dutchexpert)
-* https://www.volkskrant.nl/columns-opinie/geograaf-josse-de-voogd-over-de-culturele-tegenstellingen-in-nederland-de-proteststem-woont-in-suburbia~b221690f/?utm_source=edm&utm_medium=email&utm_campaign=&utm_content=&utm_term=&&ctm_ctid=&m_i=ImrIQ3VGc236AsotrCHU%2BjQwGKIMq_BrYYLmfWBrDcfD5Lc4vptrSQXuLvhfHPvzF64Dn2rbI7S_bXmFF0K9cRgLCpKzOccTpp&utm_source=VK&utm_medium=email&utm_campaign=20190411%7Cavond&utm_content=Geograaf+Josse+de+Voogd+over+de+culturele+tegenstellingen+in+Nederland%3A+%E2%80%98De+proteststem+woont+in+suburbia%E2%80%99&utm_term=85838&utm_userid=&ctm_ctid=830a3bcb0d775057a6dd7c8e019f8672&splitGroup=persgroep
-* https://www.volkskrant.nl/columns-opinie/jongens-die-meisjesdingen-doen-daar-worden-mensen-ongemakkelijk-van~b47ad4ad/?utm_source=edm&utm_medium=email&utm_campaign=&utm_content=&utm_term=&&ctm_ctid=&m_i=21M2rtmZLpet3nVMNro1wFUjo7Ogyi3E3WzxJWYSM5p5lHS6IEDUvt%2BAfacPBz3pLTrdqJiXS9NGWuExWwaF2g2YvSas%2Bv6adO&utm_source=VK&utm_medium=email&utm_campaign=20190411%7Cavond&utm_content=Column%3A+Jongens+die+meisjesdingen+doen%2C+daar+worden+mensen+ongemakkelijk+van&utm_term=85838&utm_userid=&ctm_ctid=830a3bcb0d775057a6dd7c8e019f8672&splitGroup=persgroep
-* https://www.volkskrant.nl/nieuws-achtergrond/julian-assange-opgepakt-door-londense-politie-in-ecuadoraanse-ambassade~b4ebf2bc/?utm_source=edm&utm_medium=email&utm_campaign=&utm_content=&utm_term=&&ctm_ctid=&m_i=RD%2BRyMz5n%2BfypKFCDPnQYgWZS0HN3pAOs4OxAZhwtGiUV98NlZ0F1GR2ZyPrPs8PjnyOFtLUAi7NcV62qIrtFXHVjC95n0FgIx&utm_source=VK&utm_medium=email&utm_campaign=20190411%7Cavond&utm_content=Julian%20Assange%20opgepakt%20door%20Londense%20politie%20in%20Ecuadoraanse%20ambassade&utm_term=85838&utm_userid=&ctm_ctid=830a3bcb0d775057a6dd7c8e019f8672&splitGroup=persgroep
-* https://www.volkskrant.nl/nieuws-achtergrond/wat-gaan-de-britten-doen-met-zes-maanden-extra-brexituitstel~b835fd0b/?utm_source=edm&utm_medium=email&utm_campaign=&utm_content=&utm_term=&&ctm_ctid=&m_i=WXN9ggow7zQVGQx6ZVELwJEsqVmld_830f0_rFmsmOS76_yXubsXNXp09J5Jru%2B0BU6d6vGAGm6F5ON3a0s4uSC55rLx93xCpU&utm_source=VK&utm_medium=email&utm_campaign=20190411%7Cavond&utm_content=Wat%20gaan%20de%20Britten%20doen%20met%20zes%20maanden%20extra%20Brexituitstel%3F&utm_term=85838&utm_userid=&ctm_ctid=830a3bcb0d775057a6dd7c8e019f8672&splitGroup=persgroep
+* [volkskrant.nl/columns-opinie/geograaf-josse-de-voogd-over-de-culturele-tegenstellingen-in-nederland-de-proteststem-woont-in-suburbia~b221690f/](https://www.volkskrant.nl/columns-opinie/geograaf-josse-de-voogd-over-de-culturele-tegenstellingen-in-nederland-de-proteststem-woont-in-suburbia~b221690f/)
+* [volkskrant.nl/columns-opinie/jongens-die-meisjesdingen-doen-daar-worden-mensen-ongemakkelijk-van~b47ad4ad/](https://www.volkskrant.nl/columns-opinie/jongens-die-meisjesdingen-doen-daar-worden-mensen-ongemakkelijk-van~b47ad4ad/)
+* [volkskrant.nl/nieuws-achtergrond/julian-assange-opgepakt-door-londense-politie-in-ecuadoraanse-ambassade~b4ebf2bc/](https://www.volkskrant.nl/nieuws-achtergrond/julian-assange-opgepakt-door-londense-politie-in-ecuadoraanse-ambassade~b4ebf2bc/)
+* [volkskrant.nl/nieuws-achtergrond/wat-gaan-de-britten-doen-met-zes-maanden-extra-brexituitstel~b835fd0b/](https://www.volkskrant.nl/nieuws-achtergrond/wat-gaan-de-britten-doen-met-zes-maanden-extra-brexituitstel~b835fd0b/)
 * [Mijn wereld in 100 woorden](http://dewereldin100woorden.blogspot.nl/)
 * [Geschiedenis van Nederland](https://de1lib.org/book/1929302/254311)
 * [Geschiedenis van Nederland](https://de1lib.org/book/1851317/7b22b4)
@@ -5541,46 +5541,46 @@
 * [De kleine Nederlands voor dummies](https://de1lib.org/book/17198310/3e8640)
 * [Schets Van Een Beschavingsoffensief: Over Normen, Normaliteit En Normalisatie in Nederland (WRR Verkenningen) (Dutch Edition)](https://de1lib.org/book/833825/0eb433)
 * [Indisch is Een Gevoel': De Tweede En Derde Generatie Indische Nederlanders (Dutch Edition)](https://de1lib.org/book/836128/df462a)
-* http://nl.in-mind.org/ (14)
+* [nl.in-mind.org/](http://nl.in-mind.org/) (14)
 * [De ontdekking van de hemel | Mulisch Harry | download](https://b-ok.cc/book/1736688/aa8730)
 * [In Europa | Mak Geert | download](https://b-ok.cc/book/1737229/678215)
 * [Dit Was Het Nieuws Niet | De Correspondent, Rob Wijnberg, Maurits Martijn, Rosan Smits & Sterre Sprengers | download](https://b-ok.cc/book/5206648/f1bbbb)
 * [Matilda | Dahl Roald | download](https://b-ok.cc/book/1732498/534668)
 * [Wij zijn ons brein druk 1: van baarmoeder tot alzheimer | Dick F. Swaab | download](https://b-ok.cc/book/1209889/79425a)
-* http://www.demens.nu/nl/
-* https://www.kakhiel.nl/
+* [demens.nu/nl/](http://www.demens.nu/nl/)
+* [kakhiel.nl/](https://www.kakhiel.nl/)
 * - 15
 * [Harry Potter на польском - по методу Ильи Франка.doc](https://vk.com/doc280261509_441899365?hash=4732cbf8b0cd3a2a45&dl=18f7030caf86e54d2a)
 * [Zielona Sowa](https://b-ok.cc/s/zielona%20sowa)
 * [НОВОСТИ | Culture.pl](http://culture.pl/ru/news)
 * Adam Zagajewski
-* https://de1lib.org/s/?languages%5B%5D=polish
+* [de1lib.org/s/?languages%5B%5D=polish](https://de1lib.org/s/?languages%5B%5D=polish)
 * [http://www.polishlanguage.biz](http://www.polishlanguage.biz/)
-* http://www.skwierzyna.net/learn_polish.htm
-* http://en.wikipedia.org/wiki/Polish_language
-* http://www.learn-polish.pl/school_of_polish_de.php?lg=de
-* https://de.wikipedia.org/wiki/Aussprache_des_Polnischen
-* http://mspp.com.pl/
-* http://www.101languages.net/polish/most-common-polish-words/
-* https://e-polish.eu/onlajn-kurs-gramatiki-polskoj-movi
-* https://realkartapolaka.com/blog/
-* https://www.17-minute-world-languages.com/fr/polonaise/
+* [skwierzyna.net/learn_polish.htm](http://www.skwierzyna.net/learn_polish.htm)
+* [en.wikipedia.org/wiki/Polish_language](http://en.wikipedia.org/wiki/Polish_language)
+* [learn-polish.pl/school_of_polish_de.php?lg=de](http://www.learn-polish.pl/school_of_polish_de.php?lg=de)
+* [de.wikipedia.org/wiki/Aussprache_des_Polnischen](https://de.wikipedia.org/wiki/Aussprache_des_Polnischen)
+* [mspp.com.pl/](http://mspp.com.pl/)
+* [101languages.net/polish/most-common-polish-words/](http://www.101languages.net/polish/most-common-polish-words/)
+* [e-polish.eu/onlajn-kurs-gramatiki-polskoj-movi](https://e-polish.eu/onlajn-kurs-gramatiki-polskoj-movi)
+* [realkartapolaka.com/blog/](https://realkartapolaka.com/blog/)
+* [17-minute-world-languages.com/fr/polonaise/](https://www.17-minute-world-languages.com/fr/polonaise/)
 * [Misja Kraków - Episodes | DW](https://www.dw.com/fr/apprendre-lallemand/misja-krak%C3%B3w-episodes/s-10105)
 * [Polish Videos with Polish Subtitles - Free Language Learning](https://www.languagecourse.net/videos/learn-polish)
 * [Polish/Polish pronunciation - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Polish/Polish_pronunciation)
 * [Wszechnica.org.pl – ucz się z najlepszymi!](http://wszechnica.org.pl/)
 * [Ресурсы для изучения польского языка](https://vk.com/wall-162648604_30)
-* http://polnisch.net/
-* http://mowicpopolsku.com/de/
-* http://www.apronus.com/learnpolish/
-* http://grzegorj.w.interia.pl/kurs/
-* http://www.oneness.vu.lt/pl/
+* [polnisch.net/](http://polnisch.net/)
+* [mowicpopolsku.com/de/](http://mowicpopolsku.com/de/)
+* [apronus.com/learnpolish/](http://www.apronus.com/learnpolish/)
+* [grzegorj.w.interia.pl/kurs/](http://grzegorj.w.interia.pl/kurs/)
+* [oneness.vu.lt/pl/](http://www.oneness.vu.lt/pl/)
 * [http://www.kurspl.com](http://www.kurspl.com/)
-* http://www.polish-translators.com/wymowa.html
+* [polish-translators.com/wymowa.html](http://www.polish-translators.com/wymowa.html)
 * [Polska Agencja Prasowa](http://www.pap.pl/)
-* http://www.101languages.net/czech/most-common-czech-words/
-* http://www.cesky-jazyk.cz/cjl/#axzz5O5ctTm2p
-* https://omniglot.com/writing/czech.htm
+* [101languages.net/czech/most-common-czech-words/](http://www.101languages.net/czech/most-common-czech-words/)
+* [cesky-jazyk.cz/cjl/#axzz5O5ctTm2p](http://www.cesky-jazyk.cz/cjl/#axzz5O5ctTm2p)
+* [omniglot.com/writing/czech.htm](https://omniglot.com/writing/czech.htm)
 * [Čeština. Učíme se spolu.](https://vk.com/czech_and_you)
 * [LotR 15b](https://vk.com/wall-33707568_2231)
 * [Osudy dobrého vojáka Švejka za světové války/Zasáhnutí dobrého vojáka Švejka do světové války – Wikizdroje](https://cs.wikisource.org/wiki/Osudy_dobr%C3%A9ho_voj%C3%A1ka_%C5%A0vejka_za_sv%C4%9Btov%C3%A9_v%C3%A1lky/Zas%C3%A1hnut%C3%AD_dobr%C3%A9ho_voj%C3%A1ka_%C5%A0vejka_do_sv%C4%9Btov%C3%A9_v%C3%A1lky)
@@ -5610,13 +5610,13 @@
 * Naucz Się Polskiego - Learn Polish - Учи польский.
 * [ŻYDOWSKIE OBOZY ŚMIERCI.doc](https://vk.com/doc493916742_498696980?hash=ed535a067d6b1fa564&dl=7c531b287c9a9bf526)
 * [Aforyzmy i cytaty dla Ciebie - Zamyslenie.pl](https://www.zamyslenie.pl/)
-* http://www.naukadladzieci.net/
-* http://www.yummy.pl/
+* [naukadladzieci.net/](http://www.naukadladzieci.net/)
+* [yummy.pl/](http://www.yummy.pl/)
 * [Польский язык в стихах Julian Tuwim 'Kotek'](https://vk.com/video-42002404_456241509?list=a537ea563bc18df75d)
 * Wojna, która nas zmieniła – Eurozine
 * [Nie ma róży bez kolców.pdf](https://vk.com/doc18933007_484782948?hash=11caed38b71335db8f&dl=eec44cdd6f4fbeaf34)
-* https://en.m.wikipedia.org/wiki/Help:IPA/Polish?wprov=sfti1
-* https://www.copernicuscenter.edu.pl/
+* [en.m.wikipedia.org/wiki/Help:IPA/Polish?wprov=sfti1](https://en.m.wikipedia.org/wiki/Help:IPA/Polish?wprov=sfti1)
+* [copernicuscenter.edu.pl/](https://www.copernicuscenter.edu.pl/)
 * [Польские сказки. Илья Франк.pdf](https://vk.com/doc425868400_492148678?hash=a5a9a917a3f21bdeaa&dl=27788fcb3e65203371)
 * [Польский язык. Метод чтения Ильи Франка.pdf](https://vk.com/doc18933007_484934320?hash=4de1c0711aca927e4a&dl=b4bdc8003001e0c125)
 * [Польский. Пан Володыевский. Илья Франк.pdf](https://vk.com/doc425868400_492148687?hash=e0a17daa8fa30c2d02&dl=9ae2dcb7ecb0cac004)
@@ -5626,11 +5626,11 @@
 * [Nauczanie maszynowe jest zabawne! | by Maciej Matyka | Medium](https://medium.com/@maciej.matyka/nauczanie-maszynowe-jest-zabawne-fc9af0080cda)
 * [Polecam do przeczytania na Gazeta.pl](http://kobieta.gazeta.pl/kobieta/7,107881,22609637,16-przedmiotow-ktore-wygladaja-jak-narzedzia-tortur-a-maja.html)
 * - 16
-* https://eventyrforalle.no/
-* https://www.actualidadliteratura.com/no/
+* [eventyrforalle.no/](https://eventyrforalle.no/)
+* [actualidadliteratura.com/no/](https://www.actualidadliteratura.com/no/)
 * [Williamson Teaching NO/EN](http://rwilliamson-mathematics.info/teaching.html)
-* http://www.bokkilden.no/SamboWeb/produkt.do?produktId=2708952
-* https://de1lib.org/s/?languages%5B%5D=norwegian&order=year
+* [bokkilden.no/SamboWeb/produkt.do?produktId=2708952](http://www.bokkilden.no/SamboWeb/produkt.do?produktId=2708952)
+* [de1lib.org/s/?languages%5B%5D=norwegian&order=year](https://de1lib.org/s/?languages%5B%5D=norwegian&order=year)
 * [Harry Potter og De vises stein | J.K. Rowling | download](https://de1lib.org/book/4293402/9156c7?dsource=recommend)
 * [Foucaults pendel](https://de1lib.org/book/7220741/7fb528)
 * [Dr. Jekyll og Mr. Hyde](https://de1lib.org/book/7220868/2814d1)
@@ -5643,10 +5643,10 @@
 * [Nevromantiker](https://de1lib.org/book/4315472/030b01)
 * [Vikingenes verden](https://de1lib.org/book/6137269/a75a87)
 * [Grammatik | Lär Dig Svenska](http://blog.lardigsvenska.com/p/grammar.html)
-* https://forskning.no/
-* http://www.learnnorwegiannaturally.com/
-* https://ielanguages.com/scandinavian.html
-* https://www.swedishpod101.com/swedish-resources/
+* [forskning.no/](https://forskning.no/)
+* [learnnorwegiannaturally.com/](http://www.learnnorwegiannaturally.com/)
+* [ielanguages.com/scandinavian.html](https://ielanguages.com/scandinavian.html)
+* [swedishpod101.com/swedish-resources/](https://www.swedishpod101.com/swedish-resources/)
 * [norsk123](https://fr.scribd.com/document/37306174/norsk123)
 * [Norwegian Masterpost](http://languagecollector.tumblr.com/post/158237296781/masterpost-of-norwegian-masterposts)
 * [Norwegian on the Web](https://www.ntnu.edu/web/now/info)
@@ -5675,7 +5675,7 @@
 * [SvD | Sveriges kvalitetssajt för nyheter](https://www.svd.se/)
 * [Svenska ljud bibel: Matteus](https://www.wordproject.org/bibles/audio/64_swedish/b40.htm)
 * [Svenska.yle.fi | svenska.yle.fi](https://svenska.yle.fi/)
-* https://www.lds.org/languages/swe/content/history/saints-v1/01-ask-in-faith
+* [lds.org/languages/swe/content/history/saints-v1/01-ask-in-faith](https://www.lds.org/languages/swe/content/history/saints-v1/01-ask-in-faith)
 * [Keiserens nye klær](http://www.acm5.com/vgs/2_norsk/Ordforklaringer/0_Tekster%20pdf/Keiserens%20nye%20kler.pdf)
 * [Kejsarens nya kläder - Wikisource](https://sv.wikisource.org/wiki/Kejsarens_nya_kl%C3%A4der)
 * [Kristeligt Dagblad](https://www.kristeligt-dagblad.dk/)
@@ -5703,9 +5703,9 @@
 * [Europa Arkiver | Le Monde diplomatique](https://www.lmd.no/verden/europa/)
 * [Forsiden - P4 Radio Hele Norge - P4.no](http://www.p4.no/)
 * [Hans Christian Andersen : Fairy tales](http://andersen.sdu.dk/vaerk/register/eventyr_e.html)
-* http://fribibel.no/
-* https://morgenbladet.no/
-* https://vr.dn.se
+* [fribibel.no/](http://fribibel.no/)
+* [morgenbladet.no/](https://morgenbladet.no/)
+* [vr.dn.se](https://vr.dn.se)
 * [The Norway Portal - Norwegian Ministry of Foreign Affairs](https://www.norway.no/)
 * [The Project Gutenberg eBook of A Polyglot of Foreign Proverbs, by Henry G. Bohn..](https://www.gutenberg.org/files/51090/51090-h/51090-h.htm)
 * [UR Skola - Kunskapsbanken](https://urskola.se/)
@@ -5738,13 +5738,13 @@
 * [Frankrike - Uruguay kl. 16: - Hva er galt med Luis Suárez? - Dagbladet](https://www.dagbladet.no/sport/hva-er-galt-med-luis-surez/69993795)
 * [Vitenskapelige Og Populære Multimedia Portal | NO.WordsSideKick.com](https://no.wordssidekick.com/)
 * [Dagsavisen](https://www.dagsavisen.no/)
-* https://snl.no/
-* https://www.haugenbok.no/Skjoennlitteratur/Ungdomsboeker/Sofies-verden4/I9788203254147
-* https://estudie.no/
+* [snl.no/](https://snl.no/)
+* [haugenbok.no/Skjoennlitteratur/Ungdomsboeker/Sofies-verden4/I9788203254147](https://www.haugenbok.no/Skjoennlitteratur/Ungdomsboeker/Sofies-verden4/I9788203254147)
+* [estudie.no/](https://estudie.no/)
 * Kulturen in i värmen – Eurozine
 * IMF-chef vill beskatta de rika – Eurozine
 * [VIVO3-4ArbeidsbokBM.pdf](http://web2.gyldendal.no/nyhetsbrev/VIVO3-4ArbeidsbokBM.pdf)
-* https://www.nyvitenskap.no/
+* [nyvitenskap.no/](https://www.nyvitenskap.no/)
 * [Hva er thomisme? - danieljoachim.org](https://www.danieljoachim.org/hva-er-thomisme/)
 * [Hvorfor koster helse så mye i USA?](https://forskning.no/a/281579)
 * [NO Wikiquote](https://no.wikiquote.org/wiki/Hovedside)
@@ -5763,10 +5763,10 @@
 * [Hvorfor ble Norge en del av Danmark? Og hvorfor har ikke Norge et mer norrønt språk, siden Norge er kjent som et land med røtter i norrønt språk? - Quora](https://no.quora.com/Hvorfor-ble-Norge-en-del-av-Danmark-Og-hvorfor-har-ikke-Norge-et-mer-norr%C3%B8nt-spr%C3%A5k-siden-Norge-er-kjent-som-et-land-med-r%C3%B8tter-i-norr%C3%B8nt-spr%C3%A5k)
 * [Norsk språklydlære med øvelser : sammenligninger med engelsk, tysk og fransk | Ingebjørg Skaug | download](https://b-ok.cc/book/858365/e87f42)
 * [Anklagelserna mot TV4-stjärnan Martin Timell | Nöje](https://www.expressen.se/noje/anklagelserna-mot-tv4-stjarnan-martin-timell/)
-* https://www.diva-portal.org/smash/get/diva2:400026/FULLTEXT01.pdf
-* https://www.diva-portal.org/smash/get/diva2:524644/FULLTEXT01.pdf
-* https://www.mah.se/PageFiles/62109/Bildning%20och%20kunskap.pdf
-* http://www.nikk.no/
+* [diva-portal.org/smash/get/diva2:400026/FULLTEXT01.pdf](https://www.diva-portal.org/smash/get/diva2:400026/FULLTEXT01.pdf)
+* [diva-portal.org/smash/get/diva2:524644/FULLTEXT01.pdf](https://www.diva-portal.org/smash/get/diva2:524644/FULLTEXT01.pdf)
+* [mah.se/PageFiles/62109/Bildning%20och%20kunskap.pdf](https://www.mah.se/PageFiles/62109/Bildning%20och%20kunskap.pdf)
+* [nikk.no/](http://www.nikk.no/)
 * - 17
 * [Beowulf - Wikisource, the free online library](https://en.wikisource.org/wiki/Beowulf)
 * [beowulf.pdf](http://www.mit.edu/~jrising/webres/beowulf.pdf)
@@ -5775,7 +5775,7 @@
 * [Altenglish](http://www.gutenberg.org/files/45861/45861-h/45861-h.htm)
 * [Middle English Grammar](http://www.nativlang.com/middle-english/middle-english-grammar.php)
 * [Middle English Pronunciation](http://www.nativlang.com/middle-english/middle-english-pronunciation.php)
-* http://www.tha-engliscan-gesithas.org.uk/
+* [tha-engliscan-gesithas.org.uk/](http://www.tha-engliscan-gesithas.org.uk/)
 * [Leofwin](http://www.tha-engliscan-gesithas.org.uk/education/learn-old-english-with-leofwin)
 * [A Reading from Chaucer’s Canterbury Tales](https://archive.org/details/P_CHA_GEO_01)
 * [The Canterbury Tales](http://www.librarius.com/cantales.htm)
@@ -5783,18 +5783,18 @@
 * - 18
 * [Идиш с Шолом-Алейхемом. Избранные рассказы.](http://library.lol/main/9EF9B74C633A083A1164157EC1B875F8)
 * [Sholem Aleichem Works (Open Library)](https://openlibrary.org/authors/OL144345A/Sholem_Aleichem)
-* http://booknik.ru/today/non-fiction/kak-perestat-boyatsya-ivrita-i-nachat-ego-uchit/
+* [booknik.ru/today/non-fiction/kak-perestat-boyatsya-ivrita-i-nachat-ego-uchit/](http://booknik.ru/today/non-fiction/kak-perestat-boyatsya-ivrita-i-nachat-ego-uchit/)
 * [Yiddish Books](https://b-ok.cc/s/max%20weinreich)
 * [Ecclesiastes 1 Interlinear Bible](http://biblehub.com/interlinear/ecclesiastes/1.htm)
 * [Genesis 1:1 Hebrew Text Analysis](http://bibliaparalela.com/text/genesis/1-1.htm)
-* https://www.bibleinhebrew.com/bih/BiH_demo.php?uid=10
-* https://hebrew4christians.com/Grammar/grammar.html
+* [bibleinhebrew.com/bih/BiH_demo.php?uid=10](https://www.bibleinhebrew.com/bih/BiH_demo.php?uid=10)
+* [hebrew4christians.com/Grammar/grammar.html](https://hebrew4christians.com/Grammar/grammar.html)
 * [Lev Software&#39;s Animated alefbet Page](http://levsoftware.com/alefbet.htm)
-* https://www.blueletterbible.org/
-* http://www.judaismo-iberico.org/interlinear/tanakh/indexpt.html
+* [blueletterbible.org/](https://www.blueletterbible.org/)
+* [judaismo-iberico.org/interlinear/tanakh/indexpt.html](http://www.judaismo-iberico.org/interlinear/tanakh/indexpt.html)
 * [Yiddish and Hebrew Texts](https://www.cs.uky.edu/~raphael/yiddish.html)
 * [Both Greek and Hebrew](http://www.aoal.org/index.html)
-* https://archive.org/details/NTAramaic
+* [archive.org/details/NTAramaic](https://archive.org/details/NTAramaic)
 * [The Aramaic New Testament | Galilean Aramaic in the Context of Early Christianity](http://aramaicnt.org/)
 * Hébreu Biblique.
 * - 19
@@ -5825,16 +5825,16 @@
 
 * [**Coréen Actuel | Apprendre le coréen - Cours gratuits de coréen en ligne](http://www.coreen-actuel.com/)        - [**Cours de Coréen](http://www.cours-coreen.fr/index.php)* - 21
 * [Learn Swahili - Grammar and Vocabulary](http://mylanguages.org/learn_swahili.php)
-* https://wendybelcher.com/african-literature/translated-african-language-novels/
-* https://de1lib.org/s/?languages%5B%5D=swahili
-* https://forum.duolingo.com/comment/43458452/Popular-books-translated-into-Swahilli
-* https://www.bbc.com/swahili
-* https://www.kdrtv.com/kiswahili/
-* https://www.radiookapi.net/journal-swahili/journal-swahili-soir
+* [wendybelcher.com/african-literature/translated-african-language-novels/](https://wendybelcher.com/african-literature/translated-african-language-novels/)
+* [de1lib.org/s/?languages%5B%5D=swahili](https://de1lib.org/s/?languages%5B%5D=swahili)
+* [forum.duolingo.com/comment/43458452/Popular-books-translated-into-Swahilli](https://forum.duolingo.com/comment/43458452/Popular-books-translated-into-Swahilli)
+* [bbc.com/swahili](https://www.bbc.com/swahili)
+* [kdrtv.com/kiswahili/](https://www.kdrtv.com/kiswahili/)
+* [radiookapi.net/journal-swahili/journal-swahili-soir](https://www.radiookapi.net/journal-swahili/journal-swahili-soir)
 * [Les yeux de la ville](http://www.childrenslibrary.org/icdl/BookPreview?bookid=machoya_00460007&route=text&lang=French&msg=&ilang=French)*
 * [Generales](https://de.wikivoyage.org/wiki/Sprachf%C3%BChrer)
 * - 22
-* http://quechua-ayacucho.org/
+* [quechua-ayacucho.org/](http://quechua-ayacucho.org/)
 * - 23
 * [Leer Indonesisch online - E-learning gratis](https://www.loecsen.com/nl/cursussen-indonesisch)
 * [LINE WEBTOON - Global Digital Free Comics Service Platform](http://www.webtoons.com/id)
@@ -5850,54 +5850,54 @@
 * - 26        - [**Esperanto – Esperanto: the international language](http://esperanto.net/en/)
 * [Interlingua (IALA) — Wikipédia](https://fr.wikipedia.org/wiki/Interlingua_%28IALA%29)
 * [Site multilingue pour apprendre la langue internationale espéranto - lernu.net](https://lernu.net/fr)
-* http://www.101languages.net/albanian/most-common-albanian-words/
-* http://ielanguages.com/finnish.html
-* https://www.cs.tut.fi/~jkorpela/finnish-intro.html
-* https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers
-* https://de.wikipedia.org/wiki/Finnische_Sprache#Deklinationstypen
-* https://en.wikipedia.org/wiki/Polish_alphabet
-* http://langopedia.ru/2012/10/04/world_alphabets/
-* http://geo.koltyrin.ru/alfavit.php
+* [101languages.net/albanian/most-common-albanian-words/](http://www.101languages.net/albanian/most-common-albanian-words/)
+* [ielanguages.com/finnish.html](http://ielanguages.com/finnish.html)
+* [cs.tut.fi/~jkorpela/finnish-intro.html](https://www.cs.tut.fi/~jkorpela/finnish-intro.html)
+* [en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers](https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers)
+* [de.wikipedia.org/wiki/Finnische_Sprache#Deklinationstypen](https://de.wikipedia.org/wiki/Finnische_Sprache#Deklinationstypen)
+* [en.wikipedia.org/wiki/Polish_alphabet](https://en.wikipedia.org/wiki/Polish_alphabet)
+* [langopedia.ru/2012/10/04/world_alphabets/](http://langopedia.ru/2012/10/04/world_alphabets/)
+* [geo.koltyrin.ru/alfavit.php](http://geo.koltyrin.ru/alfavit.php)
 * [Esperanto Books](https://b-ok.cc/s/?language=esperanto)
 * Esperanto Books*
 * Audio* - 0
-* https://www.lumenvox.com/tts-demonstration/
+* [lumenvox.com/tts-demonstration/](https://www.lumenvox.com/tts-demonstration/)
 * [Linguae per Carmina](https://docs.google.com/spreadsheets/d/1dPj6PNHYxvdu8o69EnLkLnaHmCzOs4rEncdqlnVm_mE/edit?usp=sharing)
 * [The Little Prince 小王子, 星の王子さま, Hoàng Tử Bé in Chinese, Japanese, Vietnamese Comparing Translations](http://cjvlang.com/petitprince/index.html)
 * [Global Recordings](https://globalrecordings.net/en/resources)
-* https://langmedia.fivecolleges.edu/
+* [langmedia.fivecolleges.edu/](https://langmedia.fivecolleges.edu/)
 * [Bible Films](https://live.bible.is/bible/ENGNIV/MRK/1?audio_type=audio)
-* https://radiolingua.com/category/podcast/
+* [radiolingua.com/category/podcast/](https://radiolingua.com/category/podcast/)
 * [Audio Bible](https://www.faithcomesbyhearing.com/audio-bible-resources/recordings-database)
 * [Audio Lingua](https://www.audio-lingua.eu/?lang=it)
-* https://www.listennotes.com/
-* [Castbox FR](https://castbox.fm/home?utm_campaign=i_share_ep&utm_medium=dlink&utm_source=i_share&country=fr)
-* https://castbox.fm/
-* http://www.catholiceducation.org/es/
-* http://audiovisual.europarl.europa.eu/Overview.aspx?asset=a&type=n&menu=audio
-* http://www.stitcher.com/
-* http://speechpool.net/fr/login?view=registration
-* https://webgate.ec.europa.eu/sr/
+* [listennotes.com/](https://www.listennotes.com/)
+* [Castbox FR](https://castbox.fm/home)
+* [castbox.fm/](https://castbox.fm/)
+* [catholiceducation.org/es/](http://www.catholiceducation.org/es/)
+* [audiovisual.europarl.europa.eu/Overview.aspx?asset=a&type=n&menu=audio](http://audiovisual.europarl.europa.eu/Overview.aspx?asset=a&type=n&menu=audio)
+* [stitcher.com/](http://www.stitcher.com/)
+* [speechpool.net/fr/login?view=registration](http://speechpool.net/fr/login?view=registration)
+* [webgate.ec.europa.eu/sr/](https://webgate.ec.europa.eu/sr/)
 * - 1
-* https://fods12.podbean.com/
+* [fods12.podbean.com/](https://fods12.podbean.com/)
 * [The Daily Stoic](https://castbox.fm/channel/id1399054?country=fr)
 * [Very Bad Wizards](https://castbox.fm/channel/id2120302?country=fr)
 
 
 * [Philosophize This! – Podcast – Podtail](https://podtail.com/es/podcast/philosophize-this/)**        - [How Little We Know – Podcast – Podtail](https://podtail.com/es/podcast/how-little-we-know/)
 * [Aeon Video](https://www.youtube.com/user/aeonmagazine)
-* https://iai.tv/
+* [iai.tv/](https://iai.tv/)
 * [Season 8 Episode 68 - If You Are The One | SBS On Demand](https://www.sbs.com.au/ondemand/video/923034691769/if-you-are-the-one)
-* https://aeon.co/audio
-* https://www.verybadwizards.com/
-* https://fs.blog/knowledge-project/
-* https://www.quantamagazine.org/tag/podcast/
-* http://nautil.us/audio
+* [aeon.co/audio](https://aeon.co/audio)
+* [verybadwizards.com/](https://www.verybadwizards.com/)
+* [fs.blog/knowledge-project/](https://fs.blog/knowledge-project/)
+* [quantamagazine.org/tag/podcast/](https://www.quantamagazine.org/tag/podcast/)
+* [nautil.us/audio](http://nautil.us/audio)
 * [Middle Ground](https://vk.com/wall-66036248_27770)
-* https://www.farnamstreetblog.com/the-knowledge-project/
+* [farnamstreetblog.com/the-knowledge-project/](https://www.farnamstreetblog.com/the-knowledge-project/)
 * [Philosopher's Zone - ABC Radio National (Australian Broadcasting Corporation)](http://www.abc.net.au/radionational/programs/philosopherszone/)
 * <data science podcasts>
-* [Guardian Podcast List](https://www.theguardian.com/tv-and-radio/2016/sep/07/27-podcasts-to-make-you-smarter?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)
+* [Guardian Podcast List](https://www.theguardian.com/tv-and-radio/2016/sep/07/27-podcasts-to-make-you-smarter)
 * [Open Culture O-C](http://www.openculture.com/2008/12/the_oxford-cambridge_podcasts.html)
 * [Best Similar to Waking Up with Sam Harris Podcasts (2018)](https://player.fm/related-to/waking-up-with-sam-harris)
 * [European Podcast Award | HistoCast](https://www.histocast.com/tag/european-podcast-award/)
@@ -5908,11 +5908,11 @@
 * PlayerFM
 * Pod Academy
 * Slate
-* https://podcasts.ox.ac.uk/
+* [podcasts.ox.ac.uk/](https://podcasts.ox.ac.uk/)
 * [Bright Side of Mathematics](https://www.youtube.com/c/brightsideofmaths)
 * [Faktor 2.9](https://www.spreaker.com/show/faktor-2-9)
 * [All In The Mind](https://castbox.fm/channel/id931?country=fr)
-* https://brainsciencepodcast.com/
+* [brainsciencepodcast.com/](https://brainsciencepodcast.com/)
 * [Physics 50 Lctures](https://www.podbean.com/podcast-detail/jxg3y-39dcf/Physics-50-Lectures-@-SJSU-Podcast)
 * Quanta Science Podcast
 * [Simplify (Blinkist Podcast)](https://www.blinkist.com/simplify)
@@ -5947,36 +5947,36 @@
 * Infants on Thrones
 * [Wooden Overcoats](https://www.woodenovercoats.com/listen)
 * [Secular jihadists for a Muslim enlightenment](https://secularjihadists.libsyn.com/)
-* https://freakonomics.com/archive/
+* [freakonomics.com/archive/](https://freakonomics.com/archive/)
 * Guide to Irish Accentsde Facts.
-* http://aschmann.net/AmEng/
-* http://www.howcast.com/videos/500499-how-to-do-an-irish-accent-aka-brogue-accent-training/
-* http://www.open.edu/openlearn/history-the-arts/history/heritage/walk-around-scotland-podcast-series
-* http://www.quickanddirtytips.com/education/grammar/how-to-speak-english-like-the-irish
+* [aschmann.net/AmEng/](http://aschmann.net/AmEng/)
+* [howcast.com/videos/500499-how-to-do-an-irish-accent-aka-brogue-accent-training/](http://www.howcast.com/videos/500499-how-to-do-an-irish-accent-aka-brogue-accent-training/)
+* [open.edu/openlearn/history-the-arts/history/heritage/walk-around-scotland-podcast-series](http://www.open.edu/openlearn/history-the-arts/history/heritage/walk-around-scotland-podcast-series)
+* [quickanddirtytips.com/education/grammar/how-to-speak-english-like-the-irish](http://www.quickanddirtytips.com/education/grammar/how-to-speak-english-like-the-irish)
 * The English Language in 67 Accents & Random Voicesde Truseneye92
 * [English](https://www.youtube.com/watch?v=dABo_DCIdpM&list=PLVWtXi_Jrj_0lYTIMZGkMRnK8u0kbWQFl)
 * [13.7: Cosmos And Culture : NPR](https://www.npr.org/sections/13.7/)
-* [https://skeptoid.com](https://skeptoid.com/)
+* [skeptoid.com](https://skeptoid.com/)
 * [Intellectual Dark Web Podcast - Intellectual Dark Web Podcast | Listen Notes](https://www.listennotes.com/podcasts/intellectual-dark-web-podcast-intellectual-fqrNWuxY-QH/)
 * Surreal Talk
 * [The 34 Best Comedy Podcasts in 2018](https://www.listennotes.com/best-podcasts/133/comedy-podcasts/?display=podcast&region=ua)
 * Explain it to Jamie
 * [Harry Potter and the Sacred Text](http://www.harrypottersacredtext.com/)
-* https://dissectpodcast.com/
-* https://www.samuelthomasdavies.com/best-podcasts/?mc_cid=0da4f2cc05&mc_eid=7bf81991d5
+* [dissectpodcast.com/](https://dissectpodcast.com/)
+* [samuelthomasdavies.com/best-podcasts/?mc_cid=0da4f2cc05&mc_eid=7bf81991d5](https://www.samuelthomasdavies.com/best-podcasts/?mc_cid=0da4f2cc05&mc_eid=7bf81991d5)
 * [Podcast Philosophize This](https://itunes.apple.com/us/podcast/philosophize-this/id659155419?mt=2)
 * [Coding Blocks - Patterns, Architecture, Best Practices, Tips and Tricks for Software](https://castbox.fm/vc/1082096)
 * [Parallel Computer Architecture and Programming](https://castbox.fm/vc/1939522)
 * [The Intelligence](http://www.himalaya.com/en/show/933485?Share_from=App&Influencer_uid=609677&Share_to=Others)
 * [Coding Blocks](https://castbox.fm/vc/381742)
-* https://www.podomatic.com/podcasts/pornocultures
+* [podomatic.com/podcasts/pornocultures](https://www.podomatic.com/podcasts/pornocultures)
 * [Science of Everything Podcast](https://castbox.fm/vc/1333395)
-* https://www.himalaya.com/collection/legendary-interviewers-2572
-* https://www.himalaya.com/books-podcasts/writ-large-1758033
-* https://www.podomatic.com/trending/categories/science
+* [himalaya.com/collection/legendary-interviewers-2572](https://www.himalaya.com/collection/legendary-interviewers-2572)
+* [himalaya.com/books-podcasts/writ-large-1758033](https://www.himalaya.com/books-podcasts/writ-large-1758033)
+* [podomatic.com/trending/categories/science](https://www.podomatic.com/trending/categories/science)
 * Master of Memory
 * [Philosophy? WTF??](https://www.podomatic.com/podcasts/philosophywtf)
-* https://historyofphilosophy.net/
+* [historyofphilosophy.net/](https://historyofphilosophy.net/)
 * [Zero Squared](https://www.podomatic.com/podcasts/dietsoap)
 * [The Political Theory Review](https://www.podomatic.com/podcasts/thepoliticaltheoryreview)
 * Last Born in The Wilderness
@@ -6045,22 +6045,22 @@
 * [Practical AI](https://changelog.com/practicalai)
 * [Manifold](https://manifoldlearning.com/podcasts/)
 * - 2
-* http://myaudiolib.ru/
-* http://arzamas.academy/
+* [myaudiolib.ru/](http://myaudiolib.ru/)
+* [arzamas.academy/](http://arzamas.academy/)
 * [Newочем](https://newochem.podster.fm/)
 * [Newочем](http://newochem.ru/)
 * [Newочём](https://vk.com/newochem)
 * [Арзамас](http://arzamas.academy/)
-* http://russianlectures.ru/
-* https://www.fluentin3months.com/russian-listening-resources/
+* [russianlectures.ru/](http://russianlectures.ru/)
+* [fluentin3months.com/russian-listening-resources/](https://www.fluentin3months.com/russian-listening-resources/)
 * [Подкасты на русском](https://medium.com/movie-handicraft-production/%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D1%8B-%D0%BD%D0%B0-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC-d3038fac8a5)
-* http://o-tv.tv/video.php
-* http://podster.fm/
-* http://rusradio.ru/onlineradio/
-* http://tv-mir.net/
-* http://www.audioknigi-online.com/
-* https://audioknigi.club/
-* https://podfm.ru/
+* [o-tv.tv/video.php](http://o-tv.tv/video.php)
+* [podster.fm/](http://podster.fm/)
+* [rusradio.ru/onlineradio/](http://rusradio.ru/onlineradio/)
+* [tv-mir.net/](http://tv-mir.net/)
+* [audioknigi-online.com/](http://www.audioknigi-online.com/)
+* [audioknigi.club/](https://audioknigi.club/)
+* [podfm.ru/](https://podfm.ru/)
 * [Musica на Русском Радио](https://www.rusradio.ua/)
 * [PodFM](http://podfm.ru/)
 * [Radio Mayak](http://radiomayak.ru/podcasts/)
@@ -6090,8 +6090,8 @@
 * [Философия](https://radiomayak.ru/podcasts/podcast/id/1321/)
 * [Философия](https://radiomayak.ru/podcasts/podcast/id/1321/)
 * [Хочу все знать!](https://radiomayak.ru/podcasts/podcast/id/1761/)
-* https://www.1tv.ru/shows/kvn/vypuski
-* https://www.youtube.com/user/GrazhdaninPoet
+* [1tv.ru/shows/kvn/vypuski](https://www.1tv.ru/shows/kvn/vypuski)
+* [](https://www.youtube.com/user/GrazhdaninPoet)
 * [Russian Podcast](https://russianpodcast.eu/podcasts)
 * [Интервью Вдудь](https://ru.player.fm/series/youtube-1537820)
 * [Как жить — Meduza](https://meduza.io/podcasts/kak-zhit)
@@ -6129,11 +6129,11 @@
 * [ANTROPOGENEZ.RU](http://antropogenez.ru/)
 * Pismo k camomu cebe
 * [Евгений Онегин](https://audioknigi.club/pushkin-as-evgeniy-onegin)
-* [Радио ИСКАТЕЛЬ](https://castbox.fm/channel/id385402?utm_campaign=i_share_ch&utm_medium=dlink&utm_source=i_share&country=fr)
+* [Радио ИСКАТЕЛЬ](https://castbox.fm/channel/id385402)
 * [Newochem](https://vk.com/audios-80512191)
-* https://knife.media/podcast-3/
-* https://vk.com/@itmozg-bazovyi-angliiskii-slovar-dlya-programmista-1
-* https://www.ted.com/talks?language=ru&sort=newest
+* [knife.media/podcast-3/](https://knife.media/podcast-3/)
+* [vk.com/@itmozg-bazovyi-angliiskii-slovar-dlya-programmista-1](https://vk.com/@itmozg-bazovyi-angliiskii-slovar-dlya-programmista-1)
+* [ted.com/talks?language=ru&sort=newest](https://www.ted.com/talks?language=ru&sort=newest)
 * [Культурные люди. Как изменился русский язык?](https://vk.com/podcast-35744422_456245849)
 * [Старый любимый русский рок - YouTube](https://www.youtube.com/watch?v=qD2Q2AJnWTY&t=2131s)
 * [Китайский шпионаж, стриминг игр от Google и впечатления от Венома и Маньяка #98](https://vk.com/podcast-17733403_456239203)
@@ -6154,31 +6154,31 @@
 * [Доброум TV](https://www.youtube.com/channel/UC6Le4-5GVPLYoxw3AWx6x_w)
 * [TPRS Russian – Effortless Russian | Podcast on Spotify](https://open.spotify.com/show/4PDoDuHWSymt2Qi1jTqJZB?si=gfS2S9jBSKSJJ3_eVX_F6g)
 * LS Philosophy | Философия
-* http://ochenporusski.com/
+* [ochenporusski.com/](http://ochenporusski.com/)
 * - 3
-* http://99podcasts.de/
-* http://live.audials.com/de#!podcast
+* [99podcasts.de/](http://99podcasts.de/)
+* [live.audials.com/de#!podcast](http://live.audials.com/de#!podcast)
 * Braincast
 * [10 neue Podcasts, die du dir anhören solltest](https://t3n.de/news/neue-podcast-projekte-625786/)
 * [Das sind die 7 besten Podcasts aus Deutschland - VICE](https://www.vice.com/de/article/wdy4xx/das-sind-die-7-besten-podcasts-aus-deutschland)
 * [Tipps: Die 10 besten Podcasts | Berliner Zeitung - Seite 2](https://www.berliner-zeitung.de/kultur/tipps-die-10-besten-podcasts-26968276-seite2)
 * [Sites for German Audiobooks](https://gradstudyabroad.ru/links/german-audiobooks-10-sites%20%20%20Inviato%20da%20iPhone)
-* https://viertausendhertz.de/podcasts
+* [viertausendhertz.de/podcasts](https://viertausendhertz.de/podcasts)
 * [http://www.ardmediathek.de](http://www.ardmediathek.de/)
-* http://www.podcast.de/podcasts/charts/
-* https://energy.ch/play/sendungen
+* [podcast.de/podcasts/charts/](http://www.podcast.de/podcasts/charts/)
+* [energy.ch/play/sendungen](https://energy.ch/play/sendungen)
 * [podcast.de](http://podcast.de/)
 * [Deutschlandfunk](http://www.deutschlandfunk.de/hoeren.2055.de.html)
 * Deutschlandrdio Kultur
-* https://www.hr-inforadio.de/podcast/index.html
+* [hr-inforadio.de/podcast/index.html](https://www.hr-inforadio.de/podcast/index.html)
 * [Der schwäbische Koch - YouTube](https://www.youtube.com/channel/UCp-Pe7iSbm1F25S6Ecj_7pQ)
 * [Die Welt auf Schwäbisch - Best of "Anne Nill" - Schwaben und Humor - SWR - YouTube](https://www.youtube.com/watch?v=cZvJ8YiQvYM)
 * [Die Welt auf Schwäbisch - Folge 1: Limo oder Spezi? - YouTube](https://www.youtube.com/watch?v=Sx6i-CmMIXA)
-* https://pi-ist-genau-3.de/
+* [pi-ist-genau-3.de/](https://pi-ist-genau-3.de/)
 * [Forschergeist](https://forschergeist.de/)
 * [Narabo - Philosophie im 21. Jahrhundert](https://open.spotify.com/show/4ajFMrD90tVY9nMsRJNbGp?si=WW7N4A9oReGCD6nJ1MIUGg)
 * Sinneswandel
-* [Sagenhaft - Gute Nacht Geschichten für Erwachsene](https://castbox.fm/channel/id2702421?utm_campaign=i_share_ch&utm_medium=dlink&utm_source=i_share&country=fr)
+* [Sagenhaft - Gute Nacht Geschichten für Erwachsene](https://castbox.fm/channel/id2702421)
 * [Kulturstammtisch](https://castbox.fm/channel/id2987875?country=fr)
 * [IT-Berufe-Podcast](https://www.podcast.de/podcast/650834/archiv/)
 * [Antike Griechische Mythologie](https://podtail.com/de/podcast/antike-griechische-mythologie/)
@@ -6216,12 +6216,12 @@
 * [VO Einführung in die Soziologie](http://gams.uni-graz.at/fedora/get/podcast:pug-lv-10w-soziologie/bdef:Podcast/get)
 * [Vorgedacht](https://www.vorgedacht.net/)
 * [Doppelspitze - der FuBball-Podcast](https://meinsportpodcast.de/fussball/doppelspitze/)
-* https://www.deutschlandfunknova.de/
+* [deutschlandfunknova.de/](https://www.deutschlandfunknova.de/)
 * [Echo der Zeit](https://www.srf.ch/play/radio/sendung/echo-der-zeit?id=28549e81-c453-4671-92ad-cb28796d06a8)
 * [Einfach gesund und schlank](https://einfach-gesund-schlank.de/)
 * [Elementarfragen](https://viertausendhertz.de/elementarfragen/)
 * [Ernährungsphilosophie leicht gemacht](https://bastienne-neumann.de/podcast-ernaehrungspsychologie/)
-* https://www.listennotes.com/podcasts/awkward-brunch-erika-ratcliffe-thomas-ewald-k7l2zitqjcH/
+* [listennotes.com/podcasts/awkward-brunch-erika-ratcliffe-thomas-ewald-k7l2zitqjcH/](https://www.listennotes.com/podcasts/awkward-brunch-erika-ratcliffe-thomas-ewald-k7l2zitqjcH/)
 * [Philosophie Podcasts](https://audiothek.philo.at/podcasts)
 * Durchblick Philosophie
 * Philosophie to go
@@ -6247,9 +6247,9 @@
 * Wissenschaftsmagazin SRF
 * [books2grow](https://www.podcast.de/podcast/738531/)
 * ECO
-* [History of Germany Podcast](http://www.podcastnik.com/history-of-germany-podcast?utm_content=buffer7dc0e&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
-* http://www.podcastnik.com/americana-fur-euch
-* https://player.fm/series/trikotaustausch-1681154/
+* [History of Germany Podcast](http://www.podcastnik.com/history-of-germany-podcast)
+* [podcastnik.com/americana-fur-euch](http://www.podcastnik.com/americana-fur-euch)
+* [player.fm/series/trikotaustausch-1681154/](https://player.fm/series/trikotaustausch-1681154/)
 * [Woher weißt du das?](https://podtail.com/podcast/zeit-wissen-podcast/)
 * [Konsumentenmagazin](https://oe1.orf.at/collection/582230)
 * [Federlese - Philosophie-Podcast](http://federlese.com/)
@@ -6261,15 +6261,15 @@
 * Tagesschau
 * [Talkreich Podcast](https://www.podcast.de/podcast/15714/archiv/)
 * Fotografie Stammtisch
-* [Einschlafen mit Wikipedia](https://castbox.fm/channel/id2433423?utm_campaign=i_share_ch&utm_medium=dlink&utm_source=i_share&country=fr)
+* [Einschlafen mit Wikipedia](https://castbox.fm/channel/id2433423)
 * [Gute Podcasts: Diese 8 Podcasts musst du kennen!](https://www.off-the-path.com/de/gute-podcasts/)
 * [HörsaalLeaks (podcast) - Sebastian Luther und Jessica Rodrian | Listen Notes](https://www.listennotes.com/podcasts/h%C3%B6rsaalleaks-sebastian-luther-und-jessica-blhVq5gY4J1/)
-* http://www.domradio.de/
-* http://www.raibz.rai.it/de/index.php
-* https://audiothek.philo.at/podcasts
-* https://metaebene.me/
-* https://podcasts.uni-freiburg.de/philosophie-sprache-literatur/philosophie
-* https://www.diw.de/de/diw_01.c.623820.de/mediathek.html
+* [domradio.de/](http://www.domradio.de/)
+* [raibz.rai.it/de/index.php](http://www.raibz.rai.it/de/index.php)
+* [audiothek.philo.at/podcasts](https://audiothek.philo.at/podcasts)
+* [metaebene.me/](https://metaebene.me/)
+* [podcasts.uni-freiburg.de/philosophie-sprache-literatur/philosophie](https://podcasts.uni-freiburg.de/philosophie-sprache-literatur/philosophie)
+* [diw.de/de/diw_01.c.623820.de/mediathek.html](https://www.diw.de/de/diw_01.c.623820.de/mediathek.html)
 * [Nur für Erwachsene | radioeins](https://www.radioeins.de/)
 * [Nussschale-Podcast](https://www.nussschale-podcast.de/)
 * Sternengeschichten
@@ -6277,7 +6277,7 @@
 * Weltgeschichte - grundlegende historische Fakten (Doku Hörbuch)de Andere Geschichten
 * [WRINT: Wissenschaft (podcast) - Holger Klein | Listen Notes](https://www.listennotes.com/podcasts/wrint-wissenschaft-holger-klein-EyloaPFB1L7/)
 * 2084 Noras Welt von Jostein Gaarder (Hörbuch) Roman - YouTube
-* [Smarter leben - Der Ideen-Podcast](https://castbox.fm/channel/id2394210?utm_campaign=i_share_ch&utm_medium=dlink&utm_source=i_share&country=fr)
+* [Smarter leben - Der Ideen-Podcast](https://castbox.fm/channel/id2394210)
 * [Bücherwurm's Hörbücher](https://www.youtube.com/channel/UCEktCG-gvpMQBXL76Mozk8Q)
 * [Giganto Mattiu - Mumma - YouTube](https://www.youtube.com/watch?v=jJW9I6qMjsI&list=PLsIqMR6rh5PZhz5v_7ubCrXJAyl3cVHLz)
 * [Gags Des Tages Freitag 15.06.2018 - Die Gags Des Tages (podcast)](https://player.fm/series/die-gags-des-tages/gags-des-tages-freitag-15062018)
@@ -6285,18 +6285,18 @@
 * [Suche | radioeins](https://www.radioeins.de/suche/#searchform_q__serdar,,20somuncu___start__0___fromSearchbox)
 
 
-* [Allgemeinbildung Teil 8 Philosophie - YouTube](https://www.youtube.com/watch?v=YDy5Ouq502g)*     - https://weilmeier.de/
-* [Privatchat](https://castbox.fm/channel/id2022942?utm_campaign=i_share_ch&utm_medium=dlink&utm_source=i_share&country=fr)
-* [dont waste, be happy I Nachhaltigkeit ganz einfach leben.](https://castbox.fm/channel/id1377014?utm_campaign=i_share_ch&utm_medium=dlink&utm_source=i_share&country=fr)
+* [](https://weilmeier.de/)
+* [Privatchat](https://castbox.fm/channel/id2022942)
+* [dont waste, be happy I Nachhaltigkeit ganz einfach leben.](https://castbox.fm/channel/id1377014)
 * [Kafi am Freitag](https://castbox.fm/vc/2099638)
-* https://www.ted.com/talks?language=de
+* [ted.com/talks?language=de](https://www.ted.com/talks?language=de)
 * GedankenTanken
 * [zeitsprung](https://castbox.fm/vc/379503)
-* [Wissenschaft auf die Ohren](https://castbox.fm/channel/id101869?utm_campaign=i_share_ch&utm_medium=dlink&utm_source=i_share&country=fr)
+* [Wissenschaft auf die Ohren](https://castbox.fm/channel/id101869)
 * [Déjà-vu Geschichte](https://castbox.fm/channel/id2603158?country=fr)
 * Listennotes Konservatismus
 * [Coding History](https://fyyd.de/podcast/coding-history/0)
-* https://fyyd.de/
+* [fyyd.de/](https://fyyd.de/)
 * [Smarter leben - Der Ideen-Podcast](https://castbox.fm/vc/2394210)
 * [FG072 Verantwortung in der Informatik](https://castbox.fm/vd/190132665)
 * Yoga Vidya Tägliche Inspiration
@@ -6333,11 +6333,11 @@
 * heise Developer
 * taz vorgelesen
 * Historia universalis
-* https://www.mixcloud.com/coldmirror/
-* https://www.radio.ch/podcasts/
+* [mixcloud.com/coldmirror/](https://www.mixcloud.com/coldmirror/)
+* [radio.ch/podcasts/](https://www.radio.ch/podcasts/)
 * [Bibutextebärndütsch](https://xn--ni-fka.ch/vision/category/podcast/)
 * [Nöi.ch](https://xn--ni-fka.ch/)
-* http://gotteskuss.ch/about/uber-mich-2/barndutsch/
+* [gotteskuss.ch/about/uber-mich-2/barndutsch/](http://gotteskuss.ch/about/uber-mich-2/barndutsch/)
 * [Sprachatlas BW](https://escience-center.uni-tuebingen.de/escience/sprachatlas/index.html#8/48.674/8.989)
 * Schweizerdeutsch im Alltag
 * [definitivkreativ](https://www.definitivkreativ.ch/)
@@ -6366,14 +6366,14 @@
 * [Чорний ворон - YouTube](https://www.youtube.com/watch?v=u0Et3egoDSo)**
 * [Радіо НВ](https://castbox.fm/channel/id1310643?country=fr)
 * [Аудіокнига.UA](https://www.youtube.com/channel/UCvzbw6b9EUGs09fBW8dY6lg)
-* https://open.spotify.com/episode/3Yj39o26Iua7pIZ7H55I3O?si=qvoHCHr9T4WBFjVsM30L2A&utm_source=native-share-menu&nd=1
-* https://anchor.fm/uncomment
+* [open.spotify.com/episode/3Yj39o26Iua7pIZ7H55I3O?si=qvoHCHr9T4WBFjVsM30L2A](https://open.spotify.com/episode/3Yj39o26Iua7pIZ7H55I3O?si=qvoHCHr9T4WBFjVsM30L2A)
+* [anchor.fm/uncomment](https://anchor.fm/uncomment)
 * [Віталій Портников. Мої історії](https://anchor.fm/portnikov)
-* https://anchor.fm/volynfoundation
-* https://podbay.fm/p/the-selector-ukrainian-version
-* https://podbay.fm/p/sbs-ukrainian-sbs-ukrayinskoyu-movoyu
+* [anchor.fm/volynfoundation](https://anchor.fm/volynfoundation)
+* [podbay.fm/p/the-selector-ukrainian-version](https://podbay.fm/p/the-selector-ukrainian-version)
+* [podbay.fm/p/sbs-ukrainian-sbs-ukrayinskoyu-movoyu](https://podbay.fm/p/sbs-ukrainian-sbs-ukrayinskoyu-movoyu)
 * [Era](http://eramedia.com.ua/)
-* http://myaudiolib.ru/
+* [myaudiolib.ru/](http://myaudiolib.ru/)
 * [Головна | Українське радіо](http://www.nrcu.gov.ua/)
 * [Канали | Українське радіо](http://www.nrcu.gov.ua/kanaly)
 * Радіо “Промінь”
@@ -6381,7 +6381,7 @@
 * Радіо Свобода
 * [Українське радіо Культура](http://radiokultura.org/)
 * [http://espreso.tv/stream/](http://tv.kpi.ua/)
-* http://podcaster.in.ua/
+* [podcaster.in.ua/](http://podcaster.in.ua/)
 * [Radio Maria](http://tunein.com/radio/Radio-Maria-6969-s131732/)
 * [podcaster.org.ua/](http://podcaster.org.ua/)
 * [Skrypin.ua](http://skrypin.ua/)
@@ -6390,7 +6390,7 @@
 * [[НЕ]Експертно: література](https://castbox.fm/vc/2378223)
 * [Невже Подкаст | Рубрика](https://rubryka.com/ru/category/specialprojects/nevzhepodcast/)
 * [Danylo Yanevsky](https://podtail.com/podcast/danylo-yanevsky/)
-* https://movacast.wordpress.com/
+* [movacast.wordpress.com/](https://movacast.wordpress.com/)
 * [Ukrainian Lessons](https://www.ukrainianlessons.com/)
 * [Аудіокнига.UA](https://www.youtube.com/channel/UCvzbw6b9EUGs09fBW8dY6lg)
 * [Пригодницькі аудіокниги](https://www.youtube.com/channel/UCFJql6uHrkFTEGaEMO0mAEw)
@@ -6427,8 +6427,8 @@
 * [Обережно: ДІТИ!](https://castbox.fm/vc/2115339)
 * [Grandma's Smuzi](https://www.youtube.com/channel/UCOcf85PCp_P55AnAxnX7OUA) (UK)
 * [Буде тобі наука](https://castbox.fm/vc/2209112)
-* https://www.ted.com/talks?language=uk&sort=newest
-* https://krytyka.com/ua/solutions/podcasts/video/dyskusiya-ukrayinski-intelektualy-y-mnozhynna-identychnist-ch11
+* [ted.com/talks?language=uk&sort=newest](https://www.ted.com/talks?language=uk&sort=newest)
+* [krytyka.com/ua/solutions/podcasts/video/dyskusiya-ukrayinski-intelektualy-y-mnozhynna-identychnist-ch11](https://krytyka.com/ua/solutions/podcasts/video/dyskusiya-ukrayinski-intelektualy-y-mnozhynna-identychnist-ch11)
 * [HP3 UK](https://www.youtube.com/watch?v=zY7MKWHhURo)
 * [Слуханка для української малечі. Казки (Аудіокнига) - YouTube](https://www.youtube.com/watch?v=bj4P4FGOKSU)
 * Сексуальний подкаст
@@ -6436,11 +6436,11 @@
 * [Океан Ельзи - Етюд](https://www.youtube.com/watch?v=AqwmV0RmKgU&list=PLVWtXi_Jrj_107IGfxlFXnWNHz-vhPGm6&index=13)
 * [ТНМК - Восени (480р)](https://www.youtube.com/watch?v=61zrPzcNMgI&list=PLVWtXi_Jrj_107IGfxlFXnWNHz-vhPGm6&index=8)
 * - 5
-* https://theconversation.com/fr/topics/podcasts-37406
+* [theconversation.com/fr/topics/podcasts-37406](https://theconversation.com/fr/topics/podcasts-37406)
 * 100% foot anglais
 * [Actu Foot](https://www.youtube.com/channel/UC83d2OKjumc4ypLqHrA5qKQ)
 * Contre-histoire de la philosophie
-* https://www.maxisciences.com/podcast/chaque-jour-ne-manquez-plus-aucune-actualite-scientifique-grace-au-podcast-de-maxisciences_art40566.html
+* [maxisciences.com/podcast/chaque-jour-ne-manquez-plus-aucune-actualite-scientifique-grace-au-podcast-de-maxisciences_art40566.html](https://www.maxisciences.com/podcast/chaque-jour-ne-manquez-plus-aucune-actualite-scientifique-grace-au-podcast-de-maxisciences_art40566.html)
 * [10 Killer French Bands That Will Sharpen Your Listening Skills](https://www.fluentu.com/blog/french/french-listening/)
 * [Dossier : sélection des blogs musicaux français à suivre - Elise (news)](http://elise.news/2014/01/selection-des-meilleurs-blogs-musique-france-top/)
 * [Podcasts recommandés – Podtail](https://podtail.com/fr/podcasts/)
@@ -6448,8 +6448,8 @@
 * [Quels sont les meilleurs podcasts en français? : france](https://www.reddit.com/r/france/comments/5z32yr/quels_sont_les_meilleurs_podcasts_en_fran%C3%A7ais/)
 * [Sélection de podcasts français : se cultiver en travaillant](https://www.loichelias.com/ma-selection-de-podcasts-culturels-ecouter-pendant-le-travail)
 * [Blogs and podcasts](https://www.cecilefabre.com/blogs-and-podcasts.html)
-* https://player.fm/fr/featured/philosophy
-* [List of Transcribed Podcasts in French](https://www.reddit.com/r/French/comments/fk3624/the_big_list_of_transcribed_podcasts_and/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+* [player.fm/fr/featured/philosophy](https://player.fm/fr/featured/philosophy)
+* [List of Transcribed Podcasts in French](https://www.reddit.com/r/French/comments/fk3624/the_big_list_of_transcribed_podcasts_and/)
 * [podcastfrancaisfacile.com](https://vk.com/away.php?to=http%3A%2F%2Fpodcastfrancaisfacile.com&post=-97559775_32819&cc_key=) — тексты, грамматикиа, видео
 * [francaisavecpierre.com](https://vk.com/away.php?to=http%3A%2F%2Ffrancaisavecpierre.com&post=-97559775_32819&cc_key=) — видео, подкаст, выражения, грамматика
 * [chansonsfle.blogspot.ru](https://vk.com/away.php?to=http%3A%2F%2Fchansonsfle.blogspot.ru&post=-97559775_32819&cc_key=) — песни на французском
@@ -6466,14 +6466,14 @@
 * [Castbox](https://castbox.fm/home?country=fr)
 * [FranceCulture](https://www.franceculture.fr/)
 * [FranceInfo](https://www.francetvinfo.fr/)
-* http://direct-radio.fr/recherche/podcast
-* http://www.litteratureaudio.com/
-* https://podcloud.fr/
-* https://podcloud.fr/
-* https://www.listennotes.com/search/?q=de%20philosophie&sort_by_date=0&scope=episode&offset=0&language=Any%20language&len_min=0&ecount_min=0
-* https://www.listennotes.com/search/?q=la%20philosophie&sort_by_date=0&scope=episode&offset=0&language=Any%20language&len_min=0&ecount_min=0
-* https://www.mamatinale.fr/categorie
-* https://www.podcastjournal.net/reader/
+* [direct-radio.fr/recherche/podcast](http://direct-radio.fr/recherche/podcast)
+* [litteratureaudio.com/](http://www.litteratureaudio.com/)
+* [podcloud.fr/](https://podcloud.fr/)
+* [podcloud.fr/](https://podcloud.fr/)
+* [listennotes.com/search/?q=de%20philosophie&sort_by_date=0&scope=episode&offset=0&language=Any%20language&len_min=0&ecount_min=0](https://www.listennotes.com/search/?q=de%20philosophie&sort_by_date=0&scope=episode&offset=0&language=Any%20language&len_min=0&ecount_min=0)
+* [listennotes.com/search/?q=la%20philosophie&sort_by_date=0&scope=episode&offset=0&language=Any%20language&len_min=0&ecount_min=0](https://www.listennotes.com/search/?q=la%20philosophie&sort_by_date=0&scope=episode&offset=0&language=Any%20language&len_min=0&ecount_min=0)
+* [mamatinale.fr/categorie](https://www.mamatinale.fr/categorie)
+* [podcastjournal.net/reader/](https://www.podcastjournal.net/reader/)
 * [Les podcasts de Slate.fr - Histoires à écouter en podcast](http://www.slate.fr/podcasts/)
 * [Podcast Journal](https://www.podcastjournal.net/search/?tagsearch=france)
 * [Podcasts d'Europe 1 : culture, économie, info, humour et politique Europe 1](http://www.europe1.fr/podcasts)
@@ -6485,12 +6485,12 @@
 * [Axiome](https://podtail.com/podcast/axiome/)
 * [Big 5 (l'équipe)](https://www.lequipe.fr/General/Podcast/Podcast-big-5/)
 * [Le Flow](https://podcloud.fr/podcast/mxl-show)
-* [Les Racines du présent](https://castbox.fm/channel/id1086244?utm_campaign=i_share_ch&utm_medium=dlink&utm_source=i_share&country=fr)
-* [Mythes et Légendes](https://castbox.fm/channel/id2504462?utm_campaign=i_share_ch&utm_medium=dlink&utm_source=i_share&country=fr)
+* [Les Racines du présent](https://castbox.fm/channel/id1086244)
+* [Mythes et Légendes](https://castbox.fm/channel/id2504462)
 * [Les grands repères](https://www.podparadise.com/Podcast/1049933788)
 * [SCEPTICISME SCIENTIFIQUE](https://www.scepticisme-scientifique.com/)
 * Axiome
-* [Émotions](https://castbox.fm/channel/id2137482?utm_campaign=i_share_ch&utm_medium=dlink&utm_source=i_share&country=fr)
+* [Émotions](https://castbox.fm/channel/id2137482)
 * [Storiavoce](https://castbox.fm/channel/Storiavoce-id1230273?country=fr)
 * [Thinkerview (FR)](https://castbox.fm/channel/Thinkerview-id455782?country=fr)
 * [Septembre (Philo audio FR)](https://soundcloud.com/septembreaudio/sets)
@@ -6500,8 +6500,8 @@
 * [Centre de Recherches d'Histoire d'Idées](https://www.listennotes.com/podcasts/centre-de-recherches-dhistoire-des-id%C3%A9es-4eFAnZbMSWR/)
 * [Choses à savoir](https://www.chosesasavoir.com/)
 * [Collège de France](https://podcloud.fr/search?q=Coll%C3%A8ge+de+France)
-* http://www.audiocite.net/livres-audio-gratuits-romans/victor-hugo-notre-dame-de-paris.html
-* http://www.laviedesidees.fr/+-Podcasts-+.html
+* [audiocite.net/livres-audio-gratuits-romans/victor-hugo-notre-dame-de-paris.html](http://www.audiocite.net/livres-audio-gratuits-romans/victor-hugo-notre-dame-de-paris.html)
+* [laviedesidees.fr/+-Podcasts-+.html](http://www.laviedesidees.fr/+-Podcasts-+.html)
 * [L'actu des idées](https://podcloud.fr/podcast/lactu-des-idees)
 * [L'actualité des sciences](https://podcloud.fr/podcast/lactualite-des-sciences-par-futura-sciences)
 * [La fabrique de l'histoire (Le cours de l'histoire)](https://podcloud.fr/podcast/la-fabrique-de-lhistoire)
@@ -6540,46 +6540,46 @@
 * [Audiobook : Harry Potter et le Prince de Sang-Mêlé - Chapitre 01 L'autre ministre - YouTube](https://www.youtube.com/watch?v=9pT_5pePENo&list=PLXSlPM0g87u-MMwl-sZ5zNwwrus1KbWhx)
 * [Audiobook : Harry Potter et les Reliques de la Mort - Chapitre 01 L’Ascension du Seigneur - YouTube](https://www.youtube.com/watch?v=rntggSicA9s&list=PLXSlPM0g87u8lfztpGPmATtCEcuqdB7Nf)
 * [Etats-Unis - France Culture](https://www.franceculture.fr/theme/etats-unis)
-* http://www.francemusique.fr/emissions
-* http://www.frenchpodcasts.net/french-language-podcasts/les-cast-codeurs-podcast/
-* http://www.podcastgarden.com/podcast/mythologie
-* https://www.lingoda.es/blog/recursos-frances-lectura-escucha
+* [francemusique.fr/emissions](http://www.francemusique.fr/emissions)
+* [frenchpodcasts.net/french-language-podcasts/les-cast-codeurs-podcast/](http://www.frenchpodcasts.net/french-language-podcasts/les-cast-codeurs-podcast/)
+* [podcastgarden.com/podcast/mythologie](http://www.podcastgarden.com/podcast/mythologie)
+* [lingoda.es/blog/recursos-frances-lectura-escucha](https://www.lingoda.es/blog/recursos-frances-lectura-escucha)
 * [La marche de l'histoire](https://castbox.fm/vc/3627)
 * [Les Chemins de la connaissance : podcast et réécoute sur France Culture](https://www.franceculture.fr/emissions/les-chemins-de-la-philosophie/saison-29-08-2005-23-07-2006)
 * [To French speaking learners: a new edition of "Les kanjis dans la tête", the French version of RTK, has been released in November](https://www.reddit.com/r/LearnJapanese/comments/e6yfc4/to_french_speaking_learners_a_new_edition_of_les/)
 * [AnthroStory - YouTube - YouTube](https://www.youtube.com/channel/UC3_Mqxxv8SONpipOcdXOB0Q)
 * [Kaamelott Livre I - Tome 1 / [ENG SUB] - YouTube](https://www.youtube.com/watch?v=b05Scfhi0dU)
 * [CulturesMonde : podcast et réécoute sur France Culture](https://www.franceculture.fr/emissions/culturesmonde)
-* https://labodessavoirs.fr/emissions-du-labo/
-* https://www.podcastscience.fm/
-* http://www.lafrenchradio.com/podcasts-1
+* [labodessavoirs.fr/emissions-du-labo/](https://labodessavoirs.fr/emissions-du-labo/)
+* [podcastscience.fm/](https://www.podcastscience.fm/)
+* [lafrenchradio.com/podcasts-1](http://www.lafrenchradio.com/podcasts-1)
 * [// La suite dans les idées](http://media.radiofrance-podcast.net/podcast09/16260-29.09.2018-ITEMA_21829949-0.mp3)
-* https://castbox.fm/episode/Leonardo%2C-le-parfait-humaniste-id1230273-id73528561?country=fr
-* https://castbox.fm/episode/Pourquoi-trinque-t-on-%3F-id2697-id70579884?country=fr
+* [castbox.fm/episode/Leonardo%2C-le-parfait-humaniste-id1230273-id73528561?country=fr](https://castbox.fm/episode/Leonardo%2C-le-parfait-humaniste-id1230273-id73528561?country=fr)
+* [castbox.fm/episode/Pourquoi-trinque-t-on-%3F-id2697-id70579884?country=fr](https://castbox.fm/episode/Pourquoi-trinque-t-on-%3F-id2697-id70579884?country=fr)
 * [Dev-Mania](https://www.listennotes.com/podcasts/dev-mania-lo%C3%AFc-perdrieau-Fsz-1Y_dOJi/)
 * Science en questions
-* https://open.spotify.com/episode/4kDoXPbu7L148PCr1wOntP?si=q_VjCvRTSbGN6HWlENFqxw&context=spotify%3Ashow%3A0dk09cWwEIY94OdAKuXQ1B&nd=1
-* https://open.spotify.com/episode/1NFmmSAtdLQscYTrS4PX9o?si=l0Tl7XriTd-6ZdaFHMjVCA&nd=1
+* [open.spotify.com/episode/4kDoXPbu7L148PCr1wOntP?si=q_VjCvRTSbGN6HWlENFqxw&context=spotify%3Ashow%3A0dk09cWwEIY94OdAKuXQ1B&nd=1](https://open.spotify.com/episode/4kDoXPbu7L148PCr1wOntP?si=q_VjCvRTSbGN6HWlENFqxw&context=spotify%3Ashow%3A0dk09cWwEIY94OdAKuXQ1B&nd=1)
+* [open.spotify.com/episode/1NFmmSAtdLQscYTrS4PX9o?si=l0Tl7XriTd-6ZdaFHMjVCA&nd=1](https://open.spotify.com/episode/1NFmmSAtdLQscYTrS4PX9o?si=l0Tl7XriTd-6ZdaFHMjVCA&nd=1)
 * [Duolingo French Podcast](https://castbox.fm/channel/id2155764?country=fr)
 * [Podcast Science](http://www.himalaya.com/en/show/587457?Share_from=App&Influencer_uid=609677&Share_to=Others)
 * [La Sphère](http://www.himalaya.com/en/show/521613?Share_from=App&Influencer_uid=609677&Share_to=Others)
 * [Vie Artificielle](http://www.himalaya.com/en/show/747628?Share_from=App&Influencer_uid=609677&Share_to=Others)
 * [La Grande table](http://www.himalaya.com/en/show/668932?Share_from=App&Influencer_uid=609677&Share_to=Others)
 * [Thinkerview](https://castbox.fm/channel/Thinkerview-id455782?country=fr)
-* https://www.ted.com/talks?language=fr&sort=newest
+* [ted.com/talks?language=fr&sort=newest](https://www.ted.com/talks?language=fr&sort=newest)
 * [Do any of you know good french podcasts?](https://www.reddit.com/r/French/comments/ci2x4g/do_any_of_you_know_good_french_podcasts/)
 * [Popular French podcasts on Spotify](https://www.reddit.com/r/French/comments/afa1nt/popular_french_podcasts_on_spotify/)
 * [Les enfants du bruit et de l'odeur](https://www.podomatic.com/podcasts/lesenfantsdubruitetdelodeur)
 * [histoire vivante](https://castbox.fm/vc/1373946)
-* https://insider-podcast.com/episodes
+* [insider-podcast.com/episodes](https://insider-podcast.com/episodes)
 * Advanced Podcast - French
 * France24
 * Les enjeux internationaux
 * LES CARNETS DE ...
 * LE DEBAT
 * L'ECONOMIE EN QUESTION
-* http://argotpod.free.fr/?pweb=ep
-* https://podcasts.apple.com/us/podcast/savoirs-contre-pauvret%C3%A9/id429664273
+* [argotpod.free.fr/?pweb=ep](http://argotpod.free.fr/?pweb=ep)
+* [podcasts.apple.com/us/podcast/savoirs-contre-pauvret%C3%A9/id429664273](https://podcasts.apple.com/us/podcast/savoirs-contre-pauvret%C3%A9/id429664273)
 * Europe 1 Sport
 * Europe 1 Football Club
 * Football Club Geopolitics
@@ -6595,20 +6595,20 @@
 * - 6
 * [Cómo funcionan las cosas](https://www.ivoox.com/en/podcast-como-funcionan-cosas_sq_f11332188_1.html)
 * [Spanish Brief Dialogues](https://www.123teachme.com/learn_spanish/spanish_dialogues_index)
-* http://cadenaser.com/tag/filosofia/a/
+* [cadenaser.com/tag/filosofia/a/](http://cadenaser.com/tag/filosofia/a/)
 * [El Mundo de Sofía - Jostein Gaarder - Audio Libro](https://www.youtube.com/watch?v=hS6xEt0UMq8&list=PLAeijFuX3alnor6uOi45mBL4zU5VNa2k3)
 * [Noosfera](https://www.listennotes.com/podcasts/noosfera-la-raz%C3%B3n-Hx-ez6nkYF7/)
 * [Comedian Tom Segura just started a new Podcast in Spanish. May be a good resource for those into comedy-podcasts like myself](https://www.reddit.com/r/languagelearning/comments/e5ncek/comedian_tom_segura_just_started_a_new_podcast_in/)
-* http://www.e-spanyol.hu/en/
+* [e-spanyol.hu/en/](http://www.e-spanyol.hu/en/)
 * [Los mejores podcast en español de 2017](https://digitalymas.com/2015/03/mejores-podcast-espanol-2015/)
-* https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=mejores%20podcastes
+* [google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=mejores%20podcastes](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=mejores%20podcastes)
 * [RTVE](http://www.rtve.es/alacarta/rne/)
 * En la esquina del samán
-* https://www.729.es/
+* [729.es/](https://www.729.es/)
 * [BreveCast](https://de.player.fm/series/brevecast)
 * [Filosofía en Serie](https://www.podomatic.com/podcasts/filosofiaenserie)
 * [PODIUM PODCAST](http://www.podiumpodcast.com/)
-* https://proyectotelemaco.com/audios/
+* [proyectotelemaco.com/audios/](https://proyectotelemaco.com/audios/)
 * [Pesquisas Mormonas - Lista de Episodios](http://www.pesquisasmormonas.com/p/lista-de-episodios-1506218159/)
 * [Los acentos del español 7: México en Podcast Los acentos del español. Spanishonline.es en mp3(07/05 a las 11:56:40) 05:25 3092293 - iVoox](https://www.ivoox.com/acentos-del-espanol-7-mexico-audios-mp3_rf_3092293_1.html)
 * [Los acentos del español 8: Venezuela en Podcast Los acentos del español. Spanishonline.es en mp3(24/07 a las 13:37:48) 03:19 3346304 - iVoox](https://www.ivoox.com/acentos-del-espanol-8-venezuela-audios-mp3_rf_3346304_1.html?autoplay=true)
@@ -6634,11 +6634,11 @@
 * Filosofía en Serie
 * [Fútbol es Radio](https://esradio.libertaddigital.com/futbol-es-radio/)
 * [Historias De La Medianoche – Podcast – Podtail](https://podtail.com/es/podcast/historias-de-la-medianoche/)
-* http://www.practicaespanol.com/
-* http://www.spanishpodcast.org/
-* https://player.fm/series/panic-room-podcast
-* https://www.hoyhablamos.com/
-* https://www.notesinspanish.com/
+* [practicaespanol.com/](http://www.practicaespanol.com/)
+* [spanishpodcast.org/](http://www.spanishpodcast.org/)
+* [player.fm/series/panic-room-podcast](https://player.fm/series/panic-room-podcast)
+* [hoyhablamos.com/](https://www.hoyhablamos.com/)
+* [notesinspanish.com/](https://www.notesinspanish.com/)
 * [La casa de la historia](https://www.dianauribe.fm/)
 * [La ContraHistoria – Podcast – Podtail](https://podtail.com/es/podcast/la-contrahistoria/)
 * [La Fonda filosofica (audio)](https://podtail.com/es/podcast/la-fonda-filosofica-audio/)
@@ -6656,7 +6656,7 @@
 * Cinco Continentes
 * Noticias del Mundo
 * [Xadrez Verbal](https://castbox.fm/vc/1090060)
-* https://www.hoyhablamos.com/
+* [hoyhablamos.com/](https://www.hoyhablamos.com/)
 * [Russell audio](https://jornea.blogs.uv.es/bertrand-russell-los-problemas-de-la-filosofia/)
 * [¿Qué fué de ellos?](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xYTY5ZTgwYy9wb2RjYXN0L3Jzcw?sa=X&ved=2ahUKEwid7__MrPjrAhVK0IUKHSm7CfoQ4aUDegQIARAC&hl=ru-DE)
 * [El Pulso del Fútbol](https://caracol.com.co/programa/el_pulso_del_futbol/)
@@ -6673,23 +6673,23 @@
 * Ser en el Mundo
 * Cadena Ser
 * [No Sé Qué Hacemos Aquí – Podcast – Podtail](https://podtail.com/es/podcast/no-se-que-hacemos-aqui/)
-* https://www.ted.com/talks?language=es&sort=newest
+* [ted.com/talks?language=es&sort=newest](https://www.ted.com/talks?language=es&sort=newest)
 * - 7
 * [Cidadão não!](https://castbox.fm/vc/3445014)
 * [Filosofia Pop](https://filosofiapop.com.br/category/podcast/)
 * [Portal Deviante](https://www.listennotes.com/podcasts/portal-deviante-portal-deviante-m2HBYSaICXu/)
 * [35 Best Rock Bands From Brazil | Articles @ Ultimate-Guitar.Com](https://www.ultimate-guitar.com/articles/features/35_best_rock_bands_from_brazil-61885)
-* http://www.maisopiniao.com/40-podcasts-portugueses-mesmo-ouvir/
-* http://www.universidadefalada.com.br/audiolivros-gratis-audio-livro-gratuito.html
-* https://podtail.com/pt-BR/top-podcasts/br/
+* [maisopiniao.com/40-podcasts-portugueses-mesmo-ouvir/](http://www.maisopiniao.com/40-podcasts-portugueses-mesmo-ouvir/)
+* [universidadefalada.com.br/audiolivros-gratis-audio-livro-gratuito.html](http://www.universidadefalada.com.br/audiolivros-gratis-audio-livro-gratuito.html)
+* [podtail.com/pt-BR/top-podcasts/br/](https://podtail.com/pt-BR/top-podcasts/br/)
 * [Melhores podcasts? : portugal](https://www.reddit.com/r/portugal/comments/4p1lod/melhores_podcasts/)
 * [Os Melhores Podcasts em Português de 2018 | André Faria Gomes](http://blog.andrefaria.com/os-melhores-podcasts-em-portugues)
 * [podbr.com](http://podbr.com/)
 * [RTP](https://www.rtp.pt/)
-* http://audioglobo.globo.com/radio-globo/podcasts
-* https://www.rtp.pt/play/podcasts
-* https://www.ted.com/talks?language=pt-br&sort=newest
-* http://www.coerll.utexas.edu/brazilpod/tafalado/
+* [audioglobo.globo.com/radio-globo/podcasts](http://audioglobo.globo.com/radio-globo/podcasts)
+* [rtp.pt/play/podcasts](https://www.rtp.pt/play/podcasts)
+* [ted.com/talks?language=pt-br&sort=newest](https://www.ted.com/talks?language=pt-br&sort=newest)
+* [coerll.utexas.edu/brazilpod/tafalado/](http://www.coerll.utexas.edu/brazilpod/tafalado/)
 * [Imposturas filosóficas](https://razaoinadequada.com/mais/imposturas-filosoficas/)
 * [Língua da Gente](https://linguadagente.coerll.utexas.edu/)
 * [Não obstante](http://www.naoobstante.com.br/podcast/)
@@ -6698,12 +6698,12 @@
 * [CogCast](https://www.listennotes.com/podcasts/cogcast-cogcast-thiago-gounford-mariano-Ys-WSvP9Qh8/)
 * [Faz Bem | Mundo Podcast](https://mundopodcast.com.br/fazbem/)
 * [Fronteiras da Ciência](http://www.ufrgs.br/frontdaciencia/)
-* http://filosofiapop.com.br/category/podcast/
-* http://peladananet.com.br/
-* http://trivela.uol.com.br/tag/podcast-trivela/
+* [filosofiapop.com.br/category/podcast/](http://filosofiapop.com.br/category/podcast/)
+* [peladananet.com.br/](http://peladananet.com.br/)
+* [trivela.uol.com.br/tag/podcast-trivela/](http://trivela.uol.com.br/tag/podcast-trivela/)
 * [Novo Tempo - Vida e Saúde](https://www.novotempo.com/programa/vidaesaude/)
 * [Xadrez verbal](https://xadrezverbal.com/category/audio/)
-* [23 Classic Brazilian Songs You Need To Listen To Right Now](https://www.buzzfeed.com/gabrielakruschewsky/23-classic-brazilian-songs-you-need-to-listen-to-right-now?utm_term=.fanLObv3E#.jwpmgkXqY)
+* [23 Classic Brazilian Songs You Need To Listen To Right Now](https://www.buzzfeed.com/gabrielakruschewsky/23-classic-brazilian-songs-you-need-to-listen-to-right-now)
 * 635 - De onde surgiu Bolsonaro?
 * [O Livro da Semana | 10/06/2018 14:26:00 - Radio Alfa](https://radioalfa.net/podcast/o-livro-da-semana-10-06-2018-142600/)
 * [Podcast Trivela #126: Brasileiros instáveis - Trivela](http://trivela.uol.com.br/podcast-trivela-126-brasileiros-instaveis/)
@@ -6714,21 +6714,21 @@
 * [Filosofia Aplicada](https://www.araliavaldes.com/podcast)
 * Fronteiras Invisiveis do Futebol
 * [Geekonomics](https://geekonomics.com.br/category/podcast/)
-* http://jovemnerd.com.br/categoria/nerdcast/
+* [jovemnerd.com.br/categoria/nerdcast/](http://jovemnerd.com.br/categoria/nerdcast/)
 * Imigrantes da Bola
 * [Com o Humor não se Brinca](https://www.mixcloud.com/CHNSB/)
-* https://radioalfa.net/podcast-archive/
+* [radioalfa.net/podcast-archive/](https://radioalfa.net/podcast-archive/)
 * Contraditório
 * Visão Global
 * A vida de Jesus Cristo
 * TSF Forum
 * V+ Informação
 * [EU NÃO ACREDITO](https://castbox.fm/vc/4477674)
-* https://radioalfa.net/
+* [radioalfa.net/](https://radioalfa.net/)
 * [Harry Potter e o Enigma do Príncipe (Livro 6)
 * [COMPLETO] - YouTube](https://www.youtube.com/playlist?list=PL_zTJNwrQDmmQb6J_QXHuwcJe2LA1gL2I)
-* https://player.fm/podcasts/Artes-E-Cultura
-* https://archive.org/details/OHobbitaudiolivroEmPortuguesCaptulo1
+* [player.fm/podcasts/Artes-E-Cultura](https://player.fm/podcasts/Artes-E-Cultura)
+* [archive.org/details/OHobbitaudiolivroEmPortuguesCaptulo1](https://archive.org/details/OHobbitaudiolivroEmPortuguesCaptulo1)
 * [Nerdologia](https://www.youtube.com/channel/UClu474HMt895mVxZdlIHXEA) (PT)
 * [Ciência Todo Dia](https://www.youtube.com/channel/UCn9Erjy00mpnWeLnRqhsA1g) (PT)
 * Teach Yourself Portuguese with Comprehensible Input
@@ -6753,36 +6753,36 @@
 * Podcast a la N
 * Antropocast: navegando pela Antropologia
 * - 8
-* https://www.ted.com/talks?language=it&sort=newest
+* [ted.com/talks?language=it&sort=newest](https://www.ted.com/talks?language=it&sort=newest)
 * [Audiocast](http://www.audiocast.it/)
-* http://www.audiocast.it/podlist
-* http://www.italia.fm/
-* http://www.learnoutloud.com/Podcast-Directory/Languages/Italian
+* [audiocast.it/podlist](http://www.audiocast.it/podlist)
+* [italia.fm/](http://www.italia.fm/)
+* [learnoutloud.com/Podcast-Directory/Languages/Italian](http://www.learnoutloud.com/Podcast-Directory/Languages/Italian)
 * [http://www.radioclassica.fm](http://www.radioclassica.fm/)
-* http://www.raiinternational.rai.it/
-* http://www.raiplay.it/dirette/rainews24
-* https://it.dplay.com/
-* https://www.audiocast.it/
+* [raiinternational.rai.it/](http://www.raiinternational.rai.it/)
+* [raiplay.it/dirette/rainews24](http://www.raiplay.it/dirette/rainews24)
+* [it.dplay.com/](https://it.dplay.com/)
+* [audiocast.it/](https://www.audiocast.it/)
 * [Radio popolare](https://www.radiopopolare.it/podcast)
 * [Radio3](http://www.radio3.rai.it/dl/portaleRadio/Programmi/Page-9edd8afe-b0b4-43fe-b8df-8ad21729e829.html?set=ContentSet-f261b009-5330-41e4-bf30-388b3ccfc92f&type=A)
 * RAI
 * [RSI](http://www.rsi.ch/podcast/)
-* [www.audiocast.it/](http://www.audiocast.it/)
-* [www.podcast.it/](http://www.podcast.it/)
-* http://onlineitalianclub.com/index-of-italian-listening-comprehension-exercises/
+* [audiocast.it/](http://www.audiocast.it/)
+* [podcast.it/](http://www.podcast.it/)
+* [onlineitalianclub.com/index-of-italian-listening-comprehension-exercises/](http://onlineitalianclub.com/index-of-italian-listening-comprehension-exercises/)
 * [Stoicismo Playlist](https://open.spotify.com/playlist/3e33gr34SrZyUVSS0mgyhD?si=aASa3r9bRdmrJjcBjrRUYw)
-* https://filosofarsogood.com/
+* [filosofarsogood.com/](https://filosofarsogood.com/)
 * [italiano naturale](https://italianonaturale.com/feed/podcast)
 * Calcio In Pillole
-* http://www.italianpod101.com/italian-accents/
+* [italianpod101.com/italian-accents/](http://www.italianpod101.com/italian-accents/)
 * [WIKIMUSIC del 01/04/2018 - Scott Joplin](https://castbox.fm/vd/71857076)
 * [Ernesto Cinquenove](https://www.youtube.com/channel/UCVlxY8JUo0h8BGl6aY3EpUg)
 * [C'era una volta il mito, alle otto della sera](https://www.raiplayradio.it/programmi/alleottodellasera/archivio/puntate/)
 * [Fahrenheit](https://www.raiplayradio.it/programmi/fahrenheit/archivio/puntate/)
 * [Historycast - Audiocast.it](https://www.audiocast.it/poddetail?podid=332)
-* http://astronomicast.it/
-* http://quartaradio.it/
-* http://www.learnoutloud.com/Podcast-Directory/Languages/Italian/Lets-Speak-Italian-Podcast/18813
+* [astronomicast.it/](http://astronomicast.it/)
+* [quartaradio.it/](http://quartaradio.it/)
+* [learnoutloud.com/Podcast-Directory/Languages/Italian/Lets-Speak-Italian-Podcast/18813](http://www.learnoutloud.com/Podcast-Directory/Languages/Italian/Lets-Speak-Italian-Podcast/18813)
 * [Italiano Automatico Podcast](http://www.italianoautomatico.com/podcasts/)
 * [Letteratura Latina](https://podtail.com/podcast/letteratura-latina/)
 * [Maxmondo Incontro Italiano](http://m.himalaya.fm/517887/album/584827/6/en)
@@ -6809,16 +6809,16 @@
 * [Focus Economia](http://www.audiocast.it/poddetail?podid=1673)
 * [Un giorno da pecora](https://www.raiplayradio.it/programmi/ungiornodapecora/archivio/puntate)
 * [Giacomo Leopardi: &quot;A SILVIA&quot; - Le Videopoesie di Gianni Caputo - YouTube](https://www.youtube.com/watch?v=yhX1zJahyI4&list=PLxhv5SkuFGXAcCX9LoZG-LmVWyscnHx0g)
-* http://www.radioradicale.it/archivio
+* [radioradicale.it/archivio](http://www.radioradicale.it/archivio)
 * [Storia dell'Italia](https://open.spotify.com/show/3MBCyz1No5Gy7JSP4cuSqw?si=rd0npz-TSaS_wcSkVJO9RQ)
 * [Umberto Eco – La società della rete e i media (2014) - YouTube](https://www.youtube.com/watch?v=sG7e8hryvV0)
 * [Umberto Eco – Perché i classici - YouTube](https://www.youtube.com/watch?v=EJnbpWnMbD0)
 * [umberto eco audiolibro - YouTube](https://www.youtube.com/results?search_query=umberto+eco+audiolibro&sp=EgIYAg%253D%253D)
-* https://www.spreaker.com/user/graziaapisa/il_ritorno_del_piccolo_principe
+* [spreaker.com/user/graziaapisa/il_ritorno_del_piccolo_principe](https://www.spreaker.com/user/graziaapisa/il_ritorno_del_piccolo_principe)
 * [Podcast divulgazione: produrre acqua dall'aria, 5G e chirurgia a distanza, centrali solari spaziali, Rapid DNA, bias ed AI](https://www.reddit.com/r/ScienzaItalia/comments/b7kqli/podcast_divulgazione_produrre_acqua_dallaria_5g_e/)
 * [TUTTA L' UMANITA' NE PARLA - Tribuna politica - Rai-Radio-3 - RaiPlay Radio](https://www.raiplayradio.it/audio/2018/02/TUTTA-Lapos-UMANITAapos-NE-PARLA---Tribuna-politica-b82c49a7-4505-4e21-b739-0cd51310782f.html)
 * Luigi Gaudio
-* https://www.atuttascuola.it/lezioni-video-e-audio-del-prof-gaudio/
+* [atuttascuola.it/lezioni-video-e-audio-del-prof-gaudio/](https://www.atuttascuola.it/lezioni-video-e-audio-del-prof-gaudio/)
 * [Tutta l'umanità ne parla](https://www.raiplayradio.it/audio/2018/02/TUTTA-Lapos-UMANITAapos-NE-PARLA---Tribuna-politica-b82c49a7-4505-4e21-b739-0cd51310782f.html)
 * [IAI Podcast (IT)](https://www.iai.it/it/news/podcast-le-voci-dellattualita-internazionale)
 * [Storia d'Italia](https://open.spotify.com/show/3MBCyz1No5Gy7JSP4cuSqw?si=rd0npz-TSaS_wcSkVJO9RQ)
@@ -6826,45 +6826,45 @@
 * Dhammapada, buddhismo, buddha
 * [Non L'ho Mai Raccontato A Nessuno!| Imparare l'Italiano | Free Podcasts | Podomatic"](https://www.podomatic.com/podcasts/italianoautomatico/episodes/2020-12-21T09_00_00-08_00)
 * [3 Passi Per Imparare Delle Espressioni Italiane | Imparare l'Italiano](https://www.podomatic.com/podcasts/italianoautomatico/episodes/2020-11-11T06_00_00-08_00)
-* https://player.fm/series/rai-podcast-radio1-22641/voci-del-mattino-del-30012017-stati-uniti-europa
-* https://player.fm/podcasts/Notizie-e-Intrattenimento
-* https://www.google.com/search?biw=1597&bih=765&q=podcast+slang+italiano&oq=podcast+slang+italiano&gs_l=serp.3..30i10k1.19854.21138.0.21299.8.8.0.0.0.0.131.730.2j5.7.0....0...1.1.64.serp..1.4.452...0i7i30k1.JubehrIo6c0
-* https://www.podomatic.com/podcasts/italianoautomatico/episodes/2020-12-28T09_00_00-08_00
+* [player.fm/series/rai-podcast-radio1-22641/voci-del-mattino-del-30012017-stati-uniti-europa](https://player.fm/series/rai-podcast-radio1-22641/voci-del-mattino-del-30012017-stati-uniti-europa)
+* [player.fm/podcasts/Notizie-e-Intrattenimento](https://player.fm/podcasts/Notizie-e-Intrattenimento)
+* [google.com/search?biw=1597&bih=765&q=podcast+slang+italiano&oq=podcast+slang+italiano&gs_l=serp.3..30i10k1.19854.21138.0.21299.8.8.0.0.0.0.131.730.2j5.7.0....0...1.1.64.serp..1.4.452...0i7i30k1.JubehrIo6c0](https://www.google.com/search?biw=1597&bih=765&q=podcast+slang+italiano&oq=podcast+slang+italiano&gs_l=serp.3..30i10k1.19854.21138.0.21299.8.8.0.0.0.0.131.730.2j5.7.0....0...1.1.64.serp..1.4.452...0i7i30k1.JubehrIo6c0)
+* [podomatic.com/podcasts/italianoautomatico/episodes/2020-12-28T09_00_00-08_00](https://www.podomatic.com/podcasts/italianoautomatico/episodes/2020-12-28T09_00_00-08_00)
 * Storia d'Italia
 * Storie di geopolitica
 * [NEK. Una parte de mí (full album/álbum completo)](https://www.youtube.com/watch?v=FPu6zcuzlyw&list=PLVWtXi_Jrj_107IGfxlFXnWNHz-vhPGm6&index=10)
 * - 9
 * [LPP](https://www.youtube.com/playlist?list=PL5s047tsk6s4Xfmgi2BJ3kt6keVf5z_0N)
 * [Sciware](https://www.sciwarepod.com/)
-* https://sciwarepod.com/
+* [sciwarepod.com/](https://sciwarepod.com/)
 * [Eib | عيب (podcast)](https://player.fm/series/eib-2010917)
-* http://www.mezzoguild.com/best-arabic-listening-resources/
-* https://welovearabic.wordpress.com/2012/05/27/al-jazeera-arabic-language-podcasts/
+* [mezzoguild.com/best-arabic-listening-resources/](http://www.mezzoguild.com/best-arabic-listening-resources/)
+* [welovearabic.wordpress.com/2012/05/27/al-jazeera-arabic-language-podcasts/](https://welovearabic.wordpress.com/2012/05/27/al-jazeera-arabic-language-podcasts/)
 
 
-* [** https://thelevantongue.com/levantine-arabic/transcript-ahed-interview-palestinian-arabic/](https://thelevantongue.com/levantine-arabic/transcript-ahed-interview-palestinian-arabic/)
+* [** [thelevantongue.com/levantine-arabic/transcript-ahed-interview-palestinian-arabic/](https://thelevantongue.com/levantine-arabic/transcript-ahed-interview-palestinian-arabic/)](https://thelevantongue.com/levantine-arabic/transcript-ahed-interview-palestinian-arabic/](https://thelevantongue.com/levantine-arabic/transcript-ahed-interview-palestinian-arabic/))
 * Al Jazeera
-* http://ar-podcast.com/
-* http://arabic.podhoster.com/
-* https://arabcast.org/
-* http://www.laits.utexas.edu/aswaat/
+* [ar-podcast.com/](http://ar-podcast.com/)
+* [arabic.podhoster.com/](http://arabic.podhoster.com/)
+* [arabcast.org/](https://arabcast.org/)
+* [laits.utexas.edu/aswaat/](http://www.laits.utexas.edu/aswaat/)
 * [LPP](https://arabcast.org/?mod=book&ID=1000)
-* http://langmedia.fivecolleges.edu/lbc-topics/207/183
+* [langmedia.fivecolleges.edu/lbc-topics/207/183](http://langmedia.fivecolleges.edu/lbc-topics/207/183)
 * [الأمير الصغير حلقة رقم 1](https://youtu.be/5F2k77x6lzw)
 * [الأخبار السارة****](http://globalrecordings.net/fr/script/5333)
-* https://langmedia.fivecolleges.edu/arabic
+* [langmedia.fivecolleges.edu/arabic](https://langmedia.fivecolleges.edu/arabic)
 * [Prophet Stories MSA](http://www.prophetstories.net/gospel-of-matthew)
-* http://www.arabicpod.net/learnarabic
-* http://www.ivoox.com/podcast-podcast-aprende-arabe_sq_f1120166_2.html
+* [arabicpod.net/learnarabic](http://www.arabicpod.net/learnarabic)
+* [ivoox.com/podcast-podcast-aprende-arabe_sq_f1120166_2.html](http://www.ivoox.com/podcast-podcast-aprende-arabe_sq_f1120166_2.html)
 * [Survival Phrases Arabic](https://www.learnoutloud.com/Podcast-Directory/Languages/Other-Languages/SurvivalPhrases--Arabic-Podcast/30511)
 * [ArabicPod](https://www.podcast.de/podcast/276297/archiv/)
-* https://po-arabski.ru/dialogi-i-audio/
+* [po-arabski.ru/dialogi-i-audio/](https://po-arabski.ru/dialogi-i-audio/)
 * Le Saint Coran
 * [Коран с переводом на русский язык](https://vk.com/audio?performer=1&q=%D0%9C%D0%B8%D1%88%D0%B0%D1%80%D0%B8%20%D0%B1%D0%B8%D0%BD%20%D0%A0%D0%B0%D1%88%D0%B8%D0%B4%2C%20%D0%AD%D0%BB%D1%8C%D0%BC%D0%B8%D1%80%20%D0%9A%D1%83%D0%BB%D0%B8%D0%B5%D0%B2)
 * COSMO Refugee Radio
 * Der edle Koran
-* https://www.arabicpod101.com/lesson-library/arabic-listening-comprehension-for-beginners/
-* https://lucian.uchicago.edu/blogs/arabiccircle/
+* [arabicpod101.com/lesson-library/arabic-listening-comprehension-for-beginners/](https://www.arabicpod101.com/lesson-library/arabic-listening-comprehension-for-beginners/)
+* [lucian.uchicago.edu/blogs/arabiccircle/](https://lucian.uchicago.edu/blogs/arabiccircle/)
 * [الشريعة والحياة](http://www.aljazeera.net/program/religionandlife)
 * [الأمير الصغير | واحدة من بين أفضل كتب القرن العشرين](https://www.youtube.com/watch?v=jl9m3KdSbkw) في فرنسا | روايات مسموعة
 * [الأمير الصغير .. أنطوان دو سانت .. الجزء](https://www.youtube.com/watch?v=pGuuiT4fvDI) الأول 1/2 .. إقرا بودانك
@@ -6878,24 +6878,24 @@
 * Arabic Pod
 * [коран на русском языке аудиокнига](https://www.youtube.com/playlist?list=PLyCd9d9b1u07qhOZh7XYp9wzwAjyMFYuE)
 * [Coran Audio arabe et français](https://www.youtube.com/playlist?list=PL80B0F73D294B8EE8)
-* https://www.alislam.org/quran/
-* [https://archive.org/details/ArabicTalkingBooks (see YouTube as well)](https://archive.org/details/ArabicTalkingBooks)
-* http://www.arabicpod.net/mobile/learnarabic/lesson/717/You_are_beautiful
-* https://thearabiclearner.com/listen-to-arabic/
+* [alislam.org/quran/](https://www.alislam.org/quran/)
+* [archive.org/details/ArabicTalkingBooks (see YouTube as well)](https://archive.org/details/ArabicTalkingBooks)
+* [arabicpod.net/mobile/learnarabic/lesson/717/You_are_beautiful](http://www.arabicpod.net/mobile/learnarabic/lesson/717/You_are_beautiful)
+* [thearabiclearner.com/listen-to-arabic/](https://thearabiclearner.com/listen-to-arabic/)
 * [sciware ar](https://castbox.fm/vc/4842)
 * lyric Arabic Music Translation: Ana Yalli Bahebak (أنا يللي بحبك) - Nancy Ajram (نانسي عجرم)
 * [MijoBooks](https://www.youtube.com/channel/UCD-pEBnzhURKLAtVW2Slygg)
-* https://www.ted.com/talks?language=ar&sort=newest
+* [ted.com/talks?language=ar&sort=newest](https://www.ted.com/talks?language=ar&sort=newest)
 * Arabic Qahwa (Arabic Literature)
-* https://player.fm/podcasts/arab
-* https://player.fm/featured/learning-arabic
-* [www.podcastarabia.net](http://www.podcastarabia.net/)
-* http://arabicpod.net/
-* https://www.facebook.com/podcastarabia
+* [player.fm/podcasts/arab](https://player.fm/podcasts/arab)
+* [player.fm/featured/learning-arabic](https://player.fm/featured/learning-arabic)
+* [podcastarabia.net](http://www.podcastarabia.net/)
+* [arabicpod.net/](http://arabicpod.net/)
+* [facebook.com/podcastarabia](https://www.facebook.com/podcastarabia)
 * - 9b
 * → [News in Levantine?](https://www.reddit.com/r/learn_arabic/comments/adh1kp/news_in_levantine/)
 * [Levantine Arabic, made easier](https://open.spotify.com/show/07m30MkTlU6FRjZ6UE70rV)
-* https://soundcloud.com/talkinarabic
+* [soundcloud.com/talkinarabic](https://soundcloud.com/talkinarabic)
 * Learn Arabic -Syrian- Levantine colloquial Arabic امثال شعبية- تعلم اللهجة الشامية السورية-
 * [Interesting Facts about Lebanon (podcast)](https://open.spotify.com/episode/4VuhmYenh6kuWtJMfXLUOC?si=8cOSQlvLRKmh0Xqe9SsioQ)
 * [Langmedia Levantine Arabic](http://langmedia.fivecolleges.edu/lbc-topics/207/183)
@@ -6913,24 +6913,24 @@
 * Leb with Leina
 * Alhasan's Arabic Pod
 * - 10
-* <> https://broadcast-live.com/china.html
-* <> https://ttsmp3.com/text-to-speech/Chinese%20Mandarin/
-* <> https://www.learn-chinese.com/chinese-reading-practice/
-* → http://www.fluentu.com/chinese/blog/2015/09/07/chinese-audiobooks/
+* <> [broadcast-live.com/china.html](https://broadcast-live.com/china.html)
+* <> [ttsmp3.com/text-to-speech/Chinese%20Mandarin/](https://ttsmp3.com/text-to-speech/Chinese%20Mandarin/)
+* <> [learn-chinese.com/chinese-reading-practice/](https://www.learn-chinese.com/chinese-reading-practice/)
+* → [fluentu.com/chinese/blog/2015/09/07/chinese-audiobooks/](http://www.fluentu.com/chinese/blog/2015/09/07/chinese-audiobooks/)
 * [CSL Pod](http://cslpod.com/LearnMandarin/Lesson/Latest.aspx)
-* https://langues-asiatiques.com/podcasts-pour-apprendre-le-chinois/
+* [langues-asiatiques.com/podcasts-pour-apprendre-le-chinois/](https://langues-asiatiques.com/podcasts-pour-apprendre-le-chinois/)
 * [Slow Chinese](https://kitchenknif.github.io/SlowChinese/menu/archive.html)
 * [Aprender Chino con Chino Ahora](https://www.ivoox.com/podcast-aprender-chino-chino-ahora_sq_f1179274_1.html)
 * [Audio Chapters from Chinese Book of Mormon](http://www.mandarintools.com/cbom/audiobom/index.html)
 * [ChineseClass101](https://podcasts.apple.com/fr/podcast/learn-chinese-chineseclass101-com/id317130752?mt=2)
-* https://www.bbc.com/zhongwen/simp
-* https://www.bbc.com/zhongwen/trad
+* [bbc.com/zhongwen/simp](https://www.bbc.com/zhongwen/simp)
+* [bbc.com/zhongwen/trad](https://www.bbc.com/zhongwen/trad)
 * [BBC 新闻博客](http://www.bbc.co.uk/podcasts/series/podcastoftheday)
 * [狗熊有话说 (‘BearTalk’)](http://www.beartalking.com/)
 * [锵锵三人行 (‘Behind the Headlines with Wentao’)](http://news.ifeng.com/opinion/phjd/qqsrx/list_0/1.shtml)
 * [開卷八分鐘 (‘Eight Minutes Reading’)](https://www.youtube.com/channel/UCEFzQg3OfTP2GQNtBbbqRMA)
 * [静雅思听 (‘Justing’)](http://www.justing.com.cn/)
-* http://youngloveplay.blogspot.com/
+* [youngloveplay.blogspot.com/](http://youngloveplay.blogspot.com/)
 * [LiZhi](http://www.lizhi.fm/)
 * [China en chino](https://castbox.fm/vc/25226)
 * [arrival podcast zh](https://vk.com/wall-64180366_2796)
@@ -6945,7 +6945,7 @@
 * - 11
 * <> [Dickinson Audio and Text](http://dcc.dickinson.edu/view-audio)
 * <> [Latinitium](https://www.latinitium.com/latin-audio-archive)
-* → http://www.rhapsodes.fll.vt.edu/Latin.htm
+* → [rhapsodes.fll.vt.edu/Latin.htm](http://www.rhapsodes.fll.vt.edu/Latin.htm)
 * → [Listen to: Latin](http://www.rhapsodes.fll.vt.edu/Latin.htm)
 * [Confabulationes](https://vk.com/wall-70079725_28941)
 * [Barnabus et Bella](https://vimeo.com/81824982)
@@ -6956,7 +6956,7 @@
 * [Philologia Perennis](https://www.podomatic.com/podcasts/philologiaperennis)
 * [Quomodo Dicitur?](https://quomododicitur.com/)
 * [Sermones Raedarii](https://www.spreaker.com/show/sermones-raedarii)
-* http://classics.uc.edu/index.php/podcasts
+* [classics.uc.edu/index.php/podcasts](http://classics.uc.edu/index.php/podcasts)
 * [Latin Poetry Podcast](http://blogs.dickinson.edu/latin-poetry-podcast/)
 * [NachhilfeLatein](https://www.youtube.com/c/NachhilfeLatein/playlists)
 * [Nuntii Latini](https://yle.fi/nuntii)
@@ -6977,38 +6977,38 @@
 * [Home Page of Evan Miller](http://www.evanmiller.org/)
 * - 11/12
 * Radio Bremen: Nuntii Latini
-* https://luke-ranieri.myshopify.com/products/gospel-of-john-english-latin-greek-trilingual-audiobook-text
+* [luke-ranieri.myshopify.com/products/gospel-of-john-english-latin-greek-trilingual-audiobook-text](https://luke-ranieri.myshopify.com/products/gospel-of-john-english-latin-greek-trilingual-audiobook-text)
 * [John 09 Luke Ranieri](https://vk.com/wall-70079725_26945)
-* https://vk.com/audio?performer=1&q=Luke Amadeus Ranieri
+* [vk.com/audio?performer=1&q=Luke](https://vk.com/audio?performer=1&q=Luke) Amadeus Ranieri
 * [Исход на трёх языках](https://vk.com/music/playlist/176567696_76749014)
 * [Ranieri Recordings](https://vk.com/search?c%5Bper_page%5D=200&c%5Bq%5D=Luke%20Ranieri&c%5Bqid%5D=5837382033457476160&c%5Bsection%5D=audio)
 * Nuntii Latini
 * [TEXTOS Y AUDIOS EN GRIEGO | Faetonte | Lenguas y cultura grecolatina, textos y audio](https://helenika.wordpress.com/about/1o-de-bachillerato-griego/)
 * [Latine audio - Ἑλληνιστὶ ἀκούω](https://www.facebook.com/Latine-audio-%E1%BC%99%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CF%83%CF%84%E1%BD%B6-%E1%BC%80%CE%BA%CE%BF%CF%8D%CF%89-106559531403731/?__cft__[0]=AZXzrPIJZJk3nEQ6obhyPxHjKua_zjhK_1En60gtTyqf4Z7AwdkUzaPf-hflJDrtkwhIiaxcWAGHWQFuIRpRa7aP2LdoFkhOGg0flTky_skJZwNR2YB0iwg4_9kdPax0Tpgfhn9BsJkxtB_mzV08Wp1RxI7e9fIVVNE_b-0eW3uWf6mXJst6bCkrnxTczkdJrb0Ijy2HbOCBznA5SAKdE4bA4fa_lar4-AHh62YHJhCAjOKJ_HvbEjQccR19gpnbL5E&__tn__=-UC%2CP-y-R)
-* - 12        - [** https://heautonpaideuomenos.blogspot.com/2015/01/blog-post.html](https://heautonpaideuomenos.blogspot.com/2015/01/blog-post.html)**
+* - 12        - [** [heautonpaideuomenos.blogspot.com/2015/01/blog-post.html](https://heautonpaideuomenos.blogspot.com/2015/01/blog-post.html)**](https://heautonpaideuomenos.blogspot.com/2015/01/blog-post.html](https://heautonpaideuomenos.blogspot.com/2015/01/blog-post.html)**)
 * [GRC Reconstructed Podcast](https://open.spotify.com/show/1Mi8qFuBFCcSnf4lPeIb8u?si=Ofltq-drTjujc6HAK4d-RQ)
 * [ὁ διὰ νυκτὸς διάλογος](https://open.spotify.com/show/0JgV3V6FiZF2YqVZhM2Xyu?si=KCXG6VG2TyqfOTbugKz5jA)
 
 
-* [**ΤΑ ΜΑΘΗΜΑΤΑ](http://tamathemata.blogspot.com.es/2008/01/i-8_17.html)**        - [***Відеозаписи ₪ ДРЕВНЕГРЕЧЕСКИЙ ЯЗЫК ₪ ΑΡΧΑΙΑ ΕΛΛΗΝΙΚΗ ΓΛΩΣΣΑ](https://vk.com/videos-2428428)*     - **** https://archive.org/search.php?query=creator%3A%22Ariphron%22
-* http://spiphanies.blogspot.com/2009/03/audio-resources-for-ancient-greek.html
-* http://www.letsreadgreek.com/resources/greekntaudio.htm
-* http://www.loyalbooks.com/language/Ancient_Greek
+* [**ΤΑ ΜΑΘΗΜΑΤΑ](http://tamathemata.blogspot.com.es/2008/01/i-8_17.html)**        - [***Відеозаписи ₪ ДРЕВНЕГРЕЧЕСКИЙ ЯЗЫК ₪ ΑΡΧΑΙΑ ΕΛΛΗΝΙΚΗ ΓΛΩΣΣΑ](https://vk.com/videos-2428428)*     - **** [archive.org/search.php?query=creator%3A%22Ariphron%22](https://archive.org/search.php?query=creator%3A%22Ariphron%22)
+* [spiphanies.blogspot.com/2009/03/audio-resources-for-ancient-greek.html](http://spiphanies.blogspot.com/2009/03/audio-resources-for-ancient-greek.html)
+* [letsreadgreek.com/resources/greekntaudio.htm](http://www.letsreadgreek.com/resources/greekntaudio.htm)
+* [loyalbooks.com/language/Ancient_Greek](http://www.loyalbooks.com/language/Ancient_Greek)
 * [Sine Gratia Sine Auctoritate](https://www.spreaker.com/show/sine-gratia-sine-auctoritate)
 
 
 * [**ΤΑ ΜΑΘΗΜΑΤΑ](http://tamathemata.blogspot.com.es/2009/09/pagina-pedemptim-exstruenda.html)
 * [Aesop, Fables 1-12 (Audiobook in ancient Greek)Podium-Arts.com](https://www.podium-arts.com/1544/aesop-fables-001-012/)
-* http://www.helding.net/greeklatinaudio/greek/
-* http://www.helding.net/greeklatinaudio/latin/
-* https://vimeo.com/aigialos
-* https://www.podium-arts.com/1544/aesop-fables-001-012
+* [helding.net/greeklatinaudio/greek/](http://www.helding.net/greeklatinaudio/greek/)
+* [helding.net/greeklatinaudio/latin/](http://www.helding.net/greeklatinaudio/latin/)
+* [vimeo.com/aigialos](https://vimeo.com/aigialos)
+* [podium-arts.com/1544/aesop-fables-001-012](https://www.podium-arts.com/1544/aesop-fables-001-012)
 * [Homeric Rhapsody: Iliad I](https://open.spotify.com/show/1tEK0n1v6G8HdMcx6PqYZW?si=lVbKNWUxTMmFWb9un6o66A)
 * [ὁ διὰ νυκτὸς διάλογος](https://odianuktosdialogos.podomatic.com/?fbclid=IwAR2xDKZIDbVWLIWDx5A6rrlqvVFXybMpr2rdWDWH5_PFZGjiYu8VeTfAdsY)
 
 
 * [**Odyssey (in Ancient Greek) : Christian Pecaut : Free Download &amp;amp; Streaming : Internet Archive](https://archive.org/details/Odyssey_in_Ancient_Greek)
-* https://www.spreaker.com/show/intercapedines-latinae
+* [spreaker.com/show/intercapedines-latinae](https://www.spreaker.com/show/intercapedines-latinae)
 * [Podcast Dialogos](https://www.podomatic.com/podcasts/odianuktosdialogos)
 * [Polis Institute Jerusalem Near Eastern Languages &amp; Ancient Philology | Polis - Speaking Ancient Greek](http://www.polisjerusalem.org/polis-koine-greek-audios)
 * [Aeneid Book One Audiobook (Classical Latin, Restored Pronunciation)](https://youtu.be/xh0yIwbQFCg)
@@ -7016,8 +7016,8 @@
 * [Ancient Greek - Download Audiobooks &amp; eBooks for iPhone, Android, Kindle and more!](http://www.loyalbooks.com/language/Ancient_Greek)
 * [Ataraxia Alpha - Leandros Corieltauvorum](https://www.youtube.com/channel/UCTus_zNy6YHwxuxY5QR2ccg)
 * [Athenaze Audio](https://www.cornellcollege.edu/classical_studies/ariadne/scripts/index.shtml)
-* https://archive.org/details/platos_dialogues_1306_librivox
-* https://www.wordproject.org/bibles/gk/index.htm
+* [archive.org/details/platos_dialogues_1306_librivox](https://archive.org/details/platos_dialogues_1306_librivox)
+* [wordproject.org/bibles/gk/index.htm](https://www.wordproject.org/bibles/gk/index.htm)
 * [Athenaze (Modern Pronunciation) : Joannes Mercator : Free Download &amp;amp; Streaming : Internet Archive](https://archive.org/details/Athenaze22)
 * [LibriVox](https://librivox.org/search?primary_key=8&search_category=language&search_page=1&search_form=get_results)
 * [Καινὴ Διαθήκη – Πρωτότυπο Κείμενο](https://vk.com/music/playlist/176567696_76749010_6d2e27c7bb2825be12)
@@ -7026,7 +7026,7 @@
 * [Podium-Arts - YouTube](https://www.youtube.com/user/iostrat/videos)
 
 
-* [**Reconstructed Ancient Greek Spoken (Iliad and Euclid) - YouTube](https://www.youtube.com/watch?v=nECdTcqrUAo)        - [**Spoken Ancient Greek online - YouTube](https://www.youtube.com/watch?v=1HiVIWSfzvw)        - [**The Orphic Hymn to Artemis in Ancient Greek - YouTube](https://www.youtube.com/watch?v=sQyRG9fZDDk)
+* [](https://www.youtube.com/watch?v=1HiVIWSfzvw)        - [**The Orphic Hymn to Artemis in Ancient Greek - YouTube](https://www.youtube.com/watch?v=sQyRG9fZDDk)
 * [Aesop's Fable 19 (spoken in reconstructed ancient Greek) - YouTube](https://www.youtube.com/watch?v=VpMGZmtsfHI&list=PLsfJivbqikuGNcbEvJvyGP26phHrOUosa&index=2)
 * [Ancient Greek Accents - YouTube](https://www.youtube.com/watch?v=EWXU78SFQaQ)
 * [HOW ANCIENT GREEK stress-accent ACTUALLY SOUNDED!!! - John 1:1 - YouTube](https://www.youtube.com/watch?v=cU2UyePRphw)
@@ -7034,14 +7034,14 @@
 * [Sappho Hymn to Aphrodite - YouTube](https://www.youtube.com/watch?v=z40rt8D6xAU)
 * [Sappho to Aphrodite, fragm-1, sung in reconstructed ancient Greek - YouTube](https://www.youtube.com/watch?v=XTHE-P4oZ9w)
 * [audio grec - AbeBooks](https://www.abebooks.fr/rechercher-livre/kw/audio-grec/)
-* https://www.mtholyoke.edu/courses/pdebnar/Greek101/audio/
+* [mtholyoke.edu/courses/pdebnar/Greek101/audio/](https://www.mtholyoke.edu/courses/pdebnar/Greek101/audio/)
 * [Le Grec ancien par Assimil | Écoute gratuite sur SoundCloud](https://soundcloud.com/assimil/sets/le-grec-ancien-1)
 * [mythes grecs in podcasts | Listen Notes](https://www.listennotes.com/search/?q=mythes%20grecs&sort_by_date=0&scope=episode&offset=0&language=Any%20language&len_min=0)
 * [mythologie grecque in podcasts | Listen Notes](https://www.listennotes.com/search/?q=mythologie%20grecque&sort_by_date=0&scope=episode&offset=0&language=Any%20language&len_min=0)
 * Recitation of the Iliad in ancient Greek, lines 1-84de Sarpedon
 * Reciting Homer - Iliad book 6de Zabaan Language Institute
 * [solo cd audio greco antico](https://www.assimil.it/catalogo/libro/9614/il-greco-antico-4-cd-audio)
-* https://www.podomatic.com/podcasts/odianuktosdialogos
+* [podomatic.com/podcasts/odianuktosdialogos](https://www.podomatic.com/podcasts/odianuktosdialogos)
 * - 12b
 * [Helene Kemiktsi on Vimeo](https://vimeo.com/user11593007)
 * - 13
@@ -7049,16 +7049,16 @@
 * → [Spisak svih audio knjiga](https://www.facebook.com/notes/mp3book-srbija-audio-knjige/spisak-svih-audio-knjiga/1508312522514797/)
 * → [podkast hrvatski sport - Ecosia](https://www.ecosia.org/search?p=1&q=podkast+hrvatski+sport)
 * [Hrvatska - Najslušanije radio stanice - radiostanica.com](http://www.radiostanica.com/hrvatska/radio-stanice)
-* http://radio.hrt.hr/
-* http://www.hrt.hr/uzivo/
-* http://www.radio-uzivo.com/hrvatska
-* https://librivox.org/search?primary_key=68&search_category=language&search_page=1&search_form=get_results
-* https://podcast.rs/lista/
-* https://tunein.com/radio/Croatia-r100331/
+* [radio.hrt.hr/](http://radio.hrt.hr/)
+* [hrt.hr/uzivo/](http://www.hrt.hr/uzivo/)
+* [radio-uzivo.com/hrvatska](http://www.radio-uzivo.com/hrvatska)
+* [librivox.org/search?primary_key=68&search_category=language&search_page=1&search_form=get_results](https://librivox.org/search?primary_key=68&search_category=language&search_page=1&search_form=get_results)
+* [podcast.rs/lista/](https://podcast.rs/lista/)
+* [tunein.com/radio/Croatia-r100331/](https://tunein.com/radio/Croatia-r100331/)
 * [Podcast - Explora :: Hrvatski radio](http://radio.hrt.hr/podcast/explora/248/)
-* https://librivox.org/price-iz-davnine-by-ivana-brlic-mazuranic/
-* https://www.lektire.hr/price-iz-davnina/
-* http://eurolinguiste.com/get-by-in-croatian/
+* [librivox.org/price-iz-davnine-by-ivana-brlic-mazuranic/](https://librivox.org/price-iz-davnine-by-ivana-brlic-mazuranic/)
+* [lektire.hr/price-iz-davnina/](https://www.lektire.hr/price-iz-davnina/)
+* [eurolinguiste.com/get-by-in-croatian/](http://eurolinguiste.com/get-by-in-croatian/)
 * [Hari Poter i Vatreni pehar](https://youtube.com/watch?v=Aeg2HNfiE_s)
 * [Biblija Novi Zavjet (audio)](https://www.youtube.com/watch?v=FWJ26MjknUM&list=PLEhruWTzIlvZ-FLCeZ46k2D6DieP5Wyp6)
 * [DW](https://www.dw.com/hr/media-centar/s-100912)
@@ -7070,7 +7070,7 @@
 * [Tribina](https://www.facebook.com/Tribina.hr/?_rdc=1&_rdr)
 * [Tribina](https://www.youtube.com/channel/UCjTiZ9ebMJumhPMsciuevxg?sub_confirmation=1)
 * [Audio Bajke za Decu](https://www.youtube.com/channel/UCrruwTTe67zEF0_Ov9udgwQ)
-* http://globalrecordings.net/en/program/A62455
+* [globalrecordings.net/en/program/A62455](http://globalrecordings.net/en/program/A62455)
 * [Kompletne audio knjige i obavezne lektire](https://www.youtube.com/playlist?annotation_id=annotation_3545160625&feature=iv&list=PLsVi8R4Ep7c6bpBdpiOuDO5AC2ll_-Pyl&src_vid=YGGS3ChOsI8)
 * SBS na hrvatskom
 * COSMO Radio Forum
@@ -7080,7 +7080,7 @@
 * [audioknjiga moji pronalasci - Поиск в Google](https://www.google.com/search?source=hp&ei=3SZWW7-0HKix0PEP0JCD-Ao&q=audioknjiga+moji+pronalasci&oq=audioknjiga+moji+pronalasci&gs_l=psy-ab.3..33i160k1l2.774.774.0.946.2.1.0.0.0.0.159.159.0j1.1.0..1..0...1.1.64.psy-ab..1.1.158.0...0.ghhe7HU_OO8)
 * [audioknjiga moji pronalasci tesla - Поиск в Google](https://www.google.com/search?ei=3iZWW92zMoGp8APZqIjICw&q=audioknjiga+moji+pronalasci+tesla&oq=audioknjiga+moji+pronalasci+tesla&gs_l=psy-ab.3...50953.51643.0.51975.6.6.0.0.0.0.258.580.0j2j1.3.0..3..0...1.1.64.psy-ab..3.2.322...33i22i29i30k1.0.JyYjAhtxwsk)
 * [Joanne Kathleen Rowling - Harry Potter i Komnata Tajemnic (audio)](https://vk.com/wall-42002404_81547)
-* https://www.tribina.hr/
+* [tribina.hr/](https://www.tribina.hr/)
 * Za zivljene
 * Drugi Zuti
 * Radio Galaksija
@@ -7094,21 +7094,21 @@
 * [RTS Obrazovno-naučni program - Zvanični kanal](https://youtube.com/user/ObrazovnoNaucniRTS?feature=hovercard)
 * [Žoga je okrogla](https://val202.rtvslo.si/zoga-je-okrogla/)
 * - 14
-* https://open.spotify.com/episode/4cLwiILtHAdwiDbhWHsV9Q?si=y9pvLqs_ROq2fBxDWQBaJQ&nd=1 - Celibacy pod
-* <> https://www.kritischdenken.info/
-* <> http://www.deburen.eu/nl/podcasts-feeds
+* [open.spotify.com/episode/4cLwiILtHAdwiDbhWHsV9Q?si=y9pvLqs_ROq2fBxDWQBaJQ&nd=1](https://open.spotify.com/episode/4cLwiILtHAdwiDbhWHsV9Q?si=y9pvLqs_ROq2fBxDWQBaJQ&nd=1) - Celibacy pod
+* <> [kritischdenken.info/](https://www.kritischdenken.info/)
+* <> [deburen.eu/nl/podcasts-feeds](http://www.deburen.eu/nl/podcasts-feeds)
 * [http://www.nporadio1.nl](http://www.nporadio1.nl/)
-* http://www.nporadio1.nl/podcasts
-* https://www.home-academy.nl/
+* [nporadio1.nl/podcasts](http://www.nporadio1.nl/podcasts)
+* [home-academy.nl/](https://www.home-academy.nl/)
 * Podcast Luisteren (PodNL) - de Beste Nederlandstalige podcasts
 * Praten over Bewustzijn
 * [deBuren](https://podcastluisteren.nl/pod/deBuren)
 * [FC Afkicken](https://art19.com/shows/fc-afkicken)
-* http://librivox.nl/
-* https://podcastluisteren.nl/
+* [librivox.nl/](http://librivox.nl/)
+* [podcastluisteren.nl/](https://podcastluisteren.nl/)
 * Cafe Weltschmerz
-* http://www.kritischdenken.info/podcasts/
-* http://www.lauraspeaksdutch.info/
+* [kritischdenken.info/podcasts/](http://www.kritischdenken.info/podcasts/)
+* [lauraspeaksdutch.info/](http://www.lauraspeaksdutch.info/)
 * Praatscherm
 * Taalblad Radio
 * Kant, en klaar!
@@ -7127,7 +7127,7 @@
 * Nederlands leren met Fatiha
 * Zeg het in Nederlands
 * - 15
-* <> https://audycje.tokfm.pl/audycje-tokfm
+* <> [audycje.tokfm.pl/audycje-tokfm](https://audycje.tokfm.pl/audycje-tokfm)
 * <> [Historia Polski dla Dzieci](https://historiawgdzieci.pl/podkast/lista)
 * Pod Budą
 * [[AUDIOBOOK] Carrol Lewis Alicja w krainie czarów - YouTube](https://www.youtube.com/watch?v=t0TfihggZC0)
@@ -7139,20 +7139,20 @@
 * Nauka XXI wieku
 * Radio D 1 Nauka niemieckiego
 * COSMO Radio Forum
-* [Podkast o nowych książkach](https://castbox.fm/channel/id91525?utm_campaign=i_share_ch&utm_medium=dlink&utm_source=i_share&country=fr)
+* [Podkast o nowych książkach](https://castbox.fm/channel/id91525)
 * [Tulia - YouTube](https://www.youtube.com/channel/UC-6SsxqfmyUjR4jVyOEIf2g)
 * [Jako tako - o Japonii i nie tylko](https://www.podomatic.com/podcasts/jakotako)
 * [Pan Tadeusz + audio](https://vk.com/wall-42002404_76884)
 * [HP3 PL](https://vk.com/wall-143932385_192)
 * - 16a
-* <> [https://lydbok.to](https://lydbok.to/)
+* <> [lydbok.to](https://lydbok.to/)
 * <> [Eventyrstund for de små](https://www.youtube.com/playlist?list=PLkx8SNtI41hFePPEc9SlCWQwysET4BOrL)
 * <> [Learn Norwegian Naturally | Learn Norwegian with NorwegianLearning - Subtitlesde Learn Norwegian Naturally](https://www.youtube.com/channel/UCXCgk1-m-KnuAI2Xmf85wNw)
-* <> https://www.aftenposten.no/podkast
+* <> [aftenposten.no/podkast](https://www.aftenposten.no/podkast)
 * <> [Bibelen JW](https://www.jw.org/no/bibliotek/bibelen/bi12/boker/matteus/2/)
 * <> [Norsklærer Karense](https://www.podomatic.com/podcasts/karense)
 * <> [NRK Radio - Verdibørsen](https://radio.nrk.no/serie/verdiboersen)
-* https://www.ispeech.org/text.to.speech
+* [ispeech.org/text.to.speech](https://www.ispeech.org/text.to.speech)
 * <> [Relax with Slow Norwegian](https://norskmedlene.podbean.com/)
 * [disneymusicnoVEVO](https://www.youtube.com/channel/UCV6PV1RhMDMZ08LPRvQ7F1w)
 * [Top five Norwegian songs sung in Norwegian](https://www.morleycollege.ac.uk/news/98-top-five-norwegian-songs-sung-in-norwegian)
@@ -7200,7 +7200,7 @@
 * Vàli
 * [Norwegian radio stations streaming live on the internet - Listen online](http://www.listenlive.eu/norway.html)
 * [acast](https://www.acast.com/discover)
-* https://norske-dubber.fandom.com/no/wiki/Kategori:Album
+* [norske-dubber.fandom.com/no/wiki/Kategori:Album](https://norske-dubber.fandom.com/no/wiki/Kategori:Album)
 * [Mentaltrener](https://www.listennotes.com/podcasts/mentaltrener-podcasten-frank-nilsen-lAq20mRIgeQ/)
 * [Pimsleur Norwegian](https://player.fm/series/pimsleur-norwegian)
 * [Prat.](https://podtail.com/podcast/prat/)
@@ -7222,7 +7222,7 @@
 * [Ekkokammer by Dagbladet on Apple Podcasts](https://itunes.apple.com/us/podcast/ekkokammer/id1319455479)
 * [Frode Thuen: Leve Sammen av Frode Thuen: Leve Sammen på Apple Podcasts](https://itunes.apple.com/no/podcast/frode-thuen-leve-sammen/id1052466376?l=nb&mt=2)
 * [Podcast Ekko: Ensomhetens filosofi og myter](https://castbox.fm/vd/3488697)
-* https://soundcloud.com/morgenbladet-780386031
+* [soundcloud.com/morgenbladet-780386031](https://soundcloud.com/morgenbladet-780386031)
 * [Tarzan (OST) - Fremmede Som Meg [Strangers Like Me] lyrics + English translation](https://lyricstranslate.com/en/fremmede-som-meg-strangers-me-strangers-me.html)
 * [Norwegian Les Miserables Oslo](https://www.youtube.com/playlist?list=PLGqLcahlp51BZs0-DsTmUaaNIPrdGTWob)
 * Mannspanelet
@@ -7231,7 +7231,7 @@
 * Hvorfor det?
 * Sprâksnakk
 * - 16b
-* <> https://poddtoppen.se/
+* <> [poddtoppen.se/](https://poddtoppen.se/)
 * <> IFN poddradio
 * <> [Internet radio Sverige, lyssna på webbradio FM, radiokanaler](http://www.radio.org.se/)
 * → [Bra podcast - 100 populära podcasts i Sverige](https://brapodcast.se/)
@@ -7240,7 +7240,7 @@
 * Schwedisch Kostenlos
 * [Allsvenska Podden - Aftonbladet Podcast](https://podcast.aftonbladet.se/p/allsvenska-podden/)
 * - 16c
-* [https://podtail.com/podcast/deutschstunde](https://podtail.com/podcast/deutschstunde/related/)
+* [podtail.com/podcast/deutschstunde](https://podtail.com/podcast/deutschstunde/related/)
 * [Filosofikum](https://podtail.com/podcast/filosofikum/)
 * [Fjelles Fodboldfjol | Lytbare podcasts](http://lytbar.dk/wordpress/?cat=12)
 * - 18
@@ -7436,61 +7436,61 @@
 * Multilingual* - General* - Muchos / subtítulos / otros* - Instrucción* - Mejores* - <-* - Misc* - Mixed* - IPA* - Teoria* - Escritura* - Fora* - YouTube* - Lectura* - ex.ua abonnements* - Podcast* - Escucha* - Audiolibros* - Paremiology* - Musica* - Vocab* - Frases y modismos* - Traduccion* - Tools* - Ling* - Videos
 * Parallel* - LPP* - HP* - Daily Stoic* - Why Evolution Is True* - Sapiens* - Kahneman* - Encheiridion* - DVC* - HP and the Methods of Rationality* - Alice in Wonderland* - 7 Habits* - BoM* - Qur’an* - Other
 * Language pairs
-* → see https://docs.google.com/spreadsheets/d/1dzhICu3pdzn8pdR-Q_BeDq3mwBAf3KwPZb-KqY5_Log/edit#gid=999626011
+* → see [docs.google.com/spreadsheets/d/1dzhICu3pdzn8pdR-Q_BeDq3mwBAf3KwPZb-KqY5_Log/edit#gid=999626011](https://docs.google.com/spreadsheets/d/1dzhICu3pdzn8pdR-Q_BeDq3mwBAf3KwPZb-KqY5_Log/edit#gid=999626011)
 * - 1   ✓* - 2   ✓* - 3   ✓* - 3b   ✓* - 4   ✓* - 5   ✓* - 6   ✓* - 7   ✓* - 8   ✓* - 9   ✓* - 10   ✓* - 11   ✓* - 12   ✓* - 13* - 14* - 15* - 15b* - 16* - 16b* - 16c* - 19* - 20* - 21* - 23
 * Check out
-* http://www.fluentin3months.com/free-dictionaries/
-* https://premium.oxforddictionaries.com/us/
-* http://eudict.com/
-* http://littre.reverso.net/dictionnaire-francais/
-* http://www.perseus.tufts.edu/hopper/resolveform?redirect=true
+* [fluentin3months.com/free-dictionaries/](http://www.fluentin3months.com/free-dictionaries/)
+* [premium.oxforddictionaries.com/us/](https://premium.oxforddictionaries.com/us/)
+* [eudict.com/](http://eudict.com/)
+* [littre.reverso.net/dictionnaire-francais/](http://littre.reverso.net/dictionnaire-francais/)
+* [perseus.tufts.edu/hopper/resolveform?redirect=true](http://www.perseus.tufts.edu/hopper/resolveform?redirect=true)
 * Wiktionary
-* http://www.latin-dictionary.org/
-* http://www.dicionarioinformal.com.br/
-* http://www.priberam.pt/dlpo/
-* http://www.tubabel.com/
-* http://lema.rae.es/drae/
-* http://www.spanishdict.com/
-* http://www.spanishdict.com/
+* [latin-dictionary.org/](http://www.latin-dictionary.org/)
+* [dicionarioinformal.com.br/](http://www.dicionarioinformal.com.br/)
+* [priberam.pt/dlpo/](http://www.priberam.pt/dlpo/)
+* [tubabel.com/](http://www.tubabel.com/)
+* [lema.rae.es/drae/](http://lema.rae.es/drae/)
+* [spanishdict.com/](http://www.spanishdict.com/)
+* [spanishdict.com/](http://www.spanishdict.com/)
 * [dwds.de](http://dwds.de/)
-* http://www.mova.info/Page3.aspx?l1=60
-* http://www.mova.info/page.aspx?l1=61
-* https://www.wordnik.com/about
-* http://www.ttmem.com/terminology/download-translation-memory/
-* https://ec.europa.eu/jrc/en/language-technologies/dgt-translation-memory
-* http://eur-lex.europa.eu/homepage.html
-* http://www.freelang.com/
-* http://www.freelang.com/enligne/grec_ancien.php
-* http://www.worldlingo.com/en/products_services/worldlingo_translator.html
-* http://www.lexicool.com/translate.asp
-* http://wooordhunt.ru/
+* [mova.info/Page3.aspx?l1=60](http://www.mova.info/Page3.aspx?l1=60)
+* [mova.info/page.aspx?l1=61](http://www.mova.info/page.aspx?l1=61)
+* [wordnik.com/about](https://www.wordnik.com/about)
+* [ttmem.com/terminology/download-translation-memory/](http://www.ttmem.com/terminology/download-translation-memory/)
+* [ec.europa.eu/jrc/en/language-technologies/dgt-translation-memory](https://ec.europa.eu/jrc/en/language-technologies/dgt-translation-memory)
+* [eur-lex.europa.eu/homepage.html](http://eur-lex.europa.eu/homepage.html)
+* [freelang.com/](http://www.freelang.com/)
+* [freelang.com/enligne/grec_ancien.php](http://www.freelang.com/enligne/grec_ancien.php)
+* [worldlingo.com/en/products_services/worldlingo_translator.html](http://www.worldlingo.com/en/products_services/worldlingo_translator.html)
+* [lexicool.com/translate.asp](http://www.lexicool.com/translate.asp)
+* [wooordhunt.ru/](http://wooordhunt.ru/)
 * [http://wiki.proz.com/wiki/index.php/Publicly_accessible_translation_memories_(TMs)](http://wiki.proz.com/wiki/index.php/Publicly_accessible_translation_memories_(TMs))
-* http://servicios.elpais.com/diccionarios/
-* http://www.freelang.com/dictionnaire/index.php
-* http://www.ets.ru/pg/e/more_pg.htm
-* https://www.freetranslation.com/?_sp=8a1f5c79b1e97770.1476573079942
-* http://www.lexicool.com/
-* http://www.etranslator.ro/uk/
-* http://worterbuch-deutsch.com/
-* http://www.lexicool.com/
-* http://fr.dictionarist.com/
-* http://www.myjmk.com/index.php
-* http://www.online-translator.com/
-* https://translate.yandex.ru/
-* https://translate-coursera.org/
-* http://www.dicionario-aberto.net/
-* http://mymemory.translated.net/
-* http://www.fracademic.com/
-* http://www.wordreference.com/
-* http://www.lingvo-online.ru/ru
-* http://www.dict.com/Home-ge
-* http://es.thefreedictionary.com/
-* http://www.lexilogos.com/index.htm
-* https://translate.google.com/?hl=it
-* https://fr.glosbe.com/
-* http://reference.yourdictionary.com/languages.html
+* [servicios.elpais.com/diccionarios/](http://servicios.elpais.com/diccionarios/)
+* [freelang.com/dictionnaire/index.php](http://www.freelang.com/dictionnaire/index.php)
+* [ets.ru/pg/e/more_pg.htm](http://www.ets.ru/pg/e/more_pg.htm)
+* [freetranslation.com/?_sp=8a1f5c79b1e97770.1476573079942](https://www.freetranslation.com/?_sp=8a1f5c79b1e97770.1476573079942)
+* [lexicool.com/](http://www.lexicool.com/)
+* [etranslator.ro/uk/](http://www.etranslator.ro/uk/)
+* [worterbuch-deutsch.com/](http://worterbuch-deutsch.com/)
+* [lexicool.com/](http://www.lexicool.com/)
+* [fr.dictionarist.com/](http://fr.dictionarist.com/)
+* [myjmk.com/index.php](http://www.myjmk.com/index.php)
+* [online-translator.com/](http://www.online-translator.com/)
+* [translate.yandex.ru/](https://translate.yandex.ru/)
+* [translate-coursera.org/](https://translate-coursera.org/)
+* [dicionario-aberto.net/](http://www.dicionario-aberto.net/)
+* [mymemory.translated.net/](http://mymemory.translated.net/)
+* [fracademic.com/](http://www.fracademic.com/)
+* [wordreference.com/](http://www.wordreference.com/)
+* [lingvo-online.ru/ru](http://www.lingvo-online.ru/ru)
+* [dict.com/Home-ge](http://www.dict.com/Home-ge)
+* [es.thefreedictionary.com/](http://es.thefreedictionary.com/)
+* [lexilogos.com/index.htm](http://www.lexilogos.com/index.htm)
+* [translate.google.com/?hl=it](https://translate.google.com/?hl=it)
+* [fr.glosbe.com/](https://fr.glosbe.com/)
+* [reference.yourdictionary.com/languages.html](http://reference.yourdictionary.com/languages.html)
 * [Classes.ru. Иностранные языки для всех. Словари онлайн.](http://www.classes.ru/)
-* http://dictionaries.brillonline.com/all
-* https://translate.academic.ru/
+* [dictionaries.brillonline.com/all](http://dictionaries.brillonline.com/all)
+* [translate.academic.ru/](https://translate.academic.ru/)
 * [Dictionaries by Subject](https://www.lexicool.com/online-dictionaries-by-subject.asp)
-* http://dictionary.cambridge.org/
+* [dictionary.cambridge.org/](http://dictionary.cambridge.org/)

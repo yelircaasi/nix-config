@@ -1,8 +1,8 @@
 # VSCode
 
-* https://dev.to/thegeoffstevens/vs-code-settings-you-should-customize-5e75
-* https://code.visualstudio.com/docs
-* https://code.visualstudio.com/docs/remote/containers
+* [dev.to/thegeoffstevens/vs-code-settings-you-should-customize-5e75](https://dev.to/thegeoffstevens/vs-code-settings-you-should-customize-5e75)
+* [code.visualstudio.com/docs](https://code.visualstudio.com/docs)
+* [code.visualstudio.com/docs/remote/containers](https://code.visualstudio.com/docs/remote/containers)
 * [VS Code Top 10 Profi-Tipps](https://www.youtube.com/watch?v=eO_IFx6mR4E)
 
 
@@ -18,7 +18,7 @@ vscode [Visual Studio Code Themes](https://code.visualstudio.com/docs/getstarted
 
 vscode [Your First Extension | Visual Studio Code Extension API](https://code.visualstudio.com/api/get-started/your-first-extension)
 
-vscode [https://github.com/microsoft/vscode/issues/181533#issuecomment-1597187136](https://github.com/microsoft/vscode/issues/181533%23issuecomment-1597187136)
+vscode [github.com/microsoft/vscode/issues/181533#issuecomment-1597187136](https://github.com/microsoft/vscode/issues/181533%23issuecomment-1597187136)
 
 vscode [nix-community/nix-vscode-extensions: Nix expressions for VSCode and OpenVSX extensions [maintainers: @deemp, @AmeerTaweel]](https://github.com/nix-community/nix-vscode-extensions)
 
@@ -33,21 +33,21 @@ vscode [nix-community/vscode-nix-ide: Nix language support for VSCode editor [ma
     * [VSCode Tutorial #2 - Settings (Local, Workspace, Sync)](https://www.google.com/url?q=https://youtu.be/rIa2UeMDXIg&sa=D&source=editors&ust=1711377830145756&usg=AOvVaw3xZyxDYJxI5-oIFA9aLdqE)
 * VSCode ExtensionsreStructured TextPython Sphinx HighlighterautodocblocksPython MultiExtension Packauto DocstringAI Python Docstring GeneratorLinter (Nando Vieira) vs TrunkGit HistoryGit Project ManagerXML ToolsShellcheckBash IDE → configure for ZSHShell-formatNumbered BookmarksInstall Markdown All in One (for mathjax support) 
     * [](https://www.google.com/url?q=https://marketplace.visualstudio.com/items?itemName%3Dyzhang.markdown-all-in-one&sa=D&source=editors&ust=1711377830146190&usg=AOvVaw2mYhElK0ztQS1RJh3sbprt)
-    * [https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one](https://www.google.com/url?q=https://marketplace.visualstudio.com/items?itemName%3Dyzhang.markdown-all-in-one&sa=D&source=editors&ust=1711377830146456&usg=AOvVaw2lGzAp4STWrBsbojhFqFRE) 
+    * [marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one](https://www.google.com/url?q=https://marketplace.visualstudio.com/items?itemName%3Dyzhang.markdown-all-in-one&sa=D&source=editors&ust=1711377830146456&usg=AOvVaw2lGzAp4STWrBsbojhFqFRE) 
     * [](https://www.google.com/url?q=https://marketplace.visualstudio.com/items?itemName%3Dgoessner.mdmath&sa=D&source=editors&ust=1711377830146684&usg=AOvVaw3hMNibGP9iaDOFSOR83h9i)
-    * [https://marketplace.visualstudio.com/items?itemName=goessner.mdmath](https://www.google.com/url?q=https://marketplace.visualstudio.com/items?itemName%3Dgoessner.mdmath&sa=D&source=editors&ust=1711377830146906&usg=AOvVaw2SnYOF1L4P5gVv-USOfdSB) 
+    * [marketplace.visualstudio.com/items?itemName=goessner.mdmath](https://www.google.com/url?q=https://marketplace.visualstudio.com/items?itemName%3Dgoessner.mdmath&sa=D&source=editors&ust=1711377830146906&usg=AOvVaw2SnYOF1L4P5gVv-USOfdSB) 
     * [](https://www.google.com/url?q=https://youtu.be/DNf6Bu7z4vw&sa=D&source=editors&ust=1711377830147103&usg=AOvVaw3JuGsDVRCsxs9eddiL-0zs)
     * [Best VSCode extensions in 2023](https://www.google.com/url?q=https://youtu.be/DNf6Bu7z4vw&sa=D&source=editors&ust=1711377830147319&usg=AOvVaw21vGrSRIIN1E1IKLiPJ0QE) 
     * [](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DA2g4IwtAX_I&sa=D&source=editors&ust=1711377830147545&usg=AOvVaw1p9x2M9xnlZ78s15XbIPvY)
     * [Top 10 VSCode Extensions YOU MUST TRY! - YouTube](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DA2g4IwtAX_I&sa=D&source=editors&ust=1711377830147755&usg=AOvVaw23tRYR4QweLvH0EJKTXRqr) Install Live Preview on Betsy (VSCode), also RedHat XML Toolsvscode extensions: rust-analyzer, crates, vscode-pyodide, Jupyter Power Tags, Gather, NeoVim UI Modifier 
     * [](https://www.google.com/url?q=https://marketplace.visualstudio.com/items?itemName%3D076923.python-image-preview&sa=D&source=editors&ust=1711377830148020&usg=AOvVaw2AoDtoBUzpQGeJ18_dDBmP)
-    * [https://marketplace.visualstudio.com/items?itemName=076923.python-image-preview](https://www.google.com/url?q=https://marketplace.visualstudio.com/items?itemName%3D076923.python-image-preview&sa=D&source=editors&ust=1711377830148292&usg=AOvVaw0_hn_57Dsu85SGo8TlNLjx) add Nix Extension Pack 
+    * [marketplace.visualstudio.com/items?itemName=076923.python-image-preview](https://www.google.com/url?q=https://marketplace.visualstudio.com/items?itemName%3D076923.python-image-preview&sa=D&source=editors&ust=1711377830148292&usg=AOvVaw0_hn_57Dsu85SGo8TlNLjx) add Nix Extension Pack 
     * [](https://www.google.com/url?q=https://levelup.gitconnected.com/5-trending-vs-code-extensions-for-productivity-92db5539c5c9&sa=D&source=editors&ust=1711377830148652&usg=AOvVaw1pfXgOD1gZivEFcVVbWObd)
-    * [https://levelup.gitconnected.com/5-trending-vs-code-extensions-for-productivity-92db5539c5c9](https://www.google.com/url?q=https://levelup.gitconnected.com/5-trending-vs-code-extensions-for-productivity-92db5539c5c9&sa=D&source=editors&ust=1711377830148912&usg=AOvVaw2CxZjM7edYUQBYmIRiGSFw) 
+    * [levelup.gitconnected.com/5-trending-vs-code-extensions-for-productivity-92db5539c5c9](https://www.google.com/url?q=https://levelup.gitconnected.com/5-trending-vs-code-extensions-for-productivity-92db5539c5c9&sa=D&source=editors&ust=1711377830148912&usg=AOvVaw2CxZjM7edYUQBYmIRiGSFw) 
     * [](https://www.google.com/url?q=https://github.com/benibenj/vscode-pythonCpp&sa=D&source=editors&ust=1711377830149106&usg=AOvVaw1T1UQ5hqXttoE_j3PkL2zY)
-    * [https://github.com/benibenj/vscode-pythonCpp](https://www.google.com/url?q=https://github.com/benibenj/vscode-pythonCpp&sa=D&source=editors&ust=1711377830149305&usg=AOvVaw1Zf0EnXUULzRZ3QiR9-RqC) 
+    * [github.com/benibenj/vscode-pythonCpp](https://www.google.com/url?q=https://github.com/benibenj/vscode-pythonCpp&sa=D&source=editors&ust=1711377830149305&usg=AOvVaw1Zf0EnXUULzRZ3QiR9-RqC) 
     * [](https://www.google.com/url?q=https://github.com/anas-araid/vscode-infinite-workspace&sa=D&source=editors&ust=1711377830149529&usg=AOvVaw0cZCl_uP-eYv9BneCW-6AL)
-    * [https://github.com/anas-araid/vscode-infinite-workspace](https://www.google.com/url?q=https://github.com/anas-araid/vscode-infinite-workspace&sa=D&source=editors&ust=1711377830149735&usg=AOvVaw2kP06rPyHJRZi-XAy_XyFc)
+    * [github.com/anas-araid/vscode-infinite-workspace](https://www.google.com/url?q=https://github.com/anas-araid/vscode-infinite-workspace&sa=D&source=editors&ust=1711377830149735&usg=AOvVaw2kP06rPyHJRZi-XAy_XyFc)
 * Dev Containers 
     * [](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D61M2takIKl8%26list%3DPLj6YeMhvp2S5G_X6ZyMc8gfXPMFPg3O31&sa=D&source=editors&ust=1711377830150186&usg=AOvVaw0iejLfnErg-WX9R1QjUTlL)
     * [Introduction
@@ -72,7 +72,7 @@ vscode [nix-community/vscode-nix-ide: Nix language support for VSCode editor [ma
     * [](https://www.google.com/url?q=https://youtu.be/s3H6PmB4SZ4&sa=D&source=editors&ust=1711377830154870&usg=AOvVaw3jujzdcM2UQQlaiTV7inYP)
     * [Don't Use the Sidebar in VS Code!!](https://www.google.com/url?q=https://youtu.be/s3H6PmB4SZ4&sa=D&source=editors&ust=1711377830155056&usg=AOvVaw1Yia0E0CbODcjQnfzi0yte) 
     * [](https://www.google.com/url?q=https://www.heise.de/news/Visual-Studio-Code-liefert-konfigurierbare-Dateianzeige-im-Explorer-7370646.html&sa=D&source=editors&ust=1711377830155303&usg=AOvVaw1kKil4OGe2BderSZmVYJ7n)
-    * [https://www.heise.de/news/Visual-Studio-Code-liefert-konfigurierbare-Dateianzeige-im-Explorer-7370646.html](https://www.google.com/url?q=https://www.heise.de/news/Visual-Studio-Code-liefert-konfigurierbare-Dateianzeige-im-Explorer-7370646.html&sa=D&source=editors&ust=1711377830155587&usg=AOvVaw3mfi6Iv6-h2cNCKmPC0BnT) 
+    * [heise.de/news/Visual-Studio-Code-liefert-konfigurierbare-Dateianzeige-im-Explorer-7370646.html](https://www.google.com/url?q=https://www.heise.de/news/Visual-Studio-Code-liefert-konfigurierbare-Dateianzeige-im-Explorer-7370646.html&sa=D&source=editors&ust=1711377830155587&usg=AOvVaw3mfi6Iv6-h2cNCKmPC0BnT) 
     * [](https://www.google.com/url?q=https://code.visualstudio.com/docs/languages/markdown&sa=D&source=editors&ust=1711377830155842&usg=AOvVaw0AMes1ngBeoWCDCD99IJaC)
     * [Markdown editing with Visual Studio Code](https://www.google.com/url?q=https://code.visualstudio.com/docs/languages/markdown&sa=D&source=editors&ust=1711377830156061&usg=AOvVaw3JLBMKZLjBORwjto5yp15H) 
     * [](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DElbGMWA6wA4&sa=D&source=editors&ust=1711377830156252&usg=AOvVaw0dWfeyC0BmYhCGBHHIyatC)
@@ -81,7 +81,7 @@ vscode [nix-community/vscode-nix-ide: Nix language support for VSCode editor [ma
     * [GitHub Codespaces overview - GitHub Docs](https://www.google.com/url?q=https://docs.github.com/en/codespaces/overview&sa=D&source=editors&ust=1711377830156938&usg=AOvVaw1s7kdlnZpLajyn0zDwxwBk)
 * Fixes
     * [Is it possible to have the Integrated Terminal open automatically on start of Visual Studio Code? - Stack Overflow](
-    * [https://stackoverflow.com/questions/45957618/is-it-possible-to-have-the-integrated-terminal-open-automatically-on-start-of-vi#:~:text=You just need to add,to auto-load your terminals.)](https://www.google.com/url?q=https://stackoverflow.com/questions/45957618/is-it-possible-to-have-the-integrated-terminal-open-automatically-on-start-of-vi%23:~:text%3DYou%2520just%2520need%2520to%2520add,to%2520auto%252Dload%2520your%2520terminals.)&sa=D&source=editors&ust=1711377830157447&usg=AOvVaw20njdNobBoZYbQ6g_CZacX) vscode nvim: how to use ctrl + R for redofigure out vscode neovim ctrl keyscheck out asvetliakov.vscode-neovim source code 
+    * [stackoverflow.com/questions/45957618/is-it-possible-to-have-the-integrated-terminal-open-automatically-on-start-of-vi#:~:text=You just need to add,to auto-load your terminals.)](https://www.google.com/url?q=https://stackoverflow.com/questions/45957618/is-it-possible-to-have-the-integrated-terminal-open-automatically-on-start-of-vi%23:~:text%3DYou%2520just%2520need%2520to%2520add,to%2520auto%252Dload%2520your%2520terminals.)&sa=D&source=editors&ust=1711377830157447&usg=AOvVaw20njdNobBoZYbQ6g_CZacX) vscode nvim: how to use ctrl + R for redofigure out vscode neovim ctrl keyscheck out asvetliakov.vscode-neovim source code 
     * [](https://www.google.com/url?q=https://www.google.com/search?q%3Dzsh%2Bterminal%2Bprompt%2Bcolors%2Bnot%2Bworking%2Bin%2BVSCode%26client%3Dubuntu%26hs%3DdlZ%26channel%3Dfs%26sxsrf%3DALiCzsZZCwxgodrFNiqLeJN_GFAwtxkGxA%253A1651735461970%26ei%3DpXtzYqrrOszekgWOnoPADg%26ved%3D0ahUKEwjq0eSL6sf3AhVMr6QKHQ7PAOgQ4dUDCA0%26uact%3D5%26oq%3Dzsh%2Bterminal%2Bprompt%2Bcolors%2Bnot%2Bworking%2Bin%2BVSCode%26gs_lcp%3DCgdnd3Mtd2l6EAMyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEc6BwgAEEcQsANKBAhBGABKBAhGGABQ1QVY1QVg1QZoAXACeACAAQCIAQCSAQCYAQCgAQHIAQjAAQE%26sclient%3Dgws-wiz&sa=D&source=editors&ust=1711377830157993&usg=AOvVaw1z1wdWaVTEF1iTxHfXTIio)
     * [Fix terminal prompt colors in VSCode](https://www.google.com/url?q=https://www.google.com/search?q%3Dzsh%2Bterminal%2Bprompt%2Bcolors%2Bnot%2Bworking%2Bin%2BVSCode%26client%3Dubuntu%26hs%3DdlZ%26channel%3Dfs%26sxsrf%3DALiCzsZZCwxgodrFNiqLeJN_GFAwtxkGxA%253A1651735461970%26ei%3DpXtzYqrrOszekgWOnoPADg%26ved%3D0ahUKEwjq0eSL6sf3AhVMr6QKHQ7PAOgQ4dUDCA0%26uact%3D5%26oq%3Dzsh%2Bterminal%2Bprompt%2Bcolors%2Bnot%2Bworking%2Bin%2BVSCode%26gs_lcp%3DCgdnd3Mtd2l6EAMyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEc6BwgAEEcQsANKBAhBGABKBAhGGABQ1QVY1QVg1QZoAXACeACAAQCIAQCSAQCYAQCgAQHIAQjAAQE%26sclient%3Dgws-wiz&sa=D&source=editors&ust=1711377830158631&usg=AOvVaw2PwcBQaRdf-VefWOjAWcSt) 
     * [](https://www.google.com/url?q=https://code.visualstudio.com/docs/editor/extension-marketplace%23_workspace-recommended-extensions&sa=D&source=editors&ust=1711377830158967&usg=AOvVaw3jNUVyilBCNHAqMSeII-RX)
@@ -91,4 +91,4 @@ vscode [nix-community/vscode-nix-ide: Nix language support for VSCode editor [ma
     * [Introduction to Debugging in Visual Studio Code](https://www.google.com/url?q=https://code.visualstudio.com/docs/introvideos/debugging&sa=D&source=editors&ust=1711377830159819&usg=AOvVaw2JpsSuYuCk5boSDuKunLQc)
 
 
-    * [https://open-vsx.org/](https://www.google.com/url?q=https://open-vsx.org/&sa=D&source=editors&ust=1711377830160092&usg=AOvVaw028uVl8yY66fsYijVl94pc)
+    * [open-vsx.org/](https://www.google.com/url?q=https://open-vsx.org/&sa=D&source=editors&ust=1711377830160092&usg=AOvVaw028uVl8yY66fsYijVl94pc)

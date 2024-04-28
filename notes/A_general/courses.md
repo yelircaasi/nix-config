@@ -38,12 +38,12 @@
 * 🌰 Coursera: Психолингвистика (Psycholinguistics) 
 * 🌰 Coursera: Miracles of Human Language: An Introduction to Linguistics
 * 🌰 Coursera: Линейная алгебра (Linear Algebra) 
-* 🌰 Coursera: [https://www.coursera.org/projects/lenguaje-julia](https://www.coursera.org/projects/lenguaje-julia) 
-* 🌰 Coursera: [https://www.coursera.org/projects/julia-beginners-data-science](https://www.coursera.org/projects/julia-beginners-data-science) 
-* 🌰 Coursera: [https://www.coursera.org/projects/lenguaje-julia](https://www.coursera.org/projects/lenguaje-julia) 
-* 🌰 Coursera: [https://www.coursera.org/projects/linear-regression-julia](https://www.coursera.org/projects/linear-regression-julia) 
-* 🌰 Coursera: [https://www.coursera.org/projects/decision-tree-random-forest-classification-julia](https://www.coursera.org/projects/decision-tree-random-forest-classification-julia) 
-* 🌰 Coursera: [https://www.coursera.org/projects/logistic-regression-classification-julia](https://www.coursera.org/projects/logistic-regression-classification-julia) 
+* 🌰 Coursera: [coursera.org/projects/lenguaje-julia](https://www.coursera.org/projects/lenguaje-julia) 
+* 🌰 Coursera: [coursera.org/projects/julia-beginners-data-science](https://www.coursera.org/projects/julia-beginners-data-science) 
+* 🌰 Coursera: [coursera.org/projects/lenguaje-julia](https://www.coursera.org/projects/lenguaje-julia) 
+* 🌰 Coursera: [coursera.org/projects/linear-regression-julia](https://www.coursera.org/projects/linear-regression-julia) 
+* 🌰 Coursera: [coursera.org/projects/decision-tree-random-forest-classification-julia](https://www.coursera.org/projects/decision-tree-random-forest-classification-julia) 
+* 🌰 Coursera: [coursera.org/projects/logistic-regression-classification-julia](https://www.coursera.org/projects/logistic-regression-classification-julia) 
 * 🌰 Coursera: Aprendiendo a aprender: Poderosas herramientas mentales con las que podrás dominar temas difíciles
 * 🌰 Coursera: Towards language universals through lexical semantics: introduction to lexical and semantic typology
 * 🌰 Coursera: Medical Neuroscience
@@ -82,11 +82,11 @@
 * 🌰 [Getting Started With JuliaAcademy](https://juliaacademy.com/courses/enrolled/689459) 
 * 🌰 [Foundations of Machine Learning](https://juliaacademy.com/courses/enrolled/392870) 
 * 🌰 [Introduction to DataFrames.jl (v1.1.1)](https://juliaacademy.com/courses/enrolled/1237045) 
-* 🌰 [In-memory tabular data in Julia: http://juliadata.github.io/DataFrames.jl/stable/](https://juliaacademy.com/courses/enrolled/1237045) 
+* 🌰 [In-memory tabular data in Julia: [juliadata.github.io/DataFrames.jl/stable/](https://juliaacademy.com/courses/enrolled/1237045)](http://juliadata.github.io/DataFrames.jl/stable/](https://juliaacademy.com/courses/enrolled/1237045)) 
 * 🌰 [Deep Learning with Flux.jl](https://juliaacademy.com/courses/enrolled/526449) 
 * 🌰 [Parallel Computing](https://juliaacademy.com/courses/enrolled/552107) 
 * 🌰 [The world of Machine Learning with Knet](https://juliaacademy.com/courses/enrolled/512903) 
 * 🌰 [Introduction to DataFrames.jl](https://juliaacademy.com/courses/enrolled/913049) 
 * 🌰 [Decision Making Under Uncertainty with POMDPs.jl](https://juliaacademy.com/courses/enrolled/1505381) 
 * 🌰 [How to build and solve decision making problems using the POMDPs.jl ecosystem of packages](https://juliaacademy.com/courses/enrolled/1505381) 
-* 🌰 Other Courses 🌱ProjectsAssembly Language Adventures → buy at [https://www.xorpd.net/pages/x86_adventures.html](https://www.xorpd.net/pages/x86_adventures.html) if I like it
+* 🌰 Other Courses 🌱ProjectsAssembly Language Adventures → buy at [xorpd.net/pages/x86_adventures.html](https://www.xorpd.net/pages/x86_adventures.html) if I like it

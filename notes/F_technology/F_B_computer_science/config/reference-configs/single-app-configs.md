@@ -1,14 +1,14 @@
 # Single-App Configs
 ### ags
-[ags]( https://github.com/search?q=ags+language%3ANix+&type=repositories)
+[ags]( [search?q=ags+language%3ANix+&type=repositories)](https://github.com/search?q=ags+language%3ANix+&type=repositories))
 
 ### eww
-* [eww](https://www.reddit.com/r/unixporn/comments/19cv7wu/oc_custom_nodejs_website_that_displays_the/?share_id=wPog8ryMtWtsYjVXWwDTS&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=10) (see Drive, Betsy)
+* [eww](https://www.reddit.com/r/unixporn/comments/19cv7wu/oc_custom_nodejs_website_that_displays_the/?share_id=wPog8ryMtWtsYjVXWwDTS) (see Drive, Betsy)
 * [DT EWW](https://gitlab.com/dwt1/dotfiles/-/tree/e0277a1031f1493deca9ac8acfebe187d6dc1bf3/.config/eww/bar)
 
 ### Thunar
 * [nix-config/modules/nixos/programs/gui/thunar/default.nix at 2e257e236cc7ccea32578f95423743558058891a · wochap/nix-config](https://github.com/wochap/nix-config/blob/2e257e236cc7ccea32578f95423743558058891a/modules/nixos/programs/gui/thunar/default.nix%23L37)
-* https://github.com/JaKooLit/Hyprland-v2.1/tree/main/config%2FThunar
+* [JaKooLit/Hyprland-v2.1/tree/main/config%2FThunar](https://github.com/JaKooLit/Hyprland-v2.1/tree/main/config%2FThunar)
 
 ### spacemanfm
 spacefm [nixpkgs/nixos/modules/programs/spacefm.nix at 23ae4dfc223d75ed1265f43775f9ba1e76feb517 · obsidiansystems/nixpkgs](https://github.com/obsidiansystems/nixpkgs/blob/23ae4dfc223d75ed1265f43775f9ba1e76feb517/nixos/modules/programs/spacefm.nix%23L21)
@@ -119,7 +119,7 @@ By investigating these areas, you may be able to identify the cause of the race 
   - [xplr config in fennel](https://gitlab.com/Erik.Lundstedt/dotconfigfiles/-/tree/master/.config/xplr)
   - [wezterm config in fennel](https://gitlab.com/fennel-scripts/weztermconfig)
   - [tym config in fennel](https://gitlab.com/Erik.Lundstedt/dotconfigfiles/-/tree/master/.config/tym)
-  - my website and the library i use to build it, all written in fennel https://gitlab.com/my-webstuff
+  - my website and the library i use to build it, all written in fennel [gitlab.com/my-webstuff](https://gitlab.com/my-webstuff)
 ### picom
   - [A Compositor For i3: PiCom ⋅ Plume](https://fediverse.blog/~/Cmm/a-compositor-for-i3-pi-com/)
   - [picom - ArchWiki](https://wiki.archlinux.org/title/picom)
@@ -139,7 +139,7 @@ By investigating these areas, you may be able to identify the cause of the race 
 ### Other
 * [nyxt](https://github.com/aartaka/nyxt-config)
 * [startpages](https://www.reddit.com/r/startpages/ )
-* [make firefox great again](ff video https://youtu.be/dwZpjKH8nbo?si=8C4JJvXkJjpWF5a3 )
+* [make firefox great again](ff video [youtu.be/dwZpjKH8nbo?si=8C4JJvXkJjpWF5a3](https://youtu.be/dwZpjKH8nbo?si=8C4JJvXkJjpWF5a3) )
 * [alanRizzo](https://github.com/alanRizzo/dot-files)
 * [polybar](https://github.com/tuffgniuz/polybar)tuffgniuz
 * [i3](https://github.com/tuffgniuz/i3)tuffgniuz

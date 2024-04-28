@@ -38,7 +38,7 @@
 * ( ) [ONLYOFFICE - Secure Online Office | ONLYOFFICE](https://www.onlyoffice.com/)
 * ( ) [Ubuntu Manpage: zathurarc - zathura configuration file](https://manpages.ubuntu.com/manpages/bionic/man5/zathurarc.5.html)
 * ( ) [Vencord/Vesktop: Vesktop gives you the performance of web Discord and the comfort of Discord Desktop](https://github.com/Vencord/Vesktop)
-* ( ) [www.claws-mail](https://www.claws-mail.org/) Wayland in 2023 
+* ( ) [claws-mail](https://www.claws-mail.org/) Wayland in 2023 
 cleanup * ( ) [metadatacleaner.romainvigier](https://metadatacleaner.romainvigier.fr/)
 dev db * ( ) [](https://thenewstack.io/baserow-a-no-code-open-source-alternative-to-airtable/) 
 inspector * ( ) [NixOS Search - Packages - gtk inspector](https://search.nixos.org/packages?channel%3D23.11%26show%3Dxdg-desktop-portal-gtk%26from%3D0%26size%3D50%26sort%3Drelevance%26type%3Dpackages%26query%3Dgtk%2Binspector)
@@ -52,7 +52,7 @@ prod * ( ) [oinkoin](https://github.com/emavgl/oinkoin) - Oinkoin is a flutter 
 * ( ) [teapot](https://github.com/samuelludwig/teapot)
 * ( ) [sc-im]([sc-im](https://github.com/andmarti1424/sc-im) - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal. It is rich in functionalities, but the syntax of functions and other details are different from the common spreadsheets such as Excel and Calc, making difficult to "re-cycle" existing knowledge on these programs to work proficiently with sc-im. Neverthless, a nice piece of software."
 * ( ) [123elf](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 Release 3 to Linux.
-* ( ) [teapot](https://github.com/samuelludwig/teapot) https://github.com/NixOS/nixpkgs/issues/147213https://www.syntax-k.de/projekte/teapot/
+* ( ) [teapot](https://github.com/samuelludwig/teapot) [NixOS/nixpkgs/issues/147213https://www.syntax-k.de/projekte/teapot/](https://github.com/NixOS/nixpkgs/issues/147213https://www.syntax-k.de/projekte/teapot/)
 * ( ) [treesheets](https://github.com/aardappel/treesheets) - [ORGANISE YOUR HACKS WITH TREESHEETS: AN OPEN SOURCE HIERARCHICAL SPREADSHEET](https://hackaday.com/2022/09/07/organise-your-hacks-with-treesheets-an-open-source-hierarchical-spreadsheet/)
 
 
@@ -109,13 +109,13 @@ prod * ( ) [oinkoin](https://github.com/emavgl/oinkoin) - Oinkoin is a flutter 
 * ( ) [asciieditor](https://github.com/akirbaes/asciieditor)
 * ( ) [roughjs](https://roughjs.com/)
 * ( ) [Karbon](https://www.calligra.org/karbon/) - An open source vector drawing program.
-* (2) [Ipe](http://ipe.otfried.org/) - Ipe is a LaTeX powered drawing editor for creating figures and presentations in PDF format. - https://ipe.otfried.org/
+* (2) [Ipe](http://ipe.otfried.org/) - Ipe is a LaTeX powered drawing editor for creating figures and presentations in PDF format. - [ipe.otfried.org/](https://ipe.otfried.org/)
 * (2) [Inkscape](https://inkscape.org/en/) - A powerful, free design tool for you , whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery.
 * ( ) [knotter](https://gitlab.com/mattbas/Knotter [Knotter](https://knotter.mattbas.org/Knotter) - A Program designed solely to help design and create Celtic Knots.
 * (2) [rnote](https://github.com/flxzt/rnote) -> even better if I get a USB stylus pad such as [this](https://www.amazon.de/-/en/Deco-Fun-Graphics-Learning-Distance/dp/B093TC1XCZ)
 * ( ) [vym](https://github.com/insilmaril/vym
 * ( ) [heimer](https://github.com/juzzlin/Heimer
-* ( ) [freeplane](https://github.com/freeplane/freeplane - https://docs.freeplane.org/
+* ( ) [freeplane](https://github.com/freeplane/freeplane - [docs.freeplane.org/](https://docs.freeplane.org/)
 * ( ) [draw](https://github.com/maaslalani/draw) - draw is an simple drawing tool in the terminal. Hold your mouse down and move it across the screen to draw anything you want!
 * ( ) [swappy](https://github.com/jtheoof/swappy
 * ( ) [](https://google.github.io/typograms/)

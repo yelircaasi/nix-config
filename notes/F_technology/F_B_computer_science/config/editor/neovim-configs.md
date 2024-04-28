@@ -6,7 +6,7 @@
 * $$$ [vsedov](https://github.com/vsedov/nvim) - good python and ML setup 
 * [benlubas](https://github.com/benlubas/nix-config/blob/main/programs/neovim.nix)
 * [](https://github.com/rufevean/nvim)
-* https://nvoid.org/
+* [nvoid.org/](https://nvoid.org/)
 * [mateiadrielrafael](https://github.com/Mateiadrielrafael/everything-nix)
 * [gaelle](https://framagit.org/vegaelle/nix-nvim)
 * [AstroNvim](https://github.com/AstroNvim/astrocommunity).git
@@ -36,7 +36,7 @@
 * [](https://github.com/nix-community/nixvim)
 * [Quoteme](https://github.com/Quoteme/neovim)-flake)
 * [NixNeovim](https://github.com/NixNeovim/NixNeovim))
-* [nixvim](https://github.com/nix-community/nixvim) https://nix-community.github.io/nixvim/
+* [nixvim](https://github.com/nix-community/nixvim) [nix-community.github.io/nixvim/](https://nix-community.github.io/nixvim/)
 * [](https://juuso.dev/blogPosts/modular-neovim/modular-neovim-with-nix.html)
 * [](https://primamateria.github.io/blog/neovim-nix/)
 * [](https://github.com/Ruixi-rebirth/nvim-flake)
@@ -63,7 +63,7 @@
   * [SpaceVim](https://lazyman.dev/info/SpaceVim.html)
   * SpaceVim started in December 2016, mature and well supported
   * Standard SpaceVim install uses `curl`:
-  * `curl -sLf https://spacevim.org/install.sh | bash`
+  * `curl -sLf [spacevim.org/install.sh](https://spacevim.org/install.sh) | bash`
   * Lazyman custom SpaceVim configuration installed in `~/.SpaceVim.d/`* - Language
   * [AlanVim](https://lazyman.dev/info/AlanVim.html) Oriented toward Python development
   * [Allaman](https://lazyman.dev/info/Allaman.html)
@@ -186,18 +186,18 @@
 * snazzy colortheme for Wezterm
 
 ## Config meta
-* [nvim distro advice](https://www.reddit.com/r/neovim/comments/12gj1ku/seeking_advice_on_various_neovim_configs/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=10&utm_content=share_button)
+* [nvim distro advice](https://www.reddit.com/r/neovim/comments/12gj1ku/seeking_advice_on_various_neovim_configs/)
 * [Reddit - List of all the current neovim config distributions like Lunar Vim?](https://www.reddit.com/r/neovim/comments/s0eeg3/list_of_all_the_current_neovim_config/?xpromo_edp=enabled)
 * [(3) Recommendations for an IDE layer like LunarVim? : neovim](https://www.reddit.com/r/neovim/comments/uj7i2s/recommendations_for_an_ide_layer_like_lunarvim/)
-* https://neovim.discourse.group/t/looking-to-confirm-my-config-structure-is-sound/4229 
+* [neovim.discourse.group/t/looking-to-confirm-my-config-structure-is-sound/4229](https://neovim.discourse.group/t/looking-to-confirm-my-config-structure-is-sound/4229) 
 
 - Starter configs
 * 1.  [lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim)https://github.com/VonHeikemen/lsp-zero.nvim/blob/v2.x/doc/md/tutorial.md
-* 2.   https://github.com/nvim-lua/kickstart.nvim
-* 3.   https://github.com/IfCodingWereNatural/minimal-nvim
+* 2.   [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
+* 3.   [IfCodingWereNatural/minimal-nvim](https://github.com/IfCodingWereNatural/minimal-nvim)
 * 4.  [lazy-nvim-starter](https://github.com/frans-johansson/lazy-nvim-starter)
 * 5.  [Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch)
-* 6.   https://github.com/LunarVim/nvim-basic-ide
+* 6.   [LunarVim/nvim-basic-ide](https://github.com/LunarVim/nvim-basic-ide)
 * 7.  [neovim-for-beginner](https://github.com/alpha2phi/neovim-for-beginner)
 * 8.  [neovim-101](https://github.com/alpha2phi/neovim-101)
 * 9.  [neovim-pde](https://github.com/alpha2phi/neovim-pde)
@@ -213,26 +213,26 @@
 
 * [ntk148v neovim-config](https://github.com/ntk148v/neovim-config) A minimal neovim configuration written in Lua
 
-* 1.   https://github.com/nvim-lua/kickstart.nvim
+* 1.   [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
 
 ## top non-nix configs
 * 1.  [doom-nvim](https://github.com/doom-neovim/doom-nvim)
-    *  https://github.com/doom-neovim/doom-nvim
+    *  [doom-neovim/doom-nvim](https://github.com/doom-neovim/doom-nvim)
     * [doom-nvim](https://github.com/Fryuni/doom-nvim)
-    *  https://github.com/molleweide/doom-nvim
-    *  https://github.com/LambertGreen/doom-nvim
+    *  [molleweide/doom-nvim](https://github.com/molleweide/doom-nvim)
+    *  [LambertGreen/doom-nvim](https://github.com/LambertGreen/doom-nvim)
 * 2.  [CodeArt](https://github.com/artart222/CodeArt)
 * 3.  [nvim-ide](https://github.com/ldelossa/nvim-ide)- [A full featured IDE layer for Neovim. Heavily inspired by VSCode](https://github.com/ldelossa/nvim-ide)
 * 4.  [vimacs](https://github.com/UTFeight/vimacs)
 * 5.  [nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim)(fennel)
 * 6.  [nv-ide](https://github.com/crivotz/nv-ide)
-* 7.   https://github.com/ericwq/nvide
+* 7.   [ericwq/nvide](https://github.com/ericwq/nvide)
 * 8.   LazyVim
-    *  https://github.com/LazyVim/LazyVim
+    *  [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
     *  [Zero to IDE with LazyVim](https://youtu.be/N93cTbtLCIM)
-* 9.   AstroVim    * https://github.com/AstroNvim/astrocommunity
+* 9.   AstroVim    * [AstroNvim/astrocommunity](https://github.com/AstroNvim/astrocommunity)
     *  [Getting Started | AstroNvim](https://astronvim.com/)
-    *  [Reddit - AstroNvim v3.0 - Now with lazy.nvim and a plugin sharing community!](https://www.reddit.com/r/neovim/comments/11ntuef/astronvim_v30_now_with_lazynvim_and_a_plugin/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=10&utm_content=share_button)
+    *  [Reddit - AstroNvim v3.0 - Now with lazy.nvim and a plugin sharing community!](https://www.reddit.com/r/neovim/comments/11ntuef/astronvim_v30_now_with_lazynvim_and_a_plugin/)
     *  [Astrovim Video](https://www.youtube.com/watch?v=GEHPiZ10gOk)
     *  [Astro Vim - All in one Nvim config!!](https://youtu.be/JQLZ7NJRTEo)
     *  [Astrovim RU](https://youtu.be/LKnuIazeiM4)
@@ -241,40 +241,40 @@
     *  [Installation | LunarVim](https://www.lunarvim.org/docs/installation)
     *  [LunarVim | LunarVim](https://www.lunarvim.org/)
     *  [lunarvim-docker/Dockerfile at main · gigatexal/lunarvim-docker](https://github.com/gigatexal/lunarvim-docker/blob/main/Dockerfile)
-* 11.   https://spacevim.org/quick-start-guide/
+* 11.   [spacevim.org/quick-start-guide/](https://spacevim.org/quick-start-guide/)
     *  clean up spacevim folders
     *  [Home | SpaceVim](https://spacevim.org/)
     *  [A First Look At SpaceVim](https://youtu.be/iXPS_NHLj9k)
 * 12.   LunarVim
-    *  lvim config outline https://youtube.com/shorts/Mn9MRzSd7N0?feature=share
-    *  https://github.com/LunarVim/nvim-basic-ide
+    *  lvim config outline [youtube.com/shorts/Mn9MRzSd7N0?feature=share](https://youtube.com/shorts/Mn9MRzSd7N0?feature=share)
+    *  [LunarVim/nvim-basic-ide](https://github.com/LunarVim/nvim-basic-ide)
     *  read through lunarvim docs
     *  modify lunarvim desktop app and create shortcut
 * 13.   NVChad
     *  [siduck76/NvChad: An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime](http://neovimcraft.com/plugin/siduck76/NvChad/index.html)
     *  [Turn VIM into a full featured IDE with only one command](https://www.youtube.com/watch?v=Mtgo-nP_r8Y) (Chad nvim)
     *  [NvChad · Neovim with lua is cool](https://nvchad.com/)
-* 14.   https://nvoid.org/
-* 15.   https://abstract-ide.github.io/site/
+* 14.   [nvoid.org/](https://nvoid.org/)
+* 15.   [abstract-ide.github.io/site/](https://abstract-ide.github.io/site/)
 * 16.   [CosmicNvim/CosmicNvim: CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!](https://github.com/CosmicNvim/CosmicNvim)
-* 17.   https://github.com/VapourNvim/VapourNvim
+* 17.   [VapourNvim/VapourNvim](https://github.com/VapourNvim/VapourNvim)
 * 18.   [LunarVim/Neovim-from-scratch: 📚 A Neovim config designed from scratch to be understandable](https://github.com/LunarVim/Neovim-from-scratch/)
 * 19.  [config_manager](https://github.com/tjdevries/config_manager)
 * 20.  [lesvim](https://github.com/MiaadTeam/lesvim)
 * 21.  [vim-config](https://github.com/rafi/vim-config)
-* 22.   https://github.com/VapourNvim/VapourNvim
+* 22.   [VapourNvim/VapourNvim](https://github.com/VapourNvim/VapourNvim)
 * 23.  [.sea.nvim](https://github.com/cstsunfu/.sea.nvim)
 * 24.  [nvim](https://github.com/askfiy/nvim)
-* 25.   https://github.com/cunderw/nvim
-* 26.   https://github.com/jrychn/moduleVim
+* 25.   [cunderw/nvim](https://github.com/cunderw/nvim)
+* 26.   [jrychn/moduleVim](https://github.com/jrychn/moduleVim)
 * 27.  [dotfiles/tree/dev/nvim](https://github.com/davidosomething/dotfiles/tree/dev/nvim)
 * 28.  [dotfiles](https://github.com/kutsan/dotfiles)
 * 29.  [dot/tree/master/nvim](https://github.com/folke/dot/tree/master/nvim)
 * 30.  [dotfiles](https://github.com/yutkat/dotfiles)
 * 31.  [dotfiles](https://github.com/SeniorMars/dotfiles)
 * 32.   [Ecovim](https://github.com/ecosse3/nvim)
-* 33.   https://github.com/b0o/nvim-conf
-* 34.   kodo NVIM FRAMEWORK https://github.com/chadcat7/kodo
+* 33.   [b0o/nvim-conf](https://github.com/b0o/nvim-conf)
+* 34.   kodo NVIM FRAMEWORK [chadcat7/kodo](https://github.com/chadcat7/kodo)
 
 * [oh-my-nvim](https://github.com/hardhackerlabs/oh-my-nvim)
 * [Doom NeoVim Video](https://www.youtube.com/watch?v=xdj2XraR9W0&pp=ygUJZG9vbS5udmlt)
@@ -282,12 +282,12 @@
 * [artart222/CodeArt: Use NeoVim as general purpose IDE](https://github.com/artart222/CodeArt)
 * [Zero to IDE with LazyVim - YouTube](https://www.youtube.com/watch?v=N93cTbtLCIM&t=141s)
 * [lvim-tech (Lvim Tech)](https://github.com/lvim-tech)
-* https://github.com/folke/dot
+* [folke/dot](https://github.com/folke/dot)
 * [lvim-tech/lvim: LVIM IDE is a modular Neovim configuration written in LUA with full customization. LSP support for 60+ languages. Debug support for c, cpp, dart, elixir, go, haskell, java, javascript/typescript, lua, php, python, ruby, rust.](https://github.com/lvim-tech/lvim)
 * [LazyVim - A beautiful neovim config for the lazy | Barbarian Meets Coding](https://www.barbarianmeetscoding.com/notes/neovim-lazyvim/)
 * [AlphaTechnolog/nvide: simple code-base configuration that try to convert nvim into a """"IDE""""" :/](https://github.com/AlphaTechnolog/nvide)
-* https://github.com/redyf/RedVim
-*  https://github.com/albingroen/quick.nvim
+* [redyf/RedVim](https://github.com/redyf/RedVim)
+*  [albingroen/quick.nvim](https://github.com/albingroen/quick.nvim)
 
 ## other configs
 * [dotfiles](https://github.com/abhigyanmadhukalya/dotfiles)
@@ -300,11 +300,11 @@
 * [](https://github.com/Apeiros-46B/nvim
 * [cunderw](https://github.com/cunderw/nvim)
 * [albingroen](https://github.com/albingroen/quick).nvim
-* [Reddit - 639 lines of careful .vimrc configurations and its better than any IDE.](https://www.reddit.com/r/vim/comments/vihy6r/639_lines_of_careful_vimrc_configurations_and_its/?utm_medium=android_app&utm_source=share)
+* [Reddit - 639 lines of careful .vimrc configurations and its better than any IDE.](https://www.reddit.com/r/vim/comments/vihy6r/639_lines_of_careful_vimrc_configurations_and_its/)
 * [brainfucksec/neovim-lua: Neovim KISS configuration with Lua](https://github.com/brainfucksec/neovim-lua)
 * [AndreM222](https://github.com/AndreM222/Windows)-Dotfiles
 * [nvim setup](https://www.reddit.com/r/vimporn/comments/12f2e9l/made_some_upgradges_on_my_setup_from_last_time)
-- Ecovim https://github.com/ecosse3/nvim
+- Ecovim [ecosse3/nvim](https://github.com/ecosse3/nvim)
 * [ray-x/nvim: Blazing fast neovim setup with 150+ plugins.](https://github.com/ray-x/nvim)
 * [vimlab](https://github.com/vimlab/neojs)
 * [OxygeNvim](https://github.com/OxygeNvim/OxygeNvim)
@@ -333,46 +333,46 @@
 * [lin.nvim](https://github.com/linrongbin16/lin.nvim)
 -  [nvim](https://github.com/ChristianChiarulli/nvim)
 -  [dotvim](https://github.com/curist/dotvim)
--   https://gitlab.com/bikobi/neovim-config 
--   https://gitlab.com/domacsvim/domacsvim 
--   https://gitlab.com/sum4n/nvim 
--   https://git.sr.ht/~trevdev/ 
+-   [gitlab.com/bikobi/neovim-config](https://gitlab.com/bikobi/neovim-config) 
+-   [gitlab.com/domacsvim/domacsvim](https://gitlab.com/domacsvim/domacsvim) 
+-   [gitlab.com/sum4n/nvim](https://gitlab.com/sum4n/nvim) 
+-   [git.sr.ht/~trevdev/](https://git.sr.ht/~trevdev/) 
 -  [nvim](https://github.com/vsedov/nvim)
--   https://github.com/redas24/nvim
+-   [redas24/nvim](https://github.com/redas24/nvim)
 -  [nvim](https://github.com/AlphabetsAlphabets/nvim)
 -  [nvim](https://github.com/vloe/nvim)
 -  [myneovim](https://github.com/bibjaw/myneovim)
 -  [workstation](https://github.com/bibjaw99/workstation)
--   https://github.com/data-lex/dotfiles
+-   [data-lex/dotfiles](https://github.com/data-lex/dotfiles)
 -  [cpow-dotfiles](https://github.com/cpow/cpow-dotfiles)
 -  [nvim](https://github.com/glepnir/nvim)
 -  [nvim](https://github.com/milanglacier/nvim)
 -  [nvim](https://github.com/redas24/nvim)
--   https://mzte.de/git/LordMZTE/dotfiles 
+-   [mzte.de/git/LordMZTE/dotfiles](https://mzte.de/git/LordMZTE/dotfiles) 
 -  [dotfiles/tree/main/.config/nvim](https://github.com/justinlime/dotfiles/tree/main/.config/nvim)
--   https://git.sr.ht/~trevdev/nvim 
+-   [git.sr.ht/~trevdev/nvim](https://git.sr.ht/~trevdev/nvim) 
 -   [j4de/nvim: My neovim dotfiles - nvim - Codeberg.org](https://codeberg.org/j4de/nvim)
--   https://www.reddit.com/r/neovim/comments/13ttme4/my_current_config_with_lunarvim
--   https://neovim.discourse.group/t/nvim-u-for-modular-config/4320 
+-   [r/neovim/comments/13ttme4/my_current_config_with_lunarvim](https://www.reddit.com/r/neovim/comments/13ttme4/my_current_config_with_lunarvim)
+-   [neovim.discourse.group/t/nvim-u-for-modular-config/4320](https://neovim.discourse.group/t/nvim-u-for-modular-config/4320) 
 -  [workstation/tree/master/.config%2Fnvim](https://github.com/bibjaw99/workstation/tree/master/.config%2Fnvim)
--   https://neovim.discourse.group/t/nvim-u-for-modular-config/4320 
+-   [neovim.discourse.group/t/nvim-u-for-modular-config/4320](https://neovim.discourse.group/t/nvim-u-for-modular-config/4320) 
 -  [nvim](https://github.com/menuRivera/nvim)
--   https://github.com/isaksamsten/nvim-config
+-   [isaksamsten/nvim-config](https://github.com/isaksamsten/nvim-config)
 -  [nvim-config](https://github.com/isaksamsten/nvim-config)- perfect LaTeX → [video](https://www.youtube.com/watch?v=HVcTPeitxmw)
 -  [nvim](https://github.com/nferhat/nvim)***
--   https://github.com/fitrh/init.nvim
--   https://github.com/SingularisArt/DeathVim
--   https://github.com/l00sed/nvim-lua-config
--   https://github.com/isaksamsten/nvim-config
--   https://github.com/samiulbasirfahim/neovim
--   https://github.com/Strazil001/Nvim
--   https://github.com/chadcat7/kodo
--   https://github.com/vinnyA3/neovim-config
+-   [fitrh/init.nvim](https://github.com/fitrh/init.nvim)
+-   [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
+-   [l00sed/nvim-lua-config](https://github.com/l00sed/nvim-lua-config)
+-   [isaksamsten/nvim-config](https://github.com/isaksamsten/nvim-config)
+-   [samiulbasirfahim/neovim](https://github.com/samiulbasirfahim/neovim)
+-   [Strazil001/Nvim](https://github.com/Strazil001/Nvim)
+-   [chadcat7/kodo](https://github.com/chadcat7/kodo)
+-   [vinnyA3/neovim-config](https://github.com/vinnyA3/neovim-config)
 -  [nvim](https://github.com/vsedov/nvim)vsedov
--   https://github.com/nvimdev/dope
--   https://github.com/theopn/theovim/
--   https://gitlab.com/anhvo8836/neovim 
--   https://github.com/ChrisTitusTech/neovim
+-   [nvimdev/dope](https://github.com/nvimdev/dope)
+-   [theopn/theovim/](https://github.com/theopn/theovim/)
+-   [gitlab.com/anhvo8836/neovim](https://gitlab.com/anhvo8836/neovim) 
+-   [ChrisTitusTech/neovim](https://github.com/ChrisTitusTech/neovim)
 - One Neorg Setup
   -  chatgpt
   -  codium
@@ -407,25 +407,25 @@
 
    [vim-sensible.git](https://github.com/tpope/vim-sensible.git)- good for server and shared machines
 
-* 1.   https://github.com/wolandark/wim
+* 1.   [wolandark/wim](https://github.com/wolandark/wim)
 * 2.   [→ LeafVim video](https://www.youtube.com/watch?v=-0iTsWGZxsI)
-*  https://github.com/wooshdude/leafvim
+*  [wooshdude/leafvim](https://github.com/wooshdude/leafvim)
 
 * [The Ultimate Vim Distribution](http://vim.spf13.com/) - spf13-vim is a distribution of vim plugins and resources for Vim, GVim and MacVim.
 
    [vim.reaper](https://github.com/GideonWolfe/vim.reaper)- good for ricing, but only in Vimscript
 
 - config management & switching* - NVIM_APPNAME - part of official nvim, used by nvims and lazyman
-*  https://neovim.io/doc/user/starting.html#%24NVIM_APPNAME
+*  [neovim.io/doc/user/starting.html#%24NVIM_APPNAME](https://neovim.io/doc/user/starting.html#%24NVIM_APPNAME)
 *  nvim switching configs → see [this](https://www.reddit.com/r/neovim/comments/113z6bb/switching_neovim_configs_is_easier_than_ever_now/) (Reddit)
 * - lazyman - 3.1.3, looks excellent
-*  https://lazyman.dev/ 
+*  [lazyman.dev/](https://lazyman.dev/) 
 
 ***[nvim-lazyman](https://github.com/doctorfree/nvim-lazyman)
 * - nvims - simpler approach that lazyman, less comprehensive, but more lightweight
 *  [Neovim Config Switcher - YouTube](https://www.youtube.com/watch?v=LkHjJlSgKZY)
-*  [Neovim Config Switcher](https://www.reddit.com/r/neovim/comments/123mf4g/neovim_config_switcher/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=10&utm_content=share_button) Reddit
-*  https://gist.github.com/elijahmanor/b279553c0132bfad7eae23e34ceb593b 
+*  [Neovim Config Switcher](https://www.reddit.com/r/neovim/comments/123mf4g/neovim_config_switcher/) Reddit
+*  [gist.github.com/elijahmanor/b279553c0132bfad7eae23e34ceb593b](https://gist.github.com/elijahmanor/b279553c0132bfad7eae23e34ceb593b) 
 *  ```jsx*  ###########*  # zsh*  ###########
 *  alias nvim-lazy="NVIM_APPNAME=LazyVim nvim"*  alias nvim-kick="NVIM_APPNAME=kickstart nvim"*  alias nvim-chad="NVIM_APPNAME=NvChad nvim"*  alias nvim-astro="NVIM_APPNAME=AstroNvim nvim"
 *  function nvims() {*    items=("default" "kickstart" "LazyVim" "NvChad" "AstroNvim")*    config=$(printf "%s\n" "${items[@]}" | fzf --prompt=" Neovim Config  " --height=~50% --layout=reverse --border --exit-0)*    # config=$(printf "%s\n" "${items[@]}" | fzf --prompt="<ee><98><ab> Neovim Config <ef><98><bd> " --height=~50% --layout=reverse --border --exit-0)*    if [[ -z $config ]]; then*      echo "Nothing selected"*      return 0*    elif [[ $config == "default" ]]; then*      config=""*    fi*    NVIM_APPNAME=$config nvim $@*  }
@@ -482,26 +482,26 @@
 *  ###########################################################################################################
 *  # in terminal input nvims and enter not a valid number: ~50 nothing selected what's wrong?*  # any news on this? I do have the same error while just using nvims without any argument. Using WSL2 - bash*  # I had the same error.*  # Fix was to make height=50% NOT height=~50%*  ```
 * - editorconfig - supported ootb in nvim; seems compatible with other approaches because focus is different (albeit related)
-*  https://neovim.io/doc/user/editorconfig.html 
-*  https://editorconfig.org/
+*  [neovim.io/doc/user/editorconfig.html](https://neovim.io/doc/user/editorconfig.html) 
+*  [editorconfig.org/](https://editorconfig.org/)
 * - cheovim - in 0.3, looks good
-*  https://github.com/NTBBloodbath/cheovim
-*  https://github.com/NTBBloodbath/cheovim
+*  [NTBBloodbath/cheovim](https://github.com/NTBBloodbath/cheovim)
+*  [NTBBloodbath/cheovim](https://github.com/NTBBloodbath/cheovim)
 * [cheovim](https://github.com/NTBBloodbath/cheovim)*****
 * - neoconf.nvim
-*  https://github.com/folke/neoconf.nvim
-*  https://www.reddit.com/r/neovim/comments/ywqhb0/neoconfnvim_a_neovim_plugin_to_manage_global_and/
+*  [folke/neoconf.nvim](https://github.com/folke/neoconf.nvim)
+*  [r/neovim/comments/ywqhb0/neoconfnvim_a_neovim_plugin_to_manage_global_and/](https://www.reddit.com/r/neovim/comments/ywqhb0/neoconfnvim_a_neovim_plugin_to_manage_global_and/)
 * * [aaditeynair](https://github.com/aaditeynair/conduct).nvim
-*  https://www.reddit.com/r/neovim/comments/13cql1r/conductnvim_new_project_management_plugin/ 
+*  [r/neovim/comments/13cql1r/conductnvim_new_project_management_plugin/](https://www.reddit.com/r/neovim/comments/13cql1r/conductnvim_new_project_management_plugin/) 
 * - ?
 * [projectconf.nvim](https://github.com/saccarosium/projectconf.nvim)
 * - Deprecated
-*  https://github.com/windwp/nvim-projectconfig
-*  https://github.com/martini97/project-config.nvim
+*  [windwp/nvim-projectconfig](https://github.com/windwp/nvim-projectconfig)
+*  [martini97/project-config.nvim](https://github.com/martini97/project-config.nvim)
 
 
 
-* https://github.com/BeelzebubOfGluttony/NeoAsh
+* [BeelzebubOfGluttony/NeoAsh](https://github.com/BeelzebubOfGluttony/NeoAsh)
 
 ## [GUI](https://yutkat.github.io/my-neovim-pluginlist/#gui)
 

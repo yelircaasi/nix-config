@@ -159,56 +159,56 @@
 * [helixoid/hyprland-wallust](https://github.com/helixoid/hyprland-wallust)
 * [hiltson87/NewVegasDots](https://github.com/Hiltson87/NewVegasDots)
 * [hollow](https://git.sr.ht/~hollow/dotfiles/tree)
-* [https://end-4.github.io/dots-hyprland-wiki/en/](https://end-4.github.io/dots-hyprland-wiki/en/)
-* [https://github.com/gBonvenuto/Awesome-Nord/](https://github.com/gBonvenuto/Awesome-Nord/tree/main)
-* [https://gitlab.com/BA_usr/dotfiles-for-hyperland/](https://gitlab.com/BA_usr/dotfiles-for-hyperland/)
-* [https://gitlab.com/BRBWaffles/dotfiles](https://gitlab.com/BRBWaffles/dotfiles)
-* [https://gitlab.com/gnulinux-projects/My_Linux_Files/-/tree/main/Debian/Sway/.config?ref_type=heads](https://gitlab.com/gnulinux-projects/My_Linux_Files/-/tree/main/Debian/Sway/.config?ref_type%3Dheads) dotfiles
-* [https://gitlab.com/gnulinux-projects/My_Linux_Files/-/tree/main/Debian/Sway/.config?ref_type=heads](https://gitlab.com/gnulinux-projects/My_Linux_Files/-/tree/main/Debian/Sway/.config?ref_type%3Dheads)
-* [https://gitlab.com/gnulinux-projects/My_Linux_Files/-/tree/main/Debian/Sway/.config?ref_type=heads](https://gitlab.com/gnulinux-projects/My_Linux_Files/-/tree/main/Debian/Sway/.config?ref_type%3Dheads)
-* [https://gitlab.com/itaranto/dotfiles](https://gitlab.com/itaranto/dotfiles)
-* [https://gitlab.com/mbednarek360/dots](https://gitlab.com/mbednarek360/dots)
-* [https://gitlab.com/stephan-raabe/dotfiles](https://gitlab.com/stephan-raabe/dotfiles)
-* [https://gitlab.com/tootyourflute/laptop-dotfiles](https://gitlab.com/tootyourflute/laptop-dotfiles)
-* [https://gitlab.com/tootyourflute/laptop-dotfiles](https://gitlab.com/tootyourflute/laptop-dotfiles)
-* [https://pastebin.com/Y5EQvhHm](https://pastebin.com/Y5EQvhHm)
-* [https://raw.githubusercontent.com/MaxSh12/bepis/main/config.conf](https://raw.githubusercontent.com/MaxSh12/bepis/main/config.conf)
-* [https://raw.githubusercontent.com/ronasimi/dotfiles/t490/home/.config/gtk-3.0/gtk.css](https://raw.githubusercontent.com/ronasimi/dotfiles/t490/home/.config/gtk-3.0/gtk.css) thunar CSS
-* [https://www.github.com/aw4ki/dotfiles](https://www.github.com/aw4ki/dotfiles)
-* [https://www.hackster.io/roni-bandini/reggaeton-be-gone-e5b6e2](https://www.hackster.io/roni-bandini/reggaeton-be-gone-e5b6e2)
-* [https://www.reddit.com/r/UsabilityPorn/s/CK9RLqKhQD](https://www.reddit.com/r/UsabilityPorn/s/CK9RLqKhQD) dotfiles
-* [https://www.reddit.com/r/hyprland/s/MvO7z1LdrZ](https://www.reddit.com/r/hyprland/s/MvO7z1LdrZ) waybar
-* [https://www.reddit.com/r/hyprland/s/RB9tJny7yS](https://www.reddit.com/r/hyprland/s/RB9tJny7yS)
-* [https://www.reddit.com/r/swaywm/s/BAFR2Ez9kk](https://www.reddit.com/r/swaywm/s/BAFR2Ez9kk) * [https://www.reddit.com/r/swaywm/s/E1c3DjLRPh](https://www.reddit.com/r/swaywm/s/E1c3DjLRPh) dotfiles
-* [https://www.reddit.com/r/unixporn/comments/146j8gx/hyprland_waydroid_is_amazing_feat_my_custom/](https://www.reddit.com/r/unixporn/comments/146j8gx/hyprland_waydroid_is_amazing_feat_my_custom/)
-* [https://www.reddit.com/r/unixporn/comments/vil0mp/bspwm_first_rice_nature_is_everything/](https://www.reddit.com/r/unixporn/comments/vil0mp/bspwm_first_rice_nature_is_everything/) dots
-* [https://www.reddit.com/r/unixporn/s/1pGuJ9c49D](https://www.reddit.com/r/unixporn/s/1pGuJ9c49D)
-* [https://www.reddit.com/r/unixporn/s/5MDR8LNPIu](https://www.reddit.com/r/unixporn/s/5MDR8LNPIu) * [https://www.reddit.com/r/unixporn/s/5df0HZuOEn](https://www.reddit.com/r/unixporn/s/5df0HZuOEn) Dracula
-* [https://www.reddit.com/r/unixporn/s/7BK4nY4pV3](https://www.reddit.com/r/unixporn/s/7BK4nY4pV3)
-* [https://www.reddit.com/r/unixporn/s/8wW3aHmrTJ](https://www.reddit.com/r/unixporn/s/8wW3aHmrTJ) hyprland
-* [https://www.reddit.com/r/unixporn/s/CUbkAsCxR2](https://www.reddit.com/r/unixporn/s/CUbkAsCxR2)
-* [https://www.reddit.com/r/unixporn/s/DoOlUPlMjw](https://www.reddit.com/r/unixporn/s/DoOlUPlMjw)
-* [https://www.reddit.com/r/unixporn/s/JtYMGH5i29](https://www.reddit.com/r/unixporn/s/JtYMGH5i29) dotfiles wlr-shell
-* [https://www.reddit.com/r/unixporn/s/Ka2Pxgy2yY](https://www.reddit.com/r/unixporn/s/Ka2Pxgy2yY) Hyprland
-* [https://www.reddit.com/r/unixporn/s/MaVbupvoPy](https://www.reddit.com/r/unixporn/s/MaVbupvoPy) hyprland
-* [https://www.reddit.com/r/unixporn/s/PZfxclDJXh](https://www.reddit.com/r/unixporn/s/PZfxclDJXh) hyprland
-* [https://www.reddit.com/r/unixporn/s/SUTHjLNCFs](https://www.reddit.com/r/unixporn/s/SUTHjLNCFs) material-you plasma
-* [https://www.reddit.com/r/unixporn/s/WvOl2LnvwE](https://www.reddit.com/r/unixporn/s/WvOl2LnvwE) openbox dots
-* [https://www.reddit.com/r/unixporn/s/c2XQRk9SMN](https://www.reddit.com/r/unixporn/s/c2XQRk9SMN) minimalist config
-* [https://www.reddit.com/r/unixporn/s/cgWQ6MAP0X](https://www.reddit.com/r/unixporn/s/cgWQ6MAP0X) pywal suckless arch
-* [https://www.reddit.com/r/unixporn/s/gYVDbLC9IC](https://www.reddit.com/r/unixporn/s/gYVDbLC9IC) dotfiles
-* [https://www.reddit.com/r/unixporn/s/gZRyLFqhQd](https://www.reddit.com/r/unixporn/s/gZRyLFqhQd) dotfiles
-* [https://www.reddit.com/r/unixporn/s/kFIDonkGB7](https://www.reddit.com/r/unixporn/s/kFIDonkGB7) bspwm
-* [https://www.reddit.com/r/unixporn/s/leD5dFiNdR](https://www.reddit.com/r/unixporn/s/leD5dFiNdR) dots
-* [https://www.reddit.com/r/unixporn/s/m0kCY84yIK](https://www.reddit.com/r/unixporn/s/m0kCY84yIK) sway android kotlin nvim
-* [https://www.reddit.com/r/unixporn/s/mvA6EhXF0t](https://www.reddit.com/r/unixporn/s/mvA6EhXF0t)
-* [https://www.reddit.com/r/unixporn/s/o7eTb34jhu](https://www.reddit.com/r/unixporn/s/o7eTb34jhu) dots nordic
-* [https://www.reddit.com/r/unixporn/s/pHPB7n5LA6](https://www.reddit.com/r/unixporn/s/pHPB7n5LA6) mint dotfiles
-* [https://www.reddit.com/r/unixporn/s/qsBAkTyyxa](https://www.reddit.com/r/unixporn/s/qsBAkTyyxa) hyprland gruvminimal eww
-* [https://www.reddit.com/r/unixporn/s/rR0LCxnYtC](https://www.reddit.com/r/unixporn/s/rR0LCxnYtC) uniform theming
-* [https://www.reddit.com/r/unixporn/s/sRGBbz3Czx](https://www.reddit.com/r/unixporn/s/sRGBbz3Czx)
-* [https://www.reddit.com/r/unixporn/s/uR9ho1I0Mf](https://www.reddit.com/r/unixporn/s/uR9ho1I0Mf) dotfiles
-* [https://www.reddit.com/r/unixporn/s/xcMCSiBoZL](https://www.reddit.com/r/unixporn/s/xcMCSiBoZL) tokyonight rice
+* [end-4.github.io/dots-hyprland-wiki/en/](https://end-4.github.io/dots-hyprland-wiki/en/)
+* [github.com/gBonvenuto/Awesome-Nord/](https://github.com/gBonvenuto/Awesome-Nord/tree/main)
+* [gitlab.com/BA_usr/dotfiles-for-hyperland/](https://gitlab.com/BA_usr/dotfiles-for-hyperland/)
+* [gitlab.com/BRBWaffles/dotfiles](https://gitlab.com/BRBWaffles/dotfiles)
+* [gitlab.com/gnulinux-projects/My_Linux_Files/-/tree/main/Debian/Sway/.config?ref_type=heads](https://gitlab.com/gnulinux-projects/My_Linux_Files/-/tree/main/Debian/Sway/.config?ref_type%3Dheads) dotfiles
+* [gitlab.com/gnulinux-projects/My_Linux_Files/-/tree/main/Debian/Sway/.config?ref_type=heads](https://gitlab.com/gnulinux-projects/My_Linux_Files/-/tree/main/Debian/Sway/.config?ref_type%3Dheads)
+* [gitlab.com/gnulinux-projects/My_Linux_Files/-/tree/main/Debian/Sway/.config?ref_type=heads](https://gitlab.com/gnulinux-projects/My_Linux_Files/-/tree/main/Debian/Sway/.config?ref_type%3Dheads)
+* [gitlab.com/itaranto/dotfiles](https://gitlab.com/itaranto/dotfiles)
+* [gitlab.com/mbednarek360/dots](https://gitlab.com/mbednarek360/dots)
+* [gitlab.com/stephan-raabe/dotfiles](https://gitlab.com/stephan-raabe/dotfiles)
+* [gitlab.com/tootyourflute/laptop-dotfiles](https://gitlab.com/tootyourflute/laptop-dotfiles)
+* [gitlab.com/tootyourflute/laptop-dotfiles](https://gitlab.com/tootyourflute/laptop-dotfiles)
+* [pastebin.com/Y5EQvhHm](https://pastebin.com/Y5EQvhHm)
+* [raw.githubusercontent.com/MaxSh12/bepis/main/config.conf](https://raw.githubusercontent.com/MaxSh12/bepis/main/config.conf)
+* [raw.githubusercontent.com/ronasimi/dotfiles/t490/home/.config/gtk-3.0/gtk.css](https://raw.githubusercontent.com/ronasimi/dotfiles/t490/home/.config/gtk-3.0/gtk.css) thunar CSS
+* [github.com/aw4ki/dotfiles](https://www.github.com/aw4ki/dotfiles)
+* [hackster.io/roni-bandini/reggaeton-be-gone-e5b6e2](https://www.hackster.io/roni-bandini/reggaeton-be-gone-e5b6e2)
+* [reddit.com/r/UsabilityPorn/s/CK9RLqKhQD](https://www.reddit.com/r/UsabilityPorn/s/CK9RLqKhQD) dotfiles
+* [reddit.com/r/hyprland/s/MvO7z1LdrZ](https://www.reddit.com/r/hyprland/s/MvO7z1LdrZ) waybar
+* [reddit.com/r/hyprland/s/RB9tJny7yS](https://www.reddit.com/r/hyprland/s/RB9tJny7yS)
+* [reddit.com/r/swaywm/s/BAFR2Ez9kk](https://www.reddit.com/r/swaywm/s/BAFR2Ez9kk) * [reddit.com/r/swaywm/s/E1c3DjLRPh](https://www.reddit.com/r/swaywm/s/E1c3DjLRPh) dotfiles
+* [reddit.com/r/unixporn/comments/146j8gx/hyprland_waydroid_is_amazing_feat_my_custom/](https://www.reddit.com/r/unixporn/comments/146j8gx/hyprland_waydroid_is_amazing_feat_my_custom/)
+* [reddit.com/r/unixporn/comments/vil0mp/bspwm_first_rice_nature_is_everything/](https://www.reddit.com/r/unixporn/comments/vil0mp/bspwm_first_rice_nature_is_everything/) dots
+* [reddit.com/r/unixporn/s/1pGuJ9c49D](https://www.reddit.com/r/unixporn/s/1pGuJ9c49D)
+* [reddit.com/r/unixporn/s/5MDR8LNPIu](https://www.reddit.com/r/unixporn/s/5MDR8LNPIu) * [reddit.com/r/unixporn/s/5df0HZuOEn](https://www.reddit.com/r/unixporn/s/5df0HZuOEn) Dracula
+* [reddit.com/r/unixporn/s/7BK4nY4pV3](https://www.reddit.com/r/unixporn/s/7BK4nY4pV3)
+* [reddit.com/r/unixporn/s/8wW3aHmrTJ](https://www.reddit.com/r/unixporn/s/8wW3aHmrTJ) hyprland
+* [reddit.com/r/unixporn/s/CUbkAsCxR2](https://www.reddit.com/r/unixporn/s/CUbkAsCxR2)
+* [reddit.com/r/unixporn/s/DoOlUPlMjw](https://www.reddit.com/r/unixporn/s/DoOlUPlMjw)
+* [reddit.com/r/unixporn/s/JtYMGH5i29](https://www.reddit.com/r/unixporn/s/JtYMGH5i29) dotfiles wlr-shell
+* [reddit.com/r/unixporn/s/Ka2Pxgy2yY](https://www.reddit.com/r/unixporn/s/Ka2Pxgy2yY) Hyprland
+* [reddit.com/r/unixporn/s/MaVbupvoPy](https://www.reddit.com/r/unixporn/s/MaVbupvoPy) hyprland
+* [reddit.com/r/unixporn/s/PZfxclDJXh](https://www.reddit.com/r/unixporn/s/PZfxclDJXh) hyprland
+* [reddit.com/r/unixporn/s/SUTHjLNCFs](https://www.reddit.com/r/unixporn/s/SUTHjLNCFs) material-you plasma
+* [reddit.com/r/unixporn/s/WvOl2LnvwE](https://www.reddit.com/r/unixporn/s/WvOl2LnvwE) openbox dots
+* [reddit.com/r/unixporn/s/c2XQRk9SMN](https://www.reddit.com/r/unixporn/s/c2XQRk9SMN) minimalist config
+* [reddit.com/r/unixporn/s/cgWQ6MAP0X](https://www.reddit.com/r/unixporn/s/cgWQ6MAP0X) pywal suckless arch
+* [reddit.com/r/unixporn/s/gYVDbLC9IC](https://www.reddit.com/r/unixporn/s/gYVDbLC9IC) dotfiles
+* [reddit.com/r/unixporn/s/gZRyLFqhQd](https://www.reddit.com/r/unixporn/s/gZRyLFqhQd) dotfiles
+* [reddit.com/r/unixporn/s/kFIDonkGB7](https://www.reddit.com/r/unixporn/s/kFIDonkGB7) bspwm
+* [reddit.com/r/unixporn/s/leD5dFiNdR](https://www.reddit.com/r/unixporn/s/leD5dFiNdR) dots
+* [reddit.com/r/unixporn/s/m0kCY84yIK](https://www.reddit.com/r/unixporn/s/m0kCY84yIK) sway android kotlin nvim
+* [reddit.com/r/unixporn/s/mvA6EhXF0t](https://www.reddit.com/r/unixporn/s/mvA6EhXF0t)
+* [reddit.com/r/unixporn/s/o7eTb34jhu](https://www.reddit.com/r/unixporn/s/o7eTb34jhu) dots nordic
+* [reddit.com/r/unixporn/s/pHPB7n5LA6](https://www.reddit.com/r/unixporn/s/pHPB7n5LA6) mint dotfiles
+* [reddit.com/r/unixporn/s/qsBAkTyyxa](https://www.reddit.com/r/unixporn/s/qsBAkTyyxa) hyprland gruvminimal eww
+* [reddit.com/r/unixporn/s/rR0LCxnYtC](https://www.reddit.com/r/unixporn/s/rR0LCxnYtC) uniform theming
+* [reddit.com/r/unixporn/s/sRGBbz3Czx](https://www.reddit.com/r/unixporn/s/sRGBbz3Czx)
+* [reddit.com/r/unixporn/s/uR9ho1I0Mf](https://www.reddit.com/r/unixporn/s/uR9ho1I0Mf) dotfiles
+* [reddit.com/r/unixporn/s/xcMCSiBoZL](https://www.reddit.com/r/unixporn/s/xcMCSiBoZL) tokyonight rice
 * [husseinhareb](https://github.com/husseinhareb/my-dotfiles)
 * [hydroakri/dotfiles](https://github.com/hydroakri/dotfiles)
 * [hyprland + ags](https://www.reddit.com/r/unixporn/s/sRGBbz3Czx)
@@ -362,7 +362,7 @@
 * [stephan-raabe](https://gitlab.com/stephan-raabe/dotfiles)
 * [stephan-raabe](https://gitlab.com/stephan-raabe/dotfiles)
 * [swayFX Minimal and Immutable Nord with Fedora Sericea : r/unixporn](https://www.reddit.com/r/unixporn/comments/1b0uvwg/swayfx_minimal_and_immutable_nord_with_fedora/)
-* [swayKh](https://github.com/SwayKh/dotfiles $$$ https://www.reddit.com/r/unixporn/comments/1c8284c/hyprland_my_dark_and_minimal_rice )
+* [swayKh](https://github.com/SwayKh/dotfiles $$$ [r/unixporn/comments/1c8284c/hyprland_my_dark_and_minimal_rice](https://www.reddit.com/r/unixporn/comments/1c8284c/hyprland_my_dark_and_minimal_rice) )
 * [sweetbbak/dots/tree/main/.config](https://github.com/sweetbbak/dots/tree/main/.config)
 * [syndrizzle](https://github.com/Syndrizzle/hotfiles)
 * [talfaza/dotfiles](https://github.com/Talfaza/dotfiles)
@@ -503,7 +503,7 @@
 * [ipg0](https://github.com/ipg0/dotfiles-hypr) -
 * [kannakalyan05](https://github.com/kannakalyan05/hyprland) -
 * [nyxfr](https://github.com/nyxfr/.dotfiles) - btop, cava, dunst, fish, hypr, kitty, mc, neofetch, nvim, paru, rofi, swaybg, swaylock, tmux, waybar, wlogout, starship, scripts, fonts
-* [soldoestech](hyprland https://github.com/SolDoesTech/HyprV2/tree/main) -
+* [soldoestech](hyprland [SolDoesTech/HyprV2/tree/main)](https://github.com/SolDoesTech/HyprV2/tree/main)) -
 * [tentypematus](https://gitlab.com/TenTypekMatus/tokyonight-dots) i3, alacritty, fish, BetterDiscord, gtk, hypr, neofetch, nvim, polybar, rofi, picom
 * [nord hyprland](https://github.com/clamsfeel2/dots)  -
 * [danielgafni](https://github.com/danielgafni/dotfiles) - zsh, hyprland nvidia launcher, alacritty, btoop, common, eww, helix, hypr, kitty, mako, nvim, ranger, sheldon, swaylock, waybar, wlogout, wofi, zathura, zellij, starship, zoomus
@@ -880,14 +880,14 @@ Robert Duchesneau RiverWM dotfiles)
 
 ## dwm
   - [6gk/polka](https://github.com/6gk/polka)- kiwmi, bspwm, openbox, dwm, good scripts and aliases, colours, dunst, feh, fontconfig, git, gtk, htop, mpd, mpv, ncmcpp, nvim, sh, startpage, sxhkd, xorg, picom, good css files!, chrome, discord, kmonad, torrent, rc,
-  - [alexMuxika](https://github.com/AlexMuxika/configs)AlexMuxika - [Reddit - Live wallpaper using xwinwrap and mpv [dwm] Workflow](https://www.reddit.com/r/unixporn/comments/11532cj/comment/j8zdkmb/?utm_medium=android_app&utm_source=share&context=3) - dmenu, dwm, st, surf, tabbed, picom. xinit, cmus, qutebrowser, vifm
+  - [alexMuxika](https://github.com/AlexMuxika/configs)AlexMuxika - [Reddit - Live wallpaper using xwinwrap and mpv [dwm] Workflow](https://www.reddit.com/r/unixporn/comments/11532cj/comment/j8zdkmb/) - dmenu, dwm, st, surf, tabbed, picom. xinit, cmus, qutebrowser, vifm
   - [bachoSeven](https://github.com/BachoSeven/dotfiles) - [ungoogled-chromium](https://github.com/BachoSeven/dotfiles/blob/master/.config/browser) with Gtk theme, duckduckgo with `gruvboxytheme` , `[Vieb](https://vieb.dev/)`, [custom startpage](https://github.com/BachoSeven/startpage), [system configs](https://github.com/BachoSeven/sysdots), [Pacgraph,](http://github.com/keenerd/pacgraph)
 * [dmenu](https://github.com/BachoSeven/dmenu), [dwm](https://github.com/BachoSeven/dwm),[st](https://github.com/BachoSeven/st),)
 * [xss](https://github.com/9wm/xss)+[slock](https://github.com/BachoSeven/slock), zsh,)
   [p10k themes](), [fsh](https://github.com/zdharma/fast-syntax-highlighting), [neovim](https://github.com/BachoSeven/dotfiles/blob/master/.config/nvim), [stig](https://github.com/rndusr/stig), [ncmpcpp](https://github.com/BachoSeven/dotfiles/blob/master/.config/ncmpcpp)) with `mpd`, [cava](https://github.com/BachoSeven/dotfiles/blob/master/.config/cava/config), [kunst](https://github.com/sdushantha/kunst), [ncspot](https://github.com/hrkfdn/ncspot), [lf](https://github.com/gokcehan/lf), [neomutt](https://github.com/BachoSeven/dotfiles/blob/master/.config/mutt)) as an email client, [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium), [sxiv](https://github.com/muennich/sxiv), [zathura](https://github.com/BachoSeven/dotfiles/blob/master/.config/zathura/zathurarc), [bottom](https://github.com/ClementTsang/bottom), [copyq](https://github.com/hluk/CopyQ), [dunst](https://github.com/BachoSeven/dotfiles/blob/master/.config/dunst/dunstrc), [redshift](https://github.com/BachoSeven/dotfiles/blob/master/.config/redshift/redshift.conf), [newsboat](https://github.com/BachoSeven/dotfiles/blob/master/.config/newsboat), [paru](https://github.com/BachoSeven/dotfiles/blob/master/.config/paru/paru.conf), [mimi](https://github.com/BachoSeven/mimi)**
   - [basilioss](https://github.com/basilioss/dotfiles) - [dwm](https://github.com/basilioss/dwm), [alacritty](https://github.com/zenixls2/alacritty), [dmenu](https://github.com/basilioss/dmenu), [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme), [NvChad](https://github.com/NvChad/NvChad), [zathura](https://pwmt.org/projects/zathura/), [Tauon Music Box](https://github.com/Taiko2k/TauonMusicBox), [mpv](https://mpv.io/), [nsxiv](https://nsxiv.codeberg.page/), git, glow, keepmenu, nvim, nvchad, espanso, alacritty, botton, dunst, gdu, mpv, neofetch, newsboat, paru, picom, starship, sxhkd, tmux, warpd, x11, zathura, zk, zsh, betterlockscreen
   - [chrisTitusTech](https://github.com/ChrisTitusTech/dwm-titus)
-  - [christianChiarulli ](https://github.com/ChristianChiarulli/Machfiles) → [post](https://www.chrisatmachine.com/posts/01-macos-developer-setup) amd-ucode, pacman-contrib, arc-gtk-theme, blueman, bluez, bluez-utils, brave-bin, cava-git, chromium, cmatrix, cmus, colorpicker, cowsay, cups, dialog, discord, docker, dosfstools, dunst, efibootmgr, element-desktop-nightly-bin, fd, feh, figlet, flameshot, fnm-bin, fzf, gimp, git, github-cli, glances, gotop, gping, grub, htop, kdenlive, kvantum-theme-arc, lazygit, librewolf-bin, libxft-bgra, linux, linux-firmware, linux-headers, lxappearance, mediainfo, mpv, mtools, nautilus, ncdu, ncmpcpp, neofetch, neovide-bin, network-manager-applet, networkmanager, newsboat, nmon, noto-fonts-emoji, npm, ntfs-3g, nvidia, nvidia-settings, nvtop, obs-studio, obs-multi-rtmp, openssh, os-prober, pamixer, pandoc-bin, pasystray, pavucontrol, pcloudcc-git, picom-ibhagwan-git, prettier, python-pip, ranger, reflector, rofi, ruby, scrcpy, screenkey, session-desktop-bin, shfmt, signal-desktop-beta-bin, skippy-xd-git, slock, snownews, solidity, spotify, stow, syncthing, telegram-desktop-bin, tree, ttf-dejavu, ttf-joypixels, ttf-ms-fonts, ttf-ubraille, ttf-unifont, ueberzug, unzip, ventoy-bin, vi, vim, virtualbox, virtualbox-bin-guest-iso, vscodium-bin, vscodium-bin-marketplace, wget, wireless_tools, wpa_supplicant, xbanish, xcape, xclip, xorg-bdftopcf, xorg-docs, xorg-font-util, xorg-fonts-100dpi, xorg-fonts-75dpi, xorg-iceauth, xorg-mkfontscale, xorg-server-devel, xorg-server-xephyr, xorg-server-xnest, xorg-server-xvfb, xorg-sessreg, xorg-smproxy, xorg-x11perf, xorg-xbacklight, xorg-xcmsdb, xorg-xcursorgen, xorg-xdpyinfo, xorg-xdriinfo, xorg-xev, xorg-xgamma, xorg-xhost, xorg-xinit, xorg-xinput, xorg-xkbevd, xorg-xkbutils, xorg-xkill, xorg-xlsatoms, xorg-xlsclients, xorg-xpr, xorg-xprop, xorg-xrandr, xorg-xrefresh, xorg-xset, xorg-xsetroot, xorg-xvinfo, xorg-xwayland, xorg-xwd, xorg-xwininfo, xorg-xwud, xterm, yapf, yarn, youtube-dl, zathura, zip, zsh, zsh-completions-git    * [chyanurag](https://github.com/chyanurag/dotfiles)
+  - [](https://github.com/chyanurag/dotfiles)
   - [erik.Lundstedt](https://gitlab.com/Erik.Lundstedt/dotconfigfiles) - zsh, arduino, logseq, ncmcpp, emacs, textadept, oomox, kodi, java, scripts (fennel, perl), jq,[kristall,](https://github.com/MasterQ32/kristall,)conky, lua, xinit, inputrc, git-modules, Xdefaults, Xresources, scratchpads, [j](https://www.jsoftware.com/#/), barscript, amfora, dmenu + dmscripts, udiskie, st (variations), surf,  tydras, Kvantum, [aerc](https://aerc-mail.org/), awesome,[catgirl,](https://github.com/deifactor/catgirl), emacs, doublecmd, fnlFetch, fzf, hilbish, icons, kde colour, kitty, luakit, luamark, miniterm, mopidy, neon-logout, newsboat, qt5ct, [snownews](https://sourceforge.net/projects/snownews/), ssh, tmux, [tuifeed](https://github.com/veeso/tuifeed), tym, [wallset](https://github.com/terroo/wallset) →[oguri,](https://github.com/vilhalmer/oguri,) wezterm, xbindkeys, xpls, yadm, kate + katevi, ncpamixer
   - [fitrh](https://github.com/fitrh/dotfiles) - good script collection, fish, nvim, effishient,  alacritty, berrywm, bottom, dunst, dwm, foot, fuzzel, git, kitty, lf, mako, picom, river, rofi, starship, sxhkd, tmux, xmobar, xmonad, yambar,
   - [fmash16 ](https://github.com/fmash16/dotfiles) - [dark green](https://www.reddit.com/r/unixporn/comments/irur6n/dwm_minimalist_suckless_darkpastelgreen_themed/) - dwm, st, zsh, Comic Sans, picom, ranger, zathura suckless surf with tabbed tmux, firefox custom css

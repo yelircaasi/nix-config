@@ -73,31 +73,31 @@ de cosmic * ( ) [pop-os/cosmic-randr at 88c570cf8b88beae1cf4f3e2d412cc64ec49cd7c
 * ( ) [Kröhnkite](https://github.com/esjeon/krohnkite) - A dynamic tiling extension for KWin.
 * ( ) [Pop!\_OS Shell](https://github.com/pop-os/shell) - Pop Shell is a keyboard-driven auto-tiling window manager that run on top of the GNOME shell.
 * ( ) Arcan + suite
-  - https://arcan-fe.com/
-  - https://github.com/letoram
-  - https://github.com/letoram/cat9
-  - https://github.com/letoram/durden
+  - [arcan-fe.com/](https://arcan-fe.com/)
+  - [letoram](https://github.com/letoram)
+  - [letoram/cat9](https://github.com/letoram/cat9)
+  - [letoram/durden](https://github.com/letoram/durden)
   - [arcan](https://github.com/letoram/arcan)
-  - https://arcan-fe.com/
-  - http://durden.arcan-fe.com/
-  - Arcan on Nix 2020: https://gist.github.com/egasimus/0254dcd67f95f262aa6e133794738392
-  - https://github.com/egasimus/arcan-nix
-* ( ) https://userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma
+  - [arcan-fe.com/](https://arcan-fe.com/)
+  - [durden.arcan-fe.com/](http://durden.arcan-fe.com/)
+  - Arcan on Nix 2020: [gist.github.com/egasimus/0254dcd67f95f262aa6e133794738392](https://gist.github.com/egasimus/0254dcd67f95f262aa6e133794738392)
+  - [egasimus/arcan-nix](https://github.com/egasimus/arcan-nix)
+* ( ) [userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma](https://userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma)
 * ( ) [gTile](https://github.com/gTile/gTile)
 ### SORT
-* https://docs.kde.org/* https://www.omglinux.com/space-bar-gnome-extension/
+* [docs.kde.org/*](https://docs.kde.org/*) [omglinux.com/space-bar-gnome-extension/](https://www.omglinux.com/space-bar-gnome-extension/)
 * [KDE Plasma DT](https://youtu.be/S6Zf16gYzIY)
-* https://invent.kde.org/plasma* https://en.wikipedia.org/wiki/KDE_Plasma_5
-* https://userbase.kde.org/Tutorials* https://userbase.kde.org/Welcome_to_KDE_UserBase
-* https://userbase.kde.org/Websites* https://docs.kde.org/
-* https://docs.kde.org/stable5/en/plasma-desktop/plasma-desktop/index.html
-* https://askubuntu.com/questions/24780/how-to-make-kde-applications-look-native-in-gnome
-* https://www.reddit.com/r/gnome/comments/tptfg6/theme_kde_apps_on_gnome/
+* [invent.kde.org/plasma*](https://invent.kde.org/plasma*) [en.wikipedia.org/wiki/KDE_Plasma_5](https://en.wikipedia.org/wiki/KDE_Plasma_5)
+* [userbase.kde.org/Tutorials*](https://userbase.kde.org/Tutorials*) [userbase.kde.org/Welcome_to_KDE_UserBase](https://userbase.kde.org/Welcome_to_KDE_UserBase)
+* [userbase.kde.org/Websites*](https://userbase.kde.org/Websites*) [docs.kde.org/](https://docs.kde.org/)
+* [docs.kde.org/stable5/en/plasma-desktop/plasma-desktop/index.html](https://docs.kde.org/stable5/en/plasma-desktop/plasma-desktop/index.html)
+* [askubuntu.com/questions/24780/how-to-make-kde-applications-look-native-in-gnome](https://askubuntu.com/questions/24780/how-to-make-kde-applications-look-native-in-gnome)
+* [r/gnome/comments/tptfg6/theme_kde_apps_on_gnome/](https://www.reddit.com/r/gnome/comments/tptfg6/theme_kde_apps_on_gnome/)
 * WMs on Xubuntu and Lubuntu? → Lubuntu integrates well with KDE apps
-* https://www.debugpoint.com/customize-gnome-clean-look-2022-1/
+* [debugpoint.com/customize-gnome-clean-look-2022-1/](https://www.debugpoint.com/customize-gnome-clean-look-2022-1/)
 * search: gnome theme for kde apps
-* https://www.reddit.com/r/kde/comments/11mghkl/guide_theme_dolphin_qt_apps_on_gnome/
-* https://www.reddit.com/r/unixporn/comments/12zboi0/xfce_decided_to_learn_how_to_customize_xfce4panel/
+* [r/kde/comments/11mghkl/guide_theme_dolphin_qt_apps_on_gnome/](https://www.reddit.com/r/kde/comments/11mghkl/guide_theme_dolphin_qt_apps_on_gnome/)
+* [r/unixporn/comments/12zboi0/xfce_decided_to_learn_how_to_customize_xfce4panel/](https://www.reddit.com/r/unixporn/comments/12zboi0/xfce_decided_to_learn_how_to_customize_xfce4panel/)
 
 ## WM/Compositor
 wc dwl * [dwl](https://github.com/denisdubochevalier/dwl)
@@ -172,12 +172,12 @@ qtile rice * [Qtile_NotWin_Theme](https://github.com/ADVisual161/Qtile_NotWin_Th
 * [Qtile Layouts - Manage And Configure Window Layouts](https://www.youtube.com/watch?v=GmJlwVTKTmg)
 * [qtile gnome](https://docs.qtile.org/en/latest/manual/install/gnome.html)
 * [KDE + qtile](https://www.reddit.com/r/unixporn/comments/rhviab/kde_qtile_am_i_doing_tiling_wms_right/)
-* https://www.reddit.com/r/qtile/comments/ynxnvd/how_to_make_sticky_window/ * - https://www.mail-archive.com/qtile-dev@googlegroups.com/msg00983.html
-* [qtile-plasma](https://github.com/numirias/qtile-plasma) * - http://www.qtile.org/videos/ * - https://www.google.com/search?q=qtile+drop-down+window&oq=qtile+drop-down+window&aqs=chrome..69i57j33i160l2.6008j0j4&sourceid=chrome&ie=UTF-8
+* [r/qtile/comments/ynxnvd/how_to_make_sticky_window/](https://www.reddit.com/r/qtile/comments/ynxnvd/how_to_make_sticky_window/) * - [mail-archive.com/qtile-dev@googlegroups.com/msg00983.html](https://www.mail-archive.com/qtile-dev@googlegroups.com/msg00983.html)
+* [qtile-plasma](https://github.com/numirias/qtile-plasma) * - [qtile.org/videos/](http://www.qtile.org/videos/) * - [google.com/search?q=qtile+drop-down+window&oq=qtile+drop-down+window&aqs=chrome..69i57j33i160l2.6008j0j4&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=qtile+drop-down+window&oq=qtile+drop-down+window&aqs=chrome..69i57j33i160l2.6008j0j4&sourceid=chrome&ie=UTF-8)
 * [Qtile Playlist](https://www.youtube.com/playlist?list=PL8vZ_N0-ziZP1gm2-CBiCBPZNFrlge8Nb)
-* https://www.google.com/search?q=qtile+sticky+window&oq=qtile+sticky+window&aqs=chrome..69i57j69i60.10030j0j9&sourceid=chrome&ie=UTF-8 * - https://www.dioptricdesign.com/2021/08/20/qtile-chameleon-update/
+* [google.com/search?q=qtile+sticky+window&oq=qtile+sticky+window&aqs=chrome..69i57j69i60.10030j0j9&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=qtile+sticky+window&oq=qtile+sticky+window&aqs=chrome..69i57j69i60.10030j0j9&sourceid=chrome&ie=UTF-8) * - [dioptricdesign.com/2021/08/20/qtile-chameleon-update/](https://www.dioptricdesign.com/2021/08/20/qtile-chameleon-update/)
 * [Tuff Gniuz qtile Playlist](https://www.youtube.com/playlist?list=PLIHtvvGZ1O3hgLjh-Gt42-XrVmR0a4hEi)
-* [archcraft-qtile](https://github.com/archcraft-os/archcraft-qtile)/tree/main * - https://www.reddit.com/r/qtile/comments/12sdtfp/how_to_make_translucent_kde_konsole/
+* [archcraft-qtile](https://github.com/archcraft-os/archcraft-qtile)/tree/main * - [r/qtile/comments/12sdtfp/how_to_make_translucent_kde_konsole/](https://www.reddit.com/r/qtile/comments/12sdtfp/how_to_make_translucent_kde_konsole/)
 ### Stacking Window Managers
 * ( ) [2bwm](https://github.com/venam/2bwm) - A fast floating WM, with the particularity of having 2 borders, written over the XCB library and derived from mcwm.
 * ( ) [Blackbox](https://github.com/bbidulock/blackboxwm) - A fast, lightweight window manager for the X Window System, without all those annoying library dependencies.
@@ -214,7 +214,7 @@ qtile rice * [Qtile_NotWin_Theme](https://github.com/ADVisual161/Qtile_NotWin_Th
 * [r/unixporn - [taffybar/XMonad] Gtk+3 Updates to Taffybar](https://www.reddit.com/r/unixporn/comments/78zwek/taffybarxmonad_gtk3_updates_to_taffybar/)
 * [r/unixporn - [taffybar][XMonad] A little bit too much transparency](https://www.reddit.com/r/unixporn/comments/8l40iu/taffybarxmonad_a_little_bit_too_much_transparency/)
 * xmobar configs
-* https://beginners-guide-to-xmonad.readthedocs.io/configure_xmobar.html
+* [beginners-guide-to-xmonad.readthedocs.io/configure_xmobar.html](https://beginners-guide-to-xmonad.readthedocs.io/configure_xmobar.html)
 
 ## Desktop Managers + Greeters
 * (2) [lightdm](https://github.com/canonical/lightdm) (https://github.com/canonical/lightdm?)
@@ -295,7 +295,7 @@ launcher * [kando-menu/kando](https://github.com/kando-menu/kando) 
 launcher * [loungy](https://github.com/MatthiasGrandl/Loungy)
 launcher * [onagre-launcher/onagre](https://github.com/onagre-launcher/onagre)
 launcher * [rofi](https://github.com/adi1090x/rofi)
-* ( ) [albert](https://github.com/albertlauncher/albert,) https://albertlauncher.github.io/https://albertlauncher.github.io/reference/
+* ( ) [albert](https://github.com/albertlauncher/albert,) [albertlauncher.github.io/https://albertlauncher.github.io/reference/](https://albertlauncher.github.io/https://albertlauncher.github.io/reference/)
 * ( ) [albert](https://albertlauncher.github.io/) - An awesome keyboard launcher for the Linux desktop.
 * ( ) [albert](https://github.com/ManuelSchneid3r/albert)
 * ( ) [appImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of “entry point” for running and integrating AppImages.
@@ -318,7 +318,7 @@ launcher * [rofi](https://github.com/adi1090x/rofi)
 * ( ) [picom - ArchWiki](https://wiki.archlinux.org/title/picom) TODO
 * ( ) [pmenu](https://github.com/sgtpep/pmenu) - A dynamic terminal-based menu inspired by dmenu.
 * ( ) [rofi(1) — Arch manual pages](https://man.archlinux.org/man/community/rofi/rofi.1.en)
-* ( ) [rofi](https://davatorium.github.io/rofi/) → https://gist.github.com/MilesMcBain/0e6f449c3f8e07ed1b06aa785b0726ff -> vs dmenu
+* ( ) [rofi](https://davatorium.github.io/rofi/) → [gist.github.com/MilesMcBain/0e6f449c3f8e07ed1b06aa785b0726ff](https://gist.github.com/MilesMcBain/0e6f449c3f8e07ed1b06aa785b0726ff) -> vs dmenu
 * ( ) [rofi](https://github.com/adi1090x/rofi)
 * ( ) [rofi](https://github.com/davatorium/rofi) - A window switcher, application launcher and dmenu replacement.
 * ( ) [rofi/INSTALL.md at next · davatorium/rofi · GitHub](https://github.com/davatorium/rofi/blob/next/INSTALL.md)
@@ -416,7 +416,7 @@ tools * ( ) [nixGL](https://github.com/cfhammill/nixGL)
 tools * ( ) [screenkey](https://github.com/larsbrinkhoff/screenkey) - scrrencast tool 
 tools * ( ) [walker](https://github.com/abenz1267/walker)
 tools * ( ) [wayflan: From-scratch Wayland client for Common Lisp](https://sr.ht/~shunter/wayflan/)
-tools boot * ( ) [rEFInd](https://www.rodsbooks.com/refind/) - rEFInd is a fork of the rEFIt boot manager. Like rEFIt, rEFInd can auto-detect your installed EFI boot loaders and it presents a pretty GUI menu of boot options. → tools boot * great resource https://www.rodsbooks.com/refind/
+tools boot * ( ) [rEFInd](https://www.rodsbooks.com/refind/) - rEFInd is a fork of the rEFIt boot manager. Like rEFIt, rEFInd can auto-detect your installed EFI boot loaders and it presents a pretty GUI menu of boot options. → tools boot * great resource [rodsbooks.com/refind/](https://www.rodsbooks.com/refind/)
 switcher* [nChain](https://github.com/Nocxium/nChain) theme switcher
 misc * [unclutter-xfixes](https://github.com/Airblader/unclutter-xfixes), 
 misc * [xbanish](https://github.com/jcs/xbanish) 
@@ -440,9 +440,9 @@ comparison * ( ) [Comparison of extensible window managers | Sawfish | Fandom](h
 * ( ) [My Tier List For Tiling Window Managers - YouTube](https://www.youtube.com/watch?v=xysISs0mcj8)
 * ( ) [Qtile Versus i3 Window Manager](https://www.youtube.com/watch?v=vXFuhNbGgZg)
 * compare i3/sway vs qtile
-* ( ) [Linx Cast WM Playlist](https://www.youtube.com/playlist?list=PL4d6Lj0GrDEBeTLsdZ94NRZlgft-rrlQE)* best tiling window manager https://www.youtube.com/watch?v=pY9HPm1N16Y
-* ( ) [481 - ¿PROBAR UN TILING WINDOW MANAGER?¿REGOLITH, I3 O CUAL?](https://atareao.es/podcast/probar-un-tiling-window-managerregolith-i3-o-cual/)    * https://www.tecmint.com/best-tiling-window-managers-for-linux/
-* ( ) [Reddit - Best WM to start with](https://www.reddit.com/r/unixporn/comments/11m9ggz/best_wm_to_start_with/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=10&utm_content=share_button)
+* ( ) [](https://www.youtube.com/watch?v=pY9HPm1N16Y)
+* ( ) [481 - ¿PROBAR UN TILING WINDOW MANAGER?¿REGOLITH, I3 O CUAL?](https://atareao.es/podcast/probar-un-tiling-window-managerregolith-i3-o-cual/)    * [tecmint.com/best-tiling-window-managers-for-linux/](https://www.tecmint.com/best-tiling-window-managers-for-linux/)
+* ( ) [Reddit - Best WM to start with](https://www.reddit.com/r/unixporn/comments/11m9ggz/best_wm_to_start_with/)
 
 ## Screenshot
 screenshot [(https://github.com/hyprwm/contrib)](https://github.com/hyprwm/contrib/grimblast)
@@ -504,33 +504,33 @@ xwm xmonad * ( ) [ ]  [xmonad](https://xmonad.org/documentation.html) → remove
 xwm xmonad * ( ) [guide](https://beginners-guide-to-xmonad.readthedocs.io/index.html)
 xwm xmonad * ( ) [→ install](https://xmonad.org/INSTALL.html)
 * ( ) [ragnar](https://github.com/cococry/ragnar) X twm
-* ( ) [stumpwm](https://github.com/stumpwm/stumpwm) http://stumpwm.github.io/ (X11, CL)
-* https://pypi.org/project/xpywm/
+* ( ) [stumpwm](https://github.com/stumpwm/stumpwm) [stumpwm.github.io/](http://stumpwm.github.io/) (X11, CL)
+* [pypi.org/project/xpywm/](https://pypi.org/project/xpywm/)
 * ( ) [bspwm](https://github.com/baskerville/bspwm)
-* [wiki](https://github.com/baskerville/bspwm/wiki) - Bspwm is a tiling window manager that represents windows as the leaves of a full binary tree. https://wiki.archlinux.org/title/bspwm
+* [wiki](https://github.com/baskerville/bspwm/wiki) - Bspwm is a tiling window manager that represents windows as the leaves of a full binary tree. [wiki.archlinux.org/title/bspwm](https://wiki.archlinux.org/title/bspwm)
 * ( ) [awesome](https://awesomewm.org/) - A highly configurable, next generation framework window manager for X.
 * ( ) [dwm](https://dwm.suckless.org/) - A dynamic window manager for X. It manages windows in tiled, monocle and floating layouts.
 * ( ) [spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11, largely inspired by xmonad and dwm.
 * ( ) [Worm](https://github.com/codic12/worm) - A dynamic, tag-based window manager written in Nim.
 * ( ) [xmonad](https://xmonad.org/) - A dynamically tiling X11 window manager that is written and configured in Haskell.
 * ( ) [Herbstluftwm](https://herbstluftwm.org/) - Is a Manual tiling window manager for X11 using Xlib and Glib.
-* ( ) [i3 WM](https://i3wm.org/) - A better tiling and dynamic window manager. It’s completely written from scratch. The target platforms are GNU/Linux and BSD operating systems. https://i3wm.org/docs/userguide.html  https://i3wm.org/docs/ [i3wm](https://i3wm.org/docs/) https://dev.to/t/i3wm https://i3wm.org/docs/layout-saving.html https://itsfoss.com/i3-customization/
+* ( ) [i3 WM](https://i3wm.org/) - A better tiling and dynamic window manager. It’s completely written from scratch. The target platforms are GNU/Linux and BSD operating systems. [i3wm.org/docs/userguide.html](https://i3wm.org/docs/userguide.html)  [i3wm.org/docs/](https://i3wm.org/docs/) [i3wm](https://i3wm.org/docs/) [dev.to/t/i3wm](https://dev.to/t/i3wm) [i3wm.org/docs/layout-saving.html](https://i3wm.org/docs/layout-saving.html) [itsfoss.com/i3-customization/](https://itsfoss.com/i3-customization/)
 * [i3-gaps](https://github.com/Airblader/i3) - i3-gaps is i3 with more features.
 * [i3-autolayout](https://github.com/BiagioFesta/i3-autolayout)
 * [i3-alternating](https://github.com/nowakf/i3-alternating)
 * [i3-layout-manager](https://github.com/klaxalk/i3-layout-manager)
-* https://codeberg.org/Oglo12/personal-i3-config/ * - https://www.reddit.com/r/i3wm/
+* [codeberg.org/Oglo12/personal-i3-config/](https://codeberg.org/Oglo12/personal-i3-config/) * - [r/i3wm/](https://www.reddit.com/r/i3wm/)
 * [i3wm playlist](https://www.youtube.com/playlist?list=PL5ze0DjYv5DbCv9vNEzFmP6sU7ZmkGzcf) (Alex Booker)
 * [i3 mouseless](https://thevaluable.dev/i3-config-mouseless/)
 * [arch wiki](https://wiki.archlinux.org/title/i3)
-* https://www.reddit.com/r/linux/comments/rpzur6/i3_is_the_best_window_manager/
+* [r/linux/comments/rpzur6/i3_is_the_best_window_manager/](https://www.reddit.com/r/linux/comments/rpzur6/i3_is_the_best_window_manager/)
 * [i3 Windows Manager with XFCE using MX Linux distribution](https://www.youtube.com/watch?v=MMRVG9jk_M0&t=128s)**
 * ( ) [leftwm](http://leftwm.org/)
 * [leftwm](https://github.com/leftwm/leftwm)
 * ( ) [i3 vs qtile](https://www.reddit.com/r/unixporn/comments/enshqt/i3_or_qtile/)
 * ( ) [Qtile on Ubuntu](https://www.youtube.com/watch?v=Y1busy_dDRQ)
-* ( ) [xmonad](https://xmonad.org/) xmonad https://www.youtube.com/watch?v=JLz3UKJFMoI* - xmonad dt: https://www.youtube.com/watch?v=5oBT0a25FyA [XMonad Demo - YouTube](https://www.youtube.com/watch?v=70IxjLEmomg)
-* [XMonad config](https://github.com/NeshHari/XMonad) https://xmonad.org/gnome.html
+* ( ) [](https://www.youtube.com/watch?v=JLz3UKJFMoI*) - xmonad dt: [](https://www.youtube.com/watch?v=5oBT0a25FyA) [XMonad Demo - YouTube](https://www.youtube.com/watch?v=70IxjLEmomg)
+* [XMonad config](https://github.com/NeshHari/XMonad) [xmonad.org/gnome.html](https://xmonad.org/gnome.html)
 * [XMonad Configuration Tutorial | xmonad - the tiling window manager that rocks](https://xmonad.org/TUTORIAL.html)
 * ( ) [herbstluftwm/herbstluftwm: A manual tiling window manager for X11](https://github.com/herbstluftwm/herbstluftwm)
 * [Combine The Best of Bspwm and XMonad, You Get Herbstluftwm! - YouTube](https://www.youtube.com/watch?v=eEmOy3qzrcg)
@@ -545,36 +545,36 @@ xwm xmonad * ( ) [→ install](https://xmonad.org/INSTALL.html)
 * weston*
 
 ### Wayland, X11, WM Information
-* https://wayland.app/protocols/
-* https://wayland.freedesktop.org/docs/html/
-* https://www.cbtnuggets.com/blog/technology/networking/why-use-wayland-versus-x11
+* [wayland.app/protocols/](https://wayland.app/protocols/)
+* [wayland.freedesktop.org/docs/html/](https://wayland.freedesktop.org/docs/html/)
+* [cbtnuggets.com/blog/technology/networking/why-use-wayland-versus-x11](https://www.cbtnuggets.com/blog/technology/networking/why-use-wayland-versus-x11)
 * ( ) [Thesis](https://www.cs.ru.nl/bachelors-theses/2019/Max_van_Deurzen___4581903___The_anatomy_of_the_modern_window_manager_-_a_case_study_for_X_in_an_Agile_manner.pdf)
 * Wayland vs X*
-- https://bbs.archlinux.org/viewtopic.php?id=238376
+- [bbs.archlinux.org/viewtopic.php?id=238376](https://bbs.archlinux.org/viewtopic.php?id=238376)
 - [Wayland vs X11](https://youtu.be/nPz5TAGYgzA)
-* [https://en.wikipedia.org/wiki/Wayland_(protocol)](https://en.wikipedia.org/wiki/Wayland_(protocol)) vs X11?*
+* [en.wikipedia.org/wiki/Wayland_(protocol)](https://en.wikipedia.org/wiki/Wayland_(protocol)) vs X11?*
   - Wayland Apps
   - [wtype](https://github.com/atx/wtype)
 * ydotool](https://github.com/ReimuNotMoe/ydotool)
-* LeftWM - A Fast and Simple Xmonad Alternative - YouTube](https://www.youtube.com/watch?v=jvfk380Pses)*         guake for wayland?*         - https://askubuntu.com/questions/956640/equivalent-to-xdotool-for-wayland#977801*
-- https://unix.stackexchange.com/questions/309580/does-wayland-use-xkb-for-keyboard-layouts
+* LeftWM - A Fast and Simple Xmonad Alternative - YouTube](https://www.youtube.com/watch?v=jvfk380Pses)*         guake for wayland?*         - [askubuntu.com/questions/956640/equivalent-to-xdotool-for-wayland#977801*](https://askubuntu.com/questions/956640/equivalent-to-xdotool-for-wayland#977801*)
+- [unix.stackexchange.com/questions/309580/does-wayland-use-xkb-for-keyboard-layouts](https://unix.stackexchange.com/questions/309580/does-wayland-use-xkb-for-keyboard-layouts)
 - [I wonder what will happen to XMonad as the Wayland future actually seems to be a... | Hacker News](https://news.ycombinator.com/item?id=28794901)
 *swhkd](https://github.com/waycrate/swhkd)
 * ( ) [****A Comprehensive Guide To Tiling Window Managers](https://www.youtube.com/watch?v=Obzf9ppODJU&t=717s)
-* http://www.xwinman.org/
+* [xwinman.org/](http://www.xwinman.org/)
 * ( ) [X Protocol Reference Manual for X11, Release 6 (Definitive Guide to X Window System, Vol. 0) (Definitive Guides to the X Window System)](http://library.lol/main/01D1783574EC32A48D6FF44FAC825C18)
 * ( ) [The anatomy of the modern window manager](http://library.lol/main/C392F948ADD053F40ABE01AACE37ED57)
-* https://eirenicon.org/implementing-linux-window-managers-tutorial/
-* http://www.xwinman.org/others.php
-* https://userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma
+* [eirenicon.org/implementing-linux-window-managers-tutorial/](https://eirenicon.org/implementing-linux-window-managers-tutorial/)
+* [xwinman.org/others.php](http://www.xwinman.org/others.php)
+* [userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma](https://userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma)
 * → Xorg vs Wayland vs Arcan
 * How to set up dropdown windows with a tiling window manager?
 * ( ) [A Look Inside Mutter / GNOME Shell](https://lpc.events/event/7/contributions/834/attachments/684/1263/A_Look_Inside_Mutter.pdf)
-* https://www.x.org/releases/X11R7.5/doc/man/man1/xprop.1.html
-* https://wiki.archlinux.org/title/Xorg#Composite
+* [x.org/releases/X11R7.5/doc/man/man1/xprop.1.html](https://www.x.org/releases/X11R7.5/doc/man/man1/xprop.1.html)
+* [wiki.archlinux.org/title/Xorg#Composite](https://wiki.archlinux.org/title/Xorg#Composite)
 * ( ) [How to build a window manager in Python](https://monroeclinton.com/build-your-own-window-manager/)
 * ( ) [xorg documentation](https://www.x.org/wiki/Documentation/)
-* https://wiki.archlinux.org/title/Window_manager
+* [wiki.archlinux.org/title/Window_manager](https://wiki.archlinux.org/title/Window_manager)
 * ( ) [Why I Use Tiling Window Managers - And Why You Should Too - YouTube](https://www.youtube.com/watch?v=K_W0ia2QjU8)
 * ( ) [wayland](https://wayland.freedesktop.org/)
 * [wayland protocols](https://wayland.app/protocols/)

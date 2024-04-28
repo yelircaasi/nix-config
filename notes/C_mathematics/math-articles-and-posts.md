@@ -13,12 +13,12 @@ wiki Algebra Astratta
 * [Dummies for Dummies](http://davegiles.blogspot.com/2011/03/dummies-for-dummies.html)
 
 
-* https://www.spektrum.de/thema/topologie/1647072
-* https://en.wikipedia.org/wiki/Trigonometric_functions
+* [spektrum.de/thema/topologie/1647072](https://www.spektrum.de/thema/topologie/1647072)
+* [en.wikipedia.org/wiki/Trigonometric_functions](https://en.wikipedia.org/wiki/Trigonometric_functions)
 
-* https://en.wikipedia.org/wiki/Grassmann_number
-* https://medium.com/coffee-in-a-klein-bottle
-* [https://en.wikipedia.org/wiki/Phase_(waves)](https://en.wikipedia.org/wiki/Phase_(waves))
+* [en.wikipedia.org/wiki/Grassmann_number](https://en.wikipedia.org/wiki/Grassmann_number)
+* [medium.com/coffee-in-a-klein-bottle](https://medium.com/coffee-in-a-klein-bottle)
+* [en.wikipedia.org/wiki/Phase_(waves)](https://en.wikipedia.org/wiki/Phase_(waves))
 * [Fourier Transforms Properties](https://www.tutorialspoint.com/signals_and_systems/fourier_transforms_properties.htm)
 * [Properties of Fourier Transform - GeeksforGeeks](https://www.geeksforgeeks.org/properties-of-fourier-transform/)
 * [An Interactive Guide To The Fourier Transform – BetterExplained](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
@@ -29,9 +29,9 @@ wiki Algebra Astratta
 * [Intuitive Understanding Of Euler’s Formula – BetterExplained](https://betterexplained.com/articles/intuitive-understanding-of-eulers-formula/)
 * [Short-time Fourier transform - Wikipedia](https://en.wikipedia.org/wiki/Short-time_Fourier_transform)
 * [The Math That Says Egalitarianism Is Possible - Issue 104: Harmony - Nautilus](https://nautil.us/issue/104/harmony/the-math-that-says-egalitarianism-is-possible)
-* https://analyticsindiamag.com/top-10-libraries-in-c-c-for-machine-learning/
-* https://www.privatdozent.co/p/john-f-nash-jrs-game-of-hex
-* https://www.privatdozent.co/p/the-anarchist-abstractionist-who-995
+* [analyticsindiamag.com/top-10-libraries-in-c-c-for-machine-learning/](https://analyticsindiamag.com/top-10-libraries-in-c-c-for-machine-learning/)
+* [privatdozent.co/p/john-f-nash-jrs-game-of-hex](https://www.privatdozent.co/p/john-f-nash-jrs-game-of-hex)
+* [privatdozent.co/p/the-anarchist-abstractionist-who-995](https://www.privatdozent.co/p/the-anarchist-abstractionist-who-995)
 1s $$$  * [linear algebra - The longest list of analogies between vector spaces and categories ever made - Mathematics Stack Exchange](https://math.stackexchange.com/questions/2500480/the-longest-list-of-analogies-between-vector-spaces-and-categories-ever-made)
 1s $$$ * [Artificial Intelligence Blog · 100 Most useful Theorems and Ideas in Mathematics](http://artent.net/2012/11/27/100-most-useful-theorems-and-ideas-in-mathematics/)
 1s $$$ * [Statistical Inference: The Big Picture](http://www.stat.cmu.edu/~kass/papers/bigpic.pdf)
@@ -81,7 +81,7 @@ wiki Algebra Astratta
 1s * [From Principal Subspaces to Principal Components with Linear Autoencoders](https://arxiv.org/pdf/1804.10253.pdf)
 1s * [Frontiers of Physics: Interactive Map](https://www.quantamagazine.org/frontier-of-physics-interactive-map-20150803)
 1s * [Gradient descent vs. neuroevolution - Towards Data Science](https://towardsdatascience.com/gradient-descent-vs-neuroevolution-f907dace010f)
-1s * [Graph Theory to Solve Sudokus](https://www.reddit.com/r/Julia/comments/d425xp/using_graph_theory_for_solving_sudokus/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+1s * [Graph Theory to Solve Sudokus](https://www.reddit.com/r/Julia/comments/d425xp/using_graph_theory_for_solving_sudokus/)
 1s * [HOW DO I INTERPRET ODDS RATIOS](http://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-how-do-i-interpret-odds-ratios-in-logistic-regression/)
 1s * [Henrietta Swan Leavitt, la “calcolatrice” di Harvard che ha capito come misurare l’universo](https://www.reddit.com/r/ScienzaItalia/comments/alsa9w/henrietta_swan_leavitt_la_calcolatrice_di_harvard/)
 1s * [Hermann Weyl](https://de1lib.org/s/hermann%20weyl)
@@ -132,42 +132,42 @@ wiki Algebra Astratta
 1s * [funny Hopf tweet](https://twitter.com/elizabethmunch/status/1306951468986052609?s=20)
 1s * [game-theory-IESDS-generator/IESDS.py at master · Ryan-Holben/game-theory-IESDS-generator](https://github.com/Ryan-Holben/game-theory-IESDS-generator/blob/master/IESDS.py)
 1s * [http://webéducation.com/wp-content/uploads/2018/11/3000-Solved-Problems-in-Linear-Algebra.pdf](http://xn--webducation-dbb.com/wp-content/uploads/2018/11/3000-Solved-Problems-in-Linear-Algebra.pdf)
-1s * [https://en.wikipedia.org/wiki/Algebraic_structure](https://en.wikipedia.org/wiki/Algebraic_structure?wprov=sfti1)
-1s * [https://ru.wikipedia.org/wiki/Анатольев,_Станислав_Анатольевич](https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%8C%D0%B5%D0%B2,_%D0%A1%D1%82%D0%B0%D0%BD%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87) (econometrics RU)
+1s * [en.wikipedia.org/wiki/Algebraic_structure](https://en.wikipedia.org/wiki/Algebraic_structure?wprov=sfti1)
+1s * [ru.wikipedia.org/wiki/Анатольев,_Станислав_Анатольевич](https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%8C%D0%B5%D0%B2,_%D0%A1%D1%82%D0%B0%D0%BD%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87) (econometrics RU)
 1s * [il teorema di Bayes](http://dctf.uniroma1.it/galenotech/bayes.htm)
 1s * [lattices - MathStructures](http://math.chapman.edu/~jipsen/structures/doku.php/lattices)
 1s * [sinusoid - Поиск в Google](https://www.google.com/search?q=sinusoid&rlz=1C1GCEA_enUS813US813&oq=sinusoid&aqs=chrome..69i57j0l5.1632j0j7&sourceid=chrome&ie=UTF-8)
-1s * [what are the fields a person with a math degree is expected to be proficient in regardless of the branch they wanna specialize in?](https://www.reddit.com/r/learnmath/comments/f02mgz/what_are_the_fields_a_person_with_a_math_degree/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+1s * [what are the fields a person with a math degree is expected to be proficient in regardless of the branch they wanna specialize in?](https://www.reddit.com/r/learnmath/comments/f02mgz/what_are_the_fields_a_person_with_a_math_degree/)
 1s * [«Николай Лобачевский» (1983)](https://vk.com/video-6827569_456239648?list=4cf5b5717e28c2e66a)
 1s * [Ça fait longtemps, donc petit thread sur une propriété assez intéressante des polynômes !](https://twitter.com/Crimir4/status/1291628583241252865?s=20)
 1s * [Математический анализ | Федор Петров](https://vk.com/wall-138477641_13054)
 1s * [Статистическая среда R](http://ashipunov.info/shipunov/software/r/)
 1s * [‘Amazing’ Math Bridge Extended Beyond Fermat’s Last Theorem | Quanta Magazine](https://www.quantamagazine.org/amazing-math-bridge-extended-beyond-fermats-last-theorem-20200406/)
-1s * http://wirtschaftslexikon.gabler.de/Fokus/Stichwort/Unm%C3%B6glichkeitstheorem.html
-1s * http://www.datasciencecentral.com/profiles/blogs/10-types-of-regressions-which-one-to-use
-1s * http://www.matheboard.de/archive/454746/thread.html
-1s * http://www.mathepedia.de/Hauptsatz.aspx
-1s * http://www.mesosworld.ch/joomla/lerninhalte/
-1s * http://www.methodenberatung.uzh.ch/de.html
-1s * http://www.statalist.org/forums/
-1s * http://www.swisseduc.ch/mathematik/analysis/paradoxien_analysis/docs/paradoxien_analysis.pdf
-1s * https://amp.theguardian.com/commentisfree/2015/aug/28/forty-thousand-years-of-indigenous-maths-can-get-kids-into-numbers-today
-1s * https://ar.wikipedia.org/wiki/%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1
-1s * https://de.wikipedia.org/wiki/Fundamentalsatz_der_Analysis
-1s * https://economics.mit.edu/faculty/angrist/data1/data/angrist90
-1s * https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem#Informal_proof
-1s * https://en.wikipedia.org/wiki/Bilinear_interpolation
-1s * https://en.wikipedia.org/wiki/Natural_logarithm_of_2
-1s * https://mathoverflow.net/questions/19152/why-is-a-topology-made-up-of-open-sets
-1s * https://news.ycombinator.com/item?id=16750789
-1s * https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/
-1s * https://www.bollatiboringhieri.it/libri/enrico-giusti-la-matematica-in-cucina-9788833937120/
-1s * https://www.google.com/search?q=great+female+mathematicians&rlz=1C5CHFA_enUS841US841&oq=great+female+mathematicians&aqs=chrome..69i57j0j0i22i30l6.4522j0j7&sourceid=chrome&ie=UTF-8
-1s * https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=pseudopanels
-1s * https://www.privatdozent.co/p/the-unparalleled-genius-of-john-von-beb
-1s * https://www.r-bloggers.com/lang/add-your-blog
-1s * https://www.wired.com/2014/09/curvature-and-strength-empzeal/
-1s * https://www.wiwi.hu-berlin.de/de/professuren/quantitativ/oe/old-files/lectures/applied/kap1.pdf
+1s * [wirtschaftslexikon.gabler.de/Fokus/Stichwort/Unm%C3%B6glichkeitstheorem.html](http://wirtschaftslexikon.gabler.de/Fokus/Stichwort/Unm%C3%B6glichkeitstheorem.html)
+1s * [datasciencecentral.com/profiles/blogs/10-types-of-regressions-which-one-to-use](http://www.datasciencecentral.com/profiles/blogs/10-types-of-regressions-which-one-to-use)
+1s * [matheboard.de/archive/454746/thread.html](http://www.matheboard.de/archive/454746/thread.html)
+1s * [mathepedia.de/Hauptsatz.aspx](http://www.mathepedia.de/Hauptsatz.aspx)
+1s * [mesosworld.ch/joomla/lerninhalte/](http://www.mesosworld.ch/joomla/lerninhalte/)
+1s * [methodenberatung.uzh.ch/de.html](http://www.methodenberatung.uzh.ch/de.html)
+1s * [statalist.org/forums/](http://www.statalist.org/forums/)
+1s * [swisseduc.ch/mathematik/analysis/paradoxien_analysis/docs/paradoxien_analysis.pdf](http://www.swisseduc.ch/mathematik/analysis/paradoxien_analysis/docs/paradoxien_analysis.pdf)
+1s * [amp.theguardian.com/commentisfree/2015/aug/28/forty-thousand-years-of-indigenous-maths-can-get-kids-into-numbers-today](https://amp.theguardian.com/commentisfree/2015/aug/28/forty-thousand-years-of-indigenous-maths-can-get-kids-into-numbers-today)
+1s * [ar.wikipedia.org/wiki/%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1](https://ar.wikipedia.org/wiki/%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1)
+1s * [de.wikipedia.org/wiki/Fundamentalsatz_der_Analysis](https://de.wikipedia.org/wiki/Fundamentalsatz_der_Analysis)
+1s * [economics.mit.edu/faculty/angrist/data1/data/angrist90](https://economics.mit.edu/faculty/angrist/data1/data/angrist90)
+1s * [en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem#Informal_proof](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem#Informal_proof)
+1s * [en.wikipedia.org/wiki/Bilinear_interpolation](https://en.wikipedia.org/wiki/Bilinear_interpolation)
+1s * [en.wikipedia.org/wiki/Natural_logarithm_of_2](https://en.wikipedia.org/wiki/Natural_logarithm_of_2)
+1s * [mathoverflow.net/questions/19152/why-is-a-topology-made-up-of-open-sets](https://mathoverflow.net/questions/19152/why-is-a-topology-made-up-of-open-sets)
+1s * [news.ycombinator.com/item?id=16750789](https://news.ycombinator.com/item?id=16750789)
+1s * [analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/)
+1s * [bollatiboringhieri.it/libri/enrico-giusti-la-matematica-in-cucina-9788833937120/](https://www.bollatiboringhieri.it/libri/enrico-giusti-la-matematica-in-cucina-9788833937120/)
+1s * [google.com/search?q=great+female+mathematicians&rlz=1C5CHFA_enUS841US841&oq=great+female+mathematicians&aqs=chrome..69i57j0j0i22i30l6.4522j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=great+female+mathematicians&rlz=1C5CHFA_enUS841US841&oq=great+female+mathematicians&aqs=chrome..69i57j0j0i22i30l6.4522j0j7&sourceid=chrome&ie=UTF-8)
+1s * [google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=pseudopanels](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=pseudopanels)
+1s * [privatdozent.co/p/the-unparalleled-genius-of-john-von-beb](https://www.privatdozent.co/p/the-unparalleled-genius-of-john-von-beb)
+1s * [r-bloggers.com/lang/add-your-blog](https://www.r-bloggers.com/lang/add-your-blog)
+1s * [wired.com/2014/09/curvature-and-strength-empzeal/](https://www.wired.com/2014/09/curvature-and-strength-empzeal/)
+1s * [wiwi.hu-berlin.de/de/professuren/quantitativ/oe/old-files/lectures/applied/kap1.pdf](https://www.wiwi.hu-berlin.de/de/professuren/quantitativ/oe/old-files/lectures/applied/kap1.pdf)
 1s * Лекция 1 Первообразная и неопределенный интегралde Александр Волков
 1s - How do we show that GLS doesn’t affect A0? (proof that GLS is blue)
 1s - What does RESET look like? To which side do we add y^2 and y^3?
@@ -180,9 +180,9 @@ wiki Algebra Astratta
 1s - [simuleios/visualization at master · leios/simuleios](https://github.com/leios/simuleios/tree/master/visualization)**
 1s LA * [handson-ml/math_linear_algebra.ipynb at master · ageron/handson-ml](https://github.com/ageron/handson-ml/blob/master/math_linear_algebra.ipynb)
 1s Prime Obsession (2003)
-1s clustering * http://econweb.umd.edu/~sarzosa/teach/2/Disc2_Cluster_handout.pdf
-1s clustering * http://projects.iq.harvard.edu/files/gov2001/files/sesection_5.pdf
-1s meta * https://proglib.io/p/how-to-learn-math
+1s clustering * [econweb.umd.edu/~sarzosa/teach/2/Disc2_Cluster_handout.pdf](http://econweb.umd.edu/~sarzosa/teach/2/Disc2_Cluster_handout.pdf)
+1s clustering * [projects.iq.harvard.edu/files/gov2001/files/sesection_5.pdf](http://projects.iq.harvard.edu/files/gov2001/files/sesection_5.pdf)
+1s meta * [proglib.io/p/how-to-learn-math](https://proglib.io/p/how-to-learn-math)
 1s nn * [Backpropagation calculus Chapter 4, Deep learning](https://click.convertkit-mail2.com/qdu5x24eges7hmzgv4hl/3ohphkhqq6269mbr/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj10SWVITG5qczVVOA==)
 1s regr * [5.4 - A Matrix Formulation of the Multiple Regression Model | STAT 501](https://onlinecourses.science.psu.edu/stat501/node/382)
 1s regr * [MatrixModel.pdf](http://pages.stern.nyu.edu/~gsimon/B902301Page/CLASS02_24FEB10/MatrixModel.pdf)
@@ -199,15 +199,15 @@ wiki Algebra Astratta
 * [A Mathematical Foundation of Big Data](https://www.researchgate.net/publication/309035353_A_Mathematical_Foundation_of_Big_Data)
 * [AJ Hildebrand - Excellent Resources](https://faculty.math.illinois.edu/~hildebr/)
 * [Alle Videos zu Vorlesungen von Prof. Dr. Edmund Weitz](http://weitz.de/haw-videos/)
-* https://www.google.com/search?q=why+does+math+describe+the+universe
+* [google.com/search?q=why+does+math+describe+the+universe](https://www.google.com/search?q=why+does+math+describe+the+universe)
 
-* http://www.laviedesidees.fr/A-quoi-sert-la-theorie-des-jeux.html
-* http://www.podcastscience.fm/dossiers/2012/02/22/dossier-linfini-quand-il-ny-en-a-plus-il-y-a-cantor/
-* https://terrytao.wordpress.com/career-advice/there%E2%80%99s-more-to-mathematics-than-rigour-and-proofs/
-* https://well.blogs.nytimes.com/2016/07/05/when-a-child-thinks-life-is-unfair-use-game-theory/?WT.mc_id=2016-KWP-AUD_DEV&WT.mc_ev=click&ad-keywords=AUDDEVREMARK&kwp_0=177874&kwp_4=724536&kwp_1=365636&_r=0
-* https://www.pourlascience.fr/sd/mathematiques/medaille-fields-peter-scholze-loracle-de-larithmetique-14428.php?fbclid=IwAR2hhlRsCqjwWMwJHSJTkTHCzlfyOZ3on-1rkEecsT2RBx0jE_GQVGWLoLs
-* https://www.reddit.com/r/philosophy/comments/9szlke/how_applied_mathematics_became_pure_voted_one_of/?st=JNY3LXEL&sh=9f8b107e
-* https://www.welt.de/print/wams/wissen/article141694179/Mathematiker-rechnen-nicht.html
+* [laviedesidees.fr/A-quoi-sert-la-theorie-des-jeux.html](http://www.laviedesidees.fr/A-quoi-sert-la-theorie-des-jeux.html)
+* [podcastscience.fm/dossiers/2012/02/22/dossier-linfini-quand-il-ny-en-a-plus-il-y-a-cantor/](http://www.podcastscience.fm/dossiers/2012/02/22/dossier-linfini-quand-il-ny-en-a-plus-il-y-a-cantor/)
+* [terrytao.wordpress.com/career-advice/there%E2%80%99s-more-to-mathematics-than-rigour-and-proofs/](https://terrytao.wordpress.com/career-advice/there%E2%80%99s-more-to-mathematics-than-rigour-and-proofs/)
+* [well.blogs.nytimes.com/2016/07/05/when-a-child-thinks-life-is-unfair-use-game-theory/?WT.mc_id=2016-KWP-AUD_DEV&WT.mc_ev=click&ad-keywords=AUDDEVREMARK&kwp_0=177874&kwp_4=724536&kwp_1=365636&_r=0](https://well.blogs.nytimes.com/2016/07/05/when-a-child-thinks-life-is-unfair-use-game-theory/?WT.mc_id=2016-KWP-AUD_DEV&WT.mc_ev=click&ad-keywords=AUDDEVREMARK&kwp_0=177874&kwp_4=724536&kwp_1=365636&_r=0)
+* [pourlascience.fr/sd/mathematiques/medaille-fields-peter-scholze-loracle-de-larithmetique-14428.php?fbclid=IwAR2hhlRsCqjwWMwJHSJTkTHCzlfyOZ3on-1rkEecsT2RBx0jE_GQVGWLoLs](https://www.pourlascience.fr/sd/mathematiques/medaille-fields-peter-scholze-loracle-de-larithmetique-14428.php?fbclid=IwAR2hhlRsCqjwWMwJHSJTkTHCzlfyOZ3on-1rkEecsT2RBx0jE_GQVGWLoLs)
+* [r/philosophy/comments/9szlke/how_applied_mathematics_became_pure_voted_one_of/?st=JNY3LXEL&sh=9f8b107e](https://www.reddit.com/r/philosophy/comments/9szlke/how_applied_mathematics_became_pure_voted_one_of/?st=JNY3LXEL&sh=9f8b107e)
+* [welt.de/print/wams/wissen/article141694179/Mathematiker-rechnen-nicht.html](https://www.welt.de/print/wams/wissen/article141694179/Mathematiker-rechnen-nicht.html)
 
 * [Representation Theory](https://klein.mit.edu/~etingof/replect.pdf)
 - [* Transformée et séries de Fourier](http://villemin.gerard.free.fr/Wwwgvmm/Analyse/Fourier.htm)
@@ -224,7 +224,7 @@ wiki Algebra Astratta
 
 * [MATHEMATICS OF THE DISCRETE FOURIER TRANSFORM (DFT) WITH AUDIO APPLICATIONS SECOND EDITION](https://ccrma.stanford.edu/~jos/mdft/)
 * [Практический курс дифференциальных уравнений и математического моделирования](https://vk.com/doc44301783_510494403?hash=443d5b808c0221731e&dl=40d4d4f84f6b92049f)
-* http://www.math.ucla.edu/~tao/preprints/compactness.pdf
+* [math.ucla.edu/~tao/preprints/compactness.pdf](http://www.math.ucla.edu/~tao/preprints/compactness.pdf)
 * [1. A Single Equation That Rules the World](https://medium.com/cantors-paradise/a-single-equation-that-rules-the-world-7673d4e5c359)
 * [2. Richard Feynman’s Integration Trick](https://medium.com/cantors-paradise/richard-feynmans-integral-trick-e7afae85e25c)
 * [3. Visualizing Mathematical Equations and Operations](https://medium.com/cantors-paradise/visualizing-mathematical-equations-and-operations-bb0698ee8f44)
@@ -257,58 +257,58 @@ How Richard Feynman Reinvented Quantum Theory’ by Marco Tavora
 ‘A Single Equation that Rules the World’ by Samrat Dutta
 * [Must-do math for Competitive Programming](https://www.codingninjas.com/blog/2020/07/27/must-do-math-for-competitive-programming/)
 * [permutations with restrictions on movement](https://www.google.com/search?q=number+of+permutations+with+limit+on+movement&rlz=1CDGOYI_enUS835US835&oq=number+of+permutations+with+limit+on+movement&aqs=chrome..69i57.17314j1j7&hl=it&sourceid=chrome-mobile&ie=UTF-8)
-* http://math-blog.com/
-* http://kleinerdrei.org/2014/03/sieben-podcast-empfehlungen/
-* http://www.alleng.ru/edu/math9.htm
-* http://www.alleng.ru/edu/ped2.htm
-* http://www.alleng.ru/d/math/math357.htm
+* [math-blog.com/](http://math-blog.com/)
+* [kleinerdrei.org/2014/03/sieben-podcast-empfehlungen/](http://kleinerdrei.org/2014/03/sieben-podcast-empfehlungen/)
+* [alleng.ru/edu/math9.htm](http://www.alleng.ru/edu/math9.htm)
+* [alleng.ru/edu/ped2.htm](http://www.alleng.ru/edu/ped2.htm)
+* [alleng.ru/d/math/math357.htm](http://www.alleng.ru/d/math/math357.htm)
 
-* [https://search.lib.byu.edu/byu/search?q=Mathematics+for+Economists&date[]=2000-2016](https://search.lib.byu.edu/byu/search?q=Mathematics+for+Economists&date[]=2000-2016)
-* http://matem.anrb.ru/ru/useful7
-* http://eqworld.ipmnet.ru/ru/info/sci-edu/jour_popul.htm
-* http://www.mathnet.ru/ej.phtml?option_lang=rus
-* https://www.emis.de/projects/index.html
+* [search.lib.byu.edu/byu/search?q=Mathematics+for+Economists&date[]=2000-2016](https://search.lib.byu.edu/byu/search?q=Mathematics+for+Economists&date[]=2000-2016)
+* [matem.anrb.ru/ru/useful7](http://matem.anrb.ru/ru/useful7)
+* [eqworld.ipmnet.ru/ru/info/sci-edu/jour_popul.htm](http://eqworld.ipmnet.ru/ru/info/sci-edu/jour_popul.htm)
+* [mathnet.ru/ej.phtml?option_lang=rus](http://www.mathnet.ru/ej.phtml?option_lang=rus)
+* [emis.de/projects/index.html](https://www.emis.de/projects/index.html)
 
 * [About - Project Euler](https://projecteuler.net/)
-* [https://www.quantamagazine.org/search?q[s]=chaos%20theory](https://www.quantamagazine.org/search?q[s]=chaos%20theory)
+* [quantamagazine.org/search?q[s]=chaos%20theory](https://www.quantamagazine.org/search?q[s]=chaos%20theory)
 * [The polymath blog | Massively collaborative mathematical projects](https://polymathprojects.org/)
-* https://ipvs.informatik.uni-stuttgart.de/mlr/marc/teaching/19-Maths/
-* https://ipvs.informatik.uni-stuttgart.de/mlr/basic-maths-reference/
-* https://ipvs.informatik.uni-stuttgart.de/mlr/teaching/mathematics-for-intelligent-systems/
-* https://ipvs.informatik.uni-stuttgart.de/mlr/teaching/maths/
+* [ipvs.informatik.uni-stuttgart.de/mlr/marc/teaching/19-Maths/](https://ipvs.informatik.uni-stuttgart.de/mlr/marc/teaching/19-Maths/)
+* [ipvs.informatik.uni-stuttgart.de/mlr/basic-maths-reference/](https://ipvs.informatik.uni-stuttgart.de/mlr/basic-maths-reference/)
+* [ipvs.informatik.uni-stuttgart.de/mlr/teaching/mathematics-for-intelligent-systems/](https://ipvs.informatik.uni-stuttgart.de/mlr/teaching/mathematics-for-intelligent-systems/)
+* [ipvs.informatik.uni-stuttgart.de/mlr/teaching/maths/](https://ipvs.informatik.uni-stuttgart.de/mlr/teaching/maths/)
 
 
 * [Matrix Calculus for DL](https://explained.ai/matrix-calculus/index.html#sec2)
 * [Recursi MA IT](https://dmi.units.it/~tironi/#matdid)
-* https://www.engineeringmathgeek.com/category/advanced-engineering-mathematics/
-* https://pnp.mathematik.uni-stuttgart.de/igt/eiserm/lehre/HM3/
+* [engineeringmathgeek.com/category/advanced-engineering-mathematics/](https://www.engineeringmathgeek.com/category/advanced-engineering-mathematics/)
+* [pnp.mathematik.uni-stuttgart.de/igt/eiserm/lehre/HM3/](https://pnp.mathematik.uni-stuttgart.de/igt/eiserm/lehre/HM3/)
 
 * [El Dios de los matemáticos y otras consideraciones (LIBROS DE LA UNIDAD. Libro de los Cuadrados) (Spanish Edition)](https://www.amazon.com/matem%C3%A1ticos-consideraciones-UNIDAD-Cuadrados-Spanish/dp/1520791445/ref=sr_1_9?ie=UTF8&qid=1490621272&sr=8-9&keywords=Libro+di+psicologia)
 * [Mathematisches Wörterbuch: deutsch-englisch](https://www.henked.de/maple/woerterbuch.htm)
 * [Mathematisches Wörterbuch: deutsch-englisch](https://www.henked.de/maple/woerterbuch.htm)
-* [www.cogsci.ucsd.edu/~nunez/web/MAAreply.pdf](http://www.cogsci.ucsd.edu/~nunez/web/MAAreply.pdf)
-* http://mathforum.org/teachers/german/
-* http://mathforum.org/teachers/nonenglish.html
-* http://www.mathematics-in-europe.eu/po/40-information/what-is-mathematics/45-what-is-mathematics
-* http://www.mathematics-in-europe.eu/po/65-mathhelp/mathematics-in-foreign-languages/59-mathematics-in-foreign-languages
-* http://www.mathematik.de/ger/information/fremdsprachen/fremdsprachen.html
-* https://en.wikipedia.org/wiki/Lists_of_mathematics_topics
+* [cogsci.ucsd.edu/~nunez/web/MAAreply.pdf](http://www.cogsci.ucsd.edu/~nunez/web/MAAreply.pdf)
+* [mathforum.org/teachers/german/](http://mathforum.org/teachers/german/)
+* [mathforum.org/teachers/nonenglish.html](http://mathforum.org/teachers/nonenglish.html)
+* [mathematics-in-europe.eu/po/40-information/what-is-mathematics/45-what-is-mathematics](http://www.mathematics-in-europe.eu/po/40-information/what-is-mathematics/45-what-is-mathematics)
+* [mathematics-in-europe.eu/po/65-mathhelp/mathematics-in-foreign-languages/59-mathematics-in-foreign-languages](http://www.mathematics-in-europe.eu/po/65-mathhelp/mathematics-in-foreign-languages/59-mathematics-in-foreign-languages)
+* [mathematik.de/ger/information/fremdsprachen/fremdsprachen.html](http://www.mathematik.de/ger/information/fremdsprachen/fremdsprachen.html)
+* [en.wikipedia.org/wiki/Lists_of_mathematics_topics](https://en.wikipedia.org/wiki/Lists_of_mathematics_topics)
 
-* https://math.stackexchange.com/questions/178940/proofs-that-every-mathematician-should-know
-* https://www.whitman.edu/Documents/Academics/Mathematics/oralgeneric.pdf
-* https://www.physicsforums.com/threads/theorems-every-mathematician-should-know.464641/
-* https://j2kun.svbtle.com/things-mathematicians-know-proofs-are-beautiful
+* [math.stackexchange.com/questions/178940/proofs-that-every-mathematician-should-know](https://math.stackexchange.com/questions/178940/proofs-that-every-mathematician-should-know)
+* [whitman.edu/Documents/Academics/Mathematics/oralgeneric.pdf](https://www.whitman.edu/Documents/Academics/Mathematics/oralgeneric.pdf)
+* [physicsforums.com/threads/theorems-every-mathematician-should-know.464641/](https://www.physicsforums.com/threads/theorems-every-mathematician-should-know.464641/)
+* [j2kun.svbtle.com/things-mathematicians-know-proofs-are-beautiful](https://j2kun.svbtle.com/things-mathematicians-know-proofs-are-beautiful)
 * [Mathe für Ökonomen](http://statistik.wu-wien.ac.at/~leydold/MOK/HTML/MOK.html)
-* http://www.ecpol.econ.uni-muenchen.de/downloads/advanced/ss08/uebung/att_ces_functions.pdf
-* http://people.duke.edu/~rnau/411log.htm
-* http://www.soph.uab.edu/Statgenetics/People/MBeasley/Courses/RegressionFormulae.pdf
+* [ecpol.econ.uni-muenchen.de/downloads/advanced/ss08/uebung/att_ces_functions.pdf](http://www.ecpol.econ.uni-muenchen.de/downloads/advanced/ss08/uebung/att_ces_functions.pdf)
+* [people.duke.edu/~rnau/411log.htm](http://people.duke.edu/~rnau/411log.htm)
+* [soph.uab.edu/Statgenetics/People/MBeasley/Courses/RegressionFormulae.pdf](http://www.soph.uab.edu/Statgenetics/People/MBeasley/Courses/RegressionFormulae.pdf)
 
-* http://mat.gsia.cmu.edu/classes/QUANT/NOTES/chap4.pdf
-* http://ocw.uci.edu/courses/math_4_math_for_economists.html
+* [mat.gsia.cmu.edu/classes/QUANT/NOTES/chap4.pdf](http://mat.gsia.cmu.edu/classes/QUANT/NOTES/chap4.pdf)
+* [ocw.uci.edu/courses/math_4_math_for_economists.html](http://ocw.uci.edu/courses/math_4_math_for_economists.html)
 * [Mathematik für Ökonomen](http://statmath.wu.ac.at/staff/leydold/MOKbuch/)
-* [https://fr.wikipedia.org/wiki/Valeur_de_Shapley](https://fr.wikipedia.org/wiki/Valeur_de_Shapley?wprov=sfla1)
+* [fr.wikipedia.org/wiki/Valeur_de_Shapley](https://fr.wikipedia.org/wiki/Valeur_de_Shapley?wprov=sfla1)
 * [Comparison_of_vector_algebra_and_geometric_algebra](https://en.wikipedia.org/wiki/Comparison_of_vector_algebra_and_geometric_algebra)
-* https://www.econometrics-with-r.org/1-introduction.html
+* [econometrics-with-r.org/1-introduction.html](https://www.econometrics-with-r.org/1-introduction.html)
 * [[****Glossary of topology - Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_topology#:~:text=This is a glossary of,of mathematics known as topology.&text=The following definitions are also,topological spaces unless stated otherwise.)](https://en.wikipedia.org/wiki/Glossary_of_topology#:~:text=This%20is%20a%20glossary%20of,of%20mathematics%20known%20as%20topology.&text=The%20following%20definitions%20are%20also,topological%20spaces%20unless%20stated%20otherwise.))
 - [* From Eigendecomposition to Determinant: Fundamental Mathematics for Machine Learning with Intuitive Examples Part 3/3](https://towardsdatascience.com/from-eigendecomposition-to-determinant-fundamental-mathematics-for-machine-learning-with-1b6b449a82c6)
 - [* Home Page - Intuitive Math](https://intuitive-math.club/)
@@ -370,7 +370,7 @@ book book - [**Mathematisierung der Einzelwissenschaften: Biologie — Chemie �
 * [Velichayshie_matematicheskie_zadachi.epub](https://vk.com/doc30601958_461719406?hash=f02301c2ac0c0c1245&dl=f71ba50e362773f7aa)
 * [Viewing the world through a 'mathematical lens' can help young children learn math](https://phys.org/news/2012-02-viewing-world-mathematical-lens-young.html)
 * [Web 2.0 scientific calculator](http://web2.0calc.com/)
-* [www.cogsci.ucsd.edu/~nunez/web/EducMatMx.pdf](http://www.cogsci.ucsd.edu/~nunez/web/EducMatMx.pdf)
+* [cogsci.ucsd.edu/~nunez/web/EducMatMx.pdf](http://www.cogsci.ucsd.edu/~nunez/web/EducMatMx.pdf)
 * [А+клик: Математика, задачи, ответы, головоломки](https://www.aplusclick.org/russian.html)
 
 * [Введение в метаматематику](https://www.lektorium.tv/course/22845)
@@ -419,47 +419,47 @@ Why is 0! = 1?
 * [Подборка фильмов по математике](https://vk.com/wall-51126445_39341)
 * [Публікації – Кафедра алгебри ММФ КНУ](http://algebra.kiev.ua/publikatsiyi/)
 * [Список книг о математике](https://vk.com/wall288014859_1647)
-* https://coursera.org/specialization/mathematics-machine-learning
-* https://github.com/sahilchinoy/econ103
-* https://github.com/z0nam/EconMathNote
-* https://archive.org/details/principia00newtuoft
-* http://www.e-rara.ch/zut/content/structure/2327954
-* http://www.17centurymaths.com/contents/introductiontoanalysisvol1.htm
-* https://fr.wikipedia.org/wiki/D%C3%A9monstration
-* https://lp.uni-goettingen.de/get/text/5852
+* [coursera.org/specialization/mathematics-machine-learning](https://coursera.org/specialization/mathematics-machine-learning)
+* [sahilchinoy/econ103](https://github.com/sahilchinoy/econ103)
+* [z0nam/EconMathNote](https://github.com/z0nam/EconMathNote)
+* [archive.org/details/principia00newtuoft](https://archive.org/details/principia00newtuoft)
+* [e-rara.ch/zut/content/structure/2327954](http://www.e-rara.ch/zut/content/structure/2327954)
+* [17centurymaths.com/contents/introductiontoanalysisvol1.htm](http://www.17centurymaths.com/contents/introductiontoanalysisvol1.htm)
+* [fr.wikipedia.org/wiki/D%C3%A9monstration](https://fr.wikipedia.org/wiki/D%C3%A9monstration)
+* [lp.uni-goettingen.de/get/text/5852](https://lp.uni-goettingen.de/get/text/5852)
 * [Cantor’s Paradise – Medium](https://medium.com/cantors-paradise)
-* http://visualizingmath.tumblr.com/
-* https://bilimneguzellan.net/en/
+* [visualizingmath.tumblr.com/](http://visualizingmath.tumblr.com/)
+* [bilimneguzellan.net/en/](https://bilimneguzellan.net/en/)
 * [Alternative Transport](https://alternativetransport.wordpress.com/)
-* https://j2kun.svbtle.com/
-* http://nezna.li/categories/matematika
+* [j2kun.svbtle.com/](https://j2kun.svbtle.com/)
+* [nezna.li/categories/matematika](http://nezna.li/categories/matematika)
 * [Teaching (incl. DiffEq)](http://www2.kenyon.edu/Depts/Math/Paquin/teaching.html)
 * [youmath (IT)](http://www.youmath.it/lezioni/analisi-due/equazioni-differenziali.html)
 * [ED Monografías (ES)](http://www.monografias.com/trabajos97/introduccion-ecuaciones-diferenciales-teoria-y-ejemplos-resueltos/introduccion-ecuaciones-diferenciales-teoria-y-ejemplos-resueltos.shtml)
 * [Definitions from Linear Algebra](https://docs.google.com/spreadsheets/d/1xS7Dimpgg835el4Y5tLaETsbjxbDkTla9SvsrhT1X2s/edit#gid=1282539576)
-* https://proofwiki.org/wiki/Category:Matrix_Algebra
+* [proofwiki.org/wiki/Category:Matrix_Algebra](https://proofwiki.org/wiki/Category:Matrix_Algebra)
 * [Unanswered 'linear-algebra' Questions - Mathematics Stack Exchange](https://math.stackexchange.com/questions/tagged/linear-algebra?tab=Unanswered)
-* https://proofwiki.org/wiki/Category:Definitions/Algebra
+* [proofwiki.org/wiki/Category:Definitions/Algebra](https://proofwiki.org/wiki/Category:Definitions/Algebra)
 * [Understanding the Covariance Matrix](https://datascienceplus.com/understanding-the-covariance-matrix/)
 * [Matrix algebra for linear models](https://search.lib.byu.edu/byu/record/elee.EBC1575633?holding=mmslu4icuyc4ve4h)
 
 ## Proofs
-* https://plus.maths.org/content/brief-introduction-proofs
-* https://math.stackexchange.com/questions/178940/proofs-that-every-mathematician-should-know
-* https://en.wikipedia.org/wiki/List_of_mathematical_proofs
-* https://proofwiki.org/wiki/Category:Proofs_by_Topic
+* [plus.maths.org/content/brief-introduction-proofs](https://plus.maths.org/content/brief-introduction-proofs)
+* [math.stackexchange.com/questions/178940/proofs-that-every-mathematician-should-know](https://math.stackexchange.com/questions/178940/proofs-that-every-mathematician-should-know)
+* [en.wikipedia.org/wiki/List_of_mathematical_proofs](https://en.wikipedia.org/wiki/List_of_mathematical_proofs)
+* [proofwiki.org/wiki/Category:Proofs_by_Topic](https://proofwiki.org/wiki/Category:Proofs_by_Topic)
 * [A Brief Note on Proofs in Pure Mathematics](http://page.mi.fu-berlin.de/shagnik/notes/proofs.pdf)
-* http://pirate.shu.edu/~kahlnath/Top100.html
+* [pirate.shu.edu/~kahlnath/Top100.html](http://pirate.shu.edu/~kahlnath/Top100.html)
 * [Why Do We Need Proof?](http://ife.ens-lyon.fr/publications/edition-electronique/cerme6/wg2-03-hemmi-lofwall.pdf)
 
 ## NN Math
 * [11-785 Deep Learning](http://deeplearning.cs.cmu.edu/)
 * [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
-* https://deepai.org/machine-learning-glossary-and-terms/backpropagation
-* https://medium.com/@14prakash/back-propagation-is-very-simple-who-made-it-complicated-97b794c97e5c
-* https://medium.com/@erikhallstrm/backpropagation-from-the-beginning-77356edf427d
-* https://sudeepraja.github.io/Neural/
-* https://theclevermachine.wordpress.com/2014/09/06/derivation-error-backpropagation-gradient-descent-for-neural-networks/
+* [deepai.org/machine-learning-glossary-and-terms/backpropagation](https://deepai.org/machine-learning-glossary-and-terms/backpropagation)
+* [medium.com/@14prakash/back-propagation-is-very-simple-who-made-it-complicated-97b794c97e5c](https://medium.com/@14prakash/back-propagation-is-very-simple-who-made-it-complicated-97b794c97e5c)
+* [medium.com/@erikhallstrm/backpropagation-from-the-beginning-77356edf427d](https://medium.com/@erikhallstrm/backpropagation-from-the-beginning-77356edf427d)
+* [sudeepraja.github.io/Neural/](https://sudeepraja.github.io/Neural/)
+* [theclevermachine.wordpress.com/2014/09/06/derivation-error-backpropagation-gradient-descent-for-neural-networks/](https://theclevermachine.wordpress.com/2014/09/06/derivation-error-backpropagation-gradient-descent-for-neural-networks/)
 Backpropagation explained | Part 2 - The mathematical notation
 
 ## C.I Statistics
@@ -487,7 +487,7 @@ Teste
 * [Types of Statistical Tests](https://cyfar.org/types-statistical-tests)
 
 ### Econometrics
-* http://wlm.userweb.mwn.de/Ilmes/
+* [wlm.userweb.mwn.de/Ilmes/](http://wlm.userweb.mwn.de/Ilmes/)
 Ök. allgemeines Lesematerial
 * [An Introduction to Econometrics : A Self-Contained Approach](http://site.ebrary.com/lib/byuprovo/detail.action?docID=10762926)
 * [Ökonometrie Saarland](http://www.oekonometrie.uni-saarland.de/oekonometrie/)
@@ -513,7 +513,7 @@ Teste
 * [? bloccato](http://hse-da.narod.ru/)
 * [? bloccato](http://hse-da.narod.ru/3kurs/3kurs.html)
 * [Économétrie](https://www-perso.gate.cnrs.fr/fournier/Notes_de_cours/Econometrie/)
-* http://www.statisticssolutions.com/directory-of-statistical-analyses/
+* [statisticssolutions.com/directory-of-statistical-analyses/](http://www.statisticssolutions.com/directory-of-statistical-analyses/)
 * [Einführung](https://www.uibk.ac.at/econometrics/einf/kap01.pdf)
 * [Marginale Effekte & nichtlineare Funktionsformen](https://www.uibk.ac.at/econometrics/einf/kap03.pdf)
 * [Eigenschaften von OLS-Sch¨atzfunktionen](https://www.uibk.ac.at/econometrics/einf/kap04.pdf)
@@ -601,199 +601,199 @@ MKQ
 
 ### SORT
 ?                                                  <|> * [SPSS Documentation](http://www-01.ibm.com/support/docview.wss?uid=swg27043946#ru)
-?                                                  <|> * https://github.com/statsmodels/statsmodels/pull/1935
+?                                                  <|> * [statsmodels/statsmodels/pull/1935](https://github.com/statsmodels/statsmodels/pull/1935)
 ?                                                  <|> - [**Skripten - Universität Ulm](https://www.uni-ulm.de/mawi/iaa/members/former/balser/skripten/)
 ?                                                  <|> - [**Slides - Mathematical Tours of Data Sciences](https://mathematical-tours.github.io/slides/)
 ?                                                  <|> SPSS, etc.
 en wiki wikipedia                                  <|> * [Kurtosis - Wikipedia](https://en.wikipedia.org/wiki/Kurtosis)
 en wiki wikipedia                                  <|> * [Normal distribution - Wikipedia](https://en.wikipedia.org/wiki/Normal_distribution)
-en wiki wikipedia                                  <|> * [https://en.wikipedia.org/wiki/Control_function_(econometrics)](https://en.wikipedia.org/wiki/Control_function_(econometrics))
-en wiki wikipedia                                  <|> * https://en.wikipedia.org/wiki/Heckman_correction#cite_note-11
-en wiki wikipedia                                  <|> * https://en.wikipedia.org/wiki/Inverse_Mills_ratio
+en wiki wikipedia                                  <|> * [en.wikipedia.org/wiki/Control_function_(econometrics)](https://en.wikipedia.org/wiki/Control_function_(econometrics))
+en wiki wikipedia                                  <|> * [en.wikipedia.org/wiki/Heckman_correction#cite_note-11](https://en.wikipedia.org/wiki/Heckman_correction#cite_note-11)
+en wiki wikipedia                                  <|> * [en.wikipedia.org/wiki/Inverse_Mills_ratio](https://en.wikipedia.org/wiki/Inverse_Mills_ratio)
 en wiki wikipedia function                         <|> * [Gaussian function - Wikipedia](https://en.wikipedia.org/wiki/Gaussian_function)
-function control                                   <|> * http://www.econometricsbysimulation.com/2013/02/interpreting-control-function.html
-function control                                   <|> * https://www.google.com/search?q=control+functions+in+econometrics&oq=control+functions+in+econometrics&aqs=chrome..69i57.6471j0j7&sourceid=chrome&ie=UTF-8
+function control                                   <|> * [econometricsbysimulation.com/2013/02/interpreting-control-function.html](http://www.econometricsbysimulation.com/2013/02/interpreting-control-function.html)
+function control                                   <|> * [google.com/search?q=control+functions+in+econometrics&oq=control+functions+in+econometrics&aqs=chrome..69i57.6471j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=control+functions+in+econometrics&oq=control+functions+in+econometrics&aqs=chrome..69i57.6471j0j7&sourceid=chrome&ie=UTF-8)
 heckman function control                           <|> Heckman and Control Functions
-heckman stata or                                   <|> * http://www.statalist.org/forums/forum/general-stata-discussion/general/1295287-heckman-sample-selection-and-instrumental-variable-iv-or-simultaneous-equations-model
-inverse ratio mill stata                           <|> * http://www.stata.com/support/faqs/statistics/inverse-mills-ratio/
+heckman stata or                                   <|> * [statalist.org/forums/forum/general-stata-discussion/general/1295287-heckman-sample-selection-and-instrumental-variable-iv-or-simultaneous-equations-model](http://www.statalist.org/forums/forum/general-stata-discussion/general/1295287-heckman-sample-selection-and-instrumental-variable-iv-or-simultaneous-equations-model)
+inverse ratio mill stata                           <|> * [stata.com/support/faqs/statistics/inverse-mills-ratio/](http://www.stata.com/support/faqs/statistics/inverse-mills-ratio/)
 pdf                                                <|> * [A Brief Historical Overview Of the Gaussian Curve: From Abraham De Moivre to Johann Carl Friedrich Gauss](http://www.ijesi.org/papers/Vol(7)i6/Version-5/D0706052834.pdf)
 pdf                                                <|> * [NORMAL.PDF](http://www.alternatievewiskunde.nl/QED/normal.pdf)
-pdf                                                <|> * http://www.nber.org/WNE/Slides7-31-07/slides_6_controlfuncs.pdf
-pdf                                                <|> * http://www.nber.org/WNE/lect_6_controlfuncs.pdf
-pdf                                                <|> * http://www.soderbom.net/metrix2/lec10revised1.pdf
-pdf                                                <|> * http://www.ucl.ac.uk/~uctp39a/AEA_Jan14.pdf
-pdf                                                <|> * https://www.ifs.org.uk/docs/wooldridge%20session%202.pdf
-pdf edu                                            <|> * http://www.colorado.edu/education/sites/default/files/attached-files/Briggs_Causal%20Inference%20and%20the%20Heckman%20Model.pdf
-pdf edu                                            <|> * https://msu.edu/~telder/2005-JPE.pdf
-pdf edu                                            <|> * https://msu.edu/~telder/ou0413.pdf
-pdf edu                                            <|> * https://www.irp.wisc.edu/newsevents/workshops/appliedmicroeconometrics/participants/slides/Slides_14.pdf
-pdf heckman edu                                    <|> * http://www.brynmawr.edu/socialwork/GSSW/Vartanian/Handouts/Heckman%20selection%20model.pdf
-pdf heckman edu                                    <|> * http://www.unc.edu/~jimmyjin/files/heckman.pdf
-pdf stata                                          <|> * http://www.stata.com/manuals13/rheckman.pdf
-pdf stata                                          <|> * https://www.stata.com/manuals13/rheckman.pdf
+pdf                                                <|> * [nber.org/WNE/Slides7-31-07/slides_6_controlfuncs.pdf](http://www.nber.org/WNE/Slides7-31-07/slides_6_controlfuncs.pdf)
+pdf                                                <|> * [nber.org/WNE/lect_6_controlfuncs.pdf](http://www.nber.org/WNE/lect_6_controlfuncs.pdf)
+pdf                                                <|> * [soderbom.net/metrix2/lec10revised1.pdf](http://www.soderbom.net/metrix2/lec10revised1.pdf)
+pdf                                                <|> * [ucl.ac.uk/~uctp39a/AEA_Jan14.pdf](http://www.ucl.ac.uk/~uctp39a/AEA_Jan14.pdf)
+pdf                                                <|> * [ifs.org.uk/docs/wooldridge%20session%202.pdf](https://www.ifs.org.uk/docs/wooldridge%20session%202.pdf)
+pdf edu                                            <|> * [colorado.edu/education/sites/default/files/attached-files/Briggs_Causal%20Inference%20and%20the%20Heckman%20Model.pdf](http://www.colorado.edu/education/sites/default/files/attached-files/Briggs_Causal%20Inference%20and%20the%20Heckman%20Model.pdf)
+pdf edu                                            <|> * [msu.edu/~telder/2005-JPE.pdf](https://msu.edu/~telder/2005-JPE.pdf)
+pdf edu                                            <|> * [msu.edu/~telder/ou0413.pdf](https://msu.edu/~telder/ou0413.pdf)
+pdf edu                                            <|> * [irp.wisc.edu/newsevents/workshops/appliedmicroeconometrics/participants/slides/Slides_14.pdf](https://www.irp.wisc.edu/newsevents/workshops/appliedmicroeconometrics/participants/slides/Slides_14.pdf)
+pdf heckman edu                                    <|> * [brynmawr.edu/socialwork/GSSW/Vartanian/Handouts/Heckman%20selection%20model.pdf](http://www.brynmawr.edu/socialwork/GSSW/Vartanian/Handouts/Heckman%20selection%20model.pdf)
+pdf heckman edu                                    <|> * [unc.edu/~jimmyjin/files/heckman.pdf](http://www.unc.edu/~jimmyjin/files/heckman.pdf)
+pdf stata                                          <|> * [stata.com/manuals13/rheckman.pdf](http://www.stata.com/manuals13/rheckman.pdf)
+pdf stata                                          <|> * [stata.com/manuals13/rheckman.pdf](https://www.stata.com/manuals13/rheckman.pdf)
 stackexchange question                             <|> * [statistics - How was the normal distribution derived? - Mathematics Stack Exchange](https://math.stackexchange.com/questions/384893/how-was-the-normal-distribution-derived)
 stackexchange question                             <|> - [**Prove the sample variance is an unbiased estimator - Economics Stack Exchange](https://economics.stackexchange.com/questions/4744/prove-the-sample-variance-is-an-unbiased-estimator)
-stackexchange question stat function control       <|> * https://stats.stackexchange.com/questions/252952/control-function-approach-and-bootstrap/253073
-stackexchange question stat heckman                <|> * https://stats.stackexchange.com/questions/172508/two-stage-models-difference-between-heckman-models-to-deal-with-sample-selecti
-stackexchange question stat heckman inverse ratio mill or <|> * https://stats.stackexchange.com/questions/237010/heckman-regression-inverse-mills-ratio-significant-or-not
-stackexchange question stat heckman inverse ratio rq mill 1 or <|> * https://stats.stackexchange.com/questions/237010/heckman-regression-inverse-mills-ratio-significant-or-not?rq=1
-stackexchange question stat heckman inverse ratio rq mill 1 or <|> * https://stats.stackexchange.com/questions/237010/heckman-regression-inverse-mills-ratio-significant-or-not?rq=1
-stackexchange question stat heckman rq 1           <|> * https://stats.stackexchange.com/questions/209215/heckman-two-step-a-basic-question?rq=1
-stackexchange question stat heckman rq 1           <|> * https://stats.stackexchange.com/questions/235735/heckman-self-selection?rq=1
-stackexchange question stat heckman rq 1           <|> * https://stats.stackexchange.com/questions/262737/interpreting-dummy-variable-in-heckman-2sls?rq=1
-stackexchange question stat inverse ratio mill     <|> * https://stats.stackexchange.com/questions/208016/interpretation-of-coefficient-of-inverse-mills-ratio
-stackexchange question stat inverse ratio mill     <|> * https://stats.stackexchange.com/questions/212385/different-forms-of-inverse-mills-ratio-their-interpretation
-stackexchange question stat inverse ratio rq mill 1 <|> * https://stats.stackexchange.com/questions/212385/different-forms-of-inverse-mills-ratio-their-interpretation?rq=1
-stackexchange question stat rq 1 function control  <|> * https://stats.stackexchange.com/questions/189009/endogenous-interaction-term-in-a-triangular-system-using-control-function-cf-a?rq=1
-stata                                              <|> * http://www.learneconometrics.com/data/stata/heckit.txt
+stackexchange question stat function control       <|> * [stats.stackexchange.com/questions/252952/control-function-approach-and-bootstrap/253073](https://stats.stackexchange.com/questions/252952/control-function-approach-and-bootstrap/253073)
+stackexchange question stat heckman                <|> * [stats.stackexchange.com/questions/172508/two-stage-models-difference-between-heckman-models-to-deal-with-sample-selecti](https://stats.stackexchange.com/questions/172508/two-stage-models-difference-between-heckman-models-to-deal-with-sample-selecti)
+stackexchange question stat heckman inverse ratio mill or <|> * [stats.stackexchange.com/questions/237010/heckman-regression-inverse-mills-ratio-significant-or-not](https://stats.stackexchange.com/questions/237010/heckman-regression-inverse-mills-ratio-significant-or-not)
+stackexchange question stat heckman inverse ratio rq mill 1 or <|> * [stats.stackexchange.com/questions/237010/heckman-regression-inverse-mills-ratio-significant-or-not?rq=1](https://stats.stackexchange.com/questions/237010/heckman-regression-inverse-mills-ratio-significant-or-not?rq=1)
+stackexchange question stat heckman inverse ratio rq mill 1 or <|> * [stats.stackexchange.com/questions/237010/heckman-regression-inverse-mills-ratio-significant-or-not?rq=1](https://stats.stackexchange.com/questions/237010/heckman-regression-inverse-mills-ratio-significant-or-not?rq=1)
+stackexchange question stat heckman rq 1           <|> * [stats.stackexchange.com/questions/209215/heckman-two-step-a-basic-question?rq=1](https://stats.stackexchange.com/questions/209215/heckman-two-step-a-basic-question?rq=1)
+stackexchange question stat heckman rq 1           <|> * [stats.stackexchange.com/questions/235735/heckman-self-selection?rq=1](https://stats.stackexchange.com/questions/235735/heckman-self-selection?rq=1)
+stackexchange question stat heckman rq 1           <|> * [stats.stackexchange.com/questions/262737/interpreting-dummy-variable-in-heckman-2sls?rq=1](https://stats.stackexchange.com/questions/262737/interpreting-dummy-variable-in-heckman-2sls?rq=1)
+stackexchange question stat inverse ratio mill     <|> * [stats.stackexchange.com/questions/208016/interpretation-of-coefficient-of-inverse-mills-ratio](https://stats.stackexchange.com/questions/208016/interpretation-of-coefficient-of-inverse-mills-ratio)
+stackexchange question stat inverse ratio mill     <|> * [stats.stackexchange.com/questions/212385/different-forms-of-inverse-mills-ratio-their-interpretation](https://stats.stackexchange.com/questions/212385/different-forms-of-inverse-mills-ratio-their-interpretation)
+stackexchange question stat inverse ratio rq mill 1 <|> * [stats.stackexchange.com/questions/212385/different-forms-of-inverse-mills-ratio-their-interpretation?rq=1](https://stats.stackexchange.com/questions/212385/different-forms-of-inverse-mills-ratio-their-interpretation?rq=1)
+stackexchange question stat rq 1 function control  <|> * [stats.stackexchange.com/questions/189009/endogenous-interaction-term-in-a-triangular-system-using-control-function-cf-a?rq=1](https://stats.stackexchange.com/questions/189009/endogenous-interaction-term-in-a-triangular-system-using-control-function-cf-a?rq=1)
+stata                                              <|> * [learneconometrics.com/data/stata/heckit.txt](http://www.learneconometrics.com/data/stata/heckit.txt)
 
 TE
 
-* http://www.stata.com/features/overview/endogenous-treatment-effects/
+* [stata.com/features/overview/endogenous-treatment-effects/](http://www.stata.com/features/overview/endogenous-treatment-effects/)
 
-* http://www.stata.com/features/overview/endogenous-treatment-effects/
-* http://www.stata.com/manuals14/teeteffects.pdf
-* https://www.timberlake.co.uk/software/stata-new-extended-models
-* http://www.statalist.org/forums/forum/general-stata-discussion/general/1372293-average-treatment-effect-in-panel-data
-* http://www.stata.com/manuals13/teetregress.pdf
-* https://en.wikipedia.org/wiki/Average_treatment_effect
-* http://www.stata.com/manuals13/teetregress.pdf
-* http://www.stata.com/manuals13/te.pdf
-* http://www.stata.com/manuals14/teetregress.pdf
-* http://www.stata.com/stata-news/statanews.31.2.pdf
+* [stata.com/features/overview/endogenous-treatment-effects/](http://www.stata.com/features/overview/endogenous-treatment-effects/)
+* [stata.com/manuals14/teeteffects.pdf](http://www.stata.com/manuals14/teeteffects.pdf)
+* [timberlake.co.uk/software/stata-new-extended-models](https://www.timberlake.co.uk/software/stata-new-extended-models)
+* [statalist.org/forums/forum/general-stata-discussion/general/1372293-average-treatment-effect-in-panel-data](http://www.statalist.org/forums/forum/general-stata-discussion/general/1372293-average-treatment-effect-in-panel-data)
+* [stata.com/manuals13/teetregress.pdf](http://www.stata.com/manuals13/teetregress.pdf)
+* [en.wikipedia.org/wiki/Average_treatment_effect](https://en.wikipedia.org/wiki/Average_treatment_effect)
+* [stata.com/manuals13/teetregress.pdf](http://www.stata.com/manuals13/teetregress.pdf)
+* [stata.com/manuals13/te.pdf](http://www.stata.com/manuals13/te.pdf)
+* [stata.com/manuals14/teetregress.pdf](http://www.stata.com/manuals14/teetregress.pdf)
+* [stata.com/stata-news/statanews.31.2.pdf](http://www.stata.com/stata-news/statanews.31.2.pdf)
 
 PLT
 
-* http://www.soderbom.net/metrix2/lec8.pdf
-* https://es.wikipedia.org/wiki/Modelo_Tobit
-* http://wlm.userweb.mwn.de/Ilmes/ilm_t19.htm
+* [soderbom.net/metrix2/lec8.pdf](http://www.soderbom.net/metrix2/lec8.pdf)
+* [es.wikipedia.org/wiki/Modelo_Tobit](https://es.wikipedia.org/wiki/Modelo_Tobit)
+* [wlm.userweb.mwn.de/Ilmes/ilm_t19.htm](http://wlm.userweb.mwn.de/Ilmes/ilm_t19.htm)
 
 Momente
 
-* https://www.mendeley.com/suggest/?pageLoadId=16ac9303-6e03-47af-96a1-3ab8669a4e19&ref=raven&highlight=3ee85557-d4e2-3428-9ae9-ca6bbfd5873e&highlightTrace=AAACIKLb4Qsv4G7DlK2q9k3U64qOtdIvuCD3Z8F16HUoAMSMeqbQ-l-Kh6GqwXV7d5ywxfYCBnSGXOHTdGv6rGD-Y946arqnUQq6CgIc78-8YZHbMgq8yLDCCZs9vVNUhvnf5oI9s0zuGIF8IKOmNrwcWtlI_74MZPdYxXZUBHx75DLCmRa9zSYbNWc6yO0l1i0oRq0B_N1PSd70TCS9mfKCITLt1KjbHGmgVDkyURUT38iPB57k-UKXYYFOTQJemHiaXkyImWBgiiCAGNg92RQFcSVmzU2LM9ZU_Gu6trWSXOOa0pdchRLyJvooWtZ-D3J3s3dECrRzLQO0yy1Z8Q5lqJ2qtjV9ICI0_cyxlVlhB18JvUr7vEryjziCQBf50lUZBk_qblegrI1OfKeMSTNCOP3CP3QXwSMiNalF6U7e8q9HzrWLkVHO75INelkMmafOdVjqpZK6mx83PLirwVmceHza65gSioTDAEnqvHHyY8M4Ttx0ZNLIJP0U0uSrCSdh01rsWsrwKt387f0rp5bWeLNuG6_RtZtiPTRP2kby5ONd7C0qAGkfhHHBXOjqH8kICK91PwKCokUDpKbg7JTaUW6nIrTGWCNxgAUgXrnT8XTgJGRBlEjq151PGvtxn70JDJuzypMWXDUjEe27zazniEk1I6eFQiIaVV4_HeU3CNRVmCrGLaAt-AFTtE6ukDLWBGzGdHL6XsyfkAhSyENknSakqn3T7O4JYUKFibz1vMcNMrr5Fg&dgcid=raven_md_suggest_email&event_id=72057594177022926
-* [https://en.wikipedia.org/wiki/Moment_(mathematics)](https://en.wikipedia.org/wiki/Moment_(mathematics))
+* [mendeley.com/suggest/?pageLoadId=16ac9303-6e03-47af-96a1-3ab8669a4e19&ref=raven&highlight=3ee85557-d4e2-3428-9ae9-ca6bbfd5873e&highlightTrace=AAACIKLb4Qsv4G7DlK2q9k3U64qOtdIvuCD3Z8F16HUoAMSMeqbQ-l-Kh6GqwXV7d5ywxfYCBnSGXOHTdGv6rGD-Y946arqnUQq6CgIc78-8YZHbMgq8yLDCCZs9vVNUhvnf5oI9s0zuGIF8IKOmNrwcWtlI_74MZPdYxXZUBHx75DLCmRa9zSYbNWc6yO0l1i0oRq0B_N1PSd70TCS9mfKCITLt1KjbHGmgVDkyURUT38iPB57k-UKXYYFOTQJemHiaXkyImWBgiiCAGNg92RQFcSVmzU2LM9ZU_Gu6trWSXOOa0pdchRLyJvooWtZ-D3J3s3dECrRzLQO0yy1Z8Q5lqJ2qtjV9ICI0_cyxlVlhB18JvUr7vEryjziCQBf50lUZBk_qblegrI1OfKeMSTNCOP3CP3QXwSMiNalF6U7e8q9HzrWLkVHO75INelkMmafOdVjqpZK6mx83PLirwVmceHza65gSioTDAEnqvHHyY8M4Ttx0ZNLIJP0U0uSrCSdh01rsWsrwKt387f0rp5bWeLNuG6_RtZtiPTRP2kby5ONd7C0qAGkfhHHBXOjqH8kICK91PwKCokUDpKbg7JTaUW6nIrTGWCNxgAUgXrnT8XTgJGRBlEjq151PGvtxn70JDJuzypMWXDUjEe27zazniEk1I6eFQiIaVV4_HeU3CNRVmCrGLaAt-AFTtE6ukDLWBGzGdHL6XsyfkAhSyENknSakqn3T7O4JYUKFibz1vMcNMrr5Fg&dgcid=raven_md_suggest_email&event_id=72057594177022926](https://www.mendeley.com/suggest/?pageLoadId=16ac9303-6e03-47af-96a1-3ab8669a4e19&ref=raven&highlight=3ee85557-d4e2-3428-9ae9-ca6bbfd5873e&highlightTrace=AAACIKLb4Qsv4G7DlK2q9k3U64qOtdIvuCD3Z8F16HUoAMSMeqbQ-l-Kh6GqwXV7d5ywxfYCBnSGXOHTdGv6rGD-Y946arqnUQq6CgIc78-8YZHbMgq8yLDCCZs9vVNUhvnf5oI9s0zuGIF8IKOmNrwcWtlI_74MZPdYxXZUBHx75DLCmRa9zSYbNWc6yO0l1i0oRq0B_N1PSd70TCS9mfKCITLt1KjbHGmgVDkyURUT38iPB57k-UKXYYFOTQJemHiaXkyImWBgiiCAGNg92RQFcSVmzU2LM9ZU_Gu6trWSXOOa0pdchRLyJvooWtZ-D3J3s3dECrRzLQO0yy1Z8Q5lqJ2qtjV9ICI0_cyxlVlhB18JvUr7vEryjziCQBf50lUZBk_qblegrI1OfKeMSTNCOP3CP3QXwSMiNalF6U7e8q9HzrWLkVHO75INelkMmafOdVjqpZK6mx83PLirwVmceHza65gSioTDAEnqvHHyY8M4Ttx0ZNLIJP0U0uSrCSdh01rsWsrwKt387f0rp5bWeLNuG6_RtZtiPTRP2kby5ONd7C0qAGkfhHHBXOjqH8kICK91PwKCokUDpKbg7JTaUW6nIrTGWCNxgAUgXrnT8XTgJGRBlEjq151PGvtxn70JDJuzypMWXDUjEe27zazniEk1I6eFQiIaVV4_HeU3CNRVmCrGLaAt-AFTtE6ukDLWBGzGdHL6XsyfkAhSyENknSakqn3T7O4JYUKFibz1vMcNMrr5Fg&dgcid=raven_md_suggest_email&event_id=72057594177022926)
+* [en.wikipedia.org/wiki/Moment_(mathematics)](https://en.wikipedia.org/wiki/Moment_(mathematics))
 
-* [https://de.wikipedia.org/wiki/Moment_(Statistik)](https://de.wikipedia.org/wiki/Moment_(Statistik))
-* [https://en.wikipedia.org/wiki/Moment_(mathematics)#Cumulants](https://en.wikipedia.org/wiki/Moment_(mathematics)#Cumulants)
-* https://en.wikipedia.org/wiki/Central_moment
-* https://en.wikipedia.org/wiki/Standardized_moment
-* http://www.statistics4u.info/fundstat_germ/cc_moments.html
-* http://www2.econ.iastate.edu/classes/econ500/hallam/documents/Sample_Moments.pdf
-* http://mathworld.wolfram.com/Cumulant.html
-* https://rdrr.io/cran/PDQutils/man/moment2cumulant.html
-* https://en.wikipedia.org/wiki/Cumulant
-* http://www.scholarpedia.org/article/Cumulants
-* https://en.wikipedia.org/wiki/Talk%3ACumulant
-* http://www.statisticshowto.com/what-is-a-moment/
-* http://mathhelpplanet.com/static.php?p=staticheskie-momenty-i-koordinaty-tsentra-tyazhesti
-* https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BC%D0%B5%D0%BD%D1%82%D1%8B_%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%BE%D0%B9_%D0%B2%D0%B5%D0%BB%D0%B8%D1%87%D0%B8%D0%BD%D1%8B
-* http://www.mathematik.tu-darmstadt.de/fbereiche/stochastik/contents/professoren/kohler/mstatws10skript.pdf
-* http://www.math.uni-leipzig.de/~renesse/Docs/mathstat_skript.pdf
-* https://www.uni-muenster.de/Stochastik/loewe/mathstatistik.pdf
-* http://www.uni-muenster.de/Stochastik/lehre/WS1415/Statistik/daten/Skript_Math_Statistik.pdf
+* [de.wikipedia.org/wiki/Moment_(Statistik)](https://de.wikipedia.org/wiki/Moment_(Statistik))
+* [en.wikipedia.org/wiki/Moment_(mathematics)#Cumulants](https://en.wikipedia.org/wiki/Moment_(mathematics)#Cumulants)
+* [en.wikipedia.org/wiki/Central_moment](https://en.wikipedia.org/wiki/Central_moment)
+* [en.wikipedia.org/wiki/Standardized_moment](https://en.wikipedia.org/wiki/Standardized_moment)
+* [statistics4u.info/fundstat_germ/cc_moments.html](http://www.statistics4u.info/fundstat_germ/cc_moments.html)
+* [www2.econ.iastate.edu/classes/econ500/hallam/documents/Sample_Moments.pdf](http://www2.econ.iastate.edu/classes/econ500/hallam/documents/Sample_Moments.pdf)
+* [mathworld.wolfram.com/Cumulant.html](http://mathworld.wolfram.com/Cumulant.html)
+* [rdrr.io/cran/PDQutils/man/moment2cumulant.html](https://rdrr.io/cran/PDQutils/man/moment2cumulant.html)
+* [en.wikipedia.org/wiki/Cumulant](https://en.wikipedia.org/wiki/Cumulant)
+* [scholarpedia.org/article/Cumulants](http://www.scholarpedia.org/article/Cumulants)
+* [en.wikipedia.org/wiki/Talk%3ACumulant](https://en.wikipedia.org/wiki/Talk%3ACumulant)
+* [statisticshowto.com/what-is-a-moment/](http://www.statisticshowto.com/what-is-a-moment/)
+* [mathhelpplanet.com/static.php?p=staticheskie-momenty-i-koordinaty-tsentra-tyazhesti](http://mathhelpplanet.com/static.php?p=staticheskie-momenty-i-koordinaty-tsentra-tyazhesti)
+* [ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BC%D0%B5%D0%BD%D1%82%D1%8B_%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%BE%D0%B9_%D0%B2%D0%B5%D0%BB%D0%B8%D1%87%D0%B8%D0%BD%D1%8B](https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BC%D0%B5%D0%BD%D1%82%D1%8B_%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%BE%D0%B9_%D0%B2%D0%B5%D0%BB%D0%B8%D1%87%D0%B8%D0%BD%D1%8B)
+* [mathematik.tu-darmstadt.de/fbereiche/stochastik/contents/professoren/kohler/mstatws10skript.pdf](http://www.mathematik.tu-darmstadt.de/fbereiche/stochastik/contents/professoren/kohler/mstatws10skript.pdf)
+* [math.uni-leipzig.de/~renesse/Docs/mathstat_skript.pdf](http://www.math.uni-leipzig.de/~renesse/Docs/mathstat_skript.pdf)
+* [uni-muenster.de/Stochastik/loewe/mathstatistik.pdf](https://www.uni-muenster.de/Stochastik/loewe/mathstatistik.pdf)
+* [uni-muenster.de/Stochastik/lehre/WS1415/Statistik/daten/Skript_Math_Statistik.pdf](http://www.uni-muenster.de/Stochastik/lehre/WS1415/Statistik/daten/Skript_Math_Statistik.pdf)
 ftp://ftp.stat.math.ethz.ch/Teaching/kuensch/skript-ms.pdf
-* http://www.mspc.eng.br/matm/prob_est210.shtml#moment
-* http://mathworld.wolfram.com/Moment.html
-* http://mathworld.wolfram.com/Moment-GeneratingFunction.html
+* [mspc.eng.br/matm/prob_est210.shtml#moment](http://www.mspc.eng.br/matm/prob_est210.shtml#moment)
+* [mathworld.wolfram.com/Moment.html](http://mathworld.wolfram.com/Moment.html)
+* [mathworld.wolfram.com/Moment-GeneratingFunction.html](http://mathworld.wolfram.com/Moment-GeneratingFunction.html)
 
-* https://www.ingenieurkurse.de/technische-mechanik-statik/einzelkraefte-mit-verschiedenen-angriffspunkten/ebenes-kraeftesystem/bestimmung-von-momenten.html
-* https://www.statlect.com/fundamentals-of-probability/moments
-* https://stats.stackexchange.com/questions/88461/derive-variance-of-regression-coefficient-in-simple-linear-regression
+* [ingenieurkurse.de/technische-mechanik-statik/einzelkraefte-mit-verschiedenen-angriffspunkten/ebenes-kraeftesystem/bestimmung-von-momenten.html](https://www.ingenieurkurse.de/technische-mechanik-statik/einzelkraefte-mit-verschiedenen-angriffspunkten/ebenes-kraeftesystem/bestimmung-von-momenten.html)
+* [statlect.com/fundamentals-of-probability/moments](https://www.statlect.com/fundamentals-of-probability/moments)
+* [stats.stackexchange.com/questions/88461/derive-variance-of-regression-coefficient-in-simple-linear-regression](https://stats.stackexchange.com/questions/88461/derive-variance-of-regression-coefficient-in-simple-linear-regression)
 
 FE
-* http://www.statalist.org/forums/forum/general-stata-discussion/general/1311877-fixed-effects-in-cross-sectional-data
-* https://stats.stackexchange.com/questions/240281/can-i-use-the-fixed-effects-model-on-cross-sectional-data
-* http://www.stata.com/manuals13/xtxtreg.pdf
-* http://www.stata.com/support/faqs/statistics/fixed-effects-regression/
-* https://faculty.fuqua.duke.edu/econometrics/presentations/2013/Rossi-Instruments_and_Fixed_Effects.pdf
-* https://stats.stackexchange.com/questions/4700/what-is-the-difference-between-fixed-effect-random-effect-and-mixed-effect-mode
-* http://www.stata.com/features/overview/linear-fixed-and-random-effects-models/
-* https://courses.washington.edu/pbafadv/student%20presentations/Fixed%20Effects,%20Random%20Effects%20Model%20Cheat%20Sheet.pdf
-* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4208783/
+* [statalist.org/forums/forum/general-stata-discussion/general/1311877-fixed-effects-in-cross-sectional-data](http://www.statalist.org/forums/forum/general-stata-discussion/general/1311877-fixed-effects-in-cross-sectional-data)
+* [stats.stackexchange.com/questions/240281/can-i-use-the-fixed-effects-model-on-cross-sectional-data](https://stats.stackexchange.com/questions/240281/can-i-use-the-fixed-effects-model-on-cross-sectional-data)
+* [stata.com/manuals13/xtxtreg.pdf](http://www.stata.com/manuals13/xtxtreg.pdf)
+* [stata.com/support/faqs/statistics/fixed-effects-regression/](http://www.stata.com/support/faqs/statistics/fixed-effects-regression/)
+* [faculty.fuqua.duke.edu/econometrics/presentations/2013/Rossi-Instruments_and_Fixed_Effects.pdf](https://faculty.fuqua.duke.edu/econometrics/presentations/2013/Rossi-Instruments_and_Fixed_Effects.pdf)
+* [stats.stackexchange.com/questions/4700/what-is-the-difference-between-fixed-effect-random-effect-and-mixed-effect-mode](https://stats.stackexchange.com/questions/4700/what-is-the-difference-between-fixed-effect-random-effect-and-mixed-effect-mode)
+* [stata.com/features/overview/linear-fixed-and-random-effects-models/](http://www.stata.com/features/overview/linear-fixed-and-random-effects-models/)
+* [courses.washington.edu/pbafadv/student%20presentations/Fixed%20Effects,%20Random%20Effects%20Model%20Cheat%20Sheet.pdf](https://courses.washington.edu/pbafadv/student%20presentations/Fixed%20Effects,%20Random%20Effects%20Model%20Cheat%20Sheet.pdf)
+* [ncbi.nlm.nih.gov/pmc/articles/PMC4208783/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4208783/)
 
 2SLS
-* http://www.stata.com/statalist/archive/2010-02/msg00303.html
-* https://stats.stackexchange.com/questions/215736/control-variables-in-instrumental-variable-regression?rq=1
-* https://stats.stackexchange.com/questions/45835/first-stage-of-tsls-and-the-matrix-of-instruments-w?rq=1
-* https://stats.stackexchange.com/questions/94063/probit-two-stage-least-squares-2sls/94392#94392
-* https://stats.stackexchange.com/questions/94063/probit-two-stage-least-squares-2sls?noredirect=1&lq=1
-* https://stats.stackexchange.com/questions/79332/iv-2sls-with-ordered-binary-dependent-and-endogenous-variable?rq=1
-* http://www.mostlyharmlesseconometrics.com/2009/07/is-2sls-really-ok/
-* https://stats.stackexchange.com/questions/94063/probit-two-stage-least-squares-2sls
-* http://www.soderbom.net/lec2n_final.pdf
-* https://stats.stackexchange.com/questions/125830/consistency-of-2sls-with-binary-endogenous-variable
-* http://www.statalist.org/forums/forum/general-stata-discussion/general/1382150-xtivreg-re-f-test-tests-for-weak-instruments-and-overidentification
-* http://www.statalist.org/forums/forum/general-stata-discussion/general/1375222-instrumental-variables-using-dummy-variables-as-instruments
-* http://benjamindwilliams.weebly.com/uploads/6/8/5/7/68575765/notesonforbiddenregressions.pdf
-* http://www.stata.com/statalist/archive/2010-02/msg00306.html
-* https://www.jstor.org/stable/4129541?seq=1#page_scan_tab_contents
-* https://www.google.com/search?q=instrumental+variables+in+public%2Fprivate+evaluations&oq=instrumental+variables+in+public%2Fprivate+evaluations&aqs=chrome..69i57.10135j0j4&sourceid=chrome&ie=UTF-8
-* https://stats.stackexchange.com/questions/86399/sample-selection-model-mle-vs-two-step-estimation-and-panel-data
-* http://econometricstutorial.com/2015/03/instrumental-variables-find-the-bad-guys-stata/
-* http://folk.uib.no/secaa/Public/VAM/Artikler/ivtreatreg_cerull.pdf
-* https://economics.mit.edu/files/18
-* https://web.stanford.edu/group/SITE/archive/SITE_2006/Web%20Session%204/Todd.pdf
-* http://www.stata.com/manuals13/rivregresspostestimation.pdf
-* http://www.repec.org/bocode/i/ivreg2.html
-* http://www.statalist.org/forums/forum/general-stata-discussion/general/1302474-2sls-regression-with-binary-endogenous-variable
+* [stata.com/statalist/archive/2010-02/msg00303.html](http://www.stata.com/statalist/archive/2010-02/msg00303.html)
+* [stats.stackexchange.com/questions/215736/control-variables-in-instrumental-variable-regression?rq=1](https://stats.stackexchange.com/questions/215736/control-variables-in-instrumental-variable-regression?rq=1)
+* [stats.stackexchange.com/questions/45835/first-stage-of-tsls-and-the-matrix-of-instruments-w?rq=1](https://stats.stackexchange.com/questions/45835/first-stage-of-tsls-and-the-matrix-of-instruments-w?rq=1)
+* [stats.stackexchange.com/questions/94063/probit-two-stage-least-squares-2sls/94392#94392](https://stats.stackexchange.com/questions/94063/probit-two-stage-least-squares-2sls/94392#94392)
+* [stats.stackexchange.com/questions/94063/probit-two-stage-least-squares-2sls?noredirect=1&lq=1](https://stats.stackexchange.com/questions/94063/probit-two-stage-least-squares-2sls?noredirect=1&lq=1)
+* [stats.stackexchange.com/questions/79332/iv-2sls-with-ordered-binary-dependent-and-endogenous-variable?rq=1](https://stats.stackexchange.com/questions/79332/iv-2sls-with-ordered-binary-dependent-and-endogenous-variable?rq=1)
+* [mostlyharmlesseconometrics.com/2009/07/is-2sls-really-ok/](http://www.mostlyharmlesseconometrics.com/2009/07/is-2sls-really-ok/)
+* [stats.stackexchange.com/questions/94063/probit-two-stage-least-squares-2sls](https://stats.stackexchange.com/questions/94063/probit-two-stage-least-squares-2sls)
+* [soderbom.net/lec2n_final.pdf](http://www.soderbom.net/lec2n_final.pdf)
+* [stats.stackexchange.com/questions/125830/consistency-of-2sls-with-binary-endogenous-variable](https://stats.stackexchange.com/questions/125830/consistency-of-2sls-with-binary-endogenous-variable)
+* [statalist.org/forums/forum/general-stata-discussion/general/1382150-xtivreg-re-f-test-tests-for-weak-instruments-and-overidentification](http://www.statalist.org/forums/forum/general-stata-discussion/general/1382150-xtivreg-re-f-test-tests-for-weak-instruments-and-overidentification)
+* [statalist.org/forums/forum/general-stata-discussion/general/1375222-instrumental-variables-using-dummy-variables-as-instruments](http://www.statalist.org/forums/forum/general-stata-discussion/general/1375222-instrumental-variables-using-dummy-variables-as-instruments)
+* [benjamindwilliams.weebly.com/uploads/6/8/5/7/68575765/notesonforbiddenregressions.pdf](http://benjamindwilliams.weebly.com/uploads/6/8/5/7/68575765/notesonforbiddenregressions.pdf)
+* [stata.com/statalist/archive/2010-02/msg00306.html](http://www.stata.com/statalist/archive/2010-02/msg00306.html)
+* [jstor.org/stable/4129541?seq=1#page_scan_tab_contents](https://www.jstor.org/stable/4129541?seq=1#page_scan_tab_contents)
+* [google.com/search?q=instrumental+variables+in+public%2Fprivate+evaluations&oq=instrumental+variables+in+public%2Fprivate+evaluations&aqs=chrome..69i57.10135j0j4&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=instrumental+variables+in+public%2Fprivate+evaluations&oq=instrumental+variables+in+public%2Fprivate+evaluations&aqs=chrome..69i57.10135j0j4&sourceid=chrome&ie=UTF-8)
+* [stats.stackexchange.com/questions/86399/sample-selection-model-mle-vs-two-step-estimation-and-panel-data](https://stats.stackexchange.com/questions/86399/sample-selection-model-mle-vs-two-step-estimation-and-panel-data)
+* [econometricstutorial.com/2015/03/instrumental-variables-find-the-bad-guys-stata/](http://econometricstutorial.com/2015/03/instrumental-variables-find-the-bad-guys-stata/)
+* [folk.uib.no/secaa/Public/VAM/Artikler/ivtreatreg_cerull.pdf](http://folk.uib.no/secaa/Public/VAM/Artikler/ivtreatreg_cerull.pdf)
+* [economics.mit.edu/files/18](https://economics.mit.edu/files/18)
+* [web.stanford.edu/group/SITE/archive/SITE_2006/Web%20Session%204/Todd.pdf](https://web.stanford.edu/group/SITE/archive/SITE_2006/Web%20Session%204/Todd.pdf)
+* [stata.com/manuals13/rivregresspostestimation.pdf](http://www.stata.com/manuals13/rivregresspostestimation.pdf)
+* [repec.org/bocode/i/ivreg2.html](http://www.repec.org/bocode/i/ivreg2.html)
+* [statalist.org/forums/forum/general-stata-discussion/general/1302474-2sls-regression-with-binary-endogenous-variable](http://www.statalist.org/forums/forum/general-stata-discussion/general/1302474-2sls-regression-with-binary-endogenous-variable)
 
 Verschiedene Themen
-* http://cameron.econ.ucdavis.edu/research/papers.html
-* https://link.springer.com/article/10.1186/1745-6215-12-151
-* http://www.iea.nl/sites/default/files/irc/IRC2004_Foy.pdf
-* https://www.researchgate.net/publication/251470522_Chapter_72_Econometric_Evaluation_of_Social_Programs_Part_III_Distributional_Treatment_Effects_Dynamic_Treatment_Effects_Dynamic_Discrete_Choice_and_General_Equilibrium_Policy_Evaluation
-* http://www.soderbom.net/lecture2.pdf
+* [cameron.econ.ucdavis.edu/research/papers.html](http://cameron.econ.ucdavis.edu/research/papers.html)
+* [link.springer.com/article/10.1186/1745-6215-12-151](https://link.springer.com/article/10.1186/1745-6215-12-151)
+* [iea.nl/sites/default/files/irc/IRC2004_Foy.pdf](http://www.iea.nl/sites/default/files/irc/IRC2004_Foy.pdf)
+* [researchgate.net/publication/251470522_Chapter_72_Econometric_Evaluation_of_Social_Programs_Part_III_Distributional_Treatment_Effects_Dynamic_Treatment_Effects_Dynamic_Discrete_Choice_and_General_Equilibrium_Policy_Evaluation](https://www.researchgate.net/publication/251470522_Chapter_72_Econometric_Evaluation_of_Social_Programs_Part_III_Distributional_Treatment_Effects_Dynamic_Treatment_Effects_Dynamic_Discrete_Choice_and_General_Equilibrium_Policy_Evaluation)
+* [soderbom.net/lecture2.pdf](http://www.soderbom.net/lecture2.pdf)
 
-* http://www.stata.com/meeting/11uk/gutierrez.pdf
-* http://documents.worldbank.org/curated/en/325281468161085236/pdf/665860WP00PUBL0ct0evaluation0report.pdf
-* http://econometricstutorial.com/
-* https://en.wikipedia.org/wiki/Quasi-experiment
-* https://pdfs.semanticscholar.org/6bd0/adf734a194039061d085202808e5a0763289.pdf
-* https://de.wikipedia.org/wiki/Methode_der_verallgemeinerten_kleinsten_Quadrate
-* http://www.stata.com/support/faqs/statistics/endogeneity-versus-sample-selection-bias/
+* [stata.com/meeting/11uk/gutierrez.pdf](http://www.stata.com/meeting/11uk/gutierrez.pdf)
+* [documents.worldbank.org/curated/en/325281468161085236/pdf/665860WP00PUBL0ct0evaluation0report.pdf](http://documents.worldbank.org/curated/en/325281468161085236/pdf/665860WP00PUBL0ct0evaluation0report.pdf)
+* [econometricstutorial.com/](http://econometricstutorial.com/)
+* [en.wikipedia.org/wiki/Quasi-experiment](https://en.wikipedia.org/wiki/Quasi-experiment)
+* [pdfs.semanticscholar.org/6bd0/adf734a194039061d085202808e5a0763289.pdf](https://pdfs.semanticscholar.org/6bd0/adf734a194039061d085202808e5a0763289.pdf)
+* [de.wikipedia.org/wiki/Methode_der_verallgemeinerten_kleinsten_Quadrate](https://de.wikipedia.org/wiki/Methode_der_verallgemeinerten_kleinsten_Quadrate)
+* [stata.com/support/faqs/statistics/endogeneity-versus-sample-selection-bias/](http://www.stata.com/support/faqs/statistics/endogeneity-versus-sample-selection-bias/)
 
-* https://de.wikipedia.org/wiki/Methode_der_kleinsten_Quadrate
-* http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.332.7359&rep=rep1&type=pdf
-* http://blogs.sas.com/content/iml/2016/10/05/weighted-regression.html
+* [de.wikipedia.org/wiki/Methode_der_kleinsten_Quadrate](https://de.wikipedia.org/wiki/Methode_der_kleinsten_Quadrate)
+* [citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.332.7359&rep=rep1&type=pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.332.7359&rep=rep1&type=pdf)
+* [blogs.sas.com/content/iml/2016/10/05/weighted-regression.html](http://blogs.sas.com/content/iml/2016/10/05/weighted-regression.html)
 
-* https://en.wikipedia.org/wiki/Covariance_matrix
-* http://stattrek.com/matrix-algebra/covariance-matrix.aspx
+* [en.wikipedia.org/wiki/Covariance_matrix](https://en.wikipedia.org/wiki/Covariance_matrix)
+* [stattrek.com/matrix-algebra/covariance-matrix.aspx](http://stattrek.com/matrix-algebra/covariance-matrix.aspx)
 
-* http://uweziegenhagen.de/teaching/stat/linreg.pdf
+* [uweziegenhagen.de/teaching/stat/linreg.pdf](http://uweziegenhagen.de/teaching/stat/linreg.pdf)
 (http://www.parisschoolofeconomics.eu/docs/dupraz-yannick/using-weights-in-stata(1).pdf)
-* http://www.centroportici.unina.it/centro/Cameron&Trivedi.pdf
-* http://www.stata.com/support/faqs/statistics/weights-and-summary-statistics/
-* http://www.stata.com/statalist/archive/2008-09/msg00291.html
-* https://openknowledge.worldbank.org/bitstream/handle/10986/2693/520990PUB0EPI1101Official0Use0Only1.pdf
-* http://www.stata.com/meeting/mexico13/abstracts/materials/mex13_baum.pdf
-* http://www.stata.com/manuals13/svy.pdf
-* http://www.stata.com/manuals13/svysvyestimation.pdf
+* [centroportici.unina.it/centro/Cameron&Trivedi.pdf](http://www.centroportici.unina.it/centro/Cameron&Trivedi.pdf)
+* [stata.com/support/faqs/statistics/weights-and-summary-statistics/](http://www.stata.com/support/faqs/statistics/weights-and-summary-statistics/)
+* [stata.com/statalist/archive/2008-09/msg00291.html](http://www.stata.com/statalist/archive/2008-09/msg00291.html)
+* [openknowledge.worldbank.org/bitstream/handle/10986/2693/520990PUB0EPI1101Official0Use0Only1.pdf](https://openknowledge.worldbank.org/bitstream/handle/10986/2693/520990PUB0EPI1101Official0Use0Only1.pdf)
+* [stata.com/meeting/mexico13/abstracts/materials/mex13_baum.pdf](http://www.stata.com/meeting/mexico13/abstracts/materials/mex13_baum.pdf)
+* [stata.com/manuals13/svy.pdf](http://www.stata.com/manuals13/svy.pdf)
+* [stata.com/manuals13/svysvyestimation.pdf](http://www.stata.com/manuals13/svysvyestimation.pdf)
 
 Andere
-* http://www.ssc.wisc.edu/~bhansen/econometrics/
-* https://en.wikipedia.org/wiki/Econometric_model
-* https://search.lib.byu.edu/byu/search?q=Complete+and+Incomplete+Econometric+Models
-* http://www.dummies.com/education/economics/econometrics/recognizing-usual-variables-normal-distribution/
-* http://freakonometrics.hypotheses.org/50425
-* http://mars.wiwi.hu-berlin.de/mediawiki/teachwiki/index.php/ANOVA
-* https://en.wikipedia.org/wiki/Kurtosis
-* https://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D0%B8%D1%81_%D1%82%D0%B5%D0%BE%D1%80%D1%96%D1%97_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8
-* https://en.wikipedia.org/wiki/Descriptive_statistics
+* [ssc.wisc.edu/~bhansen/econometrics/](http://www.ssc.wisc.edu/~bhansen/econometrics/)
+* [en.wikipedia.org/wiki/Econometric_model](https://en.wikipedia.org/wiki/Econometric_model)
+* [search.lib.byu.edu/byu/search?q=Complete+and+Incomplete+Econometric+Models](https://search.lib.byu.edu/byu/search?q=Complete+and+Incomplete+Econometric+Models)
+* [dummies.com/education/economics/econometrics/recognizing-usual-variables-normal-distribution/](http://www.dummies.com/education/economics/econometrics/recognizing-usual-variables-normal-distribution/)
+* [freakonometrics.hypotheses.org/50425](http://freakonometrics.hypotheses.org/50425)
+* [mars.wiwi.hu-berlin.de/mediawiki/teachwiki/index.php/ANOVA](http://mars.wiwi.hu-berlin.de/mediawiki/teachwiki/index.php/ANOVA)
+* [en.wikipedia.org/wiki/Kurtosis](https://en.wikipedia.org/wiki/Kurtosis)
+* [uk.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D0%B8%D1%81_%D1%82%D0%B5%D0%BE%D1%80%D1%96%D1%97_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8](https://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D0%B8%D1%81_%D1%82%D0%B5%D0%BE%D1%80%D1%96%D1%97_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8)
+* [en.wikipedia.org/wiki/Descriptive_statistics](https://en.wikipedia.org/wiki/Descriptive_statistics)
 
 Papiere
-* http://www.hha.dk/nat/WPER/03-2_bsr.pdf
-* https://msu.edu/~telder/
-* http://faculty.chicagobooth.edu/christian.hansen/research/
-* http://www.nber.org/papers/w5964
+* [hha.dk/nat/WPER/03-2_bsr.pdf](http://www.hha.dk/nat/WPER/03-2_bsr.pdf)
+* [msu.edu/~telder/](https://msu.edu/~telder/)
+* [faculty.chicagobooth.edu/christian.hansen/research/](http://faculty.chicagobooth.edu/christian.hansen/research/)
+* [nber.org/papers/w5964](http://www.nber.org/papers/w5964)
 
-* http://pricetheory.uchicago.edu/levitt/Papers/Hoxby2005.pdf
-* http://eml.berkeley.edu/~jrothst/publications/rothstein-hoxbycomment-AER-appendix.pdf
-* https://economics.mit.edu/faculty/angrist/data1
+* [pricetheory.uchicago.edu/levitt/Papers/Hoxby2005.pdf](http://pricetheory.uchicago.edu/levitt/Papers/Hoxby2005.pdf)
+* [eml.berkeley.edu/~jrothst/publications/rothstein-hoxbycomment-AER-appendix.pdf](http://eml.berkeley.edu/~jrothst/publications/rothstein-hoxbycomment-AER-appendix.pdf)
+* [economics.mit.edu/faculty/angrist/data1](https://economics.mit.edu/faculty/angrist/data1)
 
 Interactions
 
-* [https://en.wikipedia.org/wiki/Interaction_(statistics)](https://en.wikipedia.org/wiki/Interaction_(statistics))
-* http://www.polsci.ucsb.edu/faculty/glasgow/ps15/dvint.pdf
+* [en.wikipedia.org/wiki/Interaction_(statistics)](https://en.wikipedia.org/wiki/Interaction_(statistics))
+* [polsci.ucsb.edu/faculty/glasgow/ps15/dvint.pdf](http://www.polsci.ucsb.edu/faculty/glasgow/ps15/dvint.pdf)
 
 * [Correción de Heckman](https://es.wikipedia.org/wiki/Correci%C3%B3n_de_Heckman)
 
@@ -836,14 +836,14 @@ Beispiele/Bücher für Stata
 
 
 ### Determinant
-book * https://www.lem.ma/content/DVlhfW4GaPdOz2lEH08LvQ?book_id=AIApowDnjlDDQrp-uOZVow Dertiminant
+book * [lem.ma/content/DVlhfW4GaPdOz2lEH08LvQ?book_id=AIApowDnjlDDQrp-uOZVow](https://www.lem.ma/content/DVlhfW4GaPdOz2lEH08LvQ?book_id=AIApowDnjlDDQrp-uOZVow) Dertiminant
 * [Jacobi's Formula for the Derivative of a Determinant](https://people.eecs.berkeley.edu/~wkahan/MathH110/jacobi.pdf)
 * [Derivative of a Determinant](https://folk.ntnu.no/hanche/notes/diffdet/diffdet.pdf)
 * [Jacobi%27s_formula](https://en.wikipedia.org/wiki/Jacobi%27s_formula)
 * [Jacobi’s formula for the derivative of a determinant](https://gotohaggstrom.com/Jacobis%20formula%20for%20the%20derivative%20of%20a%20determinant.pdf)
 * [Jacobi’s Formula For The Derivative Of A Determinant Revisited](https://anhngq.wordpress.com/2011/03/13/jacobis-formula-for-the-derivative-of-a-determinant-revisited/)
-* https://mathoverflow.net/questions/214908/proof-for-the-derivative-of-the-determinant-of-a-matrix
-* https://math.stackexchange.com/questions/1781775/an-intuitive-way-to-understand-the-jacobis-formula
+* [mathoverflow.net/questions/214908/proof-for-the-derivative-of-the-determinant-of-a-matrix](https://mathoverflow.net/questions/214908/proof-for-the-derivative-of-the-determinant-of-a-matrix)
+* [math.stackexchange.com/questions/1781775/an-intuitive-way-to-understand-the-jacobis-formula](https://math.stackexchange.com/questions/1781775/an-intuitive-way-to-understand-the-jacobis-formula)
 
 ## Trace
 * [Trace_(linear_algebra)](https://en.wikipedia.org/wiki/Trace_(linear_algebra))
@@ -864,8 +864,8 @@ book * https://www.lem.ma/content/DVlhfW4GaPdOz2lEH08LvQ?book_id=AIApowDnjlDDQrp
 ?                                                  <|> * [Welch](https://github.com/stephencwelch/Neural-Networks-Demystified?files=1)
 ?                                                  <|> * [multimorphism in nLab](https://ncatlab.org/nlab/show/multimorphism)
 ?                                                  <|> * [Актуальная математика: Коллективные эффекты в топологии965 переглядів](https://vk.com/video-94010172_456243263?list=bb0dbfaa4f9d1f3469)
-?                                                  <|> * https://sheelganatra.com/math440/
-?                                                  <|> * https://www.sciencedirect.com/topics/computer-science/map-projection
+?                                                  <|> * [sheelganatra.com/math440/](https://sheelganatra.com/math440/)
+?                                                  <|> * [sciencedirect.com/topics/computer-science/map-projection](https://www.sciencedirect.com/topics/computer-science/map-projection)
 ?                                                  <|> maps are drawn in,constant scale in all directions.
 a euler google q search 1c5chfa_enus800us800 поиск oq rlz <|> * [when is a shape Euler measurable - Поиск в Google](https://www.google.com/search?rlz=1C5CHFA_enUS800US800&sxsrf=ALeKk03dz4T2V2d19GkLJfGMAXDxxki3Wg%3A1588333487168&ei=rwusXsPkCc6vkwXNkaDADA&q=when+is+a+shape+Euler+measurable&oq=when+is+a+shape+Euler+measurable&gs_lcp=CgZwc3ktYWIQA1CkFVikFWCbF2gAcAB4AIABfIgByAKSAQMxLjKYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwiD-KWqy5LpAhXO16QKHc0ICMgQ4dUDCAw&uact=5)
 a google q search 1c5chfa_enus800us800 8 поиск oq rlz ie utf aqs sourceid chrome definition <|> * [definition of a topological embedding - Поиск в Google](https://www.google.com/search?q=definition+of+a+topological+embedding&rlz=1C5CHFA_enUS800US800&oq=definition+of+a+topological+embedding&aqs=chrome..69i57j0.6168j0j7&sourceid=chrome&ie=UTF-8)
@@ -876,7 +876,7 @@ a the                                              <|> * [Cartography and the ot
 a the proof                                        <|> * [1.1) A topological proof going in circles and counting](https://www.cut-the-knot.org/fta/courant.shtml)
 de google                                          <|> * [Notas de topología](https://docs.google.com/spreadsheets/d/1K5ehVIyEMZNfgqRRMasRQ-n3atg4eoT3CGDJWCHHI5A/edit?usp=sharing)
 de math pdf uni topologie skript                   <|> * [Topologie Skript Bielefeld](https://www.math.uni-bielefeld.de/~fw/ein.pdf)
-de math uni topologie teaching                     <|> * https://www.math.uni-bielefeld.de/~preston/teaching/topologie/files/
+de math uni topologie teaching                     <|> * [math.uni-bielefeld.de/~preston/teaching/topologie/files/](https://www.math.uni-bielefeld.de/~preston/teaching/topologie/files/)
 de pdf uni fileadmin 020 mawi ulm website_uni_ulm inst sauter 2015 ws14 theory <|> * [Ch3c](https://www.uni-ulm.de/fileadmin/website_uni_ulm/mawi.inst.020/sauter/ws14/measure-theory.part3.2015-02-05.pdf)
 de pdf uni fileadmin 020 mawi ulm website_uni_ulm inst sauter ws14 theory <|> * [Ch3](https://www.uni-ulm.de/fileadmin/website_uni_ulm/mawi.inst.020/sauter/ws14/measure-theory.part1.2014-12-19.pdf)
 de pdf uni fileadmin mawi 020 ulm website_uni_ulm inst skript <|> * [Applied Analysis (Skript)](https://www.uni-ulm.de/fileadmin/website_uni_ulm/mawi.inst.020/kunze/aa11/skript.pdf)
@@ -888,12 +888,12 @@ de pdf uni topologie mathematik skript teaching    <|> * [Einführung in die Top
 de topologie                                       <|> * [Allgemeine Topologie (Bartsch)](https://www.thalia.de/shop/home/artikeldetails/ID40314430.html?ProvID=11000522&gclid=CjwKCAiA2O39BRBjEiwApB2IkvH4CDqW6KxrXn0DOf_T55B7H2A_2mo-guryFRnOwWqWH3y-aHDnghoCjD8QAvD_BwE)
 de uni                                             <|> * [Polytopal and Simplicial Complexes](http://www.rambau.wm.uni-bayreuth.de/Diss/diss_MASTER/node36.html)
 de uni                                             <|> * [Polytopal and Simplicial Complexes](http://www.rambau.wm.uni-bayreuth.de/Diss/diss_MASTER/node36.html)
-de uni                                             <|> * http://electure.studiumdigitale.uni-frankfurt.de/index.php?cat=1&sem=3&videolist=91
+de uni                                             <|> * [electure.studiumdigitale.uni-frankfurt.de/index.php?cat=1&sem=3&videolist=91](http://electure.studiumdigitale.uni-frankfurt.de/index.php?cat=1&sem=3&videolist=91)
 de uni cauchy                                      <|> * [LP – Cauchy-Schwarzsche Ungleichung](https://lp.uni-goettingen.de/get/text/3257)
 de uni cauchy                                      <|> * [LP – Cauchy-Schwarzsche Ungleichung](https://lp.uni-goettingen.de/get/text/3257)
 de uni mathematik                                  <|> * [Michael Eisermann - Publications](https://pnp.mathematik.uni-stuttgart.de/igt/eiserm/publications/)
 de uni topologie 2015                              <|> * [Professor Eisermann, können Sie sich kurz fassen? | News | 01.11.2015 | Institut für Geometrie und Topologie | Universität Stuttgart](https://www.igt.uni-stuttgart.de/aktuelles/Professor-Eisermann-koennen-Sie-sich-kurz-fassen-00001/)
-de uni topologie mathematik                        <|> * https://pnp.mathematik.uni-stuttgart.de/igt/eiserm/lehre/Topologie/
+de uni topologie mathematik                        <|> * [pnp.mathematik.uni-stuttgart.de/igt/eiserm/lehre/Topologie/](https://pnp.mathematik.uni-stuttgart.de/igt/eiserm/lehre/Topologie/)
 de uni topologie mathematik teaching               <|> * [Einführung in die Topologie (Aufgaben)](https://www.mathematik.uni-kl.de/~mschulze/teaching/19S-Topo/)
 de wiki definition                                 <|> * [Affiner Unterraum/Verschobener Untervektorraum/Definition – Wikiversity](https://de.wikiversity.org/wiki/Affiner_Unterraum/Verschobener_Untervektorraum/Definition)
 de wiki wikipedia                                  <|> * [Quotiententopologie – Wikipedia](https://de.wikipedia.org/wiki/Quotiententopologie)
@@ -919,13 +919,13 @@ google q search for space 1c5chfa_enus800us800 8 поиск oq rlz ie utf aqs so
 math                                               <|> * [Awesome Math](https://github.com/rossant/awesome-math)
 math                                               <|> * [MATH](https://www.ams.org/open-math-notes)
 math                                               <|> * [Math Inshight](https://mathinsight.org/)
-math                                               <|> * https://www.math.uzh.ch/gorodnik/109a2/
+math                                               <|> * [math.uzh.ch/gorodnik/109a2/](https://www.math.uzh.ch/gorodnik/109a2/)
 math a                                             <|> * [A 53-Year-Old Network Coloring Conjecture Is Disproved](https://www.reddit.com/r/math/comments/cdo2x6/a_53yearold_network_coloring_conjecture_is/)
 math a how proof                                   <|> * [How To Construct a Delta-Epsilon Proof](http://www.milefoot.com/math/calculus/limits/DeltaEpsilonProofs03.htm)
 math a question stackexchange mathematic stack how exchange i <|> * [logic - How do I prove that a function is well defined? - Mathematics Stack Exchange](https://math.stackexchange.com/questions/313169/how-do-i-prove-that-a-function-is-well-defined)
 math algebra by                                    <|> * [Getting heavily slowed down by (homological) algebra](https://www.reddit.com/r/math/comments/i8075e/getting_heavily_slowed_down_by_homological_algebra/)
-math edu                                           <|> * http://people.math.harvard.edu/~bullery/math131/
-math edu                                           <|> * https://www.math.wustl.edu/~freiwald/418syllsp10.html
+math edu                                           <|> * [people.math.harvard.edu/~bullery/math131/](http://people.math.harvard.edu/~bullery/math131/)
+math edu                                           <|> * [math.wustl.edu/~freiwald/418syllsp10.html](https://www.math.wustl.edu/~freiwald/418syllsp10.html)
 math euler euler s formula                         <|> * [Euler's polyhedron formula | plus.maths.org](https://plus.maths.org/content/eulers-polyhedron-formula)
 math euler euler s formula                         <|> * [Euler's polyhedron formula | plus.maths.org](https://plus.maths.org/content/eulers-polyhedron-formula)
 math pdf edu                                       <|> * [MetrizationTheorem_v5.dvi](http://homepage.math.uiowa.edu/~jsimon/COURSES/M132Fall07/MetrizationTheorem_v5.pdf)
@@ -961,7 +961,7 @@ the how fundamental i                              <|> How should I think about 
 theory                                             <|> * [Best (incl. theory)](http://www.cristiandima.com/neural-networks-from-scratch-in-python/)
 topologie                                          <|> * [Topologie et géométrie](http://www.geometrygames.org/)
 topologie q search                                 <|> * [Topologie in Podcasts](https://www.listennotes.com/search/?q=topologie&sort_by_date=0&scope=episode&offset=0&language=Any%20language&len_min=0)
-topology                                           <|> * https://www.britannica.com/science/topology
+topology                                           <|> * [britannica.com/science/topology](https://www.britannica.com/science/topology)
 topology                                           <|> G.E. Bredon: Topology and geometry, Springer 1993.
 topology a algebraic                               <|> J. Dieudonné: , Birkhäuser 1989. A History of Algebraic and Differential Topology
 topology google q search utf 8 ie                  <|> * [topology exam - Cerca con Google](https://www.google.com/search?q=topology+exam&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
@@ -972,7 +972,7 @@ topology the                                       <|> * [Steve Smale on Topolog
 topology the how                                   <|> * Topology and Map Projections - How to use the tools of topology to create good compromise map projections? (between scale and direction, etc.)
 wiki wikipedia                                     <|> * [Axiom of countability - Wikipedia](https://en.wikipedia.org/wiki/Axiom_of_countability)
 wiki wikipedia                                     <|> * [Pavel Urysohn - Wikipedia](https://en.wikipedia.org/wiki/Pavel_Urysohn)
-wiki wikipedia                                     <|> * https://en.wikipedia.org/wiki/Topological_map
+wiki wikipedia                                     <|> * [en.wikipedia.org/wiki/Topological_map](https://en.wikipedia.org/wiki/Topological_map)
 wiki wikipedia cauchy                              <|> * [Cauchy–Schwarz inequality - Wikipedia](https://en.wikipedia.org/wiki/Cauchy%E2%80%93Schwarz_inequality)
 wiki wikipedia euler characteristic                <|> * [Euler characteristic - Wikipedia](https://en.wikipedia.org/wiki/Euler_characteristic)
 wiki wikipedia euler characteristic                <|> * [Euler characteristic - Wikipedia](https://en.wikipedia.org/wiki/Euler_characteristic)
@@ -990,16 +990,16 @@ wiki wikipedia topology space                      <|> * [Quotient space (topolo
 
 ## Analysis
 * How to Think about Analysis
-* http://davidlowryduda.com/an-intuitive-overview-of-taylor-series/
-* http://eml.berkeley.edu/~webfac/card/e101a_s05/consumerenvelope.pdf
-* http://home.mathematik.uni-freiburg.de/soergel/Skripten/ANALYSIS.pdf
-* http://www.cco.caltech.edu/~mamikon/calculus.html
-* http://www.math.ucla.edu/~tao/preprints/compactness.pdf
-* http://www.math.uni-hamburg.de/home/riemenschneider/anvorl2.pdf
-* http://www.podcastscience.fm/dossiers/2012/02/22/dossier-linfini-quand-il-ny-en-a-plus-il-y-a-cantor/
-* https://en.wikipedia.org/wiki/Taylor_series
-* https://en.wikipedia.org/wiki/Taylor%27s_theorem
-* https://www.math.uni-hamburg.de/home/riemenschneider/anvorl1.pdf
+* [davidlowryduda.com/an-intuitive-overview-of-taylor-series/](http://davidlowryduda.com/an-intuitive-overview-of-taylor-series/)
+* [eml.berkeley.edu/~webfac/card/e101a_s05/consumerenvelope.pdf](http://eml.berkeley.edu/~webfac/card/e101a_s05/consumerenvelope.pdf)
+* [home.mathematik.uni-freiburg.de/soergel/Skripten/ANALYSIS.pdf](http://home.mathematik.uni-freiburg.de/soergel/Skripten/ANALYSIS.pdf)
+* [cco.caltech.edu/~mamikon/calculus.html](http://www.cco.caltech.edu/~mamikon/calculus.html)
+* [math.ucla.edu/~tao/preprints/compactness.pdf](http://www.math.ucla.edu/~tao/preprints/compactness.pdf)
+* [math.uni-hamburg.de/home/riemenschneider/anvorl2.pdf](http://www.math.uni-hamburg.de/home/riemenschneider/anvorl2.pdf)
+* [podcastscience.fm/dossiers/2012/02/22/dossier-linfini-quand-il-ny-en-a-plus-il-y-a-cantor/](http://www.podcastscience.fm/dossiers/2012/02/22/dossier-linfini-quand-il-ny-en-a-plus-il-y-a-cantor/)
+* [en.wikipedia.org/wiki/Taylor_series](https://en.wikipedia.org/wiki/Taylor_series)
+* [en.wikipedia.org/wiki/Taylor%27s_theorem](https://en.wikipedia.org/wiki/Taylor%27s_theorem)
+* [math.uni-hamburg.de/home/riemenschneider/anvorl1.pdf](https://www.math.uni-hamburg.de/home/riemenschneider/anvorl1.pdf)
 
 ## Linear Algebra
 ### SORT
@@ -1008,51 +1008,51 @@ wiki wikipedia topology space                      <|> * [Quotient space (topolo
 ?                                                  <|> * [Linear Algebra of Types - Hey There Buddo!](https://www.reddit.com/r/haskell/comments/d80hd0/linear_algebra_of_types_hey_there_buddo/)
 ?                                                  <|> * [Rank, Trace, Determinant, Transpose, and Inverse of Matrices](http://fourier.eng.hmc.edu/e176/lectures/algebra/node3.html)
 ?                                                  <|> * [Vectors, Arrays and Matrices – Quantitative Economics](https://lectures.quantecon.org/jl/julia_arrays.html)
-?                                                  <|> * http://mathinsight.org/dot_product_matrix_notation
-?                                                  <|> * http://pages.stern.nyu.edu/~gsimon/B902301Page/CLASS02_24FEB10/MatrixModel.pdf
-?                                                  <|> * http://tice.inpl-nancy.fr/modules/unit-stat/chapitre7/
-?                                                  <|> * http://web.stanford.edu/~mrosenfe/soc_meth_proj3/matrix_OLS_NYU_notes.pdf
-?                                                  <|> * http://www.abi-mathe.de/buch/matrizen/methode-der-kleinsten-quadrate/
-?                                                  <|> * http://www.jybaudot.fr/Correl_regress/rlm.html
-?                                                  <|> * http://www.mathe-online.at/mathint/vect1/i.html#Vektor
-?                                                  <|> * https://docs.google.com/spreadsheets/d/14xweS09LFKyVR_iB0JS1dFCirhnweev4qsj3nCDPdB0/edit#gid=298573293
-?                                                  <|> * https://onlinecourses.science.psu.edu/stat501/node/382
+?                                                  <|> * [mathinsight.org/dot_product_matrix_notation](http://mathinsight.org/dot_product_matrix_notation)
+?                                                  <|> * [pages.stern.nyu.edu/~gsimon/B902301Page/CLASS02_24FEB10/MatrixModel.pdf](http://pages.stern.nyu.edu/~gsimon/B902301Page/CLASS02_24FEB10/MatrixModel.pdf)
+?                                                  <|> * [tice.inpl-nancy.fr/modules/unit-stat/chapitre7/](http://tice.inpl-nancy.fr/modules/unit-stat/chapitre7/)
+?                                                  <|> * [web.stanford.edu/~mrosenfe/soc_meth_proj3/matrix_OLS_NYU_notes.pdf](http://web.stanford.edu/~mrosenfe/soc_meth_proj3/matrix_OLS_NYU_notes.pdf)
+?                                                  <|> * [abi-mathe.de/buch/matrizen/methode-der-kleinsten-quadrate/](http://www.abi-mathe.de/buch/matrizen/methode-der-kleinsten-quadrate/)
+?                                                  <|> * [jybaudot.fr/Correl_regress/rlm.html](http://www.jybaudot.fr/Correl_regress/rlm.html)
+?                                                  <|> * [mathe-online.at/mathint/vect1/i.html#Vektor](http://www.mathe-online.at/mathint/vect1/i.html#Vektor)
+?                                                  <|> * [docs.google.com/spreadsheets/d/14xweS09LFKyVR_iB0JS1dFCirhnweev4qsj3nCDPdB0/edit#gid=298573293](https://docs.google.com/spreadsheets/d/14xweS09LFKyVR_iB0JS1dFCirhnweev4qsj3nCDPdB0/edit#gid=298573293)
+?                                                  <|> * [onlinecourses.science.psu.edu/stat501/node/382](https://onlinecourses.science.psu.edu/stat501/node/382)
 matrix                                             <|> * [How to Find the Null Space of a Matrix](https://www.wikihow.com/Find-the-Null-Space-of-a-Matrix)
 matrix                                             <|> ==> Why are the dot product, the matrix product and the determinant of a matrix defined the way they are? : learnmath
-question                                           <|> * https://answers.yahoo.com/question/index?qid=20081012135509AA1xtKz
+question                                           <|> * [answers.yahoo.com/question/index?qid=20081012135509AA1xtKz](https://answers.yahoo.com/question/index?qid=20081012135509AA1xtKz)
 question math stackexchange                        <|> * [Frobenius Inequality Rank](https://math.stackexchange.com/questions/497830/frobenius-inequality-rank)
 question math stackexchange                        <|> * [linear algebra - What kind of matrices are non-diagonalizable? - Mathematics Stack Exchange](https://math.stackexchange.com/questions/472915/what-kind-of-matrices-are-non-diagonalizable/472958#472958)
-question math stackexchange                        <|> * https://math.stackexchange.com/questions/497830/frobenius-inequality-rank
-question matrix math stackexchange                 <|> * https://math.stackexchange.com/questions/24456/matrix-multiplication-interpreting-and-understanding-the-process/24469#24469
+question math stackexchange                        <|> * [math.stackexchange.com/questions/497830/frobenius-inequality-rank](https://math.stackexchange.com/questions/497830/frobenius-inequality-rank)
+question matrix math stackexchange                 <|> * [math.stackexchange.com/questions/24456/matrix-multiplication-interpreting-and-understanding-the-process/24469#24469](https://math.stackexchange.com/questions/24456/matrix-multiplication-interpreting-and-understanding-the-process/24469#24469)
 wiki wikipedia                                     <|> * [Bilinear form - Wikipedia](https://en.wikipedia.org/wiki/Bilinear_form)
-wiki wikipedia                                     <|> * https://en.wikipedia.org/wiki/Jacobi's_formula
-wiki wikipedia                                     <|> * https://en.wikipedia.org/wiki/Matrix_multiplication
-wiki wikipedia                                     <|> * https://es.wikipedia.org/wiki/Producto_de_Kronecker
-wiki wikipedia                                     <|> * https://es.wikipedia.org/wiki/Producto_tensorial
+wiki wikipedia                                     <|> * [en.wikipedia.org/wiki/Jacobi's_formula](https://en.wikipedia.org/wiki/Jacobi's_formula)
+wiki wikipedia                                     <|> * [en.wikipedia.org/wiki/Matrix_multiplication](https://en.wikipedia.org/wiki/Matrix_multiplication)
+wiki wikipedia                                     <|> * [es.wikipedia.org/wiki/Producto_de_Kronecker](https://es.wikipedia.org/wiki/Producto_de_Kronecker)
+wiki wikipedia                                     <|> * [es.wikipedia.org/wiki/Producto_tensorial](https://es.wikipedia.org/wiki/Producto_tensorial)
 wiki wikipedia matrix                              <|> * [Matrix norm - Wikipedia](https://en.wikipedia.org/wiki/Matrix_norm#Frobenius_norm)
-wikipedia wiki                                     <|> * [https://ru.wikipedia.org/wiki/Процесс_Грама_―_Шмидта](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81_%D0%93%D1%80%D0%B0%D0%BC%D0%B0_%E2%80%95_%D0%A8%D0%BC%D0%B8%D0%B4%D1%82%D0%B0)
+wikipedia wiki                                     <|> * [ru.wikipedia.org/wiki/Процесс_Грама_―_Шмидта](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81_%D0%93%D1%80%D0%B0%D0%BC%D0%B0_%E2%80%95_%D0%A8%D0%BC%D0%B8%D0%B4%D1%82%D0%B0)
 wikipedia wiki                                     <|> * [Подібні матриці — Вікіпедія](https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B4%D1%96%D0%B1%D0%BD%D1%96_%D0%BC%D0%B0%D1%82%D1%80%D0%B8%D1%86%D1%96)
 
 ## Tensors
-* https://www.scienceonline.it/blog/2018/08/07/tensori-e-basi-della-relativita-per-studenti-del-corso-di-laurea-in-fisica/
+* [scienceonline.it/blog/2018/08/07/tensori-e-basi-della-relativita-per-studenti-del-corso-di-laurea-in-fisica/](https://www.scienceonline.it/blog/2018/08/07/tensori-e-basi-della-relativita-per-studenti-del-corso-di-laurea-in-fisica/)
 * [From Scalar to Tensor: Fundamental Mathematics for Machine Learning with Intuitive Examples Part 1/3](https://medium.com/datadriveninvestor/from-scalar-to-tensor-fundamental-mathematics-for-machine-learning-with-intuitive-examples-part-163727dfea8d)
 * [Tensor-Gotman.pdf](https://vk.com/doc4287568_509004721?hash=9954c296cd17c8bdc2&dl=c35ad0ae4bb35e0f52)
 YouTube was ist ein Tensor?
 
 ### Jordan Normal Form
-?                                                  <|> * http://www.rinconmatematico.com/libros.htm
+?                                                  <|> * [rinconmatematico.com/libros.htm](http://www.rinconmatematico.com/libros.htm)
 ?                                                  <|> JCF
 ?                                                  <|> LA with Intro to AA
-?                                                  <|> book book * https://libgen.is/book/index.php?md5=BB22E4DA88322F14FD285CB6A4842A75
+?                                                  <|> book book * [libgen.is/book/index.php?md5=BB22E4DA88322F14FD285CB6A4842A75](https://libgen.is/book/index.php?md5=BB22E4DA88322F14FD285CB6A4842A75)
 jordan                                             <|> * ["Histoire du théorème de Jordan de la décomposition matricielle (1870-1930). Formes de représentation et méthodes de décomposition"](https://tel.archives-ouvertes.fr/tel-00142786)
 jordan form                                        <|> * [Jordan Canonical Form article at mathworld.wolfram.com](http://mathworld.wolfram.com/JordanCanonicalForm.html)
 jordan form theory                                 <|> book book * [Jordan Canonical Form: Theory and Practice (Synthesis Lectures on Mathematics and Statistics)](https://b-ok.cc/book/660097/cc73d1)
 jordan linear algebra form math question stackexchange <|> * [linear algebra - What is the purpose of Jordan Canonical Form? - Mathematics Stack Exchange](https://math.stackexchange.com/questions/1034676/what-is-the-purpose-of-jordan-canonical-form)
-jordan math question stackexchange                 <|> * https://math.stackexchange.com/questions/131819/are-jordan-chains-always-linearly-independent
-jordan math question stackexchange                 <|> * https://math.stackexchange.com/questions/131819/are-jordan-chains-always-linearly-independent/131863#131863
+jordan math question stackexchange                 <|> * [math.stackexchange.com/questions/131819/are-jordan-chains-always-linearly-independent](https://math.stackexchange.com/questions/131819/are-jordan-chains-always-linearly-independent)
+jordan math question stackexchange                 <|> * [math.stackexchange.com/questions/131819/are-jordan-chains-always-linearly-independent/131863#131863](https://math.stackexchange.com/questions/131819/are-jordan-chains-always-linearly-independent/131863#131863)
 jordan pdf                                         <|> * [LA with Jordan in Appendix](https://mathematicalolympiads.files.wordpress.com/2012/08/lineer-algebra2.pdf)
 jordan pdf                                         <|> book * [Newer wo Jordan](https://www.mobt3ath.com/uplode/book/book-33740.pdf)
-jordan pdf form math                               <|> * https://www.maths.tcd.ie/~pete/ma1212/chapter2.pdf Jordan Forms
+jordan pdf form math                               <|> * [maths.tcd.ie/~pete/ma1212/chapter2.pdf](https://www.maths.tcd.ie/~pete/ma1212/chapter2.pdf) Jordan Forms
 jordan wiki wikipedia form                         <|> * [Golub, Gene H.; Wilkinson, J. H. (1976). "Ill-conditioned eigensystems and the computation of the Jordan normal form". SIAM Review. 18 (4): 578–619.](https://en.wikipedia.org/wiki/SIAM_Review)
 jordan wiki wikipedia form                         <|> * [Jordan normal form:](https://en.wikipedia.org/wiki/Jordan_normal_form)
 linear algebra                                     <|> Shafarevich, I. R.; Remizov, A. O. (2012), Linear Algebra and Geometry, Springer, ISBN 978-3-642-30993-9
@@ -1066,7 +1066,7 @@ matrix charle                                      <|> Horn, Roger A.; Johnson, 
 matrix ed charle                                   <|> Golub, Gene H.; Van Loan, Charles F. (1996), Matrix Computations (3rd ed.), Baltimore: Johns Hopkins University Press, ISBN 0-8018-5414-8
 matrix theory                                      <|> Franklin, Joel N. (1968), Matrix Theory, Englewood Cliffs: Prentice-Hall, LCCN 68016345
 pdf                                                <|> * [Жорданова нормальная форма](http://lib.usue.ru/resource/free/10/MelnikovAlgebra3/00JourdFm.pdf)
-pdf                                                <|> * http://m.mathnet.ru/links/321619829fba9afab07329a5e87a1bb2/mzm9303.pdf
+pdf                                                <|> * [m.mathnet.ru/links/321619829fba9afab07329a5e87a1bb2/mzm9303.pdf](http://m.mathnet.ru/links/321619829fba9afab07329a5e87a1bb2/mzm9303.pdf)
 wiki wikipedia                                     <|> * [Generalized_eigenvector](https://en.wikipedia.org/wiki/Generalized_eigenvector)
 wiki wikipedia                                     <|> * [Jordan_normal_form](https://en.wikipedia.org/wiki/Jordan_normal_form)
 wiki wikipedia algebra                             <|> * [MacLane, Saunders; Birkhoff, Garrett (1967), Algebra, Macmillan Publishers](https://en.wikipedia.org/wiki/Macmillan_Publishers)
@@ -1077,16 +1077,16 @@ wiki wikipedia linear ed                           <|> * [Finkbeiner II, Daniel 
 wiki wikipedia linear theory                       <|> * [Dunford, N.; Schwartz, J. T. (1958), Linear Operators, Part I: General Theory, Interscience](https://en.wikipedia.org/wiki/Interscience)
 --------------------------------------------------------------------------------------------------------------------    [outstanding intuition for eigenvalues and determinant](https://intuitive-math.club/linear-algebra/eigenvalues/)
 * [Intuitive Math](https://intuitive-math.club/)
-* https://www.google.com/search?q=jordan+form+proof&oq=jordan+form+proof&aqs=chrome..69i57j0l5.3883j0j4&sourceid=chrome&ie=UTF-8
-* http://www.cse.zju.edu.cn/eclass/attachments/2015-10/01-1446085870-145420.pdf
-* https://www.maths.tcd.ie/~vdots/teaching/files/MA1111+1212-0809/113jord.pdf
-* http://www.ctr.maths.lu.se/media11/MATM14/2011MATM14_vt11/jordan_.pdf
-* https://www.csie.ntu.edu.tw/~b89089/link/_Jordan.pdf
-* https://kam.mff.cuni.cz/~ludek/LA/Jordan.pdf
-* http://www.ma.rhul.ac.uk/~uvah099/Maths/JNFfinal.pdf
-* http://math.uchicago.edu/~may/REU2017/REUPapers/Day.pdf
-* http://math.uchicago.edu/~may/REU2017/REUPapers/Day.pdf
-* https://math.stackexchange.com/questions/1616128/what-is-the-easiest-proof-you-know-for-the-jordan-canonical-form
+* [google.com/search?q=jordan+form+proof&oq=jordan+form+proof&aqs=chrome..69i57j0l5.3883j0j4&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=jordan+form+proof&oq=jordan+form+proof&aqs=chrome..69i57j0l5.3883j0j4&sourceid=chrome&ie=UTF-8)
+* [cse.zju.edu.cn/eclass/attachments/2015-10/01-1446085870-145420.pdf](http://www.cse.zju.edu.cn/eclass/attachments/2015-10/01-1446085870-145420.pdf)
+* [maths.tcd.ie/~vdots/teaching/files/MA1111+1212-0809/113jord.pdf](https://www.maths.tcd.ie/~vdots/teaching/files/MA1111+1212-0809/113jord.pdf)
+* [ctr.maths.lu.se/media11/MATM14/2011MATM14_vt11/jordan_.pdf](http://www.ctr.maths.lu.se/media11/MATM14/2011MATM14_vt11/jordan_.pdf)
+* [csie.ntu.edu.tw/~b89089/link/_Jordan.pdf](https://www.csie.ntu.edu.tw/~b89089/link/_Jordan.pdf)
+* [kam.mff.cuni.cz/~ludek/LA/Jordan.pdf](https://kam.mff.cuni.cz/~ludek/LA/Jordan.pdf)
+* [ma.rhul.ac.uk/~uvah099/Maths/JNFfinal.pdf](http://www.ma.rhul.ac.uk/~uvah099/Maths/JNFfinal.pdf)
+* [math.uchicago.edu/~may/REU2017/REUPapers/Day.pdf](http://math.uchicago.edu/~may/REU2017/REUPapers/Day.pdf)
+* [math.uchicago.edu/~may/REU2017/REUPapers/Day.pdf](http://math.uchicago.edu/~may/REU2017/REUPapers/Day.pdf)
+* [math.stackexchange.com/questions/1616128/what-is-the-easiest-proof-you-know-for-the-jordan-canonical-form](https://math.stackexchange.com/questions/1616128/what-is-the-easiest-proof-you-know-for-the-jordan-canonical-form)
 - --------------------------------------------------------------------------------------------------------------------    [Possibly Best](https://mattbaker.blog/2015/07/31/the-jordan-canonical-form/)
 * [Wahlen](http://www.ctr.maths.lu.se/media11/MATM14/2011MATM14_vt11/jordan_.pdf)
 * [Short Proof Wilden](http://www.ma.rhul.ac.uk/~uvah099/Maths/JNFfinal.pdf)
@@ -1103,68 +1103,68 @@ wiki wikipedia linear theory                       <|> * [Dunford, N.; Schwartz,
 * [Ximera](https://ximera.osu.edu/laode/linearAlgebra/matrixNormalForms/proofOfJordanNormalForm)
 * [Wikipedia](https://en.wikipedia.org/wiki/Jordan_normal_form#A_proof)
 - --------------------------------------------------------------------------------------------------------------------    RU
-book * http://scask.ru/p_book_alin.php?id=36
-* http://www.fipm.ru/zhordan.shtml
+book * [scask.ru/p_book_alin.php?id=36](http://scask.ru/p_book_alin.php?id=36)
+* [fipm.ru/zhordan.shtml](http://www.fipm.ru/zhordan.shtml)
 * [Folien](http://lib.usue.ru/resource/free/10/MelnikovAlgebra3/00JourdFm.pdf)
-* https://knowen.org/nodes/457
-* [https://wiki.compscicenter.ru/images/e/ec/Homework_7_algebra_170427(term_2).pdf](https://wiki.compscicenter.ru/images/e/ec/Homework_7_algebra_170427(term_2).pdf)
-* http://matica.org.ua/metodichki-i-knigi-po-matematike/lineinaia-algebra-3i-semestr/34-teorema-zhordana-postroenie-zhordanova-bazisa
-* http://mathhelpplanet.com/static.php?p=zhordanova-forma-matritsy
-book * https://irbis.amursu.ru/DigitalLibrary/AmurSU_Edition/336.pdf
-* http://bodrenko.org/algebra/unit_5_8.htm
-* https://kpfu.ru/docs/F1418016545/ALG_2.pdf
+* [knowen.org/nodes/457](https://knowen.org/nodes/457)
+* [wiki.compscicenter.ru/images/e/ec/Homework_7_algebra_170427(term_2).pdf](https://wiki.compscicenter.ru/images/e/ec/Homework_7_algebra_170427(term_2).pdf)
+* [matica.org.ua/metodichki-i-knigi-po-matematike/lineinaia-algebra-3i-semestr/34-teorema-zhordana-postroenie-zhordanova-bazisa](http://matica.org.ua/metodichki-i-knigi-po-matematike/lineinaia-algebra-3i-semestr/34-teorema-zhordana-postroenie-zhordanova-bazisa)
+* [mathhelpplanet.com/static.php?p=zhordanova-forma-matritsy](http://mathhelpplanet.com/static.php?p=zhordanova-forma-matritsy)
+book * [irbis.amursu.ru/DigitalLibrary/AmurSU_Edition/336.pdf](https://irbis.amursu.ru/DigitalLibrary/AmurSU_Edition/336.pdf)
+* [bodrenko.org/algebra/unit_5_8.htm](http://bodrenko.org/algebra/unit_5_8.htm)
+* [kpfu.ru/docs/F1418016545/ALG_2.pdf](https://kpfu.ru/docs/F1418016545/ALG_2.pdf)
 DE
 * [langer Beweis](http://home.mathematik.uni-freiburg.de/geometrie/lehre/ss2003/la2/skript/9.pdf)
 * [anderer Ansatz](https://www.mathi.uni-heidelberg.de/~alex/lehre/la1_ws03/skript/linalg15.pdf%20%20%20%20%20Inviato%20da%20iPhone)
-* http://math-www.uni-paderborn.de/~chris/Index27/V/par23bb.pdf
+* [math-www.uni-paderborn.de/~chris/Index27/V/par23bb.pdf](http://math-www.uni-paderborn.de/~chris/Index27/V/par23bb.pdf)
 * [gute Veranschaulichung](http://www.mi.uni-koeln.de/~jhorak/geogebra/JordanNormalForm.pdf)
 * [ganz anderer Ansatz](http://www.mathe2.uni-bayreuth.de/lina02/l3.7d.pdf)
 * [Wikiversity](https://de.wikiversity.org/wiki/Trigonalisierbare_Abbildung/%C3%9Cber_Matrix/Jordansche_Normalform/Textabschnitt)
 * [Algorithmus](https://www3.math.tu-berlin.de/Vorlesungen/WS10/LinAlg2/BerechnungJNF.pdf)
 * [kurzer Beweis](http://www.algebra.uni-linz.ac.at/Students/LineareAlgebra/linalg2ss10/kapitel16.pdf)
 * [gute Beispiele](http://www.math.uni-kiel.de/geometrie/klein/physs11/mi0806.pdf)
-* https://www.mathematik.uni-kl.de/~gathmann/class/gdm-2019/gdm-2019-c20.p
+* [mathematik.uni-kl.de/~gathmann/class/gdm-2019/gdm-2019-c20.p](https://www.mathematik.uni-kl.de/~gathmann/class/gdm-2019/gdm-2019-c20.p)
 * [Thoma (Prozess)](https://martin-thoma.com/wie-berechnet-man-die-jordansche-normalform/)
 
 ES
 * [proceso](https://ocw.ehu.eus/pluginfile.php/549/mod_page/content/1/Tema3.pdf)
-* http://matematicas.uam.es/~fernando.chamizo/asignaturas/1819algII/resumen/tema3.pdf
+* [matematicas.uam.es/~fernando.chamizo/asignaturas/1819algII/resumen/tema3.pdf](http://matematicas.uam.es/~fernando.chamizo/asignaturas/1819algII/resumen/tema3.pdf)
 * [?](http://www.dim.uchile.cl/~fbravo/guias/EDO/Tutorial_formas_de_jordan_(3.1).pdf)
 
-* http://mate.dm.uba.ar/~jeronimo/algebra_lineal/Capitulo7.pdf
+* [mate.dm.uba.ar/~jeronimo/algebra_lineal/Capitulo7.pdf](http://mate.dm.uba.ar/~jeronimo/algebra_lineal/Capitulo7.pdf)
 * [An intuitive way to prove Jordan Normal Form. Help with the proof.](https://www.reddit.com/r/math/comments/5yppjb/an_intuitive_way_to_prove_jordan_normal_form_help/)
 FR
 * [?](http://www.cirget.uqam.ca/~apostolo/MAT2011/expose12,13-14.pdf)
 * [code R](https://hal.inria.fr/hal-00779376/document)
-* http://www.i2m.univ-amu.fr/perso/andrei.teleman/AlgGeom/documents15/TD2-AlgGeom-15.pd
+* [i2m.univ-amu.fr/perso/andrei.teleman/AlgGeom/documents15/TD2-AlgGeom-15.pd](http://www.i2m.univ-amu.fr/perso/andrei.teleman/AlgGeom/documents15/TD2-AlgGeom-15.pd)
 * [compact](https://math.unice.fr/~labourie/L3/AG/pdf/c5.pdf)
 * [Wikiversité](https://fr.wikiversity.org/wiki/R%C3%A9duction_des_endomorphismes/R%C3%A9ductions_de_Jordan_et_de_Dunford)
 * [forum](http://www.les-mathematiques.net/phorum/read.php?3,374588)
-* [https://perso.ens-rennes.fr/math/people/salim.rostam/files/agreg/compléments/Jordan.pdf](https://perso.ens-rennes.fr/math/people/salim.rostam/files/agreg/compl%C3%A9ments/Jordan.pdf)
-* https://www.tse-fr.eu/sites/default/files/tse_membre/u287/correction_du_td3.pdf
+* [perso.ens-rennes.fr/math/people/salim.rostam/files/agreg/compléments/Jordan.pdf](https://perso.ens-rennes.fr/math/people/salim.rostam/files/agreg/compl%C3%A9ments/Jordan.pdf)
+* [tse-fr.eu/sites/default/files/tse_membre/u287/correction_du_td3.pdf](https://www.tse-fr.eu/sites/default/files/tse_membre/u287/correction_du_td3.pdf)
 * [code py](http://gilles.dubois10.free.fr/algebre_lineaire/jordan.html)
 * [foro](https://www.matematicamente.it/forum/matrice-di-jordan-t82430.html)
 * [jordan + dunford](http://exo7.emath.fr/cours/ch_jordan.pdf)
-* http://math.univ-lyon1.fr/~ressayre/PDFs/jorfro.pdf
-* http://www.dii.unimo.it/~zanasi/didattica/Teoria_dei_Sistemi/Luc_TDS_2006_Forma_Canonica_di_Jordan.pdf
-* http://www.dm.unibo.it/~fioresi/2016/fis/jordan.pdf
-* http://www.dmmm.uniroma1.it/~giuseppe.accascina/Geometria_e_Algebra-LaureaSpecialistica_Ing_Gestionale/2006-2007/Dispense%20del%20corso/GeoAlgebra2006-07-Cap17-Matrici_jordanizzabili.pdf
-* https://ljk.imag.fr/membres/Bernard.Ycart/mel/re/node6.html
-* https://math.i-learn.unito.it/pluginfile.php/60529/mod_resource/content/1/FormaDiJordan.pdf
-* https://webusers.imj-prg.fr/~pierre-antoine.guiheneuf/Fichiers/Jordan.pdf
-* https://www.youmath.it/lezioni/algebra-lineare/matrici-e-vettori/3883-come-trovare-la-forma-canonica-di-jordan.html
+* [math.univ-lyon1.fr/~ressayre/PDFs/jorfro.pdf](http://math.univ-lyon1.fr/~ressayre/PDFs/jorfro.pdf)
+* [dii.unimo.it/~zanasi/didattica/Teoria_dei_Sistemi/Luc_TDS_2006_Forma_Canonica_di_Jordan.pdf](http://www.dii.unimo.it/~zanasi/didattica/Teoria_dei_Sistemi/Luc_TDS_2006_Forma_Canonica_di_Jordan.pdf)
+* [dm.unibo.it/~fioresi/2016/fis/jordan.pdf](http://www.dm.unibo.it/~fioresi/2016/fis/jordan.pdf)
+* [dmmm.uniroma1.it/~giuseppe.accascina/Geometria_e_Algebra-LaureaSpecialistica_Ing_Gestionale/2006-2007/Dispense%20del%20corso/GeoAlgebra2006-07-Cap17-Matrici_jordanizzabili.pdf](http://www.dmmm.uniroma1.it/~giuseppe.accascina/Geometria_e_Algebra-LaureaSpecialistica_Ing_Gestionale/2006-2007/Dispense%20del%20corso/GeoAlgebra2006-07-Cap17-Matrici_jordanizzabili.pdf)
+* [ljk.imag.fr/membres/Bernard.Ycart/mel/re/node6.html](https://ljk.imag.fr/membres/Bernard.Ycart/mel/re/node6.html)
+* [math.i-learn.unito.it/pluginfile.php/60529/mod_resource/content/1/FormaDiJordan.pdf](https://math.i-learn.unito.it/pluginfile.php/60529/mod_resource/content/1/FormaDiJordan.pdf)
+* [webusers.imj-prg.fr/~pierre-antoine.guiheneuf/Fichiers/Jordan.pdf](https://webusers.imj-prg.fr/~pierre-antoine.guiheneuf/Fichiers/Jordan.pdf)
+* [youmath.it/lezioni/algebra-lineare/matrici-e-vettori/3883-come-trovare-la-forma-canonica-di-jordan.html](https://www.youmath.it/lezioni/algebra-lineare/matrici-e-vettori/3883-come-trovare-la-forma-canonica-di-jordan.html)
 IT
 
 StackExchange
-* https://math.stackexchange.com/questions/2026267/difference-between-jordan-decomposition-and-eigenvalue-decomposition-spectral-d?r=SearchResults
-* https://math.stackexchange.com/questions/517891/relation-between-jordan-form-and-jordan-decomposition?r=SearchResults
+* [math.stackexchange.com/questions/2026267/difference-between-jordan-decomposition-and-eigenvalue-decomposition-spectral-d?r=SearchResults](https://math.stackexchange.com/questions/2026267/difference-between-jordan-decomposition-and-eigenvalue-decomposition-spectral-d?r=SearchResults)
+* [math.stackexchange.com/questions/517891/relation-between-jordan-form-and-jordan-decomposition?r=SearchResults](https://math.stackexchange.com/questions/517891/relation-between-jordan-form-and-jordan-decomposition?r=SearchResults)
 - --------------------------------------------------------------------------------------------------------------------    [How to Find JCF](https://www.math.ucla.edu/~jlindquist/115B/JCF.pdf)
 
 * [Jordan Canonical Form | Brilliant Math & Science Wiki](https://brilliant.org/wiki/jordan-canonical-form/)
 * [HR](https://web.math.pmf.unizg.hr/nastava/vekt/VP-2-Jordanova-forma.pdf)
 * [GeoGebra](https://www.geogebra.org/m/xbxb3ztb)
 * [most important](https://en.wikipedia.org/wiki/Jordan_normal_form?wprov=sfti1)
-* https://www.maths.tcd.ie/~vdots/teaching/files/MA1111+1212-0809/113jord.pdf
+* [maths.tcd.ie/~vdots/teaching/files/MA1111+1212-0809/113jord.pdf](https://www.maths.tcd.ie/~vdots/teaching/files/MA1111+1212-0809/113jord.pdf)
 * [Interesting?](https://www.isa-afp.org/browser_info/current/AFP/Jordan_Normal_Form/document.pdf)
 * [An intuitive way to prove Jordan Normal Form. Help with the proof.](https://www.reddit.com/r/math/comments/5yppjb/an_intuitive_way_to_prove_jordan_normal_form_help/)
 Books
@@ -1215,8 +1215,8 @@ The Jordan Formal Form - Notes.pdf
 fletchersorensenjordan.pdf
 * [Intuitive Approach to JNF](https://math.stackexchange.com/questions/411845/an-intuitive-approach-to-the-jordan-normal-form/636551#636551)
 
-* https://math.stackexchange.com/questions/131819/are-jordan-chains-always-linearly-independent
-* https://math.stackexchange.com/questions/131819/are-jordan-chains-always-linearly-independent/131863#131863
+* [math.stackexchange.com/questions/131819/are-jordan-chains-always-linearly-independent](https://math.stackexchange.com/questions/131819/are-jordan-chains-always-linearly-independent)
+* [math.stackexchange.com/questions/131819/are-jordan-chains-always-linearly-independent/131863#131863](https://math.stackexchange.com/questions/131819/are-jordan-chains-always-linearly-independent/131863#131863)
 * [Jordan_normal_form](https://en.wikipedia.org/wiki/Jordan_normal_form)
 
 
@@ -1224,18 +1224,18 @@ fletchersorensenjordan.pdf
 * [Advanced LA Schedule](https://www.uh.edu/nsm/math/undergraduate/courses/math4377-4378/)
 * [ALA Summary](https://math.duke.edu/courses/advanced-linear-algebra)
 * [ALA Summary II](https://math.gatech.edu/courses/math/6112)
-* http://people.virginia.edu/~mve2x/5651_Fall2011/
-* https://www.math.uh.edu/~zpkilpat/teaching/math4377/math4377.html
-* http://web.math.ucsb.edu/~helena/teaching/math108b/handouts.html
-* https://web.northeastern.edu/dummit/teaching_sp20_4571.html
-* http://people.math.harvard.edu/~elkies/M55a.02/
-* http://ckottke.ncf.edu/advlinear/syllabus.html
-* https://math.okstate.edu/people/binegar/4063-5023/4063-5023.html
-* https://www.ljll.math.upmc.fr/abadiej/2M371
-* https://www.matburo.ru/ex_ag.php?p1=aglin
-* https://www.coursera.org/learn/algebra-lineynaya
-* http://mathematiques.ens-lyon.fr/algebre-avancee-260112.kjsp
-* https://www.ljll.math.upmc.fr/mazari/documents/coursalgav.pdf
+* [people.virginia.edu/~mve2x/5651_Fall2011/](http://people.virginia.edu/~mve2x/5651_Fall2011/)
+* [math.uh.edu/~zpkilpat/teaching/math4377/math4377.html](https://www.math.uh.edu/~zpkilpat/teaching/math4377/math4377.html)
+* [web.math.ucsb.edu/~helena/teaching/math108b/handouts.html](http://web.math.ucsb.edu/~helena/teaching/math108b/handouts.html)
+* [web.northeastern.edu/dummit/teaching_sp20_4571.html](https://web.northeastern.edu/dummit/teaching_sp20_4571.html)
+* [people.math.harvard.edu/~elkies/M55a.02/](http://people.math.harvard.edu/~elkies/M55a.02/)
+* [ckottke.ncf.edu/advlinear/syllabus.html](http://ckottke.ncf.edu/advlinear/syllabus.html)
+* [math.okstate.edu/people/binegar/4063-5023/4063-5023.html](https://math.okstate.edu/people/binegar/4063-5023/4063-5023.html)
+* [ljll.math.upmc.fr/abadiej/2M371](https://www.ljll.math.upmc.fr/abadiej/2M371)
+* [matburo.ru/ex_ag.php?p1=aglin](https://www.matburo.ru/ex_ag.php?p1=aglin)
+* [coursera.org/learn/algebra-lineynaya](https://www.coursera.org/learn/algebra-lineynaya)
+* [mathematiques.ens-lyon.fr/algebre-avancee-260112.kjsp](http://mathematiques.ens-lyon.fr/algebre-avancee-260112.kjsp)
+* [ljll.math.upmc.fr/mazari/documents/coursalgav.pdf](https://www.ljll.math.upmc.fr/mazari/documents/coursalgav.pdf)
 * [ToC: Shapiro H. Linear algebra and matrices : topics for a second course (Providence, 2015). - ОГЛАВЛЕНИЕ / CONTENTS](http://www.prometeus.nsc.ru/acquisitions/17-12-05/cont36f.ssi)
 
 ### PCA
@@ -1243,7 +1243,7 @@ fletchersorensenjordan.pdf
 * [Principal Component Analysis (PCA) for Feature Selection and some of its Pitfalls · Johannes Otterbach](http://jotterbach.github.io/2016/03/24/Principal_Component_Analysis/)
 * [The Mathematics Behind Principal Component Analysis](https://towardsdatascience.com/the-mathematics-behind-principal-component-analysis-fff2d7f4b643)
 * [Линейная алгебра и аналитическая геометрия](https://www.lektorium.tv/linejnaya-algebra)
-* https://towardsdatascience.com/visualizing-principal-component-analysis-with-matrix-transforms-d17dabc8230e
+* [towardsdatascience.com/visualizing-principal-component-analysis-with-matrix-transforms-d17dabc8230e](https://towardsdatascience.com/visualizing-principal-component-analysis-with-matrix-transforms-d17dabc8230e)
 
 ### SVD
 * [Intuitive SVD](https://www.quora.com/What-is-an-intuitive-explanation-of-singular-value-decomposition-SVD)
@@ -1259,12 +1259,12 @@ fletchersorensenjordan.pdf
 * [app2_matrizen.pdf](https://www.uibk.ac.at/econometrics/einf/app2_matrizen.pdf)
 * [Vector Calculus: Understanding the Cross Product](https://betterexplained.com/articles/cross-product/)
 * [Vector derivation of 𝑥𝑇𝑥](https://math.stackexchange.com/questions/132415/vector-derivation-of-xtx)
-* https://www.cse.huji.ac.il/~csip/tirgul3_derivatives.pdf
-* https://atmos.washington.edu/~dennis/MatrixCalculus.pdf
-* https://en.wikipedia.org/wiki/Matrix_calculus
-book * https://onlinelibrary.wiley.com/doi/pdf/10.1002/0471705195.app3
-* https://math.stackexchange.com/questions/704773/what-is-the-derivative-of-a-vector-with-respect-to-its-transpose
-* https://math.stackexchange.com/questions/2663014/derivative-of-vector-times-its-transposed-wrt-itself
+* [cse.huji.ac.il/~csip/tirgul3_derivatives.pdf](https://www.cse.huji.ac.il/~csip/tirgul3_derivatives.pdf)
+* [atmos.washington.edu/~dennis/MatrixCalculus.pdf](https://atmos.washington.edu/~dennis/MatrixCalculus.pdf)
+* [en.wikipedia.org/wiki/Matrix_calculus](https://en.wikipedia.org/wiki/Matrix_calculus)
+book * [onlinelibrary.wiley.com/doi/pdf/10.1002/0471705195.app3](https://onlinelibrary.wiley.com/doi/pdf/10.1002/0471705195.app3)
+* [math.stackexchange.com/questions/704773/what-is-the-derivative-of-a-vector-with-respect-to-its-transpose](https://math.stackexchange.com/questions/704773/what-is-the-derivative-of-a-vector-with-respect-to-its-transpose)
+* [math.stackexchange.com/questions/2663014/derivative-of-vector-times-its-transposed-wrt-itself](https://math.stackexchange.com/questions/2663014/derivative-of-vector-times-its-transposed-wrt-itself)
 Matrix Differential Calculus with Applications in Statistics and Econometrics
 
 ## Eigen*
@@ -1274,16 +1274,16 @@ Matrix Differential Calculus with Applications in Statistics and Econometrics
 * [Facts about Eigenvalues](https://www.adelaide.edu.au/mathslearning/play/seminars/evalue-magic-tricks-handout.pdf)
 * [Lamar Eigenvalues and Eigenvectors](https://tutorial.math.lamar.edu/classes/de/BVPEvals.aspx)
 * [linear algebra - The intuition behind generalized eigenvectors - Mathematics Stack Exchange](https://math.stackexchange.com/questions/4495/the-intuition-behind-generalized-eigenvectors)
-* https://github.com/hibit-at/EigenShader
+* [hibit-at/EigenShader](https://github.com/hibit-at/EigenShader)
 
 ## Dot Product
 * [Dot product in matrix notation - Math Insight](http://mathinsight.org/dot_product_matrix_notation)
 * [How to prove invariance of dot-product to rotation of coordinate system - Mathematics Stack Exchange](https://math.stackexchange.com/questions/947867/how-to-prove-invariance-of-dot-product-to-rotation-of-coordinate-system#comment1952177_947928)
-* https://users.math.msu.edu/users/gnagy/teaching/10-fall/mth234/w2-234-h.pdf
+* [users.math.msu.edu/users/gnagy/teaching/10-fall/mth234/w2-234-h.pdf](https://users.math.msu.edu/users/gnagy/teaching/10-fall/mth234/w2-234-h.pdf)
 
 ## Other Decompositions
 * [Matrix Factorization and Advanced Techniques](https://coursera.org/learn/matrix-factorization)
-* https://en.wikipedia.org/wiki/Matrix_decomposition
+* [en.wikipedia.org/wiki/Matrix_decomposition](https://en.wikipedia.org/wiki/Matrix_decomposition)
 * [Triangular Factorizations & Operation Counts](https://people.sc.fsu.edu/~jburkardt/classes/gateway_2014/lecture_week03.pdf)
 
 ## Discrete Mathematics
@@ -1313,17 +1313,17 @@ Matrix Differential Calculus with Applications in Statistics and Econometrics
 * [Классическое введение в современную теорию чисел [1987] Айерлэнд.djv](https://vk.com/doc44301783_515099851?hash=d823d2d1e8c5e4d3bf&dl=123eb53dd1c3cf4055)
 * [Основы дискретной математики](https://www.lektorium.tv/course/22893)
 * [ПОСЛІДОВНІСТЬ ФІБОНАЧЧІ, ПРОІЛЮСТРОВАНА ПРИРОДОЮ](http://www.mmf.lnu.edu.ua/ar/470)
-* http://www.disfrutalasmatematicas.com/numeros/fibonacci-sucesion.html
-* http://www.ite.educacion.es/formacion/enred/web_espiral/naturaleza/vegetal/fibonacci/fibonacci.htm
-* http://www.ite.educacion.es/formacion/enred/web_espiral/naturaleza/vegetal/fibonacci/fibonacci.htm
-* http://www.quo.es/naturaleza/la-espiral-de-fibonacci
-* http://www.quo.es/naturaleza/la-espiral-de-fibonacci
-* https://brilliant.org/wiki/chinese-remainder-theorem/
+* [disfrutalasmatematicas.com/numeros/fibonacci-sucesion.html](http://www.disfrutalasmatematicas.com/numeros/fibonacci-sucesion.html)
+* [ite.educacion.es/formacion/enred/web_espiral/naturaleza/vegetal/fibonacci/fibonacci.htm](http://www.ite.educacion.es/formacion/enred/web_espiral/naturaleza/vegetal/fibonacci/fibonacci.htm)
+* [ite.educacion.es/formacion/enred/web_espiral/naturaleza/vegetal/fibonacci/fibonacci.htm](http://www.ite.educacion.es/formacion/enred/web_espiral/naturaleza/vegetal/fibonacci/fibonacci.htm)
+* [quo.es/naturaleza/la-espiral-de-fibonacci](http://www.quo.es/naturaleza/la-espiral-de-fibonacci)
+* [quo.es/naturaleza/la-espiral-de-fibonacci](http://www.quo.es/naturaleza/la-espiral-de-fibonacci)
+* [brilliant.org/wiki/chinese-remainder-theorem/](https://brilliant.org/wiki/chinese-remainder-theorem/)
 
 ## Set Theory
-* https://en.wikipedia.org/wiki/De_Morgan%27s_laws#Informal_proof
+* [en.wikipedia.org/wiki/De_Morgan%27s_laws#Informal_proof](https://en.wikipedia.org/wiki/De_Morgan%27s_laws#Informal_proof)
 Set theory and its philosophy: a critical introduction
-* http://settheory.net/fr/
+* [settheory.net/fr/](http://settheory.net/fr/)
 (Hab schon?) Set theory and its philosophy: a critical introduction | Michael Potter | download
 * [Element (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Element_(mathematics))
 * [Zermelo–Fraenkel set theory - Wikipedia](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory)
@@ -1335,7 +1335,7 @@ Set theory and its philosophy: a critical introduction
 * [$$$ First Steps in Tropical Geometry (for practice working through challenging math)](https://www.math.uni-frankfurt.de/~theobald/publications/tropical.pdf)
 * [$$$ Polar coordinate system - Wikipedia](https://en.wikipedia.org/wiki/Polar_coordinate_system)
 * [Classroom Resources – GeoGebra](https://www.geogebra.org/materials)
-* [Conchoid](https://en.m.wikipedia.org/wiki/Conchoid_(mathematics)?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+* [Conchoid](https://en.m.wikipedia.org/wiki/Conchoid_(mathematics))
 * [Dima Shvetsov. A Chain of Circles](https://vk.com/video-65937233_456239099?list=b5233bd6be62a22840)
 * [Geogebra Proofs without Words](https://www.geogebra.org/m/jFFERBdd)
 * [I made this Desmos graph](https://www.desmos.com/calculator/9kulsyejxg) if it helps with visualizing the curve for all R and C and finding interesting properties along the way.
@@ -1351,13 +1351,13 @@ Set theory and its philosophy: a critical introduction
 * [Rectangular Peg Problem - Old Geometry Problem Finally Solved](https://www.popularmechanics.com/science/math/a33002042/geometry-problem-solved/)
 * [Reference:GeoGebra Apps Embedding - GeoGebra Manual](https://wiki.geogebra.org/en/Reference:GeoGebra_Apps_Embedding)
 * [The only curve with a unique focus is the parabola: a blog post containing a proof, and making some observations about the media's linking of mathematics with 'genius'.](https://www.reddit.com/r/math/comments/d823nl/the_only_curve_with_a_unique_focus_is_the/)
-* http://geometry.ru/
-* https://openedu.ru/course/mipt/GEOMGR/
+* [geometry.ru/](http://geometry.ru/)
+* [openedu.ru/course/mipt/GEOMGR/](https://openedu.ru/course/mipt/GEOMGR/)
 
 * [Геометрические головоломки [2019] Богданов.pdf](https://vk.com/doc44301783_514422633?hash=d75bd82c5401a48849&dl=ec1a2ffdf769fe9e45)
 * [Геометрия. Книга о том, что геометрия – нескучная наука [2019] Яков Перельман.pdf](https://vk.com/doc44301783_514951631?hash=c37a7400a52114bd26&dl=aeded0e88e22a14ab0)
-* http://www.cut-the-knot.org/pythagoras/index.shtml
-* https://www.google.com/search?q=animation+of+pythogoras%27+proof&rlz=1C5CHFA_enUS800US800&oq=animation+of+pythogoras%27+proof&aqs=chrome..69i57.6229j0j4&sourceid=chrome&ie=UTF-8
+* [cut-the-knot.org/pythagoras/index.shtml](http://www.cut-the-knot.org/pythagoras/index.shtml)
+* [google.com/search?q=animation+of+pythogoras%27+proof&rlz=1C5CHFA_enUS800US800&oq=animation+of+pythogoras%27+proof&aqs=chrome..69i57.6229j0j4&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=animation+of+pythogoras%27+proof&rlz=1C5CHFA_enUS800US800&oq=animation+of+pythogoras%27+proof&aqs=chrome..69i57.6229j0j4&sourceid=chrome&ie=UTF-8)
 Calculate (in different ways) the centrality of national capitals.
 Matematica e geometria per superiori
 The powers of the golden ratio (φ) can all be expressed in terms of φ. Each power is the sum of the two previous powers - the coefficients of φ and integer parts form the Fibonacci sequence. φ²=φ+1 | φ³=2φ+1 | φ⁴=3φ+2 | φ⁵=5φ+3 | φ⁶=8φ+5
@@ -1372,7 +1372,7 @@ The powers of the golden ratio (φ) can all be expressed in terms of φ. Each po
 * [HANS LOGIK 2](https://www.ims.uni-stuttgart.de/document/team/hans/NotesLog2Ch2.pdf)
 * [HANS LOGIK 3](https://www.ims.uni-stuttgart.de/document/team/hans/NotesLog2Ch3.pdf)
 * [Higher-order logic - Wikipedia](https://en.wikipedia.org/wiki/Higher-order_logic)
-* https://proofwiki.org/wiki/Main_Page
+* [proofwiki.org/wiki/Main_Page](https://proofwiki.org/wiki/Main_Page)
 * [logic - is mathematics really true? - Mathematics Stack Exchange](https://math.stackexchange.com/questions/3583040/is-mathematics-really-true#3583040)
 * [logic - What fallacy is this? “This happened, therefore there must be good reasons for it” - Philosophy Stack Exchange](https://philosophy.stackexchange.com/questions/73349/what-fallacy-is-this-this-happened-therefore-there-must-be-good-reasons-for-i)
 * [Logic in Philosophy of Mathematics](https://www.mcmp.philosophie.uni-muenchen.de/students/math/logic_m_leit.pdf)
@@ -1385,20 +1385,20 @@ The powers of the golden ratio (φ) can all be expressed in terms of φ. Each po
 15                                                 <|> 15. [Todd Elder](https://msu.edu/~telder/)
 2sl                                                <|> 98. [Is 2SLS really OK?](http://www.mostlyharmlesseconometrics.com/2009/07/is-2sls-really-ok/)
 ?                                                  <|> * [Ecuaciones Diferenciales](http://matematicas.udea.edu.co/~jescobar/)
-?                                                  <|> * http://econweb.umd.edu/~sarzosa/teach/
+?                                                  <|> * [econweb.umd.edu/~sarzosa/teach/](http://econweb.umd.edu/~sarzosa/teach/)
 ?                                                  <|> 103. [Основы математической статистики](https://www.lektorium.tv/node/33005)
 ?                                                  <|> 107. Top Resources
 ?                                                  <|> 132. [Momente einer Verteilung](http://www.statistics4u.info/fundstat_germ/cc_moments.html)
-?                                                  <|> 193. https://daedalus.umkc.edu/StatisticalMethods/getting-started.html#
+?                                                  <|> 193. [daedalus.umkc.edu/StatisticalMethods/getting-started.html#](https://daedalus.umkc.edu/StatisticalMethods/getting-started.html#)
 a for on control do what can about people be       <|> 3. [$$$ Jason Abaluck sur Twitter : "Yes, they can be. Just like PO can be helpful for thinking about what to control for. Do you agree that epi people and sociologists spend too little time on this exercise relative to making assumptions and encoding them in a D](https://twitter.com/Jabaluck/status/1109813112960675841)
 a sample theory about                              <|> 196. Lehmann, E. (2004). “Elements of Large-Sample Theory” Springer.—About asymptotics which is a good starting place.
 about why                                          <|> 94. [Why you should care about the Nate Silver vs. Nassim Taleb Twitter war](https://towardsdatascience.com/why-you-should-care-about-the-nate-silver-vs-nassim-taleb-twitter-war-a581dce1f5fc)
 archive paper ru 8 php                             <|> 8. [Обобщенная жорданова матрица линейного оператора](http://m.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=mzm&paperid=3750&option_lang=rus)
-article                                            <|> 150. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1299208/
+article                                            <|> 150. [ncbi.nlm.nih.gov/pmc/articles/PMC1299208/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1299208/)
 article cumulant                                   <|> 61. [Cumulants - Scholarpedia](http://www.scholarpedia.org/article/Cumulants)
 blog                                               <|> * [Revolutions](http://blog.revolutionanalytics.com/)
 ch                                                 <|> * [MESOSworld](http://www.mesosworld.ch/joomla/lerninhalte/)
-course                                             <|> * https://jblevins.org/courses/
+course                                             <|> * [jblevins.org/courses/](https://jblevins.org/courses/)
 course 101 статистика математическая               <|> 101. [Математическая статистика | Лекториум](https://www.lektorium.tv/course/22931)
 course математическая статистика                   <|> 100. [Математическая статистика](https://www.lektorium.tv/course/22931)
 cumulant                                           <|> 60. [Cumulant -- from Wolfram MathWorld](http://mathworld.wolfram.com/Cumulant.html)
@@ -1415,16 +1415,16 @@ de a statistik 31                                  <|> 31. [Statistiklexikon](ht
 de analysi der                                     <|> 65. [Hauptsatz der Analysis - Mathepedia](http://www.mathepedia.de/Hauptsatz.aspx)
 de archive                                         <|> 202. [Warum ist das Integral die Fläche unter einer Kurve?](http://www.matheboard.de/archive/454746/thread.html)
 de der methode                                     <|> 58. [Methode der kleinsten Quadrate - Abitur Mathe](http://www.abi-mathe.de/buch/matrizen/methode-der-kleinsten-quadrate/)
-de forum statistik tutorial                        <|> * http://www.statistik-tutorial.de/forum/forum3.html
+de forum statistik tutorial                        <|> * [statistik-tutorial.de/forum/forum3.html](http://www.statistik-tutorial.de/forum/forum3.html)
 de htm der                                         <|> 154. [Internet-Lexikon der Methoden der empirischen Sozialforschung](http://wlm.userweb.mwn.de/Ilmes/ilmlit.htm#Vorb)
 de i uni stochastik 15 lehre                       <|> 87. [Stochastik I - Universität Ulm](https://www.uni-ulm.de/mawi/mawi-stochastik/lehre/ss-15/stochastik-i/)
 de mit 12                                          <|> 12. [Bestimmung von Momenten - Technische Mechanik 1: Statik](https://www.ingenieurkurse.de/technische-mechanik-statik/einzelkraefte-mit-verschiedenen-angriffspunkten/ebenes-kraeftesystem/bestimmung-von-momenten.html)
-de regression                                      <|> * [https://www.lokad.com/de/definition-quantil-regression-(zeitreihen)](https://www.lokad.com/de/definition-quantil-regression-(zeitreihen))
+de regression                                      <|> * [lokad.com/de/definition-quantil-regression-(zeitreihen)](https://www.lokad.com/de/definition-quantil-regression-(zeitreihen))
 de regression htm                                  <|> 106. [ILMES: Tobit-Regression](http://wlm.userweb.mwn.de/Ilmes/ilm_t19.htm)
 de search es                                       <|> * [Khan Estadística de secundaria](https://es.khanacademy.org/search?page_search_query=probabilidad%20y%20estadistica)
 de statistik document view und                     <|> 155. [Klausur 2010 - Deskriptive Statistik - StuDocu](https://www.studocu.com/de/document/universitaet-siegen/deskriptive-statistik/altklausuren/pruefung-2010-fragen-und-antworten-vergangene-pruefung-deskriptive-statistik/850440/view)
 de statistik document view und 2015                <|> 4. [$$$ Klausur 2015 - 6083: Statistik - StuDocu](https://www.studocu.com/de/document/wirtschaftsuniversitaet-wien/statistik/altklausuren/pruefung-1-april-2015-fragen-und-antworten-statistik/846594/view)
-de statistik f c3                                  <|> 149. https://www.amazon.de/Statistik-f%C3%BCr-Wirtschaftswissenschaftler-Josef-Bleym%C3%BCller/dp/3800649608
+de statistik f c3                                  <|> 149. [amazon.de/Statistik-f%C3%BCr-Wirtschaftswissenschaftler-Josef-Bleym%C3%BCller/dp/3800649608](https://www.amazon.de/Statistik-f%C3%BCr-Wirtschaftswissenschaftler-Josef-Bleym%C3%BCller/dp/3800649608)
 de statistik uni stochastik lehre und              <|> 22. [Elementare Wahrscheinlichkeitsrechnung und Statistik - Universität Ulm](https://www.uni-ulm.de/mawi/mawi-stochastik/lehre/fruehere-semester/ws-0910/elementare-wr-und-statistik/)
 do                                                 <|> 180. [Matemática, ciência do raciocínio humano e lógica - Brasil Escola](https://brasilescola.uol.com.br/matematica)
 econometric                                        <|> * [Econometrics Beat](http://davegiles.blogspot.com/)
@@ -1436,11 +1436,11 @@ econometric for economic htm uk ac link            <|> 50. [Links for Econometri
 econometric model selection                        <|> 4. [Advanced Econometrics: Model Selection | Freakonometrics](http://freakonometrics.hypotheses.org/50425)
 econometric r view view project web                <|> 19. [CRAN Task View: Econometrics](https://cran.r-project.org/web/views/Econometrics.html)
 econometric s 39 text 15                           <|> 15. [Bruce Hansen&#39;s Econometrics Text](http://www.ssc.wisc.edu/~bhansen/econometrics/)
-econometric with r                                 <|> * https://www.econometrics-with-r.org/
+econometric with r                                 <|> * [econometrics-with-r.org/](https://www.econometrics-with-r.org/)
 economic blog theory theorem 02 2015               <|> 217. [The Gauss Markov Theorem | Economic Theory Blog](https://economictheoryblog.com/2015/02/26/markov_theorem/)
 economic blog theory theorem 05 02 proof 2016      <|> 174. [Proof Gauss Markov Theorem | Economic Theory Blog](https://economictheoryblog.com/2016/02/05/proof-gauss-markov-theorem/)
 economic mit faculty                               <|> 60. [MIT Economics : Joshua Angrist](https://economics.mit.edu/faculty/angrist/data1)
-economic php index tutorial                        <|> 34. http://mjo.osborne.economics.utoronto.ca/index.php/tutorial/index/1/mee/t
+economic php index tutorial                        <|> 34. [mjo.osborne.economics.utoronto.ca/index.php/tutorial/index/1/mee/t](http://mjo.osborne.economics.utoronto.ca/index.php/tutorial/index/1/mee/t)
 economic topic can why                             <|> 163. [Why OLS when you can ridge? « Economics Job Market Rumors](https://www.econjobrumors.com/topic/why-ols-when-you-can-ridge)
 es ocw                                             <|> 34. [Estadística Práctica](http://ocw.unican.es/ensenanzas-tecnicas/estadistica/practicas-1/)
 evaluation paper an private school                 <|> 169. [Private School Vouchers and Student Achievement: An Evaluation of the Milwaukee Parental Choice Program](http://www.nber.org/papers/w5964)
@@ -1453,25 +1453,25 @@ for q p search 8 google chrome lp 0 lq ie oq utf   <|> 152. [prove Lp subs Lq fo
 for s probability what                             <|> 93. [What is Probability For? - Cantor’s Paradise - Medium](https://medium.com/cantors-paradise/what-is-probability-for-90e5dbc8f7e8)
 forum statalist                                    <|> * [Forums - Statalist](http://www.statalist.org/forums/)
 fr                                                 <|> 166. [Régression linéaire multiple](http://www.jybaudot.fr/Correl_regress/rlm.html)
-fr                                                 <|> 46. https://www.sfds.asso.fr/
+fr                                                 <|> 46. [sfds.asso.fr/](https://www.sfds.asso.fr/)
 fr la                                              <|> 156. [La recherche empirique](https://explorable.com/fr/la-recherche-empirique)
 fr php                                             <|> 224. [Meta - Du flou et du faux en mathématiques](https://www.pourlascience.fr/sr/logique-calcul/du-flou-et-du-faux-en-mathematiques-20095.php)
-fr r anova                                         <|> 91. https://www.datanovia.com/en/fr/lessons/anova-sur-mesures-repetees-dans-r/
-fr statistique methode analyse analyse             <|> 132. https://www.ined.fr/fr/ressources-methodes/methodes-analyses-statistiques/analyse-multiniveau/#r130
-fr statistique methode analyse analyse             <|> 182. https://www.ined.fr/fr/ressources-methodes/methodes-analyses-statistiques/analyse-multiniveau/
-function control interpreting 02 2013              <|> 49. http://www.econometricsbysimulation.com/2013/02/interpreting-control-function.html
+fr r anova                                         <|> 91. [datanovia.com/en/fr/lessons/anova-sur-mesures-repetees-dans-r/](https://www.datanovia.com/en/fr/lessons/anova-sur-mesures-repetees-dans-r/)
+fr statistique methode analyse analyse             <|> 132. [ined.fr/fr/ressources-methodes/methodes-analyses-statistiques/analyse-multiniveau/#r130](https://www.ined.fr/fr/ressources-methodes/methodes-analyses-statistiques/analyse-multiniveau/#r130)
+fr statistique methode analyse analyse             <|> 182. [ined.fr/fr/ressources-methodes/methodes-analyses-statistiques/analyse-multiniveau/](https://www.ined.fr/fr/ressources-methodes/methodes-analyses-statistiques/analyse-multiniveau/)
+function control interpreting 02 2013              <|> 49. [econometricsbysimulation.com/2013/02/interpreting-control-function.html](http://www.econometricsbysimulation.com/2013/02/interpreting-control-function.html)
 github                                             <|> * [EconometricsBySimulation (Francis Smart)](https://github.com/EconometricsBySimulation/)
-github                                             <|> 179. https://github.com/wikistat/Apprentissage
-github                                             <|> 194. https://github.com/jkatfreiburg/tutorat_statistik
-github 39 statistika master                        <|> 39. https://github.com/sestakjakub/statistika/tree/master/EDA_Course_Materials
+github                                             <|> 179. [wikistat/Apprentissage](https://github.com/wikistat/Apprentissage)
+github                                             <|> 194. [jkatfreiburg/tutorat_statistik](https://github.com/jkatfreiburg/tutorat_statistik)
+github 39 statistika master                        <|> 39. [sestakjakub/statistika/tree/master/EDA_Course_Materials](https://github.com/sestakjakub/statistika/tree/master/EDA_Course_Materials)
 github heckman by                                  <|> 69. [Heckman by bert9bert · Pull Request #1935 · statsmodels/statsmodels · GitHub](https://github.com/statsmodels/statsmodels/pull/1935)
 github on s new download                           <|> * [GitHub’s new mobile app is now available on iOS and Android - The Verge](https://www.theverge.com/2020/3/17/21184254/github-mobile-app-now-available-download-ios-android-microsoft)
-github project                                     <|> 211. https://github.com/nayuki/Project-Euler-solutions
-github statistika                                  <|> 40. https://github.com/sjous/StatistikA
-github statistika                                  <|> 41. https://github.com/sjous/StatistikA
-github statistika master                           <|> 38. https://github.com/sestakjakub/statistika/tree/master/EDA_Course_Materials
-github statistique                                 <|> 36. https://github.com/dettmering/statistique
-github statistique                                 <|> 37. https://github.com/dettmering/statistique
+github project                                     <|> 211. [nayuki/Project-Euler-solutions](https://github.com/nayuki/Project-Euler-solutions)
+github statistika                                  <|> 40. [sjous/StatistikA](https://github.com/sjous/StatistikA)
+github statistika                                  <|> 41. [sjous/StatistikA](https://github.com/sjous/StatistikA)
+github statistika master                           <|> 38. [sestakjakub/statistika/tree/master/EDA_Course_Materials](https://github.com/sestakjakub/statistika/tree/master/EDA_Course_Materials)
+github statistique                                 <|> 36. [dettmering/statistique](https://github.com/dettmering/statistique)
+github statistique                                 <|> 37. [dettmering/statistique](https://github.com/dettmering/statistique)
 google                                             <|> 195. [Kolanoski - Google Drive](https://drive.google.com/drive/folders/11CQj1ObvG2miQSLJoMmBOYyB-EDzNB2b)
 heckman economic archive topic correction web      <|> 71. [Heckman correction (economics) -- Britannica Online Encyclopedia](https://web.archive.org/web/20080513173141/http://www.britannica.com/eb/topic-734492/Heckman-correction)
 htm net research soderbom                          <|> 191. [Research](http://soderbom.net/metrix2.htm)
@@ -1480,12 +1480,12 @@ i p php                                            <|> 166. [Статическ�
 i repec private school                             <|> 54. [Evaluating Private School Quality in Denmark](http://www.repec.org/bocode/i/ivreg2.html)
 i ru                                               <|> 208. [Элементарная и популярная математика | ИКФИА СО РАН](https://ikfia.ysn.ru/elementarnaya-i-populyarnaya-matematika/)
 index text                                         <|> 47. [Index of /~wgreene/Text](http://pages.stern.nyu.edu/~wgreene/Text/)
-io project                                         <|> 212. https://www.nayuki.io/page/project-euler-solutions
+io project                                         <|> 212. [nayuki.io/page/project-euler-solutions](https://www.nayuki.io/page/project-euler-solutions)
 math theorem s                                     <|> 223. [‘Amazing’ Math Bridge Extended Beyond Fermat’s Last Theorem | Quanta Magazine](https://www.quantamagazine.org/amazing-math-bridge-extended-beyond-fermats-last-theorem-20200406/)
-mathematic 59                                      <|> 1. http://www.mathematics-in-europe.eu/po/65-mathhelp/mathematics-in-foreign-languages/59-mathematics-in-foreign-languages
+mathematic 59                                      <|> 1. [mathematics-in-europe.eu/po/65-mathhelp/mathematics-in-foreign-languages/59-mathematics-in-foreign-languages](http://www.mathematics-in-europe.eu/po/65-mathhelp/mathematics-in-foreign-languages/59-mathematics-in-foreign-languages)
 mathematic project                                 <|> 16. [Welcome! - The Mathematics Genealogy Project](http://www.genealogy.ams.org/)
 mathematic sample matrix an topic covariance       <|> * [Sample Covariance Matrix - an overview | ScienceDirect Topics](https://www.sciencedirect.com/topics/mathematics/sample-covariance-matrix)
-mathematic what                                    <|> 2. http://www.mathematics-in-europe.eu/po/40-information/what-is-mathematics/45-what-is-mathematics
+mathematic what                                    <|> 2. [mathematics-in-europe.eu/po/40-information/what-is-mathematics/45-what-is-mathematics](http://www.mathematics-in-europe.eu/po/40-information/what-is-mathematics/45-what-is-mathematics)
 matrix 05 2016 11                                  <|> 11. [Autoencoders and matrix factorization – statisticalinterference](https://statisticalinterference.wordpress.com/2016/09/05/autoencoders-and-matrix-factorization/)
 matrix covariance                                  <|> 34. [Covariance Matrix](http://stattrek.com/matrix-algebra/covariance-matrix.aspx)
 method statistical about bayesian c                <|> 201. Robert, C. and Casella, G. (2005). “Monte Carlo Statistical Methods” Springer.—about Bayesian computation.
@@ -1497,40 +1497,40 @@ normal                                             <|> 160. The Unicorn, The Nor
 on paper research inference econ                   <|> 192. [RESEARCH ON CLUSTER-ROBUST INFERENCE](http://cameron.econ.ucdavis.edu/research/papers.html)
 p 12                                               <|> 12. [Bayes' rule: Log-odds form - Arbital](https://arbital.com/p/bayes_log_odds/)
 p ru php                                           <|> 95. [Более 90 решений задач по математической статистике онлайн](https://www.matburo.ru/ex_subject.php?p=ms)
-pdf                                                <|> * http://classiques.uqac.ca/contemporains/loubet_del_bayle_jean_louis/initiation_metho_sc_soc/initiation_metho_sc_soc.pdf
+pdf                                                <|> * [classiques.uqac.ca/contemporains/loubet_del_bayle_jean_louis/initiation_metho_sc_soc/initiation_metho_sc_soc.pdf](http://classiques.uqac.ca/contemporains/loubet_del_bayle_jean_louis/initiation_metho_sc_soc/initiation_metho_sc_soc.pdf)
 pdf                                                <|> 102. [lect_6_controlfuncs.pdf](http://www.nber.org/WNE/lect_6_controlfuncs.pdf)
 pdf                                                <|> 134. [04GaussMarkovProof.pdf](http://www.public.iastate.edu/~dnett/S511/04GaussMarkovProof.pdf)
-pdf                                                <|> 144. http://www.tqmp.org/RegularArticles/vol08-1/p052/p052.pdf
+pdf                                                <|> 144. [tqmp.org/RegularArticles/vol08-1/p052/p052.pdf](http://www.tqmp.org/RegularArticles/vol08-1/p052/p052.pdf)
 pdf                                                <|> 25. Fortgeschrittene Multivariate Analysemethoden: Eine anwendungsorientierte Einführung pdf
 pdf                                                <|> 99. [ivtreatreg_cerull.pdf](http://folk.uib.no/secaa/Public/VAM/Artikler/ivtreatreg_cerull.pdf)
 pdf 10 doe web                                     <|> 5. [$$$ WHERE DOES THE 10% CONDITION COME FROM?](https://web.ma.utexas.edu/users/mks/M358KInstr/TenPctCond.pdf)
-pdf 10 download                                    <|> * http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.551.5009&rep=rep1&type=pdf
+pdf 10 download                                    <|> * [citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.551.5009&rep=rep1&type=pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.551.5009&rep=rep1&type=pdf)
 pdf 101                                            <|> 101. [lec11.pdf](https://www.unm.edu/~schrader/biostat/bio2/Spr06/lec11.pdf)
 pdf 15                                             <|> 32. [Formeln](http://wps.aw.com/wps/media/objects/15/15512/formulas.pdf)
 pdf 31                                             <|> 178. [slides_6_controlfuncs.pdf](http://www.nber.org/WNE/Slides7-31-07/slides_6_controlfuncs.pdf)
 pdf 39 econ                                        <|> 39. [cameron.econ.ucdavis.edu/e240a/asymptotic.pdf](http://cameron.econ.ucdavis.edu/e240a/asymptotic.pdf)
 pdf 8 6 7                                          <|> 140. [notesonforbiddenregressions.pdf](http://benjamindwilliams.weebly.com/uploads/6/8/5/7/68575765/notesonforbiddenregressions.pdf)
 pdf analysi ch doc                                 <|> 143. [paradoxien_analysis.pdf](http://www.swisseduc.ch/mathematik/analysis/paradoxien_analysis/docs/paradoxien_analysis.pdf)
-pdf article teaching                               <|> 152. https://www.unc.edu/~fbaum/teaching/articles/AJPS-2006-Taber.pdf
+pdf article teaching                               <|> 152. [unc.edu/~fbaum/teaching/articles/AJPS-2006-Taber.pdf](https://www.unc.edu/~fbaum/teaching/articles/AJPS-2006-Taber.pdf)
 pdf ch und                                         <|> 157. [Längsschnittdaten und Mehrebenenanalyse](http://www.suz.uzh.ch/dam/jcr:f396048b-136b-433e-83bc-aa4b19968a0c/Text_28.pdf)
-pdf course                                         <|> * http://galton.uchicago.edu/~lekheng/courses/309f11/theil.pdf
+pdf course                                         <|> * [galton.uchicago.edu/~lekheng/courses/309f11/theil.pdf](http://galton.uchicago.edu/~lekheng/courses/309f11/theil.pdf)
 pdf course 2013 berkeley                           <|> 121. [Microsoft Word - Section 13 Handout Solved.docx](https://are.berkeley.edu/courses/EEP118/fall2010/section/13/Section%2013%20Handout%20Solved.pdf)
-pdf course economic lecture mit method statistical note ocw 14 <|> 44. https://ocw.mit.edu/courses/economics/14-381-statistical-method-in-economics-fall-2006/lecture-notes/notes_part_2.pdf
-pdf course uk topic ac                             <|> 104. https://www.le.ac.uk/users/dsgp1/COURSES/TOPICS/gausmkov.pdf
+pdf course economic lecture mit method statistical note ocw 14 <|> 44. [ocw.mit.edu/courses/economics/14-381-statistical-method-in-economics-fall-2006/lecture-notes/notes_part_2.pdf](https://ocw.mit.edu/courses/economics/14-381-statistical-method-in-economics-fall-2006/lecture-notes/notes_part_2.pdf)
+pdf course uk topic ac                             <|> 104. [le.ac.uk/users/dsgp1/COURSES/TOPICS/gausmkov.pdf](https://www.le.ac.uk/users/dsgp1/COURSES/TOPICS/gausmkov.pdf)
 pdf de content stochastik                          <|> 135. [mstatws10skript.pdf](http://www.mathematik.tu-darmstadt.de/fbereiche/stochastik/contents/professoren/kohler/mstatws10skript.pdf)
-pdf de data uni c3 fileadmin                       <|> * https://www.uni-kassel.de/fb07/fileadmin/datas/fb07/5-Institute/IVWL/Ziegler/Grundlagen-%C3%96konometrie-Kapitel-3.pdf
+pdf de data uni c3 fileadmin                       <|> * [uni-kassel.de/fb07/fileadmin/datas/fb07/5-Institute/IVWL/Ziegler/Grundlagen-%C3%96konometrie-Kapitel-3.pdf](https://www.uni-kassel.de/fb07/fileadmin/datas/fb07/5-Institute/IVWL/Ziegler/Grundlagen-%C3%96konometrie-Kapitel-3.pdf)
 pdf de document proof                              <|> 119. [Proof of CLT](http://home.informatik.tu-muenchen.de/~hoelzl/documents/avigad2017clt.pdf)
 pdf de mathematic education                        <|> 3. [THEORIES OF MATHEMATICS EDUCATION](https://www.emis.de/proceedings/PME29/PME29ResearchForums/PME29RFEnglishSriraman.pdf)
-pdf de method                                      <|> 151. https://www.tu-chemnitz.de/hsw/psychologie/professuren/method/homepages/ts/methodenlehre/Mehrebenenanalyse.pdf
+pdf de method                                      <|> 151. [tu-chemnitz.de/hsw/psychologie/professuren/method/homepages/ts/methodenlehre/Mehrebenenanalyse.pdf](https://www.tu-chemnitz.de/hsw/psychologie/professuren/method/homepages/ts/methodenlehre/Mehrebenenanalyse.pdf)
 pdf de statistik i uni stochastik                  <|> 57. [Mathematische Statistik I](https://www.uni-muenster.de/Stochastik/loewe/mathstatistik.pdf)
-pdf de statistik uni                               <|> * https://www.uni-marburg.de/fb02/statistik/studium/vorl/mikoeko/quantreg.pdf
+pdf de statistik uni                               <|> * [uni-marburg.de/fb02/statistik/studium/vorl/mikoeko/quantreg.pdf](https://www.uni-marburg.de/fb02/statistik/studium/vorl/mikoeko/quantreg.pdf)
 pdf de statistik uni stochastik lehre              <|> 66. [Skript_Math_Statistik.pdf](http://www.uni-muenster.de/Stochastik/lehre/WS1415/Statistik/daten/Skript_Math_Statistik.pdf)
-pdf de uni                                         <|> 147. https://pep.uni-potsdam.de/media/akeva09/Vortraege/F5/F5_Poetschke.pdf
-pdf de uni 05 download                             <|> * http://www.wiwi.uni-muenster.de/05/download/studium/econometrics1/ss10/kapitel_2.pdf
-pdf de uni fileadmin                               <|> * https://www.uni-trier.de/fileadmin/fb4/prof/VWL/FIN/Oekonometrie/Klausurmaterialien/formelnKap01-14_1_.pdf
+pdf de uni                                         <|> 147. [pep.uni-potsdam.de/media/akeva09/Vortraege/F5/F5_Poetschke.pdf](https://pep.uni-potsdam.de/media/akeva09/Vortraege/F5/F5_Poetschke.pdf)
+pdf de uni 05 download                             <|> * [wiwi.uni-muenster.de/05/download/studium/econometrics1/ss10/kapitel_2.pdf](http://www.wiwi.uni-muenster.de/05/download/studium/econometrics1/ss10/kapitel_2.pdf)
+pdf de uni fileadmin                               <|> * [uni-trier.de/fileadmin/fb4/prof/VWL/FIN/Oekonometrie/Klausurmaterialien/formelnKap01-14_1_.pdf](https://www.uni-trier.de/fileadmin/fb4/prof/VWL/FIN/Oekonometrie/Klausurmaterialien/formelnKap01-14_1_.pdf)
 pdf de uni fileadmin teaching                      <|> 21. [Ch6_Extremum_Estimators.pdf](http://froelich.vwl.uni-mannheim.de/fileadmin/user_upload/froelich/teaching/Ch6_Extremum_Estimators.pdf)
-pdf de uni lehre                                   <|> * http://www.wiwi.uni-frankfurt.de/professoren/hujer/Lehre/Oek_1/OLS_ML.pdf
-pdf document content research ch 2017              <|> * https://www.ethz.ch/content/dam/ethz/special-interest/mtec/cer-eth/cer-eth-dam/documents/research/seminar/2017/Tabellini.pdf
+pdf de uni lehre                                   <|> * [wiwi.uni-frankfurt.de/professoren/hujer/Lehre/Oek_1/OLS_ML.pdf](http://www.wiwi.uni-frankfurt.de/professoren/hujer/Lehre/Oek_1/OLS_ML.pdf)
+pdf document content research ch 2017              <|> * [ethz.ch/content/dam/ethz/special-interest/mtec/cer-eth/cer-eth-dam/documents/research/seminar/2017/Tabellini.pdf](https://www.ethz.ch/content/dam/ethz/special-interest/mtec/cer-eth/cer-eth-dam/documents/research/seminar/2017/Tabellini.pdf)
 pdf document dvi econ                              <|> 196. [Sample_Moments.DVI](http://www2.econ.iastate.edu/classes/econ500/hallam/documents/Sample_Moments.pdf)
 pdf dvi                                            <|> 3. [abdi-prc-pretty.dvi](http://www.utdallas.edu/~herve/abdi-prc-pretty.pdf)
 pdf econometric                                    <|> 209. [Identification in Econometrics](http://home.uchicago.edu/~amshaikh/webfiles/ident.pdf)
@@ -1540,14 +1540,14 @@ pdf effect on interaction note                     <|> 213. [Supplemental notes 
 pdf evaluation document education private          <|> 107. [Impact evaluation of private sector participation in education](http://documents.worldbank.org/curated/en/325281468161085236/pdf/665860WP00PUBL0ct0evaluation0report.pdf)
 pdf file correlation variance site default         <|> 95. [INTRACLASS CORRELATION AND VARIANCE COMPONENTS AS POPULATION ATTRIBUTES AND MEASURES OF SAMPLING EFFICIENCY IN PIRLS 2001](http://www.iea.nl/sites/default/files/irc/IRC2004_Foy.pdf)
 pdf file education site inference default 20model  <|> 178. [Causal Inference](https://www.colorado.edu/education/sites/default/files/attached-files/Briggs_Causal%20Inference%20and%20the%20Heckman%20Model.pdf)
-pdf fr 05 content                                  <|> * http://www.mathieuperona.fr/wp-content/uploads/2012/05/Econometrie.pdf
+pdf fr 05 content                                  <|> * [mathieuperona.fr/wp-content/uploads/2012/05/Econometrie.pdf](http://www.mathieuperona.fr/wp-content/uploads/2012/05/Econometrie.pdf)
 pdf fr file                                        <|> 138. [ARTICLEFOUGERE_RFAS_1-22010.pdf](http://www.crest.fr/ckfinder/userfiles/files/Pageperso/fougere/fougere_fichiers/ARTICLEFOUGERE_RFAS_1-22010.pdf)
 pdf function control method                        <|> 29. [Control Functions and Related Methods](https://www.irp.wisc.edu/newsevents/workshops/appliedmicroeconometrics/participants/slides/Slides_14.pdf)
 pdf function method control uk ac                  <|> 30. [Control Functions and Simultaneous Equations Methods](http://www.ucl.ac.uk/~uctp39a/AEA_Jan14.pdf)
 pdf github heckman master blob 89                  <|> 75. [Heckman_selection_2steps_model/heckman（1979）.pdf at master · chenyang45/Heckman_selection_2steps_model](https://github.com/chenyang45/Heckman_selection_2steps_model/blob/master/materials/heckman%EF%BC%881979%EF%BC%89.pdf)
 pdf github master blob                             <|> 76. [Heckman_selection_2steps_model/sampleSelection.pdf at master · chenyang45/Heckman_selection_2steps_model](https://github.com/chenyang45/Heckman_selection_2steps_model/blob/master/materials/sampleSelection.pdf)
-pdf github statistika master blob                  <|> 42. https://github.com/VavdiG14/Statistika/blob/master/Statistika.pdf
-pdf github statistika master blob                  <|> 43. https://github.com/VavdiG14/Statistika/blob/master/Statistika.pdf
+pdf github statistika master blob                  <|> 42. [VavdiG14/Statistika/blob/master/Statistika.pdf](https://github.com/VavdiG14/Statistika/blob/master/Statistika.pdf)
+pdf github statistika master blob                  <|> 43. [VavdiG14/Statistika/blob/master/Statistika.pdf](https://github.com/VavdiG14/Statistika/blob/master/Statistika.pdf)
 pdf heckman file                                   <|> 77. [heckman.pdf](http://www.unc.edu/~jimmyjin/files/heckman.pdf)
 pdf i statistika vk                                <|> 88. [teoriya-veroyatnostey-i-matematicheskaya-statistika.pdf](https://vk.com/doc30601958_461719399?hash=688faae8b1dc8614cc&dl=745a2160b000f36602)
 pdf interaction new                                <|> 90. [iNTERACTIONS](https://www.cscu.cornell.edu/news/statnews/stnews40.pdf)
@@ -1567,9 +1567,9 @@ pdf model theorem probability linear               <|> 179. [Some Theorems in th
 pdf net soderbom schooling                         <|> 197. [Schooling, Earnings and Fertility](http://www.soderbom.net/lecture2.pdf)
 pdf normal                                         <|> 37. [Bivariate-Normal.pdf](http://www.athenasc.com/Bivariate-Normal.pdf)
 pdf note berkeley                                  <|> 139. [Note to Hoxby - Datasets](http://eml.berkeley.edu/~jrothst/publications/rothstein-hoxbycomment-AER-appendix.pdf)
-pdf paper                                          <|> 105. https://www.princeton.edu/~honore/papers/double4a.pdf
+pdf paper                                          <|> 105. [princeton.edu/~honore/papers/double4a.pdf](https://www.princeton.edu/~honore/papers/double4a.pdf)
 pdf paper repec dvi                                <|> 114. [lpmjae03r1.dvi](http://econwpa.repec.org/eps/em/papers/0206/0206002.pdf)
-pdf pdf                                            <|> 146. https://pdfs.semanticscholar.org/2903/180261ee0d99a27cfe85cde9cf4af74923c6.pdf
+pdf pdf                                            <|> 146. [pdfs.semanticscholar.org/2903/180261ee0d99a27cfe85cde9cf4af74923c6.pdf](https://pdfs.semanticscholar.org/2903/180261ee0d99a27cfe85cde9cf4af74923c6.pdf)
 pdf pdf cros data econometric analysi              <|> * [Econometric Analysis of Cross Section and Panel Data](https://pdfs.semanticscholar.org/6bd0/adf734a194039061d085202808e5a0763289.pdf)
 pdf pdf dvi                                        <|> 9. [asymp3-extest_2006-04-12_mms.dvi](https://pdfs.semanticscholar.org/a23a/93fbbf14d35e49720944daf25946edf9641c.pdf)
 pdf pdf statistic math lecture mit note            <|> 33. [High-Dimensionality Statistics Lecture Notes](http://www-math.mit.edu/~rigollet/PDFs/RigNotes15.pdf)
@@ -1584,12 +1584,12 @@ pdf sample selection lecture net soderbom          <|> 126. [Lecture 9: Sample S
 pdf stat de regression der teaching                <|> 78. [Herleitung der Parameter-Gleichungen für die einfache lineare Regression](http://uweziegenhagen.de/teaching/stat/linreg.pdf)
 pdf stat lecture lecture 15                        <|> 128. [lecture-06.pdf](http://www.stat.cmu.edu/~cshalizi/mreg/15/lectures/06/lecture-06.pdf)
 pdf stat note                                      <|> 26. [Stats Notes to Read!](http://www.columbia.edu/~kr2248/4109/chapter4.pdf)
-pdf stata                                          <|> * http://www.stata.com/manuals14/teeteffects.pdf
-pdf stata                                          <|> * http://www.stata.com/meeting/italy11/abstracts/italy11_cerulli.pdf
+pdf stata                                          <|> * [stata.com/manuals14/teeteffects.pdf](http://www.stata.com/manuals14/teeteffects.pdf)
+pdf stata                                          <|> * [stata.com/meeting/italy11/abstracts/italy11_cerulli.pdf](http://www.stata.com/meeting/italy11/abstracts/italy11_cerulli.pdf)
 pdf stata                                          <|> 216. [teetregress.pdf](http://www.stata.com/manuals14/teetregress.pdf)
 pdf stata data manuals13                           <|> 133. [[SVY] Survey Data](http://www.stata.com/manuals13/svy.pdf)
 pdf stata econometric new                          <|> 137. [New Econometric Tools in Stata](http://www.stata.com/meeting/mexico13/abstracts/materials/mex13_baum.pdf)
-pdf stata manuals13                                <|> 142. http://www.stata.com/manuals13/te.pdf
+pdf stata manuals13                                <|> 142. [stata.com/manuals13/te.pdf](http://www.stata.com/manuals13/te.pdf)
 pdf stata manuals13                                <|> 193. [rheckman.pdf](http://www.stata.com/manuals13/rheckman.pdf)
 pdf stata manuals13                                <|> 194. [rivregresspostestimation.pdf](http://www.stata.com/manuals13/rivregresspostestimation.pdf)
 pdf stata manuals13                                <|> 206. [xtxtreg.pdf](http://www.stata.com/manuals13/xtxtreg.pdf)
@@ -1600,7 +1600,7 @@ pdf stata using doc                                <|> 199. [using-weights-in-st
 pdf statistic economic an                          <|> * [Understanding Economic Statistics: An OECD Perspective - 41746710.pdf](http://www.oecd.org/sdd/41746710.pdf)
 pdf statistic with mathematical 2017               <|> 153. [IIT JAM 2017 : Mathematical Statistics (with Answer Keys) - ResPaper](https://www.respaper.com/iit_jam/989/9476-pdf.html)
 pdf theorem                                        <|> 13. [Bayes’ theorem](https://my.eng.utah.edu/~cs5961/Resources/bayes.pdf)
-pdf uk ac                                          <|> 140. http://personal.lse.ac.uk/LARCINES/Summer_Sch/election_models.PDF
+pdf uk ac                                          <|> 140. [personal.lse.ac.uk/LARCINES/Summer_Sch/election_models.PDF](http://personal.lse.ac.uk/LARCINES/Summer_Sch/election_models.PDF)
 pdf variable a model net                           <|> 2. [A Classical MCMC Approach to the Estimation of Limited Dependent Variable Models... | Request PDF](https://www.researchgate.net/publication/239745164_A_Classical_MCMC_Approach_to_the_Estimation_of_Limited_Dependent_Variable_Models_of_Time_Series)
 pdf variable for effect instrumental archive evaluation an estimating site schooling catholic web <|> 5. [An Evaluation of Instrumental Variable Strategies for Estimating the Effects of Catholic Schooling](https://web.stanford.edu/group/SITE/archive/SITE_2006/Web%20Session%204/Todd.pdf)
 pdf variable for effect instrumental evaluation content an estimating catholic schooling <|> 137. [An Evaluation of Instrumental Variable Strategies for Estimating the Effects of Catholic Schooling](http://jhr.uwpress.org/content/XL/4/791.full.pdf)
@@ -1610,8 +1610,8 @@ pdf variable on selection catholic school          <|> 175. [Selection on Observ
 pdf variable regression file site dummy default    <|> 43. [Dummy-Variable Regression](http://www.sagepub.com/sites/default/files/upm-binaries/21120_Chapter_7.pdf)
 pdf variable regression interaction faculty dummy  <|> 64. [Dummy Variables and Interaction Terms in Regressions](http://www.polsci.ucsb.edu/faculty/glasgow/ps15/dvint.pdf)
 pdf variable science fr file document methode 101  <|> * [Insee methodes n° 101 - Endogeneite et variables instrumentales dans les sciences sociales](http://jms.insee.fr/files/documents/2000/654_1-JMS2000_S4-1_ROBIN.PDF)
-probability                                        <|> * http://theanalysisofdata.com/probability/0_2.html
-q search 8 google bayesian chrome ie oq utf        <|> 45. https://www.google.com/search?q=philosophicl+issues+in+the+bayesian-frequentist+debate&rlz=1C1GCEA_enUS779US779&oq=philosophicl+issues+in+the+bayesian-frequentist+debate&aqs=chrome..69i57.12679j0j7&sourceid=chrome&ie=UTF-8
+probability                                        <|> * [theanalysisofdata.com/probability/0_2.html](http://theanalysisofdata.com/probability/0_2.html)
+q search 8 google bayesian chrome ie oq utf        <|> 45. [google.com/search?q=philosophicl+issues+in+the+bayesian-frequentist+debate&rlz=1C1GCEA_enUS779US779&oq=philosophicl+issues+in+the+bayesian-frequentist+debate&aqs=chrome..69i57.12679j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=philosophicl+issues+in+the+bayesian-frequentist+debate&rlz=1C1GCEA_enUS779US779&oq=philosophicl+issues+in+the+bayesian-frequentist+debate&aqs=chrome..69i57.12679j0j7&sourceid=chrome&ie=UTF-8)
 q search 8 google why doe ie standard utf          <|> 164. [why use n-1](https://www.google.com/search?q=why+does+standard+deviation+use+n-1&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
 question econometric theory document view 2013     <|> 23. [Exam 2013 - Advanced Econometric Theory](https://www.studocu.com/en-us/document/university-of-nottingham/advanced-econometric-theory/past-exams/exam-2012-2013-questions-advanced-econometric-theory/139741/view)
 question stackexchange math matrix how covariance  <|> * [How to calculate the covariance matrix](https://math.stackexchange.com/questions/561340/how-to-calculate-the-covariance-matrix)
@@ -1622,9 +1622,9 @@ question stackexchange mathematic math i analysi s q p stack 39 exchange can c3 
 question stackexchange mathematic math theory stack exchange number <|> * [elementary number theory - Division of Factorials - Mathematics Stack Exchange](https://math.stackexchange.com/questions/2158/division-of-factorials)
 question stackexchange variable for mathematic math i stack random continuou exchange can <|> * [calculus - Can I derive the formula for expected value of continuous random variables from the discrete case? - Mathematics Stack Exchange](https://math.stackexchange.com/questions/1438516/can-i-derive-the-formula-for-expected-value-of-continuous-random-variables-from/1438620)
 question variable for r stack matrix binary correlation overflow generating stackoverflow <|> 157. [r - Specify correlation matrix for generating correlated binary variables - Stack Overflow](https://stackoverflow.com/questions/19039537/specify-correlation-matrix-for-generating-correlated-binary-variables)
-question variable regression with on stackoverflow <|> * https://stackoverflow.com/questions/24097850/quantile-regression-with-quantiles-based-on-independent-variable
+question variable regression with on stackoverflow <|> * [stackoverflow.com/questions/24097850/quantile-regression-with-quantiles-based-on-independent-variable](https://stackoverflow.com/questions/24097850/quantile-regression-with-quantiles-based-on-independent-variable)
 question variable rq r stack matrix correlation overflow stackoverflow <|> 156. [r - Impossible to create correlated variables from this correlation matrix? - Stack Overflow](https://stackoverflow.com/questions/18834055/impossible-to-create-correlated-variables-from-this-correlation-matrix?rq=1)
-r anova                                            <|> 90. https://www.datanovia.com/en/lessons/repeated-measures-anova-in-r/
+r anova                                            <|> 90. [datanovia.com/en/lessons/repeated-measures-anova-in-r/](https://www.datanovia.com/en/lessons/repeated-measures-anova-in-r/)
 regression a blog 10 05 content do 2016            <|> 201. [Visualize a weighted regression - The DO Loop](http://blogs.sas.com/content/iml/2016/10/05/weighted-regression.html)
 regression a model with htm index support correction <|> 136. [A Simple Regression Model with Correction of Heteroscedasticity](https://support.sas.com/rnd/app/ets/examples/hetero/index.htm)
 regression analysi                                 <|> * [Multicollinearity in Regression Analysis](https://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/)
@@ -1637,7 +1637,7 @@ regression statistic linear                        <|> 113. [Linear regression -
 regression with                                    <|> 28. Generalized regression with Taylor polynomials?
 regression with interaction topic interpreting 7   <|> 94. [Interpreting results of regression with interaction terms: Example - ESS EduNet](http://essedunet.nsd.uib.no/cms/topics/regression/7/2.html)
 repec                                              <|> 112. [RePeC](http://fmwww.bc.edu/RePEc/)
-ru                                                 <|> 143. http://www.statdata.ru/
+ru                                                 <|> 143. [statdata.ru/](http://www.statdata.ru/)
 ru 82                                              <|> 2. [: Галерея великих математиков](http://hoster.bmstu.ru/~fn1/?page_id=82)
 sample blog evaluation                             <|> 161. [Tools of the trade: when to use those sample weights | Impact Evaluations](https://blogs.worldbank.org/impactevaluations/tools-of-the-trade-when-to-use-those-sample-weights)
 science article education using estimating         <|> * [Estimating the education-earnings equation using geographic variation](http://www.sciencedirect.com/science/article/pii/S0272775715300303)
@@ -1648,7 +1648,7 @@ science statistical inference social               <|> 76. [Statistical Modeling
 science theory s statistical f x mc state lc number jfai datascience a62e getresponse360 u c y j z click <|> 114. [State-of-the-Art Statistical Science to Tackle Famous Number Theory Conjectures +](http://datascience.getresponse360.com/click.html?x=a62e&lc=5jf&mc=j&s=jFaI&u=F&y=c&z=w5Q1eWf&)
 stack ru overflow                                  <|> * [Stack Overflow на русском: инструкция по убийству сообщества / Хабр](https://habr.com/ru/post/457714/)
 stage                                              <|> - bargaining and multi-stage games
-standard                                           <|> 141. http://www.rand.org/standards/standards_high.html
+standard                                           <|> 141. [rand.org/standards/standards_high.html](http://www.rand.org/standards/standards_high.html)
 stat                                               <|> 70. [STAT 414 / 415](https://online.stat.psu.edu/stat414/)
 stat course htm statistical topic 101              <|> 33. [Statistical Topics](http://www.stat.yale.edu/Courses/1997-98/101/stat101.htm)
 stat fr la 7                                       <|> 22. [Chapitre 7 - La Régression Linéaire](http://tice.inpl-nancy.fr/modules/unit-stat/chapitre7/)
@@ -1695,7 +1695,7 @@ stata a statalist archive 2sl how by re 02 st standard <|> 162. [RE: st: RE: How
 stata blog 89                                      <|> 89. [The Stata Blog](http://blog.stata.com/)
 stata blog probit 14 2016                          <|> 198. [The Stata Blog » regress, probit, or logit?](https://blog.stata.com/2016/01/14/regress-probit-or-logit/)
 stata cros data effect forum forum statalist general discussion fixed 80 <|> 80. [Fixed effects in cross sectional data - Statalist](http://www.statalist.org/forums/forum/general-stata-discussion/general/1311877-fixed-effects-in-cross-sectional-data)
-stata data                                         <|> 204. [www.learneconometrics.com/data/stata/heckit.txt](http://www.learneconometrics.com/data/stata/heckit.txt)
+stata data                                         <|> 204. [learneconometrics.com/data/stata/heckit.txt](http://www.learneconometrics.com/data/stata/heckit.txt)
 stata data a with statalist archive re distribution 2013 st 03 generating <|> 160. [Re: st: generating synthetic data with a negatively skewed distribution?](https://www.stata.com/statalist/archive/2013-03/msg00749.html)
 stata data effect forum forum statalist general discussion treatment 11 <|> 11. [Average Treatment Effect in Panel Data - Statalist](http://www.statalist.org/forums/forum/general-stata-discussion/general/1372293-average-treatment-effect-in-panel-data)
 stata data q search chrome generating 0            <|> 86. [generating right-skewed data in stata - Ecosia](https://www.ecosia.org/search?q=generating+right-skewed+data+in+stata&addon=chrome&addonversion=2.0.3)
@@ -1706,7 +1706,7 @@ stata model effect linear fixed random             <|> 111. [Linear fixed- and r
 stata model effect new uk treatment                <|> 56. [EXTENDED MODELS OF TREATMENT EFFECTS](https://www.timberlake.co.uk/software/stata-new-extended-models)
 stata question variable statistic interaction stack continuou overflow stackoverflow all <|> 189. [statistics - Generate log transformation of all continuous variables in Stata + interactions - Stack Overflow](https://stackoverflow.com/questions/25471935/generate-log-transformation-of-all-continuous-variables-in-stata-interactions)
 stata regression a with statalist archive how re 02 st <|> 159. [Re: st: Attempt to summarize how to avoid a forbidden regression with -](http://www.stata.com/statalist/archive/2010-02/msg00306.html)
-stata statalist archive                            <|> * https://www.stata.com/statalist/archive/2005-07/msg00699.html
+stata statalist archive                            <|> * [stata.com/statalist/archive/2005-07/msg00699.html](https://www.stata.com/statalist/archive/2005-07/msg00699.html)
 stata statalist archive re st                      <|> 161. [Re: st: pweight or fweight?](http://www.stata.com/statalist/archive/2008-09/msg00291.html)
 stata statistic faq faq support                    <|> 187. [Stata | FAQ: summarize and aweights and pweights](http://www.stata.com/support/faqs/statistics/weights-and-summary-statistics/)
 stata statistic model heckman selection ratio ratio faq faq mill inverse 39 support <|> 185. [Stata | FAQ: Mills&#39; ratios and censoring direction in the Heckman selection model](http://www.stata.com/support/faqs/statistics/inverse-mills-ratio/)
@@ -1714,7 +1714,7 @@ stata statistic sample selection faq faq support   <|> 184. [Stata | FAQ: Endoge
 stata variable forum forum statalist instrumental general discussion using instrument dummy <|> 110. [Instrumental Variables using dummy variables as instruments - Statalist](http://www.statalist.org/forums/forum/general-stata-discussion/general/1375222-instrumental-variables-using-dummy-variables-as-instruments)
 stata variable instrumental on 03 2015             <|> 88. [Instrumental Variables: Find the Bad Guys on Stata](http://econometricstutorial.com/2015/03/instrumental-variables-find-the-bad-guys-stata/)
 stata variable model heckman forum forum statalist instrumental sample selection general discussion <|> 72. [Heckman sample selection and Instrumental Variable (IV) or Simultaneous Equations Model - Statalist](http://www.statalist.org/forums/forum/general-stata-discussion/general/1295287-heckman-sample-selection-and-instrumental-variable-iv-or-simultaneous-equations-model)
-stata variable regression forum forum statalist on general discussion <|> * https://www.statalist.org/forums/forum/general-stata-discussion/general/1397862-quantile-regression-based-on-independent-variable-such-as-size
+stata variable regression forum forum statalist on general discussion <|> * [statalist.org/forums/forum/general-stata-discussion/general/1397862-quantile-regression-based-on-independent-variable-such-as-size](https://www.statalist.org/forums/forum/general-stata-discussion/general/1397862-quantile-regression-based-on-independent-variable-such-as-size)
 stata variable regression statistic with effect instrumental faq faq fixed support estimating 6 <|> 186. [Stata | FAQ: Stata 6: Estimating fixed-effects regression with instrumental variables](http://www.stata.com/support/faqs/statistics/fixed-effects-regression/)
 stata variable regression with forum forum statalist 2sl general binary discussion 18 endogenou <|> 18. [2sls regression with binary endogenous variable - Statalist](http://www.statalist.org/forums/forum/general-stata-discussion/general/1302474-2sls-regression-with-binary-endogenous-variable)
 stata with statalist archive re st                 <|> 180. [st: RE: Randomization with ralloc](https://www.stata.com/statalist/archive/2012-04/msg00162.html)
@@ -1739,7 +1739,7 @@ statistik                                          <|> * Statistik - Lektüre (3
 statistik                                          <|> 56. Mathematische Statistik
 statistik 80                                       <|> 80. Statistik - Überblick
 statistik net                                      <|> 68. [SSM2 Statistik MUW](https://ankiweb.net/shared/info/1055561731)
-statistique                                        <|> 148. https://toupourleco.wordpress.com/liens/donnees-statistiques/
+statistique                                        <|> 148. [toupourleco.wordpress.com/liens/donnees-statistiques/](https://toupourleco.wordpress.com/liens/donnees-statistiques/)
 teaching                                           <|> 53. [Math408](http://www.its.caltech.edu/~zuev/teaching/2013Spring/Math408.html)
 theory                                             <|> 120. [Seeing Theory](https://seeing-theory.brown.edu/#firstPage)
 theory la es                                       <|> 123. [Viendo la Teoría](https://seeing-theory.brown.edu/es.html)
@@ -1761,13 +1761,13 @@ wiki variance continuou distribution               <|> 92. [Variance of Continuo
 wiki wikipedia                                     <|> * [Gian-Carlo Rota - Wikipedia](https://en.wikipedia.org/wiki/Gian-Carlo_Rota)
 wiki wikipedia                                     <|> 100. [Kurtosis - Wikipedia](https://en.wikipedia.org/wiki/Kurtosis)
 wiki wikipedia                                     <|> 153. [Quasi-experiment - Wikipedia](https://en.wikipedia.org/wiki/Quasi-experiment)
-wiki wikipedia                                     <|> 167. https://en.wikipedia.org/wiki/Bessel%27s_correction
-wiki wikipedia                                     <|> 170. https://en.wikipedia.org/wiki/Standard_error
-wiki wikipedia                                     <|> 35. https://en.wikipedia.org/wiki/Misuse_of_statistics
-wiki wikipedia 10                                  <|> 10. https://en.wikipedia.org/wiki/Standard_error
+wiki wikipedia                                     <|> 167. [en.wikipedia.org/wiki/Bessel%27s_correction](https://en.wikipedia.org/wiki/Bessel%27s_correction)
+wiki wikipedia                                     <|> 170. [en.wikipedia.org/wiki/Standard_error](https://en.wikipedia.org/wiki/Standard_error)
+wiki wikipedia                                     <|> 35. [en.wikipedia.org/wiki/Misuse_of_statistics](https://en.wikipedia.org/wiki/Misuse_of_statistics)
+wiki wikipedia 10                                  <|> 10. [en.wikipedia.org/wiki/Standard_error](https://en.wikipedia.org/wiki/Standard_error)
 wiki wikipedia 59 cumulant                         <|> 59. [Cumulant - Wikipedia](https://en.wikipedia.org/wiki/Cumulant)
 wiki wikipedia de                                  <|> 136. [Netzwerkforschung – Wikipedia](https://de.wikipedia.org/wiki/Netzwerkforschung)
-wiki wikipedia de                                  <|> 145. https://de.wikipedia.org/wiki/Mehrebenenanalyse
+wiki wikipedia de                                  <|> 145. [de.wikipedia.org/wiki/Mehrebenenanalyse](https://de.wikipedia.org/wiki/Mehrebenenanalyse)
 wiki wikipedia de                                  <|> 181. [Stable Marriage Problem – Wikipedia](https://de.wikipedia.org/wiki/Stable_Marriage_Problem)
 wiki wikipedia de                                  <|> 57. [Faktorenanalyse – Wikipedia](https://de.wikipedia.org/wiki/Faktorenanalyse)
 wiki wikipedia de analysi der                      <|> 84. [Fundamentalsatz der Analysis – Wikipedia](https://de.wikipedia.org/wiki/Fundamentalsatz_der_Analysis)
@@ -1786,12 +1786,12 @@ wiki wikipedia la es libre enciclopedia            <|> 173. [Producto tensorial 
 wiki wikipedia mathematic moment moment_           <|> 118. [Moment (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Moment_(mathematics))
 wiki wikipedia mathematic moment moment_           <|> 149. [Moment (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Moment_(mathematics))
 wiki wikipedia mathematic moment moment_ cumulant  <|> 150. [Moment (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Moment_(mathematics)#Cumulants)
-wiki wikipedia mathematic moment_                  <|> 168. [https://en.wikipedia.org/wiki/Moment_(mathematics)](https://en.wikipedia.org/wiki/Moment_(mathematics))
+wiki wikipedia mathematic moment_                  <|> 168. [en.wikipedia.org/wiki/Moment_(mathematics)](https://en.wikipedia.org/wiki/Moment_(mathematics))
 wiki wikipedia mathematic p                        <|> 138. [Norm (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Norm_(mathematics)#p-norm)
 wiki wikipedia matrix covariance                   <|> 58. [Covariance matrix - Wikipedia](https://en.wikipedia.org/wiki/Covariance_matrix)
 wiki wikipedia moment                              <|> 182. [Standardized moment - Wikipedia](https://en.wikipedia.org/wiki/Standardized_moment)
 wiki wikipedia moment central                      <|> 20. [Central moment - Wikipedia](https://en.wikipedia.org/wiki/Central_moment)
-wiki wikipedia moment_                             <|> 169. [https://en.wikipedia.org/wiki/Moment_(physics)](https://en.wikipedia.org/wiki/Moment_(physics))
+wiki wikipedia moment_                             <|> 169. [en.wikipedia.org/wiki/Moment_(physics)](https://en.wikipedia.org/wiki/Moment_(physics))
 wiki wikipedia ratio mill inverse                  <|> 97. [Inverse Mills ratio - Wikipedia](https://en.wikipedia.org/wiki/Inverse_Mills_ratio)
 wiki wikipedia ru 82 be 81                         <|> 207. [Моменты случайной величины — Википедия](https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BC%D0%B5%D0%BD%D1%82%D1%8B_%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%BE%D0%B9_%D0%B2%D0%B5%D0%BB%D0%B8%D1%87%D0%B8%D0%BD%D1%8B)
 wiki wikipedia sample covariance                   <|> * [Sample mean and covariance](https://en.wikipedia.org/wiki/Sample_mean_and_covariance)

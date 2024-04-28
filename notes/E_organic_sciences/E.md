@@ -4,8 +4,8 @@
 
 ### Reading
 
-        * https://en.wikipedia.org/wiki/Group_selection
-        * http://libgen.rs/search.php?req=neil+shubin&open=0&res=25&view=simple&phrase=1&column=def
+        * [en.wikipedia.org/wiki/Group_selection](https://en.wikipedia.org/wiki/Group_selection)
+        * [libgen.rs/search.php?req=neil+shubin&open=0&res=25&view=simple&phrase=1&column=def](http://libgen.rs/search.php?req=neil+shubin&open=0&res=25&view=simple&phrase=1&column=def)
 
 Finding Equilibrium: Arrow, Debreu, McKenzie and the Problem of Scientific Credit
 
@@ -16,28 +16,28 @@ Finding Equilibrium: Arrow, Debreu, McKenzie and the Problem of Scientific Credi
 the mathematics of evolution
 
 * [Карл Циммер — Она смеется, как мать: могущество и причуды наследственности.pdf](https://vk.com/doc-181906657_602659356?hash=9e21eb7d4a21a4c76e&dl=d8aa718c49284beb09)
-        * https://inpn.mnhn.fr/accueil/index
-        * http://eol.org/
+        * [inpn.mnhn.fr/accueil/index](https://inpn.mnhn.fr/accueil/index)
+        * [eol.org/](http://eol.org/)
 
-* [https://www.anipedia.net](https://www.anipedia.net/)
-        * http://www.ecofauna.org/
-        * http://hallimasch-und-mollymauk.de/
-        * http://pryroda.in.ua/
-        * http://nature-en-photos.over-blog.fr/
-        * http://focusnature.canalblog.com/
-        * http://www.conservation.org.co/
-        * http://naturablog.blogspot.com/
-        * http://www.naturalezayviajes.com/
-        * http://www.naturalezayviajes.com/p/blogs-de-naturaleza-que-no-puedes.html
-        * http://www.conservation.org/global/brasil/Pages/default.aspx
-        * http://www.zr-giardinaggio.it/natura-blog/
-        * http://www.rivistanatura.com/
-        * http://www.beinghuman.org/
-        * http://palaeos.com/
-        * http://www.catalogueoflife.org/
-        * http://www.catalogueoflife.org/annual-checklist/2016/info/ac
-        * https://www.wehi.edu.au/wehi-tv
-        * http://www.sciencemag.org/news/2015/10/homosexuality-may-be-caused-chemical-modifications-dna
+* [anipedia.net](https://www.anipedia.net/)
+        * [ecofauna.org/](http://www.ecofauna.org/)
+        * [hallimasch-und-mollymauk.de/](http://hallimasch-und-mollymauk.de/)
+        * [pryroda.in.ua/](http://pryroda.in.ua/)
+        * [nature-en-photos.over-blog.fr/](http://nature-en-photos.over-blog.fr/)
+        * [focusnature.canalblog.com/](http://focusnature.canalblog.com/)
+        * [conservation.org.co/](http://www.conservation.org.co/)
+        * [naturablog.blogspot.com/](http://naturablog.blogspot.com/)
+        * [naturalezayviajes.com/](http://www.naturalezayviajes.com/)
+        * [naturalezayviajes.com/p/blogs-de-naturaleza-que-no-puedes.html](http://www.naturalezayviajes.com/p/blogs-de-naturaleza-que-no-puedes.html)
+        * [conservation.org/global/brasil/Pages/default.aspx](http://www.conservation.org/global/brasil/Pages/default.aspx)
+        * [zr-giardinaggio.it/natura-blog/](http://www.zr-giardinaggio.it/natura-blog/)
+        * [rivistanatura.com/](http://www.rivistanatura.com/)
+        * [beinghuman.org/](http://www.beinghuman.org/)
+        * [palaeos.com/](http://palaeos.com/)
+        * [catalogueoflife.org/](http://www.catalogueoflife.org/)
+        * [catalogueoflife.org/annual-checklist/2016/info/ac](http://www.catalogueoflife.org/annual-checklist/2016/info/ac)
+        * [wehi.edu.au/wehi-tv](https://www.wehi.edu.au/wehi-tv)
+        * [sciencemag.org/news/2015/10/homosexuality-may-be-caused-chemical-modifications-dna](http://www.sciencemag.org/news/2015/10/homosexuality-may-be-caused-chemical-modifications-dna)
 
 Librivox: Марков Александр:Эволюция человека 01. Обезьяны, кости и гены
 
@@ -76,24 +76,24 @@ Evolución de los Homínidos
 * [Химия тела. Тестостерон](https://vk.com/video-94010172_171563554?list=05ac2cf1190ec64d86)
 
 James Lovelock
-        * https://www.google.com/search?q=logique+du+vivant+pdf&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari -> make (diitize and expand) personal recipe lists
+        * [google.com/search?q=logique+du+vivant+pdf&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari](https://www.google.com/search?q=logique+du+vivant+pdf&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari) -> make (diitize and expand) personal recipe lists
 
 * [Peter Wohlleben (nature, secret life of, etc. )](https://b-ok.cc/s/peter%20wohlleben/?e=1)
 
 * [Leben bleibt rätselhaft: Was wissen wir über die großen Fragen der Biologie?](https://b-ok.cc/book/3663671/b763f1)
-        * https://b-ok.cc/g/Francisco%20J.%20Ayala
+        * [b-ok.cc/g/Francisco%20J.%20Ayala](https://b-ok.cc/g/Francisco%20J.%20Ayala)
 
 * [Spice is nice in many cuisines — but for unexpected reasons](https://click.email.researcher-app.com/?qs=123e4570e35ee4eb8b055316489276ade306335c298a563652f2fc916fe149dd871d944a8bab854773914078f07b93d0f1e3d2bda19c48eabd5a56e1d15baca7)
 
 * [Seeking Life's Bare (Genetic) Necessities | Science](https://science.sciencemag.org/content/272/5265/1098.summary)
-        * http://www.birds.it/naturalistic
+        * [birds.it/naturalistic](http://www.birds.it/naturalistic)
 
 * [Птахи](https://uk.wikipedia.org/wiki/%D0%9F%D1%82%D0%B0%D1%85%D0%B8)
 
 * [Список птахів України](https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B0%D1%85%D1%96%D0%B2_%D1%84%D0%B0%D1%83%D0%BD%D0%B8_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8)
 
 comment grandent les ongles
-        * https://www.geneticliteracyproject.org/2014/03/06/was-lamarck-right-groundbreaking-epigenetic-research-suggests-we-might-inherit-learned-traits-but-how/
+        * [geneticliteracyproject.org/2014/03/06/was-lamarck-right-groundbreaking-epigenetic-research-suggests-we-might-inherit-learned-traits-but-how/](https://www.geneticliteracyproject.org/2014/03/06/was-lamarck-right-groundbreaking-epigenetic-research-suggests-we-might-inherit-learned-traits-but-how/)
 
 * [NG In Italia è l'ora del lupo](https://vk.com/doc448658071_460097237?hash=f7deaa6f28a0abf37b&dl=acd470c51c6e306b0c)
 
@@ -119,21 +119,21 @@ scientific studies on extreme pickiness
 * [Biochemie](https://ankiweb.net/shared/info/606402422)
 
 * [Fundamentals of Neuroscience](https://www.mcb80x.org/course)
-        * http://www.neuroproductions.be/logic-lab/
-        * http://www.rationality.net/entropy.htm
-        * http://www.voegel-sachsen.de/downloads/Artenliste2005Deutschland.pdf
-        * https://3d.dasgehirn.info/
-        * https://en.wikipedia.org/wiki/List_of_regions_in_the_human_brain?wprov=sfti1
-        * https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-01-introduction-to-neuroscience-fall-2007/
-        * https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-913-a-intensive-neuroanatomy-january-iap-2002/
-        * https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-97-introduction-to-neuroanatomy-january-iap-2003/
-        * https://www.dasgehirn.info/glossar
+        * [neuroproductions.be/logic-lab/](http://www.neuroproductions.be/logic-lab/)
+        * [rationality.net/entropy.htm](http://www.rationality.net/entropy.htm)
+        * [voegel-sachsen.de/downloads/Artenliste2005Deutschland.pdf](http://www.voegel-sachsen.de/downloads/Artenliste2005Deutschland.pdf)
+        * [3d.dasgehirn.info/](https://3d.dasgehirn.info/)
+        * [en.wikipedia.org/wiki/List_of_regions_in_the_human_brain?wprov=sfti1](https://en.wikipedia.org/wiki/List_of_regions_in_the_human_brain?wprov=sfti1)
+        * [ocw.mit.edu/courses/brain-and-cognitive-sciences/9-01-introduction-to-neuroscience-fall-2007/](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-01-introduction-to-neuroscience-fall-2007/)
+        * [ocw.mit.edu/courses/brain-and-cognitive-sciences/9-913-a-intensive-neuroanatomy-january-iap-2002/](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-913-a-intensive-neuroanatomy-january-iap-2002/)
+        * [ocw.mit.edu/courses/brain-and-cognitive-sciences/9-97-introduction-to-neuroanatomy-january-iap-2003/](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-97-introduction-to-neuroanatomy-january-iap-2003/)
+        * [dasgehirn.info/glossar](https://www.dasgehirn.info/glossar)
 
-* [https://www.google.com/search?q=еволюція+одяги&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari#scso=_i5alW83gAcjWjwT9joWQDA2:156](https://www.google.com/search?q=%D0%B5%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D1%96%D1%8F+%D0%BE%D0%B4%D1%8F%D0%B3%D0%B8&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari#scso=_i5alW83gAcjWjwT9joWQDA2:156)
-        * https://www.humanbrainproject.eu/en/
-        * https://www.mpg.de/11975125/gehirn
-        * https://www.nabu.de/tiere-und-pflanzen/aktionen-und-projekte/stunde-der-gartenvoegel/vogelportraets/index.html
-        * https://www.onmeda.de/anatomie/gehirn_anatomie.html
+* [google.com/search?q=еволюція+одяги&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari#scso=_i5alW83gAcjWjwT9joWQDA2:156](https://www.google.com/search?q=%D0%B5%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D1%96%D1%8F+%D0%BE%D0%B4%D1%8F%D0%B3%D0%B8&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari#scso=_i5alW83gAcjWjwT9joWQDA2:156)
+        * [humanbrainproject.eu/en/](https://www.humanbrainproject.eu/en/)
+        * [mpg.de/11975125/gehirn](https://www.mpg.de/11975125/gehirn)
+        * [nabu.de/tiere-und-pflanzen/aktionen-und-projekte/stunde-der-gartenvoegel/vogelportraets/index.html](https://www.nabu.de/tiere-und-pflanzen/aktionen-und-projekte/stunde-der-gartenvoegel/vogelportraets/index.html)
+        * [onmeda.de/anatomie/gehirn_anatomie.html](https://www.onmeda.de/anatomie/gehirn_anatomie.html)
 
 * [Neuroanatomia](https://ankiweb.net/shared/info/2637514430)
 
@@ -154,7 +154,7 @@ differences between knowledge gained by experience and other kinds - what exactl
 * [Scalp Itch: A Systematic Review.](https://www.ncbi.nlm.nih.gov/pubmed/30197900)
 
 * [The Itchy scalp - scratching for an explanation - NCBI - NIH](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3233984/)
-        * https://www.nature.com/articles/d41586-020-01221-y
+        * [nature.com/articles/d41586-020-01221-y](https://www.nature.com/articles/d41586-020-01221-y)
 
 The Molecular Biology of the Cell (Alberts et al.)
 
@@ -205,17 +205,17 @@ The Molecular Biology of the Cell (Alberts et al.)
 * [Evolution, Denken, Kultur: Das soziale Gehirn und die Entstehung des Menschlichen [1 ed.]](http://libgen.is/book/index.php?md5=AC723F7F74A4F6F30497C1AD8929E827)
 
 * [Evolution: Ein interdisziplinäres Handbuch](http://libgen.is/book/index.php?md5=8439B91E5D48A101C5F4078515607812)
-        * http://libgen.is/search.php?&req=handbook+of+evolution&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
-        * http://libgen.is/search.php?&req=human+evolution&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
-        * http://libgen.is/search.php?req=evolution+mensch&open=0&res=25&view=simple&phrase=1&column=def
-        * http://libgen.is/search.php?req=evolution+menschen&open=0&res=25&view=simple&phrase=1&column=def
-        * http://libgen.is/search.php?req=handbook+of+human+evolution&open=0&res=25&view=simple&phrase=1&column=def
-        * http://libgen.is/search.php?req=human+evolution&open=0&res=25&view=simple&phrase=1&column=def
+        * [libgen.is/search.php?&req=handbook+of+evolution&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](http://libgen.is/search.php?&req=handbook+of+evolution&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+        * [libgen.is/search.php?&req=human+evolution&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](http://libgen.is/search.php?&req=human+evolution&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+        * [libgen.is/search.php?req=evolution+mensch&open=0&res=25&view=simple&phrase=1&column=def](http://libgen.is/search.php?req=evolution+mensch&open=0&res=25&view=simple&phrase=1&column=def)
+        * [libgen.is/search.php?req=evolution+menschen&open=0&res=25&view=simple&phrase=1&column=def](http://libgen.is/search.php?req=evolution+menschen&open=0&res=25&view=simple&phrase=1&column=def)
+        * [libgen.is/search.php?req=handbook+of+human+evolution&open=0&res=25&view=simple&phrase=1&column=def](http://libgen.is/search.php?req=handbook+of+human+evolution&open=0&res=25&view=simple&phrase=1&column=def)
+        * [libgen.is/search.php?req=human+evolution&open=0&res=25&view=simple&phrase=1&column=def](http://libgen.is/search.php?req=human+evolution&open=0&res=25&view=simple&phrase=1&column=def)
 
 * [Now You're Talking: Human Conversation from the Neanderthals to Artificial Intelligence](http://library.lol/main/F6BC50B880A8700426C4BFC17DDD2F9E)
 
 * [Warum macht Sex Spaß? Die Evolution der menschlichen Sexualität](http://libgen.is/book/index.php?md5=A5A5264E9C96475C2F188C1FAAAA4678)
-        * http://libgen.is/search.php?&req=david+buss&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+        * [libgen.is/search.php?&req=david+buss&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](http://libgen.is/search.php?&req=david+buss&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 
 * [Кунин Логика случая.pdf](https://vk.com/doc601791677_558876398?hash=595e8f55baaba25b8a&dl=cf0b580dc06d0f7056)
 
@@ -254,10 +254,10 @@ Brehms Tierleben
 * [Кожа. Мифы и правда о самом большом органе](http://libgen.rs/book/index.php?md5=BEC509022ACA0C5CEAE8EFDD7ABF5217)
 
 * [mathematics of evolution - Google Search](https://www.google.com/search?client=firefox-b-d&q=mathematics+of+evolution)
-        * https://uk.wikipedia.org/wiki/%D0%93%D1%96%D1%80%D0%BA%D0%BE%D0%BA%D0%B0%D1%88%D1%82%D0%B0%D0%BD_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%B9#%D0%86%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%8F_%D0%BA%D0%B0%D1%88%D1%82%D0%B0%D0%BD%D1%96%D0%B2_%D1%83_%D0%9A%D0%B8%D1%94%D0%B2%D1%96_%D1%82%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96
+        * [uk.wikipedia.org/wiki/%D0%93%D1%96%D1%80%D0%BA%D0%BE%D0%BA%D0%B0%D1%88%D1%82%D0%B0%D0%BD_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%B9#%D0%86%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%8F_%D0%BA%D0%B0%D1%88%D1%82%D0%B0%D0%BD%D1%96%D0%B2_%D1%83_%D0%9A%D0%B8%D1%94%D0%B2%D1%96_%D1%82%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96](https://uk.wikipedia.org/wiki/%D0%93%D1%96%D1%80%D0%BA%D0%BE%D0%BA%D0%B0%D1%88%D1%82%D0%B0%D0%BD_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%B9#%D0%86%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%8F_%D0%BA%D0%B0%D1%88%D1%82%D0%B0%D0%BD%D1%96%D0%B2_%D1%83_%D0%9A%D0%B8%D1%94%D0%B2%D1%96_%D1%82%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96)
 
 * [How Particle Life emerges from simplicity](https://youtu.be/p4YirERTVF0)
-        * http://www.rivistanatura.com/gli-oceani-sinnalzano-isole-e-coste-sono-a-rischio/
+        * [rivistanatura.com/gli-oceani-sinnalzano-isole-e-coste-sono-a-rischio/](http://www.rivistanatura.com/gli-oceani-sinnalzano-isole-e-coste-sono-a-rischio/)
 
 - Filosofía de ciencia
 
@@ -394,7 +394,7 @@ La Terre et l'Evolution
 * [Познавательная подборка видео о нашем организме!](https://vk.com/wall-124609314_107314)
 
 * [Происхождение жизни. От туманности до клетки. М. Никитин.pdf](https://vk.com/doc30601958_482923227?hash=8cb1b135989e02dbb5&dl=946d57cf6089dd49e6)
-        * https://knigavuhe.ru/author/dzhared-dajjmond/
+        * [knigavuhe.ru/author/dzhared-dajjmond/](https://knigavuhe.ru/author/dzhared-dajjmond/)
 
 - Notes and Questions
 
@@ -520,16 +520,16 @@ Diario d Charles Darwin
 
 ## B. Biología
 ### Evolución
-        * https://www.evolutionnews.org/
+        * [evolutionnews.org/](https://www.evolutionnews.org/)
 
 * [101 Reasons Why Evolution is True | ideonexus.com](http://ideonexus.com/2012/02/12/101-reasons-why-evolution-is-true/)
 
 * [Why Evolution Is True](https://whyevolutionistrue.wordpress.com/)
 
 * [Home - Darwin's Doubt](https://darwinsdoubt.com/)
-        * http://www.bioquantica.org/
-        * http://www.birds.it/naturalistic
-        * https://ped.fas.harvard.edu/
+        * [bioquantica.org/](http://www.bioquantica.org/)
+        * [birds.it/naturalistic](http://www.birds.it/naturalistic)
+        * [ped.fas.harvard.edu/](https://ped.fas.harvard.edu/)
 
 * [Is Life Improbable?](http://math.ucr.edu/home/baez/improbable.pdf)
 
@@ -539,50 +539,50 @@ Edward J. Larson - Evolution
 
 ## C. Zoológica
 - Animales
-        * http://www.tiere-tierarten.de/
-        * http://www.das-tierlexikon.de/
-        * http://www.tierlexikon.ch/index.php/tierlexikon
-        * http://www.tierlexikon.ch/index.php/about/glossar1
-        * http://www.geo.de/GEOlino/natur/tierlexikon/
+        * [tiere-tierarten.de/](http://www.tiere-tierarten.de/)
+        * [das-tierlexikon.de/](http://www.das-tierlexikon.de/)
+        * [tierlexikon.ch/index.php/tierlexikon](http://www.tierlexikon.ch/index.php/tierlexikon)
+        * [tierlexikon.ch/index.php/about/glossar1](http://www.tierlexikon.ch/index.php/about/glossar1)
+        * [geo.de/GEOlino/natur/tierlexikon/](http://www.geo.de/GEOlino/natur/tierlexikon/)
 
 - Aves
-        * http://avibase.bsc-eoc.org/avibase.jsp
-        * http://www.pbs.org/lifeofbirds/
-        * https://ru.wikipedia.org/wiki/%D0%9F%D1%82%D0%B8%D1%86%D1%8B
-        * http://ptici.info/
-        * http://www.theanimalworld.ru/birds/
-        * https://www.nabu.de/tiere-und-pflanzen/voegel/vogelkunde/voegel-bestimmen/
-        * http://www.voegel-magazin.de/
-        * https://de.wikipedia.org/wiki/V%C3%B6gel
-        * http://www.vogelwarte.ch/de/home/
-        * http://www.vogelwarte.ch/de/vogelwarte/news/tv/
-        * http://bird-ukraine.pp.ua/index.php/svit-ptakhiv-ukrainy
-        * http://aves.land.kiev.ua/
-        * http://www.raptor.in.ua/
-        * http://pernatidruzi.org.ua/cat.php?catid=25
-        * http://oiseauxetcie.canalblog.com/
-        * http://www.oiseaux.net/
-        * http://www.oiseau-libre.net/Site/
-        * http://www.seo.org/wp-content/uploads/2014/02/STRUTHIONIFORMES-ANSERIFORMES.pdf
-        * https://es.wikipedia.org/wiki/Portal:Aves
-        * http://www.passaros.com/
-        * http://www.wikiaves.com.br/
-        * http://www.uccellinelmondo.it/index1.html
-        * http://www.vogelwarte.ch/it/uccelli/uccelli-della-svizzera/
-        * https://it.wikipedia.org/wiki/Portale:Uccelli
-        * http://www.astolinto.it/uccelli.php
-        * http://www.birds.it/
-        * http://mawdoo3.com/%D9%85%D8%A7_%D9%87%D9%8A_%D8%A7%D9%84%D8%B7%D9%8A%D9%88%D8%B1
-        * http://beatona.net/CMS/index.html
+        * [avibase.bsc-eoc.org/avibase.jsp](http://avibase.bsc-eoc.org/avibase.jsp)
+        * [pbs.org/lifeofbirds/](http://www.pbs.org/lifeofbirds/)
+        * [ru.wikipedia.org/wiki/%D0%9F%D1%82%D0%B8%D1%86%D1%8B](https://ru.wikipedia.org/wiki/%D0%9F%D1%82%D0%B8%D1%86%D1%8B)
+        * [ptici.info/](http://ptici.info/)
+        * [theanimalworld.ru/birds/](http://www.theanimalworld.ru/birds/)
+        * [nabu.de/tiere-und-pflanzen/voegel/vogelkunde/voegel-bestimmen/](https://www.nabu.de/tiere-und-pflanzen/voegel/vogelkunde/voegel-bestimmen/)
+        * [voegel-magazin.de/](http://www.voegel-magazin.de/)
+        * [de.wikipedia.org/wiki/V%C3%B6gel](https://de.wikipedia.org/wiki/V%C3%B6gel)
+        * [vogelwarte.ch/de/home/](http://www.vogelwarte.ch/de/home/)
+        * [vogelwarte.ch/de/vogelwarte/news/tv/](http://www.vogelwarte.ch/de/vogelwarte/news/tv/)
+        * [bird-ukraine.pp.ua/index.php/svit-ptakhiv-ukrainy](http://bird-ukraine.pp.ua/index.php/svit-ptakhiv-ukrainy)
+        * [aves.land.kiev.ua/](http://aves.land.kiev.ua/)
+        * [raptor.in.ua/](http://www.raptor.in.ua/)
+        * [pernatidruzi.org.ua/cat.php?catid=25](http://pernatidruzi.org.ua/cat.php?catid=25)
+        * [oiseauxetcie.canalblog.com/](http://oiseauxetcie.canalblog.com/)
+        * [oiseaux.net/](http://www.oiseaux.net/)
+        * [oiseau-libre.net/Site/](http://www.oiseau-libre.net/Site/)
+        * [seo.org/wp-content/uploads/2014/02/STRUTHIONIFORMES-ANSERIFORMES.pdf](http://www.seo.org/wp-content/uploads/2014/02/STRUTHIONIFORMES-ANSERIFORMES.pdf)
+        * [es.wikipedia.org/wiki/Portal:Aves](https://es.wikipedia.org/wiki/Portal:Aves)
+        * [passaros.com/](http://www.passaros.com/)
+        * [wikiaves.com.br/](http://www.wikiaves.com.br/)
+        * [uccellinelmondo.it/index1.html](http://www.uccellinelmondo.it/index1.html)
+        * [vogelwarte.ch/it/uccelli/uccelli-della-svizzera/](http://www.vogelwarte.ch/it/uccelli/uccelli-della-svizzera/)
+        * [it.wikipedia.org/wiki/Portale:Uccelli](https://it.wikipedia.org/wiki/Portale:Uccelli)
+        * [astolinto.it/uccelli.php](http://www.astolinto.it/uccelli.php)
+        * [birds.it/](http://www.birds.it/)
+        * [mawdoo3.com/%D9%85%D8%A7_%D9%87%D9%8A_%D8%A7%D9%84%D8%B7%D9%8A%D9%88%D8%B1](http://mawdoo3.com/%D9%85%D8%A7_%D9%87%D9%8A_%D8%A7%D9%84%D8%B7%D9%8A%D9%88%D8%B1)
+        * [beatona.net/CMS/index.html](http://beatona.net/CMS/index.html)
 
 * D. Botánica
 * E. Fisiología
 * F. Anatomía y fisiología
 - General Learning Resources
-        * http://ect.downstate.edu/courseware/haonline/toc.htm
-        * http://www.med.harvard.edu/AANLIB/home.html
-        * http://www.wiley.com/college/apcentral/anatomydrill/
-        * http://learn.genetics.utah.edu/
+        * [ect.downstate.edu/courseware/haonline/toc.htm](http://ect.downstate.edu/courseware/haonline/toc.htm)
+        * [med.harvard.edu/AANLIB/home.html](http://www.med.harvard.edu/AANLIB/home.html)
+        * [wiley.com/college/apcentral/anatomydrill/](http://www.wiley.com/college/apcentral/anatomydrill/)
+        * [learn.genetics.utah.edu/](http://learn.genetics.utah.edu/)
 
 - Questions
 
@@ -613,8 +613,8 @@ What causes canker sores?
 
 
 ## I. Neurociencias y ciencias de la mente
-* https://www.youtube.com/@ArtemKirsanov
-* https://kibm.ucsd.edu/
+* [](https://www.youtube.com/@ArtemKirsanov)
+* [kibm.ucsd.edu/](https://kibm.ucsd.edu/)
 
 Get a grounding into the consciousness research.
 * [Read: Neuro Wikipedia](https://en.wikipedia.org/wiki/Template:Neuroscience)
@@ -645,7 +645,7 @@ pensamiento y lengua
 idea of while greater than sum of its parts - applicable to music and mystical experiences, conscienceness as it seems to be in the material realm?
 
 * Courses
-* https://www.coursera.org/learn/neuro-ling-ru
+* [coursera.org/learn/neuro-ling-ru](https://www.coursera.org/learn/neuro-ling-ru)
 * [Устройство и работа мозга](https://www.youtube.com/watch?v=0qlgd8HLn_M)
 * [Computational Neuroscience Course](https://www.coursera.org/learn/computational-neuroscience/home/welcome)
 
@@ -657,7 +657,7 @@ idea of while greater than sum of its parts - applicable to music and mystical e
 * [Language Unlimited: The Science Behind Our Most Creative Power](http://library.lol/main/857A41107FF9E09725A85B9B45225334)
 * [Cerebrotes](https://www.youtube.com/c/Cerebrotes/playlists)
 * [On Concepts, Modules, and Language: Cognitive Science at Its Core [1 ed.]](http://libgen.is/book/index.php?md5=27DF90720BCAE72042B7B7D553230852)
-* https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-13-the-human-brain-spring-2019/
+* [ocw.mit.edu/courses/brain-and-cognitive-sciences/9-13-the-human-brain-spring-2019/](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-13-the-human-brain-spring-2019/)
 * [VK Videos](https://vk.com/wall-83013121_262228)
 * [Neurolinguistics](https://www.coursera.org/learn/neuroling) (coursera)
 * [The Mind's New Science: A History of the Cognitive Revolution](http://libgen.rs/book/index.php?md5=67CDAC6A28A59E7FB2AA6C57D2B84D19)
@@ -728,22 +728,22 @@ The Brain and Behavior
 * [Spektrum](https://www.spektrum.de/news/lernen-wir-neues-auf-kosten-von-altem/1844707)
 * [The Neural Simulation Language: A System for Brain Modeling](https://b-ok.cc/book/437033/590bf0)
 * [Handbook of Brain Theory and Neural Networks](https://b-ok.cc/book/437545/9871eb)
-* https://b-ok.cc/s/Bewusstsein
-* https://b-ok.cc/s/Philosophie%20des%20Geistes
-* [https://b-ok.cc/s/reward pathways in the brain](https://b-ok.cc/s/reward%20pathways%20in%20the%20brain)
+* [b-ok.cc/s/Bewusstsein](https://b-ok.cc/s/Bewusstsein)
+* [b-ok.cc/s/Philosophie%20des%20Geistes](https://b-ok.cc/s/Philosophie%20des%20Geistes)
+* [b-ok.cc/s/reward pathways in the brain](https://b-ok.cc/s/reward%20pathways%20in%20the%20brain)
 * [philosophie de l'esprit](https://b-ok.cc/s/?q=philosophie+de+l%27esprit&e=1)
 * [Philosophie des Geistes](https://b-ok.cc/s/Philosophie%20des%20Geistes/?yearFrom=2014)
-* https://www.google.com/search?q=reward+pathways+in+the+brain&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari
-* https://www.youtube.com/watch?v=xSH8tGDcjW4
-* https://www.nyu.edu/gsas/dept/philo/faculty/block/papers/Theories_of_Consciousness.pdf
+* [google.com/search?q=reward+pathways+in+the+brain&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari](https://www.google.com/search?q=reward+pathways+in+the+brain&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
+* [](https://www.youtube.com/watch?v=xSH8tGDcjW4)
+* [nyu.edu/gsas/dept/philo/faculty/block/papers/Theories_of_Consciousness.pdf](https://www.nyu.edu/gsas/dept/philo/faculty/block/papers/Theories_of_Consciousness.pdf)
 * [neuroscience behind decreasing returns - Cerca con Google](https://www.google.com/search?q=neuroscience+behind+decreasing+returns&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
-* https://www.youtube.com/watch?v=DttGN_m-lDM
+* [](https://www.youtube.com/watch?v=DttGN_m-lDM)
 
 Multidimensionality of neural rewards -> what is the structure of neural rewards (hedonic feedback, esp. as relating to "diminishing returns")
 * [Consciousness and Conceptual Schema](https://www.academia.edu/keypass/WXkzOU9iZ3FIdFZLY2E2MjduMHJ1RFA2ZjB5MEphbytuSTk2ZnIwRm1aWT0tLVhXTmxtcUw5eUNXTDIyKytNY21abVE9PQ==--b15ee1f54ae20c7c98cbb4049d9477ec75d3f25b/t/drT8b-Pi0xFZd-biWzLX/resource/work/347099/Consciousness_and_Conceptual_Schema?email_work_card=title)
 * [Когнитивистика](https://vk.com/wall-74058720_4330)
-* http://www.deutschlandradiokultur.de/wissenschaft-was-ist-bewusstsein.976.de.html?dram:article_id=294702
-* https://www.rosenfluh.ch/media/psychiatrie-neurologie/2006/04/Neurophilosophie-des-Schmerzes.pdf
+* [deutschlandradiokultur.de/wissenschaft-was-ist-bewusstsein.976.de.html?dram:article_id=294702](http://www.deutschlandradiokultur.de/wissenschaft-was-ist-bewusstsein.976.de.html?dram:article_id=294702)
+* [rosenfluh.ch/media/psychiatrie-neurologie/2006/04/Neurophilosophie-des-Schmerzes.pdf](https://www.rosenfluh.ch/media/psychiatrie-neurologie/2006/04/Neurophilosophie-des-Schmerzes.pdf)
 
 hierarchical temporal memory by jeff hawkins
 * [Quantification of Brain Function Using PET | Ralph Myers, Vin Cunningham, Dale L. Bailey, Terry Jones | download](https://b-ok.cc/book/931939/7ab57d)
@@ -751,8 +751,8 @@ hierarchical temporal memory by jeff hawkins
 - [Brain metaphors](https://www.edge.org/response-detail/25336)**
 * [¿Cómo funciona una adicción?](https://youtu.be/A46Bw_h4zP8)
 * [10 удивительных фактов о том, как работает наш мозг](http://supersales.ru/produktivnost/10-udivitelnyx-faktov-o-tom-kak-rabotaet-nash-mozg.html)
-* http://www.lescienze.it/mente-e-cervello/2017/01/30/news/m_c_febbraio_2017-3396906/
-* [FR https://oullier.wordpress.com/publications/](https://oullier.wordpress.com/publications/)
+* [lescienze.it/mente-e-cervello/2017/01/30/news/m_c_febbraio_2017-3396906/](http://www.lescienze.it/mente-e-cervello/2017/01/30/news/m_c_febbraio_2017-3396906/)
+* [FR [oullier.wordpress.com/publications/](https://oullier.wordpress.com/publications/)](https://oullier.wordpress.com/publications/](https://oullier.wordpress.com/publications/))
 * [Anatomical terms of neuroanatomy - Wikipedia](https://en.wikipedia.org/wiki/Anatomical_terms_of_neuroanatomy)
 
 - [> My nash mozg](https://vk.com/wall-36047336_77265)
@@ -776,15 +776,15 @@ hierarchical temporal memory by jeff hawkins
 * [Home | Minds](https://www.minds.com/)
 * [How the brain resists when presented with scientific consensus on controversial issues | Genetic Literacy Project](https://geneticliteracyproject.org/2017/12/05/brain-resists-presented-scientific-consensus-controversial-issues/)
 * [How the Languages We Speak Shape the Ways We Think](https://www.youtube.com/watch?v=VHulvUwgFWo&feature=share)
-* http://brainblogger.com/2010/10/25/free-will-is-not-an-illusion/
-* http://www.onlinepsychologydegree.info/30-most-influential-neuroscientists-alive-today/
-* https://pdfs.semanticscholar.org/9c9b/49f0b1607fefc8a7df417bc39e20a411e459.pdf
-* https://search.lib.byu.edu/byu/search?q=brain+anatomy
-* https://search.lib.byu.edu/byu/search?q=neuroanatomy
-* https://search.lib.byu.edu/byu/search?q=neuroscience
-* https://www.amazon.com/What-Thought-Press-Eric-2006-01-20/dp/B01FEKTLQ4
-* https://www.edge.org/conversation/lera_boroditsky-how-does-our-language-shape-the-way-we-think
-* https://www.reddit.com/r/ScienzaItalia/comments/aq7y9v/la_mente_umana_funziona_come_un_formicaio/?st=JS3QKJ9A&sh=9c8d493b
+* [brainblogger.com/2010/10/25/free-will-is-not-an-illusion/](http://brainblogger.com/2010/10/25/free-will-is-not-an-illusion/)
+* [onlinepsychologydegree.info/30-most-influential-neuroscientists-alive-today/](http://www.onlinepsychologydegree.info/30-most-influential-neuroscientists-alive-today/)
+* [pdfs.semanticscholar.org/9c9b/49f0b1607fefc8a7df417bc39e20a411e459.pdf](https://pdfs.semanticscholar.org/9c9b/49f0b1607fefc8a7df417bc39e20a411e459.pdf)
+* [search.lib.byu.edu/byu/search?q=brain+anatomy](https://search.lib.byu.edu/byu/search?q=brain+anatomy)
+* [search.lib.byu.edu/byu/search?q=neuroanatomy](https://search.lib.byu.edu/byu/search?q=neuroanatomy)
+* [search.lib.byu.edu/byu/search?q=neuroscience](https://search.lib.byu.edu/byu/search?q=neuroscience)
+* [amazon.com/What-Thought-Press-Eric-2006-01-20/dp/B01FEKTLQ4](https://www.amazon.com/What-Thought-Press-Eric-2006-01-20/dp/B01FEKTLQ4)
+* [edge.org/conversation/lera_boroditsky-how-does-our-language-shape-the-way-we-think](https://www.edge.org/conversation/lera_boroditsky-how-does-our-language-shape-the-way-we-think)
+* [r/ScienzaItalia/comments/aq7y9v/la_mente_umana_funziona_come_un_formicaio/?st=JS3QKJ9A&sh=9c8d493b](https://www.reddit.com/r/ScienzaItalia/comments/aq7y9v/la_mente_umana_funziona_come_un_formicaio/?st=JS3QKJ9A&sh=9c8d493b)
 * [james fodor - YouTube](https://www.youtube.com/results?search_query=james+fodor)
 * [Journal of Consciousness Studies: Ingenta Connect Table Of Contents](https://www-ingentaconnect-com.erl.lib.byu.edu/content/imp/jcs/2018/00000025/f0020009)
 * [kak rabotaet mozg? - Ecosia](https://www.ecosia.org/search?q=kak+rabotaet+mozg%3F&addon=chrome&addonversion=2.0.3)
@@ -841,22 +841,22 @@ The Stuff of Thought
 * [Entwicklung des figurativen Denkens - RowLand98.com](http://www.de.rowland98.com/psihologiya/85992-razvitie-obraznogo-myshleniya.html)
 * [Evolution des Denkens](https://de.wikipedia.org/wiki/Evolution_des_Denkens)
 
-- [ http://thinktank.uchicago.edu/learn/](http://thinktank.uchicago.edu/learn/)**
+- [ [thinktank.uchicago.edu/learn/](http://thinktank.uchicago.edu/learn/)**](http://thinktank.uchicago.edu/learn/](http://thinktank.uchicago.edu/learn/)**)
 - [**Theories of Consciousness - Bibliography - PhilPapers](https://philpapers.org/browse/theories-of-consciousness)**
 - [*Two-Stage Models for Free Will](http://www.informationphilosopher.com/freedom/two-stage_models.html)
 * [10. Introduction to Neuroscience I](https://www.youtube.com/watch?v=5031rWXgdYo&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=176)
 * [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://www.youtube.com/watch?v=BvJJn9VS4rk&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=170&t=10s)
 
 Вячеслав Дубынин: "Нейроны и нейросети. Обзор основных структур головного и спинного мозга"
-* http://www.neuroqualia.org/background.php
-* https://ideas.repec.org/i/eneu.html
-* https://en.wikipedia.org/wiki/Neuroeconomics
-* https://www.coursera.org/learn/neuroeconomics
-* http://insights.som.yale.edu/insights/what-is-neuroeconomics
-* http://www.economist.com/node/11785391
-* http://www.awi.uni-heidelberg.de/news/PhDS.pdf
-* http://www.neuroeconomicstudies.org/
-* https://fr.wikipedia.org/wiki/Neurosciences
+* [neuroqualia.org/background.php](http://www.neuroqualia.org/background.php)
+* [ideas.repec.org/i/eneu.html](https://ideas.repec.org/i/eneu.html)
+* [en.wikipedia.org/wiki/Neuroeconomics](https://en.wikipedia.org/wiki/Neuroeconomics)
+* [coursera.org/learn/neuroeconomics](https://www.coursera.org/learn/neuroeconomics)
+* [insights.som.yale.edu/insights/what-is-neuroeconomics](http://insights.som.yale.edu/insights/what-is-neuroeconomics)
+* [economist.com/node/11785391](http://www.economist.com/node/11785391)
+* [awi.uni-heidelberg.de/news/PhDS.pdf](http://www.awi.uni-heidelberg.de/news/PhDS.pdf)
+* [neuroeconomicstudies.org/](http://www.neuroeconomicstudies.org/)
+* [fr.wikipedia.org/wiki/Neurosciences](https://fr.wikipedia.org/wiki/Neurosciences)
 * [(PDF) Consciousness and Conceptual Schema | Daniel D. Hutto - Academia.edu](https://www.academia.edu/347099/Consciousness_and_Conceptual_Schema?email_work_card=view-paper)
 * [The Human Brain Book: An Illustrated Guide to Its Structure, Function, and Disorders | DK, Rita Carter | download](https://b-ok.cc/book/3657909/b7f3a3?dsource=mostpopular)
 * [The Neuroscience of Language and Thought, Dr. George Lakoff Professor of Linguistics](https://www.youtube.com/watch?v=JJP-rkilz40&feature=share)
@@ -931,8 +931,8 @@ The meaning of anything derives from how it's connected to everything else in yo
 Friedemann Pulvermüller
 * [From Computer to Brain. Foundations of Computational Neuroscience](https://b-ok.cc/book/511564/511f14)
 * [Fundamentals of Computational Neuroscience](https://b-ok.cc/book/2566864/4fe157?dsource=recommend)
-* https://en.wikipedia.org/wiki/Neuroscience
-* https://www.hardproblem.ru/
+* [en.wikipedia.org/wiki/Neuroscience](https://en.wikipedia.org/wiki/Neuroscience)
+* [hardproblem.ru/](https://www.hardproblem.ru/)
 * [Klatski_Roberta_-_Pamyat_cheloveka_Ctruktury_i_protsessy.pdf](https://vk.com/doc288422991_485703461?hash=10a9e8eb58fbe51eaf&dl=a00d1ac09329fdec88)
 * [Klatski_Roberta_-_Pamyat_cheloveka_Ctruktury_i_protsessy.pdf](https://vk.com/doc35110420_496054295?hash=5304545f94297a1b3a&dl=1f5c4d5671005d219a)
 * [Научные лекции Татьяны Черниговской](https://vk.com/wall-36047336_92612)
@@ -1031,9 +1031,9 @@ Daniel Wegner
 
 Everything Is Made of Quarks—Why Are Only Some Things Conscious? | Max Tegmark - YouTube
 * [giulio tononi italiano - YouTube](https://www.youtube.com/results?search_query=giulio+tononi+italiano)
-* http://www.scholarpedia.org/article/User:Paul_L._Nunez
-* https://www.scientificamerican.com/article/why-the-human-brain-project-went-wrong-and-how-to-fix-it/
-* https://www.youtube.com/results?search_query=entrevista+damasio
+* [scholarpedia.org/article/User:Paul_L._Nunez](http://www.scholarpedia.org/article/User:Paul_L._Nunez)
+* [scientificamerican.com/article/why-the-human-brain-project-went-wrong-and-how-to-fix-it/](https://www.scientificamerican.com/article/why-the-human-brain-project-went-wrong-and-how-to-fix-it/)
+* [](https://www.youtube.com/results?search_query=entrevista+damasio)
 
 Introduction to Neuroeconomics: About the Course #1 - YouTube
 * [The Evolution of Consciousness - Yuval Noah Harari Panel Discussion at the WEF Annual Meeting - YouTube](https://www.youtube.com/watch?v=o2aAx3wk6dg)
@@ -1044,7 +1044,7 @@ Wie das Bewusstsein „Wirklichkeit schaltet&quot; | Dr. Ulrich Warnke im Gespr�
 
 #### To Sort
 * [NeuroIS: The Potential of Cognitive Neuroscience for Information Systems Research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2369341)
-* http://www.motherjones.com/politics/2012/03/chris-mooney-republican-brain-science-denial
+* [motherjones.com/politics/2012/03/chris-mooney-republican-brain-science-denial](http://www.motherjones.com/politics/2012/03/chris-mooney-republican-brain-science-denial)
 * [Critical Neuroscience: A Handbook of the Social and Cultural Contexts of Neuroscience | Suparna Choudhury, Jan Slaby (editors) | download](https://b-ok.cc/book/1252710/fa28ef)
 * [mozg](https://vk.com/wall-94010172_190047)
 * Foundationalism and neuroscience; silence and language
@@ -1053,32 +1053,32 @@ Wie das Bewusstsein „Wirklichkeit schaltet&quot; | Dr. Ulrich Warnke im Gespr�
 * [Нейрон. Передача импульсов в нервной клетке](https://www.youtube.com/playlist?list=PLDfnCCNn9QDnuyt-U3tOuzsqNb8JNtCCC)
 * [Britannica Brain Book](https://vk.com/wall-149102784_26313)
 * [Marbles: The Brain Store - Your Daily Brain: 24 Hours in the Life of Your Brain](https://libgen.is/book/index.php?md5=BB56A736387321E4306663A713676614)
-* https://en.wikipedia.org/wiki/Human_brain?wprov=sfti1
+* [en.wikipedia.org/wiki/Human_brain?wprov=sfti1](https://en.wikipedia.org/wiki/Human_brain?wprov=sfti1)
 * [Курс «Мозг: как он устроен и работает» (МФК МГУ, 2018г.)](https://vk.com/wall-37160097_98777)
-* http://www.neuroschools-germany.com/
-* https://www.bccn-berlin.de/master-program-application.html
-* http://www.ibio.ovgu.de/Abteilungen/Integrative+Neuroscience.html
-* https://www.neuroscience-magdeburg.de/prospective-students/prerequisites/
-* http://www.bio.uni-freiburg.de/studium/studiengaenge/master/neurowissenschaften?set_language=en
-* https://www.uni-bielefeld.de/biologie/behaviour/
-* http://www.uni-frankfurt.de/35791957
-* https://www.gsn.uni-muenchen.de/studies/msc_program/index.html
-* http://www.mscneuro.uni-freiburg.de/
+* [neuroschools-germany.com/](http://www.neuroschools-germany.com/)
+* [bccn-berlin.de/master-program-application.html](https://www.bccn-berlin.de/master-program-application.html)
+* [ibio.ovgu.de/Abteilungen/Integrative+Neuroscience.html](http://www.ibio.ovgu.de/Abteilungen/Integrative+Neuroscience.html)
+* [neuroscience-magdeburg.de/prospective-students/prerequisites/](https://www.neuroscience-magdeburg.de/prospective-students/prerequisites/)
+* [bio.uni-freiburg.de/studium/studiengaenge/master/neurowissenschaften?set_language=en](http://www.bio.uni-freiburg.de/studium/studiengaenge/master/neurowissenschaften?set_language=en)
+* [uni-bielefeld.de/biologie/behaviour/](https://www.uni-bielefeld.de/biologie/behaviour/)
+* [uni-frankfurt.de/35791957](http://www.uni-frankfurt.de/35791957)
+* [gsn.uni-muenchen.de/studies/msc_program/index.html](https://www.gsn.uni-muenchen.de/studies/msc_program/index.html)
+* [mscneuro.uni-freiburg.de/](http://www.mscneuro.uni-freiburg.de/)
 * [UK 3 ***](https://www.youtube.com/playlist?list=PLBoNQWTfdR3iXpbRDJtlsCQHKrQbV1DNE)
 * [A Calculus of Ideas](https://b-ok.cc/book/2345279/eb2a76)
 * [Neurolinguistics - YouTube](https://www.youtube.com/playlist?list=PLF528EADC5E39F11D)
 * [Уловки нашего мозга.](https://vk.com/@science_porn-ulovki-nashego-mozga)
 * [Как работает мозг](http://oyla.xyz/article/kak-rabotaet-mozg)
-* http://nautil.us/issue/59/connections/why-is-the-human-brain-so-efficient
+* [nautil.us/issue/59/connections/why-is-the-human-brain-so-efficient](http://nautil.us/issue/59/connections/why-is-the-human-brain-so-efficient)
 * [PsyAndNeuro.ru - Психиатрия & Нейронауки](http://psyandneuro.ru/)
 * [(PDF) THE SPIRIT MOLECULE: DMT, BRAINS, AND A THEONEUROLOGICAL MODEL TO EXPLAIN SPIRITUAL EXPERIENCES | Shaun Smith - Academia.edu](https://www.academia.edu/14994355/THE_SPIRIT_MOLECULE_DMT_BRAINS_AND_A_THEONEUROLOGICAL_MODEL_TO_EXPLAIN_SPIRITUAL_EXPERIENCES?email_work_card=view-paper)
 * [BrainFacts](http://www.brainfacts.org/)
 * [Hierarchien in Gehirn, Geist und Verhalten: Ein Prinzip neuraler und mentaler Funktion](https://b-ok.cc/book/890791/0ce29f)
-* https://b-ok.cc/book/2050136/b1d1fe
-* https://b-ok.cc/book/2767221/3abcd7
-* https://b-ok.cc/g/Dr%20Antonio%20Gulli
-* https://b-ok.cc/s/?q=cerebro
-* https://b-ok.cc/s/?q=cerveau
+* [b-ok.cc/book/2050136/b1d1fe](https://b-ok.cc/book/2050136/b1d1fe)
+* [b-ok.cc/book/2767221/3abcd7](https://b-ok.cc/book/2767221/3abcd7)
+* [b-ok.cc/g/Dr%20Antonio%20Gulli](https://b-ok.cc/g/Dr%20Antonio%20Gulli)
+* [b-ok.cc/s/?q=cerebro](https://b-ok.cc/s/?q=cerebro)
+* [b-ok.cc/s/?q=cerveau](https://b-ok.cc/s/?q=cerveau)
 * [MN](https://www.coursera.org/learn/medical-neuroscience/home/welcome)
 * [NeuroLogica Blog](http://theness.com/neurologicablog/)
 * [tutorial on neural systems modeling anastasio | Search | HBLL](https://search.lib.byu.edu/byu/search?q=tutorial+on+neural+systems+modeling+anastasio)
@@ -1090,7 +1090,7 @@ Wie das Bewusstsein „Wirklichkeit schaltet&quot; | Dr. Ulrich Warnke im Gespr�
 * [Consciousness cannot have evolved](https://iai.us4.list-manage.com/track/click?u=5498751378b600bac07540f91&id=60a0283c0c&e=c2b5e608e5)
 * [Sold on Language: How Advertisers Talk to You and What This Says About You](https://b-ok.cc/book/1256295/e1b21f)
 * [Language in Mind: An Introduction to Psycholinguistics](https://b-ok.cc/book/5395565/3709e1)
-* https://b-ok.cc/g/Michael%20S.%20Gazzaniga
+* [b-ok.cc/g/Michael%20S.%20Gazzaniga](https://b-ok.cc/g/Michael%20S.%20Gazzaniga)
 * [The Psychology of Language: From Data to Theory](https://fr.b-ok.cc/book/2189521/28ed1b)
 * The Ascent of Babel
 * [move] Discovering Statistics Using R (Andy Field)
@@ -1099,7 +1099,7 @@ Wie das Bewusstsein „Wirklichkeit schaltet&quot; | Dr. Ulrich Warnke im Gespr�
 * [Когнитивистика](https://m.vk.com/page-74058720_50235266?api_view=48172b407b7d5305df08483903a7da&lang=uk)
 * [The cognitive revolution: a historical perspective](https://www.cs.princeton.edu/~rit/geo/Miller.pdf)
 * [Нейронауки в Science и Nature. Выпуск 60: иммунные синапсы? - Neuronovosti](http://neuronovosti.ru/naturescience60-immune-synapce/)
-* http://neuronovosti.ru/
+* [neuronovosti.ru/](http://neuronovosti.ru/)
 * [Neuroanatomy (neuroscience): Anatomy and Functions of the Brain and Spine](https://www.youtube.com/playlist?list=PLa1-ewu_FWv94sDTZkdvaaVXqZfWnJktO)
 * [ЦЕНТРАЛЬНАЯ НЕРВНАЯ СИСТМА](https://www.youtube.com/playlist?list=PLApbJhlsDZAOdRjNIJ7ttOPsTIhyutY5y)
 * [Анатомия МОЗГА](https://www.youtube.com/playlist?list=PLnmmqyAESSbzLtxEp0oBn1Dd64kjdkl6R)
@@ -1109,13 +1109,13 @@ Wie das Bewusstsein „Wirklichkeit schaltet&quot; | Dr. Ulrich Warnke im Gespr�
 * [Social Psychology](https://www.youtube.com/playlist?list=PLbKSbFnKYVY1EXnqpndtXTWO8D5q48-OW)
 * [Attention and Language](https://www.youtube.com/playlist?list=PLbKSbFnKYVY1SmO7hLVmhTgccjXTQE98m)
 * [Biological Basis of Behavior: The Nervous System](https://www.youtube.com/playlist?list=PLbKSbFnKYVY01ztNtTS6MntPZtq_tJgrc)
-* https://www.youtube.com/channel/UCv8hAszJaXghQXqORVLkJ6Q
-* [www.neuromatiq.net](http://www.neuromatiq.net/)
+* [](https://www.youtube.com/channel/UCv8hAszJaXghQXqORVLkJ6Q)
+* [neuromatiq.net](http://www.neuromatiq.net/)
 * [Neuroscience Pages on Wikipedia](https://en.wikipedia.org/wiki/Template:Neuroscience)
-* http://www.neuromatchacademy.org/syllabus/
+* [neuromatchacademy.org/syllabus/](http://www.neuromatchacademy.org/syllabus/)
 * [Metaphors We Live By | George Lakoff, Mark Johnson | download](https://b-ok.cc/book/735028/88c1da)
 * [Embodied Mind, Meaning, and Reason: How Our Bodies Give Rise to Understanding | Mark Johnson | download](https://b-ok.cc/book/3558320/66cf09)
-* [https://www.semanticscholar.org/paper/A-Tsallis’-statistics-based-neural-network-model-Hadzibeganovic-Cannas/8fd41627d40ccd673b25163302946983c083a765](https://www.semanticscholar.org/paper/A-Tsallis%E2%80%99-statistics-based-neural-network-model-Hadzibeganovic-Cannas/8fd41627d40ccd673b25163302946983c083a765)
+* [semanticscholar.org/paper/A-Tsallis’-statistics-based-neural-network-model-Hadzibeganovic-Cannas/8fd41627d40ccd673b25163302946983c083a765](https://www.semanticscholar.org/paper/A-Tsallis%E2%80%99-statistics-based-neural-network-model-Hadzibeganovic-Cannas/8fd41627d40ccd673b25163302946983c083a765)
 * [Paul Broca](https://fr.wikipedia.org/wiki/Paul_Broca)
 * [Sprache und Gehirn: Sprechstunde](https://unistuttgart.webex.com/webappng/sites/unistuttgart/meeting/download/df67e580c4db4d34b17e504ad64fb724?siteurl=unistuttgart&MTID=m75bfe86b19f8d9ac13f1f3df7e573b94)
 
@@ -1138,7 +1138,7 @@ Wie das Bewusstsein „Wirklichkeit schaltet&quot; | Dr. Ulrich Warnke im Gespr�
 * [BrainPainter - Visualisation of Brain Structures, Biomarkers and Associated Pathological Processes.](https://brainpainter.csail.mit.edu/)
 * [your brain, explained: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/?q=your+brain%2C+explained)
 * [This is Your Brain on Music. Science of a Human Obsession | Daniel J. Levitin | download](https://b-ok.cc/book/511587/126f47)
-* https://ii.ayfaar.ru/static/ext/brain.html
+* [ii.ayfaar.ru/static/ext/brain.html](https://ii.ayfaar.ru/static/ext/brain.html)
 * [Neuroscientifically Challenged](https://www.neuroscientificallychallenged.com/)
 * [Nervensystem | Kompetent über Gesundheit auf iLive](https://de.iliveok.com/health/anatomy/nervous-system)
 * [Sprache und Gehirn | Architektur des Gehirns](https://www2.ims.uni-stuttgart.de/sgtutorial/architektur.html)
@@ -1149,11 +1149,11 @@ Wie das Bewusstsein „Wirklichkeit schaltet&quot; | Dr. Ulrich Warnke im Gespr�
 * [Friedemann Pulvermüller - YouTube](https://www.youtube.com/results?search_query=Friedemann+Pulverm%C3%BCller)
 * [Gehirn und Lernen - Home](https://www.gehirnlernen.de/)
 * [Reddit - reinforcementlearning - [D] Help need in understanding Monte Carlo first visit vs every visit policy evaluation](https://amp.reddit.com/r/reinforcementlearning/comments/9zkdjb/d_help_need_in_understanding_monte_carlo_first/)
-* https://www.universityofcalifornia.edu/news/mapping-where-words-are-stored-brain
+* [universityofcalifornia.edu/news/mapping-where-words-are-stored-brain](https://www.universityofcalifornia.edu/news/mapping-where-words-are-stored-brain)
 
 Book: Mathematics for Neuroscientists (already downloaded)
 * [LORETA](http://www.uzh.ch/keyinst/loretaOldy.htm)
-* https://www.uzh.ch/keyinst/
+* [uzh.ch/keyinst/](https://www.uzh.ch/keyinst/)
 
 <> [It's Neuronal](http://alexhwilliams.info/itsneuronalblog/)
 * [Brain2Word: Decoding Brain Activity for Language Generation](https://arxiv.org/abs/2009.04765)
@@ -1192,82 +1192,82 @@ $ homeostatic networks
 $ higher level cognitions
 
 * [Surprisingly Complex Behaviors Appear To Be 'Hard-wired' In The Primate Brain](https://www.sciencedaily.com/releases/2005/03/050321083933.htm)
-* https://www.goodnewsnetwork.org/machine-learning-simulations-show-how-each-state-of-sleep-contributes-to-learning-and-memory/
+* [goodnewsnetwork.org/machine-learning-simulations-show-how-each-state-of-sleep-contributes-to-learning-and-memory/](https://www.goodnewsnetwork.org/machine-learning-simulations-show-how-each-state-of-sleep-contributes-to-learning-and-memory/)
 * [Neuroeconomics: Decision Making and the Brain](http://library.lol/main/58FDFD4F5B566E85A4D52F1849D11B41)
-* https://it.wikipedia.org/wiki/Sistema_di_ricompensa
+* [it.wikipedia.org/wiki/Sistema_di_ricompensa](https://it.wikipedia.org/wiki/Sistema_di_ricompensa)
 * [Brain Cuttings: Fifteen Journeys Through the Mind by Carl Zimmer - PDF Drive](https://www.pdfdrive.com/brain-cuttings-fifteen-journeys-through-the-mind-e184109892.html)
 
 * Why so some sensations (especially certain kinds of music) casuse goosebumps (send shivers down one's spine)?
 * [You Are an Impossible Machine - YouTube](https://www.youtube.com/watch?v=TYPFenJQciw)
-* https://github.com/wmvanvliet/scns
-* https://github.com/wmvanvliet/neuroscience_tutorials
+* [wmvanvliet/scns](https://github.com/wmvanvliet/scns)
+* [wmvanvliet/neuroscience_tutorials](https://github.com/wmvanvliet/neuroscience_tutorials)
 
 ### Conciencia
 * [Vorlesung Prof. Lyre: Einführung in die Philosophie des Geistes](https://youtube.com/playlist?list=PLZodxGp7gj92bENCwxnb4GZuCJODNYBED)
-* https://www.youtube.com/watch?v=JP1nmExfgpg
-* https://www.google.com/search?rlz=1C1GCEA_enUS832US833&ei=gylTXKXOEZ3E0PEPnqCIuA4&q=Nancy+Canwisher&oq=Nancy+Canwisher&gs_l=psy-ab.3..0i13l2j0i13i30l8.7334.7397..7650...0.0..0.93.177.2......0....1..gws-wiz.9iqLKRe9ZtQ
-* https://www.youtube.com/watch?v=uhRhtFFhNzQ
-* https://ted2srt.org/talks/david_chalmers_how_do_you_explain_consciousness
-* https://www.youtube.com/watch?v=rPh3c8Sa37M
-* https://www.reddit.com/r/MachineLearning/comments/2xcyrl/i_am_j%C3%BCrgen_schmidhuber_ama/
-* https://samharris.org/the-mystery-of-consciousness/
-* http://consc.net/
-* https://www.youtube.com/watch?v=-BgRr53YJ4Q
-* https://www.reddit.com/r/philosophy/comments/2ndwfr/noam_chomsky_on_thought_and_consciousness/
-* https://philpapers.org/rec/CHOMO
-* https://sciencehouse.wordpress.com/2016/03/30/chomsky-on-the-philosophers-zone/
-* https://www.theguardian.com/news/2018/jun/19/out-of-their-minds-wild-ideas-at-the-coachella-of-consciousness
-* https://www.theguardian.com/science/2015/jan/21/-sp-why-cant-worlds-greatest-minds-solve-mystery-consciousness
-* https://en.wikipedia.org/wiki/New_mysterianism
-* https://fr.wikipedia.org/wiki/Myst%C3%A9rianisme
-* https://www.youtube.com/watch?v=5oxR27FBOsc
-* https://www.youtube.com/watch?v=IltJU7Py9Ks
-* http://www.openculture.com/2014/12/robert-sapolsky-explains-the-biological-basis-of-religiosity.html
-* https://www.youtube.com/watch?v=VP7VVIDO_78
-* https://whyevolutionistrue.wordpress.com/2017/06/09/robert-sapolsky-on-free-will/
-* https://www.inc.com/minda-zetlin/the-way-you-live-will-change-your-brain-for-better-or-worse.html
-* https://www.youtube.com/watch?v=NNnIGh9g6fA&list=PLB0NiqczjkdTOUeS0BJ7G-EmDnvaKBc_5
-* https://en.wikipedia.org/wiki/Integrated_information_theory
-* https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003588
-* http://www.scholarpedia.org/article/Integrated_information_theory
-* https://lib.byu.edu/journals/?q=Consciousness
-* https://search.lib.byu.edu/byu/search?q=Brain+and+Language
-* https://www.google.com/search?rlz=1C1GCEA_enUS850US850&q=%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0&spell=1&sa=X&ved=0ahUKEwid75j5mrXiAhWTEXwKHUl6B6kQBQgqKAA&biw=1920&bih=888
-* https://vk.com/@philosophia_club-muzyka-i-mozg
-* https://www.theguardian.com/books/2011/feb/12/self-comes-mind-damasio-review
-* http://consciousness2007.tripod.com/a__damasio.htm
-* https://pt.wikipedia.org/wiki/Ant%C3%B3nio_Dam%C3%A1sio
-* https://www.google.com/search?q=what+are+thoughts+made+of&rlz=1C5CHFA_enUS800US800&oq=what+are+thoughts+made+of&aqs=chrome..69i57j69i59l3j69i65l2.4949j0j7&sourceid=chrome&ie=UTF-8
-* https://www.reddit.com/r/askscience/comments/1sddbx/what_are_some_of_the_newer_theories_on_the_nature/
-* https://www.reddit.com/r/askscience/comments/1semh7/what_are_thoughts_made_of/
-* https://www.youtube.com/watch?v=lUcOUYKsVhM
-* https://www.youtube.com/watch?v=uUfz6oahp2Q
-* https://www.youtube.com/watch?v=14iObJEtPF4
-* https://www.youtube.com/watch?v=mGYmiQkah4o&t=1s
-* https://www.youtube.com/watch?v=C5DfnIjZPGw
-* https://www.youtube.com/watch?v=zxD8FrR7uco
-* https://www.youtube.com/watch?v=fjbWr3ODbAo
+* [](https://www.youtube.com/watch?v=JP1nmExfgpg)
+* [google.com/search?rlz=1C1GCEA_enUS832US833&ei=gylTXKXOEZ3E0PEPnqCIuA4&q=Nancy+Canwisher&oq=Nancy+Canwisher&gs_l=psy-ab.3..0i13l2j0i13i30l8.7334.7397..7650...0.0..0.93.177.2......0....1..gws-wiz.9iqLKRe9ZtQ](https://www.google.com/search?rlz=1C1GCEA_enUS832US833&ei=gylTXKXOEZ3E0PEPnqCIuA4&q=Nancy+Canwisher&oq=Nancy+Canwisher&gs_l=psy-ab.3..0i13l2j0i13i30l8.7334.7397..7650...0.0..0.93.177.2......0....1..gws-wiz.9iqLKRe9ZtQ)
+* [](https://www.youtube.com/watch?v=uhRhtFFhNzQ)
+* [ted2srt.org/talks/david_chalmers_how_do_you_explain_consciousness](https://ted2srt.org/talks/david_chalmers_how_do_you_explain_consciousness)
+* [](https://www.youtube.com/watch?v=rPh3c8Sa37M)
+* [r/MachineLearning/comments/2xcyrl/i_am_j%C3%BCrgen_schmidhuber_ama/](https://www.reddit.com/r/MachineLearning/comments/2xcyrl/i_am_j%C3%BCrgen_schmidhuber_ama/)
+* [samharris.org/the-mystery-of-consciousness/](https://samharris.org/the-mystery-of-consciousness/)
+* [consc.net/](http://consc.net/)
+* [](https://www.youtube.com/watch?v=-BgRr53YJ4Q)
+* [r/philosophy/comments/2ndwfr/noam_chomsky_on_thought_and_consciousness/](https://www.reddit.com/r/philosophy/comments/2ndwfr/noam_chomsky_on_thought_and_consciousness/)
+* [philpapers.org/rec/CHOMO](https://philpapers.org/rec/CHOMO)
+* [sciencehouse.wordpress.com/2016/03/30/chomsky-on-the-philosophers-zone/](https://sciencehouse.wordpress.com/2016/03/30/chomsky-on-the-philosophers-zone/)
+* [theguardian.com/news/2018/jun/19/out-of-their-minds-wild-ideas-at-the-coachella-of-consciousness](https://www.theguardian.com/news/2018/jun/19/out-of-their-minds-wild-ideas-at-the-coachella-of-consciousness)
+* [theguardian.com/science/2015/jan/21/-sp-why-cant-worlds-greatest-minds-solve-mystery-consciousness](https://www.theguardian.com/science/2015/jan/21/-sp-why-cant-worlds-greatest-minds-solve-mystery-consciousness)
+* [en.wikipedia.org/wiki/New_mysterianism](https://en.wikipedia.org/wiki/New_mysterianism)
+* [fr.wikipedia.org/wiki/Myst%C3%A9rianisme](https://fr.wikipedia.org/wiki/Myst%C3%A9rianisme)
+* [](https://www.youtube.com/watch?v=5oxR27FBOsc)
+* [](https://www.youtube.com/watch?v=IltJU7Py9Ks)
+* [openculture.com/2014/12/robert-sapolsky-explains-the-biological-basis-of-religiosity.html](http://www.openculture.com/2014/12/robert-sapolsky-explains-the-biological-basis-of-religiosity.html)
+* [](https://www.youtube.com/watch?v=VP7VVIDO_78)
+* [whyevolutionistrue.wordpress.com/2017/06/09/robert-sapolsky-on-free-will/](https://whyevolutionistrue.wordpress.com/2017/06/09/robert-sapolsky-on-free-will/)
+* [inc.com/minda-zetlin/the-way-you-live-will-change-your-brain-for-better-or-worse.html](https://www.inc.com/minda-zetlin/the-way-you-live-will-change-your-brain-for-better-or-worse.html)
+* [](https://www.youtube.com/watch?v=NNnIGh9g6fA&list=PLB0NiqczjkdTOUeS0BJ7G-EmDnvaKBc_5)
+* [en.wikipedia.org/wiki/Integrated_information_theory](https://en.wikipedia.org/wiki/Integrated_information_theory)
+* [journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003588](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003588)
+* [scholarpedia.org/article/Integrated_information_theory](http://www.scholarpedia.org/article/Integrated_information_theory)
+* [lib.byu.edu/journals/?q=Consciousness](https://lib.byu.edu/journals/?q=Consciousness)
+* [search.lib.byu.edu/byu/search?q=Brain+and+Language](https://search.lib.byu.edu/byu/search?q=Brain+and+Language)
+* [google.com/search?rlz=1C1GCEA_enUS850US850&q=%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0&spell=1&sa=X&ved=0ahUKEwid75j5mrXiAhWTEXwKHUl6B6kQBQgqKAA&biw=1920&bih=888](https://www.google.com/search?rlz=1C1GCEA_enUS850US850&q=%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0&spell=1&sa=X&ved=0ahUKEwid75j5mrXiAhWTEXwKHUl6B6kQBQgqKAA&biw=1920&bih=888)
+* [vk.com/@philosophia_club-muzyka-i-mozg](https://vk.com/@philosophia_club-muzyka-i-mozg)
+* [theguardian.com/books/2011/feb/12/self-comes-mind-damasio-review](https://www.theguardian.com/books/2011/feb/12/self-comes-mind-damasio-review)
+* [consciousness2007.tripod.com/a__damasio.htm](http://consciousness2007.tripod.com/a__damasio.htm)
+* [pt.wikipedia.org/wiki/Ant%C3%B3nio_Dam%C3%A1sio](https://pt.wikipedia.org/wiki/Ant%C3%B3nio_Dam%C3%A1sio)
+* [google.com/search?q=what+are+thoughts+made+of&rlz=1C5CHFA_enUS800US800&oq=what+are+thoughts+made+of&aqs=chrome..69i57j69i59l3j69i65l2.4949j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=what+are+thoughts+made+of&rlz=1C5CHFA_enUS800US800&oq=what+are+thoughts+made+of&aqs=chrome..69i57j69i59l3j69i65l2.4949j0j7&sourceid=chrome&ie=UTF-8)
+* [r/askscience/comments/1sddbx/what_are_some_of_the_newer_theories_on_the_nature/](https://www.reddit.com/r/askscience/comments/1sddbx/what_are_some_of_the_newer_theories_on_the_nature/)
+* [r/askscience/comments/1semh7/what_are_thoughts_made_of/](https://www.reddit.com/r/askscience/comments/1semh7/what_are_thoughts_made_of/)
+* [](https://www.youtube.com/watch?v=lUcOUYKsVhM)
+* [](https://www.youtube.com/watch?v=uUfz6oahp2Q)
+* [](https://www.youtube.com/watch?v=14iObJEtPF4)
+* [](https://www.youtube.com/watch?v=mGYmiQkah4o&t=1s)
+* [](https://www.youtube.com/watch?v=C5DfnIjZPGw)
+* [](https://www.youtube.com/watch?v=zxD8FrR7uco)
+* [](https://www.youtube.com/watch?v=fjbWr3ODbAo)
 * [Conscience](https://docs.google.com/spreadsheets/d/1MGgr_K5b2VjWkdsZohy0VAXF16cvLo5uZJmsD3e1Fko/edit#gid=0)
 
 ### Neuroanatomía
-* https://ankiweb.net/shared/decks/neuro
+* [ankiweb.net/shared/decks/neuro](https://ankiweb.net/shared/decks/neuro)
 * [Gehirn-Atlas *****](http://www.gehirn-atlas.de/)
-* https://vk.com/@etorabotaet-novaya-nauka-zaglyadyvaniya-za-ugol
+* [vk.com/@etorabotaet-novaya-nauka-zaglyadyvaniya-za-ugol](https://vk.com/@etorabotaet-novaya-nauka-zaglyadyvaniya-za-ugol)
 * [neuro quizlet](https://quizlet.com/364620201/neuroanatomie-flash-cards/?i=fhbuu&x=1jqY)
-* http://www.docentes.unal.edu.co/edosunas/docs/ISO-8859-1''Guia_20Neuroanatom_EDa_202010.pdf
-* https://www.scribd.com/document/371872889/Carpenter-Neuroanatomia-pdf
-* https://www.reeme.arizona.edu/materials/neuroanatomia%20para%20interpretrar%20tac.pdf
-* http://repositorio.uned.ac.cr/multimedias/neurologia_infantil_basica/pdf/3.pdf
-* https://instruct.uwo.ca/anatomy/530/basicneuro.pdf
-* https://hbtrc.mclean.harvard.edu/pdf/about/HBTRC-Neuroanatomy-2014.1.pdf
-* https://pdfs.semanticscholar.org/presentation/4949/bdae04ba0f5ab91e5de236eb013513fd1f66.pdfhttps://www.mirecc.va.gov/docs/visn6/Intro-neuroanatomy-July2011.pdf
-* https://www.mirecc.va.gov/docs/visn6/Intro-neuroanatomy-July2011.pdf
-* http://www.funfaculty.org/teaching_workshops/2005/Duke.pdf
-* http://library.unical.edu.ng/books/A%20Textbook%20of%20Neuroanatomy.pdf
-* http://media.amsa.org.au/publications/GonskiNeuroanatomypdf.pdf
+* [docentes.unal.edu.co/edosunas/docs/ISO-8859-1''Guia_20Neuroanatom_EDa_202010.pdf](http://www.docentes.unal.edu.co/edosunas/docs/ISO-8859-1''Guia_20Neuroanatom_EDa_202010.pdf)
+* [scribd.com/document/371872889/Carpenter-Neuroanatomia-pdf](https://www.scribd.com/document/371872889/Carpenter-Neuroanatomia-pdf)
+* [reeme.arizona.edu/materials/neuroanatomia%20para%20interpretrar%20tac.pdf](https://www.reeme.arizona.edu/materials/neuroanatomia%20para%20interpretrar%20tac.pdf)
+* [repositorio.uned.ac.cr/multimedias/neurologia_infantil_basica/pdf/3.pdf](http://repositorio.uned.ac.cr/multimedias/neurologia_infantil_basica/pdf/3.pdf)
+* [instruct.uwo.ca/anatomy/530/basicneuro.pdf](https://instruct.uwo.ca/anatomy/530/basicneuro.pdf)
+* [hbtrc.mclean.harvard.edu/pdf/about/HBTRC-Neuroanatomy-2014.1.pdf](https://hbtrc.mclean.harvard.edu/pdf/about/HBTRC-Neuroanatomy-2014.1.pdf)
+* [pdfs.semanticscholar.org/presentation/4949/bdae04ba0f5ab91e5de236eb013513fd1f66.pdfhttps://www.mirecc.va.gov/docs/visn6/Intro-neuroanatomy-July2011.pdf](https://pdfs.semanticscholar.org/presentation/4949/bdae04ba0f5ab91e5de236eb013513fd1f66.pdfhttps://www.mirecc.va.gov/docs/visn6/Intro-neuroanatomy-July2011.pdf)
+* [mirecc.va.gov/docs/visn6/Intro-neuroanatomy-July2011.pdf](https://www.mirecc.va.gov/docs/visn6/Intro-neuroanatomy-July2011.pdf)
+* [funfaculty.org/teaching_workshops/2005/Duke.pdf](http://www.funfaculty.org/teaching_workshops/2005/Duke.pdf)
+* [library.unical.edu.ng/books/A%20Textbook%20of%20Neuroanatomy.pdf](http://library.unical.edu.ng/books/A%20Textbook%20of%20Neuroanatomy.pdf)
+* [media.amsa.org.au/publications/GonskiNeuroanatomypdf.pdf](http://media.amsa.org.au/publications/GonskiNeuroanatomypdf.pdf)
 * [Das Gehirn 3D *****](https://3d.dasgehirn.info/)
-* https://arbeitsblaetter.stangl-taller.at/GEHIRN/Gehirn-Anatomie.shtml
-* https://flexikon.doccheck.com/de/Gehirn
+* [arbeitsblaetter.stangl-taller.at/GEHIRN/Gehirn-Anatomie.shtml](https://arbeitsblaetter.stangl-taller.at/GEHIRN/Gehirn-Anatomie.shtml)
+* [flexikon.doccheck.com/de/Gehirn](https://flexikon.doccheck.com/de/Gehirn)
 * [Neuroanatomía](https://youtu.be/IzOeBoKJQ1g)
 * [Sistema Nervoso 2/6: Anatomia do Encéfalo e Estruturas de Proteção](https://youtu.be/fAOFdMd7NAs)
 * [Anatomía | Neuroanatomía Introducción | Sistema Nervioso](https://youtu.be/Nky-UKuLhrs)
@@ -1283,7 +1283,7 @@ $ higher level cognitions
 ## Books
 * Баллард Джеймс - Атака на мозок
 * Data-Driven Computational Neuroscience: Machine Learning and Statistical Models
-* -> http://cognet.mit.edu/sites/default/files/u111/CogNet_Complete_Booklist.pdf
+* -> [cognet.mit.edu/sites/default/files/u111/CogNet_Complete_Booklist.pdf](http://cognet.mit.edu/sites/default/files/u111/CogNet_Complete_Booklist.pdf)
 * Neuropsychology: Science and Practice
 * Evolutionary Neuropsychology: An Introduction to the Structures and Functions of the Human Brain
 * Fundamentals of Human Neuropsychology
@@ -1347,8 +1347,8 @@ $ higher level cognitions
 * Hirnforschung - Eine Wissenschaft auf dem Weg, den Menschen zu enträtseln: Ein SPIEGEL E-Book eBook: Johann Grolle: Amazon.de: Kindle-Shop
 * How Many People Are There In My Head?
 * How the Brain Works
-* -> https://www.scribd.com/read/282663325/The-Neurology-of-Consciousness-Cognitive-Neuroscience-and-Neuropathology
-* -> https://www.scribd.com/search?content_type=tops&page=1&query=The%20Library%20of%20Consciousness&language=1
+* -> [scribd.com/read/282663325/The-Neurology-of-Consciousness-Cognitive-Neuroscience-and-Neuropathology](https://www.scribd.com/read/282663325/The-Neurology-of-Consciousness-Cognitive-Neuroscience-and-Neuropathology)
+* -> [scribd.com/search?content_type=tops&page=1&query=The%20Library%20of%20Consciousness&language=1](https://www.scribd.com/search?content_type=tops&page=1&query=The%20Library%20of%20Consciousness&language=1)
 * Hypnosis and Conscious States
 * Ich denke, also irre ich: Wie Unser Gehirn Uns Jeden Tag Täuscht: Amazon.de: David Mc Raney: Bücher
 * In der Bewusstseinsfalle?
@@ -1444,13 +1444,13 @@ $ higher level cognitions
 * Эрик Кандель В поисках памяти.pdf
 * rafael núñez - publications
 * Linguistics
-* https://www.kernel.com/news/announcing-kernel-flux-the-worlds-most-powerful-neural-interface
-* https://academic.oup.com/brain/article/122/12/2207/266927/Fitting-two-languages-into-one-brain
+* [kernel.com/news/announcing-kernel-flux-the-worlds-most-powerful-neural-interface](https://www.kernel.com/news/announcing-kernel-flux-the-worlds-most-powerful-neural-interface)
+* [academic.oup.com/brain/article/122/12/2207/266927/Fitting-two-languages-into-one-brain](https://academic.oup.com/brain/article/122/12/2207/266927/Fitting-two-languages-into-one-brain)
 * [Language and Thought | Petrina Nomikou](https://www.youtube.com/watch?v=Pe0TTMyFd6k)
 * [Language in Mind - Hardcover - Julie Sedivy - Oxford University Press](https://global.oup.com/ushe/product/language-in-mind-9780878935987?cc=us&lang=en&q=sinauer)
 * How do bilinguals code different languages in their brains? How does the brain identify and keep separate different languages?
 
 ### Philosophy
 * [Jerry Fodor Interview on Philosophy of Mind](https://www.youtube.com/watch?v=Hs82SsczIpE)
-* http://philosophyofbrains.com/
-* https://www.crb.uu.se/digitalAssets/445/c_445294-l_1-k_k-evers-neuroethique.pdf
+* [philosophyofbrains.com/](http://philosophyofbrains.com/)
+* [crb.uu.se/digitalAssets/445/c_445294-l_1-k_k-evers-neuroethique.pdf](https://www.crb.uu.se/digitalAssets/445/c_445294-l_1-k_k-evers-neuroethique.pdf)

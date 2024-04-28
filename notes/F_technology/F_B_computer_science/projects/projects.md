@@ -10,13 +10,13 @@ libgen CLI
 
 Jira CLI
 
-jira [https://developer.atlassian.com/server/jira/platform/rest-apis/](https://developer.atlassian.com/server/jira/platform/rest-apis/) 
+jira [developer.atlassian.com/server/jira/platform/rest-apis/](https://developer.atlassian.com/server/jira/platform/rest-apis/) 
 
-jira [https://github.com/Biscuit-Colorscheme/biscuit](https://github.com/Biscuit-Colorscheme/biscuit) 
+jira [github.com/Biscuit-Colorscheme/biscuit](https://github.com/Biscuit-Colorscheme/biscuit) 
 
-jira [https://github.com/ralphbean/jira-tools](https://github.com/ralphbean/jira-tools) 
+jira [github.com/ralphbean/jira-tools](https://github.com/ralphbean/jira-tools) 
 
-jira [https://www.npmjs.com/package/@rushdigital/confluence-cli](https://www.npmjs.com/package/@rushdigital/confluence-cli) 
+jira [npmjs.com/package/@rushdigital/confluence-cli](https://www.npmjs.com/package/@rushdigital/confluence-cli) 
 
 jira [jira-cli](https://github.com/ankitpokhrel/jira-cli)
 

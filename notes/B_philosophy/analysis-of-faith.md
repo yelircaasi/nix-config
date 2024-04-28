@@ -9,7 +9,7 @@ Quotes
 “Never let us be guilty of sacrificing any portion of truth on the altar of peace.” ~ J. C. Ryle
 
 “As a matter of honor, one man owes it to another to manifest the truth.” ~ Thomas Aquinas
-* https://www.reddit.com/r/exmormon/comments/6xf27s/email_exchange_between_1st_counselor_in_sp_and/
+* [r/exmormon/comments/6xf27s/email_exchange_between_1st_counselor_in_sp_and/](https://www.reddit.com/r/exmormon/comments/6xf27s/email_exchange_between_1st_counselor_in_sp_and/)
 
 Upshot:
 
@@ -55,8 +55,8 @@ On Apologetics and Motivated Reasoning
 
 * address common apologetic objections and tactics
 * ex hypothesi approach: 	-http://mormoncurtain.com/topic_apologists.html
-* http://www.mormoninformation.com/pro_lds.htm
-* http://www.mormonthink.com/glossary/apologist.htm
+* [mormoninformation.com/pro_lds.htm](http://www.mormoninformation.com/pro_lds.htm)
+* [mormonthink.com/glossary/apologist.htm](http://www.mormonthink.com/glossary/apologist.htm)
 
 Assuming the desired conclusion and then gathering and interpreting evidence to fit is not honest, nor is it valid. Attacking those who doubt or disbelieve is not valid. An argument needs to be met and discussed on its own merits.
 
@@ -150,9 +150,9 @@ The Bible makes a number of falsifiable truth claims that have in fact been fals
 * geocentrism
 * pi at 3.0
 * annihilation of Canaanites
-* https://americanhumanist.org/what-is-humanism/reasons-humanists-reject-bible/
-* https://rationalwiki.org/wiki/Biblical_contradictions
-* http://truth-saves.com/false-claims
+* [americanhumanist.org/what-is-humanism/reasons-humanists-reject-bible/](https://americanhumanist.org/what-is-humanism/reasons-humanists-reject-bible/)
+* [rationalwiki.org/wiki/Biblical_contradictions](https://rationalwiki.org/wiki/Biblical_contradictions)
+* [truth-saves.com/false-claims](http://truth-saves.com/false-claims)
 * exodus and contour of the Red Sea
 * flat earth
 * anachronisms in history of Christ’s birth

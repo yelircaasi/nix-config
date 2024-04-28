@@ -153,16 +153,16 @@
 * [Linux Preloaded](https://linuxpreloaded.com/) - Hand-picked list of vendors from many regions that sell computers preinstalled with free software.
 * [Respects Your Freedom Hardware Certification](https://www.fsf.org/resources/hw/endorsement/criteria) - Requirements to qualify for the Free Software Foundation's RYF certification.* [Learning the UNIX Operating System](http://library.lol/main/16B2C707EE31783CF27916D163CD896B)
 * [bash Cookbook](https://libgen.is/book/index.php?md5=D30E555779831E7DF78ECE12D142F170)
-* https://github.com/neo-sh/neosh
+* [neo-sh/neosh](https://github.com/neo-sh/neosh)
 * CUDA, etc.
-* https://docs.nvidia.com/cuda/doc/index.html
-* https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html
-* https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/contents.html
-* https://github.com/nvidia/cuda-samples
-* https://developer.nvidia.com/cuda-python
+* [docs.nvidia.com/cuda/doc/index.html](https://docs.nvidia.com/cuda/doc/index.html)
+* [docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html)
+* [docs.nvidia.com/cuda/cuda-toolkit-release-notes/contents.html](https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/contents.html)
+* [nvidia/cuda-samples](https://github.com/nvidia/cuda-samples)
+* [developer.nvidia.com/cuda-python](https://developer.nvidia.com/cuda-python)
 * [CUDA-X](https://developer.nvidia.com/gpu-accelerated-libraries#deep-learning)
 * [Math Libraries](https://developer.nvidia.com/gpu-accelerated-libraries#linear-algebra)
-* [cuBLAS](https://developer.nvidia.com/cublas) - https://docs.nvidia.com/cuda/cublas/index.html
+* [cuBLAS](https://developer.nvidia.com/cublas) - [docs.nvidia.com/cuda/cublas/index.html](https://docs.nvidia.com/cuda/cublas/index.html)
 * [cuFFT](https://developer.nvidia.com/cufft) - [docs](https://docs.nvidia.com/cuda/cufft/index.html)
 * [CUDA Math Library](https://developer.nvidia.com/cuda-math-library)
 * [cuRAND](https://developer.nvidia.com/curand) - [docs](https://docs.nvidia.com/cuda/curand/index.html)
@@ -203,12 +203,12 @@
 
 ## LinuxTube
 * [Diolinux](https://www.youtube.com/@Diolinux)
-* https://www.youtube.com/@Akitando
-* https://www.youtube.com/@morrolinux
-* https://www.youtube.com/@extraordy
-* https://www.youtube.com/@alternativalinux
-* https://www.youtube.com/@HolaMundoDev
-* https://www.youtube.com/@LocosporLinux
+* [](https://www.youtube.com/@Akitando)
+* [](https://www.youtube.com/@morrolinux)
+* [](https://www.youtube.com/@extraordy)
+* [](https://www.youtube.com/@alternativalinux)
+* [](https://www.youtube.com/@HolaMundoDev)
+* [](https://www.youtube.com/@LocosporLinux)
 * [TUXEDO Computers](https://www.youtube.com/user/LinuxOnlineshop)
 
 ## Guides
@@ -226,17 +226,17 @@
 * [Shell Field Guide](https://raimonster.com/scripting-field-guide/)
 * [bash-guide](https://github.com/Idnan/bash-guide) - Guide to learn bash.
 * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
-* https://cmdchallenge.com/  - Presents small shell challenge with user submitted solutions.
+* [cmdchallenge.com/](https://cmdchallenge.com/)  - Presents small shell challenge with user submitted solutions.
 * Guide avancé d'écriture des scripts Bash
 * [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)**
 
 ## Media Sites
-* http://www.tuxmachines.org/index/
-* https://9to5linux.com/
-* https://gnulinux.ch/
+* [tuxmachines.org/index/](http://www.tuxmachines.org/index/)
+* [9to5linux.com/](https://9to5linux.com/)
+* [gnulinux.ch/](https://gnulinux.ch/)
 
 ## Podcasts
-* https://focusonlinux.podigee.io/
+* [focusonlinux.podigee.io/](https://focusonlinux.podigee.io/)
 
 Podcast: This Week in Linux+
 
@@ -248,7 +248,7 @@ Podcast: This Week in Linux+
 * [Technoethical](https://tehnoetic.com/) - Laptops, adapters, and mobile devices compatible with free operating systems.
 * [ThinkPenguin](https://www.thinkpenguin.com/) - Modern laptops, desktops, and printers that contain no proprietary software.
 * [Vikings](https://vikings.net/) - Hosting company powered by Libreboot firmware, libre software, and green energy that also sells hardware.
-* [https://framasoft.org/en/ →](https://framasoft.org/en/) https://degooglisons-internet.org/en/
+* [framasoft.org/en/ →](https://framasoft.org/en/) [degooglisons-internet.org/en/](https://degooglisons-internet.org/en/)
 
 ## SORT
 distro  * [](https://github.com/Vanilla-OS/custom-image
@@ -274,11 +274,11 @@ Torch install
 ```bash
 
 Collecting torch
-  Obtaining dependency information for torch from https://files.pythonhosted.org/packages/e1/24/f7fe3fe82583e6891cc3fceeb390f192f6c7f1d87e5a99a949ed33c96167/torch-2.1.0-cp38-cp38-manylinux1_x86_64.whl.metadata
+  Obtaining dependency information for torch from [files.pythonhosted.org/packages/e1/24/f7fe3fe82583e6891cc3fceeb390f192f6c7f1d87e5a99a949ed33c96167/torch-2.1.0-cp38-cp38-manylinux1_x86_64.whl.metadata](https://files.pythonhosted.org/packages/e1/24/f7fe3fe82583e6891cc3fceeb390f192f6c7f1d87e5a99a949ed33c96167/torch-2.1.0-cp38-cp38-manylinux1_x86_64.whl.metadata)
   Downloading torch-2.1.0-cp38-cp38-manylinux1_x86_64.whl.metadata (25 kB)
 
 Collecting torchvision
-  Obtaining dependency information for torchvision from https://files.pythonhosted.org/packages/c9/52/d3f1c4253ad17e4ab08a2230fb184a3a180e2348db6c144c64977335b654/torchvision-0.16.0-cp38-cp38-manylinux1_x86_64.whl.metadata
+  Obtaining dependency information for torchvision from [files.pythonhosted.org/packages/c9/52/d3f1c4253ad17e4ab08a2230fb184a3a180e2348db6c144c64977335b654/torchvision-0.16.0-cp38-cp38-manylinux1_x86_64.whl.metadata](https://files.pythonhosted.org/packages/c9/52/d3f1c4253ad17e4ab08a2230fb184a3a180e2348db6c144c64977335b654/torchvision-0.16.0-cp38-cp38-manylinux1_x86_64.whl.metadata)
   Downloading torchvision-0.16.0-cp38-cp38-manylinux1_x86_64.whl.metadata (6.6 kB)
 
 Requirement already satisfied: filelock in /root/.pyenv/versions/3.8.16/lib/python3.8/site-packages (from torch) (3.12.2)
@@ -298,7 +298,7 @@ Collecting jinja2 (from torch)
  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 133.1/133.1 kB 12.7 MB/s eta 0:00:00
 
 Collecting fsspec (from torch)
-  Obtaining dependency information for fsspec from https://files.pythonhosted.org/packages/e8/f6/3eccfb530aac90ad1301c582da228e4763f19e719ac8200752a4841b0b2d/fsspec-2023.10.0-py3-none-any.whl.metadata
+  Obtaining dependency information for fsspec from [files.pythonhosted.org/packages/e8/f6/3eccfb530aac90ad1301c582da228e4763f19e719ac8200752a4841b0b2d/fsspec-2023.10.0-py3-none-any.whl.metadata](https://files.pythonhosted.org/packages/e8/f6/3eccfb530aac90ad1301c582da228e4763f19e719ac8200752a4841b0b2d/fsspec-2023.10.0-py3-none-any.whl.metadata)
   Downloading fsspec-2023.10.0-py3-none-any.whl.metadata (6.8 kB)
 
 Collecting nvidia-cuda-nvrtc-cu12==12.1.105 (from torch)
@@ -314,7 +314,7 @@ Collecting nvidia-cuda-cupti-cu12==12.1.105 (from torch)
  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 14.1/14.1 MB 29.5 MB/s eta 0:00:00
 
 Collecting nvidia-cudnn-cu12==8.9.2.26 (from torch)
-  Obtaining dependency information for nvidia-cudnn-cu12==8.9.2.26 from https://files.pythonhosted.org/packages/ff/74/a2e2be7fb83aaedec84f391f082cf765dfb635e7caa9b49065f73e4835d8/nvidia_cudnn_cu12-8.9.2.26-py3-none-manylinux1_x86_64.whl.metadata
+  Obtaining dependency information for nvidia-cudnn-cu12==8.9.2.26 from [files.pythonhosted.org/packages/ff/74/a2e2be7fb83aaedec84f391f082cf765dfb635e7caa9b49065f73e4835d8/nvidia_cudnn_cu12-8.9.2.26-py3-none-manylinux1_x86_64.whl.metadata](https://files.pythonhosted.org/packages/ff/74/a2e2be7fb83aaedec84f391f082cf765dfb635e7caa9b49065f73e4835d8/nvidia_cudnn_cu12-8.9.2.26-py3-none-manylinux1_x86_64.whl.metadata)
   Downloading nvidia_cudnn_cu12-8.9.2.26-py3-none-manylinux1_x86_64.whl.metadata (1.6 kB)
 
 Collecting nvidia-cublas-cu12==12.1.3.1 (from torch)
@@ -346,25 +346,25 @@ Collecting nvidia-nvtx-cu12==12.1.105 (from torch)
  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 99.1/99.1 kB 9.4 MB/s eta 0:00:00
 
 Collecting triton==2.1.0 (from torch)
-  Obtaining dependency information for triton==2.1.0 from https://files.pythonhosted.org/packages/72/98/34f43ed68ee6455ea874f749a5515c0600243186301ecd83819d942ce08a/triton-2.1.0-0-cp38-cp38-manylinux2014_x86_64.manylinux_2_17_x86_64.whl.metadata
+  Obtaining dependency information for triton==2.1.0 from [files.pythonhosted.org/packages/72/98/34f43ed68ee6455ea874f749a5515c0600243186301ecd83819d942ce08a/triton-2.1.0-0-cp38-cp38-manylinux2014_x86_64.manylinux_2_17_x86_64.whl.metadata](https://files.pythonhosted.org/packages/72/98/34f43ed68ee6455ea874f749a5515c0600243186301ecd83819d942ce08a/triton-2.1.0-0-cp38-cp38-manylinux2014_x86_64.manylinux_2_17_x86_64.whl.metadata)
   Downloading triton-2.1.0-0-cp38-cp38-manylinux2014_x86_64.manylinux_2_17_x86_64.whl.metadata (1.3 kB)
 
 Collecting nvidia-nvjitlink-cu12 (from nvidia-cusolver-cu12==11.4.5.107->torch)
-  Obtaining dependency information for nvidia-nvjitlink-cu12 from https://files.pythonhosted.org/packages/45/de/885b6d3e1fa07bf19124076b348d3cf30f68051f813cba99e103f53d2f75/nvidia_nvjitlink_cu12-12.3.52-py3-none-manylinux1_x86_64.whl.metadata
+  Obtaining dependency information for nvidia-nvjitlink-cu12 from [files.pythonhosted.org/packages/45/de/885b6d3e1fa07bf19124076b348d3cf30f68051f813cba99e103f53d2f75/nvidia_nvjitlink_cu12-12.3.52-py3-none-manylinux1_x86_64.whl.metadata](https://files.pythonhosted.org/packages/45/de/885b6d3e1fa07bf19124076b348d3cf30f68051f813cba99e103f53d2f75/nvidia_nvjitlink_cu12-12.3.52-py3-none-manylinux1_x86_64.whl.metadata)
   Downloading nvidia_nvjitlink_cu12-12.3.52-py3-none-manylinux1_x86_64.whl.metadata (1.5 kB)
 
 Collecting numpy (from torchvision)
-  Obtaining dependency information for numpy from https://files.pythonhosted.org/packages/98/5d/5738903efe0ecb73e51eb44feafba32bdba2081263d40c5043568ff60faf/numpy-1.24.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata
+  Obtaining dependency information for numpy from [files.pythonhosted.org/packages/98/5d/5738903efe0ecb73e51eb44feafba32bdba2081263d40c5043568ff60faf/numpy-1.24.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata](https://files.pythonhosted.org/packages/98/5d/5738903efe0ecb73e51eb44feafba32bdba2081263d40c5043568ff60faf/numpy-1.24.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata)
   Downloading numpy-1.24.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (5.6 kB)
 
 Requirement already satisfied: requests in /root/.pyenv/versions/3.8.16/lib/python3.8/site-packages (from torchvision) (2.31.0)
 
 Collecting pillow!=8.3.*,>=5.3.0 (from torchvision)
-  Obtaining dependency information for pillow!=8.3.*,>=5.3.0 from https://files.pythonhosted.org/packages/1e/74/638f982ab43fb3b19c8a151b1a0065cafefe436f8590c1c57d5fdf2475f1/Pillow-10.1.0-cp38-cp38-manylinux_2_28_x86_64.whl.metadata
+  Obtaining dependency information for pillow!=8.3.*,>=5.3.0 from [files.pythonhosted.org/packages/1e/74/638f982ab43fb3b19c8a151b1a0065cafefe436f8590c1c57d5fdf2475f1/Pillow-10.1.0-cp38-cp38-manylinux_2_28_x86_64.whl.metadata](https://files.pythonhosted.org/packages/1e/74/638f982ab43fb3b19c8a151b1a0065cafefe436f8590c1c57d5fdf2475f1/Pillow-10.1.0-cp38-cp38-manylinux_2_28_x86_64.whl.metadata)
   Downloading Pillow-10.1.0-cp38-cp38-manylinux_2_28_x86_64.whl.metadata (9.5 kB)
 
 Collecting MarkupSafe>=2.0 (from jinja2->torch)
-  Obtaining dependency information for MarkupSafe>=2.0 from https://files.pythonhosted.org/packages/de/e2/32c14301bb023986dff527a49325b6259cab4ebb4633f69de54af312fc45/MarkupSafe-2.1.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata
+  Obtaining dependency information for MarkupSafe>=2.0 from [files.pythonhosted.org/packages/de/e2/32c14301bb023986dff527a49325b6259cab4ebb4633f69de54af312fc45/MarkupSafe-2.1.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata](https://files.pythonhosted.org/packages/de/e2/32c14301bb023986dff527a49325b6259cab4ebb4633f69de54af312fc45/MarkupSafe-2.1.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata)
   Downloading MarkupSafe-2.1.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (3.0 kB)
 
 Requirement already satisfied: charset-normalizer<4,>=2 in /root/.pyenv/versions/3.8.16/lib/python3.8/site-packages (from requests->torchvision) (3.2.0)
@@ -409,12 +409,12 @@ Installing collected packages: mpmath, triton, sympy, pillow, nvidia-nvtx-cu12, 
 
 Successfully installed MarkupSafe-2.1.3 fsspec-2023.10.0 jinja2-3.1.2 mpmath-1.3.0 networkx-3.1 numpy-1.24.4 nvidia-cublas-cu12-12.1.3.1 nvidia-cuda-cupti-cu12-12.1.105 nvidia-cuda-nvrtc-cu12-12.1.105 nvidia-cuda-runtime-cu12-12.1.105 nvidia-cudnn-cu12-8.9.2.26 nvidia-cufft-cu12-11.0.2.54 nvidia-curand-cu12-10.3.2.106 nvidia-cusolver-cu12-11.4.5.107 nvidia-cusparse-cu12-12.1.0.106 nvidia-nccl-cu12-2.18.1 nvidia-nvjitlink-cu12-12.3.52 nvidia-nvtx-cu12-12.1.105 pillow-10.1.0 sympy-1.12 torch-2.1.0 torchvision-0.16.0 triton-2.1.0
 
-WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: [pip.pypa.io/warnings/venv](https://pip.pypa.io/warnings/venv)
 
 ```
 
 ## SORT
 * [Welcome to linuxzoo](https://linuxzoo.net/)
 
-$$$ POSIX standard https://pubs.opengroup.org/onlinepubs/9699919799/
+$$$ POSIX standard [pubs.opengroup.org/onlinepubs/9699919799/](https://pubs.opengroup.org/onlinepubs/9699919799/)
 * ( ) [blfs](https://www.linuxfromscratch.org/blfs/read.html)

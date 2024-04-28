@@ -8,14 +8,14 @@ Hank Ubuntu server (v2): install docker in install
 
 sudo apt install flatpak
 
-flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+flatpak remote-add --if-not-exists flathub [flathub.org/repo/flathub.flatpakrepo](https://flathub.org/repo/flathub.flatpakrepo)
 
 flatpak install org.wezfurlong.wezterm
 
 sudo apt install landscape-client
 
-sudo landscape-config --computer-title "Isaac stellaris 15" --account-name standalone -p SpeakFriendAndEnter --url https://landscape.knecon.com/message-system --ping-url http://landscape.knecon.com/ping
-# https://teams.microsoft.com/l/message/19:0e375ad9-64aa-488b-bde0-9d643d768f57_5ae9b4e0-d8c6-47f1-ac08-c5cd013ac891@unq.gbl.spaces/1712647904617?context=%7B%22contextType%22%3A%22chat%22%7D
+sudo landscape-config --computer-title "Isaac stellaris 15" --account-name standalone -p SpeakFriendAndEnter --url [landscape.knecon.com/message-system](https://landscape.knecon.com/message-system) --ping-url [landscape.knecon.com/ping](http://landscape.knecon.com/ping)
+# [teams.microsoft.com/l/message/19:0e375ad9-64aa-488b-bde0-9d643d768f57_5ae9b4e0-d8c6-47f1-ac08-c5cd013ac891@unq.gbl.spaces/1712647904617?context=%7B%22contextType%22%3A%22chat%22%7D](https://teams.microsoft.com/l/message/19:0e375ad9-64aa-488b-bde0-9d643d768f57_5ae9b4e0-d8c6-47f1-ac08-c5cd013ac891@unq.gbl.spaces/1712647904617?context=%7B%22contextType%22%3A%22chat%22%7D)
 
 sudo apt install nala
 sudo nala update -y && sudo nala upgrade -y
@@ -84,25 +84,25 @@ mkdir HyprSource
 cd HyprSource
 
 ## get Source
-wget https://gitlab.freedesktop.org/mesa/drm/-/archive/libdrm-2.4.120/drm-libdrm-2.4.120.tar.gz
+wget [gitlab.freedesktop.org/mesa/drm/-/archive/libdrm-2.4.120/drm-libdrm-2.4.120.tar.gz](https://gitlab.freedesktop.org/mesa/drm/-/archive/libdrm-2.4.120/drm-libdrm-2.4.120.tar.gz)
 tar -xzf drm-libdrm-2.4.120.tar.gz
 
-wget https://github.com/hyprwm/Hyprland/releases/download/v0.39.1/source-v0.39.1.tar.gz
+wget [hyprwm/Hyprland/releases/download/v0.39.1/source-v0.39.1.tar.gz](https://github.com/hyprwm/Hyprland/releases/download/v0.39.1/source-v0.39.1.tar.gz)
 tar -xvf source-v0.39.1.tar.gz && mv source-v0.39.1 hyprland-source
 
-wget https://github.com/hyprwm/hyprlang/archive/refs/tags/v0.5.1.tar.gz
+wget [hyprwm/hyprlang/archive/refs/tags/v0.5.1.tar.gz](https://github.com/hyprwm/hyprlang/archive/refs/tags/v0.5.1.tar.gz)
 tar -xvf v0.5.1.tar.gz && mv v0.5.1 hyprlang-source
 
-wget https://github.com/hyprwm/hyprcursor/archive/refs/tags/v0.1.7.tar.gz
+wget [hyprwm/hyprcursor/archive/refs/tags/v0.1.7.tar.gz](https://github.com/hyprwm/hyprcursor/archive/refs/tags/v0.1.7.tar.gz)
 tar -xvf v0.1.7.tar.gz && mv v0.1.7 hyprlang-source
 
-wget https://gitlab.freedesktop.org/wayland/wayland-protocols/-/releases/1.35/downloads/wayland-protocols-1.35.tar.xz
+wget [gitlab.freedesktop.org/wayland/wayland-protocols/-/releases/1.35/downloads/wayland-protocols-1.35.tar.xz](https://gitlab.freedesktop.org/wayland/wayland-protocols/-/releases/1.35/downloads/wayland-protocols-1.35.tar.xz)
 tar -xvJf wayland-protocols-1.35.tar.xz
 
-wget https://gitlab.freedesktop.org/wayland/wayland/-/releases/1.22.0/downloads/wayland-1.22.0.tar.xz
+wget [gitlab.freedesktop.org/wayland/wayland/-/releases/1.22.0/downloads/wayland-1.22.0.tar.xz](https://gitlab.freedesktop.org/wayland/wayland/-/releases/1.22.0/downloads/wayland-1.22.0.tar.xz)
 tar -xzvJf wayland-1.22.0.tar.xz
 
-wget https://gitlab.freedesktop.org/emersion/libdisplay-info/-/releases/0.1.1/downloads/libdisplay-info-0.1.1.tar.xz
+wget [gitlab.freedesktop.org/emersion/libdisplay-info/-/releases/0.1.1/downloads/libdisplay-info-0.1.1.tar.xz](https://gitlab.freedesktop.org/emersion/libdisplay-info/-/releases/0.1.1/downloads/libdisplay-info-0.1.1.tar.xz)
 tar -xvJf libdisplay-info-0.1.1.tar.xz
 
 # build libdrm
@@ -147,31 +147,31 @@ sudo nala install kitty
 flatpak install org.mozilla.firefox
 flatpak install org.wezfurlong.wezterm
 
-curl -fsSL https://apt.fury.io/wez/gpg.key | sudo gpg --yes --dearmor -o /usr/share/keyrings/wezterm-fury.gpg
-echo 'deb [signed-by=/usr/share/keyrings/wezterm-fury.gpg] https://apt.fury.io/wez/ * *' | sudo tee /etc/apt/sources.list.d/wezterm.list
+curl -fsSL [apt.fury.io/wez/gpg.key](https://apt.fury.io/wez/gpg.key) | sudo gpg --yes --dearmor -o /usr/share/keyrings/wezterm-fury.gpg
+echo 'deb [signed-by=/usr/share/keyrings/wezterm-fury.gpg] [apt.fury.io/wez/](https://apt.fury.io/wez/) * *' | sudo tee /etc/apt/sources.list.d/wezterm.list
 sudo nala update
 sudo nala install wezterm
 
 ```
 
 Next steps:
-* [ ] write full install script from https://wiki.hyprland.org/Getting-Started/Installation/
+* [ ] write full install script from [wiki.hyprland.org/Getting-Started/Installation/](https://wiki.hyprland.org/Getting-Started/Installation/)
   - [ ] add Nvidia fixes to script using sed, from [here](https://gist.github.com/Vertecedoc4545/07a9624924ac3e03ff0ab2d5e3616955#file-nvidia-partching-hyprland-ubuntu-md) and [here](https://gist.github.com/Vertecedoc4545/6e54487f07a1888b656b656c0cdd9764)
 
 * [ ] look into wezterm bug
-  - https://wezfurlong.org/wezterm/troubleshooting.html
-  - https://wezfurlong.org/wezterm/config/lua/config/enable_wayland.html
-  - https://github.com/wez/wezterm/issues/5103
-  - https://github.com/wez/wezterm/issues/5228
-  - https://www.reddit.com/r/hyprland/comments/1c38y11/wezterm_not_working_in_native_wayland_mode/
-  - https://www.reddit.com/r/archlinux/comments/18rf5t1/psa_on_hyprland_wezterm_will_not_start_anymore/
-  - https://www.reddit.com/r/hyprland/comments/1auqy8b/wezterm_not_open_anymore/
-  - https://github.com/wez/wezterm/issues/4672
-* https://gist.github.com/Vertecedoc4545/3b077301299c20c5b9b4db00f4ca6000
+  - [wezfurlong.org/wezterm/troubleshooting.html](https://wezfurlong.org/wezterm/troubleshooting.html)
+  - [wezfurlong.org/wezterm/config/lua/config/enable_wayland.html](https://wezfurlong.org/wezterm/config/lua/config/enable_wayland.html)
+  - [wez/wezterm/issues/5103](https://github.com/wez/wezterm/issues/5103)
+  - [wez/wezterm/issues/5228](https://github.com/wez/wezterm/issues/5228)
+  - [r/hyprland/comments/1c38y11/wezterm_not_working_in_native_wayland_mode/](https://www.reddit.com/r/hyprland/comments/1c38y11/wezterm_not_working_in_native_wayland_mode/)
+  - [r/archlinux/comments/18rf5t1/psa_on_hyprland_wezterm_will_not_start_anymore/](https://www.reddit.com/r/archlinux/comments/18rf5t1/psa_on_hyprland_wezterm_will_not_start_anymore/)
+  - [r/hyprland/comments/1auqy8b/wezterm_not_open_anymore/](https://www.reddit.com/r/hyprland/comments/1auqy8b/wezterm_not_open_anymore/)
+  - [wez/wezterm/issues/4672](https://github.com/wez/wezterm/issues/4672)
+* [gist.github.com/Vertecedoc4545/3b077301299c20c5b9b4db00f4ca6000](https://gist.github.com/Vertecedoc4545/3b077301299c20c5b9b4db00f4ca6000)
 
 
 * [jakoolit](https://github.com/JaKooLit/Debian-Hyprland)
-  -> https://github.com/JaKooLit/Debian-Hyprland/tree/main/install-scripts
+  -> [JaKooLit/Debian-Hyprland/tree/main/install-scripts](https://github.com/JaKooLit/Debian-Hyprland/tree/main/install-scripts)
 
 
 
@@ -191,8 +191,8 @@ Questions:
 Roadmap
 
 
- look into building https://github.com/canonical/landscape-client on Debian and (especially) NixOS → https://github.com/nix-community/nix-installers
- Read: https://gist.github.com/clample/e3c51bf8026098fded9628d3e0ee7967
+ look into building [canonical/landscape-client](https://github.com/canonical/landscape-client) on Debian and (especially) NixOS → [nix-community/nix-installers](https://github.com/nix-community/nix-installers)
+ Read: [gist.github.com/clample/e3c51bf8026098fded9628d3e0ee7967](https://gist.github.com/clample/e3c51bf8026098fded9628d3e0ee7967)
  port all configs to home-manager
  manage all secrets and passwords with sops-nix as well
  create triple boot: 100G NixOS, 100G Ubuntu Server 23.10 Wayland, 800G Ubuntu Server 22.04 X11
@@ -215,7 +215,7 @@ NixOS + sway
 NixOS + Hyprland
 
 
-* https://github.com/dbnicholson/deb-ostree-builder → ?
+* [dbnicholson/deb-ostree-builder](https://github.com/dbnicholson/deb-ostree-builder) → ?
 
 sudo apt install
 
@@ -230,11 +230,11 @@ sudo apt install --no-install-recommends xorg xinit
 
 sudo dpkg-reconfigure lightdm
 
-/usr/lib/apt/apt-helper download-file https://debian.sur5r.net/i3/pool/main/s/sur5r-keyring/sur5r-keyring_2023.02.18_all.deb keyring.deb SHA256:a511ac5f10cd811f8a4ca44d665f2fa1add7a9f09bef238cdfad8461f5239cc4
+/usr/lib/apt/apt-helper download-file [debian.sur5r.net/i3/pool/main/s/sur5r-keyring/sur5r-keyring_2023.02.18_all.deb](https://debian.sur5r.net/i3/pool/main/s/sur5r-keyring/sur5r-keyring_2023.02.18_all.deb) keyring.deb SHA256:a511ac5f10cd811f8a4ca44d665f2fa1add7a9f09bef238cdfad8461f5239cc4
 
 sudo apt install ./keyring.deb
 
-echo "deb http://debian.sur5r.net/i3/ $(grep '^DISTRIB_CODENAME=' /etc/lsb-release | cut -f2 -d=) universe" | sudo tee /etc/apt/sources.list.d/sur5r-i3.list
+echo "deb [debian.sur5r.net/i3/](http://debian.sur5r.net/i3/) $(grep '^DISTRIB_CODENAME=' /etc/lsb-release | cut -f2 -d=) universe" | sudo tee /etc/apt/sources.list.d/sur5r-i3.list
 
 sudo apt update
 
@@ -262,7 +262,7 @@ network:
 
 sudo netplan apply
 
-sh <(curl -L https://nixos.org/nix/install) --no-daemon
+sh <(curl -L [nixos.org/nix/install)](https://nixos.org/nix/install)) --no-daemon
 
 nix-env -iA nixpkgs.neovim
 
@@ -275,7 +275,7 @@ chsh -s $(which zsh)
 
 sudo apt install nvidia-driver-530
 
-nix-channel --add https://github.com/guibou/nixGL/archive/main.tar.gz nixgl && nix-channel --update
+nix-channel --add [guibou/nixGL/archive/main.tar.gz](https://github.com/guibou/nixGL/archive/main.tar.gz) nixgl && nix-channel --update
 
 nix-env -iA nixgl.auto.nixGLDefault
 
@@ -295,7 +295,7 @@ sudo apt-get install mesa-common-dev libgl1-mesa-dev libglu1-mesa-dev
 
 mkdir ~/pkgs && cd ~/
 
-curl -LO https://github.com/wez/wezterm/releases/download/20230408-112425-69ae8472/wezterm-20230408-112425-69ae8472.Ubuntu22.04.deb
+curl -LO [wez/wezterm/releases/download/20230408-112425-69ae8472/wezterm-20230408-112425-69ae8472.Ubuntu22.04.deb](https://github.com/wez/wezterm/releases/download/20230408-112425-69ae8472/wezterm-20230408-112425-69ae8472.Ubuntu22.04.deb)
 
 sudo apt install -y ./wezterm-20230408-112425-69ae8472.Ubuntu22.04.deb
 
@@ -314,11 +314,11 @@ sudo apt-get install ca-certificates curl gnupg
 
 sudo install -m 0755 -d /etc/apt/keyrings
 
-curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+curl -fsSL [download.docker.com/linux/ubuntu/gpg](https://download.docker.com/linux/ubuntu/gpg) | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
 
 sudo chmod a+r /etc/apt/keyrings/docker.gpg
 
-echo "deb [arch="$(dpkg --print-architecture)" signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \*   "$(. /etc/os-release && echo "$VERSION_CODENAME")" stable" | \*   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+echo "deb [arch="$(dpkg --print-architecture)" signed-by=/etc/apt/keyrings/docker.gpg] [download.docker.com/linux/ubuntu](https://download.docker.com/linux/ubuntu) \*   "$(. /etc/os-release && echo "$VERSION_CODENAME")" stable" | \*   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
 
 sudo apt-get update
 
@@ -350,7 +350,7 @@ nix-env -iA nixpkgs.nitrogen
 
 mkdir ~/Pictures/wallpaper
 
-curl -o ~/Pictures/wallpaper/leaves.jpg https://drive.google.com/file/d/1yNf0dBaKzl0OPSriKthrFBBRSkNePYPO
+curl -o ~/Pictures/wallpaper/leaves.jpg [drive.google.com/file/d/1yNf0dBaKzl0OPSriKthrFBBRSkNePYPO](https://drive.google.com/file/d/1yNf0dBaKzl0OPSriKthrFBBRSkNePYPO)
 
 nitrogen --set-scaled ~/Pictures/wallpaper/leaves.jpg
 # add 'exec --no-startup-id nitrogen --restore' to i3 config
@@ -362,15 +362,15 @@ nix-env -iA nixpkgs.arandr
 
 sudo apt install flatpak
 
-flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+flatpak remote-add --if-not-exists flathub [flathub.org/repo/flathub.flatpakrepo](https://flathub.org/repo/flathub.flatpakrepo)
 
 flatpak install flathub org.mozilla.firefox
 
 
 # NEED TO FIX THIS - arandr not saving file -> remove and script xrandr, bind to keystroke
-# https://www.reddit.com/r/i3wm/comments/ln3zd7/making_arandr_setup_permanent/
-# -> https://github.com/crivotz/dot_files/tree/master/linux
-# https://github.com/crivotz/dot_files/blob/master/linux/screenlayout/autoxrandr.sh
+# [r/i3wm/comments/ln3zd7/making_arandr_setup_permanent/](https://www.reddit.com/r/i3wm/comments/ln3zd7/making_arandr_setup_permanent/)
+# -> [crivotz/dot_files/tree/master/linux](https://github.com/crivotz/dot_files/tree/master/linux)
+# [crivotz/dot_files/blob/master/linux/screenlayout/autoxrandr.sh](https://github.com/crivotz/dot_files/blob/master/linux/screenlayout/autoxrandr.sh)
 
 nix-env --uninstall arandr
 
@@ -473,7 +473,7 @@ apt update
 
 apt install landscape-client
 
-landscape-config -p SpeakFriendAndEnter --account-name standalone --url https://landscape.knecon.com/message-system --ping-url https://landscape.knecon.com/ping
+landscape-config -p SpeakFriendAndEnter --account-name standalone --url [landscape.knecon.com/message-system](https://landscape.knecon.com/message-system) --ping-url [landscape.knecon.com/ping](https://landscape.knecon.com/ping)
 
 
 #nei xfce.thunar
@@ -490,12 +490,12 @@ nei spaceFM
 nei starship
 
 nei kanata-with-cmd
-# follow: https://github.com/jtroo/kanata/blob/main/docs/avoid-sudo-linux.md
+# follow: [jtroo/kanata/blob/main/docs/avoid-sudo-linux.md](https://github.com/jtroo/kanata/blob/main/docs/avoid-sudo-linux.md)
 
 flatpak install flathub org.gtk.Gtk3theme.Yaru-dark
 
 
-# download from https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k
+# download from [romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k](https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k)
 # install fonts
 
 
@@ -503,7 +503,7 @@ flatpak install flathub org.gtk.Gtk3theme.Yaru-dark
 
 cd ~/pkgs
 
-wget https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/Meslo.zip
+wget [ryanoasis/nerd-fonts/releases/download/v2.1.0/Meslo.zip](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/Meslo.zip)
 
 mkdir -p ~/.local/share/fonts
 
@@ -515,9 +515,9 @@ rm *Windows*
 
 fc-cache -fv
 
-try https://flathub.org/apps/org.upscayl.Upscayl
-* https://flathub.org/apps/org.otfried.Ipe
-* https://flathub.org/apps/com.github.GradienceTeam.Gradience
+try [flathub.org/apps/org.upscayl.Upscayl](https://flathub.org/apps/org.upscayl.Upscayl)
+* [flathub.org/apps/org.otfried.Ipe](https://flathub.org/apps/org.otfried.Ipe)
+* [flathub.org/apps/com.github.GradienceTeam.Gradience](https://flathub.org/apps/com.github.GradienceTeam.Gradience)
 
 Hank - Installed
 
@@ -7177,31 +7177,31 @@ ungoogled-chromium_112.0.5615.165-1_amd64.deb
 vieb_10.4.0_amd64.deb
 
 NIXPKGS_ALLOW_UNFREE=1 nix profile install --impure --override-input nixpkgs nixpkgs/nixos-23.11 --show-trace github:nix-community/nixGL#nixGLNvidia
-* https://github.com/NixOS/nixpkgs/issues/122671
+* [NixOS/nixpkgs/issues/122671](https://github.com/NixOS/nixpkgs/issues/122671)
 
 Teams CLI creation?
-* https://github.com/fossteams/teams-cli
-* https://github.com/fossteams
+* [fossteams/teams-cli](https://github.com/fossteams/teams-cli)
+* [fossteams](https://github.com/fossteams)
 
 
-* https://learn.microsoft.com/en-us/graph/api/resources/teams-api-overview?view=graph-rest-1.0
-* https://learn.microsoft.com/en-us/graph/use-the-api
-* https://learn.microsoft.com/en-us/graph/overview
-* https://developer.microsoft.com/en-us/graph/
+* [learn.microsoft.com/en-us/graph/api/resources/teams-api-overview?view=graph-rest-1.0](https://learn.microsoft.com/en-us/graph/api/resources/teams-api-overview?view=graph-rest-1.0)
+* [learn.microsoft.com/en-us/graph/use-the-api](https://learn.microsoft.com/en-us/graph/use-the-api)
+* [learn.microsoft.com/en-us/graph/overview](https://learn.microsoft.com/en-us/graph/overview)
+* [developer.microsoft.com/en-us/graph/](https://developer.microsoft.com/en-us/graph/)
 
 
-* https://www.c-sharpcorner.com/article/managing-microsoft-teams-with-office-365-cli-commands/
-* https://pnp.github.io/
-* https://github.com/pnp/cli-microsoft365
+* [c-sharpcorner.com/article/managing-microsoft-teams-with-office-365-cli-commands/](https://www.c-sharpcorner.com/article/managing-microsoft-teams-with-office-365-cli-commands/)
+* [pnp.github.io/](https://pnp.github.io/)
+* [pnp/cli-microsoft365](https://github.com/pnp/cli-microsoft365)
 
 /var/snap/landscape-client/common/etc/landscape-client.conf  :
 * [client]
 
 log_level = info
 
-url = * https://landscape.knecon.com/message-system
+url = * [landscape.knecon.com/message-system](https://landscape.knecon.com/message-system)
 
-ping_url = * https://landscape.knecon.com/ping
+ping_url = * [landscape.knecon.com/ping](https://landscape.knecon.com/ping)
 
 data_path = /var/lib/landscape/client
 
@@ -7235,19 +7235,19 @@ pixel_data = list(image.getdata())
 avg_pixel = sum(pixel_data) / len(pixel_data)
 
 
-* https://i3wm.org/docs/repositories.html
+* [i3wm.org/docs/repositories.html](https://i3wm.org/docs/repositories.html)
 * [DT](https://www.youtube.com/watch?v=AHvwxc62lDQ&t=135s)
-* https://github.com/thexavier666/i3_ubuntu_server
-* https://www.hackification.io/blog/2020/10/09/installing-the-i3-tiling-window-manager-on-ubuntu-server/
-* https://kifarunix.com/install-i3-windows-manager-on-ubuntu/
-* https://www.linuxfordevices.com/tutorials/ubuntu/install-i3-window-manager
-* https://linux.how2shout.com/how-to-install-i3-window-manager-ubuntu-20-04-or-debian-11/
-* https://linuxways.net/ubuntu/how-to-install-i3-on-ubuntu/
-* https://askubuntu.com/questions/1440313/ubuntu-server-22-10-failed-to-start-session
-* https://askubuntu.com/questions/1397503/i3-radius-dependancy-issues
-* https://unix.stackexchange.com/questions/593534/changing-i3-startup-terminal
-* http://docs.qtile.org/en/latest/manual/install/ubuntu.html
-* https://vpsie.com/knowledge-base/how-to-install-qtile-on-ubuntu-20-04-lts/
+* [thexavier666/i3_ubuntu_server](https://github.com/thexavier666/i3_ubuntu_server)
+* [hackification.io/blog/2020/10/09/installing-the-i3-tiling-window-manager-on-ubuntu-server/](https://www.hackification.io/blog/2020/10/09/installing-the-i3-tiling-window-manager-on-ubuntu-server/)
+* [kifarunix.com/install-i3-windows-manager-on-ubuntu/](https://kifarunix.com/install-i3-windows-manager-on-ubuntu/)
+* [linuxfordevices.com/tutorials/ubuntu/install-i3-window-manager](https://www.linuxfordevices.com/tutorials/ubuntu/install-i3-window-manager)
+* [linux.how2shout.com/how-to-install-i3-window-manager-ubuntu-20-04-or-debian-11/](https://linux.how2shout.com/how-to-install-i3-window-manager-ubuntu-20-04-or-debian-11/)
+* [linuxways.net/ubuntu/how-to-install-i3-on-ubuntu/](https://linuxways.net/ubuntu/how-to-install-i3-on-ubuntu/)
+* [askubuntu.com/questions/1440313/ubuntu-server-22-10-failed-to-start-session](https://askubuntu.com/questions/1440313/ubuntu-server-22-10-failed-to-start-session)
+* [askubuntu.com/questions/1397503/i3-radius-dependancy-issues](https://askubuntu.com/questions/1397503/i3-radius-dependancy-issues)
+* [unix.stackexchange.com/questions/593534/changing-i3-startup-terminal](https://unix.stackexchange.com/questions/593534/changing-i3-startup-terminal)
+* [docs.qtile.org/en/latest/manual/install/ubuntu.html](http://docs.qtile.org/en/latest/manual/install/ubuntu.html)
+* [vpsie.com/knowledge-base/how-to-install-qtile-on-ubuntu-20-04-lts/](https://vpsie.com/knowledge-base/how-to-install-qtile-on-ubuntu-20-04-lts/)
 * [Work On Ubuntu FASTER and MORE EFFICIENTLY with tiling window managersTiling Window Managers - In this video I'll explain what they are, why I think using tiling window managers is more efficient, and show how to install 2 of my favorites on Ubuntu Linux.
 
 For the demo of installing i3 on Ubuntu, skip to 4:28
@@ -7256,16 +7256,16 @@ Demo on installing and configuring bspwm - 7:15
 
 Extra links
 
-Archlinux Comparison of Tiling Window Managers: https://wiki.archlinux.org/index.php/Comparison_of_tiling_window_managers
+Archlinux Comparison of Tiling Window Managers: [wiki.archlinux.org/index.php/Comparison_of_tiling_window_managers](https://wiki.archlinux.org/index.php/Comparison_of_tiling_window_managers)
 
 At 9:10, the path to default bspwm and sxhdc config files on ubuntu  is /usr/share/doc/bspwm/examples
 
-Lemonbar documentation: https://github.com/LemonBoy/bar
+Lemonbar documentation: [LemonBoy/bar](https://github.com/LemonBoy/bar)
 
-i3wm: https://github.com/i3/i3
+i3wm: [i3/i3](https://github.com/i3/i3)
 
-bspwm: https://github.com/baskerville/bspwmhttps://www.youtube.com/watch?v=-PGlrtoFXK4](https://www.youtube.com/watch?v=-PGlrtoFXK4)
-* https://tecadmin.net/installing-lightdm-on-ubuntu/
+bspwm: [](https://www.youtube.com/watch?v=-PGlrtoFXK4)](https://github.com/baskerville/bspwmhttps://www.youtube.com/watch?v=-PGlrtoFXK4](https://www.youtube.com/watch?v=-PGlrtoFXK4))
+* [tecadmin.net/installing-lightdm-on-ubuntu/](https://tecadmin.net/installing-lightdm-on-ubuntu/)
 
 ```jsx
 
@@ -7279,13 +7279,13 @@ sudo apt install --no-install-recommends xorg xinit
 
 sudo dpkg-reconfigure lightdm
 
-/usr/lib/apt/apt-helper download-file https://debian.sur5r.net/i3/pool/main/s/sur5r-keyring/sur5r-keyring_2023.02.18_all.deb keyring.deb SHA256:a511ac5f10cd811f8a4ca44d665f2fa1add7a9f09bef238cdfad8461f5239cc4
+/usr/lib/apt/apt-helper download-file [debian.sur5r.net/i3/pool/main/s/sur5r-keyring/sur5r-keyring_2023.02.18_all.deb](https://debian.sur5r.net/i3/pool/main/s/sur5r-keyring/sur5r-keyring_2023.02.18_all.deb) keyring.deb SHA256:a511ac5f10cd811f8a4ca44d665f2fa1add7a9f09bef238cdfad8461f5239cc4
 
 sudo apt install ./keyring.deb
 
 rm keyring.deb
 
-echo "deb http://debian.sur5r.net/i3/ $(grep '^DISTRIB_CODENAME=' /etc/lsb-release | cut -f2 -d=) universe" | sudo tee /etc/apt/sources.list.d/sur5r-i3.list
+echo "deb [debian.sur5r.net/i3/](http://debian.sur5r.net/i3/) $(grep '^DISTRIB_CODENAME=' /etc/lsb-release | cut -f2 -d=) universe" | sudo tee /etc/apt/sources.list.d/sur5r-i3.list
 
 sudo apt update
 
@@ -7297,7 +7297,7 @@ echo "exec i3" >> ~/.xinitrc
 
 sudo apt install libx11-dev libxft-dev libharfbuzz-dev libxinerama-dev build-essential
 
-git clone https://gitlab.com/dwt1/dmenu-distrotube.git
+git clone [gitlab.com/dwt1/dmenu-distrotube.git](https://gitlab.com/dwt1/dmenu-distrotube.git)
 
 cd dmenu-distrotube
 
@@ -7309,12 +7309,12 @@ echo 'export TERMINAL="/usr/bin/kitty"' >> ~/.bashrc && source ~/.bashrc
 
 ```
 
-→ replace dmenu with rofi: https://gist.github.com/panicwithme/60d371ed85378154bf990fd1092a72c1
+→ replace dmenu with rofi: [gist.github.com/panicwithme/60d371ed85378154bf990fd1092a72c1](https://gist.github.com/panicwithme/60d371ed85378154bf990fd1092a72c1)
 
 
 ## Mantis
-* https://github.com/sommaa/Mantis
-* https://averagelinuxuser.com/ssh-into-virtualbox/#connect-to-virtualbox-from-the-guest-os *****
+* [sommaa/Mantis](https://github.com/sommaa/Mantis)
+* [averagelinuxuser.com/ssh-into-virtualbox/#connect-to-virtualbox-from-the-guest-os](https://averagelinuxuser.com/ssh-into-virtualbox/#connect-to-virtualbox-from-the-guest-os) *****
 
 ```bash
 
@@ -7331,11 +7331,11 @@ sudo apt install --no-install-recommends xorg xinit
 
 sudo dpkg-reconfigure lightdm
 
-/usr/lib/apt/apt-helper download-file https://debian.sur5r.net/i3/pool/main/s/sur5r-keyring/sur5r-keyring_2023.02.18_all.deb keyring.deb SHA256:a511ac5f10cd811f8a4ca44d665f2fa1add7a9f09bef238cdfad8461f5239cc4
+/usr/lib/apt/apt-helper download-file [debian.sur5r.net/i3/pool/main/s/sur5r-keyring/sur5r-keyring_2023.02.18_all.deb](https://debian.sur5r.net/i3/pool/main/s/sur5r-keyring/sur5r-keyring_2023.02.18_all.deb) keyring.deb SHA256:a511ac5f10cd811f8a4ca44d665f2fa1add7a9f09bef238cdfad8461f5239cc4
 
 sudo apt install ./keyring.deb
 
-echo "deb http://debian.sur5r.net/i3/ $(grep '^DISTRIB_CODENAME=' /etc/lsb-release | cut -f2 -d=) universe" | sudo tee /etc/apt/sources.list.d/sur5r-i3.list
+echo "deb [debian.sur5r.net/i3/](http://debian.sur5r.net/i3/) $(grep '^DISTRIB_CODENAME=' /etc/lsb-release | cut -f2 -d=) universe" | sudo tee /etc/apt/sources.list.d/sur5r-i3.list
 
 sudo apt update
 
@@ -7353,8 +7353,8 @@ sudo apt install build-essential
 #sudo add-apt-repository ppa:spvkgn/zathura-mupdf
 
 sudo vim /etc/apt/sources.list
-#deb https://ppa.launchpadcontent.net/spvkgn/zathura-mupdf/ubuntu focal main
-##deb-src https://ppa.launchpadcontent.net/spvkgn/zathura-mupdf/ubuntu focal main
+#deb [ppa.launchpadcontent.net/spvkgn/zathura-mupdf/ubuntu](https://ppa.launchpadcontent.net/spvkgn/zathura-mupdf/ubuntu) focal main
+##deb-src [ppa.launchpadcontent.net/spvkgn/zathura-mupdf/ubuntu](https://ppa.launchpadcontent.net/spvkgn/zathura-mupdf/ubuntu) focal main
 ###sudo add-apt-repository ppa:spvkgn/zathura-mupdf
 
 sudo apt update
@@ -7367,7 +7367,7 @@ sudo apt install cmake unzip gettext
 
 mkdir pkgs && cd pkgs
 
-git clone https://github.com/neovim/neovim.git
+git clone [neovim/neovim.git](https://github.com/neovim/neovim.git)
 
 cd neovim
 
@@ -7379,31 +7379,31 @@ sudo make install
 
 ----------------------------------------------------------#=====>
 #cd ~/pkgs/
-#git clone --depth=1 https://github.com/adi1090x/rofi.git
+#git clone --depth=1 [adi1090x/rofi.git](https://github.com/adi1090x/rofi.git)
 #cd rofi
 #chmod +x setup.sh
 #./setup.sh
 
 pip install pycairo requests i3ipc
 
-git clone --depth 1 https://github.com/AstroNvim/AstroNvim ~/.config/nvim
+git clone --depth 1 [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) ~/.config/nvim
 
 nvim
 # :q
 
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+sh -c "$(curl -fsSL [raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"](https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)")
 
-curl -sS https://starship.rs/install.sh | sh
+curl -sS [starship.rs/install.sh](https://starship.rs/install.sh) | sh
 
 echo "" >> ~/.zshrc
 
 echo 'eval "$(starship init zsh)"' >> ~/.zshrc
 
-curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.sh | sh
+curl -fsSL [raw.githubusercontent.com/spicetify/spicetify-cli/master/install.sh](https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.sh) | sh
 
 sudo apt install pkg-config libgirepository1.0-dev libcairo2-dev
 
-git clone https://github.com/deter0/xborder
+git clone [deter0/xborder](https://github.com/deter0/xborder)
 
 cd xborder
 
@@ -7418,16 +7418,16 @@ pip install -r requirements.txt
 
 #sudo apt-get install python3-pip git
 #pip3 install i3ipc
-#git clone https://github.com/olemartinorg/i3-alternating-layout
+#git clone [olemartinorg/i3-alternating-layout](https://github.com/olemartinorg/i3-alternating-layout)
 # add to i3 config:
 #exec --no-startup-id /path/to/alternating_layouts.py
 
 
-#/usr/lib/apt/apt-helper download-file https://debian.sur5r.net/i3/pool/main/s/sur5r-keyring/sur5r-keyring_2023.02.18_all.deb keyring.deb SHA256:a511ac5f10cd811f8a4ca44d665f2fa1add7a9f09bef238cdfad8461f5239cc4
+#/usr/lib/apt/apt-helper download-file [debian.sur5r.net/i3/pool/main/s/sur5r-keyring/sur5r-keyring_2023.02.18_all.deb](https://debian.sur5r.net/i3/pool/main/s/sur5r-keyring/sur5r-keyring_2023.02.18_all.deb) keyring.deb SHA256:a511ac5f10cd811f8a4ca44d665f2fa1add7a9f09bef238cdfad8461f5239cc4
 
 sudo apt install ./keyring.deb
 
-echo "deb http://debian.sur5r.net/i3/ $(grep '^DISTRIB_CODENAME=' /etc/lsb-release | cut -f2 -d=) universe" | sudo tee /etc/apt/sources.list.d/sur5r-i3.list
+echo "deb [debian.sur5r.net/i3/](http://debian.sur5r.net/i3/) $(grep '^DISTRIB_CODENAME=' /etc/lsb-release | cut -f2 -d=) universe" | sudo tee /etc/apt/sources.list.d/sur5r-i3.list
 
 sudo apt update
 
@@ -7436,7 +7436,7 @@ sudo apt install i3
 
 cd ~/pkgs
 
-git clone https://github.com/sommaa/Mantis.git
+git clone [sommaa/Mantis.git](https://github.com/sommaa/Mantis.git)
 
 cd Mantis/dots
 
@@ -7444,7 +7444,7 @@ cp -r i3 $HOME/.config
 
 cd ~/pkgs/
 
-git clone --depth=1 https://github.com/adi1090x/rofi.git
+git clone --depth=1 [adi1090x/rofi.git](https://github.com/adi1090x/rofi.git)
 
 cd rofi
 
@@ -7507,29 +7507,29 @@ pip install neovim
 
 cd ~/pkgs
 
-wget https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/Iosevka.zip
+wget [ryanoasis/nerd-fonts/releases/download/v2.1.0/Iosevka.zip](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/Iosevka.zip)
 
 unzip Iosevka.zip -d Iosevka
 
 cp ~/pkgs/Iosevka/Iosevka*.ttf ~/.local/share/fonts/
 
-wget https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/JetBrainsMono.zip
+wget [ryanoasis/nerd-fonts/releases/download/v2.1.0/JetBrainsMono.zip](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/JetBrainsMono.zip)
 
 unzip JetBransMono.zip -d JetBrainsMono
 
 cp ~/pkgs/JetBrainsMono/JetBrains*.ttf ~/.local/share/fonts/
 
-wget https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/Meslo.zip
+wget [ryanoasis/nerd-fonts/releases/download/v2.1.0/Meslo.zip](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/Meslo.zip)
 
 unzip Meslo.zip -d Meslo
 
 cp ~/pkgs/Meslo/Meslo*.ttf ~/.local/share/fonts/
 
-git clone https://github.com/sainnhe/icursive-nerd-font
+git clone [sainnhe/icursive-nerd-font](https://github.com/sainnhe/icursive-nerd-font)
 
 cp ~/pkgs/icursive-nerd-font/dist/Cascursive/Cascursive*.ttf ~/.local/share/fonts
 
-git clone https://github.com/displaay/Azeret
+git clone [displaay/Azeret](https://github.com/displaay/Azeret)
 
 cp ~/pkgs/Azeret/fonts/ots/Azeret*.otf ~/.local/share/fonts
 

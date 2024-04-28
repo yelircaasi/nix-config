@@ -17,8 +17,8 @@
 * [Numerical Recipes - Cambridge University Press](http://datascience.getresponse360.com/click.html?x=a62e&lc=uf1&mc=j&s=jFaI&u=F&y=8&z=wjeXevR&)
 * [The History of Game Theory, Volume I: From the beginnings to 1945](https://email.mg2.substack.com/c/eJxVUctu5CAQ_BpztKDBBA4cIkUj5bKX3T1bGNoOig0W4Iycrw-euexKrQZVP6pU7WzFJeXT7KlUcqWxnjuaiPeyYq2YyVEwj8EbphUDAcQb4ZkaFAllnDPiZsNqaj6Q7Me0BmdrSPExIBgX5MPYARWbuRxwoOBBMOeGFw_zrKfZ69byoLWHDxgdGvzCfKaIZDUfte6l468d3Frc7_febvY7xd6lrQHL3tKekz9cbT_GuKJUSgpXP78F7Pjb3z831YFs4TI2aV8XqDkM_4Ovv99_tcK_KyQJBigwykECZZrrnvVeKj1RxRzM1HLhLb4oPQ8TOgEImnaCbgv05ZhKte7zEkqyCcVa1-c-hxXP1rJcnj1qzbKxvdsRQz1HjHZa0T_drM-bPPwdF4yY2638aKthkslGqxUoJZ_uNbu5uLQrII3cpzYVjbOxplx2m60PBX8Ai4Oesw)
 * [fnac ECONOMÉTRIE](http://livre.fnac.com/n262554/Actualite-Politique-Economie-Societe/Toute-l-Economie/Econometrie)
-* https://de1lib.org/g/George%20Simmons
-* https://fragen.letsrockmathe.de/
+* [de1lib.org/g/George%20Simmons](https://de1lib.org/g/George%20Simmons)
+* [fragen.letsrockmathe.de/](https://fragen.letsrockmathe.de/)
 * Математическая логика и теория алгоритмов для программистов Гринченков Д.В., Потоцкий С.И.
 * Математический анализ. В 2-х ч. Зорич В.А.
 * Операционное исчисление.Дифференциальное ур.de pymathru
@@ -172,7 +172,7 @@ book * [Wissenschaftliches Rechnen](http://library.lol/main/2D54C43A077CAF00756C
 * [Новые встречи с геометрией [1978]](https://vk.com/doc44301783_616416045?hash=d0c97f55c91c079357&dl=6ea696d651a65731aa)
 * [Michael Artin - 代数 Algebra (原书第2版)](https://libgen.rs/book/index.php?md5=FECFCFDABF97AB6319C0C8A0BA001C40)
 * [What Is Mathematics?](https://www.academia.edu/43299623/Whatmath?categoryID=20603)
-* https://seop.illc.uva.nl/entries/para...
+* [seop.illc.uva.nl/entries/para...](https://seop.illc.uva.nl/entries/para...)
 
 book * [Differential Equations with Applications and Historical Notes, Third Edition](https://de1lib.org/book/3372904/fb2571)
 book * [Differential Equations: Theory, Technique, and Practice](https://de1lib.org/book/2352150/9fb263)
@@ -227,21 +227,21 @@ book * [Some book to learn Mathematics where even the stupidest person can under
 book * [Springer Books](https://link.springer.com/search?facet-content-type=%22Book%22&sortOrder=newestFirst&showAll=true&package=mat-covid19_textbooks)
 book * [МЦНМО](https://libgen.is/search.php?req=%D0%9C%D0%A6%D0%9D%D0%9C%D0%9E&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 book * [основы математики](https://libgen.is/search.php?&req=%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B+%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B8&phrase=1&view=simple&column=def&sort=def&sortmode=ASC&page=2)
-book * https://aimath.org/textbooks/approved-textbooks/
+book * [aimath.org/textbooks/approved-textbooks/](https://aimath.org/textbooks/approved-textbooks/)
 book book * [Mathematische Exkursionen: Gödel, Escher und andere Spiele](https://b-ok.cc/book/2172504/6dd729)
 book book * [The Tools of Mathematical Reasoning](https://b-ok.cc/book/3341780/444474)
 book book * [Математические и физические аспекты теории музыки | А. Борисов, Е. Овчинников | download](https://ru.b-ok2.org/book/3333601/ecdaa2)
 book book book * [Ivan Morton Niven: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/g/Ivan%20Morton%20Niven)
-book * http://mathforum.org/library/
+book * [mathforum.org/library/](http://mathforum.org/library/)
 book * [Nouvelles méthodes pour la détermination des orbites des comètes - Adrien Marie Legendre - Google Libros](https://books.google.com/books?id=PRcOAAAAQAAJ&pg=PA1&hl=es&source=gbs_toc_r&cad=4#v=onepage&q&f=false)
-book * https://books.google.com/books?id=ACM92h0VbyYC&printsec=frontcover&hl=es&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+book * [books.google.com/books?id=ACM92h0VbyYC&printsec=frontcover&hl=es&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false](https://books.google.com/books?id=ACM92h0VbyYC&printsec=frontcover&hl=es&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
 book * [Number Systems: An Introduction to Algebra and Analysis](https://bookstore.ams.org/amstext-23/)
 book * [A Discrete Transition to Advanced Mathematics](https://bookstore.ams.org/amstext-3/)
 book book * [Student's Solution Manual for A Discrete Transition to Advanced Mathematics](https://b-ok.cc/book/1223922/f90a52)
 book * [Sets, Groups, and Mappings: An Introduction to Abstract Mathematics](https://bookstore.ams.org/amstext-39/)
-book * http://math-blog.com/mathematics-books/
-book * http://mathforum.org/library/languages/
-book * https://aran.library.nuigalway.ie/xmlui/bitstream/handle/10379/1108/paper_0080.pdf?sequence=1
+book * [math-blog.com/mathematics-books/](http://math-blog.com/mathematics-books/)
+book * [mathforum.org/library/languages/](http://mathforum.org/library/languages/)
+book * [aran.library.nuigalway.ie/xmlui/bitstream/handle/10379/1108/paper_0080.pdf?sequence=1](https://aran.library.nuigalway.ie/xmlui/bitstream/handle/10379/1108/paper_0080.pdf?sequence=1)
 book * [Formeln](https://libgen.is/search.php?req=mathematische+formeln&open=0&res=25&view=simple&phrase=1&column=def)
 book * [History of Greek Mathematics](https://b-ok.cc/g/Sir%20Thomas%20Heath)
 book * [How Not to Be Wrong: The Power of Mathematical Thinking: Jordan Ellenberg: 9780143127536: Amazon.com: Books](https://www.amazon.com/How-Not-Be-Wrong-Mathematical/dp/0143127535)
@@ -255,7 +255,7 @@ book * [Proofs from THE BOOK_Martin Aigner, Günter M. Ziegler_6th ed. 2018](htt
 book * [Taschenbuch der Mathematik](https://libgen.is/search.php?req=taschenbuch+der+mathematik&open=0&res=25&view=simple&phrase=1&column=def%20%20%20Inviato%20da%20iPhone)
 book * [Вища математика для економістів. Часть 3. Інтегральне числення. Диференціальні рівняння. Ряди](http://library.lol/main/E9A41A7670B72106836F97F3776D4603)
 book * [Математика | Physics.Math.Code.Books](https://vk.com/topic-51126445_31176766)
-book * https://b-ok.cc/s/?q=schaum%27s+outline
+book * [b-ok.cc/s/?q=schaum%27s+outline](https://b-ok.cc/s/?q=schaum%27s+outline)
 book book * [A history of mathematics](https://b-ok.cc/book/573249/147e5f)
 book book * [Abenteuer Mathematik: Brücken zwischen Wirklichkeit und Fiktion, 5. Auflage | Pierre Basieux | download](https://b-ok.cc/book/1258420/84b973)
 book book * [An Introduction to the Language of Category Theory](http://libgen.is/book/index.php?md5=C80DAFD46FB800CB18E98E2003D3ED64)
@@ -273,8 +273,8 @@ book * [booklooker.de: antiquarische und gebrauchte Bücher kaufen und verkaufen
 book * [My Purchases](https://www.abebooks.com/servlet/BuyerOrderTrackPL)
 book * [Search Results - Springer](https://link.springer.com/search?facet-discipline=%22Mathematics%22&package=mat-covid19_textbooks&facet-content-type=%22Book%22)
 book * [Springe - deutsche Lehrbücher](https://link.springer.com/search?facet-discipline=%22Mathematics%22&facet-content-type=%22Book%22&package=mat-covid19_textbooks&facet-language=%22De%22)
-book * http://libgen.rs/search.php?&req=vektoranalysis&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
-book * https://libgen.rs/search.php?&req=howard+anton&phrase=1&view=simple&column=def&sort=language&sortmode=DESC
+book * [libgen.rs/search.php?&req=vektoranalysis&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](http://libgen.rs/search.php?&req=vektoranalysis&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+book * [libgen.rs/search.php?&req=howard+anton&phrase=1&view=simple&column=def&sort=language&sortmode=DESC](https://libgen.rs/search.php?&req=howard+anton&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
 book book * [Analysis 1: Differential- und Integralrechnung einer Veränderlichen | Otto Forster | download](https://b-ok.cc/book/2648132/377fc4)
 book book * [Analysis 2: Differentialrechnung im IRn, gewöhnliche Differentialgleichungen | Otto Forster (auth.) | download](https://b-ok.cc/book/3395917/1fc4e4)
 book book * [Analysis 3: Maß- und Integrationstheorie, Integralsätze im IRn und Anwendungen | Otto Forster (auth.) | download](https://b-ok.cc/book/2920836/78a033)
@@ -336,7 +336,7 @@ book book * [Structural theory of automata, semigroups, and universal algebra](h
 book book * [Übungen zur Algebra: Aufgaben - Lösungen - Probeklausuren](https://b-ok.cc/book/2356488/d39faf)
 book book * [Курс алгебры (Винберг)](https://b-ok.cc/book/2624521/0dd561)
 
-book * https://de.wikibooks.org/wiki/Beweisarchiv
+book * [de.wikibooks.org/wiki/Beweisarchiv](https://de.wikibooks.org/wiki/Beweisarchiv)
 book book - [**Proofs and Refutations: The Logic of Mathematical Discovery | Imre Lakatos; John Worrall, Elie Zahar (eds.) | download](https://b-ok.cc/book/2864005/a4a9bb)
 book book * [Beweise und Widerlegungen: Die Logik mathematischer Entdeckungen | Imre Lakatos (auth.), John Worrall, Elie Zahar (eds.) | download](https://b-ok.cc/book/2127569/47fa88)
 book book * [Grenzen der Mathematik: Eine Reise durch die Kerngebiete der mathematischen Logik](https://b-ok.org/book/920685/5d553b)
@@ -410,13 +410,13 @@ book * [MML book - excellent explanation in 4.1:](https://mml-book.github.io/boo
 
 book * [textbook chapter](http://ncert.nic.in/ncerts/l/leep204.pdf)
 
-book * http://www.math.umaine.edu/~weiss/books/linear_algebra_via_exterior_products.pdf
+book * [math.umaine.edu/~weiss/books/linear_algebra_via_exterior_products.pdf](http://www.math.umaine.edu/~weiss/books/linear_algebra_via_exterior_products.pdf)
 
 book book * [authoritative book series on determinants](https://b-ok.cc/s/?q=%22Thomas+Muir%22&e=1)
 
 book * LA Books and Notes
 - -> Read "Linear Algebra and Linear Models"
-book We've all come to love Dr. Strang's Linear Algebra Lectures from MIT. But his books are sometimes expensive for students and also not available. | Now Stanford University changed all that with their free book they released called "Introduction to Applied Linear Algebra" written by Stephen Boyd and Lieven Vandenberghe | Go get them all here on my #Github page, I will create some beginners lectures and #Python & #Julia notebooks there soon. | Root / main folder: https://lnkd.in/de8uepd | 1. The 473 page book itself: https://bit.ly/2tjFNdA | 2. Lovely Julia language companion book worth 170 pages! : https://bit.ly/2BxYGy0 | 3. Exercises book: https://bit.ly/2RZoVTf | 4, Course lecture slides: https://bit.ly/2N9TZPC | Source: Linkedin - Tarry Singh
+book We've all come to love Dr. Strang's Linear Algebra Lectures from MIT. But his books are sometimes expensive for students and also not available. | Now Stanford University changed all that with their free book they released called "Introduction to Applied Linear Algebra" written by Stephen Boyd and Lieven Vandenberghe | Go get them all here on my #Github page, I will create some beginners lectures and #Python & #Julia notebooks there soon. | Root / main folder: [lnkd.in/de8uepd](https://lnkd.in/de8uepd) | 1. The 473 page book itself: [bit.ly/2tjFNdA](https://bit.ly/2tjFNdA) | 2. Lovely Julia language companion book worth 170 pages! : [bit.ly/2BxYGy0](https://bit.ly/2BxYGy0) | 3. Exercises book: [bit.ly/2RZoVTf](https://bit.ly/2RZoVTf) | 4, Course lecture slides: [bit.ly/2N9TZPC](https://bit.ly/2N9TZPC) | Source: Linkedin - Tarry Singh
 book book * [Übungsbuch zur Linearen Algebra: Aufgaben und Lösungen](https://b-ok.cc/book/2920292/c6f325)
 book book * [Übungsbuch zur Linearen Algebra: Aufgaben und Lösungen](https://b-ok.cc/book/2471810/47f794)
 book * [Linear Algebra - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Linear_Algebra)
@@ -443,8 +443,8 @@ book book * [Signals and Transforms in Linear Systems Analysis](https://b-ok.cc/
 book book * [Algebras of Linear Transformations](https://b-ok.cc/book/2105147/e63e50)
 book book * [fourier books](https://libgen.is/search.php?&req=fourier&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
 book book * [Arbeitsbuch zur Linearen Algebra: Aufgaben und Lösungen](https://b-ok.cc/book/2528168/93d3d5)
-* http://sites.mathdoc.fr/archives-bourbaki/feuilleter.php?chap=2
-* http://sites.mathdoc.fr/archives-bourbaki/feuilleter.php?
+* [sites.mathdoc.fr/archives-bourbaki/feuilleter.php?chap=2](http://sites.mathdoc.fr/archives-bourbaki/feuilleter.php?chap=2)
+* [sites.mathdoc.fr/archives-bourbaki/feuilleter.php?](http://sites.mathdoc.fr/archives-bourbaki/feuilleter.php?)
 * [Matrices and Linear Transformations.epub](https://personal.onlyoffice.com/products/files/doceditor.aspx?fileid=app-gdrive%7c1v4ICoXsL71pu3863zxEGq82cItQAW_l7)
 book book * [Linear Algebra for Computational Sciences and Engineering](https://b-ok.cc/book/5222670/fde2ed)
 book book * [Linear Algebra for Everyone](https://b-ok.cc/book/1122320/fcdc15)
@@ -464,16 +464,16 @@ book * [Jan Carsten Jantzen](https://b-ok.cc/g/Jens%20Carsten%20Jantzen)
 book book * [ï¿½bungsbuch zur Linearen Algebra](https://b-ok.cc/book/654017/7d99da)
 * [LA Libro en ES](http://abstract.pugetsound.edu/aata-es/)
 book book * [Linear Algebra, Geometry and Transformation](https://b-ok.cc/book/2533347/c11dc4)
-* http://people.mpim-bonn.mpg.de/hwbllmnn/archiv/LA1.pdf
-* http://www.math.uni-frankfurt.de/~wolfart/Lehre/LinA.pdf
-* https://github.com/rsloot/Linear-Algebra
+* [people.mpim-bonn.mpg.de/hwbllmnn/archiv/LA1.pdf](http://people.mpim-bonn.mpg.de/hwbllmnn/archiv/LA1.pdf)
+* [math.uni-frankfurt.de/~wolfart/Lehre/LinA.pdf](http://www.math.uni-frankfurt.de/~wolfart/Lehre/LinA.pdf)
+* [rsloot/Linear-Algebra](https://github.com/rsloot/Linear-Algebra)
 * [Tao Linear Algebra](https://www.math.ucla.edu/~tao/resource/general/115a.3.02f/)
 * [A Brief History of Linear Algebra](http://www.math.utah.edu/~gustafso/s2012/2270/web-projects/christensen-HistoryLinearAlgebra.pdf)
 * [Nagy Notes](https://users.math.msu.edu/users/gnagy/teaching/la.pdf)
 * [Lerner Notes](https://mathematics.ku.edu/sites/math.drupal.ku.edu/files/files/LinearAlgebraNotes.pdf)
 book book * [Some geometric faces of algebra and algebraic faces of geometry [Lecture notes]](https://b-ok.cc/book/2663272/8a0e92)
 * [matrix_OLS_NYU_notes.pdf](http://web.stanford.edu/~mrosenfe/soc_meth_proj3/matrix_OLS_NYU_notes.pdf)
-book * [https://math.libretexts.org/Bookshelves/Linear_Algebra/Book%3A_A_First_Course_in_Linear_Algebra_(Kuttler)/02%3A_Matrices/2.08%3A_Elementary_Matrices](https://math.libretexts.org/Bookshelves/Linear_Algebra/Book%3A_A_First_Course_in_Linear_Algebra_(Kuttler)/02%3A_Matrices/2.08%3A_Elementary_Matrices)
+book * [math.libretexts.org/Bookshelves/Linear_Algebra/Book%3A_A_First_Course_in_Linear_Algebra_(Kuttler)/02%3A_Matrices/2.08%3A_Elementary_Matrices](https://math.libretexts.org/Bookshelves/Linear_Algebra/Book%3A_A_First_Course_in_Linear_Algebra_(Kuttler)/02%3A_Matrices/2.08%3A_Elementary_Matrices)
 book book * [Algebraic Geometry: start up course](https://b-ok.cc/book/2662960/524d96)
 book book * [Some Topics in Algebra: An Advanced Undergraduate Course at PKU | Michel Broué](https://b-ok.cc/book/2207700/8271fe)
 book book * [A Guide to Advanced Linear Algebra](https://b-ok.cc/book/2290248/1f2359)
@@ -507,7 +507,7 @@ book * [L'algèbre discrète de la transformée de Fourier : Niveau M1](http://l
 book * [Optimierungsmethoden: Eine Einführung](https://de1lib.org/book/2487201/052342)
 book * [Richard E. Silverman: free download (vector analysis etc.)](https://b-ok.cc/g/Richard%20E.%20Silverman)
 book * [Секреты интересных интегралов](http://library.lol/main/BEE16BBB72EABFE268AAE70FAAE8EC04)
-book * http://libgen.li/search.php?&req=fourier&phrase=1&view=simple&column=def&sort=language&sortmode=DESC
+book * [libgen.li/search.php?&req=fourier&phrase=1&view=simple&column=def&sort=language&sortmode=DESC](http://libgen.li/search.php?&req=fourier&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
 book book * [A concrete approach to classical analysis](https://b-ok.cc/book/504076/4f0de8)
 book book * [Adaptive differential evolution: a robust approach to multimodal problem optimization | Jingqiao Zhang, Arthur C. Sanderson (auth.) | download](https://b-ok.cc/book/592238/40ea10)
 book book * [Analysis für Fachoberschulen: Ein Lehr- und Arbeitsbuch zur modernen Mathematik](https://b-ok.cc/book/2092285/c8b302)
@@ -531,7 +531,7 @@ book book * [Übungsbuch zur Analysis 1: Aufgaben und Lösungen](https://b-ok.cc
 book book * [Übungsbuch zur Analysis 2: Aufgaben und Lösungen](https://b-ok.cc/book/2130385/571687)
 book book * [Übungsbuch zur Analysis: Aufgaben und ausführliche Lösungen (nicht nur) für Studierende der Informatik](https://b-ok.cc/book/3398051/6527f5)
 
-book * https://www.math.uni-heidelberg.de/studinfo/gerhardt/ebooks/AnalysisI.pdf
+book * [math.uni-heidelberg.de/studinfo/gerhardt/ebooks/AnalysisI.pdf](https://www.math.uni-heidelberg.de/studinfo/gerhardt/ebooks/AnalysisI.pdf)
 
 
 book * Advanced Topics - Books
@@ -754,7 +754,7 @@ book * [Mathematik: Topologie – Wikibooks, Sammlung freier Lehr-, Sach- und Fa
 book * [Mathematik: Topologie – Wikibooks, Sammlung freier Lehr-, Sach- und Fachbücher](https://de.wikibooks.org/wiki/Mathematik:_Topologie)
 book * [Solutions of the exercises and problems from Michael Nielsen's book Neural Networks and Deep Learning](https://github.com/TimotheeChauvin/NNDL-solutions)
 book * [Topology Without Tears by Sidney A. Morris. Topology book and Videos on Pure Mathematics, Topology and Writing Proofs supplementing the book](http://www.topologywithouttears.net/)
-book * https://de.wikibooks.org/wiki/Aufgabensammlung_Mathematik:_Topologie
+book * [de.wikibooks.org/wiki/Aufgabensammlung_Mathematik:_Topologie](https://de.wikibooks.org/wiki/Aufgabensammlung_Mathematik:_Topologie)
 book * [80 best topology books](https://bookauthority.org/books/best-topology-books)
 book * [Formelsammlung Mathematik: Topologie: Grundbegriffe – Wikibooks, Sammlung freier Lehr-, Sach- und Fachbücher](https://de.wikibooks.org/wiki/Formelsammlung_Mathematik:_Topologie:_Grundbegriffe)
 book book book * [1.1) Library Genesis: Benjamin Fine, Gerhard Rosenberger - The fundamental theorem of algebra](https://libgen.is/book/index.php?md5=3BB7AE5F44CDC197E248E7464017B7D3)
@@ -785,7 +785,7 @@ Knots, Molecules, and the Universe. Introduction to Topology
 Topological Signal Processing
 book * [Topology (2nd Edition): James Munkres: 9780131816299: Amazon.com: Books](https://www.amazon.com/dp/0131816292/?tag=stackoverflow17-20)
 
-book * https://exhibits.library.duke.edu/exhibits/show/mappingthecity/maptypes
+book * [exhibits.library.duke.edu/exhibits/show/mappingthecity/maptypes](https://exhibits.library.duke.edu/exhibits/show/mappingthecity/maptypes)
 
 
 
@@ -837,11 +837,11 @@ La guerre des nombres premiers (Pradeau)
 
 Games of Strategy : Dixit, Avinash K
 
-* https://www.cis.upenn.edu/~jean/home.html
+* [cis.upenn.edu/~jean/home.html](https://www.cis.upenn.edu/~jean/home.html)
 book * [Erkläre den Begriff Vakuum · Noch mehr genial schlagfertige Antworten auf nervige Prüfungsfragen](http://library.lol/main/AB48F5ABB0D319B77AE1C504CF8FF1A0)
 book book * [Handbook of Graph Theory, Second Edition](http://library.lol/main/F1D5E95C95C127202B6DA253EEE2DECA)
 * [Statistics II](http://coltekin.net/cagri/courses/statsII/)
-* https://github.com/pdelfino/elon-analise-real
+* [pdelfino/elon-analise-real](https://github.com/pdelfino/elon-analise-real)
 * [MAT327 - Summer 2019](https://www.math.toronto.edu/ivan/mat327/)
 book * [7.3: Hexadecimal (base 16) - Mathematics LibreTexts](https://math.libretexts.org/Bookshelves/Combinatorics_and_Discrete_Mathematics/A_Cool_Brisk_Walk_Through_Discrete_Mathematics_(Davies)/07%3A_Counting/7.3%3A_Hexadecimal_(base_16))
 
@@ -884,31 +884,31 @@ book * [Numerische Mathematik](https://b-ok.cc/s/?q=Numerische+Mathematik)
 book book * [Algorithms for computer algebra](https://b-ok.cc/book/437326/70e70e)
 book book * [Numerical Analysis: Mathematics of Scientific Computing](https://b-ok.cc/book/3711944/1a9c5d)
 
-book * https://books.google.com/books?id=ybpvZ3n76KoC&pg=PA83&lpg=PA83&dq=instrumental+variables+in+public/private+evaluations&source=bl&ots=bdOL5cQR1D&sig=JuTttI5tNMx8IEpqZtsaEBCXLrs&hl=es&sa=X&ved=0ahUKEwiWgr-V3-PTAhVqx1QKHTxKB-YQ6AEIUTAF#v=onepage&q=instrumental%20variables%20in%20public%2Fprivate%20evaluations&f=false
+book * [books.google.com/books?id=ybpvZ3n76KoC&pg=PA83&lpg=PA83&dq=instrumental+variables+in+public/private+evaluations&source=bl&ots=bdOL5cQR1D&sig=JuTttI5tNMx8IEpqZtsaEBCXLrs&hl=es&sa=X&ved=0ahUKEwiWgr-V3-PTAhVqx1QKHTxKB-YQ6AEIUTAF#v=onepage&q=instrumental%20variables%20in%20public%2Fprivate%20evaluations&f=false](https://books.google.com/books?id=ybpvZ3n76KoC&pg=PA83&lpg=PA83&dq=instrumental+variables+in+public/private+evaluations&source=bl&ots=bdOL5cQR1D&sig=JuTttI5tNMx8IEpqZtsaEBCXLrs&hl=es&sa=X&ved=0ahUKEwiWgr-V3-PTAhVqx1QKHTxKB-YQ6AEIUTAF#v=onepage&q=instrumental%20variables%20in%20public%2Fprivate%20evaluations&f=false)
 book * [Baum](http://www.stata.com/bookstore/modern-econometrics-stata/)
 book * [Micro Sata Book](http://www.stata.com/bookstore/microeconometrics-stata/)
 book * [Principles of Econometrics with R](https://bookdown.org/ccolonescu/RPoE4/)
-book * https://books.google.com/books?id=ou0xxPriEGYC&pg=PA61#v=onepage&q&f=false
+book * [books.google.com/books?id=ou0xxPriEGYC&pg=PA61#v=onepage&q&f=false](https://books.google.com/books?id=ou0xxPriEGYC&pg=PA61#v=onepage&q&f=false)
 
 book * [List of websites, ebooks, downloads, etc. for mobile users and people too lazy to read the sidebar. : learnmath](https://www.reddit.com/r/learnmath/comments/8p922p/list_of_websites_ebooks_downloads_etc_for_mobile/)
 book * [Free (and legal) mathematics textbooks](https://www.reddit.com/r/mathbooks)
 book book - > algèbre linéaire: free download. Ebooks library. On-line books store on Z-Library
 book * [Kenneth Kuttler - excellent books](https://klkuttler.com/)
 
-book * https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks
+book * [de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks](https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks)
 book book * [Ian Stewart Books](https://b-ok.cc/g/Ian%20Stewart)
 
 book * [MML book](https://mml-book.github.io/)
-book * https://books.google.com/books?id=SxX0BQAAQBAJ&pg=PA302&lpg=PA302&dq=%C3%B6konometrie+mit+matrizen&source=bl&ots=I3h48lwE_-&sig=dX9od0sz_3L00vbZaNqtGzQ88Go&hl=es&sa=X&ved=0ahUKEwjb-JfHrMPSAhXkxlQKHSj0Cm8Q6AEIVDAI#v=onepage&q=%C3%B6konometrie%20mit%20matrizen&f=false
+book * [books.google.com/books?id=SxX0BQAAQBAJ&pg=PA302&lpg=PA302&dq=%C3%B6konometrie+mit+matrizen&source=bl&ots=I3h48lwE_-&sig=dX9od0sz_3L00vbZaNqtGzQ88Go&hl=es&sa=X&ved=0ahUKEwjb-JfHrMPSAhXkxlQKHSj0Cm8Q6AEIVDAI#v=onepage&q=%C3%B6konometrie%20mit%20matrizen&f=false](https://books.google.com/books?id=SxX0BQAAQBAJ&pg=PA302&lpg=PA302&dq=%C3%B6konometrie+mit+matrizen&source=bl&ots=I3h48lwE_-&sig=dX9od0sz_3L00vbZaNqtGzQ88Go&hl=es&sa=X&ved=0ahUKEwjb-JfHrMPSAhXkxlQKHSj0Cm8Q6AEIVDAI#v=onepage&q=%C3%B6konometrie%20mit%20matrizen&f=false)
 book book * [The Search for Mathematical Roots, 1870-1940](https://b-ok.cc/book/644999/d8ba35)
 
 book book * [The Search for Mathematical Roots, 1870-1940](https://b-ok.cc/book/644999/d8ba35)
 book book * [Lecture notes on computer algebra](https://b-ok.cc/book/437349/0ab8a3)
 book book * [Generalized Inverses of Linear Transformations](https://b-ok.cc/book/813655/bdadb7)
 
-book * https://stanford.edu/~boyd/cvxbook/
-book * https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Lineare_Algebra_1
-book * http://stanford.edu/~boyd/cvxbook/cvxbook_additional_exercises/
+book * [stanford.edu/~boyd/cvxbook/](https://stanford.edu/~boyd/cvxbook/)
+book * [de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Lineare_Algebra_1](https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Lineare_Algebra_1)
+book * [stanford.edu/~boyd/cvxbook/cvxbook_additional_exercises/](http://stanford.edu/~boyd/cvxbook/cvxbook_additional_exercises/)
 book * [Mathe für Nicht-Freaks](https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks)
 book * [Minitab (MULTI)](http://support.minitab.com/de-de/minitab/17/topic-library/basic-statistics-and-graphs/introductory-concepts/basic-concepts/descriptive-inferential-stats/)
 
@@ -922,101 +922,101 @@ book | DIFFERENTIAL GEOMETRY | Book for Intuition: “A Geometric Approach to Di
 book | LINEAR ALGEBRA | > Book: “Linear Algebra Done Right” by Sheldon Axler |
 book | TOPOLOGY | Book: “Topology through Inquiry” by Su and Starbird |
 
-| Foundations | http://www.amazon.com/gp/product/019870643X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=019870643X&linkCode=as2&tag=quant0f-20&linkId=3AJLKA5VEOJAJ3GZ |
-|  | http://www.amazon.com/gp/product/3540761780/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=3540761780&linkCode=as2&tag=quant0f-20&linkId=FGUMH3YNJ3GYRKTK |
-book book |  | https://b-ok.cc/book/2295450/cc16e6 |
-| Real Analysis - Sequences and Series | http://www.amazon.com/gp/product/1107444535/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1107444535&linkCode=as2&tag=quant0f-20&linkId=Z4323JQPORUZ76M5 |
+| Foundations | [amazon.com/gp/product/019870643X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=019870643X&linkCode=as2&tag=quant0f-20&linkId=3AJLKA5VEOJAJ3GZ](http://www.amazon.com/gp/product/019870643X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=019870643X&linkCode=as2&tag=quant0f-20&linkId=3AJLKA5VEOJAJ3GZ) |
+|  | [amazon.com/gp/product/3540761780/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=3540761780&linkCode=as2&tag=quant0f-20&linkId=FGUMH3YNJ3GYRKTK](http://www.amazon.com/gp/product/3540761780/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=3540761780&linkCode=as2&tag=quant0f-20&linkId=FGUMH3YNJ3GYRKTK) |
+book book |  | [b-ok.cc/book/2295450/cc16e6](https://b-ok.cc/book/2295450/cc16e6) |
+| Real Analysis - Sequences and Series | [amazon.com/gp/product/1107444535/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1107444535&linkCode=as2&tag=quant0f-20&linkId=Z4323JQPORUZ76M5](http://www.amazon.com/gp/product/1107444535/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1107444535&linkCode=as2&tag=quant0f-20&linkId=Z4323JQPORUZ76M5) |
 |  | Real Analysis (John Howie) |
 |  | Principles of Mathematical Analysis (Walter Rudin) |
 
-| Linear Algebra | http://www.amazon.com/gp/product/0980232716/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0980232716&linkCode=as2&tag=quant0f-20&linkId=KVXLGYYIFBRDY6XQ by Gilbert Strang |
+| Linear Algebra | [amazon.com/gp/product/0980232716/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0980232716&linkCode=as2&tag=quant0f-20&linkId=KVXLGYYIFBRDY6XQ](http://www.amazon.com/gp/product/0980232716/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0980232716&linkCode=as2&tag=quant0f-20&linkId=KVXLGYYIFBRDY6XQ) by Gilbert Strang |
 |  | Basic Linear Algebra by T.S. Blyth and E.F. Robertson |
-|  | http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/ by Gilbert Strang |
-| Ordinary Differential Equations - Introduction | http://www.amazon.com/gp/product/0521533910/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0521533910&linkCode=as2&tag=quant0f-20&linkId=KF522F6G7QIW4D6V by James Robinson |
-|  | http://www.amazon.com/gp/product/0470458313/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470458313&linkCode=as2&tag=quant0f-20&linkId=2PVVR5ILPVXS5MDB by William Boyce and Richard DiPrima |
-|  | http://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/video-lectures/ by Arthur Mattuck |
-| Geometry - Euclidean | http://www.amazon.com/gp/product/1852330589/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1852330589&linkCode=as2&tag=quant0f-20&linkId=HTNAVLGZFYDO5O5V by Roger Fenn |
-| Algebra - Group Theory | http://www.amazon.com/gp/product/034061045X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=034061045X&linkCode=as2&tag=quant0f-20&linkId=QNZEO2SDHAOEQH3Z by Camilla Jordan and David Jordan |
-|  | http://www.amazon.com/gp/product/0070041245/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0070041245&linkCode=as2&tag=quant0f-20&linkId=5JM5YTBVUAFTWXHW by Benjamin Baumslag and Bruce Chandle |
-|  | http://www.amazon.com/gp/product/3540761772/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=3540761772&linkCode=as2&tag=quant0f-20&linkId=IZZ5NMR2MFKPNKB2 by David Wallace |
-| Probability | http://www.amazon.com/gp/product/032179477X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=032179477X&linkCode=as2&tag=quant0f-20&linkId=I3YP5554EHDXFVCB by Sheldon Ross |
-|  | http://www.amazon.com/gp/product/007179557X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=007179557X&linkCode=as2&tag=quant0f-20&linkId=L6YZ27XSZ45N4OWO by Murray Spiegel, Jason Schiller and Alu Srinivasan |
-|  | https://www.coursera.org/course/probability |
-| Mathematical Computing | http://www.amazon.com/gp/product/1579550770/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1579550770&linkCode=as2&tag=quant0f-20&linkId=W5BK2HTKELZNUJ5K by Cliff Hastings |
-|  | http://www.amazon.com/gp/product/0124058760/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0124058760&linkCode=as2&tag=quant0f-20&linkId=NBKDJLYUJIPGRSSP by Stormy Attaway |
-| Real Analysis - Riemann Integral | http://www.amazon.com/gp/product/007054235X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=007054235X&linkCode=as2&tag=quant0f-20&linkId=QRDC7X23HP3VSV3H by Walter Rudin |
-book | Metric Spaces | http://www.amazon.com/Introduction-Metric-Topological-Spaces-Mathematics/dp/019956308X/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462357554&sr=1-1&keywords=sutherland+metric+spaces&linkCode=ll1&tag=quant0f-20&linkId=e18e63d56e126cc6e6deacaf0b4344ae by W.A. Sutherland |
-book |  | http://www.amazon.com/Metric-Spaces-Springer-Undergraduate-Mathematics/dp/1846283698/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462357598&sr=1-1&keywords=springer+undergraduate+metric+spaces&linkCode=ll1&tag=quant0f-20&linkId=170fb8df57086dd51ff40a47702abca0 by M. O'Searcoid |
-| Vector Calculus | http://www.amazon.com/Vector-Calculus-Paul-C-Matthews/dp/3540761802/ref=as_li_ss_tl?ie=UTF8&keywords=vector%20calculus%20matthews&qid=1462356709&ref_=sr_1_1&sr=8-1&linkCode=ll1&tag=quant0f-20&linkId=2ee37921b2c29609ee16e625280168bb by P.C. Matthews |
-|  | http://www.amazon.com/Div-Grad-Curl-All-That/dp/0393925161/ref=as_li_ss_tl?ie=UTF8&dpID=41A-EcLPdtL&dpSrc=sims&preST=_AC_UL320_SR212%2C320_&refRID=1RABFYGFE3HM2M4PRWZ0&linkCode=ll1&tag=quant0f-20&linkId=faebeaa7f5197dde91741fb34da590a2 by H.M. Schey |
-|  | http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/ |
-book | Ordinary Differential Equations - Non-linearity and Chaos | http://www.amazon.com/Ordinary-Differential-Equations-Qualitative-Undergraduate/dp/1447163974/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462450003&sr=1-1&keywords=Ordinary+Differential+Equations%3A+Analysis%2C+Qualitative+Theory+and+Control&linkCode=ll1&tag=quant0f-20&linkId=a088fc638f5ab467fb30be550a8aa06e by H. Logemann and E.P. Ryan |
-book |  | http://www.amazon.com/Stability-Instability-Chaos-Introduction-Differential/dp/0521425662/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462450817&sr=1-1&keywords=Stability%2C+Instability+and+Chaos&linkCode=ll1&tag=quant0f-20&linkId=b4972aac1a52b6da17321c086c85656d by P. Glendinning |
-| Geometry - Non-Euclidean | http://www.amazon.com/gp/product/1852330589/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1852330589&linkCode=as2&tag=quant0f-20&linkId=HTNAVLGZFYDO5O5V by Roger Fenn |
-book |  | http://www.amazon.com/Introduction-Projective-Geometry-Dover-Mathematics/dp/048646895X/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462452986&sr=1-2&keywords=projective+geometry&linkCode=ll1&tag=quant0f-20&linkId=6dca31f60547317e2f5d692a1bf74225 by C.R. Wylie, Jr. |
-book |  | http://www.amazon.com/Non-Euclidean-Geometry-Mathematical-Association-Textbooks/dp/0883855224/ref=as_li_ss_tl?ie=UTF8&dpID=414L7l8%2B6jL&dpSrc=sims&preST=_AC_UL320_SR224%2C320_&refRID=07C9TM4ZV074EPWFM911&linkCode=ll1&tag=quant0f-20&linkId=c4158b9869d395f02af03ceb5db493ef by H.S.M. Coxeter |
-book | Abstract Algebra | http://www.amazon.com/Classic-Algebra-P-M-Cohn/dp/047187731X/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462456303&sr=1-2&keywords=algebra+cohn&linkCode=ll1&tag=quant0f-20&linkId=ae20e6f98c4e58064a28169e3d671ba8 by P.M. Cohn |
-book |  | http://www.amazon.com/Concrete-Abstract-Algebra-Numbers-Gr%25f6bner/dp/0521534100/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462456438&sr=1-1&keywords=concrete+abstract+algebra&linkCode=ll1&tag=quant0f-20&linkId=18a1b6ba0e3048c4871454f4a66b324c by N. Lauritzen |
-book | Stochastic Processes | http://www.amazon.com/Basic-Stochastic-Processes-Zdzislaw-Brzezniak/dp/3540761756/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462454719&sr=1-1&keywords=basic+stochastic+processes&linkCode=ll1&tag=quant0f-20&linkId=84b735e8749cbe452a1261c6f1f0c3a0 by by Z. Brzezniak and T. Zastawniak |
-book |  | http://www.amazon.com/Stochastic-Calculus-Finance-Binomial-Springer/dp/0387249680/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462455759&sr=1-1&keywords=stochastic+calculus+for+finance+i&linkCode=ll1&tag=quant0f-20&linkId=54f97335b2feeddef872abb7c770be36 by S. Shreve |
-| Numerical Analysis | http://www.amazon.com/Numerical-Analysis-Richard-L-Burden/dp/1305253663/ref=as_li_ss_tl?ie=UTF8&qid=1462461281&sr=8-1&keywords=burden+faires+numerical+analysis&linkCode=ll1&tag=quant0f-20&linkId=fe56fecb66fe8b7b1a74165bed30d751 by R.L. Burden, J.D. Faires and A.M. Burden |
-|  | http://www.amazon.com/Numerical-Recipes-3rd-Scientific-Computing/dp/0521880688/ref=as_li_ss_tl?ie=UTF8&qid=1462461404&sr=8-2-spell&keywords=numerical+recipess+in+c%2B%2B&linkCode=ll1&tag=quant0f-20&linkId=6592820a0bcdc3ff6abd6dae642db406 by W.H. Press, S.A. Teukolsky, W.T. Vetterling and B.P. Flannery |
-| Statistics | http://www.amazon.com/gp/product/007179557X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=007179557X&linkCode=as2&tag=quant0f-20&linkId=L6YZ27XSZ45N4OWO by Murray Spiegel, Jason Schiller and Alu Srinivasan |
-book |  | http://www.amazon.com/Probability-Statistics-Example-Basic/dp/1107603587/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462460767&sr=1-1&keywords=Probability+and+Statistics+by+Example%3A+Basic+Probability+and+Statistics&linkCode=ll1&tag=quant0f-20&linkId=fadd39f397b23aa12faef119220910e5 by Y. Suhov and M. Kelbert |
-|  | http://www.amazon.com/Statistical-Inference-George-Casella/dp/0534243126/ref=as_li_ss_tl?_encoding=UTF8&me=&linkCode=ll1&tag=quant0f-20&linkId=468ae8dbd73c1d2c6a986dfd04ae9499 by G. Casella and R.L. Berger |
-| Complex Analysis | http://amzn.to/2bc3LAm by J.M. Howie |
-|  | http://amzn.to/2aHPff4 by I. Stewart and D. Tall |
-|  | http://amzn.to/2aCRTDl by T. Needham |
-|  | http://ocw.mit.edu/courses/mathematics/18-04-complex-variables-with-applications-fall-2003/lecture-notes/ by Professor Alar Toomre |
-|  | https://www.coursera.org/learn/complex-analysis by Dr. Petra Bonfert-Taylor |
-| Topology | http://amzn.to/2bUJTkT by W. A. Sutherland |
-|  | http://amzn.to/2bEhuk6 by M. D. Crossley |
-| Ring Theory | http://amzn.to/2bEeRjq by D. A. R. Wallace |
-|  | http://amzn.to/2ct3yKY by P. M. Cohn |
-|  | http://amzn.to/2cf8gYO by D. M. Burton |
-| Fluid Dynamics | http://amzn.to/2aOFlw4 by D. J. Acheson |
-|  | http://amzn.to/2aOFEqm by Frank M. White |
-|  | http://amzn.to/2aCy3rT by J. D. Anderson |
-|  | http://ocw.mit.edu/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/fluid-mechanics/ by Professor Mark Drela |
-| Measure Theory | http://amzn.to/2aIAuPe by M. Capinski and E. Kopp |
-|  | http://ocw.mit.edu/courses/mathematics/18-125-measure-and-integration-fall-2003/lecture-notes/ by Professor Jeff Viaclovsky and Ethan Brown |
+|  | [ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) by Gilbert Strang |
+| Ordinary Differential Equations - Introduction | [amazon.com/gp/product/0521533910/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0521533910&linkCode=as2&tag=quant0f-20&linkId=KF522F6G7QIW4D6V](http://www.amazon.com/gp/product/0521533910/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0521533910&linkCode=as2&tag=quant0f-20&linkId=KF522F6G7QIW4D6V) by James Robinson |
+|  | [amazon.com/gp/product/0470458313/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470458313&linkCode=as2&tag=quant0f-20&linkId=2PVVR5ILPVXS5MDB](http://www.amazon.com/gp/product/0470458313/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470458313&linkCode=as2&tag=quant0f-20&linkId=2PVVR5ILPVXS5MDB) by William Boyce and Richard DiPrima |
+|  | [ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/video-lectures/](http://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/video-lectures/) by Arthur Mattuck |
+| Geometry - Euclidean | [amazon.com/gp/product/1852330589/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1852330589&linkCode=as2&tag=quant0f-20&linkId=HTNAVLGZFYDO5O5V](http://www.amazon.com/gp/product/1852330589/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1852330589&linkCode=as2&tag=quant0f-20&linkId=HTNAVLGZFYDO5O5V) by Roger Fenn |
+| Algebra - Group Theory | [amazon.com/gp/product/034061045X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=034061045X&linkCode=as2&tag=quant0f-20&linkId=QNZEO2SDHAOEQH3Z](http://www.amazon.com/gp/product/034061045X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=034061045X&linkCode=as2&tag=quant0f-20&linkId=QNZEO2SDHAOEQH3Z) by Camilla Jordan and David Jordan |
+|  | [amazon.com/gp/product/0070041245/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0070041245&linkCode=as2&tag=quant0f-20&linkId=5JM5YTBVUAFTWXHW](http://www.amazon.com/gp/product/0070041245/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0070041245&linkCode=as2&tag=quant0f-20&linkId=5JM5YTBVUAFTWXHW) by Benjamin Baumslag and Bruce Chandle |
+|  | [amazon.com/gp/product/3540761772/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=3540761772&linkCode=as2&tag=quant0f-20&linkId=IZZ5NMR2MFKPNKB2](http://www.amazon.com/gp/product/3540761772/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=3540761772&linkCode=as2&tag=quant0f-20&linkId=IZZ5NMR2MFKPNKB2) by David Wallace |
+| Probability | [amazon.com/gp/product/032179477X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=032179477X&linkCode=as2&tag=quant0f-20&linkId=I3YP5554EHDXFVCB](http://www.amazon.com/gp/product/032179477X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=032179477X&linkCode=as2&tag=quant0f-20&linkId=I3YP5554EHDXFVCB) by Sheldon Ross |
+|  | [amazon.com/gp/product/007179557X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=007179557X&linkCode=as2&tag=quant0f-20&linkId=L6YZ27XSZ45N4OWO](http://www.amazon.com/gp/product/007179557X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=007179557X&linkCode=as2&tag=quant0f-20&linkId=L6YZ27XSZ45N4OWO) by Murray Spiegel, Jason Schiller and Alu Srinivasan |
+|  | [coursera.org/course/probability](https://www.coursera.org/course/probability) |
+| Mathematical Computing | [amazon.com/gp/product/1579550770/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1579550770&linkCode=as2&tag=quant0f-20&linkId=W5BK2HTKELZNUJ5K](http://www.amazon.com/gp/product/1579550770/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1579550770&linkCode=as2&tag=quant0f-20&linkId=W5BK2HTKELZNUJ5K) by Cliff Hastings |
+|  | [amazon.com/gp/product/0124058760/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0124058760&linkCode=as2&tag=quant0f-20&linkId=NBKDJLYUJIPGRSSP](http://www.amazon.com/gp/product/0124058760/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0124058760&linkCode=as2&tag=quant0f-20&linkId=NBKDJLYUJIPGRSSP) by Stormy Attaway |
+| Real Analysis - Riemann Integral | [amazon.com/gp/product/007054235X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=007054235X&linkCode=as2&tag=quant0f-20&linkId=QRDC7X23HP3VSV3H](http://www.amazon.com/gp/product/007054235X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=007054235X&linkCode=as2&tag=quant0f-20&linkId=QRDC7X23HP3VSV3H) by Walter Rudin |
+book | Metric Spaces | [amazon.com/Introduction-Metric-Topological-Spaces-Mathematics/dp/019956308X/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462357554&sr=1-1&keywords=sutherland+metric+spaces&linkCode=ll1&tag=quant0f-20&linkId=e18e63d56e126cc6e6deacaf0b4344ae](http://www.amazon.com/Introduction-Metric-Topological-Spaces-Mathematics/dp/019956308X/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462357554&sr=1-1&keywords=sutherland+metric+spaces&linkCode=ll1&tag=quant0f-20&linkId=e18e63d56e126cc6e6deacaf0b4344ae) by W.A. Sutherland |
+book |  | [amazon.com/Metric-Spaces-Springer-Undergraduate-Mathematics/dp/1846283698/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462357598&sr=1-1&keywords=springer+undergraduate+metric+spaces&linkCode=ll1&tag=quant0f-20&linkId=170fb8df57086dd51ff40a47702abca0](http://www.amazon.com/Metric-Spaces-Springer-Undergraduate-Mathematics/dp/1846283698/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462357598&sr=1-1&keywords=springer+undergraduate+metric+spaces&linkCode=ll1&tag=quant0f-20&linkId=170fb8df57086dd51ff40a47702abca0) by M. O'Searcoid |
+| Vector Calculus | [amazon.com/Vector-Calculus-Paul-C-Matthews/dp/3540761802/ref=as_li_ss_tl?ie=UTF8&keywords=vector%20calculus%20matthews&qid=1462356709&ref_=sr_1_1&sr=8-1&linkCode=ll1&tag=quant0f-20&linkId=2ee37921b2c29609ee16e625280168bb](http://www.amazon.com/Vector-Calculus-Paul-C-Matthews/dp/3540761802/ref=as_li_ss_tl?ie=UTF8&keywords=vector%20calculus%20matthews&qid=1462356709&ref_=sr_1_1&sr=8-1&linkCode=ll1&tag=quant0f-20&linkId=2ee37921b2c29609ee16e625280168bb) by P.C. Matthews |
+|  | [amazon.com/Div-Grad-Curl-All-That/dp/0393925161/ref=as_li_ss_tl?ie=UTF8&dpID=41A-EcLPdtL&dpSrc=sims&preST=_AC_UL320_SR212%2C320_&refRID=1RABFYGFE3HM2M4PRWZ0&linkCode=ll1&tag=quant0f-20&linkId=faebeaa7f5197dde91741fb34da590a2](http://www.amazon.com/Div-Grad-Curl-All-That/dp/0393925161/ref=as_li_ss_tl?ie=UTF8&dpID=41A-EcLPdtL&dpSrc=sims&preST=_AC_UL320_SR212%2C320_&refRID=1RABFYGFE3HM2M4PRWZ0&linkCode=ll1&tag=quant0f-20&linkId=faebeaa7f5197dde91741fb34da590a2) by H.M. Schey |
+|  | [ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) |
+book | Ordinary Differential Equations - Non-linearity and Chaos | [amazon.com/Ordinary-Differential-Equations-Qualitative-Undergraduate/dp/1447163974/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462450003&sr=1-1&keywords=Ordinary+Differential+Equations%3A+Analysis%2C+Qualitative+Theory+and+Control&linkCode=ll1&tag=quant0f-20&linkId=a088fc638f5ab467fb30be550a8aa06e](http://www.amazon.com/Ordinary-Differential-Equations-Qualitative-Undergraduate/dp/1447163974/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462450003&sr=1-1&keywords=Ordinary+Differential+Equations%3A+Analysis%2C+Qualitative+Theory+and+Control&linkCode=ll1&tag=quant0f-20&linkId=a088fc638f5ab467fb30be550a8aa06e) by H. Logemann and E.P. Ryan |
+book |  | [amazon.com/Stability-Instability-Chaos-Introduction-Differential/dp/0521425662/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462450817&sr=1-1&keywords=Stability%2C+Instability+and+Chaos&linkCode=ll1&tag=quant0f-20&linkId=b4972aac1a52b6da17321c086c85656d](http://www.amazon.com/Stability-Instability-Chaos-Introduction-Differential/dp/0521425662/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462450817&sr=1-1&keywords=Stability%2C+Instability+and+Chaos&linkCode=ll1&tag=quant0f-20&linkId=b4972aac1a52b6da17321c086c85656d) by P. Glendinning |
+| Geometry - Non-Euclidean | [amazon.com/gp/product/1852330589/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1852330589&linkCode=as2&tag=quant0f-20&linkId=HTNAVLGZFYDO5O5V](http://www.amazon.com/gp/product/1852330589/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1852330589&linkCode=as2&tag=quant0f-20&linkId=HTNAVLGZFYDO5O5V) by Roger Fenn |
+book |  | [amazon.com/Introduction-Projective-Geometry-Dover-Mathematics/dp/048646895X/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462452986&sr=1-2&keywords=projective+geometry&linkCode=ll1&tag=quant0f-20&linkId=6dca31f60547317e2f5d692a1bf74225](http://www.amazon.com/Introduction-Projective-Geometry-Dover-Mathematics/dp/048646895X/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462452986&sr=1-2&keywords=projective+geometry&linkCode=ll1&tag=quant0f-20&linkId=6dca31f60547317e2f5d692a1bf74225) by C.R. Wylie, Jr. |
+book |  | [amazon.com/Non-Euclidean-Geometry-Mathematical-Association-Textbooks/dp/0883855224/ref=as_li_ss_tl?ie=UTF8&dpID=414L7l8%2B6jL&dpSrc=sims&preST=_AC_UL320_SR224%2C320_&refRID=07C9TM4ZV074EPWFM911&linkCode=ll1&tag=quant0f-20&linkId=c4158b9869d395f02af03ceb5db493ef](http://www.amazon.com/Non-Euclidean-Geometry-Mathematical-Association-Textbooks/dp/0883855224/ref=as_li_ss_tl?ie=UTF8&dpID=414L7l8%2B6jL&dpSrc=sims&preST=_AC_UL320_SR224%2C320_&refRID=07C9TM4ZV074EPWFM911&linkCode=ll1&tag=quant0f-20&linkId=c4158b9869d395f02af03ceb5db493ef) by H.S.M. Coxeter |
+book | Abstract Algebra | [amazon.com/Classic-Algebra-P-M-Cohn/dp/047187731X/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462456303&sr=1-2&keywords=algebra+cohn&linkCode=ll1&tag=quant0f-20&linkId=ae20e6f98c4e58064a28169e3d671ba8](http://www.amazon.com/Classic-Algebra-P-M-Cohn/dp/047187731X/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462456303&sr=1-2&keywords=algebra+cohn&linkCode=ll1&tag=quant0f-20&linkId=ae20e6f98c4e58064a28169e3d671ba8) by P.M. Cohn |
+book |  | [amazon.com/Concrete-Abstract-Algebra-Numbers-Gr%25f6bner/dp/0521534100/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462456438&sr=1-1&keywords=concrete+abstract+algebra&linkCode=ll1&tag=quant0f-20&linkId=18a1b6ba0e3048c4871454f4a66b324c](http://www.amazon.com/Concrete-Abstract-Algebra-Numbers-Gr%25f6bner/dp/0521534100/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462456438&sr=1-1&keywords=concrete+abstract+algebra&linkCode=ll1&tag=quant0f-20&linkId=18a1b6ba0e3048c4871454f4a66b324c) by N. Lauritzen |
+book | Stochastic Processes | [amazon.com/Basic-Stochastic-Processes-Zdzislaw-Brzezniak/dp/3540761756/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462454719&sr=1-1&keywords=basic+stochastic+processes&linkCode=ll1&tag=quant0f-20&linkId=84b735e8749cbe452a1261c6f1f0c3a0](http://www.amazon.com/Basic-Stochastic-Processes-Zdzislaw-Brzezniak/dp/3540761756/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462454719&sr=1-1&keywords=basic+stochastic+processes&linkCode=ll1&tag=quant0f-20&linkId=84b735e8749cbe452a1261c6f1f0c3a0) by by Z. Brzezniak and T. Zastawniak |
+book |  | [amazon.com/Stochastic-Calculus-Finance-Binomial-Springer/dp/0387249680/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462455759&sr=1-1&keywords=stochastic+calculus+for+finance+i&linkCode=ll1&tag=quant0f-20&linkId=54f97335b2feeddef872abb7c770be36](http://www.amazon.com/Stochastic-Calculus-Finance-Binomial-Springer/dp/0387249680/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462455759&sr=1-1&keywords=stochastic+calculus+for+finance+i&linkCode=ll1&tag=quant0f-20&linkId=54f97335b2feeddef872abb7c770be36) by S. Shreve |
+| Numerical Analysis | [amazon.com/Numerical-Analysis-Richard-L-Burden/dp/1305253663/ref=as_li_ss_tl?ie=UTF8&qid=1462461281&sr=8-1&keywords=burden+faires+numerical+analysis&linkCode=ll1&tag=quant0f-20&linkId=fe56fecb66fe8b7b1a74165bed30d751](http://www.amazon.com/Numerical-Analysis-Richard-L-Burden/dp/1305253663/ref=as_li_ss_tl?ie=UTF8&qid=1462461281&sr=8-1&keywords=burden+faires+numerical+analysis&linkCode=ll1&tag=quant0f-20&linkId=fe56fecb66fe8b7b1a74165bed30d751) by R.L. Burden, J.D. Faires and A.M. Burden |
+|  | [amazon.com/Numerical-Recipes-3rd-Scientific-Computing/dp/0521880688/ref=as_li_ss_tl?ie=UTF8&qid=1462461404&sr=8-2-spell&keywords=numerical+recipess+in+c%2B%2B&linkCode=ll1&tag=quant0f-20&linkId=6592820a0bcdc3ff6abd6dae642db406](http://www.amazon.com/Numerical-Recipes-3rd-Scientific-Computing/dp/0521880688/ref=as_li_ss_tl?ie=UTF8&qid=1462461404&sr=8-2-spell&keywords=numerical+recipess+in+c%2B%2B&linkCode=ll1&tag=quant0f-20&linkId=6592820a0bcdc3ff6abd6dae642db406) by W.H. Press, S.A. Teukolsky, W.T. Vetterling and B.P. Flannery |
+| Statistics | [amazon.com/gp/product/007179557X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=007179557X&linkCode=as2&tag=quant0f-20&linkId=L6YZ27XSZ45N4OWO](http://www.amazon.com/gp/product/007179557X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=007179557X&linkCode=as2&tag=quant0f-20&linkId=L6YZ27XSZ45N4OWO) by Murray Spiegel, Jason Schiller and Alu Srinivasan |
+book |  | [amazon.com/Probability-Statistics-Example-Basic/dp/1107603587/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462460767&sr=1-1&keywords=Probability+and+Statistics+by+Example%3A+Basic+Probability+and+Statistics&linkCode=ll1&tag=quant0f-20&linkId=fadd39f397b23aa12faef119220910e5](http://www.amazon.com/Probability-Statistics-Example-Basic/dp/1107603587/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1462460767&sr=1-1&keywords=Probability+and+Statistics+by+Example%3A+Basic+Probability+and+Statistics&linkCode=ll1&tag=quant0f-20&linkId=fadd39f397b23aa12faef119220910e5) by Y. Suhov and M. Kelbert |
+|  | [amazon.com/Statistical-Inference-George-Casella/dp/0534243126/ref=as_li_ss_tl?_encoding=UTF8&me=&linkCode=ll1&tag=quant0f-20&linkId=468ae8dbd73c1d2c6a986dfd04ae9499](http://www.amazon.com/Statistical-Inference-George-Casella/dp/0534243126/ref=as_li_ss_tl?_encoding=UTF8&me=&linkCode=ll1&tag=quant0f-20&linkId=468ae8dbd73c1d2c6a986dfd04ae9499) by G. Casella and R.L. Berger |
+| Complex Analysis | [amzn.to/2bc3LAm](http://amzn.to/2bc3LAm) by J.M. Howie |
+|  | [amzn.to/2aHPff4](http://amzn.to/2aHPff4) by I. Stewart and D. Tall |
+|  | [amzn.to/2aCRTDl](http://amzn.to/2aCRTDl) by T. Needham |
+|  | [ocw.mit.edu/courses/mathematics/18-04-complex-variables-with-applications-fall-2003/lecture-notes/](http://ocw.mit.edu/courses/mathematics/18-04-complex-variables-with-applications-fall-2003/lecture-notes/) by Professor Alar Toomre |
+|  | [coursera.org/learn/complex-analysis](https://www.coursera.org/learn/complex-analysis) by Dr. Petra Bonfert-Taylor |
+| Topology | [amzn.to/2bUJTkT](http://amzn.to/2bUJTkT) by W. A. Sutherland |
+|  | [amzn.to/2bEhuk6](http://amzn.to/2bEhuk6) by M. D. Crossley |
+| Ring Theory | [amzn.to/2bEeRjq](http://amzn.to/2bEeRjq) by D. A. R. Wallace |
+|  | [amzn.to/2ct3yKY](http://amzn.to/2ct3yKY) by P. M. Cohn |
+|  | [amzn.to/2cf8gYO](http://amzn.to/2cf8gYO) by D. M. Burton |
+| Fluid Dynamics | [amzn.to/2aOFlw4](http://amzn.to/2aOFlw4) by D. J. Acheson |
+|  | [amzn.to/2aOFEqm](http://amzn.to/2aOFEqm) by Frank M. White |
+|  | [amzn.to/2aCy3rT](http://amzn.to/2aCy3rT) by J. D. Anderson |
+|  | [ocw.mit.edu/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/fluid-mechanics/](http://ocw.mit.edu/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/fluid-mechanics/) by Professor Mark Drela |
+| Measure Theory | [amzn.to/2aIAuPe](http://amzn.to/2aIAuPe) by M. Capinski and E. Kopp |
+|  | [ocw.mit.edu/courses/mathematics/18-125-measure-and-integration-fall-2003/lecture-notes/](http://ocw.mit.edu/courses/mathematics/18-125-measure-and-integration-fall-2003/lecture-notes/) by Professor Jeff Viaclovsky and Ethan Brown |
 
-| Linear Functional Analysis | http://amzn.to/2aIXKKk by B.P. Rynne and M.A. Youngson |
-|  | http://amzn.to/2b3oMwU by Erwin Kreyszig |
-|  | http://ocw.mit.edu/courses/mathematics/18-102-introduction-to-functional-analysis-spring-2009/lecture-notes/ by Professor Richard Melrose |
-| Elementary Differential Geometry | http://amzn.to/2bTbIaw by S. Dineen |
-|  | http://amzn.to/2ct8LTe by A. Pressley |
-|  | http://amzn.to/2bTbKzg by C. Bär |
-| Partial Differential Equations | http://amzn.to/2bKY7BF by W. A. Strauss |
-|  | http://amzn.to/2bEL3Sw by G. Evans, J. Blackledge and P. Yardley |
-| Numerical Linear Algebra | http://amzn.to/2cfvcHt by G. H. Golub and C. F. Van Loan |
-|  | http://amzn.to/2bEMWi6 by L. N. Trefethen and D. Bau III |
-| Brownian Motion | https://amzn.to/2tsFO2G by Peter Mörters and Yuval Peres |
-|  | https://amzn.to/2GNQ6NE by Ioannis Karatzas and Steven Shreve |
-| Stochastic Analysis | https://amzn.to/2OmrPTi by Bernt Oksendal |
-|  | https://amzn.to/3b6E0NS by Peter Kloeden and Eckhard Platen |
-| Stochastic Calculus for Finance | https://amzn.to/2GPkSG7 by Steven Shreve |
-|  | https://amzn.to/3b6L5hj by Martin Baxter and Andrew Rennie |
-|  | https://amzn.to/2uWdoym by Tomas Björk |
-| Stochastic Optimal Control | https://amzn.to/2UgsFVo by Sheldon Ross |
-|  | https://amzn.to/2OkBlGf by Dimitri Bertsekas |
-|  | https://amzn.to/2ueziwM by Huyên Pham |
-| Statistical Modeling | https://amzn.to/2ueyEzl by Annette Dobson and Adrian Barnett |
-|  | https://amzn.to/31knZ2c by Peter Dunn and Gordon Smyth |
-|  | https://amzn.to/3912eXR by Julian Faraway |
-| Statistical Machine Learning | http://faculty.marshall.usc.edu/gareth-james/ISL/ by Gareth James et al. |
-|  | https://web.stanford.edu/~hastie/ElemStatLearn/ by Trevor Hastie et al. |
-|  | https://amzn.to/392z6zD by Kevin Murphy |
-|  | https://amzn.to/2GEZHX1 by Christopher Bishop |
-|  | https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about by Trevor Hastie and Robert Tibshirani |
-| Markov Chains | https://amzn.to/36VCk6e by Nicolas Privault |
-|  | https://amzn.to/2GMalvo by J. R. Norris |
-| High Performance Computing | https://amzn.to/36UROHU by Bill Chambers and Matel Zaharia |
-|  | https://amzn.to/2vLRLkO by William Gropp, Ewing Lusk and Anthony Skjellum |
-|  | https://amzn.to/2OlHbau by David Kirk and Wen-mei Hwu |
-|  | https://amzn.to/36TDzCU by Duane Storti and Mete Yurtoglu |
+| Linear Functional Analysis | [amzn.to/2aIXKKk](http://amzn.to/2aIXKKk) by B.P. Rynne and M.A. Youngson |
+|  | [amzn.to/2b3oMwU](http://amzn.to/2b3oMwU) by Erwin Kreyszig |
+|  | [ocw.mit.edu/courses/mathematics/18-102-introduction-to-functional-analysis-spring-2009/lecture-notes/](http://ocw.mit.edu/courses/mathematics/18-102-introduction-to-functional-analysis-spring-2009/lecture-notes/) by Professor Richard Melrose |
+| Elementary Differential Geometry | [amzn.to/2bTbIaw](http://amzn.to/2bTbIaw) by S. Dineen |
+|  | [amzn.to/2ct8LTe](http://amzn.to/2ct8LTe) by A. Pressley |
+|  | [amzn.to/2bTbKzg](http://amzn.to/2bTbKzg) by C. Bär |
+| Partial Differential Equations | [amzn.to/2bKY7BF](http://amzn.to/2bKY7BF) by W. A. Strauss |
+|  | [amzn.to/2bEL3Sw](http://amzn.to/2bEL3Sw) by G. Evans, J. Blackledge and P. Yardley |
+| Numerical Linear Algebra | [amzn.to/2cfvcHt](http://amzn.to/2cfvcHt) by G. H. Golub and C. F. Van Loan |
+|  | [amzn.to/2bEMWi6](http://amzn.to/2bEMWi6) by L. N. Trefethen and D. Bau III |
+| Brownian Motion | [amzn.to/2tsFO2G](https://amzn.to/2tsFO2G) by Peter Mörters and Yuval Peres |
+|  | [amzn.to/2GNQ6NE](https://amzn.to/2GNQ6NE) by Ioannis Karatzas and Steven Shreve |
+| Stochastic Analysis | [amzn.to/2OmrPTi](https://amzn.to/2OmrPTi) by Bernt Oksendal |
+|  | [amzn.to/3b6E0NS](https://amzn.to/3b6E0NS) by Peter Kloeden and Eckhard Platen |
+| Stochastic Calculus for Finance | [amzn.to/2GPkSG7](https://amzn.to/2GPkSG7) by Steven Shreve |
+|  | [amzn.to/3b6L5hj](https://amzn.to/3b6L5hj) by Martin Baxter and Andrew Rennie |
+|  | [amzn.to/2uWdoym](https://amzn.to/2uWdoym) by Tomas Björk |
+| Stochastic Optimal Control | [amzn.to/2UgsFVo](https://amzn.to/2UgsFVo) by Sheldon Ross |
+|  | [amzn.to/2OkBlGf](https://amzn.to/2OkBlGf) by Dimitri Bertsekas |
+|  | [amzn.to/2ueziwM](https://amzn.to/2ueziwM) by Huyên Pham |
+| Statistical Modeling | [amzn.to/2ueyEzl](https://amzn.to/2ueyEzl) by Annette Dobson and Adrian Barnett |
+|  | [amzn.to/31knZ2c](https://amzn.to/31knZ2c) by Peter Dunn and Gordon Smyth |
+|  | [amzn.to/3912eXR](https://amzn.to/3912eXR) by Julian Faraway |
+| Statistical Machine Learning | [faculty.marshall.usc.edu/gareth-james/ISL/](http://faculty.marshall.usc.edu/gareth-james/ISL/) by Gareth James et al. |
+|  | [web.stanford.edu/~hastie/ElemStatLearn/](https://web.stanford.edu/~hastie/ElemStatLearn/) by Trevor Hastie et al. |
+|  | [amzn.to/392z6zD](https://amzn.to/392z6zD) by Kevin Murphy |
+|  | [amzn.to/2GEZHX1](https://amzn.to/2GEZHX1) by Christopher Bishop |
+|  | [lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about) by Trevor Hastie and Robert Tibshirani |
+| Markov Chains | [amzn.to/36VCk6e](https://amzn.to/36VCk6e) by Nicolas Privault |
+|  | [amzn.to/2GMalvo](https://amzn.to/2GMalvo) by J. R. Norris |
+| High Performance Computing | [amzn.to/36UROHU](https://amzn.to/36UROHU) by Bill Chambers and Matel Zaharia |
+|  | [amzn.to/2vLRLkO](https://amzn.to/2vLRLkO) by William Gropp, Ewing Lusk and Anthony Skjellum |
+|  | [amzn.to/2OlHbau](https://amzn.to/2OlHbau) by David Kirk and Wen-mei Hwu |
+|  | [amzn.to/36TDzCU](https://amzn.to/36TDzCU) by Duane Storti and Mete Yurtoglu |
 
-book * https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/Chapter3.pdf
+book * [dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/Chapter3.pdf](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/Chapter3.pdf)
 
 book * [Book: Statistics: New Foundations, Toolbox, and Machine Learning Re...](https://www.datasciencecentral.com/profiles/blogs/free-book-statistics-new-foundations-toolbox-and-machine-learning)
 book * [Fundamentals of Mathematical Analysis](https://bookstore.ams.org/amstext-20/)
@@ -1044,7 +1044,7 @@ book * [Logica in actie [Lecture notes]](http://library.lol/main/498B38669E1693B
 book * [Mathematische Grundlagen der Informatik: Mathematisches Denken und Beweisen Eine Einführung](http://library.lol/main/E17C3322ECF4C3B3F7BCDC3910D9AB71)
 book * [Special Topics in Mathematics for Computer Scientists: Sets, Categories, Topologies and Measures](http://library.lol/main/6D24A99B1E2E63676ADC33EAC6220ABE)
 book * [Wiskunde voor bedrijfseconomen](http://library.lol/main/3D7FB54023A2AD69CF2120E75929F183)
-book * https://www.cs.utexas.edu/users/rvdg/LinAlgBook/Chapter1.pdf
+book * [cs.utexas.edu/users/rvdg/LinAlgBook/Chapter1.pdf](https://www.cs.utexas.edu/users/rvdg/LinAlgBook/Chapter1.pdf)
 book book * [Handbook of Mathematical Models for Languages and Computation](http://libgen.rs/book/index.php?md5=436AAC8F807ABC9D092E5CA79B86CCB5)
 
 book * [О философии математики](http://library.lol/main/11777857BC6AECA14ADA4140C7FA4E08)
@@ -1061,9 +1061,9 @@ book book * [Topology a Very Short Introduction](http://libgen.rs/book/index.php
 book        * [z-lib Murawski Bedürftig](https://de1lib.org/s/Murawski%20Bed%C3%BCrftig)
 book book    Béla Bollobás (math book author)
 book * [мир математики де агостини](http://libgen.rs/search.php?req=%D0%BC%D0%B8%D1%80+%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B8+%D0%B4%D0%B5+%D0%B0%D0%B3%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B8&open=0&res=25&view=simple&phrase=1&column=def)
-book * http://libgen.is/search.php?&req=walter+rudin&phrase=1&view=simple&column=def&sort=language&sortmode=DESC
-book * http://libgen.is/search.php?&req=walter+rudin&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=3
-book * http://libgen.is/search.php?req=Thoralf+R%C3%A4sch&open=0&res=25&view=simple&phrase=1&column=def
+book * [libgen.is/search.php?&req=walter+rudin&phrase=1&view=simple&column=def&sort=language&sortmode=DESC](http://libgen.is/search.php?&req=walter+rudin&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
+book * [libgen.is/search.php?&req=walter+rudin&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=3](http://libgen.is/search.php?&req=walter+rudin&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=3)
+book * [libgen.is/search.php?req=Thoralf+R%C3%A4sch&open=0&res=25&view=simple&phrase=1&column=def](http://libgen.is/search.php?req=Thoralf+R%C3%A4sch&open=0&res=25&view=simple&phrase=1&column=def)
 book        * [LIBRI DI ANALISI MATEMATICA, GEOMETRIA, ALGEBRA LINEARE e MATEMATICA VARIA GRATUITI IN PDF](https://circoncisione.forumcommunity.net/?t=56939385)
 
 book    A Beautiful Mind : A Biography of John Forbes Nash, Jr.
@@ -1075,7 +1075,7 @@ book * [How Not to Be Wrong: The Hidden Maths of Everyday Life by Jordan Ellenbe
 book * [Jean Gallier books](https://www.cis.upenn.edu/~jean/gbooks/home.html)
 book * [Probability Theory without Tears](https://b-ok.cc/s/probability%20theory%20without%20tears)
 book * [The MathCW Mathematical Function Library home](http://ftp.math.utah.edu/pub/mathcw/)
-book * https://books.google.com/books?id=20eMkmPdqUkC&pg=PA495&lpg=PA495&dq=Allgemeine+Unm%C3%B6glichkeitstheorem&source=bl&ots=bDOfXjZoB7&sig=n42KMgi_K4DqkaEGHIDqbb-_Rcg&hl=en&sa=X&ved=0CGAQ6AEwCWoVChMI9fWztOefyAIVyQWSCh0zpgJP#v=onepage&q=Allgemeine%20Unm%C3%B6glichkeitstheorem&f=false
+book * [books.google.com/books?id=20eMkmPdqUkC&pg=PA495&lpg=PA495&dq=Allgemeine+Unm%C3%B6glichkeitstheorem&source=bl&ots=bDOfXjZoB7&sig=n42KMgi_K4DqkaEGHIDqbb-_Rcg&hl=en&sa=X&ved=0CGAQ6AEwCWoVChMI9fWztOefyAIVyQWSCh0zpgJP#v=onepage&q=Allgemeine%20Unm%C3%B6glichkeitstheorem&f=false](https://books.google.com/books?id=20eMkmPdqUkC&pg=PA495&lpg=PA495&dq=Allgemeine+Unm%C3%B6glichkeitstheorem&source=bl&ots=bDOfXjZoB7&sig=n42KMgi_K4DqkaEGHIDqbb-_Rcg&hl=en&sa=X&ved=0CGAQ6AEwCWoVChMI9fWztOefyAIVyQWSCh0zpgJP#v=onepage&q=Allgemeine%20Unm%C3%B6glichkeitstheorem&f=false)
 book book * [Basiswissen Zahlentheorie: Einfuehrung in Zahlen und Zahlbereiche](https://b-ok.cc/book/505434/eff641)
 book book * [Claudi Alsina books (beauty of mathematics)](https://b-ok.cc/s/alsina%20nelsen)
 book book * [Gallier Linear Algebra and Optimization](https://b-ok.cc/book/2660488/778355)
@@ -1094,8 +1094,8 @@ book * [Hettlich](https://libgen.is/search.php?req=arens+hettlich+karpfinger&ope
 book book * [Foundations of Mathematics](https://b-ok.cc/book/2495554/841bdc)
 book book * [Historia de las matemáticas en los últimos 10.000 años | Stewart, Ian | download](https://b-ok.cc/book/3582458/b8358b)
 book book * [How Math Explains the World: A Guide to the Power of Numbers, from Car Repair to Modern Physics | James D. Stein | download](https://b-ok.cc/book/889098/fc969d)
-book * [Book review: “How Not to Be Wrong: The Power of Mathematical Thinking,” by Jordan Ellenberg - The Washington Post](https://www.washingtonpost.com/opinions/book-review-how-not-to-be-wrong-the-power-of-mathematical-thinking-by-jordan-ellenberg/2014/06/13/40527e94-d9f5-11e3-b745-87d39690c5c0_story.html?utm_term=.4880a01bed48)
-book * https://b-ok.cc/s/Raymond%20L%20Wilder
+book * [Book review: “How Not to Be Wrong: The Power of Mathematical Thinking,” by Jordan Ellenberg - The Washington Post](https://www.washingtonpost.com/opinions/book-review-how-not-to-be-wrong-the-power-of-mathematical-thinking-by-jordan-ellenberg/2014/06/13/40527e94-d9f5-11e3-b745-87d39690c5c0_story.html)
+book * [b-ok.cc/s/Raymond%20L%20Wilder](https://b-ok.cc/s/Raymond%20L%20Wilder)
 book * [Арнольд В.И.](https://libgen.is/search.php?req=%D0%B0%D1%80%D0%BD%D0%BE%D0%BB%D1%8C%D0%B4&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 book * [7. H. Pishro-Nik, Introduction to Probability, Statistics, and Random Processes (Kappa Books Publishers, Blue Bell, 2014)](https://www.probabilitycourse.com/)
 
@@ -1103,8 +1103,8 @@ book * [Множественная регрессия](http://statsoft.ru/home/t
 book * [Notation, Matrices, and Matrix Mathematics](http://onlinelibrary.wiley.com/doi/10.1002/9780470549094.app1/pdf)
 book * [метод инструментальных переменных](http://bugabooks.com/book/564-yekonometrika/69-94-metod-instrumentalnyx-peremennyx.html)
 * [http://www.parisschoolofeconomics.eu/docs/dupraz-yannick/using-weights-in-stata(1).pdf]
-book * http://www.itl.nist.gov/div898/handbook/pmd/section1/pmd143.htm
-book * http://jenni.uchicago.edu/econ312/Slides/topic2/handbook-part1_eesp1_ho_2007-04-29a_tsa.pdf
+book * [itl.nist.gov/div898/handbook/pmd/section1/pmd143.htm](http://www.itl.nist.gov/div898/handbook/pmd/section1/pmd143.htm)
+book * [jenni.uchicago.edu/econ312/Slides/topic2/handbook-part1_eesp1_ho_2007-04-29a_tsa.pdf](http://jenni.uchicago.edu/econ312/Slides/topic2/handbook-part1_eesp1_ho_2007-04-29a_tsa.pdf)
 
 Anschauliche Geometrie (Hilbert, Cohn-Vossen)
 

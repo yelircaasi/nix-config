@@ -651,6 +651,6 @@ Why is it that I feel happy for the happiness of others? Is it something innate 
 What is the “natural order of things”? Did God intentionally make us so that we need “civilization” to live? Why did He do that?
 
 How can one account for the passages about the “white and delightsome” people in the Book of Mormon and for their being changed?
-* http://chronikler.com/reflections/belief/spiritual-atheism/
+* [chronikler.com/reflections/belief/spiritual-atheism/](http://chronikler.com/reflections/belief/spiritual-atheism/)
 
 ---

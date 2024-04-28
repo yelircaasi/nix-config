@@ -2,37 +2,37 @@
 ... and other sites worth taking note of
 
 ## Collections - Well-Designed Sites
-* https://personalsit.es/
+* [personalsit.es/](https://personalsit.es/)
 
 ### Phenomenal
-* https://blog.wesleyac.com/
+* [blog.wesleyac.com/](https://blog.wesleyac.com/)
 * [Site example](https://codeyarns.github.io/tech/2012-11-30-how-to-set-a-specific-chapter-or-section-number-in-latex.html)
-* https://maelfabien.github.io/
-* http://colah.github.io/
-* https://ritchieng.live/
-* [https://shuzhanfan.github.io](https://shuzhanfan.github.io/)
+* [maelfabien.github.io/](https://maelfabien.github.io/)
+* [colah.github.io/](http://colah.github.io/)
+* [ritchieng.live/](https://ritchieng.live/)
+* [shuzhanfan.github.io](https://shuzhanfan.github.io/)
 
 
 ### Educational, Book, etc
-* https://notesonai.com/Notes+on+AI
-* https://randomekek.github.io/deep/deeplearning.html
-* http://www.math.toronto.edu/ivan/
-* https://introtcs.org/public/index.html
-* https://www.kareemalkaseer.com/
-* https://hadrienj.github.io/
-* https://mlstory.org/
-* https://www.trinilearn.com/
-* https://agill.xyz/ *** [Notgnoshi (Austin Gill)](https://github.com/Notgnoshi)
+* [notesonai.com/Notes+on+AI](https://notesonai.com/Notes+on+AI)
+* [randomekek.github.io/deep/deeplearning.html](https://randomekek.github.io/deep/deeplearning.html)
+* [math.toronto.edu/ivan/](http://www.math.toronto.edu/ivan/)
+* [introtcs.org/public/index.html](https://introtcs.org/public/index.html)
+* [kareemalkaseer.com/](https://www.kareemalkaseer.com/)
+* [hadrienj.github.io/](https://hadrienj.github.io/)
+* [mlstory.org/](https://mlstory.org/)
+* [trinilearn.com/](https://www.trinilearn.com/)
+* [agill.xyz/](https://agill.xyz/) *** [Notgnoshi (Austin Gill)](https://github.com/Notgnoshi)
 * [Game Math Series | Ming-Lun "Allen" Chou | 周明倫](http://allenchou.net/game-math-series/)
 
 ## Interesting People
 ### YouTube
 * [Hugo Larochelle](https://www.youtube.com/user/hugolarochelle)
-* https://cs-syd.eu/about
-* https://mrossinek.gitlab.io/
+* [cs-syd.eu/about](https://cs-syd.eu/about)
+* [mrossinek.gitlab.io/](https://mrossinek.gitlab.io/)
 
 ### Tools & Tech
-* https://github.com/RossKnapman/HugoTheme (great icons)
+* [RossKnapman/HugoTheme](https://github.com/RossKnapman/HugoTheme) (great icons)
 * [Academia Website](https://www.academia.edu/portfolio_creation)
 
 ## TO SORT
@@ -52,10 +52,10 @@
 * [Daria Khromenkova](https://sites.google.com/site/dariakhromenkova/)
 * [daria_khromenkova_cv.pdf](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxkYXJpYWtocm9tZW5rb3ZhfGd4OjdlMTY0NTU2ZmUzOGE3NzM)
 * [Eric Weinstein](https://www.ineteconomics.org/research/experts/eweinstein)
-* https://ekaterinakazakova.files.wordpress.com/2018/02/cv.pdf
-* https://www.bgse.uni-bonn.de/en/job-market/job-market-candidates/katja-mann-cv
-* https://www.bgse.uni-bonn.de/en/job-market/job-market-candidates/tobits-cv.pdf
-* https://www.gordon.edu/ace/
+* [ekaterinakazakova.files.wordpress.com/2018/02/cv.pdf](https://ekaterinakazakova.files.wordpress.com/2018/02/cv.pdf)
+* [bgse.uni-bonn.de/en/job-market/job-market-candidates/katja-mann-cv](https://www.bgse.uni-bonn.de/en/job-market/job-market-candidates/katja-mann-cv)
+* [bgse.uni-bonn.de/en/job-market/job-market-candidates/tobits-cv.pdf](https://www.bgse.uni-bonn.de/en/job-market/job-market-candidates/tobits-cv.pdf)
+* [gordon.edu/ace/](https://www.gordon.edu/ace/)
 * [Markus Frölich | IDEAS/RePEc](https://ideas.repec.org/e/pfr76.html)
 * [Markus Frölich | IZA - Institute of Labor Economics](https://www.iza.org/person/897/markus-frolich)
 * [Simplice A. Asongu - Project Syndicate](https://www.project-syndicate.org/columnist/simplice-asongu)
@@ -66,13 +66,13 @@
 
 
 ### Personal Sites
-* https://tlkh.dev/  ***
-* https://adamspannbauer.github.io/ ***
-* https://curiousily.com/
+* [tlkh.dev/](https://tlkh.dev/)  ***
+* [adamspannbauer.github.io/](https://adamspannbauer.github.io/) ***
+* [curiousily.com/](https://curiousily.com/)
 * [Talia Vogt](https://taliavogt.com/about/)
-* https://www.mattjustice.com/
-* https://8d9.ru/category/blog - IT blog
-* [https://uninsane.org/](https://uninsane.org/)
+* [mattjustice.com/](https://www.mattjustice.com/)
+* [8d9.ru/category/blog](https://8d9.ru/category/blog) - IT blog
+* [uninsane.org/](https://uninsane.org/)
 
 
 * ? [catonmat.net](https://catonmat.net/)
@@ -80,35 +80,35 @@
 * [Chris McDonough - YouTube](https://www.youtube.com/@ChrisMcDonough)
 * [Chris McDonough - YouTube](https://www.youtube.com/@ChrisMcDonough/playlists)
 * - Not Looked at in a While
-* http://www.math.toronto.edu/ivan/mat327/?courseinfo
-* https://sebastianraschka.com/
-* https://jeapostrophe.github.io/index.html
-* https://eleanorplatt.github.io/
-* http://brianjsingh.com/aesthetic33/
-* http://www.brianjsingh.com/
-* https://lukemuehlhauser.com/
-* http://blog.moelter-online.de/
-* https://www.daniel-braun.com/
-* https://qntm.org/
-* https://junqing-zhang.github.io/
-* https://sauravabc16.github.io/index.html
+* [math.toronto.edu/ivan/mat327/?courseinfo](http://www.math.toronto.edu/ivan/mat327/?courseinfo)
+* [sebastianraschka.com/](https://sebastianraschka.com/)
+* [jeapostrophe.github.io/index.html](https://jeapostrophe.github.io/index.html)
+* [eleanorplatt.github.io/](https://eleanorplatt.github.io/)
+* [brianjsingh.com/aesthetic33/](http://brianjsingh.com/aesthetic33/)
+* [brianjsingh.com/](http://www.brianjsingh.com/)
+* [lukemuehlhauser.com/](https://lukemuehlhauser.com/)
+* [blog.moelter-online.de/](http://blog.moelter-online.de/)
+* [daniel-braun.com/](https://www.daniel-braun.com/)
+* [qntm.org/](https://qntm.org/)
+* [junqing-zhang.github.io/](https://junqing-zhang.github.io/)
+* [sauravabc16.github.io/index.html](https://sauravabc16.github.io/index.html)
 * [Kenneth Reitz](https://www.kennethreitz.org/)
 * [François Chollet](https://fchollet.com/)
-* https://tqchen.com/
+* [tqchen.com/](https://tqchen.com/)
 * [Dylan Holmes](http://web.mit.edu/dxh/www/)
-* http://www.ritchieng.com/
+* [ritchieng.com/](http://www.ritchieng.com/)
 * [Edwin Leuven - personal site](http://leuven.economists.nl/)
 * [Josselin THUILLIEZ - Home](http://www.josselinthuilliez.com/)
 * [Kathleen Nosal](https://sites.google.com/site/kathleennosal/home)
 * [Laurens van der Maaten – Laurens van der Maaten](https://lvdmaaten.github.io/)
 * [http://madrury.github.io](http://madrury.github.io/)
-* https://randomekek.github.io/deep/deeplearning.html
-* https://eax.me/
-* https://www.louiscastricato.com/
-* http://linguist.is/
-* https://www.jonkrohn.com/
+* [randomekek.github.io/deep/deeplearning.html](https://randomekek.github.io/deep/deeplearning.html)
+* [eax.me/](https://eax.me/)
+* [louiscastricato.com/](https://www.louiscastricato.com/)
+* [linguist.is/](http://linguist.is/)
+* [jonkrohn.com/](https://www.jonkrohn.com/)
 * [Aqua Rusa - Quality Blog *****](https://aquarusa.wordpress.com/)
-* http://klokacitat.se/
+* [klokacitat.se/](http://klokacitat.se/)
 * [Albrecht Bohne](https://sites.google.com/site/albrechtbohne/home)
 * [Bobkova_CV_2017_11.pdf - Google Drive](https://drive.google.com/file/d/0B3ny1wDLYF6AV3pQVFJYWFlFUHM/view)
 * [Chia-Yu Tsai CV (2017 Nov).pdf - Google Drive](https://drive.google.com/file/d/1kK99x28sD2UGqI8vlFDj9IqC4Os2g6a1/view)
@@ -119,10 +119,10 @@
 * [Daria Khromenkova](https://sites.google.com/site/dariakhromenkova/)
 * [daria_khromenkova_cv.pdf](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxkYXJpYWtocm9tZW5rb3ZhfGd4OjdlMTY0NTU2ZmUzOGE3NzM)
 * [Eric Weinstein](https://www.ineteconomics.org/research/experts/eweinstein)
-* https://ekaterinakazakova.files.wordpress.com/2018/02/cv.pdf
-* https://www.bgse.uni-bonn.de/en/job-market/job-market-candidates/katja-mann-cv
-* https://www.bgse.uni-bonn.de/en/job-market/job-market-candidates/tobits-cv.pdf
-* https://www.gordon.edu/ace/
+* [ekaterinakazakova.files.wordpress.com/2018/02/cv.pdf](https://ekaterinakazakova.files.wordpress.com/2018/02/cv.pdf)
+* [bgse.uni-bonn.de/en/job-market/job-market-candidates/katja-mann-cv](https://www.bgse.uni-bonn.de/en/job-market/job-market-candidates/katja-mann-cv)
+* [bgse.uni-bonn.de/en/job-market/job-market-candidates/tobits-cv.pdf](https://www.bgse.uni-bonn.de/en/job-market/job-market-candidates/tobits-cv.pdf)
+* [gordon.edu/ace/](https://www.gordon.edu/ace/)
 * [Markus Frölich | IDEAS/RePEc](https://ideas.repec.org/e/pfr76.html)
 * [Markus Frölich | IZA - Institute of Labor Economics](https://www.iza.org/person/897/markus-frolich)
 * [Simplice A. Asongu - Project Syndicate](https://www.project-syndicate.org/columnist/simplice-asongu)
@@ -131,15 +131,15 @@
 * [WardFelix_CV.pdf - Google Drive](https://drive.google.com/file/d/1pp_G39Q4bKTj0hvi5b-lPmDYws1bsIMc/view)
 * [Xiaodi Wang](https://sites.google.com/view/xiaodiwang/home)
 * [Jacob Eisenstein](https://jacobeisenstein.github.io/)
-* http://marcobaroni.org/
+* [marcobaroni.org/](http://marcobaroni.org/)
 * [-> check! sarnthil (Bostan Laura-Ana-Maria) / Following](https://github.com/sarnthil?tab=following)
 * [bruno-latour.fr](http://www.bruno-latour.fr/fr.html)
 * [Herr Dr. Roman Klinger | Institut für Maschinelle Sprachverarbeitung | Universität Stuttgart](https://www.ims.uni-stuttgart.de/institut/team/Klinger/)
 * [Rob Larson](https://www.jacobinmag.com/author/rob-larson)
-* https://github.com/ageron
-* https://github.com/justmarkham
-* https://github.com/tfolkman
-* http://setosa.io/#/
+* [ageron](https://github.com/ageron)
+* [justmarkham](https://github.com/justmarkham)
+* [tfolkman](https://github.com/tfolkman)
+* [setosa.io/#/](http://setosa.io/#/)
 * [**Chris Albon](https://chrisalbon.com/)
 * [Abigail See](http://www.abigailsee.com/)
 * [Andreas Eberle: Home](http://wt.iam.uni-bonn.de/eberle/home/)
@@ -152,17 +152,17 @@
 * [Guillaume Genthial blog](https://guillaumegenthial.github.io/)
 * [Homepage of Professor Lior Rokach](http://www.ise.bgu.ac.il/faculty/liorr/)
 * [hooyuser (Huyi Chen)](https://github.com/hooyuser)
-* http://ase.tufts.edu/cogstud/jackendoff/
-* http://richardminerich.com/
-* http://ruder.io/
-* http://sametmax.com/
-* http://www.martinnowak.com/
-* https://acesounderglass.com/
-* https://chrisalbon.com/
-* https://danielmiessler.com/
-* https://github.com/ncase
-* https://sites.google.com/site/dahlenhmd/research-1
-* https://www.cs.washington.edu/people/faculty/nasmith
+* [ase.tufts.edu/cogstud/jackendoff/](http://ase.tufts.edu/cogstud/jackendoff/)
+* [richardminerich.com/](http://richardminerich.com/)
+* [ruder.io/](http://ruder.io/)
+* [sametmax.com/](http://sametmax.com/)
+* [martinnowak.com/](http://www.martinnowak.com/)
+* [acesounderglass.com/](https://acesounderglass.com/)
+* [chrisalbon.com/](https://chrisalbon.com/)
+* [danielmiessler.com/](https://danielmiessler.com/)
+* [ncase](https://github.com/ncase)
+* [sites.google.com/site/dahlenhmd/research-1](https://sites.google.com/site/dahlenhmd/research-1)
+* [cs.washington.edu/people/faculty/nasmith](https://www.cs.washington.edu/people/faculty/nasmith)
 * [Jana Beck: University of Pennsylvania Department of Linguistics](http://www.ling.upenn.edu/~janabeck/greek-corpora.html)
 * [Jonathan Mugan – Noteworthy - The Journal Blog](https://blog.usejournal.com/@jmugan)
 * [justmarkham (Kevin Markham)](https://github.com/justmarkham)
@@ -182,31 +182,31 @@
 * [Stefan Th. Gries: Teaching @ UCSB](http://www.stgries.info/teaching/overview-ucsb.html)
 * [Terra Incognita](http://blog.christianperone.com/)
 * [****Tutoriels - lehollandaisvolant.net](https://lehollandaisvolant.net/tuto/#divers)
-* http://johnerichumphries.com/
-* http://ben.orsee.org/#start
-* https://sites.google.com/site/upetronijevic/home
-* https://www.themuse.com/advice/the-35-best-personal-websites-weve-ever-seen
+* [johnerichumphries.com/](http://johnerichumphries.com/)
+* [ben.orsee.org/#start](http://ben.orsee.org/#start)
+* [sites.google.com/site/upetronijevic/home](https://sites.google.com/site/upetronijevic/home)
+* [themuse.com/advice/the-35-best-personal-websites-weve-ever-seen](https://www.themuse.com/advice/the-35-best-personal-websites-weve-ever-seen)
 * [Hello, I'm Kulani](http://www.kulanipdias.com/)
-* http://individual.utoronto.ca/cornelson/
-* http://www.jeffdenning.com/teaching
-* http://www.jonahlehrer.com/
-* http://www.jorgeluisgarcia.com/
+* [individual.utoronto.ca/cornelson/](http://individual.utoronto.ca/cornelson/)
+* [jeffdenning.com/teaching](http://www.jeffdenning.com/teaching)
+* [jonahlehrer.com/](http://www.jonahlehrer.com/)
+* [jorgeluisgarcia.com/](http://www.jorgeluisgarcia.com/)
 * [K. Baur, Lehre, Karl Franzens Universität Graz](https://imsc.uni-graz.at/baur/Teaching.html)
 * [Yuxin Yao - Home](http://yuxinyao.weebly.com/)
-* http://www.gwern.net/index
+* [gwern.net/index](http://www.gwern.net/index)
 * [Aqua Rusa - Quality Blog *****](https://aquarusa.wordpress.com/)
 * [Notgnoshi (Austin Gill)](https://github.com/Notgnoshi)
-* http://klokacitat.se/
+* [klokacitat.se/](http://klokacitat.se/)
 * [Jacob Eisenstein](https://jacobeisenstein.github.io/)
-* http://marcobaroni.org/
+* [marcobaroni.org/](http://marcobaroni.org/)
 * [-> check! sarnthil (Bostan Laura-Ana-Maria) / Following](https://github.com/sarnthil?tab=following)
 * [bruno-latour.fr](http://www.bruno-latour.fr/fr.html)
 * [Herr Dr. Roman Klinger | Institut für Maschinelle Sprachverarbeitung | Universität Stuttgart](https://www.ims.uni-stuttgart.de/institut/team/Klinger/)
 * [Rob Larson](https://www.jacobinmag.com/author/rob-larson)
-* https://github.com/ageron
-* https://github.com/justmarkham
-* https://github.com/tfolkman
-* http://setosa.io/#/
+* [ageron](https://github.com/ageron)
+* [justmarkham](https://github.com/justmarkham)
+* [tfolkman](https://github.com/tfolkman)
+* [setosa.io/#/](http://setosa.io/#/)
 * <> [**Chris Albon](https://chrisalbon.com/)
 * [Abigail See](http://www.abigailsee.com/)
 * [Andreas Eberle: Home](http://wt.iam.uni-bonn.de/eberle/home/)
@@ -220,18 +220,18 @@
 * [Guillaume Genthial blog](https://guillaumegenthial.github.io/)
 * [Homepage of Professor Lior Rokach](http://www.ise.bgu.ac.il/faculty/liorr/)
 * [hooyuser (Huyi Chen)](https://github.com/hooyuser)
-* http://ase.tufts.edu/cogstud/jackendoff/
-* http://colah.github.io/
-* http://richardminerich.com/
-* http://ruder.io/
-* http://sametmax.com/
-* http://www.martinnowak.com/
-* https://acesounderglass.com/
-* https://chrisalbon.com/
-* https://danielmiessler.com/
-* https://github.com/ncase
-* https://sites.google.com/site/dahlenhmd/research-1
-* https://www.cs.washington.edu/people/faculty/nasmith
+* [ase.tufts.edu/cogstud/jackendoff/](http://ase.tufts.edu/cogstud/jackendoff/)
+* [colah.github.io/](http://colah.github.io/)
+* [richardminerich.com/](http://richardminerich.com/)
+* [ruder.io/](http://ruder.io/)
+* [sametmax.com/](http://sametmax.com/)
+* [martinnowak.com/](http://www.martinnowak.com/)
+* [acesounderglass.com/](https://acesounderglass.com/)
+* [chrisalbon.com/](https://chrisalbon.com/)
+* [danielmiessler.com/](https://danielmiessler.com/)
+* [ncase](https://github.com/ncase)
+* [sites.google.com/site/dahlenhmd/research-1](https://sites.google.com/site/dahlenhmd/research-1)
+* [cs.washington.edu/people/faculty/nasmith](https://www.cs.washington.edu/people/faculty/nasmith)
 * [Hugo Larochelle](https://www.youtube.com/user/hugolarochelle)
 * [Jana Beck: University of Pennsylvania Department of Linguistics](http://www.ling.upenn.edu/~janabeck/greek-corpora.html)
 * [Jonathan Mugan – Noteworthy - The Journal Blog](https://blog.usejournal.com/@jmugan)
@@ -293,65 +293,65 @@
 * [Yngve Hoiseth](https://yngve.hoiseth.net/)
 * [Theodore Bluche - Research Engineer](http://www.tbluche.com/scan_attend_read.html)
 * [Vivi Nastase](https://www.cl.uni-heidelberg.de/~nastase/)
-* http://milenkofadic.com/index.html
-* https://www.fasterthan.life/
+* [milenkofadic.com/index.html](http://milenkofadic.com/index.html)
+* [fasterthan.life/](https://www.fasterthan.life/)
 * [Kyle P. Johnson](http://kyle-p-johnson.com/)
 * [Björn Rudzewitz](http://www.sfs.uni-tuebingen.de/~brzdwtz/)
-* https://github.com/mschilli87
-* https://phaazon.net/
+* [mschilli87](https://github.com/mschilli87)
+* [phaazon.net/](https://phaazon.net/)
 * [David Ingalls Bell's Homepage](https://members.tip.net.au/~dbell/)
 * [Peter Norvig](http://norvig.com/)
 * [Home](https://adamj.eu/)
 * [Thomas Wolf](https://thomwolf.io/)
-* https://jakobgm.com/
+* [jakobgm.com/](https://jakobgm.com/)
 * [Kai Hendry - YouTube](https://www.youtube.com/@kaihendry)
-* https://martinheinz.dev/
-* https://snarky.ca/
-* https://www.matthewball.vc/
-* https://github.com/hkupty
-* https://gsantner.net/
-* https://jaredkhan.com/
-* https://rebeccaskinner.net/
-* https://gsantner.net/
-* https://lukesmith.xyz/
-* https://github.com/tklitschi
-* https://www.davidosomething.com/
+* [martinheinz.dev/](https://martinheinz.dev/)
+* [snarky.ca/](https://snarky.ca/)
+* [matthewball.vc/](https://www.matthewball.vc/)
+* [hkupty](https://github.com/hkupty)
+* [gsantner.net/](https://gsantner.net/)
+* [jaredkhan.com/](https://jaredkhan.com/)
+* [rebeccaskinner.net/](https://rebeccaskinner.net/)
+* [gsantner.net/](https://gsantner.net/)
+* [lukesmith.xyz/](https://lukesmith.xyz/)
+* [tklitschi](https://github.com/tklitschi)
+* [davidosomething.com/](https://www.davidosomething.com/)
 * [monroe programs - YouTube](https://www.youtube.com/channel/UC_R_1_rGins-tF70LoxcG8A)
 * [Brandon Rhodes](https://rhodesmill.org/brandon/)
-* http://threebean.org/
+* [threebean.org/](http://threebean.org/)
 * [Ian Henry](https://ianthehenry.com/)
 * [David Kobalia](https://insolitum.github.io/)
 * [Daniel Siepmann - Friendica | Daniel Siepmann @ Daniel Siepmann - Friendica](https://friendica.daniel-siepmann.de/profile/danielsiepmann/profile)
 * [Roman Sauer](https://www.youtube.com/channel/UCddOQj0eT6M9DvI7RRwXvGA)
-* https://jonisalonen.com/
-* https://tobyho.com/index.html
-* https://timparks.com/non-fiction/out-of-my-head/
-* https://scaron.info/category/blog.html
-* https://thesquareplanet.com/
-* https://www.reddit.com/user/_mutex_
-* https://johncodes.com/
+* [jonisalonen.com/](https://jonisalonen.com/)
+* [tobyho.com/index.html](https://tobyho.com/index.html)
+* [timparks.com/non-fiction/out-of-my-head/](https://timparks.com/non-fiction/out-of-my-head/)
+* [scaron.info/category/blog.html](https://scaron.info/category/blog.html)
+* [thesquareplanet.com/](https://thesquareplanet.com/)
+* [user/_mutex_](https://www.reddit.com/user/_mutex_)
+* [johncodes.com/](https://johncodes.com/)
 * [jdhao (jdhao)](https://github.com/jdhao)
 * [raphlinus (raphlinus) / Repositories](https://github.com/raphlinus?tab=repositories)
 * [Blog - Weblog](http://markus-beuckelmann.de/)
 * [markus-beuckelmann (Markus Beuckelmann)](https://github.com/markus-beuckelmann)
 * [Gram / Projects](https://orsinium.dev/projects.html)
 * [Brandon Rohrer / cottonwood · GitLab](https://gitlab.com/brohrer/cottonwood)
-* -> see other channels https://www.youtube.com/@GavinFreeborn
-* https://fasterthanli.me/about
+* -> see other channels [](https://www.youtube.com/@GavinFreeborn)
+* [fasterthanli.me/about](https://fasterthanli.me/about)
 * [Calin Leafshade - Linux & Productivity Videos](https://youtube.com/@LeafshadeSoftware)
-* https://github.com/Strazil001?tab=repositories
-* https://github.com/joshmedeski
-* https://youtube.com/@LoganKilpatrickYT
-* https://flyx.org/
-* https://github.com/wmvanvliet
-* http://www.kfish.org/~conrad/
-* https://github.com/Cubified
-* https://pragmaticpineapple.com/
-* https://immunant.com/blog/
+* [Strazil001?tab=repositories](https://github.com/Strazil001?tab=repositories)
+* [joshmedeski](https://github.com/joshmedeski)
+* [youtube.com/@LoganKilpatrickYT](https://youtube.com/@LoganKilpatrickYT)
+* [flyx.org/](https://flyx.org/)
+* [wmvanvliet](https://github.com/wmvanvliet)
+* [kfish.org/~conrad/](http://www.kfish.org/~conrad/)
+* [Cubified](https://github.com/Cubified)
+* [pragmaticpineapple.com/](https://pragmaticpineapple.com/)
+* [immunant.com/blog/](https://immunant.com/blog/)
 * [Hackflow](https://suor.github.io/)
-* https://nicco.love/
+* [nicco.love/](https://nicco.love/)
 * [Elteoremadebeethoven (Alexander Vázquez)](https://github.com/Elteoremadebeethoven) (manim)
-*  https://xuefuzhao.github.io/
+*  [xuefuzhao.github.io/](https://xuefuzhao.github.io/)
 * [Archives - Eli Bendersky's website](https://eli.thegreenplace.net/archives/all)
 * [ArrynDoesTech - YouTube](https://www.youtube.com/@arryndoestech)
 * [Chris Portela - Cloud, Software, and Photography](https://www.chrisportela.com/)
@@ -366,10 +366,10 @@
 * [ansidev's blog | Le Minh Tri | Substack](https://ansidev.substack.com/p/wezterm-cheatsheet)
 * [bespinian Blog](https://blog.bespinian.io/)
 * [bespinian Blog](https://blog.bespinian.io/)
-* https://github.com/SergioRibera
-* https://radicle.xyz/
-* https://www.linkedin.com/in/manuel-epp/
-* https://www.youtube.com/@devaslife
-* https://www.youtube.com/@devopstoolbox
-* https://www.youtube.com/@levonog
+* [SergioRibera](https://github.com/SergioRibera)
+* [radicle.xyz/](https://radicle.xyz/)
+* [linkedin.com/in/manuel-epp/](https://www.linkedin.com/in/manuel-epp/)
+* [](https://www.youtube.com/@devaslife)
+* [](https://www.youtube.com/@devopstoolbox)
+* [](https://www.youtube.com/@levonog)
 * ansidev's blog

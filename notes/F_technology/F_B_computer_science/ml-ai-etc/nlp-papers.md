@@ -64,10 +64,10 @@
 * [graph2vec: Learning Distributed Representations of Graphs](http://www.mlgworkshop.org/2017/paper/MLG2017_paper_21.pdf)
 * [Grapheme-to-Phoneme Models for (Almost) Any Language](https://www.aclweb.org/anthology/P16-1038)
 * [How we do things with words: Analyzing text as social and cultural data](https://arxiv.org/abs/1907.01468)
-* https://blog.google/products/search/introducing-mum/
-* https://github.com/neulab/BARTScore
-* https://newsletter.ruder.io/issues/iclr-2021-outstanding-papers-char-wars-speech-first-nlp-virtual-conference-ideas-483703
-* https://openai.com/blog/dall-e/
+* [blog.google/products/search/introducing-mum/](https://blog.google/products/search/introducing-mum/)
+* [neulab/BARTScore](https://github.com/neulab/BARTScore)
+* [newsletter.ruder.io/issues/iclr-2021-outstanding-papers-char-wars-speech-first-nlp-virtual-conference-ideas-483703](https://newsletter.ruder.io/issues/iclr-2021-outstanding-papers-char-wars-speech-first-nlp-virtual-conference-ideas-483703)
+* [openai.com/blog/dall-e/](https://openai.com/blog/dall-e/)
 * [Idiom treatment experiments in machine translation](https://www.academia.edu/keypass/Skh0MXN3ekIvSUtUWlNzbWJTaEx2Z1hQNWJSSjhVNjNNS1dWN3hmOFlTYz0tLVJDODlLMU5UYXpTS3lpWFNySVFhZUE9PQ==--d6c3a2fd50cf441be61a66512d15b6ce084468ce/t/drT8b-Phx0KhA-bjTwE1/resource/work/30082484/Idiom_treatment_experiments_in_machine_translation?email_work_card=title)
 * [Improving natural language processing with human data Eye tracking and other data sources reflecting cognitive text processing](https://static-curis.ku.dk/portal/files/203773344/Ph.d._afhandling_2018_Barrett.pdf)
 * [IMS Abschlussarbeiten](https://www.ims.uni-stuttgart.de/forschung/publikationen/abschlussarbeiten/)
@@ -138,9 +138,9 @@
 
 ### > ***Purpose and Polarity of Citation: Towards NLP-based Bibliometrics
 * [[2002.12558] Modeling Future Cost for Neural Machine Translation](https://arxiv.org/abs/2002.12558)
-    Github: https://github.com/jayleicn/TVRetrieval
-    Paper: https://arxiv.org/abs/2001.09099v1
-    PyTorch implementation of MultiModal Transformer (MMT), a method for multimodal (video + subtitle) captioning: https://github.com/jayleicn/TVCaption
+    Github: [jayleicn/TVRetrieval](https://github.com/jayleicn/TVRetrieval)
+    Paper: [arxiv.org/abs/2001.09099v1](https://arxiv.org/abs/2001.09099v1)
+    PyTorch implementation of MultiModal Transformer (MMT), a method for multimodal (video + subtitle) captioning: [jayleicn/TVCaption](https://github.com/jayleicn/TVCaption)
     TVR: A Large-Scale Dataset for Video-Subtitle Moment Retrieval
 
 
@@ -152,12 +152,12 @@
 
 ### *dair-ai/ml-nlp-paper-discussions: A repo containing notes and discussions for weekly NLP paper discussions
 * [[1911.03584] On the Relationship between Self-Attention and Convolutional Layers](https://arxiv.org/abs/1911.03584)
-* [[2001.04451] Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=84280447&_hsenc=p2ANqtz--y7LgeeXIIynBqAj5tPjdwLT6wElnarXbx_V0Qgd9C8_9brh2e-9U4p6XAGVNsesQ-EHsCDGWXFXb8mFary4lEDbPOaA&_hsmi=84280447)
+* [[2001.04451] Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451)
 * [A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization](https://github.com/google-research/xtreme)
-* https://web.stanford.edu/class/cs224n/readings/
-* https://pdfs.semanticscholar.org/6718/32cd0909d99cfb7448e28520f4b56edacd2c.pdf
-* https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes04-dependencyparsing.pdf
-* https://web.stanford.edu/class/cs224n/readings/
+* [web.stanford.edu/class/cs224n/readings/](https://web.stanford.edu/class/cs224n/readings/)
+* [pdfs.semanticscholar.org/6718/32cd0909d99cfb7448e28520f4b56edacd2c.pdf](https://pdfs.semanticscholar.org/6718/32cd0909d99cfb7448e28520f4b56edacd2c.pdf)
+* [web.stanford.edu/class/cs224n/readings/cs224n-2019-notes04-dependencyparsing.pdf](https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes04-dependencyparsing.pdf)
+* [web.stanford.edu/class/cs224n/readings/](https://web.stanford.edu/class/cs224n/readings/)
 * [Hierarchical Transformers Are More Efficient Language Models](https://arxiv.org/abs/2110.13711)
     Well-Read Students Learn Better: On the Importance of Pre-training Compact Models
 * [100 NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
@@ -166,29 +166,29 @@
 * [Selected Papers](https://medium.com/huggingface/the-best-and-most-current-of-modern-natural-language-processing-5055f409a1d1)
 * [Neural Baby Talk](https://github.com/jiasenlu/NeuralBabyTalk)
 * [CapWAP: Captioning with a Purpose](https://paperswithcode.com/paper/capwap-captioning-with-a-purpose)
-    1a https://arxiv.org/abs/2109.04535
-    1b https://arxiv.org/abs/2012.15784
-    2a https://journals.sagepub.com/doi/10.1177/2053168016643346
-    2b https://aclanthology.org/K19-1047/
-    3a https://arxiv.org/abs/1904.06217
-    4a https://aclanthology.org/D18-1393/
-    4b https://aclanthology.org/K19-1047/
-    5a https://aclanthology.org/2020.acl-main.763/
-    5b https://aclanthology.org/2021.naacl-main.179/
-    6a https://aclanthology.org/D19-1565/
-    6b https://arxiv.org/abs/2108.12802
-    7a https://aclanthology.org/N19-1304/
-    7b https://arxiv.org/abs/2005.09803
-    8a https://www.cogitatiopress.com/mediaandcommunication/article/view/4217
-    8b https://direct.mit.edu/dint/article/3/2/308/100736/Cross-Context-News-Corpus-for-Protest-Event
+    1a [arxiv.org/abs/2109.04535](https://arxiv.org/abs/2109.04535)
+    1b [arxiv.org/abs/2012.15784](https://arxiv.org/abs/2012.15784)
+    2a [journals.sagepub.com/doi/10.1177/2053168016643346](https://journals.sagepub.com/doi/10.1177/2053168016643346)
+    2b [aclanthology.org/K19-1047/](https://aclanthology.org/K19-1047/)
+    3a [arxiv.org/abs/1904.06217](https://arxiv.org/abs/1904.06217)
+    4a [aclanthology.org/D18-1393/](https://aclanthology.org/D18-1393/)
+    4b [aclanthology.org/K19-1047/](https://aclanthology.org/K19-1047/)
+    5a [aclanthology.org/2020.acl-main.763/](https://aclanthology.org/2020.acl-main.763/)
+    5b [aclanthology.org/2021.naacl-main.179/](https://aclanthology.org/2021.naacl-main.179/)
+    6a [aclanthology.org/D19-1565/](https://aclanthology.org/D19-1565/)
+    6b [arxiv.org/abs/2108.12802](https://arxiv.org/abs/2108.12802)
+    7a [aclanthology.org/N19-1304/](https://aclanthology.org/N19-1304/)
+    7b [arxiv.org/abs/2005.09803](https://arxiv.org/abs/2005.09803)
+    8a [cogitatiopress.com/mediaandcommunication/article/view/4217](https://www.cogitatiopress.com/mediaandcommunication/article/view/4217)
+    8b [direct.mit.edu/dint/article/3/2/308/100736/Cross-Context-News-Corpus-for-Protest-Event](https://direct.mit.edu/dint/article/3/2/308/100736/Cross-Context-News-Corpus-for-Protest-Event)
     9a under review, uploaded on ILIAS
-    10a https://www.aclweb.org/anthology/P19-1273/ , https://www.aclweb.org/anthology/2020.acl-main.404/
-    10b https://aclanthology.org/2020.nlpcss-1.3/
-    11a https://aclanthology.org/W16-2817/
-    11b https://www.cambridge.org/core/journals/american-political-science-review/article/deliberative-democracy-in-an-unequal-world-a-textasdata-study-of-south-indias-village-assemblies/081C0A8F242D2C5273EBC60A4CCEFB73
+    10a [aclweb.org/anthology/P19-1273/](https://www.aclweb.org/anthology/P19-1273/) , [aclweb.org/anthology/2020.acl-main.404/](https://www.aclweb.org/anthology/2020.acl-main.404/)
+    10b [aclanthology.org/2020.nlpcss-1.3/](https://aclanthology.org/2020.nlpcss-1.3/)
+    11a [aclanthology.org/W16-2817/](https://aclanthology.org/W16-2817/)
+    11b [cambridge.org/core/journals/american-political-science-review/article/deliberative-democracy-in-an-unequal-world-a-textasdata-study-of-south-indias-village-assemblies/081C0A8F242D2C5273EBC60A4CCEFB73](https://www.cambridge.org/core/journals/american-political-science-review/article/deliberative-democracy-in-an-unequal-world-a-textasdata-study-of-south-indias-village-assemblies/081C0A8F242D2C5273EBC60A4CCEFB73)
 
 
 ##
 * [lazyweb: Does anyone have recs for a really nicely written NLP review paper (ideally not on bert/transformers). It's not something we do so much as a community, but I would like to collect some examples.](https://twitter.com/srush_nlp/status/1270433763869286401?s=20)
-* https://jlm.ipipan.waw.pl/index.php/JLM
+* [jlm.ipipan.waw.pl/index.php/JLM](https://jlm.ipipan.waw.pl/index.php/JLM)
 

@@ -11,27 +11,27 @@
 ?                                                  <|> * [PROBLEMAS ACTUALES DE LINGÜÍSTICA COMPUTACIONAL](http://www.revista.unam.mx/vol.2/num1/art1/)
 ?                                                  <|> * [TiddlyWiki — a non-linear personal web notebook](https://tiddlywiki.com/)
 ?                                                  <|> * [Transformer Architecture - Timothy Liu](https://tlkh.dev/transformer-model-architecture/)
-?                                                  <|> * http://www.glottopedia.org/index.php/Parallel_corpus
-?                                                  <|> * https://berns-language-consulting.de/
-?                                                  <|> * https://blogs.fau.de/klue/
-?                                                  <|> * https://isl.anthropomatik.kit.edu/english/21_74.php
-?                                                  <|> * https://linguistics.berkeley.edu/plab/guestwiki/index.php?title=Forced_alignment
-?                                                  <|> * https://twitter.com/openai/status/1096092704709070851?s=12
-?                                                  <|> * https://www.dfki.de/web/forschung/projekte-publikationen/projekte-uebersicht/projekt/elg/
-?                                                  <|> * https://www.linguistics.rub.de/CLBuch/buch.html
+?                                                  <|> * [glottopedia.org/index.php/Parallel_corpus](http://www.glottopedia.org/index.php/Parallel_corpus)
+?                                                  <|> * [berns-language-consulting.de/](https://berns-language-consulting.de/)
+?                                                  <|> * [blogs.fau.de/klue/](https://blogs.fau.de/klue/)
+?                                                  <|> * [isl.anthropomatik.kit.edu/english/21_74.php](https://isl.anthropomatik.kit.edu/english/21_74.php)
+?                                                  <|> * [linguistics.berkeley.edu/plab/guestwiki/index.php?title=Forced_alignment](https://linguistics.berkeley.edu/plab/guestwiki/index.php?title=Forced_alignment)
+?                                                  <|> * [twitter.com/openai/status/1096092704709070851?s=12](https://twitter.com/openai/status/1096092704709070851?s=12)
+?                                                  <|> * [dfki.de/web/forschung/projekte-publikationen/projekte-uebersicht/projekt/elg/](https://www.dfki.de/web/forschung/projekte-publikationen/projekte-uebersicht/projekt/elg/)
+?                                                  <|> * [linguistics.rub.de/CLBuch/buch.html](https://www.linguistics.rub.de/CLBuch/buch.html)
 ac uk                                              <|> * [MTTK](http://mi.eng.cam.ac.uk/~wjb31/distrib/mttkv1/)
-ac uk                                              <|> * https://htk.eng.cam.ac.uk/
+ac uk                                              <|> * [htk.eng.cam.ac.uk/](https://htk.eng.cam.ac.uk/)
 acoustic sequence conversion modeling voice        <|> * Sequence-to-Sequence Acoustic Modeling for Voice Conversion (Drive)
 acoustic tutorial article pub                      <|> * [Acoustics and Signal Processing - Articles and Tutorials](https://ccrma.stanford.edu/~jos/pubs.html)
-ai                                                 <|> * https://ai-summary.com/
-ai                                                 <|> * https://www.technologyreview.com/s/615126/ai-common-sense-reads-human-language-ai2/
-ai doc                                             <|> * https://docs.cohere.ai/intro-to-llms/
+ai                                                 <|> * [ai-summary.com/](https://ai-summary.com/)
+ai                                                 <|> * [technologyreview.com/s/615126/ai-common-sense-reads-human-language-ai2/](https://www.technologyreview.com/s/615126/ai-common-sense-reads-human-language-ai2/)
+ai doc                                             <|> * [docs.cohere.ai/intro-to-llms/](https://docs.cohere.ai/intro-to-llms/)
 ai open                                            <|> * [ai unplugged DE](https://open.spotify.com/episode/3jbQL3entygEob3S2NBTyZ?si=zGmK9NvUTYGRXLdOCiQirg&dl_branch=1)
-article                                            <|> * [Quantum computing’s reproducibility crisis: Majorana fermions](https://www.nature.com/articles/d41586-021-00954-8?utm_source=researcher_app&utm_medium=referral&utm_campaign=RESR_MRKT_Researcher_inbound)
-article                                            <|> * https://www.infoworld.com/article/3633002/the-future-of-rust.html
+article                                            <|> * [Quantum computing’s reproducibility crisis: Majorana fermions](https://www.nature.com/articles/d41586-021-00954-8)
+article                                            <|> * [infoworld.com/article/3633002/the-future-of-rust.html](https://www.infoworld.com/article/3633002/the-future-of-rust.html)
 at                                                 <|> * Exploring GPT-3: An unofficial first look at the general-purpose language processing API from OpenAI
-at                                                 <|> * https://engineeringblog.yelp.com/2021/05/moderating-promotional-spam-and-inappropriate-content-in-photos-at-scale-at-yelp.html
-attention pub thegradient application              <|> * https://thegradient.pub/attention-in-human-brain-and-its-applications-in-ml/
+at                                                 <|> * [engineeringblog.yelp.com/2021/05/moderating-promotional-spam-and-inappropriate-content-in-photos-at-scale-at-yelp.html](https://engineeringblog.yelp.com/2021/05/moderating-promotional-spam-and-inappropriate-content-in-photos-at-scale-at-yelp.html)
+attention pub thegradient application              <|> * [thegradient.pub/attention-in-human-brain-and-its-applications-in-ml/](https://thegradient.pub/attention-in-human-brain-and-its-applications-in-ml/)
 book libgen application method md5                 <|> * [Scientific Applications of Language Methods](https://libgen.is/book/index.php?md5=E98A20A0302429F24BC260DFBE24E47F)
 book libgen md5 international                      <|> * [Language Typology and Language universals: An International Handbook / Sprachtypologie und sprachliche Universalien: ein internationales Handbuch / La typologie des langues et les universaux linguistiques: Manuel international](https://libgen.is/book/index.php?md5=9F9197C8D614EF39DC814181AA81ACFF)
 classification attention article multi analysi     <|> * [Multi-level context extraction and attention-based contextual inter-modal fusion for multimodal sentiment analysis and emotion classification](https://link.springer.com/article/10.1007/s13735-019-00185-8)
@@ -40,21 +40,21 @@ classification towardsdatascience understanding    <|> * [An Intuitive Explanati
 code wiki                                          <|> * [add categories to rosetta code in MWE repo:](http://rosettacode.org/wiki/Category:Solutions_by_Programming_Task)
 comment comment reddit new do                      <|> * [Why do new cells in Jupyter have a minimum height now? : IPython](https://www.reddit.com/r/IPython/comments/51scy2/comment/d7wian1/?st=J6W9Z43L&sh=22ba03e8)
 comment reddit                                     <|> * [The language of Thought](https://www.reddit.com/r/chomsky/comments/cktp6y/the_language_of_thought/)
-comment reddit                                     <|> * [https://www.reddit.com/r/rust/comments/pqiiw1/goscript_is_now_language_feature_complete](https://www.reddit.com/r/rust/comments/pqiiw1/goscript_is_now_language_feature_complete/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+comment reddit                                     <|> * [reddit.com/r/rust/comments/pqiiw1/goscript_is_now_language_feature_complete](https://www.reddit.com/r/rust/comments/pqiiw1/goscript_is_now_language_feature_complete/)
 comment reddit d question vector                   <|> * [[D] Question about Neuralink's feature vector interpretation](https://www.reddit.com/r/MachineLearning/comments/iirh75/d_question_about_neuralinks_feature_vector/)
 comment reddit do i                                <|> * [How and from where do I start with NLP?](https://www.reddit.com/r/learnmachinelearning/comments/e7bf00/how_and_from_where_do_i_start_with_nlp/)
 comment reddit do i                                <|> * [How and from where do I start with NLP?](https://www.reddit.com/r/learnmachinelearning/comments/e7bf00/how_and_from_where_do_i_start_with_nlp/)
 comment reddit languagetechnology                  <|> * [Fresh evaluation of pre-trained MT (23 MT engines, 48 language pairs, January 2019)](https://www.reddit.com/r/LanguageTechnology/comments/ag2ruy/fresh_evaluation_of_pretrained_mt_23_mt_engines/)
 comment reddit question at                         <|> * [Are there any techniques to determine if a selection of letters is "language", vs random noise, if looking at it directly is out of the question?](https://www.reddit.com/r/linguistics/comments/cnhcx5/are_there_any_techniques_to_determine_if_a/)
 comment reddit search go languagetechnology        <|> * [Wego: Word2Vec, GloVe in Go: Add REPL mode for similarity search](https://www.reddit.com/r/LanguageTechnology/comments/ajdh1g/wego_word2vec_glove_in_go_add_repl_mode_for/)
-conversion                                         <|> * https://psi.engr.tamu.edu/portfolio/accent-conversion/
-conversion                                         <|> * https://psi.engr.tamu.edu/portfolio/accent-conversion/
+conversion                                         <|> * [psi.engr.tamu.edu/portfolio/accent-conversion/](https://psi.engr.tamu.edu/portfolio/accent-conversion/)
+conversion                                         <|> * [psi.engr.tamu.edu/portfolio/accent-conversion/](https://psi.engr.tamu.edu/portfolio/accent-conversion/)
 corpu                                              <|> * Tools for Corpus Linguistics
 corpu                                              <|> * [Sketch Engine | language corpus management and query system](https://www.sketchengine.eu/)
 course document                                    <|> * [Rédigez des documents de qualité avec LaTeX - OpenClassrooms](https://openclassrooms.com/courses/redigez-des-documents-de-qualite-avec-latex)
 cs                                                 <|> * [Siddharth Dalmia](https://www.cs.cmu.edu/~sdalmia/)
-cs                                                 <|> * http://www.cs.columbia.edu/~mcollins/notes-spring2013.html
-cs ac teaching                                     <|> * https://www.cs.tau.ac.il/~joberant/teaching/nlp_spring_2019/index.html
+cs                                                 <|> * [cs.columbia.edu/~mcollins/notes-spring2013.html](http://www.cs.columbia.edu/~mcollins/notes-spring2013.html)
+cs ac teaching                                     <|> * [cs.tau.ac.il/~joberant/teaching/nlp_spring_2019/index.html](https://www.cs.tau.ac.il/~joberant/teaching/nlp_spring_2019/index.html)
 d semantic representation at                       <|> * [Semantic Decomposition and Marker Passing in an Artificial Representation of Meaning, Doctoral Thesis of Johannes Fähndrich at the Technischen Universität Berlin 2018](https://d-nb.info/1162540680/34)
 d view work                                        <|> * [Interdisciplining Digital Humanities: Boundary Work in an Emerging Field](https://quod.lib.umich.edu/d/dh/12869322.0001.001/1:8/--interdisciplining-digital-humanities-boundary-work?g=dculture;rgn=div1;view=fulltext;xc=1)
 data book libgen md5                               <|> * [Predicting Structured Data](http://libgen.rs/book/index.php?md5=DCAB283482E48622CAD4C3E590A3FC10)
@@ -64,9 +64,9 @@ data topic                                         <|> * [Data](https://www.cens
 deep book                                          <|> * [Deep Simplicity: Chaos, Complexity and the Emergence of Life | John R. Gribbin | download](https://de1lib.org/book/1306237/97cd08?dsource=recommend)
 deep question                                      <|> * [Which deep learning model can classify categories which are not mutually exclusive - Cross Validated](https://stats.stackexchange.com/questions/272862/which-deep-learning-model-can-classify-categories-which-are-not-mutually-exclusi)
 deep wiki                                          <|> * [Deep linguistic processing - Wikipedia](https://en.wikipedia.org/wiki/Deep_linguistic_processing)
-distance                                           <|> * https://iq.opengenus.org/damerau-levenshtein-distance/
-do                                                 <|> * https://www.louiscastricato.com/post/topology-and-you-what-the-future-of-nlp-has-to-do-with-algebraic-topology
-documentation                                      <|> * https://www.sketchengine.eu/documentation/tenten-corpora/
+distance                                           <|> * [iq.opengenus.org/damerau-levenshtein-distance/](https://iq.opengenus.org/damerau-levenshtein-distance/)
+do                                                 <|> * [louiscastricato.com/post/topology-and-you-what-the-future-of-nlp-has-to-do-with-algebraic-topology](https://www.louiscastricato.com/post/topology-and-you-what-the-future-of-nlp-has-to-do-with-algebraic-topology)
+documentation                                      <|> * [sketchengine.eu/documentation/tenten-corpora/](https://www.sketchengine.eu/documentation/tenten-corpora/)
 documentation co                                   <|> * [XLSR-Wav2Vec2 — transformers 4.5.0.dev0 documentation](https://huggingface.co/transformers/model_doc/xlsr_wav2vec2.html)
 documentation distance                             <|> * [String Comparison — jellyfish 0.5.6 documentation](http://jellyfish.readthedocs.io/en/latest/comparison.html#jaro-distance)
 documentation map toolkit matplotlib               <|> * [Drawing a Map Background — Basemap Matplotlib Toolkit 1.1.0 documentation](https://matplotlib.org/basemap/users/geography.html)
@@ -87,22 +87,22 @@ google search top q                                <|> * [top companies in nlp -
 hub                                                <|> * [[Rasa - Docker Hub](](https://hub.docker.com/u/rasa/#!))
 international                                      <|> * [Linguistics Software | SIL International](https://www.sil.org/linguistics/linguistics-software)
 international                                      <|> * [Topical links | SIL International](https://www.sil.org/linguistics/topical-links)
-introduction                                       <|> * https://iq.opengenus.org/introduction-to-librosa/
+introduction                                       <|> * [iq.opengenus.org/introduction-to-librosa/](https://iq.opengenus.org/introduction-to-librosa/)
 introduction book libgen md5                       <|> * [Library Genesis: Steven P. Starkovich - The Structures of Mathematical Physics: An Introduction](http://libgen.rs/book/index.php?md5=5DD32CB1BB8F44ECFF8A01D75E09BC2F)
-introduction file                                  <|> * https://www.w3schools.io/file/markdown-introduction/
+introduction file                                  <|> * [w3schools.io/file/markdown-introduction/](https://www.w3schools.io/file/markdown-introduction/)
 introduction learn                                 <|> * [Miracles of Human Language: An Introduction to Linguistics | Coursera](https://www.coursera.org/learn/human-language)
 job application                                    <|> * [UZH: Linguistic Application Engineer](https://jobs.uzh.ch/offene-stellen/linguistic-application-engineer/72ca0c27-5ee4-487f-9bff-815ebd821b85)
 job university                                     <|> * [PhD in Natural Language Processing – NLP People](https://nlppeople.com/job/institute-of-neuroinformatics-university-of-zurich-and-eth-zurich-zurich-full-time-phd-in-natural-language-processing/)
-language map map distance                          <|> * http://bigthink.com/strange-maps/a-map-of-lexical-distances-between-europes-languages
+language map map distance                          <|> * [bigthink.com/strange-maps/a-map-of-lexical-distances-between-europes-languages](http://bigthink.com/strange-maps/a-map-of-lexical-distances-between-europes-languages)
 language programming                               <|> * [Programming Languages - Hyperpolyglot](https://hyperpolyglot.org/)
 language programming do quora i                    <|> * What are good ways to get into Computational Linguistics? What programming languages do I need to know, and what companies in Europe are hiring? - Quora
 language programming quora                         <|> * [(1) What programming languages are suitable for natural language processing? - Quora](https://www.quora.com/What-programming-languages-are-suitable-for-natural-language-processing)
-language programming quora                         <|> * https://www.quora.com/What-programming-languages-are-suitable-for-natural-language-processing
+language programming quora                         <|> * [quora.com/What-programming-languages-are-suitable-for-natural-language-processing](https://www.quora.com/What-programming-languages-are-suitable-for-natural-language-processing)
 language programming quora linguist                <|> * [(3) Which programming languages are most useful to computational linguists? - Quora](https://www.quora.com/Which-programming-languages-are-most-useful-to-computational-linguists)
-language programming quora linguist                <|> * https://www.quora.com/Which-programming-languages-are-most-useful-to-computational-linguists
+language programming quora linguist                <|> * [quora.com/Which-programming-languages-are-most-useful-to-computational-linguists](https://www.quora.com/Which-programming-languages-are-most-useful-to-computational-linguists)
 learn                                              <|> * ===> Learn about and use wordnets!
 ling                                               <|> * [Linguistik](https://www.christianlehmann.eu/ling/index.html)
-ling                                               <|> * http://www.ling.upenn.edu/~janabeck/greek-corpora.html
+ling                                               <|> * [ling.upenn.edu/~janabeck/greek-corpora.html](http://www.ling.upenn.edu/~janabeck/greek-corpora.html)
 list e click id kdnugget 4f2891ebb155b23f120ece0bd us12 track manage b34ab4e857 file <|> * [Basics of Audio File Processing in R](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=0c250ae42c&e=b34ab4e857)
 list e click id kdnugget 4f2891ebb155b23f120ece0bd us12 track manage generation guide b34ab4e857 <|> * [A Comprehensive Guide to Natural Language Generation](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=478a5ecaab&e=b34ab4e857)
 list e click id kdnugget 4f2891ebb155b23f120ece0bd us12 track manage generation guide b34ab4e857 <|> * [A Comprehensive Guide to Natural Language Generation](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=d3e5423cb9&e=b34ab4e857)
@@ -111,83 +111,83 @@ list job linguist                                  <|> * [LINGUIST List | Jobs A
 list program linguist                              <|> * [LINGUIST List | Linguistics Programs in Germany](http://linguistlist.org/teach/programs/browse-prog2.cfm?CountryID=94)
 list semantic job linguist university science      <|> * [LINGUIST List 29.408: Jobs: Cognitive Science; Psycholinguistics; Semantics: Researcher, University of Tübingen](https://linguistlist.org/issues/29/29-408.html)
 lstm                                               <|> * LSTM - что, как и почему
-machine                                            <|> * https://www.lexalytics.com/lexablog/machine-learning-natural-language-processing
+machine                                            <|> * [lexalytics.com/lexablog/machine-learning-natural-language-processing](https://www.lexalytics.com/lexablog/machine-learning-natural-language-processing)
 machine book translation                           <|> * [Book: Statistical Machine Translation](http://www.statmt.org/book/)
 machine deep vector wordpres                       <|> * [Deep Meaning Beyond Thought Vectors | Machine Thoughts](https://machinethoughts.wordpress.com/2017/09/01/deep-meaning-beyond-thought-vectors/)
 machine lstm                                       <|> * Juergen Schmidhuber: Godel Machines, Meta-Learning, and LSTMs | Lex Fridman Podcast #11
 machine open                                       <|> * [Learning Machines 101](https://open.spotify.com/show/1MVjzhCjFB9y2qENVKDPoP)
-machine pub thegradient understanding              <|> * https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/
+machine pub thegradient understanding              <|> * [thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/)
 machine translation                                <|> * [EMNLP 2018  THIRD CONFERENCE ON MACHINE TRANSLATION](http://statmt.org/wmt18/index.html)
 net                                                <|> * [Hierarchical Softmax – Building Babylon](http://building-babylon.net/2017/08/01/hierarchical-softmax/)
-net                                                <|> * https://www.oxinabox.net/Kaldi-Notes/
+net                                                <|> * [oxinabox.net/Kaldi-Notes/](https://www.oxinabox.net/Kaldi-Notes/)
 net introduction                                   <|> * [Introduction to OpenFST |](https://www.oxinabox.net/Kaldi-Notes/fst-example/)
-net project                                        <|> * https://sourceforge.net/projects/speechalyzer/
-net project                                        <|> * https://sourceforge.net/projects/sppas/
+net project                                        <|> * [sourceforge.net/projects/speechalyzer/](https://sourceforge.net/projects/speechalyzer/)
+net project                                        <|> * [sourceforge.net/projects/sppas/](https://sourceforge.net/projects/sppas/)
 net publication article researchgate               <|> * [NLP General Article](https://www.researchgate.net/publication/291179558_Natural_Language_Processing)
 net publication researchgate                       <|> * [Contrastive auto-encoder for phoneme recognition](https://www.researchgate.net/publication/269295629_Contrastive_auto-encoder_for_phoneme_recognition)
-net researchgate                                   <|> * https://www.researchgate.net/profile/Pravin-Ramteke-2
+net researchgate                                   <|> * [researchgate.net/profile/Pravin-Ramteke-2](https://www.researchgate.net/profile/Pravin-Ramteke-2)
 net stuttgart research work researchgate           <|> * [Wolfgang Wokurek's research works | Universität Stuttgart, Stuttgart and other places](https://www.researchgate.net/scientific-contributions/Wolfgang-Wokurek-2010088929)
 neural network wordpres                            <|> * [Hierarchical Softmax in neural network language model | Wenpeng Yin's Blog](https://yinwenpeng.wordpress.com/2013/09/26/hierarchical-softmax-in-neural-network-language-model/)
 new top                                            <|> * [Natural Language Processing (NLP) Companies That Are Top Of The Pyramid](https://www.houseofbots.com/news-detail/3834-1-natural-language-processing-nlp-companies-that-are-top-of-the-pyramid)
-new translation international                      <|> * https://www.technologyreview.com/s/601790/new-translation-tool-will-help-facebook-master-international-slang/
-open source top                                    <|> * https://ibcomputing.com/top-5-open-source-chat-bot/
+new translation international                      <|> * [technologyreview.com/s/601790/new-translation-tool-will-help-facebook-master-international-slang/](https://www.technologyreview.com/s/601790/new-translation-tool-will-help-facebook-master-international-slang/)
+open source top                                    <|> * [ibcomputing.com/top-5-open-source-chat-bot/](https://ibcomputing.com/top-5-open-source-chat-bot/)
 pdf teaching                                       <|> * (PDF) Speech Processing for Language Learning: A Practical Approach to Computer-Assisted Pronunciation Teaching
 pdf training research                              <|> * [Gopher](https://storage.googleapis.com/deepmind-media/research/language-research/Training%20Gopher.pdf)
 program                                            <|> * [The 20 Best Computational Linguistics Graduate Programs in the U.S. | The Best Schools](http://www.thebestschools.org/rankings/best-computational-linguistics-graduate-programs/)
-program                                            <|> * http://www.thebestschools.org/rankings/best-computational-linguistics-graduate-programs/
+program                                            <|> * [thebestschools.org/rankings/best-computational-linguistics-graduate-programs/](http://www.thebestschools.org/rankings/best-computational-linguistics-graduate-programs/)
 program cs                                         <|> * Need help choosing among several Master's programs (Computational Linguistics/CS) : germany
 programming                                        <|> * [Table of Contents · Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)
 programming book go                                <|> * [Learning Go: An Idiomatic Approach to Real-World Go Programming | Jon Bodner [Jon Bodner] | download](https://de1lib.org/book/11773043/dd1d2a?dsource=recommend)
 project                                            <|> * [jellyfish · PyPI](https://pypi.org/project/jellyfish/)
-project ac uk                                      <|> * https://www.cstr.ed.ac.uk/projects/speech_tools/
-project parallel                                   <|> * https://pypi.org/project/parallel-wavegan/
-pub thegradient voice                              <|> * https://thegradient.pub/one-voice-detector-to-rule-them-all/
+project ac uk                                      <|> * [cstr.ed.ac.uk/projects/speech_tools/](https://www.cstr.ed.ac.uk/projects/speech_tools/)
+project parallel                                   <|> * [pypi.org/project/parallel-wavegan/](https://pypi.org/project/parallel-wavegan/)
+pub thegradient voice                              <|> * [thegradient.pub/one-voice-detector-to-rule-them-all/](https://thegradient.pub/one-voice-detector-to-rule-them-all/)
 pytorch deep                                       <|> * A Deep Dive into NLP with PyTorch
 pytorch deep network network attention             <|> * [Implementation of Hierarchical Attention Networks in PyTorch](https://reposhub.com/python/deep-learning/pandeykartikey-Hierarchical-Attention-Network.html)
 pytorch documentation tutorial lstm                <|> * [Advanced: Making Dynamic Decisions and the Bi-LSTM CRF — PyTorch Tutorials 1.0.0.dev20190125 documentation](https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html)
-question cs distance                               <|> * https://cs.stackexchange.com/questions/82283/detailed-explanation-about-damerau-levenshtein-distance-algorithm
-question file                                      <|> * https://stackoverflow.com/questions/10179430/how-to-load-multiple-xml-files-of-corpora-with-nltk-and-use-it-as-a-whole-with-t?noredirect=1&lq=1
+question cs distance                               <|> * [cs.stackexchange.com/questions/82283/detailed-explanation-about-damerau-levenshtein-distance-algorithm](https://cs.stackexchange.com/questions/82283/detailed-explanation-about-damerau-levenshtein-distance-algorithm)
+question file                                      <|> * [stackoverflow.com/questions/10179430/how-to-load-multiple-xml-files-of-corpora-with-nltk-and-use-it-as-a-whole-with-t?noredirect=1&lq=1](https://stackoverflow.com/questions/10179430/how-to-load-multiple-xml-files-of-corpora-with-nltk-and-use-it-as-a-whole-with-t?noredirect=1&lq=1)
 question map matplotlib                            <|> * [geopy - plotting US cities on a map with matplotlib and basemap - Geographic Information Systems Stack Exchange](https://gis.stackexchange.com/questions/198530/plotting-us-cities-on-a-map-with-matplotlib-and-basemap)
-reddit comment                                     <|> * [https://www.reddit.com/r/linux/comments/pnqbpc/why_do_so_many_linux_users_hate_oracle](https://www.reddit.com/r/linux/comments/pnqbpc/why_do_so_many_linux_users_hate_oracle/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+reddit comment                                     <|> * [reddit.com/r/linux/comments/pnqbpc/why_do_so_many_linux_users_hate_oracle](https://www.reddit.com/r/linux/comments/pnqbpc/why_do_so_many_linux_users_hate_oracle/)
 reddit search q                                    <|> * [reddit.com: search results - Computational Linguistics](https://www.reddit.com/search?q=Computational%20Linguistics)
 research                                           <|> * [Oxford Research Encyclopedia of Linguistics](http://oxfordre.com/linguistics/)
 research document science co analysi               <|> * [Document co-citation analysis to enhance transdisciplinary research | Science Advances](http://advances.sciencemag.org/content/4/1/e1701130.full)
 search analysi                                     <|> * Search: nlp analysis of leftist political writings
-search code corpu                                  <|> * http://nullege.com/codes/search/nltk.corpus.reader.xmldocs.XMLCorpusReader
+search code corpu                                  <|> * [nullege.com/codes/search/nltk.corpus.reader.xmldocs.XMLCorpusReader](http://nullege.com/codes/search/nltk.corpus.reader.xmldocs.XMLCorpusReader)
 search view libgen                                 <|> * [in a month of lunches](http://libgen.rs/search.php?&req=in+a+month+of+lunches&phrase=1&view=simple&column=def&sort=year&sortmode=DESC&page=1)
 semantic                                           <|> * [Lucas Champollion - Semantics](https://champollion.com/)
 semantic                                           <|> *⛵ Learning Meaning in Natural Language Processing — The Semantics Mega-Thread
-semantic job                                       <|> * https://en.ax-semantics.com/job-openings
+semantic job                                       <|> * [en.ax-semantics.com/job-openings](https://en.ax-semantics.com/job-openings)
 semantic semantic learn                            <|> * [Coursera - Towards language universals through lexical semantics](https://www.coursera.org/learn/lexical-semantic-typology/home/welcome)
 sequence                                           <|> * sequence optimization with multiple constraints
 sequence generation rnn                            <|> * RNN W1L06 : Language Model and sequence generation
 sequence rnn                                       <|> * RNN W1L07 : Sampling novel Sequences
 stuttgart                                          <|> * [HLRS High Performance Computing Center Stuttgart - bwUniCluster Access](http://www.hlrs.de/solutions-services/academic-users/bwunicluster-access/)
 text arxiv language pdf                            <|> * [One Model, Many Languages: Meta-learning for Multilingual Text-to-Speech](https://arxiv.org/pdf/2008.00768.pdf)
-text classification co                             <|> * https://machinelearnings.co/tensorflow-text-classification-615198df9231
+text classification co                             <|> * [machinelearnings.co/tensorflow-text-classification-615198df9231](https://machinelearnings.co/tensorflow-text-classification-615198df9231)
 text classification towardsdatascience multi       <|> * [Multi-Class Text Classification Model Comparison and Selection](https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568)
 text data towardsdatascience science               <|> * [Text mining on the command line - Towards Data Science](https://towardsdatascience.com/text-mining-on-the-command-line-8ee88648476f)
 text medium classification attention part source top <|> * [NLP Learning Series: Part 3 — Attention, CNN and what not for Text…](https://medium.com/@rahul_agarwal/nlp-learning-series-part-3-attention-cnn-and-what-not-for-text-classification-4313930ed566?source=email-b12ac70303b2-1580612758411-digest.reader------0-59------------------51713215_4d60_4ed9_9716_4527f32d0c89-1-----&sectionName=top)
 text medium using classification source top rnn    <|> * [Report on Text Classification using CNN, RNN & HAN](https://medium.com/@aks3d76/report-on-text-classification-using-cnn-rnn-han-f0e887214d5f?source=email-b12ac70303b2-1579136303027-digest.reader------1-59------------------6b7408cc_d6d4_4895_94dd_6d37e07d605d-1-----&sectionName=top)
 text project                                       <|> * [Hello im a student ,working on " arabic text diacritization " graduation project , is there anyone have worked on a similar project can help me ?](https://www.facebook.com/groups/661630514420625/permalink/754975208419488/)
-text towardsdatascience guide part i understanding <|> * https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72
+text towardsdatascience guide part i understanding <|> * [towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72](https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72)
 text using click classification learn x            <|> * [5 Text Classification Case Studies Using SciKit Learn](http://datascience.getresponse360.com/click.html?x=a62e&lc=uAJ&mc=j&s=jFaI&u=F&y=V&z=wlJdyVy&)
 text using click classification neural network x   <|> * [Text Classification using Neural Networks](http://datascience.getresponse360.com/click.html?x=a62e&lc=uAn&mc=j&s=jFaI&u=F&y=v&z=w5CWdh&)
-training q                                         <|> * https://duckduckgo.com/?q=training%20a%20wavenet%20vocoder&ia=web
+training q                                         <|> * [duckduckgo.com/?q=training%20a%20wavenet%20vocoder&ia=web](https://duckduckgo.com/?q=training%20a%20wavenet%20vocoder&ia=web)
 tutorial                                           <|> * [MFA](https://eleanorchodroff.com/tutorial/montreal-forced-aligner.html)
 tutorial guide                                     <|> * [$$$spaCy Tutorial - Complete Guide - NLP FOR HACKERS](https://nlpforhackers.io/complete-guide-to-spacy/)
 fbclid=IwAR39X-9OfAJovf4WC7_u-thh7kI_BkJMPa2kYgf0uoa53RhbuLXjjHGFI1E)
 using e list click id kdnugget us12 manage b34ab4e857 4f2891ebb155b23f120ece0bd track open source <|> * [Microsoft Open Sources Jericho to Train Reinforcement Learning Using Linguistic Games](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=0aa6ecfaa4&e=b34ab4e857)
 using e list click id neural kdnugget question us12 manage b34ab4e857 4f2891ebb155b23f120ece0bd track <|> * [Generating English Pronoun Questions Using Neural Coreference Resolution](https://kdnuggets.us12.list-manage.com/track/click?u=4f2891ebb155b23f120ece0bd&id=482f3003ab&e=b34ab4e857)
-using lstm analysi                                 <|> * https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow
+using lstm analysi                                 <|> * [oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow](https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow)
 using method                                       <|> * [Statistical Methods for Studying Literature Using R](https://daedalus.umkc.edu/StatisticalMethods/)
 using publication                                  <|> * [Robust Phonetic Segmentation Using Spectral Transition measure for Non-Standard Recording Environments](https://deepai.org/publication/robust-phonetic-segmentation-using-spectral-transition-measure-for-non-standard-recording-environments)
 using towardsdatascience                           <|> * [Solving NLP task using Sequence2Sequence model: from Zero to Hero](https://towardsdatascience.com/solving-nlp-task-using-sequence2sequence-model-from-zero-to-hero-c193c1bd03d1)
 view                                               <|> * [WebHome < FST < TWiki](http://openfst.org/twiki/bin/view/FST/WebHome)
-view document                                      <|> * https://www.yumpu.com/en/document/view/12350482/the-main-problems-of-multilingual-phraseological
+view document                                      <|> * [yumpu.com/en/document/view/12350482/the-main-problems-of-multilingual-phraseological](https://www.yumpu.com/en/document/view/12350482/the-main-problems-of-multilingual-phraseological)
 word x                                             <|> * [WORDS - Version 1.97 for the Mac OS X](http://archives.nd.edu/whitaker/wordsmac.htm)
-wordpres                                           <|> * https://amjadmahayri.wordpress.com/2014/02/27/frame-prediction-given-phoneme-window/
-wordpres                                           <|> * https://phon.wordpress.ncsu.edu/lab-manual/forced-alignment/
+wordpres                                           <|> * [amjadmahayri.wordpress.com/2014/02/27/frame-prediction-given-phoneme-window/](https://amjadmahayri.wordpress.com/2014/02/27/frame-prediction-given-phoneme-window/)
+wordpres                                           <|> * [phon.wordpress.ncsu.edu/lab-manual/forced-alignment/](https://phon.wordpress.ncsu.edu/lab-manual/forced-alignment/)
 
 # YouTube
 youtube                                            <|> * Education Ecosystem - YouTube
@@ -195,27 +195,27 @@ youtube be                                         <|> * [GS RUS](https://www.yo
 youtube channel                                    <|> * [Hung-yi Lee](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ)
 youtube channel lab                                <|> * [NSM Lab](https://www.youtube.com/channel/UCLEhrIF9Cnk3P1trmSwMGyg)
 youtube corpu parallel result search_query         <|> * [parallel corpus - YouTube](https://www.youtube.com/results?search_query=parallel+corpus)
-youtube corpu parallel result search_query         <|> * https://www.youtube.com/results?search_query=parallel+corpus
+youtube corpu parallel result search_query         <|> * [](https://www.youtube.com/results?search_query=parallel+corpus)
 youtube corpu user                                 <|> * [Corpus Workbench - YouTube - YouTube](https://www.youtube.com/user/corpusworkbench)
 youtube language information channel               <|> * [From Languages to Information](https://youtube.com/channel/UC_48v322owNVtORXuMeRmpA)
 youtube language model natural semantic new understanding <|> * Semantic Folding: a new model for natural language understanding - YouTube
 youtube language network modeling                  <|> * Tai-Danae Bradley: Modeling Language with Tensor Networks - YouTube
 youtube linguistic python corpu computational parallel result search_query <|> * [computational linguistics parallel corpus python - YouTube](https://www.youtube.com/results?search_query=computational+linguistics+parallel+corpus+python)
-youtube linguistic python corpu computational parallel result search_query <|> * https://www.youtube.com/results?search_query=computational+linguistics+parallel+corpus+python
+youtube linguistic python corpu computational parallel result search_query <|> * [](https://www.youtube.com/results?search_query=computational+linguistics+parallel+corpus+python)
 youtube list learning tutorial seq2seq playlist    <|> * [Seq2Seq Learning Tutorials - YouTube](https://www.youtube.com/playlist?list=PLQflnv_s49v-4aH-xFcTykTpcyWSY4Tww)
 youtube list linguistic computational i playlist   <|> * [Computational Linguistics I - YouTube - YouTube](https://www.youtube.com/playlist?list=PLegWUnz91WfuPebLI97-WueAP90JO-15i)
 youtube list playlist                              <|> * [Grundlagen der Automatischen Spracherkennung, Vorlesung, WS 2017/18 - YouTube](https://www.youtube.com/playlist?list=PLfk0Dfh13pBO-lUuk7hOFac81wv88Ii1T)
-youtube list playlist                              <|> * https://www.youtube.com/playlist?list=PLegWUnz91WfuPebLI97-WueAP90JO-15i
+youtube list playlist                              <|> * [](https://www.youtube.com/playlist?list=PLegWUnz91WfuPebLI97-WueAP90JO-15i)
 youtube list processing cs playlist spring         <|> * [CS 472: Digital Music Processing, Ursinus College, Spring 2021 - YouTube](https://www.youtube.com/playlist?list=PLxGzv4uunL64oPNYSkBOt1lECGrVK6jru)
 youtube list technique playlist                    <|> * [Optimization Techniques (playlist)](https://www.youtube.com/playlist?list=PLvfKBrFuxD065AT7q1Z0rDAj9kBnPnL0l)
 youtube model linguistic machine translation computational i ibm <|> * Computational Linguistics I: Machine Translation (IBM Model 1) - YouTube
 youtube model part ibm                             <|> * 11 - 2 IBM Model 1 (Part 1) - YouTube
 youtube neural machine translation introduction    <|> * Introduction to Neural Machine Translation by Philipp Koehn - YouTube
 youtube user                                       <|> * [CorpusLingAnalysis - YouTube - YouTube](https://www.youtube.com/user/CorpusLingAnalysis)
-youtube user                                       <|> * https://www.youtube.com/user/CorpusLingAnalysis
-youtube user                                       <|> * https://www.youtube.com/user/corpusworkbench
-youtube using python question stackoverflow x stack overflow only dl <|> * [python 3.x - Specify subtitle options while downloading YouTube subtitles only using youtube-dl - Stack Overflow](https://stackoverflow.com/questions/58218836/specify-subtitle-options-while-downloading-youtube-subtitles-only-using-youtube)
-youtube using question download user video only dl <|> * [How to download only subtitles of videos using youtube-dl - Super User](https://superuser.com/questions/927523/how-to-download-only-subtitles-of-videos-using-youtube-dl)
+youtube user                                       <|> * [](https://www.youtube.com/user/CorpusLingAnalysis)
+youtube user                                       <|> * [](https://www.youtube.com/user/corpusworkbench)
+youtube using python question stackoverflow x stack overflow only dl <|> * [](https://stackoverflow.com/questions/58218836/specify-subtitle-options-while-downloading-youtube-subtitles-only-using-youtube)
+youtube using question download user video only dl <|> * [](https://superuser.com/questions/927523/how-to-download-only-subtitles-of-videos-using-youtube-dl)
 youtube watch                                      <|> * [Functional Javascript: Reverse Engineering The Hype - YouTube](https://www.youtube.com/watch?v=PKlojRYDQT0)
 youtube watch comment i langue                     <|> * [Comment les I.A. font-elles pour comprendre notre langue ?](https://www.youtube.com/watch?v=CsQNF9s78Nc)
 youtube watch conversion voice toward resource low <|> * [StarGAN-ZSVC: Towards zero-shot voice conversion in low-resource contexts - YouTube](https://www.youtube.com/watch?v=EvWff9UYQFw)
@@ -328,9 +328,9 @@ speech learning processing s machine between mel   <|> * [Speech Processing for 
 speech learning processing s machine between mel   <|> * [Speech Processing for Machine Learning: Filter banks, Mel-Frequency Cepstral Coefficients (MFCCs) and What’s In-Between | Haytham Fayek](https://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html)
 speech learning recognition representation synthesi unsupervised toward document <|> * [Towards Unsupervised Speech Recognition and Synthesis with Quantized Speech Representation Learning](https://ieeexplore.ieee.org/abstract/document/9053571/?casa_token=JUZadvqK5nMAAAAA:QNMk5bCvmwVLSskiBEmfQ_e3fYO4XwHAamKFY65hSnEcRIgnREp7xkQqDiJuLs1JLctcI5a8MAA)
 speech learning sequence representation abs attention unsupervised autoencoder dl <|> * [Unsupervised Representation Learning with Attention and Sequence to Sequence Autoencoders to Predict Sleepiness From Speech](https://dl.acm.org/doi/abs/10.1145/3423327.3423670)
-speech learning text translation semantic ml       <|> * https://deeplearningupdates.ml/2021/08/16/learning-shared-semantic-space-for-speech-to-text-translation/
+speech learning text translation semantic ml       <|> * [deeplearningupdates.ml/2021/08/16/learning-shared-semantic-space-for-speech-to-text-translation/](https://deeplearningupdates.ml/2021/08/16/learning-shared-semantic-space-for-speech-to-text-translation/)
 speech model recognition master feature ai doc synthesi documentation tts asr <|> * [Speech recognition and synthesis (ASR and TTS) — DeepPavlov 0.15.0 documentation](http://docs.deeppavlov.ai/en/master/features/models/nemo.html)
-speech model recognition pytorch end site building ml study <|> * https://www.comet.ml/site/customer-case-study-building-an-end-to-end-speech-recognition-model-in-pytorch-with-assemblyai/?ref=hackernoon.com
+speech model recognition pytorch end site building ml study <|> * [comet.ml/site/customer-case-study-building-an-end-to-end-speech-recognition-model-in-pytorch-with-assemblyai/?ref=hackernoon.com](https://www.comet.ml/site/customer-case-study-building-an-end-to-end-speech-recognition-model-in-pytorch-with-assemblyai/?ref=hackernoon.com)
 speech model recognition s u click x y f z mc a62e automatic jfai j lc newsletter gpu n datasciencecentral <|> * [How to Build Domain Specific Automatic Speech Recognition Models on GPUs](https://www.newsletter.datasciencecentral.com/click.html?x=a62e&lc=uZP&mc=j&s=jFaI&u=F&y=n&z=wdMae0E&)
 speech modeling synthesi source technique          <|> * Source Modeling Techniques for Quality Enhancement in Statistical Parametric Speech Synthesis
 speech net are technique signal good researchgate post <|> * [What are some good techniques for segmenting speech signal?](https://www.researchgate.net/post/What-are-some-good-techniques-for-segmenting-speech-signal)
@@ -338,8 +338,8 @@ speech neural network arxiv abs transformer synthesi <|> * [[1809.08895] Neural 
 speech neural network phonetic abs classification programming science article segmentation mean <|> * [Broad phonetic classification and segmentation of continuous speech by means of neural networks and dynamic programming](https://www.sciencedirect.com/science/article/abs/pii/016763939190029S)
 speech neural recognition network arxiv abs based recurrent architecture long term large memory short <|> * [[1402.1128v1] Long Short-Term Memory Based Recurrent Neural Network Architectures for Large Vocabulary Speech Recognition](https://arxiv.org/abs/1402.1128v1)
 speech neural using network classification data science toward towardsdatascience basic <|> * [Speech Classification Using Neural Networks: The Basics | by Dima Shulga | Towards Data Science](https://towardsdatascience.com/speech-classification-using-neural-networks-the-basics-e5b08d6928b7)
-speech new medium synthesi real                    <|> * https://medium.com/dessa-news/real-talk-speech-synthesis-5dd0897eef7f
-speech nlp                                         <|> * https://www.academictransfer.com/en/298252/two-phd-positions-in-nlp-and-speech-1-fte/
+speech new medium synthesi real                    <|> * [medium.com/dessa-news/real-talk-speech-synthesis-5dd0897eef7f](https://medium.com/dessa-news/real-talk-speech-synthesis-5dd0897eef7f)
+speech nlp                                         <|> * [academictransfer.com/en/298252/two-phd-positions-in-nlp-and-speech-1-fte/](https://www.academictransfer.com/en/298252/two-phd-positions-in-nlp-and-speech-1-fte/)
 speech paper neural arxiv toward generation robust survey <|> * [Towards Robust Neural Vocoding for Speech Generation: A Survey – arXiv Vanity](https://www.arxiv-vanity.com/papers/1912.02461/)
 speech paper paper code paperswithcode corpu non source english open <|> * [speechocean762: An Open-Source Non-native English Speech Corpus For Pronunciation Assessment | Papers With Code](https://paperswithcode.com/paper/speechocean762-an-open-source-non-native)
 speech paper paper model using deep recognition code paperswithcode end based rnn eesen <|> * [EESEN: End-to-End Speech Recognition using Deep RNN Models and WFST-based Decoding | Papers With Code](https://paperswithcode.com/paper/eesen-end-to-end-speech-recognition-using)
@@ -371,11 +371,11 @@ speech recognition course science automatic note lecture spring <|> * [Lecture N
 speech recognition data automatic resource low     <|> * MixSpeech: Data Augmentation for Low-resource Automatic Speech Recognition
 speech recognition feature end articulatory        <|> * Combining Articulatory Features with End-to-endLearning in Speech Recognition
 speech recognition feature method extraction       <|> * Feature extraction methods lpc, plp and mfcc in speech recognition
-speech recognition new pub thegradient dataset     <|> * https://thegradient.pub/new-datasets-to-democratize-speech-recognition-technology-2/
+speech recognition new pub thegradient dataset     <|> * [thegradient.pub/new-datasets-to-democratize-speech-recognition-technology-2/](https://thegradient.pub/new-datasets-to-democratize-speech-recognition-technology-2/)
 speech recognition sequence data training publication document conference improving <|> * [Improving Sequence-To-Sequence Speech Recognition Training with On-The-Fly Data Augmentation | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9054130)
-speech s text blog stackoverflow                   <|> * [https://stackoverflow.blog/?s=text+to+speech](https://stackoverflow.blog/?s=test+to+speech)
+speech s text blog stackoverflow                   <|> * [stackoverflow.blog/?s=text+to+speech](https://stackoverflow.blog/?s=test+to+speech)
 speech s text u click i x y f z mc a62e jfai j lc application time real newsletter gpu datasciencecentral <|> * [How to Deploy Real-Time Text-to-Speech Applications on GPUs](https://www.newsletter.datasciencecentral.com/click.html?x=a62e&lc=uZs&mc=j&s=jFaI&u=F&y=i&z=wvO7SR9&)
-speech spring                                      <|> * https://speech.ee.ntu.edu.tw/~hylee/mlds/2018-spring.html
+speech spring                                      <|> * [speech.ee.ntu.edu.tw/~hylee/mlds/2018-spring.html](https://speech.ee.ntu.edu.tw/~hylee/mlds/2018-spring.html)
 
 # Github
 github                                             <|> * [Jianjin Xu](https://atlantixjj.github.io/)
@@ -383,56 +383,56 @@ github                                             <|> * [ThinkDSP Github Repo](
 github                                             <|> * [f90 (Daniel Stoller) · GitHub](https://github.com/f90)
 github                                             <|> * [pzelasko (Piotr Żelasko) / Repositories · GitHub](https://github.com/pzelasko?tab=repositories)
 github                                             <|> * [takedarts/BandaiNamco-DSChallenge-3rdSolution: バンダイナムコ・データサイエンス・チャレンジ - 3位解法](https://github.com/takedarts/BandaiNamco-DSChallenge-3rdSolution)
-github                                             <|> * https://fatchord.github.io/model_outputs/
-github                                             <|> * https://github.com/JeremyCCHsu/vae-npvc
-github                                             <|> * https://github.com/MajerMartin/phoneme_classification
-github                                             <|> * https://github.com/RasaHQ/rasa-demo
-github                                             <|> * https://github.com/XuezheMax/flowseq
-github                                             <|> * https://github.com/dtjchen/spoken-command-processor
-github                                             <|> * https://github.com/facebookresearch/CPC_audio
-github                                             <|> * https://github.com/hhi-aml/ecg-selfsupervised
-github                                             <|> * https://github.com/hirofumi0810/neural_sp
-github                                             <|> * https://github.com/idiap/apam
-github                                             <|> * https://github.com/kan-bayashi/ParallelWaveGAN
-github                                             <|> * https://github.com/matthijsvk/TIMITspeech
-github                                             <|> * https://github.com/s3prl
-github                                             <|> * https://github.com/sciforce
-github                                             <|> * https://github.com/seatgeek/fuzzywuzzy
-github                                             <|> * https://github.com/shaojinding
-github                                             <|> * https://github.com/sy2358/accent_conversion_GAN
-github                                             <|> * https://neuml.github.io/txtai/
-github ai                                          <|> * https://github.com/coqui-ai/STT
+github                                             <|> * [fatchord.github.io/model_outputs/](https://fatchord.github.io/model_outputs/)
+github                                             <|> * [JeremyCCHsu/vae-npvc](https://github.com/JeremyCCHsu/vae-npvc)
+github                                             <|> * [MajerMartin/phoneme_classification](https://github.com/MajerMartin/phoneme_classification)
+github                                             <|> * [RasaHQ/rasa-demo](https://github.com/RasaHQ/rasa-demo)
+github                                             <|> * [XuezheMax/flowseq](https://github.com/XuezheMax/flowseq)
+github                                             <|> * [dtjchen/spoken-command-processor](https://github.com/dtjchen/spoken-command-processor)
+github                                             <|> * [facebookresearch/CPC_audio](https://github.com/facebookresearch/CPC_audio)
+github                                             <|> * [hhi-aml/ecg-selfsupervised](https://github.com/hhi-aml/ecg-selfsupervised)
+github                                             <|> * [hirofumi0810/neural_sp](https://github.com/hirofumi0810/neural_sp)
+github                                             <|> * [idiap/apam](https://github.com/idiap/apam)
+github                                             <|> * [kan-bayashi/ParallelWaveGAN](https://github.com/kan-bayashi/ParallelWaveGAN)
+github                                             <|> * [matthijsvk/TIMITspeech](https://github.com/matthijsvk/TIMITspeech)
+github                                             <|> * [s3prl](https://github.com/s3prl)
+github                                             <|> * [sciforce](https://github.com/sciforce)
+github                                             <|> * [seatgeek/fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy)
+github                                             <|> * [shaojinding](https://github.com/shaojinding)
+github                                             <|> * [sy2358/accent_conversion_GAN](https://github.com/sy2358/accent_conversion_GAN)
+github                                             <|> * [neuml.github.io/txtai/](https://neuml.github.io/txtai/)
+github ai                                          <|> * [coqui-ai/STT](https://github.com/coqui-ai/STT)
 github at tree best nlu                            <|> * [BEST***MahmoudWahdan/dialog-nlu at e8d2b0f8752f244b4ef3980336181ff3d6e49699](https://github.com/MahmoudWahdan/dialog-nlu/tree/e8d2b0f8752f244b4ef3980336181ff3d6e49699)
 github audio guanlongzhao sample via               <|> * [Interspeech'19 Audio Samples](https://guanlongzhao.github.io/demo/fac-via-ppg/)
 github audio implementation spectrogram algorithm signal only <|> * [bkvogel/griffin_lim: Implementation of the Griffin and Lim algorithm to recover an audio signal from a magnitude-only spectrogram.](https://github.com/bkvogel/griffin_lim)
 github audio pydub simple jiaaro level             <|> * [jiaaro/pydub: Manipulate audio with a simple and easy high level interface](https://github.com/jiaaro/pydub)
 github audio pydub simple jiaaro level             <|> * [jiaaro/pydub: Manipulate audio with a simple and easy high level interface](https://github.com/jiaaro/pydub)
-github blog                                        <|> * https://cmusphinx.github.io/2017/06/call-sahith-blog-week-1/
+github blog                                        <|> * [cmusphinx.github.io/2017/06/call-sahith-blog-week-1/](https://cmusphinx.github.io/2017/06/call-sahith-blog-week-1/)
 github code blog learn building                    <|> * [Building a street name classifier with scikit-learn - Michelle Fullwood](http://michelleful.github.io/code-blog/2015/06/18/classifying-roads/)
 github code sequence implementation parallel non   <|> * [jxzhanggg/nonparaSeq2seqVC_code: Implementation code of non-parallel sequence-to-sequence VC](https://github.com/jxzhanggg/nonparaSeq2seqVC_code)
 github code voice implementation sharing multilingual tacotron that experiment <|> * [Tomiinek/Multilingual_Text_to_Speech: An implementation of Tacotron 2 that supports multilingual experiments with parameter-sharing, code-switching, and voice cloning.](https://github.com/Tomiinek/Multilingual_Text_to_Speech)
 github conversion time accent real                 <|> * [DongyaoZhu/Real-Time-Accent-Conversion: Real Time Foreign Accent Conversion](https://github.com/DongyaoZhu/Real-Time-Accent-Conversion)
 github de master blob training main ner nlu        <|> * [ambiverse-nlu/src/main/java/de/mpg/mpi_inf/ambiversenlu/nlu/ner/training/NerTrainer.java](https://github.com/ambiverse-nlu/ambiverse-nlu/blob/master/src/main/java/de/mpg/mpi_inf/ambiversenlu/nlu/ner/training/NerTrainer.java)
-github deep conversion voice guanlongzhao          <|> * https://github.com/guanlongzhao/deep-voice-conversion
-github embedding speaker simple                    <|> * https://github.com/RF5/simple-speaker-embedding
-github facebook                                    <|> * https://github.com/facebook/duckling
+github deep conversion voice guanlongzhao          <|> * [guanlongzhao/deep-voice-conversion](https://github.com/guanlongzhao/deep-voice-conversion)
+github embedding speaker simple                    <|> * [RF5/simple-speaker-embedding](https://github.com/RF5/simple-speaker-embedding)
+github facebook                                    <|> * [facebook/duckling](https://github.com/facebook/duckling)
 github feature sound extraction machinelearning    <|> * [Sound Feature Extraction -](https://maelfabien.github.io/machinelearning/Speech9/#5-tempo)
-github file                                        <|> * https://github.com/melcutz/NLU_tutorial?files=1
-github file                                        <|> * https://github.com/sz128/slot_filling_and_intent_detection_of_SLU?files=1
-github file corpora nlu                            <|> * https://github.com/sebischair/NLU-Evaluation-Corpora?files=1
-github guanlongzhao                                <|> * https://github.com/guanlongzhao/MelGeneralizedCepstrums.jl
-github guanlongzhao                                <|> * https://github.com/guanlongzhao/VoiceConversion.jl
-github guanlongzhao                                <|> * https://github.com/guanlongzhao/merlin
-github guanlongzhao                                <|> * https://github.com/guanlongzhao/sprocket
-github guanlongzhao kaldi                          <|> * https://github.com/guanlongzhao/kaldi-gop
-github guanlongzhao kaldi dnn                      <|> * https://github.com/guanlongzhao/kaldi-dnn-ali-gop
-github guanlongzhao parser                         <|> * https://github.com/guanlongzhao/textgrid-parser
+github file                                        <|> * [melcutz/NLU_tutorial?files=1](https://github.com/melcutz/NLU_tutorial?files=1)
+github file                                        <|> * [sz128/slot_filling_and_intent_detection_of_SLU?files=1](https://github.com/sz128/slot_filling_and_intent_detection_of_SLU?files=1)
+github file corpora nlu                            <|> * [sebischair/NLU-Evaluation-Corpora?files=1](https://github.com/sebischair/NLU-Evaluation-Corpora?files=1)
+github guanlongzhao                                <|> * [guanlongzhao/MelGeneralizedCepstrums.jl](https://github.com/guanlongzhao/MelGeneralizedCepstrums.jl)
+github guanlongzhao                                <|> * [guanlongzhao/VoiceConversion.jl](https://github.com/guanlongzhao/VoiceConversion.jl)
+github guanlongzhao                                <|> * [guanlongzhao/merlin](https://github.com/guanlongzhao/merlin)
+github guanlongzhao                                <|> * [guanlongzhao/sprocket](https://github.com/guanlongzhao/sprocket)
+github guanlongzhao kaldi                          <|> * [guanlongzhao/kaldi-gop](https://github.com/guanlongzhao/kaldi-gop)
+github guanlongzhao kaldi dnn                      <|> * [guanlongzhao/kaldi-dnn-ali-gop](https://github.com/guanlongzhao/kaldi-dnn-ali-gop)
+github guanlongzhao parser                         <|> * [guanlongzhao/textgrid-parser](https://github.com/guanlongzhao/textgrid-parser)
 github issue issue matplotlib get                  <|> * [How to get the mpl_toolkits to install · Issue #4546 · matplotlib/matplotlib · GitHub](https://github.com/matplotlib/matplotlib/issues/4546/)
 github issue issue result good nvidia long get waveglow <|> * [How long will it take to get a good result? · Issue #132 · NVIDIA/waveglow](https://github.com/NVIDIA/waveglow/issues/132)
 github language feature issue dataset              <|> * [[Feature request] Support for external modality for language datasets #263](https://github.com/huggingface/datasets/issues/263)
 github language learning deep course modeling project <|> * [leimao/TTIC_Deep_Learning_2018_Pareto_Competition: 2018 Fundamentals of Deep Learning (TTIC 31230) Course Project - Language Modeling](https://github.com/leimao/TTIC_Deep_Learning_2018_Pareto_Competition)
-github language learning python topic              <|> * https://github.com/topics/language-learning?l=python
-github language learning topic                     <|> * https://github.com/topics/language-learning
+github language learning python topic              <|> * [topics/language-learning?l=python](https://github.com/topics/language-learning?l=python)
+github language learning topic                     <|> * [topics/language-learning](https://github.com/topics/language-learning)
 github language model neural pytorch sequence tutorial task <|> * [sgrvinod/a-PyTorch-Tutorial-to-Sequence-Labeling: Empower Sequence Labeling with Task-Aware Neural Language Model | a PyTorch Tutorial to Sequence Labeling](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Sequence-Labeling)
 github language nlp processing natural attention chapter self <|> * [Chapter 8 Attention and Self-Attention for NLP | Modern Approaches in Natural Language Processing](https://compstat-lmu.github.io/seminar_nlp_ss20/attention-and-self-attention-for-nlp.html)
 github language phone universal                    <|> * [xinjli/allosaurus: Allosaurus is a pretrained universal phone recognizer for more than 2000 languages](https://github.com/xinjli/allosaurus)
@@ -440,7 +440,7 @@ github language phoneme many                       <|> * [dmort27/allovera: A ph
 github learning conversion representation voice audio introduction data parallel multi disentangled without <|> * [Introduction | Multi-target Voice Conversion without parallel data by Adversarially Learning Disentangled Audio Representations](https://jjery2243542.github.io/voice_conversion_demo/)
 github learning deep at                            <|> * [GitHub - goodfeli/dlbook_exercises: Exercises for the Deep Learning textbook at www.deeplearningbook.org](https://github.com/goodfeli/dlbook_exercises)
 github learning deep master at blob lstm learn ipynb intro <|> * [Grokking-Deep-Learning/Chapter14 - Intro to LSTMs - Learn to Write Like Shakespeare.ipynb at master · iamtrask/Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning/blob/master/Chapter14%20-%20Intro%20to%20LSTMs%20-%20Learn%20to%20Write%20Like%20Shakespeare.ipynb)
-github learning deep master blob py main           <|> * https://github.com/zhiranchen/CMU11785-Deep-Learning/blob/master/HW1/hw1_p2/main.py
+github learning deep master blob py main           <|> * [zhiranchen/CMU11785-Deep-Learning/blob/master/HW1/hw1_p2/main.py](https://github.com/zhiranchen/CMU11785-Deep-Learning/blob/master/HW1/hw1_p2/main.py)
 github learning deep s pytorch book guide          <|> * [dvgodoy/PyTorchStepByStep: Official repository of my book: "Deep Learning with PyTorch Step-by-Step: A Beginner's Guide"](https://github.com/dvgodoy/pytorchstepbystep)
 github learning machine creating                   <|> * [gunthercox/ChatterBot: ChatterBot is a machine learning, conversational dialog engine for creating chat bots](https://github.com/gunthercox/ChatterBot)
 github learning nlp at machine bert time transfer co <|> * [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) – Jay Alammar – Visualizing machine learning one concept at a time.](http://jalammar.github.io/illustrated-bert/)
@@ -452,15 +452,15 @@ github master at blob py pydub jiaaro              <|> * [pydub/audio_segment.py
 github master at blob py pydub jiaaro silence      <|> * [pydub/silence.py at master · jiaaro/pydub](https://github.com/jiaaro/pydub/blob/master/pydub/silence.py)
 github master at blob pydub jiaaro api             <|> * [pydub/API.markdown at master · jiaaro/pydub](https://github.com/jiaaro/pydub/blob/master/API.markdown)
 github master at tree eesen                        <|> * [eesen/src/base at master · yajiemiao/eesen](https://github.com/yajiemiao/eesen/tree/master/src/base)
-github master blob py experiment                   <|> * https://github.com/aalmah/ift6266amjad/blob/master/experiments/exp2/datasets_builder.py
-github master blob py experiment                   <|> * https://github.com/aalmah/ift6266amjad/blob/master/experiments/exp2/speech_synthesizer.py
-github master blob py parser                       <|> * https://github.com/louisfisch/mathematical-expressions-parser/blob/master/parser.py
-github master blob py tts espnet                   <|> * https://github.com/espnet/espnet/blob/master/espnet2/tts/fastspeech2.py
+github master blob py experiment                   <|> * [aalmah/ift6266amjad/blob/master/experiments/exp2/datasets_builder.py](https://github.com/aalmah/ift6266amjad/blob/master/experiments/exp2/datasets_builder.py)
+github master blob py experiment                   <|> * [aalmah/ift6266amjad/blob/master/experiments/exp2/speech_synthesizer.py](https://github.com/aalmah/ift6266amjad/blob/master/experiments/exp2/speech_synthesizer.py)
+github master blob py parser                       <|> * [louisfisch/mathematical-expressions-parser/blob/master/parser.py](https://github.com/louisfisch/mathematical-expressions-parser/blob/master/parser.py)
+github master blob py tts espnet                   <|> * [espnet/espnet/blob/master/espnet2/tts/fastspeech2.py](https://github.com/espnet/espnet/blob/master/espnet2/tts/fastspeech2.py)
 github model google s natural pytorch implementation synthesi multi speaker spectrogram tts technique comprehensive tacotron2 prediction wavenet mel <|> * [keonlee9420/Comprehensive-Tacotron2: PyTorch Implementation of Google's Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions. This implementation supports both single-, multi-speaker TTS and several techniques to enforce the robustness and efficiency of the model.](https://github.com/keonlee9420/Comprehensive-Tacotron2)
 github model master at tree generative             <|> * [generative-models/GAN at master · wiseodd/generative-models](https://github.com/wiseodd/generative-models/tree/master/GAN)
 github model pytorch master at tree wav2vec        <|> * [fairseq/fairseq/models/wav2vec at master · pytorch/fairseq](https://github.com/pytorch/fairseq/tree/master/fairseq/models/wav2vec)
 github model pytorch text master at classification blob py <|> * [Text-Classification-Pytorch/LSTM_Attn.py at master · prakashpandey9/Text-Classification-Pytorch](https://github.com/prakashpandey9/Text-Classification-Pytorch/blob/master/models/LSTM_Attn.py)
-github neural audio time transfer style            <|> * https://github.com/pkmital/time-domain-neural-audio-style-transfer
+github neural audio time transfer style            <|> * [pkmital/time-domain-neural-audio-style-transfer](https://github.com/pkmital/time-domain-neural-audio-style-transfer)
 github neural deep end embedding speaker system    <|> * [philipperemy/deep-speaker: Deep Speaker: an End-to-End Neural Speaker Embedding System.](https://github.com/philipperemy/deep-speaker)
 github neural network network acoustic modeling recurrent machinelearning <|> * [Neural Network acoustic modeling -](https://maelfabien.github.io/machinelearning/speech_reco_2/#recurrent-neural-networks)
 github nlp                                         <|> * [Edinburgh NLP](https://github.com/EdinburghNLP)
@@ -471,19 +471,19 @@ github nlp master at blob seq2seq hse coursera ipynb nsanghi <|> * [HSE-NLP-Cour
 github nlp master at tree hse coursera nsanghi     <|> * [HSE-NLP-Coursera/week2 at master · nsanghi/HSE-NLP-Coursera](https://github.com/nsanghi/HSE-NLP-Coursera/tree/master/week2)
 github nlp model tensorflow                        <|> * [NLP-Models-Tensorflow](https://github.com/huseinzol05/NLP-Models-Tensorflow)
 github nlp tensorflow                              <|> * [Bahasa-NLP-Tensorflow](https://github.com/huseinzol05/Bahasa-NLP-Tensorflow)
-github nlp text master tree                        <|> * https://github.com/amephraim/nlp/tree/master/texts
+github nlp text master tree                        <|> * [amephraim/nlp/tree/master/texts](https://github.com/amephraim/nlp/tree/master/texts)
 github nlp wikipedia english library               <|> * [nlp library, English Wikipedia](https://gist.github.com/thomwolf/13ca2b2b172b2d17ac66685aa2eeba62)
 github nlu rs                                      <|> * [snipsco/snips-nlu-rs](https://github.com/snipsco/snips-nlu-rs)
 github pdf master blob tutorial transformer bert   <|> * [Transformer Tutorial](https://github.com/mertensu/transformer-tutorial/blob/master/bert.pdf)
 github pdf model processing using segmentation signal approach <|> * [A HYBRID APPROACH TO SEGMENTATION OFSPEECH USING SIGNAL PROCESSING CUES ANDHIDDEN MARKOV MODELS](https://sas91.github.io/pdf/Aswin-MS_thesis_IITM.pdf)
 github pdf net multi seq2seq generative adversarial prediction <|> * [SeqST-GAN: Seq2Seq Generative Adversarial Nets for Multi-step Urban Crowd Flow Prediction](https://senzhangwang.github.io/paper_2020/2020-10.pdf)
-github post                                        <|> * http://colah.github.io/posts/2015-09-NN-Types-FP/
+github post                                        <|> * [colah.github.io/posts/2015-09-NN-Types-FP/](http://colah.github.io/posts/2015-09-NN-Types-FP/)
 github processing using pytorch network audio      <|> * [KinWaiCheuk/nnAudio: Audio processing by using pytorch 1D convolution network](https://github.com/KinWaiCheuk/nnAudio)
-github python guanlongzhao kaldi                   <|> * https://github.com/guanlongzhao/kaldi-io-for-python
+github python guanlongzhao kaldi                   <|> * [guanlongzhao/kaldi-io-for-python](https://github.com/guanlongzhao/kaldi-io-for-python)
 github python notebook                             <|> * [GitHub - urschrei/Geopython: Notebooks and libraries for spatial/geo Python explorations](https://github.com/urschrei/Geopython)
 github python string matching fuzzy                <|> * [GitHub - seatgeek/fuzzywuzzy: Fuzzy String Matching in Python](https://github.com/seatgeek/fuzzywuzzy)
-github pytorch classification                      <|> * https://github.com/hpanwar08/sentence-classification-pytorch
-github pytorch end asr timit                       <|> * https://github.com/biyoml/Pytorch-End-to-End-ASR-on-TIMIT
+github pytorch classification                      <|> * [hpanwar08/sentence-classification-pytorch](https://github.com/hpanwar08/sentence-classification-pytorch)
+github pytorch end asr timit                       <|> * [biyoml/Pytorch-End-to-End-ASR-on-TIMIT](https://github.com/biyoml/Pytorch-End-to-End-ASR-on-TIMIT)
 github pytorch end implementation asr spell listen attend <|> * [kaituoxu/Listen-Attend-Spell: A PyTorch implementation of Listen, Attend and Spell (LAS), an End-to-End ASR framework.](https://github.com/kaituoxu/Listen-Attend-Spell)
 github pytorch implementation based                <|> * [xcmyz/FastSpeech: The Implementation of FastSpeech based on pytorch.](https://github.com/xcmyz/FastSpeech)
 github pytorch implementation hierarchical softmax <|> * [leimao/Two-Layer-Hierarchical-Softmax-PyTorch: Two-Layer Hierarchical Softmax Implementation for PyTorch](https://github.com/leimao/Two-Layer-Hierarchical-Softmax-PyTorch)
@@ -496,13 +496,13 @@ github pytorch master at blob py hierarchical softmax <|> * [Two-Layer-Hierarchi
 github pytorch master at translation blob seq2seq ipynb <|> * [practical-pytorch/seq2seq-translation.ipynb at master · spro/practical-pytorch](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
 github pytorch master at tree nvidia tacotron2     <|> * [DeepLearningExamples/PyTorch/SpeechSynthesis/Tacotron2 at master · NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/SpeechSynthesis/Tacotron2)
 github pytorch parallel multi                      <|> * [kan-bayashi/ParallelWaveGAN: Unofficial Parallel WaveGAN (+ MelGAN & Multi-band MelGAN) with Pytorch](https://github.com/kan-bayashi/ParallelWaveGAN)
-github pytorch transformer universal               <|> * https://github.com/andreamad8/Universal-Transformer-Pytorch
-github search q alignment forced                   <|> * https://github.com/search?q=forced+alignment
+github pytorch transformer universal               <|> * [andreamad8/Universal-Transformer-Pytorch](https://github.com/andreamad8/Universal-Transformer-Pytorch)
+github search q alignment forced                   <|> * [search?q=forced+alignment](https://github.com/search?q=forced+alignment)
 github segmentation phoneme                        <|> * [INTERSPEECH 2018 phoneme segmentation](https://github.com/ronggong/interspeech2018_submission01)
 github semantic research latest                    <|> * [zhenwenzhang/Slot_Filling: Latest research advances on semantic slot filling.](https://github.com/zhenwenzhang/Slot_Filling)
 github sequence doc tutorial                       <|> * [Sequence Classifier Tutorial](https://cleartk.github.io/cleartk/docs/tutorial/sequence_classifier.html)
 github sequence search attention seq2seq           <|> * [Seq2Seq with Attention and Beam Search](https://guillaumegenthial.github.io/sequence-to-sequence.html)
-github speaker sample                              <|> * https://shaojinding.github.io/samples/fac-to-arbitrary-speaker/
+github speaker sample                              <|> * [shaojinding.github.io/samples/fac-to-arbitrary-speaker/](https://shaojinding.github.io/samples/fac-to-arbitrary-speaker/)
 github spectrogram algorithm experiment wavenet    <|> * [GitHub - KnurpsBram/AutoVC_WavenetVocoder_GriffinLim_experiments: Experiments on AutoVC and WaveNet vocoder, compared against the Griffin Lim spectrogram inversion algorithm](https://github.com/KnurpsBram/AutoVC_WavenetVocoder_GriffinLim_experiments)
 github speech classification level frame           <|> * [manashpratim/Frame-Level-Classification-of-Speech](https://github.com/manashpratim/Frame-Level-Classification-of-Speech)
 github speech learning model deep recognition acoustic end based automatic asr <|> * [nvmoyar/aind2-speech-recognition: Some approaches based on deep learning to build the acoustic model for an end-to-end automatic speech recognition (ASR) pipeline.](https://github.com/nvmoyar/aind2-speech-recognition)
@@ -511,30 +511,30 @@ github speech model recognition pytorch end implementation automatic <|> * [soof
 github speech network based synthesi generative nvidia waveglow <|> * [NVIDIA/waveglow: A Flow-based Generative Network for Speech Synthesis](https://github.com/NVIDIA/waveglow)
 github speech neural pytorch network implementation transformer synthesi tts <|> * [soobinseo/Transformer-TTS: A Pytorch Implementation of "Neural Speech Synthesis with Transformer Network"](https://github.com/soobinseo/Transformer-TTS)
 github speech phonetic conversion guanlongzhao accent posteriorgram via <|> * [guanlongzhao/fac-via-ppg: Foreign Accent Conversion by Synthesizing Speech from Phonetic Posteriorgrams (Interspeech'19)](https://github.com/guanlongzhao/fac-via-ppg)
-github speech processing basic                     <|> * https://github.com/Sangramsingkayte/Speech-Processing-Basic-Concepts
+github speech processing basic                     <|> * [Sangramsingkayte/Speech-Processing-Basic-Concepts](https://github.com/Sangramsingkayte/Speech-Processing-Basic-Concepts)
 github speech processing end toolkit espnet        <|> * [GitHub - espnet/espnet: End-to-End Speech Processing Toolkit](https://github.com/espnet/espnet)
-github speech recognition master tree eesen        <|> * https://github.com/ysk24ok/speech-recognition/tree/master/scripts/eesen
-github speech representation                       <|> * https://github.com/s3prl/speech-representations
+github speech recognition master tree eesen        <|> * [ysk24ok/speech-recognition/tree/master/scripts/eesen](https://github.com/ysk24ok/speech-recognition/tree/master/scripts/eesen)
+github speech representation                       <|> * [s3prl/speech-representations](https://github.com/s3prl/speech-representations)
 github speech text research robust                 <|> * [FastSpeech: Fast, Robust and Controllable Text to Speech - Speech Research](https://speechresearch.github.io/fastspeech/)
-github text translation                            <|> * https://neuml.github.io/txtai/pipeline/text/translation/
-github timit                                       <|> * https://github.com/Faur/TIMIT
-github transfer style                              <|> * https://github.com/dayihengliu/Fine-Grained-Style-Transfer
+github text translation                            <|> * [neuml.github.io/txtai/pipeline/text/translation/](https://neuml.github.io/txtai/pipeline/text/translation/)
+github timit                                       <|> * [Faur/TIMIT](https://github.com/Faur/TIMIT)
+github transfer style                              <|> * [dayihengliu/Fine-Grained-Style-Transfer](https://github.com/dayihengliu/Fine-Grained-Style-Transfer)
 github tts                                         <|> * [jaywalnut310/glow-tts](https://github.com/jaywalnut310/glow-tts)
-github tts espnet                                  <|> * https://espnet.github.io/espnet/_gen/espnet2.tts.html
-github tts espnet                                  <|> * https://espnet.github.io/espnet/_gen/espnet2.tts.html
+github tts espnet                                  <|> * [espnet.github.io/espnet/_gen/espnet2.tts.html](https://espnet.github.io/espnet/_gen/espnet2.tts.html)
+github tts espnet                                  <|> * [espnet.github.io/espnet/_gen/espnet2.tts.html](https://espnet.github.io/espnet/_gen/espnet2.tts.html)
 github tutorial spring                             <|> * [cmudeeplearning11785/Spring2018-tutorials: Tutorials for Spring 2018](https://github.com/cmudeeplearning11785/Spring2018-tutorials)
 github using feature phone articulatory architecture spell listen attend <|> * [sciforce/phones-las: Articulatory features estimation using Listen Attend and Spell architecture.](https://github.com/sciforce/phones-las)
 github using pytorch attention end based asr timit <|> * [biyoml/Pytorch-End-to-End-ASR-on-TIMIT: Attention-based end-to-end ASR on TIMIT using Pytorch](https://github.com/biyoml/Pytorch-End-to-End-ASR-on-TIMIT)
 github vector thought                              <|> * [Decoding the Thought Vector](http://gabgoh.github.io/ThoughtVectors/)
 github via                                         <|> * [Autocorrelation mosaicing via OMP](https://github.com/danmackinlay/mosaicing_omp_ismir_2019)
-github world                                       <|> * https://github.com/mmorise/World
+github world                                       <|> * [mmorise/World](https://github.com/mmorise/World)
 github youtube audio download video                <|> * [Aveek-Saha/ytdx: Download audio from YouTube videos](https://github.com/Aveek-Saha/ytdx)
-github youtube download program video video site dl <|> * [ytdl-org/youtube-dl: Command-line program to download videos from YouTube.com and other video sites](https://github.com/ytdl-org/youtube-dl)
+github youtube download program video video site dl <|> * [](https://github.com/ytdl-org/youtube-dl)
 
 # Google
-google arxiv search q feature oq m                 <|> * https://www.google.com/search?q=arxiv+articulatiry+features&client=firefox-b-1-m&biw=375&bih=547&sxsrf=ALeKk01CduD4H5aqA1Do--n75_Kn3QeVOA%3A1623620938957&ei=Sn3GYJP6OYrMgwfN7qXgBA&oq=arxiv+articulatiry+features&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBAgeEAo6BwgjEOoCECc6BAgjECc6AggAOggILhDHARCjAjoECAAQQzoCCC46BwgAEIcCEBQ6BQgAEMsBOgQIABANOgQIABATOggIABAWEB4QEzoFCCEQoAE6CAgAEA0QHhATOgoIABANEAUQHhATOgcIIRAKEKABUNM0WJdiYL5jaAJwAHgAgAF6iAGFEZIBBDI1LjKYAQCgAQGwAQ_AAQE&sclient=mobile-gws-wiz-serp
+google arxiv search q feature oq m                 <|> * [google.com/search?q=arxiv+articulatiry+features&client=firefox-b-1-m&biw=375&bih=547&sxsrf=ALeKk01CduD4H5aqA1Do--n75_Kn3QeVOA%3A1623620938957&ei=Sn3GYJP6OYrMgwfN7qXgBA&oq=arxiv+articulatiry+features&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBAgeEAo6BwgjEOoCECc6BAgjECc6AggAOggILhDHARCjAjoECAAQQzoCCC46BwgAEIcCEBQ6BQgAEMsBOgQIABANOgQIABATOggIABAWEB4QEzoFCCEQoAE6CAgAEA0QHhATOgoIABANEAUQHhATOgcIIRAKEKABUNM0WJdiYL5jaAJwAHgAgAF6iAGFEZIBBDI1LjKYAQCgAQGwAQ_AAQE&sclient=mobile-gws-wiz-serp](https://www.google.com/search?q=arxiv+articulatiry+features&client=firefox-b-1-m&biw=375&bih=547&sxsrf=ALeKk01CduD4H5aqA1Do--n75_Kn3QeVOA%3A1623620938957&ei=Sn3GYJP6OYrMgwfN7qXgBA&oq=arxiv+articulatiry+features&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyBAgeEAo6BwgjEOoCECc6BAgjECc6AggAOggILhDHARCjAjoECAAQQzoCCC46BwgAEIcCEBQ6BQgAEMsBOgQIABANOgQIABATOggIABAWEB4QEzoFCCEQoAE6CAgAEA0QHhATOgoIABANEAUQHhATOgcIIRAKEKABUNM0WJdiYL5jaAJwAHgAgAF6iAGFEZIBBDI1LjKYAQCgAQGwAQ_AAQE&sclient=mobile-gws-wiz-serp)
 google computational semantic поиск application world real <|> * real-world applications of computational semantics - Поиск в Google
-google corpu parallel program site site            <|> * https://sites.google.com/site/casualconc/utility-programs/casualpconc/create-a-parallel-corpus-database
+google corpu parallel program site site            <|> * [sites.google.com/site/casualconc/utility-programs/casualpconc/create-a-parallel-corpus-database](https://sites.google.com/site/casualconc/utility-programs/casualpconc/create-a-parallel-corpus-database)
 google drive notebook                              <|> * [Colab Notebooks - Google Drive](https://drive.google.com/drive/folders/1BXupQHnER5QybhU6IiA8o24V1Ho_A1i5)
 google drive sharing usp example                   <|> * [Example Proposals](https://drive.google.com/drive/folders/1-N9FRTrQmMA73MT0-47OpMH93H7WniYy?usp=sharing)
 google drive sharing usp example                   <|> * [Example Theses](https://drive.google.com/drive/folders/19HaQ0YemAGs2mbLt0oQ71F9YAI944nvJ?usp=sharing)
@@ -552,10 +552,10 @@ google s phonetic d doc sharing usp edit sample spreadsheet <|> * [Phonetic Samp
 google search q word embedding us utf ie hl        <|> * [interpretability of word embeddings - Cerca con Google](https://www.google.com/search?q=interpretability+of+word+embeddings&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
 google search q поиск algorithm oq rlz             <|> * [google algorithm name eigenvector - Поиск в Google](https://www.google.com/search?rlz=1C5CHFA_enUS800US800&sxsrf=ALeKk02bUdr0wl0jT-UuNkI-d00Sddv0aw%3A1592385348214&ei=RN_pXtO8DNH46ASCg4TQDw&q=google+algorithm+name+eigenvector&oq=google+algorithm+name+eigenvector&gs_lcp=CgZwc3ktYWIQAzIFCCEQoAE6BwgAELADEEM6BAgAEBM6CAgAEBYQHhATOggIIRAWEB0QHjoHCCEQChCgAToECCEQFVDxeFj-iAFgrcsBaABwAHgAgAHnAYgBvg-SAQUxLjkuM5gBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwjT7pnYwYjqAhVRPJoKHYIBAfoQ4dUDCAw&uact=5)
 google semantic поиск                              <|> * semantic atoms - Поиск в Google
-google text file search q oq utf ie without aqs sourceid chrome <|> * https://www.google.com/search?q=how+to+split+a+text+file+without+opening+it&oq=how+to+split+a+text+file+without+opening+it&aqs=chrome..69i57.11988j0j7&sourceid=chrome&ie=UTF-8
+google text file search q oq utf ie without aqs sourceid chrome <|> * [google.com/search?q=how+to+split+a+text+file+without+opening+it&oq=how+to+split+a+text+file+without+opening+it&aqs=chrome..69i57.11988j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=how+to+split+a+text+file+without+opening+it&oq=how+to+split+a+text+file+without+opening+it&aqs=chrome..69i57.11988j0j7&sourceid=chrome&ie=UTF-8)
 google text search q oq utf ie aqs rlz tool sourceid ner chrome <|> * [Search: NER tools for OCR text](https://www.google.com/search?q=NER+tools+for+OCR+text&rlz=1C1GCEA_enUS831US831&oq=NER+tools+for+OCR+text&aqs=chrome..69i57.4926j0j4&sourceid=chrome&ie=UTF-8)
-google user hl                                     <|> * https://scholar.google.com/citations?user=0-xTs9QAAAAJ&hl=en
-google video es                                    <|> * http://video.google.com/timedtext?lang=es&v=NI9TLDIPVcs
+google user hl                                     <|> * [scholar.google.com/citations?user=0-xTs9QAAAAJ&hl=en](https://scholar.google.com/citations?user=0-xTs9QAAAAJ&hl=en)
+google video es                                    <|> * [video.google.com/timedtext?lang=es&v=NI9TLDIPVcs](http://video.google.com/timedtext?lang=es&v=NI9TLDIPVcs)
 
 # Papers
 paper code paperswithcode conversion voice task    <|> * [Voice Conversion | Papers With Code](https://paperswithcode.com/task/voice-conversion)
@@ -573,27 +573,27 @@ paper paper neural using machine translation attention ai <|> * [[Paper Xplained
 paper paper neural using network code paperswithcode classification audio cs supervised scale large <|> * [Large-scale weakly supervised audio classification using gated convolutional neural network | Papers With Code](https://cs.paperswithcode.com/paper/large-scale-weakly-supervised-audio)
 paper paper recognition code paperswithcode phone task timit architecture dnn survey <|> * [A Survey of Recent DNN Architectures on the TIMIT Phone Recognition Task | Papers With Code](https://paperswithcode.com/paper/a-survey-of-recent-dnn-architectures-on-the)
 paper paper recognition code paperswithcode recurrent phone task timit dnn its <|> * [Recurrent DNNs and its Ensembles on the TIMIT Phone Recognition Task | Papers With Code](https://paperswithcode.com/paper/recurrent-dnns-and-its-ensembles-on-the-timit)
-paper paperswithcode conversion voice multi without <|> * https://paperswithcode.com/paper/multi-target-voice-conversion-without
-paper paperswithcode sequence net generative adversarial <|> * https://paperswithcode.com/paper/seqgan-sequence-generative-adversarial-nets
+paper paperswithcode conversion voice multi without <|> * [paperswithcode.com/paper/multi-target-voice-conversion-without](https://paperswithcode.com/paper/multi-target-voice-conversion-without)
+paper paperswithcode sequence net generative adversarial <|> * [paperswithcode.com/paper/seqgan-sequence-generative-adversarial-nets](https://paperswithcode.com/paper/seqgan-sequence-generative-adversarial-nets)
 paper recognition code paperswithcode search q phone q_type q_meta <|> * [Papers With Code : Search for phone recognition | Papers With Code](https://paperswithcode.com/search?q_meta=&q_type=&q=phone+recognition)
 paper recognition code paperswithcode search q phoneme q_type q_meta <|> * [Papers With Code : Search for phoneme recognition | Papers With Code](https://paperswithcode.com/search?q_meta=&q_type=&q=phoneme+recognition)
 paper using paperswithcode feature phoneme boundary <|> * [Phoneme Boundary Detection using Learnable Segmental Features](https://paperswithcode.com/paper/phoneme-boundary-detection-using-learnable)
-paperswithcode generation task video               <|> * https://www.paperswithcode.com/task/video-generation
-paperswithcode search q posteriorgram q_type q_meta <|> * https://paperswithcode.com/search?q_meta=&q_type=&q=posteriorgram
+paperswithcode generation task video               <|> * [paperswithcode.com/task/video-generation](https://www.paperswithcode.com/task/video-generation)
+paperswithcode search q posteriorgram q_type q_meta <|> * [paperswithcode.com/search?q_meta=&q_type=&q=posteriorgram](https://paperswithcode.com/search?q_meta=&q_type=&q=posteriorgram)
 paperswithcode task prediction                     <|> * [PwC Prosody Prediction](https://paperswithcode.com/task/prosody-prediction)
 
 # PDF
 pdf ac uk asr thesi                                <|> * [ASR Thesis](http://svr-www.eng.cam.ac.uk/~mjfg/thesis_ar527.pdf)
 pdf computational semantic ac uk download          <|> * [Computational Semantics](https://core.ac.uk/download/pdf/19734092.pdf)
-pdf content upload wp engr tamu psi                <|> * https://psi.engr.tamu.edu/wp-content/uploads/2018/01/aryal2015jasa.pdf
-pdf content upload wp engr tamu psi                <|> * https://psi.engr.tamu.edu/wp-content/uploads/2018/01/zhao2017icassp.pdf
+pdf content upload wp engr tamu psi                <|> * [psi.engr.tamu.edu/wp-content/uploads/2018/01/aryal2015jasa.pdf](https://psi.engr.tamu.edu/wp-content/uploads/2018/01/aryal2015jasa.pdf)
+pdf content upload wp engr tamu psi                <|> * [psi.engr.tamu.edu/wp-content/uploads/2018/01/zhao2017icassp.pdf](https://psi.engr.tamu.edu/wp-content/uploads/2018/01/zhao2017icassp.pdf)
 pdf cs                                             <|> * [RNN13.pdf](https://www.cs.toronto.edu/~fritz/absps/RNN13.pdf)
 pdf de information cl                              <|> * [Information Retrieval – Zusammenfassung](http://www.cip.ifi.lmu.de/~bruder/ma/HF/cl/ir/ir.pdf)
 pdf de non extraction                              <|> * [Approches non supervisées pour l'extraction de relations sémantiques](https://lipn.univ-paris13.fr/~gabor/seminairelipn2018.pdf)
-pdf de uni                                         <|> * http://www.ssg-bildung.ub.uni-erlangen.de/computerlexikographie.pdf
+pdf de uni                                         <|> * [ssg-bildung.ub.uni-erlangen.de/computerlexikographie.pdf](http://www.ssg-bildung.ub.uni-erlangen.de/computerlexikographie.pdf)
 pdf de uni intro cl                                <|> * [wwwhomes.uni-bielefeld.de/mkracht/kurse/skripte/cl-intro.pdf](http://wwwhomes.uni-bielefeld.de/mkracht/kurse/skripte/cl-intro.pdf)
-pdf de uni intro cl                                <|> * http://wwwhomes.uni-bielefeld.de/mkracht/kurse/skripte/cl-intro.pdf
-pdf file cl                                        <|> * https://files.ifi.uzh.ch/cl/siclemat/lehre/hs13/ecl1/script/script.pdf
+pdf de uni intro cl                                <|> * [wwwhomes.uni-bielefeld.de/mkracht/kurse/skripte/cl-intro.pdf](http://wwwhomes.uni-bielefeld.de/mkracht/kurse/skripte/cl-intro.pdf)
+pdf file cl                                        <|> * [files.ifi.uzh.ch/cl/siclemat/lehre/hs13/ecl1/script/script.pdf](https://files.ifi.uzh.ch/cl/siclemat/lehre/hs13/ecl1/script/script.pdf)
 pdf google file d drive sharing usp view thesi     <|> * [Thesis Ideas pdf](https://drive.google.com/file/d/1eAqJW6Sg3TUHsssZgAtHJpTLhaPOK0UX/view?usp=sharing)
 pdf linguistic phonetic ipa sound good intro ling  <|> * [Good IPA](http://www.let.rug.nl/nerbonne/teach/linguistics/sounds/phonetics-intro-ling.pdf)
 pdf model neural using deep google network acoustic research pub multilingual archive media <|> * [MULTILINGUAL ACOUSTIC MODELS USING DISTRIBUTED DEEP NEURAL NETWORKS](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/40807.pdf)
@@ -604,9 +604,9 @@ pdf neural google network acoustic modeling research recurrent pub architecture 
 pdf neural network acoustic course ac uk asr system teaching dnn ed <|> * [Neural Networks for Acoustic Modelling 2: Hybrid HMM/DNN systems - asr08-hybrid_hmm_nn.pdf](http://www.inf.ed.ac.uk/teaching/courses/asr/2019-20/asr08-hybrid_hmm_nn.pdf)
 pdf neural network sequence modeling research recurrent content phone us upload wp microsoft <|> * [PHONE SEQUENCE MODELING WITH RECURRENT NEURAL NETWORKS](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/RNN4PhneSequence-ICASSP2014-published.pdf)
 pdf neural network wiki acoustic modeling ac uk recurrent pub architecture scale long term large ed memory short <|> * [Long Short-Term Memory Recurrent Neural Network Architectures for Large Scale Acoustic Modeling - sak2.pdf](https://wiki.inf.ed.ac.uk/twiki/pub/CSTR/ListenTerm1201415/sak2.pdf)
-pdf nlp arxiv                                      <|> * https://arxiv.org/pdf/1510.00726.pdf Primer on NN for NLP
+pdf nlp arxiv                                      <|> * [arxiv.org/pdf/1510.00726.pdf](https://arxiv.org/pdf/1510.00726.pdf) Primer on NN for NLP
 pdf nlp pub                                        <|> * [see2017get.pdf](https://nlp.stanford.edu/pubs/see2017get.pdf)
-pdf paper                                          <|> * https://faculty.washington.edu/ebender/papers/Bender-SDSS-2019.pdf
+pdf paper                                          <|> * [faculty.washington.edu/ebender/papers/Bender-SDSS-2019.pdf](https://faculty.washington.edu/ebender/papers/Bender-SDSS-2019.pdf)
 pdf paper feature cs articulatory multilingual     <|> * [Multilingual Articulatory Features](http://www.cs.cmu.edu/~tanja/Papers/DA-stueker.pdf)
 pdf paper file cc proceeding                       <|> * [Improved Variational Inference with Inverse Autoregressive Flow - NIPS-2016-improved-variational-inference-with-inverse-autoregressive-flow-Paper.pdf](https://proceedings.neurips.cc/paper/2016/file/ddeebdeefdb7e7e7a697e1c3e3d8ef54-Paper.pdf)
 pdf paper file cc proceeding wav2vec               <|> * [wav2vec](https://proceedings.neurips.cc/paper/2020/file/92d1e1eb1cd6f9fba3227870bb6d7f07-Paper.pdf)
@@ -626,17 +626,17 @@ pdf using ac                                       <|> * AC Using PPG.pdf
 
 # Corpus
 corpu                                              <|> * Corpus paralelos en línea. Chelo Vargas Sierra
-corpu                                              <|> * https://makina-corpus.com/formations
-corpu ac uk project                                <|> * http://www.lancaster.ac.uk/fass/projects/corpus/ZJU/xpresentations/session%203.ppt
+corpu                                              <|> * [makina-corpus.com/formations](https://makina-corpus.com/formations)
+corpu ac uk project                                <|> * [lancaster.ac.uk/fass/projects/corpus/ZJU/xpresentations/session%203.ppt](http://www.lancaster.ac.uk/fass/projects/corpus/ZJU/xpresentations/session%203.ppt)
 corpu computational book download method analysi cc annotation <|> * [Computational Methods for Corpus Annotation and Analysis | Xiaofei Lu (auth.) | download](https://b-ok.cc/book/2333214/938652)
 corpu course hse ru введение                       <|> * [Открытое образование - Введение в корпусную лингвистику](https://openedu.ru/course/hse/CORPUS/)
-corpu doc nltk reader clas api                     <|> * http://docs.huihoo.com/nltk/0.9.5/api/nltk.corpus.reader.xmldocs.XMLCorpusReader-class.html
-corpu doc nltk reader clas api                     <|> * http://docs.huihoo.com/nltk/0.9.5/api/nltk.corpus.reader.xmldocs.XMLCorpusView-class.html
-corpu es                                           <|> * https://personal.ua.es/es/chelo-vargas/enlaces/corpus-paralelos-en-linea.html
-corpu file question multi stackoverflow nltk be can <|> * https://stackoverflow.com/questions/6837566/can-nltks-xmlcorpusreader-be-used-on-a-multi-file-corpus
-corpu nltk                                         <|> * http://www.nltk.org/howto/corpus.html
+corpu doc nltk reader clas api                     <|> * [docs.huihoo.com/nltk/0.9.5/api/nltk.corpus.reader.xmldocs.XMLCorpusReader-class.html](http://docs.huihoo.com/nltk/0.9.5/api/nltk.corpus.reader.xmldocs.XMLCorpusReader-class.html)
+corpu doc nltk reader clas api                     <|> * [docs.huihoo.com/nltk/0.9.5/api/nltk.corpus.reader.xmldocs.XMLCorpusView-class.html](http://docs.huihoo.com/nltk/0.9.5/api/nltk.corpus.reader.xmldocs.XMLCorpusView-class.html)
+corpu es                                           <|> * [personal.ua.es/es/chelo-vargas/enlaces/corpus-paralelos-en-linea.html](https://personal.ua.es/es/chelo-vargas/enlaces/corpus-paralelos-en-linea.html)
+corpu file question multi stackoverflow nltk be can <|> * [stackoverflow.com/questions/6837566/can-nltks-xmlcorpusreader-be-used-on-a-multi-file-corpus](https://stackoverflow.com/questions/6837566/can-nltks-xmlcorpusreader-be-used-on-a-multi-file-corpus)
+corpu nltk                                         <|> * [nltk.org/howto/corpus.html](http://www.nltk.org/howto/corpus.html)
 corpu nltk reader                                  <|> * [Corpus Readers](http://www.nltk.org/howto/corpus.html)
-corpu question nltk stackoverflow reader have      <|> * https://stackoverflow.com/questions/6849600/does-anyone-have-a-categorized-xml-corpus-reader-for-nltk
+corpu question nltk stackoverflow reader have      <|> * [stackoverflow.com/questions/6849600/does-anyone-have-a-categorized-xml-corpus-reader-for-nltk](https://stackoverflow.com/questions/6849600/does-anyone-have-a-categorized-xml-corpus-reader-for-nltk)
 ac corpu uk                                        <|> * [WebLearn : Corpus Linguistics : Overview](https://weblearn.ox.ac.uk/portal/site/:central:it:itlp_courses:corpus_ling)
 
 # Books
@@ -644,51 +644,51 @@ book                                               <|> * [HTK Book](http://www.s
 book cc meaning                                    <|> * [How to Think About Meaning](https://b-ok.cc/book/736292/e52d51)
 book de1lib                                        <|> * [Theoretische Phonetik. Теоретическая фонетика](https://de1lib.org/book/3175822/d3f48f)
 book introduction download de1lib quantum dsource recommend computing <|> * [Mathematics Of Quantum Computing: An Introduction | Wolfgang Scherer | download](https://de1lib.org/book/5286453/3cc27d?dsource=recommend)
-book nltk                                          <|> * http://www.nltk.org/book/
+book nltk                                          <|> * [nltk.org/book/](http://www.nltk.org/book/)
 book science world                                 <|> * [To Explain the World: The Discovery of Modern Science by Steven Weinberg](https://www.goodreads.com/book/show/22328555-to-explain-the-world)
 
 
 # Wikipedia
 wiki                                               <|> * [Language model - Wikipedia](https://en.wikipedia.org/wiki/Language_model)
-wiki                                               <|> * https://pathmind.com/wiki/natural-language-processing-nlp
+wiki                                               <|> * [pathmind.com/wiki/natural-language-processing-nlp](https://pathmind.com/wiki/natural-language-processing-nlp)
 wiki wikipedia                                     <|> * [Cosine similarity - Wikipedia](https://en.wikipedia.org/wiki/Cosine_similarity)
 wiki wikipedia                                     <|> * [Dieter Rams - Wikipedia](https://it.wikipedia.org/wiki/Dieter_Rams)
 wiki wikipedia                                     <|> * [FT](https://en.wikipedia.org/wiki/Fourier_transform)
-wiki wikipedia                                     <|> * [https://en.wikipedia.org/wiki/Semantic_decomposition_(natural_language_processing)](https://en.wikipedia.org/wiki/Semantic_decomposition_(natural_language_processing))
-wiki wikipedia                                     <|> * https://en.wikipedia.org/wiki/Levenshtein_distance
-wiki wikipedia                                     <|> * https://en.wikipedia.org/wiki/PSOLA
-wiki wikipedia                                     <|> * https://en.wikipedia.org/wiki/Parallel_text
+wiki wikipedia                                     <|> * [en.wikipedia.org/wiki/Semantic_decomposition_(natural_language_processing)](https://en.wikipedia.org/wiki/Semantic_decomposition_(natural_language_processing))
+wiki wikipedia                                     <|> * [en.wikipedia.org/wiki/Levenshtein_distance](https://en.wikipedia.org/wiki/Levenshtein_distance)
+wiki wikipedia                                     <|> * [en.wikipedia.org/wiki/PSOLA](https://en.wikipedia.org/wiki/PSOLA)
+wiki wikipedia                                     <|> * [en.wikipedia.org/wiki/Parallel_text](https://en.wikipedia.org/wiki/Parallel_text)
 wiki wikipedia analysi                             <|> * [Lexical analysis - Wikipedia](https://en.wikipedia.org/wiki/Lexical_analysis)
 wiki wikipedia distance jaro 93winkler_distance winkler e2 <|> * [Jaro–Winkler distance - Wikipedia](https://en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance)
 wiki wikipedia distance jaro 93winkler_distance winkler e2 <|> * [Jaro–Winkler distance - Wikipedia](https://en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance)
 wiki wikipedia distance jaro 93winkler_distance winkler e2 <|> * [Jaro–Winkler distance - Wikipedia](https://en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance)
 wiki wikipedia distance levenshtein                <|> * [Levenshtein distance - Wikipedia](https://en.wikipedia.org/wiki/Levenshtein_distance)
-wiki wikipedia es                                  <|> * https://es.wikipedia.org/wiki/Ley_de_Zipf
-wiki wikipedia jaro 93winkler_distance e2          <|> * [https://en.wikipedia.org/wiki/Jaro–Winkler_distance](https://en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance)
-wiki wikipedia jaro 93winkler_distance e2          <|> * https://en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance
+wiki wikipedia es                                  <|> * [es.wikipedia.org/wiki/Ley_de_Zipf](https://es.wikipedia.org/wiki/Ley_de_Zipf)
+wiki wikipedia jaro 93winkler_distance e2          <|> * [en.wikipedia.org/wiki/Jaro–Winkler_distance](https://en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance)
+wiki wikipedia jaro 93winkler_distance e2          <|> * [en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance](https://en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance)
 wiki wikipedia string matching                     <|> * [Approximate string matching - Wikipedia](https://en.wikipedia.org/wiki/Approximate_string_matching)
 wiki wikipedia uk be                               <|> * [Нейролінгвістика — Вікіпедія](https://uk.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BB%D1%96%D0%BD%D0%B3%D0%B2%D1%96%D1%81%D1%82%D0%B8%D0%BA%D0%B0)
 de wiki wikipedia                                  <|> * [Kohärenztheorie – Wikipedia](https://de.wikipedia.org/wiki/Koh%C3%A4renztheorie)
 de wiki wikipedia                                  <|> * [Worteinbettung](https://de.wikipedia.org/wiki/Worteinbettung?wprov=sfti1)
-de wiki wikipedia                                  <|> * https://de.wikipedia.org/wiki/Levenshtein-Distanz
+de wiki wikipedia                                  <|> * [de.wikipedia.org/wiki/Levenshtein-Distanz](https://de.wikipedia.org/wiki/Levenshtein-Distanz)
 
 # Neural
 neural machine phonetic translation publication application deepai <|> * [Diversity by Phonetics and its Application in Neural Machine Translation](https://deepai.org/publication/diversity-by-phonetics-and-its-application-in-neural-machine-translation)
-neural machine translation                         <|> * https://kantanmtblog.com/2019/01/11/shaping-the-path-to-neural-machine-translation-interview-with-tony-odowd/amp/
+neural machine translation                         <|> * [kantanmtblog.com/2019/01/11/shaping-the-path-to-neural-machine-translation-interview-with-tony-odowd/amp/](https://kantanmtblog.com/2019/01/11/shaping-the-path-to-neural-machine-translation-interview-with-tony-odowd/amp/)
 neural machine translation attention based         <|> * Effective Approaches to Attention-based Neural Machine Translation
 neural network                                     <|> * [Bounded output regression with neural networks - Dans World](https://dans.world/Bounded-output-networks/)
 neural reddit comment network work languagetechnology <|> * [How NLP Neural Networks Work- Simply Explained](https://www.reddit.com/r/LanguageTechnology/comments/aaqivh/how_nlp_neural_networks_work_simply_explained/)
 neural search                                      <|> * search: review of neural vocoders
 neural word alignment main                         <|> * [End-to-End Neural Word Alignment Outperforms GIZA++ - ACL Anthology](https://www.aclweb.org/anthology/2020.acl-main.146/)
 learning deep                                      <|> * [GPU Server for Deep Learning - Up to 10x GPUs | Lambda](https://lambdalabs.com/products/blade)
-learning deep article                              <|> * https://software.intel.com/en-us/articles/deep-learning-for-natural-language-processing
+learning deep article                              <|> * [software.intel.com/en-us/articles/deep-learning-for-natural-language-processing](https://software.intel.com/en-us/articles/deep-learning-for-natural-language-processing)
 learning deep audio                                <|> * variable audio length in deep learning
-learning deep blog                                 <|> * [https://blog.floydhub.com/ten-trends-in-deep-learning-nlp](https://blog.floydhub.com/ten-trends-in-deep-learning-nlp/)
-learning deep blog text reddit new part method utm_medium utm_source serie <|> * [NLP Learning Series: Part 1 - Text Preprocessing Methods for Deep Learning](https://mlwhiz.com/blog/2019/01/17/deeplearning_nlp_preprocess/?utm_campaign=shareaholic&utm_medium=reddit&utm_source=news)
+learning deep blog                                 <|> * [blog.floydhub.com/ten-trends-in-deep-learning-nlp](https://blog.floydhub.com/ten-trends-in-deep-learning-nlp/)
+learning deep blog text reddit new part method utm_medium utm_source serie <|> * [NLP Learning Series: Part 1 - Text Preprocessing Methods for Deep Learning](https://mlwhiz.com/blog/2019/01/17/deeplearning_nlp_preprocess/)
 learning deep index best                           <|> * [Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/index.html) *****
 learning deep pdf audio cs                         <|> * [Deep Learning for Audio - lec26_audio.pdf](http://slazebni.cs.illinois.edu/spring17/lec26_audio.pdf)
 learning deep text reddit comment languagetechnology method serie <|> * [NLP Learning Series: Text Preprocessing Methods for Deep Learning](https://www.reddit.com/r/LanguageTechnology/comments/ahqlsw/nlp_learning_series_text_preprocessing_methods/)
-learning deep tutorial program                     <|> * https://naacl2019.org/program/tutorials/#t1-deep-adversarial-learning-for-nlp
+learning deep tutorial program                     <|> * [naacl2019.org/program/tutorials/#t1-deep-adversarial-learning-for-nlp](https://naacl2019.org/program/tutorials/#t1-deep-adversarial-learning-for-nlp)
 learning deep using classification code multi kera tensorflow feature <|> * [Codes of Interest | Deep Learning Made Fun: Using Bottleneck Features for Multi-Class Classification in Keras and TensorFlow](https://www.codesofinterest.com/2017/08/bottleneck-features-multi-class-classification-keras.html)
 learning deep using sequence phonetic conversion acoustic drive spectrogram <|> * Paper: Sequence-to-Sequence Acoustic-to-Phonetic Conversion using Spectrograms and Deep Learning (Drive)
 learning deep using sequence phonetic conversion acoustic drive spectrogram <|> * Sequence-to-Sequence Acoustic-to-Phonetic Conversion using Spectrograms and Deep Learning (Drive)
@@ -700,10 +700,10 @@ python                                             <|> * chart parser in python
 python blog text file                              <|> * [Simple Python Script for Extracting Text from an SRT File - Webucator Blog](https://www.webucator.com/blog/2017/04/simple-python-script-extracting-text-srt-file/)
 python blog using introduction                     <|> * [Introduction to Information Extraction Using Python and spaCy](https://www.analyticsvidhya.com/blog/2019/09/introduction-information-extraction-python-spacy/)
 python classification sequence lstm kera           <|> * [How to Develop a Bidirectional LSTM For Sequence Classification in Python with Keras](https://machinelearningmastery.com/develop-bidirectional-lstm-sequence-classification-python-keras/)
-python corpora article toolkit                     <|> * http://freecode.com/articles/processing-corpora-with-python-and-the-natural-language-toolkit
+python corpora article toolkit                     <|> * [freecode.com/articles/processing-corpora-with-python-and-the-natural-language-toolkit](http://freecode.com/articles/processing-corpora-with-python-and-the-natural-language-toolkit)
 python course php distance edit eu                 <|> * [Python Advanced: Recursive and Iterative Implementation of the Edit Distance](https://www.python-course.eu/levenshtein_distance.php)
 python data map basemap                            <|> * [Creating Attractive and Informative Map Visualisations in Python with Basemap - Data Dependence](http://www.datadependence.com/2016/06/creating-map-visualisations-in-python/)
-python data towardsdatascience top                 <|> * https://towardsdatascience.com/top-5-natural-language-processing-python-libraries-for-data-scientist-32463d36feae
+python data towardsdatascience top                 <|> * [towardsdatascience.com/top-5-natural-language-processing-python-libraries-for-data-scientist-32463d36feae](https://towardsdatascience.com/top-5-natural-language-processing-python-libraries-for-data-scientist-32463d36feae)
 python documentation doc function                  <|> * [2. Built-in Functions — Python 2.7.15 documentation](https://docs.python.org/2/library/functions.html)
 python e book q learn                              <|> * [Learn Quantum Computing with Python and Q#: A hands-on approach | Sarah C. Kaiser, Christopher E. Granade | download](https://de1lib.org/book/16088039/3dcf35?dsource=recommend)
 python list string                                 <|> * [[Python] Jarow-Winkler algorithm: Measuring similarity between strings - Grokbase](https://grokbase.com/t/python/python-list/08ckyjkr8w/jarow-winkler-algorithm-measuring-similarity-between-strings)
@@ -715,9 +715,9 @@ python question file stackoverflow stack overflow  <|> * [python - Pydub - combi
 python question stackoverflow basemap stack matplotlib overflow window module <|> * [How to Install Matplotlib Basemap Module on Windows 7 with WinPython (or any Python stack install)? - Stack Overflow](https://stackoverflow.com/questions/18109859/how-to-install-matplotlib-basemap-module-on-windows-7-with-winpython-or-any-pyt)
 python string                                      <|> * [Fuzzy String Matching in Python – Marco Bonzanini](https://marcobonzanini.com/2015/02/25/fuzzy-string-matching-in-python/)
 python string                                      <|> * [FuzzyWuzzy: Fuzzy String Matching in Python - ChairNerd](http://chairnerd.seatgeek.com/fuzzywuzzy-fuzzy-string-matching-in-python/)
-python text book corpora content nltk              <|> * https://www.packtpub.com/books/content/python-text-processing-nltk-20-creating-custom-corpora
-python text book corpora content nltk              <|> * https://www.packtpub.com/books/content/python-text-processing-nltk-20-creating-custom-corpora
-python text classification kera                    <|> * https://realpython.com/python-keras-text-classification/
+python text book corpora content nltk              <|> * [packtpub.com/books/content/python-text-processing-nltk-20-creating-custom-corpora](https://www.packtpub.com/books/content/python-text-processing-nltk-20-creating-custom-corpora)
+python text book corpora content nltk              <|> * [packtpub.com/books/content/python-text-processing-nltk-20-creating-custom-corpora](https://www.packtpub.com/books/content/python-text-processing-nltk-20-creating-custom-corpora)
+python text classification kera                    <|> * [realpython.com/python-keras-text-classification/](https://realpython.com/python-keras-text-classification/)
 python text file documentation note                <|> * [Processing Text Files in Python 3 — Nick Coghlan's Python Notes 1.0 documentation](http://python-notes.curiousefficiency.org/en/latest/python3/text_file_processing.html)
 python using d map                                 <|> * [So You’d Like To Make a Map Using Python - Sensitive Cities](https://sensitivecities.com/so-youd-like-to-make-a-map-using-python-EN.html)
 python window                                      <|> * [Python Extension Packages for Windows - Christoph Gohlke](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
@@ -746,7 +746,7 @@ arxiv pdf rnn                                      <|> * [Learning Longer-term D
 
 
 # Blog
-blog                                               <|> * https://metebalci.com/blog/hello-ipv6
+blog                                               <|> * [metebalci.com/blog/hello-ipv6](https://metebalci.com/blog/hello-ipv6)
 blog ai bert                                       <|> * [ALBERT Blog Post](https://ai.googleblog.com/2019/12/albert-lite-bert-for-self-supervised.html)
 blog bert understanding time em                    <|> * [Real-Time Language Understanding with BERT](https://developer.nvidia.com/blog/nlu-with-tensorrt-bert/?ncid=em-prom-81891)
 blog guide                                         <|> * [The Complete Guide To Deploying Your Rasa Assistant](https://blog.rasa.com/the-complete-guide-to-deploying-your-rasa-assistant/)
@@ -756,19 +756,19 @@ blog pytorch                                       <|> * [Gated Recurrent Unit (
 blog pytorch ai guide function                     <|> * [Gumbel Softmax Loss Function Guide + How to Implement it in PyTorch - neptune.ai](https://neptune.ai/blog/gumbel-softmax-loss-function-guide-how-to-implement-it-in-pytorch)
 blog semantic part                                 <|> * [Ontologies and Semantic Annotation Part 1: What Is an Ontology](https://www.datasciencecentral.com/profiles/blogs/ontologies-and-semantic-annotation-part-1-what-is-an-ontology)
 blog sequence transformer                          <|> * [Sequence Labeling With Transformers](https://www.lighttag.io/blog/sequence-labeling-with-transformers/)
-blog text ai stackoverflow speech                  <|> * https://stackoverflow.blog/2021/06/23/podcast-350-natural-language-processing-speech-to-text-rev-ai/
-blog text data training science                    <|> * https://www.amazon.science/blog/text-normalization-with-only-3-as-much-training-data
+blog text ai stackoverflow speech                  <|> * [stackoverflow.blog/2021/06/23/podcast-350-natural-language-processing-speech-to-text-rev-ai/](https://stackoverflow.blog/2021/06/23/podcast-350-natural-language-processing-speech-to-text-rev-ai/)
+blog text data training science                    <|> * [amazon.science/blog/text-normalization-with-only-3-as-much-training-data](https://www.amazon.science/blog/text-normalization-with-only-3-as-much-training-data)
 blog using basemap window                          <|> * [Compile and Install Basemap in Windows (Using MSVC) – StrayWarrior's Blog](https://blog.straywarrior.com/179.html)
-blog using bert time                               <|> * https://developer.nvidia.com/blog/real-time-nlp-with-bert-using-tensorrt-updated/
+blog using bert time                               <|> * [developer.nvidia.com/blog/real-time-nlp-with-bert-using-tensorrt-updated/](https://developer.nvidia.com/blog/real-time-nlp-with-bert-using-tensorrt-updated/)
 blog word representation                           <|> * [NLP word representations and the Wittgenstein philosophy of language | Terra Incognita](http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/)
 can main be                                        <|> * [TextAnalytics concepts can be used to deal with credibility issues in the main stream media](https://www.linkedin.com/pulse/textanalytics-concepts-can-used-deal-credibility-main-ramsundar/)
 
 # Course
-course                                             <|> * https://ocw.mit.edu/courses/linguistics-and-philosophy/24-222-decisions-games-and-rational-choice-spring-2008/
+course                                             <|> * [ocw.mit.edu/courses/linguistics-and-philosophy/24-222-decisions-games-and-rational-choice-spring-2008/](https://ocw.mit.edu/courses/linguistics-and-philosophy/24-222-decisions-games-and-rational-choice-spring-2008/)
 course ac corpu content uk                         <|> * [Courses in Corpus Linguistics](https://www1.essex.ac.uk/linguistics/external/clmt/w3c/corpus_ling/content/courses/conferences.html)
 course ac uk teaching                              <|> * [ASR Lectures 2021](http://www.inf.ed.ac.uk/teaching/courses/asr/lectures-2021.html)
 course corpora link                                <|> * [Working with Corpora: Links - Katrin Erk's homepage](http://www.katrinerk.com/courses/working-with-corpora/working-with-corpora-links)
-course corpora link                                <|> * http://www.katrinerk.com/courses/working-with-corpora/working-with-corpora-links
+course corpora link                                <|> * [katrinerk.com/courses/working-with-corpora/working-with-corpora-links](http://www.katrinerk.com/courses/working-with-corpora/working-with-corpora-links)
 course course                                      <|> * [R для лингвистов: программирование и анализ данных](https://courses.openedu.ru/courses/course-v1:hse+RLING+spring_2019/courseware/670adff451054124a3e895905bdf8165/8882e1d7c01f4048a0adb40efca4aae1/)
 course course corpu                                <|> * [Corpus Linguistics - Online Course](https://www.futurelearn.com/courses/corpus-linguistics)
 course data main                                   <|> * [Data Versus Democracy: How Big Data Algorithms Shape Opinions and Alter the Course of History](http://library.lol/main/183600112C52AE026378EF1F6DB6B8D3)
@@ -779,16 +779,16 @@ course work                                        <|> * Work through NER notebo
 
 # Phonetics
 phonetic                                           <|> * Phonetics PhD Position Zürich
-phonetic                                           <|> * http://homepage.ntu.edu.tw/~karchung/Phonetics%20II%20page%20twentythree.htm
+phonetic                                           <|> * [homepage.ntu.edu.tw/~karchung/Phonetics%20II%20page%20twentythree.htm](http://homepage.ntu.edu.tw/~karchung/Phonetics%20II%20page%20twentythree.htm)
 phonetic attention toward based alignment forced   <|> * (Toward) Attention-Based Forced Alignment of Phonetic Transcriptions
-phonetic based at tool example                     <|> * https://www.spsc.tugraz.at/databases-and-tools/example-based-automatic-phonetic-transcription.html
+phonetic based at tool example                     <|> * [spsc.tugraz.at/databases-and-tools/example-based-automatic-phonetic-transcription.html](https://www.spsc.tugraz.at/databases-and-tools/example-based-automatic-phonetic-transcription.html)
 phonetic conversion voice drive modeling           <|> * CROSS-LINGUAL VOICE CONVERSION WITH BILINGUAL PHONETIC POSTERIORGRAM AND AVERAGE MODELING - poster on Drive
 phonetic medium audio do can                       <|> * [Phonetic posteriorgrams and the magic they can do for audio! | by Kush Misra | Medium](https://medium.com/@kushmisra7/phonetic-posteriorgrams-and-the-magic-theycan-do-for-audio-ae426edd3de2)
 
 # Model
 model                                              <|> * [Better Language Models and Their Implications](https://blog.openai.com/better-language-models/#sample3)
-model                                              <|> * https://thegradientpub.substack.com/p/rishi-bommasani-on-foundation-models
-model ai pub thegradient                           <|> * https://thegradient.pub/strong-ai-requires-autonomous-building-of-composable-models/
+model                                              <|> * [thegradientpub.substack.com/p/rishi-bommasani-on-foundation-models](https://thegradientpub.substack.com/p/rishi-bommasani-on-foundation-models)
+model ai pub thegradient                           <|> * [thegradient.pub/strong-ai-requires-autonomous-building-of-composable-models/](https://thegradient.pub/strong-ai-requires-autonomous-building-of-composable-models/)
 model arxiv acoustic abs                           <|> * [[1803.09519] Self-Attentional Acoustic Models](https://arxiv.org/abs/1803.09519)
 model deep sequence                                <|> * Sequence to Sequence (Seq2Seq) models in Deep Learning
 model documentation co                             <|> * [Summary of the models — transformers 2.11.0 documentation](https://huggingface.co/transformers/summary.html)
@@ -796,9 +796,9 @@ model google search q                              <|> * [Cognitive and Computat
 model language neural acoustic network             <|> * how Transferable Are Features in Convolutional Neural Network Acoustic Models across Languages?
 model net                                          <|> * [OpenNMT-py models - OpenNMT](https://opennmt.net/Models-py/)
 model pdf neural network cs ac                     <|> * [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
-model pub thegradient                              <|> * https://thegradient.pub/reflections-on-foundation-models/
-model pytorch training acoustic publication        <|> * https://deepai.org/publication/pkwrap-a-pytorch-package-for-lf-mmi-training-of-acoustic-models
-model pytorch training acoustic publication        <|> * https://deepai.org/publication/pkwrap-a-pytorch-package-for-lf-mmi-training-of-acoustic-models
+model pub thegradient                              <|> * [thegradient.pub/reflections-on-foundation-models/](https://thegradient.pub/reflections-on-foundation-models/)
+model pytorch training acoustic publication        <|> * [deepai.org/publication/pkwrap-a-pytorch-package-for-lf-mmi-training-of-acoustic-models](https://deepai.org/publication/pkwrap-a-pytorch-package-for-lf-mmi-training-of-acoustic-models)
+model pytorch training acoustic publication        <|> * [deepai.org/publication/pkwrap-a-pytorch-package-for-lf-mmi-training-of-acoustic-models](https://deepai.org/publication/pkwrap-a-pytorch-package-for-lf-mmi-training-of-acoustic-models)
 model sequence understanding                       <|> * ** Natural Language Understanding with Sequence to Sequence Models
 model word arxiv embedding abs topic topic         <|> * [Tired of Topic Models? Clusters of Pretrained Word Embeddings Make for Fast and Good Topics too!](https://arxiv.org/abs/2004.14914)
 model word sequence representation rnn             <|> * [RNN #2: Notation | Sentence and Word Representation | Sequence Models](https://youtu.be/1gaHRaYoC94)
@@ -810,41 +810,41 @@ word comment reddit embedding languagetechnology   <|> * [Multilingual Word Embe
 word data embedding towardsdatascience vector part modeling science <|> * [Beyond Word Embeddings Part 2 - Towards Data Science](https://towardsdatascience.com/beyond-word-embeddings-part-2-word-vectors-nlp-modeling-from-bow-to-bert-4ebd4711d0ec)
 word deep representation                           <|> * [ELMo: Deep contextualized word representations](https://allennlp.org/elmo)
 word embedding                                     <|> * [Word embeddings in 2017: Trends and future directions](http://ruder.io/word-embeddings-2017/index.html#embeddingsformultiplelanguages)
-word embedding                                     <|> * https://dataaspirant.com/word-embedding-techniques-nlp/
+word embedding                                     <|> * [dataaspirant.com/word-embedding-techniques-nlp/](https://dataaspirant.com/word-embedding-techniques-nlp/)
 word embedding acoustic                            <|> * [Acoustic word embeddings](https://youtu.be/wBAUIXrtg_0)
 word machine neural attention article translation go method <|> * [Encoder-Decoder Attention̸=Word Alignment:Axiomatic Method of Learning Word Alignmentsfor Neural Machine Translation](https://www.jstage.jst.go.jp/article/jnlp/27/3/27_531/_pdf/-char/en)
 word machine new translation                       <|> * [A New Age for Word Alignment in Machine Translation](https://labs.lilt.com/a-new-age-for-word-alignment-in-machine-translation)
-word towardsdatascience representation i part      <|> * https://towardsdatascience.com/word-representation-in-natural-language-processing-part-i-e4cd54fed3d4
+word towardsdatascience representation i part      <|> * [towardsdatascience.com/word-representation-in-natural-language-processing-part-i-e4cd54fed3d4](https://towardsdatascience.com/word-representation-in-natural-language-processing-part-i-e4cd54fed3d4)
 word using machine representation publication vector document <|> * [$$$A low-dimensional vector representation for words using an extreme learning machine - IEEE Conference Publication](https://ieeexplore.ieee.org/document/7966071)
 
 
 # Medium
-medium                                             <|> * https://quantumstat.medium.com/the-nlp-cypher-12-12-21-68164482e633
-medium                                             <|> * https://quantumstat.medium.com/the-nlp-cypher-12-26-21-5c91fa16fc85
+medium                                             <|> * [quantumstat.medium.com/the-nlp-cypher-12-12-21-68164482e633](https://quantumstat.medium.com/the-nlp-cypher-12-12-21-68164482e633)
+medium                                             <|> * [quantumstat.medium.com/the-nlp-cypher-12-26-21-5c91fa16fc85](https://quantumstat.medium.com/the-nlp-cypher-12-26-21-5c91fa16fc85)
 medium data do work                                <|> * [How node2vec works — and what it can do that word2vec can’t](https://medium.freecodecamp.org/how-to-think-about-your-data-in-a-different-way-b84306fc2e1d)
-medium deep                                        <|> * https://medium.com/@datamonsters/13-deep-learning-frameworks-for-natural-language-processing-in-python-2b84a6b6cd98
+medium deep                                        <|> * [medium.com/@datamonsters/13-deep-learning-frameworks-for-natural-language-processing-in-python-2b84a6b6cd98](https://medium.com/@datamonsters/13-deep-learning-frameworks-for-natural-language-processing-in-python-2b84a6b6cd98)
 medium embedding part code                         <|> * [Elmo Embeddings : A use case study with code — part 1](https://medium.com/@errabia.oussama/elmo-embeddings-a-use-case-study-with-code-part-1-e2e5eb7df85c)
 medium generation guide                            <|> * [A Comprehensive Guide to Natural Language Generation](https://medium.com/sciforce/a-comprehensive-guide-to-natural-language-generation-dd63a4b6e548)
 medium modeling topic                              <|> * [Topic Modeling with LSA, PLSA, LDA & lda2Vec - NanoNets - Medium](https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05)
-medium new work                                    <|> * https://medium.com/dessa-news/realtalk-how-it-works-94c1afda62f0
-medium new work                                    <|> * https://medium.com/dessa-news/realtalk-how-it-works-94c1afda62f0
+medium new work                                    <|> * [medium.com/dessa-news/realtalk-how-it-works-94c1afda62f0](https://medium.com/dessa-news/realtalk-how-it-works-94c1afda62f0)
+medium new work                                    <|> * [medium.com/dessa-news/realtalk-how-it-works-94c1afda62f0](https://medium.com/dessa-news/realtalk-how-it-works-94c1afda62f0)
 
 
 # Uni
-uni                                                <|> * http://www.sfs.uni-tuebingen.de/study-iscl/en/
-uni                                                <|> * https://www.lst.uni-saarland.de/team/profs.html
-uni                                                <|> * https://www.uni-potsdam.de/en/nola/team-members
+uni                                                <|> * [sfs.uni-tuebingen.de/study-iscl/en/](http://www.sfs.uni-tuebingen.de/study-iscl/en/)
+uni                                                <|> * [lst.uni-saarland.de/team/profs.html](https://www.lst.uni-saarland.de/team/profs.html)
+uni                                                <|> * [uni-potsdam.de/en/nola/team-members](https://www.uni-potsdam.de/en/nola/team-members)
 uni course                                         <|> * [Computational Linguistics](https://www.uni-heidelberg.de/courses/prospective/academicprograms/computerling_ma_en.html)
 uni id application                                 <|> * [Computational Linguistics and Phonetics](http://www.coli.uni-saarland.de/msc/page.php?id=application-checklist)
-uni ling                                           <|> * http://www.ling.uni-potsdam.de/cogsys/bm_nlp.html
-uni ling                                           <|> * https://www.uni-potsdam.de/en/ling/researchgroups/phonology-phonetics
+uni ling                                           <|> * [ling.uni-potsdam.de/cogsys/bm_nlp.html](http://www.ling.uni-potsdam.de/cogsys/bm_nlp.html)
+uni ling                                           <|> * [uni-potsdam.de/en/ling/researchgroups/phonology-phonetics](https://www.uni-potsdam.de/en/ling/researchgroups/phonology-phonetics)
 uni list stuttgart ims                             <|> * [List of all IMS Theses](https://www.ims.uni-stuttgart.de/forschung/publikationen/abschlussarbeiten/)
-uni stuttgart ilia baseclas cmd cmdclas ref_id cmdnode <|> * https://ilias3.uni-stuttgart.de/ilias.php?ref_id=702886&cmd=show&cmdClass=ildclrecordlistgui&cmdNode=wg:lg:9q&baseClass=ilRepositoryGUI
+uni stuttgart ilia baseclas cmd cmdclas ref_id cmdnode <|> * [ilias3.uni-stuttgart.de/ilias.php?ref_id=702886&cmd=show&cmdClass=ildclrecordlistgui&cmdNode=wg:lg:9q&baseClass=ilRepositoryGUI](https://ilias3.uni-stuttgart.de/ilias.php?ref_id=702886&cmd=show&cmdClass=ildclrecordlistgui&cmdNode=wg:lg:9q&baseClass=ilRepositoryGUI)
 uni stuttgart new university ims                   <|> * [IBM best paper award | Institute for Natural Language Processing | University of Stuttgart](http://www.ims.uni-stuttgart.de/news/2018-11-16-bestpaper?__locale=en)
 uni stuttgart program program university           <|> * [Computational Linguistics M.Sc. | Study program | University of Stuttgart](https://www.uni-stuttgart.de/en/study/study-programs/program/Computational-Linguistics-M.Sc./)
-uni stuttgart project research ims                 <|> * https://www.ims.uni-stuttgart.de/en/research/projects/
-uni stuttgart teaching ims                         <|> * https://www.ims.uni-stuttgart.de/en/teaching/theses/
-uni teaching                                       <|> * https://www.uni-saarland.de/lehrstuhl/moebius/members/bernd-moebius/teaching.html
+uni stuttgart project research ims                 <|> * [ims.uni-stuttgart.de/en/research/projects/](https://www.ims.uni-stuttgart.de/en/research/projects/)
+uni stuttgart teaching ims                         <|> * [ims.uni-stuttgart.de/en/teaching/theses/](https://www.ims.uni-stuttgart.de/en/teaching/theses/)
+uni teaching                                       <|> * [uni-saarland.de/lehrstuhl/moebius/members/bernd-moebius/teaching.html](https://www.uni-saarland.de/lehrstuhl/moebius/members/bernd-moebius/teaching.html)
 university                                         <|> * [Is the Right Right on Economics? – Washington University Political Review](https://www.wupr.org/2021/08/19/is-the-right-right-on-economics/?
 
 # ?
@@ -867,18 +867,18 @@ university                                         <|> * [Is the Right Right on 
 ?                                                  <|> * ambiguously figurative language
 ?                                                  <|> * bnf grammar
 ?                                                  <|> * contrastive autoencoder
-?                                                  <|> * http://www.aucel.com/pln/k-es.html
-?                                                  <|> * http://www.computerlinguistik.org/portal/portal.html?s=Institutionen
-?                                                  <|> * http://www.translationparty.com/
-?                                                  <|> * https://learntospark.blogspot.com/2020/01/natural-language-processing-nlp.html
-?                                                  <|> * https://matrix.org/discover/
-?                                                  <|> * https://pyroomacoustics.readthedocs.io/en/pypi-release/pyroomacoustics.datasets.timit.html
-?                                                  <|> * https://wenlong.page/language-planner/
-?                                                  <|> * https://www.clear.rice.edu/elec301/Projects99/anlgcomp/
-?                                                  <|> * https://www.codementor.io/@rishabhshukla
-?                                                  <|> * https://www.codementor.io/@sreymechsl969
-?                                                  <|> * https://zhuanlan.zhihu.com/p/265149474
-?                                                  <|> * https://zhuanlan.zhihu.com/p/265149474
+?                                                  <|> * [aucel.com/pln/k-es.html](http://www.aucel.com/pln/k-es.html)
+?                                                  <|> * [computerlinguistik.org/portal/portal.html?s=Institutionen](http://www.computerlinguistik.org/portal/portal.html?s=Institutionen)
+?                                                  <|> * [translationparty.com/](http://www.translationparty.com/)
+?                                                  <|> * [learntospark.blogspot.com/2020/01/natural-language-processing-nlp.html](https://learntospark.blogspot.com/2020/01/natural-language-processing-nlp.html)
+?                                                  <|> * [matrix.org/discover/](https://matrix.org/discover/)
+?                                                  <|> * [pyroomacoustics.readthedocs.io/en/pypi-release/pyroomacoustics.datasets.timit.html](https://pyroomacoustics.readthedocs.io/en/pypi-release/pyroomacoustics.datasets.timit.html)
+?                                                  <|> * [wenlong.page/language-planner/](https://wenlong.page/language-planner/)
+?                                                  <|> * [clear.rice.edu/elec301/Projects99/anlgcomp/](https://www.clear.rice.edu/elec301/Projects99/anlgcomp/)
+?                                                  <|> * [codementor.io/@rishabhshukla](https://www.codementor.io/@rishabhshukla)
+?                                                  <|> * [codementor.io/@sreymechsl969](https://www.codementor.io/@sreymechsl969)
+?                                                  <|> * [zhuanlan.zhihu.com/p/265149474](https://zhuanlan.zhihu.com/p/265149474)
+?                                                  <|> * [zhuanlan.zhihu.com/p/265149474](https://zhuanlan.zhihu.com/p/265149474)
 ?                                                  <|> * openCL
 ?                                                  <|> * wav2vec, wav2vec 2
 ?                                                  <|> * Азбука нейролингвистики

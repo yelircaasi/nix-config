@@ -21,55 +21,55 @@ browser rice * [How to Customize Firefox Reader View for Better Readability - Ho
 browser rice * [openstyles/stylus: Stylus - Userstyles Manager](https://github.com/openstyles/stylus/tree/master)
 browser rice * [shina-fox](https://github.com/Shina-SG/Shina-Fox)
 browser rice * [tampermonkey](https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/)[How to Use Tampermonkey to Improve a Website's UI – Example Using freeCodeCamp](https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/) 
-browser rice * [www.tampermonkey](https://www.tampermonkey.net/) 
+browser rice * [tampermonkey](https://www.tampermonkey.net/) 
 browser ricing * [cascade](https://github.com/andreasgrafen/cascade)
 browser ricing * [Tile Tabs :: Add-ons for Firefox](https://web.archive.org/web/20170821155241/https://addons.mozilla.org/en-US/firefox/addon/tile-tabs/?src%3Duserprofile)
 
 * [InBrowser.App](https://inbrowser.app/)
 * [Michasze/surf-wayland: Suckless surf browser that runs on Wayland compositors](https://github.com/Michasze/surf-wayland)
 * [Luakit Web Browser](https://luakit.github.io/)
-* [Why Everyone Is OBSESSED With Arc Browser - YouTube](https://www.youtube.com/watch?v%3DUdopamaLJC8) [quickstrom/quickstrom: High-confidence browser testing](https://github.com/quickstrom/quickstrom/tree/main)
+* [](https://github.com/quickstrom/quickstrom/tree/main)
 * [Browserling – Online cross-browser testing](https://www.browserling.com/)
 * [Luakit Web Browser](https://luakit.github.io/#sec-download)
 * [luakit/luakit: Fast, small, webkit based browser framework extensible by Lua.](https://github.com/luakit/luakit)
 * [Vimb - A Minimal Browser with Vim like Bindings - YouTube](https://www.youtube.com/watch?v=26xWK35pinA)
-* [https://dillo-browser.github.io/](https://dillo-browser.github.io/)
-* [https://epicbrowser.com/privacy-policy](https://epicbrowser.com/privacy-policy)
-* [https://github.com/textbrowser/dooble](https://github.com/textbrowser/dooble)
-* [https://icecatbrowser.org/](https://icecatbrowser.org/)
-* [https://securityboulevard.com/2023/06/avoid-the-hack-3-best-privacy-browser-picks-for-android/](https://securityboulevard.com/2023/06/avoid-the-hack-3-best-privacy-browser-picks-for-android/)
-* [https://serverracket.com/](https://serverracket.com/)
-* [https://www.netsurf-browser.org/](https://www.netsurf-browser.org/)
+* [dillo-browser.github.io/](https://dillo-browser.github.io/)
+* [epicbrowser.com/privacy-policy](https://epicbrowser.com/privacy-policy)
+* [github.com/textbrowser/dooble](https://github.com/textbrowser/dooble)
+* [icecatbrowser.org/](https://icecatbrowser.org/)
+* [securityboulevard.com/2023/06/avoid-the-hack-3-best-privacy-browser-picks-for-android/](https://securityboulevard.com/2023/06/avoid-the-hack-3-best-privacy-browser-picks-for-android/)
+* [serverracket.com/](https://serverracket.com/)
+* [netsurf-browser.org/](https://www.netsurf-browser.org/)
 * [ii.com: Getting Started With qutebrowser](http://www.ii.com/qutebrowser-getting-started/)
 * [visurf: Minimal web browser based on netsurf](https://sr.ht/~sircmpwn/visurf/)
 * [wyeb | a vim-like webkit2gtk web browser](https://wyeb.org/)
-sw browser [https://github.com/dr460nf1r3/firedragon-browser](https://github.com/dr460nf1r3/firedragon-browser) 
-sw browser [https://greasyfork.org/](https://greasyfork.org/) 
-sw browser [https://greasyfork.org/en/scripts/470753-mastodon-birdui-style-override](https://greasyfork.org/en/scripts/470753-mastodon-birdui-style-override) 
-sw browser [https://greasyfork.org/en](https://greasyfork.org/en) 
+sw browser [github.com/dr460nf1r3/firedragon-browser](https://github.com/dr460nf1r3/firedragon-browser) 
+sw browser [greasyfork.org/](https://greasyfork.org/) 
+sw browser [greasyfork.org/en/scripts/470753-mastodon-birdui-style-override](https://greasyfork.org/en/scripts/470753-mastodon-birdui-style-override) 
+sw browser [greasyfork.org/en](https://greasyfork.org/en) 
 sw browser extension [bug: chromium.extensions don't work for brave or ungoogled-chromium · Issue #2216 · nix-community/home-manager](https://github.com/nix-community/home-manager/issues/2216%23issuecomment-917507881)
 ##### nyxt
-* https://www.youtube.com/@nyxt-browser
+* [](https://www.youtube.com/@nyxt-browser)
 * [How to take notes in the Nyxt browser?](https://www.youtube.com/watch?v=8fmWWgU_gk4)
-* https://www.youtube.com/@nyxtacademy5956
+* [](https://www.youtube.com/@nyxtacademy5956)
 * [Vieb: More Than Jus](https://www.youtube.com/watch?v=6DPDExXs77Q)t A Vim Inspired Browser
 * [I'm leaving Firefox, and this is](https://www.youtube.com/watch?v=DgFS1Do_1As) the browser I picked...
-* Nyxt Intro Video https://www.youtube.com/watch?v=8yBjfjFE0fk&t=193s
+* Nyxt Intro Video [](https://www.youtube.com/watch?v=8yBjfjFE0fk&t=193s)
 * [Crafting the Nyxt Browser](https://www.youtube.com/watch?v=Hvlkca98tyw)
 * [Nyxt Is The Most Custo](https://www.youtube.com/watch?v=SVteSEjKytw&t=175s)mizable Web Browser EVER
 * [Nyxt Web Browser - Keyboard driven, Lisp](https://www.youtube.com/watch?v=1TydtiWwZgQ&t=116s) Powered, And Does What I
 * [Nyxt: The Internet on your terms / Pierre](https://www.youtube.com/watch?v=wCHnb8pvneE) Neidhardt / GambiConf EU
 * [EmacsConf 2021: Emacs with Nyxt: extend your](https://www.youtube.com/watch?v=XarwuynpWkA) editor with the power of
 nyxt [How-to Theme Nyxt (the easy way) - YouTube](https://m.youtube.com/watch?v%3DtaNNvTWL3zo)
-nyxt [https://github.com/aartaka/nyxt-config](https://github.com/aartaka/nyxt-config)
-nyxt [https://github.com/search?q=nyxt&type=repositories&s=updated&o=desc](https://github.com/search?q%3Dnyxt%26type%3Drepositories%26s%3Dupdated%26o%3Ddesc) 
-nyxt [https://github.com/search?q=nyxt+config&type=repositories&s=updated&o=desc](https://github.com/search?q%3Dnyxt%2Bconfig%26type%3Drepositories%26s%3Dupdated%26o%3Ddesc) 
-nyxt [https://www.aartaka.me.eu.org/nyxt-to-surf](https://www.aartaka.me.eu.org/nyxt-to-surf)
-nyxt [https://www.reddit.com/r/Nyxt/comments/18ir89v/how_to_bind_custom_hotkeys_in_nyxt/](https://www.reddit.com/r/Nyxt/comments/18ir89v/how_to_bind_custom_hotkeys_in_nyxt/) 
-nyxt [https://www.reddit.com/r/Nyxt/s/qMGTPsBpek](https://www.reddit.com/r/Nyxt/s/qMGTPsBpek) Nyxt dark
+nyxt [github.com/aartaka/nyxt-config](https://github.com/aartaka/nyxt-config)
+nyxt [github.com/search?q=nyxt&type=repositories&s=updated&o=desc](https://github.com/search?q%3Dnyxt%26type%3Drepositories%26s%3Dupdated%26o%3Ddesc) 
+nyxt [github.com/search?q=nyxt+config&type=repositories&s=updated&o=desc](https://github.com/search?q%3Dnyxt%2Bconfig%26type%3Drepositories%26s%3Dupdated%26o%3Ddesc) 
+nyxt [aartaka.me.eu.org/nyxt-to-surf](https://www.aartaka.me.eu.org/nyxt-to-surf)
+nyxt [reddit.com/r/Nyxt/comments/18ir89v/how_to_bind_custom_hotkeys_in_nyxt/](https://www.reddit.com/r/Nyxt/comments/18ir89v/how_to_bind_custom_hotkeys_in_nyxt/) 
+nyxt [reddit.com/r/Nyxt/s/qMGTPsBpek](https://www.reddit.com/r/Nyxt/s/qMGTPsBpek) Nyxt dark
 * [anomalocaridid](https://github.com/Anomalocaridid/dotfiles/blob/main/home/nyxt.nix)
 ##### qutebrowser
-* [https://github.com/hallonfras/qutewal](https://github.com/hallonfras/qutewal) 
+* [github.com/hallonfras/qutewal](https://github.com/hallonfras/qutewal) 
 * [qutebrowser/qutebrowser at maint/flaky_js_tests](https://github.com/qutebrowser/qutebrowser/tree/maint/flaky_js_tests)
 
 * [qutebrowser/qutebrowser at maint/flaky_js_tests](https://github.com/qutebrowser/qutebrowser/tree/maint/flaky_js_tests)
@@ -91,7 +91,7 @@ sw qute [ii.com: qutebrowser’s Template config.py](https://www.ii.com/qutebrow
 sw qute [qutebrowser - ArchWiki](https://wiki.archlinux.org/title/qutebrowser)
 
 ### Meta, Review
-https://llmilne.com/blog/browsers/
+[llmilne.com/blog/browsers/](https://llmilne.com/blog/browsers/)
 
 ### GUI
 #### Keyboard-Navigable Hackable GUI Browser
@@ -141,52 +141,52 @@ https://llmilne.com/blog/browsers/
 * [](https://github.com/soulhotel/Perfection-Firefox-CSS-Theme)
 * [](https://superuser.com/questions/1337469/grasemonkey-change-design-css)
 
-*      https://github.com/excalith/excalith-start-page
-*      https://userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme
-*      - [ ]  try Selenium on:            - [ ]  chrome-extension://hncgkmhphmncjohllpoleelnibpmccpj/manage.html            - [ ]  chrome-extension://clngdbkpkpeebahjckkjfobafhncgmne/edit.html            - [ ]  moz-extension://fcb928ab-a898-4c47-9f85-2ff701b6e9dc/manage.html            - [ ]  moz-extension://ae95df29-277d-4ee3-aeb6-e4e84dfebada/manage.html            - [ ]  edge:  extension://clngdbkpkpeebahjckkjfobafhncgmne/manage.html            - [ ]  edge: extension://hncgkmhphmncjohllpoleelnibpmccpj/manage.html            - [ ]  https://selenium-python.readthedocs.io/installation.html            - [ ]  https://userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme
-*      https://github.com/M4cs/foxify-cli
-*      https://www.reddit.com/r/linuxquestions/comments/tfa8n6/chromium_dark_theme_on_flatpak/
-*      https://github.com/akshat46/FlyingFox - work with old version of Firefox? fork old version? https://flyingfox.netlify.app/ [reddit](https://www.reddit.com/r/unixporn/comments/glbl4v/oc_its_not_normal_to_want_my_firefox_to_sit_on_my/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=10&utm_content=share_button)
-*      https://github.com/tridactyl/tridactyl
-*      https://github.com/muckSponge/MaterialFox → great rreference
-*      https://github.com/openstyles/stylus
-*      https://github.com/stylish-userstyles/stylish
-*      https://github.com/openstyles/stylus/wiki/UserCSS
-*      https://github.com/FirefoxBar/xStyle
+*      [excalith/excalith-start-page](https://github.com/excalith/excalith-start-page)
+*      [userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme](https://userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme)
+*      - [ ]  try Selenium on:            - [ ]  chrome-extension://hncgkmhphmncjohllpoleelnibpmccpj/manage.html            - [ ]  chrome-extension://clngdbkpkpeebahjckkjfobafhncgmne/edit.html            - [ ]  moz-extension://fcb928ab-a898-4c47-9f85-2ff701b6e9dc/manage.html            - [ ]  moz-extension://ae95df29-277d-4ee3-aeb6-e4e84dfebada/manage.html            - [ ]  edge:  extension://clngdbkpkpeebahjckkjfobafhncgmne/manage.html            - [ ]  edge: extension://hncgkmhphmncjohllpoleelnibpmccpj/manage.html            - [ ]  [selenium-python.readthedocs.io/installation.html](https://selenium-python.readthedocs.io/installation.html)            - [ ]  [userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme](https://userstyles.org/styles/163722/wikipedia-math-fix-for-dark-theme)
+*      [M4cs/foxify-cli](https://github.com/M4cs/foxify-cli)
+*      [r/linuxquestions/comments/tfa8n6/chromium_dark_theme_on_flatpak/](https://www.reddit.com/r/linuxquestions/comments/tfa8n6/chromium_dark_theme_on_flatpak/)
+*      [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - work with old version of Firefox? fork old version? [flyingfox.netlify.app/](https://flyingfox.netlify.app/) [reddit](https://www.reddit.com/r/unixporn/comments/glbl4v/oc_its_not_normal_to_want_my_firefox_to_sit_on_my/)
+*      [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl)
+*      [muckSponge/MaterialFox](https://github.com/muckSponge/MaterialFox) → great rreference
+*      [openstyles/stylus](https://github.com/openstyles/stylus)
+*      [stylish-userstyles/stylish](https://github.com/stylish-userstyles/stylish)
+*      [openstyles/stylus/wiki/UserCSS](https://github.com/openstyles/stylus/wiki/UserCSS)
+*      [FirefoxBar/xStyle](https://github.com/FirefoxBar/xStyle)
 
 * [Customizing Colors - Tailwind CSS](https://tailwindcss.com/docs/customizing-colors)
 *      - Sites to make custom CSS for:*         - Notion*         - GitHub*         - gitlab*         - stack overflow*         - stackexchange*         - Wikipedia*         - not YouTube unless I get AdBlock sorted*         - all mdbook sites*         - all docs I use frequently - python, rust, kotlin, julIa, etc*         - email (Gmail, Proton, etc)*         - Discord*         - Element*         - Reddit*         - Fediverse site*         - LibGen sites, Anna’s archive*         - BGA*         - Overleaf*         - google page, google docs, suite, drive*         - teams, outlook*         - nextcloud*         - fsf, Linux foundation, etc*         -
 *         Apps
 *         - freetube*         -
-*      https://addons.mozilla.org/en-US/firefox/addon/re-style/
-*      https://wiki.archlinux.org/title/Firefox/Tweaks
-*      https://github.com/sekuji/mad-darkness
-*      https://github.com/Arsemy/chromium-tokyonight
-*      https://stackoverflow.com/questions/22193369/run-chrome-extensions-using-command-prompt
-*      https://superuser.com/questions/1540252/how-to-run-chrome-chromium-extension-from-terminal-line-extension
+*      [addons.mozilla.org/en-US/firefox/addon/re-style/](https://addons.mozilla.org/en-US/firefox/addon/re-style/)
+*      [wiki.archlinux.org/title/Firefox/Tweaks](https://wiki.archlinux.org/title/Firefox/Tweaks)
+*      [sekuji/mad-darkness](https://github.com/sekuji/mad-darkness)
+*      [Arsemy/chromium-tokyonight](https://github.com/Arsemy/chromium-tokyonight)
+*      [stackoverflow.com/questions/22193369/run-chrome-extensions-using-command-prompt](https://stackoverflow.com/questions/22193369/run-chrome-extensions-using-command-prompt)
+*      [superuser.com/questions/1540252/how-to-run-chrome-chromium-extension-from-terminal-line-extension](https://superuser.com/questions/1540252/how-to-run-chrome-chromium-extension-from-terminal-line-extension)
 *      → Write own extension to load stylesheets into mainstream browsers via command line
-*      https://book.huihoo.com/creating-applications-with-mozilla/mozilla-chp-4-sect-3.html
-*      https://book.huihoo.com/creating-applications-with-mozilla/
-*      https://www.userchrome.org/
-*      https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions
-*      https://developer.chrome.com/docs/extensions/mv3/
-*      https://chromium.googlesource.com/chromium/src.git/+/refs/heads/main/ui/native_theme/ → look into fixing
-*      https://github.com/brave/brave-core https://github.com/brave/brave-core/tree/master/ui/webui/resources
-*      https://github.com/BachoSeven/startpage
-*      https://github.com/Axenide/StartPage
-*      https://github.com/p3nguin-kun/penguinFox
-*      https://github.com/p3nguin-kun/penguinFox-Librewolf
-*      https://gitlab.com/GasparVardanyan/solarized
-*      https://github.com/soup-bowl/Modoki-Firefox [[XFCE4] Chicago95 + Vaporvave = Awesome : unixporn](https://www.reddit.com/r/unixporn/comments/112oexs/xfce4_chicago95_vaporvave_awesome/)
+*      [book.huihoo.com/creating-applications-with-mozilla/mozilla-chp-4-sect-3.html](https://book.huihoo.com/creating-applications-with-mozilla/mozilla-chp-4-sect-3.html)
+*      [book.huihoo.com/creating-applications-with-mozilla/](https://book.huihoo.com/creating-applications-with-mozilla/)
+*      [userchrome.org/](https://www.userchrome.org/)
+*      [developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
+*      [developer.chrome.com/docs/extensions/mv3/](https://developer.chrome.com/docs/extensions/mv3/)
+*      [chromium.googlesource.com/chromium/src.git/+/refs/heads/main/ui/native_theme/](https://chromium.googlesource.com/chromium/src.git/+/refs/heads/main/ui/native_theme/) → look into fixing
+*      [brave/brave-core](https://github.com/brave/brave-core) [brave/brave-core/tree/master/ui/webui/resources](https://github.com/brave/brave-core/tree/master/ui/webui/resources)
+*      [BachoSeven/startpage](https://github.com/BachoSeven/startpage)
+*      [Axenide/StartPage](https://github.com/Axenide/StartPage)
+*      [p3nguin-kun/penguinFox](https://github.com/p3nguin-kun/penguinFox)
+*      [p3nguin-kun/penguinFox-Librewolf](https://github.com/p3nguin-kun/penguinFox-Librewolf)
+*      [gitlab.com/GasparVardanyan/solarized](https://gitlab.com/GasparVardanyan/solarized)
+*      [soup-bowl/Modoki-Firefox](https://github.com/soup-bowl/Modoki-Firefox) [[XFCE4] Chicago95 + Vaporvave = Awesome : unixporn](https://www.reddit.com/r/unixporn/comments/112oexs/xfce4_chicago95_vaporvave_awesome/)
 
 * [Where are installed Google Chrome extensions stored locally? - Stack Overflow](https://stackoverflow.com/questions/21475866/where-are-installed-google-chrome-extensions-stored-locally)
 
 sw  [yokoffing/Betterfox: Firefox speed, privacy, and security: a user.js template for configuration. Your favorite browser, but better.](https://github.com/yokoffing/Betterfox)
 
 #### Rice FF
-* https://gitlab.com/domsch1988/domfox
+* [gitlab.com/domsch1988/domfox](https://gitlab.com/domsch1988/domfox)
 
-rice ff  [https://github.com/Neikon/Fox11](https://github.com/Neikon/Fox11) HGKeeper 
+rice ff  [github.com/Neikon/Fox11](https://github.com/Neikon/Fox11) HGKeeper 
 
 rice ff & chrome startpage 
     * [reddit](https://www.reddit.com/r/unixporn/s/mvA6EhXF0t)
@@ -198,35 +198,35 @@ rice ff : config hack shitpost 
 * [Tile Tabs WE :: Add-ons for Firefox](https://web.archive.org/web/20170821233327/https://addons.mozilla.org/en-US/firefox/addon/tile-tabs-we/)
 * [arkenfox/user.js: Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening](https://github.com/arkenfox/user.js)
 * [firefox-userchrome · GitHub Topics](https://github.com/topics/firefox-userchrome)
-* [https://firefoxcss-store.github.io/](https://firefoxcss-store.github.io/)
-* [https://github.com/Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx)
-* [https://github.com/Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx)
-* [https://github.com/Godiesc/firefox-one](https://github.com/Godiesc/firefox-one)
-* [https://github.com/HelgiMagic/FirefoxCSS](https://github.com/HelgiMagic/FirefoxCSS)
-* [https://github.com/Jamir-boop/minimalisticfox](https://github.com/Jamir-boop/minimalisticfox)
-* [https://github.com/KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF)
-* [https://github.com/Naezr/ShyFox](https://github.com/Naezr/ShyFox)
-* [https://github.com/PENWINthePIRATE/firefox-one-pixelated](https://github.com/PENWINthePIRATE/firefox-one-pixelated)
-* [https://github.com/PROxZIMA/Sweet-Pop](https://github.com/PROxZIMA/Sweet-Pop) Sweet_Pop! Beautify, Customize Firefox. Minimalist animated oneliner theme for Firefox perfectly matching Sweet Dark. 
-* [https://github.com/QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox)
-* [https://github.com/RoyalHeart/config/tree/main/chrome](https://github.com/RoyalHeart/config/tree/main/chrome)
-* [https://github.com/Shina-SG/Shina-Fox](https://github.com/Shina-SG/Shina-Fox)
-* [https://github.com/Shina-SG/Shina-Fox](https://github.com/Shina-SG/Shina-Fox)
-* [https://github.com/ShmakovVladimir/DolphinFox](https://github.com/ShmakovVladimir/DolphinFox)
-* [https://github.com/akshat46/FlyingFox](https://github.com/akshat46/FlyingFox)
-* [https://github.com/alan-ar1/greenyfox](https://github.com/alan-ar1/greenyfox)
-* [https://github.com/artsyfriedchicken/EdgyArc-fr](https://github.com/artsyfriedchicken/EdgyArc-fr)
-* [https://github.com/davidbecker808/Edge-FFxArc](https://github.com/davidbecker808/Edge-FFxArc)
-* [https://github.com/iansinnott/full-text-tabs-forever](https://github.com/iansinnott/full-text-tabs-forever)
-* [https://github.com/lewisHeart/Floorp-Configs](https://github.com/lewisHeart/Floorp-Configs)
-* [https://github.com/lewisHeart/Floorp-Configs](https://github.com/lewisHeart/Floorp-Configs)
-* [https://github.com/safak45xx/Blurfox-MacOS-](https://github.com/safak45xx/Blurfox-MacOS-)
-* [https://github.com/soulhotel/Perfection-Firefox-CSS-Theme](https://github.com/soulhotel/Perfection-Firefox-CSS-Theme)
-* [https://github.com/soulhotel/v2-Tabs-alpha-/tree/main](https://github.com/soulhotel/v2-Tabs-alpha-/tree/main)
-* [https://github.com/vipintom/stealthFox](https://github.com/vipintom/stealthFox)
-* [https://github.com/zDyanTB/ADHD-Floorp](https://github.com/zDyanTB/ADHD-Floorp)
-* [https://news.itsfoss.com/floorp-firefox/](https://news.itsfoss.com/floorp-firefox/) 
-* [https://www.reddit.com/r/browsers/s/L0sHFRb1RU](https://www.reddit.com/r/browsers/s/L0sHFRb1RU) floorp
+* [firefoxcss-store.github.io/](https://firefoxcss-store.github.io/)
+* [github.com/Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx)
+* [github.com/Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx)
+* [github.com/Godiesc/firefox-one](https://github.com/Godiesc/firefox-one)
+* [github.com/HelgiMagic/FirefoxCSS](https://github.com/HelgiMagic/FirefoxCSS)
+* [github.com/Jamir-boop/minimalisticfox](https://github.com/Jamir-boop/minimalisticfox)
+* [github.com/KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF)
+* [github.com/Naezr/ShyFox](https://github.com/Naezr/ShyFox)
+* [github.com/PENWINthePIRATE/firefox-one-pixelated](https://github.com/PENWINthePIRATE/firefox-one-pixelated)
+* [github.com/PROxZIMA/Sweet-Pop](https://github.com/PROxZIMA/Sweet-Pop) Sweet_Pop! Beautify, Customize Firefox. Minimalist animated oneliner theme for Firefox perfectly matching Sweet Dark. 
+* [github.com/QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox)
+* [github.com/RoyalHeart/config/tree/main/chrome](https://github.com/RoyalHeart/config/tree/main/chrome)
+* [github.com/Shina-SG/Shina-Fox](https://github.com/Shina-SG/Shina-Fox)
+* [github.com/Shina-SG/Shina-Fox](https://github.com/Shina-SG/Shina-Fox)
+* [github.com/ShmakovVladimir/DolphinFox](https://github.com/ShmakovVladimir/DolphinFox)
+* [github.com/akshat46/FlyingFox](https://github.com/akshat46/FlyingFox)
+* [github.com/alan-ar1/greenyfox](https://github.com/alan-ar1/greenyfox)
+* [github.com/artsyfriedchicken/EdgyArc-fr](https://github.com/artsyfriedchicken/EdgyArc-fr)
+* [github.com/davidbecker808/Edge-FFxArc](https://github.com/davidbecker808/Edge-FFxArc)
+* [github.com/iansinnott/full-text-tabs-forever](https://github.com/iansinnott/full-text-tabs-forever)
+* [github.com/lewisHeart/Floorp-Configs](https://github.com/lewisHeart/Floorp-Configs)
+* [github.com/lewisHeart/Floorp-Configs](https://github.com/lewisHeart/Floorp-Configs)
+* [github.com/safak45xx/Blurfox-MacOS-](https://github.com/safak45xx/Blurfox-MacOS-)
+* [github.com/soulhotel/Perfection-Firefox-CSS-Theme](https://github.com/soulhotel/Perfection-Firefox-CSS-Theme)
+* [github.com/soulhotel/v2-Tabs-alpha-/tree/main](https://github.com/soulhotel/v2-Tabs-alpha-/tree/main)
+* [github.com/vipintom/stealthFox](https://github.com/vipintom/stealthFox)
+* [github.com/zDyanTB/ADHD-Floorp](https://github.com/zDyanTB/ADHD-Floorp)
+* [news.itsfoss.com/floorp-firefox/](https://news.itsfoss.com/floorp-firefox/) 
+* [reddit.com/r/browsers/s/L0sHFRb1RU](https://www.reddit.com/r/browsers/s/L0sHFRb1RU) floorp
 * [lucaspar/firefox-vertical-tabs: Stylesheets for collapsible vertical tabs for Firefox.](https://github.com/lucaspar/firefox-vertical-tabs)
 * [user.js/desktop at main - user.js - Codeberg.org](https://codeberg.org/Narsil/user.js/src/branch/main/desktop)
 
@@ -266,8 +266,8 @@ rice ff : config hack shitpost 
 ## SORT Search
 → [Saying Goodbye to DuckDuckGo... Here's some Alternatives! - YouTube](https://www.youtube.com/watch?v=g--hr4F1S4w)
 
-→ https://opensource.com/article/20/2/open-source-search-engine
-→ https://www.comparitech.com/blog/vpn-privacy/best-private-search-engine/
+→ [opensource.com/article/20/2/open-source-search-engine](https://opensource.com/article/20/2/open-source-search-engine)
+→ [comparitech.com/blog/vpn-privacy/best-private-search-engine/](https://www.comparitech.com/blog/vpn-privacy/best-private-search-engine/)
 
 * (2) [searxng](https://dalf.github.io/searxng/)
 * (2) [s](https://github.com/zquestz/s) - Web search from the terminal. Just opens in your browser.
@@ -284,18 +284,18 @@ rice ff : config hack shitpost 
 * (2) [surfraw](https://gitlab.com/surfraw/Surfraw) - browse specific site and search the web from your terminal without browser.
 
 ## SORT - Browser Extensions
-→ GNU List: https://gnuzilla.gnu.org/mozzarella/
-* https://adnauseam.io/
+→ GNU List: [gnuzilla.gnu.org/mozzarella/](https://gnuzilla.gnu.org/mozzarella/)
+* [adnauseam.io/](https://adnauseam.io/)
 * [kas-elvirov/gloc: :calendar: Browser extension: counts lines of code on GitHub](https://github.com/kas-elvirov/gloc)
 
 ### Google Docs etc.
--> https://www.reddit.com/r/vim/comments/tfeyue/update_google_docs_integration_for_vim_using *
+-> [r/vim/comments/tfeyue/update_google_docs_integration_for_vim_using](https://www.reddit.com/r/vim/comments/tfeyue/update_google_docs_integration_for_vim_using) *
 ### webkit extensions
 * ( ) [wyebadblock](https://github.com/jun7/wyebadblock)*
 ### Vim-Style / Keyboard Navigation
-* ( ) https://github.com/brookhong/Surfingkeys
-* ( ) https://github.com/b0o/surfingkeys-conf
-* ( ) https://www.neoevolutions.com/post/how-to-use-surfingkeys-less-mice-more-efficient-web-browsing-with-vi-style-shortcuts
+* ( ) [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys)
+* ( ) [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf)
+* ( ) [neoevolutions.com/post/how-to-use-surfingkeys-less-mice-more-efficient-web-browsing-with-vi-style-shortcuts](https://www.neoevolutions.com/post/how-to-use-surfingkeys-less-mice-more-efficient-web-browsing-with-vi-style-shortcuts)
 * ( ) Chrome/Chromium addons:
 * ( ) [Vimium](https://vimium.github.io/)
 * ( ) Firefox addons (based on WebExtensions):
@@ -341,18 +341,18 @@ rice ff : config hack shitpost 
 * ( ) [treestyletab](https://github.com/piroor/treestyletab)
 * ( ) [RaitaroH/YouTube-DeepDark: Videos should only be watched in the dark. May the dark be kinder on thine eyes. (YouTube dark theme)](https://github.com/RaitaroH/YouTube-DeepDark)
 * ( ) [paxmod](https://github.com/numirias/paxmod)
-* ( ) [sidebery/](https://github.com/mbnuqw/sidebery/) → https://github.com/mgastonportillo/gale-for-ff
-* ( ) [web-extension-color-changer](https://github.com/rokit/web-extension-color-changer) https://chromewebstore.google.com/detail/color-changer/nmdgidofjbajhphomaniiekgckpioifp
-* ( ) https://github.com/Midnight-Lizard/Midnight-Lizard
+* ( ) [sidebery/](https://github.com/mbnuqw/sidebery/) → [mgastonportillo/gale-for-ff](https://github.com/mgastonportillo/gale-for-ff)
+* ( ) [web-extension-color-changer](https://github.com/rokit/web-extension-color-changer) [chromewebstore.google.com/detail/color-changer/nmdgidofjbajhphomaniiekgckpioifp](https://chromewebstore.google.com/detail/color-changer/nmdgidofjbajhphomaniiekgckpioifp)
+* ( ) [Midnight-Lizard/Midnight-Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard)
 * ( ) [Change-Colors](https://github.com/srndpty/Change-Colors)
 ### Miscellaneous
 * ( ) [gloc](https://github.com/kas-elvirov/gloc)
 
 ## SORT Webapps and Websites
-dev website https://devhints.io/
-* https://www.strangeloopcanon.com/
-* https://directory.fsf.org/wiki/Main_Page
-* https://www.tweag.io/blog/
+dev website [devhints.io/](https://devhints.io/)
+* [strangeloopcanon.com/](https://www.strangeloopcanon.com/)
+* [directory.fsf.org/wiki/Main_Page](https://directory.fsf.org/wiki/Main_Page)
+* [tweag.io/blog/](https://www.tweag.io/blog/)
 website * [git.wtf](https://git.wtf/)
 website * [Welcome to Dan’s Cheat Sheets’s documentation! — Dan's Cheat Sheets 1 documentation](https://cheat.readthedocs.io/en/latest/index.html)
 webapp [Atlas: wikipedia-20231101-en](https://atlas.nomic.ai/map/475c26d7-b142-4795-9887-02b6eeb18dc0/0d312be6-a3bb-4586-b6b7-53dcd0cbefa5)
@@ -363,15 +363,15 @@ webapp [Home — Bluesky](https://staging.bsky.app/)
 webapp [Raise and spend money with full transparency. - Open Collective](https://opencollective.com/)
 webapp [Startseite - rheinneckar.social](https://rheinneckar.social/home)
 webapp [Troubleshooters.Com](http://troubleshooters.com/troubleshooters.htm%23x10021)
-webapp [https://bibli-open.heidelberg.de/Mein-Konto](https://bibli-open.heidelberg.de/Mein-Konto)
-webapp [https://bibliotheken.komm.one/mannheim/de-de/Mein-Konto](https://bibliotheken.komm.one/mannheim/de-de/Mein-Konto)
-webapp [https://blueskyweb.xyz/](https://blueskyweb.xyz/)
-webapp [https://codestats.net/](https://codestats.net/)
-webapp [https://github.com/mathix420/free-the-web-apps](https://github.com/mathix420/free-the-web-apps)
-webapp [https://github.com/sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) 
-webapp [https://imgupscaler.com/](https://imgupscaler.com/)
-webapp [https://www.google.com/search?client=firefox-b-d&q=free+ai+upscale+image+resolution](https://www.google.com/search?client%3Dfirefox-b-d%26q%3Dfree%2Bai%2Bupscale%2Bimage%2Bresolution)
-webapp [https://www.upscale.media/](https://www.upscale.media/) →* https://github.com/mathix420/free-the-web-apps
+webapp [bibli-open.heidelberg.de/Mein-Konto](https://bibli-open.heidelberg.de/Mein-Konto)
+webapp [bibliotheken.komm.one/mannheim/de-de/Mein-Konto](https://bibliotheken.komm.one/mannheim/de-de/Mein-Konto)
+webapp [blueskyweb.xyz/](https://blueskyweb.xyz/)
+webapp [codestats.net/](https://codestats.net/)
+webapp [github.com/mathix420/free-the-web-apps](https://github.com/mathix420/free-the-web-apps)
+webapp [github.com/sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) 
+webapp [imgupscaler.com/](https://imgupscaler.com/)
+webapp [google.com/search?client=firefox-b-d&q=free+ai+upscale+image+resolution](https://www.google.com/search?client%3Dfirefox-b-d%26q%3Dfree%2Bai%2Bupscale%2Bimage%2Bresolution)
+webapp [upscale.media/](https://www.upscale.media/) →* [mathix420/free-the-web-apps](https://github.com/mathix420/free-the-web-apps)
 webapp * [](https://developers.google.com/drive/api/guides/search-files%23java) → list all drive files 
 webapp * [](https://www.canva.com/free/)
 webapp * [](https://www.profanity.dev/)
@@ -388,17 +388,17 @@ webapp language-learning* [openwords](https://github.com/Openwords) 
 webapp language-learning* [otakar-smrz/elixir-fm: ElixirFM Functional Arabic Morphology](https://github.com/otakar-smrz/elixir-fm)
 webapp security * [digital-defense](https://digital-defense.io/)
 webapp storage * [Nextcloud]()
-* https://www.mathcha.io/
+* [mathcha.io/](https://www.mathcha.io/)
 * How does mirroring between git servers work?
-* [https://puter.com/app/terminal](https://puter.com/app/terminal)
-* https://yacy.de/
+* [puter.com/app/terminal](https://puter.com/app/terminal)
+* [yacy.de/](https://yacy.de/)
 * [Openwords (Openwords)](https://github.com/Openwords)
-* https://www.browserling.com/
+* [browserling.com/](https://www.browserling.com/)
 * [Open-Source Application Development :: add0n.com](https://add0n.com/index.html)
-* https://webextension.org/
+* [webextension.org/](https://webextension.org/)
 * [farside](https://farside.link/)
 * [strato.de](ghttp://strato.de) V-Server Linux
-* [https://1337x.to/](https://1337x.to/) torrent search
+* [1337x.to/](https://1337x.to/) torrent search
 * [puter](https://github.com/HeyPuter)
 
 ### Misc Web
@@ -535,7 +535,7 @@ web edu * [golangexample](https://golangexample.com/)
 web perso * [](https://mastodon.social/@matthiasott/111447516296786143)
 web rust * [🦀 RUST y HTMX | Creamos una web con Rust | Parte 1](https://www.youtube.com/watch?v%3Dfcc5KRmHZgI)
 * ( ) [slimerjs](https://slimerjs.org/)
-* [https://html-first.com/](https://html-first.com/) 
+* [html-first.com/](https://html-first.com/) 
 * [caniuse-cmd](https://github.com/sgentle/caniuse-cmd)- Search [caniuse.com](https://github.com/Correia-jpv/fucking-awesome-cli-apps/blob/main/caniuse.com) about browser support of features.
 
 ## Web and Networking Tools
@@ -630,7 +630,7 @@ web rust * [🦀 RUST y HTMX | Creamos una web con Rust | Parte 1](https://www.y
 ##### Internet Connectivity Manager
 * (6) [wicd-curses](https://wiki.archlinux.org/index.php/wicd#Running_Wicd_in_Text_Mode) - Command line WiFi connection manager.
 * (4) [network-manager-applet](https://gitlab.gnome.org/GNOME/network-manager-applet/)
-* (2) [NetworkManager](https://github.com/NetworkManager/NetworkManager) - https://networkmanager.dev/
+* (2) [NetworkManager](https://github.com/NetworkManager/NetworkManager) - [networkmanager.dev/](https://networkmanager.dev/)
 * (2) [nmtui](https://github.com/heftig/NetworkManager/blob/master/tui/nmtui.c) - Text User Interface for controlling NetworkManager
 ##### Internet Testing - Speed, Bandwidth, Connectivity / Monitoring / Scanning
 * (2.5) [Angry IP Scanner](https://angryip.org/) - Fast and friendly network scanner.
@@ -682,14 +682,14 @@ web rust * [🦀 RUST y HTMX | Creamos una web con Rust | Parte 1](https://www.y
 * ( ) [http Toolkit](https://httptoolkit.tech/) - an HTTP inspection & debugging desktop application
 * ( ) [sslh](https://github.com/yrutschle/sslh)
 ##### Crawling, Scraping, Downloading
-* ( ) [Coursaros](https://github.com/SpyridonLaz/Coursaros) -  [Download videos and subtitles from https://edx.org to your computer easily.](https://github.com/SpyridonLaz/Coursaros)**
+* ( ) [Coursaros](https://github.com/SpyridonLaz/Coursaros) -  [Download videos and subtitles from [edx.org](https://edx.org) to your computer easily.](https://github.com/SpyridonLaz/Coursaros)**
 * ( ) [aria2](https://aria2.github.io/)
 * ( ) [scrapeghost/](https://github.com/jamesturk/scrapeghost/) - extend with other LLMs
 *[aria2 -](https://github.com/aria2/aria2 -)Lightweight and easy-to-use download utility; it supports HTTP/HTTPS, FTP, SFTP, BitTorrent, Metalink and multiple sources; cross-platform.
-* https://www.httrack.com/
+* [httrack.com/](https://www.httrack.com/)
 * ( ) [clauneck](https://github.com/serpapi/clauneck)
 * ( ) [cli](https://github.com/httpie/cli) - [httpie](http://httpie.org/) A command line HTTP client, a user-friendly cURL replacement.
-* ( ) [youtube-dl](https://yt-dl.org/) - Small command-line program to download videos from YouTube.com and other video sites - [youtube-dl](https://rg3.github.io/youtube-dl/)
+* ( ) [](https://rg3.github.io/youtube-dl/)
 * ( ) [Clipgrab](https://clipgrab.org/) - A friendly downloader for YouTube and other sites.
 * ( ) [video-downloader](https://github.com/Unrud/video-downloader) - Download videos from websites like YouTube and many others (based on yt-dlp).
 * ( ) [youtube-dl-gui](https://jely2002.github.io/youtube-dl-gui/) - A cross-platform GUI for youtube-dl made in Electron and node.js
@@ -736,7 +736,7 @@ web rust * [🦀 RUST y HTMX | Creamos una web con Rust | Parte 1](https://www.y
 
 → [20 most secure email providers to use in 2023 - PrivacySavvy](https://privacysavvy.com/email/best/secure-email-providers/#h-1-protonmail)
 
-→ https://seniormars.github.io/posts/neomutt/
+→ [seniormars.github.io/posts/neomutt/](https://seniormars.github.io/posts/neomutt/)
 
 * (2) [proton](https://proton.me/pricing)
 * (2) [ProtonMail](https://protonmail.com/) - Secure web-based email service. ([MIT](https://github.com/ProtonMail/WebClient/blob/public/license.md))
@@ -747,7 +747,7 @@ web rust * [🦀 RUST y HTMX | Creamos una web con Rust | Parte 1](https://www.y
 * (4) [Claws](https://www.claws-mail.org/) - Claws is an email client and news reader, featuring sophisticated interface, easy configuration, intuitive operation, abundant features and plugins, robustness and stability.
 * (2) [tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh.
 * (6) [Mutt](http://www.mutt.org/) - A terminal based mail client with vim keybindings and great flexibility and customizability.
-* (2) [neomutt](https://github.com/neomutt/neomutt)- https://neomutt.org/
+* (2) [neomutt](https://github.com/neomutt/neomutt)- [neomutt.org/](https://neomutt.org/)
 * (2.5) [betterbird](https://www.betterbird.eu/)
 * (2.5) [Thunderbird](https://www.thunderbird.net/en-US/)
 * ( ) [notmuchmail](https://notmuchmail.org/ )
@@ -773,7 +773,7 @@ web rust * [🦀 RUST y HTMX | Creamos una web con Rust | Parte 1](https://www.y
 * ( ) [signal](https://signal.org/)
 * ( ) [signal-cli (https://www.dinotools.de/2020/02/13/nachrichten-per-signal-von-der-kommandozeile-versenden/)
 ### Matrix
-→ https://matrix.org/ecosystem/integrations/
+→ [matrix.org/ecosystem/integrations/](https://matrix.org/ecosystem/integrations/)
 
 * ( ) [matrix clients](https://matrix.org/clients/
 * ( ) [Matrix](https://matrix.org/) - Decentrialized End-to-End Encrypted Chat platform (you may want to use [Element](https://element.io/)
@@ -785,7 +785,7 @@ web rust * [🦀 RUST y HTMX | Creamos una web con Rust | Parte 1](https://www.y
 * (6) [WBOT](https://github.com/vasani-arpit/WBOT) - A simple CLI based BOT for WhatsApp™ in NodeJS. reply to your friends quickly and have fun along the way.
 * (2) [nchat](https://github.com/d99kris/nchat)- whatsapp
 * (4) [mudslide](https://github.com/robvanderleek/mudslide)- whatsapp CLI
-* (4) [Baileys](https://github.com/WhiskeySockets/Baileys)- https://whiskeysockets.github.io/Baileys/  - WhatsApp API
+* (4) [Baileys](https://github.com/WhiskeySockets/Baileys)- [whiskeysockets.github.io/Baileys/](https://whiskeysockets.github.io/Baileys/)  - WhatsApp API
 * ( ) [whatsie](https://github.com/keshavbhatt/whatsie)- whatsapp client
 ### Messaging, Unfree
 * (3) [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free.
@@ -812,7 +812,7 @@ Fedilab
 * ( ) [JMusicBot](https://jmusicbot.com/) - A Discord music bot that’s easy to set up and run yourself.
 * ( ) [Red Discord Bot](https://index.discord.red/) - Red Discord Bot is a self-hosted music/chat/trivia bot that can run on a Raspberry Pi and a variety of OS’s. It’s extensible through a system of “Cogs” that allow it to do more.
 ### Slack
-→ https://www.freecodecamp.org/news/how-to-build-a-basic-slackbot-a-beginners-guide-6b40507db5c5/
+→ [freecodecamp.org/news/how-to-build-a-basic-slackbot-a-beginners-guide-6b40507db5c5/](https://www.freecodecamp.org/news/how-to-build-a-basic-slackbot-a-beginners-guide-6b40507db5c5/)
 * (6) [slack](https://slack.com/)
 * (6) [slack-cli](https://github.com/candrholdings/slack-cli)
 * (6) [slackcat](https://github.com/rlister/slackcat)

@@ -11,12 +11,12 @@
 ?                                                  <|> * [Purely functional data structures](http://library.lol/main/B9CFBFBDDF11107F53D1EE7448006453)
 ?                                                  <|> * [Responding to Crises in the Modern Infrastructure: Policy Lessons from Y2K](http://library.lol/main/7241108C3602019DDFBC1E868398D1A3)
 ?                                                  <|> * [Zrozumieć programowanie](https://en.de1lib.org/book/3714651/93d220)
-?                                                  <|> * http://classicproblems.com/
-?                                                  <|> * http://elementsofprogramming.com/
-?                                                  <|> * https://freecomputerbooks.com/
-?                                                  <|> * https://goalkicker.com/
-?                                                  <|> * https://htdp.org/
-?                                                  <|> * https://www.thestreamingbook.com/
+?                                                  <|> * [classicproblems.com/](http://classicproblems.com/)
+?                                                  <|> * [elementsofprogramming.com/](http://elementsofprogramming.com/)
+?                                                  <|> * [freecomputerbooks.com/](https://freecomputerbooks.com/)
+?                                                  <|> * [goalkicker.com/](https://goalkicker.com/)
+?                                                  <|> * [htdp.org/](https://htdp.org/)
+?                                                  <|> * [thestreamingbook.com/](https://www.thestreamingbook.com/)
 ?                                                  <|> Coding for Fun (Wolmeringer)
 ?                                                  <|> Duden Informatik A-Z
 ?                                                  <|> Git для профессионального программиста
@@ -31,10 +31,10 @@
 book                                               <|> * [All books bundle](https://learnbyexample.gumroad.com/l/all-books?layout=profile)
 book                                               <|> * [All books on bookdown.org | Bookdown](https://bookdown.org/home/archive/)
 book                                               <|> * [gnuplot books](http://www.gnuplot.info/books.html)
-book                                               <|> * https://markwatson.com/books
-book programming                                   <|> * http://www.openhumanitiespress.org/books/titles/aesthetic-programming/
-book programming free github                       <|> * https://github.com/EbookFoundation/free-programming-books
-book programming free github                       <|> * https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md
+book                                               <|> * [markwatson.com/books](https://markwatson.com/books)
+book programming                                   <|> * [openhumanitiespress.org/books/titles/aesthetic-programming/](http://www.openhumanitiespress.org/books/titles/aesthetic-programming/)
+book programming free github                       <|> * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+book programming free github                       <|> * [EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md)
 code                                               <|> * [The Code Book](https://en.de1lib.org/book/746811/b86fc3)
 computer                                           <|> Introduction to Computer Ognization (Plantz)
 computer genesi guide                              <|> Library Genesis: Matthew Justice - How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine
@@ -45,7 +45,7 @@ computer history quantum ed computing universal    <|> * [The Universal History 
 computer quantum ed science                        <|> * [Quantum computer science: an introduction [1 ed.]](http://libgen.is/book/index.php?md5=C74B12E92F2AE14605F03215DF66E3C0)
 computer quantum science                           <|> * [Quantum Computer Science](http://libgen.is/book/index.php?md5=7CD05C2D95AA0BA220FEFF67CF2BA7FD)
 computer universal                                 <|> the universal computer
-development                                        <|> Building your Mouseless Development Environment → https://flurly.com/p/mouseless-book
+development                                        <|> Building your Mouseless Development Environment → [flurly.com/p/mouseless-book](https://flurly.com/p/mouseless-book)
 ed computing                                       <|> * [Parallel and High Performance Computing [1 ed.]](http://libgen.is/book/index.php?md5=37B6DFC32801A36CE6BB2306DB43B738)
 free head ebook first htm                          <|> * [Head First eBooks Download Free Page 4 | eBooks-IT.org](https://ebooks-it.org/serie-head-first-4.htm)
 free pdf head ebook ebook first htm                <|> * [Head First Object-Oriented Analysis and Design PDF Download Free | 0596008678](https://ebooks-it.org/0596008678-ebook.htm)
@@ -53,20 +53,20 @@ genesi кнут                                        <|> * [Library Genesis: �
 genesi кнут программирования                       <|> * [Library Genesis: Кнут Д. - Искусство программирования](https://libgen.is/book/index.php?md5=EC055AE8A9DFD6092361C9E8C08BD03D)
 genesi программирования кнут                       <|> * [Library Genesis: Дональд Эрвин Кнут (Donald E. Knuth) - Искусство программирования](https://libgen.is/book/index.php?md5=047ACE01CA77647FC56B11B5CB71106C)
 genesi программирования кнут                       <|> * [Library Genesis: Дональд Эрвин Кнут (Donald E. Knuth) - Искусство программирования](https://libgen.is/book/index.php?md5=43804842BC09D811020914B939C65CF9)
-github                                             <|> * https://github.com/trimstray/the-book-of-secret-knowledge
+github                                             <|> * [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 guide                                              <|> * [Learning Git: A Hands-On and Visual Guide to the Basics of Git](http://library.lol/main/132B5A0C37892FDC796A9BB32339A22D)
 guide python                                       <|> * [Algebraic Graph Algorithms. A Practical Guide Using Python](http://library.lol/main/C78AC442979F4B22338698399C13D319)
 head code                                          <|> Code That Fits in Your Head (find book)
 history                                            <|> * [The Real History of the End of the World: Apocalyptic Predictions from Revelation and Nostradamus to Y2K and 2012](http://library.lol/main/AA75B071B0CEDA5DCE73DB031263D782)
 history computing                                  <|> a history of modern computing ceruzzi
 htm                                                <|> * [Art of Debugging | No Starch Press](https://nostarch.com/debugging.htm)
-pdf                                                <|> * http://elementsofprogramming.com/eop.pdf *****
-pdf                                                <|> * https://cuteboyprogrammers.com/pdf/
-pdf                                                <|> * https://s3.amazonaws.com/codenewbie-assets/codeland/Codeland+2018+Booklet+-+FINAL.pdf
+pdf                                                <|> * [elementsofprogramming.com/eop.pdf](http://elementsofprogramming.com/eop.pdf) *****
+pdf                                                <|> * [cuteboyprogrammers.com/pdf/](https://cuteboyprogrammers.com/pdf/)
+pdf                                                <|> * [s3.amazonaws.com/codenewbie-assets/codeland/Codeland+2018+Booklet+-+FINAL.pdf](https://s3.amazonaws.com/codenewbie-assets/codeland/Codeland+2018+Booklet+-+FINAL.pdf)
 pdf                                                <|> Генри С. Уоррен - Алгоритмические трюки для программистов, 2-е издание.pdf
 programmer                                         <|> * [97 Things Every Programmer Should Know: Collective Wisdom from the Experts](http://library.lol/main/7446195CBE1DC4253E4A1C1F70467B51)
 programmer                                         <|> * [Category Theory for Programmers](https://dokumen.pub/category-theory-for-programmers.html)
-programmer                                         <|> * http://progopedia.com/* [Exercises for Programmers: 57 Challenges to Develop Your Coding Skills](http://library.lol/main/7D9BDD6DB6819D63938CE33865DC4FC5)
+programmer                                         <|> * [progopedia.com/*](http://progopedia.com/*) [Exercises for Programmers: 57 Challenges to Develop Your Coding Skills](http://library.lol/main/7D9BDD6DB6819D63938CE33865DC4FC5)
 programmer                                         <|> Think Like a Programmer (Spraul)
 programming                                        <|> * [Programming | No Starch Press](https://nostarch.com/catalog/programming)
 programming                                        <|> Language Server Protocol and Implementation: Supporting Language-Smart Editing and Programming Tools
@@ -74,7 +74,7 @@ programming                                        <|> Programming Language Desi
 programming guide                                  <|> * [An Artist's Guide to Programming | No Starch Press](https://nostarch.com/artists-guide-programming)
 programming python                                 <|> * [Hands-On Blockchain for Python Developers: Gain blockchain programming skills to build decentralized applications using Python](http://library.lol/main/A4B9876BCB404887E4B282472451D89F)
 quantum first                                      <|> * [Picturing Quantum Processes: A First Course in Quantum Theory and Diagrammatic Reasoning](http://libgen.is/book/index.php?md5=09A8B38EDE6E1FACE4C3784D133F61BC)
-req simple column def view search phrase computer desc sortmode sort year quantum science <|> * http://libgen.is/search.php?&req=quantum+computer+science&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+req simple column def view search phrase computer desc sortmode sort year quantum science <|> * [libgen.is/search.php?&req=quantum+computer+science&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](http://libgen.is/search.php?&req=quantum+computer+science&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 req simple column def view search phrase rs book open code <|> * [clean code books](http://libgen.rs/search.php?req=clean+code&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 req simple column def view search phrase rs desc sortmode sort year <|> * [concise c++ →](http://libgen.rs/search.php?&req=concise+c%2B%2B&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 req simple column def view search phrase rs desc sortmode sort year open <|> * [open source](http://libgen.rs/search.php?&req=open+source&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
@@ -85,17 +85,17 @@ req simple column def view search phrase rs year desc sortmode sort <|> * [docke
 rs                                                 <|> * [Algorithms: Notes for Professionals](http://libgen.rs/book/index.php?md5=57D05F9FD1FAC34B2E73FAD96E41D910)
 rs                                                 <|> * [Learning GNU Emacs, 3rd Edition](http://libgen.rs/book/index.php?md5=7004AB179B2C98B3AE18B445429B14DB)
 rs ed python                                       <|> * [Алгоритмы. Справочник с примерами на C, C++, Java и Python [2 ed.]](http://libgen.rs/book/index.php?md5=B0759DB111185A43F79E2BC6CCD8659F)
-simple req column def view search phrase desc sortmode sort year <|> * http://libgen.is/search.php?&req=opencl&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
-simple req column def view search phrase desc sortmode sort year <|> * http://libgen.is/search.php?&req=opengl&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+simple req column def view search phrase desc sortmode sort year <|> * [libgen.is/search.php?&req=opencl&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](http://libgen.is/search.php?&req=opencl&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+simple req column def view search phrase desc sortmode sort year <|> * [libgen.is/search.php?&req=opengl&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](http://libgen.is/search.php?&req=opengl&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 simple req column def view search phrase rs desc sortmode sort year <|> * [softwaretechnik](http://libgen.rs/search.php?&req=softwaretechnik&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
-simple req column def view search phrase sortmode desc sort year <|> * http://libgen.is/search.php?&req=cuda&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+simple req column def view search phrase sortmode desc sort year <|> * [libgen.is/search.php?&req=cuda&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](http://libgen.is/search.php?&req=cuda&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 software                                           <|>      * [Artificial Life Models in Software](http://library.lol/main/AE11D3B9C747AE9619EAB789F87AEF21)
 software                                           <|> * [Continuous Delivery Pipelines: How to Build Better Software Faster](http://library.lol/main/530A5C5EC4798C9CBF5A2E58588B5DA9)
 software architecture                              <|> * [Software Architecture Metrics: Case Studies to Improve the Quality of Your Architecture](http://library.lol/main/46F1A1DE3F82D6808CBFFE4ED9E19DD4)
 software architecture                              <|> * [Software Architecture Patterns](http://library.lol/main/D4F24FAEFF960B9652E9FD6C880BD300)
 software architecture                              <|> * [Software Modeling and Design: UML, Use Cases, Patterns, and Software Architectures](https://de1lib.org/book/1108322/de9d89)
 software architecture                              <|> Fundamentals of Software Architecture
-software book free github                          <|> * https://github.com/mark-watson/free-older-books-and-software/tree/main
+software book free github                          <|> * [mark-watson/free-older-books-and-software/tree/main](https://github.com/mark-watson/free-older-books-and-software/tree/main)
 software code                                      <|> Software Source Code: Statistical Modeling (De Gruyter STEM)
 software computer science                          <|> * [Computer Science: The Hardware, Software and Heart of IT](http://library.lol/main/20312EDB01D6FA249C583E660FF77110)
 software free pdf head ebook ebook first development htm <|> * [Head First Software Development PDF Download Free | 0596527357](https://ebooks-it.org/0596527357-ebook.htm)
@@ -145,7 +145,7 @@ The Linux Programming Interface
 ?                                                  <|> * [Electromagnetism](http://library.lol/main/E77C2F26808B7CE6D06EC1730130BAC0)
 ?                                                  <|> * [Lenguaje ensamblador. Para computadoras basadas en Intel](https://en.de1lib.org/book/7232940/fc2a85)
 ?                                                  <|> * [The anatomy of a compiler](http://library.lol/main/4D02C33EF0677E8AA96976D6CC9A9162)
-?                                                  <|> * https://beginners.re/ - Reverse Engineering for Beginners
+?                                                  <|> * [beginners.re/](https://beginners.re/) - Reverse Engineering for Beginners
 ?                                                  <|> Grundlagen der Digitaltechnik
 ?                                                  <|> ^ [The Intel Microprocessors](http://library.lol/main/95EFF0E41BC82379161DF0C63EC6FA9A)
 ?                                                  <|> Шпаргалка по общей электронике и электротехнике
@@ -188,14 +188,14 @@ introduction computer assembly x86                 <|> * [Introduction To Comput
 introduction computer assembly x86                 <|> * [Robert G. Plantz, Introduction to Computer Organization with x86-64 Assembly Language & GNU/Linux](https://bob.cs.sonoma.edu/IntroCompOrg-x64/book.html)
 introduction design cc download recommend dsource  <|> * [Introduction to Compiler Design | Torben Ægidius Mogensen (auth.) | download](https://b-ok.cc/book/3395219/311dfc?dsource=recommend)
 introduction electronic circuit                    <|> * [Electronics for Beginners: A Practical Introduction to Schematics, Circuits, and Microcontrollers](http://library.lol/main/83F62DC54FD565C48EE927AEB0F8EBDB)
-introduction pdf                                   <|> * http://library.bagrintsev.me/ASM/Introduction%20to%2064bit%20Intel%20Assembly%20Language%20Programming%20for%20Linux.2011.pdf
+introduction pdf                                   <|> * [library.bagrintsev.me/ASM/Introduction%20to%2064bit%20Intel%20Assembly%20Language%20Programming%20for%20Linux.2011.pdf](http://library.bagrintsev.me/ASM/Introduction%20to%2064bit%20Intel%20Assembly%20Language%20Programming%20for%20Linux.2011.pdf)
 introduction pdf machine vk hash dl                <|> * [Usborne introduction to Machine Code for beginners [1983].pdf](https://vk.com/doc44301783_619170478?hash=000facf5d2c218b683&dl=084d943509589eeddb)
 link isbn ed openurl genre introduction springer electronic <|> * [Introduction to Electronic Commerce and Social Commerce_Efraim Turban, Judy Whiteside, David King, Jon Outland_4th ed. 2017](http://link.springer.com/openurl?genre=book&isbn=978-3-319-50091-1)
 link isbn ed openurl genre springer                <|> * [Reactive Power Control in AC Power Systems_Aghbolaghi, Nicu Bizon, Frede Blaabjerg_1st ed. 2017](http://link.springer.com/openurl?genre=book&isbn=978-3-319-51118-4)
 link isbn ed openurl genre springer j              <|> * [Practical Electrical Engineering_Sergey N. Makarov, Reinhold Ludwig, Stephen J. Bitar_1st ed. 2016](http://link.springer.com/openurl?genre=book&isbn=978-3-319-21173-2)
 pdf                                                <|> * [Langage Assembleur PC](https://pacman128.github.io/static/pcasm-book-french.pdf)
-pdf                                                <|> * http://mirror.netcologne.de/savannah/pgubook/ProgrammingGroundUp-1-0-booksize.pdf
-pdf                                                <|> * https://www.jjj.de/fxt/fxtbook.pdf - Matters Computational
+pdf                                                <|> * [mirror.netcologne.de/savannah/pgubook/ProgrammingGroundUp-1-0-booksize.pdf](http://mirror.netcologne.de/savannah/pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
+pdf                                                <|> * [jjj.de/fxt/fxtbook.pdf](https://www.jjj.de/fxt/fxtbook.pdf) - Matters Computational
 pdf vk hash dl system                              <|> * [Designing Digital Systems With SystemVerilog.pdf](https://vk.com/doc348852382_473199607?hash=05569d305d0aed5dd9&dl=ae42d4d1be79c0e858)
 pdf vk x86 hash dl                                 <|> * [x86-64_Assembly_Language_Programming_with_Ubuntu_2019_Ed_Jorgensen.pdf](https://vk.com/doc10943591_611739633?hash=4dbcc3250e34cc6c90&dl=8d3eb4cbfeee94f847)
 programming                                        <|> * [The Intel microprocessors: 8086/8088, 80186/80188, 80286, 80386, 80486, Pentium, Pentium Pro processor, Pentium II, Pentium III, Pentium 4, and Core2 with 64-bit extensions: architecture, programming, and interfac](http://library.lol/main/25F0EE11544F6D593C817B9182103DEE)ing
@@ -215,7 +215,7 @@ vk book                                            <|> * [Электроника
 vk hash dl                                         <|> * [Kholodov_Yu_A_-_Mozg_v_elektromagnitnykh_polyakh.djvu](https://vk.com/doc30601958_513338230?hash=72e017a2e9c39da777&dl=637df65c2cde495679)
 
 ### Boot    * [The BIOS companion](http://library.lol/main/BBB4B14C71ACAEF74426BEFBFA25402D)    * [Beyond BIOS: Developing with the Unified Extensible Firmware Interface](http://library.lol/main/99ACD9F82FDDF5996238C6596D66AA5A)
-* https://coreboot.org/     * [Harnessing the Uefi Shell: Moving the Platform Beyond Dos](http://library.lol/main/9F60269484B41B81E4CCCE4FD78C05E7)
+* [coreboot.org/](https://coreboot.org/)     * [Harnessing the Uefi Shell: Moving the Platform Beyond Dos](http://library.lol/main/9F60269484B41B81E4CCCE4FD78C05E7)
 ### LLVM
 * [Использование платформы LLVM для динамической генерации машинного кода](http://libgen.is/book/index.php?md5=D0A6B907C268A7CF3D45A62FA9EC53CA)
 * [Обфусцирующий компилятор на базе LLVM](http://libgen.is/book/index.php?md5=A00CCAC8CC106F5C071829434E5854CF)
@@ -229,7 +229,7 @@ vk hash dl                                         <|> * [Kholodov_Yu_A_-_Mozg_v
 * [LLVM essentials : become familiar with the LLVM infrastructure and start using LLVM libraries to design a compiler](http://libgen.is/book/index.php?md5=71E61E36EA62E1F8EAAB1DCD7DC35BFC)
 * [LLVM. инфраструктура для разработки компиляторов](http://library.lol/main/CA2D4A415DC0BC98DE2D488E13B8C711)
 * [Getting Started with LLVM Core Libraries: Get to grips with LLVM essentials and use the core libraries to build advanced tools](http://libgen.is/book/index.php?md5=8B9B19F1DA135A51E7307B6B49900CD1)
-* [https://mlir.llvm.org](https://mlir.llvm.org/)
+* [mlir.llvm.org](https://mlir.llvm.org/)
 
 ## LLM Books
 * [Library Genesis: Mike Loukides - What Are ChatGPT and Its Friends?](http://libgen.is/book/index.php?md5=930099780BF17240C5C65CB58DE2690B)
@@ -261,7 +261,7 @@ vk hash dl                                         <|> * [Kholodov_Yu_A_-_Mozg_v
 ?                                                  <|> * TF in 1 Day
 ?                                                  <|> * [3D Scientific Visualization with Blender](http://library.lol/main/656DF61A341E5E4E63E890B2FDCCC674)
 ?                                                  <|> * [Human Interaction with Graphs. A Visual Querying Perspective](http://library.lol/main/169541501B351E79CFB7A3C66F44458A)
-?                                                  <|> * https://mlstory.org/
+?                                                  <|> * [mlstory.org/](https://mlstory.org/)
 ai                                                 <|> * [The AI Dictionary](http://www.cse.unsw.edu.au/~billw/aidict.html)
 algorithm recipe                                   <|> * [Clever Algorithms: Nature-Inspired Programming Recipes](http://library.lol/main/318799EBAA81F7CC65D81DB3973D6F74)
 analysi latent handbook                            <|> * [Handbook of Latent Semantic Analysis](https://libgen.is/book/index.php?md5=2A106AA4B74DD50AB5BB1F203F157D56)
@@ -269,10 +269,10 @@ application statistical analysi method             <|> * [Propensity Score Analy
 application statistical analysi method             <|> * [倾向值分析: 统计方法与应用 Propensity Score Analysis: Statistical Methods and Applications](http://library.lol/main/BB04AC0F96B7E6EB2DD17B2DB53A3BD7)
 application theory computing                       <|> * [Cognitive Computing: Theory and Applications](https://libgen.is/book/index.php?md5=3A25EA2F218739870A43B36732F4B9C4)
 arxiv abs                                          <|> * [[](https://arxiv.org/abs/1801.05894)
-be                                                 <|> * https://youtu.be/fo-alw2q-BU
+be                                                 <|> * [youtu.be/fo-alw2q-BU](https://youtu.be/fo-alw2q-BU)
 book                                               <|>     - **crc ML books
 book                                               <|> * books: bioinformatics
-book                                               <|> * http://dlib.net/books.html
+book                                               <|> * [dlib.net/books.html](http://dlib.net/books.html)
 book ai                                            <|> * AI Books
 book vk обучение code машинное topic               <|> * [Искусственный интеллект | Машинное обучение | Physics.Math.Code.Books](https://vk.com/topic-51126445_32505707)
 cc                                                 <|> * [Введение в искусственный интеллект](https://b-ok.cc/book/3352474/a553fe)
@@ -294,7 +294,7 @@ cc data introduction mining                        <|> * [Introduction to Data M
 cc data introduction mining                        <|> * [Introduction to Data Mining](https://b-ok.cc/book/3508878/d346cf)
 cc data introduction mining analysi design         <|> * [An Introduction to Text Mining Research Design Data Collection and Analysis](https://b-ok.cc/book/3652083/e1d24a)
 cc data introduction mining knowledge              <|> * [Discovering Knowledge in data An Introduction to Data Mining](https://b-ok.cc/book/2549699/dfc8ea)
-cc data s                                          <|> * https://b-ok.cc/s/data
+cc data s                                          <|> * [b-ok.cc/s/data](https://b-ok.cc/s/data)
 cc download analysi latent applied                 <|> * [Applied Latent Class Analysis | Jacques A. Hagenaars, Allan L. McCutcheon | download](https://b-ok.cc/book/691914/7eec22)
 cc download application knowledge discovery technique method <|> * [Knowledge discovery in bioinformatics: techniques, methods, and applications | Xiaohua Hu, Yi Pan | download](https://b-ok.cc/book/488764/27c337)
 cc download application r latent processing principle speech <|> * [Latent Semantic Mapping: Principles And Applications (Synthesis Lectures on Speech and Audio Processing) | Jerome R. Bellegarda | download](https://b-ok.cc/book/895623/23f4f5)
@@ -502,7 +502,7 @@ learning deep pytorch                              <|> * Deep Learning with PyTo
 learning deep pytorch                              <|> * Deep Learning with PyTorch
 learning deep pytorch mit                          <|> * Deep Learning mit PyTorch
 learning deep pytorch mit                          <|> * Deep Learning mit PyTorch
-learning deep serie                                <|> * https://hadrienj.github.io/deep-learning-book-series-home/
+learning deep serie                                <|> * [hadrienj.github.io/deep-learning-book-series-home/](https://hadrienj.github.io/deep-learning-book-series-home/)
 learning deep tensorflow                           <|> * Pro Deep Learning with TensorFlow
 learning deep tensorflow _ad                       <|> * [Deep Learning with TensorFlow](http://93.174.95.29/_ads/A02F6FA150A1F9969F07743D20C81947)
 learning deep tensorflow _ad reinforcement regression <|> * [Tensorflow for Deep Learning: From Linear Regression to Reinforcement Learning](http://93.174.95.29/_ads/0A92E27118ED690B57EA66F54DF3D449)
@@ -579,7 +579,7 @@ modern search information concept                  <|> * [Ricardo Baeza-Yates, B
 network information                                <|> * [Information and Influence Propagation in Social Networks](http://library.lol/main/C47A74B80B7CCF1EF33186964BA20EF0)
 network neural                                     <|> * [Make Your Own Neural Network Tariq Rashid](http://libgen.is/book/index.php?md5=9BB34A90A30470139532A0EDB461F1B4)
 network neural computing                           <|> * Space-Time Computing with Temporal Neural Networks
-network neural google search arxiv q               <|> * https://www.google.com/search?q=arxiv+neural+networks+tutorial&client=ubuntu&hs=Tqd&channel=fs&sxsrf=AOaemvI39Q9NGN60l_z7pIcbW1NvFLVcXQ%3A1635942577107&ei=sYCCYarQBY33kwX0xZKYAg&oq=arxiv+neural+networks+tutorial&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsANKBAhBGABQm-0BWOLyAWC29AFoAXACeACAAU2IAU2SAQExmAEAoAEByAEIwAEB&sclient=gws-wiz&ved=0ahUKEwjq7LiBmfzzAhWN-6QKHfSiBCMQ4dUDCA0&uact=5
+network neural google search arxiv q               <|> * [google.com/search?q=arxiv+neural+networks+tutorial&client=ubuntu&hs=Tqd&channel=fs&sxsrf=AOaemvI39Q9NGN60l_z7pIcbW1NvFLVcXQ%3A1635942577107&ei=sYCCYarQBY33kwX0xZKYAg&oq=arxiv+neural+networks+tutorial&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsANKBAhBGABQm-0BWOLyAWC29AFoAXACeACAAU2IAU2SAQExmAEAoAEByAEIwAEB&sclient=gws-wiz&ved=0ahUKEwjq7LiBmfzzAhWN-6QKHfSiBCMQ4dUDCA0&uact=5](https://www.google.com/search?q=arxiv+neural+networks+tutorial&client=ubuntu&hs=Tqd&channel=fs&sxsrf=AOaemvI39Q9NGN60l_z7pIcbW1NvFLVcXQ%3A1635942577107&ei=sYCCYarQBY33kwX0xZKYAg&oq=arxiv+neural+networks+tutorial&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsANKBAhBGABQm-0BWOLyAWC29AFoAXACeACAAU2IAU2SAQExmAEAoAEByAEIwAEB&sclient=gws-wiz&ved=0ahUKEwjq7LiBmfzzAhWN-6QKHfSiBCMQ4dUDCA0&uact=5)
 network neural principle                           <|> * Principles of Artificicial Neural Networks (Graupe)
 network neural theory recognition information pattern david inference <|> * [David MacKay: Information Theory, Pattern Recognition and Neural Networks: The Book](http://www.inference.org.uk/itprnn/book.html)
 network neural theory recognition information pattern david inference <|> * [David MacKay: Information Theory, Pattern Recognition and Neural Networks: The Book](http://www.inference.org.uk/itprnn/book.html)
@@ -636,7 +636,7 @@ tensorflow network neural _ad                      <|> * [TensorFlow in 1 Day Ma
 tensorflow reference pocket                        <|> * [TensorFlow 2 Pocket Reference](http://libgen.is/book/index.php?md5=A6372E87535BF7D8960C1986364C76B1)
 view google d drive file usp sharing               <|> * [^ RU](https://drive.google.com/file/d/1rtoJepwq1Pl64gHC7Mk7v-3zqM8NUhep/view?usp=sharing)
 view google d drive file обучение usp sharing глубокое <|> * [Глубокое обучение Погружение в мир нейронных сетей](https://drive.google.com/file/d/18_rngmSL5nAgwtpXifAzwfAm9FeGxIf7/view?usp=sharing)
-view rs statistical handbook modern search method simple phrase req def column year <|> * http://libgen.rs/search.php?&req=Handbooks+of+Modern+Statistical+Methods&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+view rs statistical handbook modern search method simple phrase req def column year <|> * [libgen.rs/search.php?&req=Handbooks+of+Modern+Statistical+Methods&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](http://libgen.rs/search.php?&req=Handbooks+of+Modern+Statistical+Methods&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 view search simple phrase req def column           <|> * [<-](http://libgen.is/search.php?req=Andrew+Glassner+From+Basics+to+Practice&open=0&res=25&view=simple&phrase=1&column=def)
 view search simple phrase req def column year      <|> * [neuronale Netze](https://libgen.is/search.php?&req=neuronale+netze&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 vk dl hash обучение машинное                       <|> * [Прагматичный ИИ. Машинное обучение и облачные технологии](https://vk.com/doc44301783_550770394?hash=710a74b90fbcd8bf61&dl=276885fd9f36b6bab0)
@@ -692,8 +692,8 @@ vk dl hash обучение машинное                       <|> * [Пра
 * SLP 3E A. Hidden Markov Models
 * SLP 3e. NN and NLM
 * Transfer Learning
-* https://b-ok.cc/s/deep%20learning/?yearFrom=2018
-* https://b-ok.cc/s/advanced%20deep%20learning
+* [b-ok.cc/s/deep%20learning/?yearFrom=2018](https://b-ok.cc/s/deep%20learning/?yearFrom=2018)
+* [b-ok.cc/s/advanced%20deep%20learning](https://b-ok.cc/s/advanced%20deep%20learning)
 * Building Machine Learning and Deep Learning Models on Google Cloud Platform
 * Practical Deep Learning for Cloud, Mobile & Edge
 * Pragmatic AI: An Introduction to Cloud-Based Machine Learning
@@ -717,11 +717,11 @@ vk dl hash обучение машинное                       <|> * [Пра
 * Learning OpenCV 4 Computer Vision with Python 3: Get to grips with tools, techniques, and algorithms for computer vision and machine learning
 * Modern Computer Vision with Pytorch
 * OpenCV 4 with Python Blueprints: Become proficient in computer vision by designing advanced projects using OpenCV 4 with Python 3.8
-* PyTorch Computer Vision Cookbook: Over 70 recipes to solve computer vision and image processing problems using PyTorch 1.x    * [Library Genesis: Date, C. J - SQL and Relational Theory](http://libgen.rs/book/index.php?md5=3984C78BE5B3D9E11CD1376E4B448F02)    * [Library Genesis: Date, C. J - SQL and Relational Theory](http://libgen.rs/book/index.php?md5=3984C78BE5B3D9E11CD1376E4B448F02)    * http://cognet.mit.edu/book/advances-evolutionary-synthesis-of-intelligent-agents    * http://cognet.mit.edu/book/advances-kernel-methods    * http://cognet.mit.edu/book/advances-genetic-programming-volume-1    * http://cognet.mit.edu/book/advances-evolutionary-synthesis-of-intelligent-agents
+* PyTorch Computer Vision Cookbook: Over 70 recipes to solve computer vision and image processing problems using PyTorch 1.x    * [Library Genesis: Date, C. J - SQL and Relational Theory](http://libgen.rs/book/index.php?md5=3984C78BE5B3D9E11CD1376E4B448F02)    * [Library Genesis: Date, C. J - SQL and Relational Theory](http://libgen.rs/book/index.php?md5=3984C78BE5B3D9E11CD1376E4B448F02)    * [cognet.mit.edu/book/advances-evolutionary-synthesis-of-intelligent-agents](http://cognet.mit.edu/book/advances-evolutionary-synthesis-of-intelligent-agents)    * [cognet.mit.edu/book/advances-kernel-methods](http://cognet.mit.edu/book/advances-kernel-methods)    * [cognet.mit.edu/book/advances-genetic-programming-volume-1](http://cognet.mit.edu/book/advances-genetic-programming-volume-1)    * [cognet.mit.edu/book/advances-evolutionary-synthesis-of-intelligent-agents](http://cognet.mit.edu/book/advances-evolutionary-synthesis-of-intelligent-agents)
 * [Mastering Spark with R: The Complete Guide to Large-Scale Analysis and Modeling](http://library.lol/main/7F892C1273D39233A6F27A1F9D8741DB)
 * [Apprentissage artificiel: Concepts et algorithmes - De Bayes et Hume au Deep Learning](https://www.eyrolles.com/Informatique/Livre/apprentissage-artificiel-9782416001048/)
 * [Haskell Data Analysis Cookbook](http://library.lol/main/37E36A4652A2355552FFFC7180D6E81B)
-* http://libgen.is/search.php?&req=evolutionary+algorithms&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+* [libgen.is/search.php?&req=evolutionary+algorithms&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](http://libgen.is/search.php?&req=evolutionary+algorithms&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 
 
 ### Deep RL
@@ -746,7 +746,7 @@ vk dl hash обучение машинное                       <|> * [Пра
 * handbook of Image Processing and Computer Vision. Volume 3
 * Machine Learning for OpenCV
 * Learning OpenCV. Computer Vision in C++ with the OpenCV Library
-* https://cs231n.github.io/
+* [cs231n.github.io/](https://cs231n.github.io/)
 * [Learning](http://libgen.is/book/index.php?md5=9208FA33E5C1F93918E128F8E0781BEC)
 * [techniques, and algorithms for computer vision and machine learning [3 ed](http://libgen.is/book/index.php?md5=9208FA33E5C1F93918E128F8E0781BEC)
 * [Learning OpenCV 3: Computer Vision in C++ with the OpenCV Library [1 ed.]](http://libgen.is/book/index.php?md5=223AF6E7AF180D4D84C4133CF11BF788)
@@ -758,7 +758,7 @@ vk dl hash обучение машинное                       <|> * [Пра
 * [Jürgen Wolf - HTML5 und CSS3 Das umfassende Handbuch zum Lernen und Nachschlagen. Inkl. JavaScript, Bootstrap, Responsive Webdesign u. v. m](http://libgen.rs/book/index.php?md5=E3A77A243DD4F1CF26DE39C25664B761)
 * CSS (Cascading Style Sheets) Visual Dictionary
 * [HTML, CSS, and JavaScript All in One: Covering HTML5, CSS3, and ES6, Sams Teach Yourself](https://b-ok.cc/book/17379791/37f425)
-* http://libgen.rs/search.php?&req=Jon+Duckett&phrase=1&view=simple&column=def&sort=extension&sortmode=DESC
+* [libgen.rs/search.php?&req=Jon+Duckett&phrase=1&view=simple&column=def&sort=extension&sortmode=DESC](http://libgen.rs/search.php?&req=Jon+Duckett&phrase=1&view=simple&column=def&sort=extension&sortmode=DESC)
 * [Создаем динамические веб-сайты с помощью PHP, MySQL, JavaScript, CSS и HTML5](http://library.lol/main/349747FC0EAE0D19785022B845724029)
 * HTML and CSS: Design and Build Websites
 * HTML and CSS: Design and build websites, by Jon Duckett
@@ -815,7 +815,7 @@ vk dl hash обучение машинное                       <|> * [Пра
 * [6. Road To React: Your Journey To Master](https://elementor.com/blog/best-web-development-books/#road-to-react) React.js in JavaScript
 * [Fullstack Vue: The Complete Guide to Vue.js](https://amzn.to/3wpBBrS)
 * [Advanced TypeScript Programming Projects: Build 9 different apps with TypeScript 3 and JavaScript frameworks such as Angular, React, and Vue *[1 ed.]*](https://libgen.is/book/index.php?md5=7B30D94B55791059F2F3B5D5E5A155A4)
-* https://libgen.is/search.php?&req=angular+web&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+* [libgen.is/search.php?&req=angular+web&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](https://libgen.is/search.php?&req=angular+web&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 * [7. Fullstack Vue: The C](https://elementor.com/blog/best-web-development-books/#fullstack-vue)omplete Guide to Vue.js
 * Introducing Bootstrap 4
 * Learning Bootstrap 4

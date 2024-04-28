@@ -1,47 +1,47 @@
 # Tmp
 
-* https://github.com/NorfairKing
-* https://medevel.com/tag/productivity/ **
-* https://medevel.com/cuekeeper/
-* https://github.com/pickfire/spt
-* https://orgmode.org/worg/org-contrib/
+* [NorfairKing](https://github.com/NorfairKing)
+* [medevel.com/tag/productivity/](https://medevel.com/tag/productivity/) **
+* [medevel.com/cuekeeper/](https://medevel.com/cuekeeper/)
+* [pickfire/spt](https://github.com/pickfire/spt)
+* [orgmode.org/worg/org-contrib/](https://orgmode.org/worg/org-contrib/)
 
-* Elevate Your Task Management With Ease - YouTube https://www.youtube.com/watch?v=U4pGz4KI1J0&t=12s&pp=2AEMkAIB
-* https://github.com/adnanh/webhook
-* https://www.freedesktop.org/wiki/Software/dbus/
-* https://develop.kde.org/frameworks/kirigami//
-* https://docs.python.org/3.11/library/argparse.html#module-argparse
-* https://github.com/python-poetry/cleo
-* https://rich.readthedocs.io/en/stable/introduction.html
-* https://click.palletsprojects.com/en/8.1.x/ ← looks really good
-* https://github.com/chris48s/stage-left, together with
-* https://github.com/dbinagi/nomodoro
-* https://github.com/jakethekoenig/tmux-pom?
-* https://github.com/poljar/matrix-nio
-* [ ] https://github.com/timeopochin/GanTTY
-* [ ] https://github.com/vit-project/vit
-* [ ] https://github.com/Textualize/textual
-* → example: https://github.com/Cvaniak/NoteSH
-* → https://github.com/Textualize/textual/discussions/165
-* [ ] https://github.com/kstenschke/tictac-track
-* [ ] https://github.com/klaudiosinani/taskbook
-* [ ] https://github.com/darrikonn/td-cli
-* [ ] https://github.com/dnote/dnote
-* [ ] https://github.com/xwmx/nb
-* [ ] https://vhp.github.io/terminal_velocity/
-* https://sma.supermemo.wiki/#/
+* Elevate Your Task Management With Ease - YouTube [](https://www.youtube.com/watch?v=U4pGz4KI1J0&t=12s&pp=2AEMkAIB)
+* [adnanh/webhook](https://github.com/adnanh/webhook)
+* [freedesktop.org/wiki/Software/dbus/](https://www.freedesktop.org/wiki/Software/dbus/)
+* [develop.kde.org/frameworks/kirigami//](https://develop.kde.org/frameworks/kirigami//)
+* [docs.python.org/3.11/library/argparse.html#module-argparse](https://docs.python.org/3.11/library/argparse.html#module-argparse)
+* [python-poetry/cleo](https://github.com/python-poetry/cleo)
+* [rich.readthedocs.io/en/stable/introduction.html](https://rich.readthedocs.io/en/stable/introduction.html)
+* [click.palletsprojects.com/en/8.1.x/](https://click.palletsprojects.com/en/8.1.x/) ← looks really good
+* [chris48s/stage-left,](https://github.com/chris48s/stage-left,) together with
+* [dbinagi/nomodoro](https://github.com/dbinagi/nomodoro)
+* [jakethekoenig/tmux-pom?](https://github.com/jakethekoenig/tmux-pom?)
+* [poljar/matrix-nio](https://github.com/poljar/matrix-nio)
+* [ ] [timeopochin/GanTTY](https://github.com/timeopochin/GanTTY)
+* [ ] [vit-project/vit](https://github.com/vit-project/vit)
+* [ ] [Textualize/textual](https://github.com/Textualize/textual)
+* → example: [Cvaniak/NoteSH](https://github.com/Cvaniak/NoteSH)
+* → [Textualize/textual/discussions/165](https://github.com/Textualize/textual/discussions/165)
+* [ ] [kstenschke/tictac-track](https://github.com/kstenschke/tictac-track)
+* [ ] [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook)
+* [ ] [darrikonn/td-cli](https://github.com/darrikonn/td-cli)
+* [ ] [dnote/dnote](https://github.com/dnote/dnote)
+* [ ] [xwmx/nb](https://github.com/xwmx/nb)
+* [ ] [vhp.github.io/terminal_velocity/](https://vhp.github.io/terminal_velocity/)
+* [sma.supermemo.wiki/#/](https://sma.supermemo.wiki/#/)
 * [Pricing - WakaTime](https://wakatime.com/pricing)
-* https://github.com/TheRolfFR/activity-tracker
-* https://github.com/anufrievroman/calcure
-* https://github.com/AlphabetsAlphabets/actt
+* [TheRolfFR/activity-tracker](https://github.com/TheRolfFR/activity-tracker)
+* [anufrievroman/calcure](https://github.com/anufrievroman/calcure)
+* [AlphabetsAlphabets/actt](https://github.com/AlphabetsAlphabets/actt)
 * [note templates](https://jacobzelko.com/08032021134232-notes-template/#example_of_actual_note)
-* https://github.com/wireapp/lithium
+* [wireapp/lithium](https://github.com/wireapp/lithium)
 * [Tinycare-Tui](https://www.reddit.com/r/golang/s/fVY4hoTMYY)
-* https://www.heise.de/tests/Kurztests-Desktop-Uebersetzer-Markdown-Notizbuch-und-Online-Whiteboard-9201345.html
+* [heise.de/tests/Kurztests-Desktop-Uebersetzer-Markdown-Notizbuch-und-Online-Whiteboard-9201345.html](https://www.heise.de/tests/Kurztests-Desktop-Uebersetzer-Markdown-Notizbuch-und-Online-Whiteboard-9201345.html)
 * [planager (+ganttouchthis, taskifist)](https://www.notion.so/nebokrai-horizon-consilium-ganttouchthis-taskifist-roadmapper-2d3a6d104fb348c0b63b58087aada71b?pvs=21)
 * [JasonShin/fp-core.rs: A library for functional programming in Rust](https://github.com/JasonShin/fp-core.rs)
-* https://github.com/brunocbr/zettel-composer
-* https://activitywatch.net/
+* [brunocbr/zettel-composer](https://github.com/brunocbr/zettel-composer)
+* [activitywatch.net/](https://activitywatch.net/)
 * [I Should Have Just Used Vimwiki From The Start](https://youtu.be/vBJj7YMVn6I)
 * [u/oohay_email2004 replied to your post in r/codereview - isaac.r.riley@gmail.com - Gmail](https://mail.google.com/mail/u/0/#inbox/FMfcgzGrcXqJsBMnzlVBKMwmsLDGFBrL)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter18/)
@@ -83,95 +83,95 @@
 * [brick: A declarative terminal user interface library](https://hackage.haskell.org/package/brick)
 * [zadam/trilium: Build your personal knowledge base with Trilium Notes](https://github.com/zadam/trilium)
 * [Paperspace Blog](https://blog.paperspace.com/)
-* https://obsidian.md/
+* [obsidian.md/](https://obsidian.md/)
 * [set up dvc with google drive - Google Search](https://www.google.com/search?client=firefox-b-d&q=set+up+dvc+with+google+drive)
-* https://www.youtube.com/watch?v=A1YgbAp5YRc
+* [](https://www.youtube.com/watch?v=A1YgbAp5YRc)
 * [Stuff I did - The stuff I do](https://www.statox.fr/projects/#)
-* https://dashboard.heroku.com/account heroku backup XY047RVTHX H0RYMIZ36C VTU7G4K6YO IMDP455R7S P7EN0W7BZP NDWZ0FMG1L ECTT2W4552 ZTICQNARDY 7SUJG65VN8 J1B78S0QOR
-* https://github.com/toeverything/AFFiNE
+* [dashboard.heroku.com/account](https://dashboard.heroku.com/account) heroku backup XY047RVTHX H0RYMIZ36C VTU7G4K6YO IMDP455R7S P7EN0W7BZP NDWZ0FMG1L ECTT2W4552 ZTICQNARDY 7SUJG65VN8 J1B78S0QOR
+* [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
 * [Are TODO Applications Hind](https://www.youtube.com/watch?v=BcxZj2qh4Kw)ering Your Productivity?
-* https://f-droid.org/packages/com.mhss.app.mybrain/
-* https://organice.200ok.ch/
-* https://github.com/AsamK/signal-cli
-* https://ecosystem.atlassian.net/wiki/spaces/JRJC/overview
-* https://github.com/PROxZIMA/TimetableScheduler
-* https://github.com/topics/timetable-generator
-* https://github.com/nomeata/arbtt - automatic rule-based time tracker
-* https://sr.ht/~emersion/goguma/
-* https://sr.ht/~emersion/gamja/
-* https://github.com/ergochat/ergo
-* https://github.com/jquku/Matrix-Chatbot
-* https://github.com/lwesterhof/semaphore
-* https://gitlab.com/signald/signald
-* https://signald.org/
-* https://github.com/signalapp/libsignal
-* https://github.com/AsamK/signal-cli
-* https://github.com/matrix-org/matrix-hookshot
-* https://play.google.com/store/apps/details?id=com.countercultured.irc4android
-* https://gitlab.com/jpypi/rustix
-* https://matrix.org/ecosystem/integrations/
-* https://gitlab.com/jpypi/rustix
-* https://tasks.org/ $$$$$$$$$
-* https://github.com/usememos/memos
-* https://xit.jotaen.net/
-* https://github.com/orgzly/orgzly-android
-* https://www.libhunt.com/r/organice
-* https://org-web.org/
-* https://appwrite.io/
-* https://github.com/bgregos/foreground
-* https://f-droid.org/packages/me.bgregos.brighttask/
-* https://f-droid.org/packages/com.madlonkay.orgro/ → make for neorg
-* https://github.com/d-k-bo/gotify-rs
-* https://github.com/gotify/server
-* https://keep.imfreedom.org/pidgin/pidgin/
-* https://github.com/tinode/chat
-* https://github.com/twilio-labs/receptionist-bot-rs
-* https://slack-rust.abdolence.dev/
-* https://www.pushbits.io/
-* https://matrix.org/ecosystem/bridges/signal/
-* https://github.com/matrix-org/matrix-rust-sdk#readme
-* https://matrix.org/ecosystem/sdks/
-* https://f-droid.org/packages/com.github.gotify/
-* https://anytype.io/
-* My GTD Emacs Workflow (Getting Things Done) - YouTube https://m.youtube.com/watch?v=92PCxH29UCo
-* https://stackoverflow.com/questions/35250621/recursive-self-referencing-json-schema
-* https://fortelabs.com/blog/test-driving-a-new-generation-of-second-brain-apps-obsidian-tana-and-mem/
-* https://stackoverflow.com/questions/20752716/json-schema-recursive-schema-definition
-* https://about.org-note.com/
-* https://libera.chat/guides/clients
-* https://f-droid.org/packages/io.mrarm.irc/
-* https://sopel.chat/
-* https://github.com/topics/irc-bot
-* https://graz.social/@publicvoit/111388551599358628
-* nebokrai $$$$$$$$$ https://smos.online/
-* https://julian.digital/2023/07/06/multi-layered-calendars/
-* Spaced repetition systems can be used to program attention https://notes.andymatuschak.org/zB92WZZ5baBHKZPPbWMbYEv
-* https://discord.com/channels/834325286664929280/877666474888675368/1222613062796705862
-* https://julian.digital/2023/07/06/multi-layered-calendars/
-* https://tinydb.readthedocs.io/en/latest/
-* → switch to https://www.focalboard.com/ ?
-* https://www.notion.so/my-integrations
+* [f-droid.org/packages/com.mhss.app.mybrain/](https://f-droid.org/packages/com.mhss.app.mybrain/)
+* [organice.200ok.ch/](https://organice.200ok.ch/)
+* [AsamK/signal-cli](https://github.com/AsamK/signal-cli)
+* [ecosystem.atlassian.net/wiki/spaces/JRJC/overview](https://ecosystem.atlassian.net/wiki/spaces/JRJC/overview)
+* [PROxZIMA/TimetableScheduler](https://github.com/PROxZIMA/TimetableScheduler)
+* [topics/timetable-generator](https://github.com/topics/timetable-generator)
+* [nomeata/arbtt](https://github.com/nomeata/arbtt) - automatic rule-based time tracker
+* [sr.ht/~emersion/goguma/](https://sr.ht/~emersion/goguma/)
+* [sr.ht/~emersion/gamja/](https://sr.ht/~emersion/gamja/)
+* [ergochat/ergo](https://github.com/ergochat/ergo)
+* [jquku/Matrix-Chatbot](https://github.com/jquku/Matrix-Chatbot)
+* [lwesterhof/semaphore](https://github.com/lwesterhof/semaphore)
+* [gitlab.com/signald/signald](https://gitlab.com/signald/signald)
+* [signald.org/](https://signald.org/)
+* [signalapp/libsignal](https://github.com/signalapp/libsignal)
+* [AsamK/signal-cli](https://github.com/AsamK/signal-cli)
+* [matrix-org/matrix-hookshot](https://github.com/matrix-org/matrix-hookshot)
+* [play.google.com/store/apps/details?id=com.countercultured.irc4android](https://play.google.com/store/apps/details?id=com.countercultured.irc4android)
+* [gitlab.com/jpypi/rustix](https://gitlab.com/jpypi/rustix)
+* [matrix.org/ecosystem/integrations/](https://matrix.org/ecosystem/integrations/)
+* [gitlab.com/jpypi/rustix](https://gitlab.com/jpypi/rustix)
+* [tasks.org/](https://tasks.org/) $$$$$$$$$
+* [usememos/memos](https://github.com/usememos/memos)
+* [xit.jotaen.net/](https://xit.jotaen.net/)
+* [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android)
+* [libhunt.com/r/organice](https://www.libhunt.com/r/organice)
+* [org-web.org/](https://org-web.org/)
+* [appwrite.io/](https://appwrite.io/)
+* [bgregos/foreground](https://github.com/bgregos/foreground)
+* [f-droid.org/packages/me.bgregos.brighttask/](https://f-droid.org/packages/me.bgregos.brighttask/)
+* [f-droid.org/packages/com.madlonkay.orgro/](https://f-droid.org/packages/com.madlonkay.orgro/) → make for neorg
+* [d-k-bo/gotify-rs](https://github.com/d-k-bo/gotify-rs)
+* [gotify/server](https://github.com/gotify/server)
+* [keep.imfreedom.org/pidgin/pidgin/](https://keep.imfreedom.org/pidgin/pidgin/)
+* [tinode/chat](https://github.com/tinode/chat)
+* [twilio-labs/receptionist-bot-rs](https://github.com/twilio-labs/receptionist-bot-rs)
+* [slack-rust.abdolence.dev/](https://slack-rust.abdolence.dev/)
+* [pushbits.io/](https://www.pushbits.io/)
+* [matrix.org/ecosystem/bridges/signal/](https://matrix.org/ecosystem/bridges/signal/)
+* [matrix-org/matrix-rust-sdk#readme](https://github.com/matrix-org/matrix-rust-sdk#readme)
+* [matrix.org/ecosystem/sdks/](https://matrix.org/ecosystem/sdks/)
+* [f-droid.org/packages/com.github.gotify/](https://f-droid.org/packages/com.github.gotify/)
+* [anytype.io/](https://anytype.io/)
+* My GTD Emacs Workflow (Getting Things Done) - YouTube [](https://m.youtube.com/watch?v=92PCxH29UCo)
+* [stackoverflow.com/questions/35250621/recursive-self-referencing-json-schema](https://stackoverflow.com/questions/35250621/recursive-self-referencing-json-schema)
+* [fortelabs.com/blog/test-driving-a-new-generation-of-second-brain-apps-obsidian-tana-and-mem/](https://fortelabs.com/blog/test-driving-a-new-generation-of-second-brain-apps-obsidian-tana-and-mem/)
+* [stackoverflow.com/questions/20752716/json-schema-recursive-schema-definition](https://stackoverflow.com/questions/20752716/json-schema-recursive-schema-definition)
+* [about.org-note.com/](https://about.org-note.com/)
+* [libera.chat/guides/clients](https://libera.chat/guides/clients)
+* [f-droid.org/packages/io.mrarm.irc/](https://f-droid.org/packages/io.mrarm.irc/)
+* [sopel.chat/](https://sopel.chat/)
+* [topics/irc-bot](https://github.com/topics/irc-bot)
+* [graz.social/@publicvoit/111388551599358628](https://graz.social/@publicvoit/111388551599358628)
+* nebokrai $$$$$$$$$ [smos.online/](https://smos.online/)
+* [julian.digital/2023/07/06/multi-layered-calendars/](https://julian.digital/2023/07/06/multi-layered-calendars/)
+* Spaced repetition systems can be used to program attention [notes.andymatuschak.org/zB92WZZ5baBHKZPPbWMbYEv](https://notes.andymatuschak.org/zB92WZZ5baBHKZPPbWMbYEv)
+* [discord.com/channels/834325286664929280/877666474888675368/1222613062796705862](https://discord.com/channels/834325286664929280/877666474888675368/1222613062796705862)
+* [julian.digital/2023/07/06/multi-layered-calendars/](https://julian.digital/2023/07/06/multi-layered-calendars/)
+* [tinydb.readthedocs.io/en/latest/](https://tinydb.readthedocs.io/en/latest/)
+* → switch to [focalboard.com/](https://www.focalboard.com/) ?
+* [notion.so/my-integrations](https://www.notion.so/my-integrations)
 * via Trello?
-* https://github.com/makenotion/notion-sdk-js
-* https://github.com/ramnes/notion-sdk-py
-* https://github.com/getsyncr/notion-sdk (deprecated)
-* https://github.com/makenotion/notion-sdk-typescript-starter
-* [ ] https://github.com/nvim-neorg/neorg
+* [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js)
+* [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py)
+* [getsyncr/notion-sdk](https://github.com/getsyncr/notion-sdk) (deprecated)
+* [makenotion/notion-sdk-typescript-starter](https://github.com/makenotion/notion-sdk-typescript-starter)
+* [ ] [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
 * [gtd books](http://libgen.rs/search.php?req=getting+things+done+David+allen&open=0&res=25&view=simple&phrase=1&column=def)
-* https://github.com/MahmoudNasser01/django_simple_notification
-* https://github.com/avelino/awesome-go#advanced-console-uis
-* https://github.com/adnanh/webhook
-* https://github.com/schmee/habu
-* [ ] https://github.com/hugginsio/twig.nvim, also a nvim plugin
-* https://github.com/nvim-neorg/neorg/wiki/GTD-Queries/ba2cc1c5cf8c5ed0690e445f213e18c04ff4e157
-* [ ] https://github.com/xwmx/nb ***
-* [ ] https://github.com/pimutils/todoman
-* https://github.com/Rigellute/spotify-tui/issues/732 for spotify-tui on rpi
-* https://docs.spotifyd.rs/installation/Raspberry-Pi.html
-* [https://accounts.spotify.com/authorize?response_type=code&state=AV5CzOfJ8YxNnEch&client_id=0cd789e4785c4b19ad5a200822b12104&redirect_uri=http:%2F%2Flocalhost:8888%2Fcallback&scope=playlist-read-collaborative playlist-read-private playlist-modify-private playlist-modify-public user-follow-read user-follow-modify user-library-modify user-library-read user-modify-playback-state user-read-currently-playing user-read-playback-state user-read-playback-position user-read-private user-read-recently-played&](https://accounts.spotify.com/authorize?response_type=code&state=AV5CzOfJ8YxNnEch&client_id=0cd789e4785c4b19ad5a200822b12104&redirect_uri=http:%2F%2Flocalhost:8888%2Fcallback&scope=playlist-read-collaborative%20playlist-read-private%20playlist-modify-private%20playlist-modify-public%20user-follow-read%20user-follow-modify%20user-library-modify%20user-library-read%20user-modify-playback-state%20user-read-currently-playing%20user-read-playback-state%20user-read-playback-position%20user-read-private%20user-read-recently-played&)
-* https://developer.spotify.com/dashboard
-* https://github.com/phaazon/mind → also look at how keymaps are handled and represented
-* https://github.com/Nighty3098/FocuseSpace
+* [MahmoudNasser01/django_simple_notification](https://github.com/MahmoudNasser01/django_simple_notification)
+* [avelino/awesome-go#advanced-console-uis](https://github.com/avelino/awesome-go#advanced-console-uis)
+* [adnanh/webhook](https://github.com/adnanh/webhook)
+* [schmee/habu](https://github.com/schmee/habu)
+* [ ] [hugginsio/twig.nvim,](https://github.com/hugginsio/twig.nvim,) also a nvim plugin
+* [nvim-neorg/neorg/wiki/GTD-Queries/ba2cc1c5cf8c5ed0690e445f213e18c04ff4e157](https://github.com/nvim-neorg/neorg/wiki/GTD-Queries/ba2cc1c5cf8c5ed0690e445f213e18c04ff4e157)
+* [ ] [xwmx/nb](https://github.com/xwmx/nb) ***
+* [ ] [pimutils/todoman](https://github.com/pimutils/todoman)
+* [Rigellute/spotify-tui/issues/732](https://github.com/Rigellute/spotify-tui/issues/732) for spotify-tui on rpi
+* [docs.spotifyd.rs/installation/Raspberry-Pi.html](https://docs.spotifyd.rs/installation/Raspberry-Pi.html)
+* [accounts.spotify.com/authorize?response_type=code&state=AV5CzOfJ8YxNnEch&client_id=0cd789e4785c4b19ad5a200822b12104&redirect_uri=http:%2F%2Flocalhost:8888%2Fcallback&scope=playlist-read-collaborative playlist-read-private playlist-modify-private playlist-modify-public user-follow-read user-follow-modify user-library-modify user-library-read user-modify-playback-state user-read-currently-playing user-read-playback-state user-read-playback-position user-read-private user-read-recently-played&](https://accounts.spotify.com/authorize?response_type=code&state=AV5CzOfJ8YxNnEch&client_id=0cd789e4785c4b19ad5a200822b12104&redirect_uri=http:%2F%2Flocalhost:8888%2Fcallback&scope=playlist-read-collaborative%20playlist-read-private%20playlist-modify-private%20playlist-modify-public%20user-follow-read%20user-follow-modify%20user-library-modify%20user-library-read%20user-modify-playback-state%20user-read-currently-playing%20user-read-playback-state%20user-read-playback-position%20user-read-private%20user-read-recently-played&)
+* [developer.spotify.com/dashboard](https://developer.spotify.com/dashboard)
+* [phaazon/mind](https://github.com/phaazon/mind) → also look at how keymaps are handled and represented
+* [Nighty3098/FocuseSpace](https://github.com/Nighty3098/FocuseSpace)
 * [palette::named - Rust](https://docs.rs/palette/0.4.1/palette/named/index.html#constants)
 * [rdbo/sigma-linux: Sigma Linux - Σlite Operating System](https://github.com/rdbo/sigma-linux)
 * [johannesjo/super-productivity: Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.](https://github.com/johannesjo/super-productivity)
@@ -201,42 +201,42 @@
 * [Install Ubuntu Server | Ubuntu](https://ubuntu.com/tutorials/install-ubuntu-server#6-choose-your-install)
 * [Create a Bootable Device - Alpine Linux](https://wiki.alpinelinux.org/wiki/Create_a_Bootable_Device)
 * nebokrai & similar
-* https://github.com/simplex-chat/simplex-chat/tree/stable/apps
-* https://github.com/simplex-chat/simplex-chat/blob/stable/apps/simplex-bot-advanced/Main.hs
-* https://simplex.chat/blog/20231125-simplex-chat-v5-4-link-mobile-desktop-quantum-resistant-better-groups.html
-* SchildiChat https://f-droid.org/packages/de.spiritcroc.riotx/
-* Best Secure Messaging App | FBI Document Leaked - YouTube https://www.youtube.com/watch?v=wj-aR96FOA0&pp=ygUPU2lnbmFsIGNoYXQgYm90
+* [simplex-chat/simplex-chat/tree/stable/apps](https://github.com/simplex-chat/simplex-chat/tree/stable/apps)
+* [simplex-chat/simplex-chat/blob/stable/apps/simplex-bot-advanced/Main.hs](https://github.com/simplex-chat/simplex-chat/blob/stable/apps/simplex-bot-advanced/Main.hs)
+* [simplex.chat/blog/20231125-simplex-chat-v5-4-link-mobile-desktop-quantum-resistant-better-groups.html](https://simplex.chat/blog/20231125-simplex-chat-v5-4-link-mobile-desktop-quantum-resistant-better-groups.html)
+* SchildiChat [f-droid.org/packages/de.spiritcroc.riotx/](https://f-droid.org/packages/de.spiritcroc.riotx/)
+* Best Secure Messaging App | FBI Document Leaked - YouTube [](https://www.youtube.com/watch?v=wj-aR96FOA0&pp=ygUPU2lnbmFsIGNoYXQgYm90)
 * [types-jsonschema · PyPI](https://pypi.org/project/types-jsonschema/#history)
 * [nebokrai/.envrc at main · yelircaasi/nebokrai](https://github.com/yelircaasi/nebokrai/blob/main/.envrc)
 * [SSH and GPG keys](https://github.com/settings/keys)
-* ⇒ https://wiki.archlinux.org/title/List_of_applications/Other
-* https://jamesclear.com/how-to-stop-procrastinating
-* https://www.jeffsanders.com/the-7-essential-elements-of-productivity-element-4-planning/
+* ⇒ [wiki.archlinux.org/title/List_of_applications/Other](https://wiki.archlinux.org/title/List_of_applications/Other)
+* [jamesclear.com/how-to-stop-procrastinating](https://jamesclear.com/how-to-stop-procrastinating)
+* [jeffsanders.com/the-7-essential-elements-of-productivity-element-4-planning/](https://www.jeffsanders.com/the-7-essential-elements-of-productivity-element-4-planning/)
 * [HedgeDoc - The best platform to write and share markdown.](https://hedgedoc.org/)
 * [hedgedoc/hedgedoc at blog.cloudron.io](https://github.com/hedgedoc/hedgedoc?ref=blog.cloudron.io)
-* [https://github.com/viseshrp/workedon](https://github.com/viseshrp/workedon)
-* https://github.com/teloxide/teloxide
-* https://github.com/tools-life/taskwiki
+* [github.com/viseshrp/workedon](https://github.com/viseshrp/workedon)
+* [teloxide/teloxide](https://github.com/teloxide/teloxide)
+* [tools-life/taskwiki](https://github.com/tools-life/taskwiki)
 * [Ticketsystem: Znuny 7 als Open-Source-Alternative zu OTRS](https://www.heise.de/news/Ticketsystem-Znuny-7-als-Open-Source-Alternative-zu-OTRS-8969167.html)
 * (Telegram inline keyboard? Add [custom keyboard](https://www.google.com/search?q=add+custom+keyboard+to+android&sxsrf=APwXEde_qAYevpIXgyBDpVjjtVpsAK4Huw:1682273314975&source=lnt&tbs=qdr:y&sa=X&ved=2ahUKEwjvrOq6zMD-AhUCsaQKHZB0BsEQpwV6BAgBEAs&biw=1717&bih=845&dpr=1) for Telegram to include slash and numbers on basic keyboard? → not highest priority)
-* https://www.npmjs.com/package/browser-sync
+* [npmjs.com/package/browser-sync](https://www.npmjs.com/package/browser-sync)
 * [Is there a plugin for seeing a live preview of HTML/CSS/JS?Reddithttps://www.reddit.com › neovim › comments › plggq3](https://www.reddit.com/r/neovim/comments/plggq3/is_there_a_plugin_for_seeing_a_live_preview_of/)
 * I use markdown-*preview*.*nvim* for getting a *live preview* when editing Markdown files. But is there something similar for web development?
 * [Is there a plugin for *live preview* my web projects on ... - Reddit](https://www.reddit.com/r/neovim/comments/uzqx2i/is_there_a_plugin_for_live_preview_my_web/)
 * [Live* Server plugin for *vim*/*nvim* : r/*neovim* - Reddit](https://www.reddit.com/r/neovim/comments/w86ash/live_server_plugin_for_vimnvim/)
 * [Introducing *live*-command.*nvim*: *preview* the norm ... - Reddit](https://www.reddit.com/r/neovim/comments/xx5hhp/introducing_livecommandnvim_preview_the_norm/)
 * [Live* markdown *preview* to PDF : r/*neovim* - Reddit](https://www.reddit.com/r/neovim/comments/w7ki77/live_markdown_preview_to_pdf/)
-* https://dev.to/fidelve/using-vim-as-your-main-editor-for-web-development-5a73
-* https://www.google.com/search?client=firefox-b-d&q=open+source+web+gantt+viewer
-* https://github.com/litehtml/litehtml
-* https://github.com/edluffy/hologram.nvim
-* https://github.com/krivahtoo/silicon.nvim
-* Read https://neovim.io/doc/user/lua.html
-* Read https://learnxinyminutes.com/docs/fr-fr/lua-fr/, https://learnxinyminutes.com/docs/pt-br/lua-pt/,  https://learnxinyminutes.com/docs/de-de/lua-de/, https://learnxinyminutes.com/docs/ru-ru/lua-ru/
-* Read https://www.lua.org/manual/5.1/1
-* https://www.reddit.com/r/Notion/comments/nd76ec/notion_api_webhooks/
-* https://www.thegist.so/#Pricing
-* (productivity) https://github.com/matthiasn/lotti
+* [dev.to/fidelve/using-vim-as-your-main-editor-for-web-development-5a73](https://dev.to/fidelve/using-vim-as-your-main-editor-for-web-development-5a73)
+* [google.com/search?client=firefox-b-d&q=open+source+web+gantt+viewer](https://www.google.com/search?client=firefox-b-d&q=open+source+web+gantt+viewer)
+* [litehtml/litehtml](https://github.com/litehtml/litehtml)
+* [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim)
+* [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim)
+* Read [neovim.io/doc/user/lua.html](https://neovim.io/doc/user/lua.html)
+* Read [learnxinyminutes.com/docs/fr-fr/lua-fr/,](https://learnxinyminutes.com/docs/fr-fr/lua-fr/,) [learnxinyminutes.com/docs/pt-br/lua-pt/,](https://learnxinyminutes.com/docs/pt-br/lua-pt/,)  [learnxinyminutes.com/docs/de-de/lua-de/,](https://learnxinyminutes.com/docs/de-de/lua-de/,) [learnxinyminutes.com/docs/ru-ru/lua-ru/](https://learnxinyminutes.com/docs/ru-ru/lua-ru/)
+* Read [lua.org/manual/5.1/1](https://www.lua.org/manual/5.1/1)
+* [r/Notion/comments/nd76ec/notion_api_webhooks/](https://www.reddit.com/r/Notion/comments/nd76ec/notion_api_webhooks/)
+* [thegist.so/#Pricing](https://www.thegist.so/#Pricing)
+* (productivity) [matthiasn/lotti](https://github.com/matthiasn/lotti)
 * [Whimsical - Work Better, Faster, Together](https://whimsical.com/)
-* https://ramnes.github.io/notion-sdk-py/
-* https://foambubble.github.io/foam/
+* [ramnes.github.io/notion-sdk-py/](https://ramnes.github.io/notion-sdk-py/)
+* [foambubble.github.io/foam/](https://foambubble.github.io/foam/)

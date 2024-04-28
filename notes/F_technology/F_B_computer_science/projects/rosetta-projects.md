@@ -2,10 +2,10 @@
 
 -> Add "Build Your Own Lisp" to Rosetta Projects
 
-* https://github.com/eldritch-cookie/templates $$$
+* [eldritch-cookie/templates](https://github.com/eldritch-cookie/templates) $$$
 
 
-* https://github.com/RosettaProjects Next Steps
+* [RosettaProjects](https://github.com/RosettaProjects) Next Steps
     - [x]  Rename: RosettaProjects (Github organization)
     - [ ]  code template repos (use copier, ideally → rewrite copier in compiled language?)
         - copier-template-c
@@ -28,33 +28,33 @@
 
             * [Corresponding Datasets](https://github.com/snipsco/nlu-benchmark/tree/master/2017-06-custom-intent-engines)
 
-            * https://github.com/netik1020/Concise-iPython-Notebooks-for-Deep-learning/tree/master/Intent_classifier
+            * [netik1020/Concise-iPython-Notebooks-for-Deep-learning/tree/master/Intent_classifier](https://github.com/netik1020/Concise-iPython-Notebooks-for-Deep-learning/tree/master/Intent_classifier)
 
-            * https://colab.research.google.com/github/mdda/deep-learning-workshop/blob/master/notebooks/5-RNN/3-Text-Corpus-and-Embeddings.ipynb
+            * [colab.research.google.com/github/mdda/deep-learning-workshop/blob/master/notebooks/5-RNN/3-Text-Corpus-and-Embeddings.ipynb](https://colab.research.google.com/github/mdda/deep-learning-workshop/blob/master/notebooks/5-RNN/3-Text-Corpus-and-Embeddings.ipynb)
 
-            * https://colab.research.google.com/drive/1mSwH-DVZbVVNeP_KSprWtQY33fh3kQTt
+            * [colab.research.google.com/drive/1mSwH-DVZbVVNeP_KSprWtQY33fh3kQTt](https://colab.research.google.com/drive/1mSwH-DVZbVVNeP_KSprWtQY33fh3kQTt)
 
             * [Input and output sizes](https://medium.com/@shivajbd/understanding-input-and-output-shape-in-lstm-keras-c501ee95c65e?)
 
-            * https://stackoverflow.com/questions/49923165/tensorflow-training-on-json-data-to-generate-similar-output
+            * [stackoverflow.com/questions/49923165/tensorflow-training-on-json-data-to-generate-similar-output](https://stackoverflow.com/questions/49923165/tensorflow-training-on-json-data-to-generate-similar-output)
 
-            * https://www.tensorflow.org/versions/r1.15/api_docs/python/tf/io/decode_json_example
+            * [tensorflow.org/versions/r1.15/api_docs/python/tf/io/decode_json_example](https://www.tensorflow.org/versions/r1.15/api_docs/python/tf/io/decode_json_example)
 
             * [JSON example with images](https://algorithmia.com/blog/deep-dive-into-object-detection-with-open-images-using-tensorflow)
 
 
-            * https://www.tensorflow.org/tfx/tutorials/transform/simple
+            * [tensorflow.org/tfx/tutorials/transform/simple](https://www.tensorflow.org/tfx/tutorials/transform/simple)
 
 
             * [Good ideas from Rasa](https://rasa.com/docs/rasa/nlu/components/)
 
-            * https://towardsdatascience.com/a-guide-to-conda-environments-bc6180fc533
+            * [towardsdatascience.com/a-guide-to-conda-environments-bc6180fc533](https://towardsdatascience.com/a-guide-to-conda-environments-bc6180fc533)
 
-            * https://medium.com/@tatiana.parshina/understanding-rasa-tensorflow-intent-classifier-e9d4ef019c6
+            * [medium.com/@tatiana.parshina/understanding-rasa-tensorflow-intent-classifier-e9d4ef019c6](https://medium.com/@tatiana.parshina/understanding-rasa-tensorflow-intent-classifier-e9d4ef019c6)
 
-            * https://github.com/TatianaParshina
+            * [TatianaParshina](https://github.com/TatianaParshina)
 
-            * https://github.com/xliuhw/NLU-Evaluation-Data?files=1
+            * [xliuhw/NLU-Evaluation-Data?files=1](https://github.com/xliuhw/NLU-Evaluation-Data?files=1)
 
 
 
@@ -62,7 +62,7 @@
 
 
 
-            * https://github.com/yuanxiaosc/BERT-for-Sequence-Labeling-and-Text-Classification/blob/master/run_slot_intent_join_task_LSTM.py
+            * [yuanxiaosc/BERT-for-Sequence-Labeling-and-Text-Classification/blob/master/run_slot_intent_join_task_LSTM.py](https://github.com/yuanxiaosc/BERT-for-Sequence-Labeling-and-Text-Classification/blob/master/run_slot_intent_join_task_LSTM.py)
 
 
 
@@ -71,7 +71,7 @@
 
 
 
-            * https://github.com/DataTurks-Engg/Entity-Recognition-In-Resumes-SpaCy/blob/master/train.py
+            * [DataTurks-Engg/Entity-Recognition-In-Resumes-SpaCy/blob/master/train.py](https://github.com/DataTurks-Engg/Entity-Recognition-In-Resumes-SpaCy/blob/master/train.py)
 
 
 
@@ -80,29 +80,29 @@
 
     Other
 
-            * https://keras.io/layers/embeddings/
+            * [keras.io/layers/embeddings/](https://keras.io/layers/embeddings/)
 
-            * https://medium.com/@yuraist/how-to-upload-your-own-dataset-into-google-colab-e228727c87e9
+            * [medium.com/@yuraist/how-to-upload-your-own-dataset-into-google-colab-e228727c87e9](https://medium.com/@yuraist/how-to-upload-your-own-dataset-into-google-colab-e228727c87e9)
 
-            * https://medium.com/analytics-vidhya/neural-networks-for-word-embeddings-4b49e0e9c955
+            * [medium.com/analytics-vidhya/neural-networks-for-word-embeddings-4b49e0e9c955](https://medium.com/analytics-vidhya/neural-networks-for-word-embeddings-4b49e0e9c955)
 
-            * https://towardsdatascience.com/a-beginners-guide-to-word-embedding-with-gensim-word2vec-model-5970fa56cc92
+            * [towardsdatascience.com/a-beginners-guide-to-word-embedding-with-gensim-word2vec-model-5970fa56cc92](https://towardsdatascience.com/a-beginners-guide-to-word-embedding-with-gensim-word2vec-model-5970fa56cc92)
 
-            * https://blog.rasa.com/rasa-nlu-in-depth-part-1-intent-classification/
+            * [blog.rasa.com/rasa-nlu-in-depth-part-1-intent-classification/](https://blog.rasa.com/rasa-nlu-in-depth-part-1-intent-classification/)
 
-            * https://medium.com/@palashshinde6/how-to-build-simple-chatbot-in-python-from-scratch-using-rasa-nlu-nltk-5fb23aa702a4
+            * [medium.com/@palashshinde6/how-to-build-simple-chatbot-in-python-from-scratch-using-rasa-nlu-nltk-5fb23aa702a4](https://medium.com/@palashshinde6/how-to-build-simple-chatbot-in-python-from-scratch-using-rasa-nlu-nltk-5fb23aa702a4)
 
-            * https://www.analyticsvidhya.com/blog/2018/01/faq-chatbots-the-future-of-information-searching/
+            * [analyticsvidhya.com/blog/2018/01/faq-chatbots-the-future-of-information-searching/](https://www.analyticsvidhya.com/blog/2018/01/faq-chatbots-the-future-of-information-searching/)
 
             * [Spacy Python Tutorial - Intent Classification with Rasa and Spacy](https://www.youtube.com/watch?v=hbgY7lGuK8U)
 
-            * https://nlpforhackers.io/chatbots-introduction/
+            * [nlpforhackers.io/chatbots-introduction/](https://nlpforhackers.io/chatbots-introduction/)
 
             * [Rasa NLU & Rasa Core Tutorial- Introduction & Intent Classification](https://www.youtube.com/watch?v=5I8vL2pk_1g)
 
             * [Prepare your data for ML | Text Classification Tutorial Pt. 1 (Coding TensorFlow)](https://www.youtube.com/watch?v=BO4g2DRvL6U)
 
-            * https://medium.com/@palashshinde6/how-to-build-simple-chatbot-in-python-from-scratch-using-rasa-nlu-nltk-5fb23aa702a4
+            * [medium.com/@palashshinde6/how-to-build-simple-chatbot-in-python-from-scratch-using-rasa-nlu-nltk-5fb23aa702a4](https://medium.com/@palashshinde6/how-to-build-simple-chatbot-in-python-from-scratch-using-rasa-nlu-nltk-5fb23aa702a4)
 
 
     Resources
@@ -117,11 +117,11 @@
 
     PyTorch Tutorials
 
-            * https://www.tensorflow.org/resources/learn-ml
+            * [tensorflow.org/resources/learn-ml](https://www.tensorflow.org/resources/learn-ml)
 
-            * [https://tfhub.dev](https://tfhub.dev/)
+            * [tfhub.dev](https://tfhub.dev/)
 
-            * [https://paperswithcode.com](https://paperswithcode.com/)
+            * [paperswithcode.com](https://paperswithcode.com/)
 
             * [Builing Chatbots with Python](https://b-ok.cc/book/3642068/da7d8c)
 
@@ -145,7 +145,7 @@
             * [Multi-Output Learning - A Survey](https://arxiv.org/pdf/1901.00248.pdf)
 
 
-* https://github.com/RodneyShag/HackerRank_solutions
+* [RodneyShag/HackerRank_solutions](https://github.com/RodneyShag/HackerRank_solutions)
 * [Solve Programming Questions | HackerRank](https://www.hackerrank.com/domains/algorithms)
 
 
@@ -179,8 +179,8 @@
 |  |  | $ drracket |  |  |
 |  |  |  |  |  |
 | Haskell | $ ghc -o objname file.hs | $ haskell | :quit | putStrLn "Hello World!" |
-| https://cheatsheet.codeslower.com/CheatSheet.pdf | $ ./ objname | $ ghci |  | main = putStrLn "Hello World!" |
-| https://github.s3.amazonaws.com/downloads/jsoffer/cheatsheet/CheatSheetEs.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAISTNZFOVBIJMK3TQ%2F20191213%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191213T171655Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=3e018e451f290bb18731aad39af27d0ef52bb1357d937734d4d77acd8217b9f4 |  |  |  |  |
+| [cheatsheet.codeslower.com/CheatSheet.pdf](https://cheatsheet.codeslower.com/CheatSheet.pdf) | $ ./ objname | $ ghci |  | main = putStrLn "Hello World!" |
+| [github.s3.amazonaws.com/downloads/jsoffer/cheatsheet/CheatSheetEs.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAISTNZFOVBIJMK3TQ%2F20191213%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191213T171655Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=3e018e451f290bb18731aad39af27d0ef52bb1357d937734d4d77acd8217b9f4](https://github.s3.amazonaws.com/downloads/jsoffer/cheatsheet/CheatSheetEs.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAISTNZFOVBIJMK3TQ%2F20191213%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191213T171655Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=3e018e451f290bb18731aad39af27d0ef52bb1357d937734d4d77acd8217b9f4) |  |  |  |  |
 | Prolog | $ prolog -q -l <filename>.pl OR <filename>.pro | $ prolog | halt. | write('string'), nl. |
 |  | $ swipl -q -l <filename>.pl OR <filename>.pro | $ swipl |  |  |
 |  |  |  |  |  |
@@ -218,7 +218,7 @@
 * [Spreadsheet](https://docs.google.com/spreadsheets/d/1hzRM9NpjLdlBnZmU2H2UTX_eWDRXf9jujuw61ov9Yso/edit?usp=sharing)
 
 
-    Add mustache template processor to projects: https://mustache.github.io/
+    Add mustache template processor to projects: [mustache.github.io/](https://mustache.github.io/)
 
     add
 
@@ -226,9 +226,9 @@
 
 * Resources / Lists
         * [Exercism Intro](https://www.youtube.com/playlist?list=PLpsileTZltjWrPQjTzJ8Fj2ah7JGBCss5)
-        * https://rosettacode.org/wiki/Category:Solutions_by_Programming_Task
+        * [rosettacode.org/wiki/Category:Solutions_by_Programming_Task](https://rosettacode.org/wiki/Category:Solutions_by_Programming_Task)
 
-    add this: https://github.com/Bogdanp/awesome-advent-of-code
+    add this: [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code)
 
     - Basic
 
@@ -1672,11 +1672,11 @@
         ‣
 
         collect mathematical algorithms / projects / etc for ppp
-                * https://dlang.org/ → see list of projects for PPP
+                * [dlang.org/](https://dlang.org/) → see list of projects for PPP
 
         ‣
 
-        * [https://duckduckgo.com/?q=list if cool new github projects&ko=-1&ia=web](https://duckduckgo.com/?q=list%20if%20cool%20new%20github%20projects&ko=-1&ia=web)
+        * [duckduckgo.com/?q=list if cool new github projects&ko=-1&ia=web](https://duckduckgo.com/?q=list%20if%20cool%20new%20github%20projects&ko=-1&ia=web)
 
         * [Haskell by Example](https://lotz84.github.io/haskellbyexample/)
 
@@ -1699,9 +1699,9 @@
         * [darrenaustin/advent-of-code-dart: Darren's solutions to the Advent of Code puzzles in Dart.](https://github.com/darrenaustin/advent-of-code-dart)
 
         * [ICS-33](https://www.ics.uci.edu/~pattis/ICS-33/)
-                * https://luabyexample.techplexlabs.com/
-                * https://luabyexample.netlify.app/
-                * https://www.reddit.com/r/cpp/comments/13ui5fi/how_to_setup_run_and_debug_a_c_file_with_cmake_in
+                * [luabyexample.techplexlabs.com/](https://luabyexample.techplexlabs.com/)
+                * [luabyexample.netlify.app/](https://luabyexample.netlify.app/)
+                * [r/cpp/comments/13ui5fi/how_to_setup_run_and_debug_a_c_file_with_cmake_in](https://www.reddit.com/r/cpp/comments/13ui5fi/how_to_setup_run_and_debug_a_c_file_with_cmake_in)
 
         * [Software | nand2tetris](https://www.nand2tetris.org/software)
 
@@ -1720,7 +1720,7 @@
         PPP: look at Learn to Code by Solving Problems (Python)
 
         collect various docs on regex
-                * https://hyperpolyglot.org/c#regexes
+                * [hyperpolyglot.org/c#regexes](https://hyperpolyglot.org/c#regexes)
 
         * [algorithm-archivists/algorithm-archive: A collaborative book on algorithms](https://github.com/algorithm-archivists/algorithm-archive)
 
@@ -1733,8 +1733,8 @@
         rosettaCode Yelircaasi
 
         * [1 Problem, 24 Programming Languages](https://youtu.be/U6I-Kwj-AvY)
-                * https://proglib.io/p/40-proektov-na-python-dlya-novichkov-i-prodvinutyh-razrabotchikov-2022-05-13
-                * https://github.com/danistefanovic/build-your-own-x
+                * [proglib.io/p/40-proektov-na-python-dlya-novichkov-i-prodvinutyh-razrabotchikov-2022-05-13](https://proglib.io/p/40-proektov-na-python-dlya-novichkov-i-prodvinutyh-razrabotchikov-2022-05-13)
+                * [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
 
         - ML → See sklearn docs
 
@@ -1788,5 +1788,5 @@
 
 
 * [ ]  [Sourcetrail](https://www.sourcetrail.com/) - Sourcetrail is a free and open-source cross-platform source explorer that helps you get productive on unfamiliar source code.
-* https://examples.raku.org/index.html
-* https://github.com/yrwq/ccc - good parallel code project - add similar thing!
+* [examples.raku.org/index.html](https://examples.raku.org/index.html)
+* [yrwq/ccc](https://github.com/yrwq/ccc) - good parallel code project - add similar thing!

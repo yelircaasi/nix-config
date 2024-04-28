@@ -6,7 +6,7 @@ video Comment réussir en maths ?de Yvan Monka
 videos * [ICERM - Video Archive](https://icerm.brown.edu/video_archive/)
 ## Channels
 * [3Blue1Brown](http://www.3blue1brown.com/)
-* http://weitz.de/haw-videos/
+* [weitz.de/haw-videos/](http://weitz.de/haw-videos/)
 * [Mathemaniac](https://www.youtube.com/c/Mathemaniac)
 * [Morphocular](https://www.youtube.com/@morphocular)
         * [zhulimath]()
@@ -132,10 +132,10 @@ yt * [Maths World - YouTube](https://www.youtube.com/channel/UCKCNXvdr_eq98wLVhz
 yt * [ritvikmath - great playlists](https://www.youtube.com/channel/UCUcpVoi5KkJmnE3bvEhHR0Q)
 yt * [Tout est mathématique](https://www.youtube.com/watch?v=rLFUnCUyPko)
 yt * [Wandida, EPFL](https://www.youtube.com/user/TheWandida)
-yt * https://www.youtube.com/results?search_query=Clara+Grima
+yt * [](https://www.youtube.com/results?search_query=Clara+Grima)
 
 ## Topology
-* https://pnp.mathematik.uni-stuttgart.de/igt/eiserm/lehre/Topolywood/
+* [pnp.mathematik.uni-stuttgart.de/igt/eiserm/lehre/Topolywood/](https://pnp.mathematik.uni-stuttgart.de/igt/eiserm/lehre/Topolywood/)
 - [***Topology and Analysis - YouTube](https://www.youtube.com/playlist?list=PLAvgI3H-gclZa-DVTMyUIAxM-X8NSikwu)
 
 
@@ -148,7 +148,7 @@ yt * https://www.youtube.com/results?search_query=Clara+Grima
     - [*Topology & Geometry by Dr Tadashi Tokieda - YouTube](https://www.youtube.com/playlist?list=PLTBqohhFNBE_09L0i-lf3fYXF5woAbrzJ)
 
 ## SORT
-* https://www.youtube.com/c/JoernLoviscach/playlists
+* [](https://www.youtube.com/c/JoernLoviscach/playlists)
         * [24.5 Kurvenintegral](https://www.youtube.com/watch?v=ksOhppxvjI0&list=PLCdSoAqmwXTChkgHDg3X00ou-8LTJgyH1&index=3)
         * [Was sind Kurvenintegrale](https://www.youtube.com/watch?v=7mrsZzXmibg)
         * [What is Jacobian? | The right way of thinking derivatives and integrals](https://www.youtube.com/watch?v=wCZ1VEmVjVo)
@@ -488,8 +488,8 @@ yt * [Алгебры и группы Ли](https://www.youtube.com/watch?v=8mclU
 yt * [Высшая алгебра | Николай Вавилов](https://www.youtube.com/watch?v=bIW4g6NhmnM&list=PL-_cKNuVAYAWNayB696aQFTPcP6HiIC1c)
 yt * [Конечные группы типа Ли | Николай Вавилов](https://www.youtube.com/watch?v=RuHwzJY90ok&list=PL-_cKNuVAYAU3Wlxkj6QLWxQiALcMrXjD)
 yt * [Современная алгебра](https://www.youtube.com/watch?v=XSCKY94wixo&list=PL-_cKNuVAYAW1CKpVNX7uX0zMMH_wQpfU)
-yt * https://www.youtube.com/results?search_query=structures+algebriques&sp=EgIQAw%253D%253D
-yt * https://www.youtube.com/results?sp=EgIQAw%253D%253D&search_query=estructuras+algebraicas
+yt * [](https://www.youtube.com/results?search_query=structures+algebriques&sp=EgIQAw%253D%253D)
+yt * [](https://www.youtube.com/results?sp=EgIQAw%253D%253D&search_query=estructuras+algebraicas)
 
 yt * [Álgebra - Estructuras algebraicas](https://www.youtube.com/playlist?list=PLj76mybKbu4KYkK9oIgK6bWRYtRdhyfJF)
 yt * [CORSO DI ALGEBRA](https://www.youtube.com/playlist?list=PLGP5S-GoOOU5YTD8DDRHkTr3osKzHsrUy)
@@ -498,7 +498,7 @@ yt * [Los números imaginarios son reales [Parte 1: Introducción]](https://www.
 yt * [Structures algébriques 2 : Anneaux et Corps](https://www.youtube.com/watch?v=-ZnzKX0I6B8&list=WL&index=468)
 yt * [What does i^i = ?](https://www.youtube.com/watch?v=9tlHQOKMHGA&list=WL&index=477)
 yt * [$$$ Induktionsbeweis einfach erklärt ● Gehe auf SIMPLECLUB.DE/GO & werde #EinserSchüler - YouTube](https://www.youtube.com/watch?v=wbD35N4N4lI)
-yt * [https://ru.hexlet.io/courses/logic](https://www.youtube.com/redirect?q=https%3A%2F%2Fru.hexlet.io%2Fcourses%2Flogic&redir_token=OofVtG3MBtYKF8FVLlFpPLQZXRJ8MTUyOTE5MzI2NUAxNTI5MTA2ODY1&v=eXI_TFW5Cdo&event=video_description)
+yt * [ru.hexlet.io/courses/logic](https://www.youtube.com/redirect?q=https%3A%2F%2Fru.hexlet.io%2Fcourses%2Flogic&redir_token=OofVtG3MBtYKF8FVLlFpPLQZXRJ8MTUyOTE5MzI2NUAxNTI5MTA2ODY1&v=eXI_TFW5Cdo&event=video_description)
 yt * [INDUCCIÓN MATEMÁTICA (EJERCICIO)](https://www.youtube.com/watch?v=yEfz3ZsX02s&list=WL&index=255)
 yt * [Induktionsbeweis einfach erklärt ● Gehe auf SIMPLECLUB.DE/GO & werde #EinserSchüler](https://www.youtube.com/watch?v=wbD35N4N4lI&list=WL&index=374)
 yt * [Les théorèmes d'incomplétude de Gödel](https://www.youtube.com/watch?v=82jOF4Q6gBU&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=22)
@@ -523,22 +523,22 @@ yt * [Introduction à l’économétrie Louvain X](https://www.youtube.com/resul
 yt * [Introduction à Stata en français](https://www.youtube.com/watch?v=gPxDnJCIHpM)
 yt * [Modelo de Heckman, un heckit](https://www.youtube.com/watch?v=QiwEnEB7toU)
 
-yt * https://www.youtube.com/watch?v=IwsE8Rr6l6E
-yt * https://www.youtube.com/results?search_query=%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C+%D1%82%D0%BE%D0%B1%D0%B8%D1%82%D0%B0
-yt * https://www.youtube.com/watch?v=ZR1NCw3Birk
-yt * https://www.youtube.com/watch?v=oOpJdC_oeKY
-yt * https://www.youtube.com/watch?v=_Mbmf3HbMCc
+yt * [](https://www.youtube.com/watch?v=IwsE8Rr6l6E)
+yt * [](https://www.youtube.com/results?search_query=%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C+%D1%82%D0%BE%D0%B1%D0%B8%D1%82%D0%B0)
+yt * [](https://www.youtube.com/watch?v=ZR1NCw3Birk)
+yt * [](https://www.youtube.com/watch?v=oOpJdC_oeKY)
+yt * [](https://www.youtube.com/watch?v=_Mbmf3HbMCc)
 
-yt * https://www.youtube.com/watch?v=DUMchwZrJpg
-yt * https://www.youtube.com/watch?v=Bmi7w-vKSCs
-yt * https://www.youtube.com/watch?v=vZUtDJbzFRQ
-yt * https://www.youtube.com/watch?v=EW01jQIDxzE
-yt * https://www.youtube.com/watch?v=1qkAU--IK8Y
-yt * https://www.youtube.com/watch?v=3jk8cFNkzuk
-yt * https://www.youtube.com/channel/UC_n0_PEKnH_gjJvro0ihBNg
-yt * https://www.youtube.com/watch?v=ScKL40dp8M4
-yt * https://www.youtube.com/results?search_query=%D1%83%D0%B0%D0%B0%D1%83%D0%B5+%D0%B2%D1%8D+%D1%88%D1%82%D0%B5%D1%83%D0%BA%D1%84%D1%81%D0%B5%D1%88%D1%89%D1%82
-yt * https://www.youtube.com/watch?v=Qa_FI92_qo8
+yt * [](https://www.youtube.com/watch?v=DUMchwZrJpg)
+yt * [](https://www.youtube.com/watch?v=Bmi7w-vKSCs)
+yt * [](https://www.youtube.com/watch?v=vZUtDJbzFRQ)
+yt * [](https://www.youtube.com/watch?v=EW01jQIDxzE)
+yt * [](https://www.youtube.com/watch?v=1qkAU--IK8Y)
+yt * [](https://www.youtube.com/watch?v=3jk8cFNkzuk)
+yt * [](https://www.youtube.com/channel/UC_n0_PEKnH_gjJvro0ihBNg)
+yt * [](https://www.youtube.com/watch?v=ScKL40dp8M4)
+yt * [](https://www.youtube.com/results?search_query=%D1%83%D0%B0%D0%B0%D1%83%D0%B5+%D0%B2%D1%8D+%D1%88%D1%82%D0%B5%D1%83%D0%BA%D1%84%D1%81%D0%B5%D1%88%D1%89%D1%82)
+yt * [](https://www.youtube.com/watch?v=Qa_FI92_qo8)
 
 yt * [Konkrete Mathematik (nicht nur) für Informatiker](https://www.youtube.com/playlist?list=PLb0zKSynM2PBYzz6l37rWH3B_n_7P40QP)
 yt * [Konkrete Mathematik (nicht nur) für Informatiker](https://www.youtube.com/playlist?list=PLb0zKSynM2PBYzz6l37rWH3B_n_7P40QP)
@@ -670,7 +670,7 @@ yt * [Science Pub: Die Mathematik hinter Google - YouTube](https://www.youtube.c
 yt * [Was ist eine Matrix? - Matrizen | Gehe auf THESIMPLECLUB.DE/GO & werde #EinserSchüler - YouTube](https://www.youtube.com/watch?v=HDZhDx4lQBU&list=PLjaA00udJtOq5N_AcSCFyeE8_OOiQMwmD)
 yt * [MathTheBeautiful](https://www.youtube.com/channel/UCr22xikWUK2yUW4YxOKXclQ)
 yt * [george boole YT channel](https://www.youtube.com/user/hobokengar)
-yt * https://www.youtube.com/user/Exo7Math
+yt * [](https://www.youtube.com/user/Exo7Math)
 
 yt * [3blue1brown Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 yt * [LA in 8 hours](https://www.youtube.com/watch?v=t5ckUuSsWe4)
@@ -702,20 +702,20 @@ yt * [Линейная алгебра и аналитическая геомет
 yt * [Линейная Алгебра. Алексей Савватеев, Александр Тонис.](https://www.youtube.com/playlist?list=PLC48_7OD-YGJ5-ldwt8ljXaYXhrOFAWRz)
 yt * [Линейная Алгебра. Алексей Савватеев, Александр Тонис](https://www.youtube.com/playlist?list=PLC48_7OD-YGJ5-ldwt8ljXaYXhrOFAWRz)
 yt * [Сущность Линейной Алгебры](https://www.youtube.com/playlist?list=PLVjLpKXnAGLXPaS7FRBjd5yZeXwJxZil2)
-yt * https://www.youtube.com/playlist?list=PLH72EKtvoHuYFnieGaoVrI8Uqyeez5Bua
-yt * https://www.youtube.com/playlist?list=PLH72EKtvoHuYTgTDCjjQgaLAujGzP2YBg
-yt * https://www.youtube.com/playlist?list=PLLTAHuUj-zHg5aCwkY8rEdui-bhZnJloM
-yt * https://www.youtube.com/playlist?list=PLLTAHuUj-zHgrxnm5NRR_vXH-pJ9ZrrvD
-yt * https://www.youtube.com/playlist?list=PLNefH6S6myiMFlgsEIGHb8KZaLKE2eAZQ
-yt * https://www.youtube.com/playlist?list=PLZ8j9FD1-sR6TMyxmBjCCC43iI3gU2D4l
-yt * https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
-yt * https://www.youtube.com/user/beckuplearning/playlists
+yt * [](https://www.youtube.com/playlist?list=PLH72EKtvoHuYFnieGaoVrI8Uqyeez5Bua)
+yt * [](https://www.youtube.com/playlist?list=PLH72EKtvoHuYTgTDCjjQgaLAujGzP2YBg)
+yt * [](https://www.youtube.com/playlist?list=PLLTAHuUj-zHg5aCwkY8rEdui-bhZnJloM)
+yt * [](https://www.youtube.com/playlist?list=PLLTAHuUj-zHgrxnm5NRR_vXH-pJ9ZrrvD)
+yt * [](https://www.youtube.com/playlist?list=PLNefH6S6myiMFlgsEIGHb8KZaLKE2eAZQ)
+yt * [](https://www.youtube.com/playlist?list=PLZ8j9FD1-sR6TMyxmBjCCC43iI3gU2D4l)
+yt * [](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+yt * [](https://www.youtube.com/user/beckuplearning/playlists)
 yt * [Gram-Schmidt-Verfahren mit 3 Vektoren, Rechenablauf, mit Normalisierung | Mathe by Daniel Jung](https://www.youtube.com/watch?v=xTuMdiCZnYw&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=126)
 yt * [Regla de Cramer, explicada geométricamente | Esencia del álgebra lineal, capítulo 12](https://www.youtube.com/watch?v=jBsC34PxzoM&list=WL&index=457)
 yt * [¿Qué es una Red Neuronal? Parte 3.5 : Las Matemáticas de Backpropagation | DotCSV](https://www.youtube.com/watch?v=M5QHwkkHgAA&list=WL&index=610)
 yt * [01 - Mathematics for Deep Learning - Marc Deisenroth](https://www.youtube.com/watch?v=qa8L8-_qa14&list=WL&index=501)
 yt * [Introduzione Alle Reti Neurali](https://www.youtube.com/playlist?list=PLWsj_wWfrevVByO9IXQ3j9SKZgUSrDUFQ)
-yt * https://www.youtube.com/watch?v=gl3lfL-g5mA
+yt * [](https://www.youtube.com/watch?v=gl3lfL-g5mA)
 
 yt * [Calcul tensoriel - YouTube](https://www.youtube.com/playlist?list=PLzY3ZTzw_O34ZI153NoDfpQEkZkZ4ksdS)
 yt * [Einführung in die Vektor- und Tensorrechnung II (14 Einheiten)](https://www.youtube.com/playlist?list=PLrWrjvhC1doZ-1deZ9eM7NYoewh2tM2i3)
@@ -813,7 +813,7 @@ yt * [Introduction to the Fourier Transform (Part 1) - YouTube](https://www.yout
 yt * [Intuitive Understanding of the Fourier Transform and FFTs](https://www.youtube.com/watch?v=FjmwwDHT98c)
 yt * [Problema 3 de TRIGONOMETRÍA EN TRIÁNGULOS RECTÁNGULOS](https://www.youtube.com/watch?v=wLICfPqRlhM&list=WL&index=252)
 yt * [What is a Discrete Fourier Transform? | Week 14 | MIT 18.S191 Fall 2020 | Grant Sanderson](https://www.youtube.com/watch?v=g8RkArhtCc4&t=103s)
-yt * https://youtube.com/user/ControlLectures
+yt * [youtube.com/user/ControlLectures](https://youtube.com/user/ControlLectures)
 
 yt * [¿Qué es un conjunto compacto? (Parte 2) Compacidad - YouTube](https://www.youtube.com/watch?v=jLzhAV_fDws)
 yt * [¿Qué es un conjunto compacto? (Parte1) Compacidad - YouTube](https://www.youtube.com/watch?v=GGDX90zsEjY)
@@ -1002,7 +1002,7 @@ yt * [Quatematik - YouTube](https://www.youtube.com/channel/UC0LfPSALkn8YDhXZf8-
 yt * [Statistics and Probability Full Course || Statistics For Data Science](https://www.youtube.com/watch?v=sbbYntt5CJk&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=141)
 yt * [VERY HARD Puzzle: What Is The Distance Between Two Random Points In A Square?](https://www.youtube.com/watch?v=i4VqXRRXi68&feature=share)
 
-yt * https://www.youtube.com/c/Boarbarktree/playlists
+yt * [](https://www.youtube.com/c/Boarbarktree/playlists)
 yt * [La statistique expliquée à mon chat](https://www.youtube.com/channel/UCWty1tzwZW_ZNSp5GVGteaA)
 
 yt 20. [Statistics PL06 - Continuous Probability Distributions](https://www.youtube.com/watch?v=aCW8wm6nrRw&list=PLIeGtxpvyG-KdqFkNrED9w8j9dEMMLj7e)
@@ -1090,8 +1090,8 @@ yt * [Corso di Geometria e Algebra Lineare](https://www.youtube.com/playlist?lis
 yt * [Von Matrix bis Basiswechsel - ein Mathe-Ausflug (1/3) | Math Intuition](https://www.youtube.com/watch?v=m9R0QApdG4g&list=WL&index=503)
 yt * [Visualizing Composition of Linear Transformations aka Matrix Multiplication - YouTube](https://www.youtube.com/watch?v=On6wkamacRE)
 
-yt * https://www.youtube.com/watch?v=KK_fHodz-lQ&index=1&list=PLOWqYl7tM7vkBxlEPUaqQIdtJL_JpoP-u
-yt * https://www.youtube.com/watch?v=RGmpPkJawTk
+yt * [](https://www.youtube.com/watch?v=KK_fHodz-lQ&index=1&list=PLOWqYl7tM7vkBxlEPUaqQIdtJL_JpoP-u)
+yt * [](https://www.youtube.com/watch?v=RGmpPkJawTk)
 
 yt * [MFGD - Intro to Matrices - YouTube](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWNQjMz941uyOIq3Nw6bcDYC)
 
@@ -1101,11 +1101,11 @@ yt * [properties of determinants | determinants | algebra |by M.saalim](https://
 yt * [Théorème de Kruskal et des arbres, LMSB#5 - YouTube](https://www.youtube.com/watch?v=pIacKOdPFgM)
 
 yt * [Основы дискретной математики](https://www.youtube.com/watch?v=I946xdgVF3o&list=PL-_cKNuVAYAXrd5kC5hdppsBNDjuIFYbc)
-yt * https://www.youtube.com/watch?v=3EDWtQxIhWs
+yt * [](https://www.youtube.com/watch?v=3EDWtQxIhWs)
 
-yt * https://www.youtube.com/results?search_query=etregress+stata
-yt * https://www.youtube.com/watch?v=wfz-OgJXU5E
-yt * https://www.youtube.com/watch?v=K9uIzWU_Fqs
+yt * [](https://www.youtube.com/results?search_query=etregress+stata)
+yt * [](https://www.youtube.com/watch?v=wfz-OgJXU5E)
+yt * [](https://www.youtube.com/watch?v=K9uIzWU_Fqs)
 
 yt * [l'économétrie pour les nuls](https://www.youtube.com/watch?v=73GHGp6Zxqo)
 
@@ -1131,9 +1131,9 @@ yt * [Reflections on an epidemic video | Week 6 | 18.S191 MIT Fall 2020 | Grant 
 yt * [The diffusion equation | Week 12 | MIT 18.S191 Fall 2020 | Grant Sanderson](https://www.youtube.com/watch?v=a3V0BJLIo_c&list=PLP8iPy9hna6Q2Kr16aWPOKE0dz9OnsnIJ&index=48)
 yt * [What is a Discrete Fourier Transform? | Week 14 | MIT 18.S191 Fall 2020 | Grant Sanderson](https://www.youtube.com/watch?v=g8RkArhtCc4&list=PLP8iPy9hna6Q2Kr16aWPOKE0dz9OnsnIJ&index=58&t=274s)
 
-yt Linear Algebra by Lang: [https://amzn.to/3DIw7fY](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHhPd0NsREJUNVpQZmNLOFNzMUkyN2RzTjdmZ3xBQ3Jtc0tsR1pmZWxmUXVPZS0tbnhIaV9RWmtQV3laWHdONUZaZjd6N0E1VHNMaXlRNURrU3RwYzJJNDA4UVNIS0pVTFlKc25PdUN1SGhmNHdSQndNbjhjY3VZMk1fem02UE93VVFIOV9KQUo2SndrUmlUeVRoNA&q=https%3A%2F%2Famzn.to%2F3DIw7fY&v=9wdC2UVOsxc)
-yt Calculus Made Easy: [https://amzn.to/3LKcO8S](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmhnUU5GQlNCY0V5UzZfLW9zVFV1TEk0WFlkUXxBQ3Jtc0tscjBJY2xyUGsyMkwzVDZKdjctdkpacXNXU2J1eUtZTnJmakVUR1JOSG9yTGtqdXNfeHJLWXNCYk1aS2FaTTF5QWdySnQ4aVZRODFHeGhTaEFkNmVZdDRoZ0twUDdLWmhiTEREX3J6X1AyY19JSmMwaw&q=https%3A%2F%2Famzn.to%2F3LKcO8S&v=9wdC2UVOsxc)
-yt * [Abstract Algebra by Saracino: https://amzn.to/3DIy7oA](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqay1hODREVFZudkRESjRpcDlzVG9hc01mdUN0QXxBQ3Jtc0tsN0VucjdxbGlZMlV1NEFCdVVlZzFBdWVPNEZHTFRVdGdpYjF5eXp5aUJpRlJWU3RnQ1UtekZEd1d0bXJqNGowTWg1R2ZVMEh2MTdhR0dJRjlmajRTN0pRY0Q2bGw2SUtoTXFCb1FKT0dtLVJ6SHBQUQ&q=https%3A%2F%2Famzn.to%2F3DIy7oA&v=9wdC2UVOsxc)
+yt Linear Algebra by Lang: [amzn.to/3DIw7fY](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHhPd0NsREJUNVpQZmNLOFNzMUkyN2RzTjdmZ3xBQ3Jtc0tsR1pmZWxmUXVPZS0tbnhIaV9RWmtQV3laWHdONUZaZjd6N0E1VHNMaXlRNURrU3RwYzJJNDA4UVNIS0pVTFlKc25PdUN1SGhmNHdSQndNbjhjY3VZMk1fem02UE93VVFIOV9KQUo2SndrUmlUeVRoNA&q=https%3A%2F%2Famzn.to%2F3DIw7fY&v=9wdC2UVOsxc)
+yt Calculus Made Easy: [amzn.to/3LKcO8S](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmhnUU5GQlNCY0V5UzZfLW9zVFV1TEk0WFlkUXxBQ3Jtc0tscjBJY2xyUGsyMkwzVDZKdjctdkpacXNXU2J1eUtZTnJmakVUR1JOSG9yTGtqdXNfeHJLWXNCYk1aS2FaTTF5QWdySnQ4aVZRODFHeGhTaEFkNmVZdDRoZ0twUDdLWmhiTEREX3J6X1AyY19JSmMwaw&q=https%3A%2F%2Famzn.to%2F3LKcO8S&v=9wdC2UVOsxc)
+yt * [](https://amzn.to/3DIy7oA](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqay1hODREVFZudkRESjRpcDlzVG9hc01mdUN0QXxBQ3Jtc0tsN0VucjdxbGlZMlV1NEFCdVVlZzFBdWVPNEZHTFRVdGdpYjF5eXp5aUJpRlJWU3RnQ1UtekZEd1d0bXJqNGowTWg1R2ZVMEh2MTdhR0dJRjlmajRTN0pRY0Q2bGw2SUtoTXFCb1FKT0dtLVJ6SHBQUQ&q=https%3A%2F%2Famzn.to%2F3DIy7oA&v=9wdC2UVOsxc))
 
 yt     * [Corso di algebra](https://www.youtube.com/playlist?list=PLGP5S-GoOOU5YTD8DDRHkTr3osKzHsrUy)
 yt * [Geometry of Linear Algebra](https://www.youtube.com/playlist?list=PL18D92B0C2180FC87)
@@ -1201,7 +1201,7 @@ yt * [Problemas avanzados de razones](https://www.youtube.com/watch?v=-EZdQtSylq
 yt * [Problemas matemáticas avanzadas (Parte 1)](https://www.youtube.com/watch?v=Kh2mTdylfQ4&list=WL&index=253)
 yt * [Problemas matemáticas avanzadas (Parte 2)](https://www.youtube.com/watch?v=hlCLF1x1mZE&list=WL&index=256)
 yt * [Project MATHEMATICS! (PLAYLIST)](https://www.youtube.com/playlist?list=PL8_xPU5epJdchhIkbjCPJM7m2anGUq9JT)
-yt * https://www.youtube.com/results?search_query=the+mathematical+universe
+yt * [](https://www.youtube.com/results?search_query=the+mathematical+universe)
 yt * [Cedric Villani - Histoire des mathématiques dans l&#39;humanité - conférence en français - YouTube](https://www.youtube.com/watch?v=NGBsSOOXv1A)
 yt * [Cédric Villani et Karol Beffa : La créativité en musique et en mathématiques](https://www.youtube.com/watch?v=Ow5jImob6E0&list=WL&index=1298)
 yt * [Cédric Villani, ou le génie des maths](https://www.youtube.com/watch?v=Gn57YnhU2lw&list=WL&index=1299)
@@ -1262,17 +1262,17 @@ yt * [Trigonometry fundamentals | Lockdown math ep. 2 - YouTube](https://www.you
 yt * [UNBIASEDNESS AND CONSISTENCY(Lecture 2) | By : Sanchit Sir | UTM | well explained - YouTube](https://www.youtube.com/watch?v=il-LStkgAss)
 yt * [What is Jacobian? | The right way of thinking derivatives and integrals - YouTube](https://www.youtube.com/watch?v=wCZ1VEmVjVo)
 yt * [Высшая алгебра | Николай Вавилов](https://youtube.com/playlist?list=PL-_cKNuVAYAWNayB696aQFTPcP6HiIC1c)
-yt * https://youtube.com/c/LightCone
+yt * [youtube.com/c/LightCone](https://youtube.com/c/LightCone)
 
-yt * https://youtube.com/c/CenterofMath
-yt * https://www.youtube.com/watch?v=5-kQWu7Uag8
+yt * [youtube.com/c/CenterofMath](https://youtube.com/c/CenterofMath)
+yt * [](https://www.youtube.com/watch?v=5-kQWu7Uag8)
 
 yt * [Good Ng Video on Backprop](https://www.youtube.com/watch?v=x_Eamf8MHwU)
 yt * [Маткульт-привет! :: Алексей Савватеев и Ко](https://youtube.com/c/%D0%9C%D0%B0%D1%82%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82)
 yt * [Learn Mathematics from START to FINISH - YouTube](https://www.youtube.com/watch?v=pTnEG_WGd2Q)
 yt * [Вышмат](https://www.youtube.com/playlist?list=PLsq4h667Dnr2f1rDyAyukNJFkVMuHZ1Lq)
 yt * [Tom Fischer](https://youtube.com/channel/UCWO67vdv2pku9ZH7Kk2KzYQ)
-yt * https://www.youtube.com/user/LessThan3Math
+yt * [](https://www.youtube.com/user/LessThan3Math)
 yt * [How to learn pure mathematics on your own: a complete self-study guide - YouTube](https://www.youtube.com/watch?v=fo-alw2q-BU)
 yt * [Mathrix YouTube](https://www.youtube.com/channel/UCdH4RLzP9UIxV299clvj1rg)
 yt * [Video Perform Linear Regression Using Matrices](https://www.youtube.com/watch?v=Qa_FI92_qo8)
@@ -1293,23 +1293,23 @@ yt 9. [LA done right](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUU
 yt 54. [Proof that the Sample Variance is an Unbiased Estimator of the Population Variance](https://www.youtube.com/watch?v=D1hgiAla3KI&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=16)
 yt 55. [Statistics for Data Science | Probability and Statistics | Statistics Tutorial | Ph.D. (Stanford)](https://www.youtube.com/watch?v=Vfo5le26IhY&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=148)
 yt * [Der Fixpunktsatz von Banach - YouTube](https://www.youtube.com/watch?v=utvSi9SYn8E)
-yt * https://www.youtube.com/@NamNguyen-qw9lf/playlists - Convexity and Convex Analysis, including in Topological Vector Spaces ***
+yt * [](https://www.youtube.com/@NamNguyen-qw9lf/playlists) - Convexity and Convex Analysis, including in Topological Vector Spaces ***
 
 yt * [The Most Important Counting Concept You’ve (Probably) Never Heard Of](https://www.youtube.com/watch?v=uxjAHkn4VFI)
 
-yt | Roadmap 1 (from https://www.youtube.com/watch?v=fo-alw2q-BU) | https://www.youtube.com/watch?v=7G4SqIboeihttps://www.youtube.com/watch?v=7G4SqIboeig. |
+yt | Roadmap 1 (from [](https://www.youtube.com/watch?v=fo-alw2q-BU)) | [](https://www.youtube.com/watch?v=7G4SqIboeihttps://www.youtube.com/watch?v=7G4SqIboeig.) |
 
-yt |  | > https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw |
-yt |  | > Videos: https://www.youtube.com/channel/UCLzpR8AiHx9h_-yt2fAxd_A/playlists |
-yt |  | https://www.youtube.com/playlist?list=PL_onPhFCkVQjdQTbG0eQk42eH0RaBoYJf |
-yt |  | https://www.youtube.com/playlist?list=PL41FDABC6AA085E78 |
-yt |  | https://www.youtube.com/playlist?list=PLbMVogVj5nJRR7zYZifYopb52zjoScx1d |
-yt |  | https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6 |
-yt |  | https://www.youtube.com/redirect?q=http%3A%2F%2Fwww.math.toronto.edu%2Fivan%2Fmat327%2F%3Fresources&event=video_description&v=fo-alw2q-BU&redir_token=QUFFLUhqbEtuVE5tR2pFcWl4aHdDaEVyWHlocDd4dEYtQXxBQ3Jtc0tsdXVORVRUZHFQRHJacktVSVlxSmp0ZlpuSkNHdnUzSFlBbmxvTHdsbkJOX2NSX2steVpqbm4zVTJ2d1YzeEhxeldadV9zWjJ3RjdiaXMwc3hOTjFiVVpmX1gwc2xoSFZ1N2hxU1Z2c0xJTi1mQkNkNA%3D%3D |
-yt |  | https://www.youtube.com/watch?v=RW5lJiKZHd8&list=PLxBAVPVHJPcrNrcEBKbqC_ykiVqfxZgNl |
-yt | REAL ANALYSIS | > https://www.youtube.com/redirect?q=http%3A%2F%2Fassets.press.princeton.edu%2Fchapters%2Fs10825.pdf&event=video_description&v=fo-alw2q-BU&redir_token=QUFFLUhqbHgxX1FSdFdqbUEwWVNTMVZvLUhNUV95b0tfZ3xBQ3Jtc0trS3kzSFpBOUFKaFRvWXYxdnlJWEJSTWJ4STk5RkVqRXc0UklSQXRVUENESU5US015VDhSOXRXeU9iYzdVQk1CRUp0Q3VTXzNmS1pKVk00WndxV2NtaUxVQVNldThGS0VBZVQ3eE1hLVowX3M4MUdRSQ%3D%3D |
-yt |  | https://www.youtube.com/playlist?list=PL0E754696F72137EC by Professor Francis Su |
-yt |  | https://www.youtube.com/view_play_list?p=17567A1A3F5DB5E4 |
+yt |  | > [](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw) |
+yt |  | > Videos: [](https://www.youtube.com/channel/UCLzpR8AiHx9h_-yt2fAxd_A/playlists) |
+yt |  | [](https://www.youtube.com/playlist?list=PL_onPhFCkVQjdQTbG0eQk42eH0RaBoYJf) |
+yt |  | [](https://www.youtube.com/playlist?list=PL41FDABC6AA085E78) |
+yt |  | [](https://www.youtube.com/playlist?list=PLbMVogVj5nJRR7zYZifYopb52zjoScx1d) |
+yt |  | [](https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6) |
+yt |  | [](https://www.youtube.com/redirect?q=http%3A%2F%2Fwww.math.toronto.edu%2Fivan%2Fmat327%2F%3Fresources&event=video_description&v=fo-alw2q-BU&redir_token=QUFFLUhqbEtuVE5tR2pFcWl4aHdDaEVyWHlocDd4dEYtQXxBQ3Jtc0tsdXVORVRUZHFQRHJacktVSVlxSmp0ZlpuSkNHdnUzSFlBbmxvTHdsbkJOX2NSX2steVpqbm4zVTJ2d1YzeEhxeldadV9zWjJ3RjdiaXMwc3hOTjFiVVpmX1gwc2xoSFZ1N2hxU1Z2c0xJTi1mQkNkNA%3D%3D) |
+yt |  | [](https://www.youtube.com/watch?v=RW5lJiKZHd8&list=PLxBAVPVHJPcrNrcEBKbqC_ykiVqfxZgNl) |
+yt | REAL ANALYSIS | > [](https://www.youtube.com/redirect?q=http%3A%2F%2Fassets.press.princeton.edu%2Fchapters%2Fs10825.pdf&event=video_description&v=fo-alw2q-BU&redir_token=QUFFLUhqbHgxX1FSdFdqbUEwWVNTMVZvLUhNUV95b0tfZ3xBQ3Jtc0trS3kzSFpBOUFKaFRvWXYxdnlJWEJSTWJ4STk5RkVqRXc0UklSQXRVUENESU5US015VDhSOXRXeU9iYzdVQk1CRUp0Q3VTXzNmS1pKVk00WndxV2NtaUxVQVNldThGS0VBZVQ3eE1hLVowX3M4MUdRSQ%3D%3D) |
+yt |  | [](https://www.youtube.com/playlist?list=PL0E754696F72137EC) by Professor Francis Su |
+yt |  | [](https://www.youtube.com/view_play_list?p=17567A1A3F5DB5E4) |
 - [Proof that the Sample Variance is an Unbiased Estimator](https://youtu.be/D1hgiAla3KI)**
 * [Video ***](https://youtu.be/S31sSZ2FbRo)
 * [Amazing Math Graphs](https://youtu.be/IbYZ027zBlM)

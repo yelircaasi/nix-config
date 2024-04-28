@@ -6,7 +6,7 @@
   - (4) [zettlr]()
      |  [remarkable](https://github.com/jamiemcg/Remarkable)
   - (3) [nano]()
-  - (6) [vim]() -> decided to always use nvim with different configs -> https://michaeluloth.com/neovim-switch-configs/
+  - (6) [vim]() -> decided to always use nvim with different configs -> [michaeluloth.com/neovim-switch-configs/](https://michaeluloth.com/neovim-switch-configs/)
   - (4) [cosmic-editor]()
   - (4) [zed](https://zed.dev/)
   - (4) [lem](https://github.com/lem-project/lem)

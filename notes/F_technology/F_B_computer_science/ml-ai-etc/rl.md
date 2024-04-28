@@ -10,35 +10,35 @@
 * [Search · Board Game RL](https://github.com/search?q=Board+Game+RL&type=all)
 * [Model Based RL Finally Works! - YouTube](https://www.youtube.com/watch?v=vfpZu0R1s1Y)
 * [Overview of Deep Reinforcement Learning Methods](https://youtu.be/wDVteayWWvU)
-* [Recent Advances in Deep Reinforcement Learning Applications for Solving Partially Observable Markov Decision Processes (POMDP) Problems: Part 1—Fundamentals and Applications in Games, Robotics and Natural Language Processing](https://www.mdpi.com/2504-4990/3/3/29/pdf)* https://github.com/yandexdataschool/Practical_RL* https://stats.stackexchange.com/questions/326867/parameterizing-reinforcement-learning-card-game-state-space
+* [Recent Advances in Deep Reinforcement Learning Applications for Solving Partially Observable Markov Decision Processes (POMDP) Problems: Part 1—Fundamentals and Applications in Games, Robotics and Natural Language Processing](https://www.mdpi.com/2504-4990/3/3/29/pdf)* [yandexdataschool/Practical_RL*](https://github.com/yandexdataschool/Practical_RL*) [stats.stackexchange.com/questions/326867/parameterizing-reinforcement-learning-card-game-state-space](https://stats.stackexchange.com/questions/326867/parameterizing-reinforcement-learning-card-game-state-space)
 * General - Theory
 * [Reinforcement Learning](https://www.youtube.com/watch?v=nyjbcRQ-uQ8&list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)
 * [Основы робототехники](https://www.lektorium.tv/robotics)
 * [DeepMind - YouTube](https://www.youtube.com/c/DeepMind/playlists)
-* https://spinningup.openai.com/en/latest/spinningup/keypapers.html
+* [spinningup.openai.com/en/latest/spinningup/keypapers.html](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
 * Writing
 * Github site: Informal Intro to RL Algorithms
 * Implementations / Software
 * [michaelguan1992/spinningup-in-deeprl-tensorflow2: Re-implementing OpenAI Spinning Up in DeepRL with Tensorflow 2.0](https://github.com/michaelguan1992/spinningup-in-deeprl-tensorflow2)
 * [enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning: Advanced Deep Learning and Reinforcement Learning course taught at UCL in partnership with Deepmind](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning)
 * [deepmind/acme: A library of reinforcement learning components and agents](https://github.com/deepmind/acme)
-* https://github.com/omkarv/pong-from-pixels
+* [omkarv/pong-from-pixels](https://github.com/omkarv/pong-from-pixels)
 * General - Programming, Implementations, Software
-* https://github.com/dennybritz/reinforcement-learning
-* http://www.wildml.com/2016/10/learning-reinforcement-learning/
+* [dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
+* [wildml.com/2016/10/learning-reinforcement-learning/](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
 * OpenAI Gym
 * [michaelguan1992/spinningup-in-deeprl-tensorflow2: Re-implementing OpenAI Spinning Up in DeepRL with Tensorflow 2.0](https://github.com/michaelguan1992/spinningup-in-deeprl-tensorflow2)
 * [DeepMind - YouTube](https://www.youtube.com/c/DeepMind/playlists)
 * [enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning: Advanced Deep Learning and Reinforcement Learning course taught at UCL in partnership with Deepmind](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning)
 * [deepmind/acme: A library of reinforcement learning components and agents](https://github.com/deepmind/acme)
-* https://spinningup.openai.com/en/latest/
+* [spinningup.openai.com/en/latest/](https://spinningup.openai.com/en/latest/)
 * RL for Games (non-digital)
-* http://karpathy.github.io/2016/05/31/rl/
+* [karpathy.github.io/2016/05/31/rl/](http://karpathy.github.io/2016/05/31/rl/)
 * Application
-* https://www.google.com/search?q=how+to+represent+games+for+reinforcement+learning&rlz=1C5CHFA_enUS800US800&oq=how+to+represent+games+for+reinforcement+learning&aqs=chrome..69i57.235j0j9&sourceid=chrome&ie=UTF-8
+* [google.com/search?q=how+to+represent+games+for+reinforcement+learning&rlz=1C5CHFA_enUS800US800&oq=how+to+represent+games+for+reinforcement+learning&aqs=chrome..69i57.235j0j9&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=how+to+represent+games+for+reinforcement+learning&rlz=1C5CHFA_enUS800US800&oq=how+to+represent+games+for+reinforcement+learning&aqs=chrome..69i57.235j0j9&sourceid=chrome&ie=UTF-8)
 * Books
 * [Grokking Deep Reinforcement Learning](http://libgen.is/book/index.php?md5=F83946E7A76E64E0C309CB9A2086551E)
-* https://github.com/asdfjkl/neural_network_chess
+* [asdfjkl/neural_network_chess](https://github.com/asdfjkl/neural_network_chess)
 * [Game Changer: AlphaZero’s Groundbreaking Chess Strategies and the Promise of AI](http://library.lol/main/D2F826291F761B9F46D9ACEACD4ED6FB)
 * RL Miscellaneous
 * [Rook (card game) - Wikipedia](https://en.wikipedia.org/wiki/Rook_(card_game))
@@ -113,7 +113,7 @@
 * [fse.studenttheses.ub.rug.nl/15440/1/Bachelor_Thesis_-_Maxiem_Wagen_1.pdf](http://fse.studenttheses.ub.rug.nl/15440/1/Bachelor_Thesis_-_Maxiem_Wagen_1.pdf)
 * [Policy-Based Search for Trick-Taking Card Games](https://static1.squarespace.com/static/55d2a155e4b0d06bf5f12b66/t/5bd28def15fcc040cc58c350/1540525553025/card_game_paper.pdf)
 * [Combinational Q-Learning for Dou Di Zhu](https://www.groundai.com/project/combinational-q-learning-for-dou-di-zhu/1)
-* https://www.cc.gatech.edu/~riedl/pubs/zook-fdg15.pdf
+* [cc.gatech.edu/~riedl/pubs/zook-fdg15.pdf](https://www.cc.gatech.edu/~riedl/pubs/zook-fdg15.pdf)
 * [Tree Search Methods](http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/MARSHALL/node60.html)
 * [Tree Search in RL - Поиск в Google](https://www.google.com/search?rlz=1C5CHFA_enUS800US800&sxsrf=ALeKk03qA0HgSIrjoqEW3itFhyCliXX23g%3A1597417496863&ei=GKg2X6LdM830kwWHwpWIBA&q=Tree+Search+in+RL&oq=Tree+Search+in+RL&gs_lcp=CgZwc3ktYWIQAzIFCCEQoAEyBQghEKABMgUIIRCgAToHCAAQRxCwAzoFCAAQywE6BwgAEBQQhwI6AggAOgYIABAWEB46CAghEBYQHRAeUKAKWMgRYIcUaAFwAHgAgAGKAYgB4ASSAQM0LjKYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=psy-ab&ved=0ahUKEwiiydTz-5rrAhVN-qQKHQdhBUEQ4dUDCAw&uact=5)
 * [Parameterizing Reinforcement Learning card game state space - Cross Validated](https://stats.stackexchange.com/questions/326867/parameterizing-reinforcement-learning-card-game-state-space)
@@ -156,9 +156,9 @@
 * [Navigating with grid-like representations in artificial agents | DeepMind](https://deepmind.com/blog/article/grid-cells)
 * [Springer Deep RL books](https://b-ok.cc/s/springer%20deep%20reinforcement%20learning)
 * [Human-level control through deep reinforcement learning | Nature](https://www.nature.com/articles/nature14236)
-* https://hash.ai/
+* [hash.ai/](https://hash.ai/)
 * [International Max Planck Research School for Intelligent Systems](https://imprs.is.mpg.de/courses)
-* https://discourse.julialang.org/t/ann-reinforcementlearning-jl-v0-4-0/35348
+* [discourse.julialang.org/t/ann-reinforcementlearning-jl-v0-4-0/35348](https://discourse.julialang.org/t/ann-reinforcementlearning-jl-v0-4-0/35348)
 * [DeepMind - YouTube](https://www.youtube.com/c/DeepMind/playlists)
 * [An Introduction to Constraint-based Temporal Reasoning](http://library.lol/main/02CA0D39720DFF53055B0F77D048CAFA)
 * [An Introduction to the Planning Domain Definition Language](http://libgen.rs/book/index.php?md5=59658BB232C37143FB7A684F5522BEB9)

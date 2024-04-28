@@ -1,6 +1,6 @@
 # Math Resources
 ## SORT
-ref  * https://tutorial.math.lamar.edu/
+ref  * [tutorial.math.lamar.edu/](https://tutorial.math.lamar.edu/)
 ref $$$ * [Archives – BetterExplained](https://betterexplained.com/archives/)
 ref * [About the OSCAR project](https://oscar.computeralgebra.de/about/)
 ref * [Approach0: A Math-aware Search Engine](https://approach0.xyz/search/)
@@ -19,32 +19,32 @@ ref * [Tungsteno | Online Mathematics for Everybody](https://www.tungsteno.io/)
 ref * [Tungsteno · GitHub](https://github.com/TungstenHub)
 ref * [eMathZone | From basic to higher mathematics](https://www.emathzone.com/)
 ref * [mathematik.net - Kostenlose Onlinekurse (Algebra,Analysis,Trigonometrie,Lineare Algebra, Schulbücher)](http://www.mathematik.net/)
-ref * http://samos.univ-paris1.fr/
-ref * http://spacemath.xyz/
-ref * http://stattrek.com/
-ref * https://tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx
+ref * [samos.univ-paris1.fr/](http://samos.univ-paris1.fr/)
+ref * [spacemath.xyz/](http://spacemath.xyz/)
+ref * [stattrek.com/](http://stattrek.com/)
+ref * [tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx](https://tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx)
 ref - [*IMAGINARY | open mathematics](https://imaginary.org/de)
 ref C.I * [Statsoft (FR) ***](http://www.statsoft.fr/concepts-statistiques/index/concepts-index.html)
 ref cheatsheet - [**Statistics cheatsheet — Cheatsheets by QuantEcon documentation](https://cheatsheets.quantecon.org/stats-cheatsheet.html)
 ref symbol * [Unicode Characters in the 'Symbol, Math' Category](https://www.fileformat.info/info/unicode/category/Sm/list.htm)
-ref* http://ricerca.matfis.uniroma3.it//ntheory/web_italy.html
-refs  * http://www.lernstats.de/php/
-refs  * https://www.aeaweb.org/journals/policies/data-availability-policy
+ref* [ricerca.matfis.uniroma3.it//ntheory/web_italy.html](http://ricerca.matfis.uniroma3.it//ntheory/web_italy.html)
+refs  * [lernstats.de/php/](http://www.lernstats.de/php/)
+refs  * [aeaweb.org/journals/policies/data-availability-policy](https://www.aeaweb.org/journals/policies/data-availability-policy)
 refs * [CRAN R-Project](https://cran.r-project.org/other-docs.html)
 refs * [Econometrics Academy](https://sites.google.com/site/econometricsacademy/)
 refs * [Research Methods Knowledge Base](http://www.socialresearchmethods.net/kb/contents.php)
 refs * [Resource Index | Linear Algebra | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/)
 refs * [Statista](https://de.statista.com/)
 refs * [The Definitive Glossary of Higher Math Jargon | Math Vault](https://mathvault.ca/math-glossary/)
-refs * http://www.mathepedia.de/Mathematik.aspx
-refs * http://www.xycoon.com/toc.htm
-refs * https://de.serlo.org/mathe/stochastik
-refs * https://sites.google.com/site/econometricsacademy/
-refs * https://www.r-bloggers.com/
+refs * [mathepedia.de/Mathematik.aspx](http://www.mathepedia.de/Mathematik.aspx)
+refs * [xycoon.com/toc.htm](http://www.xycoon.com/toc.htm)
+refs * [de.serlo.org/mathe/stochastik](https://de.serlo.org/mathe/stochastik)
+refs * [sites.google.com/site/econometricsacademy/](https://sites.google.com/site/econometricsacademy/)
+refs * [r-bloggers.com/](https://www.r-bloggers.com/)
 refs orgs * [nLab](https://ncatlab.org/nlab/show/HomePage)
 
 software * [SageMath - Open-Source Mathematical Software System](https://www.sagemath.org/)
-software * https://nalgebra.org/
+software * [nalgebra.org/](https://nalgebra.org/)
 perso * [Christian Hansen’s Research Page](http://faculty.chicagobooth.edu/christian.hansen/research/)
 perso * [Daan Krammer (math)](http://homepages.warwick.ac.uk/~masbal/)
 perso * [Dr. Hesse](https://www.uni-stuttgart.de/presse/experten/Prof.-Dr.-Christian-Hesse/)
@@ -52,36 +52,36 @@ person * [Darij Grinberg](http://www.cip.ifi.lmu.de/~grinberg/)
 person* [Baudot (Site)](http://www.jybaudot.fr/index.html)
 person* [Bilim Ne Güzel Lan](http://bilimneguzellan.net/)
 
-* https://math.stackexchange.com/tags
-* https://www.cantorsparadise.com/archive
-* https://www.math3ma.com/
-* https://github.com/rossant/awesome-math
-* http://freemathhelp.com/forum/
-* http://mathforum.org/
-* http://mymathforum.com/
-* https://zbmath.org/formulae/
+* [math.stackexchange.com/tags](https://math.stackexchange.com/tags)
+* [cantorsparadise.com/archive](https://www.cantorsparadise.com/archive)
+* [math3ma.com/](https://www.math3ma.com/)
+* [rossant/awesome-math](https://github.com/rossant/awesome-math)
+* [freemathhelp.com/forum/](http://freemathhelp.com/forum/)
+* [mathforum.org/](http://mathforum.org/)
+* [mymathforum.com/](http://mymathforum.com/)
+* [zbmath.org/formulae/](https://zbmath.org/formulae/)
 * [Euklid Stoicheia - Euklid Elemente](http://www.opera-platonis.de/euklid/index.html)
 * [Volltexte zur MAthematikgeschichte](http://archiv.ub.uni-heidelberg.de/volltextserver/view/collections/c-16.html)
-* http://www.apprendre-en-ligne.net/MADIMU2/INDEX.HTM
-* https://lp.uni-goettingen.de/get/pdf/5822
-* http://www.apprendre-en-ligne.net/MADIMU2/MUSCU/MUSCU6.PDF
-* http://www.pbs.org/wgbh/misunderstoodminds/mathbasics.html
-* http://fabpedigree.com/james/mathmen.htm
+* [apprendre-en-ligne.net/MADIMU2/INDEX.HTM](http://www.apprendre-en-ligne.net/MADIMU2/INDEX.HTM)
+* [lp.uni-goettingen.de/get/pdf/5822](https://lp.uni-goettingen.de/get/pdf/5822)
+* [apprendre-en-ligne.net/MADIMU2/MUSCU/MUSCU6.PDF](http://www.apprendre-en-ligne.net/MADIMU2/MUSCU/MUSCU6.PDF)
+* [pbs.org/wgbh/misunderstoodminds/mathbasics.html](http://www.pbs.org/wgbh/misunderstoodminds/mathbasics.html)
+* [fabpedigree.com/james/mathmen.htm](http://fabpedigree.com/james/mathmen.htm)
 * [Wikistat (FR) ***](http://www.math.univ-toulouse.fr/~besse/Wikistat/)
 - [*Mathigon](https://mathigon.org/)
 - [*Mathigon Activities](https://mathigon.org/activities)
 - [*Page d'Alain Prouté](http://www.logique.jussieu.fr/~alp/)
 
-* https://wiki.zum.de/wiki/PH_Heidelberg
+* [wiki.zum.de/wiki/PH_Heidelberg](https://wiki.zum.de/wiki/PH_Heidelberg)
 * [Michael Eisermann - Enseignement](https://pnp.mathematik.uni-stuttgart.de/igt/eiserm/enseignement/)
 * [Michael Eisermann - Popularisation](https://pnp.mathematik.uni-stuttgart.de/igt/eiserm/popularisation/#SciencePub)
 media * [Cantor's Paradise](https://cantorsparadise.substack.com/)
 media * [Ciencia Matemática | Portal Educativo de Matemáticas](https://www.cienciamatematica.com/)
 media * [ICERM - MathBytes@ICERM - MathBytes@ICERM](https://icerm.brown.edu/mathbytes/)
 media * [The Intrepid Mathematician – Reading, writing and arithmetic.](https://anthonybonato.com/page/1/)
-media * http://numerus.corriere.it/
-media * https://web.stanford.edu/~nanbhas/blog/
-media * https://www.privatdozent.co/
+media * [numerus.corriere.it/](http://numerus.corriere.it/)
+media * [web.stanford.edu/~nanbhas/blog/](https://web.stanford.edu/~nanbhas/blog/)
+media * [privatdozent.co/](https://www.privatdozent.co/)
 media* [Cantor’s Paradise – Medium](https://medium.com/cantors-paradise)
 
 ## People
@@ -100,7 +100,7 @@ Clara Löh
 * [How to Learn Advanced Mathematics Without Heading to University - Part 3 | QuantStart](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-3/)
 * [How to Learn Advanced Mathematics Without Heading to University - Part 4 | QuantStart](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Withttps://www.quantstart.com/articles/how-to-learn-advanced-mathematics-without-heading-to-university-part-4/hout-Heading-to-University-Part-3/)
 * [What should a professional mathematician know?](http://www.math.harvard.edu/~mazur/preprints/math_ed_2.pdf)
-* [How I Rewired My Brain to Become Fluent in Math](https://getpocket.com/explore/item/how-i-rewired-my-brain-to-become-fluent-in-math?utm_source=pocket-newtab)
+* [How I Rewired My Brain to Become Fluent in Math](https://getpocket.com/explore/item/how-i-rewired-my-brain-to-become-fluent-in-math)
 
 
 ## Vocab / Glossaries / References
@@ -139,96 +139,96 @@ Videos / Courses
 
 ## Cheatsheets and Topic Maps
 * [Calculus Cheat Sheet (Reduced) - Notes](https://tutorial.math.lamar.edu/getfile.aspx?file=B%2C41%2CN)
-* https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf
-* https://minireference.com/static/conceptmaps/linear_algebra_concepts.pdf
-* https://minireference.com/static/conceptmaps/math_and_physics_concepts.pdf
+* [minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf](https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf)
+* [minireference.com/static/conceptmaps/linear_algebra_concepts.pdf](https://minireference.com/static/conceptmaps/linear_algebra_concepts.pdf)
+* [minireference.com/static/conceptmaps/math_and_physics_concepts.pdf](https://minireference.com/static/conceptmaps/math_and_physics_concepts.pdf)
 * [Information Theory Cheat Sheet](https://sites.santafe.edu/~simon/cheat_sheet_info.pdf)
 * [probability_cheatsheet.pdf](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
 * [Probability Cheatsheet v2.0](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/144135201565)
 
 ## Tools
-* https://symbolica.io/ - tool for symbol computing with Python, Rust, and C++ bindings
+* [symbolica.io/](https://symbolica.io/) - tool for symbol computing with Python, Rust, and C++ bindings
 
 ## General Sites
 * Allgemeine Seiten
 
-* https://betterexplained.com/
-* http://www.math.utah.edu/~pa/math.html
-* http://villemin.gerard.free.fr/
-* https://www.wolfram.com/mathematica/
-* http://www.mathe-online.at/mathint/lexikon/
-* http://www.mathe-lexikon.at/
-* https://www.encyclopediaofmath.org/index.php/Main_Page
-* https://es.symbolab.com/
-* http://www.somatematica.com.br/index2.php
-* http://www.henked.de/sitemap.htm
-* https://de.serlo.org/mathe
-* https://www.matematicamente.it/
-* http://matheguru.com/
-* http://matematika.deagostini.ru/
-* http://mathinsight.org/
-* http://mathforum.org/
-* http://www.dmi.units.it/~tironi/#matdid
+* [betterexplained.com/](https://betterexplained.com/)
+* [math.utah.edu/~pa/math.html](http://www.math.utah.edu/~pa/math.html)
+* [villemin.gerard.free.fr/](http://villemin.gerard.free.fr/)
+* [wolfram.com/mathematica/](https://www.wolfram.com/mathematica/)
+* [mathe-online.at/mathint/lexikon/](http://www.mathe-online.at/mathint/lexikon/)
+* [mathe-lexikon.at/](http://www.mathe-lexikon.at/)
+* [encyclopediaofmath.org/index.php/Main_Page](https://www.encyclopediaofmath.org/index.php/Main_Page)
+* [es.symbolab.com/](https://es.symbolab.com/)
+* [somatematica.com.br/index2.php](http://www.somatematica.com.br/index2.php)
+* [henked.de/sitemap.htm](http://www.henked.de/sitemap.htm)
+* [de.serlo.org/mathe](https://de.serlo.org/mathe)
+* [matematicamente.it/](https://www.matematicamente.it/)
+* [matheguru.com/](http://matheguru.com/)
+* [matematika.deagostini.ru/](http://matematika.deagostini.ru/)
+* [mathinsight.org/](http://mathinsight.org/)
+* [mathforum.org/](http://mathforum.org/)
+* [dmi.units.it/~tironi/#matdid](http://www.dmi.units.it/~tironi/#matdid)
 * [Index (FR)](http://www.jybaudot.fr/a_general/indexmath.html)
 * [Mathrix (FR)](https://www.mathrix.fr/maths-fr/terminale-s)
-* https://brilliant.org/
-* http://blogs.ams.org/blogonmathblogs/#sthash.f8x6LEiI.dpbs
-* https://trans4mind.com/personal_development/mathematics/index.html
-* http://www.mathematik.de/ger/index.php
-* http://www.mathebibel.de/
-* http://www.mathe-online.at/openstudio/
-* http://www.vive-les-maths.net/
-* http://www.apprendre-en-ligne.net/index.php
-* http://www.apprendre-en-ligne.net/MADIMU2/INDEX.HTM
-* http://alwebra.com.ua/?lang=uk
-* http://eqworld.ipmnet.ru/index-fr.htm
-* http://eljjdx.canalblog.com/
-* http://mathforum.org/teachers/spanish/
-* https://www.thatquiz.org/es/
-* https://mathematicae.wordpress.com/
-* http://www.math.com/tables/es-tables.htm
-* http://www.prof2000.pt/users/folhalcino/estudar/quematem/quematem.htm
-* https://www.infoenem.com.br/os-10-melhores-sites-e-blogs-de-matematica-do-brasil/
-* http://www.math.it/
-* http://www.ripmat.it/
-* http://www.d-math1.com/1/
-* http://www.havemath.com/
-* http://www.mathsways.com/
-* http://mathworld.wolfram.com/
-* https://cunymath.commons.gc.cuny.edu/for-students/web/
-* http://www.wikimatematica.org/index.php?title=P%C3%A1gina_Principal
-* https://www.math.tugraz.at/~ganster/teaching.html#archiv
+* [brilliant.org/](https://brilliant.org/)
+* [blogs.ams.org/blogonmathblogs/#sthash.f8x6LEiI.dpbs](http://blogs.ams.org/blogonmathblogs/#sthash.f8x6LEiI.dpbs)
+* [trans4mind.com/personal_development/mathematics/index.html](https://trans4mind.com/personal_development/mathematics/index.html)
+* [mathematik.de/ger/index.php](http://www.mathematik.de/ger/index.php)
+* [mathebibel.de/](http://www.mathebibel.de/)
+* [mathe-online.at/openstudio/](http://www.mathe-online.at/openstudio/)
+* [vive-les-maths.net/](http://www.vive-les-maths.net/)
+* [apprendre-en-ligne.net/index.php](http://www.apprendre-en-ligne.net/index.php)
+* [apprendre-en-ligne.net/MADIMU2/INDEX.HTM](http://www.apprendre-en-ligne.net/MADIMU2/INDEX.HTM)
+* [alwebra.com.ua/?lang=uk](http://alwebra.com.ua/?lang=uk)
+* [eqworld.ipmnet.ru/index-fr.htm](http://eqworld.ipmnet.ru/index-fr.htm)
+* [eljjdx.canalblog.com/](http://eljjdx.canalblog.com/)
+* [mathforum.org/teachers/spanish/](http://mathforum.org/teachers/spanish/)
+* [thatquiz.org/es/](https://www.thatquiz.org/es/)
+* [mathematicae.wordpress.com/](https://mathematicae.wordpress.com/)
+* [math.com/tables/es-tables.htm](http://www.math.com/tables/es-tables.htm)
+* [prof2000.pt/users/folhalcino/estudar/quematem/quematem.htm](http://www.prof2000.pt/users/folhalcino/estudar/quematem/quematem.htm)
+* [infoenem.com.br/os-10-melhores-sites-e-blogs-de-matematica-do-brasil/](https://www.infoenem.com.br/os-10-melhores-sites-e-blogs-de-matematica-do-brasil/)
+* [math.it/](http://www.math.it/)
+* [ripmat.it/](http://www.ripmat.it/)
+* [d-math1.com/1/](http://www.d-math1.com/1/)
+* [havemath.com/](http://www.havemath.com/)
+* [mathsways.com/](http://www.mathsways.com/)
+* [mathworld.wolfram.com/](http://mathworld.wolfram.com/)
+* [cunymath.commons.gc.cuny.edu/for-students/web/](https://cunymath.commons.gc.cuny.edu/for-students/web/)
+* [wikimatematica.org/index.php?title=P%C3%A1gina_Principal](http://www.wikimatematica.org/index.php?title=P%C3%A1gina_Principal)
+* [math.tugraz.at/~ganster/teaching.html#archiv](https://www.math.tugraz.at/~ganster/teaching.html#archiv)
 * [Milefoot Mathematics](http://www.milefoot.com/math/index.htm)
 * [Personal Homepage of Oswald Riemenschneider](https://www.math.uni-hamburg.de/home/riemenschneider/)
 
 ### Statistics
-* http://stattrek.com/probability-distributions/hypergeometric.aspx
-* https://www.statlect.com/
-* http://bobhall.tamu.edu/FiniteMath/Module8/Introduction.html
-* http://www.math.uah.edu/stat/
-* http://www.statisticshowto.com/blog/
-* http://www.theanalysisfactor.com/
-* http://statadaily.com/
-* http://blog.stata.com/
-* http://blog.minitab.com/
-* http://hagutierrezro.blogspot.com/
-* http://statistic.su/
-* http://blogs.neuwirth.priv.at/bildungundstatistik/
-* http://www.rwi-essen.de/unstatistik/
-* http://www.statistiker-blog.de/
-* http://statistik-dresden.de/archives/category/praxisbeispiel
-* http://francoisguillem.fr/
-* http://statistique.blogs.sciencesetavenir.fr/statistique/
-* https://es.khanacademy.org/math/probability
-* http://estadisticaportodaspartes.blogspot.com/
-* http://alexandreprofessor.blogspot.com/
-* http://oestatistico.com.br/
-* http://www.statpop.com.br/
+* [stattrek.com/probability-distributions/hypergeometric.aspx](http://stattrek.com/probability-distributions/hypergeometric.aspx)
+* [statlect.com/](https://www.statlect.com/)
+* [bobhall.tamu.edu/FiniteMath/Module8/Introduction.html](http://bobhall.tamu.edu/FiniteMath/Module8/Introduction.html)
+* [math.uah.edu/stat/](http://www.math.uah.edu/stat/)
+* [statisticshowto.com/blog/](http://www.statisticshowto.com/blog/)
+* [theanalysisfactor.com/](http://www.theanalysisfactor.com/)
+* [statadaily.com/](http://statadaily.com/)
+* [blog.stata.com/](http://blog.stata.com/)
+* [blog.minitab.com/](http://blog.minitab.com/)
+* [hagutierrezro.blogspot.com/](http://hagutierrezro.blogspot.com/)
+* [statistic.su/](http://statistic.su/)
+* [blogs.neuwirth.priv.at/bildungundstatistik/](http://blogs.neuwirth.priv.at/bildungundstatistik/)
+* [rwi-essen.de/unstatistik/](http://www.rwi-essen.de/unstatistik/)
+* [statistiker-blog.de/](http://www.statistiker-blog.de/)
+* [statistik-dresden.de/archives/category/praxisbeispiel](http://statistik-dresden.de/archives/category/praxisbeispiel)
+* [francoisguillem.fr/](http://francoisguillem.fr/)
+* [statistique.blogs.sciencesetavenir.fr/statistique/](http://statistique.blogs.sciencesetavenir.fr/statistique/)
+* [es.khanacademy.org/math/probability](https://es.khanacademy.org/math/probability)
+* [estadisticaportodaspartes.blogspot.com/](http://estadisticaportodaspartes.blogspot.com/)
+* [alexandreprofessor.blogspot.com/](http://alexandreprofessor.blogspot.com/)
+* [oestatistico.com.br/](http://oestatistico.com.br/)
+* [statpop.com.br/](http://www.statpop.com.br/)
 
 
 ## Cheatsheets
-* https://observablehq.com/@petulla/explorable-linear-algebra-cheatsheet
-* https://ml-cheatsheet.readthedocs.io/en/latest/linear_algebra.html
+* [observablehq.com/@petulla/explorable-linear-algebra-cheatsheet](https://observablehq.com/@petulla/explorable-linear-algebra-cheatsheet)
+* [ml-cheatsheet.readthedocs.io/en/latest/linear_algebra.html](https://ml-cheatsheet.readthedocs.io/en/latest/linear_algebra.html)
 
 
 ## Graphing
@@ -247,43 +247,43 @@ Videos / Courses
 
 
 ## To Sort
-* http://fabpedigree.com/james/mathmen.htm
-* http://mathprofi.ru/
-* http://pages.uoregon.edu/moursund/Math/learning-theories.htm
-* http://trucsmaths.free.fr/
-* http://www.businessinsider.com/the-most-controversial-math-problems-2013-3#-5
-* http://www.gutefrage.net/frage/was-muss-ein-mathematiker-koennen-und-wissen
-* http://www.gutefrage.net/frage/was-muss-ein-mathematiker-koennen-und-wissen
-* http://www.its.caltech.edu/~tmu/
-* http://www.math.ru/
-* http://www.stevenstrogatz.com/
-* http://www.tagesspiegel.de/wissen/mathematik-mathematik-ist-eine-kulturleistung/1135714.html
-* http://www7.math.uni-potsdam.de:8080/prof/o_didaktik/aa/zz01/ha2.pdf
+* [fabpedigree.com/james/mathmen.htm](http://fabpedigree.com/james/mathmen.htm)
+* [mathprofi.ru/](http://mathprofi.ru/)
+* [pages.uoregon.edu/moursund/Math/learning-theories.htm](http://pages.uoregon.edu/moursund/Math/learning-theories.htm)
+* [trucsmaths.free.fr/](http://trucsmaths.free.fr/)
+* [businessinsider.com/the-most-controversial-math-problems-2013-3#-5](http://www.businessinsider.com/the-most-controversial-math-problems-2013-3#-5)
+* [gutefrage.net/frage/was-muss-ein-mathematiker-koennen-und-wissen](http://www.gutefrage.net/frage/was-muss-ein-mathematiker-koennen-und-wissen)
+* [gutefrage.net/frage/was-muss-ein-mathematiker-koennen-und-wissen](http://www.gutefrage.net/frage/was-muss-ein-mathematiker-koennen-und-wissen)
+* [its.caltech.edu/~tmu/](http://www.its.caltech.edu/~tmu/)
+* [math.ru/](http://www.math.ru/)
+* [stevenstrogatz.com/](http://www.stevenstrogatz.com/)
+* [tagesspiegel.de/wissen/mathematik-mathematik-ist-eine-kulturleistung/1135714.html](http://www.tagesspiegel.de/wissen/mathematik-mathematik-ist-eine-kulturleistung/1135714.html)
+* [www7.math.uni-potsdam.de:8080/prof/o_didaktik/aa/zz01/ha2.pdf](http://www7.math.uni-potsdam.de:8080/prof/o_didaktik/aa/zz01/ha2.pdf)
 
-* https://cantorsparadise.substack.com/
-* https://en.wikipedia.org/wiki/Lists_of_mathematics_topics
-* https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Mathematics
-* https://lectoriy.mipt.ru/
-* https://math.hmc.edu/funfacts/
-* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
-* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-spring-2010/index.htm
-* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/lecture-notes/
-* https://ocw.mit.edu/courses/experimental-study-group/es-268-the-mathematics-in-toys-and-games-spring-2010/
-* https://proofwiki.org/wiki/Main_Page
-* https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0
-* https://terrytao.wordpress.com/career-advice/there%E2%80%99s-more-to-mathematics-than-rigour-and-proofs/
-* https://toster.ru/q/311120
-* https://www.aeaweb.org/gradstudents/Mathematical_Preparation.php
-* https://www.aeaweb.org/gradstudents/Recommended_Mathematical_Training.php
-* https://www.aeaweb.org/resources/students/grad-prep
-* https://www.businessinsider.com/the-most-controversial-math-problems-2013-3
-* https://www.desmos.com/calculator
-* https://www.grund-wissen.de/mathematik/_downloads/grundwissen-mathematik.pdf
-* https://www.mathopenref.com/indexpage.html
-* https://www.quentinlazzarotto.com/man-ray-maths
-* https://www.quora.com/What-is-it-like-to-understand-advanced-mathematics
-* https://www.stitcher.com/podcast/breaking-math-podcast
-* https://www.welt.de/print/wams/wissen/article141694179/Mathematiker-rechnen-nicht.html
+* [cantorsparadise.substack.com/](https://cantorsparadise.substack.com/)
+* [en.wikipedia.org/wiki/Lists_of_mathematics_topics](https://en.wikipedia.org/wiki/Lists_of_mathematics_topics)
+* [en.wikipedia.org/wiki/Wikipedia:WikiProject_Mathematics](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Mathematics)
+* [lectoriy.mipt.ru/](https://lectoriy.mipt.ru/)
+* [math.hmc.edu/funfacts/](https://math.hmc.edu/funfacts/)
+* [ocw.mit.edu/courses/electrical-engineering-and-computer-science/](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
+* [ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-spring-2010/index.htm](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-spring-2010/index.htm)
+* [ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/lecture-notes/](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/lecture-notes/)
+* [ocw.mit.edu/courses/experimental-study-group/es-268-the-mathematics-in-toys-and-games-spring-2010/](https://ocw.mit.edu/courses/experimental-study-group/es-268-the-mathematics-in-toys-and-games-spring-2010/)
+* [proofwiki.org/wiki/Main_Page](https://proofwiki.org/wiki/Main_Page)
+* [ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)
+* [terrytao.wordpress.com/career-advice/there%E2%80%99s-more-to-mathematics-than-rigour-and-proofs/](https://terrytao.wordpress.com/career-advice/there%E2%80%99s-more-to-mathematics-than-rigour-and-proofs/)
+* [toster.ru/q/311120](https://toster.ru/q/311120)
+* [aeaweb.org/gradstudents/Mathematical_Preparation.php](https://www.aeaweb.org/gradstudents/Mathematical_Preparation.php)
+* [aeaweb.org/gradstudents/Recommended_Mathematical_Training.php](https://www.aeaweb.org/gradstudents/Recommended_Mathematical_Training.php)
+* [aeaweb.org/resources/students/grad-prep](https://www.aeaweb.org/resources/students/grad-prep)
+* [businessinsider.com/the-most-controversial-math-problems-2013-3](https://www.businessinsider.com/the-most-controversial-math-problems-2013-3)
+* [desmos.com/calculator](https://www.desmos.com/calculator)
+* [grund-wissen.de/mathematik/_downloads/grundwissen-mathematik.pdf](https://www.grund-wissen.de/mathematik/_downloads/grundwissen-mathematik.pdf)
+* [mathopenref.com/indexpage.html](https://www.mathopenref.com/indexpage.html)
+* [quentinlazzarotto.com/man-ray-maths](https://www.quentinlazzarotto.com/man-ray-maths)
+* [quora.com/What-is-it-like-to-understand-advanced-mathematics](https://www.quora.com/What-is-it-like-to-understand-advanced-mathematics)
+* [stitcher.com/podcast/breaking-math-podcast](https://www.stitcher.com/podcast/breaking-math-podcast)
+* [welt.de/print/wams/wissen/article141694179/Mathematiker-rechnen-nicht.html](https://www.welt.de/print/wams/wissen/article141694179/Mathematiker-rechnen-nicht.html)
 * [Immersive Math](http://immersivemath.com/ila/tableofcontents.html?)
 * [Index of /pub/Maths/ProblemCorner](https://www.maths.tcd.ie/pub/Maths/ProblemCorner/)
 * [John Urschel: From NFL Player to Mathematician](https://www.quantamagazine.org/john-urschel-from-nfl-player-to-mathematician-20200225/)

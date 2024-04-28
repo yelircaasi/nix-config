@@ -3,7 +3,7 @@
 *
 * A
 *
-* A Very Short Introduction to ... https://en.wikipedia.org/wiki/Very_Short_Introductions
+* A Very Short Introduction to ... [en.wikipedia.org/wiki/Very_Short_Introductions](https://en.wikipedia.org/wiki/Very_Short_Introductions)
 * An Incomplete Education
 * The NYT Guide to Essential Knowledge
 * Big Book of Knowledge
@@ -36,7 +36,7 @@
 *
 * Humanimal: How Homo sapiens Became Nature’s Most Paradoxical Creature—A New Evolutionary History
 *
-*         * https://b-ok.cc/s/?q=Homo+Geographicus
+*         * [b-ok.cc/s/?q=Homo+Geographicus](https://b-ok.cc/s/?q=Homo+Geographicus)
 *
 *         * [Le guide de la lecture rapide : Lire vite pour mieux apprendre](https://b-ok.cc/book/829639/77a125)
 *
@@ -50,7 +50,7 @@
 *
 *         * [Natural Language Processing and Text Mining](https://b-ok.cc/book/647261/f41bd1)
 *
-*         * https://b-ok.cc/s/?q=gilles+dowek
+*         * [b-ok.cc/s/?q=gilles+dowek](https://b-ok.cc/s/?q=gilles+dowek)
 *
 *         * [Proofs and Algorithms: An Introduction to Logic and Computability](https://b-ok.cc/book/864225/271ed5)
 *
@@ -84,9 +84,9 @@
 *
 *         * [Wunschdenken: Europa, Währung, Bildung, Einwanderung - warum Politik so häufig scheitert](https://b-ok.cc/book/2706299/a12300)
 *
-*         * https://b-ok.cc/s/?q=American+Foreign+Policy
+*         * [b-ok.cc/s/?q=American+Foreign+Policy](https://b-ok.cc/s/?q=American+Foreign+Policy)
 *
-*         * http://libgen.io/search.php?req=Mexicanismos&open=0&res=25&view=simple&phrase=1&column=def
+*         * [libgen.io/search.php?req=Mexicanismos&open=0&res=25&view=simple&phrase=1&column=def](http://libgen.io/search.php?req=Mexicanismos&open=0&res=25&view=simple&phrase=1&column=def)
 *
 *         * [Die deutsche Seele](https://b-ok.cc/book/1884545/d759b1)
 *
@@ -676,9 +676,9 @@
 *
 *         Pali Canon
 *
-*                                 * https://en.wikipedia.org/wiki/List_of_historic_Indian_texts
+*                                 * [en.wikipedia.org/wiki/List_of_historic_Indian_texts](https://en.wikipedia.org/wiki/List_of_historic_Indian_texts)
 *
-*                                 * https://en.wikipedia.org/wiki/Ancient_literature
+*                                 * [en.wikipedia.org/wiki/Ancient_literature](https://en.wikipedia.org/wiki/Ancient_literature)
 *
 *
 *         * [De consolatione philosophiae](https://en.wikipedia.org/wiki/De_consolatione_philosophiae)
@@ -903,7 +903,7 @@
 *
 *         The Portable Atheist
 *
-*                                 * https://www.amazon.de/Das-Neue-Testament-Synoptisch-Griechisch/dp/3942048337
+*                                 * [amazon.de/Das-Neue-Testament-Synoptisch-Griechisch/dp/3942048337](https://www.amazon.de/Das-Neue-Testament-Synoptisch-Griechisch/dp/3942048337)
 *
 *
 *         Women of the Old Testament
@@ -985,7 +985,7 @@
 *
 *
 * - Weisheitsliteratur
-*             * http://www.philolex.de/stoiepik.htm
+*             * [philolex.de/stoiepik.htm](http://www.philolex.de/stoiepik.htm)
 *
 *     Qur'an
 *
@@ -1088,7 +1088,7 @@
 *         Sebayt
 *
 *         Teaching for King Merykara
-*                     * https://en.wikipedia.org/wiki/Category:Wisdom_literature
+*                     * [en.wikipedia.org/wiki/Category:Wisdom_literature](https://en.wikipedia.org/wiki/Category:Wisdom_literature)
 *
 *         GIORDANO BRUNO
 *
@@ -3009,18 +3009,18 @@
 *         American Indian Fairy Tales
 *
 *
-*                                 * https://buddhaimonia.com/blog/native-american-wisdom
+*                                 * [buddhaimonia.com/blog/native-american-wisdom](https://buddhaimonia.com/blog/native-american-wisdom)
 *
 *
 *
-*                                 * https://www.churchofjesuschrist.org/study/church-history?lang=spa
+*                                 * [churchofjesuschrist.org/study/church-history?lang=spa](https://www.churchofjesuschrist.org/study/church-history?lang=spa)
 *
 *
 *
 *
 *
 *
-*                                 * https://kazky.org.ua/zbirky/ukrajinsjki-narodni-kazky
+*                                 * [kazky.org.ua/zbirky/ukrajinsjki-narodni-kazky](https://kazky.org.ua/zbirky/ukrajinsjki-narodni-kazky)
 *
 *
 *
@@ -3273,7 +3273,7 @@
 *
 *     The righteous mind : why good people are divided by politics and religion
 *
-*                     * https://geert-hofstede.com/publications.html
+*                     * [geert-hofstede.com/publications.html](https://geert-hofstede.com/publications.html)
 *
 *
 *     The Phoenix Program - Douglas Valentine
@@ -3826,7 +3826,7 @@
 *
 *         Why Nations Fail
 *
-*                                 * https://search.lib.byu.edu/byu/search?q=development+economics&date%5B%5D=2007-2017
+*                                 * [search.lib.byu.edu/byu/search?q=development+economics&date%5B%5D=2007-2017](https://search.lib.byu.edu/byu/search?q=development+economics&date%5B%5D=2007-2017)
 *
 *
 *     - Teoría de juegos
@@ -4333,7 +4333,7 @@
 *     Vague Language Explored
 *
 *
-*     Cambridge Encyclopedia of Language https://de.wikipedia.org/wiki/Cambridge_Encyclopedia_of_Language
+*     Cambridge Encyclopedia of Language [de.wikipedia.org/wiki/Cambridge_Encyclopedia_of_Language](https://de.wikipedia.org/wiki/Cambridge_Encyclopedia_of_Language)
 *
 *
 *     1000 Most Obscure Words
@@ -8154,30 +8154,30 @@
 * 12. Girl, Interrupted- Kaysen
 
 *
-* https://www.goodreads.com/book/show/247620.Book_by_Book
+* [goodreads.com/book/show/247620.Book_by_Book](https://www.goodreads.com/book/show/247620.Book_by_Book)
 
 *
-* https://www.timeshighereducation.com/news/most-cited-authors-of-books-in-the-humanities-2007/405956.article
+* [timeshighereducation.com/news/most-cited-authors-of-books-in-the-humanities-2007/405956.article](https://www.timeshighereducation.com/news/most-cited-authors-of-books-in-the-humanities-2007/405956.article)
 
 *
-* https://www.infoplease.com/arts-entertainment/literature-and-books/top-100-works-world-literature
+* [infoplease.com/arts-entertainment/literature-and-books/top-100-works-world-literature](https://www.infoplease.com/arts-entertainment/literature-and-books/top-100-works-world-literature)
 
 *
-* http://www.infojug.com/articles/famous-literary-works.html
+* [infojug.com/articles/famous-literary-works.html](http://www.infojug.com/articles/famous-literary-works.html)
 
 *
-* https://www.reddit.com/r/books/comments/2wbb4v/what_works_are_most_referenced_in_modern/
+* [r/books/comments/2wbb4v/what_works_are_most_referenced_in_modern/](https://www.reddit.com/r/books/comments/2wbb4v/what_works_are_most_referenced_in_modern/)
 
 * 1001 Books You Must Read before You Die
 
 *
-* http://honors.byu.edu/content/great-works-theatre
+* [honors.byu.edu/content/great-works-theatre](http://honors.byu.edu/content/great-works-theatre)
 
 *
-* http://adventures-in-mormonism.com/2008/09/28/byu-honors-program-reading-list-mid-1970s/
+* [adventures-in-mormonism.com/2008/09/28/byu-honors-program-reading-list-mid-1970s/](http://adventures-in-mormonism.com/2008/09/28/byu-honors-program-reading-list-mid-1970s/)
 
 *
-* https://www.perfectionlearning.com/top-100-world-literature-titles
+* [perfectionlearning.com/top-100-world-literature-titles](https://www.perfectionlearning.com/top-100-world-literature-titles)
 
 *
 * [Non-fiction](https://www.google.com/search?q=top+nonfiction+books+of+all+time&oq=top+non-fiction+works+of+all+&aqs=chrome.1.69i57j0l5.9103j0j7&sourceid=chrome&ie=UTF-8)
@@ -8185,77 +8185,77 @@
 * The 100: A Ranking of the Most Influential Persons in History
 
 *
-* https://www.samharris.org/book_store
+* [samharris.org/book_store](https://www.samharris.org/book_store)
 
 *
-* https://www.goodreads.com/list/tag/the-economist
+* [goodreads.com/list/tag/the-economist](https://www.goodreads.com/list/tag/the-economist)
 
 *
-* http://www.librarything.com/zeitgeist
+* [librarything.com/zeitgeist](http://www.librarything.com/zeitgeist)
 
 *
-* https://home.isi.org/10-books-you-need-read-graduation?utm_source=Intercollegiate+Studies+Institute+Subscribers&utm_campaign=a5e4e75b50-Thursday+Review+January+18&utm_medium=email&utm_term=0_3ab42370fb-a5e4e75b50-93402221&goal=0_3ab42370fb-a5e4e75b50-93402221&mc_cid=a5e4e75b50&mc_eid=5c5ba5d878
+* [home.isi.org/10-books-you-need-read-graduation](https://home.isi.org/10-books-you-need-read-graduation)
 
 *
-* https://docs.google.com/spreadsheets/d/1ygeI9nOrgmOrlTVIkma7K9enDUhGsuhalh-05KTyDHA/edit#gid=0
+* [docs.google.com/spreadsheets/d/1ygeI9nOrgmOrlTVIkma7K9enDUhGsuhalh-05KTyDHA/edit#gid=0](https://docs.google.com/spreadsheets/d/1ygeI9nOrgmOrlTVIkma7K9enDUhGsuhalh-05KTyDHA/edit#gid=0)
 
 *
-* https://medium.com/@johannlilly/ben-shapiros-recommended-reading-50a93324e0da
+* [medium.com/@johannlilly/ben-shapiros-recommended-reading-50a93324e0da](https://medium.com/@johannlilly/ben-shapiros-recommended-reading-50a93324e0da)
 
 *
-* [https://www.vorleser.net](https://www.vorleser.net/)
+* [vorleser.net](https://www.vorleser.net/)
 
 *
-* https://www.audiocite.net/
+* [audiocite.net/](https://www.audiocite.net/)
 
 *
-* https://audio-libro.com/
+* [audio-libro.com/](https://audio-libro.com/)
 
 *
 * [http://www.livrespourtous.com](http://www.livrespourtous.com/)
 
 *
-* http://mp3audiobookplayer.com/audiobook-collections/
+* [mp3audiobookplayer.com/audiobook-collections/](http://mp3audiobookplayer.com/audiobook-collections/)
 
 *
-* [https://audiolibri.org](https://audiolibri.org/)
+* [audiolibri.org](https://audiolibri.org/)
 
 *
-* http://audiolibrosgratis.net/
+* [audiolibrosgratis.net/](http://audiolibrosgratis.net/)
 
 *
-* https://byu.overdrive.com/byu-byu/content/browse
+* [byu.overdrive.com/byu-byu/content/browse](https://byu.overdrive.com/byu-byu/content/browse)
 
 * Libby
 
 *
-* https://www.litres.ru/
+* [litres.ru/](https://www.litres.ru/)
 
 *
-* https://www.thereadinglists.com/most-important-philosophy-books/
+* [thereadinglists.com/most-important-philosophy-books/](https://www.thereadinglists.com/most-important-philosophy-books/)
 
 *
-* https://taylorpearson.me/book-review/best-philosophy-books/
+* [taylorpearson.me/book-review/best-philosophy-books/](https://taylorpearson.me/book-review/best-philosophy-books/)
 
 *
-* https://www.downpour.com/genre-science
+* [downpour.com/genre-science](https://www.downpour.com/genre-science)
 
 *
-* http://www.audiolib.fr/collections/documents-et-essais
+* [audiolib.fr/collections/documents-et-essais](http://www.audiolib.fr/collections/documents-et-essais)
 
 *
-* https://www.amazon.de/John-Brockman/e/B00JI0ZOOK
+* [amazon.de/John-Brockman/e/B00JI0ZOOK](https://www.amazon.de/John-Brockman/e/B00JI0ZOOK)
 
 *
-* https://www.audible.com/a/search?ref=a_a_search_c1_sort_2&pf_rd_p=073d8370-97e5-4b7b-be04-aa06cf22d7dd&pf_rd_r=TG4J6B4FQWAR39GYKRJ7&&node=2226657011&feature_six_browse-bin=9178183011&feature_six_browse-bin=9178180011&submitted=1&sort=popularity-rank&pageSize=50
+* [audible.com/a/search?ref=a_a_search_c1_sort_2&pf_rd_p=073d8370-97e5-4b7b-be04-aa06cf22d7dd&pf_rd_r=TG4J6B4FQWAR39GYKRJ7&&node=2226657011&feature_six_browse-bin=9178183011&feature_six_browse-bin=9178180011&submitted=1&sort=popularity-rank&pageSize=50](https://www.audible.com/a/search?ref=a_a_search_c1_sort_2&pf_rd_p=073d8370-97e5-4b7b-be04-aa06cf22d7dd&pf_rd_r=TG4J6B4FQWAR39GYKRJ7&&node=2226657011&feature_six_browse-bin=9178183011&feature_six_browse-bin=9178180011&submitted=1&sort=popularity-rank&pageSize=50)
 
 *
-* https://www.bookbeat.com/de/buch/focus-34703
+* [bookbeat.com/de/buch/focus-34703](https://www.bookbeat.com/de/buch/focus-34703)
 
 *
-* https://de.wikipedia.org/wiki/Steven_Pinker
+* [de.wikipedia.org/wiki/Steven_Pinker](https://de.wikipedia.org/wiki/Steven_Pinker)
 
 *
-* https://www.samuelthomasdavies.com/book-summaries/
+* [samuelthomasdavies.com/book-summaries/](https://www.samuelthomasdavies.com/book-summaries/)
 
 * ---

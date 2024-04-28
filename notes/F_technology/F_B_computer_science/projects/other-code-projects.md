@@ -1,7 +1,7 @@
 # Other Code Projects
 
 * $$$ wezterm-python-pdf-reader - write a terminal PDF reader for wezterm using python, matplotlib, and matplotlib, together with python pdf library and matplotlib-backend-wezterm
-* https://neurosciencenews.com/color-perception-retinal-cells-25935/
+* [neurosciencenews.com/color-perception-retinal-cells-25935/](https://neurosciencenews.com/color-perception-retinal-cells-25935/)
 * Make NLP-based automatic sorter for notes (embedding-based). Use clustering and classification, experiment with different embedding approaches.
 
 ## Projects
@@ -78,7 +78,7 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
 
         * [Options for Python packaging: Wheels, Conda, Docker, and more](https://pythonspeed.com/articles/distributing-software/)
 
-        * [Reddit - I made a Python compiler, that can compile Python source down to fast, standalone executables.](https://www.reddit.com/r/Python/comments/w7vlim/i_made_a_python_compiler_that_can_compile_python/?utm_medium=android_app&utm_source=share)
+        * [Reddit - I made a Python compiler, that can compile Python source down to fast, standalone executables.](https://www.reddit.com/r/Python/comments/w7vlim/i_made_a_python_compiler_that_can_compile_python/)
 
     - Algorithms
 
@@ -121,7 +121,7 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
     - GUI Resources
 
         * [GUI - Things and Stuff Wiki](https://wiki.thingsandstuff.org/GUI)
-                * https://github.com/themix-project/themix-gui
+                * [themix-project/themix-gui](https://github.com/themix-project/themix-gui)
 
         * [Use Python? This GUI runs EVERYWHERE!](https://youtu.be/9r13xXMVo4s)
 
@@ -131,12 +131,12 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
 
 
     browse & build LF_aligner (in pkgs)
-        * https://github.com/topics/pdflatex
+        * [topics/pdflatex](https://github.com/topics/pdflatex)
         * [SDL Trados Studio - A Practical Guide](http://library.lol/main/705A598EFCA8D210EC4FF9638FEF7C37) (language learning tools)
 
     Make folder for Udemy Cpp Course
         * [How to contribute to open source - YouTube](https://www.youtube.com/watch?v=2L0sxPx4C18)
-        * https://github.com/topics/pdftex
+        * [topics/pdftex](https://github.com/topics/pdftex)
         * [GitHub Sponsors accounts](https://github.com/sponsors/accounts)
         * [sirjofri/glossy: a LaTeX package for interlinear glosses](https://github.com/sirjofri/glossy)
         * [8 Best Patreon Alternatives & Competitors For 2023 (Comparison)](https://bloggingwizard.com/patreon-alternatives/)
@@ -144,7 +144,7 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
     git@github.com:yelircaasi/keyboard-trainer-cpp.git
 
     - Jupyter
-                * https://github.com/joouha/euporie
+                * [joouha/euporie](https://github.com/joouha/euporie)
 
         * [Jupyter kernels · jupyter/jupyter Wiki](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
 
@@ -170,16 +170,16 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
         * [Leaderboard and Visualization for RLCard with Python](https://morioh.com/p/7428e04ab1c8)
         * [RLCard: A Toolkit for Reinforcement Learning in Card Games – arXiv Vanity](https://www.arxiv-vanity.com/papers/1910.04376/)
         * [LaTeX Development Code](https://www.latex-project.org/latex3/code/)
-        * https://textual.textualize.io/
+        * [textual.textualize.io/](https://textual.textualize.io/)
         * [Python GUIs – Create GUI applications with Python and Qt](https://www.pythonguis.com/)
         * [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
         * [adambard/learnxinyminutes-docs: Code documentation written as code! How novel and totally my idea!](https://github.com/adambard/learnxinyminutes-docs)
-        * https://github.com/Vigemus/iron.nvim
+        * [Vigemus/iron.nvim](https://github.com/Vigemus/iron.nvim)
 
     seriously pursue ancient greek and latin tts - need to pursue serious data collection
 
     also add TTS option for parallel text
-        * https://github.com/everydaycodings/MimicMania
+        * [everydaycodings/MimicMania](https://github.com/everydaycodings/MimicMania)
 
     Google Drive dvc server -> look at alternatives like NextCloud
 
@@ -298,7 +298,7 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
 
     arabic speech corpus, arctic l2, buckeye, timit, LJSpeech
         * [tsoding/ded: Dramatic EDitor](https://github.com/tsoding/ded)
-        * https://github.com/TheAlgorithms/contributor_covenant
+        * [TheAlgorithms/contributor_covenant](https://github.com/TheAlgorithms/contributor_covenant)
 
     Neural Networks from Scratch in Python.pdf
 
@@ -367,21 +367,21 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
     git@github.com:yelircaasi/study-notes.git
 
     git@github.com:yelircaasi/Wiktionary4LL.git
-        * https://github.com/cherylli/pomodoro-kotlin.git
-        * https://github.com/SimpleMobileTools/Simple-Calendar.git
-        * https://github.com/powerline/fonts.git
-        * https://github.com/tklitschi/Algorithmen-und-Datenstrukturen
+        * [cherylli/pomodoro-kotlin.git](https://github.com/cherylli/pomodoro-kotlin.git)
+        * [SimpleMobileTools/Simple-Calendar.git](https://github.com/SimpleMobileTools/Simple-Calendar.git)
+        * [powerline/fonts.git](https://github.com/powerline/fonts.git)
+        * [tklitschi/Algorithmen-und-Datenstrukturen](https://github.com/tklitschi/Algorithmen-und-Datenstrukturen)
 
-    *** https://github.com/codecrafters-io/build-your-own-x
+    *** [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
     remove *.pdf from .gitignore of study-notes
-        * https://github.com/codecrafters-io/build-your-own-x
+        * [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
         * [Delgan stars](https://github.com/Delgan?tab=stars)
         * [yelircaasi/study-notes: LaTeX notes for the various topics I am studying. Focus on NLP, CS, Math. All topics fair game. May be in non-English languages.](https://github.com/yelircaasi/study-notes)
         * [Parsing English in 500 Lines of Python · Explosion](https://explosion.ai/blog/parsing-english-in-python)
 
     I could make a good 3b1b-style video about two's complement.
-        * https://zty.pe/
+        * [zty.pe/](https://zty.pe/)
         * [Writing to learn](https://www.arecadata.com/writing/)
 
     Make list of general, useful programming tasks to solve in multiple languages (create Gsheet, add to project list) - get from language documentation examples, tutorials
@@ -393,8 +393,8 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
         * [Perspective Chapter: Evolution of User Interface and User Experience in Mobile Augmented and Virtual Reality Applications](https://www.intechopen.com/chapters/81140)
         * [life4/deal-solver: z3-powered solver (theorem prover) for deal](https://github.com/life4/deal-solver)
         * [orsinium-labs/re: Elixir library for writing readable regexes in functional style](https://github.com/orsinium-labs/re)
-        * http://craftinginterpreters.com/
-        * https://github.com/ForeignGods/Sorting-Algorithms-Blender
+        * [craftinginterpreters.com/](http://craftinginterpreters.com/)
+        * [ForeignGods/Sorting-Algorithms-Blender](https://github.com/ForeignGods/Sorting-Algorithms-Blender)
 
     nn to predict gender of loan words in German, compare to surveys of Germans, visualize activations from letters and letter combinations, also how edits influence predictions -> topology? (letterwise input, most likely)
 
@@ -405,41 +405,41 @@ Idea: get stylus drawing / writing tablet and set it up with rnote and also with
 
 
 * deskewer
-        * https://lmb.informatik.uni-freiburg.de/Publications/2015/FDB15/image_orientation.pdf
+        * [lmb.informatik.uni-freiburg.de/Publications/2015/FDB15/image_orientation.pdf](https://lmb.informatik.uni-freiburg.de/Publications/2015/FDB15/image_orientation.pdf)
         * [OpenCV: Introduction to Julia OpenCV Binding](https://docs.opencv.org/4.x/d8/da4/tutorial_julia.html)
 
 
 
 ## rosetta-regex
-* https://rosettacode.org/wiki/Regular_expressions
-* https://en.wikipedia.org/wiki/Regular_expression
-* https://en.wikipedia.org/wiki/Comparison_of_regular_expression_engines
-* https://regexlearn.com/learn/regex101
-* https://perldoc.perl.org/perlre
-* https://docs.rs/regex/latest/regex/
-* https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/regex
-* https://docs.python.org/3/library/re.html
-* https://www.lua.org/pil/contents.html#20
-* https://en.cppreference.com/w/cpp/regex
+* [rosettacode.org/wiki/Regular_expressions](https://rosettacode.org/wiki/Regular_expressions)
+* [en.wikipedia.org/wiki/Regular_expression](https://en.wikipedia.org/wiki/Regular_expression)
+* [en.wikipedia.org/wiki/Comparison_of_regular_expression_engines](https://en.wikipedia.org/wiki/Comparison_of_regular_expression_engines)
+* [regexlearn.com/learn/regex101](https://regexlearn.com/learn/regex101)
+* [perldoc.perl.org/perlre](https://perldoc.perl.org/perlre)
+* [docs.rs/regex/latest/regex/](https://docs.rs/regex/latest/regex/)
+* [rdocumentation.org/packages/base/versions/3.6.2/topics/regex](https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/regex)
+* [docs.python.org/3/library/re.html](https://docs.python.org/3/library/re.html)
+* [lua.org/pil/contents.html#20](https://www.lua.org/pil/contents.html#20)
+* [en.cppreference.com/w/cpp/regex](https://en.cppreference.com/w/cpp/regex)
 
 C
 
 
-* https://www.delftstack.com/howto/c/c-regex/
-* https://www.geeksforgeeks.org/regular-expressions-in-c/
-* https://blog.teamtreehouse.com/regular-expressions-10-languages
+* [delftstack.com/howto/c/c-regex/](https://www.delftstack.com/howto/c/c-regex/)
+* [geeksforgeeks.org/regular-expressions-in-c/](https://www.geeksforgeeks.org/regular-expressions-in-c/)
+* [blog.teamtreehouse.com/regular-expressions-10-languages](https://blog.teamtreehouse.com/regular-expressions-10-languages)
 
 
 ## [keyboard-trainer](https://github.com/yelircaasi/keyboard-trainer-cpp) 🌱
 
 C/C++ typing test (first character→key mappings)
 * [Learning Scripts & Keyboards](https://docs.google.com/spreadsheets/d/1T_qAG4raIhJYq1mlgJCH8TN-ZNcUl9RM-p4a0aVh5EU/edit?usp=sharing)
-* https://www.linuxquestions.org/questions/general-10/plain-c-programming-capturing-key-code-in-the-linux-console-printf-keycode-4175606765/
-* https://en.cppreference.com/w/c/io/getchar
+* [linuxquestions.org/questions/general-10/plain-c-programming-capturing-key-code-in-the-linux-console-printf-keycode-4175606765/](https://www.linuxquestions.org/questions/general-10/plain-c-programming-capturing-key-code-in-the-linux-console-printf-keycode-4175606765/)
+* [en.cppreference.com/w/c/io/getchar](https://en.cppreference.com/w/c/io/getchar)
 
 → later Rust
-* https://github.com/jrnxf/thokr
-* https://github.com/max-niederman/ttyper
+* [jrnxf/thokr](https://github.com/jrnxf/thokr)
+* [max-niederman/ttyper](https://github.com/max-niederman/ttyper)
 
 
 ### Components
@@ -473,11 +473,11 @@ C/C++ typing test (first character→key mappings)
 ### References
 
 
-* https://doc.qt.io/
-* https://www.gtk.org/
-* https://doc.qt.io/qt-5/qtvirtualkeyboard-index.html
-* https://www.wxwidgets.org/
-* https://stackoverflow.com/questions/29335758/using-kbhit-and-getch-on-linux
+* [doc.qt.io/](https://doc.qt.io/)
+* [gtk.org/](https://www.gtk.org/)
+* [doc.qt.io/qt-5/qtvirtualkeyboard-index.html](https://doc.qt.io/qt-5/qtvirtualkeyboard-index.html)
+* [wxwidgets.org/](https://www.wxwidgets.org/)
+* [stackoverflow.com/questions/29335758/using-kbhit-and-getch-on-linux](https://stackoverflow.com/questions/29335758/using-kbhit-and-getch-on-linux)
 * [javascript - Detect pressed modifier keys without triggering keyboard or mouse events - Stack Overflow](https://stackoverflow.com/questions/22086059/detect-pressed-modifier-keys-without-triggering-keyboard-or-mouse-events)
 
 
@@ -540,30 +540,30 @@ Design: to-do list with routine lists, scheduler, and corresponding notification
 
 
 ## Reading:
-* [ ]  https://developer.android.com/guide/components/fundamentals
-     - [ ]  https://developer.android.com/guide
-     - [ ]  https://developer.android.com/codelabs/build-your-first-android-app-kotlin#0
-     - [ ]  https://developer.android.com/kotlin/androidbasics
-     - [ ]  https://developer.android.com/courses/android-basics-kotlin/course
-     - [ ]  https://www.sitepoint.com/starting-android-development-creating-todo-app/- [ ]  read code and explore app features: ~/Projects/Android/Simple-Calendar
+* [ ]  [developer.android.com/guide/components/fundamentals](https://developer.android.com/guide/components/fundamentals)
+     - [ ]  [developer.android.com/guide](https://developer.android.com/guide)
+     - [ ]  [developer.android.com/codelabs/build-your-first-android-app-kotlin#0](https://developer.android.com/codelabs/build-your-first-android-app-kotlin#0)
+     - [ ]  [developer.android.com/kotlin/androidbasics](https://developer.android.com/kotlin/androidbasics)
+     - [ ]  [developer.android.com/courses/android-basics-kotlin/course](https://developer.android.com/courses/android-basics-kotlin/course)
+     - [ ]  [sitepoint.com/starting-android-development-creating-todo-app/-](https://www.sitepoint.com/starting-android-development-creating-todo-app/-) [ ]  read code and explore app features: ~/Projects/Android/Simple-Calendar
      - [ ]  read code and explore app features: ~/Projects/Android/pomodoro-kotlin
-     - [ ]  https://android.googlesource.com/platform/packages/apps/DeskClock/- [ ]  https://github.com/andrea-liu87/MyClock
-     - [ ]  https://github.com/AdamMc331/ToDo-Kotlin
-     - [ ]  https://github.com/wber/ToDoList
-     - [ ]  https://github.com/ehsan-saddique/Checklist
-     - [ ]  https://github.com/Faezehyas/Grocery-CheckList
-     - [ ]  - [ ]  https://github.com/zaraco/to-do-list-android-kotlin
-     - [ ]  https://github.com/recruit-mp/LightCalendarView
-     - [ ]  https://github.com/ajithvgiri/stopwatch
-     - [ ]  https://github.com/Crazy-Marvin/ToDont
-     - [ ]  https://github.com/mohamedebrahim96/ToDoListZIRO
-     - [ ]  https://github.com/serbelga/ToDometer
-     - [ ]  https://github.com/agustiyann/ToDoList-Room-MVVM
-     - [ ]  https://github.com/ziginsider/Foreground-Service-Demo-Android-App
-     - [ ]  https://github.com/SimpleMobileTools/Simple-Clock-Abandoned
-     - [ ]  https://github.com/ognev-zair/Kotlin-AgendaCalendarView
-     - [ ]  https://github.com/CleverPumpkin/CrunchyCalendar
-     - [ ]  https://github.com/JonasWanke/com.jonaswanke.calendar
+     - [ ]  [android.googlesource.com/platform/packages/apps/DeskClock/-](https://android.googlesource.com/platform/packages/apps/DeskClock/-) [ ]  [andrea-liu87/MyClock](https://github.com/andrea-liu87/MyClock)
+     - [ ]  [AdamMc331/ToDo-Kotlin](https://github.com/AdamMc331/ToDo-Kotlin)
+     - [ ]  [wber/ToDoList](https://github.com/wber/ToDoList)
+     - [ ]  [ehsan-saddique/Checklist](https://github.com/ehsan-saddique/Checklist)
+     - [ ]  [Faezehyas/Grocery-CheckList](https://github.com/Faezehyas/Grocery-CheckList)
+     - [ ]  - [ ]  [zaraco/to-do-list-android-kotlin](https://github.com/zaraco/to-do-list-android-kotlin)
+     - [ ]  [recruit-mp/LightCalendarView](https://github.com/recruit-mp/LightCalendarView)
+     - [ ]  [ajithvgiri/stopwatch](https://github.com/ajithvgiri/stopwatch)
+     - [ ]  [Crazy-Marvin/ToDont](https://github.com/Crazy-Marvin/ToDont)
+     - [ ]  [mohamedebrahim96/ToDoListZIRO](https://github.com/mohamedebrahim96/ToDoListZIRO)
+     - [ ]  [serbelga/ToDometer](https://github.com/serbelga/ToDometer)
+     - [ ]  [agustiyann/ToDoList-Room-MVVM](https://github.com/agustiyann/ToDoList-Room-MVVM)
+     - [ ]  [ziginsider/Foreground-Service-Demo-Android-App](https://github.com/ziginsider/Foreground-Service-Demo-Android-App)
+     - [ ]  [SimpleMobileTools/Simple-Clock-Abandoned](https://github.com/SimpleMobileTools/Simple-Clock-Abandoned)
+     - [ ]  [ognev-zair/Kotlin-AgendaCalendarView](https://github.com/ognev-zair/Kotlin-AgendaCalendarView)
+     - [ ]  [CleverPumpkin/CrunchyCalendar](https://github.com/CleverPumpkin/CrunchyCalendar)
+     - [ ]  [JonasWanke/com.jonaswanke.calendar](https://github.com/JonasWanke/com.jonaswanke.calendar)
      - [ ]
 
 
@@ -576,14 +576,14 @@ pomodoro-style timer
 
 
 * Integration with some external service, such as Notion or Google
-* https://developers.notion.com/reference/intro
-* https://www.notion.so/my-integrations
-* https://www.notion.so/help/add-and-manage-integrations-with-the-api
-* https://www.notion.so/help/create-integrations-with-the-notion-api
-* https://developers.google.com/sheets/api/quickstart/quickstarts-overview
-* https://zapier.com/blog/best-android-to-do-list-apps/
-* https://zapier.com/platform/partner-program
-* https://zapier.com/apps/google-sheets/integrations/webhook
+* [developers.notion.com/reference/intro](https://developers.notion.com/reference/intro)
+* [notion.so/my-integrations](https://www.notion.so/my-integrations)
+* [notion.so/help/add-and-manage-integrations-with-the-api](https://www.notion.so/help/add-and-manage-integrations-with-the-api)
+* [notion.so/help/create-integrations-with-the-notion-api](https://www.notion.so/help/create-integrations-with-the-notion-api)
+* [developers.google.com/sheets/api/quickstart/quickstarts-overview](https://developers.google.com/sheets/api/quickstart/quickstarts-overview)
+* [zapier.com/blog/best-android-to-do-list-apps/](https://zapier.com/blog/best-android-to-do-list-apps/)
+* [zapier.com/platform/partner-program](https://zapier.com/platform/partner-program)
+* [zapier.com/apps/google-sheets/integrations/webhook](https://zapier.com/apps/google-sheets/integrations/webhook)
 
 
 ## [Proofs Book]()
@@ -596,7 +596,7 @@ pomodoro-style timer
 * TensorFlow Certification (with Jesse)
 * Book: Programming Language Concepts Illustrated: A Contrastive Guided Tour
 
-Reference / Inspiration: https://hyperpolyglot.org/,  https://rosettacode.org/wiki/Rosetta_Code
+Reference / Inspiration: [hyperpolyglot.org/,](https://hyperpolyglot.org/,)  [rosettacode.org/wiki/Rosetta_Code](https://rosettacode.org/wiki/Rosetta_Code)
 
     Preferred languages:
 
@@ -637,21 +637,21 @@ Reference / Inspiration: https://hyperpolyglot.org/,  https://rosettacode.org/wi
 
 Idea: use Genie.jl to host an if-then application on a Raspberry Pi
 
-→ [https://www.google.com/search?q=code your own jackbox](https://www.google.com/search?q=code%20your%20own%20jackbox&ie=utf-8&oe=utf-8&client=firefox-b-m)
+→ [google.com/search?q=code your own jackbox](https://www.google.com/search?q=code%20your%20own%20jackbox&ie=utf-8&oe=utf-8&client=firefox-b-m)
 
 Readings:
-* [ ]  https://funprojects.blog/2022/01/02/julia-programming-on-a-raspberry-pi/- [ ]  https://genieframework.github.io/Genie.jl/dev/tutorials/4-1--Developing_MVC_Web_Apps.html
-     - [ ]  https://raspberry-projects.com/pi/projects/raspberry-pi-running-web-app
-     - [ ]  https://fireship.io/lessons/host-website-raspberry-pi/- [ ]  https://ngrok.com/pricing
-     - [ ]  https://thepihut.com/products/raspberry-pi-400-personal-computer-kit?src=raspberrypi
-     - [ ]  https://opensource.com/article/21/3/web-hosting-raspberry-pi
-     - [ ]  https://juliaberry.github.io/- [ ]  https://geniejl.readthedocs.io/en/latest/- [ ]  https://genieframework.com/docs/tutorials/Overview.html
-     - [ ]  https://softwareengineering.stackexchange.com/questions/184047/how-do-you-handle-multiple-users-editing-the-same-piece-of-data-in-a-webapp
-     - [ ]  https://github.com/genieframework/GenieAuthentication.jl
-     - [ ]  https://github.com/GenieFramework/GenieAuthorisation.jl
-     - [ ]  https://genieframework.github.io/Genie.jl/dev/tutorials/1--Overview.html
-     - [ ]  https://www.zdnet.com/article/best-raspberry-pi-kit/- [ ]  https://pimylifeup.com/raspberry-pi-web-server/- [ ]  *** https://www.tomshardware.com/how-to/raspberry-pi-buying-guide
-     - [ ]  https://genieframework.github.io/Genie.jl/dev/tutorials/92--Deploying_Genie_Server_Apps_with_Nginx.html
+* [ ]  [funprojects.blog/2022/01/02/julia-programming-on-a-raspberry-pi/-](https://funprojects.blog/2022/01/02/julia-programming-on-a-raspberry-pi/-) [ ]  [genieframework.github.io/Genie.jl/dev/tutorials/4-1--Developing_MVC_Web_Apps.html](https://genieframework.github.io/Genie.jl/dev/tutorials/4-1--Developing_MVC_Web_Apps.html)
+     - [ ]  [raspberry-projects.com/pi/projects/raspberry-pi-running-web-app](https://raspberry-projects.com/pi/projects/raspberry-pi-running-web-app)
+     - [ ]  [fireship.io/lessons/host-website-raspberry-pi/-](https://fireship.io/lessons/host-website-raspberry-pi/-) [ ]  [ngrok.com/pricing](https://ngrok.com/pricing)
+     - [ ]  [thepihut.com/products/raspberry-pi-400-personal-computer-kit?src=raspberrypi](https://thepihut.com/products/raspberry-pi-400-personal-computer-kit?src=raspberrypi)
+     - [ ]  [opensource.com/article/21/3/web-hosting-raspberry-pi](https://opensource.com/article/21/3/web-hosting-raspberry-pi)
+     - [ ]  [juliaberry.github.io/-](https://juliaberry.github.io/-) [ ]  [geniejl.readthedocs.io/en/latest/-](https://geniejl.readthedocs.io/en/latest/-) [ ]  [genieframework.com/docs/tutorials/Overview.html](https://genieframework.com/docs/tutorials/Overview.html)
+     - [ ]  [softwareengineering.stackexchange.com/questions/184047/how-do-you-handle-multiple-users-editing-the-same-piece-of-data-in-a-webapp](https://softwareengineering.stackexchange.com/questions/184047/how-do-you-handle-multiple-users-editing-the-same-piece-of-data-in-a-webapp)
+     - [ ]  [genieframework/GenieAuthentication.jl](https://github.com/genieframework/GenieAuthentication.jl)
+     - [ ]  [GenieFramework/GenieAuthorisation.jl](https://github.com/GenieFramework/GenieAuthorisation.jl)
+     - [ ]  [genieframework.github.io/Genie.jl/dev/tutorials/1--Overview.html](https://genieframework.github.io/Genie.jl/dev/tutorials/1--Overview.html)
+     - [ ]  [zdnet.com/article/best-raspberry-pi-kit/-](https://www.zdnet.com/article/best-raspberry-pi-kit/-) [ ]  [pimylifeup.com/raspberry-pi-web-server/-](https://pimylifeup.com/raspberry-pi-web-server/-) [ ]  *** [tomshardware.com/how-to/raspberry-pi-buying-guide](https://www.tomshardware.com/how-to/raspberry-pi-buying-guide)
+     - [ ]  [genieframework.github.io/Genie.jl/dev/tutorials/92--Deploying_Genie_Server_Apps_with_Nginx.html](https://genieframework.github.io/Genie.jl/dev/tutorials/92--Deploying_Genie_Server_Apps_with_Nginx.html)
 
 
 * YouTube channel
@@ -663,8 +663,8 @@ Readings:
     - [ ]  screen capture + camera
     - [ ]  keystroke capture
     - [ ]  which playlists?
-    - [ ]  https://www.youtube.com/hashtag/manim?app=desktop
-    - [ ]  watch on manim: https://www.youtube.com/@TheoremofBeethoven
+    - [](https://www.youtube.com/hashtag/manim?app=desktop)
+    - [](https://www.youtube.com/@TheoremofBeethoven)
     - Ideas
 
         How a Desktop is Built
@@ -717,9 +717,9 @@ messages with Jesse:
 * learning-programming-languages 🌱
 * Code Deep Dives 🌱
     - [ ]  binaries
-        - https://opensource.com/article/20/4/linux-binary-analysis        - [ ]  https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/        - [ ]          - [ ]  ls        - [ ]  cd        - [ ]  python        - [ ]  julia        - [ ]  bash        - [ ]  zsh        - [ ]  LaTeX        - [ ]  XeLaTex        - [ ]  LuaTeX        - [ ]  OpenJDK
-    - [ ]  [vi](https://sourceforge.net/p/ex-vi/code/) and https://github.com/vim/vim     * https://github.com/Cube9999/vi    * https://github.com/hosiet/vi    * http://ex-vi.sourceforge.net/    * https://github.com/aligrudi/neatvi
-    - [ ]  Git source code: https://github.com/git/git
+        - [opensource.com/article/20/4/linux-binary-analysis](https://opensource.com/article/20/4/linux-binary-analysis)        - [ ]  [linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/)        - [ ]          - [ ]  ls        - [ ]  cd        - [ ]  python        - [ ]  julia        - [ ]  bash        - [ ]  zsh        - [ ]  LaTeX        - [ ]  XeLaTex        - [ ]  LuaTeX        - [ ]  OpenJDK
+    - [ ]  [vi](https://sourceforge.net/p/ex-vi/code/) and [vim/vim](https://github.com/vim/vim)     * [Cube9999/vi](https://github.com/Cube9999/vi)    * [hosiet/vi](https://github.com/hosiet/vi)    * [ex-vi.sourceforge.net/](http://ex-vi.sourceforge.net/)    * [aligrudi/neatvi](https://github.com/aligrudi/neatvi)
+    - [ ]  Git source code: [git/git](https://github.com/git/git)
     - [ ]  TensorFlow
     - [ ]  PyTorch
     - [ ]  NumPy
@@ -731,19 +731,19 @@ messages with Jesse:
     - [ ]  TextAnalysis.jl
     - [ ]  deeplearning4j
     - [ ]  Python 3.10 source
-        - https://github.com/python/cpython/tree/3.10
-        - https://getkt.com/blog/compile-and-install-python-from-source-on-linux/
+        - [python/cpython/tree/3.10](https://github.com/python/cpython/tree/3.10)
+        - [getkt.com/blog/compile-and-install-python-from-source-on-linux/](https://getkt.com/blog/compile-and-install-python-from-source-on-linux/)
     - [ ]  Julia 1.6 source
-        - https://github.com/JuliaLang/julia
-        - https://github.com/JuliaLang
+        - [JuliaLang/julia](https://github.com/JuliaLang/julia)
+        - [JuliaLang](https://github.com/JuliaLang)
     - [ ]  LaTeX
-        - https://www.tug.org/texlive/doc/tlbuild.html
+        - [tug.org/texlive/doc/tlbuild.html](https://www.tug.org/texlive/doc/tlbuild.html)
         -
     - [ ]  Linux kernel
-        - https://github.com/torvalds/linux
-        - https://www.kernel.org/doc/html/latest/
-        - https://kernelnewbies.org/        - [ ]  .
-    - [ ]  https://github.com/wch/r-source
+        - [torvalds/linux](https://github.com/torvalds/linux)
+        - [kernel.org/doc/html/latest/](https://www.kernel.org/doc/html/latest/)
+        - [kernelnewbies.org/](https://kernelnewbies.org/)        - [ ]  .
+    - [ ]  [wch/r-source](https://github.com/wch/r-source)
 * language-learning 🌱
 * cpp-machine-learning 🌱
 
@@ -790,91 +790,91 @@ messages with Jesse:
 * [God and the Devil: Proverbs in 9 European Languages - Teodor Flonta - Google Книги](https://books.google.de/books?id=anr2T1TJ0goC&pg=PA108&lpg=PA108&dq=Flonta+Romanian+Proverbs+9+Languages&source=bl&ots=50HxLxRSUa&sig=ACfU3U0l1ZVVZEGvHi9OH7JfwU2UXyUBlA&hl=ru&sa=X&ved=2ahUKEwj9gMLo3t3nAhWlPOwKHbXWAjUQ6AEwCnoECAoQAQ#v=onepage&q=Flonta%20Romanian%20Proverbs%209%20Languages&f=false)
 
 
-* http://citati.hr/hrvatske-poslovice
+* [citati.hr/hrvatske-poslovice](http://citati.hr/hrvatske-poslovice)
 
 
-* http://de.wikihow.com/G%C3%A4ngige-Ausdr%C3%BCcke-und-Redewendungen-in-verschiedenen-Sprachen-beherrschen
+* [de.wikihow.com/G%C3%A4ngige-Ausdr%C3%BCcke-und-Redewendungen-in-verschiedenen-Sprachen-beherrschen](http://de.wikihow.com/G%C3%A4ngige-Ausdr%C3%BCcke-und-Redewendungen-in-verschiedenen-Sprachen-beherrschen)
 
 
-* http://edukacija.rs/izreke-i-citati/narodne-poslovice
+* [edukacija.rs/izreke-i-citati/narodne-poslovice](http://edukacija.rs/izreke-i-citati/narodne-poslovice)
 
 
-* http://edukacija.rs/izreke-i-citati/narodne-poslovice/srpske
+* [edukacija.rs/izreke-i-citati/narodne-poslovice/srpske](http://edukacija.rs/izreke-i-citati/narodne-poslovice/srpske)
 
 
-* http://mudremisli.net/hrvatske-izreke/
+* [mudremisli.net/hrvatske-izreke/](http://mudremisli.net/hrvatske-izreke/)
 
 
-* http://ordtak.org/
+* [ordtak.org/](http://ordtak.org/)
 
 
-* http://pixelizam.com/narodne-poslovice/
+* [pixelizam.com/narodne-poslovice/](http://pixelizam.com/narodne-poslovice/)
 
 
-* http://przyslowia-polskie.pl/
+* [przyslowia-polskie.pl/](http://przyslowia-polskie.pl/)
 
 
-* http://www.croatianhistory.net/etf/poslovice.html
+* [croatianhistory.net/etf/poslovice.html](http://www.croatianhistory.net/etf/poslovice.html)
 
 
-* http://www.notesinspanish.com/2011/05/02/common-spanish-expressions-getting-up-on-the-wrong-side-of-the-bed/
+* [notesinspanish.com/2011/05/02/common-spanish-expressions-getting-up-on-the-wrong-side-of-the-bed/](http://www.notesinspanish.com/2011/05/02/common-spanish-expressions-getting-up-on-the-wrong-side-of-the-bed/)
 
 
-* http://www.ordsprak.se/svenska_ord.asp
+* [ordsprak.se/svenska_ord.asp](http://www.ordsprak.se/svenska_ord.asp)
 
 
-* http://www.ordtak.com/forfatter.php?fn=Ordtak&ln=
+* [ordtak.com/forfatter.php?fn=Ordtak&ln=](http://www.ordtak.com/forfatter.php?fn=Ordtak&ln=)
 
 
-* http://www.poslovice.org/hrvatske-poslovice/
+* [poslovice.org/hrvatske-poslovice/](http://www.poslovice.org/hrvatske-poslovice/)
 
 
-* http://www.poslovice.org/srpske-poslovice/
+* [poslovice.org/srpske-poslovice/](http://www.poslovice.org/srpske-poslovice/)
 
 
-* http://www.proverbia.net/default.asp
+* [proverbia.net/default.asp](http://www.proverbia.net/default.asp)
 
 
-* http://www.woorden.org/spreekwoord.php
+* [woorden.org/spreekwoord.php](http://www.woorden.org/spreekwoord.php)
 
 
-* https://brainly.pl/wypracowanie/Najpopularniejsze_polskie_przyslowia-18014
+* [brainly.pl/wypracowanie/Najpopularniejsze_polskie_przyslowia-18014](https://brainly.pl/wypracowanie/Najpopularniejsze_polskie_przyslowia-18014)
 
 
-* https://de-roliga-skamt.se/svenska-ordsprak/
+* [de-roliga-skamt.se/svenska-ordsprak/](https://de-roliga-skamt.se/svenska-ordsprak/)
 
 
-* https://hr.wikiquote.org/wiki/Hrvatske_poslovice
+* [hr.wikiquote.org/wiki/Hrvatske_poslovice](https://hr.wikiquote.org/wiki/Hrvatske_poslovice)
 
 
-* https://learningapps.org/view1558402
+* [learningapps.org/view1558402](https://learningapps.org/view1558402)
 
 
-* https://livet.se/ord/k%c3%a4lla/Svenskt_ordspr%c3%a5k
+* [livet.se/ord/k%c3%a4lla/Svenskt_ordspr%c3%a5k](https://livet.se/ord/k%c3%a4lla/Svenskt_ordspr%c3%a5k)
 
 
-* https://no.wikiquote.org/wiki/Norske_ordtak
+* [no.wikiquote.org/wiki/Norske_ordtak](https://no.wikiquote.org/wiki/Norske_ordtak)
 
 
-* https://pl.wikiquote.org/wiki/Przys%C5%82owia_polskie
+* [pl.wikiquote.org/wiki/Przys%C5%82owia_polskie](https://pl.wikiquote.org/wiki/Przys%C5%82owia_polskie)
 
 
-* https://przyslowia.net/
+* [przyslowia.net/](https://przyslowia.net/)
 
 
-* https://spreekwoorden.nl/
+* [spreekwoorden.nl/](https://spreekwoorden.nl/)
 
 
-* https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_svenska_ordspr%C3%A5k
+* [sv.wikipedia.org/wiki/Lista_%C3%B6ver_svenska_ordspr%C3%A5k](https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_svenska_ordspr%C3%A5k)
 
 
-* https://www.ordtak.no/
+* [ordtak.no/](https://www.ordtak.no/)
 
 
-* https://www.polskatradycja.pl/folklor/przyslowia.html
+* [polskatradycja.pl/folklor/przyslowia.html](https://www.polskatradycja.pl/folklor/przyslowia.html)
 
 
-* https://www.spreekwoord.nl/
+* [spreekwoord.nl/](https://www.spreekwoord.nl/)
 
 
 * [Lexical and Semantic Aspects of Proverbs - Čermák, František - Google Книги](https://books.google.de/books?id=Xua9DwAAQBAJ&pg=PA233&lpg=PA233&dq=proverbs+and+their+equivalents+in+other+languages&source=bl&ots=ckopOIGFd_&sig=ACfU3U3xQeffXByhK-YudKRCbDpwKzQ1gA&hl=ru&sa=X&ved=2ahUKEwix_du0493nAhWJM-wKHS8XAak4FBDoATAJegQICRAB#v=onepage&q=proverbs%20and%20their%20equivalents%20in%20other%20languages&f=false)
@@ -886,7 +886,7 @@ messages with Jesse:
 * [Collection of Ambiguous or Inconsistent/Incomplete Statements](http://www.gray-area.org/Research/Ambig/)
 
 
-* https://mymemory.translated.net/doc/spec.php
+* [mymemory.translated.net/doc/spec.php](https://mymemory.translated.net/doc/spec.php)
 
 
 * [Library Genesis: Wood, James - Dictionary of quotations from ancient and modern, English and foreign sources : including phrases, mottoes, maxims, proverbs, definitions, aphorisms, and sayings of the wise men, in their bearing on life, literature, speculation, science, art, religion, and morals, especially in the modern aspects of them](https://libgen.is/book/index.php?md5=754E7204F484ABE220E9E146AAE9A910)
@@ -915,25 +915,25 @@ proverbs in NLP
 * [Distinguishing antonymy, synonymy and hypernymy with distributional and distributed vector representations and neural networks](https://elib.uni-stuttgart.de/handle/11682/9973)
 
 
-* https://www.sciencedirect.com/search?qs=Natural%20Semantic%20Metalanguage
+* [sciencedirect.com/search?qs=Natural%20Semantic%20Metalanguage](https://www.sciencedirect.com/search?qs=Natural%20Semantic%20Metalanguage)
 
 
-* https://nsm-approach.net/
+* [nsm-approach.net/](https://nsm-approach.net/)
 
 
-* https://nsm-approach.net/archives/category/broad-topics/lexicography
+* [nsm-approach.net/archives/category/broad-topics/lexicography](https://nsm-approach.net/archives/category/broad-topics/lexicography)
 
 
-* https://b-ok.cc/s/cliff%20goddard
+* [b-ok.cc/s/cliff%20goddard](https://b-ok.cc/s/cliff%20goddard)
 
 
-* https://b-ok.cc/s/anna%20wierzbicka
+* [b-ok.cc/s/anna%20wierzbicka](https://b-ok.cc/s/anna%20wierzbicka)
 
 
-* https://www.sciencedirect.com/science/article/abs/pii/S0378216609000228
+* [sciencedirect.com/science/article/abs/pii/S0378216609000228](https://www.sciencedirect.com/science/article/abs/pii/S0378216609000228)
 
 
-* https://www.researchgate.net/search.Search.html?type=publication&query=Natural%20Semantic%20Metalanguage
+* [researchgate.net/search.Search.html?type=publication&query=Natural%20Semantic%20Metalanguage](https://www.researchgate.net/search.Search.html?type=publication&query=Natural%20Semantic%20Metalanguage)
 
 Studies in Ethnopragmatics, Cultural Semantics, and Intercultural Communication: Meaning and Culture
 
@@ -993,10 +993,10 @@ proverb classification scheme
 * [Amazon.com: Introduction to Paremiology: A Comprehensive Guide to Proverb Studies](https://www.amazon.com/Introduction-Paremiology-Comprehensive-Proverb-Studies/dp/311041015X)
 
 
-* https://en.m.wikipedia.org/wiki/Anna_T._Litovkina
+* [en.m.wikipedia.org/wiki/Anna_T._Litovkina](https://en.m.wikipedia.org/wiki/Anna_T._Litovkina)
 
 
-* https://sites.google.com/site/philologyroundtable/categories/language-units-in-text-and-discourse/communicativeclassificationofproverbs
+* [sites.google.com/site/philologyroundtable/categories/language-units-in-text-and-discourse/communicativeclassificationofproverbs](https://sites.google.com/site/philologyroundtable/categories/language-units-in-text-and-discourse/communicativeclassificationofproverbs)
 
 
 * [STUDY OF MACHINE TRANSLATION IN NLP SYSTEMS: NON COMPOSITIONAL IDIOMS AND PROVERBS](https://www.researchgate.net/publication/264286974_STUDY_OF_MACHINE_TRANSLATION_IN_NLP_SYSTEMS_NON_COMPOSITIONAL_IDIOMS_AND_PROVERBS)
@@ -1010,7 +1010,7 @@ proverb classification scheme
 Combine WordNet and NSM with my own syntax to create paremiological (ontology and semrel set) markup language
 
 
-* https://www.academia.edu/22245450/THE_METHODOLOGICAL_ASPECTS_OF_A_ROMANIAN_ENGLISH_CONTRASTIVE_COLLECTION_OF_FOOD_IDIOMS_AND_PROVERBS
+* [academia.edu/22245450/THE_METHODOLOGICAL_ASPECTS_OF_A_ROMANIAN_ENGLISH_CONTRASTIVE_COLLECTION_OF_FOOD_IDIOMS_AND_PROVERBS](https://www.academia.edu/22245450/THE_METHODOLOGICAL_ASPECTS_OF_A_ROMANIAN_ENGLISH_CONTRASTIVE_COLLECTION_OF_FOOD_IDIOMS_AND_PROVERBS)
 
 
 ## RLCard
@@ -1081,20 +1081,20 @@ Combine WordNet and NSM with my own syntax to create paremiological (ontology an
 ### References
 
 
-* https://github.com/datamllab/rlcard —> should contribute to as well
-* https://medium.com/applied-data-science/how-to-train-ai-agents-to-play-multiplayer-games-using-self-play-deep-reinforcement-learning-247d0b440717
-* https://github.com/davidADSP/SIMPLE
-* https://github.com/JaeHunRo/boardgame-rl
-* [https://juliareinforcementlearning.org/ReinforcementLearning.jl/](https://juliareinforcementlearning.org/ReinforcementLearning.jl/latest/)
-* https://juliareinforcementlearning.org/
-* https://github.com/JuliaReinforcementLearning
-* https://paperswithcode.com/task/board-games
+* [datamllab/rlcard](https://github.com/datamllab/rlcard) —> should contribute to as well
+* [medium.com/applied-data-science/how-to-train-ai-agents-to-play-multiplayer-games-using-self-play-deep-reinforcement-learning-247d0b440717](https://medium.com/applied-data-science/how-to-train-ai-agents-to-play-multiplayer-games-using-self-play-deep-reinforcement-learning-247d0b440717)
+* [davidADSP/SIMPLE](https://github.com/davidADSP/SIMPLE)
+* [JaeHunRo/boardgame-rl](https://github.com/JaeHunRo/boardgame-rl)
+* [juliareinforcementlearning.org/ReinforcementLearning.jl/](https://juliareinforcementlearning.org/ReinforcementLearning.jl/latest/)
+* [juliareinforcementlearning.org/](https://juliareinforcementlearning.org/)
+* [JuliaReinforcementLearning](https://github.com/JuliaReinforcementLearning)
+* [paperswithcode.com/task/board-games](https://paperswithcode.com/task/board-games)
 * [Reinforcement Learning for Board Games: The Temporal Difference Algorithm](http://www.gm.fh-koeln.de/ciopwebpub/Kone15c.d/TR-TDgame_EN.pdf)
 * [Deep Reinforcement Learning in Strategic Board Game Environments](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiAz57rnKr1AhXu7rsIHYUkAOMQFnoECAkQAQ&url=https%3A%2F%2Fhal.archives-ouvertes.fr%2Fhal-02124411%2Fdocument&usg=AOvVaw1NDASnrKIng5GH9xoS0AHh)
-* https://www.reddit.com/r/reinforcementlearning/comments/rpvlf7/what_are_the_best_practices_for_creating_a_rl/
-* https://www.reddit.com/r/reinforcementlearning/comments/i3367m/rl_for_turnbased_ai/
-* https://blog.tensorflow.org/2021/10/building-board-game-app-with-tensorflow.html
-* [Wizard RL Paper: https://ieeexplore.ieee.org/document/6664846](https://ieeexplore.ieee.org/document/6664846)
+* [r/reinforcementlearning/comments/rpvlf7/what_are_the_best_practices_for_creating_a_rl/](https://www.reddit.com/r/reinforcementlearning/comments/rpvlf7/what_are_the_best_practices_for_creating_a_rl/)
+* [r/reinforcementlearning/comments/i3367m/rl_for_turnbased_ai/](https://www.reddit.com/r/reinforcementlearning/comments/i3367m/rl_for_turnbased_ai/)
+* [blog.tensorflow.org/2021/10/building-board-game-app-with-tensorflow.html](https://blog.tensorflow.org/2021/10/building-board-game-app-with-tensorflow.html)
+* [Wizard RL Paper: [ieeexplore.ieee.org/document/6664846](https://ieeexplore.ieee.org/document/6664846)](https://ieeexplore.ieee.org/document/6664846](https://ieeexplore.ieee.org/document/6664846))
 * **[Recent Advances in Deep Reinforcement Learning Applications for Solving
 
 Partially Observable Markov Decision Processes (POMDP) Problems: Part 1 -
@@ -1102,7 +1102,7 @@ Partially Observable Markov Decision Processes (POMDP) Problems: Part 1 -
 
 Processing](https://www.semanticscholar.org/paper/Recent-Advances-in-Deep-Reinforcement-Learning-for-Xiang-Foo/0a50454605da864cc4e1ac949e7a43055be11717)**
 * [Improving Bidding and Playing Strategies in the Trick-Taking game Wizard using Deep Q-Networks](https://www.semanticscholar.org/paper/Improving-Bidding-and-Playing-Strategies-in-the-Schumacher-Pleines/c68ea00041d84f90c2a443292a98c34146941481)
-* https://ai.stackexchange.com/questions/17942/how-to-represent-a-state-in-a-card-game-environment-wizard
+* [ai.stackexchange.com/questions/17942/how-to-represent-a-state-in-a-card-game-environment-wizard](https://ai.stackexchange.com/questions/17942/how-to-represent-a-state-in-a-card-game-environment-wizard)
 * ?? [Towards Modern Card Games with Large-Scale Action Spaces Through Action Representation](https://arxiv.org/pdf/2206.12700.pdf)
 
 
@@ -1121,7 +1121,7 @@ Processing](https://www.semanticscholar.org/paper/Recent-Advances-in-Deep-Reinfo
     - betting policy: betting state → bet
     - playing policy: playing state → card
 * → how to learn? simultaneously? iteratively? (seems better)
-* https://www.semanticscholar.org/paper/Application-of-reinforcement-learning-to-the-card-Backhus-Nonaka/346bc4eaad1a89e84aa8cda08b623973ec0a2fb7
+* [semanticscholar.org/paper/Application-of-reinforcement-learning-to-the-card-Backhus-Nonaka/346bc4eaad1a89e84aa8cda08b623973ec0a2fb7](https://www.semanticscholar.org/paper/Application-of-reinforcement-learning-to-the-card-Backhus-Nonaka/346bc4eaad1a89e84aa8cda08b623973ec0a2fb7)
 * Combinatoric-probabilistic features:
 * Probability that each player can beat each card
 * Probability that each player wants to beat each card
@@ -1179,9 +1179,9 @@ Processing](https://www.semanticscholar.org/paper/Recent-Advances-in-Deep-Reinfo
 #### whist
 
 ##  Daily Prophet 🌱
-                * https://hackaday.com/2021/10/29/muggle-uses-e-paper-for-daily-prophet-replica/?utm_source=tldrnewsletter
-                * https://deeptronix.wordpress.com/2020/09/02/a-proper-harry-potter-newspaper-irl/
-                * https://github.com/deeptronix/dithering_halftoning
+                * [hackaday.com/2021/10/29/muggle-uses-e-paper-for-daily-prophet-replica/](https://hackaday.com/2021/10/29/muggle-uses-e-paper-for-daily-prophet-replica/)
+                * [deeptronix.wordpress.com/2020/09/02/a-proper-harry-potter-newspaper-irl/](https://deeptronix.wordpress.com/2020/09/02/a-proper-harry-potter-newspaper-irl/)
+                * [deeptronix/dithering_halftoning](https://github.com/deeptronix/dithering_halftoning)
 
 
     create an Anki extension 🌱
@@ -1203,7 +1203,7 @@ Processing](https://www.semanticscholar.org/paper/Recent-Advances-in-Deep-Reinfo
     create reader for texts with grammatical parsing and translation
 
     book "Philosophy of Proverbs" or "Proverbs and Ethics" → read on paremiology
-        * https://aclanthology.org/2021.emnlp-main.664.pdf
+        * [aclanthology.org/2021.emnlp-main.664.pdf](https://aclanthology.org/2021.emnlp-main.664.pdf)
 
     - [configs-and-scripts](https://github.com/yelircaasi/configs-and-scripts)
     - [rl-games](https://github.com/yelircaasi/rl-games)
@@ -1236,9 +1236,9 @@ Processing](https://www.semanticscholar.org/paper/Recent-Advances-in-Deep-Reinfo
     - [nothing-but-numpy](https://github.com/yelircaasi/nothing-but-numpy) (deleted - reactivate? first look at similar projects)
     - [yelircaasi.github.io](https://github.com/yelircaasi/yelircaasi.github.io)
     - [natural-language-processing](https://github.com/yelircaasi/natural-language-processing)
-    - [byu_econ_applied_machine_learning](https://github.com/yelircaasi/byu_econ_applied_machine_learning) → https://github.com/tfolkman/byu_econ_applied_machine_learning
+    - [byu_econ_applied_machine_learning](https://github.com/yelircaasi/byu_econ_applied_machine_learning) → [tfolkman/byu_econ_applied_machine_learning](https://github.com/tfolkman/byu_econ_applied_machine_learning)
     - [pltk](https://github.com/yelircaasi/pltk) → divide into smaller projects; see [README](http://README.md) in ~/Downloads/tmp_from_hank/repos/pltk
-    - [scikit-and-tensorflow-workbooks](https://github.com/yelircaasi/scikit-and-tensorflow-workbooks) → deleted; see https://github.com/bjpcjp/scikit-and-tensorflow-workbooks
+    - [scikit-and-tensorflow-workbooks](https://github.com/yelircaasi/scikit-and-tensorflow-workbooks) → deleted; see [bjpcjp/scikit-and-tensorflow-workbooks](https://github.com/bjpcjp/scikit-and-tensorflow-workbooks)
     - [lltk](https://github.com/yelircaasi/lltk) → port to Python 3 or
     - Directory of Notes - clean up, clean out
         - Favorites            - [ ]  [Your Projects - Overleaf](https://www.overleaf.com/project)            - [ ]  [Resumen de Drive](https://docs.google.com/spreadsheets/d/19eeTBMKWrGLmp5VjTYbqJB2EiltURuQMNR7TOwMvHh8/edit?usp=sharing)            - [ ]  [Betsy and iPhone](https://docs.google.com/spreadsheets/d/15SxjiP8gScdGW2ayp0YEUmdejTaMPzNx6C-L9nQGALc/edit?usp=sharing)            - [ ]  [Anki Deck Control Center](https://docs.google.com/spreadsheets/d/1Lzr3GcZ2fpCONyJkTht8G-Ehn415gB2as3wXOvGlLHU/edit?usp=sharing)            - [ ]  [Jornada](https://docs.google.com/document/d/1KkXQtsJNd2LhFRGPRrSYs0cO_5afTuIQtbRD4tDfRwk/edit)            - [ ]  [Recursos por idioma](https://docs.google.com/spreadsheets/d/1dzhICu3pdzn8pdR-Q_BeDq3mwBAf3KwPZb-KqY5_Log/edit?usp=sharing)            - [ ]  [Scratch](https://docs.google.com/spreadsheets/d/1R_ROr2OD94U8y6DtSUSDPsqCpu3p5n4JKh7TKV-Pam4/edit#gid=753172436)
@@ -1384,15 +1384,15 @@ IDEA: AI-driven tool to generate or check git commit messages on the basis of th
 
 Deskewer
 * [Write your own Linux Keylogger.](https://www.youtube.com/watch?v=89k3llI51fU)
-* https://www.libsdl.org/release/SDL-1.2.15/docs/html/guideinputkeyboard.html
-* https://www.nist.gov/itl/ssd/software-quality-group/safer-languages
+* [libsdl.org/release/SDL-1.2.15/docs/html/guideinputkeyboard.html](https://www.libsdl.org/release/SDL-1.2.15/docs/html/guideinputkeyboard.html)
+* [nist.gov/itl/ssd/software-quality-group/safer-languages](https://www.nist.gov/itl/ssd/software-quality-group/safer-languages)
 
 
 ## my projects
-* https://www.makeuseof.com/set-up-raspberry-pi-as-server/
-* https://www.toptal.com/raspberry-pi/how-to-turn-your-raspberry-pi-into-a-development-server
-* https://www.toptal.com/raspberry-pi/how-to-turn-your-raspberry-pi-into-a-development-server
-* https://json-schema.org/understanding-json-schema/structuring
+* [makeuseof.com/set-up-raspberry-pi-as-server/](https://www.makeuseof.com/set-up-raspberry-pi-as-server/)
+* [toptal.com/raspberry-pi/how-to-turn-your-raspberry-pi-into-a-development-server](https://www.toptal.com/raspberry-pi/how-to-turn-your-raspberry-pi-into-a-development-server)
+* [toptal.com/raspberry-pi/how-to-turn-your-raspberry-pi-into-a-development-server](https://www.toptal.com/raspberry-pi/how-to-turn-your-raspberry-pi-into-a-development-server)
+* [json-schema.org/understanding-json-schema/structuring](https://json-schema.org/understanding-json-schema/structuring)
 
     qutebrowser due to frozen teams:
 * [112:152:0100/000000.790507:ERROR:broker_posix.cc(46)] Received unexpected number of handles    * [112:152:0100/000000.791120:ERROR:broker_posix.cc(46)] Received unexpected number of handles
@@ -1404,39 +1404,39 @@ Deskewer
     Wie kann ich mich mehr politisch engagieren?
 
     Just re-write plt code in typescript/JavaScript to use a good highlighting library pre-html; use Perl for something else, like shell scripts
-* https://www.google.com/search?client=firefox-b-m&sca_esv=584934822&sxsrf=AM9HkKm9ojvgZM44drVwG0h7TGXNOfu28g%3A1700779676233&q=drop-down+library+ui+design+javascript&oq=drop-down+library+ui+design+javascript&aqs=heirloom-srp
+* [google.com/search?client=firefox-b-m&sca_esv=584934822&sxsrf=AM9HkKm9ojvgZM44drVwG0h7TGXNOfu28g%3A1700779676233&q=drop-down+library+ui+design+javascript&oq=drop-down+library+ui+design+javascript&aqs=heirloom-srp](https://www.google.com/search?client=firefox-b-m&sca_esv=584934822&sxsrf=AM9HkKm9ojvgZM44drVwG0h7TGXNOfu28g%3A1700779676233&q=drop-down+library+ui+design+javascript&oq=drop-down+library+ui+design+javascript&aqs=heirloom-srp)
 
     Install Ubuntu server 23.10 and use complete install script for i3, picom, etc. - then install Nix and home-manager
-* https://nix.dev/tutorials/nixos/installing-nixos-on-a-raspberry-pi.html
+* [nix.dev/tutorials/nixos/installing-nixos-on-a-raspberry-pi.html](https://nix.dev/tutorials/nixos/installing-nixos-on-a-raspberry-pi.html)
 
-    DON'T Use Raspberry Pis for Servers! https://www.youtube.com/watch?v=aKmKo_Ua7rQ&pp=ygUYbml4b3Mgb24gcmFzcGJlcnJ5IHBpIDQg
+    DON'T Use Raspberry Pis for Servers! [](https://www.youtube.com/watch?v=aKmKo_Ua7rQ&pp=ygUYbml4b3Mgb24gcmFzcGJlcnJ5IHBpIDQg)
 
     look into how to make aliases for different programming languages and projects
 
-    xdg-settings set default-web-browser firefox.desktop → make work on hank with flatpak, vs https://askubuntu.com/questions/16621/how-to-set-the-default-browser-from-the-command-line
-* https://karabiner-elements.pqrs.org/docs/json/ → see for ideas for Clavix format
-* https://github.com/manwar/perlweeklychallenge-club/tree/master - many languages
-* https://github.com/briandfoy/PerlPowerTools → for RosettaProjects
-* https://wpdatatables.com/javascript-table-library/
-* https://pencilandpaper.io/articles/ux-pattern-analysis-enterprise-data-tables/
-* https://www.smashingmagazine.com/2019/01/table-design-patterns-web/
-* https://medium.com/design-bridges/complex-tables-356826d11861
-* [https://www.google.com/search?q=web design select which columns and rows of table to show&ie=utf-8&oe=utf-8&client=firefox-b-m](https://www.google.com/search?q=web%20design%20select%20which%20columns%20and%20rows%20of%20table%20to%20show&ie=utf-8&oe=utf-8&client=firefox-b-m)
-* https://blog.logrocket.com/exploring-best-syntax-highlighting-libraries/
-* https://virola.io/articles/how-to-make-your-server-app-publicly-accessible
-* https://www.reddit.com/r/rust/comments/15xl4ew/inkjet_a_batteriesincluded_syntax_highlighting/
-* https://github.com/rdbo/sigma-linux
-* https://opensource.com/article/21/7/custom-raspberry-pi-image
+    xdg-settings set default-web-browser firefox.desktop → make work on hank with flatpak, vs [askubuntu.com/questions/16621/how-to-set-the-default-browser-from-the-command-line](https://askubuntu.com/questions/16621/how-to-set-the-default-browser-from-the-command-line)
+* [karabiner-elements.pqrs.org/docs/json/](https://karabiner-elements.pqrs.org/docs/json/) → see for ideas for Clavix format
+* [manwar/perlweeklychallenge-club/tree/master](https://github.com/manwar/perlweeklychallenge-club/tree/master) - many languages
+* [briandfoy/PerlPowerTools](https://github.com/briandfoy/PerlPowerTools) → for RosettaProjects
+* [wpdatatables.com/javascript-table-library/](https://wpdatatables.com/javascript-table-library/)
+* [pencilandpaper.io/articles/ux-pattern-analysis-enterprise-data-tables/](https://pencilandpaper.io/articles/ux-pattern-analysis-enterprise-data-tables/)
+* [smashingmagazine.com/2019/01/table-design-patterns-web/](https://www.smashingmagazine.com/2019/01/table-design-patterns-web/)
+* [medium.com/design-bridges/complex-tables-356826d11861](https://medium.com/design-bridges/complex-tables-356826d11861)
+* [google.com/search?q=web design select which columns and rows of table to show&ie=utf-8&oe=utf-8&client=firefox-b-m](https://www.google.com/search?q=web%20design%20select%20which%20columns%20and%20rows%20of%20table%20to%20show&ie=utf-8&oe=utf-8&client=firefox-b-m)
+* [blog.logrocket.com/exploring-best-syntax-highlighting-libraries/](https://blog.logrocket.com/exploring-best-syntax-highlighting-libraries/)
+* [virola.io/articles/how-to-make-your-server-app-publicly-accessible](https://virola.io/articles/how-to-make-your-server-app-publicly-accessible)
+* [r/rust/comments/15xl4ew/inkjet_a_batteriesincluded_syntax_highlighting/](https://www.reddit.com/r/rust/comments/15xl4ew/inkjet_a_batteriesincluded_syntax_highlighting/)
+* [rdbo/sigma-linux](https://github.com/rdbo/sigma-linux)
+* [opensource.com/article/21/7/custom-raspberry-pi-image](https://opensource.com/article/21/7/custom-raspberry-pi-image)
 
-    HN Guix https://news.ycombinator.com/item?id=17083209
-* https://thiagowfx.github.io/2022/01/alpine-linux-on-raspberry-pi-diskless-mode-with-persistent-storage/
-* https://gitlab.com/raspi-alpine/builder
-* https://www.instructables.com/Booting-Raspberry-Pi-3-B-With-a-USB-Drive/
-* https://www.tomshardware.com/news/raspberry-pi-web-server,40174.html
-* https://github.com/macmpi/alpine-linux-headless-bootstrap
-* https://itsfoss.com/screenshot-login-screen-ubuntu-linux/
-* https://github.com/rdbo/sigma-linux
-* https://askubuntu.com/questions/1329599/dual-boot-two-linux-distributions-on-one-disk
+    HN Guix [news.ycombinator.com/item?id=17083209](https://news.ycombinator.com/item?id=17083209)
+* [thiagowfx.github.io/2022/01/alpine-linux-on-raspberry-pi-diskless-mode-with-persistent-storage/](https://thiagowfx.github.io/2022/01/alpine-linux-on-raspberry-pi-diskless-mode-with-persistent-storage/)
+* [gitlab.com/raspi-alpine/builder](https://gitlab.com/raspi-alpine/builder)
+* [instructables.com/Booting-Raspberry-Pi-3-B-With-a-USB-Drive/](https://www.instructables.com/Booting-Raspberry-Pi-3-B-With-a-USB-Drive/)
+* [tomshardware.com/news/raspberry-pi-web-server,40174.html](https://www.tomshardware.com/news/raspberry-pi-web-server,40174.html)
+* [macmpi/alpine-linux-headless-bootstrap](https://github.com/macmpi/alpine-linux-headless-bootstrap)
+* [itsfoss.com/screenshot-login-screen-ubuntu-linux/](https://itsfoss.com/screenshot-login-screen-ubuntu-linux/)
+* [rdbo/sigma-linux](https://github.com/rdbo/sigma-linux)
+* [askubuntu.com/questions/1329599/dual-boot-two-linux-distributions-on-one-disk](https://askubuntu.com/questions/1329599/dual-boot-two-linux-distributions-on-one-disk)
 
     next step: figure out how to ssh into my work computer -> good for planager access from phone, etc
 
@@ -1447,25 +1447,25 @@ Deskewer
     Look for software that can apply a complex (and continuous) color remapping to a PDF file, or patch my own!!!
 
     Re-write tree command to show view proportional to LoC or other metrics (tree + tokei, etc)
-* https://www.mypy-lang.org/ → make PR: roadmap on site not found
+* [mypy-lang.org/](https://www.mypy-lang.org/) → make PR: roadmap on site not found
 
     → use mypyc for planager? → compile with codon / mypyc / rewrite in cython and compile?
 
     Write Python script to parse poetry lockfile, query most recent version (pypi / [Github](https://stackoverflow.com/questions/76133390/how-to-use-github-api-to-retrieve-the-latest-version-of-a-package)) to identify which can be updated
-* https://braille-txt.github.io/
+* [braille-txt.github.io/](https://braille-txt.github.io/)
 
-    Fork terminal matrix video and use braille for an improved image → even unicode http://xahlee.info/comp/unicode_ascii_art.html
+    Fork terminal matrix video and use braille for an improved image → even unicode [xahlee.info/comp/unicode_ascii_art.html](http://xahlee.info/comp/unicode_ascii_art.html)
 
     → simple pixelwise regression → pixelwise regression weighted relative to edges? →
 
     write library for terminal art like ascii art, but with unicode!
 
-    → https://elpa.gnu.org/packages/ascii-art-to-unicode.html
+    → [elpa.gnu.org/packages/ascii-art-to-unicode.html](https://elpa.gnu.org/packages/ascii-art-to-unicode.html)
 
     Cool for images, but also for text → box lines and block characters, as well as curves
 
     Braille text art would also be cool → “brailletters” → write CLI in Nim, Zig, Vlang or something?
-* https://github.com/snyde875/ASCII-Art-Tool
+* [snyde875/ASCII-Art-Tool](https://github.com/snyde875/ASCII-Art-Tool)
 
     Re-write Matrix terminal to use braille and alternatively to use (a suitable set of) unicode characters
 
@@ -1486,7 +1486,7 @@ Deskewer
         find most predictive words (i.e. word pairs)
 
         Also negative aspect? -> words highly likely to be translated with another word should decrease certainty if it is not found
-* https://ugarit.ialigner.com/userProfile.php?userid=3721
-* https://ugarit.ialigner.com/about.php
-* https://huggingface.co/UGARIT
+* [ugarit.ialigner.com/userProfile.php?userid=3721](https://ugarit.ialigner.com/userProfile.php?userid=3721)
+* [ugarit.ialigner.com/about.php](https://ugarit.ialigner.com/about.php)
+* [huggingface.co/UGARIT](https://huggingface.co/UGARIT)
 * [Image Dithering: Eleven Algorithms and Source Code | tannerhelland.com](https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html)

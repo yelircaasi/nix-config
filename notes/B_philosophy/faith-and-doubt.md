@@ -73,7 +73,7 @@ While polygamy and racism belong in the Social Issues category as well, I have d
 
 * 3.3 Science
 
--Evolution and Creation: There is no way around the mountains of evidence for evolution by means of natural selection as proposed by Darwin and refined by biologists since. The evidence is to be found primarily in the fields of genetics, paleontology and the fossil record, anatomy, molecular biology, biogeography, embryology, and taxonomy, as well as direct observation. A brief overview of the evidence is given in Appendix X. I have found it to be even more convincing upon closer examination. There are very few who seriously engage with the ideas and evidence underlying the theory of evolution and do not acknowledge its validity. All of them, with no known exceptions, are motivated by religious fundamentalism. https://www.theguardian.com/science/political-science/2017/sep/05/questioning-evolution-is-neither-science-denial-nor-the-preserve-of-creationists
+-Evolution and Creation: There is no way around the mountains of evidence for evolution by means of natural selection as proposed by Darwin and refined by biologists since. The evidence is to be found primarily in the fields of genetics, paleontology and the fossil record, anatomy, molecular biology, biogeography, embryology, and taxonomy, as well as direct observation. A brief overview of the evidence is given in Appendix X. I have found it to be even more convincing upon closer examination. There are very few who seriously engage with the ideas and evidence underlying the theory of evolution and do not acknowledge its validity. All of them, with no known exceptions, are motivated by religious fundamentalism. [theguardian.com/science/political-science/2017/sep/05/questioning-evolution-is-neither-science-denial-nor-the-preserve-of-creationists](https://www.theguardian.com/science/political-science/2017/sep/05/questioning-evolution-is-neither-science-denial-nor-the-preserve-of-creationists)
 
 -Age of the Earth
 
@@ -211,7 +211,7 @@ Core, Supporting, and Policy Doctrines
 * 8.1 Common Faithful Narratives about Skeptics
 * 8.2 Common Skeptic Narratives about Believers
 
-10) Pride and Humility https://www.lds.org/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-develop-christlike-attributes?lang=eng
+10) Pride and Humility [lds.org/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-develop-christlike-attributes?lang=eng](https://www.lds.org/manual/preach-my-gospel-a-guide-to-missionary-service/how-do-i-develop-christlike-attributes?lang=eng)
 
 
 * 8.1 Defining Terms
@@ -289,14 +289,14 @@ To a skeptic, the most important form of humility is often what they might call 
 -Zoramites
 
 -
-* https://www.lds.org/general-conference/1985/04/from-such-turn-away?lang=eng
+* [lds.org/general-conference/1985/04/from-such-turn-away?lang=eng](https://www.lds.org/general-conference/1985/04/from-such-turn-away?lang=eng)
 
 
 * 10.3: Dealing with Continued Faith of Loved Ones
 * 10.4: Common Affronts from Believers and Stereotypes about Skeptics
 * 10.5: Common Affronts from Skeptics and Stereotypes about Believers
 
-13) Religion, Truth, and Belief https://www.youtube.com/watch?v=fJZ8ib93vSk
+13) Religion, Truth, and Belief [](https://www.youtube.com/watch?v=fJZ8ib93vSk)
 
 
 * 13.1 More than Objective Truth

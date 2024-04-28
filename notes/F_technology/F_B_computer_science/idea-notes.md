@@ -63,23 +63,23 @@
 
 
 ### Storage
-* https://stackoverflow.com/questions/3287003/three-ways-to-store-a-graph-in-memory-advantages-and-disadvantages
+* [stackoverflow.com/questions/3287003/three-ways-to-store-a-graph-in-memory-advantages-and-disadvantages](https://stackoverflow.com/questions/3287003/three-ways-to-store-a-graph-in-memory-advantages-and-disadvantages)
 
 
 ### Theory, esp. Semantics
-* https://en.wikipedia.org/wiki/Computational_semantics
-* https://libgen.is/search.php?req=Representation+and+Inference+for+Natural+Language+&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
-* https://libgen.is/search.php?req=Computing+Meaning%2C&open=0&res=25&view=simple&phrase=1&column=def
+* [en.wikipedia.org/wiki/Computational_semantics](https://en.wikipedia.org/wiki/Computational_semantics)
+* [libgen.is/search.php?req=Representation+and+Inference+for+Natural+Language+&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def](https://libgen.is/search.php?req=Representation+and+Inference+for+Natural+Language+&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+* [libgen.is/search.php?req=Computing+Meaning%2C&open=0&res=25&view=simple&phrase=1&column=def](https://libgen.is/search.php?req=Computing+Meaning%2C&open=0&res=25&view=simple&phrase=1&column=def)
 * [Minimal Recursion Semantics. An introduction](https://web.archive.org/web/20120717034844/http://lingo.stanford.edu/sag/papers/copestake.pdf)
-* https://libgen.is/search.php?req=Computational+Semantics+with+Functional+Programming&open=0&res=25&view=simple&phrase=1&column=def
+* [libgen.is/search.php?req=Computational+Semantics+with+Functional+Programming&open=0&res=25&view=simple&phrase=1&column=def](https://libgen.is/search.php?req=Computational+Semantics+with+Functional+Programming&open=0&res=25&view=simple&phrase=1&column=def)
 * [Developing a large semantically annotated corpus.](https://scholar.google.com/scholar?q=%22meaning+representation%22+%22computational+semantics%22+%22underspecification%22+%22anaphora%22+%22scope+resolution%22&btnG=&hl=en&as_sdt=0%2C47#)
 * [Computational lexical semantics](https://libgen.is/book/index.php?md5=3CAECF7E551F0710F438B8EF2D522AF0)
 * [Special Interest Group on Computational Semantics (SIGSEM)](http://www.sigsem.org/)
-* https://blog.wolfram.com/2016/12/22/the-semantic-representation-of-pure-mathematics/
+* [blog.wolfram.com/2016/12/22/the-semantic-representation-of-pure-mathematics/](https://blog.wolfram.com/2016/12/22/the-semantic-representation-of-pure-mathematics/)
 * [Semantic analysis for Corpus Linguistics](https://www.aclweb.org/anthology/J93-2005.pdf)
 * semantical+analysis+pdf
-* [https://en.wikipedia.org/wiki/Semantic_analysis_(linguistics)](https://en.wikipedia.org/wiki/Semantic_analysis_(linguistics))
-* https://en.wikipedia.org/wiki/Semantic_feature
+* [en.wikipedia.org/wiki/Semantic_analysis_(linguistics)](https://en.wikipedia.org/wiki/Semantic_analysis_(linguistics))
+* [en.wikipedia.org/wiki/Semantic_feature](https://en.wikipedia.org/wiki/Semantic_feature)
     semantische universalien
     semantic universals
     cross-lingual semantic language
@@ -89,7 +89,7 @@
 
 ### Resources / References
 * [A Multilingual Dictionary of Maxims and Proverbs](https://www.cambridgescholars.com/a-multilingual-dictionary-of-maxims-and-proverbs)
-* https://wordnet.princeton.edu/
+* [wordnet.princeton.edu/](https://wordnet.princeton.edu/)
 * [COMPARATIVE STRUCTURAL-SEMANTIC ANALYSIS OF ENGLISH AND RUSSIAN PROVERBS EXPRESSING THE MORAL-ETHIC SENSE DOMINANT “STUDYING, KNOWLEDGE, WISDOM”](https://www.researchgate.net/publication/325662325_COMPARATIVE_STRUCTURAL-SEMANTIC_ANALYSIS_OF_ENGLISH_AND_RUSSIAN_PROVERBS_EXPRESSING_THE_MORAL-ETHIC_SENSE_DOMINANT_STUDYING_KNOWLEDGE_WISDOM)
     Основы структурной паремиологии
     Провербиальное пространство / Паремиологические исследования
@@ -105,7 +105,7 @@
     Сопоставительный анализ фразеологических единиц.-Казань
     Русские и английские пословицы как культурологические единицы
     Смыслопорождение в языке и общественные инновации
-* https://wordnet.princeton.edu/
+* [wordnet.princeton.edu/](https://wordnet.princeton.edu/)
 * [How Proverbs Mean: Semantic Studies in English Proverbs](https://books.google.de/books?id=mXAFiNGsJqgC&pg=PA3&lpg=PA3&dq=semantic+representations+of+proverbs&source=bl&ots=la_7uFuFet&sig=ACfU3U0Kz5hnaLdfR0O2WEYGee-00ZzwWQ&hl=ru&sa=X&ved=2ahUKEwicw__W26nnAhXB6aQKHWgQA_QQ6AEwAXoECAkQAQ#v=onepage&q=semantic%20representations%20of%20proverbs&f=false)
 * [Idiomatic Creavity (Andreas Langlotz)](https://books.google.de/books?id=YpfYSjNfCn4C&pg=PT64&lpg=PT64&dq=semantic+representations+of+proverbs&source=bl&ots=hj-91ymt0G&sig=ACfU3U13vVm-wgAC4KXDB4t-JVph0v_e5Q&hl=ru&sa=X&ved=2ahUKEwicw__W26nnAhXB6aQKHWgQA_QQ6AEwCXoECAgQAQ#v=onepage&q=semantic%20representations%20of%20proverbs&f=false)
 * [Translation and Relevance: Cognition and Context](https://books.google.de/books?id=KsoJBAAAQBAJ&pg=PT182&lpg=PT182&dq=semantic+representations+of+proverbs&source=bl&ots=t5NZeIOcFa&sig=ACfU3U2AU_YwJ0hEHNJenhNHJkVh4_404g&hl=ru&sa=X&ved=2ahUKEwicw__W26nnAhXB6aQKHWgQA_QQ6AEwBXoECAoQAQ#v=onepage&q=semantic%20representations%20of%20proverbs&f=false)
@@ -180,17 +180,17 @@
      - [ ] create data structure for dictionary
      - [ ] put into graph
 * [A survey of cross-lingual word embedding models](https://ruder.io/cross-lingual-embeddings/)
-* http://www.ithkuil.net/
+* [ithkuil.net/](http://www.ithkuil.net/)
 * Research: use the NSM-based non-circular dictionary to identify related word embeddings; extract certain aspects
-* https://paperswithcode.com/task/topological-data-analysis
-* https://b-ok.cc/s/homology
+* [paperswithcode.com/task/topological-data-analysis](https://paperswithcode.com/task/topological-data-analysis)
+* [b-ok.cc/s/homology](https://b-ok.cc/s/homology)
      * [Séminaire informel - Introduction à l'homologie persistante](https://www.youtube.com/watch?v=uDba3kV3Sf0&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=188&t=106s)
 * [Séminaire informel - Introduction à l'homologie persistante](https://www.youtube.com/watch?v=uDba3kV3Sf0&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=44&t=106s)
 * topological data analysis
 * [Topological Data Analysis in Information Space](https://www.researchgate.net/publication/331916154_Topological_Data_Analysis_in_Information_Space)
 * [Topos](https://www.youtube.com/user/youdsp)
 * geometry of word embeddings
-* https://en.wikipedia.org/wiki/Topological_data_analysis
+* [en.wikipedia.org/wiki/Topological_data_analysis](https://en.wikipedia.org/wiki/Topological_data_analysis)
 
 
 ### [*Topological Data Analysis for Machine Learning](https://bastian.rieck.me/outreach/ecml_pkdd_2020/)
@@ -215,16 +215,16 @@
 
 ### [**Persistent homology - Wikipedia](https://en.wikipedia.org/wiki/Persistent_homology)
 * [Topological data analysis - Wikipedia](https://en.wikipedia.org/wiki/Topological_data_analysis)
-* https://www.researchgate.net/profile/Sara_Scaramuccia/publication/310406546_Persistent_homology_a_step-by-step_introduction_for_newcomers/links/582c6a4808aef19cb81005b0/Persistent-homology-a-step-by-step-introduction-for-newcomers.pdf?origin=publication_detail
+* [researchgate.net/profile/Sara_Scaramuccia/publication/310406546_Persistent_homology_a_step-by-step_introduction_for_newcomers/links/582c6a4808aef19cb81005b0/Persistent-homology-a-step-by-step-introduction-for-newcomers.pdf?origin=publication_detail](https://www.researchgate.net/profile/Sara_Scaramuccia/publication/310406546_Persistent_homology_a_step-by-step_introduction_for_newcomers/links/582c6a4808aef19cb81005b0/Persistent-homology-a-step-by-step-introduction-for-newcomers.pdf?origin=publication_detail)
 * intro to persistent homology
 * introduction to cw complexes
 * [Topology and Groups](http://www.homepages.ucl.ac.uk/~ucahjde/tg/html/index.html#index)
 * [CW](http://www.homepages.ucl.ac.uk/~ucahjde/tg/html/cw-01.html)
-* https://www.math.upenn.edu/~ghrist/preprints/HAD.pdf
-* https://www.semanticscholar.org/paper/Homological-algebra-and-data-Ghrist/3d03742173d4fb5ce5bff217264c708e417bf626
-* http://pi.math.cornell.edu/~web6350/7400-notes_Homological_Algebra.pdf
-* https://bookstore.ams.org/cdn-1595319758871/pcms-25/~~FreeAttachments/pcms-25-toc.pdf
-* https://www.youtube.com/playlist?list=PLP8iPy9hna6Tl2UHTrm4jnIYrLkIcAROR
+* [math.upenn.edu/~ghrist/preprints/HAD.pdf](https://www.math.upenn.edu/~ghrist/preprints/HAD.pdf)
+* [semanticscholar.org/paper/Homological-algebra-and-data-Ghrist/3d03742173d4fb5ce5bff217264c708e417bf626](https://www.semanticscholar.org/paper/Homological-algebra-and-data-Ghrist/3d03742173d4fb5ce5bff217264c708e417bf626)
+* [pi.math.cornell.edu/~web6350/7400-notes_Homological_Algebra.pdf](http://pi.math.cornell.edu/~web6350/7400-notes_Homological_Algebra.pdf)
+* [bookstore.ams.org/cdn-1595319758871/pcms-25/~~FreeAttachments/pcms-25-toc.pdf](https://bookstore.ams.org/cdn-1595319758871/pcms-25/~~FreeAttachments/pcms-25-toc.pdf)
+* [](https://www.youtube.com/playlist?list=PLP8iPy9hna6Tl2UHTrm4jnIYrLkIcAROR)
 * [Séminaire informel - Introduction à l'homologie persistante](https://youtu.be/uDba3kV3Sf0)
 * [4.01 CW complexes](https://youtu.be/XWg4LVbmm3M)
 * [Topologie Algébrique II : Homologie, la théorie](https://youtu.be/Ws4bjDJoARo)
@@ -234,31 +234,31 @@
 * [Topological Surfaces](https://www.cis.upenn.edu/~jean/gbooks/surftop.html)
 * search: topological data analysis in Julia
   ... and Word Embeddings
-* https://arxiv.org/abs/1906.09068
+* [arxiv.org/abs/1906.09068](https://arxiv.org/abs/1906.09068)
 * [A Novel Method of Extracting Topological Features from Word Embeddings](https://arxiv.org/abs/2003.13074)
-* https://arxiv.org/abs/1705.08488
-* https://www.aclweb.org/anthology/W19-4722.pdf
-* https://pdfs.semanticscholar.org/df4b/7954a9f661ad89061c3b63b006db2517e564.pdf
-* https://arxiv.org/abs/1507.01127
-* https://arxiv.org/abs/1907.02423
-* https://www.sciencedirect.com/science/article/pii/S0020025519306425
-* https://www.nature.com/articles/s41586-019-1335-8
-* https://ieeexplore.ieee.org/abstract/document/8089444?casa_token=RKRdAlGzH3UAAAAA:XcNvFHemchXfKMn4xwU_JlD0plXJvo7t0C_nUqfSx0uVFif_W5NAc9NJRYpVX9Aqmd8i7UgoNA
-* https://arxiv.org/abs/2003.13138
+* [arxiv.org/abs/1705.08488](https://arxiv.org/abs/1705.08488)
+* [aclweb.org/anthology/W19-4722.pdf](https://www.aclweb.org/anthology/W19-4722.pdf)
+* [pdfs.semanticscholar.org/df4b/7954a9f661ad89061c3b63b006db2517e564.pdf](https://pdfs.semanticscholar.org/df4b/7954a9f661ad89061c3b63b006db2517e564.pdf)
+* [arxiv.org/abs/1507.01127](https://arxiv.org/abs/1507.01127)
+* [arxiv.org/abs/1907.02423](https://arxiv.org/abs/1907.02423)
+* [sciencedirect.com/science/article/pii/S0020025519306425](https://www.sciencedirect.com/science/article/pii/S0020025519306425)
+* [nature.com/articles/s41586-019-1335-8](https://www.nature.com/articles/s41586-019-1335-8)
+* [ieeexplore.ieee.org/abstract/document/8089444?casa_token=RKRdAlGzH3UAAAAA:XcNvFHemchXfKMn4xwU_JlD0plXJvo7t0C_nUqfSx0uVFif_W5NAc9NJRYpVX9Aqmd8i7UgoNA](https://ieeexplore.ieee.org/abstract/document/8089444?casa_token=RKRdAlGzH3UAAAAA:XcNvFHemchXfKMn4xwU_JlD0plXJvo7t0C_nUqfSx0uVFif_W5NAc9NJRYpVX9Aqmd8i7UgoNA)
+* [arxiv.org/abs/2003.13138](https://arxiv.org/abs/2003.13138)
 * [Meshes.jl](https://discourse.julialang.org/t/ann-announcing-meshes-jl/53973)
 
 
 ### Miscellaneous
-* Opinion Dynamics on Discourse Sheaves https://twitter.com/robertghrist/status/1265451863006216202
+* Opinion Dynamics on Discourse Sheaves [twitter.com/robertghrist/status/1265451863006216202](https://twitter.com/robertghrist/status/1265451863006216202)
 * [> Fodor Concept 1](https://en.wikipedia.org/wiki/Language_of_thought_hypothesis)
 * [> Fodor Conept 2](https://en.wikipedia.org/wiki/Modularity_of_mind#Fodor's_Modularity_of_Mind)
 * [USL- Principia Cybernetica](http://pespmc1.vub.ac.be/UNSEMLAN.html)
-* https://en.wikipedia.org/wiki/Semantic_primes
+* [en.wikipedia.org/wiki/Semantic_primes](https://en.wikipedia.org/wiki/Semantic_primes)
 * [Introduction - Semantic Universals and Universal Semantics](https://epub.ub.uni-muenchen.de/5146/1/5146.pdf)
 * [Slides - Semantic Universals](http://wwwhomes.uni-bielefeld.de/sgramley/Semantic%20Universals.pdf)
-* https://en.wikipedia.org/wiki/Natural_semantic_metalanguage
-* https://www.linguisticsociety.org/resource/language-and-thought
-* https://www.inovatiasociala.ro/en/on-the-relationship-between-language-and-thought/
+* [en.wikipedia.org/wiki/Natural_semantic_metalanguage](https://en.wikipedia.org/wiki/Natural_semantic_metalanguage)
+* [linguisticsociety.org/resource/language-and-thought](https://www.linguisticsociety.org/resource/language-and-thought)
+* [inovatiasociala.ro/en/on-the-relationship-between-language-and-thought/](https://www.inovatiasociala.ro/en/on-the-relationship-between-language-and-thought/)
 * [Semantically-Rich Human-Aided MAchine Translation](https://www.aclweb.org/anthology/W05-0310.pdf)
 * [Semantics for Probabilistic Programming](https://ieeexplore.ieee.org/abstract/document/8576406)
 * [Semantic Analysis Based on Linguistics and Ontological Resources](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.363.1937&rep=rep1&type=pdf)
@@ -267,8 +267,8 @@
 * [** NSM Chapter](https://libgen.is/search.php?req=Studies+in+Ethnopragmatics%2C+Cultural+Semantics&open=0&res=25&view=simple&phrase=1&column=def)
 * [The Semantic Sphere 1: Computation, Cognition, and Information Economy](https://books.google.de/books?hl=ru&lr=&id=UuQDNOmMvxUC&oi=fnd&pg=PT8&dq=semantic+metalanguages+in+deep+learning&ots=tk7QOdV8gk&sig=-8hWctNgkS1QKkGGP4NWfQDjEF8&redir_esc=y#v=onepage&q&f=false)
 * A Brief Introduction to the Natural Semantic Metalanguage Approach (see Studies in Ethnopragmatics, Cultural Semantics, and Intercultural Communication on Drive)
-* https://libgen.is/search.php?req=Wierzbicka&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
-* https://en.wikipedia.org/wiki/Semantic_primes#A_universal_syntax_of_meaning
+* [libgen.is/search.php?req=Wierzbicka&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def](https://libgen.is/search.php?req=Wierzbicka&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+* [en.wikipedia.org/wiki/Semantic_primes#A_universal_syntax_of_meaning](https://en.wikipedia.org/wiki/Semantic_primes#A_universal_syntax_of_meaning)
 * key set of components of ideas (elements of thought)
 * explore semantic hierarchies (& their cross-lingual variation -> what remains constant?)
 * [Analysis of Word Embeddings and Sequence Features for Clinical Information Extraction](https://www.aclweb.org/anthology/U15-1003.pdf)
@@ -277,7 +277,7 @@
 * Which papers already look into what individual dimensions mean? What have they done, and how do they do it?
 * [Semantics - Meaning Representation in NLP](http://www.bowdoin.edu/~allen/nlp/nlp6.html)
 * [What is the future of computational journalism? | School of Engineering](https://engineering.stanford.edu/magazine/article/what-future-computational-journalism)
-* https://en.wikipedia.org/wiki/Who%27s_Bigger%3F
+* [en.wikipedia.org/wiki/Who%27s_Bigger%3F](https://en.wikipedia.org/wiki/Who%27s_Bigger%3F)
 * [Glue semantics - Wikipedia](https://en.wikipedia.org/wiki/Glue_semantics)
 * [Glue Semantics Bibliography](https://www1.essex.ac.uk/linguistics/external/LFG/lfg-glue/GlueBibliography.html)
 * Martin Rosvall and Carl T. Bergstrom
@@ -290,7 +290,7 @@
 * semantic universals
 * [Sprachtypologie Und Sprachliche Universalien/Language Typology and Language Universals: Ein Internationales Handbuch/an International Handbook (Teilband, 1)](https://libgen.is/book/index.php?md5=414C8F04AE33037721C5C44AF305368F)
 * [Semantic language models with deep neural networks - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0885230815300309)
-* http://www.qualitative-research.net/index.php/fqs/article/view/2580/4004
+* [qualitative-research.net/index.php/fqs/article/view/2580/4004](http://www.qualitative-research.net/index.php/fqs/article/view/2580/4004)
 * All files starting with "Semantic Representation"
 * [A graph model for words and their meanings](https://elib.uni-stuttgart.de/handle/11682/2618)
 * topology of word embeddings
@@ -316,8 +316,8 @@
 
 
 ### [*Visualizing and Measuring the Geometry of BERT](https://arxiv.org/pdf/1906.02715.pdf)
-* https://scholar.google.com/scholar?hl=ru&as_sdt=0%2C5&q=word+embeddings&btnG=
-* https://scholar.google.com/scholar?hl=ru&as_sdt=0%2C5&q=word2vec&btnG=
+* [scholar.google.com/scholar?hl=ru&as_sdt=0%2C5&q=word+embeddings&btnG=](https://scholar.google.com/scholar?hl=ru&as_sdt=0%2C5&q=word+embeddings&btnG=)
+* [scholar.google.com/scholar?hl=ru&as_sdt=0%2C5&q=word2vec&btnG=](https://scholar.google.com/scholar?hl=ru&as_sdt=0%2C5&q=word2vec&btnG=)
 * Research idea: Word2Vec across different languages (cross- or multi-lingual embeddings) -> which aspects of matrix theory to use?
 * [A Simplified Topological Representation of Text for Local and Global Context](https://www.southampton.ac.uk/~kf2u17/webfiles/conferences/Sami-acmmm17.pdf)
 * word embeddings and universal semantic metalanguage
@@ -325,7 +325,7 @@
 * semantic embeddings and universal semantic metalanguage
 * [PCA on word2vec embeddings](https://stackoverflow.com/questions/48019843/pca-on-word2vec-embeddings/53110437#53110437)
 * → potential applications of non-circular dictionary
-* https://en.wikipedia.org/wiki/Natural_semantic_metalanguage
+* [en.wikipedia.org/wiki/Natural_semantic_metalanguage](https://en.wikipedia.org/wiki/Natural_semantic_metalanguage)
 * Applications of reinforcement learning to word embeddings (& representations in general)
 * → potential applications of thesauri to word embeddings
 * [FCA](https://en.wikipedia.org/wiki/Formal_concept_analysis)
@@ -359,7 +359,7 @@
 * $$$ [Language of thought hypothesis - Wikipedia](https://en.wikipedia.org/wiki/Language_of_thought_hypothesis)
 * semantic atoms and word embeddings
 * [A Probabilistic Generative Model of Linguistic Typology](https://arxiv.org/pdf/1903.10950.pdf)
-* https://scholar.google.com/scholar?hl=ru&as_sdt=0%2C5&q=concept+embeddings&btnG=
+* [scholar.google.com/scholar?hl=ru&as_sdt=0%2C5&q=concept+embeddings&btnG=](https://scholar.google.com/scholar?hl=ru&as_sdt=0%2C5&q=concept+embeddings&btnG=)
 * Thesis idea? Improving the Interpretability of neural networks using semantic metalanguage.
 * the+language+of+thought+in+computational+linguistics
 * embedding unfamiliar proper nouns for neural NER applications
@@ -368,10 +368,10 @@
 * semantic "metalanguage" and deep learning
 * [Library Genesis NSM](https://libgen.is/search.php?req=meaning+and+universal+grammar&open=0&res=25&view=simple&phrase=1&column=def)
 * [Semantic primes](https://intranet.secure.griffith.edu.au/schools-departments/natural-semantic-metalanguage/what-is-nsm/semantic-primes)
-* https://b-ok.cc/s/Семантика
-* https://b-ok.cc/s/Semantik?order=year
+* [b-ok.cc/s/Семантика](https://b-ok.cc/s/Семантика)
+* [b-ok.cc/s/Semantik?order=year](https://b-ok.cc/s/Semantik?order=year)
 * semantic universals
-* https://b-ok.cc/s/Language%20Typology%20and%20Language%20Universals
+* [b-ok.cc/s/Language%20Typology%20and%20Language%20Universals](https://b-ok.cc/s/Language%20Typology%20and%20Language%20Universals)
 * [Language Typology and Language Universals / Sprachtypologie und sprachliche ... - Google Libri](https://books.google.de/books?id=7FMONqu1TX4C&pg=PA26&lpg=PA26&dq=indivisible+semantic+elements&source=bl&ots=7I3y_DtCx8&sig=ACfU3U2J6V3fei7cZFWK2aAbp6aZoZXsLg&hl=it&sa=X&ved=2ahUKEwiMxMq1srTnAhVQ3qQKHcfwD60Q6AEwDXoECAIQAQ#v=onepage&q=indivisible%20semantic%20elements&f=false)
 * [Modeling Language Variation and Universals: A Survey on Typological Linguistics for Natural Language Processing](https://arxiv.org/pdf/1807.00914.pdf)
 * [PsyArXiv Preprints | Topology and Geometry for Small Sample Sizes: An Application to Research on the Profoundly Gifted](https://psyarxiv.com/mknpj/)
@@ -383,29 +383,29 @@
 * multilingual+wordnet
 * [NSM + LDOCE: A Non-Circular Dictionary of English | International Journal of Lexicography | Oxford Academic](https://academic.oup.com/ijl/article/24/2/226/952719)
 * [citing Bullock: NSM+ LDOCE: A non-circular dictionary of English](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1881948628656335124&as_sdt=5)
-* https://libgen.is/search.php?req=Cliff+Goddard&column=author
-* https://learnthesewordsfirst.com/about/research-behind-the-dictionary.html
-* http://glossword.biz/
+* [libgen.is/search.php?req=Cliff+Goddard&column=author](https://libgen.is/search.php?req=Cliff+Goddard&column=author)
+* [learnthesewordsfirst.com/about/research-behind-the-dictionary.html](https://learnthesewordsfirst.com/about/research-behind-the-dictionary.html)
+* [glossword.biz/](http://glossword.biz/)
 * search: 63 semantic concepts
 * [word2vec and semantic primes](https://scholar.google.de/scholar?q=word2vec+and+semantic+primes&hl=it&as_sdt=0&as_vis=1&oi=scholart)
 * [Combinatoric Properties of Natural Semantic Metalanguage Expressions in Lao](http://pubman.mpdl.mpg.de/pubman/item/escidoc:58041/component/escidoc:218036/Enfield_2002_Combinatoric+properties+of+natural+semantic+metalanguage+expressions+in+Lao.pdf)
 * [Improving the Compositionality of Word Embeddings](https://thijs.ai/papers/scheepers-msc-thesis-2017-improving-compositionality-word-embeddings.pdf)
-* https://towardsdatascience.com/nuances-in-the-usage-of-word-embeddings-semantic-and-syntactic-relationships-780940fe28f
-* https://www.semanticscholar.org/paper/Semantic-primes%2C-semantic-molecules%2C-semantic-Key-Goddard/dc2549ee0eb697b4311db8dce953372cf724c6d0
+* [towardsdatascience.com/nuances-in-the-usage-of-word-embeddings-semantic-and-syntactic-relationships-780940fe28f](https://towardsdatascience.com/nuances-in-the-usage-of-word-embeddings-semantic-and-syntactic-relationships-780940fe28f)
+* [semanticscholar.org/paper/Semantic-primes%2C-semantic-molecules%2C-semantic-Key-Goddard/dc2549ee0eb697b4311db8dce953372cf724c6d0](https://www.semanticscholar.org/paper/Semantic-primes%2C-semantic-molecules%2C-semantic-Key-Goddard/dc2549ee0eb697b4311db8dce953372cf724c6d0)
 * [Semantic primes - Wikipedia](https://en.wikipedia.org/wiki/Semantic_primes)
 * [Natural semantic metalanguage - Wikipedia](https://en.wikipedia.org/wiki/Natural_semantic_metalanguage)
-* https://intranet.secure.griffith.edu.au/schools-departments/natural-semantic-metalanguage/what-is-nsm/semantic-primes
-* https://web.stanford.edu/~jurafsky/slp3/6.pdf
+* [intranet.secure.griffith.edu.au/schools-departments/natural-semantic-metalanguage/what-is-nsm/semantic-primes](https://intranet.secure.griffith.edu.au/schools-departments/natural-semantic-metalanguage/what-is-nsm/semantic-primes)
+* [web.stanford.edu/~jurafsky/slp3/6.pdf](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
 * word2vec+and+semantic+primes
-* https://libgen.is/search.php?req=Anna+Wierzbicka&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
+* [libgen.is/search.php?req=Anna+Wierzbicka&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def](https://libgen.is/search.php?req=Anna+Wierzbicka&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 * Conceptual Primes
 * [Semantic_decomposition_(natural_language_processing)](https://en.wikipedia.org/wiki/Semantic_decomposition_(natural_language_processing))
 * conceptual+primes+and+nlp
-* https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%B6%D0%B1%D0%B8%D1%86%D0%BA%D0%B0%D1%8F,_%D0%90%D0%BD%D0%BD%D0%B0
-* https://www.youtube.com/results?search_query=principal+component+analysis
+* [ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%B6%D0%B1%D0%B8%D1%86%D0%BA%D0%B0%D1%8F,_%D0%90%D0%BD%D0%BD%D0%B0](https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%B6%D0%B1%D0%B8%D1%86%D0%BA%D0%B0%D1%8F,_%D0%90%D0%BD%D0%BD%D0%B0)
+* [](https://www.youtube.com/results?search_query=principal+component+analysis)
 * [Rayleigh_quotient](https://en.wikipedia.org/wiki/Rayleigh_quotient)
-* https://people.math.osu.edu/costin.10/5102/Rayleigh%20quotient.pdf
-* https://de.wikipedia.org/wiki/Hauptkomponentenanalyse
+* [people.math.osu.edu/costin.10/5102/Rayleigh%20quotient.pdf](https://people.math.osu.edu/costin.10/5102/Rayleigh%20quotient.pdf)
+* [de.wikipedia.org/wiki/Hauptkomponentenanalyse](https://de.wikipedia.org/wiki/Hauptkomponentenanalyse)
 * The Compreno Semantic Model as an Integral Framework for a Multilingual Lexical Database
 
 
@@ -538,27 +538,27 @@
 
 
 * Tools:
-  * https://github.com/JuliaPlots/Makie.jl
-  * http://makie.juliaplots.org/dev/
-  * https://docs.juliaplots.org/latest/animations/
-  * https://docs.juliaplots.org/latest/graphrecipes/introduction/
-  * http://docs.juliaplots.org/latest/
+  * [JuliaPlots/Makie.jl](https://github.com/JuliaPlots/Makie.jl)
+  * [makie.juliaplots.org/dev/](http://makie.juliaplots.org/dev/)
+  * [docs.juliaplots.org/latest/animations/](https://docs.juliaplots.org/latest/animations/)
+  * [docs.juliaplots.org/latest/graphrecipes/introduction/](https://docs.juliaplots.org/latest/graphrecipes/introduction/)
+  * [docs.juliaplots.org/latest/](http://docs.juliaplots.org/latest/)
 * Ideologies:
-  * https://en.wikipedia.org/wiki/List_of_political_ideologies
+  * [en.wikipedia.org/wiki/List_of_political_ideologies](https://en.wikipedia.org/wiki/List_of_political_ideologies)
 * Thinkers
-  * https://en.wikipedia.org/wiki/List_of_political_philosophers
-  * https://thegreatthinkers.org/thinkers/
-  * https://en.wikipedia.org/wiki/Index_of_sociopolitical_thinkers
-  * https://blogs.lse.ac.uk/impactofsocialsciences/2016/05/12/what-are-the-most-cited-publications-in-the-social-sciences-according-to-google-scholar/
+  * [en.wikipedia.org/wiki/List_of_political_philosophers](https://en.wikipedia.org/wiki/List_of_political_philosophers)
+  * [thegreatthinkers.org/thinkers/](https://thegreatthinkers.org/thinkers/)
+  * [en.wikipedia.org/wiki/Index_of_sociopolitical_thinkers](https://en.wikipedia.org/wiki/Index_of_sociopolitical_thinkers)
+  * [blogs.lse.ac.uk/impactofsocialsciences/2016/05/12/what-are-the-most-cited-publications-in-the-social-sciences-according-to-google-scholar/](https://blogs.lse.ac.uk/impactofsocialsciences/2016/05/12/what-are-the-most-cited-publications-in-the-social-sciences-according-to-google-scholar/)
   * [()](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/political-science-400-with-citation-counts-by-cohort-gender-and-subfield/C1EDBF7220760F01A5C4A685DB3B3F44)
-  * https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:political_philosophy
-  * https://leiterreports.typepad.com/blog/2015/05/the-most-cited-living-philosophers-with-public-google-scholar-pages.html
-  * https://leiterreports.typepad.com/blog/2017/01/most-cited-anglophone-philosophy-books-published-since-wwii.html* https://duckduckgo.com/?q=core* https://duckduckgo.com/?q=core* https://duckduckgo.com/?q=core* https://duckduckgo.com/?q=ideological* https://webscience-journal.net/webscience/article/download/80/50* https://duckduckgo.com/?q=classification
+  * [scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:political_philosophy](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:political_philosophy)
+  * [leiterreports.typepad.com/blog/2015/05/the-most-cited-living-philosophers-with-public-google-scholar-pages.html](https://leiterreports.typepad.com/blog/2015/05/the-most-cited-living-philosophers-with-public-google-scholar-pages.html)
+  * [leiterreports.typepad.com/blog/2017/01/most-cited-anglophone-philosophy-books-published-since-wwii.html*](https://leiterreports.typepad.com/blog/2017/01/most-cited-anglophone-philosophy-books-published-since-wwii.html*) [duckduckgo.com/?q=core*](https://duckduckgo.com/?q=core*) [duckduckgo.com/?q=core*](https://duckduckgo.com/?q=core*) [duckduckgo.com/?q=core*](https://duckduckgo.com/?q=core*) [duckduckgo.com/?q=ideological*](https://duckduckgo.com/?q=ideological*) [webscience-journal.net/webscience/article/download/80/50*](https://webscience-journal.net/webscience/article/download/80/50*) [duckduckgo.com/?q=classification](https://duckduckgo.com/?q=classification)
 * PCA Issues
 
 
 ### NLP and Politics
-* http://connectedresearchers.com/online-tools-for-researchers/
+* [connectedresearchers.com/online-tools-for-researchers/](http://connectedresearchers.com/online-tools-for-researchers/)
 
 
 ### [**Sentiment Political Compass: A Data-driven Analysis of Online Newspapers regarding Political Orientation](https://www.aifb.kit.edu/images/e/e1/IPP2018_Falck.pdf)
@@ -582,31 +582,31 @@
 * [GoodNewsEveryone: A Corpus of News Headlines Annotated with Emotions, Semantic Roles, and Reader Perception](https://arxiv.org/pdf/1912.03184.pdf)
 * map of political networks
 * map of ideological networks
-* https://www.smrfoundation.org/2018/09/14/research-project-mapping-political-networks/
-* http://christianspreafico.altervista.org/PoliticalNetwork/indexPN.html
-* https://github.com/search?q=ideological+network
-* https://github.com/search?q=political+network
-* https://github.com/search?q=political+similarity
+* [smrfoundation.org/2018/09/14/research-project-mapping-political-networks/](https://www.smrfoundation.org/2018/09/14/research-project-mapping-political-networks/)
+* [christianspreafico.altervista.org/PoliticalNetwork/indexPN.html](http://christianspreafico.altervista.org/PoliticalNetwork/indexPN.html)
+* [search?q=ideological+network](https://github.com/search?q=ideological+network)
+* [search?q=political+network](https://github.com/search?q=political+network)
+* [search?q=political+similarity](https://github.com/search?q=political+similarity)
 * A Quantitative Political Spectrum and Forecasting of Social Evolution
 * Politometrics: Quantitative Models of Political Institutions (harddrive)
 * [Political Space Representations with Approval Data](https://repub.eur.nl/pub/111247)
 * [Evolutionary Political Economy: Content and Methods](https://mpra.ub.uni-muenchen.de/75447/1/MPRA_paper_75447.pdf)
-* https://www.reddit.com/r/PoliticalScience/search/?q=spectrum&restrict_sr=1
+* [r/PoliticalScience/search/?q=spectrum&restrict_sr=1](https://www.reddit.com/r/PoliticalScience/search/?q=spectrum&restrict_sr=1)
 * [4 humors (politics, quite good)](https://imgur.com/a/xBuWi)
 * [^ on Reddit](https://www.reddit.com/r/PoliticalScience/comments/63biqw/the_new_political_spectrum_hobby_horse_diagram/)
 * ideological+similarity
 * current+research+on+political+cluster+and+networks
 * [Already done?](https://manifesto-project.wzb.eu/)
-* https://www.reddit.com/r/PoliticalScience/comments/6yj547/is_there_an_authoritative_resource_classifying/
-* https://www.reddit.com/r/PoliticalScience/comments/5j7gaj/a_question_about_the_politcal_spectrum/
-* https://www.reddit.com/r/PoliticalScience/comments/6xn8r9/a_3_dimensional_political_compass/
-* https://www.politicalcompass.org/analysis2
-* https://www.politicalcompass.org/reading
+* [r/PoliticalScience/comments/6yj547/is_there_an_authoritative_resource_classifying/](https://www.reddit.com/r/PoliticalScience/comments/6yj547/is_there_an_authoritative_resource_classifying/)
+* [r/PoliticalScience/comments/5j7gaj/a_question_about_the_politcal_spectrum/](https://www.reddit.com/r/PoliticalScience/comments/5j7gaj/a_question_about_the_politcal_spectrum/)
+* [r/PoliticalScience/comments/6xn8r9/a_3_dimensional_political_compass/](https://www.reddit.com/r/PoliticalScience/comments/6xn8r9/a_3_dimensional_political_compass/)
+* [politicalcompass.org/analysis2](https://www.politicalcompass.org/analysis2)
+* [politicalcompass.org/reading](https://www.politicalcompass.org/reading)
 * Comparative Manifesto Project
      * [Moral Foundations of Political Discourse: Comparative Analysis of the Speech Records of the US Congress and the Japanese Diet](https://arxiv.org/pdf/1704.06903.pdf)
 * political landscape today
-* https://scholar.google.de/scholar?q=knowledge+discovery+in+the+political+domain
-* https://github.com/jakemsnyder/political-ideology-detection
+* [scholar.google.de/scholar?q=knowledge+discovery+in+the+political+domain](https://scholar.google.de/scholar?q=knowledge+discovery+in+the+political+domain)
+* [jakemsnyder/political-ideology-detection](https://github.com/jakemsnyder/political-ideology-detection)
 * Political space representations with approval data (/harddrive)
 * [Political space representations with approval data](https://dialnet.unirioja.es/servlet/articulo?codigo=5290872)
 * [Political Space Representations with Approval Data Supplementary Online Materials](https://www.researchgate.net/profile/Georg_Granic/publication/275209744_Political_Space_Representations_with_Approval_Data_Supplementary_Online_Materials/links/5534f8a20cf283a8f60c07bc/Political-Space-Representations-with-Approval-Data-Supplementary-Online-Materials.pdf)
@@ -654,8 +654,8 @@
 * [The Political Compass and Why Libertarianism is Not Right-Wing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3471899)
 * [Core Concept “Political Compass”. How Kitschelt’s Model of Liberal, Socialist, Libertarian and Conservative Orientations Can Fill the Ideology Gap in Civic Education](https://www.jsse.org/index.php/jsse/article/view/541)
 * [Dictionary of the History of Ideas](https://libgen.is/search.php?req=Dictionary+of+the+History+of+Ideas&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
-* https://en.wikipedia.org/wiki/History_of_ideas
-* https://scholar.google.com/scholar?hl=ru&as_sdt=0%2C5&q=political+spectrum&btnG=
+* [en.wikipedia.org/wiki/History_of_ideas](https://en.wikipedia.org/wiki/History_of_ideas)
+* [scholar.google.com/scholar?hl=ru&as_sdt=0%2C5&q=political+spectrum&btnG=](https://scholar.google.com/scholar?hl=ru&as_sdt=0%2C5&q=political+spectrum&btnG=)
 * [Parametrizing Brexit: mapping Twitter political space to parliamentary constituencies](https://www.tandfonline.com/doi/abs/10.1080/1369118X.2018.1433224?journalCode=rics20)
 * [Triangle Map](https://aquarusa.wordpress.com/tag/mapping-the-political-space/)
 * [Political circle with 4 areas](https://aquarusa.wordpress.com/tag/art-and-politics/)
@@ -679,9 +679,9 @@
 * [Deep learning with graph-structured representations](https://pure.uva.nl/ws/files/46900201/Thesis.pdf) (donloaded)
 * [Sciences humaines - Dossier: Les grandes idées politiques](https://www.scienceshumaines.com/couleurs-politiques_fr_36158.html)
 * file:///Users/iriley/Downloads/harddrive/Kernel-based%20Data%20Fusion%20for%20Machine%20Learning.%20Methods%20and%20Applications%20in%20Bioinformatics%20and%20Text%20Mining.pdf
-* http://iss.uni-saarland.de/workspace/documents/ontology-based-natural-language-processing-for-in-store-shopping-situations.pdf
-* https://protege.stanford.edu/publications/ontology_development/ontology101-noy-mcguinness.html
-* https://silviasevilla.wordpress.com/2006/12/19/ontologies-and-nlp/
+* [iss.uni-saarland.de/workspace/documents/ontology-based-natural-language-processing-for-in-store-shopping-situations.pdf](http://iss.uni-saarland.de/workspace/documents/ontology-based-natural-language-processing-for-in-store-shopping-situations.pdf)
+* [protege.stanford.edu/publications/ontology_development/ontology101-noy-mcguinness.html](https://protege.stanford.edu/publications/ontology_development/ontology101-noy-mcguinness.html)
+* [silviasevilla.wordpress.com/2006/12/19/ontologies-and-nlp/](https://silviasevilla.wordpress.com/2006/12/19/ontologies-and-nlp/)
 * CORDIS Project
 * [Ontology_learning](https://en.wikipedia.org/wiki/Ontology_learning)
 * [Political Bias Analysis](https://cs224d.stanford.edu/reports/MisraBasak.pdf)
@@ -689,8 +689,8 @@
 * Neural Language Models for the Multilingual, Transcultural, and Multimodal Semantic Web
 * [Measuring Ideological Proportions in Political Speeches](https://homes.cs.washington.edu/~nasmith/papers/sim+acree+gross+smith.emnlp13.pdf)
 * [Text Classifiers for Political Ideologies](https://nlp.stanford.edu/courses/cs224n/2009/fp/7.pdf)
-* https://medium.com/@jon.reynolds30/comparing-classification-models-using-lending-clubs-peer-toloan-data-615153db2124
-* https://monkeylearn.com/text-classification/
+* [medium.com/@jon.reynolds30/comparing-classification-models-using-lending-clubs-peer-toloan-data-615153db2124](https://medium.com/@jon.reynolds30/comparing-classification-models-using-lending-clubs-peer-toloan-data-615153db2124)
+* [monkeylearn.com/text-classification/](https://monkeylearn.com/text-classification/)
 * [Actionable and Political Text Classification using Word Embeddings and LSTM](https://sentic.net/wisdom2016rao.pdf)
 * [Sentiment Analysis of Political Tweets: Towards an Accurate Classifier](https://www.aclweb.org/anthology/W13-1106.pdf)
 * [Towards the Automatic Classification of Speech Subjects in the Danish Parliament Corpus](http://ceur-ws.org/Vol-2364/15_paper.pdf)
@@ -698,7 +698,7 @@
 * [Detecting Dutch Political Tweets: A Classifier based on Voting System using Supervised Learning](https://www.scitepress.org/Papers/2018/65920/65920.pdf)
 * [Political Ideology Detection Using Recursive Neural Networks](https://www.aclweb.org/anthology/P14-1105.pdf)
 * [CORE POLITICAL VALUES? A COMPARATIVE ANALYSIS OF LEFT-RIGHT POLITICAL IDEOLOGY AND CULTURAL ORIENTATIONS AMONG POLICY ELITES AND THE GENERAL PUBLIC](https://poseidon01.ssrn.com/delivery.php?ID=951089070074087020002123107030091002060050030038051052104082028101115070073120087077023022018005104099039122064116077080118116013032027064082025007006089108119118028047042015113010105094088098023121091127124023011068122123118126075010064022112126087102&EXT=pdf)
-* https://nycdatascience.com/blog/student-works/figuring-out-american-politics-so-easy-a-computer-can-do-it/
+* [nycdatascience.com/blog/student-works/figuring-out-american-politics-so-easy-a-computer-can-do-it/](https://nycdatascience.com/blog/student-works/figuring-out-american-politics-so-easy-a-computer-can-do-it/)
 * [Modeling Political Identity](http://cs229.stanford.edu/proj2016spr/report/035.pdf)
 * [China’s Ideological Spectrum](http://jenpan.com/jen_pan/ideology.pdf)
 * China’s ideological spectrum: a two-dimensional model of elite intellectuals’ visions (harddrive)
@@ -708,15 +708,15 @@
 * [The Perils of Classifying Political Orientation From Text](https://www.cse.wustl.edu/~sanmay/papers/political-orientation.pdf)
 * [Automatic detection of political opinions in Tweets](https://gate.ac.uk/sale/eswc11/opinion-mining.pdf)
 * [Sentiment analysis of political communication: combining a dictionary approach with crowdcoding](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5635074/)
-* https://scholar.google.com/scholar?hl=ru&as_sdt=0%2C5&q=eysenck+political+spectrum&btnG=
+* [scholar.google.com/scholar?hl=ru&as_sdt=0%2C5&q=eysenck+political+spectrum&btnG=](https://scholar.google.com/scholar?hl=ru&as_sdt=0%2C5&q=eysenck+political+spectrum&btnG=)
 * [Globalization and the transformation of the national political space: Six European countries compared](https://ejpr.onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-6765.2006.00644.x)
 * [Spatial approval voting](https://www.cambridge.org/core/journals/political-analysis/article/spatial-approval-voting/1130597F8DDCBAC79EF631486DD8AA98)
 * [Dimensions of politics in the European Parliament](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-5907.2006.00198.x)
 * [Describing society through approval data](https://link.springer.com/chapter/10.1007/978-3-642-02839-7_19)
 * factor+analysis+of+ideology
-* https://www.courtinnovation.org/publications/commitment-extremist-ideology-using-factor-analysis-move-beyond-binary-measures
+* [courtinnovation.org/publications/commitment-extremist-ideology-using-factor-analysis-move-beyond-binary-measures](https://www.courtinnovation.org/publications/commitment-extremist-ideology-using-factor-analysis-move-beyond-binary-measures)
 * corpus+of+political+writings
-* https://www.researchgate.net/publication/277703605_Corpus_Analysis_of_Political_Language
+* [researchgate.net/publication/277703605_Corpus_Analysis_of_Political_Language](https://www.researchgate.net/publication/277703605_Corpus_Analysis_of_Political_Language)
 * Citing Eight ways to run the country: A new and revealing look at left and right
 * [Decision making in politics and economics: 6. Empirically constructing the German political spectrum](https://www.econstor.eu/handle/10419/109033)
 * [The Psychological Spectrum: Political Orientation and its Origins in Perception and Culture](https://www.ujpir-journal.com/articles/10.22599/ujpir.25/)
@@ -727,11 +727,11 @@
 * [Wiktionary and NLP: Improving synonymy networks](https://dl.acm.org/citation.cfm?id=1699768)
 * Basic idea: Use syntactic and dependency parsing to identify sentiment toward selected topics. Then use the sentiment vectors to measure ideological similarity and to model the ideological space.
 * [Political_philosophy](https://en.wikipedia.org/wiki/Political_philosophy)
-* http://dailynous.com/2019/01/04/new-map-stanford-encyclopedia-philosophy/
-* http://dailynous.com/2018/10/16/visualizing-structure-philosophy-1950s-today/
-* https://homepage.univie.ac.at/noichlm94/posts/structure-of-recent-philosophy-iii/
-* https://homepage.univie.ac.at/noichlm94/
-* https://github.com/mnoichl
+* [dailynous.com/2019/01/04/new-map-stanford-encyclopedia-philosophy/](http://dailynous.com/2019/01/04/new-map-stanford-encyclopedia-philosophy/)
+* [dailynous.com/2018/10/16/visualizing-structure-philosophy-1950s-today/](http://dailynous.com/2018/10/16/visualizing-structure-philosophy-1950s-today/)
+* [homepage.univie.ac.at/noichlm94/posts/structure-of-recent-philosophy-iii/](https://homepage.univie.ac.at/noichlm94/posts/structure-of-recent-philosophy-iii/)
+* [homepage.univie.ac.at/noichlm94/](https://homepage.univie.ac.at/noichlm94/)
+* [mnoichl](https://github.com/mnoichl)
 * Idea: Idea-PCA: method for representing treatment of ideas in documents
 * Search: politics natural language processing
 * [Multi-dimensional analysis of political language](https://link.springer.com/chapter/10.1007/978-94-007-4516-2_21)
@@ -743,7 +743,7 @@
 * [Taking sides: User classification for informal online political discourse](https://www.emerald.com/insight/content/doi/10.1108/10662240810862239/full/html?casa_token=4F264RAT1sEAAAAA:LNPvDNi35LHesw3N_pEm2OYs3FIBbMhedYSLtoGaX7IxMfdb2NDaF8HMU23qW2esSj1Y8VuNm7j7H4z_r9m6hqmtWDvxp6dMIB3K3O8dUAedbpDlE_k)
 * ideology+matrix
 * identify data sources and doc vectorization/comparison methods for political writings, esp. left (e.g. Chomsky vs Hedges vs Robinson or democratic candidates), also network analysis methods:"; also look at previous related research; --> multilingual?
-* https://www.informationisbeautifulawards.com/
+* [informationisbeautifulawards.com/](https://www.informationisbeautifulawards.com/)
 * [Studying the History of Ideas Using Topic Models](https://www.aclweb.org/anthology/D08-1038.pdf)
 * [Reading tea leaves: How humans interpret topic models](http://papers.nips.cc/paper/3700-reading-tea-leaves-how-humans-interpret-topic-models.pdf)
 * [Topic Modeling of Research Fields: An Interdisciplinary Perspective](https://www.aclweb.org/anthology/R09-1061.pdf)
@@ -757,15 +757,15 @@
 * [Sentiment analysis of citations using sentence structure-based features](https://dl.acm.org/citation.cfm?id=2000991)
 * identify data sources and doc vectorization/comparison methods for political writings, esp. left (e.g. Chomsky vs Hedges vs Robinson or democratic candidates), also network analysis methods:"; also look at previous related research; --> multilingual?
 * Which political analytical framework already exist. Which are the best, and how are they structured?
-* https://mariandoerk.de/edgemaps/demo/
-* https://mariandoerk.de/edgemaps/
-* https://mariandoerk.de/
-* https://github.com/nrchtct
+* [mariandoerk.de/edgemaps/demo/](https://mariandoerk.de/edgemaps/demo/)
+* [mariandoerk.de/edgemaps/](https://mariandoerk.de/edgemaps/)
+* [mariandoerk.de/](https://mariandoerk.de/)
+* [nrchtct](https://github.com/nrchtct)
 * [An Introduction to a New Text Classification and Visualization for Natural Language Processing Using Topological Data Analysis](https://arxiv.org/abs/1906.01726)
 * [Computational historiography: Data mining in a century of classics journals](https://dl.acm.org/doi/abs/10.1145/2160165.2160168)
-* https://scholar.google.com/scholar?hl=ru&as_sdt=2005&sciodt=0%2C5&cites=18196887914878038842&scipsc=&q=political+sentiment+analysis&btnG=
-* https://scholar.google.com/scholar?hl=ru&as_sdt=0%2C5&q=political+opinion+mining&btnG=
-* https://scholar.google.com/scholar?hl=ru&as_sdt=0%2C5&q=citation+network&btnG=
+* [scholar.google.com/scholar?hl=ru&as_sdt=2005&sciodt=0%2C5&cites=18196887914878038842&scipsc=&q=political+sentiment+analysis&btnG=](https://scholar.google.com/scholar?hl=ru&as_sdt=2005&sciodt=0%2C5&cites=18196887914878038842&scipsc=&q=political+sentiment+analysis&btnG=)
+* [scholar.google.com/scholar?hl=ru&as_sdt=0%2C5&q=political+opinion+mining&btnG=](https://scholar.google.com/scholar?hl=ru&as_sdt=0%2C5&q=political+opinion+mining&btnG=)
+* [scholar.google.com/scholar?hl=ru&as_sdt=0%2C5&q=citation+network&btnG=](https://scholar.google.com/scholar?hl=ru&as_sdt=0%2C5&q=citation+network&btnG=)
 * [Efficient algorithms for citation network analysis](https://arxiv.org/abs/cs/0309023)
 * [Opinion mining in social media: Modeling, simulating, and forecasting political opinions in the web](https://www.sciencedirect.com/science/article/pii/S0740624X12000901)
 * [The ACL anthology network corpus](https://link.springer.com/article/10.1007/s10579-012-9211-2)
@@ -812,7 +812,7 @@
 * [CORPS: A Corpus of Tagged Political Speeches for Persuasive Communication Processing: Journal of Information Technology & Politics: Vol 5, No 1](https://www.tandfonline.com/doi/abs/10.1080/19331680802149616)
 * [List of political philosophers - Wikipedia](https://en.wikipedia.org/wiki/List_of_political_philosophers)
 * [The 50 Most Influential Living Philosophers | TheBestSchools.org](https://thebestschools.org/features/most-influential-living-philosophers/)
-* https://ilias3.uni-stuttgart.de/data/Uni_Stuttgart/lm_data/lm_2578750/KD_schedule.html
+* [ilias3.uni-stuttgart.de/data/Uni_Stuttgart/lm_data/lm_2578750/KD_schedule.html](https://ilias3.uni-stuttgart.de/data/Uni_Stuttgart/lm_data/lm_2578750/KD_schedule.html)
 
 
 ### [*KD Project Info](https://ilias3.uni-stuttgart.de/data/Uni_Stuttgart/lm_data/lm_2503061/KD_project.html)
@@ -870,7 +870,7 @@
 * develop clean visualizations
 * Use distance between nodes (esp. most important nodes) and their polarities to fill ideology vectors → requires transitivity assumption
 * how to recover opinion (~sentiment) from word norms and a dependency parse? → multiplicative relationship? → additional rules governing which dependencies allow for multiplication (i.e. transitivity) → NN? → input format?
-* http://alexhwilliams.info/itsneuronalblog/2016/03/27/pca/
+* [alexhwilliams.info/itsneuronalblog/2016/03/27/pca/](http://alexhwilliams.info/itsneuronalblog/2016/03/27/pca/)
 * [wikidata](https://en.wikipedia.org/wiki/Wikidata?wprov=sfti1)
 * [wikilex](https://github.com/mynlp/wikilex)
 * [wiki tool](https://github.com/lorenzoranucci/sentimantic)
@@ -889,7 +889,7 @@
 * [Analysing Real World Network Data Sets Using Python Networkx](https://youtu.be/1ErL1z_lKd8)
 * [Social Network Analysis - From Graph Theory to Applications](https://youtu.be/px7ff2_Jeqw)
 * Basic set of questions that political ideologies may attempt to answer ->
-* https://en.m.wikipedia.org/wiki/Matrix_completion
+* [en.m.wikipedia.org/wiki/Matrix_completion](https://en.m.wikipedia.org/wiki/Matrix_completion)
 * stance detection and interpolation
 * opinion interpolation
 * transition matrix interpolation
@@ -898,7 +898,7 @@
 * Opinion-driven matrix factorization
 * [The Matrix of Opinion - Hyperpolitics, an interactive Dictionary of Political Science](http://www.hyperpolitics.net/hyperdictionary/index.php?entry=opinion)**
 * [The Political Compass - Wikipedia](https://en.wikipedia.org/wiki/The_Political_Compass)
-* https://en.wikipedia.org/wiki/Political_spectrum
+* [en.wikipedia.org/wiki/Political_spectrum](https://en.wikipedia.org/wiki/Political_spectrum)
 
 
 ## Misc
@@ -918,7 +918,7 @@
 * Book Idea: Linear Algebra: The Intuition Supplement
 * Unique insights from each field/profession (engineer, physicist, philologist, painter, gardener)
 * matrix methods in natural language processing
-* https://ru.theanarchistlibrary.org/library/chaos-linguistics
+* [ru.theanarchistlibrary.org/library/chaos-linguistics](https://ru.theanarchistlibrary.org/library/chaos-linguistics)
 * PLTK
 * Academic solipsism
 * Calculate (in different ways) the centrality of national capitals.
@@ -962,7 +962,7 @@
 * Cross-lingual word embeddings to identify untranslatables (topology, persistent homology → which patterns and relationships do not hold?)
 * [Download all words from Wiktionary for offline use - Software Recommendations Stack Exchange](https://softwarerecs.stackexchange.com/questions/18273/download-all-words-from-wiktionary-for-offline-use)
 * [How to retrieve Wiktionary word content? - Stack Overflow](https://stackoverflow.com/questions/2770547/how-to-retrieve-wiktionary-word-content)
-* https://www.chronicle.com/article/Maps-of-Citations-Uncover-New/128938/
+* [chronicle.com/article/Maps-of-Citations-Uncover-New/128938/](https://www.chronicle.com/article/Maps-of-Citations-Uncover-New/128938/)
 * [Multi-view Models for Political Ideology Detection of News Articles](https://www.aclweb.org/anthology/D18-1388.pdf)
 * [PhD position in Natural Language Processing for Political Mining](https://euraxess.ec.europa.eu/jobs/420839)
 * pltk
@@ -980,12 +980,12 @@
 
 ## Language Similarity
 * Similarity of two languages as amount of error that can be reduced by transformation rules, where n is the number of rules, eps(n) is the degree of error following application of rule n. Order the
-* https://lh5.googleusercontent.com/GYN9j4xAbMLMSLtlh39laEax1mwj6tLAorZSoyxQORX9YbW8SI4rRoqSP9JDqqHaRUA7SRAN-U0P_FIA-rfglEHf4eI88qxM_LJu5QZOt8c9DSsS6dFEIue-fnKd4Z3ZxMecJRscdYUQZ51AxmBBHg
+* [lh5.googleusercontent.com/GYN9j4xAbMLMSLtlh39laEax1mwj6tLAorZSoyxQORX9YbW8SI4rRoqSP9JDqqHaRUA7SRAN-U0P_FIA-rfglEHf4eI88qxM_LJu5QZOt8c9DSsS6dFEIue-fnKd4Z3ZxMecJRscdYUQZ51AxmBBHg](https://lh5.googleusercontent.com/GYN9j4xAbMLMSLtlh39laEax1mwj6tLAorZSoyxQORX9YbW8SI4rRoqSP9JDqqHaRUA7SRAN-U0P_FIA-rfglEHf4eI88qxM_LJu5QZOt8c9DSsS6dFEIue-fnKd4Z3ZxMecJRscdYUQZ51AxmBBHg)
 * in order of decreasing error reduction.
-* https://lh3.googleusercontent.com/6RFXFqvD6XzC2Lw4tjALWwnVXeJ3hdaaS0HqdmvMiim3Zm2t6RFouI8kmpDrIHqkdFFU8spC7A-Mv9Y-orIVLg8zMQyDW6ehCu4g-BZ4ERCp3jwnNyXRrBo-AaBFq4bB8ejFWLLQUtNm9akawOZVgw
+* [lh3.googleusercontent.com/6RFXFqvD6XzC2Lw4tjALWwnVXeJ3hdaaS0HqdmvMiim3Zm2t6RFouI8kmpDrIHqkdFFU8spC7A-Mv9Y-orIVLg8zMQyDW6ehCu4g-BZ4ERCp3jwnNyXRrBo-AaBFq4bB8ejFWLLQUtNm9akawOZVgw](https://lh3.googleusercontent.com/6RFXFqvD6XzC2Lw4tjALWwnVXeJ3hdaaS0HqdmvMiim3Zm2t6RFouI8kmpDrIHqkdFFU8spC7A-Mv9Y-orIVLg8zMQyDW6ehCu4g-BZ4ERCp3jwnNyXRrBo-AaBFq4bB8ejFWLLQUtNm9akawOZVgw)
 * how to determine n: Apply rules until  is maximized. That is,
-* https://lh4.googleusercontent.com/AE0atwKJ7M9HGkKuyZtcwtGxazjwh0q5rQCxUBeyh2kySQN-CH2jhj_LM5WpaP_fDckH9HBbOZRD5-vB3aDiUe9U4Ra7b-gUJmcOjgn9O9A22A2XwHjtMq63opQLTuhHSZrvxfRCwRQbnldjDpgRyw
+* [lh4.googleusercontent.com/AE0atwKJ7M9HGkKuyZtcwtGxazjwh0q5rQCxUBeyh2kySQN-CH2jhj_LM5WpaP_fDckH9HBbOZRD5-vB3aDiUe9U4Ra7b-gUJmcOjgn9O9A22A2XwHjtMq63opQLTuhHSZrvxfRCwRQbnldjDpgRyw](https://lh4.googleusercontent.com/AE0atwKJ7M9HGkKuyZtcwtGxazjwh0q5rQCxUBeyh2kySQN-CH2jhj_LM5WpaP_fDckH9HBbOZRD5-vB3aDiUe9U4Ra7b-gUJmcOjgn9O9A22A2XwHjtMq63opQLTuhHSZrvxfRCwRQbnldjDpgRyw)
 * choose
-* https://lh5.googleusercontent.com/18iKP_WNozMh2i9-ZYBNlVu9TmmtCrHUdfNLNntHkld2LriRzdeoYSXPCmezc9NbcSVIhV2O9VyUMNZunyPfto3KEhH4vQ7aAOBx8QweJ4wGw73xqza3GwiKrsToD2P0hIHdcii4v3NebW1qeLLmJg
+* [lh5.googleusercontent.com/18iKP_WNozMh2i9-ZYBNlVu9TmmtCrHUdfNLNntHkld2LriRzdeoYSXPCmezc9NbcSVIhV2O9VyUMNZunyPfto3KEhH4vQ7aAOBx8QweJ4wGw73xqza3GwiKrsToD2P0hIHdcii4v3NebW1qeLLmJg](https://lh5.googleusercontent.com/18iKP_WNozMh2i9-ZYBNlVu9TmmtCrHUdfNLNntHkld2LriRzdeoYSXPCmezc9NbcSVIhV2O9VyUMNZunyPfto3KEhH4vQ7aAOBx8QweJ4wGw73xqza3GwiKrsToD2P0hIHdcii4v3NebW1qeLLmJg)
 * . The second inequality implies that
-* https://lh5.googleusercontent.com/9VsLCNRuND5S-JNswtAK_8znRgArCsARswZ6x0AMEMU3YQujzXklMYNuZsIEJc8r4Xhjs2tO1Nzh3zCvQqaAAT29RxUXYopBI5ZRWRh4jDsTOk3xTQKi54YDkMbrDztUs6YglOnMna4xtJIB6SdBSw
+* [lh5.googleusercontent.com/9VsLCNRuND5S-JNswtAK_8znRgArCsARswZ6x0AMEMU3YQujzXklMYNuZsIEJc8r4Xhjs2tO1Nzh3zCvQqaAAT29RxUXYopBI5ZRWRh4jDsTOk3xTQKi54YDkMbrDztUs6YglOnMna4xtJIB6SdBSw](https://lh5.googleusercontent.com/9VsLCNRuND5S-JNswtAK_8znRgArCsARswZ6x0AMEMU3YQujzXklMYNuZsIEJc8r4Xhjs2tO1Nzh3zCvQqaAAT29RxUXYopBI5ZRWRh4jDsTOk3xTQKi54YDkMbrDztUs6YglOnMna4xtJIB6SdBSw)

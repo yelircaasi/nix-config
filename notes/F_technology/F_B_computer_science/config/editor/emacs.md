@@ -1,15 +1,15 @@
 # Emacs
 
 * emacs - to sort 
-https://gitlab.com/domsch1988/domacs
+[gitlab.com/domsch1988/domacs](https://gitlab.com/domsch1988/domacs)
     * [](https://www.google.com/url?q=https://www.murilopereira.com/how-to-open-a-file-in-emacs/&sa=D&source=editors&ust=1711377894840182&usg=AOvVaw2YKtb2F3KICtNoIZe2FHU1)
-    * [https://www.murilopereira.com/how-to-open-a-file-in-emacs/](https://www.google.com/url?q=https://www.murilopereira.com/how-to-open-a-file-in-emacs/&sa=D&source=editors&ust=1711377894840467&usg=AOvVaw3bm-scJUTN0kMioJlZVK_g) 
+    * [murilopereira.com/how-to-open-a-file-in-emacs/](https://www.google.com/url?q=https://www.murilopereira.com/how-to-open-a-file-in-emacs/&sa=D&source=editors&ust=1711377894840467&usg=AOvVaw3bm-scJUTN0kMioJlZVK_g) 
     * [](https://www.google.com/url?q=https://www.reddit.com/r/emacs/comments/nbzz8x/emacs_as_java_ide/&sa=D&source=editors&ust=1711377894840614&usg=AOvVaw2-lUiASFSJKBYaMJcGSUKE)
-    * [https://www.reddit.com/r/emacs/comments/nbzz8x/emacs_as_java_ide/](https://www.google.com/url?q=https://www.reddit.com/r/emacs/comments/nbzz8x/emacs_as_java_ide/&sa=D&source=editors&ust=1711377894840757&usg=AOvVaw1kQle2rD4ZsE9Wk8OQUevi) 
+    * [reddit.com/r/emacs/comments/nbzz8x/emacs_as_java_ide/](https://www.google.com/url?q=https://www.reddit.com/r/emacs/comments/nbzz8x/emacs_as_java_ide/&sa=D&source=editors&ust=1711377894840757&usg=AOvVaw1kQle2rD4ZsE9Wk8OQUevi) 
     * [](https://www.google.com/url?q=https://github.com/rougier/nano-emacs&sa=D&source=editors&ust=1711377894840874&usg=AOvVaw0u4LCz3l6DmMFU4J6g7ZkY)
-    * [https://github.com/rougier/nano-emacs](https://www.google.com/url?q=https://github.com/rougier/nano-emacs&sa=D&source=editors&ust=1711377894840991&usg=AOvVaw2iVAhaXHLvkPFdwJkxpUaE) ***cordova emacs 
+    * [github.com/rougier/nano-emacs](https://www.google.com/url?q=https://github.com/rougier/nano-emacs&sa=D&source=editors&ust=1711377894840991&usg=AOvVaw2iVAhaXHLvkPFdwJkxpUaE) ***cordova emacs 
     * [](https://www.google.com/url?q=https://www.reddit.com/r/emacs/s/5z8frXlZd0&sa=D&source=editors&ust=1711377894841132&usg=AOvVaw0Umik2FAhk3Xe1u971odSf)
-    * [https://www.reddit.com/r/emacs/s/5z8frXlZd0](https://www.google.com/url?q=https://www.reddit.com/r/emacs/s/5z8frXlZd0&sa=D&source=editors&ust=1711377894841253&usg=AOvVaw2erQ2inT4monUs07m5djyf)
+    * [reddit.com/r/emacs/s/5z8frXlZd0](https://www.google.com/url?q=https://www.reddit.com/r/emacs/s/5z8frXlZd0&sa=D&source=editors&ust=1711377894841253&usg=AOvVaw2erQ2inT4monUs07m5djyf)
 * ChatGPTAs of my last knowledge update in September 2021, several popular Emacs distributions were widely used by the Emacs community. Keep in mind that the popularity of distributions can evolve over time, and new distributions may emerge. Here are some of the top Emacs distributions that were well-regarded:
 1. GNU Emacs: The official Emacs distribution, maintained by the Free Software Foundation. It provides a powerful and extensible platform for text editing and customization.
 2. Spacemacs: A community-driven Emacs distribution that combines the strengths of Emacs and Vim. It uses a layer system for configuration and includes a set of curated packages for a more modern and user-friendly experience.
@@ -116,10 +116,10 @@ emacs [dotfiles/Emacs.org at master · daviwil/dotfiles](https://github.com/davi
 emacs [dotfiles/Emacs.org at master · daviwil/dotfiles](https://github.com/daviwil/dotfiles/blob/master/Emacs.org)
 emacs [emacs 30 config](https://www.reddit.com/r/emacs/s/PvfAewpcci)
 emacs [http://libgen.rs/search.php?&req=emacs&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](http://libgen.rs/search.php?%26req%3Demacs%26phrase%3D1%26view%3Dsimple%26column%3Ddef%26sort%3Dyear%26sortmode%3DDESC)
-emacs [https://github.com/MiniApollo/kickstart.emacs](https://github.com/MiniApollo/kickstart.emacs)
-emacs [https://www.emacswiki.org/emacs/StarterKits](https://www.emacswiki.org/emacs/StarterKits)
-emacs [https://www.reddit.com/r/NixOS/s/aMiyjPWmc1](https://www.reddit.com/r/NixOS/s/aMiyjPWmc1) emacs on nixos
-emacs [https://www.reddit.com/r/emacs/s/PvfAewpcci](https://www.reddit.com/r/emacs/s/PvfAewpcci)
+emacs [github.com/MiniApollo/kickstart.emacs](https://github.com/MiniApollo/kickstart.emacs)
+emacs [emacswiki.org/emacs/StarterKits](https://www.emacswiki.org/emacs/StarterKits)
+emacs [reddit.com/r/NixOS/s/aMiyjPWmc1](https://www.reddit.com/r/NixOS/s/aMiyjPWmc1) emacs on nixos
+emacs [reddit.com/r/emacs/s/PvfAewpcci](https://www.reddit.com/r/emacs/s/PvfAewpcci)
 emacs [marsam/emacspy: Program Emacs in Python instead of ELisp (i.e. write dynamic modules for Emacs in Python)](https://github.com/marsam/emacspy)
 emacs perso [novoid (Karl Voit)](https://github.com/novoid/)
-* https://protesilaos.com/emacs/denote
+* [protesilaos.com/emacs/denote](https://protesilaos.com/emacs/denote)

@@ -17,53 +17,53 @@ I promessi sposi
 * H.A
 * * - Reading List - H.A*
 * [Libretexts Humanities](https://human.libretexts.org/Bookshelves)
-* https://www.visivaglobal.eu/*
+* [visivaglobal.eu/*](https://www.visivaglobal.eu/*)
 * [Cosa vedere a Torino](https://www.youtube.com/watch?v=fngBTrfW5_g)*
 * [Torino Città meravigiosa](https://www.youtube.com/watch?v=tNPNo-GZKFs)
-* https://www.tribina.hr/
-* https://archive.org/details/collardaniellsfi00collrich/page/n17*
+* [tribina.hr/](https://www.tribina.hr/)
+* [archive.org/details/collardaniellsfi00collrich/page/n17*](https://archive.org/details/collardaniellsfi00collrich/page/n17*)
 * [Teatro : schemi riassuntivi, quadri di approfondimento](https://libgen.is/book/index.php?md5=129465F66056830397DE3209AC0D93E8)*
 * [Letteratura italiana : schemi riassuntivi, quadri di approfondimento [7a ed.]](https://libgen.is/book/index.php?md5=72EDCAF2F130BAA3A0DE9A9C9B70B2BC)*
 * [DeAgostini](https://libgen.is/search.php?&req=deagostini&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=4)*
 * [Fascismo IT](https://libgen.is/book/index.php?md5=B16CFE9D5626B86FA7509F965C7446D3)
-* http://www.librarius.com/cantales.htm*
+* [librarius.com/cantales.htm*](http://www.librarius.com/cantales.htm*)
 * [Learn Levantine Arabic YT](https://www.youtube.com/channel/UCb7oMrqwZnr3ZCayqnkkb8w)
 *     Human GAN for pronunciation: 2 native speakers, 1 discriminator, 1 pronouncer, non-native speaker generator
 *     Левиатан (фильм)
-* https://babel.hathitrust.org/cgi/pt?id=hvd.hn4rae;view=1up;seq=9
+* [babel.hathitrust.org/cgi/pt?id=hvd.hn4rae;view=1up;seq=9](https://babel.hathitrust.org/cgi/pt?id=hvd.hn4rae;view=1up;seq=9)
 *     Pericla navarchi Magonis
-* https://babel.hathitrust.org/cgi/pt?id=njp.32101059045284;view=1up;seq=243
+* [babel.hathitrust.org/cgi/pt?id=njp.32101059045284;view=1up;seq=243](https://babel.hathitrust.org/cgi/pt?id=njp.32101059045284;view=1up;seq=243)
 *     Mons Spes, et novellæ aliæ
 *     Taiwan Books
 *     心灵维他命：培养孩子定见的特質
 *     有个老父親和他的兒子一起趕著驢子到附近市場上去賣
-* https://ancientgreek.pressbooks.com/chapter/1/*
+* [ancientgreek.pressbooks.com/chapter/1/*](https://ancientgreek.pressbooks.com/chapter/1/*)
 * [Harris - Cuteness](https://www.jstor.org/stable/40548402?seq=1)
-* http://www.gutenberg.org/cache/epub/46456/pg46456-images.html
+* [gutenberg.org/cache/epub/46456/pg46456-images.html](http://www.gutenberg.org/cache/epub/46456/pg46456-images.html)
 *     MYSTERIUM ARCAE BOULÉ
-* http://southparkz.net/
-* https://briefly.ru/dostoevsky/besy/
-* http://frcoulter.com/latin/links.html
-* https://www.textkit.com/greek-latin-forum/viewtopic.php?t=60896
+* [southparkz.net/](http://southparkz.net/)
+* [briefly.ru/dostoevsky/besy/](https://briefly.ru/dostoevsky/besy/)
+* [frcoulter.com/latin/links.html](http://frcoulter.com/latin/links.html)
+* [textkit.com/greek-latin-forum/viewtopic.php?t=60896](https://www.textkit.com/greek-latin-forum/viewtopic.php?t=60896)
 *     LLPSI Audio
-* http://www.gutenberg.org/files/46768/46768-h/46768-h.htm
+* [gutenberg.org/files/46768/46768-h/46768-h.htm](http://www.gutenberg.org/files/46768/46768-h/46768-h.htm)
 *     Iulius Caesar
-* http://www.gutenberg.org/files/50732/50732-h/50732-h.htm
+* [gutenberg.org/files/50732/50732-h/50732-h.htm](http://www.gutenberg.org/files/50732/50732-h/50732-h.htm)
 *     Rebilius Cruso
 *     Vinculae
-* https://www.latinitium.com/spoken-latin
-* http://multilingualbooks.com/freelessons-latin.html
-* https://www.surfacelanguages.com/language/Latin
-* https://www.latinitium.com/latin-audio-video
-* https://www.youtube.com/channel/UCEekt9eu1g-yEGq6XUlRSIg
+* [latinitium.com/spoken-latin](https://www.latinitium.com/spoken-latin)
+* [multilingualbooks.com/freelessons-latin.html](http://multilingualbooks.com/freelessons-latin.html)
+* [surfacelanguages.com/language/Latin](https://www.surfacelanguages.com/language/Latin)
+* [latinitium.com/latin-audio-video](https://www.latinitium.com/latin-audio-video)
+* [](https://www.youtube.com/channel/UCEekt9eu1g-yEGq6XUlRSIg)
 *     Evan der Milner
-* https://lrc.la.utexas.edu/eieol/latol/00
-* https://www.youtube.com/playlist?list=PLEE440D6A8DCBA478
+* [lrc.la.utexas.edu/eieol/latol/00](https://lrc.la.utexas.edu/eieol/latol/00)
+* [](https://www.youtube.com/playlist?list=PLEE440D6A8DCBA478)
 *     London course
-* http://www.latinteach.com/Site/RESOURCES/Entries/2007/9/13_Communicating_in_Latin.html
-* https://areena.yle.fi/1-1931339
-* https://www.textkit.com/greek-latin-forum/viewtopic.php?t=64529
-* https://www.textkit.com/greek-latin-forum/viewtopic.php?t=5880
+* [latinteach.com/Site/RESOURCES/Entries/2007/9/13_Communicating_in_Latin.html](http://www.latinteach.com/Site/RESOURCES/Entries/2007/9/13_Communicating_in_Latin.html)
+* [areena.yle.fi/1-1931339](https://areena.yle.fi/1-1931339)
+* [textkit.com/greek-latin-forum/viewtopic.php?t=64529](https://www.textkit.com/greek-latin-forum/viewtopic.php?t=64529)
+* [textkit.com/greek-latin-forum/viewtopic.php?t=5880](https://www.textkit.com/greek-latin-forum/viewtopic.php?t=5880)
 *     Medien*
 * [Linke Medien - DIE LINKE Köln](https://die-linke-koeln.de/linke-medien/)
 *     Books*
@@ -79,14 +79,14 @@ I promessi sposi
 * [Sulla letteratura](https://libgen.is/search.php?req=sulla+letteratura&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)*
 * [The Fashion Encyclopedia](https://vk.com/doc60798553_468395159?hash=4f84b05c3c345b6e83&dl=90e58c25064249b6da)*
 * [Writing for Publication_Mary Renck Jalongo, Olivia N. Saracho_1st ed. 2016](http://link.springer.com/openurl?genre=book&isbn=978-3-319-31650-5)
-* http://www.michael-culture.org/
-* http://www.letteratura.rai.it/
-* http://www.contemporain.com/
-* http://www.institutfrancais.com/fr
-* http://www.archipo.net/
-* http://kunstop.de/
-* http://varietylatino.com/
-* https://www.flavorwire.com/*
+* [michael-culture.org/](http://www.michael-culture.org/)
+* [letteratura.rai.it/](http://www.letteratura.rai.it/)
+* [contemporain.com/](http://www.contemporain.com/)
+* [institutfrancais.com/fr](http://www.institutfrancais.com/fr)
+* [archipo.net/](http://www.archipo.net/)
+* [kunstop.de/](http://kunstop.de/)
+* [varietylatino.com/](http://varietylatino.com/)
+* [flavorwire.com/*](https://www.flavorwire.com/*)
 * [1000 Quadri - Mostre, musei e pensieri sull'arte in tutto il mondo](http://www.1000quadri.it/)*
 * [ᴴᴰ Эдуард Мане: В рамках рамы / Within the Frame (2013) (док. сериал, искусство) 1080p](https://vk.com/video-52526415_456242368?list=fa454be639a07ec752)*
 * [Введение в историю искусства (39) Архитектура 16 века (1/2)](https://vk.com/video-52526415_456245366?list=3580b4844e204ce857)*
@@ -99,8 +99,8 @@ I promessi sposi
 * [Os segredos da obra 'Cem Anos de Solidão', de Gabriel García Marquez - Revista Prosa Verso e Arte](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.revistaprosaversoearte.com%2Fos-segredos-da-obra-cem-anos-de-solidao-de-gabriel-garcia-marquez%2F%3Ffbclid%3DIwAR3wYAhL_JsxT5xU-t2rvmV31DPm4RYcFAEMp0Sx9QXF8110_GGK6Wpdumk&h=AT37v06MFIHBC2in79GOWUthpBQ2JwU9dXjknaoKysCHWv7ZUqx50LMJTG4S8dugOrCtYQPh11z6ehsX7TdIfR6tL9995qxqlcdzDJNlNw103-ge7eXSR_kJX-QXinS1JuPsqE0CvYRp2U6ofnhH)*
 * [Verossimilhança](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.ernaniterra.com.br%2Fverossimilhanca%2F%3Ffbclid%3DIwAR05LU2YKyIqCpzl5DP9j7Asz-oRgNwK7nYfXyuR_9YOCXovRnJQU4jUujk&h=AT2iabQmMKWehMsBi3svIcqZbBzMDQ4H5MDg_HtWgGGpFCO9KS7yNmeNL_8Zolf-1DN1iXE5M2K8ZTCXiU9YRAdyqPZczXPNuOw1ovN-BhYWSt7ZHkO6LQdvf997KmU1SgWT7PTkbA)*
 * [15 documentários sobre o Samba para assistir e estudar - Revista Prosa Verso e Arte](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.revistaprosaversoearte.com%2F15-documentarios-sobre-o-samba-para-assistir-e-estudar%2F%3Ffbclid%3DIwAR1o4GpW9K-Z1G3dWPpska3mXUkKnXFP9nUB9XjH2rP5J2PKMdkex4Jo878&h=AT0RO0I6zTlQWksIYyLu-tQ3ArsauU4SOJkHIhsGMXXa_JAxFkUsRmw5OhW4RMcDkzKfeD0MWv7fw1gHH8LnuD8kOjaDaFyeKnDfbtbEE6zR4ZMV8yvzGypLLoErKXGUjVvCtqUCXCCsIYjogguO)
-*     *https://www.ernaniterra.com.br/*
-*     *https://www.revistaprosaversoearte.com/**
+*     *[ernaniterra.com.br/*](https://www.ernaniterra.com.br/*)
+*     *[revistaprosaversoearte.com/**](https://www.revistaprosaversoearte.com/**)
 * [Charlie Chaplin A HISTÓRIA QUE POUCOS CONHECEM](https://www.facebook.com/watch/?ref=saved&v=601336584063555)**
 * [Mashable](https://www.youtube.com/c/Mashable)*
 * [ReadingBookChannel](https://www.youtube.com/user/ReadingBookChannel)*
@@ -152,7 +152,7 @@ I promessi sposi
 * [«Религия как институт и личный выбор в „Игре престолов“»](https://vk.com/podcast-108468_456239376)*
 * [Die Leiden des jungen Werther](https://vk.com/wall-30268849_1944)*
 * [George Sand FR](https://vk.com/wall-97559775_20358)
-* https://knife.media/25-horror-films/*
+* [knife.media/25-horror-films/*](https://knife.media/25-horror-films/*)
 * [Экранизации произведений Фёдора Михайловича Достоевского.](https://vk.com/wall-36047336_94379)*
 * [Эрмитаж](https://vk.com/wall-36047336_92610)*
 * [10 серьезных научно-фантастических фильмов](https://vk.com/wall-37160097_259652)
@@ -188,10 +188,10 @@ I promessi sposi
 * [М. Бланшо "Пространство литературы" #27](https://vk.com/podcast-149042611_456239126)*
 * [Мифология, сказка, фольклор](https://vk.com/wall-6827569_29148)*
 * [Complete Review](http://www.complete-review.com/main/main.html)
-* https://briefly.ru/
+* [briefly.ru/](https://briefly.ru/)
 *     Камасутра для оратора*
 * [Сериал Хорошее место](http://baskino.me/serial/18662-v-luchshem-mire-horoshee-mesto.html)
-* http://terathon.com/blog/so-you-want-to-write-a-technical-book/ *
+* [terathon.com/blog/so-you-want-to-write-a-technical-book/](http://terathon.com/blog/so-you-want-to-write-a-technical-book/) *
 * H.B
 * * - Reading List - H.B
 *     resources*
@@ -202,50 +202,50 @@ I promessi sposi
 * [Законы простоты Дизайн. Технологии. Бизнес. Жизнь.PDF](https://vk.com/doc299005270_518830440?hash=557b7e8ce4130d71e6&dl=7f5d96934ea320e3ff)*
 * [Gerhard Richter](http://www.gerhard-richter.com/)
 *     What do animators need to learn during their studies and beyond? What separates the very best?
-* http://honors.byu.edu/content/great-works-art
-* http://www.welt.de/reise/staedtereisen/article152112796/Diese-20-Museen-muss-man-unbedingt-gesehen-haben.html
-* http://www.travelbook.de/welt/ranking-die-besten-und-beliebtesten-museen-der-welt-und-in-Deutschland-693072.html
-* http://www.icom2001barcelona.org/
-* http://kunstop.de/die-schoensten-und-besten-museen-der-welt/
-* http://derstandard.at/2000022901400/Die-25-beliebtesten-Museen-der-Welt
-* http://www.terramuseum.org/
-* http://www.atlantico.fr/decryptage/20-meilleurs-musees-monde-selon-visiteurs-1816028.html
-* http://www.welovebuzz.com/top-24-des-meilleurs-musees-dans-le-monde/*
+* [honors.byu.edu/content/great-works-art](http://honors.byu.edu/content/great-works-art)
+* [welt.de/reise/staedtereisen/article152112796/Diese-20-Museen-muss-man-unbedingt-gesehen-haben.html](http://www.welt.de/reise/staedtereisen/article152112796/Diese-20-Museen-muss-man-unbedingt-gesehen-haben.html)
+* [travelbook.de/welt/ranking-die-besten-und-beliebtesten-museen-der-welt-und-in-Deutschland-693072.html](http://www.travelbook.de/welt/ranking-die-besten-und-beliebtesten-museen-der-welt-und-in-Deutschland-693072.html)
+* [icom2001barcelona.org/](http://www.icom2001barcelona.org/)
+* [kunstop.de/die-schoensten-und-besten-museen-der-welt/](http://kunstop.de/die-schoensten-und-besten-museen-der-welt/)
+* [derstandard.at/2000022901400/Die-25-beliebtesten-Museen-der-Welt](http://derstandard.at/2000022901400/Die-25-beliebtesten-Museen-der-Welt)
+* [terramuseum.org/](http://www.terramuseum.org/)
+* [atlantico.fr/decryptage/20-meilleurs-musees-monde-selon-visiteurs-1816028.html](http://www.atlantico.fr/decryptage/20-meilleurs-musees-monde-selon-visiteurs-1816028.html)
+* [welovebuzz.com/top-24-des-meilleurs-musees-dans-le-monde/*](http://www.welovebuzz.com/top-24-des-meilleurs-musees-dans-le-monde/*)
 * [L'histoire de l'art](https://www.youtube.com/watch?v=zyREXxn7xCo)*
 * [ART TERMS IN ACTION](https://www.youtube.com/results?search_query=ART+TERMS+IN+ACTION)
-* https://www.youtube.com/results?search_query=th%C3%A9ories+de+l%27art
+* [](https://www.youtube.com/results?search_query=th%C3%A9ories+de+l%27art)
 *     dibujo
-* https://www.youtube.com/playlist?list=PLQQcIuChTgLAJ5rLmZhJxxDifgJMXvN4K
-* http://perfektzeichnen.de/grundkurs-.html
-* http://www.artcyclopedia.com/index.html
-* https://www.behance.net/
-* http://www.beyars.com/
-* http://www.histoiredesarts.culture.fr/index.php
-* https://www.connaissancedesarts.com/
-* http://historia-da-arte.info/
-* http://amwaj.org.il/art/islam/islamic_art.html
+* [](https://www.youtube.com/playlist?list=PLQQcIuChTgLAJ5rLmZhJxxDifgJMXvN4K)
+* [perfektzeichnen.de/grundkurs-.html](http://perfektzeichnen.de/grundkurs-.html)
+* [artcyclopedia.com/index.html](http://www.artcyclopedia.com/index.html)
+* [behance.net/](https://www.behance.net/)
+* [beyars.com/](http://www.beyars.com/)
+* [histoiredesarts.culture.fr/index.php](http://www.histoiredesarts.culture.fr/index.php)
+* [connaissancedesarts.com/](https://www.connaissancedesarts.com/)
+* [historia-da-arte.info/](http://historia-da-arte.info/)
+* [amwaj.org.il/art/islam/islamic_art.html](http://amwaj.org.il/art/islam/islamic_art.html)
 *     arquitectura
-* http://www.historyworld.net/wrldhis/PlainTextHistories.asp?ParagraphID=dov
-* http://www.visual-arts-cork.com/architecture-history.htm
-* http://www.curbed.com/
-* http://www.arhitekto.ru/
-* http://ufa.shikremont.ru/dizain/istarhit.php
-* http://www.moscowchronology.ru/architecture.html
-* http://deu.archinform.net/index.htm
-* https://www.goethe.de/de/kul/arc.html
-* https://uk.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D1%96%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8
-* http://ua-referat.com/%D0%90%D1%80%D1%85%D1%96%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0
-* http://www.cosmovisions.com/archiFranceChrono.htm
-* http://www.histoiredesarts.culture.fr/reperes/architecture
-* http://architecturala.blogspot.com/
-* http://yamo26.blogspot.com/
-* https://arquiteturadobrasil.wordpress.com/
-* http://www.francescomorante.it/pag_a/a00.htm
-* http://architettura-italiana.com/
-* http://ency.kacemb.com/%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d8%a9/*
+* [historyworld.net/wrldhis/PlainTextHistories.asp?ParagraphID=dov](http://www.historyworld.net/wrldhis/PlainTextHistories.asp?ParagraphID=dov)
+* [visual-arts-cork.com/architecture-history.htm](http://www.visual-arts-cork.com/architecture-history.htm)
+* [curbed.com/](http://www.curbed.com/)
+* [arhitekto.ru/](http://www.arhitekto.ru/)
+* [ufa.shikremont.ru/dizain/istarhit.php](http://ufa.shikremont.ru/dizain/istarhit.php)
+* [moscowchronology.ru/architecture.html](http://www.moscowchronology.ru/architecture.html)
+* [deu.archinform.net/index.htm](http://deu.archinform.net/index.htm)
+* [goethe.de/de/kul/arc.html](https://www.goethe.de/de/kul/arc.html)
+* [uk.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D1%96%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8](https://uk.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D1%96%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8)
+* [ua-referat.com/%D0%90%D1%80%D1%85%D1%96%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0](http://ua-referat.com/%D0%90%D1%80%D1%85%D1%96%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)
+* [cosmovisions.com/archiFranceChrono.htm](http://www.cosmovisions.com/archiFranceChrono.htm)
+* [histoiredesarts.culture.fr/reperes/architecture](http://www.histoiredesarts.culture.fr/reperes/architecture)
+* [architecturala.blogspot.com/](http://architecturala.blogspot.com/)
+* [yamo26.blogspot.com/](http://yamo26.blogspot.com/)
+* [arquiteturadobrasil.wordpress.com/](https://arquiteturadobrasil.wordpress.com/)
+* [francescomorante.it/pag_a/a00.htm](http://www.francescomorante.it/pag_a/a00.htm)
+* [architettura-italiana.com/](http://architettura-italiana.com/)
+* [ency.kacemb.com/%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d8%a9/*](http://ency.kacemb.com/%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d8%a9/*)
 * H.C
 * [olla-vogala](https://www.youtube.com/channel/UC8pztlxOONYyw8q46CKHY-A/featured)
-* https://www.last.fm/es/
+* [last.fm/es/](https://www.last.fm/es/)
 * - Reading List - to sort*
 * [Beautiful songs](https://www.facebook.com/yoshi.wood.7/posts/10154850853134236)*
 * [Best foreign language songs: These 7 are amazing](https://www.redbull.com/au-en/7-amazing-songs-sung-in-languages-other-than-english)*
@@ -263,18 +263,18 @@ I promessi sposi
 * [Top 15 Disney Songs (German) - YouTube](https://www.youtube.com/watch?v=GW1UEOytOcI)*
 * [Top 20 Hard Rock - Top Hard Rock Songs Of All Time - Rock Songs 60's 70's 80's 90's - YouTube](https://www.youtube.com/watch?v=dNEIQG-2gEA)*
 * [Top 50 Best Classical Piano Music - YouTube](https://www.youtube.com/watch?v=ZAr-PKUyo7Q)
-* http://www.classicfm.com/discover/music/10-classical-music-tear-jerkers/#d41qS1uceUqfRigG.97
-* https://mic.com/articles/90713/9-brilliant-contemporary-composers-who-prove-classical-music-isn-t-dead#.CNY3TQExn*
+* [classicfm.com/discover/music/10-classical-music-tear-jerkers/#d41qS1uceUqfRigG.97](http://www.classicfm.com/discover/music/10-classical-music-tear-jerkers/#d41qS1uceUqfRigG.97)
+* [mic.com/articles/90713/9-brilliant-contemporary-composers-who-prove-classical-music-isn-t-dead#.CNY3TQExn*](https://mic.com/articles/90713/9-brilliant-contemporary-composers-who-prove-classical-music-isn-t-dead#.CNY3TQExn*)
 * [Top 30 Funeral Classics - YouTube](https://www.youtube.com/watch?v=RRB3X1P4RBs)*
 * [What French music are you currently listening to?](https://www.reddit.com/r/French/comments/ebw8yb/what_french_music_are_you_currently_listening_to/)*
 * [Le 50 canzoni italiane più belle di sempre. O no? - Panorama](https://www.panorama.it/musica/le-50-canzoni-italiane-piu-belle-di-sempre-o-no/)
-* http://destinations.com.ua/art/m1-music-awards-2016
+* [destinations.com.ua/art/m1-music-awards-2016](http://destinations.com.ua/art/m1-music-awards-2016)
 *     Jain - Makeba - YouTube
 *     Vintage Brazil Touch - Best Of Vintage Brazilian Songs - YouTube
-* http://www.npr.org/sections/deceptivecadence/2010/09/27/130157375/the-saddest-music-in-the-world-7-tunes-to-make-you-tear-up*
+* [npr.org/sections/deceptivecadence/2010/09/27/130157375/the-saddest-music-in-the-world-7-tunes-to-make-you-tear-up*](http://www.npr.org/sections/deceptivecadence/2010/09/27/130157375/the-saddest-music-in-the-world-7-tunes-to-make-you-tear-up*)
 * [úvod | antonin-dvorak.cz](http://www.antonin-dvorak.cz/uvod/)*
 * [Les meilleures Chansons De Z.a.z || Z.a.z Greatest Hits || Top Songs 2018 - YouTube](https://www.youtube.com/watch?v=mG6cGmpSQcU)
-* https://mic.com/articles/90713/9-brilliant-contemporary-composers-who-prove-classical-music-isn-t-dead#.CNY3TQExn*
+* [mic.com/articles/90713/9-brilliant-contemporary-composers-who-prove-classical-music-isn-t-dead#.CNY3TQExn*](https://mic.com/articles/90713/9-brilliant-contemporary-composers-who-prove-classical-music-isn-t-dead#.CNY3TQExn*)
 * [Different Tongues: 10 Foreign Language Songs That Rule the World | Houston Press](https://www.houstonpress.com/music/different-tongues-10-foreign-language-songs-that-rule-the-world-6500686)
 * - Choral*
 * [🎵 Palestrina Choral Music | Beautiful & Relaxing Choral Music - YouTube](https://www.youtube.com/watch?v=DElFRZGA-G0&t=9738s)*
@@ -298,7 +298,7 @@ I promessi sposi
 *     Piosenka zespołu Zabili Mi Żółwia pt. Wiosna Album: Uczucia w promocji 2006 Aktualny skład zespołu: Michał Wojnar - gł. wokal Dominik Barnaś - bas Karol Wieczorek - perkusja Wojciech Homa - akord...
 *     muchy - nie przeszkadzaj mi, bo tańczę
 *     muchy - profil oficjalny
-* https://www.facebook.com/Muchyband muchy - nie przeszkadzaj mi, bo tańczę. słowa: Michał Wiraszko muzyka: Damian Pielka, Tomasz Skórka, Szymon Waliszewski, Michał Wiraszko produkcja i realizacja:...
+* [facebook.com/Muchyband](https://www.facebook.com/Muchyband) muchy - nie przeszkadzaj mi, bo tańczę. słowa: Michał Wiraszko muzyka: Damian Pielka, Tomasz Skórka, Szymon Waliszewski, Michał Wiraszko produkcja i realizacja:...
 *     Kumka Olik - Niepoprawnie kolorowych snów
 *     kumkaolik
 *     Teledysk do drugiego singla z płyty "Podobno nie ma już Francji".
@@ -310,7 +310,7 @@ I promessi sposi
 *     VIXO "lifesaver"
 *     The Washing Machine - Yeah, Yeah, Yeah
 *     TheWashingMachine1
-*     From the album "Into The Sun" (2011) (http://www.facebook.com/washingband) The Washing Machine is a rock band from Lodz - Poland. Album: http://sklep.polskieradio.pl/Products/7033-into-the-sun-plyt...
+*     From the album "Into The Sun" (2011) (http://www.facebook.com/washingband) The Washing Machine is a rock band from Lodz - Poland. Album: [sklep.polskieradio.pl/Products/7033-into-the-sun-plyt...](http://sklep.polskieradio.pl/Products/7033-into-the-sun-plyt...)
 *     Kawałek Kulki - Kolegi Tata
 *     Nika Gitara
 *     Ka-Q - Kolegi Tata Jest Policjantem
@@ -323,7 +323,7 @@ I promessi sposi
 *     bring you back last song from new album
 *     Negatyw - Znikam
 *     fenixmusiclabel
-*     Zamów DVD Live10 na http://www.live10.pl Teledysk Zdjęcia i reżyseria: Dawid Meller Występuje: Marcin Pająk
+*     Zamów DVD Live10 na [live10.pl](http://www.live10.pl) Teledysk Zdjęcia i reżyseria: Dawid Meller Występuje: Marcin Pająk
 *     Psychocukier - Gwiazda
 *     ciapciap
 *     Piosenka z nadchodzącej, 3ej płyty zespołu Psychocukier pt. "Królestwo". reż. J. Grudzień, zdj.: M. Stajniak, mont.: C. Kowalczuk
@@ -332,7 +332,7 @@ I promessi sposi
 *     Dancing Shoes by Monika Brodka // remixed by Kamp! // orginal image: maciejlandsberg.com
 *     Kayah, Bregovic, Goran Bregovic - Prawy do lewego
 *     KayahTVVEVO
-*     Album Kayah „Kayah&Bregovic” dostępny na: https://SonyMusicPoland.lnk.to/KayahBregovicAY Więcej teledysków od Kayah: Testosteron: https://youtu.be/x9QKRpALphM Na językach: https://youtu.be/dJbaMhT...
+*     Album Kayah „Kayah&Bregovic” dostępny na: [SonyMusicPoland.lnk.to/KayahBregovicAY](https://SonyMusicPoland.lnk.to/KayahBregovicAY) Więcej teledysków od Kayah: Testosteron: [youtu.be/x9QKRpALphM](https://youtu.be/x9QKRpALphM) Na językach: [youtu.be/dJbaMhT...](https://youtu.be/dJbaMhT...)
 *     ¿Qué es la vida?
 *     CdeCiencia
 *     El ser humano le ha buscado siempre un sentido a la vida. Muchas personas se preguntan a diario el porqué de su existencia. El porqué de la existencia de la vida. Pero este vídeo da un enfoque dife...
@@ -360,7 +360,7 @@ I promessi sposi
 *     Live Kulturby-åpningen Stavanger 12-1-2008.
 *     Je suis malade Lara Fabian French and English subtitles
 *     frenchrescue
-*     To watch my other videos with double subtitles, go there : http://www.youtube.com/user/frenchrescue "Je suis malade" by Lara Fabian (written by Jacques Brel, sung by Serge Lama and Dalida too). A...
+*     To watch my other videos with double subtitles, go there : [](http://www.youtube.com/user/frenchrescue) "Je suis malade" by Lara Fabian (written by Jacques Brel, sung by Serge Lama and Dalida too). A...
 *     DumDum Boys - Stjernesludd
 *     Wardeen
 *     Singel fra DumDum Boys, utgitt i 1997.
@@ -381,7 +381,7 @@ I promessi sposi
 * [http://www.melissahorn.se](http://www.melissahorn.se/)
 *     Melissa Horn - Jag kan inte skilja på
 *     melissahornchannel
-*     Nya albumet "Säg ingenting till mig" släpps 14 oktober! http://www.melissahorn.se
+*     Nya albumet "Säg ingenting till mig" släpps 14 oktober! [melissahorn.se](http://www.melissahorn.se)
 *     Melissa Horn - Om du vill vara med mig - Lyrics
 *     Robin
 *     Melissa Horn - Om du vill vara med mig - Lyrics - av RoroBibinMusic English lyrics is available - please give comments if something seems wrong, I tried the best I could to give the same message a...
@@ -396,10 +396,10 @@ I promessi sposi
 *     Handel - from the movie Farinelli song "Lascia Ch'io Pianga" (Act II of Handel's opera, "Rinaldo") SYNOPSIS In the 18th century, no man was more famous, more beloved, or more celebrated than the m...
 *     خلينا نحلم - مسجلة الأحلام من تونس ومصر- Let's Dream - Tunisia/Egypt
 *     Dreams Recorder
-* http://www.facebook.com/dreamsrecorder إتحاد مجموعة من الشباب التونسي والمصري في أول منتج إبداعي مشترك.... آملين أن ينضم إلينا بقية الشعوب العربية لنكون معاً نواة الوحدة الإيجابية المنشودة لنبرز ال...
+* [facebook.com/dreamsrecorder](http://www.facebook.com/dreamsrecorder) إتحاد مجموعة من الشباب التونسي والمصري في أول منتج إبداعي مشترك.... آملين أن ينضم إلينا بقية الشعوب العربية لنكون معاً نواة الوحدة الإيجابية المنشودة لنبرز ال...
 *     Mashrou' Leila - Raksit Leila ( Official Music Video ) | مشروع ليلى - رقصة ليلى
 *     Mashrou' Leila
-*     لتنزيل "رقصة ليلى" من iTunes: http://apple.co/2fSojkI للاستماع لأغنية "رقصة ليلى" على Apple Music: http://apple.co/2ekJSsS Mashrou' Leila - Raksit Leila [ official video by yelostudio] download ...
+*     لتنزيل "رقصة ليلى" من iTunes: [apple.co/2fSojkI](http://apple.co/2fSojkI) للاستماع لأغنية "رقصة ليلى" على Apple Music: [apple.co/2ekJSsS](http://apple.co/2ekJSsS) Mashrou' Leila - Raksit Leila [ official video by yelostudio] download ...
 *     Du måste finnas - Helen Sjöholm (Kristina från Duvemala)
 *     baflat
 *     Minnesota concert
@@ -412,27 +412,27 @@ I promessi sposi
 *     FIFA World Cup 2018 Russia European Qualifier result and goal scorer (Big National Team Only) : Round 8 : 1. Italia 1 - 0 Israel 2. Spain 8 - 0 Liechtenstein 3. Turkey 1 - 0 Croatia 4. Wales 2 - 0...
 *     Mashrou' Leila - Ghadan Yawmon Afdal "Cover" ( Official Music Video ) | مشروع ليلى - غداً يوم أفضل
 *     Mashrou' Leila
-*     this is our revolution / إلى جيل الثورة Clint Eastwood cover DOWNLOAD this track for FREE here: http://mashrou3leila.com/Mashrou%27%20Leila%20-%20Ghadan%20Yawmon%20Afdal.mp3 download the album o...
+*     this is our revolution / إلى جيل الثورة Clint Eastwood cover DOWNLOAD this track for FREE here: [mashrou3leila.com/Mashrou%27%20Leila%20-%20Ghadan%20Yawmon%20Afdal.mp3](http://mashrou3leila.com/Mashrou%27%20Leila%20-%20Ghadan%20Yawmon%20Afdal.mp3) download the album o...
 *     مشروع ليلى - فساتين Mashroua Leila - Fasateen
 *     Firas Naamnih
 *     مشروع ليلى - فساتين
 *     Lemonada - 04. Jnoon - ليمونادا - جنون
 *     Ameerah AlGohary
-*     Lemonada The Arabian Latin Chillout Track no.4 Jnoon To download the whole album, http://rs169.rapidshare.com/files/110579375/Lemonada-The_Arabian_Latin_Chillout.rar/?visit=PaylessSofts.net_for_th...
+*     Lemonada The Arabian Latin Chillout Track no.4 Jnoon To download the whole album, [rs169.rapidshare.com/files/110579375/Lemonada-The_Arabian_Latin_Chillout.rar/?visit=PaylessSofts.net_for_th...](http://rs169.rapidshare.com/files/110579375/Lemonada-The_Arabian_Latin_Chillout.rar/?visit=PaylessSofts.net_for_th...)
 *     Trump Attacks the Mayor of San Juan: A Closer Look
 *     Late Night with Seth Meyers
-*     Seth takes a closer look at the very real consequences of electing a lazy, ignorant racist as president. » Subscribe to Late Night: http://bit.ly/LateNightSeth » Get more Late Night with Seth Meyer...
+*     Seth takes a closer look at the very real consequences of electing a lazy, ignorant racist as president. » Subscribe to Late Night: [bit.ly/LateNightSeth](http://bit.ly/LateNightSeth) » Get more Late Night with Seth Meyer...
 *     Trevor Responds to the Las Vegas Shooting & Trump Tweets the Weekend Away: The Daily Show
 *     The Daily Show with Trevor Noah
-*     Trevor weighs in on a deadly mass shooting in Las Vegas, and President Trump lashes out at North Korea and Puerto Rico on Twitter. Watch full episodes of The Daily Show for free: http://www.cc.com...
-*     ¡Ya disponible en CD/LP/digital en nuestra página web! http://bit.ly/vmDERIVAw LA MOSCA EN TU PARED ¿Qué harías tú si al despertar fuera un insecto en tu pared? Algo sutil, gran angular, que na...
+*     Trevor weighs in on a deadly mass shooting in Las Vegas, and President Trump lashes out at North Korea and Puerto Rico on Twitter. Watch full episodes of The Daily Show for free: [cc.com...](http://www.cc.com...)
+*     ¡Ya disponible en CD/LP/digital en nuestra página web! [bit.ly/vmDERIVAw](http://bit.ly/vmDERIVAw) LA MOSCA EN TU PARED ¿Qué harías tú si al despertar fuera un insecto en tu pared? Algo sutil, gran angular, que na...
 *     03. La Mosca en tu Pared - VETUSTA MORLA (video lyric)
-*     Abonne-toi à la CHAINE OFFICIELLE VEVO de KYO pour découvrir toutes leurs nouvelles vidéos : http://www.youtube.com/subscription_center?add_user=KYOVEVO ---------------------------------------- Ret...
-*     Abonne-toi à la CHAINE OFFICIELLE VEVO de KYO pour découvrir toutes leurs nouvelles vidéos : http://www.youtube.com/subscription_center?add_user=KYOVEVO ---------------------------------------- Ret...
-*     Abonne-toi à la CHAINE OFFICIELLE VEVO de KYO pour découvrir toutes leurs nouvelles vidéos : http://www.youtube.com/subscription_center?add_user=KYOVEVO ---------------------------------------- Ret...
-*     Abonne-toi à la CHAINE OFFICIELLE VEVO de KYO pour découvrir toutes leurs nouvelles vidéos : http://www.youtube.com/subscription_center?add_user=KYOVEVO ---------------------------------------- Ret...
-*     Abonne-toi à la CHAINE OFFICIELLE VEVO de LUKE pour découvrir toutes ses nouvelles vidéos : http://www.youtube.com/subscription_center?add_user=LukeVEVO ---------------------------------------- Ret...
-*     Abonne-toi à la CHAINE OFFICIELLE VEVO de LUKE pour découvrir toutes ses nouvelles vidéos : http://www.youtube.com/subscription_center?add_user=LukeVEVO ---------------------------------------- Ret...
+*     Abonne-toi à la CHAINE OFFICIELLE VEVO de KYO pour découvrir toutes leurs nouvelles vidéos : [](http://www.youtube.com/subscription_center?add_user=KYOVEVO) ---------------------------------------- Ret...
+*     Abonne-toi à la CHAINE OFFICIELLE VEVO de KYO pour découvrir toutes leurs nouvelles vidéos : [](http://www.youtube.com/subscription_center?add_user=KYOVEVO) ---------------------------------------- Ret...
+*     Abonne-toi à la CHAINE OFFICIELLE VEVO de KYO pour découvrir toutes leurs nouvelles vidéos : [](http://www.youtube.com/subscription_center?add_user=KYOVEVO) ---------------------------------------- Ret...
+*     Abonne-toi à la CHAINE OFFICIELLE VEVO de KYO pour découvrir toutes leurs nouvelles vidéos : [](http://www.youtube.com/subscription_center?add_user=KYOVEVO) ---------------------------------------- Ret...
+*     Abonne-toi à la CHAINE OFFICIELLE VEVO de LUKE pour découvrir toutes ses nouvelles vidéos : [](http://www.youtube.com/subscription_center?add_user=LukeVEVO) ---------------------------------------- Ret...
+*     Abonne-toi à la CHAINE OFFICIELLE VEVO de LUKE pour découvrir toutes ses nouvelles vidéos : [](http://www.youtube.com/subscription_center?add_user=LukeVEVO) ---------------------------------------- Ret...
 *     Aeropuertos. Unos vienen, otros se van,
 *     alloga150786
 *     AlMagno
@@ -476,19 +476,19 @@ I promessi sposi
 *     Guillaume Grand - Toi et moi
 *     holahelio
 *     How Russia Is Dividing America with Real "Fake News": The Daily Show
-* http://shop.mymajorcompany.com/ Disponible sur iTunes : http://clk.tradedoubler.com/click?p=23753&a=1703538&g=17141514&td_partnerId=2003&url=http://itunes.apple.com/fr/album/id398867471?ign-mpt=uo%...
-* http://shop.mymajorcompany.com/ http://shop.mymajorcompany.com/ iTunes : http://clk.tradedoubler.com/click?p=23753&a=1703538&g=17141514&td_partnerId=2003&url=http://itunes.apple.com/fr/album/toi-mo...
-* http://shop.mymajorcompany.com/ iTunes : http://clk.tradedoubler.com/click?p=23753&a=1703538&g=17141514&td_partnerId=2003&url=http://itunes.apple.com/fr/album/le-meme-soleil-collectors/id477769518 ...
-* http://shop.mymajorcompany.com/ iTunes : http://clk.tradedoubler.com/click?p=23753&a=1703538&g=17141514&td_partnerId=2003&url=http://itunes.apple.com/fr/album/sur-mes-gardes/id349761928 Retrouvez J...
-* http://shop.mymajorcompany.com/ iTunes : http://clk.tradedoubler.com/click?p=23753&a=1703538&g=17141514&td_partnerId=2003&url=http://itunes.apple.com/fr/album/toi-moi/id290647573 Facebook : https:/...
-* http://shop.mymajorcompany.com/ L'album sur iTunes : http://clk.tradedoubler.com/click?p=23753&a=1703538&g=17141514&td_partnerId=2003&url=http://itunes.apple.com/fr/album/sur-mes-gardes-collector/i...
-* http://shop.mymajorcompany.com/ Toi + Moi est dispo sur iTunes : http://bit.ly/iTunes_toi_moi Grégoire est un artiste My Major Company Label : http://www.mymajorcompany-label.com/artist/gregoire L...
+* [shop.mymajorcompany.com/](http://shop.mymajorcompany.com/) Disponible sur iTunes : [clk.tradedoubler.com/click?p=23753&a=1703538&g=17141514&td_partnerId=2003&url=http://itunes.apple.com/fr/album/id398867471?ign-mpt=uo%...](http://clk.tradedoubler.com/click?p=23753&a=1703538&g=17141514&td_partnerId=2003&url=http://itunes.apple.com/fr/album/id398867471?ign-mpt=uo%...)
+* [shop.mymajorcompany.com/](http://shop.mymajorcompany.com/) [shop.mymajorcompany.com/](http://shop.mymajorcompany.com/) iTunes : [clk.tradedoubler.com/click?p=23753&a=1703538&g=17141514&td_partnerId=2003&url=http://itunes.apple.com/fr/album/toi-mo...](http://clk.tradedoubler.com/click?p=23753&a=1703538&g=17141514&td_partnerId=2003&url=http://itunes.apple.com/fr/album/toi-mo...)
+* [shop.mymajorcompany.com/](http://shop.mymajorcompany.com/) iTunes : [clk.tradedoubler.com/click?p=23753&a=1703538&g=17141514&td_partnerId=2003&url=http://itunes.apple.com/fr/album/le-meme-soleil-collectors/id477769518](http://clk.tradedoubler.com/click?p=23753&a=1703538&g=17141514&td_partnerId=2003&url=http://itunes.apple.com/fr/album/le-meme-soleil-collectors/id477769518) ...
+* [shop.mymajorcompany.com/](http://shop.mymajorcompany.com/) iTunes : [clk.tradedoubler.com/click?p=23753&a=1703538&g=17141514&td_partnerId=2003&url=http://itunes.apple.com/fr/album/sur-mes-gardes/id349761928](http://clk.tradedoubler.com/click?p=23753&a=1703538&g=17141514&td_partnerId=2003&url=http://itunes.apple.com/fr/album/sur-mes-gardes/id349761928) Retrouvez J...
+* [shop.mymajorcompany.com/](http://shop.mymajorcompany.com/) iTunes : [clk.tradedoubler.com/click?p=23753&a=1703538&g=17141514&td_partnerId=2003&url=http://itunes.apple.com/fr/album/toi-moi/id290647573](http://clk.tradedoubler.com/click?p=23753&a=1703538&g=17141514&td_partnerId=2003&url=http://itunes.apple.com/fr/album/toi-moi/id290647573) Facebook : https:/...
+* [shop.mymajorcompany.com/](http://shop.mymajorcompany.com/) L'album sur iTunes : [clk.tradedoubler.com/click?p=23753&a=1703538&g=17141514&td_partnerId=2003&url=http://itunes.apple.com/fr/album/sur-mes-gardes-collector/i...](http://clk.tradedoubler.com/click?p=23753&a=1703538&g=17141514&td_partnerId=2003&url=http://itunes.apple.com/fr/album/sur-mes-gardes-collector/i...)
+* [shop.mymajorcompany.com/](http://shop.mymajorcompany.com/) Toi + Moi est dispo sur iTunes : [bit.ly/iTunes_toi_moi](http://bit.ly/iTunes_toi_moi) Grégoire est un artiste My Major Company Label : [mymajorcompany-label.com/artist/gregoire](http://www.mymajorcompany-label.com/artist/gregoire) L...
 *     iacobelli7
 *     igual que A...
 *     indieespanol
 *     Indochine - J'ai demandé à la lune
 *     indochineVEVO
-*     J'ai demandé à la lune, extrait de l'album 'Paradize', disponible ici: https://Indochine.lnk.to/Paradize Clip réalisé par Yves Bottalico. --------------- Abonne-toi au VEVO officiel d'INDOCHINE ...
+*     J'ai demandé à la lune, extrait de l'album 'Paradize', disponible ici: [Indochine.lnk.to/Paradize](https://Indochine.lnk.to/Paradize) Clip réalisé par Yves Bottalico. --------------- Abonne-toi au VEVO officiel d'INDOCHINE ...
 *     John Oliver discusses the way the NRA not only works to prevent gun control, they work to prevent an informed discussion about gun control. Connect with Last Week Tonight online... Subscribe to t...
 *     Joyce Jonathan - Je ne sais pas (Clip officiel)
 *     Joyce Jonathan - Tant pis (Clip officiel)
@@ -502,7 +502,7 @@ I promessi sposi
 *     KyoVEVO
 *     KyoVEVO
 *     Las más bellas canciones italianas (lo mejor de la música italiana)
-*     Las más bellas canciones italianas (lo mejor de la música italiana) Suscríbete a nuestro canal para no perder todas las noticias https://www.youtube.com/user/buenasuerterecord Síguenos en https:/...
+*     Las más bellas canciones italianas (lo mejor de la música italiana) Suscríbete a nuestro canal para no perder todas las noticias [](https://www.youtube.com/user/buenasuerterecord) Síguenos en https:/...
 *     LastWeekTonight
 *     LastWeekTonight
 *     Late Night with Seth Meyers
@@ -515,10 +515,10 @@ I promessi sposi
 *     Luke - Soledad
 *     LukeVEVO
 *     LukeVEVO
-*     Lyric vídeo de Cualquier otra parte. Canción de DORIAN incluida en su disco Diez años y un día. Single ya a a la venta en iTunes: https://itunes.apple.com/es/album/cualquier-otra-parte-single/id970...
+*     Lyric vídeo de Cualquier otra parte. Canción de DORIAN incluida en su disco Diez años y un día. Single ya a a la venta en iTunes: [itunes.apple.com/es/album/cualquier-otra-parte-single/id970...](https://itunes.apple.com/es/album/cualquier-otra-parte-single/id970...)
 *     Man Created God in His Own Image - Daniel Dennett Debate Part 1
-*     Man Created God in His Own Image - Daniel Dennett Debate Part 1 Daniel Dennett debates Dinesh D'Souza on the question "Is god a man-made invention?" SUBSCRIBE to "Question Everything" https://www...
-*     Music video by Cake performing I Will Survive. (C) 1996 Volcano Entertainment III, LLC http://vevo.ly/GA7SJL
+*     Man Created God in His Own Image - Daniel Dennett Debate Part 1 Daniel Dennett debates Dinesh D'Souza on the question "Is god a man-made invention?" SUBSCRIBE to "Question Everything" [..](https://www...)
+*     Music video by Cake performing I Will Survive. (C) 1996 Volcano Entertainment III, LLC [vevo.ly/GA7SJL](http://vevo.ly/GA7SJL)
 *     Music video by Guillaume Grand performing Toi Et Moi.
 *     Music video by Los Planetas performing Un Buen Dia. (C) 2000 BMG Music Spain, S.A.
 *     Music video by Noir DÃƒÂ©sir performing Le Vent Nous Portera. (C) 2001 Barclay
@@ -542,10 +542,10 @@ I promessi sposi
 *     Rubber Soul
 *     Salvatore Rappa
 *     se fue tras luces pálidas.
-*     Seth takes a closer look at President Trump's disastrous visit to Puerto Rico and the renewed debate over gun laws. » Subscribe to Late Night: http://bit.ly/LateNightSeth » Get more Late Night with...
+*     Seth takes a closer look at President Trump's disastrous visit to Puerto Rico and the renewed debate over gun laws. » Subscribe to Late Night: [bit.ly/LateNightSeth](http://bit.ly/LateNightSeth) » Get more Late Night with...
 *     sidonievideo
 *     Subterfuge Records
-*     Suscríbete al canal oficial de Subterfuge Records http://bit.ly/1e2pbv9 Escuchar / Descargar AUSTRALIAN BLONDE - Chup Chup en: iTunes: http://apple.co/1XhTB3r Spotify: http://spoti.fi/1IiPAzy Deez...
+*     Suscríbete al canal oficial de Subterfuge Records [bit.ly/1e2pbv9](http://bit.ly/1e2pbv9) Escuchar / Descargar AUSTRALIAN BLONDE - Chup Chup en: iTunes: [apple.co/1XhTB3r](http://apple.co/1XhTB3r) Spotify: [spoti.fi/1IiPAzy](http://spoti.fi/1IiPAzy) Deez...
 *     Svensk, dansk og norsk
 *     Take Me To Church - Hozier / Traduzione in Italiana
 *     Take Me To Church - Hozier / Traduzione in Italiana
@@ -570,8 +570,8 @@ I promessi sposi
 *     Cake - Never There
 *     Cake - Short Skirt / Long Jacket
 *     Cake - The Distance
-*     Cake's official music video for 'Short Skirt / Long Jacket'. Click to listen to Cake on Spotify: http://smarturl.it/CakeSpotify?IQid=CakeSSLJ As featured on Comfort Eagle. Click to buy the track o...
-*     Cake's official music video for 'The Distance'. Click to listen to Cake on Spotify: http://smarturl.it/CakeSpotify?IQid=CTD As featured on Fashion Nugget. Click to buy the track or album via iTune...
+*     Cake's official music video for 'Short Skirt / Long Jacket'. Click to listen to Cake on Spotify: [smarturl.it/CakeSpotify?IQid=CakeSSLJ](http://smarturl.it/CakeSpotify?IQid=CakeSSLJ) As featured on Comfort Eagle. Click to buy the track o...
+*     Cake's official music video for 'The Distance'. Click to listen to Cake on Spotify: [smarturl.it/CakeSpotify?IQid=CTD](http://smarturl.it/CakeSpotify?IQid=CTD) As featured on Fashion Nugget. Click to buy the track or album via iTune...
 *     CakeVEVO
 *     CakeVEVO
 *     CakeVEVO
@@ -580,7 +580,7 @@ I promessi sposi
 *     A beautiful duett between Jonas Fjeld and Lynni Treekrem.
 *     aape kop
 *     Aeropuertos. Unos vienen, otros se van,
-*     Album Kayah „Kayah&Bregovic” dostępny na: https://SonyMusicPoland.lnk.to/KayahBregovicAY Więcej teledysków od Kayah: Testosteron: https://youtu.be/x9QKRpALphM Na językach: https://youtu.be/dJbaMhT...
+*     Album Kayah „Kayah&Bregovic” dostępny na: [SonyMusicPoland.lnk.to/KayahBregovicAY](https://SonyMusicPoland.lnk.to/KayahBregovicAY) Więcej teledysków od Kayah: Testosteron: [youtu.be/x9QKRpALphM](https://youtu.be/x9QKRpALphM) Na językach: [youtu.be/dJbaMhT...](https://youtu.be/dJbaMhT...)
 *     AlMagno
 *     Ameerah AlGohary
 *     Anioły Stróże Na Niebieskich Łabędziach
@@ -634,7 +634,7 @@ I promessi sposi
 *     Kumka Olik
 *     Latają Nad Nami !
 *     Lemonada - 04. Jnoon ليمونادا	جنون
-*     Lemonada The Arabian Latin Chillout Track no.4 Jnoon To download the whole album, http://rs169.rapidshare.com/files/110579375/Lemonada - The_Arabian_Latin_Chillout.rar/?visit=PaylessSofts.net_for_th...
+*     Lemonada The Arabian Latin Chillout Track no.4 Jnoon To download the whole album, [rs169.rapidshare.com/files/110579375/Lemonada](http://rs169.rapidshare.com/files/110579375/Lemonada) - The_Arabian_Latin_Chillout.rar/?visit=PaylessSofts.net_for_th...
 *     Live Kulturby - åpningen Stavanger 12
 *     Lolaila Carmona el 1º single del primer álbum de Napoleón Solo "Napoleón Solo en la ópera". ((c) 2010 El Volcán Música. Premio "Discovery Artist" en el L.A.M.C. (New York) 2011 Napoleón Solo so...
 *     Marius Müller - Carmen
@@ -656,7 +656,7 @@ I promessi sposi
 *     Noir Désir - Le Vent Nous Portera
 *     NoirDesirVEVO
 *     NRA: Last Week Tonight with John Oliver (HBO)
-*     Nya albumet "Säg ingenting till mig" släpps 14 oktober! http://www.melissahorn.se
+*     Nya albumet "Säg ingenting till mig" släpps 14 oktober! [melissahorn.se](http://www.melissahorn.se)
 *     Oficjalna wersja klipu "Zaspane poniedziałki" tylko na naszym youtube!
 *     Ombra fedele anch'io - Idaspe (1730) de Riccardo Broschi. Farinelli
 *     One of the most popular Dutch songs with both English and Dutch lyrics (Sorry for any translation mistakes, my Dutch is not perfect)
@@ -675,7 +675,7 @@ I promessi sposi
 *     Salvatore Rappa
 *     se fue tras luces pálidas.
 *     sebastyenn
-*     Seth takes a closer look at President Trump's disastrous visit to Puerto Rico and the renewed debate over gun laws. » Subscribe to Late Night: http://bit.ly/LateNightSeth » Get more Late Night with...
+*     Seth takes a closer look at President Trump's disastrous visit to Puerto Rico and the renewed debate over gun laws. » Subscribe to Late Night: [bit.ly/LateNightSeth](http://bit.ly/LateNightSeth) » Get more Late Night with...
 *     sidonievideo
 *     Sol Storkaas
 *     spds777
@@ -684,7 +684,7 @@ I promessi sposi
 *     The Dead South
 *     The scientist dei Coldplay con testo tradotto in italiano.
 *     The Washing Machine
-*     To watch my other videos with double subtitles, go there : http://www.youtube.com/user/frenchrescue "Je suis malade" by Lara Fabian (written by Jacques Brel, sung by Serge Lama and Dalida too). A...
+*     To watch my other videos with double subtitles, go there : [](http://www.youtube.com/user/frenchrescue) "Je suis malade" by Lara Fabian (written by Jacques Brel, sung by Serge Lama and Dalida too). A...
 *     Twój Tata Jest Z Nimi !
 *     Un día en el mundo (2008)
 *     Videoclip desdepedida de Sidonie a sus Fans y que se estreno en el concierto fin de Gira en joy Eslava.
@@ -694,9 +694,9 @@ I promessi sposi
 *     Wardeen
 *     winthernight
 *     Zabili Mi Żółwia - Wiosna
-*     Zamów DVD Live10 na http://www.live10.pl Teledysk Zdjęcia i reżyseria: Dawid Meller Występuje: Marcin Pająk
+*     Zamów DVD Live10 na [live10.pl](http://www.live10.pl) Teledysk Zdjęcia i reżyseria: Dawid Meller Występuje: Marcin Pająk
 *     خلينا نحلم - مسجلة الأحلام من تونس ومصر	Let's Dream	Tunisia/Egypt
-*     لتنزيل "رقصة ليلى" من iTunes: http://apple.co/2fSojkI للاستماع لأغنية "رقصة ليلى" على Apple Music: http://apple.co/2ekJSsS Mashrou' Leila - Raksit Leila
+*     لتنزيل "رقصة ليلى" من iTunes: [apple.co/2fSojkI](http://apple.co/2fSojkI) للاستماع لأغنية "رقصة ليلى" على Apple Music: [apple.co/2ekJSsS](http://apple.co/2ekJSsS) Mashrou' Leila - Raksit Leila
 *     مشروع ليلى - فساتين
 * - Listening List (1)
 *     Carlos y Alexandra
@@ -1140,7 +1140,7 @@ I promessi sposi
 * [Слух](https://www.youtube.com/channel/UCf8Du8VB0xG5z8N68zbAayQ)
 *
 * [Прокофьев Сергей Сергеевич. Русский-советский композитор. Неоклассицизм. (1891-1953) - musica](https://vk.com/wall-159882_223956)*
-* http://www.antonin-dvorak.cz/dilo/chronologicky
+* [antonin-dvorak.cz/dilo/chronologicky](http://www.antonin-dvorak.cz/dilo/chronologicky)
 *
 * [Le Roi Soleil - Tant qu'on reve encore](https://www.youtube.com/watch?v=QbCkB5HSknc&list=PLbeHhGA3gg_TiQb6Z9-VnAnOqWFUFxdBQ&index=17)
 *
@@ -1667,7 +1667,7 @@ I promessi sposi
 * [LittleAngels38](https://www.youtube.com/user/LittleAngels38)
 *
 * [Guardians of the Galaxy: Awesome Mix (Vol. 1 & Vol. 2) (Full Soundtrack) - YouTube](https://www.youtube.com/watch?v=Kt-tLuszKBA)*
-* [UNITED24: Music for Ukraine](https://open.spotify.com/playlist/37i9dQZF1DWY0TJvcbosib?si=Yit1mBgaTiWk2UbgCErf4A&utm_source=native-share-menu&nd=1)*
+* [UNITED24: Music for Ukraine](https://open.spotify.com/playlist/37i9dQZF1DWY0TJvcbosib?si=Yit1mBgaTiWk2UbgCErf4A)*
 * [Wellerman UK](https://youtu.be/CNfYI6F5mXQ)*
 * [Der Sound der RED HOT CHILI PEPPERS | #WieGehtEigentlichMusik](https://youtu.be/0KXhEJwupnE)*
 * [New Radicals - You Get What You Give (Official Music Video) - YouTube](https://www.youtube.com/watch?v=DL7-CKirWZE)*
@@ -1711,8 +1711,8 @@ I promessi sposi
 *     Les Miserables in Swedish - At the End of the Day (När en dag är förbi) - YouTube*
 * [Discografia do Radiohead é explicada com cenas do Choque de Cultura - TMDQA!](http://www.tenhomaisdiscosqueamigos.com/2018/06/13/radiohead-choque-cultura/)
 *     Herbert Bruhn - Musik hören, Musik erleben (Connecting Media conference, Hamburg 2006) - YouTube
-* https://es.quora.com/Cu%C3%A1l-es-el-significado-detr%C3%A1s-de-Bohemian-Rhapsody
-* https://it.wikipedia.org/wiki/Jeremiah_Clarke*
+* [es.quora.com/Cu%C3%A1l-es-el-significado-detr%C3%A1s-de-Bohemian-Rhapsody](https://es.quora.com/Cu%C3%A1l-es-el-significado-detr%C3%A1s-de-Bohemian-Rhapsody)
+* [it.wikipedia.org/wiki/Jeremiah_Clarke*](https://it.wikipedia.org/wiki/Jeremiah_Clarke*)
 * [Las reinas del trap - YouTube](https://www.youtube.com/watch?v=dXJ7h3u2KyQ)*
 * [Paul van Gulick: Over muziek en zo](http://muziekplus.blogspot.com/)*
 * [aria - hero of asphalt - full album - YouTube](https://www.youtube.com/watch?v=3JnA2Jw894s)*
@@ -1731,7 +1731,7 @@ I promessi sposi
 *     Steve Jackson - L.O.R - YouTube*
 * [KAZKA — ПЛАКАЛА [OFFICIAL VIDEO] - YouTube](https://www.youtube.com/watch?v=5Fv19KVVya8)
 *     Ой летіли дикі гуси - Piccard Tercia - Піккардійська Терція - YouTube
-* https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B9%D1%82%D0%B0%D0%BD%D0%B0*
+* [ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B9%D1%82%D0%B0%D0%BD%D0%B0*](https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B9%D1%82%D0%B0%D0%BD%D0%B0*)
 * [Carla Bruni - Quelqu'un m'a dit (Full Album) (2002) - YouTube](https://www.youtube.com/watch?v=1IFxb5Tl1oc)*
 * [Diam's - Car Tu Portes Mon Nom (Audio officiel) - YouTube](https://www.youtube.com/watch?v=fuksjJJsQJE)*
 * [Fatal Bazooka feat Yelle - Parle à ma main - YouTube](https://www.youtube.com/watch?v=Q4FamibkUH4)*
@@ -1760,7 +1760,7 @@ I promessi sposi
 * [Beauty and the Beast - Theme Song (EU Portuguese) *Lyrics* HQ - YouTube](https://www.youtube.com/watch?v=Et9UM9Bv5Fg)*
 * [Ed Sheeran - Shape Of You (Português) - YouTube](https://www.youtube.com/watch?v=Qprn_YcZkjs)*
 * [Hello Adele (Versão em português-Cover Andrielly Souza) - YouTube](https://www.youtube.com/watch?v=aZ5e3qkJV1A)
-* https://www.youtube.com/user/Cenamusical*
+* [](https://www.youtube.com/user/Cenamusical*)
 * [Luísa Sonza - Despacito (Versão em português) - YouTube](https://www.youtube.com/watch?v=i7eUduLETBE)
 *     Os Miseráveis - Completo - YouTube*
 * [Toquinho, Aquarela original portugués, subtitulos en castellano - YouTube](https://www.youtube.com/watch?v=XgfIkDnR0nw)
@@ -1815,35 +1815,35 @@ I promessi sposi
 *     Danube
 *     Schindler's List
 * - Music Theory
-* https://github.com/twitchax/kord
-* https://kord.twitchax.com/describe *
+* [twitchax/kord](https://github.com/twitchax/kord)
+* [kord.twitchax.com/describe](https://kord.twitchax.com/describe) *
 * [Музыка и аутизм — Памела Хитон / ПостНаука](https://www.youtube.com/watch?v=Lz7jqW_mXPQ&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=19)*
 * [Aprender música enseña a leer](https://theconversation.com/aprender-musica-ensena-a-leer-106599)
-* https://www.letras.mus.br/*
-* [Dictionary of music: http://chto-proishodit.ru/news/2014/10/18/104004827](http://chto-proishodit.ru/news/2014/10/18/104004827)*
-* [Italian terms: http://www.biometrica.tomsk.ru/ftp/dict/muzic/vocab.htm](http://www.biometrica.tomsk.ru/ftp/dict/muzic/vocab.htm)
-* http://bibliotekar.ru/slovar-muzika/index.htm*
-* [German-English: http://bibliotekar.ru/slovar-muzika/index.htm](http://bibliotekar.ru/slovar-muzika/index.htm)*
-* [French: http://www.pianoweb.fr/dictionnaire-musique-accueil.php](http://www.pianoweb.fr/dictionnaire-musique-accueil.php)*
-* [Українська: http://term.in.ua/](http://term.in.ua/)*
-* [English: http://dictionary.onmusic.org/](http://dictionary.onmusic.org/)*
-* [Spanish: http://aprendeinglessila.com/2013/02/vocabulario-terminos-musicales-en-ingles-parte-2-con-pronunciacion-2/](http://aprendeinglessila.com/2013/02/vocabulario-terminos-musicales-en-ingles-parte-2-con-pronunciacion-2/)*
+* [letras.mus.br/*](https://www.letras.mus.br/*)
+* [Dictionary of music: [chto-proishodit.ru/news/2014/10/18/104004827](http://chto-proishodit.ru/news/2014/10/18/104004827)*](http://chto-proishodit.ru/news/2014/10/18/104004827](http://chto-proishodit.ru/news/2014/10/18/104004827)*)
+* [Italian terms: [biometrica.tomsk.ru/ftp/dict/muzic/vocab.htm](http://www.biometrica.tomsk.ru/ftp/dict/muzic/vocab.htm)](http://www.biometrica.tomsk.ru/ftp/dict/muzic/vocab.htm](http://www.biometrica.tomsk.ru/ftp/dict/muzic/vocab.htm))
+* [bibliotekar.ru/slovar-muzika/index.htm*](http://bibliotekar.ru/slovar-muzika/index.htm*)
+* [German-English: [bibliotekar.ru/slovar-muzika/index.htm](http://bibliotekar.ru/slovar-muzika/index.htm)*](http://bibliotekar.ru/slovar-muzika/index.htm](http://bibliotekar.ru/slovar-muzika/index.htm)*)
+* [French: [pianoweb.fr/dictionnaire-musique-accueil.php](http://www.pianoweb.fr/dictionnaire-musique-accueil.php)*](http://www.pianoweb.fr/dictionnaire-musique-accueil.php](http://www.pianoweb.fr/dictionnaire-musique-accueil.php)*)
+* [Українська: [term.in.ua/](http://term.in.ua/)*](http://term.in.ua/](http://term.in.ua/)*)
+* [English: [dictionary.onmusic.org/](http://dictionary.onmusic.org/)*](http://dictionary.onmusic.org/](http://dictionary.onmusic.org/)*)
+* [Spanish: [aprendeinglessila.com/2013/02/vocabulario-terminos-musicales-en-ingles-parte-2-con-pronunciacion-2/](http://aprendeinglessila.com/2013/02/vocabulario-terminos-musicales-en-ingles-parte-2-con-pronunciacion-2/)*](http://aprendeinglessila.com/2013/02/vocabulario-terminos-musicales-en-ingles-parte-2-con-pronunciacion-2/](http://aprendeinglessila.com/2013/02/vocabulario-terminos-musicales-en-ingles-parte-2-con-pronunciacion-2/)*)
 * [musopen.org](http://musopen.org/)
-* http://www.artehistoria.com/
-* http://www.apassion4jazz.net/glossary.html
-* http://www.freejazzlessons.com/4-jazz-piano-chord-voicings/*
+* [artehistoria.com/](http://www.artehistoria.com/)
+* [apassion4jazz.net/glossary.html](http://www.apassion4jazz.net/glossary.html)
+* [freejazzlessons.com/4-jazz-piano-chord-voicings/*](http://www.freejazzlessons.com/4-jazz-piano-chord-voicings/*)
 * [Musiklehre: Die Notenwerte – Wikibooks, Sammlung freier Lehr-, Sach- und Fachbücher](https://de.wikibooks.org/wiki/Musiklehre:_Die_Notenwerte)*
 * [The transformative power of classical music | Benjamin Zander - YouTube](https://www.youtube.com/watch?v=r9LCwI5iErE)
-* https://www.theguardian.com/music/series/a-guide-to-contemporary-classical-music
-* http://es.wikipedia.org/wiki/Anexo:Glosario_de_terminolog%C3%ADa_musical
+* [theguardian.com/music/series/a-guide-to-contemporary-classical-music](https://www.theguardian.com/music/series/a-guide-to-contemporary-classical-music)
+* [es.wikipedia.org/wiki/Anexo:Glosario_de_terminolog%C3%ADa_musical](http://es.wikipedia.org/wiki/Anexo:Glosario_de_terminolog%C3%ADa_musical)
 * - Reading*
 * [Devil Music: A History of the Occult in Rock & Roll](https://medium.com/cuepoint/devil-music-a-history-of-the-occult-in-rock-roll-3e671a821ba5)
-* http://www.edutopia.org/arts-music-curriculum-child-development
+* [edutopia.org/arts-music-curriculum-child-development](http://www.edutopia.org/arts-music-curriculum-child-development)
 *     The Art of Listening - Music Documentary (2017)de The Art of Listening*
 * [MusicBrainz - The Open Music Encyclopedia](https://musicbrainz.org/)
 *     Pochemu skripki Stradivarii takie orogije*
 * [Вся история музыки в 65 карточках • Arzamas](https://arzamas.academy/mag/594-muztabl)
-* https://www.wqxr.org/story/leonard-bernstein-bookshelf-intimate-look/
+* [wqxr.org/story/leonard-bernstein-bookshelf-intimate-look/](https://www.wqxr.org/story/leonard-bernstein-bookshelf-intimate-look/)
 * - Books*
 * [Musik in der Zeit - Zeit in der Musik](https://vk.com/doc6576953_409905954?hash=ee6b61cef2e2a13b15&dl=6f29ee3bd722fe3bae)*
 * [Musikästhetik](https://vk.com/doc6576953_409905957?hash=0ab03e1e99815d7d96&dl=1a91d2de19d391ea80)*
@@ -1853,7 +1853,7 @@ I promessi sposi
 *     Die Kunst Bachs
 *     Die Kunst Bachs*
 * [história da música](http://libgen.io/search.php?req=historia+da+musica&open=0&res=25&view=simple&phrase=1&column=def)
-* https://b-ok.cc/s/advanced%20music%20theory
+* [b-ok.cc/s/advanced%20music%20theory](https://b-ok.cc/s/advanced%20music%20theory)
 *     J.S.B. Genie über den Zeiten
 *     Musik und Mathematik (Kittler)
 *     Musik und Natur
@@ -1864,11 +1864,11 @@ I promessi sposi
 * [see links](https://b-ok.cc/book/455687/83b91c)*
 * [The Origins of Music (see also links)](https://b-ok.cc/book/541380/0e679d)
 * - Writing
-* https://www.hacklily.org/
-* http://lilypond.org/doc/v2.18/Documentation/notation/
-* https://martin-thoma.com/how-to-write-music-with-latex/
+* [hacklily.org/](https://www.hacklily.org/)
+* [lilypond.org/doc/v2.18/Documentation/notation/](http://lilypond.org/doc/v2.18/Documentation/notation/)
+* [martin-thoma.com/how-to-write-music-with-latex/](https://martin-thoma.com/how-to-write-music-with-latex/)
 *     - -> ~/code/other/LaTeX\ templates/music* - Notes
-* http://imslp.org/wiki/Pagina_principale
+* [imslp.org/wiki/Pagina_principale](http://imslp.org/wiki/Pagina_principale)
 * - Classical*
 * [Boccherini: String Quintets, Op. 10, 11 & 13 - YouTube](https://www.youtube.com/watch?v=mTL3ItzPIec)*
 * [Brahms - Cello Sonata No.1 in E minor, Op. 38 - YouTube](https://www.youtube.com/watch?v=9XiYrzsgWto)*
@@ -1911,16 +1911,16 @@ I promessi sposi
 * [Edvard Grieg - String Quartet No. 1 in g minor [With score] - YouTube](https://www.youtube.com/watch?v=OM9hdCpdcqc)*
 * [Elgar - Piano Quintet in A minor, Op. 84 (1918) - YouTube](https://www.youtube.com/watch?v=hOpiAxga3Ts)*
 * [Franz Liszt: Liebestraum cello and piano - YouTube](https://www.youtube.com/watch?v=eW_MAQj0aIA)
-* https://de.wikipedia.org/wiki/Agathe_Backer_Gr%C3%B8ndahl*
+* [de.wikipedia.org/wiki/Agathe_Backer_Gr%C3%B8ndahl*](https://de.wikipedia.org/wiki/Agathe_Backer_Gr%C3%B8ndahl*)
 * [Relaxing Classical Cello Music Solo - Soothing Instrumental Background Pieces | Study, Work, Relax - YouTube](https://www.youtube.com/watch?v=Z7-oHCWoU8s)*
 * [Renaissance Lute - John Dowland (Album) - YouTube](https://www.youtube.com/watch?v=bq126uwwOBo)*
 * [Robert Schumann - Piano Quintet in E flat major, Op. 44 - YouTube](https://www.youtube.com/watch?v=UQQxpJ7Pn1g)*
 * [Tchaikovsky - &quot;Invocation to Sleep&quot; (a capella) - YouTube](https://www.youtube.com/watch?v=P7E5S1EcGXs)
 * - List of Lists*
 * [Quality](https://www.youtube.com/watch?v=4SOGCC6o1vw&list=PLBC44EF157FAA6385)
-* http://www.ethnomusicologie.net/
-* https://b-ok.cc/s/?q=musik+und+mathematik
-* https://open.spotify.com/playlist/5acGzAC0OH4QDVj5hlFqlK*
+* [ethnomusicologie.net/](http://www.ethnomusicologie.net/)
+* [b-ok.cc/s/?q=musik+und+mathematik](https://b-ok.cc/s/?q=musik+und+mathematik)
+* [open.spotify.com/playlist/5acGzAC0OH4QDVj5hlFqlK*](https://open.spotify.com/playlist/5acGzAC0OH4QDVj5hlFqlK*)
 * [Countries With the Best Music - Top Ten List - TheTopTens®](https://www.thetoptens.com/countries-with-best-music/)*
 * [Danse Macabre](https://www.youtube.com/watch?v=NZBf9kIhuLI)*
 * [DESPACITO по-русски - Мари Говори - YouTube](https://www.youtube.com/watch?v=uoCLHGNKVSg)*
@@ -2037,21 +2037,21 @@ I promessi sposi
 * [Relax Music - Around The World - Africa - ONE HOUR of stressless african instrumental music](https://www.youtube.com/watch?v=a3lYEigrrqI)*
 * [BEAUTIFUL AFRICAN MUSIC - FARAFI](https://www.youtube.com/watch?v=ISy5WPqUWs4)
 * - Sheet Music
-* https://www.free-scores.com/PDF_EN/brahms-johannes-hungarian-dances-nos-20483.pdf
-* http://www.onlinepianist.com/sheets/viewer/?id=2122
-* https://musopen.org/sheetmusic/993/franz-liszt/hungarian-rhapsody-no-2-s-2442/
-* https://henseltlibrary.files.wordpress.com/2009/12/grieg_piano_concerto_solo-arrbygrieg.pdf
+* [free-scores.com/PDF_EN/brahms-johannes-hungarian-dances-nos-20483.pdf](https://www.free-scores.com/PDF_EN/brahms-johannes-hungarian-dances-nos-20483.pdf)
+* [onlinepianist.com/sheets/viewer/?id=2122](http://www.onlinepianist.com/sheets/viewer/?id=2122)
+* [musopen.org/sheetmusic/993/franz-liszt/hungarian-rhapsody-no-2-s-2442/](https://musopen.org/sheetmusic/993/franz-liszt/hungarian-rhapsody-no-2-s-2442/)
+* [henseltlibrary.files.wordpress.com/2009/12/grieg_piano_concerto_solo-arrbygrieg.pdf](https://henseltlibrary.files.wordpress.com/2009/12/grieg_piano_concerto_solo-arrbygrieg.pdf)
 * * - List
-* https://www.youtube.com/watch?v=u2pySXCmwpc
+* [](https://www.youtube.com/watch?v=u2pySXCmwpc)
 *             *
-* [2a) ЛМ http://teksty-pesenok.ru/rus-nautilus-pompilius/tekst-pesni-letuchaya-mysh-1996-akustika-lu/1866117/](http://teksty-pesenok.ru/rus-nautilus-pompilius/tekst-pesni-letuchaya-mysh-1996-akustika-lu/1866117/)
+* [2a) ЛМ [teksty-pesenok.ru/rus-nautilus-pompilius/tekst-pesni-letuchaya-mysh-1996-akustika-lu/1866117/](http://teksty-pesenok.ru/rus-nautilus-pompilius/tekst-pesni-letuchaya-mysh-1996-akustika-lu/1866117/)](http://teksty-pesenok.ru/rus-nautilus-pompilius/tekst-pesni-letuchaya-mysh-1996-akustika-lu/1866117/](http://teksty-pesenok.ru/rus-nautilus-pompilius/tekst-pesni-letuchaya-mysh-1996-akustika-lu/1866117/))
 *
 *             *     2b)
 *             *
-* [3a) https://www.youtube.com/watch?v=8jLTcsTenl4](https://www.youtube.com/watch?v=8jLTcsTenl4)*
-* https://www.youtube.com/watch?v=VS4fyxuFZvA&list=PLvuQhhwxi_LsFIF0dpRI6MkHTqeixZzZ8*
-* https://www.youtube.com/watch?v=N5UxzcMvkGA*
-* https://de.wikipedia.org/wiki/Liste_der_meistverkauften_Singles_in_Deutschland
+* [](https://www.youtube.com/watch?v=8jLTcsTenl4)*](https://www.youtube.com/watch?v=8jLTcsTenl4](https://www.youtube.com/watch?v=8jLTcsTenl4)*)
+* [](https://www.youtube.com/watch?v=VS4fyxuFZvA&list=PLvuQhhwxi_LsFIF0dpRI6MkHTqeixZzZ8*)
+* [](https://www.youtube.com/watch?v=N5UxzcMvkGA*)
+* [de.wikipedia.org/wiki/Liste_der_meistverkauften_Singles_in_Deutschland](https://de.wikipedia.org/wiki/Liste_der_meistverkauften_Singles_in_Deutschland)
 *
 *     3b) Möchtegang
 *             *     Dodo
@@ -2059,8 +2059,8 @@ I promessi sposi
 *             *     Manillio
 *             *     Pronto
 *             *
-* [3c) https://www.youtube.com/watch?v=BJicsrkN3hc](https://www.youtube.com/watch?v=BJicsrkN3hc)*
-* https://www.youtube.com/watch?v=gwMcY57M3V0
+* [](https://www.youtube.com/watch?v=BJicsrkN3hc)*](https://www.youtube.com/watch?v=BJicsrkN3hc](https://www.youtube.com/watch?v=BJicsrkN3hc)*)
+* [](https://www.youtube.com/watch?v=gwMcY57M3V0)
 *
 *             *     4)
 *
@@ -2082,9 +2082,9 @@ I promessi sposi
 *     8)
 *
 *     9) Meg’s Song*
-* https://lyricstranslate.com/de/mush-haul-ashaah-%D9%85%D8%B4-%D9%87%D9%82%D9%88%D9%84-%D8%B9%D8%B4%D9%82%D8%A7%D9%87-i-wont-say-it-im-love-i-will-not-say-i.html
+* [lyricstranslate.com/de/mush-haul-ashaah-%D9%85%D8%B4-%D9%87%D9%82%D9%88%D9%84-%D8%B9%D8%B4%D9%82%D8%A7%D9%87-i-wont-say-it-im-love-i-will-not-say-i.html](https://lyricstranslate.com/de/mush-haul-ashaah-%D9%85%D8%B4-%D9%87%D9%82%D9%88%D9%84-%D8%B9%D8%B4%D9%82%D8%A7%D9%87-i-wont-say-it-im-love-i-will-not-say-i.html)
 *             *     Make a Man out of You*
-* https://lyricstranslate.com/de/menkom-ha3mel-regal-%D9%85%D9%86%D9%83%D9%85-%D9%87%D8%B9%D9%84%D9%85-%D8%B1%D8%AC%D8%A7%D9%84-ill-make-man-out-you-i-will-make-men-o.html
+* [lyricstranslate.com/de/menkom-ha3mel-regal-%D9%85%D9%86%D9%83%D9%85-%D9%87%D8%B9%D9%84%D9%85-%D8%B1%D8%AC%D8%A7%D9%84-ill-make-man-out-you-i-will-make-men-o.html](https://lyricstranslate.com/de/menkom-ha3mel-regal-%D9%85%D9%86%D9%83%D9%85-%D9%87%D8%B9%D9%84%D9%85-%D8%B1%D8%AC%D8%A7%D9%84-ill-make-man-out-you-i-will-make-men-o.html)
 *
 *             *     10)
 *
@@ -3537,74 +3537,74 @@ Die Moldau
 Barcarolle
 
 
-* [Povl Dissing](https://open.spotify.com/artist/0qpWZe4Tl9yLoMSKdIREIT?si=cK5CKrviQgKzhHNOLH20zw&utm_source=native-share-menu&nd=1) (16)
-* https://47soul.com/discography/semitics/*
+* [Povl Dissing](https://open.spotify.com/artist/0qpWZe4Tl9yLoMSKdIREIT?si=cK5CKrviQgKzhHNOLH20zw) (16)
+* [47soul.com/discography/semitics/*](https://47soul.com/discography/semitics/*)
 * H.D
 * [КНИГИ ПО ИСТОРИИ АРХИТЕКТУРЫ](https://vk.com/wall-56611080_102898)*
 * H.E* - Sitios de traducción (como [inosmi.ru](http://inosmi.ru/))
 *     RU
 *
 * [http://inopressa.ru](http://inopressa.ru/)*
-* http://perevodika.ru/*
-* https://nytimesinmoscow.livejournal.com/
+* [perevodika.ru/*](http://perevodika.ru/*)
+* [nytimesinmoscow.livejournal.com/](https://nytimesinmoscow.livejournal.com/)
 *             *     FR
 *
-* http://actuarabe.com/*
-* https://www.ritimo.org/Articles-et-traductions*
-* https://www.courrierinternational.com/*
-* https://fr.sputniknews.com/presse/*
-* https://ru.ambafrance.org/-Revues-de-la-presse-russe-
+* [actuarabe.com/*](http://actuarabe.com/*)
+* [ritimo.org/Articles-et-traductions*](https://www.ritimo.org/Articles-et-traductions*)
+* [courrierinternational.com/*](https://www.courrierinternational.com/*)
+* [fr.sputniknews.com/presse/*](https://fr.sputniknews.com/presse/*)
+* [ru.ambafrance.org/-Revues-de-la-presse-russe-](https://ru.ambafrance.org/-Revues-de-la-presse-russe-)
 *             *     DE*
-* https://www.deutschlandfunk.de/internationale-presseschau.2860.de.html*
-* https://www.dekoder.org/de*
-* https://ar.qantara.de/*
-* https://de.sputniknews.com/zeitungen/
+* [deutschlandfunk.de/internationale-presseschau.2860.de.html*](https://www.deutschlandfunk.de/internationale-presseschau.2860.de.html*)
+* [dekoder.org/de*](https://www.dekoder.org/de*)
+* [ar.qantara.de/*](https://ar.qantara.de/*)
+* [de.sputniknews.com/zeitungen/](https://de.sputniknews.com/zeitungen/)
 *             *     IT*
-* https://www.ildialogo.org/index.htm*
-* http://www.largine.it/index.php/category/la-stampa-internazionale/
+* [ildialogo.org/index.htm*](https://www.ildialogo.org/index.htm*)
+* [largine.it/index.php/category/la-stampa-internazionale/](http://www.largine.it/index.php/category/la-stampa-internazionale/)
 *
 * [(https://www.lastampa.it/esteri](https://www.lastampa.it/esteri))*
-* http://www.nationbranditalia.it/immagine-stampa-estera/*
-* https://stampaestera.wordpress.com/*
-* https://www.ilfattoquotidiano.it/blog/italiadallestero/*
-* http://russiaintranslation.com/
+* [nationbranditalia.it/immagine-stampa-estera/*](http://www.nationbranditalia.it/immagine-stampa-estera/*)
+* [stampaestera.wordpress.com/*](https://stampaestera.wordpress.com/*)
+* [ilfattoquotidiano.it/blog/italiadallestero/*](https://www.ilfattoquotidiano.it/blog/italiadallestero/*)
+* [russiaintranslation.com/](http://russiaintranslation.com/)
 *
 *     ES*
-* https://prensa-internacional-traducida.com/*
-* https://mundo.sputniknews.com/prensa/
+* [prensa-internacional-traducida.com/*](https://prensa-internacional-traducida.com/*)
+* [mundo.sputniknews.com/prensa/](https://mundo.sputniknews.com/prensa/)
 *             *     PT*
-* https://www.dn.pt/tag/revista-de-imprensa-internacional.html
+* [dn.pt/tag/revista-de-imprensa-internacional.html](https://www.dn.pt/tag/revista-de-imprensa-internacional.html)
 *
-* http://www.ipri.pt/index.php/pt/publicacoes/revista-imprensa-int*
-* https://eco.pt/topico/internacional/
+* [ipri.pt/index.php/pt/publicacoes/revista-imprensa-int*](http://www.ipri.pt/index.php/pt/publicacoes/revista-imprensa-int*)
+* [eco.pt/topico/internacional/](https://eco.pt/topico/internacional/)
 *             *     AR*
-* https://www.memri.org/*
-* https://www.mc-doualiya.com/chronicles/world-press-mcd*
-* http://www.bbc.com/arabic/inthepress*
-* https://www.france24.com/ar/tv-shows/%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D8%AD%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/*
-* https://arabic.cnn.com/tag/shf-dwlyt*
-* https://ijnet.org/ar*
-* http://worldinarabic.com/category/daily-digest/*
-* http://www.aljazeera.net/news/presstour*
-* https://cpa.hypotheses.org/
+* [memri.org/*](https://www.memri.org/*)
+* [mc-doualiya.com/chronicles/world-press-mcd*](https://www.mc-doualiya.com/chronicles/world-press-mcd*)
+* [bbc.com/arabic/inthepress*](http://www.bbc.com/arabic/inthepress*)
+* [france24.com/ar/tv-shows/%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D8%AD%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/*](https://www.france24.com/ar/tv-shows/%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D8%AD%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/*)
+* [arabic.cnn.com/tag/shf-dwlyt*](https://arabic.cnn.com/tag/shf-dwlyt*)
+* [ijnet.org/ar*](https://ijnet.org/ar*)
+* [worldinarabic.com/category/daily-digest/*](http://worldinarabic.com/category/daily-digest/*)
+* [aljazeera.net/news/presstour*](http://www.aljazeera.net/news/presstour*)
+* [cpa.hypotheses.org/](https://cpa.hypotheses.org/)
 *             *     PL*
-* https://wiadomosci.onet.pl/swiatowe-media-o-polsce*
-* https://www.dw.com/pl/start/prasa/s-11397*
-* https://oko.press/
+* [wiadomosci.onet.pl/swiatowe-media-o-polsce*](https://wiadomosci.onet.pl/swiatowe-media-o-polsce*)
+* [dw.com/pl/start/prasa/s-11397*](https://www.dw.com/pl/start/prasa/s-11397*)
+* [oko.press/](https://oko.press/)
 *
 * [(https://oko.press/swiatowa-prasa-o-polsce-jednym-glosem-rzadzacy-reka-w-reke-z-faszystami/](https://oko.press/swiatowa-prasa-o-polsce-jednym-glosem-rzadzacy-reka-w-reke-z-faszystami/))
 *
 *     NL*
-* https://www.360magazine.nl/
+* [360magazine.nl/](https://www.360magazine.nl/)
 *             *     HR*
-* https://www.dw.com/hr/teme/s-9747*
-* https://www.index.hr/tag/173018/strani-mediji.aspx?page=1&take=14
+* [dw.com/hr/teme/s-9747*](https://www.dw.com/hr/teme/s-9747*)
+* [index.hr/tag/173018/strani-mediji.aspx?page=1&take=14](https://www.index.hr/tag/173018/strani-mediji.aspx?page=1&take=14)
 *
 *     ZH*
-* http://sputniknews.cn/tags/event_waiguomeitikanzhongguo/*
-* http://big5.sputniknews.cn/tags/event_waiguomeitikanzhongguo/*
-* http://www.epochtimes.com/gb/tag/%E5%A4%96%E5%9B%BD%E5%AA%92%E4%BD%93.html*
-* https://www.guancha.cn/WaiMeiKanZhongGuo
+* [sputniknews.cn/tags/event_waiguomeitikanzhongguo/*](http://sputniknews.cn/tags/event_waiguomeitikanzhongguo/*)
+* [big5.sputniknews.cn/tags/event_waiguomeitikanzhongguo/*](http://big5.sputniknews.cn/tags/event_waiguomeitikanzhongguo/*)
+* [epochtimes.com/gb/tag/%E5%A4%96%E5%9B%BD%E5%AA%92%E4%BD%93.html*](http://www.epochtimes.com/gb/tag/%E5%A4%96%E5%9B%BD%E5%AA%92%E4%BD%93.html*)
+* [guancha.cn/WaiMeiKanZhongGuo](https://www.guancha.cn/WaiMeiKanZhongGuo)
 *
 * - 16*
 * [NRK](https://www.nrk.no/)
@@ -3740,7 +3740,7 @@ Barcarolle
 * [YLE](http://areena.yle.fi/1-1931339)*
 * [RB Latein](http://www.radiobremen.de/nachrichten/latein/latein-startseite100.html)
 * - 10
-* http://www.taipeitimes.com/News/lang
+* [taipeitimes.com/News/lang](http://www.taipeitimes.com/News/lang)
 *
 * [RFI ZH](http://cn.rfi.fr/)
 *
@@ -3789,7 +3789,7 @@ Barcarolle
 * [رياضة الجزيرة - الصفحة الرئيسية](http://sport.aljazeera.net/)
 *
 * [مجلة المجلة - المجلة](http://arb.majalla.com/)*
-* https://www.raya.com/
+* [raya.com/](https://www.raya.com/)
 *             * - 8*
 * [Lercio](http://www.lercio.it/)
 *
@@ -4269,9 +4269,9 @@ Barcarolle
 * [УКРАЇНСЬКИЙ СВІТ](http://ukrsvit.org/)
 *
 * [Цікаві факти! - Цікаві факти! - інформаційний інтернет-журнал](http://cikavi-faktu.pp.ua/)*
-* https://znaj.ua/*
-* http://hvylya.net/*
-* https://polychka.com/
+* [znaj.ua/*](https://znaj.ua/*)
+* [hvylya.net/*](http://hvylya.net/*)
+* [polychka.com/](https://polychka.com/)
 *             * - 3*
 * [FAZ](http://www.faz.net/)
 *
@@ -4430,7 +4430,7 @@ Barcarolle
 *
 * [Мурзилка – детский журнал и сайт для детей. Мурзилка – это детские стихи и сказки, качественная детская литература](https://murzilka.org/)
 *
-* [Наезд на толпу в Харькове произошел во время гонок – Москва 24, 20.10.2017](https://www.m24.ru/news/%D0%B7%D0%B0-%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BE%D0%BC/20102017/14353?utm_source=smi2&utm_campaign=long&utm_medium=exchange)
+* [Наезд на толпу в Харькове произошел во время гонок – Москва 24, 20.10.2017](https://www.m24.ru/news/%D0%B7%D0%B0-%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%BE%D0%BC/20102017/14353)
 *
 * [Настоящее Время - YouTube - YouTube](https://www.youtube.com/user/currenttimetv)
 *
@@ -4452,7 +4452,7 @@ Barcarolle
 *
 * [Кто в курсе](https://ktovkurse.com/)
 *
-* [https://novayagazeta.ru](https://novayagazeta.ru/)
+* [novayagazeta.ru](https://novayagazeta.ru/)
 *             * - 1*
 * [Acculturated](http://acculturated.com/)
 *
@@ -4513,7 +4513,7 @@ Barcarolle
 * [Vocativ](http://www.vocativ.com/)
 *
 * [New Statesman](http://www.newstatesman.com/)*
-* https://www.obozrevatel.com/ukr/
+* [obozrevatel.com/ukr/](https://www.obozrevatel.com/ukr/)
 *
 * [Politico](http://www.politico.eu/)
 *
@@ -4584,7 +4584,7 @@ Barcarolle
 * [TreeHugger | Your source for green design &amp; living news, commentary and advice](https://www.treehugger.com/)
 *
 * [Washington Monthly |](https://washingtonmonthly.com/)*
-* https://observer.com/
+* [observer.com/](https://observer.com/)
 *
 * [Who Owns the Media? | Free Press](https://www.freepress.net/ownership/chart)
 *
@@ -4600,7 +4600,7 @@ Barcarolle
 *
 * [Haaretz - Israel News | Haaretz.com](https://www.haaretz.com/)
 *
-* https://guardian.ng/
+* [guardian.ng/](https://guardian.ng/)
 *             * - Other Languages
 *     18
 *
@@ -4637,7 +4637,7 @@ Barcarolle
 *     24
 *             *     What are the best newspapers in Finland? Why? - Quora
 *
-* * → https://www.ilpost.it/ *
+* * → [ilpost.it/](https://www.ilpost.it/) *
 * H.F
 * [Recursos por idioma]()
 * [Phraséologie]()
@@ -4754,7 +4754,7 @@ Barcarolle
 * 3* - Misc*
 * [How would you say "mindless fun" in German - German Language Stack Exchange](https://german.stackexchange.com/questions/72916/how-would-you-say-mindless-fun-in-german)*
 * 4
-* https://youtube.com/@PlatosCaveUA
+* [youtube.com/@PlatosCaveUA](https://youtube.com/@PlatosCaveUA)
 * - Misc
 *
 * 5
@@ -4800,19 +4800,19 @@ Barcarolle
 * [ ]  [Declinazione greca](https://docs.google.com/spreadsheets/d/1LuuyaQ5GPd8BQyx0j_T6PuMsfCixQsuRCknLALBnEME/edit?usp=sharing)
 * [ ]  [Anki - Polis](https://docs.google.com/spreadsheets/d/1naChjDjjq6HDjuQbe1YmT2qpwqEIPWqXAy9aR8J4lsw/edit?usp=sharing)
 * [ ]  [12 Dickinson Core](https://docs.google.com/document/d/19CrGvrFLLRAl9h4-pVw1_kvyVIDJtWLEwdoLXCC5lFw/edit?usp=sharing)
-* https://www.zvab.com/buch-suchen/titel/die-griechische-sprache/autor/gerhard-fink
+* [zvab.com/buch-suchen/titel/die-griechische-sprache/autor/gerhard-fink](https://www.zvab.com/buch-suchen/titel/die-griechische-sprache/autor/gerhard-fink)
 * [Эпиктет. ЭНХИРИДИОН или Краткое руководство для нравственной жизни](https://www.youtube.com/watch?v=rU6dX_-Emek)
 * [А.В. Лебедев «Руководство» (Энхиридион) Эпиктета](https://www.youtube.com/watch?v=IrMK-btshi4)
 * [Εγχειρίδιον](https://el.wikisource.org/wiki/%CE%95%CE%B3%CF%87%CE%B5%CE%B9%CF%81%CE%AF%CE%B4%CE%B9%CE%BF%CE%BD)
 * [Διατριβαί](https://el.wikisource.org/wiki/%CE%94%CE%B9%CE%B1%CF%84%CF%81%CE%B9%CE%B2%CE%B1%CE%AF)
-* https://en.wikisource.org/wiki/Author:Epictetus
+* [en.wikisource.org/wiki/Author:Epictetus](https://en.wikisource.org/wiki/Author:Epictetus)
 * [Manuale di Epitteto](https://it.wikisource.org/wiki/Manuale_di_Epitteto)
-* https://es.wikisource.org/wiki/Autor:Epicteto
-* https://pl.wikiquote.org/wiki/Epiktet
-* https://fr.wikisource.org/wiki/Auteur:%C3%89pict%C3%A8te
-* https://www.rulit.me/data/programs/resources/pdf/Epiktet_Enhiridion-Kratkoe-rukovodstvo-k-nravstvennoy-zhizni-Kommentariy-na-Enhiridion-Epikteta-_RuLit_Me_581901.pdf
-* https://ru.wikiquote.org/wiki/%D0%AD%D0%BF%D0%B8%D0%BA%D1%82%D0%B5%D1%82
-* https://flibusta.club/b/622961/read
+* [es.wikisource.org/wiki/Autor:Epicteto](https://es.wikisource.org/wiki/Autor:Epicteto)
+* [pl.wikiquote.org/wiki/Epiktet](https://pl.wikiquote.org/wiki/Epiktet)
+* [fr.wikisource.org/wiki/Auteur:%C3%89pict%C3%A8te](https://fr.wikisource.org/wiki/Auteur:%C3%89pict%C3%A8te)
+* [rulit.me/data/programs/resources/pdf/Epiktet_Enhiridion-Kratkoe-rukovodstvo-k-nravstvennoy-zhizni-Kommentariy-na-Enhiridion-Epikteta-_RuLit_Me_581901.pdf](https://www.rulit.me/data/programs/resources/pdf/Epiktet_Enhiridion-Kratkoe-rukovodstvo-k-nravstvennoy-zhizni-Kommentariy-na-Enhiridion-Epikteta-_RuLit_Me_581901.pdf)
+* [ru.wikiquote.org/wiki/%D0%AD%D0%BF%D0%B8%D0%BA%D1%82%D0%B5%D1%82](https://ru.wikiquote.org/wiki/%D0%AD%D0%BF%D0%B8%D0%BA%D1%82%D0%B5%D1%82)
+* [flibusta.club/b/622961/read](https://flibusta.club/b/622961/read)
 * [МАРК АВРЕЛИЙ Наедине с собой Размышления](https://www.youtube.com/watch?v=VuEsRU-_9ck)*
 * 13
 * 14
@@ -4844,15 +4844,15 @@ Barcarolle
 *     use bilingual dictionaries, including reading them for fun
 *             *     use monolingual dictionaries
 *
-* https://www.zeeguu.org/
+* [zeeguu.org/](https://www.zeeguu.org/)
 *             * - Appunti
 *     Biblia paralel en idiomas parecidos (eslávicos, nórdicos, etc.)
 *             *     Phrasen zo 50lang-Liste hinzufügen
 *             *     Omniglot-Phrasen scrapen
 *             *     corpus des phrases de moniglot
 *             *     corpus des numéros (e.a.)*
-* https://www.wordproject.org/bibles/audio/index.htm*
-* https://www.vox.com/future-perfect-podcast
+* [wordproject.org/bibles/audio/index.htm*](https://www.wordproject.org/bibles/audio/index.htm*)
+* [vox.com/future-perfect-podcast](https://www.vox.com/future-perfect-podcast)
 *
 * [Conversations with Tyler](https://conversationswithtyler.com/)
 *             *     Орел и Решка
@@ -4865,15 +4865,15 @@ Barcarolle
 *             *     Éditions M-Éditer
 *
 * [Mediaclasse.fr](http://mediaclasse.fr/)*
-* https://listas.20minutos.es/lista/los-mejores-comediantes-de-ayer-y-hoy-331955/
+* [listas.20minutos.es/lista/los-mejores-comediantes-de-ayer-y-hoy-331955/](https://listas.20minutos.es/lista/los-mejores-comediantes-de-ayer-y-hoy-331955/)
 *
 * [Carlos Eduardo Rico](http://carloseduardorico.com/)
 *             *     GREG NEWS com Gregório Duvivier*
-* http://ia801906.us.archive.org/17/items/MadinaChildrenArabicPdf/madinaharabicreaderbook1c_text.pdf*
-* http://www.corsiarabo.com/documenti/Dall'Arche%20M.G.%20-%20Corso%20d'arabo%20per%20le%20scuole%20secondarie%20Vol.%20I.pdf
+* [ia801906.us.archive.org/17/items/MadinaChildrenArabicPdf/madinaharabicreaderbook1c_text.pdf*](http://ia801906.us.archive.org/17/items/MadinaChildrenArabicPdf/madinaharabicreaderbook1c_text.pdf*)
+* [corsiarabo.com/documenti/Dall'Arche%20M.G.%20-%20Corso%20d'arabo%20per%20le%20scuole%20secondarie%20Vol.%20I.pdf](http://www.corsiarabo.com/documenti/Dall'Arche%20M.G.%20-%20Corso%20d'arabo%20per%20le%20scuole%20secondarie%20Vol.%20I.pdf)
 *             *     Livros de Língua árabe Nível 1 - Madina Durus Lughah al arabiyya : Adam Muhammad : Free Download & Streaming : Internet Archive*
-* https://archive.org/details/Aprenda_arabe_nivel_1*
-* https://abdurrahmanorg.files.wordpress.com/2014/01/madina-book-1-arabic-text-dr-v-abdurrahim.pdf
+* [archive.org/details/Aprenda_arabe_nivel_1*](https://archive.org/details/Aprenda_arabe_nivel_1*)
+* [abdurrahmanorg.files.wordpress.com/2014/01/madina-book-1-arabic-text-dr-v-abdurrahim.pdf](https://abdurrahmanorg.files.wordpress.com/2014/01/madina-book-1-arabic-text-dr-v-abdurrahim.pdf)
 *             *     أكاديمية التحرير
 *             *     احمد الفارابي
 *             *     عالم الفلسفة ***
@@ -4888,7 +4888,7 @@ Barcarolle
 *             *     ArabiaTube ***
 *             *     Da7ee7
 *                     - [*** КНИГИ И ПОСОБИЯ ДЛЯ ИЗУЧЕНИЯ АРАБСКОГО ЯЗЫКА | Арабский Язык | Мединский курс | Arabic Free](https://vk.com/topic-110557459_33512987)*
-* https://jlu.wbtrain.com/sumtotal/language/DLI%20basic%20courses/Chinese%20Mandarin/Flamric%20Books/Chinese%20Reader%20Workbook.pdf
+* [jlu.wbtrain.com/sumtotal/language/DLI%20basic%20courses/Chinese%20Mandarin/Flamric%20Books/Chinese%20Reader%20Workbook.pdf](https://jlu.wbtrain.com/sumtotal/language/DLI%20basic%20courses/Chinese%20Mandarin/Flamric%20Books/Chinese%20Reader%20Workbook.pdf)
 *
 * [Mr. Wang Works at the University | Chinese Reading Practice](http://chinesereadingpractice.com/2011/03/24/mr-wang-works-at-the-university/)
 *
@@ -4929,7 +4929,7 @@ Barcarolle
 *             *     competitive DE
 *             *     make parallel gsheets from childrenslibrary
 *             *     Читати Шолом Алейхем «Тев’є-молочар» | ПОРТФЕЛЬ*
-* https://portfel.info/dir/a/alejkhem_sholom/teve_molochar/326-1-0-370
+* [portfel.info/dir/a/alejkhem_sholom/teve_molochar/326-1-0-370](https://portfel.info/dir/a/alejkhem_sholom/teve_molochar/326-1-0-370)
 *             *     Stefanologan2012
 *             *     Heleen Uytterhoeven
 *             *     Hérode Atticus
@@ -4941,8 +4941,8 @@ Barcarolle
 *             *     Jonas Fjeld
 *             *     andy zotzmann
 *             *     Best multilingual media corporations:*
-* https://www.omniglot.com/links/radio2.htm*
-* https://en.wikipedia.org/wiki/List_of_international_radio_broadcasters
+* [omniglot.com/links/radio2.htm*](https://www.omniglot.com/links/radio2.htm*)
+* [en.wikipedia.org/wiki/List_of_international_radio_broadcasters](https://en.wikipedia.org/wiki/List_of_international_radio_broadcasters)
 *             *     SBS
 *             *     RFI
 *             *     BBC
@@ -4975,7 +4975,7 @@ Barcarolle
 *             *     Radio Poland
 *             *     NRCU
 *             *     RTVE Radio Exterior*
-* http://www.uniindia.com/
+* [uniindia.com/](http://www.uniindia.com/)
 *             *     RTL Group
 *             *     pltk Notizen ausbauen, alles aus dem Heft auftippen.
 *             *     50languages 11, 12 mit erhältlichen Sprachen ausfüllen
@@ -5020,7 +5020,7 @@ Barcarolle
 *             *     odio paris - grupo
 *             *     In Gruppen um lateinische und altgriechische Übersetzungshilfe mit den 50languages-Phrasen bitten
 *
-* [Selbst anfangen: https://www.omniglot.com/language/phrases/greek_anc.php](https://www.omniglot.com/language/phrases/greek_anc.php)
+* [Selbst anfangen: [omniglot.com/language/phrases/greek_anc.php](https://www.omniglot.com/language/phrases/greek_anc.php)](https://www.omniglot.com/language/phrases/greek_anc.php](https://www.omniglot.com/language/phrases/greek_anc.php))
 *             *     Zum pltk nachher hinzufügen
 *             *     I) basic / continuous (present & imperfect)
 *             *     II) future
@@ -5092,71 +5092,71 @@ Barcarolle
 *             *     audio/text:
 *             *     Euronews
 *             *     Easy Languages*
-* https://unilang.org/resources.php?category=audio*
-* https://rhinospike.com/*
-* http://www.openculture.com/freelanguagelessons*
-* https://www.andersenstories.com/da/andersen_fortaellinger/audio*
-* http://www.loyalbooks.com/
+* [unilang.org/resources.php?category=audio*](https://unilang.org/resources.php?category=audio*)
+* [rhinospike.com/*](https://rhinospike.com/*)
+* [openculture.com/freelanguagelessons*](http://www.openculture.com/freelanguagelessons*)
+* [andersenstories.com/da/andersen_fortaellinger/audio*](https://www.andersenstories.com/da/andersen_fortaellinger/audio*)
+* [loyalbooks.com/](http://www.loyalbooks.com/)
 *             *     Librivox*
-* http://eurolinguiste.com/resources/*
-* http://www.digitaldialects.com/
+* [eurolinguiste.com/resources/*](http://eurolinguiste.com/resources/*)
+* [digitaldialects.com/](http://www.digitaldialects.com/)
 *
 * [2 - ochenporusski.com](http://ochenporusski.com/)*
-* http://ruspod.com/links/
+* [ruspod.com/links/](http://ruspod.com/links/)
 *
-* [3 - https://www.vorleser.net/](https://www.vorleser.net/)*
-* http://learninggerman.verasblogs.com/weitere-quellen-zum-deutschlernen/
+* [3 - [vorleser.net/](https://www.vorleser.net/)*](https://www.vorleser.net/](https://www.vorleser.net/)*)
+* [learninggerman.verasblogs.com/weitere-quellen-zum-deutschlernen/](http://learninggerman.verasblogs.com/weitere-quellen-zum-deutschlernen/)
 *
-* [() https://www.thegermanproject.com/](https://www.thegermanproject.com/)
+* [() [thegermanproject.com/](https://www.thegermanproject.com/)](https://www.thegermanproject.com/](https://www.thegermanproject.com/))
 *             *     3b - PodClub
 *
-* [4 - https://www.youtube.com/channel/UCbNaKxi1j-Q5jWZDpJZp56g](https://www.youtube.com/channel/UCbNaKxi1j-Q5jWZDpJZp56g) ***
-* https://www.youtube.com/channel/UCQwVj4PyS5leCgEJY4I2t1Q*
-* https://www.youtube.com/channel/UCnHJlaJfzvLXbizO51WUopw
+* [](https://www.youtube.com/channel/UCbNaKxi1j-Q5jWZDpJZp56g)](https://www.youtube.com/channel/UCbNaKxi1j-Q5jWZDpJZp56g](https://www.youtube.com/channel/UCbNaKxi1j-Q5jWZDpJZp56g)) ***
+* [](https://www.youtube.com/channel/UCQwVj4PyS5leCgEJY4I2t1Q*)
+* [](https://www.youtube.com/channel/UCnHJlaJfzvLXbizO51WUopw)
 *
-* [~ https://www.youtube.com/channel/UCBFA2cZGYgo9pbDLxT_vDaQ](https://www.youtube.com/channel/UCBFA2cZGYgo9pbDLxT_vDaQ)
+* [](https://www.youtube.com/channel/UCBFA2cZGYgo9pbDLxT_vDaQ)](https://www.youtube.com/channel/UCBFA2cZGYgo9pbDLxT_vDaQ](https://www.youtube.com/channel/UCBFA2cZGYgo9pbDLxT_vDaQ))
 *
-* [~ https://www.youtube.com/channel/UCo2s0lfd8uWr6hilaEt55Sw](https://www.youtube.com/channel/UCo2s0lfd8uWr6hilaEt55Sw)
+* [](https://www.youtube.com/channel/UCo2s0lfd8uWr6hilaEt55Sw)](https://www.youtube.com/channel/UCo2s0lfd8uWr6hilaEt55Sw](https://www.youtube.com/channel/UCo2s0lfd8uWr6hilaEt55Sw))
 *
-* [~ https://www.youtube.com/watch?v=puiaq-xJIy4](https://www.youtube.com/watch?v=puiaq-xJIy4)
+* [](https://www.youtube.com/watch?v=puiaq-xJIy4)](https://www.youtube.com/watch?v=puiaq-xJIy4](https://www.youtube.com/watch?v=puiaq-xJIy4))
 *
-* [~ https://www.youtube.com/channel/UCCf5_svdP2LGjhgt6nfXXYg](https://www.youtube.com/channel/UCCf5_svdP2LGjhgt6nfXXYg)
+* [](https://www.youtube.com/channel/UCCf5_svdP2LGjhgt6nfXXYg)](https://www.youtube.com/channel/UCCf5_svdP2LGjhgt6nfXXYg](https://www.youtube.com/channel/UCCf5_svdP2LGjhgt6nfXXYg))
 *
-* [~ https://www.youtube.com/channel/UCe1HuSq_bCdgXsy1UHnzoTw](https://www.youtube.com/channel/UCe1HuSq_bCdgXsy1UHnzoTw)
+* [](https://www.youtube.com/channel/UCe1HuSq_bCdgXsy1UHnzoTw)](https://www.youtube.com/channel/UCe1HuSq_bCdgXsy1UHnzoTw](https://www.youtube.com/channel/UCe1HuSq_bCdgXsy1UHnzoTw))
 *
-* [() https://www.youtube.com/channel/UCSIU4cvq2xXE005zj30ECIQ](https://www.youtube.com/channel/UCSIU4cvq2xXE005zj30ECIQ)*
-* https://itunes.apple.com/us/podcast/ukrainian-podcast/id273597224?mt=2
+* [](https://www.youtube.com/channel/UCSIU4cvq2xXE005zj30ECIQ)*](https://www.youtube.com/channel/UCSIU4cvq2xXE005zj30ECIQ](https://www.youtube.com/channel/UCSIU4cvq2xXE005zj30ECIQ)*)
+* [itunes.apple.com/us/podcast/ukrainian-podcast/id273597224?mt=2](https://itunes.apple.com/us/podcast/ukrainian-podcast/id273597224?mt=2)
 *
-* [https://www.youtube.com/watch?v=PuAp78AMQyY https://www.dropbox.com/sh/vxyxfzspqkv8e2p/AABArUFzD0yu5gUFOaVWLwEHa?dl=0Dropbox%20link](https://www.dropbox.com/sh/vxyxfzspqkv8e2p/AABArUFzD0yu5gUFOaVWLwEHa?dl=0Dropbox+link)*
-* http://ukrainianlessons.com/ukrainian-youtube/*
-* http://mylanguages.org/ukrainian_audio.php*
-* http://ukrainianlessons.com/ukrainian-movies/*
-* https://nashe.com.ua/*
-* https://www.youtube.com/playlist?list=PL47_m_Ga4AecRwakQxh6RU75b6o8GPeU1*
-* https://www.youtube.com/channel/UCvzbw6b9EUGs09fBW8dY6lg*
-* https://www.youtube.com/channel/UC5cjZQGzRpu5HhMKbzedu8g*
-* https://lb.ua/blog/dictaphone/362708_taras_topolya_stosovno_politichnogo.html*
-* https://librivox.org/search?primary_key=62&search_category=language&search_page=1&search_form=get_results*
-* https://www.youtube.com/channel/UCwswva9TnLYr46Lm2rdyhmw*
-* https://www.reddit.com/r/ukraine/comments/2uk9ah/good_movies_in_ukrainian/#bottom-comments
+* [](https://www.dropbox.com/sh/vxyxfzspqkv8e2p/AABArUFzD0yu5gUFOaVWLwEHa?dl=0Dropbox+link)*](https://www.dropbox.com/sh/vxyxfzspqkv8e2p/AABArUFzD0yu5gUFOaVWLwEHa?dl=0Dropbox%20link](https://www.dropbox.com/sh/vxyxfzspqkv8e2p/AABArUFzD0yu5gUFOaVWLwEHa?dl=0Dropbox+link)*)
+* [](http://ukrainianlessons.com/ukrainian-youtube/*)
+* [mylanguages.org/ukrainian_audio.php*](http://mylanguages.org/ukrainian_audio.php*)
+* [ukrainianlessons.com/ukrainian-movies/*](http://ukrainianlessons.com/ukrainian-movies/*)
+* [nashe.com.ua/*](https://nashe.com.ua/*)
+* [](https://www.youtube.com/playlist?list=PL47_m_Ga4AecRwakQxh6RU75b6o8GPeU1*)
+* [](https://www.youtube.com/channel/UCvzbw6b9EUGs09fBW8dY6lg*)
+* [](https://www.youtube.com/channel/UC5cjZQGzRpu5HhMKbzedu8g*)
+* [lb.ua/blog/dictaphone/362708_taras_topolya_stosovno_politichnogo.html*](https://lb.ua/blog/dictaphone/362708_taras_topolya_stosovno_politichnogo.html*)
+* [librivox.org/search?primary_key=62&search_category=language&search_page=1&search_form=get_results*](https://librivox.org/search?primary_key=62&search_category=language&search_page=1&search_form=get_results*)
+* [](https://www.youtube.com/channel/UCwswva9TnLYr46Lm2rdyhmw*)
+* [r/ukraine/comments/2uk9ah/good_movies_in_ukrainian/#bottom-comments](https://www.reddit.com/r/ukraine/comments/2uk9ah/good_movies_in_ukrainian/#bottom-comments)
 *
-* [5 - https://podcastfrance.fr/podcasts/](https://podcastfrance.fr/podcasts/)*
-* https://www.fluentu.com/blog/french/learn-french-audio-2/
+* [5 - [podcastfrance.fr/podcasts/](https://podcastfrance.fr/podcasts/)*](https://podcastfrance.fr/podcasts/](https://podcastfrance.fr/podcasts/)*)
+* [fluentu.com/blog/french/learn-french-audio-2/](https://www.fluentu.com/blog/french/learn-french-audio-2/)
 *             *     PodClub*
-* http://www.bbc.co.uk/languages/french/talk/transcripts/*
-* https://savoirs.rfi.fr/apprendre-enseigner
+* [bbc.co.uk/languages/french/talk/transcripts/*](http://www.bbc.co.uk/languages/french/talk/transcripts/*)
+* [savoirs.rfi.fr/apprendre-enseigner](https://savoirs.rfi.fr/apprendre-enseigner)
 *
-* [6 - https://www.e-spanyol.hu/en/transcript.php](https://www.e-spanyol.hu/en/transcript.php)*
-* https://www.fluencyprof.com/free-spanish-audio.html*
-* http://www.audiria.com/*
-* http://www.podcastsinspanish.org/
+* [6 - [e-spanyol.hu/en/transcript.php](https://www.e-spanyol.hu/en/transcript.php)*](https://www.e-spanyol.hu/en/transcript.php](https://www.e-spanyol.hu/en/transcript.php)*)
+* [fluencyprof.com/free-spanish-audio.html*](https://www.fluencyprof.com/free-spanish-audio.html*)
+* [audiria.com/*](http://www.audiria.com/*)
+* [podcastsinspanish.org/](http://www.podcastsinspanish.org/)
 *             *     7 - Cafe Brasil
 *             *     TSF Radio Notícias
 *             *     8 - Il Sole 24
 *             *     PodClub
 *             *     9 - Disney
 *             *     Euronews*
-* http://arabic.desert-sky.net/links.html
+* [arabic.desert-sky.net/links.html](http://arabic.desert-sky.net/links.html)
 *             *     10a - LingQ
 *             *     NT
 *             *     10b - LingQ
@@ -5164,31 +5164,31 @@ Barcarolle
 *             *     10c - LingQ
 *             *     NT
 *
-* [11 - https://www.latinitium.com/podcast](https://www.latinitium.com/podcast)
+* [11 - [latinitium.com/podcast](https://www.latinitium.com/podcast)](https://www.latinitium.com/podcast](https://www.latinitium.com/podcast))
 *             *     12 - Apologia*
-* https://www.youtube.com/playlist?list=PLRqSTDv6bs-gDJ8ceqmv_OPYqcJpcXlEX
+* [](https://www.youtube.com/playlist?list=PLRqSTDv6bs-gDJ8ceqmv_OPYqcJpcXlEX)
 *             *     13 - Easy Languages*
-* http://eurolinguiste.com/croatian/*
-* http://www.digitaldialects.com/Croatian/Vocabulary.htm
+* [eurolinguiste.com/croatian/*](http://eurolinguiste.com/croatian/*)
+* [digitaldialects.com/Croatian/Vocabulary.htm](http://www.digitaldialects.com/Croatian/Vocabulary.htm)
 *
-* [14 - http://www.dutchgrammar.com/en/?n=Audio.TheDutchGrammarPodcast](http://www.dutchgrammar.com/en/?n=Audio.TheDutchGrammarPodcast)
+* [14 - [dutchgrammar.com/en/?n=Audio.TheDutchGrammarPodcast](http://www.dutchgrammar.com/en/?n=Audio.TheDutchGrammarPodcast)](http://www.dutchgrammar.com/en/?n=Audio.TheDutchGrammarPodcast](http://www.dutchgrammar.com/en/?n=Audio.TheDutchGrammarPodcast))
 *             *     NPO
 *             *     Zondag met Lubach
 *             *     15 - musica*
-* http://polishlanguage.dlachetnych.pl/*
-* http://polish.study-time.org/*
-* https://realpolish.pl/tag/polish-listening/
+* [polishlanguage.dlachetnych.pl/*](http://polishlanguage.dlachetnych.pl/*)
+* [polish.study-time.org/*](http://polish.study-time.org/*)
+* [realpolish.pl/tag/polish-listening/](https://realpolish.pl/tag/polish-listening/)
 *
-* [(x) http://adapter.pl/](http://adapter.pl/)*
-* https://www.youtube.com/watch?v=CQNREpqQ1yQ*
-* https://www.youtube.com/channel/UCYZMdW0Qun8ecCdL1MnoBsw*
-* https://www.youtube.com/watch?v=4zd0dxGilHc&list=PLNaK_kZa4R0gDNwgRg_NsIVQUzYtxR3Km
+* [(x) [adapter.pl/](http://adapter.pl/)*](http://adapter.pl/](http://adapter.pl/)*)
+* [](https://www.youtube.com/watch?v=CQNREpqQ1yQ*)
+* [](https://www.youtube.com/channel/UCYZMdW0Qun8ecCdL1MnoBsw*)
+* [](https://www.youtube.com/watch?v=4zd0dxGilHc&list=PLNaK_kZa4R0gDNwgRg_NsIVQUzYtxR3Km)
 *             *     16a - NRK
 *             *     16b - LPP YT
 *             *     LingQ
 *             *     SVT Play
 *
-* [16c - HCA - https://www.andersenstories.com/da/andersen_fortaellinger/audio](https://www.andersenstories.com/da/andersen_fortaellinger/audio)
+* [16c - HCA - [andersenstories.com/da/andersen_fortaellinger/audio](https://www.andersenstories.com/da/andersen_fortaellinger/audio)](https://www.andersenstories.com/da/andersen_fortaellinger/audio](https://www.andersenstories.com/da/andersen_fortaellinger/audio))
 *
 * [DR.DK](http://dr.dk/)
 *             *     Künftige Sprachen nochmal anschauen - Japanisch, Swahili (, Neugriechisch?, Indonesisch?, Türkisch?, Tagalog?, Zulu? - vielleicht nur ein Bisschen zum Spaß)
@@ -5215,7 +5215,7 @@ Barcarolle
 *             *     latinology
 *             *     CLASSOC UoA
 *             *     marianareads*
-* http://sites.psu.edu/symbolcodes/mac/codemac/
+* [sites.psu.edu/symbolcodes/mac/codemac/](http://sites.psu.edu/symbolcodes/mac/codemac/)
 *             *     digitize proverbs from Dizionario delle sentenze (listed in back)
 *             *     kilindo esse canal
 *             *     bedtime stories collection
@@ -5225,7 +5225,7 @@ Barcarolle
 *             *     ella savorskaja
 *             *     Beloe Zlato
 *             *     idonperg*
-* https://altcodeunicode.com/alt-codes-for-latin-letters-with-accents-or-diacritical-marks-used-in-foreign-languages/
+* [altcodeunicode.com/alt-codes-for-latin-letters-with-accents-or-diacritical-marks-used-in-foreign-languages/](https://altcodeunicode.com/alt-codes-for-latin-letters-with-accents-or-diacritical-marks-used-in-foreign-languages/)
 *             *     Pourquoi les langues deviemnent plus complexes grammatiquement au fil de l'histoire? Y-a-t-il des exceptions? Quelles explications y-a-t-il?
 *             *     stefano piffer
 *
@@ -5238,7 +5238,7 @@ Barcarolle
 *             *     oblivion canale ufficiale ***
 *             *     sofa Deutsch
 *             *     denkleinrider*
-* https://www.youtube.com/watch?v=2NbDI8sf6TU
+* [](https://www.youtube.com/watch?v=2NbDI8sf6TU)
 *             *     Gaigaia***
 *             *     Stated Clearly
 *             *     Aristegui Noticias
@@ -5251,7 +5251,7 @@ Barcarolle
 *             *     Братство Языка
 *             *     Чик и Гик
 *             *     Мозгстуд*
-* https://carambatv.ru/
+* [carambatv.ru/](https://carambatv.ru/)
 *             *     Tácticas Fútbol
 *             *     Campeones - Canal de Fútbol
 *             *     Fútbol Dinámico
@@ -5270,10 +5270,10 @@ Barcarolle
 *             *     - > Philosophie der Sprache
 *             *     busca en YouTube: falsos amigos portugues español
 *
-* [Heckman SE https://stats.stackexchange.com/questions/208016/interpretation-of-coefficient-of-inverse-mills-ratio](https://stats.stackexchange.com/questions/208016/interpretation-of-coefficient-of-inverse-mills-ratio)
+* [Heckman SE [stats.stackexchange.com/questions/208016/interpretation-of-coefficient-of-inverse-mills-ratio](https://stats.stackexchange.com/questions/208016/interpretation-of-coefficient-of-inverse-mills-ratio)](https://stats.stackexchange.com/questions/208016/interpretation-of-coefficient-of-inverse-mills-ratio](https://stats.stackexchange.com/questions/208016/interpretation-of-coefficient-of-inverse-mills-ratio))
 *             *     Complex Sample Design*
-* http://web.stanford.edu/group/ssds/cgi-bin/drupal/files/Guides/ComplexSurveyDesignUsingStata_0.pdf*
-* http://onlinelibrary.wiley.com/doi/10.1111/j.1465-7287.2011.00286.x/full
+* [web.stanford.edu/group/ssds/cgi-bin/drupal/files/Guides/ComplexSurveyDesignUsingStata_0.pdf*](http://web.stanford.edu/group/ssds/cgi-bin/drupal/files/Guides/ComplexSurveyDesignUsingStata_0.pdf*)
+* [onlinelibrary.wiley.com/doi/10.1111/j.1465-7287.2011.00286.x/full](http://onlinelibrary.wiley.com/doi/10.1111/j.1465-7287.2011.00286.x/full)
 *             *     Algorithms to live by
 *             *     "Wurzelnansatz" zur Geschichte - ein Jahr beherrschen, dann noch eins, usw., was mir dann hilft, andere Ereignisse zu situieren
 *             *     Mark Twain on imperialism
@@ -5285,7 +5285,7 @@ Barcarolle
 *             *     7 Unconvential lessons from 179 books
 *             *     HF-097- Computerlinguistik (Podcast)
 *             *     éthique de la décision de prendre la place d'un souffrant ou non*
-* https://www.youtube.com/watch?v=ruLjkt-5Kao&feature=share
+* [](https://www.youtube.com/watch?v=ruLjkt-5Kao&feature=share)
 *             *     ordenar fraseologismos de mis cuadernos!
 *             *     rassembler tous les audios de 50languages et cr'eer une fiche avec toutes les expressions, ajouter le grec ancien et le latin
 *             *     Audiria podcast
@@ -5324,11 +5324,11 @@ Barcarolle
 *             *     name of domain dealing with causality and chains of events
 *
 * [Buyilehu.org](http://buyilehu.org/) - Китайский язык онлайн: подкасты, тексты, скайп*
-* http://buyilehu.org/
+* [buyilehu.org/](http://buyilehu.org/)
 *             *     Китайский язык и Китай*
-* https://vk.com/wall-37508298?q=%23%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8
+* [vk.com/wall-37508298?q=%23%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8](https://vk.com/wall-37508298?q=%23%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8)
 *             *     Древнегреческий язык - Метод чтения Ильи Франка*
-* http://www.franklang.ru/index.php/drevnegrecheskij-yazyk
+* [franklang.ru/index.php/drevnegrecheskij-yazyk](http://www.franklang.ru/index.php/drevnegrecheskij-yazyk)
 *             *     Lecture légère
 *             *     Add Swedish and Danish to Bible PDFs and LaTeX prep spreadsheets!
 *             *     этимологическое дерево для романтических языков
@@ -5353,8 +5353,8 @@ Barcarolle
 *             *     Cantonese 2024/2025?
 *             *     add Situational phrases to current language study
 *             *     Add sample dialogues*
-* https://learning-with-texts.sourceforge.io/*
-* https://digest.bps.org.uk/2018/02/09/thinking-in-a-second-language-drains-the-imagination-of-vividness/
+* [learning-with-texts.sourceforge.io/*](https://learning-with-texts.sourceforge.io/*)
+* [digest.bps.org.uk/2018/02/09/thinking-in-a-second-language-drains-the-imagination-of-vividness/](https://digest.bps.org.uk/2018/02/09/thinking-in-a-second-language-drains-the-imagination-of-vividness/)
 *             *     How to remedy this?
 *             *     cost-benefit anaysis of learning different languages and reading different newspapers to stay informed
 *             *     50lang:
@@ -5367,7 +5367,7 @@ Barcarolle
 *
 * [Green eggs and ham in Latin - Dr. Seuss, Terence Tunberg - Google Книги](https://books.google.com/books?id=R5fZAAAAMAAJ&hl=ru&source=gbs_similarbooks)
 *             *     Historia philosophiae graecae*
-* https://la.wikisource.org/wiki/De_finibus_bonorum_et_malorum
+* [la.wikisource.org/wiki/De_finibus_bonorum_et_malorum](https://la.wikisource.org/wiki/De_finibus_bonorum_et_malorum)
 *             *     Institutiones philosophicae
 *
 * [Khrestomatia_srednevekovykh_latinskikh_textov_Po.pdf](https://vk.com/doc204984378_460714796?hash=b7fef6da8f28eda16d&dl=1485fd607122b27209)
@@ -5475,7 +5475,7 @@ Barcarolle
 *
 * [Glossika Dutch Fluency 2](http://library.lol/main/9905526D697BC1095ACD84A12B56C017)
 *             *     Glossika Dutch Fluency 3*
-* https://www.annefrank.org/nl/anne-frank/
+* [annefrank.org/nl/anne-frank/](https://www.annefrank.org/nl/anne-frank/)
 *
 * [Lectuur voor beginners: Книга для домашнего чтения по нидерландскому языку](http://library.lol/main/F14195EAC107CADFABA157D3D20FAF45)
 *
@@ -5731,8 +5731,8 @@ Barcarolle
 *             *     Einführung in die Übersetzungswissenschaft
 *             *     Grammaire fondamentale - Beknopte Franse sprakkunst voor het voortgezet onderwijs
 *
-* [https://fr.wikisource.org/wiki/Manuel_d%E2%80%99%C3%89pict%C3%A8te_(trad._Thurot)#I.](https://fr.wikisource.org/wiki/Manuel_d%E2%80%99%C3%89pict%C3%A8te_(trad._Thurot)#I.)*
-* https://www.bibel.no/Nettbibelen?query=SyXGjvFYqNIZbs4N/mRmrRJNAkPaSzsWUgsGdHcvDzGFkb+T0mAvzKdeAw+xyyTh
+* [fr.wikisource.org/wiki/Manuel_d%E2%80%99%C3%89pict%C3%A8te_(trad._Thurot)#I.](https://fr.wikisource.org/wiki/Manuel_d%E2%80%99%C3%89pict%C3%A8te_(trad._Thurot)#I.)*
+* [bibel.no/Nettbibelen?query=SyXGjvFYqNIZbs4N/mRmrRJNAkPaSzsWUgsGdHcvDzGFkb+T0mAvzKdeAw+xyyTh](https://www.bibel.no/Nettbibelen?query=SyXGjvFYqNIZbs4N/mRmrRJNAkPaSzsWUgsGdHcvDzGFkb+T0mAvzKdeAw+xyyTh)
 *
 * [Iskusstvo_izuchat_yazyki.epub](https://vk.com/doc30601958_459210373?hash=b42418c9f42f24ac7e&dl=b60783eac34208d4c8)
 *
@@ -5766,8 +5766,8 @@ Barcarolle
 *             *     Chinese Written Characters
 *             *     Chinesische Kalligraphie für Einsteiger
 *             *     Essential Chinese Characters for Everyday Use*
-* https://www.allbusinesstemplates.com/topic/LAYZZ/hanyu-shuiping-kaoshi-official-test-exams/*
-* https://www.blog.thatsmandarin.com/hsk-level-practice-tests-downloads-audio-pdfs/
+* [allbusinesstemplates.com/topic/LAYZZ/hanyu-shuiping-kaoshi-official-test-exams/*](https://www.allbusinesstemplates.com/topic/LAYZZ/hanyu-shuiping-kaoshi-official-test-exams/*)
+* [blog.thatsmandarin.com/hsk-level-practice-tests-downloads-audio-pdfs/](https://www.blog.thatsmandarin.com/hsk-level-practice-tests-downloads-audio-pdfs/)
 *             *     I Can Read That
 *
 * [LEarning Chinese Characters](https://vk.com/doc18933007_485026267?hash=61aca911f7ce961313&dl=88298ece0ffb68db87)
@@ -5801,7 +5801,7 @@ Barcarolle
 * [Learn Arabic with SpongeBob SquarePants 💫](https://youtu.be/0nPmoUqV56c)
 * [500 Common Chinese Idioms: An Annotated Frequency Dictionary / 成语五百条 [Book](http://library.lol/main/5187C199FEFEA3E6613A27D904E2DD52)
 * [Puella et lupus](https://www.youtube.com/watch?v=YU8d0hxPxWY)
-* http://arabicessay.blogspot.com/p/moroccan-proverbs.html?m=1
+* [arabicessay.blogspot.com/p/moroccan-proverbs.html?m=1](http://arabicessay.blogspot.com/p/moroccan-proverbs.html?m=1)
 * [English Learning Resources]()* # Podcasts / Educational Channels
 * [The Science of Everything](https://player.fm/series/series-2360076)
 * [Preposterous Universe](https://www.preposterousuniverse.com/podcast/)
@@ -5999,14 +5999,14 @@ Barcarolle
 
 ### Dave Chappelle (U.S. - AAVE)
 * [German Learning Resources]()
-* hlang A modern language-learning platform | https://www.linuxlinks.com/librelingo-language-learning-platform/* hlang Extensible flashcard learning program | https://www.linuxlinks.com/Anki/* hlang Foreign Language Text Reader | https://www.linuxlinks.com/FLTR/* hlang French and Italian conjugator | https://www.linuxlinks.com/Verbiste/* hlang Front-end for the French computing dictionary Jargon Informatique | https://www.linuxlinks.com/jargon-informatique-front-end-for-the-french-computing-dictionary-jargon-informatique/* hlang Japanese vocabulary and kanji dictionary | https://www.linuxlinks.com/TagainiJisho/* hlang Language learning application based on LibreLingo |https://www.linuxlinks.com/glossaico-language-learning-application-librelingo/* hlang Language-mining tool to help English speakers understand Chinese | https://www.linuxlinks.com/StepintoChinese/* hlang Learn words in a foreign language | https://www.linuxlinks.com/OpenTeacher/* hlang Pronunciation trainer - The KDE Education Project | https://www.linuxlinks.com/artikulate-pronunciation-trainer-the-kde-education-project/* hlang Read and listen, save and test words in context | https://www.linuxlinks.com/LearningWithTexts/* hlang Train your oral skills in foreign languages | https://www.linuxlinks.com/Perroquet/* hlang Vocabulary trainer for KDE 5 | https://www.linuxlinks.com/Parley/*
+* hlang A modern language-learning platform | [linuxlinks.com/librelingo-language-learning-platform/*](https://www.linuxlinks.com/librelingo-language-learning-platform/*) hlang Extensible flashcard learning program | [linuxlinks.com/Anki/*](https://www.linuxlinks.com/Anki/*) hlang Foreign Language Text Reader | [linuxlinks.com/FLTR/*](https://www.linuxlinks.com/FLTR/*) hlang French and Italian conjugator | [linuxlinks.com/Verbiste/*](https://www.linuxlinks.com/Verbiste/*) hlang Front-end for the French computing dictionary Jargon Informatique | [linuxlinks.com/jargon-informatique-front-end-for-the-french-computing-dictionary-jargon-informatique/*](https://www.linuxlinks.com/jargon-informatique-front-end-for-the-french-computing-dictionary-jargon-informatique/*) hlang Japanese vocabulary and kanji dictionary | [linuxlinks.com/TagainiJisho/*](https://www.linuxlinks.com/TagainiJisho/*) hlang Language learning application based on LibreLingo |https://www.linuxlinks.com/glossaico-language-learning-application-librelingo/* hlang Language-mining tool to help English speakers understand Chinese | [linuxlinks.com/StepintoChinese/*](https://www.linuxlinks.com/StepintoChinese/*) hlang Learn words in a foreign language | [linuxlinks.com/OpenTeacher/*](https://www.linuxlinks.com/OpenTeacher/*) hlang Pronunciation trainer - The KDE Education Project | [linuxlinks.com/artikulate-pronunciation-trainer-the-kde-education-project/*](https://www.linuxlinks.com/artikulate-pronunciation-trainer-the-kde-education-project/*) hlang Read and listen, save and test words in context | [linuxlinks.com/LearningWithTexts/*](https://www.linuxlinks.com/LearningWithTexts/*) hlang Train your oral skills in foreign languages | [linuxlinks.com/Perroquet/*](https://www.linuxlinks.com/Perroquet/*) hlang Vocabulary trainer for KDE 5 | [linuxlinks.com/Parley/*](https://www.linuxlinks.com/Parley/*)
 * H.G
-* http://www.medialab.sciences-po.fr/fr/*
+* [medialab.sciences-po.fr/fr/*](http://www.medialab.sciences-po.fr/fr/*)
 * H.H
 * H.I
 * → [Literature List](https://docs.google.com/spreadsheets/d/1TxfdNQxmp-A1vBmlXtn2m5hBqmPAnY569q3Paaok4UY/edit?usp=sharing)
 * - List
-* http://libgen.is/search.php?&req=thomas+foster&phrase=1&view=simple&column=def&sort=language&sortmode=DESC
+* [libgen.is/search.php?&req=thomas+foster&phrase=1&view=simple&column=def&sort=language&sortmode=DESC](http://libgen.is/search.php?&req=thomas+foster&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
 *
 * [«Мифы и легенды народов мира». Том 01. Древняя Греция - 2004.rtf](https://vk.com/doc-48022154_442609775?hash=dd7350fadb8c0128a2&dl=8934d973480d6238c3)
 *
@@ -6106,14 +6106,14 @@ Barcarolle
 * [Griechische Götterlehre](https://vk.com/doc4605748_508136938?hash=fb5773442ea56fddd9&dl=d77d3aa8630843adbd)
 *             *     Heart of Darkness
 *             *     Heidelberger Ethnologe Hans Peter Duerr in seinem fünfbändigen Werk über den „Mythos vom Zivilisationsprozess“*
-* http://93.174.95.29/_ads/30C9BF3C9A1DFBFC853B30E2AD4F7ABC*
-* https://blog.prepscholar.com/ap-literature-reading-list*
-* https://escribirr.com/mejores-libros-de-fantasia-recomendados/*
-* https://murder-mayhem.com/books-like-the-da-vinci-code*
-* https://www.argon-verlag.de/2015/03/kafka-meisterwerke-der-deutschen-literatur/*
-* https://www.husd.org/cms/lib/AZ01001450/Centricity/Domain/2891/AP%20Reading%20List.pdf*
-* https://www.leatherboundtreasure.com/p/franklin-library-american-literature.html*
-* https://www.reddit.com/r/literature/comments/ub9sr/best_translation_of_eugene_onegin_anyone/
+* [93.174.95.29/_ads/30C9BF3C9A1DFBFC853B30E2AD4F7ABC*](http://93.174.95.29/_ads/30C9BF3C9A1DFBFC853B30E2AD4F7ABC*)
+* [blog.prepscholar.com/ap-literature-reading-list*](https://blog.prepscholar.com/ap-literature-reading-list*)
+* [escribirr.com/mejores-libros-de-fantasia-recomendados/*](https://escribirr.com/mejores-libros-de-fantasia-recomendados/*)
+* [murder-mayhem.com/books-like-the-da-vinci-code*](https://murder-mayhem.com/books-like-the-da-vinci-code*)
+* [argon-verlag.de/2015/03/kafka-meisterwerke-der-deutschen-literatur/*](https://www.argon-verlag.de/2015/03/kafka-meisterwerke-der-deutschen-literatur/*)
+* [husd.org/cms/lib/AZ01001450/Centricity/Domain/2891/AP%20Reading%20List.pdf*](https://www.husd.org/cms/lib/AZ01001450/Centricity/Domain/2891/AP%20Reading%20List.pdf*)
+* [leatherboundtreasure.com/p/franklin-library-american-literature.html*](https://www.leatherboundtreasure.com/p/franklin-library-american-literature.html*)
+* [r/literature/comments/ub9sr/best_translation_of_eugene_onegin_anyone/](https://www.reddit.com/r/literature/comments/ub9sr/best_translation_of_eugene_onegin_anyone/)
 *
 * [Ian_Fraser_-_Araruama_O_livro_das_Sementes.pdf](https://vk.com/doc324253431_467681183?hash=57acdbe7a3b6d2310e&dl=db480050b101578a47)
 *
@@ -6285,19 +6285,19 @@ Barcarolle
 * [Walden and Other Writings](https://vk.com/doc491339552_474111623?hash=6427f4d77c6fe20eec&dl=b743286d9a6592df62)
 *             * - Misc
 *     recursos*
-* https://en.wikibooks.org/wiki/Main_Page*
-* https://ru.wikisource.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0*
-* http://www.intratext.com/Catalogo/
+* [en.wikibooks.org/wiki/Main_Page*](https://en.wikibooks.org/wiki/Main_Page*)
+* [ru.wikisource.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0*](https://ru.wikisource.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0*)
+* [intratext.com/Catalogo/](http://www.intratext.com/Catalogo/)
 *
 *     multilinguales*
-* http://www.tsowell.com/translat.html*
-* http://www.amazon.com/gp/registry/wishlist/1DMEL9T0GNTQP/ref=cm_wl_list_o_1?sort=universal-price-desc&view=null*
-* https://freebookofmormon.wordpress.com/international-versions/*
-* https://en.wikipedia.org/wiki/List_of_literary_works_by_number_of_translations
+* [tsowell.com/translat.html*](http://www.tsowell.com/translat.html*)
+* [amazon.com/gp/registry/wishlist/1DMEL9T0GNTQP/ref=cm_wl_list_o_1?sort=universal-price-desc&view=null*](http://www.amazon.com/gp/registry/wishlist/1DMEL9T0GNTQP/ref=cm_wl_list_o_1?sort=universal-price-desc&view=null*)
+* [freebookofmormon.wordpress.com/international-versions/*](https://freebookofmormon.wordpress.com/international-versions/*)
+* [en.wikipedia.org/wiki/List_of_literary_works_by_number_of_translations](https://en.wikipedia.org/wiki/List_of_literary_works_by_number_of_translations)
 *
 *     foros*
-* http://www.forumactif.com/annuaire/art-culture-et-loisirs/litterature-poesie*
-* http://fdl.xooit.be/index.php
+* [forumactif.com/annuaire/art-culture-et-loisirs/litterature-poesie*](http://www.forumactif.com/annuaire/art-culture-et-loisirs/litterature-poesie*)
+* [fdl.xooit.be/index.php](http://fdl.xooit.be/index.php)
 *
 *     Brodsky list
 *
@@ -6309,34 +6309,34 @@ Barcarolle
 * [QU'EST-CE QU'UN TEXTE LITTÉRAIRE ET QUE SIGNIFIE SA COMPRÉHENSION?](https://www.jstor.org/stable/23946566?seq=1#page_scan_tab_contents)
 *
 *     resúmenes*
-* http://www.inhaltsangabe24.de/*
-* https://www.inhaltsangabe.de/*
-* http://www.schule-studium.de/Deutsch/index-Literaturverzeichnis.html*
-* https://www.getabstract.com/de/zusammenfassungen/klassiker-lib/
+* [inhaltsangabe24.de/*](http://www.inhaltsangabe24.de/*)
+* [inhaltsangabe.de/*](https://www.inhaltsangabe.de/*)
+* [schule-studium.de/Deutsch/index-Literaturverzeichnis.html*](http://www.schule-studium.de/Deutsch/index-Literaturverzeichnis.html*)
+* [getabstract.com/de/zusammenfassungen/klassiker-lib/](https://www.getabstract.com/de/zusammenfassungen/klassiker-lib/)
 *
 *
 *             *
 * [(99+) (PDF) CROSS-LANGUAGE EQUIVALENCE AND CULTURAL SIMILARITY IN PROVERBS | Rusudan Dolidze - Academia.edu](https://www.academia.edu/37631159/CROSS-LANGUAGE_EQUIVALENCE_AND_CULTURAL_SIMILARITY_IN_PROVERBS?email_work_card=view-paper)
 *
 *     inglés*
-* http://courseweb.lis.illinois.edu/~katewill/spring2011-502/502%20and%20other%20readings/eliot%20choruses_from_the_rock.pdf
+* [courseweb.lis.illinois.edu/~katewill/spring2011-502/502%20and%20other%20readings/eliot%20choruses_from_the_rock.pdf](http://courseweb.lis.illinois.edu/~katewill/spring2011-502/502%20and%20other%20readings/eliot%20choruses_from_the_rock.pdf)
 *
 * [Kipling](https://libgen.is/search.php?&req=rudyard+kipling&phrase=1&view=simple&column=author&sort=language&sortmode=DESC%20%20%20Inviato%20da%20iPhone)
 *
 *     Filme / Serien*
-* https://thevore.com/
+* [thevore.com/](https://thevore.com/)
 *
 *     ruso*
-* http://russkay-literatura.ru/*
-* http://litraxixveka.ru/*
-* http://literatura548.narod.ru/index/0-2*
-* http://lgz.ru/*
-* http://artyx.ru/art/*
-* https://briefly.ru/*
-* http://www.litra.ru/
+* [russkay-literatura.ru/*](http://russkay-literatura.ru/*)
+* [litraxixveka.ru/*](http://litraxixveka.ru/*)
+* [literatura548.narod.ru/index/0-2*](http://literatura548.narod.ru/index/0-2*)
+* [lgz.ru/*](http://lgz.ru/*)
+* [artyx.ru/art/*](http://artyx.ru/art/*)
+* [briefly.ru/*](https://briefly.ru/*)
+* [litra.ru/](http://www.litra.ru/)
 *
 * [Lit-Helper.Com - онлайн библиотека в помощь школникам и студентам](http://lit-helper.com/)*
-* http://www.blogletras.com/2014/10/um-heroi-de-nosso-tempo-mikhail.html
+* [blogletras.com/2014/10/um-heroi-de-nosso-tempo-mikhail.html](http://www.blogletras.com/2014/10/um-heroi-de-nosso-tempo-mikhail.html)
 *             *     Como ler os russos (libgen)
 *
 *     alemán
@@ -6353,24 +6353,24 @@ Barcarolle
 * [Günter Grass, Die Blechtrommel und die pikarische Tradition on JSTOR](https://www.jstor.org/stable/403771?seq=1#metadata_info_tab_contents)
 *
 *     ucranio*
-* http://bibliograph.com.ua/*
-* http://www.ukrclassic.com.ua/*
-* http://litgazeta.com.ua/*
-* http://www.ukrlit.vn.ua/*
-* http://libruk.in.ua/ukrajinska-literatura*
-* http://onlyart.org.ua/
+* [bibliograph.com.ua/*](http://bibliograph.com.ua/*)
+* [ukrclassic.com.ua/*](http://www.ukrclassic.com.ua/*)
+* [litgazeta.com.ua/*](http://litgazeta.com.ua/*)
+* [ukrlit.vn.ua/*](http://www.ukrlit.vn.ua/*)
+* [libruk.in.ua/ukrajinska-literatura*](http://libruk.in.ua/ukrajinska-literatura*)
+* [onlyart.org.ua/](http://onlyart.org.ua/)
 *
 *     francés
 *
 * [Nouveau Magazine Littéraire](https://www.nouveau-magazine-litteraire.com/)
 *
 *     español*
-* http://www.euskalnet.net/tz/*
-* http://www.donquijote.org/lengua-espanola/literatura/historia/latinoamerica/*
-* http://www.literaturalatinoamericana.com/autores.htm*
-* http://www.arts-history.mx/*
-* http://www.revistaarcadia.com/*
-* http://www.artisticamonitor.com.ar/arteM.php
+* [euskalnet.net/tz/*](http://www.euskalnet.net/tz/*)
+* [donquijote.org/lengua-espanola/literatura/historia/latinoamerica/*](http://www.donquijote.org/lengua-espanola/literatura/historia/latinoamerica/*)
+* [literaturalatinoamericana.com/autores.htm*](http://www.literaturalatinoamericana.com/autores.htm*)
+* [arts-history.mx/*](http://www.arts-history.mx/*)
+* [revistaarcadia.com/*](http://www.revistaarcadia.com/*)
+* [artisticamonitor.com.ar/arteM.php](http://www.artisticamonitor.com.ar/arteM.php)
 *
 *     português
 *
@@ -6379,13 +6379,13 @@ Barcarolle
 * [Literatura russa](http://www.literaturarussa.com.br/)
 *
 *     italiano*
-* http://www.classicitaliani.it/*
-* http://www.letteratura.it/*
-* http://letteritaliana.weebly.com/*
-* http://www.sapere.it/sapere/strumenti/studiafacile/letteratura-italiana.html*
-* http://www.cultura.it/*
-* http://www.storiadellarte.com/*
-* http://www.italia.it/it/idee-di-viaggio/arte-e-storia.html
+* [classicitaliani.it/*](http://www.classicitaliani.it/*)
+* [letteratura.it/*](http://www.letteratura.it/*)
+* [letteritaliana.weebly.com/*](http://letteritaliana.weebly.com/*)
+* [sapere.it/sapere/strumenti/studiafacile/letteratura-italiana.html*](http://www.sapere.it/sapere/strumenti/studiafacile/letteratura-italiana.html*)
+* [cultura.it/*](http://www.cultura.it/*)
+* [storiadellarte.com/*](http://www.storiadellarte.com/*)
+* [italia.it/it/idee-di-viaggio/arte-e-storia.html](http://www.italia.it/it/idee-di-viaggio/arte-e-storia.html)
 *
 * - Lettura attuale
 *     1) Shakespeare
@@ -6417,87 +6417,87 @@ Barcarolle
 *
 * [Do Androids Dream of Electric Sheep?](https://b-ok.cc/book/990381/3cd029?dsource=recommend)
 *             * - general sobre literatura
-* http://www.einladung-zur-literaturwissenschaft.de/*
-* http://www.babelio.com/*
-* http://www.fichesdelecture.com/resumes/*
-* http://www.des-livres-pour-changer-de-vie.fr/resumes-de-livres/*
-* https://www.lepetitlitteraire.fr/resumes-gratuits*
-* http://www.elresumen.com/*
-* http://resumendelibros.blogspot.com/*
-* http://www.signature-reads.com/?ref=E40ED6C7794C*
-* http://www.chitalnya.ru/*
-* http://www.online-literature.com/*
-* http://americanliterature.com/*
-* https://www.goodreads.com/*
-* http://calvertjournal.com/*
-* http://www.xlibris.de/*
-* http://blog.zeit.de/schueler/literatur/*
-* https://durchleser.wordpress.com/*
-* http://www.literaturwelt.com/epochen.html*
-* http://www.la-litterature.com/dsp/dsp_display.asp*
-* https://www.nouvelle-quinzaine-litteraire.fr/bibliographie*
-* http://www.online-literature.com/*
-* http://www.alalettre.com/index.php*
-* http://www.lexpress.fr/culture/livre/*
-* http://www.etudes-litteraires.com/histoire-litteraire.php*
-* http://www.portaldaliteratura.com/*
-* http://mundodelivros.com/*
-* http://vamosaprenderportugues.blogspot.com/2014/02/a-literatura-lusofona_8.html*
-* http://www.falaq.ru/quran/arab/*
-* http://www.quran4theworld.com/translations/German/1.htm*
-* http://www.bismirabbika.com/lire-le-coran/
+* [einladung-zur-literaturwissenschaft.de/*](http://www.einladung-zur-literaturwissenschaft.de/*)
+* [babelio.com/*](http://www.babelio.com/*)
+* [fichesdelecture.com/resumes/*](http://www.fichesdelecture.com/resumes/*)
+* [des-livres-pour-changer-de-vie.fr/resumes-de-livres/*](http://www.des-livres-pour-changer-de-vie.fr/resumes-de-livres/*)
+* [lepetitlitteraire.fr/resumes-gratuits*](https://www.lepetitlitteraire.fr/resumes-gratuits*)
+* [elresumen.com/*](http://www.elresumen.com/*)
+* [resumendelibros.blogspot.com/*](http://resumendelibros.blogspot.com/*)
+* [signature-reads.com/?ref=E40ED6C7794C*](http://www.signature-reads.com/?ref=E40ED6C7794C*)
+* [chitalnya.ru/*](http://www.chitalnya.ru/*)
+* [online-literature.com/*](http://www.online-literature.com/*)
+* [americanliterature.com/*](http://americanliterature.com/*)
+* [goodreads.com/*](https://www.goodreads.com/*)
+* [calvertjournal.com/*](http://calvertjournal.com/*)
+* [xlibris.de/*](http://www.xlibris.de/*)
+* [blog.zeit.de/schueler/literatur/*](http://blog.zeit.de/schueler/literatur/*)
+* [durchleser.wordpress.com/*](https://durchleser.wordpress.com/*)
+* [literaturwelt.com/epochen.html*](http://www.literaturwelt.com/epochen.html*)
+* [la-litterature.com/dsp/dsp_display.asp*](http://www.la-litterature.com/dsp/dsp_display.asp*)
+* [nouvelle-quinzaine-litteraire.fr/bibliographie*](https://www.nouvelle-quinzaine-litteraire.fr/bibliographie*)
+* [online-literature.com/*](http://www.online-literature.com/*)
+* [alalettre.com/index.php*](http://www.alalettre.com/index.php*)
+* [lexpress.fr/culture/livre/*](http://www.lexpress.fr/culture/livre/*)
+* [etudes-litteraires.com/histoire-litteraire.php*](http://www.etudes-litteraires.com/histoire-litteraire.php*)
+* [portaldaliteratura.com/*](http://www.portaldaliteratura.com/*)
+* [mundodelivros.com/*](http://mundodelivros.com/*)
+* [vamosaprenderportugues.blogspot.com/2014/02/a-literatura-lusofona_8.html*](http://vamosaprenderportugues.blogspot.com/2014/02/a-literatura-lusofona_8.html*)
+* [falaq.ru/quran/arab/*](http://www.falaq.ru/quran/arab/*)
+* [quran4theworld.com/translations/German/1.htm*](http://www.quran4theworld.com/translations/German/1.htm*)
+* [bismirabbika.com/lire-le-coran/](http://www.bismirabbika.com/lire-le-coran/)
 *             *
 * [Литература в диалоге прошлого и настоящего](http://lektorium.tv/literature)
 *             * - proverbios y citaciones
-* http://www.brainyquote.com/*
-* https://www.goodreads.com/quotes*
-* http://tsitaty.com/*
-* http://cpsy.ru/*
-* http://xn--80apaovnb2a.xn--p1ai/*
-* http://zitate.net/*
-* https://www.aphorismen.de/*
-* http://tsytaty.ukrayinskoyu.pro/*
-* http://pro-status.com.ua/*
-* http://dicocitations.lemonde.fr/*
-* http://www.linternaute.com/citation/*
-* https://it.wikiquote.org/wiki/Pagina_principale*
-* http://www.proverbia.net/*
-* http://www.citacoes.org/*
-* http://www.citador.pt/*
-* http://www.citazioni.me/*
-* http://aforisticamente.com/*
-* http://arab-quotes.tumblr.com/*
-* http://waraqat.tumblr.com/*
-* http://arabicquotes.co.uk/
+* [brainyquote.com/*](http://www.brainyquote.com/*)
+* [goodreads.com/quotes*](https://www.goodreads.com/quotes*)
+* [tsitaty.com/*](http://tsitaty.com/*)
+* [cpsy.ru/*](http://cpsy.ru/*)
+* [xn--80apaovnb2a.xn--p1ai/*](http://xn--80apaovnb2a.xn--p1ai/*)
+* [zitate.net/*](http://zitate.net/*)
+* [aphorismen.de/*](https://www.aphorismen.de/*)
+* [tsytaty.ukrayinskoyu.pro/*](http://tsytaty.ukrayinskoyu.pro/*)
+* [pro-status.com.ua/*](http://pro-status.com.ua/*)
+* [dicocitations.lemonde.fr/*](http://dicocitations.lemonde.fr/*)
+* [linternaute.com/citation/*](http://www.linternaute.com/citation/*)
+* [it.wikiquote.org/wiki/Pagina_principale*](https://it.wikiquote.org/wiki/Pagina_principale*)
+* [proverbia.net/*](http://www.proverbia.net/*)
+* [citacoes.org/*](http://www.citacoes.org/*)
+* [citador.pt/*](http://www.citador.pt/*)
+* [citazioni.me/*](http://www.citazioni.me/*)
+* [aforisticamente.com/*](http://aforisticamente.com/*)
+* [arab-quotes.tumblr.com/*](http://arab-quotes.tumblr.com/*)
+* [waraqat.tumblr.com/*](http://waraqat.tumblr.com/*)
+* [arabicquotes.co.uk/](http://arabicquotes.co.uk/)
 *             * - poesía
-* http://www.lyrikline.org/fr/startseite/*
-* http://parnassusreview.com/*
-* http://rupoem.ru/*
-* http://xn--80apgoet0f.xn--p1ai/*
-* http://modernpoetry.ru/*
-* http://www.stihi-rus.ru/page3.htm*
-* http://ru-poetry.ru/*
-* http://www.russian-poetry.ru/*
-* http://www.mumag.de/gedichte/*
-* http://gedichte.xbib.de/*
-* http://www.lyrikmond.de/gedichte-thema-4-99.php*
-* http://poetyka.uazone.net/poems.html*
-* https://onlyart.org.ua/ukrainian-poets/*
-* http://www.gorishna.narod.ru/*
-* https://vk.com/poetry_of_ukrainy*
-* http://www.poetryclub.com.ua/index.php*
-* http://www.a-verse.org/*
-* http://poesiemaintenant.hautetfort.com/*
-* http://www.arpa-poesie.fr/Nous.html*
-* http://www.camagueycuba.org/cienpoesias/*
-* http://www.poesi.as/indexc.htm*
-* http://circulodepoesia.com/*
-* http://www.lusofoniapoetica.com/*
-* http://www.italian-poetry.org/*
-* http://www.poetare.it/index.html*
-* http://www.aly-abbara.com/litterature/poesie_arabe/sommaire.html*
-* http://www.poesiaarabe.com/index.html*
-* http://arabe-poesie.blogspot.com/
+* [lyrikline.org/fr/startseite/*](http://www.lyrikline.org/fr/startseite/*)
+* [parnassusreview.com/*](http://parnassusreview.com/*)
+* [rupoem.ru/*](http://rupoem.ru/*)
+* [xn--80apgoet0f.xn--p1ai/*](http://xn--80apgoet0f.xn--p1ai/*)
+* [modernpoetry.ru/*](http://modernpoetry.ru/*)
+* [stihi-rus.ru/page3.htm*](http://www.stihi-rus.ru/page3.htm*)
+* [ru-poetry.ru/*](http://ru-poetry.ru/*)
+* [russian-poetry.ru/*](http://www.russian-poetry.ru/*)
+* [mumag.de/gedichte/*](http://www.mumag.de/gedichte/*)
+* [gedichte.xbib.de/*](http://gedichte.xbib.de/*)
+* [lyrikmond.de/gedichte-thema-4-99.php*](http://www.lyrikmond.de/gedichte-thema-4-99.php*)
+* [poetyka.uazone.net/poems.html*](http://poetyka.uazone.net/poems.html*)
+* [onlyart.org.ua/ukrainian-poets/*](https://onlyart.org.ua/ukrainian-poets/*)
+* [gorishna.narod.ru/*](http://www.gorishna.narod.ru/*)
+* [vk.com/poetry_of_ukrainy*](https://vk.com/poetry_of_ukrainy*)
+* [poetryclub.com.ua/index.php*](http://www.poetryclub.com.ua/index.php*)
+* [a-verse.org/*](http://www.a-verse.org/*)
+* [poesiemaintenant.hautetfort.com/*](http://poesiemaintenant.hautetfort.com/*)
+* [arpa-poesie.fr/Nous.html*](http://www.arpa-poesie.fr/Nous.html*)
+* [camagueycuba.org/cienpoesias/*](http://www.camagueycuba.org/cienpoesias/*)
+* [poesi.as/indexc.htm*](http://www.poesi.as/indexc.htm*)
+* [circulodepoesia.com/*](http://circulodepoesia.com/*)
+* [lusofoniapoetica.com/*](http://www.lusofoniapoetica.com/*)
+* [italian-poetry.org/*](http://www.italian-poetry.org/*)
+* [poetare.it/index.html*](http://www.poetare.it/index.html*)
+* [aly-abbara.com/litterature/poesie_arabe/sommaire.html*](http://www.aly-abbara.com/litterature/poesie_arabe/sommaire.html*)
+* [poesiaarabe.com/index.html*](http://www.poesiaarabe.com/index.html*)
+* [arabe-poesie.blogspot.com/](http://arabe-poesie.blogspot.com/)
 *             * - Wisdom literature
 *     «Бхагават гита»;*     «Махабхарата»;*     «Гильгамеш»;*     «Ветхий Завет»;*     Гомер. «Илиада», «Одиссея»;*     Геродот. «История»;*     Софокл. Пьесы;*     Эсхил. Пьесы;*     Еврипид. Пьесы: «Ипполит», «Вакханки», «Электра», «Финикиянки»:*     Фукидид. «История Пелопоннесской войны»;*     Платон. «Диалоги»;*     Аристотель. «Поэтика», «Физика», «Этика», «О душе»;*     Александрийская поэзия;*     Лукреций. «О природе вещей»;*     Плутарх. «Жизнеописания»;*     Вергилий. «Энеида», «Буколики», «Георгики»;*     Тацит. «Анналы»;*     Овидий. «Метаморфозы», «Героиды», «Наука любви»; Новый Завет;*     Светоний. «Жизнеописания двенадцати цезарей»;*     Марк Аврелий;*     Катулл;*     Гораций;*     Эпиктет;*     Аристофан;*     Элиан. «Пестрые истории», «О природе животных»;*     Аполлодор. «Аргонавтика»;*     Пселл. «Жизнеописание правителей Византии»;*     Гиббон. «История упадка и разрушения Римской империи»;*     Плотин. «Эннеады»;*     Евсевий. «Церковная история»;*     Боэций. «Об утешении философией»;*     Плиний Младший. «Письма»;*     Византийские стихотворные романы;*     Гераклит. «Фрагменты»;*     Августин. «Исповедь»;*     Фома Аквинский. «Summa Theolo qica»;*     Св. Франциск. «Цветочки»;*     Николло Макиавелли. «Государь»;*     Данте. «Божественная комедия»;*     Франко Сакети. Новеллы;*     Исландские саги;*     Шекспир. «Антоний и Клеопатра», «Гамлет», «Макбет», «Генрих V»;*     Рабле;*     Бэкон;*     Мартин Лютер;*     Кальвин;*     Монтень. «Опыты»;*     Сервантес. «Дон Кихот»;*     Декарт;*     «Песнь о Роланде»;
 *     Поэзия, рекомендованная к прочтению
@@ -6607,17 +6607,17 @@ Barcarolle
 * [Harold Bloom - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Harold_Bloom)
 *
 * [HEINRICH VON KLEIST (1777-1811) – Une vie, une œuvre [1999] - YouTube](https://www.youtube.com/watch?v=MEk2KIDrF0s)*
-* http://knigalife.com/news/ranimym-studentam-ogranichat-dostup-k-zhestokoy-literature/*
-* http://letrasinversoreverso.blogspot.com/2014/10/um-heroi-de-nosso-tempo-mikhail.html*
-* http://mundodelivros.com/anna-karenina/*
-* http://repository.brynmawr.edu/cgi/viewcontent.cgi?article=1043&context=classics_pubs*
-* http://sites.arte.tv/grands-mythes/fr/les-vingt-episodes-grands-mythes*
-* http://sparkcharts.sparknotes.com/womens/womens/section4.php*
-* http://www.albertoangelini.it/pinocchio-e-la-psicologia/*
-* http://www.goodreads.com/list/show/22135.Around_the_World_One_Book_from_Each_Country*
-* http://www.inteligencianarrativa.com/30-blogs-de-literatura/*
-* http://www.revistabula.com/325-os-15-melhores-inicios-de-livros/*
-* https://www.reddit.com/r/hampan/comments/9imjbt/%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B5_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8_xxi_%D0%B2%D0%B5%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B8_vulture_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0/?st=JMGXGZJT&sh=a4b445ff
+* [knigalife.com/news/ranimym-studentam-ogranichat-dostup-k-zhestokoy-literature/*](http://knigalife.com/news/ranimym-studentam-ogranichat-dostup-k-zhestokoy-literature/*)
+* [letrasinversoreverso.blogspot.com/2014/10/um-heroi-de-nosso-tempo-mikhail.html*](http://letrasinversoreverso.blogspot.com/2014/10/um-heroi-de-nosso-tempo-mikhail.html*)
+* [mundodelivros.com/anna-karenina/*](http://mundodelivros.com/anna-karenina/*)
+* [repository.brynmawr.edu/cgi/viewcontent.cgi?article=1043&context=classics_pubs*](http://repository.brynmawr.edu/cgi/viewcontent.cgi?article=1043&context=classics_pubs*)
+* [sites.arte.tv/grands-mythes/fr/les-vingt-episodes-grands-mythes*](http://sites.arte.tv/grands-mythes/fr/les-vingt-episodes-grands-mythes*)
+* [sparkcharts.sparknotes.com/womens/womens/section4.php*](http://sparkcharts.sparknotes.com/womens/womens/section4.php*)
+* [albertoangelini.it/pinocchio-e-la-psicologia/*](http://www.albertoangelini.it/pinocchio-e-la-psicologia/*)
+* [goodreads.com/list/show/22135.Around_the_World_One_Book_from_Each_Country*](http://www.goodreads.com/list/show/22135.Around_the_World_One_Book_from_Each_Country*)
+* [inteligencianarrativa.com/30-blogs-de-literatura/*](http://www.inteligencianarrativa.com/30-blogs-de-literatura/*)
+* [revistabula.com/325-os-15-melhores-inicios-de-livros/*](http://www.revistabula.com/325-os-15-melhores-inicios-de-livros/*)
+* [r/hampan/comments/9imjbt/%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B5_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8_xxi_%D0%B2%D0%B5%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B8_vulture_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0/?st=JMGXGZJT&sh=a4b445ff](https://www.reddit.com/r/hampan/comments/9imjbt/%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B5_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8_xxi_%D0%B2%D0%B5%D0%BA%D0%B0_%D0%BF%D0%BE_%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B8_vulture_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0/?st=JMGXGZJT&sh=a4b445ff)
 *             *     Inspirations of Harry Potter - Motion VS History # 8 - YouTube
 *
 * [Laura Wilder](https://libgen.is/search.php?&req=laura+wilder&phrase=1&view=simple&column=def&sort=language&sortmode=ASC)
@@ -6944,12 +6944,12 @@ Barcarolle
 *             *     pentameter
 *             *     hexameter
 *             * - Literature Sites and Resources
-* https://p-w-w.org/*
-* https://sovietmoviesonline.com/tv-series/721-bratya-karamazovy-mini-serial.html*
-* https://www.fedordostoevsky.ru/files/pdf/agd_1987.pdf*
-* https://www.pravda.com.ua/inozmi/svoboda/2015/10/19/7085327/*
-* https://www.qiio.de/*
-* https://www.unian.ua/detail/innosmi
+* [p-w-w.org/*](https://p-w-w.org/*)
+* [sovietmoviesonline.com/tv-series/721-bratya-karamazovy-mini-serial.html*](https://sovietmoviesonline.com/tv-series/721-bratya-karamazovy-mini-serial.html*)
+* [fedordostoevsky.ru/files/pdf/agd_1987.pdf*](https://www.fedordostoevsky.ru/files/pdf/agd_1987.pdf*)
+* [pravda.com.ua/inozmi/svoboda/2015/10/19/7085327/*](https://www.pravda.com.ua/inozmi/svoboda/2015/10/19/7085327/*)
+* [qiio.de/*](https://www.qiio.de/*)
+* [unian.ua/detail/innosmi](https://www.unian.ua/detail/innosmi)
 *
 * [La Lettrice Rampante](http://lalettricerampante.blogspot.it/)
 *
@@ -6973,7 +6973,7 @@ Barcarolle
 *
 * [Щоденник: 1948-1949, 1967-1968, 1971-1976](http://93.174.95.29/_ads/36A10753556D258A193854C7353778B2)
 *
-* https://www.newyorker.com/magazine/2019/01/28/how-to-read-the-good-books*
+* [newyorker.com/magazine/2019/01/28/how-to-read-the-good-books*](https://www.newyorker.com/magazine/2019/01/28/how-to-read-the-good-books*)
 * Notes
 * Notes
 * Art Theory
@@ -7110,8 +7110,8 @@ Barcarolle
 
 * Misc
 * [Histoire du théâtre au 17e siècle - Français Première - Les Bons Profs - YouTube](https://www.youtube.com/watch?v=mWFVMDMfkPo&list=PL3jeNEatPhonSbxR4OHXG2chC3eKma4b9)
-* http://www.laboiteverte.fr/les-12-principes-basiques-lanimation/
-* https://acculturated.com/the-greatness-of-jurassic-park/
+* [laboiteverte.fr/les-12-principes-basiques-lanimation/](http://www.laboiteverte.fr/les-12-principes-basiques-lanimation/)
+* [acculturated.com/the-greatness-of-jurassic-park/](https://acculturated.com/the-greatness-of-jurassic-park/)
 * [L'art : les notions à connaître](https://www.youtube.com/watch?v=6yTK8_O23cE)
 * [Les grands maîtres de la peinture: Van Gogh - Toute L'Histoire - YouTube](https://www.youtube.com/watch?v=MmJjGZQ-WUg)
 * [Narrative - Wikipedia](https://en.wikipedia.org/wiki/Narrative)
@@ -7274,7 +7274,7 @@ Barcarolle
 * Tourangeaux
 
 
-* http://www.commgap.com/
+* [commgap.com/](http://www.commgap.com/)
 
 
 * [jeffbeatty.org](http://jeffbeatty.org/)
@@ -7346,8 +7346,8 @@ Barcarolle
 * Storia del romanzo italiano
 * Spilling the Beans on the Cat's Pyjamas
 * Cómplices (Benito Taibo)
-* https://zen.yandex.ru/media/id/5a573b5c4bf161c0edf84dd6/karmannyi-kompiuter-fanatov-nauchnoi-fantastiki-5a85605c830905678506acd2
-* http://samlib.ru/r/rashewskij_m_w/lem.shtml
+* [zen.yandex.ru/media/id/5a573b5c4bf161c0edf84dd6/karmannyi-kompiuter-fanatov-nauchnoi-fantastiki-5a85605c830905678506acd2](https://zen.yandex.ru/media/id/5a573b5c4bf161c0edf84dd6/karmannyi-kompiuter-fanatov-nauchnoi-fantastiki-5a85605c830905678506acd2)
+* [samlib.ru/r/rashewskij_m_w/lem.shtml](http://samlib.ru/r/rashewskij_m_w/lem.shtml)
 * Краткая история мифа
 * 10 книг, которые помогут разобраться в истории искусств
 * Блум - Западный канон
@@ -7356,7 +7356,7 @@ Barcarolle
 * The Penguin Book of Classical Myths
 * Les grandes mythes
 * Argumentation - E.M. Barth
-* https://www.nplusonemag.com/
+* [nplusonemag.com/](https://www.nplusonemag.com/)
 * Mindfulness in Music
 * Music in America - Dvorak
 * Real Value of Negro Melodies - Dvorak
@@ -7370,9 +7370,9 @@ Barcarolle
 * Как читать платье
 * [Дневник слабака. Неприглядная правда](http://library.lol/main/3A156A69C9B75EC4BF003BE16EB32E4D)
 * 100 великих легенд и мифов мира
-* https://classicalmusiconly.com/list/100-greatest-classical-music-works-f164de5b
-* https://studionotesonline.com/classical-music-listening-lists/
-* https://en.wikipedia.org/wiki/Classical_music
+* [classicalmusiconly.com/list/100-greatest-classical-music-works-f164de5b](https://classicalmusiconly.com/list/100-greatest-classical-music-works-f164de5b)
+* [studionotesonline.com/classical-music-listening-lists/](https://studionotesonline.com/classical-music-listening-lists/)
+* [en.wikipedia.org/wiki/Classical_music](https://en.wikipedia.org/wiki/Classical_music)
 * Suche: AP language and composition suggested reading list
 * Suche: AP language and literature suggested reading list
 * Sous les ciels de Paris
@@ -7406,7 +7406,7 @@ Barcarolle
 * language study idea:; get useful illustrative phrases from the dictionary
 * Histoire de la musique (Beltrando-Patier)
 * Short History of French Literature
-* [https://libgen.rs/search.php?req=música+clássica&open=0&res=25&view=simple&phrase=1&column=def](https://libgen.rs/search.php?req=m%C3%BAsica+cl%C3%A1ssica&open=0&res=25&view=simple&phrase=1&column=def)
+* [libgen.rs/search.php?req=música+clássica&open=0&res=25&view=simple&phrase=1&column=def](https://libgen.rs/search.php?req=m%C3%BAsica+cl%C3%A1ssica&open=0&res=25&view=simple&phrase=1&column=def)
 * [BBC NEWS | Entertainment | The Office remade for French TV](http://news.bbc.co.uk/2/hi/entertainment/4697386.stm)
 * [DOMUS: Scopri la Storica Rivista di Architettura, Design e Arte](https://www.domusweb.it/it/home.html)
 * [Dostoevsky's leap of faith - Telegraph](https://www.telegraph.co.uk/culture/4728862/Dostoevskys-leap-of-faith.html)
@@ -7424,12 +7424,12 @@ Barcarolle
 * [О Лермонтове | А. Машевский](https://www.youtube.com/watch?v=84TLBFYvRB8&list=PL-_cKNuVAYAXIbvNfsljmFj6EWT9GkwsY)
 * [Andy Parsons - YouTube](https://www.youtube.com/watch?v=j9_i32JoscI)
 * [Top 14 Crowd Work Moments of the Year (2019 BEST OF COMPILATION) - YouTube](https://www.youtube.com/watch?v=juqUnA94NyQ)
-* https://www.google.com/search?safe=active&client=safari&hl=it-us&biw=320&bih=454&ei=zj8DWrvRKo64jAOPsrXoBQ&q=intellektuelle+comics+online&oq=intellektuelle+comics+online&gs_l=mobile-gws-serp.3...0.0.0.34574.1.1.0.0.0.0.0.0..0.0....0...1..64.mobile-gws-serp..1.0.0....191.qT9qE730Ovw
-* https://www.google.com/search?safe=active&client=safari&hl=it-us&biw=320&bih=454&ei=8j8DWq3OG8fKjwPyqi0&q=webcomics+auf+deutsch&oq=webcomics+auf+deutsch&gs_l=mobile-gws-serp.3..0i22i30k1.23092.31447.0.31853.23.22.1.5.5.0.697.5876.0j8j5j5j0j3.21.0....0...1.1.64.mobile-gws-serp..3.20.3356.3..0j35i39k1j0i67k1j0i22i10i30k1.273.BYnj1v3Zkzk
-* [Raw, brave, wild and honest: why Germany is Europe's greatest artistic nation | Art | The Guardian](https://www.theguardian.com/artanddesign/2021/jan/19/germany-europes-greatest-artistic-nation-richter-klee-dix-hoch?utm_source=pocket-newtab)
+* [google.com/search?safe=active&client=safari&hl=it-us&biw=320&bih=454&ei=zj8DWrvRKo64jAOPsrXoBQ&q=intellektuelle+comics+online&oq=intellektuelle+comics+online&gs_l=mobile-gws-serp.3...0.0.0.34574.1.1.0.0.0.0.0.0..0.0....0...1..64.mobile-gws-serp..1.0.0....191.qT9qE730Ovw](https://www.google.com/search?safe=active&client=safari&hl=it-us&biw=320&bih=454&ei=zj8DWrvRKo64jAOPsrXoBQ&q=intellektuelle+comics+online&oq=intellektuelle+comics+online&gs_l=mobile-gws-serp.3...0.0.0.34574.1.1.0.0.0.0.0.0..0.0....0...1..64.mobile-gws-serp..1.0.0....191.qT9qE730Ovw)
+* [google.com/search?safe=active&client=safari&hl=it-us&biw=320&bih=454&ei=8j8DWq3OG8fKjwPyqi0&q=webcomics+auf+deutsch&oq=webcomics+auf+deutsch&gs_l=mobile-gws-serp.3..0i22i30k1.23092.31447.0.31853.23.22.1.5.5.0.697.5876.0j8j5j5j0j3.21.0....0...1.1.64.mobile-gws-serp..3.20.3356.3..0j35i39k1j0i67k1j0i22i10i30k1.273.BYnj1v3Zkzk](https://www.google.com/search?safe=active&client=safari&hl=it-us&biw=320&bih=454&ei=8j8DWq3OG8fKjwPyqi0&q=webcomics+auf+deutsch&oq=webcomics+auf+deutsch&gs_l=mobile-gws-serp.3..0i22i30k1.23092.31447.0.31853.23.22.1.5.5.0.697.5876.0j8j5j5j0j3.21.0....0...1.1.64.mobile-gws-serp..3.20.3356.3..0j35i39k1j0i67k1j0i22i10i30k1.273.BYnj1v3Zkzk)
+* [Raw, brave, wild and honest: why Germany is Europe's greatest artistic nation | Art | The Guardian](https://www.theguardian.com/artanddesign/2021/jan/19/germany-europes-greatest-artistic-nation-richter-klee-dix-hoch)
 * [31- "Art contemporain". Sixième partie : le mythe du progrès perpétuel.](https://www.youtube.com/watch?v=1dbtdsv4A9o)
 * [isku](https://vk.com/wall-186106485_16756)
-* https://www.theparisreview.org/blog/2015/09/11/the-most-misread-poem-in-america/*
+* [theparisreview.org/blog/2015/09/11/the-most-misread-poem-in-america/*](https://www.theparisreview.org/blog/2015/09/11/the-most-misread-poem-in-america/*)
 * [->](https://www.youtube.com/watch?v=CYmDxBBnDg8)
 * [VOCES8: Jesus bleibet meine Freude - JS Bach - YouTube](https://www.youtube.com/watch?v=T5Df7f_BLU8)
 * [The most mind-blowing concept in music (Harmonic Series) - YouTube](https://www.youtube.com/watch?v=Wx_kugSemfY)
@@ -7439,21 +7439,21 @@ Barcarolle
 * [FAUN - Renaissance (Full Album) - YouTube](https://www.youtube.com/watch?v=Pr8qat8PFcI)
 * [Meet - fiq-yuvi-pdt](https://meet.google.com/fiq-yuvi-pdt?hs=49)*
 * H.L
-* http://www.fussball-wm.pro/
-* http://cadenaser.com/programa/play_futbol/
-* http://meinsportradio.de/
-* https://www.sports.ru/
+* [fussball-wm.pro/](http://www.fussball-wm.pro/)
+* [cadenaser.com/programa/play_futbol/](http://cadenaser.com/programa/play_futbol/)
+* [meinsportradio.de/](http://meinsportradio.de/)
+* [sports.ru/](https://www.sports.ru/)
 
 
 * Sort
 * [Будь как Дудь: почему журналиста ненавидят госканалы, комментирует Кремль и обожают зрители](https://vk.com/away.php?to=https%3A%2F%2Ftvrain.ru%2Fteleshow%2Fvechernee_shou%2Fbud_kak_dud-493461%2F%3Futm_term%3D493461%26utm_source%3Dvk%26utm_medium%3Dsocial%26utm_campaign%3Dinstant%26utm_content%3Dtvrain-main)
-* https://thechive.com/
+* [thechive.com/](https://thechive.com/)
 * [Anna Karenina Film RU](https://vk.com/video?order=1&q=%D0%90%D0%BD%D0%BD%D0%B0%20%D0%9A%D0%B0%D1%80%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0&z=video-105195177_456244659)
 * [Anna Karenina Film RU YT](https://www-m11.ma.tum.de/en/karpfing/buecher/videoaufzeichnungen/)
-* https://www.netflix.com/
+* [netflix.com/](https://www.netflix.com/)
 * [Risovanje](https://vk.com/wall-36047336_76322)
 * [Worldcrunch - Real news. True sources. Seriously international.](https://www.worldcrunch.com/)
-* http://www.realitybase.org/
+* [realitybase.org/](http://www.realitybase.org/)
 * [Literature for the 21st Century](https://athanata.typepad.com/files/literature-for-the-21st-century.pdf)
 * [Ali Xel - Поиск в Google](https://www.google.com/search?q=Ali+Xel&rlz=1C1GCEA_enUS828US828&oq=Ali+Xel&aqs=chrome..69i57j0l5.223j0j7&sourceid=chrome&ie=UTF-8)
 * [Annuaire &gt; Sites généralistes](http://www.rue-des-livres.com/annuaire/10/sites_generalistes.html)
@@ -7463,28 +7463,28 @@ Barcarolle
 * [Canciones Que Has Escuchado, Pero No Sabias El Nombre - YouTube](https://www.youtube.com/watch?v=a8qWon1xCus)
 * [Canciones Que Marcaron La Historia - YouTube](https://www.youtube.com/watch?v=iMDDpnyfbrM)
 * [catalog.mines-paristech.fr/Files/Leipp_1res.pdf](http://catalog.mines-paristech.fr/Files/Leipp_1res.pdf)
-* https://popkult.org/
+* [popkult.org/](https://popkult.org/)
 * [Club del Libro](http://club-dellibro.blogspot.com/)
-* http://www.iggymagazine.com/
-* http://www.inoforum.ru/
-* http://xochu-vse-znat.ru/
-* https://en.wikipedia.org/wiki/Theory_of_art
-* https://gutenberg.spiegel.de/buch/der-schweizerische-robinson-833/1
+* [iggymagazine.com/](http://www.iggymagazine.com/)
+* [inoforum.ru/](http://www.inoforum.ru/)
+* [xochu-vse-znat.ru/](http://xochu-vse-znat.ru/)
+* [en.wikipedia.org/wiki/Theory_of_art](https://en.wikipedia.org/wiki/Theory_of_art)
+* [gutenberg.spiegel.de/buch/der-schweizerische-robinson-833/1](https://gutenberg.spiegel.de/buch/der-schweizerische-robinson-833/1)
 
 
-* https://www.imarabe.org/fr/actualites/centre-de-langue-et-de-civilisation-arabes/2020/l-arabe-en-chantant-12
+* [imarabe.org/fr/actualites/centre-de-langue-et-de-civilisation-arabes/2020/l-arabe-en-chantant-12](https://www.imarabe.org/fr/actualites/centre-de-langue-et-de-civilisation-arabes/2020/l-arabe-en-chantant-12)
 * [VOCES8: Requiem, Op. 48 by Gabriel Fauré - YouTube](https://www.youtube.com/watch?v=4xZbnY5jQSk)
 * [Dvořák - Slavonic Dances & Suites + Presentation (reference recording : Antal Dorati) - YouTube](https://www.youtube.com/watch?v=JhBjD23F2r0)
 * [skeTch](https://youtube.com/playlist?list=PL546E6163151751EE)
-* https://vk.com/search?c%5Bq%5D=calvin%20and%20hobbes%20pdf&c%5Bsection%5D=auto
+* [vk.com/search?c%5Bq%5D=calvin%20and%20hobbes%20pdf&c%5Bsection%5D=auto](https://vk.com/search?c%5Bq%5D=calvin%20and%20hobbes%20pdf&c%5Bsection%5D=auto)
 * [Introduction to Automatic Differentiation](https://alexey.radul.name/ideas/2013/introduction-to-automatic-differentiation/)
-* https://www.domusweb.it/it/home.html
+* [domusweb.it/it/home.html](https://www.domusweb.it/it/home.html)
 * [Машина времени - Лучшие песни (2003) - YouTube](https://www.youtube.com/watch?v=f-jBxHZe6l0)
-* https://www.greekboston.com/learn-speak/punctuation/
-* https://psykip.vercel.app/compare/all
+* [greekboston.com/learn-speak/punctuation/](https://www.greekboston.com/learn-speak/punctuation/)
+* [psykip.vercel.app/compare/all](https://psykip.vercel.app/compare/all)
 * [Das buch der fast vergessenen wörter](http://library.lol/main/CB459EB5D3A341FE31477231B5CF76D7)
 * [Владимир Высоцкий - Лучшие песни - часть первая - YouTube](https://www.youtube.com/watch?v=IEJnPFd6hoc)
 * [100 Basic Chinese Characters – UsefulCharts](https://usefulcharts.com/blogs/charts/100-chinese-characters-to-know)
 * [Історія](http://libgen.io/search.php?&req=%D1%96%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%8F&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
-* https://www.discogs.com/release/3868034-Philippe-Entremont-The-Worlds-Favourite-Piano-Music
-* https://www.discogs.com/master/901641-Philippe-Entremont-Entremont-Plays-Piano-Favorites
+* [discogs.com/release/3868034-Philippe-Entremont-The-Worlds-Favourite-Piano-Music](https://www.discogs.com/release/3868034-Philippe-Entremont-The-Worlds-Favourite-Piano-Music)
+* [discogs.com/master/901641-Philippe-Entremont-Entremont-Plays-Piano-Favorites](https://www.discogs.com/master/901641-Philippe-Entremont-Entremont-Plays-Piano-Favorites)

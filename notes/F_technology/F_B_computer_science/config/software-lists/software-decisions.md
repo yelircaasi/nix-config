@@ -5,12 +5,12 @@
 
 
 ### editors
-* https://github.com/helix-editor/helix -   [helix](https://github.com/helix-editor/helix)) - Modal editor inspired by kakoune.
-* https://github.com/xyproto/orbiton - config-free editor and IDE (valuable snippets on README)
-* https://github.com/martanne/vis - "a modern, legacy free, simple yet efficient vim-like editor" - [structural res](https://what.happens.when.computer/2016-08-30/structural-res/),  [sre paper](http://doc.cat-v.org/bell_labs/structural_regexps/se.pdf)
-* https://github.com/mawww/kakoune - [kakoune](https://kakoune.org/) - Modal editor with multiple selections and orthogonal design.
-* https://github.com/zyedidia/micro
-* https://github.com/adsr/mle
+* [helix-editor/helix](https://github.com/helix-editor/helix) -   [helix](https://github.com/helix-editor/helix)) - Modal editor inspired by kakoune.
+* [xyproto/orbiton](https://github.com/xyproto/orbiton) - config-free editor and IDE (valuable snippets on README)
+* [martanne/vis](https://github.com/martanne/vis) - "a modern, legacy free, simple yet efficient vim-like editor" - [structural res](https://what.happens.when.computer/2016-08-30/structural-res/),  [sre paper](http://doc.cat-v.org/bell_labs/structural_regexps/se.pdf)
+* [mawww/kakoune](https://github.com/mawww/kakoune) - [kakoune](https://kakoune.org/) - Modal editor with multiple selections and orthogonal design.
+* [zyedidia/micro](https://github.com/zyedidia/micro)
+* [adsr/mle](https://github.com/adsr/mle)
 * [zee](https://github.com/zee-editor/zee) - Zee is a modern editor for the terminal, in the spirit of Emacs. It is written in Rust and it is somewhat experimental.
 * [ash](https://github.com/akashnag/ash) - A simple and clean terminal-based text editor, that aims to be easy to use with modern key-bindings.
 * [Spacemacs](https://www.spacemacs.org/) - A community-driven Emacs distribution.
@@ -19,13 +19,13 @@
 
 
 * Emacs
-* follow links! → https://www.youtube.com/watch?v=Hvlkca98tyw
+* follow links! → [](https://www.youtube.com/watch?v=Hvlkca98tyw)
 * [I'm Replacing All Of My Programs...With Emacs - YouTube](https://www.youtube.com/watch?v=HzFqZ0Gl0aw)
-* https://github.com/emacs-evil/evil
-* https://docs.doomemacs.org/latest/
-* https://orgmode.org/
-* https://github.com/seagle0128/.emacs.d#centaur-emacs
-* https://github.com/nvim-orgmode/orgmode
+* [emacs-evil/evil](https://github.com/emacs-evil/evil)
+* [docs.doomemacs.org/latest/](https://docs.doomemacs.org/latest/)
+* [orgmode.org/](https://orgmode.org/)
+* [seagle0128/.emacs.d#centaur-emacs](https://github.com/seagle0128/.emacs.d#centaur-emacs)
+* [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode)
 * [Is It "WRONG" To Learn Emacs With The Evil Bindings - YouTube](https://www.youtube.com/watch?v=omROuzns-m0)
 * [CUA Bindings (GNU Emacs Manual)](https://www.gnu.org/software/emacs/manual/html_node/emacs/CUA-Bindings.html)
 * [Vim vs Emacs (dt)](https://www.youtube.com/watch?v=VaBdlcYaZLQ)
@@ -366,32 +366,32 @@ Kate
 * [Mycroft](https://mycroft.ai/) - Mycroft is a hackable open source voice assistant.
 * [fasttyper](https://github.com/ickyicky/fasttyper) - Fasttyper is minimalistic typing test based on user provided exercising text.
 * [thokr](https://github.com/thatvegandev/thokr) - Sleek typing tui with visualized results and historical logging.
-* https://semaphoreci.com/blog/grpc
-* https://flathub.org/apps/org.gnome.NetworkDisplays
-* https://github.com/GSConnect/gnome-shell-extension-gsconnect/wiki
-* https://github.com/snooppr/snoop
-* https://framagit.org/public/projects
-* https://github.com/andreabergia/rjvm
-* https://termible.io/
+* [semaphoreci.com/blog/grpc](https://semaphoreci.com/blog/grpc)
+* [flathub.org/apps/org.gnome.NetworkDisplays](https://flathub.org/apps/org.gnome.NetworkDisplays)
+* [GSConnect/gnome-shell-extension-gsconnect/wiki](https://github.com/GSConnect/gnome-shell-extension-gsconnect/wiki)
+* [snooppr/snoop](https://github.com/snooppr/snoop)
+* [framagit.org/public/projects](https://framagit.org/public/projects)
+* [andreabergia/rjvm](https://github.com/andreabergia/rjvm)
+* [termible.io/](https://termible.io/)
 * [git-sh](https://github.com/rtomayko/git-sh) - Customized Bash environment suitable for Git work.
 * [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
 * [git commander](https://github.com/golbin/git-commander) - A git tool with an easy interactive terminal interface.
 * [git commander](https://github.com/golbin/git-commander) - Interactive git tool.
 * [Giggle](https://wiki.gnome.org/action/show/Apps/giggle) - Giggle is a graphical frontend for the git content tracker.
 * [ncursesFM](https://github.com/FedeDP/ncursesFM) - File manager written in C; rather complete in terms of features; especially lightweight and responsive.
-* [ ] https://github.com/langner/lfm - https://inigo.katxi.org/devel/lfm/ - (Last File Manager) is a file manager written in Python; it comes with lots of features, including 1-pane or 2-pane view, files filters and bookmarks, tree view, virtual file-systems to open compressed archives, search in files, customizable keybindings and themes.
+* [ ] [langner/lfm](https://github.com/langner/lfm) - [inigo.katxi.org/devel/lfm/](https://inigo.katxi.org/devel/lfm/) - (Last File Manager) is a file manager written in Python; it comes with lots of features, including 1-pane or 2-pane view, files filters and bookmarks, tree view, virtual file-systems to open compressed archives, search in files, customizable keybindings and themes.
 * → CONTRIBUTE! - update old code*
-* http://svn.savannah.gnu.org/viewvc/fontypython/ - update?
+* [svn.savannah.gnu.org/viewvc/fontypython/](http://svn.savannah.gnu.org/viewvc/fontypython/) - update?
 * [ ]  [ReadMe](https://readme.io/)
 * [Paru](https://github.com/morganamilo/paru) - Paru is your standard pacman wrapping AUR helper with lots of features and minimal interaction.
 * [Yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go.
 * [ ]  [thread-safe](https://github.com/dkaslovsky/thread-safe) - Keep your favorite Twitter threads safe with a local copy.- [ ]  [Max Auto Clicker](https://maxautoclicker.blogspot.com/) - Automate your mouse clicks easily with this awesome cross-platform application (for Windows and Linux Desktops).- [ ]  [Russhian Roulette](https://github.com/cyradotpink/russhian-roulette) - 1/6 chance of posting your SSH private key on pastebin (do you really want to try?).
 * [Termit](https://github.com/nonstop/termit) - Simple terminal emulator based on vte library, extensible via Lua.
-* [ ]  https://cairographics.org/- [ ]  https://pango.gnome.org/- [ ]  https://github.com/harfbuzz/harfbuzz *** excellent font-shaping library*  - [ ]  https://freetype.org/freetype2/docs/documentation.html
+* [ ]  [cairographics.org/-](https://cairographics.org/-) [ ]  [pango.gnome.org/-](https://pango.gnome.org/-) [ ]  [harfbuzz/harfbuzz](https://github.com/harfbuzz/harfbuzz) *** excellent font-shaping library*  - [ ]  [freetype.org/freetype2/docs/documentation.html](https://freetype.org/freetype2/docs/documentation.html)
 * [Reddit Terminal Viewer](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 * [Wavebox](https://wavebox.io/) - A feature-rich Chromium browser that’s built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and every other web app you use to get work done.
-* https://github.com/SerenityOS/serenity
-* https://en.wikipedia.org/wiki/Berkeley_Software_Distribution
+* [SerenityOS/serenity](https://github.com/SerenityOS/serenity)
+* [en.wikipedia.org/wiki/Berkeley_Software_Distribution](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
 
 
 * [Script Runner](https://github.com/ioquatix/script-runner): Run scripts (or a shell) in Atom.
@@ -407,8 +407,8 @@ Kate
 * [libv86 Terminal Forwarding](https://github.com/hello-smile6/libv86-terminal-forwarding): Peer-to-peer SSH for the web, using WebRTC via [Bugout](https://github.com/chr15m/bugout) for data transfer and [v86](https://github.com/copy/v86) for web-based virtualization.
 * [WizardWebssh](https://gitlab.com/mikeramsey/wizardwebssh): A terminal with Pyqt5 Widget for embedding, which can be used as an ssh client to connect to your ssh servers. It is written in Python, based
 
-on tornado, paramiko, and xterm.js.- [ ]  https://github.com/ok-borg/borg - A terminal based search engine for bash commands - cool idea, but server is down; keep an eye on the project
-* https://github.com/linux-pam/linux-pam - pluggable authentification modules
+on tornado, paramiko, and xterm.js.- [ ]  [ok-borg/borg](https://github.com/ok-borg/borg) - A terminal based search engine for bash commands - cool idea, but server is down; keep an eye on the project
+* [linux-pam/linux-pam](https://github.com/linux-pam/linux-pam) - pluggable authentification modules
 
 
 * Gnome Apps
@@ -489,7 +489,7 @@ on tornado, paramiko, and xterm.js.- [ ]  https://github.com/ok-borg/borg - A t
 * [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Roguelike construction and management simulation.
 * [Cataclysm-DDA](https://github.com/Correia-jpv/fucking-awesome-cli-apps/blob/main/cataclysmdda.org) - Turn-based survival game set in a post-apocalyptic world.
 *     !https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png
-* -    [pokete](https://github.com/lxgr-linux/pokete)) - Pokemon-like.* - https://github.com/veloren/veloren
+* -    [pokete](https://github.com/lxgr-linux/pokete)) - Pokemon-like.* - [veloren/veloren](https://github.com/veloren/veloren)
 * [Ghost](https://ghost.org/) - Hackable platform for building and running online publications. ([MIT](https://github.com/TryGhost/Ghost/blob/master/LICENSE))
 * [ZeroNet](https://zeronet.io/) - Decentralized websites using Bitcoin cryptography and the BitTorrent network. ([GNU GPLv2](https://raw.githubusercontent.com/HelloZeroNet/ZeroNet/master/LICENSE))
 * [IP2Trace](https://github.com/ip2location/ip2location-traceroute) - A traceroute tools that displaying geolocation information using IP2Location database. ([MIT](https://github.com/ip2location/ip2location-traceroute/blob/master/LICENSE))
@@ -603,7 +603,7 @@ on tornado, paramiko, and xterm.js.- [ ]  https://github.com/ok-borg/borg - A t
 * [Manuskript](https://www.theologeek.ch/manuskript/) - Manuskript is a perfect tool for those writer who like to organize and plan everything before writing.
 * [Plume Creator](https://sourceforge.net/projects/plume-creator/) - An open-source tool for novelist that gives you an outliner, a distraction-free mode, a note manager and much more.
 * [Scribus](https://www.scribus.net/downloads/) - Scribus is a desktop publishing application designed for layout, typesetting, and preparation of files for professional-quality image-setting equipment. It can also create animated and interactive PDF presentations and forms.
-* [Trelby](https://www.trelby.org/) - Trelby is simple, fast and elegantly laid out to make screenwriting simple.* - https://sourceforge.net/projects/ostorybook/
+* [Trelby](https://www.trelby.org/) - Trelby is simple, fast and elegantly laid out to make screenwriting simple.* - [sourceforge.net/projects/ostorybook/](https://sourceforge.net/projects/ostorybook/)
 * [trackma](https://z411.github.io/trackma/) - Open multi-site list manager for Unix-like systems.
 * [TeXmacs](http://www.texmacs.org/) - Free scientific text editor, inspired by TeX and GNU Emacs. WYSIWYG editor and CAS-interface.
 * [tpp](https://github.com/Kerrick/tpp) - (text presentation program) a ncurses Ruby program that allows to produce nice text-based presentation with simple markup language.
@@ -700,7 +700,7 @@ on tornado, paramiko, and xterm.js.- [ ]  https://github.com/ok-borg/borg - A t
 * [Caja](https://mate-desktop.org/) - Is the default file manager for the MATE desktop environment, it is very fast and simple to use.*
 * [happyfinder](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
 * [mycli](https://github.com/dbcli/mycli) - A command line client for MySQL that can do auto-completion and syntax highlighting.
-* https://github.com/klaussinani/taskbook - Tasks, boards & notes for the command-line habitat
+* [klaussinani/taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 * [sudocabulary](https://github.com/badarsh2/Sudocabulary) - Learn English Vocabulary from your terminal
 * [OpenSIS](https://www.opensis.com/) - School Management Software that Increases Student Achievements & Teacher Performances.
 

@@ -201,6 +201,6 @@ file * [pop-os/cosmic-files](https://github.com/pop-os/cosmic-files)
 file * [yazi-rs.github](https://yazi-rs.github.io/)
 file * [yazi](https://github.com/sxyazi/yazi)
 file * [yazi](https://github.com/sxyazi/yazi) 
-file * $$$ https://github.com/MHNightCat/superfile
+file * $$$ [MHNightCat/superfile](https://github.com/MHNightCat/superfile)
 file backup * [borg]()
 file cli * [leo-arch/clifm](https://github.com/leo-arch/clifm) 

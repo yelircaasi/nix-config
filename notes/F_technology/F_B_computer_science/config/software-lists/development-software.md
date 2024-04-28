@@ -14,7 +14,7 @@ dev * [tech stack file](https://stackshare.io/tech-stack-file) 
 dev * [vstakhov/libucl: Universal configuration library parser](https://github.com/vstakhov/libucl)
 dev build * [gradle](https://gradle.org/)
 dev build * [pantsbuild](https://www.pantsbuild.org/)
-dev build * [www.pantsbuild](https://www.pantsbuild.org/) 
+dev build * [pantsbuild](https://www.pantsbuild.org/) 
 dev ci/cd * [Dagger.io](https://dagger.io/)
 dev cli * [chalk-animation](https://github.com/bokub/chalk-animation)
 dev cli * [charm](https://charm.sh/) 
@@ -51,7 +51,7 @@ dev proglang * [Example](https://www.idris-lang.org/pages/example.html)
 dev proglang * [flutter blog post ](http://matthiasnehlsen.com/blog/2022/05/15/switched-to-flutter-lost-10-kilos/)[How I switched to Flutter and lost 10 kilos](http://matthiasnehlsen.com/blog/2022/05/15/switched-to-flutter-lost-10-kilos/) 
 dev proglang * [flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) 
 dev proglang * [LiveScript - a language which compiles to JavaScript](https://livescript.net/)
-dev proglang * [ML](https://github.com/hexaredecimal/ML) - small general purpose programming language for programming on the JVM. Package manager: https://smllregister.github.io
+dev proglang * [ML](https://github.com/hexaredecimal/ML) - small general purpose programming language for programming on the JVM. Package manager: [smllregister.github.io](https://smllregister.github.io)
 dev proglang * [ni](https://github.com/Nathan-Fenner/Ni) old nickel programming language
 dev proglang * [SwitchAxe/Rewire: A configurable programming language!](https://github.com/SwitchAxe/Rewire)
 dev proglang config * [](https://nx.dev/recipes/tips-n-tricks/flat-config)
@@ -99,7 +99,7 @@ dev * [](https://sembr.org/
 dev * [](https://www.mkdb.sh/
 dev * [abathur/resholve: a shell resolver? :) (find and resolve shell script dependencies)](https://github.com/abathur/resholve)
 dev * [Dhall/Parser.hs](https://hackage.haskell.org/package/dhall-1.6.0/docs/src/Dhall-Parser.html)
-dev * [https://www.reddit.com/r/rust/s/QqfsULxF1c](https://www.reddit.com/r/rust/s/QqfsULxF1c) rust dev env
+dev * [reddit.com/r/rust/s/QqfsULxF1c](https://www.reddit.com/r/rust/s/QqfsULxF1c) rust dev env
 dev * [inshellisense](https://github.com/microsoft/inshellisense) 
 dev * [matplotlib-backend-wezterm](https://pypi.org/project/matplotlib-backend-wezterm/)
 dev * [ndortega/Oxygen.jl: A breath of fresh air for programming web apps in Julia](https://github.com/ndortega/Oxygen.jl)
@@ -162,31 +162,31 @@ dev snap * [Snap.d error: cannot communicate with server connection refused - sn
 ## Web and App Development → [What Is JWT and Why Should You Use JWT](https://www.youtube.com/watch?v=7Q17ubqLfaM) - YouTube
 * ( ) [mint-lang](https://mint-lang.com/)
 ### APIs
-→ https://github.com/public-apis/public-apis
+→ [public-apis/public-apis](https://github.com/public-apis/public-apis)
 * ( ) [Postman](https://www.getpostman.com/) - Postman, allows a user to develop and test APIs quickly.
 ### Hosting, Connectivity, Net App Programming
 * Azure
   - [untitledgoosetool](https://github.com/cisagov/untitledgoosetool)
 * ( ) [Disroot](https://disroot.org/) - Hosted versions of many of the services on this list. (Multiple licenses)
 * ( ) [Apache HTTP Server](https://httpd.apache.org/) - Secure, efficient, and extensible web server. ([Apache License 2.0](http://www.apache.org/licenses/))
-* https://uberspace.de/en/ (hosting)
+* [uberspace.de/en/](https://uberspace.de/en/) (hosting)
 * ( ) [⚛️ Uberlab — UberLab 7 documentation](https://lab.uberspace.de/)
-* ( ) [linode](https://www.linode.com/), https://github.com/linode/linode-cli
+* ( ) [linode](https://www.linode.com/), [linode/linode-cli](https://github.com/linode/linode-cli)
 * → nextcloud
-* https://github.com/adnanh/webhook
+* [adnanh/webhook](https://github.com/adnanh/webhook)
 * ( ) [proton drive](https://proton.me/drive/download)
 * ( ) [lighttpd](http://www.lighttpd.net/) - Optimized for speed-critical environments while remaining standards-compliant, secure and flexible. ([Revised BSD license](http://www.lighttpd.net/assets/COPYING)) → try on Inspiron with Alpine
 * ( ) [nginx](https://nginx.org/) - HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server. ([2-clause BSD-like license](https://nginx.org/LICENSE))
 * ( ) [shell2http](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control. → try for planager?
 * ( ) [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/) - KDE Connect implementation for GNOME.
-* https://kdeconnect.kde.org/
+* [kdeconnect.kde.org/](https://kdeconnect.kde.org/)
 * ( ) [BlueZ](http://www.bluez.org/) - Official Linux Bluetooth protocol stack.
 * ( ) [Zerotier](https://my.zerotier.com/) - Zerotier is a program that creates a Virtual Network for only your devices with end to end encryption over the internet. By default Zerotier will manage your virtual network but you can switch to a self-managed network if you prefer.
-* https://hocus.dev/ - cloud dev environments, pre-built, free for individual use
-* ( ) [SparkleShare -](https://github.com/hbons/SparkleShare -)An Open Source collaboration and sharing tool https://www.sparkleshare.org/ [Nix](https://search.nixos.org/packages?channel=23.05&from=0&size=50&sort=relevance&type=packages&query=sparkleshare)
+* [hocus.dev/](https://hocus.dev/) - cloud dev environments, pre-built, free for individual use
+* ( ) [SparkleShare -](https://github.com/hbons/SparkleShare -)An Open Source collaboration and sharing tool [sparkleshare.org/](https://www.sparkleshare.org/) [Nix](https://search.nixos.org/packages?channel=23.05&from=0&size=50&sort=relevance&type=packages&query=sparkleshare)
 * ( ) [heroku](https://www.heroku.com/)
-* https://github.com/hocus-dev/hocus
-* https://www.pushbullet.com/   [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API - requires Facebook or Google
+* [hocus-dev/hocus](https://github.com/hocus-dev/hocus)
+* [pushbullet.com/](https://www.pushbullet.com/)   [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API - requires Facebook or Google
 * ( ) [pushblast](https://github.com/alebcay/pushblast) - Get PushBullet notifications when a shell program exits
 ### Static Site
 * ( ) [Hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -215,7 +215,7 @@ dev snap * [Snap.d error: cannot communicate with server connection refused - sn
 * ( ) [dog [-](https://github.com/ogham/dog [-)DNS lookup client *(better `dig`)](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6#dohttpsgithubcomoghamdog-dns-lookup-client-_better-dig_)
 * ( ) [dog](https://github.com/vschwaberow/dog)- looks good
 * ( ) [cowyo -](https://github.com/schollz/cowyo -)Feature rich wiki webserver for minimalists. - planager?
-* https://github.com/openresty/lua-nginx-module
+* [openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module)
 * ( ) [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests - like Httpie, but faster
 * ( ) [fenix](https://github.com/coreybutler/fenix)[Fenix Web Server](https://fenixwebserver.com/) - A multi-host local static web server with push-button sharing (desktop app).
 * ( ) [vesper - Vesper](https://github.com/chris-rock/vesper - Vesper)is a HTTP framework for Bash/Unix Shell
@@ -223,14 +223,14 @@ dev snap * [Snap.d error: cannot communicate with server connection refused - sn
 * ( ) [serve -](https://github.com/zeit/serve -)Serves a static site, single page application, or just a static file, and provides a neat interface for listing the directory's contents.
 * ( ) [shipit -](https://github.com/sapegin/shipit -)Minimalistic SSH deployment
 ### Frameworks
-* https://hypermedia.systems/
-* https://cordova.apache.org/
+* [hypermedia.systems/](https://hypermedia.systems/)
+* [cordova.apache.org/](https://cordova.apache.org/)
 * ( ) [taipy](https://github.com/Avaiga/taipy)- Turns Data and AI algorithms into full web applications in no time.
-* https://trunkrs.dev/
-* https://github.com/falconry/falcon
+* [trunkrs.dev/](https://trunkrs.dev/)
+* [falconry/falcon](https://github.com/falconry/falcon)
 * ( ) [Devilbox](https://github.com/cytopia/devilbox) - The devilbox is a modern and highly customisable dockerized PHP stack supporting full LAMP and MEAN and running on all major platforms. The main goal is to easily switch and combine any version required for local development.
 * ( ) [PonyORM - Python ORM with beautiful query syntax](https://ponyorm.org/)
-* https://nuxt.com/blog/introducing-nuxt-devtools
+* [nuxt.com/blog/introducing-nuxt-devtools](https://nuxt.com/blog/introducing-nuxt-devtools)
 * ( ) [typo3](https://github.com/TYPO3/typo3)- [The TYPO3 Project and Community – Open Source CMS](https://typo3.org/)
 ### Testing / Mocking
 * ( ) [tsung -](https://github.com/processone/tsung -)A multi-protocol distributed load testing tool that can be used to stress HTTP, WebDAV, SOAP, PostgreSQL, MySQL, LDAP and Jabber/XMPP servers.
@@ -240,28 +240,28 @@ dev snap * [Snap.d error: cannot communicate with server connection refused - sn
 * ( ) [apachebench (ab)](http://httpd.apache.org/docs/2.2/programs/ab.html)- server benchmarking tool
 * ( ) [siege](http://www.joedog.org/siege-home/)
 * ( ) [phantomas -](https://github.com/macbre/phantomas -)website perf evaluation tool
-* https://github.com/rakyll/hey
-* https://github.com/httperf/httperf
+* [rakyll/hey](https://github.com/rakyll/hey)
+* [httperf/httperf](https://github.com/httperf/httperf)
 * ( ) [vegeta](https://github.com/tsenart/vegeta)
 * ( ) [wrk](https://github.com/wg/wrk)
 ### Misc
 * ( ) [nativefier -](https://github.com/jiahaog/nativefier -)Make any web page a desktop application.
-* https://sass-lang.com/
+* [sass-lang.com/](https://sass-lang.com/)
 
 * ( ) [xpe -](https://github.com/charmparticle/xpe -)A commandline xpath tool that is easy to use.
 * ( ) [snallygaster -](https://github.com/hannob/snallygaster -)Tool to scan for secret files on HTTP servers.
 * ( ) [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli)- Strip comments from CSS.
-* https://github.com/fractarchy/fractarchy-cms
+* [fractarchy/fractarchy-cms](https://github.com/fractarchy/fractarchy-cms)
 * ( ) [urlhunter -](https://github.com/utkusen/urlhunter -)Recon tool that allows searching on URLs that are exposed via shortener services.
-* https://todomvc.com/
+* [todomvc.com/](https://todomvc.com/)
 * ( ) [Neocities](https://neocities.org/) - GeoCities for the modern world. ([BSD 2-clause](https://github.com/neocities/neocities/blob/master/LICENSE.txt))
-* https://vercel.com/pricing
+* [vercel.com/pricing](https://vercel.com/pricing)
 * ( ) [localtunnel](https://github.com/localtunnel/localtunnel)- Expose your localhost to the world for easy testing and sharing.
 * ( ) [ergo](https://github.com/cristianoliveira/ergo) - The management of multiple local services running over different ports made easy.
-* ( ) [https://ngrok.com/ -](https://ngrok.com/) https://github.com/ngrok - Secure introspectable tunnels to localhost.
+* ( ) [ngrok.com/ -](https://ngrok.com/) [ngrok](https://github.com/ngrok) - Secure introspectable tunnels to localhost.
 * ( ) [Insomnia](https://insomnia.rest/) - A simple, beautiful, and free REST API client. (paid service)
-* https://vitepress.dev/ (from  https://wiki.nikiv.dev/, https://wiki.nikiv.dev/free[knowledge](https://github.com/nikitavoloboev/knowledge))
-* https://jaspervdj.be/hakyll/ - Haskell static site generator
+* [vitepress.dev/](https://vitepress.dev/) (from  [wiki.nikiv.dev/,](https://wiki.nikiv.dev/,) [wiki.nikiv.dev/free[knowledge](https://github.com/nikitavoloboev/knowledge))](https://wiki.nikiv.dev/free[knowledge](https://github.com/nikitavoloboev/knowledge)))
+* [jaspervdj.be/hakyll/](https://jaspervdj.be/hakyll/) - Haskell static site generator
 
 ## Language-Specific Libraries
 * (2) [kiwix-desktop](https://github.com/kiwix/kiwix-desktop)
@@ -275,14 +275,14 @@ dev snap * [Snap.d error: cannot communicate with server connection refused - sn
 
 ## ML/AI - SORT
 → [The Ultimate Coding Setup for Data Science](https://youtu.be/TdbeymTcYYE) use conda for environments and pip(/poetry) for installation
-→ https://github.com/ml-tooling
+→ [ml-tooling](https://github.com/ml-tooling)
 → [Datalust](https://github.com/datalust) (mostly logging-related)
 * ( ) [llm](https://github.com/simonw/llm)
-* https://github.com/PrefectHQ/marvin
+* [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin)
 * ( ) [katib](https://github.com/kubeflow/katib)(hyperparameter tuning)
-* https://github.com/IllDepence/unarXive
+* [IllDepence/unarXive](https://github.com/IllDepence/unarXive)
 * ( ) [einops](https://github.com/arogozhnikov/einops)https://arogozhnikov.github.io/2023/07/13/retrospective-thoughts-on-einops.html
-* https://github.com/dmlc/xgboost
+* [dmlc/xgboost](https://github.com/dmlc/xgboost)
 * ( ) [lmql](https://github.com/eth-sri/lmql) language for constraint-guided and efficient LLM programming
 * ( ) [nlp-service](https://github.com/recap-utr/nlp-service)
 * ( ) [quivr](https://github.com/StanGirard/quivr)  - Your GenAI Second Brain 🧠 A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq that you can share with users ! Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.

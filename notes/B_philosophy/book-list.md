@@ -110,8 +110,8 @@
 | Daodejing: short book on Daoist philosophy | Laozi |
 | Darwin's Dangerous Idea | Daniel C. Dennett |
 | Darwin’s Pharmacy: Sex, Plants, and the Evolution of the Noösphere | Richard M. Doyle |
-| http://www.mlwerke.de/me/me23/me23_000.htm | Karl Marx |
-| https://no.wikisource.org/wiki/Et_Dukkehjem | Henrik Ibsen |
+| [mlwerke.de/me/me23/me23_000.htm](http://www.mlwerke.de/me/me23/me23_000.htm) | Karl Marx |
+| [no.wikisource.org/wiki/Et_Dukkehjem](https://no.wikisource.org/wiki/Et_Dukkehjem) | Henrik Ibsen |
 | De iure belli ac pacis | Hugo Grotius |
 | Defence of Common Sense (1925) | G. E. Moore |
 | Defense of Abortion | Judith Jarvis Thomson |
@@ -383,7 +383,7 @@
 | On What Matters | Derek Parfit |
 | On What There Is | W. V. O. Quine |
 | One-Sheet Document | Honen |
-| https://www.scribd.com/document/200773214/Die-Offene-Gesellschaft-Und-Ihre-Feinde-I-Der-Zauber-Platons-Karl-R-Popper | Karl Popper |
+| [scribd.com/document/200773214/Die-Offene-Gesellschaft-Und-Ihre-Feinde-I-Der-Zauber-Platons-Karl-R-Popper](https://www.scribd.com/document/200773214/Die-Offene-Gesellschaft-Und-Ihre-Feinde-I-Der-Zauber-Platons-Karl-R-Popper) | Karl Popper |
 | Oppression et liberté | Simone Weil |
 | Order of Things (1966) | Michel Foucault |
 | Order of Things: An Archaeology of Human Sciences | Michel Foucault |

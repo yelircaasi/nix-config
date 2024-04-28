@@ -3,19 +3,19 @@
 
 ## To Sort
 
-https://www.aartaka.me/oop-c-primer
+[aartaka.me/oop-c-primer](https://www.aartaka.me/oop-c-primer)
 
 search: Nooby C++ Habits
 
 
 ## Best Resources
-* https://www.cpp-lang.net/
+* [cpp-lang.net/](https://www.cpp-lang.net/)
 
 
 ## 1s
     Boost
 * [C++ Books](https://news.ycombinator.com/item?id=17609802)
-* https://www.reddit.com/r/Python/comments/2xpjg9/whats_the_best_ways_to_learn_c_for_a_professional/    * [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
+* [r/Python/comments/2xpjg9/whats_the_best_ways_to_learn_c_for_a_professional/](https://www.reddit.com/r/Python/comments/2xpjg9/whats_the_best_ways_to_learn_c_for_a_professional/)    * [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
     cpp-machine-learning
     Softwareentwickler Python / C++ | Datenerfassung, Auswertung und Gerätesteuerung | Inhouse (mwd) - Heidelberg Als Softwareentwickler Python / C++ verstärken Sie ein Team von Softwareentwicklern und PhysikernSie arbeiten an Design, Implementierung und Test von Systemsoftware zur Datenerfassung und Datenauswertung sowie zur GerätesteuerungHierbei handelt es sich um sehr technische Software und Sie haben dabei auch Berührung mit der Entwicklung parallel laufender Prozesse (multi-processing, multi-threading, async-io)    * [SDL Game Development](http://library.lol/main/2C5D30E34C115E2664CE31FC7AE6208B)
 * [[MUC++] Thomas Deniffel - "C++ Build Systems"](https://www.youtube.com/watch?v=9eajOX1xZ4I)
@@ -28,7 +28,7 @@ search: Nooby C++ Habits
 * [Modern C++ (Lecture & Tutorials, 2020, Vizzo & Stachniss)](https://www.youtube.com/watch?v=sZK6ouwREXA&list=PLgnQpQtFTOGRM59sr3nSL8BmeMZR9GCIA)
 * [What is Meson (and Ninja)? [Build system for C/C++, Rust, and Java]](https://www.youtube.com/watch?v=A3Pq3E1S8ss)
 * [31 nooby C++ habits you need to ditch](https://www.youtube.com/watch?v=i_wDa2AS_8w)
-* https://runestone.academy/ns/books/published/cpp4python/index.html
+* [runestone.academy/ns/books/published/cpp4python/index.html](https://runestone.academy/ns/books/published/cpp4python/index.html)
     * [PPP2_Glossary/ProgrammingPrinciplesandPracticeGlossary.pdf
     at master · dukebw/PPP2_Glossary](https://github.com/dukebw/PPP2_Glossary/blob/master/ProgrammingPrinciplesandPracticeGlossary.pdf)
     * [Have you learn't Rust and C++, if so what are the likes and dislikes about Rust over C++?](https://www.reddit.com/r/AskProgramming/comments/ia97rs/have_you_learnt_rust_and_c_if_so_what_are_the/)
@@ -52,14 +52,14 @@ search: Nooby C++ Habits
     * [31 nooby C++ habits you need to ditch](https://www.youtube.com/watch?v=i_wDa2AS_8w)
     * [Transition Guide: Python to C++](http://personal.denison.edu/~krone/cs173/files/PythontoC++.pdf)
     * [Transition Guide: Python 2.x to C++](https://cs.slu.edu/~goldwamh/publications/python2cpp.pdf)
-    * https://www.freecodecamp.org/news/for-loops-in-c/
+    * [freecodecamp.org/news/for-loops-in-c/](https://www.freecodecamp.org/news/for-loops-in-c/)
     * [Why C is so Influential - Computerphile](https://www.youtube.com/watch?v=ci1PJexnfNE)
-    * https://www.freecodecamp.org/news/c-vs-cpp-whats-the-difference/
-    * https://isocpp.org/faq
-    * https://www.cplusplus.com/info/description/
-    * https://en.cppreference.com/w/cpp/keyword
-    * https://xtensor.readthedocs.io/en/latest/numpy.html
-    * https://www.reddit.com/r/cpp/comments/9d1w3o/c_implementation_of_the_python_numpy_library/
+    * [freecodecamp.org/news/c-vs-cpp-whats-the-difference/](https://www.freecodecamp.org/news/c-vs-cpp-whats-the-difference/)
+    * [isocpp.org/faq](https://isocpp.org/faq)
+    * [cplusplus.com/info/description/](https://www.cplusplus.com/info/description/)
+    * [en.cppreference.com/w/cpp/keyword](https://en.cppreference.com/w/cpp/keyword)
+    * [xtensor.readthedocs.io/en/latest/numpy.html](https://xtensor.readthedocs.io/en/latest/numpy.html)
+    * [r/cpp/comments/9d1w3o/c_implementation_of_the_python_numpy_library/](https://www.reddit.com/r/cpp/comments/9d1w3o/c_implementation_of_the_python_numpy_library/)
 
 
 ## Resources
@@ -109,14 +109,14 @@ search: Nooby C++ Habits
     * [thelastpolaris/Programming-Principles-and-Practice-Using-C](https://github.com/thelastpolaris/Programming-Principles-and-Practice-Using-C-?files=1)
     * [Коплиен Дж. - Программирование на С++. Классика CS. (Классика Computer Science) -  005.djvu](https://vk.com/doc44301783_453645381?hash=aa689e3b0cd2a38845&dl=7da30f5f43bb920a77)
     * [Язык С в XXI веке | Бен Клеменс (Авт.); А. Слинкин (Пер.) | download](http://b-ok.cc/book/2545918/24fb4f)
-    * https://openlibra.com/es/collection/search/category/c/pag/2
-    * [https://b-ok.cc/g/Ira Pohl](https://b-ok.cc/g/Ira%20Pohl)(C/C++ books)
-    * https://github.com/BjarneStroustrup/Programming-_Principles_and_Practice_Using_Cpp
+    * [openlibra.com/es/collection/search/category/c/pag/2](https://openlibra.com/es/collection/search/category/c/pag/2)
+    * [b-ok.cc/g/Ira Pohl](https://b-ok.cc/g/Ira%20Pohl)(C/C++ books)
+    * [BjarneStroustrup/Programming-_Principles_and_Practice_Using_Cpp](https://github.com/BjarneStroustrup/Programming-_Principles_and_Practice_Using_Cpp)
     * [Expert C++: Become a proficient programmer by learning coding best practices with C++17 and C++20's latest features](http://libgen.rs/book/index.php?md5=F9404739E16292672F830E964DE1C2E4)
     * [marius bancila (C++ books)](http://libgen.rs/search.php?req=marius+bancila&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
     * [Think Like a Programmer C++ RU](https://vk.com/wall-51126445_96743)
-    * https://github.com/Apress/adv-topics-in-c
-    * https://github.com/Yaachaka/C_book_solutions2
+    * [Apress/adv-topics-in-c](https://github.com/Apress/adv-topics-in-c)
+    * [Yaachaka/C_book_solutions2](https://github.com/Yaachaka/C_book_solutions2)
     * [Practical C Programming - Solutions for modern C developers to create efficient and well-structured programs.](https://b-ok.cc/book/5413146/9de10a)
     * [Алгоритмы на С](http://libgen.rs/book/index.php?md5=8674F6E419E6D428D8C46727A46FF498)
     * [Алгоритмы на С++](http://libgen.rs/book/index.php?md5=C5384F66E2FBCFB920CE8B89060153EA)
@@ -126,7 +126,7 @@ search: Nooby C++ Habits
     * [C/C++ anwenden: Technisch-wissenschaftliche Übungsaufgaben mit Lösungen](http://library.lol/main/F0760B306A30364E52A0D2306E5E7F89)
     * [Modern C++ Programming Cookbook - Master C++ core language and standard](https://libgen.rs/book/index.php?md5=9119A4943A0E0DACF8148A7C47529707)
     * [Modern C++ programming cookbook: over 100 recipes to help you overcome your difficulties with C++ programming and gain a deeper understanding of the working of modern C++](https://libgen.rs/book/index.php?md5=65FDF3243927FC56BFC65B3369DBD436)
-    * https://github.com/PacktPublishing/Hands-On-Machine-Learning-with-CPP
+    * [PacktPublishing/Hands-On-Machine-Learning-with-CPP](https://github.com/PacktPublishing/Hands-On-Machine-Learning-with-CPP)
     * [Алгоритмы и программы на C++ Builder](http://libgen.rs/book/index.php?md5=1FE634F16DA6BC50D22C406FC22FBEBE)
     * [C von A bis Z: Das umfassende Handbuch für Linux, Unix und Windows](http://library.lol/main/3EA6D4F389AB93EB5DBBC1B003445661)
     * [C Programming Cookbook - Over 40 recipes exploring data structures, pointers, interprocess communication, and database in C.](https://b-ok.cc/book/5413145/c4c5f5)
@@ -141,7 +141,7 @@ search: Nooby C++ Habits
     * [Mastering Algorithms with C](https://libgen.rs/book/index.php?md5=A6D8B8534F197B8118011B8BFFC4E177)
     * [C++ Programming for Beginners: An Object Oriented Language](http://library.lol/main/E2949DCED8A6F4AF100C418C26BFD2DC)
     * [C Notes For Professionals. 300+ pages of professional hints and tricks](http://libgen.rs/book/index.php?md5=FA79370C752A12F5BA2359FD1F90E9BA)
-    * https://de.de1lib.org/g/StephenPrata
+    * [de.de1lib.org/g/StephenPrata](https://de.de1lib.org/g/StephenPrata)
     * [C How to Program. With an Introduction to C++.pdf](https://en.de1lib.org/book/2827620/c7f963)
     * [The Modern C++ Challenge: Become an expert programmer by solving real-world problems](https://libgen.rs/book/index.php?md5=AE008E2D081A44F9DCA2F139206986A7)
     * [C++ Programming: From Problem Analysis to Program Design](http://library.lol/main/5A4880DB70EAE7EB10DC38BE7A81F23D)
@@ -211,7 +211,7 @@ search: Nooby C++ Habits
     * [How different are C and C++? Can I still say C/C++? - YouTube](https://www.youtube.com/watch?v=Kq8m980JEeg)
     * [Програмування на C++ (практичний курс)](https://youtube.com/playlist?list=PLDoFqsgVaX0Z7lgvvz130eF4fcscIrrFw)
     * [C++ Full Course](https://www.youtube.com/watch?v=8jLOx1hD3_o)
-    * https://www.youtube.com/c/TheChernoProject/playlists
+    * [](https://www.youtube.com/c/TheChernoProject/playlists)
 
 
 ### Challenge / Interview
@@ -221,34 +221,34 @@ search: Nooby C++ Habits
     * [1000 C++ Questions & Answers](https://www.sanfoundry.com/cplusplus-interview-questions-answers/)
     * [linkedin-skill-assessments-quizzes/c++quiz.md at master · Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/master/c%2B%2B/c%2B%2Bquiz.md)
     * [C Algorithms, Problems & Programming Examples](https://www.sanfoundry.com/1000-c-algorithms-problems-programming-examples/)
-    * https://euler.stephan-brumme.com/
+    * [euler.stephan-brumme.com/](https://euler.stephan-brumme.com/)
     * [C Programming Examples on Stacks & Queues](https://www.sanfoundry.com/c-programming-examples-stacks/)
-    * https://github.com/arnavb/project-euler-solutions-cpp
+    * [arnavb/project-euler-solutions-cpp](https://github.com/arnavb/project-euler-solutions-cpp)
 
 
-### CMake and Other Build Systems    * [CMake Cookbook: Over 40 recipes enabling you to build, test, and package software for distribution using the CMake suite](http://library.lol/main/ECF89DA6185E63C44E748E0980911FEF)    * http://eigen.tuxfamily.org/index.php?title=Main_Page    * https://cmake.org/cmake/help/v3.21/    * https://cmake.org/cmake/help/v3.21/guide/tutorial/index.html#guide:CMake%20Tutorial    * https://github.com/dev-cafe/cmake-cookbook    * https://gitlab.kitware.com/cmake/community/-/wikis/doc/cmake/Useful-Variables    * https://gitlab.kitware.com/cmake/community/-/wikis/home    * [Mastering CMake](http://library.lol/main/E9100B0B4F9826635471985A71BC8154)    * [Professional CMake: A Practical Guide](http://library.lol/main/3129EE8545AB645CE1FF0E6BCC409D90)    * [Система построения проектов CMake](http://library.lol/main/FD03DB39EE5F06D2CA025601BBCB9A16)
+### CMake and Other Build Systems    * [CMake Cookbook: Over 40 recipes enabling you to build, test, and package software for distribution using the CMake suite](http://library.lol/main/ECF89DA6185E63C44E748E0980911FEF)    * [eigen.tuxfamily.org/index.php?title=Main_Page](http://eigen.tuxfamily.org/index.php?title=Main_Page)    * [cmake.org/cmake/help/v3.21/](https://cmake.org/cmake/help/v3.21/)    * [cmake.org/cmake/help/v3.21/guide/tutorial/index.html#guide:CMake%20Tutorial](https://cmake.org/cmake/help/v3.21/guide/tutorial/index.html#guide:CMake%20Tutorial)    * [dev-cafe/cmake-cookbook](https://github.com/dev-cafe/cmake-cookbook)    * [gitlab.kitware.com/cmake/community/-/wikis/doc/cmake/Useful-Variables](https://gitlab.kitware.com/cmake/community/-/wikis/doc/cmake/Useful-Variables)    * [gitlab.kitware.com/cmake/community/-/wikis/home](https://gitlab.kitware.com/cmake/community/-/wikis/home)    * [Mastering CMake](http://library.lol/main/E9100B0B4F9826635471985A71BC8154)    * [Professional CMake: A Practical Guide](http://library.lol/main/3129EE8545AB645CE1FF0E6BCC409D90)    * [Система построения проектов CMake](http://library.lol/main/FD03DB39EE5F06D2CA025601BBCB9A16)
 * [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
 * [CMake - User Interaction Guide](https://cmake.org/cmake/help/latest/guide/user-interaction/index.html)
 * [CMake - Using Dependencies Guide](https://cmake.org/cmake/help/latest/guide/using-dependencies/index.html)
 * [CMake - Importing and Exporting Guide](https://cmake.org/cmake/help/latest/guide/importing-exporting/index.html)
 * [CMake - IDE Integration Guide](https://cmake.org/cmake/help/latest/guide/ide-integration/index.html)
 * [CMake Index](https://cmake.org/cmake/help/latest/genindex.html)
-* https://github.com/Kitware/CMake
-* https://ninja-build.org/manual.html
-* https://github.com/ninja-build/ninja
-* https://mesonbuild.com/
-* https://github.com/mesonbuild/meson
+* [Kitware/CMake](https://github.com/Kitware/CMake)
+* [ninja-build.org/manual.html](https://ninja-build.org/manual.html)
+* [ninja-build/ninja](https://github.com/ninja-build/ninja)
+* [mesonbuild.com/](https://mesonbuild.com/)
+* [mesonbuild/meson](https://github.com/mesonbuild/meson)
     * CMake Tutorial
-    * https://crascit.com/professional-cmake/
-    * https://gitlab.kitware.com/cmake/community/-/wikis/home
+    * [crascit.com/professional-cmake/](https://crascit.com/professional-cmake/)
+    * [gitlab.kitware.com/cmake/community/-/wikis/home](https://gitlab.kitware.com/cmake/community/-/wikis/home)
     * [GNU Make Book | No Starch Press](https://nostarch.com/gnumake)
 
 
 ### IDE
-* https://codelite.org/
-* http://www.codeblocks.org/
-    * https://sangams.com.np/installing-codeblocks-dark-themes/
-    * https://sourceforge.net/projects/orwelldevcpp/
+* [codelite.org/](https://codelite.org/)
+* [codeblocks.org/](http://www.codeblocks.org/)
+    * [sangams.com.np/installing-codeblocks-dark-themes/](https://sangams.com.np/installing-codeblocks-dark-themes/)
+    * [sourceforge.net/projects/orwelldevcpp/](https://sourceforge.net/projects/orwelldevcpp/)
     * [Online C++ Compiler - online editor](https://www.onlinegdb.com/online_c++_compiler)
     * [C++	programming with Visual Studio Code](https://code.visualstudio.com/docs/languages/cpp)
     * [Debugging C/C++ with Visual Studio Code - YouTube](https://www.youtube.com/watch?v=X2tM21nmzfk)
@@ -256,58 +256,58 @@ search: Nooby C++ Habits
 
 
 ### Libraries / Projects
-    * https://www.boost.org/
+    * [boost.org/](https://www.boost.org/)
     * [The GNU C library reference manual](http://library.lol/main/25882B380CB67EBAB99F35EAA1A78B55)
-    * https://github.com/pajlada/settings
-    * https://github.com/swig/swig
-    * https://github.com/zenustech/zeno
-    * https://github.com/xtensor-stack/xtensor-python
-    * https://github.com/lballabio/QuantLib
-    * https://mimno.github.io/Mallet/index
-    * https://github.com/chokkan/crfsuite
-    * https://sourceforge.net/projects/hcrf/
-    * http://crf.sourceforge.net/
-    * https://github.com/yalesong/hCRF-light
-    * http://flexcrfs.sourceforge.net/
+    * [pajlada/settings](https://github.com/pajlada/settings)
+    * [swig/swig](https://github.com/swig/swig)
+    * [zenustech/zeno](https://github.com/zenustech/zeno)
+    * [xtensor-stack/xtensor-python](https://github.com/xtensor-stack/xtensor-python)
+    * [lballabio/QuantLib](https://github.com/lballabio/QuantLib)
+    * [mimno.github.io/Mallet/index](https://mimno.github.io/Mallet/index)
+    * [chokkan/crfsuite](https://github.com/chokkan/crfsuite)
+    * [sourceforge.net/projects/hcrf/](https://sourceforge.net/projects/hcrf/)
+    * [crf.sourceforge.net/](http://crf.sourceforge.net/)
+    * [yalesong/hCRF-light](https://github.com/yalesong/hCRF-light)
+    * [flexcrfs.sourceforge.net/](http://flexcrfs.sourceforge.net/)
     * [GibbsLDA++](http://gibbslda.sourceforge.net/): A C/C++ Implementation of Latent Dirichlet Allocation (LDA)
     * [CRFTagger](http://crftagger.sourceforge.net/): CRF English POS Chunker
     * [CRFChunker](http://crfchunker.sourceforge.net/): CRF English Phrase Chunker
-    * https://github.com/geohot/tinygrad
-    * https://github.com/SteveMacenski/slam_toolbox
-    * https://github.com/MaskRay/ccls
-    * https://github.com/DefTruth/lite.ai.toolkit
-    * https://github.com/mosra/magnum
-    * https://github.com/zeux/meshoptimizer
-    * https://github.com/fnc12/sqlite_orm
-    * https://github.com/TheAssassin/AppImageLauncher
-    * https://github.com/daquexian/onnx-simplifier
-    * https://github.com/probonopd/linuxdeployqt
-    * https://github.com/tenderlove/initial-v
-    * https://github.com/ckerr/transmission
-    * https://github.com/yhirose/cpp-httplib
-    * https://github.com/mrnorman/YAKL
-    * https://github.com/randombit/botan
-    * https://github.com/p-ranav/cgol
-    * https://github.com/kstenschke/tictac-track
+    * [geohot/tinygrad](https://github.com/geohot/tinygrad)
+    * [SteveMacenski/slam_toolbox](https://github.com/SteveMacenski/slam_toolbox)
+    * [MaskRay/ccls](https://github.com/MaskRay/ccls)
+    * [DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit)
+    * [mosra/magnum](https://github.com/mosra/magnum)
+    * [zeux/meshoptimizer](https://github.com/zeux/meshoptimizer)
+    * [fnc12/sqlite_orm](https://github.com/fnc12/sqlite_orm)
+    * [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)
+    * [daquexian/onnx-simplifier](https://github.com/daquexian/onnx-simplifier)
+    * [probonopd/linuxdeployqt](https://github.com/probonopd/linuxdeployqt)
+    * [tenderlove/initial-v](https://github.com/tenderlove/initial-v)
+    * [ckerr/transmission](https://github.com/ckerr/transmission)
+    * [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib)
+    * [mrnorman/YAKL](https://github.com/mrnorman/YAKL)
+    * [randombit/botan](https://github.com/randombit/botan)
+    * [p-ranav/cgol](https://github.com/p-ranav/cgol)
+    * [kstenschke/tictac-track](https://github.com/kstenschke/tictac-track)
     * [mlpack: a fast, flexible c++ machine learning library](https://www.mlpack.org/)
     * [Scythe Statistical Library](http://scythe.berkeley.edu/)
     * [Boost C++ Libraries](https://www.boost.org/)
-    * http://scythe.berkeley.edu/
+    * [scythe.berkeley.edu/](http://scythe.berkeley.edu/)
     * [Top 10 Libraries In C/C++ For Machine Learning](https://analyticsindiamag.com/top-10-libraries-in-c-c-for-machine-learning/)
     * [Top C/C++ Machine Learning Libraries For Data Science | Hacker Noon](https://hackernoon.com/top-cc-machine-learning-libraries-for-data-science-nl183wo1)
-    * https://github.com/dpilger26/NumCpp
-    * https://xtensor.readthedocs.io/en/latest/index.html
+    * [dpilger26/NumCpp](https://github.com/dpilger26/NumCpp)
+    * [xtensor.readthedocs.io/en/latest/index.html](https://xtensor.readthedocs.io/en/latest/index.html)
 
 
 ### Small Projects
-* https://github.com/pickfire/spt
-* https://abstractexpr.com/2023/04/19/how-to-create-a-modern-c-project-with-cmake-and-conan/
-    * https://github.com/Cubified/ntwm
-    * https://github.com/Cubified/term
-    * https://github.com/hollasch/fpWorkbench
-    * https://github.com/BiasedRiot/Unindenter
-    * https://github.com/hasinaxp/simple-neural-network
-    * https://www.geeksforgeeks.org/ml-neural-network-implementation-in-c-from-scratch/
+* [pickfire/spt](https://github.com/pickfire/spt)
+* [abstractexpr.com/2023/04/19/how-to-create-a-modern-c-project-with-cmake-and-conan/](https://abstractexpr.com/2023/04/19/how-to-create-a-modern-c-project-with-cmake-and-conan/)
+    * [Cubified/ntwm](https://github.com/Cubified/ntwm)
+    * [Cubified/term](https://github.com/Cubified/term)
+    * [hollasch/fpWorkbench](https://github.com/hollasch/fpWorkbench)
+    * [BiasedRiot/Unindenter](https://github.com/BiasedRiot/Unindenter)
+    * [hasinaxp/simple-neural-network](https://github.com/hasinaxp/simple-neural-network)
+    * [geeksforgeeks.org/ml-neural-network-implementation-in-c-from-scratch/](https://www.geeksforgeeks.org/ml-neural-network-implementation-in-c-from-scratch/)
     * [Olive.c](https://www.youtube.com/playlist?list=PLpM-Dvs8t0Va-Gb0Dp4d9t8yvNFHaKH6N)
     * [Cpp code solutions](https://github.com/maieutiquer/fmi-hw-2014)
     * [Martinfx/C-learn: C source code and data structure and algorithm for learning](https://github.com/Martinfx/C-learn)
@@ -315,12 +315,12 @@ search: Nooby C++ Habits
     * 🐍 I made my own version of Python in C! 🐍 + ⓒ
     * jsyqrt/games: 16 games with c++ and SFML
     * Let's make 16 games in C++/SFML!
-    * https://hackr.io/blog/cpp-projects
+    * [hackr.io/blog/cpp-projects](https://hackr.io/blog/cpp-projects)
     * [Projects that will force me learn advanced stuff : cpp_questions](https://www.reddit.com/r/cpp_questions/comments/prt4zq/projects_that_will_force_me_learn_advanced_stuff/)
     * [C++20 Matrix/Linear Algebra library as hobby project](https://www.reddit.com/r/cpp/comments/n7d783/c20_matrixlinear_algebra_library_as_hobby_project/)
-    * https://github.com/davidrmiller/biosim4
+    * [davidrmiller/biosim4](https://github.com/davidrmiller/biosim4)
     * [Neural Network from scratch-part 1 | AI Summer](https://theaisummer.com/Neural_Network_from_scratch/)
-    * https://contentlab.io/c-neural-network-in-a-weekend/
+    * [contentlab.io/c-neural-network-in-a-weekend/](https://contentlab.io/c-neural-network-in-a-weekend/)
     * [СТРОКОВЫЙ КАЛЬКУЛЯТОР С++ СО СКОБКАМИ И ФУНКЦИЯМИ #1](https://www.youtube.com/watch?v=JX4fg1sS-_A&t=0s)
     * [Программируем калькулятор со скобками и приоритетами действий, используя стек](https://www.youtube.com/watch?v=Vk-tGND2bfc)
 
@@ -328,38 +328,38 @@ search: Nooby C++ Habits
 ### Media / Fora
     * [C++ Articles | QuantStart](https://www.quantstart.com/articles/topic/c)
     * [Open Reddit Questions](https://www.reddit.com/r/cpp_questions/?f=flair_name%3A%22OPEN%22)
-    * [www.thecppdev.wordpress.com](http://www.thecppdev.wordpress.com/)
+    * [thecppdev.wordpress.com](http://www.thecppdev.wordpress.com/)
 
 
 ### Tools
-    * https://www.frama-c.com/
-    * https://vcpkg.io/en/index.html
-    * https://github.com/MaskRay/ccls
+    * [frama-c.com/](https://www.frama-c.com/)
+    * [vcpkg.io/en/index.html](https://vcpkg.io/en/index.html)
+    * [MaskRay/ccls](https://github.com/MaskRay/ccls)
     * [LLVM Code](https://github.com/llvm)
-    * https://github.com/root-project/cling/blob/master/tools/Jupyter/README.md
+    * [root-project/cling/blob/master/tools/Jupyter/README.md](https://github.com/root-project/cling/blob/master/tools/Jupyter/README.md)
     * [Cling Build Instructions | ROOT a Data analysis Framework](https://root.cern.ch/cling-build-instructions)
 
 
 ### General References / Resources
-    * https://devdocs.io/cpp
+    * [devdocs.io/cpp](https://devdocs.io/cpp)
     * [Learn C++](https://www.learncpp.com/)
     * [Learn C - Free Interactive C Tutorial](https://www.learn-c.org/)
-    * http://www.cplusplus.com/
-    * http://cplusplus.com/
-    * https://en.cppreference.com/w/
+    * [cplusplus.com/](http://www.cplusplus.com/)
+    * [cplusplus.com/](http://cplusplus.com/)
+    * [en.cppreference.com/w/](https://en.cppreference.com/w/)
     * [C++ Guide (barcharts)](https://libgen.rs/book/index.php?md5=126BD241FAD36CEAE00F769AD847AB6D)
-    * https://www.programmieren-lernen-cplusplus.de/
-    * http://cppstudio.com/
-    * https://cplusplus.com/
+    * [programmieren-lernen-cplusplus.de/](https://www.programmieren-lernen-cplusplus.de/)
+    * [cppstudio.com/](http://cppstudio.com/)
+    * [cplusplus.com/](https://cplusplus.com/)
     * [Learning C++ Programming Online in 2021 | hacking C++](https://hackingcpp.com/dev/web_learning.html)
-    * https://isocpp.org/
+    * [isocpp.org/](https://isocpp.org/)
     * [cppreference.net](http://cppreference.net/)
 
 
 ### Courses / Tutorials
     * [Pointers in C / C++ [Full Course]](https://www.youtube.com/watch?v=zuegQmMdy8M)
-    * https://www.freecodecamp.org/news/the-c-beginners-handbook/
-    * https://learnxinyminutes.com/docs/c++/
+    * [freecodecamp.org/news/the-c-beginners-handbook/](https://www.freecodecamp.org/news/the-c-beginners-handbook/)
+    * [learnxinyminutes.com/docs/c++/](https://learnxinyminutes.com/docs/c++/)
     * [Введение в программирование (C++) – Stepik](https://stepik.org/course/363/promo)
     * [C++ tutorial for C users](http://www.ericbrasseur.org/cppcen.html)
     * [Stepik - Основы программирования на C. Задачи](https://stepik.org/course/3078)
@@ -368,22 +368,22 @@ search: Nooby C++ Habits
     * [Программирование на языке C++ (продолжение) – Stepik](https://stepik.org/course/3206/promo)
     * [Карта курса по основам программирования на Си.](http://youngcoder.ru/map.php)
     * [Course content – Computer Programming in C](https://www.learn.ed.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_67053_1&content_id=_3083396_1&mode=reset)
-    * https://www.freecodecamp.org/news/learn-c-with-free-31-hour-course/
-    * http://www.c-howto.de/
+    * [freecodecamp.org/news/learn-c-with-free-31-hour-course/](https://www.freecodecamp.org/news/learn-c-with-free-31-hour-course/)
+    * [c-howto.de/](http://www.c-howto.de/)
     * [Langage C](http://www.apprendre-informatique.com/tutorial-31-29-Langage-C)
     * [melem.developpez.com :: Initiation au langage C](http://melem.developpez.com/tutoriels/langage-c/initiation-langage-c/)
     * [Уроки программирования на C++ с нуля](https://code-live.ru/tag/cpp-manual/)
-    * https://github.com/dreadl0ck/c-overview
-    * https://github.com/jescascela/Exercicios-Resolvidos-C
-    * https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c
-    * http://www.apprendre-informatique.com/tutorial-31-29-Langage-C
-    * http://melem.developpez.com/tutoriels/langage-c/initiation-langage-c/
-    * http://franckh.developpez.com/articles/c-ansi/bien-debuter-en-c/
-    * https://www.freecodecamp.org/news/learn-object-oriented-programming-oop-in-c-full-video-course/
+    * [dreadl0ck/c-overview](https://github.com/dreadl0ck/c-overview)
+    * [jescascela/Exercicios-Resolvidos-C](https://github.com/jescascela/Exercicios-Resolvidos-C)
+    * [openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c](https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c)
+    * [apprendre-informatique.com/tutorial-31-29-Langage-C](http://www.apprendre-informatique.com/tutorial-31-29-Langage-C)
+    * [melem.developpez.com/tutoriels/langage-c/initiation-langage-c/](http://melem.developpez.com/tutoriels/langage-c/initiation-langage-c/)
+    * [franckh.developpez.com/articles/c-ansi/bien-debuter-en-c/](http://franckh.developpez.com/articles/c-ansi/bien-debuter-en-c/)
+    * [freecodecamp.org/news/learn-object-oriented-programming-oop-in-c-full-video-course/](https://www.freecodecamp.org/news/learn-object-oriented-programming-oop-in-c-full-video-course/)
     * [C/C++](http://web.cecs.pdx.edu/~karlaf/) Courses
-    * https://docs.repl.it/curriculum/introCpp
-    * https://www.freecodecamp.org/news/understand-data-structures-in-c-and-cpp/
-    * https://ladedu.com/cpp/
+    * [docs.repl.it/curriculum/introCpp](https://docs.repl.it/curriculum/introCpp)
+    * [freecodecamp.org/news/understand-data-structures-in-c-and-cpp/](https://www.freecodecamp.org/news/understand-data-structures-in-c-and-cpp/)
+    * [ladedu.com/cpp/](https://ladedu.com/cpp/)
     * [Курсы по программированию на языке C++ от компании Яндекс.](https://vk.com/wall-79831840_54156)
 
 
@@ -398,8 +398,8 @@ search: Nooby C++ Habits
     * [C Standard: ISO/IEC 9899:201x](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf)
     * [C](https://devdocs.io/c/)
     * [C++](https://devdocs.io/cpp/)
-    * https://en.cppreference.com/w/c/links/libs
-    * https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
+    * [en.cppreference.com/w/c/links/libs](https://en.cppreference.com/w/c/links/libs)
+    * [isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 
 
 ## SORT
@@ -413,17 +413,17 @@ search: Nooby C++ Habits
 * [C++ Multithreading Cookbook](http://library.lol/main/14A55F041EF8CFD29300C63C5048086E)
 * [C++ Programming Cookbook](http://library.lol/main/181017E231749A820340FA6CF3C8466E)
 * [C++ Cookbook](http://library.lol/main/279CE72509B804D96F6F1F79A603862B)
-* https://github.com/iris-engine-dev/asm_c_cpp
-* [Reddit - Is my Frog image to Ascii converter efficient? [C]](https://www.reddit.com/r/codereview/comments/zhh3eb/is_my_frog_image_to_ascii_converter_efficient_c/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=10&utm_content=share_button)
+* [iris-engine-dev/asm_c_cpp](https://github.com/iris-engine-dev/asm_c_cpp)
+* [Reddit - Is my Frog image to Ascii converter efficient? [C]](https://www.reddit.com/r/codereview/comments/zhh3eb/is_my_frog_image_to_ascii_converter_efficient_c/)
 * [cmourglia/BeardLibrary: Just some random stuff I always write when starting a new project](https://github.com/cmourglia/BeardLibrary)
 * [Introduction to Pointers | C Language Tutorial](https://youtu.be/sY-s7O0FiYE)
 * [C Pointers (With Examples)](https://www.programiz.com/c-programming/c-pointers)
-* [Reddit - C++ "side project"](https://www.reddit.com/r/cpp/comments/10niwmt/c_side_project/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=10&utm_content=share_button)
-* https://bitbucket.org/blaze-lib/blaze/src/master/
-* [Reddit - Which is the best book for learning C++ in details?](https://www.reddit.com/r/cpp_questions/comments/1082652/which_is_the_best_book_for_learning_c_in_details/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=10&utm_content=share_button)
-* [Reddit - ***C++ projects book](https://www.reddit.com/r/cpp_questions/comments/wwa6w4/c_projects_book/?utm_medium=android_app&utm_source=share)
-* [Reddit - If you could quantify how much of C is taught in CS50x, what percentage do you think it would be?](https://www.reddit.com/r/C_Programming/comments/wdewib/if_you_could_quantify_how_much_of_c_is_taught_in/?utm_medium=android_app&utm_source=share)
-* [Reddit - C++ and CMake Configuration - VS Code](https://www.reddit.com/r/cpp_questions/comments/vipm3f/c_and_cmake_configuration_vs_code/?utm_medium=android_app&utm_source=share)
+* [Reddit - C++ "side project"](https://www.reddit.com/r/cpp/comments/10niwmt/c_side_project/)
+* [bitbucket.org/blaze-lib/blaze/src/master/](https://bitbucket.org/blaze-lib/blaze/src/master/)
+* [Reddit - Which is the best book for learning C++ in details?](https://www.reddit.com/r/cpp_questions/comments/1082652/which_is_the_best_book_for_learning_c_in_details/)
+* [Reddit - ***C++ projects book](https://www.reddit.com/r/cpp_questions/comments/wwa6w4/c_projects_book/)
+* [Reddit - If you could quantify how much of C is taught in CS50x, what percentage do you think it would be?](https://www.reddit.com/r/C_Programming/comments/wdewib/if_you_could_quantify_how_much_of_c_is_taught_in/)
+* [Reddit - C++ and CMake Configuration - VS Code](https://www.reddit.com/r/cpp_questions/comments/vipm3f/c_and_cmake_configuration_vs_code/)
 * [C++ базовый курс, MIPT](https://youtube.com/playlist?list=PL3BR09unfgciJ1_K_E914nohpiOiHnpsK)
 * [Perfect C by Larry Faudree](https://vscodethemes.com/e/lfaudreejr.perfect-c/perfect-c?language=javascript)
 * [JoelStienlet/g3logPython: Python bindings for g3log](https://github.com/JoelStienlet/g3logPython)
@@ -435,37 +435,37 @@ search: Nooby C++ Habits
 * [cppstudio.com/cat/274/](http://cppstudio.com/cat/274/) — Если вы новичок в C++, предлагаю Вам прочитать этот бесплатный учебник. Здесь собрано большое количество статей для начинающих программистов по С++. Условно все статьи разделены на группы, кратко характеризующие их содержание. После прочтения статьи, можно закрепить материал, написав несколько программ. Для проверки своих теоретических знаний можно пройти тестирование по С++. В таблице после теоретических статей идет подраздел практики, в котором вы можете пройти тестирование и написать программы.
 * [cplusplus.com/doc/tutorial/](http://cplusplus.com/doc/tutorial/) — These tutorials explain the C++ language from its basics up to the newest features introduced by C++11. Chapters have a practical orientation, with example programs in all sections to start practicing what is being explained right away.
 * [devdocs.io/cpp/](http://devdocs.io/cpp/) — The interface of C++ standard library is defined by the following collection of headers.
-* https://www.cpp.com.ru/ — C++ — чрезвычайно мощный язык, содержащий средства создания эффективных программ практически любого назначения, от низкоуровневых утилит и драйверов до сложных программных комплексов самого различного назначения. На данном сайте выложено несколько книг и статей по языкам С и С++, как для начинающих, так и для профессионалов.
-* https://en.cppreference.com/w/cpp — ещё одна хорошая документация на английском. Постоянно обновляется.
-* https://learnc.info/ — хороший сайт с лекциями по языку C. В качестве базового языка вам предстоит изучать C. Почему именно C, а не Pascal, Python, Ruby или PHP? Этот язык заставляет вас думать обо всём. Когда программируешь на си, начинаешь понимать, что компьютер - просто железяка. Необходимо самостоятельно выделять память под объекты, затем очищать эту память, заботиться о переполнении массивов, переполнении переменных, изменении знака переменных, приведении типов, правильном обращении к памяти и т.д.
-* https://github.com/PacktPublishing/Hands-On-Machine-Learning-with-CPP
+* [cpp.com.ru/](https://www.cpp.com.ru/) — C++ — чрезвычайно мощный язык, содержащий средства создания эффективных программ практически любого назначения, от низкоуровневых утилит и драйверов до сложных программных комплексов самого различного назначения. На данном сайте выложено несколько книг и статей по языкам С и С++, как для начинающих, так и для профессионалов.
+* [en.cppreference.com/w/cpp](https://en.cppreference.com/w/cpp) — ещё одна хорошая документация на английском. Постоянно обновляется.
+* [learnc.info/](https://learnc.info/) — хороший сайт с лекциями по языку C. В качестве базового языка вам предстоит изучать C. Почему именно C, а не Pascal, Python, Ruby или PHP? Этот язык заставляет вас думать обо всём. Когда программируешь на си, начинаешь понимать, что компьютер - просто железяка. Необходимо самостоятельно выделять память под объекты, затем очищать эту память, заботиться о переполнении массивов, переполнении переменных, изменении знака переменных, приведении типов, правильном обращении к памяти и т.д.
+* [PacktPublishing/Hands-On-Machine-Learning-with-CPP](https://github.com/PacktPublishing/Hands-On-Machine-Learning-with-CPP)
 * [Marc Gregoire Professional C++](http://libgen.rs/search.php?&req=marc+gregoire&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 * [Pikus Cpp Books](http://libgen.rs/search.php?req=fedor+pikus&open=0&res=25&view=simple&phrase=1&column=def)
     build gcc-12 and g++12
-* https://github.com/NAGAGroup/Scalix
-* https://mimno.github.io/Mallet/index
-* https://github.com/chokkan/crfsuite
-* https://sourceforge.net/projects/hcrf/
-* http://crf.sourceforge.net/
-* https://github.com/yalesong/hCRF-light
-* http://flexcrfs.sourceforge.net/
-* [Reddit - What’s the best book for a complete C language reference with all header files and their functions with examples?](https://www.reddit.com/r/C_Programming/comments/10ycahk/whats_the_best_book_for_a_complete_c_language/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=10&utm_content=share_button)
-* https://www.newthinktank.com/2019/10/c-tutorial-2019/
+* [NAGAGroup/Scalix](https://github.com/NAGAGroup/Scalix)
+* [mimno.github.io/Mallet/index](https://mimno.github.io/Mallet/index)
+* [chokkan/crfsuite](https://github.com/chokkan/crfsuite)
+* [sourceforge.net/projects/hcrf/](https://sourceforge.net/projects/hcrf/)
+* [crf.sourceforge.net/](http://crf.sourceforge.net/)
+* [yalesong/hCRF-light](https://github.com/yalesong/hCRF-light)
+* [flexcrfs.sourceforge.net/](http://flexcrfs.sourceforge.net/)
+* [Reddit - What’s the best book for a complete C language reference with all header files and their functions with examples?](https://www.reddit.com/r/C_Programming/comments/10ycahk/whats_the_best_book_for_a_complete_c_language/)
+* [newthinktank.com/2019/10/c-tutorial-2019/](https://www.newthinktank.com/2019/10/c-tutorial-2019/)
 * [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/split/index.html)
 * [Patterns in C by Adam Tornhill [Leanpub PDF/iPad/Kindle]](https://leanpub.com/patternsinc)
-* https://github.com/jpoirier/picoc
-* https://www.geeksforgeeks.org/top-7-c-project-ideas-for-beginners/
-* https://code.quora.com/Object-Oriented-Programming-in-C-A-Deep-Dive
+* [jpoirier/picoc](https://github.com/jpoirier/picoc)
+* [geeksforgeeks.org/top-7-c-project-ideas-for-beginners/](https://www.geeksforgeeks.org/top-7-c-project-ideas-for-beginners/)
+* [code.quora.com/Object-Oriented-Programming-in-C-A-Deep-Dive](https://code.quora.com/Object-Oriented-Programming-in-C-A-Deep-Dive)
 * [roadmap](https://habr.com/ru/specials/726724/)
     armadillo
-* [Reddit - osmanip 3.1.1! a C++ library with output stream tools like color and styles manipulators, progress bars and 2D terminal graphics](https://www.reddit.com/r/cpp/comments/uujv86/osmanip_311_a_c_library_with_output_stream_tools/?utm_medium=android_app&utm_source=share)
+* [Reddit - osmanip 3.1.1! a C++ library with output stream tools like color and styles manipulators, progress bars and 2D terminal graphics](https://www.reddit.com/r/cpp/comments/uujv86/osmanip_311_a_c_library_with_output_stream_tools/)
 * [libuv/libuv: Cross-platform asynchronous I/O](https://github.com/libuv/libuv)
-* https://t.me/physics_lib/10285
+* [t.me/physics_lib/10285](https://t.me/physics_lib/10285)
 * [Clear, Functional C++ Documentation with Sphinx + Breathe + Doxygen + CMake - C++ Team Blog](https://devblogs.microsoft.com/cppblog/clear-functional-c-documentation-with-sphinx-breathe-doxygen-cmake/)
 * [doxygen and sphinx integration - Google Search](https://www.google.com/search?client=firefox-b-d&q=doxygen+and+sphinx+integration)
 * [boschglobal/doxysphinx: A lightweight Doxygen extension for Sphinx](https://github.com/boschglobal/doxysphinx)
-* https://www.learn-cpp.org/
-* https://google.github.io/styleguide/cppguide.html
+* [learn-cpp.org/](https://www.learn-cpp.org/)
+* [google.github.io/styleguide/cppguide.html](https://google.github.io/styleguide/cppguide.html)
     bats-core
     dlib
     eigen
@@ -489,17 +489,17 @@ search: Nooby C++ Habits
     CRFTagger: CRF English POS Chunker
     CRFChunker: CRF English Phrase Chunker
     Audio Processing and Speech Recognition. Concepts, Techniques and Research Overviews.pdf
-* [Reddit Cpp - Constexpr regex parser!](https://www.reddit.com/r/cpp/comments/112kg6r/constexpr_regex_parser/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=10&utm_content=share_button)
+* [Reddit Cpp - Constexpr regex parser!](https://www.reddit.com/r/cpp/comments/112kg6r/constexpr_regex_parser/)
 * [You Should Learn C++ (for hacking games) - YouTube](https://www.youtube.com/watch?v=IK7GbHXvpy8)
-* https://dzone.com/refcardz/core-cpp
+* [dzone.com/refcardz/core-cpp](https://dzone.com/refcardz/core-cpp)
 * [cmdstan/main.cpp at develop · stan-dev/cmdstan](https://github.com/stan-dev/cmdstan/blob/develop/src/cmdstan/main.cpp)
-    cpp pod - see refs https://open.spotify.com/episode/34b5rUvBkr6IwzQT3ZAMrU?si=H1GoaL_HSt6tS6hEras-9g&utm_source=native-share-menu
-* http://cpp.com.ru/
+    cpp pod - see refs [open.spotify.com/episode/34b5rUvBkr6IwzQT3ZAMrU?si=H1GoaL_HSt6tS6hEras-9g](https://open.spotify.com/episode/34b5rUvBkr6IwzQT3ZAMrU?si=H1GoaL_HSt6tS6hEras-9g)
+* [cpp.com.ru/](http://cpp.com.ru/)
 * [Cpp YT](https://youtube.com/playlist?list=PLSK7NtBWwmpSeHTLuATYiJR6Wghq4TYE3)
-* http://learncpp.com/
-* https://www.learncpp.com/
+* [learncpp.com/](http://learncpp.com/)
+* [learncpp.com/](https://www.learncpp.com/)
 * [Sorting Algorithms: Speed Is Found In The Minds of People - Andrei Alexandrescu - CppCon 2019](https://www.youtube.com/watch?v=FJJTYQYB1JQ)
-* https://thecppdev.com/
+* [thecppdev.com/](https://thecppdev.com/)
 * [How C++ took a turn for the worse - YouTube](https://www.youtube.com/watch?v=Z_ahq2h9Xxg)
 * [c++ is misunderstood (should you learn it?)](https://youtu.be/q1ZmFc-sqNc)
 * [C++ Packages for a custom Game Engine - That One Game Dev](https://thatonegamedev.com/cpp/c-packages-for-a-custom-game-engine/)
@@ -520,25 +520,25 @@ search: Nooby C++ Habits
 * [[MUC++] Thomas Deniffel - "C++ Build Systems"](https://youtu.be/9eajOX1xZ4I)
 * [xtensor-stack/xtensor: C++ tensors with broadcasting and lazy computing](https://github.com/xtensor-stack/xtensor/)
 * [cerveur/main.c at master · infraredCoding/cerveur](https://github.com/infraredCoding/cerveur/blob/master/src/main.c)
-* [Reddit - How to overload << operator to run an enqueue function](https://www.reddit.com/r/cpp_questions/comments/uzfsxh/how_to_overload_operator_to_run_an_enqueue/?utm_medium=android_app&utm_source=share)
+* [Reddit - How to overload << operator to run an enqueue function](https://www.reddit.com/r/cpp_questions/comments/uzfsxh/how_to_overload_operator_to_run_an_enqueue/)
 * [Hands-On Functional Programming with C++: An effective guide to writing accelerated functional code using C++17 and C++2](http://library.lol/main/873BFE33DF74385C75906A2F129CA61F)
 * [C++ по итогам 2022-го](https://habr.com/ru/company/jugru/blog/710522/)
-* [Reddit - Audiobooks/Podcasts?](https://www.reddit.com/r/cpp_questions/comments/vjctbx/audiobookspodcasts/?utm_medium=android_app&utm_source=share)
-* https://www.incredibuild.com/blog/c-complexity-what-makes-c-complex-for-you
+* [Reddit - Audiobooks/Podcasts?](https://www.reddit.com/r/cpp_questions/comments/vjctbx/audiobookspodcasts/)
+* [incredibuild.com/blog/c-complexity-what-makes-c-complex-for-you](https://www.incredibuild.com/blog/c-complexity-what-makes-c-complex-for-you)
 * [Qalculate](https://github.com/Qalculate/libqalculate) - Multi-purpose calculator with customizable functions, units, arbitrary precision, plotting (it includes a GUI).    * [Expert C Programming, Deep C Secrets](http://library.lol/main/BD69DA5877CB67B4C2FC3E9E09C95A24)
     cpp core guidelines explained
-    Contribute! - https://www.cpp-lang.net/
+    Contribute! - [cpp-lang.net/](https://www.cpp-lang.net/)
 * [60 C++ antipatterns](https://habr.com/ru/companies/pvs-studio/articles/744970/) RU
 * [The Definitive C Book Guide and List - Stack Overflow](https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list)
 * [The Art Of Pointers - YouTube](https://www.youtube.com/watch?v=zqlm5UHgVRU)
 * [Introduction to the Arduino Programming Language](https://flaviocopes.com/arduino-programming-language/)
 * [Cosmopolitan Libc: build-once run-anywhere C library](https://justine.lol/cosmopolitan/)
-* [https://www.cpp-lang.net](https://www.cpp-lang.net/)
+* [cpp-lang.net](https://www.cpp-lang.net/)
 * [Bill Weinman - C++20 STL Cookbook: Leverage the latest features of the STL to solve real-world problems](https://libgen.is/book/index.php?md5=AA9429215C0EB9AFDABE5E078AE43927)    * [C++20 Quick Syntax Reference: A Pocket Guide to the Language, APIs, and Library](http://library.lol/main/E565C930A383AAD186E8DD67FC65CA9D)     * [Modern C Quick Syntax Reference: A Pocket Guide to the Language, APIs, and Library](http://library.lol/main/7C0D7E34D05C3C556F2C29402F432C26)     * [C++17 Quick Syntax Reference: A Pocket Guide to the Language, APIs and Library](http://library.lol/main/9F7D750D0DAB15692E732B7D69319CE6)
-* https://www.cpp-lang.net/
-* https://www.cprogramming.com/
+* [cpp-lang.net/](https://www.cpp-lang.net/)
+* [cprogramming.com/](https://www.cprogramming.com/)
 * [Accelerated C++: Practical Programming by Example](https://www.amazon.in/Accelerated-Practical-Programming-Example-Depth/dp/020170353X)
 * [C++ Primer (5th Edition)](https://www.amazon.in/Primer-5th-Stanley-B-Lippman/dp/0321714113?tag=hackr0df-21)
-* https://www.cs.unibo.it/~renzo/doc/C/c.pdf
-* https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
-* https://github.com/larmel/lacc
+* [cs.unibo.it/~renzo/doc/C/c.pdf](https://www.cs.unibo.it/~renzo/doc/C/c.pdf)
+* [gnu.org/software/gnu-c-manual/gnu-c-manual.html](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
+* [larmel/lacc](https://github.com/larmel/lacc)

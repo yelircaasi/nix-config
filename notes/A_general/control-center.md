@@ -53,7 +53,7 @@
     @yelircaasi:matrix.org
 
 * Lemmy
-    - https://lemmy.ml/
+    - [lemmy.ml/](https://lemmy.ml/)
 * [Revolt](https://app.revolt.chat/)
 * [Discord](https://discord.com/channels/@me)
 * [Raddle](https://raddle.me/)
@@ -963,7 +963,7 @@ Family, friends, philanthropy, nature, health, projects
     - [Wandbox](https://cppstories.us8.list-manage.com/track/click?u=e93417593cbf4da3dba03d672&id=ffd6040cd4&e=c10620ea7e) another great online compiler, where you can share links, compile several files and test against many available compilers
 
     BTW: if you want to be closer to the community you can also try cpp slack channel: here's the invitation:
-        * [https://cppalliance.org/slack/](https://cppstories.us8.list-manage.com/track/click?u=e93417593cbf4da3dba03d672&id=9713547242&e=c10620ea7e)
+        * [cppalliance.org/slack/](https://cppstories.us8.list-manage.com/track/click?u=e93417593cbf4da3dba03d672&id=9713547242&e=c10620ea7e)
 
     Books:
 
@@ -1049,10 +1049,10 @@ Family, friends, philanthropy, nature, health, projects
     - [Resources](https://cppstories.us8.list-manage.com/track/click?u=e93417593cbf4da3dba03d672&id=3439a11e3f&e=c10620ea7e)  things that I'm using or used. From books to online courses to tools
     and sites. There's also a list of blogs I suggest following.
     - I try to be active on Twitter, [please follow me](https://cppstories.us8.list-manage.com/track/click?u=e93417593cbf4da3dba03d672&id=7ae423b235&e=c10620ea7e) to get some fresh news and updates.
-        * https://tweag.github.io/HaskellR/
-        * https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/How_to/Create_a_standalone_app
+        * [tweag.github.io/HaskellR/](https://tweag.github.io/HaskellR/)
+        * [developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/How_to/Create_a_standalone_app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/How_to/Create_a_standalone_app)
 
-* https://knecon.atlassian.net/wiki/spaces/RES/pages/82018324/How+To+Rancher+Deployment
+* [knecon.atlassian.net/wiki/spaces/RES/pages/82018324/How+To+Rancher+Deployment](https://knecon.atlassian.net/wiki/spaces/RES/pages/82018324/How+To+Rancher+Deployment)
 
 
 * [Scratch](https://docs.google.com/spreadsheets/d/1R_ROr2OD94U8y6DtSUSDPsqCpu3p5n4JKh7TKV-Pam4/edit#gid=753172436)

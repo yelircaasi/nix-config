@@ -73,9 +73,9 @@ nixfetch - neofetch for nixos
 
 Why does chromium via nix have a different hover icon?
 
-https://github.com/nix-community/nixos-generators
+[nix-community/nixos-generators](https://github.com/nix-community/nixos-generators)
 
-https://www.reddit.com/r/NixOS/comments/y1xo2u/how_to_create_an_iso_with_my_config_files/?rdt=61989
+[r/NixOS/comments/y1xo2u/how_to_create_an_iso_with_my_config_files/?rdt=61989](https://www.reddit.com/r/NixOS/comments/y1xo2u/how_to_create_an_iso_with_my_config_files/?rdt=61989)
 
 Look into Nix as a build tool -> Nix vs Just
 
@@ -100,7 +100,7 @@ Read docs:
 
 How to use Nix to modify and act on other Nix file? (wrap, override, etc)
 
-good discussion: https://www.reddit.com/r/NixOS/comments/1bzvaof/nixos_alternatives
+good discussion: [r/NixOS/comments/1bzvaof/nixos_alternatives](https://www.reddit.com/r/NixOS/comments/1bzvaof/nixos_alternatives)
 
 write nixfetch: special fetch for NixOS, write in Haskell, use SVG image
 
@@ -471,7 +471,7 @@ let
     withNodeJs = true;
     withRuby = true;
     withPython3 = true;
-    # https://github.com/NixOS/nixpkgs/issues/211998
+    # [NixOS/nixpkgs/issues/211998](https://github.com/NixOS/nixpkgs/issues/211998)
     customRC = "luafile ~/.config/nvim/init.lua";
   };
 
@@ -939,7 +939,7 @@ resources * [ryantm.github.io](https://ryantm.github.io/nixpkgs/)
 ### People
 * [/user/matthew-croughan/](https://www.reddit.com/user/matthew-croughan/)
 person * [ahoneybun blog](https://ahoneybun.net/blog/)
-person * [amazing Nix videos (config and secrets)] https://www.youtube.com/@Emergent_Mind
+person * [](https://www.youtube.com/@Emergent_Mind)
 person * [chetanbhasin.com](https://chetanbhasin.com/articles)
 person * [emergent mind (yt channel)](https://www.youtube.com/@Emergent_Mind)
 person * [Geoffrey Huntley](https://ghuntley.com/)
@@ -1397,7 +1397,7 @@ nvim config * [zmre/pwnvim](https://github.com/zmre/pwnvim)
 * [NixOS Search - Packages](https://search.nixos.org/packages)
 * [ianthehenry.com](https://ianthehenry.com/posts/how-to-learn-nix/)
 * [ianthehenry.com](https://ianthehenry.com/posts/how-to-learn-nix/)
-* [www.reddit.com](https://www.reddit.com/r/NixOS/)
+* [reddit.com](https://www.reddit.com/r/NixOS/)
 * [/r/NixOS/](https://www.reddit.com/r/NixOS/)
 * [nixos.org](https://nixos.org/)
 * [nixos.org](https://nixos.org/)
@@ -1405,7 +1405,7 @@ nvim config * [zmre/pwnvim](https://github.com/zmre/pwnvim)
 * [A Tour of Nix](https://nixcloud.io/tour/?id%3Dintroduction/nix)
 * [nixos-and-flakes.thiscute.world](https://nixos-and-flakes.thiscute.world/introduction/)
 * [nixos-and-flakes.thiscute.world](https://nixos-and-flakes.thiscute.world/introduction/)
-* [www.youtube.com](https://www.youtube.com/playlist?list%3DPLnlyQqQLJLnJqZzJgcsUfftdGApjdFZPV)
+* [](https://www.youtube.com/playlist?list%3DPLnlyQqQLJLnJqZzJgcsUfftdGApjdFZPV)
 * [Beginner's Guide to Nix](https://www.youtube.com/playlist?list%3DPLnlyQqQLJLnJqZzJgcsUfftdGApjdFZPV)
 * [ryantm.github.io](https://ryantm.github.io/nixpkgs/)
 * [ryantm.github.io](https://ryantm.github.io/nixpkgs/)
@@ -1440,24 +1440,24 @@ nvim config * [zmre/pwnvim](https://github.com/zmre/pwnvim)
 * [nixos.org](https://nixos.org/manual/nix/stable/command-ref/new-cli/nix.html)
 * [nixos.wiki](https://nixos.wiki/wiki/Cheatsheet)
 * [Cheatsheet - NixOS Wiki](https://nixos.wiki/wiki/Cheatsheet)
-* [www.youtube.com](https://www.youtube.com/playlist?list%3DPLRGI9KQ3_HP_OFRG6R-p4iFgMSK1t5BHs)
+* [](https://www.youtube.com/playlist?list%3DPLRGI9KQ3_HP_OFRG6R-p4iFgMSK1t5BHs)
 * [**Nixology - YouTube](https://www.youtube.com/playlist?list%3DPLRGI9KQ3_HP_OFRG6R-p4iFgMSK1t5BHs)
-* [www.youtube.com](https://www.youtube.com/playlist?list%3DPL-saUBvIJzOkjAw_vOac75v-x6EzNzZq-)
+* [](https://www.youtube.com/playlist?list%3DPL-saUBvIJzOkjAw_vOac75v-x6EzNzZq-)
 * [NixOS Playlist (Wil T)](https://www.youtube.com/playlist?list%3DPL-saUBvIJzOkjAw_vOac75v-x6EzNzZq-)
 * [stephank.nl](https://stephank.nl/p/2020-06-01-a-nix-primer-by-a-newcomer.html)
 * [Primer on Nix terminology](https://stephank.nl/p/2020-06-01-a-nix-primer-by-a-newcomer.html)
 * [book.divnix.com](https://book.divnix.com/)
 * [book.divnix.com](https://book.divnix.com/)
 * [NixOS Wiki](https://nixos.wiki/)
-* [www.youtube.com](https://www.youtube.com/@NixCon)
+* [](https://www.youtube.com/@NixCon)
 * [/@NixCon](https://www.youtube.com/@NixCon)
-* [www.youtube.com](https://www.youtube.com/playlist?list%3DPL2Ftb1kbp85h9Mp23kykEkPe4As69hH_w)
+* [](https://www.youtube.com/playlist?list%3DPL2Ftb1kbp85h9Mp23kykEkPe4As69hH_w)
 * [NixCon 2023](https://www.youtube.com/playlist?list%3DPL2Ftb1kbp85h9Mp23kykEkPe4As69hH_w)
-* [www.youtube.com](https://www.youtube.com/results?search_query%3Dnixcon%2B2023)
+* [](https://www.youtube.com/results?search_query%3Dnixcon%2B2023)
 * [/results?search_query=nixcon+2023](https://www.youtube.com/results?search_query%3Dnixcon%2B2023)
 * [media.ccc.de](https://media.ccc.de/c/nixcon2023)
 * [media.ccc.de](https://media.ccc.de/c/nixcon2023)
-* [www.youtube.com](https://www.youtube.com/@NixOS-Foundation/playlists)
+* [](https://www.youtube.com/@NixOS-Foundation/playlists)
 * [/@NixOS-Foundation/playlists](https://www.youtube.com/@NixOS-Foundation/playlists)
 * [nixos.org](https://nixos.org/manual/nixpkgs/stable/)
 * [nixos.org](https://nixos.org/manual/nixpkgs/stable/)
@@ -1606,7 +1606,7 @@ uses niv: [discourse.nixos.org](https://discourse.nixos.org/t/help-with-poetry2
 * [nixpkgs/pkgs/development/interpreters/python/mk-python-derivation.nix at master · NixOS/nixpkgs](https://github.com/NixOS/nixpkgs/blob/master/pkgs/development/interpreters/python/mk-python-derivation.nix)
 * [nixpkgs/pkgs/development/python-modules/torch/default.nix at nixos-23.05 · NixOS/nixpkgs](https://github.com/NixOS/nixpkgs/blob/nixos-23.05/pkgs/development/python-modules/torch/default.nix#L414)
 * [Package and deploy Python apps faster with Poetry and Nix - YouTube](https://www.youtube.com/watch?v=TbIHRHy7_JM)
-* [pip on NixOS (Reddit)](https://www.reddit.com/r/NixOS/comments/121vv4r/how_do_i_use_pip_on_nixos/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=10&utm_content=share_button)
+* [pip on NixOS (Reddit)](https://www.reddit.com/r/NixOS/comments/121vv4r/how_do_i_use_pip_on_nixos/)
 * [poetry config http-basic](https://github.com/python-poetry/poetry/issues/8443)
 * [poetry2nix error · Issue #133 · tweag/jupyenv](https://github.com/tweag/jupyenv/issues/133)
 * [Poetry2nix: mismatch cryptography sha256 but unable to modify · Issue #1337 · nix-community/poetry2nix](https://github.com/nix-community/poetry2nix/issues/1337)
@@ -1614,7 +1614,7 @@ uses niv: [discourse.nixos.org](https://discourse.nixos.org/t/help-with-poetry2
 * [Private Repository Authentication not working for new nix-commands and flakes (pure mode) · Issue #1423 · nix-community/poetry2nix](https://github.com/nix-community/poetry2nix/issues/1423)
 * [Python - NixOS Wiki](https://nixos.wiki/wiki/Python)
 * [Python - NixOS Wiki](https://nixos.wiki/wiki/Python)
-* [Python | nixpkgs https://ryantm.github.io/nixpkgs/languages-frameworks/python/](https://ryantm.github.io/nixpkgs/languages-frameworks/python/) python nix [nix-community.github.io](https://nix-community.github.io/dream2nix/guides/getting-started-python.html)
+* [Python | nixpkgs [ryantm.github.io/nixpkgs/languages-frameworks/python/](https://ryantm.github.io/nixpkgs/languages-frameworks/python/)](https://ryantm.github.io/nixpkgs/languages-frameworks/python/](https://ryantm.github.io/nixpkgs/languages-frameworks/python/)) python nix [nix-community.github.io](https://nix-community.github.io/dream2nix/guides/getting-started-python.html)
 * [Python | nixpkgs](https://ryantm.github.io/nixpkgs/languages-frameworks/python/)
 * [Python | nixpkgs](https://ryantm.github.io/nixpkgs/languages-frameworks/python/#python)
 * [python-development-with-poetry-with-nix-supplying-python](https://discourse.nixos.org/t/python-development-with-poetry-with-nix-supplying-python/14736)
@@ -1675,7 +1675,7 @@ rice * [danth.github.io](https://danth.github.io/stylix/) ***
 * cuda [gist.github.com](https://gist.github.com/ChadSki/926e5633961c9b48131eabd32e57adb2) nix with cuda
 
 ### SOPS
-* [www.youtube.com](https://www.youtube.com/watch?v%3DG5f6GC7SnhU)
+* [](https://www.youtube.com/watch?v%3DG5f6GC7SnhU)
 * sops [konradmalik.com](https://konradmalik.com/posts/2023/02/sops-nix-simple-secrets-management-for-nix/)
 * [github.imold.wang](https://github.imold.wang/lucidph3nx/nvim-sops)
 * [github.com](https://github.com/Mic92/sops-nix)
@@ -1724,11 +1724,11 @@ rice * [danth.github.io](https://danth.github.io/stylix/) ***
 
 ## YouTube Channels*
 * [/@jonringer117](https://www.youtube.com/@jonringer117) (Nix channel)*
-* [www.tweag.io](https://www.tweag.io/)
+* [tweag.io](https://www.tweag.io/)
 * [Tweag - YouTube](https://www.youtube.com/@tweag) ****
 * [Determinate Systems](https://determinate.systems/)
 * [Determinate Systems](https://determinate.systems/#blog)
-* [nix.ug | Nix/NixOS User Group Directory](https://nix.ug/) *** → [www.chaos-darmstadt.de](https://www.chaos-darmstadt.de/hackspace/)
+* [nix.ug | Nix/NixOS User Group Directory](https://nix.ug/) *** → [chaos-darmstadt.de](https://www.chaos-darmstadt.de/hackspace/)
 * [primamateria.github.io](https://primamateria.github.io/blog/)
 * [numtide](https://github.com/numtide)
 * [nix-community](https://github.com/nix-community)
@@ -1866,8 +1866,8 @@ media * [ShipIt! Presents: How Shopify Uses Nix](https://shopify.engineering/shi
 media * [thenewstack.io](https://thenewstack.io/nixos-a-combination-linux-os-and-package-manager/)
 media * [Ubuntu vs NixOS detailed comparison as of 2024 - Slant](https://www.slant.co/versus/2689/2700/~ubuntu_vs_nixos)
 media * [Ubuntu vs. NixOS - NixOS Wiki](https://nixos.wiki/wiki/Ubuntu_vs._NixOS)
-media * [www.linux-community.de](https://www.linux-community.de/ausgaben/linuxuser/2018/08/nix-neues/)
-media * [www.linux-magazine.com](https://www.linux-magazine.com/Issues/2021/248/Nix-and-NixOS)
+media * [linux-community.de](https://www.linux-community.de/ausgaben/linuxuser/2018/08/nix-neues/)
+media * [linux-magazine.com](https://www.linux-magazine.com/Issues/2021/248/Nix-and-NixOS)
 
 ## Flakes
 flake  * [Novice Nix: Flake Templates · peppe.rs](https://peppe.rs/posts/novice_nix:_flake_templates/)
@@ -1934,7 +1934,7 @@ flake * flakes explanation [reddit](https://www.reddit.com/r/NixOS/s/eq9BlQ1sRj
 * [NixOS Is The Power User Distro (Now With An Easy Installer!)](https://www.youtube.com/watch?v=ck4J2Faa7Fc)
 * [Build A Portable Development Environment With Nix Package Manager - YouTube](https://www.youtube.com/watch?v=70YMTHAZyy4&list=PL1C97G3GhlHdANMFUIXTcFr14R7b7EBj9)
 * [Build A Portable Development Environment With Nix Package ...](https://www.youtube.com/watch?v=70YMTHAZyy4)
-* [www.youtube.com](https://www.youtube.com/) › watch [How Nix and NixOS Get So Close to Perfect - YouTube](https://www.youtube.com/watch?v=qjq2wVEpSsA)
+* [](https://www.youtube.com/) › watch [How Nix and NixOS Get So Close to Perfect - YouTube](https://www.youtube.com/watch?v=qjq2wVEpSsA)
 * [Nix Friday - poetry2nix part 1 - YouTube](https://www.youtube.com/watch?v=XfqJulSAPBQ)
 * [The best of both worlds with Nix + Bazel](https://www.youtube.com/watch?v=dBru1MVKsfE&pp=ygUeRGV0ZXJtaW5pc3RpYyBzeXN0ZW1zIHdpdGggTml4)
 * [Fast, correct, reproducible builds with Nix + Bazel](https://www.youtube.com/watch?v=2wI5J8XYxM8)
@@ -1942,7 +1942,7 @@ flake * flakes explanation [reddit](https://www.reddit.com/r/NixOS/s/eq9BlQ1sRj
 * [NixOS Installation Guide - YouTube](https://www.youtube-nocookie.com/embed/axOxLJ4BWmY?start=1642)
 * [Paolo – NixOS | Lightning Talk Jugend hackt Berlin 2021](https://youtu.be/Xm2lsP7pnE4)
 * [CTT on Nix](https://www.youtube.com/watch?v=Ty8C2B910EI)
-* [How Nix and NixOS Get So Close to Perfect - Xe | PackagingCon 2021 https://www.youtube.com/watch?v=WwgSMgpX6TM](https://www.youtube.com/watch?v=WwgSMgpX6TM)
+* [](https://www.youtube.com/watch?v=WwgSMgpX6TM)](https://www.youtube.com/watch?v=WwgSMgpX6TM](https://www.youtube.com/watch?v=WwgSMgpX6TM))
 * [NixOS beginner guide](https://www.youtube.com/watch?v=bjTxiFLSNFA&list=PLko9chwSoP-15ZtZxu64k_CuTzXrFpxPE)
 * [Nix Dev Environments | Declare Your Coding Projects](https://www.youtube.com/watch?v=yQwW8dkuHqw)
 * [Nix-powered Docker Containers](https://www.youtube.com/watch?v=5XY3K8DH55M)
@@ -1981,7 +1981,7 @@ video * [NixOS Explained - YouTube](https://www.youtube.com/watch?v%3DtQ446LjIv7
 
 
 ## Meta
-* https://nixos-users-against-mic-sponsorship.github.io/
+* [nixos-users-against-mic-sponsorship.github.io/](https://nixos-users-against-mic-sponsorship.github.io/)
 meta * [/r/voidlinux/comments/z8a727/how_do_you_guys_feel_about_flatpaks/](https://www.reddit.com/r/voidlinux/comments/z8a727/how_do_you_guys_feel_about_flatpaks/)
 meta * [> Main reason for leaving was that Nix package maintainers have to heavily patch... | Hacker News](https://news.ycombinator.com/item?id=25030546)
 meta * [2022-10-07-nix-team-meeting-minutes-3](https://discourse.nixos.org/t/2022-10-07-nix-team-meeting-minutes-3/22369)
@@ -2011,7 +2011,7 @@ meta * [Who uses NixOS? Who are you people? (And good-bye) : NixOS](https://www.
 * [nixos-and-flakes.thiscute.world](https://nixos-and-flakes.thiscute.world/)
 * [nixos-and-flakes.thiscute.world](https://nixos-and-flakes.thiscute.world/development/intro)
 * [Writing your own NixOS modules for fun and (hopefully) profit - YouTube](https://www.youtube.com/watch?v%3DSzyuLVzS5Fg)
-* Informal intro to the Nix language, derivations and nixpkgs - YouTube https://www.youtube.com/watch?v=9DJtHIpdp0Y&t=132s&pp=2AGEAZACAcoFFm5peCBsYW5ndWFnZSB0dXRvcmlhbCA%3D
+* Informal intro to the Nix language, derivations and nixpkgs - YouTube [](https://www.youtube.com/watch?v=9DJtHIpdp0Y&t=132s&pp=2AGEAZACAcoFFm5peCBsYW5ndWFnZSB0dXRvcmlhbCA%3D)
 
 ## Blog Posts
 * [](https://blog.alper-celik.dev/posts/my-first-contributions-to-nixpkgs-and-open-source/)

@@ -2,22 +2,22 @@
 
 
 ## Sort
-* https://www.reddit.com/r/Python/s/epbxOrm3iC
-* https://lobste.rs/s/s1v57r/what_are_some_good_python_codebases_read
-* https://github.com/leapingio/leaping - pytest helper
-* https://teams.microsoft.com/_#/conversations/19:meeting_YjE2MmMyZjctZTEzYS00ZDE0LTg0N2UtMWI0NjE4Y2MwNTEw@thread.v2?ctx=chat
-* https://pygments.org/
-* https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_latex.html
+* [r/Python/s/epbxOrm3iC](https://www.reddit.com/r/Python/s/epbxOrm3iC)
+* [lobste.rs/s/s1v57r/what_are_some_good_python_codebases_read](https://lobste.rs/s/s1v57r/what_are_some_good_python_codebases_read)
+* [leapingio/leaping](https://github.com/leapingio/leaping) - pytest helper
+* [teams.microsoft.com/_#/conversations/19:meeting_YjE2MmMyZjctZTEzYS00ZDE0LTg0N2UtMWI0NjE4Y2MwNTEw@thread.v2?ctx=chat](https://teams.microsoft.com/_#/conversations/19:meeting_YjE2MmMyZjctZTEzYS00ZDE0LTg0N2UtMWI0NjE4Y2MwNTEw@thread.v2?ctx=chat)
+* [pygments.org/](https://pygments.org/)
+* [pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_latex.html](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_latex.html)
 * 25 Nooby Python Habits
 * copython
 * time.perf_counter()
 * Liskov Principle
-* https://iscinumpy.dev/
-* Inline run dependencies in pipx 1.4.2 https://iscinumpy.dev/post/pep723/
-* https://kieranholland.com/best-python-cheat-sheet/
-* https://codeconfessions.substack.com/p/why-do-python-lists-multiply-oddly
-* https://sarge.readthedocs.io/en/latest/
-* https://stefaniemolin.com/articles/devx/pre-commit/setup-guide/
+* [iscinumpy.dev/](https://iscinumpy.dev/)
+* Inline run dependencies in pipx 1.4.2 [iscinumpy.dev/post/pep723/](https://iscinumpy.dev/post/pep723/)
+* [kieranholland.com/best-python-cheat-sheet/](https://kieranholland.com/best-python-cheat-sheet/)
+* [codeconfessions.substack.com/p/why-do-python-lists-multiply-oddly](https://codeconfessions.substack.com/p/why-do-python-lists-multiply-oddly)
+* [sarge.readthedocs.io/en/latest/](https://sarge.readthedocs.io/en/latest/)
+* [stefaniemolin.com/articles/devx/pre-commit/setup-guide/](https://stefaniemolin.com/articles/devx/pre-commit/setup-guide/)
 
 
 ## Resources
@@ -26,41 +26,41 @@
 ## Newsletters
 
 
-## https://www.pythonweekly.com/archive/
+## [pythonweekly.com/archive/](https://www.pythonweekly.com/archive/)
 
 
 ## Reference
 * [(A Semi-Official) Python FAQ Zone](http://effbot.org/pyfaq/)
-* https://wiki.python.org.br/PythonBrasil
+* [wiki.python.org.br/PythonBrasil](https://wiki.python.org.br/PythonBrasil)
 * [Category:Subject:Python programming language - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Category:Subject:Python_programming_language)
-* https://www.youtube.com/user/PyDataTV
-* https://packaging.python.org/en/latest/
-* https://docs.python.org/fr/3/
-* [https://python-poetry.org/docs/](https://python-poetry.org/docs/#installation)
-* https://www.pypy.org/
-* https://doc.pypy.org/en/latest/
-* https://www.jython.org/
-* https://jython.readthedocs.io/en/latest/
-* https://www.programcreek.com/python/
+* [](https://www.youtube.com/user/PyDataTV)
+* [packaging.python.org/en/latest/](https://packaging.python.org/en/latest/)
+* [docs.python.org/fr/3/](https://docs.python.org/fr/3/)
+* [python-poetry.org/docs/](https://python-poetry.org/docs/#installation)
+* [pypy.org/](https://www.pypy.org/)
+* [doc.pypy.org/en/latest/](https://doc.pypy.org/en/latest/)
+* [jython.org/](https://www.jython.org/)
+* [jython.readthedocs.io/en/latest/](https://jython.readthedocs.io/en/latest/)
+* [programcreek.com/python/](https://www.programcreek.com/python/)
 * [PyCon Italia](https://www.youtube.com/c/pyconitalia)
 
 
 ## Media / Fora
-* https://pythops.com/index.html
+* [pythops.com/index.html](https://pythops.com/index.html)
 
 Real Python Podcast
-* https://talkpython.fm/
+* [talkpython.fm/](https://talkpython.fm/)
 
 
 ## Tools
-* https://isthisit.nz/posts/2023/building-a-chat-gpt-enhanced-python-repl/
-* https://snyk.io/advisor/python
-* http://pep8online.com/
+* [isthisit.nz/posts/2023/building-a-chat-gpt-enhanced-python-repl/](https://isthisit.nz/posts/2023/building-a-chat-gpt-enhanced-python-repl/)
+* [snyk.io/advisor/python](https://snyk.io/advisor/python)
+* [pep8online.com/](http://pep8online.com/)
 * [deal](https://github.com/life4/deal)
 * [pyrformance](https://github.com/orsinium-labs/pyrformance)
-* https://developers.google.com/sheets/api/quickstart/python
-* https://bpython-interpreter.org/
-* [https://www.spyder-ide.org](https://www.spyder-ide.org/)
+* [developers.google.com/sheets/api/quickstart/python](https://developers.google.com/sheets/api/quickstart/python)
+* [bpython-interpreter.org/](https://bpython-interpreter.org/)
+* [spyder-ide.org](https://www.spyder-ide.org/)
 * [hauntsaninja/pyp: Easily run Python at the shell! Magical, but never mysterious.](https://github.com/hauntsaninja/pyp)
 * [darts](https://unit8co.github.io/darts/)
 * [pdm](https://github.com/pdm-project/pdm)
@@ -106,20 +106,20 @@ Two Scoops of Django 3.x: Best Practices for the Django Web Framework
 * [Quick Start — The Hitchhiker's Guide to Packaging 1.0 documentation](https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/quickstart.html)
 * [Laziness in Python - Computerphile](https://www.youtube.com/watch?v=5jwV3zxXc8E&list=PLVWtXi_Jrj_14rUJDWFEvyhOmYF2JdHmk&index=48)**
 * [Tutorial: Debugging your Python Applications with pdb - YouTube](https://www.youtube.com/watch?v=bZZTeKPRSLQ)
-* https://www.kareemalkaseer.com/
+* [kareemalkaseer.com/](https://www.kareemalkaseer.com/)
 * [Python in a Nutshell, 4th Edition](https://de.de1lib.org/book/19084903/7bd1da)
-* https://bookflow.ru/spisok-voprosov-s-sobesedovanij-po-python/
+* [bookflow.ru/spisok-voprosov-s-sobesedovanij-po-python/](https://bookflow.ru/spisok-voprosov-s-sobesedovanij-po-python/)
 
 
 ## Python and C/C++
-* https://docs.python.org/fr/3/c-api/intro.html
-* https://docs.python.org/fr/3/extending/extending.html#extending-simpleexample
-* https://realpython.com/build-python-c-extension-module/
-* https://tutorialedge.net/python/python-c-extensions-tutorial/
-* https://www.tutorialspoint.com/python/python_further_extensions.htm
-* https://opensource.com/article/18/4/introduction-python-bytecode
-* https://realpython.com/cpython-source-code-guide/
-* http://www.yolinux.com/TUTORIALS/LibraryArchives-StaticAndDynamic.html
+* [docs.python.org/fr/3/c-api/intro.html](https://docs.python.org/fr/3/c-api/intro.html)
+* [docs.python.org/fr/3/extending/extending.html#extending-simpleexample](https://docs.python.org/fr/3/extending/extending.html#extending-simpleexample)
+* [realpython.com/build-python-c-extension-module/](https://realpython.com/build-python-c-extension-module/)
+* [tutorialedge.net/python/python-c-extensions-tutorial/](https://tutorialedge.net/python/python-c-extensions-tutorial/)
+* [tutorialspoint.com/python/python_further_extensions.htm](https://www.tutorialspoint.com/python/python_further_extensions.htm)
+* [opensource.com/article/18/4/introduction-python-bytecode](https://opensource.com/article/18/4/introduction-python-bytecode)
+* [realpython.com/cpython-source-code-guide/](https://realpython.com/cpython-source-code-guide/)
+* [yolinux.com/TUTORIALS/LibraryArchives-StaticAndDynamic.html](http://www.yolinux.com/TUTORIALS/LibraryArchives-StaticAndDynamic.html)
 
 
 ## Jupyter
@@ -158,26 +158,26 @@ Two Scoops of Django 3.x: Best Practices for the Django Web Framework
 * [Kernel not detected by jupyter · Issue #1094 · gibiansky/IHaskell](https://github.com/gibiansky/IHaskell/issues/1094)
 *Run Jupyter Notebook script from terminal – Deep Learning Garden
 * [Hydrogen: Interactive computing in Atom – nteract](https://blog.nteract.io/hydrogen-interactive-computing-in-atom-89d291bcc4dd)
-* https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
+* [dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 * [IPython_notebook](http://nbviewer.jupyter.org/github/nicolasfauchereau/Python_NIWA_Wellington/blob/master/notebooks/IPython_notebook.html)
 
 
 ## Regex
-* https://openclassrooms.com/courses/apprenez-a-programmer-en-python/les-expressions-regulieres
-* https://www.python-course.eu/re.php
-* https://regex101.com/
-* http://www.rexegg.com/
-* http://www.pyregex.com/
-* https://regexr.com/
-* https://www.regexone.com/
-* https://learncodethehardway.org/regex/
-* http://www.python.it/doc/howto/Regex/regex-it/regex-it.html
-* https://regexcrossword.com/
-* http://fetedoris.com/regex-game/
-* http://play.inginf.units.it/#/
-* http://regex.inginf.units.it/
-* http://www.regular-expressions.info/optional.html
-* https://pythex.org/
+* [openclassrooms.com/courses/apprenez-a-programmer-en-python/les-expressions-regulieres](https://openclassrooms.com/courses/apprenez-a-programmer-en-python/les-expressions-regulieres)
+* [python-course.eu/re.php](https://www.python-course.eu/re.php)
+* [regex101.com/](https://regex101.com/)
+* [rexegg.com/](http://www.rexegg.com/)
+* [pyregex.com/](http://www.pyregex.com/)
+* [regexr.com/](https://regexr.com/)
+* [regexone.com/](https://www.regexone.com/)
+* [learncodethehardway.org/regex/](https://learncodethehardway.org/regex/)
+* [python.it/doc/howto/Regex/regex-it/regex-it.html](http://www.python.it/doc/howto/Regex/regex-it/regex-it.html)
+* [regexcrossword.com/](https://regexcrossword.com/)
+* [fetedoris.com/regex-game/](http://fetedoris.com/regex-game/)
+* [play.inginf.units.it/#/](http://play.inginf.units.it/#/)
+* [regex.inginf.units.it/](http://regex.inginf.units.it/)
+* [regular-expressions.info/optional.html](http://www.regular-expressions.info/optional.html)
+* [pythex.org/](https://pythex.org/)
 * [re — Regular expression operations — Python 3.7.2rc1 documentation](https://docs.python.org/3/library/re.html)
 * [python regex by example - Поиск в Google](https://www.google.com/search?q=python+regex+by+example&rlz=1C5CHFA_enUS800US800&oq=python+regex+by+example&aqs=chrome..69i57j0l5.4250j0j7&sourceid=chrome&ie=UTF-8)
 *** re — Regular expression operations — Python 3.7.4 documentation
@@ -277,11 +277,11 @@ Two Scoops of Django 3.x: Best Practices for the Django Web Framework
 
 
 ## Package List
-* https://github.com/mesejo/trex
-* https://cleo.readthedocs.io/en/latest/
-* https://pexpect.readthedocs.io/en/stable/index.html
-* https://volian.org/pyshell/
-* https://explosion.ai/software
+* [mesejo/trex](https://github.com/mesejo/trex)
+* [cleo.readthedocs.io/en/latest/](https://cleo.readthedocs.io/en/latest/)
+* [pexpect.readthedocs.io/en/stable/index.html](https://pexpect.readthedocs.io/en/stable/index.html)
+* [volian.org/pyshell/](https://volian.org/pyshell/)
+* [explosion.ai/software](https://explosion.ai/software)
 * [_cffi_backend.cpython-310-x86_64-linux-gnu.so](http://_cffi_backend.cpython-310-x86_64-linux-gnu.so/)
 * [_dlib_pybind11.cpython-310-x86_64-linux-gnu.so](http://_dlib_pybind11.cpython-310-x86_64-linux-gnu.so/)
 * [_ruamel_yaml.cpython-310-x86_64-linux-gnu.so](http://_ruamel_yaml.cpython-310-x86_64-linux-gnu.so/)
@@ -847,12 +847,12 @@ Two Scoops of Django 3.x: Best Practices for the Django Web Framework
 
 ## Projects
 
-look through: https://learnbyexample.github.io/practice_python_projects/
+look through: [learnbyexample.github.io/practice_python_projects/](https://learnbyexample.github.io/practice_python_projects/)
 * [Build a Command-Line To-Do App With Python and Typer – Real Python](https://realpython.com/python-typer-cli/)
 * [How to Build Your Very First Python Package](https://www.freecodecamp.org/news/build-your-first-python-package/)
 * [brean/python-pathfinding: Implementation of common pathfinding algorithms](https://github.com/brean/python-pathfinding)
 * [Python Resume Projects - You Can Finish in a Weekend](https://youtu.be/jl5yUEdekEM)
-* https://www.freecodecamp.org/news/learn-how-to-build-12-python-projects-in-one-course/
+* [freecodecamp.org/news/learn-how-to-build-12-python-projects-in-one-course/](https://www.freecodecamp.org/news/learn-how-to-build-12-python-projects-in-one-course/)
 
 
 ## 1-shot Video & Podcast
@@ -885,89 +885,89 @@ Demystifying Python’s Internals - YouTube
 * [Продвинутое программирование на Python](http://cs.mipt.ru/advanced_python)
 * [Learn Python With Jupyter](https://pycoders.com/link/10766/mkivfelsav) - This freely available book in PDF format teaches you how to write Python using a Jupyter Notebook. The language is introduced through a series of exercises so you can code along as you learn.
 * [Learn Python with Jupyter](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=26e389a3c2&e=501d687f26) - A free course book to develop computational thinking while learning to code.
-* https://github.com/PythonProgramming/Python-3-basics-series
-* https://www.python-course.eu/advanced_topics.php
+* [PythonProgramming/Python-3-basics-series](https://github.com/PythonProgramming/Python-3-basics-series)
+* [python-course.eu/advanced_topics.php](https://www.python-course.eu/advanced_topics.php)
 * [Learn Python (Programming Tutorial for Beginners)](https://www.programiz.com/python-programming)
-* https://github.com/doingmathwithpython/code/blob/master/chapter1/Chapter1.ipynb
-* https://www.freecodecamp.org/news/algorithmic-trading-using-python-course/
-* https://www.ics.uci.edu/~pattis/ICS-33/index.html
+* [doingmathwithpython/code/blob/master/chapter1/Chapter1.ipynb](https://github.com/doingmathwithpython/code/blob/master/chapter1/Chapter1.ipynb)
+* [freecodecamp.org/news/algorithmic-trading-using-python-course/](https://www.freecodecamp.org/news/algorithmic-trading-using-python-course/)
+* [ics.uci.edu/~pattis/ICS-33/index.html](https://www.ics.uci.edu/~pattis/ICS-33/index.html)
 
 
 ## Media & People
 * [learnbyexample](https://learnbyexample.github.io/)
 * [Proceedings of the Python in Science Conferences](https://conference.scipy.org/proceedings/)
-* https://pythonspeed.com/
+* [pythonspeed.com/](https://pythonspeed.com/)
 * [Python Biella Group :: Python Biella Group](https://pythonbiellagroup.it/en/)
-* https://blog.pypi.org/
-* https://finxter.com/
-* https://death.andgravity.com/
-* https://inventwithpython.com/
-* https://www.meetup.com/heidelbergpython/
-* https://www.pythonmorsels.com/
-* [https://www.learnpython.org](https://www.learnpython.org/)
+* [blog.pypi.org/](https://blog.pypi.org/)
+* [finxter.com/](https://finxter.com/)
+* [death.andgravity.com/](https://death.andgravity.com/)
+* [inventwithpython.com/](https://inventwithpython.com/)
+* [meetup.com/heidelbergpython/](https://www.meetup.com/heidelbergpython/)
+* [pythonmorsels.com/](https://www.pythonmorsels.com/)
+* [learnpython.org](https://www.learnpython.org/)
 * [Advanced Python Tutorials – Real Python](https://realpython.com/tutorials/advanced/)
 * [Python Tips](https://book.pythontips.com/en/latest/#)
-* https://chrisalbon.com/
+* [chrisalbon.com/](https://chrisalbon.com/)
 * [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
-* https://python-guide-pt-br.readthedocs.io/pt_BR/latest/
-* https://diveintopython3.net/
-* http://www.learntosolveit.com/
+* [python-guide-pt-br.readthedocs.io/pt_BR/latest/](https://python-guide-pt-br.readthedocs.io/pt_BR/latest/)
+* [diveintopython3.net/](https://diveintopython3.net/)
+* [learntosolveit.com/](http://www.learntosolveit.com/)
 
 
 ## Docs
-* https://docs.python.org/3.11/whatsnew/3.0.html
-* [https://docs.python.org/3.11/whatsnew/3.1.html](https://docs.python.org/3.11/whatsnew/3.0.html)
-* [https://docs.python.org/3.11/whatsnew/3.2.html](https://docs.python.org/3.11/whatsnew/3.0.html)
-* [https://docs.python.org/3.11/whatsnew/3.3.html](https://docs.python.org/3.11/whatsnew/3.0.html)
-* [https://docs.python.org/3.11/whatsnew/3.4.html](https://docs.python.org/3.11/whatsnew/3.0.html)
-* [https://docs.python.org/3.11/whatsnew/3.5.html](https://docs.python.org/3.11/whatsnew/3.0.html)
-* [https://docs.python.org/3.11/whatsnew/3.6.html](https://docs.python.org/3.11/whatsnew/3.0.html)
-* [https://docs.python.org/3.11/whatsnew/3.7.html](https://docs.python.org/3.11/whatsnew/3.0.html)
-* [https://docs.python.org/3.11/whatsnew/3.8.html](https://docs.python.org/3.11/whatsnew/3.0.html)
-* [https://docs.python.org/3.11/whatsnew/3.9.html](https://docs.python.org/3.11/whatsnew/3.0.html)
-* [https://docs.python.org/3.11/whatsnew/3.10.html](https://docs.python.org/3.11/whatsnew/3.0.html)
-* [https://docs.python.org/3.11/whatsnew/3.11.html](https://docs.python.org/3.11/whatsnew/3.0.html)
-* [https://docs.python.org/3.11/whatsnew/3.12.html](https://docs.python.org/3.11/whatsnew/3.0.html)
+* [docs.python.org/3.11/whatsnew/3.0.html](https://docs.python.org/3.11/whatsnew/3.0.html)
+* [docs.python.org/3.11/whatsnew/3.1.html](https://docs.python.org/3.11/whatsnew/3.0.html)
+* [docs.python.org/3.11/whatsnew/3.2.html](https://docs.python.org/3.11/whatsnew/3.0.html)
+* [docs.python.org/3.11/whatsnew/3.3.html](https://docs.python.org/3.11/whatsnew/3.0.html)
+* [docs.python.org/3.11/whatsnew/3.4.html](https://docs.python.org/3.11/whatsnew/3.0.html)
+* [docs.python.org/3.11/whatsnew/3.5.html](https://docs.python.org/3.11/whatsnew/3.0.html)
+* [docs.python.org/3.11/whatsnew/3.6.html](https://docs.python.org/3.11/whatsnew/3.0.html)
+* [docs.python.org/3.11/whatsnew/3.7.html](https://docs.python.org/3.11/whatsnew/3.0.html)
+* [docs.python.org/3.11/whatsnew/3.8.html](https://docs.python.org/3.11/whatsnew/3.0.html)
+* [docs.python.org/3.11/whatsnew/3.9.html](https://docs.python.org/3.11/whatsnew/3.0.html)
+* [docs.python.org/3.11/whatsnew/3.10.html](https://docs.python.org/3.11/whatsnew/3.0.html)
+* [docs.python.org/3.11/whatsnew/3.11.html](https://docs.python.org/3.11/whatsnew/3.0.html)
+* [docs.python.org/3.11/whatsnew/3.12.html](https://docs.python.org/3.11/whatsnew/3.0.html)
 * [What’s New In Python 3.11 — Python 3.11.2 documentation](https://docs.python.org/3/whatsnew/3.11.html)
-* https://docs.python.org/fr/3/faq/programming.html
+* [docs.python.org/fr/3/faq/programming.html](https://docs.python.org/fr/3/faq/programming.html)
 * [Survol de la bibliothèque standard](https://docs.python.org/3/tutorial/stdlib.html)
 * [Python Documentation Index | Python.org](https://www.python.org/doc/essays/)
 
 
 ## Books
 
-speedread: https://learnbyexample.github.io/100_page_python_intro/
+speedread: [learnbyexample.github.io/100_page_python_intro/](https://learnbyexample.github.io/100_page_python_intro/)
 * [Crafting Test-Driven Software with Python: Write test suites that scale with your applications needs and complexity, using Python and PyTest](http://library.lol/main/9272ED92EC95D7D9A7D160593E92985A)
 * [Python Testing with pytest: Simple, Rapid, Effective, and Scalable](http://library.lol/main/54FFFD72522BFD9BF09C1C2195F83FE3)
 * [Think Python Vocabulary](https://ankiweb.net/shared/info/1021974894)
 * [Python for Fun](http://www.openbookproject.net/py4fun/)
-* https://automatetheboringstuff.com/
+* [automatetheboringstuff.com/](https://automatetheboringstuff.com/)
 * [Le guide de l’auto-stoppeur pour Python! — The Hitchhiker's Guide to Python](https://python-guide-fr.readthedocs.io/fr/latest/)
-* https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf
-* https://python-guide-fr.readthedocs.io/fr/latest/
+* [launchpadlibrarian.net/18980633/Python%20para%20todos.pdf](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf)
+* [python-guide-fr.readthedocs.io/fr/latest/](https://python-guide-fr.readthedocs.io/fr/latest/)
 * [Dive Into Python 3](http://www.diveintopython3.net/index.html)
-* http://greenteapress.com/thinkpython2/thinkpython2.pdf
-* http://greenteapress.com/wp/think-python-2e/
-* https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf
-* http://www.diveintopython3.net/index.html
-* https://automatetheboringstuff.com/
-* http://www.openbookproject.net/books/pythonds/
-* http://book.pythontips.com/en/latest/#
-* https://pythonprogramming.net/
-* https://pythonworld.ru/
+* [greenteapress.com/thinkpython2/thinkpython2.pdf](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
+* [greenteapress.com/wp/think-python-2e/](http://greenteapress.com/wp/think-python-2e/)
+* [argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf)
+* [diveintopython3.net/index.html](http://www.diveintopython3.net/index.html)
+* [automatetheboringstuff.com/](https://automatetheboringstuff.com/)
+* [openbookproject.net/books/pythonds/](http://www.openbookproject.net/books/pythonds/)
+* [book.pythontips.com/en/latest/#](http://book.pythontips.com/en/latest/#)
+* [pythonprogramming.net/](https://pythonprogramming.net/)
+* [pythonworld.ru/](https://pythonworld.ru/)
 
 Python for Data Analysis
 * [Python Programming Fundamentals_Kent D. Lee_2nd ed. 2014](http://link.springer.com/openurl?genre=book&isbn=978-1-4471-6642-9)
-* https://fr.wikibooks.org/wiki/Math%C3%A9matiques_avec_Python_et_Ruby
+* [fr.wikibooks.org/wiki/Math%C3%A9matiques_avec_Python_et_Ruby](https://fr.wikibooks.org/wiki/Math%C3%A9matiques_avec_Python_et_Ruby)
 * [Architecture Patterns with Python.](http://library.lol/main/3C25B72C2A1F697493D2154568C2548A)
 * [Library Genesis: Alessandro Molina - Modern Python Standard Library Cookbook: Over 100 recipes to fully leverage the features of the standard library in Python](https://libgen.is/book/index.php?md5=C45C70F0637A718A1A5A4C6BD370AA20)
 * [Python Essential](https://vk.com/wall-16108331_152760)
 * [high performance python books](http://libgen.rs/search.php?&req=high+performance+python&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
-* http://www.openbookproject.net/books/
+* [openbookproject.net/books/](http://www.openbookproject.net/books/)
 * [Python: от новичка до профи](https://vk.com/@myironcomp-python-ot-novichka-do-profi)
 * [Byte of Python](https://python.swaroopch.com/)
 * [Apprendre à programmer avec Python 3](https://inforef.be/swi/download/apprendre_python3_5.pdf)
-* https://libgen.is/search.php?&req=Python&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+* [libgen.is/search.php?&req=Python&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](https://libgen.is/search.php?&req=Python&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 * [Python. Справочник. Полное описание языка, 3-е издание [2019] Мартелли.pdf](https://vk.com/doc44301783_518214352?hash=3d30c5e24db6a1fd54&dl=8f58cd59702d4ac6f9)
 
 The Hacker’s Guide to Scaling Python. Julien Danjou
@@ -982,16 +982,16 @@ The Hacker’s Guide to Scaling Python. Julien Danjou
 * [> PT](https://www.homeyou.com/~edu/introducao)
 * [> RU](http://svp.pp.ua/AByteOfPython/toc.html)
 * [eResearch cookbook - 2 minute recipes for scientists](https://uoa-eresearch.github.io/eresearch-cookbook/)
-* https://python.swaroopch.com/translations.html
+* [python.swaroopch.com/translations.html](https://python.swaroopch.com/translations.html)
 * [Einführung in die Programmierung für Computerlinguisten mit Python](https://www.cis.uni-muenchen.de/kurse/max/einfprog/scripten/python.pdf)
 * [Practical Programming: An Introduction to Computer Science Using Python 3.6 | Paul Gries, Jennifer Campbell, Jason Montojo | download](https://b-ok.cc/book/3694923/796ad5)
-* http://openbookproject.net/thinkcs/python/english3e/
+* [openbookproject.net/thinkcs/python/english3e/](http://openbookproject.net/thinkcs/python/english3e/)
 * [Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html)
 
 Classic Computer Science Problems in Python ( David Kopec ). Manning Publications 2019
 * [Data Structures and Algorithms with Python_Kent D. Lee, Steve Hubbard_2015](http://link.springer.com/openurl?genre=book&isbn=978-3-319-13072-9)
-* https://github.com/AllenDowney/ThinkPythonItalian/blob/master/thinkpython_italian.pdf
-* http://ralsina.gitlab.io/boxes-book/
+* [AllenDowney/ThinkPythonItalian/blob/master/thinkpython_italian.pdf](https://github.com/AllenDowney/ThinkPythonItalian/blob/master/thinkpython_italian.pdf)
+* [ralsina.gitlab.io/boxes-book/](http://ralsina.gitlab.io/boxes-book/)
 * [Introduction to Digital Music with Python Programming: Learning Music with Code](http://library.lol/main/F8211830599A086D7AFB3D8575BB2EBE)**
 *Introduction to Programming in Python: An Interdisciplinary Approach
 * [Introduction to Programming in Python: An Interdisciplinary Approach](https://b-ok.cc/book/5555848/45253a)
@@ -1001,7 +1001,7 @@ Classic Computer Science Problems in Python ( David Kopec ). Manning Publication
 **Erste Schritte — Introduction to Programming with Python
 * [Elementary Mechanics Using Python_Anders Malthe-Sørenssen_2015](http://link.springer.com/openurl?genre=book&isbn=978-3-319-19596-4)
 * [Python For ArcGIS_Laura Tateosian_1st ed. 2015](http://link.springer.com/openurl?genre=book&isbn=978-3-319-18398-5)
-* https://python-textbok.readthedocs.io/en/1.0/
+* [python-textbok.readthedocs.io/en/1.0/](https://python-textbok.readthedocs.io/en/1.0/)
 * [A Python Book: Beginning Python, Advanced Python, and Python Exercises](http://library.lol/main/CD2CB86351480A1FF50B95F008CC9552)
 * [Advanced Guide to Python 3 Programming_John Hunt_1st ed. 2019](http://link.springer.com/openurl?genre=book&isbn=978-3-030-25943-3)
 * [Pro Python 3: Features and Tools for Professional Development](https://b-ok.cc/book/3712833/c8b7bd)
@@ -1009,10 +1009,10 @@ Classic Computer Science Problems in Python ( David Kopec ). Manning Publication
 Effective Python : 90 specific ways to write better Python, Brett Slatkin (2020) || It’s easy to start developing programs with Python, which is why the language is so popular. However, Python’s unique strengths, charms, and expressiveness can be hard to grasp, and there are hidden pitfalls that can easily trip you up. || This second edition of Effective Python will help you master a truly “Pythonic” approach to programming, harnessing Python’s full power to write exceptionally robust and well-performing code. Using the concise, scenario-driven style pioneered in Scott Meyers’ best-selling Effective C++, Brett Slatkin brings together 90 Python best practices, tips, and shortcuts, and explains them with realistic code examples so that you can embrace Python with confidence.
 
 Python Scripting for Computational Science
-* https://www.amazon.com/Guide-NumPy-Travis-Oliphant-PhD/dp/151730007X
-* https://libgen.is/search.php?&req=python+data+science&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
-* https://book.pythontips.com/en/latest/index.html
-* https://github.com/jorgelespinoza/ThinkPython2-spanish
+* [amazon.com/Guide-NumPy-Travis-Oliphant-PhD/dp/151730007X](https://www.amazon.com/Guide-NumPy-Travis-Oliphant-PhD/dp/151730007X)
+* [libgen.is/search.php?&req=python+data+science&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](https://libgen.is/search.php?&req=python+data+science&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
+* [book.pythontips.com/en/latest/index.html](https://book.pythontips.com/en/latest/index.html)
+* [jorgelespinoza/ThinkPython2-spanish](https://github.com/jorgelespinoza/ThinkPython2-spanish)
 * [Python - Wikilibros](https://es.wikibooks.org/wiki/Python)
 * [http://gpiancastelli.altervista.org/dip3-it/](http://gpiancastelli.altervista.org/dip3-it/)
 
@@ -1025,27 +1025,27 @@ Python Scripting for Computational Science
 * [Python resources for everybody](https://url6652.creators.gumroad.com/ls/click?upn=56j1UXPh1eye3mggAaGeSuMN76TjtQLbF9BItIUrbWDLwa1Zjn8hVppz92CRIty-2BZjuCU-2FzKXnYznZmtxeYKvQ-3D-3DGuMZ_Ok-2F1QZUoWNfwArWx1OpnKP3rAR9xqW9UxFasc9TFWJtpfu3uN9QXWSEVAiG0giAEROyvE0zQOoXOiiMDVg4Fsq8w6Zs8rGdSbMZD2aBXb5i4uoFNj8XsEA7mtMBFVWqsHQLLA9n-2FyBw-2B740Etvomb821njsZo-2FgP0zcqnJjpUTUsJZFzEBz3QJ-2BAbvJzuYwk5N-2FuivlVvEu5roljSBqYyh6TJgBLGmtbjdXyAjgr5b7vBC0YxiNMYbhh8IiWv6Yc0LWn7rWamkGIaSpf7y9TOp036hdbiRQQ0GA-2Bs2NN37Z3tNQeXbHK3InYu7CEtjCbDdEBQE6Zl3XEIMoM2notbbnZfipJsICkN-2BrZMGxx8z2eeYWL4uQXBQmYUM5lxiq4qGRAhIqtQ6OLBOnXtjuj1-2Bo5Y84-2B8vERrsj8KHxTTp2eBRXpGFYhQmvsCaSN5CvT2esKf2-2BDjoLV27X7xsMZ4sWkcvk1SZwakiEeXeOnZs2oJ04vqyFLQPcVp1GegqlRg7FLA2yrjnuNDO65wkhn4LfgNcaLOhPX4oIJTwTwMOo-3D) — books, interactive websites, courses, exercises, projects, debugging, testing, cheatsheets, algorithms, domain specific resources like
 
 machine learning, web development, data science, etc
-* https://www.modular.com/blog/mojo-its-finally-here
-* https://realpython.com/podcasts/rpp/175/
-* https://realpython.com/python312-new-features/
+* [modular.com/blog/mojo-its-finally-here](https://www.modular.com/blog/mojo-its-finally-here)
+* [realpython.com/podcasts/rpp/175/](https://realpython.com/podcasts/rpp/175/)
+* [realpython.com/python312-new-features/](https://realpython.com/python312-new-features/)
 * [Mojo 🔥: Programming language for all of AI](https://www.modular.com/mojo)
 * [Modular Docs - Mojo🔥](https://docs.modular.com/mojo/)
 * [Modular Docs - Mojo🔥 FAQ](https://docs.modular.com/mojo/faq.html#distribution)
 * [Modular Docs - Mojo🔥 programming manual](https://docs.modular.com/mojo/programming-manual.html)
 * [HelloMojo.ipynb - JupyterLab](https://playground.modular.com/user/isaac.r.riley@gmail.com/lab/tree/HelloMojo.ipynb)
-* https://blog.logrocket.com/getting-started-mojo-programming-language/
+* [blog.logrocket.com/getting-started-mojo-programming-language/](https://blog.logrocket.com/getting-started-mojo-programming-language/)
 * [4. Map, Filter and Reduce — Python Tips 0.1 documentation](http://book.pythontips.com/en/latest/map_filter.html)
 * [Testing whether a Python string contains an integer | tdhopper.com](https://tdhopper.com/blog/testing-whether-a-python-string-contains-an-integer/)
-* https://docs.python.org/3/tutorial/classes.html
-* https://google.github.io/pytype/
-* https://pyre-check.org/
+* [docs.python.org/3/tutorial/classes.html](https://docs.python.org/3/tutorial/classes.html)
+* [google.github.io/pytype/](https://google.github.io/pytype/)
+* [pyre-check.org/](https://pyre-check.org/)
 
 
 ## Misc Topics
 
 
 ## regex
-* https://learnbyexample.github.io/py_regular_expressions/
+* [learnbyexample.github.io/py_regular_expressions/](https://learnbyexample.github.io/py_regular_expressions/)
 * [Groupings and backreferences - Python re(gex)?](https://learnbyexample.github.io/py_regular_expressions/groupings-and-backreferences.html)
 * [learnbyexample/py_regular_expressions: Learn Python Regular Expressions step by step from beginner to advanced levels](https://github.com/learnbyexample/py_regular_expressions)
 * [Preface - Understanding Python re(gex)?](https://learnbyexample.github.io/py_regular_expressions/preface.html)
@@ -1053,10 +1053,10 @@ machine learning, web development, data science, etc
 
 ## Packaging
 
-* https://dagster.io/blog/python-packages-primer-1
+* [dagster.io/blog/python-packages-primer-1](https://dagster.io/blog/python-packages-primer-1)
 * [pyinstaller/pyinstaller: Freeze (package) Python programs into stand-alone executables](https://github.com/pyinstaller/pyinstaller)
 * [Packaging a python library | ionel's codelog](https://blog.ionelmc.ro/2014/05/25/python-packaging/)
-* https://github.com/pypa/build
+* [pypa/build](https://github.com/pypa/build)
 * [Multiple related programs: one `pyproject.toml`, or multiple projects? - Packaging - Discussions on Python.org](https://discuss.python.org/t/multiple-related-programs-one-pyproject-toml-or-multiple-projects/17427/5)
 
 
@@ -1085,11 +1085,11 @@ machine learning, web development, data science, etc
 
 ## Software and Libraries
 * [pydantic](https://docs.pydantic.dev/)
-* https://github.com/dynaconf/dynaconf
-* https://www.orchest.io/blog/the-great-python-dataframe-showdown-part-3-lightning-fast-queries-with-polars
+* [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf)
+* [orchest.io/blog/the-great-python-dataframe-showdown-part-3-lightning-fast-queries-with-polars](https://www.orchest.io/blog/the-great-python-dataframe-showdown-part-3-lightning-fast-queries-with-polars)
 * [facebookresearch/fvcore: Collection of common code that's shared among different research projects in FAIR computer vision team.](https://github.com/facebookresearch/fvcore)
 * [zeshuaro/vscode-poetry: Python Poetry support for VS Code to manage Poetry commands](https://github.com/zeshuaro/vscode-poetry)
-* https://github.com/rubik/hydroconf
+* [rubik/hydroconf](https://github.com/rubik/hydroconf)
 * [Commands | Documentation | Poetry - Python dependency management and packaging made easy](https://python-poetry.org/docs/cli/)
 * [pyston/pyston: A faster and highly-compatible implementation of the Python programming language.](https://github.com/pyston/pyston)
 * [mbr/latex: Python wrappers for calling LaTeX/building LaTeX documents.](https://github.com/mbr/latex)
@@ -1100,28 +1100,28 @@ machine learning, web development, data science, etc
 * [alexfikl/pyshocks: Automatic Differentiation + Adjoint + Shocks Experiments](https://github.com/alexfikl/pyshocks)
 * [API Reference — more-itertools 9.0.0 documentation](https://more-itertools.readthedocs.io/en/stable/api.html#more_itertools.chunked)
 * [CoCo - A Python Virtual Machine](https://kentdlee.github.io/CoCoPages/)
-* https://github.com/nat-n/poethepoet
+* [nat-n/poethepoet](https://github.com/nat-n/poethepoet)
 * [pyenv/pyenv: Simple Python version management](https://github.com/pyenv/pyenv)
 * [PyRegex: App Reviews, Features, Pricing & Download | AlternativeTo](https://alternativeto.net/software/pyregex/about/)
 * [brechtm/rinohtype: The Python document processor](https://github.com/brechtm/rinohtype)
 * [A First Look at Neon](https://dzone.com/articles/a-first-look-at-neon?fromrel=true)
 * [pyproject-api docs](https://pyproject-api.readthedocs.io/en/latest/)
 * [What Is Pydantic?](https://dzone.com/articles/what-is-pydantic-1)
-* [SpyridonLaz/Coursaros: Download videos and subtitles from https://edx.org to your computer easily.](https://github.com/SpyridonLaz/Coursaros)
+* [SpyridonLaz/Coursaros: Download videos and subtitles from [edx.org](https://edx.org) to your computer easily.](https://github.com/SpyridonLaz/Coursaros)
 * [apparebit/konsole: Readable, pleasing console output for Python](https://github.com/apparebit/konsole)
-* https://github.com/chris-alexiuk/alpaca-lora
-* https://twine.readthedocs.io/en/stable/
-* https://twinery.org/
-* https://github.com/fatiando/pooch
-* https://github.com/npiv/chatblade
-* https://github.com/zauberzeug/nicegui
-* https://mypy.readthedocs.io/en/stable/index.html
-* https://madhu.ink/5v/talkweb
-* https://github.com/exaloop/codon
-* https://github.com/aminalaee/uuid-utils
+* [chris-alexiuk/alpaca-lora](https://github.com/chris-alexiuk/alpaca-lora)
+* [twine.readthedocs.io/en/stable/](https://twine.readthedocs.io/en/stable/)
+* [twinery.org/](https://twinery.org/)
+* [fatiando/pooch](https://github.com/fatiando/pooch)
+* [npiv/chatblade](https://github.com/npiv/chatblade)
+* [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui)
+* [mypy.readthedocs.io/en/stable/index.html](https://mypy.readthedocs.io/en/stable/index.html)
+* [madhu.ink/5v/talkweb](https://madhu.ink/5v/talkweb)
+* [exaloop/codon](https://github.com/exaloop/codon)
+* [aminalaee/uuid-utils](https://github.com/aminalaee/uuid-utils)
 * [attrs 22.2.0 documentation](https://www.attrs.org/en/stable/)
-* http://pyde.org/
-* https://minireference.com/static/tutorials/sympy_tutorial.pdf
+* [pyde.org/](http://pyde.org/)
+* [minireference.com/static/tutorials/sympy_tutorial.pdf](https://minireference.com/static/tutorials/sympy_tutorial.pdf)
 * [sys — System-specific parameters and functions — Python 3.11.2 documentation](https://docs.python.org/3/library/sys.html)
 * [contextlib — Utilities for with-statement contexts — Python 3.11.2 documentation](https://docs.python.org/3/library/contextlib.html)
 * [pyenv/pyenv: Simple Python version management](https://github.com/pyenv/pyenv)
@@ -1133,13 +1133,13 @@ datetime — Basic date and time types — Python 3.11.2 documentation
 * [Commands | Documentation | Poetry - Python dependency management and packaging made easy](https://python-poetry.org/docs/cli/#lock)
 * [PyZMQ Documentation — PyZMQ 25.1.0.dev documentation](https://pyzmq.readthedocs.io/en/latest/)
 * [Welcome to Bandit — Bandit documentation](https://bandit.readthedocs.io/en/latest/)
-* https://github.com/pyenv/pyenv-installer
-* https://github.com/pyenv/pyenv
-* https://jython.readthedocs.io/en/latest/
+* [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer)
+* [pyenv/pyenv](https://github.com/pyenv/pyenv)
+* [jython.readthedocs.io/en/latest/](https://jython.readthedocs.io/en/latest/)
 * [GitHub - vinta/awesome-python: A curated list of awesome Python frameworks, libraries, software and resources](https://github.com/vinta/awesome-python)
 * [Introducing Grasshopper: A Python Load Testing Library](https://pycoders.com/link/10759/mkivfelsav)
 * [Locust](https://pycoders.com/link/10793/mkivfelsav)
-* https://sbarnea.com/lint/black/
+* [sbarnea.com/lint/black/](https://sbarnea.com/lint/black/)
 * [Tabby](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=a8e39fa375&e=501d687f26) - Self-hosted AI coding assistant. An opensource / on-prem alternative to GitHub Copilot.
 * [Shap-E](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=48328a54f5&e=501d687f26) - Generate 3D objects conditioned on text or images.
 * [AutoFinetune](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=d647781c02&e=501d687f26) - TuneAI or "autoFinetune" is an effortless way to fine tune an OpenAI model based on YouTube or text input. Automating transcript cleaning & prompt-completion pair generation
@@ -1194,45 +1194,45 @@ datetime — Basic date and time types — Python 3.11.2 documentation
 
 ## Tools and Resources
 * [Using Python Environments in Visual Studio Code](https://code.visualstudio.com/docs/python/environments)
-* https://semgrep.dev/
-* https://www.spyder-ide.org/
+* [semgrep.dev/](https://semgrep.dev/)
+* [spyder-ide.org/](https://www.spyder-ide.org/)
 * [Ochrona Security](https://ochrona.dev/)
 
 
 ## 1-shot blog posts
-* [https://duckduckgo.com/?q=Программирование+на+Python+с+использованием+шаблонов+проектирования&ia=web](https://duckduckgo.com/?q=%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%BD%D0%B0+Python+%D1%81+%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC+%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F&ia=web)
+* [duckduckgo.com/?q=Программирование+на+Python+с+использованием+шаблонов+проектирования&ia=web](https://duckduckgo.com/?q=%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%BD%D0%B0+Python+%D1%81+%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC+%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F&ia=web)
 * [Python behind the scenes #1: how the CPython VM works](https://tenthousandmeters.com/blog/python-behind-the-scenes-1-how-the-cpython-vm-works/)
 * [Calling C Functions from Python | DigitalOcean](https://www.digitalocean.com/community/tutorials/calling-c-functions-from-python#:~:text=We%20can%20call%20a%20C,program%20using%20the%20ctypes%20module.)
 * [An introduction to Python bytecode](https://opensource.com/article/18/4/introduction-python-bytecode)
 * [Getting Started With Property-Based Testing in Python With Hypothesis and Pytest - Semaphore](https://semaphoreci.com/blog/property-based-testing-python-hypothesis-pytest)
 * [Python 3's f-Strings: An Improved String Formatting Syntax (Guide) – Real Python](https://realpython.com/python-f-strings/)
-* https://towardsdatascience.com/comparing-list-comprehensions-vs-built-in-functions-in-python-which-is-better-1e2c9646fafe
+* [towardsdatascience.com/comparing-list-comprehensions-vs-built-in-functions-in-python-which-is-better-1e2c9646fafe](https://towardsdatascience.com/comparing-list-comprehensions-vs-built-in-functions-in-python-which-is-better-1e2c9646fafe)
 * [Managing virtual environments with pyenv | by Bartosz Telenczuk | Towards Data Science](https://towardsdatascience.com/managing-virtual-environment-with-pyenv-ae6f3fb835f8)
 * [The most 50 valuable charts drawn by Python Part V | by Ben Hui | Feb, 2023 | Towards Dev](https://towardsdev.com/the-most-50-valuable-charts-drawn-by-python-part-v-d842a2fb24df)
 * [Python Release Python 3.12.0a4 | Python.org](https://www.python.org/downloads/release/python-3120a4/)
 * [Snyk Top 10: Python OSS Vulnerabilities](https://go.snyk.io/snyk-top-10-python-open-source-vulnerabilities.html)
 * [No-async async with Python](https://textual.textualize.io/blog/2023/03/15/no-async-async-with-python/)
 * [Reduce - The Power of a Single Python Function](https://martinheinz.dev/blog/93)
-* https://pythonspeed.com/articles/faster-text-processing/
-* https://sourcery.ai/blog/pandas-inplace/
+* [pythonspeed.com/articles/faster-text-processing/](https://pythonspeed.com/articles/faster-text-processing/)
+* [sourcery.ai/blog/pandas-inplace/](https://sourcery.ai/blog/pandas-inplace/)
 * [Boring Python: code quality](https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/)
 * [Boring Python: dependency management](https://www.b-list.org/weblog/2022/may/13/boring-python-dependencies/)
 * [16. Appendix — Python 3.11.1 documentation](https://docs.python.org/3/tutorial/appendix.html#the-interactive-startup-file)
 * [Python Class Attributes: Examples of Variables | Toptal®](https://www.toptal.com/python/python-class-attributes-an-overly-thorough-guide)
 * [VS Code shortcuts for efficient Python programmers](https://mathspp.com/blog/vscode-shortcuts-for-efficient-python-programmers)
-* https://realpython.com/python-maze-solver/
+* [realpython.com/python-maze-solver/](https://realpython.com/python-maze-solver/)
 * [CPython Internals: 11 Useful Resources To Learn It From Scratch](https://miguendes.me/useful-resources-to-learn-pythons-internals-from-scratch)
 * [cpython/sysmodule.c at main · python/cpython · GitHub](https://github.com/python/cpython/blob/main/Python/sysmodule.c)
 * [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 * [The Singleton — Python 3 Patterns, Recipes and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Singleton.html)
 * how to Become a Core Developer
-* https://www.cosmicpython.com/book/preface.html
-* https://realpython.com/python-namespace-package/
-* https://discuss.python.org/t/allow-comprehension-syntax-in-loop-header-of-for-loop/25864
-* https://itnext.io/dependency-injection-in-python-a1e56ab8bdd0?gi=56530679e34d
-* https://builtwithdjango.com/blog/improve-your-code-with-pre-commit
-* https://blog.janestreet.com/building-reproducible-python-environments-with-xars/
-* https://engineering.fb.com/2018/07/13/data-infrastructure/xars-a-more-efficient-open-source-system-for-self-contained-executables/
+* [cosmicpython.com/book/preface.html](https://www.cosmicpython.com/book/preface.html)
+* [realpython.com/python-namespace-package/](https://realpython.com/python-namespace-package/)
+* [discuss.python.org/t/allow-comprehension-syntax-in-loop-header-of-for-loop/25864](https://discuss.python.org/t/allow-comprehension-syntax-in-loop-header-of-for-loop/25864)
+* [itnext.io/dependency-injection-in-python-a1e56ab8bdd0?gi=56530679e34d](https://itnext.io/dependency-injection-in-python-a1e56ab8bdd0?gi=56530679e34d)
+* [builtwithdjango.com/blog/improve-your-code-with-pre-commit](https://builtwithdjango.com/blog/improve-your-code-with-pre-commit)
+* [blog.janestreet.com/building-reproducible-python-environments-with-xars/](https://blog.janestreet.com/building-reproducible-python-environments-with-xars/)
+* [engineering.fb.com/2018/07/13/data-infrastructure/xars-a-more-efficient-open-source-system-for-self-contained-executables/](https://engineering.fb.com/2018/07/13/data-infrastructure/xars-a-more-efficient-open-source-system-for-self-contained-executables/)
 * [How to print to stderr and stdout in Python? - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-print-to-stderr-and-stdout-in-python/)
 * [how many people know the core internals of python? - Google Search](https://www.google.com/search?client=firefox-b-d&q=how+many+people+know+the+core+internals+of+python%3F)
 * [Your Guide to the CPython Source Code – Real Python](https://realpython.com/cpython-source-code-guide/#compiling-cpython-linux)
@@ -1240,25 +1240,25 @@ datetime — Basic date and time types — Python 3.11.2 documentation
 * [Python Internals: An Introduction | Sourcerer Blog](https://blog.sourcerer.io/python-internals-an-introduction-d14f9f70e583)
 * [Making a singleton in Python - Python Morsels](https://www.pythonmorsels.com/making-singletons/)
 * [Singleton Pattern in Python - A Complete Guide - GeeksforGeeks](https://www.geeksforgeeks.org/singleton-pattern-in-python-a-complete-guide/)
-* https://pythonspeed.com/articles/conda-vs-pip/
+* [pythonspeed.com/articles/conda-vs-pip/](https://pythonspeed.com/articles/conda-vs-pip/)
 
 Python Type Hints - How to Use TypedDict - Adam Johnson
 * [Build Enumerations of Constants With Python's Enum – Real Python](https://realpython.com/python-enum/)
 * [How Do You Install Python?](https://pycoders.com/link/10773/mkivfelsav)
 * [Pandas Illustrated: The Definitive Visual Guide to Pandas | by Lev Maximov | Jan, 2023 | Better Programming](https://betterprogramming.pub/pandas-illustrated-the-definitive-visual-guide-to-pandas-c31fa921a43)
-* https://www.programiz.com/python-programming/methods/built-in/classmethod
-* https://www.pythonmorsels.com/any-and-all/
+* [programiz.com/python-programming/methods/built-in/classmethod](https://www.programiz.com/python-programming/methods/built-in/classmethod)
+* [pythonmorsels.com/any-and-all/](https://www.pythonmorsels.com/any-and-all/)
 * [Nine ways to shoot yourself in the foot with PostgreSQL](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=bb94f4f056&e=b5a8df9a4a) - The common thread linking most of these gotchas is scalability. They're things that won't affect you while your database is small. But if one day you want your database not to be small, it pays to think about them in advance. Otherwise they'll came back and bite you later, potentially when it's least convenient.
 * [Leverage the richness of HTTP status codes](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=b4e73b16a4&e=b5a8df9a4a)**
 * [Scaling Databases at Activision](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=1dd382d117&e=b5a8df9a4a)**
 * [Lost at SQL](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=4df3ed4955&e=b5a8df9a4a) - The SQL learning game.
 ** WTF Python
-* https://pythonspeed.com/articles/faster-text-processing/
-* https://www.python.org/dev/peps/pep-0008/
-* https://realpython.com/python-bindings-overview/
-* http://www.mrwebmaster.it/programmazione/guide/guida-python/
+* [pythonspeed.com/articles/faster-text-processing/](https://pythonspeed.com/articles/faster-text-processing/)
+* [python.org/dev/peps/pep-0008/](https://www.python.org/dev/peps/pep-0008/)
+* [realpython.com/python-bindings-overview/](https://realpython.com/python-bindings-overview/)
+* [mrwebmaster.it/programmazione/guide/guida-python/](http://www.mrwebmaster.it/programmazione/guide/guida-python/)
 * [The Ultimate Guide to Python: How to Go From Beginner to Pro](https://www.freecodecamp.org/news/the-ultimate-guide-to-python-from-beginner-to-intermediate-to-pro/)
-* https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/
+* [b-list.org/weblog/2022/dec/19/boring-python-code-quality/](https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/)
 * [Two core Unix-like utilities, sudo and su, are getting rewrites in Rust](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=6e00ce0b52&e=b5a8df9a4a) - AWS-backed group believes command is too central to the web to keep as-is.
 * [GitHub code search is generally available](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=7a91fc418c&e=b5a8df9a4a) - The world’s code is now at your fingertips.
 * [Scaling up the Prime Video audio/video monitoring service and reducing costs by 90%](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=489c4dcd33&e=b5a8df9a4a)**
@@ -1311,7 +1311,7 @@ torch.compile(...) in PyTorch 2.0, integrating a novel compiler into PyTorch is 
 * [How to Implement Screen Navigation in Your Kivy App](https://pycoders.com/link/10767/mkivfelsav) - A  step-by-step guide to implement Screen Navigation in a Kivy app. How to go from an App idea, into Screen design to full implementation. The guide also touches topics related to structuring the codebase. Plus some
  tips and tricks.
 
-py c https://habr.com/ru/company/ru_mts/blog/667568/
+py c [habr.com/ru/company/ru_mts/blog/667568/](https://habr.com/ru/company/ru_mts/blog/667568/)
 * [Django security releases issued: 4.2.1, 4.1.9, and 3.2.19](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=2a69141082&e=501d687f26)**
 * [Программирование на Python с использованием шаблонов проектирования](https://vk.com/@skladchik-rss-1457843707-2044471979)
 
@@ -1346,13 +1346,13 @@ py c https://habr.com/ru/company/ru_mts/blog/667568/
 * [How can I connect Python services to centralized logging with Kibana & Elasticsearch on my K8s cluster? - Research - IQSER Wiki](https://wiki.iqser.com/pages/viewpage.action?pageId=155616635)
 
 love='ILoveFinxter';print('n'.join([''.join([(love[(x-y)%len(love)] if ((x*0.05)2+(y*0.1)2-1)3-(x*0.05)2*(y*0.1)**3<=0 else' ') for x in range(-30,30 )]) for y in range(15, -15, -1)]))
-* https://python-poetry.org/docs/faq/
+* [python-poetry.org/docs/faq/](https://python-poetry.org/docs/faq/)
 * [poetry/_index.md at master · python-poetry/poetry](https://github.com/python-poetry/poetry/blob/master/docs/_index.md)
 * [how are the poetry docs made? - Google Search](https://www.google.com/search?client=firefox-b-d&q=how+are+the+poetry+docs+made%3F)
 
 Does Python leave its VM when calling C code?
-* https://stackoverflow.com/questions/31875/is-there-a-simple-elegant-way-to-define-singletons
-* https://www.reddit.com/r/learnpython/comments/4k7dfy/browser_based_gui_in_python_3/
+* [stackoverflow.com/questions/31875/is-there-a-simple-elegant-way-to-define-singletons](https://stackoverflow.com/questions/31875/is-there-a-simple-elegant-way-to-define-singletons)
+* [r/learnpython/comments/4k7dfy/browser_based_gui_in_python_3/](https://www.reddit.com/r/learnpython/comments/4k7dfy/browser_based_gui_in_python_3/)
 
 
 * [Building LLM applications for production](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=05128edc13&e=501d687f26)**
@@ -1520,7 +1520,7 @@ Python 3.12 will be released in October 2023. In this tutorial, you’ll preview
 SPONSOR
 * [PEP 684: “A Per-Interpreter GIL” Accepted](https://pycoders.com/link/10634/mkivfelsav)
 * [PYTHON.ORG](https://pycoders.com/link/10634/mkivfelsav)
-* [More Python Jobs >>>](https://www.pythonjobshq.com/?utm_source=newsletter&utm_campaign=pycoders572&utm_medium=email)
+* [More Python Jobs >>>](https://www.pythonjobshq.com/)
 
 
 ## Articles & Tutorials
@@ -1598,8 +1598,8 @@ This tutorial shows how to build an intelligent educational platform using OpenA
 * [PyData Denver Meetup April 2023](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=2e107a07bf&e=501d687f26)** There will be a talk, Recipe Generator: Web Scraping and ChatGPT.
 * [PyData Warsaw Meetup April 2023](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=f22a73698e&e=501d687f26)** There will be following talks
 * [A to Z of useful Python tricks](https://medium.com/@venkat3010/an-a-z-of-useful-python-tricks-master-the-language-in-no-time-4bb9c54fd732)
-* https://github.com/pylint-dev/pylint
-* https://mathspp.com/blog/module-pathlib-overview
+* [pylint-dev/pylint](https://github.com/pylint-dev/pylint)
+* [mathspp.com/blog/module-pathlib-overview](https://mathspp.com/blog/module-pathlib-overview)
 
 
 ## Packaging and Testing in Python
@@ -1618,14 +1618,14 @@ This tutorial shows how to build an intelligent educational platform using OpenA
 
 * [Python Tkinter GUI Design Using ttkbootstrap - Complete Course](https://www.youtube.com/watch?v=0tM-l_ZsxjU)
 * [Python Web Conf 2023 Talks + Tutorials](https://www.youtube.com/playlist?list=PLt4L3V8wVnF4GJb8dekLGTNx44FNIFwdv)
-* https://github.com/petobens/poet-v
-* https://www.timescale.com/blog/how-to-work-with-tim/
+* [petobens/poet-v](https://github.com/petobens/poet-v)
+* [timescale.com/blog/how-to-work-with-tim/](https://www.timescale.com/blog/how-to-work-with-tim/)
 * [The Well-Grounded Python Developer (MEAP v9)](https://annas-archive.org/md5/dedde572d82f6ce422979593027cac1d)
-* https://github.com/brython-dev/brython
+* [brython-dev/brython](https://github.com/brython-dev/brython)
 * [Publishing Python Packages](http://library.lol/main/B9B0A94B2ECE3CB5ACBB6715F9582F4D)
-* https://ancientgreekocr.org/
-* https://treykeown.github.io/arguably/
-* https://blog.finxter.com/ → read (i.e. go through) all
+* [ancientgreekocr.org/](https://ancientgreekocr.org/)
+* [treykeown.github.io/arguably/](https://treykeown.github.io/arguably/)
+* [blog.finxter.com/](https://blog.finxter.com/) → read (i.e. go through) all
 * [Writing Python like it’s Rust | Kobzol’s blog](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html)
 * [dataclasses — Data Classes — Python 3.11.4 documentation](https://docs.python.org/3/library/dataclasses.html)[Harold Rugg - Wikipedia](https://en.wikipedia.org/wiki/Harold_Rugg)
 * [Nested List Comprehensions in Python - GeeksforGeeks](https://www.geeksforgeeks.org/nested-list-comprehensions-in-python/)
@@ -1649,34 +1649,34 @@ This tutorial shows how to build an intelligent educational platform using OpenA
 * [Shalabh Aggarwal - Flask Framework Cookbook: Enhance your Flask skills with advanced techniques and build dynamic, 3rd Edition](https://libgen.is/book/index.php?md5=414C4D9BAB5F024306F1FFE2CC266DC5)
 * [Django 3 Web Development Cookbook: Actionable solutions to common problems in Python web development](https://libgen.is/book/index.php?md5=05CE578711D49D8BFF060B62AB77DF32)
 * [Michael Walker - Python Data Cleaning Cookbook: Modern techniques and Python tools to detect and remove dirty data to extract key insights](https://libgen.is/book/index.php?md5=02D0B5025EABF72851A497C0AF5FC82F)
-* https://rednafi.com/python/escape_template_pattern/
+* [rednafi.com/python/escape_template_pattern/](https://rednafi.com/python/escape_template_pattern/)
 * [Ayodele Oluleye - Exploratory Data Analysis with Python Cookbook: Over 50 recipes to analyze, visualize, and extract insights](https://libgen.is/book/index.php?md5=B6BA01703147B8D3B858F6E39A426EB5)
-* https://www.lambdatest.com/blog/python-configparser-tutorial/
-* https://www.pythonmorsels.com/creating-a-context-manager/
-* https://realpython.com/python-profiling/
-* https://github.com/dabeaz-course/python-mastery
-* https://realpython.com/courses/python-folium-web-maps-from-data/
-* https://lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/
-* https://www.nathom.dev/blog/casual_performance_optimization_python/
-* https://discuss.python.org/t/a-steering-council-notice-about-pep-703-making-the-global-interpreter-lock-optional-in-cpython/30474
-* https://www.modular.com/blog/an-easy-introduction-to-mojo-for-python-programmers
+* [lambdatest.com/blog/python-configparser-tutorial/](https://www.lambdatest.com/blog/python-configparser-tutorial/)
+* [pythonmorsels.com/creating-a-context-manager/](https://www.pythonmorsels.com/creating-a-context-manager/)
+* [realpython.com/python-profiling/](https://realpython.com/python-profiling/)
+* [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery)
+* [realpython.com/courses/python-folium-web-maps-from-data/](https://realpython.com/courses/python-folium-web-maps-from-data/)
+* [lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/](https://lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/)
+* [nathom.dev/blog/casual_performance_optimization_python/](https://www.nathom.dev/blog/casual_performance_optimization_python/)
+* [discuss.python.org/t/a-steering-council-notice-about-pep-703-making-the-global-interpreter-lock-optional-in-cpython/30474](https://discuss.python.org/t/a-steering-council-notice-about-pep-703-making-the-global-interpreter-lock-optional-in-cpython/30474)
+* [modular.com/blog/an-easy-introduction-to-mojo-for-python-programmers](https://www.modular.com/blog/an-easy-introduction-to-mojo-for-python-programmers)
 * [⚡ 5 Horrifying Python Techniques to get you fired - Andrew L](https://www.youtube.com/watch?v=t863QfAOmlY)
 * [The Python Quick Syntax Reference](http://library.lol/main/543757CC14C1FC9CBB07D7427C549E6F)
 * [Python for Data Mining Quick Syntax Reference](http://library.lol/main/719FA57E15A5FAAE9996594FF491F0E1)
 * [When to (Not) Use Dunder Methods?](https://www.youtube.com/watch?v=3iJjBOne2sM)
-* https://betterstack.com/community/guides/logging/loguru/
-* https://cython.readthedocs.io/en/latest/src/changes.html
-* https://github.com/caioariede/dpv
-* https://peps.python.org/pep-0723/
+* [betterstack.com/community/guides/logging/loguru/](https://betterstack.com/community/guides/logging/loguru/)
+* [cython.readthedocs.io/en/latest/src/changes.html](https://cython.readthedocs.io/en/latest/src/changes.html)
+* [caioariede/dpv](https://github.com/caioariede/dpv)
+* [peps.python.org/pep-0723/](https://peps.python.org/pep-0723/)
 * how to use poetry with Conda?
-* https://josvisser.substack.com/p/why-python-is-amazing
-* https://kenschutte.com/python-swap-ints/
-* https://mathspp.com/blog/pydonts/does-elegance-matter
-* https://github.com/beeware/briefcase
+* [josvisser.substack.com/p/why-python-is-amazing](https://josvisser.substack.com/p/why-python-is-amazing)
+* [kenschutte.com/python-swap-ints/](https://kenschutte.com/python-swap-ints/)
+* [mathspp.com/blog/pydonts/does-elegance-matter](https://mathspp.com/blog/pydonts/does-elegance-matter)
+* [beeware/briefcase](https://github.com/beeware/briefcase)
 * [Tutorial: Debugging your Python Applications with pdb - YouTube](https://www.youtube.com/watch?v=bZZTeKPRSLQ)
-* https://www.fullstackpython.com/enterprise-python.html
+* [fullstackpython.com/enterprise-python.html](https://www.fullstackpython.com/enterprise-python.html)
 * [High Performance Python: Practical Performant Programming for Humans](https://en.de1lib.org/book/12032396/9b1893)
-* https://bookflow.ru/spisok-voprosov-s-sobesedovanij-po-python/
+* [bookflow.ru/spisok-voprosov-s-sobesedovanij-po-python/](https://bookflow.ru/spisok-voprosov-s-sobesedovanij-po-python/)
 * [Python in a Nutshell, 4th Edition](https://de.de1lib.org/book/19084903/7bd1da)
 * [Myśl w języku Python! Nauka programowania](https://en.de1lib.org/book/3606706/5bae1f)
-* https://learnpythontherightway.com/#read
+* [learnpythontherightway.com/#read](https://learnpythontherightway.com/#read)

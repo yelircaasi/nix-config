@@ -10,9 +10,9 @@ key [dots/keyboard/.config/keyboard at main · veyxov/dots](https://github.com/v
 
 key [http://xahlee.info/comp/unicode_matching_brackets.html](http://xahlee.info/comp/unicode_matching_brackets.html)
 
-key [https://github.com/houmain/keymapper](https://github.com/houmain/keymapper)
+key [github.com/houmain/keymapper](https://github.com/houmain/keymapper)
 
-key [https://gitlab.com/interception/linux/plugins/dual-function-keys](https://gitlab.com/interception/linux/plugins/dual-function-keys)
+key [gitlab.com/interception/linux/plugins/dual-function-keys](https://gitlab.com/interception/linux/plugins/dual-function-keys)
 
 key [kanata/docs/config.adoc at main · jtroo/kanata](https://github.com/jtroo/kanata/blob/main/docs/config.adoc)
 

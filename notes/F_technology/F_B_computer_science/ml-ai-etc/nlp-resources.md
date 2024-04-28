@@ -10,39 +10,39 @@
 
 
 ## Top
-* https://nlpoverview.com/
+* [nlpoverview.com/](https://nlpoverview.com/)
 * [NLP Wikipedia](https://en.wikipedia.org/wiki/Template:Natural_Language_Processing)
-* http://www.computerlinguistik.org/portal/portal.html   http://www.computerlinguistik.org/portal/portal.html?s=Ausbildung
+* [computerlinguistik.org/portal/portal.html](http://www.computerlinguistik.org/portal/portal.html)   [computerlinguistik.org/portal/portal.html?s=Ausbildung](http://www.computerlinguistik.org/portal/portal.html?s=Ausbildung)
 * [Category:Natural language processing - Wikipedia](https://en.wikipedia.org/wiki/Category:Natural_language_processing)
 * [Обработка естественного языка — Википедия](https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0_%D0%B5%D1%81%D1%82%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0)
-* https://en.wikipedia.org/wiki/Computational_linguistics
+* [en.wikipedia.org/wiki/Computational_linguistics](https://en.wikipedia.org/wiki/Computational_linguistics)
 * [Computational linguistics - Wikipedia](https://en.wikipedia.org/wiki/Computational_linguistics)
-* http://www.glottopedia.org/index.php/Category:Computational_Linguistics
+* [glottopedia.org/index.php/Category:Computational_Linguistics](http://www.glottopedia.org/index.php/Category:Computational_Linguistics)
 * [NLP Index](https://index.quantumstat.com/)
 
 
 
 
 ## Educational Sites and Resources
-* https://stackoverflow.com/collectives/nlp/collections/76822340
-* https://stackoverflow.com/collectives/nlp/collections/76822334/natural-language-processing-fundamentals
+* [stackoverflow.com/collectives/nlp/collections/76822340](https://stackoverflow.com/collectives/nlp/collections/76822340)
+* [stackoverflow.com/collectives/nlp/collections/76822334/natural-language-processing-fundamentals](https://stackoverflow.com/collectives/nlp/collections/76822334/natural-language-processing-fundamentals)
 
 
 
 
 ## Organizations, Institutions
-* https://www.assemblyai.com/
-* https://github.com/thunlp
+* [assemblyai.com/](https://www.assemblyai.com/)
+* [thunlp](https://github.com/thunlp)
 
 
 ## Media
-* https://quantumstat.medium.com/
+* [quantumstat.medium.com/](https://quantumstat.medium.com/)
 * dair.ai – Medium
 * Natural Language Processing Archives - Ryan Ong
 * [Archives - Hugging Face](https://huggingface.curated.co/issues)
 * [GitHub - dair-ai/nlp_newsletter: 📰Natural language processing (NLP) newsletter](https://github.com/dair-ai/nlp_newsletter)
 * [HF Reading Group](https://github.com/huggingface/awesome-papers)
-* http://jalammar.github.io/
+* [jalammar.github.io/](http://jalammar.github.io/)
 * [Hugging Face – Blog](https://huggingface.co/blog)
 * [Issues · dair-ai/ml-nlp-paper-discussions](https://github.com/dair-ai/ml-nlp-paper-discussions/issues/)
 * [Natural Language Processing - NLP](https://www.facebook.com/groups/661630514420625/?notif_id=1590310581104884)
@@ -50,29 +50,29 @@
 * [NLP Highlights](https://castbox.fm/channel/id571199?country=fr)
 * ***NLP News | Revue
 * [AI Новости: Машинный перевод - основы, алгортмы, проблемы](https://ai-news.ru/mashinnyj_perevod.html)
-* http://lifeofacomputationallinguist.blogspot.com/
+* [lifeofacomputationallinguist.blogspot.com/](http://lifeofacomputationallinguist.blogspot.com/)
 * [Home | Die Praatpfanne](http://praatpfanne.lingphon.net/)
 * [Paperspace Blog](https://blog.paperspace.com/)
-* https://amitness.com/
+* [amitness.com/](https://amitness.com/)
 * [NLP News | Revue](http://newsletter.ruder.io/)
-* https://nlpforhackers.io/start/
-* https://nlpprogress.com/
-* https://quantumstat.medium.com/
+* [nlpforhackers.io/start/](https://nlpforhackers.io/start/)
+* [nlpprogress.com/](https://nlpprogress.com/)
+* [quantumstat.medium.com/](https://quantumstat.medium.com/)
 * [Huggingface Newsletter Archive](https://huggingface.curated.co/issues)
 * [Math Lingvo](https://vk.com/mathlingvo)
 * [Ruder Newsletter](http://newsletter.ruder.io/)
-* https://www.louiscastricato.com/
-* http://www.realworldnlpbook.com/blog/
+* [louiscastricato.com/](https://www.louiscastricato.com/)
+* [realworldnlpbook.com/blog/](http://www.realworldnlpbook.com/blog/)
 
 
 ## Podcasts
-* https://montfordrecruitment.com/the-nlp-zone/
+* [montfordrecruitment.com/the-nlp-zone/](https://montfordrecruitment.com/the-nlp-zone/)
 * [NLP Update: Attention & Big Science](https://open.spotify.com/episode/0LQUNfzkKJykMAphaV1JJH?si=ouKPPi1FRfOWN37u8vIP9A)
 * [Reflections on Foundation Models (audio)](https://podcasts.google.com/search/reflections%20on%20foundation%20models)
 
 
 ## Tools - TO SORT
-* https://github.com/zilliztech/GPTCache
+* [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache)
 * langchain
 * A Guide to Natural Language Processing With AllenNLP
 * [A Gentle Guide to Starting Your NLP Project with AllenNLP](https://www.kdnuggets.com/2019/07/gentle-guide-starting-nlp-project-allennlp.html)
@@ -83,26 +83,26 @@
 * [JuliaCon 2018 | Natural Language Processing workshop using Julia | Avik Sengupta](https://www.youtube.com/watch?v=f7RNuOLDyM8&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=2)
 * [Natural Language Processing With Julia - Basic Intro To Text Analysis and Tokenization](https://www.youtube.com/watch?v=4nMP24xhuWg&list=PLVWtXi_Jrj_2CjtJJGAArDfyzKg2IVgkp&index=1)
 * [TextAnalysis.jl](http://juliatext.github.io/TextAnalysis.jl/)
-* https://github.com/JuliaText/TextAnalysis.jl
+* [JuliaText/TextAnalysis.jl](https://github.com/JuliaText/TextAnalysis.jl)
 * [JuliaCon Talk](https://juliacon.org/2018/talks_workshops/8/)
 * [NLP with Julia](https://www.youtube.com/watch?v=4nMP24xhuWg)
 * [Natural Language Toolkit — NLTK 3.2.4 documentation](http://www.nltk.org/)
 * [Scala NLP](https://github.com/scalanlp)
 * [Natural Language Processing: Python and NLTK | Nitin Hardeniya, Jacob Perkins, Deepti Chopra, Nisheeth Joshi, Iti Mathur | download](http://b-ok.cc/book/2841641/5a9b1e)
 * [Natural Language Processing with Python Cookbook | Krishna Bhavsar, Naresh Kumar, Pratap Dangeti | download](http://b-ok.cc/book/3437187/01a479)
-* https://github.com/wetneb/opentapioca
-* https://github.com/wetneb
+* [wetneb/opentapioca](https://github.com/wetneb/opentapioca)
+* [wetneb](https://github.com/wetneb)
 * [Intro to NLTK](https://github.com/DistrictDataLabs/intro-to-nltk)
-* https://spacy.io/
+* [spacy.io/](https://spacy.io/)
 * [Stanford NLP Software](https://nlp.stanford.edu/software/)
 * [Using Unix for Linguistic Research](http://wstyler.ucsd.edu/unix/)
 * [WP2TXT](https://github.com/yohasebe/wp2txt)
 * [Diff Match Patch](https://github.com/google/diff-match-patch)
 * [Jane Austen R](https://github.com/juliasilge/janeaustenr)
-* [https://github.com/huseinzol05/NLP-Models-Tensorflow/](https://github.com/huseinzol05/NLP-Models-Tensorflow/tree/master/chatbot)
-* https://github.com/prabhatsharma/zinc* http://cleartk.github.io/cleartk/
+* [github.com/huseinzol05/NLP-Models-Tensorflow/](https://github.com/huseinzol05/NLP-Models-Tensorflow/tree/master/chatbot)
+* [prabhatsharma/zinc*](https://github.com/prabhatsharma/zinc*) [cleartk.github.io/cleartk/](http://cleartk.github.io/cleartk/)
 
-🔥 Language Interpretability Tool | Open-source platform for visualization and understanding of NLP models. (https://github.com/PAIR-code/lit/raw/main/docs/images/lit-design-complex.png) | Developer Guide:  | Paper:  | Video: https://www.youtube.com/watch?v=j0OfBWFUqIE | Github:
+🔥 Language Interpretability Tool | Open-source platform for visualization and understanding of NLP models. (https://github.com/PAIR-code/lit/raw/main/docs/images/lit-design-complex.png) | Developer Guide:  | Paper:  | Video: [](https://www.youtube.com/watch?v=j0OfBWFUqIE) | Github:
 * [AllenNLP Interpret](https://allennlp.org/interpret)
 * [AraNet: New Deep Learning Toolkit for Arabic Social Media | by Synced | SyncedReview | Medium](https://medium.com/syncedreview/aranet-new-deep-learning-toolkit-for-arabic-social-media-d4729887ca48)
 * [CLTK Greek Docs](http://greek/)
@@ -115,53 +115,53 @@
 * [Europarl Parallel Corpus](http://www.statmt.org/europarl/)
 * [fastText](https://fasttext.cc/)
 * [GitHub - babycaseny/omegat](https://github.com/babycaseny/omegat)
-* [github.com/ynqa/w...](https://github.com/ynqa/wego)
+* [ynqa/w...](https://github.com/ynqa/wego)
 * [Global Voices Parallel Corpus](http://casmacat.eu/corpus/global-voices.html)
 * [hf datasets Library - Colab](https://colab.research.google.com/github/huggingface/nlp/blob/master/notebooks/Overview.ipynb)
 * [hf nlp Viewer](https://huggingface.co/nlp/viewer)
 * [hltfbk/Excitement-Open-Platform: Excitement Open Platform for Recognizing Textual Entailments](https://github.com/hltfbk/Excitement-Open-Platform)
-* http://asvdoku.informatik.uni-leipzig.de/corpora/index.php?id=full-list-of-corpora
-* http://corpora.informatik.uni-leipzig.de/en?corpusId=deu_newscrawl_2011
-* http://cwb.sourceforge.net/download.php
-* http://globalwordnet.org/
-* http://goldendict.org/
-* http://text-processing.com/
-* http://text-processing.com/demo/
-* http://wortschatz.uni-leipzig.de/en/download/
-* http://www.nltk.org/
-* http://www.nltk.org/api/nltk.stem.html#nltk.stem.wordnet.WordNetLemmatizer
-* http://www.nltk.org/howto/corpus.html
-* http://www.nltk.org/nltk_data/
-* http://www.nltk.org/py-modindex.html
-* http://www.sketchengine.co.uk/
-* http://www.sketchengine.co.uk/
-* https://code.fb.com/ai-research/wav2letter/
-* https://code.google.com/archive/p/word2vec/
-* https://code.google.com/archive/p/word2vec/
-* https://github.com/cldf
-* https://github.com/dair-iitd/OpenIE-standalone
-* https://github.com/DSKSD/RNN-for-Joint-NLU?files=1
-* https://github.com/harvardnlp/var-attn
-* https://github.com/huggingface/datasets
-* https://github.com/huggingface/tokenizers
-* https://github.com/Kyubyong/wordvectors
-* https://github.com/lltk
-* https://github.com/maluuba/nlg-eval
-* https://github.com/nltk/nltk/wiki/Adding-a-Corpus
-* https://github.com/pair-code/lit
-* https://github.com/santi-pdp/pase
-* https://github.com/sooftware
-* https://github.com/stanfordnlp/CoreNLP
-* https://github.com/TalSchuster/CrossLingualContextualEmb
-* https://github.com/weedwind/CTC-speech-recognition
-* https://huggingface.co/Helsinki-NLP
-* https://huggingface.co/transformers/main_classes/tokenizer.html
-* https://sourceforge.net/projects/audacity/
-* https://stanfordnlp.github.io/CoreNLP/
-* https://stanfordnlp.github.io/CoreNLP/
-* https://stanfordnlp.github.io/CoreNLP/api.html
-* https://www.lighttag.io/
-* https://www.smartcat.com/
+* [asvdoku.informatik.uni-leipzig.de/corpora/index.php?id=full-list-of-corpora](http://asvdoku.informatik.uni-leipzig.de/corpora/index.php?id=full-list-of-corpora)
+* [corpora.informatik.uni-leipzig.de/en?corpusId=deu_newscrawl_2011](http://corpora.informatik.uni-leipzig.de/en?corpusId=deu_newscrawl_2011)
+* [cwb.sourceforge.net/download.php](http://cwb.sourceforge.net/download.php)
+* [globalwordnet.org/](http://globalwordnet.org/)
+* [goldendict.org/](http://goldendict.org/)
+* [text-processing.com/](http://text-processing.com/)
+* [text-processing.com/demo/](http://text-processing.com/demo/)
+* [wortschatz.uni-leipzig.de/en/download/](http://wortschatz.uni-leipzig.de/en/download/)
+* [nltk.org/](http://www.nltk.org/)
+* [nltk.org/api/nltk.stem.html#nltk.stem.wordnet.WordNetLemmatizer](http://www.nltk.org/api/nltk.stem.html#nltk.stem.wordnet.WordNetLemmatizer)
+* [nltk.org/howto/corpus.html](http://www.nltk.org/howto/corpus.html)
+* [nltk.org/nltk_data/](http://www.nltk.org/nltk_data/)
+* [nltk.org/py-modindex.html](http://www.nltk.org/py-modindex.html)
+* [sketchengine.co.uk/](http://www.sketchengine.co.uk/)
+* [sketchengine.co.uk/](http://www.sketchengine.co.uk/)
+* [code.fb.com/ai-research/wav2letter/](https://code.fb.com/ai-research/wav2letter/)
+* [code.google.com/archive/p/word2vec/](https://code.google.com/archive/p/word2vec/)
+* [code.google.com/archive/p/word2vec/](https://code.google.com/archive/p/word2vec/)
+* [cldf](https://github.com/cldf)
+* [dair-iitd/OpenIE-standalone](https://github.com/dair-iitd/OpenIE-standalone)
+* [DSKSD/RNN-for-Joint-NLU?files=1](https://github.com/DSKSD/RNN-for-Joint-NLU?files=1)
+* [harvardnlp/var-attn](https://github.com/harvardnlp/var-attn)
+* [huggingface/datasets](https://github.com/huggingface/datasets)
+* [huggingface/tokenizers](https://github.com/huggingface/tokenizers)
+* [Kyubyong/wordvectors](https://github.com/Kyubyong/wordvectors)
+* [lltk](https://github.com/lltk)
+* [maluuba/nlg-eval](https://github.com/maluuba/nlg-eval)
+* [nltk/nltk/wiki/Adding-a-Corpus](https://github.com/nltk/nltk/wiki/Adding-a-Corpus)
+* [pair-code/lit](https://github.com/pair-code/lit)
+* [santi-pdp/pase](https://github.com/santi-pdp/pase)
+* [sooftware](https://github.com/sooftware)
+* [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP)
+* [TalSchuster/CrossLingualContextualEmb](https://github.com/TalSchuster/CrossLingualContextualEmb)
+* [weedwind/CTC-speech-recognition](https://github.com/weedwind/CTC-speech-recognition)
+* [huggingface.co/Helsinki-NLP](https://huggingface.co/Helsinki-NLP)
+* [huggingface.co/transformers/main_classes/tokenizer.html](https://huggingface.co/transformers/main_classes/tokenizer.html)
+* [sourceforge.net/projects/audacity/](https://sourceforge.net/projects/audacity/)
+* [stanfordnlp.github.io/CoreNLP/](https://stanfordnlp.github.io/CoreNLP/)
+* [stanfordnlp.github.io/CoreNLP/](https://stanfordnlp.github.io/CoreNLP/)
+* [stanfordnlp.github.io/CoreNLP/api.html](https://stanfordnlp.github.io/CoreNLP/api.html)
+* [lighttag.io/](https://www.lighttag.io/)
+* [smartcat.com/](https://www.smartcat.com/)
 * [HuggingFace Transformers](https://github.com/huggingface/transformers/tree/master/examples/movement-pruning)
 * [HuggingFace's Transformers: State-of-the-art Natural Language Processing](https://arxiv.org/abs/1910.03771)
 * [Kaffeedrache (NLP)](https://github.com/Kaffeedrache?tab=repositories)
@@ -184,9 +184,9 @@
 * [CoVoST: A Diverse Multilingual Speech-To-Text Translation Corpus](https://arxiv.org/abs/2002.01320)
 * [DCEP: Digital Corpus of the European Parliament | EU Science Hub](https://ec.europa.eu/jrc/en/language-technologies/dcep)
 * [Europarl Parallel Corpus](https://www.statmt.org/europarl/)
-* http://compling.hss.ntu.edu.sg/omw/
-* http://corpus-tools.org/home/
-* https://omegat.org/
+* [compling.hss.ntu.edu.sg/omw/](http://compling.hss.ntu.edu.sg/omw/)
+* [corpus-tools.org/home/](http://corpus-tools.org/home/)
+* [omegat.org/](https://omegat.org/)
 * [HuggingFace nlp library - Overview - Colaboratory](https://colab.research.google.com/github/huggingface/nlp/blob/master/notebooks/Overview.ipynb)
 * [Ontotext](https://www.ontotext.com/)
 * [Open-sourcing PyText for faster NLP development](https://code.fb.com/ai-research/pytext-open-source-nlp-framework/)
@@ -210,22 +210,22 @@
 * [Knowledge Hub - Ontotext](https://www.ontotext.com/knowledge-hub/)
 * [List of English structure (function) words](http://www.viviancook.uk/Words/StructureWordsList.htm)
 * [Moses - Main/HomePage](http://www.statmt.org/moses/)
-* [https://www.reddit.com/r/vscode/comments/pqfpnc/i_realized_why_i_was_annoyed_with_vscode_and/](https://www.reddit.com/r/vscode/comments/pqfpnc/i_realized_why_i_was_annoyed_with_vscode_and/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
-* https://girliemac.com/blog/2017/12/26/git-purr/
-* https://opensource.com/business/15/7/five-open-source-nlp-tools
-* https://www.texttechnologylab.org/
-* https://pair-code.github.io/lit/
+* [reddit.com/r/vscode/comments/pqfpnc/i_realized_why_i_was_annoyed_with_vscode_and/](https://www.reddit.com/r/vscode/comments/pqfpnc/i_realized_why_i_was_annoyed_with_vscode_and/)
+* [girliemac.com/blog/2017/12/26/git-purr/](https://girliemac.com/blog/2017/12/26/git-purr/)
+* [opensource.com/business/15/7/five-open-source-nlp-tools](https://opensource.com/business/15/7/five-open-source-nlp-tools)
+* [texttechnologylab.org/](https://www.texttechnologylab.org/)
+* [pair-code.github.io/lit/](https://pair-code.github.io/lit/)
 
 ‣
 
 
 ## People / Channels
-* http://www.schulteimwalde.de/index.html
-* https://github.com/reynoldsnlp
+* [schulteimwalde.de/index.html](http://www.schulteimwalde.de/index.html)
+* [reynoldsnlp](https://github.com/reynoldsnlp)
 * [(8) Thora Daneyko | LinkedIn](https://www.linkedin.com/in/thora-daneyko/?locale=en_US)
 * [Lisa Winkler | LinkedIn](https://www.linkedin.com/in/lisa-winkler/)
 * [Helmut Schmid's Homepage](http://www.cis.uni-muenchen.de/~schmid/)
-* [https://christof-schoech.de](https://christof-schoech.de/)
+* [christof-schoech.de](https://christof-schoech.de/)
 * [Jacob Eisenstein](https://jacobeisenstein.github.io/)
 * [joeddav (Joe Davison)](https://github.com/joeddav)
 * [Patrick Xia](https://www.cs.jhu.edu/~paxia/)
@@ -233,13 +233,13 @@
 * [Roman Klinger's Homepage](http://www.romanklinger.de/)
 * [sentdex - YouTube - YouTube](https://www.youtube.com/user/sentdex)
 * [Sentdex](https://github.com/Sentdex)
-* https://faculty.washington.edu/ebender/publications.html
+* [faculty.washington.edu/ebender/publications.html](https://faculty.washington.edu/ebender/publications.html)
 
 
 ## Reference
-* https://github.com/thunlp/SOS4NLP
-* https://github.com/stepthom/text_mining_resources
-* https://www.cl.uni-heidelberg.de/~nastase/teaching.mhtml
+* [thunlp/SOS4NLP](https://github.com/thunlp/SOS4NLP)
+* [stepthom/text_mining_resources](https://github.com/stepthom/text_mining_resources)
+* [cl.uni-heidelberg.de/~nastase/teaching.mhtml](https://www.cl.uni-heidelberg.de/~nastase/teaching.mhtml)
 
 
 ## Organizations
@@ -255,12 +255,12 @@ CRETA, DFG, MARDY, QuaDramA, SDC4Lit, REPlay, CLARIN-D, XSample
 * [Digital Phonetics | Institute for Natural Language Processing | University of Stuttgart](https://www.ims.uni-stuttgart.de/institut/arbeitsgruppen/dp/index.en.html)
 * [Greg Kondrak](https://webdocs.cs.ualberta.ca/~kondrak/)
 * [harvardnlp](http://nlp.seas.harvard.edu/)
-* https://band.us/band/82315453
-* https://huggingface.co/
-* https://sites.google.com/view/mardy
-* https://www.emotionanalysis.de/
-* https://www.isi.edu/research_groups/nlg/home
-* https://www.uantwerpen.be/en/research-groups/clips/
+* [band.us/band/82315453](https://band.us/band/82315453)
+* [huggingface.co/](https://huggingface.co/)
+* [sites.google.com/view/mardy](https://sites.google.com/view/mardy)
+* [emotionanalysis.de/](https://www.emotionanalysis.de/)
+* [isi.edu/research_groups/nlg/home](https://www.isi.edu/research_groups/nlg/home)
+* [uantwerpen.be/en/research-groups/clips/](https://www.uantwerpen.be/en/research-groups/clips/)
 * [Humanidades digitales | Universitat Autònoma de Barcelona](https://www.coursera.org/learn/humanidades-digitales)
 * [Institut für Computerlinguistik](https://www.cl.uni-heidelberg.de/courses/ws18/semrel/)
 * [Institut für Computerlinguistik](https://www.cl.uni-heidelberg.de/courses/ws17/kGraphs/)
@@ -294,16 +294,16 @@ CRETA, DFG, MARDY, QuaDramA, SDC4Lit, REPlay, CLARIN-D, XSample
 * [Numenta - YouTube](https://www.youtube.com/channel/UCLNQzXAfcH8H8cMmG0sfV6g)
 * [RALI](http://rali.iro.umontreal.ca/rali/fr)
 * [Statistical Machine Translation](http://www.statmt.org/)
-* [www.sigmorphon.org](http://www.sigmorphon.org/)
-* [Learn Natural Language Processing Tutorials | Kaggle](https://www.kaggle.com/learn/natural-language-processing?utm_medium=email&utm_source=intercom&utm_campaign=nlp-course-launch)
+* [sigmorphon.org](http://www.sigmorphon.org/)
+* [Learn Natural Language Processing Tutorials | Kaggle](https://www.kaggle.com/learn/natural-language-processing)
 
 ## Resources
-* https://webhose.io/datasets
-* https://webhose.io/web-content-api
+* [webhose.io/datasets](https://webhose.io/datasets)
+* [webhose.io/web-content-api](https://webhose.io/web-content-api)
 * [News API | Analyze News Content at Scale](https://aylien.com/news-api/?__hstc=36392319.0283df6e32a45ad302793e8be84b39d4.1544769117061.1544769117061.1544769117061.1&__hssc=36392319.1.1544769117062&__hsfp=3651394994)
 * [Euralex 2010 – Euralex](https://euralex.org/category/publications/euralex-leeuwarden-2010/)
-* http://www.viviancook.uk/Words/StructureWordsList.htm
-* https://aclweb.org/aclwiki/Main_Page
+* [viviancook.uk/Words/StructureWordsList.htm](http://www.viviancook.uk/Words/StructureWordsList.htm)
+* [aclweb.org/aclwiki/Main_Page](https://aclweb.org/aclwiki/Main_Page)
 * [The Abstraction and Reasoning Corpus (ARC)](https://github.com/fchollet/ARC)
 * [X-Stance: A Multilingual Multi-Target Dataset for Stance Detection](https://arxiv.org/abs/2003.08385)
 
@@ -315,24 +315,24 @@ CRETA, DFG, MARDY, QuaDramA, SDC4Lit, REPlay, CLARIN-D, XSample
 * [$$$Natural Language Processing With spaCy in Python – Real Python](https://realpython.com/natural-language-processing-spacy-python/)
 * [Applied NLP Demo Codes](https://github.com/Ramaseshanr/anlp)
 *An In-Depth Tutorial to AllenNLP (From Basics to ELMo and BERT) | Machine Learning Explained
-* https://github.com/microsoft/nlp-recipes
+* [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes)
 
 
 ## Conferences and Challenges
-* https://alt.qcri.org/semeval2018/
-* https://alt.qcri.org/semeval2019/
-* https://alt.qcri.org/semeval2020/
-* https://eval4nlp.github.io/sharedtask.html
-* https://multiconer.github.io/
-* https://semeval.github.io/SemEval2021/tasks.html
-* https://semeval.github.io/SemEval2022/
+* [alt.qcri.org/semeval2018/](https://alt.qcri.org/semeval2018/)
+* [alt.qcri.org/semeval2019/](https://alt.qcri.org/semeval2019/)
+* [alt.qcri.org/semeval2020/](https://alt.qcri.org/semeval2020/)
+* [eval4nlp.github.io/sharedtask.html](https://eval4nlp.github.io/sharedtask.html)
+* [multiconer.github.io/](https://multiconer.github.io/)
+* [semeval.github.io/SemEval2021/tasks.html](https://semeval.github.io/SemEval2021/tasks.html)
+* [semeval.github.io/SemEval2022/](https://semeval.github.io/SemEval2022/)
 
 
 ## Cool Projects
-* https://www.reddit.com/r/Python/comments/12egsoz/i_trained_a_roastbot_on_120000_faces_and_05
+* [r/Python/comments/12egsoz/i_trained_a_roastbot_on_120000_faces_and_05](https://www.reddit.com/r/Python/comments/12egsoz/i_trained_a_roastbot_on_120000_faces_and_05)
 * [Typo Fixes in ML Coding in a Weekend](https://www.datasciencecentral.com/group/ai-deep-learning-machine-learning-coding-in-a-week/forum/topics/typo-fixes/)
-* https://github.com/Toukenize/weather-flight-bot
-* https://norvig.com/spell-correct.html
+* [Toukenize/weather-flight-bot](https://github.com/Toukenize/weather-flight-bot)
+* [norvig.com/spell-correct.html](https://norvig.com/spell-correct.html)
 * [How to Write a Spelling Corrector](https://norvig.com/spell-correct.html)
 
 A list of beginner-friendly NLP projects—using pre-trained models
@@ -349,16 +349,16 @@ What are some interesting ideas for a research project in Natural Language Proce
 ## Dictionary, Glossary, Cheatsheet
 * [The Natural Language Processing Dictionary](http://www.cse.unsw.edu.au/~billw/nlpdict.html)
 * [Glossaire de Linguistique Computationnelle Document principal originel par Mourad Amine, 1995](http://ldelafosse.pagesperso-orange.fr/Glossaire/Tal.htm)
-* https://github.com/amallia/NLP-cheatsheet/blob/master/tex/NLP-cheatsheet.tex
+* [amallia/NLP-cheatsheet/blob/master/tex/NLP-cheatsheet.tex](https://github.com/amallia/NLP-cheatsheet/blob/master/tex/NLP-cheatsheet.tex)
 
 
 ## Software, Tools
 * [Lingua Robot – Text Processing & Dictionary API](https://www.linguarobot.io/)
-* https://github.com/JohnSnowLabs/spark-nlp
-* https://github.com/joeynmt/joeynmt
+* [JohnSnowLabs/spark-nlp](https://github.com/JohnSnowLabs/spark-nlp)
+* [joeynmt/joeynmt](https://github.com/joeynmt/joeynmt)
 
 
 ## Miscellaneous Topics
-* https://en.wikipedia.org/wiki/Computational_linguistics
-* https://wmtang.org/corpus-linguistics/corpus-linguistics/
+* [en.wikipedia.org/wiki/Computational_linguistics](https://en.wikipedia.org/wiki/Computational_linguistics)
+* [wmtang.org/corpus-linguistics/corpus-linguistics/](https://wmtang.org/corpus-linguistics/corpus-linguistics/)
 * [Using parallel corpora in translation](https://www.llas.ac.uk/resources/gpg/1444.html)

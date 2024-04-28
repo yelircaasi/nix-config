@@ -7,13 +7,13 @@
 * also make command-line notebook viewer (way to learn Go?) → catnb, batnb, just like bat for notebooks → or capy (capybara?)
 
 
-* → https://faculty.ai/tech-blog/viewing-jupyter-notebooks-on-the-command-line/
+* → [faculty.ai/tech-blog/viewing-jupyter-notebooks-on-the-command-line/](https://faculty.ai/tech-blog/viewing-jupyter-notebooks-on-the-command-line/)
 
 
-* → https://github.com/jupyter/nbconvert [docs](https://nbconvert.readthedocs.io/en/latest/)
+* → [jupyter/nbconvert](https://github.com/jupyter/nbconvert) [docs](https://nbconvert.readthedocs.io/en/latest/)
 
 
-* → https://github.com/jsvine/nbpreview [-](https://github.com/jsvine/nbpreview) https://towardsdatascience.com/preview-your-jupyter-notebooks-in-the-terminal-with-nbpreview-87601a92d0d1
+* → [jsvine/nbpreview](https://github.com/jsvine/nbpreview) [-](https://github.com/jsvine/nbpreview) [towardsdatascience.com/preview-your-jupyter-notebooks-in-the-terminal-with-nbpreview-87601a92d0d1](https://towardsdatascience.com/preview-your-jupyter-notebooks-in-the-terminal-with-nbpreview-87601a92d0d1)
 
 
 * → eventually extend bat?
@@ -38,6 +38,6 @@
         * [jupiter logo](https://www.google.com/search?q=jupiter+logo+vector+graphic&tbm=isch&ved=2ahUKEwiWsODT2JmCAxU7rycCHVQPBFcQ2-cCegQIABAA&oq=jupiter+logo+vector+graphic&gs_lcp=CgNpbWcQAzoECCMQJzoFCAAQgAQ6BAgAEB46BggAEAUQHjoGCAAQCBAeUN4UWNY6YOY7aABwAHgAgAFMiAG5CJIBAjE2mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=6H09ZZacK7vensEP1J6QuAU&bih=726&biw=1472&client=firefox-b-d)
         * [vampire logo](https://www.google.com/search?q=vampire+logo&tbm=isch&ved=2ahUKEwjguujc2JmCAxWnXqQEHeOzBpIQ2-cCegQIABAA&oq=vampire+logo&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgjECc6BwgAEIoFEENQihNYjyNgkCVoAHAAeACAAUyIAYMHkgECMTOYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=-309ZaDRK6e9kdUP4-eakAk&bih=726&biw=1472&client=firefox-b-d)
         * [notebook logo](https://www.google.com/search?q=notebook+logo&tbm=isch&ved=2ahUKEwjvqM_w2JmCAxVpdKQEHXaPAkMQ2-cCegQIABAA&oq=notebook+logo&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBggAEAUQHjIGCAAQBRAeMgYIABAFEB46BAgjECc6BwgjEOoCECc6BwgAEIoFEENQlgpYmB1g7x5oAXAAeACAAVaIAe0HkgECMTSYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABCsABAQ&sclient=img&ei=JX49Za-CD-nokdUP9p6KmAQ&bih=726&biw=1472&client=firefox-b-d)
-        * https://stablediffusionweb.com/#demo
+        * [stablediffusionweb.com/#demo](https://stablediffusionweb.com/#demo)
 
 * fork bat codebase, or build on top of it → or incorporate as a dependency? → maybe use as a template, use syntext and maybe markdown processing

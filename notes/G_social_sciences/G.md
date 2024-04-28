@@ -81,7 +81,7 @@ Book idea: History of people who were remarkably non-racist / anti-racist for th
 
         * [Historia_del_arte_para_Dummies_-_Jesse_Bryant_Wilder.pdf](https://vk.com/doc503898380_480424729?hash=eff1dac98379c3b85f&dl=313d42fc25435d6c85)
 
-        * https://www.geschichtsforum.de/thema/kann-mir-einer-eine-gute-hitler-biografie-empfehlen.32199/
+        * [geschichtsforum.de/thema/kann-mir-einer-eine-gute-hitler-biografie-empfehlen.32199/](https://www.geschichtsforum.de/thema/kann-mir-einer-eine-gute-hitler-biografie-empfehlen.32199/)
 
         * [International Handbook of Historical Archaeology_Teresita Majewski, David Gaimster_2009](http://link.springer.com/openurl?genre=book&isbn=978-0-387-72071-5)
 
@@ -334,83 +334,83 @@ Book idea: History of people who were remarkably non-racist / anti-racist for th
 * US FP
         * [List of authoritarian regimes supported by the United States](https://en.wikipedia.org/wiki/List_of_authoritarian_regimes_supported_by_the_United_States)
 
-        * http://www.alternet.org/world/35-countries-where-us-has-supported-fascists-druglords-and-terrorists
+        * [alternet.org/world/35-countries-where-us-has-supported-fascists-druglords-and-terrorists](http://www.alternet.org/world/35-countries-where-us-has-supported-fascists-druglords-and-terrorists)
 
-        * http://foreignpolicy.com/2013/08/20/mapped-the-7-governments-the-u-s-has-overthrown/
+        * [foreignpolicy.com/2013/08/20/mapped-the-7-governments-the-u-s-has-overthrown/](http://foreignpolicy.com/2013/08/20/mapped-the-7-governments-the-u-s-has-overthrown/)
 
-        * http://www.deathandtaxesmag.com/205411/10-vicious-dictators-supported-by-the-u-s-government/
+        * [deathandtaxesmag.com/205411/10-vicious-dictators-supported-by-the-u-s-government/](http://www.deathandtaxesmag.com/205411/10-vicious-dictators-supported-by-the-u-s-government/)
 
-        * https://wais.stanford.edu/USA/us_supportforladictators8303.html
+        * [wais.stanford.edu/USA/us_supportforladictators8303.html](https://wais.stanford.edu/USA/us_supportforladictators8303.html)
 
-        * http://www.tomveatch.com/dictatorships.html
+        * [tomveatch.com/dictatorships.html](http://www.tomveatch.com/dictatorships.html)
 
         * [Primum non nocere](https://de.wikipedia.org/wiki/Primum_non_nocere)
 
-        * https://www.foreignaffairs.com/reviews/review-essay/2002-07-01/see-no-evil-why-america-doesnt-stop-genocide
+        * [foreignaffairs.com/reviews/review-essay/2002-07-01/see-no-evil-why-america-doesnt-stop-genocide](https://www.foreignaffairs.com/reviews/review-essay/2002-07-01/see-no-evil-why-america-doesnt-stop-genocide)
 
-        * https://b-ok.cc/s/norman%20davies
+        * [b-ok.cc/s/norman%20davies](https://b-ok.cc/s/norman%20davies)
 
-        * http://www.laphamsquarterly.org/
+        * [laphamsquarterly.org/](http://www.laphamsquarterly.org/)
 
-        * http://www.chronoatlas.com/MapViewer.aspx
+        * [chronoatlas.com/MapViewer.aspx](http://www.chronoatlas.com/MapViewer.aspx)
 
-        * http://www.ancient.eu/
+        * [ancient.eu/](http://www.ancient.eu/)
 
-        * http://home.versatel.nl/gerardvonhebel/
+        * [home.versatel.nl/gerardvonhebel/](http://home.versatel.nl/gerardvonhebel/)
 
-        * http://www.timemaps.com/history
+        * [timemaps.com/history](http://www.timemaps.com/history)
 
-        * http://history-world.org/Stories.htm
+        * [history-world.org/Stories.htm](http://history-world.org/Stories.htm)
 
-        * http://www.thehistoryblog.com/
+        * [thehistoryblog.com/](http://www.thehistoryblog.com/)
 
-        * http://www.authentichistory.com/
+        * [authentichistory.com/](http://www.authentichistory.com/)
 
-        * http://besthistorysites.net/
+        * [besthistorysites.net/](http://besthistorysites.net/)
 
-        * http://www.bbc.co.uk/history/british/launch_tl_british.shtml
+        * [bbc.co.uk/history/british/launch_tl_british.shtml](http://www.bbc.co.uk/history/british/launch_tl_british.shtml)
 
-        * http://thewayofimprovement.com/
+        * [thewayofimprovement.com/](http://thewayofimprovement.com/)
 
-        * http://historic.ru/
+        * [historic.ru/](http://historic.ru/)
 
-        * http://histrf.ru/
+        * [histrf.ru/](http://histrf.ru/)
 
-        * http://geschichte-wissen.de/
+        * [geschichte-wissen.de/](http://geschichte-wissen.de/)
 
-        * http://lernen-aus-der-geschichte.de/
+        * [lernen-aus-der-geschichte.de/](http://lernen-aus-der-geschichte.de/)
 
-        * http://histua.com/
+        * [histua.com/](http://histua.com/)
 
-        * http://polinapo.blogspot.com/
+        * [polinapo.blogspot.com/](http://polinapo.blogspot.com/)
 
-        * http://blogs.histoireglobale.com/
+        * [blogs.histoireglobale.com/](http://blogs.histoireglobale.com/)
 
-        * http://www.histoire-image.org/
+        * [histoire-image.org/](http://www.histoire-image.org/)
 
-        * http://www.histoirealacarte.com/
+        * [histoirealacarte.com/](http://www.histoirealacarte.com/)
 
-        * http://www.herodote.net/
+        * [herodote.net/](http://www.herodote.net/)
 
-        * http://www.historiasiglo20.org/
+        * [historiasiglo20.org/](http://www.historiasiglo20.org/)
 
-        * http://www.sohistoria.com.br/index2.php
+        * [sohistoria.com.br/index2.php](http://www.sohistoria.com.br/index2.php)
 
-        * http://www.focus.it/cultura/storia
+        * [focus.it/cultura/storia](http://www.focus.it/cultura/storia)
 
-        * http://cronologia.leonardo.it/
+        * [cronologia.leonardo.it/](http://cronologia.leonardo.it/)
 
-        * http://win.storiain.net/
+        * [win.storiain.net/](http://win.storiain.net/)
 
-        * http://www.storiafacile.net/
+        * [storiafacile.net/](http://www.storiafacile.net/)
 
-        * http://islamstory.com/islam-history
+        * [islamstory.com/islam-history](http://islamstory.com/islam-history)
 
-        * http://download-date-history-pdf-ebooks.com/122-1-library-books
+        * [download-date-history-pdf-ebooks.com/122-1-library-books](http://download-date-history-pdf-ebooks.com/122-1-library-books)
 
-        * http://www.al-islam.com/Section.aspx?PageID=1397
+        * [al-islam.com/Section.aspx?PageID=1397](http://www.al-islam.com/Section.aspx?PageID=1397)
 
-        * http://timerime.com/es/
+        * [timerime.com/es/](http://timerime.com/es/)
 
         * [slavs and christianity](https://vk.com/wall-53199032_77122)
 
@@ -436,7 +436,7 @@ Book idea: History of people who were remarkably non-racist / anti-racist for th
 
 
 * Other
-        * https://de.wikipedia.org/wiki/Deutsche_Frage
+        * [de.wikipedia.org/wiki/Deutsche_Frage](https://de.wikipedia.org/wiki/Deutsche_Frage)
 
         * [Histoire de France, tourisme, patrimoine. Traditions, légendes, coutumes, biographies, événements, institutions, inventions, dates clés. Librairie. La France pittoresque](https://www.france-pittoresque.com/)
 
@@ -465,7 +465,7 @@ Book idea: History of people who were remarkably non-racist / anti-racist for th
 
     Die Germanen: Geschichte und Mythos
 
-        * https://super.abril.com.br/historia/e-se-a-revolucao-russa-nao-tivesse-acontecido/
+        * [super.abril.com.br/historia/e-se-a-revolucao-russa-nao-tivesse-acontecido/](https://super.abril.com.br/historia/e-se-a-revolucao-russa-nao-tivesse-acontecido/)
 
         * [Slavernij : een geschiedenis](http://library.lol/main/8CADC5052FA746BC42FB9E5461FE84F7)
 
@@ -546,19 +546,19 @@ Book idea: History of people who were remarkably non-racist / anti-racist for th
 
     Ivo Goldstein
 
-        * [https://www.google.com/search?q=wie+war+die+vernichtung+der+Juden+möglich&client=safari&hl=it-us&sxsrf=AOaemvISuoJ0h7k65tG-6-YjeFFQlNj37Q%3A1634918741183&ei=VeFyYefPCuGK9u8PxdGB-A4&oq=wie+war+die+vernichtung+der+Juden+möglich&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAM6BAgjECc6BQghEKABOggIIRAWEB0QHlCbC1iLSWCuTWgDcAB4AIAB1AKIAcEUkgEIMC4xNS4wLjGYAQCgAQHAAQE&sclient=mobile-gws-wiz-serp](https://www.google.com/search?q=wie+war+die+vernichtung+der+Juden+m%C3%B6glich&client=safari&hl=it-us&sxsrf=AOaemvISuoJ0h7k65tG-6-YjeFFQlNj37Q%3A1634918741183&ei=VeFyYefPCuGK9u8PxdGB-A4&oq=wie+war+die+vernichtung+der+Juden+m%C3%B6glich&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAM6BAgjECc6BQghEKABOggIIRAWEB0QHlCbC1iLSWCuTWgDcAB4AIAB1AKIAcEUkgEIMC4xNS4wLjGYAQCgAQHAAQE&sclient=mobile-gws-wiz-serp)
+        * [google.com/search?q=wie+war+die+vernichtung+der+Juden+möglich&client=safari&hl=it-us&sxsrf=AOaemvISuoJ0h7k65tG-6-YjeFFQlNj37Q%3A1634918741183&ei=VeFyYefPCuGK9u8PxdGB-A4&oq=wie+war+die+vernichtung+der+Juden+möglich&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAM6BAgjECc6BQghEKABOggIIRAWEB0QHlCbC1iLSWCuTWgDcAB4AIAB1AKIAcEUkgEIMC4xNS4wLjGYAQCgAQHAAQE&sclient=mobile-gws-wiz-serp](https://www.google.com/search?q=wie+war+die+vernichtung+der+Juden+m%C3%B6glich&client=safari&hl=it-us&sxsrf=AOaemvISuoJ0h7k65tG-6-YjeFFQlNj37Q%3A1634918741183&ei=VeFyYefPCuGK9u8PxdGB-A4&oq=wie+war+die+vernichtung+der+Juden+m%C3%B6glich&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAM6BAgjECc6BQghEKABOggIIRAWEB0QHlCbC1iLSWCuTWgDcAB4AIAB1AKIAcEUkgEIMC4xNS4wLjGYAQCgAQHAAQE&sclient=mobile-gws-wiz-serp)
 
-        * [https://www.google.com/search?q=Bücher+zum+Holocaust&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari](https://www.google.com/search?q=B%C3%BCcher+zum+Holocaust&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
+        * [google.com/search?q=Bücher+zum+Holocaust&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari](https://www.google.com/search?q=B%C3%BCcher+zum+Holocaust&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
 
-        * [https://www.google.com/search?q=wie+kam+es+zur+Endlösung%3F&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari](https://www.google.com/search?q=wie+kam+es+zur+Endl%C3%B6sung%3F&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
+        * [google.com/search?q=wie+kam+es+zur+Endlösung%3F&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari](https://www.google.com/search?q=wie+kam+es+zur+Endl%C3%B6sung%3F&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
 
-        * https://en.wikipedia.org/wiki/Abolitionism_in_the_United_States
+        * [en.wikipedia.org/wiki/Abolitionism_in_the_United_States](https://en.wikipedia.org/wiki/Abolitionism_in_the_United_States)
 
-        * https://civilwartalk.com/threads/southern-abolitionists-part-1-charles-osborn.101084/
+        * [civilwartalk.com/threads/southern-abolitionists-part-1-charles-osborn.101084/](https://civilwartalk.com/threads/southern-abolitionists-part-1-charles-osborn.101084/)
 
         * [Polen – vom Mittelalter bis heute - YouTube](https://www.youtube.com/watch?v=VjKdtZiRSXg)
 
-        * http://libgen.rs/search.php?&req=martin+goodman&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+        * [libgen.rs/search.php?&req=martin+goodman&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](http://libgen.rs/search.php?&req=martin+goodman&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 
 
     The English and Their History (Tombs)
@@ -567,7 +567,7 @@ Book idea: History of people who were remarkably non-racist / anti-racist for th
 
         * [Взлет и падение Третьего рейха](https://vk.com/wall-154516093_62237)
 
-        * https://www.bollatiboringhieri.it/libri/adam-rutherford-breve-storia-di-chiunque-sia-mai-vissuto-9788833936765/
+        * [bollatiboringhieri.it/libri/adam-rutherford-breve-storia-di-chiunque-sia-mai-vissuto-9788833936765/](https://www.bollatiboringhieri.it/libri/adam-rutherford-breve-storia-di-chiunque-sia-mai-vissuto-9788833936765/)
 
         * [The Oxford Illustrated History of the World | Felipe Fernández-Armesto | download](https://de1lib.org/book/3680936/80d016?dsource=recommend)
 
@@ -615,12 +615,12 @@ Book idea: History of people who were remarkably non-racist / anti-racist for th
 
         * [Thunder from the Right: Ezra Taft Benson in Mormonism and Politics](https://www.thalia.de/shop/home/artikeldetails/ID140370878.html)
 
-        * https://www.cambridge.org/core/what-we-publish/open-access/the-history-manifesto
+        * [cambridge.org/core/what-we-publish/open-access/the-history-manifesto](https://www.cambridge.org/core/what-we-publish/open-access/the-history-manifesto)
 
 
     What do you know about the history of hygiene, and how certain practices have evolved throughout history? || I think it has been nonlinear. For instance, some principles practiced by hebrews and ancient arabs later neglected by folks in the middle ages. Also until Pasteur and germ theory there was a lot of ignorance about causes of disease- bad humors( imbalance of bile, phlegm etc), bad air exposure, spontaneous generation, etc. Ignaz Semmelweis was a real pioneer in medical history, controversial at the time, demonstrating that washing between patients in a labor ward drastically reduced peripartum deaths from infections. As far as population hygiene measures, Snow was a famous user of data (a father of epidemiology) in London who, according to legend, fought a cholera epidemic in London by tracking the source to a certain water source where he took away the handle so people would stop using it.
 
-        * http://www.joguldi.com/
+        * [joguldi.com/](http://www.joguldi.com/)
 
         * [A Key to Dutch History - Frits van Oostrom, Hubert Slings.pdf](https://vk.com/doc278943367_513210602?hash=8954d8d436b13e4b54&dl=20e7c3de7bb7836b72)
 
@@ -655,7 +655,7 @@ Book idea: History of people who were remarkably non-racist / anti-racist for th
 
         * [http://voxmediiaevi.com/vol-1-eco1](https://vk.com/away.php?to=http%3A%2F%2Fvoxmediiaevi.com%2Fvol-1-eco1&post=-36695404_3643&cc_key=)
 
-        * [https://arzamas.academy/mag/508-history-table2](https://vk.com/away.php?to=https%3A%2F%2Farzamas.academy%2Fmag%2F508-history-table2&post=-78423275_98228&cc_key=)
+        * [arzamas.academy/mag/508-history-table2](https://vk.com/away.php?to=https%3A%2F%2Farzamas.academy%2Fmag%2F508-history-table2&post=-78423275_98228&cc_key=)
 
         * [Juliet Grey - Il diario proibito di Maria Antonietta.epub](https://vk.com/doc348852382_475537989?hash=bafb612aaa4f09102e&dl=842094d7691eafd93c)
 
@@ -758,7 +758,7 @@ Book idea: History of people who were remarkably non-racist / anti-racist for th
 
     - [*ХРОНОС. ВСЕМИРНАЯ ИСТОРИЯ В ИНТЕРНЕТЕ](http://hrono.ru/)
 
-        * http://www.hrono.ru/index.php
+        * [hrono.ru/index.php](http://www.hrono.ru/index.php)
 
         * [La Web de Cultura Clásica | Portal Clásico](http://portalclasico.com/)
 
@@ -994,11 +994,11 @@ Book idea: History of people who were remarkably non-racist / anti-racist for th
 
         * [Элиаде М. - Мифы.Сновидения.Мистерии.-1996.pdf](https://vk.com/doc-123642573_444562220?hash=98484a4e355e8f2398&dl=8f0f753f480ba96ef6)
 
-        * https://www.quora.com/What-are-the-most-important-lessons-of-history
+        * [quora.com/What-are-the-most-important-lessons-of-history](https://www.quora.com/What-are-the-most-important-lessons-of-history)
 
         * [http://historiaybiografias.com/](http://graduateinstitute.ch/fr/home/relations-publiques/news-at-the-institute/news-archives.html/_/news/corporate/2016/la-mondialisation-et-le-populism)
 
-        * https://www.hommes-et-faits.com/
+        * [hommes-et-faits.com/](https://www.hommes-et-faits.com/)
 
         * [Andreas Kappeler Vimeo](https://vimeo.com/217483551)
 
@@ -1017,7 +1017,7 @@ Book idea: History of people who were remarkably non-racist / anti-racist for th
 
         * [Axial Age - Wikipedia](https://en.wikipedia.org/wiki/Axial_Age)
 
-        * [Bilder-Rätsel der Geschichte: Alte Zivilisationen in Peru](http://www.faz.net/aktuell/bilder-raetsel-der-geschichte-alte-zivilisationen-in-peru-15538284.html?utm_content=buffer247c3&utm_medium=social&utm_source=facebook.com&utm_campaign=GEPC%253Ds6)
+        * [Bilder-Rätsel der Geschichte: Alte Zivilisationen in Peru](http://www.faz.net/aktuell/bilder-raetsel-der-geschichte-alte-zivilisationen-in-peru-15538284.html)
 
 
     Historia De La Violación En El Antiguo Régimen Europeo | Parte 1
@@ -1028,35 +1028,35 @@ Book idea: History of people who were remarkably non-racist / anti-racist for th
 
         * [History Undressed: History of Hygiene: Bathing, Teeth Cleaning, Toileting, &amp; Deodorizing](http://www.historyundressed.com/2008/07/history-of-hygiene-bathing-teeth.html)
 
-        * http://quatr.us/timelines/7000bc.htm
+        * [quatr.us/timelines/7000bc.htm](http://quatr.us/timelines/7000bc.htm)
 
-        * http://www.arabien.org/klagemauer
+        * [arabien.org/klagemauer](http://www.arabien.org/klagemauer)
 
-        * http://www.historynet.com/famous-women-in-history
+        * [historynet.com/famous-women-in-history](http://www.historynet.com/famous-women-in-history)
 
-        * http://www.hyperhistory.com/online_n2/History_n2/a.html
+        * [hyperhistory.com/online_n2/History_n2/a.html](http://www.hyperhistory.com/online_n2/History_n2/a.html)
 
-        * http://www.lescienze.it/edicola/2017/02/01/news/esperimenti_naturali_di_storia-3406368/
+        * [lescienze.it/edicola/2017/02/01/news/esperimenti_naturali_di_storia-3406368/](http://www.lescienze.it/edicola/2017/02/01/news/esperimenti_naturali_di_storia-3406368/)
 
-        * http://www.wissen.de/die-ersten-hochkulturen-5500-2600-v-chr
+        * [wissen.de/die-ersten-hochkulturen-5500-2600-v-chr](http://www.wissen.de/die-ersten-hochkulturen-5500-2600-v-chr)
 
-        * https://aeon.co/essays/how-did-europe-become-the-richest-part-of-the-world
+        * [aeon.co/essays/how-did-europe-become-the-richest-part-of-the-world](https://aeon.co/essays/how-did-europe-become-the-richest-part-of-the-world)
 
-        * https://aeon.co/ideas/the-invention-of-the-paper-bag-was-a-triumph-of-feminism?utm_source=Aeon+Newsletter&utm_campaign=2052468578-Daily_Newsletter_30_May_20165_30_2016&utm_medium=email&utm_term=0_411a82e59d-2052468578-69016953
+        * [aeon.co/ideas/the-invention-of-the-paper-bag-was-a-triumph-of-feminism](https://aeon.co/ideas/the-invention-of-the-paper-bag-was-a-triumph-of-feminism)
 
-        * https://de.wikipedia.org/wiki/Deutsche_Frage
+        * [de.wikipedia.org/wiki/Deutsche_Frage](https://de.wikipedia.org/wiki/Deutsche_Frage)
 
-        * https://drive.google.com/file/d/1apUme799gQ6K_a-seYB-0Ydvzp9Jy9l-/view
+        * [drive.google.com/file/d/1apUme799gQ6K_a-seYB-0Ydvzp9Jy9l-/view](https://drive.google.com/file/d/1apUme799gQ6K_a-seYB-0Ydvzp9Jy9l-/view)
 
-        * https://nl.wikipedia.org/wiki/Joost_van_den_Vondel
+        * [nl.wikipedia.org/wiki/Joost_van_den_Vondel](https://nl.wikipedia.org/wiki/Joost_van_den_Vondel)
 
-        * https://scholar.google.com/scholar?q=progressive+attitudes+toward+gender+roles+in+history&hl=it&as_sdt=0&as_vis=1&oi=scholart&sa=X&ved=0ahUKEwj1-K3Ev4zLAhVY7GMKHTVeBaMQgQMIGzAA
+        * [scholar.google.com/scholar?q=progressive+attitudes+toward+gender+roles+in+history&hl=it&as_sdt=0&as_vis=1&oi=scholart&sa=X&ved=0ahUKEwj1-K3Ev4zLAhVY7GMKHTVeBaMQgQMIGzAA](https://scholar.google.com/scholar?q=progressive+attitudes+toward+gender+roles+in+history&hl=it&as_sdt=0&as_vis=1&oi=scholart&sa=X&ved=0ahUKEwj1-K3Ev4zLAhVY7GMKHTVeBaMQgQMIGzAA)
 
-        * https://snob.ru/selected/entry/91137
+        * [snob.ru/selected/entry/91137](https://snob.ru/selected/entry/91137)
 
-        * https://styler.rbc.ua/rus/zhizn/rossiyskiy-istorik-obsuzhdaya-smert-motoroly-1476797766.html
+        * [styler.rbc.ua/rus/zhizn/rossiyskiy-istorik-obsuzhdaya-smert-motoroly-1476797766.html](https://styler.rbc.ua/rus/zhizn/rossiyskiy-istorik-obsuzhdaya-smert-motoroly-1476797766.html)
 
-        * https://thebaffler.com/latest/the-forgotten-man-ganz
+        * [thebaffler.com/latest/the-forgotten-man-ganz](https://thebaffler.com/latest/the-forgotten-man-ganz)
 
         * [Jacques le Goff](https://libgen.is/search.php?&req=Jacques+Le+Goff&phrase=0&view=simple&column=author&sort=language&sortmode=DESC)
 
@@ -1133,11 +1133,11 @@ Book idea: History of people who were remarkably non-racist / anti-racist for th
 
         * [Why two geniuses delved into the occult | New Scientist](https://www.newscientist.com/article/dn17023-why-two-geniuses-delved-into-the-occult/)
 
-        * https://en.wikipedia.org/wiki/List_of_Italians#The_1900s_4
+        * [en.wikipedia.org/wiki/List_of_Italians#The_1900s_4](https://en.wikipedia.org/wiki/List_of_Italians#The_1900s_4)
 
-        * https://en.wikipedia.org/wiki/Muhammad
+        * [en.wikipedia.org/wiki/Muhammad](https://en.wikipedia.org/wiki/Muhammad)
 
-        * https://en.wikipedia.org/wiki/Paracelsus
+        * [en.wikipedia.org/wiki/Paracelsus](https://en.wikipedia.org/wiki/Paracelsus)
 
         * [Chen Yun - Wikipedia](https://en.wikipedia.org/wiki/Chen_Yun)
 
@@ -1145,9 +1145,9 @@ Book idea: History of people who were remarkably non-racist / anti-racist for th
 
         * [Enzo Traverso](https://libgen.is/search.php?&req=Enzo+Traverso&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
 
-        * https://quatr.us/
+        * [quatr.us/](https://quatr.us/)
 
-        * https://en.wikipedia.org/wiki/Roy_Rosenzweig
+        * [en.wikipedia.org/wiki/Roy_Rosenzweig](https://en.wikipedia.org/wiki/Roy_Rosenzweig)
 
         * [24 Hours in Ancient Athens. A Day in the Lives of the People Who Lived There - Philip Matyszak.epub](https://vk.com/doc278943367_499705271?hash=2da404b8585fd69e8e&dl=dcd4c084fa3e017792)
 
@@ -1368,7 +1368,7 @@ Book idea: History of people who were remarkably non-racist / anti-racist for th
 
     Легенди та міфи стародавньої Греції
 
-        * https://cronologia.leonardo.it/
+        * [cronologia.leonardo.it/](https://cronologia.leonardo.it/)
 
 
     *[Geschichtsbild der Deutschen: Preußen, ein Zombie](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.faz.net%2Faktuell%2Ffeuilleton%2Fdebatten%2Fhaben-wir-ein-unvollstaendiges-bild-deutscher-geschichte-16856490.html%3Ffbclid%3DIwAR2x_1ObC8Z44ppeyrjx3UAXewE5iCwFEjsV_qv5eIQLCbeoyAmePup6K4M&h=AT2D1PzZvjGXQhb3QqMn4ptu1SmopH8rFgKjhtKHtwwSQfUz3eLddKdIQgZ3xEB1G6hNSoiUZUWyM2Q9slGLw-dx54YeLVfVoeZ0R0NzpWAzHwaixhg_XwwnJ8E4PoM8DMBF-8UckA)*
@@ -1380,7 +1380,7 @@ Book idea: History of people who were remarkably non-racist / anti-racist for th
 
         * [КНИГИ ПО ИСТОРИИ ГЕРМАНИИ](https://vk.com/wall-56611080_102428)
 
-        * https://www.limesonline.com/category/il-mondo-oggi
+        * [limesonline.com/category/il-mondo-oggi](https://www.limesonline.com/category/il-mondo-oggi)
 
         * [Bart D. Ehrman - How Jesus Became God Audiobook](https://youtu.be/NJNNg-CT7Gw)
 
@@ -1403,7 +1403,7 @@ Book idea: History of people who were remarkably non-racist / anti-racist for th
 
         * [Winkler](https://b-ok.cc/s/august%20winkler)
 
-        * http://www.currenthistory.com/about-current-history.php
+        * [currenthistory.com/about-current-history.php](http://www.currenthistory.com/about-current-history.php)
 
 
     Какова жизнь русского мужика? Какова жизнь неграмотногo? etc.
@@ -1483,7 +1483,7 @@ Book idea: History of people who were remarkably non-racist / anti-racist for th
     *[Initial Response : Love is betterly describe has which it isnt then which it is. Reasonings : By the very intricated nature of the humans conditionnings, to be in relationship with any*THING (psychological, emotionnal or physical, any combinations thereof) is almost impossible to most of us. Instead we are in relationship with an "image" which we have constructed in our mind but also society has constructed that leaves no room for seeing things "has they are" but rather how we perceived/react to them. Love isnt an exception of this and describing it might be very difficult for each of us since we never cease to relate its definition to how we feel and how we think the world/love is within our subjective view, or more accurately by the quality of the relationships our mind has with the world. Conclusions : Love isnt wanting things/peoples. Love isnt asking for something in return to anything. Love as no discriminative preference whatsoever. Love has no relationships with hate. Love isnt just something you have, it is fundamentally something you give. Don't hesitated to challenge my position I would LOVE that very much.](https://www.facebook.com/groups/799987083411428/permalink/2896219023788213/)*
 
 
-    *http://www.psicoattivo.com/*
+    *[psicoattivo.com/*](http://www.psicoattivo.com/*)
 
         * [10,000 years ago, people were able to feed and house themselves on 20-40 hours a week of hunter gathering (plus possibly some additional time spent cooking, cleaning, and maintenance). A basic google search gives you this fact, though it varies widely based on the local resources of where they lived. Sure, healthcare was pretty awful, and the food and housing quality was often pretty bad. But it was doable. Somehow, all these years of technological progress have most people still working the same amount of time just to meet their basic needs. Is it really progress? Why haven’t we solved the problem of getting everyone their basic needs met? Why is there still poverty in first world nations? And why does everyone still have to work full time? Shouldn’t doubling production efficiency (something we have done many times over) lead to either half the people needing to work, or half the hours needed to work? Why does, instead, our current system just lead to people needing to work in different ways? Edit: some people may have misread what I am saying. I decided to edit this comment instead of replying so I wouldn’t be copying and pasting what I want to say. Let me be clear. I hoped I wouldn’t need to say this, but I absolutely agree that most people’s standard of living in first world nations is the standard of living that only kings and rich people had just a few hundred years ago. Our food is much more nutritious, tasty, and cheap (spices used to be a luxury, and now they are just a few bucks!). Our medical progress is amazing. Our housing is pretty big, and the weather protection (heating and cooling), not to mention clean water and plumbing are wonderful advancements of society. Clothing is also super cheap. And that’s just basic necessities, all of the stuff we have on top of that is also modern miracles of scientific advancement. I am extremely fortunate to live in today’s world, and don’t want to make it sound like I’m not. I’m also not an anarcho-primitivist, I do like living in our modern day society and consider these advancements good things. Thinking about this more, it comes down to a few thoughts: Minimalist living (ignoring the wealthy pseudo-minimalism) is possible. Even what we consider in the US as “poverty level” can provide you a really good standard of living compared to some people living in third world countries today, though of course this does depend heavily on where you live. The “keeping up with the jones” attitude has permeated many aspects of our modern lives and measures of what a “good economy” is. As Morgan said, this is Keynesianism, and many here agree it is a problem. What I don’t understand is why so many Americans live paycheck to paycheck. Why so many Americans need both parents working just to get by, sometimes more than 40 hours a week. Why sudden mass unemployment causes people to not be able to eat. Do we credit this entirely to them making bad decisions? Or is there a more fundamental problem? I just don’t understand why we let our society get to this place. (Sidenote: I work full time, and am fortunate to earn enough - much above min wage - that I have a 6 months savings built up, and am working towards retirement. I also don’t have any debt aside from a mortgage. These concerns are not personal, but I recognize they are real for many, which is why I bring them up. I say this purely to prevent the conversation from getting derailed into people giving me unwarranted personal advice)](https://www.facebook.com/groups/533049276904843/permalink/1429298037279958/)
 
@@ -1705,15 +1705,15 @@ Book idea: History of people who were remarkably non-racist / anti-racist for th
 
         * [[S01: E24] Как продаётся внимание](https://vk.com/podcast-142990631_456239077)
 
-        * [https://knife.media/adult-growth/](https://vk.com/away.php?to=https%3A%2F%2Fknife.media%2Fadult-growth%2F&post=-32943546_287216&cc_key=)
+        * [knife.media/adult-growth/](https://vk.com/away.php?to=https%3A%2F%2Fknife.media%2Fadult-growth%2F&post=-32943546_287216&cc_key=)
 
-        * [https://knife.media/club/dull-berlin/](https://vk.com/away.php?to=https%3A%2F%2Fknife.media%2Fclub%2Fdull-berlin%2F&post=-32943546_309596&cc_key=)
+        * [knife.media/club/dull-berlin/](https://vk.com/away.php?to=https%3A%2F%2Fknife.media%2Fclub%2Fdull-berlin%2F&post=-32943546_309596&cc_key=)
 
-        * [https://knife.media/future-family/](https://vk.com/away.php?to=https%3A%2F%2Fknife.media%2Ffuture-family%2F&post=-32943546_309995&cc_key=)
+        * [knife.media/future-family/](https://vk.com/away.php?to=https%3A%2F%2Fknife.media%2Ffuture-family%2F&post=-32943546_309995&cc_key=)
 
-        * [https://knife.media/husband-is-not-needed/](https://vk.com/away.php?to=https%3A%2F%2Fknife.media%2Fhusband-is-not-needed%2F&post=-32943546_310102&cc_key=)
+        * [knife.media/husband-is-not-needed/](https://vk.com/away.php?to=https%3A%2F%2Fknife.media%2Fhusband-is-not-needed%2F&post=-32943546_310102&cc_key=)
 
-        * [https://knife.media/new-norm/](https://vk.com/away.php?to=https%3A%2F%2Fknife.media%2Fnew-norm%2F&post=-32943546_309585&cc_key=)
+        * [knife.media/new-norm/](https://vk.com/away.php?to=https%3A%2F%2Fknife.media%2Fnew-norm%2F&post=-32943546_309585&cc_key=)
 
         * [Network Society How Social Relations Rebuild Space(s).epub](https://vk.com/doc348852382_468068769?hash=93ce3a34059a314e6d&dl=24c83fcc897ec9284f)
 
@@ -1791,9 +1791,9 @@ Book idea: History of people who were remarkably non-racist / anti-racist for th
 
         * [A caring majority secures the future | Nature](https://www.nature.com/articles/nature13510)
 
-        * [A guide to 21st-century propaganda: echo chambers, fake news, bots, big data, and the science of persuasion — Quartz](https://qz.com/978548/introducing-our-obsession-with-propaganda/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)
+        * [A guide to 21st-century propaganda: echo chambers, fake news, bots, big data, and the science of persuasion — Quartz](https://qz.com/978548/introducing-our-obsession-with-propaganda/)
 
-        * [A Hollywood no le gustó nada que Ricky Gervais se burlara en su monólogo de los Globos de Oro | Bored Panda](https://www.boredpanda.es/monologo-ricky-gervais-globos-oro-2020/?utm_source=twitter&utm_medium=social&utm_campaign=BPTwitter)
+        * [A Hollywood no le gustó nada que Ricky Gervais se burlara en su monólogo de los Globos de Oro | Bored Panda](https://www.boredpanda.es/monologo-ricky-gervais-globos-oro-2020/)
 
         * [A Point of View - Have we reached Peak Stuff? - BBC Sounds](https://www.bbc.co.uk/sounds/play/m0001yb4)
 
@@ -1827,139 +1827,139 @@ Book idea: History of people who were remarkably non-racist / anti-racist for th
 
         * [Hofstede 2](https://libgen.is/search.php?&req=Gert+hofstede&phrase=1&view=simple&column=author&sort=year&sortmode=DESC)
 
-        * http://anthropology.ru/ru/text/kalandiya-id/nauchno-tehnicheskiy-progress-i-nekotorye-aspekty-razvitiya-kultury
+        * [anthropology.ru/ru/text/kalandiya-id/nauchno-tehnicheskiy-progress-i-nekotorye-aspekty-razvitiya-kultury](http://anthropology.ru/ru/text/kalandiya-id/nauchno-tehnicheskiy-progress-i-nekotorye-aspekty-razvitiya-kultury)
 
-        * http://anthrowiki.at/Weltanschauung
+        * [anthrowiki.at/Weltanschauung](http://anthrowiki.at/Weltanschauung)
 
-        * http://bigthink.com/scotty-hendricks/how-much-we-trust-someone-depends-on-their-response-to-this-moral-dilemma?utm_campaign=Echobox&utm_medium=Social&utm_source=Facebook#link_time=1492104142
+        * [bigthink.com/scotty-hendricks/how-much-we-trust-someone-depends-on-their-response-to-this-moral-dilemma](http://bigthink.com/scotty-hendricks/how-much-we-trust-someone-depends-on-their-response-to-this-moral-dilemma)
 
-        * http://blurblawg.typepad.com/files/alabamaliteraryaddressesfinal.pdf
+        * [blurblawg.typepad.com/files/alabamaliteraryaddressesfinal.pdf](http://blurblawg.typepad.com/files/alabamaliteraryaddressesfinal.pdf)
 
-        * http://guides.lib.byu.edu/c.php?g=216455&p=1429104
+        * [guides.lib.byu.edu/c.php?g=216455&p=1429104](http://guides.lib.byu.edu/c.php?g=216455&p=1429104)
 
-        * http://jetzt.sueddeutsche.de/texte/anzeigen/592176/Fleissige-Briten-opportunistische-Spanier
+        * [jetzt.sueddeutsche.de/texte/anzeigen/592176/Fleissige-Briten-opportunistische-Spanier](http://jetzt.sueddeutsche.de/texte/anzeigen/592176/Fleissige-Briten-opportunistische-Spanier)
 
-        * http://listaka.com/top-10-most-clean-and-hygienic-countries-in-the-world/
+        * [listaka.com/top-10-most-clean-and-hygienic-countries-in-the-world/](http://listaka.com/top-10-most-clean-and-hygienic-countries-in-the-world/)
 
-        * http://theglobaljournal.net/article/view/694/
+        * [theglobaljournal.net/article/view/694/](http://theglobaljournal.net/article/view/694/)
 
-        * http://time.com/4186601/best-country-in-the-world-davos/
+        * [time.com/4186601/best-country-in-the-world-davos/](http://time.com/4186601/best-country-in-the-world-davos/)
 
-        * http://truemoral.ru/develop.php
+        * [truemoral.ru/develop.php](http://truemoral.ru/develop.php)
 
-        * http://truemoral.ru/index.php
+        * [truemoral.ru/index.php](http://truemoral.ru/index.php)
 
 
 * Reading (4)
-        * http://understandingsociety.blogspot.ru/2008/07/intellectual-leaders.html
+        * [understandingsociety.blogspot.ru/2008/07/intellectual-leaders.html](http://understandingsociety.blogspot.ru/2008/07/intellectual-leaders.html)
 
-        * http://whynationsfail.com/
+        * [whynationsfail.com/](http://whynationsfail.com/)
 
-        * http://worldhappiness.report/
+        * [worldhappiness.report/](http://worldhappiness.report/)
 
-        * http://www.annualreviews.org/doi/pdf/10.1146/annurev.soc.012809.102503
+        * [annualreviews.org/doi/pdf/10.1146/annurev.soc.012809.102503](http://www.annualreviews.org/doi/pdf/10.1146/annurev.soc.012809.102503)
 
-        * http://www.arabstereotypes.org/
+        * [arabstereotypes.org/](http://www.arabstereotypes.org/)
 
-        * http://www.arabstereotypes.org/blog/201208/23-415
+        * [arabstereotypes.org/blog/201208/23-415](http://www.arabstereotypes.org/blog/201208/23-415)
 
-        * http://www.atlantico.fr/decryptage/sentinelles-tribu-isolee-depuis-60-000-ans-ile-plus-dangereuse-au-monde-2263730.html
+        * [atlantico.fr/decryptage/sentinelles-tribu-isolee-depuis-60-000-ans-ile-plus-dangereuse-au-monde-2263730.html](http://www.atlantico.fr/decryptage/sentinelles-tribu-isolee-depuis-60-000-ans-ile-plus-dangereuse-au-monde-2263730.html)
 
-        * http://www.barbier-rd.nom.fr/culture.chinoise.culture.occidentale.pdf
+        * [barbier-rd.nom.fr/culture.chinoise.culture.occidentale.pdf](http://www.barbier-rd.nom.fr/culture.chinoise.culture.occidentale.pdf)
 
-        * http://www.bartleby.com/290/3.html
+        * [bartleby.com/290/3.html](http://www.bartleby.com/290/3.html)
 
-        * http://www.bbc.com/future/story/20170118-how-east-and-west-think-in-profoundly-different-ways?utm_source=pocket&utm_medium=email&utm_campaign=pockethits
+        * [bbc.com/future/story/20170118-how-east-and-west-think-in-profoundly-different-ways](http://www.bbc.com/future/story/20170118-how-east-and-west-think-in-profoundly-different-ways)
 
-        * http://www.beyondintractability.org/essay/cultural-frames
+        * [beyondintractability.org/essay/cultural-frames](http://www.beyondintractability.org/essay/cultural-frames)
 
-        * http://www.businessinsider.com/3-maps-of-sex-trends-around-the-world-2013-10
+        * [businessinsider.com/3-maps-of-sex-trends-around-the-world-2013-10](http://www.businessinsider.com/3-maps-of-sex-trends-around-the-world-2013-10)
 
-        * http://www.cafebabel.it/societa/articolo/mappa-della-settimana-la-ricerca-in-europa-e-i-suoi-confini.html
+        * [cafebabel.it/societa/articolo/mappa-della-settimana-la-ricerca-in-europa-e-i-suoi-confini.html](http://www.cafebabel.it/societa/articolo/mappa-della-settimana-la-ricerca-in-europa-e-i-suoi-confini.html)
 
-        * http://www.cracked.com/photoplasty_859_25-insane-subcultures-you-wont-believe-actually-exist/
+        * [cracked.com/photoplasty_859_25-insane-subcultures-you-wont-believe-actually-exist/](http://www.cracked.com/photoplasty_859_25-insane-subcultures-you-wont-believe-actually-exist/)
 
-        * http://www.ideasthatmatter.com/
+        * [ideasthatmatter.com/](http://www.ideasthatmatter.com/)
 
-        * http://www.iea.org.uk/sites/default/files/publications/files/IEA%20Public%20Choice%20web%20complete%2029.1.12.pdf
+        * [iea.org.uk/sites/default/files/publications/files/IEA%20Public%20Choice%20web%20complete%2029.1.12.pdf](http://www.iea.org.uk/sites/default/files/publications/files/IEA%20Public%20Choice%20web%20complete%2029.1.12.pdf)
 
-        * http://www.italia.it/de/reisetipps/kultur-und-veranstaltungen/karneval-von-italien.html
+        * [italia.it/de/reisetipps/kultur-und-veranstaltungen/karneval-von-italien.html](http://www.italia.it/de/reisetipps/kultur-und-veranstaltungen/karneval-von-italien.html)
 
-        * http://www.nationsonline.org/oneworld/croatia.htm
+        * [nationsonline.org/oneworld/croatia.htm](http://www.nationsonline.org/oneworld/croatia.htm)
 
-        * http://www.revistas.unam.mx/index.php/bitacora/article/download/57357/50898
+        * [revistas.unam.mx/index.php/bitacora/article/download/57357/50898](http://www.revistas.unam.mx/index.php/bitacora/article/download/57357/50898)
 
-        * http://www.smh.com.au/news/opinion/behind-the-veil-lives-a-thriving-muslim-sexuality/2008/08/29/1219516734637.html?page=2
+        * [smh.com.au/news/opinion/behind-the-veil-lives-a-thriving-muslim-sexuality/2008/08/29/1219516734637.html?page=2](http://www.smh.com.au/news/opinion/behind-the-veil-lives-a-thriving-muslim-sexuality/2008/08/29/1219516734637.html?page=2)
 
-        * http://www.sociology.ox.ac.uk/materials/papers/2010-05.pdf
+        * [sociology.ox.ac.uk/materials/papers/2010-05.pdf](http://www.sociology.ox.ac.uk/materials/papers/2010-05.pdf)
 
-        * http://www.spektrum.de/magazin/warum-werden-vorstadtkinder-zu-terroristen/1337870
+        * [spektrum.de/magazin/warum-werden-vorstadtkinder-zu-terroristen/1337870](http://www.spektrum.de/magazin/warum-werden-vorstadtkinder-zu-terroristen/1337870)
 
-        * http://www.suapesquisa.com/paises/japao/curiosidades.htm
+        * [suapesquisa.com/paises/japao/curiosidades.htm](http://www.suapesquisa.com/paises/japao/curiosidades.htm)
 
-        * http://www.taz.de/!5075574/
+        * [taz.de/!5075574/](http://www.taz.de/!5075574/)
 
-        * http://www.tenhomaisdiscosqueamigos.com/2018/06/13/radiohead-choque-cultura/
+        * [tenhomaisdiscosqueamigos.com/2018/06/13/radiohead-choque-cultura/](http://www.tenhomaisdiscosqueamigos.com/2018/06/13/radiohead-choque-cultura/)
 
-        * http://www.welt.de/wirtschaft/article145001725/So-ticken-die-Deutschen-wirklich.html
+        * [welt.de/wirtschaft/article145001725/So-ticken-die-Deutschen-wirklich.html](http://www.welt.de/wirtschaft/article145001725/So-ticken-die-Deutschen-wirklich.html)
 
-        * http://www.zeit.de/2003/45/Informationsges_
+        * [zeit.de/2003/45/Informationsges_](http://www.zeit.de/2003/45/Informationsges_)
 
-        * http://www.zeit.de/2012/52/Ehemalige-Priester-Arbeitsmarkt-Oesterreich
+        * [zeit.de/2012/52/Ehemalige-Priester-Arbeitsmarkt-Oesterreich](http://www.zeit.de/2012/52/Ehemalige-Priester-Arbeitsmarkt-Oesterreich)
 
-        * http://www.zeit.de/2016/36/zoelibat-rainer-maria-schiessler-seelsorger
+        * [zeit.de/2016/36/zoelibat-rainer-maria-schiessler-seelsorger](http://www.zeit.de/2016/36/zoelibat-rainer-maria-schiessler-seelsorger)
 
-        * http://www.zeit.de/2016/36/zoelibat-rainer-maria-schiessler-seelsorger/seite-3
+        * [zeit.de/2016/36/zoelibat-rainer-maria-schiessler-seelsorger/seite-3](http://www.zeit.de/2016/36/zoelibat-rainer-maria-schiessler-seelsorger/seite-3)
 
-        * https://aeon.co/opinions/how-far-beyond-earth-will-we-go-to-safeguard-our-species
+        * [aeon.co/opinions/how-far-beyond-earth-will-we-go-to-safeguard-our-species](https://aeon.co/opinions/how-far-beyond-earth-will-we-go-to-safeguard-our-species)
 
-        * https://barryeidlin.org/2018/12/27/an-introduction-to-comparative-historical-sociology/
+        * [barryeidlin.org/2018/12/27/an-introduction-to-comparative-historical-sociology/](https://barryeidlin.org/2018/12/27/an-introduction-to-comparative-historical-sociology/)
 
-        * https://bibliothek.wzb.eu/artikel/2011/f-17043.pdf
+        * [bibliothek.wzb.eu/artikel/2011/f-17043.pdf](https://bibliothek.wzb.eu/artikel/2011/f-17043.pdf)
 
-        * https://bonald.wordpress.com/in-defense-of-patriarchy/
+        * [bonald.wordpress.com/in-defense-of-patriarchy/](https://bonald.wordpress.com/in-defense-of-patriarchy/)
 
-        * https://cultureinfluences.com/de/
+        * [cultureinfluences.com/de/](https://cultureinfluences.com/de/)
 
-        * https://de.wikipedia.org/wiki/Asexualit%C3%A4t
+        * [de.wikipedia.org/wiki/Asexualit%C3%A4t](https://de.wikipedia.org/wiki/Asexualit%C3%A4t)
 
-        * https://de.wikipedia.org/wiki/P%C3%A4dagogische_Psychologie
+        * [de.wikipedia.org/wiki/P%C3%A4dagogische_Psychologie](https://de.wikipedia.org/wiki/P%C3%A4dagogische_Psychologie)
 
-        * https://es.wikipedia.org/wiki/Trentino-Alto_Adigio#Idiomas
+        * [es.wikipedia.org/wiki/Trentino-Alto_Adigio#Idiomas](https://es.wikipedia.org/wiki/Trentino-Alto_Adigio#Idiomas)
 
-        * https://newrepublic.com/article/153153/age-anxiety
+        * [newrepublic.com/article/153153/age-anxiety](https://newrepublic.com/article/153153/age-anxiety)
 
-        * https://postnauka.ru/courses/28275
+        * [postnauka.ru/courses/28275](https://postnauka.ru/courses/28275)
 
-        * https://rsf.uni-greifswald.de/fileadmin/uni-greifswald/fakultaet/rsf/lehrstuehle/ls-flessa/et/Entscheidungstheorie__Kapitel_3.pdf
+        * [rsf.uni-greifswald.de/fileadmin/uni-greifswald/fakultaet/rsf/lehrstuehle/ls-flessa/et/Entscheidungstheorie__Kapitel_3.pdf](https://rsf.uni-greifswald.de/fileadmin/uni-greifswald/fakultaet/rsf/lehrstuehle/ls-flessa/et/Entscheidungstheorie__Kapitel_3.pdf)
 
-        * https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D0%B0
+        * [ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D0%B0](https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D0%B0)
 
-        * https://vk.com/@uber__mensch-razmyshleniya-zhdeleza-o-disciplinarnyh-obschestvah-i-obsche
+        * [vk.com/@uber__mensch-razmyshleniya-zhdeleza-o-disciplinarnyh-obschestvah-i-obsche](https://vk.com/@uber__mensch-razmyshleniya-zhdeleza-o-disciplinarnyh-obschestvah-i-obsche)
 
-        * https://www.abainternational.org/welcome.aspx
+        * [abainternational.org/welcome.aspx](https://www.abainternational.org/welcome.aspx)
 
-        * https://www.academia.edu/1509390/Between_faith_and_science_World_culture_theory_and_comparative_education
+        * [academia.edu/1509390/Between_faith_and_science_World_culture_theory_and_comparative_education](https://www.academia.edu/1509390/Between_faith_and_science_World_culture_theory_and_comparative_education)
 
-        * https://www.bpastudies.org/bpastudies/article/view/127/247
+        * [bpastudies.org/bpastudies/article/view/127/247](https://www.bpastudies.org/bpastudies/article/view/127/247)
 
-        * https://www.facebook.com/jesse.bardsley/posts/1832338816798027
+        * [facebook.com/jesse.bardsley/posts/1832338816798027](https://www.facebook.com/jesse.bardsley/posts/1832338816798027)
 
-        * https://www.forbes.com/2011/01/19/norway-denmark-finland-business-washington-world-happiest-countries.html
+        * [forbes.com/2011/01/19/norway-denmark-finland-business-washington-world-happiest-countries.html](https://www.forbes.com/2011/01/19/norway-denmark-finland-business-washington-world-happiest-countries.html)
 
-        * https://www.goethe.de/de/uun/prs/int/pra/20450313.html
+        * [goethe.de/de/uun/prs/int/pra/20450313.html](https://www.goethe.de/de/uun/prs/int/pra/20450313.html)
 
-        * https://www.google.com/search?q=Worldviews%3A+Cross-cultural+Explorations+of+Human+Beliefs&oq=Worldviews%3A+Cross-cultural+Explorations+of+Human+Beliefs&aqs=chrome..69i57j69i58.345j0j4&sourceid=chrome&es_sm=93&ie=UTF-8
+        * [google.com/search?q=Worldviews%3A+Cross-cultural+Explorations+of+Human+Beliefs&oq=Worldviews%3A+Cross-cultural+Explorations+of+Human+Beliefs&aqs=chrome..69i57j69i58.345j0j4&sourceid=chrome&es_sm=93&ie=UTF-8](https://www.google.com/search?q=Worldviews%3A+Cross-cultural+Explorations+of+Human+Beliefs&oq=Worldviews%3A+Cross-cultural+Explorations+of+Human+Beliefs&aqs=chrome..69i57j69i58.345j0j4&sourceid=chrome&es_sm=93&ie=UTF-8)
 
-        * https://www.humanite.fr/node/82527
+        * [humanite.fr/node/82527](https://www.humanite.fr/node/82527)
 
-        * https://www.justlanded.com/deutsch/Spanien/Artikel/Kultur/Kulturelle-Tipps
+        * [justlanded.com/deutsch/Spanien/Artikel/Kultur/Kulturelle-Tipps](https://www.justlanded.com/deutsch/Spanien/Artikel/Kultur/Kulturelle-Tipps)
 
-        * https://www.mpg.de/11537091/W005_Kultur_Gesellschaft_068-075.pdf
+        * [mpg.de/11537091/W005_Kultur_Gesellschaft_068-075.pdf](https://www.mpg.de/11537091/W005_Kultur_Gesellschaft_068-075.pdf)
 
-        * https://www.standardmedia.co.ke/ureport/article/2000173888/why-african-men-will-always-want-more-than-one-woman
+        * [standardmedia.co.ke/ureport/article/2000173888/why-african-men-will-always-want-more-than-one-woman](https://www.standardmedia.co.ke/ureport/article/2000173888/why-african-men-will-always-want-more-than-one-woman)
 
-        * https://www.ted.com/talks/stuart_brown_says_play_is_more_than_fun_it_s_vital/transcript?language=en#t-32000
+        * [ted.com/talks/stuart_brown_says_play_is_more_than_fun_it_s_vital/transcript?language=en#t-32000](https://www.ted.com/talks/stuart_brown_says_play_is_more_than_fun_it_s_vital/transcript?language=en#t-32000)
 
         * [Il pipistrello da Batman al Coronavirus: ecco perché ci fa paura](https://www.tpi.it/costume/pipistrello-simbolo-paura-coronavirus-batman-20200409582625/?fbclid=IwAR2VwYl7oEWlOrskmE-tE6Q3WQuKPvOhkDE48YiDBvzZx2KE-B76X6flHhU)
 
@@ -2046,23 +2046,23 @@ Book idea: History of people who were remarkably non-racist / anti-racist for th
 
         * [Спринт / Элегия хиллбилли / Рассказываем о ключевых идеях бестселлера «Hillbilly Elegy» Джей Ди Вэнса](https://makeright.ru/library/hillbilly-elegy-sprint/?read=indesign)
 
-        * https://en.wikibooks.org/wiki/Introduction_to_Sociology/Stratification
+        * [en.wikibooks.org/wiki/Introduction_to_Sociology/Stratification](https://en.wikibooks.org/wiki/Introduction_to_Sociology/Stratification)
 
-        * https://en.wikipedia.org/wiki/Category:Public_opinion_research_companies
+        * [en.wikipedia.org/wiki/Category:Public_opinion_research_companies](https://en.wikipedia.org/wiki/Category:Public_opinion_research_companies)
 
-        * https://en.wikipedia.org/wiki/Democracy_Index
+        * [en.wikipedia.org/wiki/Democracy_Index](https://en.wikipedia.org/wiki/Democracy_Index)
 
-        * https://en.wikipedia.org/wiki/Genital_modification_and_mutilation
+        * [en.wikipedia.org/wiki/Genital_modification_and_mutilation](https://en.wikipedia.org/wiki/Genital_modification_and_mutilation)
 
-        * https://en.wikipedia.org/wiki/List_of_people_born_in_Ukraine
+        * [en.wikipedia.org/wiki/List_of_people_born_in_Ukraine](https://en.wikipedia.org/wiki/List_of_people_born_in_Ukraine)
 
-        * https://en.wikipedia.org/wiki/List_of_subcultures
+        * [en.wikipedia.org/wiki/List_of_subcultures](https://en.wikipedia.org/wiki/List_of_subcultures)
 
-        * https://en.wikipedia.org/wiki/Race_to_the_bottom
+        * [en.wikipedia.org/wiki/Race_to_the_bottom](https://en.wikipedia.org/wiki/Race_to_the_bottom)
 
-        * https://en.wikipedia.org/wiki/The_Nature_and_Origins_of_Mass_Opinion
+        * [en.wikipedia.org/wiki/The_Nature_and_Origins_of_Mass_Opinion](https://en.wikipedia.org/wiki/The_Nature_and_Origins_of_Mass_Opinion)
 
-        * https://en.wikipedia.org/wiki/The_Negro_Family:_The_Case_For_National_Action
+        * [en.wikipedia.org/wiki/The_Negro_Family:_The_Case_For_National_Action](https://en.wikipedia.org/wiki/The_Negro_Family:_The_Case_For_National_Action)
 
         * [Advertising and cultural complexity: Veda Partalo at TEDxUConn 2013 - YouTube](https://www.youtube.com/watch?v=HhzvEBJ9fEA)
 
@@ -2075,15 +2075,15 @@ Book idea: History of people who were remarkably non-racist / anti-racist for th
 
     Deutschland - Was ist Deutschland ? - YouTube
 
-        * http://petrimazepa.com/ru/giperboleya.html
+        * [petrimazepa.com/ru/giperboleya.html](http://petrimazepa.com/ru/giperboleya.html)
 
-        * http://pro.radiomayak.ru/teoria_obmana/
+        * [pro.radiomayak.ru/teoria_obmana/](http://pro.radiomayak.ru/teoria_obmana/)
 
-        * https://it.wikipedia.org/wiki/Arnold_Toynbee
+        * [it.wikipedia.org/wiki/Arnold_Toynbee](https://it.wikipedia.org/wiki/Arnold_Toynbee)
 
-        * https://nos.nl/artikel/2223373-de-vs-is-in-de-ban-van-een-opiaten-epidemie-wat-is-dat.html
+        * [nos.nl/artikel/2223373-de-vs-is-in-de-ban-van-een-opiaten-epidemie-wat-is-dat.html](https://nos.nl/artikel/2223373-de-vs-is-in-de-ban-van-een-opiaten-epidemie-wat-is-dat.html)
 
-        * https://nzzas.nzz.ch/gesellschaft/maenner-und-muskeln-schoenheitsideal-ist-ausser-kontrolle-ld.1440740
+        * [nzzas.nzz.ch/gesellschaft/maenner-und-muskeln-schoenheitsideal-ist-ausser-kontrolle-ld.1440740](https://nzzas.nzz.ch/gesellschaft/maenner-und-muskeln-schoenheitsideal-ist-ausser-kontrolle-ld.1440740)
 
         * [Les 4 villes en avance sur leur temps - Nota Bene #7 - YouTube](https://www.youtube.com/watch?v=ZTcbIklj0UA)
 
@@ -2126,43 +2126,43 @@ Book idea: History of people who were remarkably non-racist / anti-racist for th
 
         * [La influencia del cine en la conducta de la gente](https://www.facebook.com/groups/279472675583089/901230193407331/)
 
-        * https://en.wikipedia.org/wiki/Remarriage
+        * [en.wikipedia.org/wiki/Remarriage](https://en.wikipedia.org/wiki/Remarriage)
 
         * ["Die Psychologie der Massen" - Wie man Menschenmassen manipuliert (Hörbuch) - YouTube](https://www.youtube.com/watch?v=o-gMzguEKMI)
 
         * [A Modern Reader in Institutional and Evolutionary Economics: Key Concepts (In Association With the European Association of Evolutionary Political Economy (Eaepe).) | Geoffrey M. Hodgson, European Association for Evolutionary Political Economy | download](https://b-ok.cc/book/726402/04e382)
 
-        * http://degrees.fhi360.org/
+        * [degrees.fhi360.org/](http://degrees.fhi360.org/)
 
-        * http://es.db-city.com/
+        * [es.db-city.com/](http://es.db-city.com/)
 
-        * http://europaworld.com/countries
+        * [europaworld.com/countries](http://europaworld.com/countries)
 
-        * http://faculty.wcas.northwestern.edu/~sjv340/roots_of_gender_inequality.pdf
+        * [faculty.wcas.northwestern.edu/~sjv340/roots_of_gender_inequality.pdf](http://faculty.wcas.northwestern.edu/~sjv340/roots_of_gender_inequality.pdf)
 
-        * http://fowid.de/
+        * [fowid.de/](http://fowid.de/)
 
-        * http://hollowverse.com/
+        * [hollowverse.com/](http://hollowverse.com/)
 
-        * http://kalliopeia.org/
+        * [kalliopeia.org/](http://kalliopeia.org/)
 
-        * http://phys.org/science-news/social-sciences/
+        * [phys.org/science-news/social-sciences/](http://phys.org/science-news/social-sciences/)
 
         * [http://sutherlandinstitute.org](http://sutherlandinstitute.org/)
 
-        * http://www.boeckler.de/index.htm
+        * [boeckler.de/index.htm](http://www.boeckler.de/index.htm)
 
-        * http://www.worldvaluessurvey.org/wvs.jsp
+        * [worldvaluessurvey.org/wvs.jsp](http://www.worldvaluessurvey.org/wvs.jsp)
 
-        * http://www.wsj.com/articles/love-or-hate-the-type-who-makes-trains-run-on-time-1432671204
+        * [wsj.com/articles/love-or-hate-the-type-who-makes-trains-run-on-time-1432671204](http://www.wsj.com/articles/love-or-hate-the-type-who-makes-trains-run-on-time-1432671204)
 
-        * https://codeandculture.wordpress.com/
+        * [codeandculture.wordpress.com/](https://codeandculture.wordpress.com/)
 
-        * https://epthinktank.eu/
+        * [epthinktank.eu/](https://epthinktank.eu/)
 
-        * https://topyaps.com/top-10-groundbreaking-books-of-noam-chomsky/
+        * [topyaps.com/top-10-groundbreaking-books-of-noam-chomsky/](https://topyaps.com/top-10-groundbreaking-books-of-noam-chomsky/)
 
-        * https://www.lawfareblog.com/topic/podcasts
+        * [lawfareblog.com/topic/podcasts](https://www.lawfareblog.com/topic/podcasts)
 
         * [Library Genesis: Clive H. Church; Randolph C. Head - A Concise History of Switzerland](https://libgen.is/book/index.php?md5=046E534312EEDA8990A82749EBAB90FC)
 
@@ -2200,7 +2200,7 @@ Book idea: History of people who were remarkably non-racist / anti-racist for th
 
         * [geerthofstede.nl](http://www.geerthofstede.nl/)
 
-        * https://lexikon.stangl.eu/
+        * [lexikon.stangl.eu/](https://lexikon.stangl.eu/)
 
         * [SAPIENS - Anthropology / Everything Human](https://www.sapiens.org/)
 
@@ -2208,100 +2208,100 @@ Book idea: History of people who were remarkably non-racist / anti-racist for th
 
         * [Когнитивистика](https://vk.com/kognitivnaja_nauka)
 
-        * http://ecsocman.hse.ru/
+        * [ecsocman.hse.ru/](http://ecsocman.hse.ru/)
 
-        * http://www.idies.org/
+        * [idies.org/](http://www.idies.org/)
 
-        * http://www.zeithistorische-forschungen.de/
+        * [zeithistorische-forschungen.de/](http://www.zeithistorische-forschungen.de/)
 
-        * http://iisdm.nyu.edu/
+        * [iisdm.nyu.edu/](http://iisdm.nyu.edu/)
 
 
     debates
 
-        * http://www.euractiv.fr/
+        * [euractiv.fr/](http://www.euractiv.fr/)
 
-        * http://www.procon.org/
+        * [procon.org/](http://www.procon.org/)
 
-        * http://blog.debate.org/
+        * [blog.debate.org/](http://blog.debate.org/)
 
-        * http://ic.galegroup.com/ic/ovic/?p=OVIC&u=byuprovo
+        * [ic.galegroup.com/ic/ovic/?p=OVIC&u=byuprovo](http://ic.galegroup.com/ic/ovic/?p=OVIC&u=byuprovo)
 
-        * http://www.debatingeurope.eu/
+        * [debatingeurope.eu/](http://www.debatingeurope.eu/)
 
-        * http://events.fora.tv/
+        * [events.fora.tv/](http://events.fora.tv/)
 
-        * http://www.nytimes.com/pages/opinion/index.html
+        * [nytimes.com/pages/opinion/index.html](http://www.nytimes.com/pages/opinion/index.html)
 
-        * http://www.policy-network.net/content.aspx?CategoryID=354
+        * [policy-network.net/content.aspx?CategoryID=354](http://www.policy-network.net/content.aspx?CategoryID=354)
 
-        * http://www.liveinternet.ru/tags/%F1%EF%EE%F0%ED%FB%E5+%E2%EE%EF%F0%EE%F1%FB/
+        * [liveinternet.ru/tags/%F1%EF%EE%F0%ED%FB%E5+%E2%EE%EF%F0%EE%F1%FB/](http://www.liveinternet.ru/tags/%F1%EF%EE%F0%ED%FB%E5+%E2%EE%EF%F0%EE%F1%FB/)
 
-        * http://www.theeuropean.de/
+        * [theeuropean.de/](http://www.theeuropean.de/)
 
-        * https://publixphere.net/i/publixphere-de/instance/publixphere-de
+        * [publixphere.net/i/publixphere-de/instance/publixphere-de](https://publixphere.net/i/publixphere-de/instance/publixphere-de)
 
-        * http://www.taz.de/Gesellschaft/Debatte/!p4633/
+        * [taz.de/Gesellschaft/Debatte/!p4633/](http://www.taz.de/Gesellschaft/Debatte/!p4633/)
 
-        * http://www.faz.net/aktuell/feuilleton/debatten/
+        * [faz.net/aktuell/feuilleton/debatten/](http://www.faz.net/aktuell/feuilleton/debatten/)
 
-        * http://www.quialacote.ca/
+        * [quialacote.ca/](http://www.quialacote.ca/)
 
-        * http://debats.netoo.net/index.php
+        * [debats.netoo.net/index.php](http://debats.netoo.net/index.php)
 
-        * http://www.cafes-citoyens.fr/debats
+        * [cafes-citoyens.fr/debats](http://www.cafes-citoyens.fr/debats)
 
-        * http://www.ceuropeens.org/
+        * [ceuropeens.org/](http://www.ceuropeens.org/)
 
-        * http://www.lavanguardia.com/opinion/temas-de-debate
+        * [lavanguardia.com/opinion/temas-de-debate](http://www.lavanguardia.com/opinion/temas-de-debate)
 
-        * http://forum.consciencia.org/index.php
+        * [forum.consciencia.org/index.php](http://forum.consciencia.org/index.php)
 
-        * https://it.answers.yahoo.com/
+        * [it.answers.yahoo.com/](https://it.answers.yahoo.com/)
 
-        * http://www.aljazeera.net/portal
+        * [aljazeera.net/portal](http://www.aljazeera.net/portal)
 
 
 * Reading (5)
-        * http://www.positiveparentingsolutions.com/parenting-blog
+        * [positiveparentingsolutions.com/parenting-blog](http://www.positiveparentingsolutions.com/parenting-blog)
 
-        * http://parenting.blogs.nytimes.com/
+        * [parenting.blogs.nytimes.com/](http://parenting.blogs.nytimes.com/)
 
-        * http://www.kid.ru/pregnancy/index400.php3
+        * [kid.ru/pregnancy/index400.php3](http://www.kid.ru/pregnancy/index400.php3)
 
-        * http://www.ya-roditel.ru/parents/base/
+        * [ya-roditel.ru/parents/base/](http://www.ya-roditel.ru/parents/base/)
 
-        * http://www.sun-hands.ru/17deti.html
+        * [sun-hands.ru/17deti.html](http://www.sun-hands.ru/17deti.html)
 
-        * http://www.psychologos.ru/categories/view/vospitanie_detey
+        * [psychologos.ru/categories/view/vospitanie_detey](http://www.psychologos.ru/categories/view/vospitanie_detey)
 
-        * http://www.planet.vertbaudet.com/#
+        * [planet.vertbaudet.com/#](http://www.planet.vertbaudet.com/#)
 
-        * http://www.cote-momes.com/
+        * [cote-momes.com/](http://www.cote-momes.com/)
 
 
     pédagogie
 
-        * http://www.debats.cat/es
+        * [debats.cat/es](http://www.debats.cat/es)
 
-        * http://www.fachportal-paedagogik.de/start.html
+        * [fachportal-paedagogik.de/start.html](http://www.fachportal-paedagogik.de/start.html)
 
-        * http://www.bildungsserver.de/
+        * [bildungsserver.de/](http://www.bildungsserver.de/)
 
-        * https://www.gew.de/
+        * [gew.de/](https://www.gew.de/)
 
-        * https://dianeravitch.net/
+        * [dianeravitch.net/](https://dianeravitch.net/)
 
-        * http://dianeravitch.com/
+        * [dianeravitch.com/](http://dianeravitch.com/)
 
 
     Internationaler Vergleich
 
-        * https://en.wikipedia.org/wiki/Comparative_education
+        * [en.wikipedia.org/wiki/Comparative_education](https://en.wikipedia.org/wiki/Comparative_education)
 
-        * https://www.academia.edu/1509390/Between_faith_and_science_World_culture_theory_and_comparative_education
+        * [academia.edu/1509390/Between_faith_and_science_World_culture_theory_and_comparative_education](https://www.academia.edu/1509390/Between_faith_and_science_World_culture_theory_and_comparative_education)
 
-        * http://www.palgrave-journals.com/articles/palcomms201526
+        * [palgrave-journals.com/articles/palcomms201526](http://www.palgrave-journals.com/articles/palcomms201526)
 
         * [Leitbilder in den Sozialwissenschaften: Begriffe, Theorien und Forschungskonzepte](https://b-ok.cc/book/828264/c1e00b)
 
@@ -2331,14 +2331,14 @@ Book idea: History of people who were remarkably non-racist / anti-racist for th
 
         * [Du Conservatisme et du Libertarianisme | Hans-Hermann Hoppe](https://b-ok.cc/book/3657031/e900ef)
 
-        * https://b-ok.cc/s/?q=politica
+        * [b-ok.cc/s/?q=politica](https://b-ok.cc/s/?q=politica)
 
         * [Left in Europe](http://www.rosalux-nyc.org/wp-content/files_mf/theleftineurope_eng.pdf)
 
 
     problems with Gone with the Wind
 
-        * [Chomsly Nuremberg](https://www.reddit.com/r/AskHistorians/comments/4ru2xu/how_accurate_is_noam_chomskys_claim_that_if_the/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+        * [Chomsly Nuremberg](https://www.reddit.com/r/AskHistorians/comments/4ru2xu/how_accurate_is_noam_chomskys_claim_that_if_the/)
 
         * [Economists' bias](https://evonomics.com/economist-ideologically-biased-javdani-chang/%20%20%20Inviato%20da%20iPhone)
 
@@ -2356,12 +2356,12 @@ Book idea: History of people who were remarkably non-racist / anti-racist for th
 
         * [10 Horrible Ben Shapiro Arguments Debunked](https://youtu.be/KcTx_SXun_4)
 
-        * http://www.righteousdominion.org/2019/04/28/18-teachers-at-byu-to-avoid/
+        * [righteousdominion.org/2019/04/28/18-teachers-at-byu-to-avoid/](http://www.righteousdominion.org/2019/04/28/18-teachers-at-byu-to-avoid/)
 
 
     - [** Worker's Song](https://www.youtube.com/watch?v=aTafZRecy2k)
 
-        * https://de.wikipedia.org/wiki/Ludwig_von_Mises
+        * [de.wikipedia.org/wiki/Ludwig_von_Mises](https://de.wikipedia.org/wiki/Ludwig_von_Mises)
 
         * [Познер. Александр Дугин](https://youtu.be/XEwSPzOJvaI)
 
@@ -2371,27 +2371,27 @@ Book idea: History of people who were remarkably non-racist / anti-racist for th
 
         * [Marx-Engels Werke als PDF zum Download](https://marx-wirklich-studieren.net/marx-engels-werke-als-pdf-zum-download/)
 
-        * https://www.nybooks.com/contributors/john-gray/
+        * [nybooks.com/contributors/john-gray/](https://www.nybooks.com/contributors/john-gray/)
 
-        * https://www.theguardian.com/books/john-gray
+        * [theguardian.com/books/john-gray](https://www.theguardian.com/books/john-gray)
 
-        * https://www.newstatesman.com/writers/john_gray
+        * [newstatesman.com/writers/john_gray](https://www.newstatesman.com/writers/john_gray)
 
-        * https://newrepublic.com/tags/books
+        * [newrepublic.com/tags/books](https://newrepublic.com/tags/books)
 
-        * https://newrepublic.com/authors/john-gray
+        * [newrepublic.com/authors/john-gray](https://newrepublic.com/authors/john-gray)
 
-        * https://www.youtube.com/watch?v=mAOyOULWKUo
+        * [](https://www.youtube.com/watch?v=mAOyOULWKUo)
 
         * [John Gray similar authors](https://www.goodreads.com/author/similar/3312074.John_N_Gray)
 
-        * http://www.bc.edu/research/cihe/publications.html
+        * [bc.edu/research/cihe/publications.html](http://www.bc.edu/research/cihe/publications.html)
 
-        * http://www.bc.edu/research/cihe.html
+        * [bc.edu/research/cihe.html](http://www.bc.edu/research/cihe.html)
 
-        * http://ihe.hse.ru/
+        * [ihe.hse.ru/](http://ihe.hse.ru/)
 
-        * https://www.ted.com/talks/stuart_brown_says_play_is_more_than_fun_it_s_vital/transcript?language=en#t-32000
+        * [ted.com/talks/stuart_brown_says_play_is_more_than_fun_it_s_vital/transcript?language=en#t-32000](https://www.ted.com/talks/stuart_brown_says_play_is_more_than_fun_it_s_vital/transcript?language=en#t-32000)
 
 
 
@@ -2406,14 +2406,14 @@ Eine Geschichte der Welt in 100 Objekten
 
 * History
     - colonialism
-                * https://theconversation.com/colonialism-was-a-disaster-and-the-facts-prove-it-84496
-                * https://www.cambridge.org/core/journals/utilitas/article/abs/bentham-and-the-development-of-the-british-critique-of-colonialism/87CE08AFF6F0C9CF5E416EED7B33892B
-                * https://pdfproc.lib.msu.edu/?file=/DMC/African+Journals/pdfs/PULA/pula012001/pula012001006.pdf - Joseph Conrad and British critics of colonialism
-                * https://www.currentaffairs.org/2017/09/a-quick-reminder-of-why-colonialism-was-bad
+                * [theconversation.com/colonialism-was-a-disaster-and-the-facts-prove-it-84496](https://theconversation.com/colonialism-was-a-disaster-and-the-facts-prove-it-84496)
+                * [cambridge.org/core/journals/utilitas/article/abs/bentham-and-the-development-of-the-british-critique-of-colonialism/87CE08AFF6F0C9CF5E416EED7B33892B](https://www.cambridge.org/core/journals/utilitas/article/abs/bentham-and-the-development-of-the-british-critique-of-colonialism/87CE08AFF6F0C9CF5E416EED7B33892B)
+                * [pdfproc.lib.msu.edu/?file=/DMC/African+Journals/pdfs/PULA/pula012001/pula012001006.pdf](https://pdfproc.lib.msu.edu/?file=/DMC/African+Journals/pdfs/PULA/pula012001/pula012001006.pdf) - Joseph Conrad and British critics of colonialism
+                * [currentaffairs.org/2017/09/a-quick-reminder-of-why-colonialism-was-bad](https://www.currentaffairs.org/2017/09/a-quick-reminder-of-why-colonialism-was-bad)
 
     - fascism
-                * https://www.currentaffairs.org/2021/10/the-echoes-of-hitler
-                * https://www.currentaffairs.org/2022/01/the-holocaust-and-cary-grant
+                * [currentaffairs.org/2021/10/the-echoes-of-hitler](https://www.currentaffairs.org/2021/10/the-echoes-of-hitler)
+                * [currentaffairs.org/2022/01/the-holocaust-and-cary-grant](https://www.currentaffairs.org/2022/01/the-holocaust-and-cary-grant)
 
         * [Alcohol, Sex, and Gender in Late Medieval and Early Modern Europe](http://libgen.rs/book/index.php?md5=1DEAD6AB4B8790ED09BD493024BE5878)
         * [Mюшeмбле Р. Oчерки по истории дьявола XII-XX вв.pdf](https://vk.com/doc189420323_624275283?hash=04c8c6b17b69d764a6&dl=5ca3f0b5c08b939828)
@@ -2430,14 +2430,14 @@ Eine Geschichte der Welt in 100 Objekten
         * [Social cycle theory - Wikipedia](https://en.wikipedia.org/wiki/Social_cycle_theory)
         * [History and the Development of the Idea of History in Antiquity on JSTOR](https://www.jstor.org/stable/2504834)
         * [Medical Apartheid: The Dark History of Medical Experimentation on Black Americans from Colonial Times to the Present](https://b-ok.cc/book/1313568/7ffe2c)
-        * https://ankiweb.net/shared/decks/history
+        * [ankiweb.net/shared/decks/history](https://ankiweb.net/shared/decks/history)
         * [DVC](https://libgen.is/search.php?req=da+vinci+code&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
         * [La Antigua Grecia en 15 minutos - YouTube](https://www.youtube.com/watch?v=9LMlD7L4Vdk)
-        * http://www.angelfire.com/anime2/100import/
+        * [angelfire.com/anime2/100import/](http://www.angelfire.com/anime2/100import/)
         * [Introduction à la Renaissance en France - YouTube](https://www.youtube.com/watch?v=3pcySLt9MXs&list=PLD-WQkn6ACgx3f5S2uh0mfkKy8kn_qcpy)
-        * http://blog-histoire.fr/tag/usa
-        * http://www.hrono.ru/index.php
-        * http://mirrorh.com/timeline2.html
+        * [blog-histoire.fr/tag/usa](http://blog-histoire.fr/tag/usa)
+        * [hrono.ru/index.php](http://www.hrono.ru/index.php)
+        * [mirrorh.com/timeline2.html](http://mirrorh.com/timeline2.html)
 
 * [Подборка книг по истории Средних Веков](https://vk.com/wall-176520650_683)
 * [Джаред Даймонд книга Естественные эксперименты в истории – скачать fb2, epub, pdf бесплатно – Альдебаран](https://aldebaran.ru/author/a_robinson_djeyims/kniga_estestvennyie_yeksperimentyi_v_istorii/)
@@ -2712,7 +2712,7 @@ Groteske Aufklärung
         * [Alexander Zevin and Tariq Ali: Liberalism at Large](https://player.fm/series/london-review-bookshop-podcast/alexander-zevin-and-tariq-ali-liberalism-at-large)
 
 
-                * https://www.patreon.com/posts/reichstag-fire-37837568
+                * [patreon.com/posts/reichstag-fire-37837568](https://www.patreon.com/posts/reichstag-fire-37837568)
 
 
 
@@ -2759,7 +2759,7 @@ Groteske Aufklärung
         * [Fuck your gender norms: how Western colonisation brought unwanted binaries to Igbo culture](https://gal-dem.com/colonialism-nigeria-gender-norms-lgbtq-igbo/)
 
 
-                * https://gal-dem.com/
+                * [gal-dem.com/](https://gal-dem.com/)
 
 
 
@@ -2830,7 +2830,7 @@ Groteske Aufklärung
 
 
 
-        * [In a historic break with decades of policy, the Federal Reserve announced Thursday that it will no longer deliberately keep millions of Americans unemployed at all times.](https://nymag.com/intelligencer/2020/08/jerome-powell-speech-federal-reserve-inflation.html?utm_campaign=di&utm_medium=s1&utm_source=tw)
+        * [In a historic break with decades of policy, the Federal Reserve announced Thursday that it will no longer deliberately keep millions of Americans unemployed at all times.](https://nymag.com/intelligencer/2020/08/jerome-powell-speech-federal-reserve-inflation.html)
 
 
 
@@ -2857,10 +2857,10 @@ Groteske Aufklärung
         * [(2008, Мишель А.) Идея государства.pdf](https://vk.com/doc5787984_425281493?hash=15e6057b46eebb58e2&dl=b9a865e8962ce6af0f)
 
 
-                * https://en.wikipedia.org/wiki/Gun_Nation
+                * [en.wikipedia.org/wiki/Gun_Nation](https://en.wikipedia.org/wiki/Gun_Nation)
 
 
-                * https://evonomics.com/why-free-market-ideology-is-a-double-lie/
+                * [evonomics.com/why-free-market-ideology-is-a-double-lie/](https://evonomics.com/why-free-market-ideology-is-a-double-lie/)
 
 
 
@@ -2935,10 +2935,10 @@ Groteske Aufklärung
         b-ok search: "Hayek collaborative"
 
 
-                * https://rangevoting.org/
+                * [rangevoting.org/](https://rangevoting.org/)
 
 
-                * https://www.currentaffairs.org/
+                * [currentaffairs.org/](https://www.currentaffairs.org/)
 
 
 
@@ -3137,12 +3137,12 @@ Groteske Aufklärung
 
         Book/longread idea: Good Political Movements → which contemporary political movements are effective at changing the world for better, and which factors underlie their success (also contrast with good ineffective and bad effective movements)
 
-                * https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/wie-wollen-wir-leben/gemeinwohl-oekonomie-der-geist-von-hoexter
+                * [brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/wie-wollen-wir-leben/gemeinwohl-oekonomie-der-geist-von-hoexter](https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/wie-wollen-wir-leben/gemeinwohl-oekonomie-der-geist-von-hoexter)
 
 
         * [Cachez cet Islamisme](http://library.lol/main/0E6B84F0AA9D84DE41FC0BD8F2DF90A1)
 
-                * https://internationalepolitik.de/de/smarte-souveraenitaet
+                * [internationalepolitik.de/de/smarte-souveraenitaet](https://internationalepolitik.de/de/smarte-souveraenitaet)
 
 
         * [Charming Psychopaths: The Modern Corporation - Resilience](https://www.resilience.org/stories/2020-02-14/charming-psychopaths-the-modern-corporation/)
@@ -3199,7 +3199,7 @@ Groteske Aufklärung
         * [López Obrador](https://www.youtube.com/watch?v=GTDab47EOr0)
 
 
-        * [HyperNormalisation 2016 Documentary](https://www.youtube.com/watch?feature=youtu.be&v=-fny99f8amM&utm_source=share&utm_medium=ios_app&utm_name=iossmf&app=desktop)
+        * [HyperNormalisation 2016 Documentary](https://www.youtube.com/watch?feature=youtu.be&v=-fny99f8amM)
 
 
         Manal al-Sharif, Noura al-Ghanem, Fawziah al-Bakr, and Monera al-Nahedh
@@ -3228,29 +3228,29 @@ Groteske Aufklärung
 
         * [youtu.be/lggsTS...](https://youtu.be/lggsTScqcsY)
 
-                * http://www.theatlantic.com/magazine/archive/2015/10/hit-charade/403192/
+                * [theatlantic.com/magazine/archive/2015/10/hit-charade/403192/](http://www.theatlantic.com/magazine/archive/2015/10/hit-charade/403192/)
 
-                * http://www.theatlantic.com/politics/archive/2016/04/concept-creep/477939/
+                * [theatlantic.com/politics/archive/2016/04/concept-creep/477939/](http://www.theatlantic.com/politics/archive/2016/04/concept-creep/477939/)
 
-                * http://www.laviedesidees.fr/Quand-nos-comportements-deroutent.html
+                * [laviedesidees.fr/Quand-nos-comportements-deroutent.html](http://www.laviedesidees.fr/Quand-nos-comportements-deroutent.html)
 
-                * http://www.lemonde.fr/o21/article/2017/02/21/laura-lange-a-o21-la-grande-souffrance-contemporaine-c-est-le-poids-de-l-initiative_5082806_5014018.html?utm_medium=Social&utm_campaign=Echobox&utm_source=Facebook&utm_term=Autofeed#link_time=1487673780
+                * [lemonde.fr/o21/article/2017/02/21/laura-lange-a-o21-la-grande-souffrance-contemporaine-c-est-le-poids-de-l-initiative_5082806_5014018.html](http://www.lemonde.fr/o21/article/2017/02/21/laura-lange-a-o21-la-grande-souffrance-contemporaine-c-est-le-poids-de-l-initiative_5082806_5014018.html)
 
-                * https://s3.amazonaws.com/sdsn-whr2017/HR17-Ch7_lr.pdf
+                * [s3.amazonaws.com/sdsn-whr2017/HR17-Ch7_lr.pdf](https://s3.amazonaws.com/sdsn-whr2017/HR17-Ch7_lr.pdf)
 
-                * https://vimeo.com/153690960
+                * [vimeo.com/153690960](https://vimeo.com/153690960)
 
-                * https://www.acslaw.org/
+                * [acslaw.org/](https://www.acslaw.org/)
 
-                * https://www.blaetter.de/archiv/jahrgaenge/2016/august/immer-einer-meinung
+                * [blaetter.de/archiv/jahrgaenge/2016/august/immer-einer-meinung](https://www.blaetter.de/archiv/jahrgaenge/2016/august/immer-einer-meinung)
 
-                * https://www.google.com/search?q=Schivelbusch+vanquished+peoples&rlz=1C1GCEA_enUS800US800&oq=Schivelbusch+vanquished+peoples&aqs=chrome..69i57.7167j0j7&sourceid=chrome&ie=UTF-8
+                * [google.com/search?q=Schivelbusch+vanquished+peoples&rlz=1C1GCEA_enUS800US800&oq=Schivelbusch+vanquished+peoples&aqs=chrome..69i57.7167j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=Schivelbusch+vanquished+peoples&rlz=1C1GCEA_enUS800US800&oq=Schivelbusch+vanquished+peoples&aqs=chrome..69i57.7167j0j7&sourceid=chrome&ie=UTF-8)
 
-                * https://www.theatlantic.com/technology/archive/2017/02/the-singularity-in-the-toilet-stall/517551/
+                * [theatlantic.com/technology/archive/2017/02/the-singularity-in-the-toilet-stall/517551/](https://www.theatlantic.com/technology/archive/2017/02/the-singularity-in-the-toilet-stall/517551/)
 
-                * https://books.google.com/books?id=Hg0eCwAAQBAJ&pg=PT178&lpg=PT178&dq=Reiman+Horowitz+debate&source=bl&ots=3_ProVzw4G&sig=_7hhCkY3qTmHtOaYjpyubeBj-Aw&hl=es&sa=X&ved=0ahUKEwjrjcu5pKTTAhVE0mMKHa3zBtkQ6AEISDAF#v=onepage&q=Reiman%20Horowitz%20debate&f=false
+                * [books.google.com/books?id=Hg0eCwAAQBAJ&pg=PT178&lpg=PT178&dq=Reiman+Horowitz+debate&source=bl&ots=3_ProVzw4G&sig=_7hhCkY3qTmHtOaYjpyubeBj-Aw&hl=es&sa=X&ved=0ahUKEwjrjcu5pKTTAhVE0mMKHa3zBtkQ6AEISDAF#v=onepage&q=Reiman%20Horowitz%20debate&f=false](https://books.google.com/books?id=Hg0eCwAAQBAJ&pg=PT178&lpg=PT178&dq=Reiman+Horowitz+debate&source=bl&ots=3_ProVzw4G&sig=_7hhCkY3qTmHtOaYjpyubeBj-Aw&hl=es&sa=X&ved=0ahUKEwjrjcu5pKTTAhVE0mMKHa3zBtkQ6AEISDAF#v=onepage&q=Reiman%20Horowitz%20debate&f=false)
 
-                * https://matricien.org/
+                * [matricien.org/](https://matricien.org/)
 
 
         * [26' (S3 - ém.12 - 6/6) - L'entretien de la rédaction: Virginia Markus - YouTube](https://www.youtube.com/watch?v=gtXwF_7S55c)
@@ -3264,7 +3264,7 @@ Groteske Aufklärung
 
         * [Essays &amp; Op-Eds | Jeremiah Goulka](http://www.jeremiahgoulka.com/essays-op-eds/)
 
-                * https://www.ciaonet.org/
+                * [ciaonet.org/](https://www.ciaonet.org/)
 
 
         * [Diálogos com Mario Sergio Conti | Assista aos episódios online | GloboNews Play](https://globosatplay.globo.com/globonews/dialogos-com-mario-sergio-conti/)
@@ -3275,18 +3275,18 @@ Groteske Aufklärung
 
         * [POUR et Fréquence Terre : « Les gens qui ne sont rien » | Listen Notes](https://www.listennotes.com/podcasts/podcast-fr%C3%A9quence/pour-et-fr%C3%A9quence-terre-les-lCBUmDviH3W/)
 
-                * https://en.wikipedia.org/wiki/Flexicurity
+                * [en.wikipedia.org/wiki/Flexicurity](https://en.wikipedia.org/wiki/Flexicurity)
 
-                * http://www.agjohnson.us/
+                * [agjohnson.us/](http://www.agjohnson.us/)
 
-                * http://www.depo.ua/ukr/life/top-10-vislovlyuvan-amerikanskogo-lyashka-05102015120000
+                * [depo.ua/ukr/life/top-10-vislovlyuvan-amerikanskogo-lyashka-05102015120000](http://www.depo.ua/ukr/life/top-10-vislovlyuvan-amerikanskogo-lyashka-05102015120000)
 
 
     - Abortion
 
-        * [This Man Asked A Simple Question Online That Shut Down The Whole Anti-Abortion Argument | Bored Panda](https://www.boredpanda.com/pro-life-anti-abortion-argument-patrick-s-tomlinson/?utm_content=inf_10_2558_2&utm_source=facebook&utm_medium=link&utm_campaign=socialedge&tse_id=INF_6e9df350b82711e78240a3a6bbddd67d)
+        * [This Man Asked A Simple Question Online That Shut Down The Whole Anti-Abortion Argument | Bored Panda](https://www.boredpanda.com/pro-life-anti-abortion-argument-patrick-s-tomlinson/)
 
-                * https://www.nytimes.com/2019/02/07/opinion/the-argument-abortion-medicare-for-all.html
+                * [nytimes.com/2019/02/07/opinion/the-argument-abortion-medicare-for-all.html](https://www.nytimes.com/2019/02/07/opinion/the-argument-abortion-medicare-for-all.html)
 
 
         * [Bundestag: Debatte um Werbeverbot für Schwangerschaftsabbruch - YouTube](https://www.youtube.com/watch?v=pL0P5Wk8d6Y)
@@ -3309,7 +3309,7 @@ Groteske Aufklärung
 
         * [Non Fides - Base de données anarchistes](http://non-fides.fr/)
 
-                * https://zcomm.org/anarchism-reading-list/
+                * [zcomm.org/anarchism-reading-list/](https://zcomm.org/anarchism-reading-list/)
 
 
         * [Objections to Anarchism | The Anarchist Library](https://theanarchistlibrary.org/library/michael-e-coughlin-objections-to-anarchism)
@@ -3345,7 +3345,7 @@ Groteske Aufklärung
 
         * [Cuñado de izquierdas - YouTube](https://www.youtube.com/channel/UCetrzdWYUfY6n_FZra-6l4g)
 
-        * [https://coreyrobin.com](https://coreyrobin.com/)
+        * [coreyrobin.com](https://coreyrobin.com/)
 
     - Brasil
 
@@ -3354,12 +3354,12 @@ Groteske Aufklärung
 
         * [Um desabafo sincero sobre as eleiçoes - YouTube](https://www.youtube.com/watch?v=OLEFKECX2GA)
 
-                * http://www.hudson.org/research/12626-el-polemico-brexit
+                * [hudson.org/research/12626-el-polemico-brexit](http://www.hudson.org/research/12626-el-polemico-brexit)
 
 
         * [Real Time with Bill Maher: New Rule: Brit for Brains (HBO) - YouTube](https://www.youtube.com/watch?v=fOWCnMwBJL0)
 
-                * http://www.telegraph.co.uk/news/2016/06/26/spate-of-racist-attacks-blamed-on-brexit-vote/
+                * [telegraph.co.uk/news/2016/06/26/spate-of-racist-attacks-blamed-on-brexit-vote/](http://www.telegraph.co.uk/news/2016/06/26/spate-of-racist-attacks-blamed-on-brexit-vote/)
 
 
         * [Brexit: Endgame - The Hidden Money, with Stephen Fry - YouTube](https://www.youtube.com/watch?v=_HDFegpX5gI)
@@ -3403,7 +3403,7 @@ Groteske Aufklärung
         * [Capitalism, Not Corporatism - YouTube](https://www.youtube.com/watch?v=luB9VUsXRs8)
 
 
-        * [Castoriadis, Veblen, and the ‘Power Theory of Capital’](https://www.reddit.com/r/CriticalTheory/comments/d1vxwd/castoriadis_veblen_and_the_power_theory_of_capital/?utm_source=share&utm_medium=ios_app)
+        * [Castoriadis, Veblen, and the ‘Power Theory of Capital’](https://www.reddit.com/r/CriticalTheory/comments/d1vxwd/castoriadis_veblen_and_the_power_theory_of_capital/)
 
 
         * [CULTURAL HEGEMONY, POWER AND CAPITALISM](https://youtu.be/Fbe3BRSziQI)
@@ -3414,7 +3414,7 @@ Groteske Aufklärung
 
         * [Ha-Joon Chang - 23 Things They Don't Tell You About Capitalism.pdf](https://vk.com/doc348852382_508323833?hash=3b26e2675c7e00895e&dl=352398b0c492c00a4b)
 
-                * http://www.agjohnson.us/glad/if-not-capitalism-what/
+                * [agjohnson.us/glad/if-not-capitalism-what/](http://www.agjohnson.us/glad/if-not-capitalism-what/)
 
 
         * [Capitalism 2.0 Will Include a Healthy Dose of Socialism | Eric Weinstein - YouTube](https://www.youtube.com/watch?v=xzTmBnaiMdE)
@@ -3431,7 +3431,7 @@ Groteske Aufklärung
 
         * [Guida per chi vuole capire la politica - YouTube](https://www.youtube.com/watch?v=E6eyIi5HvPI)
 
-                * http://www.deutschlandradiokultur.de/alvin-e-roth-wer-kriegt-was-und-warum-wenn-der-mensch-sich.1270.de.html?dram:article_id=350548
+                * [deutschlandradiokultur.de/alvin-e-roth-wer-kriegt-was-und-warum-wenn-der-mensch-sich.1270.de.html?dram:article_id=350548](http://www.deutschlandradiokultur.de/alvin-e-roth-wer-kriegt-was-und-warum-wenn-der-mensch-sich.1270.de.html?dram:article_id=350548)
 
 
     - China
@@ -3452,18 +3452,18 @@ Groteske Aufklärung
 
 
     - Christianity
-                * http://krotov.info/libr_min/26_ae/koteol/eco_091.html
+                * [krotov.info/libr_min/26_ae/koteol/eco_091.html](http://krotov.info/libr_min/26_ae/koteol/eco_091.html)
 
-                * http://www.samuel-diekmann.de/2014/11/14/christen-und-umweltschutz/topics
+                * [samuel-diekmann.de/2014/11/14/christen-und-umweltschutz/topics](http://www.samuel-diekmann.de/2014/11/14/christen-und-umweltschutz/topics)
 
-                * http://www.theguardian.com/sustainable-business/blog/christianity-climate-change-sceptics-god-green
+                * [theguardian.com/sustainable-business/blog/christianity-climate-change-sceptics-god-green](http://www.theguardian.com/sustainable-business/blog/christianity-climate-change-sceptics-god-green)
 
 
     - CIA
 
         Khaled el-Masri CIA
 
-                * https://en.wikipedia.org/wiki/Project_MKUltra
+                * [en.wikipedia.org/wiki/Project_MKUltra](https://en.wikipedia.org/wiki/Project_MKUltra)
 
 
         * [CIA & ethics](https://edspace.american.edu/rf5440b/wp-content/uploads/sites/760/2016/09/Final-paper.pdf)
@@ -3492,35 +3492,35 @@ Groteske Aufklärung
         * [Steven Pinker & Michael Shermer - Montreal - Sept 16th 2018 - YouTube](https://www.youtube.com/watch?v=RQgNQhBDcRY)
 
 
-        * [ttps://www.heise.de/tp/features/Neues-von-der-Kernfusion-4561381.html](https://www.heise.de/tp/features/Neues-von-der-Kernfusion-4561381.html?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+        * [ttps://www.heise.de/tp/features/Neues-von-der-Kernfusion-4561381.html](https://www.heise.de/tp/features/Neues-von-der-Kernfusion-4561381.html)
 
 
     - Corruption
-                * http://www.zeit.de/suche/index?q=GFI
+                * [zeit.de/suche/index?q=GFI](http://www.zeit.de/suche/index?q=GFI)
 
-                * http://www.pfaw.org/fighting-big-money-in-politics/the-solutions/
+                * [pfaw.org/fighting-big-money-in-politics/the-solutions/](http://www.pfaw.org/fighting-big-money-in-politics/the-solutions/)
 
-                * https://represent.us/action/fix-corruption/
+                * [represent.us/action/fix-corruption/](https://represent.us/action/fix-corruption/)
 
-                * https://www.theatlantic.com/politics/archive/2016/03/fix-money-in-politics/473214/
+                * [theatlantic.com/politics/archive/2016/03/fix-money-in-politics/473214/](https://www.theatlantic.com/politics/archive/2016/03/fix-money-in-politics/473214/)
 
-                * http://www.uszn032.ru/information-on-the-income-of-civil-servants/49-news/249-2012-07-09-10-08-06.html
+                * [uszn032.ru/information-on-the-income-of-civil-servants/49-news/249-2012-07-09-10-08-06.html](http://www.uszn032.ru/information-on-the-income-of-civil-servants/49-news/249-2012-07-09-10-08-06.html)
 
-                * http://www.vox.com/2016/4/21/11421966/panama-papers-nine-questions-embarrassed-to-ask
+                * [vox.com/2016/4/21/11421966/panama-papers-nine-questions-embarrassed-to-ask](http://www.vox.com/2016/4/21/11421966/panama-papers-nine-questions-embarrassed-to-ask)
 
-                * http://www.weeklystandard.com/so-what-about-money-in-politics/article/928693
+                * [weeklystandard.com/so-what-about-money-in-politics/article/928693](http://www.weeklystandard.com/so-what-about-money-in-politics/article/928693)
 
-                * http://www.zeit.de/kultur/2016-04/panama-papers-globalisierung-steuern
+                * [zeit.de/kultur/2016-04/panama-papers-globalisierung-steuern](http://www.zeit.de/kultur/2016-04/panama-papers-globalisierung-steuern)
 
-                * https://globalanticorruptionblog.com/
+                * [globalanticorruptionblog.com/](https://globalanticorruptionblog.com/)
 
-                * http://www.gfintegrity.org/press-release/germany-calls-addition-switzerland-oecd-blacklist-tax-havens/
+                * [gfintegrity.org/press-release/germany-calls-addition-switzerland-oecd-blacklist-tax-havens/](http://www.gfintegrity.org/press-release/germany-calls-addition-switzerland-oecd-blacklist-tax-havens/)
 
-                * http://www.huffingtonpost.com/stephen-spaulding/solutions-to-the-influenc_b_8994858.html
+                * [huffingtonpost.com/stephen-spaulding/solutions-to-the-influenc_b_8994858.html](http://www.huffingtonpost.com/stephen-spaulding/solutions-to-the-influenc_b_8994858.html)
 
-                * http://www.idea.int/publications/catalogue/money-politics
+                * [idea.int/publications/catalogue/money-politics](http://www.idea.int/publications/catalogue/money-politics)
 
-                * https://www.issueone.org/
+                * [issueone.org/](https://www.issueone.org/)
 
 
         * [Monsanto : l'amende à deux milliards ! #cdanslair 14.05.2019 - YouTube](https://www.youtube.com/watch?v=8-kx4RHPKHM)
@@ -3528,24 +3528,24 @@ Groteske Aufklärung
 
         * [Puntos para Aprender Cambridge Analitica](https://www.youtube.com/watch?v=pw5sp9S6jKk)
 
-                * http://www.salon.com/topic/money_in_politics/
+                * [salon.com/topic/money_in_politics/](http://www.salon.com/topic/money_in_politics/)
 
-                * http://www.thedailybeast.com/articles/2014/11/03/time-is-money-how-to-fix-outrageous-political-spending.html
+                * [thedailybeast.com/articles/2014/11/03/time-is-money-how-to-fix-outrageous-political-spending.html](http://www.thedailybeast.com/articles/2014/11/03/time-is-money-how-to-fix-outrageous-political-spending.html)
 
-                * http://www.opensecrets.org/
+                * [opensecrets.org/](http://www.opensecrets.org/)
 
 
-        * [Ending Human Trafficking Locally and Globally by UNICEF USA's End Trafficking project on Apple Podcasts](https://itunes.apple.com/us/podcast/ending-human-trafficking-locally-and-globally/id1054235979?utm_campaign=2017_eappeal&utm_medium=email&utm_source=20180111_eappeal&utm_content=bsdEndTrafficking1&ms=email_dig_2017_eappeal_20180111_eappeal_bsdEndTrafficking1&initialms=email_dig_2017_eappeal_20180111_eappeal_bsdEndTrafficking1&source=email_dig_2017_eappeal_20180111_eappeal_bsdEndTrafficking1)
+        * [Ending Human Trafficking Locally and Globally by UNICEF USA's End Trafficking project on Apple Podcasts](https://itunes.apple.com/us/podcast/ending-human-trafficking-locally-and-globally/id1054235979)
 
-                * http://lwv.org/blog/4-solutions-fight-corruptive-influence-money-politics
+                * [lwv.org/blog/4-solutions-fight-corruptive-influence-money-politics](http://lwv.org/blog/4-solutions-fight-corruptive-influence-money-politics)
 
-                * http://panamapapers.sueddeutsche.de/articles/56fe71aaa1bb8d3c3495ac71/
+                * [panamapapers.sueddeutsche.de/articles/56fe71aaa1bb8d3c3495ac71/](http://panamapapers.sueddeutsche.de/articles/56fe71aaa1bb8d3c3495ac71/)
 
-                * http://www.commoncause.org/issues/money-in-politics/?referrer=https://www.google.com/
+                * [commoncause.org/issues/money-in-politics/?referrer=https://www.google.com/](http://www.commoncause.org/issues/money-in-politics/?referrer=https://www.google.com/)
 
 
     - Countries
-                * http://www.ilcambiamento.it/
+                * [ilcambiamento.it/](http://www.ilcambiamento.it/)
 
 
         * [Intelectuales, kirchnerismo y política. Una aproximación a los colectivos de intelectuales en Argentina](http://journals.openedition.org/nuevomundo/64250)
@@ -3559,11 +3559,11 @@ Groteske Aufklärung
 
         UK political systemde Professor Hellstrom
 
-                * http://www.radioradicale.it/scheda/371498/mordere-il-mondo-the-post-internazionale-kenya
+                * [radioradicale.it/scheda/371498/mordere-il-mondo-the-post-internazionale-kenya](http://www.radioradicale.it/scheda/371498/mordere-il-mondo-the-post-internazionale-kenya)
 
-                * https://tvi24.iol.pt/videos/politica/filosofo-frances-bernard-henri-levy-portugal-e-o-lado-luminoso-da-europa/5cab8fd90cf2e6c587560845
+                * [tvi24.iol.pt/videos/politica/filosofo-frances-bernard-henri-levy-portugal-e-o-lado-luminoso-da-europa/5cab8fd90cf2e6c587560845](https://tvi24.iol.pt/videos/politica/filosofo-frances-bernard-henri-levy-portugal-e-o-lado-luminoso-da-europa/5cab8fd90cf2e6c587560845)
 
-                * https://allesevolution.wordpress.com/2016/05/15/das-skandinavische-gender-paradox/
+                * [allesevolution.wordpress.com/2016/05/15/das-skandinavische-gender-paradox/](https://allesevolution.wordpress.com/2016/05/15/das-skandinavische-gender-paradox/)
 
 
         * [Las mujeres marroquíes piden igualdad para heredar](https://www.msn.com/es-es/noticias/internacional/las-mujeres-marroqu%C3%ADes-piden-igualdad-para-heredar/ar-AAvgjGj?MSCC=1522458478&ocid=spartandhp)
@@ -3597,54 +3597,54 @@ Groteske Aufklärung
 
         * [Wrong Side of History](https://www.theguardian.com/lifeandstyle/2019/jun/21/the-wrong-side-of-history-has-become-a-crowded-place-time-to-rethink)
 
-                * http://www.socrat-online.ru/page/mirovoj-krizis-glazami-zapadnyh-intellektualov
+                * [socrat-online.ru/page/mirovoj-krizis-glazami-zapadnyh-intellektualov](http://www.socrat-online.ru/page/mirovoj-krizis-glazami-zapadnyh-intellektualov)
 
-                * http://www.swissinfo.ch/eng/identity-at-stake-in-war-of-words/30247036
+                * [swissinfo.ch/eng/identity-at-stake-in-war-of-words/30247036](http://www.swissinfo.ch/eng/identity-at-stake-in-war-of-words/30247036)
 
-                * http://www.theblaze.com/contributions/our-problem-isnt-guns-or-mental-illness-its-godlessness/?utm_source=facebook&utm_medium=story&utm_campaign=ShareButtons
+                * [theblaze.com/contributions/our-problem-isnt-guns-or-mental-illness-its-godlessness/](http://www.theblaze.com/contributions/our-problem-isnt-guns-or-mental-illness-its-godlessness/)
 
-                * https://www.pastemagazine.com/articles/2017/01/why-cenk-uygur-is-getting-confronted-about-the-nam.html
+                * [pastemagazine.com/articles/2017/01/why-cenk-uygur-is-getting-confronted-about-the-nam.html](https://www.pastemagazine.com/articles/2017/01/why-cenk-uygur-is-getting-confronted-about-the-nam.html)
 
-                * http://www.rollingstone.com/politics/features/welcome-to-donald-trumps-ignorant-america-w462019
+                * [rollingstone.com/politics/features/welcome-to-donald-trumps-ignorant-america-w462019](http://www.rollingstone.com/politics/features/welcome-to-donald-trumps-ignorant-america-w462019)
 
-                * https://vk.com/@skepticism1-segodnya-obeschaut-ocherednoi-konec-sveta-ot-nibiru-ufolog-i
+                * [vk.com/@skepticism1-segodnya-obeschaut-ocherednoi-konec-sveta-ot-nibiru-ufolog-i](https://vk.com/@skepticism1-segodnya-obeschaut-ocherednoi-konec-sveta-ot-nibiru-ufolog-i)
 
-                * https://vk.com/@snob_project-dolzhno-li-ministerstvo-kultury-podderzhivat-vrednye-knigi
+                * [vk.com/@snob_project-dolzhno-li-ministerstvo-kultury-podderzhivat-vrednye-knigi](https://vk.com/@snob_project-dolzhno-li-ministerstvo-kultury-podderzhivat-vrednye-knigi)
 
-                * https://www.impulse.de/management/fehlerkultur-das-ende-der-scham/2044698.html
+                * [impulse.de/management/fehlerkultur-das-ende-der-scham/2044698.html](https://www.impulse.de/management/fehlerkultur-das-ende-der-scham/2044698.html)
 
-                * https://www.newstatesman.com/dominion-making-western-mind-tom-holland-review
+                * [newstatesman.com/dominion-making-western-mind-tom-holland-review](https://www.newstatesman.com/dominion-making-western-mind-tom-holland-review)
 
-                * https://www.newstatesman.com/politics/uk/2019/08/why-liberals-now-believe-conspiracies
+                * [newstatesman.com/politics/uk/2019/08/why-liberals-now-believe-conspiracies](https://www.newstatesman.com/politics/uk/2019/08/why-liberals-now-believe-conspiracies)
 
-                * https://www.washingtonpost.com/blogs/govbeat/wp/2013/11/08/which-of-the-11-american-nations-do-you-live-in/?tid=hybrid_experimentrandom_2_na
+                * [washingtonpost.com/blogs/govbeat/wp/2013/11/08/which-of-the-11-american-nations-do-you-live-in/?tid=hybrid_experimentrandom_2_na](https://www.washingtonpost.com/blogs/govbeat/wp/2013/11/08/which-of-the-11-american-nations-do-you-live-in/?tid=hybrid_experimentrandom_2_na)
 
-                * http://www.vox.com/2016/4/14/11431150/hillary-clinton-check-splitting
+                * [vox.com/2016/4/14/11431150/hillary-clinton-check-splitting](http://www.vox.com/2016/4/14/11431150/hillary-clinton-check-splitting)
 
-                * https://aphelis.net/cult-ignorance-isaac-asimov-1980/
+                * [aphelis.net/cult-ignorance-isaac-asimov-1980/](https://aphelis.net/cult-ignorance-isaac-asimov-1980/)
 
-                * https://imprimis.hillsdale.edu/history-american-democracy-and-the-ap-test-controversy/?utm_source=housefile&utm_medium=email&utm_content=july2015&utm_campaign=imprimis&_hsenc=p2ANqtz-8Jc0qOxILLeQyY2cL3gPcRuqhinYHeVEp3LT6qjDAwbF6fHX8zNCnRZoVwj8yhN3CLw014UKh2wYH1iJ67DJVqZXhHbw&_hsmi=21232737
+                * [imprimis.hillsdale.edu/history-american-democracy-and-the-ap-test-controversy/](https://imprimis.hillsdale.edu/history-american-democracy-and-the-ap-test-controversy/)
 
-                * http://www.theatlantic.com/international/archive/2015/12/russia-putin-miroporyadok/422196/
+                * [theatlantic.com/international/archive/2015/12/russia-putin-miroporyadok/422196/](http://www.theatlantic.com/international/archive/2015/12/russia-putin-miroporyadok/422196/)
 
-                * http://www.politifact.com/punditfact/article/2016/jan/04/does-vladimir-putin-kill-journalists/
+                * [politifact.com/punditfact/article/2016/jan/04/does-vladimir-putin-kill-journalists/](http://www.politifact.com/punditfact/article/2016/jan/04/does-vladimir-putin-kill-journalists/)
 
-                * http://www.rollingstone.com/politics/features/taibbi-putin-derangement-syndrome-arrives-w474771?utm_source=pocket&utm_medium=email&utm_campaign=pockethits
+                * [rollingstone.com/politics/features/taibbi-putin-derangement-syndrome-arrives-w474771](http://www.rollingstone.com/politics/features/taibbi-putin-derangement-syndrome-arrives-w474771)
 
-                * https://navalny.com/
+                * [navalny.com/](https://navalny.com/)
 
-                * https://www.eurozine.com/%D0%B7%D0%B0%D0%BD%D0%B0%D0%B2%D0%B5%D1%81-%D0%BD%D0%B0-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%BC-%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%BE-%D0%BF%D1%83%D1%82%D0%B8%D0%BD-%D0%B4%D0%B5/
+                * [eurozine.com/%D0%B7%D0%B0%D0%BD%D0%B0%D0%B2%D0%B5%D1%81-%D0%BD%D0%B0-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%BC-%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%BE-%D0%BF%D1%83%D1%82%D0%B8%D0%BD-%D0%B4%D0%B5/](https://www.eurozine.com/%D0%B7%D0%B0%D0%BD%D0%B0%D0%B2%D0%B5%D1%81-%D0%BD%D0%B0-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%BC-%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%BE-%D0%BF%D1%83%D1%82%D0%B8%D0%BD-%D0%B4%D0%B5/)
 
-                * https://www.eurozine.com/die-ublichen-verdachtigen/
+                * [eurozine.com/die-ublichen-verdachtigen/](https://www.eurozine.com/die-ublichen-verdachtigen/)
 
-                * http://www.vesti.ru/doc.html?id=2826409
+                * [vesti.ru/doc.html?id=2826409](http://www.vesti.ru/doc.html?id=2826409)
 
 
         * [Masha Gessen](https://libgen.is/search.php?&req=masha+gessen&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
 
-                * http://hechingerreport.org/educators-must-stop-rapper-shaming/
+                * [hechingerreport.org/educators-must-stop-rapper-shaming/](http://hechingerreport.org/educators-must-stop-rapper-shaming/)
 
-                * http://www.bostonglobe.com/ideas/2013/08/23/who-will-fight-beauty-bias/Kq3pbfOy4VRJtlKrmyWBNO/story.html
+                * [bostonglobe.com/ideas/2013/08/23/who-will-fight-beauty-bias/Kq3pbfOy4VRJtlKrmyWBNO/story.html](http://www.bostonglobe.com/ideas/2013/08/23/who-will-fight-beauty-bias/Kq3pbfOy4VRJtlKrmyWBNO/story.html)
 
 
     - Democracia
@@ -3709,11 +3709,11 @@ Groteske Aufklärung
 
         * [Six Policies Economists Love (And Politicians Hate) : Planet Money : NPR](https://www.npr.org/sections/money/2012/07/19/157047211/six-policies-economists-love-and-politicians-hate)
 
-                * http://www.insm.de/insm.html
+                * [insm.de/insm.html](http://www.insm.de/insm.html)
 
-                * http://www.zeit.de/2002/43/Die_Revolution_hat_begonnen
+                * [zeit.de/2002/43/Die_Revolution_hat_begonnen](http://www.zeit.de/2002/43/Die_Revolution_hat_begonnen)
 
-                * http://www.iberglobal.com/files/business_climate_eiu.pdf
+                * [iberglobal.com/files/business_climate_eiu.pdf](http://www.iberglobal.com/files/business_climate_eiu.pdf)
 
 
         * [Financial Times, Europe First: taking on the dominance of the US dollar](https://www.reddit.com/r/Economics/comments/e6hmb5/financial_times_europe_first_taking_on_the/)
@@ -3721,7 +3721,7 @@ Groteske Aufklärung
 
         Nassim Nicholas Taleb Angry - YouTube
 
-                * http://www.economiaepolitica.it/lavoro-e-diritti/diritti/universita-e-ricerca/sei-lezioni-di-economia-recensione-a-sergio-cesaratto/
+                * [economiaepolitica.it/lavoro-e-diritti/diritti/universita-e-ricerca/sei-lezioni-di-economia-recensione-a-sergio-cesaratto/](http://www.economiaepolitica.it/lavoro-e-diritti/diritti/universita-e-ricerca/sei-lezioni-di-economia-recensione-a-sergio-cesaratto/)
 
 
     - Educación
@@ -3731,23 +3731,23 @@ Groteske Aufklärung
 
         * [Либертарная педагогика. Рациональная школа Франсиско Феррер-и-Гуардиа - YouTube](https://www.youtube.com/watch?v=CYl8kjR9cPA)
 
-                * http://www.theatlantic.com/education/archive/2016/08/a-public-school-paradox/495227/
+                * [theatlantic.com/education/archive/2016/08/a-public-school-paradox/495227/](http://www.theatlantic.com/education/archive/2016/08/a-public-school-paradox/495227/)
 
-                * http://www.theatlantic.com/magazine/archive/2016/07/the-war-on-stupid-people/485618/
+                * [theatlantic.com/magazine/archive/2016/07/the-war-on-stupid-people/485618/](http://www.theatlantic.com/magazine/archive/2016/07/the-war-on-stupid-people/485618/)
 
-                * https://www.nytimes.com/2015/08/21/upshot/federal-meddling-in-schools-it-happens-less-than-critics-think.html?_r=0
+                * [nytimes.com/2015/08/21/upshot/federal-meddling-in-schools-it-happens-less-than-critics-think.html?_r=0](https://www.nytimes.com/2015/08/21/upshot/federal-meddling-in-schools-it-happens-less-than-critics-think.html?_r=0)
 
-                * https://www.publicschoolreview.com/blog/how-many-politicians-send-their-kids-to-public-schools
+                * [publicschoolreview.com/blog/how-many-politicians-send-their-kids-to-public-schools](https://www.publicschoolreview.com/blog/how-many-politicians-send-their-kids-to-public-schools)
 
-                * https://www.usnews.com/opinion/knowledge-bank/articles/2017-01-25/5-reasons-to-oppose-betsy-devos-for-donald-trumps-secretary-of-education
+                * [usnews.com/opinion/knowledge-bank/articles/2017-01-25/5-reasons-to-oppose-betsy-devos-for-donald-trumps-secretary-of-education](https://www.usnews.com/opinion/knowledge-bank/articles/2017-01-25/5-reasons-to-oppose-betsy-devos-for-donald-trumps-secretary-of-education)
 
-                * https://hromadske.ua/posts/v-uriadi-planuiut-rozvyvaty-partnerstvo-mizh-zakladamy-osvity-ta-robotodavtsiamy
+                * [hromadske.ua/posts/v-uriadi-planuiut-rozvyvaty-partnerstvo-mizh-zakladamy-osvity-ta-robotodavtsiamy](https://hromadske.ua/posts/v-uriadi-planuiut-rozvyvaty-partnerstvo-mizh-zakladamy-osvity-ta-robotodavtsiamy)
 
-                * http://www.nzz.ch/wissenschaft/medizin/mythos-und-ein-funken-wahrheit-ld.2698
+                * [nzz.ch/wissenschaft/medizin/mythos-und-ein-funken-wahrheit-ld.2698](http://www.nzz.ch/wissenschaft/medizin/mythos-und-ein-funken-wahrheit-ld.2698)
 
-                * http://www.cmrubinworld.com/2011/11/01/the-global-search-for-education-a-look-at-a-finnish-school?tpedit=1
+                * [cmrubinworld.com/2011/11/01/the-global-search-for-education-a-look-at-a-finnish-school?tpedit=1](http://www.cmrubinworld.com/2011/11/01/the-global-search-for-education-a-look-at-a-finnish-school?tpedit=1)
 
-                * http://www.elmundo.es/elmundo/2007/07/31/escorpion/1185884143.html
+                * [elmundo.es/elmundo/2007/07/31/escorpion/1185884143.html](http://www.elmundo.es/elmundo/2007/07/31/escorpion/1185884143.html)
 
 
     - Elite
@@ -3757,16 +3757,16 @@ Groteske Aufklärung
 
         * [phoenix plus: "Instrumente der Macht - Der politische Streit" - YouTube](https://www.youtube.com/watch?v=tCnl3bsg8Bs)
 
-                * http://www.takepart.com/article/2011/01/05/public-servants-and-private-schools-where-top-politicians-send-their-kids
+                * [takepart.com/article/2011/01/05/public-servants-and-private-schools-where-top-politicians-send-their-kids](http://www.takepart.com/article/2011/01/05/public-servants-and-private-schools-where-top-politicians-send-their-kids)
 
-                * https://www.eurozine.com/facebook-et-la-crise-des-elites/
+                * [eurozine.com/facebook-et-la-crise-des-elites/](https://www.eurozine.com/facebook-et-la-crise-des-elites/)
 
-                * https://www.theatlantic.com/entertainment/archive/2019/02/class-ceiling-laurison-friedman-elite-jobs/582175/
+                * [theatlantic.com/entertainment/archive/2019/02/class-ceiling-laurison-friedman-elite-jobs/582175/](https://www.theatlantic.com/entertainment/archive/2019/02/class-ceiling-laurison-friedman-elite-jobs/582175/)
 
 
     - Entidades
-                * https://en.wikipedia.org/wiki/List_of_polling_organizations
-                * http://www.thomaslfriedman.com/
+                * [en.wikipedia.org/wiki/List_of_polling_organizations](https://en.wikipedia.org/wiki/List_of_polling_organizations)
+                * [thomaslfriedman.com/](http://www.thomaslfriedman.com/)
 
 
         * [Jon Huntsman Jr. - Wikipedia](https://en.wikipedia.org/wiki/Jon_Huntsman_Jr.)
@@ -3878,13 +3878,13 @@ Groteske Aufklärung
 
 
     - Environmentalism
-                * https://www.gismeteo.ru/news/klimat/15527-papa-rimskiy-uchredil-den-zaboty-ob-okruzhayuschey-srede/
+                * [gismeteo.ru/news/klimat/15527-papa-rimskiy-uchredil-den-zaboty-ob-okruzhayuschey-srede/](https://www.gismeteo.ru/news/klimat/15527-papa-rimskiy-uchredil-den-zaboty-ob-okruzhayuschey-srede/)
 
-                * https://www.sueddeutsche.de/wirtschaft/klimawandel-geld-1.4631243-3
+                * [sueddeutsche.de/wirtschaft/klimawandel-geld-1.4631243-3](https://www.sueddeutsche.de/wirtschaft/klimawandel-geld-1.4631243-3)
 
-                * https://www.unibas.ch/de/Studium/Studienangebot/Studiengaenge-faecher/Sustainable-Development.html
+                * [unibas.ch/de/Studium/Studienangebot/Studiengaenge-faecher/Sustainable-Development.html](https://www.unibas.ch/de/Studium/Studienangebot/Studiengaenge-faecher/Sustainable-Development.html)
 
-                * http://www.alternet.org/documentaries/military-experts-give-climate-skeptics-scathing-warning-age-consequences?platform=hootsuite
+                * [alternet.org/documentaries/military-experts-give-climate-skeptics-scathing-warning-age-consequences?platform=hootsuite](http://www.alternet.org/documentaries/military-experts-give-climate-skeptics-scathing-warning-age-consequences?platform=hootsuite)
 
 
     - Fanatismo
@@ -3901,24 +3901,24 @@ Groteske Aufklärung
 
         * [Réduire un homme à un porc est aussi vain que considérer une femme comme un objet - YouTube](https://www.youtube.com/watch?v=3ZOc-bxNHow)
 
-                * http://www.statusquo-news.de/kriminalitaet-in-schweden-anstieg-vergewaltigungen-um-1472-prozent/
+                * [statusquo-news.de/kriminalitaet-in-schweden-anstieg-vergewaltigungen-um-1472-prozent/](http://www.statusquo-news.de/kriminalitaet-in-schweden-anstieg-vergewaltigungen-um-1472-prozent/)
 
-                * http://www.theatlantic.com/magazine/archive/1992/11/feminists-against-the-first-amendment/305051/
+                * [theatlantic.com/magazine/archive/1992/11/feminists-against-the-first-amendment/305051/](http://www.theatlantic.com/magazine/archive/1992/11/feminists-against-the-first-amendment/305051/)
 
-                * https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B2%D0%B5%D0%BD%D1%81%D1%82%D0%B2%D0%BE_%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2
+                * [ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B2%D0%B5%D0%BD%D1%81%D1%82%D0%B2%D0%BE_%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2](https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B2%D0%B5%D0%BD%D1%81%D1%82%D0%B2%D0%BE_%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2)
 
 
         * [FEMEN : face au patriarcat religieux](https://www.dailymotion.com/video/x5bj0xo)
 
-                * http://everydayfeminism.com/2016/12/anti-feminist-women/
+                * [everydayfeminism.com/2016/12/anti-feminist-women/](http://everydayfeminism.com/2016/12/anti-feminist-women/)
 
-                * http://www.breitbart.com/london/2014/12/04/in-defence-of-the-patriarchy/
+                * [breitbart.com/london/2014/12/04/in-defence-of-the-patriarchy/](http://www.breitbart.com/london/2014/12/04/in-defence-of-the-patriarchy/)
 
 
     - Filosofía
-                * http://www.aysor.am/ru/news/2017/01/28/%D0%92%D0%B8%D0%B3%D0%B5%D0%BD-%D0%A1%D0%B0%D1%80%D0%BA%D0%B8%D1%81%D1%8F%D0%BD/1202708
+                * [aysor.am/ru/news/2017/01/28/%D0%92%D0%B8%D0%B3%D0%B5%D0%BD-%D0%A1%D0%B0%D1%80%D0%BA%D0%B8%D1%81%D1%8F%D0%BD/1202708](http://www.aysor.am/ru/news/2017/01/28/%D0%92%D0%B8%D0%B3%D0%B5%D0%BD-%D0%A1%D0%B0%D1%80%D0%BA%D0%B8%D1%81%D1%8F%D0%BD/1202708)
 
-                * https://kapital-lesen.com/
+                * [kapital-lesen.com/](https://kapital-lesen.com/)
 
 
         Issue with "legalized theft"
@@ -3938,7 +3938,7 @@ Groteske Aufklärung
 
         * [Cosa sono Destra e Sinistra in politica - YouTube](https://www.youtube.com/watch?v=mpvMfgSXuDw)
 
-                * https://www.wikiberal.org/wiki/John_N._Gray
+                * [wikiberal.org/wiki/John_N._Gray](https://www.wikiberal.org/wiki/John_N._Gray)
 
 
         * [Perestroika, revolución de octubre y marxismo](https://www.facebook.com/groups/279472675583089/900935393436811/)
@@ -3952,12 +3952,12 @@ Groteske Aufklärung
 
         Viewpoint: What can Plato teach us about Donald Trump? - BBC Newsnight - YouTube
 
-                * https://www.vice.com/ru/article/john-gray-freedom
+                * [vice.com/ru/article/john-gray-freedom](https://www.vice.com/ru/article/john-gray-freedom)
 
 
         * [Foucault en 10](https://www.facebook.com/cachoculturas/videos/152480845435397/)
 
-                * http://www.newyorker.com/culture/cultural-comment/the-frankfurt-school-knew-trump-was-coming?mbid=social_facebook_aud_dev_kw_jansub-the-frankfurt-school-knew-trump-was-coming&kwp_0=311440&kwp_4=1250326&kwp_1=558299
+                * [newyorker.com/culture/cultural-comment/the-frankfurt-school-knew-trump-was-coming?mbid=social_facebook_aud_dev_kw_jansub-the-frankfurt-school-knew-trump-was-coming&kwp_0=311440&kwp_4=1250326&kwp_1=558299](http://www.newyorker.com/culture/cultural-comment/the-frankfurt-school-knew-trump-was-coming?mbid=social_facebook_aud_dev_kw_jansub-the-frankfurt-school-knew-trump-was-coming&kwp_0=311440&kwp_4=1250326&kwp_1=558299)
 
 
     - France
@@ -3967,10 +3967,10 @@ Groteske Aufklärung
 
         Politique, médias et élections françaises : satire dans tous les sens
 
-                * http://www.liberation.fr/france/2015/03/09/chiche-melenchon_1217459
+                * [liberation.fr/france/2015/03/09/chiche-melenchon_1217459](http://www.liberation.fr/france/2015/03/09/chiche-melenchon_1217459)
 
 
-        * [Nicolas Hulot le faux cul, par Michel Onfray…](https://www.osonsrever.fr/nicolas-hulot-le-faux-cul-par-michel-onfray/?utm_campaign=Push&utm_source=Push_Notifications&utm_medium=Osons+R%C3%AAver)
+        * [Nicolas Hulot le faux cul, par Michel Onfray…](https://www.osonsrever.fr/nicolas-hulot-le-faux-cul-par-michel-onfray/)
 
 
         * [Qui a gagné la bataille des idées en France ? - Le Grand Face-à-face (podcast) | Listen Notes](https://www.listennotes.com/podcasts/le-grand-face-%C3%A0-face/qui-a-gagn%C3%A9-la-bataille-des-3EIU0LVb2t-/)
@@ -3978,13 +3978,13 @@ Groteske Aufklärung
 
         * [VIDEO Brigitte et Emma­nuel Macron : elle révèle ce qu'il a dû faire pour la convaincre de tout plaquer pour lui - Voici](http://www.voici.fr/news-people/actu-people/video-brigitte-et-emmanuel-macron-elle-revele-ce-qu-il-a-du-faire-pour-la-convaincre-de-tout-plaquer-pour-lui-631498)
 
-                * http://www.lemonde.fr/les-decodeurs/article/2016/02/18/droit-du-travail-ce-que-contient-l-avant-projet-de-loi-de-myriam-el-khomri_4867746_4355770.html
+                * [lemonde.fr/les-decodeurs/article/2016/02/18/droit-du-travail-ce-que-contient-l-avant-projet-de-loi-de-myriam-el-khomri_4867746_4355770.html](http://www.lemonde.fr/les-decodeurs/article/2016/02/18/droit-du-travail-ce-que-contient-l-avant-projet-de-loi-de-myriam-el-khomri_4867746_4355770.html)
 
-                * http://www.politico.eu/podcast/french-in-the-loop-january-25-laffaire-penelope-fillon/
+                * [politico.eu/podcast/french-in-the-loop-january-25-laffaire-penelope-fillon/](http://www.politico.eu/podcast/french-in-the-loop-january-25-laffaire-penelope-fillon/)
 
-                * http://www.regards.fr/videos/debat-yahoo/mali-hollande-est-il-un,6141
+                * [regards.fr/videos/debat-yahoo/mali-hollande-est-il-un,6141](http://www.regards.fr/videos/debat-yahoo/mali-hollande-est-il-un,6141)
 
-                * http://www.touteleurope.eu/actualite/la-loi-el-khomri-derniere-nee-des-reformes-du-travail-en-europe.html
+                * [touteleurope.eu/actualite/la-loi-el-khomri-derniere-nee-des-reformes-du-travail-en-europe.html](http://www.touteleurope.eu/actualite/la-loi-el-khomri-derniere-nee-des-reformes-du-travail-en-europe.html)
 
 
     - General
@@ -3997,25 +3997,25 @@ Groteske Aufklärung
 
         * [Teoria do Caos](https://portalconservador.com/livros/Robert-Murphy-Teoria-do-Caos.pdf)
 
-                * http://www.scienceshumaines.com/couleurs-politiques_fr_36158.html
+                * [scienceshumaines.com/couleurs-politiques_fr_36158.html](http://www.scienceshumaines.com/couleurs-politiques_fr_36158.html)
 
-                * http://www.politnetz.ch/
+                * [politnetz.ch/](http://www.politnetz.ch/)
 
-                * https://rationalwiki.org/wiki/Political_spectrum
+                * [rationalwiki.org/wiki/Political_spectrum](https://rationalwiki.org/wiki/Political_spectrum)
 
-                * https://www.cia.gov/library/publications/world-leaders-1/
+                * [cia.gov/library/publications/world-leaders-1/](https://www.cia.gov/library/publications/world-leaders-1/)
 
-                * https://www.politikforen.net/archive/index.php/t-24041.html
+                * [politikforen.net/archive/index.php/t-24041.html](https://www.politikforen.net/archive/index.php/t-24041.html)
 
-                * https://www.quora.com/What-is-the-best-voting-system-in-the-world
+                * [quora.com/What-is-the-best-voting-system-in-the-world](https://www.quora.com/What-is-the-best-voting-system-in-the-world)
 
-                * https://www.tcd.ie/Political_Science/undergraduate/module-outlines/ss/political-parties/PolP/GrofmanAnnRev04.pdf
+                * [tcd.ie/Political_Science/undergraduate/module-outlines/ss/political-parties/PolP/GrofmanAnnRev04.pdf](https://www.tcd.ie/Political_Science/undergraduate/module-outlines/ss/political-parties/PolP/GrofmanAnnRev04.pdf)
 
-                * http://www.theweek.co.uk/22271/proportional-representation-the-pros-and-cons
+                * [theweek.co.uk/22271/proportional-representation-the-pros-and-cons](http://www.theweek.co.uk/22271/proportional-representation-the-pros-and-cons)
 
-                * http://www.wahlrecht.de/forum/messages/172/2496.html?1147211759
+                * [wahlrecht.de/forum/messages/172/2496.html?1147211759](http://www.wahlrecht.de/forum/messages/172/2496.html?1147211759)
 
-                * http://www2.cruzio.com/~zdino/psychology/political.science.glossary.htm
+                * [www2.cruzio.com/~zdino/psychology/political.science.glossary.htm](http://www2.cruzio.com/~zdino/psychology/political.science.glossary.htm)
 
 
         * [Política | Letras Libres](https://www.letraslibres.com/seccion/politica)
@@ -4024,34 +4024,34 @@ Groteske Aufklärung
         * [POLITRICKS - mit Pierre Baigorry (Peter Fox) | radioeins](https://castbox.fm/vc/1174501)
 
 
-        * ["Narzissten trauen wir Führungspotenzial zu"](https://www.zeit.de/arbeit/2019-10/tomas-chamorro-premuzic-psychologe-maenner-karriere?utm_source=pocket-newtab)
+        * ["Narzissten trauen wir Führungspotenzial zu"](https://www.zeit.de/arbeit/2019-10/tomas-chamorro-premuzic-psychologe-maenner-karriere)
 
-                * https://www.procon.org/
+                * [procon.org/](https://www.procon.org/)
 
-                * https://fr.wikipedia.org/wiki/Syst%C3%A8me_%C3%A9lectoral
+                * [fr.wikipedia.org/wiki/Syst%C3%A8me_%C3%A9lectoral](https://fr.wikipedia.org/wiki/Syst%C3%A8me_%C3%A9lectoral)
 
-                * http://theconversation.com/are-third-party-candidates-spoilers-what-voting-data-reveal-71065
+                * [theconversation.com/are-third-party-candidates-spoilers-what-voting-data-reveal-71065](http://theconversation.com/are-third-party-candidates-spoilers-what-voting-data-reveal-71065)
 
 
         The Spectre of Populism - John Gray - YouTube
 
-                * http://rangevoting.org/AdvocatedSystems.html
+                * [rangevoting.org/AdvocatedSystems.html](http://rangevoting.org/AdvocatedSystems.html)
 
-                * https://de.wikipedia.org/wiki/Borda-Wahl
+                * [de.wikipedia.org/wiki/Borda-Wahl](https://de.wikipedia.org/wiki/Borda-Wahl)
 
-                * https://de.wikipedia.org/wiki/Wahlsystem
+                * [de.wikipedia.org/wiki/Wahlsystem](https://de.wikipedia.org/wiki/Wahlsystem)
 
-                * https://dogwoodbc.ca/electoral-reform/
+                * [dogwoodbc.ca/electoral-reform/](https://dogwoodbc.ca/electoral-reform/)
 
-                * https://es.wikipedia.org/wiki/Sistema_de_votaci%C3%B3n
+                * [es.wikipedia.org/wiki/Sistema_de_votaci%C3%B3n](https://es.wikipedia.org/wiki/Sistema_de_votaci%C3%B3n)
 
-                * https://es.wikipedia.org/wiki/Teor%C3%ADa_de_la_elecci%C3%B3n_p%C3%BAblica
+                * [es.wikipedia.org/wiki/Teor%C3%ADa_de_la_elecci%C3%B3n_p%C3%BAblica](https://es.wikipedia.org/wiki/Teor%C3%ADa_de_la_elecci%C3%B3n_p%C3%BAblica)
 
-                * http://www.athoughtfulfaith.org/finding-renewal-wisdom-and-peace-post-election-wotherspoon-colvin-and-money/
+                * [athoughtfulfaith.org/finding-renewal-wisdom-and-peace-post-election-wotherspoon-colvin-and-money/](http://www.athoughtfulfaith.org/finding-renewal-wisdom-and-peace-post-election-wotherspoon-colvin-and-money/)
 
 
     - Geopolítica
-                * http://www.iltempo.it/politica/2016/03/07/la-vera-sfida-di-questo-secolo-e-difendere-i-cristiani-nel-mondo-1.1516469
+                * [iltempo.it/politica/2016/03/07/la-vera-sfida-di-questo-secolo-e-difendere-i-cristiani-nel-mondo-1.1516469](http://www.iltempo.it/politica/2016/03/07/la-vera-sfida-di-questo-secolo-e-difendere-i-cristiani-nel-mondo-1.1516469)
 
 
         * [L'impero americano e Internet, come gli Usa controllano la Rete - Mappamundi](https://www.youtube.com/watch?v=-mrZiZZqAcQ&fbclid=IwAR2pfC2ZWOTVQ0AURxyeWqq-3k-96_MBcERRyCEISXNyFzjZddRqZGO5n1k)
@@ -4071,7 +4071,7 @@ Groteske Aufklärung
 
         * [Leaked NSA Malware Is Helping Hijack Computers Around the World](https://theintercept.com/2017/05/12/the-nsas-lost-digital-weapon-is-helping-hijack-computers-around-the-world/)
 
-                * https://www.foreignaffairs.com/reviews/review-essay/2002-07-01/see-no-evil-why-america-doesnt-stop-genocide
+                * [foreignaffairs.com/reviews/review-essay/2002-07-01/see-no-evil-why-america-doesnt-stop-genocide](https://www.foreignaffairs.com/reviews/review-essay/2002-07-01/see-no-evil-why-america-doesnt-stop-genocide)
 
 
         * [Is the U.S. a force for good in the world? - Quora](https://www.quora.com/Is-the-U-S-a-force-for-good-in-the-world)
@@ -4107,7 +4107,7 @@ Groteske Aufklärung
         * [These 5 countries have historically been the aggressor - NOT Russia (WARNING: GRAPHIC IMAGES)](http://theduran.com/these-5-countries-have-historically-been-the-aggressor-not-russia-warning-graphic-images/)
 
 
-        * [Ukrainian Corruption is Trump's native language](https://www.reddit.com/r/politics/comments/dgsbpx/ukrainian_corruption_is_trumps_native_language/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+        * [Ukrainian Corruption is Trump's native language](https://www.reddit.com/r/politics/comments/dgsbpx/ukrainian_corruption_is_trumps_native_language/)
 
 
         * [Visión Geopolítica](https://www.youtube.com/watch?v=wZXAf-T74kE)
@@ -4115,29 +4115,29 @@ Groteske Aufklärung
 
         * [warum hassen alle die serben? - Ecosia](https://www.ecosia.org/search?q=warum+hassen+alle+die+serben%3F&addon=chrome&addonversion=2.0.3)
 
-                * https://en.wikipedia.org/wiki/List_of_authoritarian_regimes_supported_by_the_United_States
+                * [en.wikipedia.org/wiki/List_of_authoritarian_regimes_supported_by_the_United_States](https://en.wikipedia.org/wiki/List_of_authoritarian_regimes_supported_by_the_United_States)
 
-                * http://www.spiegel.de/politik/ausland/syrien-was-putin-erreichen-will-a-1055516.html
+                * [spiegel.de/politik/ausland/syrien-was-putin-erreichen-will-a-1055516.html](http://www.spiegel.de/politik/ausland/syrien-was-putin-erreichen-will-a-1055516.html)
 
-                * http://www.npr.org/sections/parallels/2016/10/11/497563923/u-s-reconsiders-support-of-saudi-led-coalition-in-yemen-conflict
+                * [npr.org/sections/parallels/2016/10/11/497563923/u-s-reconsiders-support-of-saudi-led-coalition-in-yemen-conflict](http://www.npr.org/sections/parallels/2016/10/11/497563923/u-s-reconsiders-support-of-saudi-led-coalition-in-yemen-conflict)
 
-                * https://www.lrb.co.uk/v36/n08/seymour-m-hersh/the-red-line-and-the-rat-line
+                * [lrb.co.uk/v36/n08/seymour-m-hersh/the-red-line-and-the-rat-line](https://www.lrb.co.uk/v36/n08/seymour-m-hersh/the-red-line-and-the-rat-line)
 
-                * https://www.project-syndicate.org/commentary/can-hezbollah-weather-the-arab-spring?barrier=true
+                * [project-syndicate.org/commentary/can-hezbollah-weather-the-arab-spring?barrier=true](https://www.project-syndicate.org/commentary/can-hezbollah-weather-the-arab-spring?barrier=true)
 
-                * https://www.project-syndicate.org/commentary/european-defense-integration-now-by-javier-solana-2016-09/french
+                * [project-syndicate.org/commentary/european-defense-integration-now-by-javier-solana-2016-09/french](https://www.project-syndicate.org/commentary/european-defense-integration-now-by-javier-solana-2016-09/french)
 
-                * https://www.usatoday.com/story/opinion/2017/04/04/woodrow-wilson-democracy-world-war-james-bovard-column/99959474/
+                * [usatoday.com/story/opinion/2017/04/04/woodrow-wilson-democracy-world-war-james-bovard-column/99959474/](https://www.usatoday.com/story/opinion/2017/04/04/woodrow-wilson-democracy-world-war-james-bovard-column/99959474/)
 
 
     - Germany
-                * http://www.freire.de/
+                * [freire.de/](http://www.freire.de/)
 
 
         * [Ist Deutschland frauenfeindlich ? - YouTube](https://www.youtube.com/watch?v=jH62syDiTd4)
 
 
-        * [Italien: Innenministerium hält Terrorgefahr für so hoch wie nie](http://www.faz.net/aktuell/politik/ausland/italien-innenministerium-haelt-terrorgefahr-fuer-so-hoch-wie-nie-15517475.html?utm_content=buffer2a1f3&utm_medium=social&utm_source=facebook.com&utm_campaign=GEPC%253Ds6)
+        * [Italien: Innenministerium hält Terrorgefahr für so hoch wie nie](http://www.faz.net/aktuell/politik/ausland/italien-innenministerium-haelt-terrorgefahr-fuer-so-hoch-wie-nie-15517475.html)
 
 
         * [Maischberger - Wutbürger gegen Gutmenschen: Verliert die Demokratie - YouTube](https://www.youtube.com/watch?v=mwzCZUNTLJM)
@@ -4152,24 +4152,24 @@ Groteske Aufklärung
         * [Schmidt-Salomon • Lesung: Die Grenzen der Toleranz - YouTube](https://www.youtube.com/watch?v=u0fqIBrKkUA)
 
 
-        * [Wehrpflicht-Debatte? Kramp-Karrenbauers kluges Angebot](http://www.faz.net/aktuell/politik/inland/wehrpflicht-debatte-kramp-karrenbauers-kluges-angebot-15721683.html?utm_content=buffer7b461&utm_medium=social&utm_source=facebook.com&utm_campaign=GEPC%253Ds6)
+        * [Wehrpflicht-Debatte? Kramp-Karrenbauers kluges Angebot](http://www.faz.net/aktuell/politik/inland/wehrpflicht-debatte-kramp-karrenbauers-kluges-angebot-15721683.html)
 
-                * http://www.sueddeutsche.de/leben/ueber-politik-diskutieren-kulturschock-1.3337864?utm_content=http%3A%2F%2Fwww.sz.de%2F1.3337864&utm_medium=email&utm_campaign=SZ+ESPRESSO+AM+ABEND+Do%2C+19.+Januar&utm_term=html&utm_source=Maileon&reduced=true
+                * [sueddeutsche.de/leben/ueber-politik-diskutieren-kulturschock-1.3337864](http://www.sueddeutsche.de/leben/ueber-politik-diskutieren-kulturschock-1.3337864)
 
-                * https://prezi.com/zmk53xm52qzs/qualitatskontrolle-afd/
+                * [prezi.com/zmk53xm52qzs/qualitatskontrolle-afd/](https://prezi.com/zmk53xm52qzs/qualitatskontrolle-afd/)
 
 
         * [📺 Video: la Germania in crisi di identità - Limes](http://www.limesonline.com/video-lucio-caracciolo-germania-identita-mappamundi-maronta-desiderio-repubblica/110700?fbclid=IwAR03nm2B4-LAM2tADMROfD8pCXN3TV8gpV9ZOJYgUP5-IolZDoIuUCQype4)
 
 
-        * [Ethikrat kritisiert Corona-Kommunikation der Regierung - Politik - SZ.de](https://www.sueddeutsche.de/politik/coronavirus-covid-19-ethikrat-bundesregierung-1.4870731?sc_src=email_1474277&sc_lid=131684113&sc_uid=jLokG8at8U&sc_llid=21021&utm_medium=email&utm_source=emarsys&utm_content=www.sueddeutsche.de%2Fpolitik%2Fcoronavirus-covid-19-ethikrat-bundesregierung-1.4870731&utm_campaign=Espresso+am+Morgen+08.04.2020)
+        * [Ethikrat kritisiert Corona-Kommunikation der Regierung - Politik - SZ.de](https://www.sueddeutsche.de/politik/coronavirus-covid-19-ethikrat-bundesregierung-1.4870731?sc_src=email_1474277&sc_lid=131684113&sc_uid=jLokG8at8U&sc_llid=21021)
 
 
         Gregor Gysi kritisiert Jan Böhmermannde Votum Eins
 
-                * https://www.welt.de/wirtschaft/article151238382/Warum-Deutschland-das-beste-Land-der-Welt-ist.html
+                * [welt.de/wirtschaft/article151238382/Warum-Deutschland-das-beste-Land-der-Welt-ist.html](https://www.welt.de/wirtschaft/article151238382/Warum-Deutschland-das-beste-Land-der-Welt-ist.html)
 
-                * https://de.wikipedia.org/wiki/Christoph_H%C3%B6rstel
+                * [de.wikipedia.org/wiki/Christoph_H%C3%B6rstel](https://de.wikipedia.org/wiki/Christoph_H%C3%B6rstel)
 
 
         Kulturschock USA - Hitler, Bierfest, 3D Kino? - YouTube
@@ -4177,78 +4177,78 @@ Groteske Aufklärung
 
         * [Swastikas, Memory Beacons and Dimmer Switches - YouTube](https://www.youtube.com/watch?v=Gp4WkWp7bVg)
 
-                * http://expresso.sapo.pt/internacional/2016-03-12-Merkel-favoravel-ao-agravamento-das-leis-do-asilo
+                * [expresso.sapo.pt/internacional/2016-03-12-Merkel-favoravel-ao-agravamento-das-leis-do-asilo](http://expresso.sapo.pt/internacional/2016-03-12-Merkel-favoravel-ao-agravamento-das-leis-do-asilo)
 
 
         * [Deutschland den Deutschen? Wie mit Rechtspopulisten reden? RABIAT! - YouTube](https://www.youtube.com/watch?v=uGDKTrKa72k)
 
-                * http://info.kopp-verlag.de/hintergruende/deutschland/udo-ulfkotte/tabuthema-der-woche-vergewaltigung-durch-asylanten.html
+                * [info.kopp-verlag.de/hintergruende/deutschland/udo-ulfkotte/tabuthema-der-woche-vergewaltigung-durch-asylanten.html](http://info.kopp-verlag.de/hintergruende/deutschland/udo-ulfkotte/tabuthema-der-woche-vergewaltigung-durch-asylanten.html)
 
-                * http://inosmi.ru/russia/20151013/230785922.html
+                * [inosmi.ru/russia/20151013/230785922.html](http://inosmi.ru/russia/20151013/230785922.html)
 
-                * http://michael-mannheimer.net/category/massenvergewaltigungen-durch-muslime/
+                * [michael-mannheimer.net/category/massenvergewaltigungen-durch-muslime/](http://michael-mannheimer.net/category/massenvergewaltigungen-durch-muslime/)
 
-                * http://www.bildblog.de/61235/deutsche-wirtschafts-nachrichten-fehlerkultur-trefferzahlen/
+                * [bildblog.de/61235/deutsche-wirtschafts-nachrichten-fehlerkultur-trefferzahlen/](http://www.bildblog.de/61235/deutsche-wirtschafts-nachrichten-fehlerkultur-trefferzahlen/)
 
-                * http://www.bpb.de/politik/wahlen/bundestagswahlen/62529/wahlsysteme-im-vergleich?p=all
+                * [bpb.de/politik/wahlen/bundestagswahlen/62529/wahlsysteme-im-vergleich?p=all](http://www.bpb.de/politik/wahlen/bundestagswahlen/62529/wahlsysteme-im-vergleich?p=all)
 
-                * http://www.faz.net/aktuell/beruf-chance/campus/internationalisierung-der-unis-how-do-you-do-hausmeister-15699546.html
+                * [faz.net/aktuell/beruf-chance/campus/internationalisierung-der-unis-how-do-you-do-hausmeister-15699546.html](http://www.faz.net/aktuell/beruf-chance/campus/internationalisierung-der-unis-how-do-you-do-hausmeister-15699546.html)
 
-                * http://www.faz.net/aktuell/politik/inland/wehrpflicht-debatte-kramp-karrenbauers-kluges-angebot-15721683.html?utm_content=buffer7b461&utm_medium=social&utm_source=facebook.com&utm_campaign=GEPC%253Ds6
+                * [faz.net/aktuell/politik/inland/wehrpflicht-debatte-kramp-karrenbauers-kluges-angebot-15721683.html](http://www.faz.net/aktuell/politik/inland/wehrpflicht-debatte-kramp-karrenbauers-kluges-angebot-15721683.html)
 
-                * http://www.faz.net/aktuell/sport/fussball-wm/deutsches-team/presse-zu-deutschlands-wm-pleite-gegen-mexiko-in-moskau-15646088.html
+                * [faz.net/aktuell/sport/fussball-wm/deutsches-team/presse-zu-deutschlands-wm-pleite-gegen-mexiko-in-moskau-15646088.html](http://www.faz.net/aktuell/sport/fussball-wm/deutsches-team/presse-zu-deutschlands-wm-pleite-gegen-mexiko-in-moskau-15646088.html)
 
-                * http://www.faz.net/aktuell/wirtschaft/zukunftschancen-fuer-junge-menschen-stehen-in-deutschland-gut-14490728.html
+                * [faz.net/aktuell/wirtschaft/zukunftschancen-fuer-junge-menschen-stehen-in-deutschland-gut-14490728.html](http://www.faz.net/aktuell/wirtschaft/zukunftschancen-fuer-junge-menschen-stehen-in-deutschland-gut-14490728.html)
 
 
     - Gov Sites
-                * http://www.kmu.gov.ua/
+                * [kmu.gov.ua/](http://www.kmu.gov.ua/)
 
-                * http://www.house.gov/
+                * [house.gov/](http://www.house.gov/)
 
-                * http://www.senate.gov/index.htm
+                * [senate.gov/index.htm](http://www.senate.gov/index.htm)
 
-                * http://www.bundestag.de/
+                * [bundestag.de/](http://www.bundestag.de/)
 
-                * http://www.parlement.fr/
+                * [parlement.fr/](http://www.parlement.fr/)
 
-                * http://www.senato.it/home
+                * [senato.it/home](http://www.senato.it/home)
 
-                * http://www.camera.it/leg17/1
+                * [camera.it/leg17/1](http://www.camera.it/leg17/1)
 
-                * http://duma.ru/
+                * [duma.ru/](http://duma.ru/)
 
-                * http://www.npc.gov.cn/englishnpc/news/index.htm
+                * [npc.gov.cn/englishnpc/news/index.htm](http://www.npc.gov.cn/englishnpc/news/index.htm)
 
-                * https://www.gov.uk/
+                * [gov.uk/](https://www.gov.uk/)
 
 
     - Guns
-                * http://www.safewise.com/resources/guns-at-home
+                * [safewise.com/resources/guns-at-home](http://www.safewise.com/resources/guns-at-home)
 
-                * http://www.theblaze.com/stories/2013/02/15/how-likely-are-you-to-die-from-gun-violence-this-interesting-chart-puts-it-in-perspective/
+                * [theblaze.com/stories/2013/02/15/how-likely-are-you-to-die-from-gun-violence-this-interesting-chart-puts-it-in-perspective/](http://www.theblaze.com/stories/2013/02/15/how-likely-are-you-to-die-from-gun-violence-this-interesting-chart-puts-it-in-perspective/)
 
-                * http://www.thedailybeast.com/articles/2015/11/13/this-is-how-ak-47s-get-to-paris.html
+                * [thedailybeast.com/articles/2015/11/13/this-is-how-ak-47s-get-to-paris.html](http://www.thedailybeast.com/articles/2015/11/13/this-is-how-ak-47s-get-to-paris.html)
 
-                * http://www.truthandaction.org/hitler-survivor-keep-guns-buy/2/
+                * [truthandaction.org/hitler-survivor-keep-guns-buy/2/](http://www.truthandaction.org/hitler-survivor-keep-guns-buy/2/)
 
-                * https://law.stanford.edu/2015/10/12/professor-john-donohue-facts-do-not-support-claim-that-guns-make-us-safer/
+                * [law.stanford.edu/2015/10/12/professor-john-donohue-facts-do-not-support-claim-that-guns-make-us-safer/](https://law.stanford.edu/2015/10/12/professor-john-donohue-facts-do-not-support-claim-that-guns-make-us-safer/)
 
-                * https://www.vnovomsvete.com/social/2018/09/13/bolshe-oruzhiya-vovse-ne-oznachaet-bolshe-bezopasnosti.html
+                * [vnovomsvete.com/social/2018/09/13/bolshe-oruzhiya-vovse-ne-oznachaet-bolshe-bezopasnosti.html](https://www.vnovomsvete.com/social/2018/09/13/bolshe-oruzhiya-vovse-ne-oznachaet-bolshe-bezopasnosti.html)
 
-                * http://www.slate.com/articles/health_and_science/medical_examiner/2015/01/good_guy_with_a_gun_myth_guns_increase_the_risk_of_homicide_accidents_suicide.html
+                * [slate.com/articles/health_and_science/medical_examiner/2015/01/good_guy_with_a_gun_myth_guns_increase_the_risk_of_homicide_accidents_suicide.html](http://www.slate.com/articles/health_and_science/medical_examiner/2015/01/good_guy_with_a_gun_myth_guns_increase_the_risk_of_homicide_accidents_suicide.html)
 
 
     - Homo
-                * http://www.frc.org/issuebrief/new-study-on-homosexual-parents-tops-all-previous-research
+                * [frc.org/issuebrief/new-study-on-homosexual-parents-tops-all-previous-research](http://www.frc.org/issuebrief/new-study-on-homosexual-parents-tops-all-previous-research)
 
-                * http://www.heritage.org/research/reports/2015/04/the-research-on-same-sex-parenting-no-differences-no-more
+                * [heritage.org/research/reports/2015/04/the-research-on-same-sex-parenting-no-differences-no-more](http://www.heritage.org/research/reports/2015/04/the-research-on-same-sex-parenting-no-differences-no-more)
 
-                * http://whatweknow.law.columbia.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-the-wellbeing-of-children-with-gay-or-lesbian-parents/
+                * [whatweknow.law.columbia.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-the-wellbeing-of-children-with-gay-or-lesbian-parents/](http://whatweknow.law.columbia.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-the-wellbeing-of-children-with-gay-or-lesbian-parents/)
 
 
     - Humor
-                * http://www.titanic-magazin.de/news/titanic-wut-rubrik-die-offene-tuer-8025/
+                * [titanic-magazin.de/news/titanic-wut-rubrik-die-offene-tuer-8025/](http://www.titanic-magazin.de/news/titanic-wut-rubrik-die-offene-tuer-8025/)
 
 
         * [Chapo Trap House - Executive Producer feat. Richard Wolff - YouTube](https://www.youtube.com/watch?v=XqKpxxciL4I)
@@ -4288,7 +4288,7 @@ Groteske Aufklärung
 
 
     - Ideología
-                * http://www.bloombergview.com/articles/2013-04-15/why-well-informed-people-are-also-close-minded
+                * [bloombergview.com/articles/2013-04-15/why-well-informed-people-are-also-close-minded](http://www.bloombergview.com/articles/2013-04-15/why-well-informed-people-are-also-close-minded)
 
 
         How Are Conservative And Liberal Brains Different? - YouTube
@@ -4299,11 +4299,11 @@ Groteske Aufklärung
 
         Liberal vs. Conservative Talk Show Hosts - YouTube
 
-                * http://eprints.hud.ac.uk/12598/2/SimmonsLiberal_Conservatism_revised_3.pdf
+                * [eprints.hud.ac.uk/12598/2/SimmonsLiberal_Conservatism_revised_3.pdf](http://eprints.hud.ac.uk/12598/2/SimmonsLiberal_Conservatism_revised_3.pdf)
 
-                * http://polit.ru/article/2013/11/12/paternalism/
+                * [polit.ru/article/2013/11/12/paternalism/](http://polit.ru/article/2013/11/12/paternalism/)
 
-                * http://www.huffingtonpost.com/entry/liberals-and-conservatives-brains-solve-problems-differently_us_56f00b95e4b09bf44a9dd89f?cps=gravity_5117_-1555747211147012810
+                * [huffingtonpost.com/entry/liberals-and-conservatives-brains-solve-problems-differently_us_56f00b95e4b09bf44a9dd89f?cps=gravity_5117_-1555747211147012810](http://www.huffingtonpost.com/entry/liberals-and-conservatives-brains-solve-problems-differently_us_56f00b95e4b09bf44a9dd89f?cps=gravity_5117_-1555747211147012810)
 
 
         liberal vs neoliberal
@@ -4312,7 +4312,7 @@ Groteske Aufklärung
         * [Libéralisme, néolibéralisme et corruption: Pierre Dardot - YouTube](https://www.youtube.com/watch?v=04DnpGfg30s)
 
 
-        * [The Liberal and Marxist Theories of History | Libertarianism.org](https://www.libertarianism.org/media/liberty-chronicles/liberal-marxist-theories-history?utm_content=61499773&utm_medium=social&utm_source=facebook)
+        * [The Liberal and Marxist Theories of History | Libertarianism.org](https://www.libertarianism.org/media/liberty-chronicles/liberal-marxist-theories-history)
 
 
         * [When morality opposes justice: Conservatives have moral intuitions that liberals may not recognize | Morality | Conservatism](https://fr.scribd.com/document/16859574/When-morality-opposes-justice-Conservatives-have-moral-intuitions-that-liberals-may-not-recognize)
@@ -4322,37 +4322,37 @@ Groteske Aufklärung
 
 
     - Incarceración
-                * https://www.unodc.org/unodc/en/justice-and-prison-reform/prison-reform-and-alternatives-to-imprisonment.html
+                * [unodc.org/unodc/en/justice-and-prison-reform/prison-reform-and-alternatives-to-imprisonment.html](https://www.unodc.org/unodc/en/justice-and-prison-reform/prison-reform-and-alternatives-to-imprisonment.html)
 
     - Inegalidad
 
         * [Nick Hanauer on inequality - YouTube](https://www.youtube.com/watch?v=bBx2Y5HhplI)
 
-                * https://www.nytimes.com/2015/05/06/business/thinking-outside-the-debate-on-income-inequality.html?_r=0
+                * [nytimes.com/2015/05/06/business/thinking-outside-the-debate-on-income-inequality.html?_r=0](https://www.nytimes.com/2015/05/06/business/thinking-outside-the-debate-on-income-inequality.html?_r=0)
 
-                * http://www.paulsjusticepage.com/RichGetRicher/summary-conc.htm
+                * [paulsjusticepage.com/RichGetRicher/summary-conc.htm](http://www.paulsjusticepage.com/RichGetRicher/summary-conc.htm)
 
-                * https://www.hoover.org/research/wealth-poverty-and-politics-0
+                * [hoover.org/research/wealth-poverty-and-politics-0](https://www.hoover.org/research/wealth-poverty-and-politics-0)
 
 
     - Institutos
-                * http://www.grc.net/index.php?sec=Home&sec_type=h&frm_show=1&set_lang=ar
+                * [grc.net/index.php?sec=Home&sec_type=h&frm_show=1&set_lang=ar](http://www.grc.net/index.php?sec=Home&sec_type=h&frm_show=1&set_lang=ar)
 
-                * http://acpss.ahramdigital.org.eg/
+                * [acpss.ahramdigital.org.eg/](http://acpss.ahramdigital.org.eg/)
 
-                * http://www.multaqa.org/arabic.php
+                * [multaqa.org/arabic.php](http://www.multaqa.org/arabic.php)
 
-                * http://www.ibri-rbpi.org/
+                * [ibri-rbpi.org/](http://www.ibri-rbpi.org/)
 
-                * http://www.cartainternacional.abri.org.br/index.php/Carta
+                * [cartainternacional.abri.org.br/index.php/Carta](http://www.cartainternacional.abri.org.br/index.php/Carta)
 
-                * http://www.humanas.ufpr.br/portal/conjunturaglobal/
+                * [humanas.ufpr.br/portal/conjunturaglobal/](http://www.humanas.ufpr.br/portal/conjunturaglobal/)
 
-                * http://revista.unicuritiba.edu.br/index.php/RIMA/index
+                * [revista.unicuritiba.edu.br/index.php/RIMA/index](http://revista.unicuritiba.edu.br/index.php/RIMA/index)
 
 
     - Internacional
-                * http://www.heritage.org/index/ranking
+                * [heritage.org/index/ranking](http://www.heritage.org/index/ranking)
 
 
         * [What do libertarians think of the so-called Scandinavian success story? - Quora](https://www.quora.com/What-do-libertarians-think-of-the-so-called-Scandinavian-success-story)
@@ -4360,49 +4360,49 @@ Groteske Aufklärung
 
         What The Nordic Countries Get Right On LGBTQ Rights | HuffPost
 
-                * http://www.latimes.com/nation/la-oe-0111-jones-ex-pat-american-20150111-story.html
+                * [latimes.com/nation/la-oe-0111-jones-ex-pat-american-20150111-story.html](http://www.latimes.com/nation/la-oe-0111-jones-ex-pat-american-20150111-story.html)
 
-                * https://nyulocal.com/four-governments-that-function-better-than-americas-81960a5c39a8
+                * [nyulocal.com/four-governments-that-function-better-than-americas-81960a5c39a8](https://nyulocal.com/four-governments-that-function-better-than-americas-81960a5c39a8)
 
-                * https://www.bloomberg.com/news/articles/2016-09-22/america-is-not-the-greatest-country-on-earth-it-s-no-28
+                * [bloomberg.com/news/articles/2016-09-22/america-is-not-the-greatest-country-on-earth-it-s-no-28](https://www.bloomberg.com/news/articles/2016-09-22/america-is-not-the-greatest-country-on-earth-it-s-no-28)
 
-                * https://www.forbes.com/sites/kurtbadenhausen/2016/12/21/sweden-heads-the-best-countries-for-business-for-2017/#382daa927ecd
+                * [forbes.com/sites/kurtbadenhausen/2016/12/21/sweden-heads-the-best-countries-for-business-for-2017/#382daa927ecd](https://www.forbes.com/sites/kurtbadenhausen/2016/12/21/sweden-heads-the-best-countries-for-business-for-2017/#382daa927ecd)
 
-                * https://www.quora.com/Can-the-U-S-enjoy-an-economic-model-like-that-of-the-Nordic-countries
+                * [quora.com/Can-the-U-S-enjoy-an-economic-model-like-that-of-the-Nordic-countries](https://www.quora.com/Can-the-U-S-enjoy-an-economic-model-like-that-of-the-Nordic-countries)
 
-                * https://www.theguardian.com/world/2017/mar/20/norway-ousts-denmark-as-worlds-happiest-country-un-report
+                * [theguardian.com/world/2017/mar/20/norway-ousts-denmark-as-worlds-happiest-country-un-report](https://www.theguardian.com/world/2017/mar/20/norway-ousts-denmark-as-worlds-happiest-country-un-report)
 
-                * https://www.usnews.com/news/best-countries/articles/2016-01-20/what-country-is-no-1-not-the-us
+                * [usnews.com/news/best-countries/articles/2016-01-20/what-country-is-no-1-not-the-us](https://www.usnews.com/news/best-countries/articles/2016-01-20/what-country-is-no-1-not-the-us)
 
-                * https://www.usnews.com/news/best-countries/movers-rankings
+                * [usnews.com/news/best-countries/movers-rankings](https://www.usnews.com/news/best-countries/movers-rankings)
 
-                * https://www.usnews.com/news/best-countries/slideshows/the-25-best-countries-in-the-world?int=news-rec
+                * [usnews.com/news/best-countries/slideshows/the-25-best-countries-in-the-world?int=news-rec](https://www.usnews.com/news/best-countries/slideshows/the-25-best-countries-in-the-world?int=news-rec)
 
-                * https://www.usnews.com/news/best-countries/united-states
+                * [usnews.com/news/best-countries/united-states](https://www.usnews.com/news/best-countries/united-states)
 
-                * https://www.washingtonpost.com/news/wonk/wp/2014/07/03/21-maps-and-charts-that-prove-america-is-number-one/?utm_term=.cb98a6ea80b7
+                * [washingtonpost.com/news/wonk/wp/2014/07/03/21-maps-and-charts-that-prove-america-is-number-one/](https://www.washingtonpost.com/news/wonk/wp/2014/07/03/21-maps-and-charts-that-prove-america-is-number-one/)
 
-                * https://www.washingtonpost.com/news/wonk/wp/2016/03/14/can-bernie-sanders-turn-the-united-states-into-denmark-an-investigation/?tid=pm_business_pop_b
+                * [washingtonpost.com/news/wonk/wp/2016/03/14/can-bernie-sanders-turn-the-united-states-into-denmark-an-investigation/?tid=pm_business_pop_b](https://www.washingtonpost.com/news/wonk/wp/2016/03/14/can-bernie-sanders-turn-the-united-states-into-denmark-an-investigation/?tid=pm_business_pop_b)
 
-                * http://www.usnews.com/news/blogs/data-mine/2015/11/12/countries-where-gender-equality-is-valued-the-most
+                * [usnews.com/news/blogs/data-mine/2015/11/12/countries-where-gender-equality-is-valued-the-most](http://www.usnews.com/news/blogs/data-mine/2015/11/12/countries-where-gender-equality-is-valued-the-most)
 
-                * http://www.washingtonexaminer.com/the-miracle-of-the-english-speaking-peoples/article/2576185
+                * [washingtonexaminer.com/the-miracle-of-the-english-speaking-peoples/article/2576185](http://www.washingtonexaminer.com/the-miracle-of-the-english-speaking-peoples/article/2576185)
 
-                * http://www.wiwo.de/politik/deutschland/best-countries-ranking-2016-die-beliebtesten-laender-der-welt/12855942.html
+                * [wiwo.de/politik/deutschland/best-countries-ranking-2016-die-beliebtesten-laender-der-welt/12855942.html](http://www.wiwo.de/politik/deutschland/best-countries-ranking-2016-die-beliebtesten-laender-der-welt/12855942.html)
 
-                * http://www.worldatlas.com/articles/the-best-governments-in-the-world.html
+                * [worldatlas.com/articles/the-best-governments-in-the-world.html](http://www.worldatlas.com/articles/the-best-governments-in-the-world.html)
 
-                * http://www.cnn.com/2013/09/25/travel/10-things-u-s-does-better/
+                * [cnn.com/2013/09/25/travel/10-things-u-s-does-better/](http://www.cnn.com/2013/09/25/travel/10-things-u-s-does-better/)
 
-                * http://www.aei.org/publication/the-worlds-most-functional-government-japan/
+                * [aei.org/publication/the-worlds-most-functional-government-japan/](http://www.aei.org/publication/the-worlds-most-functional-government-japan/)
 
-                * http://www.businessinsider.com/best-countries-to-live-in-according-to-millennials-2016-5
+                * [businessinsider.com/best-countries-to-live-in-according-to-millennials-2016-5](http://www.businessinsider.com/best-countries-to-live-in-according-to-millennials-2016-5)
 
-                * https://fascinationhub.wordpress.com/2016/12/20/best-functioning-countries-2016/
+                * [fascinationhub.wordpress.com/2016/12/20/best-functioning-countries-2016/](https://fascinationhub.wordpress.com/2016/12/20/best-functioning-countries-2016/)
 
-                * http://www.countryranker.com/worlds-top-20-countries-with-best-government/
+                * [countryranker.com/worlds-top-20-countries-with-best-government/](http://www.countryranker.com/worlds-top-20-countries-with-best-government/)
 
-                * http://www.debate.org/opinions/is-america-the-best-country-in-the-world
+                * [debate.org/opinions/is-america-the-best-country-in-the-world](http://www.debate.org/opinions/is-america-the-best-country-in-the-world)
 
 
         * [Can North Korea′s elites oust Kim Jong Un? | Asia | DW | 02.06.2017](http://www.dw.com/en/can-north-koreas-elites-oust-kim-jong-un/a-39091374)
@@ -4411,7 +4411,7 @@ Groteske Aufklärung
         * [COSÌ GLI STATI UNITI ATTACCHERANNO LA GERMANIA - Limes](http://www.limesonline.com/cartaceo/cosi-gli-stati-uniti-attaccheranno-la-germania?prv=true)
 
 
-        * [Die Gelbwesten stellen Macrons Glaubwürdigkeit in Frage | Deutsche Gesellschaft für Auswärtige Politik e.V.](https://dgap.org/de/think-tank/publikationen/dgapstandpunkt/die-gelbwesten-stellen-macrons-glaubwuerdigkeit-frage?utm_medium=email&utm_campaign=DGAP%20Newsletter%2002%20-%20190117&utm_content=DGAP%20Newsletter%2002%20-%20190117+CID_abb0aa239cb6bb7f8f0dd172dfb88cd9&utm_source=DGAP%20Newsletter&utm_term=Frankreich%20vor%20der%20Europawahl%20Die%20Gelbwesten%20stellen%20Macrons%20Glaubwrdigkeit%20in%20Frage)
+        * [Die Gelbwesten stellen Macrons Glaubwürdigkeit in Frage | Deutsche Gesellschaft für Auswärtige Politik e.V.](https://dgap.org/de/think-tank/publikationen/dgapstandpunkt/die-gelbwesten-stellen-macrons-glaubwuerdigkeit-frage)
 
 
         El Conflicto Sirio, en Cinco Minutosde wlievano1
@@ -4419,7 +4419,7 @@ Groteske Aufklärung
 
         El video que predijo los atentados terroristas en Europa y la verdad del conflicto en Siria.de ZDI
 
-                * https://lareleveetlapeste.fr/le-petrole-le-sang-noir-du-monde-moderne/
+                * [lareleveetlapeste.fr/le-petrole-le-sang-noir-du-monde-moderne/](https://lareleveetlapeste.fr/le-petrole-le-sang-noir-du-monde-moderne/)
 
 
         * [Guerre commerciale - YouTube](https://www.youtube.com/watch?v=EhPPZ3FA7zI)
@@ -4430,7 +4430,7 @@ Groteske Aufklärung
 
         * [ft.com/conten...](https://www.ft.com/content/3165c19c-0ba0-11ea-bb52-34c8d9dc6d84)
 
-                * https://amerika21.de/analyse/136893/venezuela-wahlsystem
+                * [amerika21.de/analyse/136893/venezuela-wahlsystem](https://amerika21.de/analyse/136893/venezuela-wahlsystem)
 
 
         * [War Crimes, Genocide, and Justice. A Global History - David M. Crowe.pdf](https://vk.com/doc278943367_499325141?hash=42e71871864f90fede&dl=aa0bee4d3f0611515e)
@@ -4441,11 +4441,11 @@ Groteske Aufklärung
 
         * [Herfried Münkler | Instabilität als neue Weltordnung (NZZ Standpunkte 2013) - YouTube](https://www.youtube.com/watch?v=70jMHblkAy8)
 
-                * https://journal-neo.org/2018/02/18/the-problem-is-america-the-malignant-cultural-hegemony/
+                * [journal-neo.org/2018/02/18/the-problem-is-america-the-malignant-cultural-hegemony/](https://journal-neo.org/2018/02/18/the-problem-is-america-the-malignant-cultural-hegemony/)
 
-                * http://www.limesonline.com/accadde-oggi-5-novembre-prima-guerra-mondiale-franklin-d-roosevelt-benazir-bhutto-saddam-hussein-gli-anniversari-geopolitici-del-5-novembre/102684?fbclid=IwAR3BLfYZj1hHrjdCNeQTWWJQuWYq3p0ZgLBxAADOM5swICHD00VNy0gB2IA
+                * [limesonline.com/accadde-oggi-5-novembre-prima-guerra-mondiale-franklin-d-roosevelt-benazir-bhutto-saddam-hussein-gli-anniversari-geopolitici-del-5-novembre/102684?fbclid=IwAR3BLfYZj1hHrjdCNeQTWWJQuWYq3p0ZgLBxAADOM5swICHD00VNy0gB2IA](http://www.limesonline.com/accadde-oggi-5-novembre-prima-guerra-mondiale-franklin-d-roosevelt-benazir-bhutto-saddam-hussein-gli-anniversari-geopolitici-del-5-novembre/102684?fbclid=IwAR3BLfYZj1hHrjdCNeQTWWJQuWYq3p0ZgLBxAADOM5swICHD00VNy0gB2IA)
 
-                * http://temi.repubblica.it/limes-heartland/it-is-not-the-end-of-the-world/2098
+                * [temi.repubblica.it/limes-heartland/it-is-not-the-end-of-the-world/2098](http://temi.repubblica.it/limes-heartland/it-is-not-the-end-of-the-world/2098)
 
 
         ISIS: A modern revolutionary force? ~ John Gray - YouTube
@@ -4453,7 +4453,7 @@ Groteske Aufklärung
 
         * [Jared Diamond sobre los motivos del colapso de las sociedades - YouTube](https://www.youtube.com/watch?v=IESYMFtLIis)
 
-                * http://www.limesonline.com/cartaceo/usa-contro-iran-odio-innegoziabile-stati-uniti-repubblica-islamica?fbclid=IwAR2zx8i6-FsLh-V3Wp8vT6o7BT46226Bsw0QRowan6BW-oj8K2SF9KhFt8s&refresh_ce
+                * [limesonline.com/cartaceo/usa-contro-iran-odio-innegoziabile-stati-uniti-repubblica-islamica?fbclid=IwAR2zx8i6-FsLh-V3Wp8vT6o7BT46226Bsw0QRowan6BW-oj8K2SF9KhFt8s&refresh_ce](http://www.limesonline.com/cartaceo/usa-contro-iran-odio-innegoziabile-stati-uniti-repubblica-islamica?fbclid=IwAR2zx8i6-FsLh-V3Wp8vT6o7BT46226Bsw0QRowan6BW-oj8K2SF9KhFt8s&refresh_ce)
 
 
         * [Los Libros: Gloria Lomana presenta 'Juegos de poder' - 28/11/17 - YouTube](https://www.youtube.com/watch?v=81AySVBZgVI)
@@ -4461,13 +4461,13 @@ Groteske Aufklärung
 
         War Games auf US-Basis - Pflüger (Linke): &quot;Kriegsszenarien gegen Russland gerichtet&quot; (sputniknews) - YouTube
 
-                * http://foreignpolicy.com/2013/08/20/mapped-the-7-governments-the-u-s-has-overthrown/
+                * [foreignpolicy.com/2013/08/20/mapped-the-7-governments-the-u-s-has-overthrown/](http://foreignpolicy.com/2013/08/20/mapped-the-7-governments-the-u-s-has-overthrown/)
 
-                * http://foreignpolicy.com/2016/04/07/obama-was-not-a-realist-president-jeffrey-goldberg-atlantic-obama-doctrine/
+                * [foreignpolicy.com/2016/04/07/obama-was-not-a-realist-president-jeffrey-goldberg-atlantic-obama-doctrine/](http://foreignpolicy.com/2016/04/07/obama-was-not-a-realist-president-jeffrey-goldberg-atlantic-obama-doctrine/)
 
-                * http://foreignpolicy.com/2016/08/24/if-this-is-obamas-middle-east-balancing-act-libya-afghanistan-iraq-iran/
+                * [foreignpolicy.com/2016/08/24/if-this-is-obamas-middle-east-balancing-act-libya-afghanistan-iraq-iran/](http://foreignpolicy.com/2016/08/24/if-this-is-obamas-middle-east-balancing-act-libya-afghanistan-iraq-iran/)
 
-                * http://foreignpolicy.com/2016/10/31/the-news-were-missing-because-of-the-u-s-presidential-election/
+                * [foreignpolicy.com/2016/10/31/the-news-were-missing-because-of-the-u-s-presidential-election/](http://foreignpolicy.com/2016/10/31/the-news-were-missing-because-of-the-u-s-presidential-election/)
 
 
         Геоэкономика&quot;: Китай стал лидером глобальных экономических процессов. Программа от 10 мая 2017 года - YouTube
@@ -4478,41 +4478,41 @@ Groteske Aufklärung
 
         * [Por esto son Ricos los Países Nórdicos - YouTube](https://www.youtube.com/watch?v=6wZAMoV6ldc)
 
-                * http://expresso.sapo.pt/internacional/2016-03-12-Negociacoes-sobre-Siria.-Damasco-nao-aceita-afastamento-de-Assad
+                * [expresso.sapo.pt/internacional/2016-03-12-Negociacoes-sobre-Siria.-Damasco-nao-aceita-afastamento-de-Assad](http://expresso.sapo.pt/internacional/2016-03-12-Negociacoes-sobre-Siria.-Damasco-nao-aceita-afastamento-de-Assad)
 
-                * http://jeunessafricaine.blogspot.com/2013/04/lafrique-est-riche-mais-pourquoi-les.html
+                * [jeunessafricaine.blogspot.com/2013/04/lafrique-est-riche-mais-pourquoi-les.html](http://jeunessafricaine.blogspot.com/2013/04/lafrique-est-riche-mais-pourquoi-les.html)
 
-                * http://m.welt.de/politik/ausland/article143186475/Das-naechste-grosse-Schlachtfeld-ist-Europa.html
+                * [m.welt.de/politik/ausland/article143186475/Das-naechste-grosse-Schlachtfeld-ist-Europa.html](http://m.welt.de/politik/ausland/article143186475/Das-naechste-grosse-Schlachtfeld-ist-Europa.html)
 
-                * http://temi.repubblica.it/limes-heartland/the-de-tocqueville-syndrome/2100
+                * [temi.repubblica.it/limes-heartland/the-de-tocqueville-syndrome/2100](http://temi.repubblica.it/limes-heartland/the-de-tocqueville-syndrome/2100)
 
-                * http://www.limesonline.com/conferenza-stampa-trump-russia-hackeraggio-vittoria-intelligence-usa-notizie-mondo-oggi/96284
+                * [limesonline.com/conferenza-stampa-trump-russia-hackeraggio-vittoria-intelligence-usa-notizie-mondo-oggi/96284](http://www.limesonline.com/conferenza-stampa-trump-russia-hackeraggio-vittoria-intelligence-usa-notizie-mondo-oggi/96284)
 
-                * http://www.limesonline.com/guerra-usa-iran-ue-commercio-venezuela-mondo-settimana/107957
+                * [limesonline.com/guerra-usa-iran-ue-commercio-venezuela-mondo-settimana/107957](http://www.limesonline.com/guerra-usa-iran-ue-commercio-venezuela-mondo-settimana/107957)
 
-                * http://www.limesonline.com/sommari-rivista/stati-profondi-gli-abissi-del-potere?fbclid=IwAR0pX5s19W2081rxcvvMdnLov3rqEW7NTJW8DgIfuwtCA8jSr2_-RjYB9xE&refresh_ce
+                * [limesonline.com/sommari-rivista/stati-profondi-gli-abissi-del-potere?fbclid=IwAR0pX5s19W2081rxcvvMdnLov3rqEW7NTJW8DgIfuwtCA8jSr2_-RjYB9xE&refresh_ce](http://www.limesonline.com/sommari-rivista/stati-profondi-gli-abissi-del-potere?fbclid=IwAR0pX5s19W2081rxcvvMdnLov3rqEW7NTJW8DgIfuwtCA8jSr2_-RjYB9xE&refresh_ce)
 
-                * http://www.limesonline.com/video-lucio-caracciolo-germania-identita-mappamundi-maronta-desiderio-repubblica/110700?fbclid=IwAR3FLo-Sri-ecJHwuhgRQpj3VWAQ20HfkK8cYnkKZna1c-W6eQVd3n65gIA
+                * [limesonline.com/video-lucio-caracciolo-germania-identita-mappamundi-maronta-desiderio-repubblica/110700?fbclid=IwAR3FLo-Sri-ecJHwuhgRQpj3VWAQ20HfkK8cYnkKZna1c-W6eQVd3n65gIA](http://www.limesonline.com/video-lucio-caracciolo-germania-identita-mappamundi-maronta-desiderio-repubblica/110700?fbclid=IwAR3FLo-Sri-ecJHwuhgRQpj3VWAQ20HfkK8cYnkKZna1c-W6eQVd3n65gIA)
 
-                * http://themoderatevoice.com/moral-consistency-military-action-syria/
+                * [themoderatevoice.com/moral-consistency-military-action-syria/](http://themoderatevoice.com/moral-consistency-military-action-syria/)
 
-                * http://www.africafundacion.org/?article4590
+                * [africafundacion.org/?article4590](http://www.africafundacion.org/?article4590)
 
-                * http://www.alternet.org/world/35-countries-where-us-has-supported-fascists-druglords-and-terrorists
+                * [alternet.org/world/35-countries-where-us-has-supported-fascists-druglords-and-terrorists](http://www.alternet.org/world/35-countries-where-us-has-supported-fascists-druglords-and-terrorists)
 
-                * http://www.americanthinker.com/articles/2015/09/europes_refugee_crisis_violence_demands_and_muslim_conquest.html
+                * [americanthinker.com/articles/2015/09/europes_refugee_crisis_violence_demands_and_muslim_conquest.html](http://www.americanthinker.com/articles/2015/09/europes_refugee_crisis_violence_demands_and_muslim_conquest.html)
 
-                * http://www.deuframat.de/konflikte/krieg-und-aussoehnung/der-erste-weltkrieg-im-kollektiven-gedaechtnis-der-deutschen-und-der-franzosen/das-feindbild-der-deutschen-das-feindbild-der-franzosen.html
+                * [deuframat.de/konflikte/krieg-und-aussoehnung/der-erste-weltkrieg-im-kollektiven-gedaechtnis-der-deutschen-und-der-franzosen/das-feindbild-der-deutschen-das-feindbild-der-franzosen.html](http://www.deuframat.de/konflikte/krieg-und-aussoehnung/der-erste-weltkrieg-im-kollektiven-gedaechtnis-der-deutschen-und-der-franzosen/das-feindbild-der-deutschen-das-feindbild-der-franzosen.html)
 
-                * http://www.foreignaffairs.com/articles/141769/john-j-mearsheimer/why-the-ukraine-crisis-is-the-wests-fault
+                * [foreignaffairs.com/articles/141769/john-j-mearsheimer/why-the-ukraine-crisis-is-the-wests-fault](http://www.foreignaffairs.com/articles/141769/john-j-mearsheimer/why-the-ukraine-crisis-is-the-wests-fault)
 
 
     - Islam
-                * http://www.lemonde.fr/idees/article/2016/04/02/accepter-le-debat-avec-tariq-ramadan-ne-signifie-pas-etre-d-accord-avec-lui_4894545_3232.html
+                * [lemonde.fr/idees/article/2016/04/02/accepter-le-debat-avec-tariq-ramadan-ne-signifie-pas-etre-d-accord-avec-lui_4894545_3232.html](http://www.lemonde.fr/idees/article/2016/04/02/accepter-le-debat-avec-tariq-ramadan-ne-signifie-pas-etre-d-accord-avec-lui_4894545_3232.html)
 
-                * https://www.theguardian.com/politics/2015/dec/04/support-isis-parts-muslim-societies-tony-blair
+                * [theguardian.com/politics/2015/dec/04/support-isis-parts-muslim-societies-tony-blair](https://www.theguardian.com/politics/2015/dec/04/support-isis-parts-muslim-societies-tony-blair)
 
-                * http://www.thelocal.se/20151004/300-swedes-have-left-to-join-extremist
+                * [thelocal.se/20151004/300-swedes-have-left-to-join-extremist](http://www.thelocal.se/20151004/300-swedes-have-left-to-join-extremist)
 
 
         Fitna by Geert Wilders German Dokumentation (Doku)de Islamkritik Online
@@ -4520,24 +4520,24 @@ Groteske Aufklärung
 
         * [Tariq Ramadan, Qui est-il Réellement ? L'affaire Tourne au Cauchemar - YouTube](https://www.youtube.com/watch?v=ncqbVrzk2tk)
 
-                * http://www.bookwormroom.com/2013/04/29/the-reason-that-liberals-hate-christianity-but-ignore-islam/
+                * [bookwormroom.com/2013/04/29/the-reason-that-liberals-hate-christianity-but-ignore-islam/](http://www.bookwormroom.com/2013/04/29/the-reason-that-liberals-hate-christianity-but-ignore-islam/)
 
-                * http://www.christianpost.com/news/ex-muslim-proposal-that-islam-is-tolerant-is-fallacious-dangerous-47349/
+                * [christianpost.com/news/ex-muslim-proposal-that-islam-is-tolerant-is-fallacious-dangerous-47349/](http://www.christianpost.com/news/ex-muslim-proposal-that-islam-is-tolerant-is-fallacious-dangerous-47349/)
 
-                * http://pitweb.pitzer.edu/mcsi/fall-2016-islam-beyond-ideological-narratives/
+                * [pitweb.pitzer.edu/mcsi/fall-2016-islam-beyond-ideological-narratives/](http://pitweb.pitzer.edu/mcsi/fall-2016-islam-beyond-ideological-narratives/)
 
 
         * [Jacques Julliard : «Qu'est-ce que l'islamo-gauchisme?» @GI581d](https://limportant.fr/infos-societe/9/323776)
 
-                * http://qpolitical.com/someone-said-muslims-bad-woman-delivers-amazing-response/
+                * [qpolitical.com/someone-said-muslims-bad-woman-delivers-amazing-response/](http://qpolitical.com/someone-said-muslims-bad-woman-delivers-amazing-response/)
 
-                * http://www.dni.gov/index.php/resources/bin-laden-bookshelf
+                * [dni.gov/index.php/resources/bin-laden-bookshelf](http://www.dni.gov/index.php/resources/bin-laden-bookshelf)
 
 
     - Left
-                * http://www.governmentisgood.com/articles.php?aid=7
+                * [governmentisgood.com/articles.php?aid=7](http://www.governmentisgood.com/articles.php?aid=7)
 
-                * http://www.governmentisgood.com/articles.php?aid=9
+                * [governmentisgood.com/articles.php?aid=9](http://www.governmentisgood.com/articles.php?aid=9)
 
 
         * [Left-Wing Politics](https://en.wikipedia.org/wiki/Left-wing_politics)
@@ -4573,10 +4573,10 @@ Groteske Aufklärung
         * [Rencontres  avec Riccardo Petrella, figure emblématique de l’altermondialisme et Christine Mahy, porte-parole de la lutte contre la pauvreté   - Podcast – Ecolodio | Listen Notes](https://www.listennotes.com/podcasts/podcast-fr%C3%A9quence/rencontres-avec-riccardo-j-x419XNBTb/)
 
 
-        * [Socialism Crash Course](https://github.com/sonofevil/essays/blob/master/crash_course_socialism.md?utm_source=share&utm_medium=ios_app%20%20%20Inviato%20da%20iPhone)
+        * [Socialism Crash Course](https://github.com/sonofevil/essays/blob/master/crash_course_socialism.md)
 
 
-        * [Socialist Terms](https://github.com/sonofevil/essays/blob/master/glossary_of_socialist_terms.md?utm_source=share&utm_medium=ios_app)
+        * [Socialist Terms](https://github.com/sonofevil/essays/blob/master/glossary_of_socialist_terms.md)
 
 
         * [This November, Try Something New: Decolonize Your Mind by Mary Annette Pember — YES! Magazine](http://www.yesmagazine.org/people-power/this-november-try-something-new-decolonize-your-mind-20171113)
@@ -4587,13 +4587,13 @@ Groteske Aufklärung
 
         * [Wolff](https://libgen.is/search.php?&req=richard+wolff&phrase=1&view=simple&column=def&sort=language&sortmode=DESC%20%20%20Inviato%20da%20iPhone)
 
-                * https://www.theguardian.com/commentisfree/2015/jul/19/george-osborne-progressive-reform-welfare-benefits-system
+                * [theguardian.com/commentisfree/2015/jul/19/george-osborne-progressive-reform-welfare-benefits-system](https://www.theguardian.com/commentisfree/2015/jul/19/george-osborne-progressive-reform-welfare-benefits-system)
 
-                * http://www2.itif.org/2014-federally-supported-innovations.pdf
+                * [www2.itif.org/2014-federally-supported-innovations.pdf](http://www2.itif.org/2014-federally-supported-innovations.pdf)
 
-                * https://masbury.wordpress.com/2009/05/11/name-10-things-the-government-does-well/
+                * [masbury.wordpress.com/2009/05/11/name-10-things-the-government-does-well/](https://masbury.wordpress.com/2009/05/11/name-10-things-the-government-does-well/)
 
-                * https://thehumanist.com/magazine/july-august-2016/features/rescuing-memory
+                * [thehumanist.com/magazine/july-august-2016/features/rescuing-memory](https://thehumanist.com/magazine/july-august-2016/features/rescuing-memory)
 
 
         * [does scruton have any valid criticisms of the left? - Поиск в Google](https://www.google.com/search?q=does+scruton+have+any+valid+criticisms+of+the+left%3F&rlz=1C5CHFA_enUS800US800&oq=does+scruton+have+any+valid+criticisms+of+the+left%3F&aqs=chrome..69i57.9016j1j7&sourceid=chrome&ie=UTF-8)
@@ -4610,7 +4610,7 @@ Groteske Aufklärung
 
         Defending Postmodernism: An Open Letter to Jordan B. Peterson - YouTube
 
-                * http://www.nybooks.com/articles/2014/04/24/innovation-government-was-crucial-after-all/
+                * [nybooks.com/articles/2014/04/24/innovation-government-was-crucial-after-all/](http://www.nybooks.com/articles/2014/04/24/innovation-government-was-crucial-after-all/)
 
 
         * [How Progressives define "Right Wing" - Steven Pinker - YouTube](https://www.youtube.com/watch?v=CFLX4x6y6r8)
@@ -4627,23 +4627,23 @@ Groteske Aufklärung
 
         * [Mar 7, 2018 Special Interview Noam Chomsky - YouTube](https://www.youtube.com/watch?v=JFXkH_Dotuw)
 
-                * http://fr.euronews.com/2015/04/17/noam-chomsky-l-interview-qui-denonce-l-occident
+                * [fr.euronews.com/2015/04/17/noam-chomsky-l-interview-qui-denonce-l-occident](http://fr.euronews.com/2015/04/17/noam-chomsky-l-interview-qui-denonce-l-occident)
 
-                * http://theconversation.com/primaire-de-la-gauche-le-geant-endormi-ne-veille-que-dun-il-71390
+                * [theconversation.com/primaire-de-la-gauche-le-geant-endormi-ne-veille-que-dun-il-71390](http://theconversation.com/primaire-de-la-gauche-le-geant-endormi-ne-veille-que-dun-il-71390)
 
-                * http://theconversation.com/primaire-a-gauche-ecoutez-la-difference-71290
+                * [theconversation.com/primaire-a-gauche-ecoutez-la-difference-71290](http://theconversation.com/primaire-a-gauche-ecoutez-la-difference-71290)
 
 
     - Liberalismo
 
         * [Либеральный мировой порядок, R.I.P. by Richard N. Haass - Project Syndicate](https://www.project-syndicate.org/commentary/end-of-liberal-world-order-by-richard-n--haass-2018-03/russian)
 
-                * http://www.learnliberty.org/videos/schools-thought-classical-liberalism-part-3-public-choice/
+                * [learnliberty.org/videos/schools-thought-classical-liberalism-part-3-public-choice/](http://www.learnliberty.org/videos/schools-thought-classical-liberalism-part-3-public-choice/)
 
-                * http://www.telegraph.co.uk/news/worldnews/europe/france/11995821/Paris-attacks-have-put-a-dagger-through-the-heart-of-liberal-Europe.html
+                * [telegraph.co.uk/news/worldnews/europe/france/11995821/Paris-attacks-have-put-a-dagger-through-the-heart-of-liberal-Europe.html](http://www.telegraph.co.uk/news/worldnews/europe/france/11995821/Paris-attacks-have-put-a-dagger-through-the-heart-of-liberal-Europe.html)
 
 
-        * [http://www.washingtontimes.com/news/2017/jan/9/a-taste-for-authentic-liberalism](http://www.washingtontimes.com/news/2017/jan/9/a-taste-for-authentic-liberalism/?utm_source=FB&utm_medium=cpc&utm_campaign=KeyweeChacka&kwp_0=368656&kwp_4=1398582&kwp_1=616001)
+        * [http://www.washingtontimes.com/news/2017/jan/9/a-taste-for-authentic-liberalism](http://www.washingtontimes.com/news/2017/jan/9/a-taste-for-authentic-liberalism/)
 
 
         * [Isaiah Berlín - La traición de la libertad - Introducción - YouTube](https://www.youtube.com/watch?v=75T2lwaxbSk)
@@ -4657,7 +4657,7 @@ Groteske Aufklärung
 
         * [Un-liberty | The problem of hyper-liberalism – John Gray](https://www.the-tls.co.uk/articles/public/john-gray-hyper-liberalism-liberty/?CMP=Sprkr-_-Editorial-_-TimesLiterarySupplement-_-Unspecified-_-FBPAGE)
 
-                * https://www.project-syndicate.org/commentary/end-of-liberal-world-order-by-richard-n--haass-2018-03
+                * [project-syndicate.org/commentary/end-of-liberal-world-order-by-richard-n--haass-2018-03](https://www.project-syndicate.org/commentary/end-of-liberal-world-order-by-richard-n--haass-2018-03)
 
 
         * [A tribute to Isaiah Berlin - YouTube](https://www.youtube.com/watch?v=gpsMHb52pfU)
@@ -4682,65 +4682,65 @@ Groteske Aufklärung
 
         Екатерина Шульман: Как я сходила на Первый канал (опять)de Екатерина Шульман
 
-                * http://www.sourcewatch.org/index.php/Acton_Institute
+                * [sourcewatch.org/index.php/Acton_Institute](http://www.sourcewatch.org/index.php/Acton_Institute)
 
-                * http://www.sourcewatch.org/index.php/Intercollegiate_Studies_Institute
+                * [sourcewatch.org/index.php/Intercollegiate_Studies_Institute](http://www.sourcewatch.org/index.php/Intercollegiate_Studies_Institute)
 
-                * http://www.sourcewatch.org/index.php/List_of_citizen_journalism_websites
+                * [sourcewatch.org/index.php/List_of_citizen_journalism_websites](http://www.sourcewatch.org/index.php/List_of_citizen_journalism_websites)
 
 
         * [The Red Line](https://theredline.libsyn.com/)
 
-                * https://www.nytimes.com/2017/04/15/opinion/sunday/the-joy-of-hate-reading.html?utm_source=pocket&utm_medium=email&utm_campaign=pockethits&_r=0&mtrref=getpocket.com&gwh=99DAE752631CB904AB16B18884F32346&gwt=pay&assetType=opinion
+                * [nytimes.com/2017/04/15/opinion/sunday/the-joy-of-hate-reading.html](https://www.nytimes.com/2017/04/15/opinion/sunday/the-joy-of-hate-reading.html)
 
-                * http://www.rawstory.com/2017/03/youll-never-think-about-mass-media-the-same-way-again-after-watching-this-noam-chomsky-documentary/
+                * [rawstory.com/2017/03/youll-never-think-about-mass-media-the-same-way-again-after-watching-this-noam-chomsky-documentary/](http://www.rawstory.com/2017/03/youll-never-think-about-mass-media-the-same-way-again-after-watching-this-noam-chomsky-documentary/)
 
-                * https://www.eurozine.com/%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0-%D0%B8-%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C-%D0%BA%D0%B0%D0%BA-%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BC/
+                * [eurozine.com/%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0-%D0%B8-%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C-%D0%BA%D0%B0%D0%BA-%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BC/](https://www.eurozine.com/%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0-%D0%B8-%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C-%D0%BA%D0%B0%D0%BA-%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BC/)
 
 
-        * [Could fake news create fake memories? » IAI TV](https://iainews.iai.tv/articles/could-fake-news-create-fake-memories-auid-1051?access=ALL?utmsource=Reddit)
+        * [Could fake news create fake memories? » IAI TV](https://iainews.iai.tv/articles/could-fake-news-create-fake-memories-auid-1051?access=ALL)
 
-                * http://hubpages.com/politics/forum/77298/how-does-one-become-a-well-informed-individual
+                * [hubpages.com/politics/forum/77298/how-does-one-become-a-well-informed-individual](http://hubpages.com/politics/forum/77298/how-does-one-become-a-well-informed-individual)
 
-                * http://korrespondent.net/ukraine/politics/1595038-top-100-zhurnala-korrespondent-polnyj-spisok-samyh-vliyatelnyh-lyudej-ukrainy
+                * [korrespondent.net/ukraine/politics/1595038-top-100-zhurnala-korrespondent-polnyj-spisok-samyh-vliyatelnyh-lyudej-ukrainy](http://korrespondent.net/ukraine/politics/1595038-top-100-zhurnala-korrespondent-polnyj-spisok-samyh-vliyatelnyh-lyudej-ukrainy)
 
-                * https://eyeoneurope.wordpress.com/2010/09/21/are-american-journalists-from-mars-and-europeans-from-venus/
+                * [eyeoneurope.wordpress.com/2010/09/21/are-american-journalists-from-mars-and-europeans-from-venus/](https://eyeoneurope.wordpress.com/2010/09/21/are-american-journalists-from-mars-and-europeans-from-venus/)
 
-                * http://townhall.com/columnists/thomassowell/2015/11/25/political-translations-n2084502/page/full
+                * [townhall.com/columnists/thomassowell/2015/11/25/political-translations-n2084502/page/full](http://townhall.com/columnists/thomassowell/2015/11/25/political-translations-n2084502/page/full)
 
-                * http://www.boston.com/bostonglobe/ideas/articles/2010/07/11/how_facts_backfire/
+                * [boston.com/bostonglobe/ideas/articles/2010/07/11/how_facts_backfire/](http://www.boston.com/bostonglobe/ideas/articles/2010/07/11/how_facts_backfire/)
 
-                * http://visao.sapo.pt/opiniao/em-sincronizacao/2016-05-13-Sera-que-o-Facebook-vai-esconder-esta-historia-?utm_source=newsletter&utm_medium=mail&utm_campaign=newsletter&utm_content=2016-05-13
+                * [visao.sapo.pt/opiniao/em-sincronizacao/2016-05-13-Sera-que-o-Facebook-vai-esconder-esta-historia-](http://visao.sapo.pt/opiniao/em-sincronizacao/2016-05-13-Sera-que-o-Facebook-vai-esconder-esta-historia-)
 
-                * http://www.agoravox.fr/actualites/medias/article/comment-les-medias-forment-et-44958
+                * [agoravox.fr/actualites/medias/article/comment-les-medias-forment-et-44958](http://www.agoravox.fr/actualites/medias/article/comment-les-medias-forment-et-44958)
 
 
     - Migración
 
         * [Média et l'immigration](http://www.laviedesidees.fr/IMG/pdf/20121218_media_immigration.pdf)
-                * http://www.theblaze.com/contributions/youre-not-a-bad-christian-just-because-you-want-to-be-cautious-about-syrian-refugees/
+                * [theblaze.com/contributions/youre-not-a-bad-christian-just-because-you-want-to-be-cautious-about-syrian-refugees/](http://www.theblaze.com/contributions/youre-not-a-bad-christian-just-because-you-want-to-be-cautious-about-syrian-refugees/)
 
-                * http://www.lemonde.fr/les-decodeurs/article/2017/02/08/sept-chiffres-sur-les-enfants-d-immigres-en-france_5076714_4355770.html
+                * [lemonde.fr/les-decodeurs/article/2017/02/08/sept-chiffres-sur-les-enfants-d-immigres-en-france_5076714_4355770.html](http://www.lemonde.fr/les-decodeurs/article/2017/02/08/sept-chiffres-sur-les-enfants-d-immigres-en-france_5076714_4355770.html)
 
-                * https://www.cato.org/publications/policy-analysis/terrorism-immigration-risk-analysis
+                * [cato.org/publications/policy-analysis/terrorism-immigration-risk-analysis](https://www.cato.org/publications/policy-analysis/terrorism-immigration-risk-analysis)
 
-                * http://www.hudson.org/research/12167-europe-s-waning-welcome
+                * [hudson.org/research/12167-europe-s-waning-welcome](http://www.hudson.org/research/12167-europe-s-waning-welcome)
 
-                * http://www.independentsentinel.com/isis-threatens-to-flood-europe-and-elsewhere-as-libyan-refugees/
+                * [independentsentinel.com/isis-threatens-to-flood-europe-and-elsewhere-as-libyan-refugees/](http://www.independentsentinel.com/isis-threatens-to-flood-europe-and-elsewhere-as-libyan-refugees/)
 
-                * http://www.laviedesidees.fr/IMG/pdf/20121218_media_immigration.pdf
+                * [laviedesidees.fr/IMG/pdf/20121218_media_immigration.pdf](http://www.laviedesidees.fr/IMG/pdf/20121218_media_immigration.pdf)
 
 
     - Misc
-                * https://www.iai.it/en/pubblicazioni/libra-and-others-future-digital-money
+                * [iai.it/en/pubblicazioni/libra-and-others-future-digital-money](https://www.iai.it/en/pubblicazioni/libra-and-others-future-digital-money)
 
-                * https://www.iai.it/en/pubblicazioni/us-china-5g-contest-options-europe
+                * [iai.it/en/pubblicazioni/us-china-5g-contest-options-europe](https://www.iai.it/en/pubblicazioni/us-china-5g-contest-options-europe)
 
-                * https://www.iai.it/en/pubblicazioni/last-line-defence-strategy-europe-preserve-iran-nuclear-deal
+                * [iai.it/en/pubblicazioni/last-line-defence-strategy-europe-preserve-iran-nuclear-deal](https://www.iai.it/en/pubblicazioni/last-line-defence-strategy-europe-preserve-iran-nuclear-deal)
 
-                * https://www.iai.it/en/pubblicazioni/european-power
+                * [iai.it/en/pubblicazioni/european-power](https://www.iai.it/en/pubblicazioni/european-power)
 
-                * https://www.iai.it/en/pubblicazioni/future-european-union-scenarios-start-new-legislature
+                * [iai.it/en/pubblicazioni/future-european-union-scenarios-start-new-legislature](https://www.iai.it/en/pubblicazioni/future-european-union-scenarios-start-new-legislature)
 
 
         * [Informazione medica | Tutela dei diritti - Città dell&#39;Infanzia](http://www.cittadellinfanzia.it/index.php)
@@ -4763,11 +4763,11 @@ Groteske Aufklärung
 
         * [http://www.internazionale.it/opinione/tullio-de-mauro/2016/03/03/ortografia-scuola-francese -](http://www.internazionale.it/opinione/tullio-de-mauro/2016/03/03/ortografia-scuola-francese)
 
-                * https://www.nytimes.com/2017/02/06/world/middleeast/mothers-and-daughters-divided-by-refugee-ban-encounter-the-guilt-of-good-fortune.html?_r=0
+                * [nytimes.com/2017/02/06/world/middleeast/mothers-and-daughters-divided-by-refugee-ban-encounter-the-guilt-of-good-fortune.html?_r=0](https://www.nytimes.com/2017/02/06/world/middleeast/mothers-and-daughters-divided-by-refugee-ban-encounter-the-guilt-of-good-fortune.html?_r=0)
 
-                * http://www.realclearpolitics.com/articles/2010/01/27/in_defense_of_the_filibuster_100054.html
+                * [realclearpolitics.com/articles/2010/01/27/in_defense_of_the_filibuster_100054.html](http://www.realclearpolitics.com/articles/2010/01/27/in_defense_of_the_filibuster_100054.html)
 
-                * http://heterodoxacademy.org/resources/publications/
+                * [heterodoxacademy.org/resources/publications/](http://heterodoxacademy.org/resources/publications/)
 
 
         - ****The Perilous State of the University: Jonathan Haidt &amp; Jordan B Peterson - YouTube
@@ -4784,14 +4784,14 @@ Groteske Aufklärung
 
         * [Editorial: Regardons notre steak les yeux dans les yeux - - tdg.ch](https://www.tdg.ch/reflexions/regardons-steak-yeux-yeux/story/15841765)
 
-                * https://www.huffingtonpost.com/srinivasan-pillay/is-there-scientific-evide_b_175189.html
+                * [huffingtonpost.com/srinivasan-pillay/is-there-scientific-evide_b_175189.html](https://www.huffingtonpost.com/srinivasan-pillay/is-there-scientific-evide_b_175189.html)
 
 
         * [politicalphilosophy | 1. SEX WORK, ORGAN SALES, AND INTUITION](https://www.politicalphilosophypodcast.com/episode1)
 
-                * https://www.vice.com/alps/article/was-denken-asexuelle-ueber-unsere-sexualisierte-gesellschaft-196
+                * [vice.com/alps/article/was-denken-asexuelle-ueber-unsere-sexualisierte-gesellschaft-196](https://www.vice.com/alps/article/was-denken-asexuelle-ueber-unsere-sexualisierte-gesellschaft-196)
 
-                * http://www.sueddeutsche.de/sport/ausschreitungen-in-dortmund-bvb-fans-muessten-gegen-sich-selbst-protestieren-1.3366131?utm_source=Maileon&utm_medium=email&utm_campaign=SZ+ESPRESSO+AM+ABEND+6.+Februar+2017&utm_content=http%3A%2F%2Fwww.sueddeutsche.de%2Fsport%2Fausschreitungen-in-dortmund-bvb-fans-muessten-gegen-sich-selbst-protestieren-1.3366131&utm_term=html
+                * [sueddeutsche.de/sport/ausschreitungen-in-dortmund-bvb-fans-muessten-gegen-sich-selbst-protestieren-1.3366131](http://www.sueddeutsche.de/sport/ausschreitungen-in-dortmund-bvb-fans-muessten-gegen-sich-selbst-protestieren-1.3366131)
 
 
         * [Facebook, il grande giorno di Zuckerberg a Washington - Limes](http://www.limesonline.com/notizie-mondo-oggi-facebook-zuckerberg-senato-trump-11-aprile/106019)
@@ -4808,10 +4808,10 @@ Groteske Aufklärung
 
         * [РОССИЙСКИЕ КОНЦЕПЦИИ ГОСУДАРСТВЕННОСТИ СКВОЗЬ ПРИЗМУ ЗАПАДНОЙ ТЕОРИИ | Eurozine](https://www.eurozine.com/%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b9%d1%81%d0%ba%d0%b8%d0%b5-%d0%ba%d0%be%d0%bd%d1%86%d0%b5%d0%bf%d1%86%d0%b8%d0%b8-%d0%b3%d0%be%d1%81%d1%83%d0%b4%d0%b0%d1%80%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be/)
 
-                * https://www.nytimes.com/2016/08/03/business/economy/rethinking-the-role-of-government-in-society.html
-                * http://www.nytimes.com/2015/08/02/education/edlife/four-steps-to-choosing-a-career-path.html?action=click&contentCollection=Middle%20East&module=MostEmailed&version=Full&region=Marginalia&src=me&pgtype=article
+                * [nytimes.com/2016/08/03/business/economy/rethinking-the-role-of-government-in-society.html](https://www.nytimes.com/2016/08/03/business/economy/rethinking-the-role-of-government-in-society.html)
+                * [nytimes.com/2015/08/02/education/edlife/four-steps-to-choosing-a-career-path.html?action=click&contentCollection=Middle%20East&module=MostEmailed&version=Full&region=Marginalia&src=me&pgtype=article](http://www.nytimes.com/2015/08/02/education/edlife/four-steps-to-choosing-a-career-path.html?action=click&contentCollection=Middle%20East&module=MostEmailed&version=Full&region=Marginalia&src=me&pgtype=article)
 
-                * https://www.freitag.de/autoren/the-guardian/auf-beiden-augen-blind?utm_source=pocket-newtab
+                * [freitag.de/autoren/the-guardian/auf-beiden-augen-blind](https://www.freitag.de/autoren/the-guardian/auf-beiden-augen-blind)
 
 
         * [The risky politics of progress | Jonathan Tepperman - YouTube](https://www.youtube.com/watch?v=T_cetimMBL8)
@@ -4819,23 +4819,23 @@ Groteske Aufklärung
 
         * [Прогресс невозможен без грамотного управления](http://www.kp.md/daily/25991/2920974/)
 
-                * http://www.ng.ru/ng_politics/2011-02-22/11_gray.html
+                * [ng.ru/ng_politics/2011-02-22/11_gray.html](http://www.ng.ru/ng_politics/2011-02-22/11_gray.html)
 
-                * https://www.newstatesman.com/culture/books/2018/02/unenlightened-thinking-steven-pinker-s-embarrassing-new-book-feeble-sermon
+                * [newstatesman.com/culture/books/2018/02/unenlightened-thinking-steven-pinker-s-embarrassing-new-book-feeble-sermon](https://www.newstatesman.com/culture/books/2018/02/unenlightened-thinking-steven-pinker-s-embarrassing-new-book-feeble-sermon)
 
-                * https://www.huffpost.com/entry/liberals-and-conservatives-brains-solve-problems-differently_n_56f00b95e4b09bf44a9dd89f
+                * [huffpost.com/entry/liberals-and-conservatives-brains-solve-problems-differently_n_56f00b95e4b09bf44a9dd89f](https://www.huffpost.com/entry/liberals-and-conservatives-brains-solve-problems-differently_n_56f00b95e4b09bf44a9dd89f)
 
         * [WorkdayVoice: Engaging in Public Policy: 5 Questions for Stewart Verdery of Monument Policy Group](https://www.forbes.com/sites/workday/2017/11/30/engaging-in-public-policy-5-questions-for-stewart-verdery-of-monument-policy-group/#49efb0f65be4)
 
-                * http://www.politico.com/magazine/story/2017/01/what-works-salt-lake-city-utah-regional-planning-214652
+                * [politico.com/magazine/story/2017/01/what-works-salt-lake-city-utah-regional-planning-214652](http://www.politico.com/magazine/story/2017/01/what-works-salt-lake-city-utah-regional-planning-214652)
 
-                * https://www.google.com/search?q=evidence-based+policy+debates&oq=evidence-based+policy+debates&aqs=chrome..69i57.22919j0j7&sourceid=chrome&ie=UTF-8
+                * [google.com/search?q=evidence-based+policy+debates&oq=evidence-based+policy+debates&aqs=chrome..69i57.22919j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=evidence-based+policy+debates&oq=evidence-based+policy+debates&aqs=chrome..69i57.22919j0j7&sourceid=chrome&ie=UTF-8)
 
-                * https://behindthenumbers.ca/
+                * [behindthenumbers.ca/](https://behindthenumbers.ca/)
 
-                * https://re-publica.com/de
+                * [re-publica.com/de](https://re-publica.com/de)
 
-                * http://www.brookings.edu/experts/gaddyc
+                * [brookings.edu/experts/gaddyc](http://www.brookings.edu/experts/gaddyc)
 
 
 
@@ -4856,9 +4856,9 @@ Groteske Aufklärung
 
         * [IRÁN, ¿Una DICTADURA en vías de EXTINCIÓN? – VisualPolitik - YouTube](https://www.youtube.com/watch?v=V8KpOXjnk3k)
 
-                * http://www.srf.ch/news/wahlen/wahlkampf/parteispitzen-in-der-wahl-arena
+                * [srf.ch/news/wahlen/wahlkampf/parteispitzen-in-der-wahl-arena](http://www.srf.ch/news/wahlen/wahlkampf/parteispitzen-in-der-wahl-arena)
 
-                * http://tyzhden.ua/Politics/160871
+                * [tyzhden.ua/Politics/160871](http://tyzhden.ua/Politics/160871)
 
 
         * [La laïcité : au-delà de la légende, un idéal](http://media.radiofrance-podcast.net/podcast09/16260-29.09.2018-ITEMA_21829949-0.mp3)
@@ -4869,13 +4869,13 @@ Groteske Aufklärung
 
         Xi Jinping: Last Week Tonight with John Oliver (HBO) - YouTube
 
-                * http://novostik.com/byvshij-prezident-irana-paset-ovec/
+                * [novostik.com/byvshij-prezident-irana-paset-ovec/](http://novostik.com/byvshij-prezident-irana-paset-ovec/)
 
-                * http://theconversation.com/macron-candidat-de-la-protestation-si-si-71018
+                * [theconversation.com/macron-candidat-de-la-protestation-si-si-71018](http://theconversation.com/macron-candidat-de-la-protestation-si-si-71018)
 
-                * https://de.wikipedia.org/wiki/Politische_Parteien_in_der_Schweiz
+                * [de.wikipedia.org/wiki/Politische_Parteien_in_der_Schweiz](https://de.wikipedia.org/wiki/Politische_Parteien_in_der_Schweiz)
 
-                * http://tyzhden.ua/DayTheme/184238
+                * [tyzhden.ua/DayTheme/184238](http://tyzhden.ua/DayTheme/184238)
 
 
     - Pobreza
@@ -4885,11 +4885,11 @@ Groteske Aufklärung
 
         ZDF - Die Anstalt vom 5. April 2016 - Armut und Reichtum in Deutschlandde Michael Lange
 
-                * http://www.theatlantic.com/business/archive/2016/04/kids-poverty-baltimore/476808/
+                * [theatlantic.com/business/archive/2016/04/kids-poverty-baltimore/476808/](http://www.theatlantic.com/business/archive/2016/04/kids-poverty-baltimore/476808/)
 
-                * https://www.theatlantic.com/international/archive/2015/09/welfare-reform-direct-cash-poor/407236/
+                * [theatlantic.com/international/archive/2015/09/welfare-reform-direct-cash-poor/407236/](https://www.theatlantic.com/international/archive/2015/09/welfare-reform-direct-cash-poor/407236/)
 
-                * https://www.theguardian.com/global-development/poverty-matters/2010/oct/08/douglas-alexander-responsibility-poor-justice
+                * [theguardian.com/global-development/poverty-matters/2010/oct/08/douglas-alexander-responsibility-poor-justice](https://www.theguardian.com/global-development/poverty-matters/2010/oct/08/douglas-alexander-responsibility-poor-justice)
 
 
         A day in the life of a minimum wage earner in Bangladesh - YouTube
@@ -4911,7 +4911,7 @@ Groteske Aufklärung
 
 
     - Racismo
-                * http://www.latimes.com/opinion/op-ed/la-oe-goldberg-dallas-conservative-black-lives-matter-20160711-snap-story.html
+                * [latimes.com/opinion/op-ed/la-oe-goldberg-dallas-conservative-black-lives-matter-20160711-snap-story.html](http://www.latimes.com/opinion/op-ed/la-oe-goldberg-dallas-conservative-black-lives-matter-20160711-snap-story.html)
 
 
         * [Racism, Law, & Politics (Race Part 1) | Philosophy Tube - YouTube](https://www.youtube.com/watch?v=BGIetWAds6A)
@@ -4919,11 +4919,11 @@ Groteske Aufklärung
 
         * [The Power and the Threat of Kneeling: Colin Kaepernick – Red Letter Christians](https://www.redletterchristians.org/the-power-and-the-threat-of-kneeling-colin-kaepernick/)
 
-                * https://www.thenewprogressive.net/ultimate-white-privilege-statistics/
+                * [thenewprogressive.net/ultimate-white-privilege-statistics/](https://www.thenewprogressive.net/ultimate-white-privilege-statistics/)
 
-                * https://www.theroot.com/a-brief-history-of-people-using-romans-13-to-justify-wh-1826875704
+                * [theroot.com/a-brief-history-of-people-using-romans-13-to-justify-wh-1826875704](https://www.theroot.com/a-brief-history-of-people-using-romans-13-to-justify-wh-1826875704)
 
-                * http://www.washingtonpost.com/sf/national/2015/08/08/black-and-unarmed/
+                * [washingtonpost.com/sf/national/2015/08/08/black-and-unarmed/](http://www.washingtonpost.com/sf/national/2015/08/08/black-and-unarmed/)
 
 
         * [MARTIN LUTHER KING - Encyclopædia Universalis](https://www.universalis.fr/encyclopedie/martin-luther-king/)
@@ -4945,7 +4945,7 @@ Groteske Aufklärung
 
         Why the liberal West is a Christian creation
 
-                * http://www.spiegel.de/panorama/gesellschaft/kirchenstudie-katholische-priester-leiden-unter-dem-zoelibat-a-1029030.html
+                * [spiegel.de/panorama/gesellschaft/kirchenstudie-katholische-priester-leiden-unter-dem-zoelibat-a-1029030.html](http://www.spiegel.de/panorama/gesellschaft/kirchenstudie-katholische-priester-leiden-unter-dem-zoelibat-a-1029030.html)
 
 
     - Right Wing
@@ -4958,13 +4958,13 @@ Groteske Aufklärung
 
         What Was the Enlightenment? PragerU
 
-                * http://www.heritage.org/constitution#!/articles/4
+                * [heritage.org/constitution#!/articles/4](http://www.heritage.org/constitution#!/articles/4)
 
-                * http://www.heritage.org/welfare/report/the-unfinished-work-welfare-reform
+                * [heritage.org/welfare/report/the-unfinished-work-welfare-reform](http://www.heritage.org/welfare/report/the-unfinished-work-welfare-reform)
 
-                * https://www.letemps.ch/monde/2017/02/01/un-nouveau-juge-conservateur-cour-supreme
+                * [letemps.ch/monde/2017/02/01/un-nouveau-juge-conservateur-cour-supreme](https://www.letemps.ch/monde/2017/02/01/un-nouveau-juge-conservateur-cour-supreme)
 
-                * https://www.theatlantic.com/politics/archive/2017/04/when-conservatives-oppose-religious-freedom/522567/
+                * [theatlantic.com/politics/archive/2017/04/when-conservatives-oppose-religious-freedom/522567/](https://www.theatlantic.com/politics/archive/2017/04/when-conservatives-oppose-religious-freedom/522567/)
 
 
         * [Jordan Peterson Fans Are Mad At Us - YouTube](https://www.youtube.com/watch?v=C4GXddklWEc&list=PLCgW8bgP5lDGDpX5Z1dfQiMbzv5vDjJr3&index=3&t=0s)
@@ -4990,11 +4990,11 @@ Groteske Aufklärung
 
         * [Who are liberals' favorite conservatives (in a non-ironic sense)? - Quora](https://www.quora.com/Who-are-liberals-favorite-conservatives-in-a-non-ironic-sense)
 
-                * http://www.libertylawsite.org/liberty-forum/twenty-years-after-welfare-reform-the-welfare-system-remains-in-place/
+                * [libertylawsite.org/liberty-forum/twenty-years-after-welfare-reform-the-welfare-system-remains-in-place/](http://www.libertylawsite.org/liberty-forum/twenty-years-after-welfare-reform-the-welfare-system-remains-in-place/)
 
-                * http://www.motherjones.com/politics/2012/03/chris-mooney-republican-brain-science-denial
+                * [motherjones.com/politics/2012/03/chris-mooney-republican-brain-science-denial](http://www.motherjones.com/politics/2012/03/chris-mooney-republican-brain-science-denial)
 
-                * https://thedarwinreport.wordpress.com/2010/04/08/the-civil-war-the-states-rights-nonsense/
+                * [thedarwinreport.wordpress.com/2010/04/08/the-civil-war-the-states-rights-nonsense/](https://thedarwinreport.wordpress.com/2010/04/08/the-civil-war-the-states-rights-nonsense/)
 
 
         * [Insisting on the truth in times of chaos — Jordan Peterson](https://medium.com/perspectiva-institute/the-man-for-the-times-of-chaos-jordan-peterson-2df43c24672f)
@@ -5051,7 +5051,7 @@ Groteske Aufklärung
         * [Wer sind die Vordenker der 'Neuen Rechten'?](https://www.fluter.de/wer-sind-die-neue-rechte)
 
 
-        * [What the last Nuremberg prosecutor alive wants the world to know - CBS News](http://www.cbsnews.com/news/what-the-last-nuremberg-prosecutor-alive-wants-the-world-to-know/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)
+        * [What the last Nuremberg prosecutor alive wants the world to know - CBS News](http://www.cbsnews.com/news/what-the-last-nuremberg-prosecutor-alive-wants-the-world-to-know/)
 
 
         * [Why I’m Leaving The Republican Party And Why They Should Care | HuffPost](http://www.huffingtonpost.com/entry/why-im-leaving-the-republican-partyand-why-the-party_us_57ab554ae4b024b403af8b38)
@@ -5065,39 +5065,39 @@ Groteske Aufklärung
 
         * [Скрытые издержки диктаторства](https://vk.com/away.php?to=https%3A%2F%2Fpostnauka.ru%2Fvideo%2F63766)
 
-                * http://www.independent.co.uk/news/world/americas/us-politics/donald-trump-russia-erik-prince-meeting-probe-calls-jan-schakowsky-a7670031.html
+                * [independent.co.uk/news/world/americas/us-politics/donald-trump-russia-erik-prince-meeting-probe-calls-jan-schakowsky-a7670031.html](http://www.independent.co.uk/news/world/americas/us-politics/donald-trump-russia-erik-prince-meeting-probe-calls-jan-schakowsky-a7670031.html)
 
-                * https://medium.com/voluble/on-becoming-anti-bernie-ee87943ae699#.jcd0xj6ju
+                * [medium.com/voluble/on-becoming-anti-bernie-ee87943ae699#.jcd0xj6ju](https://medium.com/voluble/on-becoming-anti-bernie-ee87943ae699#.jcd0xj6ju)
 
-                * https://spectator.org/55875_five-reasons-reform-welfareagain/
+                * [spectator.org/55875_five-reasons-reform-welfareagain/](https://spectator.org/55875_five-reasons-reform-welfareagain/)
 
-                * https://welfaretruth.wordpress.com/
+                * [welfaretruth.wordpress.com/](https://welfaretruth.wordpress.com/)
 
-                * https://www.theobjectivestandard.com/issues/2009-fall/rise-of-american-big-government/
+                * [theobjectivestandard.com/issues/2009-fall/rise-of-american-big-government/](https://www.theobjectivestandard.com/issues/2009-fall/rise-of-american-big-government/)
 
-                * http://www.tomveatch.com/dictatorships.html
+                * [tomveatch.com/dictatorships.html](http://www.tomveatch.com/dictatorships.html)
 
-                * https://books.google.com/books?id=a8cuBAAAQBAJ&pg=PA60&lpg=PA60&dq=blind+faith+in+the+constitution&source=bl&ots=raPYotnU46&sig=ZVS14zl64-oBaifqrBapQvatadM&hl=es&sa=X&ved=0ahUKEwi1geDlgaDTAhVpjFQKHZPcBREQ6AEISTAI#v=onepage&q=blind%20faith%20in%20the%20constitution&f=false
+                * [books.google.com/books?id=a8cuBAAAQBAJ&pg=PA60&lpg=PA60&dq=blind+faith+in+the+constitution&source=bl&ots=raPYotnU46&sig=ZVS14zl64-oBaifqrBapQvatadM&hl=es&sa=X&ved=0ahUKEwi1geDlgaDTAhVpjFQKHZPcBREQ6AEISTAI#v=onepage&q=blind%20faith%20in%20the%20constitution&f=false](https://books.google.com/books?id=a8cuBAAAQBAJ&pg=PA60&lpg=PA60&dq=blind+faith+in+the+constitution&source=bl&ots=raPYotnU46&sig=ZVS14zl64-oBaifqrBapQvatadM&hl=es&sa=X&ved=0ahUKEwi1geDlgaDTAhVpjFQKHZPcBREQ6AEISTAI#v=onepage&q=blind%20faith%20in%20the%20constitution&f=false)
 
-                * https://fee.org/articles/sanctifying-the-individual
+                * [fee.org/articles/sanctifying-the-individual](https://fee.org/articles/sanctifying-the-individual)
 
-                * https://fee.org/articles/the-open-endedness-of-knowledge/
-
-
-        * [https://medium.com/@robinalperstein/on-becoming-anti-bernie-ee87943ae699#.jcd0xj6ju](http://www.allyoucanread.com/russian-newspapers/)
-
-                * https://medium.com/@SeanBlanda/the-other-side-is-not-dumb-2670c1294063#.ilw8053sd
-
-                * http://evansayet.com/
-
-                * http://townhall.com/columnists/thomassowell/
-
-                * http://www.thepublicdiscourse.com/2015/04/14899/
-
-                * http://www.wnd.com/2013/05/youth-rioting-in-sweden-its-the-muslims-stupid/
+                * [fee.org/articles/the-open-endedness-of-knowledge/](https://fee.org/articles/the-open-endedness-of-knowledge/)
 
 
-        * [Scathing review of communism and socialism and outline of the prevalent &ldquo;evolutionary&rdquo; model: http://fee.org/articles/world-in-the-grip-of-an-idea-3-evolutionary-socialism/](http://fee.org/articles/world-in-the-grip-of-an-idea-3-evolutionary-socialism/)
+        * [medium.com/@robinalperstein/on-becoming-anti-bernie-ee87943ae699#.jcd0xj6ju](http://www.allyoucanread.com/russian-newspapers/)
+
+                * [medium.com/@SeanBlanda/the-other-side-is-not-dumb-2670c1294063#.ilw8053sd](https://medium.com/@SeanBlanda/the-other-side-is-not-dumb-2670c1294063#.ilw8053sd)
+
+                * [evansayet.com/](http://evansayet.com/)
+
+                * [townhall.com/columnists/thomassowell/](http://townhall.com/columnists/thomassowell/)
+
+                * [thepublicdiscourse.com/2015/04/14899/](http://www.thepublicdiscourse.com/2015/04/14899/)
+
+                * [wnd.com/2013/05/youth-rioting-in-sweden-its-the-muslims-stupid/](http://www.wnd.com/2013/05/youth-rioting-in-sweden-its-the-muslims-stupid/)
+
+
+        * [Scathing review of communism and socialism and outline of the prevalent &ldquo;evolutionary&rdquo; model: [fee.org/articles/world-in-the-grip-of-an-idea-3-evolutionary-socialism/](http://fee.org/articles/world-in-the-grip-of-an-idea-3-evolutionary-socialism/)](http://fee.org/articles/world-in-the-grip-of-an-idea-3-evolutionary-socialism/](http://fee.org/articles/world-in-the-grip-of-an-idea-3-evolutionary-socialism/))
 
 
         * [Sir Roger Scruton: How to Be a Conservative - YouTube](https://www.youtube.com/watch?v=1eD9RDTl6tM)
@@ -5120,11 +5120,11 @@ Groteske Aufklärung
 
         * [Conservative Political Thought: A (Banned) Course](https://heterodoxacademy.org/teaching-banned-course-conservative-political-thought/)
 
-                * http://theldsleft.blogspot.com/2009/09/ezra-taft-benson-end-of-all-political.html?m=1
+                * [theldsleft.blogspot.com/2009/09/ezra-taft-benson-end-of-all-political.html?m=1](http://theldsleft.blogspot.com/2009/09/ezra-taft-benson-end-of-all-political.html?m=1)
 
-                * http://thefederalist.com/2015/07/20/what-many-americans-get-wrong-about-states-rights/
+                * [thefederalist.com/2015/07/20/what-many-americans-get-wrong-about-states-rights/](http://thefederalist.com/2015/07/20/what-many-americans-get-wrong-about-states-rights/)
 
-                * http://www.dailykos.com/story/2017/2/19/1635270/-Prager-University-How-Billionaires-Proselytize-Rightwing-Ignorance-to-Children
+                * [dailykos.com/story/2017/2/19/1635270/-Prager-University-How-Billionaires-Proselytize-Rightwing-Ignorance-to-Children](http://www.dailykos.com/story/2017/2/19/1635270/-Prager-University-How-Billionaires-Proselytize-Rightwing-Ignorance-to-Children)
 
 
         * [#58 - R. de Castelnau et C. Gave : débat sur "Le libéralisme à la française : que faire de l’État ?” - YouTube](https://www.youtube.com/watch?v=XFqI53PrJ9I)
@@ -5165,16 +5165,16 @@ Groteske Aufklärung
 
         * [how prageru lies to you - YouTube](https://www.youtube.com/results?search_query=how+prageru+lies+to+you)
 
-                * https://fivethirtyeight.com/features/dissecting-trumps-most-rabid-online-following/
+                * [fivethirtyeight.com/features/dissecting-trumps-most-rabid-online-following/](https://fivethirtyeight.com/features/dissecting-trumps-most-rabid-online-following/)
 
 
         * [Il totalitarismo che verrà - Maurizio Blondet - YouTube](https://www.youtube.com/watch?v=dmh-xdfFh-Q)
 
-                * https://www.fastcompany.com/90244757/the-inside-story-of-reddits-struggle-to-deal-with-its-most-toxic-pro-trump-users
+                * [fastcompany.com/90244757/the-inside-story-of-reddits-struggle-to-deal-with-its-most-toxic-pro-trump-users](https://www.fastcompany.com/90244757/the-inside-story-of-reddits-struggle-to-deal-with-its-most-toxic-pro-trump-users)
 
-                * http://www.creators.com/conservative/thomas-sowell/the-past-and-future-of-the-refugee-crisis.html
+                * [creators.com/conservative/thomas-sowell/the-past-and-future-of-the-refugee-crisis.html](http://www.creators.com/conservative/thomas-sowell/the-past-and-future-of-the-refugee-crisis.html)
 
-                * https://www.vox.com/culture/2017/11/13/16624688/reddit-bans-incels-the-donald-controversy
+                * [vox.com/culture/2017/11/13/16624688/reddit-bans-incels-the-donald-controversy](https://www.vox.com/culture/2017/11/13/16624688/reddit-bans-incels-the-donald-controversy)
 
 
         Waking Up with Sam Harris #112 — The Intellectual Dark Web (with Eric Weinstein and Ben Shapiro) - YouTube
@@ -5194,39 +5194,39 @@ Groteske Aufklärung
 
         * [The Future of News with Ben Shapiro, Eric Weinstein, and Sara Fischer - CES 2018 - YouTube](https://www.youtube.com/watch?v=HOxmIjiRqTw)
 
-                * http://expresso.sapo.pt/internacional/2016-03-12-Porque-e-Trump-tao-popular-
+                * [expresso.sapo.pt/internacional/2016-03-12-Porque-e-Trump-tao-popular-](http://expresso.sapo.pt/internacional/2016-03-12-Porque-e-Trump-tao-popular-)
 
-                * http://rationalwiki.org/wiki/Main_Page
+                * [rationalwiki.org/wiki/Main_Page](http://rationalwiki.org/wiki/Main_Page)
 
-                * http://rationalwiki.org/wiki/Dennis_Prager
+                * [rationalwiki.org/wiki/Dennis_Prager](http://rationalwiki.org/wiki/Dennis_Prager)
 
-                * http://rationalwiki.org/wiki/Liberty_University
+                * [rationalwiki.org/wiki/Liberty_University](http://rationalwiki.org/wiki/Liberty_University)
 
-                * http://spectator.org/bios/thomas-sowell
+                * [spectator.org/bios/thomas-sowell](http://spectator.org/bios/thomas-sowell)
 
-                * http://thefederalist.com/2015/06/01/7-way-to-roll-back-the-welfare-state/
+                * [thefederalist.com/2015/06/01/7-way-to-roll-back-the-welfare-state/](http://thefederalist.com/2015/06/01/7-way-to-roll-back-the-welfare-state/)
 
-                * https://sutherlandinstitute.org/
+                * [sutherlandinstitute.org/](https://sutherlandinstitute.org/)
 
-                * https://de.wikipedia.org/wiki/Geert_Wilders
+                * [de.wikipedia.org/wiki/Geert_Wilders](https://de.wikipedia.org/wiki/Geert_Wilders)
 
-                * https://rationalwiki.org/wiki/Dennis_Prager
+                * [rationalwiki.org/wiki/Dennis_Prager](https://rationalwiki.org/wiki/Dennis_Prager)
 
-                * https://es.wikipedia.org/wiki/Paleoconservadurismo
+                * [es.wikipedia.org/wiki/Paleoconservadurismo](https://es.wikipedia.org/wiki/Paleoconservadurismo)
 
-                * https://fee.org/articles/12-reasons-to-oppose-the-welfare-state/
+                * [fee.org/articles/12-reasons-to-oppose-the-welfare-state/](https://fee.org/articles/12-reasons-to-oppose-the-welfare-state/)
 
-                * http://vectorpress.blogspot.com/2012/08/the-lies-of-learnlibertyorg.html
+                * [vectorpress.blogspot.com/2012/08/the-lies-of-learnlibertyorg.html](http://vectorpress.blogspot.com/2012/08/the-lies-of-learnlibertyorg.html)
 
-                * http://www.allthatsfab.com/articles/society/mother-blogger-uses-social-media-push-horrific-%E2%80%98white-baby-challenge%E2%80%99
+                * [allthatsfab.com/articles/society/mother-blogger-uses-social-media-push-horrific-%E2%80%98white-baby-challenge%E2%80%99](http://www.allthatsfab.com/articles/society/mother-blogger-uses-social-media-push-horrific-%E2%80%98white-baby-challenge%E2%80%99)
 
-                * http://www.alternet.org/books/what-happened-when-sam-harris-tried-and-failed-embarrass-noam-chomsky
+                * [alternet.org/books/what-happened-when-sam-harris-tried-and-failed-embarrass-noam-chomsky](http://www.alternet.org/books/what-happened-when-sam-harris-tried-and-failed-embarrass-noam-chomsky)
 
-                * http://www.cosmopolitan.com/politics/a9162680/neil-gorsuch-constitutional-originalism-supreme-court/
+                * [cosmopolitan.com/politics/a9162680/neil-gorsuch-constitutional-originalism-supreme-court/](http://www.cosmopolitan.com/politics/a9162680/neil-gorsuch-constitutional-originalism-supreme-court/)
 
 
     - Rusia
-                * https://www.politifact.com/article/2016/jan/04/does-vladimir-putin-kill-journalists/
+                * [politifact.com/article/2016/jan/04/does-vladimir-putin-kill-journalists/](https://www.politifact.com/article/2016/jan/04/does-vladimir-putin-kill-journalists/)
 
 
         * [Les manuels d&#39;histoire dans la Russie d&#39;aujourd&#39;hui: entre les vérités plurielles et le nouveau mensonge nationalNous tenons à remercier chaleureusement nos collègues Konstantin Bolenko, Guennadi Bordiougov, Alexandre Tchoubarian et Alexandre Ouchakov](https://www.eurozine.com/les-manuels-dhistoire-dans-la-russie-daujourdhui-entre-les-verites-plurielles-et-le-nouveau-mensonge-nationalnous-tenons-a-remercier-chaleureusement-nos-collegues-konstantin-bolenko-guennadi-bord/)
@@ -5291,7 +5291,7 @@ Groteske Aufklärung
 
         * [ПОЗНЕР о Российском ИНТЕРНЕТЕ, Медведеве и Путине!](https://www.youtube.com/watch?v=LwCEf406qW8)
 
-                * http://www.the-american-interest.com/2015/08/27/russias-love-affair-with-germany/
+                * [the-american-interest.com/2015/08/27/russias-love-affair-with-germany/](http://www.the-american-interest.com/2015/08/27/russias-love-affair-with-germany/)
 
 
         Ein Bericht über WLADIMIR PUTINde News 23
@@ -5320,21 +5320,21 @@ Groteske Aufklärung
 
         Алиса Вокс и рэпер Птаха уничтожили Навальногоde Алексей Навальный
 
-                * http://econet.ru/articles/61879-kakie-slova-kategoricheski-nelzya-govorit
+                * [econet.ru/articles/61879-kakie-slova-kategoricheski-nelzya-govorit](http://econet.ru/articles/61879-kakie-slova-kategoricheski-nelzya-govorit)
 
-                * http://inosmi.ru/politic/20160505/236420932.html
+                * [inosmi.ru/politic/20160505/236420932.html](http://inosmi.ru/politic/20160505/236420932.html)
 
-                * http://russeurope.hypotheses.org/
+                * [russeurope.hypotheses.org/](http://russeurope.hypotheses.org/)
 
-                * http://nv.ua/ukr/opinion/kiselev/rosija-vtrachaje-krashchih-914412.html
+                * [nv.ua/ukr/opinion/kiselev/rosija-vtrachaje-krashchih-914412.html](http://nv.ua/ukr/opinion/kiselev/rosija-vtrachaje-krashchih-914412.html)
 
 
     - USA
-                * http://www.huffingtonpost.com/2013/10/29/american-exceptionalism_n_4170683.html
+                * [huffingtonpost.com/2013/10/29/american-exceptionalism_n_4170683.html](http://www.huffingtonpost.com/2013/10/29/american-exceptionalism_n_4170683.html)
 
-                * http://www.huffingtonpost.com/2014/05/29/richard-clarke-george-bush-war-crimes_n_5410619.html
+                * [huffingtonpost.com/2014/05/29/richard-clarke-george-bush-war-crimes_n_5410619.html](http://www.huffingtonpost.com/2014/05/29/richard-clarke-george-bush-war-crimes_n_5410619.html)
 
-                * http://www.huffingtonpost.com/dr-samuel-l-stanley-jr/federal-funding-drives-us_b_10336004.html
+                * [huffingtonpost.com/dr-samuel-l-stanley-jr/federal-funding-drives-us_b_10336004.html](http://www.huffingtonpost.com/dr-samuel-l-stanley-jr/federal-funding-drives-us_b_10336004.html)
 
 
         * [La otra CRISIS de deuda de USA - VisualPolitik - YouTube](https://www.youtube.com/watch?v=53WRNKbFJBg)
@@ -5342,7 +5342,7 @@ Groteske Aufklärung
 
         * [Las enseñanzas de la elección en las EEUU PS.org](http://ps.org/)
 
-                * http://www.lemonde.fr/pixels/article/2015/08/17/lawrence-lessig-l-icone-geek-qui-veut-etre-candidat-a-la-presidentielle-americaine_4727991_4408996.html
+                * [lemonde.fr/pixels/article/2015/08/17/lawrence-lessig-l-icone-geek-qui-veut-etre-candidat-a-la-presidentielle-americaine_4727991_4408996.html](http://www.lemonde.fr/pixels/article/2015/08/17/lawrence-lessig-l-icone-geek-qui-veut-etre-candidat-a-la-presidentielle-americaine_4727991_4408996.html)
 
 
         * [Real Time with Bill Maher: New Rule – “Real American” Heroes (HBO) - YouTube](https://www.youtube.com/watch?v=47NWmhalMD8)
@@ -5368,22 +5368,22 @@ Groteske Aufklärung
 
         * [Watching America | Discover What the World Thinks of U.S.](http://watchingamerica.com/WA/)
 
-                * http://www.theatlantic.com/magazine/archive/2006/12/the-100-most-influential-figures-in-american-history/305384/
+                * [theatlantic.com/magazine/archive/2006/12/the-100-most-influential-figures-in-american-history/305384/](http://www.theatlantic.com/magazine/archive/2006/12/the-100-most-influential-figures-in-american-history/305384/)
 
-                * http://www.ozy.com/politics-and-power/this-years-most-crucial-elections/74662?utm_source=FBOrganic&utm_medium=Social
+                * [ozy.com/politics-and-power/this-years-most-crucial-elections/74662](http://www.ozy.com/politics-and-power/this-years-most-crucial-elections/74662)
 
-                * https://www.bloomberg.com/view/articles/2017-03-28/how-utah-keeps-the-american-dream-alive?utm_campaign=pockethits&utm_medium=email&utm_source=pocket
+                * [bloomberg.com/view/articles/2017-03-28/how-utah-keeps-the-american-dream-alive](https://www.bloomberg.com/view/articles/2017-03-28/how-utah-keeps-the-american-dream-alive)
 
-                * https://www.nga.org/cms/home/federal-relations/nga-policy-positions/page-ec-policies/col2-content/main-content-list/principles-for-state-federal-rel.html
+                * [nga.org/cms/home/federal-relations/nga-policy-positions/page-ec-policies/col2-content/main-content-list/principles-for-state-federal-rel.html](https://www.nga.org/cms/home/federal-relations/nga-policy-positions/page-ec-policies/col2-content/main-content-list/principles-for-state-federal-rel.html)
 
-                * https://www.washingtonpost.com/local/why-dc-has-a-uniquely-bad-record-on-helping-the-unemployed-get-jobs/2015/12/12/751d05ae-99d4-11e5-94f0-9eeaff906ef3_story.html?hs_u=isaac.r.riley@gmail.com&utm_campaign=Metropolitan+Policy+Program&utm_source=hs_email&utm_medium=email&utm_content=24697753&_hsenc=p2ANqtz-_tTJBvTFnD5czL7Y_f_C_tmg1Mr6rtrS7rmUL08nx1EwqXcOqBm3_elaiQH--QIBTsk3Q9qSZo3wacDrBdC8jRbY1rGg&_hsmi=24697753
+                * [washingtonpost.com/local/why-dc-has-a-uniquely-bad-record-on-helping-the-unemployed-get-jobs/2015/12/12/751d05ae-99d4-11e5-94f0-9eeaff906ef3_story.html?hs_u=isaac.r.riley@gmail.com](https://www.washingtonpost.com/local/why-dc-has-a-uniquely-bad-record-on-helping-the-unemployed-get-jobs/2015/12/12/751d05ae-99d4-11e5-94f0-9eeaff906ef3_story.html?hs_u=isaac.r.riley@gmail.com)
 
-                * https://www.washingtonpost.com/opinions/in-alabama-federal-intervention-protects-minority-rights/2017/01/07/7286ce48-d217-11e6-a783-cd3fa950f2fd_story.html?utm_term=.c042f4e91834
+                * [washingtonpost.com/opinions/in-alabama-federal-intervention-protects-minority-rights/2017/01/07/7286ce48-d217-11e6-a783-cd3fa950f2fd_story.html](https://www.washingtonpost.com/opinions/in-alabama-federal-intervention-protects-minority-rights/2017/01/07/7286ce48-d217-11e6-a783-cd3fa950f2fd_story.html)
 
 
         * [http://www.zeit.de/gesellschaft/zeitgeschehen/2016-06/pew-studie-usa-donald-trump-hillary-clinton](http://www.contretemps.eu/)
 
-                * https://anoutsidersojourn2.wordpress.com/2016/09/27/americans-blind-faith-in-a-constitution-that-has-never-represented-or-protected-them/
+                * [anoutsidersojourn2.wordpress.com/2016/09/27/americans-blind-faith-in-a-constitution-that-has-never-represented-or-protected-them/](https://anoutsidersojourn2.wordpress.com/2016/09/27/americans-blind-faith-in-a-constitution-that-has-never-represented-or-protected-them/)
 
 
         * [Confessions of an Ex-Republican | Mother Jones](http://www.motherjones.com/politics/2012/09/confessions-political-convert)
@@ -5398,7 +5398,7 @@ Groteske Aufklärung
         * [Ep. 304 - Democrats Cry Impeachment, But Is It All A Setup? | Daily Wire](http://www.dailywire.com/podcasts/16551/ep-304-democrats-cry-impeachment-it-all-setup-ben-shapiro)
 
 
-        * [Ezra Klein: Editor-in-Chief | Sam Harris](https://samharris.org/ezra-klein-editor-chief/?utm_source=Sam+Harris+Newsletter&utm_campaign=fa180b4f8d-EMAIL_CAMPAIGN_2018_03_27&utm_medium=email&utm_term=0_f1c2a2c9db-fa180b4f8d-207946301&mc_cid=fa180b4f8d&mc_eid=56037f2ba3)
+        * [Ezra Klein: Editor-in-Chief | Sam Harris](https://samharris.org/ezra-klein-editor-chief/)
 
 
         * [The real reason American health care is so expensive - YouTube](https://www.youtube.com/watch?v=tNla9nyRMmQ)
@@ -5412,7 +5412,7 @@ Groteske Aufklärung
 
         * [http://nymag.com/intelligencer/2018/12/andrew-sullivan-americas-new-religions.html](http://nymag.com/intelligencer/2018/12/andrew-sullivan-americas-new-religions.html?fbclid=IwAR30R1nL_fsI4cB4hyggW5fejmoiApQ8Dgcc6_V1pyB3rnkRASC4TEjySo4)
 
-                * https://theweeflea.com/2018/09/28/americas-disgrace/
+                * [theweeflea.com/2018/09/28/americas-disgrace/](https://theweeflea.com/2018/09/28/americas-disgrace/)
 
 
         * [IS RACISM OVER YET? - YouTube](https://www.youtube.com/watch?v=h_hx30zOi9I)
@@ -5429,37 +5429,37 @@ Groteske Aufklärung
 
         * [Fantasyland: The History of America's Irrationality | Kurt Andersen - YouTube](https://www.youtube.com/watch?v=Id4WZCG0e7c)
 
-                * http://imprimis.hillsdale.edu/foreign-policy-the-constitution/?utm_source=facebook&utm_medium=ImprimisShare&utm_campaign=Foreign+Policy+and+the+Constitution
+                * [imprimis.hillsdale.edu/foreign-policy-the-constitution/](http://imprimis.hillsdale.edu/foreign-policy-the-constitution/)
 
-                * http://mic.com/articles/104096/there-s-a-suicide-epidemic-in-utah-and-one-neuroscientist-thinks-he-knows-why
+                * [mic.com/articles/104096/there-s-a-suicide-epidemic-in-utah-and-one-neuroscientist-thinks-he-knows-why](http://mic.com/articles/104096/there-s-a-suicide-epidemic-in-utah-and-one-neuroscientist-thinks-he-knows-why)
 
-                * http://wikileaksdecrypted.com/erik-prince-donald-trump-blackwater-nisour-square-massacre/
+                * [wikileaksdecrypted.com/erik-prince-donald-trump-blackwater-nisour-square-massacre/](http://wikileaksdecrypted.com/erik-prince-donald-trump-blackwater-nisour-square-massacre/)
 
-                * http://necessaryandpropergovt.wordpress.com/2012/11/21/americas-political-bilingualism/
+                * [necessaryandpropergovt.wordpress.com/2012/11/21/americas-political-bilingualism/](http://necessaryandpropergovt.wordpress.com/2012/11/21/americas-political-bilingualism/)
 
-                * http://personalliberty.com/heres-why-obama-and-hillary-must-stop-donald-trump-at-all-costs/
+                * [personalliberty.com/heres-why-obama-and-hillary-must-stop-donald-trump-at-all-costs/](http://personalliberty.com/heres-why-obama-and-hillary-must-stop-donald-trump-at-all-costs/)
 
-                * https://es.wikipedia.org/wiki/Anexo:Senadores_de_Estados_Unidos
+                * [es.wikipedia.org/wiki/Anexo:Senadores_de_Estados_Unidos](https://es.wikipedia.org/wiki/Anexo:Senadores_de_Estados_Unidos)
 
-                * http://www.deathandtaxesmag.com/205411/10-vicious-dictators-supported-by-the-u-s-government/
+                * [deathandtaxesmag.com/205411/10-vicious-dictators-supported-by-the-u-s-government/](http://www.deathandtaxesmag.com/205411/10-vicious-dictators-supported-by-the-u-s-government/)
 
-                * http://www.economist.com/news/united-states/21660161-understandable-impulse-self-defence-nevertheless-mistaken-god-good-guys-and-guns?spc=scode&spv=xm&ah=9d7f7ab945510a56fa6d37c30b6f1709
+                * [economist.com/news/united-states/21660161-understandable-impulse-self-defence-nevertheless-mistaken-god-good-guys-and-guns?spc=scode&spv=xm&ah=9d7f7ab945510a56fa6d37c30b6f1709](http://www.economist.com/news/united-states/21660161-understandable-impulse-self-defence-nevertheless-mistaken-god-good-guys-and-guns?spc=scode&spv=xm&ah=9d7f7ab945510a56fa6d37c30b6f1709)
 
 
     - Verificación de hechos
-                * http://www.snopes.com/
+                * [snopes.com/](http://www.snopes.com/)
 
-                * http://www.factcheck.org/
+                * [factcheck.org/](http://www.factcheck.org/)
 
-                * http://www.politifact.com/
+                * [politifact.com/](http://www.politifact.com/)
 
-                * http://factcheckeu.org/de/
+                * [factcheckeu.org/de/](http://factcheckeu.org/de/)
 
-                * https://www.truthorfiction.com/
+                * [truthorfiction.com/](https://www.truthorfiction.com/)
 
-                * https://www.washingtonpost.com/news/fact-checker/
+                * [washingtonpost.com/news/fact-checker/](https://www.washingtonpost.com/news/fact-checker/)
 
-                * http://www.lemonde.fr/les-decodeurs/
+                * [lemonde.fr/les-decodeurs/](http://www.lemonde.fr/les-decodeurs/)
 
 
 
@@ -5669,65 +5669,65 @@ Groteske Aufklärung
 
         * [Francis Wheen: über Karl Marx - Das Kapital](https://youtu.be/nbc8326fAqs)
 
-                * https://www.tagesschau.de/ausland/katar-141.html
+                * [tagesschau.de/ausland/katar-141.html](https://www.tagesschau.de/ausland/katar-141.html)
 
-                * http://www.bbc.com/news/world-us-canada-40166679
+                * [bbc.com/news/world-us-canada-40166679](http://www.bbc.com/news/world-us-canada-40166679)
 
-                * https://www.theguardian.com/commentisfree/2014/apr/30/russia-ukraine-war-kiev-conflict
+                * [theguardian.com/commentisfree/2014/apr/30/russia-ukraine-war-kiev-conflict](https://www.theguardian.com/commentisfree/2014/apr/30/russia-ukraine-war-kiev-conflict)
 
-                * http://anamericanfraud.blogspot.com/
+                * [anamericanfraud.blogspot.com/](http://anamericanfraud.blogspot.com/)
 
 
         * [Why I Left the Left](https://www.youtube.com/watch?v=hiVQ8vrGA_8)
 
-                * http://ru.rationalwiki.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
+                * [ru.rationalwiki.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0](http://ru.rationalwiki.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0)
 
-                * http://takemeback.to/
+                * [takemeback.to/](http://takemeback.to/)
 
-                * https://www.klett-cotta.de/buch/Gesellschaft_/_Politik/Politik_der_Apokalypse/5801
+                * [klett-cotta.de/buch/Gesellschaft_/_Politik/Politik_der_Apokalypse/5801](https://www.klett-cotta.de/buch/Gesellschaft_/_Politik/Politik_der_Apokalypse/5801)
 
-                * http://www.governmentisgood.com/articles.php?aid=9
+                * [governmentisgood.com/articles.php?aid=9](http://www.governmentisgood.com/articles.php?aid=9)
 
-                * https://thedarwinreport.wordpress.com/2010/04/08/the-civil-war-the-states-rights-nonsense/
+                * [thedarwinreport.wordpress.com/2010/04/08/the-civil-war-the-states-rights-nonsense/](https://thedarwinreport.wordpress.com/2010/04/08/the-civil-war-the-states-rights-nonsense/)
 
-                * http://www.heritage.org/constitution#!/articles/4
+                * [heritage.org/constitution#!/articles/4](http://www.heritage.org/constitution#!/articles/4)
 
-                * http://educationpolicy.air.org/blog/forty-years-later-idea-still-seeks-success-students-disabilities
+                * [educationpolicy.air.org/blog/forty-years-later-idea-still-seeks-success-students-disabilities](http://educationpolicy.air.org/blog/forty-years-later-idea-still-seeks-success-students-disabilities)
 
-                * https://en.wikipedia.org/wiki/Individuals_with_Disabilities_Education_Act
+                * [en.wikipedia.org/wiki/Individuals_with_Disabilities_Education_Act](https://en.wikipedia.org/wiki/Individuals_with_Disabilities_Education_Act)
 
-                * http://thefederalist.com/2015/07/20/what-many-americans-get-wrong-about-states-rights/
+                * [thefederalist.com/2015/07/20/what-many-americans-get-wrong-about-states-rights/](http://thefederalist.com/2015/07/20/what-many-americans-get-wrong-about-states-rights/)
 
-                * https://www.nga.org/cms/home/federal-relations/nga-policy-positions/page-ec-policies/col2-content/main-content-list/principles-for-state-federal-rel.html
+                * [nga.org/cms/home/federal-relations/nga-policy-positions/page-ec-policies/col2-content/main-content-list/principles-for-state-federal-rel.html](https://www.nga.org/cms/home/federal-relations/nga-policy-positions/page-ec-policies/col2-content/main-content-list/principles-for-state-federal-rel.html)
 
-                * https://www.washingtonpost.com/opinions/in-alabama-federal-intervention-protects-minority-rights/2017/01/07/7286ce48-d217-11e6-a783-cd3fa950f2fd_story.html?utm_term=.c042f4e91834
+                * [washingtonpost.com/opinions/in-alabama-federal-intervention-protects-minority-rights/2017/01/07/7286ce48-d217-11e6-a783-cd3fa950f2fd_story.html](https://www.washingtonpost.com/opinions/in-alabama-federal-intervention-protects-minority-rights/2017/01/07/7286ce48-d217-11e6-a783-cd3fa950f2fd_story.html)
 
-                * http://www.heritage.org/education/report/reducing-federal-intervention-education-and-moving-toward-student-centered
+                * [heritage.org/education/report/reducing-federal-intervention-education-and-moving-toward-student-centered](http://www.heritage.org/education/report/reducing-federal-intervention-education-and-moving-toward-student-centered)
 
-                * https://www.theobjectivestandard.com/issues/2009-fall/rise-of-american-big-government/
+                * [theobjectivestandard.com/issues/2009-fall/rise-of-american-big-government/](https://www.theobjectivestandard.com/issues/2009-fall/rise-of-american-big-government/)
 
-                * https://masbury.wordpress.com/2009/05/11/name-10-things-the-government-does-well/
+                * [masbury.wordpress.com/2009/05/11/name-10-things-the-government-does-well/](https://masbury.wordpress.com/2009/05/11/name-10-things-the-government-does-well/)
 
-                * http://www.let.rug.nl/usa/outlines/economy-1991/the-role-of-government-in-the-economy/laissez-faire-vs-government-intervention.php
+                * [let.rug.nl/usa/outlines/economy-1991/the-role-of-government-in-the-economy/laissez-faire-vs-government-intervention.php](http://www.let.rug.nl/usa/outlines/economy-1991/the-role-of-government-in-the-economy/laissez-faire-vs-government-intervention.php)
 
-                * https://www.nytimes.com/2015/08/21/upshot/federal-meddling-in-schools-it-happens-less-than-critics-think.html?_r=0
+                * [nytimes.com/2015/08/21/upshot/federal-meddling-in-schools-it-happens-less-than-critics-think.html?_r=0](https://www.nytimes.com/2015/08/21/upshot/federal-meddling-in-schools-it-happens-less-than-critics-think.html?_r=0)
 
-                * https://www.theguardian.com/global-development/poverty-matters/2010/oct/08/douglas-alexander-responsibility-poor-justice
+                * [theguardian.com/global-development/poverty-matters/2010/oct/08/douglas-alexander-responsibility-poor-justice](https://www.theguardian.com/global-development/poverty-matters/2010/oct/08/douglas-alexander-responsibility-poor-justice)
 
-                * http://www.un.org/news/WEB-1521765-E-OCHA-Report-on-Humanitarian-Financing.pdf
+                * [un.org/news/WEB-1521765-E-OCHA-Report-on-Humanitarian-Financing.pdf](http://www.un.org/news/WEB-1521765-E-OCHA-Report-on-Humanitarian-Financing.pdf)
 
-                * http://www.governmentisgood.com/articles.php?aid=7
+                * [governmentisgood.com/articles.php?aid=7](http://www.governmentisgood.com/articles.php?aid=7)
 
 
         Issue with "legalized theft"
 
-                * http://bleedingheartlibertarians.com/2013/12/will-private-charity-be-enough/
+                * [bleedingheartlibertarians.com/2013/12/will-private-charity-be-enough/](http://bleedingheartlibertarians.com/2013/12/will-private-charity-be-enough/)
 
-                * http://www.latimes.com/opinion/op-ed/la-oe-goldberg-dallas-conservative-black-lives-matter-20160711-snap-story.html
+                * [latimes.com/opinion/op-ed/la-oe-goldberg-dallas-conservative-black-lives-matter-20160711-snap-story.html](http://www.latimes.com/opinion/op-ed/la-oe-goldberg-dallas-conservative-black-lives-matter-20160711-snap-story.html)
 
-                * http://www.realclearpolitics.com/articles/2010/01/27/in_defense_of_the_filibuster_100054.html
+                * [realclearpolitics.com/articles/2010/01/27/in_defense_of_the_filibuster_100054.html](http://www.realclearpolitics.com/articles/2010/01/27/in_defense_of_the_filibuster_100054.html)
 
-                * https://www.thenewprogressive.net/ultimate-white-privilege-statistics/
+                * [thenewprogressive.net/ultimate-white-privilege-statistics/](https://www.thenewprogressive.net/ultimate-white-privilege-statistics/)
 
 
         Masha Gessen
@@ -5801,7 +5801,7 @@ Groteske Aufklärung
 
         How will any member of the Christian-Republican complex in America make a case for having made America a better place?
 
-                * http://blog.acton.org/archives/71519-can-private-charity-replace-safety-net.html
+                * [blog.acton.org/archives/71519-can-private-charity-replace-safety-net.html](http://blog.acton.org/archives/71519-can-private-charity-replace-safety-net.html)
 
 
         * [paleoanthropology: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/paleoanthropology)
@@ -5866,12 +5866,12 @@ Groteske Aufklärung
 
         * [In the Dust of This Planet | Eugene Thacker | download](https://b-ok.cc/book/1248901/d56b3e?dsource=recommend)
 
-                * https://m.facebook.com/groups/TheCurrentAffairsAviary/permalink/1892926990856833/?anchor_composer=false
+                * [m.facebook.com/groups/TheCurrentAffairsAviary/permalink/1892926990856833/?anchor_composer=false](https://m.facebook.com/groups/TheCurrentAffairsAviary/permalink/1892926990856833/?anchor_composer=false)
 
 
         * [(32) Virologin Melanie Brinkmann über #NoCovid - Jung & Naiv: Folge 497 - YouTube](https://www.youtube.com/watch?v=aMp35eBaTIA)
 
-                * https://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/PoliticalIdeologies
+                * [tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/PoliticalIdeologies](https://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/PoliticalIdeologies)
 
 
         * [Nationalism vs. globalism: the new political divide | Yuval Noah Harari - YouTube](https://www.youtube.com/watch?v=szt7f5NmE9E)
@@ -5979,7 +5979,7 @@ Groteske Aufklärung
         *[I'm going to post this in the other group, but I think it's equally relevant here. --- I haven't read any of Feyerabend's work, but I am attracted to the notion of his notion of epistemological anarchism (which I would call pluralism), the idea that the advance of science or knowledge doesn't follow a rigid set of rules or methods and that in science, generally "anything goes". As someone who has read and applied Karl Popper's methods of science (like falsificationism for example), I found it somewhat disorienting when I first came upon the idea that maybe the scientific method as I understood it wasn't so universal. I understand Feyerabend's work as a general critique of an intellectual environment that makes science out to be authoritarian: the last word in debates, truly objective, and trending towards what a friend called epistemic violence (denigrating other forms of inquiry, rational or otherwise; the first step towards dominating others). I still think scientific archetypes like Karl Popper's falsificationism are still very useful ways of understanding things, and I wouldn't advocate throwing these methods out (especially because I have no idea what to replace them with). But I get a sense that I shouldn't be so rigid in my application of them. Has anyone else read other philosophers of science? What do you find compelling about them, and how has it informed your approach to science?](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1721052658044268/)*
 
 
-        *[One of the better and more radical takes on "cancel culture" IMO. "For activists, the danger lies in the cheap sugar rush of tokenistic cancellations. Real institutional change is hard; like politics, it is the “[slow boring of hard boards](https://harpers.org/2008/06/weber-on-the-political-vocation/).” Persuading a company to toss someone overboard for PR points risks a victory that is no victory at all. The pitchforks go down, but the corporate culture remains the same. The survivors sigh in relief. The institution goes on." https://www.theatlantic.com/international/archive/2020/07/cancel-culture-and-problem-woke-capitalism/614086/](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1719838614832339/)*
+        *[One of the better and more radical takes on "cancel culture" IMO. "For activists, the danger lies in the cheap sugar rush of tokenistic cancellations. Real institutional change is hard; like politics, it is the “[slow boring of hard boards](https://harpers.org/2008/06/weber-on-the-political-vocation/).” Persuading a company to toss someone overboard for PR points risks a victory that is no victory at all. The pitchforks go down, but the corporate culture remains the same. The survivors sigh in relief. The institution goes on." [theatlantic.com/international/archive/2020/07/cancel-culture-and-problem-woke-capitalism/614086/](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1719838614832339/)*](https://www.theatlantic.com/international/archive/2020/07/cancel-culture-and-problem-woke-capitalism/614086/](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1719838614832339/)*)
 
 
         *[Edit: I had no idea that this post would go this crazy. Please note that you should read the message under this meme as that's what's important. Also I'm not willing to add random people via friend request as I've already had a death threat from some crazy dude. And just to make sure you all know exactly where I stand. #fuckthepolice #fuck45 #blacklivesmatter #indiginouslivesmatter #translivesmatter #acab #Humanrightsarenotpolitics #mentalhealthmatters](https://www.facebook.com/groups/OcasioMemes/permalink/3108376839239716/)*
@@ -6030,13 +6030,13 @@ Groteske Aufklärung
         *[How Southern socialites rewrote Civil War history](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdOkFXPblLpU%26fbclid%3DIwAR0hQyHK-0_khUTQtW6gRUSpllQd0iZqwfv3AAF_gxNGXzFDyJldn0SEC8U&h=AT2xXyCQMb5sHXu7Km1CsKMeCIjmOIuw6_suVmYvcbs8ovHT42smpSJjKKxse1h6jvizKvbPQSE9mx0jyOni0_mtjKWjmlbdnXgcHJRqCDJ1udEUY5_4xecgqCWB-0t0d8xXl6ab5Q)*
 
 
-        *[https://jewishcurrents.org/the-more-things-change/ A good read (the article, not the book)](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1706451782837689/)*
+        *[jewishcurrents.org/the-more-things-change/ A good read (the article, not the book)](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1706451782837689/)*
 
 
         *[tasteless picture but an ancap not realising the point they’re making](https://www.facebook.com/groups/conservativesapproaching/permalink/895552940965663/)*
 
 
-        *[Another favorite, Steven Pinker doesn't know what a scaling effect is. https://www.sciencemag.org/news/2017/12/why-human-society-isn-t-more-or-less-violent-past Basically Pinker asserts that we are becoming more moral and less warlike, because less people are engaged in war and dying in war. What he doesn't consider is that when two groups of ten people are battling, everyone can reasonably engage in combat. When two groups of ten million are battling, it isn't even possible, much less desirable, for all of them to participate directly in the fighting. The mathematicians behind this study found that the phenomena Pinker observed could be entirely explained by this scaling effect.](https://www.facebook.com/groups/976893689409809/permalink/977062242726287/)*
+        *[Another favorite, Steven Pinker doesn't know what a scaling effect is. [sciencemag.org/news/2017/12/why-human-society-isn-t-more-or-less-violent-past](https://www.sciencemag.org/news/2017/12/why-human-society-isn-t-more-or-less-violent-past) Basically Pinker asserts that we are becoming more moral and less warlike, because less people are engaged in war and dying in war. What he doesn't consider is that when two groups of ten people are battling, everyone can reasonably engage in combat. When two groups of ten million are battling, it isn't even possible, much less desirable, for all of them to participate directly in the fighting. The mathematicians behind this study found that the phenomena Pinker observed could be entirely explained by this scaling effect.](https://www.facebook.com/groups/976893689409809/permalink/977062242726287/)*
 
 
         *[The World’s Most Annoying Man | Current Affairs](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.currentaffairs.org%2F2019%2F05%2Fthe-worlds-most-annoying-man%3Ffbclid%3DIwAR1HqpVQaTxMdpWzqcaSCzhgV99lL0ZPA-bve5I8wbPFNdrS3URC8DHnSVM&h=AT2ciOvcom62m_fDgP1Q6jYML3qkiFqxup9sVECfoeY1HhiZLS5TEaJ2m-WfUkwmsSF2oy4ku1_ZcKvKKCYaDfOp2cqddGUkt4D4YQVjHpmtQ0Ok7owB2P6DEsmfr4wzrLvniLgL8Q)*
@@ -6052,7 +6052,7 @@ Groteske Aufklärung
 
     - Reading (2)
 
-        *https://winecellarmedia.com/*
+        *[winecellarmedia.com/*](https://winecellarmedia.com/*)
 
 
         *[Some of the discussions in this group over the last few days got me thinking about what an accurate political chart would actually look like, and I concluded, after doing a lot of objective research and thinking very deeply, that politics is a triangular pyramid made up of tiny cubes. If you have any questions, I am happy to explain. I should also be clear, that polical charts are a science, like physics. Thank you.](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1704821713000696/)*
@@ -6097,7 +6097,7 @@ Groteske Aufklärung
         *[Why Trump Can’t Designate Antifa as a Terrorist Organization](https://l.facebook.com/l.php?u=https%3A%2F%2Fslate.com%2Fnews-and-politics%2F2020%2F06%2Fantifa-terrorist-organization-designation-trump.html%3Ffbclid%3DIwAR2V_bhkNmRi_RZXL-O-gRHtI6X8a6LlDNbhz8phYqj5wq6vrTOpVSoAXbM&h=AT1PGE4vkmgeXrrVpd2ZtOIZrXwQxmhpAGwFnNnuD6KAG2rW3bFLc3vPDWEacy8ccaWw8WhfQS1tKE93IX7dsYGywMDaNt6RIZJBxhbj3nEMkAYKkxvYSZeKTBAZUJ0r_zEnLD01rw)*
 
 
-        *[At the request of several people here is an abridged version of the reading list on the psychology of brainwashing, propaganda and misinformation. Took me a while to scour through all the ebooks on my phone and tablet and I probably missed a few but I can add those later. I'll work on a google doc or something. maybe alphebetize them or something. First Tier Sapolsky, Robert - "Behave" (Should be read before anything else) Pratkanis, Anthony and Eliot Aaronson - “Age of Propaganda” Pratkanis, Anthony - “The Science of Social Influence” Aaronson, Eliot - “The Social Animal” Cialdini, Robert - “Influence: The Psychology of Persuasion” , -“Pre-Suasion” Tavris, Caroll - “Mistakes Were Made But Not By Me” Gilovich, Thomas - “The Wisest One in the Room” -“How We Know What Isn’t So” Branfman, Ori and Ram Branfman - “Sway” Kahneman, Daniel and Thomas Gilovich - “Heuristics and Biases” Hallinan, Joseph - “Why we make mistakes” Ariely, Dan - “Predictably Irrational” Payne, Keith - “Broken Ladder” Southwell, Brain G - “Misinformation and Mass Audiences” Cults and Brainwashing Tier Taylor, Kathleen - “Brainwashing: The Science of Thought Control” Stein, Alexandra - “Terror, Love, and Brainwashing” (these first two should be read first, the rest in whatever order you like) Hassan, Steven - “Freedom of Mind” -“Combatting Cult Mind Control” Ross, Rick - “Cults Inside and Out” (ross also has the useful website https://www.culteducation.com/ ) Lifton, Robert J - “Thought Reform and the Psychology of Totalism” Festinger, Leon - “Conflict, Decision, and Dissonance” Winn, Denise - “The Manipulated Mind” Ways and Means Tier Holiday, Ryan - “Trust Me, I’m Lying” Jamieson, Kathleen Hall - “Echo Chamber” Singer, PW - “Likewar” Thompson, Derek - “Hit Makers” Parameters and Dynamics Tier Forgas, Joseph - “Social Psychology of Morality” (Sydney Symposium Series) Forgas, J and Roy Baumeister - “Social Psychology of Gullibility” (Sydney) Forgas, J and Kipling Williams - “Social Motivation” (Sydney) Williams, Kipling and Joseph Forgas - “The Social Outcast” (Sydney Symposium) Forgas, J - “Social Psychology of Conflict and Aggression” (Sydney Symposium) *Note: The one on gullibility has chapters by Dunning and Kreuger of the Dunning-Kreuger effect I suppose I'll give honorable mention to Jonathan Haidt and "The Righteous Mind" but while some of his research is inspired he works on what I perceived to be a flawed model. He puts entirely too much emphasis on immutable characteristics, and anyone who reads the biology part of Sapolsky's book understands why that is flawed. He reminds me of those people in the 80s and 90s who believed everything about who a person is was contained in the DNA which we know now to be rather silly. The brain is a highly plastic and dynamic and ever-changing thing. Anyway these are the ones I already read (or at least the ones I found on my devices before I gave myself a splitting headache staring at small labels on small screens). I've probably got a few more that I missed. I have a bunch in my queue that I still need to read. I probably should have done this ages ago if I want more people to join me on my little quest for answers. I'm happy to discuss the implications of any or all. I should add I have found a great deal of intersectionality not only between the subjects covered in the various tiers and different branches of psychology but these also have relevance to politics, economics, sociology and various important elements of history. I have found it extremely enlightening.](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1701191853363682/)*
+        *[At the request of several people here is an abridged version of the reading list on the psychology of brainwashing, propaganda and misinformation. Took me a while to scour through all the ebooks on my phone and tablet and I probably missed a few but I can add those later. I'll work on a google doc or something. maybe alphebetize them or something. First Tier Sapolsky, Robert - "Behave" (Should be read before anything else) Pratkanis, Anthony and Eliot Aaronson - “Age of Propaganda” Pratkanis, Anthony - “The Science of Social Influence” Aaronson, Eliot - “The Social Animal” Cialdini, Robert - “Influence: The Psychology of Persuasion” , -“Pre-Suasion” Tavris, Caroll - “Mistakes Were Made But Not By Me” Gilovich, Thomas - “The Wisest One in the Room” -“How We Know What Isn’t So” Branfman, Ori and Ram Branfman - “Sway” Kahneman, Daniel and Thomas Gilovich - “Heuristics and Biases” Hallinan, Joseph - “Why we make mistakes” Ariely, Dan - “Predictably Irrational” Payne, Keith - “Broken Ladder” Southwell, Brain G - “Misinformation and Mass Audiences” Cults and Brainwashing Tier Taylor, Kathleen - “Brainwashing: The Science of Thought Control” Stein, Alexandra - “Terror, Love, and Brainwashing” (these first two should be read first, the rest in whatever order you like) Hassan, Steven - “Freedom of Mind” -“Combatting Cult Mind Control” Ross, Rick - “Cults Inside and Out” (ross also has the useful website [culteducation.com/](https://www.culteducation.com/) ) Lifton, Robert J - “Thought Reform and the Psychology of Totalism” Festinger, Leon - “Conflict, Decision, and Dissonance” Winn, Denise - “The Manipulated Mind” Ways and Means Tier Holiday, Ryan - “Trust Me, I’m Lying” Jamieson, Kathleen Hall - “Echo Chamber” Singer, PW - “Likewar” Thompson, Derek - “Hit Makers” Parameters and Dynamics Tier Forgas, Joseph - “Social Psychology of Morality” (Sydney Symposium Series) Forgas, J and Roy Baumeister - “Social Psychology of Gullibility” (Sydney) Forgas, J and Kipling Williams - “Social Motivation” (Sydney) Williams, Kipling and Joseph Forgas - “The Social Outcast” (Sydney Symposium) Forgas, J - “Social Psychology of Conflict and Aggression” (Sydney Symposium) *Note: The one on gullibility has chapters by Dunning and Kreuger of the Dunning-Kreuger effect I suppose I'll give honorable mention to Jonathan Haidt and "The Righteous Mind" but while some of his research is inspired he works on what I perceived to be a flawed model. He puts entirely too much emphasis on immutable characteristics, and anyone who reads the biology part of Sapolsky's book understands why that is flawed. He reminds me of those people in the 80s and 90s who believed everything about who a person is was contained in the DNA which we know now to be rather silly. The brain is a highly plastic and dynamic and ever-changing thing. Anyway these are the ones I already read (or at least the ones I found on my devices before I gave myself a splitting headache staring at small labels on small screens). I've probably got a few more that I missed. I have a bunch in my queue that I still need to read. I probably should have done this ages ago if I want more people to join me on my little quest for answers. I'm happy to discuss the implications of any or all. I should add I have found a great deal of intersectionality not only between the subjects covered in the various tiers and different branches of psychology but these also have relevance to politics, economics, sociology and various important elements of history. I have found it extremely enlightening.](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1701191853363682/)*
 
 
         *[This post contains suggested readings for people who want to learn more about liberty and anarchy. Please add books to the list by starting a new comment thread for each book. Include title, author and a short enticing description. Before adding please check if the book is already in the list. Don't add book again but feel free to add second level comment on the original book posting.](https://www.facebook.com/groups/533049276904843/permalink/554636508079453/)*
@@ -6124,7 +6124,7 @@ Groteske Aufklärung
         *[Why There Are No Nazi Statues in Germany](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.politico.com%2Fmagazine%2Fstory%2F2017%2F08%2F20%2Fwhy-there-are-no-nazi-statues-in-germany-215510%3Ffbclid%3DIwAR3MhCKEEOi_Al9DP3aj9JarXk4yX58GXgHSJ4Xev3NbzaTLYhO0Qa3r8Sk&h=AT3t46YakbEqLKbMbg5sx1-MNT4XwKPyGZpVl61PHnWEzycfFB6d1nMEsilRxj5rxS7xknsgGZ7zZxeAUFEnP51fNCNySbG7Z-9bgmuHVTggAjG8WXEnI6XXLz62S8lorewGZj4FpQ)*
 
 
-        *[>>Wer also nicht „moralisch indifferent“ sein will, die Wahrheit auf seiner Seite wähnt, der kämpft gegen Rechts, für eine konsequente Klimapolitik, gegen Rassismus, für Seenotrettung, gegen Diskriminierung, für Genderisierung, gegen Nationalismus, kurz für politische Korrektheit. So eilt der neue Journalismus von Front zu Front, getrieben vom Vorsatz, dem Guten und Gerechten zu dienen, zum Sieg zu verhelfen. Kämpfern und Aktivisten aber können und wollen nicht mehr differenzieren, das könnte ja dem Gegner in die Hände spielen. Und so kommt es, dass viele in moralischem Eifer nicht mehr wahrnehmen, was in der Realität abgeht. So hat der Großteil der Berichterstatter den Brexit oder die Wahl von Donald Trump für so gut wie ausgeschlossen erklärt. Die Wähler waren doch ihrer Meinung nach viel zu klug, um Demagogen zu folgen. So konnte nicht sein, was nicht sein darf. Aus dem Gefühl moralischer Überlegenheit entscheiden diese neuen Journalisten darüber, welche Positionen nicht mehr zu Wort kommen dürfen, was toxische Inhalte sind. Vor der Berichterstattung wird gleichsam ein moralischer Filter eingezogen, gut oder böse. So entsteht ein Bekenntnisjournalismus, der Teile der Wirklichkeit ausblendet, widerstrebende Fakten nicht mehr wahrhaben will, vor lauter Betroffenheit Fragen nicht mehr stellt. Das gilt zum Beispiel für die „Mainstreamberichterstattung“ über die Flüchtlingskrise, zumindest so lange, bis die Realität nicht mehr zu verdrängen war. Selbst wohlwollende Beobachter stellten seinerzeit eine auffallende Einförmigkeit in den deutschen Medien fest. Nonkonformismus? Das war einmal.<< https://www.cicero.de/kultur/journalismus-haltung-gesinnung-glaubwuerdigkeit?fbclid=IwAR3rM2O6W8E884ieQAw-7XvUBpMQnkfLCj32DS5zBTGY-n5ZgeQ8GUUog6k Der eine oder andere erinnert sich vielleicht noch an die Zeit als Selbstkritik und Medienkritik mal zum linken Selnstbild gehörten. Heute hat man immer das Gefühl jedes Wort könne "triggern" und zu einem gefühlten Auschluss aus der Gesellschaft führen. Und jeder der etwas differenzierter argumentiert ist dann eben Nazi. Das macht eine offene Diskussion quasi unmöglich.](https://www.facebook.com/groups/1937795676465764/permalink/2677179482527376/)*
+        *[>>Wer also nicht „moralisch indifferent“ sein will, die Wahrheit auf seiner Seite wähnt, der kämpft gegen Rechts, für eine konsequente Klimapolitik, gegen Rassismus, für Seenotrettung, gegen Diskriminierung, für Genderisierung, gegen Nationalismus, kurz für politische Korrektheit. So eilt der neue Journalismus von Front zu Front, getrieben vom Vorsatz, dem Guten und Gerechten zu dienen, zum Sieg zu verhelfen. Kämpfern und Aktivisten aber können und wollen nicht mehr differenzieren, das könnte ja dem Gegner in die Hände spielen. Und so kommt es, dass viele in moralischem Eifer nicht mehr wahrnehmen, was in der Realität abgeht. So hat der Großteil der Berichterstatter den Brexit oder die Wahl von Donald Trump für so gut wie ausgeschlossen erklärt. Die Wähler waren doch ihrer Meinung nach viel zu klug, um Demagogen zu folgen. So konnte nicht sein, was nicht sein darf. Aus dem Gefühl moralischer Überlegenheit entscheiden diese neuen Journalisten darüber, welche Positionen nicht mehr zu Wort kommen dürfen, was toxische Inhalte sind. Vor der Berichterstattung wird gleichsam ein moralischer Filter eingezogen, gut oder böse. So entsteht ein Bekenntnisjournalismus, der Teile der Wirklichkeit ausblendet, widerstrebende Fakten nicht mehr wahrhaben will, vor lauter Betroffenheit Fragen nicht mehr stellt. Das gilt zum Beispiel für die „Mainstreamberichterstattung“ über die Flüchtlingskrise, zumindest so lange, bis die Realität nicht mehr zu verdrängen war. Selbst wohlwollende Beobachter stellten seinerzeit eine auffallende Einförmigkeit in den deutschen Medien fest. Nonkonformismus? Das war einmal.<< [cicero.de/kultur/journalismus-haltung-gesinnung-glaubwuerdigkeit?fbclid=IwAR3rM2O6W8E884ieQAw-7XvUBpMQnkfLCj32DS5zBTGY-n5ZgeQ8GUUog6k](https://www.cicero.de/kultur/journalismus-haltung-gesinnung-glaubwuerdigkeit?fbclid=IwAR3rM2O6W8E884ieQAw-7XvUBpMQnkfLCj32DS5zBTGY-n5ZgeQ8GUUog6k) Der eine oder andere erinnert sich vielleicht noch an die Zeit als Selbstkritik und Medienkritik mal zum linken Selnstbild gehörten. Heute hat man immer das Gefühl jedes Wort könne "triggern" und zu einem gefühlten Auschluss aus der Gesellschaft führen. Und jeder der etwas differenzierter argumentiert ist dann eben Nazi. Das macht eine offene Diskussion quasi unmöglich.](https://www.facebook.com/groups/1937795676465764/permalink/2677179482527376/)*
 
 
         * [Anti-racist reading](https://l.facebook.com/l.php?u=https%3A%2F%2Ftwitter.com%2Fvictoriaalxndr%2Fstatus%2F1266829408268095493%3Ffbclid%3DIwAR3nAc_w1SdVUc2LIUpMp6--7v54AO50vzic31CdRG9OekjmDDmJE_qlgcE&h=AT0lxwLRVvp_Q_TOciq9qLq4xWUyEbaJE6p3beQqtA7ypaJQVTdqh6OvDtj7VFtp7zf8ZuyTe5C6z4lqTB4ykzWCWgb8owq9GePK8THPUKYljqpq6mY6Ncy6YoKVmHIdjIFalVuG9w)
@@ -6139,7 +6139,7 @@ Groteske Aufklärung
         *[Silvia Federici’s Re-Enchanting the World is a collection of essays with basically two themes. In the earlier essays on what she calls the new enclosures, Federici looks at third world debt crises as attacks on pre-existing communal arrangements. In the second section, on the commons, she links feminist and women’s organizing, particularly in the global South, with the creation of new commons within capitalist society. Federici’s viewpoint is very strongly heterodox within Marxism, and in one essay about three-quarters through the book she really sits down and wrestles with this. In it she signposts what she sees as Marxism’s strengths and Marx’s blind spots (particularly on social reproduction and the role of capitalism). It’s challenging, and I think frustrating for orthodox Marxists. But she makes a place for her politics, which draw from autonomism, within a broader spectrum. Broadly speaking, Federici’s notion of the commons is something that fits within a dual-power type of framework, although she doesn’t use the term. There are ideas about ecology that she continuously touches upon but doesn’t delve too deep into; this is one of those areas where another book is merited. I think this book is worth reading, although it is a direct challenge to Marxist orthodoxy. Given that I’m more drawn to this sort of heterodoxy these days, I think it’s worth challenging those ideas.](https://www.facebook.com/groups/knowledgebreaksthechains/permalink/658479474739842/)*
 
 
-        *[Curious what the aviary thinks of Taibbi's new piece on "White Fragility", as well as Greenwald's reaction: https://taibbi.substack.com/p/on-white-fragility](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1696892870460247/)*
+        *[Curious what the aviary thinks of Taibbi's new piece on "White Fragility", as well as Greenwald's reaction: [taibbi.substack.com/p/on-white-fragility](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1696892870460247/)*](https://taibbi.substack.com/p/on-white-fragility](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1696892870460247/)*)
 
 
         *[Nothing to Apologize For](https://l.facebook.com/l.php?u=https%3A%2F%2Fthedriftmag.com%2Fnothing-to-apologize-for%25E2%2580%258B%2F%3Ffbclid%3DIwAR0pOII94_PRPdaBFJlESZLvrWN2l27K2csNDxOHBQ7gGUcyB2vbq0jgEVY&h=AT3G8-cGT-FdtI9MGqCkqtjo0HdkX7UdRwZVlRaKvxDknQLBeCVvEvhyovJo9FfivdlQ3X6Xtssny3zfVE-53xenK-WAy3iWpqmyWt5vJRV7-lXQyrEBOEu7QuLbkILTS2QGs8cEWg)*
@@ -6184,7 +6184,7 @@ Groteske Aufklärung
         *[A [very rough] moral theory of everything](https://l.facebook.com/l.php?u=https%3A%2F%2Fquevivasbien.wordpress.com%2F2020%2F06%2F22%2Fa-very-rough-moral-theory-of-everything%2F%3Ffbclid%3DIwAR1gtFgcJ2PICx8ze4AB4oH1F9mhDe0RHaFEJyovZHGN5rhDuBtTEEVcbGw&h=AT3fAk2nVbUqNQhYjP41V2u8df-Cc0V_pDMZ4wL6X45O9CW9FzjN_86d6GAXKOR1d9eH4k-Eru1W_wVhk0TsSOtPkSA0KFliIiUby01R4-7fiHciYPuEBoDZD0f5Yp82wWQpfNJJ7Q)*
 
 
-        *[Maybe niche but I'm proud to be involved in a small capacity: https://www.nature.com/articles/d41586-020-01874-9 I feel like I remember running across some maths/stats types in here; if so, signatures of such folk can still be added: http://www.math-boycotts-police.net/ I'd also like to urge other academic workers to organise similar efforts in their own disciplines. I'm addressing academic types in particular because one function of academia is traditionally to participate in little devil's bargains that involve lending gravitas to oppressive shit (in the case of mathematicians and police, it's "predictive policing", among other things). It's a good idea to do what one can to try to render those sorts of devil's bargains socially unacceptable.](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1691696640979870/)*
+        *[Maybe niche but I'm proud to be involved in a small capacity: [nature.com/articles/d41586-020-01874-9](https://www.nature.com/articles/d41586-020-01874-9) I feel like I remember running across some maths/stats types in here; if so, signatures of such folk can still be added: [math-boycotts-police.net/](http://www.math-boycotts-police.net/) I'd also like to urge other academic workers to organise similar efforts in their own disciplines. I'm addressing academic types in particular because one function of academia is traditionally to participate in little devil's bargains that involve lending gravitas to oppressive shit (in the case of mathematicians and police, it's "predictive policing", among other things). It's a good idea to do what one can to try to render those sorts of devil's bargains socially unacceptable.](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1691696640979870/)*
 
 
         *[Response to Zero Books: Nathan Robinson, Woke Scolds, and the Limits of Anarchism](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpKQWXSfz7dk%26fbclid%3DIwAR2PnxUk47J4X3CRu74Znja5bBZs0502deLtWggbcJ7TkzLk4GUd3ViGob4&h=AT2Uy-mcWQ3e1CJ-ZIn-XFCpZ8w92MGLI1PBiLrDJQfQVTEeSJT7o7sCdqpY3XTTOXc0AjrzZsm8aw5U05NhqojLibZN0Ab-qiV-16u6KYTSOghZSXKCqBSRyqbPhuO2P3TQdAY9sg)*
@@ -6193,10 +6193,10 @@ Groteske Aufklärung
         *[Ep. 37 Re-Up: Bhaskar Sunkara, Debating the Socialist Manifesto | The Realignment](https://l.facebook.com/l.php?u=https%3A%2F%2Fthe-realignment.simplecast.com%2Fepisodes%2Fep-37-re-up-bhaskar-sunkara-debating-the-socialist-manifesto-7fBwU1Y8%3Ffbclid%3DIwAR2zPjiPcofpAHQwVpZqq1fxxheND1XaLoSgA8jXUzqrKX6It-sgXn0BZOY&h=AT3vvq4vjG9blV4MSNN9Dd5Gm5pYvP-axjGi04xTDq3aXWz7Qn_p4LzVcvKTrZ7ASr-WCPyCirqk8in8_h7rNGtVByhJbyUxOXnzr4Zct7GYHQz5OE76T6FUs0uRppsSdUu-quBs6g)*
 
 
-        *[There are ways in which the left leans into its "leftiness" (guillotines, comrade, etc) that I'm not sure will ever really resonate with an audience large enough to force real change. My view is that the corporatists are the actual radicals, & what the Dem Soc crowd is fighting for is just... pretty normal stuff. https://www.esplainyourself.com/articles/the-truth-about-the-political-center Tried to work this out in an essay. Welcome any thoughts.](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1691246017691599/)*
+        *[There are ways in which the left leans into its "leftiness" (guillotines, comrade, etc) that I'm not sure will ever really resonate with an audience large enough to force real change. My view is that the corporatists are the actual radicals, & what the Dem Soc crowd is fighting for is just... pretty normal stuff. [esplainyourself.com/articles/the-truth-about-the-political-center](https://www.esplainyourself.com/articles/the-truth-about-the-political-center) Tried to work this out in an essay. Welcome any thoughts.](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1691246017691599/)*
 
 
-        *[I think what finally led me to realize that the US on net seems to have a justice problem towards our black friends and neighbors was comparing the case of Nathaniel Woods to the case of George Floyd. Nathaniel Woods, a black man, was executed in March as an accomplice for the murder of several police officers, even though he didn’t fire a single shot. His friend who did kill the officers said Woods is completely innocent, and the whole situation looks like he was just in the wrong place at the wrong time. In any case, given that was a possibility, he shouldn’t have received the death sentence. See more at https://abcnews.go.com/US/hours-execution-nathaniel-woods-alabama-governor-stays-mum/story?id=69409098 Fast forward to May and a video comes out of a police officer murdering George Floyd in cold blood, with his knee on his neck for 9 minutes, while his accomplices stood around and even assisted. My first reaction was that I hope they get justice, but I doubt even the murderer — much less his accomplices — would get the death penalty. Sure enough, it looks like they won’t and one of the accomplices even got freed after posting bail. If they practically got away with this despite the media frenzy they caused, imagine if no video had been posted. Now compare how a cop who was obviously an accomplice to the murder of a black man can simply post bail and walk free, while a black man was given the death penalty for being an accomplice to the murder of cops even though he was potentially innocent even to that accusation. This disparity of justice that transcended state boundaries woke me up to the fact that even though blue lives matter a lot, the justice system has their backs — and unfortunately, the same cannot always be expected in general for black lives. If you think otherwise, now is a good time for you to do some research and potentially wake up like I did. Edit: as pointed out in the comments, the George Floyd trials are still ongoing, and the officers (I hadn’t realized, but two of them have posted bail) who posted bail may still face severe punishment of some sort. So we’ll see what happens to him in the end. In any case, I still expect these officers to be treated more fairly than Woods — if not even to the point of leniency.](https://www.facebook.com/permalink.php?story_fbid=10214403633324604&id=1831421347)*
+        *[I think what finally led me to realize that the US on net seems to have a justice problem towards our black friends and neighbors was comparing the case of Nathaniel Woods to the case of George Floyd. Nathaniel Woods, a black man, was executed in March as an accomplice for the murder of several police officers, even though he didn’t fire a single shot. His friend who did kill the officers said Woods is completely innocent, and the whole situation looks like he was just in the wrong place at the wrong time. In any case, given that was a possibility, he shouldn’t have received the death sentence. See more at [abcnews.go.com/US/hours-execution-nathaniel-woods-alabama-governor-stays-mum/story?id=69409098](https://abcnews.go.com/US/hours-execution-nathaniel-woods-alabama-governor-stays-mum/story?id=69409098) Fast forward to May and a video comes out of a police officer murdering George Floyd in cold blood, with his knee on his neck for 9 minutes, while his accomplices stood around and even assisted. My first reaction was that I hope they get justice, but I doubt even the murderer — much less his accomplices — would get the death penalty. Sure enough, it looks like they won’t and one of the accomplices even got freed after posting bail. If they practically got away with this despite the media frenzy they caused, imagine if no video had been posted. Now compare how a cop who was obviously an accomplice to the murder of a black man can simply post bail and walk free, while a black man was given the death penalty for being an accomplice to the murder of cops even though he was potentially innocent even to that accusation. This disparity of justice that transcended state boundaries woke me up to the fact that even though blue lives matter a lot, the justice system has their backs — and unfortunately, the same cannot always be expected in general for black lives. If you think otherwise, now is a good time for you to do some research and potentially wake up like I did. Edit: as pointed out in the comments, the George Floyd trials are still ongoing, and the officers (I hadn’t realized, but two of them have posted bail) who posted bail may still face severe punishment of some sort. So we’ll see what happens to him in the end. In any case, I still expect these officers to be treated more fairly than Woods — if not even to the point of leniency.](https://www.facebook.com/permalink.php?story_fbid=10214403633324604&id=1831421347)*
 
 
         *[So I didn't know that the "white privilege" concept ALSO came from Noel Ignatiev. Say what you want about his approach, I find his words so incredibly relevant in this moment. This small retrospective from a professor of criminal justice offers a glimpse into his thinking. Ignatiev really was in the thick of it: "Drawing from W.E.B. DuBois’s classic Black Reconstruction in America— a book Noel told me “every American radical ought to have their face rubbed in”—the duo formulated the concept of “white-skin privilege” to indicate the perks offered to white workers by the US ruling class, in exchange for which the former foreswear all meaningful solidarity with their non-white coworkers, and bind themselves instead in a self-defeating alliance with the white ruling class. The task of the revolutionary, they argued, is to break this alliance.... “Politics,” Noel would often say, “is not arguing with people you disagree with, but finding people you agree with, getting together, and doing things.” Political action is therefore not a matter of convincing people of your point of view, but orchestrating the circumstances under which they can take action together. It’s no coincidence that Noel lived his life in emulation of John Brown, who he claimed was perhaps the only white person to ever completely transcend whiteness... The point of studying whiteness, Noel never tired of pointing out, was to abolish it. Needless to say, an entire academic field reifying “whiteness” drove Noel as nuts as the “privilege checking” industrial complex which owed some of its origins to “The White Blindspot.” Noel fought both opportunistic trends tooth and nail in the pages of Race Traitor"](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1690865427729658/)*
@@ -6286,10 +6286,10 @@ Groteske Aufklärung
         *[Your City is Probably Racist: Redlining](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcZwx9KzMsIg%26fbclid%3DIwAR3mq5p-biLQc1-E5Q-UBoOM-Bt5MFn-OjiY3eNWudeF9Wq8sO0RtbS6ZT4&h=AT2s81ZGzVbfAjubZFuZSdTLna434Tt6RJachfOzj-JgSJl3Wks3x9Z1wStm95OvhdJIrkZePfLxVUJsM7yxImkM6Cwy1jl27KM8SOyEyk4JWUe40sAAOY6fqgM35Qhi0fJUKohylQ)*
 
 
-        *https://www.verywellmind.com/what-is-the-just-world-phenomenon-2795304*
+        *[verywellmind.com/what-is-the-just-world-phenomenon-2795304*](https://www.verywellmind.com/what-is-the-just-world-phenomenon-2795304*)
 
 
-        *[There’s a reason Black Lives Matter and the issue of police brutality are associated with each other. Roughly one thousand Americans are killed by police each year (1). The data is not correlated with areas with violent crime (2). If you adjust by percentage of population, blacks are more than twice as likely to be killed (31 per million) as whites (13 per million). The United States has a systemic problem with police brutality that, when combined with institutionalized racism, creates a perfect storm that results in police violence being a leading cause of death among black men (3). This must change. Write your legislators. Exercise your constitutional right to critcize your leaders and participate in protests! Donate to worthy causes! (1) Washington Post: https://www.washingtonpost.com/graphics/investigations/police-shootings-database/ (2) Mapping Police Violence: https://mappingpoliceviolence.org/ (3) PNAS study: https://www.pnas.org/content/116/34/16793](https://www.facebook.com/tannercn/posts/10157548089412677)*
+        *[There’s a reason Black Lives Matter and the issue of police brutality are associated with each other. Roughly one thousand Americans are killed by police each year (1). The data is not correlated with areas with violent crime (2). If you adjust by percentage of population, blacks are more than twice as likely to be killed (31 per million) as whites (13 per million). The United States has a systemic problem with police brutality that, when combined with institutionalized racism, creates a perfect storm that results in police violence being a leading cause of death among black men (3). This must change. Write your legislators. Exercise your constitutional right to critcize your leaders and participate in protests! Donate to worthy causes! (1) Washington Post: [washingtonpost.com/graphics/investigations/police-shootings-database/](https://www.washingtonpost.com/graphics/investigations/police-shootings-database/) (2) Mapping Police Violence: [mappingpoliceviolence.org/](https://mappingpoliceviolence.org/) (3) PNAS study: [pnas.org/content/116/34/16793](https://www.facebook.com/tannercn/posts/10157548089412677)*](https://www.pnas.org/content/116/34/16793](https://www.facebook.com/tannercn/posts/10157548089412677)*)
 
 
         *[The Racism of Neoliberalism - Evonomics](https://l.facebook.com/l.php?u=https%3A%2F%2Fevonomics.com%2Fracism-neoliberalism-darrick-hamilton%2F%3Ffbclid%3DIwAR2Y1oS0TBxWRfbq_M9dAvhszjubMsa0F6Jmi1Illquz9cseFCQMgI3xcMA&h=AT1Cd9XOX7gjO2GkSERRWnX5jgL2Dlrpc6H0rkbC6M2NMvUw432dW3O9NivXsH5LjAfiVELz4kvqgLrM6PJqoryZVNE5yIL8_-D7lpVNhztXWTdGyK9fOXraM_huWCaq4Y5htf4a3w)*
@@ -6394,10 +6394,10 @@ Groteske Aufklärung
         *[How does one write good political fiction without being preachy or heavy-handed? & what are good examples (/why)?](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1639415822874619/)*
 
 
-        *[https://praxisymarxismocritico.files.wordpress.com/2015/01/rosdolsky-roman-genesis-y-estructura-de-el-capital-de-marx-1.pdf](https://l.facebook.com/l.php?u=https%3A%2F%2Fpraxisymarxismocritico.files.wordpress.com%2F2015%2F01%2Frosdolsky-roman-genesis-y-estructura-de-el-capital-de-marx-1.pdf%3Ffbclid%3DIwAR3SmeYFwU3G-tqCfxSeVHr7djBRlrFKu_JJOU4RL2ffVTiT3ILTH7PS9SI&h=AT2hJHAQYJoFbO25UBA6AVaeSKi4BCQSKt-nfE00LuXsx4CA2f5d_MGMxUI43vw7kMas815uDbMcM6V_nuF8SN8MwD3Rs1B1pEEjA49GHUmjlStovnuTA2_SloJWUh26TK-AxI1tzw)*
+        *[praxisymarxismocritico.files.wordpress.com/2015/01/rosdolsky-roman-genesis-y-estructura-de-el-capital-de-marx-1.pdf](https://l.facebook.com/l.php?u=https%3A%2F%2Fpraxisymarxismocritico.files.wordpress.com%2F2015%2F01%2Frosdolsky-roman-genesis-y-estructura-de-el-capital-de-marx-1.pdf%3Ffbclid%3DIwAR3SmeYFwU3G-tqCfxSeVHr7djBRlrFKu_JJOU4RL2ffVTiT3ILTH7PS9SI&h=AT2hJHAQYJoFbO25UBA6AVaeSKi4BCQSKt-nfE00LuXsx4CA2f5d_MGMxUI43vw7kMas815uDbMcM6V_nuF8SN8MwD3Rs1B1pEEjA49GHUmjlStovnuTA2_SloJWUh26TK-AxI1tzw)*
 
 
-        *[Durante la pandemia de COVID-19, la editorial Springer pone a disposición de los lectores varios libros para descarga gratuita. Os selecciono aquí tres relacionados con la filosofía de la ciencia, pero en la página de Springer hay más. McCain_The Nature of Scientific Knowledge https://link.springer.com/book/10.1007/978-3-319-33405-9 Johansson_Philosophy of Science for Scientists https://link.springer.com/book/10.1007/978-3-319-26551-3 Zack_Philosophy of Race https://link.springer.com/book/10.1007/978-3-319-78729-9](https://www.facebook.com/groups/filosofosdelabiologia/permalink/10163385259785577/)*
+        *[Durante la pandemia de COVID-19, la editorial Springer pone a disposición de los lectores varios libros para descarga gratuita. Os selecciono aquí tres relacionados con la filosofía de la ciencia, pero en la página de Springer hay más. McCain_The Nature of Scientific Knowledge [link.springer.com/book/10.1007/978-3-319-33405-9](https://link.springer.com/book/10.1007/978-3-319-33405-9) Johansson_Philosophy of Science for Scientists [link.springer.com/book/10.1007/978-3-319-26551-3](https://link.springer.com/book/10.1007/978-3-319-26551-3) Zack_Philosophy of Race [link.springer.com/book/10.1007/978-3-319-78729-9](https://www.facebook.com/groups/filosofosdelabiologia/permalink/10163385259785577/)*](https://link.springer.com/book/10.1007/978-3-319-78729-9](https://www.facebook.com/groups/filosofosdelabiologia/permalink/10163385259785577/)*)
 
 
         *[In Defense of Michael Moore's "Planet of the Humans"](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMBcOdyiik5Y%26fbclid%3DIwAR3MhCKEEOi_Al9DP3aj9JarXk4yX58GXgHSJ4Xev3NbzaTLYhO0Qa3r8Sk&h=AT1KxH0hPfDtvuNZ9tE004y8NfVUnBneSoC_XvG2bmyhi0MvX75t-B-DIlm3zJjNK6ghIPxDnJTK0f78bEvG6zyosciGMHvVsTPO0DQhZmhJ5voHfMy6YRwTqhC2zf8nP-A3_u9d1g)*
@@ -6427,7 +6427,7 @@ Groteske Aufklärung
         *[¿Qué es el Capitalismo? (descarga PDF)](https://l.facebook.com/l.php?u=http%3A%2F%2Flinearoja.org%2F2020%2F04%2F18%2Fque-es-el-capitalismo-descarga-pdf%2F%3Ffbclid%3DIwAR0kwYq5ARxiRc-5_aRkJVhQhpNczW-ZNv3iP8flKQ44XDgCJnStqIllY5Q&h=AT2RkvSC890wAw7Mo1l9hVaEjOfv_NxCNBG7p5rAbMMzWTb6a8esLv-4jLKa_KjZ_OEcI5XdQdStc0Y1LZRsz9mUcaq_pFewhOtbh0-3XtLBKwMZO2JnSfrU_R5T1PEPgF9BZ7ttYA)*
 
 
-        *[[Libro pdf] ‘Ciudades rebeldes: Del derecho de la ciudad a la revolución urbana’ David Harvey, 2013 Mucho antes de que se creara el movimiento 15-M u Occupy Wall Street, las ciudades del mundo moderno se habían convertido en focos de la política revolucionaria, en los que emergían a la superficie las corrientes más profundas del cambio social y político. Las ciudades han sido, desde siempre, objeto de reflexión utópica y revolucionaria. Sin embargo, al mismo tiempo, la ciudad ha sido centros de la acumulación capitalista y línea del frente en las luchas por el control del acceso a los recursos urbanos así como de la calidad y organización de la vida cotidiana. ¿A quién corresponde ese control de la urbe, a los financieros y promotores inmobiliarios, o al pueblo? Ciudades rebeldes sitúa la ciudad en el centro de la lucha de clases y en torno al capital, desde Johannesburgo hasta Bombay y desde Nueva York hasta São Paulo. Dirigiendo su atención tanto a la Comuna de París como al movimiento Occupy Wall Street y los disturbios en Londres, Harvey se pregunta cómo se pueden reorganizar las ciudades de una forma socialmente más justa y ecológicamente más sana, y cómo se pueden convertir en el centro de la resistencia anticapitalista. *Link para descarga: http://www.cronicon.net/paginas/Documentos/CIUDADES_REBELDES.pdf](https://www.facebook.com/arquitecturasimaginadas/posts/769451666597997)*
+        *[[Libro pdf] ‘Ciudades rebeldes: Del derecho de la ciudad a la revolución urbana’ David Harvey, 2013 Mucho antes de que se creara el movimiento 15-M u Occupy Wall Street, las ciudades del mundo moderno se habían convertido en focos de la política revolucionaria, en los que emergían a la superficie las corrientes más profundas del cambio social y político. Las ciudades han sido, desde siempre, objeto de reflexión utópica y revolucionaria. Sin embargo, al mismo tiempo, la ciudad ha sido centros de la acumulación capitalista y línea del frente en las luchas por el control del acceso a los recursos urbanos así como de la calidad y organización de la vida cotidiana. ¿A quién corresponde ese control de la urbe, a los financieros y promotores inmobiliarios, o al pueblo? Ciudades rebeldes sitúa la ciudad en el centro de la lucha de clases y en torno al capital, desde Johannesburgo hasta Bombay y desde Nueva York hasta São Paulo. Dirigiendo su atención tanto a la Comuna de París como al movimiento Occupy Wall Street y los disturbios en Londres, Harvey se pregunta cómo se pueden reorganizar las ciudades de una forma socialmente más justa y ecológicamente más sana, y cómo se pueden convertir en el centro de la resistencia anticapitalista. *Link para descarga: [cronicon.net/paginas/Documentos/CIUDADES_REBELDES.pdf](https://www.facebook.com/arquitecturasimaginadas/posts/769451666597997)*](http://www.cronicon.net/paginas/Documentos/CIUDADES_REBELDES.pdf](https://www.facebook.com/arquitecturasimaginadas/posts/769451666597997)*)
 
 
         *[Here's an interesting set of questions I've been thinking about lately: -How do religion and atheism interact with leftist politics, especially in our own cultural context? -To what extent can leftist politics play the role of religion? To what extent can that be a dangerous thing? -Why are so many hardcore atheists (I think you know who I mean) often drawn to right-wing politics? - How deeply is leftist thought (especially, but not only, Marxism) influenced by Christian modes of thinking? -For those of us who find ourselves skeptical or even critical of traditional organized religion, how can we replicate its benefits without recreating its harmful aspects? I realize this is a pretty broad topic, but I think it's worth having a conversation about. I'd welcome anyone else's thoughts or reading suggestions.](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1628684073947794/)*
@@ -6451,13 +6451,13 @@ Groteske Aufklärung
         *[Racism is a difficult and a charged topic, particularly in recent times. Most of us (including myself in the past) would define racism along the lines of “overt prejudice and discrimination against members of a different race” and would consider it a characteristic of bad apples in our country (i.e. someone is racist or is not racist). This is an incomplete, unhelpful, and even a damaging conception of racism, though this certainly falls under the umbrella of racism. A definition that is much more helpful and can help us make progress is something like “any support, through action or inaction, of policies, systems, actions, and/or beliefs that promote inequity on the basis of race” (this is paraphrased from a few different sources, not my own original definition). This is something that most, if not all of us, participate in to some degree on a regular basis. It is something that we need to actively combat. It is not a characteristic of a person, but of their actions. Almost all of us will have moments where we are acting racist and need to try to do better. I sincerely think that virtually all of us believe that all people are equally valuable and deserve equal opportunities and chances. Additionally, I believe that virtually all of us want to combat racism. If you disagree with my definition of racism and my assertion that we all struggle with different degrees of racism, hear me out first. I have spent years working to be able to understand empirical relationships and to critically evaluate research. I am by no means an expert on racial discrimination, but I have spent a reasonable amount of time studying some of the best available research, looking at the data, and talking to top scholars in the area. It is empirically true that in the United States, people of color make less money per hour; have 10x less assets on average; are less likely to be diagnosed with ADHD in school and treated for it, despite evidence that it occurs at similar rates; are more likely to be subject to disciplinary action in elementary and secondary school; are more likely to suffer at every level of the justice system (i.e. suffer more police violence, higher rates of arrest, higher conviction rates, harsher sentences, etc.) even once you take into account criminal history, socioeconomic status, severity of the crime, and many other relevant factors; have lower life expectancy; are less likely to get a callbacks for job interviews after applying; are less likely to get bank loans; get worse health insurance coverage, healthcare, and healthcare benefits; are more likely to be disenfranchised for various reasons; etc. The list goes on and on. If you disagree with me on these facts on the basis anecdotes or quotes from individual situations or people, because you think I am part of a conspiracy, or because you think I am bad at my job (my entire career is built on being able to understand/contribute to these kind of discussions on the basis of research), we are not likely to have a productive discussion about them. I am still happy to discuss, it is just unlikely to be helpful for anyone. If you think there is stronger evidence against these facts, I would love to hear and talk about it. By no means do I perfectly know or understand all of the best available research in every field. Please bring it up! However, if you are willing to accept that some or all of these disparities exist, then ask yourself: why do they exist? If you think that these are due to qualities of any particular race, then that is a racist thought. The thoughts that people are equally capable and valuable, despite the color of their skin, and that the racial disparities in our society are due to racial characteristics cannot simultaneously exist without significant cognitive dissonance. If you think it is due to past policies and discrimination that no longer exist, then I hope you are combating the resulting racist systems and inequities. Inaction here also constitutes racism by acquiescing to these disparities. Otherwise you recognize the current and past racism in our country, and I hope you are actively fighting it. This can take many forms. Vote for antiracist policies and politicians. Combat racist policies, attitudes, and ideas in your workplace and social interactions. Recognize and validate the experiences of people of color. Accept correction meekly and try to root out racist thoughts and actions from yourself. Fight microaggressions in daily life. There are myriad other ways to be antiracist. I am working to do and be better, but certainly have a long way to go. I hope that we can all work together to fight against inequality. One addendum: acknowledging racism exists in the US does not invalidate other types of discrimination and disadvantage. Most people suffer from some type of inequality or discrimination (e.g. by gender, socioeconomic status, religion, sexual orientation, age, etc.). These are difficult and important to consider. To those of you who are discriminated against along one of these dimensions, I am truly sorry. I am trying to champion for equality here as well. Hopefully we can recognize all types of discrimination and band together. I focused on racial discrimination here because it is one of the more egregious forms of discrimination today and many people in my sphere of influence have been talking about it as if it either does not exist or is not a big problem.](https://www.facebook.com/tanner.eastmond/posts/10216949379077714)*
 
 
-        *https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/the-just-world-theory/?fbclid=IwAR1sx1PNgx-iFFMjTNtJH7j0bs5bBkXTOwGk_3nDtAd5gBdooCkt-4zgXLk*
+        *[scu.edu/ethics/ethics-resources/ethical-decision-making/the-just-world-theory/?fbclid=IwAR1sx1PNgx-iFFMjTNtJH7j0bs5bBkXTOwGk_3nDtAd5gBdooCkt-4zgXLk*](https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/the-just-world-theory/?fbclid=IwAR1sx1PNgx-iFFMjTNtJH7j0bs5bBkXTOwGk_3nDtAd5gBdooCkt-4zgXLk*)
 
 
         *[A comment on another post about human nature got me wanting to dig up an essay I read a few years ago. I like to think that we'll never completely know what an ideal society (or our "nature") even looks like, since we're organic creatures with limited understandings on our little corner of the globe. I don't think that should stop us from trying, though. While we might not be able to imagine a perfect + ideal society (and of a human nature to match), I'm of the mind that we can always imagine a better one based on our struggles we're facing right now. Our nature is as broad as we want it to be (within certain narrow limits, much narrower than conservatives make it out to be), and our understanding of this nature changes with time, scientific understanding and technological progress (and regress). It's not set in stone. The essay by Lucas Rieppel, assistant professor of history at Brown, is long but I think it gets to the heart of our concept of nature, how it has constantly shifted according to our attempt to control different parts of the environment, and how defining it is necessarily political. He dives into how the idea of our "nature" shifted in the era of Hobbes, then Locke, and even through storytellers like Shakespeare and Mary Shelley. Peeking through the lens of intellectual property, art, paleontology, and capitalism, he concludes that "it would be better to develop an understanding of our place in the world built on humility; one that is premised on the desire to reconcile ourselves with the limits of our power as a starting point for thinking through potential solutions to global climate change", instead of thinking of humanity as an unstoppable global force in the age of the Anthropocene. If the concept of our nature has shifted before, it shouldn't be impossible to shift it again. --- What do you think? Do you agree, or disagree? What would an effort to change our conception of "human nature" even look like? Is it purely in the research laboratory, or in literary fiction, or movies, political magazines? What parts of our human nature would you like to see emphasized in this world?](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1734952529987614/)*
 
 
-        *[Allahu Akbar für die negative Dialektik Über die weltanschauliche Verwahrlosung des antizionistischen Denkens am Beispiel der „Kritischen Theorie“ Moshe Zuckermanns von Hans Peter Büttner https://www.kritiknetz.de/antizionismusundantisemitismus/1471 In den letzten Tagen wurde in allen deutschen Medien ein an die Bundeskanzlerin gerichteter öffentlicher Brief veröffentlicht, in dem 60 deutsche und israelische "Israelkritiker", die nach Benz, der den Antisemitismus für eine Geisteshaltung ungebildeter dummer Kerls hält, schon deshalb keine Antisemiten sein können, weil sie ‚gebildet’ sind, sich mit Moshe Zuckermann, Achille Mbembe und anderen fanatischen „Israelkritikern“ gemein machen. Sie greifen den Antisemitismusbeauftragten der Bundesregierung Felix Klein vehement an, weil er zum ersten Mal in der Geschichte der Bundesrepublik als Amtsträger den Mut aufbringt darauf hinzuweisen, was die Spatzen schon lange von den Dächern pfeifen, nämlich dass der Antisemitismus hierzulande keineswegs nur von Altnazis und der neuen völkischen Rechten geschürt wird, sondern auch (seit 1968) von linksdeutscher Seite, die einen völkisch- antiwestlichen Antiimperialismus nach dem Muster der deutschen Ideologie bzw. des “wahren“ oder „deutschen Sozialismus“[1] pflegt. Er gibt vor „antirassistisch“ zu sein. Indes ist der angebliche Antirassismus doch nur eine extrem kulturrelativistische, kulturalistisch (völkisch) argumentierende Ursprungsideologie im Linksjargon, die den Antisemitismus enthält wie die Wolke den Regen. Das wurde erst kürzlich wieder an Ausführungen Mbembes über Israel, deren antisemitische Klischees unverkennbar waren, mehr als deutlich. Gleichwohl verteidigten viele der 60 „Israelkritiker*innen“ Mbembe heftig, so wie sie schon früher die Auslassungen der obsessiven „Israelkritikerin" J. Butler und die vor antisemitisch konnotiertem Zionistenhass nur so triefende Propaganda gegen Israel von Zuckermann verteidigten, die sich beide mit den Alu Akbar-Sozialisten der islamischen Umma zur Befeiung Palästinas von den Juden gemein machen. Viele der Kritiker teilen vermutlich das weltanschauliche Paradigma Mbembes und Zuckermanns. Manche verwechseln es auch wohl - wie Zuckermann selber - mit der „Kritischen Theorie der Gesellschaft“ (Adornos und Horkheimers), von der kein Weg zu den Hasstiraden Zuckermanns auf Israel führt. Fühlen sie sich ertappt, reagieren sie, wie oft, wenn sich Menschen ertappt fühlen, mit lauter Empörung. Wo es angebracht wäre, mit Selbstbesinnung zu reagieren und zu prüfen, ob die Kritik anderer sachkundiger Wissenschaftler an Texten Mbembes, Zuckermanns, Butlers nicht vielleicht doch berechtigt sein könnte und sie selber ihre „Kritik“ am Juden unter den Staaten (Poliakov) zu überprüfen hätten, schlagen sie prompt „zurück“ und drehen den Spieß um. In völliger Verkennung der hiesigen Wirklichkeit behaupten sie, Antisemitismus gäbe es in Deutschland nur bei Altnazis und der völkischen Rechte am rechten Rand der Gesellschaft. Im Übrigen aber sei Deutschland, vor allem aber das „israelkritische“ Deutschland, dem sie selber sich zurechnen, antisemitismusfrei. Hier sei nicht der Antisemitismus ein gesellschaftliches Problem, sondern der Antisemitismusvorwurf jener, die sich nicht an die von den 60 Damen und Herren seit Jahrzehnten bewachte Zensur halten, dass Antisemitismus nur bei extremen völkischen Rechten und beinharten Nazis vorkomme und der Antizionismus und die zwanghafte „Israelkritik“ linksvölkischer Antiimperialisten und „deutscher Sozialisten“ nichts mit Antisemitismus zu tun habe. Ausgerechnet sie, die Jahrzehnte lang zu jenen gehörten, die – machtgestützt – die Definitionsmacht darüber innehatten, wer und was hierzulande als wer oder was zu gelten hatte, während der Antisemitismus, verkleidet als Israelkritik und Antizionismus, wuchs und wuchs, ohne dass sie diesem Wachstum etwas entgegenzusetzen wussten, inszenieren sich nun, wo der erste, nicht mehr ganz ohnmächtige Widerstand gegen ihre Definitionsmacht und falschen Definitionen sich regt, als Opfer zionistischer Herrschaftspraktiken und erklären den Antisemitismusvorwurf gegen Mbembe, Butler, Zuckermann u. a. zum Herrschaftsinstrument zionistischer Juden und ihrer Lobby in Deutschland. Diese seien das Problem, nicht der Antisemitismus, den es außerhalb der extremen Rechten gar nicht gebe. „Nachtigall, ick hör Dir trapsen“: Wieder einmal sollen es die Juden – diesmal als Zionisten - sein, die lügen, täuschen und tricksen, alles nur mit dem einen Ziel, die Herrschaft über die Masse zu erlangen, um sie für das eigene Interesse zu instrumentalisieren, diesmal das Interesse an der angeblich ‚völkerrechtswidrigen Herrschaft’ über „das palästinensische Volk’ zu erlangen, während die arabischen und/oder islamischen Rackets, die auf Israels Vernichtung abstellen, und ihre deutsch-europäischen Unterstützer in der Wahrheit stehen . Wieder einmal weiß man hierzulande unter Intellektuellen, wie „der typische Jude“ tickt, für den in Europa „der zionistische Jude“ steht, und dass nur Übles von ihm zu erwarten ist. Und wie der Jude, so auch seine zionistische Gefolgschaft, der ‚typische (zionistische) Geistesjude’. Wie schon so oft in der Geschichte soll wieder einmal mit antisemitischen Projektionen der Verdacht des Antisemitismus abgewehrt und das Bewusstsein der eigenen Unschuld erzeugt werden.[2] Mittlerweile haben viele andere gegen den Antisemitismus engagierte Menschen auf den Brief der 60 geantwortet, Falschbehauptungen richtig gestellt und ihn zurückgewiesen. Ich habe diese Antwort in meinem persönlichen Account und dem FB Account des Kritiknetzes veröffentlicht.(https://www.facebook.com/heinz.gess/posts/3510247445654693 und https://www.facebook.com/kritiknetz/posts/10156845889681618?). Was bisher fehlt, ist eine detaillierte Auseinandersetzung mit der Antizionismus- und Israelkritik, mit der sich die 60 gebildeten Damen und Herren gemein machen. Hans Peter Büttner liefert nun gerade zur rechten Zeit diese Auseinandersetzung am Beispiel von Veröffentlichungen und Vorträgen von Moshe Zuckermann, der den Brief ebenfalls unterschrieben hat und mit dem sich die 60 gemein machen. Die Kritik ist hart und rücksichtslos, weil nach Ansicht des Verfassers ihr Gegenstand kein denkwürdiges Objekt ist, sondern eine verächtliche, verachtete Existenz, mit der es der Selbstverständigung nicht bedarf, ganz im Sinne des Marx’schen Diktums: „Krieg den deutschen Zuständen! Allerdings! Sie stehen unter dem Niveau der Geschichte, sie sind unter aller Kritik, aber sie bleiben ein Gegenstand der Kritik ... Mit ihnen im Kampf ist die Kritik keine Leidenschaft des Kopfs, sie ist der Kopf der Leidenschaft. Sie ist kein anatomisches Messer, sie ist eine Waffe. Ihr Gegenstand ist ihr Feind, den sie nicht widerlegen, sondern vernichten will. Denn der Geist jener Zustände ist widerlegt. An und für sich sind sie keine denkwürdigen Objekte, sondern ebenso verächtliche, als verachtete Existenzen. Die Kritik für sich bedarf nicht der Selbstverständigung mit diesem Gegenstand, denn sie ist mit ihm im reinen. Sie gibt sich nicht mehr als Selbstzweck, sondern nur noch als Mittel.[3] Heinz Gess](https://www.facebook.com/groups/1811141092546103/permalink/2720734418253428/)*
+        *[Allahu Akbar für die negative Dialektik Über die weltanschauliche Verwahrlosung des antizionistischen Denkens am Beispiel der „Kritischen Theorie“ Moshe Zuckermanns von Hans Peter Büttner [kritiknetz.de/antizionismusundantisemitismus/1471](https://www.kritiknetz.de/antizionismusundantisemitismus/1471) In den letzten Tagen wurde in allen deutschen Medien ein an die Bundeskanzlerin gerichteter öffentlicher Brief veröffentlicht, in dem 60 deutsche und israelische "Israelkritiker", die nach Benz, der den Antisemitismus für eine Geisteshaltung ungebildeter dummer Kerls hält, schon deshalb keine Antisemiten sein können, weil sie ‚gebildet’ sind, sich mit Moshe Zuckermann, Achille Mbembe und anderen fanatischen „Israelkritikern“ gemein machen. Sie greifen den Antisemitismusbeauftragten der Bundesregierung Felix Klein vehement an, weil er zum ersten Mal in der Geschichte der Bundesrepublik als Amtsträger den Mut aufbringt darauf hinzuweisen, was die Spatzen schon lange von den Dächern pfeifen, nämlich dass der Antisemitismus hierzulande keineswegs nur von Altnazis und der neuen völkischen Rechten geschürt wird, sondern auch (seit 1968) von linksdeutscher Seite, die einen völkisch- antiwestlichen Antiimperialismus nach dem Muster der deutschen Ideologie bzw. des “wahren“ oder „deutschen Sozialismus“[1] pflegt. Er gibt vor „antirassistisch“ zu sein. Indes ist der angebliche Antirassismus doch nur eine extrem kulturrelativistische, kulturalistisch (völkisch) argumentierende Ursprungsideologie im Linksjargon, die den Antisemitismus enthält wie die Wolke den Regen. Das wurde erst kürzlich wieder an Ausführungen Mbembes über Israel, deren antisemitische Klischees unverkennbar waren, mehr als deutlich. Gleichwohl verteidigten viele der 60 „Israelkritiker*innen“ Mbembe heftig, so wie sie schon früher die Auslassungen der obsessiven „Israelkritikerin" J. Butler und die vor antisemitisch konnotiertem Zionistenhass nur so triefende Propaganda gegen Israel von Zuckermann verteidigten, die sich beide mit den Alu Akbar-Sozialisten der islamischen Umma zur Befeiung Palästinas von den Juden gemein machen. Viele der Kritiker teilen vermutlich das weltanschauliche Paradigma Mbembes und Zuckermanns. Manche verwechseln es auch wohl - wie Zuckermann selber - mit der „Kritischen Theorie der Gesellschaft“ (Adornos und Horkheimers), von der kein Weg zu den Hasstiraden Zuckermanns auf Israel führt. Fühlen sie sich ertappt, reagieren sie, wie oft, wenn sich Menschen ertappt fühlen, mit lauter Empörung. Wo es angebracht wäre, mit Selbstbesinnung zu reagieren und zu prüfen, ob die Kritik anderer sachkundiger Wissenschaftler an Texten Mbembes, Zuckermanns, Butlers nicht vielleicht doch berechtigt sein könnte und sie selber ihre „Kritik“ am Juden unter den Staaten (Poliakov) zu überprüfen hätten, schlagen sie prompt „zurück“ und drehen den Spieß um. In völliger Verkennung der hiesigen Wirklichkeit behaupten sie, Antisemitismus gäbe es in Deutschland nur bei Altnazis und der völkischen Rechte am rechten Rand der Gesellschaft. Im Übrigen aber sei Deutschland, vor allem aber das „israelkritische“ Deutschland, dem sie selber sich zurechnen, antisemitismusfrei. Hier sei nicht der Antisemitismus ein gesellschaftliches Problem, sondern der Antisemitismusvorwurf jener, die sich nicht an die von den 60 Damen und Herren seit Jahrzehnten bewachte Zensur halten, dass Antisemitismus nur bei extremen völkischen Rechten und beinharten Nazis vorkomme und der Antizionismus und die zwanghafte „Israelkritik“ linksvölkischer Antiimperialisten und „deutscher Sozialisten“ nichts mit Antisemitismus zu tun habe. Ausgerechnet sie, die Jahrzehnte lang zu jenen gehörten, die – machtgestützt – die Definitionsmacht darüber innehatten, wer und was hierzulande als wer oder was zu gelten hatte, während der Antisemitismus, verkleidet als Israelkritik und Antizionismus, wuchs und wuchs, ohne dass sie diesem Wachstum etwas entgegenzusetzen wussten, inszenieren sich nun, wo der erste, nicht mehr ganz ohnmächtige Widerstand gegen ihre Definitionsmacht und falschen Definitionen sich regt, als Opfer zionistischer Herrschaftspraktiken und erklären den Antisemitismusvorwurf gegen Mbembe, Butler, Zuckermann u. a. zum Herrschaftsinstrument zionistischer Juden und ihrer Lobby in Deutschland. Diese seien das Problem, nicht der Antisemitismus, den es außerhalb der extremen Rechten gar nicht gebe. „Nachtigall, ick hör Dir trapsen“: Wieder einmal sollen es die Juden – diesmal als Zionisten - sein, die lügen, täuschen und tricksen, alles nur mit dem einen Ziel, die Herrschaft über die Masse zu erlangen, um sie für das eigene Interesse zu instrumentalisieren, diesmal das Interesse an der angeblich ‚völkerrechtswidrigen Herrschaft’ über „das palästinensische Volk’ zu erlangen, während die arabischen und/oder islamischen Rackets, die auf Israels Vernichtung abstellen, und ihre deutsch-europäischen Unterstützer in der Wahrheit stehen . Wieder einmal weiß man hierzulande unter Intellektuellen, wie „der typische Jude“ tickt, für den in Europa „der zionistische Jude“ steht, und dass nur Übles von ihm zu erwarten ist. Und wie der Jude, so auch seine zionistische Gefolgschaft, der ‚typische (zionistische) Geistesjude’. Wie schon so oft in der Geschichte soll wieder einmal mit antisemitischen Projektionen der Verdacht des Antisemitismus abgewehrt und das Bewusstsein der eigenen Unschuld erzeugt werden.[2] Mittlerweile haben viele andere gegen den Antisemitismus engagierte Menschen auf den Brief der 60 geantwortet, Falschbehauptungen richtig gestellt und ihn zurückgewiesen. Ich habe diese Antwort in meinem persönlichen Account und dem FB Account des Kritiknetzes veröffentlicht.(https://www.facebook.com/heinz.gess/posts/3510247445654693 und [facebook.com/kritiknetz/posts/10156845889681618?).](https://www.facebook.com/kritiknetz/posts/10156845889681618?).) Was bisher fehlt, ist eine detaillierte Auseinandersetzung mit der Antizionismus- und Israelkritik, mit der sich die 60 gebildeten Damen und Herren gemein machen. Hans Peter Büttner liefert nun gerade zur rechten Zeit diese Auseinandersetzung am Beispiel von Veröffentlichungen und Vorträgen von Moshe Zuckermann, der den Brief ebenfalls unterschrieben hat und mit dem sich die 60 gemein machen. Die Kritik ist hart und rücksichtslos, weil nach Ansicht des Verfassers ihr Gegenstand kein denkwürdiges Objekt ist, sondern eine verächtliche, verachtete Existenz, mit der es der Selbstverständigung nicht bedarf, ganz im Sinne des Marx’schen Diktums: „Krieg den deutschen Zuständen! Allerdings! Sie stehen unter dem Niveau der Geschichte, sie sind unter aller Kritik, aber sie bleiben ein Gegenstand der Kritik ... Mit ihnen im Kampf ist die Kritik keine Leidenschaft des Kopfs, sie ist der Kopf der Leidenschaft. Sie ist kein anatomisches Messer, sie ist eine Waffe. Ihr Gegenstand ist ihr Feind, den sie nicht widerlegen, sondern vernichten will. Denn der Geist jener Zustände ist widerlegt. An und für sich sind sie keine denkwürdigen Objekte, sondern ebenso verächtliche, als verachtete Existenzen. Die Kritik für sich bedarf nicht der Selbstverständigung mit diesem Gegenstand, denn sie ist mit ihm im reinen. Sie gibt sich nicht mehr als Selbstzweck, sondern nur noch als Mittel.[3] Heinz Gess](https://www.facebook.com/groups/1811141092546103/permalink/2720734418253428/)*
 
 
         * [How does ancap address the problem of wealth inequality? To me it seems like its biggest issue. I think that wealth inequality is not fundamentally bad (no inequality at all inhibits innovation as it stifles incentives), but I do think extreme levels of wealth inequality can lead to: - extreme poverty (human suffering) - horrible working conditions - consumers not having enough capital to start businesses and buy expensive products, leading to reduced innovation - feelings of anger at the wealthy elites, which makes living in the society unpleasant for both classes (these problems are particularly pronounced in societies with a high ginni index - wealth inequality) - In our current society, the poor enjoys many nice things: clean air, clean water, roads, and (usually) protection from crime. In some countries they also get basic healthcare. In an ancap society, all of those things cost money. If you don’t have money, you don’t get them. It makes being poor miserable in a way it is not in our current society - in an ancap society, everything is run by money, including the courts and police. Thus, if you have wealth inequality, the few that are extremely rich have a large amount of power, can become corrupt, and you may run into many of the same problems you were trying to avoid by abolishing the state. Eventually people may be able to stop “giving them business” in some sense if it gets too bad, but those with wealth/power may find plenty of ways to force people to behave as the wealthy desire.](https://www.facebook.com/groups/533049276904843/permalink/1429580223918406/)
@@ -6466,7 +6466,7 @@ Groteske Aufklärung
         * [How do leaders commit evil acts such as genocide? How do good people convince themselves to commit infanticide? Russian author Solzhenitsyn shed light from within the walls of a Stalin labor camp after WWII: “Ideology—that is what gives evildoing its long-sought justification and gives the evildoer the necessary steadfastness and determination. That is the social theory which helps to make his acts seem good instead of bad in his own and others’ eyes, so that he won’t hear reproaches and curses but will receive praise and honors." So how then, do we ourselves fall into evildoing in our own lives? How do the philosophies of the world taint our views and, in turn, change our actions? Is it our endless longing for praise and honor from our peers? Is it a loss of faith and dedication to the unchanging morals given by God? Evil doings bring evil results. Evil, whether or not we regard it as such, leads to misery and endless woe. What once was understood by the masses as wrong, is now hailed as right. As history, both religious and secular, teaches us, our evil choices will bring our inexorable suffering.](https://www.facebook.com/kelby.gatrell/posts/10159910336488298)
 
 
-        * [Not sure if someone's already shared, but here's *Jacobin's *review of Nathan's book. https://www.jacobinmag.com/2020/04/why-you-should-be-a-socialist-review-robinson](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1623043007845234/)
+        * [Not sure if someone's already shared, but here's *Jacobin's *review of Nathan's book. [jacobinmag.com/2020/04/why-you-should-be-a-socialist-review-robinson](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1623043007845234/)](https://www.jacobinmag.com/2020/04/why-you-should-be-a-socialist-review-robinson](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1623043007845234/))
 
 
         * [> When proclamations are made that “voting is harm reduction,” it’s never clear how less harm is actually calculated. Do we compare how many millions of undocumented Indigenous Peoples have been deported? Do we add up what political party conducted more drone strikes? Or who had the highest military budget? Do we factor in pipelines, mines, dams, sacred sites desecration? Do we balance incarceration rates? Do we compare sexual violence statistics? Is it in the massive budgets of politicians who spend hundreds of millions of dollars competing for votes? > The idea of a ballot being capable of reducing the harm in a system rooted in colonial domination and exploitation, white supremacy, hetero-patriarchy, and capitalism is an extraordinary exaggeration. There is no person whose lives aren’t impacted everyday by these systems of oppression, but instead of coded reformism and coercive “get out the vote” campaigns towards a “safer” form of settler colonialism, we’re asking “what is the real and tragic harm and danger associated with perpetuating colonial power and what can be done to end it?”](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1622205587928976/)
@@ -6550,7 +6550,7 @@ Groteske Aufklärung
         *[One of my anthropology professors in college was a classmate of David Graeber back when they were graduate students at the University of Chicago. I remember asking him what Graeber was like back then. His reply: "Oh we all knew that he was something special and that he would go very far." Much has been written (and will be written) about his more well-known works: Debt, Bullshit Jobs, Utopia of Rules etc. I hope more people will discuss his support and solidarity with groups around the world, like the Kurdish YPJ (acronym, when translated, stands for Women's Protection Units, a female brigade of fighters approx. 20,000 strong that fought ISIS.) I'd like to take a moment to acknowledge his other writings too, particularly his 2017 Baffler piece "What's the Point if We Can't Have Fun" In it, Graeber opines on the nature of play and how we can know whether animals for instance, can take pleasure in exercising their faculties, as humans do. It ends with a fun anecdote about a Taoist story that Graeber used to share with his students (and how he would offer a free "A" to anyone who could explain it.) I write this because I, like many of you, were deeply influenced by his work and also deeply moved by his dedication to humanity and to justice. He was a warm, lovely man who was very interested in how we as a species could better ourselves and how we could find meaning, hope and pleasure in our lives.](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1765864123563121/)*
 
 
-        *[To my knowledge, Buddy Roemer was the only sincerely economically populist Republican of the current "populist" era. Roemer ran in 2012, in the primary that Romney won - and captured about .1% of the vote Before that, 100% of Tea Party Congresspersons supported ALL of Obama's Free Trade Agreements in 2011 (with Colombia, South Korea, and Panama) - unlike most Congressional Democrats who opposed all of these deals. Republican voters could not have minded less - and rewarded the Tea Party with another historic landslide in 2014 (following 2010's wave). I do think that conservative voters like to hear Trump's bluster about trade. But I think they like it, superficially, because it dignifies them with senses of nostalgia and authenticity. I don't think they actually care about trade issues in substance. Tucker, Saagar, and company surely don't because their commentary on trade is almost always devoid of substance, and far more nationalist than populist. It's usually just vapid China bashing. Trade has been dumbed down to just another culture war issue - almost devoid of any substantial content. That has been Trump's perverse contribution. Here is an interview with Roemer from 2011: https://www.huffpost.com/entry/gov-buddy-roemer-free-trade_b_1026078](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1764741840342016/)*
+        *[To my knowledge, Buddy Roemer was the only sincerely economically populist Republican of the current "populist" era. Roemer ran in 2012, in the primary that Romney won - and captured about .1% of the vote Before that, 100% of Tea Party Congresspersons supported ALL of Obama's Free Trade Agreements in 2011 (with Colombia, South Korea, and Panama) - unlike most Congressional Democrats who opposed all of these deals. Republican voters could not have minded less - and rewarded the Tea Party with another historic landslide in 2014 (following 2010's wave). I do think that conservative voters like to hear Trump's bluster about trade. But I think they like it, superficially, because it dignifies them with senses of nostalgia and authenticity. I don't think they actually care about trade issues in substance. Tucker, Saagar, and company surely don't because their commentary on trade is almost always devoid of substance, and far more nationalist than populist. It's usually just vapid China bashing. Trade has been dumbed down to just another culture war issue - almost devoid of any substantial content. That has been Trump's perverse contribution. Here is an interview with Roemer from 2011: [huffpost.com/entry/gov-buddy-roemer-free-trade_b_1026078](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1764741840342016/)*](https://www.huffpost.com/entry/gov-buddy-roemer-free-trade_b_1026078](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1764741840342016/)*)
 
 
         *[Opinion: Why Breonna Taylor must be cast as a villain worthy of death](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.courier-journal.com%2Fstory%2Fopinion%2F2020%2F09%2F02%2Fwhy-breonna-taylor-must-cast-villain-worthy-death%2F5684586002%2F%3Ffbclid%3DIwAR1HqpVQaTxMdpWzqcaSCzhgV99lL0ZPA-bve5I8wbPFNdrS3URC8DHnSVM&h=AT3nOdXl_lzL4YhvLggf_NTiqsYmYx6yAa_ZQ4F5OfL_DVQcleQIy2nkn6qKKWoaNv93oAxCyG5OGTkhCy4HDAtxNfpir0_IbAruWlF-xk4PvzJQl4z5Z1EGk3HvdKupcAhFPROTJg)*
@@ -6577,7 +6577,7 @@ Groteske Aufklärung
         *[Anyone have the meme of the corporate wants to know with the US flag and the golden calf?](https://www.facebook.com/groups/533049276904843/permalink/1549179005291860/)*
 
 
-        *[A post to a woman on the Provo City Council Facebook page who cheered their mask mandate and advocated for Orem to follow suit. She deleted her comment within 30 seconds of my post, which was as follows: I grieve and mourn that you would hold such a view. That’s not a personal attack, and I believe you are sincere and well meaning, but this surely is a tyranny of the worldwide rise of the 4th Reich, vaccine-industrial complex with lies and bogus narratives everywhere abounding. I have lung damage from the Timpview High school wood shop spray room from my senior year. As my breathing began to become labored that year as damage was being done, masks of various types were given to me by those concerned. They didn’t work. I could breath the vicious fumes with the masks on or off equally, and except I enter that area with an oxygen tank, I knew it was a sham to pretend the give pretense that masks did anything of value for me. Go huff and puff over an open bucket of gasoline with then without your mask and note the absolute foolishness to pretend a cloth on your face is doing anything. Intuitively, this mask nonsense is utter foolishness, and has nothing to do with curtailment or the halting of the spread of a virus, but of creating precedent for the vaccines that shall be rolled out and made mandatory. Bill Gates is giddy and jubilant at the prospects of massive global tracking of everyone with an imposed vaccine ID, without which one may not travel, buy, sell, shop, attend school, hold employment, etc. One of the most spiritually connected people I know had a near death experience. In 2013, seven years ago, I heard him warn those of us in a fireside-type setting, that some years ahead the global elite would release a virus that would cause paranoia and pandemonium with which they would push a vaccine. “Do NOT take the vaccine,” he warned, for “it will be a death sentence for the 2nd and 3rd viruses they will release.” His counsel was to keep ones immune system strong, and not subscribe to the fool backstabbing narratives pushed by the elite, which now firstly, we see, is in establishing freedom destroying precedent of mandated face masks—-perhaps by years end to be morphed into mandated vaccines. These forced masks upon children, especially, is utterly abominable, a filthy breeding ground for bacteria, a visible and constant reminder of fear, disease, and seeing one another as spreaders of germs and disease. What a horrid way to break down and lower the immune system of children with this abuse and restriction of clean air to breath. I consider the mandate upon these little ones as child abuse. I believe God almighty sees it that way as well, and I believe we are about to see Him showcase wrath through the elements of nature bringing judgement down upon the heads of wicked nations and their wicked governments with their mandates based in lies——for this is a secret combination agenda and once this combination is spread over all the land, then the scriptural warning is that the judgements begin to sweep the people off the face thereof if we “suffer” these things to be. (See Ether 8:18-25). Gadianton robbers infest the land, and where there are those who aren’t sworn—-yet—-to secret oaths, the vast “more part of the righteous” nonetheless embrace the secret combinations. Hey, LDS, it’s in your scriptures. Do you believe scriptural narrative less than you believe the liars of government, media, and the Vaccine-industrial complex? Paralleling the book of 3 Nephi to our time, LDS Church President, Ezra Taft Benson said: "Secret combinations flourished because, as Helaman tells us, the Gadianton robbers 'had seduced the more part of the righteous until they had come down to believe in their works and partake of their spoils' (Helaman 6:38). . . even as today." (Ezra Taft Benson "The Savior's Visit to America" May Ensign 1987. p.4.) I’ve watched all narratives, and amazing doctors who counter this behemoth secret combination agenda which seeks to “overthrow the freedom of all nations, lands, and countries,” are deleted off of YouTube about as fast as an upload of the World Trade Center building 7 collapse. Here is one video of a doctor demonstrating the futility of a mask for the fiction of it halting the spread of a virus, as he visually showcases vaping fumes moving through the cloth. The link likely will soon be dead, as it displays blatantly what I know intuitively with my experience with masks, and the elite are making war against the spread of truth. Any holding faith in the mask narrative, I pray may garner some critical thinking ahead and begin to process what is happening around us with greater discernment as totalitarianism encroaches upon us on every side. https://youtu.be/1O8Tm-l41bo God’s wrath is about to unfurl upon this nation and world, as these vicious lies and narratives pushed by secret combinations are rolled out. The Book of Isaiah in its applied meaning to our time is about to be fulfilled in dramatic display and all wicked, unrighteous dominion governments, with their threat of violence, fines, and unrighteous dominion policing power, shall be brought low and destroyed from off the face of the land. Harvard Law grad, BYU professor, and later LDS general authority, H. Verlan Anderson, made the case convincingly in his books, citing scripture, that most all LDS gathered into chapels on the sabbath do in fact pertain to “the great and abominable church of the devil,” for they back the satanic unrighteous dominion of government. No, most won’t go next door and threaten their neighbor to buckle up, or to wear a mask, but they abide, countenance, and even celebrate and cheer government doing so in their name. Hence, many are called, but few are chosen. And why are they not chosen? Because they seek to uphold Satan’s plan of coercion. Ezra Taft Benson said: “Heaven disapproves of force, coercion, and intimidation.” The Provo City Council with this vote has imposed oppression and it has an ugliness to it. It is a secret combination narrative, and I decry it. I decry the coming attempt at forced and mandatory vaccines and the terror and bioweapons that shall be released to seek to have the people in fear to accept even more totalitarianism. The famed author and playwrite, George Bernard Shaw, a Fabian socialist, describes the satanic agenda that you and the Provo City Council, seem to uphold: “Under Socialism, you would not be allowed to be poor. You would be forcibly fed, clothed, lodged, taught, and employed whether you liked it or not. If it were discovered that you had not character and industry enough to be worth all this trouble, you might possibly be executed in a kindly manner; but whilst you were permitted to live, you would have to live well.” - George Bernard Shaw (The Intelligent Woman’s Guide to Socialism and Capitalism, 1928, pg. 470) You, Shaw, and the Provo City Council would add: “under socialism you would not be allowed to be unmasked. The healthy would be targets of quarantine and whether they liked it or not, they would be forced to be monitored, tracked, threatened, bullied, fined, shamed, vilified, mocked, abused, with endless unrighteous dominion in support of narratives based on lies, bogus “scientism” and in time unable to buy nor sell, travel, etc. without compliance.” Note: My precinct in Provo voted at nearly 97% for Mitt Romney in 2007, the highest nationally, and nobody would argue that was the “Mormon vote” at play. When I by default quote LDS scripture and leadership of the past, it is with that audience in mind that makes up a vast majority, and seeks not to diminish any who don’t subscribe to nor are familiar with such scripture and precepts. The LDS professing should know the references and I make no apology in my making use of them to that audience. #Plandemic #SecretCombinations #BillGates #RockefellerFoundationLockStep #ChurchOfTheDevil #MorePartOfRighteousSeduced #BabylonTheGreatWhore #YoutubeCensorship #ProvoCityCouncil #4thReich #VaccineIndustrialComplex Oh, a bonus: someone’s put one of Elder Anderson’s books online. It would be good reading for all those pushing unrighteous dominion mask mandates who too have been seduced by secret combinations. It’s got unbelievable gems that I wished I would have been aware of during my K-12 enforced priestcraft, compulsory government brainwashing, prison sentence. http://www.inspiredconstitution.org/hva_great/index.html](https://www.facebook.com/groups/533049276904843/permalink/1548000108743083/)*
+        *[A post to a woman on the Provo City Council Facebook page who cheered their mask mandate and advocated for Orem to follow suit. She deleted her comment within 30 seconds of my post, which was as follows: I grieve and mourn that you would hold such a view. That’s not a personal attack, and I believe you are sincere and well meaning, but this surely is a tyranny of the worldwide rise of the 4th Reich, vaccine-industrial complex with lies and bogus narratives everywhere abounding. I have lung damage from the Timpview High school wood shop spray room from my senior year. As my breathing began to become labored that year as damage was being done, masks of various types were given to me by those concerned. They didn’t work. I could breath the vicious fumes with the masks on or off equally, and except I enter that area with an oxygen tank, I knew it was a sham to pretend the give pretense that masks did anything of value for me. Go huff and puff over an open bucket of gasoline with then without your mask and note the absolute foolishness to pretend a cloth on your face is doing anything. Intuitively, this mask nonsense is utter foolishness, and has nothing to do with curtailment or the halting of the spread of a virus, but of creating precedent for the vaccines that shall be rolled out and made mandatory. Bill Gates is giddy and jubilant at the prospects of massive global tracking of everyone with an imposed vaccine ID, without which one may not travel, buy, sell, shop, attend school, hold employment, etc. One of the most spiritually connected people I know had a near death experience. In 2013, seven years ago, I heard him warn those of us in a fireside-type setting, that some years ahead the global elite would release a virus that would cause paranoia and pandemonium with which they would push a vaccine. “Do NOT take the vaccine,” he warned, for “it will be a death sentence for the 2nd and 3rd viruses they will release.” His counsel was to keep ones immune system strong, and not subscribe to the fool backstabbing narratives pushed by the elite, which now firstly, we see, is in establishing freedom destroying precedent of mandated face masks—-perhaps by years end to be morphed into mandated vaccines. These forced masks upon children, especially, is utterly abominable, a filthy breeding ground for bacteria, a visible and constant reminder of fear, disease, and seeing one another as spreaders of germs and disease. What a horrid way to break down and lower the immune system of children with this abuse and restriction of clean air to breath. I consider the mandate upon these little ones as child abuse. I believe God almighty sees it that way as well, and I believe we are about to see Him showcase wrath through the elements of nature bringing judgement down upon the heads of wicked nations and their wicked governments with their mandates based in lies——for this is a secret combination agenda and once this combination is spread over all the land, then the scriptural warning is that the judgements begin to sweep the people off the face thereof if we “suffer” these things to be. (See Ether 8:18-25). Gadianton robbers infest the land, and where there are those who aren’t sworn—-yet—-to secret oaths, the vast “more part of the righteous” nonetheless embrace the secret combinations. Hey, LDS, it’s in your scriptures. Do you believe scriptural narrative less than you believe the liars of government, media, and the Vaccine-industrial complex? Paralleling the book of 3 Nephi to our time, LDS Church President, Ezra Taft Benson said: "Secret combinations flourished because, as Helaman tells us, the Gadianton robbers 'had seduced the more part of the righteous until they had come down to believe in their works and partake of their spoils' (Helaman 6:38). . . even as today." (Ezra Taft Benson "The Savior's Visit to America" May Ensign 1987. p.4.) I’ve watched all narratives, and amazing doctors who counter this behemoth secret combination agenda which seeks to “overthrow the freedom of all nations, lands, and countries,” are deleted off of YouTube about as fast as an upload of the World Trade Center building 7 collapse. Here is one video of a doctor demonstrating the futility of a mask for the fiction of it halting the spread of a virus, as he visually showcases vaping fumes moving through the cloth. The link likely will soon be dead, as it displays blatantly what I know intuitively with my experience with masks, and the elite are making war against the spread of truth. Any holding faith in the mask narrative, I pray may garner some critical thinking ahead and begin to process what is happening around us with greater discernment as totalitarianism encroaches upon us on every side. [youtu.be/1O8Tm-l41bo](https://youtu.be/1O8Tm-l41bo) God’s wrath is about to unfurl upon this nation and world, as these vicious lies and narratives pushed by secret combinations are rolled out. The Book of Isaiah in its applied meaning to our time is about to be fulfilled in dramatic display and all wicked, unrighteous dominion governments, with their threat of violence, fines, and unrighteous dominion policing power, shall be brought low and destroyed from off the face of the land. Harvard Law grad, BYU professor, and later LDS general authority, H. Verlan Anderson, made the case convincingly in his books, citing scripture, that most all LDS gathered into chapels on the sabbath do in fact pertain to “the great and abominable church of the devil,” for they back the satanic unrighteous dominion of government. No, most won’t go next door and threaten their neighbor to buckle up, or to wear a mask, but they abide, countenance, and even celebrate and cheer government doing so in their name. Hence, many are called, but few are chosen. And why are they not chosen? Because they seek to uphold Satan’s plan of coercion. Ezra Taft Benson said: “Heaven disapproves of force, coercion, and intimidation.” The Provo City Council with this vote has imposed oppression and it has an ugliness to it. It is a secret combination narrative, and I decry it. I decry the coming attempt at forced and mandatory vaccines and the terror and bioweapons that shall be released to seek to have the people in fear to accept even more totalitarianism. The famed author and playwrite, George Bernard Shaw, a Fabian socialist, describes the satanic agenda that you and the Provo City Council, seem to uphold: “Under Socialism, you would not be allowed to be poor. You would be forcibly fed, clothed, lodged, taught, and employed whether you liked it or not. If it were discovered that you had not character and industry enough to be worth all this trouble, you might possibly be executed in a kindly manner; but whilst you were permitted to live, you would have to live well.” - George Bernard Shaw (The Intelligent Woman’s Guide to Socialism and Capitalism, 1928, pg. 470) You, Shaw, and the Provo City Council would add: “under socialism you would not be allowed to be unmasked. The healthy would be targets of quarantine and whether they liked it or not, they would be forced to be monitored, tracked, threatened, bullied, fined, shamed, vilified, mocked, abused, with endless unrighteous dominion in support of narratives based on lies, bogus “scientism” and in time unable to buy nor sell, travel, etc. without compliance.” Note: My precinct in Provo voted at nearly 97% for Mitt Romney in 2007, the highest nationally, and nobody would argue that was the “Mormon vote” at play. When I by default quote LDS scripture and leadership of the past, it is with that audience in mind that makes up a vast majority, and seeks not to diminish any who don’t subscribe to nor are familiar with such scripture and precepts. The LDS professing should know the references and I make no apology in my making use of them to that audience. #Plandemic #SecretCombinations #BillGates #RockefellerFoundationLockStep #ChurchOfTheDevil #MorePartOfRighteousSeduced #BabylonTheGreatWhore #YoutubeCensorship #ProvoCityCouncil #4thReich #VaccineIndustrialComplex Oh, a bonus: someone’s put one of Elder Anderson’s books online. It would be good reading for all those pushing unrighteous dominion mask mandates who too have been seduced by secret combinations. It’s got unbelievable gems that I wished I would have been aware of during my K-12 enforced priestcraft, compulsory government brainwashing, prison sentence. [inspiredconstitution.org/hva_great/index.html](https://www.facebook.com/groups/533049276904843/permalink/1548000108743083/)*](http://www.inspiredconstitution.org/hva_great/index.html](https://www.facebook.com/groups/533049276904843/permalink/1548000108743083/)*)
 
 
         *[I'm curious to know if any leftist gamers here sit well with playing games that bring up or center around class conditions, but don't go far enough to propose a leftist worldview as a solution. Or do you prefer playing games that lead into a definable leftist conclusion? I don't game myself outside of Spider Solitaire (should I start a twitch?) but my girlfriend is starting a video series about games with Cyberpunk themes and what reasonable conclusions we can draw from media like this. From what I've gathered from her explanations, Cyberpunk is a beautiful and creative genre that affirms that capitalism and technology are *not* the answer to our suffering, but often doesn't go far enough to suppose a vision that *is* the answer. Kentucky Route Zero is an example of a game she's exploring in this series. Does gameplay feel more satisfying when some of those tensions of a bad world with a lot of suffering remain? Or is it more edifying for game developers to end games with distinct, neater conclusion of what the world could look like with more leftist policies and more humanism?](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1760949587387908/)*
@@ -6643,7 +6643,7 @@ Groteske Aufklärung
         *[Isabel Wilkerson’s ‘Caste’ Is an ‘Instant American Classic’ About Our Abiding Sin](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.nytimes.com%2F2020%2F07%2F31%2Fbooks%2Freview-caste-isabel-wilkerson-origins-of-our-discontents.html%3Ffbclid%3DIwAR2sbHmNfW-BE4e6-rDIhHNlZEkayJTs7r2UBHjvph7pN9DUedq1j2T1gvE&h=AT3OygbfKXer79RQ_1MXp4FdgUyOi8mJ-l7w_hmTJNptD1D5kWEhcwd8j8i45C_x6Q4_6IPUq_lU0-J-Q8FsBJnFuTsBGVE3iofKyuVGSTSGYA6NIYmlkEy3ftu06R1yxANvNrZAfg)*
 
 
-        *[## I heard yall like to read 😉 ## Socialism 101: A Reading List By [Haymarket Books](https://www.haymarketbooks.org/blogs?post_author=47458) / March 20 2020 “From limited access to medical tests and healthcare in the midst of a global pandemic, to the ongoing crises of indebtedness, homelessness, endless war, and environmental destruction, the need for a different system has become clear to millions of people. It's no surprise that—regardless of preferred candidate—[US voters](https://www.commondreams.org/news/2020/03/02/absolutely-remarkable-poll-shows-democratic-voters-texas-and-california-view) in states from California to Texas have a more favorable opinion of socialism than capitalism. But what is socialism? Socialism is about much more than any one candidate or campaign—it's about ensuring that all people can live with dignity. As a contribution to the the resurgence of socialist politics in the United States, and to help you explain what socialism's all about to your parents, neighbors, and co-workers, we've put together a Socialism 101 Reading List:  https://www.haymarketbooks.org/blogs/107-socialism-101-a-reading-list?utm_source=Haymarket+Newsletter&utm_campaign=be5bfe8fab-EMAIL_Newsletter_2017_11_20_HOLIDAY1_COPY_01&utm_medium=email&utm_term=0_a36ffbc74a-be5bfe8fab-333136822&mc_cid=be5bfe8fab&mc_eid=58547dc8fc](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1733611046788429/)*
+        *[## I heard yall like to read 😉 ## Socialism 101: A Reading List By [Haymarket Books](https://www.haymarketbooks.org/blogs?post_author=47458) / March 20 2020 “From limited access to medical tests and healthcare in the midst of a global pandemic, to the ongoing crises of indebtedness, homelessness, endless war, and environmental destruction, the need for a different system has become clear to millions of people. It's no surprise that—regardless of preferred candidate—[US voters](https://www.commondreams.org/news/2020/03/02/absolutely-remarkable-poll-shows-democratic-voters-texas-and-california-view) in states from California to Texas have a more favorable opinion of socialism than capitalism. But what is socialism? Socialism is about much more than any one candidate or campaign—it's about ensuring that all people can live with dignity. As a contribution to the the resurgence of socialist politics in the United States, and to help you explain what socialism's all about to your parents, neighbors, and co-workers, we've put together a Socialism 101 Reading List:  [haymarketbooks.org/blogs/107-socialism-101-a-reading-list](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1733611046788429/)*](https://www.haymarketbooks.org/blogs/107-socialism-101-a-reading-list](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1733611046788429/)*)
 
 
         *[Revolutionary Communist Party leader backs Biden](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.washingtontimes.com%2Fnews%2F2020%2Faug%2F3%2Frevolutionary-communist-party-leader-backs-biden%2F%3Ffbclid%3DIwAR0kwYq5ARxiRc-5_aRkJVhQhpNczW-ZNv3iP8flKQ44XDgCJnStqIllY5Q&h=AT0b4ribot2yAFOSbYm04QqHjS98pkahrWw8jwhjjQm_aZxS9rFheYiUcoM9LTb3hs-UuN9SQ28avhMwbdwb03ApxhlMHCcFIVVzm3VwXjlaT7019vQ7VxBihDoh-q7XFyNi0oRKMA)*
@@ -8856,12 +8856,12 @@ Groteske Aufklärung
 
         * [How do we establish anarchist society without political violence or violent revolution?](https://www.reddit.com/r/Anarchy101/comments/dn0u16/how_do_we_establish_anarchist_society_without/)
 
-                * https://consortiumnews.com/
+                * [consortiumnews.com/](https://consortiumnews.com/)
 
-                * https://www.reddit.com/r/PoliticalCompass/
+                * [r/PoliticalCompass/](https://www.reddit.com/r/PoliticalCompass/)
 
 
-        * [If you're wondering about other recent examples of police abuse in America: https://www.reddit.com/r/TheRightCantMeme/comments/dkyujn/the_spiciest_hot_take_from_someone_on_my_discord/f4m1h52/](https://www.reddit.com/r/TheRightCantMeme/comments/dkyujn/the_spiciest_hot_take_from_someone_on_my_discord/f4m1h52/)
+        * [If you're wondering about other recent examples of police abuse in America: [r/TheRightCantMeme/comments/dkyujn/the_spiciest_hot_take_from_someone_on_my_discord/f4m1h52/](https://www.reddit.com/r/TheRightCantMeme/comments/dkyujn/the_spiciest_hot_take_from_someone_on_my_discord/f4m1h52/)](https://www.reddit.com/r/TheRightCantMeme/comments/dkyujn/the_spiciest_hot_take_from_someone_on_my_discord/f4m1h52/](https://www.reddit.com/r/TheRightCantMeme/comments/dkyujn/the_spiciest_hot_take_from_someone_on_my_discord/f4m1h52/))
 
 
         It does. The problem is that most of its good values have become twisted into fairly transparent dog whistles. Take your pick: personal responsibility, law and order, realism, fiscal prudence, meritocracy, stability, tradition, free market/enterprise, preference for local forms of government, fiscal responsibility, "family values", skepticism toward the government, personal resilience (as opposed to "snowflakes"), skepticism of identity politics, purported love of liberty, and so on. And by now it's pretty clear what most conservatives really mean when they talk about these,as opposed to what they want you to think they mean. If we grant that my list is a good reflection of conservative values, it's easy to see that self-styled conservatives don't often live up to their branding.
@@ -8876,10 +8876,10 @@ Groteske Aufklärung
         * [Jobs in anarchy](https://www.reddit.com/r/Anarchy101/comments/cpc4ce/jobs_in_anarchy/)
 
 
-        * [laughing while detainees (including military veterans) died by dehydration while chained to the floor (deleted sources here https://www.reddit.com/user/NRAsays/](https://www.reddit.com/user/NRAsays/))
+        * [laughing while detainees (including military veterans) died by dehydration while chained to the floor (deleted sources here [user/NRAsays/](https://www.reddit.com/user/NRAsays/))](https://www.reddit.com/user/NRAsays/](https://www.reddit.com/user/NRAsays/)))
 
 
-        * [laughing while getting white supremacists to stab black detainees for them (deleted sources here https://www.reddit.com/user/NRAsays/](https://www.reddit.com/user/NRAsays/))
+        * [laughing while getting white supremacists to stab black detainees for them (deleted sources here [user/NRAsays/](https://www.reddit.com/user/NRAsays/))](https://www.reddit.com/user/NRAsays/](https://www.reddit.com/user/NRAsays/)))
 
 
         laughing while killing dogs chained up (not justifying "self defense")
@@ -8891,7 +8891,7 @@ Groteske Aufklärung
         laughing while planting drugs caught on bodycams they didn't realize were still recording
 
 
-        * [laughing while punching a 70 year old judge in the throat who tried stopping police abuse of a homeless youth (video with judge https://www.youtube.com/watch?v=ULjS4H8atSQ](https://www.youtube.com/watch?v=ULjS4H8atSQ))
+        * [](https://www.youtube.com/watch?v=ULjS4H8atSQ))](https://www.youtube.com/watch?v=ULjS4H8atSQ](https://www.youtube.com/watch?v=ULjS4H8atSQ)))
 
 
         Libertarian philosophy boils down to economic might makes right, there's really not much else to it, they hate democracy as that is power exercised outside of the real of economics and believe its entirely immoral.
@@ -9004,19 +9004,19 @@ Groteske Aufklärung
 
         * [Die Charta der Grundrechte der Europäischen Union: Berichte und Dokumentation mit einer Einleitung von Jürgen Meyer und Markus Engels | Prof. Dr. Jürgen Meyer, Dr. Markus Engels (auth.) | download](https://b-ok.cc/book/2301692/7f60df)
 
-                * http://www.electoral-reform.org.uk/borda-count
+                * [electoral-reform.org.uk/borda-count](http://www.electoral-reform.org.uk/borda-count)
 
-                * http://www.federica.unina.it/sociologia/storia-delle-correnti-di-pensiero-contemporanee/la-questione-della-visione-del-mondo-come-quadro-concettuale-elettivo-per-la-prassi-specifica-della-consulenza-filosofica/
+                * [federica.unina.it/sociologia/storia-delle-correnti-di-pensiero-contemporanee/la-questione-della-visione-del-mondo-come-quadro-concettuale-elettivo-per-la-prassi-specifica-della-consulenza-filosofica/](http://www.federica.unina.it/sociologia/storia-delle-correnti-di-pensiero-contemporanee/la-questione-della-visione-del-mondo-come-quadro-concettuale-elettivo-per-la-prassi-specifica-della-consulenza-filosofica/)
 
-                * https://anarchopac.wordpress.com/2013/05/31/recommended-reading/
+                * [anarchopac.wordpress.com/2013/05/31/recommended-reading/](https://anarchopac.wordpress.com/2013/05/31/recommended-reading/)
 
-                * https://www.graswurzel.net/gwr/produkt/herrschaftsfreie-institutionen/
+                * [graswurzel.net/gwr/produkt/herrschaftsfreie-institutionen/](https://www.graswurzel.net/gwr/produkt/herrschaftsfreie-institutionen/)
 
 
         * [Who Rules America](https://vk.com/doc246808508_484860197?hash=93c411b6b18cee9314&dl=e3187250cb65f62fdd)
 
 
-        * [Why Cyber Is Different | PolicyEd](https://www.policyed.org/intellections/why-cyber-different/video?utm_medium=social&utm_campaign=stripes&utm_source=facebook&utm_content=02272018)
+        * [Why Cyber Is Different | PolicyEd](https://www.policyed.org/intellections/why-cyber-different/video)
 
 
         * [Why Did So Many Socialist Thinkers Come From Fairly Well-Off Families? : Socialism_101](https://www.reddit.com/r/Socialism_101/comments/f4mpq7/why_did_so_many_socialist_thinkers_come_from/)
@@ -9031,9 +9031,9 @@ Groteske Aufklärung
 
         * [Who is More Phobic About Science--Conservatives or Liberals? - YouTube](https://www.youtube.com/watch?v=n9kJkuuedw0)
 
-                * https://es.wikipedia.org/wiki/Pedagog%C3%ADa_en_el_anarquismo
+                * [es.wikipedia.org/wiki/Pedagog%C3%ADa_en_el_anarquismo](https://es.wikipedia.org/wiki/Pedagog%C3%ADa_en_el_anarquismo)
 
-                * http://thesaker.is/
+                * [thesaker.is/](http://thesaker.is/)
 
 
         David Harvey: The Persistence of Neoliberalism Despite its Loss of Legitimacy (1/2)
@@ -9041,7 +9041,7 @@ Groteske Aufklärung
 
         Wat voor soort kapitalisme willen we?
 
-                * http://davidharvey.org/
+                * [davidharvey.org/](http://davidharvey.org/)
 
 
         Yes, well a great-grandson, and also he interned for the CIA. I'm one who happens to be very aware of CIA infiltration of the media through what they call Operation Mockingbird- but I'm not convinced that Anderson Cooper once carrying water for the CIA really means anything, in lieu of other evidence.
@@ -9052,7 +9052,7 @@ Groteske Aufklärung
 
         * [Entretien avec Aurélien Barrau sur la "fin du monde" annoncée - YouTube](https://www.youtube.com/watch?v=dfZT898ZClA)
 
-                * https://panamapapers.sueddeutsche.de/articles/56fe71aaa1bb8d3c3495ac71/
+                * [panamapapers.sueddeutsche.de/articles/56fe71aaa1bb8d3c3495ac71/](https://panamapapers.sueddeutsche.de/articles/56fe71aaa1bb8d3c3495ac71/)
 
 
         * [A Changing North Korea - Liberty in North Korea](https://www.libertyinnorthkorea.org/learn-a-changing-north-korea/)
@@ -9066,7 +9066,7 @@ Groteske Aufklärung
         * [Défendre les forêts et leur monde - YouTube](https://www.youtube.com/watch?v=KJLzAKVl4y8)
 
 
-        * [États-Unis : le drame du salaire minimum | Contrepoints](https://www.contrepoints.org/2018/04/21/314494-etats-unis-le-drame-du-salaire-minimum?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Contrepoints+%28Contrepoints%29)
+        * [États-Unis : le drame du salaire minimum | Contrepoints](https://www.contrepoints.org/2018/04/21/314494-etats-unis-le-drame-du-salaire-minimum)
 
 
         * [Le capitalisme mérite-t-il une bonne correction ? (4/4) - Ce soir (ou jamais!) - 17/04/2015 - YouTube](https://www.youtube.com/watch?v=3PHr1FEqdhw)
@@ -9131,7 +9131,7 @@ Groteske Aufklärung
 
         * [ЯтакДУМАЮ | Звезды, Эксперты, Факты. Нашими экспертами становятся известные медийные лица и российские звезды. У каждого из них есть собств](http://yatakdumayu.ru/)
 
-                * https://openmindplatform.org/
+                * [openmindplatform.org/](https://openmindplatform.org/)
 
 
         * [Fox News: Tucker Carlson Takes a Beating Trying To Bully Writer Who Criticized Ivanka &amp; Donald Trump - YouTube](https://www.youtube.com/watch?v=nd4JyJXZOFE)
@@ -9154,7 +9154,7 @@ Groteske Aufklärung
 
         * [Who believes in me? The effect of student–teacher demographic match on teacher expectations](http://www.sciencedirect.com/science/article/pii/S0272775715300959)
 
-                * https://fr.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan
+                * [fr.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan](https://fr.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan)
 
 
         Matteo Renzi
@@ -9243,23 +9243,23 @@ Groteske Aufklärung
 
         Jimmy Dore
 
-                * http://www.theatlantic.com/business/archive/2016/04/kids-poverty-baltimore/476808/
+                * [theatlantic.com/business/archive/2016/04/kids-poverty-baltimore/476808/](http://www.theatlantic.com/business/archive/2016/04/kids-poverty-baltimore/476808/)
 
 
         * [We need to talk about Candace Owens' problem with George Floyd — and everybody like George Floyd](https://www.independent.co.uk/voices/candace-owens-george-floyd-gofundme-crimes-prison-uncle-tom-trump-a9558791.html)
 
-                * http://human-stupidity.com/
+                * [human-stupidity.com/](http://human-stupidity.com/)
 
-                * http://humanevents.com/2013/04/25/liberalism-and-islam/
+                * [humanevents.com/2013/04/25/liberalism-and-islam/](http://humanevents.com/2013/04/25/liberalism-and-islam/)
 
-                * https://es.wikipedia.org/wiki/Paleoconservadurismo
+                * [es.wikipedia.org/wiki/Paleoconservadurismo](https://es.wikipedia.org/wiki/Paleoconservadurismo)
 
-                * https://altrightorigins.com/
+                * [altrightorigins.com/](https://altrightorigins.com/)
 
 
         * [The Science Of Racism - YouTube](https://www.youtube.com/watch?v=o8GoIfvnurY)
 
-                * http://www.theatlantic.com/politics/archive/2016/04/concept-creep/477939/
+                * [theatlantic.com/politics/archive/2016/04/concept-creep/477939/](http://www.theatlantic.com/politics/archive/2016/04/concept-creep/477939/)
 
 
         * [Yes, Women of Color Support Bernie Sanders. It’s Time to Stop Erasing Our Voices.](https://www.reddit.com/r/politics/comments/dus7yq/yes_women_of_color_support_bernie_sanders_its/)
@@ -9392,7 +9392,7 @@ Groteske Aufklärung
         * [Alessandro Barbero e la verità sul patto Molotov-Ribbentrop](https://www.reddit.com/r/Italia/comments/ef4gd9/alessandro_barbero_e_la_verit%C3%A0_sul_patto/)
 
 
-        * [All the Disturbing Parallels Between Radical Islam and White Nationalism - The Bulwark](https://www.reddit.com/r/Christianity/comments/cmmt1y/all_the_disturbing_parallels_between_radical/?utm_source=share&utm_medium=ios_app)
+        * [All the Disturbing Parallels Between Radical Islam and White Nationalism - The Bulwark](https://www.reddit.com/r/Christianity/comments/cmmt1y/all_the_disturbing_parallels_between_radical/)
 
 
         * [Amenazas de muerte a 'Charlie Hebdo' por una portada contra Tariq Ramadan - Libertad Digital](http://www.libertaddigital.com/internacional/europa/2017-11-06/amenazas-de-muerte-a-charlie-hebdo-por-una-portada-contra-tariq-ramadan-1276608636/)
@@ -9401,10 +9401,10 @@ Groteske Aufklärung
         * [America’s not a force for good: The truth about our most enduring — and harmful — national myth - Salon.com](https://www.salon.com/2015/03/29/americas_not_a_force_for_good_the_truth_about_our_most_enduring_and_harmful_national_myth/)
 
 
-        * [America's Freedom Image Problem | Intercollegiate Studies Institute: Educating for Liberty](https://home.isi.org/narrative-freedom?utm_source=Intercollegiate+Studies+Institute+Subscribers&utm_campaign=17c583a79d-Thursday+Review+July+12&utm_medium=email&utm_term=0_3ab42370fb-17c583a79d-93402221&goal=0_3ab42370fb-17c583a79d-93402221)
+        * [America's Freedom Image Problem | Intercollegiate Studies Institute: Educating for Liberty](https://home.isi.org/narrative-freedom)
 
 
-        * [American Civil Religion](https://en.m.wikipedia.org/wiki/American_civil_religion?utm_source=share&utm_medium=ios_app)
+        * [American Civil Religion](https://en.m.wikipedia.org/wiki/American_civil_religion)
 
 
         * [Analytic thinking undermines religious belief while intelligence undermines social conservatism recent study finds](http://www.psypost.org/2017/09/analytic-thinking-undermines-religious-belief-intelligence-undermines-social-conservatism-study-suggests-49655)
@@ -9524,7 +9524,7 @@ Groteske Aufklärung
         How did SOUTH KOREA become so RICH? - VisualPolitik ENde VisualPolitik EN
 
 
-        * [How Right Is the Left?](https://www.reddit.com/r/ukraine/comments/cn61o3/how_right_is_the_left/?utm_source=share&utm_medium=ios_app)
+        * [How Right Is the Left?](https://www.reddit.com/r/ukraine/comments/cn61o3/how_right_is_the_left/)
 
 
         * [How to Resist Trump’s “Toxic To-Do List”](https://www.ineteconomics.org/perspectives/videos/resist-trumps-toxic-to-do-list)
@@ -9532,19 +9532,19 @@ Groteske Aufklärung
 
         * [How Trump's foreign policy is making Russian fascism great again - U.S. News - Haaretz.com](https://www.haaretz.com/us-news/.premium-how-trump-s-foreign-policy-is-making-russian-fascism-great-again-1.6167199)
 
-                * http://aline.dedieguez.pagesperso-orange.fr/tstmagic/1024/tstmagic/decodage/hypocrisie_politique.htm
+                * [aline.dedieguez.pagesperso-orange.fr/tstmagic/1024/tstmagic/decodage/hypocrisie_politique.htm](http://aline.dedieguez.pagesperso-orange.fr/tstmagic/1024/tstmagic/decodage/hypocrisie_politique.htm)
 
-                * http://articles.latimes.com/1985-02-10/news/vw-3776_1_speech
+                * [articles.latimes.com/1985-02-10/news/vw-3776_1_speech](http://articles.latimes.com/1985-02-10/news/vw-3776_1_speech)
 
-                * http://behindthenumbers.ca/2016/10/11/proportional-representation-likely-produce-better-public-policy/
+                * [behindthenumbers.ca/2016/10/11/proportional-representation-likely-produce-better-public-policy/](http://behindthenumbers.ca/2016/10/11/proportional-representation-likely-produce-better-public-policy/)
 
-                * http://bleedingheartlibertarians.com/2013/12/will-private-charity-be-enough/
+                * [bleedingheartlibertarians.com/2013/12/will-private-charity-be-enough/](http://bleedingheartlibertarians.com/2013/12/will-private-charity-be-enough/)
 
-                * http://blog.acton.org/archives/71519-can-private-charity-replace-safety-net.html
+                * [blog.acton.org/archives/71519-can-private-charity-replace-safety-net.html](http://blog.acton.org/archives/71519-can-private-charity-replace-safety-net.html)
 
-                * http://blogs.edweek.org/edweek/campaign-k-12/2016/02/where_do_presidential_candidat.html
+                * [blogs.edweek.org/edweek/campaign-k-12/2016/02/where_do_presidential_candidat.html](http://blogs.edweek.org/edweek/campaign-k-12/2016/02/where_do_presidential_candidat.html)
 
-                * http://cicero.de/salon/cicerorangliste-2016-martin-walser-ist-der-wichtigste-intellektuelle
+                * [cicero.de/salon/cicerorangliste-2016-martin-walser-ist-der-wichtigste-intellektuelle](http://cicero.de/salon/cicerorangliste-2016-martin-walser-ist-der-wichtigste-intellektuelle)
 
 
         * [Giridharadas: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/g/Giridharadas)
@@ -9573,27 +9573,27 @@ Groteske Aufklärung
 
         * [Joseph McMurray publications](https://economics.byu.edu/directory/joseph-c-mcmurray)
 
-                * https://www.youtube.com/watch?v=sVpZYqcFwVs&t=13s
+                * [](https://www.youtube.com/watch?v=sVpZYqcFwVs&t=13s)
 
-                * https://www.dw.com/pt-br/esquerda-vence-elei%C3%A7%C3%A3o-na-finl%C3%A2ndia/a-48323883?fbclid=IwAR1tud-K6fQ1BFPV7NwgaEwdwBgoS8ZCX8tVZeOHGNRL37SYYu1jLKc9M4M
+                * [dw.com/pt-br/esquerda-vence-elei%C3%A7%C3%A3o-na-finl%C3%A2ndia/a-48323883?fbclid=IwAR1tud-K6fQ1BFPV7NwgaEwdwBgoS8ZCX8tVZeOHGNRL37SYYu1jLKc9M4M](https://www.dw.com/pt-br/esquerda-vence-elei%C3%A7%C3%A3o-na-finl%C3%A2ndia/a-48323883?fbclid=IwAR1tud-K6fQ1BFPV7NwgaEwdwBgoS8ZCX8tVZeOHGNRL37SYYu1jLKc9M4M)
 
-                * https://www.theguardian.com/books/2016/sep/09/isis-global-civilisation-google-yuval-noah-harari
+                * [theguardian.com/books/2016/sep/09/isis-global-civilisation-google-yuval-noah-harari](https://www.theguardian.com/books/2016/sep/09/isis-global-civilisation-google-yuval-noah-harari)
 
-                * https://medium.com/rebel-wisdom/the-peterson-synthesis-criticism-and-completion-cf3595518ced
+                * [medium.com/rebel-wisdom/the-peterson-synthesis-criticism-and-completion-cf3595518ced](https://medium.com/rebel-wisdom/the-peterson-synthesis-criticism-and-completion-cf3595518ced)
 
-                * https://www.youtube.com/watch?v=BjqGoMxMqkw
+                * [](https://www.youtube.com/watch?v=BjqGoMxMqkw)
 
-                * https://angliya.com/2019/04/10/nhs-rozhdenie-legendi/?utm_source=newsletter&utm_medium=marketing@angliya.com&utm_campaign=v_svezhem_vypuske_anglii_v_londone_vveli_zonu_ulez_nashi_sygrayut_c_britancami_v_hokkey_nhs_rozhdenie_legendy_luchshie_aprelskie_vystavki_zhizn_i_rabota_v_portsmute_recept_pashalnogo_kulicha_iz_kartofelya&utm_term=2019-04-11
+                * [angliya.com/2019/04/10/nhs-rozhdenie-legendi/](https://angliya.com/2019/04/10/nhs-rozhdenie-legendi/)
 
-                * https://fivethirtyeight.com/features/a-tale-of-two-suburbs/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits
+                * [fivethirtyeight.com/features/a-tale-of-two-suburbs/](https://fivethirtyeight.com/features/a-tale-of-two-suburbs/)
 
-                * https://righteousmind.com/rape-pregnancy-and-moral-coherence/
+                * [righteousmind.com/rape-pregnancy-and-moral-coherence/](https://righteousmind.com/rape-pregnancy-and-moral-coherence/)
 
-                * http://litopys.org.ua/
+                * [litopys.org.ua/](http://litopys.org.ua/)
 
-                * https://www.contioutra.com/o-pai-que-cuida-do-filho-nao-ajuda-apenas-exerce-a-paternidade/?fbclid=IwAR3Y42vQHjAk5pZ2At_84yVblcdNHYmd5WklPm3LsFufMFNiGWEUsfX0ghM
+                * [contioutra.com/o-pai-que-cuida-do-filho-nao-ajuda-apenas-exerce-a-paternidade/?fbclid=IwAR3Y42vQHjAk5pZ2At_84yVblcdNHYmd5WklPm3LsFufMFNiGWEUsfX0ghM](https://www.contioutra.com/o-pai-que-cuida-do-filho-nao-ajuda-apenas-exerce-a-paternidade/?fbclid=IwAR3Y42vQHjAk5pZ2At_84yVblcdNHYmd5WklPm3LsFufMFNiGWEUsfX0ghM)
 
-                * https://www.ilsole24ore.com/notizie/attualita.shtml?refresh_ce
+                * [ilsole24ore.com/notizie/attualita.shtml?refresh_ce](https://www.ilsole24ore.com/notizie/attualita.shtml?refresh_ce)
 
 
         * [Andrew Sullivan: America’s New Religions](http://nymag.com/intelligencer/2018/12/andrew-sullivan-americas-new-religions.html?fbclid=IwAR3IyQDeDJh2QW62eT5v7ClXoeG23uzKxYfbOqWxdwWFuO34JyOhUHtmf8E)
@@ -9626,7 +9626,7 @@ Groteske Aufklärung
         * [malatesta libri](https://b-ok.cc/s/malatesta/?language=italian%20%20%20Inviato%20da%20iPhone)
 
 
-        * [Fascism And Its Mobilizing Passions](https://www.reddit.com/r/AntifascistsofReddit/comments/di3q0l/fascism_and_its_mobilizing_passions/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+        * [Fascism And Its Mobilizing Passions](https://www.reddit.com/r/AntifascistsofReddit/comments/di3q0l/fascism_and_its_mobilizing_passions/)
 
 
         * [Race and Guns](https://youtu.be/wXFtH3v2epI)
@@ -9649,11 +9649,11 @@ Groteske Aufklärung
 
         most influential critics of capitalism
 
-                * https://en.wikipedia.org/wiki/List_of_liberal_theorists#Robert_Nozick
+                * [en.wikipedia.org/wiki/List_of_liberal_theorists#Robert_Nozick](https://en.wikipedia.org/wiki/List_of_liberal_theorists#Robert_Nozick)
 
 
     - Reading (8)
-                * https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%85%D0%BE%D1%80%D0%BE%D0%B2,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%87
+                * [ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%85%D0%BE%D1%80%D0%BE%D0%B2,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%87](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%85%D0%BE%D1%80%D0%BE%D0%B2,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%87)
 
 
         * [Physician Burnout](https://www.reddit.com/r/science/comments/986alk/in_just_three_years_physician_burnout_increased/)
@@ -9664,23 +9664,23 @@ Groteske Aufklärung
 
         * [Geopolitics of Germany - YouTube](https://www.youtube.com/watch?v=NNUriy9bq-E)
 
-                * https://en.wikipedia.org/wiki/Wendell_Berry
+                * [en.wikipedia.org/wiki/Wendell_Berry](https://en.wikipedia.org/wiki/Wendell_Berry)
 
-                * http://www.ontheissues.org/Celeb/Cato_Institute_Abortion.htm
+                * [ontheissues.org/Celeb/Cato_Institute_Abortion.htm](http://www.ontheissues.org/Celeb/Cato_Institute_Abortion.htm)
 
-                * https://rationalwiki.org/wiki/Hbomberguy
+                * [rationalwiki.org/wiki/Hbomberguy](https://rationalwiki.org/wiki/Hbomberguy)
 
-                * https://www.reddit.com/r/MurderedByWords/comments/bjvsiw/murdered_patriarchy_the_hijab_and_islam_all_in/
+                * [r/MurderedByWords/comments/bjvsiw/murdered_patriarchy_the_hijab_and_islam_all_in/](https://www.reddit.com/r/MurderedByWords/comments/bjvsiw/murdered_patriarchy_the_hijab_and_islam_all_in/)
 
-                * https://www.obreiros.com/mensagem/981-conte-me-mais-sobre-a-igreja?start=1
+                * [obreiros.com/mensagem/981-conte-me-mais-sobre-a-igreja?start=1](https://www.obreiros.com/mensagem/981-conte-me-mais-sobre-a-igreja?start=1)
 
-                * https://docs.wixstatic.com/ugd/ec84ca_3c1f0368f36a4bf087b3f68966580161.pdf
+                * [docs.wixstatic.com/ugd/ec84ca_3c1f0368f36a4bf087b3f68966580161.pdf](https://docs.wixstatic.com/ugd/ec84ca_3c1f0368f36a4bf087b3f68966580161.pdf)
 
-                * https://www.thenation.com/article/danny-sjursen-us-army-military-war-soldier-dissent/
+                * [thenation.com/article/danny-sjursen-us-army-military-war-soldier-dissent/](https://www.thenation.com/article/danny-sjursen-us-army-military-war-soldier-dissent/)
 
-                * http://www.tomdispatch.com/authors/dannysjursen
+                * [tomdispatch.com/authors/dannysjursen](http://www.tomdispatch.com/authors/dannysjursen)
 
-                * https://www.youtube.com/watch?v=oCdfXBD_z9o
+                * [](https://www.youtube.com/watch?v=oCdfXBD_z9o)
 
 
         * [le-commun.fr - Articles traduits](http://www.le-commun.fr/index.php?page=textes-traduits)
@@ -9866,7 +9866,7 @@ Groteske Aufklärung
 
         * [Religion and the European Union | NEP-LTV Blog](https://nepltv.wordpress.com/2018/05/17/religion-and-the-european-union-2/)
 
-                * http://www.ontheissues.org/celeb/Republican_Party_Abortion.htm
+                * [ontheissues.org/celeb/Republican_Party_Abortion.htm](http://www.ontheissues.org/celeb/Republican_Party_Abortion.htm)
 
 
         * [Robert P. George - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Robert_P._George)
@@ -9943,7 +9943,7 @@ Groteske Aufklärung
 
         * [Women and the Evolution of World Politics on JSTOR](http://www.jstor.org/stable/20049048?seq=1#page_scan_tab_contents)
 
-                * http://www.bu.edu/law/files/2016/01/EllisPaper.pdf
+                * [bu.edu/law/files/2016/01/EllisPaper.pdf](http://www.bu.edu/law/files/2016/01/EllisPaper.pdf)
 
 
         * [Al di là del Buco](https://abbattoimuri.wordpress.com/)
@@ -9966,55 +9966,55 @@ Groteske Aufklärung
 
         * [Denmark meme](https://www.facebook.com/photo.php?fbid=10205772246256452&set=a.1997597270659.2097379.1565312346&type=3&theater)
 
-                * http://quillette.com/2017/08/13/scott-adams-donald-trump-ethics-persuasion/
+                * [quillette.com/2017/08/13/scott-adams-donald-trump-ethics-persuasion/](http://quillette.com/2017/08/13/scott-adams-donald-trump-ethics-persuasion/)
 
 
         * [Ben Shapiro critique](http://scienceblogs.com/dispatches/2006/02/21/robert-obrien-trophy-winner-be/)
 
-                * https://www.nytimes.com/2016/05/08/opinion/sunday/a-confession-of-liberal-intolerance.html
+                * [nytimes.com/2016/05/08/opinion/sunday/a-confession-of-liberal-intolerance.html](https://www.nytimes.com/2016/05/08/opinion/sunday/a-confession-of-liberal-intolerance.html)
 
 
         * [On the Tax Plan](https://www.facebook.com/senatorsanders/videos/10156476202942908/)
 
-                * http://reports.weforum.org/human-capital-report-2015/rankings/
+                * [reports.weforum.org/human-capital-report-2015/rankings/](http://reports.weforum.org/human-capital-report-2015/rankings/)
 
-                * https://ironline.american.edu/understanding-the-human-capital-index-infographic/
+                * [ironline.american.edu/understanding-the-human-capital-index-infographic/](https://ironline.american.edu/understanding-the-human-capital-index-infographic/)
 
-                * http://widgets.weforum.org/human-capital-2015/
+                * [widgets.weforum.org/human-capital-2015/](http://widgets.weforum.org/human-capital-2015/)
 
 
         Éducation adulte
 
-                * http://erwachsenenbildung.at/themen/eb_in_oesterreich/daten_und_fakten/datenfakten_ueberblick.php
+                * [erwachsenenbildung.at/themen/eb_in_oesterreich/daten_und_fakten/datenfakten_ueberblick.php](http://erwachsenenbildung.at/themen/eb_in_oesterreich/daten_und_fakten/datenfakten_ueberblick.php)
 
-                * http://www.adulteducation.at/de/literatur/
+                * [adulteducation.at/de/literatur/](http://www.adulteducation.at/de/literatur/)
 
-                * http://files.adulteducation.at/forschungsnetzwerk/48-Erwachsenenbildungsforschung_Ergebnisse%20Replikationsstudie%202015_PPP-1.pdf
+                * [files.adulteducation.at/forschungsnetzwerk/48-Erwachsenenbildungsforschung_Ergebnisse%20Replikationsstudie%202015_PPP-1.pdf](http://files.adulteducation.at/forschungsnetzwerk/48-Erwachsenenbildungsforschung_Ergebnisse%20Replikationsstudie%202015_PPP-1.pdf)
 
-                * http://erwachsenenbildung.at/magazin/16-28/06_wrentschur.pdf
+                * [erwachsenenbildung.at/magazin/16-28/06_wrentschur.pdf](http://erwachsenenbildung.at/magazin/16-28/06_wrentschur.pdf)
 
-                * http://erwachsenenbildung.at/
+                * [erwachsenenbildung.at/](http://erwachsenenbildung.at/)
 
 
         Video on learning a language in 6 months (Left off around 4:30)
 
-                * https://www.youtube.com/watch?v=d0yGdNEWdn0&list=UUsT0YIqwnpJCM-mx7-gSA4Q
+                * [](https://www.youtube.com/watch?v=d0yGdNEWdn0&list=UUsT0YIqwnpJCM-mx7-gSA4Q)
 
 
         Journal of Educational Psychology
 
 
-        * [Purposes of Education, by Euridyce: https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/Publications:Focus_on:_The_purposes_of_education](https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/Publications:Focus_on:_The_purposes_of_education)
+        * [Purposes of Education, by Euridyce: [webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/Publications:Focus_on:_The_purposes_of_education](https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/Publications:Focus_on:_The_purposes_of_education)](https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/Publications:Focus_on:_The_purposes_of_education](https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/Publications:Focus_on:_The_purposes_of_education))
 
-                * https://es.wikipedia.org/wiki/Ciencias_de_la_educaci%C3%B3n
+                * [es.wikipedia.org/wiki/Ciencias_de_la_educaci%C3%B3n](https://es.wikipedia.org/wiki/Ciencias_de_la_educaci%C3%B3n)
 
-                * https://es.wikipedia.org/wiki/Educaci%C3%B3n
+                * [es.wikipedia.org/wiki/Educaci%C3%B3n](https://es.wikipedia.org/wiki/Educaci%C3%B3n)
 
-                * https://es.wikipedia.org/wiki/Did%C3%A1ctica
+                * [es.wikipedia.org/wiki/Did%C3%A1ctica](https://es.wikipedia.org/wiki/Did%C3%A1ctica)
 
-                * https://michaelhoganpsychology.files.wordpress.com/2015/08/an-integrated-critical-thinking-framework-for-the-21st-century.pdf
+                * [michaelhoganpsychology.files.wordpress.com/2015/08/an-integrated-critical-thinking-framework-for-the-21st-century.pdf](https://michaelhoganpsychology.files.wordpress.com/2015/08/an-integrated-critical-thinking-framework-for-the-21st-century.pdf)
 
-                * http://ctl.byu.edu/node
+                * [ctl.byu.edu/node](http://ctl.byu.edu/node)
 
 
         * [The Second Amendment was ratified to preserve slavery](https://www.rawstory.com/2018/02/second-amendment-ratified-preserve-slavery/amp/?__twitter_impression=true)
@@ -10061,7 +10061,7 @@ Groteske Aufklärung
 
         read Madison, compare Aristotle and democracy vs wealth
 
-                * https://www.graswurzel.net/gwr/
+                * [graswurzel.net/gwr/](https://www.graswurzel.net/gwr/)
 
 
         * [Quality Article](https://www.currentaffairs.org/2020/01/how-to-avoid-swallowing-war-propaganda)
@@ -10087,7 +10087,7 @@ Groteske Aufklärung
 
         ethics & outcomes of competition
 
-                * https://blog.feedspot.com/political_youtube_channels/
+                * [](https://blog.feedspot.com/political_youtube_channels/)
 
 
         disenchanted lives, marshall brooks
@@ -10161,7 +10161,7 @@ Groteske Aufklärung
 
         * [Підсумки 2019 року з Анною Мірошниченко](https://youtu.be/SYYCuqn31iY)
 
-                * https://es.wikipedia.org/wiki/Categor%C3%ADa:Polit%C3%B3logos_de_Francia
+                * [es.wikipedia.org/wiki/Categor%C3%ADa:Polit%C3%B3logos_de_Francia](https://es.wikipedia.org/wiki/Categor%C3%ADa:Polit%C3%B3logos_de_Francia)
 
 
         * [Познер - Гость Иван Ургант. Выпуск от 15.05.2017](https://www.youtube.com/watch?v=LT_CFXopnnE)
@@ -10203,7 +10203,7 @@ Groteske Aufklärung
         * [Vladimir Putin presidente della Russia al potere - Limes](https://www.limesonline.com/russia-putin-venti-anni-potere-presidente/115890?fbclid=IwAR3EpDO5IIah4wMBNP-N-uaxt_407YCAwaXCWM_79FvtcR3O7Z5YWSdEPrs)
 
 
-        * [NJR AMA](https://www.reddit.com/r/IAmA/comments/g35hri/i_am_nathan_j_robinson_founder_and_editor_of_the/?utm_source=share&utm_medium=web2x)
+        * [NJR AMA](https://www.reddit.com/r/IAmA/comments/g35hri/i_am_nathan_j_robinson_founder_and_editor_of_the/)
 
 
     - Reading (9)
@@ -10217,10 +10217,10 @@ Groteske Aufklärung
         * [The American Police State is Out of Control: a Message to my White Friends and Family](https://medium.com/@emericanjohnson/the-american-police-state-is-out-of-control-a-message-to-my-white-friends-and-family-663a386eb793)
 
 
-        * [A Short History of U.S. Law Enforcement Infiltrating Protests](https://theintercept.com/2020/06/02/history-united-states-government-infiltration-protests/?utm_source=twitter&utm_medium=social&utm_campaign=theintercept)
+        * [A Short History of U.S. Law Enforcement Infiltrating Protests](https://theintercept.com/2020/06/02/history-united-states-government-infiltration-protests/)
 
 
-        * [Far right police infiltration](https://www.reddit.com/r/politics/comments/hu50ep/leaked_documents_show_police_knew_farright/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+        * [Far right police infiltration](https://www.reddit.com/r/politics/comments/hu50ep/leaked_documents_show_police_knew_farright/)
 
 
         * [GitHub - TheEconomist/us-potus-model: Code for a dynamic multilevel Bayesian model to predict US presidential elections. Written in R and Stan.](https://github.com/TheEconomist/us-potus-model)
@@ -10518,7 +10518,7 @@ Groteske Aufklärung
 
 
         * [The Anarchy of Power | A E S T H E T I C I D E](https://aestheticide.com/2020/06/07/the-anarchy-of-power/?fbclid=IwAR2uhHkvogyDF5jRDBrY5GinyjhxK_ErwgT5_e1vsCrfAjZBQmVAwiprURc)
-                        - [**https://www.bradford-delong.com/2018/12/frank-wilhoit-the-travesty-of-liberalism.html](https://www.bradford-delong.com/2018/12/frank-wilhoit-the-travesty-of-liberalism.html)
+                        - [**[bradford-delong.com/2018/12/frank-wilhoit-the-travesty-of-liberalism.html](https://www.bradford-delong.com/2018/12/frank-wilhoit-the-travesty-of-liberalism.html)](https://www.bradford-delong.com/2018/12/frank-wilhoit-the-travesty-of-liberalism.html](https://www.bradford-delong.com/2018/12/frank-wilhoit-the-travesty-of-liberalism.html))
 
 
         * [The entheogenic origins of Mormonism: A working hypothesis](https://www.researchgate.net/publication/336883289_The_entheogenic_origins_of_Mormonism_A_working_hypothesis)
@@ -10611,7 +10611,7 @@ Groteske Aufklärung
         * [Communities of Violence : Persecution of Minorities in the Middle Ages | David Nirenberg | download](https://b-ok.cc/book/2864131/1b914c)
 
 
-        * [5 Must-Read Finance Books](https://www.investopedia.com/financial-edge/1210/5-must-read-finance-books.aspx?utm_source=personalized&utm_campaign=bouncex&utm_term=20003678&utm_medium=email)
+        * [5 Must-Read Finance Books](https://www.investopedia.com/financial-edge/1210/5-must-read-finance-books.aspx)
 
 
         * [Social Movements Against Racist Police Brutality and Department of Justice Intervention in Prince George’s County, Maryland](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4824689/?fbclid=IwAR3o0WLJc0ras4gywAW7OYbVMD1VRTKnWvmT9cfTXJh0hYO7WUBbPNt9RmI)
@@ -10759,80 +10759,80 @@ Groteske Aufklärung
 
         * [Cancel Culture Isn't A Thing, You Snowflakes - Some More News - YouTube](https://www.youtube.com/watch?v=szybEhqUmVI)
 
-                * https://infokiosques.net/
+                * [infokiosques.net/](https://infokiosques.net/)
 
 
         política y asuntos sociales
 
-                * http://www.worldpoliticsreview.com/
+                * [worldpoliticsreview.com/](http://www.worldpoliticsreview.com/)
 
-                * http://www.e-ir.info/
+                * [e-ir.info/](http://www.e-ir.info/)
 
-                * https://danieljmitchell.wordpress.com/
+                * [danieljmitchell.wordpress.com/](https://danieljmitchell.wordpress.com/)
 
-                * http://www.geopoliticalmonitor.com/
+                * [geopoliticalmonitor.com/](http://www.geopoliticalmonitor.com/)
 
-                * https://future-and-politics.org/
+                * [future-and-politics.org/](https://future-and-politics.org/)
 
-                * http://www.hoover.org/publications/policy-review
+                * [hoover.org/publications/policy-review](http://www.hoover.org/publications/policy-review)
 
-                * https://www.foreignaffairs.com/
+                * [foreignaffairs.com/](https://www.foreignaffairs.com/)
 
-                * http://foreignpolicy.com/
+                * [foreignpolicy.com/](http://foreignpolicy.com/)
 
-                * http://hir.harvard.edu/
+                * [hir.harvard.edu/](http://hir.harvard.edu/)
 
-                * https://www.govtrack.us/
+                * [govtrack.us/](https://www.govtrack.us/)
 
-                * https://wikileaks.org/
+                * [wikileaks.org/](https://wikileaks.org/)
 
-                * http://www.shabka.org/
+                * [shabka.org/](http://www.shabka.org/)
 
-                * http://gotothinktank.com/blog/
+                * [gotothinktank.com/blog/](http://gotothinktank.com/blog/)
 
-                * http://gotothinktank.com/regional-and-global-think-tank-summits/
+                * [gotothinktank.com/regional-and-global-think-tank-summits/](http://gotothinktank.com/regional-and-global-think-tank-summits/)
 
-                * http://epthinktank.eu/
+                * [epthinktank.eu/](http://epthinktank.eu/)
 
-                * http://contextointernacional.iri.puc-rio.br/cgi/cgilua.exe/sys/start.htm?tpl=home
+                * [contextointernacional.iri.puc-rio.br/cgi/cgilua.exe/sys/start.htm?tpl=home](http://contextointernacional.iri.puc-rio.br/cgi/cgilua.exe/sys/start.htm?tpl=home)
 
-                * http://www.bpb.de/
+                * [bpb.de/](http://www.bpb.de/)
 
-                * http://www.bpb.de/politik/grundfragen/parteien-in-deutschland/
+                * [bpb.de/politik/grundfragen/parteien-in-deutschland/](http://www.bpb.de/politik/grundfragen/parteien-in-deutschland/)
 
-                * http://www.eurotopics.net/de/home/presseschau/aktuell.html
+                * [eurotopics.net/de/home/presseschau/aktuell.html](http://www.eurotopics.net/de/home/presseschau/aktuell.html)
 
-                * https://bretterblog.wordpress.com/
+                * [bretterblog.wordpress.com/](https://bretterblog.wordpress.com/)
 
-                * https://www.hanisauland.de/
+                * [hanisauland.de/](https://www.hanisauland.de/)
 
-                * http://www.sicherheitspolitik-blog.de/
+                * [sicherheitspolitik-blog.de/](http://www.sicherheitspolitik-blog.de/)
 
-                * https://sozialebewegungen.wordpress.com/
+                * [sozialebewegungen.wordpress.com/](https://sozialebewegungen.wordpress.com/)
 
-                * http://www.uceps.org/ukr/direction.php?news_id=13
+                * [uceps.org/ukr/direction.php?news_id=13](http://www.uceps.org/ukr/direction.php?news_id=13)
 
-                * http://www.problecon.com/main/
+                * [problecon.com/main/](http://www.problecon.com/main/)
 
-                * http://www.lepoint.fr/politique/
+                * [lepoint.fr/politique/](http://www.lepoint.fr/politique/)
 
-                * http://culturedepaix.blogspot.com/
+                * [culturedepaix.blogspot.com/](http://culturedepaix.blogspot.com/)
 
-                * http://politique-etrangere.com/tag/relations-internationales/
+                * [politique-etrangere.com/tag/relations-internationales/](http://politique-etrangere.com/tag/relations-internationales/)
 
-                * http://francislaloupo.com/tag/relations-internationales/
+                * [francislaloupo.com/tag/relations-internationales/](http://francislaloupo.com/tag/relations-internationales/)
 
-                * http://politique-etrangere.com/
+                * [politique-etrangere.com/](http://politique-etrangere.com/)
 
-                * http://www.relacionesinternacionales.info/ojs/index.html
+                * [relacionesinternacionales.info/ojs/index.html](http://www.relacionesinternacionales.info/ojs/index.html)
 
-                * http://www.reei.org/
+                * [reei.org/](http://www.reei.org/)
 
-                * http://www.limesonline.com/
+                * [limesonline.com/](http://www.limesonline.com/)
 
-                * http://www.lacropoli.it/index.php
+                * [lacropoli.it/index.php](http://www.lacropoli.it/index.php)
 
-                * https://centerojournal.ru/
+                * [centerojournal.ru/](https://centerojournal.ru/)
                         - [**Il capitalismo della sorveglianza | Shoshana Zuboff | download](https://b-ok.cc/book/5278069/6ab2e3)
                         - [**Das Zeitalter des Überwachungskapitalismus | Shoshana Zuboff | download](https://b-ok.cc/book/3623158/b356d4)
 
@@ -10842,205 +10842,205 @@ Groteske Aufklärung
 
         * [books on the political landscape](https://www.google.com/search?q=books+on+the+political+pandscape&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
 
-                * https://static.currentaffairs.org/2017/12/the-cool-kids-philosopher
+                * [static.currentaffairs.org/2017/12/the-cool-kids-philosopher](https://static.currentaffairs.org/2017/12/the-cool-kids-philosopher)
 
-                * https://www.currentaffairs.org/
+                * [currentaffairs.org/](https://www.currentaffairs.org/)
 
-                * https://es.wikipedia.org/wiki/RationalWiki
+                * [es.wikipedia.org/wiki/RationalWiki](https://es.wikipedia.org/wiki/RationalWiki)
 
-                * https://inosmi.ru/social/20190425/244997814.html
+                * [inosmi.ru/social/20190425/244997814.html](https://inosmi.ru/social/20190425/244997814.html)
 
 
     - Reading (10)
-                * https://vk.com/inosmi
+                * [vk.com/inosmi](https://vk.com/inosmi)
 
-                * https://inosmi.ru/photo/20190424/244989998_244989817.html
+                * [inosmi.ru/photo/20190424/244989998_244989817.html](https://inosmi.ru/photo/20190424/244989998_244989817.html)
 
-                * https://inosmi.ru/politic/20190424/244996267.html
+                * [inosmi.ru/politic/20190424/244996267.html](https://inosmi.ru/politic/20190424/244996267.html)
 
-                * https://capitanswing.com/
+                * [capitanswing.com/](https://capitanswing.com/)
 
-                * https://newrepublic.com/article/153261/foreign-policy-without-war-corporate-power
+                * [newrepublic.com/article/153261/foreign-policy-without-war-corporate-power](https://newrepublic.com/article/153261/foreign-policy-without-war-corporate-power)
 
-                * http://bostonreview.net/race/keeanga-yamahtta-taylor-succeeding-while-black
+                * [bostonreview.net/race/keeanga-yamahtta-taylor-succeeding-while-black](http://bostonreview.net/race/keeanga-yamahtta-taylor-succeeding-while-black)
 
-                * https://splinternews.com/the-dcccs-strategy-to-kill-primary-challenges-is-report-1833552543
+                * [splinternews.com/the-dcccs-strategy-to-kill-primary-challenges-is-report-1833552543](https://splinternews.com/the-dcccs-strategy-to-kill-primary-challenges-is-report-1833552543)
 
-                * https://eu.courier-journal.com/story/news/politics/2019/03/27/alexandria-ocasio-cortez-may-come-meet-kentucky-coal-miners-green-new-deal/3286074002/
+                * [eu.courier-journal.com/story/news/politics/2019/03/27/alexandria-ocasio-cortez-may-come-meet-kentucky-coal-miners-green-new-deal/3286074002/](https://eu.courier-journal.com/story/news/politics/2019/03/27/alexandria-ocasio-cortez-may-come-meet-kentucky-coal-miners-green-new-deal/3286074002/)
 
-                * https://balkin.blogspot.com/2019/05/the-disjunction-that-was-promised.html
+                * [balkin.blogspot.com/2019/05/the-disjunction-that-was-promised.html](https://balkin.blogspot.com/2019/05/the-disjunction-that-was-promised.html)
 
-                * https://leftanchor.podbean.com/e/episode-63-corey-robin-on-freedom-and-clarence-thomas/
+                * [leftanchor.podbean.com/e/episode-63-corey-robin-on-freedom-and-clarence-thomas/](https://leftanchor.podbean.com/e/episode-63-corey-robin-on-freedom-and-clarence-thomas/)
 
-                * https://www.newyorker.com/books/under-review/eric-hobsbawm-the-communist-who-explained-history
+                * [newyorker.com/books/under-review/eric-hobsbawm-the-communist-who-explained-history](https://www.newyorker.com/books/under-review/eric-hobsbawm-the-communist-who-explained-history)
 
-                * http://coreyrobin.com/cv/
+                * [coreyrobin.com/cv/](http://coreyrobin.com/cv/)
 
-                * https://de.wikipedia.org/wiki/Kapitalismus
+                * [de.wikipedia.org/wiki/Kapitalismus](https://de.wikipedia.org/wiki/Kapitalismus)
 
-                * https://de.wikipedia.org/wiki/Korporatismus
+                * [de.wikipedia.org/wiki/Korporatismus](https://de.wikipedia.org/wiki/Korporatismus)
 
-                * https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B5%D1%81%D1%82%D0%B0%D0%BD%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D1%82%D0%B8%D0%BA%D0%B0_%D0%B8_%D0%B4%D1%83%D1%85_%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC%D0%B0
+                * [ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B5%D1%81%D1%82%D0%B0%D0%BD%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D1%82%D0%B8%D0%BA%D0%B0_%D0%B8_%D0%B4%D1%83%D1%85_%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC%D0%B0](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B5%D1%81%D1%82%D0%B0%D0%BD%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D1%82%D0%B8%D0%BA%D0%B0_%D0%B8_%D0%B4%D1%83%D1%85_%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC%D0%B0)
 
-                * https://en.wikipedia.org/wiki/Foreign_policy_of_the_United_States
+                * [en.wikipedia.org/wiki/Foreign_policy_of_the_United_States](https://en.wikipedia.org/wiki/Foreign_policy_of_the_United_States)
 
-                * https://en.wikipedia.org/wiki/History_of_United_States_foreign_policy
+                * [en.wikipedia.org/wiki/History_of_United_States_foreign_policy](https://en.wikipedia.org/wiki/History_of_United_States_foreign_policy)
 
-                * https://fr.wikipedia.org/wiki/%C3%89tat_voyou
+                * [fr.wikipedia.org/wiki/%C3%89tat_voyou](https://fr.wikipedia.org/wiki/%C3%89tat_voyou)
 
-                * https://fr.wikipedia.org/wiki/Opinions_politiques_de_Noam_Chomsky
+                * [fr.wikipedia.org/wiki/Opinions_politiques_de_Noam_Chomsky](https://fr.wikipedia.org/wiki/Opinions_politiques_de_Noam_Chomsky)
 
-                * https://russia-direct.org/reviews/top-10-russian-media-any-kremlin-watcher-needs-know
+                * [russia-direct.org/reviews/top-10-russian-media-any-kremlin-watcher-needs-know](https://russia-direct.org/reviews/top-10-russian-media-any-kremlin-watcher-needs-know)
 
-                * https://en.wikipedia.org/wiki/Anwar_al-Awlaki
+                * [en.wikipedia.org/wiki/Anwar_al-Awlaki](https://en.wikipedia.org/wiki/Anwar_al-Awlaki)
 
-                * https://ru.wikipedia.org/wiki/%D0%90%D1%82%D1%82%D0%B0,_%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%BC%D0%B5%D0%B4
+                * [ru.wikipedia.org/wiki/%D0%90%D1%82%D1%82%D0%B0,_%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%BC%D0%B5%D0%B4](https://ru.wikipedia.org/wiki/%D0%90%D1%82%D1%82%D0%B0,_%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%BC%D0%B5%D0%B4)
 
-                * https://en.wikipedia.org/wiki/The_Origins_of_Totalitarianism#cite_note-15
+                * [en.wikipedia.org/wiki/The_Origins_of_Totalitarianism#cite_note-15](https://en.wikipedia.org/wiki/The_Origins_of_Totalitarianism#cite_note-15)
 
-                * https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D1%81%D1%81%D0%B5%D1%80%D0%BC%D0%B0%D0%BD,_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87
+                * [ru.wikipedia.org/wiki/%D0%92%D0%B0%D1%81%D1%81%D0%B5%D1%80%D0%BC%D0%B0%D0%BD,_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87](https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D1%81%D1%81%D0%B5%D1%80%D0%BC%D0%B0%D0%BD,_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87)
 
-                * https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%A1%D1%82%D0%B0%D0%BD%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87
+                * [ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%A1%D1%82%D0%B0%D0%BD%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87](https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%A1%D1%82%D0%B0%D0%BD%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87)
 
-                * https://de.wikipedia.org/wiki/J%C3%B6rg_Meuthen
+                * [de.wikipedia.org/wiki/J%C3%B6rg_Meuthen](https://de.wikipedia.org/wiki/J%C3%B6rg_Meuthen)
 
-                * http://evonomics.com/the-american-healthcare-system-shows-why-we-cant-trust-free-market-ideologues/?utm_source=newsletter_campaign%3Dorganic&fbclid=IwAR2u051MXQ5FDRGnb2T6C7v2e02hREzJRv1GNxlh5mjvozQM7JxPR7xwTuY
+                * [evonomics.com/the-american-healthcare-system-shows-why-we-cant-trust-free-market-ideologues/](http://evonomics.com/the-american-healthcare-system-shows-why-we-cant-trust-free-market-ideologues/)
 
-                * https://www.youtube.com/watch?v=WD8mWq0Hdcw
+                * [](https://www.youtube.com/watch?v=WD8mWq0Hdcw)
 
-                * https://oe1.orf.at/programm/20160315/425883
+                * [oe1.orf.at/programm/20160315/425883](https://oe1.orf.at/programm/20160315/425883)
 
-                * https://www.youtube.com/watch?v=xgw1hZDlHt0
+                * [](https://www.youtube.com/watch?v=xgw1hZDlHt0)
 
-                * https://www.youtube.com/watch?v=iJsTgVtdYHU
+                * [](https://www.youtube.com/watch?v=iJsTgVtdYHU)
 
-                * https://www.youtube.com/watch?v=tdkx3DWu_zI
+                * [](https://www.youtube.com/watch?v=tdkx3DWu_zI)
 
-                * https://www.youtube.com/watch?v=irLBDNiaTFY
+                * [](https://www.youtube.com/watch?v=irLBDNiaTFY)
 
-                * https://www.titanic-magazin.de/newsticker/
+                * [titanic-magazin.de/newsticker/](https://www.titanic-magazin.de/newsticker/)
 
-                * https://kontextschmiede.de/
+                * [kontextschmiede.de/](https://kontextschmiede.de/)
 
-                * https://de.wikipedia.org/wiki/Liste_deutschsprachiger_Literaturzeitschriften
+                * [de.wikipedia.org/wiki/Liste_deutschsprachiger_Literaturzeitschriften](https://de.wikipedia.org/wiki/Liste_deutschsprachiger_Literaturzeitschriften)
 
-                * https://www.bpb.de/politik/extremismus/rechtsextremismus/185063/braune-toene-elf-rechte-bands-im-ueberblick
+                * [bpb.de/politik/extremismus/rechtsextremismus/185063/braune-toene-elf-rechte-bands-im-ueberblick](https://www.bpb.de/politik/extremismus/rechtsextremismus/185063/braune-toene-elf-rechte-bands-im-ueberblick)
 
-                * https://www.buzzfeed.com/morganshanahan/pop-culture-references-all-responsible-parents-should-tea
+                * [buzzfeed.com/morganshanahan/pop-culture-references-all-responsible-parents-should-tea](https://www.buzzfeed.com/morganshanahan/pop-culture-references-all-responsible-parents-should-tea)
 
-                * https://www.deutschlandfunkkultur.de/europawahl-und-microtargeting-fuer-wahlkaempfer-sind-daten.1008.de.html?dram:article_id=447964
+                * [deutschlandfunkkultur.de/europawahl-und-microtargeting-fuer-wahlkaempfer-sind-daten.1008.de.html?dram:article_id=447964](https://www.deutschlandfunkkultur.de/europawahl-und-microtargeting-fuer-wahlkaempfer-sind-daten.1008.de.html?dram:article_id=447964)
 
-                * https://www.deutschlandfunkkultur.de/thueringer-afd-hitler-gedenken-sorgt-fuer-aufregung.1008.de.html?dram:article_id=430719
+                * [deutschlandfunkkultur.de/thueringer-afd-hitler-gedenken-sorgt-fuer-aufregung.1008.de.html?dram:article_id=430719](https://www.deutschlandfunkkultur.de/thueringer-afd-hitler-gedenken-sorgt-fuer-aufregung.1008.de.html?dram:article_id=430719)
 
-                * https://www.youtube.com/watch?v=7mOUWYXjR6M&list=PLdGzyrCItloQ9Mla6uLJ7zftmqyENRlK0&index=11&t=0s
+                * [](https://www.youtube.com/watch?v=7mOUWYXjR6M&list=PLdGzyrCItloQ9Mla6uLJ7zftmqyENRlK0&index=11&t=0s)
 
-                * https://www.google.com/search?q=rebecca+solnit&rlz=1C1GCEA_enUS846US847&oq=rebecca+solnit&aqs=chrome..69i57j0l5.2864j0j7&sourceid=chrome&ie=UTF-8
+                * [google.com/search?q=rebecca+solnit&rlz=1C1GCEA_enUS846US847&oq=rebecca+solnit&aqs=chrome..69i57j0l5.2864j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=rebecca+solnit&rlz=1C1GCEA_enUS846US847&oq=rebecca+solnit&aqs=chrome..69i57j0l5.2864j0j7&sourceid=chrome&ie=UTF-8)
 
-                * https://www.google.com/search?q=wendell+berry&rlz=1C1GCEA_enUS846US847&oq=wendell+berry&aqs=chrome..69i57j0l5.1919j0j7&sourceid=chrome&ie=UTF-8
+                * [google.com/search?q=wendell+berry&rlz=1C1GCEA_enUS846US847&oq=wendell+berry&aqs=chrome..69i57j0l5.1919j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=wendell+berry&rlz=1C1GCEA_enUS846US847&oq=wendell+berry&aqs=chrome..69i57j0l5.1919j0j7&sourceid=chrome&ie=UTF-8)
 
-                * http://courses.wcupa.edu/fletcher/special/murfinintro.htm
+                * [courses.wcupa.edu/fletcher/special/murfinintro.htm](http://courses.wcupa.edu/fletcher/special/murfinintro.htm)
 
-                * https://www.usask.ca/english/frank/cultint.htm
+                * [usask.ca/english/frank/cultint.htm](https://www.usask.ca/english/frank/cultint.htm)
 
-                * https://en.wikipedia.org/wiki/Criticism_of_advertising
+                * [en.wikipedia.org/wiki/Criticism_of_advertising](https://en.wikipedia.org/wiki/Criticism_of_advertising)
 
-                * https://www.thenation.com/subject/cultural-criticism-and-analysis/
+                * [thenation.com/subject/cultural-criticism-and-analysis/](https://www.thenation.com/subject/cultural-criticism-and-analysis/)
 
-                * https://www.thenation.com/article/sarah-moss-ghost-wall-novel-review/
+                * [thenation.com/article/sarah-moss-ghost-wall-novel-review/](https://www.thenation.com/article/sarah-moss-ghost-wall-novel-review/)
 
-                * http://www.tomdispatch.com/blog/176418/tomgram%3A_danny_sjursen%2C_hail%2C_%28donald%29_caesar%21
+                * [tomdispatch.com/blog/176418/tomgram%3A_danny_sjursen%2C_hail%2C_%28donald%29_caesar%21](http://www.tomdispatch.com/blog/176418/tomgram%3A_danny_sjursen%2C_hail%2C_%28donald%29_caesar%21)
 
-                * https://en.wikipedia.org/wiki/Austria%E2%80%93Russia_relations
+                * [en.wikipedia.org/wiki/Austria%E2%80%93Russia_relations](https://en.wikipedia.org/wiki/Austria%E2%80%93Russia_relations)
 
-                * https://en.wikipedia.org/wiki/All_England_Lawn_Tennis_and_Croquet_Club
+                * [en.wikipedia.org/wiki/All_England_Lawn_Tennis_and_Croquet_Club](https://en.wikipedia.org/wiki/All_England_Lawn_Tennis_and_Croquet_Club)
 
-                * https://www.der-postillon.com/
+                * [der-postillon.com/](https://www.der-postillon.com/)
 
-                * https://www.nzz.ch/international/deutschland/kriminelle-clans-was-der-staat-tut-und-was-wirklich-helfen-wuerde-ld.1472637
+                * [nzz.ch/international/deutschland/kriminelle-clans-was-der-staat-tut-und-was-wirklich-helfen-wuerde-ld.1472637](https://www.nzz.ch/international/deutschland/kriminelle-clans-was-der-staat-tut-und-was-wirklich-helfen-wuerde-ld.1472637)
 
-                * https://onlinelibrary.wiley.com/doi/pdf/10.1002/aps.43
+                * [onlinelibrary.wiley.com/doi/pdf/10.1002/aps.43](https://onlinelibrary.wiley.com/doi/pdf/10.1002/aps.43)
 
-                * https://culteducation.com/group/871-christian-identity/3692-prophets-of-the-apocalypse-white-supremacy-and-the-theology-of-christian-identity.html
+                * [culteducation.com/group/871-christian-identity/3692-prophets-of-the-apocalypse-white-supremacy-and-the-theology-of-christian-identity.html](https://culteducation.com/group/871-christian-identity/3692-prophets-of-the-apocalypse-white-supremacy-and-the-theology-of-christian-identity.html)
 
-                * https://www.jstor.org/stable/pdf/2645906.pdf?refreqid=excelsior%3Aa6593687c1a1bf80f348517487fe2621
+                * [jstor.org/stable/pdf/2645906.pdf?refreqid=excelsior%3Aa6593687c1a1bf80f348517487fe2621](https://www.jstor.org/stable/pdf/2645906.pdf?refreqid=excelsior%3Aa6593687c1a1bf80f348517487fe2621)
 
-                * https://www.google.com/search?q=jeremy+rifkin&rlz=1C5CHFA_enUS800US800&oq=jeremy+rifkin&aqs=chrome..69i57j0l5.2872j0j7&sourceid=chrome&ie=UTF-8
+                * [google.com/search?q=jeremy+rifkin&rlz=1C5CHFA_enUS800US800&oq=jeremy+rifkin&aqs=chrome..69i57j0l5.2872j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=jeremy+rifkin&rlz=1C5CHFA_enUS800US800&oq=jeremy+rifkin&aqs=chrome..69i57j0l5.2872j0j7&sourceid=chrome&ie=UTF-8)
 
-                * https://fivebooks.com/best-books/e-j-dionne-on-the-appeal-of-conservatism/
+                * [fivebooks.com/best-books/e-j-dionne-on-the-appeal-of-conservatism/](https://fivebooks.com/best-books/e-j-dionne-on-the-appeal-of-conservatism/)
 
-                * https://www.google.com/search?q=best+scholars+on+conservatism&rlz=1C5CHFA_enUS800US800&oq=best+scholars+on+conservatism&aqs=chrome..69i57j33.5226j0j4&sourceid=chrome&ie=UTF-8
+                * [google.com/search?q=best+scholars+on+conservatism&rlz=1C5CHFA_enUS800US800&oq=best+scholars+on+conservatism&aqs=chrome..69i57j33.5226j0j4&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=best+scholars+on+conservatism&rlz=1C5CHFA_enUS800US800&oq=best+scholars+on+conservatism&aqs=chrome..69i57j33.5226j0j4&sourceid=chrome&ie=UTF-8)
 
-                * https://www.rbth.com/history/329551-3-famous-russian-anarchists-and
+                * [rbth.com/history/329551-3-famous-russian-anarchists-and](https://www.rbth.com/history/329551-3-famous-russian-anarchists-and)
 
-                * https://en.wikipedia.org/wiki/History_of_the_Jews_in_the_United_States
+                * [en.wikipedia.org/wiki/History_of_the_Jews_in_the_United_States](https://en.wikipedia.org/wiki/History_of_the_Jews_in_the_United_States)
 
-                * https://baselinescenario.com/2017/06/15/telling-a-better-story-a-new-economic-vision-for-the-democratic-party/#more-16694
+                * [baselinescenario.com/2017/06/15/telling-a-better-story-a-new-economic-vision-for-the-democratic-party/#more-16694](https://baselinescenario.com/2017/06/15/telling-a-better-story-a-new-economic-vision-for-the-democratic-party/#more-16694)
 
-                * https://de.wikipedia.org/wiki/Vilfredo_Pareto
+                * [de.wikipedia.org/wiki/Vilfredo_Pareto](https://de.wikipedia.org/wiki/Vilfredo_Pareto)
 
-                * https://i.redd.it/lrvw4deu3oe31.jpg
+                * [i.redd.it/lrvw4deu3oe31.jpg](https://i.redd.it/lrvw4deu3oe31.jpg)
 
-                * https://babylonbee.com/news/the-bee-explains-democrats-vs-republicans
+                * [babylonbee.com/news/the-bee-explains-democrats-vs-republicans](https://babylonbee.com/news/the-bee-explains-democrats-vs-republicans)
 
-                * https://www.google.com/search?q=cultural+and+ideological+origins+of+neoliberalism&rlz=1C5CHFA_enUS800US800&oq=cultural+and+ideological+origins+of+neoliberalism&aqs=chrome..69i57.8779j0j7&sourceid=chrome&ie=UTF-8
+                * [google.com/search?q=cultural+and+ideological+origins+of+neoliberalism&rlz=1C5CHFA_enUS800US800&oq=cultural+and+ideological+origins+of+neoliberalism&aqs=chrome..69i57.8779j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=cultural+and+ideological+origins+of+neoliberalism&rlz=1C5CHFA_enUS800US800&oq=cultural+and+ideological+origins+of+neoliberalism&aqs=chrome..69i57.8779j0j7&sourceid=chrome&ie=UTF-8)
 
-                * https://icsr.info/wp-content/uploads/2011/09/ICSR-Report-As-American-As-Apple-Pie-How-Anwar-al-Awlaki-Became-the-Face-of-Western-Jihad.pdf
+                * [icsr.info/wp-content/uploads/2011/09/ICSR-Report-As-American-As-Apple-Pie-How-Anwar-al-Awlaki-Became-the-Face-of-Western-Jihad.pdf](https://icsr.info/wp-content/uploads/2011/09/ICSR-Report-As-American-As-Apple-Pie-How-Anwar-al-Awlaki-Became-the-Face-of-Western-Jihad.pdf)
 
-                * https://www.jstor.org/stable/10.2979/histmemo.24.1.5#metadata_info_tab_contents
+                * [jstor.org/stable/10.2979/histmemo.24.1.5#metadata_info_tab_contents](https://www.jstor.org/stable/10.2979/histmemo.24.1.5#metadata_info_tab_contents)
 
-                * https://en.wikipedia.org/wiki/Michael_Gerson
+                * [en.wikipedia.org/wiki/Michael_Gerson](https://en.wikipedia.org/wiki/Michael_Gerson)
 
 
-        * [https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%BD,_%D0%9C%D0%B0%D0%B9%D0%BA%D0%BB_(%D1%81%D0%BE%D1%86%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3)](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%BD,_%D0%9C%D0%B0%D0%B9%D0%BA%D0%BB_(%D1%81%D0%BE%D1%86%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3))
+        * [ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%BD,_%D0%9C%D0%B0%D0%B9%D0%BA%D0%BB_(%D1%81%D0%BE%D1%86%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3)](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%BD,_%D0%9C%D0%B0%D0%B9%D0%BA%D0%BB_(%D1%81%D0%BE%D1%86%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3))
 
-                * https://www.theguardian.com/profile/hajoonchang
+                * [theguardian.com/profile/hajoonchang](https://www.theguardian.com/profile/hajoonchang)
 
-                * http://www.politik-salon.de/random_stuff.html
+                * [politik-salon.de/random_stuff.html](http://www.politik-salon.de/random_stuff.html)
 
-                * https://en.wikipedia.org/wiki/Anarcho-capitalism
+                * [en.wikipedia.org/wiki/Anarcho-capitalism](https://en.wikipedia.org/wiki/Anarcho-capitalism)
 
-                * https://www.google.com/search?q=die+philosophie+des+faschismus+pdf&rlz=1C5CHFA_enUS800US800&oq=die+philosophie+des+faschismus+pdf&aqs=chrome..69i57j0j69i64j69i60.1383j0j4&sourceid=chrome&ie=UTF-8
+                * [google.com/search?q=die+philosophie+des+faschismus+pdf&rlz=1C5CHFA_enUS800US800&oq=die+philosophie+des+faschismus+pdf&aqs=chrome..69i57j0j69i64j69i60.1383j0j4&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=die+philosophie+des+faschismus+pdf&rlz=1C5CHFA_enUS800US800&oq=die+philosophie+des+faschismus+pdf&aqs=chrome..69i57j0j69i64j69i60.1383j0j4&sourceid=chrome&ie=UTF-8)
 
-                * https://www.private-eye.co.uk/index.php
+                * [private-eye.co.uk/index.php](https://www.private-eye.co.uk/index.php)
 
-                * https://www.private-eye.co.uk/hp-sauce
+                * [private-eye.co.uk/hp-sauce](https://www.private-eye.co.uk/hp-sauce)
 
-                * https://www.reddit.com/r/BreadTube/comments/9pehx5/beau_of_the_fifth_column_great_video_series_from/
+                * [r/BreadTube/comments/9pehx5/beau_of_the_fifth_column_great_video_series_from/](https://www.reddit.com/r/BreadTube/comments/9pehx5/beau_of_the_fifth_column_great_video_series_from/)
 
-                * https://1arditi.files.wordpress.com/2012/10/arditi_conceptos_1992_reducido.pdf?fbclid=IwAR2Wfm2m2P_lM3vRiiZgJI2v3Qa8VY2L9il1ptfsQ4hieeb2H12xXoOZcgQ
+                * [1arditi.files.wordpress.com/2012/10/arditi_conceptos_1992_reducido.pdf?fbclid=IwAR2Wfm2m2P_lM3vRiiZgJI2v3Qa8VY2L9il1ptfsQ4hieeb2H12xXoOZcgQ](https://1arditi.files.wordpress.com/2012/10/arditi_conceptos_1992_reducido.pdf?fbclid=IwAR2Wfm2m2P_lM3vRiiZgJI2v3Qa8VY2L9il1ptfsQ4hieeb2H12xXoOZcgQ)
 
-                * https://gen.medium.com/yes-i-am-a-capitalist-ca9d6d6c42f8
+                * [gen.medium.com/yes-i-am-a-capitalist-ca9d6d6c42f8](https://gen.medium.com/yes-i-am-a-capitalist-ca9d6d6c42f8)
 
-                * https://gen.medium.com/the-haters-guide-to-mayor-pete-d383ebd94bb5
+                * [gen.medium.com/the-haters-guide-to-mayor-pete-d383ebd94bb5](https://gen.medium.com/the-haters-guide-to-mayor-pete-d383ebd94bb5)
 
-                * https://medium.com/@AngisJoplin/il-riciclo-delle-citt%C3%A0-486e148fc2ad
+                * [medium.com/@AngisJoplin/il-riciclo-delle-citt%C3%A0-486e148fc2ad](https://medium.com/@AngisJoplin/il-riciclo-delle-citt%C3%A0-486e148fc2ad)
 
-                * https://eand.co/americas-collapsing-into-fascism-because-americans-still-don-t-understand-fascism-e82a2e7cce79
+                * [eand.co/americas-collapsing-into-fascism-because-americans-still-don-t-understand-fascism-e82a2e7cce79](https://eand.co/americas-collapsing-into-fascism-because-americans-still-don-t-understand-fascism-e82a2e7cce79)
 
-                * https://danielmiessler.com/blog/do-upper-middle-class-crime-victims-need-to-check-their-privilege/?mc_cid=f98abc5d99&mc_eid=1a0e8f9a2d
+                * [danielmiessler.com/blog/do-upper-middle-class-crime-victims-need-to-check-their-privilege/?mc_cid=f98abc5d99&mc_eid=1a0e8f9a2d](https://danielmiessler.com/blog/do-upper-middle-class-crime-victims-need-to-check-their-privilege/?mc_cid=f98abc5d99&mc_eid=1a0e8f9a2d)
 
-                * https://www.google.com/search?q=emma+goldman&rlz=1C5CHFA_enUS800US800&oq=emma+goldman&aqs=chrome..69i57j0l4j69i60.2023j0j4&sourceid=chrome&ie=UTF-8
+                * [google.com/search?q=emma+goldman&rlz=1C5CHFA_enUS800US800&oq=emma+goldman&aqs=chrome..69i57j0l4j69i60.2023j0j4&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=emma+goldman&rlz=1C5CHFA_enUS800US800&oq=emma+goldman&aqs=chrome..69i57j0l4j69i60.2023j0j4&sourceid=chrome&ie=UTF-8)
 
-                * https://www.investopedia.com/articles/investing/100714/nordic-model-pros-and-cons.asp
+                * [investopedia.com/articles/investing/100714/nordic-model-pros-and-cons.asp](https://www.investopedia.com/articles/investing/100714/nordic-model-pros-and-cons.asp)
 
-                * https://www.investopedia.com/terms/r/robin-hood-effect.asp
+                * [investopedia.com/terms/r/robin-hood-effect.asp](https://www.investopedia.com/terms/r/robin-hood-effect.asp)
 
-                * https://www.investopedia.com/terms/m/mixed-economic-system.asp
+                * [investopedia.com/terms/m/mixed-economic-system.asp](https://www.investopedia.com/terms/m/mixed-economic-system.asp)
 
-                * https://plato.stanford.edu/entries/redistribution/
+                * [plato.stanford.edu/entries/redistribution/](https://plato.stanford.edu/entries/redistribution/)
 
-                * https://en.wikipedia.org/wiki/Redistribution_of_income_and_wealth#Moral_obligation
+                * [en.wikipedia.org/wiki/Redistribution_of_income_and_wealth#Moral_obligation](https://en.wikipedia.org/wiki/Redistribution_of_income_and_wealth#Moral_obligation)
 
-                * https://www.google.com/search?rlz=1C1GCEA_enUS846&ei=5ojDXPLrIfO-0PEPqo2eqAg&q=ethics+and+redistribution&oq=ethics+and+redistribution&gs_l=psy-ab.3...4821447.4822119..4822471...0.0..0.97.437.5......0....1..gws-wiz.......35i304i39j0i7i30i19j0i7i5i30i19j0i7i30j0i7i5i30.QDnlcSBKeoU
+                * [google.com/search?rlz=1C1GCEA_enUS846&ei=5ojDXPLrIfO-0PEPqo2eqAg&q=ethics+and+redistribution&oq=ethics+and+redistribution&gs_l=psy-ab.3...4821447.4822119..4822471...0.0..0.97.437.5......0....1..gws-wiz.......35i304i39j0i7i30i19j0i7i5i30i19j0i7i30j0i7i5i30.QDnlcSBKeoU](https://www.google.com/search?rlz=1C1GCEA_enUS846&ei=5ojDXPLrIfO-0PEPqo2eqAg&q=ethics+and+redistribution&oq=ethics+and+redistribution&gs_l=psy-ab.3...4821447.4822119..4822471...0.0..0.97.437.5......0....1..gws-wiz.......35i304i39j0i7i30i19j0i7i5i30i19j0i7i30j0i7i5i30.QDnlcSBKeoU)
 
-                * https://www.minneapolisfed.org/~/media/files/pubs/eppapers/15-6/epp-15-6-on-the-ethics-of-redistribution.pdf
+                * [minneapolisfed.org/~/media/files/pubs/eppapers/15-6/epp-15-6-on-the-ethics-of-redistribution.pdf](https://www.minneapolisfed.org/~/media/files/pubs/eppapers/15-6/epp-15-6-on-the-ethics-of-redistribution.pdf)
 
 
         * [Qui se cache derrière les lobbys ?](https://www.youtube.com/watch?v=x7iMC_tFWwc&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=18)
 
-                * http://www.depo.ua/ukr/svit/gilari-klinton-proti-duhovnih-skrep-ameriki-02032016124200
+                * [depo.ua/ukr/svit/gilari-klinton-proti-duhovnih-skrep-ameriki-02032016124200](http://www.depo.ua/ukr/svit/gilari-klinton-proti-duhovnih-skrep-ameriki-02032016124200)
 
-                * http://www.kasparov.ru/material.php?id=56D9991482045
+                * [kasparov.ru/material.php?id=56D9991482045](http://www.kasparov.ru/material.php?id=56D9991482045)
 
 
         * [http://www.kasparov.ru/material.php?id=56D9B0996DEEA - Статья об измельчании лидеров и идей.](http://www.kasparov.ru/material.php?id=56D9B0996DEEA)
@@ -11087,10 +11087,10 @@ Groteske Aufklärung
             * [Accelerationism - Infogalactic: the planetary knowledge core](https://infogalactic.com/info/Accelerationism)
 
             * [Arendt, Nietzsche, and the Aestheticization of Political Action](https://www.jstor.org/stable/192004)
-                        * https://www.currentaffairs.org/2022/02/the-afterlives-of-che
+                        * [currentaffairs.org/2022/02/the-afterlives-of-che](https://www.currentaffairs.org/2022/02/the-afterlives-of-che)
 
             * [paul mason accelerationist at DuckDuckGo](https://duckduckgo.com/?q=paul+mason+accelerationist&t=ffab&ia=web)
-                        * https://en.wikipedia.org/wiki/Hierarchy
+                        * [en.wikipedia.org/wiki/Hierarchy](https://en.wikipedia.org/wiki/Hierarchy)
 
         - Power
 
@@ -11108,7 +11108,7 @@ Groteske Aufklärung
 
 
         psychological theories of racism; psychology of racism
-                * http://www.newthinktank.com/
+                * [newthinktank.com/](http://www.newthinktank.com/)
 
         * [Radost_revolyutsii_Ken_Nebb(1).pdf](https://vk.com/doc30601958_623876135?hash=28b8d5c1baca44249e&dl=1658650aaabdb1061f)
 
@@ -11119,15 +11119,15 @@ Groteske Aufklärung
         * [Украина - не Россия.](http://library.lol/main/EEA86BF24452B8B6C2E6EDD4BA979FE9)
 
         * [The Power Paradox: The Promise and Peril of 21st Century Power | Dacher Keltner | Talks at Google - YouTube](https://www.youtube.com/watch?v=2vJKyw6kFkw)
-                * https://www.currentaffairs.org/2022/03/can-we-have-an-intelligent-adult-conversation-about-russia#rf5-21294
-                * https://danielmiessler.com/blog/thoughts-on-rogan-and-redemption
+                * [currentaffairs.org/2022/03/can-we-have-an-intelligent-adult-conversation-about-russia#rf5-21294](https://www.currentaffairs.org/2022/03/can-we-have-an-intelligent-adult-conversation-about-russia#rf5-21294)
+                * [danielmiessler.com/blog/thoughts-on-rogan-and-redemption](https://danielmiessler.com/blog/thoughts-on-rogan-and-redemption)
 
         * [Подборка книг о капитализме](https://vk.com/wall-176520650_3237)
 
         * [Recht und Religion in Europa - Zeitgenossiche Konflikte und historische Perspektiven](http://library.lol/main/C42570B328E02B0B1E8E1AB609B9E6A6)
 
         benevolent surrealism
-                * https://www.at-commons.com/2020/08/23/futile-engagements/
+                * [at-commons.com/2020/08/23/futile-engagements/](https://www.at-commons.com/2020/08/23/futile-engagements/)
 
         As Adolph Reed points out, "ideology is the method by which one harmonizes one's self-image with one's self-interest". And that explains how and why the rich and powerful, wherever they are, tend to adopt similarly colonial mentalities toward the rest of us."
 
@@ -11140,10 +11140,10 @@ Groteske Aufklärung
         discomfort as a political force, comfort as a suppressant → "How to Assuage Your Conscience"
 
         Ресентиметн: сублимация чувства неполноценности, которая выражается в создании внешнего "врага", являющегося объектом бессильной зависти и непризни. Части "враг" является причиной неудач. Теримн введен Фридрихом Ницше.
-                * https://danielmiessler.com/blog/liberal-gun-owner-explores-gun-data/                - [origins of sexism - Ecosia](https://www.ecosia.org/search?q=origins+of+sexism)**
+                * [danielmiessler.com/blog/liberal-gun-owner-explores-gun-data/](https://danielmiessler.com/blog/liberal-gun-owner-explores-gun-data/)                - [origins of sexism - Ecosia](https://www.ecosia.org/search?q=origins+of+sexism)**
 
         * [Book Bans Are Fascist - YouTube](https://www.youtube.com/watch?v=ymKFl7rJY48)
-                * https://www.volksverpetzer.de/aktuelles/dugin-putin-nazi/
+                * [volksverpetzer.de/aktuelles/dugin-putin-nazi/](https://www.volksverpetzer.de/aktuelles/dugin-putin-nazi/)
 
         * [poli sci](https://vk.com/wall-80080904_11804)
 
@@ -11160,12 +11160,12 @@ Groteske Aufklärung
         * [Why Fiction Beats Facts – Tom Morgan – Medium](https://medium.com/@tomowenmorgan/why-fiction-beats-facts-aac22529e3b3)
 
         * [The Myth of the “Civilization State”: Rising Powers and the Cultural Challenge to World Order | Ethics & International Affairs | Cambridge Core](https://www.cambridge.org/core/journals/ethics-and-international-affairs/article/abs/myth-of-the-civilization-state-rising-powers-and-the-cultural-challenge-to-world-order/44FD1E9D1C3E67B6F36619D5080EC060)
-                * http://ncase.me/polygons/
+                * [ncase.me/polygons/](http://ncase.me/polygons/)
 
         * [Robert Reich: Crony Capitalism Is Rotting the Country from the Inside Out | Alternet](https://www.alternet.org/news-amp-politics/robert-reich-crony-capitalism-rotting-country-inside-out)
 
         * [http://graduateinstitute.ch/fr/home/relations-publiques/news-at-the-institute/news-archives.html/_/news/corporate/2016/la-mondialisation-et-le-populism](http://mirrorh.com/timeline2.html)
-                * https://b-ok.cc/g/Noam%20Chomsky
+                * [b-ok.cc/g/Noam%20Chomsky](https://b-ok.cc/g/Noam%20Chomsky)
 
         * [5 Books That Explain Why It Seems the World Is So Fucked](https://markmanson.net/5-books-that-explain-why-it-seems-the-world-is-so-fucked)
         * [‚Sein und Bewusstsein‘. Propaganda und ‚objektive Realität‘ in den neoliberalen Gesellschaften | Claus Thomasberger | download](https://b-ok.cc/book/2773985/541cc1)
@@ -12323,7 +12323,7 @@ Groteske Aufklärung
 
         * [Economics as Applied Ethics_Wilfred Beckerman_2nd ed. 2017](http://link.springer.com/openurl?genre=book&isbn=978-3-319-50319-6)
 
-                * https://www.karlwhelan.com/Macro2/Whelan-Lecture-Notes.pdf
+                * [karlwhelan.com/Macro2/Whelan-Lecture-Notes.pdf](https://www.karlwhelan.com/Macro2/Whelan-Lecture-Notes.pdf)
 
 
         Economics of Education
@@ -12669,40 +12669,40 @@ Groteske Aufklärung
 
         * [А. Дитон - "Великий побег. Здоровье, богатство и истоки неравенства"](https://vk.com/wall-80080904_12202)
 
-                * https://www.goodreads.com/book/show/13384575-finance-and-the-good-society
+                * [goodreads.com/book/show/13384575-finance-and-the-good-society](https://www.goodreads.com/book/show/13384575-finance-and-the-good-society)
 
-                * https://microeconomiaavanzada210.files.wordpress.com/2012/04/microeconomic-theory-andreu-mas-colell-michael-d-whinston-y-jerry-r-green.pdf
+                * [microeconomiaavanzada210.files.wordpress.com/2012/04/microeconomic-theory-andreu-mas-colell-michael-d-whinston-y-jerry-r-green.pdf](https://microeconomiaavanzada210.files.wordpress.com/2012/04/microeconomic-theory-andreu-mas-colell-michael-d-whinston-y-jerry-r-green.pdf)
 
-                * http://www.mcafee.cc/Introecon/IEA.pdf
+                * [mcafee.cc/Introecon/IEA.pdf](http://www.mcafee.cc/Introecon/IEA.pdf)
 
-                * https://www.google.com/search?q=MICROECONOMIC+THEORY+mas-colell&oq=MICROECONOMIC+THEORY+mas-colell&aqs=chrome..69i57j0l5.3607j0j7&sourceid=chrome&ie=UTF-8#q=MICROECONOMIC+THEORY+mas-colell&safe=active&tbm=shop&spd=3802114114339279747
+                * [google.com/search?q=MICROECONOMIC+THEORY+mas-colell&oq=MICROECONOMIC+THEORY+mas-colell&aqs=chrome..69i57j0l5.3607j0j7&sourceid=chrome&ie=UTF-8#q=MICROECONOMIC+THEORY+mas-colell&safe=active&tbm=shop&spd=3802114114339279747](https://www.google.com/search?q=MICROECONOMIC+THEORY+mas-colell&oq=MICROECONOMIC+THEORY+mas-colell&aqs=chrome..69i57j0l5.3607j0j7&sourceid=chrome&ie=UTF-8#q=MICROECONOMIC+THEORY+mas-colell&safe=active&tbm=shop&spd=3802114114339279747)
 
-                * https://www.ebay.com/i/142166005274?chn=ps&dispItem=1
+                * [ebay.com/i/142166005274?chn=ps&dispItem=1](https://www.ebay.com/i/142166005274?chn=ps&dispItem=1)
 
-                * http://www.textbookrush.com/browse/Books/9780195073409?kbid=1029&utm_source=googlebase&utm_medium=affiliate&utm_term=9780195073409&utm_campaign=localinventory&gclid=Cj0KEQjwyN7JBRCZn7LKgb3ki8kBEiQAaLEsqhdcwwxP9o9S61D7e9stnF0JtacUlAVO9vZCFMZUKTwaAjU78P8HAQ
+                * [textbookrush.com/browse/Books/9780195073409?kbid=1029](http://www.textbookrush.com/browse/Books/9780195073409?kbid=1029)
 
-                * https://www.scribd.com/doc/279090135/Teoria-Microeconomica-Mas-Colell
+                * [scribd.com/doc/279090135/Teoria-Microeconomica-Mas-Colell](https://www.scribd.com/doc/279090135/Teoria-Microeconomica-Mas-Colell)
 
 
-        * [https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&ved=0ahUKEwjD85bq6KzUAhVWImMKHfHpCo4QFghZMAc&url=http%3A%2F%2Fwww.unisa.it%2Fsecure%2Fget%2Ffile%2Fnote_ma.pdf%2Fid%2F3304&usg=AFQjCNG1P6n9l-GakR-QKdlG2H1nx7XvuQ&sig2=DLpxjauYGK6fuiZcmQ2dtw&cad=rja](http://www.unisa.it/secure/get/file/note_ma.pdf/id/3304)
+        * [google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&ved=0ahUKEwjD85bq6KzUAhVWImMKHfHpCo4QFghZMAc&url=http%3A%2F%2Fwww.unisa.it%2Fsecure%2Fget%2Ffile%2Fnote_ma.pdf%2Fid%2F3304&usg=AFQjCNG1P6n9l-GakR-QKdlG2H1nx7XvuQ&sig2=DLpxjauYGK6fuiZcmQ2dtw&cad=rja](http://www.unisa.it/secure/get/file/note_ma.pdf/id/3304)
 
-                * http://econoca.unica.it/public/downloaddocenti/Dispense_Micro%20Avanzata_mod.A_2011.pdf
+                * [econoca.unica.it/public/downloaddocenti/Dispense_Micro%20Avanzata_mod.A_2011.pdf](http://econoca.unica.it/public/downloaddocenti/Dispense_Micro%20Avanzata_mod.A_2011.pdf)
 
-                * http://host.uniroma3.it/facolta/economia/db/materiali/insegnamenti/485_6884.pdf
+                * [host.uniroma3.it/facolta/economia/db/materiali/insegnamenti/485_6884.pdf](http://host.uniroma3.it/facolta/economia/db/materiali/insegnamenti/485_6884.pdf)
 
-                * https://moodle2.units.it/course/view.php?id=244
+                * [moodle2.units.it/course/view.php?id=244](https://moodle2.units.it/course/view.php?id=244)
 
-                * https://it.wikiversity.org/wiki/Materia:Microeconomia
+                * [it.wikiversity.org/wiki/Materia:Microeconomia](https://it.wikiversity.org/wiki/Materia:Microeconomia)
 
-                * http://spol.unica.it/didattica/Cerina/Microeconomia%20avanzata%201/
+                * [spol.unica.it/didattica/Cerina/Microeconomia%20avanzata%201/](http://spol.unica.it/didattica/Cerina/Microeconomia%20avanzata%201/)
 
-                * http://econoca.unica.it/public/downloaddocenti/
+                * [econoca.unica.it/public/downloaddocenti/](http://econoca.unica.it/public/downloaddocenti/)
 
-                * https://em-lyon.com/en/simon-chadwick/research
+                * [em-lyon.com/en/simon-chadwick/research](https://em-lyon.com/en/simon-chadwick/research)
 
-                * http://www.alleng.ru/edu/econom3.htm
+                * [alleng.ru/edu/econom3.htm](http://www.alleng.ru/edu/econom3.htm)
 
-                * https://www.aeaweb.org/journals/jel
+                * [aeaweb.org/journals/jel](https://www.aeaweb.org/journals/jel)
 
 
         The Politically Incorrect Guide to Capitalism
@@ -12710,18 +12710,18 @@ Groteske Aufklärung
 
         * [Competitividad: una peligrosa obsesión](http://econpapers.repec.org/paper/col000418/009513.htm)
 
-                * https://en.wikipedia.org/wiki/Austrian_School#General_criticisms
+                * [en.wikipedia.org/wiki/Austrian_School#General_criticisms](https://en.wikipedia.org/wiki/Austrian_School#General_criticisms)
 
-                * https://en.wikipedia.org/wiki/Criticisms_of_Marxism#Economic
+                * [en.wikipedia.org/wiki/Criticisms_of_Marxism#Economic](https://en.wikipedia.org/wiki/Criticisms_of_Marxism#Economic)
 
-                * https://econacademics.org/
+                * [econacademics.org/](https://econacademics.org/)
 
 
         * [Econ and Ethics](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jel.55.1.209)
 
-                * https://www.aeaweb.org/journals/jel
+                * [aeaweb.org/journals/jel](https://www.aeaweb.org/journals/jel)
 
-                * https://www.aeaweb.org/journals/jel/issues
+                * [aeaweb.org/journals/jel/issues](https://www.aeaweb.org/journals/jel/issues)
 
 
         * [http://econ.ucsb.edu/~mark/phdprelimspast/PHD%20prelims%20-%20Previous%20Years/2.%20Microeconomics/2017%20Microeconomics%20Prelim%20(June).pdf](http://econ.ucsb.edu/~mark/phdprelimspast/PHD%20prelims%20-%20Previous%20Years/2.%20Microeconomics/2017%20Microeconomics%20Prelim%20(June).pdf)
@@ -12729,7 +12729,7 @@ Groteske Aufklärung
 
         * [http://econ.ucsb.edu/~mark/phdprelimspast/PHD%20prelims%20-%20Previous%20Years/2.%20Microeconomics/2016%20Microeconomics%20Prelim%20(August%20Retake).pdf](http://econ.ucsb.edu/~mark/phdprelimspast/PHD%20prelims%20-%20Previous%20Years/2.%20Microeconomics/2016%20Microeconomics%20Prelim%20(August%20Retake).pdf)
 
-                * https://www.apec.umn.edu/sites/apec.umn.edu/files/applied_micro_summer_2014.pdf
+                * [apec.umn.edu/sites/apec.umn.edu/files/applied_micro_summer_2014.pdf](https://www.apec.umn.edu/sites/apec.umn.edu/files/applied_micro_summer_2014.pdf)
 
 
         * [http://econ.ucsb.edu/~mark/phdprelimspast/PHD%20prelims%20-%20Previous%20Years/2.%20Microeconomics/2014%20Microeconomics%20Prelim%20(June%202014).pdf](http://econ.ucsb.edu/~mark/phdprelimspast/PHD%20prelims%20-%20Previous%20Years/2.%20Microeconomics/2014%20Microeconomics%20Prelim%20(June%202014).pdf)
@@ -12740,54 +12740,54 @@ Groteske Aufklärung
 
         Greg Kaplan
 
-                * http://www.econ.ucla.edu/iobara/LectureConsumerTheory201A.pdf
+                * [econ.ucla.edu/iobara/LectureConsumerTheory201A.pdf](http://www.econ.ucla.edu/iobara/LectureConsumerTheory201A.pdf)
 
-                * http://www.aei.org/publication/there-really-is-no-gender-wage-gap-there-is-a-gender-earnings-gap-but-paying-women-well-wont-close-that-gap/
+                * [aei.org/publication/there-really-is-no-gender-wage-gap-there-is-a-gender-earnings-gap-but-paying-women-well-wont-close-that-gap/](http://www.aei.org/publication/there-really-is-no-gender-wage-gap-there-is-a-gender-earnings-gap-but-paying-women-well-wont-close-that-gap/)
 
-                * https://www.mercatus.org/expert_commentary/trickle-down-economics-does-anyone-actually-believe-it
+                * [mercatus.org/expert_commentary/trickle-down-economics-does-anyone-actually-believe-it](https://www.mercatus.org/expert_commentary/trickle-down-economics-does-anyone-actually-believe-it)
 
 
         * [Andrew W. Lo](http://mitsloan.mit.edu/faculty-and-research/faculty-directory/detail/?id=41207)
 
-                * https://www.uv.es/rdomenec/ma/ma2.pdf
+                * [uv.es/rdomenec/ma/ma2.pdf](https://www.uv.es/rdomenec/ma/ma2.pdf)
 
-                * https://www.google.com/search?q=macroeconomia+avanzada&oq=macroeconomia+ava&aqs=chrome.1.69i57j0l5.6999j0j7&sourceid=chrome&ie=UTF-8
+                * [google.com/search?q=macroeconomia+avanzada&oq=macroeconomia+ava&aqs=chrome.1.69i57j0l5.6999j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=macroeconomia+avanzada&oq=macroeconomia+ava&aqs=chrome.1.69i57j0l5.6999j0j7&sourceid=chrome&ie=UTF-8)
 
 
         * [Einführung in heterodoxe Schulen](https://youtu.be/-A-RSdd19B0)
 
-                * http://webpersonal.uma.es/de/jtorres/pdf/AMA5.pdf
+                * [webpersonal.uma.es/de/jtorres/pdf/AMA5.pdf](http://webpersonal.uma.es/de/jtorres/pdf/AMA5.pdf)
 
-                * http://webpersonal.uma.es/de/jtorres/pdf/MAC3.pdf
+                * [webpersonal.uma.es/de/jtorres/pdf/MAC3.pdf](http://webpersonal.uma.es/de/jtorres/pdf/MAC3.pdf)
 
-                * http://ecours.sciences-po.fr/resources/documents/Chapitre7_EquilibremacroeconomiquedemoyentermeOG_DG.pdf
+                * [ecours.sciences-po.fr/resources/documents/Chapitre7_EquilibremacroeconomiquedemoyentermeOG_DG.pdf](http://ecours.sciences-po.fr/resources/documents/Chapitre7_EquilibremacroeconomiquedemoyentermeOG_DG.pdf)
 
-                * https://docs.google.com/file/d/0B7dnuBbeg9oob2s3YVMwSmVrakE/edit
+                * [docs.google.com/file/d/0B7dnuBbeg9oob2s3YVMwSmVrakE/edit](https://docs.google.com/file/d/0B7dnuBbeg9oob2s3YVMwSmVrakE/edit)
 
-                * http://www.mathieuperona.fr/wp-content/uploads/2012/05/microIV.pdf
+                * [mathieuperona.fr/wp-content/uploads/2012/05/microIV.pdf](http://www.mathieuperona.fr/wp-content/uploads/2012/05/microIV.pdf)
 
-                * http://jb.desquilbet.pagesperso-orange.fr/docs/microeconomie.pdf
+                * [jb.desquilbet.pagesperso-orange.fr/docs/microeconomie.pdf](http://jb.desquilbet.pagesperso-orange.fr/docs/microeconomie.pdf)
 
-                * https://sites.google.com/site/ecojulien/macroeconomie-m1
+                * [sites.google.com/site/ecojulien/macroeconomie-m1](https://sites.google.com/site/ecojulien/macroeconomie-m1)
 
-                * https://www.google.com/search?q=macroeconomie+avancee+pdf&oq=microeconomie+ava&aqs=chrome.2.69i57j0l5.7727j0j9&sourceid=chrome&ie=UTF-8#safe=active&q=%D0%9F%D0%B5%D1%80%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F+%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0+pdf
+                * [google.com/search?q=macroeconomie+avancee+pdf&oq=microeconomie+ava&aqs=chrome.2.69i57j0l5.7727j0j9&sourceid=chrome&ie=UTF-8#safe=active&q=%D0%9F%D0%B5%D1%80%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F+%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0+pdf](https://www.google.com/search?q=macroeconomie+avancee+pdf&oq=microeconomie+ava&aqs=chrome.2.69i57j0l5.7727j0j9&sourceid=chrome&ie=UTF-8#safe=active&q=%D0%9F%D0%B5%D1%80%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F+%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0+pdf)
 
-                * http://bos.u-paris2.fr/dumicro.html
+                * [bos.u-paris2.fr/dumicro.html](http://bos.u-paris2.fr/dumicro.html)
 
-                * http://elibrary.bsu.az/books_200/N_95.pdf
+                * [elibrary.bsu.az/books_200/N_95.pdf](http://elibrary.bsu.az/books_200/N_95.pdf)
 
-                * http://math.isu.ru/ru/chairs/me/files/books/pindayk_mikroec.pdf
+                * [math.isu.ru/ru/chairs/me/files/books/pindayk_mikroec.pdf](http://math.isu.ru/ru/chairs/me/files/books/pindayk_mikroec.pdf)
 
-                * http://lib.madi.ru/fel/fel1/fel10E061.pdf
+                * [lib.madi.ru/fel/fel1/fel10E061.pdf](http://lib.madi.ru/fel/fel1/fel10E061.pdf)
 
-                * http://lib.madi.ru/fel/fel1/fel14E192.pdf
+                * [lib.madi.ru/fel/fel1/fel14E192.pdf](http://lib.madi.ru/fel/fel1/fel14E192.pdf)
 
-                * http://pgasa.dp.ua/a/academy/mb/files/books/ufimceva/Mikro%20Ufimtseva%20rus.pdf
+                * [pgasa.dp.ua/a/academy/mb/files/books/ufimceva/Mikro%20Ufimtseva%20rus.pdf](http://pgasa.dp.ua/a/academy/mb/files/books/ufimceva/Mikro%20Ufimtseva%20rus.pdf)
 
 
-        * [https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&ved=0ahUKEwjznYvy4qzUAhVF2GMKHdhqDe0QFghEMAU&url=http%3A%2F%2Fsgal.isea.ru%2Fgetfiles.ashx%3Fp%3DPrep%255C00021000%255C00021122%2F%25D0%259F%25D0%25BE%25D0%25BB%25D0%25BD%25D1%258B%25D0%25B9%2520%25D1%2582%25D0%25B5%25D0%25BA%25D1%2581%25D1%2582%255C%25D0%2593%25D0%25BE%25D1%2580%25D0%25B5%25D0%25B2.%2520%25D0%259C%25D0%25B8%25D0%25BA%25D1%2580%25D0%25BE%25D1%258D%25D0%25BA%25D0%25BE%25D0%25BD%25D0%25BE%25D0%25BC%25D0%25B8%25D0%25BA%25D0%25B0.pdf&usg=AFQjCNEcQZV1954--znCatFKYu1bxcQrlQ&sig2=vlNlak3BF2IA6oc2CYkSfw&cad=rja](http://sgal.isea.ru/getfiles.ashx?p=Prep%5C00021000%5C00021122/%D0%9F%D0%BE%D0%BB%D0%BD%D1%8B%D0%B9%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%5C%D0%93%D0%BE%D1%80%D0%B5%D0%B2.%20%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0.pdf)
+        * [google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&ved=0ahUKEwjznYvy4qzUAhVF2GMKHdhqDe0QFghEMAU&url=http%3A%2F%2Fsgal.isea.ru%2Fgetfiles.ashx%3Fp%3DPrep%255C00021000%255C00021122%2F%25D0%259F%25D0%25BE%25D0%25BB%25D0%25BD%25D1%258B%25D0%25B9%2520%25D1%2582%25D0%25B5%25D0%25BA%25D1%2581%25D1%2582%255C%25D0%2593%25D0%25BE%25D1%2580%25D0%25B5%25D0%25B2.%2520%25D0%259C%25D0%25B8%25D0%25BA%25D1%2580%25D0%25BE%25D1%258D%25D0%25BA%25D0%25BE%25D0%25BD%25D0%25BE%25D0%25BC%25D0%25B8%25D0%25BA%25D0%25B0.pdf&usg=AFQjCNEcQZV1954--znCatFKYu1bxcQrlQ&sig2=vlNlak3BF2IA6oc2CYkSfw&cad=rja](http://sgal.isea.ru/getfiles.ashx?p=Prep%5C00021000%5C00021122/%D0%9F%D0%BE%D0%BB%D0%BD%D1%8B%D0%B9%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%5C%D0%93%D0%BE%D1%80%D0%B5%D0%B2.%20%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0.pdf)
 
-                * http://quant-econ.net/_static/pdfs/jl-quant-econ.pdf
+                * [quant-econ.net/_static/pdfs/jl-quant-econ.pdf](http://quant-econ.net/_static/pdfs/jl-quant-econ.pdf)
 
 
         * [Серия лекций Роберта Скидельски по актуальной экономике](https://www.youtube.com/watch?v=6ojNhotRuvM&list=PL-_cKNuVAYAV3E9EN3axLuJGjNU9LI5_r)
@@ -12795,43 +12795,43 @@ Groteske Aufklärung
 
         * [Теории денег. От ракушки до биткоин](https://www.youtube.com/watch?v=cbHjr7IKBno&list=PL-_cKNuVAYAWRU6FrRMQaaYDnNXdys3PY)
 
-                * http://emerius.ofelon.org/online/it/projects-2/ofelonomics/
+                * [emerius.ofelon.org/online/it/projects-2/ofelonomics/](http://emerius.ofelon.org/online/it/projects-2/ofelonomics/)
 
-                * http://bibliograph.com.ua/adam-smit/index.htm
+                * [bibliograph.com.ua/adam-smit/index.htm](http://bibliograph.com.ua/adam-smit/index.htm)
 
-                * http://classiques.uqac.ca/classiques/Smith_adam/richesse_des_nations/livre_1/richesse_des_nations_1.pdf
+                * [classiques.uqac.ca/classiques/Smith_adam/richesse_des_nations/livre_1/richesse_des_nations_1.pdf](http://classiques.uqac.ca/classiques/Smith_adam/richesse_des_nations/livre_1/richesse_des_nations_1.pdf)
 
-                * http://onlinelibrary.wiley.com/doi/10.1111/gec3.12275/full
+                * [onlinelibrary.wiley.com/doi/10.1111/gec3.12275/full](http://onlinelibrary.wiley.com/doi/10.1111/gec3.12275/full)
 
-                * http://vonmises.it/2013/03/25/la-pretesa-di-sapere-discorso-di-accettazione-del-nobel-di-friedrich-hayek/
+                * [vonmises.it/2013/03/25/la-pretesa-di-sapere-discorso-di-accettazione-del-nobel-di-friedrich-hayek/](http://vonmises.it/2013/03/25/la-pretesa-di-sapere-discorso-di-accettazione-del-nobel-di-friedrich-hayek/)
 
-                * https://www.amazon.com/gp/buy/thankyou/handlers/display.html?ie=UTF8&asins=1610390938&orderId=109-5150606-9125011&purchaseId=106-0858465-4209819&viewId=ThankYouCart
+                * [amazon.com/gp/buy/thankyou/handlers/display.html?ie=UTF8&asins=1610390938&orderId=109-5150606-9125011&purchaseId=106-0858465-4209819&viewId=ThankYouCart](https://www.amazon.com/gp/buy/thankyou/handlers/display.html?ie=UTF8&asins=1610390938&orderId=109-5150606-9125011&purchaseId=106-0858465-4209819&viewId=ThankYouCart)
 
-                * http://site.ebrary.com/lib/byuprovo/reader.action?docID=10854981
+                * [site.ebrary.com/lib/byuprovo/reader.action?docID=10854981](http://site.ebrary.com/lib/byuprovo/reader.action?docID=10854981)
 
-                * http://www.econlib.org/index.html
+                * [econlib.org/index.html](http://www.econlib.org/index.html)
 
-                * https://www.google.com/search?q=maximum+of+means+and+a+minimum+of+meaning&oq=maximum+of+means+and+a+minimum+of+meaning&aqs=chrome..69i57.10111j1j4&sourceid=chrome&es_sm=93&ie=UTF-8#safe=active&q=3+fudamental+questions+that+individuals+must+answer
+                * [google.com/search?q=maximum+of+means+and+a+minimum+of+meaning&oq=maximum+of+means+and+a+minimum+of+meaning&aqs=chrome..69i57.10111j1j4&sourceid=chrome&es_sm=93&ie=UTF-8#safe=active&q=3+fudamental+questions+that+individuals+must+answer](https://www.google.com/search?q=maximum+of+means+and+a+minimum+of+meaning&oq=maximum+of+means+and+a+minimum+of+meaning&aqs=chrome..69i57.10111j1j4&sourceid=chrome&es_sm=93&ie=UTF-8#safe=active&q=3+fudamental+questions+that+individuals+must+answer)
 
-                * https://economics.byu.edu/Pages/Seminars%20Pages/Visiting-Scholar-Archives.aspx
+                * [economics.byu.edu/Pages/Seminars%20Pages/Visiting-Scholar-Archives.aspx](https://economics.byu.edu/Pages/Seminars%20Pages/Visiting-Scholar-Archives.aspx)
 
-                * http://www.ecb.europa.eu/press/key/date/2003/html/sp031126.fr.html
+                * [ecb.europa.eu/press/key/date/2003/html/sp031126.fr.html](http://www.ecb.europa.eu/press/key/date/2003/html/sp031126.fr.html)
 
-                * https://bfi.uchicago.edu/feature-story/path-ahead-economic-theory?utm_content=buffer2a330&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+                * [bfi.uchicago.edu/feature-story/path-ahead-economic-theory](https://bfi.uchicago.edu/feature-story/path-ahead-economic-theory)
 
-                * http://nautil.us/issue/33/attraction/describing-people-as-particles-isnt-always-a-bad-idea
+                * [nautil.us/issue/33/attraction/describing-people-as-particles-isnt-always-a-bad-idea](http://nautil.us/issue/33/attraction/describing-people-as-particles-isnt-always-a-bad-idea)
 
-                * http://www.federalreserve.gov/pf/pf.htm
+                * [federalreserve.gov/pf/pf.htm](http://www.federalreserve.gov/pf/pf.htm)
 
-                * http://emerius.ofelon.org/online/it/lifelong-learning/basic-economics/italiano-partendo-da-zero/italiano-che-cose-leconomia/
+                * [emerius.ofelon.org/online/it/lifelong-learning/basic-economics/italiano-partendo-da-zero/italiano-che-cose-leconomia/](http://emerius.ofelon.org/online/it/lifelong-learning/basic-economics/italiano-partendo-da-zero/italiano-che-cose-leconomia/)
 
-                * https://www.youtube.com/watch?v=AGoRbs97rDM
+                * [](https://www.youtube.com/watch?v=AGoRbs97rDM)
 
-                * http://www.policonomics.com/marshallian-hicksian-demand-curves/
+                * [policonomics.com/marshallian-hicksian-demand-curves/](http://www.policonomics.com/marshallian-hicksian-demand-curves/)
 
-                * http://home.uchicago.edu/~vlima/courses/econ201/pricetext/CostMin.pdf
+                * [home.uchicago.edu/~vlima/courses/econ201/pricetext/CostMin.pdf](http://home.uchicago.edu/~vlima/courses/econ201/pricetext/CostMin.pdf)
 
-                * http://www.nsu.ru/rs/mw/link/Media:/30340/2014_%D0%9C%D0%B8%D0%BA%D1%80%D0%BE3_%D0%BC%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_%D0%A6%D1%8B%D0%BF%D0%BB%D0%B0%D0%BA%D0%BE%D0%B2_%D1%84%D0%B8%D0%BD.pdf
+                * [nsu.ru/rs/mw/link/Media:/30340/2014_%D0%9C%D0%B8%D0%BA%D1%80%D0%BE3_%D0%BC%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_%D0%A6%D1%8B%D0%BF%D0%BB%D0%B0%D0%BA%D0%BE%D0%B2_%D1%84%D0%B8%D0%BD.pdf](http://www.nsu.ru/rs/mw/link/Media:/30340/2014_%D0%9C%D0%B8%D0%BA%D1%80%D0%BE3_%D0%BC%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_%D0%A6%D1%8B%D0%BF%D0%BB%D0%B0%D0%BA%D0%BE%D0%B2_%D1%84%D0%B8%D0%BD.pdf)
 
 
         * [Paul Krugman | Nobel Prize Winner and Op-Ed Columnist for The New York Times](http://www.krugmanonline.com/)
@@ -12906,7 +12906,7 @@ Groteske Aufklärung
         * [econ to data science](https://vk.com/wall55724749_2109)
 
 
-        * [Econometrics Beat: Dave Giles' Blog: Suggested Reading for June](http://davegiles.blogspot.com/2018/06/suggested-reading-for-june.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+blogspot%2FjjOHE+%28Econometrics+Beat%3A+Dave+Giles%27+Blog%29)
+        * [Econometrics Beat: Dave Giles' Blog: Suggested Reading for June](http://davegiles.blogspot.com/2018/06/suggested-reading-for-june.html)
 
 
         * [Economic Growth Is No Longer Enough by Manuel Muñiz - Project Syndicate](https://www.project-syndicate.org/commentary/political-convulsions-despite-economic-growth-by-manuel-muniz-2017-10)
@@ -13004,522 +13004,522 @@ Groteske Aufklärung
 
         * [How Is the Middle Class Doing? | PolicyEd](https://www.policyed.org/numbers-game/hows-middle-class-doing/video)
 
-                * http://bibliograph.com.ua/adam-smit/index.htm
+                * [bibliograph.com.ua/adam-smit/index.htm](http://bibliograph.com.ua/adam-smit/index.htm)
 
-                * http://blogs.cfr.org/renewing-america/2012/06/26/foreign-languages-and-u-s-economic-competitiveness/
+                * [blogs.cfr.org/renewing-america/2012/06/26/foreign-languages-and-u-s-economic-competitiveness/](http://blogs.cfr.org/renewing-america/2012/06/26/foreign-languages-and-u-s-economic-competitiveness/)
 
-                * http://blogs.worldbank.org/es/team/david-evans
+                * [blogs.worldbank.org/es/team/david-evans](http://blogs.worldbank.org/es/team/david-evans)
 
-                * http://blogs.worldbank.org/team/donald-baum
+                * [blogs.worldbank.org/team/donald-baum](http://blogs.worldbank.org/team/donald-baum)
 
-                * http://centerforeducation.rice.edu/
+                * [centerforeducation.rice.edu/](http://centerforeducation.rice.edu/)
 
-                * http://dambisamoyo.com/
+                * [dambisamoyo.com/](http://dambisamoyo.com/)
 
-                * http://danariely.com/
+                * [danariely.com/](http://danariely.com/)
 
-                * http://data.worldbank.org/topic/education
+                * [data.worldbank.org/topic/education](http://data.worldbank.org/topic/education)
 
-                * http://datatopics.worldbank.org/education/
+                * [datatopics.worldbank.org/education/](http://datatopics.worldbank.org/education/)
 
-                * http://davidstockmanscontracorner.com/what-austerity-stiglitz-thrashes-a-strawman-with-a-keynesian-wet-noodle/
+                * [davidstockmanscontracorner.com/what-austerity-stiglitz-thrashes-a-strawman-with-a-keynesian-wet-noodle/](http://davidstockmanscontracorner.com/what-austerity-stiglitz-thrashes-a-strawman-with-a-keynesian-wet-noodle/)
 
-                * http://download.klostermann.de/leseprobe/9783465042648_leseprobe.pdf
+                * [download.klostermann.de/leseprobe/9783465042648_leseprobe.pdf](http://download.klostermann.de/leseprobe/9783465042648_leseprobe.pdf)
 
-                * http://dyson.cornell.edu/people/david-just
+                * [dyson.cornell.edu/people/david-just](http://dyson.cornell.edu/people/david-just)
 
-                * http://ec.europa.eu/eurostat/statistics-explained/index.php/Quality_of_life_indicators_-_measuring_quality_of_life
+                * [ec.europa.eu/eurostat/statistics-explained/index.php/Quality_of_life_indicators_-_measuring_quality_of_life](http://ec.europa.eu/eurostat/statistics-explained/index.php/Quality_of_life_indicators_-_measuring_quality_of_life)
 
-                * http://econ.la.psu.edu/people/i04
+                * [econ.la.psu.edu/people/i04](http://econ.la.psu.edu/people/i04)
 
-                * http://econ.lse.ac.uk/staff/spischke/phds/
+                * [econ.lse.ac.uk/staff/spischke/phds/](http://econ.lse.ac.uk/staff/spischke/phds/)
 
-                * http://economics-economicss.blogspot.com/2012/09/what-are-branches-of-economics.html
+                * [economics-economicss.blogspot.com/2012/09/what-are-branches-of-economics.html](http://economics-economicss.blogspot.com/2012/09/what-are-branches-of-economics.html)
 
-                * http://economics.mit.edu/files/3910
+                * [economics.mit.edu/files/3910](http://economics.mit.edu/files/3910)
 
-                * http://economics.mit.edu/files/8745
+                * [economics.mit.edu/files/8745](http://economics.mit.edu/files/8745)
 
-                * http://economics.sbs.ohio-state.edu/weinberg/
+                * [economics.sbs.ohio-state.edu/weinberg/](http://economics.sbs.ohio-state.edu/weinberg/)
 
-                * http://economie-francaise.blogspot.fr/?gclid=CLqkwIqd988CFZCcfgodU3gAEg
+                * [economie-francaise.blogspot.fr/?gclid=CLqkwIqd988CFZCcfgodU3gAEg](http://economie-francaise.blogspot.fr/?gclid=CLqkwIqd988CFZCcfgodU3gAEg)
 
-                * http://econphd.econwiki.com/
+                * [econphd.econwiki.com/](http://econphd.econwiki.com/)
 
-                * http://econphd.econwiki.com/books.htm
+                * [econphd.econwiki.com/books.htm](http://econphd.econwiki.com/books.htm)
 
-                * http://econweb.ucsd.edu/~v2crawford/BDTIntertemporalSlides12.pdf
+                * [econweb.ucsd.edu/~v2crawford/BDTIntertemporalSlides12.pdf](http://econweb.ucsd.edu/~v2crawford/BDTIntertemporalSlides12.pdf)
 
-                * http://econweb.ucsd.edu/~vcrawfor/ProcrasOxIntertemporalSlides14.pdf
+                * [econweb.ucsd.edu/~vcrawfor/ProcrasOxIntertemporalSlides14.pdf](http://econweb.ucsd.edu/~vcrawfor/ProcrasOxIntertemporalSlides14.pdf)
 
-                * http://econweb.umd.edu/~sarzosa/teach/
+                * [econweb.umd.edu/~sarzosa/teach/](http://econweb.umd.edu/~sarzosa/teach/)
 
-                * http://ecopsycho.gretha.cnrs.fr/spip.php?article218
+                * [ecopsycho.gretha.cnrs.fr/spip.php?article218](http://ecopsycho.gretha.cnrs.fr/spip.php?article218)
 
-                * http://ecopsycho.prod.lamp.cnrs.fr/
+                * [ecopsycho.prod.lamp.cnrs.fr/](http://ecopsycho.prod.lamp.cnrs.fr/)
 
-                * http://emerius.ofelon.org/online/it/lifelong-learning/basic-economics/italiano-partendo-da-zero/italiano-che-cose-leconomia/
+                * [emerius.ofelon.org/online/it/lifelong-learning/basic-economics/italiano-partendo-da-zero/italiano-che-cose-leconomia/](http://emerius.ofelon.org/online/it/lifelong-learning/basic-economics/italiano-partendo-da-zero/italiano-che-cose-leconomia/)
 
-                * http://emerius.ofelon.org/online/it/lifelong-learning/course-in-economics/1434-2/behavioural-economics/
+                * [emerius.ofelon.org/online/it/lifelong-learning/course-in-economics/1434-2/behavioural-economics/](http://emerius.ofelon.org/online/it/lifelong-learning/course-in-economics/1434-2/behavioural-economics/)
 
-                * http://emerius.ofelon.org/online/it/projects-2/ofelonomics/
+                * [emerius.ofelon.org/online/it/projects-2/ofelonomics/](http://emerius.ofelon.org/online/it/projects-2/ofelonomics/)
 
-                * http://eml.berkeley.edu/~webfac/card/e101a_s05/consumerenvelope.pdf
+                * [eml.berkeley.edu/~webfac/card/e101a_s05/consumerenvelope.pdf](http://eml.berkeley.edu/~webfac/card/e101a_s05/consumerenvelope.pdf)
 
-                * http://en.wikipedia.org/wiki/General_equilibrium_theory
+                * [en.wikipedia.org/wiki/General_equilibrium_theory](http://en.wikipedia.org/wiki/General_equilibrium_theory)
 
-                * http://evonomics.com/economics-is-a-mess-and-needs-to-be-reform/
+                * [evonomics.com/economics-is-a-mess-and-needs-to-be-reform/](http://evonomics.com/economics-is-a-mess-and-needs-to-be-reform/)
 
-                * http://evonomics.com/failed-economics-tyranny-of-mathematics-enslaved-wrong-theory/
+                * [evonomics.com/failed-economics-tyranny-of-mathematics-enslaved-wrong-theory/](http://evonomics.com/failed-economics-tyranny-of-mathematics-enslaved-wrong-theory/)
 
-                * http://evonomics.com/what-paul-krugman-needs-to-know-about-evolutionary-economics/?utm_source=facebook&utm_campaign=organic
+                * [evonomics.com/what-paul-krugman-needs-to-know-about-evolutionary-economics/](http://evonomics.com/what-paul-krugman-needs-to-know-about-evolutionary-economics/)
 
-                * http://expeconomics.blogspot.com/
+                * [expeconomics.blogspot.com/](http://expeconomics.blogspot.com/)
 
-                * http://expertise.hec.ca/actualiteeconomique/
+                * [expertise.hec.ca/actualiteeconomique/](http://expertise.hec.ca/actualiteeconomique/)
 
-                * http://fee.org/library/detail/economics-in-one-lesson-2
+                * [fee.org/library/detail/economics-in-one-lesson-2](http://fee.org/library/detail/economics-in-one-lesson-2)
 
-                * http://fee.org/the_freeman/detail/5-economic-myths-that-just-wont-die
+                * [fee.org/the_freeman/detail/5-economic-myths-that-just-wont-die](http://fee.org/the_freeman/detail/5-economic-myths-that-just-wont-die)
 
-                * http://fee.org/the_freeman/detail/hayeks-rules-of-order
+                * [fee.org/the_freeman/detail/hayeks-rules-of-order](http://fee.org/the_freeman/detail/hayeks-rules-of-order)
 
-                * http://fee.org/the_freeman/detail/the-message-from-eastern-europe
+                * [fee.org/the_freeman/detail/the-message-from-eastern-europe](http://fee.org/the_freeman/detail/the-message-from-eastern-europe)
 
-                * http://files.adulteducation.at/forschungsnetzwerk/48-Erwachsenenbildungsforschung_Ergebnisse%20Replikationsstudie%202015_PPP-1.pdf
+                * [files.adulteducation.at/forschungsnetzwerk/48-Erwachsenenbildungsforschung_Ergebnisse%20Replikationsstudie%202015_PPP-1.pdf](http://files.adulteducation.at/forschungsnetzwerk/48-Erwachsenenbildungsforschung_Ergebnisse%20Replikationsstudie%202015_PPP-1.pdf)
 
-                * http://fiscalship.org/?fbclid=IwAR05zcWG-5gRSziq4oMzRGe40FTvK87AOQMUgLkYSRxNDQrCtZ9bXl6-yBM
+                * [fiscalship.org/?fbclid=IwAR05zcWG-5gRSziq4oMzRGe40FTvK87AOQMUgLkYSRxNDQrCtZ9bXl6-yBM](http://fiscalship.org/?fbclid=IwAR05zcWG-5gRSziq4oMzRGe40FTvK87AOQMUgLkYSRxNDQrCtZ9bXl6-yBM)
 
-                * http://fmc.uz/main.php?id=econterm1
+                * [fmc.uz/main.php?id=econterm1](http://fmc.uz/main.php?id=econterm1)
 
-                * http://freakonomics.com/2012/02/17/more-commitment-devices-from-our-readers/
+                * [freakonomics.com/2012/02/17/more-commitment-devices-from-our-readers/](http://freakonomics.com/2012/02/17/more-commitment-devices-from-our-readers/)
 
-                * http://gess.uni-mannheim.de/doctoral-programs/economics-cdse/course-catalog/fall-2016.html
+                * [gess.uni-mannheim.de/doctoral-programs/economics-cdse/course-catalog/fall-2016.html](http://gess.uni-mannheim.de/doctoral-programs/economics-cdse/course-catalog/fall-2016.html)
 
-                * http://gold-standard.procon.org/
+                * [gold-standard.procon.org/](http://gold-standard.procon.org/)
 
-                * http://home.uchicago.edu/~vlima/courses/econ201/pricetext/CostMin.pdf
+                * [home.uchicago.edu/~vlima/courses/econ201/pricetext/CostMin.pdf](http://home.uchicago.edu/~vlima/courses/econ201/pricetext/CostMin.pdf)
 
-                * http://homepage.univie.ac.at/andreas.novak/QM12VO.PDF
+                * [homepage.univie.ac.at/andreas.novak/QM12VO.PDF](http://homepage.univie.ac.at/andreas.novak/QM12VO.PDF)
 
-                * http://idealisticpragmatist.blogspot.com/2007/02/six-reasons-to-support-proportional.html
+                * [idealisticpragmatist.blogspot.com/2007/02/six-reasons-to-support-proportional.html](http://idealisticpragmatist.blogspot.com/2007/02/six-reasons-to-support-proportional.html)
 
 
     - Reading List (2)
-                * http://ideas4development.org/enseignement-prive-atout-afrique-subsaharienne/
+                * [ideas4development.org/enseignement-prive-atout-afrique-subsaharienne/](http://ideas4development.org/enseignement-prive-atout-afrique-subsaharienne/)
 
-                * http://innovations.com.ua/ua/articles/finance/17951/povedinkova-ekonomika-pro-ilyuziyu-prichina-naslidok
+                * [innovations.com.ua/ua/articles/finance/17951/povedinkova-ekonomika-pro-ilyuziyu-prichina-naslidok](http://innovations.com.ua/ua/articles/finance/17951/povedinkova-ekonomika-pro-ilyuziyu-prichina-naslidok)
 
-                * http://ipstats.wipo.int/ipstatv2/IpsStatsResultvalue
+                * [ipstats.wipo.int/ipstatv2/IpsStatsResultvalue](http://ipstats.wipo.int/ipstatv2/IpsStatsResultvalue)
 
-                * http://is.muni.cz/el/1423/podzim2012/SOC409/um/2001_Lucas_Effectively_Maintained_Inequality.pdf
+                * [is.muni.cz/el/1423/podzim2012/SOC409/um/2001_Lucas_Effectively_Maintained_Inequality.pdf](http://is.muni.cz/el/1423/podzim2012/SOC409/um/2001_Lucas_Effectively_Maintained_Inequality.pdf)
 
-                * http://lesswrong.com/lw/9si/is_sunk_cost_fallacy_a_fallacy/
+                * [lesswrong.com/lw/9si/is_sunk_cost_fallacy_a_fallacy/](http://lesswrong.com/lw/9si/is_sunk_cost_fallacy_a_fallacy/)
 
-                * http://library.hse.ru/e-resources/HSE_economic_journal/articles/16_03_06.pdf
+                * [library.hse.ru/e-resources/HSE_economic_journal/articles/16_03_06.pdf](http://library.hse.ru/e-resources/HSE_economic_journal/articles/16_03_06.pdf)
 
-                * http://mjo.osborne.economics.utoronto.ca/index.php/tutorial/index/1/mee/t
+                * [mjo.osborne.economics.utoronto.ca/index.php/tutorial/index/1/mee/t](http://mjo.osborne.economics.utoronto.ca/index.php/tutorial/index/1/mee/t)
 
-                * http://mjo.osborne.economics.utoronto.ca/index.php/tutorial/index/1/toc
+                * [mjo.osborne.economics.utoronto.ca/index.php/tutorial/index/1/toc](http://mjo.osborne.economics.utoronto.ca/index.php/tutorial/index/1/toc)
 
-                * http://moneyaswealth.blogspot.com/search?updated-min=2008-01-01T00:00:00-06:00&updated-max=2009-01-01T00:00:00-06:00&max-results=50
+                * [moneyaswealth.blogspot.com/search?updated-min=2008-01-01T00:00:00-06:00&updated-max=2009-01-01T00:00:00-06:00&max-results=50](http://moneyaswealth.blogspot.com/search?updated-min=2008-01-01T00:00:00-06:00&updated-max=2009-01-01T00:00:00-06:00&max-results=50)
 
-                * http://noahpinionblog.blogspot.jp/2012/02/how-i-survived-economics-job-market.html
+                * [noahpinionblog.blogspot.jp/2012/02/how-i-survived-economics-job-market.html](http://noahpinionblog.blogspot.jp/2012/02/how-i-survived-economics-job-market.html)
 
-                * http://ogossner.free.fr/Theodec/Chapitre1.pdf
+                * [ogossner.free.fr/Theodec/Chapitre1.pdf](http://ogossner.free.fr/Theodec/Chapitre1.pdf)
 
-                * http://oikonomics.uoc.edu/divulgacio/oikonomics/es/numero06/sumari.html
+                * [oikonomics.uoc.edu/divulgacio/oikonomics/es/numero06/sumari.html](http://oikonomics.uoc.edu/divulgacio/oikonomics/es/numero06/sumari.html)
 
-                * http://openeconomics.net/
+                * [openeconomics.net/](http://openeconomics.net/)
 
-                * http://perspicuity.net/sd/pub-choice.html
+                * [perspicuity.net/sd/pub-choice.html](http://perspicuity.net/sd/pub-choice.html)
 
-                * http://physics.bu.edu/~duffy/py105/Secondlaw.html
+                * [physics.bu.edu/~duffy/py105/Secondlaw.html](http://physics.bu.edu/~duffy/py105/Secondlaw.html)
 
-                * http://portal.igpublish.com/iglibrary/search/BEPB0000215.html?2
+                * [portal.igpublish.com/iglibrary/search/BEPB0000215.html?2](http://portal.igpublish.com/iglibrary/search/BEPB0000215.html?2)
 
-                * http://reports.weforum.org/human-capital-report-2015/rankings/
+                * [reports.weforum.org/human-capital-report-2015/rankings/](http://reports.weforum.org/human-capital-report-2015/rankings/)
 
-                * http://scienceblogs.de/zoonpolitikon/2008/04/22/spieltheorie-einfach-erklart-i-einleitung-und-gefangenendilemma/
+                * [scienceblogs.de/zoonpolitikon/2008/04/22/spieltheorie-einfach-erklart-i-einleitung-und-gefangenendilemma/](http://scienceblogs.de/zoonpolitikon/2008/04/22/spieltheorie-einfach-erklart-i-einleitung-und-gefangenendilemma/)
 
-                * http://slatestarcodex.com/2016/06/14/three-more-articles-on-poverty-and-why-they-disagree-with-each-other/
+                * [slatestarcodex.com/2016/06/14/three-more-articles-on-poverty-and-why-they-disagree-with-each-other/](http://slatestarcodex.com/2016/06/14/three-more-articles-on-poverty-and-why-they-disagree-with-each-other/)
 
-                * http://talk.collegeconfidential.com/engineering-majors/1450799-professors-at-higher-ranked-vs-lower-ranked-schools-questions.html
+                * [talk.collegeconfidential.com/engineering-majors/1450799-professors-at-higher-ranked-vs-lower-ranked-schools-questions.html](http://talk.collegeconfidential.com/engineering-majors/1450799-professors-at-higher-ranked-vs-lower-ranked-schools-questions.html)
 
-                * http://tobinproject.org/
+                * [tobinproject.org/](http://tobinproject.org/)
 
-                * http://webdelprofesor.ula.ve/ciencias/lico/Libros/MATECONOMI.pdf
+                * [webdelprofesor.ula.ve/ciencias/lico/Libros/MATECONOMI.pdf](http://webdelprofesor.ula.ve/ciencias/lico/Libros/MATECONOMI.pdf)
 
-                * http://widgets.weforum.org/human-capital-2015/
+                * [widgets.weforum.org/human-capital-2015/](http://widgets.weforum.org/human-capital-2015/)
 
-                * http://wikisum.com/w/Downs:_An_economic_theory_of_democracy
+                * [wikisum.com/w/Downs:_An_economic_theory_of_democracy](http://wikisum.com/w/Downs:_An_economic_theory_of_democracy)
 
-                * http://wirtschaftslexikon.gabler.de/Definition/informationsoekonomik.html
+                * [wirtschaftslexikon.gabler.de/Definition/informationsoekonomik.html](http://wirtschaftslexikon.gabler.de/Definition/informationsoekonomik.html)
 
-                * http://wirtschaftslexikon.gabler.de/Definition/neue-politische-oekonomie.html
+                * [wirtschaftslexikon.gabler.de/Definition/neue-politische-oekonomie.html](http://wirtschaftslexikon.gabler.de/Definition/neue-politische-oekonomie.html)
 
-                * http://wps.aw.com/aw_weil_econgrowth_3/230/58938/15088217.cw/index.html
+                * [wps.aw.com/aw_weil_econgrowth_3/230/58938/15088217.cw/index.html](http://wps.aw.com/aw_weil_econgrowth_3/230/58938/15088217.cw/index.html)
 
-                * http://www.allaboutscience.org/second-law-of-thermodynamics.htm
+                * [allaboutscience.org/second-law-of-thermodynamics.htm](http://www.allaboutscience.org/second-law-of-thermodynamics.htm)
 
-                * http://www.alternatives-economiques.fr/page.php?rub=50
+                * [alternatives-economiques.fr/page.php?rub=50](http://www.alternatives-economiques.fr/page.php?rub=50)
 
-                * http://www.andlil.com/definition-deconomie-comportementale-151154.html
+                * [andlil.com/definition-deconomie-comportementale-151154.html](http://www.andlil.com/definition-deconomie-comportementale-151154.html)
 
-                * http://www.annualreviews.org/doi/pdf/10.1146/annurev.economics.102308.124324
+                * [annualreviews.org/doi/pdf/10.1146/annurev.economics.102308.124324](http://www.annualreviews.org/doi/pdf/10.1146/annurev.economics.102308.124324)
 
-                * http://www.atlantico.fr/decryptage/pourquoi-pourquoi-prend-on-decisions-peu-rationnelles-economie-comportementale-daniel-kahneman-dan-ariely-222305.html
+                * [atlantico.fr/decryptage/pourquoi-pourquoi-prend-on-decisions-peu-rationnelles-economie-comportementale-daniel-kahneman-dan-ariely-222305.html](http://www.atlantico.fr/decryptage/pourquoi-pourquoi-prend-on-decisions-peu-rationnelles-economie-comportementale-daniel-kahneman-dan-ariely-222305.html)
 
-                * http://www.behavioraleconomics.com/
+                * [behavioraleconomics.com/](http://www.behavioraleconomics.com/)
 
-                * http://www.behavioraleconomics.com/academic-journals/
+                * [behavioraleconomics.com/academic-journals/](http://www.behavioraleconomics.com/academic-journals/)
 
-                * http://www.behavioraleconomics.com/blog/
+                * [behavioraleconomics.com/blog/](http://www.behavioraleconomics.com/blog/)
 
-                * http://www.behavioraleconomics.com/introduction-to-be/
+                * [behavioraleconomics.com/introduction-to-be/](http://www.behavioraleconomics.com/introduction-to-be/)
 
-                * http://www.bsi-economics.org/
+                * [bsi-economics.org/](http://www.bsi-economics.org/)
 
-                * http://www.businessinsider.com/the-worlds-best-behavioral-economics-reading-list-2011-6
+                * [businessinsider.com/the-worlds-best-behavioral-economics-reading-list-2011-6](http://www.businessinsider.com/the-worlds-best-behavioral-economics-reading-list-2011-6)
 
-                * http://www.cairn.info/revue-reflets-et-perspectives-de-la-vie-economique-2012-3-page-43.htm
+                * [cairn.info/revue-reflets-et-perspectives-de-la-vie-economique-2012-3-page-43.htm](http://www.cairn.info/revue-reflets-et-perspectives-de-la-vie-economique-2012-3-page-43.htm)
 
-                * http://www.dm.uniba.it/~basile/pagina_web_2012/Econometria/Econometria.htm
+                * [dm.uniba.it/~basile/pagina_web_2012/Econometria/Econometria.htm](http://www.dm.uniba.it/~basile/pagina_web_2012/Econometria/Econometria.htm)
 
-                * http://www.eco.uc3m.es/~mmachado/Teaching/
+                * [eco.uc3m.es/~mmachado/Teaching/](http://www.eco.uc3m.es/~mmachado/Teaching/)
 
-                * http://www.econ.msu.ru/ext/lib/Category/x19/x0a/6410/file/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%2012.pdf
+                * [econ.msu.ru/ext/lib/Category/x19/x0a/6410/file/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%2012.pdf](http://www.econ.msu.ru/ext/lib/Category/x19/x0a/6410/file/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%2012.pdf)
 
-                * http://www.econ.nyu.edu/user/benhabib/pshype0106.pdf
+                * [econ.nyu.edu/user/benhabib/pshype0106.pdf](http://www.econ.nyu.edu/user/benhabib/pshype0106.pdf)
 
-                * http://www.econ.ohio-state.edu/weinberg/#Press Material
+                * [econ.ohio-state.edu/weinberg/#Press](http://www.econ.ohio-state.edu/weinberg/#Press) Material
 
-                * http://www.econ.uba.ar/www/departamentos/matematica/plan97/meconomistas/catedras.html
+                * [econ.uba.ar/www/departamentos/matematica/plan97/meconomistas/catedras.html](http://www.econ.uba.ar/www/departamentos/matematica/plan97/meconomistas/catedras.html)
 
-                * http://www.econ.uba.ar/www/departamentos/matematica/plan97/meconomistas/fronti/Macaya/Archivos/Practica%209.%20Ecuaciones%20diferenciales.pdf
+                * [econ.uba.ar/www/departamentos/matematica/plan97/meconomistas/fronti/Macaya/Archivos/Practica%209.%20Ecuaciones%20diferenciales.pdf](http://www.econ.uba.ar/www/departamentos/matematica/plan97/meconomistas/fronti/Macaya/Archivos/Practica%209.%20Ecuaciones%20diferenciales.pdf)
 
-                * http://www.econlib.org/index.html
+                * [econlib.org/index.html](http://www.econlib.org/index.html)
 
-                * http://www.econlib.org/library/Enc/PublicChoice.html
+                * [econlib.org/library/Enc/PublicChoice.html](http://www.econlib.org/library/Enc/PublicChoice.html)
 
-                * http://www.econlinks.com/career_options.php
+                * [econlinks.com/career_options.php](http://www.econlinks.com/career_options.php)
 
-                * http://www.economia48.com/deu/
+                * [economia48.com/deu/](http://www.economia48.com/deu/)
 
-                * http://www.economia48.com/deu/wirtschaftslexikon.htm
+                * [economia48.com/deu/wirtschaftslexikon.htm](http://www.economia48.com/deu/wirtschaftslexikon.htm)
 
-                * http://www.economiacomportamental.org/
+                * [economiacomportamental.org/](http://www.economiacomportamental.org/)
 
-                * http://www.economiacomportamental.org/blog/
+                * [economiacomportamental.org/blog/](http://www.economiacomportamental.org/blog/)
 
-                * http://www.economiacomportamental.org/guia/
+                * [economiacomportamental.org/guia/](http://www.economiacomportamental.org/guia/)
 
-                * http://www.economics.uni-wuerzburg.de/fileadmin/wifak/Downloadpool/Dokumente/Studiendekanat/Sonstiges/Fakultaetsbroschuere_web.pdf
+                * [economics.uni-wuerzburg.de/fileadmin/wifak/Downloadpool/Dokumente/Studiendekanat/Sonstiges/Fakultaetsbroschuere_web.pdf](http://www.economics.uni-wuerzburg.de/fileadmin/wifak/Downloadpool/Dokumente/Studiendekanat/Sonstiges/Fakultaetsbroschuere_web.pdf)
 
-                * http://www.economicshelp.org/blog/5002/economics/pros-and-cons-of-capitalism/
+                * [economicshelp.org/blog/5002/economics/pros-and-cons-of-capitalism/](http://www.economicshelp.org/blog/5002/economics/pros-and-cons-of-capitalism/)
 
-                * http://www.economicthought.net/blog/2014/01/100-best-economics-books/
+                * [economicthought.net/blog/2014/01/100-best-economics-books/](http://www.economicthought.net/blog/2014/01/100-best-economics-books/)
 
-                * http://www.econstor.eu/bitstream/10419/51653/1/664646352.pdf
+                * [econstor.eu/bitstream/10419/51653/1/664646352.pdf](http://www.econstor.eu/bitstream/10419/51653/1/664646352.pdf)
 
-                * http://www.econtalk.org/archives/2015/11/michael_matheso.html
+                * [econtalk.org/archives/2015/11/michael_matheso.html](http://www.econtalk.org/archives/2015/11/michael_matheso.html)
 
-                * http://www.educadictos.com/econometria/
+                * [educadictos.com/econometria/](http://www.educadictos.com/econometria/)
 
-                * http://www.env-econ.net/
+                * [env-econ.net/](http://www.env-econ.net/)
 
-                * http://www.esri.ie/research/behavioural-economics/
+                * [esri.ie/research/behavioural-economics/](http://www.esri.ie/research/behavioural-economics/)
 
-                * http://www.ethicaladvisor.com/pdf/books/DEAD_AID.pdf
+                * [ethicaladvisor.com/pdf/books/DEAD_AID.pdf](http://www.ethicaladvisor.com/pdf/books/DEAD_AID.pdf)
 
-                * http://www.europe1.fr/economie/que-va-changer-le-projet-de-loi-el-khomri-dans-la-vie-des-salaries-2671489
+                * [europe1.fr/economie/que-va-changer-le-projet-de-loi-el-khomri-dans-la-vie-des-salaries-2671489](http://www.europe1.fr/economie/que-va-changer-le-projet-de-loi-el-khomri-dans-la-vie-des-salaries-2671489)
 
-                * http://www.federalreserve.gov/pf/pf.htm
+                * [federalreserve.gov/pf/pf.htm](http://www.federalreserve.gov/pf/pf.htm)
 
-                * http://www.fehradvice.com/blog/2015/03/05/podcast-wie-die-weltbank-mit-behavioral-economics-eine-milliarde-menschen-aus-der-armut-holen-will/
+                * [fehradvice.com/blog/2015/03/05/podcast-wie-die-weltbank-mit-behavioral-economics-eine-milliarde-menschen-aus-der-armut-holen-will/](http://www.fehradvice.com/blog/2015/03/05/podcast-wie-die-weltbank-mit-behavioral-economics-eine-milliarde-menschen-aus-der-armut-holen-will/)
 
-                * http://www.fiwi.econ.uni-muenchen.de/lehre/archiv/vorlesungen/200708_allokation/allokation_kap7.pdf
+                * [fiwi.econ.uni-muenchen.de/lehre/archiv/vorlesungen/200708_allokation/allokation_kap7.pdf](http://www.fiwi.econ.uni-muenchen.de/lehre/archiv/vorlesungen/200708_allokation/allokation_kap7.pdf)
 
-                * http://www.focus-economics.com/countries/kenya
+                * [focus-economics.com/countries/kenya](http://www.focus-economics.com/countries/kenya)
 
-                * http://www.frontier-economics.com/de/
+                * [frontier-economics.com/de/](http://www.frontier-economics.com/de/)
 
-                * http://www.gwern.net/Sunk%20cost
+                * [gwern.net/Sunk%20cost](http://www.gwern.net/Sunk%20cost)
 
-                * http://www.handelszeitung.ch/blogs/free-lunch/die-zehn-gebote-fuer-oekonomen-1058332
+                * [handelszeitung.ch/blogs/free-lunch/die-zehn-gebote-fuer-oekonomen-1058332](http://www.handelszeitung.ch/blogs/free-lunch/die-zehn-gebote-fuer-oekonomen-1058332)
 
-                * http://www.hsto.info/econometrics/
+                * [hsto.info/econometrics/](http://www.hsto.info/econometrics/)
 
-                * http://www.igmchicago.org/igm-economic-experts-panel
+                * [igmchicago.org/igm-economic-experts-panel](http://www.igmchicago.org/igm-economic-experts-panel)
 
-                * http://www.in-cites.com/nobel/2007-eco-top100.html
+                * [in-cites.com/nobel/2007-eco-top100.html](http://www.in-cites.com/nobel/2007-eco-top100.html)
 
-                * http://www.inc.com/constantine-von-hoffman/10-essential-news-sources-for-economic-heretics.html
+                * [inc.com/constantine-von-hoffman/10-essential-news-sources-for-economic-heretics.html](http://www.inc.com/constantine-von-hoffman/10-essential-news-sources-for-economic-heretics.html)
 
-                * http://www.journalrepository.org/media/journals/BJESBS_21/2016/Mar/Boliver1522016BJESBS24563.pdf
+                * [journalrepository.org/media/journals/BJESBS_21/2016/Mar/Boliver1522016BJESBS24563.pdf](http://www.journalrepository.org/media/journals/BJESBS_21/2016/Mar/Boliver1522016BJESBS24563.pdf)
 
-                * http://www.leconomiste.eu/decryptage-economie/63-l-economiste-de-la-semaine-kenneth-j-arrow.html
+                * [leconomiste.eu/decryptage-economie/63-l-economiste-de-la-semaine-kenneth-j-arrow.html](http://www.leconomiste.eu/decryptage-economie/63-l-economiste-de-la-semaine-kenneth-j-arrow.html)
 
-                * http://www.lemonde.fr/economie/article/2015/05/27/les-mathematiques-une-bonne-equation-pour-la-croissance_4641502_3234.html
+                * [lemonde.fr/economie/article/2015/05/27/les-mathematiques-une-bonne-equation-pour-la-croissance_4641502_3234.html](http://www.lemonde.fr/economie/article/2015/05/27/les-mathematiques-une-bonne-equation-pour-la-croissance_4641502_3234.html)
 
-                * http://www.let.rug.nl/usa/outlines/economy-1991/the-role-of-government-in-the-economy/laissez-faire-vs-government-intervention.php
+                * [let.rug.nl/usa/outlines/economy-1991/the-role-of-government-in-the-economy/laissez-faire-vs-government-intervention.php](http://www.let.rug.nl/usa/outlines/economy-1991/the-role-of-government-in-the-economy/laissez-faire-vs-government-intervention.php)
 
-                * http://www.listmuse.com/100-best-economics-books-time.php
+                * [listmuse.com/100-best-economics-books-time.php](http://www.listmuse.com/100-best-economics-books-time.php)
 
-                * http://www.math.nyu.edu/fellows_fin_math/rosenblu/appendixa.pdf
+                * [math.nyu.edu/fellows_fin_math/rosenblu/appendixa.pdf](http://www.math.nyu.edu/fellows_fin_math/rosenblu/appendixa.pdf)
 
-                * http://www.millenaire3.com/interview/les-principes-de-l-economie-comportementale
+                * [millenaire3.com/interview/les-principes-de-l-economie-comportementale](http://www.millenaire3.com/interview/les-principes-de-l-economie-comportementale)
 
-                * http://www.mzes.uni-mannheim.de/d7/en
+                * [mzes.uni-mannheim.de/d7/en](http://www.mzes.uni-mannheim.de/d7/en)
 
-                * http://www.nationmaster.com/country-info/stats/Economy/Innovation
+                * [nationmaster.com/country-info/stats/Economy/Innovation](http://www.nationmaster.com/country-info/stats/Economy/Innovation)
 
-                * http://www.nonfiction.fr/article-8796-et_si_les_economistes_sinteressaient_au_reel_.htm
+                * [nonfiction.fr/article-8796-et_si_les_economistes_sinteressaient_au_reel_.htm](http://www.nonfiction.fr/article-8796-et_si_les_economistes_sinteressaient_au_reel_.htm)
 
-                * http://www.npr.org/sections/goatsandsoda/2017/01/21/509555816/how-do-you-know-if-aid-really-works-turns-out-we-often-dont
+                * [npr.org/sections/goatsandsoda/2017/01/21/509555816/how-do-you-know-if-aid-really-works-turns-out-we-often-dont](http://www.npr.org/sections/goatsandsoda/2017/01/21/509555816/how-do-you-know-if-aid-really-works-turns-out-we-often-dont)
 
-                * http://www.nsu.ru/rs/mw/link/Media:/30340/2014_%D0%9C%D0%B8%D0%BA%D1%80%D0%BE3_%D0%BC%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_%D0%A6%D1%8B%D0%BF%D0%BB%D0%B0%D0%BA%D0%BE%D0%B2_%D1%84%D0%B8%D0%BD.pdf
+                * [nsu.ru/rs/mw/link/Media:/30340/2014_%D0%9C%D0%B8%D0%BA%D1%80%D0%BE3_%D0%BC%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_%D0%A6%D1%8B%D0%BF%D0%BB%D0%B0%D0%BA%D0%BE%D0%B2_%D1%84%D0%B8%D0%BD.pdf](http://www.nsu.ru/rs/mw/link/Media:/30340/2014_%D0%9C%D0%B8%D0%BA%D1%80%D0%BE3_%D0%BC%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_%D0%A6%D1%8B%D0%BF%D0%BB%D0%B0%D0%BA%D0%BE%D0%B2_%D1%84%D0%B8%D0%BD.pdf)
 
-                * http://www.nytimes.com/2009/09/06/magazine/06Economic-t.html?pagewanted=all&_r=0
+                * [nytimes.com/2009/09/06/magazine/06Economic-t.html?pagewanted=all&_r=0](http://www.nytimes.com/2009/09/06/magazine/06Economic-t.html?pagewanted=all&_r=0)
 
-                * http://www.parisschoolofeconomics.eu/fr/economie-pour-tous/
+                * [parisschoolofeconomics.eu/fr/economie-pour-tous/](http://www.parisschoolofeconomics.eu/fr/economie-pour-tous/)
 
-                * http://www.policonomics.com/marshallian-hicksian-demand-curves/
+                * [policonomics.com/marshallian-hicksian-demand-curves/](http://www.policonomics.com/marshallian-hicksian-demand-curves/)
 
-                * http://www.reuters.com/article/us-college-choice-pay-potential-idUSKBN0UI1BQ20160104
+                * [reuters.com/article/us-college-choice-pay-potential-idUSKBN0UI1BQ20160104](http://www.reuters.com/article/us-college-choice-pay-potential-idUSKBN0UI1BQ20160104)
 
-                * http://www.revistaasturianadeeconomia.org/raepdf/38/39_54SALEMI.pdf
+                * [revistaasturianadeeconomia.org/raepdf/38/39_54SALEMI.pdf](http://www.revistaasturianadeeconomia.org/raepdf/38/39_54SALEMI.pdf)
 
-                * http://www.shsu.edu/academics/economics-and-international-business/faculty/index.html
+                * [shsu.edu/academics/economics-and-international-business/faculty/index.html](http://www.shsu.edu/academics/economics-and-international-business/faculty/index.html)
 
-                * http://www.slateafrique.com/20967/pourquoi-afrique-ne-se-developpe-pas-economie-corruption-agriculture
+                * [slateafrique.com/20967/pourquoi-afrique-ne-se-developpe-pas-economie-corruption-agriculture](http://www.slateafrique.com/20967/pourquoi-afrique-ne-se-developpe-pas-economie-corruption-agriculture)
 
-                * http://www.slateafrique.com/98135/economie-classementles-10-pays-africains-les-plus-prosperes
+                * [slateafrique.com/98135/economie-classementles-10-pays-africains-les-plus-prosperes](http://www.slateafrique.com/98135/economie-classementles-10-pays-africains-les-plus-prosperes)
 
-                * http://www.tc.columbia.edu/articles/2011/march/understanding-inequality-samuel-lucas/
+                * [tc.columbia.edu/articles/2011/march/understanding-inequality-samuel-lucas/](http://www.tc.columbia.edu/articles/2011/march/understanding-inequality-samuel-lucas/)
 
-                * http://www.theglobeandmail.com/opinion/how-jeffrey-sachs-failed-to-save-africa/article14436055/
+                * [theglobeandmail.com/opinion/how-jeffrey-sachs-failed-to-save-africa/article14436055/](http://www.theglobeandmail.com/opinion/how-jeffrey-sachs-failed-to-save-africa/article14436055/)
 
-                * http://www.treccani.it/enciclopedia/economia-comportamentale_(Dizionario_di_Economia_e_Finanza)/
+                * [treccani.it/enciclopedia/economia-comportamentale_(Dizionario_di_Economia_e_Finanza)/](http://www.treccani.it/enciclopedia/economia-comportamentale_(Dizionario_di_Economia_e_Finanza)/)
 
-                * http://www.tyturley.com/index.html
+                * [tyturley.com/index.html](http://www.tyturley.com/index.html)
 
-                * http://www.uh.edu/class/economics/people/faculty/
+                * [uh.edu/class/economics/people/faculty/](http://www.uh.edu/class/economics/people/faculty/)
 
-                * http://www.usnews.com/opinion/blogs/economic-intelligence/2014/01/29/the-business-benefits-of-learning-a-foreign-language
+                * [usnews.com/opinion/blogs/economic-intelligence/2014/01/29/the-business-benefits-of-learning-a-foreign-language](http://www.usnews.com/opinion/blogs/economic-intelligence/2014/01/29/the-business-benefits-of-learning-a-foreign-language)
 
-                * http://www.welt.de/wirtschaft/article109805512/Wer-ist-denn-nun-der-beste-Oekonom-der-Welt.html
+                * [welt.de/wirtschaft/article109805512/Wer-ist-denn-nun-der-beste-Oekonom-der-Welt.html](http://www.welt.de/wirtschaft/article109805512/Wer-ist-denn-nun-der-beste-Oekonom-der-Welt.html)
 
-                * http://www.welt.de/wirtschaft/article109811089/Ernuechternde-Bilanz-der-hippen-Verhaltensoekonomen.html
+                * [welt.de/wirtschaft/article109811089/Ernuechternde-Bilanz-der-hippen-Verhaltensoekonomen.html](http://www.welt.de/wirtschaft/article109811089/Ernuechternde-Bilanz-der-hippen-Verhaltensoekonomen.html)
 
-                * http://www.whatiseconomics.org/microeconomics
+                * [whatiseconomics.org/microeconomics](http://www.whatiseconomics.org/microeconomics)
 
-                * http://www.wiwi.uni-frankfurt.de/profs/rommelfanger/index/dokumente/et-1.pdf
+                * [wiwi.uni-frankfurt.de/profs/rommelfanger/index/dokumente/et-1.pdf](http://www.wiwi.uni-frankfurt.de/profs/rommelfanger/index/dokumente/et-1.pdf)
 
-                * http://www.yourarticlelibrary.com/essay/economics-meaning-nature-and-branches-of-economics/45991/
+                * [yourarticlelibrary.com/essay/economics-meaning-nature-and-branches-of-economics/45991/](http://www.yourarticlelibrary.com/essay/economics-meaning-nature-and-branches-of-economics/45991/)
 
-                * https://archive.is/20170518160953/https://www.povertyactionlab.org/sites/default/files/119%20FP,%20Top%20100%20Intellectuals.pdf
+                * [archive.is/20170518160953/https://www.povertyactionlab.org/sites/default/files/119%20FP,%20Top%20100%20Intellectuals.pdf](https://archive.is/20170518160953/https://www.povertyactionlab.org/sites/default/files/119%20FP,%20Top%20100%20Intellectuals.pdf)
 
-                * https://bfi.uchicago.edu/feature-story/path-ahead-economic-theory?utm_content=buffer2a330&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+                * [bfi.uchicago.edu/feature-story/path-ahead-economic-theory](https://bfi.uchicago.edu/feature-story/path-ahead-economic-theory)
 
-                * https://blog.supplysideliberal.com/post/56397533849/why-i-write
+                * [blog.supplysideliberal.com/post/56397533849/why-i-write](https://blog.supplysideliberal.com/post/56397533849/why-i-write)
 
-                * https://books.google.com/books?hl=de&lr=&id=gnUDc5SfJ6QC&oi=fnd&pg=PP2&dq=Economics+of+Education&ots=ndwxxXfDVt&sig=6S0Zk8GgKUnIsPJCIfL_y5ZFK90#v=onepage&q=Economics%20of%20Education&f=false
+                * [books.google.com/books?hl=de&lr=&id=gnUDc5SfJ6QC&oi=fnd&pg=PP2&dq=Economics+of+Education&ots=ndwxxXfDVt&sig=6S0Zk8GgKUnIsPJCIfL_y5ZFK90#v=onepage&q=Economics%20of%20Education&f=false](https://books.google.com/books?hl=de&lr=&id=gnUDc5SfJ6QC&oi=fnd&pg=PP2&dq=Economics+of+Education&ots=ndwxxXfDVt&sig=6S0Zk8GgKUnIsPJCIfL_y5ZFK90#v=onepage&q=Economics%20of%20Education&f=false)
 
-                * https://books.google.com/books?hl=de&lr=&id=vnOoBQAAQBAJ&oi=fnd&pg=PP1&dq=Economics+of+Education&ots=oFVQXNqBxA&sig=yFA6WyBqS_MPFjfSjkU8m_kdAP8#v=onepage&q=Economics%20of%20Education&f=false
+                * [books.google.com/books?hl=de&lr=&id=vnOoBQAAQBAJ&oi=fnd&pg=PP1&dq=Economics+of+Education&ots=oFVQXNqBxA&sig=yFA6WyBqS_MPFjfSjkU8m_kdAP8#v=onepage&q=Economics%20of%20Education&f=false](https://books.google.com/books?hl=de&lr=&id=vnOoBQAAQBAJ&oi=fnd&pg=PP1&dq=Economics+of+Education&ots=oFVQXNqBxA&sig=yFA6WyBqS_MPFjfSjkU8m_kdAP8#v=onepage&q=Economics%20of%20Education&f=false)
 
-                * https://books.google.com/books?hl=de&lr=&id=yRGjBQAAQBAJ&oi=fnd&pg=PP1&dq=Economics+of+Education&ots=UlymL0fB8Z&sig=igrZUW5RiHCif_kD0M-mNBotSMw#v=onepage&q=Economics%20of%20Education&f=false
+                * [books.google.com/books?hl=de&lr=&id=yRGjBQAAQBAJ&oi=fnd&pg=PP1&dq=Economics+of+Education&ots=UlymL0fB8Z&sig=igrZUW5RiHCif_kD0M-mNBotSMw#v=onepage&q=Economics%20of%20Education&f=false](https://books.google.com/books?hl=de&lr=&id=yRGjBQAAQBAJ&oi=fnd&pg=PP1&dq=Economics+of+Education&ots=UlymL0fB8Z&sig=igrZUW5RiHCif_kD0M-mNBotSMw#v=onepage&q=Economics%20of%20Education&f=false)
 
-                * https://books.google.com/books?hl=de&lr=&id=yRGjBQAAQBAJ&oi=fnd&pg=PP1&dq=key+articles+on+education+economics&ots=UlymL0dE5_&sig=07ynafcbJAELyd1xrVNwe8eKnWU#v=onepage&q=key%20articles%20on%20education%20economics&f=false
+                * [books.google.com/books?hl=de&lr=&id=yRGjBQAAQBAJ&oi=fnd&pg=PP1&dq=key+articles+on+education+economics&ots=UlymL0dE5_&sig=07ynafcbJAELyd1xrVNwe8eKnWU#v=onepage&q=key%20articles%20on%20education%20economics&f=false](https://books.google.com/books?hl=de&lr=&id=yRGjBQAAQBAJ&oi=fnd&pg=PP1&dq=key+articles+on+education+economics&ots=UlymL0dE5_&sig=07ynafcbJAELyd1xrVNwe8eKnWU#v=onepage&q=key%20articles%20on%20education%20economics&f=false)
 
-                * https://books.google.com/books?id=mGlaJmQaW1YC&pg=PR9&lpg=PR9&dq=statistique+pour+economistes&source=bl&ots=onE7IlOaRT&sig=q_ucx19MmyZsd8UHKyF59xC-Fok&hl=es&sa=X&ved=0ahUKEwim872_0PbQAhUO62MKHZt7D-E4ChDoAQghMAE#v=onepage&q=statistique%20pour%20economistes&f=false
+                * [books.google.com/books?id=mGlaJmQaW1YC&pg=PR9&lpg=PR9&dq=statistique+pour+economistes&source=bl&ots=onE7IlOaRT&sig=q_ucx19MmyZsd8UHKyF59xC-Fok&hl=es&sa=X&ved=0ahUKEwim872_0PbQAhUO62MKHZt7D-E4ChDoAQghMAE#v=onepage&q=statistique%20pour%20economistes&f=false](https://books.google.com/books?id=mGlaJmQaW1YC&pg=PR9&lpg=PR9&dq=statistique+pour+economistes&source=bl&ots=onE7IlOaRT&sig=q_ucx19MmyZsd8UHKyF59xC-Fok&hl=es&sa=X&ved=0ahUKEwim872_0PbQAhUO62MKHZt7D-E4ChDoAQghMAE#v=onepage&q=statistique%20pour%20economistes&f=false)
 
-                * https://books.google.de/books?id=g1CBySqrzGwC&pg=PA99&dq=Schuldenerlass+moral+hazard&hl=de&sa=X&ved=0CC0Q6AEwA2oVChMIjZO4_aLrxgIVCb8UCh0_ogsq#v=onepage&q=Schuldenerlass%20moral%20hazard&f=false
+                * [books.google.de/books?id=g1CBySqrzGwC&pg=PA99&dq=Schuldenerlass+moral+hazard&hl=de&sa=X&ved=0CC0Q6AEwA2oVChMIjZO4_aLrxgIVCb8UCh0_ogsq#v=onepage&q=Schuldenerlass%20moral%20hazard&f=false](https://books.google.de/books?id=g1CBySqrzGwC&pg=PA99&dq=Schuldenerlass+moral+hazard&hl=de&sa=X&ved=0CC0Q6AEwA2oVChMIjZO4_aLrxgIVCb8UCh0_ogsq#v=onepage&q=Schuldenerlass%20moral%20hazard&f=false)
 
-                * https://business.unl.edu/people/bwalstad/
+                * [business.unl.edu/people/bwalstad/](https://business.unl.edu/people/bwalstad/)
 
-                * https://de.wikipedia.org/wiki/Arrow-Theorem
+                * [de.wikipedia.org/wiki/Arrow-Theorem](https://de.wikipedia.org/wiki/Arrow-Theorem)
 
-                * https://de.wikipedia.org/wiki/Intertemporale_Produktionsm%C3%B6glichkeiten
+                * [de.wikipedia.org/wiki/Intertemporale_Produktionsm%C3%B6glichkeiten](https://de.wikipedia.org/wiki/Intertemporale_Produktionsm%C3%B6glichkeiten)
 
-                * https://de.wikipedia.org/wiki/Neue_Politische_%C3%96konomie
+                * [de.wikipedia.org/wiki/Neue_Politische_%C3%96konomie](https://de.wikipedia.org/wiki/Neue_Politische_%C3%96konomie)
 
-                * https://de.wikipedia.org/wiki/Tiebout-Modell
+                * [de.wikipedia.org/wiki/Tiebout-Modell](https://de.wikipedia.org/wiki/Tiebout-Modell)
 
-                * https://de.wikipedia.org/wiki/Verhaltens%C3%B6konomik
+                * [de.wikipedia.org/wiki/Verhaltens%C3%B6konomik](https://de.wikipedia.org/wiki/Verhaltens%C3%B6konomik)
 
-                * https://docs.google.com/spreadsheets/d/1Y9PDnCkmQOjSDp3t7JpzTzsdu9FsFkT_mY2m0ENc_Pc/edit#gid=1190427845
+                * [docs.google.com/spreadsheets/d/1Y9PDnCkmQOjSDp3t7JpzTzsdu9FsFkT_mY2m0ENc_Pc/edit#gid=1190427845](https://docs.google.com/spreadsheets/d/1Y9PDnCkmQOjSDp3t7JpzTzsdu9FsFkT_mY2m0ENc_Pc/edit#gid=1190427845)
 
-                * https://dstoecklin.ch/
+                * [dstoecklin.ch/](https://dstoecklin.ch/)
 
 
-        * [https://economics.byu.edu/Documents/Faculty/Brennan Platt/BarelyWorked.pdf](https://economics.byu.edu/Documents/Faculty/Brennan%20Platt/BarelyWorked.pdf)
+        * [economics.byu.edu/Documents/Faculty/Brennan Platt/BarelyWorked.pdf](https://economics.byu.edu/Documents/Faculty/Brennan%20Platt/BarelyWorked.pdf)
 
-                * https://economics.byu.edu/Documents/Faculty/Vitae/Platt.pdf
+                * [economics.byu.edu/Documents/Faculty/Vitae/Platt.pdf](https://economics.byu.edu/Documents/Faculty/Vitae/Platt.pdf)
 
-                * https://economics.byu.edu/Pages/Faculty%20Pages/John-Stovall.aspx
+                * [economics.byu.edu/Pages/Faculty%20Pages/John-Stovall.aspx](https://economics.byu.edu/Pages/Faculty%20Pages/John-Stovall.aspx)
 
-                * https://economics.byu.edu/Pages/Seminars%20Pages/Visiting-Scholar-Archives.aspx
+                * [economics.byu.edu/Pages/Seminars%20Pages/Visiting-Scholar-Archives.aspx](https://economics.byu.edu/Pages/Seminars%20Pages/Visiting-Scholar-Archives.aspx)
 
-                * https://economics.byu.edu/SiteAssets/FacultyVitae/Faculty/John%20Stovall/CV20160125-1.pdf
+                * [economics.byu.edu/SiteAssets/FacultyVitae/Faculty/John%20Stovall/CV20160125-1.pdf](https://economics.byu.edu/SiteAssets/FacultyVitae/Faculty/John%20Stovall/CV20160125-1.pdf)
 
-                * https://economics.handels.gu.se/digitalAssets/1388/1388448_7-policy-rec-jem.pdf
+                * [economics.handels.gu.se/digitalAssets/1388/1388448_7-policy-rec-jem.pdf](https://economics.handels.gu.se/digitalAssets/1388/1388448_7-policy-rec-jem.pdf)
 
-                * https://economics.rice.edu/faculty
+                * [economics.rice.edu/faculty](https://economics.rice.edu/faculty)
 
-                * https://economix.blogs.nytimes.com/2012/12/25/a-conservative-case-for-the-welfare-state/?_r=0
+                * [economix.blogs.nytimes.com/2012/12/25/a-conservative-case-for-the-welfare-state/?_r=0](https://economix.blogs.nytimes.com/2012/12/25/a-conservative-case-for-the-welfare-state/?_r=0)
 
-                * https://econtop.uvt.nl/rankinglist.php
+                * [econtop.uvt.nl/rankinglist.php](https://econtop.uvt.nl/rankinglist.php)
 
-                * https://edirc.repec.org/
+                * [edirc.repec.org/](https://edirc.repec.org/)
 
-                * https://edpolicy.stanford.edu/sites/default/files/publications/secret-finland%E2%80%99s-success-educating-teachers.pdf
+                * [edpolicy.stanford.edu/sites/default/files/publications/secret-finland%E2%80%99s-success-educating-teachers.pdf](https://edpolicy.stanford.edu/sites/default/files/publications/secret-finland%E2%80%99s-success-educating-teachers.pdf)
 
-                * https://eeecon.uibk.ac.at/~zeileis/assets/posts/2018-06-11-fifa2018sankey/p_sankey.html
+                * [eeecon.uibk.ac.at/~zeileis/assets/posts/2018-06-11-fifa2018sankey/p_sankey.html](https://eeecon.uibk.ac.at/~zeileis/assets/posts/2018-06-11-fifa2018sankey/p_sankey.html)
 
-                * https://eml.berkeley.edu/~saez/diamond-saezJEP11opttax.pdf
+                * [eml.berkeley.edu/~saez/diamond-saezJEP11opttax.pdf](https://eml.berkeley.edu/~saez/diamond-saezJEP11opttax.pdf)
 
-                * https://en.wikipedia.org/wiki/Comparative_education
+                * [en.wikipedia.org/wiki/Comparative_education](https://en.wikipedia.org/wiki/Comparative_education)
 
-                * https://en.wikipedia.org/wiki/Decision_quality
+                * [en.wikipedia.org/wiki/Decision_quality](https://en.wikipedia.org/wiki/Decision_quality)
 
-                * https://en.wikipedia.org/wiki/Decision-making
+                * [en.wikipedia.org/wiki/Decision-making](https://en.wikipedia.org/wiki/Decision-making)
 
-                * https://en.wikipedia.org/wiki/Dynamic_inconsistency
+                * [en.wikipedia.org/wiki/Dynamic_inconsistency](https://en.wikipedia.org/wiki/Dynamic_inconsistency)
 
-                * https://en.wikipedia.org/wiki/Economics_imperialism
+                * [en.wikipedia.org/wiki/Economics_imperialism](https://en.wikipedia.org/wiki/Economics_imperialism)
 
-                * https://en.wikipedia.org/wiki/List_of_economics_journals
+                * [en.wikipedia.org/wiki/List_of_economics_journals](https://en.wikipedia.org/wiki/List_of_economics_journals)
 
-                * https://epub.ub.uni-muenchen.de/5219/1/5219.pdf
+                * [epub.ub.uni-muenchen.de/5219/1/5219.pdf](https://epub.ub.uni-muenchen.de/5219/1/5219.pdf)
 
-                * https://es.wikipedia.org/wiki/Econom%C3%ADa_conductual
+                * [es.wikipedia.org/wiki/Econom%C3%ADa_conductual](https://es.wikipedia.org/wiki/Econom%C3%ADa_conductual)
 
-                * https://ethicslab.georgetown.edu/studio/wordpress/wp-content/uploads/2015/02/Richard_H._Thaler_Cass_R._Sunstein_Nudge_Impro_BookFi.org_.pdf
+                * [ethicslab.georgetown.edu/studio/wordpress/wp-content/uploads/2015/02/Richard_H._Thaler_Cass_R._Sunstein_Nudge_Impro_BookFi.org_.pdf](https://ethicslab.georgetown.edu/studio/wordpress/wp-content/uploads/2015/02/Richard_H._Thaler_Cass_R._Sunstein_Nudge_Impro_BookFi.org_.pdf)
 
-                * https://halshs.archives-ouvertes.fr/halshs-00120359
+                * [halshs.archives-ouvertes.fr/halshs-00120359](https://halshs.archives-ouvertes.fr/halshs-00120359)
 
-                * https://hayek.de/friedrich-a-von-hayek/zitate/
+                * [hayek.de/friedrich-a-von-hayek/zitate/](https://hayek.de/friedrich-a-von-hayek/zitate/)
 
-                * https://inomics.com/postdoc-impact-evaluations-developing-countries-tv-l13-position-mannheim-0?utm_source=jobs_newsletter&utm_medium=email&utm_campaign=Thursday%20Alert&inomics_uid=dDNWZ1dqWWpvbVp5QVduVDhjSjlfUzk3bmhwR2haY05DeGp5RDNzWXhfWTEwMTg1Mg
+                * [inomics.com/postdoc-impact-evaluations-developing-countries-tv-l13-position-mannheim-0](https://inomics.com/postdoc-impact-evaluations-developing-countries-tv-l13-position-mannheim-0)
 
-                * https://inomics.com/pt/top?s=best%20podcasts
+                * [inomics.com/pt/top?s=best%20podcasts](https://inomics.com/pt/top?s=best%20podcasts)
 
-                * https://inomics.com/top-10-interdisciplinary-summer-schools-2017-social-sciences?utm_source=Newsletter&utm_medium=Blog&utm_campaign=TopSummerSchools2017
+                * [inomics.com/top-10-interdisciplinary-summer-schools-2017-social-sciences](https://inomics.com/top-10-interdisciplinary-summer-schools-2017-social-sciences)
 
-                * https://inomics.com/top-economics-podcasts
-                * https://inomics.com/where-pursue-academic-career-economist-usa-vs-europe
+                * [inomics.com/top-economics-podcasts](https://inomics.com/top-economics-podcasts)
+                * [inomics.com/where-pursue-academic-career-economist-usa-vs-europe](https://inomics.com/where-pursue-academic-career-economist-usa-vs-europe)
 
-                * https://insight.kellogg.northwestern.edu/article/is_the_sunk_cost_fallacy_actually_smart_business
+                * [insight.kellogg.northwestern.edu/article/is_the_sunk_cost_fallacy_actually_smart_business](https://insight.kellogg.northwestern.edu/article/is_the_sunk_cost_fallacy_actually_smart_business)
 
-                * https://ironline.american.edu/understanding-the-human-capital-index-infographic/
+                * [ironline.american.edu/understanding-the-human-capital-index-infographic/](https://ironline.american.edu/understanding-the-human-capital-index-infographic/)
 
-                * https://issuu.com/inmavega/docs/dead_aid
+                * [issuu.com/inmavega/docs/dead_aid](https://issuu.com/inmavega/docs/dead_aid)
 
-                * https://maxkasy.github.io/home/TopicsInEconometrics2019/
+                * [maxkasy.github.io/home/TopicsInEconometrics2019/](https://maxkasy.github.io/home/TopicsInEconometrics2019/)
 
-                * https://medium.com/world-economic-forum/this-is-why-dutch-teenagers-are-among-the-happiest-in-the-world-1f0cad1aedac?source=userActivityShare-b12ac70303b2-1531789241
+                * [medium.com/world-economic-forum/this-is-why-dutch-teenagers-are-among-the-happiest-in-the-world-1f0cad1aedac?source=userActivityShare-b12ac70303b2-1531789241](https://medium.com/world-economic-forum/this-is-why-dutch-teenagers-are-among-the-happiest-in-the-world-1f0cad1aedac?source=userActivityShare-b12ac70303b2-1531789241)
 
-                * https://msuweb.montclair.edu/~lebelp/StiglerPerfCompJPE1957.pdf
+                * [msuweb.montclair.edu/~lebelp/StiglerPerfCompJPE1957.pdf](https://msuweb.montclair.edu/~lebelp/StiglerPerfCompJPE1957.pdf)
 
-                * https://noehernandezcortez.files.wordpress.com/2012/03/mc3a9todos-matemc3a1ticos-para-economc3ada.pdf
+                * [noehernandezcortez.files.wordpress.com/2012/03/mc3a9todos-matemc3a1ticos-para-economc3ada.pdf](https://noehernandezcortez.files.wordpress.com/2012/03/mc3a9todos-matemc3a1ticos-para-economc3ada.pdf)
 
-                * https://oxfamblogs.org/fp2p/the-idealist-a-brilliant-gripping-disturbing-portrait-of-jeffrey-sachs/
+                * [oxfamblogs.org/fp2p/the-idealist-a-brilliant-gripping-disturbing-portrait-of-jeffrey-sachs/](https://oxfamblogs.org/fp2p/the-idealist-a-brilliant-gripping-disturbing-portrait-of-jeffrey-sachs/)
 
-                * https://psmag.com/the-paradox-of-choice-10-years-later-f54d3f6c43d0#.5oaxw1v8t
+                * [psmag.com/the-paradox-of-choice-10-years-later-f54d3f6c43d0#.5oaxw1v8t](https://psmag.com/the-paradox-of-choice-10-years-later-f54d3f6c43d0#.5oaxw1v8t)
 
-                * https://publicchoicesociety.org/content/general/PublicChoiceBooklet.pdf
+                * [publicchoicesociety.org/content/general/PublicChoiceBooklet.pdf](https://publicchoicesociety.org/content/general/PublicChoiceBooklet.pdf)
 
-                * https://qz.com/116081/the-complete-guide-to-getting-into-an-economics-phd-program/
+                * [qz.com/116081/the-complete-guide-to-getting-into-an-economics-phd-program/](https://qz.com/116081/the-complete-guide-to-getting-into-an-economics-phd-program/)
 
-                * https://qz.com/82743/a-phd-in-economics-is-the-only-one-worth-getting/
+                * [qz.com/82743/a-phd-in-economics-is-the-only-one-worth-getting/](https://qz.com/82743/a-phd-in-economics-is-the-only-one-worth-getting/)
 
-                * https://saulnjie.wordpress.com/2015/05/21/the-aid-debate-dambisa-moyo-vs-jeff-sachs/
+                * [saulnjie.wordpress.com/2015/05/21/the-aid-debate-dambisa-moyo-vs-jeff-sachs/](https://saulnjie.wordpress.com/2015/05/21/the-aid-debate-dambisa-moyo-vs-jeff-sachs/)
 
-                * https://search.lib.byu.edu/byu/search?q=Getting+a+PhD+in+Economics+Stuart+J.+Hillmon
+                * [search.lib.byu.edu/byu/search?q=Getting+a+PhD+in+Economics+Stuart+J.+Hillmon](https://search.lib.byu.edu/byu/search?q=Getting+a+PhD+in+Economics+Stuart+J.+Hillmon)
 
-                * https://search.lib.byu.edu/byu/search?q=Guide+for+the+Young+Economist
+                * [search.lib.byu.edu/byu/search?q=Guide+for+the+Young+Economist](https://search.lib.byu.edu/byu/search?q=Guide+for+the+Young+Economist)
 
-                * https://sites.google.com/site/medevecon/development-economics/devecondata
+                * [sites.google.com/site/medevecon/development-economics/devecondata](https://sites.google.com/site/medevecon/development-economics/devecondata)
 
-                * https://sites.google.com/site/mkudamatsu/tips4economists
+                * [sites.google.com/site/mkudamatsu/tips4economists](https://sites.google.com/site/mkudamatsu/tips4economists)
 
-                * https://ssir.org/articles/entry/the_top_10_books_on_the_economics_of_poverty
+                * [ssir.org/articles/entry/the_top_10_books_on_the_economics_of_poverty](https://ssir.org/articles/entry/the_top_10_books_on_the_economics_of_poverty)
 
-                * https://tel.archives-ouvertes.fr/tel-00165187/document
+                * [tel.archives-ouvertes.fr/tel-00165187/document](https://tel.archives-ouvertes.fr/tel-00165187/document)
 
-                * https://today.yougov.com/news/categories/economist/
+                * [today.yougov.com/news/categories/economist/](https://today.yougov.com/news/categories/economist/)
 
-                * https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B2%D0%B5%D0%B4%D1%96%D0%BD%D0%BA%D0%BE%D0%B2%D0%B0_%D0%B5%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D0%BA%D0%B0
+                * [uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B2%D0%B5%D0%B4%D1%96%D0%BD%D0%BA%D0%BE%D0%B2%D0%B0_%D0%B5%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D0%BA%D0%B0](https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B2%D0%B5%D0%B4%D1%96%D0%BD%D0%BA%D0%BE%D0%B2%D0%B0_%D0%B5%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D0%BA%D0%B0)
 
-                * https://usa.ipums.org/usa/
+                * [usa.ipums.org/usa/](https://usa.ipums.org/usa/)
 
-                * https://vk.com/austrianschooleconomics
+                * [vk.com/austrianschooleconomics](https://vk.com/austrianschooleconomics)
 
 
-        * [https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/Publications:Languages_in_Secondary_Education:_An_Overview_of_National_Tests_in_Europe_%E2%80%93_2014/15 - interessant, eines Tages will ich lesen](https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/Publications:Languages_in_Secondary_Education:_An_Overview_of_National_Tests_in_Europe_%E2%80%93_2014/15)
+        * [webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/Publications:Languages_in_Secondary_Education:_An_Overview_of_National_Tests_in_Europe_%E2%80%93_2014/15 - interessant, eines Tages will ich lesen](https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/Publications:Languages_in_Secondary_Education:_An_Overview_of_National_Tests_in_Europe_%E2%80%93_2014/15)
 
-                * https://wiso.uni-hohenheim.de/papers
+                * [wiso.uni-hohenheim.de/papers](https://wiso.uni-hohenheim.de/papers)
 
-                * https://www.aeaweb.org/articles?id=10.1257/jep.25.4.165
+                * [aeaweb.org/articles?id=10.1257/jep.25.4.165](https://www.aeaweb.org/articles?id=10.1257/jep.25.4.165)
 
-                * https://www.amazon.com/Doing-Economics-Understanding-Carrying-Economic/dp/0618379835/ref=pd_sbs_14_t_1/159-5697736-5286741?_encoding=UTF8&psc=1&refRID=Y8MF7C61YFKDNTEVD1WV
+                * [amazon.com/Doing-Economics-Understanding-Carrying-Economic/dp/0618379835/ref=pd_sbs_14_t_1/159-5697736-5286741?_encoding=UTF8&psc=1&refRID=Y8MF7C61YFKDNTEVD1WV](https://www.amazon.com/Doing-Economics-Understanding-Carrying-Economic/dp/0618379835/ref=pd_sbs_14_t_1/159-5697736-5286741?_encoding=UTF8&psc=1&refRID=Y8MF7C61YFKDNTEVD1WV)
 
-                * https://www.amazon.com/Guide-Young-Economist-MIT-Press/dp/026251589X
+                * [amazon.com/Guide-Young-Economist-MIT-Press/dp/026251589X](https://www.amazon.com/Guide-Young-Economist-MIT-Press/dp/026251589X)
 
-                * https://www.atlasnetwork.org/
+                * [atlasnetwork.org/](https://www.atlasnetwork.org/)
 
-                * https://www.brookings.edu/blog/education-plus-development/
+                * [brookings.edu/blog/education-plus-development/](https://www.brookings.edu/blog/education-plus-development/)
 
-                * https://www.brookings.edu/project/brookings-papers-on-economic-activity/
+                * [brookings.edu/project/brookings-papers-on-economic-activity/](https://www.brookings.edu/project/brookings-papers-on-economic-activity/)
 
-                * https://www.brookings.edu/wp-content/uploads/2016/07/HahnMetcalfe-work-pap-eeep-616-v2.pdf
+                * [brookings.edu/wp-content/uploads/2016/07/HahnMetcalfe-work-pap-eeep-616-v2.pdf](https://www.brookings.edu/wp-content/uploads/2016/07/HahnMetcalfe-work-pap-eeep-616-v2.pdf)
 
-                * https://www.cairn.info/revue-idees-economiques-et-sociales-2011-3-page-37.htm
+                * [cairn.info/revue-idees-economiques-et-sociales-2011-3-page-37.htm](https://www.cairn.info/revue-idees-economiques-et-sociales-2011-3-page-37.htm)
 
-                * https://www.canal-u.tv/video/canal_aunege/les_theories_de_la_decision.11303
+                * [canal-u.tv/video/canal_aunege/les_theories_de_la_decision.11303](https://www.canal-u.tv/video/canal_aunege/les_theories_de_la_decision.11303)
 
-                * https://www.devex.com/news/recruiters-most-wanted-french-speaking-aid-professionals-85575
+                * [devex.com/news/recruiters-most-wanted-french-speaking-aid-professionals-85575](https://www.devex.com/news/recruiters-most-wanted-french-speaking-aid-professionals-85575)
 
-                * https://www.dropbox.com/s/v3kv3vpcxo8sp3g/2016W%20PMGT519%20IDP%20Syllabus.pdf?dl=0
+                * [dropbox.com/s/v3kv3vpcxo8sp3g/2016W%20PMGT519%20IDP%20Syllabus.pdf?dl=0](https://www.dropbox.com/s/v3kv3vpcxo8sp3g/2016W%20PMGT519%20IDP%20Syllabus.pdf?dl=0)
 
-                * https://www.econjobrumors.com/
+                * [econjobrumors.com/](https://www.econjobrumors.com/)
 
-                * https://www.erudit.org/revue/socsoc/2002/v34/n1/009743ar.pdf
+                * [erudit.org/revue/socsoc/2002/v34/n1/009743ar.pdf](https://www.erudit.org/revue/socsoc/2002/v34/n1/009743ar.pdf)
 
-                * https://www.ethz.ch/content/dam/ethz/special-interest/gess/chair-of-sociology-dam/documents/education/spieltheorie/literatur/Leininger%20Amann%20Einf%C3%BChrung%200708-ST1-Vorlesung-Skript.pdf
+                * [ethz.ch/content/dam/ethz/special-interest/gess/chair-of-sociology-dam/documents/education/spieltheorie/literatur/Leininger%20Amann%20Einf%C3%BChrung%200708-ST1-Vorlesung-Skript.pdf](https://www.ethz.ch/content/dam/ethz/special-interest/gess/chair-of-sociology-dam/documents/education/spieltheorie/literatur/Leininger%20Amann%20Einf%C3%BChrung%200708-ST1-Vorlesung-Skript.pdf)
 
-                * https://www.fhi360.org/
+                * [fhi360.org/](https://www.fhi360.org/)
 
-                * https://www.forbes.com/sites/peterferrara/2014/08/15/how-welfare-reform-can-end-poverty-in-america-and-promote-booming-economic-growth/#563fc09e1532
+                * [forbes.com/sites/peterferrara/2014/08/15/how-welfare-reform-can-end-poverty-in-america-and-promote-booming-economic-growth/#563fc09e1532](https://www.forbes.com/sites/peterferrara/2014/08/15/how-welfare-reform-can-end-poverty-in-america-and-promote-booming-economic-growth/#563fc09e1532)
 
-                * https://www.forbes.com/sites/robertbradley/2017/04/13/ban-fracking-bad-economics-bad-ecology/#218adec33b3f
+                * [forbes.com/sites/robertbradley/2017/04/13/ban-fracking-bad-economics-bad-ecology/#218adec33b3f](https://www.forbes.com/sites/robertbradley/2017/04/13/ban-fracking-bad-economics-bad-ecology/#218adec33b3f)
 
-                * https://www.globalinnovationindex.org/content/page/gii-full-report-2015/#pdfopener
+                * [globalinnovationindex.org/content/page/gii-full-report-2015/#pdfopener](https://www.globalinnovationindex.org/content/page/gii-full-report-2015/#pdfopener)
 
-                * https://www.goodreads.com/shelf/show/development-economics
+                * [goodreads.com/shelf/show/development-economics](https://www.goodreads.com/shelf/show/development-economics)
 
-                * https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=legitimate%20problems%20with%20capitalism
+                * [google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=legitimate%20problems%20with%20capitalism](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=legitimate%20problems%20with%20capitalism)
 
-                * https://www.ineteconomics.org/
+                * [ineteconomics.org/](https://www.ineteconomics.org/)
 
-                * https://www.ineteconomics.org/perspectives/blog/against-false-arrogance-of-economic-knowledge
+                * [ineteconomics.org/perspectives/blog/against-false-arrogance-of-economic-knowledge](https://www.ineteconomics.org/perspectives/blog/against-false-arrogance-of-economic-knowledge)
 
-                * https://www.insidehighered.com/news/2014/11/19/study-says-research-output-overwhelming-majority-economics-phds-low
+                * [insidehighered.com/news/2014/11/19/study-says-research-output-overwhelming-majority-economics-phds-low](https://www.insidehighered.com/news/2014/11/19/study-says-research-output-overwhelming-majority-economics-phds-low)
 
-                * https://www.law.berkeley.edu/files/Quinn-Slides.pdf
+                * [law.berkeley.edu/files/Quinn-Slides.pdf](https://www.law.berkeley.edu/files/Quinn-Slides.pdf)
 
-                * https://www.mercatus.org/expert_commentary/trickle-down-economics-does-anyone-actually-believe-it
+                * [mercatus.org/expert_commentary/trickle-down-economics-does-anyone-actually-believe-it](https://www.mercatus.org/expert_commentary/trickle-down-economics-does-anyone-actually-believe-it)
 
-                * https://www.msu.edu/course/ec/201/brown/pim/ Micor problem sets
+                * [msu.edu/course/ec/201/brown/pim/](https://www.msu.edu/course/ec/201/brown/pim/) Micor problem sets
 
-                * https://www.povertyactionlab.org/es/bettinger
+                * [povertyactionlab.org/es/bettinger](https://www.povertyactionlab.org/es/bettinger)
 
-                * https://www.quora.com/Being-an-economics-graduate-what-are-some-of-the-must-read-books-for-gaining-expertise-in-the-subject
+                * [quora.com/Being-an-economics-graduate-what-are-some-of-the-must-read-books-for-gaining-expertise-in-the-subject](https://www.quora.com/Being-an-economics-graduate-what-are-some-of-the-must-read-books-for-gaining-expertise-in-the-subject)
 
-                * https://www.quora.com/What-are-the-trending-topics-in-development-economics
+                * [quora.com/What-are-the-trending-topics-in-development-economics](https://www.quora.com/What-are-the-trending-topics-in-development-economics)
 
-                * https://zpckf.wordpress.com/2014/03/17/solutions-debates-sachs-vs-moyo/
+                * [zpckf.wordpress.com/2014/03/17/solutions-debates-sachs-vs-moyo/](https://zpckf.wordpress.com/2014/03/17/solutions-debates-sachs-vs-moyo/)
 
 
         * [Human capital around the globe : How to measure the human input in GDP| FRED Blog](https://fredblog.stlouisfed.org/2018/05/human-capital-across-the-world/)
@@ -13783,7 +13783,7 @@ Groteske Aufklärung
         * [What is new and essential in economics? - Marginal REVOLUTION](http://marginalrevolution.com/marginalrevolution/2006/06/what_is_new_and.html)
 
 
-        * [What Plato knew about behavioural economics. (A lot) | Aeon Essays](https://aeon.co/essays/what-plato-knew-about-behavioural-economics-a-lot?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)
+        * [What Plato knew about behavioural economics. (A lot) | Aeon Essays](https://aeon.co/essays/what-plato-knew-about-behavioural-economics-a-lot)
 
 
         * [Why Economists Failed to Predict the Financial Crisis - Knowledge@Wharton](http://knowledge.wharton.upenn.edu/article/why-economists-failed-to-predict-the-financial-crisis/)
@@ -13801,13 +13801,13 @@ Groteske Aufklärung
         * [Will Robots Create Economic Utopia? - Bloomberg](https://www.bloomberg.com/news/articles/2013-02-11/will-robots-create-economic-utopia)
 
 
-        * [Willkommen | Exploring Economics](https://www.exploring-economics.org/de/?utm_content=buffer32fd2&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+        * [Willkommen | Exploring Economics](https://www.exploring-economics.org/de/)
 
 
         * [WP-Trouble.pdf](https://paulromer.net/wp-content/uploads/2016/09/WP-Trouble.pdf)
 
 
-        * [www.steadystate.org/wp-content/uploads/Czech_Ecological_Economics.pdf](http://www.steadystate.org/wp-content/uploads/Czech_Ecological_Economics.pdf)
+        * [steadystate.org/wp-content/uploads/Czech_Ecological_Economics.pdf](http://www.steadystate.org/wp-content/uploads/Czech_Ecological_Economics.pdf)
 
 
         Введение в экономику. Предмет экономики. Лекция ВУЗа LBK 1/2de Лекции Университета
@@ -13827,34 +13827,34 @@ Groteske Aufklärung
 
         * [Психологія та поведінкова економіка](http://studme.com.ua/1274082312287/politekonomiya/psihologiya_povedencheskaya_ekonomika.htm)
 
-                * https://en.wikipedia.org/wiki/Choice_modelling
+                * [en.wikipedia.org/wiki/Choice_modelling](https://en.wikipedia.org/wiki/Choice_modelling)
 
-                * https://en.wikipedia.org/wiki/Evidential_decision_theory
+                * [en.wikipedia.org/wiki/Evidential_decision_theory](https://en.wikipedia.org/wiki/Evidential_decision_theory)
 
-                * https://en.wikipedia.org/wiki/Game_theory
+                * [en.wikipedia.org/wiki/Game_theory](https://en.wikipedia.org/wiki/Game_theory)
 
-                * https://en.wikipedia.org/wiki/Hyperbolic_discounting
+                * [en.wikipedia.org/wiki/Hyperbolic_discounting](https://en.wikipedia.org/wiki/Hyperbolic_discounting)
 
-                * https://en.wikipedia.org/wiki/Multiple-criteria_decision_analysis
+                * [en.wikipedia.org/wiki/Multiple-criteria_decision_analysis](https://en.wikipedia.org/wiki/Multiple-criteria_decision_analysis)
 
 
-        * [https://en.wikipedia.org/wiki/Nudge_(book)](https://en.wikipedia.org/wiki/Nudge_(book))
+        * [en.wikipedia.org/wiki/Nudge_(book)](https://en.wikipedia.org/wiki/Nudge_(book))
 
-                * https://en.wikipedia.org/wiki/Preference_revelation
+                * [en.wikipedia.org/wiki/Preference_revelation](https://en.wikipedia.org/wiki/Preference_revelation)
 
-                * https://en.wikipedia.org/wiki/Preferentialism
+                * [en.wikipedia.org/wiki/Preferentialism](https://en.wikipedia.org/wiki/Preferentialism)
 
-                * https://en.wikipedia.org/wiki/Probabilistic_voting_model
+                * [en.wikipedia.org/wiki/Probabilistic_voting_model](https://en.wikipedia.org/wiki/Probabilistic_voting_model)
 
-                * https://en.wikipedia.org/wiki/Public_choice
+                * [en.wikipedia.org/wiki/Public_choice](https://en.wikipedia.org/wiki/Public_choice)
 
-                * https://en.wikipedia.org/wiki/Rational_irrationality
+                * [en.wikipedia.org/wiki/Rational_irrationality](https://en.wikipedia.org/wiki/Rational_irrationality)
 
-                * https://en.wikipedia.org/wiki/Sustainable_development
+                * [en.wikipedia.org/wiki/Sustainable_development](https://en.wikipedia.org/wiki/Sustainable_development)
 
-                * https://en.wikipedia.org/wiki/Sustainable_energy
+                * [en.wikipedia.org/wiki/Sustainable_energy](https://en.wikipedia.org/wiki/Sustainable_energy)
 
-                * https://en.wikipedia.org/wiki/The_Paradox_of_Choice
+                * [en.wikipedia.org/wiki/The_Paradox_of_Choice](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)
 
 
         * [breaking the cycle of poverty - Buscar con Google](https://www.google.com/search?q=breaking+the+cycle+of+poverty&oq=breaking+the+cycle+of+poverty&aqs=chrome..69i57j0l5.5966j0j7&sourceid=chrome&ie=UTF-8)
@@ -13877,19 +13877,19 @@ Groteske Aufklärung
 
         * [From Keynes to Piketty](https://drive.google.com/file/d/1yJ90MiLpKOU3oONx1CUlHn_jLK8VriOA/view?usp=sharing)
 
-                * http://bbs.sagepub.com/
+                * [bbs.sagepub.com/](http://bbs.sagepub.com/)
 
-                * http://gregmankiw.blogspot.com/2009/02/news-flash-economists-agree.html
+                * [gregmankiw.blogspot.com/2009/02/news-flash-economists-agree.html](http://gregmankiw.blogspot.com/2009/02/news-flash-economists-agree.html)
 
-                * http://ideas4development.org/
+                * [ideas4development.org/](http://ideas4development.org/)
 
-                * http://noahpinionblog.blogspot.com/
+                * [noahpinionblog.blogspot.com/](http://noahpinionblog.blogspot.com/)
 
-                * http://www.afd.fr/home
+                * [afd.fr/home](http://www.afd.fr/home)
 
-                * http://www.economics-ejournal.org/
+                * [economics-ejournal.org/](http://www.economics-ejournal.org/)
 
-                * http://www.infoconomy.de/wordpress/
+                * [infoconomy.de/wordpress/](http://www.infoconomy.de/wordpress/)
 
 
         * [(2012, Эрнст Шумахер) Малое прекрасно. Экономика, в которой люди имеют значение.pdf](https://vk.com/doc5787984_493875199?hash=52da077dba0a63c963&dl=0216f8fb1fabf0d831)
@@ -13900,7 +13900,7 @@ Groteske Aufklärung
 
         * [Detecting reciprocity at a global scale | Science Advances](http://advances.sciencemag.org/content/4/1/eaao5348.full)
 
-                * http://www.mit.edu/~rdoody/TheSunkCostFallacy.pdf
+                * [mit.edu/~rdoody/TheSunkCostFallacy.pdf](http://www.mit.edu/~rdoody/TheSunkCostFallacy.pdf)
 
 
         * [Die fragwürdigen Grundlagen der Ökonomie](http://static.onleihe.de/content/wbg/20170302/9783534735877/v9783534735877.pdf)
@@ -13923,13 +13923,13 @@ Groteske Aufklärung
 
         * [economics, psychology, policy: Ethics of Behavioural Science Policy](http://economicspsychologypolicy.blogspot.com/2015/11/ethics-of-nudging-bunch-of-reading.html)
 
-                * https://juejung.github.io/jdocs/Comp/html/Slides_OLG_I.html
+                * [juejung.github.io/jdocs/Comp/html/Slides_OLG_I.html](https://juejung.github.io/jdocs/Comp/html/Slides_OLG_I.html)
 
-                * https://rationalitelimitee.wordpress.com/
+                * [rationalitelimitee.wordpress.com/](https://rationalitelimitee.wordpress.com/)
 
-                * https://ruconomics.com/
+                * [ruconomics.com/](https://ruconomics.com/)
 
-                * http://www.cae-eco.fr/
+                * [cae-eco.fr/](http://www.cae-eco.fr/)
                         - [Economics--Mathematical Politics or Science of Diminishing Returns?, Rosenberg](http://www.press.uchicago.edu/ucp/books/book/chicago/E/bo3617322.html)**
 
 
@@ -13963,9 +13963,9 @@ Groteske Aufklärung
         * [Some Fairly Recent Must- and Should-Reads About Globalization](http://www.bradford-delong.com/2018/06/some-fairly-recent-must-and-should-reads-about-globalization.html)
 
 
-        * [ECO - Wenn Gesundheit immer teurer wird](https://castbox.fm/episode/ECO-vom-07.05.2018-id230143-id76193363?utm_campaign=i_share_ep&utm_medium=dlink&utm_source=i_share&country=fr)
+        * [ECO - Wenn Gesundheit immer teurer wird](https://castbox.fm/episode/ECO-vom-07.05.2018-id230143-id76193363)
 
-                * https://www.e-elgar.com/shop/approaching-equality
+                * [e-elgar.com/shop/approaching-equality](https://www.e-elgar.com/shop/approaching-equality)
 
 
         * [siteresources.worldbank.org/INTPOVRES/Resources/477227-1142020443961/MODULE_5_Intro_Income_Distribution_and_Economics.pdf](http://siteresources.worldbank.org/INTPOVRES/Resources/477227-1142020443961/MODULE_5_Intro_Income_Distribution_and_Economics.pdf)
@@ -13989,29 +13989,29 @@ Groteske Aufklärung
 
         * [Le capital au XXIe siècle - YouTube](https://www.youtube.com/watch?v=VfezOJnHZo0)
 
-                * http://www.infonet-economy.ch/
+                * [infonet-economy.ch/](http://www.infonet-economy.ch/)
 
-                * http://www.pooreconomics.com/
+                * [pooreconomics.com/](http://www.pooreconomics.com/)
 
-                * http://www.povertyinc.org/
+                * [povertyinc.org/](http://www.povertyinc.org/)
 
-                * http://www.russellsage.org/research/behavioral-economics
+                * [russellsage.org/research/behavioral-economics](http://www.russellsage.org/research/behavioral-economics)
 
-                * http://www.russellsage.org/research/behavioral-economics/behavioral-economics-roundtable
+                * [russellsage.org/research/behavioral-economics/behavioral-economics-roundtable](http://www.russellsage.org/research/behavioral-economics/behavioral-economics-roundtable)
 
-                * https://ideas.repec.org/top/top.person.all.html
+                * [ideas.repec.org/top/top.person.all.html](https://ideas.repec.org/top/top.person.all.html)
 
-                * https://piie.com/
+                * [piie.com/](https://piie.com/)
 
-                * https://www.aeaweb.org/
+                * [aeaweb.org/](https://www.aeaweb.org/)
 
-                * https://www.aeaweb.org/resources/students/
+                * [aeaweb.org/resources/students/](https://www.aeaweb.org/resources/students/)
 
-                * https://www.devex.com/
+                * [devex.com/](https://www.devex.com/)
 
-                * https://www.ineteconomics.org/
+                * [ineteconomics.org/](https://www.ineteconomics.org/)
 
-                * https://zestedesavoir.com/tutoriels/pdf/500/leconomie-comportementale.pdf
+                * [zestedesavoir.com/tutoriels/pdf/500/leconomie-comportementale.pdf](https://zestedesavoir.com/tutoriels/pdf/500/leconomie-comportementale.pdf)
 
 
         * [Joe Price Research](http://byuresearch.org/home/)
@@ -14090,25 +14090,25 @@ Groteske Aufklärung
 
         * [Zingales_L__Radzhan_R_Spasenie_kapitalizma_ot_kapitalistov.pdf](https://vk.com/doc30601958_458194884?hash=a3bae97cf011928e88&dl=9455f2968f83995a29)
 
-                * http://www.cnbc.com/2015/01/25/educators-look-to-boost-charter-school-model-in-africa-beyond.html
+                * [cnbc.com/2015/01/25/educators-look-to-boost-charter-school-model-in-africa-beyond.html](http://www.cnbc.com/2015/01/25/educators-look-to-boost-charter-school-model-in-africa-beyond.html)
 
-                * http://www.columbia.edu/~mmt2033/multi_party_equilib.pdf
+                * [columbia.edu/~mmt2033/multi_party_equilib.pdf](http://www.columbia.edu/~mmt2033/multi_party_equilib.pdf)
 
-                * http://www.concurrencefiscale.ch/papers/Pierre-Bessard-From_Taxation_to_Justice.pdf
+                * [concurrencefiscale.ch/papers/Pierre-Bessard-From_Taxation_to_Justice.pdf](http://www.concurrencefiscale.ch/papers/Pierre-Bessard-From_Taxation_to_Justice.pdf)
 
-                * https://en.wikipedia.org/wiki/Vela_Velupillai
+                * [en.wikipedia.org/wiki/Vela_Velupillai](https://en.wikipedia.org/wiki/Vela_Velupillai)
 
-                * https://econacademics.org/
+                * [econacademics.org/](https://econacademics.org/)
 
-                * https://gess.uni-mannheim.de/doctoral-programs/economics-cdse/students.html
+                * [gess.uni-mannheim.de/doctoral-programs/economics-cdse/students.html](https://gess.uni-mannheim.de/doctoral-programs/economics-cdse/students.html)
 
-                * https://ideas.repec.org/
+                * [ideas.repec.org/](https://ideas.repec.org/)
 
-                * https://ideas.repec.org/c/boc/bocode/s456916.html
+                * [ideas.repec.org/c/boc/bocode/s456916.html](https://ideas.repec.org/c/boc/bocode/s456916.html)
 
-                * https://ideas.repec.org/c/boc/bocode/s457096.html
+                * [ideas.repec.org/c/boc/bocode/s457096.html](https://ideas.repec.org/c/boc/bocode/s457096.html)
 
-                * https://ideas.repec.org/c/boc/bocode/s457677.html
+                * [ideas.repec.org/c/boc/bocode/s457677.html](https://ideas.repec.org/c/boc/bocode/s457677.html)
 
 
         * [Amazon.com: Buying Choices: Econometric Analysis of Cross Section and Panel Data (MIT Press)](https://www.amazon.com/gp/offer-listing/0262232588/ref=sr_1_1_olp?s=books&ie=UTF8&qid=1519947549&sr=1-1&keywords=ECONOMETRIC+ANALYSIS+OF+CROSS+SECTION+AND+PANEL+DATA)
@@ -14137,9 +14137,9 @@ Groteske Aufklärung
 
         * [Statistical Nonsignificance in Empirical Economics](https://www.aeaweb.org/articles?id=10.1257/aeri.20190252)
 
-                * https://www.dinero.com/
+                * [dinero.com/](https://www.dinero.com/)
 
-                * https://evonomics.com/what-do-economists-mean-when-they-talk-about-capital-accumulation/
+                * [evonomics.com/what-do-economists-mean-when-they-talk-about-capital-accumulation/](https://evonomics.com/what-do-economists-mean-when-they-talk-about-capital-accumulation/)
 
 
         * [Очевидное - невероятное. Парадоксы российской экономики](https://vk.com/video-51126445_456241076?list=34a78631ddb2678f48)
@@ -14151,7 +14151,7 @@ Groteske Aufklärung
 
         * [Brennan C. Platt](https://economics.byu.edu/Pages/Faculty%20Pages/Brennan-C.-Platt.aspx)
 
-                * http://focus.barcelonagse.eu/
+                * [focus.barcelonagse.eu/](http://focus.barcelonagse.eu/)
 
 
         * [Введение в экономику. Предмет экономики. Лекция ВУЗа LBK 1/2](https://www.youtube.com/watch?v=tM3fPtjvLSQ&list=WL&index=2)
@@ -14177,7 +14177,7 @@ Groteske Aufklärung
 
         * [Computational Economics by David A. Kendrick, P. Ruben Mercado, and Hans M. Amman - Read Online](https://b-ok.cc/book/1075105/aaf24d)
 
-                * https://juejung.github.io/jdocs/Comp/html/index.html
+                * [juejung.github.io/jdocs/Comp/html/index.html](https://juejung.github.io/jdocs/Comp/html/index.html)
 
 
         * [Principles of Microeconomics | Economics | MIT OpenCourseWare](https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/)
@@ -14192,26 +14192,26 @@ Groteske Aufklärung
         * [An Evolutionary Theory of Economic Change](http://inctpped.ie.ufrj.br/spiderweb/pdf_2/Dosi_1_An_evolutionary-theory-of_economic_change..pdf)
                         - [**** evolutionsekonomik](https://www.exploring-economics.org/de/orientieren/evolutionsoekonomik/)
 
-                * http://www.evoecon.mpg.de/
+                * [evoecon.mpg.de/](http://www.evoecon.mpg.de/)
 
 
         * [Past General Exams | Department of Economics](https://economics.harvard.edu/pages/past-general-exams)
 
-                * http://standupeconomist.com/
+                * [standupeconomist.com/](http://standupeconomist.com/)
 
 
         * [Economics Basics](http://www.investopedia.com/university/economics/)
 
-                * https://b-ok.cc/g/Samuel%20Bowles
+                * [b-ok.cc/g/Samuel%20Bowles](https://b-ok.cc/g/Samuel%20Bowles)
 
-                * http://www.imprs.econ.mpg.de/
+                * [imprs.econ.mpg.de/](http://www.imprs.econ.mpg.de/)
 
-                * https://lwozny.github.io/teaching/
+                * [lwozny.github.io/teaching/](https://lwozny.github.io/teaching/)
 
 
         * [Kam Yu](http://flash.lakeheadu.ca/~kyu/)
 
-                * https://www.ssrn.com/en/index.cfm/ern/
+                * [ssrn.com/en/index.cfm/ern/](https://www.ssrn.com/en/index.cfm/ern/)
 
 
         * [Economics rankings: Economics Departments | IDEAS/RePEc](https://ideas.repec.org/top/top.econdept.html)
@@ -14283,7 +14283,7 @@ Groteske Aufklärung
         * [Who are the best economist to follow on Twitter?](https://www.reddit.com/r/AskEconomics/comments/9h9o76/who_are_the_best_economist_to_follow_on_twitter/)
 
 
-        * [Someone compiled the twitter thread of the philosophy of econ books in a blog post: http://www.enlightenmenteconomics.com/blog/index.php/2019/04/economics-and-philosophy/ Also, if you have Twitter, follow @Undercoverhist for more stuff like this. She researches the history of economic thought. Here's some interesting threads to read if you have more time: https://twitter.com/Undercoverhist/status/1116507225793736704 https://twitter.com/Undercoverhist/status/1110543180758429696 https://twitter.com/Undercoverhist/status/1105851715461570560](https://www.facebook.com/groups/195756550988246/permalink/420344271862805/)
+        * [Someone compiled the twitter thread of the philosophy of econ books in a blog post: [enlightenmenteconomics.com/blog/index.php/2019/04/economics-and-philosophy/](http://www.enlightenmenteconomics.com/blog/index.php/2019/04/economics-and-philosophy/) Also, if you have Twitter, follow @Undercoverhist for more stuff like this. She researches the history of economic thought. Here's some interesting threads to read if you have more time: [twitter.com/Undercoverhist/status/1116507225793736704](https://twitter.com/Undercoverhist/status/1116507225793736704) [twitter.com/Undercoverhist/status/1110543180758429696](https://twitter.com/Undercoverhist/status/1110543180758429696) [twitter.com/Undercoverhist/status/1105851715461570560](https://www.facebook.com/groups/195756550988246/permalink/420344271862805/)](https://twitter.com/Undercoverhist/status/1105851715461570560](https://www.facebook.com/groups/195756550988246/permalink/420344271862805/))
 
 
         *[In Search of A Left Economist! Who are the best, biggest, and most respected academic economists on the left right now, particularly in the U.S.?](https://www.facebook.com/groups/TheCurrentAffairsAviary/permalink/1664786237004244/)*
@@ -14360,7 +14360,7 @@ Groteske Aufklärung
 
         Пути развития экономической науки — Алексей Савватеев / ПостНаука
 
-                * http://www.brookings.edu/blogs/social-mobility-memos/posts/2016/03/04-why-is-college-degree-worth-less-raised-poor-response-hershbein
+                * [brookings.edu/blogs/social-mobility-memos/posts/2016/03/04-why-is-college-degree-worth-less-raised-poor-response-hershbein](http://www.brookings.edu/blogs/social-mobility-memos/posts/2016/03/04-why-is-college-degree-worth-less-raised-poor-response-hershbein)
 
 
         * [General BE](http://www.ruckriegel.org/)
@@ -14371,11 +14371,11 @@ Groteske Aufklärung
 
         Handbook of Development Economics
 
-                * http://controverses.sciences-po.fr/archive/aidedeveloppement/12.html
+                * [controverses.sciences-po.fr/archive/aidedeveloppement/12.html](http://controverses.sciences-po.fr/archive/aidedeveloppement/12.html)
 
-                * http://keithlewin.net/
+                * [keithlewin.net/](http://keithlewin.net/)
 
-                * http://www.ukfiet.org/
+                * [ukfiet.org/](http://www.ukfiet.org/)
 
 
     - Gen
@@ -14385,65 +14385,65 @@ Groteske Aufklärung
 
         * [RePeC](http://fmwww.bc.edu/RePEc/)
 
-                * http://econphd.econwiki.com/
+                * [econphd.econwiki.com/](http://econphd.econwiki.com/)
 
-                * http://rfe.org/
+                * [rfe.org/](http://rfe.org/)
 
-                * https://economics.byu.edu/Pages/Home.aspx
+                * [economics.byu.edu/Pages/Home.aspx](https://economics.byu.edu/Pages/Home.aspx)
 
-                * http://wirtschaftslexikon.gabler.de/
+                * [wirtschaftslexikon.gabler.de/](http://wirtschaftslexikon.gabler.de/)
 
-                * http://www.andlil.com/lexique-economique-economistes-et-theories-economiques/
+                * [andlil.com/lexique-economique-economistes-et-theories-economiques/](http://www.andlil.com/lexique-economique-economistes-et-theories-economiques/)
 
-                * http://www.nbuv.gov.ua/webnavigator/economy
+                * [nbuv.gov.ua/webnavigator/economy](http://www.nbuv.gov.ua/webnavigator/economy)
 
-                * http://library.if.ua/books/
+                * [library.if.ua/books/](http://library.if.ua/books/)
 
-                * http://www.nber.org/
+                * [nber.org/](http://www.nber.org/)
 
-                * http://econpapers.repec.org/
+                * [econpapers.repec.org/](http://econpapers.repec.org/)
 
-                * http://www.cesifo-group.de/ifoHome.html
+                * [cesifo-group.de/ifoHome.html](http://www.cesifo-group.de/ifoHome.html)
 
-                * https://econjwatch.org/
+                * [econjwatch.org/](https://econjwatch.org/)
 
-                * http://www.grandars.ru/
+                * [grandars.ru/](http://www.grandars.ru/)
 
-                * http://econlinks.com/
+                * [econlinks.com/](http://econlinks.com/)
 
 
 
         fundamentos
 
-                * http://www.core-econ.org/
+                * [core-econ.org/](http://www.core-econ.org/)
 
-                * http://www.core-econ.org/account/?section=downloads
+                * [core-econ.org/account/?section=downloads](http://www.core-econ.org/account/?section=downloads)
 
-                * http://economicus.ru/
+                * [economicus.ru/](http://economicus.ru/)
 
-                * http://www.andlil.com/guide-des-plus-grandes-theories-economiques/
+                * [andlil.com/guide-des-plus-grandes-theories-economiques/](http://www.andlil.com/guide-des-plus-grandes-theories-economiques/)
 
-                * http://whatiseconomics.org/
+                * [whatiseconomics.org/](http://whatiseconomics.org/)
 
-                * http://www.policonomics.com/
+                * [policonomics.com/](http://www.policonomics.com/)
 
-                * http://elabs.academy/
+                * [elabs.academy/](http://elabs.academy/)
 
-                * http://fee.org/library/detail/economics-in-one-lesson-2
+                * [fee.org/library/detail/economics-in-one-lesson-2](http://fee.org/library/detail/economics-in-one-lesson-2)
 
-                * http://www.econlib.org/library/Topics/HighSchool/KeyConcepts.html
+                * [econlib.org/library/Topics/HighSchool/KeyConcepts.html](http://www.econlib.org/library/Topics/HighSchool/KeyConcepts.html)
 
-                * http://www.aup.ru/books/m885/
+                * [aup.ru/books/m885/](http://www.aup.ru/books/m885/)
 
-                * http://infoteka.economicus.ru/index2.php?course=2248
+                * [infoteka.economicus.ru/index2.php?course=2248](http://infoteka.economicus.ru/index2.php?course=2248)
 
-                * http://abc.vvsu.ru/Books/ekonomika_kl/page0001.asp
+                * [abc.vvsu.ru/Books/ekonomika_kl/page0001.asp](http://abc.vvsu.ru/Books/ekonomika_kl/page0001.asp)
 
-                * http://www.economie.gouv.fr/facileco/culture-economique
+                * [economie.gouv.fr/facileco/culture-economique](http://www.economie.gouv.fr/facileco/culture-economique)
 
-                * http://www.okpedia.it/
+                * [okpedia.it/](http://www.okpedia.it/)
 
-                * http://www.oeconomia.net/private/cours/economiegenerale/CAPET/01.theorieseconomiques.pdf
+                * [oeconomia.net/private/cours/economiegenerale/CAPET/01.theorieseconomiques.pdf](http://www.oeconomia.net/private/cours/economiegenerale/CAPET/01.theorieseconomiques.pdf)
 
 
 
@@ -14452,43 +14452,43 @@ Groteske Aufklärung
 
         mejores
 
-                * http://evonomics.com/
+                * [evonomics.com/](http://evonomics.com/)
 
-                * http://www.economicrockstar.com/
+                * [economicrockstar.com/](http://www.economicrockstar.com/)
 
-                * https://econacademics.org/
+                * [econacademics.org/](https://econacademics.org/)
 
-                * https://www.hse.ru/science/
+                * [hse.ru/science/](https://www.hse.ru/science/)
 
-                * https://www.iconomix.ch/de/
+                * [iconomix.ch/de/](https://www.iconomix.ch/de/)
 
-                * https://www.bundesbank.de/Navigation/DE/Home/home_node.html
+                * [bundesbank.de/Navigation/DE/Home/home_node.html](https://www.bundesbank.de/Navigation/DE/Home/home_node.html)
 
-                * http://www.oekonomenstimme.org/
+                * [oekonomenstimme.org/](http://www.oekonomenstimme.org/)
 
-                * http://oekobeo.blogspot.de/
+                * [oekobeo.blogspot.de/](http://oekobeo.blogspot.de/)
 
-                * http://econoclaste.org.free.fr/econoclaste/
+                * [econoclaste.org.free.fr/econoclaste/](http://econoclaste.org.free.fr/econoclaste/)
 
-                * http://www.economiqs.com/fr/
+                * [economiqs.com/fr/](http://www.economiqs.com/fr/)
 
-                * http://www.leconomiste.eu/index.php
+                * [leconomiste.eu/index.php](http://www.leconomiste.eu/index.php)
 
-                * https://olivierdemeulenaere.wordpress.com/
+                * [olivierdemeulenaere.wordpress.com/](https://olivierdemeulenaere.wordpress.com/)
 
-                * http://focoeconomico.org/
+                * [focoeconomico.org/](http://focoeconomico.org/)
 
-                * http://www.eleconomista.es/economia/index.html
+                * [eleconomista.es/economia/index.html](http://www.eleconomista.es/economia/index.html)
 
-                * http://www.eleconomistaamerica.com/economia/
+                * [eleconomistaamerica.com/economia/](http://www.eleconomistaamerica.com/economia/)
 
-                * http://noticias.uol.com.br/blogs-e-colunas/coluna/paul-krugman/
+                * [noticias.uol.com.br/blogs-e-colunas/coluna/paul-krugman/](http://noticias.uol.com.br/blogs-e-colunas/coluna/paul-krugman/)
 
-                * http://www.blogdieconomia.it/
+                * [blogdieconomia.it/](http://www.blogdieconomia.it/)
 
-                * https://ae.aliqtisadi.com/
+                * [ae.aliqtisadi.com/](https://ae.aliqtisadi.com/)
 
-                * https://sqarra.wordpress.com/ec/
+                * [sqarra.wordpress.com/ec/](https://sqarra.wordpress.com/ec/)
 
 
 
@@ -14497,13 +14497,13 @@ Groteske Aufklärung
 
         diccionarios
 
-                * http://www.economist.com/economics-a-to-z
+                * [economist.com/economics-a-to-z](http://www.economist.com/economics-a-to-z)
 
-                * http://library.nlu.edu.ua/POLN_TEXT/KNIGI/KONDOR/EKONOMIC_SL_2006.pdf
+                * [library.nlu.edu.ua/POLN_TEXT/KNIGI/KONDOR/EKONOMIC_SL_2006.pdf](http://library.nlu.edu.ua/POLN_TEXT/KNIGI/KONDOR/EKONOMIC_SL_2006.pdf)
 
-                * http://bank-ua.com/glossary/
+                * [bank-ua.com/glossary/](http://bank-ua.com/glossary/)
 
-                * http://translation.babylon.com/english/to-arabic/Arabic-Economic-Dictionary/
+                * [translation.babylon.com/english/to-arabic/Arabic-Economic-Dictionary/](http://translation.babylon.com/english/to-arabic/Arabic-Economic-Dictionary/)
 
 
         * [Index (FR)](http://www.jybaudot.fr/a_general/indexses.html)
@@ -14512,134 +14512,134 @@ Groteske Aufklärung
 
         inglés
 
-                * https://www.economy.com/dismal/
+                * [economy.com/dismal/](https://www.economy.com/dismal/)
 
-                * http://freakonomics.com/
+                * [freakonomics.com/](http://freakonomics.com/)
 
-                * http://timharford.com/
+                * [timharford.com/](http://timharford.com/)
 
-                * http://www.forbes.com/sites/modeledbehavior/
+                * [forbes.com/sites/modeledbehavior/](http://www.forbes.com/sites/modeledbehavior/)
 
-                * http://www.ezonomics.com/
+                * [ezonomics.com/](http://www.ezonomics.com/)
 
-                * https://www.washingtonpost.com/news/wonk/
+                * [washingtonpost.com/news/wonk/](https://www.washingtonpost.com/news/wonk/)
 
-                * http://www.npr.org/sections/money/
+                * [npr.org/sections/money/](http://www.npr.org/sections/money/)
 
-                * http://www.usnews.com/opinion/blogs/economic-intelligence
+                * [usnews.com/opinion/blogs/economic-intelligence](http://www.usnews.com/opinion/blogs/economic-intelligence)
 
-                * http://economistsview.typepad.com/economistsview/
+                * [economistsview.typepad.com/economistsview/](http://economistsview.typepad.com/economistsview/)
 
-                * http://weakonomics.com/
+                * [weakonomics.com/](http://weakonomics.com/)
 
-                * http://economistjourneytolife.blogspot.de/
+                * [economistjourneytolife.blogspot.de/](http://economistjourneytolife.blogspot.de/)
 
-                * https://econacademics.org/
+                * [econacademics.org/](https://econacademics.org/)
 
-                * http://www.economicthought.net/blog/
+                * [economicthought.net/blog/](http://www.economicthought.net/blog/)
 
-                * http://chrisauld.com/
+                * [chrisauld.com/](http://chrisauld.com/)
 
-                * https://www.facebook.com/RBReich/?fref=ts
+                * [facebook.com/RBReich/?fref=ts](https://www.facebook.com/RBReich/?fref=ts)
 
-                * https://www.newyorkfed.org/research/snapshot/index.html
+                * [newyorkfed.org/research/snapshot/index.html](https://www.newyorkfed.org/research/snapshot/index.html)
 
 
-        * [https://economictheoryblog.com](https://economictheoryblog.com/)
+        * [economictheoryblog.com](https://economictheoryblog.com/)
 
 
 
         alemán
 
-                * http://der-oekonomiker.blogspot.com/
+                * [der-oekonomiker.blogspot.com/](http://der-oekonomiker.blogspot.com/)
 
-                * http://www.surveybee.de/blog/2015/07/top-15-wirtschaftsblogs/
+                * [surveybee.de/blog/2015/07/top-15-wirtschaftsblogs/](http://www.surveybee.de/blog/2015/07/top-15-wirtschaftsblogs/)
 
-                * https://beyondmilchmaedchen.wordpress.com/
+                * [beyondmilchmaedchen.wordpress.com/](https://beyondmilchmaedchen.wordpress.com/)
 
-                * http://www.insm-oekonomenblog.de/
+                * [insm-oekonomenblog.de/](http://www.insm-oekonomenblog.de/)
 
-                * https://www.bandbreitenmodell.de/wichtigste-blogs-politik-wirtschaft-deutsch
+                * [bandbreitenmodell.de/wichtigste-blogs-politik-wirtschaft-deutsch](https://www.bandbreitenmodell.de/wichtigste-blogs-politik-wirtschaft-deutsch)
 
-                * http://www.querschuesse.de/
+                * [querschuesse.de/](http://www.querschuesse.de/)
 
-                * http://economicsintelligence.com/deutsch/
+                * [economicsintelligence.com/deutsch/](http://economicsintelligence.com/deutsch/)
 
-                * http://www.enlightenmenteconomics.com/blog/
+                * [enlightenmenteconomics.com/blog/](http://www.enlightenmenteconomics.com/blog/)
 
 
 
         grupos de reflexión y instituciones
 
-                * https://www.ineteconomics.org/
+                * [ineteconomics.org/](https://www.ineteconomics.org/)
 
-                * https://agenda.weforum.org/espanol/
+                * [agenda.weforum.org/espanol/](https://agenda.weforum.org/espanol/)
 
-                * https://edirc.repec.org/areas.html
+                * [edirc.repec.org/areas.html](https://edirc.repec.org/areas.html)
 
-                * http://www.imf.org/external/russian/index.htm
+                * [imf.org/external/russian/index.htm](http://www.imf.org/external/russian/index.htm)
 
-                * http://www.eeg.ru/pages/2
+                * [eeg.ru/pages/2](http://www.eeg.ru/pages/2)
 
-                * http://iep.ru/ru.html
+                * [iep.ru/ru.html](http://iep.ru/ru.html)
 
-                * http://www.cepii.fr/CEPII/fr/welcome.asp
+                * [cepii.fr/CEPII/fr/welcome.asp](http://www.cepii.fr/CEPII/fr/welcome.asp)
 
-                * http://www.oecd.org/fr/
+                * [oecd.org/fr/](http://www.oecd.org/fr/)
 
-                * http://www.insee.fr/fr/
+                * [insee.fr/fr/](http://www.insee.fr/fr/)
 
-                * http://www.institutomillenium.org.br/
+                * [institutomillenium.org.br/](http://www.institutomillenium.org.br/)
 
-                * http://www.economistax.com/
+                * [economistax.com/](http://www.economistax.com/)
 
-                * http://emerius.ofelon.org/online/it/
+                * [emerius.ofelon.org/online/it/](http://emerius.ofelon.org/online/it/)
 
-                * http://www.brunoleoni.it/
+                * [brunoleoni.it/](http://www.brunoleoni.it/)
 
 
 
         inglés/general
 
-                * http://www.worldbank.org/en/language-resources
+                * [worldbank.org/en/language-resources](http://www.worldbank.org/en/language-resources)
 
-                * http://www.voxeu.org/
+                * [voxeu.org/](http://www.voxeu.org/)
 
-                * http://www.esri.ie/research/
+                * [esri.ie/research/](http://www.esri.ie/research/)
 
-                * http://www.piie.com/
+                * [piie.com/](http://www.piie.com/)
 
-                * http://internationalecon.com/index.php
+                * [internationalecon.com/index.php](http://internationalecon.com/index.php)
 
-                * http://www.lisboncouncil.net/
+                * [lisboncouncil.net/](http://www.lisboncouncil.net/)
 
-                * http://fee.org/
+                * [fee.org/](http://fee.org/)
 
-                * http://marginalrevolution.com/
+                * [marginalrevolution.com/](http://marginalrevolution.com/)
 
-                * https://bfi.uchicago.edu/
+                * [bfi.uchicago.edu/](https://bfi.uchicago.edu/)
 
-                * http://www.hayek.sk/en/
+                * [hayek.sk/en/](http://www.hayek.sk/en/)
 
-                * http://en.llri.lt/
+                * [en.llri.lt/](http://en.llri.lt/)
 
-                * http://www.adamsmith.org/
+                * [adamsmith.org/](http://www.adamsmith.org/)
 
-                * http://www.fabians.org.uk/
+                * [fabians.org.uk/](http://www.fabians.org.uk/)
 
-                * http://www.adb.org/adbi/main
+                * [adb.org/adbi/main](http://www.adb.org/adbi/main)
 
 
 
         alemán
 
-                * http://www.hayek-institut.at/
+                * [hayek-institut.at/](http://www.hayek-institut.at/)
 
-                * https://www.diw.de/de
+                * [diw.de/de](https://www.diw.de/de)
 
-                * https://www.ifw-kiel.de/
+                * [ifw-kiel.de/](https://www.ifw-kiel.de/)
 
-                * http://www.rwi-essen.de/
+                * [rwi-essen.de/](http://www.rwi-essen.de/)
 
 
 
@@ -14647,31 +14647,31 @@ Groteske Aufklärung
 
         español
 
-                * http://www.ceres-uy.org/index.php/es/
+                * [ceres-uy.org/index.php/es/](http://www.ceres-uy.org/index.php/es/)
 
-                * http://www.fundacionfaes.org/es
+                * [fundacionfaes.org/es](http://www.fundacionfaes.org/es)
 
-                * http://www.flacso.or.cr/
+                * [flacso.or.cr/](http://www.flacso.or.cr/)
 
-                * http://www.fedesarrollo.org.co/
+                * [fedesarrollo.org.co/](http://www.fedesarrollo.org.co/)
 
-                * http://www.cepal.org/es
+                * [cepal.org/es](http://www.cepal.org/es)
 
-                * http://www.clacso.org.ar/
+                * [clacso.org.ar/](http://www.clacso.org.ar/)
 
 
 
         periódicos
 
-                * http://econbrowser.com/
+                * [econbrowser.com/](http://econbrowser.com/)
 
-                * https://www.hse.ru/en/science/journals
+                * [hse.ru/en/science/journals](https://www.hse.ru/en/science/journals)
 
-                * http://eleconomista.com.mx/index.php
+                * [eleconomista.com.mx/index.php](http://eleconomista.com.mx/index.php)
 
-                * https://www.wto.org/
+                * [wto.org/](https://www.wto.org/)
 
-                * http://altandetlige.dk/
+                * [altandetlige.dk/](http://altandetlige.dk/)
 
 
 
@@ -14679,27 +14679,27 @@ Groteske Aufklärung
 
         economistas
 
-                * http://tsowell.com/
+                * [tsowell.com/](http://tsowell.com/)
 
-                * http://gregmankiw.blogspot.com/
+                * [gregmankiw.blogspot.com/](http://gregmankiw.blogspot.com/)
 
-                * http://www.kaushikbasu.org/
+                * [kaushikbasu.org/](http://www.kaushikbasu.org/)
 
-                * https://economics.byu.edu/Pages/Faculty/Evans/home.aspx
+                * [economics.byu.edu/Pages/Faculty/Evans/home.aspx](https://economics.byu.edu/Pages/Faculty/Evans/home.aspx)
 
 
 
         finanza y bancos
 
-                * http://www.investopedia.com/
+                * [investopedia.com/](http://www.investopedia.com/)
 
-                * http://www.cires-ci.org/
+                * [cires-ci.org/](http://www.cires-ci.org/)
 
-                * https://www.ecb.europa.eu/home/html/index.en.html
+                * [ecb.europa.eu/home/html/index.en.html](https://www.ecb.europa.eu/home/html/index.en.html)
 
-                * https://www.bundesbank.de/Navigation/DE/Home/home_node.html?nsc=true&https=1&startpageId=Startseite-EN&startpageAreaId=Navigationsbereich&startpageLinkName=home_node+222
+                * [bundesbank.de/Navigation/DE/Home/home_node.html?nsc=true&https=1&startpageId=Startseite-EN&startpageAreaId=Navigationsbereich&startpageLinkName=home_node+222](https://www.bundesbank.de/Navigation/DE/Home/home_node.html?nsc=true&https=1&startpageId=Startseite-EN&startpageAreaId=Navigationsbereich&startpageLinkName=home_node+222)
 
-                * https://www.banque-france.fr/accueil.html
+                * [banque-france.fr/accueil.html](https://www.banque-france.fr/accueil.html)
 
 
 
@@ -14717,23 +14717,23 @@ Groteske Aufklärung
 
         desarrollo
 
-                * http://blogs.worldbank.org/es
+                * [blogs.worldbank.org/es](http://blogs.worldbank.org/es)
 
-                * http://www.cgdev.org/
+                * [cgdev.org/](http://www.cgdev.org/)
 
-                * http://blog-dialogoafondo.imf.org/
+                * [blog-dialogoafondo.imf.org/](http://blog-dialogoafondo.imf.org/)
 
-                * http://www.undp.org/es/
+                * [undp.org/es/](http://www.undp.org/es/)
 
-                * https://www.oecd.org/fr/
+                * [oecd.org/fr/](https://www.oecd.org/fr/)
 
-                * http://ru.unesco.org/
+                * [ru.unesco.org/](http://ru.unesco.org/)
 
-                * https://www.unicef.org/es
+                * [unicef.org/es](https://www.unicef.org/es)
 
-                * https://www.weforum.org/es/agenda
+                * [weforum.org/es/agenda](https://www.weforum.org/es/agenda)
 
-                * http://www.wri.org/
+                * [wri.org/](http://www.wri.org/)
 
 
         * [michaelmathesonmiller.com](http://michaelmathesonmiller.com/)
@@ -14757,17 +14757,17 @@ Groteske Aufklärung
 
         teoría de juegos
 
-                * http://mindyourdecisions.com/blog/
+                * [mindyourdecisions.com/blog/](http://mindyourdecisions.com/blog/)
 
-                * http://www.cril.univ-artois.fr/~konieczny/enseignement/TheorieDesJeux.pdf
+                * [cril.univ-artois.fr/~konieczny/enseignement/TheorieDesJeux.pdf](http://www.cril.univ-artois.fr/~konieczny/enseignement/TheorieDesJeux.pdf)
 
-                * http://www.spieltheorie.de/
+                * [spieltheorie.de/](http://www.spieltheorie.de/)
 
 
 
         pobreza
 
-                * http://slatestarcodex.com/2016/06/14/three-more-articles-on-poverty-and-why-they-disagree-with-each-other/
+                * [slatestarcodex.com/2016/06/14/three-more-articles-on-poverty-and-why-they-disagree-with-each-other/](http://slatestarcodex.com/2016/06/14/three-more-articles-on-poverty-and-why-they-disagree-with-each-other/)
 
 
 
@@ -14834,17 +14834,17 @@ Groteske Aufklärung
 
         Beh
 
-                * http://www.ezonomics.com/whatis/a_commitment_device
+                * [ezonomics.com/whatis/a_commitment_device](http://www.ezonomics.com/whatis/a_commitment_device)
 
-                * http://www.fabbs.org/
+                * [fabbs.org/](http://www.fabbs.org/)
 
-                * http://www.misbehavingbook.org/
+                * [misbehavingbook.org/](http://www.misbehavingbook.org/)
 
-                * http://www.scienceshumaines.com/index.php?page=moteur&find=%C3%89conomie+comportementale
+                * [scienceshumaines.com/index.php?page=moteur&find=%C3%89conomie+comportementale](http://www.scienceshumaines.com/index.php?page=moteur&find=%C3%89conomie+comportementale)
 
-                * http://www.scienceshumaines.com/irrationnels-mais-previsibles_fr_26951.html
+                * [scienceshumaines.com/irrationnels-mais-previsibles_fr_26951.html](http://www.scienceshumaines.com/irrationnels-mais-previsibles_fr_26951.html)
 
-                * http://www.scienceshumaines.com/le-choix-rationnel-les-pour-et-les-contre_fr_26957.html
+                * [scienceshumaines.com/le-choix-rationnel-les-pour-et-les-contre_fr_26957.html](http://www.scienceshumaines.com/le-choix-rationnel-les-pour-et-les-contre_fr_26957.html)
 
 
         * [Overconfidence](http://www.overconfidence.behaviouralfinance.net/)
@@ -14852,25 +14852,25 @@ Groteske Aufklärung
 
         * [Behav Econ UA](http://referatu.net.ua/newreferats/18/188830)
 
-                * https://dstoecklin.ch/tag/verhaltensokonomik/
+                * [dstoecklin.ch/tag/verhaltensokonomik/](https://dstoecklin.ch/tag/verhaltensokonomik/)
 
-                * https://epee.hse.ru/pov
+                * [epee.hse.ru/pov](https://epee.hse.ru/pov)
 
-                * https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2660462
+                * [papers.ssrn.com/sol3/papers.cfm?abstract_id=2660462](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2660462)
 
-                * https://www.dropbox.com/s/boazyhrejaxregx/Turley%20Behavioral%20Design%20Syllabus.pdf?dl=0
+                * [dropbox.com/s/boazyhrejaxregx/Turley%20Behavioral%20Design%20Syllabus.pdf?dl=0](https://www.dropbox.com/s/boazyhrejaxregx/Turley%20Behavioral%20Design%20Syllabus.pdf?dl=0)
 
-                * http://nudges.org/
+                * [nudges.org/](http://nudges.org/)
 
 
 
         Dev
 
-                * http://www.nber.org/papers/w14467
+                * [nber.org/papers/w14467](http://www.nber.org/papers/w14467)
 
-                * http://www.payer.de/entwicklung/entw31.htm
+                * [payer.de/entwicklung/entw31.htm](http://www.payer.de/entwicklung/entw31.htm)
 
-                * http://www.ricardosalinas.com/blog/blog.aspx?GUID=6fd9b5f1-c938-4336-b6ce-9d81711241d0
+                * [ricardosalinas.com/blog/blog.aspx?GUID=6fd9b5f1-c938-4336-b6ce-9d81711241d0](http://www.ricardosalinas.com/blog/blog.aspx?GUID=6fd9b5f1-c938-4336-b6ce-9d81711241d0)
 
 
         * [http://www.williameasterly.org/](http://fr.irefeurope.org/)
@@ -14884,26 +14884,26 @@ Groteske Aufklärung
 
         Esther Duflo on the global fight against poverty (French)de J-PAL
 
-                * http://www.die-gdi.de/
+                * [die-gdi.de/](http://www.die-gdi.de/)
 
 
         * [michaelmathesonmiller.com](http://michaelmathesonmiller.com/)
 
-                * http://www.proparco.fr/Accueil_PROPARCO
+                * [proparco.fr/Accueil_PROPARCO](http://www.proparco.fr/Accueil_PROPARCO)
 
 
 
         Education
 
-                * https://books.google.com/books?id=4KMknQEACAAJ&dq=Private%20Bildung%20in%20Afrika&hl=es&source=gbs_book_other_versions
+                * [books.google.com/books?id=4KMknQEACAAJ&dq=Private%20Bildung%20in%20Afrika&hl=es&source=gbs_book_other_versions](https://books.google.com/books?id=4KMknQEACAAJ&dq=Private%20Bildung%20in%20Afrika&hl=es&source=gbs_book_other_versions)
 
-                * https://dianeravitch.net/
+                * [dianeravitch.net/](https://dianeravitch.net/)
 
-                * https://mpra.ub.uni-muenchen.de/61417/1/MPRA_paper_61417.pdf
+                * [mpra.ub.uni-muenchen.de/61417/1/MPRA_paper_61417.pdf](https://mpra.ub.uni-muenchen.de/61417/1/MPRA_paper_61417.pdf)
 
-                * http://dianeravitch.com/
+                * [dianeravitch.com/](http://dianeravitch.com/)
 
-                * http://www.cedr.us/index.html
+                * [cedr.us/index.html](http://www.cedr.us/index.html)
 
 
         * [PRIVATE EDUCATION AND‘EDUCATION FOR ALL’‐ OR HOW NOT TO CONSTRUCT AN EVIDENCE‐BASED ARGUMENT: A REPLY TO TOOLEY](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0270.2004.00507.x/epdf)
@@ -14918,7 +14918,7 @@ Groteske Aufklärung
 
         BOOKTalks: ECONOMICS AS RELIGION - YouTube
 
-                * https://en.wikipedia.org/wiki/Ha-Joon_Chang
+                * [en.wikipedia.org/wiki/Ha-Joon_Chang](https://en.wikipedia.org/wiki/Ha-Joon_Chang)
 
 
         * [LA SAINTE-ÉCONOMIE, NOTRE RELIGION - YouTube](https://www.youtube.com/watch?v=vsY6bvEojdg)
@@ -14930,11 +14930,11 @@ Groteske Aufklärung
 
         Decision Theory
 
-                * http://www.aup.ru/books/m157/
+                * [aup.ru/books/m157/](http://www.aup.ru/books/m157/)
 
-                * http://www.lsis.org/espinasseb/Supports/MOAD-2009/2-ElemTheoDecision-2009-4p.pdf
+                * [lsis.org/espinasseb/Supports/MOAD-2009/2-ElemTheoDecision-2009-4p.pdf](http://www.lsis.org/espinasseb/Supports/MOAD-2009/2-ElemTheoDecision-2009-4p.pdf)
 
-                * http://www.wiwi.uni-augsburg.de/bwl/bamberg/_dateiupload/lehrmaterial-ws0405/Entscheidungstheorie_skript.pdf
+                * [wiwi.uni-augsburg.de/bwl/bamberg/_dateiupload/lehrmaterial-ws0405/Entscheidungstheorie_skript.pdf](http://www.wiwi.uni-augsburg.de/bwl/bamberg/_dateiupload/lehrmaterial-ws0405/Entscheidungstheorie_skript.pdf)
 
 
 
@@ -14946,9 +14946,9 @@ Groteske Aufklärung
 
         * [FUNDAMENTALS OF SOCIAL CHOICE THEORY](http://home.uchicago.edu/rmyerson/research/schch1.pdf)
 
-                * http://link.springer.com/book/10.1007/978-3-319-33981-8
+                * [link.springer.com/book/10.1007/978-3-319-33981-8](http://link.springer.com/book/10.1007/978-3-319-33981-8)
 
-                * http://www.goodreads.com/author/quotes/14424.Adam_Smith
+                * [goodreads.com/author/quotes/14424.Adam_Smith](http://www.goodreads.com/author/quotes/14424.Adam_Smith)
 
 
         * [Teoría de la decisión e incertidumbre: modelos normativos y descriptivo](http://digital.csic.es/bitstream/10261/7734/1/eserv.pdf)
@@ -14980,27 +14980,27 @@ Groteske Aufklärung
 
         * [GT EXAM WITH ANSWERS](http://faculty.las.illinois.edu/swillia3/www/533/2015/pdfsFeb/Feb11.pdf)
 
-                * http://faculty.las.illinois.edu/swillia3/www/533/2015/pdfsFeb/Feb4.pdf
+                * [faculty.las.illinois.edu/swillia3/www/533/2015/pdfsFeb/Feb4.pdf](http://faculty.las.illinois.edu/swillia3/www/533/2015/pdfsFeb/Feb4.pdf)
 
-                * http://users.econ.umn.edu/~luttmer/research/cp/ExistenceEctrica.pdf
+                * [users.econ.umn.edu/~luttmer/research/cp/ExistenceEctrica.pdf](http://users.econ.umn.edu/~luttmer/research/cp/ExistenceEctrica.pdf)
 
-                * http://www.econ.ku.dk/schottmueller/teaching/game_theory/gt2014/gt07_refinements.pdf
+                * [econ.ku.dk/schottmueller/teaching/game_theory/gt2014/gt07_refinements.pdf](http://www.econ.ku.dk/schottmueller/teaching/game_theory/gt2014/gt07_refinements.pdf)
 
-                * http://www.econ.ucla.edu/iobara/SPE201B.pdf
+                * [econ.ucla.edu/iobara/SPE201B.pdf](http://www.econ.ucla.edu/iobara/SPE201B.pdf)
 
-                * http://www.pages.drexel.edu/~mccainra/
+                * [pages.drexel.edu/~mccainra/](http://www.pages.drexel.edu/~mccainra/)
 
-                * http://www.princeton.edu/~fgul/2000handouts/H3.1.pdf
+                * [princeton.edu/~fgul/2000handouts/H3.1.pdf](http://www.princeton.edu/~fgul/2000handouts/H3.1.pdf)
 
-                * https://github.com/Ryan-Holben/game-theory-IESDS-generator/blob/master/IESDS.py
+                * [Ryan-Holben/game-theory-IESDS-generator/blob/master/IESDS.py](https://github.com/Ryan-Holben/game-theory-IESDS-generator/blob/master/IESDS.py)
 
-                * https://ocw.mit.edu/courses/economics/14-12-economic-applications-of-game-theory-fall-2012/lecture-notes/MIT14_12F12_chapter11.pdf
+                * [ocw.mit.edu/courses/economics/14-12-economic-applications-of-game-theory-fall-2012/lecture-notes/MIT14_12F12_chapter11.pdf](https://ocw.mit.edu/courses/economics/14-12-economic-applications-of-game-theory-fall-2012/lecture-notes/MIT14_12F12_chapter11.pdf)
 
-                * https://wiki.cc.gatech.edu/theory/index.php/Trembling-hand_perfect_equilibrium
+                * [wiki.cc.gatech.edu/theory/index.php/Trembling-hand_perfect_equilibrium](https://wiki.cc.gatech.edu/theory/index.php/Trembling-hand_perfect_equilibrium)
 
-                * https://www.google.com/search?q=Game+Theory+in+Everyday+Life&rlz=1C1GCEA_enUS789US789&oq=Game+Theory+in+Everyday+Life&aqs=chrome..69i57j0l5.4255j0j7&sourceid=chrome&ie=UTF-8
+                * [google.com/search?q=Game+Theory+in+Everyday+Life&rlz=1C1GCEA_enUS789US789&oq=Game+Theory+in+Everyday+Life&aqs=chrome..69i57j0l5.4255j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=Game+Theory+in+Everyday+Life&rlz=1C1GCEA_enUS789US789&oq=Game+Theory+in+Everyday+Life&aqs=chrome..69i57j0l5.4255j0j7&sourceid=chrome&ie=UTF-8)
 
-                * https://www.investopedia.com/terms/t/trembling-hand-perfect-equilibrium.asp
+                * [investopedia.com/terms/t/trembling-hand-perfect-equilibrium.asp](https://www.investopedia.com/terms/t/trembling-hand-perfect-equilibrium.asp)
 
 
         * [Strategic games](https://homepages.cwi.nl/~apt/stra/)
@@ -15012,7 +15012,7 @@ Groteske Aufklärung
         * [Trembling-Hand Perfection forExtensive Games](http://albertbanalestanol.com/wp-content/uploads/gtcm-Lecture-2b.pdf)
 
 
-        * [www.ebour.com.ar/pdfs/Solution Manual for A Course in Game Theory.pdf](http://www.ebour.com.ar/pdfs/Solution%20Manual%20for%20A%20Course%20in%20Game%20Theory.pdf)
+        * [ebour.com.ar/pdfs/Solution Manual for A Course in Game Theory.pdf](http://www.ebour.com.ar/pdfs/Solution%20Manual%20for%20A%20Course%20in%20Game%20Theory.pdf)
 
 
         * [zhangjun.weebly.com/uploads/2/8/1/8/2818435/martin.pdf](http://zhangjun.weebly.com/uploads/2/8/1/8/2818435/martin.pdf)
@@ -15023,9 +15023,9 @@ Groteske Aufklärung
 
         * [Теория игр — Википедия](https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%B8%D0%B3%D1%80)
 
-                * http://www.universalis.fr/encyclopedie/theorie-des-jeux/
+                * [universalis.fr/encyclopedie/theorie-des-jeux/](http://www.universalis.fr/encyclopedie/theorie-des-jeux/)
 
-                * http://www.wiso.tu-dortmund.de/wiso/mik/Medienpool/de/materialien/spieltheorie_1/spiele1_ws07_08_skript.pdf
+                * [wiso.tu-dortmund.de/wiso/mik/Medienpool/de/materialien/spieltheorie_1/spiele1_ws07_08_skript.pdf](http://www.wiso.tu-dortmund.de/wiso/mik/Medienpool/de/materialien/spieltheorie_1/spiele1_ws07_08_skript.pdf)
 
 
         * [Game Theory (Part 17) | Azimuth](https://johncarlosbaez.wordpress.com/2013/02/27/game-theory-part-17/)
@@ -15059,7 +15059,7 @@ Groteske Aufklärung
 
         Filo
 
-                * https://en.wikipedia.org/wiki/R._Edward_Freeman
+                * [en.wikipedia.org/wiki/R._Edward_Freeman](https://en.wikipedia.org/wiki/R._Edward_Freeman)
 
 
         Joe Stiglitz &amp; Winnie Byanyima on Redefining Inequality - YouTube
@@ -15091,9 +15091,9 @@ Groteske Aufklärung
 
         Blog
 
-                * https://www.intelligenteconomist.com/economics-blogs/
+                * [intelligenteconomist.com/economics-blogs/](https://www.intelligenteconomist.com/economics-blogs/)
 
-                * https://www.quora.com/What-are-the-best-economics-blogs-Why
+                * [quora.com/What-are-the-best-economics-blogs-Why](https://www.quora.com/What-are-the-best-economics-blogs-Why)
 
 
         * [Top 101 Economics &amp; Finance Blogs (2018)](https://www.focus-economics.com/blog/top-economics-finance-blogs-of-2018)
@@ -15175,9 +15175,9 @@ Groteske Aufklärung
 
         * [Goofynomics](http://goofynomics.blogspot.com/)
 
-                * http://www.tregernomics.com/
+                * [tregernomics.com/](http://www.tregernomics.com/)
 
-                * https://www.oeconomist.com/blogs/daniel/
+                * [oeconomist.com/blogs/daniel/](https://www.oeconomist.com/blogs/daniel/)
 
 
         * [IGM Forum | Initiative on Global Markets](http://www.igmchicago.org/)
@@ -15225,7 +15225,7 @@ Groteske Aufklärung
         * [Unidos por una Economía Justa](http://www.economiajusta.org/)
 
 
-        * [www.reclaimthestate.org](http://www.reclaimthestate.org/)
+        * [reclaimthestate.org](http://www.reclaimthestate.org/)
 
 
 
@@ -15252,7 +15252,7 @@ Groteske Aufklärung
 
         * [A Glossary of Microeconomic Terms](http://www.digitaleconomist.org/glossary_micro.html)
 
-                * https://www.exploring-economics.org/de
+                * [exploring-economics.org/de](https://www.exploring-economics.org/de)
 
 
         * [Lexique théories économiques](https://www.andlil.com/lexique-theories-economiques/)
@@ -15300,14 +15300,14 @@ Groteske Aufklärung
 
         * [The Structure of Economics: A Mathematical Analysis](https://b-ok.cc/book/2660818/44cdd8)
 
-                * https://github.com/rakhab/Microeconomics/blob/master/micro_materials.pdf
+                * [rakhab/Microeconomics/blob/master/micro_materials.pdf](https://github.com/rakhab/Microeconomics/blob/master/micro_materials.pdf)
 
 
 
 
         * [Evonomics - The Next Evolution of Economics](https://evonomics.com/)
         * [Silicon Valley Bank: an It’s a Wonderful Life bank run for digital age](https://www.fastcompany.com/90864395/silicon-valley-bank-an-its-a-wonderful-life-bank-run-for-the-digital-age)
-        * https://www.behavioraleconomics.com/be-guide/the-behavioral-economics-guide-2022/
+        * [behavioraleconomics.com/be-guide/the-behavioral-economics-guide-2022/](https://www.behavioraleconomics.com/be-guide/the-behavioral-economics-guide-2022/)
         * [1997_Brodel_F_Chto_takoe_Frantsia_Kn_2_Lyudi_i_veschi_ch_2_Krestyanskaya_ekonomika_do_nach_XX_v.pdf](https://vk.com/doc30601958_447500816?hash=2e18f487984f70db8f&dl=b2389241a2f4248d62)
 
     - Economics
@@ -15317,12 +15317,12 @@ Groteske Aufklärung
         * [Inequality, Power and Happiness — Shimon Edelman - edelman-inequality.pdf](https://www.apa.org/pi/ses/resources/publications/edelman-inequality.pdf)
 
         ethics and economics
-                * https://jacobinmag.com/2022/02/silicon-chips-intel-taiwan-tsmc-supply-chains-prices
+                * [jacobinmag.com/2022/02/silicon-chips-intel-taiwan-tsmc-supply-chains-prices](https://jacobinmag.com/2022/02/silicon-chips-intel-taiwan-tsmc-supply-chains-prices)
 
         * [Wohlstand ohne Wachstum: Leben und Wirtschaften in einer endlichen Welt](http://library.lol/main/334CB28778C12600F1ADBDD5CF7F0829)
 
         Eliza Forsythe - Economics of career transitions
-                * https://www.behavioraleconomics.com/be-guide/the-behavioral-economics-guide-2023/
+                * [behavioraleconomics.com/be-guide/the-behavioral-economics-guide-2023/](https://www.behavioraleconomics.com/be-guide/the-behavioral-economics-guide-2023/)
 
         Many Agent Games in Socio-economic Systems: Corruption, Inspection, Coalition Building, Network Growth, Security
 
@@ -15456,18 +15456,18 @@ Groteske Aufklärung
 
             * [IPA Source Free Texts](https://www.ipasource.com/free)
 
-                                    * https://www.uni-hildesheim.de/media/fb3/deutsche_sprache/UEbungskompendium_Phonologie_WS_2010_2011.pdf
+                                    * [uni-hildesheim.de/media/fb3/deutsche_sprache/UEbungskompendium_Phonologie_WS_2010_2011.pdf](https://www.uni-hildesheim.de/media/fb3/deutsche_sprache/UEbungskompendium_Phonologie_WS_2010_2011.pdf)
 
 
             * [PHONETIQUE Apprendre à prononcer le français](http://phonetique.free.fr/index.htm)
 
 
-            * [https://phonetique.uqam.ca/upload/files/LIN1621/Hiver_2015/Exercices_transcription_corrigé.pdf](https://phonetique.uqam.ca/upload/files/LIN1621/Hiver_2015/Exercices_transcription_corrig%C3%A9.pdf)
+            * [phonetique.uqam.ca/upload/files/LIN1621/Hiver_2015/Exercices_transcription_corrigé.pdf](https://phonetique.uqam.ca/upload/files/LIN1621/Hiver_2015/Exercices_transcription_corrig%C3%A9.pdf)
 
 
             * [L'alphabet phonétique international (A.P.I.) - EspaceFrancais.com](https://www.espacefrancais.com/lalphabet-phonetique-international-api/)
 
-                                    * https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118519639.wbecpx175
+                                    * [onlinelibrary.wiley.com/doi/pdf/10.1002/9781118519639.wbecpx175](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118519639.wbecpx175)
 
 
             * [Phonetics For Fanatics | Pencil Puzzles Based on the International Phonetic Alphabet (IPA) for ESL Students](https://phoneticsforfanatics.com/)
@@ -15486,17 +15486,17 @@ Groteske Aufklärung
 
             IPA
 
-                                    * https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/illustrations-of-the-ipa?sort=titleSort%3Aasc&pageNum=5&searchWithinIds=90FB09AEC185BE05D8C0826FED60CB0C&productType=JOURNAL_ARTICLE&template=cambridge-core%2Fjournal%2Farticle-listings%2Flistings-wrapper&hideArticleJournalMetaData=false&displayNasaAds=false
+                                    * [cambridge.org/core/journals/journal-of-the-international-phonetic-association/illustrations-of-the-ipa?sort=titleSort%3Aasc&pageNum=5&searchWithinIds=90FB09AEC185BE05D8C0826FED60CB0C&productType=JOURNAL_ARTICLE&template=cambridge-core%2Fjournal%2Farticle-listings%2Flistings-wrapper&hideArticleJournalMetaData=false&displayNasaAds=false](https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/illustrations-of-the-ipa?sort=titleSort%3Aasc&pageNum=5&searchWithinIds=90FB09AEC185BE05D8C0826FED60CB0C&productType=JOURNAL_ARTICLE&template=cambridge-core%2Fjournal%2Farticle-listings%2Flistings-wrapper&hideArticleJournalMetaData=false&displayNasaAds=false)
 
-                                    * https://scholars.sil.org/kenneth_s_olson/ipa_illustrations
+                                    * [scholars.sil.org/kenneth_s_olson/ipa_illustrations](https://scholars.sil.org/kenneth_s_olson/ipa_illustrations)
 
-                                    * https://www.phon.ucl.ac.uk/home/wells/greek.htm
+                                    * [phon.ucl.ac.uk/home/wells/greek.htm](https://www.phon.ucl.ac.uk/home/wells/greek.htm)
 
-                                    * http://www.webtopos.gr/eng/languages/greek/gre_ipa_3.htm
+                                    * [webtopos.gr/eng/languages/greek/gre_ipa_3.htm](http://www.webtopos.gr/eng/languages/greek/gre_ipa_3.htm)
 
-                                    * http://archive.phonetics.ucla.edu/Language/SWH/swh_word-list_1973_03.html
+                                    * [archive.phonetics.ucla.edu/Language/SWH/swh_word-list_1973_03.html](http://archive.phonetics.ucla.edu/Language/SWH/swh_word-list_1973_03.html)
 
-                                    * https://en.wikipedia.org/wiki/Help:IPA/Swahili
+                                    * [en.wikipedia.org/wiki/Help:IPA/Swahili](https://en.wikipedia.org/wiki/Help:IPA/Swahili)
 
 
             * [Journal of the International Phonetic Association | Cambridge Core](https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association#)
@@ -16072,57 +16072,57 @@ Groteske Aufklärung
         * [AFI](https://docs.google.com/spreadsheets/d/1TZ4pvVbKtxGTVRWnEiuU8TZUgOikjHmYcO7JYoZgGJo/edit?usp=sharing)
 
     - Reading List
-                * http://www.glottopedia.org/index.php/Category:Computational_Linguistics
+                * [glottopedia.org/index.php/Category:Computational_Linguistics](http://www.glottopedia.org/index.php/Category:Computational_Linguistics)
 
-                * https://search.lib.byu.edu/byu/search?q=Parallel+Corpora
+                * [search.lib.byu.edu/byu/search?q=Parallel+Corpora](https://search.lib.byu.edu/byu/search?q=Parallel+Corpora)
 
-                * https://sites.google.com/site/casualconc/utility-programs/casualpconc/create-a-parallel-corpus-database
+                * [sites.google.com/site/casualconc/utility-programs/casualpconc/create-a-parallel-corpus-database](https://sites.google.com/site/casualconc/utility-programs/casualpconc/create-a-parallel-corpus-database)
 
-                * http://opus.lingfil.uu.se/letsmt-trac/wiki/DataProcessingTools
+                * [opus.lingfil.uu.se/letsmt-trac/wiki/DataProcessingTools](http://opus.lingfil.uu.se/letsmt-trac/wiki/DataProcessingTools)
 
-                * http://opus.lingfil.uu.se/tools.php
+                * [opus.lingfil.uu.se/tools.php](http://opus.lingfil.uu.se/tools.php)
 
-                * https://en.wikipedia.org/wiki/Parallel_text
+                * [en.wikipedia.org/wiki/Parallel_text](https://en.wikipedia.org/wiki/Parallel_text)
 
-                * https://wmtang.org/corpus-linguistics/corpus-linguistics/
+                * [wmtang.org/corpus-linguistics/corpus-linguistics/](https://wmtang.org/corpus-linguistics/corpus-linguistics/)
 
-                * http://www.anglistik.uni-freiburg.de/seminar/abteilungen/sprachwissenschaft/ls_mair/corpus-linguistics
+                * [anglistik.uni-freiburg.de/seminar/abteilungen/sprachwissenschaft/ls_mair/corpus-linguistics](http://www.anglistik.uni-freiburg.de/seminar/abteilungen/sprachwissenschaft/ls_mair/corpus-linguistics)
 
-                * http://opus.lingfil.uu.se/index.php
+                * [opus.lingfil.uu.se/index.php](http://opus.lingfil.uu.se/index.php)
 
-                * http://opus.lingfil.uu.se/trac/wiki/Tagging%20and%20Parsing
+                * [opus.lingfil.uu.se/trac/wiki/Tagging%20and%20Parsing](http://opus.lingfil.uu.se/trac/wiki/Tagging%20and%20Parsing)
 
-                * http://opus.lingfil.uu.se/OpenSubtitles2016/es-hr_sample.html
+                * [opus.lingfil.uu.se/OpenSubtitles2016/es-hr_sample.html](http://opus.lingfil.uu.se/OpenSubtitles2016/es-hr_sample.html)
 
-                * http://corpus-tools.org/home/
+                * [corpus-tools.org/home/](http://corpus-tools.org/home/)
 
-                * https://www.linguistik.hu-berlin.de/de/institut/professuren/korpuslinguistik/lehre/sose-16/se_52200-25-85
+                * [linguistik.hu-berlin.de/de/institut/professuren/korpuslinguistik/lehre/sose-16/se_52200-25-85](https://www.linguistik.hu-berlin.de/de/institut/professuren/korpuslinguistik/lehre/sose-16/se_52200-25-85)
 
-                * https://www.germanistik.uni-mainz.de/abteilungen/historische-sprachwissenschaft-des-deutschen/stefan-hartmann/korpuslinguistik/
+                * [germanistik.uni-mainz.de/abteilungen/historische-sprachwissenschaft-des-deutschen/stefan-hartmann/korpuslinguistik/](https://www.germanistik.uni-mainz.de/abteilungen/historische-sprachwissenschaft-des-deutschen/stefan-hartmann/korpuslinguistik/)
 
-                * http://www.linguistics.ucsb.edu/faculty/stgries/research/Gries2016_qclwr2.pdf
+                * [linguistics.ucsb.edu/faculty/stgries/research/Gries2016_qclwr2.pdf](http://www.linguistics.ucsb.edu/faculty/stgries/research/Gries2016_qclwr2.pdf)
 
-                * http://data-bzh.fr/text-mining-r-part-1/
+                * [data-bzh.fr/text-mining-r-part-1/](http://data-bzh.fr/text-mining-r-part-1/)
 
-                * https://semen.revues.org/8914
+                * [semen.revues.org/8914](https://semen.revues.org/8914)
 
-                * https://www.google.com/search?q=corpus+linguistics+with+python&oq=corpus+linguistics+with+python&aqs=chrome..69i57j0.9000j0j7&sourceid=chrome&ie=UTF-8#q=corpus+linguistics+with+R&safe=active&start=10
+                * [google.com/search?q=corpus+linguistics+with+python&oq=corpus+linguistics+with+python&aqs=chrome..69i57j0.9000j0j7&sourceid=chrome&ie=UTF-8#q=corpus+linguistics+with+R&safe=active&start=10](https://www.google.com/search?q=corpus+linguistics+with+python&oq=corpus+linguistics+with+python&aqs=chrome..69i57j0.9000j0j7&sourceid=chrome&ie=UTF-8#q=corpus+linguistics+with+R&safe=active&start=10)
 
-                * http://lope.linguistics.ntu.edu.tw/courses/corpusling/syllabus.html
+                * [lope.linguistics.ntu.edu.tw/courses/corpusling/syllabus.html](http://lope.linguistics.ntu.edu.tw/courses/corpusling/syllabus.html)
 
-                * http://freecode.com/articles/processing-corpora-with-python-and-the-natural-language-toolkit
+                * [freecode.com/articles/processing-corpora-with-python-and-the-natural-language-toolkit](http://freecode.com/articles/processing-corpora-with-python-and-the-natural-language-toolkit)
 
-                * https://www.llas.ac.uk/resources/gpg/1444.html
+                * [llas.ac.uk/resources/gpg/1444.html](https://www.llas.ac.uk/resources/gpg/1444.html)
 
-                * http://wikis.fu-berlin.de/display/tdr/Die+Arbeit+mit+Textdaten+-+Korpora+und+Textdatenbanken
+                * [wikis.fu-berlin.de/display/tdr/Die+Arbeit+mit+Textdaten+-+Korpora+und+Textdatenbanken](http://wikis.fu-berlin.de/display/tdr/Die+Arbeit+mit+Textdaten+-+Korpora+und+Textdatenbanken)
 
-                * http://www.glottopedia.org/index.php/Parallel_corpus
+                * [glottopedia.org/index.php/Parallel_corpus](http://www.glottopedia.org/index.php/Parallel_corpus)
 
-                * https://www.sketchengine.co.uk/user-guide/user-manual/corpora/setting-up-parallel-corpora/
+                * [sketchengine.co.uk/user-guide/user-manual/corpora/setting-up-parallel-corpora/](https://www.sketchengine.co.uk/user-guide/user-manual/corpora/setting-up-parallel-corpora/)
 
-                * http://www.aucel.com/pln/k-es.html
+                * [aucel.com/pln/k-es.html](http://www.aucel.com/pln/k-es.html)
 
-                * http://www.raco.cat/index.php/Bibliodoc/article/viewFile/56629/66051
+                * [raco.cat/index.php/Bibliodoc/article/viewFile/56629/66051](http://www.raco.cat/index.php/Bibliodoc/article/viewFile/56629/66051)
 
 
         * [APROXIMACIÓN A LA LINGÜÍSTICA COMPUTACIONAL](http://www.revistacontextos.es/econtextos/tesis_milka_contextos.pdf)
@@ -16136,7 +16136,7 @@ Groteske Aufklärung
 
         * [Introduction à la linguistique computationnelle](http://members.unine.ch/jacques.savoy/Lectures/SeminaireTALN.html)
 
-                * https://fr.wikipedia.org/wiki/Linguistique_informatique
+                * [fr.wikipedia.org/wiki/Linguistique_informatique](https://fr.wikipedia.org/wiki/Linguistique_informatique)
 
 
         * [Linguistique et informatique](http://theses.ulaval.ca/archimede/fichiers/22111/ch02.html)
@@ -16207,24 +16207,24 @@ Groteske Aufklärung
 
         * [Lingua lojban - Wikipedia](https://it.wikipedia.org/wiki/Lingua_lojban)
 
-                * https://en.wikipedia.org/wiki/List_of_language_families#Asia
+                * [en.wikipedia.org/wiki/List_of_language_families#Asia](https://en.wikipedia.org/wiki/List_of_language_families#Asia)
 
-                * https://en.wikipedia.org/wiki/Chomsky_hierarchy
+                * [en.wikipedia.org/wiki/Chomsky_hierarchy](https://en.wikipedia.org/wiki/Chomsky_hierarchy)
 
-                * https://www.google.com/search?rlz=1C5CHFA_enUS753US753&q=Geschichte+der+Sprachen+der+Welt&oq=Geschichte+der+Sprachen+der+Welt&gs_l=psy-ab.3...13545.18325.0.18730.14.14.0.0.0.0.110.1138.9j3.12.0....0...1.1.64.psy-ab..3.6.576...0j0i7i30k1j0i30k1j0i8i7i30k1j0i8i30k1.0.pKTknLAFK_k
+                * [google.com/search?rlz=1C5CHFA_enUS753US753&q=Geschichte+der+Sprachen+der+Welt&oq=Geschichte+der+Sprachen+der+Welt&gs_l=psy-ab.3...13545.18325.0.18730.14.14.0.0.0.0.110.1138.9j3.12.0....0...1.1.64.psy-ab..3.6.576...0j0i7i30k1j0i30k1j0i8i7i30k1j0i8i30k1.0.pKTknLAFK_k](https://www.google.com/search?rlz=1C5CHFA_enUS753US753&q=Geschichte+der+Sprachen+der+Welt&oq=Geschichte+der+Sprachen+der+Welt&gs_l=psy-ab.3...13545.18325.0.18730.14.14.0.0.0.0.110.1138.9j3.12.0....0...1.1.64.psy-ab..3.6.576...0j0i7i30k1j0i30k1j0i8i7i30k1j0i8i30k1.0.pKTknLAFK_k)
 
-                * https://www.helles-koepfchen.de/artikel/2075.html
+                * [helles-koepfchen.de/artikel/2075.html](https://www.helles-koepfchen.de/artikel/2075.html)
 
-                * http://www.multilingualliving.com/2010/05/01/the-benefits-of-multilingualism/
+                * [multilingualliving.com/2010/05/01/the-benefits-of-multilingualism/](http://www.multilingualliving.com/2010/05/01/the-benefits-of-multilingualism/)
 
-                * https://books.google.com/books/about/How_Many_Languages_Do_We_Need.html?hl=it&id=4QX8ri2o1TUC
+                * [books.google.com/books/about/How_Many_Languages_Do_We_Need.html?hl=it&id=4QX8ri2o1TUC](https://books.google.com/books/about/How_Many_Languages_Do_We_Need.html?hl=it&id=4QX8ri2o1TUC)
 
 
         kotri faktori su doveli do da anglija je glavnoj silom u miru u 18., 19. vikima?
 
-                * https://www.quora.com/How-did-England-become-so-powerful-in-the-past
+                * [quora.com/How-did-England-become-so-powerful-in-the-past](https://www.quora.com/How-did-England-become-so-powerful-in-the-past)
 
-                * https://blog.esl-languages.com/blog/learn-languages/english/english-language-global-number-one/
+                * [blog.esl-languages.com/blog/learn-languages/english/english-language-global-number-one/](https://blog.esl-languages.com/blog/learn-languages/english/english-language-global-number-one/)
 
 
         * [7 Linguists Who Changed the Game | Listen & Learn](https://www.listenandlearn.org/blog/7-linguists-who-changed-the-game/)
@@ -16259,41 +16259,41 @@ Groteske Aufklärung
 
         * [Are Indonesian and Tagalog closer than what we know right now? | WordReference Forums](https://forum.wordreference.com/threads/are-indonesian-and-tagalog-closer-than-what-we-know-right-now.1160491/)
 
-                * http://matadornetwork.com/abroad/20-awesomely-untranslatable-words-from-around-the-world/
+                * [matadornetwork.com/abroad/20-awesomely-untranslatable-words-from-around-the-world/](http://matadornetwork.com/abroad/20-awesomely-untranslatable-words-from-around-the-world/)
 
-                * http://www.booksandideas.net/On-Linguistic-Imperialism.html
+                * [booksandideas.net/On-Linguistic-Imperialism.html](http://www.booksandideas.net/On-Linguistic-Imperialism.html)
 
-                * http://www.lingforum.com/linguistics-websites.html
+                * [lingforum.com/linguistics-websites.html](http://www.lingforum.com/linguistics-websites.html)
 
-                * http://www.linguistics.ucsb.edu/faculty/stgries/research/Gries2016_qclwr2.pdf
+                * [linguistics.ucsb.edu/faculty/stgries/research/Gries2016_qclwr2.pdf](http://www.linguistics.ucsb.edu/faculty/stgries/research/Gries2016_qclwr2.pdf)
 
-                * http://www.mosalingua.com/blog/2011/09/11/quelle_langue_apprendre-7-langues-etrangeres-les-plus-utiles/
+                * [mosalingua.com/blog/2011/09/11/quelle_langue_apprendre-7-langues-etrangeres-les-plus-utiles/](http://www.mosalingua.com/blog/2011/09/11/quelle_langue_apprendre-7-langues-etrangeres-les-plus-utiles/)
 
-                * http://www.nativlang.com/linguistics/language-family-maps.php
+                * [nativlang.com/linguistics/language-family-maps.php](http://www.nativlang.com/linguistics/language-family-maps.php)
 
-                * http://www.sofoot.com/un-entraineur-doit-il-parler-la-langue-de-ses-joueurs-219203.html
+                * [sofoot.com/un-entraineur-doit-il-parler-la-langue-de-ses-joueurs-219203.html](http://www.sofoot.com/un-entraineur-doit-il-parler-la-langue-de-ses-joueurs-219203.html)
 
-                * http://www.spiegel.de/international/germany/the-german-debate-the-best-place-for-language-acquisition-is-kindergarten-a-749442.html
+                * [spiegel.de/international/germany/the-german-debate-the-best-place-for-language-acquisition-is-kindergarten-a-749442.html](http://www.spiegel.de/international/germany/the-german-debate-the-best-place-for-language-acquisition-is-kindergarten-a-749442.html)
 
-                * http://www.suedtirol.info/wasunsbewegt/sprachen
+                * [suedtirol.info/wasunsbewegt/sprachen](http://www.suedtirol.info/wasunsbewegt/sprachen)
 
-                * http://www.tagesanzeiger.ch/schweiz/standard/An-80-Zuercher-Schulen-sprechen-mehr-als-zwei-Drittel-kein-Deutsch/story/18800058
+                * [tagesanzeiger.ch/schweiz/standard/An-80-Zuercher-Schulen-sprechen-mehr-als-zwei-Drittel-kein-Deutsch/story/18800058](http://www.tagesanzeiger.ch/schweiz/standard/An-80-Zuercher-Schulen-sprechen-mehr-als-zwei-Drittel-kein-Deutsch/story/18800058)
 
-                * http://www.tandfonline.com/doi/pdf/10.1080/01434639708666317
+                * [tandfonline.com/doi/pdf/10.1080/01434639708666317](http://www.tandfonline.com/doi/pdf/10.1080/01434639708666317)
 
-                * http://www.tryukraine.com/info/languages.shtml
+                * [tryukraine.com/info/languages.shtml](http://www.tryukraine.com/info/languages.shtml)
 
-                * https://aeon.co/essays/how-did-science-come-to-speak-only-english
+                * [aeon.co/essays/how-did-science-come-to-speak-only-english](https://aeon.co/essays/how-did-science-come-to-speak-only-english)
 
-                * https://muse.jhu.edu/browse/language_and_linguistics
+                * [muse.jhu.edu/browse/language_and_linguistics](https://muse.jhu.edu/browse/language_and_linguistics)
 
-                * https://www.cairn.info/revue-diogene-2002-2-page-21.htm
+                * [cairn.info/revue-diogene-2002-2-page-21.htm](https://www.cairn.info/revue-diogene-2002-2-page-21.htm)
 
-                * https://www.quora.com/Why-do-most-languages-have-the-tendency-to-simplify-their-morphology-grammar-and-phonology-over-time-while-some-do-not
+                * [quora.com/Why-do-most-languages-have-the-tendency-to-simplify-their-morphology-grammar-and-phonology-over-time-while-some-do-not](https://www.quora.com/Why-do-most-languages-have-the-tendency-to-simplify-their-morphology-grammar-and-phonology-over-time-while-some-do-not)
 
-                * https://www.quora.com/Why-is-Swiss-French-so-similar-to-Standard-French-but-Swiss-German-so-different-from-Standard-German
+                * [quora.com/Why-is-Swiss-French-so-similar-to-Standard-French-but-Swiss-German-so-different-from-Standard-German](https://www.quora.com/Why-is-Swiss-French-so-similar-to-Standard-French-but-Swiss-German-so-different-from-Standard-German)
 
-                * https://www.reddit.com/r/linguistics/comments/307cs0/what_are_some_instances_of_languages_becoming/
+                * [r/linguistics/comments/307cs0/what_are_some_instances_of_languages_becoming/](https://www.reddit.com/r/linguistics/comments/307cs0/what_are_some_instances_of_languages_becoming/)
 
 
         * [Is English the best language for poetry? | Poetry Matters at Dickinson College](http://blogs.dickinson.edu/poetrymatters/2010/10/20/is-english-the-best-language-for-poetry/)
@@ -16341,7 +16341,7 @@ Groteske Aufklärung
         * [Tagalog language - Wikipedia](https://en.wikipedia.org/wiki/Tagalog_language)
 
 
-        * [The future of language - The Washington Post](https://www.washingtonpost.com/news/worldviews/wp/2015/09/24/the-future-of-language/?utm_term=.349ced7325c0)
+        * [The future of language - The Washington Post](https://www.washingtonpost.com/news/worldviews/wp/2015/09/24/the-future-of-language/)
 
 
         * [The World&#39;s Most Popular Writing Scripts - WorldAtlas.com](http://www.worldatlas.com/articles/the-world-s-most-popular-writing-scripts.html)
@@ -16379,7 +16379,7 @@ Groteske Aufklärung
 
         * [5 Foreign Languages That Will Make You The Most Money](http://www.lifehack.org/381547/5-foreign-languages-that-will-make-you-the-most-money)
 
-                * https://www.reddit.com/r/explainlikeimfive/comments/17gkk4/eli5_the_difference_between_mandarin_and_cantonese/
+                * [r/explainlikeimfive/comments/17gkk4/eli5_the_difference_between_mandarin_and_cantonese/](https://www.reddit.com/r/explainlikeimfive/comments/17gkk4/eli5_the_difference_between_mandarin_and_cantonese/)
 
 
         Languages of Switzerland - A Polyglot Paradise? - YouTube
@@ -16396,13 +16396,13 @@ Groteske Aufklärung
 
         * [Праіндоєвропейська мова](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D1%96%D0%BD%D0%B4%D0%BE%D1%94%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D1%8C%D0%BA%D0%B0_%D0%BC%D0%BE%D0%B2%D0%B0)
 
-                * https://en.wikipedia.org/wiki/Languages_of_the_British_Isles
+                * [en.wikipedia.org/wiki/Languages_of_the_British_Isles](https://en.wikipedia.org/wiki/Languages_of_the_British_Isles)
 
-                * https://en.wikipedia.org/wiki/Linguistic_imperialism
+                * [en.wikipedia.org/wiki/Linguistic_imperialism](https://en.wikipedia.org/wiki/Linguistic_imperialism)
 
-                * https://en.wikipedia.org/wiki/Origin_of_language
+                * [en.wikipedia.org/wiki/Origin_of_language](https://en.wikipedia.org/wiki/Origin_of_language)
 
-                * https://en.wikipedia.org/wiki/Russian_language#Derived_languages
+                * [en.wikipedia.org/wiki/Russian_language#Derived_languages](https://en.wikipedia.org/wiki/Russian_language#Derived_languages)
 
 
         * [De la stabilisation de l'accent dans les langues slaves de l'Ouest - Persée](http://www.persee.fr/doc/slave_0080-2557_1923_num_3_3_7283)
@@ -16485,11 +16485,11 @@ Groteske Aufklärung
 
         * [Эванс П. - Как справиться с вербальной агрессией.pdf](https://vk.com/doc4605748_456993310?hash=14dd4e878c0839259a&dl=d50fa5facc0556c2c1)
 
-                * http://www.myfreecoursesonline.com/linguistics-courses/
+                * [myfreecoursesonline.com/linguistics-courses/](http://www.myfreecoursesonline.com/linguistics-courses/)
 
-                * https://linguistics.washington.edu/courses/2015/winter/ling/450/a
+                * [linguistics.washington.edu/courses/2015/winter/ling/450/a](https://linguistics.washington.edu/courses/2015/winter/ling/450/a)
 
-                * https://ocw.mit.edu/courses/linguistics-and-philosophy/
+                * [ocw.mit.edu/courses/linguistics-and-philosophy/](https://ocw.mit.edu/courses/linguistics-and-philosophy/)
 
 
         * [Maps of Lexicographical Distances between Languages](http://bigthink.com/strange-maps/a-map-of-lexical-distances-between-europes-languages)
@@ -16521,43 +16521,43 @@ Groteske Aufklärung
 
         What are the origins of Greek and Latin?
 
-                * http://en.wiki.tatoeba.org/articles/show/main
+                * [en.wiki.tatoeba.org/articles/show/main](http://en.wiki.tatoeba.org/articles/show/main)
 
-                * https://www.linguistik.hu-berlin.de/de/institut/professuren/korpuslinguistik/lehre/alte_jahrgaenge/ws-2004/gkc-statistik/pdf/skript5.pdf
+                * [linguistik.hu-berlin.de/de/institut/professuren/korpuslinguistik/lehre/alte_jahrgaenge/ws-2004/gkc-statistik/pdf/skript5.pdf](https://www.linguistik.hu-berlin.de/de/institut/professuren/korpuslinguistik/lehre/alte_jahrgaenge/ws-2004/gkc-statistik/pdf/skript5.pdf)
 
-                * https://en.wikipedia.org/wiki/Languages_of_the_British_Isles
+                * [en.wikipedia.org/wiki/Languages_of_the_British_Isles](https://en.wikipedia.org/wiki/Languages_of_the_British_Isles)
 
-                * https://www.reddit.com/r/linguistics/comments/307cs0/what_are_some_instances_of_languages_becoming/
+                * [r/linguistics/comments/307cs0/what_are_some_instances_of_languages_becoming/](https://www.reddit.com/r/linguistics/comments/307cs0/what_are_some_instances_of_languages_becoming/)
 
-                * https://www.quora.com/Why-do-most-languages-have-the-tendency-to-simplify-their-morphology-grammar-and-phonology-over-time-while-some-do-not
+                * [quora.com/Why-do-most-languages-have-the-tendency-to-simplify-their-morphology-grammar-and-phonology-over-time-while-some-do-not](https://www.quora.com/Why-do-most-languages-have-the-tendency-to-simplify-their-morphology-grammar-and-phonology-over-time-while-some-do-not)
 
-                * https://www.edge.org/conversation/lera_boroditsky-how-does-our-language-shape-the-way-we-think
+                * [edge.org/conversation/lera_boroditsky-how-does-our-language-shape-the-way-we-think](https://www.edge.org/conversation/lera_boroditsky-how-does-our-language-shape-the-way-we-think)
 
-                * http://demographymatters.blogspot.com/2006/02/france.html
+                * [demographymatters.blogspot.com/2006/02/france.html](http://demographymatters.blogspot.com/2006/02/france.html)
 
-                * http://www.tryukraine.com/info/languages.shtml
+                * [tryukraine.com/info/languages.shtml](http://www.tryukraine.com/info/languages.shtml)
 
-                * https://www.cairn.info/revue-diogene-2002-2-page-21.htm
+                * [cairn.info/revue-diogene-2002-2-page-21.htm](https://www.cairn.info/revue-diogene-2002-2-page-21.htm)
 
-                * http://matadornetwork.com/abroad/20-awesomely-untranslatable-words-from-around-the-world/
+                * [matadornetwork.com/abroad/20-awesomely-untranslatable-words-from-around-the-world/](http://matadornetwork.com/abroad/20-awesomely-untranslatable-words-from-around-the-world/)
 
 
-        * [https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/Publications:Languages_in_Secondary_Education:_An_Overview_of_National_Tests_in_Europe_%E2%80%93_2014/15 - interessant, eines Tages will ich lesen](https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/Publications:Languages_in_Secondary_Education:_An_Overview_of_National_Tests_in_Europe_%E2%80%93_2014/15)
+        * [webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/Publications:Languages_in_Secondary_Education:_An_Overview_of_National_Tests_in_Europe_%E2%80%93_2014/15 - interessant, eines Tages will ich lesen](https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/Publications:Languages_in_Secondary_Education:_An_Overview_of_National_Tests_in_Europe_%E2%80%93_2014/15)
 
-                * http://www.jukuu.com/
+                * [jukuu.com/](http://www.jukuu.com/)
 
-                * https://essentialsoflinguistics.pressbooks.com/
+                * [essentialsoflinguistics.pressbooks.com/](https://essentialsoflinguistics.pressbooks.com/)
 
-                * https://open.umn.edu/opentextbooks/textbooks/essentials-of-linguistics
+                * [open.umn.edu/opentextbooks/textbooks/essentials-of-linguistics](https://open.umn.edu/opentextbooks/textbooks/essentials-of-linguistics)
 
-                * https://linguistics.ucla.edu/people/hayes/20/Text/HayesIntroductoryLinguistics2015.pdf
+                * [linguistics.ucla.edu/people/hayes/20/Text/HayesIntroductoryLinguistics2015.pdf](https://linguistics.ucla.edu/people/hayes/20/Text/HayesIntroductoryLinguistics2015.pdf)
 
-                * http://langsci-press.org/catalog
+                * [langsci-press.org/catalog](http://langsci-press.org/catalog)
 
 
         * [Lang Instinct Review RU](http://creativity.ipras.ru/texts/books/child_lang/child_lang_gl4.pdf)
 
-                * https://www.linguisticsociety.org/content/how-many-languages-are-there-world
+                * [linguisticsociety.org/content/how-many-languages-are-there-world](https://www.linguisticsociety.org/content/how-many-languages-are-there-world)
 
 
         * [Sprache und Denken](https://b-ok.cc/book/3397665/7996ee)
@@ -16583,7 +16583,7 @@ Groteske Aufklärung
 
         * [Introducción al estudio de lenguaje](http://webspace.ship.edu/cgboer/lenguajeesp.html)
 
-                * http://opus.lingfil.uu.se/
+                * [opus.lingfil.uu.se/](http://opus.lingfil.uu.se/)
 
 
         * [Языкознание.ру](http://yazykoznanie.ru/content/view/89/281/)
@@ -16594,11 +16594,11 @@ Groteske Aufklärung
 
         * [Langfocus](https://www.youtube.com/channel/UCNhX3WQEkraW3VHPyup8jkQ)
 
-                * http://www.dialog-21.ru/
+                * [dialog-21.ru/](http://www.dialog-21.ru/)
 
-                * http://zacharski.org/books/python-for-linguists/
+                * [zacharski.org/books/python-for-linguists/](http://zacharski.org/books/python-for-linguists/)
 
-                * https://corpuslinguisticmethods.wordpress.com/
+                * [corpuslinguisticmethods.wordpress.com/](https://corpuslinguisticmethods.wordpress.com/)
 
 
         * [evolution of linguistic morphological complexity](https://scholar.google.com/scholar?q=evolution+of+linguistic+morphological+complexity&hl=it&as_sdt=0&as_vis=1&oi=scholart)
@@ -16622,7 +16622,7 @@ Groteske Aufklärung
         * [Richard Rorty: Ironie und Kontingenz](https://youtu.be/_ZKGOt9aow8)
 
 
-        * [https://en.m.wikipedia.org/wiki/Chain_of_events](https://en.m.wikipedia.org/wiki/Chain_of_events?wprov=sfti1)
+        * [en.m.wikipedia.org/wiki/Chain_of_events](https://en.m.wikipedia.org/wiki/Chain_of_events?wprov=sfti1)
 
 
         evolution of linguistic morphological complexity
@@ -16633,11 +16633,11 @@ Groteske Aufklärung
 
         I read introductions to Historical Linguistics by Crowley and Trask before reading Ringe, and I actually recommend that, since it's easier to understand just how cutting edge Ringe is that way.
 
-                * https://scholar.google.com/scholar?hl=es&as_sdt=0%2C45&as_vis=1&q=The+Politics+of+Language.&btnG=
+                * [scholar.google.com/scholar?hl=es&as_sdt=0%2C45&as_vis=1&q=The+Politics+of+Language.&btnG=](https://scholar.google.com/scholar?hl=es&as_sdt=0%2C45&as_vis=1&q=The+Politics+of+Language.&btnG=)
 
-                * https://scholar.google.com/scholar?q=language+and+power&hl=es&as_sdt=0&as_vis=1&oi=scholart&sa=X&ved=0ahUKEwiG3o6xl8fZAhVillQKHW39C7UQgQMIKTAA
+                * [scholar.google.com/scholar?q=language+and+power&hl=es&as_sdt=0&as_vis=1&oi=scholart&sa=X&ved=0ahUKEwiG3o6xl8fZAhVillQKHW39C7UQgQMIKTAA](https://scholar.google.com/scholar?q=language+and+power&hl=es&as_sdt=0&as_vis=1&oi=scholart&sa=X&ved=0ahUKEwiG3o6xl8fZAhVillQKHW39C7UQgQMIKTAA)
 
-                * https://books.google.com/books?hl=es&lr=&id=yL7BZ-UibFQC&oi=fnd&pg=PP8&dq=language+and+political+power&ots=ae36DAd3O2&sig=nvpIHkVYX-lNmGikFPplzxn_iIk#v=onepage&q=language%20and%20political%20power&f=false
+                * [books.google.com/books?hl=es&lr=&id=yL7BZ-UibFQC&oi=fnd&pg=PP8&dq=language+and+political+power&ots=ae36DAd3O2&sig=nvpIHkVYX-lNmGikFPplzxn_iIk#v=onepage&q=language%20and%20political%20power&f=false](https://books.google.com/books?hl=es&lr=&id=yL7BZ-UibFQC&oi=fnd&pg=PP8&dq=language+and+political+power&ots=ae36DAd3O2&sig=nvpIHkVYX-lNmGikFPplzxn_iIk#v=onepage&q=language%20and%20political%20power&f=false)
 
 
         * [The Politics of Language.](https://eric.ed.gov/?id=ED263763)
@@ -16841,7 +16841,7 @@ Groteske Aufklärung
 
         * [Grammar for Teachers_Andrea DeCapua_2nd ed. 2017](http://link.springer.com/openurl?genre=book&isbn=978-3-319-33916-0)
 
-                * https://search.lib.byu.edu/byu/search?q=steven+pinker
+                * [search.lib.byu.edu/byu/search?q=steven+pinker](https://search.lib.byu.edu/byu/search?q=steven+pinker)
 
 
         * [Language Across the Curriculum & CLIL in English as an Additional Lang_uAangege(lEMAL.)Y.CLointexts_1st ed. 2016](http://link.springer.com/openurl?genre=book&isbn=978-981-10-1802-2)
@@ -16927,56 +16927,56 @@ Groteske Aufklärung
                         - [****Liste der IPA-Zeichen – Wikipedia](https://de.wikipedia.org/wiki/Liste_der_IPA-Zeichen)
                         - [**IPA Phonetic Transcription of English Text | toPhonetics](https://tophonetics.com/)
 
-                * https://linguistics.stackexchange.com/questions/23046/seeking-ipa-study-aids-symbol-memorization-audio-recognition-transcription-pr
+                * [linguistics.stackexchange.com/questions/23046/seeking-ipa-study-aids-symbol-memorization-audio-recognition-transcription-pr](https://linguistics.stackexchange.com/questions/23046/seeking-ipa-study-aids-symbol-memorization-audio-recognition-transcription-pr)
 
-                * https://www.youtube.com/channel/UCGY29xt9tsphxyKcXST9roA?feature=related
+                * [](https://www.youtube.com/channel/UCGY29xt9tsphxyKcXST9roA?feature=related)
 
-                * https://www.youtube.com/channel/UCw6LDQTueJhSeNt3EU-GfYg
+                * [](https://www.youtube.com/channel/UCw6LDQTueJhSeNt3EU-GfYg)
 
-                * https://www.youtube.com/watch?v=CVzb4zIXPcg
+                * [](https://www.youtube.com/watch?v=CVzb4zIXPcg)
 
-                * https://www.youtube.com/watch?v=OGYGDQgeh2c
+                * [](https://www.youtube.com/watch?v=OGYGDQgeh2c)
 
 
         * [Glossika Phonics](https://www.youtube.com/channel/UCFuOFZ0wFoHK2deKFldaLGA)
 
-                * https://www.youtube.com/watch?v=xMEFr7ghMTg
+                * [](https://www.youtube.com/watch?v=xMEFr7ghMTg)
 
-                * https://www.youtube.com/watch?v=OOvaZP24Mzc
+                * [](https://www.youtube.com/watch?v=OOvaZP24Mzc)
 
-                * https://www.youtube.com/playlist?list=PLlmgeS8moU5ggCOvV3x8MHZy7vY-wucdU
+                * [](https://www.youtube.com/playlist?list=PLlmgeS8moU5ggCOvV3x8MHZy7vY-wucdU)
 
-                * http://web.uvic.ca/ling/resources/ipa/charts/IPAlab/IPAlab.htm
+                * [web.uvic.ca/ling/resources/ipa/charts/IPAlab/IPAlab.htm](http://web.uvic.ca/ling/resources/ipa/charts/IPAlab/IPAlab.htm)
 
-                * http://apprendre.tv5monde.com/fr/apprendre-francais/lalphabet-phonetique-international-api-2
+                * [apprendre.tv5monde.com/fr/apprendre-francais/lalphabet-phonetique-international-api-2](http://apprendre.tv5monde.com/fr/apprendre-francais/lalphabet-phonetique-international-api-2)
 
-                * http://lexiquetos.org/afi/
+                * [lexiquetos.org/afi/](http://lexiquetos.org/afi/)
 
-                * http://www.proel.org/index.php?pagina=mundo/fonetico
+                * [proel.org/index.php?pagina=mundo/fonetico](http://www.proel.org/index.php?pagina=mundo/fonetico)
 
-                * http://liceu.uab.es/~joaquim/phonetics/fon_transcr/transcripcion_fonetica.html
+                * [liceu.uab.es/~joaquim/phonetics/fon_transcr/transcripcion_fonetica.html](http://liceu.uab.es/~joaquim/phonetics/fon_transcr/transcripcion_fonetica.html)
 
-                * http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/
+                * [internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/)
 
-                * https://fr.wikipedia.org/wiki/Aide:Alphabet_phon%C3%A9tique_international
+                * [fr.wikipedia.org/wiki/Aide:Alphabet_phon%C3%A9tique_international](https://fr.wikipedia.org/wiki/Aide:Alphabet_phon%C3%A9tique_international)
 
-                * https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:AFI_para_%C3%A1rabe
+                * [pt.wikipedia.org/wiki/Wikip%C3%A9dia:AFI_para_%C3%A1rabe](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:AFI_para_%C3%A1rabe)
 
-                * https://en.wikipedia.org/wiki/IPA_pulmonic_consonant_chart_with_audio
+                * [en.wikipedia.org/wiki/IPA_pulmonic_consonant_chart_with_audio](https://en.wikipedia.org/wiki/IPA_pulmonic_consonant_chart_with_audio)
 
-                * https://en.wikipedia.org/wiki/IPA_vowel_chart_with_audio
+                * [en.wikipedia.org/wiki/IPA_vowel_chart_with_audio](https://en.wikipedia.org/wiki/IPA_vowel_chart_with_audio)
 
-                * https://en.wikipedia.org/wiki/Help:IPA_for_Italian
+                * [en.wikipedia.org/wiki/Help:IPA_for_Italian](https://en.wikipedia.org/wiki/Help:IPA_for_Italian)
 
-                * http://www.dipionline.it/dizionario/
+                * [dipionline.it/dizionario/](http://www.dipionline.it/dizionario/)
 
-                * http://www.bdat.net/ipa/
+                * [bdat.net/ipa/](http://www.bdat.net/ipa/)
 
-                * http://www.fonemolabs.com/transcriptor.html
+                * [fonemolabs.com/transcriptor.html](http://www.fonemolabs.com/transcriptor.html)
 
-                * http://lingorado.com/ipa/es/
+                * [lingorado.com/ipa/es/](http://lingorado.com/ipa/es/)
 
-                * https://en.wiktionary.org/wiki/Wiktionary:IPA_pronunciation_key
+                * [en.wiktionary.org/wiki/Wiktionary:IPA_pronunciation_key](https://en.wiktionary.org/wiki/Wiktionary:IPA_pronunciation_key)
 
 
         * [mit Lauten](http://www.paulmeier.com/ipacharts/)
@@ -16984,25 +16984,25 @@ Groteske Aufklärung
 
         * [IPA Transcription (6)](http://lingorado.com/ipa/)
 
-                * https://en.wikipedia.org/wiki/Help:IPA_for_Arabic
+                * [en.wikipedia.org/wiki/Help:IPA_for_Arabic](https://en.wikipedia.org/wiki/Help:IPA_for_Arabic)
 
-                * http://dialectblog.com/the-international-phonetic-alphabet/ipa-tutorial/lesson-1/
+                * [dialectblog.com/the-international-phonetic-alphabet/ipa-tutorial/lesson-1/](http://dialectblog.com/the-international-phonetic-alphabet/ipa-tutorial/lesson-1/)
 
-                * https://web.uvic.ca/ling/resources/ipa/charts/IPAlab/IPAlab.htm
+                * [web.uvic.ca/ling/resources/ipa/charts/IPAlab/IPAlab.htm](https://web.uvic.ca/ling/resources/ipa/charts/IPAlab/IPAlab.htm)
 
-                * http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/
+                * [internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/)
 
-                * https://www.youtube.com/watch?v=NUFHwmKfDTc
+                * [](https://www.youtube.com/watch?v=NUFHwmKfDTc)
 
-                * http://www.lfsag.unito.it/ipa/index_en.html
+                * [lfsag.unito.it/ipa/index_en.html](http://www.lfsag.unito.it/ipa/index_en.html)
 
-                * http://www.ipatrainer.com/user/index.php?c=consonant_table&a=identify_characters&consonantTableID=1&adminID=21&level=easy
+                * [ipatrainer.com/user/index.php?c=consonant_table&a=identify_characters&consonantTableID=1&adminID=21&level=easy](http://www.ipatrainer.com/user/index.php?c=consonant_table&a=identify_characters&consonantTableID=1&adminID=21&level=easy)
 
-                * https://www.internationalphoneticassociation.org/
+                * [internationalphoneticassociation.org/](https://www.internationalphoneticassociation.org/)
 
-                * http://www.omniglot.com/writing/ipa.htm
+                * [omniglot.com/writing/ipa.htm](http://www.omniglot.com/writing/ipa.htm)
 
-                * http://envoc.ru/code/phonetic.php
+                * [envoc.ru/code/phonetic.php](http://envoc.ru/code/phonetic.php)
 
 
         - -> Also scrape IPA from Wiktionary
@@ -17016,11 +17016,11 @@ Groteske Aufklärung
 
         * [Apprendre la phonétique et la prononciation en ligne.](https://easypronunciation.com/fr/)
 
-                * https://it.wikipedia.org/wiki/Aiuto:IPA
+                * [it.wikipedia.org/wiki/Aiuto:IPA](https://it.wikipedia.org/wiki/Aiuto:IPA)
 
-                * https://langwiki.org/tools/ipa/keyboard/
+                * [langwiki.org/tools/ipa/keyboard/](https://langwiki.org/tools/ipa/keyboard/)
 
-                * https://tophonetics.com/
+                * [tophonetics.com/](https://tophonetics.com/)
 
     - [****The Virtual Linguistics Campus - Linguistic Courses and Course Material - Become a Member of the Virtual Linguistics Community.](http://linguistics.online.uni-marburg.de/)
 
@@ -17033,11 +17033,11 @@ Groteske Aufklärung
         * [Predicting Future American: Sound changes in American English that could possibly happen](https://youtu.be/F2Jw2ILRBVk)
 
     - Linguistics
-                * https://www.quora.com/Is-English-a-form-of-linguistic-imperialism
+                * [quora.com/Is-English-a-form-of-linguistic-imperialism](https://www.quora.com/Is-English-a-form-of-linguistic-imperialism)
 
         * [Publications | Steven Pinker](https://stevenpinker.com/publications)
 
-        * [www.lingling.ru](http://www.lingling.ru/)
+        * [lingling.ru](http://www.lingling.ru/)
 
         * [Phonetics: Which language has the most amount of sounds in the world and also the highest amongst the most common languages in the world? - Quora](https://www.quora.com/Phonetics-Which-language-has-the-most-amount-of-sounds-in-the-world-and-also-the-highest-amongst-the-most-common-languages-in-the-world)
 
@@ -17079,9 +17079,9 @@ Groteske Aufklärung
 
         American Society (Wright & Rogers)
 
-                * https://de.wikipedia.org/wiki/Jean-Claude_Kaufmann
+                * [de.wikipedia.org/wiki/Jean-Claude_Kaufmann](https://de.wikipedia.org/wiki/Jean-Claude_Kaufmann)
 
-                * https://www.socialnet.de/rezensionen/9194.php
+                * [socialnet.de/rezensionen/9194.php](https://www.socialnet.de/rezensionen/9194.php)
 
 
         * [Escuelas Clasicas Del Pensamiento Antropologico](http://libgen.rs/book/index.php?md5=273302EAED5DA803102D59684AB93EBE)
@@ -17104,11 +17104,11 @@ Groteske Aufklärung
 
         * [Relinquishment of Premarital Births: Evidence from National Survey Data](http://www.jstor.org/stable/2135722?seq=1#page_scan_tab_contents)
 
-                * https://books.google.com/books?id=NShomxCB6m0C&pg=PA34&lpg=PA34&dq=ncss+adoption+data&source=bl&ots=kd0GSBTBLt&sig=i6Nb6UPcvtTKAsYEWtZweOab1Fs&hl=es&sa=X&ved=0ahUKEwi5z-rOlpvUAhXMx1QKHRHYBDwQ6AEINDAB#v=onepage&q=ncss%20adoption%20data&f=false
+                * [books.google.com/books?id=NShomxCB6m0C&pg=PA34&lpg=PA34&dq=ncss+adoption+data&source=bl&ots=kd0GSBTBLt&sig=i6Nb6UPcvtTKAsYEWtZweOab1Fs&hl=es&sa=X&ved=0ahUKEwi5z-rOlpvUAhXMx1QKHRHYBDwQ6AEINDAB#v=onepage&q=ncss%20adoption%20data&f=false](https://books.google.com/books?id=NShomxCB6m0C&pg=PA34&lpg=PA34&dq=ncss+adoption+data&source=bl&ots=kd0GSBTBLt&sig=i6Nb6UPcvtTKAsYEWtZweOab1Fs&hl=es&sa=X&ved=0ahUKEwi5z-rOlpvUAhXMx1QKHRHYBDwQ6AEINDAB#v=onepage&q=ncss%20adoption%20data&f=false)
 
-                * http://www.adoptioninstitute.org/dai-press/prominent-adoption-researcher-joins-adoption-institute-as-a-senior-fellow/
+                * [adoptioninstitute.org/dai-press/prominent-adoption-researcher-joins-adoption-institute-as-a-senior-fellow/](http://www.adoptioninstitute.org/dai-press/prominent-adoption-researcher-joins-adoption-institute-as-a-senior-fellow/)
 
-                * https://books.google.com/books?id=YDX_enhCcq8C&pg=PA229&lpg=PA229&dq=e+Maza,+P.+Adoption+Trends:+1944-1975.+Child+Welfare+Research+Notes+%239,+Washington,+DC:+Administration+for+Children,+Youth,+and+Families,&source=bl&ots=IHGXcIPt4u&sig=YRqPhVqIDBpqkU8pCL0hPBdwhZE&hl=es&sa=X&ved=0ahUKEwiClsyPlZvUAhXm0FQKHf_tDa8Q6AEIMzAB#v=onepage&q=e%20Maza%2C%20P.%20Adoption%20Trends%3A%201944-1975.%20Child%20Welfare%20Research%20Notes%20%239%2C%20Washington%2C%20DC%3A%20Administration%20for%20Children%2C%20Youth%2C%20and%20Families%2C&f=false
+                * [books.google.com/books?id=YDX_enhCcq8C&pg=PA229&lpg=PA229&dq=e+Maza,+P.+Adoption+Trends:+1944-1975.+Child+Welfare+Research+Notes+%239,+Washington,+DC:+Administration+for+Children,+Youth,+and+Families,&source=bl&ots=IHGXcIPt4u&sig=YRqPhVqIDBpqkU8pCL0hPBdwhZE&hl=es&sa=X&ved=0ahUKEwiClsyPlZvUAhXm0FQKHf_tDa8Q6AEIMzAB#v=onepage&q=e%20Maza%2C%20P.%20Adoption%20Trends%3A%201944-1975.%20Child%20Welfare%20Research%20Notes%20%239%2C%20Washington%2C%20DC%3A%20Administration%20for%20Children%2C%20Youth%2C%20and%20Families%2C&f=false](https://books.google.com/books?id=YDX_enhCcq8C&pg=PA229&lpg=PA229&dq=e+Maza,+P.+Adoption+Trends:+1944-1975.+Child+Welfare+Research+Notes+%239,+Washington,+DC:+Administration+for+Children,+Youth,+and+Families,&source=bl&ots=IHGXcIPt4u&sig=YRqPhVqIDBpqkU8pCL0hPBdwhZE&hl=es&sa=X&ved=0ahUKEwiClsyPlZvUAhXm0FQKHf_tDa8Q6AEIMzAB#v=onepage&q=e%20Maza%2C%20P.%20Adoption%20Trends%3A%201944-1975.%20Child%20Welfare%20Research%20Notes%20%239%2C%20Washington%2C%20DC%3A%20Administration%20for%20Children%2C%20Youth%2C%20and%20Families%2C&f=false)
 
 
         Happiness research and supremacy of European cities
@@ -17256,7 +17256,7 @@ Groteske Aufklärung
 
         * [Hidden in Plain Sight: A Deep Traveler Explores Connecticut](https://b-ok.cc/book/2609184/640ea9)
 
-                * https://za4itaika.ru/Pages/Books/RobertSapolsky.php
+                * [za4itaika.ru/Pages/Books/RobertSapolsky.php](https://za4itaika.ru/Pages/Books/RobertSapolsky.php)
 
 
         * [I_Shapiro_-_Begstvo_ot_realnosti_v_sotsialnykh.pdf](https://vk.com/doc30601958_438219646?hash=08aacd4826d8dbca2b&dl=95015c6f7f4c6f3794)
@@ -17293,23 +17293,23 @@ Groteske Aufklärung
 
         países
 
-                * https://www.usa.gov/federal-agencies/a
+                * [usa.gov/federal-agencies/a](https://www.usa.gov/federal-agencies/a)
 
-                * http://www.english-heritage.org.uk/
+                * [english-heritage.org.uk/](http://www.english-heritage.org.uk/)
 
-                * https://sweden.se/
+                * [sweden.se/](https://sweden.se/)
 
-                * http://www.fmprc.gov.cn/mfa_eng/
+                * [fmprc.gov.cn/mfa_eng/](http://www.fmprc.gov.cn/mfa_eng/)
 
-                * http://www.japan.go.jp/
+                * [japan.go.jp/](http://www.japan.go.jp/)
 
-                * http://www.gov.cn/english/
+                * [gov.cn/english/](http://www.gov.cn/english/)
 
-                * http://english.gov.cn/
+                * [english.gov.cn/](http://english.gov.cn/)
 
-                * http://www.australia.gov.au/
+                * [australia.gov.au/](http://www.australia.gov.au/)
 
-                * http://www.scotland.org/us/
+                * [scotland.org/us/](http://www.scotland.org/us/)
 
 
         * [Wie man Deutscher wird in 50 einfachen Schritten / How to be German in 50 easy steps: Zweisprachiges Wendebuch Deutsch/Englisch: dt. Ausgabe | Fletcher Adam | download](https://b-ok.cc/book/4241789/8e6a67)
@@ -17317,48 +17317,48 @@ Groteske Aufklärung
 
         estatísticas y encuestas
 
-                * http://de.statista.com/
+                * [de.statista.com/](http://de.statista.com/)
 
-                * http://www.oecd-ilibrary.org/economics/oecd-factbook_18147364;jsessionid=1rd603fszh3qc.x-oecd-live-03
+                * [oecd-ilibrary.org/economics/oecd-factbook_18147364;jsessionid=1rd603fszh3qc.x-oecd-live-03](http://www.oecd-ilibrary.org/economics/oecd-factbook_18147364;jsessionid=1rd603fszh3qc.x-oecd-live-03)
 
-                * http://dataferrett.census.gov/
+                * [dataferrett.census.gov/](http://dataferrett.census.gov/)
 
-                * http://www.nationmaster.com/
+                * [nationmaster.com/](http://www.nationmaster.com/)
 
-                * http://www.pewresearch.org/
+                * [pewresearch.org/](http://www.pewresearch.org/)
 
-                * http://www.gallup.com/home.aspx
+                * [gallup.com/home.aspx](http://www.gallup.com/home.aspx)
 
-                * https://en.wikipedia.org/wiki/List_of_polling_organizations
+                * [en.wikipedia.org/wiki/List_of_polling_organizations](https://en.wikipedia.org/wiki/List_of_polling_organizations)
 
-                * http://www.pewglobal.org/
+                * [pewglobal.org/](http://www.pewglobal.org/)
 
-                * http://www.ifd-allensbach.de/
+                * [ifd-allensbach.de/](http://www.ifd-allensbach.de/)
 
-                * http://rb.com.ua/ukr/
+                * [rb.com.ua/ukr/](http://rb.com.ua/ukr/)
 
-                * http://harris-interactive.fr/
+                * [harris-interactive.fr/](http://harris-interactive.fr/)
 
-                * http://metroscopia.org/
+                * [metroscopia.org/](http://metroscopia.org/)
 
-                * http://www.gallup.com/es-xm/176819/gallup-latin-america.aspx
+                * [gallup.com/es-xm/176819/gallup-latin-america.aspx](http://www.gallup.com/es-xm/176819/gallup-latin-america.aspx)
 
-                * http://www.baseera.com.eg/home_ar.aspx
+                * [baseera.com.eg/home_ar.aspx](http://www.baseera.com.eg/home_ar.aspx)
 
-                * http://data.un.org/Default.aspx
+                * [data.un.org/Default.aspx](http://data.un.org/Default.aspx)
 
-                * https://www.usa.gov/statistics
+                * [usa.gov/statistics](https://www.usa.gov/statistics)
 
-                * https://data.oecd.org/
+                * [data.oecd.org/](https://data.oecd.org/)
 
-                * https://www.destatis.de/DE/Startseite.html
+                * [destatis.de/DE/Startseite.html](https://www.destatis.de/DE/Startseite.html)
 
 
         antropología
 
-                * http://slaviccenters.duke.edu/webliogra
+                * [slaviccenters.duke.edu/webliogra](http://slaviccenters.duke.edu/webliogra)
 
-                * http://www.peripli.org/tag/la-pagina-delle-idee/
+                * [peripli.org/tag/la-pagina-delle-idee/](http://www.peripli.org/tag/la-pagina-delle-idee/)
 
 
 
@@ -17367,17 +17367,17 @@ Groteske Aufklärung
 
         * [The Upsidedown Map Page : Francis Irving](https://www.flourish.org/upsidedownmap/)
 
-                * http://geert-hofstede.com/
+                * [geert-hofstede.com/](http://geert-hofstede.com/)
 
-                * http://www.vergemagazine.com/
+                * [vergemagazine.com/](http://www.vergemagazine.com/)
 
-                * http://lizardpoint.com/
+                * [lizardpoint.com/](http://lizardpoint.com/)
 
-                * https://de.wikivoyage.org/wiki/Hauptseite
+                * [de.wikivoyage.org/wiki/Hauptseite](https://de.wikivoyage.org/wiki/Hauptseite)
 
-                * http://www.payer.de/
+                * [payer.de/](http://www.payer.de/)
 
-                * http://www.atlasobscura.com/
+                * [atlasobscura.com/](http://www.atlasobscura.com/)
 
     - Notes
 
@@ -17415,7 +17415,7 @@ Groteske Aufklärung
         Anthropologie et sexisme
 
 
-        * https://en.wikipedia.org/wiki/Bibliography_of_anthropology
+        * [en.wikipedia.org/wiki/Bibliography_of_anthropology](https://en.wikipedia.org/wiki/Bibliography_of_anthropology)
 
     - Sociology
 
@@ -17440,15 +17440,15 @@ Groteske Aufklärung
         определение пошлости
 
         When does the wisdom of crowds fail?
-                * https://de1lib.org/s/menstruation
-                * https://ourworldindata.org/world-population-cartogram
-                * https://www.visualcapitalist.com/massive-world-map-redrawn-based-country-populations/
-                * https://duckduckgo.com/?q=psychological+definition+of+status&ko=-1&ia=web
+                * [de1lib.org/s/menstruation](https://de1lib.org/s/menstruation)
+                * [ourworldindata.org/world-population-cartogram](https://ourworldindata.org/world-population-cartogram)
+                * [visualcapitalist.com/massive-world-map-redrawn-based-country-populations/](https://www.visualcapitalist.com/massive-world-map-redrawn-based-country-populations/)
+                * [duckduckgo.com/?q=psychological+definition+of+status&ko=-1&ia=web](https://duckduckgo.com/?q=psychological+definition+of+status&ko=-1&ia=web)
 
-        * [https://www.reddit.com/r/booksuggestions/comments/pm5ztv/book_about_indigenous_tribal_wisdom/](https://www.reddit.com/r/booksuggestions/comments/pm5ztv/book_about_indigenous_tribal_wisdom/?%24deep_link=true&correlation_id=f59f42ac-d05c-4270-915d-bc1b12621def&ref=email_post_reply&ref_campaign=email_post_reply&ref_source=email&%243p=e_as&_branch_match_id=948590161134154069)
+        * [reddit.com/r/booksuggestions/comments/pm5ztv/book_about_indigenous_tribal_wisdom/](https://www.reddit.com/r/booksuggestions/comments/pm5ztv/book_about_indigenous_tribal_wisdom/?%24deep_link=true&correlation_id=f59f42ac-d05c-4270-915d-bc1b12621def&ref=email_post_reply&ref_campaign=email_post_reply&ref_source=email&%243p=e_as&_branch_match_id=948590161134154069)
 
         * [CARTA: Human and Non-Human Cultures: Cultural Universals - YouTube](https://www.youtube.com/watch?v=GdAILqOZ-4M)
-                * https://www.cairn.info/revue-francaise-de-sociologie-1-2011-5-page-153.htm
+                * [cairn.info/revue-francaise-de-sociologie-1-2011-5-page-153.htm](https://www.cairn.info/revue-francaise-de-sociologie-1-2011-5-page-153.htm)
 
         * [#472 Aiyana Koka Willard: Religion, Cognition, Culture, and Human Universals - YouTube](https://www.youtube.com/watch?v=ppcQ4bAerjg)
 
@@ -17460,7 +17460,7 @@ Groteske Aufklärung
 
         * [Удивительные материалы, из которых построена современная цивилизация](https://b-ok.cc/book/3050001/8fc42c)
 
-        * [www.ethikdertextkulturen.de](http://www.ethikdertextkulturen.de/)
+        * [ethikdertextkulturen.de](http://www.ethikdertextkulturen.de/)
 
         * [21 Search Results - ALL(bullying) - ScienceDirect](http://www.sciencedirect.com/science?_ob=ArticleListURL&_method=list&_ArticleListID=-1206770664&_sort=r&_st=13&view=c&md5=f938097481d71b320467c4cb4ef4395d&searchtype=a)
 
@@ -17469,7 +17469,7 @@ Groteske Aufklärung
         * [How Covenants Make Us](https://www.nytimes.com/2016/04/05/opinion/how-covenants-make-us.html)
 
         The Social Dilemma
-                * http://www.architectonictokyo.com/100_of_the_Most_Influential_Ethnographies_and_Anthropology_Texts.html
+                * [architectonictokyo.com/100_of_the_Most_Influential_Ethnographies_and_Anthropology_Texts.html](http://www.architectonictokyo.com/100_of_the_Most_Influential_Ethnographies_and_Anthropology_Texts.html)
 
         * [Likes: 'Homo Deus. Lo que nos hizo sapiens nos hará dioses' #Likes186 | #0 - YouTube](https://www.youtube.com/watch?v=p-4WY5rP_TI)
 
@@ -17478,8 +17478,8 @@ Groteske Aufklärung
         * [Japanese Blue Collar: The Changing Tradition - Robert E. Cole - Google Books](https://books.google.com/books?hl=en&lr=&id=gswwd5k3xKEC&oi=fnd&pg=PA1&dq=blue+collar+intellectuals&ots=P3R041KTni&sig=vXILbGP-JKOkrDCGZ6YxvjrcCUQ#v=onepage&q=blue%20collar%20intellectuals&f=false)
 
         * [New Rule: The &#39;What Were You Thinking&#39; Generation | Real Time with Bill Maher (HBO) - YouTube](https://www.youtube.com/watch?v=ugLbotr1RuQ)
-                * http://www.womanstats.org/
-                * http://www.ats-group.net/glossarien/nachschlagewerke-geographie.html                - [sociology of silicon valley - Поиск в Google](https://www.google.com/search?q=sociology+of+silicon+valley&rlz=1C5CHFA_enUS800US800&oq=sociology+of+silicon+valley&aqs=chrome..69i57j0.5617j0j7&sourceid=chrome&ie=UTF-8)**
+                * [womanstats.org/](http://www.womanstats.org/)
+                * [ats-group.net/glossarien/nachschlagewerke-geographie.html](http://www.ats-group.net/glossarien/nachschlagewerke-geographie.html)                - [sociology of silicon valley - Поиск в Google](https://www.google.com/search?q=sociology+of+silicon+valley&rlz=1C5CHFA_enUS800US800&oq=sociology+of+silicon+valley&aqs=chrome..69i57j0.5617j0j7&sourceid=chrome&ie=UTF-8)**
 
         * [Sternstunden der Soziologie - Der Blog](http://www.sternstunden-der-soziologie.de/der-blog)
 
@@ -17523,7 +17523,7 @@ Groteske Aufklärung
     Wer wir waren, wer wir sind
 
     Through Indian Eyes
-        * https://b-ok.cc/s/ein neues Menschenbild (gute Bücher)
+        * [b-ok.cc/s/ein](https://b-ok.cc/s/ein) neues Menschenbild (gute Bücher)
         * [Алогичная культурология](http://93.174.95.29/_ads/CCB08C62A5F5811622FAA0D90F7EB01B)
         * [Бессмертный Ю.Л. (ред.). Человек в кругу семьи. 1996.djvu](https://vk.com/doc525831385_508958772?hash=78db3201e8fbf2f50b&dl=727ad6a8c22fd0d5e8)
 
@@ -17558,7 +17558,7 @@ Groteske Aufklärung
 
         * [Le fantôme de Marx avec Raymond Aron](https://www.youtube.com/watch?v=K5XHauOxMYQ&feature=youtu.be&fbclid=IwAR1m8HjuajGzmxUsU3j1SqU_DR2sG3VKvsOTbc3_s7Fc5FeFuZpkqiG-caY)
 
-                * https://castbox.fm/episode/Le-langage-au-service-des-puissants-%3F-Alain-Deneault-id455782-id75997798?country=fr
+                * [castbox.fm/episode/Le-langage-au-service-des-puissants-%3F-Alain-Deneault-id455782-id75997798?country=fr](https://castbox.fm/episode/Le-langage-au-service-des-puissants-%3F-Alain-Deneault-id455782-id75997798?country=fr)
 
 
         * [Anxiety isn’t just a useless emotion; it’s also a moral goad | Aeon Essays](https://aeon.co/essays/anxiety-isn-t-just-a-useless-emotion-it-s-also-a-moral-goad)
@@ -17581,25 +17581,25 @@ Groteske Aufklärung
 
         * [what makes us curious at DuckDuckGo](https://duckduckgo.com/?t=ffab&q=what+makes+us+curious&ia=web)
 
-                * https://scholar.google.com/scholar?hl=it&as_sdt=0%2C45&as_vis=1&q=psychology+of+curiosity&btnG=
+                * [scholar.google.com/scholar?hl=it&as_sdt=0%2C45&as_vis=1&q=psychology+of+curiosity&btnG=](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C45&as_vis=1&q=psychology+of+curiosity&btnG=)
 
-                * https://en.wikipedia.org/wiki/Preferentialism
+                * [en.wikipedia.org/wiki/Preferentialism](https://en.wikipedia.org/wiki/Preferentialism)
 
-                * https://en.wikipedia.org/wiki/Choice_modelling
+                * [en.wikipedia.org/wiki/Choice_modelling](https://en.wikipedia.org/wiki/Choice_modelling)
 
-                * https://en.wikipedia.org/wiki/Decision-making
+                * [en.wikipedia.org/wiki/Decision-making](https://en.wikipedia.org/wiki/Decision-making)
 
-                * https://en.wikipedia.org/wiki/Evidential_decision_theory
+                * [en.wikipedia.org/wiki/Evidential_decision_theory](https://en.wikipedia.org/wiki/Evidential_decision_theory)
 
-                * https://en.wikipedia.org/wiki/Game_theory
+                * [en.wikipedia.org/wiki/Game_theory](https://en.wikipedia.org/wiki/Game_theory)
 
-                * https://en.wikipedia.org/wiki/Multiple-criteria_decision_analysis
+                * [en.wikipedia.org/wiki/Multiple-criteria_decision_analysis](https://en.wikipedia.org/wiki/Multiple-criteria_decision_analysis)
 
-                * https://en.wikipedia.org/wiki/Decision_quality
+                * [en.wikipedia.org/wiki/Decision_quality](https://en.wikipedia.org/wiki/Decision_quality)
 
-                * https://en.wikipedia.org/wiki/Preference_revelation
+                * [en.wikipedia.org/wiki/Preference_revelation](https://en.wikipedia.org/wiki/Preference_revelation)
 
-                * https://en.wikipedia.org/wiki/The_Paradox_of_Choice
+                * [en.wikipedia.org/wiki/The_Paradox_of_Choice](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)
 
 
         * [Mothers Who Kill](https://digitalcommons.law.scu.edu/cgi/viewcontent.cgi?article=1492&context=facpubs&httpsredir=1&referer=)
@@ -17613,33 +17613,33 @@ Groteske Aufklärung
 
         * [Was Sie immer schon über Psychologie wissen wollten ...](https://arbeitsblaetter.stangl-taller.at/)
 
-                * http://www.pensierocritico.eu/intelligenza-euristica.html
+                * [pensierocritico.eu/intelligenza-euristica.html](http://www.pensierocritico.eu/intelligenza-euristica.html)
 
 
         * [Выготский Л.С. - Мышление и речь .pdf.pdf](https://vk.com/doc91617618_509352957?hash=366eebe0c6fcb7eb14&dl=4acfa9c514ea301d12)
 
-                * http://www.cerveauetpsycho.fr/ewb_pages/a/article-parler-plusieurs-langues-c-est-facile-21325.php
+                * [cerveauetpsycho.fr/ewb_pages/a/article-parler-plusieurs-langues-c-est-facile-21325.php](http://www.cerveauetpsycho.fr/ewb_pages/a/article-parler-plusieurs-langues-c-est-facile-21325.php)
 
 
         * [Why Maslow's Hierarchy Of Needs Matters - YouTube](https://www.youtube.com/watch?v=L0PKWTta7lU&list=PLwxNMb28XmpehnfQOa4c0E7j3GIj4qFEj)
 
-                * https://coolpsychologicalinsights.blogspot.com/
+                * [coolpsychologicalinsights.blogspot.com/](https://coolpsychologicalinsights.blogspot.com/)
 
-                * https://www.psychologytoday.com/
+                * [psychologytoday.com/](https://www.psychologytoday.com/)
 
-                * http://spiritualitymindbody.tc.columbia.edu/
+                * [spiritualitymindbody.tc.columbia.edu/](http://spiritualitymindbody.tc.columbia.edu/)
 
-                * http://www.psychologos.ru/articles/view/psihologos
+                * [psychologos.ru/articles/view/psihologos](http://www.psychologos.ru/articles/view/psihologos)
 
-                * http://blog.psychologie-heute.de/
+                * [blog.psychologie-heute.de/](http://blog.psychologie-heute.de/)
 
-                * http://www.psychologie-heute.de/
+                * [psychologie-heute.de/](http://www.psychologie-heute.de/)
 
-                * http://www.lernpsychologie.net/
+                * [lernpsychologie.net/](http://www.lernpsychologie.net/)
 
-                * https://www.psiram.com/de/index.php/Hauptseite
+                * [psiram.com/de/index.php/Hauptseite](https://www.psiram.com/de/index.php/Hauptseite)
 
-                * http://psychologis.com.ua/
+                * [psychologis.com.ua/](http://psychologis.com.ua/)
 
 
     - Books        - [**Михай Чиксентмихайи](https://vk.com/search?c%5Bper_page%5D=200&c%5Bq%5D=%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%20%D0%A7%D0%B8%D0%BA%D1%81%D0%B5%D0%BD%D1%82%D0%BC%D0%B8%D1%85%D0%B0%D0%B9%D0%B8&c%5Bsection%5D=audio)**
@@ -17791,74 +17791,74 @@ Groteske Aufklärung
 
         Entsheidungstheorie
 
-                * http://www.wiwi.uni-augsburg.de/bwl/bamberg/_dateiupload/lehrmaterial-ws0405/Entscheidungstheorie_skript.pdf
+                * [wiwi.uni-augsburg.de/bwl/bamberg/_dateiupload/lehrmaterial-ws0405/Entscheidungstheorie_skript.pdf](http://www.wiwi.uni-augsburg.de/bwl/bamberg/_dateiupload/lehrmaterial-ws0405/Entscheidungstheorie_skript.pdf)
 
-                * http://www.uni-konstanz.de/philosophie/files/grundlagen_der_entscheidungstheorie.pdf
+                * [uni-konstanz.de/philosophie/files/grundlagen_der_entscheidungstheorie.pdf](http://www.uni-konstanz.de/philosophie/files/grundlagen_der_entscheidungstheorie.pdf)
 
-                * https://rsf.uni-greifswald.de/fileadmin/uni-greifswald/fakultaet/rsf/lehrstuehle/ls-flessa/et/Entscheidungstheorie__Kapitel_3.pdf
+                * [rsf.uni-greifswald.de/fileadmin/uni-greifswald/fakultaet/rsf/lehrstuehle/ls-flessa/et/Entscheidungstheorie__Kapitel_3.pdf](https://rsf.uni-greifswald.de/fileadmin/uni-greifswald/fakultaet/rsf/lehrstuehle/ls-flessa/et/Entscheidungstheorie__Kapitel_3.pdf)
 
-                * http://www.wiwi.uni-frankfurt.de/profs/rommelfanger/index/dokumente/
+                * [wiwi.uni-frankfurt.de/profs/rommelfanger/index/dokumente/](http://www.wiwi.uni-frankfurt.de/profs/rommelfanger/index/dokumente/)
 
-                * http://www.wiwi.uni-frankfurt.de/profs/rommelfanger/index/dokumente/et-1.pdf
+                * [wiwi.uni-frankfurt.de/profs/rommelfanger/index/dokumente/et-1.pdf](http://www.wiwi.uni-frankfurt.de/profs/rommelfanger/index/dokumente/et-1.pdf)
 
-                * http://homepage.univie.ac.at/andreas.novak/QM12VO.PDF
+                * [homepage.univie.ac.at/andreas.novak/QM12VO.PDF](http://homepage.univie.ac.at/andreas.novak/QM12VO.PDF)
 
-                * https://epub.ub.uni-muenchen.de/5219/1/5219.pdf
+                * [epub.ub.uni-muenchen.de/5219/1/5219.pdf](https://epub.ub.uni-muenchen.de/5219/1/5219.pdf)
 
-                * http://ogossner.free.fr/Theodec/Chapitre1.pdf
+                * [ogossner.free.fr/Theodec/Chapitre1.pdf](http://ogossner.free.fr/Theodec/Chapitre1.pdf)
 
-                * https://www.canal-u.tv/video/canal_aunege/les_theories_de_la_decision.11303
+                * [canal-u.tv/video/canal_aunege/les_theories_de_la_decision.11303](https://www.canal-u.tv/video/canal_aunege/les_theories_de_la_decision.11303)
 
-                * http://fsjes.usmba.ac.ma/cours/abdellaoui/risque-incertitude-et-decision-S6.pdf
+                * [fsjes.usmba.ac.ma/cours/abdellaoui/risque-incertitude-et-decision-S6.pdf](http://fsjes.usmba.ac.ma/cours/abdellaoui/risque-incertitude-et-decision-S6.pdf)
 
-                * http://www.lsis.org/espinasseb/Supports/MOAD-2009/2-ElemTheoDecision-2009-4p.pdf
+                * [lsis.org/espinasseb/Supports/MOAD-2009/2-ElemTheoDecision-2009-4p.pdf](http://www.lsis.org/espinasseb/Supports/MOAD-2009/2-ElemTheoDecision-2009-4p.pdf)
 
 
         ftp://ftp.repec.org/opt/ReDIF/RePEc/cgm/wpaper/DR_02_0304_garello.pdf
 
-                * http://www.mat.ucm.es/~bvitoria/Archivos/a_dt_UCM.pdf
+                * [mat.ucm.es/~bvitoria/Archivos/a_dt_UCM.pdf](http://www.mat.ucm.es/~bvitoria/Archivos/a_dt_UCM.pdf)
 
-                * http://digital.csic.es/bitstream/10261/7734/1/eserv.pdf
+                * [digital.csic.es/bitstream/10261/7734/1/eserv.pdf](http://digital.csic.es/bitstream/10261/7734/1/eserv.pdf)
 
-                * http://thales.cica.es/rd/Recursos/rd99/ed99-0191-03/intro.htm
+                * [thales.cica.es/rd/Recursos/rd99/ed99-0191-03/intro.htm](http://thales.cica.es/rd/Recursos/rd99/ed99-0191-03/intro.htm)
 
-                * https://postnauka.ru/courses/28275
+                * [postnauka.ru/courses/28275](https://postnauka.ru/courses/28275)
 
-                * http://www.aup.ru/books/m157/
+                * [aup.ru/books/m157/](http://www.aup.ru/books/m157/)
 
-                * http://rain.ifmo.ru/cat/data/theory/unsorted/decision-making-2007/article.pdf
+                * [rain.ifmo.ru/cat/data/theory/unsorted/decision-making-2007/article.pdf](http://rain.ifmo.ru/cat/data/theory/unsorted/decision-making-2007/article.pdf)
 
-                * http://www.persoenlichkeits-blog.de/article/188/sieben-gruende-warum-menschen-sich-nicht-entscheiden-wollen
+                * [persoenlichkeits-blog.de/article/188/sieben-gruende-warum-menschen-sich-nicht-entscheiden-wollen](http://www.persoenlichkeits-blog.de/article/188/sieben-gruende-warum-menschen-sich-nicht-entscheiden-wollen)
 
-                * http://www.philosophersmag.com/index.php/tpm-mag-articles/11-essays/138-decision-making
+                * [philosophersmag.com/index.php/tpm-mag-articles/11-essays/138-decision-making](http://www.philosophersmag.com/index.php/tpm-mag-articles/11-essays/138-decision-making)
 
 
 
         Lerntheorien
 
-                * http://arbeitsblaetter.stangl-taller.at/LERNEN/LerntheorienKognitive.shtml
+                * [arbeitsblaetter.stangl-taller.at/LERNEN/LerntheorienKognitive.shtml](http://arbeitsblaetter.stangl-taller.at/LERNEN/LerntheorienKognitive.shtml)
 
-                * https://lehrerfortbildung-bw.de/st_digital/elearning/moodle/praxis/einfuehrung/material/2_meir_9-19.pdf
+                * [lehrerfortbildung-bw.de/st_digital/elearning/moodle/praxis/einfuehrung/material/2_meir_9-19.pdf](https://lehrerfortbildung-bw.de/st_digital/elearning/moodle/praxis/einfuehrung/material/2_meir_9-19.pdf)
 
-                * https://www.e-teaching.org/didaktik/theorie/lerntheorie
+                * [e-teaching.org/didaktik/theorie/lerntheorie](https://www.e-teaching.org/didaktik/theorie/lerntheorie)
 
-                * http://www.uni-kl.de/ZfL/didagma_glossar/index.php?sid=&sc=&p=glossar&x=49
+                * [uni-kl.de/ZfL/didagma_glossar/index.php?sid=&sc=&p=glossar&x=49](http://www.uni-kl.de/ZfL/didagma_glossar/index.php?sid=&sc=&p=glossar&x=49)
 
 
 
         Difference of Opinion
 
-                * http://writing.colostate.edu/guides/teaching/co300man/pop12d.cfm
+                * [writing.colostate.edu/guides/teaching/co300man/pop12d.cfm](http://writing.colostate.edu/guides/teaching/co300man/pop12d.cfm)
 
-                * http://www.philosophersmag.com/index.php/tpm-mag-articles/11-essays/26-the-fact-opinion-distinction
+                * [philosophersmag.com/index.php/tpm-mag-articles/11-essays/26-the-fact-opinion-distinction](http://www.philosophersmag.com/index.php/tpm-mag-articles/11-essays/26-the-fact-opinion-distinction)
 
-                * https://en.wikipedia.org/wiki/The_Nature_and_Origins_of_Mass_Opinion
+                * [en.wikipedia.org/wiki/The_Nature_and_Origins_of_Mass_Opinion](https://en.wikipedia.org/wiki/The_Nature_and_Origins_of_Mass_Opinion)
 
 
 
         Psychologie der Neugierigkeit
 
-                * https://www.google.com/search?q=psychology+of+curiosity&oq=psychology+of+curiosity&aqs=chrome..69i57j0l5.4176j0j7&sourceid=chrome&ie=UTF-8#safe=active&q=Psychologie+de+la+curiosit%C3%A9
+                * [google.com/search?q=psychology+of+curiosity&oq=psychology+of+curiosity&aqs=chrome..69i57j0l5.4176j0j7&sourceid=chrome&ie=UTF-8#safe=active&q=Psychologie+de+la+curiosit%C3%A9](https://www.google.com/search?q=psychology+of+curiosity&oq=psychology+of+curiosity&aqs=chrome..69i57j0l5.4176j0j7&sourceid=chrome&ie=UTF-8#safe=active&q=Psychologie+de+la+curiosit%C3%A9)
 
 
     - Notes
@@ -18551,14 +18551,14 @@ Groteske Aufklärung
         * [libgen psicologia](http://libgen.rs/search.php?&req=psicologia&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 
         * [Intro to Neuroscience](https://youtu.be/nlSL7Qg7-Po)
-                * https://plato.stanford.edu/entries/decision-theory/
-                * https://cushmanlab.fas.harvard.edu/
-                * https://en.wikipedia.org/wiki/Choice_set
+                * [plato.stanford.edu/entries/decision-theory/](https://plato.stanford.edu/entries/decision-theory/)
+                * [cushmanlab.fas.harvard.edu/](https://cushmanlab.fas.harvard.edu/)
+                * [en.wikipedia.org/wiki/Choice_set](https://en.wikipedia.org/wiki/Choice_set)
 
         * [Jonathan Bartlett](http://libgen.rs/search.php?req=jonathan+bartlett&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 
         psychology of music and emotions
-                * https://youtu.be/wii5t1m2xKY
+                * [youtu.be/wii5t1m2xKY](https://youtu.be/wii5t1m2xKY)
 
         * [Wie Putin uns manipuliert –Tyrannei erklärt | Gert Scobel](https://youtu.be/7P0rZthdHrM)
 
@@ -18589,8 +18589,8 @@ Groteske Aufklärung
         * [Wahrnehmung_von_Musik.pdf](https://www.hdm-stuttgart.de/~curdt/Wahrnehmung_von_Musik.pdf)
 
         * [Perception de la musique | Cochlea](http://www.cochlea.org/entendre/perception-de-la-musique)
-                * http://righteousmind.com/
-                * https://www.socialpsychology.org/blogs.htm
+                * [righteousmind.com/](http://righteousmind.com/)
+                * [socialpsychology.org/blogs.htm](https://www.socialpsychology.org/blogs.htm)
 
         * [link between music and emotion - Ecosia](https://www.ecosia.org/search?q=link+between+music+and+emotion&addon=chrome&addonversion=2.0.3)
 
@@ -18606,7 +18606,7 @@ Groteske Aufklärung
 
         psychology+of+ambition
 
-        * [https://en.m.wikipedia.org/wiki/Ambition_(character_trait)](https://en.m.wikipedia.org/wiki/Ambition_(character_trait))
+        * [en.m.wikipedia.org/wiki/Ambition_(character_trait)](https://en.m.wikipedia.org/wiki/Ambition_(character_trait))
 
         * [Motivation Theories Explained in 10 Minutes - YouTube](https://www.youtube.com/watch?v=woa2Qa8i80U)
 
@@ -18627,7 +18627,7 @@ Groteske Aufklärung
 
         Max Scheler and the Idea of a Well Rounded Education.
 
-                * http://web.a.ebscohost.com/ehost/detail/detail?vid=42&sid=c6f341fa-f476-4dac-8d9a-79f29a66fa88%40sessionmgr4005&hid=4212&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#db=aph&AN=31849201
+                * [web.a.ebscohost.com/ehost/detail/detail?vid=42&sid=c6f341fa-f476-4dac-8d9a-79f29a66fa88%40sessionmgr4005&hid=4212&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#db=aph&AN=31849201](http://web.a.ebscohost.com/ehost/detail/detail?vid=42&sid=c6f341fa-f476-4dac-8d9a-79f29a66fa88%40sessionmgr4005&hid=4212&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#db=aph&AN=31849201)
 
 
         * [Georgi Lozanov - Wikipedia](https://en.wikipedia.org/wiki/Georgi_Lozanov?fbclid=IwAR1xzQTVaEOO9UjmeBAOndCbOr3DVjhrIOn1UqXNmHhm_B3r56ppkJYB0UU)
@@ -18635,17 +18635,17 @@ Groteske Aufklärung
 
         Innovation, Creativity, and Improvement: WORKING THE RIGHT LEVER TO PROSPERITY
 
-                * http://search.proquest.com/docview/213665635/AFF01705391F4689PQ/2?accountid=4488
+                * [search.proquest.com/docview/213665635/AFF01705391F4689PQ/2?accountid=4488](http://search.proquest.com/docview/213665635/AFF01705391F4689PQ/2?accountid=4488)
 
 
         LES DÉTERMINANTS DE L'INNOVATION : UNE ANALYSE COMPARATIVE SERVICE/INDUSTRIE À PARTIR DES FORMES D'INNOVATION DÉVELOPPÉES
 
-                * http://search.proquest.com/docview/1566681967/8A886F37A4DB48B1PQ/10?accountid=4488
+                * [search.proquest.com/docview/1566681967/8A886F37A4DB48B1PQ/10?accountid=4488](http://search.proquest.com/docview/1566681967/8A886F37A4DB48B1PQ/10?accountid=4488)
 
 
         * [БИБЛИОТЕКА ЖУРНАЛА "ВОПРОСЫ ОБРАЗОВАНИЯ"](https://vk.com/wall-113292066_2551)
 
-                * https://www.jstor.org/topic/private-schools/?refreqid=excelsior%3A0b57a011ed7580cfebcc58b40c40d81b
+                * [jstor.org/topic/private-schools/?refreqid=excelsior%3A0b57a011ed7580cfebcc58b40c40d81b](https://www.jstor.org/topic/private-schools/?refreqid=excelsior%3A0b57a011ed7580cfebcc58b40c40d81b)
 
 
         Innsbruck Bildungsphilosophie
@@ -18665,7 +18665,7 @@ Groteske Aufklärung
 
         Max Scheler
 
-                * https://maxscheler2.wordpress.com/der-philosoph-max-scheler/literatur-ab-2000/
+                * [maxscheler2.wordpress.com/der-philosoph-max-scheler/literatur-ab-2000/](https://maxscheler2.wordpress.com/der-philosoph-max-scheler/literatur-ab-2000/)
 
 
         General results: A lot of research on organization and its impact on creativity; less on the impact of personal skills, education, and versatility.
@@ -18754,86 +18754,86 @@ Groteske Aufklärung
 
         * [Evaluating students’ evaluations of professors](http://www.sciencedirect.com/science/article/pii/S0272775714000417)
 
-                * http://educationpolicy.air.org/blog/forty-years-later-idea-still-seeks-success-students-disabilities
+                * [educationpolicy.air.org/blog/forty-years-later-idea-still-seeks-success-students-disabilities](http://educationpolicy.air.org/blog/forty-years-later-idea-still-seeks-success-students-disabilities)
 
-                * http://erwachsenenbildung.at/
+                * [erwachsenenbildung.at/](http://erwachsenenbildung.at/)
 
-                * http://erwachsenenbildung.at/magazin/16-28/06_wrentschur.pdf
+                * [erwachsenenbildung.at/magazin/16-28/06_wrentschur.pdf](http://erwachsenenbildung.at/magazin/16-28/06_wrentschur.pdf)
 
-                * http://erwachsenenbildung.at/themen/eb_in_oesterreich/daten_und_fakten/datenfakten_ueberblick.php
+                * [erwachsenenbildung.at/themen/eb_in_oesterreich/daten_und_fakten/datenfakten_ueberblick.php](http://erwachsenenbildung.at/themen/eb_in_oesterreich/daten_und_fakten/datenfakten_ueberblick.php)
 
-                * http://francestrategie1727.fr/thematiques/quelles-priorites-educatives/
+                * [francestrategie1727.fr/thematiques/quelles-priorites-educatives/](http://francestrategie1727.fr/thematiques/quelles-priorites-educatives/)
 
-                * http://kurier.at/politik/inland/bildungsreform-der-plan-fuer-die-schule-von-morgen/164.396.272
+                * [kurier.at/politik/inland/bildungsreform-der-plan-fuer-die-schule-von-morgen/164.396.272](http://kurier.at/politik/inland/bildungsreform-der-plan-fuer-die-schule-von-morgen/164.396.272)
 
-                * http://kurier.at/politik/inland/das-ist-die-bildungsreform-alle-details-und-fakten/164.536.640
+                * [kurier.at/politik/inland/das-ist-die-bildungsreform-alle-details-und-fakten/164.536.640](http://kurier.at/politik/inland/das-ist-die-bildungsreform-alle-details-und-fakten/164.536.640)
 
-                * http://kvit.ukma.edu.ua/
+                * [kvit.ukma.edu.ua/](http://kvit.ukma.edu.ua/)
 
-                * http://lawstreetmedia.com/issues/education/cutting-art-programs-schools-solution-part-problem/
+                * [lawstreetmedia.com/issues/education/cutting-art-programs-schools-solution-part-problem/](http://lawstreetmedia.com/issues/education/cutting-art-programs-schools-solution-part-problem/)
 
-                * http://mckinseyonsociety.com/how-the-worlds-most-improved-school-systems-keep-getting-better/
+                * [mckinseyonsociety.com/how-the-worlds-most-improved-school-systems-keep-getting-better/](http://mckinseyonsociety.com/how-the-worlds-most-improved-school-systems-keep-getting-better/)
 
-                * http://newsroom.iza.org/en/2016/11/21/money-to-study-research-on-motivation-and-incentives-for-students/
+                * [newsroom.iza.org/en/2016/11/21/money-to-study-research-on-motivation-and-incentives-for-students/](http://newsroom.iza.org/en/2016/11/21/money-to-study-research-on-motivation-and-incentives-for-students/)
 
-                * http://wikieducator.org/SOCIOLOGY_OF_EDUCATION
+                * [wikieducator.org/SOCIOLOGY_OF_EDUCATION](http://wikieducator.org/SOCIOLOGY_OF_EDUCATION)
 
-                * http://www.alfiekohn.org/
+                * [alfiekohn.org/](http://www.alfiekohn.org/)
 
-                * http://www.ascd.org/publications/educational-leadership/feb13/vol70/num05/The-Art-and-Craft-of-Science.aspx
+                * [ascd.org/publications/educational-leadership/feb13/vol70/num05/The-Art-and-Craft-of-Science.aspx](http://www.ascd.org/publications/educational-leadership/feb13/vol70/num05/The-Art-and-Craft-of-Science.aspx)
 
-                * http://www.ascd.org/publications/newsletters/policy_priorities/vol17/num05/Reaching_for_a_Well-Rounded_Education_Creates_Challenges_for_Educators.aspx
+                * [ascd.org/publications/newsletters/policy_priorities/vol17/num05/Reaching_for_a_Well-Rounded_Education_Creates_Challenges_for_Educators.aspx](http://www.ascd.org/publications/newsletters/policy_priorities/vol17/num05/Reaching_for_a_Well-Rounded_Education_Creates_Challenges_for_Educators.aspx)
 
-                * http://www.bildungsserver.de/Bildungsoekonomie-6201.html
+                * [bildungsserver.de/Bildungsoekonomie-6201.html](http://www.bildungsserver.de/Bildungsoekonomie-6201.html)
 
-                * http://www.educationworld.com/
+                * [educationworld.com/](http://www.educationworld.com/)
 
-                * http://www.edutopia.org/blog/albert-cullum-a-touch-of-greatness
+                * [edutopia.org/blog/albert-cullum-a-touch-of-greatness](http://www.edutopia.org/blog/albert-cullum-a-touch-of-greatness)
 
-                * http://www.ellenwinner.com/
+                * [ellenwinner.com/](http://www.ellenwinner.com/)
 
-                * http://www.gaudio.org/lezioni/pedagogia/pedagogia.htm
+                * [gaudio.org/lezioni/pedagogia/pedagogia.htm](http://www.gaudio.org/lezioni/pedagogia/pedagogia.htm)
 
-                * http://www.heritage.org/education/report/reducing-federal-intervention-education-and-moving-toward-student-centered
+                * [heritage.org/education/report/reducing-federal-intervention-education-and-moving-toward-student-centered](http://www.heritage.org/education/report/reducing-federal-intervention-education-and-moving-toward-student-centered)
 
-                * http://www.nationmaster.com/country-info/stats/Education
+                * [nationmaster.com/country-info/stats/Education](http://www.nationmaster.com/country-info/stats/Education)
 
-                * http://www.norc.org/Research/Projects/Pages/high-school-and-beyond-follow-up-survey.aspx
+                * [norc.org/Research/Projects/Pages/high-school-and-beyond-follow-up-survey.aspx](http://www.norc.org/Research/Projects/Pages/high-school-and-beyond-follow-up-survey.aspx)
 
-                * http://www.pedocs.de/volltexte/2017/14079/pdf/Rucker_2014_Kompexitaet_der_Bildung.pdf
+                * [pedocs.de/volltexte/2017/14079/pdf/Rucker_2014_Kompexitaet_der_Bildung.pdf](http://www.pedocs.de/volltexte/2017/14079/pdf/Rucker_2014_Kompexitaet_der_Bildung.pdf)
 
-                * http://www.wiwo.de/erfolg/campus-mba/vorbildliches-bildungssystem-was-finnische-schulen-besser-machen/10808240.html
+                * [wiwo.de/erfolg/campus-mba/vorbildliches-bildungssystem-was-finnische-schulen-besser-machen/10808240.html](http://www.wiwo.de/erfolg/campus-mba/vorbildliches-bildungssystem-was-finnische-schulen-besser-machen/10808240.html)
 
-                * http://www2.etown.edu/vl/intleduc.html
+                * [www2.etown.edu/vl/intleduc.html](http://www2.etown.edu/vl/intleduc.html)
 
-                * https://blog.phzh.ch/akzente/
+                * [blog.phzh.ch/akzente/](https://blog.phzh.ch/akzente/)
 
-                * https://es.wikipedia.org/wiki/Ciencias_de_la_educaci%C3%B3n
+                * [es.wikipedia.org/wiki/Ciencias_de_la_educaci%C3%B3n](https://es.wikipedia.org/wiki/Ciencias_de_la_educaci%C3%B3n)
 
-                * https://es.wikipedia.org/wiki/Did%C3%A1ctica
+                * [es.wikipedia.org/wiki/Did%C3%A1ctica](https://es.wikipedia.org/wiki/Did%C3%A1ctica)
 
-                * https://es.wikipedia.org/wiki/Educaci%C3%B3n
+                * [es.wikipedia.org/wiki/Educaci%C3%B3n](https://es.wikipedia.org/wiki/Educaci%C3%B3n)
 
-                * https://es.wikipedia.org/wiki/Pedagog%C3%ADa_en_el_anarquismo
+                * [es.wikipedia.org/wiki/Pedagog%C3%ADa_en_el_anarquismo](https://es.wikipedia.org/wiki/Pedagog%C3%ADa_en_el_anarquismo)
 
-                * https://msu.edu/~rootbern/rootbern/Education.html
+                * [msu.edu/~rootbern/rootbern/Education.html](https://msu.edu/~rootbern/rootbern/Education.html)
 
-                * https://www.arts.gov/grants-organizations/research-art-works/publicly-available-data-sources
+                * [arts.gov/grants-organizations/research-art-works/publicly-available-data-sources](https://www.arts.gov/grants-organizations/research-art-works/publicly-available-data-sources)
 
-                * https://www.e-teaching.org/didaktik/theorie/lerntheorie
+                * [e-teaching.org/didaktik/theorie/lerntheorie](https://www.e-teaching.org/didaktik/theorie/lerntheorie)
 
-                * https://www.edc.org/
+                * [edc.org/](https://www.edc.org/)
 
-                * https://www.gew.de/
+                * [gew.de/](https://www.gew.de/)
 
 
-        * [https://www.google.com/search?q=Quels+pays+valuent+l%27%C3%A9ducation+le+plus%3F&oq=Quels+pays+valuent+l%27%C3%A9ducation+le+plus%3F&aqs=chrome..69i57.15391j0j7&sourceid=chrome&ie=UTF-8#safe=active&q=Quels+pays+valident+l%27%C3%A9ducation+le+plus?](https://www.google.com/search?q=Quels+pays+valuent+l%27%C3%A9ducation+le+plus%3F&oq=Quels+pays+valuent+l%27%C3%A9ducation+le+plus%3F&aqs=chrome..69i57.15391j0j7&sourceid=chrome&ie=UTF-8#safe=active&q=Quels+pays+valident+l%27%C3%A9ducation+le+plus)
+        * [google.com/search?q=Quels+pays+valuent+l%27%C3%A9ducation+le+plus%3F&oq=Quels+pays+valuent+l%27%C3%A9ducation+le+plus%3F&aqs=chrome..69i57.15391j0j7&sourceid=chrome&ie=UTF-8#safe=active&q=Quels+pays+valident+l%27%C3%A9ducation+le+plus?](https://www.google.com/search?q=Quels+pays+valuent+l%27%C3%A9ducation+le+plus%3F&oq=Quels+pays+valuent+l%27%C3%A9ducation+le+plus%3F&aqs=chrome..69i57.15391j0j7&sourceid=chrome&ie=UTF-8#safe=active&q=Quels+pays+valident+l%27%C3%A9ducation+le+plus)
 
-                * https://www.google.com/search?q=Welche+L%C3%A4nder+sch%C3%A4tzen+Bildung+am+meisten%3F&oq=Welche+L%C3%A4nder+sch%C3%A4tzen+Bildung+am+meisten%3F&aqs=chrome..69i57.11943j0j7&sourceid=chrome&ie=UTF-8
+                * [google.com/search?q=Welche+L%C3%A4nder+sch%C3%A4tzen+Bildung+am+meisten%3F&oq=Welche+L%C3%A4nder+sch%C3%A4tzen+Bildung+am+meisten%3F&aqs=chrome..69i57.11943j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=Welche+L%C3%A4nder+sch%C3%A4tzen+Bildung+am+meisten%3F&oq=Welche+L%C3%A4nder+sch%C3%A4tzen+Bildung+am+meisten%3F&aqs=chrome..69i57.11943j0j7&sourceid=chrome&ie=UTF-8)
 
-                * https://www.noodle.com/articles/innovative-schools-2015
+                * [noodle.com/articles/innovative-schools-2015](https://www.noodle.com/articles/innovative-schools-2015)
 
-                * https://www.project-syndicate.org/commentary/global-education-reform-peer-action-networks-by-amy-black-1-and-alexis-menten-2018-03
+                * [project-syndicate.org/commentary/global-education-reform-peer-action-networks-by-amy-black-1-and-alexis-menten-2018-03](https://www.project-syndicate.org/commentary/global-education-reform-peer-action-networks-by-amy-black-1-and-alexis-menten-2018-03)
 
 
         * [PARADOX 16 — Richard David Precht: „Bildung versus Wissen“ - YouTube](https://www.youtube.com/watch?v=on-O5v3UcBk)
@@ -18845,7 +18845,7 @@ Groteske Aufklärung
         * [pédagogies nouvelles (1/4) : Où en est l’éducation nouvelle aujourd’hui ?](https://www.franceculture.fr/emissions/la-fabrique-de-lhistoire/pedagogies-nouvelles-14-ou-en-est-leducation-nouvelle-aujourdhui)
 
 
-        * [Purposes of Education, by Euridyce: https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/Publications:Focus_on:_The_purposes_of_education](https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/Publications:Focus_on:_The_purposes_of_education)
+        * [Purposes of Education, by Euridyce: [webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/Publications:Focus_on:_The_purposes_of_education](https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/Publications:Focus_on:_The_purposes_of_education)](https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/Publications:Focus_on:_The_purposes_of_education](https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/Publications:Focus_on:_The_purposes_of_education))
 
 
         * [Releasing the power of the arts: exploring arts education in the Asia-Pacific](http://unesdoc.unesco.org/images/0022/002206/220601E.pdf)
@@ -18880,13 +18880,13 @@ Groteske Aufklärung
 
         * [ПЕДАГОГИКА](http://www.kgau.ru/distance/mf_01/ped-asp/01_01.html)
 
-                * https://en.wikipedia.org/wiki/Diane_Ravitch
+                * [en.wikipedia.org/wiki/Diane_Ravitch](https://en.wikipedia.org/wiki/Diane_Ravitch)
 
-                * https://en.wikipedia.org/wiki/Education_Index
+                * [en.wikipedia.org/wiki/Education_Index](https://en.wikipedia.org/wiki/Education_Index)
 
-                * https://en.wikipedia.org/wiki/Educational_psychology
+                * [en.wikipedia.org/wiki/Educational_psychology](https://en.wikipedia.org/wiki/Educational_psychology)
 
-                * https://en.wikipedia.org/wiki/Individuals_with_Disabilities_Education_Act
+                * [en.wikipedia.org/wiki/Individuals_with_Disabilities_Education_Act](https://en.wikipedia.org/wiki/Individuals_with_Disabilities_Education_Act)
 
 
         Cambiare i paradigmi dell'educazionede gervasutti
@@ -19002,191 +19002,191 @@ Groteske Aufklärung
 
         * [Private Schooling in India: A New Educational Landscape](https://ihds.umd.edu/sites/ihds.umd.edu/files/schooling.pdf)
 
-                * http://www.win-future.de/ueberuns/wasistwinfuture/index.html
+                * [win-future.de/ueberuns/wasistwinfuture/index.html](http://www.win-future.de/ueberuns/wasistwinfuture/index.html)
 
-                * https://www.mpib-berlin.mpg.de/de
+                * [mpib-berlin.mpg.de/de](https://www.mpib-berlin.mpg.de/de)
 
-                * https://www.google.com/search?q=data+on+people+with+musical+ability&rlz=1C1CHBF_frUS705US705&oq=data+on+people+with+musical+ability&aqs=chrome..69i57.9008j0j4&sourceid=chrome&ie=UTF-8
+                * [google.com/search?q=data+on+people+with+musical+ability&rlz=1C1CHBF_frUS705US705&oq=data+on+people+with+musical+ability&aqs=chrome..69i57.9008j0j4&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=data+on+people+with+musical+ability&rlz=1C1CHBF_frUS705US705&oq=data+on+people+with+musical+ability&aqs=chrome..69i57.9008j0j4&sourceid=chrome&ie=UTF-8)
 
-                * http://geniusblog.davidshenk.com/
+                * [geniusblog.davidshenk.com/](http://geniusblog.davidshenk.com/)
 
-                * http://www.barbaraoakley.com/
+                * [barbaraoakley.com/](http://www.barbaraoakley.com/)
 
-                * https://www.coursera.org/learn/learning-how-to-learn
+                * [coursera.org/learn/learning-how-to-learn](https://www.coursera.org/learn/learning-how-to-learn)
 
-                * http://www.fundacionluminis.org.ar/
+                * [fundacionluminis.org.ar/](http://www.fundacionluminis.org.ar/)
 
 
         Learn more about learning theory, incl. math learning and foreign language learning
 
-                * http://www.en.uni-muenchen.de/scholars/doc_students/doc_programs/mcls.html
+                * [en.uni-muenchen.de/scholars/doc_students/doc_programs/mcls.html](http://www.en.uni-muenchen.de/scholars/doc_students/doc_programs/mcls.html)
 
-                * https://www.heacademy.ac.uk/system/files/resources/pedagogic_theory_0.pdf
+                * [heacademy.ac.uk/system/files/resources/pedagogic_theory_0.pdf](https://www.heacademy.ac.uk/system/files/resources/pedagogic_theory_0.pdf)
 
-                * http://studentpoint.univie.ac.at/durchs-studium/erweiterungscurricula/detailansicht/curriculum/bildungstheoriebildungsforschung/?tx_univiestudentpoint_pi2%5Bbackpid%5D=96345&cHash=46486f47272e3503a6412ba4b4e4481f
+                * [studentpoint.univie.ac.at/durchs-studium/erweiterungscurricula/detailansicht/curriculum/bildungstheoriebildungsforschung/?tx_univiestudentpoint_pi2%5Bbackpid%5D=96345&cHash=46486f47272e3503a6412ba4b4e4481f](http://studentpoint.univie.ac.at/durchs-studium/erweiterungscurricula/detailansicht/curriculum/bildungstheoriebildungsforschung/?tx_univiestudentpoint_pi2%5Bbackpid%5D=96345&cHash=46486f47272e3503a6412ba4b4e4481f)
 
-                * http://eric.ed.gov/?journals
+                * [eric.ed.gov/?journals](http://eric.ed.gov/?journals)
 
-                * https://www.learning-theories.com/
+                * [learning-theories.com/](https://www.learning-theories.com/)
 
-                * https://www.csun.edu/science/ref/theory-research/theorists/theorists.html
+                * [csun.edu/science/ref/theory-research/theorists/theorists.html](https://www.csun.edu/science/ref/theory-research/theorists/theorists.html)
 
-                * http://www.unesco.org/new/en/education/themes/strengthening-education-systems/quality-framework/technical-notes/influential-theories-of-learning/
+                * [unesco.org/new/en/education/themes/strengthening-education-systems/quality-framework/technical-notes/influential-theories-of-learning/](http://www.unesco.org/new/en/education/themes/strengthening-education-systems/quality-framework/technical-notes/influential-theories-of-learning/)
 
-                * https://eric.ed.gov/
+                * [eric.ed.gov/](https://eric.ed.gov/)
 
 
         Sir Ken Robinson
 
-                * http://science.apa.at/
+                * [science.apa.at/](http://science.apa.at/)
 
-                * http://www.bildungsbericht.de/de/nationaler-bildungsbericht
+                * [bildungsbericht.de/de/nationaler-bildungsbericht](http://www.bildungsbericht.de/de/nationaler-bildungsbericht)
 
 
     - Misc
 
         Grands innovateurs
 
-                * http://startupguide.com/world/greatest-innovators/
+                * [startupguide.com/world/greatest-innovators/](http://startupguide.com/world/greatest-innovators/)
 
-                * http://www.biographyonline.net/scientists/top-10-inventors.html
+                * [biographyonline.net/scientists/top-10-inventors.html](http://www.biographyonline.net/scientists/top-10-inventors.html)
 
-                * http://abcnews.go.com/Technology/10-tech-visionaries-innovators/story?id=14681441
+                * [abcnews.go.com/Technology/10-tech-visionaries-innovators/story?id=14681441](http://abcnews.go.com/Technology/10-tech-visionaries-innovators/story?id=14681441)
 
-                * http://www.geniusstuff.com/blog/gallery/greatest-inventor-pictures/
+                * [geniusstuff.com/blog/gallery/greatest-inventor-pictures/](http://www.geniusstuff.com/blog/gallery/greatest-inventor-pictures/)
 
-                * http://archive.fortune.com/galleries/2007/fortune/0704/gallery.fortune_innovators.fortune/3.html
+                * [archive.fortune.com/galleries/2007/fortune/0704/gallery.fortune_innovators.fortune/3.html](http://archive.fortune.com/galleries/2007/fortune/0704/gallery.fortune_innovators.fortune/3.html)
 
-                * http://www.forbes.com/sites/rebeccabagley/2014/01/15/the-10-traits-of-great-innovators/
+                * [forbes.com/sites/rebeccabagley/2014/01/15/the-10-traits-of-great-innovators/](http://www.forbes.com/sites/rebeccabagley/2014/01/15/the-10-traits-of-great-innovators/)
 
-                * http://www.entrepreneur.com/article/200524
+                * [entrepreneur.com/article/200524](http://www.entrepreneur.com/article/200524)
 
-                * http://www.toptenz.net/top-10-greatest-inventors-in-history.php
+                * [toptenz.net/top-10-greatest-inventors-in-history.php](http://www.toptenz.net/top-10-greatest-inventors-in-history.php)
 
-                * http://inventors.about.com/od/hstartinventors/a/InventorsH.htm
+                * [inventors.about.com/od/hstartinventors/a/InventorsH.htm](http://inventors.about.com/od/hstartinventors/a/InventorsH.htm)
 
-                * http://xn--l1aadcbk.xn--p1ai/2746/7_izobretenij_mormonov
+                * [xn--l1aadcbk.xn--p1ai/2746/7_izobretenij_mormonov](http://xn--l1aadcbk.xn--p1ai/2746/7_izobretenij_mormonov)
 
-                * http://www.nytimes.com/2015/04/19/business/alexa-von-tobel-of-learnvest-no-really-whats-your-weakness.html?WT.mc_id=VI-D-E-SOURCEB-AD-VAR-VIDEO-ROS-2015-NA&WT.mc_ev=click&kwp_0=17238&kwp_4=112714&kwp_1=145792
+                * [nytimes.com/2015/04/19/business/alexa-von-tobel-of-learnvest-no-really-whats-your-weakness.html?WT.mc_id=VI-D-E-SOURCEB-AD-VAR-VIDEO-ROS-2015-NA&WT.mc_ev=click&kwp_0=17238&kwp_4=112714&kwp_1=145792](http://www.nytimes.com/2015/04/19/business/alexa-von-tobel-of-learnvest-no-really-whats-your-weakness.html?WT.mc_id=VI-D-E-SOURCEB-AD-VAR-VIDEO-ROS-2015-NA&WT.mc_ev=click&kwp_0=17238&kwp_4=112714&kwp_1=145792)
 
-                * http://www.ted.com/talks/linda_hill_how_to_manage_for_collective_creativity?language=en#t-520073
+                * [ted.com/talks/linda_hill_how_to_manage_for_collective_creativity?language=en#t-520073](http://www.ted.com/talks/linda_hill_how_to_manage_for_collective_creativity?language=en#t-520073)
 
-                * https://en.wikipedia.org/wiki/Education_Index
+                * [en.wikipedia.org/wiki/Education_Index](https://en.wikipedia.org/wiki/Education_Index)
 
-                * http://ipstats.wipo.int/ipstatv2/IpsStatsResultvalue
+                * [ipstats.wipo.int/ipstatv2/IpsStatsResultvalue](http://ipstats.wipo.int/ipstatv2/IpsStatsResultvalue)
 
-                * http://eacea.ec.europa.eu/education/eurydice/documents/thematic_reports/117en.pdf
+                * [eacea.ec.europa.eu/education/eurydice/documents/thematic_reports/117en.pdf](http://eacea.ec.europa.eu/education/eurydice/documents/thematic_reports/117en.pdf)
 
-                * http://www.shelford.vic.edu.au/upload/pages/t4w3/innovation-in-education-complete.pdf
+                * [shelford.vic.edu.au/upload/pages/t4w3/innovation-in-education-complete.pdf](http://www.shelford.vic.edu.au/upload/pages/t4w3/innovation-in-education-complete.pdf)
 
-                * http://www.nationmaster.com/country-info/stats/Education
+                * [nationmaster.com/country-info/stats/Education](http://www.nationmaster.com/country-info/stats/Education)
 
-                * http://createquity.com/2013/01/looking-beyond-our-borders-for-national-arts-education-policies/
+                * [createquity.com/2013/01/looking-beyond-our-borders-for-national-arts-education-policies/](http://createquity.com/2013/01/looking-beyond-our-borders-for-national-arts-education-policies/)
 
-                * http://www.nfer.ac.uk/research/centre-for-information-and-reviews/inca.cfm
+                * [nfer.ac.uk/research/centre-for-information-and-reviews/inca.cfm](http://www.nfer.ac.uk/research/centre-for-information-and-reviews/inca.cfm)
 
-                * https://www.arts.gov/grants-organizations/research-art-works/publicly-available-data-sources
+                * [arts.gov/grants-organizations/research-art-works/publicly-available-data-sources](https://www.arts.gov/grants-organizations/research-art-works/publicly-available-data-sources)
 
-                * https://pisa2012.acer.edu.au/downloads.php
+                * [pisa2012.acer.edu.au/downloads.php](https://pisa2012.acer.edu.au/downloads.php)
 
-                * http://unesdoc.unesco.org/images/0022/002206/220601E.pdf
+                * [unesdoc.unesco.org/images/0022/002206/220601E.pdf](http://unesdoc.unesco.org/images/0022/002206/220601E.pdf)
 
-                * http://datatopics.worldbank.org/education/
+                * [datatopics.worldbank.org/education/](http://datatopics.worldbank.org/education/)
 
-                * http://data.worldbank.org/topic/education
+                * [data.worldbank.org/topic/education](http://data.worldbank.org/topic/education)
 
-                * http://eprints.hud.ac.uk/12598/2/SimmonsLiberal_Conservatism_revised_3.pdf
+                * [eprints.hud.ac.uk/12598/2/SimmonsLiberal_Conservatism_revised_3.pdf](http://eprints.hud.ac.uk/12598/2/SimmonsLiberal_Conservatism_revised_3.pdf)
 
-                * http://eacea.ec.europa.eu/education/eurydice./documents/thematic_reports/113FR.pdf
+                * [eacea.ec.europa.eu/education/eurydice./documents/thematic_reports/113FR.pdf](http://eacea.ec.europa.eu/education/eurydice./documents/thematic_reports/113FR.pdf)
 
-                * http://eacea.ec.europa.eu/education/eurydice./documents/thematic_reports/113DE.pdf
+                * [eacea.ec.europa.eu/education/eurydice./documents/thematic_reports/113DE.pdf](http://eacea.ec.europa.eu/education/eurydice./documents/thematic_reports/113DE.pdf)
 
-                * http://www.edutopia.org/arts-music-curriculum-child-development
+                * [edutopia.org/arts-music-curriculum-child-development](http://www.edutopia.org/arts-music-curriculum-child-development)
 
-                * http://eacea.ec.europa.eu/education/eurydice/documents/facts_and_figures/taught_time_EN.pdf
+                * [eacea.ec.europa.eu/education/eurydice/documents/facts_and_figures/taught_time_EN.pdf](http://eacea.ec.europa.eu/education/eurydice/documents/facts_and_figures/taught_time_EN.pdf)
 
-                * https://edpolicy.stanford.edu/sites/default/files/publications/secret-finland%E2%80%99s-success-educating-teachers.pdf
+                * [edpolicy.stanford.edu/sites/default/files/publications/secret-finland%E2%80%99s-success-educating-teachers.pdf](https://edpolicy.stanford.edu/sites/default/files/publications/secret-finland%E2%80%99s-success-educating-teachers.pdf)
 
-                * http://www.wiwo.de/erfolg/campus-mba/vorbildliches-bildungssystem-was-finnische-schulen-besser-machen/10808240.html
+                * [wiwo.de/erfolg/campus-mba/vorbildliches-bildungssystem-was-finnische-schulen-besser-machen/10808240.html](http://www.wiwo.de/erfolg/campus-mba/vorbildliches-bildungssystem-was-finnische-schulen-besser-machen/10808240.html)
 
-                * http://www.cmrubinworld.com/2011/11/01/the-global-search-for-education-a-look-at-a-finnish-school?tpedit=1
+                * [cmrubinworld.com/2011/11/01/the-global-search-for-education-a-look-at-a-finnish-school?tpedit=1](http://www.cmrubinworld.com/2011/11/01/the-global-search-for-education-a-look-at-a-finnish-school?tpedit=1)
 
-                * https://www.tes.com/
+                * [tes.com/](https://www.tes.com/)
 
-                * http://www.nea.org/home/33067.htm
+                * [nea.org/home/33067.htm](http://www.nea.org/home/33067.htm)
 
-                * https://www.jstor.org/stable/20484122?seq=1#page_scan_tab_contents
+                * [jstor.org/stable/20484122?seq=1#page_scan_tab_contents](https://www.jstor.org/stable/20484122?seq=1#page_scan_tab_contents)
 
-                * http://www.edutopia.org/blog/albert-cullum-a-touch-of-greatness
+                * [edutopia.org/blog/albert-cullum-a-touch-of-greatness](http://www.edutopia.org/blog/albert-cullum-a-touch-of-greatness)
 
-                * http://www.educationworld.com/
+                * [educationworld.com/](http://www.educationworld.com/)
 
-                * https://en.wikipedia.org/wiki/Educational_psychology
+                * [en.wikipedia.org/wiki/Educational_psychology](https://en.wikipedia.org/wiki/Educational_psychology)
 
-                * https://de.wikipedia.org/wiki/P%C3%A4dagogische_Psychologie
+                * [de.wikipedia.org/wiki/P%C3%A4dagogische_Psychologie](https://de.wikipedia.org/wiki/P%C3%A4dagogische_Psychologie)
 
 
         Bildungstheorie
 
-                * http://bie.org/
+                * [bie.org/](http://bie.org/)
 
-                * http://www.creativelearning.com/
+                * [creativelearning.com/](http://www.creativelearning.com/)
 
 
 
         Polymathie
 
-                * http://express-ewr.com.au/2013/polymathy/
+                * [express-ewr.com.au/2013/polymathy/](http://express-ewr.com.au/2013/polymathy/)
 
-                * http://moreintelligentlife.com/content/edward-carr/last-days-polymath#_
+                * [moreintelligentlife.com/content/edward-carr/last-days-polymath#_](http://moreintelligentlife.com/content/edward-carr/last-days-polymath#_)
 
-                * http://www.researchgate.net/publication/232558153_Artistic_Scientists_and_Scientific_Artists_The_Link_Between_Polymathy_and_Creativity
+                * [researchgate.net/publication/232558153_Artistic_Scientists_and_Scientific_Artists_The_Link_Between_Polymathy_and_Creativity](http://www.researchgate.net/publication/232558153_Artistic_Scientists_and_Scientific_Artists_The_Link_Between_Polymathy_and_Creativity)
 
-                * https://www.csun.edu/~vcpsy00h/creativity/define.htm
+                * [csun.edu/~vcpsy00h/creativity/define.htm](https://www.csun.edu/~vcpsy00h/creativity/define.htm)
 
-                * http://aeon.co/magazine/culture/anyone-can-learn-to-be-a-polymath/
+                * [aeon.co/magazine/culture/anyone-can-learn-to-be-a-polymath/](http://aeon.co/magazine/culture/anyone-can-learn-to-be-a-polymath/)
 
-                * https://www.coursera.org/learn/learning-how-to-learn/home/info
+                * [coursera.org/learn/learning-how-to-learn/home/info](https://www.coursera.org/learn/learning-how-to-learn/home/info)
 
-                * http://science.psu.edu/news-and-events/featured-news/the-perks-of-being-well-adrounded-alumna-has-one-up-on-grad-school
+                * [science.psu.edu/news-and-events/featured-news/the-perks-of-being-well-adrounded-alumna-has-one-up-on-grad-school](http://science.psu.edu/news-and-events/featured-news/the-perks-of-being-well-adrounded-alumna-has-one-up-on-grad-school)
 
-                * https://thedailyencounters.wordpress.com/2012/01/13/advantages-of-being-well-rounded-as-a-person/
+                * [thedailyencounters.wordpress.com/2012/01/13/advantages-of-being-well-rounded-as-a-person/](https://thedailyencounters.wordpress.com/2012/01/13/advantages-of-being-well-rounded-as-a-person/)
 
-                * http://www.123helpme.com/view.asp?id=49730
+                * [123helpme.com/view.asp?id=49730](http://www.123helpme.com/view.asp?id=49730)
 
-                * http://web.a.ebscohost.com/ehost/detail/detail?sid=be520582-85d5-4765-92ca-fa6d2a6ddf87%40sessionmgr4001&crlhashurl=login.aspx%253fdirect%253dtrue%2526scope%253dsite%2526db%253daph%2526AN%253d25941084%2526msid%253d-427790633&hid=4206&vid=0&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#db=aph&AN=25941084
+                * [web.a.ebscohost.com/ehost/detail/detail?sid=be520582-85d5-4765-92ca-fa6d2a6ddf87%40sessionmgr4001&crlhashurl=login.aspx%253fdirect%253dtrue%2526scope%253dsite%2526db%253daph%2526AN%253d25941084%2526msid%253d-427790633&hid=4206&vid=0&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#db=aph&AN=25941084](http://web.a.ebscohost.com/ehost/detail/detail?sid=be520582-85d5-4765-92ca-fa6d2a6ddf87%40sessionmgr4001&crlhashurl=login.aspx%253fdirect%253dtrue%2526scope%253dsite%2526db%253daph%2526AN%253d25941084%2526msid%253d-427790633&hid=4206&vid=0&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#db=aph&AN=25941084)
 
-                * http://web.a.ebscohost.com/ehost/detail/detail?sid=039ff4bf-f923-4a5d-b634-5b6c9723d657%40sessionmgr4003&crlhashurl=login.aspx%253fdirect%253dtrue%2526scope%253dsite%2526db%253daph%2526AN%253d76580662%2526msid%253d603983982&hid=4206&vid=0&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#db=aph&AN=76580662
+                * [web.a.ebscohost.com/ehost/detail/detail?sid=039ff4bf-f923-4a5d-b634-5b6c9723d657%40sessionmgr4003&crlhashurl=login.aspx%253fdirect%253dtrue%2526scope%253dsite%2526db%253daph%2526AN%253d76580662%2526msid%253d603983982&hid=4206&vid=0&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#db=aph&AN=76580662](http://web.a.ebscohost.com/ehost/detail/detail?sid=039ff4bf-f923-4a5d-b634-5b6c9723d657%40sessionmgr4003&crlhashurl=login.aspx%253fdirect%253dtrue%2526scope%253dsite%2526db%253daph%2526AN%253d76580662%2526msid%253d603983982&hid=4206&vid=0&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#db=aph&AN=76580662)
 
-                * http://web.a.ebscohost.com/ehost/detail/detail?sid=c81e7e66-a4a7-43e2-b4b5-cf494477e076%40sessionmgr4003&crlhashurl=login.aspx%253fdirect%253dtrue%2526scope%253dsite%2526db%253deft%2526AN%253d508086445%2526msid%253d201336470&hid=4206&vid=0&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#db=eft&AN=508086445
+                * [web.a.ebscohost.com/ehost/detail/detail?sid=c81e7e66-a4a7-43e2-b4b5-cf494477e076%40sessionmgr4003&crlhashurl=login.aspx%253fdirect%253dtrue%2526scope%253dsite%2526db%253deft%2526AN%253d508086445%2526msid%253d201336470&hid=4206&vid=0&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#db=eft&AN=508086445](http://web.a.ebscohost.com/ehost/detail/detail?sid=c81e7e66-a4a7-43e2-b4b5-cf494477e076%40sessionmgr4003&crlhashurl=login.aspx%253fdirect%253dtrue%2526scope%253dsite%2526db%253deft%2526AN%253d508086445%2526msid%253d201336470&hid=4206&vid=0&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#db=eft&AN=508086445)
 
-                * http://www.ascd.org/publications/newsletters/policy_priorities/vol17/num05/Reaching_for_a_Well-Rounded_Education_Creates_Challenges_for_Educators.aspx
+                * [ascd.org/publications/newsletters/policy_priorities/vol17/num05/Reaching_for_a_Well-Rounded_Education_Creates_Challenges_for_Educators.aspx](http://www.ascd.org/publications/newsletters/policy_priorities/vol17/num05/Reaching_for_a_Well-Rounded_Education_Creates_Challenges_for_Educators.aspx)
 
-                * http://www.ed.gov/news/speeches/well-rounded-curriculum-age-accountability
+                * [ed.gov/news/speeches/well-rounded-curriculum-age-accountability](http://www.ed.gov/news/speeches/well-rounded-curriculum-age-accountability)
 
-                * http://www.theglobeandmail.com/news/national/time-to-lead/why-university-students-need-a-well-rounded-education/article4610406/?page=all
+                * [theglobeandmail.com/news/national/time-to-lead/why-university-students-need-a-well-rounded-education/article4610406/?page=all](http://www.theglobeandmail.com/news/national/time-to-lead/why-university-students-need-a-well-rounded-education/article4610406/?page=all)
 
-                * https://en.wikipedia.org/wiki/Paracelsus
+                * [en.wikipedia.org/wiki/Paracelsus](https://en.wikipedia.org/wiki/Paracelsus)
 
-                * https://msu.edu/~rootbern/rootbern/Education.html
+                * [msu.edu/~rootbern/rootbern/Education.html](https://msu.edu/~rootbern/rootbern/Education.html)
 
-                * http://www.ascd.org/publications/educational-leadership/feb13/vol70/num05/The-Art-and-Craft-of-Science.aspx
+                * [ascd.org/publications/educational-leadership/feb13/vol70/num05/The-Art-and-Craft-of-Science.aspx](http://www.ascd.org/publications/educational-leadership/feb13/vol70/num05/The-Art-and-Craft-of-Science.aspx)
 
-                * https://www.psychologytoday.com/blog/imagine
+                * [psychologytoday.com/blog/imagine](https://www.psychologytoday.com/blog/imagine)
 
-                * http://www.nzz.ch/wissenschaft/medizin/mythos-und-ein-funken-wahrheit-ld.2698
+                * [nzz.ch/wissenschaft/medizin/mythos-und-ein-funken-wahrheit-ld.2698](http://www.nzz.ch/wissenschaft/medizin/mythos-und-ein-funken-wahrheit-ld.2698)
 
-                * http://www.creativitypost.com/
+                * [creativitypost.com/](http://www.creativitypost.com/)
 
-                * http://thesecondprinciple.com/
+                * [thesecondprinciple.com/](http://thesecondprinciple.com/)
 
-                * https://msu.edu/~rootbern/rootbern/Welcome.html
+                * [msu.edu/~rootbern/rootbern/Welcome.html](https://msu.edu/~rootbern/rootbern/Welcome.html)
 
-                * http://www.pz.harvard.edu/
+                * [pz.harvard.edu/](http://www.pz.harvard.edu/)
 
-                * https://litemind.com/
+                * [litemind.com/](https://litemind.com/)
 
-                * http://ctl.byu.edu/critical-reading-mini-lessons
+                * [ctl.byu.edu/critical-reading-mini-lessons](http://ctl.byu.edu/critical-reading-mini-lessons)
 
 
     - Notes
@@ -19229,7 +19229,7 @@ Groteske Aufklärung
 
         * [Didagma (Didaktik Glossar)](https://service.zfl.uni-kl.de/wp/glossar)
 
-                * http://www.gaudio.org/lezioni/pedagogia/pedagogia.htm
+                * [gaudio.org/lezioni/pedagogia/pedagogia.htm](http://www.gaudio.org/lezioni/pedagogia/pedagogia.htm)
 
 
 
@@ -19238,61 +19238,61 @@ Groteske Aufklärung
 
 
 
-                * http://infed.org/mobi/
+                * [infed.org/mobi/](http://infed.org/mobi/)
 
-                * https://www.timeshighereducation.com/
+                * [timeshighereducation.com/](https://www.timeshighereducation.com/)
 
-                * http://qz.com/on/science-of-learning/
+                * [qz.com/on/science-of-learning/](http://qz.com/on/science-of-learning/)
 
-                * http://www.theatlantic.com/education/
+                * [theatlantic.com/education/](http://www.theatlantic.com/education/)
 
-                * http://hechingerreport.org/
+                * [hechingerreport.org/](http://hechingerreport.org/)
 
-                * http://www.journals.elsevier.com/economics-of-education-review
+                * [journals.elsevier.com/economics-of-education-review](http://www.journals.elsevier.com/economics-of-education-review)
 
-                * http://www.edcentral.org/
+                * [edcentral.org/](http://www.edcentral.org/)
 
-                * http://www.edweek.org/ew/index.html
+                * [edweek.org/ew/index.html](http://www.edweek.org/ew/index.html)
 
-                * http://www.edutopia.org/
+                * [edutopia.org/](http://www.edutopia.org/)
 
-                * http://educationnext.org/
+                * [educationnext.org/](http://educationnext.org/)
 
-                * https://www.the74million.org/
+                * [the74million.org/](https://www.the74million.org/)
 
-                * http://www.urban.org/research-area/education-and-training
+                * [urban.org/research-area/education-and-training](http://www.urban.org/research-area/education-and-training)
 
-                * https://www.edreform.com/
+                * [edreform.com/](https://www.edreform.com/)
 
-                * https://www.gse.harvard.edu/uk
-
-
+                * [gse.harvard.edu/uk](https://www.gse.harvard.edu/uk)
 
 
 
-                * https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/Main_Page
 
-                * https://www.insidehighered.com/
 
-                * http://ies.ed.gov/
+                * [webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/Main_Page](https://webgate.ec.europa.eu/fpfis/mwikis/eurydice/index.php/Main_Page)
 
-                * http://www.bbc.com/news/education
+                * [insidehighered.com/](https://www.insidehighered.com/)
 
-                * http://blog.ed.gov/
+                * [ies.ed.gov/](http://ies.ed.gov/)
 
-                * http://www.ncee.org/programs-affiliates/center-on-international-education-benchmarking/
+                * [bbc.com/news/education](http://www.bbc.com/news/education)
 
-                * http://www.educationconservancy.org/
+                * [blog.ed.gov/](http://blog.ed.gov/)
 
-                * https://www.noodle.com/
+                * [ncee.org/programs-affiliates/center-on-international-education-benchmarking/](http://www.ncee.org/programs-affiliates/center-on-international-education-benchmarking/)
 
-                * http://www.ncee.org/
+                * [educationconservancy.org/](http://www.educationconservancy.org/)
 
-                * http://gpseducation.oecd.org/
+                * [noodle.com/](https://www.noodle.com/)
 
-                * http://www.oecd.org/pisa/
+                * [ncee.org/](http://www.ncee.org/)
 
-                * http://www.edchoice.org/
+                * [gpseducation.oecd.org/](http://gpseducation.oecd.org/)
+
+                * [oecd.org/pisa/](http://www.oecd.org/pisa/)
+
+                * [edchoice.org/](http://www.edchoice.org/)
 
 
         * [Общие основы педагогики](https://sites.google.com/site/obsieosnovypedagogik/home)
@@ -19304,127 +19304,127 @@ Groteske Aufklärung
 
 
 
-                * http://www.eduniko.ru/
+                * [eduniko.ru/](http://www.eduniko.ru/)
 
-                * http://edugram.ru/
+                * [edugram.ru/](http://edugram.ru/)
 
-                * http://www.gazeta.ru/social/obrazovanie/
+                * [gazeta.ru/social/obrazovanie/](http://www.gazeta.ru/social/obrazovanie/)
 
-                * https://www.hse.ru/science/edu/
+                * [hse.ru/science/edu/](https://www.hse.ru/science/edu/)
 
-                * http://www.mk.ru/social/education/
+                * [mk.ru/social/education/](http://www.mk.ru/social/education/)
 
-                * http://www.edu.ru/news/
+                * [edu.ru/news/](http://www.edu.ru/news/)
 
-                * http://ria.ru/education/
+                * [ria.ru/education/](http://ria.ru/education/)
 
-                * http://pedsovet.org/forum/index.php?autocom=blog&blogid=6209&
+                * [pedsovet.org/forum/index.php?autocom=blog&blogid=6209&](http://pedsovet.org/forum/index.php?autocom=blog&blogid=6209&)
 
-                * http://pedsovet.org/forum/index.php?autocom=blog&blogid=74&
+                * [pedsovet.org/forum/index.php?autocom=blog&blogid=74&](http://pedsovet.org/forum/index.php?autocom=blog&blogid=74&)
 
-                * http://pedsovet.org/news/
+                * [pedsovet.org/news/](http://pedsovet.org/news/)
 
-                * http://ecsocman.hse.ru/docs/16000157/
+                * [ecsocman.hse.ru/docs/16000157/](http://ecsocman.hse.ru/docs/16000157/)
 
 
 
 
 
-                * https://bildungsklick.de/
+                * [bildungsklick.de/](https://bildungsklick.de/)
 
-                * http://bildungsforschung.org/index.php/bildungsforschung
+                * [bildungsforschung.org/index.php/bildungsforschung](http://bildungsforschung.org/index.php/bildungsforschung)
 
-                * http://www.sueddeutsche.de/thema/Bildungsrecherche
+                * [sueddeutsche.de/thema/Bildungsrecherche](http://www.sueddeutsche.de/thema/Bildungsrecherche)
 
-                * http://www.eenee.de/de/eeneeHome.html
+                * [eenee.de/de/eeneeHome.html](http://www.eenee.de/de/eeneeHome.html)
 
-                * http://derstandard.at/r65/Schule
+                * [derstandard.at/r65/Schule](http://derstandard.at/r65/Schule)
 
-                * http://www.br.de/presse/inhalt/pressemitteilungen/bildungsrecherche-ard-alpha-die-zeit-100.html
+                * [br.de/presse/inhalt/pressemitteilungen/bildungsrecherche-ard-alpha-die-zeit-100.html](http://www.br.de/presse/inhalt/pressemitteilungen/bildungsrecherche-ard-alpha-die-zeit-100.html)
 
-                * http://www.webschulhaus.de/
+                * [webschulhaus.de/](http://www.webschulhaus.de/)
 
-                * http://www.sueddeutsche.de/bildung
+                * [sueddeutsche.de/bildung](http://www.sueddeutsche.de/bildung)
 
-                * http://www.zeit.de/thema/bildung
+                * [zeit.de/thema/bildung](http://www.zeit.de/thema/bildung)
 
-                * http://www.welt.de/wirtschaft/karriere/bildung/
+                * [welt.de/wirtschaft/karriere/bildung/](http://www.welt.de/wirtschaft/karriere/bildung/)
 
-                * http://www.spiegel.de/thema/bildungspolitik/
+                * [spiegel.de/thema/bildungspolitik/](http://www.spiegel.de/thema/bildungspolitik/)
 
-                * https://www.bifie.at/buch/1024/d/1
+                * [bifie.at/buch/1024/d/1](https://www.bifie.at/buch/1024/d/1)
 
 
 
-                * http://osvita.ua/
+                * [osvita.ua/](http://osvita.ua/)
 
 
 
 
-                * http://www.recherches-en-education.net/
+                * [recherches-en-education.net/](http://www.recherches-en-education.net/)
 
-                * http://iredu.u-bourgogne.fr/
+                * [iredu.u-bourgogne.fr/](http://iredu.u-bourgogne.fr/)
 
-                * http://iredu.u-bourgogne.fr/publications/31-cahiers-de-liredu.html
+                * [iredu.u-bourgogne.fr/publications/31-cahiers-de-liredu.html](http://iredu.u-bourgogne.fr/publications/31-cahiers-de-liredu.html)
 
-                * https://www.fraserinstitute.org/fr
+                * [fraserinstitute.org/fr](https://www.fraserinstitute.org/fr)
 
-                * http://www.lemonde.fr/education/
+                * [lemonde.fr/education/](http://www.lemonde.fr/education/)
 
-                * https://cres.revues.org/
+                * [cres.revues.org/](https://cres.revues.org/)
 
-                * https://rechercheseducations.revues.org/
+                * [rechercheseducations.revues.org/](https://rechercheseducations.revues.org/)
 
-                * http://www.ledevoir.com/societe/education
+                * [ledevoir.com/societe/education](http://www.ledevoir.com/societe/education)
 
-                * http://www.education.gouv.fr/
+                * [education.gouv.fr/](http://www.education.gouv.fr/)
 
-                * http://www.esen.education.fr/fr/actualites/actualites-de-l-education/
+                * [esen.education.fr/fr/actualites/actualites-de-l-education/](http://www.esen.education.fr/fr/actualites/actualites-de-l-education/)
 
-                * http://tempsreel.nouvelobs.com/tag/education-nationale
+                * [tempsreel.nouvelobs.com/tag/education-nationale](http://tempsreel.nouvelobs.com/tag/education-nationale)
 
-                * http://www.huffingtonpost.fr/news/education/
+                * [huffingtonpost.fr/news/education/](http://www.huffingtonpost.fr/news/education/)
 
-                * http://www.education.gouv.fr/pid146/toute-actualite.html
+                * [education.gouv.fr/pid146/toute-actualite.html](http://www.education.gouv.fr/pid146/toute-actualite.html)
 
-                * http://tempsreel.nouvelobs.com/education/
+                * [tempsreel.nouvelobs.com/education/](http://tempsreel.nouvelobs.com/education/)
 
-                * http://www.cafepedagogique.net/Pages/Accueil.aspx
+                * [cafepedagogique.net/Pages/Accueil.aspx](http://www.cafepedagogique.net/Pages/Accueil.aspx)
 
 
 
 
-                * http://www.economicsofeducation.com/
+                * [economicsofeducation.com/](http://www.economicsofeducation.com/)
 
-                * http://repec.economicsofeducation.com/2015madrid/madrid2015.pdf
+                * [repec.economicsofeducation.com/2015madrid/madrid2015.pdf](http://repec.economicsofeducation.com/2015madrid/madrid2015.pdf)
 
-                * http://www.mecd.gob.es/educacion-mecd/
+                * [mecd.gob.es/educacion-mecd/](http://www.mecd.gob.es/educacion-mecd/)
 
-                * http://www.rerce.es/
+                * [rerce.es/](http://www.rerce.es/)
 
-                * http://www.elespectador.com/noticias/educacion
+                * [elespectador.com/noticias/educacion](http://www.elespectador.com/noticias/educacion)
 
-                * http://www.informador.com.mx/6/educacion
+                * [informador.com.mx/6/educacion](http://www.informador.com.mx/6/educacion)
 
-                * http://www.emol.com/educacion/
+                * [emol.com/educacion/](http://www.emol.com/educacion/)
 
 
 
-                * http://revistaeducacao.uol.com.br/index.asp
+                * [revistaeducacao.uol.com.br/index.asp](http://revistaeducacao.uol.com.br/index.asp)
 
-                * http://exame.abril.com.br/topicos/educacao-no-brasil/
+                * [exame.abril.com.br/topicos/educacao-no-brasil/](http://exame.abril.com.br/topicos/educacao-no-brasil/)
 
-                * http://g1.globo.com/educacao/
+                * [g1.globo.com/educacao/](http://g1.globo.com/educacao/)
 
-                * http://www.publico.pt/educacao
+                * [publico.pt/educacao](http://www.publico.pt/educacao)
 
-                * http://educacao.uol.com.br/ultimas/
+                * [educacao.uol.com.br/ultimas/](http://educacao.uol.com.br/ultimas/)
 
 
 
-                * http://www.focus.it/comportamento/scuola-e-universita
+                * [focus.it/comportamento/scuola-e-universita](http://www.focus.it/comportamento/scuola-e-universita)
 
-                * http://www.orizzontescuola.it/news/riforme
+                * [orizzontescuola.it/news/riforme](http://www.orizzontescuola.it/news/riforme)
 
 
 
@@ -19643,9 +19643,9 @@ Groteske Aufklärung
         Maximilian Stangier
 
 
-                * http://tocs.ub.uni-mainz.de/pdfs/054101832.pdf
+                * [tocs.ub.uni-mainz.de/pdfs/054101832.pdf](http://tocs.ub.uni-mainz.de/pdfs/054101832.pdf)
 
-                * https://scholar.google.com/scholar?q=Bildungsphilosophie&btnG=&hl=es&as_sdt=0%2C45&as_vis=1
+                * [scholar.google.com/scholar?q=Bildungsphilosophie&btnG=&hl=es&as_sdt=0%2C45&as_vis=1](https://scholar.google.com/scholar?q=Bildungsphilosophie&btnG=&hl=es&as_sdt=0%2C45&as_vis=1)
 
 
 
@@ -20050,7 +20050,7 @@ Groteske Aufklärung
 
     - Best Researchers
 
-        From https://www.csun.edu/science/ref/theory-research/theorists/theorists.html
+        From [csun.edu/science/ref/theory-research/theorists/theorists.html](https://www.csun.edu/science/ref/theory-research/theorists/theorists.html)
 
         active learning - C. Bonwell
 
@@ -20142,8 +20142,8 @@ Groteske Aufklärung
         * [New Learning](http://meaningpatterns.net/)
 
         * [The public-private division of responsibility for education - ScienceDirect](http://www.sciencedirect.com/science/article/pii/0883035594900035)
-                * http://www.economicsofeducation.com/
-                * http://eacea.ec.europa.eu/llp/studies/documents/study_on_the_contribution_of_multilingualism_to_creativity/compendium_part_1_en.pdf
+                * [economicsofeducation.com/](http://www.economicsofeducation.com/)
+                * [eacea.ec.europa.eu/llp/studies/documents/study_on_the_contribution_of_multilingualism_to_creativity/compendium_part_1_en.pdf](http://eacea.ec.europa.eu/llp/studies/documents/study_on_the_contribution_of_multilingualism_to_creativity/compendium_part_1_en.pdf)
 
         * [Blue Collar Intellectuals - ISI Books](http://isibooks.org/blue-collar-intellectuals-2173.html)
 
@@ -20158,14 +20158,14 @@ Groteske Aufklärung
         * [Escolas matam a aprendizagem](https://youtu.be/WauIURFTpEc)
 
         * [Art + Science = Innovation&quot; (Creative Impact Michigan 03.08.12) - YouTube](https://www.youtube.com/watch?v=XPMbCnEapQU)
-                * https://habilomedias.ca/
-                * https://ctl.byu.edu/
-                * http://createquity.com/2013/01/looking-beyond-our-borders-for-national-arts-education-policies/
-                * http://www.fachportal-paedagogik.de/start.html
-                * http://www.uh.edu/education/departments/elps/faculty/
+                * [habilomedias.ca/](https://habilomedias.ca/)
+                * [ctl.byu.edu/](https://ctl.byu.edu/)
+                * [createquity.com/2013/01/looking-beyond-our-borders-for-national-arts-education-policies/](http://createquity.com/2013/01/looking-beyond-our-borders-for-national-arts-education-policies/)
+                * [fachportal-paedagogik.de/start.html](http://www.fachportal-paedagogik.de/start.html)
+                * [uh.edu/education/departments/elps/faculty/](http://www.uh.edu/education/departments/elps/faculty/)
 
         * [Why We Need Diverse Education | #AD - YouTube](https://www.youtube.com/watch?v=ATCG9ZtZfUA)
-                * https://service.zfl.uni-kl.de/wp/ Didaktik-Glossar
+                * [service.zfl.uni-kl.de/wp/](https://service.zfl.uni-kl.de/wp/) Didaktik-Glossar
 
         * [Arquivos Analíticos de Políticas Educativas](http://epaa.asu.edu/ojs/)
 

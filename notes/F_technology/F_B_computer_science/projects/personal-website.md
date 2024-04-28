@@ -6,7 +6,7 @@
 Want something better than Hostinger
 
 
-* https://hpanel.hostinger.com/hosting/isaacrriley.com/
+* [hpanel.hostinger.com/hosting/isaacrriley.com/](https://hpanel.hostinger.com/hosting/isaacrriley.com/)
 
 
 ## Structure
@@ -24,10 +24,10 @@ Want something better than Hostinger
     - [ ]  scalable webpage graphic of family tree of programming languages
         - Links            - [The Briefest Genealogy of Programming Languages](http://www.martinrinehart.com/pages/genealogy-programming-languages.html)
             - Genealogy of Programming Languages.pdf on Drive
-            - https://en.wikipedia.org/wiki/Generational_list_of_programming_languages
-            - https://en.wikipedia.org/wiki/History_of_programming_languages
-            - https://en.wikipedia.org/wiki/Timeline_of_programming_languages
-            - http://rigaux.org/language-study/diagram.html
+            - [en.wikipedia.org/wiki/Generational_list_of_programming_languages](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
+            - [en.wikipedia.org/wiki/History_of_programming_languages](https://en.wikipedia.org/wiki/History_of_programming_languages)
+            - [en.wikipedia.org/wiki/Timeline_of_programming_languages](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
+            - [rigaux.org/language-study/diagram.html](http://rigaux.org/language-study/diagram.html)
         - Notes
             - → button to change color scheme for different views corresponding to characteristics/history: paradigm(s), genealogy, application area, language features
 * Study Notes (port from LaTeX versions)
@@ -35,13 +35,13 @@ Want something better than Hostinger
 
 ## Learning
 * [ ]  [Build and deploy a portfolio website [Full Tutorial Course]](https://www.youtube.com/watch?v=_xkSvufmjEs)- [ ]  look at all examples in list of personal websites
-     - [ ]  read https://www.codingflicks.com/2020/08/simple-website-design-using-html-and-css.html
+     - [ ]  read [codingflicks.com/2020/08/simple-website-design-using-html-and-css.html](https://www.codingflicks.com/2020/08/simple-website-design-using-html-and-css.html)
      - [ ]  look at web books for notes
      - [ ]  look into mathjax, hugo, jekyll, and [unbuch](https://github.com/mrtzh/unbuch) for static site generation
 
 ## My Site
-* [https://strapdownjs.com](https://strapdownjs.com/)
-* https://yelircaasi.github.io/
+* [strapdownjs.com](https://strapdownjs.com/)
+* [yelircaasi.github.io/](https://yelircaasi.github.io/)
 * [Introducing fastpages: An easy to use blogging platform with extra features for Jupyter Notebooks](https://www.kdnuggets.com/2020/02/introducing-fastpages-blogging-platform-jupyter-notebooks.html)
 * [Launch a Website with a Custom URL using Github Pages and Google Domains](https://medium.com/employbl/launch-a-website-with-a-custom-url-using-github-pages-and-google-domains-3dd8d90cc33b)
 * [NO BULLSHIT TEXTBOOKS](https://minireference.com/)
@@ -51,11 +51,11 @@ Want something better than Hostinger
 * [Supercharge GitHub Pages with Jekyll and Travis CI - Derek Smart - Medium](https://medium.com/@mcred/supercharge-github-pages-with-jekyll-and-travis-ci-699bc0bde075)
 * [yelircaasi’s gists](https://gist.github.com/yelircaasi)
 * [Самое важное / Песочница / Хабр](https://habr.com/ru/sandbox/start/)
-* https://leanpub.com/LittleInferenceBook/read
+* [leanpub.com/LittleInferenceBook/read](https://leanpub.com/LittleInferenceBook/read)
 * [Join the Medium Partner Program](https://medium.com/me/partner/enroll/terms)
-* https://www.netlify.com/pricing/
-* https://github.com/RyanFitzgerald/devportfolio
-* https://github.com/ashutosh1919/masterPortfolio
+* [netlify.com/pricing/](https://www.netlify.com/pricing/)
+* [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio)
+* [ashutosh1919/masterPortfolio](https://github.com/ashutosh1919/masterPortfolio)
 
 
 ## Blogging
@@ -81,7 +81,7 @@ Want something better than Hostinger
 * [Creating your own Jekyll Theme Gem - James Hamann - Medium](https://medium.com/@jameshamann/creating-your-own-jekyll-theme-gem-1f8180a0e4b8)
 * [How to Create and Publish a Jekyll Theme Gem](https://webdesign.tutsplus.com/tutorials/how-to-create-and-publish-a-jekyll-theme-gem--cms-27475)
 * [How to Make a Beautiful Personal Website Quickly - Better Programming - Medium](https://medium.com/better-programming/how-to-make-a-beautiful-personal-website-quickly-cab115866134)
-* [How to Set Up a Jekyll Theme](https://webdesign.tutsplus.com/tutorials/how-to-set-up-a-jekyll-theme--cms-26332)* https://shad.io/MatVis/bundle.js
+* [How to Set Up a Jekyll Theme](https://webdesign.tutsplus.com/tutorials/how-to-set-up-a-jekyll-theme--cms-26332)* [shad.io/MatVis/bundle.js](https://shad.io/MatVis/bundle.js)
      * [Making your first Jekyll theme: Part 1 - Siteleaf](https://www.siteleaf.com/blog/making-your-first-jekyll-theme-part-1/)
-* [Bookish (typesetting conversion library): https://github.com/parrt/bookish](https://github.com/parrt/bookish)
+* [Bookish (typesetting conversion library): [parrt/bookish](https://github.com/parrt/bookish)](https://github.com/parrt/bookish](https://github.com/parrt/bookish))
 * [**Write for Towards Data Science - Towards Data Science](https://towardsdatascience.com/questions-96667b06af5)

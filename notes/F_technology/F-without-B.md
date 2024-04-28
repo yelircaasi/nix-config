@@ -63,33 +63,33 @@
 
 ### Media
 * [bug.hr](https://www.bug.hr/)
-* [Xataka - Tecnología y gadgets, móviles, informática, electrónica](https://www.xataka.com/?utm_source=xataka&utm_medium=network&utm_campaign=favicons)
-* https://www.wired.it/
-* http://www.wired.com/
+* [Xataka - Tecnología y gadgets, móviles, informática, electrónica](https://www.xataka.com/)
+* [wired.it/](https://www.wired.it/)
+* [wired.com/](http://www.wired.com/)
 * [Technology | Academics | Policy - /](http://www.techpolicy.com/)
-* http://www.cnet.com/es/
-* http://www.madehow.com/
-* https://www.gq-magazin.de/auto-technik/
-* https://slashdot.org/
-* http://www.makeuseof.com/
-* http://gizmodo.uol.com.br/
-* http://www.popularmechanics.com/
-* http://www.popmech.ru/
-* http://de.engadget.com/
-* http://innovations.com.ua/ua/index
-* http://life.pravda.com.ua/technology/
-* http://www.frenchweb.fr/
-* http://www.presse-citron.net/
-* http://electronlibre.info/
-* http://es.engadget.com/
-* http://es.gizmodo.com/
-* http://www.revolucaodigital.net/
-* http://exameinformatica.sapo.pt/
-* http://www.technologyreview.it/
-* http://www.ansa.it/sito/notizie/tecnologia/tecnologia.shtml
-* http://ar.itp.net/
-* http://arabcrunch.com/ar/
-* https://www.computerra.ru/
+* [cnet.com/es/](http://www.cnet.com/es/)
+* [madehow.com/](http://www.madehow.com/)
+* [gq-magazin.de/auto-technik/](https://www.gq-magazin.de/auto-technik/)
+* [slashdot.org/](https://slashdot.org/)
+* [makeuseof.com/](http://www.makeuseof.com/)
+* [gizmodo.uol.com.br/](http://gizmodo.uol.com.br/)
+* [popularmechanics.com/](http://www.popularmechanics.com/)
+* [popmech.ru/](http://www.popmech.ru/)
+* [de.engadget.com/](http://de.engadget.com/)
+* [innovations.com.ua/ua/index](http://innovations.com.ua/ua/index)
+* [life.pravda.com.ua/technology/](http://life.pravda.com.ua/technology/)
+* [frenchweb.fr/](http://www.frenchweb.fr/)
+* [presse-citron.net/](http://www.presse-citron.net/)
+* [electronlibre.info/](http://electronlibre.info/)
+* [es.engadget.com/](http://es.engadget.com/)
+* [es.gizmodo.com/](http://es.gizmodo.com/)
+* [revolucaodigital.net/](http://www.revolucaodigital.net/)
+* [exameinformatica.sapo.pt/](http://exameinformatica.sapo.pt/)
+* [technologyreview.it/](http://www.technologyreview.it/)
+* [ansa.it/sito/notizie/tecnologia/tecnologia.shtml](http://www.ansa.it/sito/notizie/tecnologia/tecnologia.shtml)
+* [ar.itp.net/](http://ar.itp.net/)
+* [arabcrunch.com/ar/](http://arabcrunch.com/ar/)
+* [computerra.ru/](https://www.computerra.ru/)
 
 
 ###  Saved Articles
@@ -145,7 +145,7 @@
 
 
 ###  Articles to Save
-* https://www.spiegel.de/wissenschaft/medizin/medizinprofessor-ernst-die-homoeopathie-ist-ein-dogma-a-706257.html
+* [spiegel.de/wissenschaft/medizin/medizinprofessor-ernst-die-homoeopathie-ist-ein-dogma-a-706257.html](https://www.spiegel.de/wissenschaft/medizin/medizinprofessor-ernst-die-homoeopathie-ist-ein-dogma-a-706257.html)
 
 
 ## F. Fabricación

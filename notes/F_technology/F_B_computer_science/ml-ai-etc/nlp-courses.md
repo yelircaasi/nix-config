@@ -1,13 +1,13 @@
 # NLP Courses
 
 ## SORT
-* http://www.inf.ed.ac.uk/teaching/courses/mt/* https://lena-voita.github.io/nlp_course.html
+* [inf.ed.ac.uk/teaching/courses/mt/*](http://www.inf.ed.ac.uk/teaching/courses/mt/*) [lena-voita.github.io/nlp_course.html](https://lena-voita.github.io/nlp_course.html)
 * [Index of /~mcollins/courses/nlp2011/notes](http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/)
 * [Natural Language Processing - Coursera [FULL COURSE] | University of Michigan](https://www.youtube.com/watch?v=n25JjoixM3I&list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR)
 * [fastai/course-nlp: A Code-First Introduction to NLP course](https://github.com/fastai/course-nlp)
-* http://lope.linguistics.ntu.edu.tw/courses/corpusling/syllabus.html
-* https://nlp.stanford.edu/courses/NAACL2013/
-* http://www.nltk.org/book/
+* [lope.linguistics.ntu.edu.tw/courses/corpusling/syllabus.html](http://lope.linguistics.ntu.edu.tw/courses/corpusling/syllabus.html)
+* [nlp.stanford.edu/courses/NAACL2013/](https://nlp.stanford.edu/courses/NAACL2013/)
+* [nltk.org/book/](http://www.nltk.org/book/)
 
 → [NLP courses using Eisenstein textbook](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)
 * [Text Technology Course - Hojas de cálculo de Google](https://docs.google.com/spreadsheets/d/1HciE4fxPsfL_bhEWsg_iW_IoatXCKn7chex27oA1D-U/edit#gid=897359458)
@@ -17,7 +17,7 @@
 * [Lillian Lee - Advanced Language Technologies 2010](https://www.cs.cornell.edu/courses/cs6740/2010sp/index-tabbed.shtml)
 * [Lillian Lee - Advanced Language Technologies, Fall 2019](https://www.cs.cornell.edu/courses/cs6740/2019fa/)
 * [Lillian Lee - Cornell Course](https://courses.cs.cornell.edu/cs674/2002SP/)
-* [Lillian Lee - NLP 2001/2002 https://www.cs.cornell.edu/courses/cs674/2002SP/](https://www.cs.cornell.edu/courses/cs674/2002SP/)
+* [Lillian Lee - NLP 2001/2002 [cs.cornell.edu/courses/cs674/2002SP/](https://www.cs.cornell.edu/courses/cs674/2002SP/)](https://www.cs.cornell.edu/courses/cs674/2002SP/](https://www.cs.cornell.edu/courses/cs674/2002SP/))
 * [Lillian Lee - NLP and Social Interaction](https://www.cs.cornell.edu/courses/cs6742/2015fa/)
 * [NYU Meyer NLP Course](https://cs.nyu.edu/courses/spring12/CSCI-GA.2590-001/)
 * [Stanford NLP Course Solutions](https://github.com/jneira/natural-language-processing-course)
@@ -33,12 +33,12 @@
 * [Einführung in die Computerlinguistik](https://user.phil-fak.uni-duesseldorf.de/~kallmeyer/CL-Einfuehrung/SS14.html)
 * [EMNLP 2020](https://2020.emnlp.org/)
 * [Good IR Slides](https://www.ics.uci.edu/~djp3/classes/2014_01_INF141/Lectures/)
-* http://data-bzh.fr/text-mining-r-part-1/
-* https://causaltext.github.io/2021/
-* https://github.com/nsanghi/HSE-NLP-Coursera
-* https://github.com/reynoldsnlp/DIGHT360_Fall2017
-* https://nbviewer.jupyter.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/
-* https://vasishth.github.io/smlp2021/
+* [data-bzh.fr/text-mining-r-part-1/](http://data-bzh.fr/text-mining-r-part-1/)
+* [causaltext.github.io/2021/](https://causaltext.github.io/2021/)
+* [nsanghi/HSE-NLP-Coursera](https://github.com/nsanghi/HSE-NLP-Coursera)
+* [reynoldsnlp/DIGHT360_Fall2017](https://github.com/reynoldsnlp/DIGHT360_Fall2017)
+* [nbviewer.jupyter.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/](https://nbviewer.jupyter.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/)
+* [vasishth.github.io/smlp2021/](https://vasishth.github.io/smlp2021/)
 * [Index of /~keberle/CompSem/Presentations](http://www.sfs.uni-tuebingen.de/~keberle/CompSem/Presentations/)
 * [INF4820](https://www.youtube.com/channel/UCufkSSu1trzm9nB-jYOPuvw)
 * [Information Retrieval and Text Mining Course](https://docs.google.com/spreadsheets/d/1pZ1JYCdZBy2LDaTgVuRRWbhjqAx-874GOYI7p2XRzk8/edit?usp=sharing)
@@ -67,16 +67,16 @@
 * [Stanford Coursera NLP Solutions](https://github.com/hanks/Natural-Language-Processing)
 * [Amsterdam NLP 2015](http://ivan-titov.org/teaching/nlp1-15/)
 * [Chicago NLP](https://ttic.uchicago.edu/~kgimpel/teaching/31190/lectures.html)
-* https://nyu-ds1003.github.io/spring2021/#home
-* https://hhexiy.github.io/nlp/2020/index.html
-* https://hhexiy.github.io/nlp/2021/index.html
+* [nyu-ds1003.github.io/spring2021/#home](https://nyu-ds1003.github.io/spring2021/#home)
+* [hhexiy.github.io/nlp/2020/index.html](https://hhexiy.github.io/nlp/2020/index.html)
+* [hhexiy.github.io/nlp/2021/index.html](https://hhexiy.github.io/nlp/2021/index.html)
 * [Corpus Linguistics: Method, Analysis, Interpretation (FutureLearn) | MOOC List](https://www.mooc-list.com/course/corpus-linguistics-method-analysis-interpretation-futurelearn)
-* https://coursera.org/specialization/natural-language-processing
-* https://courses.edx.org/courses/course-v1:Microsoft+DEV288x+1T2019/course/
-* https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python?tap_a=5644-dce66f&tap_s=210732-9d6bbf&utm_source=adwords_ppc&utm_campaignid=1565261270&utm_adgroupid=67750485028&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=1t2&utm_creative=295213501355&utm_targetid=aud-522010995285:dsa-473406570195&utm_loc_interest_ms=&utm_loc_physical_ms=9060033&gclid=CjwKCAjwmJbeBRBCEiwAAY4VVRr2HVFE9CeQNMihohkiRk4YU-5Okk-yhcsRYfqcOI_rBiE9FOwNlxoCvp0QAvD_BwE
-* https://www.udemy.com/hands-on-natural-language-processing-using-python/?utm_source=adwords-learn&utm_medium=udemyads&utm_campaign=NEW-AW-PROS-PROF-US-DSA-1-EN-ENG_._ci__._sl_ENG_._vi_PROF_._sd_All_._la_EN_._&utm_content=deal4584&utm_term=_._ag_60674440731_._ad_267827191805_._de_c_._dm__._pl__._ti_aud-299743148867:dsa-334302744369_._li_9060033_._pd__._&gclid=CjwKCAjwmJbeBRBCEiwAAY4VVVqny0LZjKAhxJD4xYJd0mKxNcEqsigjwy0n1nITSEEB_DVGXQn0yRoCLlEQAvD_BwE
+* [coursera.org/specialization/natural-language-processing](https://coursera.org/specialization/natural-language-processing)
+* [courses.edx.org/courses/course-v1:Microsoft+DEV288x+1T2019/course/](https://courses.edx.org/courses/course-v1:Microsoft+DEV288x+1T2019/course/)
+* [datacamp.com/courses/natural-language-processing-fundamentals-in-python?tap_a=5644-dce66f&tap_s=210732-9d6bbf](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python?tap_a=5644-dce66f&tap_s=210732-9d6bbf)
+* [udemy.com/hands-on-natural-language-processing-using-python/](https://www.udemy.com/hands-on-natural-language-processing-using-python/)
 * [Natural Language Processing (NLP)](https://www.edx.org/course/natural-language-processing-3)
-* [Natural Language Processing | Codecademy](https://www.codecademy.com/learn/natural-language-processing?utm_source=customer_io&utm_campaign=monday_course_drop_11_26_18&utm_medium=email&utm_content=inline_link)
+* [Natural Language Processing | Codecademy](https://www.codecademy.com/learn/natural-language-processing)
 * [Natural Language Processing | Coursera](https://www.coursera.org/specializations/natural-language-processing)
 * [Natural Language Processing | Udacity](https://eu.udacity.com/course/natural-language-processing-nanodegree--nd892)
 * [NLP Practitioner Certificate Course (Beginner to Advanced) | Udemy](https://www.udemy.com/nlp-practitioner-neuro-linguistic-programming-online-course/?altsc=774972)
@@ -92,7 +92,7 @@
 * [Cursos de Computational Linguistics | Coursera](https://www.coursera.org/courses?query=computational%20linguistics)
 **** Intent classifier and slot tagger (NLU) - Dialog systems | Coursera
 * [[Coursera] Natural Language Processing (Stanford University) (nlp) - Academic Torrents](http://academictorrents.com/details/d2c8f8f1651740520b7dfab23438d89bc8c0c0ab)
-* https://www.edx.org/search?q=Natural%20Language%20Processing
+* [edx.org/search?q=Natural%20Language%20Processing](https://www.edx.org/search?q=Natural%20Language%20Processing)
 * [AML Specialization Solutions Coursera](https://github.com/SJD1882/MOOC-Coursera-Advanced-Machine-Learning)
 * [CMU NN for NLP Example Code*****](http://www.phontron.com/class/nn4nlp2017/schedule.html)
 * [Homework 1 "Python and Bash Skills"](http://computational-linguistics-class.org/assignment1.html)
@@ -114,18 +114,18 @@
 * [bmb.cu.edu.tr/uorhan/DersNotu/NLP2017F.pdf](http://bmb.cu.edu.tr/uorhan/DersNotu/NLP2017F.pdf)
 * [CS 760 (Spring 2018)](https://www.biostat.wisc.edu/~craven/cs760/hw.html)
 * [CSC 401S home page](http://www.cs.toronto.edu/~gpenn/csc401/#old-exams-sec)
-* https://personal.utdallas.edu/~sanda/courses/NLP/FinalS2019.v2.pdf
-* https://personal.utdallas.edu/~sanda/courses/NLP/Mid-TermS2019.pdf
+* [personal.utdallas.edu/~sanda/courses/NLP/FinalS2019.v2.pdf](https://personal.utdallas.edu/~sanda/courses/NLP/FinalS2019.v2.pdf)
+* [personal.utdallas.edu/~sanda/courses/NLP/Mid-TermS2019.pdf](https://personal.utdallas.edu/~sanda/courses/NLP/Mid-TermS2019.pdf)
 * [IUPR Course](http://nlpa.iupr.com/)
-* https://huggingface.co/course/chapter0?fw=pt
+* [huggingface.co/course/chapter0?fw=pt](https://huggingface.co/course/chapter0?fw=pt)
 * [M Exam 2017](http://bmb.cu.edu.tr/uorhan/DersNotu/NLP2017M.pdf)
 * [McCallum NLP](https://people.cs.umass.edu/~mccallum/courses/inlp2007/syllabus.html)
 * [McGill 2015](https://www.cs.mcgill.ca/~jcheung/teaching/fall-2015/comp599/)
 * [www1.cs.columbia.edu/~kathy/NLP/ClassSlides/Slides09/Class24-FinalReview/final-F08.pdf](http://www1.cs.columbia.edu/~kathy/NLP/ClassSlides/Slides09/Class24-FinalReview/final-F08.pdf)
 * [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 * [CMU Advanced NLP 2021](https://www.youtube.com/watch?v=pGC-QiNbuwA&list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6)
-* https://course.spacy.io/
-* https://cs.pomona.edu/~kim/CSC181S08/lectures/
+* [course.spacy.io/](https://course.spacy.io/)
+* [cs.pomona.edu/~kim/CSC181S08/lectures/](https://cs.pomona.edu/~kim/CSC181S08/lectures/)
 * [HPI NLP Course 2016](https://hpi.de/plattner/teaching/archive/summer-term-2016/natural-language-processing.html)
 * [Columbia NLP 2009 ***](http://www1.cs.columbia.edu/~kathy/NLP/ClassSlides/Slides09/)
 * [CS224n 2018](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/syllabus.html)
@@ -161,7 +161,7 @@
 * [UNC NLP Grad Course](http://www.cs.unc.edu/~mbansal/teaching/nlp-course-fall17.html)
 * [UT AI Course](https://www.cs.utexas.edu/~mooney/cs343/)
 * [NLP with Python *](http://nlpcl.kaist.ac.kr/~cs372_2015/)
-* [www.lrec-conf.org/proceedings/lrec2014/pdf/643_Paper.pdf](http://www.lrec-conf.org/proceedings/lrec2014/pdf/643_Paper.pdf)
+* [lrec-conf.org/proceedings/lrec2014/pdf/643_Paper.pdf](http://www.lrec-conf.org/proceedings/lrec2014/pdf/643_Paper.pdf)
 * [NLP Burcu Can 2019](https://web.cs.hacettepe.edu.tr/~burcucan/BBM495.htm)
 * [Charles Uni NLP](https://ufal.mff.cuni.cz/courses/npfl067)
 * [Burcu Can SNLP 2019](https://web.cs.hacettepe.edu.tr/~burcucan/CMP670.htm)
@@ -268,8 +268,8 @@
 * [Обработка естественного языка курс - Поиск в Google](https://www.google.com/search?rlz=1C1GCEA_enUS818US818&q=%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0+%D0%B5%D1%81%D1%82%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE+%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0+%D0%BA%D1%83%D1%80%D1%81&spell=1&sa=X&ved=0ahUKEwjWqMPRy4HeAhULslQKHeIuBLAQBQgpKAA&biw=1920&bih=938)
 * [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and ML](https://youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
 * [CS224U: Natural Language Understanding - Spring 2021](http://web.stanford.edu/class/cs224u/)
-* https://web.stanford.edu/class/cs224n/
-* https://sites.skoltech.ru/nlp/
+* [web.stanford.edu/class/cs224n/](https://web.stanford.edu/class/cs224n/)
+* [sites.skoltech.ru/nlp/](https://sites.skoltech.ru/nlp/)
 * [Advanced NLP MIT Lecture Notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/lecture-notes/)
 * [Cambridge - Copestake Notes](https://www.cl.cam.ac.uk/teaching/2002/NatLangProc/nlp1-4.pdf)
 * [CS224 NN Notes](https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes03-neuralnets.pdf)
@@ -302,7 +302,7 @@
 * [Stanford NLP Teaching](https://nlp.stanford.edu/teaching/)
 * [UW - Deep Processing Techniques for Natural Language Processing](http://courses.washington.edu/ling571/ling571_WIN2017/index.html)
 * [Wei Xu - Speech and Language Processing](https://cocoxu.github.io/courses/5525_spring17.html)
-* https://faculty.washington.edu/ebender/teaching.html
+* [faculty.washington.edu/ebender/teaching.html](https://faculty.washington.edu/ebender/teaching.html)
 * [NLP Tutorials](https://github.com/Jcharis/Natural-Language-Processing-Tutorials)
 * [Natural Language Processing - YouTube](https://www.youtube.com/playlist?list=PL1v8zpldgH3pQwRz1FORZdChMaNZaR3pu)
 **GitHub - oxford-cs-deepnlp-2017/lectures: Oxford Deep NLP 2017 course
@@ -342,7 +342,7 @@
 * [Cornell Advanced Language Technologies](http://www.cs.cornell.edu/courses/cs674/2007fa/)
 * [Advanced Language Technologies Cornell 2010](http://www.cs.cornell.edu/courses/cs6740/2010sp/index-tabbed.shtml)
 * [IITK Final 2018](https://www.cse.iitk.ac.in/users/hk/cs671/201718/endqp.pdf)
-* https://www.cs.mcgill.ca/~jcheung/teaching/fall-2015/comp599/midterm-sol.pdf
+* [cs.mcgill.ca/~jcheung/teaching/fall-2015/comp599/midterm-sol.pdf](https://www.cs.mcgill.ca/~jcheung/teaching/fall-2015/comp599/midterm-sol.pdf)
 * [CS224n Practice Midterms](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/practice_midterms/)
 * [CS224n 2018 (links broken)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/syllabus.html)
 * [MIT 4 HWs](http://people.csail.mit.edu/regina/6864/homeworks.html)
@@ -350,7 +350,7 @@
 * [PS 0 ML Solutions](http://www.cis.upenn.edu/~danroth/Teaching/CIS-700-006/hw/hw0-sol.pdf)
 * [ETH NLU ***](http://www.da.inf.ethz.ch/teaching/2017/NLP/)
 * [HAIFA 2001](http://cs.haifa.ac.il/~shuly/teaching/01/nlp/)
-* [www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/2/2f/CS60057_Speech_and_Natural_Language_Processing_MA_2015.pdf](http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/2/2f/CS60057_Speech_and_Natural_Language_Processing_MA_2015.pdf)
+* [library.iitkgp.ac.in/pages/SemQuestionWiki/images/2/2f/CS60057_Speech_and_Natural_Language_Processing_MA_2015.pdf](http://www.library.iitkgp.ac.in/pages/SemQuestionWiki/images/2/2f/CS60057_Speech_and_Natural_Language_Processing_MA_2015.pdf)
 * [730 questions with answers in Natural Language Processing | Science topic](https://www.researchgate.net/topic/Natural-Language-Processing)
 *COMP90042 - Problems and Solutions
 

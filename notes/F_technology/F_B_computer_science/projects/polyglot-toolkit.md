@@ -16,22 +16,22 @@ c > c: i-3 \leq j \leq i+d+3
 ```
 
 
-* other PolyglotToolkit Projects: translation-trainer: use tatoeba or supplied parallel text (optimally with multiple translations), compute metrics, show diff, display dashboard, etc.language utility (pre-processor) packages, esp for Arabic, Ancient Greek, ChineseAlignment Tool(s)make GUI tool (or nvim plugin) for manual sentence/word alignmentCLI for viewing parallel texts in the terminalVocalizer: add diacritics to language (seq2seq package) - for arabic, hebrew, ancient greek, latin (with macros → https://github.com/Alatius/latin-macronizer), http://ictibus.blogspot.com/, http://ilovegooglebooks.blogspot.com/search/label/macrons, russian → https://russiangram.com/, easy test case for training data, ukrainianLatin error detector: fix wrong endings → right architecture for finding single location (here error) in a sequenceMaybe start with Ancient Greek diacritics: easy data, learnable objectiveuse PoS tagging, Wiktionary word info (via Wiktionary tool) → later dependency parsing?
+* other PolyglotToolkit Projects: translation-trainer: use tatoeba or supplied parallel text (optimally with multiple translations), compute metrics, show diff, display dashboard, etc.language utility (pre-processor) packages, esp for Arabic, Ancient Greek, ChineseAlignment Tool(s)make GUI tool (or nvim plugin) for manual sentence/word alignmentCLI for viewing parallel texts in the terminalVocalizer: add diacritics to language (seq2seq package) - for arabic, hebrew, ancient greek, latin (with macros → [Alatius/latin-macronizer),](https://github.com/Alatius/latin-macronizer),) [ictibus.blogspot.com/,](http://ictibus.blogspot.com/,) [ilovegooglebooks.blogspot.com/search/label/macrons,](http://ilovegooglebooks.blogspot.com/search/label/macrons,) russian → [russiangram.com/,](https://russiangram.com/,) easy test case for training data, ukrainianLatin error detector: fix wrong endings → right architecture for finding single location (here error) in a sequenceMaybe start with Ancient Greek diacritics: easy data, learnable objectiveuse PoS tagging, Wiktionary word info (via Wiktionary tool) → later dependency parsing?
 
 
 ## Expression Translation Tables (→ Multi-Word Expression Project, Proverbs Project)
-* https://en.wiktionary.org/wiki/Category:Multiword_terms_by_language
+* [en.wiktionary.org/wiki/Category:Multiword_terms_by_language](https://en.wiktionary.org/wiki/Category:Multiword_terms_by_language)
 
 
 ## Parallel Text Aligner
 
 
 # Parallel Text Alignment (and Formatting)
-* https://github.com/yelircaasi/parallel-text-aligner
-* https://github.com/yelircaasi/parallel-text-finisher
+* [yelircaasi/parallel-text-aligner](https://github.com/yelircaasi/parallel-text-aligner)
+* [yelircaasi/parallel-text-finisher](https://github.com/yelircaasi/parallel-text-finisher)
 
 
-*** example: https://2books.su/
+*** example: [2books.su/](https://2books.su/)
 
 
 * saved links to sort
@@ -49,8 +49,8 @@ c > c: i-3 \leq j \leq i+d+3
 
         * [alpinelinux/apk-tools: [MIRROR] Alpine package manager](https://github.com/alpinelinux/apk-tools)
 
-        * [try this: https://dvc.org/doc/user-guide/data-management/remote-storage/google-drive](https://dvc.org/doc/user-guide/data-management/remote-storage/google-drive) → for parallel text data and also for my own pdfs
-                * https://github.com/Wandmalfarbe/pandoc-latex-template
+        * [try this: [dvc.org/doc/user-guide/data-management/remote-storage/google-drive](https://dvc.org/doc/user-guide/data-management/remote-storage/google-drive)](https://dvc.org/doc/user-guide/data-management/remote-storage/google-drive](https://dvc.org/doc/user-guide/data-management/remote-storage/google-drive)) → for parallel text data and also for my own pdfs
+                * [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template)
 
         add Epictetus' works:
 
@@ -108,10 +108,10 @@ c > c: i-3 \leq j \leq i+d+3
         * [dbamman/latin-bert: Latin BERT](https://github.com/dbamman/latin-bert)
         * [pranaydeeps/Ancient-Greek-BERT · Hugging Face](https://huggingface.co/pranaydeeps/Ancient-Greek-BERT)
         * [pranaydeeps/Ancient-Greek-BERT: Pre-trained BERT Models for Ancient and Medieval Greek, and associated code for LaTeCH 2021 paper titled - "A Pilot Study for BERT Language Modelling and Morphological Analysis for Ancient and Medieval Greek"](https://github.com/pranaydeeps/Ancient-Greek-BERT)
-        * https://github.com/alvations/NTU-MC/blob/master/ntumc/toolkit/gale_church.py
-        * https://github.com/dowobeha/Gale_and_Church_1993
+        * [alvations/NTU-MC/blob/master/ntumc/toolkit/gale_church.py](https://github.com/alvations/NTU-MC/blob/master/ntumc/toolkit/gale_church.py)
+        * [dowobeha/Gale_and_Church_1993](https://github.com/dowobeha/Gale_and_Church_1993)
 
-    Supervised Mover s Distance https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjN8dyrmYL-AhXP-6QKHXaoBAoQFnoECAYQAQ&url=https%3A%2F%2Fpeerj.com%2Fpreprints%2F26847.pdf&usg=AOvVaw0U0yhoLXnJ1lxl0sbmIRCp
+    Supervised Mover s Distance [google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjN8dyrmYL-AhXP-6QKHXaoBAoQFnoECAYQAQ&url=https%3A%2F%2Fpeerj.com%2Fpreprints%2F26847.pdf&usg=AOvVaw0U0yhoLXnJ1lxl0sbmIRCp](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjN8dyrmYL-AhXP-6QKHXaoBAoQFnoECAYQAQ&url=https%3A%2F%2Fpeerj.com%2Fpreprints%2F26847.pdf&usg=AOvVaw0U0yhoLXnJ1lxl0sbmIRCp)
         * [Massively Multilingual Document Alignment with Cross-lingualSentence-Mover’s Distance](https://youtu.be/0GmRL4rj_dA)
 
 
@@ -122,47 +122,47 @@ c > c: i-3 \leq j \leq i+d+3
 * [x]  Find good text sources
 * [x]  Open a .txt file in Julia
 * [x]  Tokenize sentences in Julia using WordTokenizer.jl
-     - [ ]  https://github.com/JelteF/PyLaTeX → import, vendor, or recreate what I need from scratch?- [ ]  look at this for epub: https://github.com/yihong0618/bilingual_book_maker
+     - [ ]  [JelteF/PyLaTeX](https://github.com/JelteF/PyLaTeX) → import, vendor, or recreate what I need from scratch?- [ ]  look at this for epub: [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker)
      - [ ]  split [pltk repo](https://github.com/yelircaasi/pltk) into multiple projects → decide which language for which one
      - [ ]  Bitext Alignment book
 * Gale-Church
     - [ ]  [Gale-Church Paper](https://aclanthology.org/J93-1004.pdf)
-    - [ ]  https://github.com/TakeLab/Coral
+    - [ ]  [TakeLab/Coral](https://github.com/TakeLab/Coral)
     - [ ]  [NLTK Gale-Church](https://github.com/nltk/nltk/blob/a915791ad501d41dbb7e3c13c4877a734505eaab/nltk/translate/gale_church.py)
-    - [ ]  https://github.com/alvations/gachalign
-    - [ ]  https://github.com/vosmann/galechurch
-    - [ ]  https://github.com/alvations/NTU-MC/blob/master/ntumc/toolkit/gale_church.py
-    - [ ]  https://github.com/dowobeha/Gale_and_Church_1993
-    - [ ]  https://github.com/amake/JAlignRegions
-    - [ ]  https://github.com/gitpan/Text-GaleChurch
-    - [ ]  https://www.sbert.net/index.html
+    - [ ]  [alvations/gachalign](https://github.com/alvations/gachalign)
+    - [ ]  [vosmann/galechurch](https://github.com/vosmann/galechurch)
+    - [ ]  [alvations/NTU-MC/blob/master/ntumc/toolkit/gale_church.py](https://github.com/alvations/NTU-MC/blob/master/ntumc/toolkit/gale_church.py)
+    - [ ]  [dowobeha/Gale_and_Church_1993](https://github.com/dowobeha/Gale_and_Church_1993)
+    - [ ]  [amake/JAlignRegions](https://github.com/amake/JAlignRegions)
+    - [ ]  [gitpan/Text-GaleChurch](https://github.com/gitpan/Text-GaleChurch)
+    - [ ]  [sbert.net/index.html](https://www.sbert.net/index.html)
      - [ ]  [Triplet Transformer Network for Multi-Label Document
 
-Classification](https://dl.acm.org/doi/pdf/10.1145/3558100.3563843)- [ ]  https://github.com/abarthakur/multilabel-deep-metric
-     - [ ]  https://github.com/rsennrich/Bleualign
-     - [ ]  https://github.com/bfsujason/bertalign* https://doi.org/10.1093/llc/fqac089
-     - [ ]  https://github.com/thompsonb/vecalign
-     * [Vecalign: Improved Sentence Alignment in Linear Time and Space](http://aclanthology.lst.uni-saarland.de/D19-1136.pdf)- [ ]  https://github.com/facebookresearch/LASER
-     - [ ]  https://github.com/bojone/labse* https://huggingface.co/sentence-transformers/LaBSE
-     - [ ]  https://github.com/danielvarga/hunalign
-     - [ ]  https://github.com/LowResourceLanguages/champollion
+Classification](https://dl.acm.org/doi/pdf/10.1145/3558100.3563843)- [ ]  [abarthakur/multilabel-deep-metric](https://github.com/abarthakur/multilabel-deep-metric)
+     - [ ]  [rsennrich/Bleualign](https://github.com/rsennrich/Bleualign)
+     - [ ]  [bfsujason/bertalign*](https://github.com/bfsujason/bertalign*) [doi.org/10.1093/llc/fqac089](https://doi.org/10.1093/llc/fqac089)
+     - [ ]  [thompsonb/vecalign](https://github.com/thompsonb/vecalign)
+     * [Vecalign: Improved Sentence Alignment in Linear Time and Space](http://aclanthology.lst.uni-saarland.de/D19-1136.pdf)- [ ]  [facebookresearch/LASER](https://github.com/facebookresearch/LASER)
+     - [ ]  [bojone/labse*](https://github.com/bojone/labse*) [huggingface.co/sentence-transformers/LaBSE](https://huggingface.co/sentence-transformers/LaBSE)
+     - [ ]  [danielvarga/hunalign](https://github.com/danielvarga/hunalign)
+     - [ ]  [LowResourceLanguages/champollion](https://github.com/LowResourceLanguages/champollion)
      - [ ]  [A survey on parallel corpora alignment](http://andrefs.github.io/publications/files/1102_corpalignment_mistar.pdf)- [ ]  [Revisiting sentence alignment algorithms for alignment visualization and evaluation](https://aclanthology.org/www.mt-archive.info/10/BUCC-2012-Yu.pdf)- [ ]  [Improve Sentence Alignment by Divide-and-conquer](https://arxiv.org/abs/2201.06907)- [ ]  [Very Low Resource Sentence Alignment: Luhya and Swahili](https://arxiv.org/abs/2211.00046)- [ ]  [Sentence Alignment with Parallel Documents Facilitates Biomedical Machine Translation](https://arxiv.org/abs/2104.08588)- [ ]  [Bilingual alignment transfers to multilingual alignment for unsupervised parallel text mining](https://arxiv.org/abs/2104.07642)- [ ]  [A New Aligned Simple German Corpus](https://arxiv.org/abs/2209.01106)- [ ]  [Exploiting Parallel Corpora to Improve Multilingual Embedding based Document and Sentence Alignment](https://arxiv.org/abs/2106.06766)- [ ]  [PMIndia -- A Collection of Parallel Corpora of Languages of India](https://arxiv.org/abs/2001.09907)- [ ]  [Robust Cross-lingual Embeddings from Parallel Sentences](https://arxiv.org/abs/1912.12481)- [ ]  [A Large Parallel Corpus of Full-Text Scientific Articles](https://arxiv.org/abs/1905.01852)- [ ]  [Vicinity-Driven Paragraph and Sentence Alignment for Comparable Corpora](https://arxiv.org/abs/1612.04113)- [ ]  [Learning Bilingual Sentence Embeddings via Autoencoding and Computing Similarities with a Multilayer Perceptron](https://arxiv.org/abs/1906.01942)- [ ]
-* [ ]  https://bitbucket.org/tiedemann/lingua-align/wiki/Home
-     - [ ]  https://github.com/robertostling/efmaral
-* [ ]  Later: add desktop gui app using these as dependencies → https://build-system.fman.io/ (or simply pyinstaller) with Darling and Wine to build for all 3 platforms (first try small toy example)
+* [ ]  [bitbucket.org/tiedemann/lingua-align/wiki/Home](https://bitbucket.org/tiedemann/lingua-align/wiki/Home)
+     - [ ]  [robertostling/efmaral](https://github.com/robertostling/efmaral)
+* [ ]  Later: add desktop gui app using these as dependencies → [build-system.fman.io/](https://build-system.fman.io/) (or simply pyinstaller) with Darling and Wine to build for all 3 platforms (first try small toy example)
 
 
 * OLDER
-    - [ ]  https://docs.julialang.org/en/v1/manual/types/
-    - [ ]  write general visualization functions for grids and matrices        - [ ]  plot(0:0.1:1, 0:0.1:1, xticks=[0,0.5,1], yticks=[0,0.5,1])        * http://docs.juliaplots.org/latest/generated/attributes_axis/
+    - [ ]  [docs.julialang.org/en/v1/manual/types/](https://docs.julialang.org/en/v1/manual/types/)
+    - [ ]  write general visualization functions for grids and matrices        - [ ]  plot(0:0.1:1, 0:0.1:1, xticks=[0,0.5,1], yticks=[0,0.5,1])        * [docs.juliaplots.org/latest/generated/attributes_axis/](http://docs.juliaplots.org/latest/generated/attributes_axis/)
     - [ ]  Make geometric weight grid and develop algorithm to find diagonal alignments
     - [ ]  create visualizations of the above
     - [ ]  Make score vector matrix (tensor?)
     - [ ]  Read [Bitext Alignment](https://drive.google.com/file/d/1q7olx20hWgCb85vW4F6YfHiK58JPmYEG/view?usp=sharing)
     - [ ]  Read [Overview of BA Algorithms](https://drive.google.com/file/d/1cVFNvbJ1Tjr-14yQh_l8kYnaOhVumxsp/view?usp=sharing)
     - [ ]  read neural alignment papers / tools
-        -             - [ ]  ‣            - [ ]  ‣            - [ ]  [hunalign – sentence aligner | Média Oktató és Kutató Központ](http://mokk.bme.hu/resources/hunalign/)            - [ ]  https://farkastranslations.com/alignment.php            - [ ]  ‣            - [ ]  ‣            - [ ]  The protein-protein interaction network alignment using recurrent neural network            - [ ]  [Neural Network Alignment for Sentential Paraphrases](https://aclanthology.org/P19-1467.pdf)            - [ ]  Accelerating DNA pairwise sequence alignment using FPGA and a customized convolutional neural network            - [ ]  [Enhanced Self-Organizing Map Neural Network for DNA Sequence Classification](https://file.scirp.org/pdf/IIM_2013012416282128.pdf)            - [ ]  [Neural Time Warping For Multiple Sequence Alignment](https://arxiv.org/abs/2006.15753)            - [ ]  [A Neural Multi-sequence Alignment TeCHnique (NeuMATCH)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Dogan_A_Neural_Multi-Sequence_CVPR_2018_paper.pdf)            - [ ]  [Gapped sequence alignment using artificial neural networks: application to
-            the MHC class I system](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6402319/)            - [ ]  [NN-align. An artificial neural network-based alignment algorithm for MHC class II peptide binding prediction](https://pubmed.ncbi.nlm.nih.gov/19765293/)            - [ ]  [TEMPORAL ALIGNMENT PREDICTION FOR SUPER- VISED REPRESENTATION LEARNING AND FEW-SHOT SEQUENCE CLASSIFICATION](https://openreview.net/pdf?id=p3DKPQ7uaAi)            - [ ]  [High-speed all-optical DNA local sequence alignment based on a three-dimensional artificial neural network](https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-34-7-1173)            - [ ]  https://deepai.org/publication/mask-align-self-supervised-neural-word-alignment            - [ ]  [A Discriminative Neural Model for Cross-Lingual Word Alignment](https://www.arxiv-vanity.com/papers/1909.00444/)            - [ ]  [Bitext Maps and Alignment via Pattern Recognition](https://www.researchgate.net/publication/2478530_Bitext_Maps_and_Alignment_via_Pattern_Recognition)            - [ ]  [An Empirical Investigation of Word Alignment Supervision for Zero-Shot Multilingual Neural Machine Translation]()            - [ ]  [Lesan -- Machine Translation for Low Resource Languages](https://arxiv.org/abs/2112.08191)            - [ ]  [Link-Intensive Alignment for Incomplete Knowledge Graphs](https://arxiv.org/abs/2112.09266)            - [ ]              - [ ]  https://en.wikipedia.org/wiki/Parallel_text (see links!)            - [ ]  http://www-i6.informatik.rwth-aachen.de/web/Tools/GIZA++.html            - [ ]  https://terminotix.com/index.asp?content=item&item=49&lang=en            - [ ]  https://nlp.jhu.edu/parabank/            - [ ]  [Towards Neural Machine Translation with Partially Aligned Corpora](https://arxiv.org/abs/1711.01006)            - [ ]  [WikiMatrix: Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia](https://arxiv.org/abs/1907.05791)            - [ ]
+        -             - [ ]  ‣            - [ ]  ‣            - [ ]  [hunalign – sentence aligner | Média Oktató és Kutató Központ](http://mokk.bme.hu/resources/hunalign/)            - [ ]  [farkastranslations.com/alignment.php](https://farkastranslations.com/alignment.php)            - [ ]  ‣            - [ ]  ‣            - [ ]  The protein-protein interaction network alignment using recurrent neural network            - [ ]  [Neural Network Alignment for Sentential Paraphrases](https://aclanthology.org/P19-1467.pdf)            - [ ]  Accelerating DNA pairwise sequence alignment using FPGA and a customized convolutional neural network            - [ ]  [Enhanced Self-Organizing Map Neural Network for DNA Sequence Classification](https://file.scirp.org/pdf/IIM_2013012416282128.pdf)            - [ ]  [Neural Time Warping For Multiple Sequence Alignment](https://arxiv.org/abs/2006.15753)            - [ ]  [A Neural Multi-sequence Alignment TeCHnique (NeuMATCH)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Dogan_A_Neural_Multi-Sequence_CVPR_2018_paper.pdf)            - [ ]  [Gapped sequence alignment using artificial neural networks: application to
+            the MHC class I system](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6402319/)            - [ ]  [NN-align. An artificial neural network-based alignment algorithm for MHC class II peptide binding prediction](https://pubmed.ncbi.nlm.nih.gov/19765293/)            - [ ]  [TEMPORAL ALIGNMENT PREDICTION FOR SUPER- VISED REPRESENTATION LEARNING AND FEW-SHOT SEQUENCE CLASSIFICATION](https://openreview.net/pdf?id=p3DKPQ7uaAi)            - [ ]  [High-speed all-optical DNA local sequence alignment based on a three-dimensional artificial neural network](https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-34-7-1173)            - [ ]  [deepai.org/publication/mask-align-self-supervised-neural-word-alignment](https://deepai.org/publication/mask-align-self-supervised-neural-word-alignment)            - [ ]  [A Discriminative Neural Model for Cross-Lingual Word Alignment](https://www.arxiv-vanity.com/papers/1909.00444/)            - [ ]  [Bitext Maps and Alignment via Pattern Recognition](https://www.researchgate.net/publication/2478530_Bitext_Maps_and_Alignment_via_Pattern_Recognition)            - [ ]  [An Empirical Investigation of Word Alignment Supervision for Zero-Shot Multilingual Neural Machine Translation]()            - [ ]  [Lesan -- Machine Translation for Low Resource Languages](https://arxiv.org/abs/2112.08191)            - [ ]  [Link-Intensive Alignment for Incomplete Knowledge Graphs](https://arxiv.org/abs/2112.09266)            - [ ]              - [ ]  [en.wikipedia.org/wiki/Parallel_text](https://en.wikipedia.org/wiki/Parallel_text) (see links!)            - [ ]  [www-i6.informatik.rwth-aachen.de/web/Tools/GIZA++.html](http://www-i6.informatik.rwth-aachen.de/web/Tools/GIZA++.html)            - [ ]  [terminotix.com/index.asp?content=item&item=49&lang=en](https://terminotix.com/index.asp?content=item&item=49&lang=en)            - [ ]  [nlp.jhu.edu/parabank/](https://nlp.jhu.edu/parabank/)            - [ ]  [Towards Neural Machine Translation with Partially Aligned Corpora](https://arxiv.org/abs/1711.01006)            - [ ]  [WikiMatrix: Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia](https://arxiv.org/abs/1907.05791)            - [ ]
 
     - [ ]  Read SMT Tutorial Workbook
     - [ ]  Read [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/pdf/1703.01619)
@@ -170,7 +170,7 @@ Classification](https://dl.acm.org/doi/pdf/10.1145/3558100.3563843)- [ ]  https:
     - [ ]  Read Hands-on Design Patterns and Best Practices with Julia
     - [ ]  Read Julia 1.0 Programming Dynamic and High-Performance Programming to Build Fast Scientific Applications
     - [ ]  Read Julia Docs, especially sections on packaging and high-performance tips
-    - [ ]  learn about diff algorithms → application to bitext alignment?        - [ ]  [4 Diff Algorithms in Git](https://link.springer.com/article/10.1007/s10664-019-09772-z)        - [ ]  https://git-scm.com/docs/git-diff        - [ ]  https://en.wikipedia.org/wiki/Diff        - [ ]  https://luppeng.wordpress.com/2020/10/10/when-to-use-each-of-the-git-diff-algorithms/        - [ ]  https://github.com/malvikasharan/Alignment-Algorithms
+    - [ ]  learn about diff algorithms → application to bitext alignment?        - [ ]  [4 Diff Algorithms in Git](https://link.springer.com/article/10.1007/s10664-019-09772-z)        - [ ]  [git-scm.com/docs/git-diff](https://git-scm.com/docs/git-diff)        - [ ]  [en.wikipedia.org/wiki/Diff](https://en.wikipedia.org/wiki/Diff)        - [ ]  [luppeng.wordpress.com/2020/10/10/when-to-use-each-of-the-git-diff-algorithms/](https://luppeng.wordpress.com/2020/10/10/when-to-use-each-of-the-git-diff-algorithms/)        - [ ]  [malvikasharan/Alignment-Algorithms](https://github.com/malvikasharan/Alignment-Algorithms)
     - [ ]  for sentence matching classifier: [Inter-Weighted Alignment Network for Sentence Pair Modeling](https://aclanthology.org/D17-1122.pdf)
     - [ ]  [Improving neural sentence alignment with word translation](https://link.springer.com/article/10.1007/s11704-019-9164-3)
     - [ ]  [Cross-Sentence Alignment with Deep Neural Networks](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj11fSdpaz1AhUG8rsIHQ7JCRUQFnoECAgQAQ&url=https%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-3-030-27947-9_16&usg=AOvVaw0r6O7LmghTzp_vvABO6PyI)
@@ -184,10 +184,10 @@ Classification](https://dl.acm.org/doi/pdf/10.1145/3558100.3563843)- [ ]  https:
     - [ ]  [Folder](https://drive.google.com/drive/folders/1e0e4dfhe6Ln8rBy9P_DFI9mJOfPxbyN0?usp=sharing)
     - [ ]  [Text Technology Project (Quality Resources)](https://docs.google.com/spreadsheets/d/1U0VKGtTF4XOXSPsnb8SFIP5z87IOiDTcwSgDv_SUQww/edit?usp=sharing)
     - [ ]  [downsub.com](http://downsub.com/)
-    - [ ]  http://mp3cut.net/es/#
-    - [ ]  http://toolster.net/mp3_cutter
-    - [ ]  https://audiotrimmer.com/fr/
-    - [ ]  https://www.onlinevideoconverter.com/es/video-converter
+    - [ ]  [mp3cut.net/es/#](http://mp3cut.net/es/#)
+    - [ ]  [toolster.net/mp3_cutter](http://toolster.net/mp3_cutter)
+    - [ ]  [audiotrimmer.com/fr/](https://audiotrimmer.com/fr/)
+    - [ ]  [onlinevideoconverter.com/es/video-converter](https://www.onlinevideoconverter.com/es/video-converter)
     - [ ]  translation practice
     - [ ]  create parallel text (.txt → python → tex)
     - [ ]  vocab test
@@ -232,10 +232,10 @@ Julia
 
 
     → which gui?
-         → https://towardsdatascience.com/6-julia-frameworks-to-create-desktop-guis-and-web-apps-9ae1a941f115
+         → [towardsdatascience.com/6-julia-frameworks-to-create-desktop-guis-and-web-apps-9ae1a941f115](https://towardsdatascience.com/6-julia-frameworks-to-create-desktop-guis-and-web-apps-9ae1a941f115)
 
 
-    → https://syl1.gitbook.io/julia-language-a-concise-tutorial/language-core/11-developing-julia-packages
+    → [syl1.gitbook.io/julia-language-a-concise-tutorial/language-core/11-developing-julia-packages](https://syl1.gitbook.io/julia-language-a-concise-tutorial/language-core/11-developing-julia-packages)
 
 LaTeX
 
@@ -253,11 +253,11 @@ Web interface
 ## Text Sources
 
 
-* https://www.gutenberg.org/
-* https://en.wikisource.org/wiki/Main_Page
-    - https://ws-export.wmcloud.org/?lang=en&title=The_Brothers_Karamazov
-* https://fb2bookfree.com/
-* https://archive.org/ (good for imperfect texts, OCR, etc.)
+* [gutenberg.org/](https://www.gutenberg.org/)
+* [en.wikisource.org/wiki/Main_Page](https://en.wikisource.org/wiki/Main_Page)
+    - [ws-export.wmcloud.org/?lang=en&title=The_Brothers_Karamazov](https://ws-export.wmcloud.org/?lang=en&title=The_Brothers_Karamazov)
+* [fb2bookfree.com/](https://fb2bookfree.com/)
+* [archive.org/](https://archive.org/) (good for imperfect texts, OCR, etc.)
 
 
 ## Preprocessing
@@ -352,8 +352,8 @@ Approaches:
 
 6. translation-based approach
     1. full neural / statistical MT
-    2.  → https://opennmt.net/,     * https://huggingface.co/docs/transformers/model_doc/marian    * https://marian-nmt.github.io/
-    ***** https://opus.nlpl.eu/Opus-MT/
+    2.  → [opennmt.net/,](https://opennmt.net/,)     * [huggingface.co/docs/transformers/model_doc/marian](https://huggingface.co/docs/transformers/model_doc/marian)    * [marian-nmt.github.io/](https://marian-nmt.github.io/)
+    ***** [opus.nlpl.eu/Opus-MT/](https://opus.nlpl.eu/Opus-MT/)
 
 7. RL-based approach: advantage of relatively small action space, typically limited number of look-aheads → how to parametrize environment, policy, etc.? → which algorithm(s) to use?
 
@@ -383,7 +383,7 @@ Modules
 
 3. multilingual alignment with modified version of 1. (more than 2 languages at a time for greater robustness)
 
-→ https://en.wikipedia.org/wiki/Category:Search_algorithms
+→ [en.wikipedia.org/wiki/Category:Search_algorithms](https://en.wikipedia.org/wiki/Category:Search_algorithms)
 
 1. RL-powered search?
 
@@ -401,43 +401,43 @@ Modules
 * interlinear LaTeX generator
     - including from parallel texts
 * GUI app (in Rust? in Julia? in C++?)
-    - https://stackoverflow.com/questions/35328468/how-to-make-a-gui-in-julia
-    - https://dev.to/davidedelpapa/rust-gui-introduction-a-k-a-the-state-of-rust-gui-libraries-as-of-january-2021-40gl
+    - [stackoverflow.com/questions/35328468/how-to-make-a-gui-in-julia](https://stackoverflow.com/questions/35328468/how-to-make-a-gui-in-julia)
+    - [dev.to/davidedelpapa/rust-gui-introduction-a-k-a-the-state-of-rust-gui-libraries-as-of-january-2021-40gl](https://dev.to/davidedelpapa/rust-gui-introduction-a-k-a-the-state-of-rust-gui-libraries-as-of-january-2021-40gl)
 
 Other
 
 → make interlinear reading app and interlinear pdf generator
-* https://github.com/Animenosekai/translate
-* https://github.com/jekbradbury/SpaCy.jl
-* https://genieframework.com/#stipple-section
-* https://genieframework.com/
-* https://github.com/JuliaGizmos/Interact.jl
-* https://github.com/plotly/Dash.jl
-* https://github.com/GenieFramework/StippleDemos
-* https://discourse.julialang.org/t/julia-package-for-ui-development/39469
-* https://github.com/GenieFramework/Stipple.jl
-* https://towardsdatascience.com/6-julia-frameworks-to-create-desktop-guis-and-web-apps-9ae1a941f115
-* https://discourse.julialang.org/t/julia-for-gui-app/416
-* https://juliapackages.com/p/tk
-* https://juliapackages.com/p/qml
-* https://juliapackages.com/p/electron
-* https://juliapackages.com/p/blink
-* https://www.analyticsvidhya.com/blog/2020/08/top-4-sentence-embedding-techniques-using-python/
-* https://openreview.net/forum?id=SyK00v5xx
+* [Animenosekai/translate](https://github.com/Animenosekai/translate)
+* [jekbradbury/SpaCy.jl](https://github.com/jekbradbury/SpaCy.jl)
+* [genieframework.com/#stipple-section](https://genieframework.com/#stipple-section)
+* [genieframework.com/](https://genieframework.com/)
+* [JuliaGizmos/Interact.jl](https://github.com/JuliaGizmos/Interact.jl)
+* [plotly/Dash.jl](https://github.com/plotly/Dash.jl)
+* [GenieFramework/StippleDemos](https://github.com/GenieFramework/StippleDemos)
+* [discourse.julialang.org/t/julia-package-for-ui-development/39469](https://discourse.julialang.org/t/julia-package-for-ui-development/39469)
+* [GenieFramework/Stipple.jl](https://github.com/GenieFramework/Stipple.jl)
+* [towardsdatascience.com/6-julia-frameworks-to-create-desktop-guis-and-web-apps-9ae1a941f115](https://towardsdatascience.com/6-julia-frameworks-to-create-desktop-guis-and-web-apps-9ae1a941f115)
+* [discourse.julialang.org/t/julia-for-gui-app/416](https://discourse.julialang.org/t/julia-for-gui-app/416)
+* [juliapackages.com/p/tk](https://juliapackages.com/p/tk)
+* [juliapackages.com/p/qml](https://juliapackages.com/p/qml)
+* [juliapackages.com/p/electron](https://juliapackages.com/p/electron)
+* [juliapackages.com/p/blink](https://juliapackages.com/p/blink)
+* [analyticsvidhya.com/blog/2020/08/top-4-sentence-embedding-techniques-using-python/](https://www.analyticsvidhya.com/blog/2020/08/top-4-sentence-embedding-techniques-using-python/)
+* [openreview.net/forum?id=SyK00v5xx](https://openreview.net/forum?id=SyK00v5xx)
 
 Language-agnostic BERT Sentence Embedding
-* https://huggingface.co/setu4993/LaBSE
-* https://github.com/chengchingwen
-* https://nextjournal.com/chengchingwen/gsoc-2020-leveraging-hugging-face-transformers-package-in-julia
-* https://huggingface.co/setu4993/LaBSE
-* https://huggingface.co/sentence-transformers/LaBSE
-* https://paperswithcode.com/paper/language-agnostic-bert-sentence-embedding
+* [huggingface.co/setu4993/LaBSE](https://huggingface.co/setu4993/LaBSE)
+* [chengchingwen](https://github.com/chengchingwen)
+* [nextjournal.com/chengchingwen/gsoc-2020-leveraging-hugging-face-transformers-package-in-julia](https://nextjournal.com/chengchingwen/gsoc-2020-leveraging-hugging-face-transformers-package-in-julia)
+* [huggingface.co/setu4993/LaBSE](https://huggingface.co/setu4993/LaBSE)
+* [huggingface.co/sentence-transformers/LaBSE](https://huggingface.co/sentence-transformers/LaBSE)
+* [paperswithcode.com/paper/language-agnostic-bert-sentence-embedding](https://paperswithcode.com/paper/language-agnostic-bert-sentence-embedding)
 * [Language-agnostic BERT Sentence Embedding](https://arxiv.org/abs/2007.01852)
 * [Making Monolingual Sentence Embeddings Multilingual using Knowledge Distillation](https://arxiv.org/abs/2004.09813)
 * [Sentence Embedding Baseline Paper](https://openreview.net/pdf?id=SyK00v5xx)
 * [Learning Word Vectors for 157 Languages](https://arxiv.org/abs/1802.06893)
-* https://arxiv.org/search/?query=bitext+alignment&searchtype=all&source=header
-* https://www.google.com/search?q=transformers+for+sequence+alignment&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari
+* [arxiv.org/search/?query=bitext+alignment&searchtype=all&source=header](https://arxiv.org/search/?query=bitext+alignment&searchtype=all&source=header)
+* [google.com/search?q=transformers+for+sequence+alignment&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari](https://www.google.com/search?q=transformers+for+sequence+alignment&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
 * [Making Monolingual Sentence Embeddings Multilingual using Knowledge Distillation](https://aclanthology.org/2020.emnlp-main.365.pdf)
 * [youtube subtitles parallel corpus - Поиск в Google](https://www.google.com/search?q=youtube+subtitles+parallel+corpus&rlz=1C5CHFA_enUS800US800&oq=youtube+subtitles+parallel+corpus&aqs=chrome..69i57j69i64.10589j0j4&sourceid=chrome&ie=UTF-8)
 
@@ -445,7 +445,7 @@ Language-agnostic BERT Sentence Embedding
 * Ideas and notes
     - [ ]  use soundex index and make score based on comparison to expected soundex overlap for a correct alignment (given language pair and respective sentence lengths) → do same for n-gram overlap
     - [ ]  add error generator (insertion, deletion, even transposition) to training process
-        * https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
+        * [en.wikipedia.org/wiki/List_of_ISO_639-1_codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
         * [Paper on model collapse](https://arxiv.org/abs/2305.17493v2) → reason for strict rule that all alignments in the dataset must be manually checked
 
     goal: get 200 aligned articles and 10 aligned books, including  together with bible translations
@@ -458,12 +458,12 @@ Language-agnostic BERT Sentence Embedding
 
 * Gale-Church
         * [Paper](https://s3.amazonaws.com/tm-town-nlp-resources/Gale-Church+alignment.pdf)
-        * https://github.com/dowobeha/Gale_and_Church_1993
+        * [dowobeha/Gale_and_Church_1993](https://github.com/dowobeha/Gale_and_Church_1993)
 
     ‣ (python)
-        * https://groups.google.com/g/nltk-dev/c/o0AqFbvo46Y?pli=1 (python)
-        * https://www.nltk.org/_modules/nltk/align/gale_church.html
-        * https://www.nltk.org/_modules/nltk/translate/gale_church.html
+        * [groups.google.com/g/nltk-dev/c/o0AqFbvo46Y?pli=1](https://groups.google.com/g/nltk-dev/c/o0AqFbvo46Y?pli=1) (python)
+        * [nltk.org/_modules/nltk/align/gale_church.html](https://www.nltk.org/_modules/nltk/align/gale_church.html)
+        * [nltk.org/_modules/nltk/translate/gale_church.html](https://www.nltk.org/_modules/nltk/translate/gale_church.html)
         * [vosmann/galechurch: An implementation of a language-independent parallel text alignment algorithm by Gale & Church](https://github.com/vosmann/galechurch)
         * [GCA Alignment Algorithm](https://en.wikipedia.org/wiki/Gale%E2%80%93Church_alignment_algorithm)
 
@@ -477,18 +477,18 @@ Language-agnostic BERT Sentence Embedding
         * [K-vec: A New Approach for Aligning Parallel Texts](https://arxiv.org/pdf/cmp-lg/9407021.pdf)
 
         * [Aligning Parallel Texts: Do Methods Developed for English-French Generalize to Asian Languages?](https://core.ac.uk/download/286946188.pdf)
-                * https://nlp.cs.nyu.edu/bma/
+                * [nlp.cs.nyu.edu/bma/](https://nlp.cs.nyu.edu/bma/)
 
         * [Fast-Champollion: A Fast and Robust Sentence Alignment Algorithm](https://aclanthology.org/C10-2081.pdf)
 
-        → https://groups.google.com/g/alt.conspiracy.princess-diana/c/rgkd6fPPcM4
+        → [groups.google.com/g/alt.conspiracy.princess-diana/c/rgkd6fPPcM4](https://groups.google.com/g/alt.conspiracy.princess-diana/c/rgkd6fPPcM4)
 
 * Sentence Embeddings
-        * https://www.sbert.net/
+        * [sbert.net/](https://www.sbert.net/)
         * [Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond](https://arxiv.org/abs/1812.10464)
-        * https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html
-        * https://tfhub.dev/google/collections/LEALLA → https://tfhub.dev/google/LEALLA/LEALLA-small/1 → convert to pytorch/Flux.jl? → ‣
-        * https://tfhub.dev/google/collections/universal-sentence-encoder
+        * [ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html](https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html)
+        * [tfhub.dev/google/collections/LEALLA](https://tfhub.dev/google/collections/LEALLA) → [tfhub.dev/google/LEALLA/LEALLA-small/1](https://tfhub.dev/google/LEALLA/LEALLA-small/1) → convert to pytorch/Flux.jl? → ‣
+        * [tfhub.dev/google/collections/universal-sentence-encoder](https://tfhub.dev/google/collections/universal-sentence-encoder)
 
     ‣
         * [Making Monolingual Sentence Embeddings Multilingual using Knowledge Distillation](https://arxiv.org/abs/2004.09813)
@@ -498,27 +498,27 @@ Language-agnostic BERT Sentence Embedding
 
 * Existing Aligners
     - nltk
-                * http://www.nltk.org/api/nltk.align.html
+                * [nltk.org/api/nltk.align.html](http://www.nltk.org/api/nltk.align.html)
 
     - champollion
-                * http://champollion.sourceforge.net/
+                * [champollion.sourceforge.net/](http://champollion.sourceforge.net/)
 
         ‣
-                * https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/lrec2006-champollion-sentence-aligner.pdf
+                * [ldc.upenn.edu/sites/www.ldc.upenn.edu/files/lrec2006-champollion-sentence-aligner.pdf](https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/lrec2006-champollion-sentence-aligner.pdf)
 
     - gma
-                * https://nlp.cs.nyu.edu/GMA/
+                * [nlp.cs.nyu.edu/GMA/](https://nlp.cs.nyu.edu/GMA/)
 
     - anymalign
     - yalign
-                * https://pypi.python.org/pypi/yalign
+                * [pypi.python.org/pypi/yalign](https://pypi.python.org/pypi/yalign)
 
     - maligna
 
         A new tool for the bilingual text aligning at the sentence level (2008)
 
     - tag-aligner (word-alignment)
-                * http://tag-aligner.sourceforge.net/
+                * [tag-aligner.sourceforge.net/](http://tag-aligner.sourceforge.net/)
 
     - BleuAlign
 
@@ -527,44 +527,44 @@ Language-agnostic BERT Sentence Embedding
         MT-based Sentence Alignment for OCR-generated Parallel Texts
 
     - hunalign
-                * http://mokk.bme.hu/resources/hunalign/
-                * http://nlp.ilsp.gr/redmine/projects/ilsp-fc/wiki/Sentence_Alignment_Setup/11
+                * [mokk.bme.hu/resources/hunalign/](http://mokk.bme.hu/resources/hunalign/)
+                * [nlp.ilsp.gr/redmine/projects/ilsp-fc/wiki/Sentence_Alignment_Setup/11](http://nlp.ilsp.gr/redmine/projects/ilsp-fc/wiki/Sentence_Alignment_Setup/11)
 
     - LF Aligner
     - Gale-Church
-                * https://github.com/vosmann/galechurch
+                * [vosmann/galechurch](https://github.com/vosmann/galechurch)
 
     - alignment-wit-openfst
 
         ‣
 
-    - text-alignment-tool (Python)     * https://pypi.org/project/text-alignment-tool/
+    - text-alignment-tool (Python)     * [pypi.org/project/text-alignment-tool/](https://pypi.org/project/text-alignment-tool/)
     - ‣
     - ‣
     - youalign
-                * http://www.youalign.com/
-                * http://youalign.com/
-                * https://youalign.com/AlignDocs.aspx
+                * [youalign.com/](http://www.youalign.com/)
+                * [youalign.com/](http://youalign.com/)
+                * [youalign.com/AlignDocs.aspx](https://youalign.com/AlignDocs.aspx)
 
     - bitext2tmx
-                * http://bitext2tmx.sourceforge.net/
+                * [bitext2tmx.sourceforge.net/](http://bitext2tmx.sourceforge.net/)
 
-        * https://pypi.python.org/pypi/alignment/1.0.9
-        * https://github.com/clab/fast_align
+        * [pypi.python.org/pypi/alignment/1.0.9](https://pypi.python.org/pypi/alignment/1.0.9)
+        * [clab/fast_align](https://github.com/clab/fast_align)
 
 * Dependency Parsing
         * [maltparser](https://www.maltparser.org/)
 
 * → parallel-text-finisher
-        * https://neonnaut.github.io/    ‣
+        * [neonnaut.github.io/](https://neonnaut.github.io/)    ‣
 
-    for slim docker container: https://stackoverflow.com/questions/27428150/linux-how-to-track-all-files-accessed-by-a-process
+    for slim docker container: [stackoverflow.com/questions/27428150/linux-how-to-track-all-files-accessed-by-a-process](https://stackoverflow.com/questions/27428150/linux-how-to-track-all-files-accessed-by-a-process)
 
     parallel vs reledpar etc.
-        * https://www.ctan.org/topic/parallel
+        * [ctan.org/topic/parallel](https://www.ctan.org/topic/parallel)
 
     - reledpar / reledmac
-                * https://github.com/connectthefuture/ctan/tree/9a0b7c25144c53bd975bbf381687571915ff6a6c/contrib/reledmac/examples
+                * [connectthefuture/ctan/tree/9a0b7c25144c53bd975bbf381687571915ff6a6c/contrib/reledmac/examples](https://github.com/connectthefuture/ctan/tree/9a0b7c25144c53bd975bbf381687571915ff6a6c/contrib/reledmac/examples)
 
         ```
         These 3 packages are deprecated :
@@ -573,44 +573,44 @@ Language-agnostic BERT Sentence Embedding
         	- Learab is unmaintened. You should consider using of XeLaTeX instead.
 
         ```
-                * https://ctan.org/tex-archive/macros/latex/contrib/reledmac
+                * [ctan.org/tex-archive/macros/latex/contrib/reledmac](https://ctan.org/tex-archive/macros/latex/contrib/reledmac)
 
         ‣
 
         ‣
 
-        → https://github.com/koppor/LaTeX-fuer-Geisteswissenschaftler/blob/e2daed40dfc85c34e7776ceb7e2ff99405f63418/paralleleTexte.tex#L4
+        → [koppor/LaTeX-fuer-Geisteswissenschaftler/blob/e2daed40dfc85c34e7776ceb7e2ff99405f63418/paralleleTexte.tex#L4](https://github.com/koppor/LaTeX-fuer-Geisteswissenschaftler/blob/e2daed40dfc85c34e7776ceb7e2ff99405f63418/paralleleTexte.tex#L4)
 
-        → https://github.com/connectthefuture/ctan/blob/9a0b7c25144c53bd975bbf381687571915ff6a6c/contrib/reledmac/examples/3-reledpar_pages_different_languages_lualatex.tex#L4
+        → [connectthefuture/ctan/blob/9a0b7c25144c53bd975bbf381687571915ff6a6c/contrib/reledmac/examples/3-reledpar_pages_different_languages_lualatex.tex#L4](https://github.com/connectthefuture/ctan/blob/9a0b7c25144c53bd975bbf381687571915ff6a6c/contrib/reledmac/examples/3-reledpar_pages_different_languages_lualatex.tex#L4)
 
         etc.
 
         ‣
-                * https://github.com/rrthomas/ledmac/blob/13db51ce02c26f05949f040f894f4de759522b06/examples/4-reledpar_inside-outside-columns.tex#L8
-                * https://github.com/schlcht/microtype/blob/5ac9212a228c66969a63696d266d9449930b4731/testsuite/output-reledmac_lualatex.tex#L4
+                * [rrthomas/ledmac/blob/13db51ce02c26f05949f040f894f4de759522b06/examples/4-reledpar_inside-outside-columns.tex#L8](https://github.com/rrthomas/ledmac/blob/13db51ce02c26f05949f040f894f4de759522b06/examples/4-reledpar_inside-outside-columns.tex#L8)
+                * [schlcht/microtype/blob/5ac9212a228c66969a63696d266d9449930b4731/testsuite/output-reledmac_lualatex.tex#L4](https://github.com/schlcht/microtype/blob/5ac9212a228c66969a63696d266d9449930b4731/testsuite/output-reledmac_lualatex.tex#L4)
 
         ‣
 
         ‣
-                * https://github.com/tla/sr2latex/tree/d47e0b98ae0cbc9216056d6e83e91c8a46c7904e
+                * [tla/sr2latex/tree/d47e0b98ae0cbc9216056d6e83e91c8a46c7904e](https://github.com/tla/sr2latex/tree/d47e0b98ae0cbc9216056d6e83e91c8a46c7904e)
 
         ‣
 
-        → https://github.com/tla
+        → [tla](https://github.com/tla)
 
         ‣
-                * https://www.ctan.org/pkg/paracol
-                * https://github.com/maieul/ledmac/tree/c64c334dccfc89a63f1ba8be43cefc9a93c9dfa8/examples
-                * https://github.com/ilanpillemer/labzik/blob/59e6be5759a9d9b7e2c8b1d0340c6ad5f6e8c38c/labzik.tex#L8
-                * https://github.com/ilanpillemer/ylp/blob/cbc799c41588a0ae2165129b5d317516627882e3/ober/order.tex#L6
+                * [ctan.org/pkg/paracol](https://www.ctan.org/pkg/paracol)
+                * [maieul/ledmac/tree/c64c334dccfc89a63f1ba8be43cefc9a93c9dfa8/examples](https://github.com/maieul/ledmac/tree/c64c334dccfc89a63f1ba8be43cefc9a93c9dfa8/examples)
+                * [ilanpillemer/labzik/blob/59e6be5759a9d9b7e2c8b1d0340c6ad5f6e8c38c/labzik.tex#L8](https://github.com/ilanpillemer/labzik/blob/59e6be5759a9d9b7e2c8b1d0340c6ad5f6e8c38c/labzik.tex#L8)
+                * [ilanpillemer/ylp/blob/cbc799c41588a0ae2165129b5d317516627882e3/ober/order.tex#L6](https://github.com/ilanpillemer/ylp/blob/cbc799c41588a0ae2165129b5d317516627882e3/ober/order.tex#L6)
 
-        * https://github.com/pcast/reader
-        * https://github.com/tomparys/bilingual-reader
+        * [pcast/reader](https://github.com/pcast/reader)
+        * [tomparys/bilingual-reader](https://github.com/tomparys/bilingual-reader)
 
     - transread
 
         * [TransRead: Designing a Bilingual Reading Experience with Machine Translation Technologies](https://aclanthology.org/N16-3006.pdf)
-                * https://transread.limsi.fr/resources.html
+                * [transread.limsi.fr/resources.html](https://transread.limsi.fr/resources.html)
 
     - AglonaReader
 
@@ -618,25 +618,25 @@ Language-agnostic BERT Sentence Embedding
 
         Aglona, PB
 
-        * [BlueD/Aglona-Reader: Aglona Reader for .NET - A program for reading, creating and editing parallel books (books in two languages) in the original ParallelBook format. Home site of the project: https://sites.google.com/site/aglonareader/](https://github.com/BlueD/Aglona-Reader)
+        * [BlueD/Aglona-Reader: Aglona Reader for .NET - A program for reading, creating and editing parallel books (books in two languages) in the original ParallelBook format. Home site of the project: [sites.google.com/site/aglonareader/](https://github.com/BlueD/Aglona-Reader)](https://sites.google.com/site/aglonareader/](https://github.com/BlueD/Aglona-Reader))
 
-        * [Inego/Aglona-Reader: Aglona Reader for .NET - A program for reading, creating and editing parallel books (books in two languages) in the original ParallelBook format. Home site of the project: https://sites.google.com/site/aglonareader/](https://github.com/Inego/Aglona-Reader)
+        * [Inego/Aglona-Reader: Aglona Reader for .NET - A program for reading, creating and editing parallel books (books in two languages) in the original ParallelBook format. Home site of the project: [sites.google.com/site/aglonareader/](https://github.com/Inego/Aglona-Reader)](https://sites.google.com/site/aglonareader/](https://github.com/Inego/Aglona-Reader))
 
         * [Initial version for Git. · Inego/Aglona-Reader@e7ea4c0](https://github.com/Inego/Aglona-Reader/commit/e7ea4c03bf6e317a7a4666dec2977d043fc91185)
-                * https://github.com/Inego/Aglona-Reader
-                * https://github.com/Inego/Aglona-Reader-Android
+                * [Inego/Aglona-Reader](https://github.com/Inego/Aglona-Reader)
+                * [Inego/Aglona-Reader-Android](https://github.com/Inego/Aglona-Reader-Android)
 
     - linguisticreader
-                * https://sites.google.com/site/linguisticgym/home/lang-ru
-                * https://sites.google.com/site/linguisticplayer/home/lang-ru
-                * https://sites.google.com/site/linguisticreader/home/lang-ru
+                * [sites.google.com/site/linguisticgym/home/lang-ru](https://sites.google.com/site/linguisticgym/home/lang-ru)
+                * [sites.google.com/site/linguisticplayer/home/lang-ru](https://sites.google.com/site/linguisticplayer/home/lang-ru)
+                * [sites.google.com/site/linguisticreader/home/lang-ru](https://sites.google.com/site/linguisticreader/home/lang-ru)
 
-        * https://sourceforge.net/projects/akerblad/
-        * https://github.com/BlueD/Aglona-Reader
-        * https://github.com/Inego/Aglona-Reader
-        * https://github.com/Inego/Aglona-Reader/commit/e7ea4c03bf6e317a7a4666dec2977d043fc91185
-        * https://sites.google.com/site/aglonareader/home/lang-de
-        * https://sites.google.com/site/parabooksmaker/home/lang-ru
+        * [sourceforge.net/projects/akerblad/](https://sourceforge.net/projects/akerblad/)
+        * [BlueD/Aglona-Reader](https://github.com/BlueD/Aglona-Reader)
+        * [Inego/Aglona-Reader](https://github.com/Inego/Aglona-Reader)
+        * [Inego/Aglona-Reader/commit/e7ea4c03bf6e317a7a4666dec2977d043fc91185](https://github.com/Inego/Aglona-Reader/commit/e7ea4c03bf6e317a7a4666dec2977d043fc91185)
+        * [sites.google.com/site/aglonareader/home/lang-de](https://sites.google.com/site/aglonareader/home/lang-de)
+        * [sites.google.com/site/parabooksmaker/home/lang-ru](https://sites.google.com/site/parabooksmaker/home/lang-ru)
         * [bitextor/bitextor: Bitextor generates translation memories from multilingual websites.](https://github.com/bitextor/bitextor)
         * [Русский - Linguistic Gym](https://sites.google.com/site/linguisticgym/home/lang-ru)
         * [Русский - Linguistic Player](https://sites.google.com/site/linguisticplayer/home/lang-ru)
@@ -661,13 +661,13 @@ Language-agnostic BERT Sentence Embedding
     - UN
     - World Bank
     - IMF
-    - http://www.childrenslibrary.org/
+    - [childrenslibrary.org/](http://www.childrenslibrary.org/)
     - TED
     - YouTube
         - Khan Academy
         - 3b1b
         - TED subtitles
-        * https://github.com/christos-c/bible-corpus
+        * [christos-c/bible-corpus](https://github.com/christos-c/bible-corpus)
         * [Search · tatoeba · GitHub](https://github.com/search?utf8=%E2%9C%93&q=tatoeba&type=)
         * [thejuicemedia - YouTube - YouTube](https://www.youtube.com/channel/UCKRw8GAAtm27q4R3Q0kst_g)
         * [Lauris Beinerts - YouTube - YouTube](https://www.youtube.com/channel/UCc70aB6IfdZpR6mlTON1qjg)
@@ -676,7 +676,7 @@ Language-agnostic BERT Sentence Embedding
         * [Loading a corpus into the Natural Language Toolkit](https://technaverbascripta.wordpress.com/2012/09/25/loading-a-corpus-into-the-natural-language-toolkit/)
         * [OpenSubtitles2016: Extracting Large Parallel Corpora from Movie and TV Subtitles](http://home.nr.no/~plison/pdfs/cl/lrec2016.pdf)
         * [Multilingual Aligned Corpora From Movie Subtitles](https://hal.archives-ouvertes.fr/file/index/docid/968632/filename/Subtitles_MM-EG.pdf)
-        * https://christos-c.com/bible/
+        * [christos-c.com/bible/](https://christos-c.com/bible/)
         * [NLTK Data](http://www.nltk.org/nltk_data/)
         * [nltk.corpus.reader.xmldocs — NLTK 3.2.5 documentation](http://www.nltk.org/_modules/nltk/corpus/reader/xmldocs.html)
         * [Online monolingual, bilingual and multilingual corpora (mostly with free access)](https://www.translatum.gr/forum/index.php?topic=53574.0)
@@ -685,42 +685,42 @@ Language-agnostic BERT Sentence Embedding
         * [OPUS - an open source parallel corpus](http://opus.nlpl.eu/)
         * [Parallel text - Wikiwand](http://www.wikiwand.com/en/Parallel_text)
         * [Phrase finder - make corpus](https://www.omniglot.com/language/phrases/phrasefinder.php)
-        * http://www.nltk.org/api/nltk.corpus.reader.html
+        * [nltk.org/api/nltk.corpus.reader.html](http://www.nltk.org/api/nltk.corpus.reader.html)
         * [python - load parallel corpora with NLTK and lemmatize english sentences - Stack Overflow](https://stackoverflow.com/questions/27361627/load-parallel-corpora-with-nltk-and-lemmatize-english-sentences)
-        * https://pypi.org/project/python-opensubtitles/
-        * http://cwb.sourceforge.net/documentation.php
-        * http://cwb.sourceforge.net/files/CQP_Tutorial/
+        * [pypi.org/project/python-opensubtitles/](https://pypi.org/project/python-opensubtitles/)
+        * [cwb.sourceforge.net/documentation.php](http://cwb.sourceforge.net/documentation.php)
+        * [cwb.sourceforge.net/files/CQP_Tutorial/](http://cwb.sourceforge.net/files/CQP_Tutorial/)
         * [I made a python script to download subtitles for your movies... : Python](https://www.reddit.com/r/Python/comments/g10v5z/i_made_a_python_script_to_download_subtitles_for/)
-        * https://github.com/agonzalezro/python-opensubtitles
-        * https://wit3.fbk.eu/
-        * http://www.perseus.tufts.edu/hopper/search
-        * https://en.wiktionary.org/wiki/Appendix:Ancient_Greek_Swadesh_list
-        * https://fr.wikibooks.org/wiki/Cat%C3%A9gorie:Mod%C3%A8les_du_livre_de_grec_ancien
+        * [agonzalezro/python-opensubtitles](https://github.com/agonzalezro/python-opensubtitles)
+        * [wit3.fbk.eu/](https://wit3.fbk.eu/)
+        * [perseus.tufts.edu/hopper/search](http://www.perseus.tufts.edu/hopper/search)
+        * [en.wiktionary.org/wiki/Appendix:Ancient_Greek_Swadesh_list](https://en.wiktionary.org/wiki/Appendix:Ancient_Greek_Swadesh_list)
+        * [fr.wikibooks.org/wiki/Cat%C3%A9gorie:Mod%C3%A8les_du_livre_de_grec_ancien](https://fr.wikibooks.org/wiki/Cat%C3%A9gorie:Mod%C3%A8les_du_livre_de_grec_ancien)
         * [OpenSubtitles2016: Extracting Large Parallel Corpora from Movie and TV Subtitles](http://www.lrec-conf.org/proceedings/lrec2016/pdf/947_Paper.pdf)
-        * https://github.com/joy-xiaojizhang/parse-subtitles-corpus
+        * [joy-xiaojizhang/parse-subtitles-corpus](https://github.com/joy-xiaojizhang/parse-subtitles-corpus)
 
 * Sort
 
 
-        * http://www.nltk.org/_modules/nltk/corpus/reader/xmldocs.html
-        * http://www.statmt.org/moses/?n=Moses.LinksToCorpora
-        * https://github.com/Conchylicultor/DeepQA/tree/master/data/opensubs
-        * https://github.com/emericg/OpenSubtitlesDownload
-        * https://informationsmodellierung.uni-graz.at/de/neuigkeiten/detail/article/online-lectures-program-sentiment-analysis-in-literary-studies-2021/
-        * https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Parallel_text.html
-        * https://languagefixation.wordpress.com/2011/02/09/how-to-create-parallel-texts-for-language-learning-part-1/
-        * https://languagefixation.wordpress.com/2011/02/23/how-to-create-parallel-texts-for-language-learning-part-2/
-        * https://pypi.python.org/pypi/python-opensubtitles/0.2.dev0
-        * https://pypi.python.org/pypi/ss/
-        * https://terminotix.com/docs/factsheet_alignfactory_en.pdf
-        * https://www.google.com/search?q=best+languages+for+parallel+text+alignment&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari
-        * https://www.google.com/search?q=bitext+tool&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari
-        * https://www.google.com/search?q=hunalign+with+python&safe=active&client=safari&hl=it-us&prmd=ivn&ei=kkY7Wu-jHsbOjwPOkK_wCQ&start=10&sa=N&biw=320&bih=529
-        * https://www.google.com/search?q=script+to+download+opensubtitles&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari
-        * https://www.google.com/search?safe=active&client=safari&hl=it-us&ei=cM4LWrbYHsnEjwPc3LaoDQ&q=nltk+and+xml&oq=nltk+and+xml&gs_l=mobile-gws-serp.3...67543.72881.0.73215.20.16.1.0.0.0.0.0..0.0....0...1.1.64.mobile-gws-serp..19.1.38.3..35i39k1.196.DuWjKXWR1tQ
-        * https://www.google.com/search?safe=active&client=safari&hl=it-us&ei=hDk7WonVJo3GjwPt6bDQCQ&q=bitext+alignment+tool&oq=bitext+alignment+&gs_l=mobile-gws-serp.1.2.0i22i30k1l5.306512.312175.0.313312.15.15.0.6.6.0.331.2426.0j12j1j1.14.0....0...1c.1.64.mobile-gws-serp..3.12.1150...35i39k1j0i203k1j0i13k1.135.HAcEx-LH2IQ
-        * https://www.reddit.com/r/programming/comments/1l248j/python_script_that_searches_subtitles_for/
-        * https://www.researchgate.net/profile/Joerg_Tiedemann/publication/264849940_Parallel_Data_Tools_and_Interfaces_in_OPUS/links/54d8f66f0cf2970e4e7a6271.pdf
+        * [nltk.org/_modules/nltk/corpus/reader/xmldocs.html](http://www.nltk.org/_modules/nltk/corpus/reader/xmldocs.html)
+        * [statmt.org/moses/?n=Moses.LinksToCorpora](http://www.statmt.org/moses/?n=Moses.LinksToCorpora)
+        * [Conchylicultor/DeepQA/tree/master/data/opensubs](https://github.com/Conchylicultor/DeepQA/tree/master/data/opensubs)
+        * [emericg/OpenSubtitlesDownload](https://github.com/emericg/OpenSubtitlesDownload)
+        * [informationsmodellierung.uni-graz.at/de/neuigkeiten/detail/article/online-lectures-program-sentiment-analysis-in-literary-studies-2021/](https://informationsmodellierung.uni-graz.at/de/neuigkeiten/detail/article/online-lectures-program-sentiment-analysis-in-literary-studies-2021/)
+        * [ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Parallel_text.html](https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Parallel_text.html)
+        * [languagefixation.wordpress.com/2011/02/09/how-to-create-parallel-texts-for-language-learning-part-1/](https://languagefixation.wordpress.com/2011/02/09/how-to-create-parallel-texts-for-language-learning-part-1/)
+        * [languagefixation.wordpress.com/2011/02/23/how-to-create-parallel-texts-for-language-learning-part-2/](https://languagefixation.wordpress.com/2011/02/23/how-to-create-parallel-texts-for-language-learning-part-2/)
+        * [pypi.python.org/pypi/python-opensubtitles/0.2.dev0](https://pypi.python.org/pypi/python-opensubtitles/0.2.dev0)
+        * [pypi.python.org/pypi/ss/](https://pypi.python.org/pypi/ss/)
+        * [terminotix.com/docs/factsheet_alignfactory_en.pdf](https://terminotix.com/docs/factsheet_alignfactory_en.pdf)
+        * [google.com/search?q=best+languages+for+parallel+text+alignment&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari](https://www.google.com/search?q=best+languages+for+parallel+text+alignment&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
+        * [google.com/search?q=bitext+tool&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari](https://www.google.com/search?q=bitext+tool&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
+        * [google.com/search?q=hunalign+with+python&safe=active&client=safari&hl=it-us&prmd=ivn&ei=kkY7Wu-jHsbOjwPOkK_wCQ&start=10&sa=N&biw=320&bih=529](https://www.google.com/search?q=hunalign+with+python&safe=active&client=safari&hl=it-us&prmd=ivn&ei=kkY7Wu-jHsbOjwPOkK_wCQ&start=10&sa=N&biw=320&bih=529)
+        * [google.com/search?q=script+to+download+opensubtitles&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari](https://www.google.com/search?q=script+to+download+opensubtitles&ie=UTF-8&oe=UTF-8&hl=it-us&client=safari)
+        * [google.com/search?safe=active&client=safari&hl=it-us&ei=cM4LWrbYHsnEjwPc3LaoDQ&q=nltk+and+xml&oq=nltk+and+xml&gs_l=mobile-gws-serp.3...67543.72881.0.73215.20.16.1.0.0.0.0.0..0.0....0...1.1.64.mobile-gws-serp..19.1.38.3..35i39k1.196.DuWjKXWR1tQ](https://www.google.com/search?safe=active&client=safari&hl=it-us&ei=cM4LWrbYHsnEjwPc3LaoDQ&q=nltk+and+xml&oq=nltk+and+xml&gs_l=mobile-gws-serp.3...67543.72881.0.73215.20.16.1.0.0.0.0.0..0.0....0...1.1.64.mobile-gws-serp..19.1.38.3..35i39k1.196.DuWjKXWR1tQ)
+        * [google.com/search?safe=active&client=safari&hl=it-us&ei=hDk7WonVJo3GjwPt6bDQCQ&q=bitext+alignment+tool&oq=bitext+alignment+&gs_l=mobile-gws-serp.1.2.0i22i30k1l5.306512.312175.0.313312.15.15.0.6.6.0.331.2426.0j12j1j1.14.0....0...1c.1.64.mobile-gws-serp..3.12.1150...35i39k1j0i203k1j0i13k1.135.HAcEx-LH2IQ](https://www.google.com/search?safe=active&client=safari&hl=it-us&ei=hDk7WonVJo3GjwPt6bDQCQ&q=bitext+alignment+tool&oq=bitext+alignment+&gs_l=mobile-gws-serp.1.2.0i22i30k1l5.306512.312175.0.313312.15.15.0.6.6.0.331.2426.0j12j1j1.14.0....0...1c.1.64.mobile-gws-serp..3.12.1150...35i39k1j0i203k1j0i13k1.135.HAcEx-LH2IQ)
+        * [r/programming/comments/1l248j/python_script_that_searches_subtitles_for/](https://www.reddit.com/r/programming/comments/1l248j/python_script_that_searches_subtitles_for/)
+        * [researchgate.net/profile/Joerg_Tiedemann/publication/264849940_Parallel_Data_Tools_and_Interfaces_in_OPUS/links/54d8f66f0cf2970e4e7a6271.pdf](https://www.researchgate.net/profile/Joerg_Tiedemann/publication/264849940_Parallel_Data_Tools_and_Interfaces_in_OPUS/links/54d8f66f0cf2970e4e7a6271.pdf)
 
     script to download opensubtitles - Cerca con Google
         * [Sentence Alignment](http://www.statmt.org/survey/Topic/SentenceAlignment)
@@ -732,67 +732,67 @@ Language-agnostic BERT Sentence Embedding
     - **bitext alignment code - Ecosia
         * [emk (Eric Kidd)](https://github.com/emk)
         * [Evaluation of Alignment Methods for HTML Parallel Text | SpringerLink](https://link.springer.com/chapter/10.1007/11816508_29?no-access=true)
-        * http://booh.com/wp/blog/bilingual-text-2012
-        * http://learnanylanguage.wikia.com/wiki/Listening-Reading_Method
-        * http://lexicometrica.univ-paris3.fr/compterendu/compterendu1.pdf
-        * http://mi.eng.cam.ac.uk/~wjb31/ppubs/JNLE-REF300-Dec05.pdf
-        * http://nlp.cs.nyu.edu/bma/
-        * http://www.aclweb.org/anthology/N/N16/N16-3006.pdf
-        * http://www.bilingualtext.com/the-one-who-takes-a-nightmare-trip-bilingual-text-english-french.html
-        * http://www.cis.drexel.edu/faculty/thu/research-papers/dawak-547.pdf
-        * http://www.dlsi.ua.es/~mlf/docum/sanchezvillamil06p.pdf
-        * http://www.lancaster.ac.uk/fass/projects/corpus/UCCTS2008Proceedings/papers/Gerdes.pdf
-        * http://www.mt-archive.info/ACL-1996-Haruno.pdf
-        * http://www.statmt.org/
-        * http://www.statmt.org/europarl/
-        * http://www.statmt.org/moses/
-        * http://www.supernova-soft.com/c5/index.php/french/products/text_aligner/
-        * http://yalign.readthedocs.io/en/latest/
-        * https://anymalign.limsi.fr/
-        * https://anymalign.limsi.fr/#start
-        * https://arxiv.org/ftp/arxiv/papers/1509/1509.09093.pdf
-        * https://bitbucket.org/tiedemann/subalign/src
-        * https://fr.scribd.com/document/213266691/Alignment-of-the-Polish-English-Parallel-Text-for-a-Statistical-Machine-Translation
-        * https://gist.github.com/emk/a68c16bc1a8cd4840a5a
-        * https://github.com/angelodel80/CophiAlignment
-        * https://github.com/godlygeek/tabular
-        * https://github.com/gumblex/Bleualign
-        * https://github.com/inikdom/opensubtitles-parser/blob/master/setup.sh
-        * https://github.com/ldmt-muri/alignment-with-openfst
-        * https://github.com/loomchild/maligna
-        * https://github.com/markuskiller/textblob-sent-align
-        * https://github.com/mebubo/paragraph-align
-        * https://github.com/pcast
-        * https://github.com/pcast/hocr-tools
-        * https://groups.google.com/forum/#!topic/alt.conspiracy.princess-diana/rgkd6fPPcM4
-        * https://link.springer.com/chapter/10.1007/11816508_29?no-access=true
-        * https://link.springer.com/chapter/10.1007/3-540-49653-X_15
-        * https://link.springer.com/content/pdf/10.1007%2F3-540-49653-X.pdf
-        * https://parallel-text-aligner.en.softonic.com/
-        * https://secure.avangate.com/order/checkout.php?PRODS=4572175&QTY=1
-        * https://sourceforge.net/projects/aligner/
-        * https://sourceforge.net/projects/aligner/?source=typ_redirect
-        * https://sourceforge.net/projects/champollion/?source=typ_redirect
-        * https://terminotix.com/?lang=en
-        * https://terminotix.com/index.asp?name=AlignFactory&content=item&brand=1&item=4&lang=en
-        * https://transread.limsi.fr/deliverables.html
-        * https://transread.limsi.fr/resources.html
-        * https://wenku.baidu.com/view/5ecc18b7d4d8d15abf234e03.html
-        * https://www.amazon.fr/Bitext-Alignment-J%C3%B6rg-Tiedemann/dp/1608455106
-        * https://www.ecosia.org/search?q=bitext+alignment&addon=chrome&addonversion=2.0.3
-        * https://www.ecosia.org/search?q=bitext+alignment+code&addon=chrome&addonversion=2.0.3
-        * https://www.facebook.com/ParallelBooks
-        * https://www.gelbukh.com/CV/Publications/2006/CIARP-2006-Alignment.pdf
-        * https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/lrec2008-creating-sentence-aligned-parallel-text.pdf
-        * https://www.proz.com/forum/cat_tools_technical_help/280415-abbyy_aligner.html
-        * https://www.youtube.com/watch?v=0Tvw9XNcgB0
+        * [booh.com/wp/blog/bilingual-text-2012](http://booh.com/wp/blog/bilingual-text-2012)
+        * [learnanylanguage.wikia.com/wiki/Listening-Reading_Method](http://learnanylanguage.wikia.com/wiki/Listening-Reading_Method)
+        * [lexicometrica.univ-paris3.fr/compterendu/compterendu1.pdf](http://lexicometrica.univ-paris3.fr/compterendu/compterendu1.pdf)
+        * [mi.eng.cam.ac.uk/~wjb31/ppubs/JNLE-REF300-Dec05.pdf](http://mi.eng.cam.ac.uk/~wjb31/ppubs/JNLE-REF300-Dec05.pdf)
+        * [nlp.cs.nyu.edu/bma/](http://nlp.cs.nyu.edu/bma/)
+        * [aclweb.org/anthology/N/N16/N16-3006.pdf](http://www.aclweb.org/anthology/N/N16/N16-3006.pdf)
+        * [bilingualtext.com/the-one-who-takes-a-nightmare-trip-bilingual-text-english-french.html](http://www.bilingualtext.com/the-one-who-takes-a-nightmare-trip-bilingual-text-english-french.html)
+        * [cis.drexel.edu/faculty/thu/research-papers/dawak-547.pdf](http://www.cis.drexel.edu/faculty/thu/research-papers/dawak-547.pdf)
+        * [dlsi.ua.es/~mlf/docum/sanchezvillamil06p.pdf](http://www.dlsi.ua.es/~mlf/docum/sanchezvillamil06p.pdf)
+        * [lancaster.ac.uk/fass/projects/corpus/UCCTS2008Proceedings/papers/Gerdes.pdf](http://www.lancaster.ac.uk/fass/projects/corpus/UCCTS2008Proceedings/papers/Gerdes.pdf)
+        * [mt-archive.info/ACL-1996-Haruno.pdf](http://www.mt-archive.info/ACL-1996-Haruno.pdf)
+        * [statmt.org/](http://www.statmt.org/)
+        * [statmt.org/europarl/](http://www.statmt.org/europarl/)
+        * [statmt.org/moses/](http://www.statmt.org/moses/)
+        * [supernova-soft.com/c5/index.php/french/products/text_aligner/](http://www.supernova-soft.com/c5/index.php/french/products/text_aligner/)
+        * [yalign.readthedocs.io/en/latest/](http://yalign.readthedocs.io/en/latest/)
+        * [anymalign.limsi.fr/](https://anymalign.limsi.fr/)
+        * [anymalign.limsi.fr/#start](https://anymalign.limsi.fr/#start)
+        * [arxiv.org/ftp/arxiv/papers/1509/1509.09093.pdf](https://arxiv.org/ftp/arxiv/papers/1509/1509.09093.pdf)
+        * [bitbucket.org/tiedemann/subalign/src](https://bitbucket.org/tiedemann/subalign/src)
+        * [fr.scribd.com/document/213266691/Alignment-of-the-Polish-English-Parallel-Text-for-a-Statistical-Machine-Translation](https://fr.scribd.com/document/213266691/Alignment-of-the-Polish-English-Parallel-Text-for-a-Statistical-Machine-Translation)
+        * [gist.github.com/emk/a68c16bc1a8cd4840a5a](https://gist.github.com/emk/a68c16bc1a8cd4840a5a)
+        * [angelodel80/CophiAlignment](https://github.com/angelodel80/CophiAlignment)
+        * [godlygeek/tabular](https://github.com/godlygeek/tabular)
+        * [gumblex/Bleualign](https://github.com/gumblex/Bleualign)
+        * [inikdom/opensubtitles-parser/blob/master/setup.sh](https://github.com/inikdom/opensubtitles-parser/blob/master/setup.sh)
+        * [ldmt-muri/alignment-with-openfst](https://github.com/ldmt-muri/alignment-with-openfst)
+        * [loomchild/maligna](https://github.com/loomchild/maligna)
+        * [markuskiller/textblob-sent-align](https://github.com/markuskiller/textblob-sent-align)
+        * [mebubo/paragraph-align](https://github.com/mebubo/paragraph-align)
+        * [pcast](https://github.com/pcast)
+        * [pcast/hocr-tools](https://github.com/pcast/hocr-tools)
+        * [groups.google.com/forum/#!topic/alt.conspiracy.princess-diana/rgkd6fPPcM4](https://groups.google.com/forum/#!topic/alt.conspiracy.princess-diana/rgkd6fPPcM4)
+        * [link.springer.com/chapter/10.1007/11816508_29?no-access=true](https://link.springer.com/chapter/10.1007/11816508_29?no-access=true)
+        * [link.springer.com/chapter/10.1007/3-540-49653-X_15](https://link.springer.com/chapter/10.1007/3-540-49653-X_15)
+        * [link.springer.com/content/pdf/10.1007%2F3-540-49653-X.pdf](https://link.springer.com/content/pdf/10.1007%2F3-540-49653-X.pdf)
+        * [parallel-text-aligner.en.softonic.com/](https://parallel-text-aligner.en.softonic.com/)
+        * [secure.avangate.com/order/checkout.php?PRODS=4572175&QTY=1](https://secure.avangate.com/order/checkout.php?PRODS=4572175&QTY=1)
+        * [sourceforge.net/projects/aligner/](https://sourceforge.net/projects/aligner/)
+        * [sourceforge.net/projects/aligner/?source=typ_redirect](https://sourceforge.net/projects/aligner/?source=typ_redirect)
+        * [sourceforge.net/projects/champollion/?source=typ_redirect](https://sourceforge.net/projects/champollion/?source=typ_redirect)
+        * [terminotix.com/?lang=en](https://terminotix.com/?lang=en)
+        * [terminotix.com/index.asp?name=AlignFactory&content=item&brand=1&item=4&lang=en](https://terminotix.com/index.asp?name=AlignFactory&content=item&brand=1&item=4&lang=en)
+        * [transread.limsi.fr/deliverables.html](https://transread.limsi.fr/deliverables.html)
+        * [transread.limsi.fr/resources.html](https://transread.limsi.fr/resources.html)
+        * [wenku.baidu.com/view/5ecc18b7d4d8d15abf234e03.html](https://wenku.baidu.com/view/5ecc18b7d4d8d15abf234e03.html)
+        * [amazon.fr/Bitext-Alignment-J%C3%B6rg-Tiedemann/dp/1608455106](https://www.amazon.fr/Bitext-Alignment-J%C3%B6rg-Tiedemann/dp/1608455106)
+        * [ecosia.org/search?q=bitext+alignment&addon=chrome&addonversion=2.0.3](https://www.ecosia.org/search?q=bitext+alignment&addon=chrome&addonversion=2.0.3)
+        * [ecosia.org/search?q=bitext+alignment+code&addon=chrome&addonversion=2.0.3](https://www.ecosia.org/search?q=bitext+alignment+code&addon=chrome&addonversion=2.0.3)
+        * [facebook.com/ParallelBooks](https://www.facebook.com/ParallelBooks)
+        * [gelbukh.com/CV/Publications/2006/CIARP-2006-Alignment.pdf](https://www.gelbukh.com/CV/Publications/2006/CIARP-2006-Alignment.pdf)
+        * [ldc.upenn.edu/sites/www.ldc.upenn.edu/files/lrec2008-creating-sentence-aligned-parallel-text.pdf](https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/lrec2008-creating-sentence-aligned-parallel-text.pdf)
+        * [proz.com/forum/cat_tools_technical_help/280415-abbyy_aligner.html](https://www.proz.com/forum/cat_tools_technical_help/280415-abbyy_aligner.html)
+        * [](https://www.youtube.com/watch?v=0Tvw9XNcgB0)
         * [Nova Text Aligner - Download](https://parallel-text-aligner.en.softonic.com/)
         * [Tiedemann](https://bitbucket.org/tiedemann/lingua-align/src/master/lib/Lingua/Align/)
         * [tiedemann — Bitbucket](https://bitbucket.org/tiedemann/)
         * [Yalign — Yalign 0.1.1 documentation](http://yalign.readthedocs.io/en/latest/)
         * [Global Wordnets *****](http://globalwordnet.org/wordnets-in-the-world/)
-        * http://www.ethicadb.org/index.php?p=&lanid=8&lg=fr&ftop=200px
-        * https://ted2srt.org/#/
+        * [ethicadb.org/index.php?p=&lanid=8&lg=fr&ftop=200px](http://www.ethicadb.org/index.php?p=&lanid=8&lg=fr&ftop=200px)
+        * [ted2srt.org/#/](https://ted2srt.org/#/)
         * [CTK](http://champollion.sourceforge.net/)
         * [Champollion Tool Kit download | SourceForge.net](https://sourceforge.net/projects/champollion/?source=typ_redirect)
         * [Champollion: A Robust Parallel Text Sentence Aligner](https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/lrec2006-champollion-sentence-aligner.pdf)
@@ -800,26 +800,26 @@ Language-agnostic BERT Sentence Embedding
     - TransRead
         * [GitHub - ldmt-muri/alignment-with-openfst](https://github.com/ldmt-muri/alignment-with-openfst)
         * [GitHub - PhilippeFerreiraDeSousa/bitext-matching: Mise en correspondance de bitextes dans des langues différentes](https://github.com/PhilippeFerreiraDeSousa/bitext-matching/)
-        * https://transread.limsi.fr/Resources/AlibiAlignments/README_EN.txt
-        * https://transread.limsi.fr/Resources/AlibiAlignments/
+        * [transread.limsi.fr/Resources/AlibiAlignments/README_EN.txt](https://transread.limsi.fr/Resources/AlibiAlignments/README_EN.txt)
+        * [transread.limsi.fr/Resources/AlibiAlignments/](https://transread.limsi.fr/Resources/AlibiAlignments/)
 
     Parallel - Language Learning
-        * https://github.com/lltk
+        * [lltk](https://github.com/lltk)
         * [incremental reader - perfect for memorizzation](http://www.charlieslanguagepage.com/incrementalreader.htm)
         * [Language Learning Toolkit](https://github.com/lltk)
         * [tkrajina/10000sentences: 10,000 sentences: an Android app to help you learn new words in foreign languages](https://github.com/tkrajina/10000sentences)
-        * http://lwt.sourceforge.net/
+        * [lwt.sourceforge.net/](http://lwt.sourceforge.net/)
         * [Bilingual translations in two columns : LaTeX](https://www.reddit.com/r/LaTeX/comments/44p1h6/bilingual_translations_in_two_columns/)
         * [Parallel bilingual text](http://latex.org/forum/viewtopic.php?f=47&t=11980)
         * [Newest 'parallel' Questions - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/tagged/parallel)
         * [xetex - Syncing text on bilingual pages - TeX - LaTeX Stack Exchange](https://tex.stackexchange.com/questions/86366/syncing-text-on-bilingual-pages)
-        * http://latex.org/forum/viewtopic.php?f=47&t=11980
-        * https://stackoverflow.com/questions/2907327/dual-line-bilingual-paragraph-in-latex
-        * https://www.reddit.com/r/LaTeX/comments/44p1h6/bilingual_translations_in_two_columns/
+        * [latex.org/forum/viewtopic.php?f=47&t=11980](http://latex.org/forum/viewtopic.php?f=47&t=11980)
+        * [stackoverflow.com/questions/2907327/dual-line-bilingual-paragraph-in-latex](https://stackoverflow.com/questions/2907327/dual-line-bilingual-paragraph-in-latex)
+        * [r/LaTeX/comments/44p1h6/bilingual_translations_in_two_columns/](https://www.reddit.com/r/LaTeX/comments/44p1h6/bilingual_translations_in_two_columns/)
 
     - **translation - Dual-line bilingual paragraph in LaTeX - Stack Overflow
         * [CTAN: Paket parallel](https://ctan.org/pkg/parallel)
-        * https://ctan.org/pkg/parallel
+        * [ctan.org/pkg/parallel](https://ctan.org/pkg/parallel)
 
     Bitext Alignment - Teidemann (Drive)
         * [Aligning Parallel Texts_百度文库](https://wenku.baidu.com/view/5ecc18b7d4d8d15abf234e03.html)
@@ -833,37 +833,37 @@ Language-agnostic BERT Sentence Embedding
         * [Segmentation and alignment of parallel text for statistical machine translation](http://mi.eng.cam.ac.uk/~wjb31/ppubs/JNLE-REF300-Dec05.pdf)
         * [Microsoft Word - CIARP-2006.doc](https://www.gelbukh.com/CV/Publications/2006/CIARP-2006-Alignment.pdf)
         * [Di: sentence-aligned bilingual texts - Grupos de Google](https://groups.google.com/forum/#!topic/alt.conspiracy.princess-diana/rgkd6fPPcM4)
-        * http://cltk.org/
-        * http://corpus.quran.com/lemmas.jsp
-        * http://dcc.dickinson.edu/greek-core-list
-        * http://dcc.dickinson.edu/latin-vocabulary-list
-        * http://docs.cltk.org/en/latest/
-        * http://perseus.uchicago.edu/
-        * http://quran.ilmsummit.org/projects/quran/QWF.aspx
-        * http://sosol.perseids.org/sosol/signin
-        * http://thelibrarybasement.com/2013/03/13/a-categorized-tagged-greek-new-testament-corpus/
-        * http://www.academia.edu/20844659/Ancient_Greek_WordNet_Meets_the_Dynamic_Lexicon_the_Example_of_the_Fragments_of_the_Greek_Historians
-        * http://www.charlieslanguagepage.com/
-        * http://www.charlieslanguagepage.com/CWslanguagepage/briefguidetogreek/verb%20conspectus.htm
-        * http://www.charlieslanguagepage.com/CWslanguagepage/OCRmaterials.htm
-        * http://www.dh.uni-leipzig.de/wo/projects/ancient-greek-and-latin-dependency-treebank-2-0/
-        * http://www.dh.uni-leipzig.de/wo/projects/open-greek-and-latin-project/
-        * http://www.digitalclassicist.org/
-        * http://www.lexilogos.com/english/greek_ancient_dictionary.htm
-        * https://github.com/cltk/cltk
-        * https://github.com/janabeck/PPCHiG
-        * https://github.com/machinalis/yalign
-        * https://github.com/shamsuzzamansadi/quranic-corpus
-        * https://perseusdl.github.io/treebank_data/
-        * https://proiel.github.io/
-        * https://stephanus.tlg.uci.edu/index/databases.html
-        * https://stephanus.tlg.uci.edu/Iris/reg.jsp
-        * https://wiki.digitalclassicist.org/Greek_and_Latin_texts_in_digital_form#Texts_with_translations
-        * https://www.lib.uchicago.edu/efts/Woodhouse/
-        * https://www.researchgate.net/post/What_is_the_best_way_to_do_corpus_linguistics_on_Hellenistic_Greek
-        * https://transread.limsi.fr/Resources/SentenceAlignmentConfidenceAnnotation/README
-        * https://www.mackichan.com/index.html?techtalk/646.htm~mainFrame
-        * https://www.ted.com/talks/philip_zimbardo_on_the_psychology_of_evil/transcript?language=fr#t-525821
+        * [cltk.org/](http://cltk.org/)
+        * [corpus.quran.com/lemmas.jsp](http://corpus.quran.com/lemmas.jsp)
+        * [dcc.dickinson.edu/greek-core-list](http://dcc.dickinson.edu/greek-core-list)
+        * [dcc.dickinson.edu/latin-vocabulary-list](http://dcc.dickinson.edu/latin-vocabulary-list)
+        * [docs.cltk.org/en/latest/](http://docs.cltk.org/en/latest/)
+        * [perseus.uchicago.edu/](http://perseus.uchicago.edu/)
+        * [quran.ilmsummit.org/projects/quran/QWF.aspx](http://quran.ilmsummit.org/projects/quran/QWF.aspx)
+        * [sosol.perseids.org/sosol/signin](http://sosol.perseids.org/sosol/signin)
+        * [thelibrarybasement.com/2013/03/13/a-categorized-tagged-greek-new-testament-corpus/](http://thelibrarybasement.com/2013/03/13/a-categorized-tagged-greek-new-testament-corpus/)
+        * [academia.edu/20844659/Ancient_Greek_WordNet_Meets_the_Dynamic_Lexicon_the_Example_of_the_Fragments_of_the_Greek_Historians](http://www.academia.edu/20844659/Ancient_Greek_WordNet_Meets_the_Dynamic_Lexicon_the_Example_of_the_Fragments_of_the_Greek_Historians)
+        * [charlieslanguagepage.com/](http://www.charlieslanguagepage.com/)
+        * [charlieslanguagepage.com/CWslanguagepage/briefguidetogreek/verb%20conspectus.htm](http://www.charlieslanguagepage.com/CWslanguagepage/briefguidetogreek/verb%20conspectus.htm)
+        * [charlieslanguagepage.com/CWslanguagepage/OCRmaterials.htm](http://www.charlieslanguagepage.com/CWslanguagepage/OCRmaterials.htm)
+        * [dh.uni-leipzig.de/wo/projects/ancient-greek-and-latin-dependency-treebank-2-0/](http://www.dh.uni-leipzig.de/wo/projects/ancient-greek-and-latin-dependency-treebank-2-0/)
+        * [dh.uni-leipzig.de/wo/projects/open-greek-and-latin-project/](http://www.dh.uni-leipzig.de/wo/projects/open-greek-and-latin-project/)
+        * [digitalclassicist.org/](http://www.digitalclassicist.org/)
+        * [lexilogos.com/english/greek_ancient_dictionary.htm](http://www.lexilogos.com/english/greek_ancient_dictionary.htm)
+        * [cltk/cltk](https://github.com/cltk/cltk)
+        * [janabeck/PPCHiG](https://github.com/janabeck/PPCHiG)
+        * [machinalis/yalign](https://github.com/machinalis/yalign)
+        * [shamsuzzamansadi/quranic-corpus](https://github.com/shamsuzzamansadi/quranic-corpus)
+        * [perseusdl.github.io/treebank_data/](https://perseusdl.github.io/treebank_data/)
+        * [proiel.github.io/](https://proiel.github.io/)
+        * [stephanus.tlg.uci.edu/index/databases.html](https://stephanus.tlg.uci.edu/index/databases.html)
+        * [stephanus.tlg.uci.edu/Iris/reg.jsp](https://stephanus.tlg.uci.edu/Iris/reg.jsp)
+        * [wiki.digitalclassicist.org/Greek_and_Latin_texts_in_digital_form#Texts_with_translations](https://wiki.digitalclassicist.org/Greek_and_Latin_texts_in_digital_form#Texts_with_translations)
+        * [lib.uchicago.edu/efts/Woodhouse/](https://www.lib.uchicago.edu/efts/Woodhouse/)
+        * [researchgate.net/post/What_is_the_best_way_to_do_corpus_linguistics_on_Hellenistic_Greek](https://www.researchgate.net/post/What_is_the_best_way_to_do_corpus_linguistics_on_Hellenistic_Greek)
+        * [transread.limsi.fr/Resources/SentenceAlignmentConfidenceAnnotation/README](https://transread.limsi.fr/Resources/SentenceAlignmentConfidenceAnnotation/README)
+        * [mackichan.com/index.html?techtalk/646.htm~mainFrame](https://www.mackichan.com/index.html?techtalk/646.htm~mainFrame)
+        * [ted.com/talks/philip_zimbardo_on_the_psychology_of_evil/transcript?language=fr#t-525821](https://www.ted.com/talks/philip_zimbardo_on_the_psychology_of_evil/transcript?language=fr#t-525821)
         * [Juxtalinéaires : éditions scolaires d'auteurs grecs et latins](http://juxtas.pagesperso-orange.fr/)
         * [Latin juxtalinéaire - Traductions d'auteurs latins en mot à mot: juxtalinéaire](http://latinjuxtalineaire.over-blog.com/)
         * [Learn languages in context --> look at html structure](http://www.bilingualtext.com/the-one-who-takes-a-nightmare-trip-bilingual-text-english-french.html)
@@ -871,13 +871,13 @@ Language-agnostic BERT Sentence Embedding
         * [Listening-Reading Method | Learn Any Language | FANDOM powered by Wikia](http://learnanylanguage.wikia.com/wiki/Listening-Reading_Method)
         * [lrec-2008-parallel.dvi](https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/lrec2008-creating-sentence-aligned-parallel-text.pdf)
         * [MacKichan Software - The Home of Scientific WorkPlace, Scientific Word, and Scientific Notebook](https://www.mackichan.com/index.html?techtalk/646.htm~mainFrame)
-        * https://tex.stackexchange.com/questions/86366/syncing-text-on-bilingual-pages
-        * https://tex.stackexchange.com/questions/tagged/parallel
+        * [tex.stackexchange.com/questions/86366/syncing-text-on-bilingual-pages](https://tex.stackexchange.com/questions/86366/syncing-text-on-bilingual-pages)
+        * [tex.stackexchange.com/questions/tagged/parallel](https://tex.stackexchange.com/questions/tagged/parallel)
         * [godlygeek/tabular: Vim script for text filtering and alignment](https://github.com/godlygeek/tabular)
-        * http://alpage.inria.fr/~sagot/
-        * http://globalwordnet.org/arabic-wordnet/awn-browser/
-        * http://homepages.inf.ed.ac.uk/adubey/software/wnbrowser/index.html
-        * http://masterrussian.net/f49/new-russian-english-books-parallelbook-format-20375/
+        * [alpage.inria.fr/~sagot/](http://alpage.inria.fr/~sagot/)
+        * [globalwordnet.org/arabic-wordnet/awn-browser/](http://globalwordnet.org/arabic-wordnet/awn-browser/)
+        * [homepages.inf.ed.ac.uk/adubey/software/wnbrowser/index.html](http://homepages.inf.ed.ac.uk/adubey/software/wnbrowser/index.html)
+        * [masterrussian.net/f49/new-russian-english-books-parallelbook-format-20375/](http://masterrussian.net/f49/new-russian-english-books-parallelbook-format-20375/)
         * [MT-based sentence alignment for OCR-generated parallel texts](http://mt-archive.info/AMTA-2010-Sennrich.pdf)
         * [WCIST_ALIGNER_CR](https://arxiv.org/pdf/1509.09093.pdf)
         * [Wang Pidong's Homepage: sentence-level alignment tools for statistical machine translation](http://wangpidong.blogspot.com/2012/05/sentence-level-alignment-tools-for.html)
@@ -894,8 +894,8 @@ Language-agnostic BERT Sentence Embedding
         * [TransRead](https://transread.limsi.fr/resources.html)
         * [TransRead: Designing a Bilingual Reading Experience with Machine Translation Technologies](http://www.aclweb.org/anthology/N/N16/N16-3006.pdf)
         * [WCIST_ALIGNER_CR](https://arxiv.org/ftp/arxiv/papers/1509/1509.09093.pdf)
-        * [www.ida.liu.se/~jodfo01/gslt/bitext-alignment-jody.pdf](http://www.ida.liu.se/~jodfo01/gslt/bitext-alignment-jody.pdf)
-        * https://www.sketchengine.co.uk/user-guide/user-manual/corpora/setting-up-parallel-corpora/
+        * [ida.liu.se/~jodfo01/gslt/bitext-alignment-jody.pdf](http://www.ida.liu.se/~jodfo01/gslt/bitext-alignment-jody.pdf)
+        * [sketchengine.co.uk/user-guide/user-manual/corpora/setting-up-parallel-corpora/](https://www.sketchengine.co.uk/user-guide/user-manual/corpora/setting-up-parallel-corpora/)
         * [[Corpora-List] Arabic Corpus work in Python](https://mailman.uib.no/public/corpora/2009-October/009362.html)
 
     - ******Multilingual Bible Parallel Corpus
@@ -923,41 +923,41 @@ Language-agnostic BERT Sentence Embedding
         * [GitHub - inikdom/opensubtitles-parser: download, extract, parse and tokenize the opensubtitles dataset with this script](https://github.com/inikdom/opensubtitles-parser)
         * [GitHub - rupss/open-subtitles-scraper](https://github.com/rupss/open-subtitles-scraper)
         * [Glosbe API](https://fr.glosbe.com/a-api)
-        * http://ccat.sas.upenn.edu/plc/kiswahili/video/reading/index.html
-        * http://christos-c.com/bible/
-        * http://cwb.sourceforge.net/download.php
-        * http://homepages.inf.ed.ac.uk/s0787820/bible/
-        * http://opus.lingfil.uu.se/OpenSubtitles2016.php
-        * http://stp.lingfil.uu.se/~joerg/paper/opensubs2016.pdf
-        * http://wolk.pl/tool-for-parallel-corpora-filtering-and-aligning/
-        * http://www.ethicadb.org/pars.php?parid=1&lanid=0&lg=fr&ftop=82px
-        * http://www.ethicadb.org/pars.php?parid=1&lanid=8&lg=fr
-        * http://www.lrec-conf.org/proceedings/lrec2014/pdf/220_Paper.pdf
-        * http://www.mitpressjournals.org/doi/pdf/10.1162/089120103322711578
-        * http://www.nltk.org/_modules/nltk/corpus/reader/xmldocs.html
-        * http://www.wikidoc.org/index.php/Text_corpus
-        * http://www.wikiwand.com/en/Parallel_text
-        * https://corpus.byu.edu/corpora.asp
-        * https://en.wikipedia.org/wiki/List_of_text_corpora
-        * https://forum.language-learners.org/viewtopic.php?t=2013
-        * https://fr.glosbe.com/a-api
-        * https://github.com/AlJohri/OpenSubtitles
-        * https://github.com/emericg/OpenSubtitlesDownload
-        * https://github.com/search?utf8=%E2%9C%93&q=tatoeba&type=
-        * https://hal.archives-ouvertes.fr/file/index/docid/968632/filename/Subtitles_MM-EG.pdf
-        * https://lexicom.courses/
-        * https://mailman.uib.no/public/corpora/2009-October/009362.html
-        * https://stackoverflow.com/questions/27361627/load-parallel-corpora-with-nltk-and-lemmatize-english-sentences
-        * https://tatoeba.org/eng/downloads
-        * https://technaverbascripta.wordpress.com/2012/09/25/loading-a-corpus-into-the-natural-language-toolkit/
-        * https://www.ecosia.org/search?q=tatoeba+to+anki&addon=chrome&addonversion=2.0.3
-        * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4551210/
-        * https://www.omniglot.com/language/phrases/phrasefinder.php
-        * https://www.reddit.com/r/Python/comments/5ctedp/add_a_corpus_to_the_nltk_corpus_and_importing_it/
-        * https://www.sketchengine.co.uk/
-        * https://www.translatum.gr/forum/index.php?topic=53574.0
-        * https://www.youtube.com/channel/UCc70aB6IfdZpR6mlTON1qjg
-        * https://www.youtube.com/channel/UCKRw8GAAtm27q4R3Q0kst_g
+        * [ccat.sas.upenn.edu/plc/kiswahili/video/reading/index.html](http://ccat.sas.upenn.edu/plc/kiswahili/video/reading/index.html)
+        * [christos-c.com/bible/](http://christos-c.com/bible/)
+        * [cwb.sourceforge.net/download.php](http://cwb.sourceforge.net/download.php)
+        * [homepages.inf.ed.ac.uk/s0787820/bible/](http://homepages.inf.ed.ac.uk/s0787820/bible/)
+        * [opus.lingfil.uu.se/OpenSubtitles2016.php](http://opus.lingfil.uu.se/OpenSubtitles2016.php)
+        * [stp.lingfil.uu.se/~joerg/paper/opensubs2016.pdf](http://stp.lingfil.uu.se/~joerg/paper/opensubs2016.pdf)
+        * [wolk.pl/tool-for-parallel-corpora-filtering-and-aligning/](http://wolk.pl/tool-for-parallel-corpora-filtering-and-aligning/)
+        * [ethicadb.org/pars.php?parid=1&lanid=0&lg=fr&ftop=82px](http://www.ethicadb.org/pars.php?parid=1&lanid=0&lg=fr&ftop=82px)
+        * [ethicadb.org/pars.php?parid=1&lanid=8&lg=fr](http://www.ethicadb.org/pars.php?parid=1&lanid=8&lg=fr)
+        * [lrec-conf.org/proceedings/lrec2014/pdf/220_Paper.pdf](http://www.lrec-conf.org/proceedings/lrec2014/pdf/220_Paper.pdf)
+        * [mitpressjournals.org/doi/pdf/10.1162/089120103322711578](http://www.mitpressjournals.org/doi/pdf/10.1162/089120103322711578)
+        * [nltk.org/_modules/nltk/corpus/reader/xmldocs.html](http://www.nltk.org/_modules/nltk/corpus/reader/xmldocs.html)
+        * [wikidoc.org/index.php/Text_corpus](http://www.wikidoc.org/index.php/Text_corpus)
+        * [wikiwand.com/en/Parallel_text](http://www.wikiwand.com/en/Parallel_text)
+        * [corpus.byu.edu/corpora.asp](https://corpus.byu.edu/corpora.asp)
+        * [en.wikipedia.org/wiki/List_of_text_corpora](https://en.wikipedia.org/wiki/List_of_text_corpora)
+        * [forum.language-learners.org/viewtopic.php?t=2013](https://forum.language-learners.org/viewtopic.php?t=2013)
+        * [fr.glosbe.com/a-api](https://fr.glosbe.com/a-api)
+        * [AlJohri/OpenSubtitles](https://github.com/AlJohri/OpenSubtitles)
+        * [emericg/OpenSubtitlesDownload](https://github.com/emericg/OpenSubtitlesDownload)
+        * [search?utf8=%E2%9C%93&q=tatoeba&type=](https://github.com/search?utf8=%E2%9C%93&q=tatoeba&type=)
+        * [hal.archives-ouvertes.fr/file/index/docid/968632/filename/Subtitles_MM-EG.pdf](https://hal.archives-ouvertes.fr/file/index/docid/968632/filename/Subtitles_MM-EG.pdf)
+        * [lexicom.courses/](https://lexicom.courses/)
+        * [mailman.uib.no/public/corpora/2009-October/009362.html](https://mailman.uib.no/public/corpora/2009-October/009362.html)
+        * [stackoverflow.com/questions/27361627/load-parallel-corpora-with-nltk-and-lemmatize-english-sentences](https://stackoverflow.com/questions/27361627/load-parallel-corpora-with-nltk-and-lemmatize-english-sentences)
+        * [tatoeba.org/eng/downloads](https://tatoeba.org/eng/downloads)
+        * [technaverbascripta.wordpress.com/2012/09/25/loading-a-corpus-into-the-natural-language-toolkit/](https://technaverbascripta.wordpress.com/2012/09/25/loading-a-corpus-into-the-natural-language-toolkit/)
+        * [ecosia.org/search?q=tatoeba+to+anki&addon=chrome&addonversion=2.0.3](https://www.ecosia.org/search?q=tatoeba+to+anki&addon=chrome&addonversion=2.0.3)
+        * [ncbi.nlm.nih.gov/pmc/articles/PMC4551210/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4551210/)
+        * [omniglot.com/language/phrases/phrasefinder.php](https://www.omniglot.com/language/phrases/phrasefinder.php)
+        * [r/Python/comments/5ctedp/add_a_corpus_to_the_nltk_corpus_and_importing_it/](https://www.reddit.com/r/Python/comments/5ctedp/add_a_corpus_to_the_nltk_corpus_and_importing_it/)
+        * [sketchengine.co.uk/](https://www.sketchengine.co.uk/)
+        * [translatum.gr/forum/index.php?topic=53574.0](https://www.translatum.gr/forum/index.php?topic=53574.0)
+        * [](https://www.youtube.com/channel/UCc70aB6IfdZpR6mlTON1qjg)
+        * [](https://www.youtube.com/channel/UCKRw8GAAtm27q4R3Q0kst_g)
         * [Resource Report: Building Parallel Text Corpora for Multi-Domain Translation System](https://www.researchgate.net/profile/Riza_Hammam/publication/228848307_Resource_Report_Building_Parallel_Text_Corpora_for_Multi-Domain_Translation_System/links/54fadd950cf2040df21d2f86/Resource-Report-Building-Parallel-Text-Corpora-for-Multi-Domain-Translation-System.pdf)
         * [Text corpus - wikidoc](http://www.wikidoc.org/index.php/Text_corpus)
 
@@ -971,7 +971,7 @@ Language-agnostic BERT Sentence Embedding
         * [Anymalign](https://anymalign.limsi.fr/)
         * [alignment 1.0.9 : Python Package Index](https://pypi.python.org/pypi/alignment/1.0.9)
         * [ABBYY Aligner (CAT Tools Technical Help)](https://www.proz.com/forum/cat_tools_technical_help/280415-abbyy_aligner.html)
-        * https://sourceforge.net/projects/aligner/
+        * [sourceforge.net/projects/aligner/](https://sourceforge.net/projects/aligner/)
 
     - ****tiedemann / subalign / source / — Bitbucket
         * [Bitext Maps and Alignment](http://nlp.cs.nyu.edu/bma/)
@@ -994,9 +994,9 @@ Language-agnostic BERT Sentence Embedding
 
     - **gumblex/Bleualign: Machine-Translation-based sentence alignment tool for parallel text
         * [Creating Bilingual Texts with AlSim Parallel Texts Reader - YouTube](https://www.youtube.com/watch?v=0Tvw9XNcgB0)
-        * https://sites.google.com/view/alsim
-        * https://bitbucket.org/tiedemann/lingua-align/wiki/Home
-        * http://www.nltk.org/howto/wordnet.html
+        * [sites.google.com/view/alsim](https://sites.google.com/view/alsim)
+        * [bitbucket.org/tiedemann/lingua-align/wiki/Home](https://bitbucket.org/tiedemann/lingua-align/wiki/Home)
+        * [nltk.org/howto/wordnet.html](http://www.nltk.org/howto/wordnet.html)
         * [ENPC-Aligner · PyPI](https://pypi.org/project/ENPC-Aligner/1.0.4/)
         * [loomchild/maligna: Bilingual sengence aligner](https://github.com/loomchild/maligna)
         * [mebubo/paragraph-align: Naive alignment of paragraphs in bilingual texts](https://github.com/mebubo/paragraph-align)
@@ -1005,20 +1005,20 @@ Language-agnostic BERT Sentence Embedding
     - ****emk/substudy: Use SRT subtitle files to study foreign languages (in progress)
     - ****substudy: A tool for learning languages using TV shows and subtitles | Random Hacks
     - **Extracting and analyzing subtitles - Lupyan Lab
-        * http://hochulshin.com/python-subtitle-cleaningup/
-        * http://kodi.wiki/view/Add-on:OpenSubtitles.org
-        * http://opus.nlpl.eu/
-        * http://opus.nlpl.eu/OpenSubtitles2018.php
-        * http://video.google.com/timedtext?lang=en&v=aircAruvnKk
-        * http://video.google.com/timedtext?lang=es&v=NI9TLDIPVcs
-        * http://www.randomhacks.net/substudy/
-        * https://bitbucket.org/tiedemann/
-        * https://easypronunciation.com/es/merge-two-subtitle-files-online
-        * https://github.com/byroot/pysrt
-        * https://github.com/emk
-        * https://github.com/emk/substudy
-        * https://www.researchgate.net/profile/Riza_Hammam/publication/228848307_Resource_Report_Building_Parallel_Text_Corpora_for_Multi-Domain_Translation_System/links/54fadd950cf2040df21d2f86/Resource-Report-Building-Parallel-Text-Corpora-for-Multi-Domain-Translation-System.pdf
-        * https://www.webucator.com/blog/2017/04/simple-python-script-extracting-text-srt-file/
+        * [hochulshin.com/python-subtitle-cleaningup/](http://hochulshin.com/python-subtitle-cleaningup/)
+        * [kodi.wiki/view/Add-on:OpenSubtitles.org](http://kodi.wiki/view/Add-on:OpenSubtitles.org)
+        * [opus.nlpl.eu/](http://opus.nlpl.eu/)
+        * [opus.nlpl.eu/OpenSubtitles2018.php](http://opus.nlpl.eu/OpenSubtitles2018.php)
+        * [video.google.com/timedtext?lang=en&v=aircAruvnKk](http://video.google.com/timedtext?lang=en&v=aircAruvnKk)
+        * [video.google.com/timedtext?lang=es&v=NI9TLDIPVcs](http://video.google.com/timedtext?lang=es&v=NI9TLDIPVcs)
+        * [randomhacks.net/substudy/](http://www.randomhacks.net/substudy/)
+        * [bitbucket.org/tiedemann/](https://bitbucket.org/tiedemann/)
+        * [easypronunciation.com/es/merge-two-subtitle-files-online](https://easypronunciation.com/es/merge-two-subtitle-files-online)
+        * [byroot/pysrt](https://github.com/byroot/pysrt)
+        * [emk](https://github.com/emk)
+        * [emk/substudy](https://github.com/emk/substudy)
+        * [researchgate.net/profile/Riza_Hammam/publication/228848307_Resource_Report_Building_Parallel_Text_Corpora_for_Multi-Domain_Translation_System/links/54fadd950cf2040df21d2f86/Resource-Report-Building-Parallel-Text-Corpora-for-Multi-Domain-Translation-System.pdf](https://www.researchgate.net/profile/Riza_Hammam/publication/228848307_Resource_Report_Building_Parallel_Text_Corpora_for_Multi-Domain_Translation_System/links/54fadd950cf2040df21d2f86/Resource-Report-Building-Parallel-Text-Corpora-for-Multi-Domain-Translation-System.pdf)
+        * [webucator.com/blog/2017/04/simple-python-script-extracting-text-srt-file/](https://www.webucator.com/blog/2017/04/simple-python-script-extracting-text-srt-file/)
         * [kaegi/aligner: Fully automatically corrects subtitle with a reference subtitle](https://github.com/kaegi/aligner)
         * [OpenSubs Paper](http://www.lrec-conf.org/proceedings/lrec2008/pdf/76_paper.pdf)
         * [Sample YT video sub link](http://video.google.com/timedtext?lang=en&v=aircAruvnKk)
@@ -1028,12 +1028,12 @@ Language-agnostic BERT Sentence Embedding
     Crash Course
 
     vlogbrothers
-        * https://github.com/search?q=bitext+alignment&type=Repositories
-        * https://github.com/gpetho/MScThesis
+        * [search?q=bitext+alignment&type=Repositories](https://github.com/search?q=bitext+alignment&type=Repositories)
+        * [gpetho/MScThesis](https://github.com/gpetho/MScThesis)
         * [alibaba-edu/simple-effective-text-matching-pytorch](https://github.com/alibaba-edu/simple-effective-text-matching-pytorch)
         * [justusschock/deep_alignment_network_pytorch](https://github.com/justusschock/deep_alignment_network_pytorch)
-        * https://github.com/PhilippeFerreiraDeSousa/bitext-matching
-        * https://github.com/search?q=word+alignment&type=Repositories
+        * [PhilippeFerreiraDeSousa/bitext-matching](https://github.com/PhilippeFerreiraDeSousa/bitext-matching)
+        * [search?q=word+alignment&type=Repositories](https://github.com/search?q=word+alignment&type=Repositories)
         * [Text Technology Project - Hojas de cálculo de Google](https://docs.google.com/spreadsheets/d/1U0VKGtTF4XOXSPsnb8SFIP5z87IOiDTcwSgDv_SUQww/edit#gid=2056055344)
 
 
@@ -1151,22 +1151,22 @@ does HFCC approach gain from mapping not to a single <UNK> token, but instead to
     ‣
         * [SimAlign: High Quality Word Alignments without Parallel Training Data using Static and Contextualized Embeddings](https://arxiv.org/abs/2004.08728v4)
         * [Improving Word Alignment with Contextualized Embedding and Bilingual Dictionary](https://link.springer.com/chapter/10.1007/978-981-16-0705-9_13)
-        * https://www.ruder.io/cross-lingual-embeddings/
+        * [ruder.io/cross-lingual-embeddings/](https://www.ruder.io/cross-lingual-embeddings/)
 
     Drive: Line-a-line: A Tool for Annotating Word-Alignments
-        * https://inventory.clarin.gr/corpus/670
-        * https://www.clarin.eu/resource-families/parallel-corpora
-        * https://huggingface.co/blog/how-to-train-sentence-transformers
+        * [inventory.clarin.gr/corpus/670](https://inventory.clarin.gr/corpus/670)
+        * [clarin.eu/resource-families/parallel-corpora](https://www.clarin.eu/resource-families/parallel-corpora)
+        * [huggingface.co/blog/how-to-train-sentence-transformers](https://huggingface.co/blog/how-to-train-sentence-transformers)
 
     cross-attention: from each word embedding, learn query, key, and value vectors for querying the other sequence
-        * https://stats.stackexchange.com/questions/421935/what-exactly-are-keys-queries-and-values-in-attention-mechanisms
-        * https://paperswithcode.com/task/word-alignment/codeless
-        * https://www.ted.com/people/translators
+        * [stats.stackexchange.com/questions/421935/what-exactly-are-keys-queries-and-values-in-attention-mechanisms](https://stats.stackexchange.com/questions/421935/what-exactly-are-keys-queries-and-values-in-attention-mechanisms)
+        * [paperswithcode.com/task/word-alignment/codeless](https://paperswithcode.com/task/word-alignment/codeless)
+        * [ted.com/people/translators](https://www.ted.com/people/translators)
 
     ‣
-        * https://tesseract-ocr.github.io/tessdoc/
-        * https://www.ted.com/talks?sort=newest&language=pt-br
-        * https://www.statworx.com/content-hub/blog/finetuning-von-tesseract-ocr-fuer-deutsche-rechnungen/
+        * [tesseract-ocr.github.io/tessdoc/](https://tesseract-ocr.github.io/tessdoc/)
+        * [ted.com/talks?sort=newest&language=pt-br](https://www.ted.com/talks?sort=newest&language=pt-br)
+        * [statworx.com/content-hub/blog/finetuning-von-tesseract-ocr-fuer-deutsche-rechnungen/](https://www.statworx.com/content-hub/blog/finetuning-von-tesseract-ocr-fuer-deutsche-rechnungen/)
 
     ‣
 
@@ -1178,7 +1178,7 @@ does HFCC approach gain from mapping not to a single <UNK> token, but instead to
         * [Word Alignment by Fine-tuning Embeddings on Parallel Corpora](https://arxiv.org/abs/2101.08231)
 
     ¡¡Atención para las Redes Neuronales, Claramente Explicadas!!!
-        * https://www.researchgate.net/figure/Comparison-of-the-proposed-algorithm-with-Gale-and-Church-algorithm-for-a-text-where-the_fig2_1871685
+        * [researchgate.net/figure/Comparison-of-the-proposed-algorithm-with-Gale-and-Church-algorithm-for-a-text-where-the_fig2_1871685](https://www.researchgate.net/figure/Comparison-of-the-proposed-algorithm-with-Gale-and-Church-algorithm-for-a-text-where-the_fig2_1871685)
         * [The TransBank Aligner: Cross-Sentence Alignment with Deep Neural Networks](https://link.springer.com/chapter/10.1007/978-3-030-27947-9_16)
         * [Improving neural machine translation with sentence alignment learning](https://www.sciencedirect.com/science/article/abs/pii/S0925231220313473)
         * [[2101.08231] Word Alignment by Fine-tuning Embeddings on Parallel Corpora](https://arxiv.org/abs/2101.08231)
@@ -1276,8 +1276,8 @@ does HFCC approach gain from mapping not to a single <UNK> token, but instead to
 
     - [****hmemcpy/milewski-ctfp-pdf: Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source](https://github.com/hmemcpy/milewski-ctfp-pdf)
         * [Installation — Sentence-Transformers documentation](https://www.sbert.net/docs/installation.html)
-        * https://www.reverso.net/telecharger-extension-navigateur
-        * https://tesseract-ocr.github.io/tessdoc/tess5/TrainingTesseract-5.html#creating-starter-traineddata
+        * [reverso.net/telecharger-extension-navigateur](https://www.reverso.net/telecharger-extension-navigateur)
+        * [tesseract-ocr.github.io/tessdoc/tess5/TrainingTesseract-5.html#creating-starter-traineddata](https://tesseract-ocr.github.io/tessdoc/tess5/TrainingTesseract-5.html#creating-starter-traineddata)
 
 
 Create pretraining set with existing SotA word/sentence aligner and BERT-based method, then correct by hand
@@ -1347,7 +1347,7 @@ how to make hover effects?: word/span highlight → highlight aligned words in c
 
 
 # WiktionaryTool.jl 🌱
-* https://github.com/yelircaasi/wiktionary-etymology-tool
+* [yelircaasi/wiktionary-etymology-tool](https://github.com/yelircaasi/wiktionary-etymology-tool)
 
 
 * Language Candidates
@@ -1377,14 +1377,14 @@ how to make hover effects?: word/span highlight → highlight aligned words in c
     Perl?
 
     - Scheme / Racket / Common Lisp?
-                    * https://lispcookbook.github.io/cl-cookbook/web-scraping.html
+                    * [lispcookbook.github.io/cl-cookbook/web-scraping.html](https://lispcookbook.github.io/cl-cookbook/web-scraping.html)
 
         * [⇒](http://pkgdocs.julialang.org/v1/creating-packages/)
 
 * Similar Projects
-        * [Julia](https://www.youtube.com/watch?v=77gv1Q2PhxQ) → https://github.com/wswu/yawipa
+        * [](https://github.com/wswu/yawipa)
 
-    → https://pypi.org/search/?q=wiktionary
+    → [pypi.org/search/?q=wiktionary](https://pypi.org/search/?q=wiktionary)
 
     → [Suyash458/WiktionaryParser: A Python Wiktionary Parser](https://github.com/Suyash458/WiktionaryParser)
 
@@ -1397,8 +1397,8 @@ how to make hover effects?: word/span highlight → highlight aligned words in c
     → [farleyoli/wiktionary-parser - githubmemory](https://githubmemory.com/repo/farleyoli/wiktionary-parser)
         * [⇒](https://pypi.org/project/pyktionary/)
         * [⇒](https://pypi.org/project/wkt-scraper/)
-        * https://pypi.org/project/wiktextract/
-        * https://github.com/Suyash458/WiktionaryParser
+        * [pypi.org/project/wiktextract/](https://pypi.org/project/wiktextract/)
+        * [Suyash458/WiktionaryParser](https://github.com/Suyash458/WiktionaryParser)
 
 * Applications
 
@@ -1449,52 +1449,52 @@ how to make hover effects?: word/span highlight → highlight aligned words in c
         - → closely related to paremiological projects → use common tools and methodologies where appropriate        - [CLI-Dictionary](https://github.com/Lodobo/CLI-Dictionary) - Scripts for downloading and viewing wiktionary entries from Kaikki.org.
     - Intercomprehension - Etymologically-Related Words
 * Dumps and Dump Parsing
-        * https://github.com/dan1wang/jsonbook-builder
+        * [dan1wang/jsonbook-builder](https://github.com/dan1wang/jsonbook-builder)
 
 * Wiktionary API
-        * https://en.wiktionary.org/w/api.php
-        * https://en.wiktionary.org/api/rest_v1/#/Page_content/get_page_definition_term
+        * [en.wiktionary.org/w/api.php](https://en.wiktionary.org/w/api.php)
+        * [en.wiktionary.org/api/rest_v1/#/Page_content/get_page_definition_term](https://en.wiktionary.org/api/rest_v1/#/Page_content/get_page_definition_term)
 
 * Etymology lists on Wiktionary and Other Data Sources
-        * https://en.wiktionary.org/wiki/Category:Terms_derived_from_Proto-Indo-European
+        * [en.wiktionary.org/wiki/Category:Terms_derived_from_Proto-Indo-European](https://en.wiktionary.org/wiki/Category:Terms_derived_from_Proto-Indo-European)
 
-    → https://en.wiktionary.org/wiki/Category:Terms_derived_from_Ancient_Greek
-        * https://en.wiktionary.org/wiki/Category:Terms_derived_from_Latin
-        * https://en.wiktionary.org/wiki/Category:Terms_derived_from_Arabic
-        * https://en.wiktionary.org/wiki/Category:Terms_derived_from_Hebrew
-        * https://en.wiktionary.org/wiki/Category:Proto-Slavic_lemmas
-        * https://en.wiktionary.org/wiki/Category:Terms_derived_from_Russian
-        * https://en.wiktionary.org/wiki/Category:Terms_derived_from_Old_East_Slavic
-        * https://en.wiktionary.org/wiki/Category:Terms_derived_from_Slavic_languages
-        * https://en.wiktionary.org/wiki/Category:Terms_derived_from_West_Slavic_languages
-        * https://en.wiktionary.org/wiki/Category:Terms_derived_from_Proto-Slavic
-        * https://en.wiktionary.org/wiki/Category:Terms_derived_from_South_Slavic_languages
-        * https://en.wiktionary.org/wiki/Category:Terms_derived_from_Old_Church_Slavonic
-        * https://en.wiktionary.org/wiki/Category:Terms_derived_from_Old_Norse
-        * https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Proto-Germanic
-        * https://en.wiktionary.org/wiki/Category:Terms_derived_from_Yiddish
-        * https://en.wiktionary.org/wiki/Category:Terms_derived_from_French
+    → [en.wiktionary.org/wiki/Category:Terms_derived_from_Ancient_Greek](https://en.wiktionary.org/wiki/Category:Terms_derived_from_Ancient_Greek)
+        * [en.wiktionary.org/wiki/Category:Terms_derived_from_Latin](https://en.wiktionary.org/wiki/Category:Terms_derived_from_Latin)
+        * [en.wiktionary.org/wiki/Category:Terms_derived_from_Arabic](https://en.wiktionary.org/wiki/Category:Terms_derived_from_Arabic)
+        * [en.wiktionary.org/wiki/Category:Terms_derived_from_Hebrew](https://en.wiktionary.org/wiki/Category:Terms_derived_from_Hebrew)
+        * [en.wiktionary.org/wiki/Category:Proto-Slavic_lemmas](https://en.wiktionary.org/wiki/Category:Proto-Slavic_lemmas)
+        * [en.wiktionary.org/wiki/Category:Terms_derived_from_Russian](https://en.wiktionary.org/wiki/Category:Terms_derived_from_Russian)
+        * [en.wiktionary.org/wiki/Category:Terms_derived_from_Old_East_Slavic](https://en.wiktionary.org/wiki/Category:Terms_derived_from_Old_East_Slavic)
+        * [en.wiktionary.org/wiki/Category:Terms_derived_from_Slavic_languages](https://en.wiktionary.org/wiki/Category:Terms_derived_from_Slavic_languages)
+        * [en.wiktionary.org/wiki/Category:Terms_derived_from_West_Slavic_languages](https://en.wiktionary.org/wiki/Category:Terms_derived_from_West_Slavic_languages)
+        * [en.wiktionary.org/wiki/Category:Terms_derived_from_Proto-Slavic](https://en.wiktionary.org/wiki/Category:Terms_derived_from_Proto-Slavic)
+        * [en.wiktionary.org/wiki/Category:Terms_derived_from_South_Slavic_languages](https://en.wiktionary.org/wiki/Category:Terms_derived_from_South_Slavic_languages)
+        * [en.wiktionary.org/wiki/Category:Terms_derived_from_Old_Church_Slavonic](https://en.wiktionary.org/wiki/Category:Terms_derived_from_Old_Church_Slavonic)
+        * [en.wiktionary.org/wiki/Category:Terms_derived_from_Old_Norse](https://en.wiktionary.org/wiki/Category:Terms_derived_from_Old_Norse)
+        * [en.wiktionary.org/wiki/Category:English_terms_derived_from_Proto-Germanic](https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Proto-Germanic)
+        * [en.wiktionary.org/wiki/Category:Terms_derived_from_Yiddish](https://en.wiktionary.org/wiki/Category:Terms_derived_from_Yiddish)
+        * [en.wiktionary.org/wiki/Category:Terms_derived_from_French](https://en.wiktionary.org/wiki/Category:Terms_derived_from_French)
 
     etc.
-        * https://en.wiktionary.org/wiki/Category:Arabic_roots
-        * https://en.wikipedia.org/wiki/Category:Lists_of_loanwords
-        * https://en.wikipedia.org/wiki/List_of_Germanic_and_Latinate_equivalents_in_English
-        * https://en.wiktionary.org/wiki/Category:Terms_derived_from_Hindi
-        * https://en.wiktionary.org/wiki/Category:Terms_derived_from_Hindustani_languages
-        * https://en.wiktionary.org/wiki/Category:Terms_derived_from_Dravidian_languages
-        * https://en.wiktionary.org/wiki/Category:Terms_derived_from_Swahili
-        * https://en.wiktionary.org/wiki/Category:Terms_derived_from_Chinese
-        * https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Chinese
-        * https://en.wiktionary.org/wiki/Category:Terms_by_etymology_by_language
-        * https://en.wiktionary.org/wiki/Category:French_terms_derived_from_North_Germanic_languages
+        * [en.wiktionary.org/wiki/Category:Arabic_roots](https://en.wiktionary.org/wiki/Category:Arabic_roots)
+        * [en.wikipedia.org/wiki/Category:Lists_of_loanwords](https://en.wikipedia.org/wiki/Category:Lists_of_loanwords)
+        * [en.wikipedia.org/wiki/List_of_Germanic_and_Latinate_equivalents_in_English](https://en.wikipedia.org/wiki/List_of_Germanic_and_Latinate_equivalents_in_English)
+        * [en.wiktionary.org/wiki/Category:Terms_derived_from_Hindi](https://en.wiktionary.org/wiki/Category:Terms_derived_from_Hindi)
+        * [en.wiktionary.org/wiki/Category:Terms_derived_from_Hindustani_languages](https://en.wiktionary.org/wiki/Category:Terms_derived_from_Hindustani_languages)
+        * [en.wiktionary.org/wiki/Category:Terms_derived_from_Dravidian_languages](https://en.wiktionary.org/wiki/Category:Terms_derived_from_Dravidian_languages)
+        * [en.wiktionary.org/wiki/Category:Terms_derived_from_Swahili](https://en.wiktionary.org/wiki/Category:Terms_derived_from_Swahili)
+        * [en.wiktionary.org/wiki/Category:Terms_derived_from_Chinese](https://en.wiktionary.org/wiki/Category:Terms_derived_from_Chinese)
+        * [en.wiktionary.org/wiki/Category:English_terms_derived_from_Chinese](https://en.wiktionary.org/wiki/Category:English_terms_derived_from_Chinese)
+        * [en.wiktionary.org/wiki/Category:Terms_by_etymology_by_language](https://en.wiktionary.org/wiki/Category:Terms_by_etymology_by_language)
+        * [en.wiktionary.org/wiki/Category:French_terms_derived_from_North_Germanic_languages](https://en.wiktionary.org/wiki/Category:French_terms_derived_from_North_Germanic_languages)
         * [List of Russian Roots](https://gist.github.com/oskarkv/c7aea99cbc2aeb5098ae)
 
     → BYU roots book
 
     → from frequency lists:
 
-    - https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists
-    - [https://1000mostcommonwords.com](https://1000mostcommonwords.com/)
+    - [en.wiktionary.org/wiki/Wiktionary:Frequency_lists](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists)
+    - [1000mostcommonwords.com](https://1000mostcommonwords.com/)
 
     Ancient Greek Lemmas
 
@@ -1502,18 +1502,18 @@ how to make hover effects?: word/span highlight → highlight aligned words in c
         * [English from Ancient Greek](https://en.wiktionary.org/w/index.php?title=Category:English_terms_derived_from_Ancient_Greek&pagefrom=AILUROPHILE%0Aailurophile#mw-pages)
         * [Terms derived from Ancient Greek](https://en.wiktionary.org/wiki/Category:Terms_derived_from_Ancient_Greek)
         * [Terms derived from Latin](https://en.wiktionary.org/wiki/Category:Terms_derived_from_Latin)
-        * https://en.wiktionary.org/wiki/Category:Terms_derived_from_Proto-Germanic
-        * https://en.wiktionary.org/wiki/Category:Terms_derived_from_Proto-Slavic
-        * https://en.wiktionary.org/wiki/Category:Terms_derived_from_Proto-Semitic
-        * https://en.wiktionary.org/wiki/Category:Terms_derived_from_Proto-Indo-European
+        * [en.wiktionary.org/wiki/Category:Terms_derived_from_Proto-Germanic](https://en.wiktionary.org/wiki/Category:Terms_derived_from_Proto-Germanic)
+        * [en.wiktionary.org/wiki/Category:Terms_derived_from_Proto-Slavic](https://en.wiktionary.org/wiki/Category:Terms_derived_from_Proto-Slavic)
+        * [en.wiktionary.org/wiki/Category:Terms_derived_from_Proto-Semitic](https://en.wiktionary.org/wiki/Category:Terms_derived_from_Proto-Semitic)
+        * [en.wiktionary.org/wiki/Category:Terms_derived_from_Proto-Indo-European](https://en.wiktionary.org/wiki/Category:Terms_derived_from_Proto-Indo-European)
 
 * Scraping
-        * https://julia.school/julia/scraping/
-        * https://www.juliabloggers.com/julia-introduction-to-web-scraping-phivolcs-seismic-events/
-        * http://www.stochasticlifestyle.com/finalizing-julia-package-documentation-testing-coverage-publishing/
-        * https://discourse.julialang.org/t/how-to-start-writing-a-new-julia-package/2864/24
-        * https://github.com/JuliaLang/Example.jl https://github.com/JuliaLang/METADATA.jl/issues https://tobanwiebe.com/blog/2016/08/julia-packaging
-        * https://stackoverflow.com/questions/59825336/how-can-i-do-web-scraping-in-julia
+        * [julia.school/julia/scraping/](https://julia.school/julia/scraping/)
+        * [juliabloggers.com/julia-introduction-to-web-scraping-phivolcs-seismic-events/](https://www.juliabloggers.com/julia-introduction-to-web-scraping-phivolcs-seismic-events/)
+        * [stochasticlifestyle.com/finalizing-julia-package-documentation-testing-coverage-publishing/](http://www.stochasticlifestyle.com/finalizing-julia-package-documentation-testing-coverage-publishing/)
+        * [discourse.julialang.org/t/how-to-start-writing-a-new-julia-package/2864/24](https://discourse.julialang.org/t/how-to-start-writing-a-new-julia-package/2864/24)
+        * [JuliaLang/Example.jl](https://github.com/JuliaLang/Example.jl) [JuliaLang/METADATA.jl/issues](https://github.com/JuliaLang/METADATA.jl/issues) [tobanwiebe.com/blog/2016/08/julia-packaging](https://tobanwiebe.com/blog/2016/08/julia-packaging)
+        * [stackoverflow.com/questions/59825336/how-can-i-do-web-scraping-in-julia](https://stackoverflow.com/questions/59825336/how-can-i-do-web-scraping-in-julia)
 
 
 
@@ -1561,10 +1561,10 @@ Align at word level by pre-trained ASR:
     → same for diphthongs?
     - sequential: each
 * ASR and Alignment
-    - [ ]  https://github.com/xinjli/allosaurus
-    - [ ]  https://github.com/readbeyond/aeneas
+    - [ ]  [xinjli/allosaurus](https://github.com/xinjli/allosaurus)
+    - [ ]  [readbeyond/aeneas](https://github.com/readbeyond/aeneas)
     - [ ]  [Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/en/latest/)
-    - [ ]  https://babel.ling.upenn.edu/phonetics/old_website_2015/p2fa/index.html
+    - [ ]  [babel.ling.upenn.edu/phonetics/old_website_2015/p2fa/index.html](https://babel.ling.upenn.edu/phonetics/old_website_2015/p2fa/index.html)
     - [ ]  [Label-Synchronous Speech-to-Text Alignment for ASR Using Forward and Backward Transformers](https://arxiv.org/abs/2104.10328)
     - [ ]  [Text and Speech Alignment Methods for Speech Translation Corpora Creation](https://uu.diva-portal.org/smash/get/diva2:1440026/FULLTEXT01.pdf)
     - [ ]  [SailAlign: Robust long speech-text alignment](https://sail.usc.edu/publications/files/KatsamanisEtAl_SailAlign_VLSRP2011.pdf)
@@ -1573,15 +1573,15 @@ Align at word level by pre-trained ASR:
     - [ ]  Text-to-Speech Alignment for Imperfect Transcriptions
     - [ ]  ALIGNMENT OF SPEECH TO HIGHLY IMPERFECT TEXT TRANSCRIPTIONS
     - [ ]  [Weakly-supervised text-to-speech alignment confidence measure](https://aclanthology.org/C16-1192.pdf)
-    - [ ]  https://github.com/as-ideas/DeepForcedAligner
+    - [ ]  [as-ideas/DeepForcedAligner](https://github.com/as-ideas/DeepForcedAligner)
     - [ ]  [NeuFA: Neural Network Based End-to-End Forced Alignment with Bidirectional Attention Mechanism](https://arxiv.org/abs/2203.16838)
-    - [ ]  https://app.litmaps.com/seed/178150517
-    - [ ]  https://app.litmaps.com/seed/253654604
-    - [ ]  https://app.litmaps.com/seed/253654604
-    - [ ]  https://app.litmaps.com/seed/246165086
-    - [ ]  https://app.litmaps.com/seed/93108309
-    - [ ]  https://app.litmaps.com/seed/238756929
-    - [ ]  https://app.litmaps.com/seed/15327392
+    - [ ]  [app.litmaps.com/seed/178150517](https://app.litmaps.com/seed/178150517)
+    - [ ]  [app.litmaps.com/seed/253654604](https://app.litmaps.com/seed/253654604)
+    - [ ]  [app.litmaps.com/seed/253654604](https://app.litmaps.com/seed/253654604)
+    - [ ]  [app.litmaps.com/seed/246165086](https://app.litmaps.com/seed/246165086)
+    - [ ]  [app.litmaps.com/seed/93108309](https://app.litmaps.com/seed/93108309)
+    - [ ]  [app.litmaps.com/seed/238756929](https://app.litmaps.com/seed/238756929)
+    - [ ]  [app.litmaps.com/seed/15327392](https://app.litmaps.com/seed/15327392)
     - [ ]  [MFA](https://www.semanticscholar.org/paper/Montreal-Forced-Aligner%3A-Trainable-Text-Speech-McAuliffe-Socolof/9e8b06c60722fee06d7f01d4eeaf3ae81e0247d7)
 * TTS
         * [Papers with Code - Text-To-Speech Synthesis](https://paperswithcode.com/task/text-to-speech-synthesis/)
@@ -1589,10 +1589,10 @@ Align at word level by pre-trained ASR:
 
     - Data Augmentation        - [ ]  → use all (or many) n-grams of appropriate length for early training, then only proper phrase/sentence splits for later finer training
         → separate models for word-level and phrase/sentence-level TTS (but p/s-level highest priority)        - [ ]  Low-resource expressive text-to-speech using data augmentation        - [ ]  [Text-to-speech system for low-resource language using cross-lingual transfer learning and data augmentation](https://asmp-eurasipjournals.springeropen.com/articles/10.1186/s13636-021-00225-4)        - [ ]  [SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition](https://arxiv.org/abs/1904.08779)
-    - [ ]  https://speechresearch.github.io/fastspeech2/
-    - [ ]  https://paperswithcode.com/method/fastspeech-2
+    - [ ]  [speechresearch.github.io/fastspeech2/](https://speechresearch.github.io/fastspeech2/)
+    - [ ]  [paperswithcode.com/method/fastspeech-2](https://paperswithcode.com/method/fastspeech-2)
     - [ ]  [Requirements and Motivations of Low-Resource Speech Synthesis for Language Revitalization](https://aclanthology.org/2022.acl-long.507.pdf)
-    - [ ]  https://www.datacamp.com/tutorial/complete-guide-data-augmentation
+    - [ ]  [datacamp.com/tutorial/complete-guide-data-augmentation](https://www.datacamp.com/tutorial/complete-guide-data-augmentation)
     - [ ]  [SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition](https://paperswithcode.com/paper/specaugment-a-simple-data-augmentation-method)
     - [ ]  [Multi-speaker TTS system for low-resource language using cross-lingual transfer learning and data augmentation](http://www.apsipa.org/proceedings/2021/pdfs/0000849.pdf)
     - [ ]  [TTS-by-TTS 2: Data-selective augmentation for neural speech synthesis using ranking support vector machine with variational autoencoder](https://arxiv.org/abs/2206.14984)
@@ -1607,50 +1607,50 @@ Align at word level by pre-trained ASR:
     → all perturbations should be quite small to maintain quality of the data
     → how to normalize speed? what is one “unit”? →  regression problem? system of equations with weights to learn for each letter (here → variable)? how to maintain speech when speeding up?
     - [ ]  weight rarer phonemes and/or phoneme sequences more heavily in the training data?
-    - [ ]  https://www.reddit.com/r/LanguageTechnology/comments/rz8epu/coqui_introduces_yourtts_a_zerosample
-    - [ ]  https://github.com/coqui-ai/TTS
-    - [ ]  https://github.com/mozilla/TTS
+    - [ ]  [r/LanguageTechnology/comments/rz8epu/coqui_introduces_yourtts_a_zerosample](https://www.reddit.com/r/LanguageTechnology/comments/rz8epu/coqui_introduces_yourtts_a_zerosample)
+    - [ ]  [coqui-ai/TTS](https://github.com/coqui-ai/TTS)
+    - [ ]  [mozilla/TTS](https://github.com/mozilla/TTS)
     - [ ]  [Transfer Learning Framework for Low-Resource Text-to-Speech using a Large-Scale Unlabeled Speech Corpus](https://arxiv.org/abs/2203.15447)
-    - [ ]  https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/tts/datasets.html
-    - [ ]  https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/core/core.html
-    - [ ]  https://www.tensorflow.org/datasets/catalog/ljspeech
+    - [ ]  [docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/tts/datasets.html](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/tts/datasets.html)
+    - [ ]  [docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/core/core.html](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/core/core.html)
+    - [ ]  [tensorflow.org/datasets/catalog/ljspeech](https://www.tensorflow.org/datasets/catalog/ljspeech)
     - [ ]  [A Survey on Neural Speech Synthesis](https://arxiv.org/abs/2106.15561)
-    - [ ]  https://github.com/imics-lab/tts-gan
-    - [ ]  **** https://ogunlao.github.io/blog/2021/01/26/how-to-create-speech-dataset.html
+    - [ ]  [imics-lab/tts-gan](https://github.com/imics-lab/tts-gan)
+    - [ ]  **** [ogunlao.github.io/blog/2021/01/26/how-to-create-speech-dataset.html](https://ogunlao.github.io/blog/2021/01/26/how-to-create-speech-dataset.html)
     → should use phrase and sentence breaks as much as possible
     → use accent sequence patterns to identify likely grammatical phrases and reasonable breakpoints
-    - [ ]  https://pytorch.org/audio/main/tutorials/forced_alignment_tutorial.html
-    - [ ]  https://github.com/tiefenauer/forced-alignment
+    - [ ]  [pytorch.org/audio/main/tutorials/forced_alignment_tutorial.html](https://pytorch.org/audio/main/tutorials/forced_alignment_tutorial.html)
+    - [ ]  [tiefenauer/forced-alignment](https://github.com/tiefenauer/forced-alignment)
     - [ ]
         * [GitHub - enhuiz/vall-e: An unofficial PyTorch implementation of the audio LM VALL-E](https://github.com/enhuiz/vall-e)
         * [GitHub - wenet-e2e/speech-synthesis-paper: List of speech synthesis papers.](https://github.com/wenet-e2e/speech-synthesis-paper)
         * [End-to-End Adversarial Text-to-Speech (Paper Explained)](https://www.youtube.com/watch?v=WTB2p4bqtXU)
 
-* https://ogunlao.github.io/blog/2020/07/17/breaking-down-ctc-loss.html
+* [ogunlao.github.io/blog/2020/07/17/breaking-down-ctc-loss.html](https://ogunlao.github.io/blog/2020/07/17/breaking-down-ctc-loss.html)
 * [wav2vec video](https://youtu.be/8Kpowre6yyk)
 * [Speech & Music | Applied Deep Learning](https://www.youtube.com/playlist?list=PLoEMreTa9CNkL5fCXx50MN6nwWvsJgio6)
-* https://www.graphcore.ai/posts/how-to-use-openais-whisper-for-speech-recognition
+* [graphcore.ai/posts/how-to-use-openais-whisper-for-speech-recognition](https://www.graphcore.ai/posts/how-to-use-openais-whisper-for-speech-recognition)
 
 
 * TTS LA/GRC
         * [Audio samples from "Semi-Supervised Training for Improving Data Efficiency in End-to-End Speech Synthesis"](https://google.github.io/tacotron/publications/semisupervised/)
         * [How much dataset is needed at least to train on your version? · Issue #12 · NVIDIA/tacotron2 · GitHub](https://github.com/NVIDIA/tacotron2/issues/12)
         * [How to train a new model with dataset of diffirent language? · Issue #321 · NVIDIA/tacotron2 · GitHub](https://github.com/NVIDIA/tacotron2/issues/321)
-        * https://ancientgreek.eu/
-        * https://latinitium.com/learn-latin-with-video-and-audio-70-hours-of-spoken-latin/
-        * https://linguae.weebly.com/latin-speech-engines.html
-        * https://luke-ranieri.myshopify.com/
-        * https://luke-ranieri.myshopify.com/products/gospel-of-john-english-latin-greek-trilingual-audiobook-text
-        * https://medium.com/@rajanieprabha/tacotron-2-implementation-and-experiments-832695b1c86e
-        * https://medium.com/@rajanieprabha/tacotron-2-implementation-and-experiments-832695b1c86e
-        * https://youtube.com/c/Latinitium
-        * https://youtube.com/c/ScorpioMartianus
+        * [ancientgreek.eu/](https://ancientgreek.eu/)
+        * [latinitium.com/learn-latin-with-video-and-audio-70-hours-of-spoken-latin/](https://latinitium.com/learn-latin-with-video-and-audio-70-hours-of-spoken-latin/)
+        * [linguae.weebly.com/latin-speech-engines.html](https://linguae.weebly.com/latin-speech-engines.html)
+        * [luke-ranieri.myshopify.com/](https://luke-ranieri.myshopify.com/)
+        * [luke-ranieri.myshopify.com/products/gospel-of-john-english-latin-greek-trilingual-audiobook-text](https://luke-ranieri.myshopify.com/products/gospel-of-john-english-latin-greek-trilingual-audiobook-text)
+        * [medium.com/@rajanieprabha/tacotron-2-implementation-and-experiments-832695b1c86e](https://medium.com/@rajanieprabha/tacotron-2-implementation-and-experiments-832695b1c86e)
+        * [medium.com/@rajanieprabha/tacotron-2-implementation-and-experiments-832695b1c86e](https://medium.com/@rajanieprabha/tacotron-2-implementation-and-experiments-832695b1c86e)
+        * [youtube.com/c/Latinitium](https://youtube.com/c/Latinitium)
+        * [youtube.com/c/ScorpioMartianus](https://youtube.com/c/ScorpioMartianus)
         * [Is this good result · Issue #200 · Rayhane-mamah/Tacotron-2 · GitHub](https://github.com/Rayhane-mamah/Tacotron-2/issues/200)
         * [SpeedySpeech](https://arxiv.org/pdf/2008.03802.pdf)
 
 * [Why learn ancient Greek? - YouTube](https://www.youtube.com/watch?v=0y6xa2O8VeE)
 * [What Classical Attic ACTUALLY sounded like 🤯 Vulgar Attic pronunciation (English & Latin subtitles) - YouTube](https://www.youtube.com/watch?v=TBIZ2WRfAgY)
-* [Introducing Voicebox: The Most Versatile AI for Speech Generation | Meta](https://about.fb.com/news/2023/06/introducing-voicebox-ai-for-speech-generation/?utm_source=tldrnewsletter)
+* [Introducing Voicebox: The Most Versatile AI for Speech Generation | Meta](https://about.fb.com/news/2023/06/introducing-voicebox-ai-for-speech-generation/)
 
 
 ### Podium Arts
@@ -1659,8 +1659,8 @@ Align at word level by pre-trained ASR:
 # Podium Arts
 
 
-* https://ancientgreek.eu/
-* https://www.youtube.com/@Podium-arts
+* [ancientgreek.eu/](https://ancientgreek.eu/)
+* [](https://www.youtube.com/@Podium-arts)
 
 
 # YouTube
@@ -1913,19 +1913,19 @@ Align at word level by pre-trained ASR:
 # Latinitium
 
 
-* https://latinitium.com/category/2000-years-of-latin-prose/
-* https://www.youtube.com/@Latinitium
-* https://soundcloud.com/user-327529648
-* https://store.latinitium.com/products/evangelium-lucae-audiobook (224 / 16)
-* https://store.latinitium.com/collections/pugio-bruti-a-crime-story-in-easy-latin, https://dokumen.pub/pugio-bruti.html (102 / 16)
-* https://store.latinitium.com/collections/ad-alpes-a-tale-of-roman-life (440 / 39)
-* https://store.latinitium.com/collections/familia-romana-audiobook (495 / 39)
-* https://store.latinitium.com/products/ritchie-s-fabulae-faciles-audiobook (152 / 16)
+* [latinitium.com/category/2000-years-of-latin-prose/](https://latinitium.com/category/2000-years-of-latin-prose/)
+* [](https://www.youtube.com/@Latinitium)
+* [soundcloud.com/user-327529648](https://soundcloud.com/user-327529648)
+* [store.latinitium.com/products/evangelium-lucae-audiobook](https://store.latinitium.com/products/evangelium-lucae-audiobook) (224 / 16)
+* [store.latinitium.com/collections/pugio-bruti-a-crime-story-in-easy-latin,](https://store.latinitium.com/collections/pugio-bruti-a-crime-story-in-easy-latin,) [dokumen.pub/pugio-bruti.html](https://dokumen.pub/pugio-bruti.html) (102 / 16)
+* [store.latinitium.com/collections/ad-alpes-a-tale-of-roman-life](https://store.latinitium.com/collections/ad-alpes-a-tale-of-roman-life) (440 / 39)
+* [store.latinitium.com/collections/familia-romana-audiobook](https://store.latinitium.com/collections/familia-romana-audiobook) (495 / 39)
+* [store.latinitium.com/products/ritchie-s-fabulae-faciles-audiobook](https://store.latinitium.com/products/ritchie-s-fabulae-faciles-audiobook) (152 / 16)
 
 → 1413 / 126 (23.5h)
 
 
-# https://latinitium.com/latin-audio-archive
+# [latinitium.com/latin-audio-archive](https://latinitium.com/latin-audio-archive)
 
 
 * [The Story Of Androclus And The Lion](https://latinitium.com/latin-audio-archive#The_Story_Of_Androclus_And_The_Lion)
@@ -1975,7 +1975,7 @@ Align at word level by pre-trained ASR:
 
 
 # Latinum
-* https://www.patreon.com/posts/download-8843692
+* [patreon.com/posts/download-8843692](https://www.patreon.com/posts/download-8843692)
 
 
 ## # interlineator
@@ -2009,7 +2009,7 @@ B) Convolutional (+ attention?) binary classifier native vs non-native, good for
 
 * make as a plugin to Praat? or similar, but with a more polished interface?
 *
-* https://apps.kde.org/artikulate/
+* [apps.kde.org/artikulate/](https://apps.kde.org/artikulate/)
 
 make GAN-/RL-based accent trainer.
 
@@ -2030,7 +2030,7 @@ Should be invariant to pitch and timbre
 
     - CLI for viewing parallel texts in the terminal
 
-    Vocalizer: add diacritics to language (seq2seq package) - for arabic, hebrew, ancient greek, latin (with macros → https://github.com/Alatius/latin-macronizer), http://ictibus.blogspot.com/, http://ilovegooglebooks.blogspot.com/search/label/macrons, russian → https://russiangram.com/, easy test case for training data, ukrainian
+    Vocalizer: add diacritics to language (seq2seq package) - for arabic, hebrew, ancient greek, latin (with macros → [Alatius/latin-macronizer),](https://github.com/Alatius/latin-macronizer),) [ictibus.blogspot.com/,](http://ictibus.blogspot.com/,) [ilovegooglebooks.blogspot.com/search/label/macrons,](http://ilovegooglebooks.blogspot.com/search/label/macrons,) russian → [russiangram.com/,](https://russiangram.com/,) easy test case for training data, ukrainian
 
     Latin error detector: fix wrong endings → right architecture for finding single location (here error) in a sequence
 
@@ -2041,4 +2041,4 @@ Should be invariant to pitch and timbre
 
 
 ## Expression Translation Tables (→ Multi-Word Expression Project, Proverbs Project)
-* https://en.wiktionary.org/wiki/Category:Multiword_terms_by_language
+* [en.wiktionary.org/wiki/Category:Multiword_terms_by_language](https://en.wiktionary.org/wiki/Category:Multiword_terms_by_language)

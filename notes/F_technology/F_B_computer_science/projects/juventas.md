@@ -1,15 +1,15 @@
 # juventas.nvim
 
-* https://github.com/benlubas/molten-nvim/blob/main/docs/Notebook-Setup.md
+* [benlubas/molten-nvim/blob/main/docs/Notebook-Setup.md](https://github.com/benlubas/molten-nvim/blob/main/docs/Notebook-Setup.md)
 
-* https://jupyter-tutorial.readthedocs.io/de/latest/intro.html
-* https://ipython.org/index.html
-* https://jupyterbook.org/en/stable/intro.html#
+* [jupyter-tutorial.readthedocs.io/de/latest/intro.html](https://jupyter-tutorial.readthedocs.io/de/latest/intro.html)
+* [ipython.org/index.html](https://ipython.org/index.html)
+* [jupyterbook.org/en/stable/intro.html#](https://jupyterbook.org/en/stable/intro.html#)
 * [dicussion on Discord](yeah that entire class was a mess. It's the reason that I "made" molten though, so I guess something good came out of it)
 * [nvim screen capture](https://discord.com/channels/834325286664929280/877666474888675368/1232074272743096373)
 → [books](https://libgen.rs/search.php?&req=jupyter&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
-* http://janakiev.com/blog/jupyter-virtual-envs/
-* https://en.m.wiktionary.org/wiki/Jupiter
+* [janakiev.com/blog/jupyter-virtual-envs/](http://janakiev.com/blog/jupyter-virtual-envs/)
+* [en.m.wiktionary.org/wiki/Jupiter](https://en.m.wiktionary.org/wiki/Jupiter)
 ju * [tweag/jupyenv: Declarative and reproducible Jupyter environments - powered by Nix](https://github.com/tweag/jupyenv)
 juventas * [JupyterWith Next - Tweag](https://www.tweag.io/blog/2022-11-17-jupyter-with-next/)
 
@@ -18,19 +18,19 @@ juventas * [JupyterWith Next - Tweag](https://www.tweag.io/blog/2022-11-17-jupyt
 * Nike
 
 
-* https://github.com/AndrewRadev/inline_edit.vim
+* [AndrewRadev/inline_edit.vim](https://github.com/AndrewRadev/inline_edit.vim)
 * Juniper? Junyper? Junipyr?
 * Notebookish.nvim, Daftar.nvim, Zapys.nvim, cuaderno.nvim, lyterate.nvim, Dias (grc)
-* https://github.com/edgarogh/ipynbat
+* [edgarogh/ipynbat](https://github.com/edgarogh/ipynbat)
 * name notebat?
-* https://github.com/paw-lu/nbpreview
-* https://github.com/jsvine/nbpreview
-* https://www.reddit.com/r/neovim/comments/wfut6c/introducing_femaco_catalyze_your_fenced_markdown/
+* [paw-lu/nbpreview](https://github.com/paw-lu/nbpreview)
+* [jsvine/nbpreview](https://github.com/jsvine/nbpreview)
+* [r/neovim/comments/wfut6c/introducing_femaco_catalyze_your_fenced_markdown/](https://www.reddit.com/r/neovim/comments/wfut6c/introducing_femaco_catalyze_your_fenced_markdown/)
 * maybe save code to a separate tempfile and run lsp on that, then pass lsp feedback to relevant location in nbview.
 * [SyntaxRange - Define a different filetype syntax on regions of a buffer. : vim online](https://www.vim.org/scripts/script.php?script_id=4168)
 
 
-* https://chat.openai.com/c/fcf2129c-4772-4537-b029-d1e1fa1f276b Python Plugin Neovim Setup
+* [chat.openai.com/c/fcf2129c-4772-4537-b029-d1e1fa1f276b](https://chat.openai.com/c/fcf2129c-4772-4537-b029-d1e1fa1f276b) Python Plugin Neovim Setup
 
 same as Jupyter web, but using text view
 
@@ -70,14 +70,14 @@ image rendering (wezterm and kitty)
 * > how to write a plugin in python and interact with lua
 
 make each cell its own buffer? keep separate code-only buffer for LSP?
-* https://chat.openai.com/c/fcf2129c-4772-4537-b029-d1e1fa1f276b
-* https://github.com/dccsillag/magma-nvim
-* https://github.com/luk400/vim-jukit
-* https://martibosch.github.io/jupyter-emacs-universe/
-* https://github.com/emacs-jupyter/jupyter
-* https://github.com/millejoh/emacs-ipython-notebook
-* https://millejoh.github.io/emacs-ipython-notebook/
-* https://isaacganoung.com/articles/tutorials/jupyter-notebook-in-emacs.html
+* [chat.openai.com/c/fcf2129c-4772-4537-b029-d1e1fa1f276b](https://chat.openai.com/c/fcf2129c-4772-4537-b029-d1e1fa1f276b)
+* [dccsillag/magma-nvim](https://github.com/dccsillag/magma-nvim)
+* [luk400/vim-jukit](https://github.com/luk400/vim-jukit)
+* [martibosch.github.io/jupyter-emacs-universe/](https://martibosch.github.io/jupyter-emacs-universe/)
+* [emacs-jupyter/jupyter](https://github.com/emacs-jupyter/jupyter)
+* [millejoh/emacs-ipython-notebook](https://github.com/millejoh/emacs-ipython-notebook)
+* [millejoh.github.io/emacs-ipython-notebook/](https://millejoh.github.io/emacs-ipython-notebook/)
+* [isaacganoung.com/articles/tutorials/jupyter-notebook-in-emacs.html](https://isaacganoung.com/articles/tutorials/jupyter-notebook-in-emacs.html)
 
 
 ## Virtual Text
@@ -200,55 +200,55 @@ add notebooks to goneovim! or focus on wezterm (yep, probably that)
 
 
 # VimQTConsole - qtconsole with full vim keybindings and nvim as a backend editing server
-* [https://github.com/jupyter/jupyter_console](https://www.google.com/url?q=https://github.com/jupyter/jupyter_console&sa=D&source=editors&ust=1711378556488622&usg=AOvVaw3q1vDtf6fyEQu-p-e70-w_) - [](https://www.google.com/url?q=https://jupyter-console.readthedocs.io/en/latest/&sa=D&source=editors&ust=1711378556488849&usg=AOvVaw31rrl63oIbbF1NC7VNIqC2)[Docs](https://www.google.com/url?q=https://jupyter-console.readthedocs.io/en/latest/&sa=D&source=editors&ust=1711378556489067&usg=AOvVaw2yjTrOFvZCSeRAVWj0JRKJ)
-* [https://github.com/jupyter/qtconsole](https://www.google.com/url?q=https://github.com/jupyter/qtconsole&sa=D&source=editors&ust=1711378556489338&usg=AOvVaw013fqtfUD4k1GUfIc8CgBv) - [](https://www.google.com/url?q=https://qtconsole.readthedocs.io/en/stable/index.html&sa=D&source=editors&ust=1711378556489553&usg=AOvVaw0yu7A3bpgh5LKBfhA6ZHwb)[Docs](https://www.google.com/url?q=https://qtconsole.readthedocs.io/en/stable/index.html&sa=D&source=editors&ust=1711378556489780&usg=AOvVaw0t2Z5lll7G7F1yf0PN8fXL)
+* [github.com/jupyter/jupyter_console](https://www.google.com/url?q=https://github.com/jupyter/jupyter_console&sa=D&source=editors&ust=1711378556488622&usg=AOvVaw3q1vDtf6fyEQu-p-e70-w_) - [](https://www.google.com/url?q=https://jupyter-console.readthedocs.io/en/latest/&sa=D&source=editors&ust=1711378556488849&usg=AOvVaw31rrl63oIbbF1NC7VNIqC2)[Docs](https://www.google.com/url?q=https://jupyter-console.readthedocs.io/en/latest/&sa=D&source=editors&ust=1711378556489067&usg=AOvVaw2yjTrOFvZCSeRAVWj0JRKJ)
+* [github.com/jupyter/qtconsole](https://www.google.com/url?q=https://github.com/jupyter/qtconsole&sa=D&source=editors&ust=1711378556489338&usg=AOvVaw013fqtfUD4k1GUfIc8CgBv) - [](https://www.google.com/url?q=https://qtconsole.readthedocs.io/en/stable/index.html&sa=D&source=editors&ust=1711378556489553&usg=AOvVaw0yu7A3bpgh5LKBfhA6ZHwb)[Docs](https://www.google.com/url?q=https://qtconsole.readthedocs.io/en/stable/index.html&sa=D&source=editors&ust=1711378556489780&usg=AOvVaw0t2Z5lll7G7F1yf0PN8fXL)
 
 → download and try out both console and qtconsole
 
 fork - add vim keybindings and color scheme support, eventually even make controllable from within nvim (wm/launcher pre-configured layout to open both, ready-to-use)
 * [Neovim and Qtconsole setup for Data Science with Python | My Blog](https://www.google.com/url?q=https://www.blog.gambitaccepted.com/2020/04/26/neovim-qtconsole-setup/&sa=D&source=editors&ust=1711378556490220&usg=AOvVaw0387vkYb4K8OJ7yBboOGoa)
 * [Demonstration of the Jupyter QtConsole + Vim integration](https://www.google.com/url?q=https://youtu.be/Fi_Xd6h4ncw&sa=D&source=editors&ust=1711378556490428&usg=AOvVaw1S3Bijs78WicgnKS6skWpd)
-* [https://github.com/glacambre/firenvim](https://www.google.com/url?q=https://github.com/glacambre/firenvim&sa=D&source=editors&ust=1711378556490685&usg=AOvVaw1Ze8i3BaOuiGgY8kdmfquZ) - something like this for qtconsole, but for qt instead of browser
+* [github.com/glacambre/firenvim](https://www.google.com/url?q=https://github.com/glacambre/firenvim&sa=D&source=editors&ust=1711378556490685&usg=AOvVaw1Ze8i3BaOuiGgY8kdmfquZ) - something like this for qtconsole, but for qt instead of browser
 * [Niche Vim/Neovim Plugins. Overview | by alpha2phi | Medium](https://www.google.com/url?q=https://alpha2phi.medium.com/niche-neovim-plugins-722b34f76291&sa=D&source=editors&ust=1711378556491115&usg=AOvVaw0aufc4LSu8XZcajrli6EWN) - maybe some of these
 
 
 # Related Projects
-* [https://github.com/GCBallesteros/NotebookNavigator.nvim](https://www.google.com/url?q=https://github.com/GCBallesteros/NotebookNavigator.nvim&sa=D&source=editors&ust=1711378556491565&usg=AOvVaw2J-w1XlOL7CNE6bHgRunb_) (old: [](https://www.google.com/url?q=https://www.maxwellrules.com/misc/nvim_jupyter.html&sa=D&source=editors&ust=1711378556491832&usg=AOvVaw2zXrn72PM8EM9qFzngAt-s)[Maxwell Rules - NeoVim Notebooks](https://www.google.com/url?q=https://www.maxwellrules.com/misc/nvim_jupyter.html&sa=D&source=editors&ust=1711378556492003&usg=AOvVaw2k7ufUE6Fb-Bmxx4xxFZaO))
-* [https://github.com/benlubas/molten-nvim](https://www.google.com/url?q=https://github.com/benlubas/molten-nvim&sa=D&source=editors&ust=1711378556492218&usg=AOvVaw1TWxLrw7D3c4CHO3Js5Fyd)
-* [https://github.com/dccsillag/magma-nvim](https://www.google.com/url?q=https://github.com/dccsillag/magma-nvim&sa=D&source=editors&ust=1711378556492419&usg=AOvVaw3PMJofJ0yMfkGR-pU6aghr)
-* [https://github.com/milanglacier/quarto-nvim](https://www.google.com/url?q=https://github.com/milanglacier/quarto-nvim&sa=D&source=editors&ust=1711378556492609&usg=AOvVaw3KO8gZvDA4ET3gC_nTPMFg)
-* [https://github.com/lkhphuc/jupyter-kernel.nvim](https://www.google.com/url?q=https://github.com/lkhphuc/jupyter-kernel.nvim&sa=D&source=editors&ust=1711378556492818&usg=AOvVaw3o0KsblC3ojhObBKQXcoxb)
-* [https://github.com/luk400/vim-jukit](https://www.google.com/url?q=https://github.com/luk400/vim-jukit&sa=D&source=editors&ust=1711378556493011&usg=AOvVaw0ZoMvlER2o1JRscac8-Joq)
-* [https://github.com/WhiteBlackGoose/magma-nvim-goose](https://www.google.com/url?q=https://github.com/WhiteBlackGoose/magma-nvim-goose&sa=D&source=editors&ust=1711378556493222&usg=AOvVaw0oHurKK8svGvGeGx_IBuZl)
-* [https://github.com/untitled-ai/jupyter_ascending.vim](https://www.google.com/url?q=https://github.com/untitled-ai/jupyter_ascending.vim&sa=D&source=editors&ust=1711378556493421&usg=AOvVaw2nqMl9eGqrlRDkUFjPQfX_) 
-* [](https://www.google.com/url?q=https://generallyintelligent.com/open-source/2021-10-14-jupyter-ascending/&sa=D&source=editors&ust=1711378556493569&usg=AOvVaw1Pm1s3mkILXNmh1ohh_NSL)[https://generallyintelligent.com/open-source/2021-10-14-jupyter-ascending/](https://www.google.com/url?q=https://generallyintelligent.com/open-source/2021-10-14-jupyter-ascending/&sa=D&source=editors&ust=1711378556493763&usg=AOvVaw3dAdo7zDHNhMKZDHxLJUst)
-* [https://github.com/kiyoon/jupynium.nvim](https://www.google.com/url?q=https://github.com/kiyoon/jupynium.nvim&sa=D&source=editors&ust=1711378556493994&usg=AOvVaw2edSaIUAN4R20v-B2_DN6K) 
+* [github.com/GCBallesteros/NotebookNavigator.nvim](https://www.google.com/url?q=https://github.com/GCBallesteros/NotebookNavigator.nvim&sa=D&source=editors&ust=1711378556491565&usg=AOvVaw2J-w1XlOL7CNE6bHgRunb_) (old: [](https://www.google.com/url?q=https://www.maxwellrules.com/misc/nvim_jupyter.html&sa=D&source=editors&ust=1711378556491832&usg=AOvVaw2zXrn72PM8EM9qFzngAt-s)[Maxwell Rules - NeoVim Notebooks](https://www.google.com/url?q=https://www.maxwellrules.com/misc/nvim_jupyter.html&sa=D&source=editors&ust=1711378556492003&usg=AOvVaw2k7ufUE6Fb-Bmxx4xxFZaO))
+* [github.com/benlubas/molten-nvim](https://www.google.com/url?q=https://github.com/benlubas/molten-nvim&sa=D&source=editors&ust=1711378556492218&usg=AOvVaw1TWxLrw7D3c4CHO3Js5Fyd)
+* [github.com/dccsillag/magma-nvim](https://www.google.com/url?q=https://github.com/dccsillag/magma-nvim&sa=D&source=editors&ust=1711378556492419&usg=AOvVaw3PMJofJ0yMfkGR-pU6aghr)
+* [github.com/milanglacier/quarto-nvim](https://www.google.com/url?q=https://github.com/milanglacier/quarto-nvim&sa=D&source=editors&ust=1711378556492609&usg=AOvVaw3KO8gZvDA4ET3gC_nTPMFg)
+* [github.com/lkhphuc/jupyter-kernel.nvim](https://www.google.com/url?q=https://github.com/lkhphuc/jupyter-kernel.nvim&sa=D&source=editors&ust=1711378556492818&usg=AOvVaw3o0KsblC3ojhObBKQXcoxb)
+* [github.com/luk400/vim-jukit](https://www.google.com/url?q=https://github.com/luk400/vim-jukit&sa=D&source=editors&ust=1711378556493011&usg=AOvVaw0ZoMvlER2o1JRscac8-Joq)
+* [github.com/WhiteBlackGoose/magma-nvim-goose](https://www.google.com/url?q=https://github.com/WhiteBlackGoose/magma-nvim-goose&sa=D&source=editors&ust=1711378556493222&usg=AOvVaw0oHurKK8svGvGeGx_IBuZl)
+* [github.com/untitled-ai/jupyter_ascending.vim](https://www.google.com/url?q=https://github.com/untitled-ai/jupyter_ascending.vim&sa=D&source=editors&ust=1711378556493421&usg=AOvVaw2nqMl9eGqrlRDkUFjPQfX_) 
+* [](https://www.google.com/url?q=https://generallyintelligent.com/open-source/2021-10-14-jupyter-ascending/&sa=D&source=editors&ust=1711378556493569&usg=AOvVaw1Pm1s3mkILXNmh1ohh_NSL)[generallyintelligent.com/open-source/2021-10-14-jupyter-ascending/](https://www.google.com/url?q=https://generallyintelligent.com/open-source/2021-10-14-jupyter-ascending/&sa=D&source=editors&ust=1711378556493763&usg=AOvVaw3dAdo7zDHNhMKZDHxLJUst)
+* [github.com/kiyoon/jupynium.nvim](https://www.google.com/url?q=https://github.com/kiyoon/jupynium.nvim&sa=D&source=editors&ust=1711378556493994&usg=AOvVaw2edSaIUAN4R20v-B2_DN6K) 
 * [](https://www.google.com/url?q=https://github.com/kiyoon/jupynium.nvim&sa=D&source=editors&ust=1711378556494126&usg=AOvVaw2G5PjyFNMyAB6H-k50MS1W)[Selenium-automated Jupyter Notebook that is synchronised with NeoVim in real-time.](https://www.google.com/url?q=https://github.com/kiyoon/jupynium.nvim&sa=D&source=editors&ust=1711378556494274&usg=AOvVaw2EplP-OuBGb0ce0w8EEziO)
-* [https://github.com/ubaldot/vim-replica](https://www.google.com/url?q=https://github.com/ubaldot/vim-replica&sa=D&source=editors&ust=1711378556494580&usg=AOvVaw3aWha7BH_buz6RJjL8ljzJ)
-* [https://github.com/davidbrochart/jpterm](https://www.google.com/url?q=https://github.com/davidbrochart/jpterm&sa=D&source=editors&ust=1711378556494835&usg=AOvVaw1WybNLEjR3KjHAcfSjjrvQ) ***
-* [https://github.com/luk400/vim-jukit](https://www.google.com/url?q=https://github.com/luk400/vim-jukit&sa=D&source=editors&ust=1711378556495091&usg=AOvVaw3l525nq9qylB62CNPXL2lx)
-* [https://github.com/WhiteBlackGoose/magma-nvim-goose](https://www.google.com/url?q=https://github.com/WhiteBlackGoose/magma-nvim-goose&sa=D&source=editors&ust=1711378556495361&usg=AOvVaw3IAkwDos8rsnLMqfiNDKZo)
-* [https://github.com/untitled-ai/jupyter_ascending.vim](https://www.google.com/url?q=https://github.com/untitled-ai/jupyter_ascending.vim&sa=D&source=editors&ust=1711378556495632&usg=AOvVaw3n1qJPHhWl1ISrXRlKtDJF)
-* [https://github.com/szymonmaszke/vimpyter](https://www.google.com/url?q=https://github.com/szymonmaszke/vimpyter&sa=D&source=editors&ust=1711378556495903&usg=AOvVaw3NFiEu8mWqP-avlzKJhqVT)
-* [https://github.com/dccsillag/magma-nvim](https://www.google.com/url?q=https://github.com/dccsillag/magma-nvim&sa=D&source=editors&ust=1711378556496170&usg=AOvVaw1niGYImzN8mxJYrhrvSef3)
-* [https://github.com/luk400/vim-jukit](https://www.google.com/url?q=https://github.com/luk400/vim-jukit&sa=D&source=editors&ust=1711378556496391&usg=AOvVaw0JIt5aW-X_hSVisglFJvWD)
-* [https://github.com/hanschen/vim-ipython-cell](https://www.google.com/url?q=https://github.com/hanschen/vim-ipython-cell&sa=D&source=editors&ust=1711378556496619&usg=AOvVaw0zA8wm8NWK3yoRggJb6k_5)
-* [https://github.com/subnut/nvim-ghost.nvim](https://www.google.com/url?q=https://github.com/subnut/nvim-ghost.nvim&sa=D&source=editors&ust=1711378556496846&usg=AOvVaw1DHYdBBp45TSTxb6sQ1cdS)
-* [https://github.com/hanschen/vim-ipython-cell](https://www.google.com/url?q=https://github.com/hanschen/vim-ipython-cell&sa=D&source=editors&ust=1711378556497149&usg=AOvVaw26SaJdqVCvyTs12H6y0BJz)
-* [https://mljar.com/blog/jupyter-notebook-presentation/](https://www.google.com/url?q=https://mljar.com/blog/jupyter-notebook-presentation/&sa=D&source=editors&ust=1711378556497485&usg=AOvVaw1hARHPOnXfFOEtKST-Y6HX)
+* [github.com/ubaldot/vim-replica](https://www.google.com/url?q=https://github.com/ubaldot/vim-replica&sa=D&source=editors&ust=1711378556494580&usg=AOvVaw3aWha7BH_buz6RJjL8ljzJ)
+* [github.com/davidbrochart/jpterm](https://www.google.com/url?q=https://github.com/davidbrochart/jpterm&sa=D&source=editors&ust=1711378556494835&usg=AOvVaw1WybNLEjR3KjHAcfSjjrvQ) ***
+* [github.com/luk400/vim-jukit](https://www.google.com/url?q=https://github.com/luk400/vim-jukit&sa=D&source=editors&ust=1711378556495091&usg=AOvVaw3l525nq9qylB62CNPXL2lx)
+* [github.com/WhiteBlackGoose/magma-nvim-goose](https://www.google.com/url?q=https://github.com/WhiteBlackGoose/magma-nvim-goose&sa=D&source=editors&ust=1711378556495361&usg=AOvVaw3IAkwDos8rsnLMqfiNDKZo)
+* [github.com/untitled-ai/jupyter_ascending.vim](https://www.google.com/url?q=https://github.com/untitled-ai/jupyter_ascending.vim&sa=D&source=editors&ust=1711378556495632&usg=AOvVaw3n1qJPHhWl1ISrXRlKtDJF)
+* [github.com/szymonmaszke/vimpyter](https://www.google.com/url?q=https://github.com/szymonmaszke/vimpyter&sa=D&source=editors&ust=1711378556495903&usg=AOvVaw3NFiEu8mWqP-avlzKJhqVT)
+* [github.com/dccsillag/magma-nvim](https://www.google.com/url?q=https://github.com/dccsillag/magma-nvim&sa=D&source=editors&ust=1711378556496170&usg=AOvVaw1niGYImzN8mxJYrhrvSef3)
+* [github.com/luk400/vim-jukit](https://www.google.com/url?q=https://github.com/luk400/vim-jukit&sa=D&source=editors&ust=1711378556496391&usg=AOvVaw0JIt5aW-X_hSVisglFJvWD)
+* [github.com/hanschen/vim-ipython-cell](https://www.google.com/url?q=https://github.com/hanschen/vim-ipython-cell&sa=D&source=editors&ust=1711378556496619&usg=AOvVaw0zA8wm8NWK3yoRggJb6k_5)
+* [github.com/subnut/nvim-ghost.nvim](https://www.google.com/url?q=https://github.com/subnut/nvim-ghost.nvim&sa=D&source=editors&ust=1711378556496846&usg=AOvVaw1DHYdBBp45TSTxb6sQ1cdS)
+* [github.com/hanschen/vim-ipython-cell](https://www.google.com/url?q=https://github.com/hanschen/vim-ipython-cell&sa=D&source=editors&ust=1711378556497149&usg=AOvVaw26SaJdqVCvyTs12H6y0BJz)
+* [mljar.com/blog/jupyter-notebook-presentation/](https://www.google.com/url?q=https://mljar.com/blog/jupyter-notebook-presentation/&sa=D&source=editors&ust=1711378556497485&usg=AOvVaw1hARHPOnXfFOEtKST-Y6HX)
 * [http://millejoh.github.io/emacs-ipython-notebook/](https://www.google.com/url?q=http://millejoh.github.io/emacs-ipython-notebook/&sa=D&source=editors&ust=1711378556497784&usg=AOvVaw0CdCo5ywk7O7wjQYxgxqQ2)
 * [Jupyter Notebook + Vim/Neovim. Vim/Neovim code editing experience for… | by alpha2phi | Medium](https://www.google.com/url?q=https://alpha2phi.medium.com/jupyter-notebook-vim-neovim-c2d67d56d563&sa=D&source=editors&ust=1711378556498068&usg=AOvVaw1Uwy2xRKtc34g4pZ5615Ue)
 * [Demonstrating Vim-Jupyter integration](https://www.google.com/url?q=https://youtu.be/h59cbg4HqpY&sa=D&source=editors&ust=1711378556498319&usg=AOvVaw2s9zSsDiFN1Tv1n8mQ5KAq)
-* [https://richban.tech/python-jupyter-notebooks-development-in-neo-vim](https://www.google.com/url?q=https://richban.tech/python-jupyter-notebooks-development-in-neo-vim&sa=D&source=editors&ust=1711378556498578&usg=AOvVaw0x85OUjMNQp4Q9uP9dJ77d)
+* [richban.tech/python-jupyter-notebooks-development-in-neo-vim](https://www.google.com/url?q=https://richban.tech/python-jupyter-notebooks-development-in-neo-vim&sa=D&source=editors&ust=1711378556498578&usg=AOvVaw0x85OUjMNQp4Q9uP9dJ77d)
 * [Reddit - Is there any plugin to edit and run jupyter-notebook in nvim](https://www.google.com/url?q=https://www.reddit.com/r/neovim/comments/mjyrfu/is_there_any_plugin_to_edit_and_run/&sa=D&source=editors&ust=1711378556498888&usg=AOvVaw1OzhuBgs4l7kmPMuoZYA_F)
 * [Reddit - Nicer jupyter notebook workflow with neovim thanks to Jupytext and mini.ai](https://www.google.com/url?q=https://www.reddit.com/r/neovim/comments/x0hf25/nicer_jupyter_notebook_workflow_with_neovim/&sa=D&source=editors&ust=1711378556499263&usg=AOvVaw0t2rLTBexNVpi8h4gKFuH2)
-* [https://martibosch.github.io/jupyter-emacs-universe/](https://www.google.com/url?q=https://martibosch.github.io/jupyter-emacs-universe/&sa=D&source=editors&ust=1711378556499570&usg=AOvVaw0GiTcETqWwNGaka1uqYiG1)
+* [martibosch.github.io/jupyter-emacs-universe/](https://www.google.com/url?q=https://martibosch.github.io/jupyter-emacs-universe/&sa=D&source=editors&ust=1711378556499570&usg=AOvVaw0GiTcETqWwNGaka1uqYiG1)
 
 
 # General Resources
 * [GitHub - fastai/nbdev: Create delightful software with Jupyter Notebooks](https://www.google.com/url?q=https://github.com/fastai/nbdev&sa=D&source=editors&ust=1711378556500045&usg=AOvVaw2CAoFdFPvKNPkgBuSPDWXS)
 * [Related projects — xeus documentation](https://www.google.com/url?q=https://xeus.readthedocs.io/en/latest/related.html&sa=D&source=editors&ust=1711378556500316&usg=AOvVaw3aHR-JG1zAukA3AN49azW1)
-* [https://jupytext.readthedocs.io/en/latest/using-cli.html](https://www.google.com/url?q=https://jupytext.readthedocs.io/en/latest/using-cli.html&sa=D&source=editors&ust=1711378556500596&usg=AOvVaw1FZDj4EZ2IYbQu2FOF2-wz)
+* [jupytext.readthedocs.io/en/latest/using-cli.html](https://www.google.com/url?q=https://jupytext.readthedocs.io/en/latest/using-cli.html&sa=D&source=editors&ust=1711378556500596&usg=AOvVaw1FZDj4EZ2IYbQu2FOF2-wz)
 * [Installation · IRkernel](https://www.google.com/url?q=https://irkernel.github.io/installation/&sa=D&source=editors&ust=1711378556500859&usg=AOvVaw2PW6qOrsozpEJvd0l91_at)
 * [Toomey books](https://www.google.com/url?q=http://libgen.is/search.php?%26req%3Dtoomey%26phrase%3D1%26view%3Dsimple%26column%3Ddef%26sort%3Dyear%26sortmode%3DDESC&sa=D&source=editors&ust=1711378556501132&usg=AOvVaw1rRwEG7oKiPdxWRFAsFzTq) (Jupyter)
 * [Quarto - Tutorial: Hello, Quarto](https://www.google.com/url?q=https://quarto.org/docs/get-started/hello/neovim.html&sa=D&source=editors&ust=1711378556501427&usg=AOvVaw0aHpNTtkkPpAWrvI4svgAw)
@@ -265,16 +265,16 @@ fork - add vim keybindings and color scheme support, eventually even make contro
 
 
 * ☐ Jupyter & Notebook-Related [](https://www.google.com/url?q=https://github.com/justmarkham/scikit-learn-videos&sa=D&source=editors&ust=1711378556504117&usg=AOvVaw1Dj15mms2swMcMKl-bgHdo)[justmarkham/scikit-learn-videos: Jupyter notebooks from the scikit-learn video series](https://www.google.com/url?q=https://github.com/justmarkham/scikit-learn-videos&sa=D&source=editors&ust=1711378556504319&usg=AOvVaw2F8DdSNoEmIxCcOyYiH13O) 
-* [](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DutNl9f3gqYQ&sa=D&source=editors&ust=1711378556504502&usg=AOvVaw2AUnOLgdM5y8c_tgZOHw0M)[Create Presentation Slides from Jupyter - YouTube](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DutNl9f3gqYQ&sa=D&source=editors&ust=1711378556504684&usg=AOvVaw1noh9YpaGwn_GD7IAsf7Ke) 
+* [](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DutNl9f3gqYQ&sa=D&source=editors&ust=1711378556504684&usg=AOvVaw1noh9YpaGwn_GD7IAsf7Ke) 
 * [](https://www.google.com/url?q=https://github.com/jupyterlab/jupyterlab&sa=D&source=editors&ust=1711378556504851&usg=AOvVaw1Q97Bhd6NBhQG2p5sATMne)[jupyterlab/jupyterlab: JupyterLab computational environment.](https://www.google.com/url?q=https://github.com/jupyterlab/jupyterlab&sa=D&source=editors&ust=1711378556505034&usg=AOvVaw1q_rtwO_ECV5jnM2Z4xRW6) 
-* [](https://www.google.com/url?q=https://www.sas.upenn.edu/~jesusfv/Chapter_HPC_7_Notebooks.pdf&sa=D&source=editors&ust=1711378556505227&usg=AOvVaw1DShEp0EU0bHK08IdRyLeO)[Chapter 7 Dynamic Notebooks: Jupyter, Markdown, and Pandoc](https://www.google.com/url?q=https://www.sas.upenn.edu/~jesusfv/Chapter_HPC_7_Notebooks.pdf&sa=D&source=editors&ust=1711378556505433&usg=AOvVaw3xtrqJL3zlLP7Vk6-5T-N7) jupyter css theme, also look into jupyter hacks in nyxt → [](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DstYs_8quGUM&sa=D&source=editors&ust=1711378556505685&usg=AOvVaw39PtX7mvXZFW63EaR_LU7X)[video on css in jupyter](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DstYs_8quGUM&sa=D&source=editors&ust=1711378556505868&usg=AOvVaw1zQEYPkTz3C0FSCf0ooFxs) 
-* [](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DFi_Xd6h4ncw&sa=D&source=editors&ust=1711378556506038&usg=AOvVaw33puDnvzjZ4RZCPZhSzhzB)[Demonstration of the Jupyter QtConsole + Vim integration](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DFi_Xd6h4ncw&sa=D&source=editors&ust=1711378556506240&usg=AOvVaw2PPVEFaRxfDOf_xVZZz8mG) 
-* [](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DDAXQCJAHiAI&sa=D&source=editors&ust=1711378556506417&usg=AOvVaw2ywxxIidM60wisySSTWrio)[Convert Notebook to Slideshow | Convert Jupyter notebook into Slideshow](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DDAXQCJAHiAI&sa=D&source=editors&ust=1711378556506601&usg=AOvVaw1X0UYrErp8q9rXCRwCcg_I) 
-* [](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DDnkxaEgen0E&sa=D&source=editors&ust=1711378556506785&usg=AOvVaw2OXYhiuNvzGGmLYQKsgaWJ)[How to Change your Jupyter Notebook Theme (Dark Theme!!)](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DDnkxaEgen0E&sa=D&source=editors&ust=1711378556507136&usg=AOvVaw0NdWeZrwGCzvgAZUiBXxsW) 
+* [](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DstYs_8quGUM&sa=D&source=editors&ust=1711378556505868&usg=AOvVaw1zQEYPkTz3C0FSCf0ooFxs) 
+* [](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DFi_Xd6h4ncw&sa=D&source=editors&ust=1711378556506240&usg=AOvVaw2PPVEFaRxfDOf_xVZZz8mG) 
+* [](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DDAXQCJAHiAI&sa=D&source=editors&ust=1711378556506601&usg=AOvVaw1X0UYrErp8q9rXCRwCcg_I) 
+* [](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DDnkxaEgen0E&sa=D&source=editors&ust=1711378556507136&usg=AOvVaw0NdWeZrwGCzvgAZUiBXxsW) 
 * [](https://www.google.com/url?q=https://github.com/voila-gallery&sa=D&source=editors&ust=1711378556507331&usg=AOvVaw1DoVoLJpx4hINxA2Mrhqk7)[Voilà Gallery](https://www.google.com/url?q=https://github.com/voila-gallery&sa=D&source=editors&ust=1711378556507525&usg=AOvVaw0lEEJZI82ma4LnRVsKsYYm) 
 * [](https://www.google.com/url?q=https://youtu.be/l7zS8Ld4_iA&sa=D&source=editors&ust=1711378556507703&usg=AOvVaw2RCzTBanHzLT59r1FICHmL)[nbdev tutorial](https://www.google.com/url?q=https://youtu.be/l7zS8Ld4_iA&sa=D&source=editors&ust=1711378556507889&usg=AOvVaw2Szc9TOcLCVN4HsawLl3d9) 
 * [](https://www.google.com/url?q=https://youtu.be/l7zS8Ld4_iA&sa=D&source=editors&ust=1711378556508051&usg=AOvVaw1SS8TSCja2gkifpHhYJyRp)[nbdev tutorial -- zero to published project in 90 minutes](https://www.google.com/url?q=https://youtu.be/l7zS8Ld4_iA&sa=D&source=editors&ust=1711378556508236&usg=AOvVaw1i2PaFOZGzw_K8KutPSHJZ) 
-* [](https://www.google.com/url?q=https://quarto.org/docs/get-started/&sa=D&source=editors&ust=1711378556508415&usg=AOvVaw2dlKu6BG0a6_BKPjjEijT5)[https://quarto.org/docs/get-started/](https://www.google.com/url?q=https://quarto.org/docs/get-started/&sa=D&source=editors&ust=1711378556508593&usg=AOvVaw1R2vbCfSllMvZRhI-m5trd)- [ ]  ‣ - [](https://www.google.com/url?q=https://nbcommands.readthedocs.io/en/latest/&sa=D&source=editors&ust=1711378556508969&usg=AOvVaw0a78GIcs55ByjHwtwKF4xz)[https://nbcommands.readthedocs.io/en/latest/](https://www.google.com/url?q=https://nbcommands.readthedocs.io/en/latest/&sa=D&source=editors&ust=1711378556509132&usg=AOvVaw1S9L1h4zENYRxxF6BdcFhp)
+* [](https://www.google.com/url?q=https://quarto.org/docs/get-started/&sa=D&source=editors&ust=1711378556508415&usg=AOvVaw2dlKu6BG0a6_BKPjjEijT5)[quarto.org/docs/get-started/](https://www.google.com/url?q=https://quarto.org/docs/get-started/&sa=D&source=editors&ust=1711378556508593&usg=AOvVaw1R2vbCfSllMvZRhI-m5trd)- [ ]  ‣ - [](https://www.google.com/url?q=https://nbcommands.readthedocs.io/en/latest/&sa=D&source=editors&ust=1711378556508969&usg=AOvVaw0a78GIcs55ByjHwtwKF4xz)[nbcommands.readthedocs.io/en/latest/](https://www.google.com/url?q=https://nbcommands.readthedocs.io/en/latest/&sa=D&source=editors&ust=1711378556509132&usg=AOvVaw1S9L1h4zENYRxxF6BdcFhp)
 
 ## SORT
 * [paw-lu/nbpreview](https://github.com/paw-lu/nbpreview)

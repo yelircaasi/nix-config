@@ -2,7 +2,7 @@
 ## Miscellaneous
 * mopidy
 * ( ) [navidrome](https://www.navidrome.org/)
-* ( ) [trackma](https://github.com/z411/trackma) https://z411.github.io/trackma/
+* ( ) [trackma](https://github.com/z411/trackma) [z411.github.io/trackma/](https://z411.github.io/trackma/)
 * ( ) [volumeicon](https://github.com/Maato/volumeicon)
 
 ## Gif Creation
@@ -19,13 +19,13 @@
 * ( ) [gifex](https://github.com/keshavbhatt/gifex) - GIF recorder
 
 ## Screenshot and Screen Recording / Screencasting / Streaming / etc.
-* https://github.com/flameshot-org/flameshot
+* [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
 * (2) [to-html](https://github.com/Aloso/to-html)
 * [(2) Render a terminal as HTML with `to-html` : rust](https://www.reddit.com/r/rust/comments/juhbo3/render_a_terminal_as_html_with_tohtml/) -> do I need to hack this for WezTerm etc.?
 * (2) [screenkey](https://gitlab.com/screenkey/screenkey)
 * (5) [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
 * (2) [shot-scraper](https://github.com/simonw/shot-scraper)
-* (2) [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder. https://asciinema.org/
+* (2) [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder. [asciinema.org/](https://asciinema.org/)
 * (2) [carbon-now-cli -  Beautiful](https://github.com/mixn/carbon-now-cli -  Beautiful) images of your code — from right inside your terminal.
 * (2) [streamlink](https://github.com/streamlink/streamlink) - Extract streams from various websites to a video player of your choosing.
 * (2) [Flameshot](https://flameshot.org/) - Powerful yet simple to use screenshot software.
@@ -66,7 +66,7 @@
 * [ytmdesktop](https://ytmdesktop.app/)
 * ( ) [muCLIar](https://github.com/aayush1205/muCLIar) - YouTube automator bringing you your music right on your CLI. - YouTube in CLI via Selenium and Chromedriver
 ### YouTube GUI Frontend
-* ( ) [FreeTube](https://github.com/FreeTubeApp/FreeTube) →[FreeTube/issues/1864](https://github.com/FreeTubeApp/FreeTube/issues/1864)https://github.com/FreeTubeApp/FreeTube/issues/1864, https://docs.freetubeapp.io/usage/keyboard-shortcuts/
+* ( ) [FreeTube](https://github.com/FreeTubeApp/FreeTube) →[FreeTube/issues/1864](https://github.com/FreeTubeApp/FreeTube/issues/1864)https://github.com/FreeTubeApp/FreeTube/issues/1864, [docs.freetubeapp.io/usage/keyboard-shortcuts/](https://docs.freetubeapp.io/usage/keyboard-shortcuts/)
 * ( ) [PlasmaTube](https://apps.kde.org/plasmatube/) - Kirigami-based YouTube client for Linux Desktop and Mobile with built-in ad-blocking and privacy features.
 * ( ) [red](https://github.com/keshavbhatt/red) - YouTube desktop client
 * ( ) [minitube](https://github.com/flaviotordini/minitube) - youtube client
@@ -75,7 +75,7 @@
 * ( ) [plasmatube](https://invent.kde.org/multimedia/plasmatube)
 * ( ) [installation](https://docs.invidious.io/installation/)
 * ( ) [youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
-* ( ) [youtube-dl](https://rg3.github.io/youtube-dl/) - Feature-rich command line program to download videos from YouTube and other video sites. ([Unlicense](https://github.com/rg3/youtube-dl/blob/master/LICENSE))
+* ( ) [](https://github.com/rg3/youtube-dl/blob/master/LICENSE))
 * ( ) [Kaku](https://kaku.rocks/) - An open source youtube music player for Ubuntu.
 
 ## Editing / Creation
@@ -87,7 +87,7 @@
 * ( ) [imgp](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator
 * ( ) [svgo](https://github.com/svg/svgo) - Optimize SVG files.
 * ( ) [scour](https://github.com/scour-project/scour)
-* ( ) [d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams. https://d2lang.com/
+* ( ) [d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams. [d2lang.com/](https://d2lang.com/)
 * ( ) [FFmpeg](https://github.com/FFmpeg/FFmpeg) - The Swiss knife of video editing from the command line.
 * ( ) [pngquant](https://pngquant.org/) and [svgcleaner](https://github.com/RazrFalcon/svgcleaner) for optimizing images
 * ( ) [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing with the following functions: optimize, convert, crop, resize, rotate, watermark, flip.
@@ -118,7 +118,7 @@
 * ( ) [scantailor](https://github.com/scantailor/scantailor) - Scan Tailor is an interactive post-processing tool for scanned pages. For a tutorial on how to use it, consult its [User Guide](https://github.com/scantailor/scantailor/wiki/User-Guide).
 * ( ) [gifcurry](https://github.com/lettier/gifcurry) - [Gifcurry](https://lettier.github.io/gifcurry/) - Your open source video to GIF maker built with Haskell.
 * ( ) [Blender](https://www.blender.org/) - A free and open source complete 3D creation pipeline for artists and small teams.
-* ( ) [ImageMagick -](https://imagemagick.org/) https://imagemagick.org/index.php - Gold standard for anything images.
+* ( ) [ImageMagick -](https://imagemagick.org/) [imagemagick.org/index.php](https://imagemagick.org/index.php) - Gold standard for anything images.
 * ( ) [gimp](https://www.gimp.org/)
 * [GIMP - Your GIMP Profile and You](https://www.gimp.org/tutorials/GIMPProfile/)
 * [GIMP - Documentation](https://www.gimp.org/docs/)
@@ -130,7 +130,7 @@
 * ( ) [Shutter](https://shutter-project.org/) - Shutter is a feature-rich screenshot program for Linux based operating systems such as Ubuntu.
 * ( ) [Flameshot](https://flameshot.org/) - Powerful yet simple to use screenshot software.
 * ( ) [pypeek](https://github.com/firatkiral/pypeek) → help for Wayland support
-* ( ) [obs-studio](https://github.com/obsproject/obs-studio) https://obsproject.com/ - Free and open source software for video recording and live streaming. Download and start streaming quickly and easily on Windows, Mac or Linux. Share your gaming, art and entertainment with the world.
+* ( ) [obs-studio](https://github.com/obsproject/obs-studio) [obsproject.com/](https://obsproject.com/) - Free and open source software for video recording and live streaming. Download and start streaming quickly and easily on Windows, Mac or Linux. Share your gaming, art and entertainment with the world.
 * ( ) [gstreamer](https://gstreamer.freedesktop.org/)
 * ( ) [linux-installation](https://obsproject.com/kb/linux-installation)
 * ( ) [kasmweb](https://www.kasmweb.com/community-edition)
@@ -251,8 +251,8 @@
 * ( ) [Kasts](https://apps.kde.org/kasts/) - Feature-rich, convergent podcast client for Linux Desktop and Mobile.
 
 ## Audio Tools / Software
-* ( ) [PipeWire](https://pipewire.org/) - PipeWire is a project that aims to greatly improve handling of audio and video under Linux. https://github.com/mikeroyal/PipeWire-Guide
-* ( ) [Alsamixer](https://github.com/alsa-project) - ALSA mixer with curses interfaces - found in https://github.com/alsa-project/alsa-utils
+* ( ) [PipeWire](https://pipewire.org/) - PipeWire is a project that aims to greatly improve handling of audio and video under Linux. [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide)
+* ( ) [Alsamixer](https://github.com/alsa-project) - ALSA mixer with curses interfaces - found in [alsa-project/alsa-utils](https://github.com/alsa-project/alsa-utils)
 * ( ) [Pulse Audio](https://wiki.ubuntu.com/PulseAudio) - Improve Linux Audio with customized Profiles.
 *[pulsemixer -](https://github.com/GeorgeFilipkin/pulsemixer -)CLI and curses mixer for PulseAudio.
 
@@ -261,7 +261,7 @@
 *[cava](https://github.com/karlstav/cava)- Cava is a Cross-platform Audio Visualizer.
 * (U)[kunst](https://github.com/sdushantha/kunst)- rewrite for wayland (wayland stack dependencies)
 * [glava](https://github.com/jarcode-foss/glava) - OpenGL audio spectrum visualizer - also X11
-* (U ← X11) https://github.com/nikp123/xava
+* (U ← X11) [nikp123/xava](https://github.com/nikp123/xava)
 (\* \[\]\(https://github.com/\w+/[^) ]+)
 ## Spotify
 * ( ) [zspotify](https://github.com/jsavargas/zspotify)
@@ -272,7 +272,7 @@
 * ( ) [Spicetify](https://spicetify.app/) - Command-line tool to customize the official Spotify client. Supports Windows, MacOS and Linux.
 * [spicetify-cli](https://github.com/spicetify/spicetify-cli)
 * ( ) [spotify-cli](https://github.com/brianstrauch/spotify-cli)
-* + [spotify-tui](https://github.com/Rigellute/spotify-tui) - A Spotify client for the terminal written in Rust. - https://github.com/Rigellute/spotify-tui/blob/master/README.md
+* + [spotify-tui](https://github.com/Rigellute/spotify-tui) - A Spotify client for the terminal written in Rust. - [Rigellute/spotify-tui/blob/master/README.md](https://github.com/Rigellute/spotify-tui/blob/master/README.md)
 * ( ) [spotify-player](https://github.com/aome510/spotify-player) - spotify-player is a fast, easy to use, and configurable terminal music player having feature parity with the official Spotify application.
 * ( ) [gspt](https://github.com/aditya-K2/gspt) - looks great, certainly worth trying
 
@@ -283,7 +283,7 @@
 * ( ) [cTune](https://github.com/An7ar35/ctune) - A ncurses based internet radio player written in C for Linux.
 
 ## Players / CLI Controllers
-* ( ) [mpv](https://github.com/mpv-player/mpv) - https://mpv.io/
+* ( ) [mpv](https://github.com/mpv-player/mpv) - [mpv.io/](https://mpv.io/)
 * ( ) [mpvc](https://github.com/gmt4/mpvc)
 * ( ) [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - NCurses Music Player Client (Plus Plus) - featureful ncurses based MPD client inspired by ncmpc. Relevant features: tag editor, playlist editor, easy to use search engine, media library, music visualizer, ability to fetch artist info from [last.fm](https://www.last.fm/), new display mode, alternative user interface, ability to browse and add files from outside of MPD music directory.
 * ( ) [termusic](https://github.com/tramhao/termusic) - Terminal Music Player written in Rust.
@@ -297,9 +297,9 @@
 * ( ) [Siren](https://www.kariliq.nl/git/siren/) - Siren is a text-based audio player for UNIX-like operating systems.
 * ( ) [mpvc/](https://github.com/gmt4/mpvc/) - A minimal mpc-like CLI and TUI for controlling mpv from the shell.
 * ( ) [Mp3blaster](https://sourceforge.net/projects/mp3blaster/) - Audio player for the text console.
-* ( ) [mpg123](https://sourceforge.net/projects/mpg123/) - https://mpg123.de/ - Quick `mp3` sound file player; no visual interface, just a command-line audio file player for  files.
+* ( ) [mpg123](https://sourceforge.net/projects/mpg123/) - [mpg123.de/](https://mpg123.de/) - Quick `mp3` sound file player; no visual interface, just a command-line audio file player for  files.
 * ( ) [streamlink](https://github.com/streamlink/streamlink) - CLI for extracting streams from various websites to a video player of your choosing.
-* ( ) [MusicPlayerPlus](https://github.com/doctorfree/MusicPlayerPlus) - https://musicplayerplus.dev/
+* ( ) [MusicPlayerPlus](https://github.com/doctorfree/MusicPlayerPlus) - [musicplayerplus.dev/](https://musicplayerplus.dev/)
 * ( ) [termv](https://github.com/Roshan-R/termv) - A terminal iptv player written in bash.
 * ( ) [mpc](https://github.com/MusicPlayerDaemon/mpc)
 * ( ) [mopidy](https://mopidy.com/)
@@ -323,7 +323,7 @@
 ## Streaming
 * ( ) [streamlink](https://github.com/streamlink/streamlink) - CLI for extracting streams from various websites to a video player of your choosing.´
 * ( ) [gstreamer](https://github.com/GStreamer/gstreamer)
-* ( ) [obs-studio](https://github.com/obsproject/obs-studio) https://obsproject.com/welcome
+* ( ) [obs-studio](https://github.com/obsproject/obs-studio) [obsproject.com/welcome](https://obsproject.com/welcome)
 
 ## SORT
 media * [?](https://www.reddit.com/r/unixporn/s/CUbkAsCxR2) music player in C

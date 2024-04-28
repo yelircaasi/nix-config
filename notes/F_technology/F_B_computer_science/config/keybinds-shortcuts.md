@@ -47,7 +47,7 @@
 
 
     -[ ] ␣ for space / $space
-    - [ ] etc. → https://wincent.com/wiki/Unicode_representations_of_modifier_keys
+    - [ ] etc. → [wincent.com/wiki/Unicode_representations_of_modifier_keys](https://wincent.com/wiki/Unicode_representations_of_modifier_keys)
 
 
     - [ ] write unambiguous specification
@@ -88,26 +88,26 @@
     all apps) and create keybindings table
 
 ### Build on / draw from
-* https://github.com/pawamoy/keycut - A command line tool that helps
+* [pawamoy/keycut](https://github.com/pawamoy/keycut) - A command line tool that helps
   you remembering ALL the numerous keyboard shortcuts of ALL your
   favorite programs [link](https://github.com/pawamoy/keycut)
-* https://github.com/lra/mackup/ - Keep your application settings in
+* [lra/mackup/](https://github.com/lra/mackup/) - Keep your application settings in
   sync (OS X/Linux) → get ideas for colorflip and kbgeneral
 * Keybinding Collection
 
 ### shortcut lists
-* https://cheatography.com/tag/ubuntu/
-* https://dgkim5360.github.io/blog/linux/2017/07/a-cheatsheet-for-ubuntu-shortcuts/
-* https://www.geeksforgeeks.org/keyboard-shortcuts-for-ubuntu-set-1/
-* https://help.ubuntu.com/stable/ubuntu-help/shell-keyboard-shortcuts.html.en,* https://www.dell.com/support/kbdoc/de-de/000131678/an-ubuntu-linux-keyboard-shortcut-reference-guide-for-your-dell-pc?lang=en,
-* https://ask.fedoraproject.org/t/how-to-enable-the-hotkeys-for-fzf/11723
-* https://defkey.com/
-* https://defkey.com/ubuntu-shortcuts?pdf=true&modifiedDate=20210304T113257
+* [cheatography.com/tag/ubuntu/](https://cheatography.com/tag/ubuntu/)
+* [dgkim5360.github.io/blog/linux/2017/07/a-cheatsheet-for-ubuntu-shortcuts/](https://dgkim5360.github.io/blog/linux/2017/07/a-cheatsheet-for-ubuntu-shortcuts/)
+* [geeksforgeeks.org/keyboard-shortcuts-for-ubuntu-set-1/](https://www.geeksforgeeks.org/keyboard-shortcuts-for-ubuntu-set-1/)
+* [help.ubuntu.com/stable/ubuntu-help/shell-keyboard-shortcuts.html.en,*](https://help.ubuntu.com/stable/ubuntu-help/shell-keyboard-shortcuts.html.en,*) [dell.com/support/kbdoc/de-de/000131678/an-ubuntu-linux-keyboard-shortcut-reference-guide-for-your-dell-pc?lang=en,](https://www.dell.com/support/kbdoc/de-de/000131678/an-ubuntu-linux-keyboard-shortcut-reference-guide-for-your-dell-pc?lang=en,)
+* [ask.fedoraproject.org/t/how-to-enable-the-hotkeys-for-fzf/11723](https://ask.fedoraproject.org/t/how-to-enable-the-hotkeys-for-fzf/11723)
+* [defkey.com/](https://defkey.com/)
+* [defkey.com/ubuntu-shortcuts?pdf=true&modifiedDate=20210304T113257](https://defkey.com/ubuntu-shortcuts?pdf=true&modifiedDate=20210304T113257)
 
 
 ### specific apps
 * VScode crap
-  - https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf
+  - [code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
   - VSCode - group all commands by type, such as "navigation between
     parts of vscode", "file operations", "overwritten by nvim",
     "code pop-ups", "code running and debugging", etc.
@@ -173,7 +173,7 @@ shift + shift -> caps lock or some other key
 * right alt + space
 
 ## Kanata
-* https://github.com/jtroo/kanata
+* [jtroo/kanata](https://github.com/jtroo/kanata)
   - Kanata Documentation]()
     - [Minimal example](https://github.com/jtroo/kanata/blob/main/cfg_samples/minimal.kbd)
     - [Simple example with explanations](https://github.com/jtroo/kanata/blob/main/cfg_samples/simple.kbd)
@@ -235,48 +235,48 @@ shift + shift -> caps lock or some other key
         - [switch](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#switch)
         - [Custom tap-hold behaviour](https://github.com/jtroo/kanata/blob/main/docs/config.adoc#custom-tap-hold-behaviour)
 
-* https://github.com/jtroo/kanata/blob/main/docs/config.adoc
-* https://www.reddit.com/r/rust/comments/w0zqk4/kanata_v105_an_advanced_keyboard_remapper_for/
+* [jtroo/kanata/blob/main/docs/config.adoc](https://github.com/jtroo/kanata/blob/main/docs/config.adoc)
+* [r/rust/comments/w0zqk4/kanata_v105_an_advanced_keyboard_remapper_for/](https://www.reddit.com/r/rust/comments/w0zqk4/kanata_v105_an_advanced_keyboard_remapper_for/)
 * How to type Croatian, Polish, and Norwegian special characters on
   Ubuntu US Intl keyboard? → just use kanata or similar
 
 ## Kmonad
-* https://github.com/kmonad/kmonad
-* https://www.reddit.com/r/Kmonad/
-* https://precondition.github.io/home-row-mods
-* https://github.com/kmonad/kmonad-contrib/tree/master/keymaps
-* https://github.com/kmonad/kmonad
-* https://gnulinux.ch/kmonad
+* [kmonad/kmonad](https://github.com/kmonad/kmonad)
+* [r/Kmonad/](https://www.reddit.com/r/Kmonad/)
+* [precondition.github.io/home-row-mods](https://precondition.github.io/home-row-mods)
+* [kmonad/kmonad-contrib/tree/master/keymaps](https://github.com/kmonad/kmonad-contrib/tree/master/keymaps)
+* [kmonad/kmonad](https://github.com/kmonad/kmonad)
+* [gnulinux.ch/kmonad](https://gnulinux.ch/kmonad)
 
 
 * [Powerful keybindings easier than ever with KMonad](https://www.youtube.com/watch?v=Dhj1eauljwU)
-* https://github.com/kmonad/kmonad/blob/master/startup/kmonad%40.service
-* https://github.com/kmonad/kmonad/blob/master/keymap/tutorial.kbd
-* https://github.com/kmonad/kmonad/blob/master/Dockerfile
-* https://github.com/kmonad/kmonad/blob/master/doc/installation.md#using-nix
-* https://devpress.csdn.net/linux/62ea003220df032da732ab91.html
-* https://dev.to/ram535/kmonad-and-the-power-of-infinite-leader-keys-888
-* https://github.com/kmonad/kmonad/issues - get involved
-* https://github.com/david-janssen/kmonad The inspiration for kanata
+* [kmonad/kmonad/blob/master/startup/kmonad%40.service](https://github.com/kmonad/kmonad/blob/master/startup/kmonad%40.service)
+* [kmonad/kmonad/blob/master/keymap/tutorial.kbd](https://github.com/kmonad/kmonad/blob/master/keymap/tutorial.kbd)
+* [kmonad/kmonad/blob/master/Dockerfile](https://github.com/kmonad/kmonad/blob/master/Dockerfile)
+* [kmonad/kmonad/blob/master/doc/installation.md#using-nix](https://github.com/kmonad/kmonad/blob/master/doc/installation.md#using-nix)
+* [devpress.csdn.net/linux/62ea003220df032da732ab91.html](https://devpress.csdn.net/linux/62ea003220df032da732ab91.html)
+* [dev.to/ram535/kmonad-and-the-power-of-infinite-leader-keys-888](https://dev.to/ram535/kmonad-and-the-power-of-infinite-leader-keys-888)
+* [kmonad/kmonad/issues](https://github.com/kmonad/kmonad/issues) - get involved
+* [david-janssen/kmonad](https://github.com/david-janssen/kmonad) The inspiration for kanata
         (Linux, Windows, Mac)
 
 
 ## Hybrid Modifier / Hypermodifier
-* https://www.youtube.com/results?search_query=xcape+linux
-* https://manpages.ubuntu.com/manpages/xenial/man1/xcape.1.html
-* https://www.youtube.com/results?search_query=xcape
-* https://superuser.com/questions/958734/linux-os-level-key-chord
-* https://superuser.com/questions/958734/linux-os-level-key-chord
-* https://wiki.archlinux.org/title/Xbindkeys
-* https://wiki.archlinux.org/title/Xbindkeys
+* [](https://www.youtube.com/results?search_query=xcape+linux)
+* [manpages.ubuntu.com/manpages/xenial/man1/xcape.1.html](https://manpages.ubuntu.com/manpages/xenial/man1/xcape.1.html)
+* [](https://www.youtube.com/results?search_query=xcape)
+* [superuser.com/questions/958734/linux-os-level-key-chord](https://superuser.com/questions/958734/linux-os-level-key-chord)
+* [superuser.com/questions/958734/linux-os-level-key-chord](https://superuser.com/questions/958734/linux-os-level-key-chord)
+* [wiki.archlinux.org/title/Xbindkeys](https://wiki.archlinux.org/title/Xbindkeys)
+* [wiki.archlinux.org/title/Xbindkeys](https://wiki.archlinux.org/title/Xbindkeys)
 * [Schoonover](https://www.youtube.com/watch?v=70IxjLEmomg&t=298s)
-* https://github.com/altercation/dotfiles-tilingwm/blob/master/.config/systemd/user/xcape.service
-* https://github.com/altercation/dotfiles-tilingwm/tree/master/.config/systemd/user
-* https://github.com/altercation/dotfiles-tilingwm
-* https://github.com/altercation/dotfiles-tilingwm/blob/master/.xinitrc
-* https://github.com/altercation/dotfiles-tilingwm/blob/master/.Xresources
-* https://www.reddit.com/r/vim/comments/iqumac/can_you_use_chords_or_hyper_keys_in_vim/
-* https://unix.stackexchange.com/questions/107352/how-to-allow-chords-of-keyboard-keys-to-change-the-keymap-temporarily
+* [altercation/dotfiles-tilingwm/blob/master/.config/systemd/user/xcape.service](https://github.com/altercation/dotfiles-tilingwm/blob/master/.config/systemd/user/xcape.service)
+* [altercation/dotfiles-tilingwm/tree/master/.config/systemd/user](https://github.com/altercation/dotfiles-tilingwm/tree/master/.config/systemd/user)
+* [altercation/dotfiles-tilingwm](https://github.com/altercation/dotfiles-tilingwm)
+* [altercation/dotfiles-tilingwm/blob/master/.xinitrc](https://github.com/altercation/dotfiles-tilingwm/blob/master/.xinitrc)
+* [altercation/dotfiles-tilingwm/blob/master/.Xresources](https://github.com/altercation/dotfiles-tilingwm/blob/master/.Xresources)
+* [r/vim/comments/iqumac/can_you_use_chords_or_hyper_keys_in_vim/](https://www.reddit.com/r/vim/comments/iqumac/can_you_use_chords_or_hyper_keys_in_vim/)
+* [unix.stackexchange.com/questions/107352/how-to-allow-chords-of-keyboard-keys-to-change-the-keymap-temporarily](https://unix.stackexchange.com/questions/107352/how-to-allow-chords-of-keyboard-keys-to-change-the-keymap-temporarily)
 * Ethan Schoonover video on Xmonad -> tab, backslash, semicolon, etc.
   as hybrid modifiers (xkb + xcape + systemd user services) -> use
   kmonad?
@@ -284,10 +284,10 @@ shift + shift -> caps lock or some other key
 * alols/xcape: Linux utility to configure modifier keys to act as
   other keys when pressed and released on their own.
 * [XMonad Demo](https://www.youtube.com/watch?v=70IxjLEmomg&t=298s)
-* https://github.com/search?q=repo%3Aaltercation%2Fdotfiles-tilingwm+xkb&type=code
+* [search?q=repo%3Aaltercation%2Fdotfiles-tilingwm+xkb&type=code](https://github.com/search?q=repo%3Aaltercation%2Fdotfiles-tilingwm+xkb&type=code)
 
 ## 1S Reading
-* [Reddit - How do you manage your windows?](https://www.reddit.com/r/neovim/comments/11lqwrn/how_do_you_manage_your_windows/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=10&utm_content=share_button) → keybinds
+* [Reddit - How do you manage your windows?](https://www.reddit.com/r/neovim/comments/11lqwrn/how_do_you_manage_your_windows/) → keybinds
 * (2) Is there a quick way to switch/swap tab with escape?
 * XCAPE/XMODMAP : archlinux
 * → use dhall? kdl? hcl?

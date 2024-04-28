@@ -3,10 +3,10 @@
 ## Reading
 * [What is Jacobian? | The right way of thinking derivatives and integrals - YouTube](https://www.youtube.com/watch?v=wCZ1VEmVjVo)
 * [A concrete introduction to higher algebra](http://library.lol/main/EF9EB5227F4D4CA982E17006174511B8)
-* https://mathspp.com/
+* [mathspp.com/](https://mathspp.com/)
 * [reference request - Comparative analysis of history of mathematics - MathOverflow](https://mathoverflow.net/questions/440529/comparative-analysis-of-history-of-mathematics)
 * [e and the prime numbers](https://youtu.be/S9oPqBeSsZA)
-* https://www.cis.upenn.edu/~jean/gbooks/geomath.html
+* [cis.upenn.edu/~jean/gbooks/geomath.html](https://www.cis.upenn.edu/~jean/gbooks/geomath.html)
 * [Google and eigenvalues](https://www.youtube.com/watch?v=-FYk6lfTPag)
 * [The (strange) Mathematics of Game Theory | Are optimal decisions also the most logical?](https://www.youtube.com/watch?v=dHi8BVZFHdA&t=2s)
 * [Irrationale Zahlen | Mathewelten | ARTE - YouTube](https://www.youtube.com/watch?v=P24tmohytXs)
@@ -16,7 +16,7 @@
 * [Stable Marriage Problem - Numberphile](https://youtu.be/Qcv1IqHWAzg)
 * [How to Understand Math Intuitively?](https://youtu.be/glZLHLLalv0)
 * [det, matrix exponent](https://www.youtube.com/watch?v=Iz7PSlTpjyI)
-* https://www.aidancooper.co.uk/how-shapley-values-work/
+* [aidancooper.co.uk/how-shapley-values-work/](https://www.aidancooper.co.uk/how-shapley-values-work/)
 * [Stop Trying to Understand Math, Do THIS Instead](https://youtu.be/lt1nUfskq9E)
 * [Bell's Inequality: The weirdest theorem in the world | Nobel Prize 2022](https://youtu.be/9OM0jSTeeBg)
 * [Jensen's Inequality : Data Science Basics](https://youtu.be/LOwj7UxQwJ0)
@@ -27,22 +27,22 @@
 * [A Swift Introduction to Spacetime Algebra](https://youtu.be/e7aIVSVc8cI)
 * [Mechanics explained in seven pages](https://minireference.com/static/tutorials/mech_in_7_pages.pdf)
 * [Finden wir die Weltformel? | 42 - Die Antwort auf fast alles | ARTE](https://youtu.be/kgIveNzZrKw)
-* https://en.wikipedia.org/wiki/Lists_of_important_publications_in_science*
+* [en.wikipedia.org/wiki/Lists_of_important_publications_in_science*](https://en.wikipedia.org/wiki/Lists_of_important_publications_in_science*)
 * Relativitätstheorie
-* http://echo.mpiwg-berlin.mpg.de/ECHOdocuView?url=/permanent/echo/einstein/sitzungsberichte/199SW1KB/index.meta&pn=1
-* http://www.sueddeutsche.de/wissen/jahre-relativitaetstheorie-dellen-in-der-raumzeit-1.2664283
-* http://www.quantenwelt.de/klassisch/relativ/art.html
-* https://de.wikipedia.org/wiki/Allgemeine_Relativit%C3%A4tstheorie
-* http://www.einstein-online.info/einsteiger/allgRT
-* http://www.spektrum.de/lexikon/physik/allgemeine-relativitaetstheorie/383*
+* [echo.mpiwg-berlin.mpg.de/ECHOdocuView?url=/permanent/echo/einstein/sitzungsberichte/199SW1KB/index.meta&pn=1](http://echo.mpiwg-berlin.mpg.de/ECHOdocuView?url=/permanent/echo/einstein/sitzungsberichte/199SW1KB/index.meta&pn=1)
+* [sueddeutsche.de/wissen/jahre-relativitaetstheorie-dellen-in-der-raumzeit-1.2664283](http://www.sueddeutsche.de/wissen/jahre-relativitaetstheorie-dellen-in-der-raumzeit-1.2664283)
+* [quantenwelt.de/klassisch/relativ/art.html](http://www.quantenwelt.de/klassisch/relativ/art.html)
+* [de.wikipedia.org/wiki/Allgemeine_Relativit%C3%A4tstheorie](https://de.wikipedia.org/wiki/Allgemeine_Relativit%C3%A4tstheorie)
+* [einstein-online.info/einsteiger/allgRT](http://www.einstein-online.info/einsteiger/allgRT)
+* [spektrum.de/lexikon/physik/allgemeine-relativitaetstheorie/383*](http://www.spektrum.de/lexikon/physik/allgemeine-relativitaetstheorie/383*)
 * Books
 * [Teorías de la personalidad](http://libgen.rs/search.php?&req=gregory+feist&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 * Zukunft und Wissenschaft: Wege und Irrwege der Forschung
 * Wissenschaftstheorie und Wissenschaftliches Arbeiten
 * [Wormhole Tunnels in Spacetime May Be Possible, New Research Suggests - Scientific American](https://www.scientificamerican.com/article/wormhole-tunnels-in-spacetime-may-be-possible-new-research-suggests/)
 * [People seem really upset that I'd suggest a good education in the sciences should connect the sciences with their socio-cultural impact. To be clear, this knee-jerk reaction, that science is not and has not been political, is a big part of the problem](https://twitter.com/shengokai/status/1434329411503939585?s=27)
-* https://en.wikipedia.org/wiki/Science
-* https://archive.org/details/pleasureoffindin00feyn
+* [en.wikipedia.org/wiki/Science](https://en.wikipedia.org/wiki/Science)
+* [archive.org/details/pleasureoffindin00feyn](https://archive.org/details/pleasureoffindin00feyn)
 * is academic research pointless?
 * [libgen Wege der Wissenschaft](https://de1lib.org/s/Wege%20der%20Wissenschaft)
 * [The Sustainability Mirage: Illusion and Reality in the Coming War on C](https://www.routledge.com/The-Sustainability-Mirage-Illusion-and-Reality-in-the-Coming-War-on-Climate/Foster/p/book/9781844075355)
@@ -64,7 +64,7 @@
 * [The Map of Particle Physics | The Standard Model Explained - YouTube](https://www.youtube.com/watch?v=mYcLuWHzfmE)
 * [El Experimento que Demostró las Locuras de la Cuántica | Desigualdades del Bell - YouTube](https://www.youtube.com/watch?v=xM_kIvOK4f4)
 * [La tabla periódica: Clasificación de elementos | Química | Khan Academy en Español](https://www.youtube.com/watch?v=YJ-XDj_KrHY)
-* https://www.bollatiboringhieri.it/libri/alessandro-bettini-nove-parole-della-fisica-9788833937236/
+* [bollatiboringhieri.it/libri/alessandro-bettini-nove-parole-della-fisica-9788833937236/](https://www.bollatiboringhieri.it/libri/alessandro-bettini-nove-parole-della-fisica-9788833937236/)
 * [Richard Gott](http://libgen.rs/search.php?&req=+J.+Richard+Gott&phrase=0&view=simple&column=author&sort=language&sortmode=DESC)
 * [Library Genesis: Neil deGrasse Tyson, Michael A. Strauss, J. Richard Gott - Welcome to the Universe: An Astrophysical Tour](http://libgen.rs/book/index.php?md5=C7A63C090ACA66182F8D913C8C28186B)
 * [Our Mathematical Universe: Brian Greene & Max Tegmark - YouTube](https://www.youtube.com/watch?v=Gu28y7vZmrI)
@@ -97,7 +97,7 @@
 * [Air Pollution and Greenhouse Gases_ZDhieotnrigcchhBaroaTuann, Harald Cherdron,_2014](http://link.springer.com/openurl?genre=book&isbn=978-981-287-212-8)
 * Albert Einstein (Lorang)
 * [An Introduction to Soil Mechanics_Arnold Verruijt_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-61185-3)
-* [Annual special: Favorite science books of the year](https://www.brainpickings.org/2017/12/13/best-science-books-2017/?utm_source=Brain+Pickings&utm_campaign=5ab98a43db-EMAIL_CAMPAIGN_2017_12_13&utm_medium=email&utm_term=0_179ffa2629-5ab98a43db-237194293&mc_cid=5ab98a43db&mc_eid=7a6f7d29df)
+* [Annual special: Favorite science books of the year](https://www.brainpickings.org/2017/12/13/best-science-books-2017/)
 * [Applied Chemistry_Oleg Roussak, H. D. Gesser_2nd ed. 2013](http://link.springer.com/openurl?genre=book&isbn=978-1-4614-4262-2)
 * [Astronautics_Ulrich Walter_3rd ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-74373-8)
 * [Basics of Laser Physics_Karl F. Renk_2nd ed. 2017](http://link.springer.com/openurl?genre=book&isbn=978-3-319-50651-7)
@@ -241,7 +241,7 @@
 * [Why Evolution Is True by Jerry A. Coyne](https://www.goodreads.com/book/show/4005310-why-evolution-is-true)
 * Why is the Solar System Flat? - YouTube
 * [Witchcraft and Science - Oxford Scholarship](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780198208082.001.0001/acprof-9780198208082-chapter-10)
-* [www.cogsci.ucsd.edu/~nunez/web/LaRecherche.pdf](http://www.cogsci.ucsd.edu/~nunez/web/LaRecherche.pdf)
+* [cogsci.ucsd.edu/~nunez/web/LaRecherche.pdf](http://www.cogsci.ucsd.edu/~nunez/web/LaRecherche.pdf)
 * ДОКАЗАТЕЛЬСТВА ВИРТУАЛЬНОСТИ НАШЕГО МИРАde Top Five
 * [Закон Йеркса-Додсона](https://vk.com/@philosophia_club-zakon-ierksa-dodsona)
 * [Издательство «Манн, Иванов и Фербер» • Книжный клуб «Элементов»](http://elementy.ru/bookclub/publisher/5183861/Mann_Ivanov_i_Ferber)
@@ -249,7 +249,7 @@
 * [Китайские эксперименты: почему обезьяны важнее ГМО-детей?](https://vk.com/away.php?to=https%3A%2F%2Flaba.media%2Fmaterials%2Fkitaiskie-eksperimenty-pochemu-obeziany-vazhnee-gmo-detei)
 * [Проклятие знания](https://vk.com/@etorabotaet-proklyatie-znaniya)
 * [Статья о доходности науки:](http://theatlantic.com/science/archive/2018/11/diminishing-r..)
-* https://rationalwiki.org/wiki/Philosophy_of_science
+* [rationalwiki.org/wiki/Philosophy_of_science](https://rationalwiki.org/wiki/Philosophy_of_science)
 * [As 100 Maiores Descobertas da Ciência . - YouTube](https://www.youtube.com/watch?v=X6tNZEMVFBU)
 * [As 100 Maiores Descobertas da Química Dublado-Documentário Completo - YouTube](https://www.youtube.com/watch?v=Iu6iRAYSJZM)
 * [Chomsky &amp; Krauss: An Origins Project Dialogue (OFFICIAL) - (Part 1/2) - YouTube](https://www.youtube.com/watch?v=Ml1G919Bts0&feature=youtu.be&t=50m50s)
@@ -275,24 +275,24 @@
 * Wie Pseudowissenschaftler uns belügen | Harald Lesch - YouTube
 * [Три научных журнала опубликовали статью, основанную на фактах из мультфильма Рик и Морти](https://22century.ru/allsorts/70495)
 * [Элементарные частицы | квантовая статистика - YouTube](https://www.youtube.com/results?search_query=%D0%AD%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%BD%D1%8B%D0%B5+%D1%87%D0%B0%D1%81%D1%82%D0%B8%D1%86%D1%8B+%7C+%D0%BA%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B0%D1%8F+%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0+-+YouTube)
-* https://en.wikipedia.org/wiki/Edge_Foundation,_Inc.
-* [_*http://robotics.cs.tamu.edu/RSS2015NegativeResults/pmed.0020124.pdf - Why Most Scientific Findings are False](http://robotics.cs.tamu.edu/RSS2015NegativeResults/pmed.0020124.pdf)
+* [en.wikipedia.org/wiki/Edge_Foundation,_Inc.](https://en.wikipedia.org/wiki/Edge_Foundation,_Inc.)
+* [_*[robotics.cs.tamu.edu/RSS2015NegativeResults/pmed.0020124.pdf](http://robotics.cs.tamu.edu/RSS2015NegativeResults/pmed.0020124.pdf) - Why Most Scientific Findings are False](http://robotics.cs.tamu.edu/RSS2015NegativeResults/pmed.0020124.pdf)
 * [astrofizika](https://vk.com/wall-36868476_127280)
-* http://berkeleyearth.org/
-* http://www.zeitanalysen.de/wissenschaftler_zitate_evolution.htm
-* https://climate.nasa.gov/key_websites/
-* https://www.goodreads.com/list/tag/science
-* https://www.wissenschaft.de/
+* [berkeleyearth.org/](http://berkeleyearth.org/)
+* [zeitanalysen.de/wissenschaftler_zitate_evolution.htm](http://www.zeitanalysen.de/wissenschaftler_zitate_evolution.htm)
+* [climate.nasa.gov/key_websites/](https://climate.nasa.gov/key_websites/)
+* [goodreads.com/list/tag/science](https://www.goodreads.com/list/tag/science)
+* [wissenschaft.de/](https://www.wissenschaft.de/)
 * [Improbable Research](https://www.improbable.com/ig/winners/)
 * [Quantum Physics](http://abyss.uoregon.edu/~js/cosmo/lectures/lec08.html)
 * [Elon Musk's Unbelievably Simple 12-minute Killer Break Down on Climate Change - YouTube](https://www.youtube.com/watch?v=xKCuDxpccYM)
 * [Energieprofessor Volker Quaschning ("Scientists for Future") - Jung & Naiv: Folge 418 - YouTube](https://www.youtube.com/watch?v=z3EoCKgzLo4)
 * [Oceans le film-documentaire de Jacques Perrin - YouTube](https://www.youtube.com/watch?v=OFccqh31vqM)
 * [a tabla periodica - YouTube](https://www.youtube.com/results?search_query=a+tabla+periodica)
-* http://www.nak-mitteldeutschland.de/fileadmin/redaktion/bezirk-gotha/2013/Jugend-Workshop_Ilmenau/Umweltschutz.pdf
-* http://www.j-lorber.de/ke/5/2-evolutionskritiker.htm
+* [nak-mitteldeutschland.de/fileadmin/redaktion/bezirk-gotha/2013/Jugend-Workshop_Ilmenau/Umweltschutz.pdf](http://www.nak-mitteldeutschland.de/fileadmin/redaktion/bezirk-gotha/2013/Jugend-Workshop_Ilmenau/Umweltschutz.pdf)
+* [j-lorber.de/ke/5/2-evolutionskritiker.htm](http://www.j-lorber.de/ke/5/2-evolutionskritiker.htm)
 * Lawrence Krauss - Physics Made Easy - YouTube
-* https://www.linkedin.com/pulse/scientific-proof-law-attraction-real-james-k-kim
+* [linkedin.com/pulse/scientific-proof-law-attraction-real-james-k-kim](https://www.linkedin.com/pulse/scientific-proof-law-attraction-real-james-k-kim)
 * [Looking Glass Universe](https://www.youtube.com/user/LookingGlassUniverse)
 * [Ideas in Science](https://www.youtube.com/user/HonnoratLh)
 * [Fyzika 1 - Mechanika (Pomi)](https://ankiweb.net/shared/info/1037404919)
@@ -320,8 +320,8 @@
 * [FitoPlancton.pdf](http://www.revistaciencia.amc.edu.mx/online/FitoPlancton.pdf)
 * [Fragerunde mit Harald Lesch](https://www.youtube.com/watch?v=6gHNEoG_Yhk)
 * [hwcdn.libsyn.com/p/1/b/1/1b1219a0b07ab68a/077_Melanie20Mitchell_with20ad.mp3?c_id=19493864&amp;expiration=1520740651&amp;hwt=d2c0966aeac2c4635f2e2970f0a0c638](http://hwcdn.libsyn.com/p/1/b/1/1b1219a0b07ab68a/077_Melanie20Mitchell_with20ad.mp3?c_id=19493864&amp;expiration=1520740651&amp;hwt=d2c0966aeac2c4635f2e2970f0a0c638)
-* https://astronomicamens.wordpress.com/tag/lampi-radio-veloci/
-* http://www.treccani.it/magazine/geopolitica/I_rapporti_Usa_Russia_tra_annunci_elettorali_e_Realpolitik.html#
+* [astronomicamens.wordpress.com/tag/lampi-radio-veloci/](https://astronomicamens.wordpress.com/tag/lampi-radio-veloci/)
+* [treccani.it/magazine/geopolitica/I_rapporti_Usa_Russia_tra_annunci_elettorali_e_Realpolitik.html#](http://www.treccani.it/magazine/geopolitica/I_rapporti_Usa_Russia_tra_annunci_elettorali_e_Realpolitik.html#)
 * C de Ciencia
 * Derivando
 * Raíz de Pi
@@ -464,7 +464,7 @@
 * [Elements](https://vk.com/wall-90850349_74914)
 * [General Chemistry Atoms First.pdf](https://vk.com/doc348852382_483864885?hash=13f61d1421901884ae&dl=d10896bac95f47b883)
 * [Get Ready for Organic Chemistry, 2nd Edition.pdf](https://vk.com/doc348852382_483864861?hash=2ebc07e6e7505b2958&dl=31765ef508373e3e3c)
-* http://chem-mind.com/
+* [chem-mind.com/](http://chem-mind.com/)
 * [The Development of Elementary Quantum Theory](https://vk.com/doc348852382_465232060?hash=4eba4ee71b23ea56b3&dl=4193b7b93f642fc72f)
 * [Абсолютный минимум. Как квантовая теория объясняет наш мир .pdf](https://vk.com/doc44301783_469794060?hash=e55d26dd232ed8f243&dl=c45de826830f6d0bbc)
 * [Большая энциклопедия астрономии, Сурдин В.Г., 2012.pdf](https://vk.com/doc292596645_465966185?hash=d6a921a81bb1b5cf7b&dl=833230ae470dc94a90)
@@ -504,7 +504,7 @@
 * [Комбинаторика слов и ее приложения](https://www.youtube.com/watch?v=jmowTApRhR0&list=PL-_cKNuVAYAVilQvx3sQ4oLFlmh9b59I8)
 * [Лженаука в современном мире: медиасфера, образование, школа (2014)](https://www.youtube.com/watch?v=BdFYQWYMckw&list=PL-_cKNuVAYAUiqXZTH1tJ0afA5d3D6kBj)
 * [Физика | Алексей Юлин](https://www.youtube.com/watch?v=3Q62LEsbHHc&list=PL-_cKNuVAYAU-lBQdpBaYyLP-4_BGfiC7)
-* https://en.wikipedia.org/wiki/Formant#Phonetics
+* [en.wikipedia.org/wiki/Formant#Phonetics](https://en.wikipedia.org/wiki/Formant#Phonetics)
 * [What are FORMANTS and HARMONICS? VOCAL FORMANTS AND HARMONICS Explained!](https://www.youtube.com/watch?v=D3dFSJ4Hzbs)
 * [How Do We Change Our Mouths to Shape Waves? Formants](https://www.youtube.com/watch?v=jl4zGRSYqkE)
 * [Formants Explained and Demonstrated](https://www.youtube.com/watch?v=jpbFnsusfp0)
@@ -513,11 +513,11 @@
 * [Helmholtz-Gemeinschaft Deutscher Forschungszentren – Wikipedia](https://de.wikipedia.org/wiki/Helmholtz-Gemeinschaft_Deutscher_Forschungszentren)
 * [10 Книг о науке](https://vk.com/@bestbooks-10-knig-o-nauke-napisannyh-dostupnym-yazykom)
 * [Et si le temps n'existait pas? Un peu de science subversive | Carlo Rovelli | download](http://b-ok.cc/book/1304793/deaf96)
-* http://www.cafe-sciences.org/billet/
+* [cafe-sciences.org/billet/](http://www.cafe-sciences.org/billet/)
 * [L'Histoire des grandes découvertes](https://vk.com/doc448658071_452985458?hash=035e082a2a76dc23ab&dl=f0bb85ac30bb948220)
 * PostNauka (poslednie lekcii)
 * [Science4All](https://www.youtube.com/channel/UC0NCbj8CxzeCGIF6sODJ-7A)
-* http://scientifically.info/
+* [scientifically.info/](http://scientifically.info/)
 * [SciURLs – World's simplest science news aggregator](https://sciurls.com/)
 * [Frame of Essence](https://www.youtube.com/c/frameofessence)
 * Борис Штерн: "Исследование Вселенной: прорывы и тупики XXI века"
@@ -528,12 +528,12 @@
 * [Why our universe might exist on a knife-edge | Gian Giudice - YouTube](https://www.youtube.com/watch?v=b8z6HfSq7l8)
 * [Einführung in die Akustik : free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/?q=Einf%C3%BChrung+in+die+Akustik+)
 * [¿Qué es la mecánica cuántica?](https://youtu.be/zOX-gbH7J64)
-* http://edgarredondo.com/
+* [edgarredondo.com/](http://edgarredondo.com/)
 * [Pensamiento Científico | Universidad Nacional Autónoma de México](https://www.coursera.org/learn/ciencia)
 * [El sueño de Alicia: La vida y la ciencia se funden en la historia más emocionante](https://www.amazon.com/El-sue%C3%B1o-Alicia-historia-emocionante-ebook/dp/B00E40BQ9G/ref=sr_1_6?ie=UTF8&qid=1490023475&sr=8-6&keywords=el+mundo+de+sof%C3%ADa)
-* [http://scopeblog.stanford.edu/2015/12/22/recommended-holiday-reading-for-the-medicine-and-science-enthusiast/](http://scopeblog.stanford.edu/2015/12/22/recommended-holiday-reading-for-the-medicine-and-science-enthusiast/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+stanford%2Fscope+%28SCOPE%29)
-* http://www.nature.com/news/2006/060703/multimedia/50_science_blogs.html
-* http://www.scientistafoundation.com/top-five-science-magazines.html
+* [http://scopeblog.stanford.edu/2015/12/22/recommended-holiday-reading-for-the-medicine-and-science-enthusiast/](http://scopeblog.stanford.edu/2015/12/22/recommended-holiday-reading-for-the-medicine-and-science-enthusiast/)
+* [nature.com/news/2006/060703/multimedia/50_science_blogs.html](http://www.nature.com/news/2006/060703/multimedia/50_science_blogs.html)
+* [scientistafoundation.com/top-five-science-magazines.html](http://www.scientistafoundation.com/top-five-science-magazines.html)
 * [Наука в Instagram](https://vk.com/@sciencelib-nauka-v-instagram)
 * [INDISCERNIBILIDADE E IDENTIDADE EM QUÍMICA:ASPECTOS FILOSÓFICOS E FORMAIS](https://www.scielo.br/pdf/man/v37n1/a04v37n1.pdf)
 * [A New Funding Model for Scientists | Science | AAAS](https://www.sciencemag.org/careers/2014/01/new-funding-model-scientists)
@@ -561,14 +561,14 @@
 * [**The Most Meaningful Books I Read in 2016](http://blog.ncase.me/the-most-meaningful-books-i-read-in-2016/)
 * [Педагогика: Учебник. 2004 - Основы педагогики](https://knigi.link/pedagogiki-osnovyi/pedagogika-uchebnik.html)
 * [Пошук аудіозаписів за запитом ГЕДЕЛЬ, ЭШЕР, БАХ](https://vk.com/search?c%5Bper_page%5D=200&c%5Bq%5D=%D0%93%D0%95%D0%94%D0%95%D0%9B%D0%AC%2C%20%D0%AD%D0%A8%D0%95%D0%A0%2C%20%D0%91%D0%90%D0%A5&c%5Bsection%5D=audio)
-* [Probability - The Science of Uncertainty and Data](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data?utm_medium=partner-marketing&utm_source=paid-social&utm_campaign=mitx&utm_content=mm-ds-fl18-fb-us-4)
+* [Probability - The Science of Uncertainty and Data](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
 * [книга о космосе](https://vk.com/wall-37160097_104911)
 * [Logika i naucny metod](https://vk.com/wall-124609314_78536)
 * [Neirofiz](https://vk.com/wall-136547353_27887)
 * [Neirologika](https://vk.com/wall-124609314_80787)
 * [How to Win the Evolution War](http://link.springer.com/article/10.1007/s12052-010-0213-5)
-* https://www.senscritique.com/top/resultats/Les_meilleurs_livres_de_vulgarisation_scientifique/535070
-* http://civilisation2.org/top-10-des-livres-scientifiques-les-plus-influents-et-populaires/
+* [senscritique.com/top/resultats/Les_meilleurs_livres_de_vulgarisation_scientifique/535070](https://www.senscritique.com/top/resultats/Les_meilleurs_livres_de_vulgarisation_scientifique/535070)
+* [civilisation2.org/top-10-des-livres-scientifiques-les-plus-influents-et-populaires/](http://civilisation2.org/top-10-des-livres-scientifiques-les-plus-influents-et-populaires/)
 * [Mechanika kwantowa: historia pewnej nierówności, Michał Eckstein - YouTube](https://www.youtube.com/watch?v=eRDxsl06f30)
 * [01. Введение в физику](https://vk.com/video-51126445_456239201?list=c4db23eeb3f531a001)
 * [Animal Musicalities Birds, Beasts, and Evolutionary Listening.pdf](https://vk.com/doc348852382_507710117?hash=0357dd875306a277e6&dl=fd071812a4b9f2d2d6)
@@ -616,37 +616,37 @@
 * [BBC - Earth - Why do women have periods when most animals don't?](http://www.bbc.com/earth/story/20150420-why-do-women-have-periods)
 * [Cooperating with the future | Nature](https://www.nature.com/articles/nature13530)
 * [future of the earth](https://www.google.com/search?q=future+of+the+earth&oq=future+of+the+earth&aqs=chrome..69i57j0l5.21426j0j7&sourceid=chrome&es_sm=93&ie=UTF-8)
-* http://blogs.scientificamerican.com/guest-blog/beyond-resveratrol-the-anti-aging-nad-fad/?utm_source=outbrain&utm_medium=content&utm_term=longevity&utm_content=fastandMIT&utm_campaign=june2015
-* http://discovermagazine.com/2006/dec/25-greatest-science-books
-* http://elementy.ru/novosti_nauki/430543
-* http://learning.hccs.edu/faculty/robert.tierney/phil1301-6/course-contents/unit-3/readings-and-handouts/tierney-five-virtues-of-a-hypothesis
-* http://nautil.us/blog/love-can-make-you-smarter
-* http://nautil.us/issue/33/attraction/describing-people-as-particles-isnt-always-a-bad-idea
-* http://nautil.us/issue/46/balance/if-you-think-youre-a-genius-youre-crazy-rp
-* http://postnauka.ru/books/8205
-* http://www.allaboutscience.org/spanish/segunda-ley-de-la-termodinamica.htm
-* http://www.americanscientist.org/bookshelf/pub/100-or-so-books-that-shaped-a-century-of-science
-* http://www.epfischer.com/wenn-wissenschaft-versagt/
-* http://www.lescienze.it/news/2017/01/09/news/origine_lampi_radio_veloci-3375949/
-* http://www.monografias.com/trabajos10/fciencia/fciencia.shtml
-* http://www.nature.com/news/scientific-language-is-becoming-more-informal-1.20963
-* http://www.scientificamerican.com/article/how-to-raise-a-genius-lessons-from-a-45-year-study-of-supersmart-children/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits
-* http://www.scientificamerican.com/article/kahneman-excerpt-thinking-fast-and-slow/
-* http://www.sheldrake.org/about-rupert-sheldrake/blog/the-replicability-crisis-in-science
-* http://www.theatlantic.com/science/archive/2016/03/the-nature-of-change/473637/
-* https://engineering.stanford.edu/magazine/article/manu-prakash-physics-biology
-* https://fabiusmaximus.com/2016/04/19/replication-crisis-in-science-95394/
-* https://uk.wikipedia.org/wiki/%D0%9F%D1%82%D0%B0%D1%85%D0%B8
-* https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B0%D1%85%D1%96%D0%B2_%D1%84%D0%B0%D1%83%D0%BD%D0%B8_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8
-* https://vk.com/wall-124609314_92372
-* https://www.edge.org/response-detail/25293
-* https://www.geekwrapped.com/posts/the-50-best-science-books
-* https://www.geneticliteracyproject.org/2014/03/06/was-lamarck-right-groundbreaking-epigenetic-research-suggests-we-might-inherit-learned-traits-but-how/
-* https://www.google.com/search?q=replication+crisis+in+science&oq=replication++crisis+in+science&aqs=chrome..69i57.6615j0j7&sourceid=chrome&ie=UTF-8
-* [https://www.google.com/search?q=world%27s+most+cited+academic+papers+and+books&oq=world%27s+most+cited+academic+papers+and+books&aqs=chrome..69i57.9831j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=world%27s+most+cited+academic+papers+and+books&oq=world%27s+most+cited+academic+papers+and+books&aqs=chrome)
-* https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#safe=active&q=best+science+books+of+all+time&*
-* https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#safe=active&q=scientific+myths
-* https://www.mpg.de/10952090/MPF_2017_2
+* [blogs.scientificamerican.com/guest-blog/beyond-resveratrol-the-anti-aging-nad-fad/](http://blogs.scientificamerican.com/guest-blog/beyond-resveratrol-the-anti-aging-nad-fad/)
+* [discovermagazine.com/2006/dec/25-greatest-science-books](http://discovermagazine.com/2006/dec/25-greatest-science-books)
+* [elementy.ru/novosti_nauki/430543](http://elementy.ru/novosti_nauki/430543)
+* [learning.hccs.edu/faculty/robert.tierney/phil1301-6/course-contents/unit-3/readings-and-handouts/tierney-five-virtues-of-a-hypothesis](http://learning.hccs.edu/faculty/robert.tierney/phil1301-6/course-contents/unit-3/readings-and-handouts/tierney-five-virtues-of-a-hypothesis)
+* [nautil.us/blog/love-can-make-you-smarter](http://nautil.us/blog/love-can-make-you-smarter)
+* [nautil.us/issue/33/attraction/describing-people-as-particles-isnt-always-a-bad-idea](http://nautil.us/issue/33/attraction/describing-people-as-particles-isnt-always-a-bad-idea)
+* [nautil.us/issue/46/balance/if-you-think-youre-a-genius-youre-crazy-rp](http://nautil.us/issue/46/balance/if-you-think-youre-a-genius-youre-crazy-rp)
+* [postnauka.ru/books/8205](http://postnauka.ru/books/8205)
+* [allaboutscience.org/spanish/segunda-ley-de-la-termodinamica.htm](http://www.allaboutscience.org/spanish/segunda-ley-de-la-termodinamica.htm)
+* [americanscientist.org/bookshelf/pub/100-or-so-books-that-shaped-a-century-of-science](http://www.americanscientist.org/bookshelf/pub/100-or-so-books-that-shaped-a-century-of-science)
+* [epfischer.com/wenn-wissenschaft-versagt/](http://www.epfischer.com/wenn-wissenschaft-versagt/)
+* [lescienze.it/news/2017/01/09/news/origine_lampi_radio_veloci-3375949/](http://www.lescienze.it/news/2017/01/09/news/origine_lampi_radio_veloci-3375949/)
+* [monografias.com/trabajos10/fciencia/fciencia.shtml](http://www.monografias.com/trabajos10/fciencia/fciencia.shtml)
+* [nature.com/news/scientific-language-is-becoming-more-informal-1.20963](http://www.nature.com/news/scientific-language-is-becoming-more-informal-1.20963)
+* [scientificamerican.com/article/how-to-raise-a-genius-lessons-from-a-45-year-study-of-supersmart-children/](http://www.scientificamerican.com/article/how-to-raise-a-genius-lessons-from-a-45-year-study-of-supersmart-children/)
+* [scientificamerican.com/article/kahneman-excerpt-thinking-fast-and-slow/](http://www.scientificamerican.com/article/kahneman-excerpt-thinking-fast-and-slow/)
+* [sheldrake.org/about-rupert-sheldrake/blog/the-replicability-crisis-in-science](http://www.sheldrake.org/about-rupert-sheldrake/blog/the-replicability-crisis-in-science)
+* [theatlantic.com/science/archive/2016/03/the-nature-of-change/473637/](http://www.theatlantic.com/science/archive/2016/03/the-nature-of-change/473637/)
+* [engineering.stanford.edu/magazine/article/manu-prakash-physics-biology](https://engineering.stanford.edu/magazine/article/manu-prakash-physics-biology)
+* [fabiusmaximus.com/2016/04/19/replication-crisis-in-science-95394/](https://fabiusmaximus.com/2016/04/19/replication-crisis-in-science-95394/)
+* [uk.wikipedia.org/wiki/%D0%9F%D1%82%D0%B0%D1%85%D0%B8](https://uk.wikipedia.org/wiki/%D0%9F%D1%82%D0%B0%D1%85%D0%B8)
+* [uk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B0%D1%85%D1%96%D0%B2_%D1%84%D0%B0%D1%83%D0%BD%D0%B8_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8](https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B0%D1%85%D1%96%D0%B2_%D1%84%D0%B0%D1%83%D0%BD%D0%B8_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8)
+* [vk.com/wall-124609314_92372](https://vk.com/wall-124609314_92372)
+* [edge.org/response-detail/25293](https://www.edge.org/response-detail/25293)
+* [geekwrapped.com/posts/the-50-best-science-books](https://www.geekwrapped.com/posts/the-50-best-science-books)
+* [geneticliteracyproject.org/2014/03/06/was-lamarck-right-groundbreaking-epigenetic-research-suggests-we-might-inherit-learned-traits-but-how/](https://www.geneticliteracyproject.org/2014/03/06/was-lamarck-right-groundbreaking-epigenetic-research-suggests-we-might-inherit-learned-traits-but-how/)
+* [google.com/search?q=replication+crisis+in+science&oq=replication++crisis+in+science&aqs=chrome..69i57.6615j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=replication+crisis+in+science&oq=replication++crisis+in+science&aqs=chrome..69i57.6615j0j7&sourceid=chrome&ie=UTF-8)
+* [google.com/search?q=world%27s+most+cited+academic+papers+and+books&oq=world%27s+most+cited+academic+papers+and+books&aqs=chrome..69i57.9831j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=world%27s+most+cited+academic+papers+and+books&oq=world%27s+most+cited+academic+papers+and+books&aqs=chrome)
+* [google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#safe=active&q=best+science+books+of+all+time&*](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#safe=active&q=best+science+books+of+all+time&*)
+* [google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#safe=active&q=scientific+myths](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#safe=active&q=scientific+myths)
+* [mpg.de/10952090/MPF_2017_2](https://www.mpg.de/10952090/MPF_2017_2)
 * [Intelligent Design is Stupid: Neil deGrasse Tyson - YouTube](https://www.youtube.com/watch?v=oEl9kVl6KPc)
 * [INTÉRÊT, sciences humaines, Psychologie et psychanalyse - Encyclopædia Universalis](https://www.universalis.fr/encyclopedie/interet-sciences-humaines/2-psychologie-et-psychanalyse/)
 * is there any way for humans to avoid a heat death?
@@ -663,7 +663,7 @@
 * [La théorie du ruissellement existe-t-elle ? - Optimum, le seul blog véritablement optimal](http://www.optimum-blog.net/post/2018/04/30/La-th%C3%A9orie-du-ruissellement-existe-t-elle)
 * [Les 10 articles que vous avez préférés en 2017 - Pour la Science](http://www.pourlascience.fr/ewb_pages/a/actu-les-10-articles-que-vous-avez-preferes-en-2017-39042.php)
 * [Les 7 merveilles de la mécanique quantique | Science étonnante](https://sciencetonnante.wordpress.com/2013/09/30/les-7-merveilles-de-la-mecanique-quantique/)
-* [Mechanical Engineering: Big and Small | Stanford School of Engineering](https://engineering.stanford.edu/magazine/mechanical-engineering-big-and-small?utm_source=facebook&utm_medium=social&utm_campaign=content-promo&utm_content=06012018&%3Futm_medium=paid)
+* [Mechanical Engineering: Big and Small | Stanford School of Engineering](https://engineering.stanford.edu/magazine/mechanical-engineering-big-and-small)
 * [MedlinePlus - Información de Salud de la Biblioteca Nacional de Medicina](https://medlineplus.gov/spanish/)
 * [Nauka!](https://vk.com/wall-36047336_76642)
 * [Noticias científicas septiembre 2018 - YouTube](https://www.youtube.com/watch?v=ZY3g_zaEstM)
@@ -686,8 +686,8 @@
 * [Standard Model (graphic)](https://i.redd.it/mz2zenqyu0g41.jpg)
 * [Cien preguntas básicas sobre la ciencia](https://en.de1lib.org/book/1058942/43d49c)
 * [Das Buch der Klänge: Eine Reise zu den akustischen Wundern der Welt [1 ed.]](http://libgen.is/book/index.php?md5=BF978CA51F60466F4C7C8E2123F0D7D9)
-* https://github.com/EbookFoundation/free-science-books
-* https://www.mpiwg-berlin.mpg.de/podcast/science-social-conversations-history-science-and-society
+* [EbookFoundation/free-science-books](https://github.com/EbookFoundation/free-science-books)
+* [mpiwg-berlin.mpg.de/podcast/science-social-conversations-history-science-and-society](https://www.mpiwg-berlin.mpg.de/podcast/science-social-conversations-history-science-and-society)
 * [Pianeta acustico](http://libgen.is/book/index.php?md5=E9FA4FD558AFB2077B3900111BB8C4CA)
 * [Siła nawyku. Dlaczego robimy to, co robimy i jak można to zmienić w życiu i biznesie](https://en.de1lib.org/book/3521448/72b871)
 * [The Sound Book: The Science of the Sonic Wonders of the World](http://library.lol/main/0EBFBF691FA0C59471B377C4C93C74CC)
@@ -740,14 +740,14 @@
 * Химия на пальцах
 * Физика Зазеркалья
 * Занимательные вопросы об астрономии
-* https://www.livelib.ru/selection/2014267-dostupnaya-fizika
+* [livelib.ru/selection/2014267-dostupnaya-fizika](https://www.livelib.ru/selection/2014267-dostupnaya-fizika)
 * [Пространство. Время. Материя. Лекции по общей теории относительности](http://libgen.rs/book/index.php?md5=3F9F60AA514218444F410AFA36B07449)
 * Физика для чайников
 * Страх физика
 * determinants of scientific funding
 * science as description, explanation, and prognostication
-* https://www.freethink.com/
-* https://nplus1.ru/
+* [freethink.com/](https://www.freethink.com/)
+* [nplus1.ru/](https://nplus1.ru/)
 * [Naber, Gregory L. - Quantum Mechanics: An Introduction to the Physical Background and Mathematical Structure](https://libgen.rs/book/index.php?md5=5EA03451B2543C877D79F17429A48DFA)
 * [A Project to Find the Fundamental Theory of Physics](http://library.lol/main/7BA064808CA6AD8962C234E57DEE0BC1)
 * [A new kind of science](http://library.lol/main/B8B541A6008B194944DE9FC50ADA96A4)
@@ -771,19 +771,19 @@
 * [Сивухин Д.В. Общий курс физики. Том 5. Атомна и ядерная физика. 2002.djvu](https://vk.com/doc44301783_471968382?hash=808cfb0412836ac5a2&dl=5728b98af3c03219c6)*
 * Reading (5)
 * [Взламывая квантовую физику](https://vk.com/doc44301783_619922240?hash=aafe2d6646c2cde151&dl=aa75b8fa784a4fca37)
-* https://cmtscience.ru/
-* https://www.youtube.com/results?search_query=if+you+don%27t+understand+quantum+physics+try+this
+* [cmtscience.ru/](https://cmtscience.ru/)
+* [](https://www.youtube.com/results?search_query=if+you+don%27t+understand+quantum+physics+try+this)
 * [Il primo libro di filosofia della scienza](http://libgen.is/book/index.php?md5=7DA72884D297E443C22D1A325E5F6673)
-* http://libgen.is/search.php?req=livre+science&open=0&res=25&view=simple&phrase=1&column=def
-* https://saso-dolenc.com/
-* http://libgen.rs/search.php?req=Sabine+Hossenfelder&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
-* [<-- http://sabinehossenfelder.com/index.php](http://sabinehossenfelder.com/index.php)
-* https://de.universaldenker.org/
-* https://www.derstandard.de/story/2000125099281/neue-theoretische-loesungen-fuerreisen-mit-ueberlichtgeschwindigkeit-entdeckt
-* https://www.nature.com/nature/articles?type=nature-podcast
+* [libgen.is/search.php?req=livre+science&open=0&res=25&view=simple&phrase=1&column=def](http://libgen.is/search.php?req=livre+science&open=0&res=25&view=simple&phrase=1&column=def)
+* [saso-dolenc.com/](https://saso-dolenc.com/)
+* [libgen.rs/search.php?req=Sabine+Hossenfelder&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def](http://libgen.rs/search.php?req=Sabine+Hossenfelder&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+* [<-- [sabinehossenfelder.com/index.php](http://sabinehossenfelder.com/index.php)](http://sabinehossenfelder.com/index.php](http://sabinehossenfelder.com/index.php))
+* [de.universaldenker.org/](https://de.universaldenker.org/)
+* [derstandard.de/story/2000125099281/neue-theoretische-loesungen-fuerreisen-mit-ueberlichtgeschwindigkeit-entdeckt](https://www.derstandard.de/story/2000125099281/neue-theoretische-loesungen-fuerreisen-mit-ueberlichtgeschwindigkeit-entdeckt)
+* [nature.com/nature/articles?type=nature-podcast](https://www.nature.com/nature/articles?type=nature-podcast)
 * [Théorie des cordes](https://youtu.be/rXhzeKh8yBk)
 * [Physik: für Wissenschaftler und Ingenieure](https://b-ok.cc/book/2487178/f83804)
-* [https://b-ok.cc/s/chemie für](https://b-ok.cc/s/chemie%20f%C3%BCr)
+* [b-ok.cc/s/chemie für](https://b-ok.cc/s/chemie%20f%C3%BCr)
 * [The Hidden Structure of the Universe | Quanta Magazine](https://www.quantamagazine.org/the-hidden-structure-of-the-universe-20201022/)
 * [What Is a Particle? | Quanta Magazine](https://www.quantamagazine.org/what-is-a-particle-20201112/)
 * [A New Map of the Standard Model of Particle Physics | Quanta Magazine](https://www.quantamagazine.org/a-new-map-of-the-standard-model-of-particle-physics-20201022/)
@@ -795,66 +795,66 @@
 * Soziologie der Wissenschaften →
 * [Encyclopedie des sciences | Dominique Lecourt](https://b-ok.cc/book/451283/23f809?dsource=recommend)
 * [Dictionnaire d’histoire et philosophie des sciences | Dominique Lecourt, Thomas Bourgeois](https://b-ok.cc/book/3411012/0bd623)
-* http://www.scienzainrete.it/
-* https://it.wikipedia.org/wiki/Categoria:Riviste_di_divulgazione_scientifica_italiane
+* [scienzainrete.it/](http://www.scienzainrete.it/)
+* [it.wikipedia.org/wiki/Categoria:Riviste_di_divulgazione_scientifica_italiane](https://it.wikipedia.org/wiki/Categoria:Riviste_di_divulgazione_scientifica_italiane)
 * [Эксклюзивная классика (sci)](https://vk.com/wall-135395111_20384)
-* http://www.thefutureofenergy.org/
-* http://www.popsci.com/tags/future-energy
-* http://about.bnef.com/summit/
-* https://en.wikipedia.org/wiki/Future_of_the_Earth
-* https://www.researchgate.net/profile/Goeran_Berndes/publication/46641962_The_contribution_of_biomass_in_the_future_global_energy_system_a_review_of_17_studies/links/550d7ed60cf2752610992505.pdf
-* http://ethic-forum.unife.it/E602373e_ev-Balzani.pdf
-* http://www.huffingtonpost.com/2015/07/07/future-of-energy-video_n_7410468.html
-* http://discovermagazine.com/2012/nov/03-the-future-of-energy-earth-wind-water
-* https://www.singularityweblog.com/earth-2050-future-of-energy/
-* https://docs.google.com/document/d/1yeEQIthDuOHe3YTHTywJy-HfACDQgNXFdLquHvkV5r0/edit
-* http://necessaryandpropergovt.wordpress.com/2012/11/21/americas-political-bilingualism/
-* https://www.washingtonpost.com/local/why-dc-has-a-uniquely-bad-record-on-helping-the-unemployed-get-jobs/2015/12/12/751d05ae-99d4-11e5-94f0-9eeaff906ef3_story.html?hs_u=isaac.r.riley@gmail.com&utm_campaign=Metropolitan+Policy+Program&utm_source=hs_email&utm_medium=email&utm_content=24697753&_hsenc=p2ANqtz-_tTJBvTFnD5czL7Y_f_C_tmg1Mr6rtrS7rmUL08nx1EwqXcOqBm3_elaiQH--QIBTsk3Q9qSZo3wacDrBdC8jRbY1rGg&_hsmi=24697753
-* http://unsolicitedopinion.blogspot.com/
-* http://www.bostonglobe.com/ideas/2013/08/23/who-will-fight-beauty-bias/Kq3pbfOy4VRJtlKrmyWBNO/story.html
-* http://verilymag.com/do-women-have-to-choose-between-having-children-or-a-career/
-* http://mic.com/articles/104096/there-s-a-suicide-epidemic-in-utah-and-one-neuroscientist-thinks-he-knows-why
-* http://www.foundationsmag.com/wisdom.html
-* http://www.truthandaction.org/hitler-survivor-keep-guns-buy/2/
-* https://en.wikipedia.org/wiki/Sustainable_energy
-* http://courseweb.lis.illinois.edu/~katewill/spring2011-502/502%20and%20other%20readings/eliot%20choruses_from_the_rock.pdf
-* http://www.washingtonpost.com/sf/national/2015/08/08/black-and-unarmed/
-* http://www.vinepoverite.ru/post.php?id=552
-* https://aswwu.com/collegian/author/heather-ruiz/
-* http://www.theblaze.com/contributions/our-problem-isnt-guns-or-mental-illness-its-godlessness/?utm_source=facebook&utm_medium=story&utm_campaign=ShareButtons
-* http://www.economist.com/news/united-states/21660161-understandable-impulse-self-defence-nevertheless-mistaken-god-good-guys-and-guns?spc=scode&spv=xm&ah=9d7f7ab945510a56fa6d37c30b6f1709
-* http://www.thepublicdiscourse.com/2015/04/14899/
-* http://regnum.ru/news/society/1975647.html
-* https://imprimis.hillsdale.edu/history-american-democracy-and-the-ap-test-controversy/?utm_source=housefile&utm_medium=email&utm_content=july2015&utm_campaign=imprimis&_hsenc=p2ANqtz-8Jc0qOxILLeQyY2cL3gPcRuqhinYHeVEp3LT6qjDAwbF6fHX8zNCnRZoVwj8yhN3CLw014UKh2wYH1iJ67DJVqZXhHbw&_hsmi=21232737
-* http://evansayet.com/
-* http://humanevents.com/2013/04/25/liberalism-and-islam/
-* http://www.bookwormroom.com/2013/04/29/the-reason-that-liberals-hate-christianity-but-ignore-islam/
-* http://www.smh.com.au/news/opinion/behind-the-veil-lives-a-thriving-muslim-sexuality/2008/08/29/1219516734637.html?page=2
-* http://human-stupidity.com/
-* http://www.christianpost.com/news/ex-muslim-proposal-that-islam-is-tolerant-is-fallacious-dangerous-47349/
-* http://www.thedailybeast.com/articles/2015/11/13/this-is-how-ak-47s-get-to-paris.html
-* https://en.wikipedia.org/wiki/Genital_modification_and_mutilation
-* https://en.wikipedia.org/wiki/The_Negro_Family:_The_Case_For_National_Action*
+* [thefutureofenergy.org/](http://www.thefutureofenergy.org/)
+* [popsci.com/tags/future-energy](http://www.popsci.com/tags/future-energy)
+* [about.bnef.com/summit/](http://about.bnef.com/summit/)
+* [en.wikipedia.org/wiki/Future_of_the_Earth](https://en.wikipedia.org/wiki/Future_of_the_Earth)
+* [researchgate.net/profile/Goeran_Berndes/publication/46641962_The_contribution_of_biomass_in_the_future_global_energy_system_a_review_of_17_studies/links/550d7ed60cf2752610992505.pdf](https://www.researchgate.net/profile/Goeran_Berndes/publication/46641962_The_contribution_of_biomass_in_the_future_global_energy_system_a_review_of_17_studies/links/550d7ed60cf2752610992505.pdf)
+* [ethic-forum.unife.it/E602373e_ev-Balzani.pdf](http://ethic-forum.unife.it/E602373e_ev-Balzani.pdf)
+* [huffingtonpost.com/2015/07/07/future-of-energy-video_n_7410468.html](http://www.huffingtonpost.com/2015/07/07/future-of-energy-video_n_7410468.html)
+* [discovermagazine.com/2012/nov/03-the-future-of-energy-earth-wind-water](http://discovermagazine.com/2012/nov/03-the-future-of-energy-earth-wind-water)
+* [singularityweblog.com/earth-2050-future-of-energy/](https://www.singularityweblog.com/earth-2050-future-of-energy/)
+* [docs.google.com/document/d/1yeEQIthDuOHe3YTHTywJy-HfACDQgNXFdLquHvkV5r0/edit](https://docs.google.com/document/d/1yeEQIthDuOHe3YTHTywJy-HfACDQgNXFdLquHvkV5r0/edit)
+* [necessaryandpropergovt.wordpress.com/2012/11/21/americas-political-bilingualism/](http://necessaryandpropergovt.wordpress.com/2012/11/21/americas-political-bilingualism/)
+* [washingtonpost.com/local/why-dc-has-a-uniquely-bad-record-on-helping-the-unemployed-get-jobs/2015/12/12/751d05ae-99d4-11e5-94f0-9eeaff906ef3_story.html?hs_u=isaac.r.riley@gmail.com](https://www.washingtonpost.com/local/why-dc-has-a-uniquely-bad-record-on-helping-the-unemployed-get-jobs/2015/12/12/751d05ae-99d4-11e5-94f0-9eeaff906ef3_story.html?hs_u=isaac.r.riley@gmail.com)
+* [unsolicitedopinion.blogspot.com/](http://unsolicitedopinion.blogspot.com/)
+* [bostonglobe.com/ideas/2013/08/23/who-will-fight-beauty-bias/Kq3pbfOy4VRJtlKrmyWBNO/story.html](http://www.bostonglobe.com/ideas/2013/08/23/who-will-fight-beauty-bias/Kq3pbfOy4VRJtlKrmyWBNO/story.html)
+* [verilymag.com/do-women-have-to-choose-between-having-children-or-a-career/](http://verilymag.com/do-women-have-to-choose-between-having-children-or-a-career/)
+* [mic.com/articles/104096/there-s-a-suicide-epidemic-in-utah-and-one-neuroscientist-thinks-he-knows-why](http://mic.com/articles/104096/there-s-a-suicide-epidemic-in-utah-and-one-neuroscientist-thinks-he-knows-why)
+* [foundationsmag.com/wisdom.html](http://www.foundationsmag.com/wisdom.html)
+* [truthandaction.org/hitler-survivor-keep-guns-buy/2/](http://www.truthandaction.org/hitler-survivor-keep-guns-buy/2/)
+* [en.wikipedia.org/wiki/Sustainable_energy](https://en.wikipedia.org/wiki/Sustainable_energy)
+* [courseweb.lis.illinois.edu/~katewill/spring2011-502/502%20and%20other%20readings/eliot%20choruses_from_the_rock.pdf](http://courseweb.lis.illinois.edu/~katewill/spring2011-502/502%20and%20other%20readings/eliot%20choruses_from_the_rock.pdf)
+* [washingtonpost.com/sf/national/2015/08/08/black-and-unarmed/](http://www.washingtonpost.com/sf/national/2015/08/08/black-and-unarmed/)
+* [vinepoverite.ru/post.php?id=552](http://www.vinepoverite.ru/post.php?id=552)
+* [aswwu.com/collegian/author/heather-ruiz/](https://aswwu.com/collegian/author/heather-ruiz/)
+* [theblaze.com/contributions/our-problem-isnt-guns-or-mental-illness-its-godlessness/](http://www.theblaze.com/contributions/our-problem-isnt-guns-or-mental-illness-its-godlessness/)
+* [economist.com/news/united-states/21660161-understandable-impulse-self-defence-nevertheless-mistaken-god-good-guys-and-guns?spc=scode&spv=xm&ah=9d7f7ab945510a56fa6d37c30b6f1709](http://www.economist.com/news/united-states/21660161-understandable-impulse-self-defence-nevertheless-mistaken-god-good-guys-and-guns?spc=scode&spv=xm&ah=9d7f7ab945510a56fa6d37c30b6f1709)
+* [thepublicdiscourse.com/2015/04/14899/](http://www.thepublicdiscourse.com/2015/04/14899/)
+* [regnum.ru/news/society/1975647.html](http://regnum.ru/news/society/1975647.html)
+* [imprimis.hillsdale.edu/history-american-democracy-and-the-ap-test-controversy/](https://imprimis.hillsdale.edu/history-american-democracy-and-the-ap-test-controversy/)
+* [evansayet.com/](http://evansayet.com/)
+* [humanevents.com/2013/04/25/liberalism-and-islam/](http://humanevents.com/2013/04/25/liberalism-and-islam/)
+* [bookwormroom.com/2013/04/29/the-reason-that-liberals-hate-christianity-but-ignore-islam/](http://www.bookwormroom.com/2013/04/29/the-reason-that-liberals-hate-christianity-but-ignore-islam/)
+* [smh.com.au/news/opinion/behind-the-veil-lives-a-thriving-muslim-sexuality/2008/08/29/1219516734637.html?page=2](http://www.smh.com.au/news/opinion/behind-the-veil-lives-a-thriving-muslim-sexuality/2008/08/29/1219516734637.html?page=2)
+* [human-stupidity.com/](http://human-stupidity.com/)
+* [christianpost.com/news/ex-muslim-proposal-that-islam-is-tolerant-is-fallacious-dangerous-47349/](http://www.christianpost.com/news/ex-muslim-proposal-that-islam-is-tolerant-is-fallacious-dangerous-47349/)
+* [thedailybeast.com/articles/2015/11/13/this-is-how-ak-47s-get-to-paris.html](http://www.thedailybeast.com/articles/2015/11/13/this-is-how-ak-47s-get-to-paris.html)
+* [en.wikipedia.org/wiki/Genital_modification_and_mutilation](https://en.wikipedia.org/wiki/Genital_modification_and_mutilation)
+* [en.wikipedia.org/wiki/The_Negro_Family:_The_Case_For_National_Action*](https://en.wikipedia.org/wiki/The_Negro_Family:_The_Case_For_National_Action*)
 * Reading (6)
-* http://wbgu.de/
+* [wbgu.de/](http://wbgu.de/)
 * сводочный проект для ак. письма, ак. статей: какие имеются выводы?
 * How can the transformation from matter to energy be irreversible? Is there an infinite amount of matter in the universe? (B21)
 * Is gravity the force needed to counteract the 2nd Law of Thermodynamics? How does God avert heat death?
 * Is gravity the force that God uses to counteract the 2nd Law of Thermodynamics? Or is there a force or process that converts energy back to matter? Is the 2nd Law absolute? Does it only apply to certain conditions or locales (like earth)?
-* http://www.telegraph.co.uk/comment/columnists/christopherbooker/6679082/Climate-change-this-is-the-worst-scientific-scandal-of-our-generation.html
+* [telegraph.co.uk/comment/columnists/christopherbooker/6679082/Climate-change-this-is-the-worst-scientific-scandal-of-our-generation.html](http://www.telegraph.co.uk/comment/columnists/christopherbooker/6679082/Climate-change-this-is-the-worst-scientific-scandal-of-our-generation.html)
 * [Interpretive Labor – Aceso Under Glass](https://acesounderglass.com/2015/06/09/interpretive-labor/)
 * [Mario Bunge - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Mario_Bunge#Bibliograf%C3%ADa)
 * [Mario Bunge, Las Caracteristicas de la Ciencia - YouTube](https://www.youtube.com/watch?v=jzFQM5TJv4E)
 * [¿Qué es la vida? - YouTube](https://www.youtube.com/watch?v=gw5eqczQFT4)
 * Daniel Dennett, Lawrence Krauss and Massimo Pigliucci discuss The Limits Of Science @ Het Denkgelag - YouTube
-* https://www.contrepoints.org/2018/02/09/309306-philosophie-physique-rameaux-opposites
+* [contrepoints.org/2018/02/09/309306-philosophie-physique-rameaux-opposites](https://www.contrepoints.org/2018/02/09/309306-philosophie-physique-rameaux-opposites)
 * Karl Popper - &quot;Lasst Theorien sterben, nicht Menschen!&quot; (1990) - YouTube
 * [Nauka dla filozofii - oferta nie do odrzucenia, Michał Heller - YouTube](https://www.youtube.com/watch?v=32UIT8D8i8M)
 * The Limits of Science - A Critique of Scientism - YouTube
 * [The Origin of Structure and Beauty in the Universe, Julian Barbour | Copernicus Festival - YouTube](https://www.youtube.com/watch?v=MKkR-VuHDQE)
 * філософія науки pdf
 * [Doing Science: In The Light Of Philosophy - Bunge Mario Augusto - Google Книги](https://books.google.com/books?id=SwGyDgAAQBAJ&printsec=frontcover&hl=ru&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
-* https://philpapers.org/archive/MARMBP.pdf
+* [philpapers.org/archive/MARMBP.pdf](https://philpapers.org/archive/MARMBP.pdf)
 * [Mario Bunge | Search | HBLL](https://search.lib.byu.edu/byu/search?q=Mario+Bunge&page=2)
 * [Methodology and policy prescription in economic thought: response to Mario Bunge. Parte 1 | GRUPOBUNGE](https://grupobunge.wordpress.com/2006/08/07/methodology-and-policy-prescription-in-economic-thought-response-to-mario-bunge-parte-1/)
 * [Réflexions sur la science contemporaine](https://vk.com/doc277688559_437462665?hash=61d7d8a8d69260aa15&dl=25fa042f51e11fc2c4)
@@ -862,9 +862,9 @@
 * [Peer review: the end of an error?](https://www.the-tls.co.uk/articles/public/the-end-of-an-error-peer-review/)
 * [Sociology of scientific knowledge - Wikipedia](https://en.wikipedia.org/wiki/Sociology_of_scientific_knowledge)
 * [How did Science Come to Speak Only English?](https://aeon.co/essays/how-did-science-come-to-speak-only-english)
-* https://www.mendeley.com/research-funding
+* [mendeley.com/research-funding](https://www.mendeley.com/research-funding)
 * science et pouvoir
-* http://www.pro-physik.de/view/index.html
+* [pro-physik.de/view/index.html](http://www.pro-physik.de/view/index.html)
 * [Comprendre la physique quantique simplement - Institut Pandore](https://www.institut-pandore.com/physique-quantique/)
 * [Stanford Engineering](https://engineering.stanford.edu/magazine)
 * [Quantenmechanik - Quantenphysik Zusammenfassung fürs Physik-Abi](https://youtu.be/7fLFOgSVFJM)
@@ -876,34 +876,34 @@
 * [Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime](https://b-ok.cc/book/5237596/9ff4f2)
 * [Математические конструкции в квантовой логике и их современное применение](https://www.youtube.com/watch?v=Yv3BGGdiufE&list=PL-_cKNuVAYAVzoJQF0QbdgbmSrOx4bZIu)
 * [Linkage (mechanical) - Wikipedia](https://en.wikipedia.org/wiki/Linkage_(mechanical))
-* http://blog.nature.org/science/
-* http://www.ecomodernism.org/
-* http://www.okruzhayushchaya-sreda.ru/
-* http://www.ras.ru/sciformed/
-* http://www.priroda.su/
-* https://www.dbu.de/
-* http://www.duh.de/home.html
-* http://necu.org.ua/
-* http://www.environnement-magazine.fr/
-* http://www.davidsuzuki.org/fr/
-* http://elblogverde.com/
-* http://www.revistaplaneta.com.br/
-* http://www.cmcc.it/it/
-* http://www.unep.org/arabic/
-* http://beeah.ae/?lang=ar
-* http://blog.nature.org/science/
-* http://www.ecomodernism.org/
-* http://www.okruzhayushchaya-sreda.ru/
-* http://www.ras.ru/sciformed/
-* http://www.priroda.su/
-* https://www.dbu.de/
-* http://www.duh.de/home.html
-* http://necu.org.ua/
-* http://www.environnement-magazine.fr/
-* http://www.davidsuzuki.org/fr/
-* http://elblogverde.com/
-* http://www.revistaplaneta.com.br/
-* http://www.cmcc.it/it/
-* http://www.unep.org/arabic/
-* http://beeah.ae/?lang=ar*
+* [blog.nature.org/science/](http://blog.nature.org/science/)
+* [ecomodernism.org/](http://www.ecomodernism.org/)
+* [okruzhayushchaya-sreda.ru/](http://www.okruzhayushchaya-sreda.ru/)
+* [ras.ru/sciformed/](http://www.ras.ru/sciformed/)
+* [priroda.su/](http://www.priroda.su/)
+* [dbu.de/](https://www.dbu.de/)
+* [duh.de/home.html](http://www.duh.de/home.html)
+* [necu.org.ua/](http://necu.org.ua/)
+* [environnement-magazine.fr/](http://www.environnement-magazine.fr/)
+* [davidsuzuki.org/fr/](http://www.davidsuzuki.org/fr/)
+* [elblogverde.com/](http://elblogverde.com/)
+* [revistaplaneta.com.br/](http://www.revistaplaneta.com.br/)
+* [cmcc.it/it/](http://www.cmcc.it/it/)
+* [unep.org/arabic/](http://www.unep.org/arabic/)
+* [beeah.ae/?lang=ar](http://beeah.ae/?lang=ar)
+* [blog.nature.org/science/](http://blog.nature.org/science/)
+* [ecomodernism.org/](http://www.ecomodernism.org/)
+* [okruzhayushchaya-sreda.ru/](http://www.okruzhayushchaya-sreda.ru/)
+* [ras.ru/sciformed/](http://www.ras.ru/sciformed/)
+* [priroda.su/](http://www.priroda.su/)
+* [dbu.de/](https://www.dbu.de/)
+* [duh.de/home.html](http://www.duh.de/home.html)
+* [necu.org.ua/](http://necu.org.ua/)
+* [environnement-magazine.fr/](http://www.environnement-magazine.fr/)
+* [davidsuzuki.org/fr/](http://www.davidsuzuki.org/fr/)
+* [elblogverde.com/](http://elblogverde.com/)
+* [revistaplaneta.com.br/](http://www.revistaplaneta.com.br/)
+* [cmcc.it/it/](http://www.cmcc.it/it/)
+* [unep.org/arabic/](http://www.unep.org/arabic/)
+* [beeah.ae/?lang=ar*](http://beeah.ae/?lang=ar*)
 

@@ -388,7 +388,7 @@ I. Autoconocencia, autodesarrolla y autogerencia
 
 * Sort
 
-    Norman Cohn's 1957 book The Pursuit of the Millennium.    * http://www.oxfordtoday.ox.ac.uk/opinion/forget-your-delusions-and-be-happy-advises-john-gray
+    Norman Cohn's 1957 book The Pursuit of the Millennium.    * [oxfordtoday.ox.ac.uk/opinion/forget-your-delusions-and-be-happy-advises-john-gray](http://www.oxfordtoday.ox.ac.uk/opinion/forget-your-delusions-and-be-happy-advises-john-gray)
     Malaparte 1949 The Skin
     Alexander Herzen
     Louis Blanc
@@ -832,7 +832,7 @@ To what extent are normative statements about what all people should do and be m
 holiness != moral virtue
 
 Mereshkovsky, Tikhol the Sworded (?)
-* https://en.wikipedia.org/wiki/Dmitry_Merezhkovsky
+* [en.wikipedia.org/wiki/Dmitry_Merezhkovsky](https://en.wikipedia.org/wiki/Dmitry_Merezhkovsky)
 
 what causes ambition?
 
@@ -922,33 +922,33 @@ make a test schedule for languages, ideas, formulas, etc
 Для этого случая, мы сделали подборку каналов для самообразования и изучении себя как индивидуальной личности
 
 Арзамас - проект, посвященный истории культуры. Здесь расскажут о литературе, искусстве и других гуманитарных науках. Ресурс выпускает подкасты и аудиолекции, есть возможность слушать их через приложение.
-* [https://www.youtube.com/channel/UCVgvnGSFU41kIhEc09az..](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCVgvnGSFU41kIhEc09aztEg&post=-30435555_600&cc_key=)
+* [](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCVgvnGSFU41kIhEc09aztEg&post=-30435555_600&cc_key=)
 
 Центр Архэ - популяризаторы науки и культуры. Они проводят лекции, кинопоказы документальных фильмов и презентации научных книг.
-* [https://www.youtube.com/channel/UCY41Iz96tJZMEp1qyLH-..](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCY41Iz96tJZMEp1qyLH-LYQ&post=-30435555_600&cc_key=)
+* [](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCY41Iz96tJZMEp1qyLH-LYQ&post=-30435555_600&cc_key=)
 
 ПостНаука - это проект о современной науке и ученых, которые ее создают. На этом сайте собраны лекции исследователей и преподавателей, которые простыми словами объясняют сложные вещи.
-* [https://www.youtube.com/user/postnauka](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fuser%2Fpostnauka&post=-30435555_600&cc_key=)
+* [](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fuser%2Fpostnauka&post=-30435555_600&cc_key=)
 
 Сириус - занимается развитием и поддержкой одаренных детей. Он набирает студентов круглый год, и почти месяц дети от 10 до 17 лет проходят интенсивный курс по развитию навыков.
-* [https://www.youtube.com/channel/UCSVY5ZY6Zk-Wbr08sTmj..](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCSVY5ZY6Zk-Wbr08sTmjqMw&post=-30435555_600&cc_key=)
+* [](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCSVY5ZY6Zk-Wbr08sTmjqMw&post=-30435555_600&cc_key=)
 
 Синхронизация - занимается созданием онлайн-курсов про культуру, философию и психологию.
-* [https://www.youtube.com/c/Синхронизация/featured](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fc%2F%25D0%25A1%25D0%25B8%25D0%25BD%25D1%2585%25D1%2580%25D0%25BE%25D0%25BD%25D0%25B8%25D0%25B7%25D0%25B0%25D1%2586%25D0%25B8%25D1%258F%2Ffeatured&post=-30435555_600&cc_key=)
+* [](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fc%2F%25D0%25A1%25D0%25B8%25D0%25BD%25D1%2585%25D1%2580%25D0%25BE%25D0%25BD%25D0%25B8%25D0%25B7%25D0%25B0%25D1%2586%25D0%25B8%25D1%258F%2Ffeatured&post=-30435555_600&cc_key=)
 
 Лекторий Достоевский - выпускает бесплатные лекции, подкасты и проводит вебинары про литературу, культуру и историю. Это образовательная медиатека для слушателей всех возрастов.
-* [https://www.youtube.com/channel/UCPw03nFJLTYHF_ltJUcT..](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCPw03nFJLTYHF_ltJUcTV8A&post=-30435555_600&cc_key=)
+* [](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCPw03nFJLTYHF_ltJUcTV8A&post=-30435555_600&cc_key=)
 
 Лекторий ВШЭ - на канале Высшей школы экономики собраны лекции и дискуссии экспертов и преподавателей университета.
-* [https://www.youtube.com/user/hse](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fuser%2Fhse&post=-30435555_600&cc_key=)
+* [](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fuser%2Fhse&post=-30435555_600&cc_key=)
 
 Теории и практики - просветительское медиа для личностного и профессионального роста. На сайте есть статьи и подкасты про карьеру, культуру и отношения.
-* [https://www.youtube.com/channel/UCBXZ7z2XneLuUMf8raYZ..](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCBXZ7z2XneLuUMf8raYZfAg&post=-30435555_600&cc_key=)
+* [](https://vk.com/away.php?to=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCBXZ7z2XneLuUMf8raYZfAg&post=-30435555_600&cc_key=)
 
 
 ##
 * Organizations and Conferences
-        * https://www.youtube.com/@StrangeLoopConf
+        * [](https://www.youtube.com/@StrangeLoopConf)
 
 
 
@@ -1190,14 +1190,14 @@ make a test schedule for languages, ideas, formulas, etc
     Moderne Technologie - Lynch
         * [10 книг, которые расширят ваш кругозор, пока вы вынуждены находиться в самоизоляции](https://vk.com/wall-104184663_240029)
         * ["by comparison"](http://libgen.rs/search.php?req=by+comparison&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
-        * http://www.theatlantic.com/international/archive/2013/12/this-woman-read-one-book-from-every-country-in-the-world-here-are-her-favorites/282634/
+        * [theatlantic.com/international/archive/2013/12/this-woman-read-one-book-from-every-country-in-the-world-here-are-her-favorites/282634/](http://www.theatlantic.com/international/archive/2013/12/this-woman-read-one-book-from-every-country-in-the-world-here-are-her-favorites/282634/)
         * [Hippocrene](https://libgen.is/search.php?&req=hippocrene&phrase=1&view=simple&column=def&sort=def&sortmode=ASC&page=1)
         * [Where Mathematics, Computer Science, Linguistics and Biology Meet](https://libgen.is/book/index.php?md5=E563823EEA64DD4370CA5C7FA62A7137)
 
     buecher.de Int*...****in!
         * ["without tears" books](https://b-ok.cc/s/without%20tears)
-        * http://ebooks.grsu.by/
-        * [For Books: http://www.oxfordreference.com/browse?t1=ORO:AHU00001ORO](http://www.oxfordreference.com/browse?t1=ORO:AHU00001ORO)
+        * [ebooks.grsu.by/](http://ebooks.grsu.by/)
+        * [For Books: [oxfordreference.com/browse?t1=ORO:AHU00001ORO](http://www.oxfordreference.com/browse?t1=ORO:AHU00001ORO)](http://www.oxfordreference.com/browse?t1=ORO:AHU00001ORO](http://www.oxfordreference.com/browse?t1=ORO:AHU00001ORO))
         * [Bill Bryson books](https://libgen.is/search.php?&req=bill+bryson&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
         * [брайсон books](https://libgen.is/search.php?req=%D0%B1%D1%80%D0%B0%D0%B9%D1%81%D0%BE%D0%BD&open=0&res=25&view=simple&phrase=1&column=def)
         * [Nordic Academic Press](https://b-ok.cc/s/Nordic%20Academic%20Press)
@@ -1231,7 +1231,7 @@ make a test schedule for languages, ideas, formulas, etc
         * [100 Most Influential Since WWII](https://www.goodreads.com/list/show/38381.TLS_The_Hundred_Most_Influential_Books_Since_the_Second_World_War)
 
     100 preguntas sobre ...
-        * [18 Classic Books Every Man Should Read (or Re-Read) in 2018 | The Manual](https://www.themanual.com/culture/classic-books-every-man-should-read/?utm_source=k1&utm_medium=cpc&utm_campaign=manualtraffic&kwp_0=744147&kwp_4=2607146&kwp_1=1106492)
+        * [18 Classic Books Every Man Should Read (or Re-Read) in 2018 | The Manual](https://www.themanual.com/culture/classic-books-every-man-should-read/)
 
     50 cosas que hay que saber sobre ...
         * [A ciência de Leonardo da Vinci - um mergulho profundo na mente do grande gênio da Renascença | Fritjof Capra | download](https://b-ok.cc/book/2552811/f580f8)
@@ -1248,9 +1248,9 @@ make a test schedule for languages, ideas, formulas, etc
         * [Book Recommendations from Nassim Taleb](https://fs.blog/2012/02/book-recommendations-from-nassim-taleb/)
         * [Bücher: Verlagsprogramm, Reihen, Neuerscheinungen, Werkausgaben,Themen und Genres bei Suhrkamp - Suhrkamp Insel](https://www.suhrkamp.de/buecher/)
         * [campus Einführungen](https://libgen.is/search.php?req=campus+Einf%C3%BChrungen&open=0&res=25&view=simple&phrase=1&column=def)
-        * https://www.bibliotecadigsan.com/
-        * https://www.knoxschools.org/cms/lib/TN01917079/Centricity/Domain/1785/AP%20Nonfiction%20Reading%20List.pdf
-        * https://www.onleihe.de/rems-murr/frontend/welcome,51-0-0-100-0-0-1-0-0-0-0.html
+        * [bibliotecadigsan.com/](https://www.bibliotecadigsan.com/)
+        * [knoxschools.org/cms/lib/TN01917079/Centricity/Domain/1785/AP%20Nonfiction%20Reading%20List.pdf](https://www.knoxschools.org/cms/lib/TN01917079/Centricity/Domain/1785/AP%20Nonfiction%20Reading%20List.pdf)
+        * [onleihe.de/rems-murr/frontend/welcome,51-0-0-100-0-0-1-0-0-0-0.html](https://www.onleihe.de/rems-murr/frontend/welcome,51-0-0-100-0-0-1-0-0-0-0.html)
         * [in a nutshell](https://libgen.is/search.php?req=in+a+nutshell&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
         * [Isaac Asimov](http://libgen.io/search.php?&req=Isaac+Asimov&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
         * [Knigi](https://vk.com/wall-155276174_47)
@@ -1300,7 +1300,7 @@ make a test schedule for languages, ideas, formulas, etc
         * [Very Short Introduction to](https://b-ok.cc/s/?q=Very+Short+Introduction+to)
         * [vey short introduction to ___](http://libgen.io/search.php?req=Very+Short+Introduction+to&open=0&res=25&view=simple&phrase=1&column=def)
         * [ТОП-10 книг последних лет, которые помогут стать более эрудированным человеком](https://vk.com/wall-37160097_96916)
-        * http://www.lecturasinegoismo.com/
+        * [lecturasinegoismo.com/](http://www.lecturasinegoismo.com/)
         * [Very Short Introductions (incl. Logic)](https://vk.com/wall-25153764_262953)
         * [Дух і Літера](https://duh-i-litera.com/)
         * [Searching for Wisdom: Frank Buytendijk’s Recommended Reading List by Frank Buytendijk - BeyeNETWORK](http://www.b-eye-network.com/channels/5567/view/16772)
@@ -1314,7 +1314,7 @@ make a test schedule for languages, ideas, formulas, etc
         * [Montagnini, L. (2017).](https://email.mg2.substack.com/c/eJxNkU1v5CAMhn9NOEZA-EgOHFpVU_Wwc9ldqbeIgElRE4iAdJT99UtmeqhkGbBfY-ux0QXmmA61xVzQ6cZybKAC3PICpUBCe4Y0eqvI0BPKKLKKWdLzHvk8ugSwar-oknZA2z4t3ujiY7gXMNIx9KEccVpMwjAAx42zhnEz9JNlvZWil_bRVu_WQzCg4AvSEQOgRX2UsuWme2ropdrtdmv1qv_F0Jq41sC8VbelaHdT6u0ZS3l9fae_rqe-u3houpe_fy59Q0U1o9etBojsh_OVoA76dUqGjvJvyXfw6ffbtSZ-fiiQVxRTgjtKCe04Jy1pJbfaOc5gcJhhbinHEhxQwTugGHjD8DrTNu9TLtp8nmOjpHzW2rSpTX6Bo0rmk-A9VwGO9Vz34MsxQtDTAvbBtjw2dKc9zhAg1c3ZURdFBBGMCM65HOSDZYXfMUKGgWJUm9tYq4IyOpSY8qaTtj7Df-hKpB0)
         * [Nasar, S. (1998).](https://email.mg2.substack.com/c/eJxNkU-PpSAMwD-NHA1UQDxwmGTzkr3MZXbPBqE6ZBQM4Ly4n37xeZmkKfQfLb9aU3CJ6dR7zIVcaiznjjrgM69YCiZyZEyjd5oNigEH4jR3TAlFfB7nhLgZv-qSDiT7Ma3emuJjeBVw1nHyqZFyLiijYJRSYqBO9pNUMEuOwzBN4m5rDucxWNT4jemMAcmqP0vZc9O9NfCo8nw-W7OZfzG0Nm7VsexV7Sm6w5Z6Y1wwCYoDvfK7h8em-_X3z0M1IK3Z9mqxXg2XlbBO-X3Fhw7ED8_bx-_3K-_HU_IW4jVQYLQDYNAJwVrW9sKZeRb1HzPlVDgQtMcZQYoOgaJoON0WaPMx5WLs1zU2SdpnY2yb2uRXPGvKchF8xSrAsZ7bEXw5RwxmWtHdbMu9oRftccGAqW7OjaZoJpnkTAoh-qG_WVb4HWdsGICS2tzFWhW0NaHElHeTjPMZ_wMaGaEv)
         * [Wiener, N. (1953).](https://email.mg2.substack.com/c/eJxNUU2P3CAM_TXhGIGBBA4cVqpG6qWX3Z4jBpwsagIRkB2lv75kZg-VLGOenz_07GzFJeXT7KlUcrmpnjuaiI-yYq2YyVEwT8EbphUDAcQb4ZmSioQyzRlxs2E1NR9I9uO-BmdrSPFZIBgX5NMMTlLJ7J0q72bdIjeOAIpZrVC71ug51h4-YHRo8AvzmSKS1XzWupeOv3Vwa_Z4PHq72b8p9i5tDVj25vac_OFqiygMMHJKFbv4_Baw4z9-f9xUB0MzZ7e9AWxU-vplbIt-XRTNQX5TvsG395-_WuL_hgMJBigwygEYcClZz_pRejvPUqCeqaDSg6QjzgiD5AgUZSfotkBfjnup1v251ibZhGKt63Ofw4pnoyyXgs9cE3Bq73bEUM8Jo72v6F_a1teFnmpPC0bM7XJ-stWwgQ2CDVLKUY8vLZv4XDCmNVDShvvUqqJxNtaUy26z9aHgP9VZobI)
-        * https://de1lib.org/s/duden%20basiswissen
+        * [de1lib.org/s/duden%20basiswissen](https://de1lib.org/s/duden%20basiswissen)
 
     Lógica filosófica (Wittgenstein)
         * [Historia visual de la inteligencia](http://library.lol/main/6BEBFABBBDCD83E175D668F17E239598)
@@ -1322,14 +1322,14 @@ make a test schedule for languages, ideas, formulas, etc
 * Reading 0
         * [30 secondes (livres)](http://libgen.is/search.php?&req=30+secondes&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
         * [The Math Behind Music and Sound Synthesis](https://www.youtube.com/watch?v=Y7TesKMSE74)
-        * https://www.technologyreview.it/cosa-sognano-i-bambini-una-nuova-tecnologia-lo-rivela/
+        * [technologyreview.it/cosa-sognano-i-bambini-una-nuova-tecnologia-lo-rivela/](https://www.technologyreview.it/cosa-sognano-i-bambini-una-nuova-tecnologia-lo-rivela/)
 
     Not Overthinking podcast
 
     Deep Dive with Ali Abdaal
 
     How Math Has Changed the Shape of Gerrymandering | Quanta Magazine
-        * https://www.wired.co.uk/article/best-sci-fi-books
+        * [wired.co.uk/article/best-sci-fi-books](https://www.wired.co.uk/article/best-sci-fi-books)
         * [History is far more predictably deterministic than we would prefer to believe, sorry but it's a fact - YouTube](https://www.youtube.com/watch?v=CSfrfnCeaXM)
         * [THIS Is Why Americans Are So Obsessed With Guns (It's not what you expect) - YouTube](https://www.youtube.com/watch?v=zcMrDGs71v8)
         * [Is Religion All That Bad? | Genetically Modified and CosmicSkeptic - YouTube](https://www.youtube.com/watch?v=1LpYh3bKA9w)
@@ -1353,32 +1353,32 @@ make a test schedule for languages, ideas, formulas, etc
         * [docutr.com](http://docutr.com/)
 
     how does knowledge and content filtering and accumulation work in practice? how should it ideally work?
-        * https://vk.com/le_kinzhal
+        * [vk.com/le_kinzhal](https://vk.com/le_kinzhal)
         * [Library Genesis](https://libgen.is/search.php?&req=QuickStudy&phrase=1&view=simple&column=def&sort=year&sortmode=DESC) QuickStudy Guides
         * [TheCollector | Ancient & Modern History, Art, Philosophy](https://www.thecollector.com/)
-        * [Интересный Подкаст](https://open.spotify.com/show/4IaAQZHUZpHdfX3JQUWH2w?si=RTtVlo94R72O-lByqmoWRw&utm_source=native-share-menu)
+        * [Интересный Подкаст](https://open.spotify.com/show/4IaAQZHUZpHdfX3JQUWH2w?si=RTtVlo94R72O-lByqmoWRw)
 
 * Reading / Viewing List (1-50)
     1. Book Idea: Professional Insights for Life - What Different Fields Can Tell Us about Thinking and Living
     2. francesco sisini
     3. [Fuentes de información: Guía básica y nueva clasificación](https://en.de1lib.org/book/19232266/8720e8)
     4. How do ideas and knowledge disseminate?
-    5. https://aesthetics.fandom.com/wiki
-    6. https://dkb.io/post/organize-the-world-information
-    7. [https://en.de1lib.org/g/Ennio Peres?order=year](https://en.de1lib.org/g/Ennio%20Peres?order=year)
-    8. https://unglue.it/
-    9. https://vsenauka.ru/knigi/besplatnyie-knigi.html
-    10. https://www.freecodecamp.org/news/how-to-audit-a-class-university-course/
-    11. https://www.notion.so/help/category/notion-101
-    12. https://www.preposterousuniverse.com/blog/category/biggest-ideas-in-the-universe/page/3/
+    5. [aesthetics.fandom.com/wiki](https://aesthetics.fandom.com/wiki)
+    6. [dkb.io/post/organize-the-world-information](https://dkb.io/post/organize-the-world-information)
+    7. [en.de1lib.org/g/Ennio Peres?order=year](https://en.de1lib.org/g/Ennio%20Peres?order=year)
+    8. [unglue.it/](https://unglue.it/)
+    9. [vsenauka.ru/knigi/besplatnyie-knigi.html](https://vsenauka.ru/knigi/besplatnyie-knigi.html)
+    10. [freecodecamp.org/news/how-to-audit-a-class-university-course/](https://www.freecodecamp.org/news/how-to-audit-a-class-university-course/)
+    11. [notion.so/help/category/notion-101](https://www.notion.so/help/category/notion-101)
+    12. [preposterousuniverse.com/blog/category/biggest-ideas-in-the-universe/page/3/](https://www.preposterousuniverse.com/blog/category/biggest-ideas-in-the-universe/page/3/)
     13. [What if? A co gdyby? Naukowe odpowiedzi na absurdalne i hipotetyczne pytania](https://en.de1lib.org/book/3602160/9d087f)
     14. Heidelberg:  allgemeine Abteilung - Bryson, Brockman, Allgemeinbildung
     15. [Quadrivium: The Four Classical Liberal Arts of Number, Geometry, Music, & Cosmology](http://libgen.rs/book/index.php?md5=33843AA0B64862D431B94D33DF47B0FB)
      (in Heidelberg)
-    16. https://curio.io/aeon
-    17. https://curio.io/nautilus
-    18. https://curio.io/publications
-    19. https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf
+    16. [curio.io/aeon](https://curio.io/aeon)
+    17. [curio.io/nautilus](https://curio.io/nautilus)
+    18. [curio.io/publications](https://curio.io/publications)
+    19. [ias.edu/sites/default/files/library/UsefulnessHarpers.pdf](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
     20. Английский язык. Для тех, кто хочет все успеть - 2020.pdf
     21. Архитектура. Для тех, кто хочет все успеть - 2015.pdf
     22. Астрономия. Для тех, кто хочет все успеть - 2015.pdf
@@ -1409,9 +1409,9 @@ make a test schedule for languages, ideas, formulas, etc
     47. [→](http://libgen.is/search.php?req=Big+Ideas&open=0&res=25&view=simple&phrase=1&column=def)
     48. [Die Drei - Ein Streifzug durch die Rolle der Zahl in Kunst, Kultur und Geschichte](http://library.lol/main/41C4EF7C7FAE272829CC7911BB64B3ED)
     49. [Mindfire: Big Ideas for Curious Minds](http://library.lol/main/30DC1A7C889A07DE0544EFA62D80C672)
-    50. http://libgen.is/search.php?&req=Gombrich&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+    50. [libgen.is/search.php?&req=Gombrich&phrase=1&view=simple&column=def&sort=year&sortmode=DESC](http://libgen.is/search.php?&req=Gombrich&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 * Reading / Viewing List (51-100)
-    1. https://en.wikipedia.org/wiki/Harvard_Classics
+    1. [en.wikipedia.org/wiki/Harvard_Classics](https://en.wikipedia.org/wiki/Harvard_Classics)
     2. [dorling kindersley](https://libgen.rs/search.php?&req=dorling+kindersley&phrase=1&view=simple&column=def&sort=language&sortmode=DESC)
     3. explanatory imperialism
     4. Welche Beziehung gibt es zwischen zwischen der Entscheidungsfreiheit, der Natur, und äußeren Einflüssen?
@@ -1429,13 +1429,13 @@ make a test schedule for languages, ideas, formulas, etc
     16. Mathematics and Art
     17. Remarkable Books
     18. Что читать: 5 книг о ...
-    19. https://www.livelib.ru/
+    19. [livelib.ru/](https://www.livelib.ru/)
     20. общая программа самообразование
     21. [2021's Biggest Breakthroughs in Math and Computer Science](https://www.youtube.com/watch?v=9uASADiYe_8)
-    22. https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/
-    23. https://www.quantamagazine.org/tag/2021-in-review/
-    24. https://www.quantamagazine.org/tag/2020-in-review/
-    25. https://www.quantamagazine.org/tag/2019-in-review/
+    22. [quantamagazine.org/the-year-in-math-and-computer-science-20211223/](https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/)
+    23. [quantamagazine.org/tag/2021-in-review/](https://www.quantamagazine.org/tag/2021-in-review/)
+    24. [quantamagazine.org/tag/2020-in-review/](https://www.quantamagazine.org/tag/2020-in-review/)
+    25. [quantamagazine.org/tag/2019-in-review/](https://www.quantamagazine.org/tag/2019-in-review/)
     26. Once you commit to a political, ethical, or philosophical theory you tend to see everything in the light of it. It's natural and may be helpful, but it means you miss an awful lot.
     27. почему стоит человеку с улицы знать о ___?
     28. Wie ignorant kann mn als hyperspezialisierter Akademiker sein?
@@ -1495,38 +1495,38 @@ make a test schedule for languages, ideas, formulas, etc
     31. Пределы поста
     32. Семиотика бездумия
     33. Ludmilla Petroshevskaya John Cheever Aleksandr Vedenskii
-    34. https://www.explainxkcd.com/wiki/index.php/Main_Page
+    34. [explainxkcd.com/wiki/index.php/Main_Page](https://www.explainxkcd.com/wiki/index.php/Main_Page)
     35. [Models and Modelling between Digital and Humanities - A Multidisciplinary Perspective.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ssoar.info%2Fssoar%2Fbitstream%2Fhandle%2Fdocument%2F62883%2Fssoar-2018-ciula_et_al-Models_and_Modelling_between_Digital.pdf%3Fsequence%3D3%26isAllowed%3Dy%26lnkname%3Dssoar-2018-ciula_et_al-Models_and_Modelling_between_Digital.pdf&psig=AOvVaw1lBLMesVmPpCZ6YxIBFn4L&ust=1636921597395000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNC6n6aWlvQCFQAAAAAdAAAAABAJ)
     36. [The big picture : on the origins of life, meaning, and the universe itself](http://library.lol/main/8D6D91FD68A9E9C85CFC6B33899EFEF9)
-    37. https://astralcodexten.substack.com/p/jhanas-and-the-dark-room-problem
-    38. https://vsenauka.ru/knigi/besplatnyie-knigi.html
-    39. https://danielmiessler.com/site-archives/
-    40. https://danielmiessler.com/podcast/
-    41. https://yandex.ru/q/loves/experts/
+    37. [astralcodexten.substack.com/p/jhanas-and-the-dark-room-problem](https://astralcodexten.substack.com/p/jhanas-and-the-dark-room-problem)
+    38. [vsenauka.ru/knigi/besplatnyie-knigi.html](https://vsenauka.ru/knigi/besplatnyie-knigi.html)
+    39. [danielmiessler.com/site-archives/](https://danielmiessler.com/site-archives/)
+    40. [danielmiessler.com/podcast/](https://danielmiessler.com/podcast/)
+    41. [yandex.ru/q/loves/experts/](https://yandex.ru/q/loves/experts/)
     42. [The Biggest Ideas in the Universe! - YouTube](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX)
     43. [Beck Wissen](http://libgen.rs/search.php?&req=beck+wissen&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
-    44. http://libgen.rs/search.php?&req=de+agostini&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=10
-    45. https://www.bollatiboringhieri.it/
+    44. [libgen.rs/search.php?&req=de+agostini&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=10](http://libgen.rs/search.php?&req=de+agostini&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=10)
+    45. [bollatiboringhieri.it/](https://www.bollatiboringhieri.it/)
     46. [5 Biggest Mistakes Of All Time](https://www.youtube.com/watch?v=ZGwikhCts2o)
     47. [The ______ Book](https://b-ok.cc/s/krogerus/?e=1)
     48. [Allez Savoir ! - YouTube](https://www.youtube.com/channel/UCZ5BlW6SDxh28bMPy7UaKTA)
     49. [Academia.edu | Log In](https://www.academia.edu/login?post_login_redirect_url=https%3A%2F%2Fwww.academia.edu%2Ft%2FdrT8b-Pa1XoSe-bjr0f%2Fresource%2Fwork%2F2337546%2FPAMIES_A_LUQUE_DUR%C3%81N_J_d_D_and_FERN%C3%81NDEZ_MART%C3%8DN_P_eds_2011_Paremiolog%C3%ADa_y_herencia_cultural_Granada_Educatori_col_Granada_Lingvistica_ISBN_978_84_92782_57_4_%3Femail_work_card%3Dtitle)
     50. [Today I Found Out | Learn Interesting Facts Every Day](http://www.todayifoundout.com/)
 * Reading / Viewing List (151-200)
-    1. [https://b-ok.cc/s/big ideas simply explained](https://b-ok.cc/s/big%20ideas%20simply%20explained)
-    2. [https://b-ok.cc/s/große ideen einfach erklärt](https://b-ok.cc/s/gro%C3%9Fe%20ideen%20einfach%20erkl%C3%A4rt)
+    1. [b-ok.cc/s/big ideas simply explained](https://b-ok.cc/s/big%20ideas%20simply%20explained)
+    2. [b-ok.cc/s/große ideen einfach erklärt](https://b-ok.cc/s/gro%C3%9Fe%20ideen%20einfach%20erkl%C3%A4rt)
     3. [Academia.edu | Log In](https://www.academia.edu/login?post_login_redirect_url=https%3A%2F%2Fwww.academia.edu%2Ft%2FdrT8b-PdV5AKn-hNzqy%2Fresource%2Fwork%2F36836119%2FNikola_Tesla_Moji_izumi_Autobiografija_pdf%3Femail_work_card%3Dtitle)
     4. [Academia.edu | Log In](https://www.academia.edu/login?post_login_redirect_url=https%3A%2F%2Fwww.academia.edu%2Ft%2FdrT8b-Pf6qbwp-uCx7f%2Fresource%2Fwork%2F42827258%2FTHE_SLOVENE_PAREMIOLOGICAL_OPTIMUM_NEW_EMPIRICAL_RESEARCH_TOOLS_AND_THE_AUGMENTATION_OF_THE_FIELD_OF_MINIMUM_ORIENTED_RESEARCH%3Femail_work_card%3Dtitle)
     5. [Die 100 besten Schriften aller Zeiten | FontShop | download](https://b-ok.cc/book/1131037/ca1bfd)
     6. [Academia.edu | Log In](https://www.academia.edu/login?post_login_redirect_url=https%3A%2F%2Fwww.academia.edu%2Ft%2FdrT8b-PeDRYz3-5Wdpp%2Fresource%2Fwork%2F11987259%2FCategorization_of_Proverbs%3Femail_work_card%3Dtitle)
     7. [Национальный Открытый Университет "ИНТУИТ" | Бесплатное образование](https://intuit.ru/)
-    8. https://www.thesimpleclub.de/
-    9. http://memorizer.me/
-    10. https://en.wikipedia.org/wiki/The_100_Most_Influential_Books_Ever_Written
+    8. [thesimpleclub.de/](https://www.thesimpleclub.de/)
+    9. [memorizer.me/](http://memorizer.me/)
+    10. [en.wikipedia.org/wiki/The_100_Most_Influential_Books_Ever_Written](https://en.wikipedia.org/wiki/The_100_Most_Influential_Books_Ever_Written)
     11. [contada para escépticos](https://b-ok.cc/s/contada%20para%20esc%C3%A9pticos)
     12. [pocket essentials: free download](https://b-ok.cc/s/pocket%20essentials)
     13. Will Durant
-    14. https://www.nypl.org/weblinks/1292
+    14. [nypl.org/weblinks/1292](https://www.nypl.org/weblinks/1292)
     15. [[Все о вкусе водки](https://winestreet.ru/article/encyclopedia-drinks/206/#:~:text=Именно благодаря ароматным спиртам для,а иметь едва уловимый вкус.)](https://winestreet.ru/article/encyclopedia-drinks/206/#:~:text=%D0%98%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%20%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D1%8F%20%D0%B0%D1%80%D0%BE%D0%BC%D0%B0%D1%82%D0%BD%D1%8B%D0%BC%20%D1%81%D0%BF%D0%B8%D1%80%D1%82%D0%B0%D0%BC%20%D0%B4%D0%BB%D1%8F,%D0%B0%20%D0%B8%D0%BC%D0%B5%D1%82%D1%8C%20%D0%B5%D0%B4%D0%B2%D0%B0%20%D1%83%D0%BB%D0%BE%D0%B2%D0%B8%D0%BC%D1%8B%D0%B9%20%D0%B2%D0%BA%D1%83%D1%81.))
     16. [📚 Kниги, кoтopыe coвeтyют пpoчитaть caмыe бoгaтыe.. | Образовательный журнал со вкусом](https://vk.com/wall-36047336_102449)
     17. [Academic Torrents](http://academictorrents.com/)
@@ -1540,10 +1540,10 @@ make a test schedule for languages, ideas, formulas, etc
     25. [Geistesgeschichte - Wikipedia](https://en.wikipedia.org/wiki/Geistesgeschichte)
     26. [German language free online courses/MOOCs list | Class Central](https://www.class-central.com/language/german)
     27. [Home Feed | ResearchGate](https://www.researchgate.net/)
-    28. https://en.wikipedia.org/wiki/Hierarchy
-    29. https://sci-hub.tw/
-    30. https://whereisscihub.now.sh/go
-    31. https://www.zotero.org/
+    28. [en.wikipedia.org/wiki/Hierarchy](https://en.wikipedia.org/wiki/Hierarchy)
+    29. [sci-hub.tw/](https://sci-hub.tw/)
+    30. [whereisscihub.now.sh/go](https://whereisscihub.now.sh/go)
+    31. [zotero.org/](https://www.zotero.org/)
     32. [InputKing online IME - type your language on any computer](https://inputking.com/)
     33. [Kindle Cloud Reader](https://read.amazon.com/)
     34. [Languages - Browse MOOCs by languages | Class Central](https://www.class-central.com/languages)
@@ -1568,8 +1568,8 @@ make a test schedule for languages, ideas, formulas, etc
     2. ** [Вопросы, которых мы избегаем](https://vk.com/@4brainru-voprosy-kotoryh-my-izbegaem)
     3. ** [Философия для новичков](https://vk.com/@intellegenceperson-filosofiya-dlya-novichkov)
     4. [Transferring alternative news through translation: The discourse on Syria on ‘Watching America’ (USA) and ‘InoSMI’ (Russia)](https://biblio.ugent.be/publication/8094958)
-    5. https://www.jamesgmartin.center/acrobat/pope_articles/collegeranking-inquiry17.pdf
-    6. [Internet-Karriere jenseits der 80](http://www.faz.net/aktuell/gesellschaft/internet-karriere-jenseits-der-80-15511176.html?utm_content=buffer55eb0&utm_medium=social&utm_source=facebook.com&utm_campaign=GEPC%253Ds6)
+    5. [jamesgmartin.center/acrobat/pope_articles/collegeranking-inquiry17.pdf](https://www.jamesgmartin.center/acrobat/pope_articles/collegeranking-inquiry17.pdf)
+    6. [Internet-Karriere jenseits der 80](http://www.faz.net/aktuell/gesellschaft/internet-karriere-jenseits-der-80-15511176.html)
     7. [US Presidential contender Pete Buttigieg knows conversational Norwegian, according to this anecdote from Anand Giridharadas](https://www.reddit.com/r/Norway/comments/b1vbzz/us_presidential_contender_pete_buttigieg_knows/)
     8. Запрещённое видео Лекция в ФСБ О Богеde виктор ломосков
     9. [Отомщу матери за проституцию | Говорит Украина](https://www.youtube.com/watch?v=XzcBdpWIJO4)
@@ -1579,14 +1579,14 @@ make a test schedule for languages, ideas, formulas, etc
     13. [TransientObsever commented on](https://www.reddit.com/user/TransientObsever/)
     14. [MPG Publications](https://bc.pressmatrix.com/de/profiles/b3b32e362f93/editions)
     15. [lewebpedagogique.com](http://lewebpedagogique.com/philosophie-bac/lectures-dete-bibliographie-philosophie-terminales/)
-    16. https://matricien.org/
-    17. http://ceoworld.biz/
-    18. https://imaginatiovera.blogspot.com/
-    19. http://window.edu.ru/
-    20. http://agora.guru.ru/display.php?conf=msu2001&page=item005
-    21. http://school-collection.edu.ru/
+    16. [matricien.org/](https://matricien.org/)
+    17. [ceoworld.biz/](http://ceoworld.biz/)
+    18. [imaginatiovera.blogspot.com/](https://imaginatiovera.blogspot.com/)
+    19. [window.edu.ru/](http://window.edu.ru/)
+    20. [agora.guru.ru/display.php?conf=msu2001&page=item005](http://agora.guru.ru/display.php?conf=msu2001&page=item005)
+    21. [school-collection.edu.ru/](http://school-collection.edu.ru/)
     22. [知乎 - 发现更大的世界](https://www.zhihu.com/signup?next=%2F)
-    23. http://acculturated.com/
+    23. [acculturated.com/](http://acculturated.com/)
     24. [The Flares](https://www.youtube.com/channel/UCP56Td-URBxm2y8cdXzdU1g)
     25. [Виктор Горбатов](https://www.youtube.com/user/VVGorbatov76)
     26. [Ingenia UdeA](https://www.youtube.com/c/IngeniaUdeA)
@@ -1598,28 +1598,28 @@ make a test schedule for languages, ideas, formulas, etc
     32. [Bloghemia | Página de difusión del Arte y la Ciencia](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.bloghemia.com%2F2019%2F08%2Flos-problemas-de-la-filosofia-por.html%3Ffbclid%3DIwAR2y2eWIJPLxTekIxs7M9HxDjHyVpBjpXlFrscWfdPeZ5aw4lULjdyQKCFc&h=AT2uVYR_Yb2pRT5PhEJL4k53saVcUox2tmpugKTZ74N-4wejp5m3Qv8wcw9CtdAs4vU4ZfVw-JkiKkNXkzCq3OGmI-TnilNMwIGn05FUvv9cM7GBh7JyhGl3cmGhLsM9GBe-1pgEMg)
     33. [Bloghemia | Página de difusión del Arte y la Ciencia](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.bloghemia.com%2F2019%2F03%2Fgilles-deleuze-y-felix-guattari-del.html%3Ffbclid%3DIwAR2y2eWIJPLxTekIxs7M9HxDjHyVpBjpXlFrscWfdPeZ5aw4lULjdyQKCFc&h=AT3RYKsKjNmOT3Nu5Qt4RScUvb7-gkp9WsT3Gl1_mFz2321grbUFt6QThUIdeWqkG95_Joqu10g4iijcFqRxmsOv9pDeUgmqJmINyx7OCZwuWKjdYZJ3JZcVT0GIceGESnEoFsCLPA)
     34. [What ten books would you want to preserve in order to rebuild civilization? (Asking for a friend.)](https://twitter.com/seanmcarroll/status/1240658855769468928?s=20)
-    35. https://player.fm/series/london-review-bookshop-podcast
+    35. [player.fm/series/london-review-bookshop-podcast](https://player.fm/series/london-review-bookshop-podcast)
     36. [The Books We Can Use to Rebuild Civilization, Selected by Neal Stephenson, Brian Eno, Tim O’Reilly & More](https://www.openculture.com/2020/03/the-books-we-can-use-to-rebuild-civilization.html)
     37. [Theories of Everything, Mapped](https://www.quantamagazine.org/frontier-of-physics-interactive-map-20150803)
     38. @3blue1brown @numberphile @smartereveryday @veritasium
-    39. https://waitbutwhy.com/
-    40. https://childrenscience.ru/courses/
-    41. https://knife.media/1500-free-courses/
-    42. https://www.pensarcontemporaneo.com/
-    43. https://www.sapere.it/sapere/strumenti.html
+    39. [waitbutwhy.com/](https://waitbutwhy.com/)
+    40. [childrenscience.ru/courses/](https://childrenscience.ru/courses/)
+    41. [knife.media/1500-free-courses/](https://knife.media/1500-free-courses/)
+    42. [pensarcontemporaneo.com/](https://www.pensarcontemporaneo.com/)
+    43. [sapere.it/sapere/strumenti.html](https://www.sapere.it/sapere/strumenti.html)
     44. [La tercera vía: una cuarentena inteligente – Dominio público](https://blogs.publico.es/dominiopublico/32272/la-tercera-via-una-cuarentena-inteligente/?fbclid=IwAR1-gCCwUluIWU-WRLZ3bsrXAfPyrjE0OPmMHZaeJ3KUHtgk9ldDR5xUR6M)
-    45. [Science in the time of coronavirus | Jim Baggott » IAI TV](https://iai.tv/articles/will-science-save-us-from-coronavirus-auid-1388?utm_source=newsletter&utm_medium=email&utm_campaign=20-04-20IAIVideoWeekly&utm_source=Institute+of+Art+and+Ideas&utm_campaign=acd1eec844-EMAIL_CAMPAIGN_2020_04_20_09_20&utm_medium=email&utm_term=0_33593fe9fa-acd1eec844-47901361)
-    46. [Izabella Kaminska | In-depth interview](https://iai.tv/video/izabella-kaminska-in-depth-interview?utm_source=newsletter&utm_medium=email&utm_campaign=20-04-20IAIVideoWeekly&utm_source=Institute+of+Art+and+Ideas&utm_campaign=acd1eec844-EMAIL_CAMPAIGN_2020_04_20_09_20&utm_medium=email&utm_term=0_33593fe9fa-acd1eec844-47901361)
-    47. [The Value of Ethics | Bart Streumer - Philosophy For Our Times | Podcast sur Spotify](https://open.spotify.com/episode/2276dkKd4l8SnPOfCFMwlW?utm_source=Institute+of+Art+and+Ideas&utm_campaign=acd1eec844-EMAIL_CAMPAIGN_2020_04_20_09_20&utm_medium=email&utm_term=0_33593fe9fa-acd1eec844-47901361)
-    48. [The End of All Things | What is reality made of?](https://iai.tv/video/the-end-of-all-things-what-is-reality-made-of-metaphysics?utm_source=newsletter&utm_medium=email&utm_campaign=20-04-20IAIVideoWeekly&utm_source=Institute+of+Art+and+Ideas&utm_campaign=acd1eec844-EMAIL_CAMPAIGN_2020_04_20_09_20&utm_medium=email&utm_term=0_33593fe9fa-acd1eec844-47901361)
-    49. http://econphd.econwiki.com/guide.htm
-    50. https://80000hours.org/
+    45. [Science in the time of coronavirus | Jim Baggott » IAI TV](https://iai.tv/articles/will-science-save-us-from-coronavirus-auid-1388)
+    46. [Izabella Kaminska | In-depth interview](https://iai.tv/video/izabella-kaminska-in-depth-interview)
+    47. [The Value of Ethics | Bart Streumer - Philosophy For Our Times | Podcast sur Spotify](https://open.spotify.com/episode/2276dkKd4l8SnPOfCFMwlW)
+    48. [The End of All Things | What is reality made of?](https://iai.tv/video/the-end-of-all-things-what-is-reality-made-of-metaphysics)
+    49. [econphd.econwiki.com/guide.htm](http://econphd.econwiki.com/guide.htm)
+    50. [80000hours.org/](https://80000hours.org/)
 * Reading / Viewing List (251-300)
-    1. https://www.linkedin.com/pulse/feed/channel/france
-    2. https://www.linkedin.com/pulse/feed/channel/noticias
-    3. https://www.linkedin.com/topic/_____________
-    4. https://inomics.com/
-    5. http://www.letudiant.fr/
+    1. [linkedin.com/pulse/feed/channel/france](https://www.linkedin.com/pulse/feed/channel/france)
+    2. [linkedin.com/pulse/feed/channel/noticias](https://www.linkedin.com/pulse/feed/channel/noticias)
+    3. [linkedin.com/topic/_____________](https://www.linkedin.com/topic/_____________)
+    4. [inomics.com/](https://inomics.com/)
+    5. [letudiant.fr/](http://www.letudiant.fr/)
     6. [BookTube en español Group (2795 Members)](https://www.goodreads.com/group/show/93936-booktube-en-espa-ol)
     7. [Україна в огні: кіноповість, щоденник by Олександр Довженко](https://www.goodreads.com/book/show/10264290?ac=1&from_search=true)
     8. [Top of Mind Bookshelf](http://blog.byuradio.org/post/2017/12/08/bookshelf.aspx)
@@ -1628,72 +1628,72 @@ make a test schedule for languages, ideas, formulas, etc
     11. [48 Laws of Power (Anki)](https://ankiweb.net/shared/info/1106295953)
     12. [Aprender | Universidad Nacional Autónoma de México](https://www.coursera.org/learn/aprendo)
     13. [History of Ideas](https://b-ok.cc/g/Maryanne%20Cline%20Horowitz)
-    14. http://interesnyefakty.org/
-    15. https://fods12.podbean.com/p/about-me/
-    16. https://umsu.unimelb.edu.au/tag/james-fodor/
-    17. https://www.edukatico.org/de/report/moocs-auf-deutsch-welche-kurse-gibt-es
+    14. [interesnyefakty.org/](http://interesnyefakty.org/)
+    15. [fods12.podbean.com/p/about-me/](https://fods12.podbean.com/p/about-me/)
+    16. [umsu.unimelb.edu.au/tag/james-fodor/](https://umsu.unimelb.edu.au/tag/james-fodor/)
+    17. [edukatico.org/de/report/moocs-auf-deutsch-welche-kurse-gibt-es](https://www.edukatico.org/de/report/moocs-auf-deutsch-welche-kurse-gibt-es)
     18. [Open Textbooks | OER Commons](https://www.oercommons.org/hubs/open-textbooks)
     19. [Sillages (Éducation)](https://www.youtube.com/channel/UCEmrNA-LTPRqtSKNC2Om12w)
-    20. http://www.treccani.it/enciclopedia/
-    21. http://www.aljazeera.net/encyclopedia
-    22. http://www.arab-ency.com/_/
-    23. http://www.marefa.org/index.php/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9
+    20. [treccani.it/enciclopedia/](http://www.treccani.it/enciclopedia/)
+    21. [aljazeera.net/encyclopedia](http://www.aljazeera.net/encyclopedia)
+    22. [arab-ency.com/_/](http://www.arab-ency.com/_/)
+    23. [marefa.org/index.php/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9](http://www.marefa.org/index.php/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9)
     24. [Altshuller_G_Vertkin_I_Kak_stat_geniem.djvu](https://vk.com/doc30601958_455571837?hash=4a510cd43e4be89e10&dl=361e810ae219b242ae)
     25. [TED Talk Lists](https://vk.com/wall-37160097_293592)
     26. [Как победить прокрастинацию: инструкция для молодых ученыхmoluch.ru](https://vk.com/away.php?to=https%3A%2F%2Fmoluch.ru%2Finformation%2Fkak-pobedit-prokrastinaciyu-poshagovaya-instrukciya-dlya-molodyh-uchenyh%2F&post=-29437709_6460)
-    27. https://www.zeit.de/wissen/index
+    27. [zeit.de/wissen/index](https://www.zeit.de/wissen/index)
     28. *** Allgemeinbildung – Wikipedia
     29. [13 Books You Might Like - YouTube](https://www.youtube.com/watch?v=Q5vLX3bwYQw)
-    30. http://aeon.co/magazine/culture/anyone-can-learn-to-be-a-polymath/
-    31. http://heinonline.org/HOL/Page?handle=hein.journals/catoj5&div=28&g_sent=1&collection=journals
-    32. http://www.bbc.com/culture/story/20130715-reading-the-world-in-365-days
+    30. [aeon.co/magazine/culture/anyone-can-learn-to-be-a-polymath/](http://aeon.co/magazine/culture/anyone-can-learn-to-be-a-polymath/)
+    31. [heinonline.org/HOL/Page?handle=hein.journals/catoj5&div=28&g_sent=1&collection=journals](http://heinonline.org/HOL/Page?handle=hein.journals/catoj5&div=28&g_sent=1&collection=journals)
+    32. [bbc.com/culture/story/20130715-reading-the-world-in-365-days](http://www.bbc.com/culture/story/20130715-reading-the-world-in-365-days)
     33. [Intellectual - Wikipedia](https://en.wikipedia.org/wiki/Intellectual#Public_intellectual)
     34. [intellectual tradition](https://libgen.is/search.php?req=intellectual+tradition&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
-    35. https://en.wikipedia.org/wiki/Der_Kanon
-    36. https://en.wikipedia.org/wiki/Matt_Ridley
-    37. https://en.wikipedia.org/wiki/Noam_Chomsky
-    38. https://fr.wikipedia.org/wiki/Onomastique
-    39. https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%BC%D0%B0%D0%BD%D0%B0%D1%85
-    40. https://en.wikipedia.org/wiki/Noam_Chomsky_bibliography_and_filmography
+    35. [en.wikipedia.org/wiki/Der_Kanon](https://en.wikipedia.org/wiki/Der_Kanon)
+    36. [en.wikipedia.org/wiki/Matt_Ridley](https://en.wikipedia.org/wiki/Matt_Ridley)
+    37. [en.wikipedia.org/wiki/Noam_Chomsky](https://en.wikipedia.org/wiki/Noam_Chomsky)
+    38. [fr.wikipedia.org/wiki/Onomastique](https://fr.wikipedia.org/wiki/Onomastique)
+    39. [ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%BC%D0%B0%D0%BD%D0%B0%D1%85](https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%BC%D0%B0%D0%BD%D0%B0%D1%85)
+    40. [en.wikipedia.org/wiki/Noam_Chomsky_bibliography_and_filmography](https://en.wikipedia.org/wiki/Noam_Chomsky_bibliography_and_filmography)
     41. [Home | MIT Press Journals](https://www.mitpressjournals.org/)
     42. [General knowledge - Wikipedia](https://en.wikipedia.org/wiki/General_knowledge)
     43. [general knowledge - Поиск в Google](https://www.google.com/search?rlz=1C5CHFA_enUS800US800&sxsrf=ALeKk00s4L9TtjeVKDGPfltHTRdlgf0x1Q%3A1582198777663&ei=-W9OXoCWKNCVk74Pi4ybwAw&q=general+knowledge&oq=general+knowledge&gs_l=psy-ab.3..0i203l7j0j0i203l2.121360.124071..124210...0.0..0.504.2408.15j1j4-1j1......0....1..gws-wiz.......0i7i30j0i22i30j35i39j0i67.O0o7q3koawg&ved=0ahUKEwjA9uzgheDnAhXQysQBHQvGBsgQ4dUDCAs&uact=5)
     44. [General Knowledge (GK) 2020: Notes, Topics, Facts, Practice Quiz](https://www.jagranjosh.com/general-knowledge)
-    45. http://changingminds.org/explanations/theories/disconfirmation_bias.htm
-    46. http://ideas.time.com/2013/12/10/whos-biggest-the-100-most-significant-figures-in-history/
-    47. http://inventors.about.com/od/hstartinventors/a/InventorsH.htm
-    48. http://socioline.ru/book/daglas-r-hofshtadter-gyodel-esher-bah-eta-beskonechnaya-girlyanda
+    45. [changingminds.org/explanations/theories/disconfirmation_bias.htm](http://changingminds.org/explanations/theories/disconfirmation_bias.htm)
+    46. [ideas.time.com/2013/12/10/whos-biggest-the-100-most-significant-figures-in-history/](http://ideas.time.com/2013/12/10/whos-biggest-the-100-most-significant-figures-in-history/)
+    47. [inventors.about.com/od/hstartinventors/a/InventorsH.htm](http://inventors.about.com/od/hstartinventors/a/InventorsH.htm)
+    48. [socioline.ru/book/daglas-r-hofshtadter-gyodel-esher-bah-eta-beskonechnaya-girlyanda](http://socioline.ru/book/daglas-r-hofshtadter-gyodel-esher-bah-eta-beskonechnaya-girlyanda)
     49. [Pedophrasty, Bigoteering, and Other Modern Scams – INCERTO – Medium](https://medium.com/incerto/pedophrasty-bigoteering-and-other-modern-scams-c84bd70a29e8)
     50. [Project-based learning](https://www.pblworks.org/)
 * Reading / Viewing List (301-350)
     1. [Warum Intellektuelle unsere Welt zerstören - Roland Baader](https://youtu.be/JArYIqlbTHE)
-    2. https://en.wikipedia.org/wiki/Lists_of_academic_journals
-    3. https://en.wikipedia.org/wiki/The_World_Factbook
+    2. [en.wikipedia.org/wiki/Lists_of_academic_journals](https://en.wikipedia.org/wiki/Lists_of_academic_journals)
+    3. [en.wikipedia.org/wiki/The_World_Factbook](https://en.wikipedia.org/wiki/The_World_Factbook)
     4. [Curación de contenidos (II): María Popova, autora de “Brainpickings” | Mediomundo](http://marinaparra.blogspot.com/2014/01/curacion-contenidos-brainpickings.html)
     5. *** Alles Evolution | Von der Entwicklung meines Lebens und dem Leben im Allgemeinen
-    6. http://documents.tips/#
-    7. http://es.slideshare.net/sistematizacion/listado-de-paginas-web-aplicadas-a-la-educacin-15438237
-    8. http://forums.welltrainedmind.com/
-    9. http://fr.calameo.com/
-    10. http://libguides.humboldt.edu/openedu/general
-    11. http://occamstypewriter.org/
-    12. http://ordenadoresenelaula.blogspot.com/2010/02/12-sitios-web-educativos.html
-    13. http://www.discovery.org/
-    14. http://www.infoplease.com/spot/topintellectuals.html
-    15. http://www.listchallenges.com/
-    16. http://www.theglobeandmail.com/news/national/time-to-lead/why-university-students-need-a-well-rounded-education/article4610406/?page=all
-    17. http://www.webometrics.info/en/node/58
-    18. https://core.ac.uk/
-    19. https://gtmarket.ru/
-    20. https://owlcation.com/
-    21. https://pantheon.world/
-    22. https://www.lesswrong.com/
-    23. https://www.mooc-list.com/
-    24. https://www.mpg.de/de
-    25. https://www.quora.com/profile/Geoffrey-Widdison
-    26. https://www.rootclaim.com/
-    27. https://www.thesolutionsjournal.com/
-    28. https://www.welt-in-zahlen.de/
+    6. [documents.tips/#](http://documents.tips/#)
+    7. [es.slideshare.net/sistematizacion/listado-de-paginas-web-aplicadas-a-la-educacin-15438237](http://es.slideshare.net/sistematizacion/listado-de-paginas-web-aplicadas-a-la-educacin-15438237)
+    8. [forums.welltrainedmind.com/](http://forums.welltrainedmind.com/)
+    9. [fr.calameo.com/](http://fr.calameo.com/)
+    10. [libguides.humboldt.edu/openedu/general](http://libguides.humboldt.edu/openedu/general)
+    11. [occamstypewriter.org/](http://occamstypewriter.org/)
+    12. [ordenadoresenelaula.blogspot.com/2010/02/12-sitios-web-educativos.html](http://ordenadoresenelaula.blogspot.com/2010/02/12-sitios-web-educativos.html)
+    13. [discovery.org/](http://www.discovery.org/)
+    14. [infoplease.com/spot/topintellectuals.html](http://www.infoplease.com/spot/topintellectuals.html)
+    15. [listchallenges.com/](http://www.listchallenges.com/)
+    16. [theglobeandmail.com/news/national/time-to-lead/why-university-students-need-a-well-rounded-education/article4610406/?page=all](http://www.theglobeandmail.com/news/national/time-to-lead/why-university-students-need-a-well-rounded-education/article4610406/?page=all)
+    17. [webometrics.info/en/node/58](http://www.webometrics.info/en/node/58)
+    18. [core.ac.uk/](https://core.ac.uk/)
+    19. [gtmarket.ru/](https://gtmarket.ru/)
+    20. [owlcation.com/](https://owlcation.com/)
+    21. [pantheon.world/](https://pantheon.world/)
+    22. [lesswrong.com/](https://www.lesswrong.com/)
+    23. [mooc-list.com/](https://www.mooc-list.com/)
+    24. [mpg.de/de](https://www.mpg.de/de)
+    25. [quora.com/profile/Geoffrey-Widdison](https://www.quora.com/profile/Geoffrey-Widdison)
+    26. [rootclaim.com/](https://www.rootclaim.com/)
+    27. [thesolutionsjournal.com/](https://www.thesolutionsjournal.com/)
+    28. [welt-in-zahlen.de/](https://www.welt-in-zahlen.de/)
     29. [IDEAS ON IDEAS | ::: Art, Film, Literature, & The Human Politic :::](http://alexsheremet.com/)
     30. [Igry.djvu](https://vk.com/doc30601958_458077347?hash=d6a5f5978eb1b43569&dl=0d9ef570b0aeadd25d)
     31. [Libros - Hojas de cálculo de Google](https://docs.google.com/spreadsheets/d/1qeDQSUm3MjzJWSe3V7VizuPZpgRysQ7-wjeVejKs9-E/edit#gid=1617574621)
@@ -1709,10 +1709,10 @@ make a test schedule for languages, ideas, formulas, etc
     41. [В помощь студенту и аспиранту | ИКФИА СО РАН](https://ikfia.ysn.ru/obrazovanie/v-pomoshh-studentu-i-aspirantu/)
     42. [Открытое образование - Главная страница](https://openedu.ru/)
     43. [Открытое образование - Курсы](https://openedu.ru/course/#query=%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)
-    44. https://en.wikipedia.org/wiki/Category:Almanacs
-    45. https://en.wikipedia.org/wiki/Category:Lists_of_lists
-    46. https://en.wikipedia.org/wiki/Category:Reference
-    47. https://en.wikipedia.org/wiki/Western_canon
+    44. [en.wikipedia.org/wiki/Category:Almanacs](https://en.wikipedia.org/wiki/Category:Almanacs)
+    45. [en.wikipedia.org/wiki/Category:Lists_of_lists](https://en.wikipedia.org/wiki/Category:Lists_of_lists)
+    46. [en.wikipedia.org/wiki/Category:Reference](https://en.wikipedia.org/wiki/Category:Reference)
+    47. [en.wikipedia.org/wiki/Western_canon](https://en.wikipedia.org/wiki/Western_canon)
     48. [FullBooks.com - Thousands of Full-Text Free Books](http://www.fullbooks.com/)
     49. [Amateur Mathematician Finds Smallest Universal Cover | Quanta Magazine](https://www.quantamagazine.org/amateur-mathematician-finds-smallest-universal-cover-20181115/)
     50. [Metropolis Untamed](https://iai.us4.list-manage.com/track/click?u=5498751378b600bac07540f91&id=15054890f1&e=c2b5e608e5)
@@ -1767,25 +1767,25 @@ make a test schedule for languages, ideas, formulas, etc
     48. [Thinking Better The Art of the Shortcut in Math and Life](https://vk.com/doc44301783_619921787?hash=d6414d9fabfb829dfa&dl=1e3a68b1c00af59c2c)
     49. David McMahon libgen
     50. [comciencia.br](https://www.comciencia.br/)
-    51. https://marshallbrain.com/
+    51. [marshallbrain.com/](https://marshallbrain.com/)
     52. [The Online Books Page: Archives and Indexes](https://onlinebooks.library.upenn.edu/archives.html#foreign)
     53. [things everyone should know - Поиск в Google](https://www.google.com/search?q=things+everyone+should+know&rlz=1C5CHFA_enUS800US800&oq=things+everyone+should+know&aqs=chrome..69i57j0l7.4233j1j7&sourceid=chrome&ie=UTF-8)
 * Links - To Sort
-    1. https://whatsgrouplink.com/
+    1. [whatsgrouplink.com/](https://whatsgrouplink.com/)
     2. [80 oбрaзoвaтeльныx YouTube-кaнaлoв, кoтoрыe прoкaчaют вaш мoзг лyчшe yнивeрcитeтoв](https://vk.com/wall-41887171_118349)
     3. [100 Notable Books of 2018 - The New York Times](https://www.nytimes.com/interactive/2018/11/19/books/review/100-notable-books.html?mc=aud_dev&ad-keywords=auddevgate&subid1=TAFI&ad_name=VISIT_20_XXXX_XXX_1P_CD_XX_XX_SITEVISITXREM_X_XXXX_COUSA_P_X_X_EN_FBIG_OA_XXXX_00_EN_JP_NFLINKS&adset_name=https%3A%2F%2Fwww.nytimes.com%2Finteractive%2F2018%2F11%2F19%2Fbooks%2Freview%2F100-notable-books.html&campaign_id=23843128870720063&fbclid=IwAR0Umu-Biim17Rtd7dmOjy9RU-AuZqrp_aWfVURtOzI94ZlqAAowRTwKe10)
     4. [100 великих](https://libgen.is/search.php?req=100+%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D1%85&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
     5. [7,000+ Free Audio Books &amp; eBook Downloads - Loyal Books](http://www.loyalbooks.com/)
     6. [How the World Thinks review – a global history of philosophy | Books | The Guardian](https://www.theguardian.com/books/2018/oct/05/how-the-world-thinks-julian-baggini-review)
-    7. http://noticias.universia.cl/en-portada/noticia/2012/07/25/953356/7-sitios-web-educacion-no-te-puedes-perder.html
-    8. http://writing.colostate.edu/guides/teaching/co300man/pop12d.cfm
-    9. http://www.educationworld.com/a_tech/archives/sites.shtml
-    10. http://www.libraryforall.org/blog/2015/8/20/our-favorite-open-educational-resources
-    11. http://www.lifehack.org/articles/technology/25-killer-websites-that-make-you-cleverer-2.html
-    12. https://m.vk.com/@brainfeed-35-saitov-s-kotorymi-shkolnaya-programma-stanet-prosche-i-in
-    13. https://pt.wikipedia.org/wiki/Categoria:Obras_de_refer%C3%AAncia
-    14. https://theculturetrip.com/europe/united-kingdom/england/london/articles/what-our-literary-editor-thinks-you-should-be-reading-this-june/
-    15. https://www.abebooks.com/books/100-books-to-read-in-lifetime/index.shtml?cm_sp=home-_-tile_2_12_header-_-100books
+    7. [noticias.universia.cl/en-portada/noticia/2012/07/25/953356/7-sitios-web-educacion-no-te-puedes-perder.html](http://noticias.universia.cl/en-portada/noticia/2012/07/25/953356/7-sitios-web-educacion-no-te-puedes-perder.html)
+    8. [writing.colostate.edu/guides/teaching/co300man/pop12d.cfm](http://writing.colostate.edu/guides/teaching/co300man/pop12d.cfm)
+    9. [educationworld.com/a_tech/archives/sites.shtml](http://www.educationworld.com/a_tech/archives/sites.shtml)
+    10. [libraryforall.org/blog/2015/8/20/our-favorite-open-educational-resources](http://www.libraryforall.org/blog/2015/8/20/our-favorite-open-educational-resources)
+    11. [lifehack.org/articles/technology/25-killer-websites-that-make-you-cleverer-2.html](http://www.lifehack.org/articles/technology/25-killer-websites-that-make-you-cleverer-2.html)
+    12. [m.vk.com/@brainfeed-35-saitov-s-kotorymi-shkolnaya-programma-stanet-prosche-i-in](https://m.vk.com/@brainfeed-35-saitov-s-kotorymi-shkolnaya-programma-stanet-prosche-i-in)
+    13. [pt.wikipedia.org/wiki/Categoria:Obras_de_refer%C3%AAncia](https://pt.wikipedia.org/wiki/Categoria:Obras_de_refer%C3%AAncia)
+    14. [theculturetrip.com/europe/united-kingdom/england/london/articles/what-our-literary-editor-thinks-you-should-be-reading-this-june/](https://theculturetrip.com/europe/united-kingdom/england/london/articles/what-our-literary-editor-thinks-you-should-be-reading-this-june/)
+    15. [abebooks.com/books/100-books-to-read-in-lifetime/index.shtml?cm_sp=home-_-tile_2_12_header-_-100books](https://www.abebooks.com/books/100-books-to-read-in-lifetime/index.shtml?cm_sp=home-_-tile_2_12_header-_-100books)
     16. [introdução](https://libgen.is/search.php?&req=+introdu%C3%A7%C3%A3o&phrase=1&view=simple&column=def&sort=year&sortmode=DESC%20%20%20Inviato%20da%20iPhone)
     17. [La UNAM liberó 200 libros digitalizados y listos para descargar de gratis y legal - Sabías qué...?](https://vis-tecno.blogspot.com/2017/04/la-unam-libero-200-libros-digitalizados.html)
     18. [Library Genesis Barbagli](https://libgen.is/search.php?req=barbagli&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
@@ -1795,7 +1795,7 @@ make a test schedule for languages, ideas, formulas, etc
     22. [My 10 Favorite Books I've Read in 2018 - YouTube](https://www.youtube.com/watch?v=4UBPLTCJYLM)
     23. [Noam Chomsky Reading List](https://leftreferenceguide.wordpress.com/noam-chomsky-reading-list/)
     24. [Reiner Ruffing](https://www.zvab.com/buch-suchen/textsuche/reiner-ruffing/%20%20%20Inviato%20da%20iPhone)
-    25. [Short Book Recommendations](https://ideas.ted.com/the-short-list-24-books-under-200-pages-as-recommended-by-ted-speakers/?utm_source=share&utm_medium=ios_app)
+    25. [Short Book Recommendations](https://ideas.ted.com/the-short-list-24-books-under-200-pages-as-recommended-by-ted-speakers/)
     26. [símbolos](https://libgen.is/search.php?req=s%C3%ADmbolos&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
     27. [Skeptic » Reading Room » A Tribute to Carl Sagan: Popular & Pilloried](https://www.skeptic.com/reading_room/popular-and-pilloried/)
     28. [The Best Subreddits for 2019 | Digital Trends](https://www.digitaltrends.com/web/best-subreddits/)
@@ -1807,14 +1807,14 @@ make a test schedule for languages, ideas, formulas, etc
     34. [Пошук новин за запитом a very short introduction to pdf](https://vk.com/search?c%5Bper_page%5D=40&c%5Bq%5D=a%20very%20short%20introduction%20to%20pdf&c%5Bsection%5D=auto)
     35. [Bourne](https://libgen.lc/search.php?&req=Bourne&phrase=1&view=simple&column=def&sort=language&sortmode=DESC&page=12)
     36. [die großen](https://libgen.is/search.php?&req=die+Gro%C3%9Fen&phrase=1&view=simple&column=def&sort=def&sortmode=ASC&page=2%20%20%20Inviato%20da%20iPhone)
-    37. [For Books: http://www.oxfordreference.com/browse?t1=ORO:AHU00001ORO](http://www.oxfordreference.com/browse?t1=ORO:AHU00001ORO)
+    37. [For Books: [oxfordreference.com/browse?t1=ORO:AHU00001ORO](http://www.oxfordreference.com/browse?t1=ORO:AHU00001ORO)](http://www.oxfordreference.com/browse?t1=ORO:AHU00001ORO](http://www.oxfordreference.com/browse?t1=ORO:AHU00001ORO))
     38. [Physics.Math.Code](https://vk.com/physics_math)
     39. [Reddit saved](https://www.reddit.com/user/Yitzhak_R/saved/)
     40. [21 Exceptional Bloggers You Should Be Following | College Info Geek](https://collegeinfogeek.com/21-exceptional-bloggers/)
     41. [30 Websites That Will Make You Unbelievably Smarter | Inc.com](https://www.inc.com/lolly-daskal/30-websites-that-will-make-you-unbelievably-smarter.html)
     42. [Best Books Podcasts (2018)](https://shereads.com/best-podcasts-for-book-lovers/)
-    43. https://github.com/hackerkid/Mind-Expanding-Books
-    44. http://home.edo.tu-dortmund.de/~hoffmann/Links.html
+    43. [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books)
+    44. [home.edo.tu-dortmund.de/~hoffmann/Links.html](http://home.edo.tu-dortmund.de/~hoffmann/Links.html)
     45. ****What are the most intellectually stimulating websites of which you know? What about them is intellectually stimulating?
     46. [197 Educational YouTube Channels You Should Know About - Teachers With Apps](https://www.teacherswithapps.com/197-educational-youtube-channels-know/)
 
@@ -1846,7 +1846,7 @@ make a test schedule for languages, ideas, formulas, etc
 
 
 * Top Resources
-        * https://sciencecast.org/welcome
+        * [sciencecast.org/welcome](https://sciencecast.org/welcome)
 
 * Plan maestro
 
@@ -2064,31 +2064,31 @@ make a test schedule for languages, ideas, formulas, etc
 
 * Sitios generales sobre ideas
         * [http://wikipedia.org](http://wikipedia.org/)
-        * [https://www.wikiwand.com](https://www.wikiwand.com/)
-        * https://zestedesavoir.com/
+        * [wikiwand.com](https://www.wikiwand.com/)
+        * [zestedesavoir.com/](https://zestedesavoir.com/)
         * [Mark Tech Post](https://www.marktechpost.com/)
         * [Хабаров](https://khabaroff.com/archive/)
         * [Bibnum](http://www.bibnum.education.fr/)
         * [3 Quarks Daily](https://www.3quarksdaily.com/)
         * [Preposterous Universe](https://www.preposterousuniverse.com/podcast/)
-        * https://fs.blog/mental-models/
-        * http://uk.unionpedia.org/
+        * [fs.blog/mental-models/](https://fs.blog/mental-models/)
+        * [uk.unionpedia.org/](http://uk.unionpedia.org/)
         * [Cola da Web](http://www.coladaweb.com/)
-        * http://dovidka.biz.ua/
+        * [dovidka.biz.ua/](http://dovidka.biz.ua/)
         * [Gazette littéraire - Journal créé en 2009 autour du désir de voyager au travers des livres.](http://www.gazettelitteraire.com/)
         * [LEXILOGOS - Dictionnaires, Cartes, Documents en ligne - Langues &amp; Pays](https://www.lexilogos.com/index.htm)
 
     - ****Sites web recommandés
-        * https://openmindplatform.org/app-user/#_=_
+        * [openmindplatform.org/app-user/#_=_](https://openmindplatform.org/app-user/#_=_)
         * [List of online encyclopedias - Wikipedia](https://en.wikipedia.org/wiki/List_of_online_encyclopedias)
-        * https://www.project-syndicate.org/
+        * [project-syndicate.org/](https://www.project-syndicate.org/)
         * [LEXILOGOS - Dictionnaires, Cartes, Documents en ligne - Langues &amp; Pays](https://www.lexilogos.com/index.htm)
         * [TEDxTalks by language](http://tedxtalks.ted.com/pages/languages)
         * [TED: Ideas worth spreading](https://www.ted.com/)
         * [100 principais sites para pesquisas científicas e acadêmicas](https://blog.even3.com.br/principais-sites-para-pesquisas-cientificas-e-academicas/)
         * [Versus | Entdecke mehr als 5 Millionen Vergleiche](https://versus.com/de)
         * [AnswerThePublic.com: that free visual keyword research &amp; content ideas tool](https://answerthepublic.com/)
-        * http://videolectures.net/
+        * [videolectures.net/](http://videolectures.net/)
         * [OpenEdition : four platforms for electronic resources in the humanities and social sciences: OpenEdition Books, Revues.org, Hypotheses, Calenda](http://www.openedition.org/)
         * [Hypotheses | Platform for academic blogs in the humanities and social sciences](http://hypotheses.org/)
         * [ideas4all. A rede social das ideias.](https://www.ideas4all.com//)
@@ -2098,9 +2098,9 @@ make a test schedule for languages, ideas, formulas, etc
         * [Cadmus](http://cadmusjournal.org/)
         * [Eruditio](http://eruditio.worldacademy.org/)
         * [Aeon | ideas and culture](https://aeon.co/)
-        * http://www.creativitypost.com/
-        * https://lt.org/
-        * http://tetw.org/
+        * [creativitypost.com/](http://www.creativitypost.com/)
+        * [lt.org/](https://lt.org/)
+        * [tetw.org/](http://tetw.org/)
         * [3quarksdaily:](http://www.3quarksdaily.com/)
         * [Intellectual Takeout | Feed Your Mind](http://www.intellectualtakeout.org/)
         * [Welcome to Less Wrong](http://lesswrong.com/)
@@ -2112,19 +2112,19 @@ make a test schedule for languages, ideas, formulas, etc
         * [Big Think | Videos, articles, and tips to help you succeed, from the world&#39;s leading experts](http://bigthink.com/)
         * [Hidden Brain : NPR](http://www.npr.org/series/423302056/hidden-brain)
         * [World Academy of Art and Science](http://www.worldacademy.org/home-demo/index.html)
-        * https://www.thegreatideas.org/
+        * [thegreatideas.org/](https://www.thegreatideas.org/)
         * [Perspectives from The Economist Intelligence Unit (EIU)](http://perspectives.eiu.com/)
         * [Вопросы и ответы](https://thequestion.ru/)
         * [Главная - Русская историческая библиотека](http://rushist.com/)
         * [Мудрый Философ | Философия, культура, религия](http://www.mudriyfilosof.ru/)
         * [N+1: научные статьи, новости, открытия](https://nplus1.ru/)
         * [«ШколаЖизни.ру» - ежедневный познавательный журнал](http://shkolazhizni.ru/)
-        * http://otetrad.ru/
+        * [otetrad.ru/](http://otetrad.ru/)
         * [litteratur.ch | Lesen, sehen, hören, nachdenken – schreiben](https://blog.litteratur.ch/WordPress/)
         * [Nachdenkseiten](http://www.nachdenkseiten.de/)
-        * http://neue-aufklaerung.de/index.htm
+        * [neue-aufklaerung.de/index.htm](http://neue-aufklaerung.de/index.htm)
         * [La Vie des idées](http://www.laviedesidees.fr/)
-        * http://www.cultivonsnous.fr/
+        * [cultivonsnous.fr/](http://www.cultivonsnous.fr/)
         * [Home - Lecture2Go](https://lecture2go.uni-hamburg.de/web/vod/l2gos)
         * [Lesswrong - Сайт рационалистов:](http://lesswrong.ru/)
         * [Где искать техническую литературу ? Подборка полезных ссылок](https://vk.com/@physics_math-gde-iskat-tehnicheskuu-literaturu-podborka-poleznyh-ssylok)
@@ -2159,31 +2159,31 @@ make a test schedule for languages, ideas, formulas, etc
         * [Cinque cose belle](https://www.cinquecosebelle.it/)
         * [Caminhos](https://caminhos.eu/)
         * [Importancia](https://www.importancia.org/)
-        * http://skepdic.com/
+        * [skepdic.com/](http://skepdic.com/)
         * [rationalwiki](https://rationalwiki.org/wiki/Main_Page)
         * [ORBITER | Where Science Meets Meaning](http://orbitermag.com/)
         * [Alternative Transport](https://alternativetransport.wordpress.com/)
-        * https://es.wikipedia.org/wiki/Wikipedia:Portada
-        * http://stackoverflow.com/
-        * https://de.wikipedia.org/wiki/Portal:Gesprochene_Wikipedia/Kategorien
-        * http://wikimindmap.com/
-        * https://brainly.com.br/
-        * http://www.vice.com/fr
-        * https://samharris.org/
-        * http://qi.com/feed
-        * http://publicdomainreview.org/
-        * https://arzamas.academy/
-        * http://lifehacker.ru/
-        * http://inet.livejournal.com/
-        * http://thedb.ru/
-        * http://studopedia.org/
-        * http://www.pm-magazin.de/
-        * http://www.wissen.de/
-        * http://www.geo.de/
-        * http://www.theintelligence.de/
-        * https://de.jakubmarian.com/
-        * https://courses.prometheus.org.ua/dashboard
-        * http://www.npblog.com.ua/
+        * [es.wikipedia.org/wiki/Wikipedia:Portada](https://es.wikipedia.org/wiki/Wikipedia:Portada)
+        * [stackoverflow.com/](http://stackoverflow.com/)
+        * [de.wikipedia.org/wiki/Portal:Gesprochene_Wikipedia/Kategorien](https://de.wikipedia.org/wiki/Portal:Gesprochene_Wikipedia/Kategorien)
+        * [wikimindmap.com/](http://wikimindmap.com/)
+        * [brainly.com.br/](https://brainly.com.br/)
+        * [vice.com/fr](http://www.vice.com/fr)
+        * [samharris.org/](https://samharris.org/)
+        * [qi.com/feed](http://qi.com/feed)
+        * [publicdomainreview.org/](http://publicdomainreview.org/)
+        * [arzamas.academy/](https://arzamas.academy/)
+        * [lifehacker.ru/](http://lifehacker.ru/)
+        * [inet.livejournal.com/](http://inet.livejournal.com/)
+        * [thedb.ru/](http://thedb.ru/)
+        * [studopedia.org/](http://studopedia.org/)
+        * [pm-magazin.de/](http://www.pm-magazin.de/)
+        * [wissen.de/](http://www.wissen.de/)
+        * [geo.de/](http://www.geo.de/)
+        * [theintelligence.de/](http://www.theintelligence.de/)
+        * [de.jakubmarian.com/](https://de.jakubmarian.com/)
+        * [courses.prometheus.org.ua/dashboard](https://courses.prometheus.org.ua/dashboard)
+        * [npblog.com.ua/](http://www.npblog.com.ua/)
         * [Энциклопедии и Словари: (Символы,Знаки,Эмблемы)](https://vk.com/wall-123642573_149)
         * [10 лекций TED, которые способны изменить вашу жизнь](https://vk.com/wall-172266857_361)
         * [10 простейших вещей, которые мы путаем еще со школы](https://vk.com/wall-36047336_75627)
@@ -2195,43 +2195,43 @@ make a test schedule for languages, ideas, formulas, etc
         * [Подборка одних из лучших видео ted-ed](https://vk.com/wall-124609314_90558)
         * [Подборка переводов за февраль](https://vk.com/@newochem-podborka-feb-2019)
         * [Bloghemia | Página de Difusión del Arte y la Ciencia](https://www.bloghemia.com/)
-        * http://encyklopedia.pwn.pl/
-        * http://www.portalcafebrasil.com.br/
-        * http://www.sapere.it/sapere.html
-        * http://www.treccani.it/
-        * https://encyklopedia.pwn.pl/
-        * https://geek.hr/
-        * https://knigavuhe.com/author/dzhared-dajjmond/
-        * https://mail.uni-stuttgart.de/owa/#path=/mail
-        * https://skolski.hrt.hr/
-        * https://snl.no/Den_store_franske_encyklopedien
-        * https://thequestion.ru/
-        * https://www.bing.com/
-        * https://www.icloud.com/
-        * https://www.institut-pandore.com/
-        * http://www.regardsurlemonde.fr/blog/
-        * http://www.scienceshumaines.com/
-        * http://www.reader.fr/
-        * http://www.ebrumagazine.com/
-        * http://www.muyinteresante.com.mx/
-        * https://www.saberespractico.com/
-        * http://www.elcultural.com/
-        * http://obloghumanista.blogspot.com/
-        * https://descomplica.com.br/blog/
-        * http://www.suapesquisa.com/
-        * http://marcobesozzi.blogspot.com/
-        * https://geek.hr/znanost/
-        * http://desconversa.com.br/
+        * [encyklopedia.pwn.pl/](http://encyklopedia.pwn.pl/)
+        * [portalcafebrasil.com.br/](http://www.portalcafebrasil.com.br/)
+        * [sapere.it/sapere.html](http://www.sapere.it/sapere.html)
+        * [treccani.it/](http://www.treccani.it/)
+        * [encyklopedia.pwn.pl/](https://encyklopedia.pwn.pl/)
+        * [geek.hr/](https://geek.hr/)
+        * [knigavuhe.com/author/dzhared-dajjmond/](https://knigavuhe.com/author/dzhared-dajjmond/)
+        * [mail.uni-stuttgart.de/owa/#path=/mail](https://mail.uni-stuttgart.de/owa/#path=/mail)
+        * [skolski.hrt.hr/](https://skolski.hrt.hr/)
+        * [snl.no/Den_store_franske_encyklopedien](https://snl.no/Den_store_franske_encyklopedien)
+        * [thequestion.ru/](https://thequestion.ru/)
+        * [bing.com/](https://www.bing.com/)
+        * [icloud.com/](https://www.icloud.com/)
+        * [institut-pandore.com/](https://www.institut-pandore.com/)
+        * [regardsurlemonde.fr/blog/](http://www.regardsurlemonde.fr/blog/)
+        * [scienceshumaines.com/](http://www.scienceshumaines.com/)
+        * [reader.fr/](http://www.reader.fr/)
+        * [ebrumagazine.com/](http://www.ebrumagazine.com/)
+        * [muyinteresante.com.mx/](http://www.muyinteresante.com.mx/)
+        * [saberespractico.com/](https://www.saberespractico.com/)
+        * [elcultural.com/](http://www.elcultural.com/)
+        * [obloghumanista.blogspot.com/](http://obloghumanista.blogspot.com/)
+        * [descomplica.com.br/blog/](https://descomplica.com.br/blog/)
+        * [suapesquisa.com/](http://www.suapesquisa.com/)
+        * [marcobesozzi.blogspot.com/](http://marcobesozzi.blogspot.com/)
+        * [geek.hr/znanost/](https://geek.hr/znanost/)
+        * [desconversa.com.br/](http://desconversa.com.br/)
         * [On Being with Krista Tippett — The Big Questions of Meaning](http://www.onbeing.org/)
         * [Brain Pickings | An inventory of the meaningful life.](https://www.brainpickings.org/)
-        * https://fs.blog/
+        * [fs.blog/](https://fs.blog/)
         * [GRW](http://www.globalroadwarrior.com/)
         * [Cadmus](http://cadmusjournal.org/)
         * [Eruditio](http://eruditio.worldacademy.org/)
         * [Aeon | ideas and culture](https://aeon.co/)
-        * http://www.creativitypost.com/
-        * https://lt.org/
-        * http://tetw.org/
+        * [creativitypost.com/](http://www.creativitypost.com/)
+        * [lt.org/](https://lt.org/)
+        * [tetw.org/](http://tetw.org/)
         * [3quarksdaily:](http://www.3quarksdaily.com/)
         * [Intellectual Takeout | Feed Your Mind](http://www.intellectualtakeout.org/)
         * [Welcome to Less Wrong](http://lesswrong.com/)
@@ -2243,43 +2243,43 @@ make a test schedule for languages, ideas, formulas, etc
         * [Big Think | Videos, articles, and tips to help you succeed, from the world's leading experts](http://bigthink.com/)
         * [Hidden Brain : NPR](http://www.npr.org/series/423302056/hidden-brain)
         * [World Academy of Art and Science](http://www.worldacademy.org/home-demo/index.html)
-        * https://www.thegreatideas.org/
+        * [thegreatideas.org/](https://www.thegreatideas.org/)
         * [Perspectives from The Economist Intelligence Unit (EIU)](http://perspectives.eiu.com/)
-        * https://openmindplatform.org/app-user/#_=_
+        * [openmindplatform.org/app-user/#_=_](https://openmindplatform.org/app-user/#_=_)
         * [Вопросы и ответы](https://thequestion.ru/)
         * [Главная - Русская историческая библиотека](http://rushist.com/)
         * [Мудрый Философ | Философия, культура, религия](http://www.mudriyfilosof.ru/)
         * [N+1: научные статьи, новости, открытия](https://nplus1.ru/)
         * [«ШколаЖизни.ру» - ежедневный познавательный журнал](http://shkolazhizni.ru/)
-        * http://otetrad.ru/
+        * [otetrad.ru/](http://otetrad.ru/)
         * [Online-Lexika](https://www.spektrum.de/lexikon/)
         * [litteratur.ch | Lesen, sehen, hören, nachdenken – schreiben](https://blog.litteratur.ch/WordPress/)
-        * https://www.achgut.com/
+        * [achgut.com/](https://www.achgut.com/)
         * [Nachdenkseiten](http://www.nachdenkseiten.de/)
-        * http://neue-aufklaerung.de/index.htm
+        * [neue-aufklaerung.de/index.htm](http://neue-aufklaerung.de/index.htm)
         * [La Vie des idées](http://www.laviedesidees.fr/)
-        * https://forums.futura-sciences.com/
+        * [forums.futura-sciences.com/](https://forums.futura-sciences.com/)
         * [La culture générale | Savoir, c'est pouvoir](https://www.laculturegenerale.com/)
-        * http://www.cultivonsnous.fr/
+        * [cultivonsnous.fr/](http://www.cultivonsnous.fr/)
         * [Culture générale facile et gratuite | Cultivetoi.fr](https://cultivetoi.fr/)
         * [Choses à Savoir - Développez votre culture générale](https://www.chosesasavoir.com/)
         * [Accueil - 1000 idées de culture générale1000 idées de culture générale | Le site du manuel](https://1000-idees-de-culture-generale.fr/)
         * [Canal Académie](http://www.canalacademie.com/)
-        * https://www.erudit.org/fr/
+        * [erudit.org/fr/](https://www.erudit.org/fr/)
         * [1001Tests.com](http://www.1001tests.com/)
         * [Canal-U](https://www.canal-u.tv/)
-        * http://www.biu.sorbonne.fr/sid/
+        * [biu.sorbonne.fr/sid/](http://www.biu.sorbonne.fr/sid/)
         * [Tercera Cultura – Ciencia para el debate público](http://www.terceracultura.net/tc/)
         * [De Conceptos.com](http://deconceptos.com/)
         * [Universo Racionalista | Um Mundo Novo De Conhecimento](http://www.universoracionalista.org/)
-        * http://revistagalileu.globo.com/
-        * http://www.megacurioso.com.br/
-        * https://www.significados.com.br/
-        * https://www.pensador.com/
+        * [revistagalileu.globo.com/](http://revistagalileu.globo.com/)
+        * [megacurioso.com.br/](http://www.megacurioso.com.br/)
+        * [significados.com.br/](https://www.significados.com.br/)
+        * [pensador.com/](https://www.pensador.com/)
         * [Pensamiento Crítico – Pensamiento Crítico para una acción solidaria. Comprender el mundo para transformarlo](http://www.pensamientocritico.org/)
-        * http://www.coladaweb.com/
+        * [coladaweb.com/](http://www.coladaweb.com/)
         * [Libre - associazione di idee](http://www.libreidee.org/)
-        * https://www.studenti.it/
+        * [studenti.it/](https://www.studenti.it/)
         * [Riflessioni.it - Dove il Web Riflette!](http://www.riflessioni.it/)
         * [موقع دخلك بتعرف](https://dkhlak.com/)
         * [Naslovna - Školski](https://skolski.hrt.hr/)
@@ -2296,7 +2296,7 @@ make a test schedule for languages, ideas, formulas, etc
         * [Home Page – The TLS](https://www.the-tls.co.uk/)
         * [Australian Book Review Websites Online | Interesting Books To Read](http://www.goodreadingmagazine.com.au/)
         * [Revista de Libros - Crítica cultural. Artículos, ensayos y reseñas bibliográficas](http://www.revistadelibros.com/)
-        * [www.krytyka.com](http://www.krytyka.com/)
+        * [krytyka.com](http://www.krytyka.com/)
         * [Books - Le monde à la lumière des livres](http://www.books.fr/)
         * [Bienvenue sur www.libres.org](http://www.libres.org/index.php)
         * [Vinduet](http://www.vinduet.no/)
@@ -2304,7 +2304,7 @@ make a test schedule for languages, ideas, formulas, etc
         * [Writers Unlimited | Writers Unlimited](http://www.writersunlimited.nl/en)
 
     ***Free eLibrary &quot;Original&quot; | Бесплатная библиотека &quot;Оригинал&quot;. Классическая литература на языке оригинала и переводы на иностранные языки
-        * https://tululu.org/
+        * [tululu.org/](https://tululu.org/)
         * [Atramenta](https://www.atramenta.net/)
         * [Goodreads Italia Group (10339 Members)](https://www.goodreads.com/group/show/30626-goodreads-italia)
         * [Francophonie Group (3174 Members)](https://www.goodreads.com/group/show/3936-francophonie)
@@ -2312,42 +2312,42 @@ make a test schedule for languages, ideas, formulas, etc
         * [Books en Español Group (4991 Members)](https://www.goodreads.com/group/show/493-books-en-espa-ol)
         * [Lectores Mexicanos Group (4213 Members)](https://www.goodreads.com/group/show/6292-lectores-mexicanos)
         * [Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada)
-        * http://stackoverflow.com/
+        * [stackoverflow.com/](http://stackoverflow.com/)
         * [Gesprochene Wikipedia](https://de.wikipedia.org/wiki/Portal:Gesprochene_Wikipedia/Kategorien)
-        * http://wikimindmap.com/
+        * [wikimindmap.com/](http://wikimindmap.com/)
         * [Brainly.com.br - Estudamos juntos](https://brainly.com.br/)
-        * http://www.vice.com/fr
+        * [vice.com/fr](http://www.vice.com/fr)
         * [Sam Harris | Home of the Waking Up Podcast](https://samharris.org/)
         * [QI : Quite Interesting](http://qi.com/feed)
         * [The Public Domain Review](http://publicdomainreview.org/)
-        * https://arzamas.academy/
-        * https://limeokapi.wordpress.com/page/2/
-        * http://www.ellenwinner.com/
+        * [arzamas.academy/](https://arzamas.academy/)
+        * [limeokapi.wordpress.com/page/2/](https://limeokapi.wordpress.com/page/2/)
+        * [ellenwinner.com/](http://www.ellenwinner.com/)
 
-    *** http://philosophybites.com/
-        * http://www.webdianoia.com/glosario/display.php?action=view&id=56&from=action=search%7Cby=C
+    *** [philosophybites.com/](http://philosophybites.com/)
+        * [webdianoia.com/glosario/display.php?action=view&id=56&from=action=search%7Cby=C](http://www.webdianoia.com/glosario/display.php?action=view&id=56&from=action=search%7Cby=C)
         * [Лайфхакер - Жизнь несовершенна. Исправь это!](http://lifehacker.ru/)
         * [ПРО ЖИЗНЬ](http://inet.livejournal.com/)
         * [Энциклопедия отличий "DifferenceBetween" - TheDB.ru](http://thedb.ru/)
-        * http://studopedia.org/
+        * [studopedia.org/](http://studopedia.org/)
         * [P.M. Magazin: History, Fragen&Antworten, Rätsel, Biografie - Die Welt des Wissens im Abo - [P.M. MAGAZIN]](http://www.pm-magazin.de/)
         * [Allgemeinbildung | Wissenstest | Lexikon | Wörterbücher | Suche auf wissen.de](http://www.wissen.de/)
-        * https://www.spektrum.de/lexikon/neurowissenschaft/
-        * https://www.spektrum.de/lexikon/philosophie/
+        * [spektrum.de/lexikon/neurowissenschaft/](https://www.spektrum.de/lexikon/neurowissenschaft/)
+        * [spektrum.de/lexikon/philosophie/](https://www.spektrum.de/lexikon/philosophie/)
         * [Reisen, Wissen, Fotografie: Das neue Bild der Erde- GEO.de](http://www.geo.de/)
         * [The Intelligence - Objektiv. Kompetent. Unabhängig](http://www.theintelligence.de/)
         * [Jakub Marian – Bildungsblog](https://de.jakubmarian.com/)
         * [Юніонпедія](http://uk.unionpedia.org/)
         * [Довідник цікавих фактів](http://dovidka.biz.ua/)
-        * http://www.npblog.com.ua/
+        * [npblog.com.ua/](http://www.npblog.com.ua/)
         * [Apprendre, et refaire le monde - Institut Pandore](https://www.institut-pandore.com/)
         * [Regard sur le Monde - Nature, sciences et environnement.](http://www.regardsurlemonde.fr/blog/)
         * [Magazine Sciences Humaines](http://www.scienceshumaines.com/)
-        * https://zestedesavoir.com/
+        * [zestedesavoir.com/](https://zestedesavoir.com/)
         * [Reader.fr](http://www.reader.fr/)
         * [Ebru Magazine](http://www.ebrumagazine.com/)
         * [Muy Interesante México](http://www.muyinteresante.com.mx/)
-        * https://www.saberespractico.com/
+        * [saberespractico.com/](https://www.saberespractico.com/)
         * [EL CULTURAL. Revista de actualidad cultural](http://www.elcultural.com/)
         * [Etcetera - O Blog Humanista](http://obloghumanista.blogspot.com/)
         * [Desconversa - O blog do Descomplica](https://descomplica.com.br/blog/)
@@ -2367,26 +2367,26 @@ make a test schedule for languages, ideas, formulas, etc
         * [Школьные Знания.com - Решаем домашнее задание вместе](https://znanija.com/predmet/drugie_predmety)
         * [Полезные советы со света на все случаи жизни - готовые инструкции к действию](http://sovetisosveta.ru/)
         * [The Vore - The best new international culture online](https://thevore.com/)
-        * https://sjedi5.com/
+        * [sjedi5.com/](https://sjedi5.com/)
         * [Danska - Skolbok](http://www.grundskoleboken.se/wiki/Danska)
         * [Store norske leksikon](https://snl.no/)
-        * https://pen-international.org/fr/
+        * [pen-international.org/fr/](https://pen-international.org/fr/)
 
 * Research Resources
-        * https://arxiv.org/
-        * https://arxiv-sanity-lite.com/
+        * [arxiv.org/](https://arxiv.org/)
+        * [arxiv-sanity-lite.com/](https://arxiv-sanity-lite.com/)
         * [http://www.arxiv-sanity.com](http://www.arxiv-sanity.com/)
-        * https://sci-hub.se/
+        * [sci-hub.se/](https://sci-hub.se/)
 
 * Enciclopedias
         * [Encyclopedia.com | Free Online Encyclopedia](http://www.encyclopedia.com/)
         * [Wolfram|Alpha: Computational Knowledge Engine](http://www.wolframalpha.com/)
-        * http://www.scholarpedia.org/article/Main_Page
+        * [scholarpedia.org/article/Main_Page](http://www.scholarpedia.org/article/Main_Page)
         * [Britannica.com](http://britannica.com/)
         * [Britannica Academic](http://academic.eb.com/)
         * [Oxford Reference - Answers with Authority](http://www.oxfordreference.com/#)
-        * https://www.loc.gov/
-        * http://www.wikiznanie.ru/wikipedia/index.php/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
+        * [loc.gov/](https://www.loc.gov/)
+        * [wikiznanie.ru/wikipedia/index.php/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0](http://www.wikiznanie.ru/wikipedia/index.php/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0)
         * [ALL-IN-ONE : универсальный справочник - энциклопедия](http://www.sci.aha.ru/ALL/)
         * [Иллюстрированный энциклопедический словарь](http://www.rubricon.com/ies_1.asp)
         * [Петербургская программа Энциклопедический Фонд России - Russika.Ru](http://www.russika.ru/ef.php)
@@ -2395,8 +2395,8 @@ make a test schedule for languages, ideas, formulas, etc
         * [Spektrum der Wissenschaft](http://www.spektrum.de/)
         * [Вікіпідручник](https://uk.wikibooks.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0)
         * [Encyclopédie Larousse en ligne - Accueil](http://www.larousse.fr/encyclopedie)
-        * https://www.wdl.org/fr/
-        * http://www.cosmovisions.com/index.html
+        * [wdl.org/fr/](https://www.wdl.org/fr/)
+        * [cosmovisions.com/index.html](http://www.cosmovisions.com/index.html)
         * [Encyclopédie Universalis](http://www.universalis.fr/)
         * [Significados, conceptos y definiciones de significados](http://www.significados.com/)
         * [Enciclopedia](http://enciclopedia.us.es/index.php/Enciclopedia_Libre_Universal_en_Espa%C3%B1ol)
@@ -2407,7 +2407,7 @@ make a test schedule for languages, ideas, formulas, etc
         * [موسوعة الجزيرة](http://www.aljazeera.net/encyclopedia)
         * [الموسوعة العربية](http://www.arab-ency.com/_/)
         * [المعرفة](http://www.marefa.org/index.php/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9)
-        * http://mawdoo3.com/
+        * [mawdoo3.com/](http://mawdoo3.com/)
         * [wikiHow Sitemap](http://ru.wikihow.com/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Sitemap)
         * [wikiHow - Il Manuale del &quot;Come si Fa&quot; a cui Tutti Possono Contribuire](http://www.wikihow.it/Pagina-principale)
         * [wikiHow - Cómo hacer de todo](http://es.wikihow.com/Portada)
@@ -2440,38 +2440,38 @@ make a test schedule for languages, ideas, formulas, etc
     - Zapytaj.onet.pl -
         * [Portada » Enciclonet.com](http://www.enciclonet.com/)
         * [Rječnik filozofskih pojmova – Filozofija.org](https://www.filozofija.org/rjecnik-filozofskih-pojmova/)
-        * http://www.encyclopedia.com/
-        * http://www.wolframalpha.com/
-        * http://www.britannica.com/
-        * http://academic.eb.com/
-        * http://www.oxfordreference.com/#
-        * https://www.loc.gov/
-        * http://www.krugosvet.ru/
-        * http://www.wikiznanie.ru/wikipedia/index.php/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
-        * http://www.sci.aha.ru/ALL/
-        * http://www.rubricon.com/ies_1.asp
-        * http://www.russika.ru/ef.php
-        * http://www.encyclopedia.ru/
-        * http://www.spektrum.de/
-        * https://uk.wikibooks.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0
-        * http://uk.unionpedia.org/
-        * http://referatu.net.ua/
-        * http://www.larousse.fr/encyclopedie
-        * https://www.wdl.org/fr/
-        * http://www.cosmovisions.com/index.html
-        * http://www.universalis.fr/
-        * http://www.significados.com/
-        * http://enciclopedia.us.es/index.php/Enciclopedia_Libre_Universal_en_Espa%C3%B1ol
-        * http://enciclopediadges.a.wiki-site.com/index.php/Portada
-        * https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal
+        * [encyclopedia.com/](http://www.encyclopedia.com/)
+        * [wolframalpha.com/](http://www.wolframalpha.com/)
+        * [britannica.com/](http://www.britannica.com/)
+        * [academic.eb.com/](http://academic.eb.com/)
+        * [oxfordreference.com/#](http://www.oxfordreference.com/#)
+        * [loc.gov/](https://www.loc.gov/)
+        * [krugosvet.ru/](http://www.krugosvet.ru/)
+        * [wikiznanie.ru/wikipedia/index.php/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0](http://www.wikiznanie.ru/wikipedia/index.php/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0)
+        * [sci.aha.ru/ALL/](http://www.sci.aha.ru/ALL/)
+        * [rubricon.com/ies_1.asp](http://www.rubricon.com/ies_1.asp)
+        * [russika.ru/ef.php](http://www.russika.ru/ef.php)
+        * [encyclopedia.ru/](http://www.encyclopedia.ru/)
+        * [spektrum.de/](http://www.spektrum.de/)
+        * [uk.wikibooks.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0](https://uk.wikibooks.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0)
+        * [uk.unionpedia.org/](http://uk.unionpedia.org/)
+        * [referatu.net.ua/](http://referatu.net.ua/)
+        * [larousse.fr/encyclopedie](http://www.larousse.fr/encyclopedie)
+        * [wdl.org/fr/](https://www.wdl.org/fr/)
+        * [cosmovisions.com/index.html](http://www.cosmovisions.com/index.html)
+        * [universalis.fr/](http://www.universalis.fr/)
+        * [significados.com/](http://www.significados.com/)
+        * [enciclopedia.us.es/index.php/Enciclopedia_Libre_Universal_en_Espa%C3%B1ol](http://enciclopedia.us.es/index.php/Enciclopedia_Libre_Universal_en_Espa%C3%B1ol)
+        * [enciclopediadges.a.wiki-site.com/index.php/Portada](http://enciclopediadges.a.wiki-site.com/index.php/Portada)
+        * [pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal)
         * [Encyclopedia.com | Free Online Encyclopedia](http://www.encyclopedia.com/)
         * [Wolfram|Alpha: Computational Knowledge Engine](http://www.wolframalpha.com/)
-        * http://www.scholarpedia.org/article/Main_Page
+        * [scholarpedia.org/article/Main_Page](http://www.scholarpedia.org/article/Main_Page)
         * [Britannica.com](http://www.britannica.com/)
         * [Britannica Academic](http://academic.eb.com/)
         * [Oxford Reference - Answers with Authority](http://www.oxfordreference.com/#)
-        * https://www.loc.gov/
-        * http://www.wikiznanie.ru/wikipedia/index.php/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
+        * [loc.gov/](https://www.loc.gov/)
+        * [wikiznanie.ru/wikipedia/index.php/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0](http://www.wikiznanie.ru/wikipedia/index.php/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0)
         * [ALL-IN-ONE : универсальный справочник - энциклопедия](http://www.sci.aha.ru/ALL/)
         * [Иллюстрированный энциклопедический словарь](http://www.rubricon.com/ies_1.asp)
         * [Петербургская программа Энциклопедический Фонд России - Russika.Ru](http://www.russika.ru/ef.php)
@@ -2479,8 +2479,8 @@ make a test schedule for languages, ideas, formulas, etc
         * [Spektrum der Wissenschaft](http://www.spektrum.de/)
         * [Вікіпідручник](https://uk.wikibooks.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0)
         * [Encyclopédie Larousse en ligne - Accueil](http://www.larousse.fr/encyclopedie)
-        * https://www.wdl.org/fr/
-        * http://www.cosmovisions.com/index.html
+        * [wdl.org/fr/](https://www.wdl.org/fr/)
+        * [cosmovisions.com/index.html](http://www.cosmovisions.com/index.html)
         * [Encyclopédie Universalis](http://www.universalis.fr/)
         * [Significados, conceptos y definiciones de significados](http://www.significados.com/)
         * [Enciclopedia](http://enciclopedia.us.es/index.php/Enciclopedia_Libre_Universal_en_Espa%C3%B1ol)
@@ -2491,7 +2491,7 @@ make a test schedule for languages, ideas, formulas, etc
         * [موسوعة الجزيرة](http://www.aljazeera.net/encyclopedia)
         * [الموسوعة العربية](http://www.arab-ency.com/_/)
         * [المعرفة](http://www.marefa.org/index.php/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9)
-        * http://mawdoo3.com/
+        * [mawdoo3.com/](http://mawdoo3.com/)
         * [Hrvatska enciklopedija](http://www.enciklopedija.hr/)
         * [Store norske leksikon](https://snl.no/)
         * [Proleksis enciklopedija](http://proleksis.lzmk.hr/)
@@ -2510,26 +2510,26 @@ make a test schedule for languages, ideas, formulas, etc
         * [Rječnik filozofskih pojmova – Filozofija.org](https://www.filozofija.org/rjecnik-filozofskih-pojmova/)
 
 * Preguntas y respuestas
-        * http://stackexchange.com/sites
-        * https://www.quora.com/
-        * https://thequestion.ru/
-        * http://getrejoin.com/ru/
-        * https://otvet.mail.ru/
-        * http://www.genon.ru/
-        * http://www.gutefrage.net/
-        * http://www.cosmiq.de/
-        * http://de.answers.com/
-        * http://cosmiq.de/
-        * https://www.ask.fm/account/inbox
-        * http://vidpoviday.com/
-        * http://otvet.i.ua/
-        * http://vseznai.in.ua/
-        * http://www.questionreponse.net/categories
-        * http://mes-questions-reponses.nathan.fr/
-        * http://www.reponseatout.com/question
-        * https://es.quora.com/
-        * http://www.muyinteresante.com.mx/preguntas-y-respuestas/
-        * https://br.answers.yahoo.com/
+        * [stackexchange.com/sites](http://stackexchange.com/sites)
+        * [quora.com/](https://www.quora.com/)
+        * [thequestion.ru/](https://thequestion.ru/)
+        * [getrejoin.com/ru/](http://getrejoin.com/ru/)
+        * [otvet.mail.ru/](https://otvet.mail.ru/)
+        * [genon.ru/](http://www.genon.ru/)
+        * [gutefrage.net/](http://www.gutefrage.net/)
+        * [cosmiq.de/](http://www.cosmiq.de/)
+        * [de.answers.com/](http://de.answers.com/)
+        * [cosmiq.de/](http://cosmiq.de/)
+        * [ask.fm/account/inbox](https://www.ask.fm/account/inbox)
+        * [vidpoviday.com/](http://vidpoviday.com/)
+        * [otvet.i.ua/](http://otvet.i.ua/)
+        * [vseznai.in.ua/](http://vseznai.in.ua/)
+        * [questionreponse.net/categories](http://www.questionreponse.net/categories)
+        * [mes-questions-reponses.nathan.fr/](http://mes-questions-reponses.nathan.fr/)
+        * [reponseatout.com/question](http://www.reponseatout.com/question)
+        * [es.quora.com/](https://es.quora.com/)
+        * [muyinteresante.com.mx/preguntas-y-respuestas/](http://www.muyinteresante.com.mx/preguntas-y-respuestas/)
+        * [br.answers.yahoo.com/](https://br.answers.yahoo.com/)
 
 * Cómo hacer
         * [wikiHow Sitemap](http://ru.wikihow.com/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Sitemap)
@@ -2550,64 +2550,64 @@ make a test schedule for languages, ideas, formulas, etc
         * [Comment faire !](http://www.comment-faire.fr/)
 
 * Instrucción
-        * http://www.openculture.com/
-        * http://prometheus.org.ua/
-        * https://www.coursera.org/recommendations
-        * https://www.khanacademy.org/
-        * https://www.class-central.com/
-        * http://www.oilproject.org/
-        * https://fr.wikiversity.org/wiki/Wikiversit%C3%A9:Accueil
-        * https://www.edx.org/
-        * http://www.learnoutloud.com/
-        * https://www.udacity.com/
-        * https://www.class-central.com/
-        * https://www.futurelearn.com/
-        * http://academicearth.org/
-        * https://openclassrooms.com/
-        * http://gohighbrow.com/
-        * http://www.noexcuselist.com/
-        * http://www.focus.it/temi/domande-e-risposte
-        * http://www.sapere.it/sapere/strumenti/domande-risposte.html
-        * http://unascuola.it/domande-e-risposte/
-        * http://oyc.yale.edu/
-        * http://online.stanford.edu/courses
-        * http://ocw.mit.edu/index.htm
+        * [openculture.com/](http://www.openculture.com/)
+        * [prometheus.org.ua/](http://prometheus.org.ua/)
+        * [coursera.org/recommendations](https://www.coursera.org/recommendations)
+        * [khanacademy.org/](https://www.khanacademy.org/)
+        * [class-central.com/](https://www.class-central.com/)
+        * [oilproject.org/](http://www.oilproject.org/)
+        * [fr.wikiversity.org/wiki/Wikiversit%C3%A9:Accueil](https://fr.wikiversity.org/wiki/Wikiversit%C3%A9:Accueil)
+        * [edx.org/](https://www.edx.org/)
+        * [learnoutloud.com/](http://www.learnoutloud.com/)
+        * [udacity.com/](https://www.udacity.com/)
+        * [class-central.com/](https://www.class-central.com/)
+        * [futurelearn.com/](https://www.futurelearn.com/)
+        * [academicearth.org/](http://academicearth.org/)
+        * [openclassrooms.com/](https://openclassrooms.com/)
+        * [gohighbrow.com/](http://gohighbrow.com/)
+        * [noexcuselist.com/](http://www.noexcuselist.com/)
+        * [focus.it/temi/domande-e-risposte](http://www.focus.it/temi/domande-e-risposte)
+        * [sapere.it/sapere/strumenti/domande-risposte.html](http://www.sapere.it/sapere/strumenti/domande-risposte.html)
+        * [unascuola.it/domande-e-risposte/](http://unascuola.it/domande-e-risposte/)
+        * [oyc.yale.edu/](http://oyc.yale.edu/)
+        * [online.stanford.edu/courses](http://online.stanford.edu/courses)
+        * [ocw.mit.edu/index.htm](http://ocw.mit.edu/index.htm)
         * [Gaudio](http://www.gaudio.org/)
         * [Jonah Lehrer](http://www.jonahlehrer.com/)
-        * https://learn.saylor.org/?redirect=0
+        * [learn.saylor.org/?redirect=0](https://learn.saylor.org/?redirect=0)
 
 * Sitios de contenido
-        * https://www.pinterest.com/
-        * http://www.wikivisually.com/lang-uk
-        * http://reddit.com/
-        * https://www.flickr.com/
-        * https://www.tumblr.com/
-        * http://www.stumbleupon.com/
-        * http://mentalfloss.com/
-        * http://www.bambler.ru/
-        * http://gizmodo.com/
-        * http://www.issuu.com/isaacriley
-        * https://flipboard.com/
-        * https://prezi.com/
-        * http://digg.com/channel/longreads
-        * http://www.livejournal.com/
-        * https://commons.wikimedia.org/wiki/Hauptseite
-        * http://vk.com/isaacriley
-        * https://vimeo.com/
-        * http://fr.slideserve.com/
-        * http://es.slideshare.net/
-        * https://prezi.com/
-        * https://ankiweb.net/decks/
-        * http://ankisrs.net/docs/manual.html
-        * http://www.freebyte.com/
-        * https://archive.org/index.php
+        * [pinterest.com/](https://www.pinterest.com/)
+        * [wikivisually.com/lang-uk](http://www.wikivisually.com/lang-uk)
+        * [reddit.com/](http://reddit.com/)
+        * [flickr.com/](https://www.flickr.com/)
+        * [tumblr.com/](https://www.tumblr.com/)
+        * [stumbleupon.com/](http://www.stumbleupon.com/)
+        * [mentalfloss.com/](http://mentalfloss.com/)
+        * [bambler.ru/](http://www.bambler.ru/)
+        * [gizmodo.com/](http://gizmodo.com/)
+        * [issuu.com/isaacriley](http://www.issuu.com/isaacriley)
+        * [flipboard.com/](https://flipboard.com/)
+        * [prezi.com/](https://prezi.com/)
+        * [digg.com/channel/longreads](http://digg.com/channel/longreads)
+        * [livejournal.com/](http://www.livejournal.com/)
+        * [commons.wikimedia.org/wiki/Hauptseite](https://commons.wikimedia.org/wiki/Hauptseite)
+        * [vk.com/isaacriley](http://vk.com/isaacriley)
+        * [vimeo.com/](https://vimeo.com/)
+        * [fr.slideserve.com/](http://fr.slideserve.com/)
+        * [es.slideshare.net/](http://es.slideshare.net/)
+        * [prezi.com/](https://prezi.com/)
+        * [ankiweb.net/decks/](https://ankiweb.net/decks/)
+        * [ankisrs.net/docs/manual.html](http://ankisrs.net/docs/manual.html)
+        * [freebyte.com/](http://www.freebyte.com/)
+        * [archive.org/index.php](https://archive.org/index.php)
 
 * Rede y enlaces
-        * http://alexa.com/
-        * http://www.liveinternet.ru/
-        * https://ifttt.com/
-        * http://www.linker.ch/
-        * http://5ka.at.ua/
+        * [alexa.com/](http://alexa.com/)
+        * [liveinternet.ru/](http://www.liveinternet.ru/)
+        * [ifttt.com/](https://ifttt.com/)
+        * [linker.ch/](http://www.linker.ch/)
+        * [5ka.at.ua/](http://5ka.at.ua/)
         * [Forum - Il Club del Libro - Forum - Il Club del Libro](http://www.ilclubdellibro.it/forum)
         * [Книжный клуб - книжный интернет магазин, продажа книг, литературы по Беларуси. Купить книги онлайн, оптом](http://www.bookclub.by/)
         * [Обсуждение книг - форумы Gumer.info](http://www.gumer.info/forum/forumdisplay.php?f=6)
@@ -2621,25 +2621,25 @@ make a test schedule for languages, ideas, formulas, etc
         * [Encyclopédie Wikimonde](https://wikimonde.com/)
 
 * Vídeo
-        * http://events.fora.tv/partners
-        * http://www.howcast.com/
-        * https://www.fronteiras.com/
+        * [events.fora.tv/partners](http://events.fora.tv/partners)
+        * [howcast.com/](http://www.howcast.com/)
+        * [fronteiras.com/](https://www.fronteiras.com/)
         * [Dokus](https://www.youtube.com/channel/UC23kvmGlwarpZnMgcnLLyfQ)
         * [Applet Magic](http://www.applet-magic.com/newpages.htm)
 
 * Tools
-        * https://www.techdevos.com/best-text-to-speech-software/
-        * https://obsidian.md/
-        * [https://witeboard.com](https://witeboard.com/)
-        * https://blush.design/
-        * https://www.whatruns.com/
-        * https://untools.co/
+        * [techdevos.com/best-text-to-speech-software/](https://www.techdevos.com/best-text-to-speech-software/)
+        * [obsidian.md/](https://obsidian.md/)
+        * [witeboard.com](https://witeboard.com/)
+        * [blush.design/](https://blush.design/)
+        * [whatruns.com/](https://www.whatruns.com/)
+        * [untools.co/](https://untools.co/)
 
 * Bibliotecas
-        * https://libren.org/
-        * http://www.worldcat.org/
-        * http://www.unige.ch/biblio/plus/ressources/rep2.php
-        * https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%B8_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B
+        * [libren.org/](https://libren.org/)
+        * [worldcat.org/](http://www.worldcat.org/)
+        * [unige.ch/biblio/plus/ressources/rep2.php](http://www.unige.ch/biblio/plus/ressources/rep2.php)
+        * [ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%B8_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B](https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%B8_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB%D1%8B)
         * [AlbaLearning Audiolibros y Libros Gratis Sin Registrarse - Free Audiobooks - Learn Spanish by reading and listening](http://albalearning.com/)
         * [Download Audiobooks with Audible.com](https://www.audible.com/)
         * [Foreign Language Books | Audible.com](http://www.audible.com/mt/foreign-language)
@@ -2655,11 +2655,11 @@ make a test schedule for languages, ideas, formulas, etc
         * [Антон Павлович Чехов](https://sites.google.com/site/cehovantonpavlovic/)
         * [Mundo Clásico - Grecia y Roma - Home](https://www.facebook.com/mundoclasicogreciayroma/)
         * [Libreriamo - la piazza digitale per chi ama libri e cultura](http://libreriamo.it/)
-        * https://e.lanbook.com/
-        * http://mybook4u.com/
+        * [e.lanbook.com/](https://e.lanbook.com/)
+        * [mybook4u.com/](http://mybook4u.com/)
         * [Biblioteca Virtual Miguel de Cervantes](http://www.cervantesvirtual.com/)
         * [Library Genesis](http://libgen.io/)
-        * https://issuu.com/
+        * [issuu.com/](https://issuu.com/)
 
     *** Serial Books &amp; Magazines
         * [11 páginas con audiolibros en italiano | En Italiano](http://www.enitaliano.com/2015/09/audiolibros-en-italiano.html)
@@ -2679,15 +2679,15 @@ make a test schedule for languages, ideas, formulas, etc
         * [La Revue des livres - La Vie des idées](https://laviedesidees.fr/+-La-Revue-des-livres-+.html)
         * [L’Amour des Livres, le guide magazine de la librairie indépendante](https://amourdeslivres.fr/)
         * [PAGE des libraires, les livres lus et conseillés par les libraires](https://www.pagedeslibraires.fr/)
-        * http://fivebooks.com/
-        * http://discovermagazine.com/2006/dec/25-greatest-science-books
-        * https://www.weforum.org/agenda/2015/11/the-20-most-influential-books-in-history/
-        * https://electricliterature.com/infographic-the-20-most-popular-books-throughout-history-35769365df03
-        * http://www.proyectolatin.org/index.php/es/
-        * https://en.wikipedia.org/wiki/List_of_important_publications_in_mathematics
-        * https://fr.wikipedia.org/wiki/Liste_de_publications_importantes_en_science
-        * http://www.wilbourhall.org/
-        * http://www.aup.ru/
+        * [fivebooks.com/](http://fivebooks.com/)
+        * [discovermagazine.com/2006/dec/25-greatest-science-books](http://discovermagazine.com/2006/dec/25-greatest-science-books)
+        * [weforum.org/agenda/2015/11/the-20-most-influential-books-in-history/](https://www.weforum.org/agenda/2015/11/the-20-most-influential-books-in-history/)
+        * [electricliterature.com/infographic-the-20-most-popular-books-throughout-history-35769365df03](https://electricliterature.com/infographic-the-20-most-popular-books-throughout-history-35769365df03)
+        * [proyectolatin.org/index.php/es/](http://www.proyectolatin.org/index.php/es/)
+        * [en.wikipedia.org/wiki/List_of_important_publications_in_mathematics](https://en.wikipedia.org/wiki/List_of_important_publications_in_mathematics)
+        * [fr.wikipedia.org/wiki/Liste_de_publications_importantes_en_science](https://fr.wikipedia.org/wiki/Liste_de_publications_importantes_en_science)
+        * [wilbourhall.org/](http://www.wilbourhall.org/)
+        * [aup.ru/](http://www.aup.ru/)
         * [Forum - Il Club del Libro - Forum - Il Club del Libro](http://www.ilclubdellibro.it/forum)
         * [Книжный клуб - книжный интернет магазин, продажа книг, литературы по Беларуси. Купить книги онлайн, оптом](http://www.bookclub.by/)
         * [Обсуждение книг - форумы Gumer.info](http://www.gumer.info/forum/forumdisplay.php?f=6)
@@ -2696,55 +2696,55 @@ make a test schedule for languages, ideas, formulas, etc
         * [ideas4all. A rede social das ideias.](https://pt.ideas4all.com/)
         * [Pensamiento crítico, temas](http://www.pensamientocritico.org/0temas.html)
         * [Pensador](https://www.pensador.com/)
-        * https://fs.blog/
+        * [fs.blog/](https://fs.blog/)
         * [Biblioteca digital mundial](https://www.wdl.org/es/)
 
 * Referencias y libros
-        * https://degreed.com/iriley/dashboard#/feed
-        * https://www.merlot.org/merlot/index.htm
-        * http://www.swisseduc.ch/
-        * https://www.lernhelfer.de/
-        * http://www.intellego.fr/
-        * http://fr.syvum.com/
-        * http://www.persee.fr/disciplines
-        * https://de.wikibooks.org/wiki/Wikibooks:Offene_Schulb%C3%BCcher
-        * https://www.oercommons.org/
-        * http://www.library.ethz.ch/Ressourcen/E-Books-Buecher/Lehrbuchsammlung-digital
-        * http://www.sapere.it/sapere.html
-        * http://ua-referat.com/
-        * http://www.enotes.com/
-        * http://pidruchniki.com/
-        * https://open.umn.edu/opentextbooks/
-        * http://www.schule-bw.de/unterricht/faecher/
-        * http://globaltext.terry.uga.edu/booklist?cat=title
-        * https://all.alleng.me/
+        * [degreed.com/iriley/dashboard#/feed](https://degreed.com/iriley/dashboard#/feed)
+        * [merlot.org/merlot/index.htm](https://www.merlot.org/merlot/index.htm)
+        * [swisseduc.ch/](http://www.swisseduc.ch/)
+        * [lernhelfer.de/](https://www.lernhelfer.de/)
+        * [intellego.fr/](http://www.intellego.fr/)
+        * [fr.syvum.com/](http://fr.syvum.com/)
+        * [persee.fr/disciplines](http://www.persee.fr/disciplines)
+        * [de.wikibooks.org/wiki/Wikibooks:Offene_Schulb%C3%BCcher](https://de.wikibooks.org/wiki/Wikibooks:Offene_Schulb%C3%BCcher)
+        * [oercommons.org/](https://www.oercommons.org/)
+        * [library.ethz.ch/Ressourcen/E-Books-Buecher/Lehrbuchsammlung-digital](http://www.library.ethz.ch/Ressourcen/E-Books-Buecher/Lehrbuchsammlung-digital)
+        * [sapere.it/sapere.html](http://www.sapere.it/sapere.html)
+        * [ua-referat.com/](http://ua-referat.com/)
+        * [enotes.com/](http://www.enotes.com/)
+        * [pidruchniki.com/](http://pidruchniki.com/)
+        * [open.umn.edu/opentextbooks/](https://open.umn.edu/opentextbooks/)
+        * [schule-bw.de/unterricht/faecher/](http://www.schule-bw.de/unterricht/faecher/)
+        * [globaltext.terry.uga.edu/booklist?cat=title](http://globaltext.terry.uga.edu/booklist?cat=title)
+        * [all.alleng.me/](https://all.alleng.me/)
 
 * Otros sitios
-        * http://window.edu.ru/
-        * http://school-collection.edu.ru/
-        * http://cyberleninka.ru/
-        * http://www.booksandideas.net/
-        * https://www.reclam.de/shop
-        * http://laboutique.edpsciences.fr/
-        * http://forums.welltrainedmind.com/
-        * https://getpocket.com/explore/pocket-hits
+        * [window.edu.ru/](http://window.edu.ru/)
+        * [school-collection.edu.ru/](http://school-collection.edu.ru/)
+        * [cyberleninka.ru/](http://cyberleninka.ru/)
+        * [booksandideas.net/](http://www.booksandideas.net/)
+        * [reclam.de/shop](https://www.reclam.de/shop)
+        * [laboutique.edpsciences.fr/](http://laboutique.edpsciences.fr/)
+        * [forums.welltrainedmind.com/](http://forums.welltrainedmind.com/)
+        * [getpocket.com/explore/pocket-hits](https://getpocket.com/explore/pocket-hits)
         * [sporcle.com](http://sporcle.com/)
-        * https://heleo.com/
-        * http://www.xapaktep.net/home.php
-        * http://www.letraslibres.com/
-        * https://sites.lib.byu.edu/mediacenter/online-video-databases/internet-site-for-streaming-video/
-        * https://www.edge.org/memberbio/john_brockman
-        * http://www.todoexpertos.com/
-        * http://www.yumpu.com/de
-        * http://es.youscribe.com/
-        * https://fr.calameo.com/
-        * http://www.allreadable.com/
-        * http://thethoughtbankblog.blogspot.com/
-        * https://www.santafe.edu/
+        * [heleo.com/](https://heleo.com/)
+        * [xapaktep.net/home.php](http://www.xapaktep.net/home.php)
+        * [letraslibres.com/](http://www.letraslibres.com/)
+        * [sites.lib.byu.edu/mediacenter/online-video-databases/internet-site-for-streaming-video/](https://sites.lib.byu.edu/mediacenter/online-video-databases/internet-site-for-streaming-video/)
+        * [edge.org/memberbio/john_brockman](https://www.edge.org/memberbio/john_brockman)
+        * [todoexpertos.com/](http://www.todoexpertos.com/)
+        * [yumpu.com/de](http://www.yumpu.com/de)
+        * [es.youscribe.com/](http://es.youscribe.com/)
+        * [fr.calameo.com/](https://fr.calameo.com/)
+        * [allreadable.com/](http://www.allreadable.com/)
+        * [thethoughtbankblog.blogspot.com/](http://thethoughtbankblog.blogspot.com/)
+        * [santafe.edu/](https://www.santafe.edu/)
         * [Category:Years - Wikipedia](https://en.wikipedia.org/wiki/Category:Years)
         * [Poets and poems - Poetry International](http://www.poetryinternationalweb.net/pi/site/collection/country_submenu)
-        * http://tecfa.unige.ch/tecfa/research/pnr33/report/nti-ch-266.html
-        * http://www.aikaeducacion.com/
+        * [tecfa.unige.ch/tecfa/research/pnr33/report/nti-ch-266.html](http://tecfa.unige.ch/tecfa/research/pnr33/report/nti-ch-266.html)
+        * [aikaeducacion.com/](http://www.aikaeducacion.com/)
         * [La culture générale | Savoir, c&#39;est pouvoir](http://www.laculturegenerale.com/)
         * [La pequeña Grecia](http://www.lapequenagrecia.com/)
         * [OPENCOURSEWARE Universia](http://ocw.universia.net/it/)
@@ -2772,62 +2772,62 @@ make a test schedule for languages, ideas, formulas, etc
         * [Book reviews: Find the best new books](https://www.bookbrowse.com/)
 
     ***Abooks.zone - первый аудиокнижный с бесплатным скачиванием
-        * https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=de
-        * http://texts.news/
+        * [scholar.google.com/citations?view_op=top_venues&hl=en&vq=de](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=de)
+        * [texts.news/](http://texts.news/)
         * [Encyclopédie de L&#39;Agora | Culture](http://agora.qc.ca/dossiers/Culture)
         * [Homo vivens | Association Homo Vivens](http://www.homovivens.org/)
         * [موقع باينة نت : دروس البرمجة و مقالات في تكنولوجيا المعلوميات و معطيات إحصائية و معارف عن بلدان العالم](http://bayna.net/)
         * [Blog - Moayad.com](http://www.moayad.com/me/?page_id=2358)
-        * http://acculturated.com/
-        * http://mapmaker.nationalgeographic.org/?ls=000000000000#/
-        * http://fr.mapsofworld.com/world-atlas/
-        * http://www.worldatlas.com/
-        * https://www.lektorium.tv/mooc
+        * [acculturated.com/](http://acculturated.com/)
+        * [mapmaker.nationalgeographic.org/?ls=000000000000#/](http://mapmaker.nationalgeographic.org/?ls=000000000000#/)
+        * [fr.mapsofworld.com/world-atlas/](http://fr.mapsofworld.com/world-atlas/)
+        * [worldatlas.com/](http://www.worldatlas.com/)
+        * [lektorium.tv/mooc](https://www.lektorium.tv/mooc)
 
 * Great Past Articles
         * [Nature Versus Nurture? Add ‘Noise’ to the Debate. | Quanta Magazine](https://www.quantamagazine.org/nature-versus-nurture-add-noise-to-the-debate-20200323/)
 
 * Pensadores
-        * http://ideas.time.com/2013/12/10/whos-biggest-the-100-most-significant-figures-in-history/
-        * http://pantheon.media.mit.edu/rankings/people/all/all/-3000/2010/25
-        * https://en.wikipedia.org/wiki/Time_100
-        * https://en.wikipedia.org/wiki/Who%27s_Bigger%3F
-        * https://en.wikipedia.org/wiki/The_100:_A_Ranking_of_the_Most_Influential_Persons_in_History
-        * http://www.angelfire.com/anime2/100import/
-        * http://www.theatlantic.com/magazine/archive/2006/12/the-100-most-influential-figures-in-american-history/305384/
-        * http://www.historynet.com/famous-women-in-history
-        * http://www.theatlantic.com/magazine/archive/2006/12/the-100-most-influential-figures-in-american-history/305384/
-        * http://www.lefigaro.fr/actualite-france/2015/06/15/01016-20150615ARTFIG00427-the-guardian-se-demande-o-sont-passes-les-grands-penseurs-francais.php
-        * http://www.journaldumauss.net/?Le-champ-intellectuel-francais
-        * http://archives-lepost.huffingtonpost.fr/article/2011/04/06/2458238_qui-sont-les-intellectuels-les-plus-influents-du-monde-arabe-le-palmares.html
-        * http://cicero.de/salon/cicerorangliste-2016-martin-walser-ist-der-wichtigste-intellektuelle
-        * http://www.alterinfo.net/Le-top-20-des-intellectuels-publics-du-monde_a21145.html
-        * http://www.buchmarkt.de/buecher/cicero-fuer-die-500-wichtigsten-intellektuellen-deutschlands/
-        * http://www.agjohnson.us/
-        * https://www.quora.com/profile/Geoffrey-Widdison
-        * https://fi.wikipedia.org/wiki/Tapio_Puolimatka
-        * https://de.wikipedia.org/wiki/Immanuel_Kant#Grundlegung_der_Moralphilosophie
-        * http://www.buchmarkt.de/buecher/cicero-fuer-die-500-wichtigsten-intellektuellen-deutschlands/
+        * [ideas.time.com/2013/12/10/whos-biggest-the-100-most-significant-figures-in-history/](http://ideas.time.com/2013/12/10/whos-biggest-the-100-most-significant-figures-in-history/)
+        * [pantheon.media.mit.edu/rankings/people/all/all/-3000/2010/25](http://pantheon.media.mit.edu/rankings/people/all/all/-3000/2010/25)
+        * [en.wikipedia.org/wiki/Time_100](https://en.wikipedia.org/wiki/Time_100)
+        * [en.wikipedia.org/wiki/Who%27s_Bigger%3F](https://en.wikipedia.org/wiki/Who%27s_Bigger%3F)
+        * [en.wikipedia.org/wiki/The_100:_A_Ranking_of_the_Most_Influential_Persons_in_History](https://en.wikipedia.org/wiki/The_100:_A_Ranking_of_the_Most_Influential_Persons_in_History)
+        * [angelfire.com/anime2/100import/](http://www.angelfire.com/anime2/100import/)
+        * [theatlantic.com/magazine/archive/2006/12/the-100-most-influential-figures-in-american-history/305384/](http://www.theatlantic.com/magazine/archive/2006/12/the-100-most-influential-figures-in-american-history/305384/)
+        * [historynet.com/famous-women-in-history](http://www.historynet.com/famous-women-in-history)
+        * [theatlantic.com/magazine/archive/2006/12/the-100-most-influential-figures-in-american-history/305384/](http://www.theatlantic.com/magazine/archive/2006/12/the-100-most-influential-figures-in-american-history/305384/)
+        * [lefigaro.fr/actualite-france/2015/06/15/01016-20150615ARTFIG00427-the-guardian-se-demande-o-sont-passes-les-grands-penseurs-francais.php](http://www.lefigaro.fr/actualite-france/2015/06/15/01016-20150615ARTFIG00427-the-guardian-se-demande-o-sont-passes-les-grands-penseurs-francais.php)
+        * [journaldumauss.net/?Le-champ-intellectuel-francais](http://www.journaldumauss.net/?Le-champ-intellectuel-francais)
+        * [archives-lepost.huffingtonpost.fr/article/2011/04/06/2458238_qui-sont-les-intellectuels-les-plus-influents-du-monde-arabe-le-palmares.html](http://archives-lepost.huffingtonpost.fr/article/2011/04/06/2458238_qui-sont-les-intellectuels-les-plus-influents-du-monde-arabe-le-palmares.html)
+        * [cicero.de/salon/cicerorangliste-2016-martin-walser-ist-der-wichtigste-intellektuelle](http://cicero.de/salon/cicerorangliste-2016-martin-walser-ist-der-wichtigste-intellektuelle)
+        * [alterinfo.net/Le-top-20-des-intellectuels-publics-du-monde_a21145.html](http://www.alterinfo.net/Le-top-20-des-intellectuels-publics-du-monde_a21145.html)
+        * [buchmarkt.de/buecher/cicero-fuer-die-500-wichtigsten-intellektuellen-deutschlands/](http://www.buchmarkt.de/buecher/cicero-fuer-die-500-wichtigsten-intellektuellen-deutschlands/)
+        * [agjohnson.us/](http://www.agjohnson.us/)
+        * [quora.com/profile/Geoffrey-Widdison](https://www.quora.com/profile/Geoffrey-Widdison)
+        * [fi.wikipedia.org/wiki/Tapio_Puolimatka](https://fi.wikipedia.org/wiki/Tapio_Puolimatka)
+        * [de.wikipedia.org/wiki/Immanuel_Kant#Grundlegung_der_Moralphilosophie](https://de.wikipedia.org/wiki/Immanuel_Kant#Grundlegung_der_Moralphilosophie)
+        * [buchmarkt.de/buecher/cicero-fuer-die-500-wichtigsten-intellektuellen-deutschlands/](http://www.buchmarkt.de/buecher/cicero-fuer-die-500-wichtigsten-intellektuellen-deutschlands/)
         * [L'intellectuel africain du 21ème siècle | Financial Afrik](https://www.financialafrik.com/2017/08/27/lintellectuel-africain-du-21eme-siecle/)
-        * http://bigwhiteogre.blogspot.com.br/2011/06/response-to-paul-bogdanors-top-200.html
-        * http://elpais.com/elpais/2016/12/06/media/1481045524_298699.html?id_externo_rsoc=TW_CC
-        * http://os.colta.ru/society/russia/details/15155/
-        * http://philologist.livejournal.com/7632628.html
-        * http://www.alterinfo.net/Le-top-20-des-intellectuels-publics-du-monde_a21145.html
+        * [bigwhiteogre.blogspot.com.br/2011/06/response-to-paul-bogdanors-top-200.html](http://bigwhiteogre.blogspot.com.br/2011/06/response-to-paul-bogdanors-top-200.html)
+        * [elpais.com/elpais/2016/12/06/media/1481045524_298699.html?id_externo_rsoc=TW_CC](http://elpais.com/elpais/2016/12/06/media/1481045524_298699.html?id_externo_rsoc=TW_CC)
+        * [os.colta.ru/society/russia/details/15155/](http://os.colta.ru/society/russia/details/15155/)
+        * [philologist.livejournal.com/7632628.html](http://philologist.livejournal.com/7632628.html)
+        * [alterinfo.net/Le-top-20-des-intellectuels-publics-du-monde_a21145.html](http://www.alterinfo.net/Le-top-20-des-intellectuels-publics-du-monde_a21145.html)
         * [Les 100 qui ont fait bouger l'Afrique en 2015 (liste) | Financial Afrik](https://www.financialafrik.com/2015/12/19/les-100-qui-ont-fait-bouger-lafrique-en-2015-liste/)
         * [Les intellectuels afro-américains en pleine bataille d’idées](http://www.lemonde.fr/m-actu/article/2017/12/29/les-intellectuels-afro-americains-en-pleine-bataille-d-idees_5235520_4497186.html)
         * [Les intellectuels du XXIe siècle - Tous les épisodes en streaming - france.tv](https://www.france.tv/france-5/les-intellectuels-du-xxie-siecle/)
         * [Meet China’s top public intellectuals - Martin Jacques](http://www.martinjacques.com/articles/articles-geopolitics-globalisation/meet-chinas-top-public-intellectuals/)
         * [Op-Ed Authors and Contributors - Project Syndicate](https://www.project-syndicate.org/columnists)
         * [Public Intellectuals in China | Congressional-Executive Commission on China](https://www.cecc.gov/events/roundtables/public-intellectuals-in-china)
-        * https://en.wikipedia.org/wiki/Category:Philosophers_by_nationality
-        * https://en.wikipedia.org/wiki/FP_Top_100_Global_Thinkers
-        * https://en.wikipedia.org/wiki/The_100:_A_Ranking_of_the_Most_Influential_Persons_in_History
-        * https://en.wikipedia.org/wiki/Time_100
+        * [en.wikipedia.org/wiki/Category:Philosophers_by_nationality](https://en.wikipedia.org/wiki/Category:Philosophers_by_nationality)
+        * [en.wikipedia.org/wiki/FP_Top_100_Global_Thinkers](https://en.wikipedia.org/wiki/FP_Top_100_Global_Thinkers)
+        * [en.wikipedia.org/wiki/The_100:_A_Ranking_of_the_Most_Influential_Persons_in_History](https://en.wikipedia.org/wiki/The_100:_A_Ranking_of_the_Most_Influential_Persons_in_History)
+        * [en.wikipedia.org/wiki/Time_100](https://en.wikipedia.org/wiki/Time_100)
         * [Classement : qui sont les 100 leaders africains de demain ? – JeuneAfrique.com](http://www.jeuneafrique.com/478844/economie/classement-qui-sont-les-100-leaders-africains-de-demain/)
-        * https://www.letemps.ch/monde/2016/05/27/ny-plus-grands-penseurs-france
-        * https://www.lejdd.fr/Culture/Les-nouveaux-intellectuels-du-XXIe-siecle-160182-3098765
-        * https://www.letemps.ch/monde/2016/05/27/ny-plus-grands-penseurs-france
+        * [letemps.ch/monde/2016/05/27/ny-plus-grands-penseurs-france](https://www.letemps.ch/monde/2016/05/27/ny-plus-grands-penseurs-france)
+        * [lejdd.fr/Culture/Les-nouveaux-intellectuels-du-XXIe-siecle-160182-3098765](https://www.lejdd.fr/Culture/Les-nouveaux-intellectuels-du-XXIe-siecle-160182-3098765)
+        * [letemps.ch/monde/2016/05/27/ny-plus-grands-penseurs-france](https://www.letemps.ch/monde/2016/05/27/ny-plus-grands-penseurs-france)
 
     Ai Weiwei
 
@@ -4149,7 +4149,7 @@ make a test schedule for languages, ideas, formulas, etc
         * [RB Latein](http://www.radiobremen.de/nachrichten/latein/latein-startseite100.html)
 
     - 10
-                * http://www.taipeitimes.com/News/lang
+                * [taipeitimes.com/News/lang](http://www.taipeitimes.com/News/lang)
 
         * [RFI ZH](http://cn.rfi.fr/)
 
@@ -4555,8 +4555,8 @@ podcast Reply All
 Petra Cnyrim - Erklärs mir, als wäre ich 5
 
 Cnyrim, Petra
-* https://www.noemamag.com/
-* https://interdisciplinary-college.org/
+* [noemamag.com/](https://www.noemamag.com/)
+* [interdisciplinary-college.org/](https://interdisciplinary-college.org/)
 
 
 find books and articles on "engineering thinking" and "design thinking" -> compile lessons and insights from a wide variety of professions and occupations

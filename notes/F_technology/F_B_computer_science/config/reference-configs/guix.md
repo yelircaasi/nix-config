@@ -59,13 +59,13 @@
 * (2) [xade](https://codeberg.org/XADE) - quite smal; part of very good nix config
 
 ## Resources
-* ( ) [https://guix.gnu.org/manual/fr/html_node/index.html#Top](https://guix.gnu.org/manual/fr/html_node/index.html%23Top)
+* ( ) [guix.gnu.org/manual/fr/html_node/index.html#Top](https://guix.gnu.org/manual/fr/html_node/index.html%23Top)
 * ( ) [guix-science](https://github.com/guix-science/guix-science-nonfree)
 * ( ) [nonguix](https://gitlab.com/nonguix/nonguix)
 
 ## Articles, Guides
 * ( ) [daviwil](https://systemcrafters.net/craft-your-system-with-guix/)
-* ( ) [https://fishinthecalculator.me/blog/secrets-management-with-sops-guix.html](https://fishinthecalculator.me/blog/secrets-management-with-sops-guix.html)
+* ( ) [fishinthecalculator.me/blog/secrets-management-with-sops-guix.html](https://fishinthecalculator.me/blog/secrets-management-with-sops-guix.html)
 * ( ) [Guix Sway](https://www.youtube.com/watch?v=OYbenLOm3Js)
 
 # SORT

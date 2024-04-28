@@ -1,21 +1,21 @@
 # Math Courses
 
-* https://es.khanacademy.org/math/ap-calculus-ab
-* https://es.khanacademy.org/math/ap-calculus-bc
-* https://es.khanacademy.org/math
-* https://es.khanacademy.org/
-* https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/pages/readings/
-* https://coursera.org/learn/teoriya-grafov
-* https://coursera.org/learn/geometriya-i-gruppy
+* [es.khanacademy.org/math/ap-calculus-ab](https://es.khanacademy.org/math/ap-calculus-ab)
+* [es.khanacademy.org/math/ap-calculus-bc](https://es.khanacademy.org/math/ap-calculus-bc)
+* [es.khanacademy.org/math](https://es.khanacademy.org/math)
+* [es.khanacademy.org/](https://es.khanacademy.org/)
+* [ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/pages/readings/](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/pages/readings/)
+* [coursera.org/learn/teoriya-grafov](https://coursera.org/learn/teoriya-grafov)
+* [coursera.org/learn/geometriya-i-gruppy](https://coursera.org/learn/geometriya-i-gruppy)
 * [Linear Algebra Course *](https://www.math.ucla.edu/~tao/resource/general/115a.3.02f/)**
-* http://www.numbertheory.org/ntw/lecture_notes.html
-* https://www.marcellochiodi.com/homepage/teaching/
-* http://www.math.kit.edu/iag6/lehre/combinatorics2017s/media/script.pdf
+* [numbertheory.org/ntw/lecture_notes.html](http://www.numbertheory.org/ntw/lecture_notes.html)
+* [marcellochiodi.com/homepage/teaching/](https://www.marcellochiodi.com/homepage/teaching/)
+* [math.kit.edu/iag6/lehre/combinatorics2017s/media/script.pdf](http://www.math.kit.edu/iag6/lehre/combinatorics2017s/media/script.pdf)
 * [Clara Löh](http://www.mathematik.uni-regensburg.de/loeh/teaching/)
 * [Collection of Math Notes](https://folk.ntnu.no/hanche/notes/)
 - [**Universität Stuttgart - Fachbereich Mathematik - Lineare Algebra II bei Prof. Dr. A. Henke im Sommersemester 2020](https://info.mathematik.uni-stuttgart.de/LAAG-Henke-SS20/)
 * [Analysing Complexity | Macquarie University](https://www.coursera.org/learn/analysing-complexity)
-* https://openedu.ru/course/msu/CALC1/
+* [openedu.ru/course/msu/CALC1/](https://openedu.ru/course/msu/CALC1/)
 * [Simplicial Course --> Resources](https://www.mathi.uni-heidelberg.de/~rueschoff/ss17sset/)
 * [Алгебра](https://www.lektorium.tv/course/28719)
 * [Алгебры и группы Ли](https://www.lektorium.tv/node/34986)
@@ -65,42 +65,42 @@
 * [Robert Hanson: good general site](https://www.math.utah.edu/~bobby/)
 * [Stanford Engineering Everywhere EE263 - Introduction to Linear Dynamical Systems - VideoLectures - VideoLectures.NET](http://videolectures.net/stanfordee263f07_intro_linear_dynamical_systems/)
 * [bdemeshev/matek_icef: mathematics for economists, icef](https://github.com/bdemeshev/matek_icef)
-* [https://web.pdx.edu/~erdman/LINALG/Linalg_pdf.pdf](https://click.convertkit-mail2.com/qdu5x24eges7hmzgv4hl/x0hph6hnn8p8dns5/aHR0cHM6Ly93ZWIucGR4LmVkdS9-ZXJkbWFuL0xJTkFMRy9MaW5hbGdfcGRmLnBkZg==)
-* [https://www.math.ust.hk/~mabfchen/ (varied)](https://www.math.ust.hk/~mabfchen/)
+* [web.pdx.edu/~erdman/LINALG/Linalg_pdf.pdf](https://click.convertkit-mail2.com/qdu5x24eges7hmzgv4hl/x0hph6hnn8p8dns5/aHR0cHM6Ly93ZWIucGR4LmVkdS9-ZXJkbWFuL0xJTkFMRy9MaW5hbGdfcGRmLnBkZg==)
+* [math.ust.hk/~mabfchen/ (varied)](https://www.math.ust.hk/~mabfchen/)
 * [teoriya-vyichisleniy-dlya-programmistov.pdf](https://vk.com/doc30601958_461719403?hash=78212bc15db06b53a0&dl=0faa9f5e4b2a9e2c8b)
 * [Ökonometrie](http://wirtschaftslexikon.gabler.de/Definition/oekonometrie.html)
 * [Введение в общую алгебру](https://www.shamin.ru/zip/lections/shamin_alg.pdf)
 * [Высшая математика для заочников и не только](http://mathprofi.ru/)
 * [Основы математического анализа. Неравенства и оценки [2019] Максимова.pdf](https://vk.com/doc44301783_514951237?hash=2bbb9537233fd90747&dl=f1c667af568504d19b)
 * [СТАТИСТИКА И СТАТИСТИЧЕСКИЙ АНАЛИЗ](http://www.socenc.ru/html/s/statistika-i-statisti4eskiy-analiz.html)
-* http://codingthematrix.com/
-* http://fmwww.bc.edu/gstat/examples/wooldridge/wooldridge.html
-* http://mat.net.ua/mat/index-mat-analiz-tf.htm
-* http://people.math.gatech.edu/~zengch/spr2016/Math2106ICA/Ross-Elementary-Analysis.pdf
-* http://portal.tpu.ru/SHARED/a/ARISTOVAEV/Student
-* http://stats.idre.ucla.edu/other/dae/
-* http://stats.idre.ucla.edu/other/mult-pkg/seminars/
-* http://stats.idre.ucla.edu/other/mult-pkg/whatstat/
-* http://www-m6.ma.tum.de/~brokate/
-* http://www.its.caltech.edu/~mamikon/
-* http://www.math.uni-bremen.de/didaktik/ma/ralbers/Veranstaltungen/
-* https://algebramechmat.wordpress.com/24-2/
-* https://ilviceversa.jimdo.com/lessons/mathematics/corso-di-introduzione-all-analisi-matematica/
-* https://public.websites.umich.edu/~paullric/AM341.pdf
-* https://www.grasple.com/open
-* https://www.khanacademy.org/math/calculus-1
-* https://www.math.uni-tuebingen.de/de/forschung/algebra/personen/prof-dr-thomas-markwig/lehre
-* https://www.math.uni-tuebingen.de/user/keilen/download/LectureNotes/algebra19.pdf
-* https://www.math.uni-tuebingen.de/user/keilen/download/LectureNotes/algebra19.pdf
-* https://www.math.uni-tuebingen.de/user/keilen/download/LectureNotes/algebraicstructures.pdf
-* https://www.mathematik.tu-dortmund.de/hm/uebersicht/aktuelles
-* https://www.uni-trier.de/fileadmin/fb4/prof/VWL/FIN/Oekonometrie/Vorlesung_WS_16_17/OekonometrieFolien21April2016.pdf
+* [codingthematrix.com/](http://codingthematrix.com/)
+* [fmwww.bc.edu/gstat/examples/wooldridge/wooldridge.html](http://fmwww.bc.edu/gstat/examples/wooldridge/wooldridge.html)
+* [mat.net.ua/mat/index-mat-analiz-tf.htm](http://mat.net.ua/mat/index-mat-analiz-tf.htm)
+* [people.math.gatech.edu/~zengch/spr2016/Math2106ICA/Ross-Elementary-Analysis.pdf](http://people.math.gatech.edu/~zengch/spr2016/Math2106ICA/Ross-Elementary-Analysis.pdf)
+* [portal.tpu.ru/SHARED/a/ARISTOVAEV/Student](http://portal.tpu.ru/SHARED/a/ARISTOVAEV/Student)
+* [stats.idre.ucla.edu/other/dae/](http://stats.idre.ucla.edu/other/dae/)
+* [stats.idre.ucla.edu/other/mult-pkg/seminars/](http://stats.idre.ucla.edu/other/mult-pkg/seminars/)
+* [stats.idre.ucla.edu/other/mult-pkg/whatstat/](http://stats.idre.ucla.edu/other/mult-pkg/whatstat/)
+* [www-m6.ma.tum.de/~brokate/](http://www-m6.ma.tum.de/~brokate/)
+* [its.caltech.edu/~mamikon/](http://www.its.caltech.edu/~mamikon/)
+* [math.uni-bremen.de/didaktik/ma/ralbers/Veranstaltungen/](http://www.math.uni-bremen.de/didaktik/ma/ralbers/Veranstaltungen/)
+* [algebramechmat.wordpress.com/24-2/](https://algebramechmat.wordpress.com/24-2/)
+* [ilviceversa.jimdo.com/lessons/mathematics/corso-di-introduzione-all-analisi-matematica/](https://ilviceversa.jimdo.com/lessons/mathematics/corso-di-introduzione-all-analisi-matematica/)
+* [public.websites.umich.edu/~paullric/AM341.pdf](https://public.websites.umich.edu/~paullric/AM341.pdf)
+* [grasple.com/open](https://www.grasple.com/open)
+* [khanacademy.org/math/calculus-1](https://www.khanacademy.org/math/calculus-1)
+* [math.uni-tuebingen.de/de/forschung/algebra/personen/prof-dr-thomas-markwig/lehre](https://www.math.uni-tuebingen.de/de/forschung/algebra/personen/prof-dr-thomas-markwig/lehre)
+* [math.uni-tuebingen.de/user/keilen/download/LectureNotes/algebra19.pdf](https://www.math.uni-tuebingen.de/user/keilen/download/LectureNotes/algebra19.pdf)
+* [math.uni-tuebingen.de/user/keilen/download/LectureNotes/algebra19.pdf](https://www.math.uni-tuebingen.de/user/keilen/download/LectureNotes/algebra19.pdf)
+* [math.uni-tuebingen.de/user/keilen/download/LectureNotes/algebraicstructures.pdf](https://www.math.uni-tuebingen.de/user/keilen/download/LectureNotes/algebraicstructures.pdf)
+* [mathematik.tu-dortmund.de/hm/uebersicht/aktuelles](https://www.mathematik.tu-dortmund.de/hm/uebersicht/aktuelles)
+* [uni-trier.de/fileadmin/fb4/prof/VWL/FIN/Oekonometrie/Vorlesung_WS_16_17/OekonometrieFolien21April2016.pdf](https://www.uni-trier.de/fileadmin/fb4/prof/VWL/FIN/Oekonometrie/Vorlesung_WS_16_17/OekonometrieFolien21April2016.pdf)
 * [$$$ forkurs3.pdf](https://www.mn.uio.no/ibv/tjenester/kunnskap/plantefys/matematikk/forkurs3.pdf)
 * [Topologie 2020 Stuttgart](https://pnp.mathematik.uni-stuttgart.de/igt/eiserm/lehre/Topologie/)
-* [https://www.grasple.com/math/linear-algebra](https://click.convertkit-mail2.com/qdu5x24eges7hmzgv4hl/6qheh8hppv5v67ao/aHR0cHM6Ly93d3cuZ3Jhc3BsZS5jb20vbWF0aC9saW5lYXItYWxnZWJyYQ==)
+* [grasple.com/math/linear-algebra](https://click.convertkit-mail2.com/qdu5x24eges7hmzgv4hl/6qheh8hppv5v67ao/aHR0cHM6Ly93d3cuZ3Jhc3BsZS5jb20vbWF0aC9saW5lYXItYWxnZWJyYQ==)
 * [Linear Algebra: Exercises](https://click.convertkit-mail2.com/qdu5x24eges7hmzgv4hl/kkhmh6h88g5g2nul/aHR0cHM6Ly9wZW9wbGUuZG0udW5pcGkuaXQvYmVyYXJkdS9EaWRhdHRpY2EvMjAxNi0xN01EQUwvZXNlcmNpemlhcmlvLWNvcGlhLnBkZg==)
 * [Web Study Guide for Vector Calculus](https://math.oregonstate.edu/home/programs/undergrad/CalculusQuestStudyGuides/vcalc/vcalc.html)
-* http://www.numbertheory.org/courses/MP274/
+* [numbertheory.org/courses/MP274/](http://www.numbertheory.org/courses/MP274/)
 * [Math Vocab](https://docs.google.com/spreadsheets/d/1fPE4qalO6j9YSgpg8pyKpeT_-AHFDYadi1Yg1lLLuTE/edit?usp=sharing) [Mathematical Methods for Engineers II | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/)
 * [Mathematics | MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu/courses/mathematics/)
 * [Mathematik-Online-Kurs: LAAG](https://mo.mathematik.uni-stuttgart.de/kurse/kurs47/seite1.html)
@@ -122,41 +122,41 @@
 * [Метод Шеннона-Фано](https://vk.com/video-16108331_456255011?list=86ea2375001296beb1)
 * [Системная аналитика](http://lektorium.tv/analytics)
 * [Теория кодирования](https://www.lektorium.tv/course/22864)
-* http://home.mathematik.uni-freiburg.de/geometrie/lehre/ss2016/vorlesung/Topologie/index.html
-* http://www.home.uni-osnabrueck.de/mfrankland/6-132/6-132plan.html
+* [home.mathematik.uni-freiburg.de/geometrie/lehre/ss2016/vorlesung/Topologie/index.html](http://home.mathematik.uni-freiburg.de/geometrie/lehre/ss2016/vorlesung/Topologie/index.html)
+* [home.uni-osnabrueck.de/mfrankland/6-132/6-132plan.html](http://www.home.uni-osnabrueck.de/mfrankland/6-132/6-132plan.html)
 * [40 лучших курсов по математике для программистов](https://vk.com/@mygameunity-40-luchshih-kursov-po-matematike-dlya-programmistov)
 * [GTWA](http://www.zib.de/groetschel/teaching/WS1314/BondyMurtyGTWA.pdf)
 * [Kurs mit Beispielen](http://www.ipipan.eu/~teisseyrep/TEACHING/ASM/Zadania/)
-* http://www.yildiz.edu.tr/~tastan/teaching/AEsyllabus.pdf
+* [yildiz.edu.tr/~tastan/teaching/AEsyllabus.pdf](http://www.yildiz.edu.tr/~tastan/teaching/AEsyllabus.pdf)
 
 * [Русскоязычный курс лекций от Computer Science Center по теории игр](https://vk.com/wall-24986735_113833)
 
-https://foundations-of-applied-mathematics.github.io/
-https://acme.byu.edu/2022-2023-materials/
+[foundations-of-applied-mathematics.github.io/](https://foundations-of-applied-mathematics.github.io/)
+[acme.byu.edu/2022-2023-materials/](https://acme.byu.edu/2022-2023-materials/)
 
-* http://acme.byu.edu/2019-2020-materials/
-* http://images.math.cnrs.fr/
-* http://math.phys.msu.ru/Education/All_courses/show_page
-* http://mathinsight.org/
-* http://studybyyourself.com/seminar/linear-algebra/course/?lang=fr
-* http://www.math.univ-toulouse.fr/~besse/Wikistat/index-wikistat.html
-* http://www.mathematik.uni-regensburg.de/loeh/teaching/algebra_ws1718/lecture_notes.pdf
-* http://www.mathematik.uni-regensburg.de/loeh/teaching/all_lecture_notes.html
+* [acme.byu.edu/2019-2020-materials/](http://acme.byu.edu/2019-2020-materials/)
+* [images.math.cnrs.fr/](http://images.math.cnrs.fr/)
+* [math.phys.msu.ru/Education/All_courses/show_page](http://math.phys.msu.ru/Education/All_courses/show_page)
+* [mathinsight.org/](http://mathinsight.org/)
+* [studybyyourself.com/seminar/linear-algebra/course/?lang=fr](http://studybyyourself.com/seminar/linear-algebra/course/?lang=fr)
+* [math.univ-toulouse.fr/~besse/Wikistat/index-wikistat.html](http://www.math.univ-toulouse.fr/~besse/Wikistat/index-wikistat.html)
+* [mathematik.uni-regensburg.de/loeh/teaching/algebra_ws1718/lecture_notes.pdf](http://www.mathematik.uni-regensburg.de/loeh/teaching/algebra_ws1718/lecture_notes.pdf)
+* [mathematik.uni-regensburg.de/loeh/teaching/all_lecture_notes.html](http://www.mathematik.uni-regensburg.de/loeh/teaching/all_lecture_notes.html)
 * [Introduction to Complex Analysis | Уэслианский университет](https://coursera.org/learn/complex-analysis)
-* https://www.tu-chemnitz.de/fsrmathe/studium/skripte/skripte/2011_SS_Hoehere_Mathematik_Herzog.pdf
+* [tu-chemnitz.de/fsrmathe/studium/skripte/skripte/2011_SS_Hoehere_Mathematik_Herzog.pdf](https://www.tu-chemnitz.de/fsrmathe/studium/skripte/skripte/2011_SS_Hoehere_Mathematik_Herzog.pdf)
 * [Stepik - Дискретные структуры](https://stepik.org/course/83)
 * [Michael Eisermann - Vorlesung über Geometrische Topologie und Knotentheorie - WiSe 2019](https://pnp.mathematik.uni-stuttgart.de/igt/eiserm/lehre/2019/Geometrische-Topologie/)
 * [Geometrische Topologie und Knotentheorie - Eine Einführung in Bildern und Beispielen](https://pnp.mathematik.uni-stuttgart.de/igt/eiserm/lehre/2017/Geometrische-Topologie/Knoten.pdf)
-* https://pnp.mathematik.uni-stuttgart.de/igt/eiserm/lehre/Lineare-Algebra/
+* [pnp.mathematik.uni-stuttgart.de/igt/eiserm/lehre/Lineare-Algebra/](https://pnp.mathematik.uni-stuttgart.de/igt/eiserm/lehre/Lineare-Algebra/)
 * [Topology Quick Intro](http://sadeepj.blogspot.com/2012/06/understanding-riemannian-manifolds-part.html)
 Beginning Topology
 Linear Algebra and Learning from Data
 Maths for Intelligent Systems (Toussaint)
-* http://wikistat.fr/
-* https://pnp.mathematik.uni-stuttgart.de/igt/eiserm/lehre/Topolywood/
-* https://codingthematrix.com/ --> port to Julia
-* https://math.byu.edu/klkuttle/Linearalgebra.pdf
-* https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/
+* [wikistat.fr/](http://wikistat.fr/)
+* [pnp.mathematik.uni-stuttgart.de/igt/eiserm/lehre/Topolywood/](https://pnp.mathematik.uni-stuttgart.de/igt/eiserm/lehre/Topolywood/)
+* [codingthematrix.com/](https://codingthematrix.com/) --> port to Julia
+* [math.byu.edu/klkuttle/Linearalgebra.pdf](https://math.byu.edu/klkuttle/Linearalgebra.pdf)
+* [ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
 * [Data Mining (RU)](http://www.intuit.ru/studies/courses/6/6/info)
 Introduction to Applied Mathematics - Strang
 
@@ -166,28 +166,28 @@ Introduction to Applied Mathematics - Strang
 * [Нейронет: вводный курс](https://www.lektorium.tv/neuronet)
 
 ## Statistics
-* https://cobe.boisestate.edu/economics/wp-content/ofa/syllabi/912-1482-1-Syllabus.pdf
-* http://faculty.fiu.edu/~tpfutze/trial2_files/Syllabus355_Spring15.pdf
-* http://aysps.gsu.edu/files/2016/09/ECON9730.pdf
-* http://www4.ncsu.edu/~arhall/753syl_06.pdf
-* http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.375.3261&rep=rep1&type=pdf
-* https://economics.ceu.edu/sites/economics.ceu.edu/files/attachment/course/380/advecon11_248.pdf
-* https://www.economics.mcmaster.ca/courses/advanced-econometrics/@@display-file/outline_file/Syllabus%20768%20Advanced%20Econometrics.pdf
-* http://web.pdx.edu/~crkl/ec575/ec575.htm
-* https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Economics/EC312
-* http://shnaton.huji.ac.il/index.php/NewSyl/57824/2/2018/
-* http://www.columbia.edu/~sn2294/ec4412-14.pdf
-* [https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=28&ved=0ahUKEwi1lNzBpLfWAhVGs1QKHXHoA4s4FBAWCFswBw&url=https%3A%2F%2Fmoodle.ec.unipi.it%2Fpluginfile.php%2F36774%2Fcourse%2Foverviewfiles%2FsyllabusBianchiParenti.pdf%3Fforcedownload%3D1&usg=AFQjCNErQpU0u9HgMnYB6hnK4xp4X3GIrw](https://moodle.ec.unipi.it/pluginfile.php/36774/course/overviewfiles/syllabusBianchiParenti.pdf?forcedownload=1)
-* http://www.bu.edu/econ/files/2009/07/20120412143137049.pdf
-* http://www.math.uni-bremen.de/didaktik/ma/ralbers/Veranstaltungen/Stochastik07/
-* http://www.math.uni-bremen.de/~osius/download/lehre/Skripte/
-* http://www.math.uni-bremen.de/~osius/download/lehre/Skripte/StatNW/MAP59OsiusStatNW200907.pdf
-* http://www.ssc.wisc.edu/~bhansen/econometrics/Econometrics2004.pdf
-* http://www.bauer.uh.edu/rsusmel/phd/ec1-11.pdf
+* [cobe.boisestate.edu/economics/wp-content/ofa/syllabi/912-1482-1-Syllabus.pdf](https://cobe.boisestate.edu/economics/wp-content/ofa/syllabi/912-1482-1-Syllabus.pdf)
+* [faculty.fiu.edu/~tpfutze/trial2_files/Syllabus355_Spring15.pdf](http://faculty.fiu.edu/~tpfutze/trial2_files/Syllabus355_Spring15.pdf)
+* [aysps.gsu.edu/files/2016/09/ECON9730.pdf](http://aysps.gsu.edu/files/2016/09/ECON9730.pdf)
+* [www4.ncsu.edu/~arhall/753syl_06.pdf](http://www4.ncsu.edu/~arhall/753syl_06.pdf)
+* [citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.375.3261&rep=rep1&type=pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.375.3261&rep=rep1&type=pdf)
+* [economics.ceu.edu/sites/economics.ceu.edu/files/attachment/course/380/advecon11_248.pdf](https://economics.ceu.edu/sites/economics.ceu.edu/files/attachment/course/380/advecon11_248.pdf)
+* [economics.mcmaster.ca/courses/advanced-econometrics/@@display-file/outline_file/Syllabus%20768%20Advanced%20Econometrics.pdf](https://www.economics.mcmaster.ca/courses/advanced-econometrics/@@display-file/outline_file/Syllabus%20768%20Advanced%20Econometrics.pdf)
+* [web.pdx.edu/~crkl/ec575/ec575.htm](http://web.pdx.edu/~crkl/ec575/ec575.htm)
+* [lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Economics/EC312](https://www.lse.ac.uk/study-at-lse/Summer-Schools/Summer-School/Courses/Secure/Economics/EC312)
+* [shnaton.huji.ac.il/index.php/NewSyl/57824/2/2018/](http://shnaton.huji.ac.il/index.php/NewSyl/57824/2/2018/)
+* [columbia.edu/~sn2294/ec4412-14.pdf](http://www.columbia.edu/~sn2294/ec4412-14.pdf)
+* [google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=28&ved=0ahUKEwi1lNzBpLfWAhVGs1QKHXHoA4s4FBAWCFswBw&url=https%3A%2F%2Fmoodle.ec.unipi.it%2Fpluginfile.php%2F36774%2Fcourse%2Foverviewfiles%2FsyllabusBianchiParenti.pdf%3Fforcedownload%3D1&usg=AFQjCNErQpU0u9HgMnYB6hnK4xp4X3GIrw](https://moodle.ec.unipi.it/pluginfile.php/36774/course/overviewfiles/syllabusBianchiParenti.pdf?forcedownload=1)
+* [bu.edu/econ/files/2009/07/20120412143137049.pdf](http://www.bu.edu/econ/files/2009/07/20120412143137049.pdf)
+* [math.uni-bremen.de/didaktik/ma/ralbers/Veranstaltungen/Stochastik07/](http://www.math.uni-bremen.de/didaktik/ma/ralbers/Veranstaltungen/Stochastik07/)
+* [math.uni-bremen.de/~osius/download/lehre/Skripte/](http://www.math.uni-bremen.de/~osius/download/lehre/Skripte/)
+* [math.uni-bremen.de/~osius/download/lehre/Skripte/StatNW/MAP59OsiusStatNW200907.pdf](http://www.math.uni-bremen.de/~osius/download/lehre/Skripte/StatNW/MAP59OsiusStatNW200907.pdf)
+* [ssc.wisc.edu/~bhansen/econometrics/Econometrics2004.pdf](http://www.ssc.wisc.edu/~bhansen/econometrics/Econometrics2004.pdf)
+* [bauer.uh.edu/rsusmel/phd/ec1-11.pdf](http://www.bauer.uh.edu/rsusmel/phd/ec1-11.pdf)
 
 ## Topology
-* http://www.mathematik.uni-regensburg.de/loeh/teaching/topologie1_ws1516/lecture_notes.pdf
-* http://www.mathematik.uni-regensburg.de/loeh/teaching/topologie1_ws2122/lecture_notes.pdf
+* [mathematik.uni-regensburg.de/loeh/teaching/topologie1_ws1516/lecture_notes.pdf](http://www.mathematik.uni-regensburg.de/loeh/teaching/topologie1_ws1516/lecture_notes.pdf)
+* [mathematik.uni-regensburg.de/loeh/teaching/topologie1_ws2122/lecture_notes.pdf](http://www.mathematik.uni-regensburg.de/loeh/teaching/topologie1_ws2122/lecture_notes.pdf)
 - [* Topology (Toronto)](http://www.math.toronto.edu/ivan/mat327/index.html?resources)
 * [Curso básico de Topología](http://topologiaparausuarios.es/Curso_de_Topologia/Introduccion_Curso.html)
 * [ETH Topologie](https://metaphor.ethz.ch/x/2019/fs/401-2554-00L/)
@@ -204,10 +204,10 @@ Introduction to Applied Mathematics - Strang
 * [Topology Explained](http://at.yorku.ca/p/a/c/a/00.htm)
 * [Topology I (Fall 2010)](https://ium.mccme.ru/f10/topology1.html)
 * [Topology-1 (Spring 2018)](https://ium.mccme.ru/s18/s18-topology1.html)
-* http://faculty.bard.edu/~belk/math351/
-* http://www.math.uni-konstanz.de/~plaumann/Topologie14.html
-* https://faculty.math.illinois.edu/~nmd/classes/2009/525/index.html
-* https://www.mathematik.hu-berlin.de/~wendl/Sommer2018/Topologie1/
+* [faculty.bard.edu/~belk/math351/](http://faculty.bard.edu/~belk/math351/)
+* [math.uni-konstanz.de/~plaumann/Topologie14.html](http://www.math.uni-konstanz.de/~plaumann/Topologie14.html)
+* [faculty.math.illinois.edu/~nmd/classes/2009/525/index.html](https://faculty.math.illinois.edu/~nmd/classes/2009/525/index.html)
+* [mathematik.hu-berlin.de/~wendl/Sommer2018/Topologie1/](https://www.mathematik.hu-berlin.de/~wendl/Sommer2018/Topologie1/)
 Eisermann Topologie
 * [Topologie UW](https://www.mat.univie.ac.at/~stein/teaching/WS0506/top_ps.pdf)
 * [Topologie UB](https://www.math.uni-bielefeld.de/~sek/top/ss03/aufgab.html)
@@ -221,9 +221,9 @@ Eisermann Topologie
 * [Linear Algebra | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm)
 * [Linear Algebra Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 * [whole course (excellent):](https://sheelganatra.com/spring2013_math113/)
-* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/lecture-notes/MIT6_837F12_Lec03.pdf
-* https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/readings/
-* https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-1-the-geometry-of-linear-equations/
+* [ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/lecture-notes/MIT6_837F12_Lec03.pdf](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/lecture-notes/MIT6_837F12_Lec03.pdf)
+* [ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/readings/](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/readings/)
+* [ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-1-the-geometry-of-linear-equations/](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-1-the-geometry-of-linear-equations/)
 * [Coursera - Линейная алгебра](https://www.coursera.org/learn/algebra-lineynaya/home/welcome)
 * [313 Exams](https://drive.google.com/drive/folders/0B2W5kumU32IMZEVDN0FfRndSZlk?usp=sharing)
 * [Basics of Linear Algebra for Machine Learning](https://machinelearningmastery.com/linear_algebra_for_machine_learning/)
@@ -236,12 +236,12 @@ Eisermann Topologie
 * [UCD Mat 67: Linear Algebra - Mathematics LibreTexts](https://math.libretexts.org/Courses/University_of_California%2C_Davis/UCD_Mat_67%3A_Linear_Algebra)
 * [Линейная алгебра (Linear Algebra) | National Research University Higher School of Economics](https://www.coursera.org/learn/algebra-lineynaya)
 * [Линейная алгебра | Видеолекции Физтеха: Лекторий МФТИ - видеолекции по физике, математике, биологии, биоинформатике, информатике и другим д](https://lectoriy.mipt.ru/course/LinearAlgebra#lectures)
-* http://immersivemath.com/ila/
-* https://betterexplained.com/articles/linear-algebra-guide/
-* https://lectoriy.mipt.ru/course/LinearAlgebra
-* https://mitmath.github.io/1806/old.html
-* https://people.sc.fsu.edu/~jburkardt/classes/gateway_2014/
-* https://www-m11.ma.tum.de/en/karpfing/buecher/videoaufzeichnungen/
+* [immersivemath.com/ila/](http://immersivemath.com/ila/)
+* [betterexplained.com/articles/linear-algebra-guide/](https://betterexplained.com/articles/linear-algebra-guide/)
+* [lectoriy.mipt.ru/course/LinearAlgebra](https://lectoriy.mipt.ru/course/LinearAlgebra)
+* [mitmath.github.io/1806/old.html](https://mitmath.github.io/1806/old.html)
+* [people.sc.fsu.edu/~jburkardt/classes/gateway_2014/](https://people.sc.fsu.edu/~jburkardt/classes/gateway_2014/)
+* [www-m11.ma.tum.de/en/karpfing/buecher/videoaufzeichnungen/](https://www-m11.ma.tum.de/en/karpfing/buecher/videoaufzeichnungen/)
 
 ## Anki
 * [Analysis I (DE)](https://ankiweb.net/shared/info/702190896)

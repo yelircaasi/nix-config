@@ -80,5 +80,5 @@
 * [How to Make a Beautiful Personal Website Quickly - Better Programming - Medium](https://medium.com/better-programming/how-to-make-a-beautiful-personal-website-quickly-cab115866134)
 * [How to Set Up a Jekyll Theme](https://webdesign.tutsplus.com/tutorials/how-to-set-up-a-jekyll-theme--cms-26332)* [shad.io/MatVis/bundle.js](https://shad.io/MatVis/bundle.js)
 * [Making your first Jekyll theme: Part 1 - Siteleaf](https://www.siteleaf.com/blog/making-your-first-jekyll-theme-part-1/)
-* [Bookish (typesetting conversion library): [parrt/bookish](https://github.com/parrt/bookish)](https://github.com/parrt/bookish](https://github.com/parrt/bookish))
+* [Bookish (typesetting conversion library):](https://github.com/parrt/bookish)
 * [**Write for Towards Data Science - Towards Data Science](https://towardsdatascience.com/questions-96667b06af5)

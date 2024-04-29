@@ -3,6 +3,7 @@ import json
 import re
 from itertools import chain
 
+
 lines_txt = argv[1]
 keyword_dict_json = argv[2]
 out_path = argv[3]
@@ -16,6 +17,7 @@ FILTER_OUT.update(map(str, range(100)))
 print(FILTER_OUT)
 MIN_FREQ = 3
 SEP = " <|> "
+
 def open_lines_and_keyword_dict():
     lines_txt, keyword_dict_json
     with open(lines_txt) as f:
@@ -23,6 +25,8 @@ def open_lines_and_keyword_dict():
     with open(keyword_dict_json) as f:
         keyword_dict = json.load(f)
     return lines, keyword_dict
+
+
 def tokenize(line: str) -> list[str]:
     def normalize(tok: str) -> str:
         if len(tok) > 3:
@@ -39,6 +43,7 @@ def tokenize(line: str) -> list[str]:
 
     return tokens
 
+
 def count_word_frequency(
     lines: list[str],
     tokens: list[set[str]],
@@ -48,6 +53,7 @@ def count_word_frequency(
     unique = set(all_tokens)
     counts = {tok: all_tokens.count(tok) for tok in unique}
     return {k: v for k, v in counts.items() if v > min_freq}
+
 
 def assign_topics(lines, line_tokens, token_counts) -> list[str]:
     categorized_lines = []
@@ -64,6 +70,7 @@ def assign_topics(lines, line_tokens, token_counts) -> list[str]:
         categorized_line = f"{prefix:<50}{SEP}{line}"
         categorized_lines.append(categorized_line)
     return sorted(categorized_lines)
+
 
 def main():
     lines, keyword_dict = open_lines_and_keyword_dict()

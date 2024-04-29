@@ -1,8 +1,8 @@
-# Reading-Linux, etc.
+# Reading-Linux, etc
 
 ## Recent Linux Reading
 
-[access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/networking_guide/index](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/networking_guide/index)
+* [access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/networking_guide/index](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/networking_guide/index)
 * [Home Clear Linux* Project | Clear Linux* Project](https://clearlinux.org/)
 * [Ranking Linux Desktop Environments for 2023 - YouTube](https://www.youtube.com/watch?v=09cYQJBgKEs)
 * [DerivativeTeam/Derivatives - Ubuntu Wiki](https://wiki.ubuntu.com/DerivativeTeam/Derivatives)
@@ -40,11 +40,11 @@
 
 ## Documentaries
 
-## 2019: [Hacking for the Commons, by Philippe Borrel](https://vimeo.com/channels/1540870/393778517).
+* 2019: [Hacking for the Commons, by Philippe Borrel](https://vimeo.com/channels/1540870/393778517)
 
 ## SORT
 
-#sonntagsOS
+* sonntagsOS
 
 * learn systemd and its controversies and alternatives
 * [10 ways KDE is just BETTER](https://youtu.be/3nX1YEQg5Z0)
@@ -69,7 +69,7 @@
 * [peropesis.org/](https://peropesis.org/)
 * [1000 Linux Questions & Answers](https://www.sanfoundry.com/technical-interview-questions/)
 * [Linux Kernel source code - Haevily Commented (Kernel Version 0.12)
-* [2019 ed.]](http://libgen.is/book/index.php?md5=002593EDE5F8004A784483A0FAF4AE29)
+* [2019 ed.](http://libgen.is/book/index.php?md5=002593EDE5F8004A784483A0FAF4AE29)
 * [freecodecamp.org/news/how-to-install-arch-linux/](https://www.freecodecamp.org/news/how-to-install-arch-linux/)
 * [wiki.archlinux.org/](https://wiki.archlinux.org/)
 * [kali.org/docs/introduction/what-is-kali-linux/](https://www.kali.org/docs/introduction/what-is-kali-linux/)
@@ -78,7 +78,7 @@
 * [opensuse.org/](https://www.opensuse.org/)
 * [en.opensuse.org/Main_Page](https://en.opensuse.org/Main_Page)
 * [upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
-* [http://www.buildyourownlinux.com](http://www.buildyourownlinux.com/)
+* [buildyourownlinux.com](http://www.buildyourownlinux.com/)
 * [tldp.org/](https://tldp.org/)
 * [Guake User Documentation — Guake 1.0 documentation](https://guake.readthedocs.io/en/stable/)
 * [wiki.ubuntu.com/Spanish](https://wiki.ubuntu.com/Spanish)
@@ -194,7 +194,7 @@
 * [Curso: GNU/LINUX de CERO a AVANZADO 👨‍💻](https://www.youtube.com/watch?v=D_NhILSrqKE&list=PLBAZgZE2cgAfHKVjnlbswWTqBO4EuD0zy)
 * [GNU/Linux - cours ✔](https://www.youtube.com/watch?v=py1E14pXfAM&list=PLrSOXFDHBtfHKxuz6NySItyf4iSEcTw97)
 * [Formation Red Hat Enterprise Linux 1/2 : Réussir la certification RHCSA](https://www.youtube.com/watch?v=vm_wTTrnlbo&list=PL1aYsXmhJ1We3Fb-jo_HndFSpeKmFRWeB)
-* [...](https://www.youtube.com/results?search_query=продвинутый+курс+linux+](https://www.youtube.com/results?search_query=%D0%BF%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D1%8B%D0%B9+%D0%BA%D1%83%D1%80%D1%81+linux+))
+* [...](https://www.youtube.com/results?search_query=%D0%BF%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D1%8B%D0%B9+%D0%BA%D1%83%D1%80%D1%81+linux+)
 * [Tutorial: Building the Simplest Possible Linux System - Rob Landley, se-instruments.com](https://www.youtube.com/watch?v=Sk9TatW9ino&t=2067s)
 * [Minimal Linux Live: The 7MB Linux OS](https://www.youtube.com/watch?v=01LknbMXqF8)
 * [Maîtriser le Shell Unix | Commandes Linux](https://www.youtube.com/watch?v=rqC_gvktVkc&list=PLAM-SVky60yhI5HXtgAnlGaG-2IolmZ-1)
@@ -355,7 +355,7 @@ Vimtutor in MacVim app
 
 * [Resultados de búsqueda - shell scripting](https://drive.google.com/drive/search?q=shell%20scripting)
 * [Jürgen Wolf - Shell-Programmierung: Das umfassende Handbuch, 3. Auflage](http://libgen.rs/book/index.php?md5=7CCFBFA22DBC4A22AD79BA5189BEE788)
-* [Bash Shell Scripting - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Bash_Shell_Scripting#:~:text=The language of Bash commands,to perform it in Bash.)
+* [Bash Shell Scripting - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 * [Systems Programming in Unix/Linux_K.C. Wang_1st ed. 2018](http://link.springer.com/openurl?genre=book&isbn=978-3-319-92429-8)
 * Shell Scripting (Robbins & Beebe)
 What can't you do with shell scripting?
@@ -419,7 +419,6 @@ What can't you do with shell scripting?
 * [The Bash environment](https://linux.die.net/Bash-Beginners-Guide/chap_03.html)
 * [Summary](https://linux.die.net/Bash-Beginners-Guide/sect_02_05.html)
 
-
 ## Books
 
 * [Arch Linux Books](http://libgen.is/search.php?req=arch+linux&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
@@ -455,7 +454,3 @@ What can't you do with shell scripting?
 * [Linux Kernel Internals [2nd ed]](http://libgen.is/book/index.php?md5=0D7BDF514D114345E94C6E1A20F15B06)
 * [Linux Kernel Crash Book Everything you need to know](http://libgen.is/book/index.php?md5=4235C4ACAAE3F9CEA960CA6FB25D0138)
 * [Concrete Architecture of the Linux Kernel](http://libgen.is/book/index.php?md5=4E15C97E21A8F49742CF467593AC4C6A)
-
-
-
-##

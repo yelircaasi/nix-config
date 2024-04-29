@@ -191,7 +191,7 @@
 ### Sexuality
 
 * Guter Sex trotz Liebe von Ulrich Clement
-* [Shaping Sexual Knowledge: A Cultural History of Sex Education in Twentieth Century Europe | Lutz Sauerteig, Roger Davidson | download](https://b-ok.cc/book/699954/f1d742)* * [**Sexuality: A Very Short Introduction | Veronique Mottier | download](https://b-ok.cc/book/551048/f41412)
+* [Shaping Sexual Knowledge: A Cultural History of Sex Education in Twentieth Century Europe | Lutz Sauerteig, Roger Davidson | download](https://b-ok.cc/book/699954/f1d742)* [**Sexuality: A Very Short Introduction | Veronique Mottier | download](https://b-ok.cc/book/551048/f41412)
 * [Sociologie de la sexualité](http://library.lol/main/21613DC991802D6BEB87435D0447A9FB)
 * [La sexualité à l'époque moderne](http://library.lol/main/0B28D2BF05654CC1802B7944535ADD5E)
 * 48 Laws of Power
@@ -1012,13 +1012,13 @@ Upanishads
 ### Reading List - Relationships
 
   * [This Is How To Have An Amazing Relationship: 7 Secrets From Research](https://bakadesuyo.com/2017/06/amazing-relationship/)
-* * Accept your partner “as is”: You can return it to the store but trying to repair it yourself voids the warranty.
-* * Express appreciation frequently: You’re with them for a reason. Tell them the reason. Often.
-* * Communicate from integrity: Admit when you’re wrong. And don’t punish them for telling the truth, even if you don’t like the truth.
-* * Share and explore differences with your partner: Don’t dodge the tough stuff. It’s okay to agree to disagree.
-* * Support your partner’s goals: If it matters to them, it’d be a really good thing if it mattered to you too.
-* * Give your partner the right to be wrong: You’re not perfect. So don’t insist that they be.
-* * Reconsider your wants as goals: They don’t “have to” do anything. But if you stop insisting, they might start agreeing.
+* Accept your partner “as is”: You can return it to the store but trying to repair it yourself voids the warranty.
+* Express appreciation frequently: You’re with them for a reason. Tell them the reason. Often.
+* Communicate from integrity: Admit when you’re wrong. And don’t punish them for telling the truth, even if you don’t like the truth.
+* Share and explore differences with your partner: Don’t dodge the tough stuff. It’s okay to agree to disagree.
+* Support your partner’s goals: If it matters to them, it’d be a really good thing if it mattered to you too.
+* Give your partner the right to be wrong: You’re not perfect. So don’t insist that they be.
+* Reconsider your wants as goals: They don’t “have to” do anything. But if you stop insisting, they might start agreeing.
 * [beziehungsweise-magazin.de/](https://www.beziehungsweise-magazin.de/)
 * [La ciencia de enamorarse #habiaspensado - YouTube](https://www.youtube.com/watch?v=HYuEVdKTUjE)
 * [La ciencia de la ruptura amorosa #habiaspensado - YouTube](https://www.youtube.com/watch?v=VKM7WBMmQ1M)
@@ -1075,30 +1075,30 @@ Mystery: keeping people guessing until the time is right (i.e. when it is no lon
 
 What a good marriage would look like:
 
-* * shared goals: be good parents for Leni, be happy together, have good careers
-* * good financial management and good household
-* * shared household responsibilities; process and system that we both buy into and that leave each feeling like an equal partner
-* * mutual support with good habits: healthy eating, workouts, good sleep schedules, moderate consumption (food, Netflix, YouTube, games), reasonable frugality
-* * shared interests and hobbies: Leni, board games, discovering new movies, book to read together
-* * friends - important to have other social contacts, which helps us to see each other with new eyes and helps us avoid getting in a rut
-* * trust - transparent communication, honesty, no cheating, no spying, no paranoia
-* * weekly date (typically high-quality, high-effort)
-* * dating mentality - find ways to keep the relationship fresh and beat complacency
-* * both elements of a healthy marriage present: companionate love (quality friendship) and erotic love (attraction, intimacy, good sex life)
+* shared goals: be good parents for Leni, be happy together, have good careers
+* good financial management and good household
+* shared household responsibilities; process and system that we both buy into and that leave each feeling like an equal partner
+* mutual support with good habits: healthy eating, workouts, good sleep schedules, moderate consumption (food, Netflix, YouTube, games), reasonable frugality
+* shared interests and hobbies: Leni, board games, discovering new movies, book to read together
+* friends - important to have other social contacts, which helps us to see each other with new eyes and helps us avoid getting in a rut
+* trust - transparent communication, honesty, no cheating, no spying, no paranoia
+* weekly date (typically high-quality, high-effort)
+* dating mentality - find ways to keep the relationship fresh and beat complacency
+* both elements of a healthy marriage present: companionate love (quality friendship) and erotic love (attraction, intimacy, good sex life)
 
 Concerns:
 
-* * trust - how can Sandra trust me again? How can she avoid feeling paranoid about what I think and feel
-* * potential for resentment - anytime there are two good options, there is the potential for bitterness and regret over what was given up
-* * old habits - compulsive/addictive behaviors, self-isolation and increased distance between partners, condescension, dismissiveness, insults and hurtful communication
-* * psychological adjustment - how can Isaac fill the gap that has been variously filled by online projects, Wizard, language exchange, online flirting, and Polina? Can Sandra really fill the gap left by hours of Netflix and/or online gaming?
-* * triggers - each of us has things that provoke us in ways that might seem extreme or irrational. For Isaac, these include perceived disinterest or condescension and the perception of a “I don’t want you but I don’t want anyone else to have you” mentality. For Sandra, this includes anything that feels verbally abusive, such as attacks on her character or appearance, and also anything that triggers her fear of being cheated on
-* * complacency - “We’re already married and he/she is contractually obligated to like me the way I am, so I don’t need to make an effort anymore”
-* * communication - so many high-stakes discussions end in unproductive and bitter fights - two oldest children with big egos in the same relationship
-* * boredom/frustration - how can we keep marriage from feeling stale and intellectually, sexually, and socially unfulfilling (even imprisoning)?
-* * imbalance in responsibilities - Sandra doing everything with bureaucracy, taxes, etc., leaving her feeling overworked and like the only adult in the relationship, and Isaac feeling out-of-the-loop, incompetent, and infantilized
-* * hurt and resentment - is it even possible to get rid of the baggage we carry, or is it too far gone and too toxic, and we both need a fresh start with someone else?
-* * Leni - she is a major factor in this, and one that, in all honesty, has made it more difficult to pull the plug completely when we might otherwise have done so. A toxic relationship would be worse for her than a divorce, and a divorce later on would be more traumatic for her than a divorce now
+* trust - how can Sandra trust me again? How can she avoid feeling paranoid about what I think and feel
+* potential for resentment - anytime there are two good options, there is the potential for bitterness and regret over what was given up
+* old habits - compulsive/addictive behaviors, self-isolation and increased distance between partners, condescension, dismissiveness, insults and hurtful communication
+* psychological adjustment - how can Isaac fill the gap that has been variously filled by online projects, Wizard, language exchange, online flirting, and Polina? Can Sandra really fill the gap left by hours of Netflix and/or online gaming?
+* triggers - each of us has things that provoke us in ways that might seem extreme or irrational. For Isaac, these include perceived disinterest or condescension and the perception of a “I don’t want you but I don’t want anyone else to have you” mentality. For Sandra, this includes anything that feels verbally abusive, such as attacks on her character or appearance, and also anything that triggers her fear of being cheated on
+* complacency - “We’re already married and he/she is contractually obligated to like me the way I am, so I don’t need to make an effort anymore”
+* communication - so many high-stakes discussions end in unproductive and bitter fights - two oldest children with big egos in the same relationship
+* boredom/frustration - how can we keep marriage from feeling stale and intellectually, sexually, and socially unfulfilling (even imprisoning)?
+* imbalance in responsibilities - Sandra doing everything with bureaucracy, taxes, etc., leaving her feeling overworked and like the only adult in the relationship, and Isaac feeling out-of-the-loop, incompetent, and infantilized
+* hurt and resentment - is it even possible to get rid of the baggage we carry, or is it too far gone and too toxic, and we both need a fresh start with someone else?
+* Leni - she is a major factor in this, and one that, in all honesty, has made it more difficult to pull the plug completely when we might otherwise have done so. A toxic relationship would be worse for her than a divorce, and a divorce later on would be more traumatic for her than a divorce now
 ### Reading List - Life Hacks
 
   * Focus Hacks
@@ -1608,36 +1608,36 @@ Advice
 
 “It helps to plan out your prayers before you say them.”
 
-* * Lyrad Riley
+* Lyrad Riley
 
 “If you want to plan something out perfectly before you’ll get started, you’ll just keep putting it off and never get it done.”
 
-* * Alicia Riley
+* Alicia Riley
 
 “Let your excitement show. Make eye contact. People respond to sincerity.”
 
-* * Nick Riley
+* Nick Riley
 
 “You’ve arrived [in terms of self-discipline, missionary ability and language and cultural skill]. Now is the time for you to work on other equally important things, like genuinely caring about others and being a leader.”
 
-* * President Robert Lochhead
+* President Robert Lochhead
 
 Criticism
 
 “Boy, you might be street smart, but you don’t know a [darn] thing about the real world.”
 
-* * Miss Kelly
+* Miss Kelly
 
 “You need to hustle more. Put your whole heart into the game.”
 
-* * Alicia Riley
+* Alicia Riley
 
 “You are great at doing things you put your mind to. But you really need to focus.”
 
-* * Alicia Riley
+* Alicia Riley
   * Лучшие времена по самодисциплине:
-* * Германия 2004-2007
-* * миссия 2012-2014, прежде всего 2014
+* Германия 2004-2007
+* миссия 2012-2014, прежде всего 2014
   * Notizen aus meiner Glaubenskrise
 
 Habe ich mich verloren? Soll ich alles Frühere aufgeben?
@@ -1681,7 +1681,7 @@ If someone had told me at 12 that in a decade's time I would be lazy, undiscipli
 The reality, though, is that with a few bright exceptions. I have become precisely what I most despise. Because I lack discipline, I cannot trust myself and I do not achieve my goals, and that makes life empty and unrewarding.
 
   * Memory: Career Choice
-* * Pros
+* Pros
   * CL
 
 play to my strengths
@@ -1718,7 +1718,7 @@ prestige
 
 easily understandable; no need to explain profession
 
-* * Cons
+* Cons
   * CL
 
 forfeit of economics PhD & opportunities it would bring
@@ -1741,7 +1741,7 @@ high stress, long time before getting a full-time job, potentially limited job s
 
 bagged down in esoteric specializations & kept away from truly interesting interdisciplinary topics
 
-* * Considerations
+* Considerations
 
     potential areas whare I have an advantage?
 
@@ -1778,9 +1778,9 @@ Cool family
 Doesn't nag
 
   * воспоминания об Англии:
-* * воскресная школа в Ипсуиче, сидя в саду
-* * езда через Тетфордский Лес
-* * игра в футбол в школе
+* воскресная школа в Ипсуиче, сидя в саду
+* езда через Тетфордский Лес
+* игра в футбол в школе
   * Resolutions 2017
 
 Read through the Old Testament (partially in Hebrew)
@@ -2023,61 +2023,61 @@ genaueres Lesen der Teile, die ich noch nicht beherrsche
 
 Basics:
 
-* * origin
-* * major
-* * grade
-* * age
-* * family - position, experience, relationship to family
-* * life story - high school experience, post-graduation time, mission, post-mission
+* origin
+* major
+* grade
+* age
+* family - position, experience, relationship to family
+* life story - high school experience, post-graduation time, mission, post-mission
 
 Favorite:
 
-* * books
-* * movies
-* * sports
-* * sports teams
-* * interests
-* * car company
-* * apostle
-* * classes
-* * colors
-* * foods
-* * sayings
-* * subjects
-* * music
-* * composer
-* * author
-* * recreation
-* * musicals
-* * word
-* * phrase
-* * dishes to cook
-* * places to go hiking/backpacking, etc.
+* books
+* movies
+* sports
+* sports teams
+* interests
+* car company
+* apostle
+* classes
+* colors
+* foods
+* sayings
+* subjects
+* music
+* composer
+* author
+* recreation
+* musicals
+* word
+* phrase
+* dishes to cook
+* places to go hiking/backpacking, etc.
 
 Memories:
 
-* * childhood
-* * school - elementary, middle, high, college
-* * mission, if applicable
-* * family memories
-* * embarrassing memories
-* * happiest times
-* * Church experiences
-* * vacations
-* * sports
+* childhood
+* school - elementary, middle, high, college
+* mission, if applicable
+* family memories
+* embarrassing memories
+* happiest times
+* Church experiences
+* vacations
+* sports
 
 Views on:
 
-* * local (and other) culture
-* * politics
-* * national and world news
-* * religion
-* * electronics and media
-* * food
-* * sports
-* * American lifestyle
-* * travel
-* * pranks
+* local (and other) culture
+* politics
+* national and world news
+* religion
+* electronics and media
+* food
+* sports
+* American lifestyle
+* travel
+* pranks
 
 What would your ideal day be like?
 
@@ -2115,40 +2115,40 @@ How would you compare yourself to the stereotypes that people would tend to beli
 
 What is your dream way to kick the bucket?
 
-  * Social Skills and Etiquette
+## Social Skills and Etiquette
 
 General:
 
-* * Golden Rule - do not treat others differently than you, in their place, would want to be treated
-* * Body language - be upright, alert, aware, and engaged, not slouching, lethargic, or disconnected
-* * Emulation - learn from and imitate the manners of respected and authoritative figures
-* * Language - use appropriate vocabulary for the occasion, and use etiquette words, such as “sir” and “please”
-* * Dress - dress appropriately for the occasion, and always neatly
+* Golden Rule - do not treat others differently than you, in their place, would want to be treated
+* Body language - be upright, alert, aware, and engaged, not slouching, lethargic, or disconnected
+* Emulation - learn from and imitate the manners of respected and authoritative figures
+* Language - use appropriate vocabulary for the occasion, and use etiquette words, such as “sir” and “please”
+* Dress - dress appropriately for the occasion, and always neatly
 
 Conversation:
 
-* * Listening - pay attention when others speak; ask questions to ensure understanding and to learn more; do not interrupt unless completely necessary
-* * Subject matter - talk about worthwhile things that interest other people, and keep the conversation within the bounds of propriety
-* * Kindness - say things that edify others and help them feel better
+* Listening - pay attention when others speak; ask questions to ensure understanding and to learn more; do not interrupt unless completely necessary
+* Subject matter - talk about worthwhile things that interest other people, and keep the conversation within the bounds of propriety
+* Kindness - say things that edify others and help them feel better
 
 Mealtime:
 
-* * Basics - chew with a closed mouth; make sure everyone is served before you eat; take reasonable portions
-* * Emulation - follow the hosts’ examples, especially in unfamiliar cultures or settings
-* * Appreciation - compliment the chef and thank the hosts for their hospitality
+* Basics - chew with a closed mouth; make sure everyone is served before you eat; take reasonable portions
+* Emulation - follow the hosts’ examples, especially in unfamiliar cultures or settings
+* Appreciation - compliment the chef and thank the hosts for their hospitality
 
 Meetings:
 
-* * Propriety - respect and follow the presiding authority; speak in turn, concisely, and on topic
-* * Punctuality - be early
-* * Preparation - come informed and ready to contribute
-* * Attention - be completely tuned in to the meeting
+* Propriety - respect and follow the presiding authority; speak in turn, concisely, and on topic
+* Punctuality - be early
+* Preparation - come informed and ready to contribute
+* Attention - be completely tuned in to the meeting
 
 Interviews:
 
-* * Basics - smile and be enthusiastic and pleasant to talk to
-* * Preparation - know more about the company than the interviewer and come with interesting questions that reflect the depth of your knowledge
-* * Appreciation - thank the interviewer for his or her time, and help him or her to feel good
+* Basics - smile and be enthusiastic and pleasant to talk to
+* Preparation - know more about the company than the interviewer and come with interesting questions that reflect the depth of your knowledge
+* Appreciation - thank the interviewer for his or her time, and help him or her to feel good
   * 4 basic types of communication:
 
 aggressive
@@ -2159,28 +2159,30 @@ passive-aggressive
 
 assertive
 
-  * Communication principles from [Deborah Tannen](https://en.wikipedia.org/wiki/Deborah_Tannen)
-* * Self-concept: positive self-concept necessary for healthy and satisfying communications
-* * Clarity of expression: know what you want to communicate
-* * Dealing with feelings: emotions should be identified, observed, reported, and integrated
-* * Self-disclosure: the ability to talk truthfully about yourself is essential for clarity
-* * Appeal to other's self-interest: Doing this will also help you to ___ - win-win!
-* * Set limits: "I will be happy to help, and can promise only two hours on Tuesday."
-* * State clear consequences
-* * Use "and" rather than "but": You've been great with X and I want to help you do the same with Y.
-* * Learn to say no.
--
+## Communication principles from [Deborah Tannen](https://en.wikipedia.org/wiki/Deborah_Tannen)
+
+* Self-concept: positive self-concept necessary for healthy and satisfying communications
+* Clarity of expression: know what you want to communicate
+* Dealing with feelings: emotions should be identified, observed, reported, and integrated
+* Self-disclosure: the ability to talk truthfully about yourself is essential for clarity
+* Appeal to other's self-interest: Doing this will also help you to ___ - win-win!
+* Set limits: "I will be happy to help, and can promise only two hours on Tuesday."
+* State clear consequences
+* Use "and" rather than "but": You've been great with X and I want to help you do the same with Y.
+* Learn to say no.
 
 Effective messaging: I feel _____ when ____ because _____. How do you feel about it? How can we solve it?
 
-  * Conversations
-* * associations game
-* * would you rather... ?
-* * have you ever... ?
-* * least favorite
-* * point to map and go there
+## Conversations
+
+* associations game
+* would you rather... ?
+* have you ever... ?
+* least favorite
+* point to map and go there
 
 Timeboxing
+
 * [OUTWORK Everyone By Being Bored](https://www.youtube.com/watch?v=1iNyqomXQt8)
 * [Pure 40 HZ Binaural Beats: The Frequency for FOCUS, MEMORY, and CONCENTRATION](https://www.youtube.com/watch?v=1_G60OdEzXs)
 
@@ -2206,7 +2208,8 @@ You could also lay your head down on your desk for ten minutes and listen to a p
 
 I hope y'all had a good day, if not, that's okay too. Remember to take care of yourself and try to get some sleep tonight
 
-( This comment isn't originally mine, but I think it can help a lot of people :)  )
+( This comment isn't originally mine, but I think it can help a lot of people )
+
 * Links - Travel
 * [justlanded.com/deutsch](https://www.justlanded.com/deutsch)
 * [travelbook.de/](http://www.travelbook.de/)
@@ -2436,15 +2439,12 @@ Where do you find a dog with no legs? Wherever you left him.
 * [artofmanliness.com/](https://www.artofmanliness.com/)
 * [meetup.com/blog/harvards-famous-study-on-happiness-might-surprise-you](https://www.meetup.com/blog/harvards-famous-study-on-happiness-might-surprise-you)
 
-Flow @ Work
+* Flow @ Work
+* Neurohacks
+* Wendy Wood Good Habits
+* Atomic Habits
+* The Good Lufe Waldinger Schulz
 
-Neurohacks
-
-Wendy Wood Good Habits
-
-Atomic Habits
-
-The Good Lufe Waldinger Schulz
 * [Here's Why You Want A Really Boring Job - How Money Works - YouTube](https://www.youtube.com/watch?v=4hiVQf9MPzg)
 * [Hack Your Brain With Elaborate Coping Mechanisms - YouTube](https://www.youtube.com/watch?v=XUZ9VATeF_4)
 * [47 Habits of Highly Successful Employees | The Muse](https://www.themuse.com/advice/47-habits-of-highly-successful-employees)
@@ -2514,7 +2514,7 @@ A question is a set of alternative possibilities
 
     Herausfinden warum jemand gemein zu dir ist – wikiHow
 * [Good tips!](https://www.reddit.com/r/exmormon/comments/edwjgp/good_tips/)
-* [http://www.buzzfeed.com/annaborges/what-is-adulting](http://www.buzzfeed.com/annaborges/what-is-adulting?bffb)
+* [buzzfeed.com/annaborges/what-is-adulting](http://www.buzzfeed.com/annaborges/what-is-adulting?bffb)
 * [buzzfeed.com/carolynkylstra/impress-literally-everyone-you-meet](http://www.buzzfeed.com/carolynkylstra/impress-literally-everyone-you-meet)
 * [forbes.com/sites/davidsturt/2015/06/11/decision-paralysis-why-its-prevalent-and-3-ways-to-end-it/](http://www.forbes.com/sites/davidsturt/2015/06/11/decision-paralysis-why-its-prevalent-and-3-ways-to-end-it/)
 * [www3.forbes.com/leadership/10-morning-habits-successful-people-swear-by/2/](http://www3.forbes.com/leadership/10-morning-habits-successful-people-swear-by/2/)
@@ -2541,13 +2541,13 @@ A question is a set of alternative possibilities
     El arte de saber callar
 
   * Analysis of sexual actions:
-* * Good reasons to have sex
+* Good reasons to have sex
 
-* * Bad reasons to have sex
+* Bad reasons to have sex
 
-* * Good reasons to masturbate
+* Good reasons to masturbate
 
-* * Bad reasons to masturbate
+* Bad reasons to masturbate
 
 
 * [Learn confidently with mental models](https://www.youtube.com/watch?v=Vx-6-3HRazI)

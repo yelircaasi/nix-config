@@ -692,7 +692,7 @@ Robert Duchesneau RiverWM dotfiles)
 * [gnulinux-projects](https://gitlab.com/gnulinux-projects/My_Linux_Files/-/tree/main/Debian/Sway/.config)
 * [testertech swaywm eww](https://github.com/TesterTech/swaywm-eww) -
 * [1amsimple](https://github.com/1amSimp1e/dots)1amsimple - firefox vscodium, webcord, alacritty, kitty, lazygit, neofetch, nvim, starship, ranger, spicetify, sway, tmux
-* [aspectsides](https://github.com/aspectsides/dotfiles) - [WezTerm](https://wezfurlong.org/wezterm/)) with tmux-like keybindings, [Neovim](https://neovim.io/),) JetBrains IdeaVim config, [Taskwarrior](https://taskwarrior.org/), [Starship](https://starship.rs/)Firefox[Oxocarbon](https://github.com/nyoom-engineering/oxocarbon.nvim)) theme, [sway](https://swaywm.org/)**
+* [aspectsides](https://github.com/aspectsides/dotfiles) - [WezTerm](https://wezfurlong.org/wezterm/)) with tmux-like keybindings, [Neovim](https://neovim.io/),) JetBrains IdeaVim config, [Taskwarrior](https://taskwarrior.org/), [Starship](https://starship.rs/) Firefox[Oxocarbon](https://github.com/nyoom-engineering/oxocarbon.nvim)) theme, [sway](https://swaywm.org/)**
 * [cleggacus](https://github.com/cleggacus/sway-ricey-boi)
 * [Facundo-c-c](https://github.com/Facundo-c-c/Solus-sway-dotfiles)
 * [hkupty ](https://github.com/hkupty/dotfiles) - kitty, nvim, sway, waybar

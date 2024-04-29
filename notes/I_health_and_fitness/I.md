@@ -71,7 +71,7 @@
 * [buyagift.co.uk/content/foodhealth/index.html](https://www.buyagift.co.uk/content/foodhealth/index.html)
 * [aprifel.com/equation-nutrition.php](http://www.aprifel.com/equation-nutrition.php)
 * [fao.org/nutrition/educacion-nutricional/food-dietary-guidelines/home/es/](http://www.fao.org/nutrition/educacion-nutricional/food-dietary-guidelines/home/es/)
-* [http://www.medicalnewstoday.com/articles/160774.php - Nutrition basics](http://www.medicalnewstoday.com/articles/160774.php)
+* [medicalnewstoday.com/articles/160774.php - Nutrition basics](http://www.medicalnewstoday.com/articles/160774.php)
 * [The Language of Food](https://www.youtube.com/watch?v=9iYwUh1Hdho)
 * [Atlas of world restaurants](http://library.lol/main/6DBD03D438539DDAEF2D66B6CA8949EF)
 * Французские правила здорового питания
@@ -341,73 +341,18 @@
 * Heidelbeer-Cashew-Cake
 * Pancake-Torte mit Kiwi und Nektarinen*
 * Food
-* ## Guidelines
-* ## Ideas
-* - Halloumi Burge
-* [x]  Halloumi-Käs
-* [x]  Brötche
-* [x]  Yoghurt (für Soße
-* [x]  Aubergin
-* [x]  rote Zwiebel
-* [x]  Mayonnais
-* [x]  Rucola* - Polent
-* [x]  Polent
-* [x]  sonnengetrocknete Tomaten* - Gnocch
-* [x]  Gnocch
-* [x]  Pesto* - gefüllte Paprikaschote
-* [x]  Paprik
-* [x]  Kartoffel
-* [x]  veganes Hac
-* [x]  Zwiebel
-* [x]  Gewürzmischun
-* [x]  Käse* - rote Linsensupp
-* [x]  rote Linse
-* [x]  Zwiebel
-* [x]  Gewürz
-* [x]  grüne Zwiebel
-* [x]  Zitron
-* [x]  Tomatenmar
-* [x]  Basiliku
-* [x]  Zwiebel
-* [x]  Knoblauc
-* [x]  Möhre
-* [x]  Paprika* - Sala
-* [x]  * - Curr
-* [x]  Kokosmilc
-* [x]  Butternu
-* [x]  Kichererbse
-* [x]  Erbse
-* [x]  Tof
-* [x]  Kartoffel
-* [x]  Reis* - Taco
-* [x]  hausgemachte Tortillas: Mehl, Ö
-* [x]  veganes Hac
-* [x]  * - Spaghett
-* [x]  Spaghett
-* [x]  Soße* - Chil
-* [x]  Bohne
-* [x]  Chili
-* [x]  Gewür
-* [x]  veganes Hackfleisc
-* [x]  Maisbro
-* [x]  passierte Tomate
-* [x]  Knoblauc
-* [x]  Ö
-* [x]  Dosenmar
-* [x]  frische Tomate
-* [x]  Brühe* - Nudelsupp
-* [x]  * - belegtes Bro
-* [x]  Lach
-* [x]  * - Weizenbre
-* [x]  Weizenbrei
-* [Wie-bei-Omi-Suppe](https://www.lecker.de/wie-bei-omi-suppe-mit-mettenden-72584.html)*     * * - Dal*     * * - Nudelauflau
-* [ ]  * - Nachos*     * * - Grechka*     * sdf* - Falaffel*     * * - Schnitzel (vegan)*     * * - Linsen und Spätzle*     * * - Burritos*     * * - Kartoffelpuffer*     * * - Döner*     -
-* [Lachs-Spinat-Pfannkuchen](https://www.lecker.de/lachs-spinat-pfannkuchen-76068.html)*     * * - Milchreis*     * * - Bratwürstchen (vegan)*     * * - Wraps*     * * - .*     * * - *     * *
-* Clothes
-* ### Hosen
-* - braune Hose* - schwarze Hose* - Jeans
-* ### Hemde, Pullis, T-Shirts
-* - grün und blau, warm* - Pulli - grau, schwarz und blau* - schwarzer Pulli* - hellgrauer Pulli* - dunkelgrauer Pulli* - graues T-Shirt von Decathlon* - rotes T-Shirt von Decathlon
+
+## Guidelines
+
+## Ideas
+
+## Clothes
+
+### Hosen
+
+### Hemde, Pullis, T-Shirts
+
+
 * [Le Sport - Une Philosophie?](http://www.iforep.fr/wp-content/uploads/2016/04/Le-sport-une-philosophie-Sciences-Humaines.pdf)
 * [milkadamia.com/](https://milkadamia.com/)
 * Running Loops
@@ -420,7 +365,8 @@
 * [google.com/maps/dir/Sternweilerstraße+48,+69242+Mühlhausen,+Germania/49.2576829,8.733949/49.2692188,8.7576033/Sternweilerstraße+48,+69242+Mühlhausen,+Germania/@49.253082,8.7273746,17z/data=!4m41!4m40!1m15!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!3m4!1m2!1d8.7493803!2d49.2569214!3s0x4797966a02813ec3:0x92197d86716a8ec5!3m4!1m2!1d8.7327823!2d49.2535445!3s0x4797963b853e1dab:0x4c2125bd2a853e35!1m10!3m4!1m2!1d8.7396196!2d49.2617135!3s0x4797961440d6a123:0xe7d613b8d3a9c70!3m4!1m2!1d8.7600695!2d49.273445!3s0x479796775c4a99e7:0xee1e4e3630120e32!1m5!3m4!1m2!1d8.7648401!2d49.2671985!3s0x4797967b51a9f93f:0x18270e66a7fdabd0!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!3e2?entry=ttu](https://www.google.com/maps/dir/Sternweilerstra%C3%9Fe+48,+69242+M%C3%BChlhausen,+Germania/49.2576829,8.733949/49.2692188,8.7576033/Sternweilerstra%C3%9Fe+48,+69242+M%C3%BChlhausen,+Germania/@49.253082,8.7273746,17z/data=!4m41!4m40!1m15!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!3m4!1m2!1d8.7493803!2d49.2569214!3s0x4797966a02813ec3:0x92197d86716a8ec5!3m4!1m2!1d8.7327823!2d49.2535445!3s0x4797963b853e1dab:0x4c2125bd2a853e35!1m10!3m4!1m2!1d8.7396196!2d49.2617135!3s0x4797961440d6a123:0xe7d613b8d3a9c70!3m4!1m2!1d8.7600695!2d49.273445!3s0x479796775c4a99e7:0xee1e4e3630120e32!1m5!3m4!1m2!1d8.7648401!2d49.2671985!3s0x4797967b51a9f93f:0x18270e66a7fdabd0!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!3e2?entry=ttu)
 * [google.com/maps/dir/Sternweilerstraße+48,+69242+Mühlhausen,+Germania/49.2576829,8.733949/49.2692188,8.7576033/Sternweilerstraße+48,+69242+Mühlhausen,+Germania/@49.2628034,8.7360565,14.29z/data=!4m46!4m45!1m15!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!3m4!1m2!1d8.7493803!2d49.2569214!3s0x4797966a02813ec3:0x92197d86716a8ec5!3m4!1m2!1d8.7327823!2d49.2535445!3s0x4797963b853e1dab:0x4c2125bd2a853e35!1m10!3m4!1m2!1d8.7396196!2d49.2617135!3s0x4797961440d6a123:0xe7d613b8d3a9c70!3m4!1m2!1d8.7600695!2d49.273445!3s0x479796775c4a99e7:0xee1e4e3630120e32!1m10!3m4!1m2!1d8.7648401!2d49.2671985!3s0x4797967b51a9f93f:0x18270e66a7fdabd0!3m4!1m2!1d8.759103!2d49.2638952!3s0x479796659af9d763:0x4d1e169b05a41ad4!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!3e2?entry=ttu](https://www.google.com/maps/dir/Sternweilerstra%C3%9Fe+48,+69242+M%C3%BChlhausen,+Germania/49.2576829,8.733949/49.2692188,8.7576033/Sternweilerstra%C3%9Fe+48,+69242+M%C3%BChlhausen,+Germania/@49.2628034,8.7360565,14.29z/data=!4m46!4m45!1m15!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!3m4!1m2!1d8.7493803!2d49.2569214!3s0x4797966a02813ec3:0x92197d86716a8ec5!3m4!1m2!1d8.7327823!2d49.2535445!3s0x4797963b853e1dab:0x4c2125bd2a853e35!1m10!3m4!1m2!1d8.7396196!2d49.2617135!3s0x4797961440d6a123:0xe7d613b8d3a9c70!3m4!1m2!1d8.7600695!2d49.273445!3s0x479796775c4a99e7:0xee1e4e3630120e32!1m10!3m4!1m2!1d8.7648401!2d49.2671985!3s0x4797967b51a9f93f:0x18270e66a7fdabd0!3m4!1m2!1d8.759103!2d49.2638952!3s0x479796659af9d763:0x4d1e169b05a41ad4!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!3e2?entry=ttu)
 * [google.com/maps/dir/Sternweilerstraße+48,+69242+Mühlhausen,+Germania/49.2644449,8.7429669/49.2668767,8.7270073/49.2501931,8.7399853/49.256435,8.7507266/Sternweilerstraße+48,+69242+Mühlhausen,+Germania/@49.2667426,8.7198688,14z/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!1m0!1m0!1m0!1m0!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!3e2?entry=ttu](https://www.google.com/maps/dir/Sternweilerstra%C3%9Fe+48,+69242+M%C3%BChlhausen,+Germania/49.2644449,8.7429669/49.2668767,8.7270073/49.2501931,8.7399853/49.256435,8.7507266/Sternweilerstra%C3%9Fe+48,+69242+M%C3%BChlhausen,+Germania/@49.2667426,8.7198688,14z/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!1m0!1m0!1m0!1m0!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!3e2?entry=ttu)
-* [google.com/maps/dir/Sternweilerstraße+48,+69242+Mühlhausen,+Germania/49.2444302,8.7536698/49.2485918,8.7677989/49.2554642,8.7610261/Sternweilerstraße+48,+69242+Mühlhausen,+Germania/@49.2533545,8.7486654,15z/data=!3m1!4b1!4m17!4m16!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!1m0!1m0!1m0!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!3e2?entry=ttu](https://www.google.com/maps/dir/Sternweilerstra%C3%9Fe+48,+69242+M%C3%BChlhausen,+Germania/49.2444302,8.7536698/49.2485918,8.7677989/49.2554642,8.7610261/Sternweilerstra%C3%9Fe+48,+69242+M%C3%BChlhausen,+Germania/@49.2533545,8.7486654,15z/data=!3m1!4b1!4m17!4m16!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!1m0!1m0!1m0!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!3e2?entry=ttu)*
+* [google.com/maps/dir/Sternweilerstraße+48,+69242+Mühlhausen,+Germania/49.2444302,8.7536698/49.2485918,8.7677989/49.2554642,8.7610261/Sternweilerstraße+48,+69242+Mühlhausen,+Germania/@49.2533545,8.7486654,15z/data=!3m1!4b1!4m17!4m16!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!1m0!1m0!1m0!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!3e2?entry=ttu](https://www.google.com/maps/dir/Sternweilerstra%C3%9Fe+48,+69242+M%C3%BChlhausen,+Germania/49.2444302,8.7536698/49.2485918,8.7677989/49.2554642,8.7610261/Sternweilerstra%C3%9Fe+48,+69242+M%C3%BChlhausen,+Germania/@49.2533545,8.7486654,15z/data=!3m1!4b1!4m17!4m16!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!1m0!1m0!1m0!1m5!1m1!1s0x4797966f3e14ec57:0x61977aa5f1b5c602!2m2!1d8.7558101!2d49.2636275!3e2?entry=ttu)
+
 * Tracking
 * Running formula:
 * basic idea: f(distance, speed) → map contour from competitive marathon to walking 1km, monotonically increasing along each axis
@@ -428,7 +374,8 @@
 * → do the same for food scores: spectrum between optimal and worst eating*
 * [arstechnica.com/culture/2023/08/i-try-synthetic-salmon-and-enter-the-uncanny-valley-of-taste/](https://arstechnica.com/culture/2023/08/i-try-synthetic-salmon-and-enter-the-uncanny-valley-of-taste/)
 
-<SORTED>
+## {SORTED}
+
 * Workout & Fitness Books
 * Fit ohne Geräte. 90-Tage-Challenge.pdf
 * Fit ohne Geräte. Trainieren mit dem eigenen Körpergewicht.pdf
@@ -472,7 +419,7 @@
 * «Загадки сна. От бессонницы до летаргии», Михаил Полуэктов.*
 * Physical Labor
 * Es fasziniert mich, über körperliche Arbeit nachzudenken. Ich will selbst mehr daran beteiligt sein.
-* - → Bauer in Kroatien
+* → Bauer in Kroatien
 * Podcasts
 * [podtail.com/de/podcast/mormon-sex-info/](https://podtail.com/de/podcast/mormon-sex-info/) 36 and 37*
 * YouTube Channels
@@ -486,4 +433,11 @@
 * [FC Abgehoben - Wie Bayern München sein Image ruiniert | Sportclub | NDR - YouTube](https://www.youtube.com/watch?v=PaqRueT49a0)
 * [seniorbook.de/themen/kategorie/politik-und-gesellschaft/artikel/34615/lob-der-faulheit-warum-disziplin-und-arbeitseifer-uns-nur-schaden](https://www.seniorbook.de/themen/kategorie/politik-und-gesellschaft/artikel/34615/lob-der-faulheit-warum-disziplin-und-arbeitseifer-uns-nur-schaden)
 * [medizinische-artikel.eu/main/7434-Passivnyiy-otdyh-poleznee-chem-trenirovki.html*](http://medizinische-artikel.eu/main/7434-Passivnyiy-otdyh-poleznee-chem-trenirovki.html*)
-* Workout Books (from ChatGPT)* 1. "Strength Training Anatomy" by Frederic Delavier:*     * This book provides a detailed look at the anatomy of various exercises, helping you understand muscle engagement and movement patterns.* 2. "Essentials of Strength Training and Conditioning" by National Strength and Conditioning Association (NSCA):*     * Published by the NSCA, this book is a comprehensive resource for strength training and conditioning, covering principles, techniques, and program design.* 3. "The New Rules of Lifting" series by Lou Schuler and Alwyn Cosgrove:*     * This series of books offers practical advice on weight training, combining science with real-world application for both men and women.* 4. "Advanced Sports Nutrition" by Dan Benardot:*     * This book delves into the nutritional aspects of sports performance, offering insights into how diet can optimize training and recovery.* 5. "Running Science" by Owen Anderson:*     * Focused on the science of running, this book covers biomechanics, physiology, and training strategies to help you improve your running performance.* 6. "The Runner's Body" by Ross Tucker and Jonathan Dugas:*     * This book explores the physiology of running and provides practical advice on training, nutrition, and injury prevention.* 7. "Science and Practice of Strength Training" by Vladimir Zatsiorsky and William Kraemer:*     * This book is a comprehensive guide to the scientific principles behind strength training, making it suitable for both beginners and advanced lifters.
+* Workout Books (from ChatGPT)* 1. "Strength Training Anatomy" by Frederic Delavier:
+* This book provides a detailed look at the anatomy of various exercises, helping you understand muscle engagement and movement patterns.* 2. "Essentials of Strength Training and Conditioning" by National Strength and Conditioning Association (NSCA):
+* Published by the NSCA, this book is a comprehensive resource for strength training and conditioning, covering principles, techniques, and program design.* 3. "The New Rules of Lifting" series by Lou Schuler and Alwyn Cosgrove:
+* This series of books offers practical advice on weight training, combining science with real-world application for both men and women.* 4. "Advanced Sports Nutrition" by Dan Benardot:
+* This book delves into the nutritional aspects of sports performance, offering insights into how diet can optimize training and recovery.* 5. "Running Science" by Owen Anderson:
+* Focused on the science of running, this book covers biomechanics, physiology, and training strategies to help you improve your running performance.* 6. "The Runner's Body" by Ross Tucker and Jonathan Dugas:
+* This book explores the physiology of running and provides practical advice on training, nutrition, and injury prevention.* 7. "Science and Practice of Strength Training" by Vladimir Zatsiorsky and William Kraemer:
+* This book is a comprehensive guide to the scientific principles behind strength training, making it suitable for both beginners and advanced lifters.

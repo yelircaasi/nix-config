@@ -556,7 +556,7 @@
 * The will to master is natural. What stops us:
 * The discomfort of learning
 * Doubt in our ability to master the material.
-* The key lies in our assumptions about ourselves and the process.* [http://www.smithsonianmag.com/innovation/why-are-finlands-schools-successful-49859555/?no-ist - Finnish Educators do whatever it takes to ensure that children succeed. Education is geared toward preparing children for the real world. The human element is more important than statistics. Teacher competition and data-driven analysis are not the Finnish way.](http://www.smithsonianmag.com/innovation/why-are-finlands-schools-successful-49859555/?no-ist)
+* The key lies in our assumptions about ourselves and the process.* [smithsonianmag.com/innovation/why-are-finlands-schools-successful-49859555/?no-ist - Finnish Educators do whatever it takes to ensure that children succeed. Education is geared toward preparing children for the real world. The human element is more important than statistics. Teacher competition and data-driven analysis are not the Finnish way.](http://www.smithsonianmag.com/innovation/why-are-finlands-schools-successful-49859555/?no-ist)
 * [http://en.wikipedia.org/wiki/Education_in_Finland - Characterisitics of Finnish Education:](http://en.wikipedia.org/wiki/Education_in_Finland)
 * equal basic education for all
 * fully subsidized school lunch for all
@@ -593,7 +593,7 @@
 * salary on par with that of other college graduates
 * no merit pay or teachers
 * teachers effectively have the same status as doctors and lawyers
-* [http://www.oph.fi/english/education_system - Official insider description](http://www.oph.fi/english/education_system)
+* [oph.fi/english/education_system - Official insider description](http://www.oph.fi/english/education_system)
 * [http://starylev.com.ua/club/article/7-pryncypiv-finskoyi-osvity - 7 принципів:](http://starylev.com.ua/club/article/7-pryncypiv-finskoyi-osvity)
 * $2івністs
 * dезкоштовністs
@@ -743,7 +743,7 @@
 * Chapter5: Contra: The Strongest Case against the West
 * Chapter 6: Cui Bono? Understanding Who Benefits from Dishonest Definitions
 * Chapter 7: A Better Way: Ideas for a More Precise Terminology*
-* [http://www.socialsciencespace.com/about-socialsciencebites/](http://www.socialsciencespace.com/about-socialsciencebites/)**
+* [socialsciencespace.com/about-socialsciencebites/](http://www.socialsciencespace.com/about-socialsciencebites/)**
 * [nl.in-mind.org/](http://nl.in-mind.org/)
 * power laws
 * [How to understand power - Eric Liu - YouTube](https://www.youtube.com/watch?v=c_Eutci7ack)
@@ -752,7 +752,7 @@
 * [ourworldindata.org/](https://ourworldindata.org/)
 * network effects
 * [Soziale Institutionen zwischen Markt und Moral: Führungs- und Handlungskontexte](http://library.lol/main/10D90BB2565137298CD73D414DCC76B8)
-* [http://www.bitbybitbook.com/en/preface/](http://www.bitbybitbook.com/de/preface/) 
+* [bitbybitbook.com/en/preface/](http://www.bitbybitbook.com/de/preface/) 
 * 1s video / audio
 * [El lado oscuro de Disney](http://library.lol/main/94B5EA262E29CF6DF61DCF210086233C)
 * [Senegal: el paraíso sexual de las abuelas europeas | Sinfiltros.com - YouTube](https://www.youtube.com/watch?v=zjwXmk6sS_4)

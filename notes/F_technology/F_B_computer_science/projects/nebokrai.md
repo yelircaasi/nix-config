@@ -442,7 +442,7 @@ Scheduler
 * [web-static.stern.nyu.edu/om/faculty/pinedo/scheduling/sched.pdf](https://web-static.stern.nyu.edu/om/faculty/pinedo/scheduling/sched.pdf)
 * [javatpoint.com/activity-or-task-scheduling-problem](https://www.javatpoint.com/activity-or-task-scheduling-problem)
 * [teamdoapp.com/inspiration/increase-productivity-with-effective-task-scheduling/](https://teamdoapp.com/inspiration/increase-productivity-with-effective-task-scheduling/)
-* [Machine learning and optimization for production rescheduling in Industry 4.0 [link.springer.com/article/10.1007/s00170-020-05850-5](https://link.springer.com/article/10.1007/s00170-020-05850-5)](https://link.springer.com/article/10.1007/s00170-020-05850-5](https://link.springer.com/article/10.1007/s00170-020-05850-5))
+* [Machine learning and optimization for production rescheduling in Industry 4.0](https://link.springer.com/article/10.1007/s00170-020-05850-5)
 
 ### Entries
 
@@ -1966,7 +1966,7 @@ Scheduler
         [GothenburgBitFactory/tasklib)→](https://github.com/GothenburgBitFactory/tasklib)→) integrate with planager?
 * (5) [taskell](https://github.com/smallhadroncollider/taskell)→ interesting because of codebase; kanban interface also nice → integrate with planager
 * (5) [Sandman-Lite](https://github.com/alexanderepstein/Sandman-Lite)(preferred to[Sandman)](https://github.com/alexanderepstein/Sandman))- [Sandman](https://alexanderepstein.github.io/Sandman/) - Lets you know when to turn off the computer and sleep based on calculated sleep cycles. ([MIT](https://github.com/alexanderepstein/Sandman/blob/master/License.md)) → [good source](https://sleepopolis.com/calculators/sleep/)
-* (5) ❤ [todoman](https://github.com/pimutils/todoman) → see [icalendar.org/,](https://icalendar.org/,) [icalendar.org/RFC-Specifications/iCalendar-RFC-5545/[specs](https://datatracker.ietf.org/doc/html/rfc5545)](https://icalendar.org/RFC-Specifications/iCalendar-RFC-5545/[specs](https://datatracker.ietf.org/doc/html/rfc5545)) -> integrate with Nebokrai
+* (5) ❤ [todoman](https://github.com/pimutils/todoman) → see](https://datatracker.ietf.org/doc/html/rfc5545) -> integrate with Nebokrai
 * (5) ❤ [uhabits](https://github.com/iSoron/uhabits) -> borrow ideas and elements for Nebokrai / fork and adapt / integrate
 * (5) [ttdl](https://github.com/VladimirMarkelov/ttdl)→ integrate with planager
 * (5) [todo](https://github.com/Axarva/todo)

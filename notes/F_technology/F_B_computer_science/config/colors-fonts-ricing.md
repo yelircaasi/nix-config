@@ -1240,7 +1240,7 @@ print(transformed.shape)
         [base16-builder/base16-builder](https://github.com/base16-builder/base16-builder) [mjswensen/themer
         [piutranq/cologen](https://github.com/piutranq/cologen)
         [Kumux/kumux-colorscheme-engine](https://github.com/Kumux/kumux-colorscheme-engine)
-        [https://github.com/mjswensen/themer](https://github.com/mjswensen/themer)
+        [mjswensen/themer](https://github.com/mjswensen/themer)
         [piutranq/cologen](https://github.com/piutranq/cologen)
         [Kumux/kumux-colorscheme-engine)](https://github.com/Kumux/kumux-colorscheme-engine) (good source of templates! - also in pictrix page)
         [just-colors](https://github.com/andreyvpng/just-colors)

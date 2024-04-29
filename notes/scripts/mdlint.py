@@ -16,6 +16,9 @@ def list_files(directory):
 
 mdfiles = list(filter(lambda s: s.endswith(".md"), list_files(ROOT)))
 
+
+def fix_link(line: str) -> str:
+    ...
 # print("\n".join(mdfiles))
 
 def make_mdlinks(file_string: str) -> str:

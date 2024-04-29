@@ -3354,7 +3354,7 @@
 * [vorleser.net](https://www.vorleser.net/)
 * [audiocite.net/](https://www.audiocite.net/)
 * [audio-libro.com/](https://audio-libro.com/)
-* [http://www.livrespourtous.com](http://www.livrespourtous.com/)
+* [livrespourtous.com](http://www.livrespourtous.com/)
 * [mp3audiobookplayer.com/audiobook-collections/](http://mp3audiobookplayer.com/audiobook-collections/)
 * [audiolibri.org](https://audiolibri.org/)
 * [audiolibrosgratis.net/](http://audiolibrosgratis.net/)

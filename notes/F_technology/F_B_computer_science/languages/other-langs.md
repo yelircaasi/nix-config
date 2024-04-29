@@ -126,7 +126,7 @@ How to define / compute optimality of progrmming languages (i.e. determine/const
 * [freecodecamp.org/news/java-android-app-using-rest-api-network-data-in-android-course/](https://www.freecodecamp.org/news/java-android-app-using-rest-api-network-data-in-android-course/)
 * [ecomputernotes.com/java/what-is-java-language/structure-of-a-java-program](http://ecomputernotes.com/java/what-is-java-language/structure-of-a-java-program)
 * [stackoverflow.com/questions/2390063/what-does-public-static-void-mean-in-java](https://stackoverflow.com/questions/2390063/what-does-public-static-void-mean-in-java)
-* [Programming in Java: An Interdisciplinary Approach [introcs.cs.princeton.edu/java/home/](https://introcs.cs.princeton.edu/java/home/)](https://introcs.cs.princeton.edu/java/home/](https://introcs.cs.princeton.edu/java/home/))
+* [Programming in Java: An Interdisciplinary Approach](https://introcs.cs.princeton.edu/java/home/)
 * [Stepik - Java. Introduction](https://stepik.org/course/6858)
 * [Stepik - Java. Базовый курс](https://stepik.org/course/187)
 * [Udemy - Getting Started with Natural Language Processing in Java](https://www.udemy.com/course/getting-started-with-natural-language-processing-in-java/learn/)

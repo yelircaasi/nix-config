@@ -154,10 +154,10 @@
 * [book.kbsu.ru/](http://book.kbsu.ru/)
 * [Algorithms and Theory of Computation Handbook, Second Edition, Volume 1: General](http://libgen.rs/book/index.php?md5=5BB041917EFF5A45C3C4EE98F25C4FE9)
 * [Data Structures series)
-* [2 ed.]](http://libgen.rs/book/index.php?md5=5BB041917EFF5A45C3C4EE98F25C4FE9)    Computers and Computation
+* [2 ed.](http://libgen.rs/book/index.php?md5=5BB041917EFF5A45C3C4EE98F25C4FE9)    Computers and Computation
 * [Algorithms and Theory of Computation Handbook, Second Edition, Volume 2: Special](http://libgen.rs/book/index.php?md5=729778F120A1B0A6AFB64DC95177B24A)
 * [Data Structures series)
-* [2nd Revised edition]](http://libgen.rs/book/index.php?md5=729778F120A1B0A6AFB64DC95177B24A)    Computer Science Mathematics
+* [2nd Revised edition](http://libgen.rs/book/index.php?md5=729778F120A1B0A6AFB64DC95177B24A)    Computer Science Mathematics
 * [Encyclopedia of Algorithms](http://library.lol/main/9F95B6FDE848B3842FFD86F03250A2AF)    Invitation to Computer Science
 * [Everyday Cryptography: Fundamental Principles and Applications](http://libgen.rs/book/index.php?md5=5AA35B9F245246ED22C552F850F0DC0B)    A Balanced Introduction to Computer Science
 * [Cryptography: The Key to Digital Security, How It Works, and Why It Matters](http://libgen.rs/book/index.php?md5=71B381A4F94A18BBE9D815DA665DC879)    The Bit and the Pendulum
@@ -366,7 +366,8 @@
 * [Programming language - Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
 * [Template:Data types - Wikipedia](https://en.wikipedia.org/wiki/Template:Data_types)
 * [The Rust Programming Language - The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
-* [Type Systems.fm - TypeSystems.pdf](http://lucacardelli.name/Papers/TypeSystems.pdf) :w(https://tratt.net/laurie/research/pubs/html/tratt__dynamically_typed_languages/)
+* [Type Systems.fm - TypeSystems.pdf](http://lucacardelli.name/Papers/TypeSystems.pdf)
+* [...](https://tratt.net/laurie/research/pubs/html/tratt__dynamically_typed_languages/)
 * [Types and Programming Languages - Wikipedia](https://en.wikipedia.org/wiki/Types_and_Programming_Languages)
 * [Typing — pysheeet](https://www.pythonsheets.com/notes/python-typing.html)
 * [Usage instructions for pypi-command-line - pypi-command-line](https://wasi-master.github.io/pypi-command-line/usage/)
@@ -448,13 +449,13 @@
 * [repl.it/](https://repl.it/)
 * [beginnersbook.com/](https://beginnersbook.com/)
 * [What's a Creel?](https://www.youtube.com/c/WhatsACreel)
-* [Bashtop (GitHub Repo)](https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tldrnewsletter.com%2Flink%2F        https%253A%252F%252Fgithub.com%252Faristocratos%252Fbashtop/1/01000171bb205ae7-a8a072dc-1066-44bc-a08b-a68b38e379af-000000/09cEpcG1kbaFombCuops1bJ_Q1noPnhiXRrYAuIc0xk=138)
+* [Bashtop (GitHub Repo)](https://github.com/aristocratos/bashtop)
 * [Understanding How to Transform Your Economic Value Curve](https://www.newsletter.datasciencecentral.com/click.html?x=a62e&lc=uLX&mc=j&s=jFaI&u=F&y=B&z=wysrWCw&)
 * [Why Economics Is the Most Empowering Innovation Concept +](http://datascience.getresponse360.com/click.html?x=a62e&lc=u9J&mc=j&s=jFaI&u=F&y=V&z=wvkl3p&)
 * [Code Review Tips](https://andrewking.ca/2020/01/how-to-do-high-bar-code-review-without-being-a-jerk/)
 * [Чёртова дюжина ошибок начинающего программиста](https://geekbrains.ru/posts/chyortova-dyuzhina-oshibok-nachinayushchego-programmista)
 * [Understanding How to Transform Your Economic Value Curve](https://www.datasciencecentral.com/profiles/blogs/understanding-how-to-transform-your-economic-value-curve)
-* [http://www.culturesmile.org](http://www.culturesmile.org/)
+* [culturesmile.org](http://www.culturesmile.org/)
 * [Ask HN: What do top engineers you know do that others don't? | Hacker News](https://news.ycombinator.com/item?id=21870889)
 * [Programming FAQ — documentation Python 3.6.3](https://docs.python.org/fr/3/faq/programming.html)
 * [huffingtonpost.com/quora/learn-this-language-to-ma_b_7723828.html](https://www.huffingtonpost.com/quora/learn-this-language-to-ma_b_7723828.html)
@@ -467,8 +468,6 @@
 * [Computing with Data. An Introduction to the Data Industry.](https://www.abebooks.de/servlet/BookDetailsPL?bi=30531170284&cm_sp=SEARCHREC-_-WIDGET-L-_-BDP-R&searchurl=kn%3DComputing%2Bwith%2BData%26sortby%3D17)
 * [From Nand to Tetris Part 1](https://youtube.com/playlist?list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI)
 * [From Nand to Tetris Part 2](https://youtube.com/playlist?list=PLrDd_kMiAuNmllp9vuPqCuttC1XL9VyVh)
-
-## SORT
 
 * [buecher.de/shop/englische-buecher/the-elements-of-computing-systems/nisan-noamschocken-shimon/products_products/detail/prod_id/23304349/](https://www.buecher.de/shop/englische-buecher/the-elements-of-computing-systems/nisan-noamschocken-shimon/products_products/detail/prod_id/23304349/)
 * [Concepts, techniques, and models of computer programming](http://library.lol/main/DB945BB2247838385EA4A7FC1EBA38F5)
@@ -505,12 +504,6 @@
 * [medium.com/coders-mojo/70-amazing-github-repos-for-all-the-developers-part-2-11a40e8c049c](https://medium.com/coders-mojo/70-amazing-github-repos-for-all-the-developers-part-2-11a40e8c049c)
 * [medium.com/coders-mojo/70-amazing-github-repos-for-all-the-developers-part-1-181ecfbdf233](https://medium.com/coders-mojo/70-amazing-github-repos-for-all-the-developers-part-1-181ecfbdf233)
 * [ziglang.org/](https://ziglang.org/)
-
-## SORT
-
-## SORT
-
-## SORT
 
 * [freecodecamp.org/news/best-tech-podcasts-for-software-developers/](https://www.freecodecamp.org/news/best-tech-podcasts-for-software-developers/)
 * [freecodecamp.org/news/how-to-get-things-done-lessons-in-productivity/](https://www.freecodecamp.org/news/how-to-get-things-done-lessons-in-productivity/)
@@ -557,7 +550,7 @@
 * [The Valley of My Dreams: Why Silicon Valley Left Boston's Route 128 In The Dust | TechCrunch](https://techcrunch.com/2009/10/31/the-valley-of-my-dreams-why-silicon-valley-left-bostons-route-128-in-the-dust/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAIA5WaBNLWJjZlFzfmp09Zrc9sqTpxwHLaX-QSE41e5m5rh-6Gnx447HbvVra1UXP26xnmz0h1XSFpzh45yc_gKha9lFRc_P_TwTkDE9au5O5TnRT6RfOLzPc3h8xZNeXXi4-1Gz3K06jW37ZYB8DRIhQSp4A6jlmEkua9pbHdvz)
 * [Boston’s Start-Ups Will Never Be Silicon Valley Cool](https://www.bostonmagazine.com/news/2020/02/28/boston-start-ups-cool-silicon-valley/)
 * [cambridgeincolour.com/tutorials/image-interpolation.htm](https://www.cambridgeincolour.com/tutorials/image-interpolation.htm)
-* [mo8it/How_To_Linux: A book for a Linux course: [how-to-linux.mo8it.com](https://how-to-linux.mo8it.com) - How_To_Linux - Codeberg.org](https://codeberg.org/mo8it/How_To_Linux)
+* [mo8it/How_To_Linux: A book for a Linux course](https://codeberg.org/mo8it/How_To_Linux)
 * [Daniel J. Barrett books](http://libgen.rs/search.php?&req=daniel+barrett&phrase=1&view=simple&column=def&sort=year&sortmode=DESC)
 * [lxr.linux.no/linux+v2.6.25.6/](https://lxr.linux.no/linux+v2.6.25.6/)
 * [lxr.linux.no/linux+v2.6.12/](https://lxr.linux.no/linux+v2.6.12/)
@@ -865,9 +858,6 @@
 * [Learn Git- Git tutorials, workflows and commands | Atlassian Git Tutorial](https://www.atlassian.com/git)
 * [Sourcetree | Free Git GUI for Mac and Windows](https://www.sourcetreeapp.com/)
 * [update forked repo from original - Buscar con Google](https://www.google.com/search?q=update+forked+repo+from+original&rlz=1C1GCEA_enUS779US779&oq=update+forked+repo++from+original&aqs=chrome..69i57.10167j0j7&sourceid=chrome&ie=UTF-8)    CMD+K - commit    CMD+D - diff    CMD+UPARROW+K = push
-
-## SORT
-
 * [$$$The beginner’s guide to contributing to a GitHub project – Rob Allen's DevNotes](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
 * [Discover how to migrate from SVN to Git](https://email.axosoft.com/e2t/tc/VWTcC_5KZXsfVvYGsW7zSr5VW5g6HvJ4gXmvtN8_nRFX3p_8SV1-WJV7CgRN-W687rzv8vQWgxVy6hjd3cCNs0W7STRD85KJqfqW66Hbl24S9xXfW7-Kk1L8MsTwHW27vbgm4dR1C_W8FYRmv24M5G6Vxp5_b5MvL5cVTb7dW5vv3rgW1gzWhf2-p37hN6Ttc8D24S3dW2m3Gqc4CHnjZW7M4VjR5SzW4qW3kQGDg7Ry23-W4VhvKp7bqWB1W1Kxmy96-jCWsN3MFH2T56H-TN5_k6GFLLMRtW7XH3kp14wDLkN3nWs0XrHN-XV3NRqB3qyfrkW7kHTDP93L1Js3nJY1)
 * [Gitflow](https://blog.axosoft.com/gitflow/)
@@ -899,9 +889,6 @@
 * [alumni.cs.ucr.edu/~vladimir/cs181/history.pdf](http://alumni.cs.ucr.edu/~vladimir/cs181/history.pdf)
 * [psciences.net/main/sciences/computer_sciences/articles/istyazprog.html](http://psciences.net/main/sciences/computer_sciences/articles/istyazprog.html)
 * [video](https://www.youtube.com/watch?v=0IkaXvwjDf8)
-
-## SORT
-
 * [two-wrongs.com/](https://two-wrongs.com/)
 * [Funktionale Programmierung für Java-Entwickler](https://www.youtube.com/watch?v=gkIgo892N_w)
 * [How Do Computers Remember?](https://youtu.be/I0-izyq6q5s)
@@ -930,9 +917,6 @@
 * [Code Binaire - Conversion Traduction - Logiciel en Ligne](https://www.dcode.fr/code-binaire)
 * [Exploring Binary - Binary Numbers, Binary Code, and Binary Logic](http://www.exploringbinary.com/)
 * [bioinfo-fr.net/](https://bioinfo-fr.net/)
-
-## SORT
-
 * [kyb.tuebingen.mpg.de/de](https://www.kyb.tuebingen.mpg.de/de)
 * [The Computational Theory of Intelligence: Applications to Genetic Programming and Turing Machines | Sci-napse | Academic search engine for paper](https://scinapse.io/papers/2079219125)
 * [Boolean algebra - Wikipedia](https://en.wikipedia.org/wiki/Boolean_algebra)
@@ -941,7 +925,7 @@
 * [Основы вычислимости и теории сложности](https://www.youtube.com/watch?v=0_CueBlgCLQ&list=PL-_cKNuVAYAVq831LMfQUblpNlLNAbwfP)
 * [Принцип простоты и меры сложности | Е. А. Мамчур , Н. Ф. Овчинников, А. И. Уемов | download](https://ru.b-ok2.org/book/1277186/02b53d)
 * [Теория сложности вычислений](https://www.youtube.com/watch?v=l2PULtAexsY&list=PL-_cKNuVAYAUti7GAt8AKW-vcXTgXcehk)
-* [[secsem][seccourse] Глава 1. Криптография. Введение](https://vk.com/video-16108331_456267761?list=ee16978f43258eda16)
+* [Глава 1. Криптография. Введение](https://vk.com/video-16108331_456267761?list=ee16978f43258eda16)
 * [AES: Referat über den Advanced Encryption Standard (AES) - Informatik](https://www.korelstar.de/informatik/aes.html)
 * [Bienvenue sur le site de l'Association de Cryptographie Théorique et Appliquée](http://www.acrypta.com/)
 * [Cryptographie et cryptanalyse : Ars Cryptographica](http://www.apprendre-en-ligne.net/crypto/)
@@ -966,9 +950,6 @@
 * [techtarget.com/network](http://www.techtarget.com/network)
 * [nextjournal.com](https://nextjournal.com/)
 * [8d9.ru/](https://8d9.ru/)
-
-## SORT
-
 * [Computer Networks / Computernetze: Bilingual Edition: English – German / Zweisprachige Ausgabe: Englisch – Deutsch | Christian Baun | download](https://b-ok.cc/book/5245432/8390d2)
 * [Lineare Optimierung und Netzwerkoptimierung: Zweisprachige Ausgabe Deutsch Englisch 2., verbesserte Auflage | Prof. Dr. Horst W. Hamacher, Prof. Dr. Kathrin Klamroth (auth.) | download](https://b-ok.cc/book/2332468/2e2c22)
 * [Networking tutorial - YouTube](https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW)
@@ -1020,8 +1001,6 @@
 * [An overview of the new IBM Cloud Satellite distributed cloud – Build Smart. Build Secure. IBM Developer](https://developer.ibm.com/articles/overview-of-the-new-ibm-cloud-satellite-distributed-cloud/)
 * [us-east-2.console.aws.amazon.com/console/home?region=us-east-2#](https://us-east-2.console.aws.amazon.com/console/home?region=us-east-2#)
 * [shell.cloud.google.com/?walkthrough_tutorial_url=https%3A%2F%2Fwalkthroughs.googleusercontent.com%2Fcontent%2Fgke_cloud_code_create_app%2Fgke_cloud_code_create_app.md&show=ide&environment_deployment=ide&authuser=1&fromcloudshell=true](https://shell.cloud.google.com/?walkthrough_tutorial_url=https%3A%2F%2Fwalkthroughs.googleusercontent.com%2Fcontent%2Fgke_cloud_code_create_app%2Fgke_cloud_code_create_app.md&show=ide&environment_deployment=ide&authuser=1&fromcloudshell=true)
-
-## SORT
 
 * [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide)
 * [lightsail.aws.amazon.com/ls/webapp/create/instance?region=eu-central-1](https://lightsail.aws.amazon.com/ls/webapp/create/instance?region=eu-central-1)
@@ -1086,9 +1065,15 @@
 * [terminal - What causes this green background in ls output? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/94498/what-causes-this-green-background-in-ls-output)
 * [dzone.com/refcardz/designing-quality-software](https://dzone.com/refcardz/designing-quality-software)
 * [dzone.com/refcardz/refactoring-patterns](https://dzone.com/refcardz/refactoring-patterns)
-* [How Deno’s Founder Is Rebuilding the Runtime of the Web](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=885c7973ff&e=b5a8df9a4a) This article provides an overview of the Deno JavaScript/TypeScript  runtime and its features, highlighting its improved security, simplified  module system, and better developer experience compared to Node.js.* [Beautiful Branchless Binary Search](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=f825542ccb&e=b5a8df9a4a) This post explains how to implement a branchless binary search algorithm
- that is both faster and more power-efficient than traditional binary search algorithms. It provides a detailed  alkthrough of the implementation and offers benchmarks to showcase its effectiveness.* [Thoughtworks Technology Radar 28](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=2f07685780&e=b5a8df9a4a) A latest issue of the Technology Radar which is an opinionated guide to technology frontiers.* [The future of programming: Research at CHI 2023](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=9fce33eaae&e=b5a8df9a4a) Research on programming tools published at CHI 2023.* [Navigating the High Cost of AI Compute](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=8045e2278a&e=b5a8df9a4a)The generative AI boom is compute-bound and, as a result, a predominant factor driving the industry is simply the cost of training and inference.* [How LinkedIn Adopted A GraphQL Architecture for Product Development](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=debd7c2b1a&e=b5a8df9a4a) In our previous post on GraphQL, we explained how LinkedIn uses GraphQL to expedite the process of onboarding new use-cases for external API
-* partners. In this blog post, we will cover how the GraphQL layer is architected for use by our internal engineers to build member and customer facing applications. Specifically, we will dive into some of the architectural choices that are unique to LinkedIn and why we chose each one of them.* [Avoiding the Rewrite Trap](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=cdbca5b89f&e=b5a8df9a4a)Before you commit to rewriting an old system, here are some reasons it's (almost always) a bad idea.* [CLI tricks every developer should know](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=7c2af18da5&e=b5a8df9a4a) Learn some tips, tricks, and tools for mastering the command line from GitHub’s own developers.* [Using ChatGPT as a technical writing assistant](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=1ec1f7ac36&e=b5a8df9a4a) An experienced technical author explores using ChatGPT to assist with a  number of writing projects. He finds ChatGPT can provide time-savings through drafts and prompting for additional content, but lacks accuracy and depth - as well as suffering from bubbly optimism. Overall it is
+* [How Deno’s Founder Is Rebuilding the Runtime of the Web](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=885c7973ff&e=b5a8df9a4a) This article provides an overview of the Deno JavaScript/TypeScript  runtime and its features, highlighting its improved security, simplified  module system, and better developer experience compared to Node.js.
+* [Beautiful Branchless Binary Search](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=f825542ccb&e=b5a8df9a4a) This post explains how to implement a branchless binary search algorithm
+ that is both faster and more power-efficient than traditional binary search algorithms. It provides a detailed  alkthrough of the implementation and offers benchmarks to showcase its effectiveness.
+* [Thoughtworks Technology Radar 28](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=2f07685780&e=b5a8df9a4a) A latest issue of the Technology Radar which is an opinionated guide to technology frontiers.
+* [The future of programming: Research at CHI 2023](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=9fce33eaae&e=b5a8df9a4a) Research on programming tools published at CHI 2023.
+* [Navigating the High Cost of AI Compute](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=8045e2278a&e=b5a8df9a4a)The generative AI boom is compute-bound and, as a result, a predominant factor driving the industry is simply the cost of training and inference.* [How LinkedIn Adopted A GraphQL Architecture for Product Development](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=debd7c2b1a&e=b5a8df9a4a) In our previous post on GraphQL, we explained how LinkedIn uses GraphQL to expedite the process of onboarding new use-cases for external API
+* partners. In this blog post, we will cover how the GraphQL layer is architected for use by our internal engineers to build member and customer facing applications. Specifically, we will dive into some of the architectural choices that are unique to LinkedIn and why we chose each one of them.
+* [Avoiding the Rewrite Trap](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=cdbca5b89f&e=b5a8df9a4a)Before you commit to rewriting an old system, here are some reasons it's (almost always) a bad idea.
+* [CLI tricks every developer should know](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=7c2af18da5&e=b5a8df9a4a) Learn some tips, tricks, and tools for mastering the command line from GitHub’s own developers.* [Using ChatGPT as a technical writing assistant](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=1ec1f7ac36&e=b5a8df9a4a) An experienced technical author explores using ChatGPT to assist with a  number of writing projects. He finds ChatGPT can provide time-savings through drafts and prompting for additional content, but lacks accuracy and depth - as well as suffering from bubbly optimism. Overall it is
 * useful if you work iteratively, asking for small chunks with well-crafted prompts.* [Bootstrapping Uber’s Infrastructure on arm64 with Zig](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=343f76acc7&e=b5a8df9a4a) In November 2021 we decided to evaluate arm64 for Uber. Most of our services are written in either Go or Java, but our build systems only supported compiling to x86_64. Today, thanks to Open Source collaboration, Uber has a system-independent (hermetic) build toolchain
 * that seamlessly powers multiple architectures. We used this toolchain to  bootstrap our arm64 hosts. This post is a story with how we went about it, our early thinking, problems, some achievements, and next steps.* [eBay’s Blazingly Fast Billion-Scale Vector Similarity Engine](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=fea573defd&e=b5a8df9a4a) This article takes a look at the architecture we constructed for  vector-based similarity, meeting the scale using data sharding, partitioning and replication, and features including attribute-based features and a pluggable ANN backend based on index building, recall accuracy, latencies and memory footprint.
 * [freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/)

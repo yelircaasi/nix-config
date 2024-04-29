@@ -21,7 +21,7 @@
 * [exercism.org/tracks/x86-64-assembly/exercises/binary-search/solutions](https://exercism.org/tracks/x86-64-assembly/exercises/binary-search/solutions)
 * [exercism.org/tracks/x86-64-assembly/exercises/collatz-conjecture/solutions](https://exercism.org/tracks/x86-64-assembly/exercises/collatz-conjecture/solutions)
 
-## Low-Level
+## Low-Level Reading
 
 * [How Binary Works](https://youtu.be/PMpNhbMjDj0)
 * [Book: Numbers and Computers](http://library.lol/main/0ED6B117074071DF946B58FF8AEDD36A)
@@ -31,7 +31,7 @@
 * [Embedded Systems with ARM Cortex-M Microcontrollers in Assembly Language and C](https://web.eece.maine.edu/~zhu/book/)
 * [Apress/learn-to-program-w-assembly](https://github.com/Apress/learn-to-program-w-assembly)
 
-## Boot etc.
+## Boot etc
 
 * [de.wikipedia.org/wiki/Bootloader](https://de.wikipedia.org/wiki/Bootloader)
 * [de.wikipedia.org/wiki/Grand_Unified_Bootloader](https://de.wikipedia.org/wiki/Grand_Unified_Bootloader)
@@ -161,7 +161,7 @@
 
 ### SORT
 
-look into Risc-V
+* -> look into Risc-V
 * [What is Microarchitecture?](https://www.computerhope.com/jargon/m/microarchitecture.htm)
 * [hackaday.com/2023/06/18/learning-x86_64-assembly-by-building-a-gui-from-scratch/](https://hackaday.com/2023/06/18/learning-x86_64-assembly-by-building-a-gui-from-scratch/)
 * [Контроллеры (ПЛК)](https://vk.com/wall-16108331_152245)
@@ -328,7 +328,7 @@ look into Risc-V
 * [Formal Languages and Compilation (3rd Edition) | Stefano Crespi Reghizzi, Luca Breveglieri, Angelo Morzenti | download](https://b-ok.cc/book/4982692/2781e2?dsource=recommend)
 * [Free Binary Translator | Translate Binary Code to Text - BinaryTranslator.com](http://www.binarytranslator.com/)
 * [How does learning assembly aid in programming? - Software Engineering Stack Exchange](https://softwareengineering.stackexchange.com/questions/156722/how-does-learning-assembly-aid-in-programming)
-* [How to tell which part of the source code a function is using [google.com/search?q=how+to+tell+which+part+of+the+source+code+a+function+is+using&rlz=1C5CHFA_enUS800US800&oq=how+to+tell+which+part+of+the+source+code+a+function+is+using&aqs=chrome..69i57j69i64.11374j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=how+to+tell+which+part+of+the+source+code+a+function+is+using&rlz=1C5CHFA_enUS800US800&oq=how+to+tell+which+part+of+the+source+code+a+function+is+using&aqs=chrome..69i57j69i64.11374j0j7&sourceid=chrome&ie=UTF-8)](https://www.google.com/search?q=how+to+tell+which+part+of+the+source+code+a+function+is+using&rlz=1C5CHFA_enUS800US800&oq=how+to+tell+which+part+of+the+source+code+a+function+is+using&aqs=chrome..69i57j69i64.11374j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=how+to+tell+which+part+of+the+source+code+a+function+is+using&rlz=1C5CHFA_enUS800US800&oq=how+to+tell+which+part+of+the+source+code+a+function+is+using&aqs=chrome..69i57j69i64.11374j0j7&sourceid=chrome&ie=UTF-8))
+* google search: how to tell which part of the source code a function is using
 * [binarytranslator.com/](http://www.binarytranslator.com/)
 * [r/askscience/comments/2b24y7/what_happens_inside_the_computer_when_i_run_a/](https://www.reddit.com/r/askscience/comments/2b24y7/what_happens_inside_the_computer_when_i_run_a/)
 * [en.wikipedia.org/wiki/Low-level_programming_language](https://en.wikipedia.org/wiki/Low-level_programming_language)
@@ -415,7 +415,7 @@ FPGAs
 * [Large number (Project Euler #10)](https://forum.nasm.us/index.php?topic=1675.0)
 * [NASM - The Netwide Assembler - Index](https://forum.nasm.us/index.php?PHPSESSID=vre8di58ggnkki0ok567rtvo4b&)
 * [NASMX download](https://sourceforge.net/projects/nasmx/)
-* [thlorenz/nasmx: The NASMX Project (manually maintained mirror) Documentation: [thlorenz.github.io/nasmx](https://thlorenz.github.io/nasmx)](https://thlorenz.github.io/nasmx](https://thlorenz.github.io/nasmx))
+* [thlorenz/nasmx: The NASMX Project (manually maintained mirror) Documentation: [thlorenz.github.io/nasmx](https://thlorenz.github.io/nasmx)
 * [NASMX](http://assembler.com.ua/viki/117-nasmx)
 * [Ассемблер | сайт языка ассемблера](http://assembler.com.ua/)
 * [ассемблер уроки](http://assembler.com.ua/lessons-assembly)
@@ -451,7 +451,7 @@ FPGAs
 * [From Nand to Tetris Part 2](https://www.youtube.com/playlist?list=PLrDd_kMiAuNmllp9vuPqCuttC1XL9VyVh)
 * [Gynvael's Asm (PL)](https://www.youtube.com/playlist?list=PL7CA8FE35B665D4DD)
 * [Программирование с нуля.ассемблер](https://youtube.com/playlist?list=PLP6-uXxKE5Nuvajs8J9NeuoaPRGZwUlaG)
-* [...](https://www.youtube.com/playlist?list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn](https://www.youtube.com/playlist?list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn))
+* [...](https://www.youtube.com/playlist?list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn)
 * [Assembly Language Tutorial](http://www.pravaraengg.org.in/Download/MA/assembly_tutorial.pdf)
 * [learn assembly language pdf - Поиск в Google](https://www.google.com/search?q=learn+assembly+language+pdf&rlz=1C1GCEA_enUS820&oq=learn+assembly+language+pdf&aqs=chrome..69i57j0l5.5111j0j4&sourceid=chrome&ie=UTF-8)
 * [x86 Assembly Language Programming](https://cs.lmu.edu/~ray/notes/x86assembly/)

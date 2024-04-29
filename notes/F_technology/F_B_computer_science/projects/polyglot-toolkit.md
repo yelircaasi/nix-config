@@ -34,7 +34,7 @@
 * [mirror/busybox: BusyBox mirror](https://github.com/mirror/busybox)
 * [Alpine Linux](https://wiki.alpinelinux.org/wiki/Main_Page)
 * [alpinelinux/apk-tools: [MIRROR] Alpine package manager](https://github.com/alpinelinux/apk-tools)
-* [try this: [dvc.org/doc/user-guide/data-management/remote-storage/google-drive](https://dvc.org/doc/user-guide/data-management/remote-storage/google-drive)](https://dvc.org/doc/user-guide/data-management/remote-storage/google-drive](https://dvc.org/doc/user-guide/data-management/remote-storage/google-drive)) → for parallel text data and also for my own pdfs
+* [try this:](https://dvc.org/doc/user-guide/data-management/remote-storage/google-drive) → for parallel text data and also for my own pdfs
 * [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template)
 
         add Epictetus' works:
@@ -549,8 +549,8 @@
 * [Aglona Reader](https://sites.google.com/site/aglonareader/home/lang-de)
 
         Aglona, PB
-* [BlueD/Aglona-Reader: Aglona Reader for .NET - A program for reading, creating and editing parallel books (books in two languages) in the original ParallelBook format. Home site of the project: [sites.google.com/site/aglonareader/](https://github.com/BlueD/Aglona-Reader)](https://sites.google.com/site/aglonareader/](https://github.com/BlueD/Aglona-Reader))
-* [Inego/Aglona-Reader: Aglona Reader for .NET - A program for reading, creating and editing parallel books (books in two languages) in the original ParallelBook format. Home site of the project: [sites.google.com/site/aglonareader/](https://github.com/Inego/Aglona-Reader)](https://sites.google.com/site/aglonareader/](https://github.com/Inego/Aglona-Reader))
+* [BlueD/Aglona-Reader: Aglona Reader for .NET - A program for reading, creating and editing parallel books (books in two languages) in the original ParallelBook format. Home site of the project:](https://github.com/BlueD/Aglona-Reader)
+* [Inego/Aglona-Reader: Aglona Reader for .NET - A program for reading, creating and editing parallel books (books in two languages) in the original ParallelBook format. Home site of the project:](https://github.com/Inego/Aglona-Reader)
 * [Initial version for Git. · Inego/Aglona-Reader@e7ea4c0](https://github.com/Inego/Aglona-Reader/commit/e7ea4c03bf6e317a7a4666dec2977d043fc91185)
 * [Inego/Aglona-Reader](https://github.com/Inego/Aglona-Reader)
 * [Inego/Aglona-Reader-Android](https://github.com/Inego/Aglona-Reader-Android)
@@ -1374,37 +1374,37 @@
 
 ## Grecromancer
 
-# grecromancer (Classics TTS)
+## grecromancer (Classics TTS)
 
 * Name ideas: GrecRomancer (from Necromancer
 * To do: Divide into smaller sub-projects.
 
-# Data Ideas
+### Data Ideas
 
 * Align at word level by pre-trained ASR:
 * get output or intermediate output in another language (Italian for Latin, Italian / Modern Greek / Russian for Greek)
 * recover temporal alignment
 * align Latin / greek characters / syllables to corresponding best match in ASR output
-    * dynamic programming approach?
-    * beam search?
-    * forced alignment → look into off-the-shelf
+  * dynamic programming approach?
+  * beam search?
+  * forced alignment → look into off-the-shelf
 * using the time stamps for each word (ideally with both loose and tight to put bounds on estimate of temporal location of word), create different permutations
 
-# IP Concerns
+### IP Concerns
 
 * 1. learn about relevant IP law and legal precedent
 * 2. decide whether to contact and collaborate with relevant speakers
 * → after impressive samples have been generated?
 
-# Resources
+### Resources
 
 * [Valerio Velardo - The Sound of AI](https://www.youtube.com/@ValerioVelardoTheSoundofAI/playlists)
 * [Digital speech processing](https://www.youtube.com/playlist?list=PLvv3PyiCcNrFuT7CEIvIr4a4g4orascx3)
 * [Deep Learning (for Audio) with Python](https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)
 * Polytonic Representation
-    * atomic: each breathing / vowel / accent combination treated as a separate character
-    → same for diphthongs?
-    * sequential: each
+  * atomic: each breathing / vowel / accent combination treated as a separate character
+  → same for diphthongs?
+  * sequential: each
 * ASR and Alignment
 * [ ]  [xinjli/allosaurus](https://github.com/xinjli/allosaurus)
 * [ ]  [readbeyond/aeneas](https://github.com/readbeyond/aeneas)
@@ -1576,7 +1576,7 @@
 * 68. [Callimachus 2 in reconstructed ancient Greek pronunciation](https://www.youtube.com/watch?v=UXmpHKTuGGM)
 * 69. [Theogony 1-21 spoken in reconstructed Ancient Greek](https://www.youtube.com/watch?v=WjgnVvI1H7g)
 
-# Audiobooks in spoken Ancient Greek Language
+## Audiobooks in spoken Ancient Greek Language
 
 * [HIPPOCRATES the Medical Oath](https://ancientgreek.eu/free/oath.html) 4 / 0
 * [BERESFORD & DOUGLAS A First Greek Reader](https://ancientgreek.eu/edu/first-greek-reader.html) 106 / -

@@ -1,8 +1,6 @@
 # Work Notes
 
-## left-right mappings for table parsing!
-
-##
+## left-right mappings for table parsing
 
 * move cv-analysis to gpu, rewrite in cpp with pybind11 and parallelize everything
 [evilmartians/lefthook](https://github.com/evilmartians/lefthook)
@@ -25,21 +23,14 @@ add deskew keyword to cv-analysis service
 * [fasttext.cc/docs/en/aligned-vectors.html](https://fasttext.cc/docs/en/aligned-vectors.html)
 * image_classification_service...parsable.py
 * visual-layout-parsing...stream.py
-
-... .clip()
-
-... .pixmap()
 * Graph-based approaches for Documine: Graph mining, cluster analysis
 * KundenProjekte/syngenta
 * Look into convolutional filter-based dotted line detection
 * Look into filter-based headline detection
-
-[chulwoopack/docstrum](https://github.com/chulwoopack/docstrum)
-
-[ieeexplore.ieee.org/abstract/document/244677](https://ieeexplore.ieee.org/abstract/document/244677)
+* [chulwoopack/docstrum](https://github.com/chulwoopack/docstrum)
+* [ieeexplore.ieee.org/abstract/document/244677](https://ieeexplore.ieee.org/abstract/document/244677)
 * deskewing: use Gini coefficient? variance?
-
--> make all places pull from angles in .yaml
+* -> make all places pull from angles in .yaml
 * joint output? -> sign probability, regression, binary classification
 
 ### DHL
@@ -114,6 +105,7 @@ add deskew keyword to cv-analysis service
 * a_t = \pi_\theta (\cdot | s_t)
 
 ```
+
 * 0. path enumeration
 * 1. recognition of corresponding entities (values)
    (rule-based) -> by type: string, num, date
@@ -122,8 +114,8 @@ add deskew keyword to cv-analysis service
 * 4. generate rule space -> as tree
    `f_i(path) = value` -> list of candidate rules
 * 5. increment rule score for each rule generating correct output    operations:    * identit
-    * numerical transformation (solve by e.g. regression
-    * string operations: substring,character mapping, casing, substring transposition
+  * numerical transformation (solve by e.g. regression
+  * string operations: substring,character mapping, casing, substring transposition
 
 ### ML Pipelines
 
@@ -172,10 +164,10 @@ add deskew keyword to cv-analysis service
 * [configparser — Configuration file parser — Python 3.11.2 documentation](https://docs.python.org/3/library/configparser.html#module-configparser)
 * [Env vars - Dynaconf - 3.1.11](https://www.dynaconf.com/envvars/)
 
-# Logging
+## Logging
 
-* JSON        * [baeldung.com/java-log-json-output](https://www.baeldung.com/java-log-json-output)
-* [Marius Schummer: [knecon.atlassian.net/wiki/spaces/PM/pages/118784001/2023-...](https://teams.microsoft.com/l/message/19:meeting_YTBkZGY0YmYtZDQ5NS00NDliLThkZmEtNmI3NzQwZTcwZjJj@thread.v2/1697112494142?context=%7B%22contextType%22%3A%22chat%22%7D)](https://knecon.atlassian.net/wiki/spaces/PM/pages/118784001/2023-...](https://teams.microsoft.com/l/message/19:meeting_YTBkZGY0YmYtZDQ5NS00NDliLThkZmEtNmI3NzQwZTcwZjJj@thread.v2/1697112494142?context=%7B%22contextType%22%3A%22chat%22%7D))
+* [baeldung.com/java-log-json-output](https://www.baeldung.com/java-log-json-output)
+* [Marius Schummer: [knecon.atlassian.net/wiki/spaces/PM/pages/118784001/2023-...](https://teams.microsoft.com/l/message/19:meeting_YTBkZGY0YmYtZDQ5NS00NDliLThkZmEtNmI3NzQwZTcwZjJj@thread.v2/1697112494142?context=%7B%22contextType%22%3A%22chat%22%7D)
 * [dev.to/gauthierplm/how-to-output-log4j2-logs-as-json-5an3](https://dev.to/gauthierplm/how-to-output-log4j2-logs-as-json-5an3)
 * [spring.io/blog/2022/10/12/observability-with-spring-boot-3](https://spring.io/blog/2022/10/12/observability-with-spring-boot-3)
 * [aspecto.io/blog/distributed-tracing-for-rabbitmq-with-opentelemetry-in-node/](https://www.aspecto.io/blog/distributed-tracing-for-rabbitmq-with-opentelemetry-in-node/)
@@ -201,7 +193,7 @@ add deskew keyword to cv-analysis service
 * [A guided tour of Python logging PyCon AU PyCon AU • • 14.555 visualizaciones hace 4 años](https://www.youtube.com/watch?v=DxZ5WEo4hvU)
 * [Why … - structlog 22.3.0 documentation](https://www.structlog.org/en/stable/why.html)
 
-# Instantli
+# Instantli2
 
 # NLQ
 
@@ -457,14 +449,6 @@ export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/usr/lib/x86_64-linux-gnu”
 * Face Detection        * [[RED-6050] Integration of face detection - IQSER Jira](https://jira.iqser.com/browse/RED-6050)
 * Work        * [src/ner/spacy/evaluation.py · bdr-annotation · Knecon / Research / ner-annotation · GitLab](https://gitlab.knecon.com/knecon/research/ner-annotation/-/blob/bdr-annotation/src/ner/spacy/evaluation.py)
 * [EudyContreras/Chronox.NetCore](https://github.com/EudyContreras/Chronox.NetCore)
-    # rtd update
-* Hello,
-* The Read the Docs build system will start requiring a configuration file v2 () starting on
-* September 25, 2023
-* Monday, July 24, 2023: Do the first brownout (temporarily enforce this deprecation) for 12 hours: 00:01 PST to 11:59 PST (noon)
-* Monday, August 14, 2023: Do a second brownout (temporarily enforce this deprecation) for 24 hours: 00:01 PST to 23:59 PST (midnight)
-* Monday, September 4, 2023: Do a third and final brownout (temporarily enforce this deprecation) for 48 hours: 00:01 PST to September 5, 2023 23:59 PST (midnight)
-* Monday, September 25, 2023: Fully remove support for building documentation without configuration file v2.
 * [yelircaasi-demo](https://readthedocs.org/projects/yelircaasi-demo/)
 * Keep documenting,Read the Docs        * [Python | onnxruntime](https://onnxruntime.ai/docs/get-started/with-python.html#quickstart-examples-for-pytorch-tensorflow-and-scikit-learn)
 * [nlq](https://ml.azure.com/?wsid=/subscriptions/4b9531fc-c5e4-4b11-8492-0cc173c1f97d/resourcegroups/isaac.riley-rg/providers/Microsoft.MachineLearningServices/workspaces/nlq-azureml&tid=b44be368-e4f2-4ade-a089-cd2825458048)

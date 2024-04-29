@@ -21,54 +21,54 @@
 * [Fascismo IT](https://libgen.is/book/index.php?md5=B16CFE9D5626B86FA7509F965C7446D3)
 * [librarius.com/cantales.htm*](http://www.librarius.com/cantales.htm*)
 * [Learn Levantine Arabic YT](https://www.youtube.com/channel/UCb7oMrqwZnr3ZCayqnkkb8w)
-*     Human GAN for pronunciation: 2 native speakers, 1 discriminator, 1 pronouncer, non-native speaker generator
-*     Левиатан (фильм)
+* Human GAN for pronunciation: 2 native speakers, 1 discriminator, 1 pronouncer, non-native speaker generator
+* Левиатан (фильм)
 * [babel.hathitrust.org/cgi/pt?id=hvd.hn4rae;view=1up;seq=9](https://babel.hathitrust.org/cgi/pt?id=hvd.hn4rae;view=1up;seq=9)
-*     Pericla navarchi Magonis
+* Pericla navarchi Magonis
 * [babel.hathitrust.org/cgi/pt?id=njp.32101059045284;view=1up;seq=243](https://babel.hathitrust.org/cgi/pt?id=njp.32101059045284;view=1up;seq=243)
-*     Mons Spes, et novellæ aliæ
-*     Taiwan Books
-*     心灵维他命：培养孩子定见的特質
-*     有个老父親和他的兒子一起趕著驢子到附近市場上去賣
+* Mons Spes, et novellæ aliæ
+* Taiwan Books
+* 心灵维他命：培养孩子定见的特質
+* 有个老父親和他的兒子一起趕著驢子到附近市場上去賣
 * [ancientgreek.pressbooks.com/chapter/1/*](https://ancientgreek.pressbooks.com/chapter/1/*)
 * [Harris - Cuteness](https://www.jstor.org/stable/40548402?seq=1)
 * [gutenberg.org/cache/epub/46456/pg46456-images.html](http://www.gutenberg.org/cache/epub/46456/pg46456-images.html)
-*     MYSTERIUM ARCAE BOULÉ
+* MYSTERIUM ARCAE BOULÉ
 * [southparkz.net/](http://southparkz.net/)
 * [briefly.ru/dostoevsky/besy/](https://briefly.ru/dostoevsky/besy/)
 * [frcoulter.com/latin/links.html](http://frcoulter.com/latin/links.html)
 * [textkit.com/greek-latin-forum/viewtopic.php?t=60896](https://www.textkit.com/greek-latin-forum/viewtopic.php?t=60896)
-*     LLPSI Audio
+* LLPSI Audio
 * [gutenberg.org/files/46768/46768-h/46768-h.htm](http://www.gutenberg.org/files/46768/46768-h/46768-h.htm)
-*     Iulius Caesar
+* Iulius Caesar
 * [gutenberg.org/files/50732/50732-h/50732-h.htm](http://www.gutenberg.org/files/50732/50732-h/50732-h.htm)
-*     Rebilius Cruso
-*     Vinculae
+* Rebilius Cruso
+* Vinculae
 * [latinitium.com/spoken-latin](https://www.latinitium.com/spoken-latin)
 * [multilingualbooks.com/freelessons-latin.html](http://multilingualbooks.com/freelessons-latin.html)
 * [surfacelanguages.com/language/Latin](https://www.surfacelanguages.com/language/Latin)
 * [latinitium.com/latin-audio-video](https://www.latinitium.com/latin-audio-video)
 * [video](https://www.youtube.com/channel/UCEekt9eu1g-yEGq6XUlRSIg)
-*     Evan der Milner
+* Evan der Milner
 * [lrc.la.utexas.edu/eieol/latol/00](https://lrc.la.utexas.edu/eieol/latol/00)
 * [video](https://www.youtube.com/playlist?list=PLEE440D6A8DCBA478)
-*     London course
+* London course
 * [latinteach.com/Site/RESOURCES/Entries/2007/9/13_Communicating_in_Latin.html](http://www.latinteach.com/Site/RESOURCES/Entries/2007/9/13_Communicating_in_Latin.html)
 * [areena.yle.fi/1-1931339](https://areena.yle.fi/1-1931339)
 * [textkit.com/greek-latin-forum/viewtopic.php?t=64529](https://www.textkit.com/greek-latin-forum/viewtopic.php?t=64529)
 * [textkit.com/greek-latin-forum/viewtopic.php?t=5880](https://www.textkit.com/greek-latin-forum/viewtopic.php?t=5880)
-*     Medien*
+* Medien*
 * [Linke Medien - DIE LINKE Köln](https://die-linke-koeln.de/linke-medien/)
-*     Books*
+* Books*
 * [...isms. Understanding Modern Art](https://vk.com/doc35528094_465774486?hash=7077f671ee5f85d010&dl=e5b8ff8748ce57fca2)
-*     Andy Warhol*
+* Andy Warhol*
 * [Arquitectura para Dummies - Deborah K. Dietsh.epub](https://vk.com/doc503898380_480323966?hash=2c035032fee393a7b8&dl=5e5bf5ca589ac54e7f)*
 * [Entertainment Science_Thorsten Hennig-Thurau, Mark B. Houston_1st ed. 2019](http://link.springer.com/openurl?genre=book&isbn=978-3-319-89292-4)
-*     Leyes de Murphy*
+* Leyes de Murphy*
 * [Media and Digital Management_Eli M. Noam_1st ed. 2019](http://link.springer.com/openurl?genre=book&isbn=978-3-319-72000-5)*
 * [Medieval Fantasy | Best Fantasy Books](http://bestfantasybooks.com/medieval-fantasy.html)*
 * [Philologie und Lexikographie](https://vk.com/doc-172995590_511044051?hash=6df92fd42be778d8c9&dl=7b92cbf1f46690dbb8)
-*     Storia dell'arte italiana (Argan)*
+* Storia dell'arte italiana (Argan)*
 * [Sulla letteratura](https://libgen.is/search.php?req=sulla+letteratura&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)*
 * [The Fashion Encyclopedia](https://vk.com/doc60798553_468395159?hash=4f84b05c3c345b6e83&dl=90e58c25064249b6da)*
 * [Writing for Publication_Mary Renck Jalongo, Olivia N. Saracho_1st ed. 2016](http://link.springer.com/openurl?genre=book&isbn=978-3-319-31650-5)
@@ -92,8 +92,8 @@
 * [Os segredos da obra 'Cem Anos de Solidão', de Gabriel García Marquez - Revista Prosa Verso e Arte](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.revistaprosaversoearte.com%2Fos-segredos-da-obra-cem-anos-de-solidao-de-gabriel-garcia-marquez%2F%3Ffbclid%3DIwAR3wYAhL_JsxT5xU-t2rvmV31DPm4RYcFAEMp0Sx9QXF8110_GGK6Wpdumk&h=AT37v06MFIHBC2in79GOWUthpBQ2JwU9dXjknaoKysCHWv7ZUqx50LMJTG4S8dugOrCtYQPh11z6ehsX7TdIfR6tL9995qxqlcdzDJNlNw103-ge7eXSR_kJX-QXinS1JuPsqE0CvYRp2U6ofnhH)*
 * [Verossimilhança](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.ernaniterra.com.br%2Fverossimilhanca%2F%3Ffbclid%3DIwAR05LU2YKyIqCpzl5DP9j7Asz-oRgNwK7nYfXyuR_9YOCXovRnJQU4jUujk&h=AT2iabQmMKWehMsBi3svIcqZbBzMDQ4H5MDg_HtWgGGpFCO9KS7yNmeNL_8Zolf-1DN1iXE5M2K8ZTCXiU9YRAdyqPZczXPNuOw1ovN-BhYWSt7ZHkO6LQdvf997KmU1SgWT7PTkbA)*
 * [15 documentários sobre o Samba para assistir e estudar - Revista Prosa Verso e Arte](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.revistaprosaversoearte.com%2F15-documentarios-sobre-o-samba-para-assistir-e-estudar%2F%3Ffbclid%3DIwAR1o4GpW9K-Z1G3dWPpska3mXUkKnXFP9nUB9XjH2rP5J2PKMdkex4Jo878&h=AT0RO0I6zTlQWksIYyLu-tQ3ArsauU4SOJkHIhsGMXXa_JAxFkUsRmw5OhW4RMcDkzKfeD0MWv7fw1gHH8LnuD8kOjaDaFyeKnDfbtbEE6zR4ZMV8yvzGypLLoErKXGUjVvCtqUCXCCsIYjogguO)
-*     *[ernaniterra.com.br/*](https://www.ernaniterra.com.br/*)
-*     *[revistaprosaversoearte.com/**](https://www.revistaprosaversoearte.com/**)
+* *[ernaniterra.com.br/*](https://www.ernaniterra.com.br/*)
+* *[revistaprosaversoearte.com/**](https://www.revistaprosaversoearte.com/**)
 * [Charlie Chaplin A HISTÓRIA QUE POUCOS CONHECEM](https://www.facebook.com/watch/?ref=saved&v=601336584063555)**
 * [Mashable](https://www.youtube.com/c/Mashable)*
 * [ReadingBookChannel](https://www.youtube.com/user/ReadingBookChannel)*
@@ -118,25 +118,25 @@
 * [Kai47](https://www.youtube.com/c/Kai47)*
 * [KinoCheck Home](https://www.youtube.com/channel/UCV297SPE0sBWzmhmACKJP-w)*
 * [The Ultimate Game of Thrones Recap Seasons 1 - 7](https://www.youtube.com/watch?v=HaRQaDjKShA&list=WL&index=500)
-*     A Message to Young People from Andrei Tarkovsky
-*     Ce qu'on appelle littérature
-*     ГАРРИ ПОТТЕР И 10 ТУПЫХ ВЕЩЕЙ, которые все портят [ТОПот Сокола]*
+* A Message to Young People from Andrei Tarkovsky
+* Ce qu'on appelle littérature
+* ГАРРИ ПОТТЕР И 10 ТУПЫХ ВЕЩЕЙ, которые все портят [ТОПот Сокола]*
 * [Umberto Eco – Perché i classici](https://www.youtube.com/watch?v=EJnbpWnMbD0&list=WL&index=330)
-*     Märchenzauber - der Trailer zum Buch
-*     ¿Qué tal otro chiste, Murray? | Joker [UltraHD, HDR]*
+* Märchenzauber - der Trailer zum Buch
+* ¿Qué tal otro chiste, Murray? | Joker [UltraHD, HDR]*
 * [Rings & Their Meaning, Symbolism For Men - What Finger(s) To Wear A Ring On](https://www.youtube.com/watch?v=Jz6l-w7a8N8&list=WL&index=1354)*
 * [Федор Достоевский. Биография Достоевского. Интересные Факты о Достоевском. Жизнь Достоевского Кратко](https://www.youtube.com/watch?v=MJQvDIGiVOE&list=WL&index=1350)*
 * [La Historia de Sirius Black](https://www.youtube.com/watch?v=ins1kkLPlXI&list=WL&index=193)
-*     Lost' Explained in Under 4 Minutes | Mashable TL;DW*
+* Lost' Explained in Under 4 Minutes | Mashable TL;DW*
 * [De onde vêm os signos | Nerdologia](https://www.youtube.com/watch?v=az6R9amrNjc&list=WL&index=1349&t=118s)
-*     70 FILMS À VOIR EN 2020 !*
+* 70 FILMS À VOIR EN 2020 !*
 * [Der schöpferische Imperativ: Gunter Dueck at TEDxRheinMain](https://www.youtube.com/watch?v=gTqjljKxTDk&list=WL&index=44)*
 * [Devenez un meilleur orateur : imitez les autres ! | Pascal Haumont | TEDxInstitutMinesTélécom](https://www.youtube.com/watch?v=3LCIQj5Bf7E&list=WL&index=404)*
 * [Comment l'art est impacté par les nouvelles technologies ? | Cyrus North | TEDxValenciennes](https://www.youtube.com/watch?v=cs6iaTdu_8g&list=WL&index=428)*
 * [Literatura Fundamental 32 - "1984 - George Orwell" - Mayumi Ilari](https://www.youtube.com/watch?v=VL-sjRG4aC0&list=WL&index=111)*
 * [Crimen y Castigo](https://www.youtube.com/watch?v=UaENUY5a0hA&list=WL&index=19)*
 * [МОНАХ и БЕС / Смотреть весь фильм HD](https://www.youtube.com/watch?v=YzZ-aDFtZyU&list=WL&index=432)
-*     П’єса «У селі Анатівка» (Тев'є-молочник) до 75-річчя з дня заснування газети «Волинь-нова»*
+* П’єса «У селі Анатівка» (Тев'є-молочник) до 75-річчя з дня заснування газети «Волинь-нова»*
 * [Собачье сердце - Неизвестная версия](https://www.youtube.com/watch?v=hyrZwCX1Y3k&list=WL&index=273)*
 * [Философия безделья в романе «Обломов» — Борис Прокудин / ПостНаука](https://www.youtube.com/watch?v=uBX8ATCCNUw&list=WL&index=1308)*
 * [Has anyone mapped the art world's shifting tastes in theory over the last 30 years? A lot of Deleuze, Butler and Derrida in the 2000s, Ranciere and Latour in the 2010s... the survey would also give a nice tableau of how the art world justifies its role in capitalism over time.](https://twitter.com/AntonJaegermm/status/1276619920235802624?s=20)*
@@ -149,7 +149,7 @@
 * [Экранизации произведений Фёдора Михайловича Достоевского.](https://vk.com/wall-36047336_94379)*
 * [Эрмитаж](https://vk.com/wall-36047336_92610)*
 * [10 серьезных научно-фантастических фильмов](https://vk.com/wall-37160097_259652)
-*     100 великих мифов и легенд*
+* 100 великих мифов и легенд*
 * [43 упражнения для развития писательского мастерства!](https://vk.com/wall-124609314_126255)*
 * [Arthur Rimbaud, l'homme aux semelles de vent](https://vk.com/wall-98831559_551)*
 * [Аверин Б.В. - Лекции по русской литературе и другие спецкурсы](https://vk.com/wall-44450892_128851)*
@@ -157,7 +157,7 @@
 * [Введение в историю искусства](https://vk.com/wall-52526415_47548)*
 * [Русские народные сказки для уютного семейного вечера](https://vk.com/wall-172266857_362)*
 * [Стивен Фрай «Миф: Греческие мифы в пересказе» (аудио)](https://vk.com/wall-3868547_80653)
-*     ТОП подборка из самых лучших фильмов 90-х, которые мы пересматриваем чаще других*
+* ТОП подборка из самых лучших фильмов 90-х, которые мы пересматриваем чаще других*
 * [Учим шведский с триллером-ужастиком "Черное озеро"](https://vk.com/wall-42012066_19136)*
 * [Художественные фильмы о женщинах](https://vk.com/wall-52526415_43520)*
 * [Цикл лекций «Мифология» профессора Александры Барковой](https://vk.com/wall-64497138_27007)*
@@ -176,25 +176,25 @@
 * [Известные русские писатели: биографии и произведения](https://vk.com/wall-41887171_112772)*
 * [Искусство видеть: 8 лекций о картинах, фотографиях, музеях и домах](https://vk.com/wall-37160097_273913)*
 * [Курс лекций по мифологии](https://vk.com/wall-37428214_50674)
-*     Лекции Анны Владимирской "Психология искусства"*
+* Лекции Анны Владимирской "Психология искусства"*
 * [Лекция Ю.А. Лысяковой об античной мифологии](https://vk.com/video-172266857_456239018?list=cc81299209353665dc)*
 * [М. Бланшо "Пространство литературы" #27](https://vk.com/podcast-149042611_456239126)*
 * [Мифология, сказка, фольклор](https://vk.com/wall-6827569_29148)*
 * [Complete Review](http://www.complete-review.com/main/main.html)
 * [briefly.ru/](https://briefly.ru/)
-*     Камасутра для оратора*
+* Камасутра для оратора*
 * [Сериал Хорошее место](http://baskino.me/serial/18662-v-luchshem-mire-horoshee-mesto.html)
 * [terathon.com/blog/so-you-want-to-write-a-technical-book/](http://terathon.com/blog/so-you-want-to-write-a-technical-book/) *
 * H.B
 * * - Reading List - H.B
-*     resources*
+* resources*
 * [Art History RU](https://vk.com/wall-90850349_74969)*
 * [Soloneba (Arte)
 * [Menselijke Anatomie voor Kunstenaars](http://library.lol/main/59B9227136F32857DAE3FB04BA7AFC01)*
 * [Why Is That Art Aesthetics and Criticism of Contemporary Art, 3rd Edition.pdf](https://vk.com/doc348852382_479143711?hash=5be945443956f0fd22&dl=b00692641333a0c6b4)*
 * [Законы простоты Дизайн. Технологии. Бизнес. Жизнь.PDF](https://vk.com/doc299005270_518830440?hash=557b7e8ce4130d71e6&dl=7f5d96934ea320e3ff)*
 * [Gerhard Richter](http://www.gerhard-richter.com/)
-*     What do animators need to learn during their studies and beyond? What separates the very best?
+* What do animators need to learn during their studies and beyond? What separates the very best?
 * [honors.byu.edu/content/great-works-art](http://honors.byu.edu/content/great-works-art)
 * [welt.de/reise/staedtereisen/article152112796/Diese-20-Museen-muss-man-unbedingt-gesehen-haben.html](http://www.welt.de/reise/staedtereisen/article152112796/Diese-20-Museen-muss-man-unbedingt-gesehen-haben.html)
 * [travelbook.de/welt/ranking-die-besten-und-beliebtesten-museen-der-welt-und-in-Deutschland-693072.html](http://www.travelbook.de/welt/ranking-die-besten-und-beliebtesten-museen-der-welt-und-in-Deutschland-693072.html)
@@ -207,7 +207,7 @@
 * [L'histoire de l'art](https://www.youtube.com/watch?v=zyREXxn7xCo)*
 * [ART TERMS IN ACTION](https://www.youtube.com/results?search_query=ART+TERMS+IN+ACTION)
 * [video](https://www.youtube.com/results?search_query=th%C3%A9ories+de+l%27art)
-*     dibujo
+* dibujo
 * [video](https://www.youtube.com/playlist?list=PLQQcIuChTgLAJ5rLmZhJxxDifgJMXvN4K)
 * [perfektzeichnen.de/grundkurs-.html](http://perfektzeichnen.de/grundkurs-.html)
 * [artcyclopedia.com/index.html](http://www.artcyclopedia.com/index.html)
@@ -217,7 +217,7 @@
 * [connaissancedesarts.com/](https://www.connaissancedesarts.com/)
 * [historia-da-arte.info/](http://historia-da-arte.info/)
 * [amwaj.org.il/art/islam/islamic_art.html](http://amwaj.org.il/art/islam/islamic_art.html)
-*     arquitectura
+* arquitectura
 * [historyworld.net/wrldhis/PlainTextHistories.asp?ParagraphID=dov](http://www.historyworld.net/wrldhis/PlainTextHistories.asp?ParagraphID=dov)
 * [visual-arts-cork.com/architecture-history.htm](http://www.visual-arts-cork.com/architecture-history.htm)
 * [curbed.com/](http://www.curbed.com/)
@@ -250,7 +250,7 @@
 * [Best Rock Bands of All Time - Top Ten List - TheTopTens®](https://www.thetoptens.com/rock-bands/)*
 * [Best Rock Bands of All Time | List of Greatest Rock Artists](https://www.ranker.com/crowdranked-list/the-best-rock-bands-of-all-time)*
 * [best rock groups in other languages - Поиск в Google](https://www.google.com/search?q=best+rock+groups+in+other+languages&rlz=1C1GCEA_enUS814US814&oq=best+rock+groups+in+other+languages&aqs=chrome..69i57.6975j0j7&sourceid=chrome&ie=UTF-8)
-*     Brazil - 50 Songs | Bossa Nova, Samba, Latin Jazz, Música popular brasileira - YouTube*
+* Brazil - 50 Songs | Bossa Nova, Samba, Latin Jazz, Música popular brasileira - YouTube*
 * [25 Songs with a Saxophone Solo to Die For ⋆ Hear the Music Play](https://hearthemusicplay.com/25-songs-with-a-saxophone-solo-to-die-for/)*
 * [Top 11 songs featuring a saxophone solo - AXS](https://www.axs.com/top-11-songs-featuring-a-saxophone-solo-134591)*
 * [Top 15 Disney Songs (German) - YouTube](https://www.youtube.com/watch?v=GW1UEOytOcI)*
@@ -262,8 +262,8 @@
 * [What French music are you currently listening to?](https://www.reddit.com/r/French/comments/ebw8yb/what_french_music_are_you_currently_listening_to/)*
 * [Le 50 canzoni italiane più belle di sempre. O no? - Panorama](https://www.panorama.it/musica/le-50-canzoni-italiane-piu-belle-di-sempre-o-no/)
 * [destinations.com.ua/art/m1-music-awards-2016](http://destinations.com.ua/art/m1-music-awards-2016)
-*     Jain - Makeba - YouTube
-*     Vintage Brazil Touch - Best Of Vintage Brazilian Songs - YouTube
+* Jain - Makeba - YouTube
+* Vintage Brazil Touch - Best Of Vintage Brazilian Songs - YouTube
 * [npr.org/sections/deceptivecadence/2010/09/27/130157375/the-saddest-music-in-the-world-7-tunes-to-make-you-tear-up*](http://www.npr.org/sections/deceptivecadence/2010/09/27/130157375/the-saddest-music-in-the-world-7-tunes-to-make-you-tear-up*)
 * [úvod | antonin-dvorak.cz](http://www.antonin-dvorak.cz/uvod/)*
 * [Les meilleures Chansons De Z.a.z || Z.a.z Greatest Hits || Top Songs 2018 - YouTube](https://www.youtube.com/watch?v=mG6cGmpSQcU)
@@ -283,192 +283,192 @@
 * - Jazz*
 * [Slow Blues/ Blues Ballads 2 - A two hour long compilation - YouTube](https://www.youtube.com/watch?v=J9fOs1wcEv0)
 * * - To Sort (1)
-*     Koniec Świata - Oranżada
-*     Czakulec
-*     Chciałbym się jeszcze powłóczyć z Tobą, póki żyjemy i mam Cię obok. Zjechać z Tobą w dół po poręczy, wspólnie się wyczołgać z nędzy. Schować szczęście tu pod podłogą, zanim przyjadą i nas wywiozą. ...
-*     Zabili Mi Żółwia - Wiosna
-*     MrsSzalonaOna
-*     Piosenka zespołu Zabili Mi Żółwia pt. Wiosna Album: Uczucia w promocji 2006 Aktualny skład zespołu: Michał Wojnar - gł. wokal Dominik Barnaś - bas Karol Wieczorek - perkusja Wojciech Homa - akord...
-*     muchy - nie przeszkadzaj mi, bo tańczę
-*     muchy - profil oficjalny
+* Koniec Świata - Oranżada
+* Czakulec
+* Chciałbym się jeszcze powłóczyć z Tobą, póki żyjemy i mam Cię obok. Zjechać z Tobą w dół po poręczy, wspólnie się wyczołgać z nędzy. Schować szczęście tu pod podłogą, zanim przyjadą i nas wywiozą. ...
+* Zabili Mi Żółwia - Wiosna
+* MrsSzalonaOna
+* Piosenka zespołu Zabili Mi Żółwia pt. Wiosna Album: Uczucia w promocji 2006 Aktualny skład zespołu: Michał Wojnar - gł. wokal Dominik Barnaś - bas Karol Wieczorek - perkusja Wojciech Homa - akord...
+* muchy - nie przeszkadzaj mi, bo tańczę
+* muchy - profil oficjalny
 * [facebook.com/Muchyband](https://www.facebook.com/Muchyband) muchy - nie przeszkadzaj mi, bo tańczę. słowa: Michał Wiraszko muzyka: Damian Pielka, Tomasz Skórka, Szymon Waliszewski, Michał Wiraszko produkcja i realizacja:...
-*     Kumka Olik - Niepoprawnie kolorowych snów
-*     kumkaolik
-*     Teledysk do drugiego singla z płyty "Podobno nie ma już Francji".
-*     Kumka Olik - Zaspane poniedziałki
-*     kumkaolik
-*     Oficjalna wersja klipu "Zaspane poniedziałki" tylko na naszym youtube!
-*     VIXO "lifesaver"
-*     sebastyenn
-*     VIXO "lifesaver"
-*     The Washing Machine - Yeah, Yeah, Yeah
-*     TheWashingMachine1
-*     From the album "Into The Sun" (2011) (http://www.facebook.com/washingband) The Washing Machine is a rock band from Lodz - Poland. Album: [sklep.polskieradio.pl/Products/7033-into-the-sun-plyt...](http://sklep.polskieradio.pl/Products/7033-into-the-sun-plyt...)
-*     Kawałek Kulki - Kolegi Tata
-*     Nika Gitara
-*     Ka-Q - Kolegi Tata Jest Policjantem
-*     Anioły Stróże Na Niebieskich Łabędziach
-*     Latają Nad Nami !
-*     Twój Tata Jest Z Nimi !
-*     Jesteśmy Uratowani !
-*     Bring you back
-*     phoneboxpoland
-*     bring you back last song from new album
-*     Negatyw - Znikam
-*     fenixmusiclabel
-*     Zamów DVD Live10 na [live10.pl](http://www.live10.pl) Teledysk Zdjęcia i reżyseria: Dawid Meller Występuje: Marcin Pająk
-*     Psychocukier - Gwiazda
-*     ciapciap
-*     Piosenka z nadchodzącej, 3ej płyty zespołu Psychocukier pt. "Królestwo". reż. J. Grudzień, zdj.: M. Stajniak, mont.: C. Kowalczuk
-*     Brodka - Dancing Shoes (Kamp! remix)
-*     opiomelanocortin
-*     Dancing Shoes by Monika Brodka // remixed by Kamp! // orginal image: maciejlandsberg.com
-*     Kayah, Bregovic, Goran Bregovic - Prawy do lewego
-*     KayahTVVEVO
-*     Album Kayah „Kayah&Bregovic” dostępny na: [SonyMusicPoland.lnk.to/KayahBregovicAY](https://SonyMusicPoland.lnk.to/KayahBregovicAY) Więcej teledysków od Kayah: Testosteron: [youtu.be/x9QKRpALphM](https://youtu.be/x9QKRpALphM) Na językach: [youtu.be/dJbaMhT...](https://youtu.be/dJbaMhT...)
-*     ¿Qué es la vida?
-*     CdeCiencia
-*     El ser humano le ha buscado siempre un sentido a la vida. Muchas personas se preguntan a diario el porqué de su existencia. El porqué de la existencia de la vida. Pero este vídeo da un enfoque dife...
-*     ¿Son reales las matemáticas?
-*     Guus meeuwis ik wil met je lachen lyrics
-*     aape kop
-*     Guus Meeuwis-Het is een nacht (with English and Dutch lyrics)
-*     Müge YILDIRIM
-*     One of the most popular Dutch songs with both English and Dutch lyrics (Sorry for any translation mistakes, my Dutch is not perfect)
-*     Diamanter og kirsebær av John Olav Nilsen og gjengen (lyrics)
-*     Sol Storkaas
-*     Diamanter og kirsebær av John Olav Nilsen og gjengen, fra albumet "For sant til å være godt" (2009)
-*     Henning Kvitnes - Sånne som oss
-*     pjolterbeist
-*     Music video for norwegian artist Henning Kvitnes.
-*     Jonas Fjeld & Lynni Treekrem - Engler i sneen
-*     Cecilia Watnan
-*     A beautiful duett between Jonas Fjeld and Lynni Treekrem.
-*     Marius Müller - Carmen
-*     evelutionz
-*     En Liten Video jeg har laget dedikert til gitar legenden Marius Müller
-*     Morten Abel - Tore Tang
-*     ROFFERECS
-*     Morten Abel - Tore Tang
-*     Live Kulturby-åpningen Stavanger 12-1-2008.
-*     Je suis malade Lara Fabian French and English subtitles
-*     frenchrescue
-*     To watch my other videos with double subtitles, go there : [...](http://www.youtube.com/user/frenchrescue) "Je suis malade" by Lara Fabian (written by Jacques Brel, sung by Serge Lama and Dalida too). A...
-*     DumDum Boys - Stjernesludd
-*     Wardeen
-*     Singel fra DumDum Boys, utgitt i 1997.
-*     Morten Abel / Prepple Houmb - Hodet Over Vannet
-*     Vierett
-*     No Disney this time - and I know many of you may react to this, but my other user won't work... So here it is ;)
-*     Fra MUTFOL:
-*     Det bør kanskje nevnes at dette faktisk er filmmusikk, komponert til...
-*     Englefjes (DumDum Boys)
-*     spds777
-*     Døden På Oslo S
-*     Dum Dum Boys - Tusen etasjer høi
-*     Arne Nilsen
-*     When you are young you sometimes will follow a trend. Eva Isaksen made in 1990 a Movie based on a Ingvar Ambjørnsens novel "Døden på Oslo S" about youth, drug addiction , love and sex. The Movie wa...
-*     Melissa Horn - Lät du henne komma närmre
-*     melissahornchannel
-*     Nya singeln från kommande albumet "Säg ingenting till mig" som släpps 14 oktober!*
-* [http://www.melissahorn.se](http://www.melissahorn.se/)
-*     Melissa Horn - Jag kan inte skilja på
-*     melissahornchannel
-*     Nya albumet "Säg ingenting till mig" släpps 14 oktober! [melissahorn.se](http://www.melissahorn.se)
-*     Melissa Horn - Om du vill vara med mig - Lyrics
-*     Robin
-*     Melissa Horn - Om du vill vara med mig - Lyrics - av RoroBibinMusic English lyrics is available - please give comments if something seems wrong, I tried the best I could to give the same message a...
-*     Melissa Horn - Jag saknar dig mindre och mindre - Lyrics
-*     Robin
-*     Jag saknar dig mindre och mindre från hennes album "Innan jag kände dig"
-*     Ombra fedele anch'io - Idaspe (1730) de Riccardo Broschi. Farinelli
-*     Night Angel
-*     Opera de Riccardo Broschi en la película Farinelli, il castrato. 1994.
-*     Farinelli - Lascia Ch'io Pianga (HD)
-*     Cristian Faur
-*     Handel - from the movie Farinelli song "Lascia Ch'io Pianga" (Act II of Handel's opera, "Rinaldo") SYNOPSIS In the 18th century, no man was more famous, more beloved, or more celebrated than the m...
-*     خلينا نحلم - مسجلة الأحلام من تونس ومصر- Let's Dream - Tunisia/Egypt
-*     Dreams Recorder
+* Kumka Olik - Niepoprawnie kolorowych snów
+* kumkaolik
+* Teledysk do drugiego singla z płyty "Podobno nie ma już Francji".
+* Kumka Olik - Zaspane poniedziałki
+* kumkaolik
+* Oficjalna wersja klipu "Zaspane poniedziałki" tylko na naszym youtube!
+* VIXO "lifesaver"
+* sebastyenn
+* VIXO "lifesaver"
+* The Washing Machine - Yeah, Yeah, Yeah
+* TheWashingMachine1
+* From the album "Into The Sun" (2011) (http://www.facebook.com/washingband) The Washing Machine is a rock band from Lodz - Poland. Album: [sklep.polskieradio.pl/Products/7033-into-the-sun-plyt...](http://sklep.polskieradio.pl/Products/7033-into-the-sun-plyt...)
+* Kawałek Kulki - Kolegi Tata
+* Nika Gitara
+* Ka-Q - Kolegi Tata Jest Policjantem
+* Anioły Stróże Na Niebieskich Łabędziach
+* Latają Nad Nami !
+* Twój Tata Jest Z Nimi !
+* Jesteśmy Uratowani !
+* Bring you back
+* phoneboxpoland
+* bring you back last song from new album
+* Negatyw - Znikam
+* fenixmusiclabel
+* Zamów DVD Live10 na [live10.pl](http://www.live10.pl) Teledysk Zdjęcia i reżyseria: Dawid Meller Występuje: Marcin Pająk
+* Psychocukier - Gwiazda
+* ciapciap
+* Piosenka z nadchodzącej, 3ej płyty zespołu Psychocukier pt. "Królestwo". reż. J. Grudzień, zdj.: M. Stajniak, mont.: C. Kowalczuk
+* Brodka - Dancing Shoes (Kamp! remix)
+* opiomelanocortin
+* Dancing Shoes by Monika Brodka // remixed by Kamp! // orginal image: maciejlandsberg.com
+* Kayah, Bregovic, Goran Bregovic - Prawy do lewego
+* KayahTVVEVO
+* Album Kayah „Kayah&Bregovic” dostępny na: [SonyMusicPoland.lnk.to/KayahBregovicAY](https://SonyMusicPoland.lnk.to/KayahBregovicAY) Więcej teledysków od Kayah: Testosteron: [youtu.be/x9QKRpALphM](https://youtu.be/x9QKRpALphM) Na językach: [youtu.be/dJbaMhT...](https://youtu.be/dJbaMhT...)
+* ¿Qué es la vida?
+* CdeCiencia
+* El ser humano le ha buscado siempre un sentido a la vida. Muchas personas se preguntan a diario el porqué de su existencia. El porqué de la existencia de la vida. Pero este vídeo da un enfoque dife...
+* ¿Son reales las matemáticas?
+* Guus meeuwis ik wil met je lachen lyrics
+* aape kop
+* Guus Meeuwis-Het is een nacht (with English and Dutch lyrics)
+* Müge YILDIRIM
+* One of the most popular Dutch songs with both English and Dutch lyrics (Sorry for any translation mistakes, my Dutch is not perfect)
+* Diamanter og kirsebær av John Olav Nilsen og gjengen (lyrics)
+* Sol Storkaas
+* Diamanter og kirsebær av John Olav Nilsen og gjengen, fra albumet "For sant til å være godt" (2009)
+* Henning Kvitnes - Sånne som oss
+* pjolterbeist
+* Music video for norwegian artist Henning Kvitnes.
+* Jonas Fjeld & Lynni Treekrem - Engler i sneen
+* Cecilia Watnan
+* A beautiful duett between Jonas Fjeld and Lynni Treekrem.
+* Marius Müller - Carmen
+* evelutionz
+* En Liten Video jeg har laget dedikert til gitar legenden Marius Müller
+* Morten Abel - Tore Tang
+* ROFFERECS
+* Morten Abel - Tore Tang
+* Live Kulturby-åpningen Stavanger 12-1-2008.
+* Je suis malade Lara Fabian French and English subtitles
+* frenchrescue
+* To watch my other videos with double subtitles, go there : [...](http://www.youtube.com/user/frenchrescue) "Je suis malade" by Lara Fabian (written by Jacques Brel, sung by Serge Lama and Dalida too). A...
+* DumDum Boys - Stjernesludd
+* Wardeen
+* Singel fra DumDum Boys, utgitt i 1997.
+* Morten Abel / Prepple Houmb - Hodet Over Vannet
+* Vierett
+* No Disney this time - and I know many of you may react to this, but my other user won't work... So here it is ;)
+* Fra MUTFOL:
+* Det bør kanskje nevnes at dette faktisk er filmmusikk, komponert til...
+* Englefjes (DumDum Boys)
+* spds777
+* Døden På Oslo S
+* Dum Dum Boys - Tusen etasjer høi
+* Arne Nilsen
+* When you are young you sometimes will follow a trend. Eva Isaksen made in 1990 a Movie based on a Ingvar Ambjørnsens novel "Døden på Oslo S" about youth, drug addiction , love and sex. The Movie wa...
+* Melissa Horn - Lät du henne komma närmre
+* melissahornchannel
+* Nya singeln från kommande albumet "Säg ingenting till mig" som släpps 14 oktober!*
+* [melissahorn.se](http://www.melissahorn.se/)
+* Melissa Horn - Jag kan inte skilja på
+* melissahornchannel
+* Nya albumet "Säg ingenting till mig" släpps 14 oktober! [melissahorn.se](http://www.melissahorn.se)
+* Melissa Horn - Om du vill vara med mig - Lyrics
+* Robin
+* Melissa Horn - Om du vill vara med mig - Lyrics - av RoroBibinMusic English lyrics is available - please give comments if something seems wrong, I tried the best I could to give the same message a...
+* Melissa Horn - Jag saknar dig mindre och mindre - Lyrics
+* Robin
+* Jag saknar dig mindre och mindre från hennes album "Innan jag kände dig"
+* Ombra fedele anch'io - Idaspe (1730) de Riccardo Broschi. Farinelli
+* Night Angel
+* Opera de Riccardo Broschi en la película Farinelli, il castrato. 1994.
+* Farinelli - Lascia Ch'io Pianga (HD)
+* Cristian Faur
+* Handel - from the movie Farinelli song "Lascia Ch'io Pianga" (Act II of Handel's opera, "Rinaldo") SYNOPSIS In the 18th century, no man was more famous, more beloved, or more celebrated than the m...
+* خلينا نحلم - مسجلة الأحلام من تونس ومصر- Let's Dream - Tunisia/Egypt
+* Dreams Recorder
 * [facebook.com/dreamsrecorder](http://www.facebook.com/dreamsrecorder) إتحاد مجموعة من الشباب التونسي والمصري في أول منتج إبداعي مشترك.... آملين أن ينضم إلينا بقية الشعوب العربية لنكون معاً نواة الوحدة الإيجابية المنشودة لنبرز ال...
-*     Mashrou' Leila - Raksit Leila ( Official Music Video ) | مشروع ليلى - رقصة ليلى
-*     Mashrou' Leila
-*     لتنزيل "رقصة ليلى" من iTunes: [apple.co/2fSojkI](http://apple.co/2fSojkI) للاستماع لأغنية "رقصة ليلى" على Apple Music: [apple.co/2ekJSsS](http://apple.co/2ekJSsS) Mashrou' Leila - Raksit Leila [ official video by yelostudio] download ...
-*     Du måste finnas - Helen Sjöholm (Kristina från Duvemala)
-*     baflat
-*     Minnesota concert
-*     Lyrics:
-*     Du fördrev mej, Gud från mitt hemland slets jag bort
-*     (You drove me out, God from my homeland torn away)
-*     Här är jag en flykting och en främling , och det ödet fin...
-*     World Cup 2018 - European Qualifiers Best Goals ᴴᴰ | Episode #1
-*     ZFH Football
-*     FIFA World Cup 2018 Russia European Qualifier result and goal scorer (Big National Team Only) : Round 8 : 1. Italia 1 - 0 Israel 2. Spain 8 - 0 Liechtenstein 3. Turkey 1 - 0 Croatia 4. Wales 2 - 0...
-*     Mashrou' Leila - Ghadan Yawmon Afdal "Cover" ( Official Music Video ) | مشروع ليلى - غداً يوم أفضل
-*     Mashrou' Leila
-*     this is our revolution / إلى جيل الثورة Clint Eastwood cover DOWNLOAD this track for FREE here: [mashrou3leila.com/Mashrou%27%20Leila%20-%20Ghadan%20Yawmon%20Afdal.mp3](http://mashrou3leila.com/Mashrou%27%20Leila%20-%20Ghadan%20Yawmon%20Afdal.mp3) download the album o...
-*     مشروع ليلى - فساتين Mashroua Leila - Fasateen
-*     Firas Naamnih
-*     مشروع ليلى - فساتين
-*     Lemonada - 04. Jnoon - ليمونادا - جنون
-*     Ameerah AlGohary
-*     Lemonada The Arabian Latin Chillout Track no.4 Jnoon To download the whole album, [rs169.rapidshare.com/files/110579375/Lemonada-The_Arabian_Latin_Chillout.rar/?visit=PaylessSofts.net_for_th...](http://rs169.rapidshare.com/files/110579375/Lemonada-The_Arabian_Latin_Chillout.rar/?visit=PaylessSofts.net_for_th...)
-*     Trump Attacks the Mayor of San Juan: A Closer Look
-*     Late Night with Seth Meyers
-*     Seth takes a closer look at the very real consequences of electing a lazy, ignorant racist as president. » Subscribe to Late Night: [bit.ly/LateNightSeth](http://bit.ly/LateNightSeth) » Get more Late Night with Seth Meyer...
-*     Trevor Responds to the Las Vegas Shooting & Trump Tweets the Weekend Away: The Daily Show
-*     The Daily Show with Trevor Noah
-*     Trevor weighs in on a deadly mass shooting in Las Vegas, and President Trump lashes out at North Korea and Puerto Rico on Twitter. Watch full episodes of The Daily Show for free: [cc.com...](http://www.cc.com...)
-*     ¡Ya disponible en CD/LP/digital en nuestra página web! [bit.ly/vmDERIVAw](http://bit.ly/vmDERIVAw) LA MOSCA EN TU PARED ¿Qué harías tú si al despertar fuera un insecto en tu pared? Algo sutil, gran angular, que na...
-*     03. La Mosca en tu Pared - VETUSTA MORLA (video lyric)
-*     Abonne-toi à la CHAINE OFFICIELLE VEVO de KYO pour découvrir toutes leurs nouvelles vidéos : [...](http://www.youtube.com/subscription_center?add_user=KYOVEVO) ---------------------------------------- Ret...
-*     Abonne-toi à la CHAINE OFFICIELLE VEVO de KYO pour découvrir toutes leurs nouvelles vidéos : [...](http://www.youtube.com/subscription_center?add_user=KYOVEVO) ---------------------------------------- Ret...
-*     Abonne-toi à la CHAINE OFFICIELLE VEVO de KYO pour découvrir toutes leurs nouvelles vidéos : [...](http://www.youtube.com/subscription_center?add_user=KYOVEVO) ---------------------------------------- Ret...
-*     Abonne-toi à la CHAINE OFFICIELLE VEVO de KYO pour découvrir toutes leurs nouvelles vidéos : [...](http://www.youtube.com/subscription_center?add_user=KYOVEVO) ---------------------------------------- Ret...
-*     Abonne-toi à la CHAINE OFFICIELLE VEVO de LUKE pour découvrir toutes ses nouvelles vidéos : [...](http://www.youtube.com/subscription_center?add_user=LukeVEVO) ---------------------------------------- Ret...
-*     Abonne-toi à la CHAINE OFFICIELLE VEVO de LUKE pour découvrir toutes ses nouvelles vidéos : [...](http://www.youtube.com/subscription_center?add_user=LukeVEVO) ---------------------------------------- Ret...
-*     Aeropuertos. Unos vienen, otros se van,
-*     alloga150786
-*     AlMagno
-*     As Russia continues spreading false information across social media, Michael Kosta explains that Americans are able to fight each other without other countries' help. Watch full episodes of The D...
-*     AUSTRALIAN BLONDE - Chup Chup
-*     buenasuerterecord
-*     Cake - Dime
-*     Cake - I Will Survive
-*     Cake-"Italian Leather Sofa" from Fashion Nugget
-*     Cake's song "Dime" -- off of the album Pressure Chief.
-*     CakeVEVO
-*     Chooselife91
-*     Coldplay - The scientist (traduzione)
-*     Costa Azul
-*     Dansk Nyeste Tid Gruppe: Amer Khalil, Casper Winder, Jakob Ahl og Julius Grothen
-*     Do it - The Sunday Drivers
-*     Dorian - Cualquier Otra Parte
-*     dorianVEVO
-*     Ed Sheeran - Thinking Out Loud - English and Italian Lyrics
-*     EL COLUMPIO ASESINO Toro (video oficial)
-*     El corría, nunca le enseñaron a andar,
-*     el grupo se llama Los Fresones Rebeldes y el titulo de la cancion, Al Amanecer ... Pues eso, ale, di...
-*     Ella huía de espejismos y horas de más.
-*     elvolcanmusica
-*     emimusic
-*     Esta es una canción que nos gusta mucho a ale y ami :P y quiero dedicarle ete video a ella :D
-*     Este video no tiene ninguna intención comercial ni de incumplimiento de normas relacionadas con derechos del copyright. Simplemente somos un grupo de alumnos de Realización que quieren mostrar su t...
-*     Fashion Nugget is the second studio album by Cake, an alternative band from Sacramento. "The Distance" became one of the band's biggest hits. On December 9, 1996, the album was certified gold by th...
-*     flanagann
-*     Forensic science used in criminal trials can be surprisingly unscientific. Maybe a new television procedural could help change the public perception. Connect with Last Week Tonight online... Subs...
-*     Forensic Science: Last Week Tonight with John Oliver (HBO)
-*     Fox News Has a Hard Time Processing the Las Vegas Shooting: The Daily Show
-*     Gess Glynne - Take Me Home - English and Italian Lyrics
-*     Giampaolo De Luca
-*     Grégoire - Danse (Clip officiel)
-*     Grégoire - Rue des étoiles (clip officiel)
-*     Grégoire - Soleil (Clip Officiel)
-*     Grégoire - Ta main (Clip Officiel)
-*     Grégoire - Toi + Moi (My Major Company)
+* Mashrou' Leila - Raksit Leila ( Official Music Video ) | مشروع ليلى - رقصة ليلى
+* Mashrou' Leila
+* لتنزيل "رقصة ليلى" من iTunes: [apple.co/2fSojkI](http://apple.co/2fSojkI) للاستماع لأغنية "رقصة ليلى" على Apple Music: [apple.co/2ekJSsS](http://apple.co/2ekJSsS) Mashrou' Leila - Raksit Leila [ official video by yelostudio] download ...
+* Du måste finnas - Helen Sjöholm (Kristina från Duvemala)
+* baflat
+* Minnesota concert
+* Lyrics:
+* Du fördrev mej, Gud från mitt hemland slets jag bort
+* (You drove me out, God from my homeland torn away)
+* Här är jag en flykting och en främling , och det ödet fin...
+* World Cup 2018 - European Qualifiers Best Goals ᴴᴰ | Episode #1
+* ZFH Football
+* FIFA World Cup 2018 Russia European Qualifier result and goal scorer (Big National Team Only) : Round 8 : 1. Italia 1 - 0 Israel 2. Spain 8 - 0 Liechtenstein 3. Turkey 1 - 0 Croatia 4. Wales 2 - 0...
+* Mashrou' Leila - Ghadan Yawmon Afdal "Cover" ( Official Music Video ) | مشروع ليلى - غداً يوم أفضل
+* Mashrou' Leila
+* this is our revolution / إلى جيل الثورة Clint Eastwood cover DOWNLOAD this track for FREE here: [mashrou3leila.com/Mashrou%27%20Leila%20-%20Ghadan%20Yawmon%20Afdal.mp3](http://mashrou3leila.com/Mashrou%27%20Leila%20-%20Ghadan%20Yawmon%20Afdal.mp3) download the album o...
+* مشروع ليلى - فساتين Mashroua Leila - Fasateen
+* Firas Naamnih
+* مشروع ليلى - فساتين
+* Lemonada - 04. Jnoon - ليمونادا - جنون
+* Ameerah AlGohary
+* Lemonada The Arabian Latin Chillout Track no.4 Jnoon To download the whole album, [rs169.rapidshare.com/files/110579375/Lemonada-The_Arabian_Latin_Chillout.rar/?visit=PaylessSofts.net_for_th...](http://rs169.rapidshare.com/files/110579375/Lemonada-The_Arabian_Latin_Chillout.rar/?visit=PaylessSofts.net_for_th...)
+* Trump Attacks the Mayor of San Juan: A Closer Look
+* Late Night with Seth Meyers
+* Seth takes a closer look at the very real consequences of electing a lazy, ignorant racist as president. » Subscribe to Late Night: [bit.ly/LateNightSeth](http://bit.ly/LateNightSeth) » Get more Late Night with Seth Meyer...
+* Trevor Responds to the Las Vegas Shooting & Trump Tweets the Weekend Away: The Daily Show
+* The Daily Show with Trevor Noah
+* Trevor weighs in on a deadly mass shooting in Las Vegas, and President Trump lashes out at North Korea and Puerto Rico on Twitter. Watch full episodes of The Daily Show for free: [cc.com...](http://www.cc.com...)
+* ¡Ya disponible en CD/LP/digital en nuestra página web! [bit.ly/vmDERIVAw](http://bit.ly/vmDERIVAw) LA MOSCA EN TU PARED ¿Qué harías tú si al despertar fuera un insecto en tu pared? Algo sutil, gran angular, que na...
+* 03. La Mosca en tu Pared - VETUSTA MORLA (video lyric)
+* Abonne-toi à la CHAINE OFFICIELLE VEVO de KYO pour découvrir toutes leurs nouvelles vidéos : [...](http://www.youtube.com/subscription_center?add_user=KYOVEVO) ---------------------------------------- Ret...
+* Abonne-toi à la CHAINE OFFICIELLE VEVO de KYO pour découvrir toutes leurs nouvelles vidéos : [...](http://www.youtube.com/subscription_center?add_user=KYOVEVO) ---------------------------------------- Ret...
+* Abonne-toi à la CHAINE OFFICIELLE VEVO de KYO pour découvrir toutes leurs nouvelles vidéos : [...](http://www.youtube.com/subscription_center?add_user=KYOVEVO) ---------------------------------------- Ret...
+* Abonne-toi à la CHAINE OFFICIELLE VEVO de KYO pour découvrir toutes leurs nouvelles vidéos : [...](http://www.youtube.com/subscription_center?add_user=KYOVEVO) ---------------------------------------- Ret...
+* Abonne-toi à la CHAINE OFFICIELLE VEVO de LUKE pour découvrir toutes ses nouvelles vidéos : [...](http://www.youtube.com/subscription_center?add_user=LukeVEVO) ---------------------------------------- Ret...
+* Abonne-toi à la CHAINE OFFICIELLE VEVO de LUKE pour découvrir toutes ses nouvelles vidéos : [...](http://www.youtube.com/subscription_center?add_user=LukeVEVO) ---------------------------------------- Ret...
+* Aeropuertos. Unos vienen, otros se van,
+* alloga150786
+* AlMagno
+* As Russia continues spreading false information across social media, Michael Kosta explains that Americans are able to fight each other without other countries' help. Watch full episodes of The D...
+* AUSTRALIAN BLONDE - Chup Chup
+* buenasuerterecord
+* Cake - Dime
+* Cake - I Will Survive
+* Cake-"Italian Leather Sofa" from Fashion Nugget
+* Cake's song "Dime" -- off of the album Pressure Chief.
+* CakeVEVO
+* Chooselife91
+* Coldplay - The scientist (traduzione)
+* Costa Azul
+* Dansk Nyeste Tid Gruppe: Amer Khalil, Casper Winder, Jakob Ahl og Julius Grothen
+* Do it - The Sunday Drivers
+* Dorian - Cualquier Otra Parte
+* dorianVEVO
+* Ed Sheeran - Thinking Out Loud - English and Italian Lyrics
+* EL COLUMPIO ASESINO Toro (video oficial)
+* El corría, nunca le enseñaron a andar,
+* el grupo se llama Los Fresones Rebeldes y el titulo de la cancion, Al Amanecer ... Pues eso, ale, di...
+* Ella huía de espejismos y horas de más.
+* elvolcanmusica
+* emimusic
+* Esta es una canción que nos gusta mucho a ale y ami :P y quiero dedicarle ete video a ella :D
+* Este video no tiene ninguna intención comercial ni de incumplimiento de normas relacionadas con derechos del copyright. Simplemente somos un grupo de alumnos de Realización que quieren mostrar su t...
+* Fashion Nugget is the second studio album by Cake, an alternative band from Sacramento. "The Distance" became one of the band's biggest hits. On December 9, 1996, the album was certified gold by th...
+* flanagann
+* Forensic science used in criminal trials can be surprisingly unscientific. Maybe a new television procedural could help change the public perception. Connect with Last Week Tonight online... Subs...
+* Forensic Science: Last Week Tonight with John Oliver (HBO)
+* Fox News Has a Hard Time Processing the Las Vegas Shooting: The Daily Show
+* Gess Glynne - Take Me Home - English and Italian Lyrics
+* Giampaolo De Luca
+* Grégoire - Danse (Clip officiel)
+* Grégoire - Rue des étoiles (clip officiel)
+* Grégoire - Soleil (Clip Officiel)
+* Grégoire - Ta main (Clip Officiel)
+* Grégoire - Toi + Moi (My Major Company)
 * - To Sort (2)
-*     Guillaume Grand - Toi et moi
-*     holahelio
-*     How Russia Is Dividing America with Real "Fake News": The Daily Show
+* Guillaume Grand - Toi et moi
+* holahelio
+* How Russia Is Dividing America with Real "Fake News": The Daily Show
 * [shop.mymajorcompany.com/](http://shop.mymajorcompany.com/) Disponible sur iTunes : [clk.tradedoubler.com/click?p=23753&a=1703538&g=17141514&td_partnerId=2003&url=http://itunes.apple.com/fr/album/id398867471?ign-mpt=uo%...](http://clk.tradedoubler.com/click?p=23753&a=1703538&g=17141514&td_partnerId=2003&url=http://itunes.apple.com/fr/album/id398867471?ign-mpt=uo%...)
 * [shop.mymajorcompany.com/](http://shop.mymajorcompany.com/) [shop.mymajorcompany.com/](http://shop.mymajorcompany.com/) iTunes : [clk.tradedoubler.com/click?p=23753&a=1703538&g=17141514&td_partnerId=2003&url=http://itunes.apple.com/fr/album/toi-mo...](http://clk.tradedoubler.com/click?p=23753&a=1703538&g=17141514&td_partnerId=2003&url=http://itunes.apple.com/fr/album/toi-mo...)
 * [shop.mymajorcompany.com/](http://shop.mymajorcompany.com/) iTunes : [clk.tradedoubler.com/click?p=23753&a=1703538&g=17141514&td_partnerId=2003&url=http://itunes.apple.com/fr/album/le-meme-soleil-collectors/id477769518](http://clk.tradedoubler.com/click?p=23753&a=1703538&g=17141514&td_partnerId=2003&url=http://itunes.apple.com/fr/album/le-meme-soleil-collectors/id477769518) ...
@@ -476,223 +476,223 @@
 * [shop.mymajorcompany.com/](http://shop.mymajorcompany.com/) iTunes : [clk.tradedoubler.com/click?p=23753&a=1703538&g=17141514&td_partnerId=2003&url=http://itunes.apple.com/fr/album/toi-moi/id290647573](http://clk.tradedoubler.com/click?p=23753&a=1703538&g=17141514&td_partnerId=2003&url=http://itunes.apple.com/fr/album/toi-moi/id290647573) Facebook : https:/...
 * [shop.mymajorcompany.com/](http://shop.mymajorcompany.com/) L'album sur iTunes : [clk.tradedoubler.com/click?p=23753&a=1703538&g=17141514&td_partnerId=2003&url=http://itunes.apple.com/fr/album/sur-mes-gardes-collector/i...](http://clk.tradedoubler.com/click?p=23753&a=1703538&g=17141514&td_partnerId=2003&url=http://itunes.apple.com/fr/album/sur-mes-gardes-collector/i...)
 * [shop.mymajorcompany.com/](http://shop.mymajorcompany.com/) Toi + Moi est dispo sur iTunes : [bit.ly/iTunes_toi_moi](http://bit.ly/iTunes_toi_moi) Grégoire est un artiste My Major Company Label : [mymajorcompany-label.com/artist/gregoire](http://www.mymajorcompany-label.com/artist/gregoire) L...
-*     iacobelli7
-*     igual que A...
-*     indieespanol
-*     Indochine - J'ai demandé à la lune
-*     indochineVEVO
-*     J'ai demandé à la lune, extrait de l'album 'Paradize', disponible ici: [Indochine.lnk.to/Paradize](https://Indochine.lnk.to/Paradize) Clip réalisé par Yves Bottalico. --------------- Abonne-toi au VEVO officiel d'INDOCHINE ...
-*     John Oliver discusses the way the NRA not only works to prevent gun control, they work to prevent an informed discussion about gun control. Connect with Last Week Tonight online... Subscribe to t...
-*     Joyce Jonathan - Je ne sais pas (Clip officiel)
-*     Joyce Jonathan - Tant pis (Clip officiel)
-*     Judinas
-*     Kyo - Dernière danse
-*     Kyo - Je cours
-*     Kyo - Je saigne encore
-*     Kyo - Le chemin ft. Sita
-*     KyoVEVO
-*     KyoVEVO
-*     KyoVEVO
-*     KyoVEVO
-*     Las más bellas canciones italianas (lo mejor de la música italiana)
-*     Las más bellas canciones italianas (lo mejor de la música italiana) Suscríbete a nuestro canal para no perder todas las noticias [video](https://www.youtube.com/user/buenasuerterecord) Síguenos en https:/...
-*     LastWeekTonight
-*     LastWeekTonight
-*     Late Night with Seth Meyers
-*     Lolaila Carmona el 1º single del primer álbum de Napoleón Solo "Napoleón Solo en la ópera". ((c) 2010 El Volcán Música. Premio "Discovery Artist" en el L.A.M.C. (New York) 2011 Napoleón Solo so...
-*     Los Fresones Rebeldes - Al Amanecer
-*     Los Planetas - Mi Hermana Pequeña
-*     Los Planetas - Un Buen Dia
-*     LosPlanetasVEVO
-*     Luke - La sentinelle
-*     Luke - Soledad
-*     LukeVEVO
-*     LukeVEVO
-*     Lyric vídeo de Cualquier otra parte. Canción de DORIAN incluida en su disco Diez años y un día. Single ya a a la venta en iTunes: [itunes.apple.com/es/album/cualquier-otra-parte-single/id970...](https://itunes.apple.com/es/album/cualquier-otra-parte-single/id970...)
-*     Man Created God in His Own Image - Daniel Dennett Debate Part 1
-*     Man Created God in His Own Image - Daniel Dennett Debate Part 1 Daniel Dennett debates Dinesh D'Souza on the question "Is god a man-made invention?" SUBSCRIBE to "Question Everything" [..](https://www...)
-*     Music video by Cake performing I Will Survive. (C) 1996 Volcano Entertainment III, LLC [vevo.ly/GA7SJL](http://vevo.ly/GA7SJL)
-*     Music video by Guillaume Grand performing Toi Et Moi.
-*     Music video by Los Planetas performing Un Buen Dia. (C) 2000 BMG Music Spain, S.A.
-*     Music video by Noir DÃƒÂ©sir performing Le Vent Nous Portera. (C) 2001 Barclay
-*     MyMajorCompany-Label
-*     MyMajorCompany-Label
-*     MyMajorCompany-Label
-*     MyMajorCompany-Label
-*     MyMajorCompany-Label
-*     MyMajorCompany-Label
-*     MyMajorCompany-Label
-*     NAPOLEÓN SOLO - LOLAILA CARMONA
-*     Noir Désir - Le Vent Nous Portera
-*     NoirDesirVEVO
-*     NRA: Last Week Tonight with John Oliver (HBO)
-*     Passenger~Let her go Traduzione
-*     Productora: Bravostudios.es
-*     Question Everything
-*     Realizador: Alejandro Artés
-*     Richard Dawkins habla del ateísmo militante
-*     Richard Dawkins incita a todos los ateos a manifestar abiertamente su postura y a luchar contra la incursión de la iglesia en la política y la ciencia. Un discurso vehemente, divertido y poderoso.
-*     Rubber Soul
-*     Salvatore Rappa
-*     se fue tras luces pálidas.
-*     Seth takes a closer look at President Trump's disastrous visit to Puerto Rico and the renewed debate over gun laws. » Subscribe to Late Night: [bit.ly/LateNightSeth](http://bit.ly/LateNightSeth) » Get more Late Night with...
-*     sidonievideo
-*     Subterfuge Records
-*     Suscríbete al canal oficial de Subterfuge Records [bit.ly/1e2pbv9](http://bit.ly/1e2pbv9) Escuchar / Descargar AUSTRALIAN BLONDE - Chup Chup en: iTunes: [apple.co/1XhTB3r](http://apple.co/1XhTB3r) Spotify: [spoti.fi/1IiPAzy](http://spoti.fi/1IiPAzy) Deez...
-*     Svensk, dansk og norsk
-*     Take Me To Church - Hozier / Traduzione in Italiana
-*     Take Me To Church - Hozier / Traduzione in Italiana
-*     TED
-*     Testo ufficiale e traduzione in italiano della canzone "Take Me Home" di Gess Glynne. Entrate ed iscrivetevi al canale per guardare anche gli altri video e per essere sempre informati sui nuovi vi...
-*     Testo ufficiale e traduzione in italiano della canzone "Thinking Out Loud" di Ed Sheeran. Entrate ed iscrivetevi al canale per guardare anche gli altri video e per essere sempre informati sui nuov...
-*     The Daily Show with Trevor Noah
-*     The Daily Show with Trevor Noah
-*     The scientist dei Coldplay con testo tradotto in italiano.
-*     Traduzione italiana della canzone
-*     Trump's Puerto Rico Visit and The Gun Debate: A Closer Look
-*     Un día en el mundo (2008)
-*     vetusta morla
-*     Vetusta Morla - Copenhague
-*     Videoclip - Second - Rincón exquisito
-*     Videoclip del grupo de pop murciano Second. Tema Rincón exquisito.
-*     Videoclip desdepedida de Sidonie a sus Fans y que se estreno en el concierto fin de Gira en joy Eslava.
-*     While most Fox News anchors are struggling to push a narrative after the mass shooting in Las Vegas, Sean Hannity takes a preemptive stance against gun control. Watch full episodes of The Daily Sh...
-*     winthernight
-*     YouLyrics
-*     YouLyrics
-*     Cake - Never There
-*     Cake - Short Skirt / Long Jacket
-*     Cake - The Distance
-*     Cake's official music video for 'Short Skirt / Long Jacket'. Click to listen to Cake on Spotify: [smarturl.it/CakeSpotify?IQid=CakeSSLJ](http://smarturl.it/CakeSpotify?IQid=CakeSSLJ) As featured on Comfort Eagle. Click to buy the track o...
-*     Cake's official music video for 'The Distance'. Click to listen to Cake on Spotify: [smarturl.it/CakeSpotify?IQid=CTD](http://smarturl.it/CakeSpotify?IQid=CTD) As featured on Fashion Nugget. Click to buy the track or album via iTune...
-*     CakeVEVO
-*     CakeVEVO
-*     CakeVEVO
-*     Music video by Cake performing Never There. (C) 1998 Zomba Recording LLC
+* iacobelli7
+* igual que A...
+* indieespanol
+* Indochine - J'ai demandé à la lune
+* indochineVEVO
+* J'ai demandé à la lune, extrait de l'album 'Paradize', disponible ici: [Indochine.lnk.to/Paradize](https://Indochine.lnk.to/Paradize) Clip réalisé par Yves Bottalico. --------------- Abonne-toi au VEVO officiel d'INDOCHINE ...
+* John Oliver discusses the way the NRA not only works to prevent gun control, they work to prevent an informed discussion about gun control. Connect with Last Week Tonight online... Subscribe to t...
+* Joyce Jonathan - Je ne sais pas (Clip officiel)
+* Joyce Jonathan - Tant pis (Clip officiel)
+* Judinas
+* Kyo - Dernière danse
+* Kyo - Je cours
+* Kyo - Je saigne encore
+* Kyo - Le chemin ft. Sita
+* KyoVEVO
+* KyoVEVO
+* KyoVEVO
+* KyoVEVO
+* Las más bellas canciones italianas (lo mejor de la música italiana)
+* Las más bellas canciones italianas (lo mejor de la música italiana) Suscríbete a nuestro canal para no perder todas las noticias [video](https://www.youtube.com/user/buenasuerterecord) Síguenos en https:/...
+* LastWeekTonight
+* LastWeekTonight
+* Late Night with Seth Meyers
+* Lolaila Carmona el 1º single del primer álbum de Napoleón Solo "Napoleón Solo en la ópera". ((c) 2010 El Volcán Música. Premio "Discovery Artist" en el L.A.M.C. (New York) 2011 Napoleón Solo so...
+* Los Fresones Rebeldes - Al Amanecer
+* Los Planetas - Mi Hermana Pequeña
+* Los Planetas - Un Buen Dia
+* LosPlanetasVEVO
+* Luke - La sentinelle
+* Luke - Soledad
+* LukeVEVO
+* LukeVEVO
+* Lyric vídeo de Cualquier otra parte. Canción de DORIAN incluida en su disco Diez años y un día. Single ya a a la venta en iTunes: [itunes.apple.com/es/album/cualquier-otra-parte-single/id970...](https://itunes.apple.com/es/album/cualquier-otra-parte-single/id970...)
+* Man Created God in His Own Image - Daniel Dennett Debate Part 1
+* Man Created God in His Own Image - Daniel Dennett Debate Part 1 Daniel Dennett debates Dinesh D'Souza on the question "Is god a man-made invention?" SUBSCRIBE to "Question Everything" [..](https://www...)
+* Music video by Cake performing I Will Survive. (C) 1996 Volcano Entertainment III, LLC [vevo.ly/GA7SJL](http://vevo.ly/GA7SJL)
+* Music video by Guillaume Grand performing Toi Et Moi.
+* Music video by Los Planetas performing Un Buen Dia. (C) 2000 BMG Music Spain, S.A.
+* Music video by Noir DÃƒÂ©sir performing Le Vent Nous Portera. (C) 2001 Barclay
+* MyMajorCompany-Label
+* MyMajorCompany-Label
+* MyMajorCompany-Label
+* MyMajorCompany-Label
+* MyMajorCompany-Label
+* MyMajorCompany-Label
+* MyMajorCompany-Label
+* NAPOLEÓN SOLO - LOLAILA CARMONA
+* Noir Désir - Le Vent Nous Portera
+* NoirDesirVEVO
+* NRA: Last Week Tonight with John Oliver (HBO)
+* Passenger~Let her go Traduzione
+* Productora: Bravostudios.es
+* Question Everything
+* Realizador: Alejandro Artés
+* Richard Dawkins habla del ateísmo militante
+* Richard Dawkins incita a todos los ateos a manifestar abiertamente su postura y a luchar contra la incursión de la iglesia en la política y la ciencia. Un discurso vehemente, divertido y poderoso.
+* Rubber Soul
+* Salvatore Rappa
+* se fue tras luces pálidas.
+* Seth takes a closer look at President Trump's disastrous visit to Puerto Rico and the renewed debate over gun laws. » Subscribe to Late Night: [bit.ly/LateNightSeth](http://bit.ly/LateNightSeth) » Get more Late Night with...
+* sidonievideo
+* Subterfuge Records
+* Suscríbete al canal oficial de Subterfuge Records [bit.ly/1e2pbv9](http://bit.ly/1e2pbv9) Escuchar / Descargar AUSTRALIAN BLONDE - Chup Chup en: iTunes: [apple.co/1XhTB3r](http://apple.co/1XhTB3r) Spotify: [spoti.fi/1IiPAzy](http://spoti.fi/1IiPAzy) Deez...
+* Svensk, dansk og norsk
+* Take Me To Church - Hozier / Traduzione in Italiana
+* Take Me To Church - Hozier / Traduzione in Italiana
+* TED
+* Testo ufficiale e traduzione in italiano della canzone "Take Me Home" di Gess Glynne. Entrate ed iscrivetevi al canale per guardare anche gli altri video e per essere sempre informati sui nuovi vi...
+* Testo ufficiale e traduzione in italiano della canzone "Thinking Out Loud" di Ed Sheeran. Entrate ed iscrivetevi al canale per guardare anche gli altri video e per essere sempre informati sui nuov...
+* The Daily Show with Trevor Noah
+* The Daily Show with Trevor Noah
+* The scientist dei Coldplay con testo tradotto in italiano.
+* Traduzione italiana della canzone
+* Trump's Puerto Rico Visit and The Gun Debate: A Closer Look
+* Un día en el mundo (2008)
+* vetusta morla
+* Vetusta Morla - Copenhague
+* Videoclip - Second - Rincón exquisito
+* Videoclip del grupo de pop murciano Second. Tema Rincón exquisito.
+* Videoclip desdepedida de Sidonie a sus Fans y que se estreno en el concierto fin de Gira en joy Eslava.
+* While most Fox News anchors are struggling to push a narrative after the mass shooting in Las Vegas, Sean Hannity takes a preemptive stance against gun control. Watch full episodes of The Daily Sh...
+* winthernight
+* YouLyrics
+* YouLyrics
+* Cake - Never There
+* Cake - Short Skirt / Long Jacket
+* Cake - The Distance
+* Cake's official music video for 'Short Skirt / Long Jacket'. Click to listen to Cake on Spotify: [smarturl.it/CakeSpotify?IQid=CakeSSLJ](http://smarturl.it/CakeSpotify?IQid=CakeSSLJ) As featured on Comfort Eagle. Click to buy the track o...
+* Cake's official music video for 'The Distance'. Click to listen to Cake on Spotify: [smarturl.it/CakeSpotify?IQid=CTD](http://smarturl.it/CakeSpotify?IQid=CTD) As featured on Fashion Nugget. Click to buy the track or album via iTune...
+* CakeVEVO
+* CakeVEVO
+* CakeVEVO
+* Music video by Cake performing Never There. (C) 1998 Zomba Recording LLC
 * - To Sort (3)
-*     A beautiful duett between Jonas Fjeld and Lynni Treekrem.
-*     aape kop
-*     Aeropuertos. Unos vienen, otros se van,
-*     Album Kayah „Kayah&Bregovic” dostępny na: [SonyMusicPoland.lnk.to/KayahBregovicAY](https://SonyMusicPoland.lnk.to/KayahBregovicAY) Więcej teledysków od Kayah: Testosteron: [youtu.be/x9QKRpALphM](https://youtu.be/x9QKRpALphM) Na językach: [youtu.be/dJbaMhT...](https://youtu.be/dJbaMhT...)
-*     AlMagno
-*     Ameerah AlGohary
-*     Anioły Stróże Na Niebieskich Łabędziach
-*     Arne Nilsen
-*     baflat
-*     Bring you back
-*     bring you back last song from new album
-*     Brodka - Dancing Shoes (Kamp! remix)
-*     buenasuerterecord
-*     Cecilia Watnan
-*     Chciałbym się jeszcze powłóczyć z Tobą, póki żyjemy i mam Cię obok. Zjechać z Tobą w dół po poręczy, wspólnie się wyczołgać z nędzy. Schować szczęście tu pod podłogą, zanim przyjadą i nas wywiozą. ...
-*     Chup Chup
-*     ciapciap
-*     Costa Azul
-*     Cristian Faur
-*     Czakulec
-*     Dansk Nyeste Tid Gruppe: Amer Khalil, Casper Winder, Jakob Ahl og Julius Grothen
-*     Det bør kanskje nevnes at dette faktisk er filmmusikk, komponert til...
-*     Diamanter og kirsebær av John Olav Nilsen og gjengen (lyrics)
-*     Diamanter og kirsebær av John Olav Nilsen og gjengen, fra albumet "For sant til å være godt" (2009)
-*     Do it - The Sunday Drivers
-*     Døden På Oslo S
-*     Dreams Recorder
-*     Du måste finnas - Helen Sjöholm (Kristina från Duvemala)
-*     DumDum Boys - Stjernesludd
-*     DumDumBoys
-*     elvolcanmusica
-*     emimusic
-*     En Liten Video jeg har laget dedikert til gitar legenden Marius Müller
-*     Englefjes (DumDum Boys)
-*     evelutionz
-*     Farinelli - Lascia Ch'io Pianga (HD)
-*     fenixmusiclabel
-*     Firas Naamnih
-*     flanagann
-*     Fra MUTFOL:
-*     frenchrescue
-*     From the album "Into The Sun" (2011) (http://www.facebook.com/washingband) The Washing Machine is a rock band from Lodz
-*     Giampaolo De Luca
-*     Grégoire
-*     holahelio
-*     Jag saknar dig mindre och mindre från hennes album "Innan jag kände dig"
-*     Je suis malade Lara Fabian French and English subtitles
-*     Jesteśmy Uratowani !
-*     Jonas Fjeld & Lynni Treekrem - Engler i sneen
-*     Ka-Q Kolegi Tata Jest Policjantem
-*     Kawałek Kulki - Kolegi Tata
-*     Kayah, Bregovic, Goran Bregovic - Prawy do lewego
-*     KayahTVVEVO
-*     Koniec Świata - Oranżada
-*     Kumka Olik
-*     Latają Nad Nami !
-*     Lemonada - 04. Jnoon ليمونادا    جنون
-*     Lemonada The Arabian Latin Chillout Track no.4 Jnoon To download the whole album, [rs169.rapidshare.com/files/110579375/Lemonada](http://rs169.rapidshare.com/files/110579375/Lemonada) - The_Arabian_Latin_Chillout.rar/?visit=PaylessSofts.net_for_th...
-*     Live Kulturby - åpningen Stavanger 12
-*     Lolaila Carmona el 1º single del primer álbum de Napoleón Solo "Napoleón Solo en la ópera". ((c) 2010 El Volcán Música. Premio "Discovery Artist" en el L.A.M.C. (New York) 2011 Napoleón Solo so...
-*     Marius Müller - Carmen
-*     Mashrou' Leila
-*     Melissa Horn - Lät du henne komma närmre
-*     Melissa Horn - Jag kan inte skilja på
-*     melissahornchannel
-*     Monika Brodka
-*     Morten Abel - Tore Tang
-*     Morten Abel / Prepple Houmb - Hodet Over Vannet
-*     MrsSzalonaOna
-*     muchy
-*     Müge YILDIRIM
-*     Music video for norwegian artist Henning Kvitnes.
-*     NAPOLEÓN SOLO - LOLAILA CARMONA
-*     Negatyw- Znikam
-*     Night Angel
-*     Nika Gitara
-*     Noir Désir - Le Vent Nous Portera
-*     NoirDesirVEVO
-*     NRA: Last Week Tonight with John Oliver (HBO)
-*     Nya albumet "Säg ingenting till mig" släpps 14 oktober! [melissahorn.se](http://www.melissahorn.se)
-*     Oficjalna wersja klipu "Zaspane poniedziałki" tylko na naszym youtube!
-*     Ombra fedele anch'io - Idaspe (1730) de Riccardo Broschi. Farinelli
-*     One of the most popular Dutch songs with both English and Dutch lyrics (Sorry for any translation mistakes, my Dutch is not perfect)
-*     Opera de Riccardo Broschi en la película Farinelli, il castrato. 1994.
-*     opiomelanocortin
-*     Passenger~Let her go Traduzione
-*     phoneboxpoland
-*     Piosenka z nadchodzącej, 3ej płyty zespołu Psychocukier pt. "Królestwo". reż. J. Grudzień, zdj.: M. Stajniak, mont.: C. Kowalczuk
-*     Piosenka zespołu Zabili Mi Żółwia pt. Wiosna Album: Uczucia w promocji 2006 Aktualny skład zespołu: Michał Wojnar - gł. wokal Dominik Barnaś    bas Karol Wieczorek    perkusja Wojciech Homa
-*     pjolterbeist
-*     Psychocukier - Gwiazda
-*     Realizador: Alejandro Artés
-*     Robin
-*     ROFFERECS
-*     Rubber Soul
-*     Salvatore Rappa
-*     se fue tras luces pálidas.
-*     sebastyenn
-*     Seth takes a closer look at President Trump's disastrous visit to Puerto Rico and the renewed debate over gun laws. » Subscribe to Late Night: [bit.ly/LateNightSeth](http://bit.ly/LateNightSeth) » Get more Late Night with...
-*     sidonievideo
-*     Sol Storkaas
-*     spds777
-*     Subterfuge Records
-*     Teledysk do drugiego singla z płyty "Podobno nie ma już Francji".
-*     The Dead South
-*     The scientist dei Coldplay con testo tradotto in italiano.
-*     The Washing Machine
-*     To watch my other videos with double subtitles, go there : [...](http://www.youtube.com/user/frenchrescue) "Je suis malade" by Lara Fabian (written by Jacques Brel, sung by Serge Lama and Dalida too). A...
-*     Twój Tata Jest Z Nimi !
-*     Un día en el mundo (2008)
-*     Videoclip desdepedida de Sidonie a sus Fans y que se estreno en el concierto fin de Gira en joy Eslava.
-*     Vierett
-*     VIXO "lifesaver"
-*     VIXO "lifesaver"
-*     Wardeen
-*     winthernight
-*     Zabili Mi Żółwia - Wiosna
-*     Zamów DVD Live10 na [live10.pl](http://www.live10.pl) Teledysk Zdjęcia i reżyseria: Dawid Meller Występuje: Marcin Pająk
-*     خلينا نحلم - مسجلة الأحلام من تونس ومصر    Let's Dream    Tunisia/Egypt
-*     لتنزيل "رقصة ليلى" من iTunes: [apple.co/2fSojkI](http://apple.co/2fSojkI) للاستماع لأغنية "رقصة ليلى" على Apple Music: [apple.co/2ekJSsS](http://apple.co/2ekJSsS) Mashrou' Leila - Raksit Leila
-*     مشروع ليلى - فساتين
+* A beautiful duett between Jonas Fjeld and Lynni Treekrem.
+* aape kop
+* Aeropuertos. Unos vienen, otros se van,
+* Album Kayah „Kayah&Bregovic” dostępny na: [SonyMusicPoland.lnk.to/KayahBregovicAY](https://SonyMusicPoland.lnk.to/KayahBregovicAY) Więcej teledysków od Kayah: Testosteron: [youtu.be/x9QKRpALphM](https://youtu.be/x9QKRpALphM) Na językach: [youtu.be/dJbaMhT...](https://youtu.be/dJbaMhT...)
+* AlMagno
+* Ameerah AlGohary
+* Anioły Stróże Na Niebieskich Łabędziach
+* Arne Nilsen
+* baflat
+* Bring you back
+* bring you back last song from new album
+* Brodka - Dancing Shoes (Kamp! remix)
+* buenasuerterecord
+* Cecilia Watnan
+* Chciałbym się jeszcze powłóczyć z Tobą, póki żyjemy i mam Cię obok. Zjechać z Tobą w dół po poręczy, wspólnie się wyczołgać z nędzy. Schować szczęście tu pod podłogą, zanim przyjadą i nas wywiozą. ...
+* Chup Chup
+* ciapciap
+* Costa Azul
+* Cristian Faur
+* Czakulec
+* Dansk Nyeste Tid Gruppe: Amer Khalil, Casper Winder, Jakob Ahl og Julius Grothen
+* Det bør kanskje nevnes at dette faktisk er filmmusikk, komponert til...
+* Diamanter og kirsebær av John Olav Nilsen og gjengen (lyrics)
+* Diamanter og kirsebær av John Olav Nilsen og gjengen, fra albumet "For sant til å være godt" (2009)
+* Do it - The Sunday Drivers
+* Døden På Oslo S
+* Dreams Recorder
+* Du måste finnas - Helen Sjöholm (Kristina från Duvemala)
+* DumDum Boys - Stjernesludd
+* DumDumBoys
+* elvolcanmusica
+* emimusic
+* En Liten Video jeg har laget dedikert til gitar legenden Marius Müller
+* Englefjes (DumDum Boys)
+* evelutionz
+* Farinelli - Lascia Ch'io Pianga (HD)
+* fenixmusiclabel
+* Firas Naamnih
+* flanagann
+* Fra MUTFOL:
+* frenchrescue
+* From the album "Into The Sun" (2011) (http://www.facebook.com/washingband) The Washing Machine is a rock band from Lodz
+* Giampaolo De Luca
+* Grégoire
+* holahelio
+* Jag saknar dig mindre och mindre från hennes album "Innan jag kände dig"
+* Je suis malade Lara Fabian French and English subtitles
+* Jesteśmy Uratowani !
+* Jonas Fjeld & Lynni Treekrem - Engler i sneen
+* Ka-Q Kolegi Tata Jest Policjantem
+* Kawałek Kulki - Kolegi Tata
+* Kayah, Bregovic, Goran Bregovic - Prawy do lewego
+* KayahTVVEVO
+* Koniec Świata - Oranżada
+* Kumka Olik
+* Latają Nad Nami !
+* Lemonada - 04. Jnoon ليمونادا    جنون
+* Lemonada The Arabian Latin Chillout Track no.4 Jnoon To download the whole album, [rs169.rapidshare.com/files/110579375/Lemonada](http://rs169.rapidshare.com/files/110579375/Lemonada) - The_Arabian_Latin_Chillout.rar/?visit=PaylessSofts.net_for_th...
+* Live Kulturby - åpningen Stavanger 12
+* Lolaila Carmona el 1º single del primer álbum de Napoleón Solo "Napoleón Solo en la ópera". ((c) 2010 El Volcán Música. Premio "Discovery Artist" en el L.A.M.C. (New York) 2011 Napoleón Solo so...
+* Marius Müller - Carmen
+* Mashrou' Leila
+* Melissa Horn - Lät du henne komma närmre
+* Melissa Horn - Jag kan inte skilja på
+* melissahornchannel
+* Monika Brodka
+* Morten Abel - Tore Tang
+* Morten Abel / Prepple Houmb - Hodet Over Vannet
+* MrsSzalonaOna
+* muchy
+* Müge YILDIRIM
+* Music video for norwegian artist Henning Kvitnes.
+* NAPOLEÓN SOLO - LOLAILA CARMONA
+* Negatyw- Znikam
+* Night Angel
+* Nika Gitara
+* Noir Désir - Le Vent Nous Portera
+* NoirDesirVEVO
+* NRA: Last Week Tonight with John Oliver (HBO)
+* Nya albumet "Säg ingenting till mig" släpps 14 oktober! [melissahorn.se](http://www.melissahorn.se)
+* Oficjalna wersja klipu "Zaspane poniedziałki" tylko na naszym youtube!
+* Ombra fedele anch'io - Idaspe (1730) de Riccardo Broschi. Farinelli
+* One of the most popular Dutch songs with both English and Dutch lyrics (Sorry for any translation mistakes, my Dutch is not perfect)
+* Opera de Riccardo Broschi en la película Farinelli, il castrato. 1994.
+* opiomelanocortin
+* Passenger~Let her go Traduzione
+* phoneboxpoland
+* Piosenka z nadchodzącej, 3ej płyty zespołu Psychocukier pt. "Królestwo". reż. J. Grudzień, zdj.: M. Stajniak, mont.: C. Kowalczuk
+* Piosenka zespołu Zabili Mi Żółwia pt. Wiosna Album: Uczucia w promocji 2006 Aktualny skład zespołu: Michał Wojnar - gł. wokal Dominik Barnaś    bas Karol Wieczorek    perkusja Wojciech Homa
+* pjolterbeist
+* Psychocukier - Gwiazda
+* Realizador: Alejandro Artés
+* Robin
+* ROFFERECS
+* Rubber Soul
+* Salvatore Rappa
+* se fue tras luces pálidas.
+* sebastyenn
+* Seth takes a closer look at President Trump's disastrous visit to Puerto Rico and the renewed debate over gun laws. » Subscribe to Late Night: [bit.ly/LateNightSeth](http://bit.ly/LateNightSeth) » Get more Late Night with...
+* sidonievideo
+* Sol Storkaas
+* spds777
+* Subterfuge Records
+* Teledysk do drugiego singla z płyty "Podobno nie ma już Francji".
+* The Dead South
+* The scientist dei Coldplay con testo tradotto in italiano.
+* The Washing Machine
+* To watch my other videos with double subtitles, go there : [...](http://www.youtube.com/user/frenchrescue) "Je suis malade" by Lara Fabian (written by Jacques Brel, sung by Serge Lama and Dalida too). A...
+* Twój Tata Jest Z Nimi !
+* Un día en el mundo (2008)
+* Videoclip desdepedida de Sidonie a sus Fans y que se estreno en el concierto fin de Gira en joy Eslava.
+* Vierett
+* VIXO "lifesaver"
+* VIXO "lifesaver"
+* Wardeen
+* winthernight
+* Zabili Mi Żółwia - Wiosna
+* Zamów DVD Live10 na [live10.pl](http://www.live10.pl) Teledysk Zdjęcia i reżyseria: Dawid Meller Występuje: Marcin Pająk
+* خلينا نحلم - مسجلة الأحلام من تونس ومصر    Let's Dream    Tunisia/Egypt
+* لتنزيل "رقصة ليلى" من iTunes: [apple.co/2fSojkI](http://apple.co/2fSojkI) للاستماع لأغنية "رقصة ليلى" على Apple Music: [apple.co/2ekJSsS](http://apple.co/2ekJSsS) Mashrou' Leila - Raksit Leila
+* مشروع ليلى - فساتين
 * - Listening List (1)
-*     Carlos y Alexandra
+* Carlos y Alexandra
   * Black Snow: Music of Russian Composers for Viola and Piano
   * Dmitry Paperno (piano)
   * Shostakovich String Quartets
@@ -892,7 +892,7 @@
 * [INTERVIEW ARKTIDA.MARY KITTYNS SHOW.](https://www.youtube.com/watch?v=I1FOjI0EYyQ&list=WL&index=571)
 * [Nancy Ajram "Il y a des choses" (Fi Hagat) - sous-titres français](https://www.youtube.com/watch?v=jvzoMgW6YWI&list=WL&index=65)
 * [Nightwish - Live In Germany Taubertal Festival (2005) Remastered](https://www.youtube.com/watch?v=wtxTKvrb258&list=WL&index=1442)
-*             * - Listening List (2)*
+ - Listening List (2)*
 * [Haggard - Eppur Si Muove](https://www.youtube.com/watch?v=cE4YRnjrM1Q&list=WL&index=1341)
 * [Belle arabe Nasheed avec traduction française (sous-titres)](https://www.youtube.com/watch?v=OxhgZUoz-5A&list=WL&index=66)
 * [Vasily Kalinnikov - Symphony no. 1](https://www.youtube.com/watch?v=TVakXOkE2G4&list=WL&index=449)
@@ -1103,7 +1103,7 @@
 * [Robin des Bois - Si l'Amour Existe (Audio Officel)](https://www.youtube.com/watch?v=xfmWSOk-2IQ&list=PLbeHhGA3gg_TiQb6Z9-VnAnOqWFUFxdBQ&index=99)
 * [Robin des Bois - Y Renoncer Un Jour (Audio Officiel)](https://www.youtube.com/watch?v=Tni1WhpaD_A&list=PLbeHhGA3gg_TiQb6Z9-VnAnOqWFUFxdBQ&index=120)
 * [Robin des Bois- Ne Renoncez Jamais (Audio Officiel)](https://www.youtube.com/watch?v=BZ11JLwgKB8&list=PLbeHhGA3gg_TiQb6Z9-VnAnOqWFUFxdBQ&index=58)
-*             * - Listening List (3)*
+ - Listening List (3)*
 * [Robin des Bois- Un Ami Comme Toi (Audio Officiel)](https://www.youtube.com/watch?v=jCqkDNvbB54&list=PLbeHhGA3gg_TiQb6Z9-VnAnOqWFUFxdBQ&index=94)
 * [Rod Janois - Ca Ira Mon Amour (Extrait De "1789")](https://www.youtube.com/watch?v=yXQjTPg0F-o&list=PLbeHhGA3gg_TiQb6Z9-VnAnOqWFUFxdBQ&index=44)
 * [Bien Après L'Au-Delà (Clip Officiel) - Sofia Essaïdi](https://www.youtube.com/watch?v=C8ObCAWJJ-0&list=PLbeHhGA3gg_TiQb6Z9-VnAnOqWFUFxdBQ&index=42)
@@ -1276,7 +1276,7 @@
 * [80s vs 90s vs 00s - Human Jukebox](https://www.youtube.com/watch?v=MVSf9hVkpiE)
 * - Listening - To Sort*
 * [The LiederNet Archive: Texts and Translations to Lieder, mélodies, art songs, choral pieces, and other vocal music](http://www.lieder.net/lieder/)
-*     the most underappreciated classical music*
+* the most underappreciated classical music*
 * [Top 10 Nederlandse componisten – Classics To Go](http://www.classicstogo.nl/features/top-10-nederlandse-componisten/)*
 * [Top 100 des plus belles chansons françaises](https://www.senscritique.com/top/resultats/Les_plus_belles_chansons_francaises/464392)*
 * [Top 50 Songs in French ᴴᴰ - YouTube](https://www.youtube.com/watch?v=fvuOqiQfAAA)*
@@ -1296,41 +1296,41 @@
 * [Aleluia (Hallelujah) em três idiomas Russo-Inglês-Árabe - YouTube](https://www.youtube.com/watch?v=lZ4hBteFkks)*
 * [SNOW WHITE vs ELSA: Princess Rap Battle (Whitney Avalon ft. Katja Glieson) *explicit* - YouTube](https://www.youtube.com/watch?v=gcrQvoCzs80)*
 * [Hildegard von Bingen - Hortus Deliciarum - YouTube](https://www.youtube.com/watch?v=G8MGiPo5IxU)
-*     Hildegard von Bingen - Voices of Angels - Voices of Ascension - YouTube*
+* Hildegard von Bingen - Voices of Angels - Voices of Ascension - YouTube*
 * [Wohnout - Svaz českých bohémů (OFFICIAL VIDEOCLIP) - YouTube](https://www.youtube.com/watch?v=EpJV6ZCo84c&list=RDQM7QR09bQcRN8&index=2)*
 * [01. Proloog De Jubikel Cantate - Cats 2006.wmv - YouTube](https://www.youtube.com/watch?v=IGw7WXSrEGU)*
 * [Alles Ademt en Leeft (Circle of Life) Lyrics - TLK Dutch musical - YouTube](https://www.youtube.com/watch?v=e1e0GvzUziU)*
 * [Belle en het Beest | Liedje: Belle | Disney NL - YouTube](https://www.youtube.com/watch?v=QRkHw9jonHY)*
 * [De Kleine Zeemeermin | Liedje: Dat Is Mijn Wens | Disney BE - YouTube](https://www.youtube.com/watch?v=S3T_jZcmnyo&list=PLz-G4mrsIzygol5ReB8T056CJ9hVYsHU0)
-*     Musical Joseph - Begin - YouTube
-*     NLmusicals - YouTube - YouTube*
+* Musical Joseph - Begin - YouTube
+* NLmusicals - YouTube - YouTube*
 * [Charlene - Alles ademt en leeft (Idols) - YouTube](https://www.youtube.com/watch?v=UKnwimvEP-0)*
 * [Cecilia Vennersten - Det Vackraste - YouTube](https://www.youtube.com/watch?v=_SH8W2jBb_4)*
 * [Endless - Refleksjon - YouTube](https://www.youtube.com/watch?v=T3IZzr9jAl8&list=RDQMQsCyl1M8ziM&index=2)
-*     Les Miserables - Oslo Nye Teater - Prolog - YouTube
-*     Les Miserables in Swedish - At the End of the Day (När en dag är förbi) - YouTube*
+* Les Miserables - Oslo Nye Teater - Prolog - YouTube
+* Les Miserables in Swedish - At the End of the Day (När en dag är förbi) - YouTube*
 * [Discografia do Radiohead é explicada com cenas do Choque de Cultura - TMDQA!](http://www.tenhomaisdiscosqueamigos.com/2018/06/13/radiohead-choque-cultura/)
-*     Herbert Bruhn - Musik hören, Musik erleben (Connecting Media conference, Hamburg 2006) - YouTube
+* Herbert Bruhn - Musik hören, Musik erleben (Connecting Media conference, Hamburg 2006) - YouTube
 * [es.quora.com/Cu%C3%A1l-es-el-significado-detr%C3%A1s-de-Bohemian-Rhapsody](https://es.quora.com/Cu%C3%A1l-es-el-significado-detr%C3%A1s-de-Bohemian-Rhapsody)
 * [it.wikipedia.org/wiki/Jeremiah_Clarke*](https://it.wikipedia.org/wiki/Jeremiah_Clarke*)
 * [Las reinas del trap - YouTube](https://www.youtube.com/watch?v=dXJ7h3u2KyQ)*
 * [Paul van Gulick: Over muziek en zo](http://muziekplus.blogspot.com/)*
 * [aria - hero of asphalt - full album - YouTube](https://www.youtube.com/watch?v=3JnA2Jw894s)*
 * [Aria - megalomania - full album - YouTube](https://www.youtube.com/watch?v=VOU6K5a4UVg)
-*     Best Covers/ Лучшие Каверы - YouTube - YouTube
-*     Nautilus Pompilius - Letuchaya Mysh (Live) - YouTube
-*     Russian folk music. Pelageya - YouTube*
+* Best Covers/ Лучшие Каверы - YouTube - YouTube
+* Nautilus Pompilius - Letuchaya Mysh (Live) - YouTube
+* Russian folk music. Pelageya - YouTube*
 * [Би-2 – Компромисс - YouTube](https://www.youtube.com/watch?v=Rqf3J4ZOPCw)*
 * [Би-2 с симфоническим оркестром @ Crocus City Hall, 23.11.13 - YouTube](https://www.youtube.com/watch?v=NE0WYCs4JMQ&t=3301s)*
 * [Мир вашему дому!](https://www.youtube.com/watch?v=r6My_1QWNR4)
-*     Мумий Тролль - Дельфины - YouTube
-*     Никогда мы не будем братьями - YouTube
-*     Никогда мы не будем братьями! (#СтихиДмитрук) - YouTube
-*     Танцы Минус - Половинка - YouTube*
+* Мумий Тролль - Дельфины - YouTube
+* Никогда мы не будем братьями - YouTube
+* Никогда мы не будем братьями! (#СтихиДмитрук) - YouTube
+* Танцы Минус - Половинка - YouTube*
 * [Joseph DE](https://www.youtube.com/watch?v=pTSqypMafY4&list=PL674CB59676A74196)
-*     Steve Jackson - L.O.R - YouTube*
+* Steve Jackson - L.O.R - YouTube*
 * [KAZKA — ПЛАКАЛА [OFFICIAL VIDEO] - YouTube](https://www.youtube.com/watch?v=5Fv19KVVya8)
-*     Ой летіли дикі гуси - Piccard Tercia - Піккардійська Терція - YouTube
+* Ой летіли дикі гуси - Piccard Tercia - Піккардійська Терція - YouTube
 * [ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B9%D1%82%D0%B0%D0%BD%D0%B0*](https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B9%D1%82%D0%B0%D0%BD%D0%B0*)
 * [Carla Bruni - Quelqu'un m'a dit (Full Album) (2002) - YouTube](https://www.youtube.com/watch?v=1IFxb5Tl1oc)*
 * [Diam's - Car Tu Portes Mon Nom (Audio officiel) - YouTube](https://www.youtube.com/watch?v=fuksjJJsQJE)*
@@ -1349,7 +1349,7 @@
 * [Cisco e La Casa Del Vento - A las barricadas - YouTube](https://www.youtube.com/watch?v=pxZH7K1Wwu0)*
 * [Hillary Clinton vs Donald Trump RAP ERBH en ESPAÑOL // SoRa feat Maydawa 2016 FANDUB - YouTube](https://www.youtube.com/watch?v=VaNsW_DUXhc)*
 * [Hoy - Gloria ESTEFAN - YouTube](https://www.youtube.com/watch?v=4mCOH9SAUS0)
-*     José el Soñador&quot; - Musical 18/12/16 - YouTube*
+* José el Soñador&quot; - Musical 18/12/16 - YouTube*
 * [KATNISS vs HERMIONE: Princess Rap Battle (Audio en Español) - YouTube](https://www.youtube.com/watch?v=EISmmzCpNts)*
 * [No hablaré (Cover) - YouTube](https://www.youtube.com/watch?v=6nVlOtMiMaI)*
 * [Omara Portuondo - Omara Portuondo (Full Album) - YouTube](https://www.youtube.com/watch?v=eTwOTCOHG5s)*
@@ -1362,22 +1362,22 @@
 * [Hello Adele (Versão em português-Cover Andrielly Souza) - YouTube](https://www.youtube.com/watch?v=aZ5e3qkJV1A)
 * [video](https://www.youtube.com/user/Cenamusical*)
 * [Luísa Sonza - Despacito (Versão em português) - YouTube](https://www.youtube.com/watch?v=i7eUduLETBE)
-*     Os Miseráveis - Completo - YouTube*
+* Os Miseráveis - Completo - YouTube*
 * [Toquinho, Aquarela original portugués, subtitulos en castellano - YouTube](https://www.youtube.com/watch?v=XgfIkDnR0nw)
-*     ★Rapunzel/Tangled - I See The Light [Italian Fandub feat. Fry093] HD - YouTube*
+* ★Rapunzel/Tangled - I See The Light [Italian Fandub feat. Fry093] HD - YouTube*
 * [Buon Natale - Le più belle canzoni di Natale in italiano e al pianoforte - YouTube](https://www.youtube.com/watch?v=hlhnbCN2GrM)*
 * [Eros Ramazzotti &quot; Grandes Exitos Mix en HD/HQ - YouTube](https://www.youtube.com/watch?v=eIB8nKPkC4c)*
 * [Il Tempo Se Ne Va - YouTube](https://www.youtube.com/watch?v=xIbJRJV4zfY)*
 * [Italian Alternative Indie Rock](https://www.youtube.com/playlist?list=PLs7TrObLUd1TpavOsNA4QURgGKfe13qZQ)*
 * [Ludovico Einaudi - Una mattina FULL ALBUM - YouTube](https://www.youtube.com/watch?v=0Bvm9yG4cvs)*
 * [MARGHERITA - Riccardo Cocciante - YouTube](https://www.youtube.com/watch?v=YOiWNftto0s&list=PLvjwWsbA1EYYs5FZzpyXJpe11BR2nlZNJ&index=3)
-*     Musical IT*
+* Musical IT*
 * [Omaggio a Mina - Civica Jazz Band (Jazz al Piccolo Teatro Strehler) | Jazz Italiano - YouTube](https://www.youtube.com/watch?v=tF0lvgiUAog)*
 * [Senza Una Donna - Zucchero (1987) - YouTube](https://www.youtube.com/watch?v=dd9iUsrETAc)*
 * [Toto CUTUGNO - 30 GREATEST HITS (Original versions)/LP Vinyl Quality - YouTube](https://www.youtube.com/watch?v=CosKJrDkZ-Y)*
 * [Artful Idol | Best of Molana Rumi Poems | Farsi Qawwali + Sufi Song | English, Urdu Translation - YouTube](https://www.youtube.com/watch?v=gWmzqFOUWzc)
-*     Eminem - Berzerk Arabic Cover by Zeina ELShazly &amp; Wael Nasr - كلمات أغنية هحب تاني lyrics - YouTube
-*     John lennon - imagine ( Best Arabic cover ) - YouTube*
+* Eminem - Berzerk Arabic Cover by Zeina ELShazly &amp; Wael Nasr - كلمات أغنية هحب تاني lyrics - YouTube
+* John lennon - imagine ( Best Arabic cover ) - YouTube*
 * [Moana - How Far I'll Go - Arabic Lyrics - English Translation - موانا - المجهول يناديني - YouTube](https://www.youtube.com/watch?v=KYp5AuZ8CRM)*
 * [Nabyla Maan - Heena Qalat - Fusha Arabic Lyrics + Translation | نبيلة معن - حين قالت - YouTube](https://www.youtube.com/watch?v=0wBahGeNrdc)*
 * [Oum - Zarabi (Full Album) - YouTube](https://www.youtube.com/playlist?list=PL3mj2ezAMlqNsXt5-ik3w-NT2eUc6Fdmb)*
@@ -1392,28 +1392,28 @@
 * [SchubertF-D899-4-Impromptu-a4.pdf](https://www.mutopiaproject.org/ftp/SchubertF/D899/SchubertF-D899-4-Impromptu/SchubertF-D899-4-Impromptu-a4.pdf)*
 * [Álex Ubago — Wikipédia](https://fr.wikipedia.org/wiki/%C3%81lex_Ubago)*
 * [Yuridia — Wikipédia](https://fr.wikipedia.org/wiki/Yuridia)
-*     Dvorak - Slavonische Tänze
-*     Dvorak 9
-*     Boccherini Menuet
-*     Chopin
-*     Pirates
-*     Paderewski Menuet
-*     Bach
-*     Brahms UT 1, 5, 6
-*     Brahms Symph 1, 4
-*     Bach Jesu
-*     Herr der Ringe
-*     Enya
-*     Hayburner
-*     Les feuilles mortes
-*     Swing
-*     Sing Sing Song
-*     Chinese Classical
-*     Celtic
-*     Verdi Aida
-*     Bizet Toreadors
-*     Danube
-*     Schindler's List
+* Dvorak - Slavonische Tänze
+* Dvorak 9
+* Boccherini Menuet
+* Chopin
+* Pirates
+* Paderewski Menuet
+* Bach
+* Brahms UT 1, 5, 6
+* Brahms Symph 1, 4
+* Bach Jesu
+* Herr der Ringe
+* Enya
+* Hayburner
+* Les feuilles mortes
+* Swing
+* Sing Sing Song
+* Chinese Classical
+* Celtic
+* Verdi Aida
+* Bizet Toreadors
+* Danube
+* Schindler's List
 
 ## Music Theory
 
@@ -1422,14 +1422,16 @@
 * [Музыка и аутизм — Памела Хитон / ПостНаука](https://www.youtube.com/watch?v=Lz7jqW_mXPQ&list=PLVWtXi_Jrj_2tT8mrtkFYm64Exm0OLts7&index=19)*
 * [Aprender música enseña a leer](https://theconversation.com/aprender-musica-ensena-a-leer-106599)
 * [letras.mus.br/*](https://www.letras.mus.br/*)
-* [Dictionary of music: [chto-proishodit.ru/news/2014/10/18/104004827](http://chto-proishodit.ru/news/2014/10/18/104004827)*](http://chto-proishodit.ru/news/2014/10/18/104004827](http://chto-proishodit.ru/news/2014/10/18/104004827)*)
+* Dictionary of music
+
+* -> [chto-proishodit.ru/news/2014/10/18/104004827](http://chto-proishodit.ru/news/2014/10/18/104004827)
 * [Italian terms: [biometrica.tomsk.ru/ftp/dict/muzic/vocab.htm](http://www.biometrica.tomsk.ru/ftp/dict/muzic/vocab.htm)
 * [bibliotekar.ru/slovar-muzika/index.htm*](http://bibliotekar.ru/slovar-muzika/index.htm*)
 * [German-English: [bibliotekar.ru/slovar-muzika/index.htm](http://bibliotekar.ru/slovar-muzika/index.htm)
-* [French: [pianoweb.fr/dictionnaire-musique-accueil.php](http://www.pianoweb.fr/dictionnaire-musique-accueil.php)*](http://www.pianoweb.fr/dictionnaire-musique-accueil.php](http://www.pianoweb.fr/dictionnaire-musique-accueil.php)*)
-* [Українська: [term.in.ua/](http://term.in.ua/)*](http://term.in.ua/](http://term.in.ua/)*)
-* [English: [dictionary.onmusic.org/](http://dictionary.onmusic.org/)*](http://dictionary.onmusic.org/](http://dictionary.onmusic.org/)*)
-* [Spanish: [aprendeinglessila.com/2013/02/vocabulario-terminos-musicales-en-ingles-parte-2-con-pronunciacion-2/](http://aprendeinglessila.com/2013/02/vocabulario-terminos-musicales-en-ingles-parte-2-con-pronunciacion-2/)*](http://aprendeinglessila.com/2013/02/vocabulario-terminos-musicales-en-ingles-parte-2-con-pronunciacion-2/](http://aprendeinglessila.com/2013/02/vocabulario-terminos-musicales-en-ingles-parte-2-con-pronunciacion-2/)*)
+* [French: [pianoweb.fr/dictionnaire-musique-accueil.php](http://www.pianoweb.fr/dictionnaire-musique-accueil.php)
+* [Українська](http://term.in.ua/)
+* [English](http://dictionary.onmusic.org/)
+* [Spanish](http://aprendeinglessila.com/2013/02/vocabulario-terminos-musicales-en-ingles-parte-2-con-pronunciacion-2/)
 * [musopen.org](http://musopen.org/)
 * [artehistoria.com/](http://www.artehistoria.com/)
 * [apassion4jazz.net/glossary.html](http://www.apassion4jazz.net/glossary.html)
@@ -1443,28 +1445,30 @@
 
 * [Devil Music: A History of the Occult in Rock & Roll](https://medium.com/cuepoint/devil-music-a-history-of-the-occult-in-rock-roll-3e671a821ba5)
 * [edutopia.org/arts-music-curriculum-child-development](http://www.edutopia.org/arts-music-curriculum-child-development)
-*     The Art of Listening - Music Documentary (2017)de The Art of Listening*
+* The Art of Listening - Music Documentary (2017)de The Art of Listening*
 * [MusicBrainz - The Open Music Encyclopedia](https://musicbrainz.org/)
-*     Pochemu skripki Stradivarii takie orogije*
+* Pochemu skripki Stradivarii takie orogije*
 * [Вся история музыки в 65 карточках • Arzamas](https://arzamas.academy/mag/594-muztabl)
 * [wqxr.org/story/leonard-bernstein-bookshelf-intimate-look/](https://www.wqxr.org/story/leonard-bernstein-bookshelf-intimate-look/)
-* - Books*
+
+## Books
+
 * [Musik in der Zeit - Zeit in der Musik](https://vk.com/doc6576953_409905954?hash=ee6b61cef2e2a13b15&dl=6f29ee3bd722fe3bae)*
 * [Musikästhetik](https://vk.com/doc6576953_409905957?hash=0ab03e1e99815d7d96&dl=1a91d2de19d391ea80)*
 * [Conceptualizing Music: Cognitive Structure, Theory, and Analysis (Ams Studies in Music Series)](https://b-ok.cc/book/648181/77c268)
-*     Das klassische-Musik-Buch
-*     Das Tao der Musik
-*     Die Kunst Bachs
-*     Die Kunst Bachs*
+* Das klassische-Musik-Buch
+* Das Tao der Musik
+* Die Kunst Bachs
+* Die Kunst Bachs*
 * [história da música](http://libgen.io/search.php?req=historia+da+musica&open=0&res=25&view=simple&phrase=1&column=def)
 * [b-ok.cc/s/advanced%20music%20theory](https://b-ok.cc/s/advanced%20music%20theory)
-*     J.S.B. Genie über den Zeiten
-*     Musik und Mathematik (Kittler)
-*     Musik und Natur
-*     Musik und Zahl
-*     Musikpsychologie
-*     Reisewege zu Bach
-*     Reisewege zu Bach*
+* J.S.B. Genie über den Zeiten
+* Musik und Mathematik (Kittler)
+* Musik und Natur
+* Musik und Zahl
+* Musikpsychologie
+* Reisewege zu Bach
+* Reisewege zu Bach*
 * [see links](https://b-ok.cc/book/455687/83b91c)*
 * [The Origins of Music (see also links)](https://b-ok.cc/book/541380/0e679d)
 
@@ -1483,14 +1487,14 @@
 * [Best Of Yo Yo Ma Cello - Yo Yo Ma Playlist - YouTube](https://www.youtube.com/watch?v=MFBuhY1TVP4)*
 * [A. Vivaldi: Concerti per Flauto Traversiere [Academia Montis Regalis - B.Kuijken] - YouTube](https://www.youtube.com/watch?v=FiX_xKgdvbw)*
 * [Liszt - Complete Hungarian Rhapsodies - YouTube](https://www.youtube.com/watch?v=tluFQCOezZE)
-*     Vasyl Barvinsky. Komponist ohne Noten. - YouTube*
+* Vasyl Barvinsky. Komponist ohne Noten. - YouTube*
 * [Ken uw Klassieken: Dvořák 8 - Ken uw klassieken - AVROTROS.nl](https://www.avrotros.nl/ken-uw-klassieken/gemist/detail/item/ken-uw-klassieken-dvorak-8-12-06-2016/)*
 * [Classical Music for Reading and Concentration - YouTube](https://www.youtube.com/watch?v=GMhIT4a98UE)*
 * [Debussy: Violin Sonata, Cello Sonata, Piano Trio - YouTube](https://www.youtube.com/watch?v=5PtUysEIksI)*
 * [Bach Partita No.2 in D minor BWV 1004 - Hilary Hahn 432Hz - YouTube](https://www.youtube.com/watch?v=-mSnmM0nlzk)*
 * [Beethoven : Concerto pour piano n°3 ( Alice Sara Ott / Orchestre philharmonique de Radio France) - YouTube](https://www.youtube.com/watch?v=PM0HqmptYlY)*
 * [The best of Brahms - YouTube](https://www.youtube.com/watch?v=paKA44MIr8s)
-*     The Best Of YIRUMA | Yiruma's Greatest Hits ~ Best Piano - YouTube*
+* The Best Of YIRUMA | Yiruma's Greatest Hits ~ Best Piano - YouTube*
 * [The Best Relaxing Classical Music Ever By Tchaikovsky - Relaxation Meditation Focus Reading - YouTube](https://www.youtube.com/watch?v=OgOpckjuppo)*
 * [Gloria in D, R.589: Allegro: Gloria in excelsis · Antonio Vivaldi, The English Concert, Trevor Pinnock, Paul Goodwin, Mark Bennett, The English Concert Choir](https://open.spotify.com/user/sinfinimusic/playlist/4wM4RwtieHzYpcvDIlaeSx)*
 * [Chopin: Complete Mazurkas (Full Album) - YouTube](https://www.youtube.com/watch?v=H5D46aHhRDM)*
@@ -1562,7 +1566,7 @@
 * [Musikalische Akustik: ein Handbuch: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/?q=Musikalische+Akustik%3A+ein+Handbuch)*
 * [Muziekgeschiedenis deel 1: de Middeleeuwen](https://youtu.be/UQFW19DELC8)*
 * [olla-vogala - YouTube](https://www.youtube.com/channel/UC8pztlxOONYyw8q46CKHY-A)
-*     Peter Weir*
+* Peter Weir*
 * [Philippe Entremont - The World&#39;s Favourite Piano Music (Vinyl, LP, Album) at Discogs](https://www.discogs.com/fr/Philippe-Entremont-The-Worlds-Favourite-Piano-Music/release/3868034)*
 * [Principles of Musical Acoustics: free download. Ebooks library. On-line books store on Z-Library](https://b-ok.cc/s/?q=Principles++of++Musical++Acoustics)*
 * [[VIDEO] Top 5 Most Successful Croatian Bands of All Time | Croatia Week](https://www.croatiaweek.com/video-top-5-most-successful-croatian-bands-of-all-time/)
@@ -1583,13 +1587,13 @@
 * [No Doubt - Don't Speak - YouTube](https://www.youtube.com/watch?v=TR3Vdo5etCQ)*
 * [Melodic Death Metal - INSTRUMENTAL MIX - YouTube](https://www.youtube.com/watch?v=H-W55-Srmx4)*
 * [Mumford & Sons - Tompkins Square Park (Live) - YouTube](https://www.youtube.com/watch?v=oHzc_DLHztA)
-*         Scottish Hip Hop Mix 2014de TeethAreOnDisplay*
+*     Scottish Hip Hop Mix 2014de TeethAreOnDisplay*
 * [Led Zeppelin – Stairway to Heaven Lyrics | Genius Lyrics](https://genius.com/Led-zeppelin-stairway-to-heaven-lyrics)*
 * [Metallica - Enter Sandman lyrics | LyricsFreak](https://www.lyricsfreak.com/m/metallica/enter+sandman_20092087.html)
-*         * Sure, here are some niche music groups that have a cult following:*             1. The Mountain Goats - an American indie folk band known for their poetic and emotional lyrics.*             2. Neutral Milk Hotel - an American indie rock band known for their experimental sound and the cult classic album "In the Aeroplane Over the Sea."*             3. The Microphones - an American indie rock band known for their lo-fi sound and emotional lyrics.*             4. Joanna Newsom - an American singer-songwriter known for her unique voice and harp playing.*             5. The Unicorns - a Canadian indie rock band known for their quirky and eclectic sound.*             6. WHY? - an American indie rock band known for their witty and introspective lyrics.*             7. Mount Eerie - an American indie rock band known for their atmospheric sound and emotional lyrics.*             8. Grouper - an American ambient music project known for their ethereal and dreamy soundscapes.*             9. Tim Hecker - a Canadian electronic musician known for his experimental and ambient sound.*             10. A Winged Victory for the Sullen - a collaborative project between American composer Dustin O'Halloran and Swedish composer Adam Wiltzie, known for their minimalist and atmospheric sound.*     * 2*
+*     * Sure, here are some niche music groups that have a cult following:*         1. The Mountain Goats - an American indie folk band known for their poetic and emotional lyrics.*         2. Neutral Milk Hotel - an American indie rock band known for their experimental sound and the cult classic album "In the Aeroplane Over the Sea."*         3. The Microphones - an American indie rock band known for their lo-fi sound and emotional lyrics.*         4. Joanna Newsom - an American singer-songwriter known for her unique voice and harp playing.*         5. The Unicorns - a Canadian indie rock band known for their quirky and eclectic sound.*         6. WHY? - an American indie rock band known for their witty and introspective lyrics.*         7. Mount Eerie - an American indie rock band known for their atmospheric sound and emotional lyrics.*         8. Grouper - an American ambient music project known for their ethereal and dreamy soundscapes.*         9. Tim Hecker - a Canadian electronic musician known for his experimental and ambient sound.*         10. A Winged Victory for the Sullen - a collaborative project between American composer Dustin O'Halloran and Swedish composer Adam Wiltzie, known for their minimalist and atmospheric sound.* * 2*
 * [Zemfira лучшие песни Земфира величайшие хиты 2018 - YouTube](https://www.youtube.com/watch?v=AjOWYgL_YC8&t=1073s)*
 * [Владимир Высоцкий ‎– Золотые Хиты. (CD, Compilation) 2005. - YouTube](https://www.youtube.com/watch?v=zDeI0eOElP4)
-*         Григорий Лепс и Ани Лорак - Зеркала (Official Video)de MELOMAN VIDEO*
+*     Григорий Лепс и Ани Лорак - Зеркала (Official Video)de MELOMAN VIDEO*
 * [Гудгора: Концерт Вячеслава Бутусова (эфир от 30. 09. 2016 г.) - YouTube](https://www.youtube.com/watch?v=jREmP3LoYh8)*
 * [Земфира - Мы разбиваемся - YouTube](https://www.youtube.com/watch?v=ltJFa3K_1Sk)*
 * [Кино - Виктор Цой - Лучшие песни - YouTube](https://www.youtube.com/watch?v=zHQhQVFgKU4)*
@@ -1599,7 +1603,7 @@
 * [Наутилус Помпилиус - Серебряный век (Избранное, том II) (Альбом 2015) - YouTube](https://www.youtube.com/watch?v=tKKuetu-UIs)*
 * [Рок-группа "Начало!"](https://vk.com/nachalomusic)*
 * [OXXXYMIRON - Город под подошвой (текст,lyrics) - YouTube](https://www.youtube.com/watch?v=gzXLe3tomYA)
-*         POLYUSHKA POLYE - ORIGINAL VERSIONde lustize*
+*     POLYUSHKA POLYE - ORIGINAL VERSIONde lustize*
 * [Nautilus Pompilius Вячеслав Бутусов лучшее - YouTube](https://www.youtube.com/watch?v=xRH8Lvw8eqo)*
 * [Russian rock. Top 400 songs. Part 1 - YouTube](https://www.youtube.com/watch?v=brwoByiV2NA)*
 * [Оред и решка. Назад в СССР](https://www.youtube.com/watch?v=0KjMBDwDQNQ)*
@@ -1607,102 +1611,105 @@
 * [ДДТ Лучшее - YouTube](https://www.youtube.com/watch?v=5bW-ouTeTzw&t=2688s)*
 * [Top 10 Russian Rock & Heavy Metal](https://www.youtube.com/watch?v=UbB0H8KA4fs)*
 * [Мельница 50 лучших песен - YouTube](https://www.youtube.com/watch?v=Q3_GKt_u7uE)
-*     * 3
-*         Adis Top 5 der großartigsten Songs aller Zeiten | NEO MAGAZIN ROYALE mit Jan Böhmermann - ZDFneode NEO MAGAZIN ROYALE*
+* * 3
+*     Adis Top 5 der großartigsten Songs aller Zeiten | NEO MAGAZIN ROYALE mit Jan Böhmermann - ZDFneode NEO MAGAZIN ROYALE*
 * [Wicked Soundtrack (German)](https://www.youtube.com/playlist?list=PLE3B74B511F2FF7CC)
-*         Les misérables - Der Handel 1/11de LiNBBh*
+*     Les misérables - Der Handel 1/11de LiNBBh*
 * [In Extremo – Wikipedia](https://de.wikipedia.org/wiki/In_Extremo#Texte)*
 * [Saltatio Mortis – Wikipedia](https://de.wikipedia.org/wiki/Saltatio_Mortis)*
 * [Schumann - String Quartet No. 1 In A Minor - YouTube](https://www.youtube.com/watch?v=km0mOMyYHKE)
-*         Neue Musik 2016 (Auf Deutsch)de EuroMuzon*
+*     Neue Musik 2016 (Auf Deutsch)de EuroMuzon*
 * [The Complete Discography | Adrian von Ziegler](https://adrianvonziegler.bandcamp.com/album/the-complete-discography)
-*     * 4
-*         Квітка Цісик (Kaсey) - &quot;Пісні з України / Songs of Ukraine&quot; (1980) - YouTube
-*         ОКЕАН ЕЛЬЗИ - ИЗБРАННОЕ / OKEAN ELZI - THE BESTde MELOMAN MUSIC*
+* * 4
+*     Квітка Цісик (Kaсey) - &quot;Пісні з України / Songs of Ukraine&quot; (1980) - YouTube
+*     ОКЕАН ЕЛЬЗИ - ИЗБРАННОЕ / OKEAN ELZI - THE BESTde MELOMAN MUSIC*
 * [Vivienne Mort | Влог | 1 серія: Вступ. - YouTube](https://www.youtube.com/watch?v=1wcpvdeXVkw)*
 * [My Top 50 Best Russian And Ukrainian Songs - YouTube](https://www.youtube.com/watch?v=UGxy5F5QZ-I)
-*     * 5*
+* * 5*
 * [17 chants de Noël en français avec vos artistes préférés - Hosanna Spécial Noël - YouTube](https://www.youtube.com/watch?v=BgmGwaquhX8)
-*         Les Misérables Complete (French)de Menino Hulk*
+*     Les Misérables Complete (French)de Menino Hulk*
 * [WICKED | MUSICAL COMPLETO | MUSICALES IES L'OM](https://youtu.be/b-fd9cNQMgo)
-*     * 6*
+* * 6*
 * [Wicked canciones español Lyrics](https://www.youtube.com/playlist?list=PLG3pcNAMTJTd7DZ8zoAwMhbFPfTuKR-D-)*
 * [MANA (40 GRANDES EXITOS) SUS MEJORES CANCIONES - YouTube](https://www.youtube.com/watch?v=38E13rofnD8)*
 * [Lo Mejor Del Rock En Español 80 y 90 - Exitos De Rock En Español De Los 80 y 90 - YouTube](https://www.youtube.com/watch?v=7XAAa_wknrE)*
 * [Lo Mejor Del Rock En Español 80 y 90 - Rock De Los 80 y 90 En Espanol - YouTube](https://www.youtube.com/watch?v=jchW_3Nw5xw)*
 * [Laura Pausini - En Cambio No (Official Music Video) - YouTube](https://www.youtube.com/watch?v=0-3h5fGyT5o)
-*     * 7*
+* * 7*
 * [Wicked Brasil - Ato 01](https://youtu.be/stO8K_YbhUQ)*
 * [Fado Music from Portugal - Traditional - Portuguese Music 2 Hours - YouTube](https://www.youtube.com/watch?v=RY66q43G63Y)
-*     * 8*
+* * 8*
 * [“Beati voi” presenta “I Miserabili”, spettacolo ispirato al romanzo di Victor Hugo. - YouTube](https://www.youtube.com/watch?v=j-5fK24t-FM)*
 * [Max Gazzè - La Vita Com'è - YouTube](https://www.youtube.com/watch?v=OasjwepNJyI)*
 * [Max Gazzé - Ti Sembra Normale - YouTube](https://www.youtube.com/watch?v=vgBmn1S8Hus)*
 * [Popular - Una star (Italian version)](https://youtu.be/gWHAsnGtAQY)*
 * [Fabi Silvestri Gazzè - Alzo le mani (Videoclip) - YouTube](https://www.youtube.com/watch?v=zKf-bRTiJfg&index=7&list=RDOasjwepNJyI)*
 * [Felicita - Albano Carrisi & Romina Power_[가사, 歌詞, Lyrics] - YouTube](https://www.youtube.com/watch?v=WNHzEO0jOLY)
-*         Romantic Italia-Music (Mini-Mix)de Damir Koren
-*     * 9*     * 10*     * 11*     * 12*     * 13*     * 14*
+*     Romantic Italia-Music (Mini-Mix)de Damir Koren
+* * 9* * 10* * 11* * 12* * 13* * 14*
 * [Wicked de musical nl](https://www.youtube.com/playlist?list=PL73CF122E31298DC7)*
 * [Wicked Willemijn + Celine + Ferry Deel 1](https://youtu.be/jUjCydEkiuA)*
 * [Wicked akte 1 (Willemijn, Chantal & Jim)](https://youtu.be/UyV5HcgoZOs)
-*     * 15*     * 16*     * 17+*
+* * 15* * 16* * 17+*
 * [Relax Music - Around The World - Africa - ONE HOUR of stressless african instrumental music](https://www.youtube.com/watch?v=a3lYEigrrqI)*
 * [BEAUTIFUL AFRICAN MUSIC - FARAFI](https://www.youtube.com/watch?v=ISy5WPqUWs4)
-* - Sheet Music
+
+## Sheet Music
+
 * [free-scores.com/PDF_EN/brahms-johannes-hungarian-dances-nos-20483.pdf](https://www.free-scores.com/PDF_EN/brahms-johannes-hungarian-dances-nos-20483.pdf)
 * [onlinepianist.com/sheets/viewer/?id=2122](http://www.onlinepianist.com/sheets/viewer/?id=2122)
 * [musopen.org/sheetmusic/993/franz-liszt/hungarian-rhapsody-no-2-s-2442/](https://musopen.org/sheetmusic/993/franz-liszt/hungarian-rhapsody-no-2-s-2442/)
 * [henseltlibrary.files.wordpress.com/2009/12/grieg_piano_concerto_solo-arrbygrieg.pdf](https://henseltlibrary.files.wordpress.com/2009/12/grieg_piano_concerto_solo-arrbygrieg.pdf)
-* * - List
+
+## List
+
 * [video](https://www.youtube.com/watch?v=u2pySXCmwpc)
-*             *
 * [2a) ЛМ [teksty-pesenok.ru/rus-nautilus-pompilius/tekst-pesni-letuchaya-mysh-1996-akustika-lu/1866117/](http://teksty-pesenok.ru/rus-nautilus-pompilius/tekst-pesni-letuchaya-mysh-1996-akustika-lu/1866117/)
-  * 2b)
-*             *
+* 2b)
 * [...](https://www.youtube.com/watch?v=8jLTcsTenl4](https://www.youtube.com/watch?v=8jLTcsTenl4)*)
 * [video](https://www.youtube.com/watch?v=VS4fyxuFZvA&list=PLvuQhhwxi_LsFIF0dpRI6MkHTqeixZzZ8*)
 * [video](https://www.youtube.com/watch?v=N5UxzcMvkGA*)
 * [de.wikipedia.org/wiki/Liste_der_meistverkauften_Singles_in_Deutschland](https://de.wikipedia.org/wiki/Liste_der_meistverkauften_Singles_in_Deutschland)
-*     3b) Möchtegang
+* 3b) Möchtegang
   * Dodo
   * EffE
   * Manillio
   * Pronto
-*             *
 * [...](https://www.youtube.com/watch?v=BJicsrkN3hc](https://www.youtube.com/watch?v=BJicsrkN3hc)*)
 * [video](https://www.youtube.com/watch?v=gwMcY57M3V0)
   * 4)
-*     5) Alors on danse (Stromae)
+* 5) Alors on danse (Stromae)
   * Tous les Memes (Stromae)
   * Papoutai (Stromae)
   * Bella (Stromae)
   * Coeur de Pirate (Stromae)
   * Elle me Dit (Stromae)
   * Ca Plane Pour Moi
-*     6)
-*     7a) Lambada
+* 6)
+* 7a) Lambada
   * Se eu te pego
   * 7b)
-*     8)
-*     9) Meg’s Song*
+* 8)
+* 9) Meg’s Song*
 * [lyricstranslate.com/de/mush-haul-ashaah-%D9%85%D8%B4-%D9%87%D9%82%D9%88%D9%84-%D8%B9%D8%B4%D9%82%D8%A7%D9%87-i-wont-say-it-im-love-i-will-not-say-i.html](https://lyricstranslate.com/de/mush-haul-ashaah-%D9%85%D8%B4-%D9%87%D9%82%D9%88%D9%84-%D8%B9%D8%B4%D9%82%D8%A7%D9%87-i-wont-say-it-im-love-i-will-not-say-i.html)
   * Make a Man out of You*
 * [lyricstranslate.com/de/menkom-ha3mel-regal-%D9%85%D9%86%D9%83%D9%85-%D9%87%D8%B9%D9%84%D9%85-%D8%B1%D8%AC%D8%A7%D9%84-ill-make-man-out-you-i-will-make-men-o.html](https://lyricstranslate.com/de/menkom-ha3mel-regal-%D9%85%D9%86%D9%83%D9%85-%D9%87%D8%B9%D9%84%D9%85-%D8%B1%D8%AC%D8%A7%D9%84-ill-make-man-out-you-i-will-make-men-o.html)
   * 10)
-*     11a)
-*     11b)
-*     12a)
-*     13)
-*     14)
-*     15)
-*     16a)
-*     16b)
-*     16c)
-*     SW)
-*     JA)
-* - Lieblingsmusik
-*     Lieblingsmusik
+* 11a)
+* 11b)
+* 12a)
+* 13)
+* 14)
+* 15)
+* 16a)
+* 16b)
+* 16c)
+* SW)
+* JA)
+
+## Lieblingsmusik
+
+* Lieblingsmusik
   * Brahms Sonate für Cello und Klavier No. 1 in E-Moll
   * Brahms Piano Quintet No. 1
   * Tchaikovsky Piano Trio in A Minor, Opus 50
@@ -1719,7 +1726,7 @@
 * [Best Of Yo Yo Ma Cello - Yo Yo Ma Playlist - YouTube](https://www.youtube.com/watch?v=MFBuhY1TVP4)
   * Zum Anhören
 * [REM : Greatest Hits - Best of REM Full Album Collection [HD] - YouTube](https://www.youtube.com/watch?v=mTCscm5yylU)
-*             *
+
 * [Brahms](...)* Orchesterwerke[Bearbeiten | Quelltext bearbeiten]
 * Sinfonien[Bearbeiten | Quelltext bearbeiten]
 * [Sinfonie Nr. 1 c-Moll op. 68 (1876)](https://de.wikipedia.org/wiki/1._Sinfonie_(Brahms))
@@ -1740,7 +1747,7 @@
 * [Tragische Ouvertüre d-Moll op. 81 (1880)](https://de.wikipedia.org/wiki/Tragische_Ouvert%C3%BCre_(Brahms))
 * Klaviermusik[Bearbeiten | Quelltext bearbeiten]
 * Für zwei Hände[Bearbeiten | Quelltext bearbeiten]
-* [Albumblatt a-Moll o. op. (1853)[26]](https://de.wikipedia.org/wiki/Johannes_Brahms#cite_note-32)
+* [Albumblatt a-Moll o. op. (1853)](https://de.wikipedia.org/wiki/Johannes_Brahms#cite_note-32)
 * [Sonate Nr. 1 C-Dur op. 1 (1853)](https://de.wikipedia.org/wiki/Klaviersonate_Nr._1_(Brahms))
 * Sonate Nr. 2 fis-Moll op. 2 (1854)
 * Scherzo in es-Moll op. 4 (1854)
@@ -1754,7 +1761,7 @@
 * Variationen über ein ungarisches Lied op. 21/2 (1861)
 * [Variationen und Fuge über ein Thema von Händel op. 24 (1862)](https://de.wikipedia.org/wiki/Variationen_und_Fuge_%C3%BCber_ein_Thema_von_H%C3%A4ndel)
 * [Variationen über ein Thema von Paganini (zwei Hefte) op. 35 (1866)](https://de.wikipedia.org/wiki/Variationen_%C3%BCber_ein_Thema_von_Paganini_(Brahms))
-* [Sechzehn Walzer op. 39 (1865)[A 7]](https://de.wikipedia.org/wiki/Johannes_Brahms#cite_note-33)
+* [Sechzehn Walzer op. 39 (1865)](https://de.wikipedia.org/wiki/Johannes_Brahms#cite_note-33)
 * 10 Ungarische Tänze WoO 1 (1872 Bearbeitung des vierhändigen Originals von 1869, siehe unten)
 * [Acht Klavierstücke op. 76 (1879)](https://de.wikipedia.org/wiki/Acht_Klavierst%C3%BCcke_op._76)
 * [Zwei Rhapsodien op. 79 (1880)](https://de.wikipedia.org/wiki/Zwei_Rhapsodien_op._79)
@@ -1784,7 +1791,7 @@
 * Klavierquartett Nr. 1 g-Moll op. 25 (1863)
 * Klavierquartett Nr. 2 A-Dur op. 26 (1863)
 * Klavierquintett f-Moll op. 34 (1865)
-* [Sonate für Klavier und Violoncello Nr. 1 e-Moll op. 38 (1865)[3]](https://de.wikipedia.org/wiki/Johannes_Brahms#cite_note-H%C3%B6hne-3)
+* [Sonate für Klavier und Violoncello Nr. 1 e-Moll op. 38 (1865)](https://de.wikipedia.org/wiki/Johannes_Brahms#cite_note-H%C3%B6hne-3)
 * Trio für Horn, Violine und Klavier Es-Dur op. 40 (1865)
 * Klavierquartett Nr. 3 c-Moll op. 60 (1875)
 * [Sonate für Klavier und Violine Nr. 1 G-Dur op. 78 (1879)](https://de.wikipedia.org/wiki/Violinsonate_Nr._1_(Brahms))
@@ -1847,7 +1854,7 @@
 * Von edler Art, Mit Lust tät ich ausreiten, Bei nächtlicher Weil, Vom heiligen Märtyrer Emmerano, Täublein weiß, Ach lieber Herre Jesu Christ, Sankt Raphael, In Stiller Nacht, Abschiedslied, Der tote Knabe, Die Wollust in den Maien, Morgengesang, Schnitter Tod, Der englische Jäger
 * 12 Volkslieder für gemischten Chor ohne Begleitung WoO 35 (1863–64)
 * Scheiden, Wach auf, Erlaube mir, Der Fiedler, Da unten im Tale, Des Abends, Wach auf, Dort in den Weiden, Altes Volkslied, Der Ritter und die Feine, Der Zimmergesell, Altdeutsches Kampflied
-* Lieder (ein- und mehrstimmig)[Bearbeiten | Quelltext bearbeiten]
+* Lieder (ein- und mehrstimmig)
 * MEN
 * $2:00
 *„Guten Abend, gut’ Nacht“ (Wiegenlied, op. 49), gesungen von Ernestine Schumann-Heink (Aufnahme von 1915)*
@@ -2133,6 +2140,7 @@
 * Orgelmusik[Bearbeiten | Quelltext bearbeiten]
 
 (veröffentlicht in Dvořáks Abschlussarbeit an der Prager Orgelschule 1859)
+
 * Präludium D-Dur
 * Präludium G-Dur
 * Präludium a-moll
@@ -2143,50 +2151,54 @@
 * Fuge g-moll
 * Vokalwerke[Bearbeiten | Quelltext bearbeiten]
 * Messe B-Dur, verschollen bzw. vernichtet (1857/59)
-*[Zypressen, 18 Lieder auf Gedichte von Gustav Pfleger-Moravský (1865)](https://de.wikipedia.org/wiki/Gustav_Pfleger-Moravsk%C3%BD)*
-*[Zwei Lieder für Bariton, auf Texte von Adolf Heyduk (1865)](https://de.wikipedia.org/wiki/Adolf_Heyduk)*
-*[Fünf Lieder, auf Worte von Eliška Krásnohorská (1871)](https://de.wikipedia.org/wiki/Eli%C5%A1ka_Kr%C3%A1snohorsk%C3%A1)*
-*[Das Waisenkind, Ballade für eine Singstimme und Klavier nach Karel Jaromír Erben (1871)](https://de.wikipedia.org/wiki/Karel_Jarom%C3%ADr_Erben)*
-*Rosmarin für eine Singstimme und Klavier nach Karel Jaromír Erben (1871)*
-*Hymnus Die Erben des weißen Bergs für gem. Chor und Orchester op. 30, Libretto von Vítězslav Hálek (1872)*
-*Vier Lieder nach serbischen Volksdichtungen op. 6 (1872)*
-*Lieder aus der Königinhofer Handschrift op. 7 (1872)*
-*Klänge aus Mähren op. 20, Duette für Sopran und Tenor (1875)*
-*[Stabat Mater op. 58 (1876/Instrumentation 1877)](https://de.wikipedia.org/wiki/Stabat_Mater_(Dvo%C5%99%C3%A1k))*
-*Vier Lieder für gem. Chor op. 29 (1876)*
-*Klänge aus Mähren op. 29, Duette für Sopran und Alt (1876)*
-*Abendlieder op. 31, nach Vítězslav Hálek (1876)*
-*Drei Chorlieder für Männerstimmen (1877)*
-*Ave Maria für Altstimme und Orgel (1877)*
-*Klänge aus Mähren op. 32, Duette für Sopran und Alt (1877)*
-*Tschechischer Liederstrauß für Männerchor op. 41 (1877)*
-*Tschechenlied für Männerchor (1877)*
-*Aus dem slawischen Liederstrauß, Drei Lieder für Männerchor op. 43 (1878)*
-*Hymnus zur Allerheiligsten Dreifaltigkeit für eine Singstimme und Orgel (1878)*
-*Drei neugriechische Gedichte für eine Singstimme und Klavier op. 50 (1878)*
-*Fünf Chöre für Männerstimme auf Texte litauischer Volkslieder op. 27 (1878)*
-*Der 149. Psalm für Männerchor und Orchester (1879)*
-*Ave Maris Stella für eine Singstimme und Orgel (1879)*
-*O sanctissima für Alt, Bariton und Orgel (1879)*
-*Zigeunermelodien op. 55, 7 Lieder auf Texte von Adolf Heyduk (1880)*
-*In der Natur, 5 Lieder für gem. Chor op. 63, auf Texte von Vítězslav Hálek (1882)*
-*[Die Geisterbraut, Kantate für Soli, Chor und Orchester op. 69, Libretto von Karel Jaromir Erben (1884)](https://de.wikipedia.org/wiki/Die_Geisterbraut)*
-*Zwei Lieder auf Volkstexte für eine Singstimme und Klavier (1885)*
-*Hymne der tschechischen Landleute für gem. Chor und Orchester op. 28, Libretto von Karel Pippich (1885)*
-*Die Heilige Ludmilla, Oratorium für Soli, Chor und Orchester op. 71, Libretto von Jaroslav Vrchlický (1885/86)*
-*Im Volkston op. 73, 4 Lieder für Singstimme und Klavier (1886)*
-*[Messe D-Dur op. 86 für Soli, gem. Chor und Orgel (1887)](https://de.wikipedia.org/wiki/Messe_D-Dur_(Dvo%C5%99%C3%A1k))*
-*Der 149. Psalm für gem. Chor und Orchester (1887)*
-*Vier Lieder op. 82 für Singstimme und Klavier, nach Texten von Otilie Malybrok-Stieler (1888)*
-*Liebeslieder op. 83 für Singstimme und Klavier, Text von Gustaf Pfleger-Moravský (1888)*
-*[Requiem op. 89 für Soli, gem. Chor und Orchester (1890)](https://de.wikipedia.org/wiki/Requiem_(Dvo%C5%99%C3%A1k))*
-*Messe D-Dur op. 86, Orchesterfassung (1892)*
-*[Te Deum op. 103 für Soli, gem. Chor und Orchester (1892)](https://de.wikipedia.org/wiki/Te_Deum_(Dvo%C5%99%C3%A1k))*
-*The American Flag op. 102 für Soli, gem. Chor und Orchester (1892/93)*
-*Biblische Lieder op. 99 für Singstimme und Klavier (1894)*
-*Biblische Lieder op. 99 für Singstimme und Orchester (1895)*
-*Festlied op. 113, zu Ehren des 70. Geburtstags von Dr. Josef Tragy, für gem. Chor und Orchester, Text von Jaroslav Vrchlický (1900)*
-*Die Heilige Ludmilla, Rezitative für szenische Aufführungen (1901)*
+* [Zypressen, 18 Lieder auf Gedichte von Gustav Pfleger-Moravský (1865)](https://de.wikipedia.org/wiki/Gustav_Pfleger-Moravsk%C3%BD)*
+* [Zwei Lieder für Bariton, auf Texte von Adolf Heyduk (1865)](https://de.wikipedia.org/wiki/Adolf_Heyduk)*
+* [Fünf Lieder, auf Worte von Eliška Krásnohorská (1871)](https://de.wikipedia.org/wiki/Eli%C5%A1ka_Kr%C3%A1snohorsk%C3%A1)*
+* [Das Waisenkind, Ballade für eine Singstimme und Klavier nach Karel Jaromír Erben (1871)](https://de.wikipedia.org/wiki/Karel_Jarom%C3%ADr_Erben)*
+* Rosmarin für eine Singstimme und Klavier nach Karel Jaromír Erben (1871)*
+* Hymnus Die Erben des weißen Bergs für gem. Chor und Orchester op. 30, Libretto von Vítězslav Hálek (1872)*
+* Vier Lieder nach serbischen Volksdichtungen op. 6 (1872)*
+* Lieder aus der Königinhofer Handschrift op. 7 (1872)*
+* Klänge aus Mähren op. 20, Duette für Sopran und Tenor (1875)*
+* [Stabat Mater op. 58 (1876/Instrumentation 1877)](https://de.wikipedia.org/wiki/Stabat_Mater_(Dvo%C5%99%C3%A1k))*
+* Vier Lieder für gem. Chor op. 29 (1876)*
+* Klänge aus Mähren op. 29, Duette für Sopran und Alt (1876)*
+* Abendlieder op. 31, nach Vítězslav Hálek (1876)*
+* Drei Chorlieder für Männerstimmen (1877)*
+* Ave Maria für Altstimme und Orgel (1877)*
+* Klänge aus Mähren op. 32, Duette für Sopran und Alt (1877)*
+* Tschechischer Liederstrauß für Männerchor op. 41 (1877)*
+* Tschechenlied für Männerchor (1877)*
+* Aus dem slawischen Liederstrauß, Drei Lieder für Männerchor op. 43 (1878)*
+* Hymnus zur Allerheiligsten Dreifaltigkeit für eine Singstimme und Orgel (1878)*
+* Drei neugriechische Gedichte für eine Singstimme und Klavier op. 50 (1878)*
+* Fünf Chöre für Männerstimme auf Texte litauischer Volkslieder op. 27 (1878)*
+* Der 149. Psalm für Männerchor und Orchester (1879)*
+* Ave Maris Stella für eine Singstimme und Orgel (1879)*
+* O sanctissima für Alt, Bariton und Orgel (1879)*
+* Zigeunermelodien op. 55, 7 Lieder auf Texte von Adolf Heyduk (1880)*
+* In der Natur, 5 Lieder für gem. Chor op. 63, auf Texte von Vítězslav Hálek (1882)*
+* [Die Geisterbraut, Kantate für Soli, Chor und Orchester op. 69, Libretto von Karel Jaromir Erben (1884)](https://de.wikipedia.org/wiki/Die_Geisterbraut)*
+* Zwei Lieder auf Volkstexte für eine Singstimme und Klavier (1885)*
+* Hymne der tschechischen Landleute für gem. Chor und Orchester op. 28, Libretto von Karel Pippich (1885)*
+* Die Heilige Ludmilla, Oratorium für Soli, Chor und Orchester op. 71, Libretto von Jaroslav Vrchlický (1885/86)*
+* Im Volkston op. 73, 4 Lieder für Singstimme und Klavier (1886)*
+* [Messe D-Dur op. 86 für Soli, gem. Chor und Orgel (1887)](https://de.wikipedia.org/wiki/Messe_D-Dur_(Dvo%C5%99%C3%A1k))*
+* Der 149. Psalm für gem. Chor und Orchester (1887)*
+* Vier Lieder op. 82 für Singstimme und Klavier, nach Texten von Otilie Malybrok-Stieler (1888)*
+* Liebeslieder op. 83 für Singstimme und Klavier, Text von Gustaf Pfleger-Moravský (1888)*
+* [Requiem op. 89 für Soli, gem. Chor und Orchester (1890)](https://de.wikipedia.org/wiki/Requiem_(Dvo%C5%99%C3%A1k))*
+* Messe D-Dur op. 86, Orchesterfassung (1892)*
+* [Te Deum op. 103 für Soli, gem. Chor und Orchester (1892)](https://de.wikipedia.org/wiki/Te_Deum_(Dvo%C5%99%C3%A1k))*
+* The American Flag op. 102 für Soli, gem. Chor und Orchester (1892/93)*
+* Biblische Lieder op. 99 für Singstimme und Klavier (1894)*
+* Biblische Lieder op. 99 für Singstimme und Orchester (1895)*
+* Festlied op. 113, zu Ehren des 70. Geburtstags von Dr. Josef Tragy, für gem. Chor und Orchester, Text von Jaroslav Vrchlický (1900)*
+* Die Heilige Ludmilla, Rezitative für szenische Aufführungen (1901)*
+
+## Scales
+
+```txt
 * [Scales and Arpeggios](...)* |  | C | C#/Db | D | D#/Eb | E | F | F#/Gb | G | G#/Ab | A | A#/Bb | B/Cb |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Scales: |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -2225,6 +2237,8 @@
 | Min7 |  |  |  |  |  |  |  |  |  |  |  |  |
 | Maj7 |  |  |  |  |  |  |  |  |  |  |  |  |
 | 8 |  |  |  |  |  |  |  |  |  |  |  |  |    * [Music Plans](...)* Mastered as of 10.11
+```
+
 * Weeping Willow
 * Maple Leaf Rag
 * To Master 2014
@@ -2279,7 +2293,7 @@
 * H.D
 * [КНИГИ ПО ИСТОРИИ АРХИТЕКТУРЫ](https://vk.com/wall-56611080_102898)*
 * H.E* - Sitios de traducción (como [inosmi.ru](http://inosmi.ru/))
-*     RU
+* RU
 * [http://inopressa.ru](http://inopressa.ru/)*
 * [perevodika.ru/*](http://perevodika.ru/*)
 * [nytimesinmoscow.livejournal.com/](https://nytimesinmoscow.livejournal.com/)
@@ -2302,7 +2316,7 @@
 * [stampaestera.wordpress.com/*](https://stampaestera.wordpress.com/*)
 * [ilfattoquotidiano.it/blog/italiadallestero/*](https://www.ilfattoquotidiano.it/blog/italiadallestero/*)
 * [russiaintranslation.com/](http://russiaintranslation.com/)
-*     ES*
+* ES*
 * [prensa-internacional-traducida.com/*](https://prensa-internacional-traducida.com/*)
 * [mundo.sputniknews.com/prensa/](https://mundo.sputniknews.com/prensa/)
   * PT*
@@ -2324,12 +2338,12 @@
 * [dw.com/pl/start/prasa/s-11397*](https://www.dw.com/pl/start/prasa/s-11397*)
 * [oko.press/](https://oko.press/)
 * [(https://oko.press/swiatowa-prasa-o-polsce-jednym-glosem-rzadzacy-reka-w-reke-z-faszystami/](https://oko.press/swiatowa-prasa-o-polsce-jednym-glosem-rzadzacy-reka-w-reke-z-faszystami/))
-*     NL*
+* NL*
 * [360magazine.nl/](https://www.360magazine.nl/)
   * HR*
 * [dw.com/hr/teme/s-9747*](https://www.dw.com/hr/teme/s-9747*)
 * [index.hr/tag/173018/strani-mediji.aspx?page=1&take=14](https://www.index.hr/tag/173018/strani-mediji.aspx?page=1&take=14)
-*     ZH*
+* ZH*
 * [sputniknews.cn/tags/event_waiguomeitikanzhongguo/*](http://sputniknews.cn/tags/event_waiguomeitikanzhongguo/*)
 * [big5.sputniknews.cn/tags/event_waiguomeitikanzhongguo/*](http://big5.sputniknews.cn/tags/event_waiguomeitikanzhongguo/*)
 * [epochtimes.com/gb/tag/%E5%A4%96%E5%9B%BD%E5%AA%92%E4%BD%93.html*](http://www.epochtimes.com/gb/tag/%E5%A4%96%E5%9B%BD%E5%AA%92%E4%BD%93.html*)
@@ -2340,7 +2354,7 @@
 * [Aftenposten](http://www.aftenposten.no/)
 * [Morgenbladet](https://morgenbladet.no/)
 * [SVT](https://www.svt.se/nyheter/)
-*             *
+
 * [SR](http://sverigesradio.se/)
 * [Svenska Dagbladet](https://www.svd.se/)
 * [Metro](https://www.metro.se/)
@@ -2350,36 +2364,36 @@
 * [Kristeligt Dagblad](https://www.kristeligt-dagblad.dk/)
 * [FourFourTwo - Dagbladet](https://www.dagbladet.no/fourfourtwo)
 * [Klassekampen](https://dagens.klassekampen.no/)
-*             * - 15*
+ - 15*
 * [Wyborcza](http://wyborcza.pl/0,0.html?disableRedirects=true)
 * [Gazeta](http://www.gazeta.pl/0,0.html)
 * [Na Temat](http://natemat.pl/)
 * [Newsweek PL](http://www.newsweek.pl/)
 * [Blox.pl. Najciekawsze blogi w sieci](http://www.blox.pl/)
-*             *
+
 * [Business Insider Polska](https://businessinsider.com.pl/?IR=C)
 * [Sławomir Sierakowski — Wikipédia](https://fr.wikipedia.org/wiki/S%C5%82awomir_Sierakowski)
 * [Wiadomości | Culture.pl](http://culture.pl/pl/news)
-*             * - 14*
+ - 14*
 * [NRC](https://www.nrc.nl/)
 * [Vpro](https://www.vpro.nl/)
 * [Volkskrant](http://www.volkskrant.nl/)
 * [Vrij Nederland](https://www.vn.nl/)
 * [Elsevier](http://www.elsevierweekblad.nl/)
-*             *
+
 * [De Ideale Wereld - YouTube - YouTube](https://www.youtube.com/user/DeIdealeWereld)
 * [De Kwis - YouTube - YouTube](https://www.youtube.com/channel/UCX0jEflGtoRIe1Gi5QHFFrQ)
 * [Funnystag - YouTube - YouTube](https://www.youtube.com/channel/UCrIE5wHJI5TQi2v3gPNik0g)
 * [Joop](https://joop.bnnvara.nl/)
 * [Kunst en Cultuur artikelen: Informatie van Geschiedenis tot Feestdagen](https://kunst-en-cultuur.infonu.nl/)
 * [Omroep PowNed - YouTube - YouTube](https://www.youtube.com/channel/UCHTtspK-G7Wt68awRpTSkiw)
-*             * - 13*
+ - 13*
 * [LMD](https://lemondediplomatique.hr/)
 * [Aljazeera Balkans](http://balkans.aljazeera.net/)
 * [Novosti](http://novosti.hr/)
 * [Portal Novosti](http://www.portalnovosti.com/)
 * [HRT](http://www.hrt.hr/)
-*             *
+
 * [Slobodna Evropa](https://www.slobodnaevropa.org/z/506)
 * [Express](https://www.express.hr/)
 * [Vecernji](https://www.vecernji.hr/)
@@ -2403,7 +2417,7 @@
 * [Radio Imotski – Najslušaniji lokalni radio u Hrvatskoj](http://radioimotski.hr/)
 * [Rimokatolički portal - Put, istina, život](http://put-istina-zivot.com/)
 * [RTL](https://www.rtl.hr/)
-*             *
+
 * [Sportnet.hr](https://sportnet.rtl.hr/)
 * [WWW.HR - CROATIAN HOMEPAGE](http://www.hr/wwwhr/news/magazines/index.en.html)
 * - 12*
@@ -2420,13 +2434,13 @@
 * [News in Chinese](http://www.popupchinese.com/tools/newsinchinese)
 * [Chinesisch mit Nachrichten](http://www.new-chinese.org/chinesische-nachrichten.html)
 * [Safety Valve or Pressure Cooker? Blogs in Chinese Political Life - Hassid - 2012 - Journal of Communication - Wiley Online Library](http://onlinelibrary.wiley.com/doi/10.1111/j.1460-2466.2012.01634.x/full)
-*             * - 9*
+ - 9*
 * [الجزيرة](http://www.aljazeera.net/portal)
 * [الأوسط](http://aawsat.com/)
 * [الخليج](http://www.alkhaleej.ae/portal)
 * [CNN AR](http://arabic.cnn.com/)
 * [BBC AR](http://www.bbc.com/arabic)
-*             *
+
 * [العربي](http://alarabi.media.gov.kw/)
 * [الاخبار](http://www.al-akhbar.com/)
 * [الحدود](http://www.alhudood.net/)
@@ -2441,13 +2455,13 @@
 * [رياضة الجزيرة - الصفحة الرئيسية](http://sport.aljazeera.net/)
 * [مجلة المجلة - المجلة](http://arb.majalla.com/)*
 * [raya.com/](https://www.raya.com/)
-*             * - 8*
+ - 8*
 * [Lercio](http://www.lercio.it/)
 * [Limes](http://www.limesonline.com/)
 * [Radio Vaticana](http://it.radiovaticana.va/)
 * [Radio24](http://www.radio24.ilsole24ore.com/)
 * [Il Giornale](http://www.ilgiornale.it/)
-*             *
+
 * [Internazionale](https://www.internazionale.it/)
 * [Il Post](http://www.ilpost.it/)
 * [Striscia la Notizia](http://www.striscialanotizia.mediaset.it/)
@@ -2471,13 +2485,13 @@
 * [Ultime Notizie Online | Agenzia Giornalistica Italia | AGI](https://www.agi.it/)
 * [OA Sport](https://www.oasport.it/)
 * [Fondazione Italianieuropei](http://www.italianieuropei.it/)
-*             * - 7*
+ - 7*
 * [Veja](http://veja.abril.com.br/)
 * [Isto é](http://www.istoe.com.br/capa)
 * [Intercept BR](https://theintercept.com/brasil/)
 * [Exame](http://exame.abril.com.br/)
 * [O Globo](http://oglobo.globo.com/)
-*             *
+
 * [Folha UOL](http://www.folha.uol.com.br/)
 * [Revista Galileu](http://revistagalileu.globo.com/)
 * [Revista Piauí](http://revistapiaui.estadao.com.br/)
@@ -2501,7 +2515,7 @@
 * [PORVIR - Inovação em Educação](http://porvir.org/)
 * [Revista Galileu - Página inicial](https://www.facebook.com/revistagalileu/?ref=br_rs)
 * [revista piauí - perfis, reportagens, ensaios e humor](http://piaui.folha.uol.com.br/)
-*             *
+
 * [SAPO Blogs](https://blogs.sapo.pt/)
 * [Últimas notícias desporto, jogos online e vídeos futebol, Cristiano Ronaldo e Mourinho | Maisfutebol.iol.pt -](http://www.maisfutebol.iol.pt/)
 * [Viomundo - O que você não vê na mídia - O que você não vê na mídia](http://www.viomundo.com.br/)
@@ -2511,13 +2525,13 @@
 * [Repórter Eco (Eco)](https://www.youtube.com/channel/UCxXiasLNEA7gO3k22qRsaUA)
 * [Cultura Livre](https://www.youtube.com/user/culturalivre)
 * [Cocoricó (Children)](https://www.youtube.com/user/tvcocorico)
-*             * - 6*
+ - 6*
 * [WSJ ES](http://online.wsj.com/public/page/espanol-inicio.html)
 * [Democracy Now! ES](https://www.democracynow.org/es)
 * [Europa Press](https://www.youtube.com/channel/UCh_chnQ7OJPQ8mZ7vbXFpIQ)
 * [LMD ES](http://www.mondiplo.net/epages/eb8018.sf/es_ES/?ObjectPath=/Shops/eb8018/Categories/Nuestras_publicaciones/Atlas)
 * [El Mundo](http://www.elmundo.es/)
-*             *
+
 * [El País](http://elpais.com/elpais/portada_america.html)
 * [El Universal](http://www.eluniversal.com.mx/)
 * [El Nuevo Herald](http://www.elnuevoherald.com/)
@@ -2541,7 +2555,7 @@
 * [Salud, Ciencia y Espíritu - Página inicial](https://www.facebook.com/Saludcienciayespiritu/?ref=br_rs)
 * [**Microsiervos: ciencia, tecnología, internet y mucho más](http://www.microsiervos.com/)
 * [31 minutos - YouTube - YouTube](https://www.youtube.com/user/31minutostv)
-*             *
+
 * [A hombros de gigantes. Ciencia y tecnología - Página inicial](https://www.facebook.com/ahombrosdegiga/?ref=br_rs)
 * [Bored Panda: ¡pandas contra el aburrimiento!](http://www.boredpanda.es/)
 * [dialogo interreligioso – ZENIT – Espanol](https://es.zenit.org/articles/tag/dialogo-interreligioso/)
@@ -2565,7 +2579,7 @@
 * [Naukas | Ciencia, escepticismo y humor](http://naukas.com/)
 * [Nómada .::. Volcánica](https://nomada.gt/category/volcanica/)
 * [Oltrelalinea](http://www.oltrelalinea.news/)
-*             *
+
 * [Opinión con Foro – Medium](https://medium.com/opini%C3%B3n-con-foro)
 * [PanAm Post - La principal fuente de noticias y análisis sobre América - PanAm Post](https://es.panampost.com/)
 * [Postillon24 - YouTube - YouTube](https://www.youtube.com/user/Postillon24)
@@ -2582,13 +2596,13 @@
 * [Milenio](http://www.milenio.com/)
 * [Democracy Now ES](https://www.democracynow.org/es)
 * [Mediomundo](http://marinaparra.blogspot.com/)
-*             * - 5*
+ - 5*
 * [Toute l'Europe](https://www.touteleurope.eu/)
 * [Jeune Afrique](http://www.jeuneafrique.com/)
 * [Courier International](http://www.courrierinternational.com/)
 * [Atlantico](http://atlantico.fr/)
 * [The Conversation FR](https://theconversation.com/fr)
-*             *
+
 * [Le Figaro](http://www.lefigaro.fr/)
 * [Slate FR](http://www.slate.fr/#)
 * [Slate Afrique](http://www.slateafrique.com/)
@@ -2612,7 +2626,7 @@
 * [Analyses et opinions | L’actualité](http://lactualite.com/sujet/analyses-et-opinions/)
 * [BD en ligne - GRANDPAPIER](https://grandpapier.org/)
 * [BD gratuites a lire en ligne](https://bdzmag.actualitte.com/-BDz-du-Net-)
-*             *
+
 * [Causeur.fr - Surtout si vous n&#39;êtes pas d&#39;accord](https://www.causeur.fr/)
 * [Chaos International](http://www.chaos-international.org/)
 * [Cómics Existenciales - Colección completa - STIRNER](https://www.edstirner.com/comics-existenciales/)
@@ -2636,7 +2650,7 @@
 * [Les Observateurs - Politiquement correct s&#39;abstenir](https://lesobservateurs.ch/)
 * [LifeHacking.fr](http://lifehacking.fr/)
 * [Mashable avec France 24](http://mashable.france24.com/?ns_campaign=mashablefr&ns_source=mashnav)
-*             *
+
 * [Mise au Point - YouTube - YouTube](https://www.youtube.com/channel/UCoLxAkyUJH1Zr6lE6M8WTwg)
 * [On n'demande qu'à en rire](https://www.youtube.com/user/ondarprime)
 * [On n'est pas couché](https://www.youtube.com/user/onpcofficielle)
@@ -2656,13 +2670,13 @@
 * [Recently created items in French](https://www.playbuzz.com/Latest/French/1)
 * [Les Inrocks](https://www.lesinrocks.com/)
 * [International Press Japan ES](https://internationalpress.jp/)
-*             * - 4*
+ - 4*
 * [ВІСТКАР](https://www.vistkar.com/)
 * [ГРОМАДСЬКЕ](https://hromadske.ua/)
 * [Зрада](http://zrada.today/)
 * [Інозмі](https://inozmi.wordpress.com/)
 * [ТСН](https://tsn.ua/)
-*             *
+
 * [Тиждень](http://tyzhden.ua/)
 * [Депо](http://www.depo.ua/)
 * [УНІАН](http://www.unian.ua/)
@@ -2686,7 +2700,7 @@
 * [Новини - останні новини України та світу сьогодні - Korrespondent.net](https://ua.korrespondent.net/)
 * [Новини – Український Інтерес](https://uain.press/news)
 * [Новини України - останні новини сьогодні - свіжі події - УНІАН](https://www.unian.ua/)
-*             *
+
 * [Новини України | Цензор.НЕТ - останні новини дня | Свіжі головні новини України та світу | Цензор.НЕТ](https://ua.censor.net.ua/)
 * [Новини України і світу онлайн, погода, блог, гороскоп, спорт](https://www.obozrevatel.com/ukr/)
 * [Новини. Останні новини 2018 сьогодні. Новини дня онлайн | СЕГОДНЯ](https://ukr.segodnya.ua/)
@@ -2701,13 +2715,13 @@
 * [znaj.ua/*](https://znaj.ua/*)
 * [hvylya.net/*](http://hvylya.net/*)
 * [polychka.com/](https://polychka.com/)
-*             * - 3*
+ - 3*
 * [FAZ](http://www.faz.net/)
 * [NZZ](http://www.nzz.ch/)
 * [Zeit](http://www.zeit.de/index)
 * [SZ](http://www.sueddeutsche.de/)
 * [Spiegel](http://www.spiegel.de/)
-*             *
+
 * [Deutschlandfunk - Internationale Presseschau](http://www.deutschlandfunk.de/internationale-presseschau.2860.de.html)
 * [Hintergrund](http://www.hintergrund.de/)
 * [Asienzeitung](http://www.asienzeitung.com/)
@@ -2731,7 +2745,7 @@
 * [Das Magazin](https://www.dasmagazin.ch/)
 * [Watson](http://watson.ch/)
   * News 360
-*     Scope
+* Scope
 * [BASIC thinking – Online-Magazin für Social Media, Marketing und Business](https://www.basicthinking.de/blog/)
 * [Deville Late News - YouTube](https://www.youtube.com/results?search_query=Deville+Late+News)
 * [Diese Zeitung (Tageszeitung junge Welt)](https://www.jungewelt.de/ueber_uns/diese_zeitung.php)
@@ -2747,13 +2761,13 @@
 * [Wilkommen Österreich - YouTube](https://www.youtube.com/results?search_query=Wilkommen+%C3%96sterreich)
 * [ZEITmagazin ONLINE](https://www.zeit.de/zeit-magazin/index)
 * [Zeitpunkt-Magazin - News](http://www.zeitpunkt-magazin.de/News)
-*             * - 2*
+ - 2*
 * [Новая газета](http://www.novayagazeta.ru/)
 * [Газета](http://www.gazeta.ru/)
 * [Сноб](https://snob.ru/)
 * [Дождь](https://tvrain.ru/)
 * [Огонек](http://www.kommersant.ru/ogoniok)
-*             *
+
 * [Литературная газета](http://www.lgz.ru/)
 * [Русский магазин](http://magazines.russ.ru/)
 * [Иносми](http://inosmi.ru/)
@@ -2777,7 +2791,7 @@
 * [Category:Russian literary magazines - Wikipedia](https://en.wikipedia.org/wiki/Category:Russian_literary_magazines)
 * [eralash.ru | &quot;Ералаш&quot; - сайт детского юмористического журнала](http://eralash.ru/)
 * [TJ — новости интернета](https://tjournal.ru/)
-*             *
+
 * [xkcd по-русски](https://xkcd.ru/)
 * [ВГТРК](http://vgtrk.com/)
 * [Журнал ЗВЕЗДА](https://zvezdaspb.ru/)
@@ -2797,13 +2811,13 @@
 * [Сноб](https://snob.ru/)
 * [Кто в курсе](https://ktovkurse.com/)
 * [novayagazeta.ru](https://novayagazeta.ru/)
-*             * - 1*
+ - 1*
 * [Acculturated](http://acculturated.com/)
 * [Economist](http://economist.com/)
 * [Guardian](http://guardian.com/)
 * [Quartz](http://qz.com/)
 * [NYT Upshot](http://www.nytimes.com/section/upshot)
-*             *
+
 * [Transpartisan Review](http://www.transpartisanreview.com/)
 * [Creators](https://www.creators.com/)
 * [The Conversation US](http://theconversation.com/us)
@@ -2827,7 +2841,7 @@
 * [Our World in Data](https://ourworldindata.org/)
 * [Independent](http://www.independent.co.uk/us)
 * [Asia Times](http://atimes.com/)
-*             *
+
 * [Vocativ](http://www.vocativ.com/)
 * [New Statesman](http://www.newstatesman.com/)*
 * [obozrevatel.com/ukr/](https://www.obozrevatel.com/ukr/)
@@ -2851,7 +2865,7 @@
 * [New Literary Observer Archives | Eurozine](https://www.eurozine.com/journals/new-literary-observer/)
 * [NewsPicks](https://newspicks.com/)
 * [Plato and the Poets - Existential Comics](http://existentialcomics.com/comic/233)
-*             *
+
 * [Plato and the Poets - Existential Comics](http://existentialcomics.com/)
 * [Pocket Hits sur Flipboard](https://flipboard.com/@pocket/pocket-hits-ignstftbz)
 * [Samizdata](http://www.samizdata.net/)
@@ -2876,25 +2890,25 @@
 * [Maven](https://www.themaven.net/economonitor/europe/)
 * [Haaretz - Israel News | Haaretz.com](https://www.haaretz.com/)
 * [guardian.ng/](https://guardian.ng/)
-*             * - Other Languages
-*     18
+ - Other Languages
+* 18
 * [חדשות, ידיעות מהארץ והעולם - עיתון הארץ](https://www.haaretz.co.il/)
 * [Haaretz](https://www.haaretz.co.il/)
   * 20
-*             *
+
 * [ニュース速報：読売新聞（YOMIURI ONLINE）](http://www.yomiuri.co.jp/)
 * [知乎 - 发现更大的世界](https://www.zhihu.com/)
 * [経済、株価、ビジネス、政治のニュース:日経電子版](https://www.nikkei.com/)
 * [The Asahi Shimbun](http://www.asahi.com/ajw/)
-*     21
+* 21
 * [Mwananchi | Gazeti la Kiswahili linaloongoza Tanzania](http://www.mwananchi.co.tz/)
-*     23
+* 23
 * [Berita Indonesia Terkini - ANTARA News](https://www.antaranews.com/)
 * [Category:Southeast Asian newspapers - Wikipedia](https://en.wikipedia.org/wiki/Category:Southeast_Asian_newspapers)
 * [Home | New Straits Times | Malaysia General Business Sports and Lifestyle News](https://www.nst.com.my/)
 * [Jernih Melihat Dunia | Berita terkini, akurat, tepercaya - Kompas.com](http://www.kompas.com/)
 * [List of newspapers in Malaysia - Wikipedia](https://en.wikipedia.org/wiki/List_of_newspapers_in_Malaysia#Malay)
-*     24
+* 24
   * What are the best newspapers in Finland? Why? - Quora
 * * → [ilpost.it/](https://www.ilpost.it/) *
 * H.F
@@ -2968,7 +2982,7 @@
 * [Enfoque analítico limitado - listas](https://docs.google.com/spreadsheets/d/13qUtzTMBwOmvN7tMZhQf-ijC_bX1_LAMjRyaHk-hS5w/edit?usp=sharing)
 * [Etimología, raices y interentendimiento](https://docs.google.com/spreadsheets/d/1uaedyBSMUBr6GvDPeHg8bIpnSOyzuFhaXWFKD2Ty6BY/edit?usp=sharing)
 * - Sort
-*     Nativeway LibreLingo - learn a language for free*
+* Nativeway LibreLingo - learn a language for free*
 * [LibreLingo/LibreLingo: 🐢 🌎 📚 a community-owned language-learning platform](https://github.com/LibreLingo/LibreLingo)*
 * [LibreLingo - learn German for free](https://librelingo.app/course/german-from-english/)*
 * [omnilingo/omnilingo: Listening-based language learning](https://github.com/omnilingo/omnilingo)*
@@ -2981,7 +2995,7 @@
 * [Greek Word Study Tool](http://www.perseus.tufts.edu/hopper/morph?l=thnikau%3Dta&la=greek&can=thnikau%3Dta0&prior=sxh=%7Cs)*
 * [Greek Word Study Tool](http://www.perseus.tufts.edu/hopper/morph?l=sxh%3D%7Cs&la=greek&can=sxh%3D%7Cs0&prior=fu/sin)*
 * [Greek Word Study Tool](http://www.perseus.tufts.edu/hopper/morph?l=xrh%3Dsis&la=greek&can=xrh%3Dsis0&prior=so/n)
-*     угомониться - Перевод на немецкий - примеры русский | Reverso Context
+* угомониться - Перевод на немецкий - примеры русский | Reverso Context
 * 1
 * 2
 * 3* - Misc*
@@ -3052,7 +3066,7 @@
 * 15
 * 16
 * - * - Approach
-*     Language learning tips:
+* Language learning tips:
   * mnemonics
   * minute-long memorized speeches, stories, etc.
   * translated phrases → memorize and analyze grammar
@@ -3071,11 +3085,11 @@
   * courses: colloquial, teach yourself, langenscheidt
   * keep a language blog / journal
   * learn conversational connectors (you know / well / to be honest / etc.)
-*     use bilingual dictionaries, including reading them for fun
+* use bilingual dictionaries, including reading them for fun
   * use monolingual dictionaries
 * [zeeguu.org/](https://www.zeeguu.org/)
-*             * - Appunti
-*     Biblia paralel en idiomas parecidos (eslávicos, nórdicos, etc.)
+ - Appunti
+* Biblia paralel en idiomas parecidos (eslávicos, nórdicos, etc.)
   * Phrasen zo 50lang-Liste hinzufügen
   * Omniglot-Phrasen scrapen
   * corpus des phrases de moniglot
@@ -3240,7 +3254,7 @@
   * Софокл
   * odio paris - grupo
   * In Gruppen um lateinische und altgriechische Übersetzungshilfe mit den 50languages-Phrasen bitten
-* [Selbst anfangen: [omniglot.com/language/phrases/greek_anc.php](https://www.omniglot.com/language/phrases/greek_anc.php)](https://www.omniglot.com/language/phrases/greek_anc.php](https://www.omniglot.com/language/phrases/greek_anc.php))
+* [Selbst anfangen:](https://www.omniglot.com/language/phrases/greek_anc.php)
   * Zum pltk nachher hinzufügen
   * I) basic / continuous (present & imperfect)
   * II) future
@@ -3280,7 +3294,7 @@
   * Poesie
   * Notizen
   * Gedanken
-*     download Hippocratic oath and other good Classical Greek audio to iPhone to listen, memorize & master grammar
+* download Hippocratic oath and other good Classical Greek audio to iPhone to listen, memorize & master grammar
   * unverschämt
   * make compact latex of each 50 languages lesson to print out (in languages with hard spelling: PL, DA, ZH (T/S/PI/ZY), NO, SV, AR, NL)
   * also master pdfs of all for each phrase (& program to streamline entire process)
@@ -3322,16 +3336,16 @@
 * [ruspod.com/links/](http://ruspod.com/links/)
 * [3 - [vorleser.net/](https://www.vorleser.net/)*](https://www.vorleser.net/](https://www.vorleser.net/)*)
 * [learninggerman.verasblogs.com/weitere-quellen-zum-deutschlernen/](http://learninggerman.verasblogs.com/weitere-quellen-zum-deutschlernen/)
-* [() [thegermanproject.com/](https://www.thegermanproject.com/)](https://www.thegermanproject.com/](https://www.thegermanproject.com/))
+* [()](https://www.thegermanproject.com/)
   * 3b - PodClub
-* [...](https://www.youtube.com/channel/UCbNaKxi1j-Q5jWZDpJZp56g](https://www.youtube.com/channel/UCbNaKxi1j-Q5jWZDpJZp56g)) 
+* [...](https://www.youtube.com/channel/UCbNaKxi1j-Q5jWZDpJZp56g) 
 * [video](https://www.youtube.com/channel/UCQwVj4PyS5leCgEJY4I2t1Q*)
 * [video](https://www.youtube.com/channel/UCnHJlaJfzvLXbizO51WUopw)
-* [...](https://www.youtube.com/channel/UCBFA2cZGYgo9pbDLxT_vDaQ](https://www.youtube.com/channel/UCBFA2cZGYgo9pbDLxT_vDaQ))
-* [...](https://www.youtube.com/channel/UCo2s0lfd8uWr6hilaEt55Sw](https://www.youtube.com/channel/UCo2s0lfd8uWr6hilaEt55Sw))
-* [...](https://www.youtube.com/watch?v=puiaq-xJIy4](https://www.youtube.com/watch?v=puiaq-xJIy4))
-* [...](https://www.youtube.com/channel/UCCf5_svdP2LGjhgt6nfXXYg](https://www.youtube.com/channel/UCCf5_svdP2LGjhgt6nfXXYg))
-* [...](https://www.youtube.com/channel/UCe1HuSq_bCdgXsy1UHnzoTw](https://www.youtube.com/channel/UCe1HuSq_bCdgXsy1UHnzoTw))
+* [...](https://www.youtube.com/channel/UCBFA2cZGYgo9pbDLxT_vDaQ)
+* [...](https://www.youtube.com/channel/UCo2s0lfd8uWr6hilaEt55Sw)
+* [...](https://www.youtube.com/watch?v=puiaq-xJIy4)
+* [...](https://www.youtube.com/channel/UCCf5_svdP2LGjhgt6nfXXYg)
+* [...](https://www.youtube.com/channel/UCe1HuSq_bCdgXsy1UHnzoTw)
 * [...](https://www.youtube.com/channel/UCSIU4cvq2xXE005zj30ECIQ](https://www.youtube.com/channel/UCSIU4cvq2xXE005zj30ECIQ)*)
 * [itunes.apple.com/us/podcast/ukrainian-podcast/id273597224?mt=2](https://itunes.apple.com/us/podcast/ukrainian-podcast/id273597224?mt=2)
 * [...](https://www.dropbox.com/sh/vxyxfzspqkv8e2p/AABArUFzD0yu5gUFOaVWLwEHa?dl=0Dropbox+link)*](https://www.dropbox.com/sh/vxyxfzspqkv8e2p/AABArUFzD0yu5gUFOaVWLwEHa?dl=0Dropbox%20link](https://www.dropbox.com/sh/vxyxfzspqkv8e2p/AABArUFzD0yu5gUFOaVWLwEHa?dl=0Dropbox+link)*)
@@ -3368,7 +3382,7 @@
   * NT
   * 10c - LingQ
   * NT
-* [11 - [latinitium.com/podcast](https://www.latinitium.com/podcast)](https://www.latinitium.com/podcast](https://www.latinitium.com/podcast))
+* [11 -](https://www.latinitium.com/podcast)
   * 12 - Apologia*
 * [video](https://www.youtube.com/playlist?list=PLRqSTDv6bs-gDJ8ceqmv_OPYqcJpcXlEX)
   * 13 - Easy Languages*
@@ -3389,7 +3403,7 @@
   * 16b - LPP YT
   * LingQ
   * SVT Play
-* [16c - HCA - [andersenstories.com/da/andersen_fortaellinger/audio](https://www.andersenstories.com/da/andersen_fortaellinger/audio)](https://www.andersenstories.com/da/andersen_fortaellinger/audio](https://www.andersenstories.com/da/andersen_fortaellinger/audio))
+* [16c - HCA -](https://www.andersenstories.com/da/andersen_fortaellinger/audio)
 * [DR.DK](http://dr.dk/)
   * Künftige Sprachen nochmal anschauen - Japanisch, Swahili (, Neugriechisch?, Indonesisch?, Türkisch?, Tagalog?, Zulu? - vielleicht nur ein Bisschen zum Spaß)
 * [opensubtitleparser.py](http://opensubtitleparser.py/) ausführen
@@ -3466,7 +3480,7 @@
   * Wie beeinflusst Sprache unsere Gedanken?
   * * > Philosophie der Sprache
   * busca en YouTube: falsos amigos portugues español
-* [Heckman SE [stats.stackexchange.com/questions/208016/interpretation-of-coefficient-of-inverse-mills-ratio](https://stats.stackexchange.com/questions/208016/interpretation-of-coefficient-of-inverse-mills-ratio)](https://stats.stackexchange.com/questions/208016/interpretation-of-coefficient-of-inverse-mills-ratio](https://stats.stackexchange.com/questions/208016/interpretation-of-coefficient-of-inverse-mills-ratio))
+* [Heckman SE](https://stats.stackexchange.com/questions/208016/interpretation-of-coefficient-of-inverse-mills-ratio)
   * Complex Sample Design*
 * [web.stanford.edu/group/ssds/cgi-bin/drupal/files/Guides/ComplexSurveyDesignUsingStata_0.pdf*](http://web.stanford.edu/group/ssds/cgi-bin/drupal/files/Guides/ComplexSurveyDesignUsingStata_0.pdf*)
 * [onlinelibrary.wiley.com/doi/10.1111/j.1465-7287.2011.00286.x/full](http://onlinelibrary.wiley.com/doi/10.1111/j.1465-7287.2011.00286.x/full)
@@ -3555,7 +3569,7 @@
   * 50lang:
   * es-zh
   * de-hr
-*             *
+
 * [Diary of a Wimpy Kid Latin Edition: Commentarii de Inepto Puero: Jeff Kinney, Daniel B. Gallagher: 9781419719479: Amazon.com: Books](https://www.amazon.com/Diary-Wimpy-Kid-Latin-Commentarii/dp/1419719475)
 * [Germania (Lateinisch - Deutsch)](https://b-ok.cc/book/1244498/d420f7)
 * [Green eggs and ham in Latin - Dr. Seuss, Terence Tunberg - Google Книги](https://books.google.com/books?id=R5fZAAAAMAAJ&hl=ru&source=gbs_similarbooks)
@@ -4195,38 +4209,38 @@
 * [The Tempest](https://vk.com/doc35528094_491281637?hash=6a8a288ae8ab923ef8&dl=447173ebfcea6b4204)
 * [Thomas Hardy](https://vk.com/doc-50140096_484644625?hash=06adc85f7dda48868d&dl=2dfbf0c43af2fabd26)
 * [Walden and Other Writings](https://vk.com/doc491339552_474111623?hash=6427f4d77c6fe20eec&dl=b743286d9a6592df62)
-*             * - Misc
-*     recursos*
+ - Misc
+* recursos*
 * [en.wikibooks.org/wiki/Main_Page*](https://en.wikibooks.org/wiki/Main_Page*)
 * [ru.wikisource.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0*](https://ru.wikisource.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0*)
 * [intratext.com/Catalogo/](http://www.intratext.com/Catalogo/)
-*     multilinguales*
+* multilinguales*
 * [tsowell.com/translat.html*](http://www.tsowell.com/translat.html*)
 * [amazon.com/gp/registry/wishlist/1DMEL9T0GNTQP/ref=cm_wl_list_o_1?sort=universal-price-desc&view=null*](http://www.amazon.com/gp/registry/wishlist/1DMEL9T0GNTQP/ref=cm_wl_list_o_1?sort=universal-price-desc&view=null*)
 * [freebookofmormon.wordpress.com/international-versions/*](https://freebookofmormon.wordpress.com/international-versions/*)
 * [en.wikipedia.org/wiki/List_of_literary_works_by_number_of_translations](https://en.wikipedia.org/wiki/List_of_literary_works_by_number_of_translations)
-*     foros*
+* foros*
 * [forumactif.com/annuaire/art-culture-et-loisirs/litterature-poesie*](http://www.forumactif.com/annuaire/art-culture-et-loisirs/litterature-poesie*)
 * [fdl.xooit.be/index.php](http://fdl.xooit.be/index.php)
-*     Brodsky list
+* Brodsky list
 *
 * [Éloge de la littérature](https://www.erudit.org/fr/revues/liberte/1980-v22-n1-liberte1030596/29831ac.pdf)
 * [Qu'est-ce que la littérature ?](https://ec56229aec51f1baff1d-185c3068e22352c56024573e929788ff.ssl.cf1.rackcdn.com/attachments/original/3/1/2/002621312.pdf)
 * [QU'EST-CE QU'UN TEXTE LITTÉRAIRE ET QUE SIGNIFIE SA COMPRÉHENSION?](https://www.jstor.org/stable/23946566?seq=1#page_scan_tab_contents)
-*     resúmenes*
+* resúmenes*
 * [inhaltsangabe24.de/*](http://www.inhaltsangabe24.de/*)
 * [inhaltsangabe.de/*](https://www.inhaltsangabe.de/*)
 * [schule-studium.de/Deutsch/index-Literaturverzeichnis.html*](http://www.schule-studium.de/Deutsch/index-Literaturverzeichnis.html*)
 * [getabstract.com/de/zusammenfassungen/klassiker-lib/](https://www.getabstract.com/de/zusammenfassungen/klassiker-lib/)
 *
-*             *
+
 * [(99+) (PDF) CROSS-LANGUAGE EQUIVALENCE AND CULTURAL SIMILARITY IN PROVERBS | Rusudan Dolidze - Academia.edu](https://www.academia.edu/37631159/CROSS-LANGUAGE_EQUIVALENCE_AND_CULTURAL_SIMILARITY_IN_PROVERBS?email_work_card=view-paper)
-*     inglés*
+* inglés*
 * [courseweb.lis.illinois.edu/~katewill/spring2011-502/502%20and%20other%20readings/eliot%20choruses_from_the_rock.pdf](http://courseweb.lis.illinois.edu/~katewill/spring2011-502/502%20and%20other%20readings/eliot%20choruses_from_the_rock.pdf)
 * [Kipling](https://libgen.is/search.php?&req=rudyard+kipling&phrase=1&view=simple&column=author&sort=language&sortmode=DESC%20%20%20Inviato%20da%20iPhone)
-*     Filme / Serien*
+* Filme / Serien*
 * [thevore.com/](https://thevore.com/)
-*     ruso*
+* ruso*
 * [russkay-literatura.ru/*](http://russkay-literatura.ru/*)
 * [litraxixveka.ru/*](http://litraxixveka.ru/*)
 * [literatura548.narod.ru/index/0-2*](http://literatura548.narod.ru/index/0-2*)
@@ -4237,33 +4251,33 @@
 * [Lit-Helper.Com - онлайн библиотека в помощь школникам и студентам](http://lit-helper.com/)*
 * [blogletras.com/2014/10/um-heroi-de-nosso-tempo-mikhail.html](http://www.blogletras.com/2014/10/um-heroi-de-nosso-tempo-mikhail.html)
   * Como ler os russos (libgen)
-*     alemán
+* alemán
   * problems with gone with the wind
 * ["Die Blechtrommel" von Günter Grass: Bedeutung, Erzähltechnik und ... - Hannelore Schwartze-Köhler - Google Книги](https://books.google.de/books?id=2nue91Rlg-0C&pg=PA336&lpg=PA336&dq=symbolismus+in+Die+blechtrommel&source=bl&ots=2qgOpz_8MD&sig=ACfU3U1NzwjUPROM_mIRTPX_FfvogWjJrw&hl=ru&sa=X&ved=2ahUKEwiHvqrlo43qAhVEyaQKHdi0CdIQ6AEwAXoECAoQAQ#v=onepage&q=symbolismus%20in%20Die%20blechtrommel&f=false)
 * [Des œuvres et des auteurs au programme, à étudier en classe. - Classiques et contemporains Magnard](http://classiquesetcontemporains.com/)
 * [Metaphors in Grass' Die Blechtrommel | Grass, Günter; Delaney, Antoinette T | download](https://b-ok.cc/book/2637449/c130f6)
 * [Kleine deutsche Literaturgeschichte - Nicholas Boyle - Google Книги](https://books.google.de/books?id=LwseQ-J0OToC&pg=PA216&lpg=PA216&dq=symbolismus+in+Die+blechtrommel&source=bl&ots=qNMj9vOnaq&sig=ACfU3U2JNLm60s42HbPM2pO2Ej8fXHDVkA&hl=ru&sa=X&ved=2ahUKEwiHvqrlo43qAhVEyaQKHdi0CdIQ6AEwAHoECAcQAQ#v=onepage&q=symbolismus%20in%20Die%20blechtrommel&f=false)
 * [Günter Grass, Die Blechtrommel und die pikarische Tradition on JSTOR](https://www.jstor.org/stable/403771?seq=1#metadata_info_tab_contents)
-*     ucranio*
+* ucranio*
 * [bibliograph.com.ua/*](http://bibliograph.com.ua/*)
 * [ukrclassic.com.ua/*](http://www.ukrclassic.com.ua/*)
 * [litgazeta.com.ua/*](http://litgazeta.com.ua/*)
 * [ukrlit.vn.ua/*](http://www.ukrlit.vn.ua/*)
 * [libruk.in.ua/ukrajinska-literatura*](http://libruk.in.ua/ukrajinska-literatura*)
 * [onlyart.org.ua/](http://onlyart.org.ua/)
-*     francés
+* francés
 * [Nouveau Magazine Littéraire](https://www.nouveau-magazine-litteraire.com/)
-*     español*
+* español*
 * [euskalnet.net/tz/*](http://www.euskalnet.net/tz/*)
 * [donquijote.org/lengua-espanola/literatura/historia/latinoamerica/*](http://www.donquijote.org/lengua-espanola/literatura/historia/latinoamerica/*)
 * [literaturalatinoamericana.com/autores.htm*](http://www.literaturalatinoamericana.com/autores.htm*)
 * [arts-history.mx/*](http://www.arts-history.mx/*)
 * [revistaarcadia.com/*](http://www.revistaarcadia.com/*)
 * [artisticamonitor.com.ar/arteM.php](http://www.artisticamonitor.com.ar/arteM.php)
-*     português
+* português
 * [Blog Letras](http://www.blogletras.com/)
 * [Literatura russa](http://www.literaturarussa.com.br/)
-*     italiano*
+* italiano*
 * [classicitaliani.it/*](http://www.classicitaliani.it/*)
 * [letteratura.it/*](http://www.letteratura.it/*)
 * [letteritaliana.weebly.com/*](http://letteritaliana.weebly.com/*)
@@ -4272,7 +4286,7 @@
 * [storiadellarte.com/*](http://www.storiadellarte.com/*)
 * [italia.it/it/idee-di-viaggio/arte-e-storia.html](http://www.italia.it/it/idee-di-viaggio/arte-e-storia.html)
 * - Lettura attuale
-*     1) Shakespeare
+* 1) Shakespeare
   * 2) Исповедь
   * 3) Nietzsche
   * 4) Борислав сміється
@@ -4288,14 +4302,14 @@
   * 14) Het Achterhuis
   * 15) Pan Tadeusz / Angora
   * 16) Sofies Verden
-*             * - Sci-fi*
+ - Sci-fi*
 * [10 крутых научпоп-книг последних лет](https://vk.com/wall-51126445_50505)
 * [21 правдивый ответ . Курпатов Андрей.PDF](https://vk.com/doc97039373_308925068?hash=8e91597030e3d4f9b4&dl=55e71ef22889f80185)
 * [Sapkowski](https://libgen.is/search.php?&req=Andrzej+Sapkowski&phrase=0&view=simple&column=author&sort=language&sortmode=DESC)
 * [Economic Science Fictions](https://b-ok.cc/book/4972462/fd3efb)
 * [The Complete Asimov](https://b-ok.cc/book/193388/7b0c61?dsource=recommend)
 * [Do Androids Dream of Electric Sheep?](https://b-ok.cc/book/990381/3cd029?dsource=recommend)
-*             * - general sobre literatura
+ - general sobre literatura
 * [einladung-zur-literaturwissenschaft.de/*](http://www.einladung-zur-literaturwissenschaft.de/*)
 * [babelio.com/*](http://www.babelio.com/*)
 * [fichesdelecture.com/resumes/*](http://www.fichesdelecture.com/resumes/*)
@@ -4325,9 +4339,9 @@
 * [falaq.ru/quran/arab/*](http://www.falaq.ru/quran/arab/*)
 * [quran4theworld.com/translations/German/1.htm*](http://www.quran4theworld.com/translations/German/1.htm*)
 * [bismirabbika.com/lire-le-coran/](http://www.bismirabbika.com/lire-le-coran/)
-*             *
+
 * [Литература в диалоге прошлого и настоящего](http://lektorium.tv/literature)
-*             * - proverbios y citaciones
+ - proverbios y citaciones
 * [brainyquote.com/*](http://www.brainyquote.com/*)
 * [goodreads.com/quotes*](https://www.goodreads.com/quotes*)
 * [tsitaty.com/*](http://tsitaty.com/*)
@@ -4348,7 +4362,7 @@
 * [arab-quotes.tumblr.com/*](http://arab-quotes.tumblr.com/*)
 * [waraqat.tumblr.com/*](http://waraqat.tumblr.com/*)
 * [arabicquotes.co.uk/](http://arabicquotes.co.uk/)
-*             * - poesía
+ - poesía
 * [lyrikline.org/fr/startseite/*](http://www.lyrikline.org/fr/startseite/*)
 * [parnassusreview.com/*](http://parnassusreview.com/*)
 * [rupoem.ru/*](http://rupoem.ru/*)
@@ -4377,21 +4391,21 @@
 * [aly-abbara.com/litterature/poesie_arabe/sommaire.html*](http://www.aly-abbara.com/litterature/poesie_arabe/sommaire.html*)
 * [poesiaarabe.com/index.html*](http://www.poesiaarabe.com/index.html*)
 * [arabe-poesie.blogspot.com/](http://arabe-poesie.blogspot.com/)
-*             * - Wisdom literature
-*     «Бхагават гита»;*     «Махабхарата»;*     «Гильгамеш»;*     «Ветхий Завет»;*     Гомер. «Илиада», «Одиссея»;*     Геродот. «История»;*     Софокл. Пьесы;*     Эсхил. Пьесы;*     Еврипид. Пьесы: «Ипполит», «Вакханки», «Электра», «Финикиянки»:*     Фукидид. «История Пелопоннесской войны»;*     Платон. «Диалоги»;*     Аристотель. «Поэтика», «Физика», «Этика», «О душе»;*     Александрийская поэзия;*     Лукреций. «О природе вещей»;*     Плутарх. «Жизнеописания»;*     Вергилий. «Энеида», «Буколики», «Георгики»;*     Тацит. «Анналы»;*     Овидий. «Метаморфозы», «Героиды», «Наука любви»; Новый Завет;*     Светоний. «Жизнеописания двенадцати цезарей»;*     Марк Аврелий;*     Катулл;*     Гораций;*     Эпиктет;*     Аристофан;*     Элиан. «Пестрые истории», «О природе животных»;*     Аполлодор. «Аргонавтика»;*     Пселл. «Жизнеописание правителей Византии»;*     Гиббон. «История упадка и разрушения Римской империи»;*     Плотин. «Эннеады»;*     Евсевий. «Церковная история»;*     Боэций. «Об утешении философией»;*     Плиний Младший. «Письма»;*     Византийские стихотворные романы;*     Гераклит. «Фрагменты»;*     Августин. «Исповедь»;*     Фома Аквинский. «Summa Theolo qica»;*     Св. Франциск. «Цветочки»;*     Николло Макиавелли. «Государь»;*     Данте. «Божественная комедия»;*     Франко Сакети. Новеллы;*     Исландские саги;*     Шекспир. «Антоний и Клеопатра», «Гамлет», «Макбет», «Генрих V»;*     Рабле;*     Бэкон;*     Мартин Лютер;*     Кальвин;*     Монтень. «Опыты»;*     Сервантес. «Дон Кихот»;*     Декарт;*     «Песнь о Роланде»;
-*     Поэзия, рекомендованная к прочтению
-*     Английская/ американская: Роберт Фрост, Томас Харди, Уильям Батлер Йейтс, Томас Стернз Элиот, Уистен Хью Оден, Марианна Мур, Элизабет Бишоп.
-*     Немецкая: Райнер Мария Рильке, Георг Тракль, Петер Хухель, Ингеборг Бахман, Готфрид Бенн.
-*     Испанская: Антонио Мачадо, Федерико Гарсиа Лорка, Луис Сернуда, Рафаэль Альберти, Хуан Рамон Хименес, Октавио Пас.
-*     Польская: Леопольд Стафф, Чеслав Милош, Збигнев Херберт, Вислава Шимборска.
-*     Французская: Гийом Аполлинер, Жюль Сюпервьель, Пьер Реверди, Блез Сандрар, Макс Жакоб, Франсис Жамм, Андре Френо, Поль Элюар, Виктор Сегален, Анри Мишо.
-*     Греческая: Константин Кавафис, Йоргос Сеферис, Яннис Рицос.
-*     Голландская: Мартинус Нейхоф. «Аватар».
-*     Португальская: Фернандо Пессоа, Карлос Друммонд де Андрад.
-*     Шведская: Гуннар Экелёф, Харри Мартинсон, Вернер Аспенстром, Тумас Транстрёмер.
-*     Русская: Марина Цветаева, Осип Мандельштам, Анна Ахматова, Борис Пастернак, Владислав Ходасевич, Виктор Хлебников, Николай Клюев, Николай Заболоцкий.
+ - Wisdom literature
+* «Бхагават гита»;* «Махабхарата»;* «Гильгамеш»;* «Ветхий Завет»;* Гомер. «Илиада», «Одиссея»;* Геродот. «История»;* Софокл. Пьесы;* Эсхил. Пьесы;* Еврипид. Пьесы: «Ипполит», «Вакханки», «Электра», «Финикиянки»:* Фукидид. «История Пелопоннесской войны»;* Платон. «Диалоги»;* Аристотель. «Поэтика», «Физика», «Этика», «О душе»;* Александрийская поэзия;* Лукреций. «О природе вещей»;* Плутарх. «Жизнеописания»;* Вергилий. «Энеида», «Буколики», «Георгики»;* Тацит. «Анналы»;* Овидий. «Метаморфозы», «Героиды», «Наука любви»; Новый Завет;* Светоний. «Жизнеописания двенадцати цезарей»;* Марк Аврелий;* Катулл;* Гораций;* Эпиктет;* Аристофан;* Элиан. «Пестрые истории», «О природе животных»;* Аполлодор. «Аргонавтика»;* Пселл. «Жизнеописание правителей Византии»;* Гиббон. «История упадка и разрушения Римской империи»;* Плотин. «Эннеады»;* Евсевий. «Церковная история»;* Боэций. «Об утешении философией»;* Плиний Младший. «Письма»;* Византийские стихотворные романы;* Гераклит. «Фрагменты»;* Августин. «Исповедь»;* Фома Аквинский. «Summa Theolo qica»;* Св. Франциск. «Цветочки»;* Николло Макиавелли. «Государь»;* Данте. «Божественная комедия»;* Франко Сакети. Новеллы;* Исландские саги;* Шекспир. «Антоний и Клеопатра», «Гамлет», «Макбет», «Генрих V»;* Рабле;* Бэкон;* Мартин Лютер;* Кальвин;* Монтень. «Опыты»;* Сервантес. «Дон Кихот»;* Декарт;* «Песнь о Роланде»;
+* Поэзия, рекомендованная к прочтению
+* Английская/ американская: Роберт Фрост, Томас Харди, Уильям Батлер Йейтс, Томас Стернз Элиот, Уистен Хью Оден, Марианна Мур, Элизабет Бишоп.
+* Немецкая: Райнер Мария Рильке, Георг Тракль, Петер Хухель, Ингеборг Бахман, Готфрид Бенн.
+* Испанская: Антонио Мачадо, Федерико Гарсиа Лорка, Луис Сернуда, Рафаэль Альберти, Хуан Рамон Хименес, Октавио Пас.
+* Польская: Леопольд Стафф, Чеслав Милош, Збигнев Херберт, Вислава Шимборска.
+* Французская: Гийом Аполлинер, Жюль Сюпервьель, Пьер Реверди, Блез Сандрар, Макс Жакоб, Франсис Жамм, Андре Френо, Поль Элюар, Виктор Сегален, Анри Мишо.
+* Греческая: Константин Кавафис, Йоргос Сеферис, Яннис Рицос.
+* Голландская: Мартинус Нейхоф. «Аватар».
+* Португальская: Фернандо Пессоа, Карлос Друммонд де Андрад.
+* Шведская: Гуннар Экелёф, Харри Мартинсон, Вернер Аспенстром, Тумас Транстрёмер.
+* Русская: Марина Цветаева, Осип Мандельштам, Анна Ахматова, Борис Пастернак, Владислав Ходасевич, Виктор Хлебников, Николай Клюев, Николай Заболоцкий.
 * - Random Literature List
-*     The Fountain, Teasdale
+* The Fountain, Teasdale
   * Ulysses
   * My Last Duchess
   * Terence, This Is Stupid Stuff
@@ -4424,7 +4438,7 @@
   * The Second Coming
   * To His Coy Mistress
   * Out, Out
-*     Design
+* Design
   * Death be not proud
   * Diving into the Wreck
   * Follower
@@ -4465,8 +4479,8 @@
   * Sailing to Byzantium
   * The History Teacher
   * Cinderella
-*             * - Literature and Cinema
-*     Cine
+ - Literature and Cinema
+* Cine
 * [Zerkalo](https://vk.com/wall-31579470_8807)
 * [Aufklärung - Literaturepoche einfach erklärt - Merkmale, Literatur, Geschichte, Vertreter - YouTube](https://www.youtube.com/watch?v=WfHT1mavUHk)
 * [DE LA PALABRA IMPRESA AL MEDIO AUDIOVISUAL: “DIE BLECHTROMMEL” DE GÜNTER GRASS Y LA ADAPTACIÓN CINEMATROGRÁFICA DE VOLKER SCHLÖNDORFF](http://biblioteca.ucm.es/tesis/fll/ucm-t25948.pdf)
@@ -4655,8 +4669,8 @@
 * [Женский Стендап: Что общего у оргазма и ипотеки](https://www.youtube.com/watch?v=emzUtW2ZAww&list=WL&index=1373)
 * [Backdoor](https://www.youtube.com/c/backdoor)
 * [Sarcastic rules for healthy eating](https://vk.com/wall-37160097_408357)
-*             * - vocab
-*     anaphora
+ - vocab
+* anaphora
   * antimetabole
   * antithesis
   * asyndeton
@@ -4667,8 +4681,8 @@
   * zeugma
   * spondee
   * stichomythia
-*             * - ?
-*     The Naked and the Nude, Graves
+ - ?
+* The Naked and the Nude, Graves
   * Cinderella, Plath
   * Naked andSpring and Fall, Hopkins
   * Daddy, Plath
@@ -4677,8 +4691,8 @@
   * Another Reason Why I Don't Keep a Gun in the House
   * Lady / Woman
   * Letter by G.B. Shaw on the death of his mother
-*             * - Poetry types
-*     iambic (-> Stanzas Written in Dejection, near Naples, Shelley)
+ - Poetry types
+* iambic (-> Stanzas Written in Dejection, near Naples, Shelley)
   * trochaic (-> Songs of Innocence, Blake)
   * anapestic (-> The Destruction of Sennacherib, Byron)
   * dactylic (-> The Voice, Hardy)
@@ -4688,7 +4702,7 @@
   * tetrameter
   * pentameter
   * hexameter
-*             * - Literature Sites and Resources
+ - Literature Sites and Resources
 * [p-w-w.org/*](https://p-w-w.org/*)
 * [sovietmoviesonline.com/tv-series/721-bratya-karamazovy-mini-serial.html*](https://sovietmoviesonline.com/tv-series/721-bratya-karamazovy-mini-serial.html*)
 * [fedordostoevsky.ru/files/pdf/agd_1987.pdf*](https://www.fedordostoevsky.ru/files/pdf/agd_1987.pdf*)

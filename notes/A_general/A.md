@@ -1715,7 +1715,7 @@
 * Research Resources
 * [arxiv.org/](https://arxiv.org/)
 * [arxiv-sanity-lite.com/](https://arxiv-sanity-lite.com/)
-* [http://www.arxiv-sanity.com](http://www.arxiv-sanity.com/)
+* [arxiv-sanity.com](http://www.arxiv-sanity.com/)
 * [sci-hub.se/](https://sci-hub.se/)
 * Enciclopedias
 * [Encyclopedia.com | Free Online Encyclopedia](http://www.encyclopedia.com/)

@@ -17,7 +17,7 @@
 * [Lillian Lee - Advanced Language Technologies 2010](https://www.cs.cornell.edu/courses/cs6740/2010sp/index-tabbed.shtml)
 * [Lillian Lee - Advanced Language Technologies, Fall 2019](https://www.cs.cornell.edu/courses/cs6740/2019fa/)
 * [Lillian Lee - Cornell Course](https://courses.cs.cornell.edu/cs674/2002SP/)
-* [Lillian Lee - NLP 2001/2002 [cs.cornell.edu/courses/cs674/2002SP/](https://www.cs.cornell.edu/courses/cs674/2002SP/)](https://www.cs.cornell.edu/courses/cs674/2002SP/](https://www.cs.cornell.edu/courses/cs674/2002SP/))
+* [Lillian Lee - NLP 2001/2002](https://www.cs.cornell.edu/courses/cs674/2002SP/)
 * [Lillian Lee - NLP and Social Interaction](https://www.cs.cornell.edu/courses/cs6742/2015fa/)
 * [NYU Meyer NLP Course](https://cs.nyu.edu/courses/spring12/CSCI-GA.2590-001/)
 * [Stanford NLP Course Solutions](https://github.com/jneira/natural-language-processing-course)

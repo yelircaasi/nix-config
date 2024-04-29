@@ -459,7 +459,7 @@ term [rio](software [raphamorim/rio)](https://github.com/raphamorim/rio))
 
 * ( ) [sh-semver](https://github.com/qzb/sh-semver) - Semver tool for bash - finds versions matching to specified rules
 * ( ) [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
-* ( ) [git-semver[git-semver](https://github.com/markchalloner/git-semver](https://github.com/markchalloner/git-semver[git-semver](https://github.com/markchalloner/git-semver)) - A git plugin to make Semantic Versioning 2.0.0 and Change Log management easier.
+* ( ) [git-semver[git-semver](https://github.com/markchalloner/git-semver) - A git plugin to make Semantic Versioning 2.0.0 and Change Log management easier.
 
 ## Snippets
 

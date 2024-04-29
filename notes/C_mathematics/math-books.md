@@ -1015,7 +1015,7 @@ Topological Signal Processing
 * book * [Множественная регрессия](http://statsoft.ru/home/textbook/modules/stmulreg.html)
 * [Notation, Matrices, and Matrix Mathematics](http://onlinelibrary.wiley.com/doi/10.1002/9780470549094.app1/pdf)
 * [метод инструментальных переменных](http://bugabooks.com/book/564-yekonometrika/69-94-metod-instrumentalnyx-peremennyx.html)
-* [http://www.parisschoolofeconomics.eu/docs/dupraz-yannick/using-weights-in-stata(1).pdf]
+* [parisschoolofeconomics.eu/docs/dupraz-yannick/using-weights-in-stata(1).pdf]
 * [itl.nist.gov/div898/handbook/pmd/section1/pmd143.htm](http://www.itl.nist.gov/div898/handbook/pmd/section1/pmd143.htm)
 * [jenni.uchicago.edu/econ312/Slides/topic2/handbook-part1_eesp1_ho_2007-04-29a_tsa.pdf](http://jenni.uchicago.edu/econ312/Slides/topic2/handbook-part1_eesp1_ho_2007-04-29a_tsa.pdf)
 * Anschauliche Geometrie (Hilbert, Cohn-Vossen)

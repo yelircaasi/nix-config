@@ -85,7 +85,9 @@
 * [Archive · Thorsten Hans' blog](https://www.thorsten-hans.com/archive/)
 * [Chris McDonough - YouTube](https://www.youtube.com/@ChrisMcDonough)
 * [Chris McDonough - YouTube](https://www.youtube.com/@ChrisMcDonough/playlists)
-* - Not Looked at in a While
+
+#### Not Looked at in a While
+
 * [math.toronto.edu/ivan/mat327/?courseinfo](http://www.math.toronto.edu/ivan/mat327/?courseinfo)
 * [sebastianraschka.com/](https://sebastianraschka.com/)
 * [jeapostrophe.github.io/index.html](https://jeapostrophe.github.io/index.html)

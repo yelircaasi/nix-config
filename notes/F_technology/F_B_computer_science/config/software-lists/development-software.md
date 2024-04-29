@@ -287,7 +287,7 @@ db [echovault](https://github.com/EchoVault/EchoVault) - Embeddable Distributed 
 * ( ) [ergo](https://github.com/cristianoliveira/ergo) - The management of multiple local services running over different ports made easy.
 * ( ) [ngrok.com/ -](https://ngrok.com/) [ngrok](https://github.com/ngrok) - Secure introspectable tunnels to localhost.
 * ( ) [Insomnia](https://insomnia.rest/) - A simple, beautiful, and free REST API client. (paid service)
-* [vitepress.dev/](https://vitepress.dev/) (from  [wiki.nikiv.dev/,](https://wiki.nikiv.dev/,) [wiki.nikiv.dev/free[knowledge](https://github.com/nikitavoloboev/knowledge))](https://wiki.nikiv.dev/free[knowledge](https://github.com/nikitavoloboev/knowledge)))
+* [vitepress.dev/](https://vitepress.dev/) (from  [wiki.nikiv.dev/,](https://wiki.nikiv.dev/,) [wiki.nikiv.dev/free[knowledge](https://github.com/nikitavoloboev/knowledge))
 * [jaspervdj.be/hakyll/](https://jaspervdj.be/hakyll/) - Haskell static site generator
 
 ## Language-Specific Libraries

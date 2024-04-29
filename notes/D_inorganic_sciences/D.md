@@ -259,7 +259,7 @@
 * Don't Get Neil Tyson Started on Water Towers - YouTube
 * Evo-Devo (Despacito Biology Parody) | A Capella Science - YouTube
 * Gene Editing: Last Week Tonight with John Oliver (HBO) - YouTube
-* [http://www.scilogs.fr/ramus-meninges/le-triomphe-des-lumieres/](http://www.scilogs.fr/ramus-meninges/le-triomphe-des-lumieres/?fbclid=IwAR3C9foOapE8i5rXUn19Tt9ppEVBcSFNG8bPP1Jqmgz7q40aQa0OnfZbB74)
+* [scilogs.fr/ramus-meninges/le-triomphe-des-lumieres/](http://www.scilogs.fr/ramus-meninges/le-triomphe-des-lumieres/?fbclid=IwAR3C9foOapE8i5rXUn19Tt9ppEVBcSFNG8bPP1Jqmgz7q40aQa0OnfZbB74)
 * [The Brain | блог об умном](https://vk.com/brainfeed)
 * [TOP 10 REASONS Why We Know the Earth is Round - YouTube](https://www.youtube.com/watch?v=o_W280R_Jt8)
 * Forschungspolitische Papiere des FVEE

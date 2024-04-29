@@ -61,7 +61,7 @@
 * [zetcode.com/](https://zetcode.com/)
 * [GeeksforGeeks | A computer science portal for geeks](https://www.geeksforgeeks.org/)
 * [freecodecamp.org/learn](https://www.freecodecamp.org/learn)
-* [Formale Sprachen, Automaten, Compiler und Interpreter [flaci.com/home/](https://flaci.com/home/)](https://flaci.com/home/](https://flaci.com/home/))
+* [Formale Sprachen, Automaten, Compiler und Interpreter](https://flaci.com/home/)
 * [KIT Playlists](https://www.youtube.com/c/KITWEBCAST/playlists)
 * [video](https://www.youtube.com/@drawingboxes)
 * [NLogSpace](https://www.youtube.com/channel/UCMWYg3eBFp5bbqjlllUku_w)
@@ -249,8 +249,8 @@
 
 ## Blogs / Sites / Fora
 
-*[devtalk](https://devtalk.com/) -* Discussion forum around many different development topics/languages, ran as a joint venture between a lot of great programming publishers like Manning and Pragmatic Bookshelf.
-*[dev.to](https://dev.to/) -* Popular development community with an open source back end that was created as an alternative to Medium.
+* [devtalk](https://devtalk.com/) -* Discussion forum around many different development topics/languages, ran as a joint venture between a lot of great programming publishers like Manning and Pragmatic Bookshelf.
+* [dev.to](https://dev.to/) -* Popular development community with an open source back end that was created as an alternative to Medium.
 * [thenewstack.io/](https://thenewstack.io/)
 * [thenewstack.io/](https://thenewstack.io/)
 * [abstractexpr.com/](https://abstractexpr.com/)
@@ -493,7 +493,6 @@ flex
 
 * Ivy: [deep-ivy-ltd.breezy.hr/,](https://deep-ivy-ltd.breezy.hr/) [deep-ivy-ltd.breezy.hr/p/47a8d305734301-core-contributor](https://deep-ivy-ltd.breezy.hr/p/47a8d305734301-core-contributor)
 
-
 ## Code Execution
 
 * [dev.to/](https://dev.to/)
@@ -590,7 +589,7 @@ flex
 * [codescracker.com/index.htm](https://codescracker.com/index.htm)
 * [r/dailyprogrammer/comments/9dv08q/20180907_challenge_367_hard_the_mondrian_puzzle/?st=JOHVYFQM&sh=42a19ef7](https://www.reddit.com/r/dailyprogrammer/comments/9dv08q/20180907_challenge_367_hard_the_mondrian_puzzle/?st=JOHVYFQM&sh=42a19ef7)
 
-## People
+## People 2
 
 * [Anaphory](https://github.com/Anaphory)
 * [Colin Galen](https://www.youtube.com/@ColinGalen)
@@ -681,7 +680,15 @@ flex
 ## Projects, Tools, Libraries
 
 * [orsinium-labs/python-lambda-calculus: Lambda Calculus things implemented on Python](https://github.com/orsinium-labs/python-lambda-calculus)
-* [Mojo](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=506258937d&e=b5a8df9a4a) A new programming language for all AI developers. Mojo combines the usability of Python with the performance of C, unlocking unparalleled programmability of AI hardware and extensibility of AI models.* [mlc-llm](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=b0444df446&e=b5a8df9a4a) Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.* [Trawler](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=a704dd8458&e=b5a8df9a4a) PowerShell script to help Incident Responders discover adversary persistence mechanisms.* [tutim](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=30a93f90cc&e=b5a8df9a4a) The open-source wizard form infrastructure for web applications.* [nango](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=d9ac2ed1a5&e=b5a8df9a4a) Pre-built OAuth flows & secure token management for 90+ APIs.* [Teletrace](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=4e35a87f18&e=b5a8df9a4a) Open-Source Tracing Platform.* [IntelliNode](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=5904481f92&e=b5a8df9a4a) Unified access to various AI models, such as ChatGPT, Diffusion, Cohere, and others, using a few Javascript lines.* [rustic](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=6cffd8871f&e=b5a8df9a4a) Fast, encrypted, deduplicated backups powered by Rust.* [Tempo](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=35a3c6cd2b&e=b5a8df9a4a) Low latency, cross-platform, end-to-end typesafe APIs.
+* [Mojo](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=506258937d&e=b5a8df9a4a) A new programming language for all AI developers. Mojo combines the usability of Python with the performance of C, unlocking unparalleled programmability of AI hardware and extensibility of AI models
+* [mlc-llm](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=b0444df446&e=b5a8df9a4a) Enable everyone to develop, optimize and deploy AI models natively on everyone's devices
+* [Trawler](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=a704dd8458&e=b5a8df9a4a) PowerShell script to help Incident Responders discover adversary persistence mechanisms
+* [tutim](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=30a93f90cc&e=b5a8df9a4a) The open-source wizard form infrastructure for web applications
+* [nango](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=d9ac2ed1a5&e=b5a8df9a4a) Pre-built OAuth flows & secure token management for 90+ APIs
+* [Teletrace](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=4e35a87f18&e=b5a8df9a4a) Open-Source Tracing Platform
+* [IntelliNode](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=5904481f92&e=b5a8df9a4a) Unified access to various AI models, such as ChatGPT, Diffusion, Cohere, and others, using a few Javascript lines
+* [rustic](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=6cffd8871f&e=b5a8df9a4a) Fast, encrypted, deduplicated backups powered by Rust
+* [Tempo](https://programmerweekly.us2.list-manage.com/track/click?u=72f68dcee17c92724bc7822fb&id=35a3c6cd2b&e=b5a8df9a4a) Low latency, cross-platform, end-to-end typesafe APIs.
 * [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM)
 * [gnuplot.info/](http://www.gnuplot.info/)
 * [hub.docker.com/](https://hub.docker.com/)
@@ -806,7 +813,7 @@ flex
 * [video](https://www.youtube.com/@StudyingWithAlex?app=desktop)
 * [video](https://www.youtube.com/@saraepaolo)
 
-### Podcasts
+### Podcasts 2
 
 * [Take Up Code](https://open.spotify.com/show/5i2jy4xzmOqUOvWmwrSOsm?si=ttxaYE9FSYCvzdzhMM5QrQ)
 Techtiefen
@@ -824,7 +831,6 @@ Techtiefen
 * [Quartier Génial](https://www.youtube.com/channel/UCqMbspvn2Nw94kL0l-lXgWg)
 * [Programmieren Starten](https://youtube.com/c/ProgrammierenStarten)
 * [video](https://www.youtube.com/@mycodeschool)
-
 
 ### Newsletters
 

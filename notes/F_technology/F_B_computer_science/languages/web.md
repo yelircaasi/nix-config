@@ -131,7 +131,7 @@ project * make text aligner with gui: open two or more texts, give format parame
 * {?} <|> [Science | WebHostingGeeks.com: Predgovor trigconsulting](http://science.webhostinggeeks.com/predgovor+trigconsulting)
 * {?} <|> [Web Architecture 101 - Storyblocks Product & Engineering](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
 * {?} <|> [Welcome | CloudCannon Academy](https://learn.cloudcannon.com/)
-* {?} <|> [contribute? [gitlab.com/gitterHQ/webapp](https://gitlab.com/gitterHQ/webapp)](https://gitlab.com/gitterHQ/webapp](https://gitlab.com/gitterHQ/webapp))
+* {?} <|> [contribute?](https://gitlab.com/gitterHQ/webapp)
 * {?} <|> [darkhttpd packages - Repology](https://repology.org/metapackage/darkhttpd/packages)
 * {?} <|> [berthub.eu](https://berthub.eu/)
 * {?} <|> [flask.pocoo.org/](http://flask.pocoo.org/)

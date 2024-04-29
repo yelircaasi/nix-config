@@ -55,7 +55,7 @@
 * [hg.sr.ht](https://hg.sr.ht/~ab/)
 * [hyprland_nixos_catppuccin_for_all_apps/](https://www.reddit.com/r/unixporn/comments/15co6ns/hyprland_nixos_catppuccin_for_all_apps/)
 * [iharh/nixcfg/tree/6fab8a06850f47df37bd3cb0f027ecf11782cff4/hw](https://github.com/iharh/nixcfg/tree/6fab8a06850f47df37bd3cb0f027ecf11782cff4/hw)
-* [justinlime/dotfiles](https://github.com/justinlime/dotfiles)* - Guix*
+* [justinlime/dotfiles](https://github.com/justinlime/dotfiles)
 * [justinlime/dotfiles/tree/main](https://github.com/justinlime/dotfiles/tree/main)
 * [kbeerta/flake](https://github.com/kbeerta/flake)
 * [knoc-off/nixos](https://github.com/knoc-off/nixos)
@@ -78,13 +78,13 @@
 *  [gitlab.com](https://gitlab.com/librephoenix/nixos-config)
 * $$$ [git.sr.ht](https://git.sr.ht/~darumaka/SnowISO)
 * NixOS, Nix [reddit.com](https://www.reddit.com/r/unixporn/s/ESi62fFi1j)
-$$$ * [exploitoverload/PwNixOS](https://github.com/exploitoverload/PwNixOS)
+* $$$ [exploitoverload/PwNixOS](https://github.com/exploitoverload/PwNixOS)
 * [Configure Global Cursor Theme - Breeze, Paper, etc...](https://github.com/NixOS/nixpkgs/issues/22652)
 * [http://reign-studios.com/wallpapers/nixos/NixOS_1440p.png](https://www.google.com/url?q=http://reign-studios.com/wallpapers/nixos/NixOS_1440p.png)
 * [Jetbrains IDEs don't use user cursor theme](https://github.com/NixOS/nixpkgs/issues/50344)*
 * [please-help-fix-ugly-cursor-in-apps-installed-with-nix-env](https://discourse.nixos.org/t/please-help-fix-ugly-cursor-in-apps-installed-with-nix-env/11797)
 * [SenchoPens/base16.nix](https://github.com/SenchoPens/base16.nix) 
-* [Set a consistent cursor theme for nix UI packages/guide-english/README.md · main · Javier Martínez / devtec-guides · GitLab](https://gitlab.com/javimarsal/devtec-guides/-/blob/main/Set%2520a%2520consistent%2520cursor%2520theme%2520for%2520nix%2520UI%2520packages/guide-english/README.md?ref_type%3Dheads)
+* !!! [Set a consistent cursor theme for nix UI packages/guide-english/README.md · main · Javier Martínez / devtec-guides · GitLab](https://gitlab.com/javimarsal/devtec-guides)
 
 ## presort
 
@@ -189,7 +189,9 @@ $$$ * [exploitoverload/PwNixOS](https://github.com/exploitoverload/PwNixOS)
 * [@pSub's Nixpkgs config](https://github.com/pSub/configs/blob/master/nix/.config/nixpkgs/config.nix) NixOps configuration [@headcounter's NixOps config](https://github.com/headcounter/deployment)
 * [@LnL7's NixOS docker config](https://github.com/LnL7/nix-docker)
 * [@pSub's NixOps config](https://github.com/pSub/configs/tree/master/nixops/configurations)
-* - Config Examples
+
+## Config Examples
+
 * [nixos.wiki/wiki/Configuration_Collection](https://nixos.wiki/wiki/Configuration_Collection)
 * [IOHK, blockchain startup, open-sources it's NixOps infrastructure.](https://github.com/input-output-hk/iohk-nixops)
 * [krops](https://cgit.krebsco.de/krops/about/) configuration [stockholm krops configuration](https://cgit.krebsco.de/stockholm/tree/krebs/krops.nix) Projects using nix ‣ - Provides an overlay for some of their projects. [Rhodecode](https://code.rhodecode.com/rhodecode-enterprise-ce/files/tip/) - Uses Nix for building their Python VCS server. [Zentralwerk Network](https://gitea.c3d2.de/zentralwerk/network) - Multi-tenant building network
@@ -425,14 +427,17 @@ package = pkgs.tela-circle-icon-theme;
 * [ners/NixOS](https://github.com/ners/NixOS)
 * [sarveshrulz/nixos_config](https://github.com/sarveshrulz/nixos_config)
 * [sum-rock/just-sum-nix](https://github.com/sum-rock/just-sum-nix)
-* [Misterio77/nix-starter-configs [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs)](https://github.com/Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs))
+* [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs)
 * [nixos.wiki/wiki/Configuration_Collection](https://nixos.wiki/wiki/Configuration_Collection)
 * [invesalius3_nix_develop/flake.nix at main · tfmoraes/invesalius3_nix_develop](https://github.com/tfmoraes/invesalius3_nix_develop/blob/main/flake.nix)
 * [sandmuel/minigui-flake](https://github.com/sandmuel/minigui-flake)
 * [purcell/dotfiles](https://github.com/purcell/dotfiles)
 * [utdemir/dotfiles-nix](https://github.com/utdemir/dotfiles-nix)
 * [Anomalocaridid/dotfiles](https://github.com/Anomalocaridid/dotfiles)
-* [erictossell/nixflakes](https://github.com/erictossell/nixflakes)* - Config Resources*
+* [erictossell/nixflakes](https://github.com/erictossell/nixflakes)
+
+## Config Resources*
+
 *  [...](https://gitlab.com/librephoenix/nixos-config)
 * [...](https://gitlab.com/librephoenix/nixos-config)
 * [...](https://github.com/librephoenix/nixos-config)
@@ -549,7 +554,7 @@ package = pkgs.tela-circle-icon-theme;
 ## Next-Best
 
 * [nequissimus](https://github.com/NeQuissimus/DevSetup) - conky, emacs, skhd, yabai, chromium, etc
-* [pnotequalnp nix dots with sops]( [pnotequalnp/dotfiles/tree/473a4a76219f4fe6701524ad8973898fd31ab62c)](https://github.com/pnotequalnp/dotfiles/tree/473a4a76219f4fe6701524ad8973898fd31ab62c)) -
+* [pnotequalnp nix dots with sops](https://github.com/pnotequalnp/dotfiles/tree/473a4a76219f4fe6701524ad8973898fd31ab62c)) -
 * [redyf](https://github.com/redyf/nixdots) - nix config with Nvidia GPU, neovim, firefox, chrome, zsh, hyprland, foot,
 * [ruixi-rebirth](https://github.com/Ruixi-rebirth/flakes)[YouTube Rice - NixOS hyprland](https://www.youtube.com/watch?v=efm2XEVM4RQ)
 * [sebastiant](https://github.com/sebastiant/dotfiles) - emacs, polybar, sway, syncorate, tmux, waybar, zsh, alacritty, git, picom, vscode, wayland-overlay, xmonad

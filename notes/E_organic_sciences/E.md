@@ -225,8 +225,10 @@
 * [Происхождение жизни. От туманности до клетки. М. Никитин.pdf](https://vk.com/doc30601958_482923227?hash=8cb1b135989e02dbb5&dl=946d57cf6089dd49e6)
 * [knigavuhe.ru/author/dzhared-dajjmond/](https://knigavuhe.ru/author/dzhared-dajjmond/)
 
-- Notes and Question
-* $2водочный проект для ак. письма, ак. статей: какие имеются выводы?
+
+## Notes and Question
+
+* водочный проект для ак. письма, ак. статей: какие имеются выводы?
 * What is the evidence for and against organic macroevolution? (B30)
 * What is the proof that chemical evolution is impossible? How does it make use of probability, and to what extent is it certain? If life arose by chance, what would it look like?
 
@@ -470,7 +472,7 @@
 * [¿Cómo funciona una adicción?](https://youtu.be/A46Bw_h4zP8)
 * [10 удивительных фактов о том, как работает наш мозг](http://supersales.ru/produktivnost/10-udivitelnyx-faktov-o-tom-kak-rabotaet-nash-mozg.html)
 * [lescienze.it/mente-e-cervello/2017/01/30/news/m_c_febbraio_2017-3396906/](http://www.lescienze.it/mente-e-cervello/2017/01/30/news/m_c_febbraio_2017-3396906/)
-* [FR [oullier.wordpress.com/publications/](https://oullier.wordpress.com/publications/)](https://oullier.wordpress.com/publications/](https://oullier.wordpress.com/publications/))
+* [FR](https://oullier.wordpress.com/publications/)
 * [Anatomical terms of neuroanatomy - Wikipedia](https://en.wikipedia.org/wiki/Anatomical_terms_of_neuroanatomy)
 * [> My nash mozg](https://vk.com/wall-36047336_77265)
 * [„Kann die Hirnforschung das Bewusstsein erklären?“ - Prof. Dr. Andreas K. Engel - YouTube](https://www.youtube.com/watch?v=2EgIlQiREqA)

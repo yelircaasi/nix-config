@@ -325,7 +325,7 @@
 * ( ) [playerctl](https://github.com/altdesktop/playerctl) - looks good, slightly abandoned, but worth trying
 * ( ) [gomu](https://github.com/issadarkthing/gomu) - probably strictly inferior to termusic, but worth trying
 * ( ) [cmus](https://github.com/cmus/cmus) - Cross-platform cli audio player.
-* ( ) [musikcube[musikcube](https://github.com/clangen/musikcube](https://github.com/clangen/musikcube[musikcube](https://github.com/clangen/musikcube)) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
+* ( ) [musikcube[musikcube](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
 * ( ) [MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon.
 * ( ) [mocp](https://github.com/bartekbrak/mocp)   ([MOC](https://github.com/toolleeo/cli-apps/blob/master)) - (music on console) is a powerful and easy to use console audio player; user interface a la Midnight Commander; plenty of features; fully controllable from the keyboard.
 * ( ) [vorbis-tools](https://github.com/xiph/vorbis-tools) - includes ogg123 - Quick `ogg` sound file player; no visual interface, just a command-line audio file player for the free and open  file format.

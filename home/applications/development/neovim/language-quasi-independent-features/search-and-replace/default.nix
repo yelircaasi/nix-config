@@ -1,8 +1,15 @@
-{pkgs, ...}: let
-  custom = import ../self-packaged-plugins {inherit pkgs;};
-in {
+{
+  pkgs, 
+  lib, 
+  g, 
+  neovimConf, 
+  ...
+}: 
+let
+  custom = {};
+in lib.mkIf neovimConf.features.searchAndReplace.enable {
   plugins =
-    (with pkgs; [
+    (with pkgs.vimPlugins; [
       substitute-nvim # alts: search-repace-nvim, nvim-spectre
       replacer-nvim # alt: nvim-search-and-replace
     ])
@@ -13,7 +20,12 @@ in {
       muren-nvim
       sad-nvim
     ]);
-  subpathString = "";
-  mkLuaConfig = {languages}: ''
-  '';
+  
+  files = {
+    "./nvim/lua/features/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
+  };
+
+  needsPython3 = false;
+  needsNodeJs = false;
+  needsRuby = false;
 }

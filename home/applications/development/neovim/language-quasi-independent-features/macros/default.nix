@@ -1,14 +1,26 @@
-{pkgs, ...}: let
-  custom = import ../self-packaged-plugins {inherit pkgs;};
-in {
+{
+  pkgs, 
+  lib, 
+  g, 
+  neovimConf, 
+  ...
+}: 
+let
+  custom = {};
+in lib.mkIf neovimConf.features.macros.enable {
   plugins =
-    (with pkgs; [
+    (with pkgs.vimPlugins; [
       sqlite-lua # dependency of neocomposer
     ])
     ++ (with custom; [
       neocomposer-nvim
     ]);
-  subpathString = "";
-  mkLuaConfig = {languages}: ''
-  '';
+  
+  files = {
+    "./nvim/lua/features/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
+  };
+
+  needsPython3 = false;
+  needsNodeJs = false;
+  needsRuby = false;
 }

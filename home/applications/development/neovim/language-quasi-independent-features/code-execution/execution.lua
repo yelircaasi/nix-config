@@ -18,5 +18,5 @@ vim.keymap.set("n", "<localleader>rr", ":MoltenReevaluateCell<CR>",
 vim.keymap.set("v", "<localleader>r", ":<C-u>MoltenEvaluateVisual<CR>gv",
     { silent = true, desc = "evaluate visual selection" })
 
-return sniprun, toggletasks, code_runner, compiler, yarepl, iron, molten
+-- return sniprun, toggletasks, code_runner, compiler, yarepl, iron, molten
 

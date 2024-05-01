@@ -1,0 +1,1 @@
+docker run -it --rm -v /home/isaac/nix-config:/nix-config delilah

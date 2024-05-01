@@ -1,8 +1,15 @@
-{pkgs, ...}: let
-  custom = import ../self-packaged-plugins {inherit pkgs;};
-in {
+{
+  pkgs, 
+  lib, 
+  g, 
+  neovimConf, 
+  ...
+}: 
+let
+  custom = {};
+in lib.mkIf neovimConf.features.pairs.enable {
   plugins =
-    (with pkgs; [
+    (with pkgs.vimPlugins; [
       autoclose-nvim
       rainbow-delimiters-nvim
     ])
@@ -10,7 +17,12 @@ in {
       custom.ultimate-autopair-nvim # alt: nvim-autopairs
       custom.sentiment-nvim
     ]);
-  subpathString = "";
-  mkLuaConfig = {languages}: ''
-  '';
+  
+  files = {
+    "./nvim/lua/features/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
+  };
+
+  needsPython3 = false;
+  needsNodeJs = false;
+  needsRuby = false;
 }

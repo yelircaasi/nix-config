@@ -1,8 +1,15 @@
-{pkgs, ...}: let
-  custom = import ../self-packaged-plugins {inherit pkgs;};
-in {
+{
+  pkgs, 
+  lib, 
+  g, 
+  neovimConf, 
+  ...
+}: 
+let
+  custom = {};
+in lib.mkIf neovimConf.features.editingEnhancements.enable {
   plugins =
-    (with pkgs; [
+    (with pkgs.vimPlugins; [
       text-case-nvim
       ssr
       treesj
@@ -21,7 +28,12 @@ in {
       move-nvim # alt: custom.moveline-nvim
       # part-edit-nvim
     ]);
-  subpathString = "";
-  mkLuaConfig = {languages}: ''
-  '';
+  
+  files = {
+    "./nvim/lua/features/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
+  };
+
+  needsPython3 = false;
+  needsNodeJs = false;
+  needsRuby = false;
 }

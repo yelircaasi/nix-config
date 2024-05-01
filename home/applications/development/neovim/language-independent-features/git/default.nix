@@ -1,8 +1,15 @@
-{pkgs, ...}: let
-  custom = import ../self-packaged-plugins {inherit pkgs;};
-in {
+{
+  pkgs, 
+  lib, 
+  g, 
+  neovimConf, 
+  ...
+}: 
+let
+  custom = {};
+in lib.mkIf neovimConf.features.git.enable {
   plugins =
-    (with pkgs; [
+    (with pkgs.vimPlugins; [
       neogit # alt: nvim-tinygit
       lazygit-nvim
       gitsigns-nvim
@@ -13,7 +20,12 @@ in {
     ++ (with custom; [
       git-sessions-nvim
     ]);
-  subpathString = "";
-  mkLuaConfig = {languages}: ''
-  '';
+  
+  files = {
+    "./nvim/lua/features/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
+  };
+
+  needsPython3 = false;
+  needsNodeJs = false;
+  needsRuby = false;
 }

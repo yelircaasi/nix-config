@@ -1,10 +1,15 @@
-{pkgs, ...}: let
+{
+  pkgs, 
+  lib, 
+  g, 
+  neovimConf, 
+  ...
+}: let
   custom = import ../self-packaged-plugins {inherit pkgs;};
-in {
-  packages = [
-  ];
+in lib.mkIf neovimConf.features.codeExecution.enable {
+  packages = [];
   plugins =
-    (with pkgs; [
+    (with pkgs.vimPlugins; [
       sniprun
       molten-nvim
     ])
@@ -15,7 +20,11 @@ in {
       iron-nvim
     ]);
 
-  subpathString = "";
-  mkLuaConfig = {languages}: ''
-  '';
+  files = {
+    "./nvim/lua/features/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
+  };
+
+  needsPython3 = false;
+  needsNodeJs = false;
+  needsRuby = false;
 }

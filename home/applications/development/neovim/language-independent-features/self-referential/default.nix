@@ -1,9 +1,16 @@
-{pkgs, ...}: let
-  custom = import ../self-packaged-plugins {inherit pkgs;};
-in {
+{
+  pkgs, 
+  lib, 
+  g, 
+  neovimConf, 
+  ...
+}: 
+let
+  custom = {};
+in lib.mkIf neovimConf.features.selfReferential.enable {
   packages = with pkgs; [];
   plugins =
-    (with pkgs; [
+    (with pkgs.vimPlugins; [
       neodev-nvim
     ])
     ++ (with custom; [

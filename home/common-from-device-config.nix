@@ -1,26 +1,29 @@
 {
   inputs,
   pkgs,
+  lib,
   g,
   deviceConfig,
   ...
 }: let
-  inherit (inputs.lib) mkIf;
+  # appendIf = 
   inherit (builtins) elem;
 in {
   imports = [
-    ../development/git
-    ../development/cli-utils/core
-    ../development/cli-utils/tui-file-browser/nnn
-    ../development/cli-utils/tui-file-browser/xplr
-    ../development/cli-utils/tui-file-browser/yazi
-    ../development/shell
-    (mkIf deviceConfig.includeNeovim ../development/neovim)
-    (mkIf (elem "wezterm" deviceConfig.terminal-emulators) ../gui/terminal-emulator/wezterm)
-    (mkIf (elem "nyxt" deviceConfig.browsers) ../gui/browser/nyxt)
-    (mkIf (elem "qutebrowser" deviceConfig.browsers) ../gui/browser/qutebrowser)
-    (mkIf (elem "ungoogle-chromium" deviceConfig.browsers) ../gui/browser/ungoogled-chromium)
-    (mkIf (elem "vieb" deviceConfig.browsers) ../gui/browser/vieb)
-    (mkIf (elem "firefox" deviceConfig.browsers) ../gui/browser/firefox)
-  ];
+    ./applications/development/git
+    ./applications/development/cli-utils/core
+    ./applications/development/cli-utils/tui-file-browser/nnn
+    ./applications/development/cli-utils/tui-file-browser/xplr
+    ./applications/development/cli-utils/tui-file-browser/yazi
+    ./applications/development/shell
+    # (pkgs.lib.mkIf deviceConfig.includeNeovim ../development/neovim)
+    #./applications/gui/terminal-emulator/wezterm
+    
+  ]
+  ++ (if (elem "wezterm" deviceConfig.terminal-emulators) then [./applications/gui/terminal-emulator/wezterm] else [])
+  ++ (if (elem "nyxt" deviceConfig.browsers) then [./applications/gui/browser/nyxt] else [])
+  ++ (if (elem "qutebrowser" deviceConfig.browsers) then [./applications/gui/browser/qutebrowser] else [])
+  ++ (if (elem "ungoogle-chromium" deviceConfig.browsers) then [./applications/gui/browser/ungoogled-chromium] else [])
+  ++ (if (elem "vieb" deviceConfig.browsers) then [./applications/gui/browser/vieb] else []);
+  # ++ (if (elem "firefox" deviceConfig.browsers) then [./applications/gui/browser/firefox] else []);
 }

@@ -41,6 +41,8 @@
         defaultShell = "bash";
         otherShells = ["bash"];
         compositors = ["hyprland" "sway" "swayfx"];
+        terminal-emulators = ["wezterm"];
+        browsers = ["nyxt" "qutebrowser" "ungoogle-chromium" "vieb" "firefox"];
         desktopEnvironments = ["gnome"];
         nvidia = true;
         pipewire = true;
@@ -55,6 +57,7 @@
       };
       delilah = {
         name = "delilah";
+        # username = "root";
         description = "Lightweight non-GUI environment, primarily for experimentation";
         defaultShell = "bash";
         otherShells = ["bash" "zsh" "fish" "xonsh"];

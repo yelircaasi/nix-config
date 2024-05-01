@@ -1,8 +1,15 @@
-{pkgs, ...}: let
-  custom = import ../self-packaged-plugins {inherit pkgs;};
-in {
+{
+  pkgs, 
+  lib, 
+  g, 
+  neovimConf, 
+  ...
+}: 
+let
+  custom = {};
+in lib.mkIf neovimConf.features.navigation.enable {
   plugins =
-    (with pkgs; [
+    (with pkgs.vimPlugins; [
       custom.navigator-lua
       numb-nvim
       dropbar-nvim
@@ -12,7 +19,12 @@ in {
     ++ (with custom; [
       custom.gx-extended-nvim
     ]);
-  subpathString = "";
-  mkLuaConfig = {languages}: ''
-  '';
+  
+  files = {
+    "./nvim/lua/features/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
+  };
+
+  needsPython3 = false;
+  needsNodeJs = false;
+  needsRuby = false;
 }

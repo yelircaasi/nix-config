@@ -1,8 +1,15 @@
-{pkgs, ...}: let
-  custom = import ../self-packaged-plugins {inherit pkgs;};
-in {
+{
+  pkgs, 
+  lib, 
+  g, 
+  neovimConf, 
+  ...
+}: 
+let
+  custom = {};
+in lib.mkIf neovimConf.features.projectAndConfigManagement.enable {
   plugins =
-    (with pkgs; [
+    (with pkgs.vimPlugins; [
       neoconf-nvim
       nvim-config-local # nvim-projectconfig
     ])
@@ -10,7 +17,12 @@ in {
       custom.projectmgr-nvim # projections-nvim, workspaces-nvim, neoproj
       custom.memento-nvim
     ]);
-  subpathString = "";
-  mkLuaConfig = {languages}: ''
-  '';
+  
+  files = {
+    "./nvim/lua/features/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
+  };
+
+  needsPython3 = false;
+  needsNodeJs = false;
+  needsRuby = false;
 }

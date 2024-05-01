@@ -1,6 +1,7 @@
 {
   inputs,
   pkgs,
+  lib,
   ...
 }: {
   imports = [
@@ -16,17 +17,17 @@
     #./environments/x11/compositor/picom
 
     # ./applications/gui/editor-and-ide/vscodium
-    ./applications/gui/file-browser/thunar
-    ./applications/development/ds-ml
+    # ./applications/gui/file-browser/thunar
+    # ./applications/development/ds-ml
 
-    #./desktop-environment/widgets/ags
+    # #./desktop-environment/widgets/ags
 
     ./desktop-environment/compositor/hyprland
     ./desktop-environment/launcher/fuzzel
     ./desktop-environment/widgets/bar/waybar
 
     ./desktop-environment/theming/gtk
-    ./desktop-environment/theming/qt
+    # ./desktop-environment/theming/qt
     ./desktop-environment/theming/fonts
     ./desktop-environment/theming/icons
 

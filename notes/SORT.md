@@ -1,3 +1,5 @@
+# SORT
+
 * {?} <|> ->  [Linux: What is Dash ( /bin/dash ) Shell? - nixCraft](https://www.cyberciti.biz/faq/debian-ubuntu-linux-binbash-vs-bindash-vs-binshshell/)
 * {?} <|> ->  [book/](https://www.nushell.sh/book/)
 * {?} <|> ->  [elv.sh](https://elv.sh/learn/)
@@ -60,7 +62,7 @@ github nix haskell lang dhall tree                 <|> [dhall-lang/dhall-haskell
 * github s                                           <|> -> * [mrzool/unix-as-ide: The ebook version of Tom Ryder's series on the Unix programming environment](https://github.com/mrzool/unix-as-ide)
 haskell                                            <|> Or just write Haskell tool to create color JSON from a declaration
 * {io                                                 } <|> ->  [newsletter.ruder.io](https://newsletter.ruder.io/p/the-big-picture-of-ai-research)
-io                                                 <|> ->* [gpt4all](https://gpt4all.io/index.html)
+io                                                 <|> -> [gpt4all](https://gpt4all.io/index.html)
 io                                                 <|> [kupfer.gitlab.io/](https://kupfer.gitlab.io/)
 io                                                 <|> [qsynth.sourceforge.io/](https://qsynth.sourceforge.io/)
 io                                                 <|> [yoshimi.sourceforge.io/](https://yoshimi.sourceforge.io/)

@@ -1,6 +1,12 @@
-{pkgs, ...}: let
+{
+  pkgs, 
+  lib, 
+  g, 
+  neovimConf, 
+  ...
+}: let
   custom = import ../self-packaged-plugins {inherit pkgs;};
-in {
+in lib.mkIf neovimConf.features.ai.enable {
   packages = [
 
   ];
@@ -13,7 +19,12 @@ in {
         custom.codegpt-nvim
         ChatGPT-nvim
         copilot-lua
-  subpathString = "";
-  mkLuaConfig = {languages}: ''
-  '';
+  
+  files = {
+    "./nvim/lua/features/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
+  };
+
+  needsPython3 = false;
+  needsNodeJs = false;
+  needsRuby = false;
 }

@@ -6,8 +6,8 @@
   ...
 }: {
   imports = [
-    ./common
-    ./common-from-device-config.nix
+    # ./common
+    # ./common-from-device-config.nix
   ];
 
   nixpkgs = {
@@ -17,16 +17,16 @@
   };
 
   home = {
-    username = "isaac";
-    homeDirectory = "/home/isaac";
+    username = "root";
+    homeDirectory = "/root";
     stateVersion = "23.11";
     packages = with pkgs; [
-      # xplr
+      xplr
       # lazygit
-      # bat
-      # fd
+      bat
+      fd
       # fzf
-      # sd
+      sd
     ];
     sessionVariables = {
       EDITOR = "nvim";

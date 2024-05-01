@@ -1,0 +1,71 @@
+/home/isaac/.config/nvim
+├── init.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/init.lua
+├── lua
+│   ├── colors.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/colors.lua
+│   ├── mappings.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/mappings.lua
+│   ├── options.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/options.lua
+│   └── plugins
+│       ├── ai.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/ai.lua
+│       ├── buffer_line.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/buffer_line.lua
+│       ├── clipboard.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/clipboard.lua
+│       ├── code_minimap.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/code_minimap.lua
+│       ├── code_outline.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/code_outline.lua
+│       ├── comments.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/comments.lua
+│       ├── completion.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/completion.lua
+│       ├── debugging.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/debugging.lua
+│       ├── editing.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/editing.lua
+│       ├── execution.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/execution.lua
+│       ├── filetree.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/filetree.lua
+│       ├── folding.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/folding.lua
+│       ├── formatting_and_linting.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/formatting_and_linting.lua
+│       ├── github.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/github.lua
+│       ├── git.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/git.lua
+│       ├── highlighting_other.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/highlighting_other.lua
+│       ├── icons.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/icons.lua
+│       ├── increment_and_toggling.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/increment_and_toggling.lua
+│       ├── json.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/json.lua
+│       ├── keybinding.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/keybinding.lua
+│       ├── lsp.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/lsp.lua
+│       ├── macros.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/macros.lua
+│       ├── markdown.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/markdown.lua
+│       ├── media.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/media.lua
+│       ├── menus_other.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/menus_other.lua
+│       ├── miscellaneous.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/miscellaneous.lua
+│       ├── modes.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/modes.lua
+│       ├── multiplexer.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/multiplexer.lua
+│       ├── navigation.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/navigation.lua
+│       ├── neovim_dev.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/neovim_dev.lua
+│       ├── nix.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/nix.lua
+│       ├── notifications.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/notifications.lua
+│       ├── org.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/org.lua
+│       ├── other_langs.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/other_langs.lua
+│       ├── pairs.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/pairs.lua
+│       ├── productivity.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/productivity.lua
+│       ├── projects.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/projects.lua
+│       ├── python.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/python.lua
+│       ├── quickfix.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/quickfix.lua
+│       ├── refactoring_other.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/refactoring_other.lua
+│       ├── rust.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/rust.lua
+│       ├── search_and_replace.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/search_and_replace.lua
+│       ├── search.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/search.lua
+│       ├── snippets.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/snippets.lua
+│       ├── startscreen.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/startscreen.lua
+│       ├── status_line.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/status_line.lua
+│       ├── tab_line.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/tab_line.lua
+│       ├── taskrunner.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/taskrunner.lua
+│       ├── terminal.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/terminal.lua
+│       ├── testing_and_coverage.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/testing_and_coverage.lua
+│       ├── tex.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/tex.lua
+│       ├── textobjects.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/textobjects.lua
+│       ├── training.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/training.lua
+│       ├── treesitter_and_extensions.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/treesitter_and_extensions.lua
+│       └── ui.lua -> /nix/store/srj167sbz4bn6vyn47kdzmw0086dw48j-home-manager-files/.config/nvim/lua/plugins/ui.lua
+└── pack_test
+    └── tp
+        └── opt
+            └── mytest
+                ├── init.lua
+                ├── plugin
+                │   ├── extra.vim
+                │   └── init.lua
+                └── print.vim

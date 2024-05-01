@@ -1,8 +1,15 @@
-{pkgs, ...}: let
-  custom = import ../self-packaged-plugins {inherit pkgs;};
-in {
+{
+  pkgs, 
+  lib, 
+  g, 
+  neovimConf, 
+  ...
+}: 
+let
+  custom = {};
+in lib.mkIf neovimConf.features.search.enable {
   plugins =
-    (with pkgs; [
+    (with pkgs.vimPlugins; [
       telescope-nvim
       custom.telescope-alternate-nvim
       telescope-ui-select-nvim
@@ -28,7 +35,12 @@ in {
       nvim-hlslens
       custom.hlsearch-nvim
     ]);
-  subpathString = "";
-  mkLuaConfig = {languages}: ''
-  '';
+  
+  files = {
+    "./nvim/lua/features/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
+  };
+
+  needsPython3 = false;
+  needsNodeJs = false;
+  needsRuby = false;
 }

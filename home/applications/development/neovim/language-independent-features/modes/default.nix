@@ -1,20 +1,32 @@
 {
-  pkgs, 
-  lib, 
-  g, 
-  neovimConf, 
+  pkgs,
+  lib,
+  g,
+  neovimConfig,
+  custom,
+  blankSet,
   ...
-}: 
-let
-  custom = {};
-in lib.mkIf neovimConf.features.modes.enable {
-  plugins = [pkgs.zen-mode-nvim];
-  
-  files = {
-    "./nvim/lua/features/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
-  };
+}: let
+  featCfg = neovimConfig.features.modes;
+  luaName = featCfg.luaName;
+in
+  if !featCfg.enable
+  then blankSet
+  else {
+    packages = [];
 
-  needsPython3 = false;
-  needsNodeJs = false;
-  needsRuby = false;
-}
+    plugins = [
+      {
+        plugin = pkgs.vimPlugins.zen-mode-nvim;
+        optional = true;
+      }
+    ];
+
+    files = {
+      "./nvim/lua/features/${luaName}.lua".text = g.utils.readAndInterpolate g ./_.lua;
+    };
+
+    needsPython3 = false;
+    needsNodeJs = false;
+    needsRuby = false;
+  }

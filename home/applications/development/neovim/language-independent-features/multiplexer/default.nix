@@ -1,24 +1,38 @@
 {
-  pkgs, 
-  lib, 
-  g, 
-  neovimConf, 
+  pkgs,
+  lib,
+  g,
+  neovimConfig,
+  custom,
+  blankSet,
   ...
-}: 
-let
-  custom = {};
-in lib.mkIf neovimConf.features.multiplexer.enable {
-  plugins = [
-    pkgs.smart-splits-nvim
-    custom.zellij-nvim # (not working) custom.zellij-nav-nvim, Navigator-nvim, #, nvim, neomux, tmux-nvim, tmux-awesome-manager-nvim, nvimux
-    custom.windex-nvim
-  ];
-  
-  files = {
-    "./nvim/lua/features/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
-  };
+}: let
+  featCfg = neovimConfig.features.multiplexer;
+  luaName = featCfg.luaName;
+in
+  if !featCfg.enable
+  then blankSet
+  else {
+    plugins = [
+      {
+        plugin = pkgs.smart-splits-nvim;
+        optional = true;
+      }
+      {
+        plugin = custom.zellij-nvim;
+        optional = true;
+      } # (not working) custom.zellij-nav-nvim, Navigator-nvim, #, nvim, neomux, tmux-nvim, tmux-awesome-manager-nvim, nvimux
+      {
+        plugin = custom.windex-nvim;
+        optional = true;
+      }
+    ];
 
-  needsPython3 = false;
-  needsNodeJs = false;
-  needsRuby = false;
-}
+    files = {
+      "./nvim/lua/features/${luaName}.lua".text = g.utils.readAndInterpolate g ./_.lua;
+    };
+
+    needsPython3 = false;
+    needsNodeJs = false;
+    needsRuby = false;
+  }

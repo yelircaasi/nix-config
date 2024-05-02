@@ -1,29 +1,51 @@
 {
-  pkgs, 
-  lib, 
-  g, 
-  neovimConf, 
+  pkgs,
+  lib,
+  g,
+  neovimConfig,
+  custom,
+  blankSet,
   ...
-}: 
-let
-  custom = {};
-in lib.mkIf neovimConf.features.keybinding.enable {
-  plugins =
-    (with pkgs.vimPlugins; [
-      legendary-nvim
-      which-key-nvim # training wheels
-      hydra-nvim
-    ])
-    ++ (with custom; [
-      hawtkeys-nvim
-      keymap-amend-nvim
-    ]);
-  
-  files = {
-    "./nvim/lua/features/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
-  };
+}: let
+  featCfg = neovimConfig.features.keybinding;
+  luaName = featCfg.luaName;
+in
+  if !featCfg.enable
+  then blankSet
+  else {
+    packages = [];
 
-  needsPython3 = false;
-  needsNodeJs = false;
-  needsRuby = false;
-}
+    plugins =
+      (with pkgs.vimPlugins; [
+        {
+          plugin = legendary-nvim;
+          optional = true;
+        }
+        {
+          plugin = which-key-nvim;
+          optional = true;
+        } # training wheels
+        {
+          plugin = hydra-nvim;
+          optional = true;
+        }
+      ])
+      ++ (with custom; [
+        {
+          plugin = hawtkeys-nvim;
+          optional = true;
+        }
+        {
+          plugin = keymap-amend-nvim;
+          optional = true;
+        }
+      ]);
+
+    files = {
+      "./nvim/lua/features/${luaName}.lua".text = g.utils.readAndInterpolate g ./_.lua;
+    };
+
+    needsPython3 = false;
+    needsNodeJs = false;
+    needsRuby = false;
+  }

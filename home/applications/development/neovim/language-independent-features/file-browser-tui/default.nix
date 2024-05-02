@@ -1,23 +1,30 @@
 {
-  pkgs, 
-  lib, 
-  g, 
-  neovimConf, 
+  pkgs,
+  lib,
+  g,
+  neovimConfig,
+  custom,
+  blankSet,
   ...
-}: 
-let
-  custom = {};
-in lib.mkIf neovimConf.features.fileBrowserTui.enable {
-  plugins = [
-    # problem with fm-nvim:
-    # alts: fm-nvim (with xplr), ### nnn-vim, -> make nvim-xplr using fm-nvim and joshuto.nvim as basis, integrate with plugins
-  ];
-  
-  files = {
-    "./nvim/lua/features/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
-  };
+}: let
+  featCfg = neovimConfig.features.fileBrowserTui;
+  luaName = featCfg.luaName;
+in
+  if !featCfg.enable
+  then blankSet
+  else {
+    packages = [];
 
-  needsPython3 = false;
-  needsNodeJs = false;
-  needsRuby = false;
-}
+    plugins = [
+      # problem with fm-nvim:
+      # alts: fm-nvim (with xplr), ### nnn-vim, -> make nvim-xplr using fm-nvim and joshuto.nvim as basis, integrate with plugins
+    ];
+
+    files = {
+      "./nvim/lua/features/${luaName}.lua".text = g.utils.readAndInterpolate g ./file_browser_tui.lua;
+    };
+
+    needsPython3 = false;
+    needsNodeJs = false;
+    needsRuby = false;
+  }

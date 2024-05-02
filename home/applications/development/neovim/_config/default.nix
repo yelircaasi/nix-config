@@ -4,13 +4,13 @@
   g,
   ...
 }: {
-  # xdg.configFile."./nvim/init.lua".text = g.utils.readAndInterpolate g ./config/init.lua;
+  # xdg.configFile."./nvim/init.lua".text = (g.utils.readAndInterpolate g ./config/init.lua);
   # xdg.configFile."./nvim/lua/plugins" = {
   #   source = ./config/lua/plugins;
   #   recursive = true;
   # };
-  # xdg.configFile."./nvim/lua/colors.lua".text = g.utils.readAndInterpolate g ./config/lua/colors.lua;
-  # xdg.configFile."./nvim/lua/mappings.lua".text = g.utils.readAndInterpolate g ./config/lua/mappings.lua;
+  # xdg.configFile."./nvim/lua/colors.lua".text = (g.utils.readAndInterpolate g ./config/lua/colors.lua);
+  # xdg.configFile."./nvim/lua/mappings.lua".text = (g.utils.readAndInterpolate g ./config/lua/mappings.lua);
   # xdg.configFile."./nvim/lua/options.lua".source = ./config/lua/options.lua;
 
   xdg.configFile =

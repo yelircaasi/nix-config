@@ -1,24 +1,36 @@
 {
-  pkgs, 
-  lib, 
-  g, 
-  neovimConf, 
+  pkgs,
+  lib,
+  g,
+  neovimConfig,
+  custom,
+  blankSet,
   ...
-}: 
-let
-  custom = {};
-in lib.mkIf neovimConf.features.media.enable {
-  packages = with pkgs; [];
-  plugins = with pkgs; [
-    hologram-nvim
-    image-nvim
-  ];
-  
-  files = {
-    "./nvim/lua/features/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
-  };
+}: let
+  featCfg = neovimConfig.features.media;
+  luaName = featCfg.luaName;
+in
+  if !featCfg.enable
+  then blankSet
+  else {
+    packages = with pkgs; [];
 
-  needsPython3 = false;
-  needsNodeJs = false;
-  needsRuby = false;
-}
+    plugins = with pkgs; [
+      {
+        plugin = hologram-nvim;
+        optional = true;
+      }
+      {
+        plugin = image-nvim;
+        optional = true;
+      }
+    ];
+
+    files = {
+      "./nvim/lua/features/${luaName}.lua".text = g.utils.readAndInterpolate g ./media.lua;
+    };
+
+    needsPython3 = false;
+    needsNodeJs = false;
+    needsRuby = false;
+  }

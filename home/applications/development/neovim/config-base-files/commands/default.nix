@@ -1,17 +1,17 @@
 {
-  pkgs, 
-  lib, 
-  g, 
-  neovimConf, 
+  pkgs,
+  lib,
+  g,
+  neovimConfig,
+  custom,
+  blankSet,
   ...
-}: let
-  custom = {};
-in {
+}: {
   packages = [];
-  plugins = (with pkgs.vimPlugins; []) ++ (with custom; []);
+  plugins = [];
 
   files = {
-    "./nvim/lua/commands.lua".text = g.lib.readAndInterpolate g ./commands.lua;
+    "./nvim/lua/commands.lua".text = g.utils.readAndInterpolate g ./commands.lua;
   };
 
   needsPython3 = false;

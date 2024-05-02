@@ -1,19 +1,41 @@
-{pkgs, ...}: let
-  custom = import ../self-packaged-plugins {inherit pkgs;};
-in {
+{pkgs, ...}: {
   plugins =
     (with pkgs.vimPlugins; [
-      nvim-lspconfig
-      lspkind-nvim
-      efmls-configs-nvim # diagnosticls-configs-nvim
-      nlsp-settings-nvim
-      lspsaga-nvim
-      lsp_signature-nvim
-      vim-illuminate
+      {
+        plugin = nvim-lspconfig;
+        optional = true;
+      }
+      {
+        plugin = lspkind-nvim;
+        optional = true;
+      }
+      {
+        plugin = efmls-configs-nvim;
+        optional = true;
+      } # diagnosticls-configs-nvim
+      {
+        plugin = nlsp-settings-nvim;
+        optional = true;
+      }
+      {
+        plugin = lspsaga-nvim;
+        optional = true;
+      }
+      {
+        plugin = lsp_signature-nvim;
+        optional = true;
+      }
+      {
+        plugin = vim-illuminate;
+        optional = true;
+      }
     ])
-    ++ (with custom; [
-      custom.none-ls # installing, but not being found at runtime; try latest version
-    ]);
+    ++ [
+      {
+        plugin = custom.none-ls;
+        optional = true;
+      } # installing, but not being found at runtime; try latest version
+    ];
   home.packages = with pkgs; [
     vscode-langservers-extracted
   ];

@@ -4,7 +4,8 @@
   lib,
   deviceConfig,
   ...
-}: lib.mkIf deviceConfig.nvidia {
+}:
+lib.mkIf deviceConfig.nvidia {
   environment.systemPackages = with pkgs; [
     cudaPackages.cuda_nvcc
   ];

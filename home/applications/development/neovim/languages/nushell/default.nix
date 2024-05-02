@@ -1,20 +1,24 @@
 {
-  pkgs, 
-  lib, 
-  g, 
-  neovimConf, 
+  pkgs,
+  lib,
+  g,
+  neovimConfig,
+  custom,
+  blankSet,
   ...
-}: 
-let
-  custom = {};
-in lib.mkIf neovimConf.languages.nushell.enable {
-  packages = with pkgs; [
-  ];
+}: let
+  langCfg = neovimConfig.languages.nushell;
+  luaName = langCfg.luaName;
+in
+  if !langCfg.enable
+  then blankSet
+  else {
+    packages = with pkgs; [];
 
-  plugins =
-    (with pkgs.vimPlugins; [
-      nvim-nu
-    ])
-    ++ (with custom; [
-      ]);
-}
+    plugins = [
+      {
+        plugin = pkgs.vimPlugins.nvim-nu;
+        optional = true;
+      }
+    ];
+  }

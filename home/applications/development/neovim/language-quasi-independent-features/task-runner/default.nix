@@ -1,23 +1,36 @@
 {
-  pkgs, 
-  lib, 
-  g, 
-  neovimConf, 
+  pkgs,
+  lib,
+  g,
+  neovimConfig,
+  custom,
+  blankSet,
   ...
-}: 
-let
-  custom = {};
-in lib.mkIf neovimConf.features.taskRunner.enable {
-  plugins = [
-    pkgs.overseer-nvim # vs-tasks
-    custom.toggletasks-nvim # nvim-moonicipal, jaq-nvim
-  ];
-  
-  files = {
-    "./nvim/lua/features/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
-  };
+}: let
+  featCfg = neovimConfig.features.taskRunner;
+  luaName = featCfg.luaName;
+in
+  if !featCfg.enable
+  then blankSet
+  else {
+    packages = [];
 
-  needsPython3 = false;
-  needsNodeJs = false;
-  needsRuby = false;
-}
+    plugins = [
+      {
+        plugin = pkgs.vimPlugins.overseer-nvim; # vs-tasks
+        optional = true;
+      }
+      {
+        plugin = custom.toggletasks-nvim; # nvim-moonicipal, jaq-nvim
+        optional = true;
+      }
+    ];
+
+    files = {
+      "./nvim/lua/features/${luaName}.lua".text = g.utils.readAndInterpolate g ./_.lua;
+    };
+
+    needsPython3 = false;
+    needsNodeJs = false;
+    needsRuby = false;
+  }

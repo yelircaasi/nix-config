@@ -1,28 +1,47 @@
 {
-  pkgs, 
-  lib, 
-  g, 
-  neovimConf, 
+  pkgs,
+  lib,
+  g,
+  neovimConfig,
+  custom,
+  blankSet,
   ...
-}: 
-let
-  custom = {};
-in lib.mkIf neovimConf.features.terminal.enable {
-  plugins =
-    (with pkgs.vimPlugins; [
-      toggleterm-nvim # nvim-toggleterm-lua, terminal-nvim, vim-floaterm, neoterm-lua
-      nvim-unception
-      term-edit-nvim
-    ])
-    ++ (with custom; [
-      wezterm-nvim # kitty-runner-nvim
-    ]);
-  
-  files = {
-    "./nvim/lua/features/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
-  };
+}: let
+  featCfg = neovimConfig.features.terminal;
+  luaName = featCfg.luaName;
+in
+  if !featCfg.enable
+  then blankSet
+  else {
+    packages = [];
 
-  needsPython3 = false;
-  needsNodeJs = false;
-  needsRuby = false;
-}
+    plugins =
+      (with pkgs.vimPlugins; [
+        {
+          plugin = toggleterm-nvim;
+          optional = true;
+        } # nvim-toggleterm-lua, terminal-nvim, vim-floaterm, neoterm-lua
+        {
+          plugin = nvim-unception;
+          optional = true;
+        }
+        {
+          plugin = term-edit-nvim;
+          optional = true;
+        }
+      ])
+      ++ (with custom; [
+        {
+          plugin = wezterm-nvim;
+          optional = true;
+        } # kitty-runner-nvim
+      ]);
+
+    files = {
+      "./nvim/lua/features/${luaName}.lua".text = g.utils.readAndInterpolate g ./_.lua;
+    };
+
+    needsPython3 = false;
+    needsNodeJs = false;
+    needsRuby = false;
+  }

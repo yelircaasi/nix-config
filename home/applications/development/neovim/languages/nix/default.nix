@@ -1,25 +1,36 @@
 {
-  pkgs, 
-  lib, 
-  g, 
-  neovimConf, 
+  pkgs,
+  lib,
+  g,
+  neovimConfig,
+  custom,
+  blankSet,
   ...
-}: 
-let
-  custom = {};
-in lib.mkIf neovimConf.languages.nix.enable {
-  packages = with pkgs; [
-    alejandra
-    nixd
-    nil # alt: rnix-lsp
-  ];
+}: let
+  langCfg = neovimConfig.languages.nix;
+  luaName = langCfg.luaName;
+in
+  if !langCfg.enable
+  then blankSet
+  else {
+    packages = with pkgs; [
+      alejandra
+      nixd
+      nil # alt: rnix-lsp
+    ];
 
-  plugins =
-    (with pkgs.vimPlugins; [
-      vim-nix
-      telescope-manix
-      nix-develop-nvim
-    ])
-    ++ (with custom; [
-      ]);
-}
+    plugins = with pkgs.vimPlugins; [
+      {
+        plugin = vim-nix;
+        optional = true;
+      }
+      {
+        plugin = telescope-manix;
+        optional = true;
+      }
+      {
+        plugin = nix-develop-nvim;
+        optional = true;
+      }
+    ];
+  }

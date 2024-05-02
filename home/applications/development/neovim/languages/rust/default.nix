@@ -1,20 +1,24 @@
 {
-  pkgs, 
-  lib, 
-  g, 
-  neovimConf, 
+  pkgs,
+  lib,
+  g,
+  neovimConfig,
+  custom,
+  blankSet,
   ...
-}: 
-let
-  custom = {};
-in lib.mkIf neovimConf.languages.rust.enable {
-  packages = with pkgs; [
-  ];
+}: let
+  langCfg = neovimConfig.languages.rust;
+  luaName = langCfg.luaName;
+in
+  if !langCfg.enable
+  then blankSet
+  else {
+    packages = with pkgs; [];
 
-  plugins =
-    (with pkgs.vimPlugins; [
-      rustaceanvim
-    ])
-    ++ (with custom; [
-      ]);
-}
+    plugins = [
+      {
+        plugin = pkgs.vimPlugins.rustaceanvim;
+        optional = true;
+      }
+    ];
+  }

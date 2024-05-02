@@ -1,30 +1,31 @@
 {
-  pkgs, 
-  lib, 
-  g, 
-  neovimConf, 
+  pkgs,
+  lib,
+  g,
+  neovimConfig,
+  custom,
+  blankSet,
   ...
-}: 
-let
-  custom = {};
-in lib.mkIf neovimConf.languages.tex.enable {
-  packages = with pkgs; [
-    vimtex
-    cmp-latex-symbols
-    nabla-nvim
-  ];
+}: let
+  langCfg = neovimConfig.languages.tex;
+  luaName = langCfg.luaName;
+in
+  if !langCfg.enable
+  then blankSet
+  else {
+    packages = with pkgs; [
+      vimtex
+      cmp-latex-symbols
+      nabla-nvim
+    ];
 
-  plugins =
-    (with pkgs.vimPlugins; [
-      ])
-    ++ (with custom; [
-            ]);
+    plugins = (with pkgs.vimPlugins; []) ++ (with custom; []);
 
-  files = {
-    "./nvim/lua/languages/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
-  };
+    files = {
+      "./nvim/lua/languages/${luaName}.lua".text = g.utils.readAndInterpolate g ./_.lua;
+    };
 
-  needsPython3 = false;
-  needsNodeJs = false;
-  needsRuby = false;
-}
+    needsPython3 = false;
+    needsNodeJs = false;
+    needsRuby = false;
+  }

@@ -1,12 +1,16 @@
 {
-  pkgs, 
-  lib, 
-  g, 
-  neovimConf, 
+  pkgs,
+  lib,
+  g,
+  neovimConfig,
+  custom,
+  blankSet,
   ...
-}: 
-let
-  custom = {};
-in lib.mkIf neovimConf.languages.other.enable {
-
-}
+}: let
+  langCfg = neovimConfig.languages.other;
+  luaName = langCfg.luaName;
+in
+  if !langCfg.enable
+  then blankSet
+  else {
+  }

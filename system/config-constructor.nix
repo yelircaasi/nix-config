@@ -33,7 +33,7 @@
     ./modules/variables.nix
   ];
 
-  environment.systemPackages = with pkgs; [ git home-manager ];
+  environment.systemPackages = with pkgs; [git home-manager];
 
   boot.loader.systemd-boot.enable = true;
   boot.loader.efi.canTouchEfiVariables = true;

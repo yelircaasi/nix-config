@@ -1,24 +1,37 @@
 {
-  pkgs, 
-  lib, 
-  g, 
-  neovimConf, 
+  pkgs,
+  lib,
+  g,
+  neovimConfig,
+  custom,
+  blankSet,
   ...
-}: 
-let
-  custom = {};
-in lib.mkIf neovimConf.features.ui.enable {
-  plugins = with pkgs; [
-    nui-nvim # alt: dressing-nvim, guihua-lua
-    noice-nvim
-    #custom.popui-nvim
-  ];
-  
-  files = {
-    "./nvim/lua/features/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
-  };
+}: let
+  featCfg = neovimConfig.features.ui;
+  luaName = featCfg.luaName;
+in
+  if !featCfg.enable
+  then blankSet
+  else {
+    packages = [];
 
-  needsPython3 = false;
-  needsNodeJs = false;
-  needsRuby = false;
-}
+    plugins = with pkgs.vimPlugins; [
+      {
+        plugin = nui-nvim;
+        optional = true;
+      } # alt: dressing-nvim, guihua-lua
+      {
+        plugin = noice-nvim;
+        optional = true;
+      }
+      #custom.popui-nvim
+    ];
+
+    files = {
+      "./nvim/lua/features/${luaName}.lua".text = g.utils.readAndInterpolate g ./_.lua;
+    };
+
+    needsPython3 = false;
+    needsNodeJs = false;
+    needsRuby = false;
+  }

@@ -32,6 +32,14 @@ in
       (getNewValues globalSet placeholders)
       fileString;
 
+    interpolate = globalSet: fileString: let
+      placeholders = findAllPlaceholders fileString;
+    in
+      b.replaceStrings
+      placeholders
+      (getNewValues globalSet placeholders)
+      fileString;
+
     readAndInterpolateFiles = globalSet: pathInfo: dotfileNameList:
     # pathInfo = { xdgAttrName = "..."; relativeDir = ./...; fileSuffix = "...";};
       builtins.foldl'

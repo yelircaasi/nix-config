@@ -1,33 +1,67 @@
 {
-  pkgs, 
-  lib, 
-  g, 
-  neovimConf, 
+  pkgs,
+  lib,
+  g,
+  neovimConfig,
+  custom,
+  blankSet,
   ...
-}: 
-let
-  custom = {};
-in lib.mkIf neovimConf.features.miscellaneous.enable {
-  plugins =
-    (with pkgs.vimPlugins; [
-      nvim-colorizer-lua
-      venn-nvim
-      distant-nvim
-      compiler-explorer-nvim
-      flatten-nvim
-      urlview-nvim
-    ])
-    ++ (with custom; [
-      custom.nvim-regexplainer # #custom.hypersonic-nvim
-      custom.quicknote-nvim
-      custom.carbon-now-nvim
-    ]);
-  
-  files = {
-    "./nvim/lua/features/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
-  };
+}: let
+  featCfg = neovimConfig.features.miscellaneous;
+  luaName = featCfg.luaName;
+in
+  if !featCfg.enable
+  then blankSet
+  else {
+    packages = [];
 
-  needsPython3 = false;
-  needsNodeJs = false;
-  needsRuby = false;
-}
+    plugins =
+      (with pkgs.vimPlugins; [
+        {
+          plugin = nvim-colorizer-lua;
+          optional = true;
+        }
+        {
+          plugin = venn-nvim;
+          optional = true;
+        }
+        {
+          plugin = distant-nvim;
+          optional = true;
+        }
+        {
+          plugin = compiler-explorer-nvim;
+          optional = true;
+        }
+        {
+          plugin = flatten-nvim;
+          optional = true;
+        }
+        {
+          plugin = urlview-nvim;
+          optional = true;
+        }
+      ])
+      ++ (with custom; [
+        {
+          plugin = nvim-regexplainer;
+          optional = true;
+        } # #custom.hypersonic-nvim
+        {
+          plugin = quicknote-nvim;
+          optional = true;
+        }
+        {
+          plugin = carbon-now-nvim;
+          optional = true;
+        }
+      ]);
+
+    files = {
+      "./nvim/lua/features/${luaName}.lua".text = g.utils.readAndInterpolate g ./_.lua;
+    };
+
+    needsPython3 = false;
+    needsNodeJs = false;
+    needsRuby = false;
+  }

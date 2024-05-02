@@ -1,28 +1,35 @@
 {
-  pkgs, 
-  lib, 
-  g, 
-  neovimConf, 
+  pkgs,
+  lib,
+  g,
+  neovimConfig,
+  custom,
+  blankSet,
   ...
-}: 
-let
-  custom = {};
-in lib.mkIf neovimConf.languages.dartFlutter.enable {
-  packages = with pkgs; [
-    flutter-tools-nvim
-  ];
+}: let
+  langCfg = neovimConfig.languages.dartFlutter;
+  luaName = langCfg.luaName;
+in
+  if !langCfg.enable
+  then blankSet
+  else {
+    packages = with pkgs; [
+    ];
 
-  plugins =
-    (with pkgs.vimPlugins; [
+    plugins =
+      (with pkgs.vimPlugins; [
+        {
+          plugin = flutter-tools-nvim;
+          optional = true;
+        }
       ])
-    ++ (with custom; [
-            ]);
+      ++ (with custom; []);
 
-  files = {
-    "./nvim/lua/languages/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
-  };
+    files = {
+      "./nvim/lua/languages/${luaName}.lua".text = g.utils.readAndInterpolate g ./_.lua;
+    };
 
-  needsPython3 = false;
-  needsNodeJs = false;
-  needsRuby = false;
-}
+    needsPython3 = false;
+    needsNodeJs = false;
+    needsRuby = false;
+  }

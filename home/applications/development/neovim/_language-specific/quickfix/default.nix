@@ -1,15 +1,29 @@
-{pkgs, ...}: let
-  custom = import ../self-packaged-plugins {inherit pkgs;};
-in {
+{
+  pkgs,
+  custom,
+  ...
+}: {
   packages = [];
   plugins =
     (with pkgs.vimPlugins; [
-      nvim-bqf # alt: qqf-nvim
-      trouble-nvim
+      {
+        plugin = nvim-bqf;
+        optional = true;
+      } # alt: qqf-nvim
+      {
+        plugin = trouble-nvim;
+        optional = true;
+      }
     ])
     ++ (with custom; [
-      qfview-nvim # alt: nvim-pqf
-      neowell-lua # ?
+      {
+        plugin = qfview-nvim;
+        optional = true;
+      } # alt: nvim-pqf
+      {
+        plugin = neowell-lua;
+        optional = true;
+      } # ?
     ]);
   subpathString = "";
   mkLuaConfig = {languages}: ''

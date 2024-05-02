@@ -1,19 +1,27 @@
 {
-  pkgs, 
-  lib, 
-  g, 
-  neovimConf, 
+  pkgs,
+  lib,
+  g,
+  neovimConfig,
+  custom,
+  blankSet,
   ...
-}: 
-let
-  custom = {};
-in lib.mkIf neovimConf.features.selfReferential.enable {
-  packages = with pkgs; [];
-  plugins =
-    (with pkgs.vimPlugins; [
-      neodev-nvim
-    ])
-    ++ (with custom; [
-      custom.nvim-luaref
-    ]);
-}
+}: let
+  featCfg = neovimConfig.features.selfReferential;
+  luaName = featCfg.luaName;
+in
+  if !featCfg.enable
+  then blankSet
+  else {
+    packages = with pkgs; [];
+    plugins = [
+      {
+        plugin = pkgs.vimPlugins.neodev-nvim;
+        optional = true;
+      }
+      {
+        plugin = custom.nvim-luaref;
+        optional = true;
+      }
+    ];
+  }

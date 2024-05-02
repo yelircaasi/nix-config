@@ -1,39 +1,88 @@
 {
-  pkgs, 
-  lib, 
-  g, 
-  neovimConf, 
+  pkgs,
+  lib,
+  g,
+  neovimConfig,
+  custom,
+  blankSet,
   ...
-}: 
-let
-  custom = {};
-in lib.mkIf neovimConf.features.editingEnhancements.enable {
-  plugins =
-    (with pkgs.vimPlugins; [
-      text-case-nvim
-      ssr
-      treesj
-      dial-nvim
-      live-command-nvim
-      renamer-nvim
-      boole-nvim
-      sort-nvim
-      smartcolumn-nvim # alts: deadcolumn-nvim, virtcolumn-nvim
-      trim-nvim
-      vim-sneak
-      indent-blankline-nvim
-    ])
-    ++ (with custom; [
-      sibling-swap-nvim
-      move-nvim # alt: custom.moveline-nvim
-      # part-edit-nvim
-    ]);
-  
-  files = {
-    "./nvim/lua/features/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
-  };
+}: let
+  featCfg = neovimConfig.features.editingEnhancements;
+  luaName = featCfg.luaName;
+in
+  if !featCfg.enable
+  then blankSet
+  else {
+    packages = [];
 
-  needsPython3 = false;
-  needsNodeJs = false;
-  needsRuby = false;
-}
+    plugins =
+      (with pkgs.vimPlugins; [
+        {
+          plugin = text-case-nvim;
+          optional = true;
+        }
+        {
+          plugin = ssr;
+          optional = true;
+        }
+        {
+          plugin = treesj;
+          optional = true;
+        }
+        {
+          plugin = dial-nvim;
+          optional = true;
+        }
+        {
+          plugin = live-command-nvim;
+          optional = true;
+        }
+        {
+          plugin = renamer-nvim;
+          optional = true;
+        }
+        {
+          plugin = boole-nvim;
+          optional = true;
+        }
+        {
+          plugin = sort-nvim;
+          optional = true;
+        }
+        {
+          plugin = smartcolumn-nvim;
+          optional = true;
+        } # alts: deadcolumn-nvim, virtcolumn-nvim
+        {
+          plugin = trim-nvim;
+          optional = true;
+        }
+        {
+          plugin = vim-sneak;
+          optional = true;
+        }
+        {
+          plugin = indent-blankline-nvim;
+          optional = true;
+        }
+      ])
+      ++ (with custom; [
+        {
+          plugin = sibling-swap-nvim;
+          optional = true;
+        }
+        {
+          plugin = move-nvim;
+          optional = true;
+        } # alt: custom.moveline-nvim
+        # part-edit-nvim
+      ]);
+
+    files = {
+      "./nvim/lua/features/${luaName}.lua".text = g.utils.readAndInterpolate g ./_.lua;
+    };
+
+    needsPython3 = false;
+    needsNodeJs = false;
+    needsRuby = false;
+  }

@@ -1,5 +1,5 @@
 {
-  features = [
+  features = {
     # language-independent
     clipboard.enable = false; #                      start
     codeMinimap.enable = false; #                    filetype
@@ -9,8 +9,8 @@
     generalPurposeAndDependencies.enable = false; #  keybind?
     git.enable = false; #                            keybind?
     github.enable = false; #                         keybind?
-    icons.enable = true; #                           start
-    media.enable = false; #                          filetype / keybind           
+    icons.enable = false; #                           start
+    media.enable = false; #                          filetype / keybind
     modes.enable = false; #                          start
     multiplexer.enable = false; #                    start?
     notifications.enable = false; #                  start
@@ -18,20 +18,21 @@
     popupAndMenu.enable = false; #                   start
     productivity.enable = false; #                   keybind
     projectAndConfigManagement.enable = false; #     keybind? start?
+    selfReferential.enable = false;
     startScreen.enable = false; #                    autocommand (autocommand for no filetype?)
-    statusLine.enable = false; #                     start
+    statusLine.enable = true; #                      start
     terminal.enable = false; #                       keybind?
     training.enable = false; #                       keybind
-    treeFileBrowser.enable = true; #                 filetype? (autocommand for directory?)
+    treeFileBrowser.enable = false; #                 filetype? (autocommand for directory?)
     tuiFileBrowser.enable = false; #                 keybind
-    ui.enable = true; #                              start
+    ui.enable = false; #                              start
 
     # quasi language-independent
     ai.enable = false; #                             keybind
     bufferLine.enable = false; #                     start?
     codeExecution.enable = false; #                  keybind
     codeOutline.enable = false; #                    filetype
-    comments.enable = false; #                       filetype 
+    comments.enable = false; #                       filetype
     editingEnhancements.enable = false; #            start + filetype
     folding.enable = false; #                        start + filetype?
     incrementAndToggling.enable = false; #           start?
@@ -49,8 +50,8 @@
     # # language-specific
     # completion.enable = false; #                     keybind (filetype-modulated)
     # debugging.enable = false; #                      keybind (filetype-modulated)
-    # formattingAndLinting.enable = true; #            keybind (filetype-modulated) / filetype?
-    # lsp.enable = true; #                             keybind (filetype-modulated)
+    # formattingAndLinting.enable = false; #            keybind (filetype-modulated) / filetype?
+    # lsp.enable = false; #                             keybind (filetype-modulated)
     # quickfix.enable = false; #                       keybind (filetype-modulated)
     # refactoring.enable = false; #                    keybind (filetype-modulated)
     # snippets.enable = false; #                       keybind (filetype-modulated)
@@ -59,8 +60,8 @@
     # treesitterAndExtensions.enable = false; #        filetype
 
     # own language
-  ];
-  languages = [
+  };
+  languages = {
     apl.enable = false;
     assembly.enable = false;
     bash.enable = false;
@@ -107,7 +108,7 @@
     perl.enable = false;
     php.enable = false;
     purescript.enable = false;
-    python.enable = true;
+    python.enable = false;
     r.enable = false;
     racket.enable = false;
     raku.enable = false;
@@ -129,5 +130,5 @@
     yaml.enable = false;
     yuck.enable = false;
     zig.enable = false;
-  ];
+  };
 }

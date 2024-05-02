@@ -1,23 +1,33 @@
 {
-  pkgs, 
-  lib, 
-  g, 
-  neovimConf, 
+  pkgs,
+  lib,
+  g,
+  neovimConfig,
+  custom,
+  blankSet,
   ...
-}: 
-let
-  custom = {};
-in lib.mkIf neovimConf.features.folding.enable {
-  plugins = [
-    # pretty-fold-nvim # alt: fold-cycle-nvim, nvim-ufo, nvim-origami,
-    pkgs.nvim-ufo
-  ];
-  
-  files = {
-    "./nvim/lua/features/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
-  };
+}: let
+  featCfg = neovimConfig.features.folding;
+  luaName = featCfg.luaName;
+in
+  if !featCfg.enable
+  then blankSet
+  else {
+    packages = [];
 
-  needsPython3 = false;
-  needsNodeJs = false;
-  needsRuby = false;
-}
+    plugins = [
+      # pretty-fold-nvim # alt: fold-cycle-nvim, nvim-ufo, nvim-origami,
+      {
+        plugin = pkgs.vimPlugins.nvim-ufo;
+        optional = true;
+      }
+    ];
+
+    files = {
+      "./nvim/lua/features/${luaName}.lua".text = g.utils.readAndInterpolate g ./_.lua;
+    };
+
+    needsPython3 = false;
+    needsNodeJs = false;
+    needsRuby = false;
+  }

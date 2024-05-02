@@ -1,23 +1,45 @@
 {
-  pkgs, 
-  lib, 
-  g, 
-  neovimConf, 
+  pkgs,
+  lib,
+  g,
+  neovimConfig,
+  custom,
+  blankSet,
   ...
-}: 
-let
-  custom = {};
-in lib.mkIf neovimConf.features.statusLine.enable {
-  plugins = with pkgs; [
-    lualine-nvim # alt: neirline-nvim
-    nvim-navic
-  ];
-  
-  files = {
-    "./nvim/lua/features/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
-  };
+}: let
+  featCfg = neovimConfig.features.statusLine;
+  luaName = featCfg.luaName;
+in
+  if !featCfg.enable
+  then blankSet
+  else rec {
+    packages = [];
 
-  needsPython3 = false;
-  needsNodeJs = false;
-  needsRuby = false;
-}
+    plugins = with pkgs.vimPlugins; [
+      {
+        plugin = lualine-nvim; # alt: neirline-nvim
+        optional = true;
+      }
+      {
+        plugin = nvim-navic;
+        optional = true;
+      }
+    ];
+
+    pluginStrings = [
+      "-- {{lualine RTP command}}"
+      "-- {{navic RTP command}}"
+    ];
+
+    files = {
+      "./nvim/lua/features/${luaName}.lua".text = 
+        builtins.replaceStrings 
+          pluginStrings 
+          (map (set: ''vim.opt.rtp:prepend("${set.plugin}")'') plugins)
+          (g.utils.readAndInterpolate g ./status_line.lua);
+    };
+
+    needsPython3 = false;
+    needsNodeJs = false;
+    needsRuby = false;
+  }

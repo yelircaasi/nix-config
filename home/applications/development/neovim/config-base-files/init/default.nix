@@ -1,40 +1,35 @@
 {
-  pkgs, 
-  lib, 
-  g, 
-  neovimConf, 
+  pkgs,
+  lib,
+  g,
+  neovimConfig,
+  custom,
+  blankSet,
   ...
 }: let
-  custom = {};
+  filterValuesList = setSet: builtins.filter (set: set.enable) (builtins.attrValues setSet);
+  gather = attrName: setSet: map (set: set.${attrName}) (filterValuesList setSet);
 
-  gather =  attrName: : setList: map 
-    (set: set.${attrName}) 
-    (builtins.filter 
-      (set: set.enable) 
-      (builtins.attrValues setList)
-    );
-  languages = gather "luaName" cfgSet.languages;
-  features = gather "luaName" cfgSet.features;
+  languages = gather "luaName" neovimConfig.languages;
+  features = gather "luaName" neovimConfig.features;
 
-  langRequires = langs: lib.strings.concatLines (map (lang: ''require("language_specific.${lang}")'') languages);
-  featRequires = feats: lib.strings.concatLines (map (feat: ''require("features.${feat}")'') features);
-in 
+  langRequires = lib.strings.concatLines (map (lang: ''require("languages.${lang}")'') languages);
+  featRequires = lib.strings.concatLines (map (feat: ''require("features.${feat}")'') features);
 in {
-  packages = [];
+  packages = [pkgs.lua];
   plugins = (with pkgs.vimPlugins; []) ++ (with custom; []);
 
   files = {
-    "./nvim/lua/features/init.lua".text = g.lib.interpolate ''
+    "./nvim/init.lua".text = g.utils.interpolate g ''
       require("colors")
       require("commands")
-      require("mapping")
+      require("mappings")
       require("options")
 
       ${featRequires}
 
       ${langRequires}
-'';
-
+    '';
   };
 
   needsPython3 = false;

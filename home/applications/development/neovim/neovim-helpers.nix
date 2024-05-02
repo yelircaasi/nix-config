@@ -1,28 +1,39 @@
 {
+  inputs,
   pkgs,
   lib,
   neovimConfig,
   g,
   ...
-}: 
-let 
-# TO FLATTEN ATTRSET OIF LISTS
-# let
-#   # Example attribute set where each attribute is a list
-#   myAttrSet = {
-#     attr1 = [1, 2, 3];
-#     attr2 = [4, 5];
-#     attr3 = [6];
-#   };
+}: let
+  neovim-nightly = inputs.neovim-nightly-overlay.packages.${pkgs.system}.neovim;
 
-#   # Flatten the attribute set
-#   flattenedList = lib.concatLists (attrValues myAttrSet);
-# in
-#   flattenedList
+  # TO FLATTEN ATTRSET OIF LISTS
+  # let
+  #   # Example attribute set where each attribute is a list
+  #   myAttrSet = {
+  #     attr1 = [1, 2, 3];
+  #     attr2 = [4, 5];
+  #     attr3 = [6];
+  #   };
+  #   # Flatten the attribute set
+  #   flattenedList = lib.concatLists (attrValues myAttrSet);
+  # in
+  #   flattenedList
 
+  blankSet = {
+    packages = [];
+    plugins = [];
+    files = {};
+    needsPython3 = false;
+    needsNodeJs = false;
+    needsRuby = false;
+  };
+
+  custom = import ./self-packaged-plugins.nix {inherit pkgs;};
   neovimCategories = ["base" "language-independent" "language-quasi-independent" "languages"];
-  importFromAttr = path: value: import value {inherit pkgs lib neovimConfig g;};
-  importNeovimElements = lib.attrsets.mapAttrsRecursive importFromAttr featureSet;
+  importFromAttr = path: value: import value {inherit pkgs lib neovimConfig g custom blankSet;};
+  importNeovimElements = nestedPaths: lib.attrsets.mapAttrsRecursive importFromAttr nestedPaths;
 
   # ifAny = neovimCats: map ( #TODO
   #     map (lib.mkIf (neovimConfig.${}.${}.enable)) neovimSetPre.${}
@@ -30,11 +41,11 @@ let
 
   neovimSetPre = importNeovimElements {
     base = {
-      colors =   ./config-base-files/colors;
+      colors = ./config-base-files/colors;
       commands = ./config-base-files/commands;
-      init =     ./config-base-files/init;
+      init = ./config-base-files/init;
       mappings = ./config-base-files/mappings;
-      options =  ./config-base-files/options;
+      options = ./config-base-files/options;
     };
     language-independent = {
       clipboard = ./language-independent-features/clipboard;
@@ -50,25 +61,22 @@ let
       modes = ./language-independent-features/modes;
       multiplexer = ./language-independent-features/multiplexer;
       notifications = ./language-independent-features/notifications;
-      org = ./language-independent-features/org;
-      outline-and-breadcrumbs = ./language-independent-features/outline-and-breadcrumbs;
       popup-and-menu = ./language-independent-features/popup-and-menu;
       productivity = ./language-independent-features/productivity;
       project-and-config-management = ./language-independent-features/project-and-config-management;
       self-referential = ./language-independent-features/self-referential;
       startscreen = ./language-independent-features/startscreen;
       status-line = ./language-independent-features/status-line;
-      syntax-highlighting-additional = ./language-independent-features/syntax-highlighting-additional;
+      # syntax-highlighting-additional = ./language-independent-features/syntax-highlighting-additional;
       terminal = ./language-independent-features/terminal;
       training = ./language-independent-features/training;
-      treesitter-and-extensions = ./language-independent-features/treesitter-and-extensions;
+      # treesitter-and-extensions = ./language-independent-features/treesitter-and-extensions;
       ui = ./language-independent-features/ui;
     };
     language-quasi-independent = {
       ai = ./language-quasi-independent-features/ai;
       buffer-line = ./language-quasi-independent-features/buffer-line;
       code-execution = ./language-quasi-independent-features/code-execution;
-      code-outline = ./language-quasi-independent-features/code-outline;
       comments = ./language-quasi-independent-features/comments;
       editing-enhancements = ./language-quasi-independent-features/editing-enhancements;
       folding = ./language-quasi-independent-features/folding;
@@ -77,6 +85,7 @@ let
       macros = ./language-quasi-independent-features/macros;
       miscellaneous = ./language-quasi-independent-features/miscellaneous;
       navigation = ./language-quasi-independent-features/navigation;
+      outline-and-breadcrumbs = ./language-quasi-independent-features/outline-and-breadcrumbs;
       pairs = ./language-quasi-independent-features/pairs;
       search = ./language-quasi-independent-features/search;
       search-and-replace = ./language-quasi-independent-features/search-and-replace;
@@ -94,7 +103,6 @@ let
       cpp = ./languages/cpp;
       d = ./languages/d;
       dart-flutter = ./languages/dart-flutter;
-      default = ./languages/default;
       dhall = ./languages/dhall;
       elisp = ./languages/elisp;
       elixir = ./languages/elixir;
@@ -127,7 +135,7 @@ let
       ocaml = ./languages/ocaml;
       octave = ./languages/octave;
       org = ./languages/org;
-      other = ./languages/other;
+      # other = ./languages/other;
       perl = ./languages/perl;
       php = ./languages/php;
       purescript = ./languages/purescript;
@@ -153,69 +161,84 @@ let
     };
   };
 
-  
+  filterValuesList = setSet: builtins.filter (set: set.enable) (builtins.attrValues setSet);
+  gather = attrName: setSet: map (set: set.${attrName}) (filterValuesList setSet);
+  listLeaves = nestedSet: builtins.concatLists (map lib.attrsets.attrValues (lib.attrsets.attrValues nestedSet));
+
   mergeSets = sets: builtins.foldl' (s1: s2: s1 // s2) {} sets;
-  mergeFeatureSets = setPre: mergeSets (builtins.attrValues setPre);
-  concatFromFeatureSet = attrName: setPre: builtins.concatLists (map (featureSet: featureSet.${attrName}) (mergeFeatureSets setPre));
-  listFromFeatureSet = attrName: setPre: map (featureSet: featureSet.${attrName}) (mergeFeatureSets setPre);
+  listFromFeatureSet = attrName: setPre: map (featureSet: (blankSet // featureSet).${attrName}) (listLeaves setPre);
+  listBoolFromFeatureSet = let
+    blank = {
+      needsPython3 = false;
+      needsNodeJs = false;
+      needsRuby = false;
+    };
+  in
+    attrName: setPre: map (featureSet: (blank // featureSet).${attrName}) (listLeaves setPre);
+  concatFromFeatureSet = attrName: setPre: builtins.concatLists (listFromFeatureSet attrName setPre);
 
   collectPackages = concatFromFeatureSet "packages";
   collectPlugins = concatFromFeatureSet "plugins";
-  collectFiles = mergeSets (map (featureSet: featureSet.files) (mergeFeatureSets setPre));
-  ifAny attrName: setPre: lib.lists.any (x: x) (listFromFeatureSet attrName setPre);
+  collectFiles = setPre: mergeSets (listFromFeatureSet "files" setPre); # (map (featureSet: featureSet.files) (listLeaves setPre));
+  ifAny = attrName: setPre: lib.lists.any (x: x) (listBoolFromFeatureSet attrName setPre);
 
-
-  # collectOtherPackages = neovimConfig: neovimSetPre: 
-  #   map (featureCategory: 
+  # collectOtherPackages = neovimConfig: neovimSetPre:
+  #   map (featureCategory:
   #     map (lib.mkIf (neovimConfig.${featureCategory}.${}.enable) ) neovimSetPre.${featureCategory}
   #   ) neovimCategories;
 
-  mkNeovimSet = neovimConfig: {
-      enable = true;
-      defaultEditor = neovimConfig.makeDefaultEditor;
-      withPython3 = ifAny "needsPython3" neovimSetPre;
-      withNodeJs = ifAny "needsNodeJs" neovimSetPre;
-      withRuby = ifAny "needsRuby" neovimSetPre;
-      package = inputs.neovim-nightly;
-      viAlias = neovimConfig.viAlias;
-      vimAlias = neovimConfig.vimAlias;
-      vimdiffAlias = neovimConfig.vimdiffAlias;
-      plugins = mkPluginList neovimConfig neovimSetPre;
-    };
-  mkFiles = neovimConfig: neovimSetPre: 
-    map 
-      (map 
-        (lib.mkIf (neovimConfig.${}.${}.enable)) 
-        neovimSetPre.${}
-      )
-      neovimCategories;
+  mkNeovimSet = neovimConfig: nvimSetPre: {
+    enable = true;
+    defaultEditor = true; #neovimConfig.makeDefaultEditor;
+    withPython3 = ifAny "needsPython3" nvimSetPre;
+    withNodeJs = ifAny "needsNodeJs" nvimSetPre;
+    withRuby = ifAny "needsRuby" nvimSetPre;
+    package = neovim-nightly;
+    viAlias = true; #neovimConfig.viAlias;
+    vimAlias = true; #neovimConfig.vimAlias;
+    vimdiffAlias = true; #neovimConfig.vimdiffAlias;
+    plugins = collectPlugins nvimSetPre;
+  };
 
-  mkPluginsList = neovimConfig: neovimSetPre: 
-    map (
-      map 
-        (lib.mkIf (neovimConfig.${}.${}.enable)) 
-        neovimSetPre.${}
-      ) 
-    neovimCategories;
-in 
-{
-  prepNeovimHM = neovimDeclaration: {
-    otherPackages = collectOtherPackages neovimDeclaration;
-    neovimSet = mkNeovimSet neovimDeclaration;
-    xdgConfig = mkFiles neovimDeclaration;
-  }:
+  mkFiles = nvimSetPre:
+    mergeSets (
+      builtins.concatLists (
+        map
+        collectFiles
+        (lib.attrsets.attrValues nvimSetPre)
+      )
+    );
+  # map
+  #   (map
+  #     (lib.mkIf (neovimConfig.${}.${}.enable))
+  #     neovimSetPre.${}
+  #   )
+  #   neovimCategories;
+
+  mkPluginList = nvimSetPre:
+    mergeSets (
+      builtins.concatLists (
+        map
+        collectPackages
+        (lib.attrsets.attrValues nvimSetPre)
+      )
+    );
+in {
+  otherPackages = collectPackages neovimSetPre;
+  neovimSet = mkNeovimSet neovimConfig neovimSetPre;
+  xdgConfig = collectFiles neovimSetPre;
 }
 /*
   let
 # ---------------- other function --------------------
 # {pluginName: pluginPkg} -> {pluginName: pluginAttrSet}
-mkOptPluginsFromPackages = pluginSet: 
+mkOptPluginsFromPackages = pluginSet:
   lib.attrsets.mapAttrs
-    (name: value: {optional = true; plugin = value;}) 
+    (name: value: {optional = true; plugin = value;})
     pluginSet;
 # ----------------------------------------------------
 
-/* combine attrSets as expansively as possible,  
+/* combine attrSets as expansively as possible,
     merging attrSet values and concatenating array values * /
 mergeAttrs = with lib; attrSetList:
   let f = attrPath:
@@ -233,24 +256,24 @@ mergeAttrs = with lib; attrSetList:
   #TODO: clean up below this line!!!
   # boilerplate = {...};
   basicSet = (import ./basic-features {inherit pkgs lib g;};);
-  featureSet = (import ./language-independent-features {inherit pkgs lib g;};) // 
+  featureSet = (import ./language-independent-features {inherit pkgs lib g;};) //
     (import ./language-quasi-independent-features {inherit pkgs lib g;};);
   languageSet = import ./language-specific {inherit pkgs lib g;};
   output = boilerplate // (mergeAttrs [basicSet featureSet languageSet]);
 
   fullConfig = import ./full-config.nix;
   neovim-nightly = inputs.neovim-nightly-overlay.packages.${pkgs.system}.neovim;
-  custom = import ./plugins/custom-plugins.nix {inherit pkgs;};
+  custom=import ./plugins/custom-plugins.nix {inherit pkgs;};
   languageSet = import ./languages {inherit pkgs g;};
   py = pkgs.python310Packages;
   node = pkgs.nodePackages;
   helpers = import ./neovim-helpers.nix {inherit pkgs lib g;};
 
   ###mergeAttrs = attrs: lib.foldl' (acc: x: acc // x) {} attrs;
-  
+
 
   # -------------------- old below here ----------------------------------
-  
+
   getLangs = tmp: tmp;
   getFeats = tmp: tmp;
   langs = getLangs neovimConfig;
@@ -355,4 +378,5 @@ in
     programs.neovim = createNeovimHMProgramSet neovimConfig;
     xdg.configFile = createNeovimLuaFiles neovimConfig;
   }
-  */
+*/
+

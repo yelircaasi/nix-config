@@ -1,28 +1,47 @@
 {
-  pkgs, 
-  lib, 
-  g, 
-  neovimConf, 
+  pkgs,
+  lib,
+  g,
+  neovimConfig,
+  custom,
+  blankSet,
   ...
-}: 
-let
-  custom = {};
-in lib.mkIf neovimConf.features.projectAndConfigManagement.enable {
-  plugins =
-    (with pkgs.vimPlugins; [
-      neoconf-nvim
-      nvim-config-local # nvim-projectconfig
-    ])
-    ++ (with custom; [
-      custom.projectmgr-nvim # projections-nvim, workspaces-nvim, neoproj
-      custom.memento-nvim
-    ]);
-  
-  files = {
-    "./nvim/lua/features/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
-  };
+}: let
+  featCfg = neovimConfig.features.projectAndConfigManagement;
+  luaName = featCfg.luaName;
+in
+  if !featCfg.enable
+  then blankSet
+  else {
+    packages = [];
 
-  needsPython3 = false;
-  needsNodeJs = false;
-  needsRuby = false;
-}
+    plugins =
+      (with pkgs.vimPlugins; [
+        {
+          plugin = neoconf-nvim;
+          optional = true;
+        }
+        {
+          plugin = nvim-config-local;
+          optional = true;
+        } # nvim-projectconfig
+      ])
+      ++ (with custom; [
+        {
+          plugin = custom.projectmgr-nvim;
+          optional = true;
+        } # projections-nvim, workspaces-nvim, neoproj
+        {
+          plugin = custom.memento-nvim;
+          optional = true;
+        }
+      ]);
+
+    files = {
+      "./nvim/lua/features/${luaName}.lua".text = g.utils.readAndInterpolate g ./_.lua;
+    };
+
+    needsPython3 = false;
+    needsNodeJs = false;
+    needsRuby = false;
+  }

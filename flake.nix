@@ -42,6 +42,7 @@
         otherShells = ["bash"];
         compositors = ["hyprland" "sway" "swayfx"];
         terminal-emulators = ["wezterm"];
+        editors = ["neovim"];
         browsers = ["nyxt" "qutebrowser" "ungoogle-chromium" "vieb" "firefox"];
         desktopEnvironments = ["gnome"];
         nvidia = true;

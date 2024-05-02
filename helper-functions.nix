@@ -12,9 +12,10 @@
     defaultShell,
     otherShells,
     compositors,
-    terminal-emulators,
-    browsers,
     desktopEnvironments,
+    terminal-emulators,
+    editors,
+    browsers,
     nvidia,
     pipewire,
     jack,
@@ -44,9 +45,10 @@
     defaultShell,
     otherShells,
     compositors,
-    terminal-emulators,
-    browsers,
     desktopEnvironments,
+    terminal-emulators,
+    editors,
+    browsers,
     nvidia,
     pipewire,
     jack,
@@ -63,7 +65,7 @@
   } @ deviceConfig:
     inputs.home-manager.lib.homeManagerConfiguration {
       pkgs = inputs.nixpkgs.legacyPackages.x86_64-linux;
-      extraSpecialArgs = {inherit inputs g deviceConfig; };
+      extraSpecialArgs = {inherit inputs g deviceConfig;};
       modules = [./home/${deviceConfig.name}.nix] ++ additionalModules;
     };
 

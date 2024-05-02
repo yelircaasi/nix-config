@@ -1,28 +1,29 @@
 {
-  pkgs, 
-  lib, 
-  g, 
-  neovimConf, 
+  pkgs,
+  lib,
+  g,
+  neovimConfig,
+  custom,
+  blankSet,
   ...
-}: 
-let
-  custom = {};
-in lib.mkIf neovimConf.languages.javascript.enable {
-  packages = with pkgs; [
-    vscode-langservers-extracted
-  ];
+}: let
+  langCfg = neovimConfig.languages.javascript;
+  luaName = langCfg.luaName;
+in
+  if !langCfg.enable
+  then blankSet
+  else {
+    packages = with pkgs; [
+      vscode-langservers-extracted
+    ];
 
-  plugins =
-    (with pkgs.vimPlugins; [
-      ])
-    ++ (with custom; [
-            ]);
+    plugins = (with pkgs.vimPlugins; []) ++ (with custom; []);
 
-  files = {
-    "./nvim/lua/languages/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
-  };
+    files = {
+      "./nvim/lua/languages/${luaName}.lua".text = g.utils.readAndInterpolate g ./_.lua;
+    };
 
-  needsPython3 = false;
-  needsNodeJs = false;
-  needsRuby = false;
-}
+    needsPython3 = false;
+    needsNodeJs = false;
+    needsRuby = false;
+  }

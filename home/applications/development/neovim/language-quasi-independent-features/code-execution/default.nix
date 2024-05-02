@@ -1,30 +1,54 @@
 {
-  pkgs, 
-  lib, 
-  g, 
-  neovimConf, 
+  pkgs,
+  lib,
+  g,
+  neovimConfig,
+  custom,
+  blankSet,
   ...
 }: let
-  custom = import ../self-packaged-plugins {inherit pkgs;};
-in lib.mkIf neovimConf.features.codeExecution.enable {
-  packages = [];
-  plugins =
-    (with pkgs.vimPlugins; [
-      sniprun
-      molten-nvim
-    ])
-    ++ (with custom; [
-      code-runner-nvim # alt: runner-nvim
-      compiler-nvim # yabs-nvim
-      yarepl-nvim
-      iron-nvim
-    ]);
+  featCfg = neovimConfig.features.codeExecution;
+  luaName = featCfg.luaName;
+in
+  if !featCfg.enable
+  then blankSet
+  else {
+    packages = [];
+    plugins =
+      (with pkgs.vimPlugins; [
+        {
+          plugin = sniprun;
+          optional = true;
+        }
+        {
+          plugin = molten-nvim;
+          optional = true;
+        }
+      ])
+      ++ (with custom; [
+        {
+          plugin = code-runner-nvim;
+          optional = true;
+        } # alt: runner-nvim
+        {
+          plugin = compiler-nvim;
+          optional = true;
+        } # yabs-nvim
+        {
+          plugin = yarepl-nvim;
+          optional = true;
+        }
+        {
+          plugin = iron-nvim;
+          optional = true;
+        }
+      ]);
 
-  files = {
-    "./nvim/lua/features/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
-  };
+    files = {
+      "./nvim/lua/features/${luaName}.lua".text = g.utils.readAndInterpolate g ./_.lua;
+    };
 
-  needsPython3 = false;
-  needsNodeJs = false;
-  needsRuby = false;
-}
+    needsPython3 = true;
+    needsNodeJs = false;
+    needsRuby = false;
+  }

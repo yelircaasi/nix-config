@@ -1,30 +1,43 @@
 {
-  pkgs, 
-  lib, 
-  g, 
-  neovimConf, 
+  pkgs,
+  lib,
+  g,
+  neovimConfig,
+  custom,
+  blankSet,
   ...
 }: let
-  custom = import ../self-packaged-plugins {inherit pkgs;};
-in lib.mkIf neovimConf.features.ai.enable {
-  packages = [
+  featCfg = neovimConfig.features.ai;
+  luaName = featCfg.luaName;
+in
+  if !featCfg.enable
+  then blankSet
+  else {
+    packages = [];
 
-  ];
-  plugins = (with pkgs; [
+    plugins =
+      (with pkgs.vimPlugins; [
+        {
+          plugin = ChatGPT-nvim;
+          optional = true;
+        }
+        {
+          plugin = copilot-lua;
+          optional = true;
+        }
+      ])
+      ++ [
+        {
+          plugin = custom.codegpt-nvim;
+          optional = true;
+        }
+      ];
 
-  ]) ++ (with custom; [
+    files = {
+      "./nvim/lua/features/${luaName}.lua".text = g.utils.readAndInterpolate g ./_.lua;
+    };
 
-  ]);
-
-        custom.codegpt-nvim
-        ChatGPT-nvim
-        copilot-lua
-  
-  files = {
-    "./nvim/lua/features/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
-  };
-
-  needsPython3 = false;
-  needsNodeJs = false;
-  needsRuby = false;
-}
+    needsPython3 = false;
+    needsNodeJs = false;
+    needsRuby = false;
+  }

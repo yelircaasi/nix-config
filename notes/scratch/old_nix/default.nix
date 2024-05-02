@@ -1,4 +1,8 @@
 {
-  imports = [    ./options.nix    ./shared.nix    ./betsy    ./hank
+  imports = [
+    ./options.nix
+    ./shared.nix
+    ./betsy
+    ./hank
   ];
 }

@@ -1,31 +1,57 @@
 {
-  pkgs, 
-  lib, 
-  g, 
-  neovimConf, 
+  pkgs,
+  lib,
+  g,
+  neovimConfig,
+  custom,
+  blankSet,
   ...
-}: 
-let
-  custom = {};
-in lib.mkIf neovimConf.features.git.enable {
-  plugins =
-    (with pkgs.vimPlugins; [
-      neogit # alt: nvim-tinygit
-      lazygit-nvim
-      gitsigns-nvim
-      diffview-nvim
-      git-blame-nvim # #custom.nvim-blame-line
-      gitlinker-nvim
-    ])
-    ++ (with custom; [
-      git-sessions-nvim
-    ]);
-  
-  files = {
-    "./nvim/lua/features/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
-  };
+}: let
+  featCfg = neovimConfig.features.git;
+  luaName = featCfg.luaName;
+in
+  if !featCfg.enable
+  then blankSet
+  else {
+    plugins =
+      (with pkgs.vimPlugins; [
+        {
+          plugin = neogit;
+          optional = true;
+        } # alt: nvim-tinygit
+        {
+          plugin = lazygit-nvim;
+          optional = true;
+        }
+        {
+          plugin = gitsigns-nvim;
+          optional = true;
+        }
+        {
+          plugin = diffview-nvim;
+          optional = true;
+        }
+        {
+          plugin = git-blame-nvim;
+          optional = true;
+        } # #custom.nvim-blame-line
+        {
+          plugin = gitlinker-nvim;
+          optional = true;
+        }
+      ])
+      ++ [
+        {
+          plugin = custom.git-sessions-nvim;
+          optional = true;
+        }
+      ];
 
-  needsPython3 = false;
-  needsNodeJs = false;
-  needsRuby = false;
-}
+    files = {
+      "./nvim/lua/features/${luaName}.lua".text = g.utils.readAndInterpolate g ./git.lua;
+    };
+
+    needsPython3 = false;
+    needsNodeJs = false;
+    needsRuby = false;
+  }

@@ -1,46 +1,116 @@
 {
-  pkgs, 
-  lib, 
-  g, 
-  neovimConf, 
+  pkgs,
+  lib,
+  g,
+  neovimConfig,
+  custom,
+  blankSet,
   ...
-}: 
-let
-  custom = {};
-in lib.mkIf neovimConf.features.search.enable {
-  plugins =
-    (with pkgs.vimPlugins; [
-      telescope-nvim
-      custom.telescope-alternate-nvim
-      telescope-ui-select-nvim
-      telescope-frecency-nvim
-      telescope-zoxide
-      telescope-fzf-native-nvim
-      telescope-zf-native-nvim
-      telescope-vim-bookmarks-nvim
-      telescope-symbols-nvim
-      telescope-sg
-      telescope-project-nvim
-      telescope-media-files-nvim
-      telescope-lsp-handlers-nvim # ?
-      telescope-live-grep-args-nvim # ?
-    ])
-    ++ (with custom; [
-      #custom.harpoon2
-      custom.marks-nvim
-      custom.spaceport-nvim
-      custom.improved-search-nvim
-      custom.highlight-current-n-nvim # hlsearch-nvim
-      custom.search-nvim
-      nvim-hlslens
-      custom.hlsearch-nvim
-    ]);
-  
-  files = {
-    "./nvim/lua/features/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
-  };
+}: let
+  featCfg = neovimConfig.features.search;
+  luaName = featCfg.luaName;
+in
+  if !featCfg.enable
+  then blankSet
+  else {
+    packages = [];
 
-  needsPython3 = false;
-  needsNodeJs = false;
-  needsRuby = false;
-}
+    plugins =
+      (with pkgs.vimPlugins; [
+        {
+          plugin = nvim-hlslens;
+          optional = true;
+        }
+        {
+          plugin = telescope-nvim;
+          optional = true;
+        }
+        {
+          plugin = telescope-ui-select-nvim;
+          optional = true;
+        }
+        {
+          plugin = telescope-frecency-nvim;
+          optional = true;
+        }
+        {
+          plugin = telescope-zoxide;
+          optional = true;
+        }
+        {
+          plugin = telescope-fzf-native-nvim;
+          optional = true;
+        }
+        {
+          plugin = telescope-zf-native-nvim;
+          optional = true;
+        }
+        {
+          plugin = telescope-vim-bookmarks-nvim;
+          optional = true;
+        }
+        {
+          plugin = telescope-symbols-nvim;
+          optional = true;
+        }
+        {
+          plugin = telescope-sg;
+          optional = true;
+        }
+        {
+          plugin = telescope-project-nvim;
+          optional = true;
+        }
+        {
+          plugin = telescope-media-files-nvim;
+          optional = true;
+        }
+        {
+          plugin = telescope-lsp-handlers-nvim;
+          optional = true;
+        } # ?
+        {
+          plugin = telescope-live-grep-args-nvim;
+          optional = true;
+        } # ?
+      ])
+      ++ (with custom; [
+        #custom.harpoon2
+        {
+          plugin = marks-nvim;
+          optional = true;
+        }
+        {
+          plugin = spaceport-nvim;
+          optional = true;
+        }
+        {
+          plugin = improved-search-nvim;
+          optional = true;
+        }
+        {
+          plugin = highlight-current-n-nvim;
+          optional = true;
+        } # hlsearch-nvim
+        {
+          plugin = search-nvim;
+          optional = true;
+        }
+        {
+          plugin = hlsearch-nvim;
+          optional = true;
+        }
+        {
+          plugin = telescope-alternate-nvim;
+          optional = true;
+        }
+      ]);
+
+    files = {
+      "./nvim/lua/features/${luaName}.lua".text = g.utils.readAndInterpolate g ./_.lua;
+    };
+
+    needsPython3 = false;
+    needsNodeJs = false;
+    needsRuby = false;
+  }

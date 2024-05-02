@@ -1,28 +1,43 @@
 {
-  pkgs, 
-  lib, 
-  g, 
-  neovimConf, 
+  pkgs,
+  lib,
+  g,
+  neovimConfig,
+  custom,
+  blankSet,
   ...
-}: 
-let
-  custom = {};
-in lib.mkIf neovimConf.features.clipboard.enable {
-  packages = [];
-  plugins =
-    (with pkgs.vimPlugins; [
-      nvim-neoclip-lua # deferred-clipboard-nvim, vim-wayland-clipboard (wl-clipboard)
-      clipboard-image-nvim
-    ])
-    ++ (with custom; [
-      yanky-nvim
-          ]);
+}: let
+  featCfg = neovimConfig.features.clipboard;
+  luaName = featCfg.luaName;
+in
+  if !featCfg.enable
+  then blankSet
+  else {
+    packages = [];
 
-  files = {
-    "./nvim/lua/languages/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
-  };
+    plugins =
+      (with pkgs.vimPlugins; [
+        {
+          plugin = nvim-neoclip-lua;
+          optional = true;
+        } # deferred-clipboard-nvim, vim-wayland-clipboard (wl-clipboard)
+        {
+          plugin = clipboard-image-nvim;
+          optional = true;
+        }
+      ])
+      ++ (with custom; [
+        {
+          plugin = yanky-nvim;
+          optional = true;
+        }
+      ]);
 
-  needsPython3 = false;
-  needsNodeJs = false;
-  needsRuby = false;
-}
+    files = {
+      "./nvim/lua/features/${luaName}.lua".text = g.utils.readAndInterpolate g ./clipboard.lua;
+    };
+
+    needsPython3 = false;
+    needsNodeJs = false;
+    needsRuby = false;
+  }

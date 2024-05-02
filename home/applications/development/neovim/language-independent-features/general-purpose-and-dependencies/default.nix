@@ -1,25 +1,36 @@
 {
-  pkgs, 
-  lib, 
-  g, 
-  neovimConf, 
+  pkgs,
+  lib,
+  g,
+  neovimConfig,
+  custom,
+  blankSet,
   ...
-}: 
-let
-  custom = {};
-in lib.mkIf neovimConf.features.generalPurposeAndDependencies.enable {
-  packages = [];
-  plugins = with pkgs; [
-    plenary-nvim
-    mini-nvim
-  ];
+}: let
+  featCfg = neovimConfig.features.generalPurposeAndDependencies;
+  luaName = featCfg.luaName;
+in
+  if !featCfg.enable
+  then blankSet
+  else {
+    packages = [];
 
-  
-  files = {
-    "./nvim/lua/features/?.lua".text = g.lib.readAndInterpolate g ./?.lua;
-  };
+    plugins = with pkgs; [
+      {
+        plugin = plenary-nvim;
+        optional = true;
+      }
+      {
+        plugin = mini-nvim;
+        optional = true;
+      }
+    ];
 
-  needsPython3 = false;
-  needsNodeJs = false;
-  needsRuby = false;
-}
+    files = {
+      "./nvim/lua/features/${luaName}.lua".text = g.utils.readAndInterpolate g ./general_purpose_and_dependencies.lua;
+    };
+
+    needsPython3 = false;
+    needsNodeJs = false;
+    needsRuby = false;
+  }

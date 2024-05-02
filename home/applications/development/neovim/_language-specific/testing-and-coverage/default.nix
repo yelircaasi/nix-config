@@ -1,9 +1,17 @@
-{pkgs, ...}: let
-  custom = import ../self-packaged-plugins {inherit pkgs;};
-in {
+{
+  pkgs,
+  custom,
+  ...
+}: {
   plugins = [
-    custom.neotest # alt: nvim-test
-    pkgs.nvim-coverage
+    {
+      plugin = custom.neotest; # alt: nvim-test
+      optional = true;
+    }
+    {
+      plugin = pkgs.vimPlugins.nvim-coverage;
+      optional = true;
+    }
   ];
   subpathString = "";
   mkLuaConfig = {languages}: ''

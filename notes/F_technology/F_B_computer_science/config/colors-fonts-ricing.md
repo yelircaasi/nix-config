@@ -432,7 +432,7 @@ Earthy Tones:
     "workbench.colorCustomizations": {
     "terminal.background": "#001207", *,   //"#06201c",$
     "terminal.foreground": "#8c968c", *,   //"#4e8f4e",$
-    "terminalCursor.background": "#81B5AC",
+    "terminalCursor.background": "#092A24",
     "terminalCursor.foreground": "#287b6d",
     "terminal.ansiBlack": "#022718",
     "terminal.ansiBrightBlack": "#06392d",
@@ -561,10 +561,10 @@ white:   '0xa0f3c4'#'0xfdf6e3'
 {
     "terminal.background": "#001207",   //"#06201c",*
     "terminal.foreground": "#7e8b7e",*, //"#4e8f4e",*
-    "terminalCursor.background": "#81B5AC",
-    "terminalCursor.foreground": "#81B5AC",
+    "terminalCursor.background": "#092A24",
+    "terminalCursor.foreground": "#092A24",
     "terminal.ansiBlack": "#022720",
-    "terminal.ansiBrightBlack": "#2B685E",
+    "terminal.ansiBrightBlack": "#07221C",
     "terminal.ansiBlue": "#388432",*,   //"#0f73a1",     //"#0d4b5a",*
     "terminal.ansiBrightBlue": "#388432",*,     //"#96883E",*
     "terminal.ansiCyan": "#b48810",

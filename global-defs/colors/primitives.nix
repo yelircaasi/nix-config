@@ -53,8 +53,8 @@ rec {
 
   # base - follows the general base16 structure ---------------------------------
   base00 = "#000800"; # "#031A16"; # background
-  base01 = "#002000"; # "#0B342D"; # lighter background
-  base02 = "#184E45"; # selection background
+  base01 = "#002000"; # "#051C17"; # lighter background
+  base02 = "#061E18"; # selection background
   base03 = darkMahogany; # comments, invisibles, line highlighting
   base04 = blueDarker; # dark foreground (used for status bars)
   base05 = gray; # default foreground, caret, delimiters, operators

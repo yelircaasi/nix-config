@@ -208,7 +208,39 @@ in rec {
   spotify-tui = {};
 
   # desktop environment theming framework
-  gtk = {};
+  gtk = {
+    theme = {
+      fg = "#D2E7E4";
+      text = "#3E9688";
+      bg = "#031A16";
+      base = "#082620";
+    };
+    selected = {
+      bg = "#3E7996";
+      fg = "#A7CEC8";
+    };
+    insensitive = {
+      bg = "#092A24";
+      fg = "#D2E7E4";
+      base = "#A7CEC8";
+    };
+    unfocused = {
+      fg = "#A7CEC8";
+      text = "#3E7996";
+      bg = "#031A16";
+      base = "#031A16";
+    };
+    borders = {
+      normal = "#061E18";
+      unfocused = "#07221C";
+    };
+    semantic = {
+      success = "#3E965B";
+      error = "#963E4C";
+      warning = "#96883E";
+      test = "#3E4C96";
+    };
+  };
   # https://gitlab.gnome.org/GNOME/nautilus/-/blob/main/src/resources/style.css
   # https://github.com/hugolabe/Wike/blob/caf8644d3251e5a1a1ae7269411cf082e1c5a9cb/data/gtk/style.css
   # https://github.com/tsujan/Kvantum

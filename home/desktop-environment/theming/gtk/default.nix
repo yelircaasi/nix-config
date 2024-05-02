@@ -7,8 +7,8 @@
   extraCfg = {
     gtk-application-prefer-dark-theme = 1;
   };
-  extraCss3 = builtins.readFile ./gtk3.css;
-  extraCss4 = builtins.readFile ./gtk4.css;
+  extraCss3 = g.utils.readAndInterpolate g ./gtk3.css;
+  extraCss4 = g.utils.readAndInterpolate g ./gtk4.css;
   /*
      ''
       * {

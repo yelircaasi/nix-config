@@ -2724,9 +2724,9 @@ DropBarIconKindMarkdownH5 xxx links to markdownH5
 @spell         xxx cleared
 colorizer_mb_031a16 xxx guifg=White guibg=#031a16
 	Last set from Lua
-colorizer_mb_184e45 xxx guifg=White guibg=#184e45
+colorizer_mb_184e45 xxx guifg=White guibg=#061E18
 	Last set from Lua
-colorizer_mb_0b342d xxx guifg=White guibg=#0b342d
+colorizer_mb_0b342d xxx guifg=White guibg=#051C17
 	Last set from Lua
 colorizer_mb_963e4c xxx guifg=White guibg=#963e4c
 	Last set from Lua

@@ -6,15 +6,15 @@
 
 color00 = "#XXXXXX" # "#031A16" background
 
-color01 = "#XXXXXX" # "#0B342D" lighter background
+color01 = "#XXXXXX" # "#051C17" lighter background
 
-color02 = "#XXXXXX" # "#184E45" selection background
+color02 = "#XXXXXX" # "#061E18" selection background
 
-color03 = "#XXXXXX" # "#2B685E" comments, invisibles, line highlighting
+color03 = "#XXXXXX" # "#07221C" comments, invisibles, line highlighting
 
-color04 = "#XXXXXX" # "#5F9C92" dark foreground (used for status bars)
+color04 = "#XXXXXX" # "#082620" dark foreground (used for status bars)
 
-color05 = "#XXXXXX" # "#81B5AC" default foreground, caret, delimiters, operators
+color05 = "#XXXXXX" # "#092A24" default foreground, caret, delimiters, operators
 
 color06 = "#XXXXXX" # "#A7CEC8" light foreground (not often used)
 

@@ -1,0 +1,101 @@
+" Options
+set adblocker=update
+set devtoolsposition=split
+set downloadmethod=confirm
+set guifontsize=16
+set mapsuggestposition=bottomright
+set mintabwidth=250
+set permissioncamera=ask
+set permissiondisplaycapture=ask
+set permissionmediadevices=allow
+set permissionmicrophone=ask
+set permissionpersistentstorage=allow
+set redirecttohttp
+set restoretabs=pinned
+set searchwords=
+set searchwords+=translate~https://translate.google.com/?sl=auto&tl=en&text=%s
+set searchwords+=duckduckgo~https://duckduckgo.com/?q=%s
+set searchwords+=google~https://www.google.com/search?hl=en&q=%s
+set searchwords+=bing~https://www.bing.com/search?q=%s
+set searchwords+=baidu~https://www.baidu.com/s?wd=%s
+set searchwords+=youtube~https://www.youtube.com/results?search_query=%s
+set searchwords+=wikipedia~https://en.wikipedia.org/?search=%s
+set searchwords+=stackoverflow~https://stackoverflow.com/search?q=%s
+set searchwords+=github~https://github.com/search?q=%s
+set splitbelow
+set tabclosefocus=right
+set tabreopenposition=previous
+set useragent=%firefox
+
+" Mappings
+nmap af <startFollowNewTab>
+nmap gf <startFollowNewTab><:buffer #>
+nmap C <startFollowNewTab><:buffer #>
+nmap [[ <decreasePageNumber>
+nmap ]] <increasePageNumber>
+nmap e <scrollPageUpHalf>
+nmap u <scrollPageUpHalf>
+nmap d <scrollPageDownHalf>
+nmap yg <:screenshot>
+nmap yt <openNewTabWithCurrentUrl><CR>
+nmap yT <openNewTabWithCurrentUrl><CR><:buffer #>
+nmap g0 <:buffer 0>
+nmap g$ <:buffer -1>
+nmap gx0 <:lclose>
+nmap gxt <:lclose>
+nmap gxT <:rclose>
+nmap gx$ <:rclose>
+nmap gxx <:lclose><:rclose>
+nmap E <previousTab>
+nmap R <nextTab>
+nmap zr <zoomReset>
+nmap zi <zoomIn>
+nmap zo <zoomOut>
+nmap go <toExploreMode>
+nmap T :buffer<Space>
+nmap t <:tabnew><toExploreMode>
+nmap on <:tabnew>
+nmap x <:close>
+nmap X <reopenTab>
+nmap <lt><lt> <moveTabBackward>
+nmap >> <moveTabForward>
+nmap <C-6> <:buffer #>
+nmap S <backInHistory>
+nmap D <forwardInHistory>
+nmap cc <:tabnew><openFromClipboard>
+nunmap [
+nunmap ]
+nmap [[ <previousPage>
+nmap ]] <nextPage>
+nmap ob <:tabnew><toExploreMode>baidu<Space>
+nmap og <:tabnew><toExploreMode>google<Space>
+nmap od <:tabnew><toExploreMode>duckduckgo<Space>
+nmap ow <:tabnew><toExploreMode>bing<Space>
+nmap oy <:tabnew><toExploreMode>youtube<Space>
+nmap oe <:tabnew><toExploreMode>wikipedia<Space>
+nmap os <:tabnew><toExploreMode>stackoverflow<Space>
+nmap oh <:tabnew><toExploreMode>github<Space>
+nmap sb <:tabnew><toExploreMode>baidu <C-v><CR>
+nmap sg <:tabnew><toExploreMode>google <C-v><CR>
+nmap sd <:tabnew><toExploreMode>duckduckgo <C-v><CR>
+nmap sw <:tabnew><toExploreMode>bing <C-v><CR>
+nmap sy <:tabnew><toExploreMode>youtube <C-v><CR>
+nmap se <:tabnew><toExploreMode>wikipedia <C-v><CR>
+nmap ss <:tabnew><toExploreMode>stackoverflow <C-v><CR>
+nmap sh <:tabnew><toExploreMode>github <C-v><CR>
+nmap yg <:screenshot>
+nmap ? <:help>
+pmap e <p.moveFastRight>
+vmap v <toNormalMode>
+vmap e <p.moveFastRight>
+vmap cc <p.copyText><:tabnew><openFromClipboard>
+vmap t <p.copyText><:tabnew><toExploreMode>translate <C-v><CR>
+imap <C-e> <End>
+imap <C-f> <Home>
+imap <C-u> <S-Home><BS>
+imap <A-b> <C-Left>
+imap <A-f> <C-Right>
+imap <A-w> <C-S-Left><BS>
+imap <A-d> <C-S-Right><BS>
+
+" vim: ft=vim

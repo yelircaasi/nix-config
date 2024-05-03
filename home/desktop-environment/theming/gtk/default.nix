@@ -9,14 +9,6 @@
   };
   extraCss3 = g.utils.readAndInterpolate g ./gtk3.css;
   extraCss4 = g.utils.readAndInterpolate g ./gtk4.css;
-  /*
-     ''
-      * {
-      background-color: #000800;
-      color: #ffffff;
-    }
-  '';
-  */
 in {
   gtk = {
     enable = true;

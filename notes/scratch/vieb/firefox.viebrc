@@ -1,0 +1,42 @@
+" Options
+set adblocker=update
+set devtoolsposition=split
+set dialogalert=show
+set dialogconfirm=show
+set dialogprompt=show
+set downloadmethod=confirm
+set guifontsize=16
+set mintabwidth=250
+set permissioncamera=ask
+set permissioncertificateerror=ask
+set permissiondisplaycapture=ask
+set permissionmediadevices=allowfull
+set permissionmicrophone=ask
+set permissionpersistentstorage=allow
+set redirecttohttp
+set splitbelow
+set tabclosefocus=right
+set tabreopenposition=previous
+set useragent=%firefox
+
+" Mappings
+nmap <F3> <toSearchMode><nextSearchMatch>
+nmap <S-F3> <toSearchMode><previousSearchMatch>
+nmap <C-g> <toSearchMode><nextSearchMatch>
+nmap <C-G> <toSearchMode><previousSearchMatch>
+nmap <BS> <backInHistory>
+map <C-f> <toSearchMode>
+map <C-h> <:history>
+map <C-j> <:downloads>
+map <C-k> <toExploreMode>
+map <C-p> <:hardcopy>
+map <C-s> <:write>
+map <C-t> <:tabnew><toExploreMode>
+map <C-S> <:screenshot>
+vmap <C-f> <p.searchText>
+smap <F3> <nextSearchMatch>
+smap <C-g> <nextSearchMatch>
+smap <S-F3> <previousSearchMatch>
+smap <C-G> <previousSearchMatch>
+
+" vim: ft=vim

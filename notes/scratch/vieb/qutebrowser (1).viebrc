@@ -1,0 +1,98 @@
+" Options
+set adblocker=update
+set devtoolsposition=split
+set downloadmethod=confirm
+set followchars=numbers
+set guifontsize=16
+set mapsuggestposition=bottomleft
+set permissioncamera=ask
+set permissiondisplaycapture=ask
+set permissionmediadevices=allow
+set permissionmicrophone=ask
+set permissionpersistentstorage=allow
+set redirecttohttp
+set restoretabs=pinned
+set tabclosefocus=right
+set tabreopenposition=right
+set useragent=%firefox
+set windowtitle="%title - %app"
+
+" Mappings
+nmap wi <:devtools>
+nmap Sh <:history>
+nmap Ss <:help>
+nmap <C-A-p> <:print>
+nmap <C-W> <:quit>
+nmap ZQ <:quit>
+nmap gd <:write>
+nunmap [
+nunmap ]
+nunmap {
+nunmap }
+nmap [[ <previousPage>
+nmap ]] <nextPage>
+nmap {{ <previousPageNewTab>
+nmap }} <nextPageNewTab>
+nmap gU <openNewTabWithCurrentUrl><CR><toParentUrl>
+nmap g0 <:b 0>
+nmap g^ <:b -1>
+nmap g$ <:b -1>
+nmap <C-^> <:buffer #>
+nmap <C-Tab> <:buffer #>
+nmap ga <:tabnew>
+nmap gC <openNewTabWithCurrentUrl><CR>
+nmap gJ <moveTabForward>
+nmap gK <moveTabBackward>
+nmap <C-S-PageUp> <moveTabForward>
+nmap <C-S-PageDown> <moveTabBackward>
+" This is disabled as it prevents use of window split mappings.
+" See :h splitting for more information on window splits
+" nmap <C-w> <:close>
+nmap co <:lclose><:rclose>
+nmap = <zoomReset>
+nmap <C-p> <:pin>
+nmap <C-s> <stopLoadingPage>
+nmap o <toExploreMode><BS>
+nmap go <toExploreMode><End>
+nmap gt <toCommandMode>buffer<Space>
+nmap O <:tabnew><toExploreMode>
+nunmap p
+nmap pp <openFromClipboard>
+nmap Pp <:tabnew><openFromClipboard>
+nmap sk <toCommandMode>map<Space>
+nmap ss <toCommandMode>set<Space>
+
+imap <C-e> <editWithVim>
+
+cmap <C-a> <Home>
+cmap <C-e> <End>
+cmap <A-f> <C-Right>
+cmap <A-b> <C-Left>
+cmap <A-d> <C-S-Right><BS>
+cmap <A-BS> <C-S-Left><BS>
+cmap <C-?> <Del>
+cmap <C-h> <BS>
+cmap <C-b> <Left>
+cmap <C-f> <Right>
+cmap <C-k> <S-End><BS>
+cmap <C-u> <S-Home><BS>
+cmap <C-w> <C-S-Left><BS>
+cmap <C-e> <editWithVim>
+
+emap <C-e> <editWithVim>
+emap <C-Tab> <nextSuggestionSection>
+emap <C-S-Tab> <prevSuggestionSection>
+
+smap <C-e> <editWithVim>
+
+pmap c <toNormalMode>
+pmap e <p.moveFastRight>
+pmap H <p.scrollLeft>
+pmap L <p.scrollRight>
+pmap <Space> <p.startVisualSelect>
+
+vmap v <p.start>
+vmap <CR> <p.copyText>
+vmap <C-Space> <toNormalMode><p.start><p.startVisualSelect>
+
+" vim: ft=vim

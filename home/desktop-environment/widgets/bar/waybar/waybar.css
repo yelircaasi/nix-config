@@ -8,8 +8,8 @@
 }
 @keyframes blink_red {
   to {
-    background-color: rgb(242, 143, 173);
-    color: rgb(26, 24, 38);
+    background-color: "<| color.waybar.blinkRedBg |>";
+    color: "<| color.waybar.blinkRedFg |>";
   }
 }
 .warning, .critical, .urgent {
@@ -24,7 +24,7 @@ window#waybar {
 }
 window > box {
   margin: 0 0px;
-  background-color: rgba(0, 8, 0, 0.9);
+  background-color: "<| color.waybar.bgWithTransparency |>";
 }
 #workspaces {
   margin: 0 0px;
@@ -35,60 +35,60 @@ window > box {
   padding: 0 0px;
 }
 #workspaces button.focused {
-  background-color: #a7c080;
-  color: #2b3339;
+  background-color: "<| color.waybar.workspaceFocusedBg |>";
+  color: "<| color.waybar.workspaceFocusedFg |>";
 }
 #workspaces button.urgent {
-  color: #d8caac;
+  color: "<| color.waybar.workspaceUrgentFg |>";
 }
 #workspaces button:hover {
-  background-color: #d8caac;
-  color: #d8caac;
+  background-color: "<| color.waybar.workspaceHoverBg |>";
+  color: "<| color.waybar.workspaceHoverFg |>";
 }
 tooltip {
-  background: rgb(48, 45, 65);
+  background: "<| color.waybar.tooltipBg |>";
 }
 tooltip label {
-  color: rgb(217, 224, 238);
+  color: "<| color.waybar.tooltipLabelFg |>";
 }
 #mode, #clock, #memory, #temperature,#cpu,#custom-music, #idle_inhibitor, #temperature, #backlight, #pulseaudio, #network, #battery, #custom-powermenu, #custom-cava-internal {
   padding-left: 8px;
   padding-right: 8px;
 }
 #memory {
-  color: rgb(181, 232, 224);
+  color: "<| color.waybar.memory |>";
 }
 #cpu {
-  color: rgb(245, 194, 231);
+  color: "<| color.waybar.cpu |>";
 }
 #clock {
-  color: rgb(217, 224, 238);
+  color: "<| color.waybar.clock |>";
 }
 #idle_inhibitor {
-  color: rgb(221, 182, 242);
+  color: "<| color.waybar.idleInhibitor |>";
 }
 #temperature {
-  color: rgb(150, 205, 251);
+  color: "<| color.waybar.temperature |>";
 }
 #backlight {
-  color: rgb(248, 189, 150);
+  color: "<| color.waybar.backlight |>";
 }
 #pulseaudio {
-  color: rgb(245, 224, 220);
+  color: "<| color.waybar.pulseAudio |>";
 }
 #network {
-  color: #ABE9B3;
+  color: "<| color.waybar.network |>";
 }
 #network.disconnected {
-  color: rgb(255, 255, 255);
+  color: "<| color.waybar.networkDisconnected |>";
 }
 #tray {
   padding-right: 8px;
   padding-left: 10px;
 }
 #window {
-  color: rgb(181, 232, 224);
+  color: "<| color.waybar.windowFg |>";
 }
 #custom-music {
-  color: #87c095;
+  color: "<| color.waybar.customMusic |>";
 }

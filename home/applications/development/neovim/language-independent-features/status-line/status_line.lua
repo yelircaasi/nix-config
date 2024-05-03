@@ -49,13 +49,13 @@ vim.keymap.set("n", "<leader>s", function()
 	--
 	--
 	-- local colors = {
-	--   blue   = '#80a0ff',
-	--   cyan   = '#79dac8',
-	--   black  = '#080808',
-	--   white  = '#c6c6c6',
-	--   red    = '#ff5189',
-	--   violet = '#d183e8',
-	--   grey   = '#303030',
+	--   blue   = 80a0ff',
+	--   cyan   = 79dac8',
+	--   black  = 080808',
+	--   white  = c6c6c6',
+	--   red    = ff5189',
+	--   violet = d183e8',
+	--   grey   = 303030',
 	-- }
 	--
 	-- local bubbles_theme = {
@@ -112,17 +112,17 @@ vim.keymap.set("n", "<leader>s", function()
 	-- Color table for highlights
 	-- stylua: ignore
 	local colors = {
-	bg       = '<| color.nvim.StatusLine.bg |>',
-	fg       = '#455684', --'#bbc2cf',
-	yellow   = '#8c5e26', --'#ECBE7B',
-	cyan     = '#004c4d', --'#008080',
-	darkblue = '#11306e', --'#081633',
-	green    = '#445a26', --'#98be65',
-	orange   = '#b35f00', --'#FF8800',
-	violet   = '#372b87', --'#a9a1e1',
-	magenta  = '#541a66', --'#c678dd',
-	blue     = '#0f67a3', --'#51afef',
-	red      = '#720e13', --'#ec5f67',
+	bg       = '<| color.nvim.statusLine.bg |>',
+	fg       = '<| color.nvim.statusLine.fg |>', -- bbc2cf
+	yellow   = '<| color.nvim.statusLine.yellow |>', -- ECBE7B
+	cyan     = '<| color.nvim.statusLine.cyan |>', -- 008080
+	darkblue = '<| color.nvim.statusLine.darkblue |>', -- 081633
+	green    = '<| color.nvim.statusLine.green |>', -- 98be65
+	orange   = '<| color.nvim.statusLine.orange |>', -- FF8800
+	violet   = '<| color.nvim.statusLine.violet |>', -- a9a1e1
+	magenta  = '<| color.nvim.statusLine.magenta |>', -- c678dd
+	blue     = '<| color.nvim.statusLine.blue |>', -- 51afef
+	red      = '<| color.nvim.statusLine.red |>',  -- ec5f67
 	}
 
 	local conditions = {

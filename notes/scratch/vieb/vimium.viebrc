@@ -1,0 +1,37 @@
+" Options
+set adblocker=update
+set downloadmethod=confirm
+set nofollownewtabswitch
+set mintabwidth=250
+set redirecttohttp
+set restoretabs=pinned
+set searchengine=https://google.com/search?q=%s
+set searchwords=w~https://www.wikipedia.org/w/index.php?title=Special:Search&search=%s
+set tabreopenposition=previous
+
+" Mappings
+nmap v <p.start><p.startVisualSelect>
+nmap d <scrollPageDownHalf>
+nmap u <scrollPageUpHalf>
+nunmap [
+nunmap ]
+nmap [[ <previousPage>
+nmap ]] <nextPage>
+nmap o <toExploreMode>
+nmap O <:tabnew><toExploreMode>
+nmap T <toCommandMode>buffer<Space>
+nmap g0 <:buffer 0>
+nmap g$ <:buffer -1>
+nmap J <previousTab>
+nmap K <nextTab>
+nmap ^ <:buffer #>
+nmap ge <toExploreMode><End>
+nmap gE <:tabnew><toExploreMode>
+nmap x <:close>
+nmap X <reopenTab>
+nmap yt <openNewTabWithCurrentUrl><CR>
+nmap <lt><lt> <moveTabBackward>
+nmap >> <moveTabForward>
+nmap ? <:help>
+
+" vim: ft=vim

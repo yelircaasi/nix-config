@@ -1,8 +1,3 @@
---vim.api.nvim_set_hl(0, "Comment", { bg = "Purple" })
---vim.api.nvim_set_hl(0, 'Normal', { fg = "Green", bg = "Red" })
---vim.api.nvim_set_hl(0, 'Error', { fg = "#ffffff", undercurl = true })
---vim.api.nvim_set_hl(0, 'Cursor', { reverse = true })
-
 --vim.cmd("highlight clear")
 vim.cmd("syntax reset")
 --vim.g.colors_name = 'melange'

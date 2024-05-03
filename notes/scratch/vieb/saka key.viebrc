@@ -1,0 +1,82 @@
+" Options
+set adblocker=update
+set devtoolsposition=split
+set downloadmethod=confirm
+set guifontsize=16
+set mintabwidth=250
+set permissioncamera=ask
+set permissiondisplaycapture=ask
+set permissionmediadevices=allow
+set permissionmicrophone=ask
+set permissionpersistentstorage=allow
+set redirecttohttp
+set restoretabs=pinned
+set noshowcmd
+set splitbelow
+set tabclosefocus=right
+set tabreopenposition=previous
+set notimeout
+set useragent=%firefox
+
+" Mappings
+nmap d <scrollDown>
+nmap s <scrollUp>
+nmap J <scrollPageDown>
+nmap K <scrollPageUp>
+nmap D <scrollPageDownHalf>
+nmap S <scrollPageUpHalf>
+nmap <A-s> <scrollLeft>
+nmap <A-k> <scrollLeft>
+nmap <A-d> <scrollRight>
+nmap <A-j> <scrollRight>
+nmap z <zoomIn>
+nmap Z <zoomOut>
+nmap <A-Z> <zoomReset>
+nmap cc <backInHistory>
+nunmap v
+nmap vv <backInHistory>
+nmap gh <increasePageNumber>
+nmap gf <decreasePageNumber>
+nunmap u
+nmap uu <toParentUrl>
+nmap uU <toRootUrl>
+nmap T <reopenTab>
+nmap b <openNewTabWithCurrentUrl><CR>
+nmap xx <:close>
+nmap xX <:rclose><:lclose>
+nmap x[ <:lclose>
+nmap x] <:rclose>
+nunmap r
+nunmap R
+nmap rr <refreshTab>
+nmap RR <refreshTabWithoutCache>
+nmap [ <previousTab>
+nmap q <previousTab>
+nmap ] <nextTab>
+nmap w <nextTab>
+nmap Q <:buffer 0>
+nmap 1 <:buffer 0>
+nmap W <:buffer -1>
+nmap 0 <:buffer -1>
+nunmap i
+nmap i <moveTabBackward>
+nmap { <moveTabBackward>
+nmap o <moveTabForward>
+nmap } <moveTabForward>
+nmap <A-[> <moveTabStart>
+nmap <A-]> <moveTabEnd>
+nmap m <:mute>
+nmap P <:pin>
+nunmap f
+nmap ff <startFollowCurrentTab>
+nmap fF <:set follownewtabswitch><startFollowNewTab>
+nmap fb <:set nofollownewtabswitch><startFollowCurrentTab>
+nmap fi <insertAtFirstInput>
+nmap yf <openFromClipboard>
+nmap yF <:set follownewtabswitch><:tabnew><openFromClipboard>
+nmap yb <:set nofollownewtabswitch><:tabnew><openFromClipboard>
+nmap <A-;> <toInsertMode>
+
+imap <A-x> <toNormalMode>
+
+" vim: ft=vim

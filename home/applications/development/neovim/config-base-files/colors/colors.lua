@@ -1,6 +1,6 @@
 --vim.api.nvim_set_hl(0, "Comment", { bg = "Purple" })
 --vim.api.nvim_set_hl(0, 'Normal', { fg = "Green", bg = "Red" })
---vim.api.nvim_set_hl(0, 'Error', { fg = "#ffffff", undercurl = true })
+--vim.api.nvim_set_hl(0, 'Error', { fg = "<white>", undercurl = true })
 --vim.api.nvim_set_hl(0, 'Cursor', { reverse = true })
 
 --vim.cmd("highlight clear")
@@ -51,6 +51,8 @@ for name, attrs in pairs({
 	Normal = { bg = "<| color.nvim.Normal.bg |>", fg = "<| color.nvim.Normal.fg |>" },
 	NormalFloat = { bg = "<| color.nvim.NormalFloat.bg |>", fg = "<| color.nvim.NormalFloat.fg |>" },
 	NormalNC = "Normal",
+	
+	-- Cursor: TODO...
 
 	WinSeparator = { bg = "<| color.nvim.WinSeparator.bg |>", fg = "<| color.nvim.WinSeparator.fg |>" },
 	-- VertSplit = { bg = "<|color.nvim.VertSplit.bg |>", fg = "<|color.nvim.VertSplit.fg |>" },
@@ -73,8 +75,8 @@ for name, attrs in pairs({
 	Search = { fg = "<| color.nvim.Search.fg |>", bg = "<| color.nvim.Search.bg |>" },
 	CurSearch = { fg = "<| color.nvim.CurSearch.fg |>", bg = "<| color.nvim.CurSearch.bg |>" },
 
-	StatusLine = { fg = "<| color.nvim.StatusLine.fg |>", bg = "<| color.nvim.StatusLine.bg |>" },
-	StatusLineNC = { fg = "<| color.nvim.StatusLineNC.fg |>", bg = "<| color.nvim.StatusLineNC.bg |>" },
+	StatusLine = { fg = "<| color.nvim.statusLine.fg |>", bg = "<| color.nvim.statusLine.bg |>" },
+	StatusLineNC = { fg = "<| color.nvim.statusLine.nc.fg |>", bg = "<| color.nvim.statusLine.nc.bg |>" },
 	Visual = { fg = "<| color.nvim.Visual.fg |>", bg = "<| color.nvim.Visual.bg |>" },
 	Folded = { fg = "<| color.nvim.Folded.fg |>", bg = "<| color.nvim.Folded.bg |>" },
 	DiffAdd = { fg = "<| color.nvim.DiffAdd.fg |>", bg = "<| color.nvim.DiffAdd.bg |>" },

@@ -1,0 +1,87 @@
+" Options
+set adblocker=update
+set devtoolsposition=split
+set downloadmethod=confirm
+set guifontsize=16
+set mintabwidth=250
+set permissioncamera=ask
+set permissiondisplaycapture=ask
+set permissionmediadevices=allow
+set permissionmicrophone=ask
+set permissionpersistentstorage=allow
+set redirecttohttp
+set restoretabs=pinned
+set searchwords=google~https://www.google.com/search?hl=en&q=%s
+set splitbelow
+set tabreopenposition=previous
+set useragent=%firefox
+
+" Mappings
+nunmap [
+nunmap ]
+nmap [[ <previousPage>
+nmap ]] <nextPage>
+nmap <C-6> <:buffer #>
+nmap <C-^> <:buffer #>
+nmap b :buffer<Space>
+nmap g0 <:buffer 0>
+nmap g^ <:buffer 0>
+nmap g$ <:buffer -1>
+nmap d <:set tabclosefocus=right><:close>
+nmap D <:set tabclosefocus=left><:close>
+nmap o <toExploreMode>
+nmap O <:tabnew><toExploreMode>
+nmap gP <:tabnew><openFromClipboard><:buffer #>
+nmap s <toExploreMode>google<Space>
+nmap S <:tabnew><toExploreMode>google<Space>
+nmap <S-Space> <scrollPageUp>
+nmap <Space> <scrollPageDown>
+nmap zZ <zoomReset>
+nmap zI <zoomIn>
+nmap ZI <zoomIn>
+nmap zM 5<zoomIn>
+nmap ZM 5<zoomIn>
+nmap zO <zoomOut>
+nmap ZO <zoomOut>
+nmap zR 5<zoomOut>
+nmap ZR 5<zoomOut>
+nmap ZQ <:quit>
+
+imap <C-a> <Home>
+imap <C-e> <End>
+imap <C-d> <Del>
+imap <C-h> <BS>
+imap <C-k> <S-End><BS>
+imap <C-u> <S-Home><BS>
+imap <C-w> <C-S-Left><BS>
+
+cmap <C-h> <BS>
+cmap <C-j> <useEnteredData>
+cmap <C-m> <useEnteredData>
+cmap <S-Up> <commandHistoryPrevious>
+cmap <S-Down> <commandHistoryNext>
+
+emap <C-h> <BS>
+emap <C-j> <useEnteredData>
+emap <C-m> <useEnteredData>
+emap <S-Up> <exploreHistoryPrevious>
+emap <S-Down> <exploreHistoryNext>
+emap <C-Tab> <nextSuggestionSection>
+emap <C-S-Tab> <prevSuggestionSection>
+emap <A-f> <nextSuggestionSection>
+emap <A-S-f> <prevSuggestionSection>
+
+pmap <Return> <p.moveDown>
+pmap <Space> <p.moveRight>
+pmap <BS> <p.moveLeft>
+pmap e <p.moveFastRight>
+pmap E <p.moveFastRight>
+
+vmap Y <p.copyText>
+vmap <Return> <p.moveDown>
+vmap <Space> <p.moveRight>
+vmap <BS> <p.moveLeft>
+vmap e <p.moveFastRight>
+vmap E <p.moveFastRight>
+
+" vim: ft=vim

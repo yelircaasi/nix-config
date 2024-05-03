@@ -2,6 +2,7 @@
   pkgs,
   root,
   lib,
+  g,
 }: let
   inherit (root.pkgs) player-metadata;
 in [
@@ -26,24 +27,6 @@ in [
       "network"
       "clock"
     ];
-    "sway/workspaces" = {
-      "disable-scroll" = true;
-      "format" = "{icon}";
-      "all-outputs" = true;
-      "format-icons" = {
-        "1" = "<span color=\"#FF7139\"></span>";
-        "2" = "<span color=\"#019733\"></span>";
-        "3" = "<span color=\"#757575\"></span>";
-        "4" = "<span color=\"#26A5E4\"></span>";
-        "5" = "<span color=\"#0A84FF\"></span>";
-        "6" = "<span color=\"#a738fd\"></span>";
-        "7" = "<span color=\"#019733\">7</span>";
-        "8" = "<span color=\"#757575\">8</span>";
-        "9" = "<span color=\"#26A5E4\">9</span>";
-        "focused" = "";
-        "default" = "";
-      };
-    };
     "idle_inhibitor" = {
       "format" = "{icon}";
       "format-icons" = {
@@ -77,7 +60,7 @@ in [
       "interval" = 1;
       "format" = "{:%H:%M %b %d}";
       "tooltip" = true;
-      "today-format" = "<span color='#ff6699'><b>{}</b></span>";
+      "today-format" = "<span color='${g.color.waybar.clock}'><b>{}</b></span>";
       "tooltip-format" = "{:%A %B %Y}\n<tt>{calendar}</tt>";
     };
     "memory" = {

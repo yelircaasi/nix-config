@@ -1,8 +1,3 @@
---vim.api.nvim_set_hl(0, "Comment", { bg = "Purple" })
---vim.api.nvim_set_hl(0, 'Normal', { fg = "Green", bg = "Red" })
---vim.api.nvim_set_hl(0, 'Error', { fg = "#ffffff", undercurl = true })
---vim.api.nvim_set_hl(0, 'Cursor', { reverse = true })
-
 --vim.cmd("highlight clear")
 vim.cmd("syntax reset")
 --vim.g.colors_name = 'melange'
@@ -51,6 +46,7 @@ for name, attrs in pairs({
 	Normal = { bg = "<| color.nvim.Normal.bg |>", fg = "<| color.nvim.Normal.fg |>" },
 	NormalFloat = { bg = "<| color.nvim.NormalFloat.bg |>", fg = "<| color.nvim.NormalFloat.fg |>" },
 	NormalNC = "Normal",
+	-- Cursor =  TODO...
 
 	WinSeparator = { bg = "<| color.nvim.WinSeparator.bg |>", fg = "<| color.nvim.WinSeparator.fg |>" },
 	-- VertSplit = { bg = "<|color.nvim.VertSplit.bg |>", fg = "<|color.nvim.VertSplit.fg |>" },

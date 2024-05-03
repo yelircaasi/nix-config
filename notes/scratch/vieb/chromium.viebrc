@@ -1,0 +1,39 @@
+" Options
+set adblocker=update
+set cache=full
+set devtoolsposition=vsplit
+set dialogalert=show
+set dialogconfirm=show
+set dialogprompt=show
+set favicons=30day
+set mintabwidth=0
+set permissioncamera=ask
+set permissioncertificateerror=ask
+set permissiondisplaycapture=ask
+set permissionmediadevices=allow
+set permissionmicrophone=ask
+set permissionpersistentstorage=allow
+set redirecttohttp
+set searchengine=https://google.com/search?q=%s
+set splitright
+set suspendonrestore=none
+set tabreopenposition=previous
+
+" Mappings
+nmap <F3> <toSearchMode><nextSearchMatch>
+nmap <S-F3> <toSearchMode><previousSearchMatch>
+nmap <C-g> <toSearchMode><nextSearchMatch>
+nmap <C-G> <toSearchMode><previousSearchMatch>
+map <C-f> <toSearchMode>
+map <C-h> <:history>
+map <C-j> <:downloads>
+map <C-p> <:hardcopy>
+map <C-s> <:write>
+map <C-t> <:tabnew><toExploreMode>
+vmap <C-f> <p.searchText>
+smap <F3> <nextSearchMatch>
+smap <C-g> <nextSearchMatch>
+smap <S-F3> <previousSearchMatch>
+smap <C-G> <previousSearchMatch>
+
+" vim: ft=vim
